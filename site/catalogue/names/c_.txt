@@ -11,7 +11,7 @@ ANEXO C	11406,50
 ANNEX C	3861,3337,6767
 ANNEXE C TABLEAUX POUR L’ÉVALUATION	13300
 ANNEXURE C	5533,6453
-APPENDIX C	11129,728
+APPENDIX C	11129,728,3292
 APPENDIX C BUILDING IDENTIFICATION AND BUILDING	11129
 APPENDIX C SCHEDULE	12967
 ATLAS INTERACTIV C	998
@@ -39,7 +39,7 @@ Alíneas C	12018
 Amoroso C	766,10014,101
 Amy McDonough and Daniela C. Rodríguez	6948
 Angola. C. Beneficiários	11441,1
-Annex C	7198,5205,634,973
+Annex C	7198,5205,634,973,917
 Annex C. Police Helicopter Squadron	14760
 Annex C. Transforming Education Summit	12175
 Annexe C	13300,394,778
@@ -51,9 +51,11 @@ Annexure C Functional Non	13037
 Annexure C Functional and Non Functional Requirements	13037
 Annexure C Table	12917
 Any Cell C	10673
-Appendix C	236,3626,666,2623,115,524,3227,112,1383,493,456,1085
+Appendix C	236,3626,666,2623,115,524,3227,112,1383,493,456,1085,337,266,15,83
 Appendix C Authorisation	34
+Appendix C Microsimulation Analysis of Potential Benefit	15064
 Appendix C Table	7790
+Appendix C Technical Specifications	15154
 Appendix C. Mobile for Business Knowledge and Skills	11017
 Apêndice C QUADROS DA QUALIDADE	10777
 Apêndice C Quadro C.1 Quadro C.2.1	10777
@@ -89,6 +91,7 @@ Bande C Annexe	998
 Bande C CBA-COM-CDD- Conforme	998
 Bande C WHH-CHA-24M- Conforme Hilfe	998
 Bank. C. Financial Management	13938
+Banking. C. ROLE OF NON GOVERNMENTAL	14853
 Barkman C	1219
 Base C	9123
 Bathseba C. Sakala Mr Boniface	13477
@@ -113,19 +116,24 @@ C AUTRE X NE SAIT PAS	13300
 C Article	13293
 C Assess International Focusing	961
 C B P9-30-1	12500
+C C O U N	14935
 C C.1 Pessoa Singular	12018
 C CC	12500
 C CENTRE DE SANTÉ GOUVERNEMEN	13300
+C CERT	14879
 C CHAPITRE IV	13293
 C CHAPITRE Ill	13293
 C CHLOROQUINE	13300
 C COMMITTEE	14434
 C CONCLUSION	14622
 C CUOTA ANUAL	4209
+C Climate Change Adaptation and Mitigation	14897
+C Climate Change Adaptation and Mitigation Sudan	14897
 C Comissão Nacional de Direitos Humanos	6530
 C Commerce	13093
 C Crime	6970
 C DE TERRAIN	13300
+C Description	15129
 C Development	11006,1
 C Domesticate	961
 C E Capacity Building and Competence	14565
@@ -133,6 +141,7 @@ C E H R A ES	2776
 C ENREGISTREZ TOUT CE QUI EST	13300
 C Enable	14674
 C Establish	961
+C F R W CIF	14985
 C FBu	13293
 C FILLE	13300
 C Figure	582
@@ -143,6 +152,7 @@ C Heimann Acting Director-General	11261
 C Hillard-Lomas	14673
 C Homme	13390
 C HÔPITAL DE DISTRICT	13300
+C I L C S	15164
 C I O N Mensual Mensual	4209
 C INFIRMIÈRE	13300
 C INSCRIVEZ	13300
@@ -151,9 +161,11 @@ C INSISTEZ POUR DÉTERMINER AUTRE PERSONNEL	13300
 C INSISTEZ POUR DÉTERMINER LE CENTRE	13300
 C Il	13293
 C In the Development	11006,1
+C L C L	15164
 C L I M A T	11586
 C List	1988
 C Lovis	1824
+C M IN I J U	14947
 C MUTUALITÉ PRIVÉE	13300
 C Mobile	14674
 C Monop-	13461
@@ -198,6 +210,7 @@ C RESPIRATION RAPID...... D RESPIRATION RAPID	13300
 C Report	3972
 C Right	13189
 C Roads	11129
+C S L	15164
 C S S	12373
 C SA Vodacom SA Tmcel Mozambique	1013
 C SI VOUS NE POUVEZ DÉTERMINER	13300
@@ -209,6 +222,7 @@ C Squared InvestCo	610
 C Standards	9123
 C Street NW	5692
 C T Frolick	11272
+C T R P P	14947
 C TI O M N	582
 C TITRE XIV. DES DISPOSITIONS PENALES	13293
 C Transmission	972
@@ -221,7 +235,7 @@ C Vu	13293
 C Yaoundé	9916
 C acc	10975
 C and C	11922
-C and D	11525,342,500,931
+C and D	11525,342,500,931,1866
 C and D Price Code	13385
 C and D. Figure	10785
 C and HIV	14721
@@ -276,11 +290,13 @@ C- Yes Tablet N	582
 C- Zakat	5864
 C. A	7886,3268
 C. A la BRB	13390
+C. ADOPTED INTERNATIONAL STANDARDS EDITION S	15027
 C. AI Model Ownership and Control	5773
 C. AU TITRE DU MINISTERE	7670,651
 C. Access	14714,1
 C. Account Balance Aggregation and Currency Rules	11233
 C. Administration	7977
+C. Annual Work Plan and Budget	14912
 C. Appointment	7845
 C. Appropriate	7845
 C. Architecture	14759
@@ -288,6 +304,7 @@ C. Article	4420
 C. Ascertainment	14717
 C. Assurance	613
 C. Award Public Citizen	5692
+C. Awoodaha Maxkamadda Dastuurka	14859
 C. B	2816
 C. BANK PERFORMANCE Quality	11924
 C. BASE STATION TECHNICAL PARAMETERS	14825
@@ -321,6 +338,7 @@ C. Content	13039
 C. Corruption	3583
 C. Cyber Security	12364
 C. D	1248,7423,4953
+C. DARFUR Azoom	15244
 C. Dairy Cow Farming	12977
 C. Data Security	13381
 C. Deadline	13039
@@ -343,6 +361,8 @@ C. Disclosure	14730
 C. Doobaly Office Management Executive	14835
 C. Draude	9237
 C. E	2816,5787
+C. E-LEARNING	14853
+C. E-Learning	14853
 C. E. Ndhlovu Prof. I. D.T	1154
 C. EFFICIENCY Assessment of Efficiency and Rating Rating	11924
 C. ELECTION SHAREHOLDER ENTITLEMENTS UNDER	4896
@@ -365,6 +385,7 @@ C. FRAMEWORK FOR THE PROMOTION	14742
 C. Failure	14484
 C. Feuille	1218
 C. Fills	3130
+C. Financial InfrastructureReal Time Gross Credit	14897
 C. Financial Management	2889,8636,338,102
 C. Fonction	13390
 C. Fonctionnaires	14424
@@ -375,6 +396,8 @@ C. G. Reddick	5349
 C. Geiger	5349
 C. George	3782
 C. Ghidini	9237
+C. Government	14853
+C. Guddiga	14859
 C. HG SCHLETTWEIN MINISTER OF AGRICULTURE	12924
 C. Headquarters	14410
 C. Hefeker	11310
@@ -384,6 +407,7 @@ C. Homburg	9129
 C. Horse Racing Fund	14843
 C. House Rehabilitation and Reconstruction The National	12977
 C. Huawei	11740
+C. ICT	14853
 C. INDUSTRY INFRASTRUCTURAL DEVELOPMENT	3862
 C. INTEGRATED SOCIAL PROTECTION FOR RESILIENCE	12980
 C. Implementation of VACS Data Project	12977
@@ -392,6 +416,9 @@ C. Increase	14843
 C. Independent Security Audits	14716
 C. Independent Security Audits The National	14716
 C. Industrie	13290
+C. Innovation	14853
+C. Input Validation	15161
+C. Inspection	15161
 C. Instant Payments	11138
 C. Institutional	4214
 C. International	5872
@@ -408,7 +435,7 @@ C. Lagging Preparedness Sub-Saharan Africa	11140
 C. Lang	9128
 C. Lawson	5700
 C. Leadership	13295
-C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1
+C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1605
 C. Legal Operational Policies D. Environmental	1264,5275
 C. Legal Operational Policies Triggered	13331
 C. Lessons Learned and Reflected	11525
@@ -422,9 +449,11 @@ C. M. and Nasrabadi	11258
 C. METHODOLOGIE	13478
 C. MINISTERE DE LA FAMILLE ET	7670
 C. MINISTERE DE L’INDUSTRIE	8321
+C. MULTI-PURPOSE COMMUNITY PUBLIC ACCESS POINTS	14853
 C. MWEETWA	13416
 C. Male	12188
 C. Manufacturing	13060
+C. Market Entry Payment System	14897
 C. Methodology	3583
 C. Methodology Standards	3583
 C. Methodology and Consistency	14777
@@ -432,8 +461,10 @@ C. Modelling	10856
 C. Modelo Nacional de Avaliação	11451
 C. Monetary and Financial Sector Policies	13868
 C. Mouffe	11028
+C. Multi-purpose	14853
 C. N. Habitant	8853
 C. N. Olien	6948
+C. NEXT STEPS AND AGREED ACTIONS	15019
 C. Network and Integration Tests	13185
 C. Newton	4432
 C. Non	13287
@@ -442,17 +473,20 @@ C. O	961
 C. ON THE COMESA-EAC-SADC TRIPARTITE ARRANGEMENT	13440
 C. OTHER CROSS-CUTTING PRIORITIES	11863,2075
 C. Objection	14717
+C. Objective	14927
 C. Objetivos	11898
 C. On-budget	3583
 C. Onyefuluchi	11140
 C. Open Finance Lab	4848
 C. Other Cross-cutting Priorities Poverty	13938
+C. Output	15039
 C. P	8603
 C. PARTICIPANTS AU SYRAD	13838
 C. PDO-Level Results Indicators	11525
 C. PERSONNEL	13478
 C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
 C. PREPARATION OF BIDS	14766
+C. PREPARATION OF PROPOSALS	15080
 C. PROJECT COMPONENTS	11863,2075
 C. Padovani	11028
 C. Parent Project Status and Results	13459
@@ -472,11 +506,13 @@ C. Preparation of Applications	1638
 C. Preparation of Bids	13185,1581
 C. Preparation of Bids C.1. Language	14778
 C. Preparation of Bids ITB	13185
+C. Preparation of Proposals	15080
 C. Preparedness and Response Capabilities The NDMA	12977
 C. Procurement	1284
 C. Program Development Objectives	11905
-C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1
+C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1578
 C. Project Components	11863,2075
+C. Project Financing and Beneficiaries	14937
 C. Proposed Development Objective	761,943,587,1165,7507,1174,289,406,279,1442
 C. Proposed Development Objective Development Objective	14576
 C. Préparation	13524
@@ -486,6 +522,7 @@ C. RATIONALE FOR BANK’S INVOLVEMENT	11863,2075
 C. RECORD BOOKS	11860
 C. REQUEST FOR PROPOSAL CONDITIONS	12400
 C. Rapports	13442
+C. Rationale	14966
 C. Rationale for Bank's Involvement	14080
 C. Rationale for Bank’s Involvement	13938
 C. Rationale for Bank’s Involvement C.1	11863
@@ -494,19 +531,23 @@ C. Reforming Universal Service Mechanisms All	14723
 C. Registration	12452
 C. Regular Audits	4610
 C. Relationship	11905,271
-C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1
+C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1578,27
 C. Request for Proposal Conditions	12400
 C. Resource	12977
 C. Response	14777
 C. Right	1630,1953
+C. Role	14853
+C. SCOPE OF WORK	14928
 C. SCOPE OF WORK Task	13922
 C. SERVICE SPECIFICATIONS	13185
 C. Safeguards	11855
+C. Sathyamala	15220
 C. Sazy	14488,1,1
 C. Sdralevich	1828
 C. Se	12018
 C. Section	13390
 C. Sectoral Context Key PFM Processes1	1284
+C. Session and Cookie Management	15161
 C. Social	12977
 C. Solar Energy Investment Allowance	14717
 C. Statistical Processes	13310
@@ -515,10 +556,11 @@ C. Submission	14717
 C. Subvention Table	12977
 C. Summary	13040
 C. Summary of Activities	12977
+C. Summary of Project	14971
 C. Supporting Capital Access and Sustainable Busi-	4848
 C. Supprimer	13375
 C. Suspension	14843
-C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295,1476,1
+C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295,1476,1,1605
 C. T. Lundblad	11310
 C. TEEVAN	11155
 C. TEEVAN European Commission	11155
@@ -539,6 +581,8 @@ C. Validity	14821
 C. Vellutini. Building Tax Capacity for Growth	13624
 C. Violations of User Rights	12333
 C. Vogeli	5700
+C. WSIS	14853
+C. WSIS FOLLOW-UP The Sudanese	14853
 C. Wang	5700,2905
 C. Wastewater	14745
 C. What Can Be Done Next	1828
@@ -570,7 +614,7 @@ Cat C	5005
 Catalani C	1219
 Categoria C	12018
 Categoria C Fica	12018
-Category C	5005,2690,4173,641
+Category C	5005,2690,4173,641,2379
 Cell C	78,1,4653,318,2006,2855,626,85,51,60,60,4,362,36,64,76,2126
 Cell C All-in-One Plus	11259
 Cell C Buy and Get Promotional Bundles	11259
@@ -630,6 +674,7 @@ C’ River Set	8520
 D C P2-3-1	12500
 D C P9-32-2	12500
 D Deployment C Development Digitalization	11006,1
+D E C E N T	14935
 D E C R E T	1231,13183,4
 D E C-	582
 D'ELIGIBILITE DES REFUGIES C	998
@@ -698,6 +743,7 @@ Freedom C Onuoha	9616
 G A B C D	236
 G Cell C	10673
 G E N C	13841
+G M O N C S	14947
 G. C	11135,1198
 G. C. Bowker	5700
 GDP. C. Conclusion and Policy Recommendations	1828
@@ -725,7 +771,7 @@ HAS Excellent B Satisfactory C Average	5679
 HAS Telecommunications B Job C State	5679
 HON. C. MOYO	13591
 Hawa C. Wagué	1579
-Hepatitis C	12413,2329
+Hepatitis C	12413,2329,314
 Hon. Col. Rtd. K. C. D	13591
 Hon. Dumisani C. Ndlangamandla	12904
 Hon. Felix C. Mutati	7950
@@ -739,9 +785,13 @@ Hyde and Prodelin Idirect X7 Bande C	998
 I C Article	13293
 I C L	4260
 I C O P P	11586
+I C T Operator	15136
 I C T R A N	11586
 I C- Laptop D- Another	582
 I C- Viber D- I-message	582
+I I C C L	15164
+I I C L L	15164
+I I C L S	15164
 I M P A C T	11586
 I N C L U S	11586
 I Use C- Make	582
@@ -756,6 +806,7 @@ ITGov C	9237
 Ihekweazu C	14666
 Imison C	1219
 Impact of C	13998
+Implementation of Package C	15164
 Income Quintile Group BURUNDI C	13624
 Informação Financeira C G J Cofre	6530
 Initial C	13037
@@ -782,6 +833,10 @@ Kamusoko Deputy Chairperson Prof. C. E	1554
 Kenya C	12235
 Kenya C- Uptake	7548
 Kishamawe C. Assessment	3791
+L C C C	15164
+L C C S	15164
+L C S C	15164
+L D E C	14935
 L E OF A C C	13068
 LE C CALENDRIER. INSCRIVEZ LE NOM	13300
 LE CODE POUR C INSCRIVEZ DANS	13300
@@ -793,6 +848,10 @@ Liaisons C	11766
 Licença de Classe C	2866
 Liu C. Health	10919
 M I C S INFRASTRUCTURE	14724
+M IN E C O F	14947
+M IN E D U C	14947
+M IN I C O M	14947
+M M U N I C	14879
 M Series C	606,324,509
 M Series C for MFS Africa	606
 M. C	8604
@@ -879,13 +938,19 @@ P O L I C	12674
 P R O T E C	11586
 P. C	11927,1051
 P. W. C	7548
-PART C	3714,1182,637,5664,21,6,16,10,11,725
+PART C	3714,1182,637,5664,21,6,16,10,11,725,2961
 PDPO. C. EVIDENCE	5113
 PIM. C. Legal Operational Policies	10768
+PMO L C S S	15164
 POL. PERSONAL POL. LUCHA C. R	4209
 POM. C. Sustainability	11417
 PROSPECTUS PART C	3714
 PY CERTIFIED TRUE C PART VII	10974
+Package C	15164
+Package Package C	15164
+Packages A and C	15164
+Packages B and C	15164
+Packages B and C. Institutions	15164
 Panel C	7886
 Par Thibaud C. NAGNONHOU	4077,2695
 Parent Project Design and Scope C. Project	13860
@@ -922,8 +987,10 @@ Progress and Challenges C. Political	13969
 Project. C. Project Beneficiaries	11855
 Projecto C. Beneficiários	11440
 Q4. While Series C	4972
+Quarterly APPENDIX C	15149
 R A T I C RWANDA	11900
 R C- Modem Bande C IRC-CHA-NOR-ARCEP-	998
+R D P R O C	15080
 R E C O M M	12328
 R EFE R E N C	396
 R I C A N D	13938
@@ -934,10 +1001,13 @@ R4.9bn Cell C	11159
 RECEIVED TOTAL COMPLETED CASES C	13504
 RECOMMENDATIONS R E C O M	12328
 RFP Part C	11240
+RS ASTM C	15027
 Rambaud-Althaus C	10881
+Recommendations C	14897
 Ref. C	10769
 Regulamento C	11531
 Regulation C	7
+Republic of Sudan C	14897
 Republic. Part C Insert	3714
 Requirements Specification Annex C	13037
 Revenue and Fiscal Space 4 C. Tax Revenue	10997
@@ -947,8 +1017,10 @@ Réservation AL IZZA C	998
 Réservation CELTEL NIGER SA C	998
 Réservation COMMISSION NATIONALE C	998
 Réservation WAYA C	998
+S B R I C	14947
 S C H E D U	13068
 S C I T S	11236
+S E C T O R	14935
 S IR C M A N	10775
 S S U N C G	14760
 S. C	2518,8617,450
@@ -964,10 +1036,12 @@ Safeguards Specialist Social GSU01 Jose C	11525
 Sandvig C	8460
 Scale C. Order	2307
 Schedule C	11995,489
+Second Edition C. ADOPTED INTERNATIONAL STANDARDS	15027
 Secretario General Adjunto C. Nac. UNESCO	4209
 Secretario Grupo C Segundo Jefe Estado	4209
 Secretario Grupo C Servicio	4209
 Section C	582,179,2047,9329
+Section C. ICT Infrastructure and Systems	15164
 Section I. C	10964
 Security C	7538
 Security Emerging C- Certified	7548
@@ -994,16 +1068,23 @@ Sub-part C	14717,126
 Sub-part C of Part II	14717
 Sub-part C of Part IV	14717
 Sub-part C of Part VIII	14717
+Sudan. C. ICT CONNECTIVITY	14853
+Sudan. C. INNOVATION AND PATENTS	14853
 Supervisor Grupo C Juez Militar Instrucción	4209
 Sénégal. C. Feuille	1218
+T D O C U M	15080
+T E C H N	14879
+T E L E C	14879
 T. C	1243,5,7423
 TABLE OF CONTENTS PART C	11198
+TWG C C L S C	15164
 Table C	7,11243,46,2015
 Table C of Schedule	3714
 Takudzwa C. Amigu	13688
 Tawiah Agyemang C	1219
 Taxa de RTC C	12018
 Teacher Zainab C. Koroma	11651
+Technical Evaluation Criteria ANNEX C	14927
 Telecomunicações. Licença de Classe C	2866
 Telkom Mobile FNB Connect Cell C	11259
 Telkom and Cell C	8668,2552
@@ -1028,7 +1109,7 @@ Vogeli C	8460
 W. C. Sawyer	1828
 Walsh C	9739
 Ward C	3791
-Wing C	10881
+Wing C	10881,4199
 Y C O L L	11157
 Y O P C ER H	582
 Yasin C	12255

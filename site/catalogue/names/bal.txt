@@ -47,11 +47,11 @@ BOM Bank of Mauritius BOP Balance	14777
 BOM Bank of Mauritius BOP Balance of Payments	14777
 BUAP Balcão	10765,10
 Bala Abubakar	5267
-Balaclava	14767
+Balaclava	14767,498
 Balaclava. Mauritius	14808
 Baladirou	14830
 BaladiyaBOT	5948
-Baladna	4807,321,3485
+Baladna	4807,321,3485,6385,245
 Balai Citoyen	8634
 Balai PUB Imprensa Nacional	6571
 Balai. Acquired	6571
@@ -60,7 +60,7 @@ Balaka	10841,1400,819,35,35,10
 Balaka Karonga Lilongwe Mchinji Mwanza	13095
 Balaka and Dowa	13199
 Balaka and Lilongwe	13122
-Balance	7,1863,905,2912,208,1043,717,1236,1902,187,151,3,232,158,431,297,107,141,175,94,208,1479,90,20,28,142
+Balance	7,1863,905,2912,208,1043,717,1236,1902,187,151,3,232,158,431,297,107,141,175,94,208,1479,90,20,28,142,160
 Balance B	13053
 Balance Benefits and Risks	12675
 Balance Disbursed Commitments IBRD	1284
@@ -82,13 +82,14 @@ Balance YABATECH Lecturer Lawal Lateef	10034,231
 Balance of Merchandise Trade	2775
 Balance of Pay-	2775
 Balance of Payment	13122
+Balance of Payment BR	14857
 Balance of Payments	2775,1132,2102,5122,1791,34,167,356,389
 Balance of Payments Eswatini	11134
 Balance of Payments International Investment Position	2775
 Balance of Payments Statistics Expert	14777
 Balance of Payments.10. Capital	14410
 Balance of Trade	2775,2472
-Balanced	4402,2030,6540
+Balanced	4402,2030,6540,2192
 Balanced Legal Framework for Artificial Intelligence	10270
 Balanced Regional Development	13685
 Balanced Repeated Replication	11296
@@ -104,13 +105,15 @@ Balances Women's Equality	10838,1032,482,136
 Balances Women’s Equality	10835,133,918,467
 Balancete	12018
 Balancetes	167
-Balancing	1903,615,1343,815,1756,1174,416,459,756,200,74,618,690,337,133,667
+Balancing	1903,615,1343,815,1756,1174,416,459,756,200,74,618,690,337,133,667,3108
 Balancing Access and Safety	4253
 Balancing Act	5822
 Balancing Act for Kenya's Future	12297
 Balancing Autonomy	6487
-Balancing Innovation	2769,40,2039
+Balancing Digital Transformation and Data Laws	15237
+Balancing Innovation	2769,40,2039,10084
 Balancing Innovation and Equity	4126
+Balancing Innovation and Taxation	14932
 Balancing Operational Excellence	11134
 Balancing Rights and Freedoms	2363
 Balancing Value and Privacy	6538
@@ -138,7 +141,7 @@ Balcão de Atendimento	4214
 Balcões	6537,77,26,120,550,3118,63,994,634
 Baldassarre	11156
 Baldini	1828
-Baldna	9489,1093,81
+Baldna	9489,1093,81,4388
 Baldrige Excellence	14793
 Baldry	8130
 Baldwin	4676,2775,2288
@@ -158,6 +161,7 @@ Balises	14488,1,1
 Balisson	14830
 Balkanisation	961
 Balkans	4432,7351,305
+Balkisa Ibrahim	15231
 BallTalent	1363
 Ballar	12201
 Ballasts	13385
@@ -168,6 +172,7 @@ Ballobh	10
 Balloon-powered	3782
 Ballot	7833
 Ballot Box	14277
+Ballot Card	14852
 Ballots	13513
 Ballotti	13247
 Ballout Counsel Murat Cengizlier Procurement Team	11924
@@ -195,6 +200,8 @@ Bank. GOVERNANCE Sipho Skosana Balance of Payments	11131
 Barrister Balbine Manga	10370
 Boubacar Billo Baldé	9325
 Boukar Michel and GNB's Julio Mamadou Balde	3506
+Broadly Balanced	15164
+Broadly Balanced and T2- Finally	15164
 Burkina Faso. Abdoulaye BALBONE Fatimata ZOUNGRANA	4745
 C- Balance	7548
 C. Account Balance Aggregation and Currency Rules	11233
@@ -217,7 +224,7 @@ Comes Next Would Tip the Balance	8464
 Comité de Balanza de Pagos Trabajos de Seguimiento Coyuntura	4209
 Commission for Gender Equality Javu Baloyi	11257
 Coordonnateur Général de PREA Balisama ANDRIANTSEHENO	14425
-Current Account Balance	2775
+Current Account Balance	2775,12122
 D. BALGOBIN Minister of Information Technology	14735
 DEL BALANCE FINANCIERO DE RECURSOS	4209
 Deposit Category Balance	14546
@@ -243,7 +250,7 @@ E’000 E’000 Total E'000 Balance	11134
 F. Balance of Payments Statistics	14777
 FAO-led Food Balance Sheet Training	13049
 Final Balance	7446
-Fiscal Balance	13685
+Fiscal Balance	13685,1212
 Floor. Baltimore	12413
 Food Balance Sheet	2775,10274
 Fred Balaba	2928
@@ -263,6 +270,7 @@ Inflation and Current Account Balances	2775
 International Monetary Fund. Alfredo Baldini and Alun	1828
 International Trade and Balance of Payments	2775
 IoT Calibration and Solar Grid Balancing	7573
+J.M. and Ballon	15244
 Julio Mamadou Balde. Guinea-Bissau	3506
 Justin Omer Balima. Il	3055
 Jyoti Ball	5837,1530
@@ -301,6 +309,7 @@ Mame Balla Mbow	2442
 Mariam Baluka	8723
 Marisa Balas	11545
 Melchiory Baltazary	1261
+Merchandise Trade Balance	15023
 Meridian System Balances and Summary Statement of Public	14546
 Mhe. Balozi Dkt. Batilda Burian	11643
 Mheshimiwa Balozi Dkt. Emmanuel John Nchimbi	6019
@@ -315,6 +324,7 @@ Mouhoun Balé Bagassi	10875
 Moussa Balla Fofana	1755
 Moussa Balla Fofana. Il	1755
 Mr. Bala Gopalan and Mr. Raj Gautam	12337
+Mr. Baltabaev	15029
 Mr. Kizito Ballans	9730
 Mr. Yahya Bala K. Wambai	11129
 Ms Mumderanji Balakasi	12952
@@ -333,6 +343,7 @@ Ntcheu Chikwawa Salima Phalombe Balaka Nkhota-Kota	12214
 OBJECTIVES Balance	1243
 Office Services Activity BPM6 Balance of Payment	2775
 Olumide Balogun	4109,2784,3632
+Opening Balance	15023
 Order Balance	11131,3
 Organization FBS Food Balance Sheet FCM	2775
 Ousmane BALLO	8577
@@ -343,6 +354,7 @@ Phindile Baleni	11940
 Pour Alphonse Balibié Bayala	2856
 Preface Baldwin Chiyamwaka Principal Secretary	12214
 Presupuesto Balanceado	4209
+Primary Balance	14897
 Primary Balance Fiscal Adjustment and Possible Growth	13868
 Primary Fiscal Balance	13868
 Proportionality and Constitutional Balance Constitutional	3861
@@ -379,11 +391,13 @@ Tanzania Mhe. Balozi Dkt. Emmanuel Nchimbi	7935
 Thyolo Balaka	12241,839
 Thyolo Dedza Chikwawa Balaka Mchinji Mzuzu	13080
 Thyolo and Balaka	12182
+Trade Balance	15023
 Trade Balance Malawi	13053
 Trade Balance VAT Value-Added Tax WDI	11271
 Trade Balance of Trade	11579
 Trade Facilitation Progarmme Balness Sumani Senior	13563
 Transaction and Balance Limits	11861
+Transactions Via Baldna Platform URL	15051
 Trial Balance	14546
 Tripoli Centre Launches BaladiyaBOT for Digital Municipal	5948
 TÍTULO III DEL BALANCE FINANCIERO	4209
@@ -400,6 +414,7 @@ Unremitted Third-Party Balances	14546
 Unsupported Balances	14546
 Unsupported Cash and Cash Equivalent Balance	14546
 Unwithdrawn Credit Balance	14430
+Unwithdrawn Financing Balance	14912
 Unwithdrawn Loan Balance	1914
 V. E. Balas. Springer Nature Singapore	6948
 Venkatesh and Bala	8021

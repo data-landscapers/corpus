@@ -2,6 +2,7 @@ ABBREVIATIONS ADR Adverse Drug Reaction API	9855
 ACRONYMS ACRONYMS AI AIA API DCI	11156
 AML Anti-Money Laundering API Application Program	13312,2
 API Application Programming Interface	11944
+API Application Programming Interface ASSAR Rwanda	14997
 API Application Programming Interface AU African	12512
 API Application Programming Interface BOZ Bank	13347
 API Application Programming Interface DPI Digital	13076
@@ -13,6 +14,7 @@ API ENDPOINT PATH PARAMETER NAMING	6423
 API Endpoints and APIs All API	6423
 API Gateway	5533,1688,5198
 API Gateways	12419
+API Integration for Recurring Debit Orders	15260
 API Interface	11555
 API Medium	12444
 API OAS	1984
@@ -49,7 +51,7 @@ API-PAIEMENT-FACTURE	7212
 API-ZF	14231
 API-ZF. Il	14231
 API-accessible	10730
-API-based	710,4138,1539,926,1119,3927,41,637,1753
+API-based	710,4138,1539,926,1119,3927,41,637,1753,207
 API-based EmaSwati	12444
 API-clean	13272
 API-dependency	7151
@@ -63,20 +65,26 @@ API-sourced	7885
 API-type	550
 API. Developer	6423
 API. Every	6603
+API. G. Data Encryption	15161
+API. L. API Versioning	15161
 API. User Documentation	5665
 APICULTURE VENTURE LIMITED Data Processor INST-627494A7670	7167
 APIDE	6835
 APIEX	8246,4602
 APIEx	10823
 APIFA	9333
+APIN Public Health Initiatives	15321
 APIN's Dr. Olaposi Olatoregun and US CDC	9444
 APIX-SA	7106
 APIs Close	6387
 APIs Elastic	13676
 APIs National	4848
+APIs. API	15161
 APIs. Driving	4528,7984
 APIs. ISO	10721
+APIs. J. Security Headers	15161
 APIs. MVola	2633
+APIs. Open APIs	14997
 APIs. Payment	7173
 APIs. Service	10721
 APIs. South Africa	6593
@@ -84,6 +92,7 @@ APIs. Taxpayer	13624
 APIs. The GSB	2112
 APIs. While GovStack	14566
 APIs4	12021
+APIsfor	15080
 AWS-compatible APIs	14508
 Access API	10721
 Achieve API	13005
@@ -113,6 +122,7 @@ Apis Partners	47,47,285,783
 Apis Partners LLP	94,303
 Aquaculture and Apiculture P1	5636
 Area AML Anti-Money Laundering API Application	12663
+Artificial Intelligence API	14879
 B2B APIs	767
 Bank AI Artificial Intelligence API Application	7548
 Bank Group AI Artificial Intelligence API	13042
@@ -128,11 +138,12 @@ Companies API Application Programming Interface	4214
 Custom API	6423
 Customer API	14438
 DHIS2 API	12754
+DIRECTOR DA APIEX	15291
 DPI-related APIs	13005
 DRS-14 API	6423
 Data Dictionary and API Standards	11940
 Design API	6432
-Develop API	11133
+Develop API	11133,3864
 Develop APIs	14674
 Developmental Model API Advance Passenger Information	11986
 Directions API	1363
@@ -141,11 +152,17 @@ Dispute Resolution API Business-to-Business IGF Inclusive	12444
 Distributed Denial of Service API Application Programming	6432
 Ecobank’s APIs	8341
 Establish API	11133
+Expand Secure APIs	14997
 Expérience API Government Platforms	12043
 External API	11952
+F. API Security Testing	15161
 FDMS Fiscal Device API Gateway	13606
+FSPs X Establish API	15130
 Facebook Graph APIs	592
+Financial Inclusion AML Anti-Money Laundering API	15023
 Fiscal Device API Gateway Requirements Specifications	13606
+Forex API	15023
+Forex API and BI	15023
 Fuel Fiscal Device Gateway API	13606
 GSMA Mobile Money API	2633
 GSMA Mobile Money API Compliant	2633
@@ -156,12 +173,14 @@ Gemini API and Google AI Studio	13461
 GitHub API	12478
 GovStack Digital registries BB Data API template-1.3.0.json	6423
 Government APIs	8449
+I. API Gateway	15161
 IATI Datastore API	6982
 ID APIs	4911
 INRIS API	12453
 INRIS API Manager	4378
 Implement API	6432
 Imposing API and PNR	10723
+Inclusion API	14997
 Informatique Médicale API Application Programming Interface	13306
 Integration and API Requirements	13037
 Intelligence AML Anti Money Laundering API	14674
@@ -172,15 +191,18 @@ Kenya APIYO	6613
 LLM API	11585
 M-PESA API	4087
 MESOB Bridge API Gateway	12215
+MIS-NCR API	14885,63
 MTT AfCFTA AI API BPP CBN	10157
 Make the APIs	14441
 Method API Application Program Interface ATNA	1009
+Monitor API	15161
 National APIs	14819
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
 Network-layer APIs	6593
 None APIs	12270
 None. APIs	12269
+OWASP API Security Top	15161
 Open API	6423
 Open APIs	7596,4763,955
 Open APIs and Protocols	3861
@@ -194,6 +216,7 @@ PSP API. The IPS	12269,1
 PeeringDB API	9442
 Percentage of API	13005
 Provide APIs	6423
+Pulse API	15166
 REST API	9480,2924
 REST API Design Standards	11952
 REST APIs	7266
@@ -206,6 +229,7 @@ Regulated APIs	10719
 Requires APIs	12444
 SDK and API	7065
 SIM Swap and Number Verification APIs	6593
+Secure APIs	14997
 Service APIs	6423
 Service APIs The APIs	6423
 So the API	7885
@@ -215,6 +239,7 @@ Standards Institute API Application Programming Interface	10765
 Storage APIs	13185
 Studies White Papers API Docs FAQ	12211
 Subscription API	6423
+Sudan API Application Programming Interface ARPU	14897
 Sunbird's API	3745
 Support API	6948
 Support for APIs	11133
@@ -222,6 +247,7 @@ Through the API	12490
 Trade Area AI Artiﬁcial Intelligence API	12674
 Truth API	9832
 Twitter API	8436
+USSD and APIs	14997
 Une API	13306
 Unified API	5226,5983
 Use of Open APIs All	6432
@@ -230,5 +256,5 @@ Vertex API	13461
 WDS API	579,649,2553,872,6483
 Web APIs	12693
 World Bank Documents API	980
-World Bank Projects API	13826
+World Bank Projects API	13826,1110,20
 Xecutive AOS Acropolis Operating System API	13185

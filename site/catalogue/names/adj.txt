@@ -26,6 +26,7 @@ Adjamé	9620,1310
 Adjarra	6251
 Adjatou Béré TRAORE	1744
 Adjavon Friggens	6252
+Adjaya Hoarau Publié	15333
 Adjebe	4209
 Adjei	2816,2533,3853
 Adjelon	4209
@@ -39,6 +40,7 @@ Adjogou	3361
 Adjogou. Contactées	3361
 Adjohoun	10876
 Adjoint	5221,904,4699,3601
+Adjoint. Ingingo	15102
 Adjoint. Le Directeur Général	14432
 Adjoumani Kouakou	6591
 Adjournment	3714
@@ -48,7 +50,7 @@ Adjudication	5533,220
 Adjudication Board. Global Money Week	11134
 Adjudication Committee	13462
 Adjudication and Due Process	3861
-Adjudicator	14766
+Adjudicator	14766,314
 Adjudicators	11585
 Adjumani	2928,3507
 Adjumani District	2928
@@ -64,26 +66,27 @@ Adjunto B1 Cónsul General Adjunto B2	4209
 Adjunto B2 Cónsul General B2 Ministro	4209
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
 Adjunto Letrado Mayor Director General Director	4209
-Adjust	12253
-Adjusted	3583,4542,1610,887,117,392,165,1071,46,1710
+Adjust	12253,2911
+Adjusted	3583,4542,1610,887,117,392,165,1071,46,1710,933
 Adjusted Appropriation	11218
 Adjusted Appropriation Bill	11289
 Adjusted Budget	750,540,494,1,2,7,3
 Adjusted CA	13868
 Adjusted CA Norm	13868
 Adjusted CBR	12367
-Adjusted CDR	12413
-Adjusted Crude	12413
+Adjusted CDR	12413,2643
+Adjusted Crude	12413,2643
 Adjusted EBITDA	9735,1058
 Adjusted EBITDA Basis	9735
 Adjusted EV	4896
 Adjusted H1	10793
 Adjusted HEPS	10793
+Adjusted Headcount Ratio	15244
 Adjusted Quality	1818
 Adjusted R²	8075
 Adjusted Value Tax	10870
-Adjusting	3583,7573,68,1189
-Adjustment	2902,7891,503,1117,217,31,310,490,9
+Adjusting	3583,7573,68,1189,2584,59,108
+Adjustment	2902,7891,503,1117,217,31,310,490,9,1586
 Adjustment Appropriation Act	11986
 Adjustment Budget	11251
 Adjustment Fund	7785,4024
@@ -92,6 +95,7 @@ Adjustment for Country Strategies Adjustment	1818
 Adjustment of Fines Act	11178,3,20
 Adjustments	4595,253,7107,1098,815,70
 Adjustments Appropriation Bill	2902
+Adjustments for Non-material Noconformities	15080
 Adjustments of Input Tax	12509
 Administrador Adjunto	10751
 Administradora Municipal Adjunta Todos	10751
@@ -106,6 +110,7 @@ Aristide Adjinacou Gnahoui	2403
 Aristide Guy Adjinacou	3041
 Aristide Guy Adjinacou Gnahoui	3590
 Aristide Guy Adjinacou Gnahoui. Feeds	3387
+Attributions du Gouverneur Adjoint Le Gouverneur Adjoint	15102
 Augustine Gyawu Adjei	10117
 B2 Cónsul General Adj. B3 Primer	4209
 Babatoundé Aloa Adjassa	6977
@@ -209,9 +214,12 @@ General Adjunto C. Nac. UNESCO Jefe	4209
 General Adjunto Oficial Mayor Interventor Abogado	4209
 General Adjunto Presidencia Juez Primer Instancia	4209
 Gobierno Adjunto Delegado Provincial Delegado Distrital	4209
+Gouverneur Adjoint	15102
+Gouverneur Adjoint Le Gouverneur	15102
 IDs. Adjusting	12328
 INGEST ADJUDICATION	1807,3811,859,1378
 INSPECC. GEN. SERV ADJ. R. CONT.-	4209
+INVOICE ADJUSTMENT Article	15177
 Inflation Adj	12256
 Inflation Adjustments	12256
 Information. M. Adji Ali Salatou	3337
@@ -243,6 +251,7 @@ Me Pacôme Yawovi Adjourouvi	9974
 Mercado Adjacente	11430,1
 Ministre Adji	3967
 Ministre Adji Ali Salatou	14315
+Monitoring and Adjustment	15120
 Monsieur Agblulu Latevi Massi LAWSON Adjoint	10237
 Monsieur Aristide ADJINACOU GNAHOUI	5206
 Monsieur Kuassi Ayikue SATCHIVI Adjoint	10237
@@ -258,11 +267,13 @@ Olabissi Adjovi. Cette	2312
 Olushegun Adjadi Bakari	9043
 Os Directores-Gerais Adjuntos	4218
 Overpayment Adjustment Voucher	14533
+PAYE Tax Bracket Adjustment	14985
 PDG Edem Adjamagbo	5054
 Parlamento Secretario General Adjunto	4209
 Parties' Fund VAS Visa Adjudication System	11986
 Paul Adjei	9202
 Peter Adjei-Bamfo	5349
+Petroleum Product Importers Représentant Légal Adjoint	15027
 Portavoz Adjunto Grupo Parlamentario Secretario Fiscalía	4209
 Post-Supply Adjustments	12630
 Posts Adjustment Budget	11251
@@ -275,6 +286,7 @@ Primary Balance Fiscal Adjustment and Possible Growth	13868
 Procuradora-Geral Adjunta de Humanos	10750
 Profit Adjusted	11134
 Pueblo Adjunto	4209
+Regulatory Cost Adjustment	14997
 Representante Permanente Adjunto	4209
 Republic of Namibia HALE Health Adjusted Life	12923
 Results Framework Adjustments	4653
@@ -314,6 +326,7 @@ Silva Directoras-Gerais Adjuntas Equipa Técnica Ezequiel	11421
 South Sudan. Adjusted HEPS	10793
 Structural Adjustment	7233
 Structural Adjustment Programs	7233
+TAX ADJUSTMENT AND TAX EXEMPTION	15177
 TNM CMS Adjudication Service	13005
 Tariff Exchange Rate Adjustment	7933,2635
 Telecommunications Tariff Exchange Rate Adjustment	6874
@@ -323,3 +336,4 @@ Unadjusted Adjusted Year	12413
 Unadjusted and Adjusted	12413
 Visa Adjudication System	5533,6453
 Year Adjustment	13868
+Year Unadjusted Adjusted	15056

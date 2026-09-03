@@ -1,6 +1,6 @@
 ACRONYMS CBR Crude Birth Rate	12367
 AI. Crucially	11050
-Adjusted Crude	12413
+Adjusted Crude	12413,2643
 Amadeu Cruz	3663
 Anfiteatro António M. da Cruz	10752
 Artur Vera Cruz. Segundo	8536
@@ -17,15 +17,17 @@ Convention Against Torture and Other Cruel	14839
 Corporation CDR Crude Death Rate CECM	2775
 Cruciais	11569
 Crucial	571,5610,4308,641,155,1150,602
-Crucially	3002,4,1121,297,6,17,136,389,275,103,13,502,331,789,202,180,1231,13,13,5,208,622,211,245,755,149,22,165,136,7,7,390,39,556,73,374,144,900,242,202
+Crucially	3002,4,1121,297,6,17,136,389,275,103,13,502,331,789,202,180,1231,13,13,5,208,622,211,245,755,149,22,165,136,7,7,390,39,556,73,374,144,900,242,202,997,269
 Crucible	3760,8752,931
 Crud5e.5DCerauthdeRaDteea	12151
-Crude	10780,1358,13,216,46,1231
+Crude	10780,1358,13,216,46,1231,1379,33
 Crude Accreditation Permit	3583
-Crude Birth Rate	12151,216,16,30,58,201
+Crude Birth Rate	12151,216,16,30,58,201,2384
+Crude Birth Rate CDR Crude Death	15056
 Crude Death	12963
-Crude Death Rate	12151,232,30,259
+Crude Death Rate	12151,232,30,259,2384
 Crude Death Rates	12639
+Crude Marriage	15056
 Crude Marriage Rate	12367,272
 Crude Marriage Rate CNR	12639
 Crude Oil Off-takers	3583
@@ -72,12 +74,14 @@ Murban Crude	12256
 Murban Crude Oil	12256
 PUBLIC INPUT CRUCIAL	3445
 Pix. Crucially	11006
-Population Crude	12413
+Population Crude	12413,2643
 Port Louis Cruise Terminal	14742
 Port-Louis Cruise Terminal	14742
 Reference Coglianese and Crum2025	8283
 Santa Cruz	1948,1244,8663
 Secretary of State Mari Cruz Evuna Andeme	3496
+South Sudan Crude Pipeline	14933
+Southern Sudan Crude Pipeline	14933
 Storage of Crude Oil	12256
 Syndicate Crushed	12227
 Tech Crunch	11572

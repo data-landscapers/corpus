@@ -2,11 +2,12 @@ ASIA Indonesia	11004,960
 ASIA Indonesia W	11004,960
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
 Arab States Asia-Pacific Indonesia India International	11563
+Arabia Sudan Morocco Turkey QatMaradagascar Indonesia	14897
 Australia Bangladesh India Indonesia Japan Malaysia	10764
 BI Bank Indonesia BNPL Buy	11994
 BPS Statistics Indonesia BRI Bank Rakyat	11994
 BSPI Indonesian Payment System Blueprint CASA	11994
-Bank Indonesia	11994
+Bank Indonesia	11994,3003
 Bank Indonesia Trials QRIS Tap	11994
 Bank Indonesia. National Payment Gateway	11994
 Bank Rakyat Indonesia	11994
@@ -40,7 +41,7 @@ Indo-Zambia	12335
 Indo-Zambia Bank	13561
 Indo-pakistanais	14488,1,1
 Indoingso	8602
-Indonesia	226,423,441,734,293,288,370,98,929,457,173,172,543,219,316,704,856,160,146,183,28,203,20,148,365,743,408,63,118,30,670,187,71,61,55,84,19,1,128,21,82,232,1,140,83,202,8,1,61,30,1011,37,38,134,410,61,749,292,21
+Indonesia	226,423,441,734,293,288,370,98,929,457,173,172,543,219,316,704,856,160,146,183,28,203,20,148,365,743,408,63,118,30,670,187,71,61,55,84,19,1,128,21,82,232,1,140,83,202,8,1,61,30,1011,37,38,134,410,61,749,292,21,250,132
 Indonesia AT A GLANCE Indonesia	11994
 Indonesia Broadband Plan Iran	11529
 Indonesia Business Post	11994
@@ -104,8 +105,9 @@ Indonesia’s OJK	11994
 Indonesia’s One Data	11133
 Indonesia’s Unified Database of Beneficiaries	11133
 Indonésie	6613,1369,533,825
-Indoor	11269,1152,342
+Indoor	11269,1152,342,2264
 Indoor Building Solution	718
+Indoor Building Solutions	15081
 Indoor Residual	4349
 Indoor Residual Spraying	13454
 Indoor Residual Spraying and Long-Lasting Insecticidal Nets	12606

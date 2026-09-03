@@ -10,6 +10,7 @@ Agência Nacional de Protecção de Dados Pessoais de São	6568
 Agência Nacional de Proteção de Dados Pessoais	3079
 Agência Nacional de Proteção de Dados Pessoais de São	3079
 Agência de Protecção de Dados Pessoais	10747
+Alphacypermetrin Pesticides	15027
 Apêndice D PESSOAL DO INQUÉRITO	10777
 Area Office Gedung Sapta Pesona	10764,80
 Autoridades Nacionais de Protecção de Dados Pessoais	11374
@@ -37,6 +38,7 @@ Condições de Processamento de Dados Pessoais	11374
 Constituição. Sociedades Pesquisar	10753
 Control Estadístico Pesquero Nacional	4209
 Counseling Counseling Observation Pesé1	13300
+Cypermethrin Pesticides	15027
 Cédula Pessoal	10765,10
 Cédulas Pessoais	10765,10
 Código Geral Tributário. Sujeitos Passivos Pessoas	12018
@@ -129,6 +131,9 @@ PESCA Y MEDIO AMBIENTE Servicio	4209
 PESD.3	13885
 PESD1	2989
 PESD2	2989
+PESF149	14997
+PESF150	14997
+PESF161	14997
 PESIDE	11538
 PESIS	10780
 PESOE	4129,376,1,1,1,1,1
@@ -142,7 +147,11 @@ PESSOAS SINGULARES COM ACTIVIDADE COMERCIAL	11435
 PESTEL	6808,6197
 PESTEL. The PESTEL	13005
 PESTLE	13005
+PESU151	14997
+PESU152	14997
+PESU162	14997
 PMP Pest Management Plan POC's Persons	1988
+PPR Peste des Petits Ruminants RSF Rapid	15118
 Pan African Postal Union PESTEL	12759
 Partnership PPR Peste des Petites Ruminants PPR	11197
 Pesa Director Tulisindo Mlupilo	6350
@@ -170,6 +179,7 @@ Pesapal and Paywise	4801
 Pesbay.com	13312,2
 Pesca	4209,6549,1260
 Pesca Artesanal	4209
+Pesca Ilegal	15263
 Pesca de Guinea Ecuatorial	4209
 Pescado	4209
 Pescados	4209
@@ -217,7 +227,7 @@ Pesticidas	1701
 Pesticide Control Unit	13042
 Pesticide Residue Monitoring and Health Surveillance	14818
 Pesticide and Toxic Substance Licence	1988
-Pesticides	8797,416,2056,1120,940,56,1389
+Pesticides	8797,416,2056,1120,940,56,1389,253
 Pesticides and Toxic Substances	1988
 Pilar Pessoas	11569
 Política de Pesca	1701

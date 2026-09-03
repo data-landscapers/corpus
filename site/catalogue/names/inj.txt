@@ -41,8 +41,11 @@ Injonction de Bobo-Dioulasso	7800
 Injunção	6970
 Injure Others	10274
 Injured	2775
-Injuries	21,11110,1020,262,563
+Injuries	21,11110,1020,262,563,1947,133
+Injuries Due	15247
+Injuries External Causes	15056
 Injuries Group	12413
+Injuries Health Facility	15056
 Injuries and Mental Health Prevention and Control Programme	12976
 Injury	11218,6
 Injury and Critical Care Services	14033
@@ -57,6 +60,7 @@ Noncommunicable Injuries	12413
 OU PLUS OU SI LES INJECTIONS	13300
 OU SI LES INJECTIONS	13300
 Pilule DIU Injectables Implants	13300
+Prevalence of Medical Injections	15247
 RIN Injection Eneo	10975
 RIS Injection Eneo	10975
 Respiratory Injuries	12151

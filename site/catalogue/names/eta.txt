@@ -11,13 +11,14 @@ Agence des Etats Unis	14442
 Alliance des Etats du Sa-	6959
 Alliance des Etats du Sahel	3993,66,2900,711,567
 Alliance des Etats du Sahel. Pour	3592
+Alvin Etang Ndip	15064
 Ambassade des Etats-Unis	13724
 Annexe G Etat	14472
 Assemblées des Etats	8237
 Association Professionnelle des Etablissements	10965
 BANQUE DES ETATS DE L’AFRIQUE CENTRALE	11944
 BCEAO Banque Centrale des Etats	11944
-Banque Centrale des Etats	3604,7107,811,45,377
+Banque Centrale des Etats	3604,7107,811,45,377,2905
 Banque Mondiale. Banque des Etats	11944
 Banque de Développement des Etats	11944,1385
 Banque des Etats	969,330,4441,155,1368,3702,979
@@ -34,6 +35,7 @@ Cadre Organique des Etablissements Publics Burundais	2625
 Centrale des Risques des Etablissements	10965
 Chaque Etat	10826
 Comité de Gestion des Etablissements Scolaires CE1	10847
+Commission. Les Etats	14849
 Communauté Economique des Etats	37
 Communauté des Etats	8515,4937
 Communauté. La Communauté des Etats	13452
@@ -45,6 +47,7 @@ Confédération des Etats du Sahel. Il	7670
 Cyber Incub. Etape	5882
 DE CLASSE VI.4.1 NATURE ET ETAT	10847
 DE CLASSE VI.4.2 NATURE ET ETAT	10847
+DE LA COMPTABILITE DANS LES ETATS	14849
 DE LA CONFEDERATION DES ETATS	1967
 DE LA RELATION ENTRE UN ETABLISSEMENT	14417
 DES FOYERS ENRÔLEMENT BIOMÉTRIQUE ETAT CIVIL	14480
@@ -67,6 +70,7 @@ ETA.Ahead	6196
 ETABLISSEMENTS DE CREDIT Section	14429
 ETABLISSEMENTS DE MONNAIE ELECTRONIQUE	11522
 ETABLISSEMENTS DE MONNAIE ELECTRONIQUE Article	11522
+ETAEG1	14897
 ETAPES PRETRAITEMENT ACTIVITES Emballage	14423
 ETAPS de Sampaka	4209
 ETAT CIVIL	3381,10296
@@ -105,7 +109,7 @@ Etablissement. L'Agence Nationale	13825
 Etablissements	10836,731,377,1508,16,357,617
 Etablissements Emetteurs de Monnaie Electronique	13452
 Etablissements F.A.C	13377
-Etablissements Financiers	13390
+Etablissements Financiers	13390,1459
 Etablissements Financiers du Burundi	13314
 Etablissements Financiers du Bénin	10821
 Etablissements Hospitaliers Prives ES	14442
@@ -122,6 +126,7 @@ Etaient	6300,7274
 Etait-il	9731
 Etalon	7670,3205
 Etalons	7670
+Etals	14849
 Etamen	11642
 Etamen Ala El Akhar	11642
 Etant	10826,139,2425,1060
@@ -155,6 +160,7 @@ Etat Effectifs	2342
 Etat Elle	13445
 Etat En	1876,466
 Etat Faustin Archange Touadéra	1591
+Etat Français	14862
 Etat Félix Tshisekedi	3069,749
 Etat Gabonais. Article	1231
 Etat IMC Trop	13300
@@ -226,6 +232,7 @@ Etat. Aussi	7553
 Etat. B2G Payeurs Entreprise	10711
 Etat. Bref	13377
 Etat. C'est	3591
+Etat. CHAPTER VI	14863
 Etat. Ce	14417
 Etat. Cela	6889
 Etat. Ces	2342,2437,3542,5131
@@ -275,6 +282,7 @@ Etat. Section	113,13179,1120
 Etat. Snedai Côte	1576
 Etat. Sont	14444
 Etat. Sur	4812
+Etat. Toute	14861
 Etat. Toutefois	14417
 Etat. Tunis	7767
 Etat. Une	10965
@@ -282,7 +290,7 @@ Etat... Tableau	14479
 Etat.Le	7670
 Etat.Le Centre	7670
 EtatCivil	13761
-Etats	643,94,494,736,475,117,49,200,237,214,97,109,112,15,92,35,318,422,977,597,34,96,293,159,116,228,320,75,316,402,165,79,417,75,479,55,895,90,44,32,70,238,125,13,26,13,604,30,27,18,133,244,124,1222,74,41,304,19,214,359,111,38,9
+Etats	643,94,494,736,475,117,49,200,237,214,97,109,112,15,92,35,318,422,977,597,34,96,293,159,116,228,320,75,316,402,165,79,417,75,479,55,895,90,44,32,70,238,125,13,26,13,604,30,27,18,133,244,124,1222,74,41,304,19,214,359,111,38,9,390
 Etats Généraux	10913,992,2
 Etats Généraux. Specifically	11905
 Etats Membres. Ils	13324
@@ -375,6 +383,7 @@ Statut Général des Etablissements	10975
 Statut Général des Etablissements Publics	10975,6
 Système Statistique National Budget Etat	10874
 TRAITEMENT Etablissement	14423
+Tout Etat	14849
 Trésors Publics des Etats	10237
 UIT. Etant	13324
 Un Etat	1990,3073

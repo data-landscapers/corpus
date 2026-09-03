@@ -1,5 +1,6 @@
 AIDS and TB	771,11958
 Achèvement TBFS	737
+Africa TBD	14997
 Angola TB	10784
 Annual TB	4301
 Avatar of TBryMMz	12478
@@ -20,7 +21,7 @@ Document Scanners TBA TBA	1988
 Drivers Licence ZRCP TBA	1988
 E- During TBD Increased	12253
 E- During TBD Operation	12253
-EFFICACY TBL OBJECTIVE	10779
+EFFICACY TBL OBJECTIVE	10779,4109
 Ensino Secundário Geral Província TBE	10766
 Ensino Secundário Província TBE	10766
 Ensino Secundário TécnicoProfissional Província TBE	10766
@@ -28,9 +29,11 @@ Entry-level Printers TBA	1988
 Ethical Committee TB Tuberculosis Declarations Ethics	12379
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Global TB	4301
+Global TBD	14997
 HIV TB	4301
 HIV and TB	3385,832,84,10006
 Heart of Health Management TBI	7764
+High. Rating Relevance TBL Rating High	14888
 I Can End TB	2626
 I TBnodRed	4301
 II. TB	4260
@@ -41,6 +44,7 @@ KENYA WITH TB	14546
 KoN and TB	771
 Label of ZRCP TBA	1988
 Laboratory Commodity TB Lab Commodities HIV	4217
+Large TBD ETFs	14997
 Le TBFS	737
 Lesotho TB National Prevalence Survey	12678
 MW Equinix TBD Abidjan In Construction	10861
@@ -53,16 +57,19 @@ Mozambique. HIV and TB	771
 NSP TB	10776
 National TB	10784
 Network Equipment for Data Center TBA TBA	1988
+Number of TBD	14997
 OHS TBD	4260
 Outcomes RESULT FRAME TBL PD O Indicator Name	1284
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
+PMTCT and TB	14923
 Patients Screened for TB	12977
 Planification Economique ADD FIN TBL1	1284
 Policy Areas EVOBJ TBL Page	10779
 Previous TB	12678
 Project Development Objective Indicators RESULT FRAME TBL PD	10964
+Project Objectives and Components DEVOBJ TBL	14888
 QC QMS RTCQI SHA STI TB	4153
 Qty TBD	12763
 Qty TBD TABLE	12763
@@ -152,7 +159,9 @@ TBC Frontiers	5241
 TBC Frontline Healthcare Worker Type	4167
 TBC Public-Private Partnerships for Collaborative Regulation	5241
 TBC Simultaneous PforR	3604
+TBD Administrative	14935
 TBD Agriculture	970
+TBD Business Census Reports	14935
 TBD Cooperation	970
 TBD ESS	13523
 TBD F Good Governance	970
@@ -181,6 +190,7 @@ TBT Agreement	14736
 TBT Annex	13320
 TBT Enquiry Point	13320
 TBT NEP	14736
+TBT National	15127
 TBT National Enquiry Point	14736
 TBTuberculosis Kenya Vital Statistics Report	12151
 TBnotified	4301
@@ -190,6 +200,7 @@ Target RESULT FRAME TBL PD O Indicator	13331
 Taux Brut de Mortalité TBR	13377
 Tb Capacity for Backup. Production	11209
 Tbilisi	12413
+Tbill	14997
 Tbits	5138,9307
 Tbps BB	10995
 Tbps Peak Traffic Handled	13704

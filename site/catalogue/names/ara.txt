@@ -4,10 +4,11 @@ ARAB FINANCIAL SERVICES CO. B.S.C.CLOSED Data	7167
 ARABELLA SMILE DENTAL CLINIC Data Processor	7167
 ARABIA SAUDITA	4209
 ARABIAN DENTAL CARE LIMITED Data Controller	7167
-ARABIC	12376,1615
+ARABIC	12376,1615,865
+ARABIC ECONOMIC AND SOCIAL COMMISSION	14853
 ARABICA RIVER SLOPES LIMITED Data Processor	7167
 ARABOSAI	10002
-ARABSAT	9262
+ARABSAT	9262,5591
 ARABSAT and LTT	9262
 ARABSAT and Libya	9262
 ARABSOFT and ORADIST	11001
@@ -28,11 +29,13 @@ ARATUS HEALTH PHARMACY LLP Data Processor	7167
 ARAWA HOSPITAL LIMITED Data Controller INST-128395C2171	7167
 ARAWA HOSPITAL LIMITED Data Processor INST-128395C2171	7167
 ARAYA CHAVES	6613
+Across the Arab	15120
 Africa Americas Arab States Asia-Pacific CIS	11563
 Africa Americas Arab States Fixed	11563
+Africa Arabia-Sudan-1 Arabia-Sudan-2	14897
 Africa Burundi Arab States Syrian Arab	11563
 Africa Finance Corporation and Saudi Arabia's Vision	14404
-African and Arab	7169
+African and Arab	7169,7863,310
 Agence Maghreb Arabe Presse	308
 Agence Maghreb Arabe Presse Chapitre	308
 Agriculture and Food Safety. The United Arab	11185
@@ -45,7 +48,7 @@ Arab AI Committee	3160
 Arab AI Working Group	3160
 Arab Academy for Science	8645
 Arab Africa	6946
-Arab Bank for Economic Development	9047,1933,1654,2196
+Arab Bank for Economic Development	9047,1933,1654,2196,425
 Arab Bank for Economic External Auditors	12358
 Arab Center for Arabization	2958
 Arab Charter	2958
@@ -65,10 +68,12 @@ Arab Finance	11739
 Arab Fund for Economic and Social Development	13868
 Arab Global Forum for Digital Cooperation and Development	8645
 Arab Information and Communication Technologies Organization	8645
+Arab Information and Communication Technology Organization	15120
 Arab League	2958,202
 Arab League Educational	2958,202
 Arab Maghreb Union	7423,6715
 Arab Maghreb Union AI	6937
+Arab Market Towers	14952
 Arab Marketing Agency	8133
 Arab Member States Country Expert Name	2958
 Arab Ministers of Council for Communications and Information	8534
@@ -93,27 +98,32 @@ Arab Republic of Egypt Right Honourable Russell	13440
 Arab Satellite Communications Organization	9262
 Arab Scientific Research and Artificial Intelligence Ethics	2958
 Arab Stamp Exhibition	8645
-Arab States	6946,3818,799,2098,4,237
+Arab States	6946,3818,799,2098,4,237,1218,72,52
 Arab States ASP	14836
 Arab States Algeria Global Cybersecurity Index	10764
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
 Arab States Asia-Pacific Indonesia India International	11563
 Arab States Egypt International Telecommunication Union	10764
 Arab States Mauritius	6946
+Arab States Region	15120
 Arab States T5 Building Yemen T4	10764
 Arab States and Africa	10764
+Arab Submarine Cable Company	15284
 Arab Telecommunications and Information Ministers Council	4865
 Arab World	2958
+Arab and African	15342
 Arab and International Cooperation	2958
-Arab and Islamic	14545
+Arab and Islamic	14545,575
 Arab de Malabo II-Semu	4209
 Arab-Chinese	8645
 Arab-speaking	6791
+Arab-world	14851
 Araba	6948
 Araba Sey and Oarabile Mudongo	6948
 Arabi	9681
-Arabia	6790
+Arabia	6790,8339
 Arabia Saudita ALJINDAN	6613
+Arabia Sudan Morocco Turkey QatMaradagascar Indonesia	14897
 Arabia X Senegal X Sierra Leone	11005
 Arabia Yes High-speed Fiber-optic Broadband Initiative	11529
 Arabian	411
@@ -121,13 +131,15 @@ Arabian Peninsula	1741
 Arabian Sea	4676
 Arabian Sea and Arabian Gulf	3342
 Arabian Travel Market United Arab Emriates	11185
-Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1,198,152,119,81,616
+Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1,198,152,119,81,616,109,1,1,44,8,19,92,8,29,127
+Arabic Contact Us	14995
 Arabic LLM	6232,337
 Arabic PDF	11153
 Arabic and English	4091
 Arabic and French	3896,9837
 Arabic-host	6584
-Arabic-language	6947,3730
+Arabic-language	6947,3730,4339,326
+Arabic-speaking	15245
 Arabic. Arabic	6947
 Arabica-roasting	10592
 Arabie	4919,1694,126,385,209,539,367,451,1232
@@ -175,6 +187,7 @@ Araya Deepa Seeburn Procurement Specialist Procurement	11332
 Asia-Pacific Arab States	11563
 Assad Arabi	9681
 BADEA Arab Bank for Economic Development	11549
+BBC News Arabic and Patricia Whitehorne	15252
 Bangla and Arabic	7790
 Banque Arabe	11549
 Bernadette Arakwiye	5070
@@ -195,19 +208,23 @@ Culture Arab	2958
 DIASPORA ENGAGEMENT IN SAUDI ARABIA	14645
 De Araujo	4432
 Debela Ararsa	14010
+Desertification NCVC Saudi Arabia	15129
 Develop Future Arab Entrepreneurs Next Article	5322
 Dinka and Juba Arabic. Crails	9944
 Director General of Arabic World	13744
+Dr. Arakwiye	15110
+Dr. Arakwiye Bernadette	15110
 Dr. Araya Zerai	14117
 Dr. Araya Zeray	14147
 Draft Arab Charter of Ethics for Artificial Intelligence	2958
 Déogracias Arambo	6157,218,1166
 EMIRATOS ARABES UNIDOS DUBAI	4209
-English and Arabic	6947
+English and Arabic	6947,8298
 Eritrea and Saudi Arabia	13959
 Evid Araka	2742
 FITSIPIKA ARA-PITONDRAN-TENA FITSIPIKA ARA-PITONDRAN-TENA	14488,1,1
 Farm Arandis Townlands No	13189
+Few Arab	14897
 First Arab Regional Forum	8645
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 Forum Arabe des Régulateurs	10975
@@ -215,26 +232,33 @@ Franco arabe Passerelle	10847
 French and Arabic	2975,10769,30
 GOVERNMENT OF THE UNITED ARAB EMIRATES	13326
 Government of Saudi Arabia	12710
+Governor of Saudi Arabia's Communications	14974
 Gustavo Pérez Ara	8163,33
 HARDAP REGION ARANOS	13046
+Higher Authority of Arabization	14851
 Higher Education Minister Office Saudi Arabia	2958
 Hong Kong English Arabic English French	14771
 ID United Arab	10714
+IGAD and Arab	15146
 INST-5429241D0B5 NAIROBI United Arab Emirates	7167
-ITU Arab Regional Office	3750,4895
+ITU Arab Regional Office	3750,4895,6350
 India Arab Senior Officials' Meeting	13744
 India and Saudi Arabia	5035,3360,3756
 Institution Jordan Eng. Luma Arabiyat Director	2958
 Inter-Regional CyberDrill for Africa and Arab States	13665
+International Telecommunication Union and Saudi Arabia's CST	14974
+Irembo. Dr. Arakwiye	15110
 Israel and Saudi Arabia	1741
 Jordan and Saudi Arabia	1741
+Jordan and United Arab Emirates	14897
 Jordan. While Levantine Arabic	6705
 Jordanian Arabic	6705
-Kingdom of Saudi Arabia	8645,1000,3065,1297,398,240,194
+Kingdom of Saudi Arabia	8645,1000,3065,1297,398,240,194,14,221,18,143
 Kingdom of Saudi Arabia Senegal Yes Plan	11529
 Kiswahili and Arabic	11133
 Kuwait Fund for Arab Economic Development	13868
 League of Arab States	2958,202,4973,512,1393,1700,2164
+League of Arab States. The Ministry of Foreign	15072
 Lebanon. Arab Voices	11487
 Levantine Arabic	6705
 Levantine Arabic and African French	6705
@@ -264,13 +288,15 @@ President United Arab Emirate Mohamed	12026
 Principe Saudi Arabia Senegal Serbia Seychelles	11470,295
 Privé Classique Satellite Bilingue Franco arabe Passerelle	10847
 Project Arachnid	11648,140
+RSF and Arab	15342
+RSF-affiliated Arab	15342
 Regional Office for Arab States	13776
 Regional and International Cooperation The Arab Charter	2958
 Respect for Arab	2958
 Rome’s Arab Italian Trade Forum	5264
 Rwanda Saudi Arabia Serbia Singapore Slovenia	10764
 Sahrawi Arab Democratic Republic	13370
-Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51,339,192,215,44,76,375,57,14,140,100,148
+Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51,339,192,215,44,76,375,57,14,140,100,148,104,12,65,27
 Saudi Arabia Canada	12151
 Saudi Arabia EACO and Smart Africa	2511
 Saudi Arabia Global Cybersecurity Index	10764
@@ -284,6 +310,7 @@ Saudi Arabia's Minister of Foreign Affairs	14645
 Saudi Arabia. Asmara	13959
 Saudi Arabia. Cable	1741
 Saudi Arabia. The Ministry of Defence	10701
+Saudi Arabia. The Sudanese	14853
 Saudi Arabian	14405
 Saudi Arabian Mining Company	4447
 Saudi Arabia’s US	12339
@@ -295,9 +322,12 @@ Six Arab Countries The NTRA	11642
 Solar PV Solicited IPPs OLC Arandis	12399
 Somalia NIRA Joins Arab Nations	10521
 Somalia State of Palestine Sudan Syrian Arab	10764
+Somalia and Saudi Arabia	14974
+Somalia. Dr Arash Rashidian	14923
 Sonia Araujo	12701,1149
 Soo Koobid Fulinta Aragti	11136
 Sri Lanka LKA Syrian Arab Republic	13082
+Sudan TurkeSyaudi Arabia UAE EgypthMorocco Lebanon	14897
 Sudan and Arab	8133
 Sudan and Saudi Arabia's Jeddah	10583
 Suriname Sweden Switzerland Syrian Arab Republic	11765
@@ -310,17 +340,22 @@ Tigrinya and Arabic	14045
 Timor-Leste DE ARAUJO ALMEIDA	6613
 Tome and Principe Angola Iraq Saudi Arabia	11005
 Tses Community Hall ERONGO REGION ARANDIS	13046
+U ARAGTO IN LAGA SOO SAARO	15152
+UAE United Arab Emirates	15220
+UAE United Arab Emirates UN United	15342
 UAE and Saudi Arabia	4324,928
 UNDRR Regional Office for Arab States	13776
+UNFPA Arab States Regional Office	14894
 Ukraine United Arab Emirates United Kingdom	11470,295
 Unequal Distribution of Technology Arab	2958
 Unified Arab AI Standards	11135
 Union des Banques Arabes	10718
 United Arab	9399
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates Government	13795
+United Arab Emirates Mogadishu	15072
 United Arab Emirates UHC Universal Health	2775
 United Arab Emirates UN United Nations	11960
 United Arab Emirates Yes ICT Fund	11529

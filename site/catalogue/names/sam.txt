@@ -1,3 +1,6 @@
+A.2 Sampling Frame	15247
+A.3 Sample Design and Implementation	15247
+A.4 Sample Probabilities and Sampling Weights	15247
 ACK SAMUEL ACHOLA MEMORIAL BANDE Data	7167
 ACTUALITE.CD Samedi	5117
 ADC Dev and ADC Sam	4730
@@ -8,6 +11,7 @@ AI. Sample Key Target	12444
 AVE Sampling	9129
 Abdou Sarr Michel Toukam Samwel Mbugua	13300
 Accord de SAMOA	3045
+Administrative Unit Secondary Sampling Units	15244
 Adolphe Nicaise Samafou	6333,26,23
 Afghanistan Guinea-Bissau Samoa Algeria Haiti Sao	11005
 Africa. By Samira Njoya	2760
@@ -19,6 +23,7 @@ Ahmed Sami	6653
 Ainabkoi MP Samuel Chepkonga	14222
 Akhona Sampson	1009
 Alegp Usonga MP Samuel Atandi	6316
+Alexandre Sambat Stadium	15316
 Alien Species Project Manager Sameer Kaudeer	11332
 Anip. Samedi	6217
 Another Total Same	12413
@@ -57,7 +62,7 @@ Congo. By Samira Njoya	2306
 Coordenadora Filipe Samuel	10757
 Corner Sam Nujoma Street and Julius Nyerere	13503
 Corporation Samauma Consulting LLC	10780
-Counts Percentages Same	12413
+Counts Percentages Same	12413,2643
 Coverage Is Not the Same	9112
 Cross-Enterprise SAML	1009
 Customer Reach Challenge Samoei	11033
@@ -90,6 +95,7 @@ E Sample	10781,3701
 ECCE1 Peer Reviewers Samba Cor DIOP	11863
 EICV. Samples	12403
 EICV7. Sampling The EICV7	12403
+ESTIMATES OF SAMPLING ERRORS	15247
 ETAPS de Sampaka	4209
 EU and Irish Aid. Sambo	2930
 EX-OFFICIO MEMBER Sam	12951
@@ -193,9 +199,11 @@ Judith Saminwa	3315
 Justice Samuel Deme	13698
 KALIZA BWIZA GWIZA SAMANTHA	12338
 Karankasso Sambla	10875
+Karen Sam	14932
 Kenyan President William Samoei Ruto	6715
 Kerala Samajam	12617
-Kind of Data Sample	10862
+Khalid Hassan Samatar	14896
+Kind of Data Sample	10862,4162
 Kingsley Samuel The Federal Government	8627
 Kota Samarahan	7759
 Kukula Capital and Samurai Incubate	12376
@@ -255,6 +263,7 @@ Mr. Nesbert Samasuwo	13042
 Mr. Sam George	4706
 Mr. Samson Itodo	5825
 Mr. Samson Phiri	34
+Mr. Samuel Kabano	15019
 Mr. Samuel Nebiyou	12500
 Mr. Samuel Njuru	11807
 Ms Sambo	8650
@@ -313,7 +322,7 @@ President Samia	1644,12956
 President Samia Suluhu	1644,3109
 President Samia Suluhu Hassan	741,647,1978,1348,1074,295,40,439,953,2989,3733,155,208
 President William Samoei Ruto of Kenya and Salim	1639
-Primary Sampling Units	582,14233,17
+Primary Sampling Units	582,14233,17,412
 Primary Sampling Unity. RPHC	12403
 Prime Minister Sam Matekane	2669,814
 Prime Minister Sam Matekane and Minister of Foreign	11053
@@ -374,6 +383,7 @@ SAMCO South Africa Representation	13769
 SAME EVENT	2322,4938
 SAME MoU	5286
 SAMEA Biennial Conference	11224
+SAMEEYO XILLIGA KOOWAAD EE BAARLAMAANKA FEDDERAALKA	14859
 SAMESWERING	11190
 SAMIDRC	11289
 SAMIFIN	6938,7512,99
@@ -385,6 +395,7 @@ SAMOA. L'Accord de SAMOA	3045
 SAMOS	6672
 SAMPLE CHARACTERISTICS Survey	12090
 SAMPLE CONTRACT FOR CONSULTING SERVICES SMALL	13037
+SAMPLE DESIGN	15244,3
 SAMPLE KEY CHARACTERISTICS Nigeria Ghana Cote-d’Ivoire	10861
 SAMPLE KEY PROJECTS Provider Facility Metro	10861
 SAMPLE WEST AFRICAN MARKETS Country	10861
@@ -399,7 +410,7 @@ SLB CEO Samuel Seboka	4983
 SMS. Le Dr Samfat	10029
 STATE HON. SAMUEL NARTEY GEORGE	4126
 Sadna Samaranayake	10964
-Sam Adeyemo	4127
+Sam Adeyemo	4127,10805
 Sam Altman	2379,437,2734,971,194
 Sam Altman’s OpenAI. Penguin Press. Heermann	11050
 Sam Darwish	9639
@@ -451,6 +462,8 @@ Samaritan's Purse	8479
 Samarkand	12565
 Samasource Kenya EPZ	5616
 Samatar Omar Elmi	1715
+Samaynta	14859
+Samaynta Guddiyada Madaxa Bannaan	14859
 Samba	10751,25,99,571
 Samba Cissé	9286
 Samba DIOUF	8391
@@ -502,23 +515,28 @@ Same-event	7299
 Samedi	2565,1139,637,680,1,1011,1184
 Sameer	594,10542,2672
 Sameer Business Park	12285
-Sameer Goyal	11136
+Sameer Goyal	11136,4021
 Sameer Industrial Park	594,11691
 Sameera Khan	12500
 Samegrelo- Zemo Svaneti State Representative and Municipal	14621
 Samendeni Disponibilité du Procès-Verbal	3396
 Samer Matta	11136
 Sametria McKinney	10764
+Sameyn	14859
+Sameynta	14859,47,141,105
+Sameynta Sanduuga Mideysan	15047
 Samfat	6993,3036
 Samfya District	13392
 Sami Alkhair	12033
 Sami Anouar	14472
 Sami Bhattacharya	9399
+Sami M. Alhomod and Mohd Mudasir Shafi	14965
 Sami Salih	14240
 Sami Tunji The Nigeria Data	8118
 Samia	1644,7240,493
 Samia Helen	10714
 Samia Melhem	10714,98
+Samia Nihar	15220
 Samia Omar	13935
 Samia Suluhu Hassan	5783
 Samia Touchen	3520
@@ -585,7 +603,7 @@ Sampaka	4209
 Sampaka-Malabo Malabo	4209
 Sampandraharaha	14450
 Sampay and SendHome. Using SendHome	11899
-Sample	418,794,7,42,1923,1,200,406,70,224,440,1154,2309,614,1,2,524,416,1267,183,141,123,10,27,109,180,283,270,229,12,48,551,440,1335,62,17
+Sample	418,794,7,42,1923,1,200,406,70,224,440,1154,2309,614,1,2,524,416,1267,183,141,123,10,27,109,180,283,270,229,12,48,551,440,1335,62,17,172,23,53,152,12
 Sample AI Governance Assessment Template	6442
 Sample Accreditation Model	6488
 Sample Angola	10781
@@ -593,7 +611,8 @@ Sample Based Registration System	13596
 Sample Budget and Capacity Audit Templates Category	3861
 Sample Cameroon	10995
 Sample Contract for Consulting Services	13037
-Sample Design	13454,613
+Sample Design	13454,613,1177,3
+Sample Design and Selection The S-MPS	15244
 Sample Execution Risks and Potential Mitigation Strategies	11857
 Sample Form	13037
 Sample Form of Evaluation Report	11525
@@ -601,11 +620,14 @@ Sample Forms Section	14766
 Sample Key Target	12444
 Sample Key Target Launch	12444
 Sample Letter of Presentation	7368
+Sample Listing and Selection Local	15244
 Sample Madagascar	14482
 Sample Nigeria	4525
+Sample Proposal Forms	15080
 Sample Repository	7988
 Sample Rwanda	12427
 Sample Size	12978,440
+Sample Size and Allocation Considering	15244
 Sample Table	1778
 Sample Zimbabwe	3185
 Sample-Based Registration System	13596
@@ -615,15 +637,18 @@ Sampled	11258
 Sampled Respondents	12978
 Sampled Respondents Table	12978
 Samples	1554,6434,2726,1812,368
-Sampling	418,164,637,2642,3417,3917,101,606,329,148,24,254,242,406,1414,96,17
+Sampling	418,164,637,2642,3417,3917,101,606,329,148,24,254,242,406,1414,96,17,412
 Sampling Design	12445,533
 Sampling Design Sampling	12978
 Sampling Frame	10862,1547,36,973
+Sampling Frame Structure	15244
+Sampling Frame for SIBES Phase II	15085
+Sampling Frame for SIBES Phase II Data	15085
 Sampling Note	10862,114,898,7,1,464
 Sampling Note-Consolidated-2-16-22.pdf	10862
 Sampling PAGE	2775
 Sampling Purposive	14666
-Sampling Sampling Procedure	13084,675
+Sampling Sampling Procedure	13084,675,1265
 Sampling Sampling Procedure The WBES	10862
 Sampling Selecting	11258
 Sampling Stages	13418
@@ -684,11 +709,13 @@ Samuel MUHIZI	13482
 Samuel Matekane	12669
 Samuel Monjane Layout	12148
 Samuel Motey	236
+Samuel Muhimba	15313
 Samuel Muhizi	13530
 Samuel Mungadze	6238,618,1318,1178,435
 Samuel Mungadze Surging	10739
 Samuel Muriithi	14555
 Samuel Mutale Senior Planner	13392
+Samuel Mwaura and Maryann Kamau	14932
 Samuel Nacoulma	10546
 Samuel Nartey George	2338,376,515,21,809,1105,55,8,71,221,13,169,231,14,24,206,66,109,717,90,214,1,914,76,2,183,200,19,180,590,580
 Samuel Nartey George. The Minister	4174
@@ -723,6 +750,7 @@ Section VI Sample Forms	14766
 Section VI. Sample Forms	14766
 Sector Minister Hon. Samuel Nartey George	10584,1
 Security Mark-up SAML	12360
+Selection of Sample	15244
 Selon Samba Diouf	7124,3453
 Service du Suivi des Engagements Contractuels SAMF	10975
 Severin NDAGIJUMUKAMA Samuel UWIMANA Willy NDAHANGAJE	13300
@@ -753,6 +781,7 @@ Telegram Sambaza	6327
 Tendai S. Samusodza	8130
 Tendai S. Samusodza Department of Information Technology	8130
 Teraco CFO Samuel Erwin	1951
+Tertiary Sampling Units	15244
 Theme Sample Indicators	14752
 Togo. Samira Njoya Lire	7582
 Trump National Security Strategy. Same	4258
@@ -764,6 +793,7 @@ WS-Federation SAML	12359
 Weighting Sample	11296
 West Africa. By Samira Njoya	2257,477
 Widiger and Samuel	8283
+William Sam	15064
 William Samoei Ruto	14230
 Wissal Samlali	3127,1
 Wissal Samtali	3126

@@ -25,9 +25,11 @@ Avatar of Knight-Industries3000	12478
 Awareness and Knowledge Efforts	2958
 BAI08 Managed Knowledge	9237
 BMIT Knowledge Group	10129
+BNR Knowledge	14997
 Bank ATM Know	418
 Bridging the Knowledge Gap	11927
 Building Capacity and Sharing Knowledge	11407
+Building Foundational Knowledge	15245
 Building Knowledge and Capabilities	1200
 Business Knowledge and Skills Guide	11017
 CAD Knitting Workshop for MACODA	13095
@@ -42,19 +44,22 @@ Chamber of Telecommunications Knowledge Forum	11132
 Chief Executive Officer of KNCCI	9852
 China Disability Inclusion Knowledge Exchange Platform	9767
 ClimSA Communications and Knowledge Management Officer	11283
+Climate Change Knowledge Portal	14896
 Cloud Knowledge and Skills	1810
 Colin Lankshear and Michele Knobel	6948
 Colin Lankshear and Michele Knobel. Peter Lang	6948
 Collaboration and Knowledge Sharing Pursuant	11134
 Communication and Knowledge Management	14723
 Communications Authority and KNBS	11086
-Contraceptive Knowledge and Use	13454
+Contraceptive Knowledge and Use	13454,1793
 Customer and Agent Know Your Customer	10775
+DAMA Wheel of Data Management Knowledge	15034
 DID YOU KNOW	11424
 DPIA Electronic Know Your Customer NPS	12444
 Danish Institute for Human Rights and KNCHR	2615
 Data Capacity and Integrated Geospatial Knowledge	14090
 Data Capacity and Integrated Geospatial Knowledge Section	14105
+Data Management Disciplines Knowledge Area	15034
 Data Mining and Knowledge Discovery	11156,109
 Department KNBS Kenya National Bureau of Statistics	7548
 Departments of Research and Knowledge Business	12638
@@ -71,6 +76,8 @@ Digital Knowledge Hub Department	10764,80
 Digital Knowledge Hub Department Partnerships for Digital	11563
 Digital Skills and Knowledge Development OUTPUT INDICATOR	11863
 Digital Transformation and Knowledge Economy	1563
+Director of KNN	14984
+Disaster Risk Management Knowledge Centre	14896
 Discussion Knowledge	8021
 Don't Know	12383
 Don’t Know	582
@@ -85,7 +92,7 @@ Early Warning A. Disaster Risk Knowledge	12977
 Education Knowl	13005
 Effective Knowledge Transfer	13998
 Electronic Journal of Knowledge Management	8021
-Electronic Know Your Customer	8971,4105
+Electronic Know Your Customer	8971,4105,1886
 Electronic Know Your Customer-eKYC	9069
 Emerging KNCHR	7548
 Empowering Decision-Making and Transforming Knowledge	14090
@@ -95,6 +102,7 @@ Enhance the Knowledge and Skills In Q2	12241
 Enhance the Knowledge and Skills of NRB	13080,15
 Enterprise Resource Planning System. Known	14738
 Establish Knowledge Centers	1000
+Establish Knowledge Rwanda	14997
 Establish and Join Knowledge-Sharing Platforms AI	12675
 European Commission’s Science and Knowledge Service	12675
 Evidence and Knowledge Systems	11224
@@ -113,8 +121,10 @@ Gender Agree Disagree Don't Know Male	12409
 Global Cooperation and Knowledge Sharing	11285
 Global Knowledge	2093,5929
 Globally Competitive Knowledge	770
+Government Knowledgebase	14965
 Gross Domestic Product Know-Your-Customer Mobile	11130
 H. KNOWLEDGE BUILDING	11863,2075
+H. KNOWLEDGE TRANSFER Knowledge	14928
 H. Knowledge Building	13938
 H. Knowledge Building The Project	11863
 HON MR JUSTICE ROBIN KNOWLES	1829
@@ -124,9 +134,11 @@ Highlights. KNBS	12138
 Human Rights KNQA Kenya National Qualifications	7548
 Humanity Advocacy Knowledge Innovation	9082
 ICT Ministry and KNCCI	9333
+ICT Support Visits RENU for ICT Knowledge	15164
 IGAD Advances Cross-Border Trade Knowledge-Sharing	10634
 IGAD Cross-Border Trade Knowledge-Sharing Network	10634
 IGNASIUS KN	12478
+III. ACCESS TO INFORMATION AND KNOWLEDGE	14853
 IXP Internet Exchange Point KCL Knowledge	11552
 Improve Employee Knowledge and Skills SO7	13053
 In-kind Knowledge Transfer	12399
@@ -141,12 +153,14 @@ Institute of Innovation and Knowledge	11439
 Int J Sociotechnol Knowl Dev. Apr	10919
 Int J Sociotechnology Knowl Dev. Jul	10919
 Intel and NVIDIA. Known	11502
+International Financial Centre KYC Know	14997
 International Journal of Knowledge Management	8021
 International Journal of Knowledge Management Studies	8021
 International Monetary Fund. Knebelmann	12948
 Internet Exchange Point KYC Know	13312,2
 James Albert Knuckles	11136,436
 Journal of Innovation and Knowledge	7759
+K KNOWLEDGE MANAGEMENT	14879
 KENGEN KETRACO KNBS KOSF KOT KPC	12256
 KICA Kenya Information and Communications Act KNBS	6946
 KIX Knowledge Café	12196
@@ -171,6 +185,7 @@ KNCCI and COG Sign Landmark Strategic Partnership	9852
 KNCCI-COG	9852
 KNCHR	2615,4933,4679
 KNCHR Kenya National Commission	7548
+KNCV Nigeria	15321
 KNDC. What PPP	5793
 KNEC Kenya National Examination Council KPHC	12151
 KNEQAS	4153
@@ -178,7 +193,7 @@ KNEQAS LEN LIMS LLIN MCH MNCH	4153
 KNLS Board	9006
 KNN K-Nearest Neighbours	11258
 KNOMAD	11960,1428
-KNOWLEDGE	13454
+KNOWLEDGE	13454,1793
 KNOWN	91,19,5,33,871,136,1084,1,1873,1517,2931,2625,1,7,8,1,1,1,1,1,1,85,2,527,12,2460
 KNPHI	4153,3834
 KNPHI LIMS Tender Closing Date	7988
@@ -228,9 +243,11 @@ Know How It Got Infected	3364
 Know Mauritius Privacy E ENS ArticleEU	6632
 Know Your Business	5369,2150,82
 Know Your Client	12449
+Know Your Consumer	14880
 Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,333,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15
 Know Your Customer Lesotho Wire Local	12701
 Know Your Customer LoA Level of Assurance	12663
+Know Your Customer MDA Ministry Department	14965
 Know Your Customer MERCHANT	11861
 Know Your Customer Mobile Money Know	14674
 Know Your Customer Policy	13532
@@ -243,6 +260,7 @@ Know Your Rates	9781
 Know Your Rights	14742
 Know Your Rights. Know the Law	8804
 Know Your-Customer	12663,315
+Know the Signs	15162
 Know- Your-Customer	13345
 Know-Your Customer System	4894
 Know-Your- Customer	1704
@@ -255,14 +273,17 @@ Knowhow3000	13991
 Knowing	1000,8386,2296,822,171,857
 Knowing the Family	14835
 Knowingly	3383
-Knowledge	21,397,153,328,41,874,125,157,1582,371,399,229,1003,178,974,116,600,183,28,187,75,1,161,778,168,69,448,432,636,255,11,150,1,23,2,264,58,377,29,1,10,46,11,12,194,1,1,44,1,36,5,105,4,41,4,45,42,13,174,80,218,105,3,15,90,806,194
+Knowledge	21,397,153,328,41,874,125,157,1582,371,399,229,1003,178,974,116,600,183,28,187,75,1,161,778,168,69,448,432,636,255,11,150,1,23,2,264,58,377,29,1,10,46,11,12,194,1,1,44,1,36,5,105,4,41,4,45,42,13,174,80,218,105,3,15,90,806,194,743,69,83,50,117
 Knowledge Ability	11131
 Knowledge Acquisition	899
 Knowledge Application Knowledge Society Skills Pedagogy	899
 Knowledge Base	14091
+Knowledge Based Economy	14947
 Knowledge Based Society	12359
 Knowledge Café Publisher	12196
 Knowledge Consulting Limited	11552
+Knowledge Consulting Ltd	15164
+Knowledge Consulting Ltd KENET Kenya Education	15164
 Knowledge Creation	899
 Knowledge Deepening	899
 Knowledge Deepening and Knowledge	899
@@ -273,7 +294,9 @@ Knowledge Empowerment	9237
 Knowledge Engineering	6948
 Knowledge Exchange	4583,2380,5090,303
 Knowledge Exchange and Capacity Building Recognizing	13042
-Knowledge Hub	396,6324,6360,1664
+Knowledge Financial	14997
+Knowledge Financial Skill	14997
+Knowledge Hub	396,6324,6360,1664,253
 Knowledge Hub Digital	630
 Knowledge Integration for Tuberculosis Therapeutics	9969
 Knowledge Lab	12329
@@ -283,12 +306,14 @@ Knowledge Management Systems	12356
 Knowledge Networks	14819
 Knowledge Networks Strengthen Mauritius	14819
 Knowledge Oasis Muscat	10380
+Knowledge PA-17	14997
 Knowledge Partner E&Y Country Managing Partner	13029
 Knowledge Platform	12333
 Knowledge Politics and Imagining the Future of AI	4253
 Knowledge Products and Services	14511
 Knowledge Representation and Reasoning	11336
 Knowledge Resources	13557
+Knowledge Rwanda	14997
 Knowledge Sharing	12356,319
 Knowledge Sharing Program	10957,104
 Knowledge Skills	11017
@@ -299,8 +324,11 @@ Knowledge Transfer	6946,5454,2166
 Knowledge Transfer Every	718
 Knowledge Transfer Programme	5428
 Knowledge Transfer Programme. The ITU	5428
+Knowledge Transfer Reports	15090
 Knowledge Transfer Training	13037
 Knowledge Zambia’s Council	12356
+Knowledge and Attitudes	15247
+Knowledge and Behaviour Related	15247
 Knowledge and Content Manager	13938
 Knowledge and Institutions Top	12205,146
 Knowledge and Skills Guide	11017
@@ -313,12 +341,15 @@ Knowledge of Cost of Borrowing and Transaction Cost	2775
 Knowledge of ICT	9203
 Knowledge of PEPFAR	12754
 Knowledge of PL	11941
+Knowledge of Tuberculosis	15247
+Knowledge-	15085
 Knowledge-2-Knowledge	13358
 Knowledge-Based Systems	8604
 Knowledge-intensive	10969,915,1,10,264,1,45,146,4,41,91
 Knowledge-sharing	8021
 Knowledge7	5712
 Knowledgeable Research	8022
+Knowles-Coursin	14896
 Known	4119,2446,851,2828,477,336,1320,127,239,1931
 Known MFL	13471
 Knox Magambuza	3274
@@ -332,6 +363,7 @@ M- National Ministry of KNBS	7548
 M4B Knowledge and Skills Guide	11017
 MEASURE Evaluation's Knowledge Management	14434
 MUST CAD Design Software for Knitting Training	13095
+Management of Knowledge	14997
 Map Is TAIS Knowledge Map	5513
 Measurable KNBS Annual Emerging Technologies	7548
 Minister of Knowledge Economy	2420,370,3162
@@ -340,9 +372,11 @@ Mobile for Business Knowledge and Skills Guide	11017
 Ms C Knoesen Chief Registrar of Deeds	11261
 NEED TO KNOW	11219
 NGO Knowledge	11004
+National Communications Authority Somalia Also Known	14878
 Nationwide Urban Rural Male Female Know	582
 Nicholas Stern Indigenous Knowledge Systems	13100
 Numbers Every Parent Should Know	12199
+O&M Plan and Knowledge Transfer Plan	15080
 ODPC Hosts Somali Delegation for Knowledge	2668
 Open Knowledge Foundation	11521
 Open Knowledge Ghana	10557
@@ -359,6 +393,7 @@ P1-2. Knowledge	12500
 People Who Know Their HIV	4153,49,15,132,1003
 People With HIV Who Know	4153,49,15,43,89,1003
 Politics of Knowledge	11028
+Position Knowledge Rwanda	14997
 Prevention Knowledge	14067
 Project Support and Knowledge Management Department	26,1,1
 Projecto Knowledge Hub Digital da União Europeia	12840
@@ -380,6 +415,7 @@ Research and Knowledge Directorate Hélène Djoufelkit	11149
 Research and Knowledge Management	12753
 Robin Knowles J	1829
 Rodney Knight Interim Director of Policy Analysis	7590
+SCIENTIFIC KNOWLEDGE	14853
 SUSTAIN A VIOLENCE KNOWLEDGE CENTRE	12939
 Safaricom and KNBS Partner	6538
 Senior Statistical Knowledge Management Officer	13157
@@ -397,6 +433,7 @@ South Africans. Known	7253
 States of Knowledge	8380
 Statistics KNEC Kenya National Examinations Council	2775
 Stringent Know-Your Customer Policies	940
+Sudatel and Knar	14952
 Survey KNBS Kenya National Bureau of Statistics	12151
 System KIRM Knowledge Information Records Management	11261
 Sèmè City International City of Knowledge and Innovation	10856
@@ -422,5 +459,6 @@ Western Cape Government and Knysna Municipality	11287
 World Bank Climate Change Knowledge Portal	10763
 World Bank's Open Knowledge Repository	9025
 World Bank. Knebelmann	12369
+X Knowledge	14997
 Year Old Students Apply Knowledge and Skills	13477
 Zero Knowledge	14762

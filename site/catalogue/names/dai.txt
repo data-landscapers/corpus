@@ -7,7 +7,7 @@ Avon Rise Avenue Date Daily	4896
 Beezop’s Dairo	7798
 Body DailyNews	12545,16,3,1,4,1,3,11,7,2,6,10,4,6,1,7,1,3,3,1,1,2
 Botswana Daily News	5634,4729,2247
-Business Daily	3303,1302,1545,81,199,303,240,131,302,725,2607
+Business Daily	3303,1302,1545,81,199,303,240,131,302,725,2607,4194
 Business Daily Africa	6231,2440
 Business Daily Africa and Daily Nation. the Kenya	6231
 Business Daily Africa. Capital Ethiopia	8671
@@ -41,7 +41,7 @@ DAIRIAM	6613
 Dai Fangfang	10764
 Daidone	13332
 Daigle	1243
-Daily	587,1099,980,4996,27,211,1575,1341,188,224,639,86,11,394,6,39,19,192,76,771,18,127,459,677
+Daily	587,1099,980,4996,27,211,1575,1341,188,224,639,86,11,394,6,39,19,192,76,771,18,127,459,677,180,75,132,35
 Daily Average Population of Prisoners	2775
 Daily Base	11004
 Daily Business Reality	9815
@@ -68,7 +68,7 @@ Daily Maverick. All	1695
 Daily Maverick581	13461
 Daily Mkt Farming Nigerian-Army Special Forces	11857
 Daily Monitor	315,2711,7815
-Daily Nation	2666,76,1016,225,530,597,506,95,212,191,117,85,93,107,15,232,24,9,204,265
+Daily Nation	2666,76,1016,225,530,597,506,95,212,191,117,85,93,107,15,232,24,9,204,265,8070
 Daily Nation and The Standard	6231
 Daily Nation. Birth	12138
 Daily Nation. The SHA	6231
@@ -112,6 +112,7 @@ Dairy Development Project for Platform	11469
 Dairy Industry Development Act	13403
 Dairy Innovation Symposium and Project Close-Out	14272
 Dairy Marketing Board	13320
+Daisy Demirag	15059
 Daisy Gladys Iteriteka	4068,9408
 Daisy Kambalame	13029
 Daisy Liech	13279
@@ -119,6 +120,7 @@ Daisy Rani BRIGEMOHANE	14835
 Daisy Shirley Kusiima	13016
 Daivi Rodima-Taylor	12227
 Date Daily VWAP	4896
+Delivered Daily	15255
 Description Dairy Association of Zambia Digital Information	295
 Digital Writer for People Daily Digital	9940
 EMATA Digital Loans To Smallholder Dairy	834

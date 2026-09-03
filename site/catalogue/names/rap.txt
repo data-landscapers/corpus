@@ -179,6 +179,7 @@ PGES Rapports	14488,1,1
 POSAF Rapports	10712
 POSAF la DGI Rapports	10712
 PPA RAPID-CI	3604
+PPR Peste des Petits Ruminants RSF Rapid	15118
 PREPARATION DU RAPPORT DE SURVEILLANCE	13468
 PRODUCTION DE RAPPORTS Par	13468
 PRÉSENT DANS TOUS LES SECTEURS Rapport	2342
@@ -255,7 +256,8 @@ RESPONSABLE DU RAPPORT SEMESTRIEL	7620
 RESUME DU RAPPORT	12065
 RIA Rapid	13390
 RIA Rapid Transfer MEI Small	13390
-RSF Rapid Support Forces SAF Sudanese	6947
+RSF Rapid Support Forces	15036,184
+RSF Rapid Support Forces SAF Sudanese	6947,8395
 Rapadama Village	10828
 Rapale	12818
 Raparigas	10777
@@ -280,7 +282,7 @@ Raphael Phiri District Commissioner	13392
 Raphael Thikusho	12478
 Raphaël	14306
 Raphaël Akotègnon	3682
-Rapid	226,169,394,110,1619,667,676,356,311,822,522,891,69,505,272,142,550,370,354,124,1811,174,75,147,501,48,11,272,45,100,111,68,783,17,2,76,447,944
+Rapid	226,169,394,110,1619,667,676,356,311,822,522,891,69,505,272,142,550,370,354,124,1811,174,75,147,501,48,11,272,45,100,111,68,783,17,2,76,447,944,182,166,1
 Rapid AI	3554
 Rapid Assessment	6832,3944
 Rapid Assessment of Counties	5134
@@ -300,6 +302,7 @@ Rapid Evaluation	11224
 Rapid Financing	12922
 Rapid Growth Markets	8753
 Rapid Growth of Digital Business	415
+Rapid Land Cover Mapper	15129
 Rapid MEI Small Rungika Money Dahabshiil	13390
 Rapid Payments Programme	9183,2757
 Rapid Recovery	958
@@ -322,8 +325,10 @@ Rapid Skills Development Centres	12612
 Rapid Social Response Fund's Gender Window	11924
 Rapid Social Response Trust Fund	11924
 Rapid Social Response. The World Bank	12158
-Rapid Support Forces	1676,175,36,1696,662,2702,3061,326,3860
+Rapid Support Force	14945
+Rapid Support Forces	1676,175,36,1696,662,2702,3061,326,3860,730,35,39,3,35,184,32,90
 Rapid Survey	899
+Rapid Technical Assessment	15031
 Rapid Testing Continuous Quality Improvement	4153
 Rapid Transfer	13390
 Rapid Transfer Nombre	13390
@@ -339,11 +344,11 @@ RapidSMS	1219,10919,195
 Rapide	4567,8733,555
 Rapide Money Transfer	13452
 Rapidité	7357,3354
-Rapidly	12189
+Rapidly	12189,3017,38
 Rapidly Detected And Responded To Responding	10776
 Rapidly Developing Thunderstorm	11191
 Rapidly Developing Thunderstorms. Auto-update. View Today	14256
-Raporo	1214
+Raporo	1214,13648,1,30,209
 Rappel	2966,8009,639
 Rappel CMP Bénin Type	10876
 Rappelant	2966,1808,1306,1375,2357,1112
@@ -352,7 +357,7 @@ Rappelle	588
 Rappelons	998,710,856,204,423,179,451,912,580,1254,2233,5657,92
 Rappelons-nous	14841
 Rapper Future	6690
-Rapport	643,94,11,17,1,239,209,4,54,12,544,248,301,99,85,350,48,69,231,84,53,181,129,421,28,1,1,1,1,1,299,762,38,177,194,110,188,968,724,35,272,597,127,240,515,51,667,376,211,1,105,4,8,12,17,16,2,87,1,1,10,5,5,12,919,28,99,22,1235,1,12,1,17,18,41,43,9,10,9,7,14,42,208,117,354,209,13,11,36,62,3,5,32,48,2,42
+Rapport	643,94,11,17,1,239,209,4,54,12,544,248,301,99,85,350,48,69,231,84,53,181,129,421,28,1,1,1,1,1,299,762,38,177,194,110,188,968,724,35,272,597,127,240,515,51,667,376,211,1,105,4,8,12,17,16,2,87,1,1,10,5,5,12,919,28,99,22,1235,1,12,1,17,18,41,43,9,10,9,7,14,42,208,117,354,209,13,11,36,62,3,5,32,48,2,42,196,1,30,26,183
 Rapport Annuel	2342,5253,721,575,1965,1138
 Rapport Annuel 2025 BCEAO vf.pdf	7595
 Rapport Annuel de Performance	10975
@@ -410,7 +415,7 @@ Rapporteur Analyse	10876
 Rapporteur Expose	14537
 Rapporteur. Une	14537
 Rapporteurs	2966
-Rapports	643,5905,1132,3032,105,30,29,99,1068,1247,10,25,65,52,193,81,708,1,58,54,85
+Rapports	643,5905,1132,3032,105,30,29,99,1068,1247,10,25,65,52,193,81,708,1,58,54,85,480
 Rapports ATAB Outil de Mesure	13325
 Rapports IPC	13325
 Rapports Jugements	13427,233
@@ -479,4 +484,5 @@ Validé RAPPORT ANNUEL	998
 Vice President and Rapporteur	4713
 Visit of Special Rapporteurs	14742
 Wanjala. Hon. Raphael Wanjala	10313
+World Bank ID4D Rapid Diagnostic	14897
 XI.3. Rapportage	10876

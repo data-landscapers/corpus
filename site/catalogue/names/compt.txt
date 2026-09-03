@@ -28,7 +28,7 @@ CompTIA	12241
 CompTIA Security	2816
 Comptabilisation	10876,646
 Comptabilite Communale	13292
-Comptabilité	969,1373,134,3079,2346,2594,217,164,99,3437,24,22,25
+Comptabilité	969,1373,134,3079,2346,2594,217,164,99,3437,24,22,25,366,328
 Comptabilité Publique	3396,208,3223,1074,849,1962,164,3555
 Comptabilité Publique DNCMP Direction Nationale de Contrôle	10876
 Comptabilité Publique DPP Direction	10712
@@ -42,7 +42,7 @@ Comptabilité-Matières	10975
 Comptable	8321,2284,198,73,2416,9,74
 Comptable Vérifie	10876
 Comptables	10876,99
-Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89,615,364,99,1247,10,24,1,50,15,52,25,1,221,734,6,119,71,24
+Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89,615,364,99,1247,10,24,1,50,15,52,25,1,221,734,6,119,71,24,459
 Compte Administratif	969,10006
 Compte Administratif. Budgétisation	10975
 Compte Courant Postal	10981
@@ -71,6 +71,7 @@ Comptroller-General	587,2431,6458,1843
 Comptroller-General of Customs	8167,111,221,977
 Comptroller-General of Immigration	12015
 Comptés	7655
+Conseil Comptable Ouest Africain	14849
 Contrôle Comptes	3396
 Cour de Comptes	1284
 Cour des Comptes	1284,398,1714,7316,1193,1387,1120,161
@@ -79,6 +80,7 @@ Cour des Comptes. CHAPITRE IX DISPOSITIONS TRANSITOIRES	14412
 Cour des Comptes. Chapitre III	37
 DAF Comptabilise	10876
 DE COMPTE OU DE SOUSCRIPTION	10836
+DE LA COMPTABILITE DANS LES ETATS	14849
 DEEE Compte	14423
 DES COMPTES COURANTS	13390
 DES COMPTES DORMANTS	13390
@@ -127,6 +129,7 @@ SON COMPTE	13300
 Section des Comptes	13781
 Société Quipux Afrique S.A. Compte	2342
 Système Comptable OHADA PIB	10875
+Système Comptable Ouest Africain	14849
 Système de Comptabilité Nationale SDS	10874
 Système de Comptabilité des Nations Unies	13377
 Système de Comptage Avancé	1993

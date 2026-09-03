@@ -10,6 +10,7 @@ Agriculture and Livestock	10313,3001,264
 Angola. O Livro Branco	4146
 Animal Health and Livestock	12194
 Assess the Livelihood Impact of Electricity Access. Nature	12006
+Asset Creation and Livelihood	14945
 B. SOCIAL SUPPORT FOR RESILIENT LIVELIHOODS	12980
 BETTER LIVING HOSPITAL LIMITED Data Controller	7167
 BETTER LIVING HOSPITAL LIMITED Data Processor	7167
@@ -18,6 +19,7 @@ BeautifulSoup. Live	12454,39,2,16,4
 Better Lives for People	11469
 Birth Certificate Access Changes Lives	12227
 Blue Water Healthy Living	10373
+Body SAVING LIVES CHANGING LIVES	14945
 Bordereau de Livraison	10876
 Bulawayo and Livingstone	7036,6631
 Bulk Data Transfer Live Data Sharing	14725
@@ -27,6 +29,7 @@ CIPM Pascal Livin Mshanga Kheri R	9491
 COMOROS LIVE SOON	11002
 CR's Livelihood Empowerment Against Poverty	10841
 CRAWL LIVECRAWL TIMEOUT	17,718,801,6009,4553
+CRAWL LIVECRAWL TIMEOUT and CRAWL UNKNOWN ERROR	14866
 CSA Goes Live	4283
 Cabinet Secretary for Agriculture and Livestock	10313
 Cabinet Secretary for Agriculture and Livestock Development	14575
@@ -38,8 +41,9 @@ Cash Transfers Transforming Lives	13592
 Ce Livre Blanc	9081
 Chad Livelihoods Program Sector of Employment Agriculture	10841
 Cheaper Cost of Living	11863
-Children Ever Born and Living	13454
+Children Ever Born and Living	13454,1793
 Children's Living Arrangements and Parental Survival	13454
+Children’s Living Arrangements and Parental Survival	15247
 Cities Contact Live Demo Digital Land	12211
 Community Livelihoods Through Energy Security Financing	5247
 Conservation and Sustainable Management of Living Natural	1284,12047
@@ -63,11 +67,14 @@ Department of Agriculture Livestock and Blue Economy Data	7167
 Departmental Committee of Agriculture and Livestock	10313
 Deploy Live Capture	11986
 Digital Livelihoods	62
+Distribution of Live	15056
 District Commissioner for Livingstone	13477
 Dive Deeper Living	7910
 EAST RIFTVALLEY LIVESTOCK TECHNOLOGY COMPANY LIMITED	7167
 EDUCATION AND WOMEN'S EMPOWERMENT AND LIVELIHOODS	13459
 EGYPT LIVE SOON	11002
+EICV Integrated Household Living Conditions Survey	14922
+EMR Live Demo	15156
 ENA Live	12279
 Early Warning for Livestock	14818
 Emerge Livelihood	12241
@@ -78,6 +85,7 @@ Enhance City Living MTN Nigeria	2563
 Enhance the Productivity of Indigenous Livestock	1154
 Enhancing Livelihoods	11332
 Enhancing Women’s Rural Resilience and Livelihoods Through	2743
+Enter HungerMap Live	15248
 Estimate the Livelihood Impact of Electricity Access	12006
 Eswatini Livestock Identification Traceability System	12945
 Eswatini Livestock Value Chain Development Project	12956
@@ -122,6 +130,7 @@ Household Living Conditions	13804
 Household Living Conditions Surveys	11581
 Household Living Conditions and Poverty	10841
 Households Living Standards	11549
+HungerMap Live	15248
 IAPP LinkedIn Live	8773
 IBRD SURPLUS-FUNDED LIVABLE PLANET FUND	11417
 IBRD Surplus-Funded Livable Planet Fund	11417,971
@@ -144,7 +153,7 @@ Improving Lives. OECD Publishing	13312,2
 Improving Lives. Paris	11879
 Including Livelihood Restoration Plan	13938
 Inclusive Living Allowance. The Inclusive Living	14774
-Integrated Household Living Conditions Survey	3013,9345,45
+Integrated Household Living Conditions Survey	3013,9345,45,2735
 Integrated Household Living Conditions Surveys	13418
 Integrated Households Living Conditions Survey EICV	12445
 International Livestock Research Institute	8183,6368
@@ -170,6 +179,7 @@ LIVELIHOODS Sources	418
 LIVESTOCK	7167
 LIVESTOCK AND AQUACULTURE DEVELOPMENT Data Controller	7167
 LIVESTOCK AND AQUACULTURE DEVELOPMENT Data Processor	7167
+LIVING STANDARD DIMENSION	15244
 LIVRABLES	12043
 LIVRE PREMIER	13721
 LIVRES	13300
@@ -233,21 +243,21 @@ Livelihoods Salaried-	12460
 Livelihoods Support	12980
 Livelihoods Support Program	12181
 Livelihoods Training	226
-Livelihoods and Entrepreneurship	412,345,12574
+Livelihoods and Entrepreneurship	412,345,12574,1826
 Livelihoods and Food Security	10841
 Livelihoods and General Food Distribution Constituency Agro	12977
 Livelihoods and General Food Distribution.68	12977
 Liveness	12047
 Liveness Detection	4292
-Liver	12413
+Liver	12413,2643
 Liver Diseases	12151
 Livermore	8480
 Liverpool	2719,672,6485
-Lives	9959,1351
+Lives	9959,1351,3687
 Lives Have Been Turned Upside	6947
 Lives Saved Tool	13578
 Lives Solutions	13301
-Livestock	1257,731,574,4605,678,3135,544,312,537,1082,19,1344,11
+Livestock	1257,731,574,4605,678,3135,544,312,537,1082,19,1344,11,45,211,33
 Livestock Animal	14818
 Livestock Annually	10098
 Livestock Data Controller INST-1443778C6D8 KITUI Kenya	7167
@@ -298,17 +308,26 @@ Livestock. Prime Minister Shri Narendra Modi	12979
 Livestotech Consult	10179
 Livestream	13461
 Livhuwani Makhode	2662,19,11,9294
+Livia Peiser and Matieu Henry. Food and Agriculture	15129
 LiviaSoft	5680
-Living	4972,2371,543,2955,165,630,18,538,309,843,126,1124
+Living	4972,2371,543,2955,165,630,18,538,309,843,126,1124,650
 Living Arrangements for Returnees	10841
+Living Drinking	15244
 Living Environment Unit	14738
 Living Lab	14163
+Living Labs	15288
 Living Labs Frontiers	11006
 Living Library	8202
 Living Natural Resources ESS	1988
-Living Standards	13332
+Living Standard	15244
+Living Standards	13332,1912
+Living Standards Electricity Household	15244
 Living Standards Measurement Study	1219,10353,9,2223,321
 Living Standards Measurement Survey	14125
+Living Table	15244
+Living Value Child Labor Interval Unemployment	15244
+Living-standards	15244
+Livingston	15342
 Livingston District	13392
 Livingstone	4896,2118,22,5413,938,90,190
 Livingstone Avenue	4896
@@ -346,6 +365,8 @@ Livro de Vendas	12018
 Livro-Branco	6926
 Livros	10772,2003
 Livros da Conservatória	12775
+Localities and Modes of Living	15244
+Location Female Sex Live	15156
 Long Live Ghana	14216
 Long Live Importers and Exporters	14216
 M LIVE IN South Asia	11004
@@ -353,6 +374,9 @@ M P164001 Livestock Productivity and Resilience Support	11469
 MADAGASCAR LIVRET GENRE	14570
 MAKING ETHIOPIANS WHO LIVE ABROAD	14004
 MILLION OF THEM LIVE IN JUST	10977
+MODE OF LIVING State	15244
+MODE OF LIVING The MPI	15244
+MODES OF LIVING S-MPI	15244
 MOROCCO LIVE SOON	11002
 MW Live	10781,1646,2055
 MW NA NA Live DC	10995
@@ -364,12 +388,22 @@ Migration IT Information Technology LEAP Livelihood	10841
 Ministry of Agriculture and Livestock	4762,5551,4263
 Ministry of Agriculture and Livestock FOR MORE INFORMATION	14576
 Ministry of Fisheries and Livestock	1988,11415,52
-Ministry of Livestock	10477,487
+Ministry of Livestock	10477,487,3985
 Ministry of Livestock and Fisheries	3583
 Ministry of Livestock and Fisheries.357	3583
 Mission Responsabilités Livrables	14537
 Mobile Live Capture	8793
 Mobile Live Capture Unit	8793
+Mode MPI H A Population of Living	15244
+Mode of Living	15244
+Mode of Living Censored	15244
+Mode of Living Indicator	15244
+Mode of Living Indicators Sudan	15244
+Mode of Living S-MPI	15244
+Mode of Living State Locality Urban Rural	15244
+Mode of Living Sudan	15244
+Mode of Living Urban	15244
+Modes of Living	15244
 Ms Beatrice Mtetwa Corner Livingstone Way	4896
 Ms Livermore	8480
 Ms. Livia Peiser	14140
@@ -395,9 +429,10 @@ Outlook Live Details	10235
 PROVIDER SHARE OF LIVE CAPACITY	10861
 Paid for Live	8999
 Pastoral Food and Livelihood Improvement Project	14122
-People Living	958,10176,729
+People Living	958,10176,729,3384
 Persons Living	2775,11771
 Pilot Goes Live	5984
+Popular Administrative Unit PLWD Person Living	15244
 Precision Livestock Farming	14272
 Prevention and Healthy Living	14829
 Primary Livelihood	10841
@@ -416,8 +451,10 @@ Responsabilités Livrables	14537
 Reuters Liverpool	3637
 Room Live	6808
 Rwanda's Fifth Integrated Household Living Conditions	12385
+SLE Sustainable Livelihoods Enhancement SP Social	15138
 SOMALIA LIVE SOON	11002
 SSA Live	4525
+STANDARD OF LIVING Standard of Living	15244
 SWL Supporting Women’s Livelihoods SZI Smart	13332
 Save Lives	10374,909
 Save Lives Jun	11283
@@ -434,7 +471,10 @@ Social Living Development Ltd	14738,4,6,81,1,13
 Social Support for Resilient Livelihoods Programme	13191
 Social Support for Resilient Livelihoods Project	12181,799,131,1563
 Socioeconomic Living Conditions of Refugees	10841
+Somalia Capacity Advancement Livelihood and Entrepreneurship	14888
+Somalia. Livelihood	14874
 Sonia Livingstone	7174
+Southwest State Ministry of Livestock	15093
 Sowetan Live	13461
 State Department for Livestock Development	14546
 Stream Events Live	11866
@@ -446,8 +486,10 @@ Supporting Women's Livelihoods Beneficiaries	13459
 Supporting Women’s Livelihoods	13332
 Sustainable Livelihood Fund	13420
 Sustainable Livelihoods	13420
+Sustainable Livelihoods Enhancement	15138
 Sustainable Livelihoods Fund	13420
 Sustainable Livelihoods Project	12697
+Sustainable Management of Living Natural Resources	14937
 Synod of Livingstonia	3791
 Synod of Livingstonia Health Department	3791
 Synod of Livingstonia Health Facilities	3791
@@ -458,6 +500,7 @@ TURMA AO AR LIVRE	10766
 ThisDay Live	4848
 Thèmes Mots-clés Poverty Living	13804
 TikTok Live	8050
+Transform Lives	15192
 Transform Lives Country	13628
 Transforming Lives	3895,3,2202,1104,6306
 Transforming Lives Safaricom	7204
@@ -466,6 +509,7 @@ Transforming Lives. World Bank Group	12175
 Transforming the Livelihoods of Smallholder Farmers	9624
 UNDERSTANDING PEOPLE’S LIVES	418
 USERS The Seventh Integrated Household Living	12403
+Unemployment Living Over-crowding Assets Housing Electricity	15244
 Universidade Livre de Bissau Biombo Safim Private	11552
 University of Liverpool	2308,10643
 University of Liverpool. Sam	12951
@@ -475,6 +519,7 @@ Upgrading of Living Environment	14835
 Urban Living Lab Way of Working	11007
 Urban Living Lab Way of Working Handbook	11007
 Urban Living Labs	11006
+Urban Mode of Living Rural Nomads	15244
 Violação da Livre Iniciativa Os Artigos	11436
 WOMEN'S EMPOWERMENT AND LIVELIHOODS MULTI-DONOR TRUST	13459
 WOMEN’S EMPOWERMENT AND LIVELIHOOD MULTI-DONOR	13332

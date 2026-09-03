@@ -23,7 +23,7 @@ Delayed Rehabilitation of Desks	13355
 Desk Audits	13053
 Desk Jet	11860
 Desk Officer	14753
-Desk Research	226,11988,2605
+Desk Research	226,11988,2605,78
 Desk Review	771
 Desk Review and Exploratory Interviews	10919
 Desk The Federal Government	10157
@@ -38,7 +38,7 @@ Desktop Interface Type USB	34
 Desktop Research	12376
 Desktop Study Several	12253
 Desktop Tablet	582
-Desktops	34,13370
+Desktops	34,13370,1517
 Desktops TBA	1988
 Desktops for Ministers	2779
 Desktops for Non-Technical Staff	2779
@@ -57,6 +57,7 @@ GCT News Desk	11037
 Government Shared Service Desk Platform	12917
 Help Desk	34,12330,553,10
 Help Desk Contact	12364
+HornDiplomat News Desk	15132
 ICT Help Desk	34
 ICTSS Service Desk	12055
 INFORMATION AND COMMUNICATION TECHNOLOGY HELP DESK	34

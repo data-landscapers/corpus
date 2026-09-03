@@ -10,7 +10,7 @@ Address Gender Gaps	13331
 Address Gender-Based Violence Mauritius	11332
 Addressing Gender Based Violence Combating Organised	14781
 Addressing Gender Based Violence Protecting	14781
-Addressing Gender Gaps	1264,10701
+Addressing Gender Gaps	1264,10701,2945
 Addressing Gender-Based Occupational Segregation	3604
 Addressing Gender-Based Violence	10776
 Aduanero Agente Gendarme Marinero Soldado	4209
@@ -27,6 +27,7 @@ Africa Gendered	7946
 Africa Region Gender Action Plan	10964
 Africa Region Gender Practice Policy Brief	10964
 Africa. Gender Equality and Women’s Empowerment Promotion	13938
+African Development Bank Rwanda's Ministry of Gender	15204
 African Union Strategy for Gender Equality	11193
 Age Group and Gender Distribution	14760
 Age Range and Gender Distribution	11955
@@ -71,6 +72,7 @@ Cabo Verdian Institute for Gender Equality and Equity	11965
 Carol Waweru. Championing Gender	6948
 Champion Gender Coordinate Support Legal	12457
 Championing Gender	6948
+Chief Gender Monitor	14869
 Civil Society Gendered Voices Volume	11332
 Closing the GENDER IN ADDITIONAL	11964
 Closing the Gender Gap	2207
@@ -78,6 +80,7 @@ Collection Sub-indicator Gender Strengthening	11905
 Commission for Gender Equality	10729,528
 Commission for Gender Equality Javu Baloyi	11257
 Commissioner Ministry of Gender Eqaulity and Family	14770
+Conducive Legal Framework for Gender	14892
 Contact Details Ministry of Youth and Gender Affairs	12642
 Contractor During Gender Based Violence	12253
 Country Overall Gender Urban Rural Household	14098
@@ -100,6 +103,7 @@ Department of Gender Affairs Policy Development	12642
 Department of Gender and Family	12977
 Department of Gender and Family Issues	12939,38
 Departments of Gender	7990
+Deputy Chief Gender Monitor	14869
 Description USAID GenDev	1169,1
 Development of Gender Based Action Plan	1988
 Digital Gender Divide	12241
@@ -149,18 +153,22 @@ Final Technical Report Gender Technology and Skills	6948
 Financial Service Providers Gender-based	13938
 Financial Service Regulatory Authority GBV Gender	12970
 Financial Support for Prevention of Gender-Based Violence	13474
+Fit Capital Empowerment and Gender-	14997
 Focal Officer of Gender Unit	14742
 Forced Labor Gender-Based Violence	1988
 Formal Inclusion Gender Gap	2775
 Foundational and Digital ID Gender Gaps	10714
 Framework FM Financial Management GBV Gender-Based	1867
+G Second Generation GSM GII Gender	14897
+GBV Gender Based Violence	15036
 GBV Gender-Based Violence	11965
-GBV Gender-Based Violence GDP Gross Domestic	1988,8780
+GBV Gender-Based Violence GDP Gross Domestic	1988,8780,4370
 GBV Gender-based	11380
 GCSK Deputy Prime Minister Minister of Gender	14841
 GENDARM.NACIONAL.- Concepto	4209
 GENDER	11986,1068,420
 GENDER ANALYSIS AND ACTION PLAN	13938
+GENDER AND OTHER CROSS-CUTTING ISSUES ENVIRONMENT	14935
 GENDER BASED VIOLENCE GLAN	12253
 GENDER EQUALITY	12373
 GENDER EQUALITY AND EQUITY POLICY	12946
@@ -179,6 +187,7 @@ GENDER GAPS IDENTIFIED STRATEGIC ACTIONS	3604
 GENDER GAPS IN MOBILE OWNERSHIP	11004,960
 GENDER GENDER MOBILE INTERNET ADOPTION	11004
 GENDER MAINSTREAMING Gender	12358
+GENDER MAINSTREAMING IN THE ENERGY SECTOR	14947
 GENDER PROFILE	4972
 GENDER STATEMENT	14773
 GENDER STATEMENT The Ministry of Health and Wellness	14773
@@ -186,19 +195,22 @@ GENDER-BASED VIOLENCE	13399
 GENDER-BASED VIOLENCE AND FEMICIDE	11986
 GENDER-ENERGY NEXUS Access	11572
 GENDRE OU	13300
+GEWE Gender Equality and Women’s Empowerment KPI	14935
 GHG Gender-Based Violence GIZ Gross Domestic	10964
 GN Gendarmerie	13725
+GPI Gender Parity Index	14916
 GPI Gender Parity Index ICT Information	13990
 GRPBMEA Gender Responsive Planning	11193
 Gallup World Poll Gender	11964
 Gend2e0r2g0ap	11964
+Gendana Konti	15023
 Gendarme de Primera Marinero de Primera Soldado de Primera	4209
 Gendarmerie	4960,947,1052,2591,486,101,738,3778
 Gendarmerie Education	6959
 Gendarmerie Nationale	3604,816,10233
 Gendarmería	4209,7424
 Gendarmería Nacional	11633
-Gender	322,249,218,151,21,9,291,23,583,10,63,48,181,122,445,143,577,31,75,42,187,70,578,89,355,89,242,32,239,28,20,18,988,113,96,198,716,207,17,265,453,100,332,167,58,280,75,156,437,505,51,3,7,54,15,26,93,1,12,1,27,129,9,38,13,2,23,199,108,32,193,107,4,2,11,5,2,1,20,3,11,2,6,40,1,6,15,64,40,56,53,11,4,6,33,28,16,31,18,53,4,6,17,49,37,39,91,190,107,7,18,13,1,9,18,11,38,26,15,2,88,110,36,1,11,6,9,33,27,447,73,41,17,27,10,561,125,15,13,28,44,16
+Gender	322,249,218,151,21,9,291,23,583,10,63,48,181,122,445,143,577,31,75,42,187,70,578,89,355,89,242,32,239,28,20,18,988,113,96,198,716,207,17,265,453,100,332,167,58,280,75,156,437,505,51,3,7,54,15,26,93,1,12,1,27,129,9,38,13,2,23,199,108,32,193,107,4,2,11,5,2,1,20,3,11,2,6,40,1,6,15,64,40,56,53,11,4,6,33,28,16,31,18,53,4,6,17,49,37,39,91,190,107,7,18,13,1,9,18,11,38,26,15,2,88,110,36,1,11,6,9,33,27,447,73,41,17,27,10,561,125,15,13,28,44,16,16,44,1,20,6,23,13,39,118,15,6
 Gender Access	11857
 Gender Action Learning System	13936
 Gender Action Plan	11863,1913
@@ -218,14 +230,16 @@ Gender At Work	2732
 Gender Audit and Gender Strategy	9516
 Gender Balanced Leadership and Decision Making	13391
 Gender Based Crimes and Child Protection Department	13466
-Gender Based Violence	1778,210,7559,1694,659,353,120,269,304,31,7,348,59,1351
+Gender Based Violence	1778,210,7559,1694,659,353,120,269,304,31,7,348,59,1351,216,97
 Gender Based Violence Advocacy	12977
 Gender Based Violence Advocacy Under	12977
 Gender Based Violence GDP Gross Domestic	970,12362
+Gender Based Violence Safe Programming	15093
 Gender Based Violence and Sexual Exploitation and Abuse	1988
 Gender Cell	14742,3
 Gender Cells	14742
 Gender Champions	13936
+Gender Charter	14997
 Gender Composition	12389
 Gender Consortium and Government	12977
 Gender Construction	12253
@@ -235,17 +249,20 @@ Gender Coverage	7662
 Gender Data Network	8427
 Gender Data Network Impact	8427
 Gender Development Fund	12946
+Gender Development Index of Sudan	14897
 Gender Directorate	13040
 Gender Disinformation	7946
 Gender Disparities	2423
 Gender Distribution	14761,74
 Gender Distribution Among Management Staff	12951
+Gender Distribution Jun	15130
 Gender Distribution of RGD Staff Figure	14761
 Gender Diverse	4972
 Gender Division	12415,917,67,60
 Gender Division and MCDSS	13332
 Gender Division of Cabinet	13332
-Gender Equality	970,584,260,167,7,1595,7381,229,139,137,386,638,398,55,18,348,2,104,56,549,441,365,6
+Gender Domestic	15136
+Gender Equality	970,584,260,167,7,1595,7381,229,139,137,386,638,398,55,18,348,2,104,56,549,441,365,6,288
 Gender Equality Access	11857
 Gender Equality Act	12253,650,137
 Gender Equality Act and Section	13040
@@ -293,8 +310,9 @@ Gender Inclusive Finance Technical Working Group	11131,3
 Gender Income Age Labor Force Participation	1828
 Gender Index	643,11220
 Gender Inequality	13332
-Gender Inequality Index	10829,757,1728
+Gender Inequality Index	10829,757,1728,1722
 Gender Inequality Index UN Human Development	11004,960
+Gender Inequality Index Women	14897
 Gender Inequality Index of Cameroon	10963,1
 Gender Inequality Index.15	13331
 Gender Inequity Governance Weakness Women	12457
@@ -308,18 +326,21 @@ Gender Mainstreaming Departments	12642
 Gender Mainstreaming Strategy. Recommendation The Ministry	13420
 Gender Mainstreaming and Accountability	12946
 Gender Male	12460
+Gender Marker	14925
 Gender Marker System	11863
 Gender Marker System Categorization	13938
 Gender Marker System Category	11863
 Gender Median Pay Differentials	11131
 Gender Ministry	13164
+Gender Monitoring Office	14935
 Gender Monitoring and Evaluation Officer	12977
 Gender Monthly	12253
 Gender Officer	13938
 Gender Opinions	12409
 Gender Parity	12053,358
-Gender Parity Index	12199
+Gender Parity Index	12199,2717
 Gender Parity Index ICT	12175
+Gender Parity Index IDA International Development	14896
 Gender Parity Indices for Forms	12175
 Gender Parity Law	11965
 Gender Participants	13418
@@ -343,6 +364,7 @@ Gender SMART	1818
 Gender Sector Statistics Plan	14572
 Gender Sector Statistics Plan Report	14572
 Gender Sensitive Digital Trade URL	13936
+Gender Specialist	15055
 Gender Staffing Proportion	14738,7,1
 Gender Statement	14742,18
 Gender Statistics Support	1407
@@ -369,21 +391,24 @@ Gender and Economic Empowerment	12946
 Gender and Environmental Officer and M&E Expert	11863
 Gender and Family	12977
 Gender and Family Issues	12977
-Gender and Family Promotion	12358
+Gender and Family Promotion	12358,2577
 Gender and Financial Inclusion Refugee	13938
-Gender and ICT	13312,2
+Gender and ICT	13312,2,1583
+Gender and ICT IN FOCUS A Gender	14897
 Gender and Level	14775
 Gender and Poverty	12946
 Gender and Responsible AI Network	9541
 Gender and Social Action	4214,7887
 Gender and Social Education	1777
 Gender and Social Framework Education Framework. Education	1777
+Gender and Social Inclusion Consultant	15157
 Gender and Social Protection	13254
 Gender and Social Services	7167
 Gender and Social Welfare	3583
+Gender of Business Owners	15085
 Gender-	10964
 Gender- High Lack	11916
-Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268
+Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268,313
 Gender-Based Violence GIPM	14760
 Gender-Based Violence GPEI	10776
 Gender-Based Violence Gross Domestic Product Government	1228
@@ -392,7 +417,7 @@ Gender-Based Violence and Femicide	11193,31
 Gender-Based Violence. The Family Welfare and Protection	14742
 Gender-Digital-Divide-in-Africa.pdf	13314
 Gender-Inclusive Initiatives	13080
-Gender-Responsive Budgeting	11193
+Gender-Responsive Budgeting	11193,3811
 Gender-Responsive Budgeting. CHAPTER	13399
 Gender-Responsive Planning	11193,714
 Gender-Responsive Planning and Budgeting	12399
@@ -402,13 +427,13 @@ Gender-Responsive Prevention and Response Programme	12626
 Gender-Responsive Sector Challenge	11907
 Gender-Responsive Sector Planning	11907,1442
 Gender-Sensitive Digital Trade	13936
-Gender-based	3583,4363,3017,1334,106,536,1803
+Gender-based	3583,4363,3017,1334,106,536,1803,157
 Gender-based Violence	970
 Gender-based Violence Observatory	14742
 Gender-based Violence and Femicide	5533,6453
 Gender-based Violence and Femicide Plan	5533,6453
 Gender-disaggregated	5820,1842,3807
-Gender-focused	10870
+Gender-focused	10870,4153
 Gender-informed	11971
 Gender-lens	12444
 Gender-related	11417
@@ -429,7 +454,7 @@ Gendered Voices Volume	11332
 Gendering AI	9261
 Ghana's Minister for Gender	6148
 Global Gender Gap	13433
-Global Gender Gap Index	789,2667,8943
+Global Gender Gap Index	789,2667,8943,2598
 Global Gender Gap Report	11965
 Global Gender Gap Report. Page	3456
 Good Governance and Gender Equality	644
@@ -443,6 +468,7 @@ Host Communities The Ministry of Gender	11900
 Human Rights Based Approach and Gender Equality	13998
 Human Rights and Gender	13331,64
 Human Rights and Gender Equity Digitalzentrum	1426
+ICT Gender Indicators	14897
 ID Gender	10714
 INTRODUCTION The Namibia National Gender Equality	12946
 Identified Gender Barriers and Proposed Actions	969
@@ -473,10 +499,16 @@ Law Gendered Voices Volume	11332
 Leadership Gender	13418
 Legislation Interpretation Relevance Compliance The Gender	1988
 Level of Study and Gender	14775
+Local Governments Gender Advocacy Strategy	14925
+MAINSTREAMING GENDER AND FAMILY PROMOTION Rwanda	14935
 MEDIUM for Gender-Responsive Planning	13990
+MIGEPROF Ministry of Gender and Family Promotion MINAGRI	14935
+MIGEPROF Ministry of Gender and Family Promotion MINALOC	14947
 MINISTER EXECUTIVE SUMMARY This National Gender	12946
 MINISTRY OF GENDER	14487,29
+MINISTRY OF GENDER AND FAMILY PROMOTION	14892
 MOBILE GENDER GAP	11902
+Mainstreaming Gender Equality and Social Inclusion	14935
 Mauritius. Accelerators of Progress Gender Equality Systemic	11332
 Mauritius’ National Gender Policy	14761
 Media COMMISSION FOR GENDER EQUALITY UNDERTAKES	11257
@@ -491,13 +523,13 @@ Minister of State for Gender and Cultural Affairs	14039
 Minister of Youth and Gender Affairs	7672,4935,28
 Minister of Youth and Gender Affairs Hon. Lesego	12626
 Ministry and Ministry of Gender Equality and Child Welfare	12984
-Ministry of Gender	1371,1177,1035,753,908,1408,43,4127,1353,6,1,71,75,346,18,5,2,30,52,197,2,60,124,45,1307
+Ministry of Gender	1371,1177,1035,753,908,1408,43,4127,1353,6,1,71,75,346,18,5,2,30,52,197,2,60,124,45,1307,688
 Ministry of Gender Equality	12337,36,75,475,23
 Ministry of Gender Equality and Child Welfare	1188,11139,148
 Ministry of Gender Equality and Family Welfare	14742,32,19,37
 Ministry of Gender Labor and Social Development	3005
 Ministry of Gender and Children Protection	5244
-Ministry of Gender and Family Promotion	12338,75
+Ministry of Gender and Family Promotion	12338,75,2522,121
 Ministry of Gender and Social Welfare	3584
 Ministry of Promotion of Women and Gender	10812
 Ministry of Youth and Gender Affairs	12613,13,16
@@ -516,7 +548,7 @@ Namibia’s Ministry of Gender Equality and Child Welfare	8006
 National Gender Commission	12613,29
 National Gender Equality Commission Dr. Purity	14523
 National Gender Machinery	11193,2198
-National Gender Policy	970,10555,380,348,146,950,42,29,1322,9,84
+National Gender Policy	970,10555,380,348,146,950,42,29,1322,9,84,57
 National Gender Policy Framework	11986,2759
 National Gender Policy The National	12964
 National Gender and Equality Commission	14546
@@ -560,17 +592,21 @@ Region Gender Age	418,11981
 Region Urban Region Rural Gender Male	12399
 Regional Cybersecurity Coordination Mechanism. On Gender	7452
 Regional Gender Permanent Task Force	12946
+Registration Form RSB Gender Equality Policy	15127
 Reported Cases of Gender-Based Violence	13399
 Reports Gender Development Index UN Human	11004,960
 Required Gender	12281
 Results and Impact Gender	12457
 Review Gender Training Resources	9203
 Review of Sexual and Gender-Based Violence Laws. Christine	8948
+Revised National Gender Policy	14892
+Richard Bird and Pierre-Pascal Gendron	14932
 Rwandans. GENDER STATUS IN EMPLOYMENT Table	12358
 SADC Protocol of Gender and Development. The Government	12939
 SECRETARIO FISCALIA DE GUARDIA GENDARMERÍA	4209
 SESA. Gender-based	2889
 SGBV Sexual and Gender-Based Violence SODV Sexual	12939
+SUDAN NATIONAL GENDER STATISTICS ASSESSMENT URL	14895
 School Attendance Gender Parity Index	13399
 Second Nation Gender Plan of Action	12946
 Secretary GENDER DIVISION	13399
@@ -586,6 +622,7 @@ Sexual and Gender-Based Violence	5244
 Singapore and Trinidad and Tobago. The Mobile Gender	11004
 Social Alliances Gender Eradication of Recovery Well-being	970
 Social SOGI Sexual Orientation and Gender Identity	11413
+Social and Gender Unit	14895
 Staff Gender Distribution	12969
 Staff Gender Distribution Figure	12969
 Staff Profile Staff Categories Staff Gender	12969
@@ -599,9 +636,10 @@ Study and Gender	14775
 Systemic Barriers Gendered Consequences An Afro-feminist	4443
 T Ministry of Gender Equality and Child Welfare	12327
 TAUCKOORY Sudess Coordinator Ministry of Gender	14770
+Table4.1 Distribution of Gender of Business Owners	15085
 Teams FM Financial Management GBV Gender-Based	1264
 Technology-Facilitated Gender Based Violence	11202
-Technology-Facilitated Gender-Based Violence	12104
+Technology-Facilitated Gender-Based Violence	12104,3238
 Technology-facilitated Gender-based Violence	13454
 TechnologyFacilitated Gender-Based Violence	6951
 Third National Gender Equality and Equity	12946
@@ -614,6 +652,7 @@ Uganda and India. Gender	11902
 Uganda’s Ministry of Gender	6113
 Uganda’s Ministry of Gender and Social Development	10822
 Unit Ministry of Gender Eqality and Family Welfare	14770
+United Nations Entity for Gender Equality	15204,43
 VII. Gendered	3583
 Vaccines and Immunization GBV Gender-based Violence GDP	11560
 Violence FM Financial Management GBV Gender-Based	10829
@@ -630,6 +669,7 @@ World Bank Group Gender Strategy FY16	10964
 World Bank's Gender Strategy	14456
 World Bank’s Gender Strategy	1264,9700,2367
 World Economic Forum Global Gender Gap	789
+YOUTH Gender Youth Non	15130
 Year of Study and Gender	14775
 ZIMBABWE GENDER COMMISSION	13420
 Zambia Gender Assessment	1867

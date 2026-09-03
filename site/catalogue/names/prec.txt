@@ -7,7 +7,7 @@ CONDITIONS PRECEDENT	4896
 Case Studies and Precedents	3861
 Class Precision Recall F1-Score Support	8606
 Climate Hazards Center Infrared Precipitation	12614,480
-Climate Hazards Group InfraRed Precipitation	10763,2923,455,410
+Climate Hazards Group InfraRed Precipitation	10763,2923,455,410,681
 Climate Hazards Group Infrared Precipitation	12611
 Climate Precision	14566
 Component Climate Hazards Group InfraRed Precipitation	10763
@@ -48,6 +48,7 @@ Precabe Farm	8419
 Precarious	3583
 Precarity and Vulnerability	226
 Precast	13385
+Precaution	14921
 Precautionary	11224
 Precautionary Suspensions	11218
 Precautions	14449
@@ -79,12 +80,13 @@ Precisam	10752
 Precisamos	12809
 Precise	789,1078,121,10469
 Precisely	10,7141,1309,2678,852
-Precision	1738,179,2611,717,3359,2,1160,2074,672,873,159
+Precision	1738,179,2611,717,3359,2,1160,2074,672,873,159,1558,58
 Precision Air Conditioners	9123
 Precision Air Conditioning System	12253
 Precision Air the PAC Units. Conditioning System	12253
 Precision Livestock Farming	14272
 Precision Recall F1 Score	8604
+Precision of NBR	15102
 Precision-Recall Curve	8604
 Precision-feeding	14818
 Precisioncanbeenhanced	8606
@@ -107,6 +109,7 @@ SUR LA PAGE PRECEDENTE. C’EST	13300
 Salvokop Precinct PPP Project Various	11248
 Scale Precision Agriculture AI Tunisian	9385
 Smart Agriculture Precision	14566
+Standard Precipitation Index	14900
 Standardized Precipitation Evapotranspiration Index	12611,3
 Standardized Precipitation Index	12611,3,1544
 Transf. Comité Nac. de Control de Precios Combustibles	4209

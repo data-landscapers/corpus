@@ -2,6 +2,7 @@ Abuse STI Sexually Transmitted Infection TWG	12939
 Accidents Road Traffic Accident Respiratory Infections	12151
 Acute Respiratory Infections	21
 Anaemia Infections Cardio Pul-	12151
+Associate Professor of Infectious Disease	15321
 Autodeclaração de Infecções de Transmissão Sexual	10777
 Centre for Infectious Disease Research	10374,1982
 Controlo de Infecções PdE Pontos de Entrada PFN	11376
@@ -41,7 +42,7 @@ Infections Meningitis	12151
 Infections Results	12151
 Infections Sexuellement Transmissibles	13300
 Infections and RUTF Malaria	4217
-Infectious	1988,10425,2301,1
+Infectious	1988,10425,2301,1,341
 Infectious Disease	14773
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
 Infectious Disease Preparedness ID Identification	14434
@@ -77,12 +78,14 @@ R4. Infection	14020
 Respiratory Infections	12151
 Respiratory Infections Infections Diseases	12151
 SEXUALLY TRANSMITTED INFECTION WAN	12253
+Self-reporting of Sexually Transmitted Infections	15247
 Sexually Transmitted Infections	1988,10265,787,1702
 Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sintomas de Infecção Respiratória Aguda	10777
 Sintomas de Infecções Transmissíveis Sexualmente	10777
 Symptoms of Acute Respiratory Infection	13454
+Symptoms of Sexually Transmitted Infections and Prior HIV	15247
 Tropical Infectiology	766
 VIH-positif Infection	13300
 West African Centre for Cell Biology of Infectious	8365

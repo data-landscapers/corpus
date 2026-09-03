@@ -43,6 +43,7 @@ Authority’s Chief Executive Officer and Director General	14176
 Ayham Moussa. Chief Operations Officer	10120
 BHOWON Georges Cleret Gerard Chief	14770
 BOCRA Acting Chief Executive Officer Maitseo	7239
+BPO Business Process Outsourcing CIO Chief	14965
 Bank Windhoek Chief Financial Officer	13194
 Bank Windhoek Chief Financial Officer Zenaune	13192
 Bayport Financial Services Tanzania Chief Credit	8884
@@ -85,12 +86,16 @@ CSquared’s Group Chief Technology Officer	3470
 CTO Chief Technology Officer DRA Digital	11545
 Cadastral Information System CLCC Chief Land	11261
 Camtel Chief Executive Judith Yah Sunday	7801
+Canar Chief Commercial Officer	14902
+Canar Chief Executive Officer	14902
+Canar Chief Executive Officer and David Garjang	14902
 Celia de Klerk Chief Director	11237
 Centenary Technology Services' Chief Executive	3693
 Chair of B20 and Chief Executive Officer of Toyota	11221
 Chairman and Chief Executive Officer	7895,2447,789
 Chairman and Chief Executive Officer Moh Damush	6185
-Chief	26,1,1,1526,753,869,951,170,306,1874,310,159,583,1291,575,678,73,983,19,316,53,634,372,21,4,40,73,232,149,55,198,12,150,224,476,225,433
+ChieTf	15034
+Chief	26,1,1,1526,753,869,951,170,306,1874,310,159,583,1291,575,678,73,983,19,316,53,634,372,21,4,40,73,232,149,55,198,12,150,224,476,225,433,37,182,130,178
 Chief Accountant	1554,2050
 Chief Accountant MoH	34
 Chief Accountant and RAPID-CI PCU	3604
@@ -100,6 +105,7 @@ Chief Administrators	7814
 Chief Audit Executive CARA Criminal Assets	11218
 Chief Benedict	7664
 Chief Benefits Officer RSSB	12370
+Chief Budget Managers	14935
 Chief Business Officer	5764,1848,2877
 Chief CIO	1777
 Chief Chikwanda of Mpika and Chief Kafwimbi of Isoka	13580
@@ -123,7 +129,7 @@ Chief Country Economist. The Bank Group	14119
 Chief Country Program Officer for Eritrea	14119
 Chief Data Analytics Officer	11997
 Chief Data Management and Security Officer de Mauritius	9948
-Chief Data Officer	3861
+Chief Data Officer	3861,11173
 Chief Data Officer Manuel	748
 Chief Data Officer11	748
 Chief Data Officers	3861
@@ -132,8 +138,9 @@ Chief Digital	1204
 Chief Digital Advisor	5378,533
 Chief Digital Office	1953,9182,1960,1439
 Chief Digital Office of UNDP	12241
-Chief Digital Officer	13661
+Chief Digital Officer	13661,1358,15
 Chief Digital Officer of LOTUS Bank	7314,594
+Chief Digital Officers	15128
 Chief Digital Officers and Chief Information Officers	14752
 Chief Digital Officers. The Ministry of ICT	5460
 Chief Digital Oﬃce	12674
@@ -150,7 +157,8 @@ Chief Directorates	11237
 Chief Diversification Officer	9097
 Chief Economic Adviser	5072
 Chief Economic Planning Officer	12972
-Chief Economist	7815,1210,2106,3,15,690,573
+Chief Economist	7815,1210,2106,3,15,690,573,2611
+Chief Economist and Executive Director	15023
 Chief Economist and Vice President	10718
 Chief Economist for Asia Pacific	8890
 Chief Economist of Development Bank Ghana	11032
@@ -167,9 +175,9 @@ Chief Enterprise Business Officer	3220,6500
 Chief Enterprise Business Officer Angela Mensah-Poku	9840
 Chief Enterprise Business Officer Lynda Saint-Nwafor	3155,31
 Chief Evangelist	6065
-Chief Executive	11,1198,3687,2949,548,140,285,2311,192,1304,21,252,71,838,1,140,880,15
+Chief Executive	11,1198,3687,2949,548,140,285,2311,192,1304,21,252,71,838,1,140,880,15,37
 Chief Executive EDPA GUIDELINES NO	13004
-Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,203,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71
+Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,203,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71,38,18,139,243
 Chief Executive Officer Antoine Sebera	6388
 Chief Executive Officer Ato Kinfe Negash	12195
 Chief Executive Officer CI Continuous Integration	6432
@@ -214,6 +222,7 @@ Chief Executive Officer of Airport Terminal Operations	14753
 Chief Executive Officer of CJID	10571
 Chief Executive Officer of Canal	5802
 Chief Executive Officer of Centenary Technology Services	6311
+Chief Executive Officer of CyberSecurity	15043
 Chief Executive Officer of DNS Africa	8627
 Chief Executive Officer of Digital Africa	3036
 Chief Executive Officer of Econet Wireless Zimbabwe	4896
@@ -229,7 +238,7 @@ Chief Executive Officer of INACOM	6797
 Chief Executive Officer of Jethi	14077
 Chief Executive Officer of KNCCI	9852
 Chief Executive Officer of Liquid C2. Liquid	1739,2698
-Chief Executive Officer of M42’s Digital Health	11748
+Chief Executive Officer of M42’s Digital Health	11748,3514
 Chief Executive Officer of MOBEX Africa	5970
 Chief Executive Officer of MTN Benin	6210
 Chief Executive Officer of MTN Ghana	5854
@@ -251,6 +260,8 @@ Chief Executive Officer of PAPSS	6401,2041
 Chief Executive Officer of Proparco Digital Africa	3036
 Chief Executive Officer of Protean International DMCC	14081
 Chief Executive Officer of Publica AI	4626
+Chief Executive Officer of RDB	14862
+Chief Executive Officer of RDB The Chief	14862
 Chief Executive Officer of RICTA	8343
 Chief Executive Officer of RISA	5356
 Chief Executive Officer of SID	10160
@@ -291,9 +302,10 @@ Chief Executive of Stanbic Bank Ghana	8928
 Chief Executives	14746
 Chief Executives of Local Authorities	14738
 Chief External Affairs Officer	4993,2438
+Chief Finance Officer	15080
 Chief Finance Officer and Managing Director of Ultimate	718
 Chief Financial	4896
-Chief Financial Officer	8866,1254,1011,3,64,40,34,17,1392,213,1331
+Chief Financial Officer	8866,1254,1011,3,64,40,34,17,1392,213,1331,637,157
 Chief Financial Officer Fikile Gama	4058
 Chief Financial Officer Master of Business Administration	11134
 Chief Financial Officer Signature Mr Thulani	5533
@@ -303,6 +315,7 @@ Chief Financial Officer of MultiChoice	8130
 Chief Financial Services Officer	7567
 Chief Fingerprint Officer	14407
 Chief Fixed Network Officer	9528
+Chief Gender Monitor	14869
 Chief Government Statistician	11133,9
 Chief Government Statistician PMT Proxy	11133
 Chief Government Valuer	14761
@@ -327,6 +340,8 @@ Chief Immigration Officer IOM	12972
 Chief Impact Officer	9544
 Chief Information Officer	1777,3124,171,1302,5171,24
 Chief Information Officer CMMI Capability Maturity	12917
+Chief Information Officer CSIRTs Computer Security	15164
+Chief Information Officer E EAC	14879
 Chief Information Officer PCC Practical Completion	11261
 Chief Information Officer Signature Chief Financial	11986
 Chief Information Officer Signature Ms Charlotte	5533
@@ -345,12 +360,13 @@ Chief Integration	7948
 Chief Intergovernmental Fiscal Relations Officer and Chief	6946
 Chief Joang Molapo	12656
 Chief Judge of Borno State	12063
-Chief Justice	587,3127,5264,336,3268,78,1,7,235,17,432,132,17,3,62,114,742,320,87
+Chief Justice	587,3127,5264,336,3268,78,1,7,235,17,432,132,17,3,62,114,742,320,87,402
 Chief Justice David Maraga	9645
 Chief Justice Gaolapelwe Ketlogetswe	12582
 Chief Justice Kudirat Kekere-Ekun	14396
 Chief Justice Mandisa Maya	2626
 Chief Justice Rony Govinden	6806
+Chief Justice Sulaiman Mohamed Mohamud	14994
 Chief Justice The Honourable Deputy	12955
 Chief Justice and President	6946,2600
 Chief Justice and Senior Puisne Judge	14742
@@ -381,14 +397,16 @@ Chief Negotiator H.E. Dr. Lansana Kouyaté	7452
 Chief Observer	12201
 Chief Officer	14714,1
 Chief Operating Decision Maker	10793
-Chief Operating Officer	2595,2301,4172,743,1320,3,1230,113,717
+Chief Operating Officer	2595,2301,4172,743,1320,3,1230,113,717,1668
 Chief Operating Officer Cauridor	5809
 Chief Operating Officer of Econet Wireless Zimbabwe	5538
+Chief Operating Officer of Elman Peace Centre	15195
 Chief Operating Officer of NGIC	5277
 Chief Operating Officer of NiRA	4690
 Chief Operating Officer of Telecel Ghana	10249
+Chief Operating Officer. Article	14862
 Chief Operating Officer. Koné	5809
-Chief Operations Officer	718,9402,1011,3,155,1673
+Chief Operations Officer	718,9402,1011,3,155,1673,2057
 Chief Operations Officer MPhil	11134
 Chief Operations and Strategy Office	5837
 Chief Power	11976
@@ -398,7 +416,7 @@ Chief Project Officer	2555
 Chief Projects Portfolio Management Officer Ato	12195
 Chief Regional Officer	13118
 Chief Regional Officers	13118
-Chief Registrar	8978,2211,515,634,72,810,87,4,984
+Chief Registrar	8978,2211,515,634,72,810,87,4,984,596
 Chief Registrar Supreme Court of Nigeria	1014
 Chief Registrar THIRD SCHEDULE	12410
 Chief Registrar of Companies and Other Business	13311
@@ -433,6 +451,7 @@ Chief State Law Advisor	11236
 Chief Statistician	4214,8453,101
 Chief Statistician OCGS. A BLUEPRINT	11133
 Chief Statistician and Data Officer	11554,419
+Chief Statistician of CBS	14895
 Chief Strategy	12512
 Chief Strategy Officer	8002,3141
 Chief Strategy Officer Michael Mutiga	7567
@@ -441,7 +460,9 @@ Chief Strategy Officer and Deputy CEO of Cybastion	8244
 Chief Surveyor	12647,2075
 Chief Surveyor-General	13213
 Chief Sustainability Officer	13057
+Chief Sustainability and Corporate Affairs Officer	15318
 Chief Technical	4896
+Chief Technical Advisor	14922
 Chief Technical Officer	4759,9963,70
 Chief Technology Officer	3652,41,1523,1475,1184,1945,685
 Chief Technology Officer DC Data Centre	6432
@@ -539,6 +560,7 @@ Deputy Chief Executive Officer Yolanda Cuba	9228
 Deputy Chief Executive Officer of AfricaNenda Foundation	8150,6144
 Deputy Chief Executive Officer of Econet Wireless	4896
 Deputy Chief Executive Officer of TradeMark Africa	9931
+Deputy Chief Gender Monitor	14869
 Deputy Chief Justice	13501
 Deputy Chief Justice Directorate Financial Year	12920
 Deputy Chief Justice Moses Kazibwe Kawumi	10563
@@ -555,7 +577,7 @@ Deputy Chief of Staff	1014,2676,4356,195,128,2,1359,520
 Deputy Division Chief	14777
 Deputy Executive Director and Chief Registrar	13238
 Digital Health Agency Chief Executive Anthony	10329
-Digital Health Solutions Platform and Group Chief	11748
+Digital Health Solutions Platform and Group Chief	11748,3514
 Digital Trust. The Chief Guest	14555
 Director General and Chief Executive Officer of LAA	12683
 Director General and Chief Registrar of Land Titles	6703
@@ -566,6 +588,7 @@ Directorate General and Area Chiefs	1382
 Disease Control CDO Chief Digital Office	12241
 District Chief	11716,369
 Division Chief	14777
+Division Chiefs	15034
 Divyajeet Chief Executive	4896
 Djibouti Telecom Chief Executive Officer Mohamed	4898
 Djibouti Telecom Sudatel Group Chief Executive	4898
@@ -616,6 +639,7 @@ Founder and Chief Executive Officer of Civic Watch	10370
 Founder and Chief Executive Officer of Egyptian	4723
 Founder and Chief Executive Officer of Margins ID	4677,1500
 Founder and Chief Executive Officer of Precise Financial	8627
+Francine UWANYIRIGIRA Chief Finance Officer	15080
 G20's Meeting of Agricultural Chief Scientists	2626
 GS1 Tanzania Chief Executive Officer	5883
 GSU Chief Executive Officer and Managing Director	4934
@@ -637,10 +661,10 @@ Governor and Chief Operations Officer	11131
 Grace Githaiga Convenor and Chief Executive Officer	14601
 Group COO and Group Chief Technology	5297,142
 Group COO and Group Chief Technology and AI	5311
-Group Chief Digital Officer	8583,3165
+Group Chief Digital Officer	8583,3165,3514
 Group Chief Executive	10665,2969
 Group Chief Executive Officer	4864,2340,7183
-Group Chief Executive Officer of M42	11748
+Group Chief Executive Officer of M42	11748,3514
 Group Chief Executive Officer of WIOCC Group	14405
 Group Chief Finance	7204
 Group Chief Finance Officer	4896
@@ -666,11 +690,13 @@ Honourable Minister and Chief Negotiator for Nigeria	12026
 Hospital Rundu Chiefs Sports Club Zealous	13046
 House of Chiefs	12556,789
 Hustler Fund Chief Executive Officer Henry	7710
+IAEA Chief of Cabinet Briefs Missions	15131
 IDC Chief Executive Officer	13410
 IEC Chief Electoral Officer	9375
 IEC Chief Electoral Officer Sy Mamabolo	9375
 IEC Chief Executive Officer Sambujang Njie	9315
 IHS Towers Chairman and Chief Executive Officer	9639
+IHVN Chief Executive Officer	15321
 ILX Fund Chief Investment Officer Kirstine	7229
 IMF Chief of Chief of Mission Mission	11134
 IMF Chief of Mission	3653
@@ -839,6 +865,7 @@ RAMASAMY Marveen Ag. Chief Executive	14770
 RANDRIAMANANA Zo Bienvenue UGD Chief Digital	14539
 REA. REA Acting Chief Executive Officer	13413
 REECHAYE Dheerendra Chief Executive	14770
+REG Chief Executive Officer Eng. Eng	15049
 REGIONAL LEADERSHIP Chief Executive Officer	14566
 REREC Chief Executive Officer	14665
 Recovery Account CD Chief Director DAC	11218
@@ -856,6 +883,7 @@ SECTOR REPORT4 FOREWORD FROM THE CHIEF	12395
 SEEPARSAD Vineshsing Chief	14770
 STEMpower Chief Executive Officer	10621
 Safaricom Ethiopia Chief Executive Officer Wim	7037
+Safaricom Ethiopia’s Chief External Affairs Officer	15319
 Secretary General Dr Sifundo Chief Moyo	4953
 Senior Chief Executive	4759,9983,31,62
 Senior Chief Executive Devendre Gopaul	14792
@@ -899,7 +927,7 @@ UN ECA's Deputy Executive Secretary and Chief	8472
 UNDP Chief Digital Office UNDP Resident	12384
 UNDP Chief Digital Office’s Digital Capacity	13080,15
 UNDP Malawi Chief Technical Advisor for Rule	13001
-UNDP's Chief Digital Office	1953
+UNDP's Chief Digital Office	1953,13238
 UNDP’s Chief Digital Office	10852
 UNICEF Lesotho’s Chief of Social Policy	4636
 UNICEF Zimbabwe Chief of Child Protection	9461
@@ -928,5 +956,7 @@ X Chief Legal Officer	13097
 X Deputy Chief	13097
 YAS Chief Executive Officer Mr Pierre	7026
 YEA Chief Executive Officer Malik Basintale	7285
+Yahsat Chief Commercial Officer	14902
+Yahsat Group Chief Executive Officer	14902
 ZEC Chief Elections Officer Mr Simbarashe	13699
 ZimSwitch Chief Executive Officer Zabron Chilakalaka	7781

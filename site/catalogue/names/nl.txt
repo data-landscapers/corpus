@@ -1,5 +1,6 @@
 African-language NLP	6808
 Anti Money Laundering NL	789
+Completed. NLAF	14971
 Dari NLP	7790
 Description NL-UNCTAD	1064
 E-payments. NLGFC	12980
@@ -18,6 +19,10 @@ NAM NSA 2013 NLFS Vo2	9485
 NAM NSA 2014 NLFS Vo3	9485
 NL Agriculture	970
 NL Sowazi	10793
+NLA National Learning Assessment TEA	14897
+NLA for Grade	14971
+NLAF Implementation	14971
+NLAF National Student Learning Assessment Framework	14971
 NLC-Fit-for-purpose	1032
 NLC. All PAPs	14546
 NLCBTZTX	12252
@@ -27,6 +32,7 @@ NLGRB	4687
 NLILtsblad	11178
 NLIMS	3374,4613,6580,87
 NLLB-200	6287
+NLM W	14898
 NLMIS	4153,11,4019
 NLMIS and KEMSA	4153
 NLNet Foundation and NGI Zero	12088

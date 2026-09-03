@@ -1,15 +1,16 @@
-Action Plans	11218,1753,361,17
+Action Plans	11218,1753,361,17,1586,12
 Action Plans and Application Systems	12961
 Action Plans and Programmes	12950
 Action Plans for Next Financial Year	12971
+AfDB Plans	14969
 Africa Future Plans and Conclusion Short	11191
 Analysis of Integrated Prepaid Tariff Plans	11259
-Annual Action Plans	789,12128
+Annual Action Plans	789,12128,2018,62
 Annual Development Plans	7548
 Annual Investment Plans. PBGs	5620
 Annual Procurement Plans	13127
 Annual Work Plans	10963,2042,984
-Annual Work Plans and Budgets	3562,7402
+Annual Work Plans and Budgets	3562,7402,3948
 Audit Action Plans	11218
 Authority ESOPs Employee Share Ownership Plans	2775
 Availability of Digital Cadastral Plans	12389
@@ -17,6 +18,7 @@ Availability of Spatial Plans and Zoning Requirements	12389
 Block Plans	2674
 Body LESOTHO ADVANCES PLANS FOR OVERSEAS	12746
 Broadcasting Plans	6946
+Budget Process Action Plans Quarterly	14935
 Budgets and Procurement Plans	11401
 Business Continuity Plans	12538
 Cameroon Unveils Plans for National Artificial Intelligence	2303
@@ -41,6 +43,7 @@ County Integrated Development Plans	7548
 County Investment Plans	10346
 Cross- Sectoral Plans Regarding	3487
 DE PLANS PARCELLAIRES EN LIGNE	9976
+Data Dissemination Policy and Plans	14857
 Delivery Plans	7751
 Deloitte Analysis of National Broadband Plans and Country	11857
 Detailed Urban Planning Plans	10930
@@ -50,7 +53,7 @@ Disabilities RAP Resettlement Action Plans REC	1264
 Disaster Recovery Plans	12538,882
 Disaster Recovery and Business Continuity Plans	4610
 Distributors Master Plans	12399
-District Development Plans	13005
+District Development Plans	13005,1917,24
 District Health Plans	3791
 Draft Radio Frequency Spectrum Assignment Plans	7980,109
 Drought Management Plans	12977
@@ -79,10 +82,13 @@ GSMA National Emergency Telecommunications Plans	14674
 Government Strategies and Action Plans	13037
 Govt Plans Drug Rehabilitation Centre	7312
 Grand Plans	8943
+HNRPs Humanitarian National Response Plans	15036
 Harambee Prosperity Plans	12946
 Helios Towers Plans	7477
 IPSAS IMPLEMENTATION MATRIX AND ACTION PLANS	13420
 ITU National Emergency Telecommunication Plans Best	14674
+Implementation Plans for FMSs	15031
+Incident Management and Response Plans	15054
 Incident Response Plans	4610
 Independent Pension Plans IPTV Internet-Protocol Televisions	2775
 Integrated Development Plans	11231,58
@@ -123,6 +129,8 @@ National Strategic Plans and United Nation’s Sustainable	12917
 News DR Congo Plans National Strategy	9924
 Nigeria Plans	3718
 Objectives and Action Plans BoZ Strategic Management	13532
+Open Government Plans	14965
+Open Government Plans. Figure	14965
 Operational Plans	12500
 PLANS NATIONAUX DE DEVELOPPEMENT NUMERIQUE	13482
 Performance Development Plans	11131
@@ -133,6 +141,7 @@ Planning Plans	10930
 Plans	396,119,373,82,674,895,4,229,113,176,156,18,161,103,55,91,256,171,164,3,735,130,184,77,234,132,1409,58,288,239,134,121,58,386,699,283,187,720,33,73,41,95,292,27,2,94,30,139,59,26,26,607,357,19,92,31,20,23,523,238,150,132,91,420,584,85
 Plans Fonciers Ruraux	10876
 Plans Locaux	14598
+Plans Maîtres Souverains	15287
 Plans Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Plans Nationaux de Contingence	14662
 Plans Stratégiques Nationaux	14622
@@ -141,7 +150,7 @@ Plans de Travail Annuels	10712
 Pre-Determined Change Control Plans	3651
 Pre-determined Change Control Plans	3651
 Private Building Plans Approved and Reported	2775
-Procurement Plans	1264,20,2320,7225
+Procurement Plans	1264,20,2320,7225,4309
 Program Action Plans	11905
 Promotional Prepaid Integrated Plans	11259
 Protection Plans	11754
@@ -154,19 +163,24 @@ Recovery Plans	4610
 Redundancy and Continuity Plans	34
 Regional Adaptation Plans	11103
 Registered General Plans	12605
+Remediation Plans	15149
 Resettlement Action Plans	3604,7921
 Review Action Plans	940
 Revised Framework for Strategic Plans and Annual	11986
 Revised Framework for Strategic Plans and Annual Performance	11224
 Rural Safety Plans	11188
+Rwanda-China... AfDB Plans	14969
 Résultats PFR Plans Fonciers Ruraux PPA	10876
 SADC Guidelines for Development of Broadband Plans	12921
 SH Action Plans	10829
 STEP. Procurement Plans	3604
+School Development Plans	14922
 School Emergency Response Plans	14742
+Sector Policies and Plans	14877
 Sector Skills Plans	12934
 Sector Statistics Plans	1188
-Sector Strategic Plans	1261,11152
+Sector Strategic Plans	1261,11152,2533,110
+Sectoral Development Plans	14860
 Service Plans	6892
 Seventh National Development Plans. This Policy	13346
 Social and Labour Plans	6683
@@ -184,9 +198,12 @@ Tinkhundla Development Plans	12970
 Togo Plans Prepaid Cards	7871
 Training and Awareness Plans	12538
 Transaction and Plans	7198
+Updated Procurement Plans	15138
 Updating the Master Urban Planning Plans	10930
 Urban Planning Plans	10930
 Visa Plans	2610
 Water Development and Area Plans	1988
 Wireless Internet Tariff Plans	11259
+YEARS-STRATEGIC PLANS	14934
+Years-Strategic Plans	14934
 Zimbabwe Unveils Plans for AI-Ready Data Center	4622

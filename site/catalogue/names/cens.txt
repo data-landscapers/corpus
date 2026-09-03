@@ -1,5 +1,7 @@
 ANÁLISE DOS PRINCIPAIS RESULTADOS DO CENSO	10766
+ASC Annual School Census	14916
 ASCR Annual School Census Report ADEA	13310
+Age of Household Head Censored	15244
 Agricultural Census	12551,1255
 Agriculture Census	12598
 Annual Censuses	13310
@@ -10,12 +12,17 @@ Annual School Census Questionnaire Administrative Data	13310
 Bank Group ASC Annual School Census	13310
 Biometric Census	14590
 Biometric Electoral Census Designed	11939
+Body CENSUS	14981
 Body Census and Statistics Act	13317
 Body Population and Housing Census The Population	14005
+Business Census	15085
+Business Establishment Census	15084,1,106
+Business Establishment Census The Somali Business	15085
 CENSTARs	12999
 CENSUS	9485
 CENSUS OF POPULATION	12431
 CENSUS OF POPULATION AND HOUSING	13367
+CENSUS PHASES CHAPTER	14903
 CSPro Census and Survey Processing System CTA	13300
 Cartografia Censitária	4979,6442,156
 Cartographie Censitaire	13518
@@ -35,20 +42,30 @@ Censo. Esta	11416,5,156
 Censo. O IC	11416,5,156
 Censo. O Inquérito	11416
 Censo. Por	11416
+Censored	15244
+Censored Headcount Ratio	15244
+Censored Headcount Ratios	15244
+Censored Headcount Ratios for Households	15244
 Censores de Cuentas	4209
 Censorship	6562
 Censorship and Entertainments Control Act	6951
 Censos	2816,8605,25,131
-Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30,262,10,5,7,42,153,816,266,181
+Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30,262,10,5,7,42,153,816,266,181,87,88,31,16,59,29
 Census Act	12551
 Census Committees	12963
+Census Design and Approach The Business Establishment	15085
+Census Design and Approach6	15085
 Census EAs	11296
 Census Final	12383
 Census Main Report	12963
 Census Night	12963
 Census Officials	12963
+Census Project Timeline Somalia Population and Housing	14981
 Census Reference Night	12963
+Census Results	15085
+Census Results4	15085
 Census Shows By Stephen Kamanzi	7992
+Census Stakeholders The Population and Housing Census	14981
 Census Technical Specialist du RGPHAE	14244
 Census and DNRN	10765,10
 Census and PES	12383
@@ -66,10 +83,11 @@ Census. As Namibia	12399
 Censuses	11192,1855
 Censuses and Surveys	12962
 Central Census Office	9408
-Centre RPHC Rwanda Population and Housing Census	12413
+Centre RPHC Rwanda Population and Housing Census	12413,2643
 Civil Status Administrative Malawi Census	10714
 Conducting the Population and Housing Census	2775
 Consultas Pré-natais Census and Survey Processing System	10777
+Coordination of Censuses and Surveys	14857
 Country Census	11935
 Deficiência O Censo	11577
 Director of U.S Census Bureau	12383
@@ -85,12 +103,15 @@ El V Censo General de Población	10487
 Electoral Census Comissions	11909
 Ensure Annual School Census	11860
 Enterprise Census	10870
-Establishment Census	6911,5534
+Establishment Census	6911,5534,2640
 Establishment Census Gender Thematic Report	7992
 Establishment Census IBES	12445
 Eswatini Population and Housing Census	12939,184
 FIR Censo Populacional	11422
 Fifth General Population and Housing Census	10870
+Fifth Rwanda Population and Housing Census	14903
+Foreign Private Capital Census	15107
+Foreign Private Capital Census Period	15107
 Fourth Population and Housing Census	12413
 Freedom of Information and Censorship of Content	6949,2
 Freight CIP Census of Industrial Production CIPI	2775
@@ -98,6 +119,7 @@ General Census	10765,10
 General Population and Housing Census	7702,4701
 Governance The Census and Statistics Act	13359
 HOUSING AND POPULATION CENSUS ENUMERATION SUCCESSFULLY	12749
+HOUSING CENSUS	14903
 HOUSING CENSUSES	14594
 Household Surveys and Censuses	11237
 Housing Census	10870,1281,1854
@@ -107,8 +129,11 @@ I Censo General Agropecuario	8048,2439
 II Censo Agropecuario	4209
 INE Census	115
 INTRODUCTION A Census of Population and Housing	13367
+INTRODUCTION AND SCHOOL CENSUS METHODOLOGY	15087
+Integrated Business Establishment Census	15085
 Internet Censorship Bill	2117
 Introduction The Census	12383
+Introduction and School Census Methodology	15087
 KPHC Kenya Population and Housing Census KPLC	2775
 Kenya Population and Housing Census	7548,4603,80
 Kenya Population and Housing Census KVSR Kenya	12151
@@ -119,7 +144,9 @@ Lesotho Population and Housing Census	12749
 Malawi Census	262,11913
 Malawi Population and Housing Census. Main Report	12175
 Management of Population and Housing Censuses	4040,4,7377,25,131
+Mode of Living Censored	15244
 Moçambique Censo de Instituições Sem Fins Lucrativos	9441
+Multidimensional Poverty Index CSPro Census and Survey	15244
 NIGERIA’S FIRST BIOMETRIC CENSUS	2535
 NOTA INTRODUTÓRIA Os Censos	4044,7377
 NSS. The Census and Statistics Act	13359
@@ -135,6 +162,8 @@ National Census Commission	13948
 National Census of Households and Population	10812
 National Census of Population and Housing	13367
 National Education Census Report Summary	3583
+National General Census	14862
+National General Census Article	14862
 National Population Commission for Census	11129
 National Population and Housing Census	8795,4238
 O Censo	4040,4,7372,5,25,131
@@ -149,7 +178,7 @@ Population Census	10748,122,1037,1460,1465
 Population Census Commission	13948
 Population Census Preliminary Report	11905
 Population Census Team	12413
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309
 Population and Housing Census Affar	14005
 Population and Housing Census Country Level	14005
 Population and Housing Census Dire Dawa	14005
@@ -177,7 +206,7 @@ RPHC Census	12358
 Relatório Censo Populacional	11422
 Review the Census and Statistics Act	13310
 Rwanda Census of Population and Housing	12403
-Rwanda Population and Housing Census	12413,1005
+Rwanda Population and Housing Census	12413,1005,1638
 Rwanda Population and Housing Census. SDGs	12403
 SCHOOL CENSUS METHODOLOGY Education	12411
 STATISTICAL RELEASE P0301.4 Census	11192
@@ -185,13 +214,21 @@ School Census	12411
 Second General Census of Agriculture	13806
 Secções Censitárias	11416,5,156
 Secções Censitárias. Um	11446,131
+Sex of Household Head Censored	15244
 Social Media Regulation and Online Censorship Even	5215
+Somali Business Establishment Census	15085
+Somali Population and Housing Census	14981
+Somali Population and Housing Census Somalia	14981
 South Africa for Census	11192
+States The Censored Headcount Rations	15244
+Sudan Censored Headcount Ratios	15244
 Surveys and Censuses	12962
+TBD Business Census Reports	14935
 Telephone Interview DCC District Census Coordinator	11192
 Third General Enterprise Census	10870
 US Census Bureau Data and EU Data	5863
 Um Censo	11421,25,131
 V Censo General de Población	8048,2439
 V Censo de Población	4209
+Work Status of Household Head Censored	15244
 Zimbabwe's Climate-Smart Annual School Census	12504

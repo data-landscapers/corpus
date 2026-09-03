@@ -6,7 +6,7 @@ African Pooled Procurement Mechanism	5141
 African Pooled Procurement Mechanism. Backfill	5141
 African Power Pool SCADA Supervisory Control	12399
 App Pool	10617
-Assist the Poor	100,8647,2230
+Assist the Poor	100,8647,2230,4065
 Available Pool Move	14659
 BOOJHARUT Pooshan Coordinator Ministry of Gender	14770
 C05 Poor	9237
@@ -17,10 +17,11 @@ Cyclones Devastated Madagascar's Poorest Communities	14569
 Data Explanation Example Good Poor Definition	12360
 Department of E Government Medium Term Poor	12917
 Deployment and Pooling Of SOC	5677
+Development Index HIPC Heavily Indebted Poor	15244
 Domestic Pools Surpass External Flows	5913
 East Africa Power Pool	12256
 Eastern Africa Power Pool	12233,23
-Eastern African Power Pool	12233
+Eastern African Power Pool	12233,2634
 Economic Empowerment of Poor and Vulnerable Households	10866
 Electricité POOL ASSURANCES Après	10975
 Facilities and Animal Welfare Poorly	14818
@@ -30,11 +31,18 @@ Good Poor Definition Reason	12360
 Governance and Accountability Problem Poor HMIS	11596
 Govt MTN Total Dividend Pool	10425
 Great East Road. Poor Adherence	13387
+HIPC Heavily Indebted Poor Countries	14929
 HIPC Heavily Indebted Poor Countries IBRD	11271
 Heavily Indebted Poor Countries	9490,2434
+Heavily Indebted Poor Countries Completion Point	14976,214
+Heavily Indebted Poor Countries Initiative	14925
 Heavily Indebted Poor Countries Internally Displaced	11136
+Heavily Indebted Poor Country	14897
+Heavily Indebted Poor County	14888
+High Indebted Poor Country	14888
 IIS Application Pool	10617
 Income Group Wealthiest Income Group Poorest	10829
+Indebted Poor Country BTS Base Transceiver	14897
 Innovation Poor	12025
 Irewole and Isokan. Opening of Pool	10049
 J'invite le Pool TPV	6901
@@ -51,6 +59,7 @@ Men Poor Vulnerable Other Poor Vulnerable	10763
 Million Prize Pool Tunisia Hosts COMESA	5322
 Million for Poor Service and Regulatory Breaches	3257
 Mobile Phone Ownership Increases Poor Women	11017
+Moderately Poor	15244
 Ms TAJOO Pooja Ag. Principal Safety	14770
 Needs Improvement and Poor Performer	11131
 North African Power Pool	11149
@@ -69,7 +78,7 @@ Pool Resources and Infrastructure	12675
 Pool des Transports Publics de Voyageurs	6901
 Pool of AI	12512
 Pool of AI Experts Lagging Indicators	4528
-Pooled	7548
+Pooled	7548,7616
 Pooled Cybersecurity Services	6936
 Pooled Funds	6947
 Pooled GEMs	11310
@@ -109,25 +118,30 @@ Poorest Second Middle Fourth Ritchest	11879
 Poorest Second Middle Fourth Ritchest None	11879
 Poorest Wealth	11879
 Poorest. Even	11469
-Poorly	3133,450,3590,5232,2282
+Poorly	3133,450,3590,5232,2282,173
 Poor’s and Fitch	13532
 Power Pool	12233,166,1034
 Protecting Poor and Vulnerable People	10964,941,1426
 Protecting the Poor and Vulnerable	10779
 Quarantine Pool	14659
 RAS. POOL ENTRETIEN ET MAINTENANCE	10975
+REG Hosts Eastern Africa Power Pool	15255
 Reach the Poor and Beyond. State of Social Protection	10985
 Reach the Poor and Most Vulnerable. Africa Development	10763
 Rural Poor	10726
 SADC Pooled Procurement Center	4260
 SAPP Southern African Power Pool TOU	12233
+Sanitation Poor	15244
+Severely Poor	15244
 Southern Africa Power Pool	13060
 Southern African Power Pool	9959,1057,133,1084,166,281,475
 Southern African Power Pool. Every	10169
+Standard and Poor	14897
 Supply Chain Insecurity and Poor Verification of Imported	6936
 Swimming Pool Attendant	14760
 Through the Southern African Power Pool	10169
 Union WAPP West Africa Power Pool	11549
+Unstable Poor	15342
 Urban Development and Poor Neighborhood Upgrading Project	11924
 Urban Rural Poor Food	10763
 Urban Rural Poor Vulnerable Other Poor	10763
@@ -136,3 +150,4 @@ Very Poor	10964,1250
 WB EHSGs Satellite PMU and Contractor Poor	1988
 West African Power Pool	11016
 Within the Eastern Africa Power Pool	14667
+World’s Poor	14997

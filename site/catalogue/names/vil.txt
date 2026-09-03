@@ -52,6 +52,7 @@ Gochas Gochas Village Council Hall KALKRAND	13046
 H.E Moses Vilakati	8192,1417
 H.E. Moses Vilakati	11283
 Heritage Village	1554
+Hôtel de Ville de Cotonou	15292
 Hôtel de Ville de Tahoua	9668
 ICT Village	7358,1
 Indy Village Congress Hotel	12809
@@ -64,6 +65,7 @@ Kahenge Combined School Karanawa Village Nkurenkuru	13046
 Kanyange Village. In Rwezamenyo Sector	4941
 Kim Viljoen	11017
 La Mairie de Ville	6098
+La Ville	15292
 Laboria Park Parliamentary Village	11285
 Le Morne Village	14774
 Liapeca Village	10765,10
@@ -80,6 +82,7 @@ Natale Village	6319,1
 National Director of SOS Children’s Villages Eswatini	11134
 Nchini. Vilevile	6019
 Niger Smart Villages for Rural Growth and Digital	3604,9727
+OPM Ministry of Planning Ministry of Commerce Villa	14965
 Office and SOS Children Villages. Bulembu Ministries	12977
 Orange Village	5561
 Orange Ville’s US	9253
@@ -110,7 +113,7 @@ Rondebosch and Parliamentary Villages	11285
 Rural Electrification Unit Powers Remote Villages	12682
 SGCCI Global Village	12617
 SOS Children Villages Eswatini	12977
-SOS Children's Villages	12115
+SOS Children's Villages	12115,3045
 SOS Children's Villages International	12328
 Section Villageoise	10876
 Section Villageoise de Gestion Foncière TDR Termes	10876
@@ -123,6 +126,7 @@ Smart Villages and Education for Rural Transformation	14267
 Special Handicrafts Villages	10980
 Speech STATEMENT FOR H.E. Moses Vilakati	11283
 Standard Chartered Foundation and Village Capital	10745
+Strengthening Social Protection Project VSLA Village	15138
 T. and Viljanen	11156
 Tarcísio Vilela	11429,3,47
 Tech City and Victoria Falls Lifestyle Villas	7534
@@ -153,7 +157,8 @@ Villa Elizabetha	12454
 Villa La Piscine	14450
 Villa Road	14736,111
 Villa Road Moka	14736
-Village	2760,1370,6699,456,431,501,133,59,489,409,307,950,149,25
+Villa Somalia	14906,141
+Village	2760,1370,6699,456,431,501,133,59,489,409,307,950,149,25,318,25
 Village Assessment Survey County Profiles	1867
 Village Bank and Savings and Credit Co-operatives	12409
 Village Business Units	13673,12
@@ -183,11 +188,12 @@ Village Manufacturing Value Added AfCFTA African	10980
 Village Market Afya House	4154
 Village Market PO Box	4153
 Village Reach	12240
-Village Savings and Loan Associations	10299,542,3712
+Village Savings and Loan Associations	10299,542,3712,406,179
 Village Savings and Loans	12964
 Village Savings and Loans Association	13390
 Village Savings and Loans Associations	11900
 Village Telco	985
+Village URUGWIRO. The Cabinet Meeting	14869
 Village de Vitré	1005
 Village des Technologies	1598,820
 Village of Innovation and Technology	1897,9059
@@ -208,6 +214,8 @@ Villbo Group	8132
 Ville	1232,1095,4264,2300,2009,2998
 Ville de Bobo-Dioulasso	10875
 Ville de Bobo-Dioulasso TIC	10875
+Ville de Kigali	14862,1
+Ville de Kigali. Il	15102
 Ville de Koudougou	10875
 Ville de Niamey	2327,7341
 Ville de Ouagadougou	10875

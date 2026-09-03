@@ -39,6 +39,7 @@ Audit MTSF Not Applicable ICAO International	11986
 B- Work A- MTN R ALLOWED	582
 BIG PICTURE TOTAL MTN	3862
 BPR Bank Rwanda and MTN MoMo Rwanda	8682
+BRD and MTN	15019
 Banja la Mtsogolo	13040
 Bayobab and MTN South Africa	10793
 Benin Congo-Brazzaville MTN Digital Infrastructure1 Head	10793
@@ -54,6 +55,7 @@ Board of Directors of MTN Group Limited	7198
 Body By Mthulisi Sibanda	13115
 Body MTC	12596
 Boost Digital Skills and Youth Innovation MTN	13276
+Bralirwa and MTN Rwandacell PLC	14997
 Bungoma County. Mt Elgon	14608
 CARE MTAANI SERVICES LIMITED Data Processor	7167
 CEDEAO COMMUNITY MTEF COMMUNITY BUDGET	6422
@@ -85,6 +87,7 @@ Chikumbutso Godfrey Mtuwa	10412
 Chuma and Mthethwa	8022
 Citation MTN Uganda Limited	9103
 Combining MTG	13062
+Company MTDT Ministry of Telecommunication and SFSP Sudan	14897
 Congo and Zambia. Selected MTN	10666
 Connecting Africa. MTN	8724
 Construction of Mtsambama Inkhundla	12962
@@ -94,6 +97,7 @@ DELAIS DE REMPLACEMENT DES TRANSFORMATEURS MT	10975
 Dangote Group and MTN Nigeria	3414
 Data Analytics Nhlanhla Mthethwa International	11131,3
 Dec Change MTC	1013
+Dec-2025 MTN Rwandacell Plc	15136
 Defends NRM Cooperation Deal MTN Apologises	4608
 Definition of MTF	11136
 Departments and Agencies MO Market Operator MTS	12062
@@ -103,6 +107,7 @@ Description MTI Computerisation	1665
 Description MTN Ghana	89,835
 Description MTN Nigeria Communications PLC	925
 Description MTN South Africa	926
+Destination MTN Rwandacell Plc Airtel Rwanda	15136
 Development MTDP Medium Term Expenditure Framework	11986
 Digital Eswatini Project Manager Zandile Mthembu	7605
 Director General of MTN Congo	6206
@@ -138,15 +143,18 @@ FIRE IN MTHATHA The Department	11260
 FPB R338m MTEF	3264
 FRW MTN Rwanda Ltd Airtel Rwanda	718
 FRW MTN Rwanda Ltd Liquid Telecom	718
+Fair Entrepreneurship Sunmakers MTN Start-up Techstars	14897
 Finance and Investment Promotion Minister Mthuli Ncube	12501
 Floor. Mr Mtayachalo	13387
 Following MTN Nigeria	9352
+Foreign MTN Rwandacell Plc	15136
 Four A- MTN	582
 Free MTN-to-MTN	11083
 Full MTRS	10997
 Fund MTRI Information Technology MTRS Large	12500
 G Both MTN and Vodacom	10797
 G MNOs Mobile Network Operators MTN	12395
+G MTN Rwandacell Plc	15136
 G and MTN AirFibre	10793
 G. MTN	5754
 GHz NCC Auction MTN Group	925
@@ -214,6 +222,7 @@ Le Programme de Renforcement des Capacités du MTFP	1281
 Licensed Payment Service Providers MTN Fintech	12390
 Licensees Telecom Namibia Powercom MTC Paratus	1944
 Lindi and Mtwara	9590
+Linked SIM Cards- MTN	15136
 Linking the MTEF	11237
 Lo Mthetho	11182,369
 Lonestar Cell MTN	5244
@@ -304,6 +313,7 @@ MTDPC	5466
 MTDPCE	1584,253,237,658,737,67,104,28,278,265,85,775,20,632,4536,449
 MTDPCE Issouf Tapsoba	10863
 MTDS and ABP	10779
+MTDT's National Information Center	14897
 MTE Computerisation	2642,2996
 MTEF Medium-Term Expenditure WBI Women’s Budget	11193
 MTEF Table	11986
@@ -334,12 +344,14 @@ MTGAS Ministério	12787
 MTI Computerisation	1665
 MTI-UNCTAD	14674
 MTI. Entre	10760
+MTIyNzc5MDQ2LjE3MTk2OTE3MjE	14932
 MTL MTL	14674
 MTL and Cabinet	4653
 MTM Management Team Meeting	11860
 MTMUSR	3396
 MTN Ace	12874
 MTN Airtel Tigo Service	10822
+MTN Airtel Total MTN Airtel	15136
 MTN App	11259
 MTN BENIN	10821
 MTN BURKINA	11588
@@ -398,6 +410,7 @@ MTN FiberX	11506
 MTN FibreX	5874,1236
 MTN Financials	10425
 MTN Fintech	8025,4318,101
+MTN Fixed	14897
 MTN Foundation	9102,1,3771
 MTN GHANA	6242
 MTN GLO AIRTEL EMTS	3862
@@ -429,7 +442,7 @@ MTN Ghana’s Adwumapa Esther Adem Senior	11083
 MTN Ghana’s Mobile Money	8813
 MTN GlobalConnect	1643,1034,1473,843,2336
 MTN GlobalConnect Solutions	1048
-MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,39,140,329,360,151,54,6,8,360,164,167,278,24,2590,317
+MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,39,140,329,360,151,54,6,8,360,164,167,278,24,2590,317,611
 MTN Group Available	9871
 MTN Group CEO	5569,5238
 MTN Group CEO Ralph Mupita	6563,288,3737,743
@@ -437,11 +450,11 @@ MTN Group CEO Sifiso Dabengwa	3187
 MTN Group Chief Information Officer Nikos	8583
 MTN Group Company	11234
 MTN Group Executive	9871
-MTN Group Fintech	1537,9129,3713,11
+MTN Group Fintech	1537,9129,3713,11,936
 MTN Group Fintech Holdings	3330
 MTN Group Fintech Holdings B.V	3011
 MTN Group Fintech Mastercard Inc	1537
-MTN Group Fintech Summit	14379
+MTN Group Fintech Summit	14379,947
 MTN Group Fintech's MoMo	14379
 MTN Group H1	14707
 MTN Group JSE	4896
@@ -455,6 +468,7 @@ MTN Group Limited and Oranje-Nassau Développement S.C.A	7198
 MTN Group Ltd	5364
 MTN Group President and CEO	2259,2877,3965
 MTN Group President and CEO Ralph Mupita	7491
+MTN Group UJ	15318
 MTN Group Vodacom Group	1944
 MTN Group and Airtel Africa	3759,2834
 MTN Group and Telecel	7158
@@ -495,7 +509,7 @@ MTN Markets Nigeria	14707
 MTN Mauritius	10793
 MTN Mauritius Revolving	10793
 MTN Mbour	9891
-MTN MoMo	3011,319,133,82,5,798,1361,365,28,266,225,1589,228,214,91,387,1564,75,276
+MTN MoMo	3011,319,133,82,5,798,1361,365,28,266,225,1589,228,214,91,387,1564,75,276,3952
 MTN MoMo Equips	10741
 MTN MoMo Fintech	3507
 MTN MoMo Merchant	8410
@@ -520,7 +534,7 @@ MTN Mobile Money General Manager	4261
 MTN Mobile Money Ghana	8174,340
 MTN Mobile Money Limited	5709
 MTN Mobile Money Uganda	3011
-MTN Mobile Money and Airtel Money	4988
+MTN Mobile Money and Airtel Money	4988,10009
 MTN Mobile Money and Orange Money	4261
 MTN Mobile Money for Ghana	4750
 MTN Mobile Money. Cette	6804
@@ -532,6 +546,7 @@ MTN MyTown Offers	11259
 MTN MyTown Offers Additional Bundles	11259
 MTN MyTown Offers Additional Bundles Bundle	11259
 MTN MyTown Offers MTN	11259
+MTN NA NA Google	14897
 MTN New FinCo	3330
 MTN Nigeria	240,209,190,286,880,329,195,143,66,25,592,31,1,33,110,84,274,52,57,353,574,331,145,108,401,430,271,298,83,87,451,962,117,173,146,202,39,395,197,4,75,481,305,112,256,14,360,339,351,46,2469,320,15
 MTN Nigeria CEO	4724
@@ -546,6 +561,7 @@ MTN Nigeria Communications PLC	925,9868
 MTN Nigeria Communications Plc	8408
 MTN Nigeria Communications Plc. Telephone	8408
 MTN Nigeria Ltd	3862
+MTN Nigeria Media Innovation Programme	15318
 MTN Nigeria President NIRA	11857
 MTN Nigeria USD	449
 MTN Nigeria Unveils Plan	3740
@@ -569,10 +585,14 @@ MTN One TV	6563,4230
 MTN One Web	5776
 MTN OneTV Bundle	11259
 MTN Online School	5621
+MTN Onnet	15136
 MTN Open Time	6834
 MTN Orange and Vodacom	6232
+MTN Outgoing	15136
+MTN Pan-African Media Innovation Programme	15318
 MTN Personalised Bundles Promotion	11259
 MTN Pulse Refer	11259
+MTN RWANDACELL Plc AIRTEL RWANDA LTD	15136
 MTN Responsibility for Data Collection PCU	3604
 MTN Rwanda	3013,3126,2127,181,367,1979
 MTN Rwanda Cell Plc	718
@@ -580,9 +600,15 @@ MTN Rwanda Chief Executive Officer	6139
 MTN Rwanda Ltd	718
 MTN Rwanda Ltd and AIRTEL Rwanda Ltd	718
 MTN Rwanda Ltd and Airtel Rwanda Ltd	718
+MTN Rwanda Plc	15136
 MTN Rwandacell	8753
-MTN Rwandacell Plc	718
+MTN Rwandacell Plc	718,14418
+MTN Rwandacell Plc Air	15136
+MTN Rwandacell Plc Airtel Rwanda Ltd	15136
 MTN Rwandacell Plc License	718
+MTN Rwandacell Plc Liquid Telecom Ltd	15136
+MTN Rwandacell Plc and Airtel Rwanda Ltd	15136
+MTN Rwandacell Plc. Overall	15136
 MTN SA	926,3585,1110,5119,53
 MTN SA CEO Ferdi Moolman	5621
 MTN SA CEO Ferdi Moolman and South	5621
@@ -613,7 +639,7 @@ MTN Speed-based Bundles	11259
 MTN Speed-based Bundles Bundle Name Price	11259
 MTN Speed-based Bundles MTN	11259
 MTN Subscriptions Telecel Market	2776
-MTN Sudan	1887,1561,7345,3401
+MTN Sudan	1887,1561,7345,3401,703,269,113
 MTN Sudan and MTN South Sudan	10793
 MTN Superflex R	11259
 MTN Supersonic	11259
@@ -641,7 +667,7 @@ MTN Uganda EBITDA	10793
 MTN Uganda Foundation Board	12874
 MTN Uganda Mulinge	9102
 MTN Uganda Syndicated	10793
-MTN Uganda and Airtel Uganda	4753,4000,724
+MTN Uganda and Airtel Uganda	4753,4000,724,5857
 MTN Uganda and EBus Xpress	11848
 MTN Uganda and H1	10793
 MTN Uganda and MTN MoMo	4348
@@ -662,7 +688,7 @@ MTN Zambia	1013,1801,2619,1034,2615,1711,1583,960,200
 MTN Zambia Syndicated	10793
 MTN Zambia and Starlink	13536
 MTN Zambia. The Committee	13336
-MTN and Airtel	1903,569,871,458,4,948,1067,54,834,168,1390,1493,450,652
+MTN and Airtel	1903,569,871,458,4,948,1067,54,834,168,1390,1493,450,652,4473
 MTN and Airtel Africa	4150
 MTN and Airtel Tigo	10822
 MTN and Canal	4756
@@ -681,6 +707,7 @@ MTN and Orange. Orange Liberia	7616
 MTN and Rack Centre	3477
 MTN and Real Image Internet	12395
 MTN and Safaricom	6714
+MTN and Sudatel	14897
 MTN and Telecel	2776,1361,3888
 MTN and Vodacom	2117,2779,3502,2797,3043
 MTN and ZTE	8112
@@ -696,6 +723,8 @@ MTN's Group	5709
 MTN's Mazen Mroué	6563
 MTN's Mobile Money	8580
 MTN's Next Frontier	5752
+MTN's RAN	14897
+MTN's Radio Access Network Sudan	14897
 MTN's and Equinix's South African	1208
 MTN-GHANA FY-2022 CALL-TRANSCRIPT-1.pdf	924
 MTN-Group-FY-25-Complete-results Booklet.pdf	5569
@@ -772,16 +801,21 @@ MTOMBENI	3274
 MTP IV	5108,2723
 MTP IV and Kenya's Vision	12280
 MTPEN	1837
+MTR Low	14897
 MTR Micro	10964
 MTR Mid-Term-Review PAD Project Appraisal Document	13861
 MTR and MTR	10964
 MTR the MoE	13378
 MTRI and DARS	12500
+MTRR Medium	14929
+MTRR V7.pdf	14929
 MTRS. The World Bank	13624
 MTRmission	13392
 MTRs and FTRs	6946
 MTSAO	11228
 MTSAO MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK	11228
+MTSF90	14997
+MTSF91	14997
 MTSJ.49.6.4	4676
 MTSS and MTEF	11866
 MTT AfCFTA AI API BPP CBN	10157
@@ -797,8 +831,11 @@ MTT-Hello.cv	6065
 MTTDE	11555
 MTTDE Ministério	11555
 MTTED	11552,17
+MTU-size	14864
+MTU. The ISP	14864
 MTUHA	1261
 MTVET	14576
+MTcxOTY5MTcyMC4xLjAuMTcxOTY5MTcyNC42MC4wLjA	14932
 MW. MTN Group CEO Ralph Mupita	5569
 Major General MT Mathonsi Telephone	11188
 Marikana. MTN	7738
@@ -812,6 +849,7 @@ Mbps. MTN Bénin	14279
 Media and Content MTEF R1.2bn	5183
 Medium Term Development Plan MTEF Medium	5533
 Medium Term Strategic Framework MTSF Targets	11890
+Memorandum of Understanding MTEF	14857
 Message Type TTC Types MT298 SMT	12364
 Microproject Programme Coordinating Unit. MTAD Ministry	12970
 Migori Kisii Nyamira Narok Kajiado Mt	7869
@@ -919,6 +957,7 @@ Mtn Bénin. Il	2694
 Mtn Mobile Money	6234
 Mtolo	8467,4920
 Mtoni MP	6301
+Mtons	15017
 Mtoto News	8050
 MtsE EN	14479
 Mtsambama	11134
@@ -926,6 +965,7 @@ Mtsambama Inkhundla	12970
 Mtsambama Magele	12977
 Mtsangadjou-Dimani	13786
 Mtshali	10481
+Mtsichriogeh7sltiagbhltisshsmigneniftiscaanc4tcospuanttiafol	15085
 Mtubatuba	2626
 Mtukula Pakhomo	12181,879
 Mtuli Kaforogwe	7321
@@ -978,11 +1018,12 @@ Oshana Oshikoto Otjozondjupa Zambezi Namibia MTC	1013
 Pan-African Payment and Settlement System MTN Ghana	5908,442
 Parlement MTPT OCDE O.M. Ministère des Transports	13290
 Partnership Requires Regulatory Fairness While MTN	8111
-Payload MTU	12377,245,121
+Payload MTU	12377,245,121,2135,3
 Percentage MTN	2776
 Performance Assessment Tool MTEF Medium Term	11224
 Performance Close Mt Pleasant Business Park	1877
 Physical Security Standards MTSF Medium Term	11218
+Port Sudan. MTN	14954
 Posse de MTI	10777
 President and CEO of MTN Group	5127
 Priority-High MTRS	13624
@@ -1012,6 +1053,7 @@ SVS Stock Visibility System MTEF Medium-Term	396
 Sadwick Mtonakutha	1600
 Salaam and Mtwara	3533
 Sdumo Mtshali	10481
+Sector. The Final MTR	14935
 Serikali Mtandao	1859,1226,2934,1199
 Serikali Mtumba	6019
 Setting Zone Setting Gender Mt Kenya	7869
@@ -1083,5 +1125,7 @@ Yango and MTN	3335
 Yet MTN	14707
 YoY. MTN SA's EBITDA	10793
 ZEEP MTR	13378
+Zain MTN	14897
 Zain South Sudan and MTN South Sudan	2313
+Zain and MTN	14897
 Zambia National Commercial Bank MTN Mobile	13535

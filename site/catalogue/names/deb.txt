@@ -1,4 +1,5 @@
 AFFAIRS PORTFOLIO COMMITTEE ON THE DEBATE	13131
+API Integration for Recurring Debit Orders	15260
 ATK Debt II	889,5835
 ATMs POS Debit Cards Credit Cards	4517
 AUDIT SERVICES REGISTRATIONS DEBT COUNSELLING STATISTICS	11198
@@ -30,11 +31,13 @@ CARTOGRAPHIE DU HAUT DEBIT DANS	13482
 CBDC Instruments POS Card Emoney Debit	12490
 CPI Consumer Price Index DFA Debt	11271
 Cape Town. Debeljak	2093
+Capital Market Debt Capital Market Equity	14997
 Cashflow and Debt Management Committee	11131,3
 Central Government Debt	10759,153,3865
 Comparative Debt Movement	12951
 Congo Total Public Debt Compared	1828
 Congo Total Public Debt Compared Figure	1828
+Consumption Tax Debate	14932
 Costly Domestic Debt	14546
 Credit Control Section Debt Management	9437
 Current USD Central Government Debt	10837,1052,265,186,1
@@ -82,9 +85,11 @@ Debilidades	1701
 Debilitating	10964
 Debit	11994,6,269,1,94,145,795,228,74,408
 Debit Card Users Decrease	11994
+Debit Cards Credit Cards Figure	15023
 Debit Notes Received	12509
 Debit Notes Received and Credit Notes Issued	12509
 Debit and Credit Cards	12392,1140
+DebitOrder	15260
 Debits	14834
 Debmarine Namibia	12951
 Debnath Shaw	6899
@@ -103,11 +108,13 @@ Debra Matabvu	13541
 Debra Matabvu-Herald Reporter GOVERNMENT	13448
 Debrah	5532
 Debre Berehan University	12162
-Debriefing	11986,990,61,148,1581
-Debriefings	13185
+Debriefing	11986,990,61,148,1581,314
+Debriefings	13185,1895
 Debswana	3897,8729
 Debt Assets	13868
 Debt Breakdown	12339
+Debt Capital Enhance FDI	14997
+Debt Claims	15014
 Debt Counselling	11198
 Debt Counselling Manager and Acting Company Secretary	11198
 Debt Debt-creating Flows Unexpected Changes	13868
@@ -121,7 +128,8 @@ Debt Investment	1415,2,1,721,2
 Debt Investments	817
 Debt Lib	13868
 Debt Limits Policy	3604
-Debt Management	12491,460,93,329,1173
+Debt Management	12491,460,93,329,1173,602
+Debt Management Department	15147
 Debt Management Effective	13053
 Debt Management Report	14546
 Debt Management System	10785
@@ -141,7 +149,7 @@ Debt Service-to-Revenue Ratio	13868
 Debt Statistics ROSC Report	14777
 Debt Stock	13053,1493
 Debt Stock and Prior	14546
-Debt Sustainability Analysis	12956,912
+Debt Sustainability Analysis	12956,912,1161
 Debt Swaps	11310
 Debt Trap	6001
 Debt Under Tax Appeal Processes	14546
@@ -171,6 +179,7 @@ Debts Under Validation Process	14546
 Debts and Obligations	12389
 Debub	14125
 Debub. Once	14120
+Debunking	15342
 Debunking Private	5700
 Debut Bond	813
 Delivering the Home Affairs Budget Vote Debate	11274
@@ -193,6 +202,7 @@ Enhance Debt Management and Public Expenditure Efficiency	13756
 Enhanced Debit Orders	12447
 Eswatini Revenue Authority Outstanding Debt	12976
 External Debt	2775,12002
+External Debt Equity Owner	15149
 External Debt Ser-	2775
 External Debt Sustainability Framework	13868
 External Public Debt	13868
@@ -211,8 +221,9 @@ Home Affairs Budget Vote Debate	3200,2996
 IFC Debt Facility	893,1322
 IFC Second Debt Facility	1517
 IFC Senior Debt Facility IFC	894
-IMF Debt Sustainability Analysis	7695
+IMF Debt Sustainability Analysis	7695,7202
 ISSUE AND REPAYMENT OF DEBT INSTRUMENTS	10793
+Improved Debt	14997
 Indicators of Public Debt Under Alternative Scenarios	13868
 Indicators of Public and Publicly Guaranteed External Debt	13868
 Informational Annex. A Debt Sustainability	13741
@@ -229,12 +240,13 @@ MESURÉ ALLONGÉ OU DEBOUT	13300
 MINFIN’s Debt	10779
 MINFIN’s Debt Management Unit	10779
 Management of Public Debt	14546
+Martin Cumpa.pdf Matthew DeBell Jon A	15244
 Maréchal Mahamat Idriss Deby Itno	2554
 Maréchal Mahamat Idriss Deby Itno. Ce	10094
 Maun Industrial Court. Debating	12610
 Medium Term Debt Strategy	12956,1590
 Medium-Term Debt Management	13474
-Medium-Term Debt Management Strategy	14546
+Medium-Term Debt Management Strategy	14546,602
 Medium-Term Debt Management Strategy and Annual Borrowing	11136
 Medium-Term Debt Strategy	7695,5261,912
 Merchants ATMs POS Debit Cards Credit	6978
@@ -269,10 +281,10 @@ Parliamentary Debates	1283,13470,88
 Participation. But Are We Debating the Right	8091
 Pensions and Public Debt	14546
 Plan National du Haut Debit	1885
-Private Sector External Debt	11134
+Private Sector External Debt	11134,3973
 Producer Price Index Public Sector Debt	14777
 Président Mahamat Idriss Deby Itno	6465
-Public Debt	106,1722,9303,1791,34,166,1,1062,361
+Public Debt	106,1722,9303,1791,34,166,1,1062,361,440
 Public Debt 5	1828
 Public Debt Consumption Deviation	1828
 Public Debt Developments	7695
@@ -309,8 +321,10 @@ SERVICE PORTFOLIO COMMITTEE ON THE DEBATE	13131
 SHS6BN DEBT	9696
 Sector Debt Statistics PSDSG	14777
 Sector and Size Sector Industry Debt-to-Equity Ratio	12445
+Segment Debt	14997
 Selected Debt Service Components and Budget Funding	1828
 Sensitivity Analysis for Key Indicators of Public Debt	13868
+Settling the Microfinance Debate	14997
 State Council's Belkacem Debrez	3425
 Strengthen Sovereign Debt Safety Net WAEMU	5407,676
 Strengthening Public Debt Management and Debt Data	14828,3
@@ -321,6 +335,7 @@ Tax Debt	12500
 Tax Debt Priority Area Coordinator	12162
 Term Debt Strategy	14546
 Term Debt Strategy and Annual Borrowing Plan	14546
+Through the Recurring Debit Order	15260
 Treatment and Protection of Debtor’s Assets	12389
 Tres Haut Debit	10856
 Turnaround Debt Facility Africa Finance Corporation	330
@@ -340,6 +355,7 @@ Venture Debt Steps Into The Spotlight	4972
 Venture Debt Took the Spotlight	4972
 Virtual Network Operator ND Net Debt	1818
 WIOCC Group Sustainability-Linked Debt Facility	1520
+WTO E-Commerce Moratorium Debate	14932
 World Bank's Debtor Report System	7589
 World Bank's Debtor Reporting System	483
 World Bank-IMF Debt Sustainability Analysis	238

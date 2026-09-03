@@ -28,6 +28,7 @@ B OC	14546
 BANCO DA AFRICA OCIDENTAL BDU CORIS	11588
 BASE-T OCP3 Adapter for HPE	12681
 BFT Oct	1041
+BNR MPFSS Occupational	14997
 Bed Night Occupied	2775
 Bed-Nights Occupancy	2775
 Betty Aol Ochan	12095
@@ -42,8 +43,10 @@ CREDITS DEMANDES ET CEUX OCTROYES AINSI	13390
 CRITERIA FOR OCCUPATION PERMIT	7845
 CUATROCIENTOS OCHENTA MIL	4209
 CURRENCY EQUIVALENTS Exchange Rate Effective Oct	11855
+CamScanner OCR	15180
 Cape Town Yumnaa Ocks	8022
 Caroline Ochieng	11572
+Cases Action Steps Impact Diversity and Occupational	14997
 Centros de Educación Ocupacional	4209
 Centros de Formación Ocupacional	4209
 Certificate of Occupancy	11129
@@ -77,6 +80,7 @@ DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED	4896
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED PROPERTY	4896
 Date of Occurrence	12151
 Death Occurring	12226
+Demand Occupation	14997
 Demographiques Oct	13746
 Department of Occupational Health and Safety	12597
 Dial Oct	511
@@ -131,9 +135,11 @@ Foreign Policy Instruments OCDE Mines Artisanales	643
 Formación Ocupacional	6841
 Formación Profesional Ocupacional	4209
 France's Trois Océans	13260
+French Indian Ocean	15331
 G10 Adoption of OCR Insurers	9237
 GHA Oct	7210
 GPCA Octotel 2024December19.pdf	448
+Geno Ochieng UN Women Rwanda	14990
 Get the Occurrence Book	7777
 GitHub Octoverse	990
 Great Data Race Beneath the Oceans	4676
@@ -158,7 +164,7 @@ IceKey Oct	10714
 Identification OCDE Organisation de Coopération	10712
 India Ocean	14808
 Indian Journal of Occupational and Environmental Medicine	12090
-Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2,545,103,22,11,30,60,94,9,52,21,6,57,3,10,1,5,5,16
+Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2,545,103,22,11,30,60,94,9,52,21,6,57,3,10,1,5,5,16,110,174
 Indian Ocean AI Innovation Network Regional	14566
 Indian Ocean Artificial Intelligence Summit	14618
 Indian Ocean Aucun	13701
@@ -167,7 +173,7 @@ Indian Ocean Colloquium	14839
 Indian Ocean Commission	7795,6947,3,3,71,20
 Indian Ocean Conference	13744,1061,3
 Indian Ocean Convection RGB	13701
-Indian Ocean Dipole	14158
+Indian Ocean Dipole	14158,797
 Indian Ocean Governance. The Prime Minister	14808
 Indian Ocean High Rate SEVIRI IR3.9	13701
 Indian Ocean Islands Games	14829
@@ -212,7 +218,7 @@ Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23	3583
 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23	11953
 Jul-24 Aug-24 Sep-24 Oct-24 Nov	12256
 Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24	11953,303
-Jun Jul Aug Sep Oct	11953
+Jun Jul Aug Sep Oct	11953,2943
 Jun Jul Aug Sep Oct Nov	11953
 Jun’22 Nov’22 Sep’23 Aug’24 Oct’25 ATB	5247
 Kampala. Oceng	5394
@@ -247,6 +253,7 @@ MetroFibre Go55 Octotel Promotion	11259
 Middle East and Indian Ocean. Partner2Connect	1634
 Mitigate Industrial Disasters Michael Moyo's Ocular	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Modular Ocean Model	9475
+Mogadishu HIRAAN GALGADUUD MADUG INDIAN OCEAN	14896
 Monthly Bed Occupancy Rates	2775
 Monthly Room Occupancy Rates	2775
 Mwafwe River Occupation	1988
@@ -275,7 +282,7 @@ OCCASION OF THE OFFICIAL	9761
 OCCASION OF THE OFFICIAL OPENING	13504
 OCCASIONNELLE	13300
 OCCIDENTAL GOLD	2342
-OCCRP	3364
+OCCRP	3364,11937
 OCCUPATION Occupation Classés	13300
 OCCUPATIONAL HEALTH UNIT	14773
 OCCUPATIONAL THERAPY	14773
@@ -293,6 +300,7 @@ OCGT Utilisation	11228
 OCGTs	11297,695
 OCHA Eritrea PHOTOGRAPHY	13977
 OCHA Office	969
+OCHA and United Nations Department of Safety and Security	15039
 OCHA-UNCTAD	13042
 OCHENTA MIL	4209
 OCHENTA Y CINCO MIL	4209
@@ -313,6 +321,7 @@ OCR'd	167,263,314,8,457,303,23,10,1,45,476,398,159,1986,503,127,2787,2727,141,1,
 OCR'd. Identification	10898
 OCR'd. Reading	2067
 OCR-blocked	3164,474,2910,348,47
+OCR-garbled	15180
 OCR-scanned	13723
 OCR-verified	3700,290
 OCR. Any	142
@@ -343,7 +352,7 @@ Oc2t-02241	12256
 Occasion	3861,10608
 Occasion of Swearingin	10819
 Occasional	9123
-Occasionally	11909,283
+Occasionally	11909,283,2972
 Occasionally About	12501
 Occasionnel	13300
 Occasionnelle	14488,1,1
@@ -353,7 +362,7 @@ Occup Sous- Sous- Chômeu Taux TF	737
 Occupancy	9155,3272,344,206
 Occupancy Permit	12389
 Occupati	14742
-Occupation	1988,2908,6322,1008,1074,99,1089,1,1
+Occupation	1988,2908,6322,1008,1074,99,1089,1,1,507
 Occupation Apr-Jun	11296
 Occupation Botswana	14098
 Occupation Business Address Mr Mgqibelo Gasela	4896
@@ -364,7 +373,7 @@ Occupation Orders and Tenancy Orders. The Industrial	14742
 Occupation Percentage	12006
 Occupation Permit	14828
 Occupation Permits	14828
-Occupational	1988,1468,3376,114,4194,58,1055,1132,138,1053,143,17,79
+Occupational	1988,1468,3376,114,4194,58,1055,1132,138,1053,143,17,79,182,208
 Occupational Bands	11218
 Occupational Category	7151
 Occupational Health	1988,11090,1658
@@ -388,7 +397,7 @@ Occupational Hygiene	1988
 Occupational Medical Surveillance	11134
 Occupational Medicine	14773
 Occupational Qualifications	6832
-Occupational Safety	12253,807,1701
+Occupational Safety	12253,807,1701,266
 Occupational Safety and Health	12964,1778
 Occupational Safety and Health Act	1988,10268,2166,320,19,74
 Occupational Safety and Health Bill	8681
@@ -456,10 +465,13 @@ Ocorre	4274
 Ocorrência	5169
 Ocorrências Químicas	11376
 Oct Proposed Rating	2712,1976
+Oct-16 Sep-16 Aug-16 Jul-16 Jun-16 May-16	14896
+Oct-17 Sep-17 Aug-17 Jul-17 Jun-17 May-17	14896
 Oct-2013	11924
 Oct-2013 Authorize Negotiations	11924
 Oct-2015. Effectiveness Date	13970
 Oct-2015. Original Closing Date	13970
+Oct-2016	14888
 Oct-2017. Revised Closing Date	13970
 Oct-2018	13970
 Oct-2018. Improved	13970
@@ -467,8 +479,11 @@ Oct-2018. Number	13970
 Oct-2018. Project Development Objective	13970
 Oct-2019 Portal Safeguard Policies Triggered	11924
 Oct-2019 Restructuring Sequence.03 Not Applicable	11924
+Oct-2020	14885,63
+Oct-2020 Effectiveness	14948
 Oct-2020 INTERNATIONAL DEVELOPMENT ASSOCIATION	14430
 Oct-2020 Satisfactory Moderately Satisfactory	11924
+Oct-2020 Signing	14948
 Oct-2022 Bank	11855
 Oct-2022 Moderately Satisfactory Moderately Satisfactory	11924
 Oct-2022. Total Project Cost	13850
@@ -477,12 +492,14 @@ Oct-2023 Progress	1284
 Oct-2023 Rev. Closing	11395
 Oct-2024	1343,571,4,794,3867,4796,20,529
 Oct-2024 Mid-Term Review No	2712,9212
-Oct-2025	2253,2435,2240,949,3592,798,760,31
+Oct-2025	2253,2435,2240,949,3592,798,760,31,1898,31,30,14,128
 Oct-2025 BRIDGE Nigeria Practice Area	3456
 Oct-2025 Bank	3604
 Oct-2025 Effectiveness	4688,3189
 Oct-2025 Estimated Date of Approval	13523
 Oct-2025 No Actual	6928
+Oct-2025 Operation Closing	15159
+Oct-2025. Key	15017
 Oct-2025. Practice Area	11965
 Oct-2025. Projected Date for Full Disbursement	11965
 Oct-2025. Proposed Closing	11965
@@ -513,6 +530,7 @@ October-2025	3917
 October-2025-Launch-of-AI-for-All-booklet.pdf Author	14772
 October-April	12611
 October-December	969,243,1563,4092,1
+October-November	15087
 October-November-December	2775
 October-November. Projected	14443
 October116	12201
@@ -528,7 +546,7 @@ Octobre du PTA	10876
 Octodev	12478
 Octotel	448
 Octoverse	990,10932
-Octroi	6221,7080
+Octroi	6221,7080,1801
 Octroi de Licence L’INSBU	13393
 Octroie	13846
 Octroyer	13290,11,113,305
@@ -546,8 +564,9 @@ Océan Indien	6883,6841,16,882,207
 Océan Indien. Hamdi Abdillahi Rahilie	13802
 Océanie	13324
 Odysseo Oceanarium Mauritius	14774
+Oracle OCP	15080
 Organising Framework for Occupations OIHD	6832
-Pacific Ocean	14158
+Pacific Ocean	14158,797
 Padrão Global OC4IDS	9432
 Parlement MTPT OCDE O.M. Ministère des Transports	13290
 Patricia Asero Ochieng and Others	3005
@@ -585,6 +604,8 @@ Rights of Leasehold and Occupational Land Rights	12912
 Robert Ochola	2358,179
 Robert Ochola Engagement	7787
 Ruth Ocero Minister of Health	4217
+Rwanda's Occupation	14997
+Réunion New Indien Ocean Network	15333
 SAIIA Occasional Paper	1006
 SH Risk Management Occupational Health and Safety	1988
 SIDA Océan Indien	14839
@@ -625,13 +646,15 @@ Trois Océans	13260
 Télécommunications OCSP	14438
 UMc Australia Oceania Australia and New Zealand	10840
 UN International Standard Classification of Occupations	14815
-UN OCHA	3583
+UN OCHA	3583,11637
+UN OCHA UN Office	15220
 UNCTAD and OCHA	13042
 UNESCO Intergovernmental Oceanographic Commission	14732
 UNHCR and OCHA	10776
 United States Citation Ocks	8022
 Unlawful Occupation of Land Act	11188
 Update OCGS	11133
+Update the Occupation	14997
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073,6265
 West Indian Ocean Cable Company Ltd	284,216
 West Indian Ocean Cable Company. Earlier	2677

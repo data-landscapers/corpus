@@ -31,11 +31,14 @@ Alternate Documents. Exceptions	14045
 Amendment of Bidding Document	13185,342
 Amendment of Bidding Documents	14766
 Amendment of Prequalification Document	1638
+Amendment of Request for Proposals Document	15080
 Anexo de Documentos	12021
 Angola Janet Adão Doctors	10784
 Appearance and Security Features of Documents Issued	11868
+Application Software Security Directives Document History	15161
 Appraisal Document	11965
 Appraisal Document PAD PDO Project Development	11855
+Appraisal Document. Does	15190
 Appraisal-Stage Project Information Document	1704
 Approval. This Document	3503
 Architecture Documentation	5665
@@ -79,14 +82,17 @@ Bidding Documents The Head	13527
 Bidding Documents. Failure	14766,12
 Bidding Documents. Later	14766
 Bidding Documents. The Bidders’ Representatives	14778
+Bill Document	15021
 Biometric Document Production Center	11535
 Birth Certificates and Identity Documents	12972
 Board Documents	9915,77
 Body DOCUMENTS	13019
+Body Document Title	15161
 Body Document of The World Bank Group	12968
 Brilliant AI Doctor	12246
 Budget Document Number	13122
 Budget Documents	14800
+Bureau Documenten	14905
 Busuma Document Type	13669
 C OF THIS DOCUMENT. THE FOLLOWING	11240
 C.4. Documents Establishing Conformity	14778
@@ -132,6 +138,7 @@ Clarification and Amendment of RFP Documents	13037
 Clarification of Bidding Document	13527
 Clarification of Bidding Documents and Pre-bid Meeting	14766
 Clarification of Prequalification Documents	1638
+Clarification of Request for Proposals Document	15080
 Clinic Doctor Risk Manager Technology Manager	8603
 Commission Staff Working Document	6477,2590
 Common Core Document	12936
@@ -148,9 +155,11 @@ Computer Science Doctor of Philosophy	12407
 Concept Project Information Document	12253
 Conception and Scoping Document	11007
 Configuration Documentation	5665
+Conflict and Violence Metadata Documentation	15024
 Congo Télécom. Documents	2656
 Conservation and Archiving of Documents	12364
 Conservation and Archiving of Documents BoZ	12364
+Constitutional Document	14884
 Constitutional and Political Doctrine	3861
 Constitutional and Political Doctrine Data	3861
 Consultation Document	10406
@@ -179,6 +188,8 @@ D. Documentation	7977
 D. G DE FORM. DOCENTE	4209
 DATE CONFLICT PRINTED IN THE DOCUMENT	442
 DATE CONFLICT PRINTED ON THE DOCUMENT	739
+DDI Document	15024
+DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
 DECLASSIFICATION DES INFORMATIONS ET DES DOCUMENTS	113
 DEEDS AND OTHER DOCUMENTS	13251
 DES DOCUMENTS D'IDENTIFICATION Article	10813
@@ -216,10 +227,12 @@ DOCUMENT DE POLITIQUE NATIONALE DE L’ENSEIGNEMENT	12
 DOCUMENT HISTORY Version Revision Date Revision	14441
 DOCUMENT IS IN MILLIONS	3537
 DOCUMENT ON A PROPOSED CREDIT	989,9975,891,1477
-DOCUMENT ON A PROPOSED GRANT	969,898,1695,7267,696,24,11,616,605,550,412,113
+DOCUMENT ON A PROPOSED GRANT	969,898,1695,7267,696,24,11,616,605,550,412,113,1081,39
 DOCUMENT ON A PROPOSED LOAN	6539,4878
 DOCUMENT ON PROPOSED CREDITS	1264
 DOCUMENT REVIEW	11129
+DOCUMENT REVIEW CYCLE	14921
+DOCUMENT REVIEW CYCLE RISA	14921
 DOCUMENT TITLE	12939
 DOCUMENT TRACKING TABLE Reference	5678,1
 DOCUMENT Violence	12939
@@ -243,6 +256,7 @@ DOCX Front	12211
 DU DOCUMENT ET DE LA SISNATURE	13719
 Data Download and Documentation	10977
 Database Document Management	14738
+Dataset Documentation The International Research Institute	14900
 Deadline for Obtaining Tender Document	12693
 Deeds and Documents	13251
 Definition Fall-back Fall-back Documented	12364
@@ -275,6 +289,7 @@ DocDate	11135
 DocFlow	2287
 DocFlow By Emma Ujah	2287
 DocFox’s US	12339
+Docente	15263
 Docente da UNILÚRIO	2816
 Docente da UniLúrio	2816
 Docentes	10752,14
@@ -326,7 +341,7 @@ Doctorants	1183
 Doctorants-Moniteurs	4833
 Doctorat	10855,2550
 Doctorate	6946,4185,3
-Doctors	2987,1180,35,58,41,1051,448,2638,2342,4,45,807,20,1705,1115
+Doctors	2987,1180,35,58,41,1051,448,2638,2342,4,45,807,20,1705,1115,421
 Doctors Extend Observation of Jewel Howard-Taylor	10405
 Doctors U.S. Mozambique Mozambique Year Government	4260
 Doctors Without Borders	10302
@@ -341,9 +356,9 @@ Doctrinal Foundation of Data Sovereignty AFFIRMING	3861
 Doctrinal Foundations of Data Sovereignty	3861
 Doctrine	5970
 Doctrouvé Koï	10253
-Doctype	1264,603,606,416,567,148,1049,1886,4229,649,143,345,19,1187,1442,23
+Doctype	1264,603,606,416,567,148,1049,1886,4229,649,143,345,19,1187,1442,23,562
 Docum Nombre	3396
-Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314,44,6,12,22,12,29,12,62,143,102,3,21,4,10,16,136,47,42,52,50,21,279,9,4,4,35,2,163,225,12,13,14,3,28,7,29,12,9,70,12,199
+Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314,44,6,12,22,12,29,12,62,143,102,3,21,4,10,16,136,47,42,52,50,21,279,9,4,4,35,2,163,225,12,13,14,3,28,7,29,12,9,70,12,199,40,8,10,3,29,7,3,17,7,23,34,35,53
 Document ALL	13310
 Document An Attorney-at-Law	14828,3
 Document Analysis	11028
@@ -371,8 +386,8 @@ Document History	12360
 Document ID Number	8605
 Document Information	775
 Document Information File Name	13308
-Document Management	6432,4799
-Document Management System	6432,4799,3599
+Document Management	6432,4799,3933
+Document Management System	6432,4799,3599,334
 Document Mapping and Evidence Summarization	1824
 Document May Be Found	775
 Document Media Interchange	1009
@@ -384,6 +399,7 @@ Document No	12574
 Document Non-patient File Non-patient File Sharing	1009
 Document Number	8831
 Document Number Amount ZWL	13420
+Document Number Edition	15302
 Document PPPC	12253
 Document PPPC At the Government and NACIT NACIT	12253
 Document Politique	13390
@@ -443,9 +459,9 @@ DocumentObjectModel	8606
 Documentación de Vehículos	4209
 Documentaires	6959
 Documentar	12360
-Documentary	5903,3496,3097,541,383,1316,42
+Documentary	5903,3496,3097,541,383,1316,42,221
 Documentary Evidence	11233,1952
-Documentation	747,440,2396,208,70,1652,152,1291,265,1,2633,458,499,163,293,310,50,232,1,93,89,184,70,103,208,149,278,150,164,32,151,241,416,21,315,12,37,77
+Documentation	747,440,2396,208,70,1652,152,1291,265,1,2633,458,499,163,293,310,50,232,1,93,89,184,70,103,208,149,278,150,164,32,151,241,416,21,315,12,37,77,223,31,16,169,39,35
 Documentation Centraliser	14537
 Documentation Compliant	13037
 Documentation Contact	1297
@@ -456,6 +472,7 @@ Documentation Quick Reference Section Purpose Link	12499
 Documentation Requirements	13185
 Documentation Review Provide	13185
 Documentation Security	12499
+Documentation Specialist	15080
 Documentation Tools	2477
 Documentation URL	13714
 Documentation Webmail Contactez	1297
@@ -480,8 +497,9 @@ Documentação	2438,9004,127
 Documentação Exigida	11472
 Documentação de Propriedade	10777
 Documentação de Qualificação	11448
-Documented	962,1026,1873,1959,1401,3935,705,91,548,895
+Documented	962,1026,1873,1959,1401,3935,705,91,548,895,1485,284
 Documented National CII	1000
+Documented Security Controls	15149
 Documenter	747
 Documenting	4863,2288,1562,3643,252
 Documento	2431,385,7671,873,23,21,15,22,3,4,3,5,2,3,2,4,88,27,316,3,120,829,11,1354
@@ -508,7 +526,7 @@ Documentos Mínimos	11404
 Documentos Online	11898
 Documentos de Apoio	12018
 Documentos de Identificação	11383
-Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45,45,41,174,50,332,294,5,1,16,26,11,7,11,107,102,6,39,39,110,1,4,22,36,4,49,176,408,5,143,128,47,38,63,39,24,3,39,69,79,57,84,109,33,90,18,305,13,11,1,4,10,14,74,41,135,4,2,7,1,7,11,1,2,2,5,3,3,9,3,5,12,4,12,8,1,4,9,2,2,3,1,4
+Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45,45,41,174,50,332,294,5,1,16,26,11,7,11,107,102,6,39,39,110,1,4,22,36,4,49,176,408,5,143,128,47,38,63,39,24,3,39,69,79,57,84,109,33,90,18,305,13,11,1,4,10,14,74,41,135,4,2,7,1,7,11,1,2,2,5,3,3,9,3,5,12,4,12,8,1,4,9,2,2,3,1,4,15,25,13,25,9,5,91,11,115,15,97
 Documents Access	13042
 Documents Administratifs	10812
 Documents Agenda	12055
@@ -516,19 +534,22 @@ Documents Authentication and Registration Service	1784,668,749,3881,3627
 Documents Biométriques Semlex	2048,2596
 Documents Comprising the Application	1638
 Documents Comprising the Bid	14766
+Documents Comprising the Proposal	15080
 Documents Consortium	11916
 Documents Contacts UNSPSC	13694
 Documents Cyril Brandt	11916
 Documents Establishing	13185
 Documents Establishing Bidder’s Eligibility	14778
+Documents Establishing Conformity	15080
 Documents Establishing the Conformity	14766
-Documents Establishing the Eligibility	1638
+Documents Establishing the Eligibility	1638,13442
 Documents Establishing the Eligibility and Conformity	13185
-Documents Establishing the Eligibility and Qualifications	13185
+Documents Establishing the Eligibility and Qualifications	13185,1895
 Documents Establishing the Qualifications	1638
 Documents Issued	11868
 Documents Monetary Policy Statements Reports Legislations	12390
 Documents Publics	3340
+Documents Recovered On Mar	15142
 Documents Related Services	13185
 Documents Statement	13457
 Documents Sécurisés	2328
@@ -542,12 +563,14 @@ DocumentsList	1377,13337
 Documentum	13185
 Documentário	2816
 Docusign Envelope ID	14539
+Docuware	14997
 Download Common Core Document Ministry of Justice	12936
 Décrets Ordonnances Lois Documents	3675
 E Docentes	4209
 E. PRODUCTION DU DOCUMENT DES INDICATEURS	13478
 EAC A- EAC Proposal Document	7548
 EAC A- EAC Proposal Document Number	7548
+ELECTRONIC TRANSACTIONS AND DOCUMENTS Building	14853
 EU Action Document	845
 East African Documentary Film Fund Data	7167
 Ecoles Doctorales	13313
@@ -577,6 +600,7 @@ FR Doc	5773
 FUNDING AND PARTNERSHIP Documentation	11860
 Falsificação de Documentos	11425
 Federated Identity. Document Digital	1009
+Final Year Project Docs	14965
 Findings Document	11235
 Findings Document and Position Paper	11235
 Firms Over Contract Breaches and False Documents	3955
@@ -590,6 +614,7 @@ Free. Required Documents	12349
 Frontend Docs User	12499
 GENERAL NOTICE REASONS DOCUMENT FOR END-USER	4732
 GSM Association Official Document FS.31 CM	10721
+GUIDELINES Document Title	15302
 Gambia. Policy Document	9727
 Gestion Electronique des Documents	2342
 Gestão Documental	11371
@@ -621,11 +646,12 @@ IDs Identity Documents IDS Identification System	12947
 IHE Technical Framework Documents. Technical	1009
 II. Comprehensive Documentation	13004
 INCENTIVES NOTES Documents Referenced	11857
+INFORMATION AND DOCUMENTATION CHECKLIST	14880
 INFRASTRUCTURE NOTES Documents Referenced	11857
 INTERVENANTS DESCRIPTION DES TACHES DOCUMENTS ET	10876
 IV.1 DOCUMENTS NORMATIFS Le PNDIS II	13306
 IV.1 Documents	13306
-Identification Documents	13031,279
+Identification Documents	13031,279,1544
 Identificação Tributária. Documentos	12861
 Identity Doc	12152
 Identity Document	8250,2509,9,67,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,85,386
@@ -637,17 +663,20 @@ Identity Document Services	12404
 Identity Documents	3602,8725,10,30,147,171,262
 Identity Documents Eritrea	14091
 Identity Documents and Identification	5533,6453
+Identity Documents and Passports URL	14905
 Implemented Web Interpol System for Document Management	12984
 Improve Documentation of Pregnancy Outcomes	10881
 Income Identification Document International Monetary Fund	12701
 Income Tax GIZ Document Authentication and Registration	12500
 Information System ID Identity Document NIIS	11986
 Information and Documentation	14434
+Information and Documentation Checklist Fourth Schedule	14880
 Information and Documentation-Records Management-Part	13250
 Initial Documents	13037
 Initial TECHNICAL DOCUMENTATIONS ID Technical Requirement	13037
 Inkomoko. Refugee Identification Documents	12297
 Inspection of Documents	13968
+Institutions EDMS Electronic Document Management System	15023
 Integrated Document Management System	5587,1
 Integrated Document and Records Management System	11349
 Integrated Document and Records Management Systems	11349
@@ -655,6 +684,7 @@ Integrated Population and Secure Documents Management System	2823
 Integration Layer PKI Infrastructure Document Signer	13005
 International Certified Documents	12041
 International Journal of Doctoral Studies	9129
+Interoperability Intelligence Documents Reference	15034
 Invitation Documents Documents Add	10235
 Invitation Documents Registration REGISTER HERE Invitations	10235
 Iraq Identification Document Ireland Hong Kong	10714
@@ -674,6 +704,7 @@ Lack of Identity Documents	12227
 Lack of Land Ownership Documents The Government	14546
 Lack of Support Documents	14546
 Lagos Based Doctor Uncovers The Hidden	5574,215
+Land and Documentation of Ownership	15247
 Language TCCD Technology Change Control Document	6432
 Le Document de Politique Budgétaire	3396
 Learn More Property Search Document Search	12511
@@ -683,10 +714,12 @@ Legalisation of Foreign Public Documents Page	10819
 Legality of Online Documents	12389
 Licence- Master- Doctorat	12
 Licensing and Legal Documentation	5665
+LinkLegacyShareLinkDialog Documents	15310
 List of Documents	12389
 List of Documents Reviewed	12917
 Loading Dock	9123
 London's Docklands	3554
+M. Documentation	15161
 MANDATORY REQUIREMENTS DOCUMENT All	13031
 MIOS Framework and Principles Document	11184
 MOH Methodology for Data Collection Documentation	11417
@@ -697,6 +730,7 @@ MTR Mid-Term-Review PAD Project Appraisal Document	13861
 Machine-Readable Travel Documents	12164
 Management Backend Backend Docs	12499
 Mandatory Documents Mandatory Requirement Compliant	13037
+Masters and Doctorates	14897
 Master’s and Doctoral Degrees	11131,3
 Matsapha Forklift Doc MCC Warehouse	11134
 Mauritius Country Programme Document	11332
@@ -758,7 +792,9 @@ PIDIAF0158 Project Information Document	14553
 PIDIAF0329 Project Information Document	12832
 PRIMARY DOCUMENT	1826
 PROJECT APPRAISAL DOCUMENT ON A PROPOSED	12780
+PROJECT APPRAISAL DOCUMENT ON PROPOSED GRANTS	14910
 PROJECT APPRAISAL DOCUMENT PCR	12253
+PROPOSALS DOCUMENT	15080
 PSIP Document	14830
 PSIP Document The PSIP	14830
 PUBLIC DOCUMENT	6422
@@ -790,12 +826,14 @@ Program Document for First State-Owned Enterprises Reform	11909
 Programme Doctorate Degree Masters' Degree Professional	11134
 Programme Document	12214,1786
 Programme Graduated Still Studying Doctorate	11131
-Project Appraisal Document	541,2,16,183,229,25,294,575,123,901,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114
+Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,901,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Appraisal Document PHEOC Public Health	11417
+Project Appraisal Document URL	14976
 Project Appraisal Document for Republic of Congo LISUNGI	11924
-Project Information Document	772,199,25,197,26,485,549,38,9962,159,14,243,442,412,264,6,44,178,561
+Project Document	15010
+Project Information Document	772,199,25,197,26,485,549,38,9962,159,14,243,442,412,264,6,44,178,561,378,2,10,131
 Project Information Documents	5620
 Project Initiation Document	13185
 Proposal Document	10856
@@ -831,13 +869,17 @@ Refugee Identification Documents	12227
 Refugee Identification Documents. Legal Notice No	12227
 Registration Invitations Documents REGISTER HERE En	10235
 Registration of Deeds and Documents System	14828,3
-Related Documents	14511
+Related Documents	14511,696
 Relevant Documents	1988
 Relevant Documents World Bank Related Documents	1988
 Remove Metadata Remove Metadata and Documents SOAP	1009
 Remove Metadata and Documents RFD South African	1009
+Request for Documents The Chamber	15175
 Request for Information Document The RFI	14756
+Request for Proposal Documents	14996
+Request for Proposals Document	15080
 Required Documentation	6442,6312
+Required Documents	14891
 Required Documents Applicants	12085
 Requirements Documentary	12496
 Requirements Specification Document	12400
@@ -867,7 +909,7 @@ SODD System Overview Design Document PMDS	11986
 SOPs Documents	13005
 STAND-ALONE DOCUMENT	12902
 STRATEGIC DOCUMENTS	9485
-SUPPORTING DOCUMENTS	2709
+SUPPORTING DOCUMENTS	2709,12171
 SUPPORTING DOCUMENTS World Bank. All Aide	11924
 Sections of Bidding Document	13185,342
 Sections of Prequalification Document	1638
@@ -878,13 +920,16 @@ Security of Civil Status Documents	2972
 Segurança Documental	11565,1
 Set of Documents	12389
 Shakantu Common Core Document The Ministry	12936
-Single Administrative Document	7512,5530
+Single Administrative Document	7512,5530,2024
+Single Administrative Documents	15066
 Single Collection Document	11939
 Sistema Integrado de Gestão Documental	4294
 Sistema Nacional de Gestao Documental	570
 Sistema Nacional de Gestão Documental	2434
 Sistema de Emissão de Documentos	2688
 Sistema de Validação Electrónica de Documentos	11461
+Solicitation Documents	14927
+Somali National Identification Document	15223
 South Africa's DocFox and MNDR	7015
 South African Passports and Travel Documents Act	5533,6453
 South African Passports and Travel Documents Regulations	5533,6453
@@ -896,6 +941,7 @@ Southern Province of Rwanda. The DOC	1903
 Staff Working Document	6476
 Stakeholder Engagement Document	14674
 Standard Bidding Documents	11209,316,864
+Standard Procurement Document Summary	15080
 Standard Procurement Documents	1867,9658
 Standards Department Document Classification	12360
 Standards Document Distribution	13308
@@ -919,7 +965,7 @@ Table of Contents DOCUMENT APPROVAL	14441
 Targeted Document Review	14666
 Technical Document	1704
 Technical Document Requirements	13037
-Technical Documentation	6985,5379
+Technical Documentation	6985,5379,2717
 Technical Documentations Section	13037
 Technical Documents	13185
 Temporary Identity Document	10962
@@ -952,8 +998,9 @@ UN General Assembly. Document	1237
 Unified Documents	12389
 United Kingdom's Electronic Trade Documents Act	10718
 University of Pavia of Italy and Research and Documentation	14047
+Updated Design Document	15090
 User Documentation Provide	11952
-User Manuals and Technical Documentation	12400
+User Manuals and Technical Documentation	12400,2690
 VACC. NI AUTRE DOCUMENT	13300
 VALIDATION DU DOCUMENT Version Valideur	14438
 VALIDITY OF THIS DOCUMENT	11184
@@ -978,14 +1025,14 @@ Working Groups Specifications Document Interoperability	1009
 World Bank Document	11443
 World Bank Document FOR OFFICIAL USE	11380
 World Bank Document The World Bank	11395
-World Bank Document URL	2889,8660,2287,1,24,92
+World Bank Document URL	2889,8660,2287,1,24,92,1064
 World Bank Documents	579,1335,2300,3441
 World Bank Documents API	980
 World Bank ICR DOCUMENT CG	11924
 World Bank ICR DOCUMENT CG Rep	11924
 World Bank Program Appraisal Document	1693
 World Bank Program Document	558
-World Bank Project Appraisal Document	541,34,1679
+World Bank Project Appraisal Document	541,34,1679,12682
 World Bank Project Information Document	14674
 World Bank Standard Procurement Documents	3604
 World Bank's Standard Bidding Documents	11905

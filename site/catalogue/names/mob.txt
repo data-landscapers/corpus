@@ -9,6 +9,7 @@ AGT Mobile	10762
 AGT Mobile Banco	10762
 AIRTEL MOBILE COMMERCE	7167
 AIRTEL MOBILE COMMERCE SERVICES LIMITED Data	7167
+APPLICATION FOR LICENSE TO PROVIDE MOBILE	14880
 ATMs. Mobile	11130
 AVUNJA MOBILE LTD Data Controller INST-456024D384E	7167
 AVUNJA MOBILE LTD Data Processor INST-456024D384E	7167
@@ -73,6 +74,7 @@ Alert Communication Management PIXv3 Mobile Care	1009
 Algérie Télécom's Mobilis	2968,1200,1208
 Amandla. Mobi Initial Submission	4732
 Amplifier MNO Mobile Network Operator OECD	12006
+Analysis of Somalia’s Mobile Broadband Price Benchmarking	15120
 Angolan Mobile Payments Subsystem	10775
 App And Mobile Banking Ethiopia FMO	1471
 App Store. MOBILE INTERNET USER	11964
@@ -92,11 +94,12 @@ Atribuição de Maritime Mobile Service Identity	11531
 Autentika Cabo Verde Mobile Digital Key	11875
 Authorisation ITU Mobile Alert Communication Management	1009
 Avenue Mob	3386
-Average Mobile	2776
+Average Mobile	2776,12121
 Average Mobile Data Price	6946
 Average Mobile Subscription	2776
 Average Mobile Tariff	2776
 Average Mobile Tariffs	2776
+Average Mobile Voice Tariff	15136
 Awareness and Mobilization	11860
 Awareness and Mobilization Advocacy	11860
 B Mobile	14674
@@ -107,6 +110,7 @@ B.1 Mobile Subscriber Penetration Malawi	14674
 B.2 Mobile	14674
 B.3 Mobile	14674
 BANGE MOBILE GE	4994
+BANKS MFIs SACCOs Mobile	15130
 BASSE KOTTO MOBAYE-ZANGBA	10829
 BATTERY SUPPORT ACCESS APPROVE USE MOBILE	11964
 BEEPS AND RINGS MOBILE SEMANTICS LTD	7167
@@ -146,6 +150,7 @@ Broadcasting Licensees Mobile Money Penetration	6946
 Buba and Mobile Justice. Looking	11541
 Budget Mobile	13395
 Building Non-Oil Revenue Mobilization	3583
+Bundle Mobile Internet Tariffs	15136
 Bundles Data Volume Telkom Mobile	11259
 Burkina Faso Mobile Money Moov Africa	9993
 Burundi Mobilisation	13433
@@ -228,9 +233,11 @@ Community Mobilisation	11192
 Community Mobilisation Facilitator Mr. Kefiloe	12699
 Community Mobilization	12970,448
 Community Mobilization Strategy	13418
+Community Mobilization and Youth Volunteers Coordination	15019
 Community Mobilizations	12970
 Compact Private Capital Mobilization Public Private	11468
 Comparative Valuation Metrics of Selected African Mobile	4896
+Comparison of Mobile-cellular Subscriptions	15136
 Complaints Mobile	11642
 Complaints Mobile of E-Government	12241
 Compra de Mobiliario	4209
@@ -265,6 +272,7 @@ DIFFICULTIES MOBILE IN SUPPORT	11964
 DIFFICULTIES MOBILE IN USING MOBILE SUPPORT	11004
 DISRUPTED DATA MOBILITY Latour and Woolgar	12090
 DOMESTIC MOBILE TRAFFIC	2776
+DRM Domestic Revenue Mobilization	14929
 DYNAMIC MOBILE COMMUNICATIONS LIMITED Data Processor	7167
 DYNAMIC MOBILITY TECHNOLOGY LIMITED Data Controller	7167
 DYNAMIC MOBILITY TECHNOLOGY LIMITED Data Processor	7167
@@ -289,6 +297,7 @@ Development Fund's Mobile Money	12376
 Development of Mobile Digital Wallet	12241
 Development of Mobile Digital Wallet Following	13080
 Diaspora Mobilisation Policy	11960
+Digital Financial Services Mobile	15130
 Digital ID Mobile App Wallet	13080,15
 Digital ID Mobile Wallet	13095
 Digital Mobile Driving License	11774
@@ -310,7 +319,7 @@ Domestic Mobile Voice and SMS Traffic Safaricom	6671
 Domestic Resource Mobilisation Strategy	8358,5327
 Domestic Resource Mobilization	1284,3065,7120
 Domestic Revenue Mobilisation Strategy Annual Budget	3307
-Domestic Revenue Mobilization	12663
+Domestic Revenue Mobilization	12663,2368,59
 Donors Eswatini Mobile	12444
 Download the Mobile App	11877
 Drive-to-Own’ Model for African Mobility Norbert Haguma	7324
@@ -336,8 +345,10 @@ Editors The Mobile Gender Gap Report	11003
 Education Priorité Afrique Mobilize Education	13628
 Egypt Records the Lowest Mobile Complaint Rate	11642
 Electoral Commission's Mobile App Development IMPORTANT	7266
-Electric Mobility	12256
+Electric Mobility	12256,2691
 Electric Mobility Association of Kenya	12256
+Electric Mobility Issue	14947
+Electric Mobility Policy	14947
 Electronic Mobile Networks	12395
 Eligibility for Free Monthly Mobile Data Package	14823
 Email Address Email Mobile Number	736
@@ -376,6 +387,7 @@ FHIR Cross-reference for Mobile	1009
 FHIR Demographics Query Mobile	1009
 FINANCING AND RESOURCE MOBILIZATION	12240
 FINANCING AND RESOURCE MOBILIZATION Effective	12240
+FIXED AND MOBILE LAST MILE SOLUTIONS	14879
 FIXED and MOBILE X-RAY EQUIPMENT	11269
 Faiba Mobile	9940
 Fast Tracking Generation and Mobilizing the Private Sector	12399
@@ -387,7 +399,7 @@ Figure ES.1 Mobile	10977
 Figures ES.1 Mobile	10977
 Fin Mobile	12172
 Finance and National Planning Mobile Network Operators	12453
-Financial Overview and Resource Mobilization	13989
+Financial Overview and Resource Mobilization	13989,970
 Financing and Resource Mobilisation	12240,213,892,2
 Financing and Resource Mobilization	12240
 Financing and Resource Mobilization Diversified	4528,7984
@@ -398,6 +410,8 @@ Fixed Mobile Convergence	3258
 Fixed Telephone Shaping The Mobile Licenses	12395
 Fixed Telephone and Mobile Network Services	2775
 Fixed and Mobile	14836
+Fixed and Mobile Last Mile Solutions	14879
+Fixed and Mobile Network Facilities. Application	15205
 Fixed and Mobile Network Services	2775
 Fixed and Mobile Tariffs	6946
 Fixed and Mobile Telephony Charges	2775
@@ -413,8 +427,9 @@ Functional Mobile Phone	582
 Funding and Resource Mobilisation	14747
 Funding and Resource Mobilization	12356
 Future of Mobile Data	236
+G GLOBAL SYSTEM FOR MOBILE COMMUNICATIONS	14879
 G MNOs Mobile Network Operators MTN	12395
-G Mobile	4150,7707
+G Mobile	4150,7707,3311
 G Mobile Services	14822
 G Network Coverage Outlook. Ericsson Mobility	5675
 G. Mobile	6728
@@ -423,6 +438,7 @@ GB Mobile Data	12376
 GB of Mobile	6928
 GB. Mobile	10245,599
 GD-183-7174 Mob	3386
+GDP Mobile	15023
 GE-248-4904 Mob	3386
 GENDER GAP IN MOBILE INTERNET	11004,898
 GENDER GAP IN MOBILE INTERNET ADOPTION	11004,960
@@ -483,19 +499,25 @@ Global System for Mobile Communication	11857,1438,52
 Global System for Mobile Communication Africa	958
 Global System for Mobile Communication GVT	958
 Global System for Mobile Communications	5590,1356,5717,638,30,5
-Global System for Mobile Communications Association	1264,2340,3576,1761,25,1449,1591
+Global System for Mobile Communications Association	1264,2340,3576,1761,25,1449,1591,2891,223
 Global System for Mobile Communications Coverage	13336
 Global System for Mobile Communications GSMA GSM	11857
 Global System for Mobile Communications GVA Gross	2775
+Global System for Mobile Communications HEI Higher	15164
+Global System of Mobile Communications GOVNET	14879
+Global Systems Mobile Association I ICANN	14879
 Government Mobile App Testing Lab	14258
 Government Mobile Key	10714
+Government Mobilization	14932
 Grabouw Wynberg Schemanshoek Khayelitsha Mobile Teams	8999
 Greater Accra Region Mob	3386
 Green Mobility Yaoundé	6958
 Gross Domestic Product Know-Your-Customer Mobile	11130
+Guidelines and Regulations Governing Electric Mobility	14947
 Guidelines for Mobile Application Development	11004
 HANDSET DATA COST DIFFICULTIES MOBILE	11004
 HANDSET DATA DIFFICULTIES MOBILE	11964
+HAVE A MOBILE MONEY WALLET HAVE	15130
 Harness Mobile Data for National Planning	6538
 Has Mobile Money Outgrown Its Own	3292,1688,360,1433
 Have Mobile	12214
@@ -518,10 +540,12 @@ II.1.3 Mobilisation	13306
 III. OBSERVATOIRE DES SERVICES FINANCIERS MOBILES	13586
 IMMUTABLE MOBILES AND DATA JOURNEYS	12090
 INCOMING MOBILE	3862
+INDICATORS OF FIXED AND MOBILE	14853
 INDIVIDUAL OWNERSHIP OF MOBILE PHONES	582
 INR About the Organization Mobile for Development	9072
 INTERNATIONAL MOBILE	7828
 INTERNATIONAL MOBILE TRAFFIC International SMS Traffic	2776
+INTERNET BANKING SUBSCRIBERS MOBILE BANKING SUBSCRIBERS	15130
 INTERNET ET SERVICES FINANCIERS MOBILES AU	13586
 INVESTMENTS Mobile Network Operators	6000
 IUA Mobile Care Services Discovery	1009
@@ -551,10 +575,12 @@ International Mobile Telecommunications. Interested	7980,109
 International Mobile Terminal	10407
 International Mobile Traffic	6671
 International Mobile Traffic Indicator	6671
+International Mobile Voice Traffic	15136
 International Outgoing Mobile SMS	6671
 International Outgoing Mobile Voice Traffic	6671
 International Outgoing Mobile Voice Traffic International	2776
 International Transfers Card Mobile Money	5247
+Internet Banking Mobile	15023
 Internet Mob.-cell	10844
 Internet Mobile	998
 Internet Mobile Nombre	998
@@ -571,6 +597,7 @@ Ivoire-based Afro Mobile SARL	10518
 JICA's Private Capital Mobilization Scheme	4500
 JOURNEY TO MOBILE INTERNET USE	11902
 Journal of Mobile Computing and Application	9616
+Just Resource Mobilisation	14932
 Justice Molafo Mobile	10569
 Jérôme Hénique. Mobile	2278
 KENYA HOUSING SURVEY FACT SHEET Mobile	12251
@@ -634,6 +661,7 @@ MFI Micro Finance Institution MFS Mobile	2775
 MHz Mobile Base Station	14780
 MHz Mobile Base Station Baseline	14780
 MHz Mobile Base Station Requirements	14780
+MMO Mobile Money Operators MNO Mobile	14897
 MMPs Mobile	11994
 MMR Maternal Mortality Ratio MNOs Mobile	2775
 MMS Radio TV Mobile Print Apps	1944
@@ -674,6 +702,8 @@ MOBILE MONEY	582,10395,420,3232
 MOBILE MONEY M	582
 MOBILE MONEY OPERATORS	13388
 MOBILE MONEY PLATFORM COMMERCIAL BANKS	12977
+MOBILE MONEY SERVICE LICENSE APPLICATION	14880
+MOBILE MONEY SERVICE PROVIDER	14880
 MOBILE MONEY TO SAVE. In Sub-Saharan	10977
 MOBILE NETWORK	2776
 MOBILE NETWORK CONNECTIVITY	12395
@@ -687,6 +717,7 @@ MOBILE SERVICES REVENUE	11211,51
 MOBILE SMS TRAFFIC	6000
 MOBILE SMS TRAFFIC Total SMS	6000
 MOBILE SUBSCRIPTIONS	6000,5211,51
+MOBILE TELEPHONE SERVICES	15136
 MOBILE TELEPHONY	6000
 MOBILE TELEPHONY INFRASTRUCTURE	6000
 MOBILE TO MOBILE TRAFFIC	3862
@@ -730,7 +761,7 @@ MTN Mobile Money General Manager	4261
 MTN Mobile Money Ghana	8174,340
 MTN Mobile Money Limited	5709
 MTN Mobile Money Uganda	3011
-MTN Mobile Money and Airtel Money	4988
+MTN Mobile Money and Airtel Money	4988,10009
 MTN Mobile Money and Orange Money	4261
 MTN Mobile Money for Ghana	4750
 MTN Mobile Money. Cette	6804
@@ -746,6 +777,9 @@ Malawi Digital ID Mobile App Wallet	13080
 Malawi Mobile	14674
 Malawi Mobilizes Grant Funds Building	1828
 Managing Director of Mobile Telecommunications Limited	12986
+Market Share Trends of Active Mobile Money	15136
+Market Share of Active Mobile Money	15136
+Market Share of International Mobile Voice Traffic	15136
 Market Share of Mobile Base Stations	6000
 Market Share of Mobile GSM Operators	3862
 Market Share of Mobile Operators	3862
@@ -784,11 +818,13 @@ Mobihealth Multi-Country Telehealth Expansion	12937
 Mobiil-ID F25	10714
 Mobil Banking	3715
 Mobil Money	6045
-Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,24,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,140,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13
+Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,24,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,140,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22
 Mobile Access Centers	2868
 Mobile Accessibility	11952
 Mobile Accès Internet Mobile	998
+Mobile Agents Number of Mobile	15023
 Mobile Alert	1009
+Mobile All	14965
 Mobile Android	12693
 Mobile App	775,7667,3893,24,612,66,1713,29,26,6
 Mobile App Coming Soon	5817
@@ -798,9 +834,9 @@ Mobile App Store	11004
 Mobile App Surveillance Problem	6212
 Mobile Application	12241
 Mobile Application Attacks	6671
-Mobile Application Development	13037,319
+Mobile Application Development	13037,319,1595
 Mobile Application Security	10721
-Mobile Applications	11952,4,961
+Mobile Applications	11952,4,961,2366
 Mobile Applications. Eswatini	13052
 Mobile Apps	1944,10439
 Mobile Assistant	14125
@@ -808,6 +844,8 @@ Mobile Backup Collection	12508
 Mobile Bank Usage	2775
 Mobile Banking	3715,147,8628,834,1495
 Mobile Banking APP and Bank USSD	12287
+Mobile Banking Dominates DFS Access Age	15130
+Mobile Banking Mobile Payment Internet Banking	15023
 Mobile Base Station	14825
 Mobile Base Station Requirements	14780
 Mobile Base Stations	6000
@@ -816,7 +854,7 @@ Mobile Birth Registration	10822
 Mobile Botswana Mascom Botswana Orange Botswana	1013
 Mobile Broadband	1363,2499,8533,550
 Mobile Broadband Consumption	6671
-Mobile Broadband Penetration	12395
+Mobile Broadband Penetration	12395,2502
 Mobile Broadband Pricing	13312,2
 Mobile Broadband Services	6946
 Mobile Broadband Subscribers	12395
@@ -830,7 +868,7 @@ Mobile Care Services Discovery	1009
 Mobile Care Services IETF RFC7159	1009
 Mobile Care Services and Health Services. HL7	1009
 Mobile Cash SA	5324
-Mobile Cellular	14836
+Mobile Cellular	14836,300
 Mobile Cellular Communications Operators	958,12337
 Mobile Cellular Low	12395
 Mobile Cellular Low Usage	12395
@@ -857,6 +895,7 @@ Mobile Communications Networks	14780,45
 Mobile Connect	10819
 Mobile Connect for Cross-Border Digital Services Lessons	10819
 Mobile Connect16	10819
+Mobile Connections	14965
 Mobile Connectivity	14674
 Mobile Connectivity Index	2454,2980,457,4335,1780
 Mobile Connectivity Index. Retrieved	12214
@@ -864,7 +903,7 @@ Mobile Connectivity Report	12214
 Mobile Content	6946
 Mobile Coverage	11529,1007
 Mobile Cross Border Communities	14434
-Mobile Data	1013,931,832,3324,846,2163,4235
+Mobile Data	1013,931,832,3324,846,2163,4235,1776
 Mobile Data Is Too Expensive	12336
 Mobile Data Market	2776
 Mobile Data Mobile	3898
@@ -892,11 +931,14 @@ Mobile Data and Fixed Broadband	11262
 Mobile Data and Voice Low	12395
 Mobile Data and Voice Low Consumption Basket	12395
 Mobile Data for Humanitarian Action	6024
+Mobile Device	15164
 Mobile Device Financing Facility Mr. Kolubah	2916
 Mobile Device Management	11231
+Mobile Device Policy	15164
 Mobile Digital Identity And Electronic Signature	12834
 Mobile Digital Key	11891,48
 Mobile Digital Truck Govt	2256
+Mobile Dongles	14883
 Mobile Drive Test and Fixed Internet Test	12616
 Mobile Driving Licence and Birth Certificate	14752
 Mobile Economy	226,1017,6305,3293,299
@@ -921,6 +963,7 @@ Mobile GSM Segment	3862
 Mobile GSM-	3862
 Mobile GWAN Government Wide Area Network	13346
 Mobile Gains Ground	7110
+Mobile Gateway	14965
 Mobile Gender	11004
 Mobile Gender Gap	11004,960
 Mobile Gender Gap Rep	11004
@@ -949,11 +992,17 @@ Mobile Information Access Centers	6019
 Mobile Infrastructure	3862,6994,3535,283
 Mobile Infrastructure Content and Indirect Productivity	6593
 Mobile Intelligence Limited	3862
-Mobile Internet	6000,11,3466,304,3514,49
+Mobile International Voice Traffic	15136
+Mobile International Voice Traffic Trends	15136
+Mobile Internet	6000,11,3466,304,3514,49,1792
 Mobile Internet Connectivity	11004
 Mobile Internet Growth Projections	12035
 Mobile Internet Skills Training Toolkit	11017
 Mobile Internet Skills Training Toolkit. Mobile	11017
+Mobile Internet Subscriptions	15136
+Mobile Internet Subscriptions Per	15136
+Mobile Internet Subscriptions Total Mobile Subscriptions	15136
+Mobile Internet Tariffs	15136
 Mobile Internet Traffic	2776
 Mobile Internet Usage	2776
 Mobile Justice	11541
@@ -969,8 +1018,9 @@ Mobile Market Subscriptions Mobile	12395
 Mobile Mobile Internet- Mobile Daily	11004,960
 Mobile Mobile Internet- Mobile Daily Diverse	11004,960
 Mobile Mobile Money Registered Posta Uganda	9781
-Mobile Money	98,320,164,164,178,315,25,997,175,25,234,70,20,100,148,66,1,208,15,38,30,51,324,417,25,53,554,312,80,25,121,144,70,173,21,181,221,88,111,237,205,321,681,334,34,45,295,93,75,14,57,5,55,3,203,260,420,82,212,43,99,7,91,246,67,120,45,28,26,9,1,18,52,120,39,136,215,589,50,303,18,23,85,253,207,94,259,216,25,6,724,42,425
+Mobile Money	98,320,164,164,178,315,25,997,175,25,234,70,20,100,148,66,1,208,15,38,30,51,324,417,25,53,554,312,80,25,121,144,70,173,21,181,221,88,111,237,205,321,681,334,34,45,295,93,75,14,57,5,55,3,203,260,420,82,212,43,99,7,91,246,67,120,45,28,26,9,1,18,52,120,39,136,215,589,50,303,18,23,85,253,207,94,259,216,25,6,724,42,425,206,88,29,133,6
 Mobile Money Advocacy Group	10249
+Mobile Money Agent SIM Cards	15136
 Mobile Money Agents	12978
 Mobile Money Agents Association of Ghana	3543
 Mobile Money Congo S.A	2436
@@ -990,6 +1040,7 @@ Mobile Money Interoperability	8412,4078
 Mobile Money Interoperability Ghana	4908
 Mobile Money KYC	14674
 Mobile Money Limited	8766
+Mobile Money Linked SIM Cards	15136
 Mobile Money Manager-Northern	8766
 Mobile Money Micro-transactions	14674
 Mobile Money Mobile Money	10775
@@ -1009,11 +1060,12 @@ Mobile Money Regulatory Index.49 Malawi	14674
 Mobile Money Research and Innovation Laboratory Bill	276
 Mobile Money Scales Up Fintech	8968
 Mobile Money Service Provider	13477
-Mobile Money Services	6671,275
+Mobile Money Services	6671,275,8190
 Mobile Money Struggles News Finances	8843
 Mobile Money Subscriptions	6671,275
 Mobile Money Subscriptions All	12601
 Mobile Money Subscriptions FY	6946
+Mobile Money Suspicious Reporting	14880
 Mobile Money Taxes and Affordability	5234
 Mobile Money Transaction Levy	13496
 Mobile Money Transaction Levy Act	13496
@@ -1024,6 +1076,7 @@ Mobile Money and Banki Pafupi Agents	12182
 Mobile Money and Financial Inclusion Report. Retrieved	12214
 Mobile Money and Financial Inclusion of Migrants	12297
 Mobile Money and VISA Integrated	13477
+Mobile Money- Linked SIM	15136
 Mobile Money-To-Bank	6362
 Mobile Money. Afoomarket	14712
 Mobile Money. Dans	5567
@@ -1041,12 +1094,13 @@ Mobile Network	762,11633
 Mobile Network Connectivity Mobile Network Connectivity	12395
 Mobile Network Coverage	6946,5449
 Mobile Network Infrastructure and Services	6946
-Mobile Network Operator	2776,1086,3084,1636,6198,45
+Mobile Network Operator	2776,1086,3084,1636,6198,45,54,202
 Mobile Network Operator MSS Mobile Satellite	14674
+Mobile Network Operator NCR	14948
 Mobile Network Operator SSA	1551
 Mobile Network Operator and Market Share	2776
 Mobile Network Operator and Market Share Mobile	2776
-Mobile Network Operators	479,103,136,240,852,528,438,236,850,1520,57,242,319,238,652,56,455,532,1177,136,1031,130,813,39,598,478,60,164,419,366,188,37,38,583,590,42,3
+Mobile Network Operators	479,103,136,240,852,528,438,236,850,1520,57,242,319,238,652,56,455,532,1177,136,1031,130,813,39,598,478,60,164,419,366,188,37,38,583,590,42,3,54,18,223,16
 Mobile Network Operators Fintech Companies Pension	12701
 Mobile Network Operators Fixed Network Operators	12395
 Mobile Network Operators Malawi National Social	10763
@@ -1060,6 +1114,7 @@ Mobile Networks Operators	718
 Mobile Networks Technologies	718
 Mobile Number	14740
 Mobile Number Portability	4268,9027
+Mobile Number Portability Between Telecom Companies	14944
 Mobile Number Portability. BTCL	4268
 Mobile Off-Net Traffic	2776
 Mobile Off-Net Traffic Distribution	2776
@@ -1070,6 +1125,7 @@ Mobile Operators	3862,8523
 Mobile Optimized Better Civic Access	6051
 Mobile Outreach	9772
 Mobile Ownership	12251
+Mobile POSs	15023
 Mobile Payment Payment	12359
 Mobile Payment Systems	14819
 Mobile Payments	372,5656
@@ -1086,6 +1142,7 @@ Mobile Phone Ownership Increases Poor Women	11017
 Mobile Phone Ownership National Male Female	12251
 Mobile Phone Recharges	11955
 Mobile Phone Smartphones	2776
+Mobile Phone Subscription Report	14935
 Mobile Phones	13347
 Mobile Phones Man Arrested for Allegedly Impersonating	3955
 Mobile Platform	11216,1701
@@ -1117,6 +1174,7 @@ Mobile Satellite Service Terminal	736
 Mobile Satellite Services	10407
 Mobile Satellite Station	736
 Mobile Satellite Station Details Type	736
+Mobile Sector Taxation	15205
 Mobile Security Object	1379
 Mobile Segment	3862
 Mobile Service Revenues	6946
@@ -1134,7 +1192,7 @@ Mobile Subscrip-	2775
 Mobile Subscription	2776,3895
 Mobile Subscription Growth	2776
 Mobile Subscription Penetration Rate	2776
-Mobile Subscriptions	5245,755,946,2835
+Mobile Subscriptions	5245,755,946,2835,5355
 Mobile Subscriptions Airtel Networks Kenya Limited	6946
 Mobile Subscriptions and Market Penetration	12395
 Mobile Subscriptions and Penetration	6671
@@ -1147,12 +1205,13 @@ Mobile Technology Deployment	13336
 Mobile Telecommunications	12986
 Mobile Telecommunications Company	2340,248,9890,1774
 Mobile Telecommunications IOC Intelligent Operations Centre	2775
-Mobile Telecommunications Limited	774,239,834,1912,2609,2898,296,2544,490,419,95
+Mobile Telecommunications Limited	774,239,834,1912,2609,2898,296,2544,490,419,95,2179
 Mobile Telecommunications Limited NAMPA Namibia Press	12973
 Mobile Telecommunications Network	12333
 Mobile Telecommunications Service Tariffs	2776
 Mobile Telecommunications Service Tariffs Quarter-on-Quarter	2776
 Mobile Telecoms	815
+Mobile Telecoms Retail Finance Agro-Processing Corporate	15205
 Mobile Telephone Market Statistics	11994
 Mobile Telephone Network OIT Other Income	12395
 Mobile Telephone Networks	7198,1741
@@ -1192,13 +1251,16 @@ Mobile Voice Traffic	2776,1086,2809,5724
 Mobile Voice Traffic For Eswatini Mobile	12395
 Mobile Voice Traffic Market	6000
 Mobile Voice Traffic Minutes of Use	2776
+Mobile Voice Traffic Volume	15136
 Mobile Voice and Mobile Data Penetrations	2776
 Mobile Voice and Mobile Data Subscriptions	2776
+Mobile Voice and SMS Tariff Structure	15136
 Mobile Volumes	4517,2461
 Mobile Word Congress	5311
 Mobile World Conference	5778
 Mobile World Congress	1634,515,373,575,37,1587,577,35,6,20,419,3751,3,4859
 Mobile World Congress Barcelona	5390
+Mobile and Broadband Statistics and Analyses	14897
 Mobile and Digital Services	4207
 Mobile and Fixed Network	2776
 Mobile and Fixed Network Breakdown of Off- Q3	2776
@@ -1208,6 +1270,7 @@ Mobile and Legacy Applications Government	11872,3
 Mobile and Ntel	4150
 Mobile and Pay	8714
 Mobile and Self-service Kiosks Develop	12917
+Mobile and Virtual	15023
 Mobile for Business	11017
 Mobile for Business Knowledge and Skills Guide	11017
 Mobile for Development	129,590
@@ -1218,8 +1281,9 @@ Mobile-	12278
 Mobile- Broadband	718
 Mobile-Cellular	3862
 Mobile-Cellular Network	3862
+Mobile-Cellular Subscriptions	15136
 Mobile-First Society	4528,7984
-Mobile-ID	14748,71
+Mobile-ID	14748,71,146
 Mobile-Optimised Checkout	4988
 Mobile-Regional	2534
 Mobile-Satellite Service	736
@@ -1227,9 +1291,9 @@ Mobile-based	5911,3567,1462,1050,298
 Mobile-based UNESCO	5908,442
 Mobile-broad	10844
 Mobile-broadband	10844,719
-Mobile-cellular	718,6228,3898,719,770,11
+Mobile-cellular	718,6228,3898,719,770,11,2553,239
 Mobile-enabled Economic Identities for Smallholder Farmers	10819
-Mobile-first	5513,1435
+Mobile-first	5513,1435,8017
 Mobile-friendly	12211
 Mobile-money	1677,2660,2432,393,4458,611
 Mobile-moneyBankingFintechFinancial	7272
@@ -1246,6 +1310,7 @@ MobileCellular	11563
 MobileDataVoice high	11563
 MobileDataVoice low	11563
 MobileFinancialsMTN UgandaSylvia MulingeMobile-moneyData	5389
+MobileFinancing	15186
 MobileID	10065,2053,3,2145
 MobileMobile BusinessTelecomsSenegalARTPRegulationSIMRead	2301
 MobileMoney	7606
@@ -1265,7 +1330,7 @@ Mobilis	1886,266,2016,27,779,84,3770,2933
 Mobilis and Djezzy	2152
 Mobilis and Ooredoo	8828
 Mobilisant	8891
-Mobilisation	1679,314,349,822,232,2987,1287,173,1204,1664,1,146,16,1,1,89,223,855,1305,85,43,37,912,63,1,1,132
+Mobilisation	1679,314,349,822,232,2987,1287,173,1204,1664,1,146,16,1,1,89,223,855,1305,85,43,37,912,63,1,1,132,313
 Mobilisation and Registration Division Manager	8838
 Mobilisation and Research Promotion Partnerships RCZ	1554
 Mobilisation des	3396
@@ -1276,13 +1341,14 @@ Mobilise Investment and Catalyse Sustainable Fintech Growth	14819
 Mobiliser	1187,1745,206,5753,190,1101,692,2416,51,49
 Mobilises	13681
 Mobilising	428,530,109,8902,2271,136
-Mobility	2258,2625,2557,291,235,1489,1499,900,301,184,37,84,2269
+Mobility	2258,2625,2557,291,235,1489,1499,900,301,184,37,84,2269,290
 Mobility Arts Nigeria Limited	3862
 Mobility Data	3861
 Mobility Data Space	7313
 Mobility Data Space and Catena-X	7313
 Mobility Department	11494
 Mobility GoCab	2762,389
+Mobility Limited	14856
 Mobility Media	11786
 Mobility Nine African	4883
 Mobility Orientation	13633
@@ -1308,20 +1374,26 @@ Mobilization of External Resources and Debt Management	9043
 Mobilization of NGO	11897
 Mobilização	11557
 Mobilização de Recursos	11362
-Mobilize	1988,9161,252,3389
+Mobilize	1988,9161,252,3389,168,172,76,38
 Mobilize CSOs	11866
+Mobilize Education	15192
 Mobilize Revenues	13868
 Mobilize Support and Resources	12356
 Mobilize Sustainable Financing	11285
-Mobilizing	9766,1363,11,216,541,27,404,1540,123,87
+Mobilized	14997
+Mobilizes	14997
+Mobilizing	9766,1363,11,216,541,27,404,1540,123,87,919
 Mobilizing Civil Society	12399
 Mobilizing Domestic Revenue for Fiscal Sustainability	11710
+Mobilizing Domestic Savings	14997
 Mobilizing Liberia's Development Financing	8574
 Mobilizing Private Industry	6849
 Mobilizing Private Investment	11310
 Mobilizing Private Investment for Inclusive Growth	10841
+Mobilizing USD	15204
 Mobiole Money	12444
 Mobiquity	2522
+Mobitel	14853
 Mobius	10464
 Mobius III SUV	10464
 Mobius Motors	10464
@@ -1349,6 +1421,7 @@ NAH.SHUTTLE Mobility Algorithmically	7966
 NATIONAL MOBILE TRAFFIC	11211,51
 NEWS SERVICES SERVICES GENERATION MOBILE MONEY	11964
 NIAmanaged Mobile Registration Workstation	10822
+National Call Center Mobile Gateway Enabalers	14965
 National Cybersecurity Program. Mobilization	1000
 National Global System for Mobile	13346
 National ID Mobile	12211
@@ -1358,6 +1431,7 @@ National Mobile Digital Identity And Electronic	12834
 National Mobile Digital Identity and Electronic Signature	11120
 National Mobile Network	482
 National Mobile Registry	5521
+National Mobile Voice Traffic	15136
 National Planning MNO'S Mobile Network Operators	13345
 Network Operators MNP Mobile Numbers Ported	2775
 Next Generation Mobile Technologies	5675
@@ -1412,6 +1486,7 @@ Outgoing Mobile International Traffic	3862
 Outgoing and Incoming Mobile	3862
 Overview of Internet Use Mobile Network Coverage	12214
 Ownership Internet Usage and Mobile	12251
+Ownership and Use of Mobile Phones and Bank Accounts	15247
 P SERVICES MOBILES DE TEST ET	13300
 P169413 PLAN DE MOBILISATION DES PARTIES	14425
 P177308 NG Accelerating Resource Mobilization Reforms	11469
@@ -1434,13 +1509,16 @@ PREPAID AND POSTPAID MOBILE CELLULAR PHONE	11262
 PREPAID MOBILE VOICE	11211,51
 PRIVATE CAPITAL MOBILIZED	12717
 PROGRAMME DE MOBILISATION DES PARTIES PRENANTES	14425
+PROGRESS ACHIEVED IN FIXED AND MOBILE	14853
 PSPs Retail Mobile App	6938
 PUBLICITY AND RESOURCE MOBILISATION COMMITTEE Resource	1154,400
 Parameters for Mobile Telephone Services Article	12616
 Patient Identifier Cross-reference for Mobile	1009
 Pay Monthly and Mobile Financial Services	5136
 Payments Airtel Mobile Commerce MIGA	11310
+Percentage Change Mobile Voice	15120
 Petabytes. Mobile	10099
+Phone No. Mobile No. Email Address	14880
 Plan de Mobilisation des Parties Prenantes	14425,63,1,1
 Plan de Mobilisation des Parties Prenantes PV	14488,1,1
 Plateforme Nationale de Contrôle des Réseaux Mobiles	4802
@@ -1497,9 +1575,10 @@ Quality of Service for Mobile Cellular Services	6946
 Quarter-on-Quarter Mobile-to-Fixed Off-Net Traffic	2776
 Quarterly Variation MOBILE NETWORK SERVICES	6671
 REPORT Eswatini Mobile MTN EPTC	12395
-RESOURCE MOBILISATION	13474
+RESOURCE MOBILISATION	13474,1405
 RESOURCE MOBILIZATION STRATEGIES	1131
 RESUME DES ACTIVITES ANTERIEURES DE MOBILISATION	14425
+RETURN ON MOBILE MONEY SERVICES	14880
 REVENUE MOBILIZATION TO STRENGTHEN STATE CAPACITY	13624
 RIA's Africa Mobile Pricing	12657
 RIA’s Retail Africa Mobile Pricing	9759
@@ -1556,6 +1635,7 @@ Roadmap for International Mobile Telecommunications	11259
 Role of MOBEX Africa At MOBEX	5970
 Role of Mobile	2334,35,8159
 Role of Mobile Source PDF	14674
+Rwanda. Mobile Sector Taxation	15205
 Réservation WAVE MOBILE MONEY	998
 Réservation WAVE MOBILE MONEY Décision STM	998
 SADC Broadband Basket Mobile Data and Voice	12395
@@ -1581,6 +1661,7 @@ SOUTH AFRICA FIXED AND MOBILE UPLOAD	11262
 SOUTH AFRICA GLOBAL RANKING FOR MOBILE	11262
 SPEEDS BATTERY USE MOBILE	11004
 SSA. Mobile Money	836
+SUMMARY OF RESOURCE MOBILIZATION OPTIONS ACTIONABLE	14879
 SUPPORT ACCESS APPROVE USE MOBILE	11004
 Safari. Mobile Phones	13037
 Saifi. Mobile Services Record	11642
@@ -1603,6 +1684,8 @@ SpaceX Complete Starlink Mobile Testing	5562
 Special Mobile Force	14738,4,18
 Special Mobile Force SOCO	14760
 Speed Mobile	6946
+Standard Mobile Internet Tariffs	15136
+Standard Mobile Voice	15136
 Starlink Eswatini.net Eswatini Mobile Real	12395
 Starlink Mobile	6246,3786,196
 State of Mobile Internet Connectivity	11004,960,42,1308
@@ -1613,7 +1696,9 @@ Strong Leadership and Mobilisation for Change Leadership	13532
 Subscriptions Internet Penetration EAC Active Mobile	6946
 Subscriptions Total Mobile Data Traffic	2776
 Subscriptions for Mobile Services	6671
+Sudanese Mobile Telephone Company	14853
 Super User Free Mobile Data Package	14823
+Supervision Department MOBILE MONEY REGULATIONS	14880
 Surge In Mobile Payments As Tunisia	5125
 Switch Mobile	1343,2510
 System BRK Standalone Module for Mobile Registration	13005
@@ -1630,6 +1715,7 @@ Taiwan Mobile's AI	10380
 Technology IMT International Mobile Telecommunications	12395
 Telco Telecommunications PLMN Public Land Mobile	14723
 Telecom Egypt and Mobily	3342
+Telecommunications Licensees Issuance of Mobile	15283
 Telesom Mobile	6078
 Telkom Mobile	11259
 Telkom Mobile All-networks	11259
@@ -1646,6 +1732,10 @@ Tik Tok Mobile Applications	12395
 Times Group Mobile	5595
 ToT and Trained Blood Donor Mobilisers Disaggregated	12977
 Traditional Banking and Mobile Bank Usage	2775
+Trend of Domestic Mobile Internet	15136
+Trend of Mobile Internet Subscriptions	15136
+Trend of Mobile Money- Linked SIM	15136
+Trend of Mobile-Cellular Subscriptions	15136
 Trends Reshaping Africa’s Mobile Industry	6714
 Trillion AI Problem Mobile	5820
 Trusted Mobile Money	12315

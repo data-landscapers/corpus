@@ -1,35 +1,42 @@
 AI. NIST	5216
 Africa NIS Large Company ME National	10980
 African Development Bank NIS	12639
-Agency NISR National Institute of Statistics of Rwanda	12413
+Agency NISR National Institute of Statistics of Rwanda	12413,2643
 Apply the NIST Framework Functions	1777
 Aswat Nissa	9595
 Azfar Nisar	2096
 Cyber Infrastructure System NIST The National	11196
 D. Nishball	11140
+Deputy Director General of NISR	15056
 Deputy Director General of NISR National	12413
 Development Plan NGO Non-governmental Organisation NIS	5533
 Director General NISR	12338
-Director General of NISR	12413
+Director General of NISR	12413,2643
 EU NIS2 Directive	6936
 European NIS Cooperation Group	6936
 Framework NIST Cybersecurity	12043
 GACUTI Nolasque NISHIMAGIZWE Florence GATAVU Eliane	13300
+GENERATION OF VITAL STATISTICS NISR	15056
 HOL NISA	5172
 Hthofsapciitlaitlises NISR	12413
 IRASUBIZA UMUKUNDWA ISIMBI NISHIMWE IGIHOZO KUNDWA	12413
 ISO and NIST	7065
 Implement NIST	3279
 Inclusive Growth. Summary of Findings. NIST	10819
+KAGOYIRE Delphine- NISR	15056
 Kenichi Nishikawa Chavez	10985
 Kenya Population and Soluptas Nist Alita VollupHtaoeu	12151
 Labour Force Survey NISR	12445
+Labour MINALOC Ministry of Local Government NISR	14942
 Lesotho's NISSA	4636
 MURENZI Ivan Director General of NISR	12413
+MURENZI Ivan Director General of NISR Acknowledgements	15247
 Marie Grace Nishimwe	6703
 Masood and Nisar	2096
 MoH and NISR. Verification	12338
 Multidimensional Poverty Index. NISR	12403
+NBR NISR	15130
+NCP National Congress Party NISS National	15342
 NIS 2 Directive Article 21.html	6471
 NIS Director General Noordin Haji	5711
 NIS2 Directive	6471
@@ -37,66 +44,94 @@ NIS2 Network and Information Security Directive	6936
 NISF and EU	963
 NISHEMEZWE EVARISTE	13390
 NISHIMAGIZWE Edgard	13390
+NISHIMWE	15056
 NISIR	12376
 NISIR Innovation Challenge	12376
 NISMSCS	14736
 NISPAcee	12325
 NISPAcee Journal of Public Administration and Policy	2093
 NISR ABAYISENGA Claudine FIELD TEAM LEADERS	12445
-NISR ANNEXES Annex	12413
+NISR ANNEXES Annex	12413,2643
 NISR APPENDICES APPENDIX	12445
 NISR APPENDIX	12413
 NISR APPENDIX II	12445
 NISR AYINKAMIYE Eugenie FIELD WORKERS BAZIMYA	12445
 NISR Access	12445
+NISR Accounts	14997
 NISR Acknowledgments	12413
 NISR Acknowledgments The IBES	12445
 NISR Acronyms	12413
 NISR Among	12445
-NISR Chapter	12413
+NISR Annex	15056
+NISR BNR	14997
+NISR BNR FID	14997
+NISR Challenges	14935
+NISR Chapter	12413,2643
+NISR Chapter CAUSE OF DEATH STATISTICS	15056
 NISR Chapter Civil Registration System	12413
 NISR Chapter Data	12413
 NISR Chapter Introduction and Methodology	12413
 NISR Conclusion The Vital Statistics	12413
 NISR Contents Foreword	12413
 NISR Copyright	12445
+NISR Death	15056
 NISR Definitions	12413
 NISR Education	12445
 NISR Executive	12413
+NISR Figure	15056
+NISR FinScope	14997
 NISR Graph	12445
 NISR IBES	12445
 NISR IMPORTANT TECHNICAL NOTES FOR DATA	12403
+NISR Ill-defined	15056
+NISR KPI	15034
+NISR Key Indicators	14935
 NISR List	12445
 NISR List of Graphs Graph	12445
 NISR List of Tables Table	12445
 NISR MEMBERS OF TECHNICAL TEAM SIBOMANA	12445
 NISR MURERWA Annonciatha FIELD WORKERS MUSABYIMANA	12445
 NISR MWIZERWA Jean Claude	12445
+NISR Marriage	15056
 NISR Micro	12445
 NISR NZASINGIZIMANA Tharcisse	12445
+NISR National Institute of Statistics of Rwanda NST	14922
 NISR Numbers	12445
-NISR P.O. Box	12413
+NISR P.O. Box	12413,2643
 NISR Percentages	12413
 NISR Publication Directors	12445
 NISR RIP Rwanda Vital Statistics Report	12413
 NISR References	12413
+NISR Report	14997
+NISR Reports	14997
+NISR Rwanda	14997
 NISR Rwanda Vital Statistics Report	12413
 NISR SIBOMANA Oscar	12445
 NISR SUMMARY OF KEY MESSAGES	12445
 NISR Sectoral	12445
+NISR Statistical Business Process Model	15077
+NISR Statistical Production Process Model	15077
+NISR Statistical Production Process Model GSBPM	15077
+NISR Sub-Total	14935
 NISR Supervision	12413
-NISR Table	12445
+NISR Table	12445,2611
 NISR Table of Contents Foreword	12445
 NISR Table1.2	12445
 NISR Table2.2	12445
+NISR Under-five	15056
 NISR V.S Report	12413
-NISR and MoH	12413
+NISR Vital	15056
+NISR and ICF	15247
+NISR and ICF. ISBN	15247
+NISR and MoH	12413,2643
+NISR and RISA	15034
 NISR's Data Governance Unit	3815
 NISR. Comprehensive	12413
 NISR. P.O Box	12445
 NISR. Rwanda CRVS Systems	12413
 NISRN	4301
 NISR’S Data Governance Project Lead	6088
+NISR’s CRVS	15056
 NISSA	1371,3265,8027,16,18,2,62
 NISSA TO BE UPDATED IN FIVE	12697
 NIST AI	7451
@@ -115,7 +150,7 @@ NIST National Institute of Standards and Technology	6936
 NIST National Institute of Standards and Technology NITDA	11952
 NIST National Institute of Standards and Technology NUC	10765,10
 NIST Requirement	11952
-NIST SP	1009,4784,630,513,3785,2660,1193
+NIST SP	1009,4784,630,513,3785,2660,1193,506
 NIST Special Publication	3279,2494,650,4396,1133
 NIST Testing Guide	11153
 NIST Tier	6539
@@ -138,13 +173,18 @@ Nissenbaum	2117
 Nissi Madu	8209,118,562,1281
 Odette SIBOMANA Eric NISENGWE Esperance SIBOMANA	13300
 Orange Digital Center Nisokatra	14638
+Organisation NISR National Institute of Statistics of Rwanda	14935
 Per the NIS	7370
 Peter Piot and Nisia Trindade	6001
 Power Project NISO Nigerian Independent System	12062
+RRA and NISR Sources of Revenue Change and Tax-to-GDP	14985
 Reference Hansen and Nissenbaum2009	2117
 Register NISSA National Information System	12663
 Reverend Chris Nissen	10453
+Rural NISR Centres Index Output	14997
 Rwanda National Identification Agency NISR	12338
+Rwanda’s Digital Transformation Agenda. NISR	15034
+Sector Review. NISR	14935
 Sentinel-1 and NISAR	10794
 Singapore NCSA National Cybersecurity Agency NISR	1204
 South Africa NIS National Operations Centre	11986
@@ -152,3 +192,4 @@ Strategy NIST U.S. National Institute of Standards	1777
 Tech5's NIST	3616
 Training NISR National Institute of Statistics Rwanda	12329
 US NIST	2102
+VERIFICATION NISR	15056

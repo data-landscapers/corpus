@@ -59,8 +59,9 @@ Blantyre District Hospital	13122
 Blantyre District Social Welfare Office	13040
 Blantyre and Chikwawa District Hospitals	13122
 Bo District	4114,75
+Body Distr. LIMITED	14853
 Body Population Distribution Population	12655
-Boondheere District	2743,7778
+Boondheere District	2743,7778,4755
 Box Throwing Distance Input	34
 Branch Appointment Booking System DMO District	11986
 Bridging Distance	11656
@@ -75,9 +76,10 @@ Building Resilient Distance Learning Ecosystems	899
 Building Resilient Distance Learning Ecosystems. Kariuki	899
 Buliisa District	3005
 Bungoma and Kwale Districts	12151
-Burera District	3767
+Burera District	3767,11488
 Burera and Gicumbi Districts	718
 Burera and Nyagatare Districts	12429
+Burhakaba In the Burhakaba District	15248
 Busia District	3005
 C HÔPITAL DE DISTRICT	13300
 CABLE CENTRAL BUSINESS DISTRICT CAE	12253
@@ -88,6 +90,7 @@ CARPINTERIAS EN GENERAL CAPITALES DE DISTRITALES	4209
 CDE District Election Commission CEDAW Convention	12201
 CENORED Central Northern Regional Electricity Distributor	12399
 CENTRAL District	13598
+CGAP's Shared Distribution Network	15044
 CHIEF DISTRICT SPECIAL MARKS REGISTRATION DATE	12410
 CONTINEN. DISTRITALES TOTAL DIRECTIVO PROGRAMACIÓN PRESCOLAR	4209
 COVID-19 Social Relief of Distress	4667,2165
@@ -147,7 +150,10 @@ Components Transportation Consumer Services Distribution	4972
 Computer Room Equipment Power Distribution	9123
 Conclusion District	12379
 Connectivity and Distribution Infrastructure	10157
+Consolidate District SACCOs	14997
 Contact Google Distributed Cloud	4434
+Content Distribution Network	14864
+Content Distribution Networks	14864
 Content Distributors	12395
 Contrat de Distribution	10975
 Core and Distribution Network	11857
@@ -179,7 +185,7 @@ DFS Water Distribution Board	11994
 DHIS District Health Information System	2775
 DHIS District Health Information System DHS	13681
 DHIS District Health Information System USAID	766
-DHIS2 District Health Information Software	14666
+DHIS2 District Health Information Software	14666,393
 DHIS2 District Health Information System	10829,52,679
 DHIS2 District Heath Information Software	13341
 DHMIS District Health Management Information NIDS	396
@@ -197,6 +203,7 @@ DISTRIBUTED GOVERNANCE ARCHITECTURE	3861
 DISTRIBUTION AND GROWTH	13367
 DISTRIBUTION ET REMISE DES CARTES CNI	14480
 DISTRIBUTION OF DATA CENTER FACILITIES	10861
+DISTRIBUTION SYSTEM BENCHMARKS High Standard	14867
 DISTRIBUTIONS BY COMPANIES	3714
 DISTRIBUTIONS BY COMPANIES Requirements	3714
 DISTRIBUTORS	11211,51
@@ -208,6 +215,8 @@ DISTRICT ET ARRONDISSE MENT	14450
 DISTRICT HEALTH OFFICER DIGITAL MALAWI ACCELERATION	12253
 DISTRICT Long FS Busamed Bram Fischer	11986
 DISTRICT OF COLUMBIA	5692
+DISTRICT TABLES	15247
+DISTRICTS	14869
 DISTRITOS TOTAL DIRECTIVO PUB. Y PREV	4209
 DPI. Distils	5622
 DPI. Distribution	7981
@@ -227,11 +236,13 @@ Dennis Zulu District Guidance and Counselling Coordintor	13392
 Department of Veterinary Service Lupane District Fig	1554
 Deputy Director Appointment of District	12898
 Deputy Resident District Commissioner	8032
+Description Distance Bameza Ad-Damazin	14897
 Digital Public Infrastructure DRO District Registration	13005
+Director of Production and Distribution	15019
 Directorate of Distance and E-Learning DP	12175
 Dispositif District	14625
 Dist. Pros Unit	14781
-Distance	737,1251,2104,2379,2652,543,522,526,1204,1,25,146,85,74,84,50,20,897,90,134,904,347,9
+Distance	737,1251,2104,2379,2652,543,522,526,1204,1,25,146,85,74,84,50,20,897,90,134,904,347,9,297,163,3
 Distance Education	14775
 Distance Education FT	14775
 Distance Education Mode	14775
@@ -240,6 +251,8 @@ Distance Maximum Page	13390
 Distance Minimum Distance Moyenne Distance Médiane	13390
 Distance Operators FMoP Licensees	11857
 Distance and Flexible	9755
+Distance and Means of Transport	15247
+Distance-reducing	14922
 Distant	3381
 Distilled	8510
 Distilled Spirits	6921
@@ -247,25 +260,33 @@ Distinct	24,1157,462,177,341,112,501,204,878,380,236,65,482,407,422,1328,5,995,5
 Distinct World Bank Angola	1176
 Distinction	9124,3321,591
 Distinctive Characteristics Generative	14565
-Distinguish	1250,9767,987
+Distinguish	1250,9767,987,3160
 Distinguish LIR	11797
 Distinguish Urban and Rural Network Performance	4130
 Distinguish Urban and Rural Network Performance NCC	4130
 Distinguished	3861,3708,2390,99,1232,714,664,20,1528
+Distinguished Attendees	15026
 Distinguished Colleagues	7103
 Distinguished Delegates	12688,14,58
 Distinguished Digital Finance Lecture	10144
+Distinguished Directors	15026
 Distinguished Guests	2526,7643,2491,392
+Distinguished Ladies and Gentlemen	15026
 Distinguished Members	11356
 Distinguished Participants	13118
 Distinguished Speaker Series	11135
+Distinguishes	15164
 Distinguishes Angola	1841
+Distinguishes DSR-2	15164
+Distinguishing	15164
 DistinguishingModelEvidencefrom Deployment Evidence	8301
 Distorted	7151
 Distorting	10954,2507
 Distortions	11955
+Distortions Displacement	14897
+Distortive Impact of Digital Taxation	14932
 Distr	13440,2
-Distr. LIMITED	13440
+Distr. LIMITED	13440,1413
 DistrP	12413
 Distrain	11976
 Distress	736,11893
@@ -278,6 +299,7 @@ Distribuição	2138,728,7881,10,3,6,6,5,629,10,5,25,85,6,37,3,444
 Distribuição Desenvolvida	11430
 Distribuição da Rede Bancária	10775
 Distribut	12977
+Distributable	15102
 Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644,45,204,114,1081,78,1,227,409,49,210,1407,76
 Distributed Access	11469
 Distributed Active Archive Center	10794
@@ -300,20 +322,23 @@ Distributed Power	1196
 Distributed Power Africa	1196,624,2540,536,1596,4230
 Distributed Power Africa Limited	5538
 Distributed Power and Energy Services Revenue	4896
-Distributed Renewable Energy	12399,1411
+Distributed Renewable Energy	12399,1411,1349
 Distributed System Accountability	8283
+Distributed Than Anywhere Else	14969
+Distributed Than... Bank of Kigali Courts Chinese	14969
 Distributedrepresentations	8606
 Distributeur	9568,1954,2259
 Distributeur Automatique de Billets GABAC Groupe	11944
 Distributeurs	10836,139
-Distributing	8647,4861
-Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21
+Distributing	8647,4861,1414
+Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91
 Distribution Agency Agreement	11215
 Distribution Agency Agreements	11236
 Distribution Annex	12978
 Distribution Assets Component	14080
 Distribution Aérienne BT Km	10975
 Distribution Companies EA Electricity Act ECR	12062
+Distribution Copy	14931
 Distribution Dispatch Center	1538,1
 Distribution Is the Real Divide	10078
 Distribution List Cabinet Office	12360
@@ -332,6 +357,8 @@ Distribution Publique	10975
 Distribution Register ZRCP	1988
 Distribution SGP	10975
 Distribution SRC	10975
+Distribution System	14867
+Distribution System Benchmarks	14867
 Distribution System Operator. Key	12233
 Distribution Tendances	10975
 Distribution Transformers Loading	12358
@@ -356,18 +383,34 @@ Distribution of Courier Outlets Operator Q3	6000
 Distribution of EGDI	10840
 Distribution of Electricity	13624
 Distribution of Electricity In Burundi	13624
+Distribution of Employment	15085
+Distribution of Establishments	15085
 Distribution of Female MCAs	2775
 Distribution of Financial Products	14809
 Distribution of Formal Business Enterprises	12445
 Distribution of GDP	11524
+Distribution of Health	15056
 Distribution of Higher Education Enrolment	14775
 Distribution of Households	2775
-Distribution of ICT	236,6596
+Distribution of ICT	236,6596,8253
 Distribution of Judicial Officers and Practicing Lawyers	2775
+Distribution of Level of Proficiency	14897
+Distribution of Live	15056
 Distribution of Mean Temperature Population	1828
 Distribution of Members of County Assembly	2775
+Distribution of MoECHE	14896
+Distribution of Nationality of Ownership	15085
 Distribution of Operators	3862
 Distribution of RURA	718
+Distribution of Readiness	15164
+Distribution of Readiness Campus	15164
+Distribution of Readiness Distribution	15164
+Distribution of Readiness Policy	15164
+Distribution of Readiness Stages Across Institutions	15164
+Distribution of Readiness Stages Across Institutions25	15164
+Distribution of Readiness Stages Across Institutions32	15164
+Distribution of Readiness Stages Across Institutions53	15164
+Distribution of TVET	14896
 Distribution of Tariffs	6671
 Distribution of Types of TV Services	2776
 Distribution of Venture Capital	4972
@@ -382,7 +425,7 @@ Distributors GoTV Kenya	6946
 Distributors Master Plans	12399
 Distributtiioonn	12256
 Distribué	9502,2522,3,2662
-District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27
+District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53
 District Action Plan DEMISO	12175
 District Administration	13423
 District Administrations and Local Authorities	13472
@@ -390,6 +433,7 @@ District Administrator	1154
 District Administrator's Boardroom	12739
 District Administrators	11721,1050
 District Ambositra Commune Ilaka Centre District	14425
+District Annual	14935
 District Assemblies	789,3337
 District Assemblies Common Fund	789,6906
 District Assembly	11
@@ -403,12 +447,13 @@ District Cape Winelands Cape Winelands Cape	8999
 District Centre for Agriculture	1512
 District Chaplain	12510
 District Chief	11716,369
-District Commissioner	7503,5136,259,107
+District City Formal Informal Microestablishment	15085
+District Commissioner	7503,5136,259,107,2050
 District Commissioner Abdullahi Hasan	2743
 District Commissioner for Livingstone	13477
 District Commissioner's Office	127
 District Commissioners	8575
-District Council	1778,210,10229,314,574,1612
+District Council	1778,210,10229,314,574,1612,218
 District Council Barrick Lumwana	1988
 District Council Decisions	13418
 District Council Offices	13199
@@ -429,7 +474,7 @@ District Council of Savanne Construction	14746
 District Council of Savanne LANDSLIDE L’Escalier	14738
 District Council of Savanne Ministry of Local Government	14770
 District Council of Savanne Table Top Flood	14738
-District Councils	12175,6,59,291,2207,8
+District Councils	12175,6,59,291,2207,8,189
 District Councils District Councils	12240
 District Councils and Central Hospitals	12240
 District Councils and Mauritius Red Cross Society	14738
@@ -446,8 +491,10 @@ District Development Fund	13420
 District Development Model	5533,5697,59,697
 District Development Model DEL Department of Employment	11261
 District Development Model and Presidential Coordinating	11275
-District Development Plans	13005
+District Development Plans	13005,1917,24
 District Development Strategies	13418
+District Directors of Education	14922
+District Disaster Management Committees	14935
 District EMR	11252
 District Education	12175
 District Education Board Secretariats	13636
@@ -457,18 +504,21 @@ District Education Boards Secretaries	13392
 District Education Inspector	13310
 District Education Management Information Systems Officers	12175
 District Education Office DEYS	12175
+District Education Officers	14922
 District Education Offices	12175
 District Electoral Officers	13538,161
+District Environmental Officers	15138
 District Executive Administrator. Mayor of District	12338
 District Female Male	12413
 District Food Security Task Force	12158
 District Functioning	13418
 District Gatare Kibilizi Nkombo Shangi Musebeya	12413
+District Gedo	15085
 District HMIS	3791
 District Health	11252
 District Health In- District Health Information	10780
 District Health Infonnation System	4301
-District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44
+District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25
 District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160,1313
 District Health Information System DHRMD Department	12917
 District Health Information System Electronic Management	12037
@@ -499,8 +549,9 @@ District Land Court	12647
 District Land Officers	13135
 District Land Registries	13060
 District Law	13418
-District Level	13060
+District Level	13060,1963
 District Level Coordination Committee	12338
+District Level N Figure	15056
 District Magistrate	11,14703,1,4,23,1
 District Magistrate Port Louis	14727
 District Magistrate. The Judicial System	14742
@@ -513,6 +564,7 @@ District OSR	13418
 District Officers	7503,311
 District Offices	2689
 District One Factory	789
+District One Stop Centers	15019
 District Performance Assessment Tool	1512
 District Postal Manager	11129
 District Registrar	3285,9211,509,1402
@@ -528,8 +580,9 @@ District Registration Officer for Amudat District	3005
 District Registration Officer for Busia District	3005
 District Registration Officers	13095
 District Registration Offices	12216,1,788
+District Reports	14935
 District Rweru Nyabitekeri Nyanza	12413
-District SACCOs	12434
+District SACCOs	12434,2563,26
 District Sakaraha District Tulear II	14425
 District Six	11245
 District Social Cash Transfer Program Secretariat	12978
@@ -546,13 +599,14 @@ District Wise Birth Registration During Quarter	12241
 District Wise Death Registration During Q3	13080
 District Wise Likoma	12241
 District and City Election Commissions	12201
+District and CoK	14935
 District and Community	12964,14
 District and Embassy	12338
 District and Intermediate Courts	14720
 District and Province	12338
 District and Provincial Offices	1778
-District and Rwandan	12413
-District and Sector	13418
+District and Rwandan	12413,2643
+District and Sector	13418,1722
 District and Site of Occurrence	12672
 District de Bamako	6959,769,115,733,711,55,1212
 District de Bamako. Ces	9287,55
@@ -567,13 +621,18 @@ District-Level	3791
 District-led	13418
 District-level	3791,7342,1897,388
 District. District	12440
-Districts	718,2090,578,405,1279,3929,2130,214,832,45,21,87,85,592,75,60,145,62,14,31,6,20,54,152,998
+District14 CHAPTER	15085
+Districts	718,2090,578,405,1279,3929,2130,214,832,45,21,87,85,592,75,60,145,62,14,31,6,20,54,152,998,247,56,10,12,109,199
 Districts And Areas In Which Registration	12138
 Districts DRSP	14442
 Districts Every	396
 Districts Existence	13005
 Districts Health Information Software	14442
 Districts Huawei	1122
+Districts Imihigo Reports Output	14935
+Districts Narrowing	15056
+Districts Strategic Interventions	14935
+Districts and CoK	14935
 Districts de Madagascar	14622
 Districts de Toamasina	14622
 Districts of Boteti	12552
@@ -695,6 +754,7 @@ Empowering Districts and Schools	6048
 Empresa Nacional de Distribuição de Electricidade	11380,739
 Energy REDs Regional Electricity Distributors SADC	12399
 Enhance Distance Education Environment	2222
+Entrepreneurship Program License DLT Distributed Ledger	14897
 Entry Distribution Price	1828
 Equipamiento Hospital Distrital de Niefang	4209
 Equipment Distribution Area	9123
@@ -727,23 +787,26 @@ Funcionamiento de Distritos	4209
 Functions of District Development Coordinating Committee	13318
 GBV Survivors District	10829
 GTS Distribution	14622
+Gakenke District	15208,1
 Gakenke District Murundi Kanama Shyira Mugunga	12413
 Gakenke Gatsibo District	12413
-Gasabo District	5399,4754,2260
+Gasabo District	5399,4754,2260,2643
 Gasabo DistrictGikomero Muhazi Kanyinya Muhororo Bumbogo	12413
 Gashari Ruhango District Kinazi Musenyi Rilima	12413
 Gashenyi Kisaro Gicumbi District Karegamanzi Rubavu	12413
 Gatare. In Gasabo District	4941
 Gatenga Kanombe Rwamagana District Ruramira Mukura	12413
+Gatsibo District	15255
 Gender Distribution	14761,74
 Gender Distribution Among Management Staff	12951
+Gender Distribution Jun	15130
 Gender Distribution of RGD Staff Figure	14761
 Generation and Management of OSR for Districts Legal	13418
 Geographic Distribution and National Resilience In Nigeria	10157
 Geographic Distribution of Businesses	12445
 Geographical Distribution of Persons	12460
 Ghana's District Development Data Platform	1512
-Gicumbi District	718,11695,21
+Gicumbi District	718,11695,21,2821
 Gicumbi District Experience	12328
 Gisagara Districts. Inspections	718
 Global Maritime Distress Safety System	14732
@@ -762,6 +825,7 @@ Goromonzi District Stores	13420
 Goromonzi and Hwedza Districts	13420
 Graduate Programmes Distance Education Library Students	12361
 Green Bean Distributions Ltd	14736
+Growth and Distribution Channels	14997
 Gulu District	5394,3988
 Génération Transmission Distribution Objectifs	13433
 HDAs. Zone Distribution Area	9123
@@ -769,18 +833,23 @@ HF District Hospital	12379
 Habitação Distribuição	10777
 Haidian District	14140
 Head Office Central Business District P.M.B	14473
+Health DHIS2 District Health Information Software	15056
 Health Districts Covered	10829
 Health Information System DMO District Management	771
 Health and Safety PDA Payment Distribution Agent	11198
+Hodan District	15164
 Homens Distribuição	10777
 Honoring Distinguished Leaders Who Have Supported	13816
+Honors Top Performing Districts	15208,1
 Horizontal Distribution Area	9123
 Horizontal Distribution Area HP-UX Hewlett Packard	13185
 Hospital Distrital de Micomiseng	4209
 Hospital Distrital de Micomiseng Micomiseng	4209
+Hospitals District	15056
 Humansdorp District Hospital Co-location PPP	11248
 Hurungwe District	13614
 Huye District National	12413
+Huye Rusizi District	15056
 Hydrobox Kenya Ltd Distribution and Supply	12256
 HÔPITAL DE DISTRICT	13300
 Hôpitaux de District Valeurs	13325
@@ -858,7 +927,9 @@ Kenya's National Long Distance	2814
 Kenya. Mitsumi Distribution	6299
 Kgatleng and Ramotswa Districts	12552
 Kibaale District	7771
+Kicukiro District	15056
 Kicukiro District. RURA	718
+Kilometers District	15056
 King Cetshwayo District Municipality	11343
 Kivumu Kabaya Rulindo District Ntarabana Rwamiko	12413
 Kjeldahl Digestion and Distillation	14736
@@ -868,8 +939,11 @@ Kumi District	3005
 Kurunegala District	7759
 L'ENDROIT HÔPITAL DE DISTRICT	13300
 L'ENDROIT. HÔPITAL DE DISTRICT	13300
+LODA MINAFETT Districts	14935
 La Société de Distribution	2342
+Land Distribution for Housing	14874
 Land Processes Distributed Active Archive Center	11334
+Least Cost Transmission and Distribution	14947
 Lembe District	11266,661
 Lembe District Municipality	11266
 Lesotho Metropolitan Fiber Distribution Network	2416
@@ -905,6 +979,9 @@ MAIN DISTRIBUTION BOARD MGDS	12253
 MDAs Distribute	9123
 MDAs and District	12917
 MDAs and Districts. Priority	13080
+MINALOC District	14935
+MINALOC LODA District	14935
+MINICT District	14935
 MOH and Districts	13005
 MOHAIS and Kalumbila District Council	1988
 MONTHS Province District Clinics Community Health	11252
@@ -937,6 +1014,7 @@ Milange District	12180
 Milange District. Contact	12180
 Ministerio Inspector Regional Ministerio Juez Distrito	4209
 Ministries and District Council	1778,210
+Ministries and State Presidencies. At District	14925
 Mitete District Commissioner Patrick Mikosa	13413
 Mitsumi Distribution	6299
 Mobile Off-Net Traffic Distribution	2776
@@ -960,6 +1038,7 @@ Municipal and District Councils	14721,25
 Municipalities and District Councils	14836
 Municipality and District Total Volume	8999
 Musanze District	5889
+Musanze and Huye Districts	15023
 Mushindabo District	13378
 Muyumbu Kabarondo Ndego Mushubati Kamonyi District	12413
 Mwandi District	13387
@@ -992,6 +1071,7 @@ National Distance	13390
 National Distribution Control Center	87
 National Electricity Distribution Company	11380
 National Financial Inclusion Strategy DPI Distributed	12444
+National and District	14947
 Nationwide Rollout Reaches Every District	13510
 Nchelenge District	1867,11610
 Nebbi District	3005
@@ -1017,15 +1097,19 @@ Ntcheu District	12141,981
 Ntongwe Bugesera District Gashora Kirehe District	12413
 Number of Assistive Devices Distributed	12977
 Number of Content Distributors	12395
-Number of Districts	12453,894,251
+Number of Districts	12453,894,251,1337
+Number of Districts and CoK	14935
 Number of Signal Distributors	12395
 Nutanix Distributed File System	13185
 Nyabihu District	697,73,8069
 Nyabihu District Bu	12413
-Nyagatare District	10152,19,2242
+Nyagatare District	10152,19,2242,2842
+Nyagatare and Gatsibo District	15255
+Nyagatare and Gatsibo Districts	15255
 Nyakabuye Save District HQ District	12413
+Nyamagabe District	14869,128
 Nyamagabe District Cyanika Rwaniro Ntendezi Rangiro	12413
-Nyarugenge District	4941,7417
+Nyarugenge District	4941,7417,2592,106
 Nyeri District and Nairobi City	12151
 OFFICER OF DISTRICT COURT Date	7845
 OVERALL RISK OF PUBLIC DEBT DISTRESS	13868
@@ -1033,6 +1117,7 @@ Oct-24 District Council of Savanne	14746
 Off-Net Traffic Distribution	2776
 Ogun West Senatorial District	3942
 Okavango District	2935
+Operationalization of Districts Emergency Command Centre	14935
 Operations AI Artificial Intelligence DDM District	11986
 Optical Distribution Network	3487,5051,5613
 Optimized Distribution Network	12358
@@ -1077,7 +1162,10 @@ Post Restante Special Delivery Service District	11129
 Postal and DISTRIBUTED BY VERITAS	13443
 Postcode. District	11129
 Power DER Distributed Energy Resources DFFE	11228
+Power Distribution Unit	14921
 Power Distribution Units	9123
+Power Transmission and Distribution Network Issue	14947
+Power Transmission and Distribution Network Policy Objective	14947
 Prefecture Health Districts Population	10829
 Preparation and Distribution of Registers of Civil	12226
 Prevention DH District Hospital	12379
@@ -1099,6 +1187,8 @@ Provincial and District Support	12025
 Préfets Chefs de District	14425
 Publish the Electricity Distribution Industry	11236
 Pujehun District List of Female MPs	5390,965,827
+Quality of Service for Distribution Licensees	14867
+Quality of Service for Distribution Licensees The Regulatory	14867
 REGIDESO Water Distribution Board	11994
 RENDEMENT DE DISTRIBUTION	10975
 RESTAURANTES CAPITALES DE DISTRITALES Y MUNICIPALES	4209
@@ -1127,6 +1217,7 @@ Rubavu District	718,11615
 Rukara Mwiri Rutsiro District Kavumu Ng	12413
 Rukungiri Deputy Resident District Commissioner	7772
 Rukungiri Resident District Commissioner	7772
+Rulindo District	15208,1
 Rumphi District	3791
 Rural District Council RE Renewable Energy	970
 Rural District Councils	970
@@ -1135,7 +1226,7 @@ Rural District Councils. Urban SLB	970
 RuralPopulation Distribution Urban Rural	958
 Rusizi District	13418
 Rutunga Fumbwe Kiramuruzi Kigeyo Ngororero District	12413
-Rwamagana District	13418
+Rwamagana District	13418,1631
 Rwanda RESEARCH REPORT Distance	12328
 Règlement du Service de Distribution Publique	10975
 Régies de Distribution	13377
@@ -1146,6 +1237,7 @@ SD Sales and Distribution SSB Salary Service	13420
 SENI-Plus Targeted Districts and Population Targets Region	10829
 SNPC Distribution	1828
 SOCIÉTÉ DE DISTRIBUTION D’EAU	2342
+SPATIAL DISTRIBUTION	14903
 Sales and Distribution Director	10249
 Salima District	13160
 Salima District Hospital	13160
@@ -1180,6 +1272,8 @@ Services de Districts de Santé Publique	14622
 Sesheke District	12937
 Setor de Atividade Distribuição	11571
 Sex District	12379
+Shangani District	14912
+Shared Distribution Network Platform	15044
 Sheema District Woman MP	1210
 Shiny New Distraction	5700
 Signal Distribution License	718
@@ -1209,8 +1303,11 @@ Staff Gender Distribution	12969
 Staff Gender Distribution Figure	12969
 Standards Document Distribution	13308
 Staples Retailing Distribution	4972
+State-level Distribution of Multidimensional Poverty	15244
 State-owned Distribution	4301
 Sterling Bank. Distinct	12000
+Sudan Transmission Company and Sudan Distribution Company	14933
+Sudanese Electricity Distribution Company	15194
 Summary of Business Distribution	12445
 Supervisor Distrital Grupo	4209
 Survey Topline Findings Distribution of Adults	12409
@@ -1218,6 +1315,10 @@ Sustaining Use of District Health Information System	150
 T&D Transmission and Distribution VRE Variable Renewable	11549
 T.A. and District	12898
 TIENDAS ARTESANALES CAPITALES DE DISTRITALES	4209
+TRANSMISSION AND DISTRIBUTION LICENSEES	14867
+TRANSMISSION AND DISTRIBUTION LICENSEES Article	14867
+Table3.1 Distribution of Economic	15085
+Table4.1 Distribution of Gender of Business Owners	15085
 Tchikapika District	4798
 Telephone Interview DCC District Census Coordinator	11192
 Thabo Mofutsanyana District Municipality	11289
@@ -1229,26 +1330,32 @@ Tobacco Distribution	4972
 Toliara. Centres Hospitaliers de Reference de District	14442
 Tororo Resident District Commissioner	2928
 Transmission Distribution MV Distribution LV Voltage	14745
-Transmission and Distribution	11152,1615
+Transmission and Distribution	11152,1615,2180
 Transmission and Distribution Department	14745
 Transmission and Distribution Grid	13054
+Transmission and Distribution Infrastructure	14947
+Transmission and Distribution Power Masterplans	14947
 Transmission and Distribution Service Network Contracts	12320
 Trois Boutiques Football Ground District Council	14746
 Tshwane District Hospital	11986
 Type Approval and Distribution	8916
+Type Approval and Distribution of Communications Equipment	15261
 TÍTULO V DE LA DISTRIBUCIÓN	4209
 UNITED STATES DISTRICT COURT	5692
 UPS Output Distribution UPS	9123
 US District Court	9188
 UTxO Distributed	11130
 Uasin Gishu and Embu Districts	12151
+Underdeveloped Distribution Brain Drain	14997
 Unequal Distribution of Technology Arab	2958
 Uneven Resource Distribution and Infrastructure Gaps	6936
 Uneven Resource Distribution and Infrastructure Gaps Launch	6936
 Uneven Resource Distribution and Infrastructure Gaps SUMMARY	6936
+United Nations Office for Project Services Distr	15039
 United States District Court	5692
 Urban District Councils. Under the EU Local	970
 Urban and Rural District	970
+User Distr. LIMITED	14856
 VDTEC Distributors Ltd	14753
 Validation and Distribution Issued	12360
 Vice Mayor of Rwamagana District	12443

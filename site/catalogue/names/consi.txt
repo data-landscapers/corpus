@@ -12,6 +12,7 @@ Bridges General Considerations	1988
 C. Methodology and Consistency	14777
 C.5 Consider	14723
 CITIZEN AFFAIRS RESOURCE CONSIDERATIONS Programme	11986
+CONSIDERANT	14849
 CONSIDERATION OF DEPLOYMENT LETTERS Parliament’s JSCD	11289
 CONSIDERATION OF THE TOPICAL ISSUE	13328
 CONSIDERATIONS OF CORE PROVISIONS	1243
@@ -29,7 +30,7 @@ Central Bank Consistency	6938
 Clear and Consistent Digital Disclosures Uniform	13532
 Cloud Consideration	12967
 Completeness and Consistency	3861
-Consider	415,484,110,979,2138,802,296,309,41,101,2,1270,373,253,178,38,68,151,596,1,99,419,447,23,60,66,63,205,29,122,285,147,259,175,13,133,80,371,196,60,16,87,4,22,241,26,75,41,563,378,222,336,205,155,296,184,15,28
+Consider	415,484,110,979,2138,802,296,309,41,101,2,1270,373,253,178,38,68,151,596,1,99,419,447,23,60,66,63,205,29,122,285,147,259,175,13,133,80,371,196,60,16,87,4,22,241,26,75,41,563,378,222,336,205,155,296,184,15,28,146,25,75,22,247
 Consider Africa	5252
 Consider Akosua	10419
 Consider Alternatives	14524
@@ -46,14 +47,14 @@ Consider the ITU	7074
 Consider the Marshall Plan. When Europe	4258
 Consider the Mastercard	5700
 Considera-se	549,6421,4394,1,18,3,33,17,31,102,13
-Considerable	3004,7991,912,520,1634,421
+Considerable	3004,7991,912,520,1634,421,378,75,31
 Consideración	1701
 Considerada	3558
 Consideram	10428
 Consideram-se	11369,9,6,59,9,130,319,410
 Considerando	13,2,152,372,205,50,907,1818,628,71,339,6197,1,15,13,577,2,1,5,1,1,1,1,1,4,1,1,2,1,1,1,9,1,3,6,6,21,1,4,5,1,2,6,6,12,53,17,24,8,449,124
 Considerar	1701
-Consideration	34,936,1018,721,794,211,1182,349,1953,1925,1670,336,52,3,12,953,84,125,272,33,302,5,411,570,484,393
+Consideration	34,936,1018,721,794,211,1182,349,1953,1925,1670,336,52,3,12,953,84,125,272,33,302,5,411,570,484,393,98
 Consideration Post-Delisting	4896
 Consideration Regarding Information	11956
 Consideration Regulation M-A Item	7198
@@ -67,7 +68,7 @@ Considerations for Cloud Storage	12302
 Considerações Finais	11387
 Considerações Metodológicas	11448
 Considered	7198,2039,920,2168,11,2335
-Considering	573,145,71,172,39,9,152,87,13,567,289,796,145,103,1271,1101,944,2646,1595,8,38,1,10,9,9,29,97,60,25,126,24,42,69,271,27,66,226,7,1,17,27,11,6,31,1,8,30,181,26,45,51,36,25,45,10,627,309,128,208,253,66,361,69,320,26,45
+Considering	573,145,71,172,39,9,152,87,13,567,289,796,145,103,1271,1101,944,2646,1595,8,38,1,10,9,9,29,97,60,25,126,24,42,69,271,27,66,226,7,1,17,27,11,6,31,1,8,30,181,26,45,51,36,25,45,10,627,309,128,208,253,66,361,69,320,26,45,33,39,50,109
 Considering MPSLSW	13523
 Considering the Special Investigative Unit	11986
 Considering the Weight	10785
@@ -92,11 +93,11 @@ Consist	13346
 Consiste	10766,619
 Consistency	2776,875,136,74,1626,564,5207,1279,380,120,273,10
 Consistency and Accuracy	10723
-Consistent	585,355,18,866,1759,21,47,787,782,310,1612,553,64,127,468,82,1273,146,302,561,75,192,19,130,2,13,161,271,279,6,39,47,34,566,485,23,401,71,92,61,263,493,230,76,30
+Consistent	585,355,18,866,1759,21,47,787,782,310,1612,553,64,127,468,82,1273,146,302,561,75,192,19,130,2,13,161,271,279,6,39,47,34,566,485,23,401,71,92,61,263,493,230,76,30,387,80
 Consistent Growth and Revenue Optimization The Gambia	13042
 Consistent Time	1009
 Consistent Time CSIR Digital Imaging and Communications	1009
-Consistently	12214,181,532,605
+Consistently	12214,181,532,605,1632
 Consistently. Across Sub-Saharan Africa	5910
 Consistentwithcon-	8602
 Consisting	1036,10859,265,44,151,132
@@ -120,7 +121,7 @@ Emaswati. Consider	4535
 Embedded Content Matters Consider	6542
 Energy and Policy Considerations for Deep Learning	7548
 Environmental Considerations	13532
-Ethical Consideration	12379
+Ethical Consideration	12379,2684
 Ethical Considerations	1824,9095,1263,2484
 Ethical Considerations Ethics	12025
 Ethical Considerations and Participant Compensation	4439
@@ -131,7 +132,7 @@ Future Considerations	6423
 GDP. Consistent	1828
 GHz. Consistent	6891
 GUIDELINES FOR NEGOTIATORS ON CONSIDERING DATA	1243
-General Considerations	12253
+General Considerations	12253,2674
 Global Findex. Consistent	10977
 Governance Considerations	14565
 Government Strategy Implementation Roadmap Considering	12359
@@ -140,6 +141,7 @@ Grandes Contribuintes Portaria de Criação Considerando	12018
 Honourable Minister. Considering	11857
 IHE CORE COMPONENTS Consistent	1009
 IMMIGRATION AFFAIRS RESOURCE CONSIDERATIONS Programme	11986
+INFORMATION SAFETY AND CYBER-SECURITY Considering	14879
 INFORMÁTICOS Considerando	10770
 Implementation Considerations for Policymakers	12048
 Include Environmental Considerations	12389
@@ -153,13 +155,14 @@ Jurisdiction and Cross-Border Considerations All	3861
 KEY CONSIDERATIONS	1818
 Kenya. Consistent	14158
 Key Concerns and Policy Considerations	1243
-Key Considerations	899
+Key Considerations	899,14443
 LEI DO GOVERNO DIGITAL PREÂMBULO Considerando	11461
 LETTER FOR CONSIDERATION	11289
 LO Data Consistency	14777
 Legislation Judicially Considered ACT	11177
 Licensing Considerations	6432
 Limpopo. Consistent	7759
+MINAGRI MINECOFIN X Consider	15130
 Malabo Convention. Consistent	5677
 Measurement ASYREC ASYCUDA Relief Emergency Consignment	13042
 Methodology and Consistency	14777
@@ -202,6 +205,7 @@ Regulatory Considerations	8301
 Relative Valuation Considerations and Peer Comparisons	4896
 Relief Consignments Coordination Platform The ASYREC	13042
 SPECIAL CONSIDERATIONS FOR STATE PARTIES17	1243
+Sample Size and Allocation Considering	15244
 Scientific and Industrial Research DSUB Consistent Time	1009
 Security Considerations Operational	9123
 Service Provider Considerations The Service	9123

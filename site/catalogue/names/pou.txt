@@ -113,6 +113,7 @@ CONSENTEMENT DE L'ENQUÊTÉ MINEUR POUR	13300
 CONSENTEMENT DE L'ENQUÊTÉ MINEUR POUR DES	13300
 CONSENTEMENT DE L'ENQUÊTÉE ADULTE POUR	13300
 CONSENTEMENT DE L'ENQUÊTÉE AÊDUÉLTE POUR DES	13300
+CREANT L’OFFICE POUR LA PROMOTION	14862
 CSC. Pour	12068
 Camayenne. Pour la Directrice	4719
 Cameroun. Pour	10965
@@ -162,10 +163,12 @@ DESCRIPTION DE LA PROCEDURE Pour	10876
 DGI Pour	3396,7462
 DGI. Pour	10858
 DIFFICULTÉS POUR TOMBER ENCEINTE	13300
+DROITS ET OBLIGATIONS POUR LA PRESTATION	14919
 DT. Pour Camrail	4065
 DU FONDS POUR L'OPÉRATIONNALISATION	1336
 DU TRAITEMENT POUR LE MÉDICAMENT REFUS	13300
 Daniel Gélase Ndabirabe. Pour	6742
+Data SDG Sudanese Pound	14897
 Datacenter. Pour	10858
 Des Pouvoirs Spécifiques Section	37
 Digital Pound	11130
@@ -287,6 +290,7 @@ I. Poursuite	5928
 I.3- PREVISIONS REVISEES POUR	14548,71
 IA. Pour	2387
 IA. Pourquoi	7715
+IA. Pourtant	15295
 IGF. Pour	14171
 II.3 Valeurs Pour	13341
 IIC Pour	11139
@@ -436,6 +440,7 @@ Okunogbe and Pouliquen	12948
 Ollo Palenfo. Pour	3666
 Oracle PACTE NATIONAL POUR L’ENERGIE	13433
 Orange Money. Pour	2983
+Organe National de Poursuite Judiciaire	14870
 Ouagadougou Pour	6731
 Ouagadougou. Pour	3055,400,2304,4500
 Oumar Bady Diallo Pour Africaguinee.com Créé	8566
@@ -536,7 +541,7 @@ Poulet	10841
 Pouliquen	12369
 Poultry	7845,5540
 Poulus Shampapi	10148
-Pound Sterling	8443,2691,3651
+Pound Sterling	8443,2691,3651,238
 Pounds	11863
 Pounds Advanced	12917
 Pouni	10875
@@ -634,6 +639,7 @@ Pour M. Diouf	7858
 Pour M. Guy Adoua	7374
 Pour M. Ndikumana	6605
 Pour M. Nicolas NDAYISHIMIYE	14244
+Pour M. Paul Gbanfrein	15273
 Pour M. Roger Bini	10432
 Pour M. Samuel Nouetagni	14244
 Pour M. Traoré	6701
@@ -724,7 +730,7 @@ Pour le CiAAF	10089
 Pour le Club	5260
 Pour le Comité	6739
 Pour le Conseil	6989
-Pour le Conseil des Ministres	3326,2741
+Pour le Conseil des Ministres	3326,2741,8782
 Pour le Coordinateur	3967
 Pour le Coordonnateur	8524
 Pour le Directeur	6456,1857,5217
@@ -791,7 +797,7 @@ Pourcentage de Travailleurs	14490
 Pourcentage de VIH-positifs	13300
 Pourcentage des DMEG	3396
 Pourcentage des Harcèlement	14488
-Pourquoi	747,2245,124,1906,32,105,514,370,340,494,778,20,218,326,459,41,2,1309,229,383,175,9,843,4,76,185,1456,234,857,68,134,158
+Pourquoi	747,2245,124,1906,32,105,514,370,340,494,778,20,218,326,459,41,2,1309,229,383,175,9,843,4,76,185,1456,234,857,68,134,158,423,28
 Pourquoi la République du Burundi	13677
 Pourquoi le Togo	11689
 Pourrait	14425
@@ -806,14 +812,16 @@ Pouvez-	13300
 Pouvez- OBSERVÉ	13300
 Pouvez-vous	2732,4095,1973,16,4484
 Pouvez-vous ALLAITE	13300
-Pouvoir	13300,142
+Pouvoir	13300,142,1451
 Pouvoir Central	7470
 Pouvoir Exécutif	7953
-Pouvoirs	9616,1205,21,34
+Pouvoirs	9616,1205,21,34,4017,134,99
+Pouvoirs Article	15102
 Pouvoirs Pour	14412
 Pouwels	8436
 Pouytenga	10875
 Pouytenga Tensobentenga	10875
+Prime Minister’s Order. Pour	14863
 Prischina Dorlicka Poushquine Bianiephe	4135
 Privé Pourcentage	10847
 Production Statistique LA TRANSPARENCE POUR UN	10975
@@ -844,6 +852,7 @@ RDR Q38. Pour	13390
 RECHERCHE DE L’AIDE POUR METTRE FIN	13300
 RECRUTEMENT D'UNE FIRME POUR ASSURER L'AUDIT	14578
 REFERE POUR REFERE POUR REFERE POUR	13300
+REQUISES POUR LES SERVICES DE PAIEMENT	14919
 RESPONSABLE POUR L'ENFANT	13300
 RESSOURCES ET RESPONSABILITES POUR METTRE EN	14425
 RESUME EXECUTIF Pour le Cameroun	10965
@@ -865,6 +874,7 @@ Région Province Commune Effectif Pourcentage Est	10875
 Région Province Commune Effectif Pourcentage Nord	10875
 Région Province Commune Effectif Pourcentage Sahel	10875
 République du Congo. Pour	1973
+République du Rwanda. Pour	14862
 République. Pour	2854,8297
 Révolution Progressiste Populaire. Pour	8454
 S1Q01A Pourquoi	6959
@@ -874,6 +884,8 @@ S5Q03A Pourquoi	6959
 S5Q05A Pourquoi	6959
 S5Q05B Pourquoi	6959
 SANTÉ SI VOUS NE POUVEZ DÉTERMINER	13300
+SDG Sudanese Pound	15220
+SDG Sudanese Pound SMA Sudan Meteorological	15118
 SELECTION D’UN ENFANT POUR LE TRAVAIL	13300
 SI VOUS NE POUVEZ DÉTERMINER SI	13300
 SOCIÉTÉ POUR LE DÉVELOPPEMENT DES FORÊTS	2342
@@ -899,7 +911,8 @@ South Sudanese Pounds	3583,2609,1057,663
 Statut Effectif Pourcentage Rural Etablissement	10875
 Statut. Pour	6954
 Sterling Pound	2775
-Sudanese Pounds	1851
+Sudanese Pound	14877,20,40,232
+Sudanese Pounds	1851,13197
 Suite FEMMES HOMMES Caractéristique Pourcentage de Effectif	13300
 Suite FEMMES HOMMES Caractéristiques Pourcentage de Effectif	13300
 Suite Pourcentage	13300
@@ -942,6 +955,7 @@ Utilisation de Pourcentage	10965
 Utilisation des MII Pourcentage	13300
 V. INFRASTRUCTURES SCOLAIRES V.5 POURCENTAGE DES	10847
 V.5 Pourcentage	10847
+VALEUR AJOUTÉE POUR UNE INDUSTRIE Article	15177
 VALUATION DES PRINCIPAUX RISQUES QUI POURRAIENT	14424
 VI. SUIVI- EVALUATION Pour	12
 VIETTEL-Burundi. Pour	13324

@@ -19,6 +19,7 @@ ASSUNTOS CONSTITUCIONAIS E RELIGIOSOS Estatisticas	12862
 ASSUNTOS CONSTITUCIONAIS E RELIGIOSOS Menu	12156
 ATU Constitution	7793,157
 ATU Constitution and Convention	6488,2315
+Access Constraints and Challenges	15115
 Acquisition of Construction Materials	12253
 Act and Constitution	9992
 Acto Constitutivo	11362
@@ -53,8 +54,11 @@ BLOX CONSTRUÇÕES S.A. Nos	10751
 BRIGADA DE CONSTRUC. Y OBRAS	4209
 BSG Société Security Services Constitution	10821
 Bata Construcción	4209
+Bende Federal Constituency	15336
+Bende Federal Constituency of Abia State	15336
 Berg River-Voëlvlei Dam Pipeline Construction Construction	11248
 Binding Constraint	11140
+Body Construction	15255
 Body The Minister of Justice and Constitutional Affairs	13177
 Boletim Estatístico de Construção	9441
 Borehole and Footbridge Construction Projects Findings	13420
@@ -135,8 +139,8 @@ CSJ Constitucional	4209
 Cadet Constables	12984
 Cameroon's Constitution	10841
 Capacidade de Autenticação Construída Fase III	11480
-Capacity Constraint	11965
-Capacity Constraints	10829,696,831,405
+Capacity Constraint	11965,3225
+Capacity Constraints	10829,696,831,405,2176,253
 Capacity Constraints Are Emerging Further	7762
 Capacity Constraints Financial Policy Frameworks Standards	12457
 Capacity Constraints Mean for Africa's Satellite	7762
@@ -150,6 +154,7 @@ China Communications Construction Co	35,9531
 China Construction Bank	340,1074,6175
 China Construction Bank Corporation	1414,2942
 China Railway Construction Group	183
+China State Construction Engi-	14897
 Civic Services Signature Adv Constance Moitse	5533
 Civil Cooling Management Applications Construction Project	10861
 Clúster de Construcción	1701
@@ -171,10 +176,11 @@ Consta	6595
 Constable Bongekile Mamba	12463
 Constance	14773
 Constancia Mangue Obiang Lima	6841
-Constant	2775,4171,940,1237,6,1664,63,141,989,68,894,1777
+Constant	2775,4171,940,1237,6,1664,63,141,989,68,894,1777,240,62
 Constant Contribution	10793
 Constant Currency	8727
 Constant Data	12360
+Constant Munda	14932
 Constant Prices	2775
 Constant USD	18,7571,1977
 Constant and Current GDP Estimates for Zambia	13479
@@ -187,7 +193,7 @@ Constantino Sotomane	761,1840,183,32
 Constantino.Sotomane	761
 Constantinou	10073
 Constantly	961,1132,9037
-Constat	1005,13483,1,1
+Constat	1005,13483,1,1,797
 Constata-se	11577,356
 Constatant	13720
 Constatations	13849
@@ -262,7 +268,7 @@ Constituição. ARTIGO	11513
 Constituição. Sociedades Pesquisar	10753
 Constitute	12253
 Constitute the Strategic Plan Implementation Committee	13005
-Constitution	3,8,6,8,3,85,195,105,16,156,2,160,1,51,100,59,11,1,2,238,4,17,53,63,283,112,95,1,146,109,24,190,205,3,16,16,52,27,100,1,9,39,31,2,197,53,168,157,13,105,82,127,4,147,181,85,79,15,140,1,1,57,1,107,39,21,9,156,360,28,1,31,71,289,40,280,19,122,128,183,82,56,45,27,12,61,24,54,205,36,93,176,67,204,1,10,12,24,44,10,147,87,50,87,159,6,34,60,10,252,30,9,34,135,94,1,61,62,1,19,1,4,79,14,22,198,26,169,246,93,56,42,78,1,24,1,51,1,57,25,5,137,32,22,35,8,62,19,123,133,62,17,36,10,46,1,4,15,35,32,141,49,31,2,3,5,38,1,1,2,1,6,2,3,3,5,10,5,2,6,6,15,2,14,1,3,7,5,3,5,1,3,128,47,87,7,22,12,15,11,32,12,129,5,5,10,1,1,31,10,14,32,5,2,41,8,20,1,9,7,16,45,41,18,32,1,5,10,24,3,13,25,6,21,40,1,8,17,8,10,12,23,38,102,16,3,15,2,1,7,24,39,32,1,9,7,103,8,112,1,11,6,1,2,2,2,2,2,2,7,1,2,7,7,24,2,15,46,7,57,123,28,1,38,1,4,2,5,8,4,5,1,1,1,2,1,17,8,2,3,19,4,12,16,15,2,22,5,14,9,2,5,14,2,4,4,3,62,66,6,21,26,13,9,2,1,11,5,13,42,62,3,31,46,14,3,8,7,3,10,5,31,20,48,1,28,12,14,1,82,14,16,41,18,6,103,1,1,6,6,2,7,4,14,9,1,1,4,5,24,7,24,13,6,3,15,5,28,16,63,41,1,5,2,20,6,3,9,30,22,27,8
+Constitution	3,8,6,8,3,85,195,105,16,156,2,160,1,51,100,59,11,1,2,238,4,17,53,63,283,112,95,1,146,109,24,190,205,3,16,16,52,27,100,1,9,39,31,2,197,53,168,157,13,105,82,127,4,147,181,85,79,15,140,1,1,57,1,107,39,21,9,156,360,28,1,31,71,289,40,280,19,122,128,183,82,56,45,27,12,61,24,54,205,36,93,176,67,204,1,10,12,24,44,10,147,87,50,87,159,6,34,60,10,252,30,9,34,135,94,1,61,62,1,19,1,4,79,14,22,198,26,169,246,93,56,42,78,1,24,1,51,1,57,25,5,137,32,22,35,8,62,19,123,133,62,17,36,10,46,1,4,15,35,32,141,49,31,2,3,5,38,1,1,2,1,6,2,3,3,5,10,5,2,6,6,15,2,14,1,3,7,5,3,5,1,3,128,47,87,7,22,12,15,11,32,12,129,5,5,10,1,1,31,10,14,32,5,2,41,8,20,1,9,7,16,45,41,18,32,1,5,10,24,3,13,25,6,21,40,1,8,17,8,10,12,23,38,102,16,3,15,2,1,7,24,39,32,1,9,7,103,8,112,1,11,6,1,2,2,2,2,2,2,7,1,2,7,7,24,2,15,46,7,57,123,28,1,38,1,4,2,5,8,4,5,1,1,1,2,1,17,8,2,3,19,4,12,16,15,2,22,5,14,9,2,5,14,2,4,4,3,62,66,6,21,26,13,9,2,1,11,5,13,42,62,3,31,46,14,3,8,7,3,10,5,31,20,48,1,28,12,14,1,82,14,16,41,18,6,103,1,1,6,6,2,7,4,14,9,1,1,4,5,24,7,24,13,6,3,15,5,28,16,63,41,1,5,2,20,6,3,9,30,22,27,8,5,9,1,1,2,5,6,15,2,14,11,8,101,75,46,29,84,50,29
 Constitution Amendment Bill No	12556
 Constitution Art	2456,2686
 Constitution Article	2456
@@ -417,6 +423,7 @@ Constitutional Delivery and Public Trust	7548
 Constitutional Development	10729
 Constitutional Dimensions and Judicial Interpretation	8776
 Constitutional Division	14748
+Constitutional Document	14884
 Constitutional Evolution	3861
 Constitutional Foundation	3861
 Constitutional Foundation The National Data Governance	3861
@@ -461,10 +468,11 @@ Constitutions	10375,3598
 Constitutive	240,7211
 Constitué	11944
 Constjtue	13781
-Constrained	1810,2890
+Constrained	1810,2890,10464
+Constraining	14851
 Constraining Event	12364
 Constraint	6793,345,13,5238,1260
-Constraints	4973,1859,1796,2090,123,295,1331,192,378,1637
+Constraints	4973,1859,1796,2090,123,295,1331,192,378,1637,223,267,80,98
 Constraints Related	5677
 Constraintsrelatedtoleadershipandgov-	8602
 Constrangimentos	10757,15,765,24
@@ -479,7 +487,7 @@ Construcción de Acceso	4209
 Construcción de Aparcamiento	4209
 Construcción de Centros Integrados	4209
 Construcción de Malabo	4209
-Construct	1988,7141,3876
+Construct	1988,7141,3876,1917
 Construct Cronbach	9129
 Construct SYSQ COMPL COMP TRIAL SEC	9129
 Constructed	2973,610
@@ -487,7 +495,7 @@ Constructi	14775
 Constructing	9155,1686,1249,2566
 Constructing Housing	12175
 Constructing the Core Engine	4528,7984
-Construction	35,23,63,216,381,546,374,44,185,10,63,48,33,321,134,34,29,236,191,23,56,269,82,27,37,401,150,114,95,456,6,214,109,242,147,399,515,114,68,103,40,191,84,13,25,724,4,21,148,394,59,25,285,603,357,253,942,86,11,3,14,25,2,34,39,62,97,2,112,48,228,57,293,7,1,23,81,267,105,15,26,22,24,55,97,120,7,126,72,34,6,22,3,66,7,62,207,32,24,5,2,13,15,13,71,57,80,267,64,32,418,66,1,1,95,88,46,17,2,4,3,1,69,14,1,10
+Construction	35,23,63,216,381,546,374,44,185,10,63,48,33,321,134,34,29,236,191,23,56,269,82,27,37,401,150,114,95,456,6,214,109,242,147,399,515,114,68,103,40,191,84,13,25,724,4,21,148,394,59,25,285,603,357,253,942,86,11,3,14,25,2,34,39,62,97,2,112,48,228,57,293,7,1,23,81,267,105,15,26,22,24,55,97,120,7,126,72,34,6,22,3,66,7,62,207,32,24,5,2,13,15,13,71,57,80,267,64,32,418,66,1,1,95,88,46,17,2,4,3,1,69,14,1,10,51,94,100,44,126
 Construction ARCEP	998
 Construction Act	1988
 Construction Agriculture Non	10875
@@ -514,7 +522,7 @@ Construction Materials Extraction	1988
 Construction Motor	11874
 Construction Operating	10976,1370
 Construction PAGE	2775
-Construction Permit	2674
+Construction Permit	2674,12407
 Construction Permit Automation System	2674
 Construction Permit System	13854
 Construction Permits	4325,8051
@@ -541,6 +549,7 @@ Construction and Decommissioning	1988
 Construction and Financial Model	13122
 Construction and Installation Phase	12253
 Construction and Maintenance Agreement	124
+Construction and Transport	15085
 Construction and Use of Vehicles	7845,7000
 Construction du Bâtiment	2966
 Construction du Datacenter	2942
@@ -589,6 +598,7 @@ Constructional	13385
 Constructions	1988
 Constructions ONC-AC	7674
 Constructive	571,983
+Constructive Multilateral Dialogue Rwanda	15131
 Constructtheconfusionmatrix	8606
 Construindo	11963
 Construir	1701,1115,2847,5713,20,1,129
@@ -640,7 +650,8 @@ Data Centre Project China Construction Bank	340
 Declaração Constitutiva	11393
 Definition Constraining Constraining Processing	12364
 Delimitation of Constituency Boundaries The Constitution	12652
-Department of Justice and Constitutional Development	3225,65,3781,434,1016,258,2419,72,15,9,602
+Democratic Republic of Congo. Construction	15049
+Department of Justice and Constitutional Development	3225,65,3781,434,1016,258,2419,72,15,9,602,3431
 Department of Justice and Constitutional Development Remarks	11227
 Department of Justice and Constitutional Development’s	2117
 Department ofJustice and Constitutional Development	1009
@@ -648,6 +659,7 @@ Depreciation Reported Constant Prior	10793
 Deputy Minister of Justice and Constitutional Development	10453
 Description Construction	123,960
 Despite Budget Constraints	965,3804,120,206,68,334,86
+Developing Constrained	15164
 Digital Constitutionalism	11028
 Digital Realty In Construction	10861
 Direito Constitucional	10752
@@ -683,6 +695,7 @@ Elena Constantinou	10073,4227
 Emaswati. The National Constitution	12939
 Empresas Construcción	4209
 Encadrement des Constructions	13442
+Energy Efficiency and Demand-side Management Constrain	14947
 Engineering Procurement and Construction	14479
 Enviar Alvarás de Construção	11898
 Environmental Permits Requirements for Construction	12389
@@ -705,8 +718,10 @@ FISCALIA TRIBUNAL CONSTITUCIONAL	4209
 FISCLALIA TRIBUNAL CONSTITUCIONAL	4209
 FISCLALIA TRIBUNAL CONSTITUCIONAL-Concepto	4209
 Faune Construction des Flore	14488,1
+Federal Constituency	15336
 Federal Constitution	13948
 Federal Government Constituted Presidential Advisory Team	10
+Federal Republic of Somalia's Provisional Constitution	14965
 Financing Type Constraints P180987 Additional Financing	1284
 Fire-Rated Construction Walls	9123
 Fiscalía Tribunal Constitucional Secretario	4209
@@ -725,6 +740,7 @@ G548 Construction of New Parliament Building	12962
 GDP AT CONSTANT	13060
 GDP.52 Constant	10856
 Gender Construction	12253
+Geographical Constituency	14852
 Ghana Constitution	10821
 Ghana. Construction	1041
 Gilgil Constituency	5142
@@ -747,6 +763,7 @@ Houses Constructed	12977
 Human Resource Constraints	14835
 Human Resource Constraints Training Gaps	12508
 Human Rights and Constitutional Matters	7650
+IGAD Constitutive Agreement	14912
 II. Construction	12358
 INFORMATION Constitutional and Legislative Framework	13739
 INFRASTRUCTURE CONSTRAINTS AND ENABLERS Surveyed Zambian	5247
@@ -762,6 +779,7 @@ Innovation Ecosystems Require Structural Support Constraints	7548
 Inspections PPPC During Construction E-Government	12253
 Institutional and Governance Constraints Several	14666
 Institutions Constitutionnelles	548,683
+Interim National Constitution	14850,2
 International Compagny-Knowledge Construction Group	4682
 Investment Project P179095 Moderate Capacity Constraints	13332
 Issued for Construction	11134
@@ -778,6 +796,8 @@ Justice and Constitutional Development	2626
 Justice and Constitutional Development Minister	7576
 Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
 Justicia Fiscal Tribunal Constitucional Ministro de Estado	4209
+KEY CONSTRAINTS AFFECTING PRIVATE SECTOR OPERATIONS	15179
+KEY CONSTRAINTS AND CHALLENGES	14935
 Kalumbila District Council Construction	1988
 Karasburg Constituency Office	13046
 Karasburg West Constituency Office	13046
@@ -786,6 +806,7 @@ Keiyo South Constituency	6946,3367
 Kenya Constitution	2515
 Kenya Law Reports. The Constitution of Kenya	12231
 Kenyan Constitution	12210,92
+Key Constraints	14897
 Key Construction Indicators	2775
 Kibamba Constituency	8884
 Kibra Constituency	2566
@@ -852,6 +873,7 @@ Management Response Gweru Urban and Luveve Constituencies	13420
 Manufac- Electricity Construc- Wholesale Accom- Transpor-	2775
 Manufactur- Electricity Construc- Wholesale	2775
 Manufacturing Construction Wholesale	14832
+Manufacturing Trade ICT Construction Finance Electricity	14985
 Manufacturing and Construction	12399
 Manufacturing.15. Construction.16. Mining	14410
 Market Liquidity Constraints	6938
@@ -919,7 +941,7 @@ Namibia’s Constitution	12923
 Namibia’s Constitution. The President	12923
 Nampevo Construção	9432
 Nandi Hills Constituency	10313
-National Constitution	11131
+National Constitution	11131,3743,2
 National Construction	10847
 National Construction Council	1988
 National Consulting Construction Services Supervision Works	11525
@@ -928,6 +950,7 @@ National Council for Construction Act No	1988
 National Data Center Construction	2800
 National Data Centre Construction Project	1715
 National Government Constituencies Development Fund	6627,1942
+National Interim Constitution	14854
 Nation’s Constitution	11265
 Netcon and J&J Construction	12253
 News Constitutional Court	5422
@@ -994,6 +1017,7 @@ Princípio da Constitucionalidade	11388
 Prisma Construction Company	5394
 Processo de Constituição de Sociedades Comerciais	11365
 Procurement and Construction	11131,3,2675
+Producer Price Indices and Construction Sector Indices	15085
 Progress Reports EXTERNAL Construction Industry Council	11131
 Project and Start of Construction	11955
 Proportionality and Constitutional Balance Constitutional	3861
@@ -1002,7 +1026,8 @@ Proposta de Regulamento de Construção	2816
 Propuesta de Construcción	4209
 Protection of Constitutional Democracy	8840,2439
 Protocolo de Maputo. A Constituição	11562
-Provisional Constitution	12492
+Provisional Constitution	12492,2399,113,144
+Provisional Constitution. The SNBS	14882
 Proyecto Construcción	4209
 Proyecto de Construccion	4209
 Proyecto de Construcción	4209
@@ -1018,6 +1043,7 @@ RESPECT THE CONSTITUTION	4619
 RESULTATS ATTENDUS Construction	10712
 ROKO Construction Company	9388
 Randburg Building Construction of Non-	11986
+Recipient's Provisional Constitution	14912
 Recommendations Makoni Central Constituency CDF Committee	13420
 Redcliff Constituency	13420
 Redcliff Constituency Regarding	13420
@@ -1059,6 +1085,7 @@ SUPREMACY OF CONSTITUTION	13294
 Samantha M. Constant	11572
 Samburu West Constituency	10313
 Satellite Constellation	1872,1041
+School Construction Policy and Strategy	14971,16
 Secretariat of Committee Constitution	13403
 Secretario Fiscalía Tribunal Constitucional	4209
 Secretary of Kuria West Constituency Development Fund	6946
@@ -1078,6 +1105,8 @@ Sithobela Constituency	12977
 Smart Construction	13474
 Social Construction of Reality	8380
 Somali Constitution	1742
+Somali National Constitution	14874
+Somalia's Provisional Constitution	15007
 Somalia’s Constitution	3615
 Somalia’s Provisional Constitution	3615
 South Africa's Constitutional Court	12619
@@ -1098,6 +1127,7 @@ State House Construction	5658
 State This Constitution	13948
 Structural Constrains Keep Value Flowing	7596
 Structural Constraints Explain the Gap Africa	7596
+Supreme Court and Constitutional Court	15231
 System Constraints Challenge	13163
 System The Ministry of Justice and Constitutional Affairs	12936
 TIC NA CONSTRUÇÃO E OBRAS PÚBLICAS	11397
@@ -1156,7 +1186,7 @@ VU La Constitution	4567,9261,18,31
 VU La Loi Constitutionnelle	4420,147,9276,3,31,46,14,3
 VU la Constitution	13715,4,4,49,37
 Village Council Karasburg East Constituency Office	13046
-Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66,1645,1,1,10,20,7,4,253,1,820,3,2,1,2,1,1,1,10,15,15,4,20,17,38,5,67
+Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66,1645,1,1,10,20,7,4,253,1,820,3,2,1,2,1,1,1,10,15,15,4,20,17,38,5,67,251,1,1,7,23,284
 Vula Constitution	14458
 Vungu Constituency	13420
 WANEP-RIFONGA Bénin Constitution	10821

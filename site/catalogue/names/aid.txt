@@ -20,8 +20,10 @@ AIDS Coordinating Committee	12962,10,5
 AIDS Coordinating Committee RDF Regional Development	12962
 AIDS DSSC District Social Support Committee	12964
 AIDS HELPLINE	1009,10167,3,2,9,6,3,2,12,20,30,288,22,474
+AIDS Healthcare Foundation	15247
 AIDS Helpline	11350
 AIDS Human Immunodeficiency Virus	11560
+AIDS IEC	15206
 AIDS Malaria Pneumonia Tuberculosis Road Traffic	12151
 AIDS NETIP National Education and Training Improvement	12975
 AIDS NGO Non-Governmental Organization OVC Orphaned	12970
@@ -52,17 +54,20 @@ AIDS. Looking Ahead	10776
 AIDS. Pre	14742
 AIDS. The NSPP	12964
 AIDÉ DANS ENTREPRISE	13300
+Abbreviations AIDS	14874
 Action Aid	11866
 Action Aid Togo	1679
 Adventist Development and Relief Agency AIDS Acquired	12970
 Aid Coordination Mechanisms	13885
 Aid Coordination and Management Section	11131,3,1828
+Aid Information Management System	14965
 Aid Management Platform	5244,6997,839,15
 Aid Management Platform API	5244
 Aid OVCs Orphans and Vulnerable Children PSR	13310
 Aid Operations	6947
 Aid Posts Number	12977
 Aid Transparency Index	6982
+Aid Vision	14923
 Aid Workers and Contractors Surge	10025
 AidData	18,17,15,1,1,2,1,1,1,1,1,1,18,1,25,1,16,1,2,1,1,1,54,1,1,1,1,4,1,3,1,50,1,1,1,10,1,1,1,1,41,35,1,1,1,1,1,1,15,1,1,1,1,16,81,15,1,1,2,1,2,1,1,136,27,69,373,1,60,1,3757,2682,1,72,1904
 AidData GCDF3	645
@@ -75,7 +80,7 @@ Aidant	2413
 Aide Aliment	13325
 Aide Medicale	14662
 Aide Memoire	2989,7897,1309,358,796,29,14,618
-Aide Memoire I. INTRODUCTION	12595,783,14
+Aide Memoire I. INTRODUCTION	12595,783,14,1627
 Aide Memoire I. Introduction	2989
 Aide Médicale Urgente	14622
 Aide Mémoire	12980,74
@@ -89,6 +94,7 @@ Aide-memoire I. INTRODUCTION	14540
 Aide-mémoire	9276,4461
 Aide-mémoire I. INTRODUCTION	14539
 Aidec Digital	6936
+Aideed	15002
 Aiden Izaaks	12478
 AidenIzaaks	12478
 Aider	10643
@@ -129,12 +135,14 @@ Correctional Services IATI International Aid Transparency	12962
 DORCAS AID INTERNATIONAL	7167
 Debt and Aid Division	13080
 Deputy Director for Debt and Aid	12980
+Development Aid and Technical Assistance	14879
 Digital Public Goods Aid Management Platform	13095
 Directional Signages. Rope Handling First Aid	14738
 Dk Mkilia. Aidha	6625
 Donor Aid	11134
 Don’t Want Aid That Runs	6947
 EGPAF Elizabeth Glaser Paediatric AIDS Foundation	13005
+EU Humanitarian Aid	15160
 EU and Irish Aid	1711
 EU and Irish Aid. Sambo	2930
 Eastern Deanery AIDS Relief Program Data	7167
@@ -152,7 +160,8 @@ European Union and Irish Aid	13032
 Explore AidData	7590
 FIRST AID Site No. of Trainings People	12977
 Fatores Facilitadores AIDA Ayuda	11557
-Fight AIDS	392,545,10623,337,1557
+Federal Ministry of Health Dr. Aida Sidahmed	15100
+Fight AIDS	392,545,10623,337,1557,1469
 Fight Against AIDS and Major Endemic Diseases	10776
 Finn Church Aid	12227
 First AID	12977
@@ -181,9 +190,10 @@ Government of Senegal’s Aid Management Platform	260,40
 Government of Uganda’s Aid Management Platform	106
 Grant In Aid	6222
 H. Draft Legal Aid Bill	12939
+HAC Humanitarian Aid Commission	15220
 HIV AIDS	1038,12953
 HIV AND AIDS	13399
-HIV and AIDS	21,1967,5199,1292,2655,657,462,669,24,92,1683,53,65
+HIV and AIDS	21,1967,5199,1292,2655,657,462,669,24,92,1683,53,65,408
 HIV and AIDS Amendment Act	14742
 HIV and AIDS NGO Non-Governmental Organization NSSV	12939
 HIV and AIDS Services	14773
@@ -198,7 +208,9 @@ HealthHistoryHIV and AIDSHome	11215
 Home Owners Allowance and Medical Aid	11218,6
 Human Resources Development Council and Legal Aid	12551
 Humanitarian Aid	12227,1334
-Humanitarian Aid Commission	6947
+Humanitarian Aid Amid	15248
+Humanitarian Aid Commission	6947,8395
+Humanitarian Aid Office	15092
 III.2.6 AIDE	13306
 III.2.6 Aide	13306
 International Aid Transparency Initiative	1651,5331,5980
@@ -207,6 +219,7 @@ Irish Aid. Over	7232
 Ivoire’s Aid Management Platform	244,1,1,70,1,21,82,1,130,2
 KIBOCUBE. Aidha	6019
 Kenya Irish Aid	11202
+Key Informant Interview MAGs Mutual Aid	15342
 Kidijitali. Aidha	2868
 Lab Aides Year	4202
 Lagos State AIDS Control Agency	9444
@@ -234,11 +247,15 @@ Meets the Need for Swift Processing of Humanitarian Aid	13042
 Mheshimiwa Rais. Aidha	2868
 Ministry of Public Health and Fight Against AIDS	13312,2
 Mission Aide Memoire	12553
+Mohamud Aidid Dirir	15173
 Mutual Aid Building	14847
 Mutual Aid Building II	14847
+Mutual Aid Groups	15342
+Mutual Aid Groups Diaspora	15342
 Mutual Aid and Diaspora Alliances	6947
 NAS National AIDS Secretariat CHC Community	14773
 NATIONAL AIDS SECRETARIAT	14773
+NCA Norwegian Church Aid NEET	14896
 NGO AIDA	11525
 NGO Direct Aid	10864
 Naibu Katibu Mkuu. Aidha	2868
@@ -251,6 +268,7 @@ National Pension Fund and Medical Aid Scheme	12327
 National Resettlement Programme Provision of Legal Aid	12373
 National Student Financial Aid Scheme	6832,1078,1218,237,1029,828,3,11,67,694
 Nigeria Irish Aid	11204
+Norwegian People's Aid	15342
 Nurse Aides Year	4202
 Official Development Aid	13310
 Overseas Development Aid	11155
@@ -282,6 +300,7 @@ Spread of HIV and AIDS	12253
 Stack for Aid and War	7147
 Strong Institutions. Aid Management Platform	13080
 Student Aid Programme	10332
+Sudan Humanitarian Aid Commission HCT Humanitarian	15342
 Supporting Mutual Aid	6947
 Sweden. Aidha	2868
 TEHAMA Nchini. Aidha	6019

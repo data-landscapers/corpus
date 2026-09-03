@@ -11,7 +11,10 @@ ACADEMIC CITY	6936
 ACADEMIC COUNCIL	14768
 ACADEMICS DONORS AND VENDORS	9399
 ACAFEJ	9512
-ACAPS	568,5062,291,1017,9,1944,5210
+ACAP Programme	15127
+ACAP Programme RSB Signed Mutual Recognition	15127
+ACAP Programme URL	15127
+ACAPS	568,5062,291,1017,9,1944,5210,1241
 ACAT and Women Farmer Foundation	12977
 ACE Startup Academy	11309
 AI Academia	4126
@@ -34,7 +37,7 @@ Acacia Park Primary School	11285
 Acacia Park. SAPS	11285
 Acacia Surgical	7167
 Acacia and Port Rex OCGT	11228
-Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223,771,626,3,74
+Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223,771,626,3,74,78,107
 Academia A Academia	2816
 Academia Academia	1000,4244
 Academia CSIRTs	2989
@@ -52,13 +55,14 @@ Academia de Clima	11454
 Academia de Liderança	11569
 Academia de Sites	6837
 Academia- Universities and TVETs	7548
+Academia-industry	14997
 Academia. Apesar de Moçambique	2816
 Academia. Na Figura	2816
 Academia. Tem	2816
 Academia. ZIMSTAT	13359
 Academias TIC	10490
 Academia’s Role	10776
-Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595,350,146,20,2189,212,27,8,7
+Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595,350,146,20,2189,212,27,8,7,77,268
 Academic Achievement of Students	12411
 Academic Advisor Jayant Vijayakumar	4656
 Academic Affairs	6936
@@ -87,6 +91,7 @@ Academic Officer	14768
 Academic Partnerships and Global Health	10776
 Academic Press	8130,4167
 Academic Qualifications	14185
+Academic Quality Framework	15164
 Academic Security Operation Center	11077
 Academic Stream	13016
 Academic SuQport	11180
@@ -94,9 +99,10 @@ Academic Year Education Statistics Annual Abstract	13994
 Academic and Research Communities	12675
 Academic and Research Institutions	1261,11095
 Academic and Research Institutions University Of Mauritius	11332
+Academic-industry	14997
 Academics	991,5841,3183,1139,762,109
 Academie Nationale de Medecine de Madagascar	14662
-Academy	1362,2024,311,2124,715,57,122,231,907,2018,1406,430,383,1107
+Academy	1362,2024,311,2124,715,57,122,231,907,2018,1406,430,383,1107,2095
 Academy Award-winning	3711
 Academy Journal of Small Business and Enterprise Development	9129
 Academy SDG Sustainable Development Goal SME	4126
@@ -152,7 +158,7 @@ China’s Academy of Military Sciences	8510
 Chinese Academy of Sciences	14140,618
 Chinese Academy of Sciences. No	14140
 Chris Hani Baragwanath Academic Hospital George	11248
-Cisco Academy	12241,685
+Cisco Academy	12241,685,2082
 Cisco Network Academy Building	13080
 Cisco Networking Academy	2149,948,37,4345,2142,134,492,1461,533,839
 Cisco Networking Academy's One Million Learners	8512
@@ -171,7 +177,12 @@ Consultor Especialista Formação Académica	11441
 Contact Us Moodle Admissions Academics Programmes	12361
 Core Curriculum and Minimum Academic Standards	8710
 Corporate Academy	11809
+Cotonou AI Academy	15292
+Cotonou AI Academy. Dans	15292
 Cotonou Ai Academy	10542
+Cyber Academy	14966,53
+Cyber Academy TORs	15019
+Cyber Academy and Innovation Center. Key	15019
 Cybersecurity Academy	14674
 Cybersecurity SuperHero Academy	7053
 D.G. ORDENAC. ACADEMICA Y PROFESORADO.- Concepto.-	4209
@@ -189,10 +200,13 @@ Doctor David Lewis Heritage Academy Trust	7167
 E-SCHOOL ACADEMY	5915
 ELAND ACADEMY LIMITED Data Controller INST-570220EA06F	7167
 East African Civil Aviation Academy	14409
+Eastern Academy	15008
+Eastern Chad Academy	15008
 EkoAI Academy	9549
 Eldorock Academy	7167
 Eldorock Academy Data Controller INST-222845AB65B UASIN	7167
 Emeritus Training Academy Botswana	7563
+Enhance the Rwanda Academy of Finance	14997
 Establecimento da Academia de Liderança	11569
 Estonian Academy	2257
 European Open Source Academ	6468
@@ -247,6 +261,7 @@ ICT. Rwanda Coding Academy	770
 IFMIS Academy About Academy Training Schedule	12322
 INTELLIGENCE ACADEMY	11277
 ITU Academy	8945,4567
+Indicator Summary Academic	15164
 Industry-Led Skills Academies	4528,7984
 International Academic Conference	14267
 International Academy for Counter-Terrorism	9275
@@ -265,6 +280,7 @@ LIST OF ACRONYMS ACAT Africa Cooperative	12970
 Language Academy	10451
 Latin ACamreibrbiceaa&n	11964
 Leadership Academy	11586
+Leading Academy of Finance	14997
 Les Académies	13306
 Lesotho Academy of Science and Technology	12675
 Liberia National Police Training Academy	5244
@@ -300,10 +316,11 @@ National Police Leadership Academy	14505
 National Research and Academic Network LTA Liberia	1777
 Networking Academy	10247,2114
 Nigeria Startup Digital Innovation Academy Establishment	11309
-Nigerian Academy of Science	7187
+Nigerian Academy of Science	7187,8134
 Nigerian Youth Academy	9919,4786
 No. Registered Companies No. Academic Institutions	14819
 Nonidas Pro Ed Academy Private School	13046
+Norway Academic Cooperation	15122
 Oman Programming Academy	8592
 Online Results Confirmation System Combatting Academic	13477
 Open AI Academy	9633
@@ -313,7 +330,9 @@ Oxford Academic. Amoretti	10841
 POTRAZ ZIMCHE Academia Parliament Service	958
 Paradigm Initiative’s Digital Rights Academy	7101
 Pelican Park and Acacia Park Parliamentary Villages	11285
+Pionniers de Cotonou AI Academy. Cette	15292
 Planned Construction of Mauritius Disciplined Forces Academy	14830
+Police Academy	14899
 Police Academy and Regional Police Commanders	11062
 Police Training Academy	14748
 Policy Academy	11918
@@ -321,6 +340,8 @@ Powers Africa Digital Academy	7687
 President of Academic City University	6936
 Private Sector Academia and Research Institutions Private	14565
 Private Sector and Academia	13080
+Private Sector and Academia Stakeholders Held	15004
+Public Partnership RAF Rwanda Academy of Finance	14997
 Public Sector AI Academies	4528,7984
 RECLUTAM. Y ACADEMIAS- Concepto	4209
 RECLUTAM. Y ACADEMIAS.- Concepto	4209
@@ -335,8 +356,11 @@ Research and Academic Publishing	14812
 Researchers Academia H H University of Nairobi	12210
 Rising Academies	6232
 Role of Academia Academia	4528,7984
-Rwanda Coding Academy	697,73,6727,409,933,2505
+Rwanda Academy	14997
+Rwanda Academy of Finance	14997
+Rwanda Coding Academy	697,73,6727,409,933,2505,3622,53
 Rwanda Coding Academy Capacity Development	770
+Rwanda Coding Academy RDB	14915
 Rwanda’s Coding Academy	2702
 SA Legal Academy	8398
 SADA Smart Africa Digital Academy SCMD	1264
@@ -355,6 +379,7 @@ Skills Academy	9871
 Skills Academy. Launched	9871
 Smart Africa Digital Academy	1182,82,2285,481,6,1748,37,5127
 Smart Africa Digital Academy Services	4126
+Somali Police Academy. Sustainability	14899
 Soronko Academy and HapaSpace	4126
 South African National Intelligence Academy	11277
 Specialized Operators and Academia	10348
@@ -362,6 +387,7 @@ Sports Academy	10399
 Strengthen Academia	14819
 Student Academic Portal	13080
 Students and Young Professionals African Liberty Academy	11827
+Sudanese Academy for Sciences	14853
 Swakopmund Christian Academy	12478
 SÍNTESE DOS GRADUADOS NO ANO ACADÉMICO	11391
 TUT Academics	10343

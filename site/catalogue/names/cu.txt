@@ -1,4 +1,8 @@
 A. TARIFFS FOR ALL CUSTOMER CATEGORIES	12436
+A1.3. Cultivated	15129
+A1.4. Cultivated	15129
+A1.5. Cultivated	15129
+A1.6. Cultivated	15129
 AC Alternating Current ANNA Angola-Namibia Interconnector	12399
 ACTUAL CUOTA ANUAL	4209
 ADECOS. Current	10768
@@ -9,6 +13,7 @@ AI Ecosystem Development Current State Zambia	12356
 AI and Curriculum Development	6948
 AI for Beginners and AI for Content Creators. Currently	14148
 AI-Based Curriculum Development	6948
+AI-fA XFS CUTUBKA KOWAAD QODOBBO GUUD	15153
 AI-powered Customs Management System	2392
 AIC CURE INTERNATIOANAL HOSPITAL Data Controller	7167
 AIC CURE INTERNATIONAL HOSPITAL Data Processor	7167
@@ -67,6 +72,7 @@ African Regional Data Cube	345
 Ag. Senior Chief Executive Curative Public	14773
 Agent Login To Customer Service Portal	12454
 Agentic Era. Customers	6930
+Aggregated Deprivation Cutoff	15244
 Aims for Cultivating Students’ Key Competencies Based	6948
 Ajudas de Custo	414
 All Cross Cutting	6423
@@ -84,6 +90,7 @@ Anchor of Fiat Currency Ultimately	13532
 Angola Bengo Benguela Bié Cabinda Cuando	10766
 Angola Cuidados	10760
 Animation Culturelle	14721
+Annual Report RSSB Annual Custodial	14997
 Annual Trade and Customs	7548
 António Culeca	7115
 Application for Child's Current Birth Certificate	6783
@@ -133,6 +140,7 @@ Bank of Namibia’s Currency Management and Banking Operations	8252
 Bank of Zambia ZIPSS Rules CUTA CancelUponUnableToAppl	12364
 Banking and Currency Department. REIMAGINING THE BANK	13532
 Banking and Currency Division	14744
+Barakaca Gudaha. CUTUBKA	15047
 Baseline Customization of Default Settings Interactions Size	13868
 Basic Curriculum ECD Training Course	12373
 Basins Basin Current Number of Blocks Proposed	12256
@@ -168,6 +176,7 @@ Board Member Dr. Curle	11134
 Board Member Dr. Neville Curle	11131
 Body Customer Service Charter Department	12927
 Body World Customs Organization	13051
+Bond Yield Curves	15023
 Botswana and Malawi. Currently	1154
 Botswana's Cultural and Creative Industries	14300
 Breves Curso de Formação de Formadores	10750
@@ -193,7 +202,9 @@ CATEGORÍA COMERCIO CUOTA ANUAL Ficha	4209
 CATEGORÍA CUOTA ANUAL	4209
 CATEGORÍA CUOTA ANUAL ACTUAL ACTUAL	4209
 CBDC Central Bank Digital Currency	8590
+CBDC Central Bank Digital Currency CBHI	14997
 CBE Competence Based Education CCC Curriculum	12975
+CBR Central Bank Rate CIC Currency	15023
 CCuummuullaattiivve Custtoommeerrss Figure	12256
 CDD Customer	12227
 CDD Customer Due Diligence CFT Combating	12663
@@ -218,8 +229,10 @@ CONSTITUCIONAIS E DO CUMPRIMENTO DA LEI	11461
 CONTRAL.GENERAL DE CUENTAS.- Concepto	4209
 COOPERACIÓN INTERNACIONAL Y DIÁSPORA Cuentas CONCEPTO	4209
 CORE VALUES Integrity Customer Centric Excellence	13385
+CRB Customer Week	15023
 CSU CUCI DRC DRF DRM EM-DAT	10763
 CU de Kaya	3396
+CU-07	14962
 CUADRO DE GASTOS MENSUALES DE FUNCIONAMIENTO	4209
 CUAMM	10784
 CUATROCIENTOS MIL	4209
@@ -261,6 +274,7 @@ CULTURA LICENCIA INFORMACIÓN Rótulos	4209
 CULTURA LICENCIA TOTAL TESORO PÚBLICO	4209
 CULTURA Rótulos	4209
 CULTURA Y CENTROS BELLEZA Y GRAL	4209
+CULTURAL AND LINGUISTIC DIVERSITY Local	14853
 CULTURALES	4209
 CULTURE	7167,6307
 CULTURE AND CHILDREN SERVICES State Department	14487,29
@@ -291,8 +305,9 @@ CURESPAN PHARMA	7167
 CURESPRINGS MEDICAL CENTER LIMITED Data Controller	7167
 CURIAE CORAM	13040
 CURR IncorrectAgent Agent	12364
+CURRENCY AND BANKING OPERATIONS	15023
 CURRENCY CONVERSIONS	1818
-CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88,81,356,19,41,211,792,363,1,402,8,1,118,24
+CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88,81,356,19,41,211,792,363,1,402,8,1,118,24,1091,162
 CURRENCY EQUIVALENTS Exchange	13938
 CURRENCY EQUIVALENTS Exchange Rate Effective	10768,649
 CURRENCY EQUIVALENTS Exchange Rate Effective Oct	11855
@@ -328,14 +343,38 @@ CUSTOMER DUE DELIGENCE	5687
 CUSTOMER FRAUD AWARENESS CAMPAIGN	14099
 CUSTOMER PORTAL	14807
 CUSTOMER TERMS March 2012.pdf. Integration	12227
+CUSTOMER TRANSFERS INCREASED	15023
+CUSTOMER-CENTRICITY	14985
 CUSTOMERS	12927
+CUSTOMERS COMPLAINTS HANDLING AND USE	14867
+CUSTOMERS RELATIONS	14867
 CUSTOMETRIX LIMITED Data Processor INST-564420C3916 NAIROBI	7167
+CUSTOMIZATION	15080
 CUSTOMS AND TRADE REGULATIONS	12389
 CUSTOMS DEPARTMENT	14816
 CUSTOMS ENFORCEMENT CAPABILITIES Serving	13108
 CUT. Entre	9065
 CUTLASS TECHNOLOGY SOLUTIONS LIMITED Data Controller	7167
 CUTS POLICY RATE AS INFLATION OUTLOOK	13532
+CUTUBKA	14859,188,105
+CUTUBKA AFARAAD	14930
+CUTUBKA AFFAR IYO TOBNAAD	14859
+CUTUBKA AFRAAD	14859
+CUTUBKA KOOWAAD	14859
+CUTUBKA KOW IYO TOBNAAD	14859
+CUTUBKA KOWAAD	14930
+CUTUBKA LABA IYO TOBNAAD	14859
+CUTUBKA LABAAD	14859,71
+CUTUBKA LABAAD QAAB-DHISMEEDKA MAAMUL EE DAD-DHIGISTA	15153
+CUTUBKA LIXAAD	14859,71
+CUTUBKA SADDEX IYO TOBNAAD	14859
+CUTUBKA SADDEXAAD	14859,71
+CUTUBKA SAGAALAAD	14859
+CUTUBKA SHANAAD	14859,71
+CUTUBKA SIDDEEDAAD	14859
+CUTUBKA SIDEEDAAD	14930
+CUTUBKA TOBNAAD	14859
+CUTUBKA TODOBAAD	14859,71
 Cabinda Cuando Cubango	10766
 Cabinda Cuando Cubango Cuanza Norte	10766
 Cabinda Cuando Cubango Cuanza Norte Cuanza	10766
@@ -356,6 +395,7 @@ Cameroon Launches Digital Customs Platform for Mobile	5490
 Capacity Building and Culture	14790
 Cape Town and Durban. Yolanda Cuba	7626
 Cape Winelands Gold Customers	8999
+Cascading the Strategy for Cross Cutting Themes	14997
 Cash Equivalents Harare Total Current Assets	4896
 Categories of Customs and Excise Revenue	12951
 Category Expenditure Current Actuals	2473
@@ -368,7 +408,7 @@ Central African Customs and Economic Union	1599
 Central Bank Digital Currencies	3965,12,7071,82,731,2958
 Central Bank Digital Currencies EZULWINI	3977
 Central Bank Digital Currencies. Sending	982
-Central Bank Digital Currency	3705,2995,1435,1224,350,1422,3,687,522,2476
+Central Bank Digital Currency	3705,2995,1435,1224,350,1422,3,687,522,2476,178,26,107
 Central Bank Digital Currency Central Bank	11130
 Central Bank Digital Currency Research	11131
 Centralised Know Your Customer	14819
@@ -389,6 +429,7 @@ Chinese-Flagged Ship Cut Baltic Sea	2677
 Chintima EVENTS Culture Celebration and Community Service	13477
 Cites Current AI	5029
 Closed Current EA Category Original EA	11924
+Cole. Martín Cumpa Castro	15244
 Collect Customs	14076
 Collection and Curation. Volume	8021
 Colocation Cut	9446,1510
@@ -401,11 +442,13 @@ Commissioner of Customs	7512
 Commissioner of Customs Patrick Kachingwe	9093
 Common European Data Space for Cultural Heritage	7313
 Commun Cult Crit	9739
+Communication and Cultural Heritage	14888
 Communities Cultural Heritage Financial Intermediaries	10964,2367
 Communities Not Currently Relevant ESS	11560
 Communities Relevant Cultural Heritage Relevant Financial	10829
 Compensate Customers Over Tariff Notice Breach	7411
 Compensates Customers for Expired Bundles NITA-U Outlines	4608
+Competence-Based Curriculum	14922
 Competency Based Curriculum	13477
 Competency Based Curriculum CBK Central Bank	2775
 Competency-Based Curriculum	899,5673,5740,663,502
@@ -427,6 +470,7 @@ Constant Currency	8727
 Constant and Current GDP Estimates for Zambia	13479
 Constitucional Cuentas	4209
 Contabilização de Custos	11430
+Contents CUTUBKA KOOWAAD	14859
 Contestable Customers	12399
 Contingent Emergency Response Component TOTAL Current	1228,3425
 Continuous Learning Culture	14729
@@ -442,7 +486,9 @@ Creative and Cultural Industries	13487
 Crop Cut Campaign	13094
 Cross Border Customs	11131,3
 Cross Cutting Areas The Cross-Cutting	12917
+Cross Cutting Build	14947
 Cross Cutting Requirements	6423
+Cross Cutting Strengthen the Agri	15130
 Cross- Cutting	12399
 Cuadro	4209
 Cuadros	4209
@@ -558,9 +604,9 @@ Cult of Technology	6948
 Cult of Technology. PublicAffairs	6948
 CultivaPro	10464
 Cultivate	958,3570,7984,783
-Cultivated	12214
+Cultivated	12214,2915
 Cultivateur Eleveur Artisan Employé de Employé	10847
-Cultivating	8022,2080,1032,2474
+Cultivating	8022,2080,1032,2474,1335
 Cultivating Open Government Data Platform Ecosystems	226
 Cultivating the Digital Citizen	5349
 Cultivating the Existing Data Center	1795,1413,3881
@@ -578,9 +624,10 @@ Cultura UNICEF	1701
 Cultura UNICEF GEN Fundo	11557
 Cultura de Cibersegurança	4146
 Culturais	11547,15
-Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84
+Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645
 Cultural Affairs and Tourism	3239
 Cultural Affairs and Tourism Minister Jerolinmek Matthew	9211
+Cultural Appropriateness and Inclusivity	15055
 Cultural Cartography By Atwemereireho Alex	8352
 Cultural Centres	14742
 Cultural Confidence	11138
@@ -593,7 +640,7 @@ Cultural Diversity Respecting	2958
 Cultural Diversity and Inclusion	2958
 Cultural Exchange Programmes	14742
 Cultural Fear	9879
-Cultural Heritage	1264,724,1468,7373,135,1001,1509,49,1030,23
+Cultural Heritage	1264,724,1468,7373,135,1001,1509,49,1030,23,334
 Cultural Heritage Construction	1988
 Cultural Heritage Data	3861
 Cultural Heritage ESS	3604,7813,488
@@ -627,7 +674,7 @@ Cultural-norm	7790
 Culturally Develop	4126
 Culturally Grounded Misogyny Detection Framework	7790
 Culturas Autóctonas	4209
-Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82
+Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167
 Culture AI	2958
 Culture Any Arab	2958
 Culture Applications	2958
@@ -650,6 +697,7 @@ Culture Institutions	2958
 Culture Lalatiana RAKOTONDRAZAFY ANDRIATONGARIVO	14431
 Culture Language	7548
 Culture MGECW Ministry of Gender Equality and Child	12923
+Culture MINIJUST Ministry of Justice MINUBUMWE Ministry	14935
 Culture Madam Speaker Hon. Mrs Shirin	14753
 Culture Magazine	8943
 Culture Minister Mr. Macdonald Rakgare	12617
@@ -679,20 +727,28 @@ Culture and Education Choosing	9786
 Culture and Education Millions	9786
 Culture and Francophonie Françoise Remarck	6005
 Culture and Heritage	13673,466
-Culture and Higher Education	10116
+Culture and Higher Education	10116,4780,20,55,16,72
+Culture and Higher Education Federal Government of Somalia	14896
+Culture and Higher Education MoU Memorandum of Understanding	14896
+Culture and Higher Education NCHE National Commission	15164
+Culture and Higher Education. Project Development Objective	14971
 Culture and Literature	10451
+Culture and Science	15132
+Culture and Sciences. The Minister	15172
 Culture and Society	1200
 Culture and Sports	5511
 Culture and Sports ARTICLE	14409
 Culture and Sports The Partner States	14409
 Culture and Talent	12315
-Culture and Tourism	10451
+Culture and Tourism	10451,4428,356
+Culture and Tourism. The Protocol	15235
 Culture and Tradition	12975
 Culture and Youth Affairs	6273,991,5708,154,5,114
 Culture du Maïs	13390
 Culture of Care Service Delivery Model Modernisation	7761
 Culture of Compliance ERS	13000
 Culture of Customer Experience Adopt Legal and Excellence	6946
+Culture of Peace	15131
 Culture. Article	13710
 Culture. Cohérence	643
 CulturePolitiquePrésidentielle	9620
@@ -718,13 +774,14 @@ Cumprida	549
 Cumprimento	14,11360,59,9,140,316
 Cumprir	4147,7288,6,2,8,86
 Cumul	10875
-Cumulative	969,898,1737,1072,1000,1262,29,2072,1729,61,551,37,108,35,295,50,48,18,15,372,27,538,409,1483
+Cumulative	969,898,1737,1072,1000,1262,29,2072,1729,61,551,37,108,35,295,50,48,18,15,372,27,538,409,1483,95,27,39,65
 Cumulative Broadcasting Licensees	6946
 Cumulative Broadcasting Licensees FY	6946
-Cumulative Disbursements	2712,1976,1891,349,949,3518,576,257,39,173
+Cumulative Disbursements	2712,1976,1891,349,949,3518,576,257,39,173,2540
 Cumulative Distribution Function	4676
 Cumulative Households	2775
 Cumulative INSTITUTIONAL DATA Contributing Practice Areas	10964,2367
+Cumulative Jul	14985
 Cumulative Number of Telecommunications Licensees	6946
 Cumulative Numbering Resources Assigned Per Year	6946
 Cumulative PFS	10985
@@ -780,6 +837,7 @@ Cureus	8460
 Curie	1766,2016,10057
 Curie Cable	3782
 Curing TB	4260
+Curinta	14859
 Curiosity	5551,5592
 Curiosity. Everything	8550
 Curious	8550
@@ -797,7 +855,8 @@ Currencies Technology Scrapping	8703
 Currencies Value Move	7343
 Currencies of Bid	13185
 Currencies of Bid and Payment	13185
-Currency	17,216,304,42,6,95,178,292,44,24,10,10,56,1,30,1,1,1,1,1,7,5,172,67,5,1,73,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,14,12,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,86,39,21,12,30,1,1,1,1,1,39,1,29,1,55,63,43,35,17,170,163,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,525,22,1,1,1,1,1,1,1,1,1,172,92,127,5,1,149,54,20,17,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,74,10,19,21,5,1,1,1,1,1,212,1,20,26,71,1,36,13,1,43,1,1,1,66,277,268,61,359,2,11,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,126,410,96,74,41,161,13,171,144,1,1,1,1,1,1,1,1,370,425,32,420,396,20,217,73,6,119,38,47,66,756,82,65,22,16,497,36,268,70,3,174,241,403,4,20,367,33,254,375,527,155,26,314,267,333,109
+Currencies of Proposal and Payment	15080
+Currency	17,216,304,42,6,95,178,185,107,44,24,10,10,56,1,30,1,1,1,1,1,7,5,172,67,5,1,73,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,14,12,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,86,39,21,12,30,1,1,1,1,1,39,1,29,1,55,63,43,35,17,170,163,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,525,22,1,1,1,1,1,1,1,1,1,172,92,127,5,1,149,54,20,17,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,74,10,19,21,5,1,1,1,1,1,212,1,20,26,71,1,36,13,1,43,1,1,1,66,277,268,61,359,2,11,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,126,410,96,74,41,161,13,171,144,1,1,1,1,1,1,1,1,370,425,32,420,396,20,217,73,6,119,38,47,66,756,82,65,22,16,497,36,268,70,3,174,241,403,4,20,367,33,254,375,527,155,26,314,267,333,109,161,22,78
 Currency Bond Market Lesotho National Switch	12701
 Currency CBDC	3830
 Currency Committee of Central Bank Governors Combating	11134
@@ -820,18 +879,19 @@ Currency Taxes	11563
 Currency Technical Working Group	10260
 Currency US	1284
 Currency USD	3676
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162
 Currency Unit Equivalent	13938
 Currency Unit1 Equivalent	11863
 Currency and Banking	11134
 Currency and Exchanges Act	8840
+Currency of Proposals	14927
 Currency. TechBooky	4467
-Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277,54,2,48,11,7,1,31,5,11,15,2,6,64,152,9,9,5,22,12,30,72,30,41,5,12,103,120,44,188,11,16,5,20,41,35,13,1,4,256,17,54,33,2,59,53,284,52,52,50,22,122,44,66,450,33,112
+Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277,54,2,48,11,7,1,31,5,11,15,2,6,64,152,9,9,5,22,12,30,72,30,41,5,12,103,120,44,188,11,16,5,20,41,35,13,1,4,256,17,54,33,2,59,53,284,52,52,50,22,122,44,66,450,33,112,79,37,7,29,9,17,34,5,20,46,57,88,87,8
 Current AI	5029,2519,3587
 Current AI Lifecycle	7548
 Current Account	2775
 Current Account Background	13868
-Current Account Balance	2775
+Current Account Balance	2775,12122
 Current Address	12281
 Current Affairs ZA	7639,119
 Current Allocation Actuals	4653
@@ -841,6 +901,8 @@ Current Application Location	11314
 Current Approaches and Lessons	10714
 Current Article	9991,1810
 Current Assets	11955
+Current Awareness	15164
+Current Awareness and Experimentation87	15164
 Current Beneficiaries	8999
 Current Bilateral	7548
 Current Biology	12090
@@ -848,7 +910,8 @@ Current Budget	2989
 Current COVID	10829
 Current CV	9198
 Current Cancellation New for Status Currency Date	2473
-Current Closing Date	12220,1818
+Current Challenges	15147
+Current Closing Date	12220,1818,928
 Current Column	10841
 Current Committee Members	14433
 Current Connections	13991
@@ -856,18 +919,22 @@ Current Connectivity AI	7548
 Current Constitution	9914,1,77
 Current Context	14747
 Current Context The Project	13957
+Current Coordination Arrangements	14857
 Current DARE1 Network Map DARE1	13869
 Current DLP	899
 Current Data	7548
+Current Data Governance Challenges	15034
+Current Data Governance Challenges While Rwanda	15034
 Current Demand-linkage	7548
 Current Design-linked	7548
-Current Development Objective	2473,11443,637
+Current Development Objective	2473,11443,637,332,63
 Current EAC	7548
 Current Energy	7548
 Current Energy Prices	12515
 Current Engagement Kenya	7548
 Current Expenditure Category	1228
-Current Fertility	13454
+Current FGS	15031
+Current Fertility	13454,1793
 Current Financial Year Budget	12962
 Current First	7548
 Current Fragmentation and Silo Landscape Despite	12008
@@ -877,7 +944,10 @@ Current Gaps and Structural Barriers	12376
 Current Global Challenges	10601
 Current Governance Deficiencies DOCUMENTING	3861
 Current Government	7548,2867
+Current HIV	15247
+Current High	15031
 Current Hosting	7548
+Current ICT Initiatives and Projects	14851
 Current Implementation	14022
 Current Inclusive AI Inclusive	7548
 Current Institutional AI	7548
@@ -885,11 +955,12 @@ Current Legal	7548
 Current Liabilities	4896,7059
 Current Location	13051
 Current MOH	1219
-Current MPA Program Development Objective	2712,3867
+Current MPA Program Development Objective	2712,3867,8580
 Current Manual of Moderate The MOP and SBD	11525
 Current Market Prices	2775
 Current Milestones	12595
 Current Minimum	7548
+Current Moderately Satisfactory	15031
 Current NPS	11960
 Current NamPower	12399
 Current Nat'l ID Card	3092
@@ -904,7 +975,7 @@ Current Phase	12058
 Current Policy and Regulatory Landscape	4528,7984
 Current Practices	10765,10
 Current Prices	2775
-Current Progress	11988,2068
+Current Progress	11988,2068,924,179
 Current Project Status. Project	2473
 Current Proposed	2473
 Current Proposed IDA-71820-001	1228
@@ -912,6 +983,9 @@ Current Provisions	14736
 Current Psychiatry Reports	2948
 Current Quarterly Quarterly	14777
 Current RTAs	1243
+Current Ratio	14997,26
+Current Ratio and Liquidity Ratio	14997
+Current Ratio and Liquidity Ratio Public Private	14997
 Current Registration	13644
 Current Renewable	7548
 Current Representative Mr Dean Veverka	3513
@@ -941,6 +1015,7 @@ Current Status and Progress Achieved	14022
 Current Status of AI	14812
 Current Status of Tax Administration Reform	12500
 Current Tax	11955
+Current Taxes	14932
 Current Technician	7548
 Current Technologies	7548
 Current Telecommunications Taxation Policy	6789
@@ -962,13 +1037,14 @@ Current Year Ratio Capital	11134
 Current Zimbabwe Act	736
 Current-Conditions Gains So Low	11140
 Current-year	13868
-Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74,84,304,12,4,17,15,13,5,1,4,29,3,4,16,14,6,25,29,84,1,8,28,7,24,4,4,3,15,1,7,1,1,13,15,17,7,39,10,13,2,1,7,3,3,1,3,19,4,13,1,4,14,9,4,12,44,2,19,23,94,37,56,48,135,3,24,6,9,6,13,2,51,14,11,7,20,2,84,59,70,15,4,17,15,3,39,30,7,14,38,27,59,397,12,6,12,4,86,16,93,1,86,95,288,8,56,19,4,1,81,1,2
+Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74,84,304,12,4,17,15,13,5,1,4,29,3,4,16,14,6,25,29,84,1,8,28,7,24,4,4,3,15,1,7,1,1,13,15,17,7,39,10,13,2,1,7,3,3,1,3,19,4,13,1,4,14,9,4,12,44,2,19,23,94,37,56,48,135,3,24,6,9,6,13,2,51,14,11,7,20,2,84,59,70,15,4,17,15,3,39,30,7,14,38,27,59,397,12,6,12,4,86,16,93,1,86,95,288,8,56,19,4,1,81,1,2,33,30,2,1,25,10,15,8,11,31,26,16,17,125,4
 Currently AI	7751
 Currently Android-only	2579
 Currently English-only	3851
 Currently INMGB	11553
 Currently Malawi	13060
 Currently Metrics	899
+Currently Relevant	14910,66
 Currently Relevant ESS	13523
 Currently Relevant Financial Intermediaries	13332
 Currently Relevant Indigenous Peoples	10829
@@ -979,25 +1055,30 @@ Currently Relevant Resources ESS	10768
 Currently Relevant Resources Indigenous Peoples	1284
 Currently Relevant Resources Relevant ESS	3604
 Currently Relevant Resources Relevant Relevant Indigenous	13331
+Currently Relevant. ESS6 Biodiversity Conservation	14937
+Currently Relevant. ESS7 Indigenous Peoples	14937
+Currently Relevant. LEGAL	14976
 Currently Support	12214
 Currently UAE	14476
 Currently Using Cities	12211
 Currently the Irembo	12359
 Currently the Ministry	12976
+Currently the NCA	14879
 Currently the SEPs	13295
 Currents	8603
 Currentstate	8602
 Curricula	1264,1694,3990,5408,337,365,229
 Curricula. Protection	1777
-Curriculum	899,3227,2706,3804,191,191,1311,27,337,221,3,141,334,608,812
+Curriculum	899,3227,2706,3804,191,191,1311,27,337,221,3,141,334,608,812,110,224
 Curriculum Agility	6832
 Curriculum Aligned Assessment Practices	13477
 Curriculum Begin	6832
 Curriculum Centre	11134
 Curriculum Centre NDS National Development Strategy	12975
 Curriculum Coordinating Committee. Geography	12975
+Curriculum Design and Alignment	15183
 Curriculum Designer	12972
-Curriculum Development	899,6047,6029,661
+Curriculum Development	899,6047,6029,661,1547
 Curriculum Development Directorate	13392
 Curriculum Development Expert	4528,7984
 Curriculum Digitization Standards	2958
@@ -1021,6 +1102,7 @@ Currículo Online Currículo Online Gratuito Saber	9040
 Currículos	12777
 Curseur	13375
 Curso	10783,578,58,53,62
+Curso de Alta Direcção	15263
 Curso de Formação de Formadores	10750
 Curso de Mestrado	10752
 Curso de Pedido de Constituição	10753
@@ -1033,6 +1115,8 @@ Curtin Mauritius	14775
 Curtis McCord	6445,1026
 Curtis McCord and Keldon	6445
 Curto Prazo	10750
+Curyaannimo	14859
+Cusbooneysiinta Kaarka Aqoonsiga	14930
 Cusip No	10793
 Custer	4907
 Custo	11361,17,148,21
@@ -1040,8 +1124,8 @@ Custo-benefício	11555
 Custo-eficácia	11547
 Custodial	8840
 Custodial Account	11233
-Custodian	1214,11496,1835,299
-Custodians	4583,8299,25
+Custodian	1214,11496,1835,299,153
+Custodians	4583,8299,25,2127
 Custody	9437,1739,3399
 Custody and Convicted Prisoners	13948
 Custody and Guardianship	12977
@@ -1053,12 +1137,13 @@ Custom Content	12675
 Custom Duties	13185
 Custom Duties Unit Price	13185
 Custom House	14736,80
-Custom Materials	14766
+Custom Materials	14766,314
 Custom No Partial	12214
 Custom Risk Management Availability	12389
 Custom Risk Management Coverage	12389
 Custom Smiles Dental Data Controller INST-972332AEACB	7167
 Custom Smiles Dental Data Processor INST-972332AEACB	7167
+Custom-made	15285
 CustomVar	3212,2216,578
 Customary	1988,7739,1233,1952
 Customary Conflict Resolution Advisory Committees	11900
@@ -1069,13 +1154,13 @@ Customary Practice	12226
 Customary Practices	12226
 Customary Right of Use Certificate	10930
 Customary Tenure Convention Regulation	1988
-Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,295,26,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,478,235,49,111
+Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,295,26,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,478,235,49,111,33,30,68,32,26,19,88
 Customer API	14438
 Customer Acceptance Form Tabulated	9124
 Customer Acceptance Policy	13961
 Customer Account Report	12364
 Customer Account and User Profile	12654
-Customer Average Interruption Duration Index	12256
+Customer Average Interruption Duration Index	12256,2611
 Customer Base Growth Target Ethio	3487
 Customer Base Ingestion PB	8999
 Customer Care	6946
@@ -1105,13 +1190,18 @@ Customer Experience Excellence	3487
 Customer Experience Perspective Taxpayer Satisfaction Score	13053
 Customer Experience Planning and Enablement	7491,1275
 Customer Experience Planning and Enablement of MTN Ghana	8580
+Customer Experience and Service Quality Assessment	15120
 Customer Facing Applications	10721
 Customer Feedback and Complaint Management	9855
 Customer Focus	12606,2229
 Customer Fulfilment Specialist	6946
+Customer ISPs	14864
+Customer Interruption Duration Total Number of Customer	14867
+Customer Journey	14921
 Customer Location	8999
 Customer MAN Metropolitan Area Network MDA	13312,2
 Customer Management System	12358
+Customer Notification	15054
 Customer Oriented	12358
 Customer Premises Equipment	1289
 Customer Premises Stations Out Associated Base	736
@@ -1139,15 +1229,18 @@ Customer Statement	12364
 Customer Support Enhancement	14761
 Customer Value Management	6100
 Customer and Agent Know Your Customer	10775
+Customer and Licensee	14867
 Customer and Provider	9123
 Customer-Centric Experience Excellence	3487
 Customer-Centric Service	14761
 Customer-Lockbox	14759
+Customer-Owned Savings Accounts	15130
 Customer-centric	11131
 Customer-owned	9123
+Customer. Article	14867
 Customer. The Customer	9123
 CustomerSatisfactionandSurvey	4554
-Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,1071,293
+Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,1071,293,230,130,26,107,39,124
 Customers Are Transferring Their Own Funds	6362
 Customers CHAPTER	12616
 Customers IOS ILS	11953
@@ -1155,22 +1248,24 @@ Customers IT Infrastructure Resources Management	9123
 Customers Increase	12256
 Customers Investors	7204
 Customers M-PESA Network People	7204
+Customers The Customer	14867
 Customers and Providers. Customers	9123
 Customers of Liquid C2	1636
 Customers' Charter	10550
 Customers. Based	9123
+Customers. CHAPTER II	14867
 Customers. Network and Infrastructure Security Cloud	9123
 Customisation	8606,3380
 Customised	899,8556
 Customised XML Pivot	8606
 Customizable	12246
 Customizableandscalablefuzzy	8606
-Customization	4349,8693,38,315,29
+Customization	4349,8693,38,315,29,1541,115
 Customization Ability	7988
 Customize M&E	12399
 Customized	11191
 Customizing	12359
-Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12
+Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12,54,32,56,220,16,119
 Customs Act	7695,3341,1593,2089,91,5,14,3,12
 Customs Act. Amiwero	9361
 Customs Administration	5619
@@ -1179,11 +1274,12 @@ Customs Administrations and PGAs	13042
 Customs Agency	184
 Customs Agility	4827
 Customs Amendment Bill	12598
-Customs Authority	4531,733,1895
+Customs Authority	4531,733,1895,7793
 Customs Bill	7695,3341
 Customs Business Offices	10581
 Customs CACP and AEO AEO APPLICATION	12454
 Customs Chiefs	8499
+Customs Clearance	14985
 Customs Clearance Certifi	13042
 Customs Clearing Agents and Shipping Agents	14409
 Customs Clearing Agents and Shipping Agents ARTICLE	14409
@@ -1195,6 +1291,7 @@ Customs Commissioner Debele Kabeta	14059
 Customs Committee	7548
 Customs Compliance Monitoring	14718
 Customs Control Act	11190
+Customs Controls for Overpriced Imports	14985
 Customs Data ASYHUB ASYCUDA Data Exchange	13042
 Customs Data Access and Reporting	14793
 Customs Data Exchange	5244
@@ -1219,8 +1316,10 @@ Customs I-21	10785
 Customs Information System Sub-Saharan Africa World	11136
 Customs Intelligence	12162
 Customs Laboratories WCO	13051
+Customs Management	15112
 Customs Management Information System	10785
 Customs Management System	12539,2179,71
+Customs Managers	15066
 Customs Matters	11185,3291,152
 Customs Matters The Protocol	14628
 Customs Mgmt Information System I-8	10785
@@ -1234,11 +1333,15 @@ Customs Officer	11289,2274
 Customs Operations Manager Ms. Lorina Seady	13042
 Customs Procedure Code	13122
 Customs Procedure Codes	13108
+Customs Procedures	14985
 Customs Procedures and Automation	12654
 Customs Procedures and Automation ASYCUDAWorld Registration	12654
+Customs Publication Type	15065
 Customs Reforms	7695
+Customs Regime Receipts	15066
 Customs Regulations	5247,9471,125
 Customs Regulations Roads Rail Ports Power	5247
+Customs Revenues	14985
 Customs Risk Management System	11036
 Customs Scanner Server Room	13044
 Customs Service	8499,3352
@@ -1268,6 +1371,7 @@ Customs and Political Crime	10976
 Customs and State Property	2542
 Customs and Support Divisions	13053
 Customs and Tax	10762,2552
+Customs and Trade Facilitation	14985
 Customs and Trade Facilitation The Customs and Trade	14628
 Customs-related	7512
 Customs-to-Customs	14330
@@ -1303,6 +1407,11 @@ Cutting Works	14738
 Cutting-Edge Innovation Meets Scientific Rigor	7702
 Cutting-Edge Programmes The Namibia University	13089
 Cutting-edge	14723
+Cutubka	14859,47,24,117
+Cutubka Kowaad	14930
+Cutubka15aad	14859
+Cutubkan	14859,71,117
+Cutubkiisa	15153
 Cuvango	539
 Cuvette	3770,1984,4789,1362,19
 Cuvette- Ouest	11905
@@ -1334,6 +1443,7 @@ DFS. FACTOR CURRENT IMPACT Identification and KYC	11994
 DFS. FACTOR CURRENT IMPACT Population	11994
 DFS.145 FACTOR CURRENT IMPACT Population	11994
 DGDDI General Directorate for Customs and Indirect Taxation	13861
+DHICIDDA IYO CUSBOONEYSIINTA KAARKA AQOONSIGA	14930
 DISBURSTBL Fiscal Year Annual Cumulative	1284
 DMDI Cuts Ribbon	10644
 DO THE CURRENCY DIRECTIVES MEAN	13532
@@ -1349,7 +1459,13 @@ Data Centres. Current	12058
 Data Controllers and Data Custodians	11196
 Data Curation and AI	6953
 Data Curation-Equal	8436
+Data Custodian	15034
+Data Custodian Figure	15034
+Data Custodians	15034
+Data Governance Custodian	15034
+Data Owners and Custodians	15034
 Data Protection Agency CUSTODIAN Ministry of Information	1161
+Data Team’s Roles Current	15034
 Data and Information Custodianship Policy. Agencies	11854
 Decentralization and Customary Affairs	11900
 Definition of Customer Categories Individual	5687
@@ -1362,6 +1478,8 @@ Department of Customs	13042
 Department of Economic and Social Affairs Statistics Custom	13824
 Departments Creation of Data-Driven Culture	14750
 Departments of Customs	13053
+Deprivation Cut-Offs and Weights Dimensions	15244
+Deprivation Cutoffs	15244
 Deputy CEO Yolanda Cuba	4511,3227
 Deputy Chief Executive Officer Yolanda Cuba	9228
 Deputy Director of Customs and Excise	7823
@@ -1387,11 +1505,13 @@ Digital Currency Management System	11861
 Digital Customs Solution	13042
 Digital Symmetric Core Currency Cryptography	3830
 Digital-REACH-Initiative-Roadmap 20171205 custom size 0.pdf	14434
+Dimension-Specific Cutoffs	15244
 Direct Current	9123
 Direct Customer Communications	8999
 Director General of Cameroon Customs	8499
 Director General of Culture	11579
 Director General of Customs	7958
+Director of Customs	15066
 Director-General of Benin Customs	8167,332
 Director-General of Customs	5490
 Directorate General of Customs	9343
@@ -1416,6 +1536,7 @@ Dr. N. Curle	11131,3
 Dr. Neville Curle	11131
 Dr. Neville I. Curle Non-Executive Board	11131,3
 Du Cupis and Nielsen	13990
+Duration of Customer Interruptions	14867
 Dynamic Currency Conversion	11955
 Dynamic Currency Conversion FRSF	11955
 D’Animation Culturelle	14774
@@ -1436,6 +1557,7 @@ ELECTRICIDAD Y ENERGÍAS RENOVABLES Cuentas CONCEPTO	4209
 EPISTEMIC CULTURES IN TRANSLATIONAL RESEARCH Collaboration	12090
 ERS Commissioner of Customs	13051
 ERS Customs Bank Account	13195
+ESS8 Cultural Heritage	14976
 ESS9 Not Currently Relevant. Summary of Assessment	11965
 ESTRUTURA DE CUSTOS DA EMPRESA	10757
 ET DE CUISSON PROPRE POUR UN	13433
@@ -1449,6 +1571,7 @@ Ecobank. Customers	9449
 Economic Development and Cultural Change	10985,540
 Economic Social and Cultural Rights	13040
 Economic and Cultural Issues	1988
+Education Culture and Higher Education Federal Government	14916
 Education Currently	2339
 Education Curriculum Framework	899
 Education and Culture	7624,1343
@@ -1457,7 +1580,7 @@ Egypt. Customers	6528
 Egyptian Currency Printing House	7536
 Egyptian Customs Authority	11642
 Electricity Current	12399
-Electronic Know Your Customer	8971,4105
+Electronic Know Your Customer	8971,4105,1886
 Electronic Know Your Customer-eKYC	9069
 Elementary and Middle Levels Currently	13960
 Elevate Customer Satisfaction and Experience	3487
@@ -1492,9 +1615,11 @@ Ethiopian Customs Commission	208,10501,3284,95,36
 Ethiopian Customs Commission Fully Digitalized Addis	14088
 Ethiopian Revenue and Customs Authority	850
 Ethiopian Revenues and Customs Authority	13968
+Evolving Customers	14997
 Ewe and Dagbani. Culture	5935
 Example of Customer Service With Room	9531
 Excellency the State President. CUSTOMS	13122
+Executive Director of Currency and Operations	15023
 Existing Curricula	6948
 Existing Customers Also Affected	4601
 Exit Customer	5679
@@ -1532,10 +1657,11 @@ FORM F-2 FORMAT OF CURRICULUM VITAE	13031
 FRAMEWORKS CURRENT UPCOMING	14819
 FRUSTRATED EPISTEMIC CULTURES Epistemic	12090
 FSM Customs	13042
+FX Global Currently	14997
 Facilitation Customs	13042
 Falsification of Currency and Similar Offences	587
 Family Fun Day Currency	11134
-Federal Customs Authority	14476
+Federal Customs Authority	14476,421
 Feedback Loops and Data-Use Culture Feedback	11596
 Female Genital Mutilation and Cutting	12188
 Ficha de Análise Custo	10783
@@ -1546,6 +1672,7 @@ Final Cutoff	12364
 Finalized the National Curriculum for Grade	12975
 Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935,4229,649,143,345
 Financial Sector Currently	10775
+Financial Sector Development and Conduct People and Culture	15023
 Finding and Keeping Customers	11033
 Finding and Keeping Customers. Cherie Oyier	11033
 Firms Identifying Customs and Trade Regulations	12389
@@ -1553,6 +1680,7 @@ First Aiders. Culture Transformation Culture	11131
 Fomento de Cultura	4209
 Foreign Currency Account	13532
 Foreign Currency Bank Account Restrictions	12389
+Foreign Currency Dealers78 Structure of Financial Sector	15023
 Foreign Currency FIRR Financial Internal Rate	11863
 Foreign Currency Holdings	2775
 Foreign Currency-Backed	12882
@@ -1561,6 +1689,7 @@ Foster Data-Driven Culture	14729
 Franklin Cudjoe	5375
 Fuerte Cultura Muy	1701
 Funding Cuts	12025
+Fursad Cusub	15168
 G Customers	8127
 GAINDE Customs System	7512
 GASTOS COMUNES Y OBLIGACIONES DIVERSAS Cuentas	4209
@@ -1571,11 +1700,13 @@ GTBank Customer Support	12038
 GUE Customs G2G	13314
 GW. Currently	12233
 GWAN CURRENT	12453
+Gaajo. CUTUBKA	15047
 Games Customer Service Week COMESA Committee	11131
 Gbps Cumulative	14069,741
 General Department of Customs and Excise	13042
 General Directorate of Customs	10870
 General Directorate of Customs and Excise	477
+General Receipts and Customs Regime Receipts	15066
 Generation Customer Connections Data Dashboard	11236
 Geopolitical Currency	8629
 German Cufre	14017
@@ -1606,11 +1737,15 @@ H8 H9 Current	9129
 HACIENDA CMF A3 HACIENDA CMF CUOTA	4209
 HACIENDA CMF CUOTA ANUAL	4209
 HACIENDA CMF CUOTA ANUAL CUOTA ANUAL	4209
+HAKINTA TIRSIGA AQOONSIGA CUTUBKA LIXAAD	14930
 HEIs and TVETs Current Status Update	13991
 HOME AFFAIRS AND CULTURAL HERITAGE	13420
+Hay’adda. Cutubka	14906
 Head of Customs for Land and Modality	11289
 Heritage-Based Curriculum	9396
+Hewlett Packard CDD Customer Due Diligence	14897
 High Voltage Direct Current IFRS International	12399
+Highly Unsatisfactory. Current	15019
 Home Affairs and Cultural Heritage	6179,7260
 Home Affairs and Cultural Heritage Minister	13434,5
 Home Affairs and Cultural Heritage Minister Kazembe	3277
@@ -1642,14 +1777,17 @@ Implementar Cumpre	11569
 Import Cover Annual Headline Inflation Currency	11131
 Improve Customer Satisfaction	12552
 Improved Customer	13037
+Improved Customer Service	14985
 Improvement of Currency Convertibility Currency	6938
 Inaccuracy of Current Liabilities Balances	14546
+Independent Curriculum Development Consultant	15183
 Index Customer Average Interruption Frequency Index	12969
 Indian Council for Cultural Relation	11925
 Indian Council for Cultural Relations	13509
 Indicate Foreign Currency	13037
 Indicator Current	12399
 Indicator Current Share Renewable Energy	12399
+Indicators Deprivation Cut-Offs Weights	15244
 Individual Merchants Retail Large Customer Agent	5687
 Indonesia FACTOR CURRENT IMPACT Awareness	11994
 Indonesia and Kenya FACTOR CURRENT IMPACT Access	11994
@@ -1663,8 +1801,9 @@ Industrial Sewing Machines and Cutting	12979
 Indústrias Culturais	8385
 Inflation Rate and Current Account Balances for Selected	2775
 Inflation and Current Account Balances	2775
+Information Directorate and Curriculum Centre and Training	14851
 Information and Communications Technology. Currently	12502
-Information. CURRENCY EQUIVALENTS	11525
+Information. CURRENCY EQUIVALENTS	11525,3665
 Informação Pode Reduzir O Custo	8003
 Infrastructure Culture	14566
 Infrastructure Current State	12356
@@ -1711,8 +1850,10 @@ Journal of Cultural Economy	3782
 João Cuti	11429,3,47
 Judicial Curricula	12972
 Judiciary. Cumulatively	13504
+Jun-2021. Current Closing Date	14971
 Jun-26. Current	12717
 Justification for National Data Centre Currently	12253
+KALA-NOQOSHADA KAARKA AQOONSIGA CUTUBKA TODOBAAD	14930
 KENYA Kenya Institute for Curriculum Development	899
 KICD Kenya Institute of Curriculum Development KIXP	7548
 Kenya FACTOR CURRENT IMPACT Awareness	11994
@@ -1728,6 +1869,7 @@ Kilos Standard Mètres Cubes- KSM3	7263
 Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,333,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15
 Know Your Customer Lesotho Wire Local	12701
 Know Your Customer LoA Level of Assurance	12663
+Know Your Customer MDA Ministry Department	14965
 Know Your Customer MERCHANT	11861
 Know Your Customer Mobile Money Know	14674
 Know Your Customer Policy	13532
@@ -1742,6 +1884,7 @@ LFR Cuenta Explicación	4209
 LIABILITIES Current	14736
 LMIS. Currently	13187
 LOCAL ECONOMIC AND COMMUNITY DEVELOPMENT Current	12399
+LPG. Currently	14947
 La CUD	6098
 La Customs Act	7994
 Lamu Cultural SHA	6946
@@ -1770,6 +1913,7 @@ Local Currency. London	11310
 Local Customs Selection Units	13042
 Lonto Ndlovu Acting Commissioner Customs	8499
 Low Reporting Culture and Weak Public Confidence	6936
+Low Tax Compliance Culture Psychological	14985
 Luanda Cuanza-Norte TOMÁS AMOR KAVILI	10751
 Luanda. Currently	10765,10
 Luminosos INDUSTRIA INSPECCION ANUAL CULTURA LICENCIA	4209
@@ -1783,6 +1927,7 @@ M Current Gap Total Population	13095
 M-PESA Customer Terms and Conditions	12227
 M300. Customers	7840,58,726
 M6’s World Cup	5407,676
+MABAADI'DA CUTUBKA LABAAD	14930
 MAGISTRADO TRIBUNAL DE CUENTAS	4209
 MANSA Customer Due Diligence Repository	11809
 MB. Customers	11083
@@ -1792,6 +1937,7 @@ MICSTI Curriculum	12675
 MINISTERIO FISCAL Cuentas CONCEPTO	4209
 MIT Digital Currency Initiative	12048
 MRA Customs	14736,92,3
+MUWAADINKA HEYSTA JINSIYAD KALE CUTUBKA AFARAAD	14930
 Maestro Who Bridged African and Cuban Music	5407,676
 Magistrado Tribunal de Cuentas	4209
 Magistrado Tribunal de Cuentas Servicio	4209
@@ -1806,6 +1952,7 @@ Maria Do Socorro Alves Da Cunha	12137
 Marie Curie	3782
 Markets Currency Financial Inclusion	12390
 Markets Currency National Payment Systems Centre	12390
+Martin Cumpa.pdf Matthew DeBell Jon A	15244
 Maturity Innovation Culture and Ecosystem Mauritius	14566
 Mauritian Cultural Centre	14748
 Mauritius Customs	14789
@@ -1831,8 +1978,11 @@ Million Customers Author	7688
 Million Monthly Active M-PESA Customers	12227
 Mineworkers Provident Fund Administrators. Currently	12597
 Minister of Culture	3261
+Minister of Culture and Information. IX. MEDIA A	14853
+Minister of Culture and Sports	14869
 Minister of Education and Culture	12890
 Minister of HomeAffairs and Cultural Heritage	12489
+Minister of Sciences and Culture	14865
 Minister of State for Gender and Cultural Affairs	14039
 Ministerio de Cultura	4209
 Ministra da Cultura	3246
@@ -1880,6 +2030,7 @@ Mº TURISMO E INFRAESTRUCTURAS TURISTICAS Cuentas	4209
 N INDICATOR NATIONAL TARGET CURRENT	13345
 NATIONAL CURRICULUM DEVELOPMENT	12975
 NATIONAL ENERGY COMPACT FOR NAMIBIA Current	12399
+NCA’S CURRENT RESPONSIBILITIES	14879
 NCC Curtails	11857
 NCS Action Plan. Current	1777
 NHRI. Custody	2343
@@ -1931,6 +2082,8 @@ Norte Cuanza Sul Cunene	10766
 Norte Cuanza Sul Cunene Huambo Huíla	10766
 Norte Cuanza Sul Malanje Lunda Norte	10777
 Nov-2018. Current Closing Date	13897
+Number of Connected Customers	14867
+Number of Customer Interruptions	14867
 O- Cultural	582
 OFFICE SPACE AT CUREPIPE TO ACCOMMODATE	14778
 OOB. Customers	4732
@@ -1981,6 +2134,7 @@ Parlamento Interventor de Cuentas	4209
 Patrimoine Culturel National	13908
 Património Cultural	11390,16
 Paying Customers Article	12616
+Payment Currency	14912
 Payment Payment Cut-off Cut-off Manifestation	12364
 Payment Services I-22 Customs Services	10785
 Payment Systems and Currency Management	14744
@@ -1990,8 +2144,10 @@ People and Culture Committee. Mr. Paul Mureithi	6946
 Percentage of AI Current	7548
 Perceptions Index of Customs and Trade Regulations	12389
 Performance Measurement Mechanism Smart Customs Community	13051
+Period Total Number of Connected Customers	14867
 Physical Cultural Resources	11525
 Physical Cultural Resources OP	11525,330,282
+Pillar CCA Name Current	14935
 Plano Curricular	12019
 Plano Nacional de Cuidados	1948,9907
 Platform for Good Digital Identity. Customer Digital	10819
@@ -2030,6 +2186,7 @@ Protection Customer Support Description Detailed	5676
 Protection of CUI	6423
 Protection of Cultural Heritage	12161
 Protection of Cultural Property	14409
+Protection of Customer Data and Transactions	15054
 Proto CEO Curtis Matlock	12466,595
 Proto's CEO Curtis Matlock and Country Manager	12466
 Província Cabinda Zaire Uíge Luanda Cuanza	10777
@@ -2047,6 +2204,7 @@ Quarterly Active Customers	9735
 R Recreation and Culture	13093
 R. Cull	11140
 R5 Digital Culture	13987
+RAADKA SHARCI EE AQOONSIGA SHISHEEYE CUTUBKA	14930
 RADIO CULTURE	13324
 REG. B.S. Cuentas CONCEPTO	4209
 REG. PROTEC. PROTEC. PROTEC. Cuentas CONCEPTO	4209
@@ -2055,10 +2213,12 @@ REGIONAL PROVINCIAL Cuentas CONCEPTO	4209
 REGISTROS REGISTROS REGISTROS REGISTROS REGISTROS Cuentas	4209
 REPUBLIC OF CUBA	13996
 REQUIREMENTS FOR KNOW YOU CUSTOMER	5687
+RSM-02 Estimating Cultivable Areas	15285
 RTP and SWIFT. Customers	9834
 Radio INDUNDI CULTURE BUJUMBURA	13414
 Rare Disease Cures Accelerator	10188
 Ratings Previous Current Revised	14010
+Ratio CBDC Central Bank Digital Currency	15023
 Raxio Group Customers	7752
 Real GDP Growth Inflation Current Account	2775
 Recognition of Customary Marriages Act	5533,5644,809
@@ -2067,12 +2227,15 @@ Record Keeping of Customer Information	12389
 Recording and Custody of Fuel	13420
 Reference Cugurullo and Xu2025	8283
 Reference Mayer-Schönberger and Cukier2013	8436
+Region CURRENCY EQUIVALENTS	14937
 Regional Beneficiary Overview Current Beneficiaries	8999
 Regional Customs Transit Guarantee Scheme	13563
 Regional Distribution of Customer Connections Changes	12969
 Registro General de Protección de Datos. Cualquier	163
+Regulation. The Customer	14867
 Regulators and MRA Customs	14736
 Regulatory Agencies CDS Customs Declaration System	13042
+Regulatory Authority. Customer	14867
 Related Services Currencies	13185
 Relevant Not Currently Relevant ESS	11417,488
 Relevant Resources Not Currently Relevant ESS	11417,488
@@ -2085,6 +2248,7 @@ Resources Not Currently Relevant ESS	11560
 Responsibility for Data Collection FAS-IDL Custom Indicators	10768
 Return and Restitution of Cultural Property26	11439
 Revenue and Customs Authority HR Frequently Asked	12500
+Revised Currency Management Policy	15023
 Ricardo Cuco	12196
 Ricardo Custódio	2816
 Rights Culture Democracy Education	9067
@@ -2112,8 +2276,11 @@ SOCIAL AND CULTURAL IMPACT	14004
 SOCIAL AND CULTURAL RIGHTS	12936
 SOCIAL AND CULTURAL RIGHTS Article	14742
 SOCIEDAD PROCESOS CUENTAS GRAL. DE REG	4209
+SOMCAS Somali Customs Automated System	14929
 STRUCTURE OF THE CURRICULUM	12914
+SUGIDDA CUTUBKA SIDEEDAAD	14930
 SUMMARY PILL ARS CR OSS CUTTING	12701
+SWALIM Completes Cultivable Areas Analysis for Somalia	15129
 SWAZILAND NATIONAL CURRICULUM FRAMEWORK FOR GENERAL	12914
 SWIFT Customer Security Programme	11131,3
 Safaricom’s Head of Customer Privacy	6538
@@ -2126,12 +2293,13 @@ Schools’ Curriculum	11129
 Science and Culture	2958
 Scientific and Cultural Organisation	6211,2895,96,553,748,637,1035
 Scientific and Cultural Organisation UNESCO-IIEP	12175
+Scientific and Cultural Organisation UNFPA United Nations	14896
 Scientific and Cultural Organisation UNICEF United Nations	13990
 Scientific and Cultural Organisation US United States	14747
 Scientific and Cultural Organisation USD United States	14674
 Scientific and Cultural Organisation UoM	14775
 Scientific and Cultural Organisation WEF World Economic	1814
-Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571,578,119,275,193,382,109,153
+Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571,578,119,275,193,382,109,153,141
 Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,135
 Scientific and Cultural Organization UNICEF United	12970
 Scientific and Cultural Organization UNICEF United Nations	13312,2
@@ -2161,11 +2329,15 @@ Service SACU Supporting Southern African Customs	11196
 Service and Customer Management	11955
 Services. Currently	12977
 Serviço Curto de Mensagens Início	11569
+Setting Deprivation Cut-offs for Each Indicator	15244
 Seychelles Commercial Bank Confirms Customer Data	3279,85
+Sharciga. CUTUBKA LIXAAD QODOBO GUNAANAD AH	15153
+Sharcigan. CUTUBKASADDEXAAD HABRAACA GUUD EE DAD-DHIGISTA	15153
 Shares of Grid Electricity Customers	718
 Sharia and Customary Courts of Appeal	12063
 Sharp Curve	3386
 Shilling KYC Know Your Customer LG	14674
+Shirkada Isgaarsiinta Jiilka Cusub	15168
 Shocks and Aid Cuts Intensify Risks	11105,31
 Sierra Leone Police for Know Your Customer	9096
 Single Currency	7452,5733,1581
@@ -2183,15 +2355,22 @@ Smart Curriculum Design	6948
 Smart Customs Project	14789
 Smart Digital Transactions Cut Costs	4743
 SmartCare Systems Current	2477
+Snapshot and Current State	14997
+Snapshot and Current State As Rwanda	14997
+Snapshot and Current State Global Gross Written	14997
+Snapshot and Current State Rwanda	14997
 Social Cohesion and Cultural Preservation Zimbabwe	4528,7984
 Social Cultural Rights	3583
 Social and Cultural Development	14742
-Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794
+Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162
 Social and Cultural Rights CMO	14742
 Social and Cultural Rights. Consistent	3583
 Social and Cultural Rights. Revitalized Agreement	3583
 Social and Cultural Rights. South Sudan	3583
 Société Culte	13595
+Somali Customs Automated System	15066
+Somalia. Currently	14879
+Somalis. Currently	14879
 Sonatel Local Currency Bond	518
 South African Customs Union and India	11183
 South African Sign Language Curriculum Learning	11220,21
@@ -2207,7 +2386,7 @@ Sports Culture and Youth Affairs	13093
 Sports and Culture	769,12478
 Sr. Adrião Simões Ferreira da Cunha	11526
 Stanbic Bank-backed Carnival Cup	6885
-Standard and Custom Software	14766
+Standard and Custom Software	14766,314
 Starlink Currently Costs	5874
 Startup World Cup	3378,4239,103,5448
 State Department for Culture	14546
@@ -2239,9 +2418,11 @@ TESORERÍA Y PATRIMONIO DEL ESTADO Cuentas	4209
 TRIBUNAL CONSTITUCIONAL Cuentas CONCEPTO	4209
 TRIBUNAL DE CUENTAS	4209
 TRIBUNAL DE CUENTAS Cuentas CONCEPTO	4209
+TUSMO CUTUBKA	15152
 Talent Cultivation and Research Excellence	4528
+Tax CSD Customs Services Department DTD	14985
 Tax Cuts	2676
-Tax and Customs	12162,277,517
+Tax and Customs	12162,277,517,1941
 Tax and Customs Administrations Expertise France	648
 Teacher Training KBC Knowledge-Based Curriculum NEET	12329
 Tech Namibia National Talent Cultivation Programme	13173
@@ -2250,6 +2431,7 @@ Technical Outcomes Current	3840
 Technical Working Groups. Customer Focus	2775
 Technology and Curriculum Enhancement Programmes	11220
 Telecom Review Africa My Custom Home	2302,60,225,502,203,504,1184,21,339,1433
+Temporary Service The Customer	14867
 Terra. No Cuanza-Sul	11837
 Tf Status Original Closing Current Proposed	1284
 Through Customs Performance Measurement Integrity and Trade	13042
@@ -2277,6 +2459,7 @@ UNDP Youth Civic and Political Participation Curriculum	8860,352
 UNESCO List of Intangible Cultural Heritage	14742
 UNESCO Regional Advisor for Culture	14300
 UNESCO Representative List of Intangible Cultural Heritage	14742
+US Government Funding Cuts	15342
 Ugandans Curse NIRA Over R.Nile Like-Long	9696
 Ukraine. Cut	1695
 Under the Union Customs Code	11036
@@ -2302,6 +2485,7 @@ Utilization of CUCI Money	12978
 V High Voltage Direct Current	12256
 V Nzove Cut	12358
 VICE- DELEGACIÓN PRESIDENCIAL BIBLIOTECA Cuentas CONCEPTO	4209
+VIII. CULTURAL DIVERSITY AND IDENTITY	14853
 VIII. International Customs Day	13053
 VIVIENDAS Y URBANISMO Cuentas CONCEPTO	4209
 Values Customer	7221
@@ -2317,6 +2501,7 @@ Voltage Direct Current	11923
 WCO Smart Customs Portal	14789
 WCO Smart Customs Project	14789
 WCO Trade Tools International Standards for Customs	13051
+WEIGHTS AND CUTOFFS The S-MPI	15244
 WORLD CUSTOMS ORGANIZATION	4827
 WTO Customs Valuation Agreement	11036
 WTO Customs Valuation Agreement. Accordingly	11036
@@ -2324,7 +2509,8 @@ Wan Cun Tong	13309
 Warns Against Media Intimidation Cummings Alleges	4261
 Webb Customs	2392
 Webinars Business Agents Customs Electronic Licensing	12454
-Wendy Cunningham	10768
+Weights and Cutoffs	15244
+Wendy Cunningham	10768,4291
 Western Cape Region Current Service Delivery	8999
 Wh. Currently	12233
 Wh. Customers	12256
@@ -2346,8 +2532,12 @@ World Customs Organization’s Revised Kyoto Convention	13042
 World Customs Organization’s Single Window Compendium	13042
 World Economic Forum. Currently	7156,597,2450,489
 Worsening Commentary Liabilities Currency	11134
+XFS. Cutubka	14906
+XOG-SIDAHA CUTUBKA SADDEXAAD	14930
 Y GENERAL DE DELEGACIÓN Cuentas CONCEPTO	4209
 Y SOCIAL Cuentas CONCEPTO	4209
+Z Cutubka	14906
+ZT CUTUBKA	15047
 Zambia Currently	1988
 Zambia Customs and Forwarding Agents Association	13403
 Zambia Education Curriculum Framework	13477

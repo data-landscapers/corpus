@@ -30,11 +30,13 @@ Public Prosecution Over Unauthorized SIM Registrations	11642
 REMEDIES IN CASE OF UNAUTHORISED DONATIONS	3714
 Rundu Unam Campus	13046
 SAFARICOM PLC RESULTS BOOKLET UNAUDITED RESULTS	3898
+System Planned Unavailability Index	14867
+System Unplanned Unavailability Index	14867
 TVET Technical and Vocational Education and Training UNAM	12399
 Tokyo By Una Hajdari Published	8348
 Training VTC Vocational Training Centre UNAIDS	12923
 UNAFZMLU UNAFZMLU STANDARD CHARTERED BANK ZICBZMLU	12364
-UNAIDS	9229,1530,17,59,2,1,130,902,16,2,1,264,1,9,177,1,11,1,68,67,434,34,210
+UNAIDS	9229,1530,17,59,2,1,130,902,16,2,1,264,1,9,177,1,11,1,68,67,434,34,210,1793
 UNAIDS Joint United Nations Programme	11887,266,1,9,178
 UNAIDS Spectrum	10776
 UNAM Engineering Ekuku WT	12933
@@ -52,10 +54,10 @@ Unaccompanied	11177
 Unaccountable	13418
 Unaccounted for Transfers	14546
 Unaddressed	7151
-Unadjusted	12367
+Unadjusted	12367,2689
 Unadjusted Adjusted Year	12413
 Unadjusted CBR	12367
-Unadjusted CDR	12413
+Unadjusted CDR	12413,2643
 Unadjusted and Adjusted	12413
 Unaffiliated Representative	7198
 Unaffordable	13166
@@ -75,12 +77,12 @@ Unapproved	13606
 Unassembled	6921
 Unassigned	12369
 Unathi Kamlana	9677
-Unauthorised	3,780,4750,2489,332,1316,1548,6,6,726,20,10,473,436,64,461,88,914,295
+Unauthorised	3,780,4750,2489,332,1316,1548,6,6,726,20,10,473,436,64,461,88,914,295,194
 Unauthorised Access	11956
 Unauthorised Disclosure of PD	11956
 Unauthorised Expenditure	11230
 Unauthorised Use of PD	11956
-Unauthorized	2709,1152,414,969,1188,3423,3084,1037,446
+Unauthorized	2709,1152,414,969,1188,3423,3084,1037,446,448
 Unauthorized Use	13963
 Unavailability	14137
 Unavailable	2636,8660,2056
@@ -89,3 +91,4 @@ Unawareness	10323
 Unaweza	7250
 Unayo	12676,301
 Unayo App	12676
+Year Unadjusted Adjusted	15056

@@ -1,4 +1,5 @@
 ABNT Chicago Harvard IEEE MLA Turabian	12467,19
+AIDS IEC	15206
 AL DAS ELEtçÕeS IeeSLAnVAS	11544
 Acomprehensivesurvey. IEEE Access	8606
 Administrators of IECMS	12972
@@ -6,6 +7,8 @@ African IETF	991
 Agbehadji IE. Health	10780
 All the IETF	991
 Appropriate IEC	12253
+Bangladesh. IEEE Journal of Selected Topics	15129
+Body The IECMS	15078
 Burkina Faso Ministry of Health.21 The IeDA	10881
 Burkina Faso.20 The IeDA	10881
 Business Day. For the IEC	9375
@@ -28,12 +31,17 @@ ES and IE	11939
 Eastern and Southern Africa IEG Independent Evaluation	6539
 Elections Act. IEBC	12293
 Electoral Commission The IEC	7514
+Electric Vehicles RS IEEE Std	15027
 Estatística IES	11387
+F. IECMS Modules ANNEX F1	14927
 Former IEBC	9645
 GHG HIPC IDP IEA IMF IPC	11136
+HSDU. IEC	15206
+HSDUs. IEC	15206
 Hon. Prince Simelane. The IECMS	12997
 IBEDC Ibadan Electricity Distribution Plc IEDN	12062
 IDR Import Dependency Ratio IEBC Independent	2775
+IE Special Educational Needs and Inclusive Education	14896
 IE University and NOVAFRICA. Other Primary Investigators	10609
 IE0044	11873
 IEA Energy and AI Analysis Report	7548
@@ -87,18 +95,22 @@ IEC TS	12191,1242
 IEC TS Off-Grid Solar Market Report	11923
 IEC and Department of Basic Education	14357
 IEC and EMVs	13985
+IEC and Lancet Laboratories	15327
 IEC and TIA	9123
 IEC's	8846,469
 IEC's Voter Participation Survey	10453
 IEC. Firstly	11949
 IEC.pdf	5641
 IEC20000	1000
-IECMS	12387,26,60,463,36,25,132,309,66,3,112
-IECMS Integrated Electronic Case Management System	12413
+IECMS	12387,26,60,463,36,25,132,309,66,3,112,1375,84,141
+IECMS Integrated Electronic Case Management System	12413,2643
 IECMS Phase	13619
 IECMS. Day	12473
+IECMS. Participants	15078
 IECMS. Staff	13504
 IECMS. The IECMS	12473
+IED&A117	14997
+IED&A118	14997
 IEDA Consultant PCA Planning Department Director	2989
 IEDOM	14744
 IEE. L’apport	13325
@@ -113,9 +125,12 @@ IEEE International Conference	4432,9559
 IEEE Journal of Biomedical and Health Informatics	8606
 IEEE Journal of Selected Topics	12837
 IEEE Open Journal	8606
+IEEE Representatives	15120
 IEEE Software	5700
+IEEE Standard	15027
 IEEE Standard Computer Dictionary	1009
 IEEE Standard Computer Glossorles	1009
+IEEE Standard for Technical Specifications	15027
 IEEE Systems Council	8022
 IEEE Tongsuksai	9129
 IEEE Transactions	2093,6511,4322
@@ -125,6 +140,8 @@ IEEE Xplore	7759,31
 IEEE. Sotomane	2816
 IEEE.pdf Roldán	8604
 IEEE142	9123
+IEEE802 Spanning Tree	14864
+IEEE802.1Q	14864
 IEEPA	8788
 IEF Tax Administration Review	12948
 IEFIS	4209
@@ -141,10 +158,20 @@ IEMed Abstract Despite	13257
 IER Institut	12
 IES. Assim	11391
 IESBA	11955,1098
+IESBA Code	15169
+IESF109	14997
+IESF110	14997
+IESF111	14997
+IESF112	14997
+IESU113	14997
+IESU114	14997
+IESU115	14997
+IESU116	14997
 IET Blockchain	8605
 IETF Internet-standards	991
 IETF RFC7159	1009
 IETF-Africa	991
+ISO and IEC	14947
 ISO and IEEE	4528,7984
 ISO- IEC27001	1000
 ISOC IETF-Africa	991
@@ -155,6 +182,7 @@ Ienca	11135,21
 Ienlveectstricmiteyntarcceeqsusire	11572
 Ierminées	10813
 Imagery Classification. IEEE Journal of Selected Topics	14769
+Implementation. IEEE Journal of Selected Topics	15129
 Independent Electoral Commission of Lesotho IEC Head	12652
 Independent Electricity Distribution Network IE Ikeja	12062
 Information and Communication Technology IE	12175
@@ -163,6 +191,7 @@ Instituteur Certifié IEPD	10847
 IoCk IETLEIS	14713
 Judiciary Successfully Hosts IECMS Change Management	13129
 KAZI IENDELEE. Vilevile	2868
+Krishnamani Kavita Mathur Victoria Alexeeva IEGSD	14888
 Limited GTL Ghana Tech Lab IEAI	4126
 Local IEC	7266
 MATTERS ARISING The IEAG	14216
@@ -176,6 +205,7 @@ Note the IEC	7266
 OUN BOU LK IEMD E BAN	10847
 PAYMENT PLATFORMS The IEAG	14216
 Pour Ies	10813
+Ratings Ratings ICR IEG Reason for Disagreements	14888
 Register of Voters. IEBC	3936
 Register of Voters. The IEBC	3936
 Response and Resilience IEA International Energy Agency	1867
@@ -183,8 +213,10 @@ République Gabonaise. Chapitre Ier	11580
 Senior Member IEEE	12926
 South Africa’s IEC	10497
 States. IEA	11572
+Stationary Battery Applications RS IEEE Std	15027
 Série IEEE P70xx	2816
 TBD IE	970
+Through the IECMS	14994
 TransferCategory Categories of Ieamer	11180
 W A SA NGU IE KADIOGO	10847
 Will the IEC	11076

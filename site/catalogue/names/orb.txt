@@ -16,7 +16,7 @@ Geostationary Satellite Orbit	2913
 Harnessing the Potential of Low Earth Orbit Satellite	14828,3
 LEO Low Earth Orbit LMS Licensing	6946
 LEO Low Earth Orbit M&E Monitoring	3604
-Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164,871,64,459,448,583
+Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164,871,64,459,448,583,864
 Low-Earth Orbit	5245,9429
 Low-Earth Orbit Satellites	3063
 MISE EN ORBITE Djibouti	13844
@@ -36,6 +36,7 @@ Orbital Today	6315
 Orbus	3514
 Orbus Digital Services	3514
 Quality of Service. Low-Earth Orbit and Direct-2-Device	14674
+Regulatory Framework for Low Earth Orbit	15120
 Ruth Orbach	6886
 SERVICES THROUGH NON-GEOSTATIONARY SATELLITE ORBIT	2913
 STARLINK Low Earth Orbit	1872

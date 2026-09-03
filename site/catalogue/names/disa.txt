@@ -19,12 +19,14 @@ Anti-Piracy Unit Disaster Response Unit AML	14760
 Assessment of Disability	12575
 Assumptions NA Disaggregation	11986
 Backup and Disaster Recovery	6432
+Backup and Disaster Recovery Policy	15164
+Backup and Disaster Section E. ICT Governance	15164
 Backup-as-a-Service and Disaster-Recovery-as-a-Service	13169
 Body The Ethiopian Center for Disability and Development	14082
 Building Disaster Readiness Through ASYREC Simulations	13042
 Business Continuity Plan and Disaster Recovery Guidelines	12453,892
 Business Continuity and Disaster	12538
-Business Continuity and Disaster Recovery	11995,543,2223
+Business Continuity and Disaster Recovery	11995,543,2223,160
 Business Continuity and Disaster Recovery Framework	13987
 Business Continuity and Disaster Recovery Guidelines	12538,925
 Business Continuity and Disaster Recovery Program	10550
@@ -40,7 +42,9 @@ CYPARSADE Smreetee Disaster Monitoring Officer	14770
 Cabinet Assumptions NA Disaggregation	11986
 Centre for Disability and Inclusion Africa	12038
 Centre for Disaster Protection	10763
+Challenges Disaster	14935
 Child Disability Grant	12373
+Children With Disabilities	14958
 China Disability Inclusion Knowledge Exchange Platform	9767
 China Disabled Persons' Federation	9767
 Climate Change Related Natural Disasters	1828
@@ -67,16 +71,27 @@ Council. THE PERSONS WITH DISABILITIES ACT	12916
 Covid-19 National Disaster Regulations	14455
 D. EMPLOYMENT DISAGGREGATED IN THE INDUSTRY-	3862
 DDC District Development Coordinator DRP Disaster	13420
+DDR Disarmament	15342
 DEFINITION AND MODELS OF DISABILITIES	13033
 DEFINITION OF PERSON WITH DISABILITY	12575
 DG NA Disaggregation	11986
 DISA and SESP	12266
 DISA-El-mis Central	2477
 DISABILITIES	12916
+DISABILITIES IN SUDAN MINISTRY	15036
+DISABILITY	15247
+DISABILITY AND SOCIAL INCLUSION The G&D	14935
 DISABILITY AS A HUMAN RIGHTS ISSUE	13033
 DISABILITY IN MASERU. The Ministry	12720
 DISABILITY WHEREAS	13958
 DISADVANTAGES	6432
+DISAGGREGATION BY AGE OF HOUSEHOLD HEAD	15244
+DISAGGREGATION BY EDUCATIONAL ATTAINMENT OF HOUSEHOLD	15244
+DISAGGREGATION BY HOUSEHOLD DISABILITY STATUS People	15244
+DISAGGREGATION BY SEX OF HOUSEHOLD HEAD	15244
+DISAGGREGATION BY STATES	15244
+DISAGGREGATION BY WORK STATUS OF HOUSEHOLD	15244
+DISAGGREGATION Estimates of S-MPI	15244
 DISASTER RECOVERY	11240
 DISASTER RECOVERY FOR THE COMMUNICATIONS SECTOR	12538
 DISASTER RECOVERY STANDARDS AND GUIDELINES	34
@@ -100,9 +115,10 @@ Director of Disability	12661
 Director of Disability Affairs	13470
 Director of Disability Affairs. No	13470
 Disabilites FPE The Free Primary Education	12975
-Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210,405,18,17,40,11,52,137,26,13,17,5,92,5,40,38,49,1,11,94,126,189,35,23,7,10,6,15,16,40,90,96,170,29,47,5,541,8,12,51,67,1,592,1,31
+Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210,405,18,17,40,11,52,137,26,13,17,5,92,5,40,38,49,1,11,94,126,189,35,23,7,10,6,15,16,40,90,96,170,29,47,5,541,8,12,51,67,1,592,1,31,113,2,46,5,64,15,17,104,104,75
+Disabilities APP	15244
 Disabilities Acceptance	11765
-Disabilities Act	6949,1383,329,134,3436,685,42,165,347,96,67,913,197,8
+Disabilities Act	6949,1383,329,134,3436,685,42,165,347,96,67,913,197,8,285
 Disabilities Act No	13389
 Disabilities Bill	14742
 Disabilities CSCS Superior Council of Social Communication	12201
@@ -112,6 +128,9 @@ Disabilities CWDs	14031
 Disabilities DML Desired Mastery Level DP	13990
 Disabilities FORCOM National Forum of Community Radios	12201
 Disabilities Feedback Received	9772
+Disabilities Household Disability Status Value MPI	15244
+Disabilities Households	15244
+Disabilities MPI Indicators Sudan	15244
 Disabilities Mainstreaming The DHA	5533
 Disabilities MoLSW	14031
 Disabilities NCR Nairobi Commuter Rail NDC	2775
@@ -150,7 +169,7 @@ Disabilities. These International	13033
 Disabilities. Through	12950
 Disabilities.15	3583
 Disabilities.Persons	12231
-Disability	582,3022,1637,981,716,3830,73,290,61,22,4,6,711,51,215,30,97,45,10,192,86,31,231,54,56,165,133,58,11,54,504,816
+Disability	582,3022,1637,981,716,3830,73,290,61,22,4,6,711,51,215,30,97,45,10,192,86,31,231,54,56,165,133,58,11,54,504,816,113,149,208,3
 Disability Accessibility Conference	12692
 Disability Accessibility Conference. Let	12692
 Disability Act	11975,600,364,38
@@ -170,12 +189,14 @@ Disability Empowerment Unit	14847
 Disability Equity Act	12661,31
 Disability Fund	13470
 Disability Fund Part VII	13470
-Disability Grant	7910,1089,3374
+Disability Grant	7910,1089,3374,2767
+Disability Grant. Key	15140
 Disability Grants	12383
 Disability Grants Payments	12977
 Disability Inclusion	12964,721
 Disability Inclusion Guideline for Food Security	14019
 Disability Inclusion Initiatives Ethio	12236
+Disability Inclusion Principles	14887
 Disability Inclusive Service Site Assessment Tool	13400
 Disability Individual Support Programme Veterans Funeral	12373
 Disability Leave	11218
@@ -184,6 +205,7 @@ Disability Management	11131
 Disability Management Information System	13389
 Disability Medical Assessment and Categorization Guidelines	12231
 Disability Nerve Centre of Excellence	9767
+Disability PRSP Poverty Reduction Strategy Paper	15244
 Disability Pension	14774
 Disability Pension System	14774
 Disability Pilot Project	12231
@@ -219,9 +241,11 @@ Disability-Inclusive Programs	13095
 Disability-inclusive	12460
 Disability. The DHA	11986
 Disability. The Program	11905
-Disable	12364
+Disable	12364,2797
 Disable Disable A BOZ-only	12364
-Disabled	12328,333,31,199,80
+Disable Undisable Child Nutrition Health	15244
+Disabled	12328,333,31,199,80,2273
+Disabled Member	15244
 Disabled Persons Act	13470
 Disabled Persons Fund	13420
 Disabled Users	12214
@@ -231,14 +255,17 @@ Disadvantaged People Reducing	1988
 Disadvantaged and Vulnerable Groups	1988
 Disadvantaged and Vulnerable Groups Disadvantaged	1988
 Disadvantages	10979,1400
-Disaggregated	940,2921,6907,1677
-Disaggregating	236,12209
-Disaggregation	4653,2179,5154,245
+Disaggregate	14997,247
+Disaggregated	940,2921,6907,1677,2434,177
+Disaggregating	236,12209,2502
+Disaggregating S-MPI	15244
+Disaggregation	4653,2179,5154,245,3013
 Disaggregation Data	582
+Disaggregation for Redressing Inequalities	15244
 Disaggregation of GVA	236
 Disaggregation of Gross Value Added	236
 Disagree	418,11774
-Disagreement	7112
+Disagreement	7112,7779
 Disagreements	1824,10431
 Disallowance	12531
 Disappearance	12338
@@ -246,9 +273,11 @@ Disappearance Cases	14660
 Disappearing	8891
 Disappointed	5267
 Disapproval	12380
-Disaster	1938,3727,1909,88,1461,1598,42,393,796,288,298,123,28,283,498,1313,35
+Disaster	1938,3727,1909,88,1461,1598,42,393,796,288,298,123,28,283,498,1313,35,62,41,44
+Disaster Affected Communities CPA Comprehensive Peace	15342
 Disaster Assessments	14818
 Disaster Assessments Post-shock	14818
+Disaster Communication System	14935
 Disaster Information Management System	11721
 Disaster Management	3256,7975,626,1118,2
 Disaster Management A. Emergency Fire Incidences	12977
@@ -266,9 +295,10 @@ Disaster Management Programme	11230
 Disaster Management Services	7538
 Disaster Management and Climate Change	13295
 Disaster Management and Mitigation Unit	1988,11377,22
-Disaster Preparedness	13474
+Disaster Preparedness	13474,1461,185
+Disaster Preparedness Over	15120
 Disaster Prevention and Management	13673
-Disaster Recovery	4610,1822,4118,67,104,488,1031,13,285,379,88,32,1509,206,9,38
+Disaster Recovery	4610,1822,4118,67,104,488,1031,13,285,379,88,32,1509,206,9,38,122,353
 Disaster Recovery BPR Business Process Re-engineering	12917
 Disaster Recovery Centre	5855
 Disaster Recovery Cloud	9123
@@ -288,7 +318,7 @@ Disaster Recovery Plan Ministry of Finance	12674
 Disaster Recovery Planning	6432
 Disaster Recovery Plans	12538,882
 Disaster Recovery Services	3561,7160
-Disaster Recovery Site	688,2119,4,9052,818,241,131,406,226,1053,45
+Disaster Recovery Site	688,2119,4,9052,818,241,131,406,226,1053,45,97
 Disaster Recovery Site EFDMS	13053
 Disaster Recovery Site URL	14783
 Disaster Recovery Test Tier	10721
@@ -296,6 +326,8 @@ Disaster Recovery and Business Continuity Plans	4610
 Disaster Reduction and Recovery Government of Angola	10763
 Disaster Relief Emergency Fund	13140
 Disaster Relief Funding Given	11134
+Disaster Resilience	15120
+Disaster Resilience As Somalia	15120
 Disaster Response	14674
 Disaster Response Management	14487
 Disaster Response Programme	14738
@@ -310,6 +342,7 @@ Disaster Risk Management Department	10348
 Disaster Risk Management Division	11721
 Disaster Risk Management Emergency Events Database	10763
 Disaster Risk Management Information System	12241,839,15
+Disaster Risk Management Knowledge Centre	14896
 Disaster Risk Management Systems	13080
 Disaster Risk Management This Annual Report	14738
 Disaster Risk Management and Adaptive Safety Nets	10763
@@ -321,16 +354,20 @@ Disaster Risk Reduction Master Plan	12206
 Disaster Risk Reduction and Management	12779,193
 Disaster Risk Reduction and Management Act	12779
 Disaster Science	9128
+Disaster Warnings	14965
 Disaster and Risk Management Mauritius National Assembly	11332
-Disasters	11245,2531,947
+Disasters	11245,2531,947,274
 Disasters SDG	13824
 Disastrous	1887
+District Disaster Management Committees	14935
 Division for Disability and Marginalised Communities	13033
 Drone-Based Disaster Management Project	10219
 Dull Disasters	10763
 E. Disability Unit	12977
 EDRMC Ethiopian Disaster Risk Management Commission	14038
 EMPLOYMENT OF PERSONS WITH DISABILITIES Sub-Part	14743
+ENERGY SECURITY AND DISASTER MITIGATION	14947
+ENERGY SECURITY AND DISASTER MITIGATION Issue	14947
 EQUIPMENT FOR DISASTER RECOVERY	12681
 ESCP Disaster Risk Management ESMF Environmental	13331
 ESTABLISHING CORPORATE DISASTER AND RECOVERY PLAN	1000
@@ -360,6 +397,7 @@ Federation of Organizations of Disabled Persons	12977
 Fiscal Impacts of Climate Disasters	1828
 Foster Parents Grant Disability Grants	12373
 GEN Description Disaggregated	10768
+GLOSSARY OF TERMS Disability Inclusion	14887
 GP System Disaster Recovery Site	13548
 GSMA. The Mobile Disability Gap Report	12231
 GSS Disaggregated	236
@@ -373,6 +411,7 @@ Global Facility for Disaster Reduction and Recovery	10763,1395,2490
 Governance Climate Change and Disaster Screening	10829
 Government Gazette Assumptions NA Disaggregation	11986
 Government and Disaster Risk Management	14738
+HEAD Disaggregating the S-MPI	15244
 Historical Disadvantaged Individual HPRS	11252
 Historically Disadvantaged Group	6891,3698
 Historically Disadvantaged Groups	5808,5427
@@ -380,6 +419,8 @@ Historically Disadvantaged Individuals	11224
 Historically Disadvantaged Institutions	5246,1586
 Historically Disadvantaged Universities of South Africa	11288
 House Mother for Mankayane Elderly and Disability Home	12977
+Household Disability	15244
+Households Without Disabled	15244
 Humanitarian Assistance and Disaster Relief	2667
 INFORMATION TECHNOLOGY EQUIPMENT FOR DISASTER RECOVERY	12681
 INGD Mozambique's National Institute for Disaster Risk	9484
@@ -398,11 +439,13 @@ J- Disability	582
 Jobs CLIMATE Climate Change and Disaster Screening	3562,7998
 Jobs Climate Change and Disaster Screening	10964,2368
 KPIs Disaster Recovery Plan	10721
+LOCAL LEADERS TRAINED ON DISABILITY GRANT	15140
 Labor Climate Change and Disaster Screening	11855
 Lack of Business Continuity and Disaster Recovery	13987
 Lagos State Office for Disability Affairs	10290
 Legal Framework for Disaster Risk Reduction and Management	12779
 LoC for RSTP Disaster Recovery Site	688
+Local And International Our Disaster	15274
 Local Disaster Management Coordinator	14738
 MUBS Disability Resource and Learning Centre	4028
 Mainstreaming Disability Inclusion	13474
@@ -418,13 +461,14 @@ Minister of Humanitarian Affairs and Disaster Management	7141
 Minister of Local Government and Disaster Risk Management	14738
 Minister of State for Disability Affairs	4133
 Ministry of Health RoK. Disability	12231
-Ministry of Humanitarian Affairs and Disaster Management	3583
+Ministry of Humanitarian Affairs and Disaster Management	3583,11291,304
 Ministry of Local Government and Disaster Risk	14738
 Ministry of Local Government and Disaster Risk Management	14738
 Mitigate Industrial Disasters Michael Moyo's Ocular	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Modest Reason for Disagreement	10779
 Morocco GFDRR Global Facility for Disaster Reduction	13729
 NA Disaggregation	11986
+NATIONAL COUNCIL OF PERSONS WITH DISABILITIES	15036
 NATIONAL DISABILITY COUNCIL ACT	13033
 NATIONAL DISABILITY POLICY LAUNCHED The Honourable	12993
 NATIONAL DISASTER MANAGEMENT AGENCY	12977
@@ -441,10 +485,11 @@ National Disability Plan of Action	12950,27
 National Disability Plan of Action. The National	13219
 National Disability Policy	12993,40,186,930,1
 National Disability Policy This Policy	12964
+National Disability Strategy	15036
 National Disability Symposium	4133
 National Disability Unit	12977
 National Disarmament	3583
-National Disaster Management Agency	1687,11244,46
+National Disaster Management Agency	1687,11244,46,2093
 National Disaster Management Authority	7548
 National Disaster Management Centre	11244
 National Disaster Management and Risk Reduction Institute	1228
@@ -466,15 +511,18 @@ National Disaster and Risk Reduction Management Centre	14738
 National Institute for Disaster Management	12220
 National Strategy for Disaster Risk Prevention and Reduction	11907
 National Union of Disabilities Organisations of Rwanda	12333
+National Union of Disability Organizations	15130
 National Union of Disability Organizations of Rwanda	12461
 Nations Disaster Management Team United Nations	10763
 Natural Disasters	1828
 Natural Disasters Adaptation	1828
+Needs and Disability SLE School Life Expectancy	14896
 Network Disaster	11857
 Nigeria's Disability Act	11975
 No. Name of User Profile Reason for Disabling	12364
 PARTICIPATION OF PERSONS WITH DISABILITIES Implementation	12201
 PERSONS WITH DISABILITIES	940,11976,1827
+PERSONS WITH DISABILITIES AND FOUR	14887
 PERSONS WITH DISABILITY	12575
 PERSONS WITH DISABILITY ACT	12575
 PLW Disabilities	970
@@ -508,6 +556,7 @@ Quarter. Tabulation and Disaggregation of Suspensions	12972
 Quarter. Tabulation and Disaggregation of Transfers	12972
 Quarter. Tabulation and Disaggregation of Variations	12972
 RIGHTS OF PERSONS WITH DISABILITIES ACT	14743
+Ratings Ratings ICR IEG Reason for Disagreements	14888
 Refugees and Disaster Victims	13938
 Refugees and Disasters	13938
 Regional Disaster Management Committees	12977
@@ -518,12 +567,14 @@ Risk Management and Disaster Recovery Plan Risk	13420
 Risk Management and Disaster Recovery Plan Twelve	13420
 Room for Disagreement Aside	1812
 Rwanda. Disaggregated	12445
+SEDIMACs Disaster	14935
 SEVERE DISABILITIES	12916
 SRI Description Disaggregated	10768
 SRI Disaggregated	10768
 SSA Assumptions NA Disaggregation	11986
 Sarker D. Financial Inclusion of Disabled People	12231
 School Report Card and Disability Inclusion Guidelines	12347
+Sector Disaster Management Committees	14935
 Self-care. Disability	12383
 Sendai Declaration and Framework for Disaster Risk Reduction	13295
 Sendai Framework for Disaster Risk Reduction	8370,2913,1496,997,962
@@ -534,8 +585,12 @@ Severe Disabilities	2775
 Severe Disabilities CTU Cane Testing Units	2775
 Severe Disabilities Cash Transfer	14487
 Shise. Hhoh. Manz Mank. DPM Disab	12977
+Somali Disaster Management Agency	14949,171
+Somali Farmers From Climate Disasters Shaqodoon	15178
+Somalia Disaster Management Agency	15093
 South Africa. Disability	12231
 State of Disaster	2307,10672
+Strengthen Local Financing Mechanisms for Disaster Risk	14935
 Strengthening Disaster Preparedness and Response	12241,839,15
 System DRR Disaster Risk Reduction NMHS	13729
 Tabulation and Disaggregation	12972
@@ -551,14 +606,16 @@ Transport CLIMATE Climate Change and Disaster Screening	1867
 Type of Disability	2775
 Type of Disability and Sex	2775
 Uganda. Disability Stud Quarterly	12231
+Undisable Disable	15244
 Unit DR Disaster Recovery DTLT Desktop	13185
 United Disabled Persons of Kenya	12231
 United Nations Office for Disarmament Affairs	2117
-United Nations Office for Disaster Risk Reduction	13767,9
+United Nations Office for Disaster Risk Reduction	13767,9,1420
 Use of ICTs for Disaster and Climate Change Management	13295
 Use of Satellite Broadband for Disaster	3641
 VOLTA Disaggregation	582
 Variability Related Disaster	13813
+WITHOUT MEMBERS WITH DISABILITIES	15244
 War Disabled	3583
 War Veterans’ Grants Disability Grants	12373
 World Bank Disability Inclusion and Accountability Framework	13331
@@ -568,6 +625,7 @@ World Health Organization Disability Assessment Schedule	14622
 XIII. PARTICIPATION OF PERSONS WITH DISABILITIES	12201
 YOUTH AND PERSONS WITH DISABILITIES	11986
 Youth CRI Disaggregated	10768
+Youth Neet Disability Interval Child Labor	15244
 ZHSF. The Disaster Management Commission	11133
 Zambia Disability Survey	13389
 Zambia’s Disaster Management and Mitigation Unit	13332

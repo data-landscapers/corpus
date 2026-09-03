@@ -2,12 +2,15 @@ A. Marriage	14714,1
 Accra Marriott Hotel	10117
 Age Specific Marriage Rates	12413
 B. Marriage	14714
+Birth Death Marriage Divorces Cause	15056
 Birth Registration Marriage Registration Death Registration	10814
 CIVIL MARRIAGES	14753
 Child Marriage	10829,1359
 Child Marriage and FGM	12188
 Civil Marriage	14714,1
 Committee Dr. Maledh Marrakchi University of Manouba	2958
+Community Community Marriages Registered Men25-29 Women21-24	15056
+Crude Marriage	15056
 Crude Marriage Rate	12367,272
 Crude Marriage Rate CNR	12639
 Customary Marriage	12226
@@ -16,18 +19,24 @@ Deaths and Marriages	12367
 Deaths and Marriages Strategic Objective	13005
 Declare Marriage	12226
 Déclaration de Marrakech	4264
+ERR Jebel Marra	15342
 Economic Impacts of Child Marriage	12188
 Elena Fabrichnaya and Alexander Marrow	4127
-First Marriage	13454
+First Marriage	13454,1793
 Forced Marriage	9766
 GISAGARA Registered Marriage NYARUGURU	12413
 IDs. Marriage	9696
+Jabal Marra Garb Rural	15244
+Jabal Marra Wasat	15244
 Journal of Development Marriage	12138
 Kigali Marriott Hotel	9760,35,517,2058
+Legend Registered Marriage	15056
 M F Marital Status Single Married	14740
 MARRIAGE AND DIVORCE FACT SHEET.pdf	12471
-MARRIAGE AND SEXUAL ACTIVITY	13454
+MARRIAGE AND SEXUAL ACTIVITY	13454,1793
 MARRIAGE REGISTRATION In Namibia	12337
+MARRIAGE STATISTICS	15056
+MARRIAGE STATISTICS Key	15056
 MARRIAGE Sub-Part	14714,1
 MARRIAGES AND DEATHS	12898
 MARRIAGES AND DIVORCES	13644
@@ -35,7 +44,8 @@ MARRUECOS	4209
 Malawi and Certificates of Marriage Registration. Through	12291
 Male Female Both Sexes Ever Married	14815
 Marracuene	2816,7403,2574,22
-Marrakech	2068,190,457,2,284,2301,306,126,26,12,5,20,3,30,48,889,528,1596,765,2644
+Marrakech	2068,190,457,2,284,2301,306,126,26,12,5,20,3,30,48,889,528,1596,765,2644,2820
+Marrakech Action Plan for Statistics MDA	14857
 Marrakech-Safi	1244,1757,2629,3261
 Marrakech-safi	1244
 Marrakech. As Africa	2577
@@ -46,7 +56,7 @@ Marrakesh Treaty Ratification	11935
 Marrakesh Treaty Signing	11935
 Marrakesh Treaty The Republic of Niger	10358
 Marrella	9237
-Marriage	2072,3461,1698,3581,1174,152,88,15,86,10,1,29,46,58,25,143,16,350,75,15,10,48,491,304,97,669,1
+Marriage	2072,3461,1698,3581,1174,152,88,15,86,10,1,29,46,58,25,143,16,350,75,15,10,48,491,304,97,669,1,190,21,130,191
 Marriage Act	1,2830,2702,5232,10,402,809,341,10,30,166,106,9,311,25
 Marriage Act Chapter	12449
 Marriage Adoption	12327
@@ -55,8 +65,9 @@ Marriage Certificate	12291,2471
 Marriage Certificate No	14713
 Marriage Certificates Available Fees	14045
 Marriage Records	12334
+Marriage Regime Count Percentage Community	15056
 Marriage Register	12367,272,320
-Marriage Registration	13095,359,683
+Marriage Registration	13095,359,683,1110
 Marriage Registration Software	13080,15
 Marriage Registration Supported	12241
 Marriage Registration System	12241,839
@@ -70,11 +81,12 @@ Marriage and Death	12367
 Marriage and Death Registration Act	12959
 Marriage-related	10130
 MarriageCertificateFormKenya.pdf	12138
-Marriages	1,5532,6453,152,189,10,1,29,46,259,298,428
+Marriages	1,5532,6453,152,189,10,1,29,46,259,298,428,1658
 Marriages Act	12367,572,452
+Marriages Death	15056
 Marriages Marriage	12639
 Marriages Policy	5533,6453
-Marriages Registered	12533
+Marriages Registered	12533,2523
 Marriages Table M01	12367
 Marriages and Deaths	1,5532,6453,381
 Marriages and Deaths Act	12337,816
@@ -85,6 +97,7 @@ Married	1219,11008,156
 Married Marital	12151
 Married Persons Property Act	12533,64
 Married Separated Widowed Never Married	12978
+Marriot Hotel-Kigali	14869
 Marriott Hotel	11968
 Marrocos	2816,8753,124
 Marromeu	12201
@@ -93,6 +106,7 @@ Marruecos ELKADDOURI	6613
 Marrufo	2816
 Marrupa	2989
 Marry Me	2626
+NISR Marriage	15056
 NYANZA KIREHE NYAMAGABE RUSIZI HUYE Marriage2024	12413
 Never Married	12383
 Online Birth Certificate and Marriage Certificate. Public	14750
@@ -111,7 +125,8 @@ Recognition of Certain Marriages Act The Registrar	12959
 Recognition of Customary Marriages Act	5533,5644,809
 Refugees Married	12227
 Registered Births. Deaths and Marriages	12413
-Registered Marriages	12413
+Registered Marriage	15056
+Registered Marriages	12413,2643
 Registrar of Marriages	12290
 Registrar of Marriages Ends Manual Printing of Certificates	12290
 Registrar of Marriages. Under the Marriage	13105
@@ -126,5 +141,5 @@ TRANSITION OF THE MARRIAGE AND DIVORCE	13105
 Tatiana Marrufo	2816
 Types of Registered Marriages	13644
 Underage Marriage and Other Harmful Traditional Practices	14011
-Year Births Deaths Marriages	12413
+Year Births Deaths Marriages	12413,2643
 Year of Marriage	14713

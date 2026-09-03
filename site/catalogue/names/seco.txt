@@ -14,6 +14,7 @@ Accident PGES DATA SECONDAIRE Mesures	14488
 Act. SECOND SCHEDULE	13416
 AdX. Second	13461
 Adequate Resources In the Ministry of Primary and Secondary	13310
+Administrative Unit Secondary Sampling Units	15244
 African Countries Second	6938
 African Payment Systems Second	6938
 African Union’s Second Decade of Education for Africa	13310
@@ -26,6 +27,7 @@ Aucun Primaire Secondaire	13300
 Aucun Primaire Secondaire Supérieur S3Q08 Selon	6959
 Automated Inspection for Second-Hand Vehicle Imports	13042
 B Matutura New Secondary School	13046
+Basic and Secondary Education	14958
 Bauchi North East Secondary	11857
 Board of Management of Uhuru Secondary School	14460
 Body SECOND NATIONAL STRATEGY	13343
@@ -77,6 +79,7 @@ Description Second	552,299,429
 Digital Video Broadcasting Second Generation Terrestrial	6946
 Dikgatlho Junior Secondary School	12635
 Dingana PGES DATA CENTER SECONDAIRE Fiatraikan’ny	14488
+Diploma Bachelor’s Degree GEN. SECONDARY EDUCATION	14896
 Director of Secondary Education	5802,7834
 Diversidade Alimentar Mínima Gotas de Sangue Seco	10777
 Doomun Ramsoomer Balgobin Government School Second	14745
@@ -91,7 +94,7 @@ Ecosystem Coordination Secondary	11138
 Educational Qualification Functional Title Secondary Address	11129
 Egypt's Second National Financial Inclusion Strategy	9624
 Enfants PGES DATA CENTER SECONDAIRE FAMINTINANA	14488
-Enseignement Secondaire	3396
+Enseignement Secondaire	3396,11453
 Eritrean Secondary Education Certificate Examinations GER	13960
 Eswatini General Certificate of Secondary Education	12975
 Eswatini's Second National Financial Inclusion	12444
@@ -99,6 +102,7 @@ Ethiopia Djibouti Second Power Interconnection Project	13893
 FIRST AND SECOND RESPONDENTS CASE	13493
 FIRST SCHEDULE SECOND SCHEDULE	14720,89
 FIRST SCHEDULE SECOND SCHEDULE THIRD SCHEDULE	14713,4
+FMS Region Primary Secondary Private Publicly	14896
 Farming Primary and Secondary	11857
 Farming Secondary School	11857
 Femme Homme Femme Secondaire	10875
@@ -118,6 +122,7 @@ Free Secondary Education	13122
 Free Secondary Education Programme	7695
 G Second	1818
 G Second Generation	6671,6675
+G Second Generation GSM GII Gender	14897
 G Second Generation Network	2775
 G Second Generation Telephone Wireless Technology	11857
 G Second-generation HD High	14723
@@ -132,6 +137,7 @@ Ghana. Secondly	8776
 Githurai Mixed Secondary School	10313
 Goseta Boys Secondary School	10313
 Government Second-Level Domain	4690
+Gross Enrolment Ratio for Basic and Secondary Education	14958
 Gross Secondary Market Statistics	2775
 Growth of Eswatini PRIMARY SOCIETAL OUTPUTS SECONDARY	11131
 HELD SECONDARY	5618
@@ -139,6 +145,7 @@ HSD Secondary	12253
 Hall De Duine Secondary School Nakambale	13046
 Health Centre Primary and Secondary Schools	11857
 Hemlata Sadhna Sewraj-Gopal Second Deputy Governor	14744
+High Secondary Stage	15244
 Hon. Second Deputy Speaker	13387
 Hon. Second Member for Rivière des Anguilles and Souillac	14753
 Hospital Primary and Secondary School	11857
@@ -245,6 +252,7 @@ Naivasha Girls’ Secondary School	10313
 Namibia Second National Development Plan	12325
 Namibia's Second National Biodiversity Strategy and Action	9353
 National Examinations. The Secondary	13310
+National Strategy for Sustainable Graduation NST2 Second	15138
 Natural Resources. E. Secondment	12977
 Ngala Memorial Girls Secondary School	10313
 Ngao Girls Secondary School	10313
@@ -332,6 +340,7 @@ Primaire Secondaire Agriculture	10875
 Primaire Secondaire Supérieur S5Q01 Concernant	6959
 Primary Education KCSE Kenya Certificate of Secondary	2775
 Primary School Elia Neromba Secondary School	13046
+Primary Secondary	14896
 Primary Secondary Businesses	14098
 Primary Secondary Post	12410
 Primary Secondary Tertiary	10980,3835
@@ -339,6 +348,7 @@ Primary and Secondary	958,10899,1265,188,681,754
 Primary and Secondary Education	2989,8918,1007,396,160,166
 Primary and Secondary Education Minister Torerai Moyo	9396
 Primary and Secondary Education of Zimbabwe	13562
+Primary and Secondary School Attendance	15247
 Primary and Secondary Schools	11956,1006,160,270
 Private Health Institutions Act SECOND SCHEDULE	7845
 Private Secondary Education Authority	14847
@@ -346,6 +356,8 @@ Project Management Second Steering Committee Meeting	13080
 Project Management Second Technical Committee Meeting	12241
 Project Steering Committee. Second	11965
 Préscolaire Primaire Postprimaire Secondaire Ensemble	737
+Public Publicly-supported Private Secondary	14896
+Public Publicly-supported Private Secondary Upper	14896
 Public Secondary Schools and Teachers Training Colleges	2775
 Puerto Seco de Ebebiyín	8554
 Puerto Seco de Ebibeyín	4209
@@ -366,12 +378,13 @@ SCHEDULES FIRST SCHEDULE Cybersecurity Services SECOND	587
 SECOND	798,845
 SECOND DEPUTY SPEAKER	13387
 SECOND DRAFT	12675
+SECOND ENVELOPE	15080
 SECOND MEETING OF THE SECOND	12607
 SECOND PARAGRAPH PROVIDE INSTRUCTIONS	13618
 SECOND PILLAR	3604
 SECOND QUARTER ENDING	6978
 SECOND QUARTER PERFOMANCE REPORT	12962
-SECOND SCHEDULE	587,2122,5136,5558,95,912,17,8,159,119,7,8,12,66,3,5
+SECOND SCHEDULE	587,2122,5136,5558,95,912,17,8,159,119,7,8,12,66,3,5,66
 SECOND SCHEDULE PRESCRIBED FORMS The Laws	12410
 SECOND SCHEDULE--Conduct	14594
 SECOND SCHEDULE-Prescribed	12410
@@ -385,6 +398,8 @@ SECONDAIRE Article	14488
 SECONDAIRE Impacts	14488
 SECONDARY EDUCATION	12975
 SECONDARY EDUCATION Mandate	12975
+SECONDARY LEVEL	14896
+SECONDARY MARKET In FY	15023
 SECONDARY TOOL Tool	11156
 SECOPE Ministry of Education	11916
 SECOPEP	11916
@@ -395,11 +410,12 @@ SLD Second Level Domain SMAM Singulate	2775
 SOMMAIRE PGES DATA CENTER SECONDAIRE I	14488
 SSS Second Runner Up Emmanuel Anquetil	14745
 Safe Secondary Schools	13392
+School High Secondary	15244
 SecOps	14255
 SecOps. The Academic Security Operation Center	11077
 Seco Umaro Baldé	11544
 Secod Schedule	736
-Second	14,110,612,53,110,37,60,165,51,202,270,19,111,14,1,159,108,21,6,34,150,52,8,94,131,234,63,69,154,63,21,176,104,26,48,54,112,112,64,234,16,117,100,67,13,6,143,22,66,90,231,116,87,94,146,111,47,102,52,117,23,111,49,144,70,28,103,52,72,158,48,8,55,3,32,7,153,80,86,71,91,138,31,40,23,3,40,94,21,8,66,12,1,96,10,13,57,17,26,65,110,22,77,90,3,48,3,9,24,23,99,19,2,26,71,76,67,47,2,23,22,166,4,16,109,99,68,320,16,4,20,23,280,107,19,125,26,1,165,22,95,31,76,34,2,3,6,1,26,28,52,74,8,1,21,21,10,12,107,5,9,5,10,11,5,78,26,8,18,46,24,88,57,11,60,200,21,90,20,27,11,10,1,14,13,3,42,42,59,2,48,32,9,89,40,44,72,55,23,71,68,58,188,104,215,12,21,11,21,26,20,7,7,3,66,71,117,219,136,124,74,89,49,60,7,169,90,7,50,25,81
+Second	14,110,612,53,110,37,60,165,51,202,270,19,111,14,1,159,108,21,6,34,150,52,8,94,131,234,63,69,154,63,21,176,104,26,48,54,112,112,64,234,16,117,100,67,13,6,143,22,66,90,231,116,87,94,146,111,47,102,52,117,23,111,49,144,70,28,103,52,72,158,48,8,55,3,32,7,153,80,86,71,91,138,31,40,23,3,40,94,21,8,66,12,1,96,10,13,57,17,26,65,110,22,77,90,3,48,3,9,24,23,99,19,2,26,71,76,67,47,2,23,22,166,4,16,109,99,68,320,16,4,20,23,280,107,19,125,26,1,165,22,95,31,76,34,2,3,6,1,26,28,52,74,8,1,21,21,10,12,107,5,9,5,10,11,5,78,26,8,18,46,24,88,57,11,60,200,21,90,20,27,11,10,1,14,13,3,42,42,59,2,48,32,9,89,40,44,72,55,23,71,68,58,188,104,215,12,21,11,21,26,20,7,7,3,66,71,117,219,136,124,74,89,49,60,7,169,90,7,50,25,81,68,25,10,65,30,29,67,37,77
 Second ASSAf Report	5246
 Second Additional Financing Republic of Congo LISUNGI	11924
 Second Angola Growth and Inclusion DPF Operation	11380
@@ -409,6 +425,7 @@ Second Botswana Strategy	12571,27
 Second Botswana Strategy for Development	9708
 Second CMM	1200
 Second Capacity Development Workshop	14090
+Second Category	15282
 Second Clasp	14760
 Second Class Air Mail	1220,10756
 Second Community Consultation	9914,1,77
@@ -419,15 +436,17 @@ Second Deputy Governor Matilda Asante-Asiedu	4905,3,6124
 Second Deputy Governor of BoG	10385
 Second Deputy Majority Whip	8896
 Second Deputy Prime Minister Jibril Abdirashid	9242
-Second Deputy Speaker	13387
+Second Deputy Speaker	13387,1683
 Second Deputy Speaker of Parliament	5219
 Second Division	4150
 Second Draft	14466,4
 Second Draft IMT Roadmap	7824
 Second Draft National Radio Frequency Plan	11259,3
 Second Draft and Secretariat	962
-Second Edition	969,8398,1866,421
-Second Envelope	13185
+Second ESO	15019
+Second Edition	969,8398,1866,421,3373
+Second Edition C. ADOPTED INTERNATIONAL STANDARDS	15027
+Second Envelope	13185,1895
 Second Financial Inclusion Strategy	5043
 Second Fiscal Management and Inclusive Growth Development	11905
 Second Fiscal Management and Resilient Growth Development	13756
@@ -463,7 +482,7 @@ Second Middle Fourth	11879
 Second Middle Fourth Ritchest	11879
 Second Ministerial Conference	2117
 Second Monitoring Committee Meeting	7512
-Second Mortality Assessment Survey MCCoD Medical	12413
+Second Mortality Assessment Survey MCCoD Medical	12413,2643
 Second Moyen	13300
 Second Moyen Quatrième	13300
 Second Nation Gender Plan of Action	12946
@@ -475,8 +494,8 @@ Second National GCM Progress Report	9838
 Second National Land Conference	13024
 Second National Land Conference. After the National	13024
 Second National Land Transport Regulations	11494
-Second National Strategy	13343,622
-Second National Strategy for Transformation	2998,7660,1745
+Second National Strategy	13343,622,1075
+Second National Strategy for Transformation	2998,7660,1745,2532,11,51,141,109
 Second National Strategy for Transformation. PPS	12403
 Second National Strategy for Transformation. Utilities	12403
 Second Optional Protocol	11765
@@ -502,7 +521,7 @@ Second SA	2523
 Second Sch	14720
 Second Sch. of Act	14716
 Second Schcdulc	11852
-Second Schedule	587,149,487,649,5,111,721,1037,4099,3944,62,125,434,233,664,4,6,86,13,68,14,108,804,12,5,8,159,123,2,1,8,2,2,3,5,3,63,3,5,29
+Second Schedule	587,149,487,649,5,111,721,1037,4099,3944,62,125,434,233,664,4,6,86,13,68,14,108,804,12,5,8,159,123,2,1,8,2,2,3,5,3,63,3,5,29,37
 Second Schedule Section	11976
 Second Schedule and Third Schedule	1223
 Second Schedule of Deeds Regulations	13251
@@ -512,6 +531,7 @@ Second Schedule. Application	587
 Second Schedule. Blocking	587
 Second Schedule. Changes	736
 Second Schedule. Cybersecurity	587
+Second Schedule. DECLARATION	14880
 Second Schedule. Non-transferability	587
 Second Schedule. PART II ADMINISTRATION	13403
 Second Schedule. Realisation of Property Freezing	587
@@ -520,6 +540,8 @@ Second Schedule. Withdrawal	587
 Second Sebastopol SSS Third Loreto College	14745
 Second Secretary	13042
 Second Seminar	8982,376
+Second Somali National Cybersecurity Forum	15120
+Second Somalia National Cybersecurity Forum	15120
 Second Stage	11240
 Second Steering Committee Meeting	13080
 Second Technical Meeting of IDT4M Project	12241
@@ -546,8 +568,9 @@ Secondaire Supérieur	737
 Secondaire Supérieur Milieu	737
 Secondaires Le Service des Le Service de Gestion	2342
 Secondaires Secteur Tertiaire Transverse Humaines Publiques	2342
-Secondary	582,207,211,9,8,615,186,129,12,29,1595,13,118,77,1074,24,236,621,686,316,579,542,17,415,308,514,352,284,1005,11,37,2,140,9,1,171,3,37,94,316,272,48,11,39,237,86,105,27,1,20,29,7,34,11,117,681,4,33,71,573,3,729,70,22,17,4
+Secondary	582,207,211,9,8,615,186,129,12,29,1595,13,118,77,1074,24,236,621,686,316,579,542,17,415,308,514,352,284,1005,11,37,2,140,9,1,171,3,37,94,316,272,48,11,39,237,86,105,27,1,20,29,7,34,11,117,681,4,33,71,573,3,729,70,22,17,4,15,28,17,1,19,6,75,141,68,41
 Secondary Cadre	12975
+Secondary Cities	15081
 Secondary Cities Program for Results	789
 Secondary DR Site	14761
 Secondary Data Center	12850
@@ -566,9 +589,11 @@ Secondary Election	13248
 Secondary Elections	13248
 Secondary Farming	11857
 Secondary GER	12199
+Secondary Gross Enrollment Ratio	14897
 Secondary Maghreb Info	7707
 Secondary Market	6938
 Secondary Net Enrolment Ratio	13991
+Secondary No	14896
 Secondary Packaging	9855
 Secondary Prime Word	12360
 Secondary Priority	11134
@@ -580,13 +605,15 @@ Secondary Ret Code	11180
 Secondary School	9014,2843,596,892,646
 Secondary School Data Challenge	5137
 Secondary School Habitat Centre AFM Parish	13046
+Secondary School TVET Technical and Vocational Education	14896
 Secondary School Teachers Using the Dig Comp	1154
 Secondary School Teachers Using the DigComp Tool	1554
-Secondary Schools	2775,736,8346,82,736,300,417,599,751
+Secondary Schools	2775,736,8346,82,736,300,417,599,751,193
 Secondary Schools Rightsizing Exercise	12975
 Secondary Schools and Teacher Training Colleges	13122
 Secondary Science	13392
 Secondary Spectrum Market	5245
+Secondary TPT	14896
 Secondary Transition Rate PSUT Physical Supply	2775
 Secondary Understanding AI	14566
 Secondary and Literacy Education	11897,10
@@ -597,7 +624,7 @@ Secondary-	11180
 Secondary1	12413
 Seconder	10313
 Seconding	9220
-Secondly	236,86,74,124,24,222,204,68,158,71,600,674,407,57,590,196,641,15,242,43,381,28,79,24,620,613,103,8,1393,41,560,165,382,1184,466,5,35,160,154,22,9,94,31,403,38,91,34,5,47,2,40,74,310,4,580,24,64,103,279,117,87,625,507,30
+Secondly	236,86,74,124,24,222,204,68,158,71,600,674,407,57,590,196,641,15,242,43,381,28,79,24,620,613,103,8,1393,41,560,165,382,1184,466,5,35,160,154,22,9,94,31,403,38,91,34,5,47,2,40,74,310,4,580,24,64,103,279,117,87,625,507,30,131,12,39,12,217
 Secondment	12977
 Secondment of Staff Review	14546
 Secondments	11182,1790
@@ -630,6 +657,8 @@ St. Peter’s Rambusi Secondary School	6946
 St. Thomas Aquinas Kalawa Boys Secondary	10313
 State and Private Secondary	14736
 Sub-Saharan Africa. Second	10819
+Submit Second Stage Combined Technical and Financial	15080
+Sudanese Digital Identity Second	15281
 Supply and Delivery of Secondary	13527
 Swaziland General Certificate of Secondary Education	12914
 Sweetbert John Nene of Alborz Secondary School	9014
@@ -638,6 +667,7 @@ TB Hack Claim Secondary	5146
 Targeted Primary and Secondary Schools	13378,14
 Taux Préscolaire Primaire Post Secondaire Nombre	737
 Teaching And Learning In Secondary	899
+Technical Secondary Schools	14922
 Technical Specifications of Fuel Fiscal Devices. Second	13606
 Thamani Junior Secondary School	12552
 Tmcel Telecommunications Network Second Expansion Financing	2161
@@ -646,8 +676,9 @@ Tshwaragano Junior Secondary School	12557
 UBEC and SECo	11860
 Uganda's SECOND National Financial Inclusion Strategy	1262
 Universities and Gambian Secondary Schools	1000
-Upper Secondary	12411
+Upper Secondary	12411,2645
 Upper Secondary NER	11918
+Upper Secondary University	15056
 Usakos Usakos Junior Secondary School Hall	13046
 VA for SMEs Primary Secondary	10980
 World Bank's Second Resilient and Sustainable Infrastructure	11918

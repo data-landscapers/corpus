@@ -1,7 +1,9 @@
 Africa. FinScope Eswatini	418
+BNR FinScope	14997
 Bank of Zambia FinScope	13347
 C.1 FinSurv Reporting System	8840
 Censo de Instituições Sem Fins Lucrativos	9441
+Consumer FinScope	15130
 Consumer and MSME FinScope	940
 DES FINS STATISTIQUES. Article	13707
 Entidades Sem Fins Lucrativos	2816
@@ -11,7 +13,11 @@ Eswatini FinScope Survey	418
 FINSCOPE	10711
 FINSCOPE SURVEY METHODOLOGY In Zambia	12409
 FINSCOPE-6	10779
-FinScope	418,522,660,6439,2740,186,1444,52,886,43,142
+FIS FinScope	15130
+FIS FinScope Digital Financial Services	15130
+FIS FinScope Reach	15130
+FinSOC	15023
+FinScope	418,522,660,6439,2740,186,1444,52,886,43,142,1465,45,88
 FinScope Cameroun	10965
 FinScope Consumer	940
 FinScope Consumer Survey	940,8409
@@ -28,9 +34,10 @@ FinScope MSME	940
 FinScope MSME Survey	940,5946
 FinScope MSME and Consumer	940
 FinScope MSME and Consumer Surveys	940
-FinScope Rwanda	12460
+FinScope RIPPS	14997
+FinScope Rwanda	12460,2537
 FinScope Stratégie	10965
-FinScope Survey	940,8409,3060,1123
+FinScope Survey	940,8409,3060,1123,1465
 FinScope Survey. The Concept Paper	11134
 FinScope Surveys	940,11469
 FinScope Tanzania	14399
@@ -42,10 +49,11 @@ FinSurv	8783,57,165,122,1325
 FinSurv Division’s Form G	11134
 FinSurv Reporting System	8840
 Fins Estatísticos	11425
-Finscope	10779,2567
+Finscope	10779,2567,1651,26
 Finscope Consumer Survey Report	9349
-Finscope Survey	1867
+Finscope Survey	1867,13130,26,107
 Finscope Survey Methodology	12409
+Finscope Surveys	15130
 Finscope Zambia	12376
 Finscope-MSME-2019-survey-Full-Report.pdf	12214
 Finserve	6671,1983
@@ -62,6 +70,8 @@ Launching the FinScope Eswatini	7802
 L’enquête FinScope	10965
 Malawi FinScope MSME Survey	12214
 Moçambique Censo de Instituições Sem Fins Lucrativos	9441
+NBR FinScope	15130
+NISR FinScope	14997
 Noruega FINSLAND	6613
 Operator Airtel Networks TKL Finserve JTL	6671
 Questioning Finsprint	8949

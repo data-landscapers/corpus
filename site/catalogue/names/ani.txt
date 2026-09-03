@@ -10,7 +10,7 @@ ANIMF	5835
 ANIMIS	13300
 ANIMIST	13300
 ANIMUSE	14622
-ANINF	1560,606,795,122,42,166,7,64,138,81,136,246,2166,28,622,23,16,1379,1638,2,1871,403
+ANINF	1560,606,795,122,42,166,7,64,138,81,136,246,2166,28,622,23,16,1379,1638,2,1871,403,3205
 ANINF Director General	3291
 ANINF Director General Alberto Mounguengui Moudoki	9837
 ANINF Tower	6779,23
@@ -45,8 +45,9 @@ Anikó Szigetvári	14388
 Anil Bachoo	14837
 Anil Kumar Dip	14753
 Anil Seeruttun	8392
-Animal	1988,787,6292,2118,1198,677,325,1237,44
+Animal	1988,787,6292,2118,1198,677,325,1237,44,361,91
 Animal Arcade	4049
+Animal Bites	15247
 Animal Disease Act	11188
 Animal Disease Notification Information System	14002
 Animal Disease Notification and Investigation System	8183
@@ -62,6 +63,7 @@ Animal Health and Livestock	12194
 Animal Identification Act	11188
 Animal Identification and Traceability System	11836
 Animal Rearing School	11857
+Animal Resources and Fishery MoFEP Ministry of Finance	15118
 Animal Science	12972
 Animal Welfare Honourable Members	14748
 Animals	11836
@@ -155,6 +157,7 @@ Madagascar. In Anivorano Est	14669
 Mauritius Society for Animal Welfare	14748
 Mayowa Anibaba	7907
 Michel Anihibié	3350
+Minister of Agriculture and Animal Resources	14869
 Minister of National Infrastructure Hon. Anil Kumar	14753,88
 Ms Anita Msumba	13280
 NDAYIRAGIJE Anicet	13390

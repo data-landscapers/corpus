@@ -57,7 +57,7 @@ DGI. Orientation Stratégique	10712
 DRIVER'S ORIGIN GATE MUST	5240
 Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
 Demonstração da Orientação	11430
-Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136
+Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128
 Didier Bompangue. Originally	14666
 Diário Económico Original	8407,300,1648,115,1121,131
 Diário Económico. Original	10139
@@ -112,6 +112,7 @@ Kontaktu. ORIENTAÇÕES PARA PAGAMENTO SIMPLIFICADO	11532
 Kwale County Commissioner Stephen Orinde	8214
 LA GRAL. DE DELEGACION ORIENTE AMERICA	4209
 LIST OF ORIGNATING GOODS	14816
+Landinfo Country of Origin Information Centre Fredrik	14905
 Language English Original	14410,12,27
 Language English Type Legal Notice Original	14435,93
 Les Trois Grandes Orientations Politiques	14529
@@ -119,7 +120,7 @@ Local de Origem	11460
 MATERIAL CHANGES SINCE THE ORIGINAL PRE-LISTING	5538
 MDA. VI. ORIENTATION STRATEGIQUE VI.1. Schéma	13341
 MENER PERIODE DE SPECIFIQUES REALISATION ORIENTATION	10712
-MPA Program Development Objective Original MPA	2712,3867
+MPA Program Development Objective Original MPA	2712,3867,8580
 Magistrado Orientador	6462
 Mandritra Orinasa	14488,1
 Mandritrany Orinasa	14490
@@ -142,7 +143,7 @@ National Orientation Agency	7141,3,1407,2578,737
 National Security Adviser OEM Original Equipment	11857
 Nigeria's Minister of Information and National Orientation	7144
 Novotel Orisha Cotonou	5981
-OBJECTIVE Original Development Objective	13859,51,7
+OBJECTIVE Original Development Objective	13859,51,7,1100
 ORIENTACIÓN	4209
 ORIENTADORES Artigo	15
 ORIENTAL Energy	2738
@@ -162,11 +163,11 @@ ORIGIN FOR ZERO-TARIFF TREATMENT	14816
 ORIGIN GATE IS PRINTED	1795,1413,3881
 ORIGIN THE CORRECTION PROPAGATES	9144
 ORIGINADAS	11531,43
-ORIGINAL	1638,169,9748,1126,356,148,255,84
+ORIGINAL	1638,169,9748,1126,356,148,255,84,1329,3,224
 ORIGINAL AND REVISED BUDGET	14736
 ORIGINAL BID	13185,342,1239
 ORIGINAL IDENTITY CARD	14740
-ORIGINAL PROPOSAL	7951
+ORIGINAL PROPOSAL	7951,7129
 ORIGINAL RESEARCH	12003,243
 ORIGINATING	3862
 ORIGINATING GOODS EXPORTED FROM THE REPUBLIC	14816
@@ -186,7 +187,7 @@ Oriental Consultants Global Co	3054
 Oriental Energy SAU	3191
 Oriental. Dans	8891
 Orientar	13,1688,9672,8,1,53
-Orientation	1988,1408,3563,1310,2131,502,63,979,29,70,650,682,249,12,224,558,12
+Orientation	1988,1408,3563,1310,2131,502,63,979,29,70,650,682,249,12,224,558,12,734
 Orientation Agricole	2342
 Orientation Agricole. Institué	2342
 Orientation Index ASAL Arid and Semi-Arid Lands	2775
@@ -203,9 +204,9 @@ Orientações da International Data Corporation	2816
 Oriente	13846
 Orienter	13390
 Orientou	10751
-Orig. Closing	11375,1683
+Orig. Closing	11375,1683,2101
 Origem	2138,1283,8110
-Origin	1,21,69,19,5,27,6,16,68,1,1,174,289,49,219,54,112,24,28,84,18,1,8,1,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,4,99,41,51,135,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,72,6,1,4,1,2,12,7,6,1,1,1,3,13,39,23,30,30,1,1,1,1,1,1,1,15,21,14,1,11,3,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,13,1,170,9,1,226,159,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,13,95,360,1,16,4,1,2,17,1,1,1,1,1,1,1,2,35,118,10,46,28,196,33,37,116,42,6,19,2,133,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,75,53,1,1,1,1,1,1,1,23,120,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,49,1,11,1,4,1,1,1,23,1,1,1,64,2,2,2,21,1,47,12,37,4,31,88,40,120,206,68,207,127,54,32,48,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,160,189,42,23,11,33,34,440,326,4,1,2,27,40,103,78,110,89,661,166,18,1,106,174,69,82,15,8,47,6,93,70,39,10,28,11,24,2,44,3,3,3,52,1,21,1,1,19,24,35,84,11,294,143,540,76,592,190,5,4,44,1,7,8,1,1,1,1,1,1,85,2,11,408,699,629,9,512,416
+Origin	1,21,69,19,5,27,6,16,68,1,1,174,289,49,219,54,112,24,28,84,18,1,8,1,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,4,99,41,51,135,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,72,6,1,4,1,2,12,7,6,1,1,1,3,13,39,23,30,30,1,1,1,1,1,1,1,15,21,14,1,11,3,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,13,1,170,9,1,226,159,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,13,95,360,1,16,4,1,2,17,1,1,1,1,1,1,1,2,35,118,10,46,28,196,33,37,116,42,6,19,2,133,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,75,53,1,1,1,1,1,1,1,23,120,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,49,1,11,1,4,1,1,1,23,1,1,1,64,2,2,2,21,1,47,12,37,4,31,88,40,120,206,68,207,127,54,32,48,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,160,189,42,23,11,33,34,440,326,4,1,2,27,40,103,78,110,89,661,166,18,1,106,174,69,82,15,8,47,6,93,70,39,10,28,11,24,2,44,3,3,3,52,1,21,1,1,19,24,35,84,11,294,143,540,76,592,190,5,4,44,1,7,8,1,1,1,1,1,1,85,2,11,408,699,629,9,512,416,1048,37
 Origin Destination Booking	13042
 Origin Story Challenge	12000
 Origin URL	7323
@@ -214,7 +215,8 @@ Origin of Fundraising Domestic Investors Anchor African	4972
 Origin of Software	3787
 Origin1	2775
 Originaire du Togo	14712
-Original	28,6,5,72,35,155,11,91,181,182,10,177,263,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2
+Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21
+Original Allocation	14971
 Original Birth Certificate	11282,1055
 Original Budget Revised Budget Actual Received	14736
 Original Budget Revised Budget MUR MUR	14736
@@ -225,14 +227,14 @@ Original Clinic Card	11282
 Original Closing	6833,6889
 Original Closing Date	12980
 Original Design Manufacturer	12264
-Original Development Objective	4653,8071,1829
+Original Development Objective	4653,8071,1829,332,71,10
 Original Document	14784
 Original Draft-Equal	8436
 Original Draft-Lead	8436
 Original Draft-Supporting	8436
 Original EUR	49,129,1,157,47,1,71,1,1,1,45,1,110,1,1,1,55,20,1,1,1,1,127,1,1,1,1,1,58,14,1,1,1,1,147,1,1,79,289,1,1,1,1,1,1,103,1,1,1,609,1,76,1,2240
 Original Equipment	14674
-Original Equipment Manufacturer	10721,488,2032
+Original Equipment Manufacturer	10721,488,2032,1839
 Original Equipment Manufacturers	5245,5476,494,2975
 Original Estimation	2473,9492
 Original ICPS	84
@@ -242,11 +244,14 @@ Original Language	9892,1
 Original Objective	11891
 Original PAD	12780
 Original PDO	1228
+Original PROPOSAL	15080
 Original Paper	7810,156
 Original Performance Information for Programme	11218
 Original Pre-Listing Statement	5538
 Original Procurement Plan	13017
+Original Project	14971
 Original Project Amount US	14010
+Original Proposal	15080
 Original Research	8130,998,1,108
 Original Research Anonymity	9129
 Original Research Ethical	9237
@@ -277,9 +282,9 @@ Originating Summons	11993
 Originator	12025,339
 Originators	12025
 Originação	11531
-Origine	10875,2649
+Origine	10875,2649,1503
 Origines	9406
-Origins	2107,1693,8225
+Origins	2107,1693,8225,3039
 Origins and Foundation	13532
 Origins and Purpose	12025
 Origins of State Capacity	13624
@@ -296,7 +301,7 @@ Orisation. Nevertheless	11517
 Orit Abebe	12195
 PAGAMENTO ORIENTAÇÕES PARA PAGAMENTO SIMPLIFICADO	11532
 PMU Lisungi DEVELOPMENT OBJECTIVE Original Development	11924
-POLICY ORIENTATION	12419
+POLICY ORIENTATION	12419,2468
 POSAF ORIENTATION STRATÉGIQUE N	10712
 PROPOSITION ORIGINALE	5983,7572,943
 Partners Origin	13051
@@ -323,6 +328,7 @@ RUN Studios. Original	1038
 Refugee Country of Origin	10841
 Regulatory Authority CIO Information and Orientation Centre	13731
 Results Framework Original	2889
+Revised Indicator Original Target Page	15138
 Rodrigo Orihuela and Donal Griffin	7343
 Rules of Origin	9242,4321,575
 Rules of Origin The EU	14628
@@ -340,6 +346,7 @@ Service Oriented Architecture	11371
 Services Oriented Architecture	11371
 Serviços Orientados	11394
 Ses Hautes Orientations	8891
+Social Risk Rating Moderate Moderate Original	15138
 Social SOGI Sexual Orientation and Gender Identity	11413
 South Africa. Originally	7635
 South African Journal of Information Management Original	9128,1,108

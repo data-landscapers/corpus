@@ -37,6 +37,7 @@ Bucher T	8460
 C L I M A T	11586
 C O U N T R	11157
 C T Frolick	11272
+C T R P P	14947
 C. T. Lundblad	11310
 CATHRINE T. NENGOMASHA	12325
 CF T CCI	12701
@@ -53,6 +54,7 @@ Cohen T	10784
 Components RESULT FRAME T BL IO DLI Baseline	11855
 Conclusion T	4127
 Cullen T. OpenMRS	12379
+D E C E N T	14935
 D E C R E T	1231,13183,4
 D E N T REPRESENTATIVE	11586
 D I G I T	11586
@@ -75,7 +77,7 @@ E A C T	11586
 E F R O M T	11586
 E I E I T	11522
 E I T D	11522
-E N T	11527,1147
+E N T	11527,1147,2406
 E N T I D ITEM	582
 E N T L I V	11586
 E N T M CONSENTEMENT	13300
@@ -125,6 +127,7 @@ Honourable Dr. George T. Chaponda	13156
 Honourable Petrus. T Damaseb	12920
 Honourable T. Mavetera	13673
 Hunnicutt T. Trump	7187
+I C T Operator	15136
 I C T R A N	11586
 I E D R IT T	582
 I M P A C T	11586
@@ -142,6 +145,7 @@ ING T	11862
 INTRODUCTION T	11271
 ITU- T	3604
 IU S S T A N	14736
+Information and T	15064
 Instance Nationale des T	1818
 Interoperability T	11994
 Ishchuk T	10780
@@ -168,6 +172,7 @@ Lorenzo T	12231
 Louise T Lawn	10878
 M A U R I T	14736
 M E N T B	13938
+M I N I S T	14879
 M. T	8605,2525,794
 M. T. Etienne	11140
 M.2057 L B T	736
@@ -203,8 +208,10 @@ N O T E S	12948
 N S E N T	13300
 N T ABSENT	13300
 N T ABSENTE	13300
+N T E M	14947
 N T ENCERCLEZ LE ACCORDÉ	13300
 N T Ethiopia Tax Administration Diagnostic	12500
+N T R A L	14935
 NPRS. T	12327
 Name Dr. T. Matekaire Dr. T	2779
 Namibia T	12232
@@ -233,6 +240,7 @@ Pia T	9491
 Product Offerings Jessica T. Naga Chief	14819
 Prof. I. D. T. Mpofu	1554
 Project Development Objective Indicators RESULT FRAME T BL	11855
+QUE CT UE T AURE QUEST	14849
 R A T I C RWANDA	11900
 R E D I T	13068
 R T C	12373
@@ -247,8 +255,11 @@ Rich T	11879
 Rob T. Lee	8702
 République du Bénin T	10712
 S C I T S	11236
+S E C T O R	14935
 S I T Y A N	11586
+S T A N D	15080
 S T A T E M	12674
+S T M IN I S	14947
 S. T	6832
 SEULEMEN PLUS D'UNE T UNE NAISSANCE	13300
 SEULEMEN PLUS D’UNE T UNE FOIS	13300
@@ -268,6 +279,8 @@ Smart Rwanda Master Plan TCP T	12359
 Sociétés Anonymes I T	11522
 South Africa T	12232
 Special Support Unit T	14760
+Sustainable Development Goals T TV	14879
+T A B L E G	14935
 T A O S R W	2776
 T ADAMON A MO T NS	8891
 T AND SCORING METHOD FIGURE	11156
@@ -279,7 +292,11 @@ T Birth	12327
 T CONSENTEMENT	13300
 T Carnie	14673
 T Citizenship	12327
+T D O C U M	15080
+T Description	15129
 T Dotan	14673
+T E C H N	14879
+T E L E C	14879
 T ENERGY REGULATORY AUT H	12969
 T ESWATINI AN ACT ENTITLED	12938
 T ET SIGNEZ	13300
@@ -298,13 +315,17 @@ T I N G B	11586
 T I O N	11586,1482
 T ID	12327
 T INTERFÈRE AVEC LES FONCTIONS NORMALES	13300
+T IO N	14935
 T Identity	12327
 T Individuals	12327
 T Institutions	13390
 T Internet of Things AU African Union	6936
+T JchK	15236
 T Kabo Link	11129
 T Katehwe Ms. I. M	1554
 T Letsoalo	11289
+T M IG E P R	14947
+T M IN A L	14947
 T Maluleka-Disemelo	14455
 T Marital	12327
 T Ministry of Finance	12327
@@ -346,6 +367,7 @@ T Statistics Namibia Population System	12327
 T Systems	4434
 T T T	13390
 T TA	13390
+T TELECOMMUNICATION	14879
 T TH E H ST AFO	2776
 T The Child Care and Protection Act	12327
 T The Directorate of National Registration	12327

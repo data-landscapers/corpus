@@ -34,6 +34,7 @@ Albert Ndinabé	5856
 Albert Ndwiga	9855
 Alberto Ndong Obiang Lima	7100
 All NDGC	3861
+Alvin Etang Ndip	15064
 Amata Ndiaye	14638
 Ambassador Bitange Ndemo	12104
 Aminata Ndiaye Niang	4179
@@ -43,6 +44,7 @@ Andiswa Ndlovu and Lungelo Maziya	13072
 Annex III. Timeseries NDVI	10763
 Annexe D NDUWAYEZU Esperance NSENGIYUMVA J	13300
 Antoinette NDAYEGAMIYE Patrick ANALYSE DU VIH	13300
+Antony Ndubi	15129
 Applicable NDP National Development	12923
 Arc NDUWIMANA Claudine NSHIMIRIMANA Jacqueline NDUWIMANA	13300
 Armel Ndoumba. L'attestation	2854
@@ -55,6 +57,7 @@ Audace Ndayishimiye	3560
 Authors Ndekazi Botha The University of Zambia	12467
 Avatar of NdangiKanime	12478
 Average NDVI	10763
+BANKS MFIs NDFSPs SACCOs	15130
 BIGIRIMANA Jean Marie NDUWIMANA Benjamin BIHAYI	13300
 BUDGET SPEECH Ndaba Nkosinathi Gaolathe Minister	12588
 Babacar Charles NDOYE Directeur Général	11034
@@ -137,6 +140,7 @@ DEMBELE Etienne Dr NDAYISHIMIYE David	13300
 DGPN Mame Seydou Ndour	4960
 DUBAI NDOGO AUTO GARAGE LIMITED Data	7167
 Dakar. M. Bara Ndao	7822
+Damien Ndizeye	15042
 Daniel Gélase Ndabirabe. L’invitée	13515
 Daniel Gélase Ndabirabe. Pour	6742
 Data Processor of Major Importance. The NDPC	11763
@@ -205,6 +209,7 @@ Excellency Mr. Evariste Ndayishimiye	13440
 Executive The NDGC	3861
 Expanding Regulatory Landscape While the NDPA	9877
 Expenditure Framework NDP National Development Plan	1988
+FAO and NDISO	15129
 FNB's Meshack Ndwandwe	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 FSDEB ND ND ND	10847
 Fatou Ndiaye	417
@@ -215,6 +220,7 @@ Fifth National Development Plan NDP5	12921
 Filing of NDP Act Compliance Audit Returns	11956
 Finance Minister Ndaba Gaolathe	2736,2753,7100
 Finance NDMA	7548
+Finance and Economic Planning Dr. Uzziel NDAGIJIMANA	14871
 Finances Hervé Ndoba	4249
 Food for Work Project The NDMA	12977
 Framework NASP National Strategic Plan NDP	11224
@@ -278,6 +284,7 @@ IXP KPI MDA NCG NCTG NDIAF	10157
 Identifier MPQ NDoH Integrating the Healthcare Enterprise	1009
 Ile IWAWA Ndaro	12413
 Impact Investment NDP National Development Plan	12376
+Implement the NDSF	14915
 Industry and Commerce Minister Mangaliso Ndlovu	13601
 Infiniband NDR	11471
 Infiniband NDR Installation Year	11471
@@ -423,12 +430,14 @@ Millennium Development Goals NDCN	13033
 Mining Qualifications Authority NDFSS	6832
 Minister NDAGIJIMANA	770,21
 Minister NDIKUMANA	6044
+Minister Ndagijimana	14873
 Minister Stella Ndabeni-Abrahams	8458
 Minister of Finance Ndaba Gaolathe	3869
 Ministre Dr Alain NDIKUMANA	4363
 Ministre des Finances Hervé NDOBA	1300
 Ministry of Finance's NDP	3847
 Ministry of Health and Childcare NDC Nationally Determined	970
+Ministry of ICT and Innovation NDSF	14915
 Ministère NDP	11905
 Mlle Dally Reine Ndoricimpa	13547
 Mme Aminata Ndiaye Niang	2441
@@ -458,6 +467,7 @@ Mozambique’s NDGC	3861
 Mpamba. Ndikankhe	12315
 Mpolonjeni Ndzangu	12977
 Mpumalanga Province NDoH	11252
+Mr. John Ndanyuzwe	15019
 Mr. Makha Ndao	13310
 Mr. Ndaudika Mulundileni	13048
 Mr. Ndiaye Diouf Head of Department	5680
@@ -495,12 +505,13 @@ NDABA NKOSINATHI GAOLATHE	5687
 NDACAYISABA Egide NDAYIKEJE Daphrose NDAYIKENGURUKIYE Deo	13300
 NDAGERAMIWEThierry	13390
 NDAGIJIMANA Fidèle BIZIMANA Raphaël NSABERUGIRA Vénuste	13300
-NDAGIJIMANA Valens	12413
+NDAGIJIMANA Valens	12413,2643
 NDAKIZE Michel	12413
 NDARS	4301
 NDASC	3751
 NDAYAHOZE Triphine BARANYIZIGIYE Majoric NDORERE J	13300
 NDAYAMBAJE Jean Bosco	12413
+NDAYAMBAJE Jean Bosco- MoH	15056
 NDAYIRAGIJE Anicet	13390
 NDAYIRAGIJE Claver NDAYISABA Gervais NDAYISABA Spes	13300
 NDAYIRAGIJE Fulgence	13390
@@ -526,8 +537,10 @@ NDC Ministry of Youth	11905
 NDC Nationally Determined Contribution	11965
 NDC Nationally Determined Contribution NDP National	11549
 NDC Nationally Determined Contribution NDTS National	3604
+NDC Nationally Determined Contribution NEP Net	14997
 NDC Nationally Determined Contribution NGAO National	12256
 NDC Nationally Determined Contribution NPV Net	1264
+NDC Nationally Determined Contributions	14947
 NDC Partnership Action Fund and United Nations	11134
 NDC Tracking	3430
 NDCMP	14742
@@ -537,7 +550,12 @@ NDEMRI	11140
 NDEPS	3456,1789
 NDERAGAKURA Janvier	13341
 NDERAGAKURA Janvier Informaticien Conseiller Régie Nationale	13341
+NDFIs	15023
+NDFIs Non Deposit Financial Institutions NDTFSPs	15023
 NDFS Nutanix Distributed File System NDMP	13185
+NDFSP	15023
+NDFSP Table	15023
+NDFSPs	15023,107
 NDFSS	6832
 NDGC Appointed CDOs	3861
 NDGC Circular	3861
@@ -612,6 +630,7 @@ NDIZEYE Abediere	13390
 NDJAMENA	4209
 NDLEA	11928
 NDLIS	11954
+NDMA Chairman Mahmoud Moallim Abdulle	15070
 NDMA County Drought	14516
 NDMA GICTA	1000
 NDMA PIU	14516
@@ -648,6 +667,7 @@ NDP III. Charles	8969
 NDP IV	6786,3,1680,1740
 NDP M&E	12962
 NDP Monitoring and Evaluation Framework	12962
+NDP National Development Plan	14929
 NDP National Development Plan NEGP National	13345
 NDP National Development Plan WEGE Women	11193
 NDP Performance Indicators	12551
@@ -658,6 +678,7 @@ NDP and Congo Vision	11905
 NDP of ICT	1953
 NDP of Zambia. Available	12376
 NDP-12	12623
+NDP-9-2020-2024.pdf Table	14965
 NDP-ACT-GAID-2025-MARCH-20TH.pdf	4590
 NDP. Nuclear	11272
 NDP. While the SCT	13332
@@ -746,7 +767,7 @@ NDT Concrete. The CEL	14736
 NDT Laboratory	14736
 NDTC Chief Executive Officer	13108
 NDTFI	13532
-NDTFIs	13532
+NDTFIs	13532,1491
 NDTS and Economic Community of West African States	3604
 NDTS. For the Phase	3604
 NDTV Profit	9640
@@ -785,7 +806,9 @@ Namibia's NDP	644
 Namibia's National Digital Strategy and NDP6	11681
 National Action Plan for Health Security NDP	10776
 National Artificial Intelligence Strategy NDS1 National	12512
+National Child Development Agency NDC Nationally	15138
 National Commissioner and CEO of NDPC	4937
+National Communications Authority NDC	14879
 National Development Plan NDS National Development	12962
 National Development Strategy NDS	13320,167
 National Health Insurance NDoH Non-patient File	1009
@@ -793,6 +816,7 @@ National Identification and Registration Bill NDP National	5533
 National Migration Policy. Ndumbeh Saho	9838
 National NDS	10965
 Nationally Determined Contribution NDE New Digital	2775
+Nd Published	15075
 Ndaba Gaolathe	3729,2060,4927,1868,50
 Ndaba Nkosinathi Gaolathe Minister of Finance	12598
 Ndabeni-Abrahams	8458
@@ -801,6 +825,7 @@ Ndacayisaba	2296
 Ndadaye	13405
 Ndaga Muntu	3572,1681,5143
 Ndaga Muntu ID	4443
+Ndagijimana	14873
 Ndagire	9980
 Ndahimana R	10784
 Ndaki	5416
@@ -837,6 +862,8 @@ Ndayizigiye. C’est	13530
 Ndebele	3385,2794,614,1690,946,1751,161,2308
 Ndebele Sign	9429
 Ndegwa	4152,826,603,1986,2402
+Ndejje	15164
+Ndejje University	15164
 Ndekazi Botha	12467
 Ndeke House P. O. Box	34
 Ndembi	9969
@@ -859,17 +886,19 @@ Ndhlovu	7387,5119
 Ndhlovu Chairperson Commissioner N. Matshe	1154
 Ndhlovu Prof. I. D.T. Mpofu Dr	1554
 Ndhlovu Prof. Z.BMouarradndCahairman Prof. C. E	1154
+Ndi Umunyarwanda	14935
 Ndiaga Dieng	7057
 Ndiaga Ndiaye	11745
 Ndiame Diop	2592,10867
 Ndiame Diop Country Director	13742
 Ndiame Diop Michel Rogy Fily Sissoko	4653
-Ndiame Diop Regional Practice Director	3562,2977
+Ndiame Diop Regional Director	14966,172
+Ndiame Diop Regional Practice Director	3562,2977,8437,214
 Ndiame Diop. Regional Director	12220
 Ndiame Diop. Regional Practice Director	13743
-Ndiamé Diop	14276
+Ndiamé Diop	14276,597
 Ndiamé Diop Regional Practice Director	11417
-Ndiaye	2311
+Ndiaye	2311,12659
 Ndiedieng	4546
 Ndifreke Ikokpu	2826
 Ndiitah Nghipondoka-Robiati	9749
@@ -920,6 +949,7 @@ Ndoto Zetu	3898
 Ndoumou	2738
 Ndoye	14704
 Ndoye and Diop	14704
+Ndubi	15129
 Ndubueze Mbah	6211
 Ndubuisi	11149
 Nduduzo Fakudze	13245
@@ -966,6 +996,7 @@ Ndzuani	4479,547,288,212,8194,59,7
 Ndzuani. Nous	13819
 Ndzuwani	3707,10020,33,8,36
 Ndzéla	11015
+Ndèye Aissatou Masseck Ndiaye	14970
 Ndèye Seynabou Sy	8031
 Ndélé	6674
 Ndélé. Ils	6674
@@ -979,11 +1010,13 @@ Nicolas NDAYISHIMIYE Sigle	13377
 Nicolas Ndayishimiye	13674
 Nicolas Ndayishimiye Lors	13674
 Nigeria Data Protection Commission. The NDPC	6442
+Nigeria's NDPA	15237
 Nigeria's NDPC	4583,702
 Nigeria. The NDPC	12232
 Nigerians Benefited From NDHII. The Federal	7895
 Nigerians. NDPC	3226
 Nigeria’s NDPA	10798
+Njuguna Ndungu	14932
 Nkhosi Ndlovukazi	12955
 Nkometou Par Liliane Ndangue	4269
 Nkosinathi Ndlovu	11899
@@ -995,6 +1028,7 @@ Noëlla Ndayishimiye. Compte	4363
 Nsue Ndemesogo	8048
 Nyashadzashe Ndoro	1619
 O Gervais NDIRAKOBUCA Lieutenant Général de Police	13334
+OPERATIONAL PLAN FOR NDSF	14915
 OfficialUse On Nd	13555
 Olivier Nduhungirehe	4167
 Ornela Ndip	2319
@@ -1013,6 +1047,7 @@ Paris Agreement. The NDC	11586
 Parliament. Ngwenyama Ndvuna	12955
 Paul Ndungutse DATASHEET BASIC INFORMATION Project	3562
 Paul Ndungutse Senior Digital Specialist	13450
+Percentage of NDFSPs	14997
 Perpetuity and Abrogation The NDGC	3861
 Peter Ndegwa	2850,989,1635,607,19,14,1453
 Pierre Ndayisaba	3560
@@ -1040,6 +1075,7 @@ Professor Chiratidzo Ellen Ndhlovu	1554
 Professor Ndubueze Mbah	7444
 Program NDTS RAPID-CI Sources of Additional Funds	3604
 Project Dr Melody Ndemera Development	1154
+Proposed Theory of Change for Rwanda's NDSF	14915
 Prossy Kuteesa of Ndejje University	8710
 Provinces ND Total Résidents Sortants Entrants	13442
 Président Evariste Ndayishimiye L	13405
@@ -1065,6 +1101,7 @@ Ricardo Nsue Ndemesogo Dentro	10487
 Ricardo Nsue Ndemesogo Obono	8048
 Richard Ndayisaba	6112,7483,98
 Rwanda Oxygene Ndera	718
+Rwanda's NDC	15138
 République du Burundi Son Excellence Evariste Ndayishimiye	13406
 Révérien Ndikuriyo	13530
 SDGs and NDS	13485
@@ -1089,6 +1126,8 @@ Senior Standards Expert Matano Ndaro	10336
 Severin NDAGIJUMUKAMA Samuel UWIMANA Willy NDAHANGAJE	13300
 Shona and Ndebele	1554
 Small and Medium Enterprises NDP National Development	13836
+Somalia NDP Somalia NTP	14965
+Somalia’s NDP	14965
 Son Excellence Evariste Ndayishimiye	13405
 South Africa. NDB	927
 South Africans. The NDoH	11252
@@ -1096,6 +1135,7 @@ Southern Africa ND New Democracy OJM	12201
 Southern Africa Stephen Ndoma Stephen	12380
 Sr. Silvano Ndaie	11460
 Starlink By Nyashadzashe Ndoro	1817
+State Governments of Somaliland and Puntland. NDP	14925
 Steeve Singault Ndinga	4683
 Stella Ndabeni-Abrahams	5968
 Stella Ndabeni-Abrahams Sentech	5968
@@ -1121,6 +1161,7 @@ Training NDP	6832
 Tuberculosis NDP National Development Plan TIER	396
 UIT. Dr. Alain NDIKUMANA	13482
 UNHCR Country Representative Aissatou M. Ndiaye	4652
+USGS These E-Modis NDVI	15256
 Umkhomba Ndlela	11275
 Unit PRDU External NGOs NHRC NDRRMC	14781
 Universidade Mandume Ya Ndemufayo	6585

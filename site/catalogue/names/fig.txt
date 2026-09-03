@@ -17,6 +17,7 @@ ARCEP Figure	10856
 ARSEL Figure	10975
 AVCA Figure	4972
 AWI. Figure	12006
+Abdullahi Kilas Figure A2.11. Artificial	15129
 Academia. Na Figura	2816
 Accelerating AI Investment Figure	1814
 Access Bank PLC FIG Trade Finance	11469
@@ -61,6 +62,7 @@ Bank Assets.......8 Figure	10718
 Bank Ownership Type.............................20 Figure	10718
 Bank of Zambia Figure	13532
 Bank of Zambia Goal Cascading Figure	13532
+Banking Sector Figure	15023
 Bell Village. Figure	14745
 Below Figure	9123
 Benguela. Figure	10763
@@ -94,10 +96,12 @@ CORPORATE PROFILE Figure	13053
 COVID-19. As Figure	13332
 CRITICAL SKILLS Figure	1940
 Cabo Verde Figures	12002
+Calculation Figure	14897
 Calling Sending SMS Financial Activities Figure	582
 Cameroon Chad FIGURE	9616
 Cameroun. Figure	10975
 Canva FIGURE	13095
+Capital Adequacy Ratio Figure	15023
 Category Fig	1554
 Celebration FIGURE	13095
 Central African Republic Figures	2504,1414
@@ -148,20 +152,30 @@ DStv. FIGURE	8130
 Dari and Pashto. Figure	7790
 Dashboard FIGURE	13095
 Data Centre Building. Figure	12253
+Data Custodian Figure	15034
+Data Figure	15034,130
+Data Security and Risk Management137 List of Figures	15164
 Days Figure	12346
+Debit Cards Credit Cards Figure	15023
 Dedza One-Go Border Post Figure	13053
 Department of Veterinary Service Lupane District Fig	1554
 DesignModelforaLiveHealthcareConsoleversion0.2 Figure	8603
 Desktop Application Veriﬁcation Figure	8604
 Development and Innovation Figure	4528
+Digital Businesses Figure	14897
 Digital Finance Figure	11138
+Digital Financial Services Figure	14897
 Digital Government Strategy Figure	12917
+Digital Infrastructure Figure	14897
 Digital Lilangeni Design Paper FIGURE	11130
 Digital Nations and Society Index. Figure	14674
+Digital Public Platforms Figure	14897
+Digital Skills Figure	14897
 Digital Transformation Continuum Figure	14441
 Director of Social Welfare. See Figure A1	13332
 Disclaimer Figure	5247
 Displayallpatients Figure14	8606
+District Level N Figure	15056
 District of Rwanda. Figure	12328
 Diversity Focus Figure	4972
 Download Figure	11140
@@ -176,6 +190,7 @@ ESATIC IN FIGURES	10948
 ETB..........................................5 Figure	5655
 EV Other Hybrid Diesel Gasoline Figure	12233
 EVIDENCE AT A GLANCE FIGURE	11156
+East Central Darfur State. Figure	14955
 Eastern Figure	12431
 Eastern Muchinga Northern Luapula Western Figure	12431
 Eastern REPUBLIC OF ZAMBIA Figure	12431
@@ -198,6 +213,7 @@ Expenditure Figure	10985
 Export Figure	13375
 Extended Data Fig	11585
 External Sector Statistics 17 FIGURES	13868
+FAO Figure A2.2. Herbaceous-dominated	15129
 FC Kallon Will Fight Till	7814
 FCFA FIGUE	2342
 FCFA. Figure	10975
@@ -209,13 +225,14 @@ FIGURE	1009,152,4053,2441,104,262,1,108,999,108,379,1514,26,115,301,307,335,155,
 FIGURE A.3 GENERIC EXAMPLE	1009
 FIGURE B135.10	11572
 FIGURE ES.1	11572
-FIGURES	1828,9169,1503
-FIGURES Figure	11136,48
+FIGURES	1828,9169,1503,2747
+FIGURES Figure	11136,48,3952
 FINANCIAL INFORMATION No Figures Part G	11250
 FINANCIAL YEAR Figure	12256
 Facts and Figure	1814
 Facts and Figures	1243,2867,860,3783,863,1228,7,411,301,316,335,1675,99
 Facts- Figures2019.pdf International Telecommunication Union	961
+Federal Government of Somalia Figure	14896
 Female Figure	12431
 Female. Figure	3862
 Fermer Figure	13375
@@ -229,7 +246,7 @@ Fig. VI.8 Carte	13341
 Fig.VI.9 Carte	13341
 FigFuigreur1e.21	2775
 Fight	961,249,7250,2825,2029
-Fight AIDS	392,545,10623,337,1557
+Fight AIDS	392,545,10623,337,1557,1469
 Fight Against AIDS and Major Endemic Diseases	10776
 Fight Against Corruption	2626,3475
 Fight Against Crime	9399
@@ -240,6 +257,7 @@ Fight Against Malaria	7016
 Fight Against Terrorism	7452
 Fight Delays Embedding	7764
 Fight Domestic Violence	4175
+Fight Exploitation	14932
 Fight For Their Health Data	4258
 Fight Poverty and Unlock Prosperity. Official Use	3604
 Fight for Big Tech Accountability	9817,120
@@ -256,7 +274,7 @@ Figuil	3412
 FigurPeO2P.U10L	10763
 Figura	2138,678,7956,5,613,6,1,9,10,131,8,19
 Figuras Figura	2816,8590
-Figure	10,226,160,186,136,19,34,169,18,51,4,141,46,12,31,5,9,4,3,20,43,227,260,10,4,39,71,2,4,44,108,679,1,113,24,35,216,1,1,1,1,436,258,132,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,233,173,7,75,3,11,148,296,273,2,286,122,4,22,19,40,260,408,18,113,3,51,78,58,103,104,10,32,173,115,12,173,204,47,57,31,96,135,1,108,72,81,71,22,60,6,18,143,1,1,196,322,1,4,1,108,379,143,773,180,2,4,45,1,1,3,7,5,5,9,18,17,12,11,4,2,43,18,13,8,23,1,1,5,5,1,9,12,7,13,112,1,3,2,1,2,2,2,14,28,8,1,2,21,2,10,8,23,12,15,8,2,14,107,52,18,38,27,1,10,9,6,3,274,2,6,4,7,5,2,24,14,5,17,11,12,22,8,12,56,28,48,13,41,18,4,19,7,1,5,7,3,22,19,30,1,1,17,10,2,1,8,2,7,19,4,14,6,12,13,9,47,1,11,147,4,254,6,16,2,7,3,10,1,7,8,1,27,11,26,11,27,14,216,2,2,17,1,13,30,15,5,1,22,43,71,36,18,38,2,59,72,92,19,123,432,2,16,1,37,142,1,44,8,49,6,7,2,7,5,11,12,2,2,13,35,5,5,1,4
+Figure	10,226,160,186,136,19,34,169,18,51,4,141,46,12,31,5,9,4,3,20,43,227,260,10,4,39,71,2,4,44,108,679,1,113,24,35,216,1,1,1,1,436,258,132,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,233,173,7,75,3,11,148,296,273,2,286,122,4,22,19,40,260,408,18,113,3,51,78,58,103,104,10,32,173,115,12,173,204,47,57,31,96,135,1,108,72,81,71,22,60,6,18,143,1,1,196,322,1,4,1,108,379,143,773,180,2,4,45,1,1,3,7,5,5,9,18,17,12,11,4,2,43,18,13,8,23,1,1,5,5,1,9,12,7,13,112,1,3,2,1,2,2,2,14,28,8,1,2,21,2,10,8,23,12,15,8,2,14,107,52,18,38,27,1,10,9,6,3,274,2,6,4,7,5,2,24,14,5,17,11,12,22,8,12,56,28,48,13,41,18,4,19,7,1,5,7,3,22,19,30,1,1,17,10,2,1,8,2,7,19,4,14,6,12,13,9,47,1,11,147,4,254,6,16,2,7,3,10,1,7,8,1,27,11,26,11,27,14,216,2,2,17,1,13,30,15,5,1,22,43,71,36,18,38,2,59,72,92,19,123,432,2,16,1,37,142,1,44,8,49,6,7,2,7,5,11,12,2,2,13,35,5,5,1,4,56,1,35,3,7,13,2,1,7,20,12,26,11,22,7,66,1,6,2,26,2,39,42,55,40
 Figure A	11250
 Figure A.1	1009,7594,2,2380
 Figure A.1. Social	10985
@@ -277,8 +295,178 @@ Figure A.8	8605
 Figure A.9	8605
 Figure A1	11563,1769
 Figure A1.1	3604
+Figure A1.1. Figure A1.1. Structure	15129
+Figure A1.10	15129
+Figure A1.10. Unified	15129
+Figure A1.11	15129
+Figure A1.11. Unified	15129
+Figure A1.12	15129
+Figure A1.12. Unified	15129
+Figure A1.13	15129
+Figure A1.13. Unified	15129
+Figure A1.14	15129
+Figure A1.14. Unified	15129
+Figure A1.15	15129
+Figure A1.15. Unified	15129
+Figure A1.16	15129
+Figure A1.16. Unified	15129
+Figure A1.17. Figure A1.17. Structure of Natural	15129
+Figure A1.18	15129
+Figure A1.18. Unified	15129
+Figure A1.19	15129
+Figure A1.19. Unified	15129
+Figure A1.2	15129
+Figure A1.2. Unified	15129
+Figure A1.20	15129
+Figure A1.20. Unified	15129
+Figure A1.21	15129
+Figure A1.21. Unified	15129
+Figure A1.22	15129
+Figure A1.22. Unified	15129
+Figure A1.23	15129
+Figure A1.23. Unified	15129
+Figure A1.24	15129
+Figure A1.24. Unified	15129
+Figure A1.25	15129
+Figure A1.25. Unified	15129
+Figure A1.26	15129
+Figure A1.26. Unified	15129
+Figure A1.27	15129
+Figure A1.27. Unified	15129
+Figure A1.28	15129
+Figure A1.28. Unified	15129
+Figure A1.29	15129
+Figure A1.29. Unified	15129
+Figure A1.3	15129
+Figure A1.3. Unified	15129
+Figure A1.30. Figure A1.30. Structure	15129
+Figure A1.31	15129
+Figure A1.31. Unified	15129
+Figure A1.32	15129
+Figure A1.32. Unified	15129
+Figure A1.33	15129
+Figure A1.33. Unified	15129
+Figure A1.34. Figure A1.34. Structure	15129
+Figure A1.35	15129
+Figure A1.35. Unified	15129
+Figure A1.36	15129
+Figure A1.36. Unified	15129
+Figure A1.37	15129
+Figure A1.37. Unified	15129
+Figure A1.38	15129
+Figure A1.38. Unified	15129
+Figure A1.39. Figure A1.39. Structure	15129
+Figure A1.4	15129
+Figure A1.4. Unified	15129
+Figure A1.40	15129
+Figure A1.40. Unified	15129
+Figure A1.41. Figure A1.41. Structure	15129
+Figure A1.42	15129
+Figure A1.42. Unified	15129
+Figure A1.43. Figure A1.43. Structure	15129
+Figure A1.44	15129
+Figure A1.44. Unified	15129
+Figure A1.45	15129
+Figure A1.45. Unified	15129
+Figure A1.46	15129
+Figure A1.46. Unified	15129
+Figure A1.47	15129
+Figure A1.47. Unified	15129
+Figure A1.48	15129
+Figure A1.48. Unified	15129
+Figure A1.49	15129
+Figure A1.49. Unified	15129
+Figure A1.5	15129
+Figure A1.5. Unified	15129
+Figure A1.50	15129
+Figure A1.50. Unified	15129
+Figure A1.51	15129
+Figure A1.51. Unified	15129
+Figure A1.52	15129
+Figure A1.52. Unified	15129
+Figure A1.53	15129
+Figure A1.53. Unified	15129
+Figure A1.54	15129
+Figure A1.54. Unified	15129
+Figure A1.55	15129
+Figure A1.55. Unified	15129
+Figure A1.56. Figure A1.56. Structure	15129
+Figure A1.57	15129
+Figure A1.57. Unified	15129
+Figure A1.58	15129
+Figure A1.58. Unified	15129
+Figure A1.59	15129
+Figure A1.59. Unified	15129
+Figure A1.6	15129
+Figure A1.6. Unified	15129
+Figure A1.60	15129
+Figure A1.60. Unified	15129
+Figure A1.61	15129
+Figure A1.61. Unified	15129
+Figure A1.62	15129
+Figure A1.62. Unified	15129
+Figure A1.63	15129
+Figure A1.63. Unified	15129
+Figure A1.64	15129
+Figure A1.64. Unified	15129
+Figure A1.65	15129
+Figure A1.65. Unified	15129
+Figure A1.66	15129
+Figure A1.66. Unified	15129
+Figure A1.67	15129
+Figure A1.67. Unified	15129
+Figure A1.68	15129
+Figure A1.68. Unified	15129
+Figure A1.69	15129
+Figure A1.69. Unified	15129
+Figure A1.7	15129
+Figure A1.7. Unified	15129
+Figure A1.70. Figure A1.70. Structure	15129
+Figure A1.71	15129
+Figure A1.71. Unified	15129
+Figure A1.72	15129
+Figure A1.72. Unified	15129
+Figure A1.73	15129
+Figure A1.73. Unified	15129
+Figure A1.74	15129
+Figure A1.74. Unified	15129
+Figure A1.75	15129
+Figure A1.75. Unified	15129
+Figure A1.76	15129
+Figure A1.76. Unified	15129
+Figure A1.77	15129
+Figure A1.77. Unified	15129
+Figure A1.78	15129
+Figure A1.78. Unified	15129
+Figure A1.79. Figure A1.79. Structure	15129
+Figure A1.8	15129
+Figure A1.8. Unified	15129
+Figure A1.80	15129
+Figure A1.80. Unified	15129
+Figure A1.81	15129
+Figure A1.81. Unified	15129
+Figure A1.9	15129
+Figure A1.9. Unified	15129
 Figure A2	13332
+Figure A2.1	15129
+Figure A2.1. Woody	15129
+Figure A2.10	15129
+Figure A2.10. River	15129
+Figure A2.12. Dam	15129
+Figure A2.2 and Figure A2.3	15129
+Figure A2.3. Tiger	15129
+Figure A2.4	15129
+Figure A2.4. Tree	15129
+Figure A2.5 and Figure A2.6	15129
+Figure A2.6. Herbaceous	15129
+Figure A2.7	15129
+Figure A2.7. Gully	15129
+Figure A2.8 and Figure A2.9	15129
+Figure A2.9. Rural	15129
 Figure A3	13332
+Figure A3.2 and Figure A3.3	15129
+Figure A3.2. Land	15129
+Figure A3.3. Land	15129
 Figure A4	13332
 Figure B	11250,812
 Figure B1.1	11136
@@ -336,13 +524,14 @@ Figure5	8606
 Figure6	8606
 Figure9	8606
 FigureB1.2	11136
-Figures	10,26,200,321,56,209,191,371,141,258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,1,91,68,353,20,137,6,1,408,288,1,1,1,1,1,1,1,1,1,373,335,1,1,422,142,33,651,462,84,26,40,290,338,172,306,59,1,21,11,104,1,1,1,1,1,1,1,1,121,206,46,116,27,359,788,863,165,877,56,61,10,56,15,3,117,26,134,56,67,37,42,536,5,2,14,99,8,158,67,19,3,79,18,9,58,28,46,827,53,165,92,24,648,289,89,49,21,92
+Figures	10,26,200,321,56,209,191,371,141,258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,1,91,68,353,20,137,6,1,408,288,1,1,1,1,1,1,1,1,1,373,335,1,1,422,142,33,651,462,84,26,40,290,338,172,306,59,1,21,11,104,1,1,1,1,1,1,1,1,121,206,46,116,27,359,788,863,165,877,56,61,10,56,15,3,117,26,134,56,67,37,42,536,5,2,14,99,8,158,67,19,3,79,18,9,58,28,46,827,53,165,92,24,648,289,89,49,21,92,61,123,36,62,11,118
 Figures CPoS	12486
 Figures ES.1 Mobile	10977
 Figures Figure	10764,11,788,1100,285,1882
 Figures O.1 Trade-Growth Line and Composition of Exports	11149
 Figures PROCUREMENT	14807
 Figures Tables Acronyms	12327
+Figures and Indicators	14945
 Figures. Available	14819
 Figurez-vous	11648
 Figuring	12090
@@ -356,7 +545,10 @@ Fixed Telephone Subscriptions Figure	6671
 Fondation Gates. Figure	14622
 Foreign Participation Figure	6408
 France Figure	11129
+Full Technical Report Contents List of Figures	15164
 Féminin Masculin Figure	14622
+GDP Figure	15063
+GDP Jun-24 Jun-25 Figure	15023
 GDP. Figure	5247
 GENERAL INFORMATION Figure A	11250
 GOVERNANCE Figure C	11250
@@ -366,19 +558,22 @@ GSMA76 Figure	10856
 GSS Ghana Statistical Service Figure	582
 Gender Distribution of RGD Staff Figure	14761
 Gender Figure	14775
-Geography Figure	12413
+General Consumer Satisfaction Level Figure	15023
+Geography Figure	12413,2643
 Ghana Figure	236
 Ghana Figure1	236
 Ghana List of Figures Figure1	236
 Ghana. Figure	10856
 Ghana. From Figure	582
 Gicumbi Figure	12328
+Gisagara and Ngoma. Figure	15056
 Global Innovation Tracker. Figures	10846
 GovTech. Figure	10785
 Governance and Fight Against Corruption	13060
 Governance and Security. Figure	14441
 Government School Figure	14745
 Government and Business Facilitation Figure	14729
+Graphics Figure	14897
 Gros Cailloux. Figure	14745
 Gross Early Childhood Education Figure	12431
 HAS A DATED FIGURE FOR FY2024	1251
@@ -395,6 +590,7 @@ Hhohho Region. Figure	12977
 Historic Flood. Figure	1828
 Households Figure	582
 Huila Figure	10775
+Human Resources and ICT Organisation25 Figure	15164
 Hundreds Figure	4517
 I Figure	582
 I LISTA DE TABELAS E FIGURAS	2816
@@ -444,17 +640,19 @@ Investissements Projet Figure	10975
 Investor Profile Figure	4972
 IoT and AI. Figure	6593
 Iterative HNSF Development FIGURE	1009
+Jamal Abdullahi Figure A2.5. Orchards	15129
 Jorge Figueiredo	4288,7728
-Jun-25 Figure	12256
+Jun-25 Figure	12256,2874
 KEY FIGURES FULLY DISCLOSED	12339
 KNBS Figure	12151
 Kenya and Tanzania. Figure	4439
 Kinshasa. Figure	14666
 Kisumu and Nyeri Counties. Figure	6946
 Km2. Figure	1988
+LCRS. Figure	15129
 LFO Figure	10975
-LIST OF FIGURES	5533,5659,26
-LIST OF FIGURES Figure	718,2058,3895,4547,10,1130,565,28,26,28,1768
+LIST OF FIGURES	5533,5659,26,3918
+LIST OF FIGURES Figure	718,2058,3895,4547,10,1130,565,28,26,28,1768,169,121
 LIST OF FIGURES List of Figures Page	5533
 LIST OF TABLES AND FIGURES Table	11261
 LIST OF TABLES LIST OF FIGURES	11986
@@ -475,14 +673,15 @@ Life Counts List of Figures Figure	12151
 Lilongwe FIGURE	13095
 Lilongwe. Figure	12253
 Line Ministry. Fig	1554
-List of Figures	236,346,1232,4186,946,4249,55,812,89,800,1824
+List of Figures	236,346,1232,4186,946,4249,55,812,89,800,1824,183
 List of Figures Chapter	10763
-List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855,1074,738
+List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855,1074,738,401
 List of Figures Glossary of Terms Abbreviation Expansion	12917
 List of Figures PART	11250
 List of Figures Page	14775
 List of Figures Table ES.1	10841
-List of Figures and Tables	12659
+List of Figures and Tables	12659,2273
+List of Figures and Tables Figure	14932
 List of Tables List of Figures	2775
 List of Tables Page List of Figures Page	11986
 Literacy Figure	12431
@@ -491,6 +690,7 @@ Luapula Eastern Figure	12431
 Luapula Eastern REPUBLIC OF ZAMBIA Figure	12431
 Luapula Northern REPUBLIC OF ZAMBIA Figure	12431
 Lusaka Province Figure	12431
+M Figure	15130
 M2M Subscriptions Figure	6000
 MALAWI DIGITAL READINESS ASSESSMENT FIGURE	12214
 MAURITIUS Figure	14777
@@ -522,6 +722,7 @@ Measuring Digital Development Facts and Figures	961
 Measuring the Inclusion of DPI Deployments FIGURE	13095
 Medium-Sized Enterprises...........................9 Figure	10718
 Mexico. Figure	11964
+Microfinances Figure	15023
 Microsoft Excel. Figure	13375
 Milliards FCFA. Figure	10975
 Minister. Figure	11857
@@ -537,9 +738,12 @@ Multimédia Fig. VI.10 Carte	13341
 Musanze Figure	12328
 NASA Harvest Agrometerological Indicator Graphics. Figure	13094
 NATIONAL ANALYTICAL REPORT Figure	12431
+NATIONAL Figure	15136
+NBR Benchmark Figure	15023
 NCA National Communications Authority Figure	582
 NCA. Figure	236
 NDPC National Development Planning Commission Figure	582
+NISR Figure	15056
 NITA National Information Technology Agency Figure	582
 NM M W Figure	1154
 NO. COMMERCIAL COMMUNITY AUTHORISED Figure	2776
@@ -550,6 +754,7 @@ Namanga Loitoktok Lunga Lunga Figure	12256
 Namibe NGANETA CLAUDERINHA FIGUEIREDO DOS SANTOS	10751
 Namibia. Figure	12367
 Namibian NPS Ecosystem Figure	13076
+National Bank of Rwanda Figure	15023
 National FIGURE	12214
 National Financial Figure	14674
 National ID No Downsides FIGURE	13095
@@ -561,6 +766,7 @@ Nigeria Figure	11129
 Nigeria From Fig	5245
 Nigerians. Fig	5245
 Night-Time Lights Text Figure	13624
+Northeast Blue Nile State. Figure	14955
 Northern Central Luapula Eastern Western Figure	12431
 Note Figures	324
 Number of Domestic Audits and Revenues Collected Figure	13053
@@ -573,6 +779,8 @@ OTI BONO Figure	582
 Oceania. Figure	10840
 Official Use Only Figure	10985,484,784
 Official Use Only Figure A.2. Transfer	10985
+Offshore Sector Payments Development Figure	14997
+Open Government Plans. Figure	14965
 Open Source. FIGURE	13095
 Operators' Returns Figure	6671
 Opérateur. Figure	10975
@@ -581,6 +789,7 @@ Organization Figure	11129
 Outgoing Incoming Total Figure	3862
 Ouvrir Figure	13375
 Ouvrir QGIS Figure	13375
+Overall Financial Inclusion Levels Figure	15130
 Oﬃcer Figure A.1	8603
 P Figure	582
 P0301.4 LIST OF FIGURES Figure	11192
@@ -599,6 +808,8 @@ PV Figure	13375
 Par Excel Figure	13375
 Parcelle Validée Figure	13375
 Participation and Demographics FIGURE	12214
+Payment Instruments Subscribers Figure	15023
+Per Capita Figure	15063
 Percentage of Poor Covered Figure	10985
 PforR. Figure	10975
 Physical Infrastructure Figure	10976,1370
@@ -608,6 +819,7 @@ Postcode City L.G.A. State Country Figure	11129
 Poste Restante Figure	11129
 Prepaid Postpaid Figure	2776
 Prevention Re-use Recycling Recovery Dispose Figure	1988
+Privacy Interoperability Innovation Value Creation Figure	15034
 Private Mail Bag Figure	11129
 Prize Winner- Misheeta Devi Gungah Figure	14745
 Prize Winner- Tanvy Etwaroo Figure	14745
@@ -634,6 +846,7 @@ REPORT Figure	12395
 REPUBLIC OF ZAMBIA Figure	12431
 RIP Figure	12413
 RIS. Figure	10975
+RRA Figure	14985
 RURA Figure	718
 Recent Economic Developments and Outlook Figure	11136
 References. Figures	10901
@@ -647,6 +860,7 @@ Renewable Energy Imports Thermal Figure	12256
 Research Area Fig	1554
 Research Department Figure	13532
 Reserve Bank of Zimbabwe Figure	940
+Resilient Households and Individuals Figure	15130
 Results Figure	8022,414
 Retail Institutional Figure	6408
 Revenue Collection Figure	13053
@@ -657,6 +871,7 @@ Rural Areas Figure	10763
 Rusizi Figure	12328
 Russie Fig	6959
 Rwanda RESEARCH REPORT Experience Figure	12328
+Rwanda Stock Exchange Figure	15023
 Rwanda. Figure	11960,453
 S. Figueroa Street Los Angeles	3364
 SADC Regional ICT Facts and Figures Report	3476
@@ -681,20 +896,27 @@ Security Figure	14729
 Serviços de Internet Figura	11574
 Several Fighters Neutralised	4738
 Somalia FIGURE	13095
+Somalia Figure A3.1	15129
+Somalia Figures	15020
+Somalia. Figure A3.1. Land	15129
 Sous-programmes Figure	10975
 South Africa. Figure	11265
 South Africa. Figures	2492
+Southeast West Kordofan State Figure	14955
 Staff Age Distribution Figure	12969
 Staff Categories Figure	12969
 Staff Gender Distribution Figure	12969
 Starlink. Figure	12395
+State of Digital Public Figure	14897
 Strong Institutions. Figure	12241
 Student Information Systems. FIGURE	9128
 Students ICT Training FIGURE	13095
 Study Figure	14775
 Subcribers Figure	4517,2461
 Subscription Figure	2776
+Sudan. Figure	14955
 Suite Numbering for Shopping Centre Figure	11129
+Sulieman Abdullahi Figure A2.8. Built-up	15129
 Supplementary Fig	11578
 T AND SCORING METHOD FIGURE	11156
 TABELAS E FIGURAS Tabelas Tabela	2816
@@ -702,11 +924,13 @@ TABLE OF CONTENT LIST OF FIGURES	718,10510
 TABLE OF CONTENTS LIST OF FIGURES	6671,8102
 TABLE OF TABLES AND FIGURES Table	13685
 TABLES AND FIGURES	14067
+TAXES ON INTERNATIONAL TRADE Figure	14985
 TIC Fig. II.1 Cinq	13341
 TIC Figure	14423
 TRENDS IN IDENTIFICATION FOR DEVELOPMENT Figure	10714
 Table of Contents Table of Figures	12376
 Table of Figures Figure	12376
+Tables Figures Figure	14958
 Talent Management Figure	14729
 Taxes Figure	10976,1370
 Telesol Figure	2776
@@ -715,6 +939,7 @@ Theoverallsystemarchitectureisillustratedin Figure10	8606
 ToT FIGURE	13095
 Top Management Figure	14761
 Training and Skills Development. Figure	1243
+Transactions Value and Volume of Transfers Figure	15023
 Transition Fig	6959
 Type of Investment Figure	14830
 U Gre W Figure	2776
@@ -746,9 +971,11 @@ WHO. FIGURE A.1 THE COMPONENTS	1009
 WORK FROM HOME Figure	1940
 WORK TRANSITION List of Figures Figure	11271
 Web. Figure	10975
+West Kordofan State Figure	14955
 Whereas Figure ES.4 Mobile	10977
 Workers Trained Figure	10976
 World Bank Client Connection. Figure	10768
+World Bank Figure	14965
 World Bank World Development Indicators Figure	10856
 World Bank. Figure	11874,7
 World Development Indicators Figure	13314

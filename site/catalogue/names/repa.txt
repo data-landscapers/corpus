@@ -60,7 +60,8 @@ REPARTIÇÃO GLOBAL DE ACESSO A INTERNET	11531
 REPARTIÇÃO GLOBAL DE SERVIÇOS DE INTERNET	11531
 Reception and Reintegration of Refugees and Repatriates	10841
 Repaid	291
-Repair	11,225,992,760,485,4360,5759,2154
+Repair	11,225,992,760,485,4360,5759,2154,335,68
+Repair Any	15081
 Repair NAS Network Attached Storage	13185
 Repair Tier	10721
 Repair of Motor Vehicles and Motorcycles	14840
@@ -109,11 +110,11 @@ Repatriamento	11460
 Repatriate	4126
 Repatriated	10023
 Repatriating	4126
-Repatriation	4126
+Repatriation	4126,10748,91
 Repatriation and Reintegration of Zimbabwean Nationals	13673
 Repatriation of Export Proceeds	13122
-Repayment	1818,10,1886,1120,62,5434,463,1504,1727
-Repayments	3714,2400
+Repayment	1818,10,1886,1120,62,5434,463,1504,1727,872
+Repayments	3714,2400,8782
 Reviewed Rm Raised Repaid	10793
 Serviço de Reparação de Queixas	11390
 Ship Repair Yard	13868

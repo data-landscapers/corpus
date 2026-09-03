@@ -17,6 +17,8 @@ Econet Willowvale Solar Plant	306
 Egbin Power Plant. Egbin	10157
 Eskom Plant Performance	11228
 Gandia Plants Uprooted	14760
+Generation Plant Availability	14867
+Generation Plant Availability The Regulatory Authority	14867
 GoR Power Plants	12358
 Gold Mining and Processing Plant	13060
 Government Forest Plantation Stocking	2775
@@ -65,15 +67,22 @@ National Invasive Alien Plant Survey	11334
 National Invasive Alien Plant Survey Project	11334
 Ndola Energy Power Plant	5247
 Next-Generation Broadband Network Development Plant	11529
+Ntaruka Hydropower Plant	15049
 Nuclear Power Plants Authority	10081
+Nyabarongo II Hydropower Plant	15049
+Nyirahundwe Hydropower Plant	15049
 PLANT AND EQUIPMENT AND SOFTWARE Six	10793
 PLANT AND EQUIPMENT COSTS	14736
 PLANT LTD Data Controller INST-5968341D599 NAIROBI	7167
 PLANTING SUSTAINABLE LAND MANAGEMENT COMMUNITY EMPOWERMENT	11586
-Plant	718,1226,587,8697,68,657,109,2674,79,3,12
+POWER PLANT AVAILABILITY INDEX	14867
+Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299
+Plant Availability	14867
 Plant Availability Factor	12062
+Plant Availability Index	14867
 Plant Average Hourly Generation	12062
 Plant Capacity	14745
+Plant Conducted MW	14947
 Plant Genetic Resources	14818
 Plant Genetic Resources for Food and Agriculture JE	11197
 Plant Health Act	13403
@@ -93,10 +102,11 @@ Plant and Animal Diseases Control The Partner	14409
 Plant and Animal Health Crop Sector Healthy	14818
 Plant and Animal Health..46 Crop Sector	14818
 Plant and Animals	1988
-Plant and Equipment	1154,1897,10369
+Plant and Equipment	1154,1897,10369,1749
 Plant and Equipment IPSAS	14736
 Plant and Equipment Revenue	1944
 Plant and Equipment USD	1013,931
+Plant and Equipment and Inventories	15169
 PlantVillage	13366
 PlantVillage Application	13366
 PlantVillage's Nuru	3859
@@ -113,6 +123,7 @@ Planted Area	2775
 Planting Hope	8919
 Planting for Food and Jobs	789
 Plants	12062,2698
+Power Plant Availability	14867
 Power Plant Launch	13624
 Property and Plant Equipment	1154
 Q1 Plant Availability Factor	12062
@@ -124,6 +135,7 @@ Regional Plant Protection Officer IPPC	12972
 Regular Maintenance of Plants	14738
 Rehabilitation of Power Plants	13060
 Ruacana Hydro Power Plant	12399
+Rukarara VI Hydropower Plant	15049
 Salima Solar Power Plant	13241
 Shema Power Plant	12358
 Sierra Leone. President Bio Plants Symbol	5390,965,827

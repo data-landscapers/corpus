@@ -14,6 +14,8 @@ Data Exchange Layer	9356
 Data Layer	11952
 Data Layer Implementation Service	11952
 Data Layer Requirement	11952
+Data Replication Layer	14950
+Data Storage Layer	14950
 Default Settlement Layer of Choice	9899,4
 Deplete the Ozone Layer	14267
 Design and Layout	12652
@@ -39,18 +41,22 @@ Lay the Foundation	7921
 Lay-bye	12630
 Laye Mbunkur	10379,2,310,2792
 Laye Sékou Camara	7978
-Layer	4611,79,81,1002,1235,782,2419,103,276
+Layer	4611,79,81,1002,1235,782,2419,103,276,4362,131
 Layer AI	7147
 Layer C Integration Layer	1009
 Layer Component Description References Contextual	9128
 Layer Protocol Infrastructure	12395
 Layer Transaction	11310
+Layer-2	14864
+Layer-2 Ethernet	14864
+Layer-2 MAC	14864
+Layer-3	14864
 Layer3	2277,1277,305,3,4345,3739
 Layer3 Ltd	3862
 Layered	5602,2364,78
 Layering	10497,2834
 Layering Human Capital and PI Interventions	10768
-Layers	5773
+Layers	5773,9376
 Layibi	9382
 Laying	1264,1625,2091,247,4207,1524,398,1536,1089,765
 Laying Foundations	11936
@@ -60,8 +66,10 @@ Laying the Digital Foundations for Economic Growth	12245
 Laying the Foundation	4528,7984
 Laying the Foundation for ASYCUDA New Generation Solutions	13042
 Laying the Foundation for Digital Citizenship	3313
+Laying the Foundation for Somalia's Identification Ecosystem	15062
 Laying the Foundation for VaMoz Digital	1129
-Layout	6922,4410,900,9
+Laying the Foundations	15059
+Layout	6922,4410,900,9,2691
 Layout Abdoul Malick ALMAIMOUNE Conception	6959
 Layouts	11129
 Layton N	12231
@@ -85,11 +93,13 @@ Oversight Layer	6442
 Ozone Layer	14267
 Physical Layers	3604
 Policy Layer	6442
+Presentation Layer	14950
 Reality Layers and Symbolic Power	9914,1,77
 Registry Layer	9915,77
 Report Layout	11552
 SMART City Layers Key Stakeholders	395
 SSD Solid-State Drive TLS Transport Layer	13185
+SSL Secure Sockets Layer NHBS National	14897
 Samuel Monjane Layout	12148
 Sectoral Layer	11952
 Secure Sockets Layer	14439,44
@@ -106,5 +116,5 @@ TEXT LAYER	6477
 Technical Layer	6442
 Top Layer	5244
 Transmission and IP Layer	10721
-Transport Layer Security	11952,1085
+Transport Layer Security	11952,1085,2124
 University of Lay Adventists of Kigali	718

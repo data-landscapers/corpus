@@ -62,10 +62,15 @@ Bata. Control	4209
 Bata. Framed	758
 Bata. Las	11633
 Bataille	3779
+Batakacayaasha	15047
+Batakacayaasha Qaranka	15047
+Batakacayaasha Qatanka	15047
+Batakacayaasha Qatranka	15047
 Batangafo	8063
 Batani	2948
 Batarseh	5700
 Batarseh F. A	5700
+Batch	15234,59
 Batch Four	7652
 Batch Input	7988
 Batcheller	12090
@@ -111,10 +116,10 @@ Batteries Generators Flywheels Circuit	9123
 Batteries Ni	14423
 Batteries Soft Carrying Case	34
 Batteries de Stockage	1993
-Battery	34,9089,646,2072,134,1210
+Battery	34,9089,646,2072,134,1210,1979
 Battery Energy Storage System	12576,484,168
 Battery Energy Storage System Sources	11953
-Battery Energy Storage Systems	12256,143,2346,85
+Battery Energy Storage Systems	12256,143,2346,85,127
 Battery Energy Storage Systems The Kenya	12256
 Battery Room	13185
 Battery Room Split	12253
@@ -124,7 +129,7 @@ Battery Room and Uninterrupted Power Supply	12253
 Battery-only	9832
 Battle	5242,1167,4745
 Battle of Dignity	8133,1455
-Battling	4094
+Battling	4094,10802
 Battre	13300
 Batundi Mushaho Victor	7888
 Batwa	11868,1574
@@ -161,6 +166,8 @@ Continental Bata	4209
 DE BATA EBEBIYÍN ANTICORRUPCIÓ MEDIO AMBIENTE	4209
 DE REGIONAL BATA CIVIL	4209
 DES AFFECTATION DU BATIMENT SURFACES OCCUPEES	14488,1,1
+Dadka Batakacayaasha	15047
+Digital Battleground	15342
 Distrito Escolar de Bata	4209
 Distrito Escolar de Bata Bata	4209
 Distrito Escolar de Bata Proyecto	4209
@@ -207,6 +214,7 @@ Lungi High-scoring Battle for Title	5390,965,827
 MENORES MALABO MALABO BATA PROPIEDAD	4209
 MW Battery Energy Storage System	14745
 MW Omburu Battery Project Last	13139
+Mabaadii'da Hagaysa Batakacayaasha Qatamada Midoobay	15047
 Malabo Bata	4209
 Malabo and Bata	57
 Meira Té Siga Batista Mário Siano	11544
@@ -236,6 +244,7 @@ OLDEST ITEM IN THE BATCH	411
 OPINION CONCERNANT LE FAIT DE BATTRE	13300
 Obispo de Bata	4209
 Omburu Battery Project	13139
+Orange Corners Sudan Batch	15234
 PALEA BATA	4209
 PV and Battery Energy Storage System	11228
 Palacio Bata Bata	4209
@@ -250,11 +259,14 @@ SOUM DANO YAGHA BATIE GAOUA SUD-OUEST	10847
 SPEEDS BATTERY USE MOBILE	11004
 Sadiq Bategena Bakale	2928
 Selon Nikada Batchoudi	7123
+Solar PV and Battery Energy Storage Systems	15017
+Stationary Battery Applications RS IEEE Std	15027
 Sudan's Battle for Connection By Kassem Mnejja	1887
 Sudan’s Battle for Connection. Tahrir Institute for Middle	6947
 Supply UPS Batteries Installed	12850
 Terminal de Bata	4209
 Though the Batho Pele Principles	8603
+Tá Bater	15291
 Télécharger IBN BATTOUTA	2975
 University of Bath	6948,7897
 University of Batna	8606

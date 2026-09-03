@@ -58,7 +58,7 @@ ENROLLMENT	12146
 Education Education Enrolment Education Completion Human	10837,1315,188
 Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Enregistre	10876
-Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47
+Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18
 Enregistrement Cadastral	10876
 Enregistrement Cadastral CEDEAO Communauté	10876
 Enregistrement Communal	10876
@@ -91,8 +91,8 @@ Enriquez	12333
 Enroll	2604,8161,10,1678
 Enrolled	11006,498,936
 Enrolled OVC Beneficiaries	12977
-Enrolling	571,4877,5685,791
-Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18
+Enrolling	571,4877,5685,791,2992
+Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68
 Enrollment Data	14501
 Enrollment Kits	13424
 Enrollment The Gender Parity Index	12411
@@ -100,7 +100,7 @@ Enrollment and Completion	13991
 Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50
 Enrolment Education	12356
 Enrolment Infrastructure	11774
 Enrolment Ratio OSM	13960
@@ -119,20 +119,23 @@ Entreprise Enregistrement	14488,1,1
 Entreprise Phase Préparatoire Enregistrement	14488
 Estimated Enrolment	14775
 Evolution of Gross Tertiary Enrolment Ratio	14775
+Evolution of Student Enrolment	14958
 F ENREGISTREZ TOUT CE QUI EST	13300
 F INJECTION INJECTION ENREGISTREZ TOUS	13300
 FCFA Gross Domestic Product Gross Enrollment	11905
 Fokontany Enregistrement	14480,8,1,1
+GER Gross Enrolment Rate	14916
 GER Gross Enrolment Ratio GGR Gross	14747
 General and Professional Secondary Education Enrollment	12411
 Gross Enrollment Rate	12411
 Gross Enrollment Ratio	13314
 Gross Enrollment Ratio Central African	13314
-Gross Enrolment Rate	12175,24
+Gross Enrolment Rate	12175,24,2717
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
 Gross Enrolment Ratio	13991,756
 Gross Enrolment Ratio GoSE Government	13960
+Gross Enrolment Ratio for Basic and Secondary Education	14958
 Gross Tertiary Enrolment Ratio	14775
 Gross Tertiary Enrolment Ratio HEC	14775
 Gross Tertiary Enrolment Ratio The Gross	14775
@@ -142,6 +145,7 @@ Health Sciences’ Students Enrolment	2775
 Higher Education Enrolment	12199
 IDENTITY ENROLMENT AND BIOMETRIC CAPTURE	12047
 Impression de Carte Périmètre Enrôlement Périmètre IDMS	14480
+Jorge Enrique Celis Giraldo	15059
 LIGIBLES DANS Q.153. ENREGISTREZ LE NUMÉRO	13300
 Learner Enrollment	12411
 Local Government’s National ID Enrolment	11857
@@ -153,10 +157,12 @@ Mario Draghi and Enrico Letta	9832
 Mass Enrolment and Renewal Exercise	1920,7466
 Mauritius. Enrolment	14775
 NDPA. Enrolment	9670
+NER Net Enrolment Rate	14916
 NIMC Enrols	7141
 NIMC Intensifies Ward-Level NIN Enrolment Nationwide	5284
 National Biometric Enrolment Begins	14557
 National Enrolment	13399
+Neither Enrolled	15244
 Net Enrollment Rate	12411
 Net Enrollment Rates	12411
 Net Enrolment Rate	12175,24
@@ -171,7 +177,9 @@ Platform Enrolment	4528,7984
 Pre-Primary Education Enrollment Rates	12411
 Pre-enrollment and Enrollment	6343
 Primary Education Enrollment Rates	12411
+Primary Gross Enrollment Ratio	14897
 Primary and Junior School Enrolment	2775
+Product GER Gross Enrolment Ratio GPI	14896
 Public Services for Women Education Enrolment Public	10759
 Pupil Enrolment and Number of Teachers	2775
 Q.159 ET ENREGISTRER LE NUMÉRO	13300
@@ -183,7 +191,9 @@ SOCIAL STATISTICS Student Enrolments	13479
 SOEURS ENREGISTRÉS	13300
 STEM Education and Enrolment	11140
 Saisines Enregistrées Dossiers	10975
+School Enrolment and Attendance	14851
 Secondary Education Enrollment Rates	12411
+Secondary Gross Enrollment Ratio	14897
 Secondary Net Enrolment Ratio	13991
 Sectors Enrolled	12551
 Services. Enrolment	12359

@@ -74,6 +74,7 @@ DOS UTENTES	10751
 Database Utilisation	12370
 Defense des Utilisateurs des Technologies Numériques	7920
 Departments and Agencies Utilize	2989
+Director General of Rwanda Utilities Regulatory Authority	14869
 Direitos de Utilização Individual	11430
 Direitos de Utilização Individual de Frequências	11430
 Direitos de Utilização Individual de Números	11430
@@ -94,8 +95,10 @@ Electric Utility Service Feeds Independent	9123
 Electricity and Utilities	13053
 Electromagnetic Field EUCL Energy Utility Corporation	718
 Emerging Technology Utilization for Digital Transformation	2668
-Energy Utility Corporation Limited	12358
+Energy Development Corporation Limited and Energy Utility	14871
+Energy Utility Corporation Limited	12358,2608
 Energy Utility Corporation Limited Ex	12358
+Energy Utility Corporation Ltd	15010
 Energy and Public Utilities	14745
 Energy and Public Utilities Ministry of Local	11332
 Energy and Utilities	9815,405
@@ -161,11 +164,15 @@ La Rwanda Utilities Regulatory Authority	13282
 Liens Utiles	13579
 Limites da Utilização	10755
 Lit and Utilized International Internet Bandwidth	6946
-M&E Utilization	11924
+M&E Utilization	11924,2964
 MAFANIKIO YA UTEKELEZAJI WA BAJETI YA	2868,3151
 MAPITIO YA UTEKELEZAJI WA MPANGO NA	2868,3151
+MATÉRIAUX UTILISÉS DANS LES INDUSTRIES	15177
+MATÉRIAUX UTILISÉS DANS LES INDUSTRIES ITEKA	15177
 MILHÕES DE UTILIZADORES	11531
 MP K A UTSA N B	1154
+Mahamud Utaama	15129
+Mahmud Utaama	15129
 Makindye Standards and Utilities Court	4235
 Makindye-based Standard Utilities and Wildlife Court	9781
 Manuais de Utilizador	12021
@@ -235,11 +242,14 @@ Public Utility and Regulatory Authority	4543
 Période Responsables Utilisation	14488
 QUEM DEVE UTILIZAR O MANUAL	11435
 QUOTA DE MERCADO DE UTILIZADORES ATIVOS	11531
+Quarterly GPU Cluster Utilization	15149
 R. Uteem	14841
 R3.2. Utilization	14020
 REACHES FULL UTILISATION Regional Office Buteko	13532
+REGULATORY BOARD RWANDA UTILITIES REGULATORY AUTHORITY	14867
 RESILIENCE FACILITY REACHES FULL UTILISATION	13532
 RESOURCES AVAILABILITY AND UTILISATION	13310
+RURA Rwanda Utilities Regulatory Agency RWF	14997
 Re le Utloile	2884
 Reclamações de Utilizadores	11520
 Renewable Energy Agency Utility Regulatory Authority	14745
@@ -252,9 +262,14 @@ Reza Cassam Uteem Minister of Labour and Industrial	14841
 Rodrigues Public Utilities Corporation	14794,36
 Ronald Ngala Utalii College	7441,192
 Rwanda Utilities	1214
-Rwanda Utilities Regulatory Authority	1880,23,3566,2209,410,39,139,182,87,3798,103
+Rwanda Utilities Regulatory	14997
+Rwanda Utilities Regulatory Authority	1880,23,3566,2209,410,39,139,182,87,3798,103,2431,68,12,134,68
 Rwanda Utilities Regulatory Authority National Bank	12358
+Rwanda Utilities Regulatory Authority SWG Sector	14947
+Rwanda Utilities Regulatory Authority10	14858
+Rwanda Utilities and Regulatory Authority	14864
 Rwanda's Utilities Regulatory Authority	6851
+RÉGISSANT LA PROTECTION DES UTILISATEURS DES	14919
 Réguliers Utile	14425
 République de Guinée. Utilisation	10693
 SARB Builds National Payment Utility	5691
@@ -287,6 +302,7 @@ Tenancy and Asset Utilisation	4896
 Togo Non-participant Utilisation	10711
 Toyota Land Cruisers Prado Sport Utility	6242
 Transport Development Agency RURA Rwanda Utilities	718
+Transportation and Public Utilities	14891
 TÉ UTILISÉ N'A PAS	13300
 TÉ UTILISÉ QUESTION NON POSÉE	13300
 UT ES LE L OI GFE	14565
@@ -300,7 +316,7 @@ UTC. Data	11553
 UTESP	13433
 UTESP Experts	13433
 UTESP Ministre	13433
-UTF-8	12,561,162,12,251,208,480,15,237,1,45,1177,146,902,639,770,805,3387,947,36,171,1,6,9,24,60,74,4,9,3,3,637,344,2086
+UTF-8	12,561,162,12,251,208,480,15,237,1,45,1177,146,902,639,770,805,3387,947,36,171,1,6,9,24,60,74,4,9,3,3,637,344,2086,773,164
 UTF-8 Mandatory Standards Format	11952
 UTF-836	1984
 UTGAM	13770
@@ -346,6 +362,7 @@ UTP CAT-6	12763
 UTUMISHI	6019
 UTxO Distributed	11130
 University of Mauritius UTM	14775
+University of Utah College of Law Research Paper	14932
 Utafiti	7218
 Utah. En	8702
 Utalii	6019
@@ -355,6 +372,7 @@ Utamboni	4209
 Utambulisho	2868
 Utambuzi	2868,4053
 Utande	1817
+Utanga	14870,49,258
 Utangulizi	2868,3151
 Utapeli	2868,4382
 Utatuzi	14263
@@ -377,7 +395,7 @@ Utilisateur	4403,6433,744,1834,427,622
 Utilisateurs	10874,2416,51
 Utilisateurs Mobile Money	6383
 Utilisateurs du Réseau de Transport	10975
-Utilisation	419,168,149,1,11,151,1085,1807,629,2366,1352,2088,485,110,53,2,89,10,822,147,1151,205,41,49,123,899,7,4,1,39,20,5,1,1,47,85
+Utilisation	419,168,149,1,11,151,1085,1807,629,2366,1352,2088,485,110,53,2,89,10,822,147,1151,205,41,49,123,899,7,4,1,39,20,5,1,1,47,85,239,1,1,7,41
 Utilisation CLA	14622
 Utilisation Commerciale	11593
 Utilisation Outputs Name	12241
@@ -390,6 +408,7 @@ Utilisation des Services Financiers Findex	10965
 Utilisation des TIC	10875
 Utilisation des TICs	13313
 Utilisation du Contrôle de Douala	10975
+Utilisation du Drapeau National	14861
 Utilisation du TPIg	13300
 Utilisation of Post Offices	12291
 Utilisations	13390
@@ -409,9 +428,9 @@ Utilising Global Navigation Satellite Systems	1131
 Utilising Information and Communication Technology	11231
 Utilisons-nous	747
 Utilisé	13375
-Utilisée	10286
+Utilisée	10286,5009
 Utilit	9123
-Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6,891,868
+Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6,891,868,211
 Utilities Climate	970
 Utilities Insurance Financial Services Banks Information	4972
 Utilities PPA Power Purchase Agreement RE	14745
@@ -423,7 +442,8 @@ Utilities and Resources Leader	7751
 Utilities and Urban Communities	9414
 Utilities and What That Means	5124
 Utilities and Wildlife Court	7771,2792
-Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187,421,219,310,386
+Utilities-related	15085
+Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187,421,219,310,386,937
 Utility Companies	12896
 Utility Double	14738
 Utility Index	13624
@@ -455,7 +475,7 @@ Utilizadores	5462,1157,4803,8,90,11
 Utilizadores de Internet	11569
 Utilizamos	9432,2133
 Utilizar	1701,2445,2316,4293,613,62,112,1232
-Utilization	1219,648,1924,1454,7645,48,39,971
+Utilization	1219,648,1924,1454,7645,48,39,971,940,266
 Utilization Gap	6051
 Utilization of Borrowed Funds	14546
 Utilization of CUCI	12978
@@ -477,7 +497,7 @@ Utilização de Recursos de Numeração	11430
 Utilização de Recursos de Rede Específicas	11430
 Utilização de Tarv de Acordo	10777
 Utilização de Telemóveis	10777
-Utilize	1777,211,689,1851,6249,1080,499,156,163
+Utilize	1777,211,689,1851,6249,1080,499,156,163,2322
 Utilize AI	12356,319
 Utilize Drawn Down Loan Proceeds	14546
 Utilized	2775,9451
@@ -488,13 +508,13 @@ Utilized International Internet Bandwidth	6946
 Utilized the Designation	14024
 Utilizem	11430,1
 Utilizes	14745
-Utilizing	4528,1904,3420,1079,1425,156,151,693
+Utilizing	4528,1904,3420,1079,1425,156,151,693,1585,56,37
 Utilizing AI	11265
 Utilizing MOSIP	9431
 Utilizing the GPE System Capacity Grant	12175
 Utilizing the LAMP	10761
 Utilizing the Unified Modelling Language Project	12395
-Utimaco	11955
+Utimaco	11955,3125
 Utoaji	6019
 UtonSoaDncfhoinardntighceeatfborroramrnadntshkeionyfte7ha5er	10969,1382
 Utonde Kogo	4209

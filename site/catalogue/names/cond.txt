@@ -18,6 +18,7 @@ Actions Stakeholder Timeline Measures Targets Conduct	5245
 Activities Conducted	10776
 Additional Condition of Effectiveness	14430
 Additional Conditions IBRD	11417
+Additional Conditions of Effectiveness	14912
 Air Conditioner	12383
 Air Conditioners	14736
 Air Conditioning	11134
@@ -36,8 +37,16 @@ Attendance Register Conduct	1988
 B Conduct Training	1988
 B. CONDITIONS ASSOCIATED WITH BANK’S INTERVENTION	11863,2075
 B. Conditions Associated	11863
+B. Withdrawal Conditions	14912
 B2 Recepcionista Consulado B1 Conductor A2	4209
 BCP Requirements Code of Conduct for Public Entities	6432
+Baseline Conditions	15164
+Baseline Conditions Across	15164
+Baseline Conditions Across Somali HEIs	15164
+Baseline Conditions Across Somali HEIs23	15164
+Baseline Conditions Across Somali HEIs29	15164
+Baseline Conditions Across Somali HEIs36	15164
+Baseline Conditions Across Somali HEIs43	15164
 Basic Conditions of Employment Act	11280,706
 Bonne Conduite des Agents	14537
 C. Payment Conditions Payment	13037
@@ -68,6 +77,7 @@ CONDITIONS DE VIE	13300
 CONDITIONS D’EXERCICE Article	10836
 CONDITIONS D’OCTROI DE L’AGREMENT OU	11522
 CONDITIONS GÉNÉRALES	14424
+CONDITIONS OF CONTRACT AND CONTRACT FORMS	15080
 CONDITIONS PRECEDENT	4896
 CONDITIONS UNDER THE PROMOTIONAL TARIFF FRAMEWORK	14754
 CONDIÇÕES DE ACESSIBILIDADE	11367
@@ -78,8 +88,10 @@ CONDOM FÉMININ	13300
 CONDOM UTILISÉ AVEC	13300
 CONDOM UTILISÉ PAS DE CONDOM UTILISÉ	13300
 CONDUCT AND THE NEXT GENERATION	13532
+CONDUCT OF BUSINESS	14880
 CONDUCT OF BUSINESS AND AFFAIRS	14449,44,101
 CONDUCT OF VOTERS	10049
+CONDUCT SUPERVISION The National Bank of Rwanda	15023
 CONDUCTED	13381
 CONDUCTING A DPIA	13381
 CONDUCTING PROBLEM-SOLVING AND PRACTICE ORIENTED AI	14004
@@ -94,16 +106,17 @@ Climatic Conditions	12253
 Climatic Conditions Lilongwe	12253
 Code de Conduite	14431,57,1,1
 Code of Code of Conduct for PIU SPMU	1988
-Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681,597,81,23,43,53,1003,932,347,1212,9,75
+Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681,597,81,23,43,53,1003,932,347,1212,9,75,252,185
 Code of Conduct for Council Members	14736
 Code of Conduct for Council Members. The Mauritius	14736
 Code of Conduct for Data Protection Compliance Organisations	11956
 Code of Conduct for Responsible Fisheries	14447
 Code of Conduct for Supplier's Personnel	13185
+Code of Conduct for Supplier’s Personnel	15080
 Code of Conduct for Workers	1988
 Code of Conduct. Sensitize	12253
 Code of USAC Committee Meetings Ethics and Conduct	6946
-Codes of Conduct	961,916,10376,1139
+Codes of Conduct	961,916,10376,1139,1746
 Codes of Conduct This Appendix	12253
 Codes of Conduct for Responsible Use	6432
 Codes of Conduct. PART VIII MISCELLANEOUS PROVISIONS	12929
@@ -154,7 +167,7 @@ Conditioners and Washing Machines	14736
 Conditioning ACL Access Control List AES	13185
 Conditionnement SOGEAR	13377
 Conditionner	8891
-Conditions	11,725,1,482,4,595,2749,1588,268,523,252,719,629,397,310,367,1088,4,109,15,40,303,117,567,42,60,186,75,112,62,135,14,26,344,11,87,270,3,1,9,10,11,54,17,26,106,8,406,220,264,3,4,60,1,176,61,41,56
+Conditions	11,725,1,482,4,595,2749,1588,268,523,252,719,629,397,310,367,1088,4,109,15,40,303,117,567,42,60,186,75,112,62,135,14,26,344,11,87,270,3,1,9,10,11,54,17,26,106,8,406,220,264,3,4,60,1,176,61,41,56,26,17,26,18,145,66,55
 Conditions Applicable	736
 Conditions Couverture	747
 Conditions Financing	10964
@@ -174,7 +187,7 @@ Conditions and Privacy Policy	9629
 Conditions de Decaissement	14540
 Conditions de Décaissement	14539
 Conditions de PDDSEB PHMECV Vie	737
-Conditions de Vie	737
+Conditions de Vie	737,14401
 Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58
 Conditions de Vie des Ménages DSSE	10874
 Conditions de Vie des Ménages EIPBF	10874
@@ -191,8 +204,8 @@ Conditions for Licensing Private Network Operators	736
 Conditions for Licensing Private Network Operators. PART	736
 Conditions for Permit Revocation	14113
 Conditions for Private Radio Transceiver Station	736
-Conditions of Contract	13185
-Conditions of Contract and Contract Forms	13185,342
+Conditions of Contract	13185,1895
+Conditions of Contract and Contract Forms	13185,342,1553
 Conditions of Data Transfers	12302
 Conditions of Employment	12951
 Conditions of Tendering and Undertakings	11240
@@ -232,8 +245,9 @@ Condon	9128
 Condor Galaxy. The Condor Galaxy	6411
 Conducive	395,11938,1671
 Conducive ICT	12453,892
+Conducive Legal Framework for Gender	14892
 Conducive Macro-Economic Environment	940
-Conduct	396,544,18,42,204,44,9,520,37,9,62,103,489,72,440,594,95,36,412,76,12,314,82,634,289,132,11,1,3,1,671,80,4,358,142,13,599,998,57,520,613,985,98,10,131,57,114,2,1,22,25,3,4,10,18,20,11,54,504,52,3,6,74,1,11,4,30,8,4,153,42,2,19,13,13,1,12,49,54,3,17,23,1,53,55,4,20,31,112,11,7,24,200,10,8,27,42,1,32,36,7,279,17,5,17,20,24,19,397,80,160,51,36,21,204,12,13,14,44,82,19,65,75,2,8,6,1,26,3,1,37
+Conduct	396,544,18,42,204,44,9,520,37,9,62,103,489,72,440,594,95,36,412,76,12,314,82,634,289,132,11,1,3,1,671,80,4,358,142,13,599,998,57,520,613,985,98,10,131,57,114,2,1,22,25,3,4,10,18,20,11,54,504,52,3,6,74,1,11,4,30,8,4,153,42,2,19,13,13,1,12,49,54,3,17,23,1,53,55,4,20,31,112,11,7,24,200,10,8,27,42,1,32,36,7,279,17,5,17,20,24,19,397,80,160,51,36,21,204,12,13,14,44,82,19,65,75,2,8,6,1,26,3,1,37,61,18,24,1,6,7,12,50,7,15,15,8,39,49,31
 Conduct AI	7548
 Conduct AI-related	12675
 Conduct African-led	1814
@@ -255,6 +269,7 @@ Conduct Hackathon for Girls	12241
 Conduct Internal Audits Despite The National	14546
 Conduct Internal Audits Despite the National Treasury	14546
 Conduct Internal Audits Management	14546
+Conduct KIFC Outcome	14997
 Conduct Market	12444
 Conduct National Adopt	1777
 Conduct National Assessment	1000
@@ -273,6 +288,7 @@ Conduct Rapid	1000
 Conduct Research	958
 Conduct Research and Development	13320
 Conduct Searches	14647
+Conduct Strategic Workforce Planning Strategic	14997
 Conduct Technical Supervision	12389
 Conduct Toolbox	1988
 Conduct Training	1988
@@ -285,15 +301,17 @@ Conduct of Money Laundering and Terrorism Re	12297
 Conduct of Recognition Review	3503
 Conduct of Searches	14647
 Conduct of The Interim Transition Governance	7934
-Conducted	582,618,690,1133,4037,1727,994,995,1953,221,12,8,5,105,397,510,773
+Conducted	582,618,690,1133,4037,1727,994,995,1953,221,12,8,5,105,397,510,773,225
+Conducted Extraordinary	15023
 Conducted Mass Registration	12984
+Conducted The Board	15023
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
-Conducting	1248,306,223,1,36,304,1533,1038,159,829,862,253,146,9,591,816,2422,353,2,3,22,26,16,387,43,234,44,80,20,2,158,74,13,146,131,144,357,279,51,20,225,385,2,47,634,145,16
+Conducting	1248,306,223,1,36,304,1533,1038,159,829,862,253,146,9,591,816,2422,353,2,3,22,26,16,387,43,234,44,80,20,2,158,74,13,146,131,144,357,279,51,20,225,385,2,47,634,145,16,162,84,45,57,103
 Conducting Consultative Meetings	1824
 Conducting DPIAs	13381
 Conducting KYC	6940
 Conducting the Population and Housing Census	2775
-Conductive	9123
+Conductive	9123,5952
 Conductor	4209,319,4595
 Conductor A1	4209
 Conductor A2	4209
@@ -322,6 +340,7 @@ Credit Conditions Survey	7907
 Crop Conditions Monitoring and Analysis Utilise	13925
 CruisingNicely General Terms and Conditions	12690
 Cybersecurity Conduct	6432
+Cybersecurity Financial Sector Conduct Financial Inclusion	15023
 CÓDIGO DE CONDUTA	11390,23
 Código de Conduta	2816,7935,2,615,73,1,6,3
 Código de Conduta O Consultor	11451
@@ -352,28 +371,39 @@ Développement Conduit	8237
 E&S Risks Conduct	2989
 E. Final Acceptance Testing Conduct	13185
 ECTS Coordenação Condições de Ingresso	11534
+EICV Integrated Household Living Conditions Survey	14922
 ELECTION'S CODE OF CONDUCT PROCLAMATION	13973
 ELECTORAL CODE OF CONDUCT ON COUNTERING	6907
 EMPLOI ET CONDITIONS DE TRAVAIL DANS	10875
 ENTRENCHING ETHICAL CONDUCT	12951
 EPS Terms and Conditions	12343
+ESS2 Labor and Working Conditions	14976
 ESS2 Labor and Working Conditions Relevance	1988
 ET LES CONDITIONS DE VIE DES	2342
 EVALUATION CRITERIA GENERAL EVALUATION CONDITIONS	12693
-Economic Conditions	12376
+Economic Conditions	12376,2793
+Election Conduct	14852
 Electoral Code of Conduct	6907,4169,1576
 Electrical Conductor Resistance	14736
 Enabling Conditions	12175
 Enabling Conditions This Partnership Compact	12175
 Enabling Conditions......................................15	13990
+Energy Conduct	14947
 Environmental and Sustainability Conduct Prefer	6432
 Estado. CAPÍTULO II CONDIÇÕES GERAIS	15
 Ethical Conduct	13474
+European Code of Conduct for Data Centres	15149
 European Code of Conduct for Energy Efficiency	7489
 Evaluating the Conduct and Practice of Digital Lending	12227
 Execution C6 Conduct Awareness Programs	12917
+Executive Director Financial Sector Development and Conduct	15130
+Expand Conduct	14997
+Expanded Strengthen Conduct	14997
+FIFAfrica26 Code of Conduct. The Forum	15265
+FINANCIAL SYSTEM STABILITY AND CONDUCT SUPERVISION	15023
 FIXANT LES CONDITIONS D'ETABLISSEMENT ET	10896,10
 Facilitating Conditions and Performance Expectancy	5349
+Feb-2026 No Conditions Type Description of Conditions	15138
 Fifth Integrated Household Living Conditions	12413
 Fifth Integrated Household Living Conditions Survey	12385
 Financial Conduct Authority	3942,1937,3953,4987
@@ -382,6 +412,11 @@ Financial Conduct Supervision Department	13532
 Financial Conduct Supervision Department PAUSE	13532
 Financial Sector Conduct Authority	4824,2062,453,1444,57,84,81,122,240,310,4698
 Financial Sector Conduct Authority of South Africa	11131
+Financial Sector Conduct Supervision	15130
+Financial Sector Conduct and Consumer Protection	15023
+Financial Sector Conduct and Consumer Protection Forum	15023
+Financial Sector Development and Conduct Directorate	15023
+Financial Sector Development and Conduct People and Culture	15023
 Fintech City Conduct	14819
 Fixation des Conditions	13313
 Flexibilidad Fiscal Condicional Se	4209
@@ -394,7 +429,7 @@ Fully Air Conditioned Rooms	14778
 G CONDOM FÉMININ	13300
 GBs. Conditional	1944
 GENERAL CONDITION OF BID	11209
-GENERAL CONDITIONS	5678,1,8751
+GENERAL CONDITIONS	5678,1,8751,482
 GENERAL CONDITIONS OF BID	11209
 GENERAL CONDITIONS OF BID SECTION	11209
 GENERAL CONDITIONS OF CONTRACT	11240
@@ -403,22 +438,26 @@ GUINEA DURING CONDOLENCE VISIT SLPHA	4619
 General Auction Conditions	7266
 General Code of Conduct	8354
 General Condition of Contract Annexure K	11240
-General Conditions	577,10252,2208,296,423,239,435,116,232
+General Conditions	577,10252,2208,296,423,239,435,116,232,134,75,93
 General Conditions Applicable	11863
-General Conditions and Schedule	13995,435
+General Conditions and Schedule	13995,435,482
 General Conditions for Application	5864
 General Conditions for Credits and Grants	2474
-General Conditions of Contract	12319,866,342,1239
+General Conditions of Contract	12319,866,342,1239,314
 General Conditions of Contract APPENDIX	13185
 General Conditions of Contract Annex III	14131
+General Conditions of Contract Section IX	15080
 General Conditions of Contract Table of Clauses	13185
 General Conditions of Contract and Scope	12400
 General Conditions of Contract. Items	14766
 General Conditions of Contract. Signed	13185
+General Conditions of Contract. Throughout	15080
 General Conditions the Supplier	13185
 General Government Terms and Conditions for Public	13328
 General Government Terms and Conditions for Public Service	13328
+General Terms and Conditions	14927
 General and Special Conditions of Contract	14766
+Geothermal Conduct	14947
 Government of Djibouti and UNHCR. B. Conditions	13938
 Gross Disorderly Conduct A Member	13387
 Growth Number of Audits Conducted	13053
@@ -433,6 +472,7 @@ IBM's Condor	9698
 ICPC Competition Law Code of Conduct	3513
 IDA General Conditions	11855
 IDA The Additional Conditions of Effectiveness	6539
+IDLO Special Conditions of Contract	14927
 II. HABITAT ET CONDITIONS DE VIE	13377
 III. Conduite	10914
 IMPORTANCE OF CONDUCTING A DPIA	13381
@@ -451,10 +491,11 @@ Includes Conducts	1686
 Indicateurs Conditions	14488,1,1
 Individual Code of Conduct	12253
 Information Disclosure Relevant Labor and Working Conditions	1284,9545,135,2367,1
+Information Technology. Conditions	15340
 Injec- Condom Condom	13300
 Inject- Condom Condom	13300
 Innovation Conduct	13077
-Integrated Household Living Conditions Survey	3013,9345,45
+Integrated Household Living Conditions Survey	3013,9345,45,2735
 Integrated Household Living Conditions Surveys	13418
 Integrated Households Living Conditions Survey EICV	12445
 Integrity Conduct	10819
@@ -463,7 +504,7 @@ Key Provisions Abolition of Certain Title Conditions	11261
 Kirkevold M. Conditions	1219
 LE DEVELOPPEMENT ET LES CONDITIONS	2342
 LICENCE CONDITIONS FOR THE REVISED TELECOMMUNICATIONS	9335
-Labor and Working Conditions	1264,9565,135,1001,1367,191,1030,23
+Labor and Working Conditions	1264,9565,135,1001,1367,191,1030,23,334
 Labor and Working Conditions Relevant ESS	1867,1737,2935,4229,649,143,345
 Labour and Working Conditions	1988
 Legal Covenants Conditions Description	11855
@@ -486,12 +527,14 @@ MANDATORY CONDUCTING OF DATA	13004
 MDAs Conduct	12917
 MENTIONNÉ. CONDOM	13300
 MFA and Conditional Access	10617
+MINICT X Conduct	15130
 MODALITES ET CONDITIONS GENERALES D’EXERCICE DES	11522
 MODALITES ET CONDITIONS SPECIFIQUES APPLICABLES AUX	11522
 Macroeconomic Conditions	12445
 Macroeconomic Conditions The Integrated Business Enterprise	12445
 Madagascar Conducts First Direct-to-Cell Satellite Trial	2362,225,502,4210
 Market Conduct Rules	7802
+Market Conduct Supervision Department	15023
 Market Conduct and Consumer Protection Unit Trains	11134
 Medium Medium Low Morocco Conditional Medium	6593
 Mental Health Conditions	13474
@@ -499,9 +542,12 @@ Minimum Access Conditions	5620
 MoI Medium Term C8 Conduct	12917
 Mory Condé	4945,3033,2632,81
 MÉTHODE CONDOM FÉMININ	13300
+NBR X Conduct	15130
+NBR’s Director of Financial Sector Conduct and Supervision	15042
 NITDA. Conduct	5665
 NMSEs. Roadmap of Financial Services Business Conduct	11994
 Nacional Passa A Ser Condição Para	12841
+National Communications Authority Conducts Consultation	14979,16
 National Cyber Conduct	1777
 Nedbank Staff The Market Conduct and Consumer	11134
 Neonatal Condi-	12151
@@ -532,15 +578,17 @@ PROVISIONS AS TO THE CONDUCT	14410
 Parcela Condição	11456
 Pauvreté Conditions	13804
 Payment Conditions	12008
+Peat Conduct	14947
 Performance Based Condition	14549
 Performance Based Conditions	6539,5849
 Performance Benchmarks Metric Normal Peak Conditions	11952
 Performance-Based Condition	13860,689
 Performance-Based Condition PBG	12175
-Performance-Based Conditions	1284,583,1022,673,42,2935,4229,61,135,453,143,1771,1,411
+Performance-Based Conditions	1284,583,1022,673,42,2935,4229,61,135,453,143,1771,1,411,1395
 Permit Conditions	13951
 Physical Condition Check Inspect	13185
 Plan Conduct	12453
+Plant Conducted MW	14947
 Portant Fixation des Conditions	13313
 Potential Trust Service Providers. Conduct	10819
 Precision Air Conditioners	9123
@@ -569,10 +617,12 @@ Raison Pilule Condom Condom Pilule du Rythme	13300
 Rating I Location and Site Condition Subtitle	14778
 Rating Location and Site Condition	14778
 Recessionary Economic Conditions Like	11198
+Recruitment Conduct	14997
 Register Conduct	1988
 Regulatory Technical Enablement Conduct	14819
 Related Legislation. Conduct	1777
 Relevant ESS3 Labor and Working Conditions Relevant	12253
+Relevant. ESS2 Labor and Working Conditions	14937
 Remuneration and Conditions of Service	14828,3
 Report ACCOUNTABILITY Code of Conduct	1988
 Report Conducted	10776
@@ -580,6 +630,7 @@ Report PART D CONDITIONS OF TENDERING	11240
 Reporting Conduct	1988
 Reporting of Criminal Conduct	14647
 Research and ACTIVITIES Conduct	12453
+Responsible Business Conduct	14997
 Ricardo Conde	6628
 Risk Rating Risk-Mitigation Measures Conditions for Residual	3604
 Risk Risk Rating Risk-Mitigation Measures Conditions	3604
@@ -595,6 +646,7 @@ SECÇÃO I CONDIÇÕES GERAIS DA ACTIVIDADE	11386
 SECÇÃO II CONDIÇÕES GERAIS ARTIGO	11519
 SECÇÃO II CONDIÇÕES GERAIS DO TRATAMENTO	15
 SECÇÃO II Condições Gerais	15
+STA. Somalia Monthly Vegetation Conditions	15256
 STATEMENT To Efficiently Conduct Educational Assessments	13477
 STOP CONDITION	1517
 STOP CONDITION CHECK	2215
@@ -618,10 +670,12 @@ Short Term C9 Conduct	12917
 Signed Code of Conduct	13392
 Signing of Codes of Conduct	2989
 Socioeconomic Living Conditions of Refugees	10841
+Somali National Bureau of Statistics' Terms and Conditions	14931
 Son Excellence le Professeur Alpha Condé	746
 South Africa’s Financial Sector Conduct Authority	2826
 Special Conditions	13037
-Special Conditions of Contract	11252,1933,342
+Special Conditions of Contract	11252,1933,342,1553
+Special Conditions of Contract Section X	15080
 Specific Conditions of Bid	11209
 Standard Terms and Conditions Regulations	4732
 Standardized Temperature Condition Index	12614
@@ -638,10 +692,12 @@ TERMS AND CONDITIONS	14726
 TERMS AND CONDITIONS ATTACHED ARE APPLICABLE	12400
 TERMS AND CONDITIONS OF USE	14427
 TITRE IV. CONDITIONS D'EXERCICE DES SERVICES	14429
+TRANSPARENCE DES CONDITIONS ET DES INFORMATIONS	14919
+TRANSPARENCY OF THE CONDITIONS AND INFORMATION	14919
 TRANSPARÊNCIA DAS CONDIÇÕES E DOS REQUISITOS	10755
 Taxa de Condomínio	11443
 Teaching and Learning Conditions MS Additional Financing	13392
-Terms and Conditions	962,10899,488,984,1393
+Terms and Conditions	962,10899,488,984,1393,205,218,49
 Terms and Conditions of Bidding	11240
 Terms and Conditions of Collective Agreements	13037
 Terms and Conditions of Selection Committee	13096
@@ -662,6 +718,8 @@ VAPT Requirements Conduct	11952
 VII Conditions	4420
 Vegetation Condition Index	11762,1988
 Video Digital Subscription PayGate Terms and Conditions	11122
+Vulnerability Assessment and Management Conduct	15149
+WFP. Conditions	14976
 WORKERS' CONDITIONS	12389
 Website Policy Terms and Conditions Copyright Policy	12215
 Workers' Code of Conduct Increased	12253

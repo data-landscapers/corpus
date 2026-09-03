@@ -2,8 +2,12 @@ AMR MPTF	14662
 ANC MP	8272
 ANC MPs	5507
 Abbé Venant Mpozako	13405
+Absolute MPI	15244
 Adm MPPEEP	2342
 Admin MPPEEP	2342
+Advise MPTT	14879
+Age of Household Head The MPI	15244
+Age of MPI H A Population HH	15244
 Agencies MFD Maximizing Finance for Development MPA	6539
 Ainabkoi MP Samuel Chepkonga	14222
 Airtel India and Airtel Tracy Mpofu	4896
@@ -13,6 +17,7 @@ Aldai MP Marianne Kitany	11085
 Alegp Usonga MP Samuel Atandi	6316
 All MPSAs	12360,948
 Alletra MP	11209
+Amasezerano Mpuzamahanga	15027
 Amos Mpungu	12874
 André Mpumba Pedro	6636
 Angola's MPLA	9399
@@ -23,6 +28,20 @@ Asafika Mpako and Simangele Moyo-Nyede Summary Following	12501
 Asafika Mpako and Stephen Ndoma	12380
 Assoc. Professor Mphatso Kamndaya	13158
 B. Mpundu	13387
+BNR BNR MPFSS	14997
+BNR BNR MPFSS Assets	14997
+BNR MPFSS	14997
+BNR MPFSS AUM	14997
+BNR MPFSS Compensation Fund	14997
+BNR MPFSS Corporate	14997
+BNR MPFSS GWP	14997
+BNR MPFSS Occupational	14997
+BNR MPFSS Outcome	14997
+BNR MPFSS Output	14997
+BNR MPFSS Private	14997
+BNR MPFSS Private Pension	14997
+BNR MPFSS Public and Private	14997
+BNR MPFSS and Private	14997
 Bahamas MPs	6363
 Bajeti. MPANGO NA MAKADIRIO YA MAPATO	6019
 Benson Mpalo	12482
@@ -43,12 +62,14 @@ CEO Vika Mpisane	9700
 CIBITOKE ISARE MPANDA MUGERE MUGINA MUHUTA	13390
 CISSE Dramane Adm MPPEEP	2342
 COBAC MPMEs Activité	10965
+CONCLUSION The Sudan MPI	15244
 CPA and MPA	10829
 Cabinet Secretary. Likuyani MP Innocent Mugabe	14270
 Cabinet. Mbabane East MP Welcome Dlamini	5450
 Cabinet. Sigwe MP David Ngcamphalala	5450
 Capital MPA Early Years Program	11469
 Capital MPA Governance	11469
+Central Bureau of Statistics Child MPI Child	15244
 Chairperson Prof. I. D.T. Mpof Prof.PZro.fM	1154
 Chief Chikwanda of Mpika and Chief Kafwimbi of Isoka	13580
 Chief Operations Officer MPhil	11134
@@ -59,6 +80,7 @@ Commissioner of Police. MPF	14760
 Committee Chairperson Mr. Mwine Mpaka	12319
 Communication Plan INTERNAL Board of Directors MPCC	11131
 Community Councils of Seate and Mphokojoane	12699
+Compute the MPI	15244
 Considering MPSLSW	13523
 Construction of Kholongo Multi-Purpose Dam for Mponela Town	13122
 Contact MP	7886
@@ -66,7 +88,7 @@ Contact MP Coefficient	7886
 Contact MP Protest	7886
 Council M&E Monitoring and Evaluation MPAT Management	11224
 County MP	14631
-Current MPA Program Development Objective	2712,3867
+Current MPA Program Development Objective	2712,3867,8580
 D'après José Mpanda	3818
 DA MP Alexandra Abrahams	3504
 DATA PROTECTION AUTHORITY P.O. Box MP	1877
@@ -80,6 +102,9 @@ Deputy Minister Mr Njabulo Nzuza MP	11218
 Dieketseng Masesi Mashego and John Mpe	9228
 Digital Realty's MPM1	12237
 Director General André Mpumba Pedro	6681
+Disabilities Household Disability Status Value MPI	15244
+Disabilities MPI Indicators Sudan	15244
+Djibouti. MPTT	14879
 Dlamini-Nxumalo Ms. Susan Mordaunt Mr. Mphiwa	12969
 Dzivarasekwa MP Edwin Mushoriwa	9229
 E-Waste MP	1988
@@ -89,6 +114,7 @@ Eastern and Southern Africa. MPA FINANCING DATA	11417
 Ebuka and Mpolonjeni. Wandile	13235
 Econet InfraCo Mrs Tracy Mpofu Divyajeet	4896
 Eldama Ravine MP Musa Sirma	9334
+Embed MPI	15244
 Executive Director Dr Mpoki Ulisubisya	7321
 FMFBNP MPR Ministry of Petroleum Resources NBC	11857
 Fahira Mpalanyi	8032
@@ -102,12 +128,13 @@ Former Kabete MP Paul Muite	9545
 Foundation MPTF AHPSR TOTAL Montant	14622
 Free State and Mpumalanga	11239
 Frequency and Attendance of MPCC Meetings	11134
+Fully BNR MPFSS	14997
 Gatundu South MP Kagombe	9940
 Gauteng Mpumala Limpopo National	11211
 Gauteng Mpumalanga Limpopo	11192
 Gauteng and Mpumalanga	11192
 Georges Mpelé	8737
-Global MPI	206
+Global MPI	206,15038
 Godfrey Mpuse	12557
 Government of Uganda. Mr. Mpaka	12319
 Grace Chakwera Mphandamkoko	13070
@@ -116,8 +143,12 @@ Guarantee Agency ML Machine Learning MPA	3604
 Guichet MPME	7891
 H.E Chileshe Mpundu Kapwepwe	13440
 H.E. Chileshe Mpundu Kapwepwe	7963
+H.E. MP Ahmed Osman Dirie	15171
 HEA. Establish the MPI	396
 HEPRR MPA	11417
+HH Head MPI H A Education	15244
+HH Value MPI Value H	15244
+HH Youth NEET Head MPI Child	15244
 HO AN’NY MPIASA REHETRA SY NY	14488,1
 Head Internal Audit MPhil	11134
 Heads of ICT All MPSAs Document History	13308
@@ -132,21 +163,29 @@ Honorable MP Mohamed Adam Moalim	1694
 Honourable Chipiliro Mpinganjira	13156
 Honourable Dr. George Chaponda MP	9761
 Honourable Lejone Mpotjoane	12729
+Household-level MPI	15244
 ID Simultaneous MPA	11417
 IDEA MPA	1572,132,550,37,4248,6451
 IDEA MPA Corporate Scorecard Indicators	6539
 IDEA MPA Previous Approved Versions Phase	6539
 IDEA MPA. Total Operation Cost	1572
+IDPs MPI	15244
 IFP MP Busaphi Machi	7404,3215
 IFRS IR IMF KPIs MPCC	11131
 IMMIGRANTS IN KAPIRI MPOSHI Mambo	12454
 INNOIP YAFUNGUA FURSA MPYA KWA WABUNIFU	11643
 ISAM-BATAN’OLONA HO AN’NY MPIASA REHETRA SY	14490
+ISD BNR MPFSS	14997
 Identifier MPQ NDoH Integrating the Healthcare Enterprise	1009
+Ikigega Mpuzamahanga	15102
 Ile Marenga Bwishyura Juru Karenge Mpanga	12413
+Implement MPI-weighted	15244
 Independent Electoral Commission Mr. Mphasa Mokhochane	12652
 Industrial Court of Appeal. Okavango West MP	12610
+Integrate MPI	15244
+International MPLS	15274
 Isiolo South MP	14631
+Itangazo Mpuzamahanga	14861
 Ivoire. Adm MPPEEP	2342
 Jean Claude Mpawenimana	9270
 Jimbo la Mpanda Vijijini	2868
@@ -182,11 +221,13 @@ Lejone Mpotjoane	6490
 Lekeleni Mpunga	12291
 Leon Schreiber MP	11218
 Les MPME	11944
+Levels of MPI	15244
 Likuyani MP Innocent Mugabe	14222
 Limpopo Gauteng Mpumala	11262
 Limpopo Mpumalanga Northern Cape North West	11198
 Limpopo Unknown Mpumalanga NoUrtnhk-nWoewsnt Free State	8999
 Limpopo and Mpumalanga	9967,1278,27,25
+Liquidity BNR MPFSS Coverage Ratio	14997
 Lobamba Lomdzala MP Marwick Khumalo	13013
 Lobamba MP Michael Masilela	7264
 Localization Coordination Council MPCA Multi-Purpose Cash	6947
@@ -203,10 +244,14 @@ M. Robert Mwanba MP World Bank	11916
 MAPITIO YA UTEKELEZAJI WA MPANGO NA	2868,3151
 MCP MP	9220
 MF MP NAIs ODINE PAN	10766
+MICS Multiple Indicator Cluster Surveys MPI	15244
 MINADER MPMEs Activité	10965
+MINECOFIN Ministry of Finance and Economic Planning MPFSS	15023
 MIROMIROKURI Jean Paul SIMBANANIYE Diomede MPOZENZI	13300
 MISS and MPSS	11986
 MK MP Thembinkosi Mjadu	10806
+MMI Military Medical Insurance MPFSS Monetary	14997
+MODE OF LIVING The MPI	15244
 MOH Ministry of Health MPA Multiphase Programmatic	11417
 MOPWT Ministry of Public Works and Transport MP	12970
 MOZIX. Digital Realty's MPM1	12237
@@ -281,7 +326,7 @@ MPA Program	1914,1690,7813
 MPA Program Development Objective	3604,7813,971
 MPA Program Development Objective Increase	3562
 MPA Program Development Objective Official Use	11417
-MPA Program Development Objective Original MPA	2712,3867
+MPA Program Development Objective Original MPA	2712,3867,8580
 MPA Program Financing Envelope	3562,42,2935,4878
 MPA Program Financing Envelope Proposed Development	11417
 MPA Proposed Development Objective	13787
@@ -292,9 +337,11 @@ MPA. Financing	13743
 MPA. Official Use Only Page	11417
 MPAFC	10975
 MPANGO NA MAKADIRIO YA MAPATO NA	2868
+MPANO	15056
 MPBGP	13300
 MPBrAivBaWteE	1154
 MPC Announcement and Media Briefing	13532
+MPC and FSC Press Conference	15023
 MPCC Member Dr. Phil Mnisi	11131
 MPCC Terms of Reference The MPCC	11131,3
 MPDI Working Groups	6938
@@ -308,8 +355,38 @@ MPESW	12923
 MPF Policy Statement	14760
 MPF Policy Statement The MPF	14760
 MPF Strategic Policing Plan	14760
+MPF and GSFF	14983
+MPFSS	14997
+MPFSS Individual Central Bank	14997
+MPFSS Output	14997
+MPI Appendix	15244
+MPI Child Nutrition Health	15244
 MPI Electronic Master Patient Index PHISCs	396
+MPI Estimates	15244
+MPI GLOSSARY Multiple Deprivations	15244
+MPI Glossary	15244
+MPI H A P	15244
+MPI H A P. Share East	15244
+MPI H A P. Share ElGadarif	15244
+MPI H A P. Share Ghibaish	15244
+MPI H A P. Share Habila	15244
+MPI H A P. Share Kalmando	15244
+MPI H A P. Share Khartoum	15244
+MPI H A P. Share North	15244
+MPI H A P. Share River	15244
+MPI H A P. Share South	15244
+MPI H A P. Share Urban	15244
+MPI H A P. Share White	15244
+MPI Implement	15244
+MPI MN	15244
+MPI and H	15244
+MPI for Household	15244
+MPI-DRIVEN TARGETING AND REAL-TIME FINANCING STRATEGY	15244
 MPI-Hmmer	9475
+MPI-based	15244
+MPI-based M&E	15244
+MPI-linked	15244
+MPI. Poverty	15244
 MPIARAMIASA AMIN’NY TETIKASA Manaiky	14488,1
 MPIFE	4412
 MPLA António Paulo	7080
@@ -366,14 +443,20 @@ MPT's African	7489
 MPT-CERT	6657,1
 MPTEN	1178,86,6010,702,1
 MPTENT	2835
+MPTF Gateway ID	14925
+MPTT and NCA	14888
+MPTTSomalia CONTACT	14879
+MPTTSomalia Twitter	14879
 MPULLA	6613
 MPUMALANGA	1940
+MPWRH	14934
 MPWT. The Office	12977
 MPesa	7653
 MPhil	7845,3283,3647
 MPost	10983
 MPs Chenjerai Kangausaru	10502
 MPs Engage Key Stakeholders The National	14631
+MPs Hand Multinational Tech Firms Tax	14932
 MPs and MCAs	12268
 MPs' ICT	699
 MPs. Icasa	5050
@@ -386,11 +469,14 @@ MW Mpatamanga Hydro	13060
 Macudvulwini and Mphumakudze	13012
 Madavida Mphunyane	12712
 Mahonda MP	6123
+Make MPI	15244
+Making MPI	15244
 Malava MP Malulu Injendi	2515
 Malawi. MPS	12953
 Manager Human Resource MPF	14760
 Mandritrasy Orinasa Mpanao	14490
 Maseyisini MP Nokuthula Dlamini	5450
+Masezerano Mpuzamahanga	14861
 Mass Drug Administration MPDSR Maternal and Perinatal	12729
 Master Health Facility List MP	11252
 Mathias Mpuuga	1283
@@ -416,12 +502,14 @@ Minister of Posts and Telecommunications José Mpanda Kabangu	12035
 Ministry of Health and Population MPA Minimum Package	10829
 MoU Memorandum of Understanding MPSA Ministry Province	13308
 MoUs MPCC MSME NBFIs NDC NII	11134
+Mode MPI H A Population of Living	15244
 Moderate Overall MPA Program Risk	11417
 Mohloai Mpesi FRUSTRATION	11628
 Molo MP Kuria Kimani	6409
 Monsieur Mpeye Itonime	6460
 Morris Mpala and Titus Mukove	9459
 Mp3 and Mp4	10979
+Mpagnées	14849
 Mpahazo	14488,1,1
 Mpaka	12095,53
 Mpakeni	12956,6,161
@@ -439,6 +527,7 @@ Mpanda. Spécialisée	13405
 Mpandze-Mbandlane Highway	12956
 Mpanga AF Mpanga AF Mpanga Kampala	12232
 Mpanga Market	8410
+Mpanga Solar PV	15049
 Mpango	2868,194,2953,4,583,319,4691
 Mpango Mkakati	2868
 Mpara	9642
@@ -512,6 +601,8 @@ Mpongwe District	3524
 Mpotola	12291
 Mpotsa	4931
 Mpox Outbreak Response	10776
+Mpox Pandemic	15052
+Mpox Pandemic Procurement of Monkeypox Kits	15052
 Mpox Treatment Centre	13166
 Mpozako	13405
 Mpozako. Il	13405
@@ -536,6 +627,7 @@ Mpumelelo Nconco	7961
 Mpumi Edward	7532
 Mpungu	14188
 Mpungu Constituency and Naimanya	10465
+Mpuzamahanga	15027
 Mpwapwa	2868,4981
 Mpwapwa. Serikali	7849
 Mr. Henry Mphasa Ex-Officio Member Full	13053
@@ -571,6 +663,7 @@ National Mpox	13163
 National Treasury. MPs	14222
 NdhloVvuice Chairperson Prof. I. D.T. Mpofu	1154
 Ndhlovu Prof. I. D.T. Mpofu Dr	1554
+Net Stable BNR MPFSS Funding Ratio	14997
 Ninampongeza Mheshimiwa Dkt. Philip Isdor Mpango	2868
 Nkangala TVET College and Mpumalanga CET College	11281
 Nombre de MPME	11944
@@ -579,11 +672,15 @@ November. Asafika Mpako	12501
 Ntethelelo Marcia-Anne Mpofu	11302
 Number of Beneficiaries Mpumalanga Agincourt	6832
 O MPLA	6282
+OPHI MPI Methodological	15244
+OPHI MPI Methodological Note	15244
 OPHI's Global MPI	206
 ORGANISATIONAL CHART OF THE MPF	14760
 ORGANISATIONAL CHART OF THE MPF ORGANISATION	14760
+Objective of MPA Phase	15097
 Okavango West MP	12593
 Open MPI	11471
+Operational BNR MPFSS	14997
 Orinasa Mpanao	14488,1,1
 P.O BOX MP	3386
 P.O. Box MP	736
@@ -610,23 +707,40 @@ R.T. Masekesa Prof. I. D.T. Mpofu	1154
 RAPID-CI MPA	3604
 Rationale for Using the MPA	3604
 Richel Mpassi	12024
+Rukiko Mpanabyaha	14862
+S MPI	15244
+S- MPI	15244
 S.E.M. José MPANDA KABANGU	14161
 SC MP	13440
 SET4Jobs MPA	14576
 SET4Jobs MPA Pillar	14576
 Sera Mpya	2868,3151
+Sex of Head of Household MPI Indicators Sudan	15244
+Sex of Household Head The MPI	15244
+Sex of Value MPI Value H	15244
 Sheema District Woman MP	1210
 Shoshong MP	12610
 Sigwe MP David	13013
 Smart Zambia Institute MPA FINANCING DETAILS	3562
 Solwezi East MP Alex Katakwe	3182
+Somalia. MPTT	14879
 Son Excellence José Mpanda Kabangu	6460
 Special Seats MP Sikudhani Chikambu	14211
+State's MPI	15244
+State-Level MPI Metrics	15244
+State-level MPI	15244
+States MPI H A Population	15244
+States MPI MPI	15244
+States and Localities Levels MPI	15244
+States' MPI	15244
+States' MPI State MPI Youth Neet	15244
 Strategic Importance The MPRS	14761
 Strengthened MPDSR	12729
 Structure The MPF	14760
 Substantial Overall MPA Program Risk	3604
 Substantial. At the MPA Program	3604
+Sudan MPO Projections	14897
+Sudan's MPI	15244
 TNM Mpamba	3035,253,460,8567,849
 TNM Mpamba Limited	3288
 Tackling the MPOX Outbreak	10776
@@ -641,12 +755,14 @@ Tracy Mpofu Nil Nil	4896
 Tracy Mpofu Nil Nil Nil	4896
 Télécommunications José Mpanda Kabangu. D'après	3818
 University of Mpumalanga	10241
+Use MPI	15244
 VLAN and MPLS	3840
 Vanimpotoana Tompon’andraikitra Fanaovan’ny Mpisan’ny	14490
 Venant Mpozako	13405
 Vodacom MPLS IP-VPN	12769
 Vodacom Mpesa	12663
 WURI MPA	552,779
+Work Status of Household Head MPI Indicators	15244
 World Bank MPME	7891
 World Bank's Guichet MPME	7891
 Y N Mr. Henry Mphasa	13053

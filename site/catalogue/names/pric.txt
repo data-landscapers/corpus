@@ -7,6 +7,7 @@ Actual Operator Prices	14297
 Administrative Incentive Pricing	3102,6
 Adverse Price	11994
 African Prices	10856
+Analysis of Somalia’s Mobile Broadband Price Benchmarking	15120
 Annual Average Retail Prices of Selected Consumer	2775
 Applicant's Best Price Offer	8582
 Authority of His Majesty the King Price	12722
@@ -48,6 +49,7 @@ CURRENT FUEL PRICES Current Energy Prices	12515
 Cameroon Cocoa Farmgate Prices Rise CFA250	965,3924,206
 Carbon Pricing System	12389
 Cell C Home LTE Price Plan	11259
+Challenges and Mitigation Calculating ICT Price Basket	15120
 Change Prices	12389
 Chipboard Price Code	13385
 Co-operation and Development PPI Producer Price Index	11286
@@ -63,17 +65,20 @@ Constant Prices	2775
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1
+Consumer Price Index CSD Central Securities	15023
 Consumer Price Index Manual	11258
 Consumer Price Index Recommendations	14777
 Consumer Price Index Survey	12962
+Consumer Price Index. Table	14896
 Consumer Price Indices	2775,10187,1772
 Consumer Price Indices Kenya	2775
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Consumer Price Indices for Nairobi Lower Income	2775
+Consumer Prices Index CSOs	14857
 Contract Administration Price Code	13385
 Contract Administration PriceCode	13385
-Contract Price	6946,6239
+Contract Price	6946,6239,1895
 Contract Price P0	13185
 Contract Price of Goods	13185
 Contract Price. Further	13185
@@ -140,28 +145,39 @@ G Spectrum Spectrum Pricing and Allocation Digital	11857
 GB Data Bundle Price Trend	11259
 GB Data Bundle Price Trend R	11259
 GB Data Bundles Price Trend	11259
+GB Price Vat Inc	15279
 GDP Developments Price Developments External Sector	11131
 General Price Code	13385
 Global Price	962
 Government. Price	1284
 Guidance for Design Price Code	13385
+Guidelines and Performance. The Somalia ICT Price	15120
 HRH Price Lonkhokhela	12969
 Harmonised Consumer Price Index	12962
 Harmonized Consumer Price Index	12962
 ICT Price Basket	11262,137
+ICT Price Basket Analysis	15120
+ICT Price Basket Indicators	15120
 ICT Price Basket Manual	11563
 IMF Producer Price Index Manual Theory	11152
 ITU Price Baskets ICT Price Basket	12395
 ITU and PricewaterhouseCoopers	11917
+Increased Prices of Goods and Services	14932
+Increased Prices of Goods and Services Evidence	14932
+Indicators Affordability Price	14897
 Industry Price Code	13385
 Initial Prices	13037
 Institute for Prices and Competition	11380
 Interconnection Prices and Retail Tariffs	14017
+International Price Comparisons I-PRSP	14857
 Internet Prices Slashed	4070
 Jet A1 Retail Price	718
 Kigali Public Pump Price	718
 LIST OF CHARTS NAMIBIA PRODUCER PRICE	11152
+Land Purchase Price	15149
 Latest Pricey Export	3256
+Letter of Proposal Financial Part and Price Schedules	15080
+Letters of Proposal and Price Schedules	15080
 Limited Price Functional	12214
 Line Prices	11252
 Lithium Prices Recover	4769,394,334,86
@@ -171,6 +187,7 @@ Local and International Petroleum Prices	12256
 Lusaka. Price K64.00	13403
 MARKET PRICE OF THE ORDINARY SHARES	7198
 MB Data Bundles Price Trend	11259
+MB Price Vat Inc	15279
 MBB Price	11563
 MONTHLY HIGH AND LOW SHARE PRICES	4896
 MTN Speed-based Bundles Bundle Name Price	11259
@@ -182,6 +199,7 @@ Market Prices	2775,2121
 Maximum Retail Price	14818
 Maximum Wholesale and Retail Prices of Bread	12930
 Mbps Average Price	11259
+Methodologies for Calculating ICT Price Basket Indicators	15120
 MetroFibre Go Once-off Pricing	11259
 Min Rose Pola Pricemou	3959
 Minimum Reserve Price	8582
@@ -200,7 +218,7 @@ Name of Bidder Technical Bid Price Evaluated	13185
 Namibia Producer Price Index	11122,30
 Namibia Producer Price Indices	11152
 Namibia Statistics Agency NAMIBIA PRODUCER PRICE	11152
-National Consumer Price Index	13053
+National Consumer Price Index	13053,2138
 National Consumer Price Indices and Rates of Inflation	2775
 National Council for Prices	11380
 National Standardised Price List	13685
@@ -224,7 +242,7 @@ Personal Interviewing CPI Consumer Price Index	13359
 Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79
 Price Adjustment Formula	13185
 Price Analysis and Monitoring Division	14839
 Price Changes	2775
@@ -252,11 +270,12 @@ Price Name of Bidder	13185
 Price Negotiation Committee Established	12912
 Price Proposal	11209
 Price Proposal Requirement Annexure B	11240
-Price Schedule	13185
+Price Proposal for RFP N 96 2024 SOM	14927
+Price Schedule	13185,1742
 Price Schedule Form Annex VI	14131
-Price Schedule Forms	13185
+Price Schedule Forms	13185,1895
 Price Schedule. Question	7987
-Price Schedules	13185,1581
+Price Schedules	13185,1581,314
 Price Stabilisation Account	14267
 Price Stabilisation Fund of Rs	14829
 Price Stability	13474
@@ -285,8 +304,9 @@ PriceWaterhouseCoopers	6409
 Priced	6690
 Priced Code	13385
 Pricelist Namibia	12478
+Pricelist for RINEX	14864
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40
 Prices Adjusted	2775
 Prices and In-bundle Rates for Standard Daily Data	11259
 Prices and Inflation	14734
@@ -297,7 +317,7 @@ PricewaterhouseCoopers	6893
 PricewaterhouseCoopers Zambia	2240
 PricewaterhouseCoopers. The Integrated Annual Report	13133
 Prichard	11133,1236,579
-Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5,266,204,37,31
+Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5,266,204,37,31,1959,68,32,167
 Pricing Mechanism	1828
 Pricing Power	12389
 Pricing Requirements Completion	7266
@@ -305,6 +325,7 @@ Pricing Rules	12364
 Pricing Rules The BoZ	12364
 Pricing Schedule	7266
 Pricing Schedule and Appendix B1	7266
+Pricing Structure Evaluation	15120
 Pricing The Bank of Zambia	12364
 Pricing The Charges	12364
 Pricing for Data Protection Training	2987
@@ -314,12 +335,15 @@ Producer Price Index Public Sector Debt	14777
 Producer Price Index Recommendations	14777
 Producer Price Index SARB South African	11258
 Producer Price Indexes PSDS Public Sector	14777
+Producer Price Indices and Construction Sector Indices	15085
 Producer Prices	2775
 Producer Prices Index	2775
 Producing Consumer Price Indices	11258
 Project Specification Price Code	13385
 Project Specification PriceCode	13385
 Projection Specification Price Code	13385
+Proposal Price	15080
+Proposal Prices	15080
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
 Purpose CPI Consumer Price Index CPIS	14777
 Purpose CPI Consumer Price Indexes DQAF	14777
@@ -357,9 +381,11 @@ Services Producer Price Index	14777
 Sewers Price Code	13385
 Sickles Price Code	13385
 Size of Price Per Number Band Spectrum	736
+Somalia’s ICT Price Basket Indicators	15120
 South Africa. Pricing	1553
 South African Residential Property Price Index	11286
-Spectrum Pricing	5390
+Spectrum Pricing	5390,9507
+Spectrum Pricing The GSMA	14897
 Spectrum Pricing and Renewals for Sustainable Investments	5390
 Spon's Civil Engineering and Highway Works Price	3583
 Standard Prepaid Data Bundles Prices and OOB	11259

@@ -1,6 +1,6 @@
 ADU Caravan	10937
 ADU. At Capital Foncier	10937
-ADULT AND MATERNAL MORTALITY	13454
+ADULT AND MATERNAL MORTALITY	13454,1793
 ADULTE	13300
 ADULTE E POUR LA Pour	13300
 ADULTE L'échantillon	13300
@@ -31,6 +31,7 @@ ADULTS WHO SAVED FORMALLY PUT	10977
 ADULTS WITH ACCOUNTS MADE	10977
 ADULTS WORRY	10977
 ADULTS WORRY ABOUT HAVING ENOUGH	10977
+AE Adult Education	14916
 AL Jeu Adu Jeu Adu	13390
 ALL ADULTS NOW HAVE ONE	10977
 ALL ADULTS SAVING. NEARLY HALF	10977
@@ -56,12 +57,13 @@ AdulaiBaldé	11544
 Adulcínio Lutucuta	11484
 Adulcínio Lutucuta DR Delegado	11484
 Adulcínio Lutucuta. Localizado	11484
-Adult	1828,1755,21,7110,290,853,107,22,165,216,16,19,98,787,673,31
+Adult	1828,1755,21,7110,290,853,107,22,165,216,16,19,98,787,673,31,905,1,19,6
 Adult Basic Education Programme	12574
 Adult Basic Education and Training	12914
 Adult Centres	2775
 Adult Content	12395
 Adult Education	2775
+Adult Education Administration	14853
 Adult Education Centres	2775
 Adult Education Enrollment	12411
 Adult Education and Media	13990
@@ -73,7 +75,9 @@ Adult Learning Application	899
 Adult Learning and Education	14073
 Adult Literacy	12411
 Adult Literacy Centers	12411
-Adult Population	940,11469
+Adult Mortality	15247
+Adult Population	940,11469,2614
+Adult Population Survey	14897
 Adult and Continuing Education and Training	6832
 Adult and Non-Formal Education	12975,985,31,3
 Adult and Non-formal Education	13991
@@ -101,13 +105,15 @@ Adultos Direcção Nacional	10766
 Adultos Direcção Nacional da Educação Pré-Escolar	10766
 Adultos Educação Moral	10766
 Adultos. Anuário Estatístico da Educação	10766
-Adults	418,1227,183,7966,920,263,27,581,272,62,45,93,93,99,124,10,26,686,219,1252
+Adults	418,1227,183,7966,920,263,27,581,272,62,45,93,93,99,124,10,26,686,219,1252,564,114,3
+Adults’ Nutritional Status	15247
 Adumo and GAAP	10393
 Adurelang Nsomo	4209
 Adurelang Oyek Añisok	4209
 Adusei J. Achieving	12231
 Adut Salva Kiir Mayardit	4678
 Advance Digital Literacy and Skills for Students and Adults	13991
+Alternative Basic Education and Adult Basic Education	14896
 António Adulai Queta	11561
 Autoridade Geral Aduaneira	4747
 Autres Total Jeune Hommes Adulte	13390
@@ -135,6 +141,7 @@ DERECHOS ADUANEROS Artículo	4209
 DG Aduanas	4209
 Department of Adult and Media Education AUP	13956
 Direcciones Generales de Aduanas	4209
+Direct Estimates of Adult Mortality	15247
 Direct Estimates of Adult and Maternal Mortality	13454
 Directorate of Adult Education	12345
 Dr. Michael Adusei	10067
@@ -164,6 +171,7 @@ Femmes Jeune Mixtes Adulte Mixte Sous	13390
 Femmes Jeunes Adultes	13390
 Femmes Jeunes Adultes Sous-total	13390
 GSMA Intelligence Adult	11964
+HIGHER EDUCATION ADULT BASIC EDUCATION TECHNICAL	14896
 HOMME ADULTE	13300
 Homme Femme Adulte Mixte Jeune Adulte	13390
 Homme Femme Jeune Adulte Jeune Adulte	13390
@@ -202,6 +210,7 @@ Jeune Hommes Adulte Mixte S	13390
 Jeune Hommes Adulte Mixte Sous	13390
 Jeunes Adultes	13390
 Jeunes Adultes Total Jeunes Adultes	13390
+M Female Male Adults	15023
 M-Pesa Faces Its Adult Future	6603
 MALES VS FEMALES DEFINITIONS Adult	12409
 MEN. MORE ADULTS ARE USING	10977
@@ -215,6 +224,7 @@ Mixte Jeune Adult	13390
 Mixte Jeune Adulte Jeune Adulte Jeune	13390
 Mixte Jeune Mixte Adulte Mixte S	13390
 N Catégorie Sexe Age Adulte	13390
+NUTRITION OF CHILDREN AND ADULTS	15247
 NUTRIÇÃO DE CRIANÇAS E ADULTOS	10777
 National ADU Caravan	10937
 Nigeria Adult	11857
@@ -230,6 +240,7 @@ Penetration Number of Adults	11857
 Primero Cabo Aduanero de Primera Agente de Primera	4209
 Prince Adu-Owusu	7697,1
 Probabilidades da Mortalidade Adulta	10777
+Productive Adulthood	15059
 Professor Kofi Sarpong Adu-Manu	10383
 Province Commune Homme Jeune Adulte Mixte	13390
 REFERENCES Adu	6938

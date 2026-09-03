@@ -5,6 +5,8 @@ Afrique Centrale CoPil Comité de Pilotage CoTec	11944
 Agence de Développement du Digital. Ce Comité	9406
 Alto Comissariado	11364,1
 Ao Coordenador da Comissão Inspectiva	11452
+Attributions du Comité de Politique	15102
+Attributions du Comité de Stabilité	15102
 B Comisario Grupo B Consejero Grupo	4209
 C Comissão Nacional de Direitos Humanos	6530
 CEMAC Le Comité Technique	11944
@@ -40,7 +42,7 @@ Celador Comisario Grupo D Coordinador Grupo	4209
 Civil Registration and Vital Statistics Coming Soon	12406
 Comienza	9303
 Comin	10856
-Coming	434,3213,785,1390,2188,2052,1065,1126,827,381,1292
+Coming	434,3213,785,1390,2188,2052,1065,1126,827,381,1292,154,352
 Coming AI Tsunami	6948
 Coming Soon	1154,400
 Comis. For. A.C	4209
@@ -88,7 +90,7 @@ Comissários da Marinha	11537
 Comissão	15,2300,129,1075,11,2027,15,247,3061,378,1492,2,3,17,756,33
 Comissão Científica	11542
 Comissão Conclusão	11569
-Comissão Económica	2816,8562,5
+Comissão Económica	2816,8562,5,3880
 Comissão Econômica	11393
 Comissão Eleitoral Nacional	3530,2288,2718
 Comissão Especializa	11527
@@ -180,12 +182,13 @@ Comissões de Serviços	11403
 Comissões de Trabalho	11452
 Comissões de Trabalho Especializadas	539,5252,3089,2582
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
+Comitato Internazionale	14896
 Comite Nacional de Inclusao Financeira	2138
 Comite de Pilotage DAAF	14472
 Comite de Pilotage Unique	10829
 Comite de Satélite	1215
 Comites	13292
-Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82,56,69,39,37,55,11,2,31,1257,6,35,49,43,9,10,16,167,72,74,46,596,1,26,33,55,41,262
+Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82,56,69,39,37,55,11,2,31,1257,6,35,49,43,9,10,16,167,72,74,46,596,1,26,33,55,41,262,186,75,24
 Comité CPIM	13468
 Comité Central	11045
 Comité Cette	10975
@@ -203,6 +206,11 @@ Comité Director.O	7945
 Comité Especial	1701
 Comité Estratégico	11569
 Comité Executivo	11531
+Comité Exécutif	15027
+Comité Exécutif Article	15027
+Comité Exécutif Lorsqu’un	15027
+Comité Exécutif Section	15027
+Comité Exécutif. Article	15027
 Comité Inter-États de Lutte	10874
 Comité International des Poids	14736
 Comité Le Comité	14483
@@ -280,7 +288,7 @@ Comité de Pilotage. Le Comité Technique de Coordination	10712
 Comité de Pilotage. Le SETIC	13341
 Comité de Pilotagem	11547
 Comité de Pilotaje	5111,183,6449
-Comité de Politique	2623
+Comité de Politique	2623,12479
 Comité de Politique Monétaire	8316
 Comité de Preços	1215,10215
 Comité de Programas Estadísticos	14215
@@ -292,11 +300,12 @@ Comité de Stabilité Financière	8316
 Comité de Suivi	10965
 Comité des Affaires Monétaires	7956,5496
 Comité des Droits	10826
+Comité des Experts	14849
 Comité des Statistiques des Finances Publiques	9425
 Comité des Statistiques des Finances Publiques. Cette	9425
 Comité du Pilotage	822
 Comité2	13442
-Comités	1679,663,8158,2790,188
+Comités	1679,663,8158,2790,188,1624
 Comités Científicos. Uno	10487
 Comités Locaux	3396
 Comités Nacionais de Política Económica	11044
@@ -315,8 +324,10 @@ Comitês Nacionais de Coordenação	11044
 Comium	6226
 Composition Comité de Pilotage des Projets TIC	13290
 Composition Comités Directeurs Interministériels	13290
+Composition du Comité Exécutif	15027
 Composition du Comité Technique de Suivi Un	13341
 Composition du Comité de Pilotage Il	13341
+Composition du Comité de Stabilité	15102
 Composição da Comissão de Fiscalização	11358
 Comércio Classe Acadêmica Comitê Técnico	11569
 Constitucional Presidente Comisión Nac. UNESCO Secretario	4209
@@ -355,16 +366,20 @@ Interfaces Service Comité	10876
 KANEKO Kayo COMITÉ TECHNIQUE Mr HABIMANA	13300
 La Comisión	4209
 Le Comite Technique	14562
-Le Comité	735,2320,4837,64,2870,48,2,26,1141,1664,717,1,58
+Le Comité	735,2320,4837,64,2870,48,2,26,1141,1664,717,1,58,544,75
 Le Comité National	13323
 Le Comité National de Suivi	11944
 Le Comité Technique	11944,1379
 Le Comité Technique Le Comité Technique	11944
 Le Comité Technique de Coordination	10712
 Le Comité de Concertation des Partenaires Techniques	11944
+Le Comité de Gestion	15027
 Le Comité de Pilotage	9406,1306,190,63,979,2518
 Le Comité de Pilotage Le Comité de Pilotage	11944
 Le Comité de Pilotage Open Data	9406
+Le Comité de Politique	15102
+Le Comité de Résolution des Conflits	15027
+Le Comité de Stabilité	15102
 Le Comité des Affaires Monétaires	7956
 Le Comité du Fasuce	2763
 Le Président du Comité de Pilotage	10902
@@ -379,6 +394,7 @@ Marshall McLuhan Saw Coming Marshall	8380
 Mobile App Coming Soon	5817
 Monitorização CoTéc Comité Técnico CONFEMEN Conferência	11557
 Moyen Terme Comité de Gestion des Plaintes Commune	14425
+NBR. Le Comité de Politique	15102
 NIYUKURI Jeanine COMITÉ DE PILOTAGE	13300
 National Electoral Comission	11909
 Nationale Indépendante Comité International	13442
@@ -407,6 +423,7 @@ Primera Teniente de Navío Alférez de Navío Comisario	4209
 Projecto WARDIP Guiné-Bissau O Comitê Técnico	11542
 Proyecto Comisión Nacional de Codificación	4209
 Président du Comité	8269,2004,4189
+Président du Comité Exécutif	15027
 Président du Comité National de Politique	10500
 Président du Comité Technique Sectoriel TIC	13290
 Prévoyance Sociale CNEF Comité National Economique	11944
@@ -415,12 +432,17 @@ Rede Lusófona de Proteção de Dados A Comissão	3079
 Regional and International Comity	3861
 Remontée des Comité	11944
 Representantes da Comissão Intersectorial	10752
+Responsabilités du Comité	15027
+Responsabilités du Comité de Ingingo	15027
+Responsabilités du Président du Comité Exécutif Article	15027
 Reunion du Comite Technique	14562
 Revue Comité	12043
 Règles de Fonctionnement du Comité National	2625
 République. Le Comité de Ministère	13433
 Réunion du Comité	14579
 Réunion du Comité Exécutif. L’ARSEL	10975
+Réunion du Comité de Politique	15102
+Réunion du Comité de Stabilité	15102
 Réunions du Comité Exécutif	13518
 SECÇÃO III COMISSÕES FUNDIÁRIAS SUBSECÇÃO	11527
 SENHORES MEMBROS DA COMISSÃO PERMANENTE	12796

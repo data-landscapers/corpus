@@ -28,8 +28,11 @@ Albion Fisheries Research Centre	10643,4175,11
 Albion Fisheries Research Centre. Pillar	14829
 Aluguer de Servidores Fisicos	570
 Analysis of Key Fiscal Ratios	2775
+Animal Resources and Fishery MoFEP Ministry of Finance	15118
 Anne Linn Tom Fish Annexe D	13300
+Annual Fiscal Performance Report	15031
 Annual Report Fiscal Year	12358
+Approval Fiscal	15190
 Approval Fiscal Year Operation	11924
 Approved Developer of Fuel Fiscal Devices	13606
 Automatic Input Tax Schedule for Fiscal Tax	12509
@@ -47,6 +50,7 @@ Blue Economy and Fisheries Hon. Govindranath Gunness	14753,88
 Blue Economy and Fisheries Ministry of Gender Equality	11332
 Blue Economy and Fisheries The Mauritius Cane	14753
 Boost Fiscal Transparency	11559
+Bryn Welham and Abraham Akoi. Fiscal Governance	14932
 Building Fiscal Capacity	12948
 Busamed Bram Fischer International Airport Hospital	11986
 CADRE JURIDIQUE DES TÉLÉPROCÉDURES FISCALES	5814
@@ -72,11 +76,12 @@ Chefe de Repartição Fiscal	11435
 Chief Intergovernmental Fiscal Relations Officer and Chief	6946
 Classe O Chefe da Repartição Fiscal	11435
 Climate and Environment and Fiscal Openness	12987
-Closed Approval Fiscal Year	13742
+Closed Approval Fiscal Year	13742,1206
 Code of Conduct for Responsible Fisheries	14447
 Comissão de Fiscalização	11358
 Comissão de Fiscalização Cabe	11358
 Comité de Datos Fiscales	4209
+Comparative Fiscal Burden	15205
 Composição da Comissão de Fiscalização	11358
 Conferência Outlook Fiscal	10786
 Consejo Nacional Fiscalía Defensor	4209
@@ -130,6 +135,7 @@ EU-GNB Fisheries Protocol	11536
 EU-Guinea-Bissau Fisheries Agreement. Spain	11536
 EU-Guinea-Bissau Fisheries Protocol	11536
 EWMP Electronic Waste Management Plan FIs	1988
+EXECUTIVE SUMMARY The Fiscal Year	15004
 EXONÉRATIONS FISCALES ET DOUANIÈRES	4567
 Economic and Fiscal Policy Statement	13060
 Education Health Other FISIM All In-	2775
@@ -151,14 +157,20 @@ Environment and Fisheries	8754,1716,2386
 Environment and Fisheries. British High Commissioner Helen	12856
 Environmental Fiscal Instruments	12389
 Era of Economic Transformation and Fiscal	12588
+Eroded Fiscal	14932
+Eroded Fiscal Sustainability	14932
 Ethiopian Fiscal Year	3211
 Every Fuel Fiscal Device	13606
 Excelentissimo Sr. Presidente da Fiscalização	10750
+Executive Summary The Fiscal Year	15004
 Existence of Environmental Fiscal Instruments	12389
 Extractives. Approval Fiscal Year	13734
 FAD Fiscal Affairs Department	14437
 FDMS Fiscal Device API Gateway	13606
 FIRC Forum des Institutions de Régulation du Cameroun FISUEL	10975
+FIS FinScope	15130
+FIS FinScope Digital Financial Services	15130
+FIS FinScope Reach	15130
 FISCAL	11383
 FISCAL ADJUNTO DE ANTIDROGAS	4209
 FISCAL ADJUNTO DE INVESTIGACIONES ADVAS	4209
@@ -180,13 +192,15 @@ FISCAL POLICY STATEMENT	13060
 FISCAL POLICY THRUST	13685
 FISCAL REPORT	13606
 FISCAL RESILIENCE IN CAMEROON	10997
+FISCAL TARGETS	14929
 FISCAL TITULAR DE ANTIDROGAS	4209
 FISCAL TITULAR DE INVESTIGACIONES ADMVAS	4209
 FISCAL TITULAR DE JURIDICCION MILITAR	4209
 FISCAL TITULAR DE MEDIO AMBIENTE	4209
 FISCAL TITULAR DEL TRIBUNAL DE CUENTAS	4209
-FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24
+FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52
 FISCAL YEAR Agricultural	13122
+FISCAL YEAR Despite	14985
 FISCAL YEAR Vizenge Kumwenda Chairperson Mr	13053
 FISCALE	10712
 FISCALES ADJUNTOS DE LA AUDIENCIA PROVINCIAL	4209
@@ -234,14 +248,14 @@ First Schedule. Virtual Fiscal Device	13606
 Fiscais	11528
 Fiscais Formulários Apoio	12018
 Fiscais Os	11528
-Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108,75,175,180,451,68
+Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108,75,175,180,451,68,187,56,12,26,6
 Fiscal Adjunto	4209
 Fiscal Adjustment Plan	12922
 Fiscal Affairs Department	1828,10672,1124
 Fiscal Affairs Department International Monetary Fund	12500
 Fiscal Audiencia Provincial	4209
 Fiscal Audiencia Provincial Fiscal de Instrucción Fiscal	4209
-Fiscal Balance	13685
+Fiscal Balance	13685,1212
 Fiscal Consolidation	12922
 Fiscal Correction	7695
 Fiscal Corte Suprema Justicia Fiscal General	4209
@@ -252,7 +266,7 @@ Fiscal Costs and Distributional Impact of Oil Subsidies	1828
 Fiscal Council	7695
 Fiscal Council Management System	5588
 Fiscal Decentralization	13418
-Fiscal Deficit	12922,34
+Fiscal Deficit	12922,34,2030
 Fiscal Deficit and Financing	13122
 Fiscal Development and Policies	13060
 Fiscal Developments	11134
@@ -293,17 +307,20 @@ Fiscal Management Development Policy Financing’. World	11909
 Fiscal Memory Capabilities	13606
 Fiscal Openness	12987
 Fiscal Performance Mr. Speaker	7695
+Fiscal Performance Report	15031
 Fiscal Police	13122
 Fiscal Policies	14626
 Fiscal Policies. Comparators	6463
-Fiscal Policy	11136,730
+Fiscal Policy	11136,730,3120
 Fiscal Policy and Development	1828
+Fiscal Policy and Income Inequality	14932
 Fiscal Policy and Tax Reforms	10319
 Fiscal Printers Dominican Experience. CIAT	12948
 Fiscal Prudence	13474
 Fiscal Receipt	13606
 Fiscal Receipts	13606
 Fiscal Register	10765,10
+Fiscal Reports	15089
 Fiscal Resilience	10997
 Fiscal Responsibility Act	789,11077
 Fiscal Responsibility Act. Consolidating and Better Managing	14748
@@ -314,7 +331,9 @@ Fiscal Space and Sustainable Growth Development Policy	11965
 Fiscal Stewardship	4528,7984
 Fiscal Strategy	12588
 Fiscal Studies	11727
+Fiscal Sustainability	14932
 Fiscal Sustainability By David A Yates	11710
+Fiscal Targets	14929
 Fiscal Tax Invoice	12509
 Fiscal Tax Invoices	12509
 Fiscal Tax Policy-Tax Policy Efficiency Revenue	13868
@@ -329,21 +348,25 @@ Fiscal Transparency Review Process and Criteria	11005
 Fiscal Transparency The Department	11005
 Fiscal Trends Domestic	11131
 Fiscal Unique	10821
-Fiscal Year	126,65,168,4251,1045,5762,108,1528,365
+Fiscal Year	126,65,168,4251,1045,5762,108,1528,365,1492,2,73,1
 Fiscal Year Addis Ababa	7091
 Fiscal Year Based	11469
 Fiscal Year Budget	12714
 Fiscal Year Delivered	2416
 Fiscal Year G2P Government	12663
+Fiscal Year GDP Gross Domestic Product	14985
 Fiscal Year GIS	12358
 Fiscal Year Mobile Network Expansion and Upgrade	3487
+Fiscal Year TAX ON INTERNATIONAL TRADE	14985
 Fiscal Year Table	13053
 Fiscal Year Total Budget	13418
 Fiscal Years	11310
 Fiscal and Budget Decentralization	10775
 Fiscal and Economic Policy	10932
+Fiscal and Financial Decentralisation Policy	14935
 Fiscal and Financial Decentralization Policy	13418
 Fiscal de Instrucción	4209
+Fiscal-Poli-	14932
 Fiscal-Único	11381
 Fiscal-Único. Serviços Executivos	11381
 FiscalAdmin	14308
@@ -439,8 +462,9 @@ Fisheries and Marine Resources	14818
 Fisheries and Rural Settlement. The Office	12511
 Fisheries and Shipping	14745
 Fisheries and Veterinary	14775
+Fishery	15085
 Fishery Committee	11536
-Fishing	789,1986,2906,2164,2918,1094,24,1179,1758
+Fishing	789,1986,2906,2164,2918,1094,24,1179,1758,56,17
 Fishing Construction	10976,1370
 Fishing Defence	2775
 Fishing General	11857
@@ -482,7 +506,10 @@ GRA Fiscal	236
 General Course for Fishers	14818
 Global Initiative for Fiscal Transparency	14626
 Gobierno Secretario General Ministerio Fiscal Audiencia	4209
+Government's Fiscal Strategy	14986
+Grants Fiscal Transfer Formula	15004
 Grupo A Abogado Fiscal Administrador Grupo	4209
+IGFF Inter-Governmental Fiscal Federalism	14929
 III. MACROECONOMIC STABILITY AND RESILIENT FISCAL	12598
 IMF Fiscal Policies	6593
 IMF's Fiscal Affairs Department	11906
@@ -508,9 +535,10 @@ Index ESB Enterprise Service Bus FISP	13345
 Information Fiscale	14539
 Information de Gestion des Recettes Non Fiscales	14477
 Inspecteurs Contrôleurs Fiscaux	11676
-Institute for Fiscal Studies	1123
+Institute for Fiscal Studies	1123,13874
 Instituto de Estudios Fiscales	4209
 Inter-Governmental Fiscal Transfers	13474
+Intergovernmental Fiscal Federalism Committee	15004
 Intergovernmental Fiscal Relations Act	11289
 Intergovernmental Fiscal Transfer System INSET	12175
 Intergovernmental Fiscal Transfers	13685
@@ -607,6 +635,7 @@ Primer Ministro Segundo Fiscal Corte Suprema	4209
 Primer Ministro Tercero Fiscal General República	4209
 Processos de Execução Fiscal	11435
 Prof. Tom Fisher	3572
+Program Performance and Fiscal Policy	15029
 Promote Sustainable Agribusiness and Fisheries	11536
 Proparco's FISEA	930
 Propiedad Secretario Fiscalía Corte Suprema Secretario	4209
@@ -614,10 +643,12 @@ Provincial Secretario Fiscalía Corte Suprema Secretario	4209
 Public Finance Fiscal	11134
 Public Notice TRANSITION FROM ELECTRONIC FISCAL	4699
 Quantity and Value of Fish Landed	2775
+Quitus Fiscal	14985
 Quitus Fiscale. Eligible	12452
 R. Fischer	11310
 RECETTES FISCALES	10712
 REGISTRE D'IDENTIFICATION FISCALE CHAPITRE	13293
+REVENUE PERFORMANCE FOR FISCAL YEAR	14985
 RGÃO DE FISCALIZAÇÃO	4218
 Raphael Fishing Co Ltd. Cette	14306
 Raphael Fishing Company	12132
@@ -645,6 +676,7 @@ Revenue Mobilisation Allocation and Fiscal Commission	11976
 Revenue and Fiscal Space 4 C. Tax Revenue	10997
 Revenue and Fiscal Space Revenue Structure	10997
 Role of Fiscal Policies	11140
+Rwanda. Fiscal Year	14935
 SADC Regional Fisheries Monitoring	12640
 SDR0.76046 FISCAL YEAR	1264
 SDR1 FISCAL YEAR	11855
@@ -691,14 +723,18 @@ Serviços Fiscais Regional ECM	11435
 Shifting Fiscal Priorities	3176
 Sistema Fiscal	12789
 Small and Medium EFPS Economic and Fiscal Policy	13060
+Somalia's Fiscal Context Somalia	15147
 Sous-compte de Transit des Recettes Non Fiscales	13524
 South Africa's Fischer Consulting	12309
 Sseggona Fishermen	6652
 St. Brandon. The Raphael Fishing Company	12132
+Stability Non-Bank FIs Supervision Internal Audit	15023
 States Fiscal Transparency	11867
 Supplementary Environmental Fiscal Measures	12389
 Sustainable Fisheries Partnership Agreements	14628
 TaxDev III The Institute for Fiscal Studies	1123
+Taxation for Fiscal	14932
+Taxation for Fiscal Sustainability	14932
 Technical Requirements FIs	11861
 Technical Specifications of Fuel Fiscal Devices PART	13606
 Technical Specifications of Fuel Fiscal Devices. Second	13606
@@ -727,7 +763,7 @@ Virtual Fiscal Device	13606
 Virtual Fuel Fiscal Device	13606
 Virtual Fuel Fiscal Devices	13606
 WB Fiscal	3604,7813,488
-WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1
+WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39
 Waters Interiors and Fisheries	4214
 World Bank's Fiscal Management for Inclusive	11924
 World Bank's State Fiscal Transparency	2364

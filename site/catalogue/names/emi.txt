@@ -72,7 +72,8 @@ EMIS Committee	11860
 EMIS Consolida A Massificação Dos Pagamentos	11434
 EMIS Database	11860
 EMIS Desk	11860
-EMIS Education Management Information System	11860
+EMIS Education	14922
+EMIS Education Management Information System	11860,3056,55,88
 EMIS Education Management Information System GNI	11552
 EMIS Frequency Annual Data	11905
 EMIS Infrastructure	11860
@@ -93,6 +94,7 @@ EMIS Peer Reviews	13310
 EMIS Policies	13310
 EMIS Policy	11860,1450
 EMIS Professional Associations	11860
+EMIS Project	14851
 EMIS Reports	12345
 EMIS Research Protocols Schools Masterlist Data	11241
 EMIS SURVEYS AND DATA SETS	11180
@@ -101,6 +103,7 @@ EMIS Staff	12494,816
 EMIS Stakeholders	13310
 EMIS Strategy	13310
 EMIS Sustainable Development Goal	13016
+EMIS System	14971
 EMIS Task Team	12175
 EMIS Team	11860,1450
 EMIS Unit	11860,1450
@@ -115,6 +118,7 @@ EMIS-2020-Annual Education Census	12345
 EMIS-2021-Annual Education Census	12345
 EMIS-2022-Annual Education Census	12345
 EMIS-2023-Annual Education Census	12345
+EMIS-adjacent	14936
 EMIS-enhancement	14096
 EMIS-score	14058
 EMIS-specific	13310
@@ -133,7 +137,9 @@ EMIS. The ESDC	10359
 EMIS. The Ministry	13310
 EMISSÃO DO BILHETE DE IDENTIDADE	12784
 EMISSÃO E CARÁCTER REEMBOLSÁVEL DA MOEDA	10755
+EMIs Fintechs	15130
 EMIs M-Pesa	3479
+EMIs X Permit SCGs	15130
 EXECUTIVE SUMMARY The Zimbabwe EMIS Peer	13310
 Early Grade Reading Assessments EMIS Education	13310
 Economic Community of West African States EMIS	5244
@@ -158,6 +164,7 @@ Emiliano Tchicuelombe	10753
 Emiliano Tossou	11492
 Emilie Martin	12504
 Emilienne Rochecouste Government School	14792
+Emilio Hernandez	14997
 Emilio Raul	10763
 Emiliou	8436
 Emily	4439
@@ -175,7 +182,7 @@ Emily Manjara	12478
 Eminent	14745
 Eminye	11573
 Emirados	1192,10197,1418
-Emirates	9399,1365,421,884,82
+Emirates	9399,1365,421,884,82,2702
 Emirates Airlines	14476
 Emirates Centre for Strategic Studies and Research	14134
 Emirates Emirates ID System	10714
@@ -189,6 +196,7 @@ Emirates News Agency HARARE	13692
 Emirates and South Africa	11185
 Emirates’ Khazna Data Centers	10861
 Emirati	1741,1539,1,3190,1655,369,2690,3291
+Emirati Genome Programme	15262
 Emiratos	4209,2404
 Emisiones Radioeléctricas	9543
 Emisión	4209
@@ -227,19 +235,23 @@ Emitodio Muarilo	6619
 Emitted CO2	12261
 Energy and Emissions	12261
 English Language and Mathematics EMIS	12175
+Enumeration Areas EMIS	14857
 Eswatini's EMIS	13016
 Eswatini's National EMIS	13016
 Executive Director of Emirates Technology Solutions	9460
 Eﬀective EMIS Principles	11860
 FCT Education Secretariat and Local Government EMIS	11860
+FSPs and EMIs X Develop	15130
 Faraji Hassan Emily	9452,39
 Federal EMIS Committee	11860
 Fly Emirates	14548,71
 Formulate EMIS	13310
+Framing EMIS	15096
 Functional EMIS	11860
 GOVERNMENT OF THE UNITED ARAB EMIRATES	13326
 GR-3028-CORE Acronym EMI	9123
 Government EGP Electronic Government Procurement EMIS	12917
+Greenhouse Gas Emission Reduced	15159
 Greenhouse Gas Emissions Kenya	12256
 Grid Emission Factor	11332
 Grid Emission Factor Enhancing	11332
@@ -259,6 +271,7 @@ Importância Emissão Talão de Venda REMPE Tributo	12018
 Info-Tech Research Group. Dr Emily Mabote	10343
 Institutionalise EMIS	13310
 Investidor Emigrante	1265
+Jordan and United Arab Emirates	14897
 Kenya's EMIS	12196
 LGA EMIS	11860
 Latest EMIS Records	12345
@@ -292,6 +305,9 @@ Nigeria and United Arab Emirate	12026
 Odette NZEYIMANA Emilienne NIFASHA Agnes NZITONDA	13300
 Offices Wordwide United Arab Emirates	14621
 Official Use Only Emissions	12253
+Overall Effectiveness of EMIS	15096
+Petroleum Gas LED Light Emitting Diode	14947
+Popoli EMIS Education Management Information System	14896
 Pour Kra Emile Kouakou	14248
 President United Arab Emirate Mohamed	12026
 Princípio da Inexigibilidade de Documentos Emitidos	11388
@@ -302,6 +318,7 @@ Raguidissida Emile ZIDA	7670
 Red Nacional de Emisoras	4209
 Reference Emiliou2023	8436
 Registration and Emission Class Certification	736
+Report of EMIS Receiving Committee	14855
 Requisição de Emissão	11419
 Response Toolkit GEE Emissões	11413
 Review of SADC EMIS Norms and Standards	13310
@@ -322,6 +339,7 @@ Sistema Integrado de Emissão	11371
 Sistema de Emissão de Documentos	2688
 Sistema de Emissão de Passaporte	5819
 Socio-economic Unstable Emigration	1940
+Somali EMIS	14896
 Son Eminence	13405
 Son Eminence le Cardinal Pietro	13405
 Son Eminence le Cardinal Pietro Parolin	13405
@@ -339,12 +357,16 @@ Through the DHIS2-based EMIS	13045
 Tx Emission Class	736
 Tx Emission Class Maximum Radiated Power	736
 Tx Emission Class Spurious Emission	736
+UAE United Arab Emirates	15220
+UAE United Arab Emirates UN United	15342
 Ukraine United Arab Emirates United Kingdom	11470,295
+Union EMIS Education Management Information System	14855
 Union des Comores EMICn	13799
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates Government	13795
+United Arab Emirates Mogadishu	15072
 United Arab Emirates UHC Universal Health	2775
 United Arab Emirates UN United Nations	11960
 United Arab Emirates Yes ICT Fund	11529

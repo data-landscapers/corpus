@@ -23,7 +23,7 @@ Banque Hypothèses	10874
 Baynes Hydro	12399
 Baynes Hydropower	12399
 Biotechnology and Hydrogen Energy Dr Jitendra Singh	6480
-Body COUNTRY HYDROMET DIAGNOSTICS Informing	13365
+Body COUNTRY HYDROMET DIAGNOSTICS Informing	13365,1584
 Boosting Africa’s Hyperscale Capacity	3932
 Bumbuna Hydroelectric Plant	10180
 Burkina Faso Ministry of Health and Public Hygiene	10881
@@ -152,7 +152,7 @@ Hyacinthe TAMALGO	7670
 Hyatt Regency	13604
 Hyatt Regency Dubai Creek Heights	4954
 Hyatt Regency Harare	13509
-Hybrid	1219,721,1245,419,1640,284,5,58,285,500,1075,1153,1,518,114,24,214,1337,317,4,63,73,981,119,321,277,305,1236
+Hybrid	1219,721,1245,419,1640,284,5,58,285,500,1075,1153,1,518,114,24,214,1337,317,4,63,73,981,119,321,277,305,1236,656,178
 Hybrid ASON	3797
 Hybrid Advances	6948
 Hybrid Court	3583
@@ -166,12 +166,13 @@ Hybrid Inbox	12359
 Hybrid Model	12675
 Hybrid Path	5482
 Hybrid Solution	6708
+Hybrid Spare Parts	14985
 Hybrid of Beauty Contest and Auction	762
 Hybrid8D.4epHloyybmridenDteployment	10157
 Hybride	10975
 Hybride. C’est	13341
 Hybridity	9739
-Hybridization	11136
+Hybridization	11136,3881
 Hybridizing	8604
 Hyde and Prodelin Idirect X7 Bande C	998
 Hyden	7886
@@ -182,11 +183,13 @@ HydraMist	14736
 Hydraulic	2989,10396
 Hydraulique	4895,2009,1074,900,1143,954,2366,36
 Hydraulique Licence	10975
-Hydro	1722,7736,2495,239,61,3,5,138,2080,266
+Hydro	1722,7736,2495,239,61,3,5,138,2080,266,202
 Hydro Cahora Bassa	11228
 Hydro Diesel	11953
 Hydro Geothermal Natural Gas Thermal Wind	12256
+Hydro Meteorological Working Group	14949
 Hydro PS CSP Wind Solar PV	11953
+Hydro Power Develop	14947
 Hydro Power Kenya	12256
 Hydro Power Plant HV	12358
 Hydro Power Station Chania	12256
@@ -210,7 +213,7 @@ Hydrocorbures Megowott MWc Megowott-crCte MWh ORE	14479
 Hydroelectric Station	11953
 Hydroelectrique	14479
 Hydrofluorocarbons	1264
-Hydrogen	8717
+Hydrogen	8717,6230
 Hydrographic Office	14440
 Hydrographie	14488,1,1
 Hydrographie L'hydrographie	14488
@@ -226,9 +229,11 @@ Hydrological Services Namibia Flood	12957
 Hydrological Technician	14745
 Hydrologie	1005
 Hydrology	11420,833
+Hydrology XVII. Bellingham	15129
+Hydrology and Meteorology Regional Centre	15129
 Hydromet Diagnostics CSO Civil Society Organization	11553
 Hydroneo	13433
-Hydropower	10180,956,1097,125,2387
+Hydropower	10180,956,1097,125,2387,510
 Hydropower Onshore	11953
 Hydropower Plants	12062
 Hydropower Project. Being	3760,9683
@@ -238,18 +243,20 @@ Hydroélectrique	13433
 Hydroélectrique de Jiji	13433
 Hyeyoung Jo	14656
 Hygidne	14479
-Hygiene	6903,44,3774,55,641,991,23,533,13,219,203
+Hygiene	6903,44,3774,55,641,991,23,533,13,219,203,1571
 Hygiene Program-for-Results	11469
 Hygiene Tier	10721
 Hygiene WASH World Health Organization	11417
+Hygiene WB World Bank WHO World	15244
 Hygiene WBG World Bank Group WHR	1867
+Hygiene WHO World Health Organization	15138
 Hygiene WHR Western and Central Africa Education	11905
 Hygiene and Environmental Health Programs	14033
 Hygiene and Prevention	11912
 Hygiene and Sanitation	1828
 Hygienist	1988
 Hyginus Okibe	6211
-Hygiène	1005,6833,140,1739,217,941,2450,153,1010,1,1,40,7,85
+Hygiène	1005,6833,140,1739,217,941,2450,153,1010,1,1,40,7,85,672
 Hygiène Publique	3045,4119,641,3114,678,2587
 Hygiène. DGEME	13743
 Hyndman	236
@@ -266,6 +273,7 @@ Hyper Care	5715
 Hyper Converged Infrastructure	13185
 Hyper-V	13037
 Hyper-converged Infrastructure	1632
+Hyper-local	15342
 Hyper-scale Carrier-neutral	14508
 HyperBeamforming	8379
 HyperText Transfer Protocol Secure	14439
@@ -277,6 +285,7 @@ Hyperinflation	40,10753
 Hyperinflation CODM EBITDA	10793
 Hyperinflationary	10793
 Hyperinflationary Economies	1154,1897
+Hyperinflationary Economies. Based	15169
 Hyperlink	26
 Hyperlinked	8978
 Hyperlinks	12928
@@ -292,11 +301,12 @@ Hyperscalers	1885,942,1698,151,1510,80,24,589,852,3130,2411
 Hyperscalers Convergence Africa	11815
 Hyperscience	4434
 Hyperten-	12151
-Hypertension	21,12130,455,370,324
+Hypertension	21,12130,455,370,324,1906
 Hypertension Cardio Pul-	12151
 Hypertension and Asthma	12151
 Hypertension and Cardiovascular	12151
-Hypertensive	12413
+Hypertensive	12413,2643
+Hypertext Preprocessor	14985
 Hypertext Preprocessor PS Principal Secretary for ICT	6432
 Hypertext Skip	5017
 Hypertext Transfer Protocol	14483
@@ -309,7 +319,7 @@ Hypervisor-level Recovery Rehearsals	13185
 Hypervisors	13185
 Hyphen Tech	13529
 Hyphens	14670
-Hypotheses	10980
+Hypotheses	10980,4116
 Hypothesis	4432,3327
 Hypothesised	4432
 Hypothèque	13375
@@ -362,11 +372,14 @@ MW Karuma Hydro Power Plant	3561
 MW Lower Maguduza Hydropower Plant	13123
 MW Mpatamanga Hydro	13060
 MW Tedzani Hydro Power Plant	13060
+MW. Hydropower	14947
 Maguduza Hydro Plant	12956
 Maguga Hydro Plant	12956
 Malagasy National Meteorological and Hydrological Service	14448
 Mauritius Expands Hyperscale Data Hub	3292
 Megawatt Hyperscale Data Centre Campus	1245
+Menstrual Hygiene	15247
+Micro Hydro	14947
 Microsoft Hyper-V	13037,148
 Microsoft HyperV	9455
 Minister of Hydrocarbons	14202
@@ -392,13 +405,17 @@ National Institute of Public Hygiene	10919
 National Meteorological Hydrological Service of Madagascar	14448
 National Meteorological and Hydrological Service	14448
 National Meteorological and Hydrological Service QMS Quality	13729
-National Meteorological and Hydrological Services	11191,1751,1161,345
+National Meteorological and Hydrological Services	11191,1751,1161,345,748
 Natural Resources and Energy Hydrologist	12972
 Nedbank Divisional Executive of Hyper Automation Group	14269
 Nkula B Hydro Power Station	13060
 Nomination de Monsieur KOFFI Hyacinthe	2342
 Non Current Assets HY2025	4896
+Northern Basement Transboundary Aquifer. Hydro Nova	15052
 Nov Dec Annual Hydro	11953
+Ntaruka Hydropower Plant	15049
+Nyabarongo II Hydropower Plant	15049
+Nyirahundwe Hydropower Plant	15049
 Occupational Hygiene	1988
 Operational Hydrometry	12972
 PANORAMA SECTORIEL HYDROCARBURES	2342
@@ -407,7 +424,9 @@ PFP Hydrocarbures	2342
 PS Hydro	11953
 PV Wind CSP Pumped Storage Hydro	11953
 Pharmaceuticals and Technologies HTTP Hyper Text Transfer	2775
+Pilot Hydrogen	14947
 Pompes Hydrauliques	2342
+Population Division WASH Water Sanitation and Hygiene	14896
 Positive Hypotheses	9129
 Priority Actions Hydroponics and Aeroponics	14818
 Production Hydroélectrique SCAF	10975
@@ -420,6 +439,8 @@ Ruacana Hydro Power Plant	12399
 Ruacana Hydropower	12399
 Ruacana Hydropower Station	12399
 Rukarara VI Hydropower Ltd. Rukarara VI	718
+Rukarara VI Hydropower Plant	15049
+Rusizi III Hydropower Project	15049
 SANITATION AND HYGIENE	13743,44
 SANITATION AND HYGIENE SERVICES	13743
 SMEs. Hypothesis Hypothesised	9129
@@ -443,11 +464,13 @@ Supply Sources Pumped Storage Hydro Diesel	11953
 Synergy Research Group Hyperscalers	6477
 TWh. Hydropower	13624
 Tencent's Hy3	10038
+Terms of Reference Feasibility Study for Hydrogen Power	14947
 Tesla Cascading Hydro Plant	14745
 Tikki Hywood Foundation	1154
 Tricia Hynes	12227
 VBG Bureau Indépendant Anti-Corruption Hygiène Sécurité	14424
 VMware and Hyper-V. The IDC	11209
+Vehicle Hybrid Motorcycle	14985
 Verdant Capital Hybrid Fund	693,354
 Verdant Capital Hybrid Fund Verdant Capital	692
 Vertical Farming and Hydroponics	14818

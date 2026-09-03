@@ -58,6 +58,8 @@ Consumer Protection Act. Testing	14736
 Control Quality Management System Rapid Testing	4153
 Counselling and Testing	14742
 Couple Means Test	14828
+Coverage Rates for HIV Testing	15247
+Coverage of HIV Testing Services	15247
 Cyber Resilience Testing Resilience	10721
 D CENTRE INDÉPENDANT DE TEST INSISTEZ	13300
 D'HÉMOGLOBINE ET TEST DU VIH DES	13300
@@ -69,9 +71,11 @@ DIGITAL-ID TEST Digital	9473
 DONT LE TEST DU PALUDISME EST	13300
 Development and Testing	14565
 Digital Ambition Tested	2622
+Digital Shift Tests KRA’s Tax Collection	14932
 Disaster Recovery Test Tier	10721
 Dr. Teshale	14050
 Drive Test	718
+Drive Tests	15135
 Dynamic Application Testing	11952
 Dynamic Strength Tester	14736
 E SERVICES MOBILES DE TEST ET	13300
@@ -90,6 +94,7 @@ Environmental Expert Ato Mentesnot Tesfaye	12195
 Establish Testing Protocols	12675
 Excellency Mr Tesfai Ghebreselassie Sebhatu	14090
 Execution Test	11305
+F. API Security Testing	15161
 FIRST-HAND PRINCIPAL TESTIMONY	2578
 Facilities Samples Tested	14736
 Fichier TES	10714
@@ -107,6 +112,7 @@ H.E. Dr. Teshale Berecha	14050
 HIV Rapid Diagnostic Test	14742
 HIV Testing	13454
 HIV Testing Services Guidelines	12729
+HIV Testing of Pregnant Women	15247
 HIV Tests	4260
 Habtom Tesfamichael On Jan	13978
 Harmonized Tests	10775
@@ -162,6 +168,7 @@ MHZ FREQUENCY BANDS FOR TESTING	14780
 MHz Frequency Bands for Testing and Operation of IMT	14780
 MINEUR POUR DES R TESTS L'échantillon	13300
 MINEUR POUR DES TESTS L'échantillon	13300
+MINICT X Test	15130
 Macro Stress Testing Framework	11134
 Madagascar Tests Biometric ID System	4769
 Maintainability Testing	5665
@@ -187,6 +194,7 @@ Mr. Tesfalem Mesfun	13978
 Mr. Tesfaselasie Berhane	6230
 N CENTRE INDÉPENDANT DE TEST ET	13300
 N SERVICES MOBILES DE TEST ET	13300
+N. Testing and Monitoring	15161
 NHS Testbeds	11007
 NIST Testing Guide	11153
 NITDA. Testing	5665
@@ -208,7 +216,7 @@ Non-Destructive Testing	14736
 Non-Destructive Testing Laboratory	14736
 Non-Functional Testing	5665
 Operaciones Centrales de Tesorería	1701
-Operational Acceptance Tests	13185
+Operational Acceptance Tests	13185,1905
 Operations Team Manager Ato Tesfahun G	12195
 P SERVICES MOBILES DE TEST ET	13300
 PAS DE TESTS	13300
@@ -242,7 +250,8 @@ Portability Testing	5665
 Pour Julien Tessier	5712
 Pre-commissioning Tests	13185
 Principal Purpose Test	14839
-Prior HIV Testing	14067
+Prior HIV Testing	14067,1180
+Prior HIV Testing and Use of ART	15247
 Prisca Tessembaye	5545
 Proficiency Testing	14736
 Proficiency Testing Quality Assurance I Quality	4153
@@ -262,6 +271,7 @@ RECURSOS DE TESORERÍA	4209
 Radiographic Testing	14736
 Rapid Diagnostic Test	1824
 Rapid Testing Continuous Quality Improvement	4153
+Recent HIV Testing	15247
 References Nesta. Testing Innovation	11007
 Registration for Driving Test. NOTARISATION AND GAZETTE	12333
 Regular Security Audits and Penetration Testing	10721
@@ -272,10 +282,12 @@ Report Test Penetration	11153
 Reserve Bank of India's Stress Test Model	6938
 Responsiveness Test	11240
 Rule of Law Tests	12139
+Rwanda PMT Proxy Means Test	14942
 SARS Trade Test Platform	11685
 SAST Static Application Security Testing SCA	11952
 SERVICES MOBILES DE TEST ET CONSEIL	13300
 SERVICES MOBILES DE TEST SI VOUS	13300
+SFMIS. Testing Scope The SFMIS	15090
 SPECIMEN TESTING	4153
 STRESS TESTS	13868
 Sandy Nalube Director TESS	13392
@@ -308,6 +320,7 @@ Software Testing Organisations Licensing	8424,15
 Software Testing Organisations Licensing Framework	5665
 Software Testing Organisations Licensing Guideline	5665
 Software Testing Organisations Licensing Guideline Title	5665
+Software Testing Phase	15161
 Software Testing Service	5665
 Software Testing Services	5665
 South African National Benchmark Tests	7573
@@ -315,6 +328,9 @@ South African-born SpaceX and Tesla	5808
 SpaceX Complete Starlink Mobile Testing	5562
 Spike Testing	5665
 Split Test Data Eva	12006
+Standard Test Method for Flexural Strength of Dimension	15027
+Standard Test Method for Linear Drying Shrinkage	15027
+Standard-One Test-One Certificate-Accepted Everywhere	15127
 Standardise Testing Practices	11952
 State Minister Dessalenge Teshale	14140
 Static Application Security Testing	11952
@@ -369,6 +385,7 @@ TESTS SUPPLÉMENTAIRES. VÉRIFIEZ	13300
 TESTS SUPPLÉMÉENTAIRES	13300
 TESTÉ	13300
 TPDI TESS	13392
+TPT Teacher Proficiency Testing TSS Technical	14896
 TSA Testes	11376
 TTOS and TES. Building	5533
 TURISMO LICENCIA TOTAL TESORO PÚBLICO	4209
@@ -422,6 +439,7 @@ Test Cases and Scripts	5665
 Test Data	5665
 Test Design	5665
 Test Development	13477
+Test Engineer	15080
 Test Environment Maintain	11952
 Test Environment Setup	5665
 Test Execution	5665
@@ -438,6 +456,7 @@ Test Reports Issued	14736
 Test Schedule of Power Limits	736
 Test Technology	7998
 Test Theory DIVT Directorate of Industrial and Vocational	12975
+Test and Learn	14880
 Test and Specification Management	7988
 Test de Diagnostic Rapide	13300
 Test de Diagnostic Rapide Incidence	14622
@@ -474,7 +493,7 @@ Testimonials Section	14725
 Testimonies	11332
 Testimony	2518
 Testimony Akinkunmi	9642
-Testing	11,1977,721,1901,1055,1883,424,698,453,6,920,1085,103,32,316,324,43,406,42,57,236,224,120,24,320,4,128,1052,36,73,62,25,5,14
+Testing	11,1977,721,1901,1055,1883,424,698,453,6,920,1085,103,32,316,324,43,406,42,57,236,224,120,24,320,4,128,1052,36,73,62,25,5,14,467
 Testing Attributes Functional Testing	5665
 Testing Code	11952
 Testing DPI Digital Public Infrastructure	11952
@@ -497,11 +516,15 @@ Testing Penetration	11153
 Testing Phase Testing	5665
 Testing Plans	12538
 Testing Process	5665
+Testing RSSB Rwanda Social Security Board	14942
+Testing Reports	15090
 Testing Requirements	5665,7372
 Testing Results	12400
 Testing Scenarios	11952
 Testing Scope	5665
+Testing Scope PAGEREF	15090
 Testing Security Audit Annual	11952
+Testing Stage	14921
 Testing Standards Implement	11952
 Testing Tools Use	11952
 Testing Tra	12006
@@ -511,12 +534,13 @@ Testing and Academic Integrity	14812
 Testing and Commissioning	12693
 Testing and Counseling Providers Year	4153
 Testing and Quality	11216
-Testing and Quality Assurance	11216,725,459
+Testing and Quality Assurance	11216,725,459,2527
 Testing and Validation	3840,8112
 Testing and Validation Requirement	11952
 Testing of IFMIS	14185
 Testing the ETs	11956
-Tests	3110,2555,2323,4055,96,539,1896,109
+Testing the Robustness of S-MPI	15244
+Tests	3110,2555,2323,4055,96,539,1896,109,402
 Tests Fail-over Test	9123
 Tests Purchaser	13185
 Tests du VIH	13300
@@ -537,7 +561,7 @@ Updated Proxy Means Test	14835
 Usability Testing	5665,6287
 Usability Testing Strengthens System Readiness Testing	13016
 User Acceptance Test	13185
-User Acceptance Testing	9680,694,760,107,1796,929,219,576
+User Acceptance Testing	9680,694,760,107,1796,929,219,576,329
 User Acceptance Testing RAASA Refugee Appeals	11986
 User Acceptance Testing UN United Nations	11192
 User Acceptance Testing UN-IGIF United Nations	11261
@@ -547,6 +571,7 @@ VAPT Vulnerability Assessment and Penetration Testing	11952
 Validation and Testing of Open-Ended Outputs	3651
 Vehicle Tester	14753
 Violence NATTIC Nhlangano AIDS Testing Treatment	12939
+Vulnerabilities Management and Penetration Testing	15054
 Vulnerability Assessment and Penetration Testing	10721,4023
 Water Testing	14067
 Wearables Are Actually Being Tested	9456

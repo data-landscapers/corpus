@@ -119,13 +119,13 @@ Embalse	4209
 Embaló	2671
 Embarcação	2816
 Embargoed	11192,66,38,681
-Embark	13295
+Embark	13295,1702
 Embarking	7835,295
 Embarks	12639
 Embassies	13122,551,1102,54
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Kingdom	13358
@@ -141,17 +141,23 @@ Embassy of India Harare Press Release Embassy	13509
 Embassy of Ireland	9861
 Embassy of Italy	10592
 Embassy of Japan	7300,105,965,2406
+Embassy of Netherlands	14897
 Embassy of Portugal	5404
+Embassy of Rwanda	14918
 Embassy of Sierra Leone	3950
+Embassy of Sudan	15251
 Embassy of Sweden	377,2870,8945,309
+Embassy of Switzerland	15222
 Embassy of Zambia	4365
 Embassy's Economic Section	10177
-Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71
+Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247
 Embed AI	4126,402,2304,116,190,13,397,203,3405,1356,2054
 Embed Accountability and Monitoring	11285
+Embed MPI	15244
+Embed S-MPI	15244
 Embed Ubuntu	4528
 Embed Video	6387
-Embedded	2477,2371,3191,565,2580,769,261,230,2011,364
+Embedded	2477,2371,3191,565,2580,769,261,230,2011,364,319
 Embedded Autonomy	5700
 Embedded Chip Tech	13005
 Embedded Content Matters Consider	6542
@@ -166,7 +172,7 @@ Embeddedness	226
 Embeddedness Building	10865
 Embeddedness of Digital Labour	226
 Embeddedness of Digital Start-Ups	226
-Embedding	1777,5811,433,2985,269,1022,146,614,1544,172
+Embedding	1777,5811,433,2985,269,1022,146,614,1544,172,261,30
 Embedding AI	6793,6856
 Embedding Artificial Intelligence	14566
 Embedding Open Data Practice	1243
@@ -174,13 +180,14 @@ Embedding Protection	9766
 Embedding Shoprite	14385
 Embedding Trust and Security Across the Board Governance	7596
 Embedding the FAIR	14565
+Ember Energy	15194
 Embiveni Biggest Braai	4866
 Embodied	5487
 Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7
 Embosi Primary	12977
 Emboss	14741
 Emboîtant	1748
-Embrace	5244,7733
+Embrace	5244,7733,2020
 Embrace Distributed Renewable Energy and Clean Cooking	12717
 Embrace Gender Diversity	2668
 Embrace Good Governance	11131
@@ -190,6 +197,7 @@ Embracing	1777,4805,696,3959,703,1065,341,1398
 Embracing AI	6948,4317
 Embracing AI Opportunity	6849
 Embracing Applications of AI	12675
+Embracing E-Learning	15164
 Embracing Innovation	12551
 Embracing OSH	6468
 Embracing Renewable Energy Over	11332
@@ -231,7 +239,7 @@ INST-578005D6B3C EMBU Kenya	7167
 INST-79916263F35 EMBU Kenya Renewed	7167
 INST-9864382BC16 EMBU Kenya	7167
 Incorporate Embed	1777
-Indian Embassy	4849
+Indian Embassy	4849,10270
 Institutional Embeddedness	7151
 Interactive Datawrapper Embed	6934
 Interprete Traductor Embajada A1	4209
@@ -241,6 +249,7 @@ Interprete Traductor Embajada A3	4209
 Iranian Embassy	9968
 Iraqi Embassy	11738
 Irish Embassy	12978
+J2 Embracing e-Learning PWFormatted.pdf SomaliREN	15164
 Japanese Embassy	3468
 Joint Embedding Predictive Architecture. Pour	3465
 KALRO Embraces Digital Innovation	6554
@@ -261,22 +270,25 @@ Nairobi Embassy	10521
 Netherlands Embassy	9546
 Newsletter ZIMSTAT Embarks	12499
 Nigeria U.S. Embassy Abuja Federal Ministry	4302
+Norwegian Embassy	14905
 Num EMBAJADAS Y CONSULADOS Materiales de Fax	4209
 OmniRetail Digital B2B Commerce and Embedded Finance	2232
 Online Embedded Generation	12969
+Organization of SIM Cards and Embedded SIM	14944
 PALOP. Embora	2816
 President Umaro Sissoco Embaló	11579
 Processor INST-12485011114 EMBU Kenya	7167
 Processor INST-1683148DE2C EMBU Kenya	7167
 Processor INST-2958721BF3D EMBU Kenya	7167
 Professionals Embedding	14566
+RRA MINECOFIN X Embed	15130
 Recepcionista Consulado B3 Recepcionista Embajada A2	4209
 Recepcionista Embajada A1	4209
 Recepcionista Embajada A2	4209
 Recepcionista Embajada A3	4209
 Representing the German Embassy	6013
 Royal Embassy of Denmark	7886
-Royal Norwegian Embassy	4767,7408,1782
+Royal Norwegian Embassy	4767,7408,1782,1165
 Royal Norwegian Embassy S1-S8	12175
 Rwandan Embassies	12328,10
 Rwanda’s Teachers Embrace Digital Shift	5606
@@ -299,9 +311,10 @@ Small Scale Embedded Generation The MTSAO	11228
 Small-Scale Embedded Generation	11228
 Social and Institutional Embeddedness	7151
 Social and Institutional Embeddedness Across	7151
-Somali Embassy	10184,337
+Somali Embassy	10184,337,4370
 Sources and Methods Embargoed	11286
 States Embassy Monrovia	4202
+Sudanese Embassy	14905
 Swedish Embassy	3277,10619
 TVET. Embed AI	6832
 Taiwan Embassy	12975
@@ -314,7 +327,7 @@ Tripoli Embassy	10409
 Tunisia The US Embassy	10409
 U. S. Embassy’s Acting-Deputy Chief of Missions	2769
 U.S. Embassies	9621,1384
-U.S. Embassy	3463,145,559,173,5,7,120,489,202,293,1473,187,61,167,86,371,563,54,383,61,759,525,31,1514,826,1528
+U.S. Embassy	3463,145,559,173,5,7,120,489,202,293,1473,187,61,167,86,371,563,54,383,61,759,525,31,1514,826,1528,962
 U.S. Embassy Abidjan	4472
 U.S. Embassy Chargé	4340,5,7
 U.S. Embassy Coopera9ao Maputo Maputo Mozambique	10713

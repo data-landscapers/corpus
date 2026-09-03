@@ -39,7 +39,10 @@ Ethiopia and Uganda. GSMA	11902
 FISP GDP G2B G2C G2G GSB	12453
 Finds New GSMA Study. Press Release	10822
 G Coverage GSMA	10856
+G Fourth Generation GSM GNI Gross	14897
+G Second Generation GSM GII Gender	14897
 G Spectrum GSMA Public Policy Position	14674
+G Third Generation GSM	14897
 GDJF and GSA	6960
 GDP. The GSS	236
 GIS Geographical Information System GSMA Global	13295
@@ -59,6 +62,7 @@ GS1-128	13513
 GSA Ghana Standards Authority SME Small	6936
 GSA Training	405
 GSB. Secure Infrastructure Overview The Secure	12359
+GSBPM	15077
 GSBPM Generic Statistical Business Process Model	12902
 GSC Gambia Submarine Cable	1000
 GSCARR-2025-0350.pdf	4074
@@ -87,6 +91,7 @@ GSM OBJET DE LA REQUETE Connexion	10821
 GSM Pro-	10819
 GSM Provi- Social Inclusion	10819
 GSM Providers	10819
+GSM Report	14935
 GSM SOBEBRA PLAINTES	10821
 GSM and WCDMA	35,9531
 GSM-MTN	10821
@@ -141,7 +146,7 @@ GSMA Handset Affordability In Malawi	14674
 GSMA Handset Ethiopia	6593
 GSMA Head Office	6593,4411,13,885,62,30
 GSMA Head Office One Angel Lane	10856,3818
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
@@ -201,6 +206,7 @@ GSMA Open Gateway APIs	5820
 GSMA Open Gateway APIs Revenues	6593
 GSMA Open Gateway Initiative for APIs	14674
 GSMA Philippe Goabga	10856
+GSMA Policy	15205
 GSMA Press Office	7825
 GSMA RESPONDENTS FROM Updated	11004
 GSMA Report	7548
@@ -216,7 +222,7 @@ GSMA State of Mobile Internet Connectivity Report	14674
 GSMA Sub Saharan Africa. For Methodology	14674
 GSMA TIPs Bank of Tanzania	12214
 GSMA Tax Database. Côte	10932
-GSMA The GSMA	11964
+GSMA The GSMA	11964,3241
 GSMA The GSMA Digital Identity Programme	10822
 GSMA The Mobile Economy Africa	14674
 GSMA Through Line Advisors Through Line	10856
@@ -233,6 +239,7 @@ GSMA and Handset Affordability Coalition Members Identify	14093,581
 GSMA and IMF	7989
 GSMA and Invictus Global Media Group	9820
 GSMA and Leading African	14674
+GSMA and NRC	15342
 GSMA and OECD.AI	3859
 GSMA and Paradigm Initiative	11857
 GSMA and Pleias	9944
@@ -266,6 +273,7 @@ GSMA76	10856
 GSMA76 Figure	10856
 GSMA77	10856
 GSMA84	14674
+GSMAPolicy	15205
 GSMAi	10856
 GSMAi GSMA Intelligence	14674
 GSMAintelligence	6928
@@ -284,6 +292,10 @@ GSP-BAO-UV9-ARCEP-	998
 GSP07 Environmental Safeguards Medou Lo Environment	11525
 GSR-21	11531
 GSR-24 Kampala. USD	1528
+GSR-25	14974
+GSR15 Discussion Paper	14932
+GSR16 Discussion-Paper Taxation Latest web.pdf	14932
+GSR2015	14932
 GSS Data Processing Division Joyce Date	236
 GSS Director	236
 GSS Disaggregated	236
@@ -299,6 +311,7 @@ GSS National Accounts Section Felix Debrah	236
 GSS Trade Statistics Section Naa Amerley	236
 GSS Vue	13689
 GSSRS	7659
+GST Guidelines	14932
 GSU Chief Executive Officer and Managing Director	4934
 GSX’s Karamoja and CBDC	5743
 GSdfiN’na	10965
@@ -314,7 +327,9 @@ GoB Government of Burundi GSMA Global System	13312,2
 Government GIS Geographical Information System GSB	13346
 Government GSB Government Service Bus GWAN	13345
 Government Service Bus GSM Global System	13346
+Government Wide Network GSMA	14879
 Government. The GSB	12416
+Gross Domestic Product GSM	14879
 Gross Domestic Product GSMA Global System	12395
 Gs1 Namibia	12478
 Gseaopf	11964
@@ -325,10 +340,11 @@ ICOM UV-5R GSP-ICO-ICF-ARCEP- VHF	998
 IDAS Pilot. GSMA	10819
 IEAG SUPPORTS THE GSA STANDARDISATION POLICY	14216
 IMEIs. A GSMA	8941
-ITU and GSMA	11857,802
+ITU and GSMA	11857,802,2461
 Identity The GSMA	10822
 Improve Malawi's GSMA Digital Policy	14674
 Improving Malawi's GSMA Digital Adopt	14674
+India’s GST Tax	14932
 Indonesia and Kenya GSMA Mobile Money	11994
 Infrastructure Program GSC Gambia Submarine Cable	1000
 International Rescue Committee’s Experience. GSMA	13314
@@ -346,6 +362,7 @@ Le GSDA	6424,929
 Lesotho GSMA Global System for Mobile Communications	12663
 Leverage GSMA	14674
 MOTOROLA MT-777R MT-777R GSP-MOT-MT7-ARCEP- Ministère	998
+MPF and GSFF	14983
 Malawi GSMA	10819
 Malawi The GSMA Digital Nations and Society	14674
 Malawi's GSMA DPRI	14674
@@ -367,6 +384,7 @@ NCA GSS GRA Operator’s Working Session	236
 NCA Telcos GSS GRA MoF BoG	236
 NCA and GSS	236
 NCA and GSS. Any	236
+NISR Statistical Production Process Model GSBPM	15077
 Namibia Operator Pushes GSM. RetrievedAugust	12325
 Nigeria. GSMA	10819
 OfficialUse On GSROUPE DE LA BANQUE	13555
@@ -388,8 +406,11 @@ Selon la GSMA	9724
 Sonia Gsir	10865
 Sover1e2ig.7n GSoverenimgneGntoCvleorundmGeonvt	10157
 Specialist GSU01 Sofia De Abreu Ferreira	11525
+Spectrum Pricing The GSMA	14897
+St. Famille School and GS Kinyinya	15101
 Standards GSCID Governance	11986
 Stanford GSB	1037,4561,1730
+States GPU Graphics Processing Unit GSM	15164
 TELMA ORANGE Réseaux Télécoms Source GSMA	14480
 Through the GSMA Open Gateway	6714
 Trusted Cross- Border GSM Providers	10819
@@ -399,7 +420,7 @@ Used GSMA	1363
 Using the GSMA Intelligence	14674
 VHF GSP-MOT-DP2-ARCEP- Conforme IC-F5000	998
 World Bank Group. GSMA	12214
-World Bank and GSMA	6078,1972,3956
+World Bank and GSMA	6078,1972,3956,3179
 YoY. GSMA Intelligence	2500,1414
 Zambia E-Commerce Electronic Commerce GSM Global	13347
 Zambia GSMA	10819

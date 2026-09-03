@@ -14,7 +14,10 @@ Ana Sofia Martinez Cordova	10985
 Antivirus Software Black	34
 Appendix D Software Installation	34
 Application Developers and Independent Software Vendors	12359
-Application Software	13356,1410
+Application Software	13356,1410,314
+Application Software Security Directives	15161,1
+Application Software Security Directives Document History	15161
+Application Software Security Directives URL	15162
 Aquisição de Software de Apuramento	11561
 Authors Javaid Iqbal Sofi	5418
 Availability of Software and IT Staff	13042
@@ -23,6 +26,7 @@ BOARDCO SOFTWARE LIMITED Data Controller INST-202654BD147	7167
 BOARDCO SOFTWARE LIMITED Data Processor INST-202654BD147	7167
 Backup Software	13185
 Batteries Soft Carrying Case	34
+Beers Petroleum Products Soft Drinks Wines	14985
 Blue Cloud Softech	10518
 Blue Cloud Softech Solutions	10518
 Blue Cloud Softech Solutions. The MoA	10518
@@ -49,8 +53,9 @@ Community SDK Software Development Kit SIM	12663
 Contacto ECTS Engenharia de Software	12019
 Coquina Software Company Ltd	3862
 Core Software Developer Sabri Salumu	11623
+D. USING DIFFERENT SOFTWARE MODELS	14853
 DATI Softwares Data Controller INST-94033572C3C VIHIGA	7167
-DHIS2 District Health Information Software	14666
+DHIS2 District Health Information Software	14666,393
 DHIS2 District Heath Information Software	13341
 DHIS2 and SOFIA	12196
 DPS Sofala	2228
@@ -62,8 +67,9 @@ Desenvolvimento de Software	11413
 Development of Integrated ID and CRVS Software	12241,839
 Digital and Soft Skills Training	11863
 Dignity Training Eswatini Payment Switch Soft	11131
-District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44
+District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25
 Districts Health Information Software	14442
+Division Manager for Software Solutions	15019
 Dolphin Screen Reader Software	13633
 Drive SDN Software Defined Network SD-WAN	13185
 E-census Software	13355
@@ -75,6 +81,7 @@ Em Sofala	12859
 Engenharia de Software	2816
 Enterprise Management Software	10550
 Enterprise Software Solutions	2258
+Enterprise-Grade Software Platform	15080
 Entertainment Advertising Information Services Software	1944
 Entreprise Software Solutions	2258
 Equipment Software	4972
@@ -102,8 +109,10 @@ HIc Bulgaria Europe Eastern Europe Sofia	10840
 HP OneView Centralised Management Software	11209
 HP Smart Document Scan Software	34
 Hannah Sofia Guinto	11572
-Hardware and Software	11129,1196
+Hardware and Software	11129,1196,2755
 Hardware and Software Development	14148
+Hardware and Software Transparent	15080
+Health DHIS2 District Health Information Software	15056
 Health Information Software	11417
 Health Software Requirements Specification	14773
 Herman Chinnery-Hesse’s SOFTtribe	8025
@@ -111,10 +120,13 @@ Hex-Tech Software Technologies CC	12478
 Hotel Sofitel Malabo	4209
 Hotel Sofitel Presidencial de Malabo Malabo	4209
 IEEE Software	5700
+II. RECOMMENDED BASELINES TO SOFTWARE DEVELOPMENT	15161
+III. SECURE APPLICATION SOFTWARE DEVELOPMENT	15161
 IMDRF Software	8301
 INTANGIBLE FIXED ASSETS SOFTWARE COST	14736
 INTEGRATION AND SOFTWARE SUPPORT Data	2477
 IUNetworks LLC and Omni Software Ltd JV	3700
+IV. SECURE SOFTWARE DEPLOYMENT AND MAINTENANCE	15161
 Independent Software Inspectors UGO AMADI	8424
 India's Software Technology Parks	8206
 Indian Software Product Industry Roundtable	6692
@@ -131,6 +143,7 @@ KEREA and Sofies	12191
 Kaduna Unveils Software	2355
 Kommunikation GmbH Nubelco Software S.L Nubelco	8530
 Korea's Software Meister High School	770
+Land Characterization System Software	15129
 Licensed Software Testing Organisation	5665
 Licensed Software Testing Organisations	5665,2759,15
 Licensing Software Testing Organisations	5665
@@ -164,6 +177,7 @@ National Software Quality Assurance Guideline for Nigeria	5665
 National Software Testing Commencement Guideline	5665
 National Software Testing Guideline	5665,2759,15
 National Software Testing Guideline Title	5665
+ORACLE Application Software Security Directives	15161
 Omni Software JV	8285
 Omni Software Ltd	8285
 Open Society Institute Sofia	8891
@@ -180,8 +194,10 @@ Park- Soft Landing Program	11863
 Pending Notes Irreversibility of Soft-Landing	14671
 Per Communications Technology Minister Sofiene Hemissi	2475
 Planification DHIS2 District Health Information Software	13306
+Platform Software Developer	15161
 Policy of Free and Open Source Software	1009
 Presidency Kaduna Unveils Software	2355
+Principal Software Architect	15019
 Procurement of Hardware and Software	13042
 Professional Software Development Team	13361
 Prototyping Facilities and Soft Skills Development	12376
@@ -190,6 +206,7 @@ Public Register Licensed Software Testing Organisations	5665
 Public Register of Testing Entities and Certified Software	5665
 Python Software Foundation	11922
 QBS Software Africa and Micronics Consulting Ltd	14255
+QT Global Software Ltd and AMBI Tech	14968
 Qantev Software	7390
 Qantev Software Tunisian Entrepreneur Safi Negra	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 R&D Research and Development SaaS Software	11196
@@ -199,7 +216,9 @@ Regulation of Medical Device Software	11268
 Remark Software for Multiple Choice	13477
 Risk and Integration Context Software	5665
 Rwanda FDA's SoftwareasaMedicalDevice	8301
+S SOFTWARE	14879
 SA Software Sector Set	11929
+SMDC and Software	15183
 SOFEPAC	13390
 SOFICAM	10987
 SOFIGIB	6827
@@ -210,6 +229,7 @@ SOFP Included	4896
 SOFR Secured Overnight Financing Rate	8590
 SOFTECH LTD Data Controller INST-9063904932D	7167
 SOFTECH LTD Data Processor INST-9063904932D	7167
+SOFTWARE APPLICATIONS AND DATA	14921
 SOFTWARE DEVELOPERS AND OTHER STAKEHOLDERS	14726
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES	34
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES Software	34
@@ -220,7 +240,9 @@ Sava Grand Nord Est Sofia Grand	14622
 Sector-Specific Requirementss Software	5665
 Security Software Security Security Operation and Management	9123
 Senior Software	12693
+Senior Software Developer	15034
 Senior Software Engineer	9592,2330
+Separation of Hardware and Software Lots	15028
 Service Software-as-a-Service	9123
 Sofala	1228,2555,3896,1805,2455,209,53,19,598,25,1,14,1
 Sofala Louren	12201
@@ -291,10 +313,11 @@ Softnet	2868,3151
 Softron Limited	3386
 Softtribe	236
 Softtribe Chief Executive Officer Francis Ayivi	236
-Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15,42,6,7,13,17,11,53
+Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15,42,6,7,13,17,11,53,91,159,49,20,12,3,118
 Software Applications	11349
 Software Architecture	13185
-Software Bill of Materials	6936
+Software Assets	15054
+Software Bill of Materials	6936,8225
 Software Bill of Materials GRA Ghana Revenue	6936
 Software Bills of Materials	6936
 Software Class Score Range Alternative Classification	5665
@@ -307,9 +330,10 @@ Software Defined Network	2591,10594
 Software Defined Networks	13185
 Software Defined Radio	3875
 Software Defined Wide Area Network	5444
-Software Developer	13048,26
+Software Design Phase	15161
+Software Developer	13048,26,1960,46
 Software Developer Skills Development Hub	13615
-Software Developers	6832
+Software Developers	6832,8258
 Software Developers Enterprise Architects Systems	21
 Software Developers and Vendors	5665
 Software Development	770,2098,3964,5221,873,111,324,215
@@ -317,6 +341,7 @@ Software Development Experience	13575
 Software Development Infrastructur	6832
 Software Development Kits	7519
 Software Development Lifecycle	5665
+Software Development Phase	15161
 Software Development and Database Administration	12961,76
 Software Development and Digital Design	6832
 Software Development and Engineering	6832
@@ -324,20 +349,24 @@ Software Development and IT Operations	7687
 Software Development and Knowledge Engineering	5700
 Software E2. Release	12021
 Software Empresa Online	12021
-Software Engineer	10374,1548
+Software Engineer	10374,1548,3239
 Software Engineering	1154,5678,2007,1221,1254,515,1539,207,1
-Software Engineers	6832
+Software Engineers	6832,8202
 Software GeoGebra Impulsiona Inovação	10349
 Software Installation	34
 Software Installation Request Form	34
 Software Integration Tests	10721
+Software LMS	15183
+Software License Governance Policy	15023
 Software Meister High School	697
 Software MoH	34
 Software Módulos	12021
 Software Operating System	11471
 Software Platforms	14090
 Software Quality	11156
+Software Requirements Gathering and Analysis Phase	15161
 Software Requirements Specifications	5665
+Software Solutions Division	15028
 Software Support-The Service Desk	2477
 Software Technologies Ltd	9815
 Software Test	6832
@@ -349,10 +378,12 @@ Software Testing Organisations Licensing	8424,15
 Software Testing Organisations Licensing Framework	5665
 Software Testing Organisations Licensing Guideline	5665
 Software Testing Organisations Licensing Guideline Title	5665
+Software Testing Phase	15161
 Software Testing Service	5665
 Software Testing Services	5665
 Software and Hardware	11863
-Software and Materials	14766
+Software and Licensing	15149
+Software and Materials	14766,314
 Software and Web Development	8560
 Software as a service. Manuel	1984
 Software of Unknown Provenance	3651
@@ -367,7 +398,7 @@ Software2	10780
 Softwares	549
 Softwood	13385
 Specialist GSU01 Sofia De Abreu Ferreira	11525
-Standard and Custom Software	14766
+Standard and Custom Software	14766,314
 Statistical Analysis Software	8604
 Statistical Analysis Software UA	10874
 Super App Soft	14791
@@ -386,4 +417,5 @@ Ultimate Software	13185
 Urchin Software Corp	13461
 VODACOM LESOTHO HOSTS FIRST SOFTWARE FACTORY	12694
 W Software SGE Secrétariat Général	13341
+X Software	14997
 X X X Software	236

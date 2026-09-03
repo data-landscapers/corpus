@@ -2,7 +2,7 @@ ALL SAINTS' CATHEDRAL CHURCH Data Controller	7167
 AUTO SAISINES	10876
 Abdelhak Saihi	7791
 Abdirahman Said	2743
-Abdirahman Said Ahmed	10521
+Abdirahman Said Ahmed	10521,4457
 Abdo Said Abdo. ABBREVIATIONS AND ACRONYMS	13860
 Abhishek Saini	13197
 Ack All Saints Mushililie Cdc Data	7167
@@ -31,6 +31,7 @@ Chief Enterprise Business Officer Lynda Saint-Nwafor	3155,31
 China Eximbank-financed SAIL	57
 Church of Jesus Christ of Latter-day Saints	8724
 Clara Saine Mendy	7475
+Collège Saint Ignace	15023
 Collèges Sainte Thérèse	10821
 Communities Said About GCTs Members	6947
 Community of Saint' Egidio	12291
@@ -45,6 +46,7 @@ DES DISPOSITIONS PARTICULIERES A LA SAISIE	13293
 DES SAISIES CONSERVATOIRES Section	13293
 DR. ROOP SAINI THE DERMATOLOGY CLINIC	7167
 Decision-Makers Said Minister Theofelus	6825
+Dr. Said Ngoga	15019
 Dr. Said Seif the Director General	11133
 Dr. Said Soule Said	13816
 Dr. Suwaiba Said Ahmad	5137
@@ -65,6 +67,7 @@ Hadi Said	13811
 Haiti Honduras Nicaragua Saint Kitts and Nevis	10764
 Houssam Said Ali	5669
 INSCRIVEZ EN JOURS. NE SAIT PAS	13300
+Indicator Type of Monitoring Monitoring Voltage SAIDI	14867
 Infrastructure and Transport Minister Saif Al-Nasr Al-Tijani	14194
 Institut Saint KIZITO	13442
 Interior Minister Said Nouh Hassan	13840
@@ -76,6 +79,7 @@ Justin Saidi	12299
 K. Said	11140
 Kitts and Nevis Saint Lucia Saint Vincent	10764
 LE NE SAIT PAS	13300
+LV SAIFI Planned and Unplanned HV	14867
 LicenseÉƧƨ SACJisapublicationof SAICSIT. ISSN1015-7999	8602,4
 Lynda Saint-Nwafor	3220
 M. Said Nouh Hassan	4957
@@ -90,6 +94,7 @@ Mateus Saize. Text	12817
 Mauritania Namibia Nauru Nicaragua Niger Saint	10764
 Ministry of Foreign Affairs Mr. Chamsoudine Said	13744
 Mira Saidi	10763
+Mohamed Said Nur	15007
 Monthly SAIDI Performance	12256
 Monthly SAIFI	12256
 Moudjib Mohamed Said Dernières	1996,2390
@@ -129,18 +134,19 @@ SAICSIT. ISSN	8603,1,1
 SAICTA	11779
 SAICTA CEO Dr Jannie Zaaiman	11779
 SAIDAI	1468
-SAIDI	10975,1281,102,1527
+SAIDI	10975,1281,102,1527,982,10
 SAIDI Benchmark	12256
 SAIDI Hours	12358
 SAIDI SAIDI BenchmBareknc	12256
-SAIDI and SAIFI	12358
+SAIDI and SAIFI	12358,2509
 SAIDI and SAIFI During the FY	12358
 SAIDI&SAIFI	12358
 SAIDI&SAIFI DESCRIPTION UNITS BASELINE	12358
-SAIFI	10975,1281,102
+SAIFI	10975,1281,102,2509,10
 SAIFI Benchmark	12256
 SAIFI Benchmark EPRA Target Figure	12256
 SAIFI Times	12358
+SAIFI and CAIDI	14867
 SAIGNEMENTS................. F	13300
 SAIIA	1006
 SAIIA OP	1006
@@ -180,6 +186,7 @@ Said To Be Biggest Client for FDLR’s	3245
 Said Youssouf Ali	13768
 Said Youssouf Ali. Selon Souef Kazouine	13768
 Saida	10021
+Saida Hassan	14896
 Saidal	10021
 Saidi	9590,3525
 Saidi Machokole	4364
@@ -194,6 +201,7 @@ Saidou Sankara	4717
 Saidou Sankara. L’atelier	4717
 Saidou Yanogo	7306
 Saidu	4794
+Saif Al-Din Hassan Barri	15254
 Saif Al-Nasr Al-Tijani Haroun	8133
 Saifi. Mobile Services Record	11642
 Saifodine Dirce Dembele Aderito Nhantumbo Jorge	2989
@@ -229,10 +237,11 @@ Saint'Egidio	10935
 Saint'Egido	10935
 Saint-Brandon	14306
 Saint-Brandon L’île Raphaël	14306
-Saint-Denis	8273
+Saint-Denis	8273,7056
 Saint-Kizito	13442
 Saint-Louis	58,5617,1879
 Saint-Marin	6613
+Saint-Paul	15333
 Saint-Père	13405
 Saint-Pétersbourg	10253
 Saint-Régis Zoumiri	2000
@@ -243,7 +252,7 @@ Sainte Montagne de Mugera	13405
 Sainte-Marie	14622
 Sainte-Marie. L’ambition	14622
 Saisai Fintech	13452
-Saisie	6954,1843,4544,348,794
+Saisie	6954,1843,4544,348,794,410
 Saisine	8891,5521,125
 Saisines Dans	8891
 Saisines Enregistrées Dossiers	10975

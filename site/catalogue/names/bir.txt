@@ -42,6 +42,8 @@ BIRTH REGISTRATION	12337,1046
 BIRTH REGISTRATION CAMPAIGN GAINING MOMENTUM	12291
 BIRTH REGISTRATION IN DOWA. Dowa	12291
 BIRTH REGISTRATION IS STILL UNDERWAY. NRB	12291
+BIRTH STATISTICS	15056
+BIRTH STATISTICS Key	15056
 BIRTHS	12898,746
 BIRTHS AND DEATHS REGISTRATION	13285,1176
 BIRTHS AND DEATHS REGISTRATION ACT	11176,2109,1176
@@ -57,7 +59,7 @@ Billion Birr	1798,173
 Billion Birr Additional Budget Addis Ababa	1971
 Billion Birr Billion	5655
 Billion Birr Supplementary Budget Addis Ababa	1964
-Birabujijwe	13323
+Birabujijwe	13323,1539
 Birachi	7886
 Biragushikira	13300
 Birama COULIBALY Chevalier	7843,394,1050,55
@@ -97,7 +99,9 @@ Birr. Beyond	8646
 Birr. Cross-border	12272
 Birr1651.9	5655
 BirrMetrics	10496
-Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1
+Birta Dheer	15075
+Birta Dheer Golis Telecom Data Center	15075
+Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191
 Birth As-	12151
 Birth Asphyxia	12151
 Birth Asphyxia Asphyxia	12151
@@ -111,9 +115,10 @@ Birth Certificates	445,3812,6518,1516,37,9,159,603
 Birth Certificates Available Fees	14045
 Birth Certificates and Identity Documents	12972
 Birth Complica-	12151
+Birth Death Marriage Divorces Cause	15056
 Birth Figure	10765
 Birth Identification Number and Death Identification Number	13005
-Birth Intervals	13454
+Birth Intervals	13454,1793
 Birth Notification	14137
 Birth Notification Number	12337
 Birth Notification Number CRVSID	12337
@@ -121,7 +126,7 @@ Birth Optimisation Strategy	11218
 Birth Order	12413
 Birth Pregnancy	12151
 Birth Registered	10765,10
-Birth Registration	445,2330,1482,3407,3101,10,37,10,396,722,46,165,65,11,23,41,37,39,39,266,423,359,190,493
+Birth Registration	445,2330,1482,3407,3101,10,37,10,396,722,46,165,65,11,23,41,37,39,39,266,423,359,190,493,1110
 Birth Registration Completeness	12151,1493
 Birth Registration Completeness Between	12151
 Birth Registration Confirmation	10765,10
@@ -169,7 +174,7 @@ Birth-to-ID Continuity	14655
 Birth. Dep. Chief Registrar Oversees	12064
 Birthday	6553,6424
 Birthday Charity Run of Chief of Defence Forces	9781
-Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294
+Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151
 Births Abroad Birth	12216
 Births And Deaths Is Declared	12138
 Births And Deaths Registration Act Subsidiary	12138
@@ -219,6 +224,7 @@ Candidate’s Birth Record	13477
 Certificate of Birth. NOTE	12217
 Challenges of Digital Birth Registration	11977
 Children's Act. The Births and Deaths Registration	12597
+Child’s Size and Birth Weight	15247
 Citizenship and Birth Registration	13148
 Civil Birth Registration Simplification Law	10775
 Claude Rameau Bireau	4874
@@ -230,7 +236,8 @@ Concealment of Birth Act	1
 Confirmation of Birth	11282
 Continuous Birth	12241
 Continuous Birth Registration	12241
-Crude Birth Rate	12151,216,16,30,58,201
+Crude Birth Rate	12151,216,16,30,58,201,2384
+Crude Birth Rate CDR Crude Death	15056
 DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
 Daily Nation. Birth	12138
 Damaged Birth Certificate Note	12216
@@ -270,6 +277,8 @@ FIRST LADY PARTNER ON BIRTH REGISTRATION	11915
 FOREIGNERS WHO ARE ETHIOPIAN BY BIRTH	14004
 Family Registration System Birhanu Gurmu Victoria	14137
 Fatih Birol	11572
+Females102.7 Males Births	15056
+First Birth	15247
 Fleur Birba Patricia TAONSGO	5722
 Foreign Births Registration By Sex	12151
 Free Birth Registration	5609
@@ -300,6 +309,7 @@ Kash By Phyllis BiroriJohannesburg	7272
 King's Birthday	13153
 Kings Birthday	12971
 Kinyarwanda Illustrations of Digital Birth Registration	12328
+LAIS'. Birasaba	15110
 LIVE BIRTHS	12064
 Lagos Man Visited Birth Registration Website	10034,231
 Late Birth Registration	12216
@@ -316,7 +326,7 @@ Linking Birth Registration	12057
 Live Birth	12151
 Live Births	10780
 Live Births and Sex	12672
-Low Birth Weight	12413
+Low Birth Weight	12413,2643
 Luanda BIRO CAETANO MWEFEKA NASCIMENTO	10751
 Malawian Birth Certificate	12216
 Male Country Of Birth Male Female	12151
@@ -334,7 +344,7 @@ NAMIBIA STRENGTHENS BIRTH REGISTRATION SYSTEMS	13141
 NBA’s Birnin Kebbi Law Week	14396
 NIN. Birth	12338
 NOTIFICATION AND REGISTRATION OF BIRTHS Clause	12959
-NOTIFICATION Birth	12413
+NOTIFICATION Birth	12413,2643
 NPC Opens Nationwide Digital Birth	7632
 NPRS. Birth	12327,10
 NR8 Form Birth Registration	12216
@@ -367,11 +377,13 @@ Particulars of Records of Birth	12226
 Phase One of National Birth Registration Campaign	12291
 Phyllis BiroriJohannesburg	3697,1687,800
 Place of Birth	13307
+Place of Birth and Recent Migration	15247
 Place of Registration of Birth	12226
 Population.2. Births	14410
 Pregnancy Birth Pregnancy	12151
 Print Email Birth	12496
 RECORDS AND RETURNS OF BIRTHS	12898
+REGISTRATION Birth	15056
 REGISTRATION OF BIRTH	14714,1
 REGISTRATION OF BIRTHS AND ADOPTED CHILDREN	12898
 REGISTRATION OF LIVE BIRTH PROCEDURE	12338
@@ -399,6 +411,7 @@ Requirements for Birth Registration	13644
 Research Births	12151
 Research-Report Birth-Registration-CAM Web.pdf	13681
 Respondent The Principal Registrar of Births and Deaths	14460
+Richard Bird and Pierre-Pascal Gendron	14932
 Rwanda Document Description Birth Certificate	12328
 SUB-SECTION TWO REGISTRATION OF BIRTH	12226
 Safer Births Bundle of Care	7895
@@ -435,10 +448,12 @@ UNICEF and Ghana’s Births and Deaths Registry	10822
 Universal Birth Registration	11977
 University of Birmingham	9145,5591
 Upgrade of Birembo	12358
+VII Infographics Birth	15056
 Wild Animals and Birds Protection Act	7760
 Workflow of RCI Birth Registration Process	10765,10
 Yacouba Mai Birni	4997
-Year Births Deaths Marriages	12413
+Year Birth	15056
+Year Births Deaths Marriages	12413,2643
 Year Registration of Births and Deaths Act	10822
 Year of Registration of Birth	14713
 Year the Births and Deaths Registration Law	10822

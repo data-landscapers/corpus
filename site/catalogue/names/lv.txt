@@ -1,11 +1,17 @@
 LMP Labor Management Procedures LV Low	11549
+LV CAIDI Planned and Unplanned HV	14867
+LV Harmonic Voltages HV	14867
 LV High-	11380
 LV Low Voltage M&E Monitoring and Evaluation	12399
+LV SAIFI Planned and Unplanned HV	14867
+LV Supply Voltage Variations HV	14867
 LV T4 Small	12394
+LV Voltage Swells HV	14867
+LV Voltage Unbalance HV	14867
 LVIII-06-2023	10975
 Lake Kivu Monitoring Program LV	12358
 Long Term Mean LVSR Low Volume	2775
-MV and LV	12388,11
+MV and LV	12388,11,2611
 Major Cons. LV	9409
 Page11 MV LV	12358
 SWAZILAND GOVERNMENT GAZETTE EXTRAORDINARY VOL. LVI	12916

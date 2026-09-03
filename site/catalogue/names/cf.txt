@@ -17,6 +17,7 @@ CF Parcelle	13375
 CF T CCI	12701
 CF and OR for Mozambique	771
 CF&start	4127
+CFA Chartered Financial Analyst CIA Certified	14997
 CFA Franc	10841,1064
 CFA Franc FCV Fragile	969
 CFA Francs	7958,3595,371
@@ -186,10 +187,12 @@ CFR Certificat Foncier	10876
 CFR InfoGuide	12227
 CFRA Commission	14437
 CFRSP	11599
+CFSAM	15118
+CFSAMs Special Reports. Rome	15118
 CFT AML	11861
 CFT ARCT ATS BIS	13468
 CFT ATM BSA CBL CIS CMA	12701
-CFT Act	14819
+CFT Act	14819,61
 CFT Anti-Money NFIS National Financial Laundering	12297
 CFT Arrangements	12542
 CFT BCM BIS CAR CBE CBDC	11134
@@ -200,12 +203,15 @@ CFT Compliance Officer	12542
 CFT DEFENCE	13532
 CFT Directives	13532
 CFT Financing of Terrorism ICT Information and Communication	12444
+CFT Law	14880
+CFT Laws	14880
 CFT Laws Frameworks	12444
 CFT Measures	13868
 CFT Onsite Inspections. Enhanced AML	11134
 CFT Policy	12542
 CFT Regime	12701
 CFT Regulations	4848
+CFT Regulatory and Supervisory First	14897
 CFT Related Data and Statistics	14809
 CFT SOCO Human Resource Pce des Terres	14760
 CFT Strategy	12956
@@ -221,6 +227,7 @@ Central Africa CFA	4956,1901
 Central Africa CFS Container Freight Station	2775
 Central African CFA	12870
 Central African and West African CFA	8265
+Cf Description	15129
 Cf Ghana	789
 Cf Rapport SEF	2342
 Cf Tableau	14425
@@ -233,6 +240,7 @@ Cf. Conseil	8891
 Cf. Décret	10966
 Cf. HCP	8891
 Cf. Manuel	747
+CfBT Education Trust	14851
 Cfa. C'est	1648
 Cfa.- Banque Mondiale	3577
 Computational Fluid Dynamics OpenFOAM Free CFD	9475
@@ -282,10 +290,13 @@ F Cfa. C'est	1269
 F Cfa. Ce	3638
 F Cfa. Elle	4077
 F Cfa. Et	1269
+F Cfa. L'agent	15271
 F Cfa. Le Bénin	5436
+FAO CFSAM	15118
 FRANCS CFA	737
 FSRA and CFI	11131
 FSRA and CFI Harmonisation	11131
+Femmes des Medias AU African Union CF	14935
 Finance CFI Computer Incident Response Team	12444
 Franc CFA	2342,2344
 Franc CFA XOF	14683
@@ -304,8 +315,11 @@ HRM&D and CFO Q1	11986
 ICT CFT	899
 Informal Sector CFAF Establishments LC Franc	10980
 Initial Annexure CFUNCTIONAL	13037
+Inter-Agency CFM	15116
 Kenya CFLG	9079
 Kluster CFCIM	1232
+LED and CFL	14947
+LIST OF ACRONYMS AND ABBREVIATIONS CFL	14947
 MIGA Vice President and CFO	11476
 MTN Nigeria. COO Ayham Moussa and CFO	10120
 McQuaid CF	10784
@@ -327,6 +341,7 @@ RAS Cf la DCP	10975
 Sector Trabajo CFO	4209
 Song Cf	10975
 South Africa CFO Chief Financial Officer	11250
+Statistics CFSAM Crop and Food Supply Assessment	15118
 Support CFA2.1bn	4089
 Techniques FCFA Franc CFA	12
 Telecel CFA40.44bn	5005

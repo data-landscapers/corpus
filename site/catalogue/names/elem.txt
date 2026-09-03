@@ -10,6 +10,8 @@ CPI Elements of Reliability	14777
 CPI Elements of Serviceability	14777
 Core Elements	7548,7116
 Country Hydromet Diagnostics Element	11553,1812,1083
+Critical Data Elements	15034
+Critical Data Elements CDEs	15034
 Critical Elements	12717
 DGI I- RAPPEL DES PRINCIPAUX ELEMENTS	10858
 Data Element	1009,152,11199
@@ -55,7 +57,7 @@ Elementos de Identificação	10756,627
 Elementos de Pesquisa	11405
 Elementos de Prova	11364,1
 Elementos de Requisito de Consultas Públicas	11898
-Elements	1818,275,2034,2809,3893,743,333,595,885,344,706,130,212
+Elements	1818,275,2034,2809,3893,743,333,595,885,344,706,130,212,141,31
 Elements ORCID	10878
 Elements SABC	8999
 Elements Statistics Mauritius Bank of Mauritius Ministry	14777

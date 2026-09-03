@@ -7,6 +7,7 @@ Compute Node	9475
 Compute Node NVidia GPU	9475
 Current Analysis of Ecosystem Nodes	12512
 EMIS NODE	11860
+Edge Node	14897
 HCI Nodes	13185
 Habari Node	1527
 Habari Node Ltd	1527
@@ -31,6 +32,7 @@ Node.js	12404,633
 Node.js Developer	12693
 NodeB	5058,1670,3993
 Nodes	4528,4947,2385
+Nodes and Servers	15205
 Nodikida	8301
 PRODI GY Sonian’ny Nodinihi Voavaha	14488,1,1
 Quarter National Council of Nodal Officer	11951

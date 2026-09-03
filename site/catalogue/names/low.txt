@@ -4,6 +4,8 @@ ADULTS IN LOW- AND MIDDLE-INCOME	10977
 AGENCY SERVICES PROVIDED BY LOWER COURTS	12920
 Abnormally Low Bid	13185
 Abnormally Low Bids	13185
+Abnormally Low Proposal	15080
+Abnormally Low Proposals	15080
 Africa World LDCs LLDCs SIDS Low	11563
 All Firms Eswatini2024 Large Sub-Saharan Lower	12346
 American Low Earth Orbit	4990
@@ -11,9 +13,11 @@ Annual Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Artificial Intelligence for Low Income Countries	11140
 B. Lower Value Accounts	11233
 B.1.6 Low-Earth Orbit and Direct-2-Device	14674
+BAKOOL BAY GEDO MIDDLE JUBBA LOWER	14896
 BEAC Lowers	10841
 Bank-Fund Debt Sustainability Framework for Low Income	10997
 Banked Population LOW Mobile Money Prevalence	14819
+Banking Sector Rwanda Low-Income Middle-Income High-Income	14997
 Basket Low	12395
 Bounced African Low Lunar Spheres. African	10076
 Bounced African Low Lunar Spheres. Once	10076
@@ -46,6 +50,7 @@ Digital Connectivity IN LOW- AND MIDDLE-INCOME	10977
 EGDI High EGDI Middle EGDI Low	10840
 Egypt Records the Lowest Mobile Complaint Rate	11642
 Elon Musk's Starlink Low	6197
+Enhance Low	14997
 Environmental Risk Rating Low	11965
 Escaping the Low-Growth Trap	11560
 Eswatini2024 Sub-Saharan Africa Lower Middle Income	12346
@@ -80,6 +85,7 @@ High Upper Middle Lower Middle Low	10785
 Housing for Low- and Middle-Income Families	14829
 Human Development. Low	10726
 ID4D Identification for Development LIC Low-income	10714
+INSTITUTES PROFESSIONAL SCHOOLS ABE Lower Primary	14896
 Impediment for Lower-Literacy Users	5349
 Implementing Sustainable Low and Non-Chemical Development	14793
 Importance of National Data Infrastructure for Low	1264
@@ -90,6 +96,7 @@ Informal Formal Low	12445
 Innovation and Capacity Building Low	14818
 Investment Cameroon2024 Sub-Saharan Africa Lower Middle	10976
 Investment Details Low-Cost	12457
+JUBBA LOWER SHABELLE MIDDLE SHABELLE BANADIR	14896
 KEY OBJECTIVES Lower	12477
 Keep Low Levels of Banking Sector Non-Performing	11131
 Kenya and South Africa. Lower-income Africans	6834
@@ -118,21 +125,24 @@ Low Access	12214
 Low BR	12250
 Low Bandwidth English	9429
 Low Base M-PESA	8843
-Low Birth Weight	12413
+Low Birth Weight	12413,2643
 Low Carbon Future	6387
 Low Code	11939
+Low Compliance	14932
 Low Conditional Medium Medium Medium Medium	6593
 Low Consumption	12395
 Low Costs	12006
 Low Demand	12394,51
 Low Density	9437
+Low Deprivation	15244
 Low Dietary Diversity	12978
 Low EAF and High Demand Sensitivities	11228
 Low EGDI	12241
 Low EPI	11569
 Low Earth	4442
-Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164,871,64,459,448,583
+Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164,871,64,459,448,583,864
 Low Environmental Impacts	12389
+Low Financial Literacy	14997
 Low GDP	11916
 Low Halogen Power Supply Kit	12681
 Low High	10775,1435
@@ -145,6 +155,7 @@ Low Income. Introduction The Enterprise Surveys	11882
 Low Institutions	12351
 Low Integrity	13053
 Low Internet	12278
+Low Investment	15059
 Low Learning Rate	11953
 Low Level Design	13185
 Low Level of Automation	5677
@@ -171,19 +182,23 @@ Low Priority	899,10232,1044
 Low Rate	12256
 Low Rationale	12376
 Low Reporting Culture and Weak Public Confidence	6936
+Low Resolution	15285
 Low Risk	5665,5491
 Low Risk Category	11855
 Low Score	12376
 Low Substitutes	10726
+Low Tax Compliance Culture Psychological	14985
 Low Technical Design of Project	12440,618
 Low Technology Transfer and Absorption	14729
 Low Uganda Low Medium Medium Medium	6593
 Low Value Payment Systems Efficient	12286
 Low Very Low Very Low Low	13053
-Low Voltage	9409
+Low Voltage	9409,5458,4,384
 Low Voltage Installations	12998
+Low Voltage Supply	14867
 Low Voltage. While AI	11768
 Low Zambia Low Medium Medium Medium	6593
+Low and Khartoum	15244
 Low and Mid Bill	665
 Low and Middle Income Countries	665
 Low and Moderate E&S	11965
@@ -196,6 +211,7 @@ Low-Band	5245
 Low-Bandwidth Optimization	13037
 Low-Carbon Economy	11332
 Low-Carbon Economy Project Manager Fauziatu Ahmed	11332
+Low-Contributing Indicators	15244
 Low-Cost Legal Assistance Offered	12389
 Low-Earth	5060,3885
 Low-Earth Orbit	5245,9429
@@ -214,7 +230,8 @@ Low-Tech Interfaces	4625
 Low-Value Payment Systems	13388
 Low-and-Middle-Income-Countries	11990
 Low-band	5675,918,8081
-Low-bandwidth	5513
+Low-bandwidth	5513,9651
+Low-birth-weight	15056
 Low-carbon	10969,915,1,10,264,1,44,1,146,45,91
 Low-carbon Strengths Rank Code	12205
 Low-code	11133
@@ -244,9 +261,10 @@ Low. Stakeholders	11965
 Low. The Environmental and Social Systems Assessment	12176
 Low. Track II	12669
 Lowell. Chris	10794
-Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,612,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74,368,455,36,42,236,80,164,6
+Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,612,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74,368,455,36,42,236,80,164,6,1022,1,100,59,108,80
 Lower ARPU	14707
 Lower Casamance. Project	5056
+Lower Contributors	15244
 Lower Cost	582
 Lower Costs	6318
 Lower Courts	12920
@@ -257,8 +275,9 @@ Lower Eastern Mt Kenya Western	7869
 Lower Eastern and Mt Kenya	7833
 Lower Hill Road	12151
 Lower Hill Road P.O Box	12151
-Lower House	10652
+Lower House	10652,4332
 Lower Indian Ocean Network	2677,615,3379,7051
+Lower Jubba	14896
 Lower Limpopo Basin	12828
 Lower Maguduza	13123
 Lower Maguduza Hydro Electricity	6539
@@ -280,7 +299,7 @@ Lower River and Central River. Through	8311
 Lower Secondary	12411
 Lower Secondary Education	12411
 Lower Secondary NER	11918
-Lower Shabelle	3405
+Lower Shabelle	3405,11491
 Lower Taxes and More Affordable Devices	8241
 Lower Thetsane	5744
 Lower Usuthu Smallholder Irrigation Project	13123
@@ -297,8 +316,9 @@ Lower- and Middle-Income Countries. Policy Research Working	10963
 Lower-Income Countries	226
 Lower-Middle	10714
 Lower-Middle Income Country	11909
+Lower-contributing	15244
 Lower-cost	10588
-Lower-level	8837
+Lower-level	8837,6098
 Lower-middle	6153,4982,428,9
 Lower-middle Upper-middle High	11563
 Lower-middle Upper-middle High Americas Arab States	11563
@@ -306,7 +326,7 @@ Lower-middle Upper-middle High Income Note	11563
 Lower1905416115	12413
 Lowering	1778,2319,867,283,3595,2294,1097,1155,236,1099
 Lowering QoS	10856
-Lowest	1013,931,4488,4537,915,1,10,264,1,90,101,4,41,91
+Lowest	1013,931,4488,4537,915,1,10,264,1,90,101,4,41,91,2757
 Lowest NSR Coverage	11998
 Lowest Rankings	12204,1
 Lowest Rankings Ethiopia	12205
@@ -316,24 +336,30 @@ Lowveld Cattle and Maize	12977
 Lowyaddo	13938
 M&E Lower-Middle-Income Country Labor Management Procedures	10964
 MONTHLY HIGH AND LOW SHARE PRICES	4896
+MTR Low	14897
 MW Lower Maguduza Hydropower Plant	13123
 Macroeconomic Sector Strategies and Policies Low Low	12440
 Madagascar Niger Low	11572
 Main Reasons for Underutilization- Overall Low Demand	12445
+Maintain Low Digital Service Tax	14932
 Major Consumers of Low	9409
 Malawi Low Resource Language Data Trust	6813
 Manager Lorena Soulange GCF Low-Carbon Economy	11332
 Manufacturing Low Demand	12445
 Medium Influence Low Influence	12444
+Medium Low	14965
 Medium Low Tanzania Medium Medium Medium	6593
 Medium Medium Low Morocco Conditional Medium	6593
 Men Women Lowest	11964
+Middle Jubba Total Bakool Bay Lower	14896
+Middle Shabelle Total Gedo Lower Jubba	14896
 Mobile Cellular Low	12395
 Mobile Cellular Low Usage	12395
 Mobile Cellular Low Usage Basket	12395
 Mobile Data and Voice Low	12395
 Mobile Data and Voice Low Consumption Basket	12395
 MobileDataVoice low	11563
+Moderate-Impact of Low-Impact High North Kordofan	15244
 Monthly Low Frequency Events	11228
 Mpakeni Dam and Lower Maguduza	11134
 Network LEO Low-Earth Orbit M&E Monitoring	6539
@@ -357,15 +383,22 @@ REMARKS TYPE OF CYBER BREACH Low	1938
 Ramana GCF Low-Carbon Economy Project Coordinator	11332
 Rapid Urbanization and Low Population Density	12399
 Reduces Low	12444
+Regulatory Framework for Low Earth Orbit	15120
 Responses Country Specific Medium High Lower	13868
+Retail Investor Apathy Low Sector-Specific Expertise	14997
 Reverse Low Libido	5574,215
 Risk-Based Indicative Low-risk Medium- Governance Model	14565
+Rubavu and Nyamasheke. Low	15056
+Rwanda Insurers Low	14997
+SACCO Low	14997
 SADC Low Value Retail Payment System	492
 SC.KE Lower and Middle Level Institutions	6946
 SDN MDG SOM COM Low	6593
 SELECT LOW- AND MIDDLE-INCOME ECONOMIES Affordability	10977
 STARLINK Low Earth Orbit	1872
 Sajjid Mooniaruck GCF Low-Carbon Economy Project	11332
+Scale the National Agriculture Insurance Low	14997
+Sean Lowry	14932
 Select African Low- Income Countries	13624
 Select African Low-Income Countries	13624
 Senqu River Valley and Southern Lowlands	12755
@@ -380,12 +413,14 @@ Start-Ups Low	13100
 Sub- Low-	10977
 Sub-Saharan Africa and Lower Middle Income. Indicator	11881
 Sub-Saharan Lower Middle Import	10976,1370
+Sudan Low	14897
 Support for Lowland Rehabilitation	11579
 System LIC Low Income Countries LMIC	771
 Systemic Lower	12214
 Time Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Truecaller Reports Lower Q2 Sales	7427
 USE OF ARTIFICIAL INTELLIGENCE Low-risk	14565
+Ultra Low	15027
 Ultra-Reliable Low-Latency Communications	5675
 Undersea Optical Transmission System Employing Low	4676
 Union. Low	3583

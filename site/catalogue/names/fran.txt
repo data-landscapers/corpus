@@ -2,6 +2,7 @@ ACRONYMS BPC CAA Agence Française	10964
 ADILSON FRANCISCO GUIMARÃES	10751
 AF Additional Financing AFD Agence Française	13836
 AFD Agence Française de Développement	11380
+AFD Agence Française de Développement AFI Alliance	15023
 AFD Agence Française de Développement AMR Avis	10712
 AFD France	13260
 AFD and Expertise France	3036
@@ -18,6 +19,7 @@ Afrique de Formation des Avocats Francophones	10821
 Agence Francaise de Development	11469,3077
 Agence Francaise de Developpement	10275
 Agence France Press	13313
+Agence France Presse	14932
 Agence Française	13433
 Agence Française Islamique	10965
 Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948
@@ -30,13 +32,14 @@ Alastair Peter Francis Haynes	11136
 Albert Francis Atangana Ze Counsel Hala	11924
 Alliance Française	13314
 Altice France	8125
+Amazon Passes France’s Digital Services Tax	14932
 Ambassade de France	1679,8348,3415,319,1,37
 Ambassadeur de France	1955
 Ambassador of France	1229
 Ambassadrice de France	6514
 Among Francophone Africa	12339
 Anglais Français	9961
-Anglophone and Francophone	999
+Anglophone and Francophone	999,13998
 Annexe E QUEST. FRANÇAIS	13300
 António Francisco Andrade	10751
 Assistant Secretary of State for African Affairs Frank	4472,2958
@@ -121,6 +124,7 @@ Domingos Juliasse Viola Manica Francisca Domingos	12201
 Dr. FRANCIS XAVIER OTIENO ODAWA Data	7167
 Dr. Francis Chipimo	13532
 Dr. Francis Joseph Bwire Data Processor	7167
+Drug Authority FRW Rwandan Francs FY	14985
 EMIRAE France	11725
 EN MILLIERS DE FRANC CFA	10847
 EN MILLIERS DE FRANCS CFA	10712
@@ -134,20 +138,21 @@ Embaixada da França	414
 Embassies of France and Ireland	13156
 Embassy of France	13312,2
 Employment and Career Path Planning for France	8125
-En France	10532,960
+En France	10532,960,3803
 Environmental and Social Systems Assessment ESSA Franc	11905
 Errol Francke	8130
 Errol R. Francke	8130
 Errol R. Francke Received	8130
 EstDev and Expertise France	8546
 Estonia and France	13651
+Etat Français	14862
 Ethiopia UAE China France United States	13868
 Ethiopia and Agence Française de Développement	14027,1
 European Commission and France	3036
 Even France	6825
 Examinations Council of Zambia Prof. Frank Tailoka	13477
 Excellency Mr Daniel Francisco Chapo	12640
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453
 Expertise France Comores	3772
 Expertise France and CMM Oxford	1000
 Expertise France and ESTDEV	9265
@@ -179,14 +184,15 @@ First Francophone West Africa	3959
 Fran-aises	10718
 Fran1ework	4153
 Franapon and Luzafon	6985
-Franc	9616,1242,17,647,295,88,2778
+Franc	9616,1242,17,647,295,88,2778,340,79
 Franc Burundais	13524
 Franc CFA	2342,2344
 Franc CFA XOF	14683
 Franc CFA ZAR	14683
 Franc CMA Capital Markets Authority NRB	11994
 Franc Communauté	11553
-France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,29,15,290,59,274,116,44,38,19,3,16,33,4
+Franc Rwandais	15023
+France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,29,15,290,59,274,116,44,38,19,3,16,33,4,153,33,32,110,226
 France Boyer	14792
 France Connect	7981
 France Câbles Radio	7421
@@ -258,6 +264,7 @@ Francesco Salustri	11271
 Franceville	2325,4493,2382
 Franceville The National Agency for Digital Infrastructures	6818
 Franceville. Comment	11110
+France’s DST	14932
 Franche-Comté	3465
 Franchement	7355,1699,1300,161
 Franchise Holdings Ltd	13040
@@ -271,6 +278,8 @@ Francine Kankindi	13530,1
 Francine Kianza	14666
 Francine NIYONGABO Jean Paul HARERIMANA Perpetue	13300
 Francine UMWALI Odeth MUKAMUDENGE Fausta UWABABYEYI	12445
+Francine UWANYIRIGIRA	15080
+Francine UWANYIRIGIRA Chief Finance Officer	15080
 Francis	1261,4088,2231,1022,2970,655
 Francis Anyansi	9766
 Francis Asanyo	9188
@@ -329,6 +338,7 @@ Franck Gamassa	11921
 Franck Gérard Kom	3335
 Franck KIE	2451
 Franck Kié	3112
+Franck M. Adoho	15024
 Franck Porte	14428
 Franck Simon Blehiri	10940
 Franck Yeo	2453,3363,758,17
@@ -404,6 +414,7 @@ Frank Grozel	6423
 Frank Hespeler	1828
 Frank Ikpefan	9960
 Frank Johnson Avenue	12515
+Frank Kajungu	15042
 Frank Macha	9452
 Frank Matsaert	6344
 Frank Mwiti	4978,3115
@@ -428,6 +439,7 @@ Frans Moyo	10148
 Fransiscus Nanga Roka Faculty of Law University	11692
 Frantz Fanon	4258
 Franz Drees-Gross	10180
+Franz Fanon University	15231
 Franz Gerner	11149
 Franz R. Drees-Gross Practice Manager	11549
 Franziska Bormann	5260
@@ -568,6 +580,7 @@ Mrs. Francess Piagie Alghali	7452
 Ms Lightness Pigiliano Ngiliule of St Francis	9014
 Ms. Francien Berry	14777
 Ms. Francine Inarukundo	5918
+Ms. Francine Uwanyiligira	15019
 Métolé Franck Kpassassi	6795
 N Expertise France AfDB N UNEP	13042
 NC Francis Baard Northdale Hospital	11986
@@ -585,6 +598,7 @@ Next Wave Afrique Francophone	3157
 Next Wave Francophone Africa	3157
 Notícias Francisco Carvalho	1265,3,468,6464
 Nziza Franck	7955
+Open Markets Committee FRW Rwandan Franc	15023
 Orange Centrafrique GM Max Francisco. Orange	1949
 Orange France	173
 Oyinsan and Francesco Andreoli	10165
@@ -608,9 +622,12 @@ Public Service Minister Faya François Bourounou	4116
 RAKOTOARIMANANA François Marie Maurice Gervais	14414
 REREC Project Manager Francis Mutua	14665
 Radio France Internationale. Distribué	4334
-Rwandan Franc	579,7864
+Rwanda Francs. Article	14867
+Rwandan Franc	579,7864,6580,115
+Rwandan Franc SADC Southern African Development	14997
 Rwandan Franc VAT	12445
-Rwandan Francs	718,11610
+Rwandan Franc. Geopolitical	15023
+Rwandan Francs	718,11610,2753
 Rwandan Francs SAIDI	12358
 Rwandan Francs SDGs	12338
 République Française	12427

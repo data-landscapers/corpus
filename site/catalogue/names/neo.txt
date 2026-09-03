@@ -1,12 +1,12 @@
 Accident Age Neonatal	12151
 Adverse Maternal and Neonatal Outcomes	13040
 BOP NEOs	13868
-ENMR Early Neonatal Mortality Rate GFR	12413
+ENMR Early Neonatal Mortality Rate GFR	12413,2643
 Facility Neonatal Mortality Rate	4153
 Hypoxia Kidney and Neonatal Sepsis	12151
 Infant Mortality Rate and Neonatal	12138
 Integrated Management of Neonatal and Childhood Illnesses	12976
-LNMR Late Neonatal Mortality Rate MAS2	12413
+LNMR Late Neonatal Mortality Rate MAS2	12413,2643
 Leading CauseS of Registered Deaths for Neonates	12151
 MORTALIDADE NEONATAL E INFANTIL	10777
 Mortalidade Neo Natal	11537
@@ -17,7 +17,7 @@ NEONATAL AND CHILD HEALTH SERVICES	14773
 NEOTREE	12240
 NEOs. DJIBOUTI	13868
 NMR Neonatal	12367
-NMR Neonatal Mortality Rate NSDS National	12413
+NMR Neonatal Mortality Rate NSDS National	12413,2643
 National Neonatal Intensive Care Unit	14742
 Neo Corneliah Sebolao	12327
 Neo Kolane The Internet Society	12709
@@ -32,16 +32,17 @@ NeoCloud	10164
 Neobanks	11994
 Neoma Africa Fund III	448
 Neoma Africa Fund III. Octotel	448
-Neonatal	10780,49,731,591,216,46,226,1394
+Neonatal	10780,49,731,591,216,46,226,1394,1023
 Neonatal Con-	12151
 Neonatal Condi-	12151
 Neonatal Deaths	12151
 Neonatal Deaths Neonatal	12151
 Neonatal Intensive Care Services	14773
 Neonatal Mortality	12151
-Neonatal Mortality Rate	4349,8018,46
+Neonatal Mortality Rate	4349,8018,46,2643
 Neonatal Screening Program	10188
 Neonatal Sepsis	12151
+Neonatal Tetanus	15247
 Neonates	12151
 Neonates In The Community Table	12151
 Neonatology	14773
@@ -54,3 +55,4 @@ TFR GFR CBR CDR Neonatal Infant	12413
 Tétano Neonatal	10777
 Udio. Neon Music	9739
 Year Neonatal	10829
+Year TFR GFR CBR CDR Neonatal	15056

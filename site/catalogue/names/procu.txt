@@ -17,7 +17,7 @@ Alefa Chimanenni Procurement Teacher	13392
 Alerts Regulatory Procurement Loading	9429
 Alignment of ICT Procurement	10157
 Alternate Procurement Arrangements	1284,9545,135,891,1476,1
-Alternative Procurement Arrangements	1867,1022,673,42,7164,649,143,345
+Alternative Procurement Arrangements	1867,1022,673,42,7164,649,143,345,3032,201
 Analysis of Procurement	11262
 Angola Procura de Planeamento Familiar	10760
 Angolan Public Procurement Annual Report	9399
@@ -53,12 +53,15 @@ Bank. Procurement	11417
 Bank’s Procurement Policy	13938
 Based Education and Training CPBN Central Procurement	12923
 Below Procurement Technique	13621
+Bidders for Procurement and Implementation	15080
 Bridget Mbewe Procurement Teacher	13392
 Broadcasting Procurement Spend	11211
 Budgets and Procurement Plans	11401
 Bureau of Public Procurement	10063,94,153,371,1314,313
 Bureau of Public Procurement Central Bank of Nigeria	10157
 Burundi Public Procurement Regulatory Authority	1284
+Business Analyst and Procurement Specialist	15019
+Business Plan and Procurement Plan for FY	15023
 C. Procurement	1284
 CHAPTER NINE PROCUREMENT	6946
 COMMANDING OR PROCURING TO COMMIT OFFENCE	11190
@@ -103,6 +106,8 @@ Directorate of Public Procurement	10829
 Discrimination Public Procurement Procedures Access	10759
 Draft ESCP. Draft Procurement Plan. Draft	1778
 Draft National Data Policy for Madagascar PROCUREMENT	14486
+E- Procurement Reference	14996
+E-Government Procurement	14897
 E-Government Procurement Manager	13127
 E. Procurement	2989
 EFU Procurement	12700
@@ -116,6 +121,7 @@ Electronic Procurement System	3284,8583
 Eliot Kalinda Procurement Specialist	13392
 Emerging Public Procurement and Technologies-specific	7548
 Energy Independent Power Procurement Programme RFP	11228
+Energy Technology RPPA Rwanda Public Procurement	14947
 Engineering Procurement	11131
 Engineering Procurement and Construction	14479
 English Procurement Method	9892,1
@@ -148,6 +154,7 @@ Global Procurement Initiative	12937
 Governance Revenue Management of Procurement of Service	3051
 Government EGP Electronic Government Procurement EMIS	12917
 Government Procurement	1284,105,1662,8499,626,330
+Government Procurement Administration	14897
 Government Procurement Agreement	13985
 Government Procurement Media Center IFMIS News	12322
 Government Procurement Opportunities	2775,9547,2224
@@ -224,6 +231,7 @@ Ministry Procurement Committee	13392
 Ministry of Education and Training Procurement Unit EFU	12700
 Ministry of Public Procurement	10964
 Mozambique Procurement	11619
+Mpox Pandemic Procurement of Monkeypox Kits	15052
 N.A. Overall Project Procurement Risk	13017
 NAME AND CONTACT ADDRESSES OF PROCURING	1638
 NGO Nongovernmental Organization NPF New Procurement	11525
@@ -275,7 +283,7 @@ PPSD Project Procurement Strategy for Development PrDO	6539
 PPSD and Procurement Plan	3604,7921
 PPSD. The Procurement Plan	6539
 PRA Project Procurement Strategy for Development SBD	10964
-PROCUREMENT	1867,10533
+PROCUREMENT	1867,10533,2680
 PROCUREMENT AND DISPOSAL OF ICT EQUIPMENT	34
 PROCUREMENT AND FINANCIAL STATEMENTS	6946
 PROCUREMENT AND SUPPORT SERVICES	14773
@@ -310,6 +318,7 @@ Preferential Procurement Policy Framework Act	11240,12,321
 Preferential Procurement Policy Framework Act Regulations	11986
 Preferential Procurement Regulations	11240
 Press Notice E- Procurement Ref	14763
+Press Notice Procurement Ref	14996
 Prior Review Procurement Methods Thresholds	11855
 Private Partnership PPSD Project Procurement Strategy	1264
 Private Procurement	1818
@@ -331,7 +340,7 @@ Procuradoria Geral da República. A Polícia Nacional	10751
 Procuradoria-Geral da República	4146,1126,1547,3933,700,88,1258,1514
 Procurar Aconselhamento	10777
 Procurar Ajuda	10777
-Procure	1264,724,8476,669,167,686,267,69,2468
+Procure	1264,724,8476,669,167,686,267,69,2468,532
 Procure Aligned Services	11995
 Procure Check	11240
 Procure Electronic	1988
@@ -342,11 +351,12 @@ Procured	1988,7411,1151,306,14
 Procurem	13938
 Procureme	13938
 Procuremen	6432
-Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341,74,17,27,1,9,4,5,10,15,9,3,20,5,80,63,129,17,1,25,35,28,39,68,79,55,277,72,70,105,39,232,109,56,53,55,7,2,8,4,2,31,19,28
+Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341,74,17,27,1,9,4,5,10,15,9,3,20,5,80,63,129,17,1,25,35,28,39,68,79,55,277,72,70,105,39,232,109,56,53,55,7,2,8,4,2,31,19,28,28,9,21,46,31,54,9,3,49,10,48,26,26,152
 Procurement A1-Local AI	7548
 Procurement AI	4126
 Procurement Act	12961,1789
 Procurement Action Plan	11905
+Procurement Agent	15183
 Procurement Applicable Procurement Regulations	11525
 Procurement Approaches and Methods A. Goods	13017
 Procurement Arrangement and Value for Money	11525
@@ -374,26 +384,30 @@ Procurement Framework Plan	10964
 Procurement General Directorate	969
 Procurement Government	14752
 Procurement Guidelines	1161
+Procurement IDA International Development Association E-LS	14897
 Procurement Integrity and Transparency Action Plan	11469
 Procurement Integrity and Transparency Action Plan S	11469
 Procurement Last	11832
 Procurement Law	10829
 Procurement Law. Emergency	10829
 Procurement Lifecycle	11231
+Procurement MS	14971
 Procurement MS MS MS Monitoring and Evaluation	1284
 Procurement Management	13332,678
 Procurement Management Unit	13420
 Procurement Manual	10768,757,381
 Procurement Method	8166
 Procurement Method Rationale	13621
+Procurement Method Selection	15183
 Procurement Notice Request for Bids Purchaser	12700
 Procurement Notices	13618
-Procurement Officer	11750
+Procurement Officer	11750,3269
 Procurement Officer M&I Accountant Accountants MIS	13332
 Procurement Officers	9004
 Procurement Opportunities Electronically	12389
 Procurement Over	1988
 Procurement Oversight and Monitoring Arrangements	11525
+Procurement Overview	15028
 Procurement Page	10721
 Procurement Performance. The Project	13392
 Procurement Phase	230
@@ -402,7 +416,7 @@ Procurement Plan. Based	10829
 Procurement Plan. Such	11525
 Procurement Plan. The PPSD	1284
 Procurement Plan. The World Bank	1867
-Procurement Plans	1264,20,2320,7225
+Procurement Plans	1264,20,2320,7225,4309
 Procurement Policy	13938,286
 Procurement Policy Dialogue Framework	11867
 Procurement Policy Office	13031,1707,28,12,69
@@ -411,6 +425,7 @@ Procurement Policy Page	10721
 Procurement Policy Unit	13037
 Procurement Policy and Methodology for Bank Group Funded	11863
 Procurement Policy for Bank Group Funded Operations	8669
+Procurement Policy for ICT	15164
 Procurement Portal	12322
 Procurement Portal I-12	10785
 Procurement Prior Review Thresholds	11855
@@ -427,11 +442,11 @@ Procurement Ref No	13037
 Procurement Reference	13031,1747,17
 Procurement Reference Number	14763,15
 Procurement Regulation Authority	969
-Procurement Regulations	1264,603,1022,715,2299,2048,1652,1,1164,61,1026,50,60,735,134,183,168,147,195
+Procurement Regulations	1264,603,1022,715,2299,2048,1652,1,1164,61,1026,50,60,735,134,183,168,147,195,1385,168,58,5
 Procurement Regulations Findings The Fund	13420
 Procurement Regulations Page	10964
 Procurement Regulations for IPF	7951
-Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845,134,351,342
+Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845,134,351,342,1553,63
 Procurement Regulations. Annex	11855
 Procurement Regulations. Further	12834
 Procurement Regulations. The PIU	10829
@@ -440,7 +455,7 @@ Procurement Regulatory Authority	2889
 Procurement Regulatory Authority Zimbabwe	970
 Procurement Regulatory Authority and Parliament	970
 Procurement Regulatory Authority of Zimbabwe	2779,10641,84,87,94,610
-Procurement Related Complaint	13185
+Procurement Related Complaint	13185,1895
 Procurement Representative	12400
 Procurement Review of Digital Technologies B1.1Develop	14729
 Procurement Risk Analysis	11525
@@ -453,7 +468,7 @@ Procurement STEP Terms of Reference TOR United	11417
 Procurement STI Sexually Transmitted Infection TFP	10829
 Procurement SUW Scale-Up Window TA Technical	3604
 Procurement Section	14745
-Procurement Specialist	1228,1661,3650,4986,1175,317,41,274
+Procurement Specialist	1228,1661,3650,4986,1175,317,41,274,1687,171
 Procurement Specialist Ato Abebe Gebremedhin	12195
 Procurement Specialist GGOPF Page	11525
 Procurement Specialist W	12195
@@ -464,7 +479,7 @@ Procurement Strategy	12588,1,9
 Procurement Strategy for Development PS Permanent Secretary	13331
 Procurement Summary Country	13548
 Procurement Supply	10721
-Procurement System	1834,278,109,914,2314,184,2983,2169,346,1457,1,9,2152,13
+Procurement System	1834,278,109,914,2314,184,2983,2169,346,1457,1,9,2152,13,233
 Procurement TA Technical	11380
 Procurement TA Technical Assistance TC Technical	13331
 Procurement TA Technical Assistance TOR Terms	1264,5275
@@ -507,6 +522,7 @@ Procurement and Vendor Governance	6442
 Procurement for His Majesty’s Correctional Services- US	12962
 Procurement of Additional Reverse Osmosis Treatment	14830
 Procurement of Ambulances	13122
+Procurement of Assorted Medical Supplies	15052
 Procurement of Digital Technologies	14729,21
 Procurement of Hardware and Software	13042
 Procurement of ICT	5549,7468
@@ -519,16 +535,16 @@ Procurement of Studio Equipment	12982
 Procurement of Tools and Machinery Component	14080
 Procurement of Upgrade	12984
 Procurement-by	14750
-Procurement-related Complaint	13185
+Procurement-related Complaint	13185,1895
 Procurement. A Procurement	1284
-Procurement. Procurement	6539
+Procurement. Procurement	6539,8480
 Procurement. Procurement Plan	11525
 ProcurementHO7	12868
 Procurements	2989,10016
 Procureur	436,795,10701,1510,339,639,11
 Procureur du Faso	785
 Procureurs	8236,166
-Procuring	962,322,10969,2525
+Procuring	962,322,10969,2525,250
 Procuring Department	12693
 Procuring Entities	1638,9191
 Procuring Entity	1638,6349,4402
@@ -542,17 +558,19 @@ Procuring and Disposing Entities	13125,2
 ProcuringEntity	1638
 Procurou-se	11569
 Program Officer Procurement Governance Lead	12308
+Program Procurement	14935
 Project Implementation Manual PP Procurement Plan	10768
+Project Implementation Unit PPSD Project Procurement	15138
 Project Implementation Unit PRAASED Project Procurement	11905
 Project Management MS Procurement MS Financial	13392
 Project Planning and Implementation of Public Procurement	6946
 Project Procurement	1284
 Project Procurement Procurement	11248
-Project Procurement Strategy for Development	1264,1625,100,615,2935,4290,135,453,108,330,50,60,1366
+Project Procurement Strategy for Development	1264,1625,100,615,2935,4290,135,453,108,330,50,60,1366,1807
 Project Procurement URL	13818
 Public Private Partnership PPPFA Preferential Procurement	11224
-Public Procurement	969,2954,2509,514,3211,1749,33,369,81,117,464,155,349
-Public Procurement Act	2364,3085,2246,150,771,2632,31,716,603,363,70,6,310,150,873,366,7,5,15,3,12,17,22,12
+Public Procurement	969,2954,2509,514,3211,1749,33,369,81,117,464,155,349,1384,11,96
+Public Procurement Act	2364,3085,2246,150,771,2632,31,716,603,363,70,6,310,150,873,366,7,5,15,3,12,17,22,12,167
 Public Procurement Act Government	7695
 Public Procurement Act. Ce	14841
 Public Procurement Act. Madam Speaker	14841
@@ -616,6 +634,7 @@ Risk Procurement Monitoring and Evaluation	2989
 SADC Pooled Procurement Center	4260
 SARS Commissioner and Zimbabwe Procurement Regulator	7055
 SCRO Finance and Registrar and Procurement Archival	12138
+SDID. Procurement	14966
 SIPOP Procurement Process	9134
 STEP. Procurement Plans	3604
 Secretary Procurement Committee	12693
@@ -635,9 +654,11 @@ Simplify Procurement	11995
 Single-Source Procurement	7695
 Special Procurement Commission	10964
 Specially Permitted Procurement Procedure	2512,3
-Specific Procurement Notice	7951,3574,1660
+Specific Procurement Notice	7951,3574,1660,1895,103
+Specific Procurement Notice LOT	15183
 Specific Procurement Notice SPN Unit for Management	11855
 Specific Procurement Notices	1867,9988
+Standard Procurement Document Summary	15080
 Standard Procurement Documents	1867,9658
 State Procurement Agency	5449
 State Procurement Portal	1284
@@ -662,11 +683,13 @@ Tundwe Choolwe Procurement Officer	13392
 Type of Procurement Activity Actions Required	13331
 UNDP OFFICE ZIMBABWE PROCUREMENT UNIT	13618
 USTDA's Global Procurement Initiative	12937
+Updated Procurement Plans	15138
 Venayen Procurement Specialist Monique Ndome Didiba	11924
 Vice President OOP Out-Of-Pocket PPU Procurement	12923
 Virtual Procurement Training Series	12937
 WHEREAS the Procurement Regulatory Authority of Zimbabwe	13591
 World Bank Fiduciary Management and Procurement	11905
+World Bank Procurement	15080
 World Bank Procurement Directives	11924
 World Bank Procurement Regulations	1284,2320,2935,4229,649,333,105
 World Bank Procurement Regulations for IPF	13332
@@ -680,7 +703,7 @@ World Bank’s New Procurement Framework	10964
 World Bank’s Procurement Bank Page	13331
 World Bank’s Procurement Guidelines	13331
 World Bank’s Procurement Regulations	1284,583,1737,7360,2367
-World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806
+World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806,1807
 World Bank’s Procurement Regulations. Procurement	13331
 World Bank’s Procurement Risk Assessment and Management	1264
 World Bank’s Standard Procurement Documents	11525

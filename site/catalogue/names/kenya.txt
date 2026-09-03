@@ -111,6 +111,7 @@ About KenGen Kenya Electricity Generating Company	1722
 About Kenya	14551
 About Kenya Bureau of Standards	14225
 About Kenya National Bureau of Statistics	2775
+About Kenya Value-Added Tax	14932
 Abroad Kenya Vital Statistics Report	12151
 Absa Bank Kenya	3011,610,1180,673,2567,107,475
 Absa Kenya Nominees Limited Data Controller	7167
@@ -149,7 +150,7 @@ Agricultural Research The Kenya Agricultural and Livestock	6554
 Agriculture Data Controller INST-458655D16E5 NAIROBI Kenya	7167
 Agriculture Kenya	7167
 Airport JKUAT Jomo Kenyatta University of Agriculture	2775
-Airtel Kenya	889,5336,184,354,1179,681,219,28,1,1,144
+Airtel Kenya	889,5336,184,354,1179,681,219,28,1,1,144,6319
 Airtel Kenya CEO	8870
 Airtel Kenya CEO Djibril Tobe	8870
 Airtel Kenya and Telkom Kenya	8753
@@ -268,6 +269,8 @@ Biometric Update Kenya	2447,426,52,378,1328,1643,377,172,43
 Biometric Update Kenyan	5493
 Birth Registration Kenya	12151
 Bizna Kenya	6783
+Blockchain Association of Kenya	14932
+Blockchain Association of Kenya Drags Government	14932
 Bloggers Association of Kenya	8095,987
 Board of Governors. KENYA	12138
 Board of Kenya ECDE Early Childhood Development	2775
@@ -368,6 +371,7 @@ CLOUDPLEXO KENYA LIMITED Data Controller INST-399214E7E80	7167
 CLOUDTIMES KENYA LIMITED Data Controller INST-689092D0328	7167
 CLOUDTIMES KENYA LIMITED Data Processor INST-689092D0328	7167
 CMA CGM KENYA LIMITED Data Controller	7167
+CMA Kenya	14997
 CO Data Controller INST-5166270477F NAIROBI Kenya	7167
 CO Data Processor INST-5166270477F NAIROBI Kenya	7167
 CO. Data Processor INST-61192596761 NAIROBI Kenya	7167
@@ -424,6 +428,7 @@ CRVS KenyaSnapshot e.pdf CENTRE OF EXCELLENCE LE CENTRE	12138
 CRYSTAL KENYA LIMITED Data Controller INST-640115FCB16	7167
 CUNNINGHAM LINDSEY KENYA LIMITED Data Processor	7167
 CafeOne Why Kenya	2277,16,17,19,88,121,14,210,64,180,5,1,53,46,22,18,62,165,92,110,41,104,2,10,192,13,22,81,146,133,99,138,41,199,33,154,66,1,29,288,91,11,232,37,126,11,34,225,389,55,265,123,135,177,1,98
+Calculation Kenya	14897
 Camfed Kenya Data Controller INST-2507074914D NAIROBI	7167
 Can Kenya	10246
 Canada and Kenya	8040
@@ -437,7 +442,8 @@ Case of Kenya and Tanzania	10718
 Case of Kenya's Refugee Law	12227
 Case of Kenya. Paper	899
 Case of Urban Kenya	12297
-Central Bank of Kenya	1349,131,503,792,463,865,502,767,318,16,525,556,184,577,59,191,36,108,42,231,46,442,11,597,1002,151,274,84,967,159,46,156,77,4,25,30,11,25,2127,97
+Case-study Kenya	15164
+Central Bank of Kenya	1349,131,503,792,463,865,502,767,318,16,525,556,184,577,59,191,36,108,42,231,46,442,11,597,1002,151,274,84,967,159,46,156,77,4,25,30,11,25,2127,97,451
 Central Bank of Kenya Act	12286
 Central Bank of Kenya Agency Agreement	14546
 Central Bank of Kenya Annual Report	1349
@@ -483,7 +489,7 @@ Communication Authority of Kenya	12170,57
 Communication Authority of Kenya and Register of Companies	6394
 Communication Commission of Kenya	14460
 Communications Authority Kenya	6946
-Communications Authority of Kenya	2677,948,249,109,621,737,582,210,494,44,62,12,18,24,38,5,34,82,158,100,190,154,3,56,26,76,233,15,93,517,1,2,272,29,1,212,105,21,125,1,307,93,2,112,800,172,263,745,1,273,45,102,11,2259,74,36,70
+Communications Authority of Kenya	2677,948,249,109,621,737,582,210,494,44,62,12,18,24,38,5,34,82,158,100,190,154,3,56,26,76,233,15,93,517,1,2,272,29,1,212,105,21,125,1,307,93,2,112,800,172,263,745,1,273,45,102,11,2259,74,36,70,560,74
 Communications Authority of Kenya Figure	6946
 Communications Authority of Kenya Financial Statements	6946
 Communications Authority of Kenya Identity Module	6946
@@ -497,7 +503,9 @@ Community Health Promoters. Kenya	14182
 Competition Authority of Kenya	5923,1015,3375,509
 Competition Authority of Kenya Commission	12210
 Competitive Ecosystem Kenya	7548
+Complying Kenya	14932
 Conclusion Kenya	12297
+Conclusion and Recommendations Kenya	14932
 Conditions Kenya Vital Statistics Report	12151
 Confirm the Kenyan	12302
 Consolidated Bank of Kenya	6946
@@ -788,6 +796,7 @@ Controller INST-9783039AF2D KILIFI Kenya	7167
 Controller INST-9784285A567 NYERI Kenya	7167
 Controller INST-979610F1FA6 NAIROBI Kenya Renewed	7167
 Controller INST-9857503D92D NAIROBI Kenya	7167
+Cooperation Agency KIEP Kenya Industry and Entrepreneurship	14897
 Cooperation Framework. The Government of Kenya	4154
 Coordinate Kenya	7548
 Coordination Centre KEMSA Kenya Medical Supplies	6946
@@ -1148,9 +1157,11 @@ Digitization and Automation of Government Services The Kenya	6133
 Director General for Kenya National Bureau for Statistics	14523
 Diseases Kenya Vital Statistics Report	12151
 Distributors GoTV Kenya	6946
+Djibouti Kenya Zimbabwe Zambia Tanzania Comoros	14896
 Djibouti and Kenya	12233
 Doctors Year U.S. Government Kenya	4153
 Does Kenya's New Refugee Act	12227
+Domain Somalia Kenya Uganda Rwanda Emerging	15164
 Dr. Mekdes Daba. Kenya	14182
 Draft Kenya AI	10246
 Draft Kenya Artificial Intelligence	9937,4727
@@ -1200,6 +1211,7 @@ Editors Guild Marketing Society of Kenya	12210
 Education KDB Kenya Dairy Board KDC	2775
 Education Kenya Compact	899
 Education Service Kenya Data Controller INST-726107A1B33	7167
+Egypt Eritrea Ethiopia Kenya Rwanda S	14897
 Egypt Ethiopia Ghana Kenya Nigeria Senegal	11004
 Egypt Ethiopia Kenya Nigeria Rwanda Senegal	11964
 Egypt Nigeria Uganda Kenya Morocco Tunisia	4972
@@ -1228,6 +1240,7 @@ Engineers Board of Kenya	10313
 Ensure Data Security Kenya	12143
 Entity No. of Un-Utilized Services Kenya Forest	14546
 Environmental and Sustainability Risks Kenya	7548
+Equal Kenya	14932
 Equity Bank Kenya	8937,1
 Equity Bank Kenya and KCB Bank Kenya	8937,1,141
 Establish Kenya AI	7548
@@ -1236,6 +1249,7 @@ Establish Kenya AI National AI Safety	7548
 Establish Kenya AI and Sustained	7548
 Establish the Kenya AI National AI	7548
 Establish the Kenya AI Safety Institute	7548
+Ethiopia Djibouti Kenya Uganda South Sudan	14896
 Ethiopia Honduras Kenya Cambodia Liberia Madagascar	11572
 Ethiopia Kenya Uganda Gabon Liberia Zambia	11002
 Ethiopia and Kenya	2518,3714,3404,2597
@@ -1245,6 +1259,7 @@ Even Kenyan	12227
 Even Kenya’s.ke	4690
 Example. The Kenya Social Security Agency	14524
 Excellency Kenya's President Dr. William	4165
+Excise Tax In Kenya	14932
 Executive Summary Kenya's Artificial Intelligence	12210
 Existing Government of Kenya Funding	4153
 Existing Kenyan	8180
@@ -1255,7 +1270,7 @@ FIDA Kenya and Others	13040
 FKE Federation of Kenya Employers FSD Financial	7548
 FOREWORD As Kenya	6432
 FOUNDATION KENYA	7167
-FSD Kenya	7548,4446,233,70
+FSD Kenya	7548,4446,233,70,2700
 FSD Kenya Blog. Nairobi	12297
 FSD Kenya FinAccess Household Survey Report	7548
 FSD Kenya. Published	12297
@@ -1349,7 +1364,7 @@ Healthcare Data Processor INST-6029251E5C0 SIAYA Kenya	7167
 Heifer International Kenya	8374
 Heifer International Kenya Mastercard	8374
 Henna Virkkunen. Kenya	6650
-High Court of Kenya	9856,457,509,1317,901,1382,27
+High Court of Kenya	9856,457,509,1317,901,1382,27,483,403
 High Court of Kenya.12 Data	12139
 High Court of Kenya.78	12227
 Huawei Kenya	4592
@@ -2381,6 +2396,7 @@ Institute of Certified Public Secretaries of Kenya	11464,2946
 Institute of Certified Secretaries of Kenya	6946,7503
 Institutional Framework Kenya	7548
 Integrate A- Kenya's AI	7548
+Intellectual Property Kenya ICT Action Network	14932
 International Commission of Jurists Kenya Section	12227
 International Kenya School of Government	7548
 International Rescue Committee KBA Kenya Bankers	12297
@@ -2410,6 +2426,7 @@ Jomo Kenyatta International Airport	2775,2632,676
 Jomo Kenyatta University of Agriculture and Technology	6946,2390,1017,995
 Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan	11765
 Joseph Kibwot MD- Paratus Kenya	14508
+Journey of The First Kenyan	15164
 Juba. Kenyan	7507
 Judiciary of Kenya	9546
 July. Kenya	11071
@@ -2455,6 +2472,7 @@ KENYA Findings	899
 KENYA Goal Definition Workstreams	899
 KENYA HOUSING SURVEY FACT SHEET Mobile	12251
 KENYA HOUSING SURVEY Mobile Phone Ownership	12251
+KENYA INFORMATION AND COMMUNICATION REGULATIONS	15261
 KENYA INFORMATION AND COMMUNICATIONS ACT	9335
 KENYA Kenya Institute for Curriculum Development	899
 KENYA Key	12232
@@ -2520,7 +2538,7 @@ KWALE Kenya Renewed	7167
 KWh Kilo Watt Hour KWS Kenya	2775
 Kakuma Kalobeyei Challenge Fund K-LSRH Kenya	12297
 Karim Yaici. Kenya	6732
-Kenya	18,15,3,4,22,31,1,2,24,25,2,7,22,15,4,3,3,35,6,7,5,9,31,3,58,9,25,10,3,1,8,4,39,7,35,1,13,4,1,56,13,8,2,1,17,9,1,1,1,25,2,3,1,18,2,8,1,17,13,3,2,5,1,72,13,1,4,5,1,10,30,1,24,1,4,8,10,4,4,11,2,1,3,8,2,3,1,1,12,24,5,11,12,6,19,4,6,6,1,19,2,14,29,4,1,3,4,4,4,23,2,8,23,21,3,24,2,104,5,8,1,52,4,17,13,1,15,1,14,29,6,4,28,7,69,7,8,1,9,47,9,8,8,1,1,4,20,1,58,9,1,5,4,32,67,6,48,2,1,5,12,27,1,75,2,15,16,3,27,10,14,37,24,31,14,3,6,9,13,11,4,3,36,29,16,5,8,11,1,13,23,31,2,1,51,18,20,3,5,53,9,1,4,20,7,23,30,13,39,25,11,17,1,5,52,13,8,11,27,12,2,7,6,4,6,36,8,38,8,21,46,39,5,16,18,44,3,41,21,13,13,2,12,8,4,53,18,33,1,4,7,8,3,10,5,2,5,9,1,7,1,12,1,1,6,13,2,2,4,12,90,1,9,1,22,14,8,57,6,14,8,6,1,1,3,8,11,1,3,38,25,8,3,2,6,4,98,2,10,20,9,1,5,18,2,1,1,10,1,50,43,109,15,41,2,1,6,7,3,1,2,22,3,50,8,9,16,8,22,7,2,12,1,6,1,19,9,28,6,2,3,43,12,18,1,6,7,2,8,20,5,24,14,3,6,17,18,1,6,6,11,4,1,6,10,30,1,5,8,6,12,3,21,19,12,14,1,17,7,11,13,2,4,10,10,8,18,2,1,2,35,1,1,10,2,4,16,2,2,1,3,5,8,12,26,6,22,4,7,31,1,3,1,3,1,13,48,1,5,17,5,2,11,19,5,31,7,1,4,9,34,17,2,13,42,12,12,2,6,2,6,2,6,5,5,21,6,22,1,27,8,1,2,16,2,17,8,28,31,4,1,1,1,1,9,7,11,16,28,8,13,7,28,5,9,26,19,13,1,19,17,10,1,4,6,7,10,10,4,10,1,1,1,10,6,1,9,7,10,3,5,1,7,16,9,9,8,15,1,1,11,24,1,8,8,8,1,2,5,4,2,2,1,16,5,1,35,4,1,16,4,14,6,4,2,1,1,1,7,6,4,4,12,8,10,1,8,2,4,1,5,10,24,8,2,8,5,1,16,2,2,19,9,6,3,2,4,1,2,7,1,7,1,2,1,9,10,4,4,10,14,1,2,1,1,4,3,4,4,1,15,2,1,4,2,2,14,2,14,2,10,16,2,38,3,2,1,8,2,2,2,11,8,25,4,12,20,2,14,21,4,1,19,5,4,2,20,7,4,3,1,1,5,6,5,11,8,2,10,13,4,7,18,4,22,5,5,18,8,18,26,59,12,1,28,5,1,19,20,1,18,8,2,14,16,6,2,1,1,1,1,16,4,6,11,16,3,1,1,1,8,1,12,2,4,8,33,29,1,1,2,1,3,31,4,36,7,5,12,6,9,6,1,2,2,31,19,35,1,7,10,3,8,12,22,1,1,3,12,7,13,4,1,7,8,4,5,23,15,2,1,1,1,1,1,1,15,15,5,12,7,1,29,2,24,3,4,1,1,1,1,1,29,14,4,9,1,26,22,4,5,2,7,1,32,2,6,1,3,40,17,21,15,6,5,5,20,11,2,18,4,2,15,1,1,1,53,1,36,43,7,4,11,3,19,6,2,9,12,6,7,3,34,11,5,1,9,5,13,1,1,20,6,36,4,10,41,6,2,9,19,1,9,25,1,1,1,16,4,1,1,51,10,2,7,14,1,3,15,1,14,6,1,29,3,21,48,22,2,1,13,50,32,26,26,4,26,32,1,28,19,16,1,1,5,4,12,1,1,1,8,2,2,1,21,21,17,14,15,1,1,15,3,1,1,23,7,13,5,9,15,19,2,1,1,1,1,1,1,1,10,12,42,2,13,1,2,1,3,12,5,8,28,28,6,1,9,1,1,21,9,2,2,1,22,12,10,25,8,29,19,6,3,5,1,5,5,7,1,10,14,1,14,5,3,29,1,6,11,5,3,50,11,16,31,5,3,5,3,2,17,40,4,9,3,2,1,15,31,1,1,11,3,9,7,2,12,2,1,5,1,9,3,9,5,1,15,31,1,8,4,1,1,2,3,3,1,21,4,1,11,10,9,2,2,3,4,14,3,13,3,3,5,2,8,25,6,45,8,2,8,2,2,10,4,9,27,1,1,5,6,1,15,10,7,7,14,4,9,1,1,16,13,4,8,8,1,2,2,3,6,6,8,1,1,1,3,26,7,45,21,31,11,14,21,7,48,17,47,5,28,3,4,1,4,1,35,18,9,6,7,13,11,53,13,17,35,13,34,3,6,9,15,3,9,2,6,1,2,4,2,19,2,13,3,6,4,3,1,2,13,1,9,5,5,2,5,18,13,4,26,4,23,67,16,4,1,33,1,4,6,1,1,1,1,1,1,5,3,1,1,5,19,2,1,4,5,2,5,1,1,4,7,6,4,1,1,2,2,2,3,4,3,2,4,1,6,1,2,3,10,2,5,1,1,2,1,3,4,3,1,1,1,2,5,2,2,4,5,3,7,4,2,2,11,1,9,14,9,28,2,12,1,5,2,9,16,28,12,3,172,207,55,33,2,68,82,132,9,16,33,1,1,27,29,18,2,24,26,2,1,18,102,26,35,57,32,27,7,67,53,8,8,53,8,37,10,12,19,17,40,19,13,29,17,1,24,7,6,35,21,22,5,19,8,19,10,37,18,4,3,11,3,5,7,12,1,14,5,7,3,7,5,2,7,2,6,10,4,1,3,11,2,1,3,5,13,2,3,4,6,2,4,5,22,5,1,1,4,10,4,2,1,9,1,8,2,3,10,8,1,3,1,3,3,27,3
+Kenya	18,15,3,4,22,31,1,2,24,25,2,7,22,15,4,3,3,35,6,7,5,9,31,3,58,9,25,10,3,1,8,4,39,7,35,1,13,4,1,56,13,8,2,1,17,9,1,1,1,25,2,3,1,18,2,8,1,17,13,3,2,5,1,72,13,1,4,5,1,10,30,1,24,1,4,8,10,4,4,11,2,1,3,8,2,3,1,1,12,24,5,11,12,6,19,4,6,6,1,19,2,14,29,4,1,3,4,4,4,23,2,8,23,21,3,24,2,104,5,8,1,52,4,17,13,1,15,1,14,29,6,4,28,7,69,7,8,1,9,47,9,8,8,1,1,4,20,1,58,9,1,5,4,32,67,6,48,2,1,5,12,27,1,75,2,15,16,3,27,10,14,37,24,31,14,3,6,9,13,11,4,3,36,29,16,5,8,11,1,13,23,31,2,1,51,18,20,3,5,53,9,1,4,20,7,23,30,13,39,25,11,17,1,5,52,13,8,11,27,12,2,7,6,4,6,36,8,38,8,21,46,39,5,16,18,44,3,41,21,13,13,2,12,8,4,53,18,33,1,4,7,8,3,10,5,2,5,9,1,7,1,12,1,1,6,13,2,2,4,12,90,1,9,1,22,14,8,57,6,14,8,6,1,1,3,8,11,1,3,38,25,8,3,2,6,4,98,2,10,20,9,1,5,18,2,1,1,10,1,50,43,109,15,41,2,1,6,7,3,1,2,22,3,50,8,9,16,8,22,7,2,12,1,6,1,19,9,28,6,2,3,43,12,18,1,6,7,2,8,20,5,24,14,3,6,17,18,1,6,6,11,4,1,6,10,30,1,5,8,6,12,3,21,19,12,14,1,17,7,11,13,2,4,10,10,8,18,2,1,2,35,1,1,10,2,4,16,2,2,1,3,5,8,12,26,6,22,4,7,31,1,3,1,3,1,13,48,1,5,17,5,2,11,19,5,31,7,1,4,9,34,17,2,13,42,12,12,2,6,2,6,2,6,5,5,21,6,22,1,27,8,1,2,16,2,17,8,28,31,4,1,1,1,1,9,7,11,16,28,8,13,7,28,5,9,26,19,13,1,19,17,10,1,4,6,7,10,10,4,10,1,1,1,10,6,1,9,7,10,3,5,1,7,16,9,9,8,15,1,1,11,24,1,8,8,8,1,2,5,4,2,2,1,16,5,1,35,4,1,16,4,14,6,4,2,1,1,1,7,6,4,4,12,8,10,1,8,2,4,1,5,10,24,8,2,8,5,1,16,2,2,19,9,6,3,2,4,1,2,7,1,7,1,2,1,9,10,4,4,10,14,1,2,1,1,4,3,4,4,1,15,2,1,4,2,2,14,2,14,2,10,16,2,38,3,2,1,8,2,2,2,11,8,25,4,12,20,2,14,21,4,1,19,5,4,2,20,7,4,3,1,1,5,6,5,11,8,2,10,13,4,7,18,4,22,5,5,18,8,18,26,59,12,1,28,5,1,19,20,1,18,8,2,14,16,6,2,1,1,1,1,16,4,6,11,16,3,1,1,1,8,1,12,2,4,8,33,29,1,1,2,1,3,31,4,36,7,5,12,6,9,6,1,2,2,31,19,35,1,7,10,3,8,12,22,1,1,3,12,7,13,4,1,7,8,4,5,23,15,2,1,1,1,1,1,1,15,15,5,12,7,1,29,2,24,3,4,1,1,1,1,1,29,14,4,9,1,26,22,4,5,2,7,1,32,2,6,1,3,40,17,21,15,6,5,5,20,11,2,18,4,2,15,1,1,1,53,1,36,43,7,4,11,3,19,6,2,9,12,6,7,3,34,11,5,1,9,5,13,1,1,20,6,36,4,10,41,6,2,9,19,1,9,25,1,1,1,16,4,1,1,51,10,2,7,14,1,3,15,1,14,6,1,29,3,21,48,22,2,1,13,50,32,26,26,4,26,32,1,28,19,16,1,1,5,4,12,1,1,1,8,2,2,1,21,21,17,14,15,1,1,15,3,1,1,23,7,13,5,9,15,19,2,1,1,1,1,1,1,1,10,12,42,2,13,1,2,1,3,12,5,8,28,28,6,1,9,1,1,21,9,2,2,1,22,12,10,25,8,29,19,6,3,5,1,5,5,7,1,10,14,1,14,5,3,29,1,6,11,5,3,50,11,16,31,5,3,5,3,2,17,40,4,9,3,2,1,15,31,1,1,11,3,9,7,2,12,2,1,5,1,9,3,9,5,1,15,31,1,8,4,1,1,2,3,3,1,21,4,1,11,10,9,2,2,3,4,14,3,13,3,3,5,2,8,25,6,45,8,2,8,2,2,10,4,9,27,1,1,5,6,1,15,10,7,7,14,4,9,1,1,16,13,4,8,8,1,2,2,3,6,6,8,1,1,1,3,26,7,45,21,31,11,14,21,7,48,17,47,5,28,3,4,1,4,1,35,18,9,6,7,13,11,53,13,17,35,13,34,3,6,9,15,3,9,2,6,1,2,4,2,19,2,13,3,6,4,3,1,2,13,1,9,5,5,2,5,18,13,4,26,4,23,67,16,4,1,33,1,4,6,1,1,1,1,1,1,5,3,1,1,5,19,2,1,4,5,2,5,1,1,4,7,6,4,1,1,2,2,2,3,4,3,2,4,1,6,1,2,3,10,2,5,1,1,2,1,3,4,3,1,1,1,2,5,2,2,4,5,3,7,4,2,2,11,1,9,14,9,28,2,12,1,5,2,9,16,28,12,3,172,207,55,33,2,68,82,132,9,16,33,1,1,27,29,18,2,24,26,2,1,18,102,26,35,57,32,27,7,67,53,8,8,53,8,37,10,12,19,17,40,19,13,29,17,1,24,7,6,35,21,22,5,19,8,19,10,37,18,4,3,11,3,5,7,12,1,14,5,7,3,7,5,2,7,2,6,10,4,1,3,11,2,1,3,5,13,2,3,4,6,2,4,5,22,5,1,1,4,10,4,2,1,9,1,8,2,3,10,8,1,3,1,3,3,27,3,155,38,12,3,20,32,29,4,32,78,13,5,31,8,46,15,76,7,1,1,18,7,7
 Kenya ABOUT US The Kenya Space	1131
 Kenya AFGHS	5550
 Kenya AI	7548,4662
@@ -2572,6 +2590,7 @@ Kenya Artificial Intelligence Bill	6231
 Kenya Artificial Intelligence Readiness Assessment Report	10246
 Kenya Artificial Intelligence Strategy	5550,1998,2698
 Kenya As Digital Shift Accelerates URL	12262
+Kenya Association of Manufacturers	14932
 Kenya Association of Manufacturers CEO	9930
 Kenya Available	12285
 Kenya B	12210
@@ -2589,6 +2608,7 @@ Kenya Bodaboda Riders and Owners Association	10313
 Kenya Breaks Ground for Kikuyu Digital Hub	10668
 Kenya Briefs Parliament	5536
 Kenya Broadcasting Corporation	4583,1733,3332
+Kenya Budget Speech	14932
 Kenya Builds for East Nairobi	6791
 Kenya Bureau of Standards	7548,1216,1549,1836,61,2015,48,149,178,31
 Kenya Bureau of Standards. The CA	14701
@@ -2608,6 +2628,7 @@ Kenya Case Study	1923
 Kenya Certificate of Primary Education	2775,9452
 Kenya Certificate of Secondary Education	2775,9452
 Kenya Chartered Institute of Bankers	6946
+Kenya Charting Pathways	14932
 Kenya Chinese	10632
 Kenya Chinese Chamber of Commerce	10539
 Kenya Citizen and Foreign Nationals Management Service	14460
@@ -2621,14 +2642,17 @@ Kenya Cloud Policy	5793,639,88,1028,1691,2996,67
 Kenya Cloud Policy Guidelines	6432
 Kenya Cloud Policy. Valid Reasons	6432
 Kenya Coast National Polytechnic	1236
-Kenya Commercial Bank	10618,693,2002,909
+Kenya Commercial Bank	10618,693,2002,909,775
 Kenya Commercial Bank Burundi Limited	13390
 Kenya Commercial Bank Burundi Ltd	13314
 Kenya Commercial Bank KCPE Kenya Certificate	2775
+Kenya Commission for University Education	15164
+Kenya Communications Regulations	15261
 Kenya Compact Development and Final Report	12191
 Kenya Company Limited	6946
 Kenya Constitution	2515
 Kenya Consumer Protection Advisory Committee	5923
+Kenya Contacts	15302
 Kenya Cooperative Creameries Limited	12254
 Kenya Copyright Board	8568,2
 Kenya Copyright Board Central Bank of Kenya	12210
@@ -2676,7 +2700,7 @@ Kenya Deposit Insurance Corporation	6938
 Kenya Despite	12227
 Kenya Despite Kenya	12297
 Kenya Development Corporation KE-CIRT	2775
-Kenya Digital	12297
+Kenya Digital	12297,2635
 Kenya Digital Acceleration Project	3604,10921
 Kenya Digital Economy Acceleration	3015
 Kenya Digital Economy Acceleration Programme	8569
@@ -2703,7 +2727,8 @@ Kenya Editors’ Guild	6946
 Kenya Education	899,11252
 Kenya Education Cloud	899
 Kenya Education Management Information System	2925,9333,54,2166,23
-Kenya Education Network	899
+Kenya Education Network	899,14265
+Kenya Education Network Trust	15164
 Kenya Electricity Generating Company Limited	14422
 Kenya Electricity Generating Company PLC	1722
 Kenya Electricity Generating Company Plc	12256
@@ -2728,8 +2753,10 @@ Kenya FORM	2709
 Kenya FY	4153
 Kenya Fact Sheet	12191
 Kenya Farmers Association	14546
+Kenya Fault Govt	14932
 Kenya Film Classification Board	7957
 Kenya Finance Act	7786
+Kenya Finance Bill	14932
 Kenya Forest Service	6946
 Kenya Framework-aligned	7548
 Kenya Freedom	12227
@@ -2757,6 +2784,7 @@ Kenya Global Partnership for Education	899
 Kenya Google	1726
 Kenya Government	13440
 Kenya Growing	12227
+Kenya H.E. Bihi I. Egeh Minister	14987
 Kenya H.E. Henk Jan Bakker and IDLO	9546
 Kenya H2	10840
 Kenya HVDC	11016
@@ -2781,7 +2809,7 @@ Kenya Housing Survey Findings	2775
 Kenya Housing Survey. Communications Authority of Kenya	7548
 Kenya Housing and Real Estate Surveys Overview	2775
 Kenya Human Rights Commission	10330,492
-Kenya ICT Action Network	3162,196,900,3294,2096,209,3397,1347
+Kenya ICT Action Network	3162,196,900,3294,2096,209,3397,1347,331
 Kenya ICT Authority	1164,3373,7752
 Kenya ICT Authority Funding	12289
 Kenya ICT Authority Strengthens Risk Management	10586
@@ -2797,8 +2825,9 @@ Kenya Information	6946,602
 Kenya Information and Communication	2530,8120
 Kenya Information and Communication Act	12235,2192
 Kenya Information and Communication Act Cap	2530
-Kenya Information and Communications	2925,71,3950,2792,202,714,431,3350,160
-Kenya Information and Communications Act	2530,4416,601,1,3,2389,4691
+Kenya Information and Communication Regulations	15261,49
+Kenya Information and Communications	2925,71,3950,2792,202,714,431,3350,160,666
+Kenya Information and Communications Act	2530,4416,601,1,3,2389,4691,630
 Kenya Information and Governs	7548
 Kenya Insights	5045
 Kenya Institute	899,6047
@@ -2830,15 +2859,18 @@ Kenya Internet Exchange Point	7548,4689,46
 Kenya Internet Exchange Point KLRC Kenya	7548
 Kenya Internet Governance Forum	6950,2698,1046,1410,2360
 Kenya Internet and Communications Technology Action Network	6705
+Kenya Introduces Taxes	14932
 Kenya Investment Authority	7406
 Kenya Investment Emerging Tech A3-Number of Kenyan	7548
 Kenya Investment Single Window	14533
 Kenya Investments Authority	2775
 Kenya Irish Aid	11202
+Kenya Is Going Digital	14932
 Kenya Is Quite Stunning	12227
 Kenya Jabril Ibrahim Abdulle	10184
 Kenya Judiciary	6946
 Kenya Jun	6717
+Kenya Jurisdictions	14932
 Kenya K E N YA Nairobi	10822
 Kenya KEN Implementing	13082
 Kenya KES	6946,4056
@@ -3021,6 +3053,8 @@ Kenya Primary School Education Assessment	2775
 Kenya Primary School Heads Association	899
 Kenya Private	7548
 Kenya Private Sector Alliance	2423,11977
+Kenya Proposed Digital ServiceTax	14932
+Kenya Proposes Tax Changes	14932
 Kenya Quick Response Code Standard	11994
 Kenya RECIPIENT DETAILS	2709
 Kenya RMB	10618
@@ -3038,8 +3072,9 @@ Kenya Republic of Kenya	12512
 Kenya Request	5692
 Kenya Request. State	5692
 Kenya Revenue Auth	33
-Kenya Revenue Authority	33,1605,2875,288,883,822,1101,1342,487,628,249,1836,59,19,95,2022,56,15,12,49,39,31
+Kenya Revenue Authority	33,1605,2875,288,883,822,1101,1342,487,628,249,1836,59,19,95,2022,56,15,12,49,39,31,386
 Kenya Revenue Authority Act	10822,3593
+Kenya Revenue Authority Non-Fungible Tokens NFTs	14932
 Kenya Revenue Authority Related	12208
 Kenya Revenue Authority Welcome	12282
 Kenya Revenue Authority. Memorandum of Understanding	14476
@@ -3061,6 +3096,7 @@ Kenya School of Law	14460
 Kenya School of Law. Mr. Muhul	6946
 Kenya School of Monetary Studies	11131
 Kenya School of PPRA	7548
+Kenya School of Revenue Administration	15322
 Kenya Secretary Registration Statistics	12151
 Kenya Secures Ksh.15.3 Billion EU Boost	6554
 Kenya Seed Company Ltd	14546
@@ -3104,6 +3140,7 @@ Kenya Syntura	10796
 Kenya T	12232
 Kenya Table of Contents	12297
 Kenya Takes the Lead	4722
+Kenya Tax Plan Will Hurt Business	14932
 Kenya Taxation The South African Revenue	14674
 Kenya Tea Development Agency	12256
 Kenya Technology Prosperity Deal Could	6790
@@ -3113,7 +3150,7 @@ Kenya The Digital Literacy Programme	899
 Kenya The Ministry of Energy and Petroleum	12256
 Kenya The Star Haaland	3610
 Kenya Thigo	14334
-Kenya Times	2925,2568
+Kenya Times	2925,2568,9671
 Kenya Trade Network Agency	14546
 Kenya Treasury	2160
 Kenya Treasury CS John Mbadi and China	2160
@@ -3122,6 +3159,7 @@ Kenya URL	12138,22,67,4,58,8
 Kenya US	4883
 Kenya US Trade and Development Agency	1171
 Kenya USAID	96,54,1
+Kenya Uganda	15164
 Kenya Uganda Conclusion	10822
 Kenya Uganda Conclusion Contents Introduction	10822
 Kenya Uganda Conclusion ID	10822
@@ -3170,7 +3208,7 @@ Kenya and East Africa	6717,423
 Kenya and East Africa for MultiChoice Group	6946
 Kenya and Egypt	3859,1193,3800
 Kenya and Egypt. Algeria	7127
-Kenya and Ethiopia	3898,254,1948,1051,53,1510,908
+Kenya and Ethiopia	3898,254,1948,1051,53,1510,908,5257
 Kenya and Ethiopia. Safaricom	7204
 Kenya and Ethiopia. The Board	7204
 Kenya and Europe	6725
@@ -3222,7 +3260,7 @@ Kenya and UAE	14476
 Kenya and UK Review Cybersecurity Partnership	10587
 Kenya and UNDP Deepen Partnership	8094
 Kenya and US Business Community Deepen Cooperation	10805
-Kenya and Uganda	145,685,2753,262,2248,441,404,361,208,699,243,488,430,1170,226,59,1342,164,1166,130,221,589
+Kenya and Uganda	145,685,2753,262,2248,441,404,361,208,699,243,488,430,1170,226,59,1342,164,1166,130,221,589,463,267
 Kenya and Uganda. Africa Analysis	10537
 Kenya and Uganda. Copia	830
 Kenya and Uganda. Financing	211
@@ -3247,6 +3285,7 @@ Kenya's Agricultural Observatory Platform	7545
 Kenya's Ambassador	3867,11
 Kenya's AntuGrow	9929
 Kenya's Article	4154
+Kenya's Association	14897
 Kenya's Blue Economy	14615
 Kenya's Bold New Shirika Refugee Plan	12227
 Kenya's Bottom-up Economic Transformation Agenda	12210
@@ -3263,7 +3302,7 @@ Kenya's Communications Authority	3413,1170,2268,3546
 Kenya's Compute Access	7548
 Kenya's Controller of Budget	6588
 Kenya's Cooperation Framework and Data Sharing Agreement	5352
-Kenya's DPA	4583,2209
+Kenya's DPA	4583,2209,8445
 Kenya's Data Protection Act	4223,5515,2562,2,133,1999,90
 Kenya's Data Protection Act No	1742
 Kenya's Department for ICT and Digital Economy	6792
@@ -3323,6 +3362,8 @@ Kenya's Ministry of Information	6046,473,1031,3184
 Kenya's Movable Property Security Rights Act	12297
 Kenya's NGOs	12297
 Kenya's NOFBI	4907
+Kenya's NREN	15164
+Kenya's NREN-enabled	15164
 Kenya's NSE App	6938
 Kenya's Nairobi	3859
 Kenya's National AI Strategy	4890,2718,4602
@@ -3410,6 +3451,7 @@ Kenya. A Strategic Interest	14524
 Kenya. AWS	11946
 Kenya. About Fourth Generation Capital	9079
 Kenya. Alongside	8479
+Kenya. Although Kenyan	15164
 Kenya. Amazon's Project Kuiper	6745
 Kenya. Anchored	7548
 Kenya. Another	9738
@@ -3440,6 +3482,7 @@ Kenya. Ends	14654
 Kenya. Enterprises	3300
 Kenya. Eric Otu Beecham	12192
 Kenya. Every	14567
+Kenya. Evidence	15164
 Kenya. Executive	11994
 Kenya. Exploration	12256
 Kenya. Facility	707
@@ -3451,7 +3494,7 @@ Kenya. Following	12227
 Kenya. Fondation Botnar	12143
 Kenya. For Airtel	8872
 Kenya. Foreigners	12227
-Kenya. Further	14487
+Kenya. Further	14487,445
 Kenya. GSH and AKIBA	5743
 Kenya. GSMA	10819
 Kenya. Ghana. The AU	6520
@@ -3479,9 +3522,10 @@ Kenya. J Health Inf Dev Count	766
 Kenya. Journal of Strategic Management	7548
 Kenya. Just	11164
 Kenya. KEREA	12191
-Kenya. Kenya	9169,2991,50
+Kenya. Kenya	9169,2991,50,2722,232
 Kenya. Kenya Ministry of Energy and Petroleum	12192
 Kenya. Kenya Vital Statistics Report	12151
+Kenya. Kenyan	15164
 Kenya. Kenya’s Konza Technopolis Development Authority	10236
 Kenya. Kenya’s National AI Strategy	10246
 Kenya. Konza	1746
@@ -3514,6 +3558,7 @@ Kenya. Pesalink CEO Gituku Kirika. PAPSS	5201
 Kenya. Physicians	11505
 Kenya. Poa Internet	831
 Kenya. Preprint	11585
+Kenya. Presently	15119
 Kenya. President William Ruto	4796
 Kenya. Progress	10246
 Kenya. Provides	346
@@ -3576,14 +3621,16 @@ Kenya. Yet	12227
 Kenya.107 Insufficient	12227
 Kenya.11 The PBB	12143
 Kenya.14	12138
+Kenya.21	14897
 Kenya.267 Overall	3583
 Kenya.30	12227
 Kenya.pdf	592
 Kenya1	899,1876
+Kenya15	14897
 Kenya22	899
 KenyaEast AfricaEsther WaitituPeter NdengwaRead	4087
 KenyaRead	10635
-Kenyan	18,129,233,117,74,51,188,89,31,31,24,57,32,57,319,180,8,342,44,224,29,16,17,14,5,88,11,19,64,1,3,3,20,14,14,49,51,11,85,13,23,28,99,54,27,5,1,53,46,22,18,62,165,35,57,105,5,3,15,19,4,4,100,2,10,108,22,11,51,13,22,11,8,62,107,1,1,11,26,67,66,99,3,13,28,3,91,41,166,33,33,8,41,7,21,47,1,13,6,10,45,21,1,29,117,17,10,14,13,12,58,7,9,31,84,7,11,1,18,57,31,5,30,74,16,37,50,27,19,19,5,6,11,34,9,118,14,45,7,32,11,10,6,59,6,35,33,133,39,47,1,1,1,7,6,20,19,7,3,20,66,36,28,12,45,2,31,25,16,2,69,11,25,3,1,28,70,31,2,34,60,8,21,54,1,94,4,24,29,6,24,16,66,1,3,25,12,30,25,66,2,1,38,36,45,3,35,53,63,4,19,42,41,1,1,38,49,2,33,1,2,43,81,40,97,11,5,51,78,104,36,25,4,33,17,27,79,48,29,30,23,4,36,50,19,22,29,24,48,156,20,58,1,1,27,19,52,93,92,19,3,78,10,29,62,10,34,63,98,24,1,52,6,11,67,54,11,2,76,15,32,31,14,18,77,1,3,3,4,55,3,26,228,21,31,62,38,97,46,155,5,73,7,107,82,62,81,77,75,69,1,4,7,1,4,15,21,1,17,1,11,6,4,1,7,17,33,4,4,3,1,1,3,13,51,945,74,794,7,84,26,12,89,7,15,27,11,16,17,28,2,1,22,86,8,2,3,19,4
+Kenyan	18,129,233,117,74,51,188,89,31,31,24,57,32,57,319,180,8,342,44,224,29,16,17,14,5,88,11,19,64,1,3,3,20,14,14,49,51,11,85,13,23,28,99,54,27,5,1,53,46,22,18,62,165,35,57,105,5,3,15,19,4,4,100,2,10,108,22,11,51,13,22,11,8,62,107,1,1,11,26,67,66,99,3,13,28,3,91,41,166,33,33,8,41,7,21,47,1,13,6,10,45,21,1,29,117,17,10,14,13,12,58,7,9,31,84,7,11,1,18,57,31,5,30,74,16,37,50,27,19,19,5,6,11,34,9,118,14,45,7,32,11,10,6,59,6,35,33,133,39,47,1,1,1,7,6,20,19,7,3,20,66,36,28,12,45,2,31,25,16,2,69,11,25,3,1,28,70,31,2,34,60,8,21,54,1,94,4,24,29,6,24,16,66,1,3,25,12,30,25,66,2,1,38,36,45,3,35,53,63,4,19,42,41,1,1,38,49,2,33,1,2,43,81,40,97,11,5,51,78,104,36,25,4,33,17,27,79,48,29,30,23,4,36,50,19,22,29,24,48,156,20,58,1,1,27,19,52,93,92,19,3,78,10,29,62,10,34,63,98,24,1,52,6,11,67,54,11,2,76,15,32,31,14,18,77,1,3,3,4,55,3,26,228,21,31,62,38,97,46,155,5,73,7,107,82,62,81,77,75,69,1,4,7,1,4,15,21,1,17,1,11,6,4,1,7,17,33,4,4,3,1,1,3,13,51,945,74,794,7,84,26,12,89,7,15,27,11,16,17,28,2,1,22,86,8,2,3,19,4,264,65,26,141,164
 Kenyan AI	7548,4662,2454
 Kenyan AI Ecosystem	10246
 Kenyan AI and Awareness Initiative	7548
@@ -3603,6 +3650,7 @@ Kenyan Communications Authority	4604
 Kenyan Constitution	12210,92
 Kenyan Court	3583
 Kenyan Court Ruling	9399,5035
+Kenyan Creators Are Pushing Back	15328
 Kenyan DCs	3566
 Kenyan Data Protection Act	12302,2132
 Kenyan Department of Public Administration	12138
@@ -3618,6 +3666,7 @@ Kenyan ID	12227
 Kenyan ID Card	11994
 Kenyan IDs	6654,5573
 Kenyan INTERIOR AND THE SME Huduma	9399
+Kenyan Information Officer	15164
 Kenyan Insurance Sector Report	6938
 Kenyan Judiciary	9546
 Kenyan MPs	2873,3536
@@ -3633,6 +3682,7 @@ Kenyan President William Ruto's State Visit	6150
 Kenyan President William Samoei Ruto	6715
 Kenyan Prime Cabinet Secretary Musalia Mudavadi	5550
 Kenyan Prime Minister Raila Odinga	18
+Kenyan Public Universities	15164
 Kenyan Purple Tea	7073
 Kenyan Shill	4153
 Kenyan Shilling	2447,119,209,5668
@@ -3664,6 +3714,7 @@ Kenyan of Education. Given	899
 Kenyan-	7548
 Kenyan-German Business Day	8342
 Kenyan-based	263
+Kenyan-derived	14932
 Kenyan-developed AI	7548
 Kenyan-developed AI Licensing Mechanism A4-Value	7548
 Kenyan-developed MICDE	7548
@@ -3726,6 +3777,7 @@ Kenya’s Agricultural Observatory Platform	11140
 Kenya’s Ambassador	14182
 Kenya’s Artificial Intelligence Bill	5463
 Kenya’s Artificial Intelligence Strategy	6790
+Kenya’s Association of Kenya Insurers	14997
 Kenya’s Cabinet Secretary for Information	5964,826
 Kenya’s Capital Markets Authority	10653
 Kenya’s Central Bank	4911
@@ -3734,27 +3786,35 @@ Kenya’s Competency-Based Curriculum	899
 Kenya’s Competency-based Curriculum	899
 Kenya’s Computer Misuse and Cybercrime Act. Kennedy	8095
 Kenya’s Computer Misuse and Cybercrimes Act	8095
+Kenya’s Content Creators Reject Tax Proposals	14932
 Kenya’s DPA	6792
-Kenya’s Data Protection Act	2459,2625,158,121,1069,89,482,708
+Kenya’s DST	14932
+Kenya’s Data Protection Act	2459,2625,158,121,1069,89,482,708,7624
 Kenya’s Data Protection Act and Digital Health	6520
 Kenya’s Data Protection Commissioner	6410
 Kenya’s Department of Immigration	1726
 Kenya’s Deputy Ambassador	6946
+Kenya’s Digital	14932
 Kenya’s Digital ID Transition	11994
 Kenya’s Digital Superhighway	8382,2250,533
+Kenya’s Digital Tax	14932
+Kenya’s Digital Taxation Regime	14932
 Kenya’s Domain Name	6946
 Kenya’s Draft AI and Emerging Technologies Policy	9937
 Kenya’s Economic Outlook Remains Stable Amid	10822
 Kenya’s Faster Payments System	5124
+Kenya’s Finance Act	14932
+Kenya’s Finance Bill	14932
 Kenya’s First	1131
 Kenya’s GDP. Financial	8782
 Kenya’s Garissa County	2324
+Kenya’s Green Bonds	14997
 Kenya’s Health Secretary	6651
 Kenya’s High Court	5163,293,94
 Kenya’s Huduma Bill	10822
 Kenya’s Huduma Namba	5224,97
 Kenya’s Hunger Safety Net Program	10964
-Kenya’s ICT	6231
+Kenya’s ICT	6231,9030
 Kenya’s ICT Policy	899
 Kenya’s ID	2566,8106
 Kenya’s Incomes and Expenses Validation	10064
@@ -3789,6 +3849,9 @@ Kenya’s President	6161
 Kenya’s President William Ruto	3737
 Kenya’s Prime Cabinet Secretary and Cabinet Secretary	14230
 Kenya’s Principal Secretary	9938
+Kenya’s Proposed Excise Tax Duty	14932
+Kenya’s Proposed SEPT	14932
+Kenya’s Proposed WHT	14932
 Kenya’s Recognition of Prior Learning	11504
 Kenya’s Road	7869,53
 Kenya’s Special Envoy	10640,3694
@@ -3798,11 +3861,13 @@ Kenya’s Strategy	6946
 Kenya’s Sumac Microfinance Bank	11119
 Kenya’s Sun King and Senegal’s Wave	4972
 Kenya’s Taifa Care	14182
+Kenya’s Tax Increase	14932
 Kenya’s Technopolis Development Authority	10283
 Kenya’s Top Coffee Supplier After Rwanda	4942
 Kenya’s Tourism Cabinet Secretary and Tanzania’s Natural	14600
 Kenya’s Trade Minister Lee Kinyanjui	3737
 Kenya’s Unified Licensing Framework	6225
+Kenya’s VAT	14932
 Kenya’s Worldcoin	6055
 Kenya’s and Africa	8093
 Kenya’s. Taken	9311
@@ -3811,6 +3876,7 @@ Kibera. Kenya	6231
 Kigali Kenya	3245
 Kilo Tonnes KUC Kenya Utalii College	2775
 King Kenya	1137
+Knowledge Consulting Ltd KENET Kenya Education	15164
 Ksh130 Million Debt Pulse Kenya	9736
 LAIKIPIA Kenya	7167
 LAIKIPIA Kenya Renewed	7167
@@ -4033,6 +4099,7 @@ Microsoft's Kenya Country Manager	11777
 Microsoft-G42 Kenya	6266,144
 Million Kenyans	10822
 Million for Kenya	10822
+Mitchell Cotts Freight Kenya	15322
 Mn. In Kenya	6100
 Mn. Safaricom Kenya Performance Safaricom Group	6100
 Mobile Subscriptions Airtel Networks Kenya Limited	6946
@@ -4100,7 +4167,7 @@ News Why Kenya	3011,54,672,824,240,905,877,388
 Newsfeed Kenya and Rwanda	5372
 Next Financial Inclusion Frontier Kenya	12297
 Nigeria Egypt Ghana Rwanda Kenya South	11857
-Nigeria and Kenya	1363,1015,1278,411,1351,496,272,224,170,89,176,743,49,149,203,99,317,714,1200,105,716,3499
+Nigeria and Kenya	1363,1015,1278,411,1351,496,272,224,170,89,176,743,49,149,203,99,317,714,1200,105,716,3499,358
 Nigeria and Kenya. Facility	6565
 Nigeria and Kenya. In Kenya	7465
 Nigeria and Kenya. Several African	6708
@@ -4363,7 +4430,9 @@ Providers CA Communications Authority of Kenya Dare	6671
 Provisional Data for Telkom Kenya Limited Table	6671
 Public Accounts Committee. Kenya	5537
 Public-Private Push As Kenya	3890
+Pull Out of Kenya Over Proposed Taxes	14932
 Pulse Kenya News	9736
+Qimiao Fan Division Director Kenya	14987
 Quality of Vital Statistics In Kenya. Nairobi	12138
 Quarterly Variation Sold In Kenya Sold	6671
 Quénia Universidade Jomo Kenyatta	2816
@@ -4403,7 +4472,7 @@ Rep. Namibia Ghana Benin Kenya Togo	10819
 Repeals Kenya Nuclear Electricity Board Order	14422
 Report.pdf. Kenya News Agency	12227
 Republic Of Kenya Ministry Of Education	899
-Republic of Kenya	899,302,1476,1476,1,10,1,1624,124,1033,602,419,334,1554,391,67,403,103,3,984,1,331,13,76,4,724,485,170,41,219,74,465,25,42,35,13,22,54,64
+Republic of Kenya	899,302,1476,1476,1,10,1,1624,124,1033,602,419,334,1554,391,67,403,103,3,984,1,331,13,76,4,724,485,170,41,219,74,465,25,42,35,13,22,54,64,248,20,195,94
 Republic of Kenya Hon. Dr. William Samoei	14615
 Republic of Kenya In the High Court	14460
 Republic of Kenya Ministry of Health	10822
@@ -4438,6 +4507,7 @@ Rwanda and Kenya	5227,1463,18,1365,1813,2104,1324,310
 Rwanda and Kenya. Retail	12286
 Rwanda and Malawi. In Kenya	3217
 Rwanda. Kenya	6393
+Rwanda12 Kenya13 Tanzania14	14997
 SAMBURU Kenya	7167
 SARB Kenya Egypt Mauritius Cape Verde	6938
 SELF-REGISTRATION IN THE CLIENT REGISTRY Kenya	2709

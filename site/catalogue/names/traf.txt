@@ -28,6 +28,7 @@ COMGOV Traffic Carte	13341
 COMGOV Traffic Doter	13341
 Cardiopulmo- Road Traffic	12151
 Child Prostitution and Trafficking. The DIC	14742
+Combat Human Trafficking	14959
 Combat Trafficking	11900
 Combating Drug Trafficking Combating	14781
 Combating Drug Trafficking Enhancing	14781
@@ -78,8 +79,11 @@ Financial Management Absence of Human Trafficking	10759
 Fixed Broadband Traffic	2776
 Fixed Broadband Traffic Fixed Broadband Q3	2776
 Fixed Broadband Traffic The Total Fixed	2776
+Fixed International Voice Traffic	15136
 Fixed Internet Data Traffic Market	6085
+Fixed Internet Traffic	15136
 Fixed Off-Net Traffic	2776
+Fixed Telephone Voice Traffic	15136
 Fixed Traffic	3862
 Fixed Voice Call Traffic	3862
 Fixed Voice Traffic	2776,3224
@@ -111,19 +115,22 @@ Industry Traffic	2776
 Information Sharing Traffic Light Protocol	775
 Intercity Courier Towers Traffic	9781
 Intercontinental Data Traffic	2677
-International Fixed Voice Traffic	6671
+International Fixed Voice Traffic	6671,8465
 International Fixed Voice Traffic International	6671
 International Fixed Voice Traffic Jan-Mar	6671
 International Incoming Mobile Voice Traffic	6671
 International Incoming Traffic	9781
 International Mobile Traffic	6671
 International Mobile Traffic Indicator	6671
+International Mobile Voice Traffic	15136
 International Outgoing Mobile Voice Traffic	6671
 International Outgoing Mobile Voice Traffic International	2776
+International SMS Traffic	15136
 International Traffic	2776,1086,1911
 International Traffic Capacity	718
 International Traffic Inbound International Traffic	2776
 International Traffic Traffic Q3	2776
+International Voice Traffic	15136
 Internet Traffic	11857
 Internet Trafic	13324
 July. Traffic-light	14845
@@ -147,6 +154,10 @@ MTN Eswatini Network Voice Traffic	12395
 Malaba Traffic Snarl Deepens	3955
 Malawi Traffic	12214
 Malawi Traffic Information System	12309
+Market Share of International Mobile Voice Traffic	15136
+Market Share of International SMS Traffic	15136
+Market Share of National SMS Traffic	15136
+Market Share of National SMS Traffic- Q4	15136
 Message Service Traffic	2775
 Message Services Traffic	2775
 Metre Gauge Railway Traffic	2775
@@ -156,6 +167,8 @@ Mobile Data Traffic	2776
 Mobile Data Traffic Eswatini Mobile	12395
 Mobile Data Traffic Figure	2776
 Mobile Data Traffic Recovery	12395
+Mobile International Voice Traffic	15136
+Mobile International Voice Traffic Trends	15136
 Mobile Internet Traffic	2776
 Mobile Malawi Traffic Information System	13060
 Mobile Off-Net Traffic	2776
@@ -173,6 +186,7 @@ Mobile Voice Traffic	2776,1086,2809,5724
 Mobile Voice Traffic For Eswatini Mobile	12395
 Mobile Voice Traffic Market	6000
 Mobile Voice Traffic Minutes of Use	2776
+Mobile Voice Traffic Volume	15136
 Motor Traffic Act	3061
 Motor Traffic and Transport Department	9205,1876
 NATIONAL MOBILE TRAFFIC	11211,51
@@ -180,11 +194,15 @@ NATIONAL TELEPHONE TRAFFIC	3862
 NETWORK TRAFFIC	11211,51
 Namibia Traffic Information System	12476
 National Agency for Prohibition of Trafficking	11928
+National Fixed Voice Traffic	15136
+National Mobile Voice Traffic	15136
 National Road Traffic Act	11551
 National Road Traffic Act.’’. Amendment	11551
 National Road Traffıc Act	11551
 National Road Traffıc Act.’’. Ukuchibiyela	11551
 National Road Traffıc Act.’’. Ukufaka	11551
+National SMS Traffic	15136
+National SMS Traffic Trends	15136
 National Telephone Traffic	3862
 National Traffic	6000
 National Traffic Point-Based Penalty Management	12200
@@ -204,6 +222,10 @@ Outbound Roaming Traffic	6671
 Outgoing Fixed Voice Traffic	6671
 Outgoing Mobile International Traffic	3862
 Outgoing Traffic	3862
+Outgoing and Incoming Fixed Voice Traffic	15136
+Outgoing and Incoming Fixed Voice Traffic- Q4	15136
+Outgoing and Incoming Roaming SMS Traffic	15136
+Outgoing and Incoming Roaming Voice Traffic	15136
 Outgoing and Incoming Traffic	3862
 PART XIX THE ROAD TRAFFIC ACT	6921
 PSTN Traffic	6000
@@ -235,6 +257,7 @@ Real-Time Collection of Traffic Data	2913
 Refugee Management and Anti-Human Trafficking	12602
 Reg. TRAFICO CIVIL PROTEC. PROTEC. CIVIL	4209
 Registration Road Traffic	12151
+Regulatory Fees Our Telecommunications Traffic Monitoring	15120
 Reported Road Traffic Accidents	2775
 Reported Road Traffic Accidents and Persons Killed	2775
 Road Traffic	1988,5857,4306,2116,507,65,6
@@ -254,13 +277,13 @@ Road Traffic and Transport Act	13189
 Road Traffic and Transport Regulations	13189
 Roads and Road Traffic Act	1988
 Roads and Road Traffic An Act	1988
-Roaming Traffic	2776,3895
+Roaming Traffic	2776,3895,8465
 Roaming Traffic Out	6671
 Roaming Traffic Out-bound Roaming Incoming Voice	6671
 Roaming Traffic Tables	6671
 Rural Safety Plan RTMC Road Traffic	11188
 SMS I.2.1. Trafic	13586
-SMS Traffic	2776,4170,5655
+SMS Traffic	2776,4170,5655,2535
 SMS Trafic	13414
 STATISTIQUES DE TRAFIC RELATIVES AUX SERVICES	13500
 Safety of Services Traffic and Road Safety	1988
@@ -290,8 +313,11 @@ Tbps Traffic Milestone	2754
 Telecommunication Traffic Monitoring Services	14046
 Telecommunications Traffic Control Regulation	9288
 Telecommunications Traffic Control Regulations	8742,1
+Telecommunications Traffic Monitoring	15120
+Telecommunications Traffic Monitoring Guideline	15120
+Telecommunications Traffic Monitoring Regulation	15120
 Telephone Call Traffic	2775
-Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124,1026,232,1146
+Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124,1026,232,1146,339
 Traffic Acci-	12151
 Traffic Acci- Kidney	12151
 Traffic Acci-385Heart	12151
@@ -328,6 +354,7 @@ Traffic Registration Numbers	6527
 Traffic Safety	1988
 Traffic Safety Council of Zimbabwe	9394
 Traffic Statistics	12377
+Traffic Stats Website	14878
 Traffic Study	11131
 Traffic Table	2776
 Traffic Traffic	2776
@@ -336,7 +363,7 @@ Traffic Trends Network Infrastructure Broadband Speeds	1944
 Traffic and Road Safety Directorate	10775
 Traffic and Road Safety The Borrower	1988
 Traffic and Usage	3990,5791
-Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30
+Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30,118
 Trafficking Data	1243
 Trafficking In Persons	12373
 Trafic	9781,3543,90,86,86
@@ -346,9 +373,10 @@ Trafic SMS Troisième	13586
 Trafics	13414
 Transit Traffic	2775
 VoIP Voice Traffic Trend	3862
+VoLTE Voice Traffic	15136
 Voice Call Traffic	2775
 Voice Subscription Traffic	236
-Voice Traffic	2776,3895
+Voice Traffic	2776,3895,8465
 Voice Traffic Fixed	2776
 Voice and Data Traffic	718
 Volume of BWA Traffic	2776

@@ -56,10 +56,12 @@ EXPENDITURE Liability	3714
 Electricité Liaison	10975
 Equity Total Liability Size Band	12445
 Equity and Liability	12445
+Exclusion of Liability	14931
 FINANCE REPORT Liabilities Currency	11131
 FINANCIAL ASSETS AND FINANCIAL LIABILITIES	10793
 Foreign Assets and Liabilities	13868
 Full Liability	12302
+GENERAL LIABILITY	15149
 Government Liaise	1131
 H. Liability	14717
 Hungary Xunru Liang	8376
@@ -78,6 +80,8 @@ LIABILITIES Current	14736
 LIABILITIES NON-CURRENT LIABILITIES Borrowings	13053
 LIABILITIES Non-current	11955
 LIABILITIES OWNER EQUITY Capital	11955
+LIABILITY	15149
+LIABILITY FOR OUTAGES	14864
 LIABILITY OF MEMBERS AND OTHERS	3714
 LIABILITY OF SERVICE PROVIDERS FOR UNLAWFUL	12919
 LIABILITY RESULTING FROM INSIDER TRADING	3714
@@ -90,7 +94,7 @@ Liabilities Currency	11131,3
 Liabilities NAD	1013,931
 Liabilities ZWL	13420
 Liabilities of Council	12526
-Liability	3,23,2,1305,1828,553,1182,1995,657,2366,1,77,113,1033,43,795,366,103,184,278,31,247,126,1111,295,11,2,12
+Liability	3,23,2,1305,1828,553,1182,1995,657,2366,1,77,113,1033,43,795,366,103,184,278,31,247,126,1111,295,11,2,12,138,27,12,207
 Liability No Monitoring	26
 Liability Regimes	12389
 Liability and Asset Management Corporation	12233
@@ -99,13 +103,15 @@ Liability for Damage	12400
 Liability for Digital Services Tax	573
 Liability of Carriers	12389
 Liaise	170,3956,402,7725,259,450,8,955
-Liaising	12240,722
+Liaises	14889
+Liaising	12240,722,2072
 Liaison	1131,2382,9777,71
 Liaison Committee	10313
 Liaison Psychiatry	13040
 Liaisons	998,10768
 Liaisons B	11766
 Liaisons C	11766
+Liam Ebrill	14932
 Lian Aldrich	6765
 Liandro	12478
 Liang	7759,3376
@@ -116,6 +122,7 @@ Liar’s Dividend Old	10725
 Liasse	10858
 Liasses	10230
 Limitation of Liability	13185
+Limitation of Liability and Warranty The Authority	15198
 Limited Liability Company	11939
 Limited Liability Partnerships Act	7845,6872
 Lu-Hai Liang	5729,918

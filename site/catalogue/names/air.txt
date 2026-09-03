@@ -24,6 +24,8 @@ AIRTEL NETWORKS KENYA LIMITED Data Processor	7167
 AIRTEL NIGER	998
 AIRTEL NIGER MOOV AFRICA	998
 AIRTEL NIGER SA	998
+AIRTEL Onnet	15136
+AIRTEL Outgoing	15136
 AIRTEL Telecomunicações	3603
 AIRTEL and EMTS	3862
 AIRTEL and SMILE	3862
@@ -98,6 +100,7 @@ AirTrunk Anant Raj	2511
 Airan-Javia	8606
 Airband	5084
 Airbnb	3642,4156,1059
+Airbnb and Uber	14932
 Airborne Particles Non-conductive	9123
 Airbox	12132
 Airbus	2242,3163,33,735,463,5494,832
@@ -117,6 +120,7 @@ Aires Very High EGDI V2	10840
 Aires de Mise	14598
 Airfare Compensation Platform Designed	11939
 Airflow	9123,3130
+Airflow Planning	14921
 Airforce	13533
 Airken	10
 Airline Members	10723
@@ -124,7 +128,7 @@ Airlines	9119
 Airlines Association of Southern Africa	10360,363
 Airong	11006
 Airong Zhang	11006
-Airport	2775,611,1924,4585,2494,2349,8,2,5,28,49
+Airport	2775,611,1924,4585,2494,2349,8,2,5,28,49,299
 Airport By-pass Road Accra Ghana Digital	775
 Airport City	3386,3982
 Airport City Fuller Road	2776
@@ -134,6 +138,7 @@ Airport Infrastructure	13474
 Airport JKUAT Jomo Kenyatta University of Agriculture	2775
 Airport MICE Meetings	2775
 Airport Management Information Systems	5883
+Airport Map	15129
 Airport POLICE TENDER UNIT POLICE INTERNAL	14760
 Airport Police	14781
 Airport Police Airport Police	14760
@@ -158,7 +163,7 @@ Airports Sacco Society Limited Data Processor	7167
 Airports of Mauritius	10045
 Airports of Mauritius Co Ltd	14830
 Airstrip	14742
-Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29,44,41,51,7,531,13,2,407,31,755,17,18,42,27,82,13,19,116,42,125,33
+Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29,44,41,51,7,531,13,2,407,31,755,17,18,42,27,82,13,19,116,42,125,33,262,167,198
 Airtel AI Spam Alert Service. Airtel	2558
 Airtel Africa	701,23,62,105,628,502,112,196,143,86,239,214,354,85,116,122,71,108,76,499,55,84,315,110,1133,107,1,19,23,50,11,117,202,39,143,81,163,196,354,18,279,107,82,596,144,1126,35,52,128,16,261,831,3039,13,135,167
 Airtel Africa CEO	5802
@@ -167,7 +172,7 @@ Airtel Africa CEO Sunil Taldar	5341,4887
 Airtel Africa Chief Executive Officer	6932
 Airtel Africa Chief Executive Officer Sunil	7291,2741
 Airtel Africa Filings	8727
-Airtel Africa Foundation	4558,1244,791,698,2936,505,601,496,17,2513
+Airtel Africa Foundation	4558,1244,791,698,2936,505,601,496,17,2513,956
 Airtel Africa Foundation and UNICEF	7291
 Airtel Africa Foundation’s FEED	11846
 Airtel Africa Group	7387
@@ -211,7 +216,7 @@ Airtel House	7023
 Airtel India and Airtel Africa	4896
 Airtel India and Airtel Tracy Mpofu	4896
 Airtel Internet	9925
-Airtel Kenya	889,5336,184,354,1179,681,219,28,1,1,144
+Airtel Kenya	889,5336,184,354,1179,681,219,28,1,1,144,6319
 Airtel Kenya CEO	8870
 Airtel Kenya CEO Djibril Tobe	8870
 Airtel Kenya and Telkom Kenya	8753
@@ -253,7 +258,7 @@ Airtel Mobile Money Rwanda	921
 Airtel Mobile Money Tanzania	2226
 Airtel Mobile Money Uganda	922
 Airtel Mobile Money Zambia	923
-Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203,200,882,118,70,130
+Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203,200,882,118,70,130,292
 Airtel Money Africa	7387
 Airtel Money Business Wallet	8728
 Airtel Money Commerce Uganda Limited	9899
@@ -302,14 +307,15 @@ Airtel Nigeria and Mafab Communications	2472
 Airtel Nigeria’s ARPU	14707
 Airtel Nigeria’s Airtel Assist	5820
 Airtel Nxtra	4150
-Airtel Nzeru Connect	10227
-Airtel Nzeru Fund Tech Scholarship	10227
+Airtel Nzeru Connect	10227,5088
+Airtel Nzeru Fund Tech Scholarship	10227,5088
 Airtel Partnership	4442
 Airtel RDC	3943
 Airtel RDC. L'intégration	4695
 Airtel Relations Manager	10732
-Airtel Rwanda	8535,218
-Airtel Rwanda Ltd	718
+Airtel Rwanda	8535,218,6383
+Airtel Rwanda Ltd	718,14418
+Airtel Rwanda Ltd and BSC Ltd	15136
 Airtel Rwanda and MTN Rwanda	8447
 Airtel Seychelles	786,6237
 Airtel South Sudan	8753
@@ -360,8 +366,9 @@ Airtel’s Direct-to-Cell	4442
 Airtel’s Extra Credit	10807
 Airtel’s Managing Director	3458
 Airtel’s Nxtra	4191,6070
-Airtime	418,1675,3502,1965,1103,2130,14
+Airtime	418,1675,3502,1965,1103,2130,14,4178
 Airtime Credit Services	8587,76
+Airtime Excise	14985
 Airwaves	6051
 Airwing	9644
 Airwing. Improving	9644
@@ -375,6 +382,7 @@ Automated Biometric Identification System ACSA Airports	5533
 Avec AIRegistry.mu	7224
 Aviation and Airport Development Uwem Ekanem	10229
 BEST AIRTIME LIMITED Data Processor INST-13913384B88	7167
+BSC Ltd Airtel Rwanda Ltd	15136
 Baghdad International Airport	13042
 Bakili Muluzi International Airport	9945,3177
 Bel Air	14760,70
@@ -382,6 +390,7 @@ Bharti Airtel	4150,507,465,78,1041,7320,1113
 Bharti Airtel's Airtel Chad	10841
 Bilateral Air Service Agreements	13123
 Bilateral Air Services Agreement	8006
+Bilateral Air Services Agreements	14935
 Biometric Strict Air-gapped Sovereign	5244
 Bissau Airport	11553
 Bissau International Airport	11575
@@ -438,6 +447,7 @@ Data Boom and Airtel Money Surge Author	7663
 Data Center Dynamics. Airtel	8852
 Deliveroo and Air France. The Government	3394
 Desert Air	12378
+Destination MTN Rwandacell Plc Airtel Rwanda	15136
 Diaspora Advertisement Airtel Africa Foundation	5802
 Douala International Airport. New Jersey-based	12517
 Dr. António Agostinho Neto International Airport	4275
@@ -515,12 +525,13 @@ Kenya Airways Limited	14546
 Kenya Airways and Qatar Airways	14668
 Kenya. For Airtel	8872
 Kenyatta International Airport	359
-Kigali International Airport	5469
+Kigali International Airport	5469,9669
 King Air Industria	6486,857,930,642,5758
 King Shaka International Airport and Lanseria International	9895
 Kisumu and Mombasa International Airport	12256
 Kuala Lumpur International Airport Terminals	4275
 Leveraging the Full Potential of Single African Air	5825
+Liquor Airtime Cigarettes Vehicle Sweets Domestic	14985
 Ltd Airtel Rwanda Ltd Jun-19 Jun-20	718
 Lusaka City Airport	13365
 M Airtel Mobile Commerce	2226
@@ -529,19 +540,24 @@ M-Pesa and Airtel Money	14399
 MACRA Orders Airtel Malawi and TNM	7411
 MD of Airtel Money Zambia	7387
 MTN Airtel Tigo Service	10822
+MTN Airtel Total MTN Airtel	15136
 MTN Congo and Airtel Congo	3801,4
 MTN GLO AIRTEL EMTS	3862
 MTN GLO AIRTEL EMTS SMILE NTEL	3862
 MTN Group and Airtel Africa	3759,2834
 MTN MoMo and Airtel Money	3727
 MTN Mobile Money Company and Airtel Money	10299
-MTN Mobile Money and Airtel Money	4988
+MTN Mobile Money and Airtel Money	4988,10009
 MTN Nigeria’s CEO Karl Toriola and Airtel	2329
+MTN RWANDACELL Plc AIRTEL RWANDA LTD	15136
 MTN Rwanda Ltd and AIRTEL Rwanda Ltd	718
 MTN Rwanda Ltd and Airtel Rwanda Ltd	718
-MTN Uganda and Airtel Uganda	4753,4000,724
+MTN Rwandacell Plc Air	15136
+MTN Rwandacell Plc Airtel Rwanda Ltd	15136
+MTN Rwandacell Plc and Airtel Rwanda Ltd	15136
+MTN Uganda and Airtel Uganda	4753,4000,724,5857
 MTN Vodafone AirtelTigo Figure	2776
-MTN and Airtel	1903,569,871,458,4,948,1067,54,834,168,1390,1493,450,652
+MTN and Airtel	1903,569,871,458,4,948,1067,54,834,168,1390,1493,450,652,4473
 MTN and Airtel Africa	4150
 MTN and Airtel Tigo	10822
 MW Airtel NXTRA LGS2 Lagos	10861
@@ -566,6 +582,8 @@ Min Read Airtel Malawi Plc and TNM	7525
 Misrata Air Force Base	11131,3
 Mobile Subscriptions Airtel Networks Kenya Limited	6946
 Modibo Keïta International Airport. Health	3585
+Mogadishu International Airport	14965
+Mogadishu Port and Airport	15066
 Mogadishu's Aden Adde International Airport. ABIS	2273
 Moi International Airport	2775
 Monday. Airtel Africa	8727
@@ -615,6 +633,7 @@ Precision Air Conditioning System	12253
 Precision Air the PAC Units. Conditioning System	12253
 Production Airtel A B C D	236
 Project King Mswati III International Airport	12962
+Proper Air	14864
 Qatar Air Cargo	2675
 Quality of Service Report. Airtel	14674
 RCZ Board Member Air Commodore	1554
@@ -653,10 +672,12 @@ Seychelles. Airtel	786
 Sierra Leone. Airtel Sierra Leone	4189
 Sikhuphe International Airport. G585	12962
 Simon Mwansa Kapwepwe International Airport	5247
+Singapore Airlines	14997
 Single African Air Transport Market	961,2201,2750,4448,789,1911,595,30
 Sir Seewoosagur Ramgoolam International Airport	14753,7
 Sir Seretse Khama International Airport	12557,71,6
 Solwezi Airport	5247
+Somalia Airport Authority	15097
 Sonangol and TAAG Angola PA2b S Airlines	10779
 Sotel Tchad and Airtel	5033
 Sotel and Airtel	4956,2056
@@ -664,6 +685,7 @@ South African Airways	562,2728
 South Sudan Air Traffic Management System	261
 SpaceX. Airtel Tanzania	2797
 Starlink and Airtel	4442
+State of Global Air Report. Health Effects	14947
 Steam and Air Conditioning Supply	2775,3550
 Sudan Airways	9490
 TNM and Air	4775
@@ -690,6 +712,7 @@ U.S. Air Force Mobility Guardian	4434
 UNDP and Airtel Malawi	12174
 UNICEF and Airtel	5802
 Uganda Telkom and Airtel Unique	10822
+United Nations Humanitarian Air Service	14945
 University of Buenos Aires	5682
 Unlike Airtel	4442
 User Guidelines for AIR CARGO FREIGHT FORWARDERS	12454

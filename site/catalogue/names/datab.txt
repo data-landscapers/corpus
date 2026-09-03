@@ -59,9 +59,10 @@ DIGITAL CADASTRAL DATABASE	14722
 DataBank	10714
 DataBreachToday	3279
 DatabankWide.xlsx	11960
-Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34
+Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34,2090
 Database Activity Monitoring	13053
 Database Administration	9437,3600
+Database Administrator	15080,10
 Database Administrators	6832
 Database Document Management	14738
 Database ID	6423
@@ -78,6 +79,7 @@ Database RDMA Remote Direct Memory Access	13185
 Database Schema	6423
 Database Server	13037
 Database Size	9124
+Database Systems	15080
 Database Type N	9124
 Database Utilisation	12370
 Database Verification	2307
@@ -118,7 +120,7 @@ Global Database	13624
 Global Electrification Database	11572
 Global Emerging Markets Risk Database	11310
 Global Emerging Markets Risk Database Consortium	11310
-Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675
+Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138
 Global Household Energy Database	11572
 Global Innovation Index Database	10846
 Global Off-Grid Solar Market Report Database	12191
@@ -156,6 +158,7 @@ MAISHA INTEGRATED DATABASE	12165
 Maisha Integrated Database	12165,62
 Maisha Integrated Database.126 Despite	12227
 Malawi Business Registration Database	12906
+Microsoft Access Database	14923
 Mongolia's Integrated Household Information Database	11133
 Movable and Immovable Property Database	14713
 Multilateral Surveillance Mechanism Database	7
@@ -170,9 +173,11 @@ National Addressing Database	11129
 National Agricultural Disaster Database	14818
 National Citizen Database	12917
 National Database	5920,4360
+National Database and Registration Authority	15030
 National Database for Checking Identification	12389
 National Education Database	11860
 National ID Database	11960
+National Identification Database	15120
 National Identity Database	4602,972,1567,3,1970,556
 National Identity Database. Under DG Abisoye	3703
 National Identity Management Database and Immigration	7914
@@ -209,6 +214,7 @@ Recruitment Database National Teaching Awards Register	11241
 Registry Database	10762,1627
 Rep. Zambia Register VIZ Database	10714
 Research Library Databases ABCD Indexed	12467
+Senior Database Administrators	15034
 Service IBM DB2 IBM's Database	13185
 Seychelles National Population Database	10714
 Smart National Transport Databank	10603

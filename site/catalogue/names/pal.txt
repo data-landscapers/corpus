@@ -164,7 +164,7 @@ Palais des Congrès de Niamey	2556,785,210,1106,1302,1374
 Palais des Congrès de Niamey. Cette	998
 Palais des Congrès de Yaoundé	3328,6384,1263,723
 Palais des Gouverneurs	6292
-Palais des Nations	2262,7479,3301
+Palais des Nations	2262,7479,3301,2089
 Palais des Sports de Treichville LES PLUS LUS	8755,4813
 Palais du Gouvernement	9498,98,4605
 Palais du Peuple	2738,240,213,135,44,2697,4589,3166,90,784
@@ -195,6 +195,7 @@ Palestine Yes Framework of National Broadband Master	11529
 Palestine and Syria	11185
 Palestinian	5985,909,6567
 Palestinian Authority	11005
+Palestinian Camps	14851
 Palestinian People	7060
 Palestinian Population Registry	10714
 Palestinian Territories	11210
@@ -267,6 +268,7 @@ Pro PALOP	10320
 Pro PALOP-TL ISC	3118
 REFERENCE. PALUDISME GRAVE	13300
 REPUBLIC OF PALAU	13996
+Republic Palace	15342
 Robert Palacios	10812
 Royal Palace Hotel de Bujumbura	13689
 S.E. Presidente República Administrador General de Palacios	4209
@@ -288,4 +290,5 @@ University of Palermo Italy	13773
 VTBC and Palomar	1829
 Viana and Palcio da Jastica	3468
 WELE NZAS SAN ANTONIO DE PALEA	4209
+Yemen and Palestine	15248
 Zambia Ethiopia Palestinian Authority Zimbabwe Gabon	11005

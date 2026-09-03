@@ -13,6 +13,7 @@ Africa Film Drama Arts	10481
 Airtel Africa Filings	8727
 Allocution du Chef de File des PTF	2966
 Amend the Filed CIT	12676
+Annual Compliance Report Template PDF File	15207
 Annual Return Gross Filing	11250
 Annual Returns Filings	11250
 António Filipe Dias da Fonseca Brás Partner	11955
@@ -111,6 +112,7 @@ East African Documentary Film Fund Data	7167
 Electronic Files	1009,10187,17,20,340,474
 Electronic Filing	12389
 Electronic Filing of Taxes	12389
+Executable File	15184
 F Garçons Filles G	10847
 F KOMPIENGA Garçons Filles G	10847
 F Régions Provinces Garçons Filles G	10847
@@ -151,7 +153,7 @@ File Bank of Tanzania	2857
 File CIT	12676
 File Count	11268,1405,1172
 File Dispute Online	12389
-File Format	3972
+File Format	3972,11260
 File My Return	12454
 File Online Payment Receipt	14675
 File Payment	5977
@@ -166,9 +168,11 @@ File Transfer	12395
 File Transfer Protocol GB Gigabyte GHz	34
 File Type	8831
 File and Pay Taxes	12389
-File&t	1814,1184,9340
+File&f	14869,1,158
+File&t	1814,1184,9340,2690
 File&tx filelist filelist	2998
 File-Based Encryption	10721
+File.Mix Announcement File	14901,1
 FileDown.do	11064
 FileId	11064
 Filed	2,39,382,326,488,83,57,9,15,304,242,668,6,788,756,486,64,977,81,1068,127,132,354,374,100,265,874,101,2108,2751,648
@@ -178,7 +182,7 @@ Filed Under	5456,364
 Filemon Sambú	11574
 Filename	1593,698,1271,2381,1509,620
 Filers MUST	11219
-Files	1243,2884,156,889,5790,178,60,370,568,238,24,985,128
+Files	1243,2884,156,889,5790,178,60,370,568,238,24,985,128,1419
 Files Avec	11499
 Files By Central News Reporter	5597
 FilesHandler.ashx	13442,569
@@ -197,7 +201,7 @@ Filias	11386
 Filiação	10749,670,6,55
 Filimbi	9408
 Filin-	13461
-Filing	3161,2523,1659,680,761,722,1279,212,279,22,387,116,400,137,715,345
+Filing	3161,2523,1659,680,761,722,1279,212,279,22,387,116,400,137,715,345,1469,24,2,25,8
 Filing Date	12389,2286
 Filing Fee Table	7198
 Filing Filing	13053
@@ -347,6 +351,7 @@ Makiese Filipe	5296
 Management Cloud Infrastructure Catalogs Media File	13042
 Mauritius Film Development Corporation	14847
 Media File Management	13042
+Minimum Compliance Checklist PDF File	15207
 Mosteiros and São Filipe	11855
 Mozambique FILE	5087
 NAHOURI Filles	10847
@@ -380,6 +385,7 @@ Número Ideal de Filhos	10777
 OUBRITENGA Filles	10847
 October. Filed	1940
 Official Use Only Labor Projets Filets	10985
+On-Time Filing and Payment Enforcement	14985
 On-time Filing of CIT Declarations for Financial Year	12500
 On-time Filing of Domestic Excise Tax Declarations	12500
 On-time Filing of Domestic Excise Tax Declarations--Large	12500
@@ -389,6 +395,7 @@ On-time Filing of VAT Declarations--All VAT	12500
 On-time Filing of VAT Declarations--Large	12500
 Outro Filho	10777
 PASSORE Filles	10847
+PDF File	15207
 PETIT FILS	13300
 PFS The Projet Filets Sociaux	10985
 PLATEAU CENTRAL CP1 Filles	10847
@@ -429,6 +436,9 @@ R. Garçons Filles	10847
 REPRODUCTION No QUESTIONS ET FILTRES CODES	13300
 RMD Non-patient File Sharing SA NHIS	1009
 Registration Consists of Filing	14647
+Registration Form PDF File	15207
+Registration Renewal Form PDF File	15207
+Related Files Topics	15208
 Rep. The National File	10714
 Repairs of Furniture and Filing Cabinets	14738
 Reporting and Data Transfer Files	13461
@@ -481,6 +491,7 @@ Timely Filing of Tax Declarations P4-12. On-time	12500
 Time’ Filings	11250
 Trial Moroccan Filmmaker and Rapper El Mahdi	5407,676
 UN High Commissioner for Refugees Filippo Grandi	12188
+USE OF ELECTRONIC FILING FACILITIES	14985
 Uganda Film Festival	9781
 Unique Participation File	4620
 Unité de Gestion des Projets Filets Sociaux	13737
@@ -488,6 +499,7 @@ Urbain Rural Total Total Filles	10847
 Vacancies Filled Twelve	14745
 Valter Filipe Duarte da Silva	11370
 Valter Filipe Duarte da Silva. Download Para	11368,2
+Website and Page Filtering and Blocking Regulation	14944
 Whatsapp File Transfer Mobile Applications	12395
 XBRL Filings Comparison	11250
 YAGHA Filles	10847

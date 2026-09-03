@@ -25,6 +25,7 @@ DFS DTB EAC EC ECOBANK ENIF	13390
 DRC Democratic Republic of Congo DTS Digital	13312,2
 DSL Digital Subscriber Line DTH Direct-To-Home	6671
 DT Global	1813
+DT Institute	15342
 DT SACCOs	2775
 DT&author	2096
 DT-Global	12183
@@ -34,7 +35,8 @@ DTA Initiative	1172
 DTA State Dept	1172
 DTA-PDF-2.pdf	1172
 DTAA. Subsequently	14839
-DTAAs	13060,1759
+DTAAs	13060,1759,178
+DTAAs. Well	14997
 DTB and Safaricom	7265
 DTC II	6725
 DTC Nigeria Hosting	12053
@@ -59,8 +61,9 @@ DTM Registration	9772
 DTM SNFI WASH Biometric	9772
 DTM SNFI WASH Nutrition	9772
 DTM WASH Other Nutrition SNFI	9772
+DTMFIs	15023
 DTMFis	5222
-DTMFs	12490
+DTMFs	12490,2533
 DTOS Ltd	14445
 DTP Annex	5487
 DTS Cohort	13233
@@ -93,6 +96,7 @@ DTransforming	5349
 DTt-1	236
 Departamento de Procedimentos Fiscais DTF	11435
 Department of Higher Education and Training DTIC	6832
+Deposit Guarantee Fund DTFIs Deposit Taking	15023
 Digital Public Goods Alliance DTS Digital	12241,839,15
 Disaster Risk Management DTED	12175
 Dismissing DTB	7265
@@ -107,6 +111,7 @@ Dtéiosenngafginemaenntcière	2342
 Europe and Asia. DT	13981
 FINBANK DTB BHB BNDE BUHUMUZA	13390
 FR QDFLRQDO RX TXH Dt	11527
+Financial Institutions DTMIs Deposit Taking Microfinance	15023
 Framework DTSfA Digital Transformation Strategy for Africa	1814
 GIZ DTC Nigeria	12053
 Hz Audible Noise DTV	34
@@ -119,6 +124,7 @@ Kenya National Police DT Sacco CEO	4605
 Loop DTT Digital Terrestrial Television EPTC	12395
 Mechanism DTS Digital Transformation Strategy E-Commerce	1243
 National Indicator Data Set Systems DTPS	396
+Operation Meta- Dta Data Governance Data	15034
 P.C.E P.E Dt	10847
 P.E Dt	10847
 Personal Data Protection and Privacy Act DTWG	5244
@@ -134,6 +140,7 @@ Subscriber Line DTH Direct-to-Home DTT Digital	6946
 Suite DTC-HepB-Hib Polio1 Pneumocoque Rotavirus Enfants	13300
 TAB DTC HepB Hib1-VAR	14622
 TAB DTC-HepB-Hib1 DTC-HepB-Hib3	14622
+Tax CSD Customs Services Department DTD	14985
 Unit DR Disaster Recovery DTLT Desktop	13185
 VACCIN DTCoq	13300
 VACCIN POLIO INJECTABLE VPI ROUTINE DTCoq-HEP.B-HIB	13300

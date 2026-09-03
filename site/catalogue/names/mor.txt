@@ -1,13 +1,14 @@
 A. Morita	5700
-ADULT AND MATERNAL MORTALITY	13454
+ADULT AND MATERNAL MORTALITY	13454,1793
 AI. Morocco’s Parliament	4583
 Achim Mortsiefer	1824
 Addis Ababa. MOR	12500
 Administration of Morocco	5797
+Adult Mortality	15247
 Adultos Educação Moral	10766
 Africa Eastern Africa Moroni Middle EGDI	10840
 Africa. Morocco	4837
-Age-Specific Mortality Rate	12413
+Age-Specific Mortality Rate	12413,2643
 Age-Specific Mortality Rates	12151,521
 Agricultural Certificate Morcellement Scheme	7845
 Ailton Moreira. António Baptista	10349
@@ -19,6 +20,7 @@ Analyzing Mortality Levels and Causes of Death	12413
 Analyzing Mortality and Causes of Death	12413
 Andela and Moringa Schools	12239
 Andries Moreteledi Tlhabane	2626
+Arabia Sudan Morocco Turkey QatMaradagascar Indonesia	14897
 Associação Cabo- Verdiana MORABI de Auto-Promoção da Mulher	11855
 BOB MORGAN SERVICES LIMITED Data Controller	7167
 BOB MORGAN SERVICES LIMITED Data Processor	7167
@@ -41,7 +43,7 @@ Causas de Morte Mortalidade Contém	966
 Central Bank of Morocco	4920
 Ceuta and Moroccans	8811
 Child Mortality Estimation	11887,266,1,9,178
-Child Mortality Rate	12367,16,30
+Child Mortality Rate	12367,16,30,2643
 Childhood Mortality	12151
 Childhood Mortality Rates	12151
 China. Southern China Morning Post	11135
@@ -71,8 +73,9 @@ Description The Moroccan InsurTech	5921
 Destroyed Mortgage Bonds	13398
 Digital Morocco	168,369,21,978,360,207,685,213,374,1620,14,351,438,698,13,786,707,242,1,231,1528
 Digital Morocco Strategy	4141
+Direct Estimates of Adult Mortality	15247
 Direct Estimates of Adult and Maternal Mortality	13454
-Direct Estimates of Maternal Mortality	14067
+Direct Estimates of Maternal Mortality	14067,1180
 Direct and Indirect Estimates of Maternal Mortality	13300
 Director General TTCL Moremi Andrea Marwa	8214
 Director General of Morocco's Digital Development Agency	2715
@@ -86,7 +89,7 @@ Déclaration de Moroni	13799
 EBRD Head of Morocco	8905
 EDSB-III Mortalité	13300
 EN MORCEAU	13300
-ENMR Early Neonatal Mortality Rate GFR	12413
+ENMR Early Neonatal Mortality Rate GFR	12413,2643
 ESTIMATION DIRECTE DE LA MORTALITÉ ADULTE	13300
 ESTIMATION DIRECTE DE LA MORTALITÉ MATERNELLE	13300
 Early Childhood Mortality	14067
@@ -145,7 +148,7 @@ IMF. Morocco	8891
 IMMR Institutional Maternal Mortality Rate IPC	12976
 IMR Infant Mortality Rate IMT International	2775
 INCAPACIDADE OU MORTE DO CANDIDATO	11528
-INFANT AND CHILD MORTALITY	13454
+INFANT AND CHILD MORTALITY	13454,1793
 Idarati X.0 Morocco	5004
 Improving Mortality	12367
 Improving Mortality Statistics	12413
@@ -153,9 +156,10 @@ India Georgia Morocco Kenya Ghana Cambodia	7655
 Indice JP Morgan	7655
 Indirect Estimation of Maternal Mortality	13300
 Infant Mortality	12383
-Infant Mortality Rate	12367,16,30,226,760
+Infant Mortality Rate	12367,16,30,226,760,1657
 Infant Mortality Rate ASFR	12639
 Infant Mortality Rate and Neonatal	12138
+Infant and Child Mortality	15247
 Inscription of Privileges and Mortgages Act	14843
 Institutional Maternal Mortality	4217
 Integrated Modern Agricultural Morcellement Certificate	7845
@@ -169,7 +173,7 @@ J.P. Morgan Equities	10793
 J.P. Morgan Equities South Africa Proprietary	10793
 J.P. Morgan Securities LLC	7198
 JARA MORENO	6613
-JP Morgan	7655,1675
+JP Morgan	7655,1675,5667
 JP Morgan and Goldman Sachs	4447
 Jeanette Morwane	8272
 Judge Eva Mappy Morgan	14318
@@ -184,7 +188,7 @@ Kingdom of Morocco To International Organizations	1735
 Kreol Morisien	14742,9
 L'American Corner Moroni	13724
 L'HOTEL RETAJ MORONI Date	13783
-LNMR Late Neonatal Mortality Rate MAS2	12413
+LNMR Late Neonatal Mortality Rate MAS2	12413,2643
 La Meck Moroni	4380
 Le Morne Cultural Landscape	14742,87
 Le Morne Heritage Trust Fund	14774,73
@@ -323,7 +327,7 @@ Morel	7911
 Morema	9129
 Moremi Marwa	11612
 Morero	12641
-Moreso	5145,855
+Moreso	5145,855,8997
 Moretele North Klipvoor Bulk Water Supply	11248
 Moretlo Molefi	396
 Morevest	4952
@@ -364,7 +368,7 @@ Moroccan Tech SMEs	1885
 Moroccan and Senegalese	1729
 Moroccan-law	3321
 Moroccans	168,389,3252,304,2339,2358,1,5394
-Morocco	25,143,122,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6,120,3,6,15,417,21,16,114,12,57,78,3,10,3,1,2,5,23,5,13,218,1,9,47,11,18,26,13,61,2,11,1,135,48,834,17,74,530,188,11,15,29,1,158,234,31
+Morocco	25,143,122,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6,120,3,6,15,417,21,16,114,12,57,78,3,10,3,1,2,5,23,5,13,218,1,9,47,11,18,26,13,61,2,11,1,135,48,834,17,74,530,188,11,15,29,1,158,234,31,193,146
 Morocco AI	6792,3212
 Morocco Copyright	13729
 Morocco Country Climate and Development Report	14627
@@ -414,6 +418,7 @@ Morocco and Nigeria	2607,969,2768,25
 Morocco and Pakistan	5950
 Morocco and Philippines	6692
 Morocco and Senegal	1729
+Morocco and South Africa	15308
 Morocco and Tunisia	4150,2415,1228,157
 Morocco and Tunisia. MAM March-April-May Mashreq Countries	2775
 Morocco and Vertiv	8245
@@ -443,6 +448,7 @@ Morocco-Gabon	5797
 Morocco-Science-and-Technology-Cooperation.pdf	1234
 Morocco-based	7518,1
 Morocco. Across Africa	5800
+Morocco. As Africa	15120
 Morocco. As Orange Maroc	4066
 Morocco. Casablanca-Settat	1244
 Morocco. Due	10378
@@ -520,11 +526,14 @@ Mortalidade Neo Natal	11537
 Mortalidade Perinatal	10777
 Mortalidade Relacionada	10777
 Mortalidades	11537
-Mortality	10780,805,566,187,29,16,30,58,492,1079
+Mortality	10780,805,566,187,29,16,30,58,492,1079,1014
 Mortality Assessment Survey	12413
+Mortality Data Analyst- RBC	15056
 Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1,135
 Mortality Mortality	12655
 Mortality Rate	4167,35,15,43,1092,5428
+Mortality Statistics	15056
+Mortality Statistics Indicator	15056
 Mortalité	11123,2177,1270
 Morte	10754,706,7
 Morte Neonatal	11537
@@ -551,7 +560,7 @@ Mory Condé	4945,3033,2632,81
 Mpho Morolong	3360
 Mr. Pedro Manuel Moreno	13042
 Ms Nathaniel Morel	10112
-NMR Neonatal Mortality Rate NSDS National	12413
+NMR Neonatal Mortality Rate NSDS National	12413,2643
 Nacional. Campanha de Moralização	10750
 National Committee Morocco Mr. Khaled Barrada	2958
 National ID Card Morocco No N	10714
@@ -561,7 +570,7 @@ National Mortgage Registry	8087
 Nationale MOR.pdf	8891
 Nelson Morreira	11544
 Neonatal Mortality	12151
-Neonatal Mortality Rate	4349,8018,46
+Neonatal Mortality Rate	4349,8018,46,2643
 News Culture Moroccan Filmmaker and Rapper	5407,676
 News Moris	14801
 News Moris Editor Severe Yellow Alert	14801
@@ -572,7 +581,7 @@ Nigeria and Morocco. South Africa	6938
 Nigeria. Morocco	1436
 Nita Morgan	7253
 Nombre Mortalité Mortalité Mortalité	13300
-Nompilo Morafo	8579
+Nompilo Morafo	8579,6739
 O Fundo Morabeza	3709
 OECD Digital Government Review of Morocco	11593
 OPINION OF J.P. MORGAN SECURITIES LLC	7198
@@ -590,6 +599,7 @@ Par Damba Morlaye	9844,428
 Para Almudena Morante	12840
 Paulo Morais	11696
 PayChangu CEO Morgan Tembo	3035
+Perinatal Mortality	15247
 Philip Morris Products S.A	12977
 Philip Morris Project	12977
 Philip Morris Project The Deputy Prime	12977
@@ -600,6 +610,7 @@ Portugal and Morocco Revisit Proposed	965,3924,206
 Portugal. Morocco	2837
 Post de Mory CISSE	9474
 Practice While Morocco	9431
+Pregnancy-related Mortality	15247
 Pregnancy-related Mortality. Appendices	13454
 Presidency Kenny Morolong	10441
 Probabilidades da Mortalidade Adulta	10777
@@ -613,6 +624,7 @@ Rafael Marques de Morais	9399
 Rapid Reduction of Maternal and Child Mortality32	10829
 Rapport de Mortalité Maternelle	13300
 Rate ASMR Age Specific Mortality Rate	12151
+Rate ASMR Age-Specific Mortality Rate CBR	15056
 Raya Data Center. Morocco	3859
 Real-Time Gross Settlement System of Morocco	6938
 Records of Conservator of Mortgages	14828,3
@@ -630,7 +642,7 @@ STARLINK INTERNET SERVICES MOROCCO	5830
 STRATEGIC ARCHITECTURE ENHANCING MORALE AND MOTIVATION	14760
 Salaam. Moraes	2816
 Scaling MoRENet's International Bandwidth	3840
-Second Mortality Assessment Survey MCCoD Medical	12413
+Second Mortality Assessment Survey MCCoD Medical	12413,2643
 Security Interests and Mortgages	14647
 Senegal and Morocco. SSA	331
 Senegal’s Diamniadio Lake City and Morocco’s Mohammed	4563
@@ -683,9 +695,12 @@ V2 and V1. Morocco and Egypt	10840,1054
 VC Fund Managers Morocco Beltone Venture	4972
 VISION OF THE DIGITAL MOROCCO	1885
 Vertiv Africa MD Wojtek Piorko and Morocco	8245
+Vicente A. Garcia Moreno	14897
+Vicente Garcia Moreno	15064
 Viet Nam and Morocco	10846
 Vietnam Georgia Morocco Indonesia Kenya Cambodia	7655
 Voltage M&E Monitoring and Evaluation MASEN Moroccan	11549
+WTO E-Commerce Moratorium Debate	14932
 WTO Moratorium	2117
 Within the MOR	12500
 World Bank Open Data Mortality	10881

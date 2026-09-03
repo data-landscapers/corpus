@@ -7,6 +7,7 @@ Add Additional EX189-SEC Exagrid	11209
 Administration and Management of Examinations	13477
 Africa Examining	4442
 Amateur Radio Examination US	736
+Annual Examples	15164
 April. Examples	13341
 Assess Enrol EXAMPLE AI-enabled	11156
 Assessment and National Examination	13960
@@ -16,6 +17,7 @@ AÑO QUE SE EXAMINA	3179
 Bar Examination	12972
 Bennett S. Examining	3791
 Botswana Examinations Council	12574
+Breast Cancer Examinations	15247
 Brief&lang exact	13579
 Bright Chiwama Published By Examinations Council	13477
 C1- C6 List of Examinations Conducted	14775
@@ -23,11 +25,13 @@ CLOSED EXAMINATION OF DATA PROVISIONS	1243
 Caractéristique Examen du Prise	13300
 Case Example of Thailand	226
 Case Studies E.1 Global Implementation Examples	11952
+Cervical Cancer Exam	15247
 Ciências Exactas	11472
 Classification Definition Examples Residency Security Level	5244
 Confidential Attributes Symbol Example Process Name	9124
 Curriculum and National Examination	13956
 DELIVERY CHAIN PHASE Provide Manage EXAMPLE	11156
+Data Controller. Examples	15058
 Data Explanation Example Good Poor Definition	12360
 Deeds Examination and Registration	13251
 Digitize National Exams	4670
@@ -59,15 +63,15 @@ Eritrean Secondary Education Certificate Examinations GER	13960
 Esq. The Examinations Council of Zambia	13477
 Eswatini ECESWA Examination Council of Eswatini ECOT	12975
 Ethiopian Higher Education Entrance Certificate Examination	13991
-Exa Agent	9605,670
+Exa Agent	9605,670,4591
 Exa web fetch exa	14680
 ExaGrid	11209
 ExaGrid Backup Storage. ExaGrid	11209
 ExaGrid and HPE The IDC	11209
 Exabeam	2824
 Exacciones Parafiscales	4209
-Exacerbating	14487,236
-Exact	379,25,241,5,35,732,724,87,6378,2240,2984
+Exacerbating	14487,236,619
+Exact	379,25,241,5,35,732,724,87,6378,2240,2984,1126
 Exact CapEx	1174
 Exact KOICA	907
 Exact Omidyar	514
@@ -84,7 +88,7 @@ Exam Processing System	13477
 Exame	549,2267,9959
 Exame de Saúde Pós-Natal	10777
 Exame de Saúde Pós-natal	10777
-Examen	2377,1715,5420,1364,1106,1318,142,82,900,1,112
+Examen	2377,1715,5420,1364,1106,1318,142,82,900,1,112,324,265
 Examen Effectif	13300
 Examen Périodique Universel	10826,2912,56
 Examen Périodique Universel. Les Comores	13794
@@ -92,7 +96,7 @@ Examen des Dossiers Programme Résultats	3396
 Examen du Rapport Périodique	10826
 Exames	10777
 Examinar	1701,9748
-Examination	3,8351,1842,2031,402,346,168,168,74,92,1193
+Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536
 Examination Centre	13477
 Examination Centres	13477
 Examination Council	899,1786,2,359,86,176,15,119,65,590,447,96,374,93,240
@@ -112,7 +116,7 @@ Examinations Council of Zambia Prof. Frank Tailoka	13477
 Examinations Council of Zambia. Candidates	13477
 Examinations Grade	11220
 Examinations and Examination Materials Section	13477
-Examine	5677,6317,451
+Examine	5677,6317,451,2420,132,345
 Examine NGSO	5680
 Examined	1958,7781
 Examiner	747,8144,1985,2592,64,311,694,37
@@ -120,7 +124,7 @@ Examiners	13532
 Examiners of Deeds	13251
 Examines	1004,7601,3609
 Examinez	747,12721
-Examining	226,1460,832,2158,3083,3269,107,21,55,1128,30,943,2
+Examining	226,1460,832,2158,3083,3269,107,21,55,1128,30,943,2,1547,4,132
 Examining Bodies	7832
 Examining Brazil	5366
 Examining E-Government Development Effects	5349
@@ -130,7 +134,7 @@ Examining the Job Creation and Workforce Potential of AI	7588
 Examining the Linkages Between Digitalisation	5349
 Examining the Mediating Role of ICT Regulatory Environment	5349
 Examiné	8735,1,150,1075,3339
-Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11
+Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11,288,39,17,10,182
 Example A County Public Service Board	14524
 Example Afya Nzuri National Hospital	14524
 Example Commission	14524
@@ -165,10 +169,11 @@ Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
 Example. The Kenya Social Security Agency	14524
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98
 Examples for Section	8530
 Examples of Bid	14778
 Examples of Data	14434
+Examples of Digital Businesses	14897
 Examples of G2P	11130
 Examples of M-PESA	11994
 Examples of Notable Enforcement	11896
@@ -211,6 +216,7 @@ Integration of ExaGrid Backup Storage	11209
 International Example	3861
 International Examples Show This Can Work	7648
 Introduction and Examples	13341
+It's Exam Season	15166
 JSSL Examination ECZ Executive Director	13477
 Junior Secondary Examinations	13477
 Junior Secondary External Examination	13477
@@ -228,6 +234,7 @@ LISTÉ DANS Exactement	13300
 Leaving Examinations	13477
 Level Description Examples Public	11952
 List of Examinations Conducted	14775
+MOECHE Examination System	15202
 Malawi National Examinations Board	12175,1302
 Matches Exa	3098
 Mauritius Examination Syndicate	14836
@@ -238,13 +245,16 @@ Microsoft Professional Exam Vouchers	13095
 Mozambican Example	3861
 NABTEB National Business and Technical Examinations Board	11860
 NECO National Examinations Council	11860
+NESA National Examination and School Inspection Authority	14922
 Naming Systems Example	6666
 Nation Address SSE Substantive Search and Examination	11250
 National Examination	12151
 National Examination Council of Tanzania	10196
+National Examination and School Inspection Authority	14922
 National Examinations	13310
 National Examinations Council of Tanzania	10196,479
 National Examinations. The Secondary	13310
+National Exams	14969
 Nicolas Nkhuwa Public Relations Manager Examinations	13477
 Note Examiner	13532
 Number of Examination Centres	2775
@@ -261,6 +271,7 @@ Past Exam	11220,21
 Physical Examinations	13053
 Practical Examinations	13356
 Preliminary Examination of Bids	14766
+Primary Examination	14896
 Primary School Examination Centres	13477
 Primary School Leaving Examination	7671,5806
 Primary School Leaving Examination. Parent	13477
@@ -293,7 +304,9 @@ South Africa. Examples	396
 Statistics KNEC Kenya National Examinations Council	2775
 Strategy Example	10775
 Substantive Search and Examination	11250
+Sudanese Certificate Examinations	15166
 TAPE ACTION ENREGISTREMENT ET EXAMEN PRELIMINAIRE	14424
+TAX EXAMPLES PURPOSE Turnover Digital Market	14932
 TRI DE LA PLAINTE Examen	14424
 Technical Description Example Profile Framework	1009
 Technical Examinations Unit	258

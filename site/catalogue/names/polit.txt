@@ -17,6 +17,7 @@ Anoumbuandem Benvolio Lekunze Faculty of Laws and Political	10979
 Apr Political and Governance	12267
 Archaeology and Political Studies	6946
 Assembly Political Pluralism Civil Society Space	10759,78,1315,188
+Attributions du Comité de Politique	15102
 Authority RPPF Represented Political Parties’ Fund	5533
 Bachelor of Political Science	6946
 Bilateral Political Consultations	14668
@@ -41,15 +42,16 @@ Central African Rep. Yes Politique	11529
 Centre for Alternative Political and Economic Thought	12069
 Centro Profesional Politécnico Modesto Bata Añisok	4209
 Chin J Int Polit	5242
+Chinese People's Political Consultative Conference Wang	15272
 Civic Politics	6947
-Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753,308
+Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753,308,119,13,15,118
 Civil and Political Rights CCPR-OP1	14742
 Civil and Political Rights CDU	14742
 Civil and Political Rights ICERD International Convention	12201
 Civil and Political Rights and International Covenant	13040
 Civil and Political Rights. Article	10453
 Civil and Political Rights.31 B. International	3583
-Comité de Politique	2623
+Comité de Politique	2623,12479
 Comité de Politique Monétaire	8316
 Commissioner for Political Affairs	14325
 Commissioner for Political Affairs Peace and Security	5825
@@ -117,6 +119,7 @@ Heather Marquette. Thinking and Working Politically	11006
 High Commissioner for Refugees RPPF Represented Political	11986
 High-Level Advocacy and Political	13095
 High-Level Political	14137
+High-Level Political Forum	15191
 History and Political Studies	6946
 História Organigrama Politicas	11358
 III. POLITICAL CONTEXT	12201
@@ -137,6 +140,7 @@ Instituto Superior Politécnico Tundavala	10780
 Instituto Superior Politécnico de Tecnologia	11632
 Instruments de Politique	643
 Integration of Politics	11006
+Internal Factors I. Political	14965
 International Political Economy	4676,6458
 Into Continental Opportunity At African Political	4114
 Italian Institute for International Political Studies	4676
@@ -145,6 +149,7 @@ Journal of Law and Political Economy	2096
 Journal of Political Economy	9759
 K. Political	7886
 Knowledge Politics and Imagining the Future of AI	4253
+Komite Ishinzwe Politiki	15102
 La Politique	1679,11662,101,1046,1,1
 La Politique Nationale Qualité	13329
 La Politique Nationale de Développement des TIC	13290,16
@@ -154,6 +159,7 @@ Lack of Political Will	1261
 Latest News Inside Politics	9940
 Launches the Political Economy of Digital Governance Report	5715
 Law of Political Campaign	12201
+Le Comité de Politique	15102
 Le Document de Politique Budgétaire	3396
 Leadership and Political	14750
 Lectures22 Commentaires PolitiquePastef Tivaouane	4960,62
@@ -175,17 +181,20 @@ Mmegi's African Politics	6141
 Mozambique. Political Relations	2667
 Mt Kenya Inside Politics Linda Mwananchi	9940
 NACIONAL DE ALIMENT. BACHILLER. POLITECNICO DISTRITAL	4209
+NBR. Le Comité de Politique	15102
 NMD Nouveau Modèle de Développement PE Politique	7655
 National and Inclusive Political Dialogue. Chemane	10139
 Nicaragua No Niger Yes Politique Sectorielle	11529
 Nigerian News POLITICS Osun Governorship	9876
 Nouvelle Lettre de Politique Foncière	14598
+November. World Politics Review	15342
 ODM Inside Politics Justin Muturi	9940
 Opportunities Threats Political Favourable	13005
 PART APPLIES Political	3714
 PM Where Politics and Prose	42
 PNDTIC Politique Nationale de Développement des Technologies	13331
 POLITICA SEGURIDAD CORPOR. PROTECCIÓN FRONTERAS	4209
+POLITICAL	14929
 POLITICAL AND LEGAL STRUCTURE OF MAURITIUS	14742
 POLITICAL CONTEXT Traditional	12201
 POLITICAL ECONOMY The DRC	11960
@@ -214,13 +223,15 @@ Politely	6041
 Politi	13325
 Politica Nacional De Proteção Social	11547
 Politica de Seguranca Cibernetica	795
-Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616,452,106
+Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616,452,106,44,17,69,255,122
 Political Advisor	10509
 Political Affairs	7182,270,6957,102
 Political Affairs ARTICLE	14409
 Political Alignment	7869
-Political Bureau	362
+Political Behavior	15342
+Political Bureau	362,14709
 Political Champion	11266
+Political Communication	15342
 Political Context and Outlook	13885
 Political Crime	12346
 Political Decentralization	13418
@@ -248,12 +259,12 @@ Political Legitimacy President Adama Barrow	10062
 Political Mindset	13418
 Political Objectives	13948
 Political Parties	1630,247,1706,4339,5459
-Political Parties Act	1630,11357
+Political Parties Act	1630,11357,1865
 Political Parties Act No	1630
 Political Parties Funding Act	11986
 Political Parties SADC PF Norms and Standards	12201
 Political Parties. The Political Party	1630
-Political Party	1630,6239,4332,1180
+Political Party	1630,6239,4332,1180,1471
 Political Party Alignment	7869
 Political Party Campaign Funding	12652
 Political Party Funding Act	5533,6453
@@ -269,11 +280,13 @@ Political Reckoning	4619
 Political Regimes and Inflows of Foreign Direct Investment	11310
 Political Regions	13081
 Political Representation	7452
+Political Rights	14852
 Political Risk	11310
 Political Risk Insurance	11310
 Political Risk and International Valuation	11310
 Political Science	11682,326
 Political Situation	7452
+Political Stability and Absence of Violence	14897
 Political Stabilization and Reform	11586
 Political Structure	14742
 Political Terror Scale RSF Reporters	10759,78,1052,451
@@ -282,7 +295,8 @@ Political Will	5349
 Political Will and Legal Foundation Building the Foundation	14137
 Political and Economic Integration	1814
 Political and Economic Origins of Our Time	5700
-Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588
+Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588,990,27,39,55
+Political and Governance High	15190
 Political and Governance Substantial	11380,525
 Political and Institutional Dimension	5676
 Political and Legal Structure of Mauritius	14742
@@ -295,9 +309,10 @@ Politicas	2816,8542
 Politicas Públicas	10768
 Politicians	2093,3706,1467,446,2228,3030
 Politicisation of Climate Policy	13532
+Politicised	15342
 Politico	10527
 Politico Europe	11050
-Politics	2518,1097,1061,673,626,412,3012,9,353,308,19,207,110,48,73,545,64,1505,18,2084
+Politics	2518,1097,1061,673,626,412,3012,9,353,308,19,207,110,48,73,545,64,1505,18,2084,595
 Politics Becomes	9399
 Politics Conference	7886
 Politics Editor	12521
@@ -328,6 +343,7 @@ Politics. Penguin Random House	12227
 PoliticsDigest.ng	4738
 Politicsweb	10058
 Politik-	615
+Politiki	14861,241
 Politiqu	13325
 Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198,302,547,1,47,146
 Politique Economique	6163,1492
@@ -366,7 +382,7 @@ Politique de Sécurité des Systèmes	10874,265
 Politique des Technologies	13290
 Politique-monetaire	8891
 Politiquement	12068
-Politiques	6500,4326,2464,40,60,1034,1
+Politiques	6500,4326,2464,40,60,1034,1,436
 Politiques Deuxième	13442
 Politiques Internes de Lutte	14450
 Politiques Pacte International	13442
@@ -385,7 +401,7 @@ Politécnico Tundavala	10780
 Politécnicos de Malabo	4209
 Progress and Challenges C. Political	13969
 Projet de Politique Nationale Qualité du Burundi	13329
-Proposed Rating Political and Governance	6579,349,949,4111
+Proposed Rating Political and Governance	6579,349,949,4111,2992,179
 Proposed Rating Political and Governance Moderate Moderate	13027
 Province Political Party Number	12201
 Province Political Party Number of Mandates Niassa	12201
@@ -412,6 +428,7 @@ Review of Politics	5700
 Risk Category Proposed Rating Political and Governance	11395
 Role of Political Risk Insurance	11310
 Routledge Handbook of Language and Politics	11028
+Réunion du Comité de Politique	15102
 SECURITY AND POLITICAL STABILITY On the State	7452
 SUIVI DE LA POLITIQUE D’ENDETTEMENT DES	2342
 Sanctions and Politically Exposed Person	5369

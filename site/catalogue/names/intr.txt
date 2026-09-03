@@ -2,20 +2,23 @@ A. INTRODUCTION	3862,1251,7867,1151
 A. Introduction	1828,9028,2603,165,273,854,26
 A. Introduction Text Figure	13624
 A. Introduction The African Union Agenda	10856
+A. Introduction This Restructuring Paper	14971
 A. Introduction and Policy Context	10997
 A.1 Introduce	14723
+A.1 Introduction	15247
 A5.3 Introduce ICT	14729
 ABBREVIATIONS INTRODUCTION SECTION	14434
 ACRONYMS AND ABBREVIATIONS EXECUTIVE SUMMARY Introduction	12701
 ADDITIONAL FINANCING A. Introduction	11965
 ADDITIONAL FINANCING A. Introduction B	13860
 AIDE-MEMOIRE I. INTRODUCTION	13737
+AMIR NBR X Introduce	15130
 Abraham Alutuli and Musonda Mbalazi Introduction	13532
 Abstract Introduction	10940
 Abstract Introduction Literature	8021,1,108
 Abstract Introduction Research	7759
 Afrobarometer Working Papers Introduction Institutional	7886
-Aide Memoire I. INTRODUCTION	12595,783,14
+Aide Memoire I. INTRODUCTION	12595,783,14,1627
 Aide Memoire I. Introduction	2989
 Aide-Memoire I. INTRODUCTION	13875
 Aide-Mémoire A. Introduction	14010
@@ -27,7 +30,7 @@ Audio By Carbonatix I. Introduction	11036
 Authors. Introduction Licensee	9237
 Avance Intra Journalière	13452
 B. Introduction	13523
-B. Introduction and Context	761,11651,14,243
+B. Introduction and Context	761,11651,14,243,2285
 B. Introduction and Context Country Context	1704,587,1165,7507,2148,676,6,44,178
 B. Introduction and Context Country Context Madagascar	14553
 B. Introduction and Context Country Context Mozambique	12832
@@ -38,6 +41,7 @@ Bank Introduction	1988
 Basic Introduction	14745
 Blog Introducing the Changemaker Fellowship	11006,1
 Body A. INTRODUCTION	12597
+Body Contents INTRODUCTION	15023
 Body Introduction	12852
 Boosting Intra-Africa Trade	14138
 Botswana Speaks IntroductionBotswana	12641
@@ -47,14 +51,19 @@ CASE STUDIES GUIDANCE Introduction REUTERS	5618
 CBN Introduced These Measures	9750
 CEMAC Introduction Depuis	11944
 CHAPTER ONE A. INTRODUCTION The Year	3862
+CHAPTER ONE INTRODUCTION	15244
 CM4 Channel Platforms Development Introduce	12917
 COMMERCIAL INTRA CITY COURIER SERVICES OPERATOR	1223
 CONTENT Bill for Introduction	7832
 CONTENTS FOREWORDS EXEC SUMMARY INTRODUCTION FINDINGS	5618
+CONTENTS I. INTRODUCTION	15161
 CONTENTS INTRODUCTION	14748
 CONTENTS Introductory Remarks	14819
+CONTENTS Page Introduction	14853
 Capacity Building Cloud Services Directives Introduction	9123
 Chair's Introduction	3513
+Chapter I Introductory Provisions	14865
+Chapter Section Topic One Introduction	15244
 Chatbot Government Intranet Systems	14752
 Citation Introduction	12098
 Commercial Intra-city Courier Service Licence	1223
@@ -62,7 +71,7 @@ Commercial Intra-city Courier Services Certificate	1223
 Commercial Intra-city Courier Services Licence	1223
 Content Introduction	14784
 Contents IV Introduction	11879
-Contents Introduction	2958,8018,28,396,474,90,382,1725,764
+Contents Introduction	2958,8018,28,396,474,90,382,1725,764,54
 Contents Introductory Comments Summary Findings Detailed	7869
 D14 and D20. Introduces	8605
 DE PAIEMENT I.1. Introduction	13452
@@ -98,13 +107,18 @@ Ethiopia I. INTRODUCTION	12500
 Events KAUTRA Introduces Smarter Onboard Ticketing	3907
 Executive Summary I. Introduction	10841
 FINANCING A. Introduction	1284
+FINANCING Introduction	15138
 FSDS II and NFIS II. INTRODUCTION	12701
 Facilitating Intra-African Trade	12962
+Federal Republic of Somalia Contents I. Introduction	15014
 Figure O.3 Africa’s Extra- and Intraregional Exports	11149
 Fintech Stakeholders’ Notes Introductory	14819
 Firewall and Intrusion Detection	12253
 Founder and CEO of Intron. At Branch International	11497
 Framework for High-Value Intra-Af-	6938
+GENERAL INTRODUCTION	14922
+GENERAL INTRODUCTION1	14922
+GOVERNANCE FINALIZED Introduction Under	14925
 GOVERNANCE Introduction	11198
 GRN Intranet	12325
 GSM Association Introduction Benin Ghana Digital	10822
@@ -124,10 +138,10 @@ HUMAN RESOURCE MANAGEMENT Introduction	11198
 High Intrinsic Risk	11156
 Host Intrusion Detection Systems	1000
 I. INTRODUCCIÓN	1701
-I. INTRODUCTION	10765,1430,385,8,10,324,34,98,6,63,908,406,53
+I. INTRODUCTION	10765,1430,385,8,10,324,34,98,6,63,908,406,53,671
 I. INTRODUÇÃO	12787
 I. INTRODUÇÃO Desde	4146
-I. Introduction	235,6597,5954,656,518,51,11,127,1
+I. Introduction	235,6597,5954,656,518,51,11,127,1,864
 I. Introduction South Africa	6832
 I.1. Introduction	13452
 ICE IV Project Propels Intra Asia	2677
@@ -151,15 +165,16 @@ INTRODUCCIÓN	1701
 INTRODUCCIÓN Fue	1701
 INTRODUCCIÓN I. INTRODUCCIÓN	1701
 INTRODUCING THE WHISTLEBL WER HOTLINE NamRA	13044
-INTRODUCTION	10,386,23,299,47,175,58,2,161,82,5,562,178,530,258,3,382,235,255,63,73,75,265,233,99,389,35,13,348,1,293,117,777,766,350,806,250,795,1376,44,39,17,38,1,8,38,5,15,149,55,8,4,15,5,2,6,4,8,12,14,23,4,9,559,3,92,91,47,150,13,80,27,43,41,9,89,59,1,10,9,54,26,58,153,11,21,24,2,1,2,3,1,27,35,13,3,67,168,5,6,9,23,12,12,24,9,71,13,10,16,185,200,80,102,157,199,1,1,16,1,2,80,5,44,150,67,44,6
+INTRODUCTION	10,386,23,299,47,175,58,2,161,82,5,562,178,530,258,3,382,235,255,63,73,75,265,233,99,389,35,13,348,1,293,117,777,766,350,806,250,795,1376,44,39,17,38,1,8,38,5,15,149,55,8,4,15,5,2,6,4,8,12,14,23,4,9,559,3,92,91,47,150,13,80,27,43,41,9,89,59,1,10,9,54,26,58,153,11,21,24,2,1,2,3,1,27,35,13,3,67,168,5,6,9,23,12,12,24,9,71,13,10,16,185,200,80,102,157,199,1,1,16,1,2,80,5,44,150,67,44,6,34,5,8,28,6,21,23,39,51,4,4,116
 INTRODUCTION A Census of Population and Housing	13367
 INTRODUCTION A DPIA	13381
 INTRODUCTION AND BACKGROUND	34,12294,645
 INTRODUCTION AND LEGAL FRAMEWORK	9855
-INTRODUCTION AND METHODOLOGY	13644
+INTRODUCTION AND METHODOLOGY	13644,1412
 INTRODUCTION AND MISSION	10819
 INTRODUCTION AND MISSION The Smart Africa	10819
 INTRODUCTION AND PURPOSE OF THIS CIRCULAR	4896
+INTRODUCTION AND SCHOOL CENSUS METHODOLOGY	15087
 INTRODUCTION AND SUMMARY OF ENFORCEMENT INTERVENTIONS	8354
 INTRODUCTION AND SURVEY METHODOLOGY	13454
 INTRODUCTION AND THE PARTIES	14673
@@ -171,6 +186,7 @@ INTRODUCTION Au	13468
 INTRODUCTION Au Burkina Faso	10875
 INTRODUCTION Aux	10821
 INTRODUCTION Avec	6146
+INTRODUCTION BY THE MINISTER	14879
 INTRODUCTION Background	12508
 INTRODUCTION Being	1000
 INTRODUCTION Bonjour	13390
@@ -184,6 +200,7 @@ INTRODUCTION Data	961
 INTRODUCTION Despite	14487
 INTRODUCTION European Union	11156
 INTRODUCTION INTRO DUCTION The African Trade	13357
+INTRODUCTION In Sudan	15036
 INTRODUCTION Injustice	14675
 INTRODUCTION LCA	12681
 INTRODUCTION La Banque Mondiale	13290
@@ -214,6 +231,7 @@ INTRODUCTION The Electoral Act	12054
 INTRODUCTION The Eswatini Communications Commission	13178,40
 INTRODUCTION The European Union	12201
 INTRODUCTION The Government Enterprise	14441
+INTRODUCTION The Government of Rwanda	14935
 INTRODUCTION The Lesotho Communications Authority	12763
 INTRODUCTION The Medium-Term System Adequacy Outlook	11228
 INTRODUCTION The Ministry of Information	12971
@@ -227,6 +245,7 @@ INTRODUCTION The Nigerian Bar Association	10049
 INTRODUCTION The Office	1630
 INTRODUCTION The South African	11196
 INTRODUCTION The State	11211
+INTRODUCTION The Sustainable Development Goal	15063
 INTRODUCTION This Quarterly Statistical Bulletin	2776
 INTRODUCTION Tous	13290
 INTRODUCTION Zimbabwe	13368
@@ -267,6 +286,7 @@ Intra-African Trade Fair	3440,2687
 Intra-African Trade Finance Overall	10718
 Intra-African Trade.....12 Figure	10718
 Intra-COMESA	3737,9826
+Intra-City Courier Operators	15136
 Intra-Daily Advances	10853
 Intra-European Organisation of Tax Administration	12948
 Intra-Government Committees	5244
@@ -274,8 +294,10 @@ Intra-Governmental Data Access	11995
 Intra-Governmental Data Access Access	11995
 Intra-agency	5244
 Intra-cluster	11136
+Intra-data	15149
 Intra-group Data Protection Impact Assessment WhatsApp	5113
 Intra-regional	9761
+Intra-sector	14896
 IntraAfricanTrade	9034,482
 IntraHealth International Inc	1503
 Intracontinental	10841
@@ -300,26 +322,30 @@ Intrinsic Risk Profile	11156
 Intrinsic Risk Worksheet Tool	11156
 Intrinsic Risks	11156
 Intro Technology	10380
+Intro URL	15237
 IntroModule	10848
+Introduc-	14897
 Introducao	2228
 Introducción	1701
-Introduce	396,604,257,571,160,1653,485,1407,903,396,104,559,1105,2165,10,185,47,149,120,664,37,9,12,216,27,115,319,242,88,290,15,4,554,154,544,35,73,103,41,1
+Introduce	396,604,257,571,160,1653,485,1407,903,396,104,559,1105,2165,10,185,47,149,120,664,37,9,12,216,27,115,319,242,88,290,15,4,554,154,544,35,73,103,41,1,60,18,35,65,167
 Introduce Broadband State Ranking Report	11857
+Introduce CBLO	14997
 Introduce Competitions and Challenges	12675
 Introduce GenderResponsive Public Procurement	12389
 Introduce ICT	12453
+Introduce MINECOFIN	14997
 Introduce Proportional Local Talent Regulation	12444
 Introduce Quality	13320
 Introduce R&D	4126
 Introduce Targeted Incentives for Fintech Investment and R&D	14819
-Introduced	2948,766,2635,1003,358,2982,254,549,106,49,340,1341,347,372,692,19
+Introduced	2948,766,2635,1003,358,2982,254,549,106,49,340,1341,347,372,692,19,505
 Introduced Project Guardian	9103
 Introduced the CHASE Framework	9103
 Introduces	2656,2575,3374,5996
 Introduces Digital Code	3153
 Introduces Mastercard	12270
 Introduces VISA	12270
-Introducing	34,1209,5,306,1335,893,1066,397,305,812,1010,1231,3138,6,499,417,299,10,148,2,209,1392
+Introducing	34,1209,5,306,1335,893,1066,397,305,812,1010,1231,3138,6,499,417,299,10,148,2,209,1392,174,100,167,129
 Introducing Apple Intelligence	13461
 Introducing Equiano	2677,1105
 Introducing GPTs. Available	13461
@@ -331,7 +357,7 @@ Introducing the Children's Climate Risk Index	3583
 Introducing the Fairwork Foundation	226
 Introducing the Reformed Hardship Support Scheme	12175
 Introducir	1701
-Introduction	25,211,160,23,8,146,9,165,1,17,9,125,59,47,8,174,31,61,84,70,5,159,105,35,41,36,10,160,4,105,3,134,46,66,474,132,10,203,230,250,146,53,19,3,265,87,218,96,35,20,149,2,106,56,228,8,110,4,1,102,14,77,93,41,24,77,5,20,80,629,14,3,16,348,2,1,39,59,45,12,1,2,8,122,70,397,183,20,38,97,244,330,380,51,212,26,48,222,339,1,20,22,74,114,59,34,126,49,9,104,33,343,3,33,1,1,11,66,1,2,12,45,18,18,19,19,4,6,19,3,10,11,22,83,1,2,20,36,3,2,39,1,13,2,6,1,6,4,2,15,10,14,90,1,68,76,5,2,11,18,69,230,1,24,11,11,17,8,3,1,2,6,22,8,1,11,19,18,5,40,2,8,40,13,24,7,9,2,3,14,17,6,7,15,47,25,6,23,2,9,9,7,12,16,2,6,26,67,21,1,3,1,2,18,21,21,57,2,4,11,1,84,148,14,10,1,3,35,8,9,3,15,16,3,12,1,3,13,23,19,13,40,37,24,71,10,10,8,3,1,1,1,6,21,6,9,2,1,16,43,102,23,101,5,12,20,38,6,4,45,67,97,18,19,7,9,2,4,3,6,27,38,19,33,17,287,37,6,2,62,12,3,16,78,31,1,54,13,3,2,1,25,2,15,25,15,2,3,1
+Introduction	25,211,160,23,8,146,9,165,1,17,9,125,59,47,8,174,31,61,84,70,5,159,105,35,41,36,10,160,4,105,3,134,46,66,474,132,10,203,230,250,146,53,19,3,265,87,218,96,35,20,149,2,106,56,228,8,110,4,1,102,14,77,93,41,24,77,5,20,80,629,14,3,16,348,2,1,39,59,45,12,1,2,8,122,70,397,183,20,38,97,244,330,380,51,212,26,48,222,339,1,20,22,74,114,59,34,126,49,9,104,33,343,3,33,1,1,11,66,1,2,12,45,18,18,19,19,4,6,19,3,10,11,22,83,1,2,20,36,3,2,39,1,13,2,6,1,6,4,2,15,10,14,90,1,68,76,5,2,11,18,69,230,1,24,11,11,17,8,3,1,2,6,22,8,1,11,19,18,5,40,2,8,40,13,24,7,9,2,3,14,17,6,7,15,47,25,6,23,2,9,9,7,12,16,2,6,26,67,21,1,3,1,2,18,21,21,57,2,4,11,1,84,148,14,10,1,3,35,8,9,3,15,16,3,12,1,3,13,23,19,13,40,37,24,71,10,10,8,3,1,1,1,6,21,6,9,2,1,16,43,102,23,101,5,12,20,38,6,4,45,67,97,18,19,7,9,2,4,3,6,27,38,19,33,17,287,37,6,2,62,12,3,16,78,31,1,54,13,3,2,1,25,2,15,25,15,2,3,1,19,2,20,2,16,2,8,27,1,18,13,33,10,27,2,20,29,11,24,9,1,17,43,15,15,82,40
 Introduction A. Contexte	1218
 Introduction A.1. General The Prime Minister	14778
 Introduction AI	7451,7115
@@ -354,10 +380,11 @@ Introduction Benin Ghana Policy	10822
 Introduction Benin Ghana Role	10822
 Introduction Big	8436
 Introduction Brief	11879
-Introduction CHAPTER	11156
+Introduction CHAPTER	11156,3741
 Introduction Cash	12978
 Introduction Ce	1187
 Introduction Chapter	11230
+Introduction Characteristics of Establishment	15085
 Introduction China	10350
 Introduction Civil	13425
 Introduction Content	7790
@@ -369,7 +396,7 @@ Introduction DPI	4981
 Introduction Dans	13841
 Introduction Data	14486
 Introduction Data Center	9123
-Introduction Digital	5242,5639,1113,1353
+Introduction Digital	5242,5639,1113,1353,1617
 Introduction EIMPA’s Mandate	12972
 Introduction Electronic	12379
 Introduction Enabel	10865
@@ -377,7 +404,7 @@ Introduction Enhanced Grievance and Case Management	14516
 Introduction Entrepreneurship	12376
 Introduction Estimates	13990
 Introduction Every	5863,6288
-Introduction Financial	12231
+Introduction Financial	12231,2892,7
 Introduction Financial Performance	1013
 Introduction Following	3840,10944,49
 Introduction General	11401
@@ -403,6 +430,7 @@ Introduction Mr. Chairman	12962
 Introduction Mr. President	11356
 Introduction Much	13661
 Introduction Nigeria	9750
+Introduction Numbering	15302
 Introduction Once	4676
 Introduction Open Government Data	12932
 Introduction Over	12246
@@ -412,21 +440,26 @@ Introduction Part	13385
 Introduction Planning	3791
 Introduction Pour	13375
 Introduction Poverty	10985
+Introduction Preamble	14889
 Introduction Quand	11669
 Introduction Recent	10718
 Introduction Recognizing	12896
 Introduction Robust	10764
 Introduction Role	14785
 Introduction Routine	12151
+Introduction Rwanda	15034,22
+Introduction Rwanda's Vision	14997
 Introduction S	4127
 Introduction Second	12227
 Introduction Section	10977
 Introduction Small	7759
 Introduction Smart	958
 Introduction Society	5246,454
+Introduction Somalia	15129
 Introduction Statistics	13359
 Introduction Submarine	3782
-Introduction Table	12534
+Introduction Sudan	14853
+Introduction Table	12534,2363
 Introduction Tertiary	14747
 Introduction The Annual Performance Report	14835
 Introduction The Asbestos Management Plan	1988
@@ -441,8 +474,10 @@ Introduction The Country Hydromet Diagnostics	14448
 Introduction The Democratic Republic	11912
 Introduction The ES	10976,1370
 Introduction The East African Community	14251
+Introduction The Education Sector Strategic Plan	14916
 Introduction The Electoral Commission	7266
 Introduction The Eswatini Higher Education Council	13078
+Introduction The Federal Ministry of Public Works	14934
 Introduction The Government	11941,1367
 Introduction The Government of Eswatini	418
 Introduction The Government of Lesotho	12674
@@ -457,7 +492,9 @@ Introduction The Mobile Gender Gap Report	11004
 Introduction The National Department of Health	11252
 Introduction The National Strategy	12210
 Introduction The Public Sector Investment Programme	14830
+Introduction The Quality of Service Reporting Guidelines	14867
 Introduction The Quarterly Labour Force Survey	11296
+Introduction The Rwanda Information Society Authority	15028
 Introduction The Skills Development Plan	12934
 Introduction The Social Cash Transfer Programme	12182
 Introduction The Standing Committee	11289
@@ -467,22 +504,26 @@ Introduction The Value Added Tax Act	14785
 Introduction The WATRA Working Group	5680
 Introduction The World Health Organization	1219
 Introduction The XMUVI	11258
-Introduction These Guidelines	8590
+Introduction These Guidelines	8590,6468
 Introduction This Annex	7548
 Introduction This Partnership Compact	12175,1815
 Introduction Tuberculosis	12678
+Introduction US	14897
 Introduction Undersea	2677
+Introduction Universal	14894
 Introduction WHEREAS the Republic of Mozambique	3861
 Introduction and Background	11265,1063,677,993
-Introduction and Context	1257,557,477,3385,2994,5330
+Introduction and Context	1257,557,477,3385,2994,5330,1164
 Introduction and Context VAT	8670
 Introduction and Examples	13341
 Introduction and MTN's First Standalone Stand	5752
 Introduction and Methodology	12672
 Introduction and Migration	5675
+Introduction and School Census Methodology	15087
 Introduction and Supply-Side Analysis	11195
 Introduction of Autofill	12041
 Introduction of Bronchoscopy	14773
+Introduction of Complementary Foods	15247
 Introduction of E-Query and Automated Shift Management	13053
 Introduction of Electronic Tax Filing	12948
 Introduction of Formal Training and Study Programmes	13998
@@ -527,6 +568,7 @@ Intrusion and Hold-up Alarm Systems	11269
 Intrusive Use of CCTV	11956
 J Introduction	2307
 KEY DIMENSIONS OF INTRINSIC RISK	11156
+Kenya Introduces Taxes	14932
 Kenya Uganda Conclusion Contents Introduction	10822
 Kenya Uganda Conclusion Introduction Africa	10822
 Kenya and Zambia Introduction How Africans	12435
@@ -544,6 +586,7 @@ MLR Introduced	12912
 MOT INTRODUCTIF	613
 MOTION INTRODUCTION OF AI-ASSISTED SYSTEMS	13591
 Mapa de Angola INTRODUÇÃO E METODOLOGIA	10777
+Medium Digital Public Platforms Introduce	14897
 Melinda Gates Foundation. INTRODUCTION Mobile	11902
 Microsoft Introduces	13461
 Mid-year Fiscal Policy Review INTRODUCTION	7695
@@ -574,6 +617,7 @@ P5 Introduce	12917
 PAM Enterprise Licenses for Intranet	10616
 PGES DATA CENTER PRINCIPAL I. INTRODUCTION	14489
 PGES DATA CENTER SECONDAIRE I. INTRODUCTION	14488
+POLICIES FOR RINEX INTRODUCTION	14864
 POLICY FOR ICT INTRODUCTION The Zimbabwe	958
 PREAMBLE Introduction	3051
 PRODIGY CODE DE CONDUITE PRODIGY INTRODUCTION	14424
@@ -597,6 +641,8 @@ Quick Introduction	11155
 RDC. Introduit	9296
 REPORT OF THE ACCOUNTING OFFICER Introduction	11218
 RESPONSE OF THE AUTHORITIES A. Introduction	14777
+RFL X Introduce	15130
+RWANDA I. INTRODUCTION	15102
 Regierung. Dieses Intranet	902
 Republic of Liberia Introduction	1777
 Rules of Origin for Enhanced Intra-African Trade	10841
@@ -630,6 +676,7 @@ Trade Finance Supply for Intra-African Trade	10718
 Trade Finance Supply for Intra-African Trade Intra-African	10718
 Transformation INTRODUCTION	13295
 UNECA INTRODUCTION	12338
+USD for Introducing	14897
 USE OF ARTIFICIAL INTELLIGENCE Introduction	14565
 UVOD INTRODUCTION Zdravstvenim	10780
 VIII Introduction	10874

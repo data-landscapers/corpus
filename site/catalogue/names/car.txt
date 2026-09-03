@@ -6,6 +6,7 @@ ACCIÓN CARTOGRAFÍA SEGUIMIENTO BIOKO SUR PROVINCIAL	4209
 ACCORD MANAGED CARE LTD Data Controller	7167
 ACEDENTAL CARE NAIROBI Data Controller INST-195846877C7	7167
 ACEDENTAL CARE NAIROBI Data Processor INST-195846877C7	7167
+ADEEGSIGA XOGTA CARRUURTA IYO DADKA AAN	15152
 ADFAAL KIDS CARE MEDICAL CENTRE LIMITED	7167
 ADU Caravan	10937
 AES Biometric Identity Card	6448
@@ -43,6 +44,7 @@ AUTRE CARNET DE SANTÉ KILOGRAMMES	13300
 AUTRES CARACTÉRISTIQUES DU LOGEMENT No QUESTIONS	13300
 AWPB Annual Work Plan and Budget CAR	10829
 AWPB. The World Bank CAR Health	10829
+Abandonment of SIM Card	15302
 Abbreviations ANC Antenatal Care DHIS District	771
 Abbreviations CAR Central African Republic CFA	4127
 Abdul Carimo Mahomed Issa Promulgated	12771
@@ -50,13 +52,17 @@ Abortion Care	13040
 Abortion and Postabortion Care	13040
 Absa's Head of Cards and Payments	9466
 Absence of Prevention and Community-Based Care	6534
+Accessing Health Care	15247
 Accueil du Cardinal Pietro Parolin	13405
 Across CAR	10829
 Actualité Lou Carine TRA	9620
 Adaptation Findings In CAR Possible Options	10829
+Adeegsiga Xogta Carruurta	15152
+Adequacy Ratio CAR Minimum	15023
 Adoption. Caribou Publishing	11007
 Advanced Cargo Declaration	9436
 Advanced Patient Privacy Consents and Care Services	1009
+Advanced Syn- Emergency Care	15206
 Advancing Youth Careers	13258
 AfriGO Domestic Card Scheme. Abuja	11138
 Africa Carbon Markets Summit	8674
@@ -112,10 +118,12 @@ Annexe E CARACTÉRISTIQUES DU MÉNAGE	13300
 Annual Digital Skills Report Card	6832
 Annual Eswatini Careers Fair	11134
 Annual Global Represent. Carestia de Vida	4209
+Annual Growth Rate CAR Capital	14997
 Answer Cards	13477
 Antenal Care	10829
 Antenatal Care	2775,10202,1090
-Antenatal Care Coverage and Content	13454
+Antenatal Care CBHI Community-Based Health Insurance	15138
+Antenatal Care Coverage and Content	13454,1793
 Anton Carniaux	6471
 António Carlos Semedo Hernâni Trigueiros João	11955
 Application for Carrying Out Controlled Activities	14113
@@ -167,6 +175,7 @@ BRR Belarus Identification Card	10714
 BRR Card	10714
 BRR National Identity Card System	10714
 Bahrain ID Card Yes F25 Aug	10714
+Ballot Card	14852
 Banco Interatlântico Ana Elizabeth Pires Carvalho	11955
 Banco de Cabo Verde António Carlos Moreira	11955
 Bangui. CAR	572,397
@@ -216,6 +225,7 @@ Burkinabé National Identity Card. Tanager	10830
 Burkinabé National Identity Cards	10830
 Business Education Careers Faire	12975
 Bâtiment CENTRE DE PERSONALISATION DES CARTES	14490
+CAF Caisse des Affaires CAR Capital Adequacy	15023
 CANCER CARE KENYA LIMITED Data Controller	7167
 CANCER CARE KENYA LIMITED Data Processor	7167
 CAPITAL CARE HOMES AND PROPERTY CONSULTANTS	7167
@@ -298,8 +308,13 @@ CARACTERÍSTICAS BÁSICAS DOS ENTREVISTADOS No IIMS	10777
 CARACTERÍSTICAS BÁSICAS DOS INQUIRIDOS	10777
 CARACTERÍSTICAS DA HABITAÇÃO	10777
 CARACTERÍSTICAS DA HABITAÇÃO O Quadro	10777
+CARACTÈRE PERSONNEL	14893
+CARACTÈRE PERSONNEL Article	14893
+CARACTÈRE PERSONNEL BWITE Article	14893
+CARACTÈRE PERSONNEL ET DE LA VIE	14893
 CARACTÈRE PERSONNEL L'ASSEMBLÉE NATIONALE	10894
 CARACTÈRE PERSONNEL Loi	10812
+CARACTÈRE PERSONNEL Section	14893
 CARACTÈRE PUBLIC L'Assemblée Nationale	14538
 CARACTÉRISTIQUES DE BASE DES ENQUÊTÉS	13300
 CARACTÉRISTIQUES DE L'ENQUÊTÉ No QUESTIONS ET	13300
@@ -345,6 +360,7 @@ CAREMAX HEALTH LIMITED Data Processor INST-19563682AC0	7167
 CAREPOINTE DENTAL SERVICES LIMITED Data Controller	7167
 CAREPRIME IMAGING AND DIAGNOSTIC CENTER LIMITED	7167
 CARES	789
+CARESOM	15178
 CAREVANTIS LIMITED Data Processor INST-4851980B97B TRANSZOIA	7167
 CAREVIEW IMAGING CENTRE LIMITED Data Controller	7167
 CARFO	416,6411,843,130
@@ -486,6 +502,9 @@ Car- Accident	12151
 Car- Diseases	12151
 Car- Diseases Pneumonia	12151
 Car- Pneumonia	12151
+Carabi	14930
+Carabigana	14859
+Carabta	14859
 Caractere Personnel	4237
 Caractere Personnel. Tags	4237
 Caracteristicas	574
@@ -596,7 +615,7 @@ Caractéristique Utilise	13300
 Caractéristique Violence Violence Violence Violence Violence	13300
 Caractéristique Vit	13300
 Caractéristique du DBS	13300
-Caractéristiques	737,494,1797,2333,2648,5291,178,328,618,146
+Caractéristiques	737,494,1797,2333,2648,5291,178,328,618,146,292
 Caractéristiques Pourcentage Effectif	13300
 Caractéristiques Protection	14537
 Carahsoft	3303
@@ -605,13 +624,17 @@ Caravane	8695,196
 Caravanismo	11458
 Caravelle	8999
 Caraïbes	3045,5846
-Carbon	4528,4595,1723,423,984,259,761,112,1351
+Carbeed	14859
+Carbon	4528,4595,1723,423,984,259,761,112,1351,261,30
 Carbon Dioxide	6946
 Carbon Emissions	6946,5287
+Carbon Enhanced	14997
 Carbon Environmental Barometer	1264
 Carbon Footprint of National Compute	4528,7984
 Carbon Market Regulations and Framework	9393
 Carbon Market Secretariat	9424
+Carbon Markets	14997
+Carbon Markets Framework	14997
 Carbon Markets. The Alliance	14774
 Carbon Neutral Commercial Sector	14830
 Carbon Neutral Industrial Scheme	14830
@@ -630,6 +653,7 @@ Carcoforo	10464
 Card Accountability	6832
 Card Act	14714
 Card Automated Teller Machine	12343
+Card Based Merchant Payments	15023
 Card Body Number	14740
 Card Centres for Deployment of New System	14741
 Card GRATUIT	14683
@@ -638,6 +662,7 @@ Card Insurance Scheme	13563
 Card Issuance	4848
 Card Issuance Senior Citizens Documents Required	14741
 Card Not Present	12392
+Card Operations	15054
 Card Point of Sale Switch	12343
 Card Printing Facility	13005
 Card Production Centers	10812
@@ -659,6 +684,7 @@ Card Verification Under New L.I	7369
 Card Verification Values	6848
 Card and PIN Personalization	14032
 Card and Visa	11955
+Card-based	15023
 Card-based Automated Teller Machine	11134
 Card-based PoS and ATM	11131
 Card-tied	8182
@@ -695,7 +721,7 @@ Cardiopulmonary	12151
 Cardiorespirato- Cardiopulmo-	12151
 Cardiorespirato- Injuries	12151
 Cardiorespirato- Pneumonia	12151
-Cardiovascular	12151
+Cardiovascular	12151,2905
 Cardno	7278
 Cardona	10964
 Cardoso	2397,444,891
@@ -706,6 +732,7 @@ Cards That Can't	9696
 Cards and Passports	11986
 Cardwell Makomo	13382
 Care Act	7845
+Care Connect	14977
 Care Dependence	6222
 Care Dependency Grant	7910
 Care Domain	1009
@@ -721,12 +748,14 @@ Care Services and Patient Care	12606
 Care and Protection Act	13097
 Care and Support for Teaching and Learning CTT Classical	12975
 Care and Treatment	1261
+Care and Treatment for Tuberculosis	15247
 Care. Nuff Trust	1219
 CareBridge	7750
 CarePay Devco Kenya Ltd Data Processor	7167
 CarePay Ltd. Data Controller INST-9782911BBB8 NAIROBI	7167
 CarePay Ltd. Data Processor INST-9782911BBB8 NAIROBI	7167
 Carece	11520
+Careem	14897
 Career	6946,2,105,2051,1672,538,33
 Career Card Logo	12215
 Career Center Building	9892,1
@@ -739,6 +768,8 @@ Career Guidance Department	12977
 Career Guidelines	6946
 Career Management Office	7973
 Career Paths	12996
+Career Selection Among Graduates	15146
+Career Support	14999
 Career Themed Event	13037
 Careers	13053
 Careers Error	11294,47
@@ -748,8 +779,8 @@ Careers Vacancies Speeches Documents Monetary Policy	12390
 Careers Vacancies Speeches Global Money Week	12390
 Careful	6202,2921,1216,1989,2395
 Carefully	2668
-Caregiver	11180
-Caregivers	10768
+Caregiver	11180,3958
+Caregivers	10768,4567
 Caregivers Adults and Retirees	14566
 Careless	14781
 Careless Investment My	13532
@@ -880,7 +911,7 @@ Carmen Reinicke	7343
 Carne	4209,6568
 Carnegie	2677,1906,967
 Carnegie Africa Program	5550,1240,5025
-Carnegie Endowment	2831,3772,605
+Carnegie Endowment	2831,3772,605,8134
 Carnegie Endowment for International Peace	491,2186,2565,60,2448,668,2012,710
 Carnegie Endowment for International Peace. A Black	5550
 Carnegie Mellon	9206,1595
@@ -976,10 +1007,11 @@ Carrier Hôtel	8540
 Carrier License Harmonized	13563
 Carrier NPS	6051
 Carrier Network	10588
+Carrier Neutral Data Centre	15149
 Carrier Sense Multiple Access	3604
 Carrier- Saharan Africa	10861
 Carrier-Neutral Green Centre	10404
-Carrier-grade	13915
+Carrier-grade	13915,1180
 Carrier-neutral	3184,1341,613,62,1176,4485,134,1432
 Carrier-neutral Data	3184,1,1340,6470
 Carrier-neutral Facilities	10781,80,3621
@@ -999,12 +1031,14 @@ Carrière	8436
 Carrière-Swallow	961
 Carrières	3396,7312,1383
 Carrosserie	2966
-Carry	1988,1490,200,4868,3410,193,77,27,27,78,31,241,287,205,192,544,90,833,26,11
+Carruurta	14859
+Carruurtu	14859
+Carry	1988,1490,200,4868,3410,193,77,27,27,78,31,241,287,205,192,544,90,833,26,11,61,43
 Carry Case	34
 Carry Home Never	7777
 Carry Out Internal Audits	14546
 Carry1st	673
-Carrying	1131,783,2673,2353,4241,724,451,174,523,350,1019
+Carrying	1131,783,2673,2353,4241,724,451,174,523,350,1019,475,90
 Carryout	12280
 Carrão H	10964
 Carse	5700
@@ -1119,6 +1153,7 @@ Cartões	8493,1621,663,2076
 Cartões Nacionais de Identificação	6571
 Cartões de Eleitor	10114
 Caruso	12144
+Caruurta	14859
 Carvalho	539,2536,3529,4159
 Carvalho Dionísio Manuel Título Resultados Definitivos	11421
 Carvalho GDA	10780
@@ -1173,9 +1208,10 @@ Citizen Card	10714
 Citizen ID Card	10714
 Citizen Identity Card	10765,10
 Citizen Identity Card Yes the E-Mongolia	10714
-Citizen Report Card	13418
+Citizen Report Card	13418,1517
 Citizen Report Card and Rwanda Governance Scorecard	13418
 Citizen Report Cards	13418
+Citizen Report Cards and Community Score Cards	14935
 Citizen Scrutiny Card	10714
 Citizenship Card	10714
 Citizenship Card No N	10714
@@ -1196,13 +1232,16 @@ Community-Based Chronic Care Lesotho	12712
 Comoros National Identity Card No N	10714
 Companion Card	10418
 Compassionate Family Carers Data Controller INST-7316470123B	7167
+Components of Antenatal Care	15247
 Comprehensive Abortion Care	12729
 Comprehensive Emergency Obstetric Newborn Care	4301
 Concrete Structures and Carting	14738
 Configuração da Carteira de Projectos	10783
+Congress Must Not Provide Statutory Carveouts	14932
 Connectivity Carrier Neutral	10956
 Consejo de Cargadores	8554
 Consejo de Cargadores de Guinea Ecuatorial	8554
+Consumer Care	14867
 Conteúdo da Cartografia Cadastral	11384
 Continua... Características	10777
 Continuação Características	10777
@@ -1266,6 +1305,7 @@ Day Care Centers	14835
 Day Care Centre	14742
 Death Death Cardiorespirato- Cardiopulmo-	12151
 Debit Card Users Decrease	11994
+Debit Cards Credit Cards Figure	15023
 Debit and Credit Cards	12392,1140
 Debora Carvalho	2401
 Del Carmen Caba-Pérez	2093
@@ -1273,6 +1313,7 @@ Deliver Excellent Patient Care	12529
 Delivery Care	14067
 Department of Primary Health Care	12606
 Department of Transport’s Driving License Card Account	2521
+Deployment of Non-Intrusive Cargo Scanners	14985
 Deputado Boaventura da Silva Cardoso	539
 Deputados Boaventura da Silva Cardoso	539
 Deputy Minister of Health and Child Care	10623
@@ -1283,6 +1324,7 @@ Despite the Ghana Card	1367
 Devices For Primary Health Care	10776
 Devlet Republic of Turkey Identity Card	10714
 Dhahabu Cancer Care LTD Data Controller	7167
+Diarrhea and Care-seeking Behaviour	15247
 Diaz-Garcia and Carvalho	7790
 Dieu. Selon le Cardinal Parolin	13405
 Digital Care	11656
@@ -1294,6 +1336,7 @@ Digitalization of Community Care Site	11892
 Diploma FICHA DE IDENTIFICAÇÃO E CARACTERIZAÇÃO	10783
 Diploma. SECÇÃO II CARTEIRA DE PROJECTO	10783
 Direct Carrier Billing	4224
+Director General of ICT Ahmed Carab Muuse	15002
 Direcção de Cartografia	11449
 Direitos Humanos Carlos Alberto Cavuquila	10752
 Disability Card	12916
@@ -1308,6 +1351,7 @@ Doter des Cartes	13341
 Douglas Carpenter. Avant	1189
 Dr. Albano Carige António	1808
 Dr. Carmen Emmel	14448
+Dr. Carpophore NTAGUNGIRA Chairperson	15081
 Dr. Rachele Carli	7112
 Dr. Ribeiro André José de Carvalho. Conversations	10776
 Dra. Ana Celeste Cardoso Direitos Humanos	10750
@@ -1363,9 +1407,9 @@ Eileen I Carter	10729
 Elderly Care Facilities	14748
 Elderly Day Care Centres	14742
 Electronic Care Sheet	7766
-Electronic Cargo Tracking	2392
+Electronic Cargo Tracking	2392,12593
 Electronic Cargo Tracking Note	3583
-Electronic Cargo Tracking System	8278,5162,619
+Electronic Cargo Tracking System	8278,5162,619,926
 Electronic Citizen Identity Card	10714
 Electronic Continuety of Care Record	11980
 Electronic ID Card	10714
@@ -1375,8 +1419,10 @@ Electronic Manifest Management System for Advance Cargo	13042
 Electronic National Identity Card	1754,19
 Electronic National Registration Cards	12435
 Elsie Appau-Klu Audio By Carbonatix	11038
+Emergency Care	15206
 Emergency Care Find Learn Get	9429
 Emergency and Critical Care	14120
+Emma Carter	15342
 Employment and Career Path Planning for France	8125
 Enabling the Processing of MOSOLO Card Transactions	11994
 Encargado de Carreteras	6841
@@ -1401,6 +1447,7 @@ F25 Electronic Identity Card	10714
 F25 Identity Card	10714
 FM The World Bank CAR Health	10829
 FM. The World Bank CAR Health	10829
+FMIS. Carry	15090
 FORMAÇÃO PROFISSIONAL DOS TITULARES DE CARGOS	11361
 FSR FSR- Carga	966
 FSR- Carga	966
@@ -1411,6 +1458,7 @@ Femme Homme Caractéristique Radio Télé- Journal	13300
 Femmes Hommes Caractéristique En	13300
 Femmes Hommes Ensemble Caractéristique Pourcentage Effectif	13300
 Festival de Carthage	8954
+Fever and Care-seeking Behaviour	15247
 Fig. VI.10 Carte	13341
 Fig. VI.8 Carte	13341
 Fig.VI.9 Carte	13341
@@ -1492,6 +1540,7 @@ HEALTH AND CHILD CARE	13420
 HEALTH CARE	14723
 HEALTH CARE Improving	14723
 HEALTH CARE LIMITED Data Controller INST-12794625BFC	7167
+HSDUs. Obstetric Care	15206
 HUMANITARIAN CRISES DEEPEN IN THE CAR	4127
 Haiti Honduras Biometric Identity Card	10714
 Halls Tours and Car Hire	13040
@@ -1506,6 +1555,7 @@ Health Care Financing	4349
 Health Care Financing and Reform The U.S	4349
 Health Care Personnel RA	12138
 Health Care Quality	14033
+Health Care Rationing	14898
 Health Care Services	12977
 Health Care Services A. Health	12977
 Health Care Standards	12606
@@ -1565,7 +1615,7 @@ IUA Mobile Care Services Discovery	1009
 Identification Card	1655,9120,1553
 Identification Card No N	10714
 Identification Cards	1655
-Identity Card	3583,7131,51,10,187,977,387,76,2339,37
+Identity Card	3583,7131,51,10,187,977,387,76,2339,37,111
 Identity Card Applications Made	2775
 Identity Card Available Fees	14045
 Identity Card Burkina Faso National Identification	10714
@@ -1583,6 +1633,7 @@ Identity Card Yes Electronic ID Card	10714
 Identity Card Yes F25 Apr	10714
 Identity Card Yes F25 Jun	10714
 Identity Card Yes NIA ID	10714
+Identity Card and Affidavit	14880
 Identity Card. At the Central Post of SME	10775
 Identity Card16 Bhutan Digital Identity Service	10714
 Identity Cards	5121,2558,486,2734,1262
@@ -1694,6 +1745,8 @@ Life Sciences Health Care Equipment	4972
 Light Armoured Personnel Carriers	14830
 Lilongwe Dual Carriage Way	13122
 Line of Business Card	11955
+Linked SIM Cards	15136
+Linked SIM Cards- MTN	15136
 Linking the Ghana Card Across National Identity	6177
 List of Activities Carried	13965
 Long-Distance Travels With Carpooling Platform Pip	7324
@@ -1709,9 +1762,11 @@ M. Douglas Carpenter	1189
 MAIN FINDINGS National Identification Card	12328
 MAISHA CARD	12165
 MAMBERE KADEI CARNOT-GADZI	10829
-MATERNAL AND NEWBORN HEALTH CARE	13454
+MATERNAL AND NEWBORN HEALTH CARE	13454,1793
 MENTIONNÉ. CARTE D'ASSURANCE MALADIE	13300
 MII1 Caractéristique Pourcentage	13300
+MINALOC CitizenReport Card Output Indicator	14935
+MINECOFIN NBR X Carry	15130
 MONTREZ LA CARTE	13300
 MTN Yello Care	12996
 Maeve de France and Martin Noblecourt of CartONG	2678
@@ -1735,7 +1790,7 @@ Mark Carney	5029,2702,2101
 Mastercard Cartes	13390
 Materials Energy Health Care Utilities Hardware	4972
 Maternal Care	14067
-Maternal Health Care	13474
+Maternal Health Care	13474,1773
 Mauritius National Identity Card	1379,13342,20
 Mauritius National Identity Card System	14741
 Mauritius National Identity Card URL	14741
@@ -1769,6 +1824,8 @@ MoMo Virtual Card	9102,1
 Mobile Care Services Discovery	1009
 Mobile Care Services IETF RFC7159	1009
 Mobile Care Services and Health Services. HL7	1009
+Mobile Money Agent SIM Cards	15136
+Mobile Money Linked SIM Cards	15136
 Monegasque Identity Card	10714
 Monte Carlo	8018,3210
 Morgan Air Cargo	6946
@@ -1801,6 +1858,7 @@ N S The World Bank CAR	10829
 N'A NI CARNET MÈRE-ENFANT NI CARNET	13300
 N'A NI CARNET MÈRE-ENFANT VÉRIFIEZ	13300
 N. Carpentier and B. De Cleen	11028
+NA NA Carrier-neutral Data Center	14897
 NATIONAL CAREER GUIDANCE POLICY Cabinet	11791
 NATIONAL ID CARD UNIT	14778
 NATIONAL IDENTITY CARD	14740
@@ -1827,11 +1885,13 @@ Namibian Identity Card	12337
 National ADU Caravan	10937
 National Biometric Identity Card	13313
 National Burkinabe Identity Card	10812
+National Carbon Market Framework	14997
 National Carbon Registry	9424
 National Card	13333
 National Career Expo	12972
 National Career Guidance Policy	11791
 National Citizen Identity Card for Civil Identification	10775
+National Council for Motherhood and Childhood Care	14853
 National Electronic Identity Card	1780
 National ID Card	1920,199,886,234,169,7306,98,1063,2,208,132
 National ID Card Aug	10714
@@ -1847,7 +1907,7 @@ National Identification Card NIN National Identification	12328
 National Identification Card No N	10714
 National Identification Cards	3645,4118,1057,1701,1747
 National Identification Cards. Sesay	8820
-National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10
+National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379
 National Identity Card Act	1379,13336,1,24
 National Identity Card National ID System	10714
 National Identity Card No BRR Cabo	10714
@@ -1862,7 +1922,7 @@ National Identity Card and Mobile ID	14741
 National Identity Card and Population	2658
 National Identity Card and Yusuf	12051
 National Identity Card of Mozambican	6474
-National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97
+National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985
 National Identity Cards Act	12648
 National Identity Cards Issued Year	12533
 National Identity Cards. Despite Airtel Malawi	12978
@@ -1921,6 +1981,9 @@ O Centro Nacional de Cartografia	12783
 OICA. World Passenger Car Production	8891
 OPERAÇÕES DE PAGAMENTO DE CARÁCTER ISOLADO	10755
 ORIGINAL IDENTITY CARD	14740
+Obstetric Care	15206
+Obstetric Care HSDUs	15206
+Obstetric Care Post-partum	15206
 Obstetric and Newborn Care GPW14	12729
 Obtenção de Carta de Condução	11383
 Octavia Carbon	7482
@@ -1929,6 +1992,7 @@ Olayemi Cardoso. Nigeria	3732
 Older Car Models Not Allowed	7176
 Oman Omani ID Card Yes N	10714
 Operation Sentinel and Operation Red Card	8777
+Organization of SIM Cards and Embedded SIM	14944
 Original Card	12410
 Original Clinic Card	11282
 Ownership of SIM Cards Multiple SIM	582
@@ -2000,14 +2064,14 @@ Postbank Black Card. Radio	8999
 Postbank Black Cards	7856
 Postbank Card Replacement Stakeholder Briefing Mopani	8999
 Postbank Card Replacement Update Postbank Card	8999
-Postnatal Care	13454,613
+Postnatal Care	13454,613,1180
 Postpartum Infant Care Program	6423
 Pour le CARE	9497
 Prepaid Cards Mobile Banking Subscribers Internet	4517
 President Jorge Carlos Fonseca	11889
 President of Huawei Southern Africa Region Carrier	13782
 Presidente da CNE Carmem Batista Lobo	10271
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427
 Primary Health Care Centers	12004
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980
@@ -2051,6 +2115,7 @@ Qatar Air Cargo	2675
 Qatar Qatari ID Card	10714
 Quality Health Care Circular Economy	4972
 Quality of Care	13166
+Quarterly Carrier Diversity	15149
 RAM Random Access Memory SIM Card	34
 RDs Brazil’s National Policy for Comprehensive Care	10188
 RECEIPT FOR SURRENDERED NATIONAL REGISTRATION CARD	12410
@@ -2125,16 +2190,21 @@ SHOULD WE CARE ABOUT	11730
 SIDC Smart ID Card SIEM Security	5533
 SIM CARD	582,10193
 SIM CARD OWNERSHIP AND USAGE	582
+SIM CARD Registration Regulatory Framework	15120
 SIM CARD Subscriber Identity Module SMMEs	12395
 SIM CARDS	582
 SIM CARDS INTERVIEWED	582
-SIM Card	582,11635
+SIM Card	582,11635,3085
+SIM Card Registration	15120
 SIM Card Registration Experiences	4439
+SIM Card Registration Guidelines	15120
+SIM Card Registration Regulation	15120
 SIM Card Surveillance	6946
 SIM Card Surveillance and Network Facility	6946
 SIM Card The SIM	582
 SIM Card and Mobile Money Registration	4439
 SIM Cards	14748
+SIM Cards Linked	15136
 SIM Cards. In Space	718
 SIUMARA CARLA MAHURI	10751
 SMART ID CARDS AND PASSPORTS	11986
@@ -2242,11 +2312,13 @@ Technology Materials Health Care Food	4972
 Terminals and Cards	11955
 Tertiary Health Care	3583
 Third-party SIM Cards	4439
+Through Care Connect	14977
 Through Intelligent Card Production Systems	4677
 Thuthuzela Care Centres	11224
 Tiago Carneiro Peixoto	761
 Tier III Carrier Hotel Datacenter	8542
 Timeline for SIM Card Registration Laws. Benin	10822
+Timing and Number of Antenatal Care Visits	15247
 Timor-Leste National Identity Card No N	10714
 Tobacco Consumer Staples Health Care Equipment	4972
 Tobacco Transportation Health Care Materials Industrials	4972
@@ -2301,6 +2373,7 @@ VISA and Master Card	12542
 VISA and Master Card. The ECZ	13477
 VRR Card Civil Registry	10714
 VRR India Card	10714
+Vaccination Card Ownership and Availability	15247
 Vanuatu National ID Card	10714
 Virtual ID Cards for Permit Holders and Seychellois	1882
 Visa Card	8615

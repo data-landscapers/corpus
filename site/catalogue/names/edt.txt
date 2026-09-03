@@ -16,7 +16,7 @@ EDT TECH5	9747,54,3,23
 EDT U.S. Immigration and Customs Enforcement	9747,54,3,23
 EDT UK	10293
 EDTON TECHNICAL ENGINEERING LIMITED Data Controller	7167
-EdTech	507,1,391,349,316,694,319,1027,2002,423,185,1995,118,562,1281,1580,168,135,1938
+EdTech	507,1,391,349,316,694,319,1027,2002,423,185,1995,118,562,1281,1580,168,135,1938,1249
 EdTech Africa	508
 EdTech Coalition	12175
 EdTech Fellowship	508,7701
@@ -24,6 +24,8 @@ EdTech Hub	899,757,10519
 EdTech Mondays	508
 EdTech Mondays Dialogue	5606
 EdTech Mondays Rwanda	5606
+EdTech Packages	15240
+EdTech Readiness Index	15164
 EdTech Strategy and Action Plan	11918
 EdTech. Earn Mwachangu	13095
 EdTech. JICA	12376

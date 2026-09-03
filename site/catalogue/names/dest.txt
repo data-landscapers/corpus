@@ -21,7 +21,7 @@ Destacam-se	2816,8555,90,560,121
 Destacamos	1701,9056,812
 Destacar	1701,1115,7967
 Destacaram	8729
-Destacou	3192,3974,79,491,3666,129,1278
+Destacou	3192,3974,79,491,3666,129,1278,2454
 Destacou-se	11414,117
 Destacó	7100,1781
 Destaque	2434,382,8715
@@ -34,13 +34,16 @@ Destina-se	10766
 Destinada	4436
 Destinataire	436,795,9594,51
 Destinataires	14439
+Destinati	15136
 Destination	2775,9185,1093,815
 Destination Codes MNO Mobile Network Operator	6946
 Destination Country	13376
 Destination Earliest Delivery Latest Delivery Bidder	13185
 Destination Earth	11291
 Destination Eswatini	12956
+Destination Foreign	15136
 Destination Inspection	13053
+Destination MTN Rwandacell Plc Airtel Rwanda	15136
 Destination Management Company	14736
 Destination Montant	10876
 Destinatário	14,11568
@@ -51,13 +54,14 @@ Destiny FM	13301
 Destiny Kounkouaga	10089
 Destiné	7333,783
 Destinée	14587
+Destinés	15271
 Destitute Persons Program	12541,19
 Destitute Program	12560
 Destitution	12501
 Destroy Personal Data	12185
 Destroyed Mortgage Bonds	13398
 Destroying	8494
-Destruction	1,1473,10752,422,750,1024,66,1,1,224,1,4
+Destruction	1,1473,10752,422,750,1024,66,1,1,224,1,4,146
 Destruir	10747
 Destruição	15,524,10208,618,3
 Destruição de Dados	794
@@ -74,8 +78,11 @@ MAKING ETHIOPIA THE DESTINATION OF AI	14004
 Mobile National Destination	6946
 Mobile National Destination Codes	6946
 Msisha and Destone	13053
+Next Destination Is Sudan URL	15249
 Non-Proliferation of Weapons of Mass Destruction	2626
+Operator Destination Q4	15136
 Origin Destination Booking	13042
+Ouest BDS Banknote Destruction System BoD	15023
 POR DESTINO	11531
 Place of Destination	13185
 Principaux Pays de Destinations	13500
@@ -101,4 +108,5 @@ Tourism Destination Marketing	13060
 WRC-27. Destacó	8881
 Weapons of Mass Destruction	9750
 World's Best-Must-Visit Destination	3760,9683
+XX Inaccessible XX Destroyed	15206
 ZIMBABWE THE WORLD'S BEST-MUST-VISIT DESTINATION	3760,9683

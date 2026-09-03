@@ -76,7 +76,8 @@ Beach	14830
 Beach Authority	14746,101
 Beach Authority and NECA	14738
 Beach Testing	14774
-Beaches	14746
+Beaches	14746,383
+Beaches Map	15129
 Beacon Global Strategies	8921
 Beacon Power Services	12339
 Beacon Press	5700
@@ -86,10 +87,11 @@ Bead FM	9111
 Beakgoub	3791
 Beakgoubé H	3791
 Beam Magazine	8943
+Beam Reports	15342
 Beams	14738
 Beans Seeds	12977
 Bearer	736
-Bearing	2307,5903,137,1,6403
+Bearing	2307,5903,137,1,6403,140,205
 BearingPoint	4047
 Bearisoa Rakotoniaina	8914
 Bears	309,460,3092,183,165,2929,7331
@@ -238,5 +240,5 @@ Third Member for Beau Bassin and Petite Rivière	14753
 University of California Press. Beauchesne	7886
 Unsupported BEAM Payments	13420
 Whatsapp BEAC	9926
-Wife Beating	13454
+Wife Beating	13454,1793
 Ziba Beach Resort	14705

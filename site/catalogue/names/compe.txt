@@ -6,6 +6,7 @@ Act. COMPETITION COMMISSION	13462
 Address Fair Market Competition	12214
 Administração Pública. Competirá	11569
 Adoption of Community Competition Rules	961
+Adoption of Competition Regulation	15120
 Affordability and Competition	12657
 African Competition Forum	3162
 African Competition Forum The African Competition	961
@@ -27,6 +28,8 @@ Autoridade Competente	6970,3785,827,1192
 Autoridade Competente da IA	3519
 Autoridade de Avaliação Ambiental Competente	11542
 Autoridades Competentes	15
+BNR Competitive Global	14997
+BNR MPFSS Compensation Fund	14997
 Bank’s Strategy and Vision. Compensation The Bank	11131
 Becoming More Competitive	7869
 Boost Competition	7400
@@ -68,6 +71,8 @@ COMPETITION AND INNOVATION POLICY	14723
 COMPETITION AND INNOVATION POLICY Innovations	14723
 COMPETITION AUTHORITY	12389
 COMPETITION COMMISSION	13461,1
+COMPETITION POLICY This Policy	14879
+COMPETITION PROVISIONS	15149
 COMPETITIVE COSTS	12399
 COMPETITIVE COSTS The Government of Lesotho	12680
 COMPETITIVENESS	10901
@@ -91,6 +96,7 @@ Claims and Compensations	12364
 Comissões de Recenseamento Compete	11528
 Compea LTD Data Controller INST-454616C800D NAIROBI	7167
 Compea LTD Data Processor INST-454616C800D NAIROBI	7167
+Compel	14865
 Compel Social Media Giants	7853
 Compelled	12227
 Compelling	13461,32,205
@@ -109,8 +115,10 @@ Compensating	1828
 Compensation	3,233,1574,965,2758,143,2019,1415,453,1412,156,5,94,18,738,459,90,14,491,82,199,5,135,13,335,19,613,305,89
 Compensation Assistance Fund	11900
 Compensation Conditional	4258
+Compensation Fund	14997
 Compensation Order	14809
 Compensation PEES Plan	10876
+Compensation The NBR	15102
 Compensation and Benefits Pay-scales	11134
 Compensation and Land Costs	11549
 Compensation and Reparation Authority	3583
@@ -124,25 +132,30 @@ Compensação	5169,5586,1146,117
 Compenser	13306
 Compete	13,2,524,37,218,1644,428,1281,127,2263,433,2206,1571,7,1,28,193,384,10,3,1,10,35,6,5,3,10,2,4,3,5,1,3,57,1,1,7,1,14,40,292,7,14,6,32,226,152,35,43,381,4,1,7,1,2,38
 Compete Amazon	10588
-Competence	4762,6507,3296
+Competence	4762,6507,3296,432
 Competence Licence	1988
 Competence and Powers	12549
 Competence of Commission	12549
 Competence of Commission Duties of Commission A.147	12549
 Competence-Based Assessment Minister of Education	13477
+Competence-Based Curriculum	14922
+Competence-Based Training and Assessment	14922
 Competence-based	12329
 Competencia	163,1538
 Competencia CPDN	1701
 Competencia Competitiva	1701
 Competencias	1701
-Competencies	3678,9236
+Competencies	3678,9236,1946
+Competencies Areas	14915
 Competencies Successful	10060
+Competencies and Proposed Solutions	14915
 Competency	11927,1385,2
 Competency Based Curriculum	13477
 Competency Based Curriculum CBK Central Bank	2775
 Competency Based Education	12975,148
 Competency Certificates	14024
 Competency Enhancement Workshop	14057
+Competency Framework	14997
 Competency Framework for AI Literacy	6948
 Competency and Skills Based Education. The Executive	13477
 Competency-Based Assessment	13477
@@ -150,22 +163,31 @@ Competency-Based Curriculum	899,5673,5740,663,502
 Competency-Based Education	12084,891,502
 Competency-based Education	12914
 Competency-based Education and Training	12914
-Competent	3861,6958,371
+Competent	3861,6958,371,3660,490
 Competent Authorities	12164,225
 Competent Authority	14818
 Competent Authority of South Africa	11233
+Competent Court	14852
+Competent Court of Law. Article	14867
 Competent Courts of First	10979
+Competent Judge	14852
+Competent Minister	15340
+Competent Minister. Functions	15340
+Competent Minister. Objects	15340
+Competent Minister. The Fund	15340
+Competent Minster	15340
+Competent Prosecution Attorney	15340
 Competent Witnesses	13248
 Competeve	9129
 Competing	766,5,490,832,3,852,98,745,641,2358,361,36,91,453,28,262,1,108,153,97,56,292,279,121,1,108,112,1435,199,1248,15,9,124,1744
 Competing Interests	7836
 Competing Paradigms	5349
-Competition	961,282,575,459,658,1215,433,149,240,61,91,76,12,29,3,628,284,265,248,277,310,215,77,183,380,1038,194,168,526,53,465,163,126,291,19,42,328,1,332,137,205,57,120,13,146,122,17,238,139,117,176,117,1,86,403,34,424,286,28,6,16
+Competition	961,282,575,459,658,1215,433,149,240,61,91,76,12,29,3,628,284,265,248,277,310,215,77,183,380,1038,194,168,526,53,465,163,126,291,19,42,328,1,332,137,205,57,120,13,146,122,17,238,139,117,176,117,1,86,403,34,424,286,28,6,16,135,67
 Competition Act	1638,2076,2158,1049,924,3397,66,1881,272,1,960,397,9,3
 Competition Act No.89	13462
 Competition Assessment Framework for Communications Sector	12918
 Competition Authorities	12389
-Competition Authority	12389,2033
+Competition Authority	12389,2033,575
 Competition Authority Responsible AI	7548
 Competition Authority of Kenya	5923,1015,3375,509
 Competition Authority of Kenya Commission	12210
@@ -186,16 +208,22 @@ Competition Demand Side Access	1161
 Competition Drove Prices Down	14297
 Competition Ensure	12214
 Competition Firm-level Data	961
+Competition Framework Refinement The National Communications	15120
 Competition From Starlink and Amazon	965,3804,120,206,402
 Competition Law Code of Conduct	3513
 Competition Limited	10718
 Competition Management	6946
 Competition Management Tel	6671
 Competition Management and Consumer Affairs	1797,1413,3880
+Competition Policy	14879
+Competition Regulation	15120
+Competition Regulation Acknowledging	15120
+Competition Regulation Over	15120
 Competition Regulations	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Competition Regulations Access	10759,78,1315,188
 Competition Regulations No Change Freedom of Expression	11870
 Competition Regulatory Authority	7381,3398
+Competition Ring Competition	14897
 Competition Space China European Union Data	9816
 Competition Tribunal	1403,1861,5919,4278
 Competition Tribunal of South Africa	13462
@@ -219,7 +247,7 @@ Competition and Market Dynamics	13582
 Competition and Markets Authority	3942
 Competition and Regulation	13314
 Competition-authority	1615
-Competitive	961,857,3429,2504,1378,1028,974,7,1037,183,41,512,401,2,1085
+Competitive	961,857,3429,2504,1378,1028,974,7,1037,183,41,512,401,2,1085,548,50
 Competitive Advantage	12356
 Competitive Advantage Industrial	3796,1205
 Competitive Costs	12717
@@ -235,7 +263,7 @@ Competitive Regional	12444
 Competitive Tender Commission	3221
 Competitive Tendering	7695
 Competitive Transition Quality	1818
-Competitiveness	395,142,21,6913,3297,73,123,13,1563,1084,380,815
+Competitiveness	395,142,21,6913,3297,73,123,13,1563,1084,380,815,113,65
 Competitiveness And Innovation Global Practice Middle	13836
 Competitiveness Council	12956
 Competitiveness Forum	11305,181
@@ -247,10 +275,11 @@ Competitiveness Security	9067
 Competitiveness and Financial Inclusion Programme	12721
 Competitiveness and Financial Inclusion Project	11717
 Competitiveness and Growth	10963,1
-Competitiveness and Innovation	11867,1464
+Competitiveness and Innovation	11867,1464,1557,22
 Competitiveness and Innovation Eastern And Southern Africa	13742
 Competitiveness and Innovation Practice Area	10964
 Competitiveness and Investment Global Department	4357
+Competitiveness and Private Sector Development	14932
 Competitiveness and Sustainability	2918
 Competitividad	1701
 Competitividade	11898
@@ -282,6 +311,7 @@ Competências da Entidade Reguladora	576,12198
 Conselho de Competitividade	11898
 Conservação de Cadernos de Recenseamento Compete	11528
 Consumer Compensation Framework	9112
+Continental Essay Competition	15127
 Convergence of Competition and Data Protection Finally	4583
 Cooperation and Fair Competition Artificial	2958
 Core Competencies	12008
@@ -301,7 +331,8 @@ Definition of Roles and Competencies	3678
 Delegação de Competências	430
 Department of Productivity and Competitiveness	5250,7347
 Develop Digital Trade Competitiveness In Selected	626
-Digital Competence Framework for Citizens	13314
+Digital Competence Framework for Citizens	13314,1583
+Digital Competence Framework for Citizens ICT	14915
 Digital Competence Wheel	11918
 Digital Competencies for Teachers	8609
 Digital Competency Initiatives	11918
@@ -344,10 +375,10 @@ FINANCIALLY VIABLE AND OPERATIONALLY COMPETENT UTILITIES	12563
 FOREIGN FUNDS Classification Compensation of Employees	13093
 Fair Compe- Office Labour	6938
 Fair Compensation Bill	4583
-Fair Competition	5244,7145
+Fair Competition	5244,7145,2921
 Fair Competition Commission	7763
 Fair Competition Fair	5244
-Fair Competition and Equal Treatment	6946
+Fair Competition and Equal Treatment	6946,8315
 Fair Competition and Market Distortion The Joint	6748
 Fair Market Competition	12214,170,597
 Fair Market Competition RATING OPPORTUNISTIC STAGE	12214
@@ -374,7 +405,7 @@ Glo Steady Competitive	6051
 Global Competitiveness	1154,12202
 Global Competitiveness Index	13314
 Global Competitiveness Rank WEF	11379
-Global Competitiveness Report	4840,8474
+Global Competitiveness Report	4840,8474,1683
 Global Competitiveness and Cooperation	12675
 Global Competitiveness and Market Positioning	14819
 Global Competitiveness and Strategic Positioning	12675
@@ -404,6 +435,7 @@ ITWeb Editorial Policy Privacy Policy Competition	10735,2132,1,1
 IVRS. The Sierra Leone Agro-Processing Competitiveness	1161
 Imisebe Publishers Spelling Competitions	12975
 Improve the Environment for Competitiveness and Growth	11469
+Increased Competitiveness	14997
 Industry and Competition	1009,606,2627,391,1232,967,1186,26,1676,215,1263,17,9,6,5,15,13,31,2167
 Industry and Competition CARA Criminal Assets Recovery	11986
 Industry and Competition DSM	6832
@@ -417,6 +449,8 @@ Industry and CompetitionDr Mlungisi Cele	11221
 Innovation and Market Competition	4430
 Institute for Prices and Competition	11380
 Institutional Competence	14674
+Insurance Compensation Fund	14997
+Intebe. Competences	14863
 Interaction Between Privacy and Competition Law	961
 International Competition	11154
 International Competitive Bidding	14766
@@ -479,7 +513,7 @@ Nigeria's Competitive Position For Nigeria	10157
 No. Compensation	9110
 Number Competitions AI	12356
 Níveis de Competências	11419
-Open Competitive Bidding	8166,4223
+Open Competitive Bidding	8166,4223,2794
 Open Competitive Bidding International	11863
 Open and Competitive Procurement	12389
 Operador de Subsistema de Compensação	11370
@@ -530,6 +564,7 @@ SECÇÃO III ENTIDADE COMPETENTE	11433
 SMEs. Competition	9129
 STEM Racing Mauritius Competition	14267
 Salary Compensation	14774
+Salary Survey Report and Revised Compensation Policy	15023
 Satellite Competition Will Be Won	10588
 Scheme for International Competition Participation	14742
 Senior Digital Competency and Curriculum Specialist	11750
@@ -554,6 +589,7 @@ Spur Private Sector Growth and Competitiveness	5015
 Statement of Competing Interests Competing	6997
 Strategic Competition	13257
 Strengthening Evidence of Competition Enablers	2199
+Strengthening Market Competition	15120
 Subsidies Compensation	2775
 Subsidies Compensation Platform	1954,521
 Subsistema de Compensação de Cheques	11370

@@ -3,6 +3,7 @@ AI GDP	3859
 AI’s GDP	11140
 AU CZI ECD GDP HIT HPC	4528
 Actual Percent of GDP	11136
+Additional GDP Tax	14897
 Africa CSLP EAC EDF GDP GIS	13290
 Africa FinTech Financial Technology GDPR General	14729
 Africa's GDP	1038,1769,4,146,4474,173,2301,810,1112,2311,307,229
@@ -15,7 +16,7 @@ African Real GDP	6938
 African Stock Market Capitalization of GDP	6938
 Africa’s GDP	4906,87,102,1619,3906,199
 Agriculture Composition of GDP	10856
-Annual GDP	6027,6368
+Annual GDP	6027,6368,2602
 Annual Real GDP Growth	12551,981
 B. Bound Tests B1. Real GDP	13868
 B5-Cluster GDP	7548
@@ -26,6 +27,10 @@ Benin’s GDP	10887
 Boost GDP	3636,9384
 Botswana. Real GDP	12551
 CAR GDP	10829
+CMA GDP	14997
+CMA GDP Account	14997
+CMA GDP Account GDP	14997
+CMA GDP Account Listing	14997
 Cabo Verde GDP	11863
 Cameroon’s GDP Across Sectors	10841
 Cape Verde Eyes GDP Boost Through	3416
@@ -50,6 +55,7 @@ Debt-to GDP	12956
 Description The GDD Visibility Tech Sprint	2203
 Despite GDP	12669
 Development Office GDP Gross Domestic Product	12006
+Development Strategy GDP Gross Domestic Product	14997
 Digitalisation du GDT	14622
 Distribution of GDP	11524
 Domestic Economic Developments GDP Developments Eswatini	11131,3
@@ -62,7 +68,7 @@ ESI ESP FGS FMS FOB GDP	11136
 EU European Union GDPR General Data	14434
 EU GDP	13532
 EU GDPR	961,282,104,1377,82,750,4880,5692,306,299,79
-EU's GDPR	1652,11023
+EU's GDPR	1652,11023,2562
 EU’s GDPR	961,2331,2201,850,5929
 Early Childhood Development GDP Gross Domestic	12512
 Economic Co-operation and Development GDPR General Data	6936
@@ -70,6 +76,7 @@ Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Elasticity of GDP	14674
 Electricity and GDP	13624
 Empowerment Programme Financial Technology FX GDP	11134
+Energy Sector Strategic Plan GDP Gross	14947
 Equatorial Guinea’s GDP	10841
 Est Agriculture Industry Services GDP GDP	11271
 Eswatini’s GDP. Seventy-four	13123
@@ -77,24 +84,29 @@ Ethiopia's GDP	14010
 Ethiopia’s ID GDN	10852
 European Union’s GDP	10819
 European Union’s GDPR	5242
-Evolution of GDP	13418
+Evolution of GDP	13418,1478
 Evolution of Real GDP	10841
 FISP GDP G2B G2C G2G GSB	12453
+FSTS Food Security Technical Secretariat GDP	15118
 FT Full-time GDP Gross Domestic Product	14747
 FTA Free-to-Air GDPR General Data Protection	4126
 Farmer Input Support Program GDP Gross	13345
+Federal Member State GDP Gross Domestic	14896
 Federation GDPR General Data Protection Regulation	9855
 Finance Infrastructure Indicator GDP	5247
 Financial Access and GDP Per Capita	1828
 Financial Management Information System GDP Gross	11271
 Find Your GDT Address	12745
+Fiscal Year GDP Gross Domestic Product	14985
 Fiscalised GDP	13122
 Flexible Anti-Smuggling Team GDP	13053
 Food Import Real GDP	1828
+Foreign Trade Statistics GDDS	14857
+Forex FY Financial Year GDP Gross	15023
 Framework EU European Union GDP Gross	6539
 G2G Fiscal Year G2P Government-to-Business GDP	13331
 GBV GDP GoM GovNet GRADE GREPOC	1228
-GBV Gender-Based Violence GDP Gross Domestic	1988,8780
+GBV Gender-Based Violence GDP Gross Domestic	1988,8780,4370
 GCF Green Climate Funds GDP Gross	2775
 GCI Global Cybersecurity Index GDP Gross	6946
 GCR Global Compact for Refugees GDP Gross	10841
@@ -134,6 +146,7 @@ GDN’s DPI	10852
 GDN’s Four Gear Approach	10852
 GDN’s ITERATION ARE CRUCIAL	10852
 GDP AT CONSTANT	13060
+GDP Account	14997
 GDP Acknowledgements	13312
 GDP Citable	11884,321
 GDP Contribution of Target Sectors	4528,7984
@@ -141,15 +154,19 @@ GDP Creative	11884,321,146
 GDP Developments Price Developments External Sector	11131
 GDP Developments Quarterly Developments Economic	11131,3
 GDP Domestic	12205
+GDP Eastern Africa	14897
 GDP EcYoenaormy	11884
 GDP Education	11907,1442
 GDP Ethiopia	12205
 GDP Expenditure Category	2775
 GDP FDI	10969
+GDP FSDS Results Indicators Units Baseline	14997
+GDP Figure	15063
 GDP Financing Agreement GNI Gross Domestic	11855
 GDP GDP	10835,3,130,902,14,2,319,146,1,1,135
 GDP GERD	12351
 GDP GFDRR GoA Senior Health and Community	10763
+GDP GROWS	14873
 GDP Global	12205,146
 GDP Graduates	11885
 GDP Gross	11380,505
@@ -164,15 +181,20 @@ GDP Growth	8126,3797,268
 GDP High-income	12369
 GDP High-tech	12205
 GDP ICT	12205
+GDP In FY	15023
 GDP Industry	2775
 GDP Intangible	11884
 GDP Investment Into	1828
+GDP Jun-24 Jun-25 Figure	15023
 GDP Knowledge-intensive	11884
 GDP MSME’s Strengthening	5245
 GDP Market	10969,915,1,320,146
 GDP Millions Current USD	10759
+GDP Mobile	15023
+GDP National Accounts	14997
 GDP Nations	2775
 GDP Operational	11885
+GDP Output	14997
 GDP PCT	12351
 GDP PER CAPITA	11586
 GDP PPP	4840
@@ -181,8 +203,11 @@ GDP Population	10837,1052,265,186,1
 GDP Production	11884
 GDP QS	10969,915,321,146
 GDP RI6	10779
+GDP RSE Annual	14997
 GDP Ratio	12951,102
+GDP Ratio Additional Tax USD	14897
 GDP Real GDP	3184,1,1340,6470
+GDP Rwf	14997
 GDP Signal Strong High and Acceptable Moderate	11134
 GDP Transport	5245
 GDP US	12500
@@ -198,6 +223,8 @@ GDP and GDP	11136,3538
 GDP and ICT	5245,5611,3818
 GDP and Inequality Adaptation	1828
 GDP and KSH	1923
+GDP and US	14897
+GDP for South Africa	14997
 GDP of Africa	2865
 GDP of Cabo Verde	11863
 GDP of Eswatini	13052
@@ -238,7 +265,7 @@ GDP. Lesotho	12663
 GDP. Masiyiwa	3596
 GDP. Morocco	7655
 GDP. Note	12948
-GDP. Over	11907
+GDP. Over	11907,3090
 GDP. Participation	6938
 GDP. Population	11887,1
 GDP. Projections	236
@@ -350,10 +377,12 @@ GdD. En	747
 GdanG51lU4Q&t	4447
 GenAI Generative AI GDP Gross Domestic	1814
 Gender Based Violence GDP Gross Domestic	970,12362
+General Data Dissemination Systems GDP	14857
 Generative Artificial Intelligence GDPR General Data	14790
 Ghana’s GDP	789,3337
 Ghana’s GDP. Ghana	4126
 Global Economic Developments Global GDP Growth	11131,3
+Government GDP	14879
 Government-to-Business GDP	5244
 Grant Agent GDP	12175
 Green Climate Fund GDP Gross Domestic	11549
@@ -370,6 +399,7 @@ Historical GDP	13685
 I GDwritIirGawitira Dr C.E.F. Ma	1154
 ICT Sector GDP	12395
 Inclusion GDP Gross Domestic Product AI	12444
+Infrastructure GDP	14897
 Insurance Nominal GDP	2775
 International Scene World Real GDP Growth	2775
 Investigation GDP Gross Domestic Product GNI	10765,10
@@ -393,6 +423,7 @@ Measure Value Rank Unit GDP	10837,1503
 Medium-term GDP	11131
 Mid-Year Budget Statement. Real GDP	13122
 Miscellaneous GDP	11524
+Monetary Policy and Financial Stability Statement and GDP	14997
 Mozambique's GDP	761
 Namibia GDP	12355
 National Accounts Real GDP	13685
@@ -400,7 +431,7 @@ National GDP	13418
 Nigeria's GDP	8466
 Nigerian GDP	3782
 Nigeria’s GDP	2417,4755,4685
-Nominal GDP	2775,8361,1364,1148,37,183
+Nominal GDP	2775,8361,1364,1148,37,183,1117
 Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
 Non-Oil GDP	1828
@@ -411,18 +442,21 @@ Organisations FDI Foreign Direct Investment GDP	12376
 PA9 MU GDP RI9	10779
 PPP-adjusted GDP	11581
 PercentBaseline GDP GrowthNew GDP Growth	13624
+Percentage of GDP	14896
 Person GDP Gross Domestic Product GDPR	12663
 Private Sector GDP	958
 Private Sector GDP Gross Domestic Product	13295
+Processing System GDP Gross Domestic Product	15244
 Product GDP Gender	11417
 Productivity and GDP	11140
 Projections GDP	11131
 Quarterly GDP Reports Population Census National	12499
 RQVLGHUDQGR D SURSRVWD GR PLQLVWUR GD	11530
 RUHVWDO H GD IDXQD R UHJLPH	11527
+RWANDA’S GDP GROWS	14873
 Ratio GDP Global Partnership for Education GER	11905
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880,6202,1675,153
 Real GDP Growth Inflation Current Account	2775
@@ -442,10 +476,12 @@ SULPHLUR PLQLVWUR QR XVR GD FRPSHWrQFLD	11530
 SURYHQLHQWHV GD	11530
 Saharan Africa's GDP. Yet	3691
 Sector GDP	10856
+Select African Economies Country GDP	14897
 Selected SADC Countries GDP Growth Projections	13685
 Selected Sub-Saharan African Economies GDP Growth	13685
 Services GBP Great British Pound GDP	1243
 Social Standards GBV Financial Management GDP	10964
+Somalia's GDP	14929
 South African GDP	1208
 South Africa’s GDP	12362
 South Sudan's GDP	7749
@@ -455,9 +491,11 @@ Strong GDP Growth Performance	13123
 Sub-Saharan Africa’s GDP	5247,575
 System G2P Government-to-Person GB Gigabyte GDP	969
 System GDP Gross Domestic Product GEMS	10829
+TAX TO GDP RATIO	14985
 Tanzania’s GDP	4714,5878
 Tea Development Agency GDP Liquefied Petroleum	12256
 Telecommunication GDP Gross Domestic Product GFCF	236
+Trust GDP	14932
 UHDV GD FRRSHUDomR LQWHUQDFLRQDO H GD	11530
 UK GDPR	14128
 UK GDRP	8436
@@ -467,6 +505,7 @@ US Stored Communications Act and GDPR	10088
 USD GDP	11572,689
 Under the GDPR	7081,1355,1551
 Union FDI Foreign Direct Investment GDPR	12675
+Union GCI Global Cybersecurity Index GDP	14897
 Union GDP Financial Management GHG Global	3604
 Union GDP Gross Domestic Product ICT	12951
 Unit GDP	11889,452
@@ -481,6 +520,7 @@ Violence Information Management System GDDS General	13359
 WRGRV VHJXQGRDVDOtQHDVD HH GDFOiXVXOD GD	11530
 Weak GDPR	8436
 Wireless Access FY Financial Year GDP	12395
+Without GDP	14896
 World Bank Development Indicators for GDP	14674
 World Bank and OECD GDP	10969,1236
 World Development Indicators Benin’s GDP	10856

@@ -100,6 +100,7 @@ Burundi and Cameroon	9995
 Bénin Cameroun Congo-Brazzaville Côte	14683
 C&H Cameroon	10841
 C-DOT Campus Smart Village	11563
+CAMA System for Property Tax Administration	14985
 CAMACHO ENGENHARIA SA	998
 CAMADA DE TROCA DE DADOS	11555
 CAMARA	2342,4271
@@ -143,6 +144,7 @@ CAMHYDRO Concession Attente RAS En	10975
 CAMILISH INVESTMENTS LIMITED Data Processor INST-6750275E17C	7167
 CAMION CITERNE	13300
 CAMIONNETTE	13300
+CAMIS	14922
 CAMIX	14468
 CAMLEASE	10965
 CAMME	13859,32
@@ -216,6 +218,7 @@ Cabo Verde Cambodia Cameroon Canada Cayman	11470
 Call for Expressions of Interest. CAMTEL	7598
 CamGSM	11310
 CamScanner	1014,1451
+CamScanner OCR	15180
 CamTel	55,9861
 Camacupa	5721
 Camada	11555
@@ -270,7 +273,7 @@ Cambodia's MekongNet	4604
 Cambodian	11310
 Camboya SENG	6613
 Cambria	14713
-Cambridge	40,1397,2345,650,224,586,10,448,3428,570,1148,118,176,16,934,858,676
+Cambridge	40,1397,2345,650,224,586,10,448,3428,570,1148,118,176,16,934,858,676,1308
 Cambridge Analytica	432,1,2149,486,10199
 Cambridge Centre	11819
 Cambridge Centre for Alternative Finance	8074,277,1669,1799,3000
@@ -286,7 +289,7 @@ Cambridge Judge Business School	6231,1843,1946
 Cambridge Prism Glob Ment Heal	8376
 Cambridge School Certificate	14815,17
 Cambridge University	5682,585,3365,1220
-Cambridge University Press	1243,3,3724,272,458,2031,552,153,692,1922,85,3,18,154,684
+Cambridge University Press	1243,3,3724,272,458,2031,552,153,692,1922,85,3,18,154,684,2938
 Cambridge University Press. Adams	1243
 Cambridge University Press. Bouraïma	7886
 Cambridge University Press. Burri	1243
@@ -305,7 +308,7 @@ Cameron	5323
 Cameron Kerry	6411
 Cameron McLoughlin	1828
 Cameron Smith	7673,5176
-Cameroon	55,2,46,14,6,1,65,47,66,11,89,246,4,56,4,221,80,22,16,90,1,221,2,34,15,1,4,11,35,72,13,2,18,22,7,54,43,19,33,64,12,4,29,24,65,12,39,70,77,23,62,74,16,17,21,73,31,58,101,62,13,10,70,10,77,56,1,115,44,4,53,16,6,22,54,1,1,19,3,26,52,57,20,21,3,59,33,17,149,36,84,6,85,18,11,1,28,140,5,19,5,11,28,18,3,15,8,4,1,51,10,87,58,36,61,39,32,9,67,4,19,10,9,52,119,48,25,16,19,42,68,57,76,2,80,21,42,28,83,81,28,20,40,22,11,7,41,17,47,5,15,127,34,98,48,23,72,22,45,37,1,2,67,89,2,65,45,5,7,125,69,18,67,66,54,89,15,34,37,142,269,80,29,86,8,145,4,8,4,88,23,74,3,115,162,72,6,1,160,370,120,118,75,164,103,141,47,113,27,45,6,27,53,169,126,296,74,19,26,8,36,6,3,3,15,5,31,68,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,2,3,1,120,46,253,189,88,31,8,131,3,13,3,1,2,71,57,136,1,9,33,14,129,2,11,1,32,103,29,355,396,45,57,18,293,32,476,18,42,219,239
+Cameroon	55,2,46,14,6,1,65,47,66,11,89,246,4,56,4,221,80,22,16,90,1,221,2,34,15,1,4,11,35,72,13,2,18,22,7,54,43,19,33,64,12,4,29,24,65,12,39,70,77,23,62,74,16,17,21,73,31,58,101,62,13,10,70,10,77,56,1,115,44,4,53,16,6,22,54,1,1,19,3,26,52,57,20,21,3,59,33,17,149,36,84,6,85,18,11,1,28,140,5,19,5,11,28,18,3,15,8,4,1,51,10,87,58,36,61,39,32,9,67,4,19,10,9,52,119,48,25,16,19,42,68,57,76,2,80,21,42,28,83,81,28,20,40,22,11,7,41,17,47,5,15,127,34,98,48,23,72,22,45,37,1,2,67,89,2,65,45,5,7,125,69,18,67,66,54,89,15,34,37,142,269,80,29,86,8,145,4,8,4,88,23,74,3,115,162,72,6,1,160,370,120,118,75,164,103,141,47,113,27,45,6,27,53,169,126,296,74,19,26,8,36,6,3,3,15,5,31,68,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,2,3,1,120,46,253,189,88,31,8,131,3,13,3,1,2,71,57,136,1,9,33,14,129,2,11,1,32,103,29,355,396,45,57,18,293,32,476,18,42,219,239,611
 Cameroon A Xalam Analytics Country Report	10995
 Cameroon Adaptive Safety Nets and Economic Inclusion	971,9993
 Cameroon Aims	4219
@@ -734,6 +737,7 @@ Campaign	1710,1174,925,719,1923,690,2525,1063,530,597,10,335,40,271,178,287,1300
 Campaign Bill	1116
 Campaign Building	12356
 Campaign Mnena Iyorkegh	7144
+Campaign On Jun	15217
 Campaign Process Electoral	13248
 Campaign for Female Education	1540
 Campaign for Free Expression	10729
@@ -775,11 +779,13 @@ Campos Electromagnéticos	9543
 Campost	1946,9036,1
 Campost Activité	10965
 Campost DG Pierre Kaldadak	1946
+Camps	15129
 Camps About	9772
+Camps Map	15129
 Camps and Counterterrorism	12227
 Campsite	1988
 Campsite Management Plan	13392
-Campus	1245,5131,1669,3996,1647,206,1
+Campus	1245,5131,1669,3996,1647,206,1,1269
 Campus II	4209
 Campus Principal da UEM	8807
 Campus Universitario	4209
@@ -787,7 +793,7 @@ Campus Universitario de Oyala Fase II Oyala	4209
 Campus Yas	7899
 Campus da Universidade de Cabinda	11429,3,47
 Campus de Pabré	7670
-CampusFaso	3835
+CampusFaso	3835,11429
 Campuses	4619
 Camrail	4065
 Camrail. C'est	4065
@@ -822,6 +828,7 @@ Camusat	2229,805
 Camusat Group	708,1521,805
 Camusat Group's Africa	708
 Camélia Ntoutoume Leclercq	7788,514
+Caméras-piétons	15271
 Camões	3530,1181,227,1080,4732,26,679,111
 Camões I.P	11543
 Camões Institute	11536
@@ -894,6 +901,7 @@ Dadaab Refugee Camp Kenya Ministry of Foreign	346
 Dagahaley Camp	12227
 Datum da Camacupa	11405
 Days Campaign for No Violence Against Women	11224
+De CampusFaso	15264
 De-Aar and KHATHU Campuses	11343
 Define Campaign Objectives	12675
 Delivery Cambodia	13042
@@ -902,6 +910,7 @@ Deputy Secretary of State Kurt Campbell	2285
 Description Supports Cameroon	773
 Digital Cameras External Drives	34
 Digital Continue Campaigns	1777
+Digital Disinformation Campaigns	15342
 Digital Fraud Awareness Campaign	13095
 Digital Infrastructure Campus	7960
 Digital Payment for Polio Campaigns Bill	2184
@@ -911,6 +920,7 @@ Digitize Cameroon	3985
 Director General of Cameroon Customs	8499
 Direitos Humanos. Campanha de Moralização	10751
 Direitos Humanos. II Campanha de Emissão	10753
+Distribution of Readiness Campus	15164
 Djibouti Cameroon Comoros Mauritania Guinea Burundi	10837,1503
 Djibouti Code Campus Association	5720
 Djibouti Code Campus Association and Association	5720
@@ -961,6 +971,8 @@ Ethiopia Honduras Kenya Cambodia Liberia Madagascar	11572
 Ethiopia and Cambodia	8175
 European Commission’s Cameroon Fact Sheet	10841
 Every Cameroonian	10979
+FAST-NUCES Islamabad Campus	15251
+FAST-NUCES Islamabad Campus Director	15251
 FGI Cameroon	11697
 FGI Women Cameroon	11697
 FIRC Forum des Institutions de Régulation du Cameroun FISUEL	10975
@@ -1231,6 +1243,7 @@ PR CAMPAIGN SMS Messaging On-going On-going	8999
 PRESIDENTE CAMARA DE LOS DIPUT	4209
 PS Lamin Camara	1714
 PUBLIC CAMPUS	2776
+Palestinian Camps	14851
 Parques de Campismo	11458
 Patricia da Camara	10977
 Payment Agregation Monopoly Threatens Cameroon's Digital	2461
@@ -1306,6 +1319,7 @@ SECRETARIO GENERAL DE LA CAMARA	4209
 SECRETARÍA TOTAL Asignaciones Globales CAMARA GENERAL	4209
 SECRETARÍA TOTAL Nuevas CAMARA GENERAL	4209
 SIM... Cameroun Blocage	13483
+SIMAD Town Campus	15043
 SNFI du Cameroun	10965
 SNFI. Le Gouvernement du Cameroun	10965
 SSA LMIC Cameroon CEMAC	10997
@@ -1342,6 +1356,7 @@ Starlink Cameroun Sarl	4238,31
 State-run Cameroon Telecommunications	5590
 Still Stands Between Cameroon	11728
 Stories Shaping Our Campus and Beyond	13158
+Strategy Data Governance Campaigns Key Principles	15034
 Strategy. CAMPAIGN IMPACT	7204
 Stratégie. CAMEROUN	10965
 Stratégique Spécifiques CAMEROUN	10965
@@ -1429,3 +1444,4 @@ Yoff Zimbabwe Addis Ababa Cameroon Senegal	11563
 ZRP Shamwa Battle Camp	13361
 Zambia Meheba Settlement Camp	1988
 Zamengoe Data Center. CAMTEL	4271
+Zamzam Camp	15342

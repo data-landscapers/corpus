@@ -17,9 +17,10 @@ Agriculture Force	13442
 Agriculture Forces	13300
 Air Force	6536,3291,174,3364
 Alpha Force Security	10464
-Armed Forces	5270,4779,1468,340,2885
+Armed Forces	5270,4779,1468,340,2885,256,344
 Armed Forces Health Services	11401
 Armed Forces SARHO Sudanese Agency for Relief	6947
+Armed Forces SLA Sudan Liberation Movement	15342
 Armed Forces and Nigeria Security and Civil Defence	10254
 Article VIII Force Majeure	13031
 Association of African Central Banks' Task Force	14294
@@ -79,6 +80,8 @@ FIJ Story Forced Contractor Back	7176
 FIRST Force	1777
 FMI Fonds Monétaire International FFOM Forces	10712
 FORCE FRANÇAISE CE	2556,995,1106,1302,1374
+FORCE MAJEURE	15149
+FORCE MAJEURE The Licensee	15149
 FORCED DISPLACEMENT TO THE FEDERAL	14096
 FORCES	13306
 FORCES FAIBLESSES	10712
@@ -87,6 +90,7 @@ Farmers Face Forced Relocation Zimbabwean	8943
 Female Labor Force Participation	14627
 Female Labour Force	14815
 Financial Action Task Force	789,3081,257,268,453,63,123,292,889,505,671,114,14,645,16,14,377,434,669,3,455,23,620,356,7,74,77,532,583,133,60,1,358,43,533,1210,39,28,10,25
+Financial Action Task Force FOMC Federal	15023
 Financial Action Task Force Grey List	12308
 Financial Action Task Force Standards	14774
 Financial Inclusion of Forcibly Displaced	12297
@@ -97,17 +101,20 @@ Fire and Rescue Force	10460
 FoRCEMENT DE L	14479
 Food Security Task Forces	12158
 Forcas	2228
-Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21
+Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199
 Force ARTICLE	14409
 Force Armée Congolaise	5103
 Force Election Tactical Operation Room	14760
 Force Headquarters Abuja	8471
 Force ICT Department	14697
 Force Legal Abuja	8471
-Force Majeure	11956,408,821
+Force Majeur	14867
+Force Majeure	11956,408,821,1964
 Force Majeure Force Majeure French	12364
+Force Majeure. The Licensee	15149
 Force Meeting Minutes. Presented	13300
 Force Meeting and Justice Sector Systems Mapping	13095
+Force Multiplier	15123
 Force Multiplier and Global Conduit	4528,7984
 Force Police Cadre Civilian Staff	14760
 Force Public Relations Officer	2269
@@ -116,10 +123,11 @@ Force This Treaty	14409
 Force de Défense	13341
 Force de Défense Nationale du Burundi	13329
 Force-Jeune. Cette	13789
-Forced	12779,406
+Forced	12779,406,1689
 Forced Displacement	10841,23,2339
 Forced Displacement. Justification of Overall Rating of Bank	11924
 Forced Evictions	11285
+Forced Interruption	14867
 Forced Labor Any	1988
 Forced Labor Declaration	14576
 Forced Labor Gender-Based Violence	1988
@@ -133,13 +141,14 @@ Forced Marriage	9766
 Forced Migration Review	12227
 Forcepoint	10102
 Forcepoint Web Security	10102
-Forces	17,1950,698,651,80,24,573,1216,698,1052,3588,327,1,1,58
+Forces	17,1950,698,651,80,24,573,1216,698,1052,3588,327,1,1,58,4408
 Forces Agreement	3583
 Forces Armées	7843,394,3663
 Forces Armées Burundaises. Pour	13329
 Forces Faiblesse	10874
 Forces Faiblesses	10874
 Forces Faiblesses PNDIS	13306
+Forces United Nations Integrated Transition Assistance	15342
 Forces de Défense	643,4661,2070,2885,233,1105,1732,913,331
 Forces de Police	7940
 Forces-Faiblesses-Opportunités-Men-	13306
@@ -163,6 +172,7 @@ Gambia Police Force and Justice	1000
 Gender Income Age Labor Force Participation	1828
 Ghana Air Force. Entre	12885
 Ghana Armed Forces	587,7108
+Governance FATF Financial Action Task Force	14997
 Government Security Forces	12201
 Government and Force	13361
 HEADLINE LABOUR FORCE INDICATORS BMTHS	12600
@@ -181,11 +191,14 @@ III.1.1 Forces	13306
 IR Task Force Members	12935
 IR Task Force Members Supported	12935
 IR Technologies The Task Force	12935
+ITRRI Inter-Ministerial Task Force for Refugee-Returnees	14874
 Identification System NAMPOL Namibian Police Force	12947
 Incident Response Task Force	1777
+Inclusion Task Force	15115
 Information System TFEMPS Task Force	13310
 Institutional Wall and Forced Asset Sweeps	7909
 Instructed the AACB Task Force	4103
+Inter-Ministerial Task Force for Refugee-Returnees	14874
 Internet Engineer Task Force	576
 Internet Engineering Task Force	991,8769
 Internet Research Task Force	991
@@ -198,9 +211,9 @@ Kenya Defence Forces AI and Emerging Technologies	7548
 Kenya Defence Forces Act	9239
 LAPA Task Force	5620
 La Force Nationale de Police	4420
-Labor Force	13314
+Labor Force	13314,1583
 Labor Force Asses	13314
-Labor Force Survey	11271
+Labor Force Survey	11271,3726,27
 Labor Force Tax Staff	12948
 Labour Force	11296,1304,2215,17
 Labour Force Both Sexes	14815,17
@@ -268,9 +281,11 @@ POLICY FORCES THE ISSUE	12050
 PROJECTS AND FORCASTS DIVISION DEPARTMENT	10980
 Pan-African Task Force	1243
 Planned Construction of Mauritius Disciplined Forces Academy	14830
-Police Force	1000,8970,490,1585,1241,29,1427,18,21
+Police Force	1000,8970,490,1585,1241,29,1427,18,21,203
 Police Force and Fire and Rescue Services	14830
+Police Forces	14914,426
 Police Forces SADC PF Norms and Standards	12201
+Police Forces. Director	14854
 Popular Force	14044
 Population Outside Labour Force	12600
 Potential Labour Force	11296,3519
@@ -282,21 +297,27 @@ Public and Disciplined Forces Service Commission	14847
 Quarterly Labour Force Survey	10058,1238
 Quarterly Labour Force Survey URL	11296
 R. Wodak and B. Forchtner	11028
-RSF Rapid Support Forces SAF Sudanese	6947
-Rapid Support Forces	1676,175,36,1696,662,2702,3061,326,3860
+RSF Rapid Support Forces	15036,184
+RSF Rapid Support Forces SAF Sudanese	6947,8395
+Rapid Support Force	14945
+Rapid Support Forces	1676,175,36,1696,662,2702,3061,326,3860,730,35,39,3,35,184,32,90
 Rapid-Response Task Force	14818
 Regional Gender Permanent Task Force	12946
 Release of Labour Force	14832
 Response Task Force	1777
+Rwanda Labor Force Survey	14922
 SADC SR-CIRT Task Force	5780
 SADC2 and COMESA3 the Financial Action Task Force	12444
+SAF Sudanese Armed Forces	15036
 Security Forces	13123
 Security Forces Kill Protesters	9399
 Seychelles Police Force	7760
 Sick and Shipwrecked Members of Armed Forces	14742
 Social Cohesion and Forced Displacement	1867
 Social Performance Task Force	10965
-Somali Police Force	2273,470
+Somali Police Force	2273,470,12241
+Somali Police Force. Investigator Development Course	14899
+Somali Startup Hubs Join Forces	15239
 South African National Defence Force	11289
 South Sudan People's Defence Forces	3583
 South Sudan Peoples Defence Forces	3583
@@ -307,16 +328,20 @@ Special Mobile Force SOCO	14760
 Specialized Investigative Task Forces	12922
 State-Building Cannot Be Forced	3615
 Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135
-Sudanese Armed Forces	1851,36,2358,2702,1186,1875,4186
+Sub-sector Working Groups Task Forces Banking	14997
+Sudan Armed Forces	15220
+Sudanese Armed Forces	1851,36,2358,2702,1186,1875,4186,730,21,14,42,35,304,2
 Superior Force	12364
+Support Forces SAF Sudanese Armed Forces	15118
 TECHSO-GROUP Join Forces	4925
 Tanzania People’s Defence Force	2867
 Task Cybersecurity Council. Force	1777
-Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175,398,25,172,203,151,833,9,319,120,8
+Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175,398,25,172,203,151,833,9,319,120,8,182,65
 Task Force Committee	14082
 Task Force Name	11129
 Task Force for Global Health	4782
 Task Force of Senior Officials	13417
+Task Forces	14997
 Tax Evasion Protest Erupts Over Forced	3768
 Technical Task Force	1777
 U.S. Air Force Mobility Guardian	4434
@@ -329,6 +354,7 @@ Uganda Police Force	3087,536
 Uganda Police Force's Cyber Crimes Unit	12232
 Umbutfo Eswatini Defence Force	12922,34,167
 Union Socialiste des Forces Populaires	8891
+United Nations Interim Security Force for Abyei	14959
 Vandenberg Space Force Base	6897
 Verbal Autopsy Task Force	12338
 Warning Signs Absence of Forced Migration	12352

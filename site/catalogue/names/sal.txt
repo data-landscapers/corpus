@@ -84,7 +84,7 @@ Dar-es Salaam	2816
 Decoder Sales Decoder Repairs	1944
 Dedza and Salima	12253
 Deed Number Chitepo Salisbury Township	4896
-Deputy Prime Minister Salah Ahmed Jama	8845
+Deputy Prime Minister Salah Ahmed Jama	8845,6258,82
 Di Salvo	11487
 Diem Co and Salt Rock City	5621
 Digital Minister Alioune Sall	5985
@@ -98,7 +98,9 @@ Dominica El Salvador Grenada Guatemala Guyana	10764
 Dr. Abdoulaye Salifou	14157
 Dr. Abudu Sallam Waiswa	7429,2352
 Dr. Bayero Salih Farah	10603
+Dr. Hisham Salah El-Din Shazly	15257
 Dr. Iziaq Adekunle Salako	7895,4109
+Dr. Salahiden Alhaj	14895
 Dr. Salako	7895
 Dr. Salifou	14157
 Dr. Salim Hamouda Abu Khreis	9091
@@ -166,6 +168,7 @@ Gratif. Cantidad Total General Salario Bruto	4209
 Groupe Salaam	4774
 Grupos Parlamentarios Salvador Nguema Mangue	9303
 H.E. President Salva Kiir	3736
+H.E. Salah Ahmed Jama	15103,38
 H.E. Salimo Valá	8754
 HOL Zahwa Salah Mukhtar	3463
 HUMAN CAPITAL MANAGEMENT Salary Review	11131
@@ -173,6 +176,7 @@ Holy Mosques King Salman	14545
 Hon. Dr. Mohamed Farid Saleh	7142
 Hon. N. S. L. M. Salakae	12607
 Hon. Noah Salakae	10151
+Hon. Salah Ahmed Jama	14978
 Hon. Salima Monorma Bah	3950
 Honourable Commissioner Janet Ramatoulie Sallah-Njie	8485
 Hormuud Salaam Foundation	10116
@@ -180,6 +184,7 @@ Huawei Senior Vice President of Enterprise Sales	13210
 Hôtel Salam de Bamako	1968
 IBM and Salesforce	11344
 IDPs.106 Salama	11994
+IGO. Sales	14898
 INTERNATIONAL MONETARY FUND BURUNDI Salary	13624
 IPT Powertech Group SAL	344
 IVe Salon	6731
@@ -254,7 +259,9 @@ Macky Sall	4899,123,2548
 Madam Salima Bah	5849
 Mahamat Saleh Abdeldjelil	8388
 Mamoud Kamara and Salamatu Kargbo	11651
-Maryam Salim	14092
+Maryam Salim	14092,972
+Maryam Salim Country Manager	14937
+Maryam Salim Task Team Leader	14948
 Mayar Salva Kiir	3583
 Mc El Salvador Americas	10840
 Medium and High Voltage Class of Consumers Sale	9409
@@ -283,9 +290,11 @@ Mr. Salifu Suleman	3384
 Mr. Salum Kassim the Chief Government Statistician	11133
 Mrs. Bibi Salma ALLEEBUX Manager	14745
 Mrs. Nadjma Saleh Kebzabo	4925
+Ms. Arwa Salah	14895
 Ms. Hagar Khaled Saleh	6938
 Ms. Sally Njiri RMNCAH MoH DHPT	9855
 MultiChoice Uganda Managing Director Hassan Saleh	7429
+Muna Salih Meky Task Team Leaders	14937
 Mustapha Salah	5277
 NBC Kiganjani DAR ES SALAAM	14176
 NIYONZIMA Salvator	13341
@@ -312,6 +321,7 @@ Oghenere G. Salubi Received	8022
 Oghenere Salubi	8022
 Olajide Salawu	9739
 Omar Salem Mandouq Director General of E-Learning	2958
+Omran Salih	15123
 One-Third of Basic Salary Rule	14546
 Opinions Salakae Resigns	10151
 Oracle Salesforce China Unicom Alibaba Salesforce	6477
@@ -327,7 +337,7 @@ POS Sales	11955
 PRIVINVEST SHIPBUILDING SAL	1829
 PROVISION OF SERVICES AND SALES Sales	11955
 Page SALUTATIONS	13504
-Par Salif D. Cheickna	9028,1897
+Par Salif D. Cheickna	9028,1897,4362
 Partial Credit Guarantee Point of Sale Real	12701
 Partido Nacional de Salvação de Angola	10428
 Partner Sales	13461,1
@@ -335,7 +345,7 @@ Payment of Salary Review	14546
 Payroll Ghosts and Duplicated Salaries Mr Mabiala	9517
 Personnel and Salary System	7910
 Poder Judicial Secretario Sala	4209
-Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426
+Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426,887,33
 Point of Sale and ATM Switching	2276
 Point of Sale-POS-cards	8806
 Point of Sales	4630,50,637,6721
@@ -344,6 +354,7 @@ Politique Politique Procès Khalifa Sall Société	9890
 Port of Salalah	2405
 Port of Salalah China West Airport Group	2511
 Porto Salvo	4938
+Portugal and El Salvador	14932
 Presença de Sal Iodado	10777
 President Macky Sall	647,2951
 President Salva Kiir	3583,716,379,2769,1631
@@ -371,6 +382,7 @@ RDGE Salome ZURIEL	13938
 RDGE Salomé ZURIEL	13885
 READY Salone	8271,525
 RECEIVE UGANDA SALAAM BANK ACCESS STANBIC	11002
+RRA Rwanda Revenue Authority SDC Sales	14985
 Radio Tamazuj South Sudan's President Salva	4597
 Ready Salone	9450
 Recorded Sale of Government Forest Products	2775
@@ -423,7 +435,7 @@ Sala de Conferencia de Luba Malabo	4209
 Sala de Inteligência Artificial	8807
 Sala de Reuniões	12810
 Sala de Servidores	9694
-Salaam	637,177,332,70,11,34,660,329,25,305,138,149,1,79,41,74,304,94,49,445,145,288,52,314,165,35,92,45,26,300,95,204,56,12,142,68,22,7,8,16,37,85,303,106,239,26,85,228,103,63,194,30,731,135,52,64,88,140,133,126,135,201,26,313,89,211,51,59,96,65,200,132,618,123,279,11,4,110,495,144,542,136,6,508,42,406,160,424
+Salaam	637,177,332,70,11,34,660,329,25,305,138,149,1,79,41,74,304,94,49,445,145,288,52,314,165,35,92,45,26,300,95,204,56,12,142,68,22,7,8,16,37,85,303,106,239,26,85,228,103,63,194,30,731,135,52,64,88,140,133,126,135,201,26,313,89,211,51,59,96,65,200,132,618,123,279,11,4,110,495,144,542,136,6,508,42,406,160,424,621
 Salaam Business School	6816
 Salaam Declaration	11572
 Salaam Energy Declaration	2391
@@ -494,7 +506,7 @@ Salamu	2868
 Salangwa	3791
 Salaried	12460
 Salaried-	12460
-Salaries	3583,718,206,2,292,732,2338,3260,3,84,6,762,14,270,113,107,481,5,77,1493
+Salaries	3583,718,206,2,292,732,2338,3260,3,84,6,762,14,270,113,107,481,5,77,1493,350,26
 Salaries and Allowances	12606
 Salaries and Benefits	4153
 Salaries and Remuneration Commission	11247,217,2958,27,44,53
@@ -506,7 +518,7 @@ Salarisation Au Burkina Faso	737
 Salarié	13390,52
 Salarié Salarié	737
 Salariée Indépendant Chômeur Retraite Etudiant Incapacité	13390
-Salary	418,3883,6462,49,406,6,1073,740,16,1707,13
+Salary	418,3883,6462,49,406,6,1073,740,16,1707,13,123
 Salary A Pension	13108
 Salary Band	11218
 Salary Band for Personnel Below Senior Management	11218
@@ -517,6 +529,7 @@ Salary Review	13123
 Salary Review Report	13123
 Salary Service Bureau	13533
 Salary Services Bureau STM-1 Synchronous Transport	13295
+Salary Survey Report and Revised Compensation Policy	15023
 Salas Subía	7886
 Salas de Congresos	4209
 Salas de Informatica	1526
@@ -527,10 +540,12 @@ Salazie	11332
 Saldana J. Qualitative Data Analysis	14666
 Saldanha	11248
 Saldanha Bay	11286
+Saldhigga Booliska	14930
 Saldo	4209
 Saldos	1701,9703
 Saldos de Moeda Electrónica	11386
 Sale Commercial for Sale Houses	2888,32,354,504,1444,877,6,100,680,129,293,115
+Sale Licensee The QoS	14867
 Sale PSF Private Sector Federation QoS	718
 Sale Price Flat Rate	9409
 Sale and Leaseback	13053
@@ -557,12 +572,12 @@ Salem	11156,1806,84
 Salem Bede Etvagha	2813
 Salem Ould Beddah	7190
 Salem Ould Bede	8238
-Sales	970,2892,5901,701,376,22,434,582,77,236,4,61,244,685,5,271,71,422,37,386
+Sales	970,2892,5901,701,376,22,434,582,77,236,4,61,244,685,5,271,71,422,37,386,552,94,106,19,145
 Sales Contract	14216
 Sales Data Controller	12420
 Sales Director-East Africa	6186
 Sales Directors	5124
-Sales Email	12622
+Sales Email	12622,2256
 Sales Increase	12256
 Sales Lead	3066
 Sales Manager	14508
@@ -572,7 +587,7 @@ Sales No. E.24.II.D.39 ISBN	13042
 Sales No. E.25.II.D.17	13382
 Sales Number E.13.XVII.10	12338
 Sales PIN Letters	11955
-Sales Phone	12622
+Sales Phone	12622,2256
 Sales Register Machines	13968
 Sales Tax	12644
 Sales and Distribution Director	10249
@@ -601,6 +616,8 @@ Salif D. Cheickna	2630,489,219,2,36,67,255,485,366,167,1129,22,1037,218
 Salifo Tiemtoré	10827
 Salifou	1814
 Salifou Abdoul Salam	14186
+Salih Ammar	15342
+Salih Mohamed Ahmed Mohamed Siddig	15251
 Salim	8022
 Salim Abdoulatuf	3868
 Salim Cripton Valá	12842
@@ -621,7 +638,7 @@ Salima Zomba	12241
 Salima and Nkaya	13060
 Salimane Karimou	10883
 Salimani-Hambou	13786
-Salimata BANCE	5751
+Salimata BANCE	5751,9543
 Salimata Bance. Publié	6159
 Salimata Romba	4551
 Salimato Sanhá	11544
@@ -630,6 +647,7 @@ Salime Khaladji Touré. Selon	3404
 Salime Toure of ANSUT	6835
 Salimo Abdula	10141
 Salinas	1828,988
+Salinity	15129
 Salis	8604
 Salissou Soumana Karimou Publié	9668
 Salisu	6536
@@ -644,6 +662,7 @@ Salleh	9128
 Salles	10847
 Salles NB Ecoles NB Salles NB	10847
 Salles Serveurs	14537
+Sally	14856
 Sally Gitonga	6946
 Sally Kuria	8764
 Sally Safi	1212
@@ -709,6 +728,7 @@ Salvaguarda	11374,527
 Salvaguardada	4274
 Salvaguardar	1701,1818,7922
 Salvaguardas Ambientais	11898
+Salvation Economic Programme	14860
 Salvator CINYO Gabriel BAMBONEYEHO Jean de Dieu	13300
 Salvatore Eugenio Pappalardo	11006
 Salvatori Abuki and Another	3307
@@ -727,6 +747,7 @@ Salémata	8269
 Sami Salih	14240
 Samira Njoya SALES	14544
 Sandbox Regional Head for Sales and Marketing Ms	9589
+Schemes POS Point of Sale PPP Private	14997
 Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secção da Sala	10751
@@ -737,8 +758,10 @@ Senator Shuaib Afolabi Salisu	3942,2594
 Senator Shuaib Salisu	7853
 Senior Sales	11032
 Senior Sales Director for Middle East	11502
+Separation of Sales	15149
 Servicio Nacional de Salud	1701
 Servicios Esenciales de Salud	4209
+Shamis Salah Musingo	15059
 Sierratel and SALPOST	6063
 Sistema Nacional de Salud	4209
 Sistema de Salud	1701
@@ -763,6 +786,8 @@ TELEVISION SALAMA	13324
 TOYI Salvator GAHUNGERE Olivier KAYIRO Pierre	13300
 Taban President Salva Kiir Mayardit	9122
 Tabela Salarial	752
+Taxable Sales of Excisable Products Excise	14985
+Taxable and Non-Taxable Sales	14985
 Technology and Innovation Minister Salima Bah	5908
 Technology and Innovation Salima Bah	9077
 Technology and Innovation Salima Monorma Bah	6063
@@ -779,6 +804,7 @@ Université du Sine Saloum El Hadji Ibrahima	8269
 Urban Rural Salary	10763
 Uzazi Salama	3898,2202
 Uzazi Salama AI	8883
+VAT Turnover and Taxable Sales Growth	14985
 VI.1 REPARTITION DES SALLES DE CLASSES	10847
 VI.3 SURFACE DES SALLES DE CLASSE	10847
 VI.4 NATURE ET ETAT DES SALLES	10847

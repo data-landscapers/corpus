@@ -161,7 +161,7 @@ GESTÃO ECONÓMICA	167
 GESTÃO FINANCEIRA E PATRIMONIAL	4218
 GIS Geographic Information System GMAO Gestion	13306
 GIZ Deutsche Gesellschaft	8985
-Gabinete de Gestão	5405,6000,23,9,132,255
+Gabinete de Gestão	5405,6000,23,9,132,255,3439
 Gabinete de Gestão Espacial Nacional. Assegurou	10366
 Geschiere	12227
 Geschiere and Nyamnjoh	12227
@@ -175,7 +175,7 @@ Gestao	574
 Gestao de Contas	570
 Gestao de Receitas	574
 Gestational Diabetes	14773
-Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319,1247,11,5,35,34,15,123,115,74,158,12,26,463,62,1,1,12,21,22,3,5,1,1,8,4,18,17,2,1,9,15,9,1,4,34,10,1
+Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319,1247,11,5,35,34,15,123,115,74,158,12,26,463,62,1,1,12,21,22,3,5,1,1,8,4,18,17,2,1,9,15,9,1,4,34,10,1,288,8,183
 Gestion Axée	10712,164
 Gestion Barrages	3396
 Gestion Bois	3396
@@ -377,6 +377,7 @@ La Gestion Axée	10712
 La Gestion des Matériels Assisté	13341
 La Gestion des Ressources Humaines	14537
 La Société de Gestion des Stocks	2342
+Le Comité de Gestion	15027
 Le Contrôle de Gestion	10975
 Le Gestionnaire	13809
 Lei. II. Na Gestão da Dívida Pública	12796

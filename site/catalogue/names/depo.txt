@@ -10,8 +10,10 @@ Bank Deposits	11955
 Banks and Specialised Deposit-Taking Institutions Act	7114
 Basic Bank Account and Cash Deposit Fees	12447
 Broadband Data Depository	14723
+Bureau CSD Central Securities Depository EAC	14997
 CBN Compliance Department. Deposit Money Banks	5369
 CENTRAL DEPOSITORY AND SETTLEMENT CORPORATION LIMITED	7167
+CENTRAL SECURITIES DEPOSITORY	15023
 COMPTES DE DEPOTS	13390
 COSMOPOLITAN DEPOSIT TAKING SOCIETY LIMITED Data	7167
 COTTS NON-WITHDRAWABLE DEPOSIT TAKING SACCO Data	7167
@@ -20,7 +22,7 @@ Cash Deposit Fees	12447
 Cassa Depositi	789,9914,954,1162
 Central Depository	10853,3875,2
 Central Depository and Settlement Corporation	7567
-Central Securities Depository	3714,803,2461,4156,973,257,688,400,16
+Central Securities Depository	3714,803,2461,4156,973,257,688,400,16,1555
 Central Securities Depository Company of Botswana	12537
 Central Securities Depository Participant	4896
 Certificates of Deposits	4680
@@ -44,6 +46,7 @@ DEPOSE	14488
 DEPOSE ET DEMOLITION	14489,1
 DEPOSE ET DEMOLITION Nous	14489,1
 DEPOSE Nous	14488
+DEPOSIT TAKING FINANCIAL SERVICE PROVIDERS	15023
 DEPOSITARY PREAMBLE	12527
 DEPOT Switzerland Email	13360
 DEPOT Type	13390
@@ -68,9 +71,10 @@ Deportes	1855,2354,2632
 Deportes. Excelentísimo	6841
 Deporting	11986
 Deportiva Militar	4209
-Deposit	5679,5338,938,1522,55,1014
+Deposit	5679,5338,938,1522,55,1014,477
 Deposit Category Balance	14546
-Deposit Guarantee Fund	10779
+Deposit Guarantee Fund	10779,4244
+Deposit Guarantee Fund DTFIs Deposit Taking	15023
 Deposit Insurance	14744
 Deposit Insurance Corporation Act	9341
 Deposit Insurance Corporation Act and ESOMA Bills	9220
@@ -78,6 +82,7 @@ Deposit Insurance Fund. Together	14224
 Deposit Insurance Permanent Secre- Board	6938
 Deposit Insurance Scheme of Botswana	6938
 Deposit Insurance Scheme. Outcome	12701
+Deposit Market	14997
 Deposit Money Banks	3491,3207,237
 Deposit Protection	11134
 Deposit Protection Corporation	3025,10663
@@ -86,20 +91,26 @@ Deposit Protection Fund	11131,3
 Deposit Protection Fund CBE Greening	11134
 Deposit Protection Fund CEO Uganda Microfinance	6938
 Deposit Protection Fund Progress	11134
+Deposit Taking Microfinance Institutions	15023
 Deposit Taking Savings and Credit Cooperatives	2775
 Deposit-Taking Institutions	8732
 Deposit-Taking Microfinance Institutions	14206
+Deposit-taking Microfinance	15023
+Deposit-taking Microfinance Institutions	15023
 Deposit-taking Savings and Credit Cooperatives	6938
 Depositar	12774
 Deposition	5246
+Depositor	15023,1
 Depositors	9441
-Depository	10,10783
+Depository	10,10783,4204
 Depository Account	11233
 Depository Accounts	11233
+Depository CSR Corporate Social Responsibility DGF	15023
 Depository Trust	9706
 Depository and Registration	14409
+Depository. Identify	14997
 Depositou	10760
-Deposits	3657,238,3794,3442,3415
+Deposits	3657,238,3794,3442,3415,451,26
 Depositário	11374
 Depot	12256
 Depots	12256
@@ -111,6 +122,7 @@ ENSEÑANZA PROFESIONAL Y DEPORTES Servicio	4209
 ENSEÑANZA Y PROFESIONAL Y DEPORTES	4209
 Eswatini's Deposit Protection Fund	8377
 Federaciones Deportivas	4209
+Financial Institutions DTMIs Deposit Taking Microfinance	15023
 Financial Intelligence Unit Nigerian Deposit Insurance	6938
 Fraud A- Deposit	582
 Gastos de Organización de Competiciones Deportivas	4209
@@ -123,6 +135,7 @@ Instruments UMOA UMOA Central Depository	6938
 Jumia American Depositary Shares	9984
 Kenya Deposit Insurance Corporation	6938
 LIEU DE DEPOTS DES PRODUITS	14488,1,1
+Lending Deposit Lending-deposit	14997
 Loans Assets Deposits Loans	11960
 Lomé ECOWAS Logistics Depot	6422
 Long Outstanding Deposits	14546
@@ -138,8 +151,10 @@ Ministério da Justiça. Depois	12863
 Morris Depot	13361
 Multiple Access CDSC Central Depository and Settlement	2775
 NAME OF DEPONENT	12374
+NDFIs Non Deposit Financial Institutions NDTFSPs	15023
 National Securities Depository Ltd	6692
 Nigeria Deposit Insurance Corporation	9571
+Non Deposit Taking Financial	15023
 ODC Other Depository Corporations OFC	14777
 ODCs Other Depository Corporations Survey ODPP	2775
 OVERSIGHT OF ZAMBIA’S REGULATED NON DEPOSIT	13532
@@ -158,7 +173,9 @@ Responsable Deporte Militar	4209
 Review of Detention and Deportation Policy	11986
 SECUNDARIA UNIVERSITARIA E DOCENTE JUVENTUD DEPORTES	4209
 SIGNATURE OF DEPONENT	12374
+Securities Depository	14997
 Subscriber Line DT SACCOs Deposit Taking	2775
+Sudan Deposits Its Country Signing Certificate	15104
 Só Depois Avançar O Banco Mundial	9558
 Tomlinson Depot	13361
 Técnico Disciplina Deportiva Militar Servicio	4209

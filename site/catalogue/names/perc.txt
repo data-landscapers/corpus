@@ -37,11 +37,12 @@ Community-based Percentage	11525
 Compliance Percentage Formula	13381
 Computers Public Perception of Accountability	10835,3,130,902,16,466,1,135
 Consumer Perception Survey. Consumers	11744
-Corruption Perception Index	789,11809
+Corruption Perception	14997
+Corruption Perception Index	789,11809,2299,100
 Corruption Perceptions Index	8891,1202,2576
 Count Percentage Community	12413
 Country Percentage	11922
-Counts Percentages Same	12413
+Counts Percentages Same	12413,2643
 Current Perceptions Among Senior Practitioners Seventy-two	11138
 Data Governance Act. Country Percentage	11922
 Davis FD. Perceived	10919,3747
@@ -55,9 +56,10 @@ Down and Scattered.’ Community Priorities and Perceptions	6947
 Dr. Percy Mangoaela Chairman	12646
 EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1,135
 Education Education Quality Public Perception of Education	10837,1315,188
-Education Level Number Percentage None	12413
+Education Level Number Percentage None	12413,2643
 Emerging Percentage	7548
 Emerging Percentage of National AI Baseline	7548
+Establishments Establishment Type Count Percentage Formal	15085
 Financial Management Public Perception of Easiness	10759,78,1315,188
 Financial Statements Percentage	13420
 Findings Number Percentage Number Percentage Number	3051
@@ -76,6 +78,7 @@ IDPs PIU Percentage	10964
 IMF World Economic Outlook Percentage	11964
 INDICATORS AND COMPONENTS VALUES Perceptions	12389
 INTERNET USE Percentage	12344
+Indicator Summary Perceived	15164
 Individual Perceptions	14666
 Inhabitants Percentage of Population Covered	12395
 Intermediate Results Indicators Percentage	11924
@@ -93,7 +96,9 @@ MIS Percentage	11855
 Main Economic Activity Percentage	12445
 Management Perception Recognition	11131
 Market Perception and Financial Stability Implications Mixed	13532
+Marriage Regime Count Percentage Community	15056
 Maternal Health Health Quality Public Perception	10837,1315,188
+Measuring Governance Using Cross- Country Perceptions	14897
 Medium Enterprises Stakeholder Perception Index Small	11134
 Millions Percentage	11131
 Minimum de Perception	6954
@@ -109,6 +114,8 @@ National Social Registry. Percentage	10964
 Negative Public Perception of Off-grid Solar Solutions	12399
 Nigeria Percentage	11004,960
 Number of Percentages	12413
+Numbers Percentages	15056
+Numbers Percentages Community Health	15056
 Occupation Percentage	12006
 Overall Ranking of Perceptions of Business Factors	12445
 PAA Percursos de Aprendizagem Alternativos	11557
@@ -116,18 +123,20 @@ PARTY PLATFORM NUMBER OF FOLLOWERS PERCENTAGE	12201
 PDO Indicators Percentage	11924
 PERCEIVED MAJOR OBSTACLES	12389
 PERCENTAGE	12214
+PERCENTAGE CONTRIBUTION OF TOTAL REVENUE COLLECTION	14985
 PERCIVAL	6613
 PIU Percentage	10964
 PM Perception	11131
 Part C Percentage	11181
 Percebe-se	11901
 Perceive	418
-Perceived	2948,4811,371,541,458,786,1025,64,923
+Perceived	2948,4811,371,541,458,786,1025,64,923,2969,446
 Perceived Benefits of System Use	12025
 Perceived Challenges of System Use	12025
 Perceived Ease of Use	11927
 Perceived Impact	12182
 Perceived Most Viable Opposition Challenger	7869
+Perceived Self-censorship and Being	15342
 Perceived Usefulness	11927
 Perceiving	2093
 Percent40029920	10718
@@ -135,14 +144,17 @@ PercentBaseline GDP GrowthNew GDP Growth	13624
 PercentPaanegorecmeoanflt3iae-gsme	10763
 Percenta-	10777
 PercentaPgeercoefnmtaognethosf	10763
-Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3
+Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85
 Percentage Addressed	3051
+Percentage Age	15085
 Percentage Agriculture	2775
+Percentage Annual	14935
 Percentage Annual Growth	13053
 Percentage Area Affected	12614
 Percentage Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Percentage Change	2775,12065
 Percentage Change Improvement	11134
+Percentage Change Mobile Voice	15120
 Percentage Change Quarter	11152
 Percentage Changes	2775
 Percentage Changes of Wage Employment and Average Earnings1	2775
@@ -166,55 +178,79 @@ Percentage Market	6671
 Percentage Number Male Female Total Top	14773
 Percentage Percentage	582,11297
 Percentage PhD	14775
+Percentage Pls	14997
+Percentage SSA	14997
 Percentage South-South	3862
 Percentage Top Performer	11131
 Percentage of AI	7548
 Percentage of AI Current	7548
 Percentage of API	13005
 Percentage of African	8898
+Percentage of Allocated Intergovernmental Transfers	14935
 Percentage of Banks	10779
 Percentage of Budget Executed	13005
 Percentage of Cases With Laboratory Results	11912
+Percentage of Citizens	14935
 Percentage of Credit Allocated Expenditures	10964
+Percentage of DIDIMACs	14935
 Percentage of DROs	13005
 Percentage of Essential	2775
 Percentage of Establish	7548
+Percentage of Expenditures	14987
+Percentage of Financial	14997
 Percentage of Financial Institutions	2775
 Percentage of Financing Expenditures	11525
+Percentage of GDP	14896
 Percentage of GNI Eswatini	12395
 Percentage of Household	14836
 Percentage of Households	11211,51
 Percentage of Housing Developers	2775
 Percentage of Immediately Notifiable Diseases Entered	11912
+Percentage of Information	14935
 Percentage of Internet	11857
+Percentage of LED	14935
+Percentage of Local Economic Development	14935
+Percentage of Local Government Capacity Development Strategy	14935
+Percentage of M	14997
+Percentage of MFI	14997
 Percentage of MM	10856
 Percentage of Market Share of Service Deployment	3862
 Percentage of Mauritian	14723
 Percentage of Moisture	1988
 Percentage of Multidimensional Poor Per State	11998
 Percentage of N	11905
+Percentage of NDFSPs	14997
 Percentage of Percentage	11525
 Percentage of Permanent Post Offices	12395
 Percentage of Poor Covered	10985
 Percentage of Poor Covered Figure	10985
 Percentage of Population	10765,10
 Percentage of Postal Service Points	12395
+Percentage of Primary	14935
 Percentage of Procurements	13005
 Percentage of Project-supported	11417
 Percentage of Public Health Emergency Operations Centers	11417
 Percentage of Real Estate Firms	2775
+Percentage of Regional	14997
+Percentage of Rwf	14997
+Percentage of SACCO	14997
 Percentage of SEP	1778
+Percentage of Sector Ministries	14935
 Percentage of Shares	14809
+Percentage of Sustainable and Profitable MSMEs	14935
 Percentage of TWGs	12356
 Percentage of Tax Arrears Collected Target Actual	13053
 Percentage of Tax Refund Applications Processed	12951
 Percentage of Technologies	7548
+Percentage of Turnover	14985
+Percentage of UNFPA	15039
+Percentage of Weekly	14997
 Percentage50	11879
 Percentagem	1144,9613,3,6,11,610,634,756
 Percentagem da População Coberta	11418
 Percentagem de Percentagem	10760
 Percentagens	10777
-Percentages	7151,1285,1336,1232,328,632,126,111,212
+Percentages	7151,1285,1336,1232,328,632,126,111,212,2643,108
 Percentages of Registered	12413
 Percentile Median	4972
 Percentile US	4972
@@ -224,7 +260,7 @@ Percepción	7886
 Perception	5247,1712,927,136,1107,1260,370,78,473,842,94,82,12,49,969,60
 Perception Survey	6946
 Perception of Lack of Skills	12445
-Perceptions	1219,2572,1057,399,2775,581,1013,63,1202,704,317,14,78,395,1143,1134
+Perceptions	1219,2572,1057,399,2775,581,1013,63,1202,704,317,14,78,395,1143,1134,221,455
 Perceptions Index of Customs and Trade Regulations	12389
 Perceptions Index of Transportation Not Being	12389
 Perceptions and Representations of DH	14666
