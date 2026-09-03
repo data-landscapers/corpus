@@ -1,0 +1,16 @@
+filler-batch: 13 country(ies) queued from --only
+  DZA, EGY, LBY, MAR, TUN, CIV, CPV, MRT, NER, SEN, SLE, STP, TGO
+  model claude-opus-5[1m] | one fresh session each | strictly serial
+  stop on: no deadline, 3 consecutive failures, more than 20 quota waits, no cost ceiling, STOP in logs/filler-batch
+
+=== DZA — started 10:09:05 (timeout 120m) ===
+--- DZA PROBLEM in 46m — probed 62, staged 48 baseline + 76 progress, nil 1, $41.49
+    ! 'Filler Searched' still blank — the queue will offer DZA again
+    ! lint-staged-queue: 1 finding(s)
+
+=== EGY — started 10:55:33 (timeout 120m) ===
+--- EGY PROBLEM in 42m — probed 52, staged 46 baseline + 67 progress, nil 1, $68.03
+    ! 'Filler Searched' still blank — the queue will offer EGY again
+    ! lint-staged-queue: 6 finding(s)
+
+=== LBY — started 11:37:16 (timeout 120m) ===
