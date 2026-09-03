@@ -14,3 +14,25 @@ filler-batch: 13 country(ies) queued from --only
     ! lint-staged-queue: 6 finding(s)
 
 === LBY — started 11:37:16 (timeout 120m) ===
+--- LBY PROBLEM in 81m — probed 57, staged 55 baseline + 70 progress, nil 0, $137.19
+    ! 'Filler Searched' still blank — the queue will offer LBY again
+
+====================================================================
+filler-batch: 3 run(s), 0 clean — stopped: 3 runs in a row had problems
+  wall 2.8h | $246.71 | median 46m a country
+  staged 149 baseline + 213 progress file(s) — undelivered in C:\corpus-osint-xfer\new-queue until Bill moves them
+  ledger: logs/filler-batch/2026-09-03-batch.csv
+  PROBLEM DZA: 'Filler Searched' still blank — the queue will offer DZA again; lint-staged-queue: 1 finding(s)
+  PROBLEM EGY: 'Filler Searched' still blank — the queue will offer EGY again; lint-staged-queue: 6 finding(s)
+  PROBLEM LBY: 'Filler Searched' still blank — the queue will offer LBY again
+  queue: 13 country(ies) still unsearched — DZA, EGY, LBY, MAR, TUN, CIV, CPV, MRT
+filler-batch: 10 country(ies) queued from --only
+  MAR, TUN, CIV, CPV, MRT, NER, SEN, SLE, STP, TGO
+  model claude-opus-5[1m] | one fresh session each | strictly serial
+  stop on: no deadline, 12 consecutive failures, more than 20 quota waits, no cost ceiling, STOP in logs/filler-batch
+
+=== MAR — started 13:01:26 (timeout 120m) ===
+--- MAR PROBLEM in 47m — probed 42, staged 38 baseline + 65 progress, nil 1, $29.25
+    ! 'Filler Searched' still blank — the queue will offer MAR again
+
+=== TUN — started 13:48:03 (timeout 120m) ===
