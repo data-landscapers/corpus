@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 place: RWA
-ledger_rows: 35
-not_held: 9
-record: ee8795caa285
+ledger_rows: 36
+not_held: 8
+record: f1894a6fede6
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -25,9 +25,9 @@ The social registry's appeals process is the month's most useful disclosure: [36
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The ministry's legacy-network retirement plan, announced on 28 July, extends beyond the switch-off dates themselves: extensions to the working timetable are temporary and regulator-approved only, and a government-commissioned study found more than two million people could still be on the older network in 2030 without a planned transition — the study is unpublished, so its method and definitions are unestablished. The ministry also published capability check codes and an institutional audit checklist covering messaging services, payment terminals, utility meters and vehicle trackers.
+Beyond the switch-off dates, the ministry's retirement plan makes timetable extensions temporary and regulator-approved only, and cites a government-commissioned study finding more than two million people could still be on the older network in 2030 without a planned transition — the study is unpublished, so its method and definitions are unestablished. The ministry also published capability check codes and an institutional audit checklist covering messaging services, payment terminals, utility meters and vehicle trackers.
 
-A development agency published on 6 July, from engagements run to March 2026, that Rwandan participants reported [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or active monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally) — while the technology is embedded in payments, judiciary filing, identity verification and service delivery — and that resolving an authentication error can take days or weeks. The report is qualitative and claims no representativeness.
+A development agency reported on 6 July, from engagements run to March 2026, that Rwandan participants said [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally), while the technology sits in payments, judiciary filing, identity verification and service delivery. The report is qualitative and claims no representativeness.
 
 The agency meant to hold that ground acquired its first stated function since cabinet approved it in June. Answering early-stage artificial-intelligence firms pressing publicly for infrastructure and funding, the ICT ministry [said on 17 August that the National AI Agency would coordinate shared compute and data-centre capacity for start-ups and researchers](https://allafrica.com/stories/202608170713.html). No establishing law, compute capacity, access rule or budget is attached to it, and the base still records no sovereign compute of any kind.
 <!-- /narrative -->
@@ -73,7 +73,7 @@ The month's financing arrived as a parliamentary approval rather than a disburse
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the older, second-generation network, expressly conditional on coverage, voice reliability including emergency calls, continuity of mobile money and payments, migration of dependent systems, and the availability of affordable handsets. The technical precondition for the switch-off schedule fell into place days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no completion date given. The source makes no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
+The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the second-generation network, conditional on coverage, voice reliability including emergency calls, continuity of mobile money, migration of dependent systems and affordable handsets. The technical precondition followed days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
 
 
 The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.
@@ -163,6 +163,11 @@ An [academic security operation centre is running through a university network b
 
 ## Data
 
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The seventh demographic and health survey, collected between June and November 2025, [reached its final report in August 2026](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf) — 690 pages, almost entirely tables by design. The release notice in January had pointed to a signed press release rather than the report ([notice](https://statistics.gov.rw/node/805)), so the substantive document only entered the record this month. It joins a foreign private capital census of [424 enterprises at an 89.6 per cent response rate](https://statistics.gov.rw/data-sources/censuses/Foreign-Private-Capital-Census/foreign-private-capital-census-2025), reported in February.
+<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->
