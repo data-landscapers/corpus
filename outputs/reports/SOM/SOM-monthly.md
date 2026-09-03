@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 place: SOM
-ledger_rows: 19
-not_held: 10
-record: eb5744c928b3
+ledger_rows: 23
+not_held: 1
+record: 81cb79f22f31
 ---
 
 # Somalia: monthly update, August – September 2026
@@ -104,4 +104,12 @@ August added a product and an assessment. A private artificial-intelligence cent
 
 <!-- narrative: capacity--capacity-training -->
 In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the base carries no earlier position for it.
+<!-- /narrative -->
+
+## Data
+
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+Earth observation here is a service rather than a programme, and the record caught up with it this month rather than the service changing. A partner information unit [operates high, medium and low-resolution satellite imagery to estimate cultivable area and production, map land use and cover, monitor irrigation infrastructure and track land degradation](https://faoswalim.org/information-management/information-services/remote-sensing), and its routine output — [a national monthly vegetation index series extended through July 2026, mapping deficits against short-term averages](https://fsnau.org/downloads/NDVI-Index-for-Somalia-Jan-2007-Jul-2026.pdf) — is published without interruption. No Somali public body operates an equivalent capability, and the strategic plan for a national meteorological agency, released in December 2025, has not yet produced one.
 <!-- /narrative -->

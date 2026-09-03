@@ -1,6 +1,6 @@
 ---
 title: Somalia — digital transformation and data governance status report
-compiled: 2026-08-30
+compiled: 2026-09-03
 place: SOM
 region: XEA
 built_by: STATUS-INIT
@@ -9,7 +9,7 @@ intersections_read: 7
 sources_cited: 130
 sections_written: 37
 not_established: 4
-acquire_lines: 44
+acquire_lines: 38
 ---
 ## Governance
 
