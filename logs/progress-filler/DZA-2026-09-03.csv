@@ -1,0 +1,63 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--ict-strategy,ICT strategy,2,5,2,1,1,0,3,off-topic,staged,2
+gov.policy--broadband-strategy,Broadband strategy,2,9,3,1,2,0,0,,staged,2
+gov.policy--data-storage-cloud-strategy,Data storage / cloud strategy,2,6,4,1,1,1,1,headline-only-stub,staged,2
+gov.policy--data-interoperability-framework-roadmap,Data interoperability framework / roadmap,2,4,1,0,2,0,1,already-seen,staged,2
+gov.legislate--cybersecurity-legislation,Cybersecurity legislation,2,6,2,0,2,0,1,already-seen,staged,4
+gov.legislate--digital-payments-legislation,Digital payments legislation,2,6,4,1,2,1,1,headline-only-stub,staged,4
+gov.legislate--legislation-enabling-data-interoperability,Legislation enabling data interoperability,2,3,1,0,1,0,1,already-seen,staged,4
+gov.legislate--statistics-legislation,Statistics legislation,2,5,2,1,1,0,0,,staged,4
+gov.legislate--access-to-information-legislation,Access to information legislation,2,5,2,1,0,0,1,fetch-blocked,staged,4
+gov.regional--regional-legal-harmonisation,gov.regional,2,8,4,1,0,0,3,headline-only-stub,staged,6
+gov.regional--cross-border-data-transfers,gov.regional,2,8,3,1,2,0,0,,staged,6
+gov.standards--national-interoperability-standards,gov.standards,2,7,2,0,2,0,1,already-seen,staged,2
+gov.standards--national-quality-standards,gov.standards,2,11,3,1,2,0,0,,staged,2
+gov.discourse--non-governmental-contribution-to-national-policy,gov.discourse,2,7,3,1,2,0,0,,staged,0
+finance.budget--sustainable-domestic-financing-of-digital-transformation,finance.budget,2,7,3,1,1,0,1,already-seen,staged,1
+infra.connect--mobile-affordability,infra.connect,2,4,2,0,1,0,2,already-seen;fetch-blocked,staged,9
+infra.connect--international-internet-bandwidth,infra.connect,2,6,3,1,1,0,1,fetch-blocked,staged,9
+infra.store--off-site-backup-capacity,infra.store,2,6,3,1,2,0,0,,staged,4
+infra.energy--sufficient-energy-and-water-for-data-centres,Sufficient energy and water for data centres,2,12,3,1,2,0,0,,staged,1
+infra.energy--grid-reliability,Grid reliability,2,10,3,1,2,0,0,,staged,1
+infra.energy--rural-electrification,Rural electrification,2,9,3,1,2,0,0,,staged,1
+infra.capacity--robustness-of-government-hardware-and-software,Robustness of government hardware and software,2,11,5,1,2,0,3,fetch-blocked;headline-only-stub;already-seen,staged,0
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,"Local capacity to maintain, manage and develop government systems",2,13,3,1,2,0,0,,staged,0
+dpi.exchange--use-of-digital-id-in-other-systems,Use of digital id in other systems,2,10,2,1,1,0,1,already-seen,staged,2
+dpi.exchange--interoperability-of-health-systems,Interoperability of health systems,2,9,3,1,2,0,1,already-seen,staged,2
+dpi.exchange--interoperability-of-education-systems,Interoperability of education systems,2,11,3,1,2,0,0,,staged,2
+dpi.exchange--interoperability-of-social-protection-systems,Interoperability of social protection systems,2,12,3,1,2,0,0,,staged,2
+dpi.id--registration-of-entire-population,DPI Digital Identity and CRVS: Registration of entire population,2,9,3,1,2,0,0,,staged,6
+dpi.id--digital-id-from-birth,DPI Digital Identity and CRVS: Digital id from birth,2,8,2,1,1,0,0,,staged,6
+dpi.id--interoperability-of-birth-registration-and-digital-id,DPI Digital Identity and CRVS: Interoperability of birth registration and digital id,2,9,3,1,2,0,0,,staged,6
+dpi.pay--g2p-functionality,DPI Digital Payments and Fintech: G2P functionality,2,7,3,1,2,0,0,,staged,9
+dpi.pay--b2b-and-b2g-functionality,DPI Digital Payments and Fintech: B2B and B2G functionality,2,9,3,1,2,0,0,,staged,9
+dpi.pay--consumer-protection,DPI Digital Payments and Fintech: Consumer protection,2,7,3,1,2,0,0,,staged,9
+dpi.registry--population-register,DPI Registries: Population register,2,8,3,1,2,0,0,,staged,7
+dpi.registry--civil-register,DPI Registries: Civil register,2,8,3,1,2,0,1,headline-only-stub,staged,7
+dpi.registry--address-register,DPI Registries: Address register,2,7,3,1,2,0,0,,staged,7
+dpi.registry--social-protection-register,DPI Registries: Social protection register,2,6,3,1,2,0,0,,staged,7
+dpi.registry--electoral-register,DPI Registries: Electoral register,2,7,3,1,2,0,0,,staged,7
+dpi.registry--tax-register,DPI Registries: Tax register,2,7,3,1,2,0,0,,staged,7
+dpi.mis--tax,Tax,2,10,3,1,2,0,0,,staged,12
+dpi.mis--land,Land,2,8,2,1,1,0,0,,staged,12
+digital.localgov--digitalisation-of-local-government-records,Digitalisation of local government records,2,9,4,1,1,0,2,already-seen;fetch-blocked,staged,1
+digital.rural--digitalisation-of-rural-health-clinics,Digitalisation of rural health clinics,2,7,3,1,2,0,0,,staged,0
+digital.rural--digitalisation-of-rural-primary-schools,Digitalisation of rural primary schools,2,8,2,1,1,0,0,,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,Digitalisation of rural registry offices,2,9,4,1,1,1,1,fetch-blocked,staged,0
+digital.rural--digitalisation-of-rural-police-stations,Digitalisation of rural police stations,2,9,0,0,0,0,0,,nil,0
+tech.ai--use-of-ai-in-government-administration,Use of AI in government administration,2,8,3,1,2,0,0,,staged,6
+tech.ai--control-of-ai-abuse,Control of AI abuse,2,10,3,1,2,0,0,,staged,6
+capacity.literacy--digital-literacy-civil-service,Digital literacy (civil service),2,8,3,1,2,0,0,,staged,0
+capacity.training--dt-related-training-in-secondary-education,DT-related training in secondary education,2,8,3,1,2,0,0,,staged,3
+capacity.training--dt-related-university-facilities-and-qualifications,DT-related university facilities and qualifications,2,13,3,1,2,0,0,,staged,3
+include.access--citizen-participation-in-policy,include.access,2,6,5,1,2,0,3,"fetch-blocked,off-topic",staged,1
+include.access--gender-equity,include.access,2,6,3,1,2,0,3,off-topic,staged,1
+include.access--inclusion-of-persons-with-disabilities,include.access,2,5,3,1,2,0,2,duplicate-in-run,staged,1
+include.access--inclusion-of-refugees-and-idps,include.access,2,6,3,1,2,0,3,"no-development,duplicate-in-run",staged,1
+data.statistics--national-strategy-for-development-of-statistics,data.statistics,2,5,3,1,2,0,2,"already-seen,off-topic",staged,1
+data.statistics--censuses-and-surveys,data.statistics,2,5,3,1,2,0,2,"off-topic,out-of-window",staged,1
+data.open--use-of-open-data,data.open,2,4,1,1,0,0,3,"duplicate-in-run,already-seen,off-topic",staged,1
+data.satellite--meteorological-use-of-satellite-data,data.satellite,2,3,2,1,1,0,1,duplicate-in-run,staged,1
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,geopol.usa,2,11,1,1,0,0,10,"no-development,out-of-window",staged,0
+geopol.gulf--gulf-mous-engagements-and-commitments,geopol.gulf,2,13,5,1,2,1,8,"headline-only-stub,duplicate-in-run",staged,0
+geopol.india--india-mous-engagements-and-commitments,geopol.india,2,10,3,1,2,0,7,"out-of-window,duplicate-in-run",staged,1
