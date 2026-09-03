@@ -610,4 +610,15 @@ def main() -> int:
 
 
 if __name__ == "__main__":
+    # A finding names the title and the body line it was found in, and those carry
+    # whatever the source published — accents, and on a PDF extract the mathematical
+    # italic glyphs a title-orthography finding exists to report. On a console that
+    # defaults to cp1252 the *printing* of such a finding raises, killing the run
+    # part-way down the queue and leaving the files after it unlinted. The traceback
+    # goes to stderr, so a caller reading stdout sees a short, clean-looking report.
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(encoding="utf-8", errors="replace")
+        except (AttributeError, ValueError):
+            pass
     sys.exit(main())
