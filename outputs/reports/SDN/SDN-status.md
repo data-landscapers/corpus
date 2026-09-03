@@ -1,15 +1,15 @@
 ---
 title: Sudan — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-09-03
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 105
+sources_cited: 106
 sections_written: 37
 not_established: 7
-acquire_lines: 55
+acquire_lines: 49
 ---
 ## Governance
 
@@ -181,7 +181,7 @@ Sudan's finance minister [set the ministry's priorities on 4 August 2026 as payr
 <!-- derived -->
 That list restates a programme financed a decade earlier: payroll automation and an integrated procurement system are presented as new intentions in August 2026, while an IFMIS integrating the finance ministry with line ministries was already in scope of an African Development Bank-financed project reported in March 2016.
 
-Health information barely reaches the point of care. [Rural primary clinics record patient data on paper, with only a very small number of largely urban private facilities keeping electronic records](https://doi.org/10.59992/ijci.2025.v4n12p2), and the [national DHIS2 aggregate reporting system, which sits above facility level, now covers routine collection in only a handful of states, the rest lost to the war](https://doi.org/10.59992/ijci.2025.v4n12p2) (2025). Even where a digital tool has been rolled out, the paper stage comes first: on the Darfur disease-surveillance tool, [clinic staff tally suspected cases on paper and a surveillance officer submits weekly aggregates electronically](https://doi.org/10.1093/inthealth/ihaf122), so the digital step begins above the clinic.
+Health information barely reaches the point of care. [Rural primary clinics record patient data on paper, with only a very small number of largely urban private facilities keeping electronic records](https://doi.org/10.59992/ijci.2025.v4n12p2), Above facility level the national DHIS2 aggregate reporting system has recovered: the Federal Ministry of Health, declaring 2026 the year of full digital transformation, [put routine reporting coverage at over 56 per cent by the end of 2025, against 13 per cent at the onset of the crisis, and called for expansion to link every facility](https://allafrica.com/stories/202602100399.html) — the ministry's own figures, and no independent measurement is published against them. Even where a digital tool has been rolled out, the paper stage comes first: on the Darfur disease-surveillance tool, [clinic staff tally suspected cases on paper and a surveillance officer submits weekly aggregates electronically](https://doi.org/10.1093/inthealth/ihaf122), so the digital step begins above the clinic.
 
 Education is at a similar level. The [education management information system is coordinated centrally with minimal digital exchange with individual schools, rural primaries compile attendance, enrolment and grades on paper, and pre-war returns lagged 12 to 14 months](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-07-annual-progress-report-gpe-system-capacity-grant-sudan.pdf); a [strengthening initiative under the Transitional Education Plan 2025–2027, including digital mapping of around 26,000 schools, remains at planning, mapping and pilot stage and has not put digital capture into rural schools](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-09-program-document-system-transformation-grant-sudan.pdf). Social protection delivery rests on a [safety-net management information system built with World Bank support — poverty registry, targeting and eligibility, grievance redress, payment and monitoring modules — deployed in six of Sudan's eighteen states before the 2023 conflict, since when assistance delivery has fragmented across conflict-affected regions](https://ipcid.org/sites/default/files/pub/en/RR53_Social_protection_in_Sudan_system_overview.pdf).
 

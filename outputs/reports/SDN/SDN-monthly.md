@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 place: SDN
-ledger_rows: 22
-not_held: 12
-record: 3fcb59ab000b
+ledger_rows: 35
+not_held: 5
+record: 2e4f1e9536e5
 ---
 
 # Sudan: monthly update, August – September 2026
@@ -22,6 +22,11 @@ Three draft laws â€” cybersecurity, data and artificial intelligence, and d
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+Nothing was made this month; what changed is what the record holds. The regulator's own framework catalogue names [Regulations for the Organization of Data Center and Cloud Computing Services, 2025 as the current sector instrument](https://tpra.gov.sd/en/regulatory-frameworks/regulations/), and its licensing service requires an internet-applications applicant to [disclose whether its hosting server sits inside or outside Sudan](https://tpra.gov.sd/en/services/telecom-licensing/), with data-centre licence categories separating operators that own facilities in Sudan from cloud resellers. Both instruments predate the window and neither's own text is held. In the absence of an economy-wide data-localisation law, a licence condition is where the question of where Sudanese data sits is answered.
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -31,6 +36,11 @@ Three draft laws â€” cybersecurity, data and artificial intelligence, and d
 
 <!-- narrative: governance--gov-protect -->
 [The Council of Ministers reviewed a draft Data and Artificial Intelligence Law on 6 August 2026](https://sudantribune.net/article/317108), paired with the cybersecurity and digital-transformation drafts, and sent all three back for further study; the enactment route is a joint sitting of the Sovereignty Council and Council of Ministers rather than an elected chamber, and no text has been published.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Two standing accounts entered the record and no standard was made. The national standards body publishes [a catalogue of adopted Sudanese Standards against their international equivalents](https://www.ssmo.gov.sd/Content/SectorDetails/783020af-a1ce-46f5-aaa1-525dd82ca005), under the Standards Act of 2008; it is a cross-sector list rather than an information-technology one. The digital transformation ministry's own product page for its government-institution platform [names interoperability among the platform's design principles](https://baldna.gov.sd/product/1/details) and lists the government institutions already integrated onto it. A catalogue of product standards and a platform that integrates ministries are not the same thing as a published interoperability framework other systems can be built against, and no such framework is held.
 <!-- /narrative -->
 
 ## Finance
@@ -75,6 +85,11 @@ Bankers [backed the directive as necessary for the banking system's soundness wh
 <!-- narrative: dpi--dpi-pay -->
 [The Central Bank revoked the Al-Asjad payment-switch licence on 4 July 2026](https://sudantribune.net/article/315827), days after the platform launched in Port Sudan with a Sovereignty Council representative present; no specific breach was disclosed, and unconfirmed press reports say the firm was incorporated only in late 2025 with a Dubai branch. [The national payment switch launched live on 6 August](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips), connecting Omdurman National Bank as first and only participant and completing a first ATM withdrawal over the switch; the Central Bank's own framing is restoration of war-damaged infrastructure, not a new rail, and no schedule for connecting further banks was given. [Al Jazeera field reporting from Omdurman and Khalifa markets on 31 July](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) found bank apps, chiefly Bankak, dominant in retail settlement, driven by cash scarcity and currency collapse rather than technology uptake, with recurring failure modes including no-smartphone workarounds, app outages and mistaken transfers.
 <!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+An address register remains an obligation rather than a system. The regulator's statutory duties under the Telecommunications and Post (Organization) Act 2018 include [establishing a postal addressing system and managing and regulating it](https://tpra.gov.sd/en/regulatory/postal/) — a mandate, not a deployment. No addressing standard or coverage figure was found for any part of the country, which leaves every register that would key to an address keying to something else.
+<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
@@ -86,6 +101,40 @@ Bankers [backed the directive as necessary for the banking system's soundness wh
 [Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed. A second procurement system entered service: [Nazaha, a national digital public-procurement and contracting platform, was launched and stated as aimed at transparency and fair competition in the allocation of government contracts](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) (12 August). No coverage, entity count, procurement value or mandatory-use instrument is published for it.
 
 A third oversight system was announced without a shape. The finance ministry says a [comprehensive electronic oversight system covering public bodies and government companies is forthcoming](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), in the same statement in which it attributes a significant rise in first-half 2026 public revenue to expanding the electronic collection system, rolling out electronic invoicing and tightening customs and tax exemptions, without new taxes. No revenue figure, baseline or attribution method is given for the rise, and no scope, custodian or timetable for the oversight system.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+The institutional route from the centre to the states was documented rather than changed. The National Information Center, established under a 1999 constitutional decree, [carries a state coordination directorate responsible for following up technology projects and training at state level](https://nic.gov.sd/public/departments). That establishes who is accountable; it does not establish what reaches a state office. No budget, staffing or equipment figure for local government technology is published.
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+A partner consortium [built a deep-learning model detecting school locations and boundaries from satellite imagery at 95 per cent accuracy across Sudan](https://www.omdena.com/blog/giga-unicef), delivered by 52 engineers over six weeks and designed for integration into a school-connectivity mapping system. It is the second artificial-intelligence application the base holds inside an education system, and like the first it is externally built: the state's own role in both is as the subject of the mapping rather than its operator.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+Domestic production is a licensable activity and nothing establishes that it is an occupied one. The regulator's licensing framework includes [a technical support licence category explicitly for basic infrastructure manufacturing](https://tpra.gov.sd/?page_id=4475). No register of holders of that category, and no production or employment figure, was located.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The finance ministry, the African Development Bank and the regional body [launched the national component of an entrepreneurship and innovation project on 19 August 2026, delivered through the University of Khartoum's entrepreneurship incubator](https://sudanhorizon.com/sudanafdb-and-igad-support-eentrepreneurship-and-startups/), part of a regional operation of about USD 3.255 million also covering South Sudan and Djibouti. Alongside it the base took in a standing account of the country's main private startup organisation, [established in April 2018 and running a hub and support programmes](https://249startups.com/about/), which had opened [a 500-place youth entrepreneurship programme in Kassala](https://menastartupdigest.com/249startups-launches-i-upshift-program-in-kassala-to-empower-500-youth/). No count of active hubs or of capital placed is published.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+Türkiye's higher education council and the Sudanese higher education ministry [signed a protocol in Ankara on 3 August 2026 to establish a joint public university in Khartoum](https://www.yok.edu.tr/en/news/turkish-universities-expand-their-global-footprint-following-kazakhstan-kyrgyzstan-azerbaijan-and-uzbekistan-next-destination-is-sudan-w1zjQ), with information technologies and artificial intelligence named among its priority fields, and recording a parallel arrangement hosting three Sudanese universities on Turkish campuses. A protocol is a provision, not a faculty: no site, intake or opening date is stated, and the institution has no students.
 <!-- /narrative -->
 
 ## Geopolitics
