@@ -23,9 +23,9 @@ last_reviewed: 2026-08-28
 
 - **`methodology-journey.md` was cut from 200 lines to 45 at 11:53, mid-word inside a bold marker — a partial write, not an edit.** Obsidian holds the vault open and wrote its workspace file in the same minute as the mirror pass. The run restored the committed version byte-identical. If you were editing it, your change is gone. That restored text is now split into `content/document-lifecycle.md` and `content/process-inventory.md`.
 
-## 2026-09-03 10:54 · filler
+## 2026-09-03 11:36 · filler
 
-- **`logs/progress-report-log.csv` is held open by another process, so DZA's `Filler Searched` cell could not be written.** Polled for two minutes; the lock never cleared. Everything else in the DZA run finished: 124 files staged, share committed and pushed, note 107 written. **The one-line fix: line 24, fifth column, `03/09/2026`.** Until it is made, an ISO-less filler trigger will re-probe Algeria.
+- **`logs/progress-report-log.csv` is open in Excel (PID 3700), so DZA's and now EGY's `Filler Searched` cells could not be written.** Both runs finished otherwise — 124 and 113 files staged, share pushed, notes 107 and 108. **The fix: lines 24 and 25, fifth column, `03/09/2026`.** Until made, an ISO-less trigger re-probes Algeria and Egypt.
 
 ## 2026-08-28 22:41 · build
 
