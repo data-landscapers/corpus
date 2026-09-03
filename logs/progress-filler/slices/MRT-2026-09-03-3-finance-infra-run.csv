@@ -1,0 +1,12 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+finance.mou--strategic-relationships,MoUs and other agreements,2,11,4,1,2,6,2,out-of-scope already-seen,staged,1
+finance.new--mobilisation-of-non-state-finance,New investments,2,20,3,1,2,6,1,already-seen,staged,5
+infra.connect--internet-usage,Connectivity,2,15,2,1,1,5,0,,staged,8
+infra.connect--mobile-affordability,Connectivity,2,17,2,1,1,5,0,,staged,8
+infra.connect--national-fibre-backbone,Connectivity,2,20,3,1,2,5,0,,staged,8
+infra.connect--internet-exchange-points,Connectivity,2,13,2,1,0,4,1,headline-only-stub,staged,8
+infra.store--local-data-centre-capacity-all-providers,Data Storage,2,15,3,1,2,4,1,already-seen,staged,2
+infra.store--off-site-backup-capacity,Data Storage,2,9,1,1,0,4,0,,staged,2
+infra.energy--sufficient-energy-and-water-for-data-centres,Energy,2,15,3,1,2,5,0,,staged,2
+infra.energy--rural-electrification,Energy,2,13,3,1,2,4,0,,staged,2
+infra.capacity--robustness-of-government-hardware-and-software,Technical Capacity,2,19,3,1,2,5,0,,staged,0

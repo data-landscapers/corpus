@@ -1,0 +1,11 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.legislate--legislation-enabling-data-interoperability,Legislation and regulation,2,12,3,1,2,7,1,already-seen,staged,3
+gov.legislate--ai-legislation-regulations,Legislation and regulation,2,11,3,1,2,6,0,,staged,3
+gov.legislate--statistics-legislation,Legislation and regulation,2,14,3,1,1,8,3,unfetchable already-seen out-of-scope,staged,3
+gov.legislate--access-to-information-legislation,Legislation and regulation,2,12,2,1,2,7,0,,staged,3
+gov.protect--national-data-protection-readiness,Data protection,2,15,3,1,2,9,1,already-seen,staged,2
+gov.regional--regional-legal-harmonisation,Regional collaboration,2,16,3,1,2,10,2,already-seen unfetchable,staged,1
+gov.regional--cross-border-data-transfers,Regional collaboration,2,13,3,1,2,8,0,,staged,1
+gov.standards--national-quality-standards,Standards,2,14,3,1,2,9,0,,staged,2
+gov.discourse--non-governmental-contribution-to-national-policy,Public debate and participation in policymaking,2,17,3,1,2,10,0,,staged,0
+gov.discourse--open-discussion-of-government-policy,Public debate and participation in policymaking,2,15,3,1,2,9,0,,staged,0

@@ -1,0 +1,12 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+digital.localgov--ict-infrastructure-for-local-government,Digitalisation of sub-national government,2,15,3,1,1,5,3,already-seen out-of-scope,staged,1
+digital.localgov--digitalisation-of-local-government-records,Digitalisation of sub-national government,2,18,3,1,2,4,2,already-seen not-primary,staged,1
+digital.rural--digitalisation-of-rural-health-clinics,Rural digital data capture,2,14,3,1,1,4,2,headline-only-stub out-of-scope,staged,0
+digital.rural--digitalisation-of-rural-primary-schools,Rural digital data capture,2,14,3,1,2,4,2,already-seen not-primary,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,Rural digital data capture,2,14,2,1,1,3,3,already-seen,staged,0
+digital.rural--digitalisation-of-rural-police-stations,Rural digital data capture,2,14,3,1,2,5,2,already-seen,staged,0
+tech.ai--use-of-ai-in-government-administration,AI,2,13,4,1,2,3,3,already-seen,staged,1
+tech.ai--use-of-ai-in-sectoral-management-information-systems,AI,2,10,2,1,1,3,3,already-seen,staged,1
+tech.ai--development-of-national-regional-ai-systems,AI,2,14,4,1,2,4,2,already-seen headline-only-stub,staged,1
+tech.ai--control-of-ai-abuse,AI,2,12,3,1,1,3,3,already-seen out-of-scope,staged,1
+tech.innovate--technology-hubs,Innovation ecosystem,2,14,3,1,2,5,1,not-primary,staged,1

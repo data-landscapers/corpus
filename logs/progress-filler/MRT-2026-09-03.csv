@@ -1,0 +1,81 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--ict-strategy,"Strategies, plans and policies",2,12,3,1,2,9,0,,staged,2
+gov.policy--broadband-strategy,"Strategies, plans and policies",2,11,2,1,1,9,4,already-seen already-seen already-seen already-seen,staged,2
+gov.policy--data-storage-cloud-strategy,"Strategies, plans and policies",2,9,3,1,2,6,1,already-seen,staged,2
+gov.policy--data-interoperability-framework-roadmap,"Strategies, plans and policies",2,11,3,1,2,8,1,already-seen,staged,2
+gov.policy--data-localisation-policies,"Strategies, plans and policies",2,12,3,1,1,10,1,already-seen,staged,2
+gov.policy--data-governance-policy,"Strategies, plans and policies",2,12,3,1,1,10,1,already-seen,staged,2
+gov.policy--open-data-policy,"Strategies, plans and policies",2,12,4,1,2,9,1,already-seen,staged,2
+gov.legislate--cybersecurity-legislation,Legislation and regulation,2,14,3,1,2,11,0,,staged,3
+gov.legislate--legislation-covering-digital-id,Legislation and regulation,2,12,3,1,1,10,0,,staged,3
+gov.legislate--digital-payments-legislation,Legislation and regulation,2,14,3,1,2,11,0,,staged,3
+gov.legislate--legislation-enabling-data-interoperability,Legislation and regulation,2,12,3,1,2,7,1,already-seen,staged,3
+gov.legislate--ai-legislation-regulations,Legislation and regulation,2,11,3,1,2,6,0,,staged,3
+gov.legislate--statistics-legislation,Legislation and regulation,2,14,3,1,1,8,3,unfetchable already-seen out-of-scope,staged,3
+gov.legislate--access-to-information-legislation,Legislation and regulation,2,12,2,1,2,7,0,,staged,3
+gov.protect--national-data-protection-readiness,Data protection,2,15,3,1,2,9,1,already-seen,staged,2
+gov.regional--regional-legal-harmonisation,Regional collaboration,2,16,3,1,2,10,2,already-seen unfetchable,staged,1
+gov.regional--cross-border-data-transfers,Regional collaboration,2,13,3,1,2,8,0,,staged,1
+gov.standards--national-quality-standards,Standards,2,14,3,1,2,9,0,,staged,2
+gov.discourse--non-governmental-contribution-to-national-policy,Public debate and participation in policymaking,2,17,3,1,2,10,0,,staged,0
+gov.discourse--open-discussion-of-government-policy,Public debate and participation in policymaking,2,15,3,1,2,9,0,,staged,0
+finance.mou--strategic-relationships,MoUs and other agreements,2,11,4,1,2,6,2,out-of-scope already-seen,staged,1
+finance.new--mobilisation-of-non-state-finance,New investments,2,20,3,1,2,6,1,already-seen,staged,5
+infra.connect--internet-usage,Connectivity,2,15,2,1,1,5,0,,staged,8
+infra.connect--mobile-affordability,Connectivity,2,17,2,1,1,5,0,,staged,8
+infra.connect--national-fibre-backbone,Connectivity,2,20,3,1,2,5,0,,staged,8
+infra.connect--internet-exchange-points,Connectivity,2,13,2,1,0,4,1,headline-only-stub,staged,8
+infra.store--local-data-centre-capacity-all-providers,Data Storage,2,15,3,1,2,4,1,already-seen,staged,2
+infra.store--off-site-backup-capacity,Data Storage,2,9,1,1,0,4,0,,staged,2
+infra.energy--sufficient-energy-and-water-for-data-centres,Energy,2,15,3,1,2,5,0,,staged,2
+infra.energy--rural-electrification,Energy,2,13,3,1,2,4,0,,staged,2
+infra.capacity--robustness-of-government-hardware-and-software,Technical Capacity,2,19,3,1,2,5,0,,staged,0
+dpi.exchange--use-of-digital-id-in-other-systems,Data Exchange,2,17,3,1,2,6,0,,staged,1
+dpi.exchange--interoperability-of-health-systems,Data Exchange,2,22,6,1,2,8,1,headline-only-stub,staged,1
+dpi.exchange--interoperability-of-education-systems,Data Exchange,2,16,4,1,2,7,0,,staged,1
+dpi.exchange--interoperability-of-social-protection-systems,Data Exchange,2,17,5,1,2,8,0,,staged,1
+dpi.id--digital-id-from-birth,Digital Identity and CRVS,2,20,3,1,1,6,0,,staged,4
+dpi.id--interoperability-of-birth-registration-and-digital-id,Digital Identity and CRVS,2,18,5,1,1,6,1,already-seen,staged,4
+dpi.pay--governance-role-of-central-bank,Digital Payments and Fintech,2,24,6,1,2,8,1,unfetchable,staged,2
+dpi.pay--g2p-functionality,Digital Payments and Fintech,2,20,5,1,1,6,1,unfetchable,staged,2
+dpi.pay--b2b-and-b2g-functionality,Digital Payments and Fintech,2,23,6,1,2,7,0,,staged,2
+dpi.pay--p2p-p2g-and-p2b-functionality,Digital Payments and Fintech,2,22,5,1,2,7,2,unfetchable unfetchable,staged,2
+dpi.pay--cross-border-functionality,Digital Payments and Fintech,2,18,3,1,1,6,0,,staged,2
+dpi.pay--consumer-protection,Digital Payments and Fintech,2,19,4,1,1,6,0,,staged,2
+dpi.registry--civil-register,Registries,2,9,4,0,2,4,1,already-seen,staged,4
+dpi.registry--address-register,Registries,2,11,1,1,0,8,0,,staged,4
+dpi.registry--business-register,Registries,2,12,4,1,1,8,0,,staged,4
+dpi.registry--social-protection-register,Registries,2,9,6,1,1,4,2,already-seen already-seen,staged,4
+dpi.registry--electoral-register,Registries,2,8,4,1,1,5,0,,staged,4
+dpi.registry--tax-register,Registries,2,8,5,1,1,5,1,unfetchable,staged,4
+dpi.mis--health,Sectoral management information systems,2,12,8,1,2,7,2,already-seen headline-only-stub,staged,1
+dpi.mis--social-protection,Sectoral management information systems,2,9,5,0,1,4,2,already-seen already-seen,staged,1
+dpi.mis--justice,Sectoral management information systems,2,11,4,1,1,6,1,already-seen,staged,1
+dpi.mis--tax,Sectoral management information systems,2,10,5,1,1,6,1,already-seen,staged,1
+dpi.mis--customs,Sectoral management information systems,2,11,2,1,0,8,1,already-seen,staged,1
+dpi.mis--land,Sectoral management information systems,2,11,6,1,2,7,1,already-seen,staged,1
+digital.localgov--ict-infrastructure-for-local-government,Digitalisation of sub-national government,2,15,3,1,1,5,3,already-seen out-of-scope,staged,1
+digital.localgov--digitalisation-of-local-government-records,Digitalisation of sub-national government,2,18,3,1,2,4,2,already-seen not-primary,staged,1
+digital.rural--digitalisation-of-rural-health-clinics,Rural digital data capture,2,14,3,1,1,4,2,headline-only-stub out-of-scope,staged,0
+digital.rural--digitalisation-of-rural-primary-schools,Rural digital data capture,2,14,3,1,2,4,2,already-seen not-primary,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,Rural digital data capture,2,14,2,1,1,3,3,already-seen already-seen already-seen,staged,0
+digital.rural--digitalisation-of-rural-police-stations,Rural digital data capture,2,14,3,1,2,5,2,already-seen already-seen,staged,0
+tech.ai--use-of-ai-in-government-administration,AI,2,13,4,1,2,3,3,already-seen already-seen already-seen,staged,1
+tech.ai--use-of-ai-in-sectoral-management-information-systems,AI,2,10,2,1,1,3,3,already-seen already-seen already-seen,staged,1
+tech.ai--development-of-national-regional-ai-systems,AI,2,14,4,1,2,4,2,already-seen headline-only-stub,staged,1
+tech.ai--control-of-ai-abuse,AI,2,12,3,1,1,3,3,already-seen out-of-scope,staged,1
+tech.innovate--technology-hubs,Innovation ecosystem,2,14,3,1,2,5,1,not-primary,staged,1
+capacity.literacy--digital-literacy-civil-service,Literacy,2,11,3,1,2,5,0,,staged,1
+capacity.literacy--digital-literacy-general-population,Literacy,2,13,2,1,1,5,1,already-seen,staged,1
+capacity.training--dt-related-training-in-secondary-education,Training and skills,2,15,4,1,2,7,1,already-seen,staged,2
+include.access--citizen-feedback-portals,Access to services,2,14,2,1,1,7,1,already-seen,staged,0
+include.access--citizen-participation-in-policy,Access to services,2,17,3,1,2,7,1,already-seen,staged,0
+include.access--gender-equity,Access to services,2,17,4,1,2,6,0,,staged,0
+include.access--inclusion-of-persons-with-disabilities,Access to services,2,17,3,1,2,6,0,,staged,0
+include.access--inclusion-of-refugees-and-idps,Access to services,2,23,5,1,2,9,1,unfetchable,staged,0
+include.divides--bridging-of-digital-divides,Digital divides,2,15,5,1,2,5,3,already-seen already-seen already-seen,staged,0
+data.statistics--national-strategy-for-development-of-statistics,National statistics,2,15,3,1,2,5,1,not-primary,staged,2
+data.satellite--agricultural-use-of-satellite-data,Use of satellite data,2,33,3,1,1,5,2,out-of-scope headline-only-stub,staged,0
+data.satellite--meteorological-use-of-satellite-data,Use of satellite data,2,22,3,1,1,6,1,out-of-scope,staged,0
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,US / hyperscaler activities,2,24,5,1,2,5,2,unfetchable headline-only-stub,staged,0
+geopol.india--india-mous-engagements-and-commitments,India activities,2,22,3,1,2,7,1,out-of-scope,staged,0

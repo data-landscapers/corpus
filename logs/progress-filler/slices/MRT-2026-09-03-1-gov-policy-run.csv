@@ -1,0 +1,11 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--ict-strategy,"Strategies, plans and policies",2,12,3,1,2,9,0,,staged,2
+gov.policy--broadband-strategy,"Strategies, plans and policies",2,11,2,1,1,9,4,already-seen already-seen already-seen already-seen,staged,2
+gov.policy--data-storage-cloud-strategy,"Strategies, plans and policies",2,9,3,1,2,6,1,already-seen,staged,2
+gov.policy--data-interoperability-framework-roadmap,"Strategies, plans and policies",2,11,3,1,2,8,1,already-seen,staged,2
+gov.policy--data-localisation-policies,"Strategies, plans and policies",2,12,3,1,1,10,1,already-seen,staged,2
+gov.policy--data-governance-policy,"Strategies, plans and policies",2,12,3,1,1,10,1,already-seen,staged,2
+gov.policy--open-data-policy,"Strategies, plans and policies",2,12,4,1,2,9,1,already-seen,staged,2
+gov.legislate--cybersecurity-legislation,Legislation and regulation,2,14,3,1,2,11,0,,staged,3
+gov.legislate--legislation-covering-digital-id,Legislation and regulation,2,12,3,1,1,10,0,,staged,3
+gov.legislate--digital-payments-legislation,Legislation and regulation,2,14,3,1,2,11,0,,staged,3
