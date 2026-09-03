@@ -1,0 +1,29 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--data-localisation-policies,"Strategies, plans and policies",2,7,2,1,1,5,0,,staged,6
+gov.policy--open-data-policy,"Strategies, plans and policies",2,8,2,1,0,7,0,,staged,6
+gov.legislate--digital-payments-legislation,Legislation and regulation,2,9,4,0,2,4,3,already-seen already-seen headline-only-stub,staged,7
+gov.legislate--legislation-enabling-data-interoperability,Legislation and regulation,2,7,3,1,2,2,2,already-seen inadmissible-origin,staged,7
+gov.legislate--statistics-legislation,Legislation and regulation,2,9,4,1,2,5,1,fetch-blocked,staged,7
+gov.standards--national-interoperability-standards,Standards,2,7,1,0,2,2,3,already-seen already-seen duplicate-in-run,staged,4
+infra.connect--mobile-affordability,Connectivity,2,7,1,1,0,5,1,inadmissible-origin,staged,14
+infra.store--off-site-backup-capacity,Data Storage,2,8,2,1,2,5,0,,staged,4
+infra.energy--grid-reliability,Energy,2,9,3,1,1,6,1,headline-only-stub,staged,1
+infra.energy--rural-electrification,Energy,2,7,2,1,2,4,0,,staged,1
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,Technical Capacity,2,9,3,1,1,4,3,already-seen headline-only-stub headline-only-stub,staged,0
+dpi.exchange--interoperability-of-education-systems,Data Exchange,2,10,1,0,1,0,5,already-seen already-seen off-topic off-topic out-of-window,staged,11
+dpi.pay--b2b-and-b2g-functionality,Digital Payments and Fintech,2,15,4,1,2,0,2,out-of-window already-seen,staged,10
+dpi.registry--business-register,Registries,2,15,3,1,2,0,1,out-of-window,staged,9
+dpi.registry--tax-register,Registries,2,12,3,1,1,1,0,,staged,9
+dpi.mis--social-protection,Sectoral management information systems,2,12,2,0,2,0,1,already-seen,staged,9
+digital.localgov--ict-infrastructure-for-local-government,Digitalisation of sub-national government,2,10,3,1,2,0,2,already-seen duplicate-in-run,staged,0
+digital.localgov--digitalisation-of-local-government-records,Digitalisation of sub-national government,2,11,3,1,2,0,4,already-seen already-seen out-of-window duplicate-in-run,staged,0
+digital.rural--digitalisation-of-rural-health-clinics,Rural digital data capture,2,12,3,1,2,0,1,already-seen,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,Rural digital data capture,2,12,4,1,2,1,2,already-seen already-seen,staged,0
+digital.rural--digitalisation-of-rural-police-stations,Rural digital data capture,2,10,2,1,0,1,2,duplicate-in-run no-development,staged,0
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,Research institutions,2,12,4,1,2,1,0,,staged,2
+include.access--citizen-participation-in-policy,Access to services,2,14,3,1,2,0,0,,staged,6
+include.access--inclusion-of-persons-with-disabilities,Access to services,2,14,3,1,1,1,0,,staged,6
+include.access--inclusion-of-refugees-and-idps,Access to services,2,13,3,1,2,0,0,,staged,6
+data.statistics--national-strategy-for-development-of-statistics,National statistics,2,12,3,1,2,0,1,already-seen,staged,1
+data.satellite--agricultural-use-of-satellite-data,Use of satellite data,2,16,3,1,2,0,0,,staged,1
+geopol.eu--eu-mous-engagements-and-commitments,EU activities,2,17,4,1,2,1,0,,staged,0
