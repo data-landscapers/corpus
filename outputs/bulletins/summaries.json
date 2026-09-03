@@ -2799,6 +2799,11 @@
     "written": "2026-09-02",
     "summary": "At a G20 innovation ministerial in Chapel Hill on 1 September, the United States urged other governments to adopt the Carolina Principles, a framework arguing that regulation should not single out particular technologies. The European Commission moved the other way in the same week, sending information requests to more than 30 AI companies worldwide under the AI Act. The two positions are the choice most African governments drafting AI rules will be asked to pick between."
   },
+  "2026-09-02-assabahnews-pm-circular-public-enterprise-governance": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Tunisia's head of government issued a circular directing ministers, secretaries of state, heads of public enterprises and state controllers to adopt strategic action plans on the governance and performance of public establishments. Among its legal bases is the 2020 decree-law on electronic data exchange between public bodies."
+  },
   "2026-09-02-businessday-africa-ai-governance-trust-gap": {
     "published": "2026-09-02",
     "written": "2026-09-02",
@@ -2813,6 +2818,11 @@
     "published": "2026-09-02",
     "written": "2026-09-02",
     "summary": "Côte d'Ivoire's Ministry of Digital Transition published its own communiqué on the strategic partnership it signed with the French AI company Mistral on 17 August in Abidjan. The work is a study and strategic audit of the national AI ecosystem, mapping the actors and resources available, and sits inside the Feuille de Route Numérique 2026-2028 and its forty structuring projects. No sum is stated and no financier of the audit is named."
+  },
+  "2026-09-02-dayoo-guangzhou-cross-border-data-pilot": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Guangzhou launched a national pilot for international data cooperation, opening a service that lets foreign firms send data in for local model processing and export the resulting tokens, alongside a federated research platform that already links Portuguese, Brazilian and Macau institutions by exchanging encrypted model parameters rather than data. No African place is named; the pilot sets terms that others will have to work within."
   },
   "2026-09-02-gbc-ghana-cid-interpol-ai-cybercrime": {
     "published": "2026-09-02",
@@ -2839,20 +2849,65 @@
     "written": "2026-09-02",
     "summary": "Microsoft and implementation partner NKUSI-IT Siyasebenza ran a three-day Power Apps skills-transfer programme for 20 IT specialists of the Eastern Cape Department of Cooperative Governance and Traditional Affairs, at the Steve Biko Centre in Ginsberg, Qonce, covering Power Apps, Power Automate, Power Pages and Dataverse. The partner's recommendation is a province-wide skills and adoption framework around AI and Copilot, cyber security and Azure, which is where a three-day course turns into a procurement position."
   },
+  "2026-09-02-itweb-co-za-mtn-chairman-fintech-frontier": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "The chairman of a pan-African operator told its fintech summit that more than $2 trillion flowed through mobile money globally in 2025, of which sub-Saharan Africa accounted for about $1.4 trillion, across 2.3 billion registered accounts and 593 million active in any 30 days. He argued the next frontier is financial health rather than inclusion."
+  },
+  "2026-09-02-itweb-co-za-popia-grace-period-fines": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "South Africa's Information Regulator called the compliance grace period the data protection Act's key weakness: a public body that remedies a violation within the stated timeframe cannot then be fined. Its chair said the high-value fines issued since enforcement powers commenced in July 2021 have largely not materialised, with bodies either complying in time or challenging in court."
+  },
   "2026-09-02-itweb-co-za-sa-online-retail-r159bn": {
     "published": "2026-09-02",
     "written": "2026-09-02",
     "summary": "South African online retail crossed 10% of national retail turnover in June 2026 and is forecast at R159 billion in sales for the year, growth of 22.5%, according to Online Retail in South Africa 2026 by World Wide Worx with Mastercard, Peach Payments and Ask Africa. The R29 billion added is close to the whole 2020 online market of about R30.2 billion. Takealot is used by 35.3% of online shoppers, Shein by 21.5% and Checkers Sixty60 by 15%, and PayInc processed an average 934 transactions a minute on Black Friday 2025."
+  },
+  "2026-09-02-kictanet-youtube-tax-pushback": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Kenyan creators are contesting the withholding tax on video-platform earnings, which sits alongside the digital services tax, value-added tax on digital marketplace supply and the digital asset tax. The civil-society network carrying the campaign published its own brief on digital-tax reform in 2024."
   },
   "2026-09-02-lanation-djibouti-forum-national-intelligence-artificielle": {
     "published": "2026-09-02",
     "written": "2026-09-02",
     "summary": "Djibouti opened its first national forum on artificial intelligence at the Palais du Peuple on 2 and 3 September, organised by the ministry for the digital economy and innovation under the president's patronage. The framing is explicitly sovereignty: AI as a lever of independence, innovation and development rather than a technology to be received. The forum sits against Vision Djibouti 2035 and UNESCO's readiness assessment."
   },
+  "2026-09-02-lequotidien-reunion-nouveau-cable-sous-marin-2028": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "The Réunion to South Africa cable is scheduled to enter service in 2028, adding route diversity before an older system retires from 2027. Marine surveys run in 2026, with manufacture and laying to follow."
+  },
+  "2026-09-02-newvision-starlink-launch-uganda": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Starlink began commercial service in Uganda, ending the regulatory process that followed a memorandum and a five-year operating licence signed with the communications regulator in May 2026. The licence requires a national gateway and physical point of presence, an operational office, and registration of every device activated in the country."
+  },
   "2026-09-02-nigeriainfo-npf-vigilant-app-fraud-reporting": {
     "published": "2026-09-02",
     "written": "2026-09-02",
     "summary": "The Nigeria Police Force launched the NPF Vigilant App on 1 September at its conference centre in Jabi, Abuja, a public channel for reporting suspected financial fraud, uploading evidence and tracking a case through to feedback. It was built by the Force ICT Department with financial-sector stakeholders and is meant to coordinate police handling with banks; the Central Bank of Nigeria, NIBSS, banks and fintechs attended. Inspector-General Olatunji Disu said the technology must be deployed lawfully and ethically, with respect for privacy and data protection."
+  },
+  "2026-09-02-orange-free-reunion-south-africa-subsea-cable": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Two French operators will fund the €93 million cable between Réunion and South Africa, one acting as landing party and its marine subsidiary laying infrastructure designed by a French manufacturer. The cable is scheduled to enter service in 2028, replacing a system commissioned in 2002; the partners did not disclose their respective shares."
+  },
+  "2026-09-02-premiumtimes-osinbajo-cairo-declaration-child-rights": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "African lawyers meeting in Cairo reviewed and prioritised six pillars of a proposed declaration on children's rights and design accountability, covering safety-by-design requirements, restrictions on exploitative targeting and manipulative practices, and age-appropriate design standards. The session chair argued companies cannot engineer risk into products and then leave children and parents to manage it."
+  },
+  "2026-09-02-reunion-submarine-cable-la-reunion-south-africa": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "The Réunion regional authority launched RéuNION, a submarine cable from Saint-Paul to Durban costing €93.1 million and carrying 16 fibre pairs at 20 Tbps each. It is funded by €30m from the EU's regional development fund, €20m from the Connecting Europe Facility and €43.1m from the consortium, and must be built within three years under the European funding terms."
+  },
+  "2026-09-02-starlink-launches-uganda-pricing": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Prices published with the Ugandan launch put a residential 100 Mbps package at Shs203,704 a month against an estimated Shs2.3 million to start, plus a Shs437,036 regulatory charge — against fibre offers from the two mobile incumbents advertised at Shs110,000 and Shs99,000 for the same speed."
   },
   "2026-09-02-techafricanews-ghana-csa-awareness-month": {
     "published": "2026-09-02",
@@ -2899,6 +2954,11 @@
     "written": "2026-09-02",
     "summary": "A career profile of Nigerian geospatial engineer Kayode Adeniyi that carries unusually direct field evidence about data systems designed away from the places they run in: a 2021 Ministry of Education library survey lost weeks of collected data because the app assumed the connectivity of Abuja's Garki and Wuse, and was rebuilt offline-first around SQLite. His flood modelling in Lere LGA, Kaduna treats herder observation as a higher-revisit sensor than satellite imagery, and a flood-warning system he built issues alerts in Hausa, Yoruba, Efik and Ijebu."
   },
+  "2026-09-02-techcabal-kenya-phone-number-recycling-rules": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Kenya's Communications Authority published draft procedures for deactivating and recycling mobile numbers: deactivation only after three consecutive months without revenue-generating activity, then three further months of contact attempts by message and the details given at registration, with at-risk numbers published in national media. The document is out for consultation, with memoranda due 11 September 2026."
+  },
   "2026-09-02-techcabal-mtn-nigeria-arpu-earnings": {
     "published": "2026-09-02",
     "written": "2026-09-02",
@@ -2908,6 +2968,21 @@
     "published": "2026-09-02",
     "written": "2026-09-02",
     "summary": "South African startups raised $335.9 million in 2025, more than three times the $100.4 million of 2024, across 42 rounds rather than 25, with average deal size nearly doubling to $7.99 million. The recovery is uneven: only three of the 42 rounds carried a debt component, and continent-wide the first half of 2026 held roughly flat at $1.44 billion while deal count fell from 252 to 174 and early-stage startups took just $9 million against $25 million a year earlier. The argument is that the money is not absent but badly matched to stage."
+  },
+  "2026-09-02-thisdaylive-fg-boost-telecoms-connectivity-abia-rural-nucap": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Nigeria's communications ministry named a federal constituency in Abia State a priority area under its universal communications access programme. A tower on the Umuahia–Ohafia road is nearing completion, and a preliminary assessment indicates five to eight further sites may be needed to cover the local government area."
+  },
+  "2026-09-02-timeslive-iec-cybersecurity-election-systems": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "South Africa's Electoral Commission rejected claims that a system failure blocked a party's candidate submissions for the November local elections, its chief electoral officer saying the commission held no reports of a non-functional online nomination system on deadline day. More than 140,000 candidates have been nominated for about 10,500 council seats, to be scrutinised between 4 and 16 September."
+  },
+  "2026-09-02-universfreebox-free-cable-sous-marin-reunion-afrique-du-sud": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "A French operator set out its investment in the Réunion to South Africa cable, one of four consortium members behind a system carrying 16 fibre pairs at 20 Tbps each. The consortium is wholly French and about 79 per cent of the cost rests on public bodies."
   },
   "2026-09-02-wearetech-abe-marcellinus-pme-cybermenaces": {
     "published": "2026-09-02",
@@ -2928,5 +3003,10 @@
     "published": "2026-09-02",
     "written": "2026-09-02",
     "summary": "A profile of Koffi Nusiko Dabla, Togolese and based in Côte d'Ivoire, who co-founded Afoomarket in 2021 as an online marketplace for African agro-processors. Sellers run their own storefront, and the platform carries ordering, card and mobile money payment, a local delivery partner network, seller vetting and WhatsApp support, so a small producer gets a commercial presence online without building the infrastructure for one."
+  },
+  "2026-09-02-zap-fibra-benguela-angola": {
+    "published": "2026-09-02",
+    "written": "2026-09-03",
+    "summary": "Angola's telecommunications ministry inaugurated an operator's fibre network in Benguela province, the operator having installed a data centre at Lobito as the platform behind its internet and television services along the coastline. The minister named nationwide fibre coverage as the objective and said a submarine cable landing at Benguela is being prepared."
   }
 }
