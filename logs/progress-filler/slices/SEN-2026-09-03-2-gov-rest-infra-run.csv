@@ -1,0 +1,12 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.standards--adoption-of-international-standards,gov.standards,2,7,3,1,0,2,0,,staged,2
+gov.discourse--non-governmental-contribution-to-national-policy,gov.discourse,2,8,4,1,2,1,0,,staged,1
+gov.discourse--open-discussion-of-government-policy,gov.discourse,2,8,3,1,2,0,0,,staged,1
+infra.connect--mobile-affordability,infra.connect,2,8,2,1,1,0,0,,staged,11
+infra.connect--national-fibre-backbone,infra.connect,2,8,3,1,2,0,0,,staged,11
+infra.connect--internet-exchange-points,infra.connect,2,8,6,1,2,3,0,,staged,11
+infra.store--off-site-backup-capacity,infra.store,2,7,3,1,2,0,0,,staged,5
+infra.energy--sufficient-energy-and-water-for-data-centres,infra.energy,2,8,2,1,1,0,0,,staged,1
+infra.energy--grid-reliability,infra.energy,2,8,3,1,2,0,0,,staged,1
+infra.energy--rural-electrification,infra.energy,2,8,3,1,2,0,0,,staged,1
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,infra.capacity,2,8,3,1,2,0,0,,staged,1

@@ -1,0 +1,11 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+dpi.registry--electoral-register,DPI,Registries,dpi.registry,Electoral register,9
+dpi.registry--tax-register,DPI,Registries,dpi.registry,Tax register,9
+dpi.registry--land-register,DPI,Registries,dpi.registry,Land register,9
+dpi.mis--education,DPI,Sectoral management information systems,dpi.mis,Education,3
+dpi.mis--social-protection,DPI,Sectoral management information systems,dpi.mis,Social protection,3
+dpi.mis--tax,DPI,Sectoral management information systems,dpi.mis,Tax,3
+dpi.mis--customs,DPI,Sectoral management information systems,dpi.mis,Customs,3
+dpi.mis--land,DPI,Sectoral management information systems,dpi.mis,Land,3
+digital.localgov--ict-infrastructure-for-local-government,Digitalisation,Digitalisation of sub-national government,digital.localgov,ICT infrastructure for local government,1
+digital.localgov--digitalisation-of-local-government-records,Digitalisation,Digitalisation of sub-national government,digital.localgov,Digitalisation of local government records,1

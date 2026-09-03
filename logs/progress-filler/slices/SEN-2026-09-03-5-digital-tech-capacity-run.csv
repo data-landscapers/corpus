@@ -1,0 +1,10 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+digital.rural--digitalisation-of-rural-health-clinics,digital.rural,2,11,3,1,2,8,0,,staged,1
+digital.rural--digitalisation-of-rural-registry-offices,digital.rural,2,11,4,1,2,7,1,already-seen,staged,1
+digital.rural--digitalisation-of-rural-police-stations,digital.rural,2,9,3,1,2,6,0,,staged,1
+tech.ai--use-of-ai-in-government-administration,tech.ai,2,8,3,1,0,5,2,already-seen,staged,5
+tech.ai--use-of-ai-in-sectoral-management-information-systems,tech.ai,2,10,3,1,2,7,0,,staged,5
+tech.ai--control-of-ai-abuse,tech.ai,2,8,3,1,1,2,4,already-seen|fetch-blocked,staged,5
+tech.industry--national-capacity-in-dt-related-production,tech.industry,2,7,3,1,2,4,0,,staged,1
+tech.innovate--technology-hubs,tech.innovate,2,13,4,1,2,10,1,fetch-blocked,staged,2
+capacity.literacy--digital-literacy-civil-service,capacity.literacy,2,10,4,1,2,7,0,,staged,3

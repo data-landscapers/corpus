@@ -1,0 +1,12 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+gov.standards--adoption-of-international-standards,Governance,Standards,gov.standards,Adoption of international standards,2
+gov.discourse--non-governmental-contribution-to-national-policy,Governance,Public debate and participation in policymaking,gov.discourse,Non-governmental contribution to national policy,1
+gov.discourse--open-discussion-of-government-policy,Governance,Public debate and participation in policymaking,gov.discourse,Open discussion of government policy,1
+infra.connect--mobile-affordability,ICT Infrastructure,Connectivity,infra.connect,Mobile affordability,11
+infra.connect--national-fibre-backbone,ICT Infrastructure,Connectivity,infra.connect,National fibre backbone,11
+infra.connect--internet-exchange-points,ICT Infrastructure,Connectivity,infra.connect,Internet Exchange Points,11
+infra.store--off-site-backup-capacity,ICT Infrastructure,Data Storage,infra.store,Off-site backup capacity,5
+infra.energy--sufficient-energy-and-water-for-data-centres,ICT Infrastructure,Energy,infra.energy,Sufficient energy and water for data centres,1
+infra.energy--grid-reliability,ICT Infrastructure,Energy,infra.energy,Grid reliability,1
+infra.energy--rural-electrification,ICT Infrastructure,Energy,infra.energy,Rural electrification,1
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,ICT Infrastructure,Technical Capacity,infra.capacity,"Local capacity to maintain, manage and develop government systems",1
