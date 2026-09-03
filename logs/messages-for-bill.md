@@ -25,7 +25,7 @@ last_reviewed: 2026-08-28
 
 ## 2026-09-03 12:56 · filler
 
-- **`logs/progress-report-log.csv` is open in Excel (PID 3700), so the `Filler Searched` cells for DZA, EGY and now LBY could not be written.** All three runs finished otherwise — 124, 113 and 125 files staged, share pushed, notes 107, 108 and 109. **The fix: lines 24, 25 and 26, fifth column, `03/09/2026`.** Until made, an ISO-less trigger re-probes Algeria, Egypt and Libya.
+- **`logs/progress-report-log.csv` is open in Excel (PID 3700), so the `Filler Searched` cells for DZA, EGY, LBY and now MAR could not be written.** All four runs finished otherwise — 124, 113, 125 and 103 files staged, share pushed, notes 107 to 110. **The fix: lines 24, 25, 26 and 27, fifth column, `03/09/2026`.** Until made, an ISO-less trigger re-probes Algeria, Egypt, Libya and Morocco.
 
 ## 2026-08-28 22:41 · build
 
