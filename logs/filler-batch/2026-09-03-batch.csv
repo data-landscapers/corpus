@@ -1,0 +1,3 @@
+iso,started,minutes,verdict,probed,staged_rows,nil,skipped_prior_nil,files_baseline,files_progress,queue_cell,cost_usd,turns,session_id,problems
+GMB,2026-09-03T04:45:12,58.8,ok,73,72,1,0,56,66,03/09/2026,69.15,73,e07823a7-41a0-4d9e-9b91-aedbbb0c1f4e,
+LBR,2026-09-03T05:44:00,48.8,PROBLEM,77,77,0,0,57,100,03/09/2026,120.65,109,f8fec391-ebf2-4be5-9594-8318f80caa10,lint-staged-queue: 2 finding(s)

@@ -54,3 +54,28 @@ filler-batch: 14 country(ies) queued from prep/progress-filler-queue.md
     ! 'Filler Searched' still blank — the queue will offer LBR again
     ! no run CSV written
     ! Corpus tree left uncommitted: ?? logs/progress-filler/GMB-slices/
+
+====================================================================
+filler-batch: 2 run(s), 0 clean — stopped: 2 runs in a row had problems
+  wall 0.2h | $15.74 | median 7m a country
+  staged 4 baseline + 2 progress file(s) — undelivered in C:\corpus-osint-xfer\new-queue until Bill moves them
+  ledger: logs/filler-batch/2026-09-02-batch.csv
+  PROBLEM GMB: claude exited 1; 'Filler Searched' still blank — the queue will offer GMB again; no run CSV written; GMB's batch not committed in the share: ?? new-queue/GMB/; Corpus tree left uncommitted: ?? logs/progress-filler/GMB-slices/
+  PROBLEM LBR: claude exited 1; 'Filler Searched' still blank — the queue will offer LBR again; no run CSV written; Corpus tree left uncommitted: ?? logs/progress-filler/GMB-slices/
+  queue: 16 country(ies) still unsearched — DZA, EGY, LBY, MAR, TUN, CIV, CPV, GMB
+filler-batch: 14 country(ies) queued from prep/progress-filler-queue.md
+  COG, GNQ, TCD, GMB, LBR, MLI, MRT, NER, STP, DZA, EGY, LBY, MAR, TUN
+  note: already searched, will be re-probed — COG (02/09/2026), GNQ (02/09/2026), TCD (02/09/2026)
+  model claude-opus-5[1m] | one fresh session each | strictly serial
+  stop on: no deadline, 2 consecutive failures, more than 8 quota waits, no cost ceiling, STOP in logs/filler-batch
+
+=== COG — already run clean within 24h, skipping ===
+
+=== GNQ — already run clean within 24h, skipping ===
+
+=== TCD — already run clean within 24h, skipping ===
+
+=== GMB — started 04:45:12 (timeout 120m) ===
+--- GMB ok in 59m — probed 73, staged 56 baseline + 66 progress, nil 1, $69.15
+
+=== LBR — started 05:44:00 (timeout 120m) ===
