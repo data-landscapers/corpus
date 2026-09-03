@@ -491,18 +491,41 @@ def check_yaml(docs: list[Doc]) -> list[tuple[str, str, list[str]]]:
 
 
 def check_title(docs: list[Doc]) -> list[tuple[str, str, list[str]]]:
-    """An ASCII title whose own body holds the accented spelling of its words."""
+    """An ASCII title whose own body holds the accented spelling of its words.
+
+    **Two things de-accent to a title token without being the orthography the
+    title lost**, and both were found firing on clean LBR files (2026-09-03):
+
+      - **A compatibility fold is not a diacritic.** A PDF that sets its heading
+        in a maths-italic font gives `𝐿iberia`,
+        which NFKD-folds to `liberia` with no combining mark anywhere in it. The
+        glyph is styling the extractor kept, and there is nothing in it for a
+        title to carry. So the accented form has to actually decompose to a
+        combining mark to count as one.
+      - **A multilingual body spells it both ways.** An EU--Liberia treaty
+        carries its French and Spanish parallel text beside its English, so
+        `Libéria` and `Unión` sit in a body whose own English says `Liberia` and
+        `Union`. Where the plain form is in the body too, the source uses it and
+        the title is not a transliteration this run did."""
     findings = []
     for d in docs:
         if not d.title or not d.title.isascii():
             continue
+        words = re.findall(r"[^\W\d_]{4,}", d.body, re.UNICODE)
+        plain = {w.lower() for w in words if w.isascii()}
         accented: dict[str, str] = {}
-        for raw in re.findall(r"[^\W\d_]{4,}", d.body, re.UNICODE):
+        for raw in words:
             if raw.isascii() or raw.isupper():  # all-caps PDF headers are worse
                 continue
             flat = deaccent(raw)
-            if flat in d.title_tokens_raw and flat != raw.lower():
-                accented.setdefault(flat, raw)
+            if flat not in d.title_tokens_raw or flat == raw.lower():
+                continue
+            if not any(unicodedata.combining(c)
+                       for c in unicodedata.normalize("NFKD", raw)):
+                continue                        # a fold, not a diacritic
+            if flat in plain:
+                continue                        # the source spells it both ways
+            accented.setdefault(flat, raw)
         if accented:
             pairs = ", ".join(f"`{k}` -> `{v}`" for k, v in sorted(accented.items()))
             findings.append((
