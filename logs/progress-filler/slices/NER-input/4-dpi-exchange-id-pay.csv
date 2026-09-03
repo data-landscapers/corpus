@@ -1,0 +1,12 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+dpi.exchange--national-data-exchange-system,DPI,Data Exchange,dpi.exchange,National data exchange system,1
+dpi.exchange--use-of-digital-id-in-other-systems,DPI,Data Exchange,dpi.exchange,Use of digital id in other systems,1
+dpi.exchange--interoperability-of-health-systems,DPI,Data Exchange,dpi.exchange,Interoperability of health systems,1
+dpi.exchange--interoperability-of-education-systems,DPI,Data Exchange,dpi.exchange,Interoperability of education systems,1
+dpi.exchange--interoperability-of-social-protection-systems,DPI,Data Exchange,dpi.exchange,Interoperability of social protection systems,1
+dpi.id--digital-id-from-birth,DPI,Digital Identity and CRVS,dpi.id,Digital id from birth,6
+dpi.id--interoperability-of-birth-registration-and-digital-id,DPI,Digital Identity and CRVS,dpi.id,Interoperability of birth registration and digital id,6
+dpi.id--use-by-other-systems,DPI,Digital Identity and CRVS,dpi.id,Use by other systems,6
+dpi.pay--governance-role-of-central-bank,DPI,Digital Payments and Fintech,dpi.pay,Governance role of central bank,4
+dpi.pay--b2b-and-b2g-functionality,DPI,Digital Payments and Fintech,dpi.pay,B2B and B2G functionality,4
+dpi.pay--consumer-protection,DPI,Digital Payments and Fintech,dpi.pay,Consumer protection,4

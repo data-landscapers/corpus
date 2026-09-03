@@ -1,0 +1,12 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+digital.localgov--ict-infrastructure-for-local-government,digital.localgov,2,9,4,1,2,5,1,fetch-blocked,staged,1
+digital.rural--digitalisation-of-rural-health-clinics,digital.rural,2,10,3,1,2,7,0,,staged,1
+digital.rural--digitalisation-of-rural-primary-schools,digital.rural,2,12,3,1,2,8,0,,staged,1
+digital.rural--digitalisation-of-rural-police-stations,digital.rural,2,10,1,1,0,9,0,,staged,1
+tech.ai--use-of-ai-in-sectoral-management-information-systems,tech.ai,2,11,3,1,2,8,0,,staged,1
+tech.ai--development-of-national-regional-ai-systems,tech.ai,2,9,1,1,2,5,0,,staged,1
+tech.ai--control-of-ai-abuse,tech.ai,2,10,3,1,2,7,0,,staged,1
+capacity.literacy--digital-literacy-general-population,capacity.literacy,2,13,3,1,1,9,2,already-seen,staged,0
+capacity.training--dt-related-training-in-secondary-education,capacity.training,2,9,3,1,2,6,0,,staged,3
+capacity.training--dt-related-university-facilities-and-qualifications,capacity.training,2,13,3,1,2,9,1,already-seen,staged,3
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,capacity.research,2,9,2,1,2,5,0,,staged,1

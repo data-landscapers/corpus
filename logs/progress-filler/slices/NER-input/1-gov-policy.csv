@@ -1,0 +1,12 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+gov.policy--ict-strategy,Governance,"Strategies, plans and policies",gov.policy,ICT strategy,1
+gov.policy--broadband-strategy,Governance,"Strategies, plans and policies",gov.policy,Broadband strategy,1
+gov.policy--data-storage-cloud-strategy,Governance,"Strategies, plans and policies",gov.policy,Data storage / cloud strategy,1
+gov.policy--data-interoperability-framework-roadmap,Governance,"Strategies, plans and policies",gov.policy,Data interoperability framework / roadmap,1
+gov.policy--ai-strategy,Governance,"Strategies, plans and policies",gov.policy,AI strategy,1
+gov.policy--data-localisation-policies,Governance,"Strategies, plans and policies",gov.policy,Data localisation policies,1
+gov.policy--data-governance-policy,Governance,"Strategies, plans and policies",gov.policy,Data governance policy,1
+gov.policy--open-data-policy,Governance,"Strategies, plans and policies",gov.policy,Open data policy,1
+gov.legislate--cybersecurity-legislation,Governance,Legislation and regulation,gov.legislate,Cybersecurity legislation,3
+gov.legislate--digital-payments-legislation,Governance,Legislation and regulation,gov.legislate,Digital payments legislation,3
+gov.legislate--legislation-enabling-data-interoperability,Governance,Legislation and regulation,gov.legislate,Legislation enabling data interoperability,3

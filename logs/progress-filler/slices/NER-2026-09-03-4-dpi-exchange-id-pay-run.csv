@@ -1,0 +1,12 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+dpi.exchange--national-data-exchange-system,dpi.exchange,2,5,3,1,2,0,0,,staged,1
+dpi.exchange--use-of-digital-id-in-other-systems,dpi.exchange,2,4,3,1,2,0,0,,staged,1
+dpi.exchange--interoperability-of-health-systems,dpi.exchange,2,7,3,1,1,0,1,fetch-blocked,staged,1
+dpi.exchange--interoperability-of-education-systems,dpi.exchange,2,6,1,1,0,0,0,,staged,1
+dpi.exchange--interoperability-of-social-protection-systems,dpi.exchange,2,5,2,1,2,0,0,,staged,1
+dpi.id--digital-id-from-birth,dpi.id,2,6,3,1,2,0,0,,staged,6
+dpi.id--interoperability-of-birth-registration-and-digital-id,dpi.id,2,6,3,1,2,0,0,,staged,6
+dpi.id--use-by-other-systems,dpi.id,2,5,3,1,2,0,0,,staged,6
+dpi.pay--governance-role-of-central-bank,dpi.pay,2,10,2,1,1,0,3,already-seen already-seen already-seen,staged,4
+dpi.pay--b2b-and-b2g-functionality,dpi.pay,2,8,2,1,1,0,0,,staged,4
+dpi.pay--consumer-protection,dpi.pay,2,5,3,1,2,0,0,,staged,4
