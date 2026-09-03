@@ -1,15 +1,17 @@
 ---
 title: China activities — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: geopol.china
 places: DZA; BWA; BFA; TCD; KEN; NER; NGA; SEN; SSD; SDN; ZMB; ZWE
-record: b329c5f40ed1
+record: 27c3ce150438
 ---
 
 # China activities: monthly update, August 2026
 
 *12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

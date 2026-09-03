@@ -1,15 +1,17 @@
 ---
 title: ICT Industry — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: tech.industry
-places: BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; TGO; ZMB; ZWE
-record: b6ffe834dded
+places: BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; SDN; TGO; ZMB; ZWE
+record: ed1ea87a5433
 ---
 
 # ICT Industry: monthly update, August 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 
@@ -59,6 +61,10 @@ The sector's transformation body lost its chair. The communications minister [re
 The informal economy became a data product. A listed payments company [began selling near-real-time item-level intelligence on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own, and no consent basis or data-protection assessment for reselling merchant transaction data is stated.
 
 Platform transport worked the other end of the same problem — getting drivers inside a licensing regime rather than getting data out of them. An e-hailing operator [took its compliance programme to the provinces, holding a North West regulatory engagement in Rustenburg on 18 August attended by more than 150 operators and a Western Cape transport dialogue in Cape Town on 21 August at which the provincial mobility department's director of licensing and adjudication undertook to add e-hailing as a service option on the operating-licence application; the North West provincial regulatory entity put its pending operating-licence backlog at 3,000 to 5,000 applications](https://www.itweb.co.za/article/bolt-takes-e-hailing-compliance-push-to-provinces/RgeVDvPRkmKMKJN3). The account is the platform's own and the undertaking is not yet an amended form.
+
+## Sudan
+
+Domestic production is a licensable activity and nothing establishes that it is an occupied one. The regulator's licensing framework includes [a technical support licence category explicitly for basic infrastructure manufacturing](https://tpra.gov.sd/?page_id=4475). No register of holders of that category, and no production or employment figure, was located.
 
 ## Togo
 

@@ -1,13 +1,13 @@
 ---
-title: Cybersecurity — progress report, 2025-09-01 to 2026-09-02
-compiled: 2026-09-02
-period: 2025-09-01 to 2026-09-02
+title: Cybersecurity — progress report, 2025-09-01 to 2026-09-03
+compiled: 2026-09-03
+period: 2025-09-01 to 2026-09-03
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2f25094b2549
+record: ec65d00927c3
 ---
 
-# Cybersecurity: progress report, 2025-09-01 to 2026-09-02
+# Cybersecurity: progress report, 2025-09-01 to 2026-09-03
 
 *53 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

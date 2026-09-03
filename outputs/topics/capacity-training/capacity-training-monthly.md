@@ -1,15 +1,15 @@
 ---
 title: Training and skills — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: capacity.training
-places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: b701cbce75dc
+places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: c78e9ad7a87d
 ---
 
 # Training and skills: monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -177,6 +177,10 @@ The industry association put up a route of its own, [launching a portal to link 
 ## South Sudan
 
 Two private training deliverables closed the month. A mobile operator's money arm [graduated 1,225 entrepreneurs from a digital-finance skills programme on 24 August](https://techafricanews.com/2026/08/24/mtn-momo-equips-1225-entrepreneurs-digital-finance-skills/), and the same operator [opened an ICT hub at Aweil in Northern Bahr el Ghazal](https://techafricanews.com/2026/08/31/mtn-south-sudan-launches-aweil-ict-hub-to-boost-digital-skills-and-youth-innovation/). Both are the operator's own programmes and its own figures; no state training line stands beside them on this ledger.
+
+## Sudan
+
+Türkiye's higher education council and the Sudanese higher education ministry [signed a protocol in Ankara on 3 August 2026 to establish a joint public university in Khartoum](https://www.yok.edu.tr/en/news/turkish-universities-expand-their-global-footprint-following-kazakhstan-kyrgyzstan-azerbaijan-and-uzbekistan-next-destination-is-sudan-w1zjQ), with information technologies and artificial intelligence named among its priority fields, and recording a parallel arrangement hosting three Sudanese universities on Turkish campuses. A protocol is a provision, not a faculty: no site, intake or opening date is stated, and the institution has no students.
 
 ## Tanzania
 

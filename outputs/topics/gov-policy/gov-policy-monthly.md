@@ -1,15 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: gov.policy
-places: BFA; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d5b47a5ce0f9
+places: BFA; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6d3151ae102f
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -126,9 +126,9 @@ The month's substantive instrument is the cloud policy. On 17 August the communi
 
 ## Rwanda
 
-The ministry's legacy-network retirement plan, announced on 28 July, extends beyond the switch-off dates themselves: extensions to the working timetable are temporary and regulator-approved only, and a government-commissioned study found more than two million people could still be on the older network in 2030 without a planned transition — the study is unpublished, so its method and definitions are unestablished. The ministry also published capability check codes and an institutional audit checklist covering messaging services, payment terminals, utility meters and vehicle trackers.
+Beyond the switch-off dates, the ministry's retirement plan makes timetable extensions temporary and regulator-approved only, and cites a government-commissioned study finding more than two million people could still be on the older network in 2030 without a planned transition — the study is unpublished, so its method and definitions are unestablished. The ministry also published capability check codes and an institutional audit checklist covering messaging services, payment terminals, utility meters and vehicle trackers.
 
-A development agency published on 6 July, from engagements run to March 2026, that Rwandan participants reported [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or active monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally) — while the technology is embedded in payments, judiciary filing, identity verification and service delivery — and that resolving an authentication error can take days or weeks. The report is qualitative and claims no representativeness.
+A development agency reported on 6 July, from engagements run to March 2026, that Rwandan participants said [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally), while the technology sits in payments, judiciary filing, identity verification and service delivery. The report is qualitative and claims no representativeness.
 
 The agency meant to hold that ground acquired its first stated function since cabinet approved it in June. Answering early-stage artificial-intelligence firms pressing publicly for infrastructure and funding, the ICT ministry [said on 17 August that the National AI Agency would coordinate shared compute and data-centre capacity for start-ups and researchers](https://allafrica.com/stories/202608170713.html). No establishing law, compute capacity, access rule or budget is attached to it, and the base still records no sovereign compute of any kind.
 
@@ -152,6 +152,10 @@ The multi-agency answer to mobile-money fraud got a drafting session. A two-day 
 The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
 
 A third instrument is being fast-tracked rather than tendered. The Presidency and the planning and evaluation department [put a digital dashboard monitoring mega infrastructure projects before the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), alongside a wider review of progress against the state-of-the-nation commitments. No delivery date, data source, custodian or statement of whether the dashboard will be public is given — which for a monitoring instrument is the whole of the question. The portfolio minister separately [set out persistent governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda), citing progress stabilising boards and the state IT agency's leadership, a completed public broadcaster funding model now with the Treasury, and ruling out a compulsory household levy.
+
+## Sudan
+
+Nothing was made this month; what changed is what the record holds. The regulator's own framework catalogue names [Regulations for the Organization of Data Center and Cloud Computing Services, 2025 as the current sector instrument](https://tpra.gov.sd/en/regulatory-frameworks/regulations/), and its licensing service requires an internet-applications applicant to [disclose whether its hosting server sits inside or outside Sudan](https://tpra.gov.sd/en/services/telecom-licensing/), with data-centre licence categories separating operators that own facilities in Sudan from cloud resellers. Both instruments predate the window and neither's own text is held. In the absence of an economy-wide data-localisation law, a licence condition is where the question of where Sudanese data sits is answered.
 
 ## Tanzania
 

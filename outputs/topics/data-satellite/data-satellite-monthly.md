@@ -1,15 +1,15 @@
 ---
 title: Use of satellite data — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: data.satellite
-places: BDI; COM; COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; TZA; ZMB
-record: 665ee5d5bdf6
+places: BDI; COM; COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; ZMB
+record: 85e84974f421
 ---
 
 # Use of satellite data: monthly update, August 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -64,6 +64,10 @@ A [national satellite data programme launched with a commercial imagery provider
 ## Sierra Leone
 
 DSTI announced on 4 August that it is [developing a national base map with the Ministry of Lands, with JICA support and Japanese technical direction, phase one covering Western Area Urban District](https://owlpress-sl.com/dsti-leads-digital-mapping-system-sierra-leone-moves-develop-national-base-map/). No cost, timetable, hosting arrangement or data licence is stated.
+
+## Somalia
+
+Earth observation here is a service rather than a programme, and the record caught up with it this month rather than the service changing. A partner information unit [operates high, medium and low-resolution satellite imagery to estimate cultivable area and production, map land use and cover, monitor irrigation infrastructure and track land degradation](https://faoswalim.org/information-management/information-services/remote-sensing), and its routine output — [a national monthly vegetation index series extended through July 2026, mapping deficits against short-term averages](https://fsnau.org/downloads/NDVI-Index-for-Somalia-Jan-2007-Jul-2026.pdf) — is published without interruption. No Somali public body operates an equivalent capability, and the strategic plan for a national meteorological agency, released in December 2025, has not yet produced one.
 
 ## Tanzania
 

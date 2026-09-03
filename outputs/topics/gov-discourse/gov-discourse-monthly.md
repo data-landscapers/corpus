@@ -1,15 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: gov.discourse
-places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; UGA; ZMB
-record: 3e4de40fed34
+places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; UGA; ZMB
+record: cc89585550c2
 ---
 
 # Public debate and participation in policymaking: monthly update, August 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -110,6 +110,10 @@ The month's other forum was external in origin. At the national Internet Governa
 ## Morocco
 
 Simplification is law and is not yet practice. A member's written question to the digital transition ministry put the ombudsman's 2025 finding on the record: [agencies still ask citizens for paper copies of documents the administration already holds electronically, and impose undisclosed extra conditions](https://nichan.ma/361721/), which is what the procedural simplification law was passed to stop. No ministry answer is held. The complaint from the other end is about coverage rather than paperwork: residents of one Sefrou commune [are asking for new or strengthened transmission stations, describing reliable connectivity as a condition of schooling, work and emergency access](https://www.adyare.ma/32404.html).
+
+## Namibia
+
+The dominant mobile operator [publicly rejected customer claims that it takes data](https://www.namibian.com.na/we-dont-steal-your-data-mtc/), its data adviser telling a trade-fair discussion on 30 August 2026 that billing is consumption-based, attributing rapid depletion to video streaming and hotspot sharing, and distinguishing consumption from bundle expiry. The operator said it is building a control letting customers opt in or out of airtime being spent on data once a bundle runs out; no implementation date was given. It is the one argument in this section held with a company rather than a ministry, and the only one that produced a stated product change.
 
 ## Nigeria
 

@@ -1,15 +1,15 @@
 ---
 title: National statistics — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: data.statistics
-places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NGA; SYC; ZAF; UGA; ZWE
-record: c182069e6fec
+places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SYC; ZAF; UGA; ZWE
+record: 09bedce3fc50
 ---
 
 # National statistics: monthly update, August 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -104,6 +104,10 @@ The statistics agency is publishing both its data and, unusually, an account of 
 An inclusive-data initiative brought the national statistics office into a five-country programme.
 
 A state put a household survey at the centre of its budgeting. Katsina [launched six planning documents on 28 August, among them a General Household Survey Report and a State Statistical Yearbook covering poverty, employment, livelihoods, agriculture, education, healthcare, housing, water, sanitation and access to basic services across its 34 local government areas](https://www.vanguardngr.com/2026/08/radda-moves-katsina-to-data-driven-governance-targets-poverty-food-crisis/), the budget commissioner directing agencies to align their programmes to the new frameworks.
+
+## Rwanda
+
+The seventh demographic and health survey, collected between June and November 2025, [reached its final report in August 2026](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf) — 690 pages, almost entirely tables by design. The release notice in January had pointed to a signed press release rather than the report ([notice](https://statistics.gov.rw/node/805)), so the substantive document only entered the record this month. It joins a foreign private capital census of [424 enterprises at an 89.6 per cent response rate](https://statistics.gov.rw/data-sources/censuses/Foreign-Private-Capital-Census/foreign-private-capital-census-2025), reported in February.
 
 ## Seychelles
 

@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: dpi.registry
-places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b65e026e7e69
+places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: e77dc2aea655
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -195,6 +195,10 @@ Somalia [launched its first unified national registry of health facilities](http
 ## South Africa
 
 Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) and stated it could not trace approximately 400,000 of those affected, against a court deadline extended to March 2027.
+
+## Sudan
+
+An address register remains an obligation rather than a system. The regulator's statutory duties under the Telecommunications and Post (Organization) Act 2018 include [establishing a postal addressing system and managing and regulating it](https://tpra.gov.sd/en/regulatory/postal/) — a mandate, not a deployment. No addressing standard or coverage figure was found for any part of the country, which leaves every register that would key to an address keying to something else.
 
 ## Tanzania
 

@@ -1,10 +1,10 @@
 ---
 title: Energy — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: infra.energy
 places: BWA; BDI; COM; ETH; KEN; LSO; MDG; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
-record: 65229e68ea32
+record: dc884a7a4acf
 ---
 
 # Energy: monthly update, August 2026

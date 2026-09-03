@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: gov.standards
-places: AGO; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TZA; UGA; ZMB
-record: 5d797f4f75e2
+places: AGO; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: efa622fd2802
 ---
 
 # Standards: monthly update, August 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -110,9 +110,17 @@ The auditor general's office and a partner supreme audit institution [completed 
 
 Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies the withdrawn draft policy proposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024 and no instrument establishing its powers is held.
 
+## Sudan
+
+Two standing accounts entered the record and no standard was made. The national standards body publishes [a catalogue of adopted Sudanese Standards against their international equivalents](https://www.ssmo.gov.sd/Content/SectorDetails/783020af-a1ce-46f5-aaa1-525dd82ca005), under the Standards Act of 2008; it is a cross-sector list rather than an information-technology one. The digital transformation ministry's own product page for its government-institution platform [names interoperability among the platform's design principles](https://baldna.gov.sd/product/1/details) and lists the government institutions already integrated onto it. A catalogue of product standards and a platform that integrates ministries are not the same thing as a published interoperability framework other systems can be built against, and no such framework is held.
+
 ## Tanzania
 
 The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the base holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
+
+## Togo
+
+Togo launched the National Accounting Council, [the body a regional directive of 28 November 1997 requires each member state to establish](https://www.togofirst.com/en/economic-governance/3108-19908-togo-activates-national-accounting-council-to-improve-financial-reporting), tasked with making accounting information reliable, relevant, comparable and consistent with international standards. [The directive itself](https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/UEMOA/DIRECTIVE/Directive%20n%C2%B003-97-CM-UEMOA%20portant%20cr%C3%A9ation%20d%27un%20Conseil%20National%20de%20la%20Comptabilit%C3%A9%20ds%20l%27Uemoa..pdf) is now held. Twenty-nine years between the obligation and the institution is the finding, and it is the one instrument this section gained in the period whose text a reader can actually reach.
 
 ## Uganda
 

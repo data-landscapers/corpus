@@ -1,15 +1,17 @@
 ---
 title: EU activities — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: geopol.eu
 places: KEN; MWI; MLI; MAR; NGA
-record: e98e63a9a0ee
+record: a15611bdff3d
 ---
 
 # EU activities: monthly update, August 2026
 
 *5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Kenya
 

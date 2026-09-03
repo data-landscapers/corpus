@@ -1,15 +1,15 @@
 ---
 title: Data protection — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: gov.protect
-places: AGO; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
-record: d77c830b3145
+places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
+record: 9c4c4f071779
 ---
 
 # Data protection: monthly update, August 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -18,6 +18,10 @@ record: d77c830b3145
 The data protection law is in force and unamended, and its exemptions are wider than its penalties. [Fines run from USD 75,000 to 150,000, trebled for legal persons and cumulated across concurrent contraventions](https://www.hunton.com/privacy-and-cybersecurity-law-blog/angola-passes-personal-data-protection-law), but the [statute substitutes a law or decree for the regulator's authorisation in two places, and puts processing under state-secrecy, state-security and judicial-secrecy rules outside the law altogether](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/). The state can therefore authorise itself, and the categories where it most often processes are excluded at the outset.
 
 A report published on 15 August by the South African organisation Intelwatch [found the intelligence service SINSE reaching biometric data without judicial supervision](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and identified no rule stating when it may obtain identity, biometric or mobility data and no independent body to review such requests; the migration service confirmed at the Santa Clara border post that SINSE may request access under established protocols. The same report puts the [national biometric border-control system at US$112m, awarded in February 2025 to Dolinveste Lda with Poland's Technology for Business, reportedly by direct award rather than open tender](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and adds a [EUR 130m passport and biometric identity contract with Hungary's ANY Security Printing, taking the total past US$250m without significant tender, parliamentary scrutiny or human-rights impact assessment](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/). Against that spending it records [no biometric system operating at the border posts with the Democratic Republic of the Congo](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), crossings there regulated by a manually checked seven-day paper pass, and the one functional post reading passports against the migration database but with fingerprint and height capture discontinued on maintenance grounds. It also records that the electoral register is [derived from the civil identity database, with the voter card to be used for the last time in 2027 before the identity card becomes the sole registration credential](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/) under the 2025 official-registration law, and that the register has never had a comprehensive independent technical audit. The figures and the characterisation of the awards are Intelwatch's; no procurement record is on file.
+
+## Benin
+
+Body-worn cameras have become standard kit for traffic police in the largest city, on the [500 devices and the dedicated information system the Council of Ministers authorised on 1 March 2023](https://sgg.gouv.bj/cm/2023-03-01/) for the police and customs, piloted from 2024 in three cities. What the record does not carry is the part that governs the footage: [who may view it, how long it is kept and whether a citizen can obtain their own sequence remain unstated](https://www.lanation.bj/actualites/cameras-pietons-a-cotonou-pourquoi-sont-elles-de-plus-en-plus-visibles-sur-les-policiers). A collection authorised by decree and a retention rule published nowhere is the shape this ledger already holds for the data-protection layer generally.
 
 ## Burkina Faso
 
@@ -122,6 +126,10 @@ Rwanda is [preparing a restriction on social media use by under-16s](https://www
 ## Sao Tome and Principe
 
 A further agreement between the two jurisdictions on [exchanging information to combat money laundering is to be signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/). It is the second instrument with the same counterpart and the base holds no signature date or text for it.
+
+## Senegal
+
+The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008.
 
 ## Sierra Leone
 

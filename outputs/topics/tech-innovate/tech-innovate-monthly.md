@@ -1,15 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: tech.innovate
-places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NAM; NER; NGA; RWA; ZAF; TZA; TUN; UGA; ZMB; ZWE
-record: 8634bc2af797
+places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NAM; NER; NGA; RWA; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: b4d9281322cc
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -109,6 +109,10 @@ As at 3 August the development bank is [the sole committed backer, at US$6m, of 
 The month's addition is a standing one. The small business department's [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs) is now on the record, which matters because the two centres opened earlier in the year — a continental digital transformation centre established with the International Telecommunication Union, and an industry and technology centre hosted by a university — both sit on top of an existing state hub estate that the base had never described.
 
 No hub count, spend or enterprise figure is published for any of the three, so the estate is established and its output is not. Both openings fall outside this month and are carried in the progress report.
+
+## Sudan
+
+The finance ministry, the African Development Bank and the regional body [launched the national component of an entrepreneurship and innovation project on 19 August 2026, delivered through the University of Khartoum's entrepreneurship incubator](https://sudanhorizon.com/sudanafdb-and-igad-support-eentrepreneurship-and-startups/), part of a regional operation of about USD 3.255 million also covering South Sudan and Djibouti. Alongside it the base took in a standing account of the country's main private startup organisation, [established in April 2018 and running a hub and support programmes](https://249startups.com/about/), which had opened [a 500-place youth entrepreneurship programme in Kassala](https://menastartupdigest.com/249startups-launches-i-upshift-program-in-kassala-to-empower-500-youth/). No count of active hubs or of capital placed is published.
 
 ## Tanzania
 

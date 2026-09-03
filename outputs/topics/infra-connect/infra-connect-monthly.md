@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4b716b5588fc
+record: 645f79a502e2
 ---
 
 # Connectivity: monthly update, August 2026
@@ -225,7 +225,7 @@ Katsina State [began the last-mile stage of its fibre network, the state investm
 
 ## Rwanda
 
-The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the older, second-generation network, expressly conditional on coverage, voice reliability including emergency calls, continuity of mobile money and payments, migration of dependent systems, and the availability of affordable handsets. The technical precondition for the switch-off schedule fell into place days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no completion date given. The source makes no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
+The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the second-generation network, conditional on coverage, voice reliability including emergency calls, continuity of mobile money, migration of dependent systems and affordable handsets. The technical precondition followed days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
 
 
 The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.

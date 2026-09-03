@@ -1,15 +1,17 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: digital.localgov
-places: AGO; BFA; BDI; MWI; MLI; NAM; NGA; RWA; ZAF; TZA; TGO; ZMB; ZWE
-record: 641a5d30713e
+places: AGO; BFA; BDI; MWI; MLI; NAM; NGA; RWA; ZAF; SDN; TZA; TGO; ZMB; ZWE
+record: 9df68a7af22a
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -56,6 +58,10 @@ Nothing moved at a municipality this month. What the record gained is the rule t
 That is an addition to the record rather than a development. No compliance assessment against the guidance appears for any municipality, and the two metro programmes on this ledger — a records digitisation rollout reported to the National Council of Provinces and an electronic records system awarded on a three-year term — both predate this window and are carried in the progress report.
 
 Two municipal items, one opening a counter and one pricing the problem. Home Affairs [opened an appointment-only office inside the Cape Town Civic Centre on 24 August, which the city describes as the first municipal facility to host a national home affairs office; 148 people applied on the opening day, and Atlantis is named next](https://www.timeslive.co.za/news/south-africa/2026-08-24-cape-town-residents-get-a-new-way-to-beat-home-affairs-queues/). The local government association [issued a request for proposal for consultants to build a municipal revenue management plan across the 257 municipalities it represents, putting consumer debt at about R467.2bn, municipalities' own debt to creditors at about R160.8bn, and annual water and electricity revenue loss at about R25bn from leaks, theft, illegal connections and weaknesses in metering and billing](https://www.sundaytimes.timeslive.co.za/news/2026-08-24-salga-needs-consultants-help-to-fix-almost-r500bn-municipal-debt/).
+
+## Sudan
+
+The institutional route from the centre to the states was documented rather than changed. The National Information Center, established under a 1999 constitutional decree, [carries a state coordination directorate responsible for following up technology projects and training at state level](https://nic.gov.sd/public/departments). That establishes who is accountable; it does not establish what reaches a state office. No budget, staffing or equipment figure for local government technology is published.
 
 ## Tanzania
 

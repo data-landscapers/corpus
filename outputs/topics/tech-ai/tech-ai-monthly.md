@@ -1,15 +1,15 @@
 ---
 title: AI — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: tech.ai
-places: DZA; BEN; BFA; CMR; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB; ZWE
-record: a5f6c4d313b2
+places: DZA; BEN; BFA; CMR; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: c60baef48feb
 ---
 
 # AI: monthly update, August 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -199,6 +199,10 @@ Adoption in institutions ran ahead of the rules governing it, in two settings a 
 The closest thing to a rule on state automated decision-making is a court case, and it acquired a date this month. An artificial-intelligence governance organisation, represented by a university legal centre, [was admitted as a friend of the court in the state's appeal against the January 2025 High Court judgment on the Social Relief of Distress grant](https://www.globalcenter.ai/news/human-rights-implications-of-using-algorithms-for-social-grants), which held several of the grant's regulations unconstitutional on a scheme administered online only and screened by an algorithmic verification system that excluded applicants it read as earning above R624.00. The appeal is set down for 25 August 2026. Rules governing state automated decision-making remain ***Not held***; what exists is litigation.
 
 Two smaller items sit at the other end of the same subject. A robotics firm [opened a manufacturing plant and showroom in Durban for an artificial-intelligence humanoid tutor, targeting deployment across roughly 23,000 public schools](https://www.itweb.co.za/article/humanoid-tutor-manufacturing-plant-opens-in-durban/G98YdMLGNwV7X2PD), on a founder's stated ambition rather than a procurement. And a university's radio-telescope demonstrator [was selected to fly aboard a Chinese lunar mission in 2029](https://www.itweb.co.za/article/african-scientists-to-put-radio-telescope-on-moon/RgeVDqPRkKa7KJN3), described as the first all-African space-exploration mission and building on the country's existing radio-astronomy programme.
+
+## Sudan
+
+A partner consortium [built a deep-learning model detecting school locations and boundaries from satellite imagery at 95 per cent accuracy across Sudan](https://www.omdena.com/blog/giga-unicef), delivered by 52 engineers over six weeks and designed for integration into a school-connectivity mapping system. It is the second artificial-intelligence application the base holds inside an education system, and like the first it is externally built: the state's own role in both is as the subject of the mapping rather than its operator.
 
 ## Tanzania
 

@@ -1,15 +1,21 @@
 ---
 title: US / hyperscaler activities — monthly update, August 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 subject: geopol.usa
-places: EGY; KEN; LSO; MUS; NGA; SEN; UGA; ZWE
-record: cace5d7b5dab
+places: DJI; EGY; KEN; LSO; MUS; NGA; SEN; UGA; ZWE
+record: 8c2bb76c5d0a
 ---
 
 # US / hyperscaler activities: monthly update, August 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
+
+## Djibouti
+
+[A new impetus in digital and media cooperation between Djibouti and the United States was reported on 1 September 2026](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/), with no instrument, sum or timetable published. What changed is that a bilateral digital relationship is on the record at all: the standing engagement until now was a hyperscaler's cable route that names Djibouti among its landings and has had no activation status published since 2021.
 
 ## Egypt
 
