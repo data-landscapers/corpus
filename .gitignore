@@ -103,3 +103,5 @@ outputs/names/
 # gone by the next. Untracked because `filler-batch.py` faults a session that leaves the
 # tree dirty, and scratch nobody meant to keep would stop a batch on its own litter.
 logs/progress-filler/.*
+logs/progress-filler/*-slices/
+logs/progress-filler/tmp*/

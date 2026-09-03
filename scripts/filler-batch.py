@@ -55,6 +55,7 @@ import argparse
 import csv
 import json
 import os
+import re
 import shutil
 import signal
 import statistics
@@ -250,6 +251,42 @@ def dirty(path: Path, ignore: str = "") -> str:
     return "\n".join(lines[:5])
 
 
+_RESET = re.compile(r"resets?\s+(\d{1,2})[:.](\d{2})\s*(am|pm)?", re.I)
+
+
+def rate_limited(result: dict) -> datetime | None:
+    """When the quota resets, if this run died on one. None if it did not.
+
+    **A rate limit is not a failed run** *(GMB and LBR, 2026-09-02 23:36)*. The quota ran
+    out mid-GMB; LBR then bounced in 373ms at $0.00 with `api_error_status: 429` and
+    "You've hit your session limit · resets 1:50am". Two runs in a row with problems is
+    the stop condition, so the batch stopped — correctly, on the rule as written, and
+    wrongly on the facts. The limit reset at 01:50 and the batch sat idle until it was
+    looked at, wasting three hours of quota that was there for the taking.
+
+    A limit says *come back later*, so the driver now waits and retries the same country
+    rather than counting it against the failure budget. The reset time comes out of the
+    message where it is given; where it is not, a default wait applies, because the one
+    thing not to do is spin."""
+    if not result:
+        return None
+    text = str(result.get("result", ""))
+    if result.get("api_error_status") != 429 and "limit" not in text.lower():
+        return None
+    m = _RESET.search(text)
+    if not m:
+        return datetime.now() + timedelta(minutes=30)
+    hh, mm, ampm = int(m.group(1)), int(m.group(2)), (m.group(3) or "").lower()
+    if ampm == "pm" and hh != 12:
+        hh += 12
+    elif ampm == "am" and hh == 12:
+        hh = 0
+    when = datetime.now().replace(hour=hh % 24, minute=mm, second=0, microsecond=0)
+    if when <= datetime.now():
+        when += timedelta(days=1)
+    return when
+
+
 def share_settled(iso: str, tries: int = 6, wait: float = 5.0) -> str:
     """Is this country's staged batch committed in the share? '' when it is.
 
@@ -386,7 +423,7 @@ def run_one(iso: str, a) -> dict:
           f"${row['cost_usd']}", flush=True)
     for pr in problems:
         print(f"    ! {pr}", flush=True)
-    return row
+    return row, result
 
 
 # ---------------------------------------------------------------------------
@@ -437,6 +474,8 @@ def main() -> int:
     ap.add_argument("--max-runs", type=int, default=0, help="0 = the whole queue")
     ap.add_argument("--max-cost-usd", type=float, default=0.0, help="0 = no ceiling")
     ap.add_argument("--max-consecutive-failures", type=int, default=2)
+    ap.add_argument("--max-waits", type=int, default=8,
+                    help="how many times to wait out a quota reset before giving up")
     ap.add_argument("--timeout-min", type=int, default=120, help="per country")
     ap.add_argument("--resume-window-h", type=float, default=24.0,
                     help="treat a country finished clean this recently as already done")
@@ -487,6 +526,7 @@ def main() -> int:
     print(f"  model {a.model} | one fresh session each | strictly serial")
     stops = [f"deadline {deadline:%Y-%m-%d %H:%M}" if deadline else "no deadline",
              f"{a.max_consecutive_failures} consecutive failures",
+             f"more than {a.max_waits} quota waits",
              f"${a.max_cost_usd:.2f} total" if a.max_cost_usd else "no cost ceiling",
              f"{STOP.name} in {BATCH.relative_to(CORPUS).as_posix()}"]
     print(f"  stop on: {', '.join(stops)}")
@@ -500,6 +540,7 @@ def main() -> int:
 
     done: list[dict] = []
     consecutive = 0
+    waits = 0
     spent = 0.0
     stopped = ""
 
@@ -530,10 +571,31 @@ def main() -> int:
                       f"{a.resume_window_h:g}h, skipping ===")
                 continue
 
-            row = run_one(iso, a)
+            row, result = run_one(iso, a)
+            spent += float(row["cost_usd"] or 0)
+
+            # A limit says come back later, not that the run was bad. Wait it out and put
+            # the country back at the head of the queue rather than spending a failure on
+            # it — see `rate_limited`. The ledger still gets the row, so the wait is on
+            # the record and the cost of the truncated attempt is counted.
+            resets = rate_limited(result)
+            if resets is not None and waits < a.max_waits:
+                waits += 1
+                row["verdict"] = "rate-limited"
+                append_ledger(ledger, row)
+                secs = max(60.0, (resets - datetime.now()).total_seconds() + 120)
+                print(f"    quota exhausted — waiting until {resets:%H:%M} "
+                      f"({secs / 60:.0f}m), then retrying {iso} "
+                      f"(wait {waits} of {a.max_waits})", flush=True)
+                if STOP.exists():
+                    stopped = f"{STOP.name} present"
+                    break
+                time.sleep(secs)
+                queue.insert(queue.index(iso) + 1, iso)   # try it again next
+                continue
+
             done.append(row)
             append_ledger(ledger, row)
-            spent += float(row["cost_usd"] or 0)
             consecutive = 0 if row["verdict"] == "ok" else consecutive + 1
             if consecutive >= a.max_consecutive_failures:
                 stopped = f"{consecutive} runs in a row had problems"
