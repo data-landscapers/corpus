@@ -254,8 +254,16 @@ def dirty(path: Path, ignore: str = "") -> str:
 _RESET = re.compile(r"resets?\s+(\d{1,2})[:.](\d{2})\s*(am|pm)?", re.I)
 
 
-def rate_limited(result: dict) -> datetime | None:
-    """When the quota resets, if this run died on one. None if it did not.
+# **A server-side error is the same kind of signal as a quota limit**: the run did
+# not fail on its own merits, and the answer is to come back rather than to spend a
+# failure on it. 529 is the one seen (2026-09-03); the neighbouring 5xx are here
+# because they say the same thing and a driver that waited on one and not the next
+# would be drawing a line the API does not.
+SERVER_SIDE = {500, 502, 503, 529}
+
+
+def retry_after(result: dict) -> tuple[datetime, str] | None:
+    """When to come back and why, or None where the run failed on its own merits.
 
     **A rate limit is not a failed run** *(GMB and LBR, 2026-09-02 23:36)*. The quota ran
     out mid-GMB; LBR then bounced in 373ms at $0.00 with `api_error_status: 429` and
@@ -267,15 +275,32 @@ def rate_limited(result: dict) -> datetime | None:
     A limit says *come back later*, so the driver now waits and retries the same country
     rather than counting it against the failure budget. The reset time comes out of the
     message where it is given; where it is not, a default wait applies, because the one
-    thing not to do is spin."""
+    thing not to do is spin.
+
+    **An outage was reaching the failure budget the same way a limit used to**
+    *(TUN, CIV and CPV, 2026-09-03 14:42 to 14:54)*. The API went to `529 Overloaded`
+    and every session came back in under four minutes at $0.00 with one turn. Each was
+    counted a failure, so the driver worked down the queue at four minutes a country and
+    would have spent the lot inside an hour — three countries lost to twelve minutes of
+    weather, and nothing in the ledger to distinguish them from a country that had
+    genuinely been tried.
+
+    The wait for a server-side error is a **fixed cadence, not a backoff**. Exponential
+    backoff exists to keep many clients from converging on a struggling server; this is
+    one client, strictly serial, and the only thing it would buy is an outage tolerance
+    nobody can read off the arguments. At a fixed ten minutes, `--max-waits` *is* the
+    tolerance: twenty waits is a bit over three hours of outage, stated in one number."""
     if not result:
         return None
     text = str(result.get("result", ""))
-    if result.get("api_error_status") != 429 and "limit" not in text.lower():
+    status = result.get("api_error_status")
+    if status in SERVER_SIDE:
+        return datetime.now() + timedelta(minutes=10), f"API {status}, server-side"
+    if status != 429 and "limit" not in text.lower():
         return None
     m = _RESET.search(text)
     if not m:
-        return datetime.now() + timedelta(minutes=30)
+        return datetime.now() + timedelta(minutes=30), "quota exhausted"
     hh, mm, ampm = int(m.group(1)), int(m.group(2)), (m.group(3) or "").lower()
     if ampm == "pm" and hh != 12:
         hh += 12
@@ -284,7 +309,7 @@ def rate_limited(result: dict) -> datetime | None:
     when = datetime.now().replace(hour=hh % 24, minute=mm, second=0, microsecond=0)
     if when <= datetime.now():
         when += timedelta(days=1)
-    return when
+    return when, "quota exhausted"
 
 
 def share_settled(iso: str, tries: int = 6, wait: float = 5.0) -> str:
@@ -574,17 +599,19 @@ def main() -> int:
             row, result = run_one(iso, a)
             spent += float(row["cost_usd"] or 0)
 
-            # A limit says come back later, not that the run was bad. Wait it out and put
-            # the country back at the head of the queue rather than spending a failure on
-            # it — see `rate_limited`. The ledger still gets the row, so the wait is on
-            # the record and the cost of the truncated attempt is counted.
-            resets = rate_limited(result)
-            if resets is not None and waits < a.max_waits:
+            # A limit and an outage both say come back later, not that the run was bad.
+            # Wait it out and put the country back at the head of the queue rather than
+            # spending a failure on it — see `retry_after`. The ledger still gets the
+            # row, so the wait is on the record and the cost of the truncated attempt is
+            # counted.
+            later = retry_after(result)
+            if later is not None and waits < a.max_waits:
+                resets, why = later
                 waits += 1
-                row["verdict"] = "rate-limited"
+                row["verdict"] = "waited"
                 append_ledger(ledger, row)
                 secs = max(60.0, (resets - datetime.now()).total_seconds() + 120)
-                print(f"    quota exhausted — waiting until {resets:%H:%M} "
+                print(f"    {why} — waiting until {resets:%H:%M} "
                       f"({secs / 60:.0f}m), then retrying {iso} "
                       f"(wait {waits} of {a.max_waits})", flush=True)
                 if STOP.exists():
