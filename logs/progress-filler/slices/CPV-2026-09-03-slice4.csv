@@ -1,0 +1,9 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+dpi.pay--governance-role-of-central-bank,dpi.pay,2,9,3,1,2,0,1,inadmissible-origin,staged,3
+dpi.pay--g2p-functionality,dpi.pay,2,8,2,1,0,1,0,,staged,3
+dpi.pay--revenue-collection,dpi.pay,2,8,4,1,2,0,0,,staged,3
+dpi.pay--b2b-and-b2g-functionality,dpi.pay,2,8,4,1,2,1,0,,staged,3
+dpi.pay--p2p-p2g-and-p2b-functionality,dpi.pay,2,9,3,1,2,0,0,,staged,3
+dpi.pay--population-uptake,dpi.pay,2,9,4,0,2,0,3,already-seen|headline-only-stub,staged,3
+dpi.pay--cross-border-functionality,dpi.pay,2,9,3,1,0,1,1,headline-only-stub,staged,3
+dpi.pay--consumer-protection,dpi.pay,2,9,4,1,2,1,0,,staged,3

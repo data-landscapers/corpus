@@ -1,0 +1,11 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--ict-strategy,gov.policy,2,11,5,1,2,2,0,,staged,10
+gov.policy--data-storage-cloud-strategy,gov.policy,2,10,3,1,1,0,2,already-seen|out-of-window,staged,10
+gov.policy--data-interoperability-framework-roadmap,gov.policy,2,11,4,1,2,2,1,already-seen,staged,10
+gov.policy--data-localisation-policies,gov.policy,2,9,2,1,1,0,0,,staged,10
+gov.legislate--cybersecurity-legislation,gov.legislate,2,10,2,1,1,0,0,,staged,7
+gov.legislate--legislation-covering-digital-id,gov.legislate,2,11,0,1,2,0,0,,staged,7
+gov.legislate--digital-payments-legislation,gov.legislate,2,10,0,1,2,0,0,,staged,7
+gov.legislate--ai-legislation-regulations,gov.legislate,2,10,1,1,2,0,0,,staged,7
+gov.legislate--statistics-legislation,gov.legislate,2,9,2,1,1,0,1,fetch-blocked,staged,7
+gov.legislate--access-to-information-legislation,gov.legislate,2,10,2,1,2,1,0,,staged,7

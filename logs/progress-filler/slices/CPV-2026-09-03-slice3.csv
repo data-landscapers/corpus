@@ -1,0 +1,12 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+infra.connect--mobile-affordability,infra.connect,2,8,3,1,0,2,1,already-seen,staged,10
+infra.connect--national-fibre-backbone,infra.connect,2,7,4,1,1,2,1,inadmissible-origin,staged,10
+infra.connect--international-internet-bandwidth,infra.connect,2,8,3,1,2,0,1,inadmissible-origin,staged,10
+infra.connect--internet-exchange-points,infra.connect,2,6,2,1,1,0,0,,staged,10
+dpi.exchange--national-data-exchange-system,dpi.exchange,2,8,1,1,2,0,1,already-seen,staged,0
+dpi.exchange--use-of-digital-id-in-other-systems,dpi.exchange,2,7,2,1,2,1,0,,staged,0
+dpi.exchange--interoperability-of-health-systems,dpi.exchange,2,8,3,1,2,0,1,duplicate-in-run,staged,0
+dpi.exchange--interoperability-of-education-systems,dpi.exchange,2,7,2,1,2,0,1,duplicate-in-run,staged,0
+dpi.exchange--interoperability-of-social-protection-systems,dpi.exchange,2,8,5,1,2,2,0,,staged,0
+dpi.id--interoperability-of-birth-registration-and-digital-id,dpi.id,2,7,3,1,2,1,0,,staged,7
+dpi.id--use-by-other-systems,dpi.id,2,7,1,1,2,0,1,already-seen,staged,7
