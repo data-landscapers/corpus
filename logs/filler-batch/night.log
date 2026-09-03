@@ -79,3 +79,13 @@ filler-batch: 14 country(ies) queued from prep/progress-filler-queue.md
 --- GMB ok in 59m — probed 73, staged 56 baseline + 66 progress, nil 1, $69.15
 
 === LBR — started 05:44:00 (timeout 120m) ===
+--- LBR PROBLEM in 49m — probed 77, staged 57 baseline + 100 progress, nil 0, $120.65
+    ! lint-staged-queue: 2 finding(s)
+
+====================================================================
+filler-batch: 2 run(s), 1 clean — stopped: STOP present
+  wall 1.8h | $189.80 | median 54m a country
+  staged 113 baseline + 166 progress file(s) — undelivered in C:\corpus-osint-xfer\new-queue until Bill moves them
+  ledger: logs/filler-batch/2026-09-03-batch.csv
+  PROBLEM LBR: lint-staged-queue: 2 finding(s)
+  queue: 14 country(ies) still unsearched — DZA, EGY, LBY, MAR, TUN, CIV, CPV, MLI
