@@ -30,9 +30,14 @@ compiled: 2026-09-04 07:43
 </nav>
 
 <div class="bulletin-filter screen-only" hidden>
-<label for="bulletin-country">Filter by country</label>
-<select id="bulletin-country">
-<option value="">All countries</option>
+<label for="bulletin-place">Filter by country or region</label>
+<select id="bulletin-place">
+<option value="">All countries and regions</option>
+<optgroup label="Regions">
+<option value="XAF">Africa</option>
+<option value="XGL">Global</option>
+</optgroup>
+<optgroup label="Countries">
 <option value="DZA">Algeria</option>
 <option value="CMR">Cameroon</option>
 <option value="CIV">Côte d'Ivoire</option>
@@ -52,6 +57,7 @@ compiled: 2026-09-04 07:43
 <option value="UGA">Uganda</option>
 <option value="ZMB">Zambia</option>
 <option value="ZWE">Zimbabwe</option>
+</optgroup>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
 </div>
@@ -60,17 +66,17 @@ compiled: 2026-09-04 07:43
 
 ### Strategies, plans and policies
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[The Wholesale Broadband Market: Open Access, Pricing Battles, and the Future of Competition](https://www.telecomreviewafrica.com/articles/features/29152-the-wholesale-broadband-market-open-access-pricing-battles-and-the-future-of-competition/)** — Africa Telecom Review, 3 September 2026
+**[The Wholesale Broadband Market: Open Access, Pricing Battles, and the Future of Competition](https://www.telecomreviewafrica.com/articles/features/29152-the-wholesale-broadband-market-open-access-pricing-battles-and-the-future-of-competition/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 A trade analysis argues that African broadband is now shaped less by how much fibre is laid than by wholesale economics: who may sell capacity, who benefits from infrastructure, and at what price. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[Smart Africa Calls for Stronger Public-Private Collaboration to Drive Digital Transformation](https://techafricanews.com/2026/09/03/smart-africa-public-private-collaboration-digital-transformation/)** — Tech Africa News, 3 September 2026
+**[Smart Africa Calls for Stronger Public-Private Collaboration to Drive Digital Transformation](https://techafricanews.com/2026/09/03/smart-africa-public-private-collaboration-digital-transformation/)** — Tech Africa News, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Smart Africa called for stronger public-private collaboration at the opening panel of the Global Digital Collaboration conference in Geneva. <span class="bulletin-item__also">*Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
 
@@ -140,17 +146,17 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 ### Public debate and participation in policymaking
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[East Africa shows why Africa's digital future will be decided inland](https://www.itweb.africa/article/east-africa-shows-why-africas-digital-future-will-be-decided-inland/xA9POvNE2pDqo4J8)** — ITWeb Africa, 3 September 2026
+**[East Africa shows why Africa's digital future will be decided inland](https://www.itweb.africa/article/east-africa-shows-why-africas-digital-future-will-be-decided-inland/xA9POvNE2pDqo4J8)** — ITWeb Africa, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 A fault on an undersea cable can stop card payments and mobile money hundreds of kilometres inland; business leaders and policymakers meeting in Mombasa argued that the continent's digital resilience is decided away from the coast. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Smart Africa Calls for Stronger Public-Private Collaboration to Drive Digital Transformation](https://techafricanews.com/2026/09/03/smart-africa-public-private-collaboration-digital-transformation/)** — Tech Africa News, 3 September 2026
+**[Smart Africa Calls for Stronger Public-Private Collaboration to Drive Digital Transformation](https://techafricanews.com/2026/09/03/smart-africa-public-private-collaboration-digital-transformation/)** — Tech Africa News, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
@@ -218,9 +224,9 @@ The Nigerian fintech Nomba raised a US$3 million debt facility to expand cross-b
 
 </div>
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[Korea and Africa Chart New Course on Artificial Intelligence (AI) and Digital Infrastructure at 20th anniversary of Korea-Africa Economic Cooperation (KOAFEC)](https://afdb.africa-newsroom.com/press/korea-and-africa-chart-new-course-on-artificial-intelligence-ai-and-digital-infrastructure-at-20th-anniversary-of-koreaafrica-economic-cooperation-koafec)** — African Development Bank Group (distributed by APO Group), 3 September 2026
+**[Korea and Africa Chart New Course on Artificial Intelligence (AI) and Digital Infrastructure at 20th anniversary of Korea-Africa Economic Cooperation (KOAFEC)](https://afdb.africa-newsroom.com/press/korea-and-africa-chart-new-course-on-artificial-intelligence-ai-and-digital-infrastructure-at-20th-anniversary-of-koreaafrica-economic-cooperation-koafec)** — African Development Bank Group (distributed by APO Group), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 The Korea-Africa Economic Cooperation partnership will put artificial intelligence and digital infrastructure at the centre of its eighth ministerial conference in Seoul, where a new action plan is to be unveiled on its twentieth anniversary. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
 
@@ -234,9 +240,9 @@ CardinalStone Finance extended the facility as a commercial loan, recorded as cl
 
 </div>
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[Askya Investment Partners lance un programme d'accompagnement gratuit pour l'IA africaine](https://www.wearetech.africa/fr/fils/breves/breves-simple/le-fonds-askya-offre-200-000-sans-prise-de-capital-aux-jeunes-pousses-africaines)** — wearetech.africa, 3 September 2026
+**[Askya Investment Partners lance un programme d'accompagnement gratuit pour l'IA africaine](https://www.wearetech.africa/fr/fils/breves/breves-simple/le-fonds-askya-offre-200-000-sans-prise-de-capital-aux-jeunes-pousses-africaines)** — wearetech.africa, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Askya Investment Partners opened a free support programme for African artificial-intelligence startups, offering strategic advice and up to US$200,000 of investment without taking equity. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
 
@@ -246,9 +252,9 @@ Askya Investment Partners opened a free support programme for African artificial
 
 ### Connectivity
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[The Rise of Non-Terrestrial Networks: Integrating LEO Satellites into Core Telecom Strategy](https://www.telecomreviewafrica.com/articles/features/29151-the-rise-of-non-terrestrial-networks-integrating-leo-satellites-into-core-telecom-strategy/)** — Africa Telecom Review, 3 September 2026
+**[The Rise of Non-Terrestrial Networks: Integrating LEO Satellites into Core Telecom Strategy](https://www.telecomreviewafrica.com/articles/features/29151-the-rise-of-non-terrestrial-networks-integrating-leo-satellites-into-core-telecom-strategy/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Low-Earth-orbit constellations are moving from a last-resort backup layer into operators' core network planning, particularly where terrestrial infrastructure has not reached.
 
@@ -270,17 +276,17 @@ Roke Telkom and Paratus Uganda launched Starlink connectivity for businesses and
 
 </div>
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[Private 5G’s Three Contenders: Telcos, Hyperscalers, Neutral Hosts](https://www.telecomreviewafrica.com/articles/features/29148-private-5gs-three-contenders-telcos-hyperscalers-neutral-hosts/)** — Africa Telecom Review, 3 September 2026
+**[Private 5G’s Three Contenders: Telcos, Hyperscalers, Neutral Hosts](https://www.telecomreviewafrica.com/articles/features/29148-private-5gs-three-contenders-telcos-hyperscalers-neutral-hosts/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Private 5G is being deployed in African mining corridors, factories and logistics hubs for automation and predictive maintenance, with telcos, hyperscalers and neutral hosts competing to supply it. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[mmWave Monetization: Turning High-Band Investments into Revenue](https://www.telecomreviewafrica.com/articles/features/29149-mmwave-monetization-turning-high-band-investments-into-revenue/)** — Africa Telecom Review, 3 September 2026
+**[mmWave Monetization: Turning High-Band Investments into Revenue](https://www.telecomreviewafrica.com/articles/features/29149-mmwave-monetization-turning-high-band-investments-into-revenue/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Millimetre-wave spectrum has been a long-term bet rather than a revenue source for most African operators; the question is shifting from acquiring high-band spectrum to earning from it.
 
@@ -302,9 +308,9 @@ Summarised under [New investments](#new-investments).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[The Wholesale Broadband Market: Open Access, Pricing Battles, and the Future of Competition](https://www.telecomreviewafrica.com/articles/features/29152-the-wholesale-broadband-market-open-access-pricing-battles-and-the-future-of-competition/)** — Africa Telecom Review, 3 September 2026
+**[The Wholesale Broadband Market: Open Access, Pricing Battles, and the Future of Competition](https://www.telecomreviewafrica.com/articles/features/29152-the-wholesale-broadband-market-open-access-pricing-battles-and-the-future-of-competition/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
@@ -318,9 +324,9 @@ Summarised under [MoUs and other agreements](#mous-and-other-agreements).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[East Africa shows why Africa's digital future will be decided inland](https://www.itweb.africa/article/east-africa-shows-why-africas-digital-future-will-be-decided-inland/xA9POvNE2pDqo4J8)** — ITWeb Africa, 3 September 2026
+**[East Africa shows why Africa's digital future will be decided inland](https://www.itweb.africa/article/east-africa-shows-why-africas-digital-future-will-be-decided-inland/xA9POvNE2pDqo4J8)** — ITWeb Africa, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
@@ -328,9 +334,9 @@ Summarised under [Public debate and participation in policymaking](#public-debat
 
 ### Cybersecurity
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[Telecom Cybersecurity in the Age of AI: Defending Networks Against Intelligent Threats](https://www.telecomreviewafrica.com/articles/features/29150-telecom-cybersecurity-in-the-age-of-ai-defending-networks-against-intelligent-threats/)** — Africa Telecom Review, 3 September 2026
+**[Telecom Cybersecurity in the Age of AI: Defending Networks Against Intelligent Threats](https://www.telecomreviewafrica.com/articles/features/29150-telecom-cybersecurity-in-the-age-of-ai-defending-networks-against-intelligent-threats/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Attackers are turning artificial intelligence on telecom networks that now carry financial transactions, government services and industrial systems, eroding what had been a defensive advantage for operators. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
 
@@ -356,9 +362,9 @@ Implats recorded a limited-impact cyber security breach at a managed operation's
 
 ### Digital Identity and CRVS
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XGL" markdown="1">
 
-**[2.8B still excluded from digital ID as new gender gaps emerge: World Bank](https://www.biometricupdate.com/202609/2-8b-still-excluded-from-digital-id-as-new-gender-gaps-emerge-world-bank)** — Biometric Update, 3 September 2026
+**[2.8B still excluded from digital ID as new gender gaps emerge: World Bank](https://www.biometricupdate.com/202609/2-8b-still-excluded-from-digital-id-as-new-gender-gaps-emerge-world-bank)** — Biometric Update, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
 The World Bank's ID4D Global Dataset 2025 estimates that 2.8 billion people remain outside government-recognised digital identity systems, and finds new gender gaps opening in digital identity even as the gap in standard legal identity has closed.
 
@@ -374,9 +380,9 @@ Summarised under [New investments](#new-investments).
 
 ### Digital Payments and Fintech
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[The Revenue Drain: Why Telecom’s Billing Infrastructure Can No Longer Keep Up](https://www.telecomreviewafrica.com/articles/features/29147-the-revenue-drain-why-telecoms-billing-infrastructure-can-no-longer-keep-up/)** — Africa Telecom Review, 3 September 2026
+**[The Revenue Drain: Why Telecom’s Billing Infrastructure Can No Longer Keep Up](https://www.telecomreviewafrica.com/articles/features/29147-the-revenue-drain-why-telecoms-billing-infrastructure-can-no-longer-keep-up/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Legacy billing platforms are described as a commercial constraint on African operators, leaking revenue and limiting the pricing models available for 5G, machine-to-machine services and network interfaces. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
 
@@ -586,17 +592,17 @@ Summarised under [New investments](#new-investments).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Telecom Cybersecurity in the Age of AI: Defending Networks Against Intelligent Threats](https://www.telecomreviewafrica.com/articles/features/29150-telecom-cybersecurity-in-the-age-of-ai-defending-networks-against-intelligent-threats/)** — Africa Telecom Review, 3 September 2026
+**[Telecom Cybersecurity in the Age of AI: Defending Networks Against Intelligent Threats](https://www.telecomreviewafrica.com/articles/features/29150-telecom-cybersecurity-in-the-age-of-ai-defending-networks-against-intelligent-threats/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Korea and Africa Chart New Course on Artificial Intelligence (AI) and Digital Infrastructure at 20th anniversary of Korea-Africa Economic Cooperation (KOAFEC)](https://afdb.africa-newsroom.com/press/korea-and-africa-chart-new-course-on-artificial-intelligence-ai-and-digital-infrastructure-at-20th-anniversary-of-koreaafrica-economic-cooperation-koafec)** — African Development Bank Group (distributed by APO Group), 3 September 2026
+**[Korea and Africa Chart New Course on Artificial Intelligence (AI) and Digital Infrastructure at 20th anniversary of Korea-Africa Economic Cooperation (KOAFEC)](https://afdb.africa-newsroom.com/press/korea-and-africa-chart-new-course-on-artificial-intelligence-ai-and-digital-infrastructure-at-20th-anniversary-of-koreaafrica-economic-cooperation-koafec)** — African Development Bank Group (distributed by APO Group), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [New investments](#new-investments).
 
@@ -626,9 +632,9 @@ Summarised under [Sectoral management information systems](#sectoral-management-
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Askya Investment Partners lance un programme d'accompagnement gratuit pour l'IA africaine](https://www.wearetech.africa/fr/fils/breves/breves-simple/le-fonds-askya-offre-200-000-sans-prise-de-capital-aux-jeunes-pousses-africaines)** — wearetech.africa, 3 September 2026
+**[Askya Investment Partners lance un programme d'accompagnement gratuit pour l'IA africaine](https://www.wearetech.africa/fr/fils/breves/breves-simple/le-fonds-askya-offre-200-000-sans-prise-de-capital-aux-jeunes-pousses-africaines)** — wearetech.africa, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [New investments](#new-investments).
 
@@ -636,17 +642,17 @@ Summarised under [New investments](#new-investments).
 
 ### ICT Industry
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[The Revenue Drain: Why Telecom’s Billing Infrastructure Can No Longer Keep Up](https://www.telecomreviewafrica.com/articles/features/29147-the-revenue-drain-why-telecoms-billing-infrastructure-can-no-longer-keep-up/)** — Africa Telecom Review, 3 September 2026
+**[The Revenue Drain: Why Telecom’s Billing Infrastructure Can No Longer Keep Up](https://www.telecomreviewafrica.com/articles/features/29147-the-revenue-drain-why-telecoms-billing-infrastructure-can-no-longer-keep-up/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Private 5G’s Three Contenders: Telcos, Hyperscalers, Neutral Hosts](https://www.telecomreviewafrica.com/articles/features/29148-private-5gs-three-contenders-telcos-hyperscalers-neutral-hosts/)** — Africa Telecom Review, 3 September 2026
+**[Private 5G’s Three Contenders: Telcos, Hyperscalers, Neutral Hosts](https://www.telecomreviewafrica.com/articles/features/29148-private-5gs-three-contenders-telcos-hyperscalers-neutral-hosts/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Connectivity](#connectivity).
 
@@ -734,9 +740,9 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 ### Access to services
 
-<div class="bulletin-item" data-places="" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[The Cheapest Way to Get More Africans Online May Not Be a New Smartphone](https://techafricanews.com/2026/09/03/the-cheapest-way-to-get-more-africans-online-may-not-be-a-new-smartphone/)** — TechAfrica News (Joyce Onyeagoro), 3 September 2026
+**[The Cheapest Way to Get More Africans Online May Not Be a New Smartphone](https://techafricanews.com/2026/09/03/the-cheapest-way-to-get-more-africans-online-may-not-be-a-new-smartphone/)** — TechAfrica News (Joyce Onyeagoro), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 An entry-level smartphone cost 26% of monthly income per head in sub-Saharan Africa in 2024 on GSMA's estimate, and 64% for the poorest 40%. The industry answer has been cheaper new devices; the piece argues the refurbished market is moving faster. <span class="bulletin-item__also">*Also under [Digital divides](#digital-divides).*</span>
 
@@ -768,9 +774,9 @@ Summarised under [Connectivity](#connectivity).
 
 ### Digital divides
 
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[The Cheapest Way to Get More Africans Online May Not Be a New Smartphone](https://techafricanews.com/2026/09/03/the-cheapest-way-to-get-more-africans-online-may-not-be-a-new-smartphone/)** — TechAfrica News (Joyce Onyeagoro), 3 September 2026
+**[The Cheapest Way to Get More Africans Online May Not Be a New Smartphone](https://techafricanews.com/2026/09/03/the-cheapest-way-to-get-more-africans-online-may-not-be-a-new-smartphone/)** — TechAfrica News (Joyce Onyeagoro), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Access to services](#access-to-services).
 

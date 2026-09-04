@@ -97,7 +97,7 @@
 .bulletin-nav a:hover { color: var(--accent-dk); border-bottom: 1px solid currentColor; }
 .bulletin-nav__sep { color: var(--ink-faint); font-size: 0.72rem; line-height: 1; }
 
-/* The country filter, under the category bar. Same control as the Lab index's
+/* The country-or-region filter, under the category bar. Same control as the Lab index's
    category filter on data-landscapers.io, and deliberately the same plain
    <select> rather than a second set of boxes: the bar above it is already a
    row of links, and two rows of chrome that look alike but behave differently
@@ -177,11 +177,16 @@
   cursor: pointer;
 }
 
-/* The country boxes beside a bulletin headline. The box itself is the site's
-   own `.wip-item-card__status--active` from main.css — the green category box
-   the Lab index uses — and this adds only what putting it inline needs: it was
-   drawn to stand at the head of a card, so its bottom margin has to go, and it
-   needs air on its left where the Lab's has none. */
+/* The place boxes beside a bulletin headline — countries and, since 2026-09-04,
+   the regions and blocs, which wear the same box because they are the same kind
+   of claim about the item and link to the same kind of page. The class keeps its
+   name: renaming it costs this file, `house-style.md` and every page built before
+   the rename, and buys a reader nothing.
+
+   The box itself is the site's own `.wip-item-card__status--active` from main.css
+   — the green category box the Lab index uses — and this adds only what putting it
+   inline needs: it was drawn to stand at the head of a card, so its bottom margin
+   has to go, and it needs air on its left where the Lab's has none. */
 .country-box {
   margin: 0 0 0 0.75rem;
   vertical-align: 0.05em;

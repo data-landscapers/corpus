@@ -11,8 +11,19 @@ retired: it covered the same window as the topic bulletin, item for item, and di
 how it grouped them — so a reader who opened both read every summary twice, and a run that
 assembled both wrote every summary twice. What survives is the topic grouping, renamed simply
 *Bulletin* and published at `/bulletin/`. The place dimension has not been lost; it is now on
-the item, as a country box beside each headline linking to that country's page, which is what
+the item, as a place box beside each headline linking to that place's page, which is what
 the country bulletin's grouping was for and is one click rather than a second document.
+
+**And the place dimension includes regions** *(Bill, 2026-09-04)*. The boxes and the filter took
+the country codes only, on the reasoning that an `X`-prefixed place had no page to link to. It
+has: `region.py` builds one for each of the eight, at `/countries/{X__}/`, alongside the 54. So
+the whole of an item's place tagging was being dropped for the items that carry nothing else —
+in the edition of 4 September, 12 of 43 items were tagged `XAF` or `XGL` and showed no box at
+all, and every one of them vanished the moment the filter was touched, with nothing in the
+control to select them back. Regions are boxed like countries, offered in the filter like
+countries, and matched exactly like countries: **selecting *Africa* gives the items tagged
+*Africa*, not every item about an African country.** That is what the tag means — a continental
+story, tagged continentally — and a roll-up would make *Africa* a second name for *All*.
 
 **The window is publication, not acquisition** *(Bill, 2026-08-17)*. An item is in the bulletin
 when its `published` date is the run's date or the day before it, and for no other reason. The
@@ -137,7 +148,7 @@ from pathlib import Path
 from markdown.extensions.toc import slugify
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from home import COUNTRY_NAMES  # noqa: E402
+from home import COUNTRY_NAMES, REGION_NAMES  # noqa: E402
 from scope_lib import in_remit  # noqa: E402
 import osint_lib  # noqa: E402
 import taxonomy_lib  # noqa: E402
@@ -170,17 +181,27 @@ if hasattr(sys.stderr, "reconfigure"):
 
 # ── the vocabularies ───────────────────────────────────────────────
 
-def country_names() -> dict[str, str]:
-    """Full names from `outputs/vocab/countries.csv` — Corpus's own snapshot — with the home
-    page's short forms preferred where it carries one. A country box is the width of a box: it
-    has to say `DRC` rather than *Democratic Republic of the Congo*, which is the same judgement
-    `home.COUNTRY_NAMES` was written for, so it is that list rather than a second one."""
+def place_names() -> dict[str, str]:
+    """Full names from `outputs/vocab/countries.csv` — Corpus's own snapshot, which carries the
+    eight `X`-prefixed regions and blocs alongside the 54 countries — with the home page's short
+    forms preferred where it carries one. A box is the width of a box: it has to say `DRC`
+    rather than *Democratic Republic of the Congo* and `Global` rather than *Global/Developing
+    Countries*, which is the judgement `home.COUNTRY_NAMES` and `home.REGION_NAMES` were written
+    for, so they are those lists rather than a third one.
+
+    **The keys are also the gate on what gets a box**, and that is not a coincidence worth
+    leaving unstated: this map holds exactly the 62 codes `country.py` and `region.py` build
+    pages for, so `code in names` is the same question as *does that page exist*. The test was
+    `not code.startswith("X")`, which answered it wrongly at both ends — it excluded the eight
+    regions, which do have pages, and admitted anything else, so a mis-tagged `THA` beside a
+    real country would have been drawn as a box onto a 404."""
     names = {}
     if COUNTRIES.exists():
         with COUNTRIES.open(encoding="utf-8-sig", newline="") as fh:
             for row in csv.DictReader(fh):
                 names[row["iso-3"].strip()] = row["country-name"].strip()
     names.update(COUNTRY_NAMES)
+    names.update(REGION_NAMES)
     return names
 
 
@@ -403,29 +424,47 @@ def md_escape(text: str) -> str:
     return text.replace("[", "\\[").replace("]", "\\]")
 
 
-def country_boxes(row: dict, names: dict[str, str]) -> str:
-    """One box per African country the item is tagged to, linking to that country's page
-    *(Bill, 2026-08-21)*.
+def boxed(row: dict, names: dict[str, str]) -> list[str]:
+    """The item's place codes that have a page, in the record's own order.
 
-    This is the country bulletin's job, done on the item instead of in a second document. Only
-    the country codes: the `X`-prefixed places are regions, blocs and the global tag, none of
-    which has a country page to link to, and a box that 404s is worse than no box.
+    One definition, because three things have to agree about it and did not have to be told to:
+    the boxes drawn beside the headline, the `data-places` the filter matches on, and the
+    options the filter offers. A code boxed but not offered is a place the reader can see and
+    cannot select; a code offered but not boxed is an option that appears to do nothing.
+
+    Countries first, then regions, whatever order the record lists them in — a box saying
+    *Kenya* and a box saying *Africa* are not the same kind of claim, and the specific one is
+    the one the reader is looking for."""
+    codes = [c for c in facets(row["places"]) if c in names]
+    return ([c for c in codes if not c.startswith("X")]
+            + [c for c in codes if c.startswith("X")])
+
+
+def place_boxes(row: dict, names: dict[str, str]) -> str:
+    """One box per country **or region** the item is tagged to, linking to that place's page
+    *(Bill, 2026-08-21; regions 2026-09-04)*.
+
+    This is the country bulletin's job, done on the item instead of in a second document. The
+    regions were left out of it while the reasoning was that an `X`-prefixed place had no page
+    to link to — `region.py` builds all eight, so the box lands on a page like any other, and
+    the only codes still refused are the ones `place_names` does not carry.
 
     The classes are the website's own — `.wip-item-card__status--active`, the green category
     box the Lab index uses — so the component is shared with data-landscapers.io rather than
     reinvented here (`main.css` carries it already, vendored). `country-box` adds nothing but
     spacing, because the Lab's boxes stand at the head of a card and these sit inline at the end
-    of a line."""
-    codes = [c for c in facets(row["places"]) if not c.startswith("X")]
+    of a line; it keeps its name now that regions wear it too, since renaming a class costs
+    `report.css`, `house-style.md` and every page built before the rename, and buys a reader
+    nothing."""
     return "".join(
         f'<a class="wip-item-card__status wip-item-card__status--active country-box"'
         f' href="{SITE_BASE}/countries/{c}/" title="{c}">{names.get(c, c)}</a>'
-        for c in codes)
+        for c in boxed(row, names))
 
 
 def head_line(row: dict, names: dict[str, str]) -> str:
     return (f"**[{md_escape(row['title'])}]({row['url']})** — {row['publisher']}, "
-            f"{long_date(row['published'])} {country_boxes(row, names)}").rstrip()
+            f"{long_date(row['published'])} {place_boxes(row, names)}").rstrip()
 
 
 def link_to(label: str) -> str:
@@ -436,19 +475,20 @@ def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bo
           names: dict[str, str]) -> list[str]:
     """One item in one section. `here` is whether this section is the one carrying the detail.
 
-    **Each entry is wrapped in a `.bulletin-item` carrying its country codes** *(Bill,
-    2026-08-21)*, so the country filter has something to hide. `markdown="1"` is what makes the
+    **Each entry is wrapped in a `.bulletin-item` carrying its place codes** *(Bill,
+    2026-08-21)*, so the filter has something to hide. `markdown="1"` is what makes the
     wrapper free: `render.py` runs Markdown's `md_in_html`, which processes the block's contents
     as markdown rather than passing them through as raw HTML, so the headline and the summary
     below are written here exactly as they were before the div existed.
 
-    The codes are the same set the boxes are drawn from and are written even when empty — an
-    item with no African country is one the filter should hide the moment a country is chosen,
-    and `data-places=""` says that, where a missing attribute would leave it ambiguous."""
-    codes = " ".join(c for c in facets(row["places"]) if not c.startswith("X"))
+    The codes are the same set the boxes are drawn from — `boxed()` for both — and are written
+    even when empty, which since 2026-09-04 means an item tagged to no place the site has a page
+    for. That item is one the filter should hide the moment anything is chosen, and
+    `data-places=""` says so where a missing attribute would leave it ambiguous."""
+    codes = " ".join(boxed(row, names))
     # **A cross-reference is marked as one** *(Bill, 2026-08-22)*. Reading the document top to
     # bottom they earn their place — they say the item belongs here too and point at where it is
-    # written out. Filtered to one country they are noise, and worse than noise in the count:
+    # written out. Filtered to one place they are noise, and worse than noise in the count:
     # Eswatini's single item sat in two Level-2 sections, so the filter said two entries and
     # showed a summary and a signpost to it.
     cls = "bulletin-item" if here else "bulletin-item bulletin-item--xref"
@@ -460,7 +500,7 @@ def entry(row: dict, store: dict, others: list[str], anchor_label: str, here: bo
             joined = ", ".join(link_to(o) for o in others[:-1])
             also = f"{joined} and {link_to(others[-1])}" if joined else link_to(others[-1])
             # **The trailer is a signpost too, and the filter has to be able to take it away**
-            # *(2026-08-22)*. The cross-reference above is hidden under a country selection
+            # *(2026-08-22)*. The cross-reference above is hidden under a place selection
             # because it points at an item rather than being one; this sentence points at the
             # same places and had been left visible, which cost twice. Its links jump to
             # Level-2 headings the filter has just hidden — 16 of them dead under Kenya, 4
@@ -548,7 +588,7 @@ def topic_nav(groups: list[tuple[str, list[tuple[str, str]]]]) -> list[str]:
     # every in-page jump nav — an article's contents, a report's section list — so the rules
     # went up to `main.css` and the private `.bulletin-nav` copy in `report.css` came out.
     # `bulletin-nav` is kept alongside it as the filter's hook: `bulletin-filter.js` prunes
-    # this bar to the categories a selected country actually reaches, and that behaviour is
+    # this bar to the categories a selected place actually reaches, and that behaviour is
     # this page's alone.
     sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
     links = f"\n{sep}\n".join(
@@ -557,37 +597,51 @@ def topic_nav(groups: list[tuple[str, list[tuple[str, str]]]]) -> list[str]:
             links, "</nav>", ""]
 
 
-def country_filter(rows: list[dict], names: dict[str, str]) -> list[str]:
-    """The country filter, after the Lab index's category filter *(Bill, 2026-08-21)*.
+def place_filter(rows: list[dict], names: dict[str, str]) -> list[str]:
+    """The place filter, after the Lab index's category filter *(Bill, 2026-08-21)*.
 
-    Same control and the same shape — a `<select>` opening on *All countries* — over the
-    countries **this edition holds**, which is the equivalent of the Lab's `map: 'category' |
-    uniq | sort`. Offering all 54 would be a list of which 30 do nothing.
+    Same control and the same shape — a `<select>` opening on *All countries and regions* —
+    over the places **this edition holds**, which is the equivalent of the Lab's
+    `map: 'category' | uniq | sort`. Offering all 62 would be a list of which 40 do nothing.
+
+    **Regions are offered beside the countries** *(Bill, 2026-09-04)*, in an `<optgroup>` of
+    their own at the head of the list. That order is the catalogue's, which puts its `Regions`
+    group first in the place facet for the same reason: they are places a source is tagged to
+    in its own right, they are few, and a reader scanning an alphabetical run of countries for
+    *Africa* finds it filed under A between Algeria and Angola, which is where it is least
+    likely to be looked for. The groups are drawn only when both kinds are present — a sole
+    heading over the whole list labels nothing.
 
     Two things the Lab's version does not have to deal with. Its list is flat and each entry
     carries exactly one category, so hiding entries is the whole job; here the entries are
     nested two deep under headings that have to go when they empty out, and an item can carry
-    several countries or none. That work is in `bulletin-filter.js`, which is why this emits
+    several places or none. That work is in `bulletin-filter.js`, which is why this emits
     markup and no behaviour.
 
     **`hidden` until the script removes it.** A `<select>` that filters nothing is worse than no
     select, and the page is perfectly usable without it — the same progressive-enhancement rule
     the home page's topic tiles follow. `screen-only` keeps it out of the PDF, where a control
     is furniture with nothing behind it."""
-    codes = sorted({c for r in rows for c in facets(r["places"]) if not c.startswith("X")},
-                   key=lambda c: names.get(c, c))
+    codes = sorted({c for r in rows for c in boxed(r, names)}, key=lambda c: names.get(c, c))
     if len(codes) < 2:
-        return []          # one country, or none: a filter with a single option filters nothing
-    options = "\n".join(
-        f'<option value="{c}">{names.get(c, c)}</option>' for c in codes)
-    return ['<div class="bulletin-filter screen-only" hidden>',
-            '<label for="bulletin-country">Filter by country</label>',
-            '<select id="bulletin-country">',
-            '<option value="">All countries</option>',
-            options,
-            '</select>',
-            '<span class="bulletin-filter__count" aria-live="polite"></span>',
-            '</div>', ""]
+        return []          # one place, or none: a filter with a single option filters nothing
+    regions = [c for c in codes if c.startswith("X")]
+    countries = [c for c in codes if not c.startswith("X")]
+
+    def opts(group: list[str]) -> list[str]:
+        return [f'<option value="{c}">{names.get(c, c)}</option>' for c in group]
+
+    options = (['<optgroup label="Regions">'] + opts(regions)
+               + ['</optgroup>', '<optgroup label="Countries">'] + opts(countries)
+               + ['</optgroup>']) if regions and countries else opts(codes)
+    return (['<div class="bulletin-filter screen-only" hidden>',
+             '<label for="bulletin-place">Filter by country or region</label>',
+             '<select id="bulletin-place">',
+             '<option value="">All countries and regions</option>']
+            + options
+            + ['</select>',
+               '<span class="bulletin-filter__count" aria-live="polite"></span>',
+               '</div>', ""])
 
 
 def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, end: str
@@ -605,7 +659,7 @@ def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, en
         ]
 
     sections, groups = groups_of(rows)
-    lines = topic_nav(groups) + country_filter(rows, names)
+    lines = topic_nav(groups) + place_filter(rows, names)
     for group_label, members in groups:
         lines += [f"## {group_label}", ""]
         for slug, section_label in members:
@@ -714,7 +768,7 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
         print("Run --scan for the work order, then --write each one.", file=sys.stderr)
         return 1
 
-    names = country_names()
+    names = place_names()
     BULLETINS.mkdir(parents=True, exist_ok=True)
 
     collected, compiled, source = stamps_for(now)

@@ -362,13 +362,48 @@ def case_out_of_remit_records_are_named_not_dropped(tmp):
     assert "remit" in out and "1 record" in out, f"the exclusion was silent:\n{out}"
 
 
-def case_country_boxes_are_countries_only(tmp):
-    """A box per country page that exists; none for a region, which has no page to open."""
-    names = {"KEN": "Kenya"}
-    boxes = bulletin.country_boxes(row("r", TODAY, "KEN; XAFR; XGL", "gov.policy"), names)
-    assert boxes.count("<a ") == 1, boxes
-    assert "/countries/KEN/" in boxes and "Kenya" in boxes
-    assert "XAFR" not in boxes and "XGL" not in boxes, "a box that 404s is worse than no box"
+def case_boxes_are_the_places_with_pages(tmp):
+    """A box per place page that exists — country or region — and none for anything else.
+
+    `XAFR` is not a code the vocabulary carries and `THA` is not a place this site builds a page
+    for; both would be a box onto a 404. `XEA` is, and used to be dropped with them because the
+    test was the leading `X` rather than the vocabulary."""
+    names = bulletin.place_names()
+    boxes = bulletin.place_boxes(row("r", TODAY, "KEN; XEA; XAFR; THA", "gov.policy"), names)
+    assert boxes.count("<a ") == 2, boxes
+    assert "/countries/KEN/" in boxes and ">Kenya<" in boxes
+    assert "/countries/XEA/" in boxes and ">East Africa<" in boxes
+    assert "XAFR" not in boxes and "THA" not in boxes, "a box that 404s is worse than no box"
+    assert boxes.index("KEN") < boxes.index("XEA"), "the country goes before the region"
+
+
+def case_the_filter_offers_regions_and_matches_them_exactly(tmp):
+    """Regions are in the select, grouped and first; selecting one does not roll up.
+
+    The roll-up is the part a test has to hold: if `XAF` matched every African country, *Africa*
+    would be a second name for *All countries and regions* and the option would be pointless."""
+    b = Bench(tmp, [row("continental", TODAY, "XAF", "gov.policy"),
+                    row("kenyan", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 00:05")
+    b.assemble()
+    doc = b.document()
+    assert "Filter by country or region" in doc
+    assert '<optgroup label="Regions">' in doc and '<optgroup label="Countries">' in doc
+    assert doc.index('label="Regions"') < doc.index('label="Countries"')
+    assert '<option value="XAF">Africa</option>' in doc
+    assert 'data-places="XAF"' in doc, "the region item must be selectable, not blank"
+    assert 'data-places="KEN"' in doc, "a country item does not pick up its region"
+
+
+def case_the_filter_drops_the_groups_when_only_one_kind_is_present(tmp):
+    """Two countries and no region: a sole `<optgroup>` over the whole list labels nothing."""
+    b = Bench(tmp, [row("kenyan", TODAY, "KEN", "gov.policy"),
+                    row("nigerian", TODAY, "NGA", "gov.policy")])
+    b.stamp("2026-05-14 00:05")
+    b.assemble()
+    doc = b.document()
+    assert "<optgroup" not in doc, doc[doc.index("bulletin-filter"):][:400]
+    assert '<option value="KEN">Kenya</option>' in doc
 
 
 def case_the_nav_bar_holds_only_the_categories_present(tmp):
@@ -586,7 +621,11 @@ CASES = [
     ("a missing summary stops the run", case_a_missing_summary_stops_the_run),
     ("nothing selected is ever dropped", case_nothing_selected_is_ever_dropped),
     ("out-of-remit records are named, not dropped", case_out_of_remit_records_are_named_not_dropped),
-    ("country boxes are countries only", case_country_boxes_are_countries_only),
+    ("boxes are the places with pages", case_boxes_are_the_places_with_pages),
+    ("the filter offers regions and matches them exactly",
+     case_the_filter_offers_regions_and_matches_them_exactly),
+    ("the filter drops the groups when only one kind is present",
+     case_the_filter_drops_the_groups_when_only_one_kind_is_present),
     ("the nav bar holds only the categories present",
      case_the_nav_bar_holds_only_the_categories_present),
     ("the byline is when collection stopped, not when ingest finished",

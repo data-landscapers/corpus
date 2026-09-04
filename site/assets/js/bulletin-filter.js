@@ -1,4 +1,4 @@
-/* bulletin-filter.js — the bulletin's country filter.
+/* bulletin-filter.js — the bulletin's country-or-region filter.
  *
  * After the Lab index's category filter on data-landscapers.io, which is eight lines: a
  * <select> over the distinct categories, and a change handler that sets display:none on any
@@ -11,9 +11,14 @@
  * goes when every item in it has gone, a category goes when every section in it has gone, and
  * the category bar at the top loses the links that would now jump to a hidden heading.
  *
- * **An item can carry several countries, or none.** `data-places` is a space-separated list of
- * ISO3 codes, matched as a set. An item with no African country — a regional or global story —
- * is hidden by any country selection, which is correct: it is not about that country.
+ * **An item can carry several places, or none.** `data-places` is a space-separated list of
+ * codes, matched as a set — countries and, since 2026-09-04, the `X__` regions and blocs, which
+ * have pages of their own and are offered in the select like any country. **Matching stays
+ * exact and there is no roll-up**: selecting *Africa* gives the items tagged *Africa*, not
+ * every item about an African country. The tag is the claim — a continental story is tagged
+ * continentally — and a roll-up would make *Africa* a second name for *All*. An item tagged to
+ * no place the site holds a page for is hidden by any selection, which is correct: it is not
+ * about that place.
  *
  * The structure is read off the document rather than declared, because `bulletin.py` writes
  * headings and items as flat siblings inside `.article-body` and wrapping the sections would
@@ -28,7 +33,7 @@
 
   var body = document.querySelector('.article-body');
   var control = document.querySelector('.bulletin-filter');
-  var select = document.getElementById('bulletin-country');
+  var select = document.getElementById('bulletin-place');
   if (!body || !control || !select) { return; }
 
   /* One walk over `.article-body`'s children, in document order. A group is an <h2> and the
@@ -78,7 +83,7 @@
 
   /* Unfiltered, everything shows: the cross-references are part of reading the document top to
    * bottom, saying an item belongs under this topic too and pointing at where it is written
-   * out. Filtered to one country they are noise — the reader has asked for that country's
+   * out. Filtered to one place they are noise — the reader has asked for that place's
    * items, and a signpost is not an item. So a selection shows summaries only, which also makes
    * the count the number of items rather than the number of places they are mentioned:
    * Eswatini's single item appears in two Level-2 sections and was counted twice. */
