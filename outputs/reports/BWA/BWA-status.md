@@ -1,494 +1,422 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-09-03
+compiled: 2026-09-04
 place: BWA
-ledger_rows: 185
-not_held: 7
-record: 77c6332e1996
+region: XSA
+built_by: STATUS-INIT
+hub_last_reviewed: 2026-09-02
+intersections_read: 10
+sources_cited: 157
+sections_written: 37
+not_established: 1
+acquire_lines: 35
 ---
-
-# Botswana: status report
-
-*Compiled 2026-09-03 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (185 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
-
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
-
-## Summary of position
-
-<!-- narrative: summary -->
-The data-protection regulator became an enforcing body in this window. It [suspended a government payroll portal by enforcement notice on 17 July 2026](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/), the first published enforcement against a government body, having a year earlier run on [three contract officers with no premises, address or website](https://dailynews.gov.bw/news-detail/87795). It still has no budget organisation or line of its own.
-
-The identity layer is the weakest part of the stack. The [national public key infrastructure has P423m secured, control transferred to the intelligence directorate, no working system, no timeline and no accountable owner](https://weekendpost.co.bw/p420-million-digital-bombshell/), which leaves Botswana with no certificate-backed identity verification and no recognised electronic-signature layer; identity-card production is [degraded by too few staff and ageing equipment with frequent breakdowns](https://dailynews.gov.bw/news-detail/92439).
-
-The budget is the clearest part. Digital development lines were cut for FY2026/27 against FY2025/26 outturns already low — the [communications ministry ICT project from P369,079,545 to P251,000,000, on a P142,712,599 outturn at 38.7%](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) — and no Auditor General figure exists for any year. Eleven of the rows below are ***Not held***.
-<!-- /narrative -->
-
 ## Governance
 
 ### Strategies, plans and policies
+<!-- gov.policy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital Services Authority | [Planned](https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/) | Announced in the FY2026/27 ministry plan; no establishing instrument found |
-| ICT Roadmap 2030 | [Implemented](https://dailynews.gov.bw/news-detail/90463) | Set out at a high-level policy dialogue, 2026-03-09 |
-| National Broadband Strategy | [Implemented](https://www.bocra.org.bw/sites/default/files/documents/National-Broadband-Strategy-FINAL%28June2018%29.pdf) | Issued by the Ministry of Transport and Communications, June 2018 |
-| National E-Waste Management Strategy | [Implemented](https://techreviewafrica.com/news/6284/botswana-launches-national-e-waste-strategy-as-bocra-and-environmental-department-sign-partnership-agreement) | Launched with a regulator and environment-department memorandum, 2026-07-13 |
-| National ICT Policy (Maitlamo) | [Implemented](https://publicadministration.un.org/unpsa/Portals/0/UNPSA_Submitted_Docs/2019/f912b59f-5963-4335-9dff-194a1a522c49/Maitlamo%20Policy_26112019_083359_d807e512-ea2e-4d56-8fba-60679904b985.pdf) | Approved by the National Assembly, August 2007 |
+Botswana's governance scores are going backwards while Africa's rise: it [scored 65.8 out of 100 for overall governance in the Ibrahim Index, fifth of 54 African states, but fell 3.6 points over 2014-2023, with the decline steepening to 4.2 points over the most recent five years against an African average that gained 1.0](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023). [Across the index's 96 indicators the country improved on 32 and declined on 55](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023).
+
+The clearest policy movement is in universal access. [BOCRA's Universal Access and Service Fund Framework places the fund under an independent board of trustees and finances it through a 1% levy on qualifying licensed operators](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOTSWANA_UASF_FRAMEWORK_FINAL_VERSION.pdf) (September 2025). The fund was created by the [National Broadband Strategy, approved in 2018 and still the founding instrument for the country's broadband targets and funding mechanisms](https://www.bocra.org.bw/sites/default/files/documents/National-Broadband-Strategy-FINAL%28June2018%29.pdf).
+
+<!-- derived -->
+The Universal Access and Service Fund was given a governance and financing framework seven years after the strategy that recommended it.
+
+Artificial intelligence is the conspicuous hole. [No national AI policy has been adopted, the government describing it as at an advanced stage of preparation](https://www.unesco.org/ethics-ai/en/botswana) (December 2025). What exists instead is ministerial commentary: [Minister of Communications and Innovation David Tshere warned on 22 July 2026 that AI chatbots had given harmful advice to children, including encouraging suicide, and called for stronger AI governance and developer accountability](https://dailynews.gov.bw/news-detail/92342). On the delivery side, the country's [e-government development ranking sits in the middle of the global table](https://desapublications.un.org/sites/default/files/publications/2024-10/Chapter%203%20%20E-Government%20Survey%202024.pdf) (2024).
 
 ### Legislation and regulation
+<!-- gov.legislate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Access to Information Act 2024 | [Enacted, commencement on notice](https://dailynews.gov.bw/news-detail/89031) | Passage confirmed in the State of the Nation Address, 11 November 2025 |
-| Cybersecurity Act 2025 | [Planned, awaiting commencement notice](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf) | Assented 2025-11-05, gazetted 2025-11-11, commencement on notice |
-| Digital Services Act | [Implemented](https://dailynews.gov.bw/news-detail/90463) | In force 2025-11-21 with a 24-month compliance window to November 2027 |
-| Electronic Communications and Transactions Act 2014 | [Implemented](https://www.bocra.org.bw/sites/default/files/documents/Electronic-Communications-and-Transactions-Act-2014.pdf) | Assented 14 May 2014 |
-| Electronic Payment Services (Amendment) Regulations 2026 | [Implemented](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf) | Published and in effect 2026-04-02; central-bank implementation release 2026-07-17 |
-| National Cybersecurity Authority | [Planned](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf) | Provided for by the 2025 Act; no appropriation line found |
-| Remote Service VAT Act | [Implemented](https://www.mmegi.bw/business/burs-looks-to-tax-global-digital-services-providers/news) | In effect 2026-06-01; 14% VAT on non-resident digital and remote services |
-| Tax Administration Act 2026 | [Enacted](https://www.burs.org.bw/index.php/tax/tax-laws-2026?download=955%3Atax-administration-act-2026) | Assented 29 June 2026 |
-| Virtual Asset Act 2022 and provider licensing | [Implemented, oversight gaps flagged](https://www.mmegi.bw/business/crypto-oversight-gaps-persist-in-botswana/news) | A regional follow-up assessment finds provider-oversight shortcomings |
-| AI legislation or regulations | ***Not held, searched 2026-08-31*** | No AI-specific Act or regulation found |
+Botswana put two of its principal digital statutes through Parliament in a single sitting, [passing the Digital Services Bill and the Cybersecurity Bill together under a certificate of urgency on 14 August 2025](https://dailynews.gov.bw/news-detail/88151). The [Digital Services Act, No. 22 of 2025 establishes a Digital Services Authority and requires public bodies to maintain an Enterprise Data Inventory and to publish information on data-asset usage at least annually through a national open-data platform administered by the communications regulator](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf). The same Act is [the governing instrument for the country's digital-identity arrangements, there being no standalone digital-identity statute](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf).
+
+Tax law has moved fastest of all. The [Value Added Tax (Remote Services) Regulations, S.I. No. 74 of 2026, made on 29 May 2026, set out the registration, invoicing and record-keeping machinery for foreign suppliers of remote and digital services](https://www.burs.org.bw/images/VAT%20Added%20Tax%20Regulations%202026.pdf), and the [Value Added Tax Act, 2026, published on 1 July 2026, re-enacts the VAT code with registration of remote-services suppliers and rules for the supply of remote services](https://www.burs.org.bw/index.php/tax/tax-laws-2026?download=958%3Avalue-added-tax-act-2026).
+
+Commencement, not drafting, is where the statute book strains. The Persons With Disability Act, 2024 was brought partly into life by [Statutory Instruments 149 and 150 of 2025, published on 4 December 2025, which define who qualifies as a person with a disability and commence Parts I to VI and IX and section 72](https://www.gov.bw/sites/default/files/2026-02/Vol%20129%20Extraordinary%20Gazette%2028-11-2025%20AGG.pdf); the [Refugees (Recognition and Management) Act, 2024 commenced on 1 November 2025, replacing a 1968 framework](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Final%20MJCS%20Committee%20of%20Supply%20Speech-2900.pdf); and the [Access to Information Act has still to be brought into force](https://botswanalaws.com/consolidated-statutes/acts-on-notice/2024/access-to-information-act).
+
+Older instruments still carry the weight. The [Electronic Communications and Transactions Act, 2014, in force since 1 April 2016, remains the principal e-commerce and electronic-signature statute](https://www.bocra.org.bw/sites/default/files/documents/Electronic-Communications-and-Transactions-Act-2014.pdf), and the [National Registration (Amendment) Act 2025 now allows a passport or driving licence to stand as identification while a lost, damaged or expired Omang is replaced](https://dailynews.gov.bw/news-detail/92439). [No artificial-intelligence-specific Act or regulation is in force](https://www.unesco.org/ethics-ai/en/botswana), though the [Chief Justice committed in January 2026 to training judges to handle AI-driven cases and deepfake evidence](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news).
+
+<!-- derived -->
+Most of the digital-governance statute book has been written since 2024, and it outweighs everything enacted between the mid-1990s and 2016.
 
 ### Data protection
+<!-- gov.protect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Data Protection Act No. 18 of 2024 | [Implemented](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/) | In force 2025-01-14, repealing the never-commenced 2018 Act |
-| Determination and enforcement notice against the public service management directorate | [Implemented](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) | Public notice dated 2026-07-17; compliance evidence due within one month |
-| Harmonised public-service privacy notices | [In development](https://dailynews.gov.bw/news-detail/89776) | Announced by the Directorate of Public Service Management, 2 February 2026 |
-| Information and Data Protection Commission | [Implemented](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/) | Determination and enforcement notice issued 2026-07-17 |
+The regulator has started with the state. [The Information and Data Protection Commission issued a determination and enforcement notice against the Directorate of Public Service Management over the government E-Payslip portal, in a public notice dated 17 July 2026 — the first published Botswana enforcement against a government body](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news). The directorate [accepted data-controller accountability and said the portal would stay offline until outstanding legal, technical and security requirements were met](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news), and has [published a privacy notice and completed a data-protection impact assessment for it](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news). The Commission has more broadly [moved during 2026 from registration paperwork towards enforcement](https://www.mmegi.bw/business/new-data-commission-tightens-compliance-oversight/news).
+
+It is enforcing a young statute. The [Data Protection Act No. 18 of 2024 was gazetted on 29 October 2024 and came into force on 14 January 2025, repealing the Data Protection Act No. 32 of 2018](https://www.datalaw.africa/wp-content/uploads/2024/12/Extraordinary-Gazette-29-10-2024.pdf) — an Act that [never took effect at all, its commencement pushed back by successive ministerial orders across six years](https://www.techhiveadvisory.africa/insights/understanding-botswanas-new-data-protection-act-key-updates-and-changes). The new Act [binds the state and controllers established outside Botswana, neither of which the 2018 text would have reached](https://www.techhiveadvisory.africa/insights/understanding-botswanas-new-data-protection-act-key-updates-and-changes), [imposes duties on controllers, processors and sub-processors covering children's data, impact assessments, breach notification, records of processing and cross-border transfers](https://www.datalaw.africa/wp-content/uploads/2024/12/Extraordinary-Gazette-29-10-2024.pdf), and [requires a controller to notify the Commissioner of a breach without delay and, where feasible, within 72 hours](https://www.dlapiperdataprotection.com/?c=BW&t=breach-notification). [Section 74 restricts cross-border transfer unless an adequacy or equivalent condition is met and requires a copy of transferred data to be retained in Botswana](https://www.techhiveadvisory.africa/insights/understanding-botswanas-new-data-protection-act-key-updates-and-changes).
+
+Ministers want it tighter. The [minister responsible for communications has said he intends to amend the Act to require every business operating in Botswana to store its data in the country](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news) (November 2025). The gap between that ambition and practice shows in the largest deal on the table: [M42's announcement of a ten-year health-systems partnership with Botswana states no data-residency condition, no governance arrangement and no ownership terms for the national genomic data it would generate](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/) (August 2026). On the wider measure, Botswana [scored 84.6 out of 100 for digital freedom in the Ibrahim Index, fifth of 54 African states and essentially unchanged over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023).
 
 ### Regional collaboration
+<!-- gov.regional -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Botswana-Namibia ICT memorandum of understanding | [Implemented](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Signed at Kasane 2026-08-07 |
-| Botswana-South Africa innovation memorandum | [Implemented](https://www.mmegi.bw/business/botswana-sa-strengthen-cross-border-innovation/news) | Signed 2026-08-19 |
-| SADC One Network Area roaming | [Implemented](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/) | Extended to five further SADC states, announced 2026-03-13 |
-| SADC Protocol on Legal Affairs | [Implemented](https://www.sadc.int/sites/default/files/2021-08/Protocol_on_Legal_Affairs2000.pdf) | Signed 7 August 2000; Botswana a state party |
-| SADC Regional Development Fund operationalisation agreement | [Implemented](https://dailynews.gov.bw/news-detail/90825) | Signed by Botswana, 31 March 2026 |
-| SADC regional internet exchange host bid | [In development](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) | Shortlisted to the final two with a Zimbabwean company |
-| SADC Tourism UNIVISA | [Planned](https://www.sadc.int/latest-news/communique-46th-ordinary-summit-sadc-heads-state-and-government-17th-august-2026) | Establishing agreement approved at the 46th SADC Summit, 17 August 2026 |
+Botswana is drafting for the region as well as receiving from it: it [led one of the SADC Committee of Central Bank Governors working groups that produced the regional frameworks on cybersecurity, climate-related financial risk and cross-border crisis management approved by the committee's banking supervision and financial stability subcommittee at Ezulwini in July 2026](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/). The [committee's 2026-2030 strategy adds regional financial-stability monitoring and cross-border crisis simulation to the region's supervisory machinery](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/).
+
+On data governance the country is one of eight: [Botswana's ICT ministry, regulator, AI structures and data-protection authority took part in the UNESCO, Smart Africa and Zimbabwe workshop in Harare in August 2026, which worked UNESCO's data-governance toolkit and national self-assessments towards a regional harmonisation roadmap that has not been published](https://www.unesco.org/en/articles/unesco-supports-southern-africa-harmonise-data-governance).
+
+The bloc's own digital framework has not kept pace with its members. The [SADC Digital Transformation Strategy and Action Plan, aligned to RISDP 2020-30 and the African Union's digital strategy to 2030, stands as a draft dated 12 October 2022](https://www.sadc.int/sites/default/files/2025-08/EN%20-%205.2.3B%20-%20CM--SADC-ICT-INFO-MINISTERS-2023-4.8D%20-%20Draft%20SADC%20DTS_1.pdf). Regulators' instruments are lighter still: [Southern African communications regulators adopted the Lilongwe Declaration on Collaborative Regulation at a CRASA-hosted summit in April 2026, voluntary and non-binding by its own terms](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/). Regional anti-money-laundering follow-up reporting has meanwhile found that [Botswana has not assessed the risks arising from virtual assets and emerging financial technologies, three years after it began licensing virtual asset service providers](https://www.sundaystandard.info/botswanas-digital-asset-blind-spot-raises-laundering-alarm/).
+
+What is concrete is bilateral or corridor-shaped. [Kazungula on the Zambian border and Mamuno on the Namibian border are among five one-stop border posts prioritised under the SADC Regional Infrastructure Development Master Plan and placed at the centre of South Africa's 2026 SADC chairship, whose stated measure of success is reduced crossing times](https://www.sanews.gov.za/south-africa/sadc-seeks-turn-borders-gateways-trade-travel-and-regional-integration). Alongside them sit a [first direct cross-border fibre link with Namibia](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/), an [ICT-cooperation memorandum between the two governments, their operators and their regulators](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement), and a [single bank corridor carrying SADC instant payments](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/).
 
 ### Standards
+<!-- gov.standards -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| ITU Radio Regulations Board candidature | [In development](https://techreviewafrica.com/news/5936/botswana-pushes-for-rrb-seat-as-african-states-forge-common-itu-agenda-in-victoria-falls) | Candidature promoted at a regional preparatory meeting, 27-29 May 2026 |
-| National Interoperability Framework | [In development](https://www.expertisefrance.fr/en/projects/digital-transformation-botswana) | EU-funded alignment programme running since 5 August 2024 |
-| Quality of Service and Quality of Experience Guidelines | [Implemented](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA%2C_for_QoS_%26_QoE_Guidelines_-_April_2026.pdf) | In force 1 April 2026 |
-| Standardisation Annual Work Programme | [Implemented](https://bobstandards.bw/standards-annual-work-programme/) | Issue 341 published 16 April 2026 |
-| Standards Act (Cap. 43:07) | [Implemented](https://faolex.fao.org/docs/pdf/bot91763.pdf) | Establishes the Botswana Bureau of Standards and the Standards Council |
-| National IPv6 transition plan | ***Not held*** | — |
+[BOCRA's Quality of Service and Quality of Experience Guidelines have been in effect since 1 April 2026 and are Botswana's first enforceable nationwide service-quality regime for telecommunications, covering mobile, broadband and satellite services](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA%2C_for_QoS_%26_QoE_Guidelines_-_April_2026.pdf).
+
+The rest of the standards layer is older and softer. [Standardised sector guidelines issued in October 2019 under the Communications Regulatory Authority Act require every licensed communications operator to develop and file business continuity and off-site backup plans](https://www.bocra.org.bw/sites/default/files/documents/APPROVED%20SECTOR%20GUIDELINES%20ON%20BUSINESS%20CONTINUITY%20AND%20DISASTER%20RECOVERY.pdf), and the [Standards Act established the Botswana Bureau of Standards as the national standards body](https://faolex.fao.org/docs/pdf/bot91763.pdf). Inside government, the [Digital Services Act, 2025 requires enterprise data inventories, information resource management and information security measures](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf), while the [national public key infrastructure remains incomplete and non-operational, leaving the country without a domestic root of trust for certificate-backed identity verification](https://weekendpost.co.bw/p420-million-digital-bombshell/).
+
+Where standards have been tested against delivery, the result was poor: an [Auditor General performance audit of the country's P500 million e-government programme found project-management and oversight failures that left it delivering very little for its cost](https://www.sundaystandard.info/anatomy-of-a-p500-million-e-government-fiasco/). Technical standards work is running as training rather than obligation, with [BOCRA hosting an IPv6 workshop with AFRINIC and treating the address-space migration as a skills problem rather than a procurement one](https://techreviewafrica.com/news/5530/bocra-leads-ipv6-training-initiative-to-strengthen-botswanas-digital-infrastructure) (May 2026).
 
 ### Public debate and participation in policymaking
+<!-- gov.discourse -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Botswana Speaks | [Implemented](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/COMMITTEE%20OF%20SUPPLY%20SPEECH%202026%20CNA%20FINAL%20%28002%29.pdf) | Transitioned into a Parliamentary Services Division, April 2025 |
-| Constitution review process | [Under review](https://eusee.hivos.org/alert/lack-of-civil-society-inclusion-and-participation-in-botswanas-constitution-review-process/) | Constitution (Amendment) Bill No. 14 of 2025 rejected by the civil-society umbrella body |
-| Constitutional Court proposal | [Planned](https://dailynews.gov.bw/news-detail/90969) | Nationwide consultations held; no establishing instrument on the record |
-| National Planning Act 2024 | [Implemented](https://www.npc.gov.bw/sites/default/files/resources/NATIONAL%20PLANNING%20ACT%202024.pdf) | Establishes the National Planning Commission and its thematic working groups |
+What Botswanans think of their own freedom of speech has fallen much faster than any measure of the freedom itself: [public perception of freedom of speech dropped 24.5 points over 2014-2023 to 58.4 out of 100, one of the country's ten most deteriorated governance indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023), while [media freedom rose 3.5 points to 60.9 and freedom of expression and belief held at 84.3](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023).
 
-<!-- narrative: governance -->
-The [Digital Services Act came into force on 21 November 2025 with a compliance clock to November 2027](https://dailynews.gov.bw/news-detail/90463); the [Cybersecurity Act 2025, assented and gazetted in November, is not in force](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf), a stated April 2026 commencement having passed with no notice. The authority it creates has [a board, a chief executive, licensing power over cybersecurity providers and power to approve software before market placement — and no organisation or vote in the FY2026/27 estimates](https://itweb.africa/article/botswana-advances-robust-digital-ecosystems/rxP3jMBEb527A2ye). A [Digital Services Authority announced in the FY2026/27 ministry plan has no establishing instrument](https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/) and was contested as duplicative in August 2025.
+Constitutional reform is where the argument is sharpest. [Civil-society umbrella BOCONGO formally rejected the Constitution (Amendment) Bill No. 14 of 2025, gazetted on 4 July 2025, and demanded a people-driven Constitutional Review Act instead](https://eusee.hivos.org/alert/lack-of-civil-society-inclusion-and-participation-in-botswanas-constitution-review-process/). Government has since [run a multisectoral consultation on the design of a proposed Constitutional Court, reaching trade unions, faith bodies and councils, with the minister addressing an interfaith workshop on 29 January 2026](https://gov.bw/trade-unions-strategic-partners-constitutional-court-consultations).
 
-The [Data Protection Act has been in force unchanged since 14 January 2025](https://www.techhiveadvisory.africa/insights/understanding-botswanas-new-data-protection-act-key-updates-and-changes); enforcement moved — [action against non-bank financial institutions in February 2026 and a government directorate in July](https://www.mmegi.bw/business/new-data-commission-tightens-compliance-oversight/news).
+The standing channels are real and mostly statutory. The [Local Government Act, 2012 establishes district, urban, village and ward Development Committees alongside the traditional Kgotla](https://www.cofc.gov.bw/wp-content/uploads/2025/06/LOCAL-GOVERNMENT-ACT-18-OF-2012-1.pdf), the [National Planning Act, 2024 places a statutory duty of liaison with civil society on the National Planning Commission](https://www.npc.gov.bw/sites/default/files/resources/NATIONAL%20PLANNING%20ACT%202024.pdf), [Parliament runs Botswana Speaks with its uSpeak and Speak4Yourself feedback channels](https://botswanaspeaks.gov.bw/about), and the [annual Budget Pitso feeds local authorities, youth, civil society and labour into budget priorities](https://dailynews.gov.bw/news-detail/89722).
 
-The [Remote Service VAT Act took effect on 1 June 2026, charging 14% on non-resident digital and remote services against a stated collection target of about P450m a year](https://www.mmegi.bw/business/burs-looks-to-tax-global-digital-services-providers/news). [Roaming cuts of between 10% and 98.6% now cover six SADC states](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/). The ministry announced an [ICT memorandum with Namibia for signature on 6 August 2026](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/), adding digital transformation, emerging technologies and cybersecurity to roaming and cable-transit cooperation; no term or funding was published. No IPv6 transition plan and no open-data portal or policy are held.
-<!-- /narrative -->
+<!-- derived -->
+None of the country's documented channels for citizen participation publishes a figure for its reach or its uptake.
+
+Public accountability has held better in the press than in committee. [No body was identified as accountable for the stalled national public key infrastructure when the responsible ministry's permanent secretary pointed the Public Accounts Committee on to the Directorate of Intelligence and Security](https://weekendpost.co.bw/p420-million-digital-bombshell/), and [no procurement date, contractor or expenditure breakdown for the project is on the public record](https://weekendpost.co.bw/p420-million-digital-bombshell/). Meanwhile the [push for data localisation is being contested in the national press through a "data colonialism" lens](https://www.mmegi.bw/blogs/african-politics/the-new-era-of-data-colonialism), and bank executives used the [2026 Public Service Leadership Conference to argue that government should simplify processes before digitising them and stop asking citizens for information the state already holds](https://businessweekly.co.bw/companies-markets/absas-barclays-separation-offers-lessons-for-botswanas-public-service-reform).
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Basic education ministry computerisation | [Implemented](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) | Appropriated in the FY2026/27 estimates |
-| Communications ministry ICT project | [Implemented](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) | Appropriated in the FY2026/27 estimates |
-| Communications ministry research and development project | [Implemented](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) | Appropriated in the FY2026/27 estimates |
-| Higher education ministry computerisation | [Implemented](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) | Appropriated in the FY2026/27 estimates |
-| Revenue service modernisation line | [Planned](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) | P4.13bn sought from Parliament in the twelfth development plan |
-| Shared Digital Services department recurrent vote | [Implemented](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf) | Appropriated in the FY2026/27 estimates |
-| Audited outturn for digital budget lines | ***Not held*** | — |
-
 ### MoUs and other agreements
+<!-- finance.mou -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Orange Botswana and special economic zones memorandum | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/orange-botswana-seza-sign-deal-to-upgrade-digital-infrastructure) | Signed at the operator's head office, reported 2026-03-17 |
+Botswana's signing year has been with neighbours and Gulf partners rather than with funders. It [signed an ICT-cooperation memorandum with Namibia on 7 August 2026](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement) committing both communications ministries, their operators and their regulators to cross-border connectivity, six months after [MTC Namibia and BoFiNet agreed fibre interconnection, IP transit and wholesale capacity exchange through the Buitepos-Ngoma corridor](https://thebrief.com.na/2026/02/mtc-bofinet-sign-agreement-to-strengthen-namibia-botswana-digital-connectivity/) in February 2026. The Ministry of Health's [ten-year partnership with Abu Dhabi Health Data Services, signed by 22 August 2026](https://oncodaily.com/voices/ministry-of-health-botswana-572024), is a pharmaceutical and medical-product supply agreement first, with digital health, genomics and precision medicine as avenues it opens.
+
+The largest agreement by value is not a financing instrument at all. The government and India's KP Group [signed a memorandum of understanding on 17 December 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) to develop renewable generation, storage and transmission, an investment the Indian side put to its stock exchange at INR 360 billion, at a capacity it envisaged at around 5GW.
+
+<!-- derived -->
+Only four distinct external commitments to Botswana's energy and digital estate are on the record, spanning 2015 to 2030 and coming to roughly USD 4.09 billion, of which that single memorandum accounts for about USD 4 billion (September 2026).
 
 ### New investments
+<!-- finance.new -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| BADEA mixed credit facility | [Implemented](https://dailynews.gov.bw/news-detail/92265) | Signed at BADEA’s board meeting in Gaborone, July 2026 |
-| Botswana Tech Fund | [Implemented](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1) | Launched 2026-04-21; first close reported 2026-04-27 |
-| Health Emergency Preparedness, Response and Resilience Project | [Implemented](https://www.worldbank.org/en/news/press-release/2026/01/26/world-bank-supports-a-stronger-and-more-resilient-health-system-in-botswana) | World Bank board approval, 26 January 2026 |
-| Renewable Energy Support and Access project | [Implemented](https://documents1.worldbank.org/curated/en/099060526010525521/pdf/P181221-f15c26ee-4bfd-4854-9604-6a795867a2be.pdf) | Effective 3 December 2025; first disbursement 23 December 2025 |
-| Scalar Botswana Innovation Program | [Implemented](https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/) | Launched in Gaborone 2026-03-10 |
-| Universal Access and Service Fund annual allocation | [Implemented](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/UASF_Annual_Report_2024_25_WEB.pdf) | Annual report for 2024/25 published |
+The World Bank's Renewable Energy Support and Access project, P181221, worth about USD 88 million, [made its first disbursement on 23 December 2025](https://documents1.worldbank.org/curated/en/099060526010525521/pdf/P181221-f15c26ee-4bfd-4854-9604-6a795867a2be.pdf), three weeks after taking effect and some six months after signature on 3 June 2025.
 
-<!-- narrative: finance -->
-The appropriations are the strongest evidence in this report and they read as retrenchment. For FY2026/27 the [communications ministry ICT project falls to P251,000,000 from P369,079,545, a third consecutive cut from P736.6m in FY2024/25](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf); [basic education computerisation falls to P253,000,000 from P270,000,000, on a FY2025/26 outturn of P0](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf); and the [research and development project falls to P213,700,000 from P477,403,718, on a 9.0% outturn](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf). The [largest single recurrent digital line is essentially flat at P587,310,850](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf), and the only line fully spent in FY2025/26 was [higher education computerisation, which rises to P16,000,000](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf). No audited outturn exists for any of them.
+Alongside it the European Union runs a [EUR 1.5 million grant for digital transformation in Botswana running to 2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893), of which EUR 1.4 million is a Cooperation Facility aimed at the capacity of government institutions — dialogue, expertise exchange and civil society engagement rather than systems (2022).
 
-One procurement runs against that retrenchment: a [P654.4m learning-technology contract awarded by direct procurement on 25 June 2026](https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/), its financial evaluation received, adjudicated and approved the same day, out of a vote that spent nothing the previous year.
-<!-- /narrative -->
+<!-- derived -->
+Four financiers appear in Botswana's external record, one commitment apiece and none of them twice: India's KP Group, the World Bank, the European Union and the Government of China, using four different instruments between them — a memorandum of understanding, a loan and two grants (September 2026).
+
+<!-- derived -->
+Almost all of that value is energy rather than digital. The digitally directed money comes to the European Union's policy grant and an eleven-year-old Chinese equipment donation (September 2026).
+
+The domestic programme is where the digital money is. Finance Minister Ndaba Gaolathe [sought P8.83 billion for the Public Investment Programme under NDP 12](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) on 31 October 2025, P2.07 billion of it to finish existing projects and P6.76 billion for new ones under the Botswana Economic Transformation Programme; the [largest single institutional share goes to revenue collection](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) and the [national payment switch remains funded rather than built](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/), sharing one ICT envelope with an accounting system upgrade and a fintech sandbox.
 
 ## ICT Infrastructure
 
 ### Connectivity
+<!-- infra.connect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| BoFiNet internet gateway upgrade | [Implemented](https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news) | P100m spent; the Gaborone exchange point relocated |
-| BoFiNet Local Access Projects 2025/26 | [Implemented](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/) | Completion reported 2026-08-16; first integrated report presented at the 2026-08-13 AGM |
-| BTC 5G launch and network modernisation programme | [In development](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO) | 2026/27 investment of over P240m set out in the 2026 Integrated Report |
-| BTC rural satellite connectivity programme | [Implemented](https://itweb.africa/article/btcs-new-reach-extends-to-61-villages-in-botswana/rxP3jqBEWB4MA2ye) | 61 villages connected, 105 further areas in progress |
-| Digital Delta IX | [Implemented](https://www.peeringdb.com/ix/5002) | Registered and operating in Gaborone, run by BoFiNet |
-| Mobile operator tariff reduction | [Implemented](https://www.bocra.org.bw/node/62773) | Announced by BOCRA, 22 September 2025 |
-| MTC Namibia and BoFiNet cross-border fibre memorandum | [Implemented](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) | Gobabis-Buitepos fibre completed and interconnected with BoFiNet at Charles Hill |
-| Powertel-Paratus fibre corridor | [Implemented, phase 1 only](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V) | Plumtree-Bulawayo section live and carrying traffic |
-| Village Connectivity Project | [Implemented](https://itweb.africa/article/botswana-taps-huawei-for-ai-rural-connectivity/GxwQDq1DOk9MlPVo) | Stated ongoing at an industry congress, May 2026 |
+The regulator approved [Botswana Telecommunications Corporation's revised mobile data tariffs with immediate effect in February 2026](https://www.mmegi.bw/business/btc-reduces-data-prices-following-regulator-approval/news), retiring older bundles in favour of one-day bundles at P2 for 100MB, P5 for 300MB and P10 for 1.5GB. It followed [cuts of 15–30% across the mobile operators during 2025](https://www.bocra.org.bw/sites/default/files/Press_Release_-_Reduction_in_Data_Charges_for_Orange.pdf), which the regulator [announced on 22 September 2025](https://www.bocra.org.bw/node/62773) as the output of its own costing study rather than of competition between the operators.
+
+Coverage runs well ahead of use. [4G reached 97% of the population by March 2024](https://www.bocra.org.bw/sites/default/files/documents/BOCRA%202024%20ANNUAL%20REPORT%20WEB%20VERSION.pdf), and mobile subscriptions stood at [4,370,350 in September 2025, 6% up on the year](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/State_of_ICTs%2C_2026_%28v2.pdf). Statistics Botswana's household survey nonetheless put [internet use at 57.5% of individuals and household internet access at 68.9% in 2024, with 84.2% of people aged five and over using a mobile telephone](https://www.statsbots.org.bw/sites/default/files/publications/Botswana%20Household%20Access%20and%20Individual%20Use%20of%20ICT%27s%20Stats%20Brief%202024.pdf). Service quality came under [an enforceable national regime for the first time on 1 April 2026](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA%2C_for_QoS_%26_QoE_Guidelines_-_April_2026.pdf).
+
+Landlocked Botswana buys its international capacity through [South African and Namibian transit routes and submarine landings, wholesaled by the state-backed BoFiNet](https://www.bocra.org.bw/sites/default/files/documents/Broadband-Facts-and-Figures-2021-FINAL-DRAFT-21-Dec-21.pdf), which completed [a P100 million upgrade of the international gateway in April 2025](https://techafricanews.com/2025/04/17/bofinet-entrusts-p100m-internet-gateway-upgrade-to-citizen-owned-companies/) and reported revenue down about 23% to [P376.1 million for the year to 31 March 2025](https://www.bofinet.co.bw/uploads/571/01M07F2TQ2HE6M06GD31SSDFZG.pdf). Domestic peering is negligible: the country's single exchange point, in Gaborone, [has only limited participation](https://www.pch.net/ixp/details/367). BoFiNet's [P43 million local-access programme, completed in August 2026, connected 191 customers in Moshupa, Ramotswa/Taung and Thamaga](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/).
+
+<!-- derived -->
+That programme worked out at roughly P225,000 for every customer connected — the cost structure of last-mile fibre in low-density settlement, and the reason the build sits on a state balance sheet rather than a commercial one.
+
+Cross-border capacity is where the year's movement is. [The first direct fibre link between the two countries, running Gobabis–Buitepos–Charles Hill, was completed by August 2026](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) after [a February 2026 memorandum on transit and wholesale capacity](https://thebrief.com.na/2026/02/mtc-bofinet-sign-agreement-to-strengthen-namibia-botswana-digital-connectivity/) and [a wider ICT cooperation memorandum between the two governments](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement). Closing the remaining 4G gaps on the Trans-Kalahari corridor is [costed at about N$52 million across 13 sites](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/). On 5G the state incumbent is last: [BTC entered the market in August 2026 behind Mascom and Orange, both live since 2022](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO).
 
 ### Data Storage
+<!-- infra.store -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Business Continuity and Disaster Recovery Guidelines | [Implemented](https://www.bocra.org.bw/sites/default/files/documents/APPROVED%20SECTOR%20GUIDELINES%20ON%20BUSINESS%20CONTINUITY%20AND%20DISASTER%20RECOVERY.pdf) | Issued by BOCRA, October 2019 |
-| Data-localisation amendment to the Data Protection Act | [Planned](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news) | Announced by the minister at the Digital Delta launch |
-| Digital Delta Data Centre | [Implemented](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center) | Launched 2025-11-25 after Tier III certification in October 2025 |
-| Government migration to Digital Delta | [In development](https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news) | Initial phase targeted for mid-2026 |
-| Kala Data Centre | [Implemented](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) | First full quarter of continuous operation, quarter ended 2026-06-30 |
-| Mascom Innovation Centre data centre | [Implemented](https://businessweekly.co.bw/companies-markets/mascoms-strategic-shift-from-internal-need-to-market-opportunity) | Repositioned to serve external customers, July 2026 |
-| Palapye solar data-centre campus | [Planned](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana) | Memorandum signed; the campus to sit inside a planned energy hub and industrial park |
+Mascom [turned its Tier III-certified data centre from an internal facility into a commercial one in July 2026](https://businessweekly.co.bw/companies-markets/mascoms-strategic-shift-from-internal-need-to-market-opportunity), selling colocation, cloud, infrastructure-as-a-service and disaster recovery to outside customers.
+
+State hosting arrived eight months earlier. BoFiNet's Digital Delta facility took [Uptime Institute Tier III certification of constructed facility on 23 October 2025 and launched on 25 November as Botswana's first Tier III carrier-neutral site, commissioned for government cloud and the 1Gov platform](https://uptimeinstitute.com/clients/bofinet); it was [built by Zhong Gan and framed by government as sovereign national hosting capacity](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center), and [opened to commercial colocation in October 2025, a month before the launch](https://www.mmegi.bw/business/bofinets-new-data-centre-boosts-digitisation/news). [Critical public services had been migrated onto it by May 2026](https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news).
+
+The third operating facility runs on its own gas. The Kala Data Centre [pairs gas-to-power generation from Tlou Energy's coal-bed methane project with a UAE-registered operator](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o), is [designed for up to 1 MW](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) and [completed its first full quarter of continuous operation in the quarter to 30 June 2026, on revenues the company describes as proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). Growth beyond that scale [depends on funding and on extending the gas gathering network](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). A further campus at Palapye, to be solar-powered, [went no further than a memorandum of understanding signed in October 2025](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana).
+
+<!-- derived -->
+Botswana's operating data centre estate now runs on three distinct models: the state-owned Digital Delta, the commercial Mascom facility, and the gas-anchored Kala.
+
+None of it is hyperscale. There is [no in-country AWS, Azure or Google region, the nearest availability zones being in South Africa](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html), which sits against a statute that [requires a copy of personal data transferred abroad to be retained in Botswana](https://www.techhiveadvisory.africa/insights/understanding-botswanas-new-data-protection-act-key-updates-and-changes). Every licensed communications operator must [file business continuity and off-site backup plans with the regulator](https://www.bocra.org.bw/sites/default/files/documents/APPROVED%20SECTOR%20GUIDELINES%20ON%20BUSINESS%20CONTINUITY%20AND%20DISASTER%20RECOVERY.pdf). Commercially, [Liquid Intelligent Technologies brought its cloud and cybersecurity portfolio into the market in May 2026](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r).
 
 ### Energy
+<!-- infra.energy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Botswana Energy Regulatory Authority | [Implemented](https://www.bera.co.bw/downloads/BERA_ACT_13_of_2016.pdf) | Established by Act No. 13 of 2016 |
-| Kala hybrid gas and solar generation | [Implemented](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) | Solar introduced to cover periods of lower gas availability |
-| Lesedi 5MW solar development | [Planned](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) | Options assessed during the quarter, scalability under review |
-| Lesedi gas gathering network extension | [Planned](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) | Stated subject to funding |
-| Mmadinare solar plant | [Implemented](https://www.bpc.bw/portfolio-items/botswana-power-corporation-electricity-generation-update/) | Reached full commercial operation in the last quarter of 2025 |
-| National Energy Compact | [Implemented](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Botswana-National-Energy-Compact-Mission-300.pdf) | Adopted under the Mission 300 framework, October 2025 |
-| Palapye 250MW solar and storage | [In development](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana) | Stated under development at the memorandum signature |
-| Village Electrification Programme | [Implemented](https://dailynews.gov.bw/news-detail/90066) | Tsodilo connected to the grid in November 2025; Chukumuchu at tender stage |
+The energy regulator has approved a residential tariff increase of up to 46% for 2026/27, taking the domestic rate [from P0.90 to P1.57 per kWh, driven by the utility's reliance on imported power and unreliable local generation](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/BERA%2028X5%20KO.pdf).
+
+Generation is almost entirely coal: [renewables supply less than 3% of Botswana's electricity, coal about 97% (2024)](https://documents1.worldbank.org/curated/en/099051624232013024/pdf/P1812211660e520d1be8214857f0720ed1.pdf). Access reached [76.6% of the population in 2024/25, with an urban-rural gap above 60 percentage points — Gaborone and Jwaneng over 90%, rural communities well below 60% and little changed in a decade](https://thedocs.worldbank.org/en/doc/fa42d1c4be8b212f2371214408115fb5-0010012025/original/Botswana-National-Energy-Compact-Mission-300.pdf). Firms recorded [an average of 2.4 outages a month, with 64.2% affected (2023)](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Botswana-2023.pdf). On the Ibrahim Index, [Access to Energy rose 9.5 points over the decade to 2023, to 69.3 out of 100 and 10th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf).
+
+Off-grid supply has no rules to work to. The National Energy Compact records [licensing, tariff-setting and grid-arrival policy for mini-grids as undefined, commits only to developing national technical standards and policy by 2026, and puts current off-grid deployment at a handful of pilot villages](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Botswana-National-Energy-Compact-Mission-300.pdf).
+
+The money now arriving is renewable. The [World Bank's renewable energy support and access project has begun disbursing](https://documents1.worldbank.org/curated/en/099060526010525521/pdf/P181221-f15c26ee-4bfd-4854-9604-6a795867a2be.pdf), and its implementation runs through [four counterparts — the Ministry of Finance, the Ministry of Minerals and Energy, the Botswana Power Corporation and the energy regulator (February 2026)](https://documents1.worldbank.org/curated/en/099060526010525521/pdf/P181221-f15c26ee-4bfd-4854-9604-6a795867a2be.pdf). A separate [memorandum with India's KP Group envisages large-scale renewable generation, storage and transmission](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf), with no financing agreement behind it. Where new demand is being built, it is being built next to its own supply: Tlou Energy was [assessing a solar development alongside the Kala Data Centre in the quarter to 30 June 2026](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85).
+
+### Technical Capacity
+<!-- infra.capacity -->
+
+Botswana ranks [2nd of 54 African states for Effective Administration at 77.7 out of 100, having lost 9.1 points over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) — administratively strong by regional standards, and weakening. Its [Public Administration score fell over the same period on the same index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf).
+
+The technical depth beneath that administration is thin. Maintenance and technical support for the national identity system is [contracted largely to foreign vendors, with vendor lock-in acknowledged and scarce domestic ICT skills deepening the reliance](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf). Tertiary provision rests on [a small number of institutions, chiefly the University of Botswana's computer science department and BIUST's computing and telecommunications degrees](https://www.ub.bw/faculties-and-departments/science/computer-science). Trackers of [Botswana-based open-source contributors find very few active developers](https://gitista.com/botswana/).
+
+Where capability is being built, it is being built through procurement and training rather than through the labour market. BoFiNet delivered its [P100 million international gateway upgrade through citizen-owned contractors, framing the arrangement as skills transfer alongside capacity (April 2025)](https://techafricanews.com/2025/04/17/bofinet-entrusts-p100m-internet-gateway-upgrade-to-citizen-owned-companies/). The regulator has treated address-space migration the same way, [hosting an IPv6 workshop with AFRINIC in May 2026](https://techreviewafrica.com/news/5530/bocra-leads-ipv6-training-initiative-to-strengthen-botswanas-digital-infrastructure). The European Union's [digital transformation grant for 2022–2030 is aimed at the capacity of government institutions](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893), through dialogue and expertise exchange rather than systems.
 
 ### Cybersecurity
+<!-- infra.cybersec -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Cybercrime and Computer Related Crimes Act 2018 | [Implemented](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf) | Its repeal takes effect only on the 2025 Act's commencement |
-| Liquid Secure360 | [Implemented](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r) | Service portfolio launched in Botswana |
-| National Cyber Drill | [Implemented](https://www.mmegi.bw/news/cyber-drill-sounds-alarm-on-ai-iot-and-quantum-threats/news) | A four-day drill held, opened by the regulator's chief executive |
-| Online safety exposure | [Implemented](https://www.mmegi.bw/features/interpol-flags-cyber-threats-for-botswana/news) | Police threat assessment reported 2026-08-28 |
-| National Cybersecurity Strategy | ***Not held*** | — |
+Botswana's national public key infrastructure is [incomplete and non-operational with no timeline for resolution (July 2026)](https://weekendpost.co.bw/p420-million-digital-bombshell/), leaving the country without a domestic root of trust for certificate-backed identity verification or a legally recognised electronic-signature layer beneath its Digital Services Act and digital Omang. More than P400 million was secured for the build before [control of it was transferred from the communications ministry to the Directorate of Intelligence and Security on grounds of sensitivity](https://weekendpost.co.bw/p420-million-digital-bombshell/), and the permanent secretary's referral of the Public Accounts Committee onward to that agency [left no body identifiable as accountable for the project](https://weekendpost.co.bw/p420-million-digital-bombshell/).
 
-<!-- narrative: ict-infrastructure -->
-Botswana's network position is stated by ministers and unverified elsewhere. The country has [about 16,000 km of fibre laid](https://dailynews.gov.bw/news-detail/90463), on a ministerial statement with no published register behind it, and the only national capacity figure in the base is [just over 100Gbps of international traffic in February 2025](https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news), eighteen months old. Internet penetration is [2.09m users and 81.4% at end-2025](https://www.wearetech.africa/en/fils-uk/news/tech/botswana-outlines-new-digital-priorities-under-minister-david-tshere) on a reference study, against a regulator figure of about 73% three weeks earlier; the two are unreconciled.
+The legal machinery is newer and in better shape than the capability. The [Cybersecurity Act 2025 requires operators of critical information infrastructure, including financial and payment infrastructure, to report incidents within eight hours](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf) and [established a National Cybersecurity Authority with jurisdiction over critical infrastructure in November 2025](https://itweb.africa/article/botswana-advances-robust-digital-ecosystems/rxP3jMBEb527A2ye); it passed [alongside the Digital Services Bill under a certificate of urgency on 14 August 2025](https://dailynews.gov.bw/news-detail/88151). Botswana scored [78.76 on the ITU's Global Cybersecurity Index 2024, in its 'Advancing' tier](https://www.itu.int/pub/D-HDB-GCI.01-2024).
 
-Rural reach is described without measurement: a satellite programme has [61 villages connected with 105 areas in process](https://itweb.africa/article/btcs-new-reach-extends-to-61-villages-in-botswana/rxP3jqBEWB4MA2ye), and the [Village Connectivity Project is running with no site count, target, budget or completion date](https://itweb.africa/article/botswana-taps-huawei-for-ai-rural-connectivity/GxwQDq1DOk9MlPVo).
+What is visibly enforced is speech. [Senior police officers moved in February 2026 to strengthen enforcement of the Cybercrime Act against social-media misuse, citing a growing number of online-abuse cases](https://www.mmegi.bw/news/think-before-you-post-or-face-the-law/news). The intrusions, by contrast, go uncounted: the regulator disclosed [a spike in botnet infections that had compromised several critical systems in 2024](https://www.sundaystandard.info/russian-intelligence-linked-hackers-attack-botswana/), officials say [the Omang identity register continues to be compromised](https://allafrica.com/stories/202608260258.html), and [no regular security audit, penetration test or vulnerability assessment of the identity system has been identified](https://www.cirt.org.bw/sites/default/files/2021-03/approved%20botswana-national-cybersecurity-strategy%20%281%29.pdf).
 
-Data-centre capacity is the one area with hard specification, and it is thin. The state's [Digital Delta facility is Tier III certified and carrier-neutral](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center); the commercial [Kala centre is fully commissioned at proof-of-concept revenue, designed for up to 1MW](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85), its growth gated on an upstream gas-gathering extension rather than on demand. A [Palapye campus with 250MW of solar and 100-400MW of storage](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana) is a memorandum with no cost or timeline, and nothing on file since October 2025.
-
-Security is legislated and unmanned: the [2018 cybercrime Act remains operative, its repeal enacted but not commenced](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf), and no cybersecurity strategy document, date or version is on file.
-<!-- /narrative -->
+Preparedness is asserted rather than measured. The [2026 National Cyber Drill flagged AI, IoT and quantum computing as forward threats and urged a move from policy discussion to coordinated action, publishing no measurement of national preparedness](https://www.mmegi.bw/news/cyber-drill-sounds-alarm-on-ai-iot-and-quantum-threats/news), and the only resilience exercise on the record with a named funder is [a two-day crisis simulation run with the United Kingdom government in April 2025](https://techreviewafrica.com/news/2192/botswana-strengthens-cyber-defenses-through-immersive-crisis-simulation). Regionally, Botswana led one of the [SADC central bank working groups whose cybersecurity framework was approved in July 2026](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/).
 
 ## DPI
 
 ### Data Exchange
+<!-- dpi.exchange -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Framework for Secure Exchange of Information | [In development](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf) | Required by sections 12 and 22 of the Digital Services Act 2025 |
-| Health Information Exchange | [In development](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/HEALTH-Committee%20of%20Supply%20Speech%20-%20FINAL%2004-03-2026%20Vol%20I.pdf) | Client and Facilities Registries reported ready for deployment, March 2026 |
-| National eHealth Enterprise Architecture | [In development](https://doi.org/10.1093/oodh/oqag008) | Set out in a peer-reviewed case study, January 2026 |
-| Policy on Credit Accumulation and Transfer | [Implemented](https://www.bqa.org.bw/sites/default/files/2026-01/DNCQF.POL05%20Credit%20Accumulation%20and%20Transfer%20%28CAT%29%20Policy.pdf) | Effective 27 November 2025 |
-| SADC Agricultural Information Management System | [In development](https://www.mmegi.bw/news/botswana-moves-to-strengthen-agricultural-data-integration/news) | Four-day national readiness workshop in Gaborone |
-| SADC cross-border DPI and federated eKYC framework | [In development](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries) | Framework unveiled August 2025 by the regional central bank committee |
+The integrations Botswana can point to are ministry projects rather than a central platform: [Phase I of the Labour Market Information System was fully operational with completed links to the National Identification System, the companies register and the 1Gov SMS Gateway (March 2026)](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/MoHE%20COS%20SPEECH%20-%2019-03-26%20KEK%20FULL%20SPEECH.pdf), and [the Health Information Exchange's client registry, which draws a unique patient identifier from the Omang or passport, and its facilities registry were both reported ready for deployment (March 2026)](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/HEALTH-Committee%20of%20Supply%20Speech%20-%20FINAL%2004-03-2026%20Vol%20I.pdf).
+
+[No national data exchange layer is in operation (2025)](https://www.expertisefrance.fr/en/projects/digital-transformation-botswana): an EU-funded project with Estonia's ESTDEV is supporting a National Interoperability Framework, improved core registries and proof-of-concept work, and interoperability standards and guidelines are still being established. [The programme document behind it set an interoperability framework for 2023 and core-registry compliance by 2027, and no structured implementation milestones have been published (2024)](https://expertise-france.gestmax.fr/_expertise_france/public_files/20220425-ad-digital-bw-final.pdf).
+
+What exists instead runs out of the identity register. [The National Identification System is interfaced with births and deaths registration, the electoral register, the Social Benefits Registration System, government payroll and the transport registry, allowing real-time cross-agency authentication of identity and biographic data](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf), but [section 20 of the National Registration Act confines that sharing to yes/no queries under departmental memoranda, with full data transfer prohibited without ministerial authorisation](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf).
+
+[The Digital Services Act, 2025 establishes a Digital Services Authority and places enterprise data inventory, information resource management and information security duties on government bodies](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf).
+
+Addressing is the gap underneath all of it: [no operational national digital address register exists, the addressing component of the LAPCAS land programme developed with Sweden was never implemented, street names and addresses rest with local authorities, PO Box addressing remains the dominant practical system, and no address linkage exists to the land register, the business register or any government data-exchange platform (2024)](https://www.ajol.info/index.php/sajg/article/view/272275/257074).
 
 ### Digital Identity and CRVS
+<!-- dpi.id -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Electronic Identification System | [In development](https://dailynews.gov.bw/news-detail/90334) | Rescoped from a public-private partnership into a broader digital identity ecosystem |
-| Mandatory SIM registration | [Implemented](https://www.bocra.org.bw/public-notice-mandatory-sim-card-registration-all-users-botswana) | Public notice, mandatory for all users |
-| National Public Key Infrastructure | [In development, stalled](https://weekendpost.co.bw/p420-million-digital-bombshell/) | Public accounts committee told it is funded, begun, incomplete and non-operational |
-| National Registration (Amendment) Act 2025 | [Implemented](https://dailynews.gov.bw/news-detail/90334) | In force by 2026-03-02; a passport or driving licence valid while an identity card is replaced |
-| National Registration Act (Cap. 01:02) | [Implemented](http://citizenshiprightsafrica.org/wp-content/uploads/2019/12/Botswana-National-Registration-Act-1986.pdf) | Assented 24 December 1986 |
-| Omang card production and replacement | [Implemented, production degraded](https://allafrica.com/stories/202608260258.html) | Document cartel reported 2026-08-26 |
+Botswana has been unable to replace its own identity card for most of 2026: [the Ministry of Labour and Home Affairs told Parliament on 28 July 2026 that too few personnel in the production process and ageing production equipment suffering frequent breakdowns had delayed Omang replacement since the start of the year](https://dailynews.gov.bw/news-detail/92439), [its remedy is extended working hours, redeployment and supplier engagement, with no target date or backlog figure on the record](https://dailynews.gov.bw/news-detail/92439), and [the National Registration (Amendment) Act 2025 now lets a passport or driving licence stand in while a lost, damaged or expired card is replaced, on proof of the replacement application](https://dailynews.gov.bw/news-detail/92439).
+
+[Omang coverage exceeded 90% of the eligible adult population (November 2022)](https://documents1.worldbank.org/curated/en/099113023113526062/pdf/P1790340f765cc07c0b967022a091caa813.pdf), and [the unique number assigned at birth becomes the Omang number at 16, with death registrations automatically updating deceased status in the population register (2023)](https://www.statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202023.pdf). [The system is centralised and biometric, with a national repository connected in real time to district registration stations and hospital-based registration centres, and fingerprint de-duplication in place since 1988](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf), yet [enrolment and card production remain manual and in-person through district offices, taking about fourteen working days (2025)](https://www.gov.bw/civil-registration/national-identity-card-application).
+
+[The 2026/27 budget funds this domestically, with P105 million for Omang card production and P42 million for the Biometric Omang computerisation project](https://dailynews.gov.bw/news-detail/90334), and [there is no digital-identity statute: the system runs on the National Registration Act, which predates digital systems](https://dailynews.gov.bw/news-detail/90334). [A smart Omang card, mobile application and e-wallet are under development](https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html), while [the national public key infrastructure remains incomplete and non-operational, leaving no domestic root of trust for certificate-backed verification beneath any of it (July 2026)](https://weekendpost.co.bw/p420-million-digital-bombshell/).
+
+Compulsion is broad, and the exclusions follow from it. [SIM registration against a national identity document is compulsory, and 609,222 unregistered SIMs were suspended when the regulator's compliance deadline passed (March 2024)](https://www.bocra.org.bw/public-notice-mandatory-sim-card-registration-all-users-botswana). [The Omang is issued only to citizens](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf), and [law makes no general provision for refugees, asylum-seekers or stateless persons to open bank or digital payment accounts (2025)](https://africanlii.org/pt/akn/bw/doc/book/2023-12-12/botswana-refugee-law-reader/eng@2025-01-01).
+
+[The permanent secretary for labour and home affairs said in August 2026 that the Omang continues to be forged, with the computer-generated card specifically targeted](https://allafrica.com/stories/202608260258.html).
 
 ### Digital Payments and Fintech
+<!-- dpi.pay -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Bank of Botswana Regulatory Sandbox | [Implemented](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Public%20Notice%20-%20Call%20for%20Applications%20for%20entry%20into%20the%20Bank%20of%20Botswana%20Regulatory%20Sandbox.pdf) | Call for applications opened 4 March 2026 |
-| Biometric grant payment cards | [Implemented](https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/) | More than 75,000 beneficiaries and 1,200 shops, on a platform accredited by three central banks |
-| Citizen Wallet | [Planned](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/) | Presented to a rural development council, 2025-09-17 |
-| Electronic funds transfer clearing enhancement | [Implemented](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Press%20Release%20-%20Enhancement%20to%20the%20clearing%20and%20settlement%20framework%20for%20electronic%20funds%20transfers.pdf) | In effect 1 February 2026 |
-| Electronic Payment Services Licensing Guidelines | [Implemented](https://bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20Guidelines%20February%202022_1.pdf) | Issued by the Bank of Botswana, February 2022 |
-| Government digital cash-deposit system | [In development](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Ministry%20of%20FInance%20Committee%20of%20Supply%20Speech%2026-02-2026%20-%20Final.pdf) | Named in the finance ministry’s 2026/27 estimates |
-| Instant cross-border payment corridor into Botswana | [Implemented](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) | Corridor went live 2026-03-02 |
-| Mukuru Companion Card | [Implemented](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana) | Launched 2026-08-18 |
-| National Clearance and Settlement Systems Act (Cap. 46:06) | [Implemented](https://www.bankofbotswana.bw/sites/default/files/National%20Clearance%20and%20Settlement%20Systems%20%20Act%202003%20%28Website%20Download%29_1.pdf) | Empowers the Bank of Botswana to recognise and regulate clearance and settlement systems |
-| National payment switch | [In development](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Ministry%20of%20FInance%20Committee%20of%20Supply%20Speech%2026-02-2026%20-%20Final.pdf) | Phase 2 named in the finance ministry’s 2026/27 estimates |
-| National Payments System Oversight Policy | [Implemented](https://www.bankofbotswana.bw/sites/default/files/NPS_Oversight_Policy.pdf) | Issued by the Bank of Botswana, 2019 |
-| Taxi cashless payment and financing partnership | [Implemented](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators) | Unveiled in Gaborone 2026-08-09 |
-| UnionPay e-commerce acceptance | [Implemented](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Extended to nine African markets 2026-08-19 |
+The 2026 rewrite of Botswana's electronic payment rules took financial inclusion out of the money: [substituted regulation 22 requires an e-money issuer to ring-fence the interest on its settlement account, withdrawable only to pay interest on customers' balances and for account maintenance](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf), [the promotion of financial inclusion, previously a permitted use of that interest, has been removed](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf), and [the Bank may now direct how that interest is distributed, against a monthly return](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf).
+
+[Statutory Instrument No. 46 of 2026, published on 2 April 2026, brings money or value transfer services — cash-in, cash-out and remittance outside a clearing network — inside the licensing perimeter, gives the Bank investigation powers over suspected unlicensed operation, extends fit-and-proper testing to beneficial owners and 10 per cent shareholders, and sets P1,000,000 and/or five years' imprisonment for operating without a licence](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf).
+
+<!-- derived -->
+The amended regulations had been in force for three and a half months before the Bank of Botswana announced their implementation.
+
+[From 1 February 2026 a fourth daily settlement window runs across the interbank settlement and clearing systems, and every commercial bank must credit beneficiary accounts within 60 minutes of cleared settlement](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Press%20Release%20-%20Enhancement%20to%20the%20clearing%20and%20settlement%20framework%20for%20electronic%20funds%20transfers.pdf). [Settlement value through the Botswana Interbank Settlement System rose 38.6% to P1.57 trillion (2024), alongside a Bank-led project to build a national retail payments switch](https://bankofbotswana.bw/sites/default/files/publications/Banking%20Supervision%20Annual%20Report%202024.pdf). [There is still no unified, interoperable 24/7 instant payment system: mobile money transfers instantly only within a provider, and the National Payments Switch Act was still in draft (July 2025)](https://www.bwtechzone.com/2025/07/national-payments-switch-act-drafted.html), with [the switch still inside a P486 million NDP 12 ICT envelope that also carries an accounting upgrade and a fintech sandbox (October 2025)](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/).
+
+[68.5% of adults reported making or receiving a digital payment (2025)](https://microdata.worldbank.org/catalog/7875/variable/F1/V27?name=anydigpayment), and [mobile money carried P33.5 billion between March 2023 and March 2024](https://thevoicebw.com/mobile-money-madness/). [The SmartSwitch biometric card serves over 75,000 food-grant beneficiaries and BotswanaPost's platform pays pensions to more than 115,000 retired government employees (2025)](https://www.bankofbotswana.bw/sites/default/files/publications/NPSS%202020-2024_Report%20June%2024%20Final.pdf). Cross-border instant payment arrived as one bank corridor, [First Capital Bank Botswana integrating the SADC TCIB platform for real-time inbound payments from South Africa and Zimbabwe (March 2026)](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) and [selling it as a retail instant receive service a week later](https://www.sundaystandard.info/first-capital-bank-rolls-out-instant-sadc-payments/).
 
 ### Registries
+<!-- dpi.registry -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Births and Deaths Registration System | [Implemented](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf) | Described as partially automated and decentralised, August 2026 |
-| Elections Management System | [In development](https://www.sundaystandard.info/electoral-transparency-credibility-and-the-dark-shadow-of-the-evm-in-botswana/) | Developed and under extensive testing; deployment planned for the 2029 general election |
-| Electronic voter registration | [In development](https://allafrica.com/stories/202608190305.html) | Electoral-reform package committed to in Parliament, 2026-08-19 |
-| Mandatory SMME registration and national database | [Planned](https://www.mmegi.bw/business/lea-embarks-on-nationwide-smme-registration/news) | Nationwide consultations March to May 2026; the agency lobbying for mandatory registration |
-| National Identification System (Omang) | [Implemented](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/MLHA%20-%20Committee%20of%20Supply%20Speech%20FINAL%20%20-%2024-02-2026.pdf) | P108,505,050 sought in 2026/27 for Omang production and system maintenance |
-| Single Social Registry | [Implemented](https://dailynews.gov.bw/news-detail/89025) | Operationalisation announced in the State of the Nation Address, 11 November 2025 |
-| National address register | ***Not held, searched 2026-08-31*** | No national addressing system found |
+[The first phase of a four-year programme to upgrade the Land Information System and Integrated GIS has commenced, aimed explicitly at fragmented land data and weak inter-agency coordination (2026/27 budget)](https://dailynews.gov.bw/news-detail/89882). [Deeds Registry and Department of Surveys and Mapping records are computerised and a digital cadastre is implemented, while land transaction processes remain document-based and conducted in person (2025)](https://www.worldbank.org/content/dam/sites/b-ready/documents/pdf/economy/2025/botswana-2025.pdf).
+
+The business register is the one that finished the job: [the Companies and Intellectual Property Authority's Online Business Registration System has been fully online nationwide since 2019, with name reservation and incorporation completed online and routine approvals typically issued within 24 hours](https://www.cipa.co.bw), and [92.2% of firms report having been formally registered when they began operating (2023)](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Botswana-2023.pdf).
+
+[Birth registration completeness stood above 92% in both 2022 and 2023](https://www.statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202023.pdf). [District and sub-district registry offices are equipped and register vital events directly into the national Births and Deaths Registration System, which the registration department describes as partially automated and real-time, with paper notification forms and printed certificates still part of the process (2023)](https://statsbots.org.bw/sites/default/files/Vital%20Statistics%20Report%202023_0.pdf), and [registration reaches remote areas through desks at major health facilities and mobile outreach exercises](https://statsbots.org.bw/sites/default/files/Vital%20Statistics%20Report%202023_0.pdf). [Botswana's civil registration score nonetheless fell 12.5 points over 2014-2023 to 75.0 out of 100, seventh of 54 African states, the sharpest ten-year decline in its public administration sub-category apart from budgetary management](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf).
+
+[The Independent Electoral Commission holds the voters roll digitally and can produce it, but refuses to release soft copies on legal grounds — a refusal opposition parties contested in 2024 — while front-line voter registration remains an in-person, paper-form process](https://www.mmegi.bw/news/bcp-moves-to-compel-iec-to-release-digital-voters-roll/news).
 
 ### Sectoral management information systems
+<!-- dpi.mis -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Animal Disease Surveillance Dashboard | [Implemented](https://www.mmegi.bw/news/botswana-gains-upper-hand-against-fmd/news) | Launched in the week of 2026-07-13, integrating the traceability system and district veterinary networks |
-| Centralised electronic medical records | [Piloting](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/HEALTH-Committee%20of%20Supply%20Speech%20-%20FINAL%2004-03-2026%20Vol%20I.pdf) | Phase 1 rolled out at 22 Ngami facilities |
-| Court Records Management System | [Implemented, malfunctioning](https://dailynews.gov.bw/news-detail/89652) | Chief Justice reported the digital records system failing, January 2026 |
-| Customs management system | [Implemented](https://www.freightnews.co.za/article/botswana-mandates-pre-border-clearance) | Pre-lodgment made mandatory from 1 August 2026 |
-| DHIS2 health information platform | [Implemented](https://www.afro.who.int/sites/default/files/2026-05/WHO%20Botswana%20Biennial%20Report%202024-2025_web.pdf) | Named by WHO as the government’s selected aggregate-data platform |
-| Electronic Logistics Management Information System | [Planned](https://www.worldbank.org/en/news/press-release/2026/01/26/world-bank-supports-a-stronger-and-more-resilient-health-system-in-botswana) | Funded as the digital component of the HEPRR project, January 2026 |
-| Government Accounting and Budgeting System | [Implemented](https://dailynews.gov.bw/news-detail/85274) | Committee of supply told the software upgrade completed December 2024 and the system is fully operational |
-| Industrial Court electronic case management system | [In development](https://allafrica.com/stories/202603170027.html) | Soft launch planned for the first quarter of 2026/27 |
-| Ipelegeng programme management information system | [Implemented](https://documents1.worldbank.org/curated/en/099645103062256866/pdf/P1721750af4ddb0ce098d30b331412b0ab8.pdf) | Described in the World Bank’s social protection systems review |
-| Labour Market Information System | [In development](https://www.mmegi.bw/news/govt-to-unveil-long-overdue-digital-labour-market-platform/news) | Permanent secretary told a parliamentary committee only facilitation and training remain |
-| Land Information System and Integrated Geospatial Information System | [In development](https://dailynews.gov.bw/news-detail/90382) | Four-year modernisation funded from 2026/27 |
-| Lekgetho Live | [In development](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Ministry%20of%20FInance%20Committee%20of%20Supply%20Speech%2026-02-2026%20-%20Final.pdf) | Named in the finance ministry’s 2026/27 estimates |
-| National Health Intelligence Centre | [In development](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/HEALTH-Committee%20of%20Supply%20Speech%20-%20FINAL%2004-03-2026%20Vol%20I.pdf) | Due before the end of 2025/26 on the ministry’s own account |
-| SMART Customs programme | [Planned](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Ministry%20of%20FInance%20Committee%20of%20Supply%20Speech%2026-02-2026%20-%20Final.pdf) | Scheduled for deployment in 2026/27 |
-| Ten-year health partnership with an Abu Dhabi health data operator | [Implemented](https://oncodaily.com/voices/ministry-of-health-botswana-572024) | Signed in Gaborone, 22 August 2026 |
-| Ten-year health systems partnership | [Implemented](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/) | Ten-year strategic partnership signed with the health ministry, August 2026 |
+Botswana's biggest health-systems commitment of 2026 is a foreign one, described differently by each side. [The Ministry of Health signed a ten-year partnership with Abu Dhabi Health Data Services on or before 22 August 2026, with pharmaceutical and medical-product supply as its stated substance and digital health and genomics as avenues it opens](https://oncodaily.com/voices/ministry-of-health-botswana-572024); [the counterparty, the UAE artificial-intelligence and genomics company M42, presents the same agreement as its first entry into Africa](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/), [ADHDS being an M42 company and the operator of Abu Dhabi's Malaffi health-information exchange](https://mid-east.info/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/). [The announcement states no data-residency condition, no governance arrangement and no ownership terms for the national genomic data the partnership would generate](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/).
+
+It would land on health systems that do not yet talk to each other. [Electronic health records are not interoperable within or between the public and private sectors, and the standards and interoperability framework the National eHealth Strategy identified as necessary remains under development (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10189626/). [The national systems — DHIS2 for programme reporting and the Integrated Patient Management System for clinical records — are concentrated in referral and general hospitals, while rural primary clinics record patient data on paper registers at the point of service, held back by poor connectivity, unreliable power, limited devices and fragmentation across parallel reporting systems (2025)](https://doi.org/10.2196/preprints.59816).
+
+Revenue administration is the exception and the priority. [Lekgetho Live, the revenue service's tax management system, is operational and handles taxpayer transactions in real time (February 2026)](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Ministry%20of%20FInance%20Committee%20of%20Supply%20Speech%2026-02-2026%20-%20Final.pdf), and [the revenue service takes P4.13 billion under the NDP 12 investment programme, the largest single institutional share, for electronic VAT invoicing, digital taxation of online services and border infrastructure (October 2025)](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/).
+
+<!-- derived -->
+That is roughly eight and a half times the entire ICT envelope in the same programme, the envelope carrying the national payment switch.
+
+Elsewhere the front line is still on paper. [Rural police stations log crimes in the Occurrence Book, and the centralised Crime and Criminal Recording System is fed by those paper inputs rather than by digital capture (2025)](https://dailynews.gov.bw/news-detail/86181), and [the annual school census that produces national education statistics is completed on paper at school level and aggregated centrally (2025)](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf).
 
 ### Other GovTech and e-Gov
+<!-- dpi.govtech -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| 1Gov-1Citizen platform | [Implemented](https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/) | FY2026/27 ministry plan records e-services increased from 33 to 52 |
-| E-Payslip portal | [Discontinued, suspended pending compliance](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) | Directorate statement of 2026-07-22 following the regulator's enforcement notice |
-| Mandatory electronic invoicing | [Planned, provided for by the Value Added Tax Act 2025](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/) | Provided for by the Value Added Tax Act 2025, in force 2026-07-01 |
-| National e-Procurement System | [In development](https://dailynews.gov.bw/news-detail/90620) | Restated at a procurement conference as due at the beginning of 2027 |
+The government's own payroll portal is offline over data protection. [The Information and Data Protection Commission issued a determination and enforcement notice against the Directorate of Public Service Management over the E-Payslip portal on 17 July 2026, the first published Botswana enforcement against a government body](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news), and [the directorate accepted data-controller accountability and said the portal would stay offline until outstanding legal, technical and security requirements were met, with no reopening date and no compliance deadline stated (July 2026)](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news).
 
-<!-- narrative: dpi -->
-Identity is where the base records the most damage. The public key infrastructure is [funded, begun, incomplete and non-operational](https://weekendpost.co.bw/p420-million-digital-bombshell/), the public accounts committee being told P423m is secured and control has passed to the intelligence directorate, with no working system and no accountable owner. The electronic identification system was [rescoped from a public-private partnership to integrate digital identity, a national wallet and e-government services, with a biometric identity card itemised at P31,700,000 in FY2026/27](https://dailynews.gov.bw/news-detail/90334). Card production is [running with delays since the start of 2026, no backlog figure and no restoration date](https://dailynews.gov.bw/news-detail/92439), while the amendment Act making a passport or driving licence valid during replacement is [in force with service providers refusing even the replacement receipt](https://dailynews.gov.bw/news-detail/90334).
+[The 1Gov1Citizen portal carried 52 public services fully online at the 2026/27 budget, with a further 179 in final integration testing (February 2026)](https://www.bwtechzone.com/2026/02/botswana-doubles-down-on-digital.html), and [government service portals authenticate citizens on the Omang number (2024)](https://rts.gov.bw/eservices/login) — though [no self-service portal lets a person see what the National Identification System holds on them, and the 2024 Data Protection Act's subject-access right has not yet produced one](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf). [Critical public services were migrated onto the Digital Delta Data Centre by May 2026](https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news), [the facility that is the hosting foundation for the 1Gov migration](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center) and [Botswana's first Tier III certified carrier-neutral data centre, certified in October 2025 and launched that November](https://uptimeinstitute.com/clients/bofinet).
 
-Payments are legislated ahead of infrastructure. The [Electronic Payment Services (Amendment) Regulations 2026 are in operation, extending scope to money or value transfer services, reaching beneficial owners and 10% shareholders on fit-and-proper, and making unlicensed operation punishable by P1,000,000 and five years](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). Against that regime, the [national payment switch is funded in plan only, with no build, procurement, operator or date](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/), and the [Citizen Wallet has had no build, pilot, budget line or date since September 2025](https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/). One rail is live: an [instant cross-border corridor inbound from South Africa and Zimbabwe](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/), with no volume figure held.
+[The UN E-Government Development Index put Botswana at 0.6118, 112th of 193 states (2024)](https://desapublications.un.org/sites/default/files/publications/2024-10/Chapter%203%20%20E-Government%20Survey%202024.pdf), while [its public administration score fell 8.9 points over 2014-2023 to 70.3 out of 100, still fifth of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf). [An Auditor General performance audit of the country's largest e-government project, reported in 2025, found project management and oversight failures that left it delivering very few benefits](https://www.sundaystandard.info/anatomy-of-a-p500-million-e-government-fiasco/).
 
-Service delivery is counted in services rather than in use. The government platform records [e-services increased from 33 to 52](https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/), with no usage figure at either end, and the [payroll portal is offline with no reopening date](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news). The deeds registry is [substantially manual on a workload of 9,000 to 30,000 transactions a year since the 2017-18 land Acts](https://www.mmegi.bw/business/botswana-registry-faces-backlog/news), with no digitisation programme or budget line, in a country where about 70% of land is tribal land. Nothing is held on district or council digital systems.
-<!-- /narrative -->
+Where the next model comes from is being decided in public and in the presence of vendors. [President Boko visited e-Estonia in Tallinn on 21 May 2025 to examine how the Estonian e-governance model improved service delivery and transparency](https://techafricanews.com/2025/05/22/president-duma-gideon-boko-highlights-digital-transformation-lessons-on-estonia-state-visit/), [Rwanda's Irembo discussed digital governance, sovereign infrastructure and citizen-centred delivery at a Rwanda-Botswana business forum in May 2026](https://techreviewafrica.com/news/5357/irembo-joins-rwanda-botswana-business-forum-to-discuss-digital-government-collaboration), and [China's ambassador offered Chinese artificial intelligence, e-government and big-data public-health cooperation in a signed newspaper article in August 2026 that named no Botswanan project, counterparty, sum, date or instrument](http://www.focac.org/zfzs/202608/t20260824_12009277.htm).
+
+[Parliament runs Botswana Speaks, whose uSpeak and Speak4Yourself channels take structured public feedback to legislators (2026)](https://botswanaspeaks.gov.bw/about).
 
 ## Digitalisation
 
 ### Digitalisation of sub-national government
+<!-- digital.localgov -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital Services Act duties on local authorities | [Enacted](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf) | Sections 17 and 18 require public bodies to keep records in secure electronic form |
-| National Archives Records Management System | [Implemented](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/MLHA%20-%20Committee%20of%20Supply%20Speech%20FINAL%20%20-%2024-02-2026.pdf) | Final phase reported live, February 2026 |
+Government digital services in Botswana remain organised nationally, with [integration into sub-national government still under development](https://www.trade.gov/country-commercial-guides/botswana-digital-economy) (2025).
+
+Citizen participation in local development planning has a statutory channel in the district, urban, village and ward Development Committees established by the [Local Government Act, 2012](https://www.cofc.gov.bw/wp-content/uploads/2025/06/LOCAL-GOVERNMENT-ACT-18-OF-2012-1.pdf), and digital local government now rests on the [Digital Services Act, 2025](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf). Street naming and addressing sit with local authorities, and [there is no operational national digital address register](https://www.ajol.info/index.php/sajg/article/view/272275/257074) to tie them to the land register, the business register or any government data-exchange platform (2024).
 
 ### Rural digital data capture
+<!-- digital.rural -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Administrative data digitalisation programme | [Implemented](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202023-24.pdf) | Rolled out to twelve sectors by 2023/24 |
-| Hospital registration kiosks | [Implemented, partly closed](https://www.parliament.gov.bw/documents/DAILY-HANSARD--6th-MARCH-2026---Budget-Meeting--2nd-meeting-of-the-2nd-session-of-the-13th-Parliament_10_05_04_11_03_2026.pdf) | Nine of fifteen kiosks still operating, March 2026 |
-| Safer City surveillance programme | [Implemented](https://dailynews.gov.bw/news-detail/91996) | Extended to remote border points, reported June 2026 |
+Across the three public services that touch rural Botswana most often, the record is still made on paper (2025): rural primary clinics [enter patient data in paper registers and forms at the point of service](https://doi.org/10.2196/preprints.59816), with the national electronic systems concentrated in referral and general hospitals; rural primary schools [complete the annual school census on paper questionnaires](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf) that are aggregated centrally, the digital capacity sitting in the ministry's information-system unit rather than at the school; and rural police stations [log crimes in the Occurrence Book](https://dailynews.gov.bw/news-detail/86181), whose contents feed the centralised criminal records system rather than being captured digitally where the report is taken.
 
-<!-- narrative: digitalisation -->
-No local-government digital system is held for Botswana. What the base holds of service digitisation is national and is carried under DPI.
-<!-- /narrative -->
+The pressure to change this is being applied from the top rather than at the desk. Addressing the police service's senior officers in May 2025, the President [pressed for greater use of technology to cut the share of officer time spent on paperwork](https://dailynews.gov.bw/news-detail/86258). The rural digital programme itself runs through [SmartBots, whose village connectivity work targets rural districts and whose lab is extending to all of them](https://www.trade.gov/country-commercial-guides/botswana-digital-economy) (2025). Civil registration is the exception that shows what the rest is missing: district and sub-district offices [register births and deaths directly into the national system](https://statsbots.org.bw/sites/default/files/Vital%20Statistics%20Report%202023_0.pdf), and reach remote areas through health-facility desks and mobile outreach (2023).
+
+What holds the rest back is physical as much as administrative — [rural electricity access remains far behind the towns](https://thedocs.worldbank.org/en/doc/fa42d1c4be8b212f2371214408115fb5-0010012025/original/Botswana-National-Energy-Compact-Mission-300.pdf) (2025) despite near-universal [4G population coverage](https://www.bocra.org.bw/sites/default/files/documents/BOCRA%202024%20ANNUAL%20REPORT%20WEB%20VERSION.pdf) (March 2024). Botswana is also the one country the Ibrahim Index cannot score on rural economy at all: it carries [no score for that sub-category or any of its four indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf), the only one of the index's sixteen left blank (2023).
 
 ## Technology
 
 ### AI
+<!-- tech.ai -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Judicial capability on AI and digital evidence | [Planned](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news) | The Chief Justice stated the Judiciary had resolved to train judges in AI and emerging technologies |
-| National Artificial Intelligence Policy | [In development](https://www.unesco.org/ethics-ai/en/botswana) | Reported at an advanced stage, December 2025 |
-| UNESCO AI Readiness Assessment | [Implemented](https://dailynews.gov.bw/news-detail/88917) | Validated and reported to the UNESCO General Conference, November 2025 |
+Botswana had [no artificial-intelligence-specific Act and no adopted national AI policy as at December 2025](https://www.unesco.org/ethics-ai/en/botswana), the draft still being described as at an advanced stage. That sits on top of a [National AI Strategy released in 2023 covering mining, agriculture, education and healthcare, and a National AI Council](https://paradigmhq.org/wp-content/uploads/2024/06/Botswana-Londa-Report.pdf), neither of which has yet produced confirmed operational use of AI inside government data-exchange systems; AI is positioned there as a step to follow the maturing of the foundational infrastructure. The preparatory work has been done largely with UNESCO: a [readiness assessment produced with the Ministry of Communications and Innovation examined the country's legal, social, gender, scientific, educational, economic and infrastructural readiness (2025)](https://www.iicba.unesco.org/en/africa-education-knowledge-platform/botswana-artificial-intelligence-readiness-assessment-report), and a minister told the UNESCO General Conference on [3 November 2025 that Botswana had validated the AI Readiness Assessment Methodology](https://dailynews.gov.bw/news-detail/88917). UNESCO was [still working with Botswana on the drafting in August 2026](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), alongside six other southern African states.
+
+Where instruments are missing, offers are not. The [Chinese ambassador published a signed newspaper article in August 2026](http://www.focac.org/zfzs/202608/t20260824_12009277.htm) offering cooperation on AI for economic diversification, government administration and talent training, and support for e-government, digital-city and big-data public-health practice, naming no counterparty, sum or instrument; [ITWeb Africa reported the same offer](https://www.itweb.africa/article/china-offers-botswana-ai-support/LPp6V7rBNw57DKQz). The Emirati health company M42 announced in August 2026 that its [ten-year Botswana health partnership is its first entry into Africa](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/). The communications minister's [working visits to China and Austria in April 2026, seeking partnerships in AI, computing and data centres](https://itweb.africa/article/botswana-seeks-digital-partnerships-abroad/wbrpOqg2wZbMDLZn), were reported without any agreement or funding attached.
+
+The concern voiced at home is harm rather than capability. The same minister [warned in July 2026 that AI chatbots had given harmful advice to children, including encouraging suicide, and called for stronger governance and developer accountability](https://dailynews.gov.bw/news-detail/92342). The Chief Justice [committed in January 2026 to training judges for AI-driven cases and deepfake evidence](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news), and the [2026 National Cyber Drill flagged AI among its forward threats](https://www.mmegi.bw/news/cyber-drill-sounds-alarm-on-ai-iot-and-quantum-threats/news).
 
 ### ICT Industry
+<!-- tech.industry -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| BoFiNet, the state wholesale network operator | [Implemented](https://www.bofinet.co.bw/uploads/571/01M07F2TQ2HE6M06GD31SSDFZG.pdf) | First integrated report, for the year ended 31 March 2025, presented at the annual general meeting 2026-08-13 |
+A commercial hosting market is forming in Botswana around what had been operators' internal plant. Mascom [opened its Tier III data centre to outside customers in July 2026](https://businessweekly.co.bw/companies-markets/mascoms-strategic-shift-from-internal-need-to-market-opportunity), following the state wholesaler BoFiNet, which [opened its Block 8 Digital Delta facility to commercial colocation customers in October 2025](https://www.mmegi.bw/business/bofinets-new-data-centre-boosts-digitisation/news) and [launched it in November 2025 as a Tier III certified carrier-neutral site framed as sovereign national hosting capacity](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center). Liquid Intelligent Technologies, part of Cassava, [extended its cloud and cybersecurity portfolio into the country in May 2026](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r).
+
+In mobile, the state-owned incumbent is the follower: BTC is [third to market on 5G, behind Mascom and Orange, both live since 2022](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO). BoFiNet's own accounts show [revenue falling in the year to 31 March 2025](https://www.bofinet.co.bw/uploads/571/01M07F2TQ2HE6M06GD31SSDFZG.pdf), and the company [changed chief executive in March 2026](https://www.connectingafrica.com/data-centers/botswana-s-bofinet-appoints-new-ceo). Its procurement has been used as industrial policy as much as engineering: the [international gateway upgrade completed in April 2025 was routed through citizen-owned contractors](https://techafricanews.com/2025/04/17/bofinet-entrusts-p100m-internet-gateway-upgrade-to-citizen-owned-companies/) and framed as skills transfer alongside capacity.
+
+The constraint the sector operates under is the shape of the wider economy. [Economic diversification is Botswana's worst-ranked measure in the Ibrahim Index's Foundations for Economic Opportunity category, at 47.0 out of 100, placing it 42nd of 54 African states and down 0.8 points over 2014-2023 (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf). Firms are close to universally registered from the point they start trading, but they run against [recurrent monthly power interruptions affecting most of them (2023)](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Botswana-2023.pdf) — a running cost for anyone selling always-on hosting.
 
 ### Innovation ecosystem
+<!-- tech.innovate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Botswana National Innovation Network | [Implemented](https://haus.fi/en/topical/botswana-innovation-network-players-meet-to-drive-digital-transformation/) | First meeting held 29 January 2026 |
-| National Research and Innovation Council Bill 2026 | [Planned](https://dailynews.gov.bw/news-detail/92434) | Presented to Parliament, July 2026 |
-| South Africa-Botswana Innovation Programme and Fund | [Planned](https://www.linkedin.com/posts/technology-innovation-agency_dsti-nsi-bdih-activity-7487557461781045248-NbOB) | Memorandum signed between the Technology Innovation Agency and the Botswana Digital and Innovation Hub |
-| UniPod Botswana | [Implemented](https://dailynews.gov.bw/news-detail/90262) | Toured by the higher education minister, February 2026 |
+A dedicated venture vehicle for Botswanan technology now exists for the first time: the [Botswana Tech Fund, anchored by Pula Investments and advised by Launch Africa Ventures, launched in April 2026 in partnership with the Botswana Innovation Hub for deal sourcing and portfolio support](https://disruptafrica.com/2026/04/27/64m-botswana-tech-fund-to-support-tech-startups-across-southern-africa/), with a first close worth roughly a tenth of its stated target. The institutional layer it plugs into is small. Alongside the [government-backed Botswana Innovation Hub, the science and technology park in Gaborone listed in the pan-African AfriLabs network, sits the Institute of Entrepreneurial Development's Business Incubator, which runs Venture Creation Labs including a women's co-working and incubation space (2025)](https://www.afrilabs.com/hub/botswana-innovation-hub/).
 
-<!-- narrative: technology -->
-Botswana holds no national AI policy, strategy or regulatory instrument at any date. The only state-side commitment in the base is the [Chief Justice's statement that the Judiciary had resolved to train judges in AI](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news), with no programme, budget or date attached. Adoption is measured only from outside, at [0 to 0.40 chatbot visits per user per month on a 0 to 2.6 scale](https://www.sundaystandard.info/infrastructure-gap-puts-botswana-on-the-back-foot-in-the-ai-boom-world-bank-cautions/).
+The regulator has opened a route of its own. The Bank of Botswana [began taking applications to its Regulatory Sandbox on 4 March 2026](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Public%20Notice%20-%20Call%20for%20Applications%20for%20entry%20into%20the%20Bank%20of%20Botswana%20Regulatory%20Sandbox.pdf), inviting live testing of digital banking, inclusive payment and interoperability propositions.
 
-The sector's largest listed operator is contracting: [profit before tax fell 45% to P146.2m on revenue down 1.6% to P1.47bn for the year ended 31 March 2026](https://www.mmegi.bw/business/btc-profit-plunges-as-rising-costs-bite/news), on company-reported figures. Research activity is flat: [45 projects carried forward, P9.5m spent in FY2025/26, five completed and none added](https://www.mmegi.bw/business/govt-spends-p95m-on-research-projects/news).
-
-External technology relationships are narrow. Botswana [acceded to the Artemis Accords on 25 June 2026 as the 68th signatory](https://techreviewafrica.com/news/6126/botswana-joins-artemis-accords-as-68th-signatory); a [vendor ICT academy operates across five tertiary institutions](https://www.sundaystandard.info/huawei-ict-competition-boosts-digital-skills-development-in-botswana/) with no student numbers held; and the only Gulf item is a [heads of agreement behind the Kala data centre](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o) whose counterparty is not named in the operator's most recent quarterly account. Nothing is held on Indian cooperation.
-<!-- /narrative -->
+Measured against comparators, the position is mid-table and unspectacular: Botswana ranked [87th of 139 economies in WIPO's Global Innovation Index 2025, fourth in Sub-Saharan Africa and 27th of 36 upper-middle-income economies](https://www.wipo.int/edocs/gii-ranking/2025/bw.pdf).
 
 ## Capacity
 
 ### Literacy
+<!-- capacity.literacy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Regulator school ICT and cyber-awareness training | [Implemented](https://techreviewafrica.com/news/3680/bocra-expands-ict-training-to-support-digital-inclusion-in-botswana-schools) | Sessions run at four schools in the week of 2026-01-22 |
-| National digital literacy measure | ***Not held*** | — |
+[Some 59.2% of individuals — 1,071,314 people — had basic ICT or e-skills in 2024, against 41.4% a decade earlier](https://www.statsbots.org.bw/sites/default/files/publications/Botswana%20Household%20Access%20and%20Individual%20Use%20of%20ICT%27s%20Stats%20Brief%202024.pdf), on Statistics Botswana's own household measure.
+
+Schooling is strong where it finishes and weak where it starts. [Education Completion scored 96.1 out of 100, third of 54 African states, and Education Quality rose 14.4 points over 2014-2023 to 73.2 (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf); [Education Enrolment, the weakest of the education measures at 50.5 and fifteenth of 54, fell 3.4 points across the same decade, and nothing at all is reported for Human Resources in Education (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf).
+
+Adult skills work outside the school system is attached to commercial rollouts rather than run as a programme: [financial-literacy training is bundled into the Absa and Yellow Light Taxi Association scheme alongside its payment terminals and credit offer (August 2026)](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators).
 
 ### Training and skills
+<!-- capacity.training -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| ITU and CRASA geographic-information training | [Implemented](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa) | Training commenced in Botswana with the regulator and the regional association |
-| STEAM e-learning, coding and robotics programme | [In development, contract awarded](https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/) | Contract awarded by direct procurement 2026-06-25 |
+The training on the record through 2026 was convened from outside the country: [BOCRA ran an IPv6 workshop with AFRINIC and ICT Dynamix (May 2026)](https://techreviewafrica.com/news/5530/bocra-leads-ipv6-training-initiative-to-strengthen-botswanas-digital-infrastructure), and [the ITU Development Bureau brought the regulators of Botswana, Malawi, Zambia and Zimbabwe together in Botswana for foundation GIS and data-management training under its Africa Broadband Maps project (June 2026)](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa).
+
+Beneath that, the domestic pipeline is small. [The University of Botswana's Computer Science department, established in 1992, enrols around 300 undergraduates and 20 postgraduates, and BIUST offers BSc degrees in Computer Science and Software Engineering and a BEng in Computer and Telecommunications Engineering (2024)](https://www.ub.bw/faculties-and-departments/science/computer-science) — two institutions carrying the country's formal ICT teaching between them.
+
+Demand is being stated faster than it is being met. [The Chief Justice committed in January 2026 to training judges for AI-driven cases and deepfake evidence](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news), and [China's ambassador offered artificial-intelligence cooperation including talent training in August 2026, naming no project, counterparty or sum](http://www.focac.org/zfzs/202608/t20260824_12009277.htm).
 
 ### Research institutions
+<!-- capacity.research -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National Research Agenda | [Implemented](https://www.mmegi.bw/business/govt-spends-p95m-on-research-projects/news) | Cabinet approved July 2025; FY2025/26 spend reported to the committee of supply |
-| University of Botswana virtual-reality programme | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/university-of-botswana-enters-vr-space-with-new-immersive-initiative) | Launched 2026-04-16 with a partner innovation hub |
+[No SADC member state, Botswana included, meets either the regional target of 1% of GDP or the African Union's 1.5% target for research-and-development investment (2026)](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf), the SADC Executive Secretary told the Council of Ministers in Durban.
 
-<!-- narrative: capacity -->
-Research capacity is the better-evidenced half of Botswana's record: a [National Research Agenda approved by Cabinet in July 2025](https://www.mmegi.bw/business/govt-spends-p95m-on-research-projects/news) with a reported financial-year spend, alongside university provision. It is an agenda and a budget line rather than a published output.
-<!-- /narrative -->
+What research capacity there is sits in the same two places as the teaching: [the University of Botswana's Computer Science department and BIUST](https://www.ub.bw/faculties-and-departments/science/computer-science), against a mid-table placing in [WIPO's Global Innovation Index 2025](https://www.wipo.int/edocs/gii-ranking/2025/bw.pdf).
 
 ## Inclusion
 
 ### Access to services
+<!-- include.access -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Budget Pitso | [Implemented](https://dailynews.gov.bw/news-detail/89722) | Held ahead of the 2026/27 budget, January 2026 |
-| Forensic Audit Public Engagement Platform | [Implemented](https://dailynews.gov.bw/common_up/dailynews/dailynews_pdf/21-08-2025_07-20-40_1755753640_dailynews_pdf.pdf) | Launched 7 August 2025 |
-| Gender-Responsive GBV Prevention and Response Programme | [Implemented](https://botswana.unfpa.org/en/news/gender-responsive-prevention-and-response-programme-launched-botswana) | Launched 10 June 2026 |
-| Local Government Act 2012 | [Implemented](https://www.cofc.gov.bw/wp-content/uploads/2025/06/LOCAL-GOVERNMENT-ACT-18-OF-2012-1.pdf) | Part XII establishes district, urban, village and ward development committees |
-| Mascom device-financing facility | [Implemented](https://www.sundaystandard.info/mascom-launches-myzaka-flexi-botswanas-first-mobile-device-financing-facilty/) | Launched 2025-05-23 as Botswana's first mobile device financing facility |
-| National Gender Commission | [Implemented](https://www.gov.bw/index.php/ministries/ministry-youth-and-gender-affairs) | Secretariat provided by the Department of Gender Affairs |
-| One-Stop Service Centres for GBV survivors | [In development](https://dailynews.gov.bw/news-detail/90710) | Adopted by the Ministry of Youth and Gender Affairs, March 2026 |
-| Persons With Disability Act 2024 | [Enacted, partly commenced](https://www.gov.bw/sites/default/files/2026-02/Vol%20129%20Extraordinary%20Gazette%2028-11-2025%20AGG.pdf) | Parts commenced by S.I. 150 of 2025, with disability defined by S.I. 149 |
-| Refugees (Recognition and Management) Act 2024 | [Implemented](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Final%20MJCS%20Committee%20of%20Supply%20Speech-2900.pdf) | Commenced 1 November 2025 |
-| Official internet penetration figure | ***Not held, searched 2026-08-31*** | The regulator publishes subscriptions, not a penetration rate |
+[Botswana's Equal Access to Public Services scored 79.5 out of 100, third of 54 African states, but had fallen 6.9 points over the decade, while the wider Inclusion & Equality score fell 4.5 points to 64.8, eighth of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023) — a high position being given up. Citizens' sense of [how easily an identity document can be obtained](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) fell further over the same years. Some public and private service providers have since refused to accept an [Omang renewal receipt presented alongside an old card](https://dailynews.gov.bw/news-detail/92439), so the substitute for a card in production is not reliably honoured at the counter (July 2026). The replacement delays behind it have run since the start of 2026.
+
+Rights that had sat on paper have begun to acquire machinery. The [Persons With Disability Act, 2024 was brought into force by Statutory Instruments 149 and 150 of 2025, gazetted on 4 December 2025](https://www.gov.bw/sites/default/files/2026-02/Vol%20129%20Extraordinary%20Gazette%2028-11-2025%20AGG.pdf). Gender work has a standing institutional home in the [Department of Gender Affairs, which serves as secretariat to the National Gender Commission](https://www.gov.bw/index.php/ministries/ministry-youth-and-gender-affairs); a [joint government and United Nations programme on gender-based violence prevention and response was launched in June 2026](https://botswana.unfpa.org/en/news/gender-responsive-prevention-and-response-programme-launched-botswana), and the [2026/27 budget estimates announce One-Stop Service Centres bringing medical, legal, counselling and psychosocial support for survivors into a single location](https://dailynews.gov.bw/news-detail/90710) (March 2026).
+
+[Botswana handed citizenship documents to 64 refugees on World Refugee Day 2026](https://dailynews.gov.bw/news-detail/91946), meeting a Global Refugee Forum commitment covering protracted cases, unaccompanied minors and people at risk of statelessness. It sits against a legal position in which [refugees and stateless people have no general provision to open bank or digital payment accounts](https://africanlii.org/pt/akn/bw/doc/book/2023-12-12/botswana-refugee-law-reader/eng@2025-01-01) (2025).
+
+Access is also lost to weather: [flooding in the Central and North West Districts in March and April 2026 cut access to schools and health services](https://reliefweb.int/report/botswana/botswana-floods-dref-operational-mdrbw009), prompting an IFRC and Botswana Red Cross Society relief operation. Where financial access is widening it is through private arrangements: taxi operators the banks had not previously served can now [take card payments through an Absa partnership in Gaborone](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), and the banking history built through it is the qualifying condition for the bank's business credit (August 2026).
 
 ### Digital divides
+<!-- include.divides -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| BTC Community Wi-Fi, Old Naledi | [Implemented](https://techafricanews.com/2025/06/09/botswana-launches-community-wi-fi-in-old-naledi-boosting-digital-inclusion/) | Launched June 2025 |
-| Mapping of the creative industries for digital inclusion | [Implemented](https://www.unesco.org/en/articles/botswana-maps-its-creative-industries-shape-more-inclusive-digital-future) | Workshop held 2026-08-30 |
-| Universal Access and Service Fund Framework | [Implemented](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOTSWANA_UASF_FRAMEWORK_FINAL_VERSION.pdf) | Issued September 2025 |
-| Universal Access and Service Fund school digital centres | [Implemented](https://dailynews.gov.bw/news-detail/92351) | Two handovers in the North West District, 22 and 23 July 2026 |
+Botswana's mobile networks reach far more people than its banks do: [cellular connections comfortably exceed the population while a substantial minority of adults hold no bank account](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana) (2026). Connectivity is where the country has moved fastest — [internet and computer access made the sharpest ten-year improvement of any Ibrahim Index indicator for Botswana](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023) — and price has followed it down, with [mobile tariffs cut across the market in September 2025 on the regulator's costing study](https://www.bocra.org.bw/node/62773) and [BTC's bundles restructured on the same basis in February 2026](https://www.mmegi.bw/business/btc-reduces-data-prices-following-regulator-approval/news).
 
-<!-- narrative: inclusion -->
-Universal service delivers per site and publishes no programme total. Two school digital centres were handed over in July at [P1.45m and P1.5m per site, thirty machines each](https://dailynews.gov.bw/news-detail/92351), from a fund financed by a 1% levy on mobile providers whose annual allocation and school target are not held. Community access is a single site: [one Wi-Fi installation at tariffs of P2 to P10 with a free 45-minute daily window](https://techafricanews.com/2025/06/09/botswana-launches-community-wi-fi-in-old-naledi-boosting-digital-inclusion/), with no second recorded. No national digital-literacy measure and no official internet penetration figure are held.
-<!-- /narrative -->
+The divides that have not moved are physical and social. [Protection against Discrimination rose 19.4 points over 2014-2023 to 19.4 out of 100, from a base of zero, and at 21st of 54 African states remains among Botswana's ten worst-scoring governance indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023). [Electricity reaches rural communities far less than it reaches Gaborone or Jwaneng, a gap that has barely narrowed over the past decade](https://thedocs.worldbank.org/en/doc/fa42d1c4be8b212f2371214408115fb5-0010012025/original/Botswana-National-Energy-Compact-Mission-300.pdf) (2025), which sets a limit on what cheaper data can reach.
+
+Skills show the same shape. [Basic ICT and e-skills now reach a majority of individuals, up sharply on a decade earlier](https://www.statsbots.org.bw/sites/default/files/publications/Botswana%20Household%20Access%20and%20Individual%20Use%20of%20ICT%27s%20Stats%20Brief%202024.pdf) (2024), but where rural primary schools have gained computer laboratories and tablets it has come [through corporate social investment rather than a national programme](https://weekendpost.co.bw/struizendam-primary-school-joins-the-digital-economy/) (2025). At the other end of the ladder, [a digital infrastructure gap places Botswana among the continent's lower adopters of artificial intelligence](https://www.sundaystandard.info/infrastructure-gap-puts-botswana-on-the-back-foot-in-the-ai-boom-world-bank-cautions/) (2024).
 
 ## Data
 
 ### National statistics
+<!-- data.statistics -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Africa Broadband Maps training | [In development](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa) | Subregional geographic-information and data-management training commenced in Botswana |
-| Botswana Multi Topic Household Survey | [Implemented](https://www.statsbots.org.bw/sites/default/files/publications/BOTSWANA%20MULTI%20TOPIC%20HOUSEHOLD%20SURVEY%202024%205%20%20%20%20Labour%20Force%20Preliminary%20Stats%20Brief.pdf) | Preliminary labour-force results for 2024/25 released |
-| Second Statistics Development Strategy (2026-2030) | [Implemented](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy) | Launched 2026-08-12 |
-| Statistician General | [Implemented](https://www.sundaystandard.info/a-letter-to-dr-khaufelo-lekobane-statistician-general/) | A substantive appointment made October 2025, succeeding an acting holder |
-| Statistics Act (Cap. 17:01) | [Implemented](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Act%202009.pdf) | Commenced 1 December 2010, establishing Statistics Botswana |
-| Tourism Satellite Account | [Implemented](https://dailynews.gov.bw/news-detail/92152) | First account launched, July 2026 |
+Botswana's recurrent survey programme has thinned to almost nothing outside agriculture: the World Bank's Statistical Performance Indicators record [three or more agricultural surveys in the past ten years but only one household survey and one health survey, and no labour force survey and no business survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The census programme, by contrast, is complete, with [a population census, an agricultural census and a business census all held within the same ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The same assessment placed the system in [the 50-69 per cent band for data use, data services, data sources and data infrastructure, and in the 70-89 per cent band for data products](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023).
+
+The direction of travel is upward. The country's [Capacity of the Statistical System score rose 12.6 points over 2014-2023 to 67.8 out of 100, eighth of 54 African states and one of its ten most improved governance indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023), measured over an office that the [Statistics Act, 2009, in force since 1 December 2010, established as a body corporate](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Act%202009.pdf).
+
+What a score cannot show is how much of the system still runs on paper. The [National Statistical System is only now moving from paper-based to electronic collection and building interoperability across government, under the 'Power of Data' plan the country joined in September 2023](https://blogs.worldbank.org/en/opendata/botswana-confronts-data-challenges-head-on-in-transition-to-digi) (2024). At school level nothing has moved: [the annual census that produces national education statistics is still completed on paper questionnaires and aggregated centrally](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf) (2025). The absences reach the indices, where Botswana [reports nothing at all for human resources in education](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) and rural economy is [the one sub-category of the Ibrahim Index on which the country cannot be scored](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023).
+
+Capacity building has turned towards spatial data. In June 2026 the ITU Development Bureau's Africa Broadband Maps project [held its Southern Africa subregional GIS and data management training in Botswana, backed by BOCRA, CRASA and EU Partnerships, bringing the regulators of Botswana, Malawi, Zambia and Zimbabwe together to strengthen broadband mapping and the use of spatial data in connectivity planning](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa).
 
 ### Open data
+<!-- data.open -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National Open Data Policy | [Planned](https://haus.fi/en/topical/terms-of-reference-support-for-open-data-hackathons-and-forum-in-botswana-phase-2/) | Mandated by Part V of the Digital Services Act 2025; not yet adopted |
-| Open Data Hackathons and Forum | [Implemented](https://haus.fi/en/topical/terms-of-reference-support-for-open-data-hackathons-and-forum-in-botswana-phase-2/) | Terms of reference issued for a second phase, March 2026 |
-| Tourism Statistics Dashboard | [Implemented](https://dailynews.gov.bw/news-detail/91015) | Launched 13 April 2026 with JICA support |
+Botswana has an access to information law and no access to information. The [Access to Information Act (No. 16 of 2024) was gazetted on 26 July 2024](https://botswanalaws.com/consolidated-statutes/acts-on-notice/2024/access-to-information-act) and [has still not been brought into force, remaining an Act on notice with no commencement order as at 31 August 2026](https://botswanalaws.com/consolidated-statutes/acts-on-notice/2024/access-to-information-act).
+
+The record on disclosure has been going backwards for a decade. [Disclosure of Public Records stands at 34.3 out of 100, 24th of 54 African states and down 6.7 points over 2014-2023, with Accessibility of Public Records at 45.0, 13th of 54 and down 2.4 points, disclosure ranking among the country's ten worst-scoring indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023).
+
+What the statistics office does publish is strongest on the economy and weakest on people. Open Data Watch's Open Data Inventory scored [the coverage and openness of official economic statistics between 4.5 and 7.5 out of 10, trade highest at 7.5, balance of payments 6.5, national accounts, price indexes and money and banking 6.0 each, government finance 5.5 and labour statistics lowest at 4.5](https://odin.opendatawatch.com/data) (2024). Social statistics ran [from 3.5 to 6.5, population and health-facility data highest at 6.5, education facilities and outcomes at 5.0, gender and poverty at 4.0, and crime and food security lowest at 3.5](https://odin.opendatawatch.com/data) (2024), and environmental statistics [from 4.0 to 5.5, natural resources 5.5, agriculture 4.5 and the built environment 4.0](https://odin.opendatawatch.com/data) (2024).
+
+A publication duty now exists in law even though the disclosure right does not: the [Digital Services Act, 2025 requires public bodies to keep an enterprise data inventory and to publish information on their use of data assets at least annually through a national open-data platform](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf) run by the communications regulator. A [general government open data portal is already in place, refreshed annually with basic datasets](https://digitalidentityindex.com/countries/botswana/govtech/) (2025). Where release would carry a cost, it is refused: the electoral commission [holds the voters roll digitally and can produce it, but will not release soft copies, a refusal opposition parties contested in 2024](https://www.mmegi.bw/news/bcp-moves-to-compel-iec-to-release-digital-voters-roll/news), and the rulebooks of the recognised clearance and settlement systems are [open to public inspection at the operator's head office in business hours](https://bankofbotswana.bw/sites/default/files/National%20Clearance%20and%20Settlement%20Systems%20%20Act%202003%20%28Website%20Download%29.pdf) rather than online.
 
 ### Use of satellite data
+<!-- data.satellite -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| AgriWatch regional monitoring dashboard | [In development](https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/) | Agreed 1 September 2025 |
-| BOTSAT-1 | [Implemented](https://www.telecomreviewafrica.com/articles/telecom-operators/11357-botswana-enters-space-race-with-botsat-1-launch/) | Launched 2025-03-15 with an in-country ground station |
-| Meteorological satellite ground station | [Implemented](https://dailynews.gov.bw/news-detail/76992) | Donated by China at COP28, December 2023 |
-
-<!-- narrative: data -->
-Satellite data is one regional collaboration in progress: the [AgriWatch monitoring dashboard](https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/), agreed in September 2025 and not yet delivered.
-<!-- /narrative -->
+No use of satellite or Earth observation data by government had been recorded in Botswana as at September 2026.
 
 ## Geopolitics
 
 ### US / hyperscaler activities
+<!-- geopol.usa -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Artemis Accords accession | [Implemented](https://techreviewafrica.com/news/6126/botswana-joins-artemis-accords-as-68th-signatory) | Signed 2026-06-25 at NASA headquarters as the 68th signatory |
+The argument about who captures the value of Botswana's data is being conducted in the national press rather than in government documents: signed commentary in Mmegi in May 2026 set the country's localisation push against [the WTO framework governing cross-border data flows](https://www.mmegi.bw/blogs/african-politics/the-new-era-of-data-colonialism), which it argues works against African states retaining value from data generated on their own territory.
+
+American commercial presence sits well behind that argument. US data centre operator ChillMine and Netherlands-based AAAS Energy [signed a memorandum of understanding in October 2025](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana) setting out a solar-powered data centre campus at Palapye, intended to serve global hyperscalers and energy-intensive AI computing for southern Africa; no hyperscaler is a party to it.
 
 ### China activities
+<!-- geopol.china -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Ambassadorial article on digital cooperation | [Implemented](http://www.focac.org/zfzs/202608/t20260824_12009277.htm) | Signed article published in domestic media, 20 August 2026 |
-| Chinese AI cooperation offer | [Planned](https://www.itweb.africa/article/china-offers-botswana-ai-support/LPp6V7rBNw57DKQz) | Offer made publicly by the ambassador, August 2026 |
-| Huawei ICT Academy in Botswana | [Implemented](https://www.sundaystandard.info/huawei-ict-competition-boosts-digital-skills-development-in-botswana/) | A 2025-2026 competition run across five named universities |
+China's offer to Botswana on artificial intelligence has been made in public and without a counterparty. The Chinese embassy in Gaborone [offered AI support in August 2026](https://www.itweb.africa/article/china-offers-botswana-ai-support/LPp6V7rBNw57DKQz) naming no Botswanan counterparty, sum or date, and the ambassador, Fan Yong, put the same offer at length in [a signed article in the Gaborone Guardian on 20 August](http://www.focac.org/zfzs/202608/t20260824_12009277.htm), republished by FOCAC four days later, proposing Chinese AI cooperation for economic diversification, government administration and talent training while naming no project, counterparty, sum, date or instrument.
+
+The article extends the same offer to the machinery of the state, proposing to [share Chinese e-government, digital-city and big-data public-health practice](http://www.focac.org/zfzs/202608/t20260824_12009277.htm) to help build Botswana an efficient and transparent digital government system. It also argues Botswana's AI governance case through [Chinese-led governance vehicles and explicitly against a "small yard, high fence" approach](http://www.focac.org/zfzs/202608/t20260824_12009277.htm), which places the offer in a wider contest over which bloc's rules a small state adopts rather than in any bilateral programme.
+
+Botswana's own approach has run in more than one direction. Its Minister of Communications and Innovation [made working visits to China and Austria between 9 and 19 April 2026](https://itweb.africa/article/botswana-seeks-digital-partnerships-abroad/wbrpOqg2wZbMDLZn) seeking partnerships in artificial intelligence, computing and data centres, with no agreement, funding envelope or counterparty commitment reported from either leg.
 
 ### EU activities
+<!-- geopol.eu -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EU Cooperation Facility for digital transformation | [Implemented](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893) | Committed 2022; activity period 2022-2030 |
-| EU support to digital transformation | [Implemented](https://www.expertisefrance.fr/en/projects/digital-transformation-botswana) | Running since 5 August 2024 |
+European money is going into the part of Botswana's digital state that has moved slowest. Botswana [had no fully operational national data exchange layer as at 2025](https://www.expertisefrance.fr/en/projects/digital-transformation-botswana), with an EU-funded Expertise France project working alongside Estonia's development agency ESTDEV on a National Interoperability Framework, improvements to core registries and proof-of-concept solutions, and interoperability standards and guidelines still being established. The programme's own [Action Document sets an interoperability framework target for 2023 and core registry compliance by 2027](https://expertise-france.gestmax.fr/_expertise_france/public_files/20220425-ad-digital-bw-final.pdf), and the implementation roadmap between those two points is not published, with no structured implementation milestones set out between them (2024).
+
+The financing behind it is modest and aimed at institutions rather than systems. The EU [runs a EUR 1,500,000 grant, about USD 2 million, supporting digital transformation in Botswana over 2022–2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893), of which EUR 1,400,000 is a Cooperation Facility directed at the capacity of government institutions, with dialogue, expertise exchange and civil society engagement as the stated means.
+
+The relationship's centre of gravity is Estonian. President Duma Gideon Boko [visited e-Estonia in Tallinn on 21 May 2025](https://techafricanews.com/2025/05/22/president-duma-gideon-boko-highlights-digital-transformation-lessons-on-estonia-state-visit/) during a state visit, meeting President Alar Karis along with Estonian digital experts, technology firms and academic institutions, to examine how that country's e-governance model has changed public service delivery, transparency and citizen empowerment. European commercial interest in Botswana's compute is at an earlier stage than any of this: the Palapye data centre campus memorandum of October 2025 was signed on the energy side by [Netherlands-based AAAS Energy](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana).
 
 ### Gulf/UAE activities
+<!-- geopol.gulf -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Kala Data heads of agreement | [Implemented](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o) | Heads of agreement negotiated March 2025; site and technical planning progressed by 2025-09-26 |
+The ten-year health partnership Botswana signed with the United Arab Emirates in August 2026 says nothing about where the data will live: [M42's announcement of it states no data-residency condition, no governance arrangement and no ownership terms](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/) for the national genomic data the partnership would generate.
+
+The two sides describe the same agreement differently. Botswana's Ministry of Health [signed with Abu Dhabi Health Data Services on or before 22 August 2026](https://oncodaily.com/voices/ministry-of-health-botswana-572024), with pharmaceutical and medical-product supply as the stated substance and digital health, genomics and precision medicine as avenues it opens up; [M42, the UAE artificial-intelligence and genomics health company, announced on 26 August 2026](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/) that the partnership is its first entry into Africa and is intended to strengthen the country's health system.
+
+The counterparty is one group named at two levels. [ADHDS is an M42 company and the operator of Abu Dhabi's Malaffi health-information exchange, and Kareem Shahin — its chief executive and chief executive of M42's Digital Health Solutions platform — signed for both](https://mid-east.info/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/), so the health ministry's counterparty and the region's largest health-data operator are the same organisation.
+
+Gulf involvement in Botswana's compute is separate from all of this and predates it. [The Kala Data Centre pairs gas-to-power generation from Australian-listed Tlou Energy's Botswana coal-bed methane project with UAE-registered operator Kala Data FZCO](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o) (September 2025).
 
 ### India activities
+<!-- geopol.india -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| India-Botswana bilateral cooperation | [Implemented](https://www.mea.gov.in/Portal/ForeignRelation/India-Botswana26.pdf) | First presidential visit from India, November 2025 |
-| KP Group renewable energy memorandum | [Planned](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) | Signed with the Ministry of Minerals and Energy, 17 December 2025 |
+<!-- derived -->
+India's KP Group is one of only four financiers on Botswana's record, alongside the World Bank, the European Union and the Government of China; each appears once, and between them they use four different instruments — a memorandum of understanding, a loan and two grants (September 2026).
 
-<!-- narrative: geopolitics -->
-No India-Botswana technology or digital cooperation is held. The most substantial external digital relationship the base does carry is the ten-year health-systems partnership recorded under DPI.
-<!-- /narrative -->
-
-## Gaps to fill
-
-| System or instrument | What would settle it | Last probed |
-|---|---|---|
-| AI legislation or regulations | an AI Act, or regulations made under an existing statute, with a gazette reference | 2026-08-31 |
-| National IPv6 transition plan | a regulator or ministry IPv6 transition plan with a target date, or a published IPv6 adoption percentage for Botswana | not yet probed |
-| Audited outturn for digital budget lines | the Auditor General's report on the accounts of the Government of Botswana for FY2024/25 or FY2025/26 | not yet probed |
-| National Cybersecurity Strategy | the strategy document itself, or a gazette notice or ministerial statement giving its date of adoption and version | not yet probed |
-| National address register | a national addressing standard or register with a coverage figure, or a ministerial statement that none is planned | 2026-08-31 |
-| National digital literacy measure | a dated statistics-office or regulator household ICT survey reporting a digital-literacy or digital-skills rate | not yet probed |
-| Official internet penetration figure | the regulator's annual report, or a statistics-office household ICT access survey | 2026-08-31 |
-
-<!-- narrative: gaps -->
-Eleven rows carry no reliable statement, and the pattern is that Botswana's instruments are named in speeches and absent from documents. Four are missing instruments: no cybersecurity strategy, named as the coming authority's implementing mandate; no AI policy or strategy at any date; no IPv6 transition plan; and no open-data portal or policy, the only open-data item in the base being a hackathon.
-
-Three are missing measures of the state's own delivery: no official internet penetration figure, no digital-literacy rate, and no universal-fund annual allocation or school target. One is a whole layer of government: nothing on district or council digital systems.
-
-The remaining three bear directly on the finance section above: no audited outturn for any digital budget line in any year, no named European Union instrument behind the assistance the minister described, and no India cooperation of any kind. Each row is in `gaps.csv` with what would settle it; none has yet been probed on a date.
-<!-- /narrative -->
+KP Group's is the memorandum. The Government of Botswana and the Indian group [signed it in an announcement of 17 December 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) to collaborate on large-scale renewable generation, storage and transmission capacity, in what is the largest single external commitment on record for Botswana's energy and digital estate.
