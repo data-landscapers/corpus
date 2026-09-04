@@ -1,0 +1,10 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+dpi.exchange--interoperability-of-social-protection-systems,dpi.exchange,2,13,3,1,2,0,0,,staged,3
+dpi.exchange--use-of-digital-id-in-other-systems,dpi.exchange,2,14,3,1,1,1,0,,staged,3
+dpi.registry--address-register,dpi.registry,2,15,3,1,1,1,0,,staged,2
+dpi.registry--business-register,dpi.registry,2,14,3,1,2,0,0,,staged,2
+dpi.registry--electoral-register,dpi.registry,2,11,3,1,2,0,0,,staged,2
+dpi.registry--land-register,dpi.registry,2,13,2,1,2,0,0,,staged,2
+dpi.registry--population-register,dpi.registry,2,12,0,1,1,0,0,,staged,2
+dpi.registry--social-protection-register,dpi.registry,2,13,1,1,1,1,0,,staged,2
+dpi.registry--tax-register,dpi.registry,2,14,2,1,2,0,0,,staged,2

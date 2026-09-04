@@ -1,0 +1,9 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+capacity.literacy--digital-literacy-general-population,Capacity,Literacy,capacity.literacy,Digital literacy (general population),0
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,Capacity,Research institutions,capacity.research,Think tanks and academic departments contributing to DT policy,0
+capacity.training--dt-related-training-in-secondary-education,Capacity,Training and skills,capacity.training,DT-related training in secondary education,3
+data.statistics--censuses-and-surveys,Data,National statistics,data.statistics,Censuses and surveys,1
+data.statistics--national-strategy-for-development-of-statistics,Data,National statistics,data.statistics,National strategy for development of statistics,1
+data.statistics--statistics-from-administrative-data,Data,National statistics,data.statistics,Statistics from administrative data,1
+data.open--use-of-open-data,Data,Open data,data.open,Use of open data,0
+data.satellite--meteorological-use-of-satellite-data,Data,Use of satellite data,data.satellite,Meteorological use of satellite data,2

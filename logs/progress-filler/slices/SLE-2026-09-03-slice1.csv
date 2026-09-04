@@ -1,0 +1,11 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--data-localisation-policies,gov.policy,2,10,2,1,1,0,1,DUP-EXACT,staged,3
+gov.policy--data-storage-cloud-strategy,gov.policy,2,8,1,0,2,0,1,DUP-EXACT,staged,3
+gov.policy--digital-transformation-strategy,gov.policy,2,8,3,1,2,0,0,,staged,3
+gov.policy--ict-strategy,gov.policy,2,8,3,1,2,0,1,DUP-EXACT,staged,3
+gov.policy--open-data-policy,gov.policy,2,9,3,1,1,1,0,,staged,3
+gov.legislate--access-to-information-legislation,gov.legislate,2,8,3,1,2,0,1,DUP-EXACT,staged,5
+gov.legislate--ai-legislation-regulations,gov.legislate,2,9,1,1,2,0,1,STUB-HEADLINE-ONLY,staged,5
+gov.legislate--cybersecurity-legislation,gov.legislate,2,8,2,1,0,0,2,FETCH-FAIL|OUT-OF-WINDOW,staged,5
+gov.legislate--legislation-enabling-data-interoperability,gov.legislate,2,7,0,1,0,0,1,DUP-EXACT,staged,5
+gov.legislate--statistics-legislation,gov.legislate,2,6,1,1,0,0,1,NON-PRIMARY,staged,5

@@ -1,0 +1,11 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+include.access--citizen-feedback-portals,Inclusion,Access to services,include.access,Citizen feedback portals,4
+include.access--citizen-participation-in-policy,Inclusion,Access to services,include.access,Citizen participation in policy,4
+include.access--gender-equity,Inclusion,Access to services,include.access,Gender equity,4
+include.access--inclusion-of-persons-with-disabilities,Inclusion,Access to services,include.access,Inclusion of persons with disabilities,4
+include.access--inclusion-of-refugees-and-idps,Inclusion,Access to services,include.access,Inclusion of refugees and IDPs,4
+geopol.china--chinese-mous-engagements-and-commitments,Geopolitics,China activities,geopol.china,"Chinese MoUs, engagements and commitments",0
+geopol.eu--eu-mous-engagements-and-commitments,Geopolitics,EU activities,geopol.eu,"EU MoUs, engagements and commitments",1
+geopol.gulf--gulf-mous-engagements-and-commitments,Geopolitics,Gulf/UAE activities,geopol.gulf,"Gulf MoUs, engagements and commitments",1
+geopol.india--india-mous-engagements-and-commitments,Geopolitics,India activities,geopol.india,"India MoUs, engagements and commitments",1
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,Geopolitics,US / hyperscaler activities,geopol.usa,"USA / hyperscaler MoUs, engagements and commitments",0

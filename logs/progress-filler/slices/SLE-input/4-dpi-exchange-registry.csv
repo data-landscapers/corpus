@@ -1,0 +1,12 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+dpi.exchange--interoperability-of-education-systems,DPI,Data Exchange,dpi.exchange,Interoperability of education systems,3
+dpi.exchange--interoperability-of-health-systems,DPI,Data Exchange,dpi.exchange,Interoperability of health systems,3
+dpi.exchange--interoperability-of-social-protection-systems,DPI,Data Exchange,dpi.exchange,Interoperability of social protection systems,3
+dpi.exchange--use-of-digital-id-in-other-systems,DPI,Data Exchange,dpi.exchange,Use of digital id in other systems,3
+dpi.registry--address-register,DPI,Registries,dpi.registry,Address register,2
+dpi.registry--business-register,DPI,Registries,dpi.registry,Business register,2
+dpi.registry--electoral-register,DPI,Registries,dpi.registry,Electoral register,2
+dpi.registry--land-register,DPI,Registries,dpi.registry,Land register,2
+dpi.registry--population-register,DPI,Registries,dpi.registry,Population register,2
+dpi.registry--social-protection-register,DPI,Registries,dpi.registry,Social protection register,2
+dpi.registry--tax-register,DPI,Registries,dpi.registry,Tax register,2
