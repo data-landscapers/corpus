@@ -1,9 +1,0 @@
-indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
-dpi.id--digital-id-from-birth,dpi.id,2,15,3,1,2,0,2,DUP-EXACT|DUP-EXACT,staged,5
-dpi.id--interoperability-of-birth-registration-and-digital-id,dpi.id,2,11,2,1,1,1,0,,staged,5
-dpi.id--national-maintenance-of-id-and-credentials-systems,dpi.id,2,12,1,1,0,0,3,DUP-EXACT|DUP-EXACT|DUP-EXACT,staged,5
-dpi.pay--b2b-and-b2g-functionality,dpi.pay,2,12,3,1,2,0,0,,staged,9
-dpi.pay--cross-border-functionality,dpi.pay,2,12,1,1,1,0,1,DUP-EXACT,staged,9
-dpi.pay--g2p-functionality,dpi.pay,2,11,2,1,1,0,0,,staged,9
-dpi.pay--governance-role-of-central-bank,dpi.pay,2,10,2,1,2,0,0,,staged,9
-dpi.pay--revenue-collection,dpi.pay,2,13,2,1,2,0,0,,staged,9

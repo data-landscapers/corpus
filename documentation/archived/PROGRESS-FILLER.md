@@ -1,5 +1,20 @@
 # Progress filler — targeted gap sweep for one country (procedure)
 
+> **Archived 2026-09-04 — the pass it was written for is finished, and it is not a live
+> procedure.** All 54 countries carry a dated `Filler Searched` cell in
+> `logs/progress-report-log.csv`; the last queue run closed on 2026-09-04 06:20 with the
+> queue worked through. **The loop is not closed, and this file is not the thing that
+> closes it**: `Filler ingested` is still blank for 48 units and nineteen batches sit
+> undelivered in `C:\corpus-osint-xfer\new-queue\`, waiting on Bill's hand-carry and
+> OSINT's ingest — neither of which this procedure performs. What each batch contains is
+> in `logs/progress-filler/{ISO}-{date}.csv`, which is kept for exactly that reason.
+>
+> **Read it, do not run it.** `scripts/filler-batch.py` and `scripts/progress-filler-gaps.py`
+> stay in place and point here; a second pass over the same frame would be a new decision,
+> and §0's re-run test — a prior nil is re-opened only when its subject's ledger row count
+> moves — is what would make one cheap. The three cost records that came out of it are
+> `progress-filler-cost-{ZAF,AGO,GNB}.md`, beside this file.
+
 Trigger: "**run the progress filler for {ISO}**". Probes the indicators a country's progress report reads ***No evidence*** on, stages what it finds for OSINT's ingest, and accounts for what the run consumed. The accounting in §7 is a deliverable, not overhead.
 
 **To run the queue unattended**, `python scripts/filler-batch.py --until 07:00` drives this procedure over it one country at a time, each in its own `claude -p` session so no context carries from one country to the next, and checks what each run left on disk rather than what it said. The script's own header is the description; it decides nothing this file leaves to Bill.

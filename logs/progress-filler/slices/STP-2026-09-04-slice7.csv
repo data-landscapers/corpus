@@ -1,8 +1,0 @@
-indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
-tech.ai--control-of-ai-abuse,tech.ai,2,3,1,1,0,0,0,,staged,0
-tech.ai--development-of-national-regional-ai-systems,tech.ai,2,4,1,1,1,0,0,,staged,0
-tech.ai--use-of-ai-in-government-administration,tech.ai,2,5,2,1,2,0,1,no-development,staged,0
-tech.ai--use-of-ai-in-sectoral-management-information-systems,tech.ai,2,6,1,1,0,0,1,off-topic,staged,0
-tech.industry--national-capacity-in-dt-related-production,tech.industry,2,11,2,1,0,1,0,,staged,1
-tech.innovate--tech-startup-ecosystem,tech.innovate,2,11,3,1,2,0,0,,staged,0
-tech.innovate--technology-hubs,tech.innovate,2,7,2,1,1,0,0,,staged,0

@@ -1,6 +1,0 @@
-indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
-data.statistics--national-strategy-for-development-of-statistics,National statistics,2,15,3,1,2,5,1,not-primary,staged,2
-data.satellite--agricultural-use-of-satellite-data,Use of satellite data,2,33,3,1,1,5,2,out-of-scope headline-only-stub,staged,0
-data.satellite--meteorological-use-of-satellite-data,Use of satellite data,2,22,3,1,1,6,1,out-of-scope,staged,0
-geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,US / hyperscaler activities,2,24,5,1,2,5,2,unfetchable headline-only-stub,staged,0
-geopol.india--india-mous-engagements-and-commitments,India activities,2,22,3,1,2,7,1,out-of-scope,staged,0

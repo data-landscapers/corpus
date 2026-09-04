@@ -98,7 +98,8 @@ EXCHANGE = Path(os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer"))
 # CSV, claimed no queue cell — and reported success with `is_error: false`. Nothing but
 # the file checks caught it, and it would have repeated on every country.
 PROMPT = (
-    "Read C:\\CORPUS\\PROGRESS-FILLER.md and run that procedure for {iso}, end to end, "
+    "Read C:\\CORPUS\\documentation\\archived\\PROGRESS-FILLER.md and run that "
+    "procedure for {iso}, end to end, "
     "including every finishing step in section 8: lint the staged batch, commit and push "
     "the share, write the note for OSINT, set the {iso} row's '{col}' cell in "
     "logs/progress-report-log.csv to today's date, and write the Corpus log line. "

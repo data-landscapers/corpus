@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gap list for the progress filler — PROGRESS-FILLER.md sec 1.
+"""Gap list for the progress filler — documentation/archived/PROGRESS-FILLER.md sec 1.
 
 The gap set is a set difference: every indicator_id in the frame
 (lookups/indicators.csv) that is absent from a unit's held view

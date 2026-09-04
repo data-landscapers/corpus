@@ -1,4 +1,0 @@
-indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
-include.access--inclusion-of-refugees-and-idps,include.access,2,13,3,1,2,0,0,,staged,4
-dpi.mis--social-protection,dpi.mis,2,13,4,1,2,1,0,,staged,6
-dpi.mis--tax,dpi.mis,2,11,4,1,2,1,0,,staged,6

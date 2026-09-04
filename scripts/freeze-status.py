@@ -44,7 +44,7 @@ ENDS = dt.date(2026, 9, 27)
 # change to a renderer can be report work - and the review counted it as process anyway;
 # splitting it here would make the freeze look better than it is.
 PROCESS = ["documentation", "scripts", "BUILD.md", "RENDER.md", "CYCLE.md", "STATUS-INIT.md",
-           "PROGRESS-FILLER.md", "BULLETIN-TOPUP.md", "CLAUDE.md"]
+           "BULLETIN-TOPUP.md", "CLAUDE.md"]
 REPORT = ["outputs", "site", "content"]
 
 
