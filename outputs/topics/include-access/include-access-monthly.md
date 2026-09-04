@@ -3,13 +3,13 @@ title: Access to services — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: include.access
-places: DZA; AGO; BWA; BDI; CAF; COM; CIV; DJI; COD; EGY; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 8edfb61dfc80
+places: DZA; AGO; BWA; BDI; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 57413ee63162
 ---
 
 # Access to services: monthly update, August 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -56,6 +56,10 @@ On 23 July a state bank and the payroll monitoring committee settled the technic
 ## Egypt
 
 The month's clearest inclusion move was a reopening rather than an extension. From 24 July the state accepted ration-card grievance and data-update forms at 500 post offices on Friday afternoons and Saturday mornings, alongside the online route that had until then been the only channel for appeals against the 2026 eligibility criteria, with a daily adjudication committee, results notified by text message and every case checked against official databases.
+
+## Equatorial Guinea
+
+The refugee agency's rights mapping put an absence on the record this month: [Equatorial Guinea has acceded to the refugee treaties and enacted no domestic status determination law](https://rimap.unhcr.org/countries/equatorial-guinea), so no registration or documentation system follows from one. It sits alongside the state's own periodic review report, which [names no disability statute either](https://upr-info.org/sites/default/files/country-document/2025-04/A_HRC_WG.6_47_GNQ_1.pdf).
 
 ## Eritrea
 

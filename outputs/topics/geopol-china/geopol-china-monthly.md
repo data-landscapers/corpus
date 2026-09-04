@@ -3,13 +3,13 @@ title: China activities — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: geopol.china
-places: DZA; BWA; BFA; TCD; KEN; NER; NGA; SEN; SSD; SDN; ZMB; ZWE
-record: d114535336fd
+places: DZA; BWA; BFA; TCD; GMB; KEN; NER; NGA; SEN; SSD; SDN; ZMB; ZWE
+record: 77d424cee2e0
 ---
 
 # China activities: monthly update, August 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The month's only Chinese item is an approach rather than an agreement: the commu
 ## Chad
 
 The financing that did arrive in the window came from one partner. Chad and China [signed two grant agreements totalling 300 million yuan, in tranches of 100 million and 200 million that the minister of state called immediately mobilisable](https://ecomatin.net/le-tchad-obtient-25-milliards-fcfa-de-la-chine-pour-booster-ses-infrastructures-le-numerique-et-la-formation), for infrastructure and social development with digital technologies supported alongside; and earlier in the week the Chinese ambassador [announced 5,000 scholarships in technology and artificial intelligence](https://camerpressagency.com/tchad-chine-lambition-numerique-se-concretise/). Neither carries a project list, a digital allocation or a timetable, and the local-currency equivalents in circulation differ between outlets on their own conversion dates.
+
+## Gambia
+
+Chinese engagement remained visible as training rather than infrastructure. The embassy [announced twenty-five further Gambians travelling to China in September under ministry grants, with a vocational workshop and a laboratory planned](https://standard.gm/chinese-embassy-stages-welcome-for-returning-gambian-graduates/). The broadband and fifth-generation work the ambassador [named in 2023](https://gm.china-embassy.gov.cn/eng/sgxw/202310/t20231018_11163300.htm) still carries no contract, value or date.
 
 ## Kenya
 

@@ -3,13 +3,13 @@ title: Energy — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: infra.energy
-places: BWA; BDI; CAF; COM; ETH; GHA; KEN; LSO; MDG; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
-record: 9051476a5a30
+places: BWA; BDI; CAF; COM; ETH; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
+record: 6f7e2e7f2732
 ---
 
 # Energy: monthly update, August 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -48,6 +48,10 @@ The distributor put a limit on the energy transition in public. On 11 August KPL
 ## Lesotho
 
 The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the base holds nothing that tests them.
+
+## Libya
+
+The utility [fired the first of four units at a new South Tripoli plant on 28 August, toward 1,320 MW of added capacity](https://ar.libyaobserver.ly/article/38496). It follows a [failure in July that lost 1,350 MW and darkened most of the country](https://alwasat.ly/news/libya/525055), blamed on a tripped 400kV line. The standing policy for Libyan data centres asks for [99.9 per cent power uptime and twenty-four hours of fuel](https://nissa.gov.ly/main-services/physical-security-policy/).
 
 ## Madagascar
 

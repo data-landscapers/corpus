@@ -3,13 +3,13 @@ title: Standards — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 44c547cf1ffe
+places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: 9154b37851fe
 ---
 
 # Standards: monthly update, August 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -58,6 +58,10 @@ Asked on 4 August how online publications comply with the data-protection law, t
 ## Gabon
 
 Service quality is the one obligation the base cannot show being enforced. Reporting of 25 August 2026 states that at a departmental capital, a commune since 1996 with a prefecture, town hall and schools, [the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator's inaction to the president of its regulatory council](https://depeches241.com/?p=29909). No quality-of-service determination, decision or sanction is published, which is why the row stands here as ***Not held***.
+
+## Gambia
+
+The standards bureau's position was restated from both ends this month. Its director general put adoptions at [around 500 standards, alongside membership of the African standards organisation](https://thepoint.gm/africa/gambia/headlines/iso-secretary-general-visits-gambia-to-deepen-partnership), while the international body's own profile records the bureau as a [Correspondent member without a vote at the standards and electrotechnical organisations, and the country's technical-barriers enquiry point](https://www.iso.org/member/576505.html). A correspondent member may adopt standards; it does not help make them.
 
 ## Guinea
 

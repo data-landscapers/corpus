@@ -3,13 +3,13 @@ title: Rural digital data capture — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; MWI; MLI; MUS; NGA; SLE; TGO; ZMB; ZWE
-record: d1c732ca881c
+places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SLE; TGO; ZMB; ZWE
+record: f70825ce11de
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -42,6 +42,10 @@ The first rural digital service to reach farmers this month was a private one ca
 ## Lesotho
 
 Two movements reached rural service points from opposite directions. Thirty [SMS-based birth registration stations were established in government and church health facilities across Maseru, Berea and Leribe on 5 August](https://www.linkedin.com/posts/unicef-lesotho_foreverychild-digitaltransformation-activity-7490765967325597697-36h5), putting the capture point in the clinic rather than the registry office and on a text message rather than a terminal. Days earlier the universal service fund [opened procurement for Wi-Fi and network equipment at police stations across all ten districts](https://lca.org.ls/wp-content/uploads/2026/07/RFP-POLICE-STATIONS-WI-FI-PROJECT-31-JULY-2026_final-.pdf).
+
+## Libya
+
+The renewable energy authority's off-grid programme is now on the record at [400 solar systems, 310 kW peak, for remote clusters and border posts](https://reaol.ly/index.php/portfolio/pro1/). It is power rather than connectivity, and it is the largest counted state provision outside the cities the base holds; the other reaches beyond the capital this year are [15 sentinel disease surveillance sites](https://ncdc.org.ly/Ar/29_9_2025-2/) and a [police station records system launched in Tripoli](https://lana.gov.ly/post.php?id=347992&lang=ar).
 
 ## Malawi
 

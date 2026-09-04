@@ -3,19 +3,23 @@ title: Gulf/UAE activities — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: geopol.gulf
-places: BWA; KEN; ZWE
-record: b60424190785
+places: BWA; GMB; KEN; ZWE
+record: cadf247df12e
 ---
 
 # Gulf/UAE activities: monthly update, August 2026
 
-*3 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 
 The heads of agreement behind the data centre are unchanged, and the [operator's quarterly account of 3 August does not name the counterparty](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It remains the only source of its kind the base holds for Botswana at any date.
+
+## Gambia
+
+Gulf involvement is now on the record in two forms, neither carrying a figure. The Islamic Development Bank's own sector page records it [financing the regional fibre backbone reaching The Gambia alongside two other lenders, with no date or sum given](https://www.isdb.org/sectors/ict), and a Bahraini firm's [January memorandum with the regulator offers a free critical-infrastructure security tier with no value or duration stated](https://pura.gm/press-release-ctm360-partners-with-pura-to-strengthen-the-gambias-national-cybersecurity-resilience/).
 
 ## Kenya
 

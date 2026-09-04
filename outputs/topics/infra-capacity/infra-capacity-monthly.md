@@ -3,13 +3,13 @@ title: Technical Capacity — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: infra.capacity
-places: BDI; GHA; KEN; MOZ; RWA; SEN; ZAF
-record: b445ff86a7a0
+places: BDI; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF
+record: e4098439b59d
 ---
 
 # Technical Capacity: monthly update, August 2026
 
-*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ The cable inventory did not move; what moved is the base's reading of it. The re
 ## Kenya
 
 Two capacity items advanced without a figure attached to either. Nationwide broadcast-logger deployment is complete with a monitoring room at the regulator's centre, [joint regulator training concluding on 27 July](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/), with no cost, coverage or channel-count disclosed. The advanced science and technology institute has its charter issued and its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/), with no allocation for the year disclosed and no commitment amount stated.
+
+## Libya
+
+The regulator's move to license data centres and cloud services is still at workshop stage, [with storage firms operating unpermitted when it was floated in February](https://lana.gov.ly/post.php?id=351103&lang=ar). What arrived instead is a private certification: [tier III design status for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=). Certification by a foreign body is standing in for a domestic licence that does not yet exist.
 
 ## Mozambique
 

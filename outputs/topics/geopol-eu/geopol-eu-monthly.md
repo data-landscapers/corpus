@@ -3,15 +3,23 @@ title: EU activities — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: geopol.eu
-places: KEN; MWI; MLI; MAR; NGA
-record: a10871b86b4f
+places: GNQ; GMB; KEN; MWI; MLI; MAR; NGA
+record: c3e5526f6de4
 ---
 
 # EU activities: monthly update, August 2026
 
-*5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Equatorial Guinea
+
+The Commission's own country page states the position plainly: [no European Union delegation and no country programme for Equatorial Guinea, with ties run from a neighbouring capital](https://international-partnerships.ec.europa.eu/countries/equatorial-guinea_es). European engagement remains bilateral and unresolved — the President [pressed Spain in October to return funds after a ten-year delay on a stalled digital terrestrial television project](https://www.guineaecuatorialpress.com/noticias/audiencia_presidencial_con_jorge_moragas_encargado_de_negocios_de_la_embajada_de_espa%C3%B1a).
+
+## Gambia
+
+The Commission's country page sets the frame at [EUR 193m of grants for 2021-2027, with digitalisation named as one clause under jobs and growth](https://international-partnerships.ec.europa.eu/countries/gambia_en), so the digital share remains unstated. The delivered items are smaller and dated: a [EUR 493,346 platform tracking 237 national development plan indicators](https://www.eeas.europa.eu/delegations/gambia/european-union-supports-digital-tracking-system-boost-transparency-gambia_en) and the [fingerprint identification system launched in May](https://www.eeas.europa.eu/delegations/gambia/gambia-launches-automated-fingerprint-identification-system-afis-strengthen-criminal-investigations_en).
 
 ## Kenya
 

@@ -3,13 +3,13 @@ title: Strategies, plans and policies — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: gov.policy
-places: BFA; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 780521c05e56
+places: BFA; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 722948f5e854
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -59,6 +59,10 @@ The connectivity side of that framework acquired numbers in August. The universa
 
 The month's largest single transaction was spectrum: [410 MHz awarded across 1.8, 2.6 and 3.5 GHz for US$3.5bn](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos), doubling operator holdings at once, which the minister said matches all spectrum allocated in Egypt over the previous thirty years. The strategy behind it is not held; [Egypt refarmed 2.6 GHz for 5G rather than licensing dedicated mid-band](https://www.ookla.com/articles/5g-north-africa-2026), and set no coverage or speed obligations. Service coverage stands at [242 services, over 270 targeted by end-2026](https://gate.ahram.org.eg/News/5814629.aspx), and a [national data-centre strategy is under preparation](https://gate.ahram.org.eg/News/5722522.aspx) around data localisation, with no publication date or draft text held.
 
+## Equatorial Guinea
+
+Two plans and no strategy is still the position. The transport ministry's [half-year plan sets the country's first published broadband target, 85 per cent coverage through 34 new towers by the end of 2026](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_transportes_presenta_su_plan_semestral_para_fortalecer_la_conectividad_terrestre_postal_y_digital), and a [World Bank team opened a four-day session in Malabo in early September to finalise a national digital economy strategy](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_telecomunicaciones_acelera_la_transformacion_digital_con_el_respaldo_del_grupo_banco_mundial) — on a diagnostic that found [no interoperability framework and no digital skills data held](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt).
+
 ## Eswatini
 
 The National Data Governance Policy is still being written. The ICT minister [told the Senate it is targeted for completion before the end of 2026, with government undecided between a standalone instrument and a broader one](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy). The text is not published and no adoption date is given; being undecided on the instrument's form is itself a statement about how far the drafting has got.
@@ -77,6 +81,10 @@ The wider reform the digital pillar sits in reached validation on 12 August: a [
 ## Guinea
 
 The legislature acquired a standing counterpart to all of this: the National Assembly's ICT committee [held its first working session on 7 August and named mobile money, social-media regulation and network security as its priorities](https://www.avenirguinee.org/2026/08/07/reseaux-sociaux-mobile-money-ntic-les-priorites-de-la-commission-communication-de-lan-devoilees/), to be worked in coordination with the telecommunications ministry; no work programme or timetable is published. A [presidential decree of 27 July 2026 reshuffled the transition government](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/), keeping Mourana Soumah at the Ministère de la Communication, de l'Économie numérique et de l'Innovation, which he has held since the February 2026 merger. Djenabou Touré takes Administration du Territoire et de la Décentralisation, the ministry supervising ONECI and the biometric civil-registration programme; a Djenabou Touré was director-general of elections and attended the ONECI signing three days earlier, and the source does not confirm they are the same person. A World Bank tender published the same week still names the predecessor department, MPTEN, as supervising WARDIP.
+
+## Guinea-Bissau
+
+The national digitalisation programme [launched nationally in August, at US$60m, covering connectivity, data protection, the digital economy and electronic government](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/). It is the delivery vehicle the 2025-2030 strategy has lacked, and it arrives with a fund plan behind it: the [2026-2031 strategic and financing plan for the universal access fund](https://wardip.gw/plano-estrategico-do-fundo-de-acesso-e-servicos-universais-2026-2031-consultoria-salience-2025/), delivered in May after a review recommended restructuring the fund itself.
 
 ## Kenya
 
