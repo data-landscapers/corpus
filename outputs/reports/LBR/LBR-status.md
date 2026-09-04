@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 141
+sources_cited: 150
 sections_written: 37
 not_established: 3
 acquire_lines: 60
@@ -355,9 +355,11 @@ The right to ask rests on the Freedom of Information Act 2010, whose [Independen
 
 ### Use of satellite data
 <!-- data.satellite -->
+Liberia now has a satellite ground receiving station: [the Meteorological Service installed a CLIMSA/PUMA2025 Meteosat Third Generation system at Roberts International Airport on 24 October 2025, EU-funded and fitted under African Union Commission contract, receiving model data and high-resolution imagery](https://meteoliberia.com/news/liberia-meteorological-service-lms-installs-climsapuma2025-meteosat-third-generation-system-at-the-robert-international-airport/). The observing network beneath it has not moved: the country's own contribution plan records [no compliant surface stations, one operational staffed station and no transmission to the global system, with the earlier reception workstation underused for want of power and connectivity](https://www.un-soff.org/wp-content/uploads/2024/12/Liberia_GBON-National-Contribution-Plan.pdf) (2024).
 
-Earth observation reaches Liberian government mainly through the land sector, where the Land Authority is [digitising Monrovia's hand-drawn cadastral maps and has signed for an integrated land information system](https://lla.gov.lr/index.php/publications/news-article/item/65-liberia-land-authority-and-south-korean-partners-signed-landmark-mou-to-develop-liberia-land-information-system) (2025). Agriculture, the domain where imagery would most obviously stand in for ground survey, remains [the weakest data category Liberia scores at all in the 2024 Open Data Inventory](https://odin.opendatawatch.com/data). No national space agency, ground receiving station or space and geospatial data policy had been established as at August 2026.
+Imagery is used most systematically in forestry rather than land administration. Liberia's [second forest reference level, submitted to the UNFCCC in January 2026, reads a four-kilometre systematic sample of 5,990 plots from Sentinel-2, Landsat, MODIS and Planet imagery for 2020-2024, with cropland as an explicit class](https://redd.unfccc.int/media/final_lib_frl2_january_2026.pdf). Agriculture is catching up on two tracks: the agriculture regulator's [traceability plan for cocoa, coffee, rubber and palm oil puts farm-level geolocation behind the EU deforestation regulation, with a 2020 forest-cover map and a 2000-2024 change analysis completed and at least US$530,000 committed](https://liberianinvestigator.com/lacra-traceability-plan-eu-deforestation-rules-eudr/) (January 2026), and a [nationwide soil mapping campaign began in Bong County in May 2026, ground-sampled, with national suitability, fertility and land-cover maps and a first digital soil information centre as its output](https://moa.gov.lr/media/press-releases/liberia-launches-historic-nationwide-soil-mapping-campaign-drive-agricultural).
 
+In land administration the Land Authority is [digitising Monrovia's hand-drawn cadastral maps and has signed for an integrated land information system](https://lla.gov.lr/index.php/publications/news-article/item/65-liberia-land-authority-and-south-korean-partners-signed-landmark-mou-to-develop-liberia-land-information-system) (2025). No national space agency and no space or geospatial data policy had been established as at August 2026.
 ## Geopolitics
 
 ### US / hyperscaler activities
@@ -376,9 +378,11 @@ No Chinese-financed digital infrastructure, network-equipment supply or bilatera
 
 ### EU activities
 <!-- geopol.eu -->
+The European Union's one Liberia-specific treaty instrument turns on a database, and the Commission has moved to end it. Under the FLEGT voluntary partnership agreement Liberia undertook to build a legality assurance system and a timber chain-of-custody database, whose [rollout plan and milestone grid to 2018 the second joint implementation committee adopted in June 2015](https://flegtvpafacility.org/wp-content/uploads/2022/05/2-Liberia-JIC-aide-memoire-annexes.pdf). The licensing target then slipped across successive meetings: the fourth committee [recorded that in some areas the work was not on track](https://flegtvpafacility.org/wp-content/uploads/2022/05/4-Liberia-JIC-aide-memoire-annexes.pdf) (September 2016) and the fifth [put licensing as then targeted for 2020](https://flegtvpafacility.org/wp-content/uploads/2022/05/5-Liberia-JIC-aide-memoire-annexes.pdf) (April 2017). In [September 2025 the Commission proposed terminating the agreement after a decade without an operative licensing scheme](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52025PC0467) - a proposal, not an adopted termination.
 
-[Liberia's National Port Authority signed a smart-ports memorandum of understanding with the French port operator HAROPA in July 2026](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/) to digitise state port operations. The other European party in the digital estate is a vendor rather than a donor: [the national identity rollout runs as a concession under which OSD finances enrolment and card issuance and later transfers the system to government](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd), which President Boakai chose over a conventional procurement (August 2026). Both are commercial arrangements with individual European firms; no European Union financing programme, adequacy finding or GDPR-alignment arrangement was on the record for Liberia as at August 2026.
+EU money does reach Liberian digital infrastructure, through a continental programme rather than a bilateral one: the [Meteosat Third Generation receiving station installed at Roberts International Airport in October 2025 was EU-funded under ClimSA and fitted under African Union Commission contract](https://meteoliberia.com/news/liberia-meteorological-service-lms-installs-climsapuma2025-meteosat-third-generation-system-at-the-robert-international-airport/).
 
+The other European parties in the digital estate are commercial. [Liberia's National Port Authority signed a smart-ports memorandum of understanding with the French port operator HAROPA in July 2026](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/) to digitise state port operations, and [the national identity rollout runs as a concession under which OSD finances enrolment and card issuance and later transfers the system to government](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd), which President Boakai chose over a conventional procurement (August 2026). No adequacy finding or GDPR-alignment arrangement was on the record for Liberia as at August 2026.
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
 
