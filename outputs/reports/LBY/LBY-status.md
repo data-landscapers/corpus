@@ -1,6 +1,6 @@
 ---
 title: Libya — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-08-25
 place: LBY
 region: XNA
 built_by: STATUS-INIT
