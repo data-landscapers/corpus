@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 04-09-2026 at 08:26 — Covering sources published on 3 and 4 September 2026
 window_start: 2026-09-03
 window_end: 2026-09-04
-items: 43
+items: 53
 collected_to: 2026-09-04 08:26
 compiled: 2026-09-04 07:43
 ---
@@ -27,6 +27,8 @@ compiled: 2026-09-04 07:43
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 <div class="bulletin-filter screen-only" hidden>
@@ -48,6 +50,7 @@ compiled: 2026-09-04 07:43
 <option value="GMB">Gambia</option>
 <option value="GHA">Ghana</option>
 <option value="KEN">Kenya</option>
+<option value="LBY">Libya</option>
 <option value="MWI">Malawi</option>
 <option value="MAR">Morocco</option>
 <option value="NGA">Nigeria</option>
@@ -71,6 +74,14 @@ compiled: 2026-09-04 07:43
 **[The Wholesale Broadband Market: Open Access, Pricing Battles, and the Future of Competition](https://www.telecomreviewafrica.com/articles/features/29152-the-wholesale-broadband-market-open-access-pricing-battles-and-the-future-of-competition/)** — Africa Telecom Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 A trade analysis argues that African broadband is now shaped less by how much fibre is laid than by wholesale economics: who may sell capacity, who benefits from infrastructure, and at what price. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="GMB" markdown="1">
+
+**[The Gambia - International Partnerships - European Commission](https://international-partnerships.ec.europa.eu/countries/gambia_en)** — European Commission, Directorate-General for International Partnerships, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+The European Commission programmes EUR 193m of grants for The Gambia over 2021-2027, with digitalisation named only as one clause under jobs and growth. The digital share is not stated, against delivered items that are smaller and specific. <span class="bulletin-item__also">*Also under [EU activities](#eu-activities) and [New investments](#new-investments).*</span>
 
 </div>
 
@@ -136,6 +147,22 @@ The UN Economic and Social Commission for Western Asia and Morocco's minister fo
 
 ### Standards
 
+<div class="bulletin-item" data-places="LBY" markdown="1">
+
+**[Uptime Institute — KM-4 Data Center, Libyan International Telecom Company](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=)** — Uptime Institute, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+A tier III design certification is recorded for the Libyan national telecom company's KM-4 site, the first independent assessment of a Libyan facility the base holds. It certifies design rather than construction or operation, and no capacity figures are disclosed. <span class="bulletin-item__also">*Also under [Data Storage](#data-storage).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="GMB" markdown="1">
+
+**[ISO - TGSB - The Gambia Standards Bureau](https://www.iso.org/member/576505.html)** — International Organization for Standardization, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+The Gambia Standards Bureau holds Correspondent, non-voting status at the international standards and electrotechnical organisations, and is the country's technical-barriers enquiry point. A correspondent member may adopt standards; it does not help make them.
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
 
 **[Gabon Puts Forward Its Candidacy for the ITU Council](https://techafricanews.com/2026/09/03/gabon-presents-its-candidacy-for-the-international-telecommunication-union-itu-council/)** — Tech Africa News, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a>
@@ -145,6 +172,14 @@ Summarised under [Regional collaboration](#regional-collaboration).
 </div>
 
 ### Public debate and participation in policymaking
+
+<div class="bulletin-item" data-places="LBY" markdown="1">
+
+**[منصة رقيب للشكاوي والبلاغات](https://raqeb.aca.gov.ly/)** — هيئة الرقابة الإدارية, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+Libya's administrative oversight authority has a live complaints and reporting platform covering about 750 reportable state bodies. It launched at a Tripoli anti-corruption event in December 2025; no count of reports received or resolved is published. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="XAF" markdown="1">
 
@@ -232,6 +267,14 @@ The Korea-Africa Economic Cooperation partnership will put artificial intelligen
 
 </div>
 
+<div class="bulletin-item" data-places="GMB" markdown="1">
+
+**[Information & Communications Technology | Sectors | IsDB](https://www.isdb.org/sectors/ict)** — Islamic Development Bank, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+The Islamic Development Bank records financing the regional fibre backbone reaching The Gambia, alongside two other lenders. No date or sum is given, so the scale of the contribution cannot be stated. <span class="bulletin-item__also">*Also under [Gulf/UAE activities](#gulfuae-activities) and [Connectivity](#connectivity).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="NGA" markdown="1">
 
 **[CardinalStone Finance — Nomba cross-border payments debt facility, 2026](https://techcabal.com/2026/09/03/nomba-raises-3-million/)** — TechCabal, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
@@ -248,9 +291,25 @@ Askya Investment Partners opened a free support programme for African artificial
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="GMB" markdown="1">
+
+**[The Gambia - International Partnerships - European Commission](https://international-partnerships.ec.europa.eu/countries/gambia_en)** — European Commission, Directorate-General for International Partnerships, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
 ## ICT Infrastructure
 
 ### Connectivity
+
+<div class="bulletin-item" data-places="LBY" markdown="1">
+
+**[باقات إنترنت الهاتف المحمول](https://almadar.ly/ar/Pages/Tawasul/Services/Netpackages.aspx)** — شركة المدار الجديد (Almadar Aljadid), Libya, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+A Libyan operator's live retail tariff card runs from 0.5 dinars for 50MB over one day to 80 dinars for 80GB over thirty. Libya publishes no regulated price basket, so operator cards are the only evidence of what data costs there. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="XAF" markdown="1">
 
@@ -324,11 +383,47 @@ Summarised under [MoUs and other agreements](#mous-and-other-agreements).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="GMB" markdown="1">
+
+**[Information & Communications Technology | Sectors | IsDB](https://www.isdb.org/sectors/ict)** — Islamic Development Bank, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
 **[East Africa shows why Africa's digital future will be decided inland](https://www.itweb.africa/article/east-africa-shows-why-africas-digital-future-will-be-decided-inland/xA9POvNE2pDqo4J8)** — ITWeb Africa, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+### Data Storage
+
+<div class="bulletin-item" data-places="MAR" markdown="1">
+
+**[Prestations et Produits Réglementés](https://www.dgssi.gov.ma/fr/prestations-et-produits-reglementes/)** — Direction Générale de la Sécurité des Systèmes d'Information (DGSSI), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MAR/" title="MAR">Morocco</a>
+
+Morocco's information security directorate publishes its register of regulated providers: audit and incident-response firms are listed, and no qualified cloud provider yet is. The gap matters for a state building government cloud capacity.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+
+**[Uptime Institute — KM-4 Data Center, Libyan International Telecom Company](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=)** — Uptime Institute, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+Summarised under [Standards](#standards).
+
+</div>
+
+### Energy
+
+<div class="bulletin-item" data-places="LBY" markdown="1">
+
+**[مشروع كهربة المناطق النائية باستخدام منظومات الخلايا الشمسية](https://reaol.ly/index.php/portfolio/pro1/)** — جهاز الطاقات المتجددة (Renewable Energy Authority of Libya, REAOL), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+Libya's renewable energy authority sets out its off-grid programme: 400 solar systems at 310 kW peak, serving remote population clusters and border posts. It is the largest counted state provision outside the cities the base holds for the country. <span class="bulletin-item__also">*Also under [Rural digital data capture](#rural-digital-data-capture) and [Digital divides](#digital-divides).*</span>
 
 </div>
 
@@ -452,6 +547,16 @@ Summarised under [MoUs and other agreements](#mous-and-other-agreements).
 
 </div>
 
+### Registries
+
+<div class="bulletin-item" data-places="MAR" markdown="1">
+
+**[Autres demandes](https://portail.tax.gov.ma/wps/portal/DGI/Vos-impots-procedures/Autres-demandes)** — Direction Générale des Impôts (DGI), Royaume du Maroc, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MAR/" title="MAR">Morocco</a>
+
+Morocco's tax directorate publishes two online routes to obtaining a tax identifier, which is registration as a service rather than a counter visit. The Fund attributes a 2025 tax take of 24.6 per cent of national output to the full digitalisation of collection.
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="bulletin-item" data-places="ZAF" markdown="1">
@@ -485,6 +590,14 @@ The state operator CAMTEL signed a framework agreement on 2 September with the a
 **[Africa urged to put leadership at centre of public sector reforms](https://www.the-star.co.ke/news/2026-09-03-africa-urged-to-put-leadership-at-centre-of-public-sector-reforms)** — The Star (Kenya), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
 The African Capacity Building Foundation argued that sound policies and public financial management reforms are failing at implementation because of leadership gaps, institutional fragmentation and resistance to change. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+
+**[منصة رقيب للشكاوي والبلاغات](https://raqeb.aca.gov.ly/)** — هيئة الرقابة الإدارية, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
@@ -531,6 +644,14 @@ Summarised under [Regional collaboration](#regional-collaboration).
 ## Digitalisation
 
 ### Rural digital data capture
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+
+**[مشروع كهربة المناطق النائية باستخدام منظومات الخلايا الشمسية](https://reaol.ly/index.php/portfolio/pro1/)** — جهاز الطاقات المتجددة (Renewable Energy Authority of Libya, REAOL), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+Summarised under [Energy](#energy).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="COD" markdown="1">
 
@@ -710,6 +831,16 @@ Summarised under [AI](#ai).
 
 ## Capacity
 
+### Literacy
+
+<div class="bulletin-item" data-places="GMB" markdown="1">
+
+**[Information, Technology & Communications – University Of The Gambia](https://www.utg.edu.gm/schools-faculties/itc/)** — University of The Gambia, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+The University of The Gambia's technology school offers three bachelor's degrees plus six-month diplomas in artificial intelligence, cybersecurity and data science. It is the widest named domestic provision the base holds for the country. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+
+</div>
+
 ### Training and skills
 
 <div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
@@ -717,6 +848,14 @@ Summarised under [AI](#ai).
 **[MTN Ghana and University of Ghana Partner to Drive Digital Innovation Through Hackathon](https://techafricanews.com/2026/09/03/mtn-ghana-and-university-of-ghana-partner-to-drive-digital-innovation-through-hackathon/)** — Tech Africa News, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
 
 Summarised under [Innovation ecosystem](#innovation-ecosystem).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GMB" markdown="1">
+
+**[Information, Technology & Communications – University Of The Gambia](https://www.utg.edu.gm/schools-faculties/itc/)** — University of The Gambia, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+Summarised under [Literacy](#literacy).
 
 </div>
 
@@ -756,6 +895,22 @@ MTN Zambia added the Alola Max 2 and Alola 5G to its low-cost handset range, pri
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+
+**[منصة رقيب للشكاوي والبلاغات](https://raqeb.aca.gov.ly/)** — هيئة الرقابة الإدارية, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+
+**[باقات إنترنت الهاتف المحمول](https://almadar.ly/ar/Pages/Tawasul/Services/Netpackages.aspx)** — شركة المدار الجديد (Almadar Aljadid), Libya, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
 
 **[MTN pushes mobile money beyond payments](https://www.itweb.africa/article/mtn-pushes-mobile-money-beyond-payments/PmxVEMKEYaAvQY85)** — ITWeb Africa, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
@@ -773,6 +928,14 @@ Summarised under [Connectivity](#connectivity).
 </div>
 
 ### Digital divides
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+
+**[مشروع كهربة المناطق النائية باستخدام منظومات الخلايا الشمسية](https://reaol.ly/index.php/portfolio/pro1/)** — جهاز الطاقات المتجددة (Renewable Energy Authority of Libya, REAOL), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
+
+Summarised under [Energy](#energy).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
@@ -795,5 +958,27 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[MTN Zambia Launches Alola Max 2 and Alola 5G Smartphones to Expand Digital Access](https://techafricanews.com/2026/09/03/mtn-zambia-launches-alola-max-2-alola-5g-expand-digital-access/)** — Tech Africa News, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a>
 
 Summarised under [Access to services](#access-to-services).
+
+</div>
+
+## Geopolitics
+
+### EU activities
+
+<div class="bulletin-item bulletin-item--xref" data-places="GMB" markdown="1">
+
+**[The Gambia - International Partnerships - European Commission](https://international-partnerships.ec.europa.eu/countries/gambia_en)** — European Commission, Directorate-General for International Partnerships, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+### Gulf/UAE activities
+
+<div class="bulletin-item bulletin-item--xref" data-places="GMB" markdown="1">
+
+**[Information & Communications Technology | Sectors | IsDB](https://www.isdb.org/sectors/ict)** — Islamic Development Bank, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+Summarised under [New investments](#new-investments).
 
 </div>
