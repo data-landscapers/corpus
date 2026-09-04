@@ -235,16 +235,35 @@ def tally(path: Path) -> dict:
     return out
 
 
-def lint_staged(iso: str) -> tuple[bool, str]:
-    """§5's four staging checks, over this country's folder only."""
+def lint_staged(iso: str) -> tuple[str, str]:
+    """§5's four staging checks, over this country's folder only.
+
+    **A linter that did not run is not a batch finding, and the two used to be one
+    signal.** `lint-staged-queue.py` exits 0 clean and 1 on findings; any other code
+    means it never got as far as reading a file. On 2026-09-04 it exited 3221225794
+    (`STATUS_DLL_INIT_FAILED`, the Windows loader giving up under process pressure)
+    over TUN's batch, which read as a lint failure, which read as PROBLEM, which kept
+    TUN out of `done_recently` and bought it a fourth full session — for a batch three
+    passes had already found clean. **The remedy has to match the fault**: re-running
+    a country's session cannot start a linter that will not start, so a did-not-run is
+    retried here, once, and where it still will not run it is reported as the
+    environment fault it is rather than condemning the batch.
+
+    Returns `clean` / `findings` / `did-not-run`, which the caller grades differently."""
     folder = EXCHANGE / "new-queue" / iso
     if not folder.is_dir():
-        return True, "nothing staged"
-    p = subprocess.run(
-        [sys.executable, str(CORPUS / "scripts" / "lint-staged-queue.py"), str(folder)],
-        capture_output=True, text=True, cwd=str(CORPUS), errors="replace")
-    tail = (p.stdout or p.stderr or "").strip().splitlines()
-    return p.returncode == 0, (tail[-1][:200] if tail else f"exit {p.returncode}")
+        return "clean", "nothing staged"
+    for attempt in (1, 2):
+        p = subprocess.run(
+            [sys.executable, str(CORPUS / "scripts" / "lint-staged-queue.py"), str(folder)],
+            capture_output=True, text=True, cwd=str(CORPUS), errors="replace")
+        tail = (p.stdout or p.stderr or "").strip().splitlines()
+        msg = tail[-1][:200] if tail else f"exit {p.returncode}"
+        if p.returncode in (0, 1):
+            return ("clean" if p.returncode == 0 else "findings"), msg
+        if attempt == 1:
+            time.sleep(5)                   # a loader failure is usually a passing squall
+    return "did-not-run", f"exit {p.returncode} on two attempts — the linter never ran"
 
 
 def staged_counts(iso: str) -> tuple[int, int]:
@@ -415,7 +434,7 @@ def run_one(iso: str, a) -> dict:
         err = err or str(result.get("result", "session reported an error"))[:200]
 
     # What the session said, then what is on disk. Only the second decides the verdict.
-    lint_ok, lint_msg = lint_staged(iso)
+    lint_status, lint_msg = lint_staged(iso)
     base_files, prog_files = staged_counts(iso)
     cell = claimed(iso)
 
@@ -430,7 +449,8 @@ def run_one(iso: str, a) -> dict:
         verified = csv_path is not None
     t = tally(csv_path) if csv_path else {}
 
-    problems = []
+    problems = []      # a re-run could fix it, so it re-queues the country
+    warnings = []      # real, reported, but a re-run is not the remedy
     if err:
         problems.append(err)
     if not cell:
@@ -441,8 +461,11 @@ def run_one(iso: str, a) -> dict:
         problems.append(f"run CSV unreadable: {t['error']}")
     elif not t.get("probed"):
         problems.append("run CSV is empty — no gap was probed")
-    if not lint_ok:
+    if lint_status == "findings":
         problems.append(f"lint-staged-queue: {lint_msg}")
+    elif lint_status == "did-not-run":
+        warnings.append(f"lint-staged-queue did not run: {lint_msg} — batch unlinted "
+                        f"by the driver; the session's own §8.1 run stands")
     if (t.get("baseline", 0) + t.get("progress", 0)) and not (base_files + prog_files):
         problems.append("run CSV counts staged files that are not on disk")
     stuck = share_settled(iso)
@@ -470,7 +493,7 @@ def run_one(iso: str, a) -> dict:
         "cost_usd": f"{result.get('total_cost_usd', 0):.2f}" if result else "",
         "turns": result.get("num_turns", ""),
         "session_id": result.get("session_id", ""),
-        "problems": "; ".join(problems),
+        "problems": "; ".join(problems + [f"warning: {w}" for w in warnings]),
     }
 
     print(f"--- {iso} {row['verdict']} in {mins:.0f}m — probed {row['probed']}, staged "
@@ -481,6 +504,8 @@ def run_one(iso: str, a) -> dict:
               f"{csv_path.name}", flush=True)
     for pr in problems:
         print(f"    ! {pr}", flush=True)
+    for wn in warnings:
+        print(f"    ~ {wn}", flush=True)
     return row, result
 
 
