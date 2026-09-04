@@ -1,15 +1,15 @@
 ---
 title: Equatorial Guinea — digital transformation and data governance status report
-compiled: 2026-09-02
+compiled: 2026-09-04
 place: GNQ
 ledger_rows: 72
 not_held: 6
-record: fd12a9627d90
+record: c7793ffce86d
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (72 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-04 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (72 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -98,7 +98,7 @@ The two instruments above are the only committed external capital on record, bot
 | ACE submarine cable landing | [Implemented](https://realequatorialguinea.com/tecnologia/gitge-anfitrion-del-36o-encuentro-del-consorcio-ace-sobre-operacion-y-mantenimiento-de-cable-submarino/) | GITGE hosted the 36th ACE operation and maintenance committee, May 2026 |
 | Ceiba-1 and Ceiba-2 submarine cables | [Implemented](https://afr-ix.com/equatorial-guinea-and-cameroon-are-now-more-connected/) | Ceiba-2 inaugurated in 2018, 400 km on the Malabo-Bata-Kribi route |
 | Digital Terrestrial Television project | [In development](https://ahoraeg.com/politica/2026/07/29/el-gobierno-lanza-una-licitacion-publica-para-el-diagnostico-integral-del-proyecto-de-television-digital-terrestre-tdt/) | Tender published for a technical diagnostic and regularisation, 29 July 2026 |
-| Gabon-Equatorial Guinea fibre, roaming and frequency accords | [Implemented](https://techafricanews.com/2025/11/13/historic-fibre-roaming-and-frequency-deals-signed-between-gabon-and-equatorial-guinea/) | Signed at Mongomo, November 2025 |
+| Gabon-Equatorial Guinea fibre, roaming and frequency accords | [Implemented](https://spin.ga/alliance-historique-numerique-gabon-guinee-equatoriale/) | Interconnection of the two national backbones inaugurated at Ebibeyin, 10 November 2025 |
 | GETESA network modernisation | [In development](https://realequatorialguinea.com/sociedad/82111/) | Network contract signed with Huawei, 9 July 2026 |
 | July-December 2026 connectivity plan | [Planned](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes) | Semestral departmental plan presented to the Prime Minister, 15 July 2026 |
 | Medusa submarine cable connection | [Planned](https://realequatorialguinea.com/destacado/politica/guinea-ecuatorial-estudia-conectarse-a-un-nuevo-cable-submarino-para-mejorar-el-internet/) | Analysys Mason study of a landing at Bome or Bata |

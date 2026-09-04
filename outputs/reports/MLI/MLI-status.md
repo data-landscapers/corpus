@@ -1,15 +1,15 @@
 ---
 title: Mali — digital transformation and data governance status report
-compiled: 2026-09-02
+compiled: 2026-09-04
 place: MLI
-ledger_rows: 78
+ledger_rows: 80
 not_held: 4
-record: 8f7a9109c923
+record: a9c20470a77f
 ---
 
 # Mali: status report
 
-*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (78 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-04 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (80 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -56,9 +56,11 @@ A national AI strategy, a data-management law and a national public key infrastr
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| AES data-protection authorities coordination framework (CC-APDP-AES) roadmap | [Implemented](https://www.digitalbusiness.africa/cybersecurite-les-pays-de-laes-signent-une-feuille-de-route-sur-la-protection-des-donnees/) | Roadmap signed by the three confederation authorities, 18 November 2025 |
 | AES protocol on AI governance | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
 | Membership of the African Telecommunications Union board | [Implemented](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) | Re-elected for 2027-2031 at the Abuja plenipotentiary |
 | Smart Africa cooperation | [Implemented](https://techafricanews.com/2026/03/10/mwc-2026-mali-strengthens-digital-cooperation-with-smart-africa/) | Ministerial meeting at MWC 2026 |
+| Withdrawal from ECOWAS | [Implemented](https://www.ecowas.int/wp-content/uploads/2025/01/FINAL_Press-Statement-_-ECOWAS-_-Withdrawal-BURKINA_MALI_NIGER.pdf) | Withdrawal took effect on 29 January 2025 |
 
 ### Public debate and participation in policymaking
 

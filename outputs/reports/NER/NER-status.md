@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-09-02
+compiled: 2026-09-04
 place: NER
-ledger_rows: 64
+ledger_rows: 66
 not_held: 4
-record: bba1e0167d7a
+record: eb80a23fd3a1
 ---
 
 # Niger: status report
 
-*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (64 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-04 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (66 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -52,8 +52,10 @@ The telecommunications regulator is the most active institution on the record. I
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| AES data-protection authorities coordination framework (CC-APDP-AES) roadmap | [Implemented](https://www.digitalbusiness.africa/cybersecurite-les-pays-de-laes-signent-une-feuille-de-route-sur-la-protection-des-donnees/) | Roadmap signed by the three confederation authorities, 18 November 2025 |
 | Algeria and Niger telecommunications cooperation | [Implemented](https://www.actuniger.com/politique/22305-cooperation-niamey-et-alger-reaffirme-leur-engagement-a-concretiser-les-projets-dintegration-africaine.html) | Trans-Saharan projects reaffirmed 2026-08-28 |
 | Identity-system cooperation with Burkina Faso | [Implemented](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) | Technical mission received in Ouagadougou 2026-07-30 |
+| Withdrawal from ECOWAS | [Implemented](https://www.ecowas.int/wp-content/uploads/2025/01/FINAL_Press-Statement-_-ECOWAS-_-Withdrawal-BURKINA_MALI_NIGER.pdf) | Withdrawal took effect on 29 January 2025 |
 
 ### Standards
 
