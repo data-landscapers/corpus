@@ -51,6 +51,7 @@ Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Excise and Preventive Service CFC Consumption of Fixed	236
 F FIXED WIRELESS	14879
 FBB Fixed Broadband FDI Foreign Direct	10781,80,1566,2055
+FIX and Totalsports	16794
 FIXANT LES CONDITIONS D'ETABLISSEMENT ET	10896,10
 FIXANT LES CONDITIONS DE DELIVRANCE ET	15885
 FIXANT LES CONDITIONS DE SECURITE	16651
@@ -116,7 +117,7 @@ Fixation des Conditions	13313
 Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,170,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,170,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -184,6 +185,7 @@ Fixed Links	6946
 Fixed Market Broadcasting Market	12395
 Fixed Minutes International	3862
 Fixed Mobile Convergence	3258
+Fixed Mobile Convergence Core	16809
 Fixed Network	762,2014,3895,9372
 Fixed Network Connectivity Fixed Network Connectivity	12395
 Fixed Network Minute of Use	2776
@@ -321,7 +323,7 @@ Formation Brute de Capital Fixe	9276
 Formation Brute de Capital Fixe FBU	13377
 Frequency Assignments for Non-Protected Fixed Links	6946
 Frequency Assignments for Non-Protected Fixed Links Band	6946
-G Fixed Wireless Access	6100
+G Fixed Wireless Access	6100,10710
 GSM FIXED ISP VAS C&I OTHERS	3862
 Gabon Telecom Fixe GVA GBM Comparativement	15706
 General UI Improvement Minor Bug Fixes	15867

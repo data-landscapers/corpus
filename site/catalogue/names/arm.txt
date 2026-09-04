@@ -2,6 +2,8 @@ ACLED Armed Conflict Location	11887,267,3561
 ACRONYMES AFD ARMP ARTEC BAD BIANCO	14425
 ACRONYMS AF Additional Financing ARMP Burundi	1284
 AF Additional Financing ARME Multisectoral Regulation	15983
+AI Armory and Defense	16813
+AKWASI OTI ALLENTER SMALL ARMS	15845
 ANOR ANTIC API APICCAM ARMP ARSEL	15542
 ARMAAN LTD Data Controller INST-284135866B1 NAIROBI	7167
 ARMANDO EMILIO GUEBUZA	1829
@@ -93,7 +95,7 @@ Armazenamento	6970,8389
 Armazenamento de Dados	15684
 Armazenar	16027
 Armazéns de Medicamentos Prestadores	6970
-Armed	3583,1057,2307,390,572,1707,1213,108,80,840,922,2469,1188
+Armed	3583,1057,2307,390,572,1707,1213,108,80,840,922,2469,597,591
 Armed Conflict	10835,3,130,902,16,466,1,135,2254
 Armed Conflict Location	15715
 Armed Conflict Location and Event Data	16359
@@ -132,6 +134,7 @@ Armenia MINASYAN	6613
 Armenia Public Sector Modernization Project II	13331
 Armenia Yes Governmental Decree	11529
 Arminda Barros	15982
+Arminda Fortes Presidente de Chã de Lopes Matias	15694
 Armoire Informatique	16395
 Armok Auctioneers Data Processor INST-501456115AC BUNGOMA	7167
 Armon Technologies Limited Data Processor INST-157179C1A5A	7167
@@ -195,6 +198,7 @@ Commonwealth of Independent States Armenia Azerbaijan	10764
 Conflitos Armados	11562
 Conseiller Armement	16381
 Conseiller Armée de Terre	16381
+DGIS ARME	15694
 DGMP and ARMP	10829
 DISARMAMENT AND ARMS CONTROL	15825
 Dadet Armand Olivier	15524
@@ -236,6 +240,7 @@ GAF Ghana Armed Forces OECD Organisation	6936
 GAHUNGU Armand	13341
 GAHUNGU Armand Conseiller Expert	13341
 GOVERNMENT CENTRE PLACE D’ ARMES	14778
+GYEBI ASANTE SMALL ARMS	15845
 Gambia Arm Forces	1000
 Gambia Armed Forces	8611
 Ghana Armed Forces	587,7108,8816
@@ -301,6 +306,7 @@ Paratus Namibia's Armada	9953
 Participant ARMP-4	8021
 People's National Army of Algeria	16331
 People’s Liberation Army	8510,1934,898
+Police Armoury	15845
 Pour le Pr Armand Claude Abanda	8906
 Pr Armand Claude Abanda	8906
 President Armando Guebuza	12154
@@ -328,6 +334,8 @@ Sistema de Armazenamento	16132
 Sistema de Armazenamento de Energia	16132
 Sistemas de Armas Autónomas	2816
 Small Arms Survey Briefing Paper	3583
+Small Arms and Light	15845
+Small Arms and Light Weapons	15845
 Somali National Army	10701
 Sous-Lieutenant Armée	15524
 Sudan Armed Forces	15220

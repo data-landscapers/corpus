@@ -114,6 +114,7 @@ Design and Set	16600
 Development Community Real-Time Gross Settlement	11960
 Development Fund BIS Bank for International Settlements	14997
 Diesel Generator Sets	12253
+Digital Public Infrastructure Set	16814
 Displacement Settings	13938
 Dispute Avoidance and Dispute Settlement	1243
 Dispute Settlement	1243,11788
@@ -250,7 +251,7 @@ Lôvua Settlement Clinic. Families	10776
 M Setshedi	11289
 M&E Set	15130
 MFBPE and SETIC	993
-MICT SETA	6832,790,3681
+MICT SETA	6832,790,3681,5490
 MICT SETA Annual Digital Skills Report	6832
 MICT SETA Annual Reports	6832
 MICT SETA Fourth Industrial Revolution	6832
@@ -382,6 +383,7 @@ Processing of Net Settlement Instruction	12364
 Project Location and Size Meheba Settlement Camp	1988
 Project Steering Committee Sets Strategic Directions	14107
 QCTO and SETA	6832
+Quadros de Despesas Setoriais de Médio	15526
 R SETA GUINEE SETA	16623
 R4. Set	13314
 R7. Set	13314
@@ -548,7 +550,7 @@ Sethuraman	9237
 Setic	5905
 Setif	4902
 Setlopo Clinic	11980
-Setor	15433,99
+Setor	15433,93,6
 Setor Administrativo	11528
 Setor Autónomo de Bissau	7666,3871,6
 Setor Educativo	16268,4
@@ -556,11 +558,11 @@ Setor Elétrico	15892
 Setor Elétrico de Cabo Verde	16059
 Setor Empresarial	15526,158,240,38
 Setor Financeiro	15526
-Setor Financeiro Artigo	15526
 Setor Informal	11562
 Setor Privado	15526,158
-Setor Privado Artigo	15526
 Setor Público	1268
+Setor Público Empresarial	15526
+Setor Qualificações	15526
 Setor TIC	15684
 Setor Tecnológico Nacional	15689
 Setor de Atividade Distribuição	11571
@@ -674,6 +676,7 @@ Trans-European Automated Real-time Gross Settlement Express	16219
 UK Setting	14723
 UN-Habitat United Nations Human Settlements Programme	11887,266,1,9,178
 US-based Global Settlement Network	3727
+Unidade de Promoção Setor Empresarial	15526
 Unique Nuances of Settling	5863
 United Nations Human Settlements Programme	11285,287,1594,2307
 Unlimited SETAR	15471

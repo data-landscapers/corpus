@@ -287,7 +287,7 @@ Important Somewhat	1940
 Important Topics Discussed WUF13	11285
 Importante	11569,1955,2377
 Importantes	1265,14636
-Importantly	1161,935,579,214,123,295,91,728,262,340,15,105,48,44,32,578,186,651,10,308,85,210,117,34,397,21,190,151,107,4,152,110,18,107,52,147,2,180,127,433,267,119,91,51,92,80,103,19,543,54,25,59,12,90,52,22,106,6,14,42,54,275,132,209,361,88,252,37,83,318,39,9,8,9,25,13,15,113,78,45,36,228,1,57,1,991,74,72,58,20,233,8,26,80,98,149,62,51,54,529,197,52,262
+Importantly	1161,935,579,214,123,295,91,728,262,340,15,105,48,44,32,578,186,651,10,308,85,210,117,34,397,21,190,151,107,4,152,110,18,107,52,147,2,180,127,433,267,119,91,51,92,80,103,19,543,54,25,59,12,90,52,22,106,6,14,42,54,275,132,209,361,88,252,37,83,318,39,9,8,9,25,13,15,113,78,45,36,228,1,57,1,991,74,72,58,20,233,8,26,80,98,149,62,51,54,266,263,197,52,262
 Importateurs	11934,4394
 Importation	8637,279,4474,110,508,939,180,134,327,82,184,372,262
 Importation-related	5247
@@ -315,7 +315,7 @@ Importers and Exporters AEO SAQ Bonded Warehouse	12454
 Importers and Exporters Association of Ghana	14216
 Importing	12110
 Importing Export Transmission Distribution	12399
-Imports	236,482,2057,808,1664,408,1667,3354,300,160,122,266,350,7,1,71,303,90,205,79,412,66,424,30,306,968,61,88,939,351,10,346
+Imports	236,482,2057,808,1664,408,1667,3354,300,160,122,266,350,7,1,71,303,90,205,79,412,66,424,30,306,968,61,88,1290,10,346
 Imports Cap	6921
 Imports Eskom1 IPPs1 Imports Exports	11953
 Imports Nuclear	11953
@@ -348,7 +348,7 @@ Impossibilidade	549
 Impossibilité	13524
 Impossible	226,11461,3584,202,428,730
 Impossible Position Africa CDC Director-General Jean	5456
-Imposto	4203,1264,5319,597,52,92,5,486,784,2594,359,207,60,465
+Imposto	4203,1264,5319,597,52,92,5,486,784,2594,130,229,207,60,465
 Imposto Especial	11532
 Imposto Geral	11532
 Imposto Industrial	10787,596,52
@@ -366,7 +366,7 @@ Imposto de Rendimentos de Pessoas Coletivas. Exemplos	12018
 Imposto de Rendimentos de Pessoas Singulares. Exemplos	12018
 Imposto de Selo	11532,486
 Imposto de Selo O Imposto de Selo	12018
-Impostos	795,3783,5742,1115,92,5,18,468,3508,496
+Impostos	795,3783,5742,1115,92,5,18,468,3508,386,110
 Impostos Direcao Geral	12018
 Impostos Ir	12018
 Impostos de São Tomé	10320
@@ -394,6 +394,7 @@ Livestock and Product Import Permit	1988
 Local Cloud Is Important	7173
 Long Live Importers and Exporters	14216
 Ltd. and China National Technical Import and Export	479
+LuxDev. Importantly	15924
 M. Davy ENGOGHO-NGAYILA. CENTRE DES IMPOTS	16381
 M. Jonas AMBALI. CENTRE DES IMPOTS	16381
 ME ETAGE DE L'HOTEL DES IMPOTS	15970

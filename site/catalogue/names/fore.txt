@@ -249,7 +249,6 @@ FCDO United Kingdom Foreign	10768
 FDI Foreign	11994
 FDI Foreign Direct Investment	12786
 FDI Foreign Direct Investment FIC Financial	14997
-FDI Foreign Direct Investment SSA Sub-Saharan	15924
 FINANCE COST AND NET FOREIGN EXCHANGE	10793
 FISCALITE FORESTIERE SECTION	15999
 FNS Foreign National Services	12227
@@ -410,7 +409,7 @@ Foreign Currency FIRR Financial Internal Rate	11863
 Foreign Currency Holdings	2775
 Foreign Currency-Backed	12882
 Foreign Digital Services Guinea	6342
-Foreign Direct Investment	377,2494,991,462,204,1355,126,3752,1549,1066,299,310,138,409,1212,75,288,817
+Foreign Direct Investment	377,2494,991,462,204,1355,126,3752,1549,1066,299,310,138,409,1212,75,288
 Foreign Direct Investment Agreements	12512
 Foreign Direct Investment Eritrea	14008
 Foreign Direct Investment The Eritrean	14008
@@ -560,7 +559,7 @@ Foreigner Identification Management System	16088
 Foreigner Registration Digital	13005
 Foreigner Travel Document	12333
 Foreigner's Residence Permit	11869
-Foreigners	1868,4625,1068,2756,458,204,921,302,7,18,256,1525,354
+Foreigners	1868,4625,1068,2756,458,204,921,302,7,18,256,1525,354,1483
 Foreigners Authority	1868
 Foreigners Identification System	15430
 Foreigners Identity Management System	10822
@@ -651,7 +650,7 @@ Forestry and Range	10477,4472,144
 Forestry and Tourism	9353
 Forestry and Wildlife Authority	14089,54
 ForestryFraud	11215
-Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,323,690
+Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013
 Forests Act	13403
 Forests Act No.4	1988
 Forests Land	10837,1315,188
@@ -806,6 +805,7 @@ Kenya Citizens and Foreign Nationals Management Service	12139
 Kenya Forest Service	6946
 Kenya's Foreign Policy	7548
 Kenya. Foreigners	12227
+Korea's Ministry of Foreign Affairs	16752,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 L FORET FORTE SOCIETE D'EXPLOTATION ET	16623
 LIST OF FOREIGN IMPORTED PRODUCTS	13122
 LLC AIAdopt Black Forest Labs AiBooks	8530
@@ -958,6 +958,7 @@ NAFEM Nigerian Autonomous Foreign Exchange Market	8590
 NATIONAL STATISTICAL SYSTEM Foreword	13343
 NFA Net Foreign Assets NGAAF National	2775
 NFMS The US Forest Service International	16036
+NGX’s July Domestic and Foreign Portfolio	16786
 NICFI Norway's International Climate and Forest Initiative	15715
 NISR Contents Foreword	12413
 NISR Table of Contents Foreword	12445
@@ -1204,7 +1205,7 @@ Unified Economic Number Project Foreign	3826,1438
 Union FDI Foreign Direct Investment GDPR	12675
 Union for Foreign Affairs and Security Policy	11155
 United Kingdom Foreign	10768,3299,75
-United Kingdom's Foreign	6426,7111,1522,949
+United Kingdom's Foreign	6426,7111,1522,949,762
 United Kingdom’s Foreign	5172,3605
 United Nations FAS-Local Development Institute Foreign	10763
 United States' Foreign Corrupt Practices Act	3583
@@ -1226,6 +1227,7 @@ Water and Forestry MoEAC Ministry of Education Arts	12923
 Water and Forests	16614
 Weather Forecasting Programme	11191
 Weather Forecasting and Warning Capabilities	14738
+West Africa The Netherlands' Ministry of Foreign	16771
 Western Forelands	15952
 Working Party of Foreign Relations Counsellors	11155
 World Bank-Canadian Clean Energy and Forests Climate	12595

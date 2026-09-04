@@ -110,8 +110,7 @@ Common Equity Tier	11131,3
 Common Error Responses	15630
 Common European Data Space for Cultural Heritage	7313
 Common European Framework of Reference for Languages	15994
-Common External Tariff	1828,11735,61,2300
-Common External Tariff NDC Nationally Determined	15924
+Common External Tariff	1828,11735,61
 Common Foundations	5676
 Common Good	5700,5306
 Common Good Economy	5700
@@ -208,7 +207,7 @@ Commonwealth Volleyball Tournament	6946
 Commonwealth War Graves Commission Data Controller	7167
 Commonwealth West Africa	9616
 Commonwealth and Development Affairs	15506
-Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9,855,9,169,1026,336,8,1371,1092
+Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9,855,9,169,1026,336,8,1371,1092,762
 Commonwealth and Development Office FM Financial Management	10768
 Commonwealth and Foreign	11129
 Commonwealth of Australia	11156,2376

@@ -273,6 +273,7 @@ Disaggregating	236,12209,2502
 Disaggregating S-MPI	15244
 Disaggregation	4653,2179,5154,245,3013,900
 Disaggregation Data	582
+Disaggregation Monitoring Responsibility	15845
 Disaggregation for Redressing Inequalities	15244
 Disaggregation of GVA	236
 Disaggregation of Gross Value Added	236
@@ -285,7 +286,7 @@ Disappearance Cases	14660
 Disappearing	8891
 Disappointed	5267
 Disapproval	12380
-Disaster	1938,3727,1909,88,1461,1598,42,393,796,288,298,123,28,283,498,1313,35,62,41,44,508,131
+Disaster	1938,3727,1909,88,1461,1598,42,393,796,288,298,123,28,283,498,1313,35,62,41,44,508,131,241
 Disaster Affected Communities CPA Comprehensive Peace	15342
 Disaster Assessments	14818
 Disaster Assessments Post-shock	14818
@@ -345,6 +346,7 @@ Disaster Resilience As Somalia	15120
 Disaster Response	14674
 Disaster Response Management	14487
 Disaster Response Programme	14738
+Disaster Risk	15845
 Disaster Risk Assessment and Early Warning Systems	14818
 Disaster Risk DPF	15491
 Disaster Risk Financing	1828,14204
@@ -368,6 +370,9 @@ Disaster Risk Management and Social Protection Global	16032
 Disaster Risk Management. The NDRRMC	14738
 Disaster Risk Reduction	970,10450,1359,198,790
 Disaster Risk Reduction Master Plan	12206
+Disaster Risk Reduction and Emergency Response	15845
+Disaster Risk Reduction and Emergency Response Indicators	15845
+Disaster Risk Reduction and Emergency Response MINTER	15845
 Disaster Risk Reduction and Management	12779,193
 Disaster Risk Reduction and Management Act	12779
 Disaster Science	9128
@@ -462,7 +467,6 @@ LOCAL LEADERS TRAINED ON DISABILITY GRANT	15140
 Labor Climate Change and Disaster Screening	11855
 Lack of Business Continuity and Disaster Recovery	13987
 Lagos State Office for Disability Affairs	10290
-Lead Disaster Risk Management Specialist	15924
 Legal Framework for Disaster Risk Reduction and Management	12779
 LoC for RSTP Disaster Recovery Site	688
 Local And International Our Disaster	15274
@@ -486,6 +490,7 @@ Ministry of Humanitarian Affairs and Disaster Management	3583,11291,304
 Ministry of Local Government and Disaster Risk	14738
 Ministry of Local Government and Disaster Risk Management	14738
 Mitigate Industrial Disasters Michael Moyo's Ocular	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
+Modernize Disaster Risk	15845
 Modest Reason for Disagreement	10779
 Morocco GFDRR Global Facility for Disaster Reduction	13729
 NA Disaggregation	11986
@@ -515,6 +520,7 @@ National Disaster Management Authority	7548
 National Disaster Management Centre	11244
 National Disaster Management Organisation	16206
 National Disaster Management and Risk Reduction Institute	1228
+National Disaster Monitor	15845
 National Disaster Recovery Site	14546
 National Disaster Recovery and Business Continuity Plan	1000
 National Disaster Risk Finance Strategy	1828

@@ -67,7 +67,7 @@ Affordability Gains Across Regions	6318
 Africa By Region	4972
 Africa Eastern and Southern Region	11918
 Africa Global and Regional West African	16144
-Africa Region	1264,20,1605,895,2755,407,3876,327,268,132,11,405,961,1701,511,234,119,24,409,59,161,240,14
+Africa Region	1264,20,1605,895,2755,407,3876,327,268,132,11,405,961,1701,511,234,119,24,468,161,240,14
 Africa Region Aparajita Goyal	11149
 Africa Region CURRENCY EQUIVALENTS	3562
 Africa Region Cesar Calderon	11149
@@ -702,6 +702,7 @@ IGAD. IGAD REGIONAL HEALTH DATA SHARING	14434
 III. CEMAC Regional Backdrop CEMAC	10841
 III. REGION DE DJIBOUTI-VILLE	13890
 IMF Regional Economic Outlook	13685
+IMF-Africa Regional Technical Assistance Centers	15924
 INITIATIVES ET REGIONALES AFRICAINE NUMERIQUE TENDANCES	16195
 INSPECCION REGIONAL.- Concepto	4209
 INSPECTOR REGIONAL MINISTERIO	4209
@@ -1013,11 +1014,12 @@ Oti and Eastern Regions	16524
 Oti and Volta Regions	16596
 Otjozondjupa Region	12982
 Ousmane Diagana Regional Director	11560,345,3753,1,2,526,197
-Ousmane Diagana Regional Practice Director	3604,12139,39,142,45,14,161
+Ousmane Diagana Regional Practice Director	3604,12139,39,187,14,161
 Ousmane Diagana. Regional Director	15802
 Ousmane Diagana. Regional Practice Director	11965
 Ousmane Dione Regional Director	13856
 Ousmane Dione. Regional Director	13860,37
+Output Regions	15845
 Outputs Regional	11420,2347
 P164551. Region	12137
 P172350. Region	761
@@ -1214,12 +1216,13 @@ Recommendations for WATRA and Regional Institutions	5676
 Recommendations for WATRA and Regional Institutions WATRA	5676
 Rede Regional	11527
 Reform Within the Regional Framework	15298
-Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,159,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4,242,24,146,90,55,28,314,3,11,1,4,1,2,6,10,30,211,7,1,6,3,13,23,2,3,22,30,84,1,11,1,12,8,10,17,9,3,14,22,40,62,185,213,14,8,2,5,83,37,92,784,11,21,19,89,123,322,217,70,345,2,438,28,3,11,53,18,7,489,2,25,51,279,8,72,22
+Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,159,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4,242,24,146,90,55,28,314,3,11,1,4,1,2,6,10,30,211,7,1,6,3,13,23,2,3,22,30,84,1,11,1,12,8,10,17,9,3,14,22,40,62,185,213,14,8,2,5,83,37,92,784,11,21,19,89,123,322,217,70,345,2,438,28,3,11,53,18,7,95,394,2,25,51,279,8,72,22,70,2,1
 Region AFR	10785
 Region Action Plan For Reviews and Life	8999
 Region Africa Sub-region Eastern Africa Population	14070,488
 Region Africa Sub-region Middle Africa Population	11470
 Region Amoron'ny Mania Region Vakinankaratra Region	14425
+Region Annually GIS	15845
 Region Assistive	12977
 Region Atsimo Andrefana	14425
 Region Barbados High EGDI M-OSI VH-HcI	10840
@@ -1230,6 +1233,7 @@ Region Energy	12256
 Region Enumerated Empty	15574
 Region Estimated Appraisal Date Estimated Approval	13111
 Region Estimated Appraisal Date Estimated Board	15513,37
+Region Gaming Commission	15845
 Region Gender Age	418,11981
 Region Haute Matsiatra Lieu	14425
 Region Hazard	12977
@@ -1240,7 +1244,7 @@ Region Leader	15634
 Region Leader Libya	15634
 Region Lubombo Region St Joseph’s High	12977
 Region MAURITIUS Table	14777
-Region Number	12977
+Region Number	12977,2868
 Region Number of Facilities	12976
 Region Office P.O Box	6946
 Region Omaheke	12383
@@ -1249,6 +1253,9 @@ Region Operation ID Operation Name P508383	3456
 Region Operational	3386
 Region Physical Sexual Neglect Emotional Financial	12977
 Region Prefecture Health Districts Population	10829
+Region Quarterly NACSA	15845
+Region Quarterly NACSA Number	15845
+Region Quarterly NIA	15845
 Region RC1 for Sigfox	12949
 Region Regional Institution Credit Grant SML	16144
 Region Reported	12977
@@ -1392,7 +1399,7 @@ Regional Cooperation and Knowledge Exchange Limited	14818
 Regional Cooperation and Sustainable Governance	14808
 Regional Cooperation and Sustainable Governance URL	14808
 Regional Cooperative Oversight Framework	11807,141
-Regional Coordinating Councils	7457,8644
+Regional Coordinating Councils	7457,8388,256
 Regional Coordination	6946,5377
 Regional Coordination Centre for Cybersecurity	14729
 Regional Coordination Mechanisms	9838
@@ -1401,6 +1408,7 @@ Regional Coordinator	11525,626,4352,202
 Regional Coordinator Coordinator	12151
 Regional Coordinator for Civil Registration Hesbon Odhiambo	14640
 Regional Coordinator of UNCTAD	16503
+Regional Coordinators	16775
 Regional Coral Restoration Project Associate Anshinee	11332
 Regional Council	13096,1
 Regional Council B Yes Local AuthorityA	12325
@@ -1522,6 +1530,7 @@ Regional Electricity Distributors	12399,642,92
 Regional Electricity Regulators Association	12969
 Regional Emergency Solar Power Intervention	10180
 Regional Emergency Solar Power Intervention Project	6523
+Regional Energy Governance and Information System for West	16768
 Regional Energy Regulators Association of Southern Africa	12969
 Regional Energy Security	5765,6634
 Regional Entities	16137
@@ -1595,6 +1604,7 @@ Regional Indicative Strategic Development Plan	9708,461,152,2319,278,24,20,2,69,
 Regional Indicative Strategic Development Plan ROC	12962
 Regional Indicative Strategic Plan	13359
 Regional Indicative Strategic Programme	12975
+Regional Industry	16776
 Regional Information Sharing Platform	5677
 Regional Information Sharing Platform Faced	5677
 Regional Information Sharing and Analysis Centre	13880
@@ -1744,7 +1754,7 @@ Regional Postal Master Plan	10509
 Regional Postal Sector Regulatory Framework	10509
 Regional Poverty Reduction Strategy Paper	15424
 Regional Power Trade and Inter-connectivity	13060
-Regional Practice Director	11271,2188,1605,860,474
+Regional Practice Director	11271,2188,1605,1334
 Regional Preparatory Meeting for ITU PP-26	6488
 Regional Preparatory Meeting for WTDC-25 for Africa	16046
 Regional Presence	15032
@@ -1840,7 +1850,7 @@ Regional Value Chains	8754
 Regional Value Chains Industrial Link	11149
 Regional Value Chains Pillar	11149
 Regional Value Chains. Chapter	11149
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,142,45,14,49,112,240,14
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
@@ -1911,11 +1921,27 @@ Regionally	961,929,1815,2117,2217,309,1139,2190,522,57,22,684,350,2,1709,197,251
 Regionally Morocco	1890
 Regionalne	10780
 Regionless	1729
-Regions	523,59,1362,945,2729,1110,80,138,128,747,2943,21,9,35,12,6,5,303,408,636,3,24,150,536,39,12,7,1,62,979,125,699,249,534,413
+Regions	523,59,1362,945,2729,1110,80,138,128,747,2943,21,9,35,12,6,5,303,408,636,3,24,150,536,39,12,7,1,62,979,125,699,249,534,226,187
+Regions Annually	15845
+Regions Annually Gaming	15845
+Regions Annually Ghana Annually Immigration	15845
+Regions Annually Ghana Fire	15845
+Regions Annually Ghana Quarterly Immigration Rate	15845
+Regions Annually NACOC	15845
+Regions Annually NACSA	15845
+Regions Annually Percentage	15845
+Regions Ghana	15845
+Regions Monthly NPC	15845
+Regions Prevalence	15845
+Regions Quarterly Ghana Immigration	15845
+Regions Quarterly NACOC Annually NACOC	15845
+Regions Quarterly NACSA	15845
+Regions Quarterly Service Number	15845
 Regions SAHEL	10847
 Regions SUD-OUEST	10847
 Regions Sahel	737
 Regions Schools	1944
+Regions Service	15845
 Regions Show How It Can Work	12227
 Regions and Economic Blocs	2775
 Regions. HIGHLIGHTS	15716

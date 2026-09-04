@@ -224,6 +224,7 @@ Decentralizing Legal Identity SL. No. Distrct	13095
 Declaration of Assets Act. LEGISLATION	14742
 Decreto Legislativo	11875,3505,24,29,594
 Decreto Legislativo Presidencial	430,3788,7163,4,23,13,22,134
+Decreto- Legislativo	15526
 Definitions and Legal Interpretation	3861
 Delegated Legislation	6787,7435,48,329
 Delegated Legislation. Following	6946
@@ -292,6 +293,7 @@ EXPENDITURE SUMMARY MICT Mandate Legal Notice	12971
 East African Legislative Assembly	3738,10671
 East Legon	3386,1841,3140,1363,6279
 East Legon. The Ministry	3582
+Economia Governo da X Legislatura	15526
 Economic Opportunities and Legal Challenges. Police Paper	2816
 Effective Legislation and Regulation	11007
 Egyptian Legal System and Legal Research	15473
@@ -544,7 +546,6 @@ LEGAL SUPPLEMENT	14728,7,8,66,5,7
 LEGAL TECH MEETING AFRICA LAW ACCES	10996
 LEGAL YEAR	13504
 LEGALSUPPLEMENT	783
-LEGAM	15924
 LEGAM LEGAM Giacomo Assenza Team Member	1284
 LEGEND	15130
 LEGENDE	16012
@@ -602,7 +603,9 @@ Lasting Legacy ECZ	13477
 Laws.Africa Legislation Commons	1
 Leg4Dev Research Projects	12985
 Legacies	15027
-Legacy	3861,2190,381,107,742,849,1107,376,449,731,246,947,458,9,861,31,1310
+Legacy	3861,2190,381,107,742,849,1107,376,449,731,246,947,458,9,861,31,1310,2154
+Legacy BSS	16809
+Legacy Billing Architectures	16809
 Legacy COBOL Systems	6432
 Legacy Code	11952
 Legacy Constraining Progress Understanding Eswatini	4535
@@ -620,7 +623,7 @@ Legacy of Impact	11244
 Legados. Servidor	16027
 Legafrik	14396
 Legais	12791
-Legal	28,208,513,212,1,7,40,152,82,21,20,63,250,33,147,41,49,11,1,60,157,10,1,782,69,81,57,130,71,94,203,3,8,73,36,73,74,111,18,136,1,27,13,35,15,43,41,48,19,53,107,29,6,298,112,29,111,19,220,11,170,132,51,176,15,508,8,9,10,366,119,9,2,172,63,105,193,67,10,48,100,276,55,19,132,258,1,34,23,109,193,44,48,93,24,77,235,73,83,21,12,97,13,44,67,150,74,80,10,47,128,293,255,1,10,18,19,2,5,3,19,3,67,86,9,37,86,1,1,2,5,2,9,5,2,23,2,41,47,7,95,30,151,17,38,194,6,5,51,35,7,4,10,36,1,4,26,122,43,50,13,5,31,47,5,23,2,11,5,6,7,11,22,4,20,70,29,20,2,15,49,52,24,222,16,7,11,6,26,11,32,9,22,1,11,5,132,114,9,2,1,9,11,12,20,19,36,132,104,27,88,179,16,60,114,68,190,32,65,106,56,74,6,8,7,2,7,9,6,3,13,29,5,10,16,12,17,86,32,22,12,5,19,1,2,15,8,21,62,19,7,152,30,21,6,27,47,38,7,86,17,523,44,55,23,328,3,122
+Legal	28,208,513,212,1,7,40,152,82,21,20,63,250,33,147,41,49,11,1,60,157,10,1,782,69,81,57,130,71,94,203,3,8,73,36,73,74,111,18,136,1,27,13,35,15,43,41,48,19,53,107,29,6,298,112,29,111,19,220,11,170,132,51,176,15,508,8,9,10,366,119,9,2,172,63,105,193,67,10,48,100,276,55,19,132,258,1,34,23,109,193,44,48,93,24,77,235,73,83,21,12,97,13,44,67,150,74,80,10,47,128,293,255,1,10,18,19,2,5,3,19,3,67,86,9,37,86,1,1,2,5,2,9,5,2,23,2,41,47,7,95,30,151,17,38,194,6,5,51,35,7,4,10,36,1,4,26,122,43,50,13,5,31,47,5,23,2,11,5,6,7,11,22,4,20,70,29,20,2,15,49,52,24,222,16,7,11,6,26,11,32,9,22,1,11,5,132,114,9,2,1,9,11,12,20,19,36,132,104,27,88,179,16,60,114,68,190,32,65,106,56,74,6,8,7,2,7,9,6,3,13,29,5,10,16,12,17,86,32,22,12,5,19,1,2,15,8,21,62,19,7,152,30,21,6,27,47,38,7,86,17,523,44,55,23,328,3,122,68
 Legal Access	6432
 Legal Action Against Individuals Behind Disinformation	15217
 Legal Adviser	10079,1897
@@ -1033,7 +1036,7 @@ Legislations	2958,9969,1792,42
 Legislations Data Governance and Analytics EdTech Innovation	13991
 Legislativa	8309
 Legislativas	6220,108,36,5173,24,4580
-Legislative	396,562,285,624,1676,318,313,237,8,164,967,856,2264,257,1488,716,3,63,1,52,11,28,235,453,16,145,297,536,349,39,1267,124,235,12,1514
+Legislative	396,562,285,624,1676,318,313,237,8,164,967,856,2264,257,1488,716,3,63,1,52,11,28,235,453,16,145,297,536,349,39,1267,124,235,12,1514,284
 Legislative Analysis	15473
 Legislative Assemblies	14852
 Legislative Assembly	7361,7491
@@ -1078,7 +1081,7 @@ Legislative and Strategic Heritage	16212
 Legislative and Strategic Heritage The AI	16212
 Legislatively	5876
 Legislatively SARS	11298
-Legislativo	6568,4975,3837,146
+Legislativo	6568,4975,3837
 Legislativo. Metrópoles. Disponível	2816
 Legislator	12514
 Legislators	7117
@@ -1090,7 +1093,7 @@ Legislature of Liberia	700
 Legislature. Construction Projects Behind Schedule	9650
 Legislature. Providing Services	13502
 Legislature’. Statutes	2307
-Legislação	167,577,2775,755,3192,3910,18,21,3,10,470,3460,1,29,3,1,41,71,28,152,88,183,11,123,162
+Legislação	167,577,2775,755,3192,3910,18,21,3,10,470,3460,1,29,3,1,41,17,54,28,152,10,78,183,11,123,162
 Legislação Ambiental	11406
 Legislação Angolana. Sempre	11390
 Legislação Aplicável	167,4051,6537,626
@@ -1232,6 +1235,7 @@ Ombudsman. Legal	14751
 Operational Definition of Legal Identity	10819
 Operações Permitidas Legenda	11404
 Organisation Internationale de Metrologie Legale	13320
+Outcome Quarterly Commission Legislative Instrument Outcome	15845
 OÙ FICHIER LEGISLATIF ET REGLEMENTAIRE	15999
 P4 Legal Framework Drafting of Data Protection	12917
 PAOMA. Legal	3394
@@ -1295,6 +1299,7 @@ Premier DU POUVOIR LEGISLATIF	15405
 Presidential and Legislative	11536,665
 Prevailing Legal and Regulatory Framework	14947
 Prevailing Legal and Regulatory Framework Energy	14947
+Preâmbulo Objeto O Governo da IX Legislatura	15450
 Principal Legal Counsel	11863
 Principle of Consent and Legitimacy	14434
 Principle of Legitimacy	14434

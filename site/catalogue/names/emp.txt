@@ -52,6 +52,7 @@ Association des Employeurs	15027
 Association des Employeurs ASSIMPER	15027
 Atelier Emplacement	13613,170
 Authority ESOPs Employee Share Ownership Plans	2775
+Autoridades de Regulação Económica Fomento Empresarial	15526
 Autres Employé Retraité	10847
 Autres Employé Retraité Total Région	10847
 Autres Emprunts	15999
@@ -518,7 +519,7 @@ Employeurs Article	15361
 Employing	4432,6701,1243
 Employing WGA	14965
 Employingawell-definedsetofrelevantattributesoffersa	8606
-Employment	236,222,124,207,181,161,23,130,656,48,787,276,1401,76,368,238,670,196,593,59,180,18,698,297,614,608,1506,190,78,15,107,1,15,1,231,13,38,9,18,7,276,9,5,205,114,71,22,91,143,21,44,31,1,8,48,4,6,4,10,36,67,40,45,3,42,19,14,228,20,38,21,276,37,19,85,55,20,150,167,287,189,143,328,5,2,1,69,4,13,4,60,1,68,20,29,10,61,120,39,274,86,54,3,18,52,170,243,54,62,389
+Employment	236,222,124,207,181,161,23,130,656,48,787,276,1401,76,368,238,670,196,593,59,180,18,698,297,614,608,1506,190,78,15,107,1,15,1,231,13,38,9,18,7,276,9,5,205,114,71,22,91,143,21,44,31,1,8,48,4,6,4,10,36,67,40,45,3,42,19,14,228,20,38,21,276,37,19,85,55,20,150,167,287,189,143,328,5,2,1,69,4,13,4,60,1,68,20,29,10,61,120,39,274,86,54,3,18,52,114,56,243,54,62,389
 Employment Act	5616,223,813,3661,2626,37,1570
 Employment Act. This Kenyan	5839
 Employment Agency	4126
@@ -544,6 +545,7 @@ Employment Equity Commission	12961,70
 Employment Equity Commissioner	13037
 Employment Equity Policy	11986
 Employment Figure	11296
+Employment Ghana	15845
 Employment Given	10841
 Employment Impact Assessments	13060
 Employment Impacts and Standards	226
@@ -648,6 +650,7 @@ Employée	3808
 Employés	10875,1
 Empnrnteur	15399
 Empnurteur	15399
+Empoderamdeenrtioveadparosmdoaçsãocdaaraacutetorínsotmiciaas	15694
 Empoderamento	10760
 Empoderamento da Mulher PPP Processo de Participação Pública	11390
 Empoderando Comunidades	5020
@@ -783,12 +786,11 @@ EmpreendedorismoDigital	9846
 Empreendimentos Turísticos	11458
 Empreendimentos Turísticos ARTIGO	11458
 Empreendimentos Turísticos. Revoga	11458
-Emprego	2816,1259,6682,11,9,594,16,19,121,4,16,15,7,5,281,932,2572,167,9,652
+Emprego	2816,1259,6682,11,9,594,16,19,121,4,16,15,7,5,281,932,2572,167,9,159,493
 Emprego A IA	2816
 Emprego Atribuindo	16290
 Emprego Em Angola	10760
 Emprego Público	1948
-Emprego de Pessoas Deficientes. Na	15694
 Empregos	2816
 Empreinte	9961
 Empreintes	7713
@@ -826,10 +828,10 @@ Empresa de Tecnologia	15476
 Empresa de Transporte	12201
 Empresariais	11423
 Empresariais DGPJ Direção-Geral da Política de Justiça DIRCV	15535
-Empresarial	1701,2508,10056,1126
+Empresarial	1701,2508,10056,1126,135
 Empresarial RGA Recenseamento Geral da Agricultura RGD	15535
 Empresarios	1701
-Empresas	539,255,2022,778,615,960,1801,1033,157,2597,633,4,29,132,14,329,120,3,761,2609,113,180,5
+Empresas	539,255,2022,778,615,960,1801,1033,157,2597,633,4,29,132,14,329,120,3,761,2609,113,22,158,5
 Empresas Co	15391
 Empresas Comerciais	15391
 Empresas Comerciais. Artigo	15391
@@ -936,6 +938,8 @@ Fiscal Incentives for Employing Persons	14743
 Fit Capital Empowerment and Gender-	14997
 Fixed Network Operators Employment	12395
 Fomento Empresarial	15526,168,205,288
+Fomento Empresarial Livre Comércio	15526
+Fomento Empresarial Pública	15526
 Fomento Empresarial-MFFE	12021
 Fomento Empresarial. Artigo	15526
 Fomento Empresarial. MINISTÉRIO DA MODERNIZAÇÃO	16290
@@ -1190,6 +1194,7 @@ Número de Empresas	10757
 O EMPREENDEDORISMO COMO FACTOR DE TRANSFORMAÇÃO	16487
 O Instituto Nacional de Emprego	10778
 O Instituto de Emprego	15526
+O Serviço de Emprego	15526
 O Setor Empresarial	1265
 OECD Employment Outlook	6948
 OPERATORS EMPLOYEE COUNT	3862
@@ -1228,6 +1233,7 @@ Percentage Changes of Wage Employment and Average Earnings1	2775
 Perfil da Empresa. Disponível	2816
 Persons Employed	12395
 Philippe Emplit	15480
+Plano Nacional de Emprego	15526
 Plataforma Empresa Online	5476,6564,4211
 Plein Emploi	16381
 Policy Framework Act Empowerment STEE Social	11193
@@ -1273,6 +1279,7 @@ Proyecto Nacional de Jóvenes Emprendedores	4209
 Proyecto de Empadronamiento Municipal de Guinea Ecuatorial	4209
 Proyecto de Empoderamiento de Jóvenes	4209
 Proyecto de Emprendeduría	4209
+Pró Empresa	15526
 Public Employment Programmes	8817,3123
 Public Employment Service	148
 Public Employment Services Conducted	13037
@@ -1335,7 +1342,9 @@ Senior Employment Officers	13037
 Service Benefits and Conditions of Employment for Political	13096
 Services Providing Employment Opportunities Through Loans	15578
 Serviço Total Empresa	10757
+Serviço de Emprego	15526
 Setor Empresarial	15526,158,240,38
+Setor Público Empresarial	15526
 SheConnects EmpowerHer Digital Accelerator	11086
 SheConnects EmpowerHer Digital Accelerator. Trainers	11018
 Simulação Empresarial	15772
@@ -1352,6 +1361,7 @@ Skills Development for Youth Employment	8985
 Skills and Empowerment	10450
 Skills and Empowerment Thelma Efua Quaye	13223
 Skills for Employability and Productivity Project. MCC	210
+Skills for Employment and Economic Transformation	16769
 Skills for Youth Employment	9450
 Social Assistance Grants for Empowerment	3005,567
 Social Employment Fund	11940
@@ -1445,6 +1455,8 @@ Unemployed Employed	11004
 Unemployed Ghana Men Employed	11004
 Unemployed Women Employed	11004
 UniPod To Empower Youth And Promote	12599
+Unidade de Gestão de Projetos Empresarial	15526
+Unidade de Promoção Setor Empresarial	15526
 Union and Employers Professional Organization	15027
 Urban Rural Urban Rural Employed Unemployed	10763
 User Empowerment	1814
@@ -1499,7 +1511,7 @@ Youth Employment Programme	14742
 Youth Employment Programme Intern	14745
 Youth Employment Programs Improve Labor Market	15550
 Youth Employment Project	5488
-Youth Employment Service	11245
+Youth Employment Service	11245,5548
 Youth Employment Strategy	12613
 Youth Employment and Skills	11469,860
 Youth Empowerment	13474,1355

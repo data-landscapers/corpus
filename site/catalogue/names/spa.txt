@@ -9,6 +9,7 @@ AI and Innovation LinkedIn Targets AI Spam	5562
 AI and Space Technology Regulation	14974
 AI-powered Spam Alert Service	9899
 AST SpaceMobile	7303,3494
+AST SpaceMobile’s Bluewalker	16811
 AU PROFIT DE LA SOCIETE SPA	15885
 AU-EU Space Partnership Programme	11283
 AU-EU Space Partnership Revolutionises Weather Systems	11283
@@ -40,7 +41,7 @@ Airbus Defence and Space President Alain Fauré	5438
 Airtel AI Spam Alert Service. Airtel	2558
 Airtel Africa Partners SpaceX	14674
 Airtel Africa and SpaceX	4581,4291,1160,52
-Airtel Madagascar and SpaceX	7299
+Airtel Madagascar and SpaceX	7299,9512
 Airtel and SpaceX	10032
 Algerian Space Agency	16331
 Algérie Télécom Mobile SPA	15885
@@ -52,7 +53,9 @@ American Spaces	9621,5826
 Angola's National Space Program Management Office	6797
 Angola's National Space Programme Management Office	6618,4341
 Angolan Space Agency	5421
+Ao SPAER	15526
 Apache Spark and Apache Hadoop	5256
+Apple and SpaceX	16811
 Area of Office Space	14778
 Assembly Political Pluralism Civil Society Space	10759,78,1315,188
 Availability of Spatial Plans and Zoning Requirements	12389
@@ -149,6 +152,7 @@ English Spanish	12504
 Enhanced Spatial and Temporal Adaptive Reflectance	15715
 Enterprise Sparx Enterprise	9124
 Environment and Climate Change Space	1131
+Environmental Spatial Impact Total Average Rank	15845
 Establishing Space Industry Development Fund. Entering	1131
 Establishing the Kingdom of Eswatini Space Agency	13101
 Eswatini Inaugurates Space Science Indaba	13101
@@ -207,6 +211,7 @@ Indian Space Research Organisation	16331
 Inet Spa	3609
 Innovation Space. Currently	12786
 Institute SANSA South African National Space	5246
+Integration of Spatial Plans The Ministry	15845
 International Institute of Space Law	8436
 International Space Station	1131,13611
 International Space Summit Africa	10536
@@ -234,7 +239,7 @@ Kenya Spaces	11307
 Kingdom of Eswatini Space Agency	13101
 L'amarrage de Space X	3658,2617,145,3959
 LEGAL SPACE	12951
-Land Use and Spatial Planning Authority	1513
+Land Use and Spatial Planning Authority	1513,14332
 Land and Space Tarik Dadi Combats Health	6678,209,414,23
 Land and Space Zimbabwe’s Maminda Combines AI	6678
 Landmark Contract for SPACEBEL URL	16449
@@ -244,6 +249,7 @@ Liberia. Space Segment	10407
 Licences. SpaceX	6891
 Local Education SPACE Chaired	11916
 Luigi Broglio Malindi Space	1131
+Luigi Broglio Space Centre	16803
 M Spain	11922
 ME IO Table SPACE	10964
 ME IO Table SPACE Page	1284,12048
@@ -316,6 +322,8 @@ Notice. SpaceX	6891
 Novaspace's Space Economy Report	6467
 Nuxt SPA	3343
 Nvidia and SpaceX	5569
+O SPAER	15526
+O SPAME	15526
 OFFICE SPACE AT CUREPIPE TO ACCOMMODATE	14778
 OFFICES Sr No Office Space	14778
 OPEC Fund for International Development and Spain	13868
@@ -407,7 +415,9 @@ SPACETEL	15592
 SPACETEL BENIN	10821,4771
 SPACETEL BENIN MOOV AFRICA BENIN CELTIIS	16326
 SPACs	4972,10025
+SPAER	15526
 SPAM Alert	4657
+SPAME	15526
 SPAQ de SOIK Corporation	16728
 SPAR States Parties SelfAssessment Annual Report	15966
 SPAR6C	9393,31
@@ -503,7 +513,7 @@ Space42	4952,2028,4310
 Space42 and BrainSAT Technologies	6980,4310
 Space42 and Esri	6232
 Space4Met	16371
-SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18,9,90,43,64,4,4,11,125,7,2,278,141,140,370,363,6,25,66,5,5,6,91,105,5,105,255,148,27,69,51,205,21,28,41,5,22,83,5,79,105,132,130,134,2,8,19,1,14,5,1,10,5,1,1,25,26,24,81,47,162,8,32,39,2,11,28,49,27,1,25,40,1,5,1,8,87,51,7,267,25,80,86,253,196,173,656,1,62,21,145,451,51,479,35,196,361,155,306,270,1198,352,404,918
+SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18,9,90,43,64,4,4,11,125,7,2,278,141,140,370,363,6,25,66,5,5,6,91,105,5,105,255,148,27,69,51,205,21,28,41,5,22,83,5,79,105,132,130,134,2,8,19,1,14,5,1,10,5,1,1,25,26,24,81,47,162,8,32,39,2,11,28,49,27,1,25,40,1,5,1,8,87,51,7,267,25,80,86,253,196,173,656,1,62,21,145,451,51,479,35,196,361,155,306,270,1198,352,404,918,2619
 SpaceX CEO	4912,586
 SpaceX CEO Elon Musk	1980
 SpaceX Complete Starlink Mobile Testing	5562
@@ -551,7 +561,7 @@ Spacetel-Bénin	15592
 Spackman	8606
 Spades	13385
 Spaghetti	14441
-Spain	789,181,243,880,533,211,260,260,425,90,849,251,364,23,31,307,196,409,240,4,67,175,4,8,312,33,60,138,510,270,2,222,513,102,58,192,15,325,56,208,332,145,42,43,336,50,21,61,294,396,50,23,313,279,9,608,1886,767
+Spain	789,181,243,880,533,211,260,260,425,90,849,251,364,23,31,307,196,409,240,4,67,175,4,8,312,33,60,138,510,270,2,222,513,102,58,192,15,325,56,208,332,145,42,43,336,50,21,61,294,396,50,23,313,279,9,608,1886,767,453
 Spain Disclaimer	5390
 Spain N	10714
 Spain Risks US Ire	14932
@@ -653,7 +663,6 @@ Supporting the National Spatial Data Infrastructure	13998
 Sustain the SPAR Outcome	15725
 TARGETS SPATIAL PLANNING	13118
 TECH SPARK Africa	13469
-THIRD FISCAL SPACE	15924
 THROUGH DIGITAL SPACE	15679
 TI Sparkle	10861
 TLS Temporary Learning Spaces	14916
@@ -688,7 +697,6 @@ United States Embassy and SpaceX	5328
 University of Botswana Enters VR Space	5852
 Unlock Fiscal Space Paper22nd	7648
 Utilization of Space Services	1131
-VERDE Cabo Verde Third Fiscal Space	15924
 Vandenberg Space Force Base	6897
 Vice-Presidente Executivo de Space Systems da Airbus	5405
 Vineetha Menon. Study of Spatial	14769

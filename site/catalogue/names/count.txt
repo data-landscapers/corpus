@@ -299,7 +299,6 @@ CPF Country Partnership Framework EIRR Economic	13836
 CPS Country Partnership Framework	13861
 CPS Country Partnership Strategy	15411
 CRA Gazettes Standards and Guidelines for County Own-source	9939
-CREDIT TO CABO VERDE I. COUNTRY	15924
 CRESS Country	15961
 CRI Country Partnership Framework CVE Country	11855
 CRP.5 County	3583
@@ -355,19 +354,19 @@ Context of Country’s Data Infrastructure	1161
 Context of Country’s Socio-Politics and Economics	1161
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CPF Country	10768
-Contribution CFT Countering the Financing of Terrorism NPL	15924
 Control of Counterfeit and Low-Quality Medicines	10776
 Core Country Office Model	15966
 Core Country Office Model CDC Centers	15966
 Core Predictable Country Presence	15966
 Council of County AI Focal Point Intergovernme	7548
 Council of County Governors	14422,27,44
-Count	10964,1289,1727,642,934,18
+Count	10964,1289,1727,642,934,18,271
 Count Charge Against Three Suspects	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Count Down Announcements	8999
 Count Every Child	12227
 Count Percent Employment Size	15085
 Count Percentage Community	12413
+Count of M&E	15845
 Count of Port-Out Activities-December	3862
 Count of Port-out	3862
 Count of Total Towers	3862
@@ -388,6 +387,8 @@ Counter Ransomware Initiative	10689
 Counter Terrorism	11925
 Counter Terrorism Fusion Centre Director	8768
 Counter Terrorism Unit	2367
+Counter-	15845
+Counter- Terrorism	15845
 Counter-Corruption	11218
 Counter-Terrorism Financing	11976
 Counter-intelligence	3290
@@ -417,7 +418,7 @@ Counterpart Funding	1264,9504,1137,483,3905
 Counterpart Funds Parallel Funding Financing	11525
 Counterpart Staff and Facilities	13037
 Counterparty	5863
-Counterpoint Research	9015
+Counterpoint Research	9015,7784
 Counterpoint Research. Coherent and Lumentum	8921
 Counters	1436,3736
 Countersignature	13185,2716
@@ -563,7 +564,7 @@ Country Management Unit	11855,2155,878,623
 Country Management Unit and ESF	10768
 Country Management Unit-based	15411
 Country Management Units	10841,4670
-Country Manager	6056,3026,1681,2,10,361,2176,2,1031,714,5,409,1153
+Country Manager	6056,3026,1681,2,10,361,2176,2,1031,714,5,409,1153,171
 Country Manager Clovis Pilla	5699
 Country Manager for North West Africa	7271
 Country Manager for Somalia	11136
@@ -736,7 +737,7 @@ Country’s Name	11129
 Country’s’ Project Performance and Similar Context	11863
 Counts	1232,1026,1604,1374,7131,46,3217
 Counts Percentages Same	12413,2643
-County	2775,2359,1298,1116,442,1949,374,1836,2,1103,1045,111,12,63,31,8,70
+County	2775,2359,1298,1116,442,1949,374,1836,2,1103,1045,111,12,63,31,8,70,2187
 County AI	7548
 County AI Focal Point	7548
 County AI Focal Points	7548
@@ -860,6 +861,8 @@ County-level	7548
 Cross Country Perspective	11140
 Cross- Country Evidence	1828
 Cybastion's Country Director for Côte	6646
+Cybersecurity and Counter- Terrorism	15845
+Cybersecurity and Counter-Terrorism	15845
 D. No Country of Concern	5773
 DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829,2503,2221,68
 DE4A Country Diagnostic	13312,2
@@ -996,7 +999,6 @@ Eswatini Country Office Contributors	13163
 Eswatini Country Project Coordinator	13022
 Ethiopia Country Office. Email	14116
 European Countries	12383
-Evaluation CCDR Country Climate and Development Report	15924
 Evaluation and Results for Anglophone Africa CP Country	12962
 Even Counting	8182
 Every African Country's National Digital Health	7707
@@ -1144,7 +1146,6 @@ Human Capital Country Brief Burkina Faso	15743
 Humanitarian Country Team	12318,1031,1690,76,227
 Humanitarian Country Teams	12105
 I. COUNTRY BACKGROUND INFORMATION Country Profile	12500
-I. COUNTRY CONTEXT AND OPERATION SUMMARY	15924
 I. STRATEGIC CONTEXT A. Country	11380
 I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345,1426,1,2079,80,62,68,37,1,2
 I. Strategic Context A. Country Context	15372
@@ -1313,7 +1314,6 @@ Lands and Country Planning	1161
 Lansong Zhang. Beneficiary Country	13459
 Latin America and The Caribbean Country Argentina	11135
 Lead Country Economist	14017
-Lead Country Economist and Program Leader	15924
 Lead and Country Economists	10718
 Learnfrom Other African Countries	14932
 Least Developed Countries	2663,4536,36,3529,80,160,568,388,981,101,40,306,356,205,39,891,184,1074,97,393,22
@@ -1410,7 +1410,6 @@ MB File Count	9854
 MI Design Effectiveness MI Country	15372
 MIC Middle Income Country MoF Ministry	11863
 MICDE County	7548
-MOF Ministry of Finance CEM Country Economic	15924
 MOSIP VP of Country Implementations Krishnan Rajagopalan	8175
 MP for Aswa County	10672
 MSME Finance Country Coordinator	14106
@@ -1480,6 +1479,7 @@ Murang’a County	10313
 My Country	10822
 My Country Is the Republic of Refugee	12227
 My Vote Counts NPC	11986
+NACSA Percentage of State Count	15845
 NAS Secretariat and County Addressing Units	12149
 NDMA County Drought	14516
 NEIGHBOURING COUNTRIES	11211,51
@@ -1512,6 +1512,7 @@ National Counter Terrorism Fusion Centre	8767,1
 National Countering the Financing of Terrorism Strategy	11277
 National Counterterrorism Fusion Centre	8748
 National Counties	7548
+National Identity Count	15845
 National and County	12151
 National and County Government	14422,124,48
 National and County Governments	6432,7990,124
@@ -1524,7 +1525,6 @@ Nigeria Country Office World Bank Western	11468
 Non-Automated Public Counters	6946
 Non-EU Countries	15901
 Non-Member ECOWAS Country	14434
-Non-Performing Loan CPF Country Partnership Framework	15924
 Non-World Bank Group Financing Counterpart Funding	14015
 Non-fragile Country	1284
 Northern Northern Nairobi County Region Meru	7869
@@ -1578,6 +1578,7 @@ Partner Countries	3760,9683
 Passport Country	11276
 Peer-Learning Country Clinics	7963
 Per Second MCA Member of County Assembly	2775
+Percentage of Count of LIs	15845
 Petroleum Exporting Countries OVC Orphans and Vulnerable	2775
 Petroleum Exporting Countries P2B Person	15023
 Phase II Country	8166
@@ -1623,6 +1624,7 @@ Purchaser's Country Origin of Final	13185
 Purchaser's Country Purchaser's Country	13185
 Purchaser’s Country	15080
 Qhala Digital Economy County Centers of Excellence	6948
+R Counter- Terrorism	15845
 R&D. Countries	10764
 RDGE and Country Director Hervé LOHOUES	13885
 REG. Countries	1048
@@ -1637,6 +1639,7 @@ Rapid Country Analysis	11916
 Real Time Food Prices Country	15620
 Real-Time Review of Country Measures	10763
 Recommendations County	5134
+Recorded Count	15845
 Refugee Country of Origin	10841
 Refugee Policy Review Framework Country Summary	10841,1386
 Refugee Policy Review Framework. Country Summary	11905
@@ -1647,6 +1650,7 @@ Regulatory Agencies and County Focal Points Sector	7548
 Regulatory Agency CCDR Country Climate and Develop	13885
 Related Data Found Country Organizations	11935
 Relevance of Objectives Rationale Country	14888
+Renunciation Count	15845
 Representative Taa Z. Wongbe of Nimba County	4998
 Republic of Angola and Country Director Albert G	1770
 Republic of Congo Country Economic Memorandum	1828
@@ -1931,7 +1935,6 @@ World Bank Country Representative Franklin Mutahakana	8459
 World Bank Country Representative for Lesotho	12747
 World Bank Country and Lending Groups	10785,219
 World Bank Digital Economy Country	1029
-World Bank FY20-25 Country Partnership Framework	15924
 World Bank Group Country Management	15969
 World Bank Group Country Manager	14339
 World Bank Group Country Manager for Madagascar	14603

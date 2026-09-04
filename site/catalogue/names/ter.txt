@@ -52,6 +52,7 @@ Administration du Territoire	1967,377,412,553,1826,959,484,1324,91,624,950,70,31
 Administration du Territoire Nombre	3396
 Administration du Territoire du Niger	1967
 Administrativo A3 Tercer Secretario A3 Vice	4209
+Adult SHS SHS SHS Tertiary Adult	15845
 Affectation des Terres	16001,98
 Africa Teraco’s CT2	3932
 Africa. Terra	10200
@@ -61,6 +62,7 @@ Agences Territoriales de Développement Agricole	16281
 Agency Long Term	1161
 Agreement. TERMS OF USE OF ANONYMIZED	16189
 Airport Terminal Operations Ltd	10045,4708
+Amigos de Crianças Maria Teresa Presidente	15694
 Aménagement des Terrains	13442
 Aménagement des Terrains Urbains	15542
 Aménagement des Territoires	3381
@@ -99,7 +101,6 @@ B Tertiaire	15674
 BENZ COMMANDEMENTS TERRITORIAUX	15901
 BGAN Terminal	736
 BOLETIM OFICIAL Terça	15477
-BOLETIM OFICIAL Terça-feira	15526
 BOND TERMS	14135
 BOSS FREIGHT TERMINAL LIMITED Data Controller	7167
 BR 98 I SERIE 2.o-SUPLEMENTO 2026.pdf Terça-feira	12311
@@ -214,7 +215,6 @@ Contract Terms Selecting of Cloud Service Providers	6432
 Contract. ARTICLE IX TERMINATION OF CONTRACT	13031
 Contract. Termination	13185
 Contract. The Terms of Reference	13031
-Contribution CFT Countering the Financing of Terrorism NPL	15924
 Conversion of Loan Terms	16219
 Coordenação Teresa Spínola Anália Silva Directoras-Gerais	4044
 Coordonnateur du Programme Terra Bénin	10876
@@ -224,6 +224,7 @@ Counter Financing of Terrorism Automatic Teller Machine	12701
 Counter Terrorism	11925
 Counter Terrorism Fusion Centre Director	8768
 Counter Terrorism Unit	2367
+Counter- Terrorism	15845
 Countering Financing of Terrorism	789,10341
 Countering Inclusion Strategy the Financing of Terrorism NGO	12297
 Countering the Financing of Terrorism	789,10347,3683
@@ -237,6 +238,7 @@ CruisingNicely General Terms and Conditions	12690
 Cuando Cubango Luanda TERESA DE FÁTIMA	10751
 Cuanza-Sul Benguela TERESA NTULA PUNA	10751
 Cyber and Data for Higher and Tertiary Education. Harare	12512
+Cybersecurity and Counter- Terrorism	15845
 D SOCIETE CONAKRY TERMINAL SOC CONAKRY	16623
 D Term	11177
 D'AGENT DE TERRAIN	13300
@@ -450,7 +452,7 @@ FT. Teraco	9769
 FTA Free-to-Air FTR Fixed Termination Rate	6946
 Facility Kipevu Oil Terminal FEC Kenya	12256
 Falhas Terão De Ser Reportadas Em	12841
-Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565,808,24,49,96,736
+Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565,808,24,49,96,736,3915
 Federal Capital Territory Administration	4301
 Federal Capital Territory H.E. Dr. Mariya	5991
 Federal Capital Territory Nyesom Wike	7176
@@ -544,6 +546,7 @@ HABITAÇÃO E ORDENAMENTO DO TERRITÓRIO	15380
 HDP Groupes Armés Terroristes	643
 HFCoL Minister of Tertiary Education	14747,28
 HIGHER AND TERTIARY EDUCATION	13420
+HON. EBENEZER O. TERLABI MINTER	15845
 Hautes Terres	14488,1,1
 Hautes Terres Centrales	14442
 Hautes Terres de Madagascar	14489,1
@@ -773,6 +776,7 @@ Metro Terminal	14778
 Mid Term	11133
 Mid Term Expenditure Framework	13332
 Mid Term Review	4653,9304
+Mid-Term and Terminal Evaluations	15845
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Minister of Higher and Tertiary Education	413,4115,7984,1039,137
 Minister of State for Territory Planning	16275
@@ -980,6 +984,7 @@ Publishing Classified Military Information Aids Terrorists	4738
 QUOTA DE MERCADO DE SMS TERMINADAS	11531
 Quantum Terminals. Il	7968
 Quarto Terceiro	10777
+R Counter- Terrorism	15845
 RBZ Financial Inclusion Committee Terms of Reference	940
 REFORME DE LA GOUVERNANCE TERRITORIALE	15722
 REGULATIONS RELATING TO TERMS AND CONDITIONS	13096
@@ -1010,6 +1015,7 @@ SCOPE TERRITORIAL SCOPE	14434
 SECTION6 Additional Terms	4301,48
 SECTOR MEDIUM TERM DEVELOPMENT PLAN	15845
 SHORT TERM OUTCOMES Enabling	13938
+SHS Tertiary SHS SHS SHS	15845
 SITUATION EN TERMES DE COMPETENCES NUMERIQUES	15493
 SOE National Medium Term Revenue Strategy	12500
 SONT PAS TERMINÉES PAR UNE NAISSANCE	13300
@@ -1042,6 +1048,7 @@ Segundo Vice-Primer Ministro Tercero Fiscal General	4209
 Segundo Vice-Primer Ministro Tercero Ministro de Estado	4209
 Service Non-durable Tertiaire	16708
 Services DTT Digital Terrestrial Television ECG	4126
+Serviços de Base Territorial	15526
 Sessions and Term of Mandate	13948
 Sets Terminology	6666
 Sharma Sukon Minister of Tertiary Education	14841
@@ -1292,7 +1299,7 @@ Termii	5875,3719
 Termii's GM	9594
 Terminación	4209
 Terminada	15358
-Terminais	6462,9293
+Terminais	6462,9293,621
 Terminais E Novos Serviços Terão	12841
 Terminais de Caixa Automático	8493
 Terminais de Pagamento	6462
@@ -1517,6 +1524,7 @@ Terrestrial Fiber Link	8214
 Terrestrial Fibre Operators	5681
 Terrestrial Fixed Wireless Technology	15136
 Terrestrial Networks Obsolete	10588
+Terrestrial Operators Face New Competition	16811
 Terrestrial Spectrum	5245
 Terrestrial Television DVB-C	6946
 Terrestrial Wireless	6671,275
@@ -1560,12 +1568,12 @@ Territory Management Modules	11941
 Territory Management Modules of SIMple	11941
 Territory and Quick	11857
 Territory of Mauritius	2913
-Território	1176,4028,1,516,816,77,26,326,3462,326,9,2,3,4,3,591,7,5,12,68,21,6,42,374,38,181,3224,36,8,205,463,131,300,41
+Território	1176,4028,1,516,816,77,26,326,3462,326,9,2,3,4,3,591,7,5,12,68,21,6,42,374,38,181,3224,36,8,138,67,463,82,49,300,41
 Território Faça	15388
 Território MED Ministério da Educação MEP Ministério	11390
 Território Nacional	10747,705,4068,800
 Território URL	15388
-Terrorism	11861,1607,1429,445,559
+Terrorism	11861,1607,1429,445,503,56
 Terrorism Financing National Risk Assessment	11277
 Terrorisme	5478,1481,8942
 Terrorismo	2368,1841,2761,4416,18,3955
@@ -1589,6 +1597,8 @@ Tertiaire	10875,4799,575,459
 Tertiaire Construction	10875
 Tertiaire Construction Industrie	10875
 Tertiaire Industrie	10875
+Tertiar	15845
+Tertiar Tertiar Tertiar	15845
 Tertiary	1261,3267,2220,1121,2906,37,157,11,149,728,22,5,1,10,264,1,44,1,146,4,12,16,77,27,25,391,407,4,677,732,92,17,4,43,17,1
 Tertiary Education	4126,402,6606,745,633,463,335,1432,33,37,7,10,7,960
 Tertiary Education Commission-TEC	14836

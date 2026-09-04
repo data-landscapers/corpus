@@ -296,6 +296,7 @@ Controls Uganda's Digital Identity	9600
 Cool Ideas Service Provider	11259
 Cool Ideas Service Provider FTTx	11259
 Cooperation Deepening Agency SIM Subscriber Identity	12297
+Cooperative Identification Number	16796
 Cooperative Member Identification Number	9876
 Coopératives Question A. IDENTIFICATION	13390
 Copy of Identification Documents	12400
@@ -879,7 +880,7 @@ Identificador-Único	11386
 Identificador-único	11419
 Identificadores	10755,1387
 Identificam-se	11569
-Identificar	167,1534,1115,1402,6529,7,23,6,593,10,1,17,26,19,3,90,27,329,3578,28,190,627
+Identificar	167,1534,1115,1402,6529,7,23,6,593,10,1,17,26,19,3,90,27,329,3578,28,22,168,627
 Identificateur	16616
 Identification	33,75,128,237,525,7,4,178,27,78,410,76,36,14,2,109,49,69,361,340,325,389,132,47,24,87,163,53,392,363,1005,35,94,57,462,4,149,143,256,775,50,133,6,91,25,56,380,443,509,68,163,1,30,49,339,98,83,195,115,165,2,7,43,11,37,2,5,2,33,13,8,1,15,29,18,37,2,179,23,12,4,38,11,21,4,298,290,12,6,2,23,9,1,16,29,5,12,4,10,20,35,2,103,68,13,26,46,34,4,22,5,41,95,7,336,69,14,51,103,15,111,100,34,35,6,4,5,8,5,96,14,10,43,111,4,151,2,1,84,72,252,176,6,14,41,3,5,1,1,47,12,25,48,25,89,114,38,77,32,27,57,163,109,10,30,1,20,1,2,14,13,3,27,19,25,24,5,36,1,55,107,97,1,41,51,7,127,33,14,31,1,40,6,100,27,6,201,2,15,6,89,24,37,4,38,3
 Identification Act	1939,3594,539,52,263,125,4664,37,69,291,413,61,7,273,10,30,580,12,25
@@ -970,7 +971,7 @@ Identification des Personnes Physiques	14243,2408
 Identification des Personnes Pour	15431
 Identification des Personnes. Article	15431
 Identification des Personnes. Il	15431
-Identification for Development	442,801,539,396,3143,379,1944,3070,51,10,10,27,7,158,30,860,360,108,199,129,421,247,428,675,981,138,290,1,2,819
+Identification for Development	442,801,539,396,3143,379,1944,3070,51,10,10,27,7,158,30,860,360,108,199,129,421,247,428,675,981,138,290,1,2,819,157
 Identification for Development. WBG	15518
 Identification for Regional Integration	3604
 Identification for Regional Integration and Inclusion	4855,5964
@@ -988,7 +989,7 @@ Identification. Ce	7713
 Identification. Officials	10899
 Identificationofaresponsiblehealth-	8301
 Identificatlon	15363
-Identificação	15,534,245,1,1643,378,4154,2301,1479,3,1,12,6,5,6,578,4,3,16,2,18,15,11,21,5,2,3,58,47,3,329,3,38,82,754,2695,34,60,191,84,183,34,164,267,69
+Identificação	15,534,245,1,1643,378,4154,2301,1479,3,1,12,6,5,6,578,4,3,16,2,18,15,11,21,5,2,3,58,47,3,329,3,38,82,754,2695,34,60,130,61,84,183,34,82,82,156,111,69
 Identificação A Direção Geral	15470
 Identificação Bancária	12848
 Identificação Biométrica	10754
@@ -1240,6 +1241,7 @@ Improved Identity Registration and Credential Issuance Key	13005
 Inclusive Digital Economy Scorecard The IDES	12941
 Income Identification Document International Monetary Fund	12701
 India's Modular Open Source Identity Platform	2804
+Indicator Identification	15845
 Infectious Disease Preparedness ID Identification	14434
 Information System ID Identity Document NIIS	11986
 Information System ID4D World Bank Identification	13681
@@ -1485,7 +1487,7 @@ National Identification Needs	2363
 National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1,181,265,41,66,27,1,1,6,1276,348,495,186,32,90,163,415,68,549
 National Identification Number Data	15393
 National Identification Number TIN	11861
-National Identification Numbers	2743,80,101,938,1835,604,134,168,86,81,993,372,281,661,619,1401,617,1167
+National Identification Numbers	2743,80,101,938,1835,604,134,168,86,81,993,372,281,661,619,1401,617,1167,3892
 National Identification Numbers and Libyan	4531
 National Identification Office	1864,8948
 National Identification Project	5855
@@ -1538,6 +1540,7 @@ National Identity Cards Act	12648
 National Identity Cards Issued Year	12533
 National Identity Cards. Despite Airtel Malawi	12978
 National Identity Cards. Digital	14741
+National Identity Count	15845
 National Identity Data Capturing	11857
 National Identity Database	4602,972,1567,3,1970,556
 National Identity Database. Under DG Abisoye	3703
@@ -2054,6 +2057,8 @@ Under the National Identification Act	2829
 Under the National Identity Management Commission Act	5574
 Under the Single Digital Identification Law	5399
 Understanding NICA National Identity Cards Act	12663
+Unidade Estatística Identificável	15450
+Unidade Estatística Não Identificável	15450
 Unified Registration and Identification System	10714
 Unified Tax Identification Number	12389
 Unified Tax Identification System Previously	12022

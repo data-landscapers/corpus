@@ -179,11 +179,12 @@ Enfin	643,104,1,250,7,182,781,16,296,62,65,5,144,67,72,5,32,6,30,83,24,76,10,5,1
 Enflure	15712
 Enfor1c1e.10meEnntfaonrdceCmoemnptlaianndcCeompliance	10157
 Enforc	9123
-Enforce	1988,471,318,2756,132,767,504,1881,1904,44,10,54,327,784,46,215,13,26,13,106,94,464,47,350,1308,52,77,67,129,87,127,816,235,362
+Enforce	1988,471,318,2756,132,767,504,1881,1904,44,10,54,327,784,46,215,13,26,13,106,94,464,47,350,1308,52,77,67,129,87,127,684,132,235,362
 Enforce AU	3583
 Enforce Compensation Rules for Operators	9563
 Enforce Copyright	12389
 Enforce Data Protection	5244
+Enforce Data Protection Act	15845
 Enforce ESG	6938
 Enforce LSP	10721
 Enforce Multi-Factor Authentication	13037
@@ -256,7 +257,7 @@ Enforcement of Record-keeping	11860
 Enforcement of SIM	9781
 Enforcement of Security Interests	12389
 Enforces	13037
-Enforcing	1828,10412,1072,2,2898,48
+Enforcing	1828,10412,1072,2,2610,288,48
 Enforcing Compliance	14932
 Enforcing and Penalizing	11857
 Enforcing the Data Protection Act and Regulations	12189
@@ -352,6 +353,7 @@ National Drugs Law Enforcement Agency	11928
 Nigeria Data Protection Commission. Law Enforcement	7110
 Nigeria's Strategy Is Broad. Its Enforcement	8088
 Nigeria. IN-9 Implement Open Implementation and Enforcement	11857
+Nigerian Communications Commission Enforcement	16799
 Nominations. Enfin	2738,588
 NÉGLIGE LES ENFANTS	13300
 OBJECTIVES STRATEGIES ACTIVITIES Enforce	12453
@@ -385,6 +387,7 @@ Postal and Courier Enforcement	6946
 Presence and Enforcement	12214
 Privacy Enforcement Authorities	12210
 Programa de Enfermedades Tropicales Desatendidas	4209
+Promote Enforce	15845
 Promote Enforces	11857
 Proportion Enfants	13300
 Protection of Personal Information Act. Enforcement	4583

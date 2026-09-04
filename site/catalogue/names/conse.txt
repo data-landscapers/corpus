@@ -151,15 +151,18 @@ CONSEJOS DE POBLADOS CATEGORÍA MINISTERIO CONCEPTO	4209
 CONSEJOS DE POBLADOS CONSEJOS DE POBLADOS	4209
 CONSELHO CONSULTIVO. Em	11531
 CONSELHO DE ADMINISTRAÇÃO	11531
-CONSELHO DE MINISTROS	576,3698,11084,33,1,41,7,64,22,46,117,5
+CONSELHO DE MINISTROS	576,3698,11084,33,1,41,7,64,22,46,117
+CONSELHO DE MINISTROS A2025	15912
+CONSELHO DE MINISTROS A2026	16376
+CONSELHO DE MINISTROS Anexo	15694
 CONSELHO DE MINISTROS Autoriza	11983
 CONSELHO DE MINISTROS Cria	11983
 CONSELHO DE MINISTROS Decreto	12774,8,1,3436
-CONSELHO DE MINISTROS Decreto-Lei	16056,320
+CONSELHO DE MINISTROS Decreto-Lei	16056
+CONSELHO DE MINISTROS Decreto-lei	15526
 CONSELHO DE MINISTROS Estabelece	11983
-CONSELHO DE MINISTROS Forma	15912
 CONSELHO DE MINISTROS Procede	11983
-CONSELHO DE MINISTROS Resolução	795,14960,264
+CONSELHO DE MINISTROS Resolução	795,14899,61,264
 CONSELHO NACIONAL DE CIBERSEGURANÇA	11397
 CONSELHO TÉCNICO	11531
 CONSENSUS ET VALIDATION	16195
@@ -519,7 +522,7 @@ Consejos Directivos Sectoriales	11525
 Consejos de Poblados	4209
 Consel'Vatória	11514
 Conselheiro da ARC	15982
-Conselho	13,2,152,263,2386,1331,1839,2758,31,1985,754,4,51,3957
+Conselho	13,2,152,263,2386,1331,1839,2758,31,1985,754,4,51,3881,76
 Conselho Administrativo Geral da Justiça	10750
 Conselho Administrativo de Defesa Econômica	8760
 Conselho Africano de IA	3519
@@ -530,20 +533,26 @@ Conselho Constitucional de Moçambique	8243
 Conselho Constitucional. Em	12854
 Conselho Constitucional. Lei	12785
 Conselho Constitucional. Num	12854
-Conselho Consultivo	13,4068,11691
+Conselho Consultivo	13,4068,11691,140
+Conselho Consultivo Tributário	15526
 Conselho Consultivo da Economia Digital	1409,2672
 Conselho Consultivo de IA	2816
 Conselho Consultivo. Durante	4081
 Conselho Directivo	3421,168,629,1360,847,36,2314,2607
-Conselho Diretivo	15433,53,648,65
+Conselho Diretivo	15433,17,36,426,222,65
+Conselho Diretivo Artigo	15912
 Conselho Diretivo GCDC Gabinete de Comunicação	15535
+Conselho Diretivo da ATCV	15912
+Conselho Diretivo da Assembleia Nacional. Compete	15450
+Conselho Diretivo. Artigo	15912
+Conselho Diretivo. Secção II Serviços Artigo	15912
 Conselho Edição Nº	10752
 Conselho Empresarial	2816
 Conselho Europeu	2816
 Conselho Executivo Provincial Tete	5129
 Conselho Executivo Provincial Tete Zambia and Mozambique	5129
 Conselho Executivo da União Africana EX.CL	795
-Conselho Fiscal	13,154,4051,7164,67,1334,3306
+Conselho Fiscal	13,154,4051,7164,67,1334,3129,177
 Conselho Fiscal. ARTIGOS	12783
 Conselho Fiscal. Serviços Executivos	167
 Conselho Gestor	15476
@@ -555,13 +564,13 @@ Conselho Municipal da Matola	10140
 Conselho Municipal de Auscultação da Comunidade	11373
 Conselho Municipal de Concertação Social CMVC Conselho	11390
 Conselho Municipal de Maputo	574
-Conselho Nacional	4736,6628,1,1405,53
+Conselho Nacional	4736,6628,1,1405,53,2627
 Conselho Nacional de Avaliação da Qualidade	12809
 Conselho Nacional de Cibersegurança	4146,1,71,4662,919,1273,343
 Conselho Nacional de Comunicação Social	11513,48
 Conselho Nacional de Desenvolvimento	15526
 Conselho Nacional de Electricidade	9226
-Conselho Nacional de Estatística	6619,4830,4086
+Conselho Nacional de Estatística	6619,4830,4001,85
 Conselho Nacional de Informação Estatística	11516
 Conselho Nacional de Inteligência Artificial	3519
 Conselho Nacional de Protecção de Dados	2816
@@ -569,7 +578,7 @@ Conselho Nacional de Segurança Cibernética	6970,5853
 Conselho Nacional de Transição	6307,2437
 Conselho Presidencial de IA	3519
 Conselho Sabendo	10751
-Conselho Superior	12039,3487
+Conselho Superior	12039,3487,386
 Conselho Superior da Comunicação Social	12311,522
 Conselho Superior da Estatística	11526
 Conselho Superior da Magistratura	16487
@@ -626,6 +635,7 @@ Conselho de Auscultação Social. Disse	5721
 Conselho de Competitividade	11898
 Conselho de Concertação Social	1861,14161
 Conselho de Controlo de Atividades Financeiras	11683
+Conselho de Desenvolvimento	15526
 Conselho de Direcção	10753,699,1331
 Conselho de Direcção A Delegação da Justiça	10752
 Conselho de Diretivo da Autoridade Tributária	16549
@@ -633,23 +643,22 @@ Conselho de Europa	2816,12693
 Conselho de Gestão da AMECON	8003
 Conselho de Minis	11527
 Conselho de Ministro	15503
-Conselho de Ministros	13,154,409,168,8,42,1,1642,379,50,326,54,273,556,71,1,71,56,141,1,1,1,17,1551,723,261,978,1016,307,843,640,18,11,575,2,1,1,7,2,1,1,5,3,1,1,11,2,1,18,4,11,3,10,6,3,3,2,10,47,4,1,1,6,1,10,20,12,332,410,463,3,5,1,12,13,15,19,2516,1,21,11,1,12,29,7,64,22,6,40,117,5,61,264,3,67,130,128
+Conselho de Ministros	13,154,409,168,8,42,1,1642,379,50,326,54,273,556,71,1,71,56,141,1,1,1,17,1551,723,261,978,1016,307,843,640,18,11,575,2,1,1,7,2,1,1,5,3,1,1,11,2,1,18,4,11,3,10,6,3,3,2,10,47,4,1,1,6,1,10,20,12,332,410,463,3,5,1,12,13,15,19,2516,1,21,11,1,12,29,7,10,54,22,6,40,117,5,61,157,107,3,67,130,128,29
 Conselho de Ministros Cessando	16549
 Conselho de Ministros Dando	16549
 Conselho de Ministros Decreto	11569
 Conselho de Ministros Nomeando	16549
-Conselho de Ministros. Artigo	6970,5341,512,2749
+Conselho de Ministros. Artigo	6970,5341,512,2627,122
 Conselho de Ministros. CAPÍTULO III MEDIDAS	16056
 Conselho de Ministros. Em	5988
 Conselho de Ministros. José Maria Pereira Neves	15358,1
-Conselho de Ministério MFI DS Conselho Nacional	15694
 Conselho de Prevenção da Corrupção	15477
 Conselho de Redacção	12311
 Conselho de Revisão Institucional	10777
 Conselho de Supervisão	16089
 Conselho. ARTIGO	11518
 Conselho. Artigo	167
-Conselho. Subsecção III Conselho Nacional	15526
+Conselho. Subsecção II	15526
 Conselhos	11425,1415,3282
 Conselhos Aviso	16122
 Conselhos Consultivos	2816
@@ -743,6 +752,7 @@ Conservatoire National de Musique François Mitterand	14774
 Conservator	14713
 Conservator of Mortgages	14713,9,39
 Conservatorship	15553
+ConservatórSiaOdSosSãRoegVisictoesntCeomercial	15694
 Conservatória	5296,554,4901,10,602,165,9,39,322,3,874,2621,894
 Conservatória de Bissau	11566
 Conservatória de Registo Civil	10756,690
@@ -801,6 +811,7 @@ DES SAISIES CONSERVATOIRES Section	13293
 DES SERVITEURS DU PEUPLE Le Conseil	8321
 DES SERVITEURS DU PEUPLELe Conseil	7670
 DIASPORA Le Conseil des Ministres	16175
+DO O Conselho Nacional de Estatística	15450
 DO PARLAMENTO EUROPEU E DO CONSELHO	2816
 DOS MEMBROS DO CONSELHO DE ADMINISTRAÇÃO	752
 DPPA. Consent	12232
@@ -834,7 +845,6 @@ Denis SASSOU-N’GUESSO En Conseil	15660,126
 Department of Wildlife Conservation	15478
 Description From the Conseil	3780
 Desempenho CICA Conselho de Igrejas Cristãs de Angola	11390
-Desenvolvimento Social Conselho Nacional	15694
 Devastating Consequences	15658
 Digital Single Market. Consequently	11313
 Digitalisation' Conseil des Ministres	15489
@@ -858,6 +868,7 @@ Décret. Le Conseil National	16616
 Délibérolions du Conseil	15429
 D’ADMINISTRATION Le Conseil	16287
 E CONSENTEMENT	13300
+E CONSERVAÇÃO COMUNITÁRIA DOS ESPAÇOS COMUNS	16138
 E N T M CONSENTEMENT	13300
 E SESSION ORDINAIRE DU CONSEIL D’ADMINISTRATION	7925
 E SOCIETE NIMBA CONSEIL NIMBA CONSEIL	16623
@@ -1092,6 +1103,7 @@ MEMBRES DES CONSEILS LOCAUX ET DES	15727
 MEMBRES DU CONSEIL D’ADMINISTRATION	16175
 MEMBRES DU CONSEIL D’ADMINISTRATION Sylvie OLELA	15670
 MEZEME MBA Maryse. SECRÉTARIAT DU CONSEIL	16381
+MFI Conselho Nacional da Familia	15694
 MINES Le Conseil des Ministres	11597
 MINISTERE DE LA SANTE Le Conseil	16099
 MINISTERE DE LA SECURITE Le Conseil	15942,345
@@ -1119,8 +1131,6 @@ Ministro Consejero A2	4209
 Ministro Consejero A2 Ministro Consejero A3	4209
 Ministro Consejero A3	4209
 Ministro de Tutela. O Conselho de Administração	13
-Ministro. Subsecção II Conselho Consultivo Tributário	15526
-Ministro. Subsecção IV Conselho Nacional de Desenvolvimento	15526
 Ministry of Interior and MCIT. Consequently	16046
 Ministry of Wildlife Conservation and Tourism	3583
 Ministère des Serviteurs du Peuple le Conseil	5304
@@ -1137,8 +1147,8 @@ MÉDIAS Le Conseil	16381
 NATIONAL DE LA SOCIETE CIVILE CONSEIL	16322
 NDERAGAKURA Janvier Informaticien Conseiller Régie Nationale	13341
 NDICE CONSELHO DE MINISTROS	15433
-NDICE CONSELHO DE MINISTROS Decreto-lei	15504,22
-NDICE CONSELHO DE MINISTROS Resolução	15689,5
+NDICE CONSELHO DE MINISTROS Decreto-lei	15504
+NDICE CONSELHO DE MINISTROS Resolução	15689
 NDICE PA RT E C CONSELHO	15404
 NDS1. Consequently	13420
 NGOs Eco-Sud Reef Conservation SHOALS Rodrigues	11332
@@ -1160,6 +1170,8 @@ National Parks and Conservation Services	14847
 National Water Conservation	14546
 National Water Conservation and Pipeline Corporation	14546
 Nature Conservation and Nuclear Safety	9393
+Natureza O Conselho Consultivo	15912
+Natureza O Conselho Diretivo	15912
 Nicolas BENON Conseiller Soumanou OKE Conseiller	10821
 Niger Soumaila ABDOULKARIM Conseiller Technique du Ministre	10708
 Nomenclature du Conseil de Coopération Douanière NDB	13377
@@ -1171,16 +1183,19 @@ O Conselho	15,15511
 O Conselho Administração	15391
 O Conselho Científico. Artigo	15503
 O Conselho Constitucional	8658,87
-O Conselho Consultivo	13
+O Conselho Consultivo	13,15899
 O Conselho Consultivo Tributário	15526
+O Conselho Consultivo da ATCV	15912
+O Conselho Consultivo. Artigo	15912
 O Conselho Consultivo. PARTE I CONSELHO	11518
 O Conselho Coordenador de Recenseamento Geral da População	12770
 O Conselho Directivo	4218,4557,2607
-O Conselho Fiscal	13,154,4051,7164,67
+O Conselho Diretivo	15912
+O Conselho Fiscal	13,154,4051,7164,67,4001
 O Conselho Nacional	15526
 O Conselho Nacional de Cibersegurança	4147
 O Conselho Nacional de Desenvolvimento	15526
-O Conselho Nacional de Estatística	11963
+O Conselho Nacional de Estatística	11963,3487
 O Conselho Nacional de Segurança Cibernética	6970
 O Conselho Nacional de Transição	6307,2437
 O Conselho Superior de Estatística	11516,1254
@@ -1340,6 +1355,7 @@ Secretario Consejero Superior	4209
 Secretario Consejo Superior	4209
 Secretario Gral. Adj. Consejo Super. Podel	4209
 Secretario Gral. Consejo Super. Podel Judicial	4209
+Secretário Conselho	15526
 Secrétaire Adjoint du Conseil des Ministres	16175
 Secrétaire Exécutif. Le Conseil de Régulation	16327
 Secrétaire du Conseil	13292,9
@@ -1373,8 +1389,8 @@ Statements and Questions. Consequently	10313
 Statistics Mauritius National Parks and Conservation Service	11332
 Statut des Conseils	16328
 Sub-Saharan Africa. Consequently	1828
-Subsecção I Conselho	15526
-Subsecção V Conselho Nacional de Desenvolvimento	15526
+Subsecção III Conselho Nacional	15526
+Subsecção IV Conselho Consultivo Artigo	15912
 Suivi des Résolutions du Conseil	10975
 Sylvie OLELA ODIMBA Présidente du Conseil	15670
 Synapsys Conseils SA	9000,1

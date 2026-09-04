@@ -15,8 +15,7 @@ Centre Hospitalier Régional Estuaire	16001
 Centre Hospitalier Régional Estuaire-Melen	16099
 Centro Regional de Estudos	2816
 Centro de Estudos	10747,795
-Centro de Estudos Jurídico	15526
-Centro de Estudos Jurídicos	11983
+Centro de Estudos Jurídicos	11983,3543
 Chefe de Departamento de Estudos	11391
 Ciclo de Estudos	16166
 D.G. DE ESTUDIOS	4209
@@ -40,7 +39,7 @@ Estudante da Uni-CV Conquista Medalha de Bronze	10349
 Estudantes	6462,4315,5133
 Estudantes Finalistas	6462
 Estudantes Matriculados	11387
-Estudar	11381,68,4123
+Estudar	11381,68,4077,46
 Estudiantes	4209
 Estudiantes Universitarios	4209
 Estudiar	1701
@@ -57,13 +56,14 @@ Estudo de Impacto Ambiental	6269,5273
 Estudo de Viabilidade	11555
 Estudos	2298,518,7950,17,751,4953
 Estudos Económicos DGRH Direção-Geral	11557
+Estudos Jurídico	15526
 Estudos Pesquisar	15388
 GABINETE DE ESTUDOS	10752,14
 Gabinete de Estudo	11453
 Gabinete de Estudos	13,4741,4505,1493,14,595,26,4,147,19
+Gabinete de Estudos Fiscais	15912
 Gabinete de Estudos Planeamento	10752
 Gabinete de PLANEAMENTO Estudos	10752
-Governo. O Centro de Estudos Jurídicos	15526
 III- PERSPECTIVA DO ESTUDO COMPARADO	3519
 INAGBE BOLSAS DE ESTUDO EXTERNAS	11391
 INFORMAÇÕES DO PROJETO Projeto Estudo de Viabilidade	11555
@@ -78,7 +78,9 @@ Integrado Licenciatura Pós-graduação DESP Ciclo de Estudos	16166
 Jefe de Estudios Grupo	4209
 MW Estuaire	16037
 O Centro de Estudos Jurídico	15526
-O Estudo	11569
+O Centro de Estudos Jurídicos	15526
+O Estudo	11569,4125
+O Estudo Bio Comportamental	15694
 O Estudo Sobre Governo Electrónico	11569
 ORGANISMOS ESTUDIOS	4209
 Os Projectos de Estudos de Investimento Público	10783

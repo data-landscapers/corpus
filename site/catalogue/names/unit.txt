@@ -173,7 +173,6 @@ CPU Central Processing Unit CSA Cloud	11952
 CPU Central Processing Unit CVM Controller	13185
 CS-REF Economic and Financial Reform Monitoring Unit	969
 CTN-PS National Technical Unit for Health Projects	10829
-Cabo Verde UGA Procurement Management Units	15924
 Cabo Verde. Requesting Unit	11965
 Calibration Services The Metrology Unit	14736
 Cameroon Requesting Unit	15782
@@ -233,6 +232,8 @@ Committees DMMU Disaster Management and Mitigation Unit	13332
 Communication Unit CELINFO	16041
 Communication Unité de Gestion du Projet	14423
 Communications Technology Unit Haile Sellaise Avenue	34
+Community Policing Unit Objective	15845
+Community Policing Unit S	15845
 Community Policing Unit Strategic Plan	12732
 Comoros. Requesting Unit	13734
 Compact Delivery Monitoring Unit	12595
@@ -286,7 +287,7 @@ Crime Prevention Unit WAREHOUSING FIREARM INDEX	14760
 Crime Prevention Unit and Brigade Pour	14742
 Crisis Coordination Unit	6947
 Cultural Organization WASH United Nations High	11905
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,142,59,49,112,240,52,178
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178
 Currency Unit Equivalent	13938
 Currency Unit1 Equivalent	11863
 Custom Duties Unit Price	13185
@@ -796,7 +797,7 @@ Local Customs Selection Units	13042
 Local Government Units	14634
 Local Units Centers Villages Beneficiaries	15578
 Logotipo da UNITEL Divulgação Luanda	8675
-M&E Unit	940,11416,621
+M&E Unit	940,11416,621,2868
 MACROECONOMIC ANALYSIS AND RESEARCH UNIT	12962
 MARCO RUBIO SECRETARY OF STATE UNITED	4153
 MEA Monitoring Unit	9353
@@ -1217,7 +1218,9 @@ Quality Unit	15760
 Quality Unit. The General Statistical Business	15760
 Quality Unit. Working Groups	15760
 Quantity Unit	13185
+R Cybercrime Investigation Unit	15845
 R E RÉPUBLIQUE DU CONGO Unité	15379
+R Immigration Guard Unit	15845
 RDB Strategic Investment Unit	14947
 REAIM and United Nations	7548
 REGIONAL LEADERSHIP Her Excellency the United	14566
@@ -1239,6 +1242,7 @@ Refugees UNICEF United Nations Children’s Fund	10775
 Refugees United Nations Children’s Fund United	15658
 Registration Units	10765
 Rehabilitación Escuela Unitaria	4209
+Relation Unit	15845
 Relevant Work Unit	14113
 Religious Freedom United Nations	15092
 Remember. Unite. Renew. South-South Cooperation Convention	8674
@@ -1291,6 +1295,7 @@ SITA's Passenger Information Unit	4275
 SMART Zambia Southern Provincial ICT Unit	7503
 SME Registration Unit	14750
 SMS Short Message Service UN United	10765,10
+SOE Oversight Unit	15924
 SOMMAIRE RÉPUBLIQUE DU CONGO Unité	15615,77,156,199,200,166
 SOTELCO Project Coordination Unit Public Private	15372
 SOUTHERN AFRICAN DEVELOPMENT COMMUNITY UNIT	12962
@@ -1459,7 +1464,6 @@ Taxpayer Identification Unit	16601
 Taxpayers Education Unit	12500
 Tech Nigeria Police Cybercrime Unit Recovers	2269
 Technical Appendix UNITED NATIONS E-GOVERNMENT SURVEY	14006
-Technical Assistance SOE Oversight Unit	15924
 Technical Examinations Unit	258
 Technical Support Unit	12240
 Technical Unit	14835,823
@@ -1655,6 +1659,7 @@ Unit Assistant Secretary General	14835
 Unit Baseline Targets Estimated Budget	14947
 Unit Construction	15578
 Unit Converter Contact Us Resources Login	12511
+Unit Cost of Infrastructure Estimator Tool	15845
 Unit Costs	1778
 Unit Current USD	10759
 Unit DAJC	16041
@@ -1784,7 +1789,7 @@ United Heart Movement	4127
 United Hotel	10975
 United Insurance	14897
 United Investment LMT	12035
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148
 United Kingdom Corresponding Author	12025
 United Kingdom Foreign	10768,3299,75
 United Kingdom Global Cybersecurity Index	10764
@@ -1806,7 +1811,7 @@ United Kingdom and Singapore	5371
 United Kingdom of Great Britain and Northern Ireland	1243,5370,4251,290,1886,1753,713,219,855
 United Kingdom's Bribery Act	3583
 United Kingdom's Electronic Trade Documents Act	10718
-United Kingdom's Foreign	6426,7111,1522,949
+United Kingdom's Foreign	6426,7111,1522,949,762
 United Kingdom's GOV.UK and Rwanda	6277
 United Kingdom's High Commissioner	5757
 United Kingdom's Home Office	4052
@@ -1837,7 +1842,7 @@ United Nation's E-Government Development Index	12674
 United Nation's Sustainable Development Goals	940,11734
 United National Children’s Fund World Food	15601
 United National Population Fund VAC Violence	12939
-United Nations	236,79,626,20,282,391,4,176,73,25,205,145,87,86,90,4,148,114,167,203,71,12,321,18,21,108,149,57,1,1,207,143,258,98,378,40,30,13,23,55,80,122,166,21,188,261,195,114,61,101,138,29,64,244,94,16,53,58,29,43,67,11,103,9,20,8,79,9,130,71,96,25,136,44,63,250,17,248,85,27,205,73,25,39,24,30,512,3,57,364,138,82,159,263,51,10,1,9,34,21,1,11,4,107,1,1,4,35,24,43,78,5,23,8,3,5,2,15,14,34,4,17,5,48,8,58,71,56,11,16,17,12,28,4,38,206,10,1,16,3,8,14,11,40,26,10,6,136,15,1,4,1,4,38,4,9,13,4,10,37,49,3,5,2,1,3,10,4,2,3,7,9,37,28,46,20,5,21,11,82,33,8,7,1,17,33,34,27,42,82,31,7,14,2,8,3,6,5,51,3,2,7,31,13,2,27,22,4,18,19,29,5,34,78,1,27,8,15,6,6,81,10,24,34,1,68,49,91,12,31,12,1,130,39,12,19,22,89,79,79,132,25,52,31,49,108,1,54,3,10,3,21,8,3,32,10,9,3,22,21,5,15,1,1,1,37,1,24,6,36,19,2,17,17,24,13,36,91,15,10,166,4,32,31,13,1,26,56,16,14,16,1,13,24,3,2,52,10,6,170,18,32,85,153,9,382,51
+United Nations	236,79,626,20,282,391,4,176,73,25,205,145,87,86,90,4,148,114,167,203,71,12,321,18,21,108,149,57,1,1,207,143,258,98,378,40,30,13,23,55,80,122,166,21,188,261,195,114,61,101,138,29,64,244,94,16,53,58,29,43,67,11,103,9,20,8,79,9,130,71,96,25,136,44,63,250,17,248,85,27,205,73,25,39,24,30,512,3,57,364,138,82,159,263,51,10,1,9,34,21,1,11,4,107,1,1,4,35,24,43,78,5,23,8,3,5,2,15,14,34,4,17,5,48,8,58,71,56,11,16,17,12,28,4,38,206,10,1,16,3,8,14,11,40,26,10,6,136,15,1,4,1,4,38,4,9,13,4,10,37,49,3,5,2,1,3,10,4,2,3,7,9,37,28,46,20,5,21,11,82,33,8,7,1,17,33,34,27,42,82,31,7,14,2,8,3,6,5,51,3,2,7,31,13,2,27,22,4,18,19,29,5,34,78,1,27,8,15,6,6,81,10,24,34,1,68,49,91,12,31,12,1,130,39,12,19,22,89,79,79,132,25,52,31,49,108,1,54,3,10,3,21,8,3,32,10,9,3,22,21,5,15,1,1,1,37,1,24,6,36,19,2,17,17,24,13,36,91,15,10,166,4,32,31,13,1,26,56,16,14,16,1,13,24,3,2,52,10,6,170,18,32,85,153,9,382,51,156
 United Nations AI for Good Global Commission	11682
 United Nations AI for Good Global Summit	7174
 United Nations Administrative Region	13042
@@ -1939,7 +1944,7 @@ United Nations Economic Commission for Western Asia	11572
 United Nations Economic Programme for Europe	11572
 United Nations Economic and Social	10840
 United Nations Economic and Social Commission for Asia	12367,46,2643
-United Nations Economic and Social Commission for Western	4492,2736,6678,7
+United Nations Economic and Social Commission for Western	4492,2736,6678,7,2888
 United Nations Economic and Social Council	14932
 United Nations Economist Network	14819
 United Nations Education	15553
@@ -1972,6 +1977,7 @@ United Nations GDP	15725
 United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132,319,858,986,762,214,72,1214,68
 United Nations General Assembly and Nigeria	8552
 United Nations Global AI Governance Dialogue	7103
+United Nations Global Compact Initiative	16778
 United Nations Global Counter-Terrorism Strategy	11183
 United Nations Global Dialogue	7072,89,8,1459,1,632,3499
 United Nations Global Digital Compact	11478
@@ -2216,7 +2222,7 @@ United Resource Development and PSP Payment Service	14897
 United SA	6238
 United State	14030
 United State of America N	12151
-United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140
+United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15
 United States African Network	13331
 United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599
 United States Agency for International Development Angola	10780
@@ -2374,7 +2380,7 @@ Uniti's US	6270,334
 Uniting With Youth Against Corruption	13108
 Unitization	16047
 Unitrack	16631
-Units	1000,7999,2130,59,663,664,447,171,1615,12,34,36,414,180,49
+Units	1000,7999,2130,59,663,664,447,171,1615,12,34,36,414,180,49,372
 Units LPG	12515
 Units Number of ICT	12453
 Units Room Conditioner	12253

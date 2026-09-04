@@ -5,7 +5,7 @@ Actividade Estatística Oficial	11359
 Admón.. B3 Oficial de Comunicación A1 Oficial	4209
 Africanos de Língua Oficial Portuguesa PARIS	15535
 Asistencia Oficial	1701
-Atividade Estatística Oficial	11537
+Atividade Estatística Oficial	11537,3913
 Atividade Estatística Oficial Por	11537
 BOLETIM DA REPÚBLICA PUBLICAÇÃO OFICIAL	12772,1,1
 BOLETIM OFICIAL	11519,25,3814,1,32,1,4,8,36,132
@@ -13,19 +13,19 @@ BOLETIM OFICIAL CONSELHO DE MINISTROS	15380
 BOLETIM OFICIAL CONSELHO DE MINISTROS Resolução	15755
 BOLETIM OFICIAL DA REPÚBLICA DA GUINÉ-BISSAU	11530
 BOLETIM OFICIAL I Série	15391,181
-BOLETIM OFICIAL I Série Número	15694
 BOLETIM OFICIAL Quinta-feira	11518
+BOLETIM OFICIAL Registo	15694
 BOLETIM OFICIAL SUPLEMENTO ASSEMBLEIA NACIONAL Lei	16022
 BOLETIM OFICIAL Segunda-feira	15503,29
 BOLETIM OFICIAL Sexta-feira	15433,71,185
 BOLETIM OFICIAL Terça	15477
-BOLETIM OFICIAL Terça-feira	15526
 BOLETIM OFICIAL URL	11527,3832,21,16,44
 Boletim Ofi	15359,32,13
 Boletim Oficial	1251,1,1,1,1,1,86,747,1103,1219,8,597,427,441,687,4947,1,1,7,1,3,38,13,101,218,82,3372,25,24,29,7,10,76,6,22,135,16,50,157,43,64,3,34,33,33,16,152,86,173
 Boletim Oficial I Série	15503,1,28,157,5
 Boletim Oficial da República da Guiné-Bissau	11569
 Boletim Oficial da República de Cabo Verde	15477
+Boletim Oficial. Chefia	15526
 Boletín Oficial	163,4046
 Category Number of Participants Commercial Banks and OFIs	14777
 Centro Nacional de Emisión de Documentos Oficiales	1382,2827
@@ -48,7 +48,7 @@ Disponibilidade de Estatísticas On-line Oficiais	11898
 Eleitoral Oficioso	9399
 Embajada A3 Oficial de Comunicación B1 Oficial	4209
 Estadísticas Oficiales de Guinea Ecuatorial. Esta	12075
-Estatísticas Oficiais	6619,4740,157,4019
+Estatísticas Oficiais	6619,4740,157,3934,85
 Extensión de OFIVE	4209
 FY2024 Boletim Oficial	2085,1,1,1
 GW OFICIAL	11531
@@ -56,6 +56,7 @@ Gabinete Ministerio Oficial Mayor	4209
 General Adjunto Oficial Mayor Interventor Abogado	4209
 Gobierno de Guinea Ecuatorial Oficina de Información	9065,5116
 I SÉRIE BOLETIM OFICIAL Endereço Electronico	15532,157
+I SÉRIE BOLETIM OFICIAL Registo	15526
 I Série BOLETIM OFICIAL Registo	15755
 II SÉRIE BOLETIM OFICIAL Endereço Electronico	15689
 Implementación Oficina Técnica de Diseño de Proyectos	4209
@@ -86,7 +87,7 @@ Oficiais de Justiça	10751,21
 Oficiais de Justiça. V. SOLUÇÕES PARA	10772
 Oficiais de Mesa	15532
 Oficiais de Municipal da Polícia Nacional	10751
-Oficial	4209,3673,3599,9,24
+Oficial	4209,3673,3599,9,24,3936
 Oficial Administrativo	4209
 Oficial Director General	4209
 Oficial Director General Director General Director	4209
@@ -140,7 +141,7 @@ Por Atividade Estatística Oficial	11516
 Por Estatísticas Oficiais	11516
 Post Ofice	11178
 Princípio da Oficiosidade	11452
-Produtores de Estatísticas Oficiais	15535
+Produtores de Estatísticas Oficiais	15450,85
 Publicação Oficial da República de Moçambique. Terça-feira	4274
 Publicações Oficiais	3519
 Página Oficial	975,5323

@@ -13,7 +13,7 @@ Akdogan Glaszner German School Ltd Data	7167
 Almeida Partilhar Tweetar Partilhar Email Gerciley	2444
 Apresentação A Direção Geral	11532
 Aprovado Regulamento Geral da Lei da Terra. PARTE	11527
-Assembleia Geral	11531,7,3853,303
+Assembleia Geral	11531,7,3853
 Assembleia Geral Fiscal	15476
 Assembleia Geral da ARCTEL-CPLP	11531
 Assembleia Geral. Artigo	15391
@@ -33,9 +33,10 @@ Brazil’s Lei Geral de Protegdo de Dados	6936
 Brell Gervais	15524
 Brice Gervais	15524
 CADASTRO PREDIAL CAPÍTULO I DISPOSIÇÕES GERAIS	11384
+CAPITULO I DISPOSIÇÕES GERAIS Artigo	16138
 CAPÍTULO I DISPOSIÇOES GERAIS ARTIGO	11518
 CAPÍTULO I DISPOSIÇÕES GERAIS	13,1,153,382,195,8,42,3353,6607,609,1,9,4,4,1,3,1,19,14,6,8,5,5,6,3,15
-CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	13,739,14681,7,64,22,46,484,320
+CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	13,739,14681,7,64,68,484,320
 CAPÍTULO I DISPOSiÇÕES GERAIS ARTIGO	11528
 CAPÍTULO I DOS PRINCÍPIOS GERAIS ARTIGO	11513
 CAPÍTULO I Disposições Gerais ARTIGO	11445,1329
@@ -48,6 +49,7 @@ CAPÍTULO II ORGANIZAÇÃO EM GERAL	11381,1,67
 CAPÍTULO II PRINCÍPIOS GERAIS	11388
 CAPÍTULO II REGRAS GERAIS PARA	11419
 CAPÍTULO III Organização Geral Secção	15391
+CARGO DGIS EAdnUaSlvCa UCLarTdoAsoDA Diretora Geral	15694
 CENÁRIOS E OPÇÕES DE GERAÇÃO	11366
 COMPONENTES COM ACTIVIDADES QUE POSSAM GERAR	11542
 CONTEXTO GERAL	11523
@@ -100,10 +102,12 @@ DA INFORMAÇÃO CAPÍTULO I DISPOSIÇÕES GERAIS	11360
 DE CHANGEMENT DE GERANCE MISE	16413
 DE DADOS CAPÍTULO I DISPOSIÇÕES GERAIS	167
 DGAPE A Direção Geral de Apoio	16320
-DISPOSIÇÕES GERAIS	4218,7149,16,145
+DGIS Ednalva Cardoso Diretora Geral Leodomilo	15694
+DISPOSIÇÕES GERAIS	4218,7149,16,145,3998
 DISPOSIÇÕES GERAIS ARTIGO	3519,7942,53
 DISPOSIÇÕES GERAIS Artigo	11461
 DISPOSIÇÕES GERAIS E INTRODUTÓRIAS	10755
+DISPOSIÇÕES GERAIS Lei	15450
 DISPOSiÇÕES GERAIS	11528
 DISPOSÍÇÕES GERAIS	11528
 DJOHAN Gerard Adm MCI	2342
@@ -129,13 +133,14 @@ Direcção Geral	11381,169,3830,11,1
 Direito CAPÍTULO I Disposições Gerais Artigo	6462
 Direitos Gerais	11430
 Direitos de Propriedade Intelectual de Conteúdo Gerado	3519
+Diretor Geral	15526
 Diretor Geral da DGRN	2688
 Diretor Geral da Energia	11549
 Diretor Geral da OMS	15966
 Diretor Geral de Identificação Civil	11566
 Diretor Geral de Migração	11566
 Diretora Geral-Adjunta	11423
-Direção Geral	2688,8849,20,461,3452,56,163,5,328,34,164,70
+Direção Geral	2688,8849,20,461,3452,56,163,333,34,164,70,86
 Direção Geral De Apoio Ao Processo	15470
 Direção Geral da Administração	11543
 Direção Geral da Função Pública	11527
@@ -143,13 +148,13 @@ Direção Geral da Polícia Judiciária	15504
 Direção Geral de Apoio	11983
 Direção Geral de Contratos Públicos	11549
 Direção Geral de Identificação Civil	11537
-Direção Geral de Inclusão Social	11855,3839
+Direção Geral de Inclusão Social	11855
 Direção Geral de Indústria	15403
 Direção Geral de Planeamento	6530,5325,4435
 Direção Geral de Viação	15403
 Direções Gerais	11538,23
 Direções Gerais de Planeamento	16056
-Disposições Gerais	576,1861
+Disposições Gerais	576,1861,13701
 Disposições Gerais Artigo	5169,7142,474
 Does Germany	6982
 Domestic Product GIZ German Development Agency	10841
@@ -194,6 +199,7 @@ Especificação Técnica Gerador XML V07.pdf DPR	12018
 Estado. CAPÍTULO II CONDIÇÕES GERAIS	15
 Estatuto Orgânico da Administração Geral Tributária	11435
 FCV FM GBV GDP GEMS GER	16436
+FECADDireção Geral	15694
 FEDERAL REPUBLIC OF GERMANY	13996
 FGI STP A Autoridade Geral de Rguladora	8487
 FINALIDADES E ORIENTAÇÕES GERAIS DA DISCIPLINA	15564
@@ -242,7 +248,7 @@ GROUPE BENHAMADI GERBIOR Article	15885
 Gabon Gambia Georgia Germany Ghana Gibraltar	11470
 Gambia. GERMP	10857
 Geographic Information Science Paul Gerard Gbetkom	15914
-Geral	1339,1,1,4064,5361,6,615,28,34,3910,21,11
+Geral	1339,1,1,4064,5361,6,615,28,34,3910,21,11,303
 Geral da População	11526
 Geral de Justiça P J Polícia Judiciária	6530
 Geral de Política de Justiça D G	6530
@@ -287,7 +293,7 @@ Geriatric Services	14773
 Gericia Manasse	16177
 Gerimos	15892
 Geringe Bildung	615
-Gerir	167,2649,1402,2244,4919,1,14,1,33,5,14,78,1247,2617,85,27,23,229,621
+Gerir	167,2649,1402,2244,4919,1,14,1,33,5,14,78,1247,2617,85,27,23,229,157,464
 Gerishon Gitonga Kithinji	5332
 Germain	5022,10722,104,53
 Germain Vincent de Décret	15395
@@ -356,7 +362,7 @@ German-speaking	15131
 Germann	11585
 Germano Marques da Silva	9176
 Germanwatch	8891
-Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14,20,27,15,3,131,11,1,88,40,5,15,1,135,281,37,313,63,18,87,51,10,50,7,2,55,162,391,47,114,6,57,79,305,34,68,81,15,27,232,218,381,254,229,32,26,84,364,2,7,233,12,269,238,97,251
+Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14,20,27,15,3,131,11,1,88,40,5,15,1,135,281,37,313,63,18,87,51,10,50,7,2,55,162,391,47,114,6,57,79,305,34,68,81,15,27,232,218,381,254,229,32,26,84,364,2,7,233,12,269,238,97,251,188
 Germany BAMF	4842
 Germany Civil Registry	10714
 Germany Consortium Veridos. Uganda Security Printing	1282
@@ -457,6 +463,7 @@ I DISPOSIÇÕES GERAIS Artigo	15,534,195,50
 I DISPOSIÇÕES GERAIS Publicado	11359
 I Disposições Gerais ARTIGO	11365
 I PRINCÍPIOS GERAIS Artigo	11901
+I.P. CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	15912
 IA SECÇÃO I DISPOSIÇÕES GERAIS ARTIGO	3519
 IA de Propósito Geral	3519
 ILO GERME	10963,1
@@ -477,10 +484,10 @@ Initiative GER Gross Enrollment Rate GHG	15661
 Inspecção Geral da Administração	11361,91
 Inspetor Geral da Educação	11557
 Inspetores da Inspeção Geral da Educação	11538
-Inspeção Geral	12021,3673,362
+Inspeção Geral	12021,3505,386,144
 Inspeção Geral da Administração	11417
 Inspeção Geral da Educação	15772
-Inspeção Geral de Finanças	15526
+Inspeção Geral de Finanças	15526,386
 Inventário Geral	16056
 Ivoire and German	8894
 Jacqueline Germaine Anne	16100
@@ -574,6 +581,7 @@ PIX Mana ger	1009
 PRIVATIVOS EM GERAL ARTIGO	11514
 PTE Gerawa Feed Mill	11469
 Paula Maria Cerutti Jesse Jon Gerome	15601
+PcD. Geralmente	15694
 Pereira Mário Mussante Silva Loureiro Geraldo	11544
 Plano Geral de Contabilidade	11473
 Planta de Ordenamento Geral	15380
@@ -591,6 +599,7 @@ Product GER Gross Enrolment Ratio GPI	14896
 Product GIZ German International Development Agency	1814
 Prof. Marco Gercke and Ms. Judith Tembo	26
 Programa Geral de Trabalho da OMS	15966
+Quadro Lei de Bases Gerais de Prevenção	15694
 Quadro de Pessoal da Direção Geral de Emprego	16290
 Questions IFMIS German Agency for International Cooperation	12500
 Quintas Betsaida Costa Geraldo Ginga João	11421
@@ -606,14 +615,15 @@ Rapport geral corrigido.pdf	11562
 Ratio GDP Global Partnership for Education GER	11905
 Ravinder Gera	12175
 Receitas de Estado Direção Geral	12018
-Recenseamento Geral	12014,3521,159
+Recenseamento Geral	12014,3521
 Recenseamento Geral da Agricultura	11526
 Recenseamento Geral da População	4040,4,42,1064,329,1512,3769,17,644,1,24,131
 Recursos Gerais	16325
 Redes de Nova Geração	15,11382
-Regime Geral	167,577,2775,684,7183,10,1,6,1,28,6,3953,5
+Regime Geral	167,577,2775,684,7183,10,1,6,1,28,6,3953,5,742
 Regime Geral da Tesouraria	15955
 Regime Geral de Segurança Social	167
+Regime Jurídico Geral	15912
 Regime Jurídico Geral de Protecção de Dados	2345
 Regime Jurídico Geral de Transportes	11983,4039
 Regimes Geral	11432
@@ -666,12 +676,14 @@ Sistema Educativo Nacional RGPH Recenseamento Geral	11557
 Smart Africa and Germany’s GIZ	7063
 Sociedade Geral	11490
 Solicitor General and Secretary for Justice Gertrude Hiwa	13177
+Subsecção V Direção Geral	15526
 Subsistema de Educação Geral	12788
 Swedish and German	11006
 TAXPAYER SUPPORT CENTER Geral	10762
 TERRITORIAIS CAPÍTULO I DISPOSIÇÕES GERAIS	11409
 Tecnologia Geral	15772
 Tertiary GER	12199
+Turismo de Cabo Verde Geral	15526
 TÍTULO I DISPOSIÇÕES GERAIS	11430
 TÍTULO I DISPOSIÇÕES GERAIS Artigo	15440
 TÍTULO I PRINCÍPIOS GERAIS Artigo	15344
@@ -683,6 +695,7 @@ V Recenseamento Geral da População	8211
 V. OBJECTIVOS GERAIS	4146
 VERDE CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	16089
 VI Recenseamento Geral da Agricultura	11979
+Vieira Diretor Geral de Planeamento	15694
 Visão Geral	9432,1974,54,4104
 WORA GALLIE Marion Germaine	16381
 West Africa Germany's BMZ	11293

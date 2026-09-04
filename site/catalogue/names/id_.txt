@@ -38,7 +38,6 @@ BASIC DATA Operation ID	14971,1019
 BASIC DATA Product Information Operation ID	2473,2180,11316,63,155,249
 BASIC DATA Product Information Project ID	1228
 BASIC INFORMATION OPS TABLE BASIC DATA Project ID Project	10963
-BASIC INFORMATION Operation ID Programmatic	15924
 BIOMETRIC NATIONAL ID	4634
 BRR Benin the Mobile ID Bénin	10714
 BU CLA Database ID AO.143	645
@@ -139,6 +138,7 @@ Comprehensive Digital ID and Verification	12241
 Comprehensive Digital ID and Verification System	13080
 Congo's ID	15513
 Consulted Stakeholders ID Name of Institution	12674
+Coop ID	16796
 Coverage of ID	12337
 Credence ID	5900
 Credential14 ID	10714
@@ -1171,7 +1171,7 @@ Smart ID. Thanks	7569
 Smart ID. The Green ID	6196
 Smart Zambia Institute. Digital ID	1879
 SmartCare Pro EHR and National Digital ID	4624
-Smile ID	1139,1213,2332,689,447
+Smile ID	1139,1213,2332,689,447,10953
 Smile ID Series B	1139
 Smile ID. Verify	12404
 Social Protection ID Program	15415

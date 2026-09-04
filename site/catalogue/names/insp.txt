@@ -83,6 +83,7 @@ General Inspection of Education ITMA Instituto Tecnológico	11552
 General Inspection of Finances	15372
 General Inspectorate	4260,7645,69,3684
 General Inspectorate of Finance	969,2635,12054
+General Inspectorate of Finances	15924
 General Inspectorate of State Administration	11380
 General Labor Inspectorate	11965
 Gisagara Districts. Inspections	718
@@ -106,6 +107,8 @@ INSP Institut National de Santé Publique IPG	13300
 INSP Institut National de Santé Publique IPU	13306
 INSP MENA	15936
 INSP Nombre	13306
+INSP SAMUEL OFORI NIA NIA	15845
+INSP. AMOS OBENG GIS NADMO	15845
 INSP. Ce	13306
 INSP. Une	13306
 INSPEC	4209
@@ -179,6 +182,7 @@ Inspec	16467
 Inspeccionar	167
 Inspección	163
 Inspecctor General Servicios Servicio	4209
+Inspecionar	15526
 Inspect	6423,2257
 Inspect ICS	12358
 Inspected Studios	6946
@@ -314,16 +318,19 @@ Inspecção-Geral de Finanças	15391
 Inspecções	3519,7887
 Inspetor	11566
 Inspetor Geral da Educação	11557
+Inspetor-Geral	15526
 Inspetor-Geral da Educação. CHEFIA DO GOVERNO	16549
 Inspetora-Geral da Educação. CHEFIA DO GOVERNO	16549
 Inspetores da Inspeção Geral da Educação	11538
 Inspeção	12021
 Inspeção Final	11898
-Inspeção Geral	12021,3673,362
+Inspeção Geral	12021,3505,386,144
 Inspeção Geral da Administração	11417
 Inspeção Geral da Educação	15772
-Inspeção Geral de Finanças	15526
+Inspeção Geral de Finanças	15526,386
 Inspeção Judicial	2054
+Inspeção Tributária	15526
+Inspeção de Finanças	15526
 Inspeção de Materiais Proibidos	11898
 Inspeção-Geral de Finanças	15962
 Inspeções	11898
@@ -346,6 +353,7 @@ Instituo Nacional de Saude Publica INSP	16321
 Internal Security Inspectorate	2343
 Jefe Brigada Inspector de Primera Inspector de Segunda	4209
 Jefe Económico Parlamento Inspector Grupo	4209
+Joint Monitoring Visits and Field Inspections	15845
 Jurisdicción Militar Inspector Regional Ministerio Jefe	4209
 Kenya Plant Health Inspectorate Service	10313
 Kenya Plant Health Inspectorate Services	10313
@@ -387,6 +395,7 @@ Number of Inspection E-Government Monthly	12253
 Number of Radio Communication Installations Inspected	6946
 O Inspector	11452
 O Inspector-Geral da Administração	11452
+O Serviço de Inspeção Tributária	15526
 ONANGA NDIAYE Inspecteur Général des Services Adjoint	16381
 ONLINE INSPECTION OF THE PROVISIONAL REGISTER	12465
 On-site Inspections	12537
@@ -453,6 +462,9 @@ Sargento de Primera Inspector de Tercera Sargento Cabo	4209
 Savings CHAPTER XI1 CYBER INSPECTORS Appointment	11179
 School Education Inspectors	14922
 Senior Road Transport Inspector Government	12972
+Serviço de Inspecção Tributária	15526
+Serviço de Inspeção Tributária	15526
+Serviços de Inspeção Tributária	15526
 Sub Inspector of Police SMF	14760
 Survey and Inspection	1000
 Sustainability OUR MOTO Inspiring Development	718

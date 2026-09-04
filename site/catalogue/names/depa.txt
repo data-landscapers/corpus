@@ -391,7 +391,7 @@ Departement van Vervoer	11551
 Departements	16611
 Departing Kenyans	2775
 Departing Visitors	2775
-Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104,22,64,5,4,33,4,5,15,254,30,9,6,9,1,3,2,28,54,5,16,15,10,9,30,33,8,135,11,34,112,82,392,273,43,103,64,44,46,22,99,9,66,3,11,2,2,4,4,2,2,3,8,12,5,57,11,38,5,275,235,79,14,129,67,915
+Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104,22,64,5,4,33,4,5,15,254,30,9,6,9,1,3,2,28,54,5,16,15,10,9,30,33,8,135,11,34,112,82,392,273,43,103,64,44,46,22,99,9,66,3,11,2,2,4,4,2,2,3,8,12,5,57,11,38,5,275,235,79,14,129,67,157,758
 Department ALECSO Charter	2958
 Department Annual	7548
 Department Anti-Corruption Bureau	12241
@@ -399,6 +399,7 @@ Department Arrears	12976
 Department Article	15492
 Department Bachelor of Computer Science Bachelor of Software	12407
 Department Communications	12675
+Department Conduct	15845
 Department DDiplomatic Mission D Public Company	736
 Department For Early Learning And Basic	899
 Department Force	1777
@@ -1064,6 +1065,7 @@ GBV. The Women's Department of MoSS	15663
 GED Government Education Department GCMS Gas	13420
 GENERAL NOTICE DEPARTMENT OF HOME AFFAIRS	12047
 GEPE Research and Projects Department	10780
+GIS and Labour Department Objective	15845
 GNU's and Department of Trade	11250
 GOVERNMENT NOTICE DEPARTMENT OF BASIC EDUCATION	11180
 GOVERNMENT NOTICE DEPARTMENT OF HOME AFFAIRS	12047
@@ -1606,7 +1608,7 @@ South African Department of Basic Education	11927
 South African Department of Health	2948
 South African Department of Home Affairs	12663
 South African National Department of Health	1009
-South African Police Service and Department of Defence	11845
+South African Police Service and Department of Defence	11845,4948
 South Africa’s Department of Home Affairs	10185
 South Africa’s Department of Land Reform and Rural	13213
 South Africa’s Department of Social Development	8006
@@ -1693,7 +1695,7 @@ State Department for Youth Affairs and Creative Economy	14546
 State Department of Basic Education	14524
 State Department of Broadcasting and Telecommunications	14524
 State Department of Emerging Technologies B2-Private	7548
-State Department of ICT and Digital Economy	3878,2847,344,411,1089,223,1607,268
+State Department of ICT and Digital Economy	3878,2847,344,411,1089,223,1607,268,6136
 State Department of Immigration and Citizen Services	3936,10610
 State Department of Public Health and Professional Standards	13870
 State Department of Social Protection and Senior Citizens	14487

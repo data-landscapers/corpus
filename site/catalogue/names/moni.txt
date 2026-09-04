@@ -97,6 +97,7 @@ Completion and Results Report M&E Monitoring and Evaluation	13836
 Compliance Level Monitoring Category Core Requirements	11952
 Compliance Monitoring and Audit	12302
 Components Monitoring	1867
+Conduct Monitoring Nationwide X X X	15845
 Consumption and Production Monitoring	970
 Continuous Compliance Monitoring Systems	3861
 Continuous Monitoring	3861,8134,4217
@@ -128,13 +129,13 @@ Cyber Threat Monitoring System	14729
 Cybersecurity Risk Monitoring	15054
 Cybersecurity and Monitoring Centre	6793,6856
 D. MONITORING AND EVALUATION	11863,2075
-D. Monitoring	15924
 D. Monitoring and Evaluation	11863,2075
 D.G. MONITOREO Y PROG. S. SOC.-Concepto	4209
 D.G. MONITOREO Y PROG. S. SOC..-Concepto	4209
 DA Monitoring of Employment	10964
 DCCMS Enhances Weather Monitoring Capabilities	12988
 DJIBOUTI ECONOMIC MONITOR	11271
+DOII MONICA E. N. ASARE NPC	15845
 DPI ADP III. Moniepoint	2247
 DPME Programme Expenditure Sector Monitoring Services	11224
 DRIVEN BY LOCAL PRIORITIES The Monitoring	14752
@@ -156,6 +157,7 @@ Description Component of FCDO's Somalia Monitoring Programme	650
 Detailed Monitoring and Evaluation	14889
 Develop and Implement Monitoring and Evaluation Tools	12923
 Development Association M&E Monitoring and Evaluation ME	16187
+Development Ministry Monitoring	15845
 Development Monitoring and Evaluation Office DMEO	15244
 Development of Malawi Election Monitoring Systems	13095
 Development of Malawi Election Monitoring Systems Report	13080
@@ -165,6 +167,7 @@ Digital Road Violation Monitoring System	12275
 Director of Financial Stability Monitoring Department	6938
 Director of Monitoring and Evaluation Division	12978
 Disability Annual Monitoring Report	13033
+Disaggregation Monitoring Responsibility	15845
 Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451
 Disseminate Monitoring and Evaluation	11860
 Division Division Monitoring	6946
@@ -362,6 +365,7 @@ Joint Monitoring Framework	15604
 Joint Monitoring Programme	13325,2249
 Joint Monitoring Programme WHO-UNICEF	13325
 Joint Monitoring Reports	16398
+Joint Monitoring Visits and Field Inspections	15845
 Joint Review and Monitoring of Metrics	4217
 José Carlos Moniz Varela	8200
 Kenya National Monitoring and Evaluation Policy	7548
@@ -383,7 +387,6 @@ Land Degradation Monitoring and Sand Dune Mapping	15015
 Land Reform DPME Department of Planning Monitoring	11224
 Land Research and Monitoring Unit	14742,9
 Last Mile Access Monitoring	12399
-Law CA Current Account M&E Monitoring	15924
 Laws Governing Electronic Monitoring Despite	14190
 Leverage Monitoring	14985
 Liability No Monitoring	26
@@ -419,6 +422,7 @@ MONITOREO Y EVALUACIÓN DE LA ESTRATEGIA	1701
 MONITORING	1131,133,5168,1116,3645,1251,315,180,1813,1,169,227,407
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
 MONITORING AND EVALUATION	396,544,4304,1,6615,714,127,2221,13,7,23,591
+MONITORING AND EVALUATION ARRANGEMENTS	15845
 MONITORING AND EVALUATION ARRANGEMENTS FRAMEWORK	15796
 MONITORING AND EVALUATION CHAPTER	13982
 MONITORING AND EVALUATION Definition of Indicators	962
@@ -460,6 +464,7 @@ Measurement and Results Monitoring	15130
 Media Monitoring Africa	9967,762,2732
 Media Rights Monitor	11095
 Members Framework B Design of Monitoring for High-level	961
+Ministry of Finance Monitor	15845
 Ministry of Finance's Program and Project Monitoring Unit	15990
 Ministry of ICT and Monitor	6227
 Mitigation Monitoring	1988,10265
@@ -470,7 +475,6 @@ Monica	11007
 Monica Amuha	15960
 Monica Amuha Grace	13016
 Monica Amukugo	12478
-Monica Cristina Furtado	15924
 Monica Céleste	16100
 Monica Inyang	9115
 Monica Musenero Masanza	5249,164
@@ -482,7 +486,7 @@ MoniePoint	2610
 MonieWorld	11119
 Moniebook	4725,3276
 Moniebook and Orda	4725,1040
-Moniepoint	608,103,311,417,151,633,20,4,63,516,795,106,237,486,104,75,96,247,152,76,172,102,216,53,22,104,659,940,163,58,239,11,62,106,620,618,407,129,129,147,8,119,221,294,2,318,2137,3289
+Moniepoint	608,103,311,417,151,633,20,4,63,516,795,106,237,486,104,75,96,247,152,76,172,102,216,53,22,104,659,940,163,58,239,11,62,106,620,618,407,129,129,147,8,119,221,294,2,318,2137,3289,229
 Moniepoint Digital Payments Equity Investment Swedfund	2243
 Moniepoint GB	11119
 Moniepoint Ganiu Oloruntade	2310
@@ -513,7 +517,7 @@ Monique Barrere Christopher Gramer Joan Wardell	13300
 Monique Mogue Kamga Ioana Alexandra Botea	15601
 Monique Ndome Didiba	16012
 Monique Yarga	6889
-Monitor	34,924,42,988,489,1036,613,402,1137,11,756,400,585,121,10,1415,1194,564,296,171,42,45,10,116,460,134,190,16,13,26,13,33,16,54,3,153,163,287,9,214,196,804,256,377,47,9,23,50,50,30,7,32,659,252,210
+Monitor	34,924,42,988,489,1036,613,402,1137,11,756,400,585,121,10,1415,1194,564,296,171,42,45,10,116,460,134,190,16,13,26,13,33,16,54,3,153,163,287,9,214,196,804,256,377,47,9,23,50,50,30,7,32,659,120,132,210
 Monitor AI-related	7548
 Monitor API	15161
 Monitor Campaign Reach and Effectiveness	12675
@@ -589,7 +593,9 @@ Monitoring Learning Achievement Survey MoE	12175
 Monitoring Locations Incident Response Processes Physical	6432
 Monitoring Loss	12253
 Monitoring Markets and Banking Operations ICT Governance	15023
-Monitoring Matrix	15796
+Monitoring Matrix	15796,49
+Monitoring Matrix Goal	15845
+Monitoring Matrix Table19	15845
 Monitoring Monitoring	7548,1575,3882
 Monitoring NACIT	12253
 Monitoring Nuisance	12253
@@ -607,6 +613,7 @@ Monitoring Reports	11230
 Monitoring Requirements Implement	11952
 Monitoring Responsibilities	12175,1815
 Monitoring Responsibilities Monitoring	12175
+Monitoring Responsibility	15845
 Monitoring Risk	12253
 Monitoring Roles and Responsibilities	1988
 Monitoring SACMEQ Southern Africa Consortium for Monitoring	13310
@@ -753,8 +760,8 @@ Monitoring of Social Contract	14835
 Monitoring of Tariffs	12389
 Monitoring of Vital Events	10822,1316
 Monitoring-	384
-Monitorizar	4218,6536,622,73,4027,28
-Monitorização	10772,5,629,7,22,16,10,82,14,336,4073
+Monitorizar	4218,6536,622,73,4027,28,22
+Monitorização	10772,5,629,7,22,16,10,82,14,336,3633,440
 Monitorização CoTéc Comité Técnico CONFEMEN Conferência	11557
 Monitorização Devem	15358
 Monitorização Normativa	11448
@@ -775,6 +782,7 @@ NDS1 Monitoring and Evaluation	13359
 NFIS Performance Monitoring Plan	940
 NMCP Monitoring and Evaluation	15556
 NOC Monitoring	12253
+National Disaster Monitor	15845
 National Forest Monitoring System	9561,6475
 National Forest Monitoring System The Democratic	16036
 National Greenhouse Gas Emission Monitoring Indicators	11424
@@ -784,12 +792,13 @@ National Monitoring and Evaluation Information System	9966
 National Monitoring and Evaluation Policy	12962
 National Monitoring and Evaluation Policy. MDAs	13685
 National Monitoring and Evaluation System	8469,6388
+National Peace Council Monitor	15845
 Network LEO Low-Earth Orbit M&E Monitoring	6539
 Network Monitoring System	12395
 Newsfeed Moniepoint	2310
 Nigeria. Ongoing Monitoring and Audits	5665
 Non-State Actor Monitoring	12194
-Novo Sistema de Monitoramento	15526
+Novo Sistema de Monitoramento Ministro	15526
 O Revision Analysis and Reliability Monitoring	14777
 O Sistema Integrado de Monitorização	8324
 OPERATIONAL MONITORING MECHANISMS	16041
@@ -825,6 +834,7 @@ Panel MoE Ministry of Education MLA Monitoring	13990
 Parliamentary Monitoring Group	6832,4057
 Participatory Monitoring	3861,7146,4789
 Participatory Monitoring Stakeholder	3861
+Participatory Monitoring and Evaluation	15845
 Passenger Information Monitoring and Management Center	4275
 Patient Monitoring	10765,10
 Performance Indicator Large Language Model Monitoring	4528
@@ -1023,6 +1033,7 @@ Transaction Monitoring System	9690
 Transitional Education Plan Monitoring	15192
 Tuberculosis and Malaria TPMA Third Party Monitoring	11560
 Tunisian Monitor Tunisia	7322
+Técnica Moniz ICIEG Paulino	15694
 UNESCO Global Education Monitoring Report	13477
 UNFPA Monitoring and Evaluation Officer	12962
 Ugandan Minister Dr. Monica Musenero Masanza	6258
@@ -1057,6 +1068,7 @@ Without Moniepoint	10165
 World Bank Interim Financial Monitoring Reports	15372
 World Bank's Monitoring Support The World	1988
 World Bank’s Djibouti Economic Monitor	11271
+X MINTE All Agencies Monitoring	15845
 Yearly MIS Regular Project PIU Monitoring	10964
 Yearly Monitoring PIU	10964
 ZAMBIA MONITOR	8294,219,866,3085,8,930,15

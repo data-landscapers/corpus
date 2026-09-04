@@ -43,6 +43,7 @@ Agostinho Neto International Airport and Cabinda	9399
 Agreement. REPUBLIC OF CABO VERDE	16219
 Agência Cabo-verdiana de Notícias	9994
 Alain MALATA KAFUNDA Directeur de Cabinet	7470
+Alberto Afonso Deficiência de Cabo Verde	15694
 Alfândegas de Cabo Verde	15403,281
 Alfândegas de Cabo Verde.pdf	12018
 Alvin R Cabral	1634
@@ -85,6 +86,7 @@ Association of Submarine Cable Operators of Nigeria	7329
 Association of Submarine Cable Operators of Nigeria BCDA	11857
 Associação Cabo Verde Internet Exchange Point	11878,3695
 Associação Cabo- Verdiana MORABI de Auto-Promoção da Mulher	11855
+Associação Cabo-Verdiana	15694
 Associação Cabo-verdiana de Deficientes	15694
 Associações Cabo-verdianas	15380
 Associações Caboverdiana	15380
@@ -94,6 +96,7 @@ Attachée de Cabinet	16099,76,206
 Attachés de Cabinet	16099,76
 Atualização Económica de Cabo Verde	7881
 Audio By Vocalize Health Cabinet Secretary	8934
+Auditores Certificados de Cabo Verde	15912
 Autentika Cabo Verde Mobile Digital Key	11875
 Av. Amilcar Cabral	15355
 Av. Amílcar Cabral	11941
@@ -104,7 +107,6 @@ B.5 Cabo Verde	11863
 BAARISTA CABASHOOYINKA IYO JABSASHADA XOGTA	15152
 BAI Cabo Verde	11955
 BANCO DE CABO VERDE Gabinete	16122
-BCV Bank of Cabo Verde	15924
 BILL Cabinet	11791
 BLEUE CABINET DU MINISTRE	16175
 BS Bertelsmann Stiftung Cable Cable.co.uk CAHF	10759,78,1052,451
@@ -123,7 +125,8 @@ Banco Caboverdiano de Negócios	11878,77
 Banco Caboverdiano de Negócios Manuel Fernando Monteiro	11955
 Banco Central da República de Cabo Verde	16089
 Banco Central de Cabo Verde	16089
-Banco de Cabo Verde	6425,5508,22,8,3396,74,7,13,73,9,37,257,81,14,38,16,111,33,97,360
+Banco de Cabo	15450
+Banco de Cabo Verde	6425,5508,22,8,3396,74,7,10,3,73,9,37,257,81,52,16,111,33,97,360
 Banco de Cabo Verde António Carlos Moreira	11955
 Banco de Cabo Verde Artigo	15433
 Banco de Cabo Verde BDMI Base de Dados	15535
@@ -136,7 +139,6 @@ Banco de Cabo Verde. Artigo	15433,7,649
 Banco de Cabo Verde. Em	15359
 Banco de Cabo Verde. PREÂMBULO	16089
 Bank of Botswana Cabo Verde National Financial	6938
-Bank of Cabo Verde	15924
 Bank-funded CAB Project	15411
 Bank-funded CAB4 Project	15411
 Bank-sponsored Cabo Verde Tech Park Phase	11863
@@ -292,12 +294,9 @@ CONSTRUINDO UM CABO VERDE PARA TODOS	16487
 CONSULT CABANE AFRICA LIMITED Data Controller	7167
 CONSULT CABANE AFRICA LIMITED Data Processor	7167
 CORPORATE RESPONSIBILITY IS KEY Cabinet	11611
-CREDIT TO CABO VERDE I. COUNTRY	15924
 CS Cabinet Secretary for ICT CSP Cloud	6432
 CS Sovereign Cable Ship	7774
 CULTURE AND HERITAGE Cabinet	13673
-CVA Cabo Verde Airlines PFM Public	15924
-CVE Cabo Verdean Escudo PDO Program	15924
 Cabashada	14859,294
 Cabashooyin	15152
 Cabashooyinka	14906
@@ -508,7 +507,7 @@ Cable Ship Capacity Crunch	4676
 Cable Ship Operators	3513
 Cable Society of Guinea-Bissau	11545
 Cable Subscriptions	6671
-Cable System	1766
+Cable System	1766,15042
 Cable System METISS MeltingpoTIndianoceanic Submarine System	14729
 Cable Systems Connected	2677
 Cable Systems FM Frequency Modulation FTTH	6671
@@ -550,16 +549,18 @@ Cabo San Juan	4209
 Cabo Submarino	4248,2
 Cabo Submarino EllaLink	15505
 Cabo TV	6638,25,1,6524
+Cabo Trabalho	15694
 Cabo Venton	15658
 Cabo Ver	16251
-Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,25,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,5,10,40,2,11,7,1,10,14,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,15,1,4,18,33,4,28,76,3,6,17,18,30,21,54
+Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,5,10,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,15,1,4,18,33,4,28,76,3,6,17,18,30,21,54,189
 Cabo Verde A Organização Mundial da Saúde	16484
+Cabo Verde ARN	15526
 Cabo Verde Action Plan	11873
 Cabo Verde Action Plan Review	11873
-Cabo Verde Airlines	3956,11968
+Cabo Verde Airlines	3956
 Cabo Verde Airports	1948
 Cabo Verde Algeria Congo	10819
-Cabo Verde Ambition	11891,4033
+Cabo Verde Ambition	11891
 Cabo Verde Approval Date Current Closing	16187
 Cabo Verde Arranca Hoje	15824
 Cabo Verde B	11867
@@ -651,8 +652,8 @@ Cabo Verde Telecom S.A	2091
 Cabo Verde Telecom URL	16343
 Cabo Verde Telecommunication Union	11569
 Cabo Verde Telefones	8166,7944
+Cabo Verde Trade	15526
 Cabo Verde TradeInves	15526
-Cabo Verde UGA Procurement Management Units	15924
 Cabo Verde URL	15505,65,489,75,394
 Cabo Verde Yes Programme Stratégique	11529
 Cabo Verde and Burkina Faso	11867
@@ -687,12 +688,13 @@ Cabo Verde. B. Escopo de Trabalho Espera-se	11898
 Cabo Verde. B. Sectoral and Institutional Context	15491
 Cabo Verde. Based	15983
 Cabo Verde. Bases	11955
+Cabo Verde. C. Consultations and Collaboration	15924
 Cabo Verde. Cabo	15476
 Cabo Verde. Cabo Verde	11895
 Cabo Verde. Cette	16633
 Cabo Verde. Com	15824
 Cabo Verde. Despite	11855
-Cabo Verde. Deste	15476
+Cabo Verde. Deste	15476,218
 Cabo Verde. Duas	11683
 Cabo Verde. Durante	11962
 Cabo Verde. Elencou	6709
@@ -717,6 +719,7 @@ Cabo Verde. Olavo Correia	16193
 Cabo Verde. Os CETEM	15684
 Cabo Verde. PARTE I PRINCÍPIOS FUNDAMENTAIS	15344
 Cabo Verde. Part	15590
+Cabo Verde. Pillar C	15924
 Cabo Verde. Population of Cabo Verde	12002
 Cabo Verde. Posição	5476
 Cabo Verde. Quando	15520
@@ -733,9 +736,9 @@ Cabo Verde. Tipografia Santos. Praia	15694
 Cabo Verde................................1104 Resolução	15433
 Cabo Verde1	15694
 Cabo Verde2024 Sub-Saharan Africa Lower Middle	11874
-Cabo Verdean	342,997,1,1,1,67,23,649,2,1,63,2264,2,1,50,371,1736,5284,8,13,89,3526,99,334
+Cabo Verdean	342,997,1,1,1,67,23,649,2,1,63,2264,2,1,50,371,1736,5284,8,13,89,3526,99
 Cabo Verdean Digital Economy	11863
-Cabo Verdean Escudo	11965,3959,59
+Cabo Verdean Escudo	11965,4018
 Cabo Verdean Escudo DA Designated Account	15983
 Cabo Verdean Escudo DGTED Directorate of Telecommunications	11863
 Cabo Verdean Escudos	11955
@@ -749,6 +752,7 @@ Cabo Verde’s Strategic Plan for Sustainable Development	11855
 Cabo Verde’s Strategic Plan for Sustainable Development5	11863
 Cabo Verde’s Strategy	11855
 Cabo Verde’s USR. The Government of Cabo	11855
+Cabo Verde’s VAT	15924
 Cabo Verdian Institute for Gender Equality and Equity	11965
 Cabo de San Juan	3179
 Cabo-	12021
@@ -760,7 +764,7 @@ Cabo-Verdeans	11955
 Cabo-Verdiana	15470
 Cabo-Verdiano	15470
 Cabo-Verdianos	15396
-Cabo-verdiana	11898,3674
+Cabo-verdiana	11898,3628,46
 Cabo-verdiano	12018
 Cabo-verdianos	16016
 Cabos	11072,4612
@@ -812,6 +816,7 @@ Co-Task Team Leader for CAB3	15372
 Comissão Nacional de Protecção de Dados de Cabo	16408
 Comissão Nacional de Protecção de Dados de Cabo Verde	6568
 Comissão de Fiscalização Cabe	11358
+Comité Para-Olímpico Cabo-vAerdCiOanNoS	15694
 Comitê Paralímpico de Cabo Verde	15694
 Commandant MBORI Léon. Attachée de Cabinet	16381
 Commissariat CABINET	15901
@@ -847,6 +852,7 @@ Código Civil Cabo-Verdiano	15470
 DA REPÚBLICA DE CABO VERDE	15358,1,21,5,6,1,4,8,29,7
 DARE Regional Submarine Cable Project Islamic	382
 DARE1 Subsea Cable Extension Announced	13869
+DE CABO VERDE	15912
 DE LA DEFENSE NATIONALE CABINET CIVIL	16381
 DE LA P.N ET G.N CABINET	16100
 DE LA RECHERCHE SCIENTIFIQUE Chef de Cabinet	8237
@@ -866,7 +872,6 @@ DIRECTIONS CABINET SECURITE POLICE GENERALE Capitaine	16100
 DIRECTIONS CENTRALES I- CAB-MID SECURITE CABINET	15455
 DNICE. Cabo Verde	15983
 DO MAIO I. ENQUADRAMENTO Em Cabo	15433
-DSA. The World Bank Cabo Verde	15924
 DU CABINET CIVIL LE MINISTRE DES	13524
 DU RENFORCEMENT DE CAPCITES CABINET	16001
 DU RENFORCEMENT DES CAPACITES CABINET	16175
@@ -984,7 +989,7 @@ Equiano Subsea Cable Lands	2677
 Escola de Formação Amílcar Cabral	11552
 España CABRERA BRASERO	6613
 Estado da República de Cabo Verde	15359
-Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243,3326,60,29,43,28,22,229,334,57,230
+Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243,3326,60,29,43,28,22,168,61,334,57,230
 Estado de Cabo Verde. Artigo	15358
 Estado de Cabo Verde. Assim	16019
 Estado de Cabo Verde. Permite	7466,8561
@@ -1044,7 +1049,7 @@ Governance BoP Balance of Payments CAB Current	11271
 Governação Digital de Cabo Verde	1268,1350,9255,3659,40
 Government Cabinet	10812,1153
 Government Program Cabo Verde's Strategic Plan	11863
-Government of Cabo Verde	181,1,8,152,1067,3426,619,586,2598,3217,14,4,66,26,43,3483,61,18,354,59,289
+Government of Cabo Verde	181,1,8,152,1067,3426,619,586,2598,3217,14,4,66,26,43,3483,61,18,413,289
 Government of Cabo Verde. MFIS	11855
 Government of Cabo Verde. Taking	15590
 Government of Mauritius. The Cabinet	14742
@@ -1084,7 +1089,7 @@ ID for All The Cabinet Secretary for Interior	4631
 IDEV Evaluation of Cabo Verde CSPs	11863
 IMA. Cabe	11448
 IMF Cabo Verde	15983
-IMPRENSA NACIONAL DE CABO VERDE IMPRENSA	15689
+IMPRENSA NACIONAL DE CABO VERDE IMPRENSA	15689,5
 INFANTERIE CAB	15744
 INS Cabinet MEPSIR Hypothèses	15580
 INS Cabinet MEPSIR INS A3O1R2	15580
@@ -1113,8 +1118,6 @@ Information and Communications Technology Cabinet	10765,10
 Infraestrutura de Chaves Públicas de Cabo Verde	15476
 Infraestruturas de Cabo Verde	15689,367
 Infrastructure Program GSC Gambia Submarine Cable	1000
-Instituto Cabo-verdiano	15694
-Instituto Cabo-verdiano da Criança	15694
 Instruções O Banco de Cabo Verde	16122
 Integrated Cable Car Resort	13060
 Interior Cabinet Secretary Kipchumba Murkomen	5711,1072,4,79,5437,10
@@ -1127,6 +1130,7 @@ Internet Cables	2677
 Internet Cables. This Time	2677
 Introdução O Governo da República de Cabo Verde	12021
 Ivoire Rockya Fofana Directrice de Cabinet Ministère	10708
+J Associação de Surdos de Cabo Verde	15694
 Join America-India Connect Subsea Cable Programme	7366
 Jornalistas de Cabo Verde	15982
 Kangwa SECRETARY TO THE CABINET	13345
@@ -1213,7 +1217,6 @@ MONET and West Africa Cable System	6270
 MOUSSOUNDA Serge Hervé RGB Directeur de Cabinet	16012
 MTL and Cabinet	4653
 Maareynta Cabashooyinka	14906
-Mahama Abdel Samir Sidbewende Bandaogo CABO	15924
 Main One Cable Company Last	3386
 Main One Cable Company Nigeria Ltd	3862
 MainOne Cable	3782
@@ -1285,6 +1288,7 @@ Mulheres de Cabo Verde	11855
 Mulheres de Cabo Verde OMCV	11855
 Municípios Cabo-verdianos	15535
 Municípios de Cabo Verde	11901,3402,130
+NACIONAL DE CABO VERDE Av	15694
 NACIONAL DE CABO VERDE Av. da Macaronésia	15689
 NATIONAL CAREER GUIDANCE POLICY Cabinet	11791
 NATIONAL DE SÉCURITÉ Secrétaire de Cabinet	16381
@@ -1318,7 +1322,7 @@ Nigeria-Cameroon Submarine Cable System	15480,504
 Nigeria-Cameroon Submarine Cable System. Submarine	5681
 Nucoode. O Digital Awards Cabo Verde	2281
 NÁDIA ALEXANDRA CRISTÓVÃO PEDRO CABETO	10751
-O Banco de Cabo Verde	15433,7,682
+O Banco de Cabo Verde	15433,7,10,672
 O ESTADO QUE CABO VERDE PRECISA	16487
 O Estado de Cabo Verde	15344
 O Governo de Cabo Verde	3956,11520,117,517,233,101
@@ -1336,7 +1340,7 @@ Office of President and Cabinet	12980
 Office of The President and Cabinet	395
 Olkaria Prime Cabinet Secretary Hon. Musalia	1245
 Only One Cable-laying Ship Can Fix	2677
-Operador Nacional de Sistema Elétrico de Cabo Verde	15924,59
+Operador Nacional de Sistema Elétrico de Cabo Verde	15983
 Operate CAB Central African Backbone CCDR	1264
 Operation Name P175828 Cabo Verde Human	16187
 Optic Cable	627
@@ -1350,6 +1354,7 @@ Overhead Cable Trays	9123
 Overview of Cabo Verde	11895
 Ownership Structure Banco de Cabo Verde	11955
 PARA CONSTRUIR UM CABO VERDE PARA	16487
+PAs. While Cabo Verde	15924
 PC Cable	34
 PCA da Imprensa Nacional de Cabo Verde	6571
 PHASE II Av. Amílcar Cabral	8166
@@ -1450,7 +1455,7 @@ QUALIFICATIONS MINIMALES REQUISES Le Cabinet	9744
 Quadruple Cable Break	2677
 REFERÊNCIA Projeto Cabo Verde Digital Assistência	11898
 REPORT CABO VERDE Technology Park	11863
-REPUBLIC OF CABO VERDE	11855,110,2031,1495,433,59
+REPUBLIC OF CABO VERDE	11855,110,2031,1495,492
 REPUBLIC OF CABO VERDE MINISTRY	12008
 REPUBLIC OF CABO VERDE MINISTÉRIO	16493
 REPUBLIQUE CENTRAFRICAINE DIRECTION DU CABINET Unité	15840
@@ -1475,9 +1480,11 @@ Radio Televisão Cabo Verde RTCV	15552
 Raman Submarine Cable System	13839
 Recommendations for Submarine Cable Resilience	5681
 Red Sea Cables Have Been Damaged	2677
+Red Sea Subsea Festoon Cable System	16808
 Rede Amílcar Cabral	15505
 Regionalization and CAB Program. The CITCG	15372
 Regulations The Cabinet Secretary	14449
+Reis Associação de Surdos de Cabo Verde	15694
 Relations Concours Petites ANPE Cabinet de Démarches	737
 Relações Exteriores Pela República de Cabo Verde	11393
 Renibly Monteiro Cabo Verde	15978
@@ -1489,16 +1496,15 @@ Représentant du Cabinet VP1	13290
 Représentant du Cabinet VP2	13290
 Republic of Cabo Verde	583,16,205,5203,2159,3697,78,3550,61,38,334,59,131,105,274
 Republic of Cabo Verde H. E. Adama	7452
-Republic of Cabo Verde Implementing Agency	15924
 Republic of Cabo Verde Loan No	8166
 Republic of Cabo Verde. Praia	11909
 Republic of Congo Project CAB4 Central	15511
 Republic of Gabon and CAB4	15513,40
 Republic of Guinea and MEDUSA Submarine Cable System	16716
 Republica de Cabo Verde Tel	8166
-República Cabo Verde C.P	15532,157
+República Cabo Verde C.P	15526,6,157
 República Cabo Verde. C.P	15689
-República de Cabo Verde	11901,3443,14,119,26,1,5,17,6,40,117,5,395,130
+República de Cabo Verde	11901,3443,14,92,27,26,1,5,17,6,40,117,5,395,130
 República de Cabo Verde Projeto	16110
 República de Cabo Verde Tel	16110
 República de Cabo Verde Telefone	11941
@@ -1547,6 +1553,7 @@ Senator Cabdullaahi Cali Xirsi	15070
 Sergent MAVOUNGOU Cerval. CABINET PRIVÉ	16381
 Sergent-Chef OWONO-MBENG Gilles de Verne. CABINET MILITAIRE	16381
 Serviços Consulares de Cabo-Verde	15572
+Serviços de Cabo Verde	15912
 Setor Elétrico de Cabo Verde	16059
 Sets Deadline Interior Cabinet Secretary Kipchumba	14264
 Seventeenth Cabinet Meeting	11791
@@ -1554,6 +1561,7 @@ Several Subsea Cables	2677
 Seychelles Cabinet	5318
 Seychelles Mauritius Cabo Verde South Africa	10837,1503
 Seychelles. Cabinet	7760
+Seção III Capítulo IV Banco de Cabo	15450
 Sharon Boudahir. De Cabo Verde	11566
 Short History of Submarine Cables	2677
 Sierra Leone Cable Company Limited	360
@@ -1655,6 +1663,7 @@ TRE Passaporte Eletrónico Cabo-Verdiano	15470
 TV Cabo	7381,2759
 TV Cabo Comunicações Multimédia	7381
 TV Cabo Moçambique	7381
+Taba Subsea Cable	16808
 Taxi Cabs	718
 Tech Cabal	7576
 Tech Crunch and Tech Cabal. Ventures Platform	13256
@@ -1684,6 +1693,7 @@ Treasury Cabinet Secretary	8949
 Treasury Cabinet Secretary John Mbadi	3015,5688,3551
 Treatment Antiretroviral Biosafety Cabinet Biosafety Level	4153
 Turismo de Cabo Verde	15526
+Turismo de Cabo Verde Geral	15526
 Twenty-third Cabinet Meeting	13673
 UC Cabo Verde	11898
 UGPE Coordinator Av. Amilcar Cabral	8166,7944
@@ -1716,10 +1726,9 @@ University of Rwanda. A Cabinet	7906
 Unlimited Cable	15471
 Unlimited Cable Onda	15471
 Utilisation de Cabine	15670
-VERDE Cabo Verde Third Fiscal Space	15924
 VICTORIA FALLS Cabinet	13673
 VIE CHERE CABINET DU MINISTRE	16099
-VIII Governo Constitucional da República de Cabo Verde	15564
+VIII Governo Constitucional da República de Cabo Verde	15564,348
 Velmie and Metro Cable	2749
 Vera Cabral	11561
 Village URUGWIRO. The Cabinet Meeting	14869

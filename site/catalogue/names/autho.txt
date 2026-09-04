@@ -223,7 +223,7 @@ Authorities and Agencies	3025
 Authorities and Bodies	15393
 Authorities and IMF	13868
 Authorities’ Views	13868
-Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30,122,46,1,5,12,1,14,29,30,29,38,16,16,24,3,21,3,255,67,23,103,91,29,146,10,8,47,67,41,36,8,34,4,1,24,6,10,48,5,40,2,7,21,52,12,38,38,3,20,1,3,39,15,9,19,1,1,35,5,73,135,12,2,11,4,46,2,64,1,3,14,20,12,17,20,3,2,79,10,82,16,5,2,10,8,7,1,3,1,20,5,5,32,5,11,11,9,101,6,67,42,261,29,13,154,45,29,20,36,102,27,34,7,32,1,66,3,4,18,48,1,6,30,54,8,6,15,1,2,3,8,2,13,11,26,29,9,3,4,3,3,2,1,7,2,22,2,13,27,1,18,21,4,4,23,7,12,22,27,12,18,5,25,14,6,23,15,20,14,29,75,91,80,11,31,1,88,43,36,140,148,72,165,4,3,17,22,92,134,31,57,35
+Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30,122,46,1,5,12,1,14,29,30,29,38,16,16,24,3,21,3,255,67,23,103,91,29,146,10,8,47,67,41,36,8,34,4,1,24,6,10,48,5,40,2,7,21,52,12,38,38,3,20,1,3,39,15,9,19,1,1,35,5,73,135,12,2,11,4,46,2,64,1,3,14,20,12,17,20,3,2,79,10,82,16,5,2,10,8,7,1,3,1,20,5,5,32,5,11,11,9,101,6,67,42,261,29,13,154,45,29,20,36,102,27,34,7,32,1,66,3,4,18,48,1,6,30,54,8,6,15,1,2,3,8,2,13,11,26,29,9,3,4,3,3,2,1,7,2,22,2,13,27,1,18,21,4,4,23,7,12,22,27,12,18,5,25,14,6,23,15,20,14,29,75,91,80,11,31,1,88,43,36,140,22,126,72,165,4,3,17,22,92,134,31,57,35
 Authority Account National Construction Authority	14546
 Authority Accreditation and Certification	587
 Authority Act	7845,5208,1664
@@ -504,6 +504,7 @@ Authors Ndekazi Botha The University of Zambia	12467
 Authors Network	8943
 Authors Polycarp Otieno Onyango	14551
 Authors Ronald Musizvingoza University of Zimbabwe Naomi	12486
+Authors Saniya Ansar	16822
 Authors Seid Yimam Mohamed Seid Yimam	12162
 Authors Thomas Byrnes Simone Dobre Laura	11156
 Authors Wilmari Strachan Your Author LinkedIn	6683
@@ -1565,7 +1566,7 @@ Land Drainage Authority Act	7845
 Land Drainage Authority. Investing	14748
 Land Transport Authority	6166
 Land Transportation Authority	14143
-Land Use and Spatial Planning Authority	1513
+Land Use and Spatial Planning Authority	1513,14332
 Landing Right Authorization	762
 Landing Rights Authorization	9335,1072
 Landing Rights Authorization for Satellite Service Provider	10407
@@ -1706,7 +1707,7 @@ MPCI Author	16673
 MTR Mid-term Review NAQQAE National Authority	15604
 MW. The Authority	12256
 Magistrates Authority	12367
-Malawi Communications Regulatory Authority	1704,1398,6,570,494,411,26,925,14,504,894,418,47,1,31,43,39,1692,729,464,2,236,1518,6,15,45,8,13,10,52,593,33,95,44,34,1076,184,300
+Malawi Communications Regulatory Authority	1704,1398,6,570,494,411,26,925,14,504,894,418,47,1,31,43,39,1692,729,464,2,236,1518,6,15,45,8,13,10,52,593,33,95,44,34,1076,184,300,2149
 Malawi Communications Regulatory Authority Date	13035
 Malawi Communications Regulatory Authority MDAT	12175
 Malawi Communications Regulatory Authority MDAs Ministries	12241,839,15
@@ -2248,6 +2249,7 @@ Public Health Authority	7761
 Public Procurement Appeals Authority	8616
 Public Procurement Authority	4126,48,2762,521,2271,111,3,577
 Public Procurement Authority's GHANEPS	10305
+Public Procurement Authority’s Average Price Database	15845
 Public Procurement Regulatory Authority	1284,354,3811,184,4871,325,4721
 Public Procurement Regulatory Authority Promote	7548
 Public Procurement Regulatory Authority. Adoni Conrad	4181
@@ -2368,15 +2370,15 @@ Restoration of State Authority Strategy	969
 Rethinking Ownership Authorship and Value Creation	5858
 Retirement Benefits Authority	6938
 Revamped Certification Authority Platform The Government	14752
-Revenue Authority	3583,543,6221,1363,266,1066,3212,377
+Revenue Authority	3583,543,6221,1363,266,1066,2882,330,377
 Revenue Authority Act	6921,6685
 Revenue Authority Act No	12392,857
 Revenue Authority Commissioner General KINGDOM	16631
 Revenue Authority Disburses Additional Rwf464	14968
-Revenue Authority ECF Extended Credit Facility	15924
 Revenue Authority PFM Public Financial Management	14828,3
 Revenue Authority ZINWA Zimbabwe National Water	13420
 Revenue Authority. Client Code Client Code	13333
+Revenue Authority. Rationale	15924
 Revenue The Authority	13053
 Revenue and Customs Authority HR Frequently Asked	12500
 Revision of Agro-Ecological Zones Report Authors	520
@@ -2675,8 +2677,10 @@ Town Planning Authority	11129
 Trade Notification Authority	13320
 Traditional Authorities	12241,705,59,19,71,27
 Traditional Authorities Act	12959
+Traditional Authorities Strengthen	15845
 Traditional Authorities Trust	8415
 Traditional Authority	11282,959,764,19,56,15
+Traditional Authority Kalumbu	16804
 Traditional Authority-level	13005
 Training Authority	13053
 Training Authority BDA	6832

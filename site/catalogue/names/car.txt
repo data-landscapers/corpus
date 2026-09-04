@@ -129,7 +129,6 @@ Angola National Identity Card	10714
 Angola’s ID Card	10765,10
 Aniceto de Carvalho	9259
 Anna Carlotta	12541
-Anna Carlotta Allen Massingue	15924
 Annex Careplus MEdical Data Controller INST-724067F63A2	7167
 Annexe E AUTRES CARACTÉRISTIQUES DU LOGEMENT	13300
 Annexe E CARACTÉRISTIQUES DU MÉNAGE	13300
@@ -456,6 +455,8 @@ CARFO. Cette	7800
 CARFO. Il	7800
 CARGAS EXCEPCIONALES	4209
 CARGO	4209
+CARGO DGIS EAdnUaSlvCa UCLarTdoAsoDA Diretora Geral	15694
+CARGO INSTITUIÇÃO AUSPCEUSSLOTAADA FUNÇÃO	15694
 CARIA	2854,337,37,74,11,286,2282,9737
 CARIA. Kintele	3228
 CARIBON LIMITED Data Controller INST-44949635C12 NAIROBI	7167
@@ -817,6 +818,7 @@ Card-based	15023
 Card-based Automated Teller Machine	11134
 Card-based PoS and ATM	11131
 Card-tied	8182
+Cardaicfticeruilzdaaçdãeosdea	15694
 Cardamome	16103
 Cardbased Point of Sale	11134
 Cardbased Point of Sale and Card-based Automated Teller	11131
@@ -838,6 +840,9 @@ Cardinal Pa-	13405
 Cardinal Pietro Parolin	13405
 Cardinal Points	5202
 CardinalStone	7446
+CardinalStone Finance	16785,13
+CardinalStone Finance Company Limited	16785,13
+CardinalStone Group	16785,13
 Cardinalet	8606
 Cardio Pul-	12151
 Cardio Pul- Anaemia	12151
@@ -889,6 +894,7 @@ Care Seeking	14067
 Care Seeking for Malaria	14067
 Care Services	1009
 Care Services and Patient Care	12606
+Care System	15924
 Care and Protection Act	13097
 Care and Support for Teaching and Learning CTT Classical	12975
 Care and Treatment	1261
@@ -900,6 +906,7 @@ CarePay Devco Kenya Ltd Data Processor	7167
 CarePay Ltd. Data Controller INST-9782911BBB8 NAIROBI	7167
 CarePay Ltd. Data Processor INST-9782911BBB8 NAIROBI	7167
 Carece	11520,3872
+Carecem	15912
 Careem	14897
 Career	6946,2,105,2051,1672,538,33
 Career Café	16198
@@ -940,7 +947,7 @@ Caretaker	6423,4757
 Carew M	12231
 Carey Distinguished Chair	13258
 Carfinity	13233
-Carga	15535
+Carga	15450,85
 Cargados Carajos	14742
 Cargo	10628,941,3909,14,1060
 Cargo Carrier	15478
@@ -959,13 +966,13 @@ Cargo Tracking System	13053
 Cargo Transport Article	15492
 Cargo Trucks Dedicated	10405
 Cargoes	15492
-Cargos	15492,833
+Cargos	15492,420,413
 Cargos de Direcção	11361
 CargäisonS	15999
 Caria	2854
 Caria Tech Village	2854
 Caribbea-n1	11964
-Caribbean	26,1,1,198,336,1252,504,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,7,273,185,78,103,42,55,32,222,225,32,106,45,60,43,101,181,78,69,47,183,19,44,26,19,178,5,104,1,149,7,16,43,210,294,516,563,730,283,1,185,1066,4,67,61,131,27,145,423,295,27,8,62,198,513,367,186,103,330,68,739,160,850,183,970
+Caribbean	26,1,1,198,336,1252,504,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,7,273,185,78,103,42,55,32,222,225,32,106,45,60,43,101,181,78,69,47,183,19,44,26,19,178,5,104,1,149,7,16,43,210,294,516,563,730,283,1,185,1066,4,67,61,131,27,145,423,295,27,8,62,198,513,367,186,103,330,68,739,160,850,183,970,180
 Caribbean Africa Asia	11004,960
 Caribbean Digital Transformation Project	13331
 Caribbean Middle East and North Africa South	10977
@@ -1037,7 +1044,6 @@ Carlo Rossotto	10703,3314,706
 Carlos	3079,12300,236,580
 Carlos Afonseca Monteiro	5509
 Carlos Agostinho	576,219,11979,3,2,3
-Carlos Alberto Carvalho Furtado	15924
 Carlos Alberto Cavuquila. E ESTATÍSTICA Ministro	10752
 Carlos Alberto Santos Silva	15404
 Carlos Alberto Tavares Pina	2091
@@ -1133,6 +1139,7 @@ Carolin Müller	14448
 Carolin-Katharina.Mueller	14448
 Carolina Botero	12088
 Carolina Cerqueira. Promulgada	3519,7890,16
+Carolina Gideon-Krama	16817
 Carolina Glasserman Apicella of DataGénero	7151
 Carolina Population Center	13332
 Carolina Principles	14686
@@ -1147,7 +1154,7 @@ Caroline Giffon Wee	16012
 Caroline Juma Data Processor INST-295685B3306 KAKAMEGA	7167
 Caroline Kamaitha	5249
 Caroline Koech	8753,4559,2
-Caroline Mbugua	4906,1250,558,67,80,964,416,1579,708
+Caroline Mbugua	4906,1250,558,67,80,964,416,1579,708,6271
 Caroline Mbugua of GSMA Africa	8050
 Caroline Mwikali	7990
 Caroline Nalule and Derya Ozkul	12227
@@ -1197,7 +1204,7 @@ Carried	267,1024,1,1,1,1,1,29,1,1,1,1,1,330,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,255,1,
 Carrier	5226,646,3251,323,1510,4536,1024
 Carrier Benchmarking How Infrastructure Choices Overcome	6051
 Carrier Grade NAT	7010
-Carrier Hotel	8542
+Carrier Hotel	8542,8260
 Carrier Hôtel	8540
 Carrier License Harmonized	13563
 Carrier NPS	6051
@@ -1245,7 +1252,7 @@ Carrão H	10964
 Carse	5700
 Carslake Nominees Ltd T	7167
 Carsten Philipson	14017
-Carta	10714,679,48,15,5,103,1297,2483,675
+Carta	10714,679,48,15,5,103,1297,2483,182,493
 Carta Africana	14,15463
 Carta Africana da Estatística	11526
 Carta Africana de Estatística	11449,4086
@@ -1293,7 +1300,7 @@ Carteira Sectorial de Projectos	10783
 Carteira de Condução	11569
 Carteira de Projectos	10783
 Carteira de Projectos Provincial	10783
-Carteiras	15755
+Carteiras	15755,621
 Carteiras Sectoriais	10783
 Carteiras de Projectos	10783
 Carteiras de Projectos. CAPÍTULO II COMPETÊNCIA	10783
@@ -1447,6 +1454,7 @@ Citizen Report Card	13418,1517
 Citizen Report Card and Rwanda Governance Scorecard	13418
 Citizen Report Cards	13418
 Citizen Report Cards and Community Score Cards	14935
+Citizen Score Cards and Beneficiary Assessment Surveys	15845
 Citizen Scrutiny Card	10714
 Citizenship Card	10714
 Citizenship Card No N	10714
@@ -1537,6 +1545,7 @@ DES DONNEES A CARACTERE PERSONNEL Chapitre	15432
 DES MINES ET DES CARRIERES	8321,7621,345
 DES MINES ET DES CARRIERESLe Conseil	7670
 DG Provincial Engagements Resources Programmes Care	11241
+DGIS Ednalva Cardoso Diretora Geral Leodomilo	15694
 DIABETES AND ORTHO CARE PHARMACEUTICAL SPECIALISTS	7167
 DIRECTIVO OBRAS EDIFICIFIC. Y CARRETERAS	4209
 DISTRIBUTION ET REMISE DES CARTES CNI	14480
@@ -1672,7 +1681,6 @@ East African Community. Carnegie	5550
 Eastern Caribbean	15478
 Eastern Caribbean Central Bank	9179
 Eastern Caribbean Central Bank Governor Timothy	9179
-Eduardo Malasquez Carbonel	15924
 Edward R. Carr	16135
 Effectif Caractéristique Une	13300
 Effectif de Caractéristiques	13300
@@ -1769,6 +1777,7 @@ Foster Care Programme	12977
 Foster Care Programme Region Families	12977
 FouRNtssEURs DE CARBU MoDATITE	14479
 Foundation Carter Center World Bank GAVI	14622
+Four Cardinal Points	16784
 Francisca da Caridade Felix Chitanga Instituto Superior	10780
 Francisca da Caridade Felix Chitanga Visoki	10780
 Francisco Carvalho	4411,8,1772,380,1629,319,256,7187,172,65,63,266
@@ -1794,7 +1803,7 @@ Geny Carole IGABOUYI	16175
 Georgia Gambian National ID Card Sep	10714
 Ghana CARES	1889,13740
 Ghana CARES. Ghana	789
-Ghana Card	84,895,1610,100,32,51,24,33,400,21,141,33,119,24,1,3,231,57,723,95,114,682,19,67,188,252,148,30,133,61,21,707,66,129,23,35,17,1,330,327,339,330,1145,574,407,198,1,97,23,4289,199,18,333,238,90,38,192,63
+Ghana Card	84,895,1610,100,32,51,24,33,400,21,141,33,119,24,1,3,231,57,723,95,114,682,19,67,188,252,148,30,133,61,21,707,66,129,23,35,17,1,330,327,339,330,1145,574,407,198,1,97,23,4289,199,18,198,135,238,90,38,192,63
 Ghana Card Number	15647
 Ghana Card PIN	2589,13011,1001
 Ghana Card PIN Verification The TIN	16601
@@ -1998,8 +2007,9 @@ Ivoire. Car	2453
 Ivyline Care Foundation	7172
 J. Nehru Day Care Centre for Immunosuppressed	14774
 JB CHARLESTON SOUTH CAROLINA UNITED STATES	4434
+JORGE CARLOS	15526
 JORGE CARLOS DE AL MEIDA FONSECA	15391,5
-JORGE CARLOS DE ALMEIDA FONSECA	15433,7,86
+JORGE CARLOS DE ALMEIDA FONSECA	15433,7,10,76
 JORGE CARLOS DE ALMEIDA FONSECA ANEXO	15392
 JORGE CARLOS DE ALMEIDA FONSECA Assinada	15385
 JORGE CARLOS DE ALMEIDA FONSECA Documento	15380
@@ -2037,6 +2047,7 @@ Kagas and Haut-Oubangui Regions of CAR. About	15658
 Kanifing ID Card Centre	12085
 Katiso Molefe and Carrim. Msibi and Sergeant Fannie	10263
 Kebele ID Card Sep	10714
+Keep Reading Govt Warns Car Dealers	16797
 Kenya's Taifa Care HMIS	4153
 Kenyan ID Card	11994
 Kenya’s Taifa Care	14182
@@ -2460,6 +2471,7 @@ Pour le CARE	9497
 Prepaid Cards Mobile Banking Subscribers Internet	4517
 Preparation Carlo Del Ninno Kouami Hounsinou	15601
 President Jorge Carlos Fonseca	11889
+President Ould Tah's Four Cardinal Points	16784
 President of CAR	16277
 President of Huawei Southern Africa Region Carrier	13782
 Presidente da CNE Carmem Batista Lobo	10271

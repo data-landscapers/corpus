@@ -495,7 +495,7 @@ Embassy Kingdom	13358
 Emeriand Dieu Merci KIBANGOU	16249
 Emmanuel Kirstetter	16135
 Energy Consultant Naomi Wangari Kioi	12195
-Eng. John Kipchumba Tanui	3878,2847,344,338,73,902,410,417,1190,268
+Eng. John Kipchumba Tanui	3878,2847,344,338,73,902,410,417,1190,268,6136
 Eng. Kiplagat	9609
 Eng. Laban Kiplagat	9609
 Eng. Leul Kidane	7572
@@ -552,6 +552,7 @@ Fred Kitunga	10798
 Fredrick Edward Kitoogo	4028
 Fredrick Edward Kitoogo Break	4028
 Freetown Post Office and Kissy Terminal Depot	15478
+Freira Kika	15694
 French and Kiswahili	15056
 Frédéric Kibassa Maliba	4092
 G. Kioko	11140
@@ -1136,7 +1137,7 @@ Kifedha	2868
 Kiffa	1993
 Kifle	14123
 Kifungu	8615
-Kigali	718,52,21,21,125,277,350,162,177,189,208,378,4,4,1,15,137,358,201,17,104,154,494,396,20,198,160,1,16,1,7,3,80,21,217,66,31,15,19,51,127,5,236,113,91,148,23,19,36,76,67,116,38,475,63,90,145,69,136,24,30,168,93,64,117,52,21,2,93,121,16,104,2,79,146,79,2,82,158,51,136,24,396,158,35,97,1,180,5,75,91,28,40,68,175,56,41,6,11,132,18,156,165,9,178,173,322,46,214,218,28,1,4,25,11,10,7,17,10,4,10,11,7,15,1,22,799,32,104,150,535,35,144,106,165,69,240,1,6,4,20,42,7,8,17,3,20,7,15,7,8,11,18,23,1,1,27,20,30,38,3,9,1,1,11,26,8,38,299,49,219,298,37,186,164
+Kigali	718,52,21,21,125,277,350,162,177,189,208,378,4,4,1,15,137,358,201,17,104,154,494,396,20,198,160,1,16,1,7,3,80,21,217,66,31,15,19,51,127,5,236,113,91,148,23,19,36,76,67,116,38,475,63,90,145,69,136,24,30,168,93,64,117,52,21,2,93,121,16,104,2,79,146,79,2,82,158,51,136,24,396,158,35,97,1,180,5,75,91,28,40,68,175,56,41,6,11,132,18,156,165,9,178,173,322,46,214,218,28,1,4,25,11,10,7,17,10,4,10,11,7,15,1,22,799,32,104,150,535,35,144,106,165,69,240,1,6,4,20,42,7,8,17,3,20,7,15,7,8,11,18,23,1,1,27,20,30,38,3,9,1,1,11,26,8,38,299,49,219,298,37,186,164,243
 Kigali Action Plan	10764
 Kigali Africa AI Declaration Apr-2025	6041
 Kigali Africa Declaration	6937
@@ -1533,7 +1534,7 @@ Kingdom of Lesotho	1200,1216,4135,3190,201,2710,11,1,4,1,6,18,7,10,40,6,5,1388,1
 Kingdom of Lesotho. Estimated Board Date	12669
 Kingdom of Lesotho. Lesotho	12760
 Kingdom of Lesotho. The NID	12663
-Kingdom of Morocco	25,512,21,1177,1314,3052,1068,283,5670,1505
+Kingdom of Morocco	25,512,21,1177,1314,3052,1068,283,5670,1505,2133,41
 Kingdom of Morocco To International Organizations	1735
 Kingdom of Norway	13144,3265
 Kingdom of Saudi Arabia	8645,1000,3065,1297,398,240,194,14,221,18,143
@@ -1815,7 +1816,7 @@ Kisumu County Data Processor INST-175606322DE KISUMU	7167
 Kisumu Energy and Petroleum Regulatory Authority	12256
 Kisumu West	10313
 Kisumu West MP Rozzah Buyu	2742
-Kisumu and Kampala	6691,25
+Kisumu and Kampala	6691,25,10072
 Kisumu and Mombasa International Airport	12256
 Kisumu and Nyeri Counties. Figure	6946
 Kisumu and West Pokot	14546
@@ -2179,6 +2180,7 @@ Oranjemund Kinder Garden	13046
 Oranjemund Namdeb Mine-Oranjemund Central Kitchen Bagdad	13046
 Organizations Kind	12138
 Osborn Kitsuimi	11912
+Over Illegal Clearance Charges Kiboga Residents	16797
 P COMPAGNIE DES BAUXITES DE KINDIA	16623
 P Kaduha Nyarugenge Kigarama Cyabakamyi Kigoma	12413
 P Ki	8604
@@ -2354,6 +2356,7 @@ SANDOUNGOU KIYENDE Marcel	16381
 SARS Commissioner Edward Kieswetter	5702
 SARS Commissioner Mr Edward Kieswetter	2681
 SIEGE KINSHASA F H	15670
+SOLOMON KIMNGSLEY APPIAH GAMING COMMISSION MINTER	15845
 SUD KIVU O KASAÏCENTRAL	15670
 Sa Divinité Papa Simon Kimbangu Kiangani	6460
 Sabou Kids Art	16693
@@ -2514,7 +2517,7 @@ Uganda. Edward Kimbugwe	5658
 Ukraine United Arab Emirates United Kingdom	11470,295
 Under the High Patronage of His Majesty King	2577
 Under the Kigali Agreement	15860
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148
 United Kingdom Corresponding Author	12025
 United Kingdom Foreign	10768,3299,75
 United Kingdom Global Cybersecurity Index	10764
@@ -2536,7 +2539,7 @@ United Kingdom and Singapore	5371
 United Kingdom of Great Britain and Northern Ireland	1243,5370,4251,290,1886,1753,713,219,855
 United Kingdom's Bribery Act	3583
 United Kingdom's Electronic Trade Documents Act	10718
-United Kingdom's Foreign	6426,7111,1522,949
+United Kingdom's Foreign	6426,7111,1522,949,762
 United Kingdom's GOV.UK and Rwanda	6277
 United Kingdom's High Commissioner	5757
 United Kingdom's Home Office	4052
@@ -2572,6 +2575,7 @@ Université de Kinshasa URL	15682
 Université de Kinshasa. Ceci	15682
 Université de Kinshasa. Composé	5888
 Université de Kinshasa. Il	3301
+Upgrade Kitagwenda’s Ntara HC IV	16797
 V Kigoma	13433
 V Kigoma-Rwabusoro	12358
 V Kilo Volt LFO Light Fuel	10975

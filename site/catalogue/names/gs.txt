@@ -140,6 +140,7 @@ GSMA DNSI	14674
 GSMA DPRI	14674
 GSMA DPRI GSMA Digital Policy and Regulatory	14674
 GSMA Data	1264
+GSMA Device Registry	16799
 GSMA Digital	14674
 GSMA Digital Africa	14674
 GSMA Digital Africa Index	14674
@@ -168,7 +169,7 @@ GSMA Handset Ethiopia	6593
 GSMA Head Office	6593,4411,13,885,62,30
 GSMA Head Office One Angel Lane	10856,3818
 GSMA ICT IDI IT INS ISP	15480
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
@@ -269,6 +270,7 @@ GSMA and NRC	15342
 GSMA and OECD.AI	3859
 GSMA and Paradigm Initiative	11857
 GSMA and Pleias	9944
+GSMA and Trustonic	16799
 GSMA and World Bank	15621
 GSMA and Zindi	8204
 GSMA's African AI	6593
@@ -368,6 +370,8 @@ Government. The GSB	12416
 Gross Domestic Product GSM	14879
 Gross Domestic Product GSMA Global System	12395
 Gs1 Namibia	12478
+Gsaircanotilróogsisceorviçeos	15694
+Gsaraantipr	15694
 Gseaopf	11964
 Gsenger and Strle	8283
 Gseocvoenrndmareyn	10969

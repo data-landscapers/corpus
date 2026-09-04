@@ -110,7 +110,7 @@ Affaires Thomas Hines	6695,2106
 Affaires Zimmerman	4340,5
 Affaires and Head of Cooperation	13426
 Affaires of Poland	13156
-Affairs	250,96,443,44,944,606,1200,543,1407,722,257,564,352,120,26,125,1344,207,936,626,323,83,639,30,18,55,26,167,1,9,134,44,126,45,127,333,11,625,422,457,59,128,20,300,125,1025,141
+Affairs	250,96,443,44,944,606,1200,543,1407,722,257,564,352,120,26,125,1344,207,936,626,323,83,639,30,18,55,26,167,1,9,134,44,126,45,127,333,11,625,422,457,59,128,20,300,125,1025,141,486
 Affairs Bill Home Affairs Bill	11986
 Affairs CORS Continually Operating Reference Stations	11261
 Affairs Chief Environment Coordinator International Atomic	12972
@@ -297,7 +297,8 @@ African Affordability	1013,931
 African Centre for Parliamentary Affairs	9203
 African Community Affairs	11806
 African Countries Ministry of Foreign Affairs	626
-African Development Bank's Affirmative Finance Action	15204
+African Development Bank's Affirmative Finance	16778
+African Development Bank's Affirmative Finance Action	15204,1574
 African Journal of Public Affairs	4432
 African Union Commission for Youth Affairs	16275
 African Union. Alliance for Affordable Internet	13314,2179
@@ -755,6 +756,7 @@ Finance and Legal Affairs	9214
 Financial Affairs and Budget Oversight Commission	3901
 Financial Sector Regula- Affairs	6938
 First Department of Home Affairs	11222
+First Test of Affordability	16799
 Fiscal Affairs Department	1828,10672,1124
 Fiscal Affairs Department International Monetary Fund	12500
 Food and Rural Affairs	12837
@@ -821,7 +823,7 @@ HOME AFFAIRS	5533,6453
 HOME AFFAIRS AND CULTURAL HERITAGE	13420
 HOME AFFAIRS AND INTERNAL SECURITY ENVIRONMENTAL	1988
 Handset Affordability	5752
-Handset Affordability Coalition	10209
+Handset Affordability Coalition	10209,6590
 Haouch Echouhada El Affroun Pôle	15690
 Harmonisation du Droit des Affaires	15411,63,625
 Hassan Ali Khaire. Somalia Cannot Afford	11105
@@ -1005,6 +1007,7 @@ Kasi Cloud Datacenters Lagos State Affirms	6376
 Kenya Affordability Safety and Internet	11004
 Kenya. Institute of Economic Affairs	12192
 Key Factors Affecting Implementation and Outcomes	16614
+Korea's Ministry of Foreign Affairs	16752,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Ksh.11.6 Billion The Affordable Housing	2428
 LA PÊCHE MINISTERE DES AFFAIRES	16039
 LATIVE AND-STATUTORY AFFAIRS CARD INDEX SERVICE	15530
@@ -1448,6 +1451,7 @@ Public Affairs	8709,3492,26,2515
 Public Affairs Committee	2993,7118
 Public Affairs Department	8709,854,104
 Public Affairs Director	4592
+Public Affairs Directorate	15845
 Public Works and Transport Eswatini Maritime Affairs	12972
 Pêche MAFDP Ministère des Affaires Foncières	15580
 Pêche MASM Ministère des Affaires Sociales	15479
@@ -1673,6 +1677,7 @@ United Nations Department of Social and Economic Affairs	12962
 United Nations Office for Disarmament Affairs	2117
 United Nations Office for Outer Space Affairs	7760,3484
 Université Nazi BONI. Affilié	8721
+Used Smartphone Changes What Affordability	16799
 VFS Reports DEPARTMENT OF HOME AFFAIRS	11986
 VOTERS' REGISTER The Minister of Home Affairs	13538
 Veteran Affairs System	12448

@@ -165,7 +165,6 @@ B. CPF Outcomes and IDA21 Policy Commitments	11469
 B. KEY OUTPUTS BY COMPONENT Component	15601
 B. KEY OUTPUTS BY COMPONENT Objective	15424,87,152
 B. KEY OUTPUTS Objective	11924
-B. Macroeconomic Outlook and Debt Sustainability	15924
 B. Ouattara	15715
 B. Outcome	13938
 B. Output	15039
@@ -216,6 +215,7 @@ Beyon Romain NEBIE Didier OUEDRAOGO	4211
 Blended Outcome	14997
 Body Outdated	13446
 Boletim de Nascimento. Ou	10772
+Bolt Operations OU	16781
 Bons du Trésor Oui Non Q24	13390
 Bou Arréridj Tixter Ras El Oued	15690
 Bouchra Ounissi	15410
@@ -357,6 +357,7 @@ Conservateur. Outre	15349
 Consumer Outreach	6946
 Consumer Outreach Activities	6946
 Consumer Outreach Activities Programmes	6946
+Consumers By Gabriel Ouma	16781
 Continental Digital Policy Outlook	9858
 Contribuinte Outras	10762
 Convenção da OUA	11365
@@ -815,6 +816,7 @@ ICTD. Outside	12162
 IDEA Annual Digital Forum Outcome Report	7963
 IDs Output	11986
 IFs Oui Non	13390
+IGF Outcome	15845
 II. OUTCOME	11924,3587,90,62,68,228
 II. OUTCOME A. RELEVANCE OF PDO	11924,4512
 II. OUTCOME A. RELEVANCE OF PDOs	15511,90,62
@@ -1421,6 +1423,7 @@ OU DE FOURNITURE DES SERVICES	15545
 OU DE FOURNITURE DES SERVICES NUMERIQUES	16203
 OU DE LA SOEUR	13300
 OU DE MOTIFS SOUS-SECTION	15999
+OU DE OUTRAS FORMAS DE ORGANIZAÇÃO	16138
 OU DES REPRESENTATIONS A CARACTERE PORNOGRAPHIQUE	16617
 OU DONNEES Art	15643
 OU DU DOMAINE PRIVE	15394
@@ -2027,7 +2030,7 @@ Ousmane Diagana Country Director	969,295,9565,135,585,375,3567,20,4,3,35,48,20,8
 Ousmane Diagana Global Director	2889
 Ousmane Diagana Mats Karlsson Sector Manager	16614
 Ousmane Diagana Regional Director	11560,345,3753,1,2,526,197
-Ousmane Diagana Regional Practice Director	3604,12139,39,142,45,14,161
+Ousmane Diagana Regional Practice Director	3604,12139,39,187,14,161
 Ousmane Diagana. Regional Director	15802
 Ousmane Diagana. Regional Practice Director	11965
 Ousmane Diallo Nacanabo	1950
@@ -2132,12 +2135,15 @@ Outbreak Response Assessment	14622
 Outbreak Response Funding	4153,14,35,15,43,1092
 Outbreak. Summit	12640
 Outbreaks	21,5204,5972
-Outcome	1129,26,1554,1071,1753,1299,619,1677,1593,160,312,44,158,73,1,116,331,8,62,189,183,95,248,103,132,159,250,2,479,35,128,1,10,125,7,495,118,42,101,34,13,24,38,427,87,90,57,5,39,11,12,6,27,143,89,35,359,52,202
+Outcome	1129,26,1554,1071,1753,1299,619,1677,1593,160,312,44,158,73,1,116,331,8,62,189,183,95,248,103,132,159,250,2,479,35,128,1,10,125,7,495,118,42,101,34,13,24,38,427,87,90,57,5,39,11,12,6,27,87,56,89,35,359,52,202
+Outcome Annually	15845
+Outcome Annually NACOC	15845
 Outcome Area	11905
 Outcome Areas	11905
 Outcome Baseline Targets Description of Target Data	13005
 Outcome CRM-AR.S6	10721
 Outcome Document and Chair’s Summary. Aug	5700
+Outcome Female Acres	15845
 Outcome Indicator	13938,997
 Outcome Indicator Units Baseline Target Responsible	15130
 Outcome Indicators	4153,7771,3011,489,87,90,62
@@ -2146,9 +2152,11 @@ Outcome Key Performance Baseline Midterm Target	7548
 Outcome Metric Definition	4301
 Outcome Metrics	4153,14,35,15,43,41,48,1003
 Outcome Moderately Satisfactory	14885
+Outcome N	15845
 Outcome Outputs Year Estimated Cost	13005
 Outcome PDO	15663
 Outcome Pr	7886
+Outcome Quarterly Commission Legislative Instrument Outcome	15845
 Outcome Rating	15424
 Outcome Rating Satisfactory	14888
 Outcome Rationale The Overall Outcome	10779
@@ -2246,6 +2254,7 @@ Outgoing and Incoming Roaming SMS Traffic	15136
 Outgoing and Incoming Roaming Voice Traffic	15136
 Outgoing and Incoming Traffic	3862
 Outgoing and Inq. Digital	3862
+Outgrown Its Own Infrastructure	16814
 Outi Holopainen	5672
 Outil	2966,7058,3351,93,969,92,964,90,129,224,25,417,250
 Outil DGRA BANQUE MONDIALE	16641
@@ -2301,9 +2310,11 @@ Outpatient Diseases	2775
 Outpatient ONLY HMIS	2709
 Outpatient Visit	6666
 Outposts	5084,753
-Output	236,930,38,1571,2248,510,899,2691,311,1535,222,61,19,149,464,1,10,57,34,22,151,1,44,1,24,12,110,4,3,129,593,15,252,420,365,390,402,11,62,42,719,143,737
+Output	236,930,38,1571,2248,510,899,2691,311,1535,222,61,19,149,464,1,10,57,34,22,151,1,44,1,24,12,110,4,3,129,593,15,252,420,365,390,402,11,62,42,719,87,56,737
 Output Activities Budget	13938
 Output Agreement	14976
+Output Annually	15845
+Output Annually NACOC	15845
 Output Based Aid	15542
 Output Centre of Excellence Central Bank of Reference	11134
 Output IP Internet Protocol IPSec Internet	13185
@@ -2312,7 +2323,12 @@ Output Indicator	11866,2072,997
 Output Indicators	12356
 Output Indicators Annual Target Q1 Q2	11986
 Output KPI Sustainable Income Outperform	11131
+Output Output	15845
+Output Output Board	15845
 Output Ownership	16212
+Output Prison	15845
+Output Quarterly	15845
+Output Regions	15845
 Output Trays Capacity	34
 Output Type LaserJet Enterprise	34
 Output Voltage	13524
@@ -2333,7 +2349,7 @@ Outputs-immediate	7548
 Outra	220,2596,1224,6717,20,637,113,5,30,7,226,3496,235,9,29
 Outrage	7187
 Outrageous	3035,253,61,689,520,84,1026,183,181,224,255,42,811
-Outras	539,255,2022,703,699,951,5586,2,20,653,8,11,67,2,380,3,120,832,2580,261,61,267
+Outras	539,255,2022,703,699,951,5586,2,20,653,8,11,67,2,380,3,120,832,2580,322,267
 Outras Entidades Públicas	11516
 Outras Estratégias Principais	15684
 Outras Fontes Nacionais	1339,1,1,1,739,2,1,2327,2,1
@@ -2355,11 +2371,11 @@ Outreach Programme	11231
 Outreaches	11986
 Outremer Telecom Digital Solutions	14810
 Outres	10975
-Outro	1431,1903,4826,600,1998,14,5,613,4,10,10,148,7,329,32,918,15,2540,73,218
+Outro	1431,1903,4826,600,1998,14,5,613,4,10,10,148,7,329,32,918,15,2540,73,436
 Outro Filho	10777
 Outro Número	10777
 Outro P	11898
-Outros	2146,467,203,703,944,5095,1191,5,23,6,603,4,43,14,13,20,38,51,13,319,961,2530,41,7,64,16,15,220,267,67,287
+Outros	2146,467,203,703,944,5095,1191,5,23,6,603,4,43,14,13,20,38,51,13,319,961,2530,41,7,64,16,15,159,61,157,110,67,287
 Outros Biomarcadores Medidos	10777
 Outros Elementos de Avaliação	16325
 Outros M	10766
@@ -2623,6 +2639,7 @@ President Alassane Ouattara	3218,99,252,502,1963,4878,1221
 President Dr. Sidi Ould Tah	7784
 President Makhtar Diop Ousmane Diagana ADM	15731
 President Mohamed Ould Cheikh El Ghazouani	2154,1201
+President Ould Tah's Four Cardinal Points	16784
 Previous ICT Policy Outcomes	13295
 Prime Minister Amadou Oury Bah	4142
 Prime Minister Amadou Oury Bah. Managed	4116
@@ -2839,6 +2856,7 @@ School Resources and Educational Outcomes	15661
 Science and English. Outcome	14922
 Seasonal Temperature Outlook	14955
 Sector Outcome	14997
+Security Agency Output	15845
 Secção VII Outras	16089
 Segment Target Group Focus of Expected Outcome	14566
 Selly Ouane	4177
@@ -2862,7 +2880,7 @@ Shared Prosperity Outcomes The National AI	14566
 Si Ben Youcef Oultène Maârif Bordj	15690
 Si OUI Qui	13390
 Sibiri Ouattara	3471,4328
-Sidi Ould Tah	5202,1136,3464,103,1232,893
+Sidi Ould Tah	5202,1136,3464,103,1232,893,4754
 Sign Out Premium Member Hi	9629
 Sié Landry Pascal OUATTARA	8321
 Slimane Ouaked. Par	15410

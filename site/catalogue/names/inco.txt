@@ -296,7 +296,7 @@ Income-focused	6948
 Incomes	970,11699,2050,304
 Incomes and Expenses Validation	10388
 Incomes and Wages Commission. Appointment	12145
-Incoming	3862,2138,2603,2190,781,3562,356
+Incoming	3862,2138,2603,2190,781,3562,356,1278
 Incoming Calls	3862
 Incoming Chair	3760,9683
 Incoming Chair of SADC	9761
@@ -307,6 +307,7 @@ Incoming Fixed	3862
 Incoming Fixed International	3862
 Incoming Fixed International Traffic for MTN	3862
 Incoming Fixed Voice Traffic	6671
+Incoming Funds	16751
 Incoming International SMS	3862
 Incoming International Traffic	2776,1086
 Incoming Local	3862

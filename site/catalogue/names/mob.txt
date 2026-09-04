@@ -159,7 +159,7 @@ Bn. Mobile Data Mobile Data	6100
 Boost Mobile Money Services	11310
 Boosting Domestic Revenue Mobilization	11136
 Boosting Mobility and Connectivity	10260
-Bourse Régionale des Valeurs Mobilières	15847
+Bourse Régionale des Valeurs Mobilières	15847,939
 Bourse de Valeurs Mobilières	11944
 Bourse des Valeurs Mobilières	15999
 Bridging the Mobile Gender Gap	11004
@@ -184,6 +184,7 @@ CAMEROON STRENGTHENING DOMESTIC REVENUE MOBILIZATION	10997
 CAMTEL Mobile Network Expansion	4462
 CAMTEL's Mobile Network Expansion	4462,250
 CEO of MTN Mobile Money Corporation	6601
+CEO of MTN Mobile Money Ghana	16790
 CEO of Monty Mobile	9610
 CFAO MOBILITY KENYA LIMITED Data Controller	7167
 CFAO Mobility	12241
@@ -242,7 +243,7 @@ Chief Executive Officer of MOBEX Africa	5970
 Chief Mobilizer Mukatushabira Peninah and Nsimenta Noela	9781
 Chief Risk and Compliance Officer of MobileMoney Fintech	7114
 China Mobile	1643,2478,555,566,10,520,794,608,1103,1539,628,5027
-China Mobile International	511,2166,1573,743,259,520,794
+China Mobile International	511,2166,1573,743,259,520,794,10246
 Chinese SOEs China Mobile and China Telecom	4676
 City of Cape Town Urban Mobility Directorate	11494
 Cleantech and Mobility	10954
@@ -309,7 +310,6 @@ DOMESTIC MOBILE TRAFFIC	2776
 DOMESTIC MOBILE TRAFFIC Domestic Mobile Voice	16043
 DRM Domestic Revenue Mobilization	14929
 DRM Domestic Revenue Mobilization E&S Environmental	15661
-DRM Domestic Revenue Mobilization PRSC Poverty	15924
 DYNAMIC MOBILE COMMUNICATIONS LIMITED Data Processor	7167
 DYNAMIC MOBILITY TECHNOLOGY LIMITED Data Controller	7167
 DYNAMIC MOBILITY TECHNOLOGY LIMITED Data Processor	7167
@@ -454,6 +454,7 @@ Fintech and Mobile Money Expand the Reach	12092
 First Mobile	3849
 Fiscal Year Mobile Network Expansion and Upgrade	3487
 Fixed Mobile Convergence	3258
+Fixed Mobile Convergence Core	16809
 Fixed Telephone Shaping The Mobile Licenses	12395
 Fixed Telephone and Mobile Network Services	2775
 Fixed and Mobile	14836
@@ -927,7 +928,7 @@ Mobihealth Multi-Country Telehealth Expansion	12937
 Mobiil-ID F25	10714
 Mobil Banking	3715
 Mobil Money	6045
-Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,24,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,140,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22,30,39,13,23,24,5,4,11,22,5,32,3,21,22,4,1,16,4,8,33,51,7,54,69,1,75,1,40,67,1,15,3,1,3,94,297,224
+Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,24,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,140,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22,30,39,13,23,24,5,4,11,22,5,32,3,21,22,4,1,16,4,8,33,51,7,54,69,1,75,1,40,67,1,15,3,1,3,94,297,224,123,2,23
 Mobile Access Centers	2868
 Mobile Accessibility	11952
 Mobile Accès Internet Mobile	998
@@ -1165,6 +1166,7 @@ Mobile Money Micro-transactions	14674
 Mobile Money Mobile Money	10775
 Mobile Money Momentum	12214
 Mobile Money Monitoring System Mobile	718
+Mobile Money Open APIs	16809
 Mobile Money Operator	12978
 Mobile Money Operator CBDC Central Bank	12444
 Mobile Money Operators	3491,1878,1329,237,4199,1844,410,1286
@@ -1469,7 +1471,7 @@ Mobilephones	582
 Mobiles	998,14585,962
 Mobilfunkmarkt	615
 Mobiliario	4209
-Mobilidade	2816
+Mobilidade	2816,12878
 Mobilidade Elétrica	15433
 Mobilidade Elétrica Sustentável	15433
 Mobilidade Elétrica Sustentável. Com	15433
@@ -1620,6 +1622,7 @@ Nzika Mobile	12241
 Nzika Mobile App	12241
 Nzika Mobile Application	12241,839,15
 NÚMERO DE UTILIZADORES DE MOBILE MONEY	11531
+O Serviço de Mobilização de Recursos	15526
 ONLY USE MOBILE CONFIDENT SUFFICIENT	11964
 OPERATEURS MOBILE	13324
 ORANGE FINANCES MOBILES TOUCHPOINT FINANCIAL SERVICES	11588
@@ -1810,6 +1813,7 @@ Revenue Mobilisation Budgetary	10759,78,1315,188
 Revenue Mobilisation Strategy	13685
 Revenue Mobilization	10852,145,1388,563
 Revenue Mobilization Complementary	12948
+Revenue Mobilization Strategy	15845
 Revenue Mobilization Thematic Fund	12948
 Rise of Mobile Money Services	10841
 Rm Mobile	10793
@@ -1862,6 +1866,7 @@ Search Mobile	12359
 Seesaw of Mobility and Belonging	12227
 Services Discovery PLT Mobile	1009
 Services Financiers Mobile	13324,90
+Serviço de Mobilização de Recursos	15526
 Simo Mobile Ghana Limited	3386
 Singapore and Trinidad and Tobago. The Mobile Gender	11004
 Social Mobilization	12064
@@ -1965,6 +1970,7 @@ Unité de Mobilisation des Parties Prenantes	14425
 Universal Mobile Telecommunications System	13301
 Unlicensed Mobile Access	13301
 Unlimited. Mobile-voice	15471
+Unlock Africa’s Telecom GrowthHas Mobile Money	16814
 Uproar Over Reduced Matabeleland Mobile Voter	9399
 Usage of Mobile Payment Appliations Over	4439
 Usagers PNM Portabilité des Numéros Mobiles QoS	16327

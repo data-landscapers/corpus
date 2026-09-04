@@ -121,7 +121,7 @@ Haut-	15848
 Haut- Commissariat des Nations Unies	15724
 Haut-Canada	15670
 Haut-Commissaire	3520,2919
-Haut-Commissariat	4585,1,2,890,941,765,1453,254,515,6442,153,493
+Haut-Commissariat	4585,1,2,890,941,765,1453,254,515,6442,153,493,256,30
 Haut-Commissariat Na	10826
 Haut-Commissariat des Nations	13300
 Haut-Commissariat des Nations Unies	8891,1983,39,4580,570,187,496
@@ -254,6 +254,7 @@ Kôlôkô Kénédougou Hauts-Bassins	15715
 L'HYDRAULIQUE HAUTE AUTORITE DE TRANSPARENCE	16171
 LA HAUSSE DES VENTES D’ÉLECTRICITÉ	2342
 LA HAUSSE DES VENTES RÉALISÉES PAR	2342
+La Haut-commissaire	16750
 La Haute Autorité	11580,4023,109,302,259
 La Haute Autorité de Protection des Données	3356
 La Haute Autorité des Médias	8772

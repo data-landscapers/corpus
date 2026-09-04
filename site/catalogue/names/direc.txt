@@ -63,7 +63,6 @@ Abdelkrim BOUZRED TABLEAU ANNEXE Directions	16171
 Abdoulaye Seck Regional Director	969,9860,135,4547,7,35
 Abdoulla OLLITE Director	14745
 Abdu MUKHTAR Sector Director	11863
-Abebe Adugna Dadi Division Director	15924
 Abonnement Directeur	16250
 Abonnés S'abonner Directrice	16092,1,37,97,148,111,41
 Absa’s Managing Director	10051
@@ -296,9 +295,9 @@ Biratu Yigezu Director General Central Statistical	13965
 Bloomwit Africa's Executive Director	7445
 BoSS Director	6259
 BoZ Director Payment System. The Participants	12364
-Board Directors	585,14159
+Board Directors	585,14159,2032
 Board of Director	14862
-Board of Directors	585,151,395,115,308,264,52,49,790,128,604,83,190,1182,499,1006,32,102,403,8,258,108,862,348,49,295,1213,72,399,171,16,25,351,21,75,230,25,211,188,28,64,45,270,88,125,163,321,2,84,80,52,158,189,878,12,11,16,145,123,11,2,8,6,2,89,27,1,17,2,24,117,4,75,67,107,208,186,217,34,280,16,2,230,148
+Board of Directors	585,151,395,115,308,264,52,49,790,128,604,83,190,1182,499,1006,32,102,403,8,258,108,862,348,49,295,1213,72,399,171,16,25,351,21,75,230,25,211,188,28,64,45,270,88,125,163,321,2,84,80,52,158,189,878,12,11,16,145,123,11,2,8,6,2,89,27,1,17,2,24,117,4,75,67,107,208,186,217,34,3,277,16,2,230,148
 Board of Directors Article	14862,1,239
 Board of Directors Audit	12969
 Board of Directors BNR	15102
@@ -333,6 +332,7 @@ Board of Directors of RSB The Board of Directors	14863
 Board of Directors of Statistics Botswana	12530
 Board of Directors. Article	15102
 Board of Directors. Confidential	1818
+Board of Directors. Creating	15924
 Board of Directors. Finally	11955
 Board of Directors. Imikoreshereze	14862
 Board of Directors. The Board	14744
@@ -374,6 +374,7 @@ CAIR Directorate	11336
 CALLYCHURN Rajnath Director Architecture Ministry	14770
 CAMP Exec. Director	6445
 CAMP Executive Director	6445
+CAMTEL Managing Director	16800
 CAMTEL's Managing Director	5757
 CAPÍTULO III PROCEDIMENTOS E DIRECTRIZES	11405
 CAPÍTULO IV Recolha Directa Coerciva	11359
@@ -574,6 +575,7 @@ Conselho de Direcção A Delegação da Justiça	10752
 Construction du Schéma Directeur du Numérique	15568
 Contracts of Ministers and Directors	4126
 Control Directorate of Public Procurement	16384
+Cooperative Directorate	16796
 Coopération DRFM Direction des Ressources Financières	15541
 Coordenação Teresa Spínola Anália Silva Directoras-Gerais	4044
 Coordinated Direct Investment Survey	14777
@@ -1175,7 +1177,7 @@ Direct-to- Device	16144
 Direct-to-Cell	4442,899,906,220,241,937,1226,1,1053,107
 Direct-to-Cell Starlink	10163
 Direct-to-Consumer Advertising	9855
-Direct-to-Device	4096,1149,1606,4265
+Direct-to-Device	4096,1149,1606,4265,5695
 Direct-to-Merchant Remittances	11169
 Direct-to-cell	7299
 Direct-to-device	6593,305
@@ -1759,7 +1761,7 @@ Directly	513,1315,982,3272,366,976,445,5093,223,1599,135
 Directness	14965
 Directoire	7620
 Directoire du FMI	16381
-Director	13,9,4,1,1,6,537,14,2,149,478,321,19,396,602,224,40,60,82,257,151,172,176,273,132,4,95,56,254,195,113,60,118,1,12,145,44,103,37,48,129,240,64,83,136,370,61,81,44,115,70,40,42,42,14,3,8,103,110,39,30,80,261,90,186,78,10,88,128,60,74,44,150,86,23,111,12,39,19,1,98,23,56,5,30,45,58,22,57,150,11,99,2,16,52,44,2,25,106,25,58,3,134,26,77,71,35,204,95,19,8,81,65,148,34,13,10,65,92,38,159,2,3,15,28,47,26,21,8,10,30,6,36,17,23,1,17,30,19,57,16,13,28,72,185,16,2,3,3,110,3,10,8,114,37,3,47,132,15,16,6,1,9,26,5,7,1,87,12,21,1,8,83,18,5,13,45,8,22,12,9,11,46,2,14,46,11,2,5,4,7,11,11,3,9,5,7,17,37,32,3,2,11,10,17,12,43,8,13,27,125,31,13,13,17,18,20,50,7,3,24,28,80,49,130,219,27,10,10,27,47,8,119,149,27,19,98,16,38,61,52,1,3,10,2,1,1,6,3,32,29,3,10,5,4,15,11,26,17,8,7,5,6,70,7,4,19,11,22,61,11,2,34,80,74,22,84,35,14,38,2,88,20,36,94,80,212,19,139,84,210,119,17
+Director	13,9,4,1,1,6,537,14,2,149,478,321,19,396,602,224,40,60,82,257,151,172,176,273,132,4,95,56,254,195,113,60,118,1,12,145,44,103,37,48,129,240,64,83,136,370,61,81,44,115,70,40,42,42,14,3,8,103,110,39,30,80,261,90,186,78,10,88,128,60,74,44,150,86,23,111,12,39,19,1,98,23,56,5,30,45,58,22,57,150,11,99,2,16,52,44,2,25,106,25,58,3,134,26,77,71,35,204,95,19,8,81,65,148,34,13,10,65,92,38,159,2,3,15,28,47,26,21,8,10,30,6,36,17,23,1,17,30,19,57,16,13,28,72,185,16,2,3,3,110,3,10,8,114,37,3,47,132,15,16,6,1,9,26,5,7,1,87,12,21,1,8,83,18,5,13,45,8,22,12,9,11,46,2,14,46,11,2,5,4,7,11,11,3,9,5,7,17,37,32,3,2,11,10,17,12,43,8,13,27,125,31,13,13,17,18,20,50,7,3,24,28,80,49,130,219,27,10,10,27,47,8,119,149,27,19,98,16,38,61,52,1,3,10,2,1,1,6,3,32,29,3,10,5,4,15,11,26,17,8,7,5,6,70,7,4,19,11,22,61,11,2,34,80,74,22,84,35,14,38,2,88,20,36,94,80,212,19,139,84,210,119,17,165
 Director AI Skills Microsoft ELEVATE	5551
 Director Academy of Teaching and Learning Coordinator MSc	12508
 Director Adjunto Ministerio	4209
@@ -2111,7 +2113,7 @@ Director of Digital Infrastructure and Postal Development	6374
 Director of Digital Infrastructure and Posts	8177
 Director of Digital Trade	13415
 Director of Digital Transformation	3175,5002,5833
-Director of Digital Transformation and Services	8343
+Director of Digital Transformation and Services	8343,8464
 Director of Digital Transformation of Public Administration	6374
 Director of Disability	12661
 Director of Disability Affairs	13470
@@ -2204,6 +2206,7 @@ Director of Networks and Electronic Communications Services	3805,1270
 Director of OBC	4670
 Director of OVKA	13776
 Director of Operations	587,12810
+Director of Operations Strategy	16809
 Director of Operations and Procurement Officer	12977
 Director of Operator Relations	5521
 Director of PRSP	12978
@@ -2374,7 +2377,7 @@ Directora de Serviço	15404
 Directora-Geral	10773,4631
 Directora-Geral de Planeamento	15404
 Directora-geral Adjunta	12815
-Directorate	34,537,429,3528,1587,1134,257,426,137,39,268,564,646,185,1041,317,61,51,38,626,1,80,171,83,260,12,54,176,152,11,42,414,866,266,4,14,35,305,313,47,213,49,325,211
+Directorate	34,537,429,3528,1587,1134,257,426,137,39,268,564,646,185,1041,317,61,51,38,626,1,80,171,83,260,12,54,176,152,11,42,414,866,266,4,14,35,305,313,47,213,49,325,47,164
 Directorate Analysis	11986
 Directorate Analysis. Method	11986
 Directorate General	1382,9472,2898,1761
@@ -2433,6 +2436,7 @@ Directorate of Civil Registry	1963,2294,579,1279,1391,355,208,1053,464
 Directorate of Civil Registry and Immigration	7931
 Directorate of Communication	16243
 Directorate of Community Health and Health Promotion	10940
+Directorate of Cooperative Societies	16796
 Directorate of Corruption and Economic Crime	3887
 Directorate of Criminal Investigations	3983,3565,4561,201,2354
 Directorate of Customs	4827
@@ -2527,7 +2531,6 @@ Directorate of Research and Innovation	13048
 Directorate of Research and Statistics	9469,1039
 Directorate of Resource Surveys and Remote Sensing	14605
 Directorate of Resources Emergency Action Plan Harmonized	15658
-Directorate of Revenue	15924
 Directorate of Revenue and Taxes	8358
 Directorate of Road Traffic Services and Safety	12309
 Directorate of Road Traffic and Safety Services	13122
@@ -2596,6 +2599,7 @@ Directors and Management	4896
 Directors and Managers	13308
 Directors and Officers	3714
 Directors and Secretary	13053
+Directors of Cooperatives	16796
 Directors of Department	15031
 Directors of Econet	4896
 Directors of Econet InfraCo	4896
@@ -2699,7 +2703,7 @@ Disabilities Service Director	12977
 Distinguished Directors	15026
 Distribution of Address Directories	11129
 District Directors of Education	14922
-Division Director	773,2116,8382,2188,1600,5,860,108,366
+Division Director	773,2116,8382,2188,1600,5,968,366
 Divisions Director	15802
 Divya Mathew Associate Director of Policy Analysis	7590
 Djibouti FDI Foreign Direct Investment FMIS	11271
@@ -2916,7 +2920,6 @@ FCCPC's Director of Corporate Affairs	7560
 FCFA. La Direction Générale du Trésor	2971
 FDI Foreign Direct Investment	12786
 FDI Foreign Direct Investment FIC Financial	14997
-FDI Foreign Direct Investment SSA Sub-Saharan	15924
 FDSU Director General	10167
 FDSU Director General Paterne Binene	12032
 FICHA TÉCNICA Directora Irene Cristina Agostinho	10766
@@ -2972,7 +2975,7 @@ Focus Population Direct	13999
 Fodé Dieme Director of Methodology	6963
 Folayan Director	11857
 Following Directive No	7277
-Foreign Direct Investment	377,2494,991,462,204,1355,126,3752,1549,1066,299,310,138,409,1212,75,288,817
+Foreign Direct Investment	377,2494,991,462,204,1355,126,3752,1549,1066,299,310,138,409,1212,75,288
 Foreign Direct Investment Agreements	12512
 Foreign Direct Investment Eritrea	14008
 Foreign Direct Investment The Eritrean	14008
@@ -3205,6 +3208,7 @@ IDs. The Executive Director of NIRA	1781
 IEBC’s Director of Voter Education	3758
 IEC Directives	13320
 IEDA Consultant PCA Planning Department Director	2989
+IFC Board of Directors	16776
 IFC Division Director	16443
 IFC Division Director for Eastern Africa	8938,141
 IFC Divisional Director for Nigeria	11476
@@ -3394,7 +3398,7 @@ La Direction Communication	4065
 La Direction Générale	37,8709,2101,29,2425,33,1097,1,939,41,4,209,53,323,124,408,80
 La Direction Générale des Affaires Sociales	10876
 La Direction Générale des Douanes	16389
-La Direction Générale des Impôts	5814,349,8320,944,370,139,145
+La Direction Générale des Impôts	5814,349,8320,944,370,139,145,668
 La Direction Générale du Développement	15493
 La Direction Nationale des Affaires Foncières	13723
 La Direction Nationale des Domaines	16611
@@ -3598,7 +3602,7 @@ Madagascar. Directeur	14662
 Madame Nelly BOUMAH YAMAMA. Directeur	16175
 Madame la Directrice	16702
 Madame la Directrice Générale des Impôts de Guinée	16724
-Magazine CIO Directory CISO Directory ITWeb	10735,2132,1,1
+Magazine CIO Directory CISO Directory ITWeb	10735,2132,1,1,3923,1,1,1
 Mahdi Hassani Hamad Ali Director of Education	2958
 Mail M. Jean Armand Yanogo Directeur	10812
 MainOne Managing Director for West Africa Wole	10229
@@ -3637,7 +3641,7 @@ Managing Director and Chief Executive Officer of NIBSS	4856
 Managing Director and Chief Executive Officer of NSIA	6376
 Managing Director and Chief Executive Officer of Nigeria	2536
 Managing Director and Chief Executive Officer of SIMBED	4725
-Managing Director and Chief Executive Officer of Telecom	15827,114
+Managing Director and Chief Executive Officer of Telecom	15827,114,867
 Managing Director and Co-Founder of BigData Ghana Limited	9561
 Managing Director and Deputy Managing Director	12526
 Managing Director and Founder	7489
@@ -3666,7 +3670,7 @@ Managing Director of Digital Addressing Platform	11126
 Managing Director of Digital Realty Ghana	3848,2208
 Managing Director of Ecobank Sierra Leone	3895
 Managing Director of Equinix West Africa	7234
-Managing Director of Equity	13256
+Managing Director of Equity	13256,3518
 Managing Director of GCB Bank	8081
 Managing Director of Ghana Link Network Services	16170
 Managing Director of Guinéenne de Monétique	7706
@@ -3680,6 +3684,7 @@ Managing Director of OPay	11126
 Managing Director of Paratus Eswatini	3371
 Managing Director of Paratus Kenya	6396
 Managing Director of Posta Uganda	8032
+Managing Director of Power Sub Link	16808
 Managing Director of Powertel Communications	7036,6631
 Managing Director of Quantis Côte	7021
 Managing Director of Sky Bank	5939
@@ -3753,6 +3758,7 @@ Ministre Directeur	16620,37,16
 Ministre Directeur de Cabinet	16620,37
 Ministre Directeur de Cabinet du Premier	7926
 Ministre Directrice de Cabinet	16620
+Ministry Warns Against Unauthorised Directives	16796
 Ministry of Health Directorates	12240
 Ministry of Health's Reproductive Health Directorate	13040
 Ministry of Information Chief Director Mr Jonathan	11618
@@ -3962,6 +3968,7 @@ National Directorate of Public Procurement Con	13756
 National Directorate of Quarantine and Biosecurity	13042
 National Directorate of Registries and Notaries	10765,10
 National Directorate of Registries and Notary Services	12167
+National Directorate of Revenue	15924
 National Directorate of Science and Technology	12819
 National Directorate of Social Assistance	12832
 National Directorate of State Assets	10768
@@ -4096,7 +4103,7 @@ Ouest La Direction	10500
 Ousmane Diagana Country Director	969,295,9565,135,585,375,3567,20,4,3,35,48,20,81,29,301
 Ousmane Diagana Global Director	2889
 Ousmane Diagana Regional Director	11560,345,3753,1,2,526,197
-Ousmane Diagana Regional Practice Director	3604,12139,39,142,45,14,161
+Ousmane Diagana Regional Practice Director	3604,12139,39,187,14,161
 Ousmane Diagana. Regional Director	15802
 Ousmane Diagana. Regional Practice Director	11965
 Ousmane Dione Country Director	13861,1802
@@ -4124,7 +4131,6 @@ PEAC. Direction Générale	16037
 PERSPECTIVES A COURT TERME O6 DIRECTION	15670
 PESCA Y MEDIO AMBIENTE Centro Directivo	4209
 PFM Directives	15411
-PFR Public Finance Review National Directorate	15924
 PIU Director	15663
 PIVP Director General Alex MUBIRU	13938
 PIVP Director General Marie-Laure AKIN-OLUGBADE	11863
@@ -4310,6 +4316,7 @@ Président Directeur	3319,1600,3318
 Président du Comité de Direction	16249
 Présidente Directrice	4919
 Public Affairs Director	4592
+Public Affairs Directorate	15845
 Public Directorate of Science	1161
 Public Disclosure Authorized The Executive Directors	11475
 Public Key Directory	4102,3268,7734
@@ -4386,7 +4393,7 @@ Regional Directors	16162
 Regional Education Director	10465
 Regional Health Directors	14773
 Regional Managing Director	11234
-Regional Practice Director	11271,2188,1605,860,474
+Regional Practice Director	11271,2188,1605,1334
 Regional Secretariat Director	13124
 Register Nominee Shareholders and Directors	12389
 Registrar Directions	3714

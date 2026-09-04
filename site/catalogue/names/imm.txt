@@ -111,10 +111,12 @@ Gambia Immigration Department Applicants	12085
 Gambia Immigration Department Application	12085
 Gambia Immigration Department Bill	3061
 Gestion Immobilière	16381
-Ghana Immigration Service	16206
+Ghana Immigration Provide	15845
+Ghana Immigration Service	15845,361
 Global Alliance for Vaccines and Immunization GBT	10776
 HIV Human Immunodeficiency Virus POPI Protection	396
 HYDROFLUOROCARBONS HUMAN IMMUNODEFICIENCY VIRUS HIV	12253
+Health R Immigration Insurance Scheme Service	15845
 Herman Immongault	8925,7540
 Hermann Immongault	4125,2250,893,273,4550,20
 Hermann Immongault. Elle	16502
@@ -229,7 +231,7 @@ Immeuble du Ministère	15421
 Immeubles	2476,13058
 Immigra	11280
 Immigrant	14045
-Immigration	1618,112,154,79,25,773,14,220,22,571,907,341,697,3,189,390,360,18,190,79,347,17,123,320,173,163,26,183,136,3,1,1,362,274,49,376,270,80,487,32,132,840,61,46,676,16,30,178,162,11,30,43,65,390,58,61,34,8,39,128,17,28,103,710,202,7,150,230,179,501,329,78,525
+Immigration	1618,112,154,79,25,773,14,220,22,571,907,341,697,3,189,390,360,18,190,79,347,17,123,320,173,163,26,183,136,3,1,1,362,274,49,376,270,80,487,32,132,840,61,46,676,16,30,178,162,11,30,43,65,390,58,61,34,8,39,128,17,28,103,710,202,7,150,230,179,501,329,78,118,407
 Immigration Act	2115,946,2472,1873,439,320,102,2910,41,62,706,130,29,82,297,2218,9,77,3,10
 Immigration Act and Regulations	11986
 Immigration Act. The Financial Services Act	14828
@@ -258,7 +260,9 @@ Immigration Office PIOR	14760
 Immigration Officer Barnabas Masika of Bungoma	14640
 Immigration Regulations	5533,5685,768
 Immigration Scalabrini Centre of Cape Town	11986
-Immigration Service	587,11264
+Immigration Service	587,11264,3994
+Immigration Service Average	15845
+Immigration Service Number	15845
 Immigration Services	1730,3803,5685,768,241,531
 Immigration Services AG Auditor-General DDG	11986
 Immigration Services Director General	4631
@@ -447,9 +451,13 @@ Prohibition and Immediate Action	14742
 Provide For the Registration of Land and Other Immovable	13950
 Publication des PRMP Immédiatement	10876
 Quartier Centre-villeLocalisation Immeuble Les Arcades	15368
+R Immigration Guard Unit	15845
 RH and Immunization	15977
 RMNCAH and Immunisation	13163
 Regional Office Immeuble CAMPOST	11563
+Regions Annually Ghana Annually Immigration	15845
+Regions Annually Ghana Quarterly Immigration Rate	15845
+Regions Quarterly Ghana Immigration	15845
 Registered Person Immaterial	12898
 Registration Organ Immigration and Citizenship Service	12226
 Registration of Land and Other Immovable Property	13950
@@ -523,6 +531,8 @@ Visa and Immigration Reform	11236
 WCO Guidelines for Immediate Release	15478
 Wave. Assistant Superintendent of Immigration Meita M	14260
 X Av. Bourguiba Immeuble H	9890
+X MINTER Ghana Immigration	15845
+X MINTER Ghana Immigration Construct	15845
 X4 TOYOTA COROLLA IMMATRICULATIONS NUMERO	10821
 Zambia Immigration Management System	12453,892
 Zimbabwe Immigration Headquarters	8295

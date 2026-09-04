@@ -53,6 +53,7 @@ Agriculture Within and Outside Minawao Camp	10841
 Agriculture Within and Outside Minawao Camp Employment	10841
 Aide de Camp	16099,76,206
 Aide de Camp du Ministre	16099,76
+Al-Shabaab. The Cambridge	16787
 Albinism Care Campaign Eswatini TV	11134
 Alejandra Campero Peredo	10763
 Alexandre Camara	16737
@@ -233,7 +234,7 @@ CAMPOST. Une	10965
 CAMPTREK SAFARIS LTD Data Controller INST-36502405E3B	7167
 CAMRAIL	15542
 CAMSHIP	15542
-CAMTEL	56,4115,21,15,12,52,10,181,208,42,446,413,186,397,335,117,510,213,269,360,1958,1,1079,732,3814,17,96,124,23,19,119,122,106,27,70,251,35,37
+CAMTEL	56,4115,21,15,12,52,10,181,208,42,446,413,186,397,335,117,510,213,269,360,1958,1,1079,732,3814,17,96,124,23,19,119,122,106,27,70,251,35,37,212
 CAMTEL AND MINTOUL UNITED	15821
 CAMTEL Bepanda	16214
 CAMTEL Bépanda	16265
@@ -243,10 +244,12 @@ CAMTEL Explores Digital Transformation Partnership	7116
 CAMTEL Explores Satellite Partnership	5757
 CAMTEL General Manager	4271
 CAMTEL General Manager Judith Yah	2862
+CAMTEL Managing Director	16800
 CAMTEL Mobile Network Expansion	4462
 CAMTEL Partners	4670
 CAMTEL SIGNS AGREEMENT WITH BACCALAUREAT BOARD	16062
 CAMTEL Sign Deal	4171
+CAMTEL and ANIPES	16800
 CAMTEL and CBC	4712
 CAMTEL and CBC Secure	4712
 CAMTEL and Cameroon	4192
@@ -341,7 +344,7 @@ Camarade Saïdou SANKARA	16469
 Camarade Vieux Abdoul Rachid SOULAMA	7800
 Camarade Yacouba Zabré Gouba	16536
 Camarade Zongo	6768
-Camaras Municipais	15437
+Camaras Municipais	15437,257
 Camaremi	4209
 Camarões	2816
 Camayenne	16747
@@ -373,7 +376,7 @@ Cambodian	11310
 Cambodia’s General Department of Customs and Excise	16631
 Camboya SENG	6613
 Cambria	14713
-Cambridge	40,1397,2345,650,224,586,10,448,3428,570,1148,118,176,16,934,858,676,1308,541
+Cambridge	40,1397,2345,650,224,586,10,448,3428,570,1148,118,176,16,934,858,676,1308,541,1314
 Cambridge Analytica	432,1,2149,486,10199
 Cambridge Centre	11819
 Cambridge Centre for Alternative Finance	8074,277,1669,1799,3000
@@ -411,7 +414,7 @@ Cameron	5323,10219
 Cameron Kerry	6411
 Cameron McLoughlin	1828
 Cameron Smith	7673,5176
-Cameroon	55,2,46,14,6,1,65,47,66,11,89,246,4,56,4,221,80,22,16,90,1,221,2,34,15,1,4,11,35,72,13,2,18,22,7,54,43,19,33,64,12,4,29,24,65,12,39,70,77,23,62,74,16,17,21,73,31,58,101,62,13,10,70,10,77,56,1,115,44,4,53,16,6,22,54,1,1,19,3,26,52,57,20,21,3,59,33,17,149,36,84,6,85,18,11,1,28,140,5,19,5,11,28,18,3,15,8,4,1,51,10,87,58,36,61,39,32,9,67,4,19,10,9,52,119,48,25,16,19,42,68,57,76,2,80,21,42,28,83,81,28,20,40,22,11,7,41,17,47,5,15,127,34,98,48,23,72,22,45,37,1,2,67,89,2,65,45,5,7,125,69,18,67,66,54,89,15,34,37,142,269,80,29,86,8,145,4,8,4,88,23,74,3,115,162,72,6,1,160,370,120,118,75,164,103,141,47,113,27,45,6,27,53,169,126,296,74,19,26,8,36,6,3,3,15,5,31,68,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,2,3,1,120,46,253,189,88,31,8,131,3,13,3,1,2,71,57,136,1,9,33,14,129,2,11,1,32,103,29,355,396,45,57,18,293,32,476,18,42,219,239,611,38,16,39,36,13,11,9,20,6,5,2,5,24,11,13,5,3,27,47,7,66,29,32,18,10,11,62,32,1,4,31,28,5,15,9,2,14,12,14,87,41,1,16,3,18,18,5,1,58,141,1,57,8,9,2,10,14,7,4,34,3
+Cameroon	55,2,46,14,6,1,65,47,66,11,89,246,4,56,4,221,80,22,16,90,1,221,2,34,15,1,4,11,35,72,13,2,18,22,7,54,43,19,33,64,12,4,29,24,65,12,39,70,77,23,62,74,16,17,21,73,31,58,101,62,13,10,70,10,77,56,1,115,44,4,53,16,6,22,54,1,1,19,3,26,52,57,20,21,3,59,33,17,149,36,84,6,85,18,11,1,28,140,5,19,5,11,28,18,3,15,8,4,1,51,10,87,58,36,61,39,32,9,67,4,19,10,9,52,119,48,25,16,19,42,68,57,76,2,80,21,42,28,83,81,28,20,40,22,11,7,41,17,47,5,15,127,34,98,48,23,72,22,45,37,1,2,67,89,2,65,45,5,7,125,69,18,67,66,54,89,15,34,37,142,269,80,29,86,8,145,4,8,4,88,23,74,3,115,162,72,6,1,160,370,120,118,75,164,103,141,47,113,27,45,6,27,53,169,126,296,74,19,26,8,36,6,3,3,15,5,31,68,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,2,3,1,120,46,253,189,88,31,8,131,3,13,3,1,2,71,57,136,1,9,33,14,129,2,11,1,32,103,29,355,396,45,57,18,293,32,476,18,42,219,239,611,38,16,39,36,13,11,9,20,6,5,2,5,24,11,13,5,3,27,47,7,66,29,32,18,10,11,62,32,1,4,31,28,5,15,9,2,14,12,14,87,41,1,16,3,18,18,5,1,58,141,1,57,8,9,2,10,14,7,4,34,3,212
 Cameroon A Xalam Analytics Country Report	10995
 Cameroon Adaptive Safety Nets and Economic Inclusion	971,9993,4637,181
 Cameroon Aims	4219
@@ -560,7 +563,7 @@ Cameroon Submarine Cable System	15542
 Cameroon Telecom	15802
 Cameroon Telecommunication CDC	16041
 Cameroon Telecommunication Company CE Centre CEL-Info	15541
-Cameroon Telecommunications	56,3472,934,11,197,42,625,21,213,186,732,840,472,157,2396,5188,974
+Cameroon Telecommunications	56,3472,934,11,197,42,625,21,213,186,732,840,472,157,2396,5188,974,284
 Cameroon Telecommunications Regulatory Agency	9616
 Cameroon Telecommunications Regulatory Board	3257
 Cameroon Thematic Note	10841
@@ -962,7 +965,6 @@ Cameroün	15999
 Camerún	3179
 Camerún ANGONEMANE MVONDO	6613
 Camfed Kenya Data Controller INST-2507074914D NAIROBI	7167
-Camila Mejia	15924
 Camila Mejia Giraldo	1751,9794,420
 Camilla Holmemo Erkin Mamadaliev	11924
 Camilla Holmemo Task Team Leader	15601,57,73
@@ -1274,6 +1276,7 @@ EMF. Le Cameroun	11944
 ENEO Cameroun	15542
 ENEO Cameroun S.A	10975
 ENEO Cameroun Vétusté	15542
+EPA and District Camp	15845
 ESB Le Camarade Premier	16536
 ESCP Fourth Cameroon Household Survey ESF	10964
 EXECUTIVE SUMMARY Cameroon	10965
@@ -1449,7 +1452,7 @@ Implement Public Awareness Campaigns	12675
 Impunidade. Impunidade. Lançamento da Campanha	10750
 India Georgia Morocco Kenya Ghana Cambodia	7655
 Indice de Cameroun	10965
-Indira Campos	15924,135
+Indira Campos	16059
 Industrialisation du Cameroun	15542
 Information Came of Age	2096
 Information Sanitaire du Cameroun	16195
@@ -1484,6 +1487,7 @@ Journal Du Cameroun	10962
 Just Camps After Rwanda’s Crackdown	6526
 Justice Campaign	9082
 Justice du Cameroun	15651
+KADIRI CAMPBELL MINTER MINTER	15845
 KOLA Cameroon Kukura Business Accelerator Zimbabwe	15460
 Kaa Safe Mtaani Campaign	12256
 Kabinet Kader CAMARA INS Agent	16620
@@ -1979,7 +1983,7 @@ Union Bank of Cameroon	5033
 United States and Cameroon	12517
 United States and Cameroon Announce	12517
 Universitaires CNF Campus Numérique Francophone CNESRS	12
-University of Cambridge	1106,140,6828,908,2146
+University of Cambridge	1106,140,6828,908,2146,5659
 University of Cambridge’s Centre for Science and Policy	1246
 Université de Cambridge	16634
 Unlimited CAMTEL	15471

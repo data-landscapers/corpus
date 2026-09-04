@@ -68,6 +68,7 @@ Configure ESPSP	15661
 Consultor Especialista	11441
 Consultor Especialista Formação Académica	11441
 Consumos Especiais	16022
+Contas Especiais	15526
 Contract. ESPPRA	12422
 Contratação de Especialista	11440,1
 Contravenções Especialmente Graves	10755
@@ -88,6 +89,7 @@ Dotación Especial Funcionamiento Ser. Exterior	4209
 Dotación de Fondos Especiales	4209
 Dr. Esperance Luvindao	13104
 Dr. Espira Eubert Co-Authors	15960
+E CONSERVAÇÃO COMUNITÁRIA DOS ESPAÇOS COMUNS	16138
 E ESPER JEHAD	16623
 E.3 Retenção Especial	12018
 EBESP and ESPSP	15661
@@ -222,7 +224,7 @@ España	8372,2492,665,291,4760
 España CABRERA BRASERO	6613
 España PINTO LOMEÑA	6613
 Español	11765,571
-Especiais	8166,3697
+Especiais	8166,3697,3663
 Especial	12675,2758,818
 Especial Mensual Mensual Luz Vivienda Mensual	4209
 Especial Unificado	12018
@@ -246,7 +248,7 @@ Especialistas Grupo F	4209
 Especialistas Grupo G Servicio	4209
 Especializada	16019
 Especializada de Atendimento	11368
-Especialização	11448
+Especialização	11448,4246
 Especially	899,262,657,170,2688,888,1315,69,285,110,1780,1696,311,786,8,412,22,1920
 Especially for Youth. Entrepreneurship	13295
 Especifi	15392
@@ -362,6 +364,8 @@ NORMAS ESPECIFICAS EN LA MOVILIZACIÓN	4209
 NORMAS ESPECÍFICAS EN LA MOVILIZACIÓN	4209
 Necessidades Educativas Especiais	10766,4928,78
 Necessidades Especiais	15694
+Necessidades Especiais COLMEIA	15694
+Necessidades Especiais COPAC	15694
 O N Global Especial Mensual Mensual	4209
 OBJETIVOS OPERACIONAIS E RESULTADOS ESPERADOS	15535
 OFFICIELLE SAINT ESPRIT	15395
@@ -406,6 +410,7 @@ Regulamentação Específica	10754
 Regulamento Especificações Gerais	794
 Regulamento. CAPÍTULO II TAXAS EM ESPECIAL	744
 Repartição Especial	12018
+Repartição Especial de Grandes Contribuintes	15526
 Requisitos Académicos Específicos. Os	11472
 Requisitos Especiais	3519,7844
 Requisição de Serviço Técnico Especializado	549
@@ -453,7 +458,7 @@ UNIDADE DE GESTÃO DE PROJECTOS ESPECIAIS	8166,7944
 UNIDADE DE GESTÃO DE PROJETOS ESPECIAIS	11941
 Under the ESP	15604
 Unidade de Gestão de Projectos Especiais	8166,3689,4255
-Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56,3505,457,127,77,134,172
+Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56,3962,127,77,134,172
 Unidades Especiais	16290
 Unidades Especializadas	6970
 Utilização de Recursos de Rede Específicas	11430

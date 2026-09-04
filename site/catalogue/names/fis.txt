@@ -20,7 +20,7 @@ Administration Fiscale Proportion	10712
 Administration Fiscale RESULTATS ATTENDUS	10712
 Administration Fiscale Taxe	16328
 Administration Fiscale. Il	16328
-Administração Fiscal	11532,486
+Administração Fiscal	11532,486,3508
 Administração Fiscal Procura Capturar Transacções	8003
 Administração Fiscal. Pode	12018
 Administração Fiscal. Regularizações de Clientes	12018
@@ -91,6 +91,7 @@ Chef de Service des Vérifications des Situations Fiscales	16381
 Chefe da Repartição Fiscal CSA	11435
 Chefe de Repartição Fiscal	11435
 Chief Intergovernmental Fiscal Relations Officer and Chief	6946
+Cidadania Fiscal	15526
 Classe O Chefe da Repartição Fiscal	11435
 Climate and Environment and Fiscal Openness	12987
 Closed Approval Fiscal Year	13742,1206
@@ -102,11 +103,12 @@ Comissão de Fiscalização	11358
 Comissão de Fiscalização Cabe	11358
 Comité de Datos Fiscales	4209
 Comparative Fiscal Burden	15205
+Competitividade Fiscal	15912
 Composição da Comissão de Fiscalização	11358
 Conferência Outlook Fiscal	10786
 Conseil Fiscal	16328
 Consejo Nacional Fiscalía Defensor	4209
-Conselho Fiscal	13,154,4051,7164,67,1334,3306
+Conselho Fiscal	13,154,4051,7164,67,1334,3129,177
 Conselho Fiscal. ARTIGOS	12783
 Conselho Fiscal. Serviços Executivos	167
 Conselho de Administração. SECÇÃO III CONSELHO FISCAL	13
@@ -294,14 +296,14 @@ FY Fiscal Year GBVH Gender Based	1818
 Farming and Agribusiness. Approval Fiscal Year	16398
 Farming and Fishing Sec Sch	11857
 Fast Health Interoperability Resources FIS	15720
+Fazenda Fiscal	15526
 Financial and Fiscal Commission	11289
 Financial and Regulatory Reporting FIs	11861
 First Schedule. Virtual Fiscal Device	13606
 Fiscais	11528
 Fiscais Formulários Apoio	12018
 Fiscais Os	11528
-Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108,75,175,180,451,68,187,56,12,26,6,362,20,59,3,18,35,398,39,14,56,111,292
-Fiscal Accounts	15924
+Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108,75,175,180,451,68,187,56,12,26,6,362,20,39,20,3,18,35,386,51,14,56,111,292
 Fiscal Adjunto	4209
 Fiscal Adjustment Plan	12922
 Fiscal Affairs Department	1828,10672,1124
@@ -449,7 +451,7 @@ Fiscalité Indirecte Article	4420
 Fiscalité Locale	10712
 Fiscalité du Système	4169
 Fiscaliz	11448
-Fiscalizar	13,4205,56,7131,10,13,2,88,1256,2585,32,42
+Fiscalizar	13,4205,56,7131,10,13,2,88,1256,2585,32,42,93
 Fiscalization	12439
 Fiscalization Solution	12439
 Fiscalização	167,372,37,218,1990,82,653,699,56,2696,4411,2,47,13,5,4,9,12,47,7,1,3,1,29,1211,2668,37,55,434
@@ -531,7 +533,7 @@ Fisheries and Shipping	14745
 Fisheries and Veterinary	14775
 Fishery	15085
 Fishery Committee	11536
-Fishing	789,1986,2906,2164,2918,1094,24,1179,1758,56,17,481,552
+Fishing	789,1986,2906,2164,2918,1094,24,1179,1758,56,17,481
 Fishing Appui	15500
 Fishing Construction	10976,1370
 Fishing Defence	2775
@@ -584,8 +586,9 @@ Fuel Fiscal Devices Compliance	13606
 Fuel Fiscal Devices Technical Committee	13606
 Funções de Fiscalização	167
 G2G Fiscal Year G2P Government-to-Business GDP	13331
-GDP. Fiscal	15663,261
+GDP. Fiscal	15663
 GRA Fiscal	236
+Gabinete de Estudos Fiscais	15912
 General Course for Fishers	14818
 Global Initiative for Fiscal Transparency	14626
 Gobierno Secretario General Ministerio Fiscal Audiencia	4209
@@ -621,7 +624,6 @@ Independent Fiscal Councils	1828
 Index ESB Enterprise Service Bus FISP	13345
 Information Fiscale	14539
 Information de Gestion des Recettes Non Fiscales	14477
-Information. GOVERNMENT FISCAL YEAR	15924
 Inspecteurs Contrôleurs Fiscaux	11676
 Institute for Fiscal Studies	1123,13874
 Instituto de Estudios Fiscales	4209
@@ -636,7 +638,6 @@ Jobs. Approval Fiscal	15782
 Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
 Justicia Fiscal Tribunal Constitucional Ministro de Estado	4209
 Karl Fisher	14736
-Key Fiscal Indicators	15924
 Khaki Fischer Jacket	12291
 L'ADMINISTRATION FISCALE	10712
 L'Administration Fiscale Michel Bua	14437
@@ -701,11 +702,12 @@ Monetary and Fiscal Policy Harmonisation ARTICLE	14409
 Mutilation FIS Foreign Investment Survey FLLoCA	2775
 Myscard Fiston Mykaël	16039
 National Communications Authority NFSL National Fiscal	236
+Natureza O Fiscal	15912
 Number of Fuel Fiscal Device Interruptions	13606
 Número de Identificação Fiscal	10749,4,22,12,596,635,3337,177
 Número de Identificação Fiscal NL	11435
-O Conselho Fiscal	13,154,4051,7164,67
-O Fiscal	15391
+O Conselho Fiscal	13,154,4051,7164,67,4001
+O Fiscal	15391,521
 O Fiscal-Único	11381
 OBJETIVOS DA SUPERVISÃO E FISCALIZAÇÃO	11561
 OFFICIAL USE ONLY FISCAL AFFAIRS D	12500
@@ -765,11 +767,13 @@ Real Education Health Other FISIM All	2775
 Recettes Fiscales	1594,2826
 Recettes Non Fiscales Domaines	4420
 Recommendation Implementation Fiscal Policies	13868
+Regime Fiscal	15694
 Regime de Incentivos Fiscais	16022
 Regional Ministerio Inspector Regional Ministerio Fiscal	4209
 Regulamento de Fiscalização	11519,1
 Regulamento de Fiscalização da Qualidade	2816
 Relatório de Fiscalização	11532
+Remuneração Ao Fiscal	15912
 Repartição Fiscal	744,3459,7232
 Repartição Fiscal RP	11435
 Repartições Fiscais	11435
@@ -850,7 +854,6 @@ States Fiscal Transparency	11867
 Supplementary Environmental Fiscal Measures	12389
 Sustainable Fisheries Partnership Agreements	14628
 TEXTES FISCAUX NON CODIFIES	16020
-THIRD FISCAL SPACE	15924
 Tax and Fiscal Incentives	15979
 TaxDev III The Institute for Fiscal Studies	1123
 Taxation for Fiscal	14932
@@ -876,13 +879,13 @@ Unreported and Unregulated Fishing	14447
 Upgrading of Fisheries	14830
 Use of Fiscal Electronic Device	7695
 VAT. Electronic Fiscal Devices	12948
-VERDE Cabo Verde Third Fiscal Space	15924
 VETERINARY SERVICES AND FISHERIES-COUNTY GOVERNMENT	7167
 Validity of Fiscal Tax Invoices	12509
 Validity of Fiscal Tax Invoices for Input Tax	12509
 Verifiable Fiscal Signature	13606
 Vice-Presidente Vice-Presidente Fiscal General Defensor	4209
 Vice-Primer Ministro Tercero Fiscal Corte Suprema	4209
+Vice-presidentes. Subsecção III Fiscal	15912
 Violence Fiscal Year International Development Association	11468
 Virtual Fiscal Device	13606
 Virtual Fuel Fiscal Device	13606

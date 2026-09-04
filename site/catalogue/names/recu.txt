@@ -77,6 +77,8 @@ Movilización de Recursos. Estos	14215
 National Treasury’s Recurrent Revenue Statement	14546
 O Departamento de Recursos Humanos	15503
 O Gabinete de Recursos Humanos	167,11282
+O Serviço de Gestão de Recursos Humanos	15526
+O Serviço de Mobilização de Recursos	15526
 Operator MRR Monthly Recurring Revenue MSP	10781,1646,2055
 Outputs Primary Secondary National Security Recurrent	1777
 Outros Recursos	11362
@@ -184,7 +186,7 @@ RecurringPayments	15260
 Recurso	576,2240,50,1408,6486,17,583,5,60,10,85,381,3490
 Recurso Contencioso	4274
 Recurso Humanos	10752
-Recursos	13,2,148,1538,1165,1343,1454,5120,603,1,140,1,15,26,1293,2518,5,150
+Recursos	13,2,148,1538,1165,1343,1454,5120,603,1,140,1,15,26,1293,2518,5,150,159
 Recursos Conexos	11430
 Recursos Digitais	12846
 Recursos Escassos	11795,1047
@@ -223,6 +225,8 @@ Recusa de Ordens de Pagamento	10755,631
 Recusar	11386,3999
 Responsibility Timing Completion Recurrent Measurement CCDB	11905
 SANGRE ESTUPEF. RECURSOS FINANCIERA SERVICIOS SERVICIOS	4209
+Serviço de Gestão de Recursos Humanos	15526
+Serviço de Mobilização de Recursos	15526
 Subsector Recursos Pesqueros	4209
 Through Recurrent	15604
 Through the Recurring Debit Order	15260

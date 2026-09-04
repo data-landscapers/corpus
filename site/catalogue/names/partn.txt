@@ -87,7 +87,7 @@ Apis Partners LLP	94,303
 Approved Training Partner	14388
 Areas of Intervention Partner Nature of Involvement	3604
 Article the Partner State	14409
-Askya Investment Partners	10801
+Askya Investment Partners	10801,6017
 Associate Partner	12241,839
 Associate Partner Country	12241,839
 Attract Investment and Global Partnerships	14566
@@ -311,7 +311,7 @@ Development Media Council of Partners Kenya Upscale	7548
 Development Partner	1261,10914,2952,477,112
 Development Partner DPO Development Policy Operation	15515
 Development Partner. Contrary	1261
-Development Partners	940,321,517,36,1790,291,1349,2208,96,1874,238,2131,66,3,3,141,171,54,101,114,13,182,29,6,272,9,7,2,8,80,66,4,1,187,49,32,29,169,401,1,11,36,78,407,334,3,19,18,707,112,208,36
+Development Partners	940,321,517,36,1790,291,1349,2208,96,1874,238,2131,66,3,3,141,171,54,101,114,13,182,29,6,272,9,7,2,8,80,66,4,1,187,49,32,29,169,401,1,11,36,78,407,334,3,19,18,707,112,129,79,36
 Development Partners Coordination Group	14873
 Development Partners DRM	12175
 Development Partners Department of E-E Government Quick	12917
@@ -321,6 +321,7 @@ Development Partners ECD Early Childhood Development	13990
 Development Partners Financial Contribution	14033
 Development Partners Get Latest REG News	15255
 Development Partners International	835,604,871
+Development Partners Support	15845
 Development Partners The Department of Human Resource	12972
 Development Partners Thematic	7548
 Development Partners X X X X	12376
@@ -485,7 +486,7 @@ Fostering of Partnerships	4126
 Foundational the Grand Challenge. Partnerships	12512
 Founding Partner	8060,6328
 Founding Partner of Ventures Platform	11735,2444
-Founding and Managing Partner	13256
+Founding and Managing Partner	13256,3518
 Free Movement of Labour The EAC Partner	12164
 Freight Booking Centres The Partner States	14409
 Front-End Partners	3703
@@ -550,6 +551,7 @@ Global Partnerships and State-Owned Enterprises Governance	5185,1,1,11
 Global Partnerships for Human-Centric ICT Standardisation	1068
 Global Partnerships for Local Impact	12723
 Global and Regional Partnerships	13295
+GoG and Development Partners	15845
 GoK Partners	7548
 Goodwell Investments and LUN Partners	606
 Google Cloud Partner Advantage	4434
@@ -844,7 +846,6 @@ Netherlands and Kenya Judiciary Partnership	9546
 News Digital Senegal Pushes Public-Private Partnership	5407,676
 News Partnerships Lead	11308
 Nigerian Development Partners Group	11468,1
-Non-Performing Loan CPF Country Partnership Framework	15924
 Non-intimate Partner	15247
 Norrsken and Sunny Side Venture Partners. Chpter	9056
 Notarial Sector Digital Partnership TechAfrica	3278
@@ -914,7 +915,7 @@ Partech Partners	865,30,160,3793,7528
 Partech Partners Developed	12339
 Partech Partners'. Partech	391
 Partne3rs.7hipP	10157
-Partner	2678,396,361,691,65,95,142,6,94,296,72,92,1187,75,182,35,469,84,375,25,24,152,155,276,873,806,14,30,401,853,136,97,39,45,268,284,7,17,67,246,4,142,58,30,64,4,163,639,147,352,743,262,179,42,91,76,103,138,53,161,52,35,396,487
+Partner	2678,396,361,691,65,95,142,6,94,296,72,92,1187,75,182,35,469,84,375,25,24,152,155,276,873,806,14,30,401,853,136,97,39,45,268,284,7,17,67,246,4,142,58,30,64,4,163,639,147,352,743,262,179,42,91,76,103,138,53,161,52,35,97,299,487
 Partner Contributions	11469
 Partner Countries	3760,9683
 Partner Ecosystem	7065
@@ -964,7 +965,7 @@ Partner2Connect Champions	7139
 Partner2Connect Digital Coalition	2663,5955
 PartnerAfrica-Project	455,1688
 PartnerAfrika-Projekt	455,1688
-Partnering	786,113,59,3692,13,315,162,300,262,1569,1355,2215,290,249,574,40,246,855,513,270,957,162,77,86,393
+Partnering	786,113,59,3692,13,315,162,300,262,1569,1355,2215,290,249,574,40,246,855,513,270,957,162,77,86,393,292
 Partners	249,638,55,322,98,349,17,49,1756,7,64,217,19,107,179,308,548,983,188,874,47,474,1451,23,61,496,1142,108,308,73,135,204,11,97,240,98,180,22,13,30,1,5,110,20,3,216,79,87,202,117,15,71,88,1,59,18,17,1115,42,313,78,61,39,131,2,62,55,6,238,24,3,35,68,37,1,2,89,59,805,17
 Partners ASALs	7548
 Partners Accra	12232
@@ -1097,6 +1098,7 @@ Partnerships Institutional Strengthening	13080
 Partnerships Limited	15492
 Partnerships Major	12245
 Partnerships National Research	7548
+Partnerships Nationwid X X X X	15845
 Partnerships Office	7548
 Partnerships Protection Reduced	7548
 Partnerships The UNDP Mauritius Team	11332
@@ -1377,6 +1379,7 @@ Tribeless Youth. Partners	8095
 Trusted Partner Programme	15342
 Trusted Partners	13461
 Twenty Years of KOAFEC Partnership The KOAFEC	9905
+Tylico Capital and Partners. Melchior Koba Lire	16821
 U.S.-Rwanda Partnership Beyond the MOU	4167
 UHC-P UHC Partnership UHI Universal Health	15725
 UK-Kenya Cyber Partnership	11299
@@ -1399,6 +1402,7 @@ USAID-funded Private Sector Health Partnership Activity	10833
 Uganda Explores Digital Partnership	9900
 Under the WB-Global Procurement Partnership Trust Fund	15550
 Union of Eritrean Youth and Students PC Partnership	13990
+Unique Partnership KOAFEC	16784
 Unit PPPs Public-Private Partnerships PTFs Technical	13731
 United Kingdom’s Strategic Partnership for Egypt Inclusive	15977
 United Nations Partnership	12977
@@ -1423,13 +1427,13 @@ WBG Partnership Framework	12968
 WCO Partners	13051
 WFP Strategic Partners	13999
 Water Partnerships Office	8599,2637
+Wholesale Partnerships	16811
 Wildlife Management The Partner States	14409
 William Maema Senior Partner IKM Advocates	12301
 World Bank Country Partnership Framework	1264,2340,7813,3773,431
 World Bank Country Partnership Strategy	11924,3487
 World Bank Digital Development Partnership	463
 World Bank Digital Development Partnership COVID-19	463
-World Bank FY20-25 Country Partnership Framework	15924
 World Bank Group Country Partnership Framework	12176,935
 World Bank Group's Country Partnership	1954
 World Bank Group's Country Partnership Strategy	15704

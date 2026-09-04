@@ -5,6 +5,7 @@ A1 Tercer Secretario A2 Vice Cónsul	4209
 A2 Agregado Administrativo A3 Tercer Secretario	4209
 A3 Primer Secretario A3 Segundo Secretario	4209
 AACB Secretariat	4103
+ACBF Executive Secretary Mamadou Biteye	16815
 ACP Secretariat	26,1,1
 ADEA Executive Secretary	15182
 AEAA Secretariat	13477
@@ -531,6 +532,7 @@ Health Secretariat	21
 Health Secretary	6651
 Home Affairs Permanent Secretary	13448
 Home Affairs Principal Secretary	11628
+Honorary Secretary and Treasurer	16796
 Honourable Minister Federal Secretariat Complex Phase	5903
 Horn of Africa Initiative's Secretariat	14022
 Houet Province Secretary General Sombéniwendé Nikiema	6939
@@ -630,7 +632,7 @@ Kenya’s Cabinet Secretary for Information	5964,826
 Kenya’s Health Secretary	6651
 Kenya’s Interior Cabinet Secretary	2447
 Kenya’s Prime Cabinet Secretary and Cabinet Secretary	14230
-Kenya’s Principal Secretary	9938
+Kenya’s Principal Secretary	9938,6865
 Kenya’s Tourism Cabinet Secretary and Tanzania’s Natural	14600
 Konza Technopolis. Principal Secretary	10667
 L'organisation du Secrétariat Général	548,683
@@ -895,7 +897,7 @@ Permanent Secretaries	1014,974,5985,1008,688,1921,863,642,237,13,1064,364,357
 Permanent Secretaries and Equivalent Grades	2779
 Permanent Secretaries and Heads of Agencies	13005
 Permanent Secretaries. CHAPTER FIVE	13399
-Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394
+Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165
 Permanent Secretary Ally Senga Gugu	5697
 Permanent Secretary Attention	12927
 Permanent Secretary Dr Amina Zawedde	5658
@@ -1166,6 +1168,7 @@ SETIC- Secrétariat Exécutif des Technologies	13395
 SGCB-UMOA Secrétariat Général	4459
 SGG Secretary General	13861
 SGG-CM Secrétariat	15961
+SGRHFP SEPC Secretária de Estado da Inclusão Social	15694
 SMART AFRICA SECRETARIAT FOREWORD	10819
 SMEs. The Secretariat	6127
 SNDS II Secrétariat Technique	15580
@@ -1239,7 +1242,7 @@ Secretaria de Estado de Igualdad de Género	1855
 Secretaria de Estado de Seguridad	1855
 Secretaria de Estado de Traducciones	1855
 Secretaria-Geral	15404
-Secretariado	167,4051,3727,3504,81,31,3942,1046
+Secretariado	167,4051,3727,3504,81,31,3889,53,1046
 Secretariado Exe	11561
 Secretariado Executivo	13,4133,1,7414,1262
 Secretariado Executivo da CNE	11561
@@ -1260,7 +1263,7 @@ Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
-Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,260,296,44,270,88
+Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88
 Secretariat ARTICLE	14409
 Secretariat African Financial Stablity Committee	6938
 Secretariat Arusha	11806,1845
@@ -1511,16 +1514,16 @@ Secretaría Técnica	163
 Secreto	163
 Secrets	14865
 Secrets Manager. Own	11804
-Secretária	3519,6621
+Secretária	3519,6621,5386
 Secretária Executiva Adjunta	11561
 Secretária Executiva Adjunta da CNE	11561
 Secretária Permanente	10140
 Secretária de Direitos Humanos	10750
 Secretária de Estado	1180,84,9486,2,4774
 Secretária de Estado Moçambique	10750
-Secretária de Estado da Inclusão Social DGPOG SGRHFP	15694
 Secretária-Geral	15404,128
 Secretário	10750,2,1,625,10,139,1256
+Secretário Conselho	15526
 Secretário Execu	11561
 Secretário Executivo	2866,8665,30
 Secretário Executivo Adjunto	11561
@@ -1712,6 +1715,7 @@ Srº Secretário de Estado	10752
 Staffing Position The Permanent Secretary	14746
 State Department for Diaspora Affairs Principal Secretary	9738
 State Secrecy	12201
+State Secretariat Conference Hall	16796
 State Secretariat for Economic Affairs	11997
 State Secretariat. Gregory	11310
 State Secretary	7794

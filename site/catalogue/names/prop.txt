@@ -64,6 +64,7 @@ Alternative Proposals	12389,2691
 Amendment of Request for Proposals Document	15080
 Analysis and Requests for Proposals	11131
 Angola Proparco	10790
+Annually NADMO Proportion	15845
 Ante-Projecto PROPOSTA DE LEI DO GOVERNO	11461
 Anticipated Proposed Enhancement	12253
 Any Proposal	15080
@@ -145,7 +146,6 @@ COMPANIES AND INTELLECTUAL PROPERTY COMMISSION	11250
 COMPONENTS Last Approved Proposed Component Name	15138
 CONCEPTO NOTARIADO SERVICIOS CIVIL PROPIEDAD MALABO	4209
 CONFIDENTIALITY AND PROPERTY RIGHTS Due	12693
-CONTENTS SUMMARY OF PROPOSED FINANCING	15924
 CORAL PROPERTY INTERNATIONAL LIMITED Data Controller	7167
 COST PROPOSAL	11209
 CPA Communal Property Association CPI Consumer	11261
@@ -408,6 +408,7 @@ Governance and Accountability Proposed	12175
 Governance. Proposed Development Objective	12669
 Governo Nº Nome Funcionário Ingresso Proposta	15404
 Graden City Properties	13053
+Growing Value Proposition Beyond	16811
 Guidelines and Proposed Registration Fees. MACRA Head	7364
 Guidelines for Proposal Please	12686
 Guidelines for Street Naming and Property Numbering	11129
@@ -432,7 +433,6 @@ IBA Intellectual Property	1387,10774
 ICE IV Project Propels Intra Asia	2677
 ICT Proportion	12453
 ID for Africa Proposal. Version	10819
-IDA PROGRAM DOCUMENT FOR A PROPOSED	15924
 IFC Collaboration No Proposed Development Objective	1867,8901,61,135,561,35,295,1476,1,2329
 IFC Collaboration No Proposed Program Development	11905
 IFC and Proparco	516,1034,693
@@ -446,8 +446,6 @@ II. Description of Proposed Changes	15693
 III. PROPOSED CHANGES	2473,13496,218
 III. PROPOSED CHANGES Operation Information Proposed	2473,13496,63,155
 III. PROPOSED CHANGES Operation Information Summary	4653
-III. PROPOSED OPERATION	15924
-III. PROPOSED OPERATION A. Link	15924
 IMMOVEABLE PROPERTIES ACQUISITION	14753
 INDICATOR Proportion of Management Information Systems	12453
 INFRACTIONS EN MATIERE DE PROPRIETE INTELLECTUELLE	16617
@@ -773,7 +771,7 @@ PROPOSED CHANGES	15969
 PROPOSED CO-HOSTING	13673
 PROPOSED CONSTRUCTION OF JITUME	1638
 PROPOSED CONSTRUCTION OF JITUME CENTRES	1638
-PROPOSED CREDIT	996,10909,3586,433
+PROPOSED CREDIT	996,10909,3586
 PROPOSED CREDIT Public Disclosure Authorized	3604
 PROPOSED DECISION	13218
 PROPOSED DECISION IN TERMS OF SECTION	13218
@@ -825,6 +823,7 @@ Part of Proparco's Bridge	938
 Part of Proparco's Choose Africa VC	4516
 Partnership Economic Affairs Commission Proposed Development	1704
 Percentage Distribution of Residential Properties	2775
+Percentage of AAP Proportion of AAP Input	15845
 Period of Validity of Proposals	15080
 Phase’s Proposed	11417
 Pierre MABIALA CESSIBILITE DE PROPRIETES IMMOBILIERES	15780
@@ -867,7 +866,7 @@ Propaganda	4209,11133
 Propagate Hindi	16256
 Propagation	10965,3523,1,1
 Propagation du COVID-19	14488,1,1
-Proparco	212,82,50,35,18,120,2,163,3,23,8,1,72,29,74,1,2,17,18,8,11,202,1,1,263,23,81,1,30,1,1,597,73,13,800,743,736,1,1639,1104,29,1324,1608,55,514,1,11,374,1122,42,917,4,1144
+Proparco	212,82,50,35,18,120,2,163,3,23,8,1,72,29,74,1,2,17,18,8,11,202,1,1,263,23,81,1,30,1,1,597,73,13,800,743,736,1,1639,1104,29,1324,1608,55,514,1,11,374,1122,42,917,4,1144,2370,25
 Proparco Afriland First Bank	3779
 Proparco EUR	708
 Proparco Linkedin	1552
@@ -877,6 +876,7 @@ Proparco and Bpifrance. ANKA	1151
 Proparco and Digital Africa	3036
 Proparco and IFC	1551
 Proparco and KCB Bank Data Protection Act	12297
+Proparco's Bridge	16799
 Proparco's FISEA	930
 Proparco-specific	10275
 Proparco. Mubadala	1544
@@ -968,13 +968,13 @@ Propoftion	15999
 ProponAI European Court of Auditors Refreshworks Fastweb	8530
 Proponents	4970,4769
 Proponha	15564
-Propor	13,154,2649,1330,1,71,6565,585,13,1,66,1,12,66,42,332,512,361,2617,112,1,22,229
+Propor	13,154,2649,1330,1,71,6565,585,13,1,66,1,12,66,42,332,512,361,2617,59,53,1,22,229,157
 Proporcionalidade	6970,4478,13
-Proporcionar	163,1538,4761,4934
+Proporcionar	163,1538,4761,4934,4130
 Proporcione	1701
 Proportio	12917
 Proportio Privé Etat Etat Employeu Autre	737
-Proportion	419,224,94,52,181,352,742,278,433,621,683,1,221,48,110,2120,253,716,3164,51,93,2,16,1,52,48,1,286,291,19,302,7,1,20,249,77,28,11,79,21,16,12,18,27,13,470,55,322,25,22,95,656,524,214,60,1,38,50,71,7,101,393,17,25,5,20,96,4,1,176,98,261,68,108,190,15
+Proportion	419,224,94,52,181,352,742,278,433,621,683,1,221,48,110,2120,253,716,3164,51,93,2,16,1,52,48,1,286,291,19,302,7,1,20,249,77,28,11,79,21,16,12,18,27,13,470,55,322,25,22,95,656,524,214,60,1,38,50,71,7,101,393,17,25,5,20,96,4,1,120,56,98,261,68,108,190,15
 Proportion Dernière	13300
 Proportion Enfants	13300
 Proportion Femmes	2624,10676
@@ -1025,7 +1025,7 @@ Proportionate Governance Expectations	14565
 Proportionnée	15885
 Proportions	10980,1433,2483,39,121
 Proportions Age Census	11192
-Proporção	2138,1906,6722,11,641,3,102
+Proporção	2138,1906,6722,11,641,3,102,4171
 Proporção de Chamadas Móvel Sem	11418
 Proporção de Chamadas Perdidas	11418
 Proporção de Indivíduos	11418
@@ -1131,7 +1131,7 @@ Proposed Data Protection Agency Ministry of Justice	1161
 Proposed Deadline Closing	1284
 Proposed Decision	13218
 Proposed Delivery Channels AI	14566
-Proposed Development Objective	761,503,2298,7401,1174,251,24,14,2484,26,685,122,181,220
+Proposed Development Objective	761,503,2298,7401,1174,251,24,14,2484,26,685,122,401
 Proposed Digital Sound	6946
 Proposed Enhancement	12253
 Proposed FY	15004
@@ -1222,7 +1222,7 @@ Proposition	765,418,1783,3017,4417,565,1245,1345,943,39,253,142,480,88,55,28,622
 Proposition En	15583
 Proposition Technique	16319
 Propositions	643,5340,4893,1167,132,1150,230,139,804,949,49,43,397,101
-Proposta	3519,7264,590,1,82,442,244,657,14,2664,848
+Proposta	3519,7264,590,1,82,442,244,657,14,2664,661,187
 Proposta Estratégias de Retenção A Estratégia de Retenção	2816
 Proposta Financeira	11448
 Proposta OGE	4454,2
@@ -1258,7 +1258,7 @@ Proposta de Regulamento de Construção	2816
 Proposta de Regulamento de Desenvolvimento	2816
 Proposta de Resolução	15477
 Proposta-stage	3893
-Propostas	2816,8674
+Propostas	2816,8674,4422
 Propostas Estratégicas	2816
 Propostas de Altera	9399
 Propostas de Lei	5467,5969
@@ -1309,7 +1309,7 @@ Propósito da Política Esta Política	11547
 Propôrtion	15999
 Propõe	2921,8648
 Propõe-	11569
-Propõe-se	11555,14
+Propõe-se	11555,14,3881
 Propõem-se	15476
 Protecting Intellectual Property and Cultural Data	16212
 Protection of Cultural Property	14409
@@ -1429,7 +1429,6 @@ SOBRE A INTELIGÊNCIA ARTIFICIAL PROPONENTE	3519
 SOURCES OF PROPERTY CHAPITRE III	1214
 SRO Proportion Enfants	13300
 SUMMARY Last Approved Proposed Page	14553
-SUMMARY OF PROPOSED FINANCING AND PROGRAM	15924
 SUPPLEMENTARY INFORMATION FOR CONSULTANTS Proposals	13031
 SUR Proposition	13937
 SUR Proposition du Ministre	13825,9,89

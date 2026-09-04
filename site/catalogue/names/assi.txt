@@ -113,21 +113,21 @@ Assignments of Engineering Designs and Contract Supervision	15411
 Assignolion	15429
 Assigui	16177
 Assih	8262
-Assim	15,399,125,2277,302,216,812,1065,3308,740,886,627,5,593,1,8,8,3,6,1,24,1,14,10,10,62,1,1,3,4,1,2,2,5,6,4,9,6,3,4,7,1,444,3337,1,21,8,3,1,11,37,8,28,27,1,5,17,6,3,29,8,117,5,78,120,230,97,106,51
+Assim	15,399,125,2277,302,216,812,1065,3308,740,886,627,5,593,1,8,8,3,6,1,24,1,14,10,10,62,1,1,3,4,1,2,2,5,6,4,9,6,3,4,7,1,444,3337,1,21,8,3,1,11,37,8,2,26,27,1,5,17,6,3,29,8,117,5,78,120,20,210,16,81,106,51
 Assimi Goïta	8401,175
 Assimi Tairou	7355
 Assimilé	14432
 Assimilés	15427,509
 Assimilés SMQ Système de Management	10712
 Assimilés du Cameroun	718
-Assinada	15396
+Assinada	15396,54
 Assinado	11437
 Assinalou	5542,814
 Assinante	15,10732
 Assinantes	1144,10286
 Assinantes Concretos	11430
 Assinantes de Serviços de Acesso	11574
-Assinar	4146,72,7164,53,14,69
+Assinar	4146,72,7164,53,14,69,3932
 Assinaram	2816,3801
 Assinatura	2816,277,7656,611,3,9,2,45,37,5,19,102,316,123,3337,1,33,4,81,43,507,349
 Assinatura Actos Formação	12021
@@ -452,7 +452,7 @@ Desenvolvedor de Assistentes Virtuais. Segundo Xavier	2816
 Detailed Tasks Assigned	13037
 Development Aid and Technical Assistance	14879
 Development Assistance	14879
-Development Assistance Committee	11155
+Development Assistance Committee	11155,4769
 Development Objectives Assistance Agreement	4301
 Differentiated Assistance	12297
 Differentiated Assistance Framework	12297
@@ -603,7 +603,7 @@ IG Assistance	14428
 II. Assistance	15901
 IMF High-Level Summary Technical Assistance Report	1698
 IMF Middle East Technical Assistance Center	15165
-IMF Technical Assistance	15924
+IMF-Africa Regional Technical Assistance Centers	15924
 IMPROPER ASSISTANCE	11240
 INCLUDING REMEDIAL ACTION TAKEN TO ASSIST	2709
 INGD Vai Digitalizar Registo de Beneficiários de Assistência	12859
@@ -708,6 +708,7 @@ Mutual Legal Assistance	318,465,1943,1,8458,771,1447,63,1287
 Mutual Legal Assistance Act	587
 Mutual Legal Assistance Treaties	11995
 NDJOROGO ASSIMA	16381
+NEE. Assinala	15694
 NOSI. Assim	15391
 Namibia Students Finance Assistance Fund	6765
 Namibia Students Financial Assistance Fund	5036,7992
@@ -766,6 +767,7 @@ Palakiyem Assih	8262,2502
 Palakiyem Assih Named Chairman of Cyber Defense	8262
 Parliament Assistant Clerk	12972
 Part E Assisting	11181
+PcD. Assinala	15694
 Personal Assistant	1554,5392
 Personal Digital Assistants	12057
 Personnel ASSI Agence des Services	15583
@@ -816,12 +818,14 @@ Radio Frequency Spectrum Assignment Plan	7828
 Radio Frequency Spectrum Assignment Plans	7980,109
 Recomendações Assim	11561
 Refusal of Assignments	13951
+Regime Jurídico Assim	15526
 Regime Jurídico da Assinatura Electrónica	8308,1
 Region Assistive	12977
 Regional Administration Assistant Civil Registration Officer	12970
 Regional Integration Assistance Strategy	15511
 Registration Assistant	12338
 Regulations Act. Assistance	14736
+Relatório de Assistência Técnica	15912
 Republic of Mozambique. Assistance	12779
 Research Assistant	14812
 Resource Executive Office Management Assistant Support	14835
@@ -829,7 +833,6 @@ Resources Assistant Manager Human Resources Human	14835
 Resources IAP Inventor Assistance Programme ICT	11250
 Rwanda Official Development Assistance Report	12333
 Rwanda Technical Assistance Facility	14935
-S.A. Assim	15526
 SCOPE OF THE ASSIGNMENT AND DETAILED	15090
 SDGs Assistance	5655
 SE Mme Assia Bensalah Alaoui	8891
@@ -851,7 +854,7 @@ Senior Assistant System Analyst	14770
 Senior Economic Assistant	3895
 Senior Finance Operations Assistant Permanent Secretary	14835
 Senior Official for Foreign Assistance	4154,11,2
-Senior Program Assistant	11136,4788
+Senior Program Assistant	11136
 Senior Program Assistant ICT Sector Unit	15372
 Senior Sectional Engineer and Assistant Manager Engineering	6946
 Senior Special Assistant	2318,6506,576,2568
@@ -921,7 +924,7 @@ Teacher Assistants	11230
 Teacher Assistants Programme	11940
 Teaching Assistance Programme. French Teachers	12972
 Teaching Assistants	10541,59
-Team Assistant	2989,7774,2,10,361,135,2041,2,1583,122,905
+Team Assistant	2989,7774,2,10,361,135,2041,2,1583,122
 Team Composition and Task Assignments Professional Staff	13037
 Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214,138,63,151,518,182,150,161,319,49,193,268,207,1094,1,273,17,102,57,1,164,271,39,142,106,310,14,671,21
 Technical Assistance Advisor	12500
@@ -944,7 +947,6 @@ Technical Assistance Report-Climate Policy Diagnostic	15983
 Technical Assistance Report-Report	14634
 Technical Assistance Report-Review and Evaluation	6938
 Technical Assistance Reports Volume	15983
-Technical Assistance SOE Oversight Unit	15924
 Technical Assistance ToR Terms of Reference TSO	15659
 Technical Assistance ToR Terms of Reference USAID	15515
 Technical Assistance Total2 Public	12399

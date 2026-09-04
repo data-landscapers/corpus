@@ -45,7 +45,7 @@ Africa Continental Financial	11994
 Africa Continental Free Trade Agreement	14031,245
 Africa Continental Free Trade Area	4891,10,1468,454,5792,73,632,602
 Africa Continental Free Trade Area Agreement	4368
-African Continent	4723,8181,1844,278
+African Continent	4723,8181,1844,278,1735,1,1,1,1,1,1
 African Continent Using TAMSAT Data	16135
 African Continent. Chaired	3987
 African Continental Free	4126
@@ -367,7 +367,7 @@ Continue Strengthening Public Financial Management	1579
 Continue With MyNa Credentials	3002,443,14,16,1606,536
 Continue des Enseignants	11905,3768
 Continue des Enseignants ENI	15673
-Continued	418,582,777,51,160,1726,476,420,1045,25,752,303,301,1490,77,2,854,71,558,688,17,48,15,8,267,3,77,39,11,119,103,693,17,21,22,10,194,465,57,80,11,42,38,198,1,49,96,55,60,177,169,211,1,244,383,122,36,62,32,10,90,9,26,440,54,266,602
+Continued	418,582,777,51,160,1726,476,420,1045,25,752,303,301,1490,77,2,854,71,558,688,17,48,15,8,267,3,77,39,11,119,103,693,17,21,22,10,194,465,57,80,11,42,38,198,1,49,96,55,60,177,169,211,1,244,383,122,36,62,32,10,90,9,26,440,54,868
 Continued AI	1363
 Continued Annual Absorption of Frontline HCWs Year	4260
 Continued Breastfeeding and Bottle Feeding	15247
@@ -399,7 +399,7 @@ ContinuitÈ	15394
 ContinuitÈ Dans	15394
 Continuité	1214,10829,3737,163,352,332
 Continuons	15624,1108
-Continuous	958,42,814,14,110,50,960,656,257,265,402,378,338,141,280,11,346,410,514,2,600,114,1337,368,52,436,866,10,45,43,10,111,67,124,3,22,113,256,47,6,277,50,47,3,1,219,20,45,6,91,22,36,62,55,88,349,28,28,75,15,237,53,35,51,207,190,348,218,131,177,3,125,22,30,75,125,27,262,142,51,57,2,50,224,643
+Continuous	958,42,814,14,110,50,960,656,257,265,402,378,338,141,280,11,346,410,514,2,600,114,1337,368,52,436,866,10,45,43,10,111,67,124,3,22,113,256,47,6,277,50,47,3,1,219,20,45,6,91,22,36,62,55,88,349,28,28,75,15,237,53,35,51,207,190,348,218,131,177,3,125,22,30,75,125,27,262,142,51,57,2,50,132,92,643
 Continuous Adaptation Requirement ACKNOWLEDGING	3861
 Continuous Automated Red Teaming	10721
 Continuous Birth	12241
@@ -415,6 +415,8 @@ Continuous Data Protection	13185,2089
 Continuous Delivery	13037
 Continuous Deployment CORS Cross-Origin Resource Sharing	11952
 Continuous Education	6936
+Continuous Ghana	15845
+Continuous Ghana Police	15845
 Continuous Improvement	5676,6564,2201,593
 Continuous Improvement Data Lineage Data Governance	15034
 Continuous Improvement Framework	15034
@@ -448,6 +450,7 @@ Continuous Professional Development CSL	6832
 Continuous Professional Development Coordinators	12175
 Continuous Professional Development and Capacity Building	11791
 Continuous Professional Developments	13420
+Continuous Public Relation	15845
 Continuous Quality Improvement	9855
 Continuous Quality Improvement Social Health Authority	4153
 Continuous Registration Strategy	10775
@@ -656,7 +659,6 @@ Pending Litigations and Contingent Liabilities	5903
 Performance and Continuous Improvement	11131,3
 Plan de Continuité	10906,3631
 Plan de Continuité des Activités	13341
-Plano de Ação Continental	15694
 Plans Nationaux de Contingence	14662
 Post-Emergency Continuity Review. Following	3503
 Princípio da Continuidade	11388

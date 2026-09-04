@@ -170,7 +170,7 @@ Niabouri Sissili Centre-Ouest	15715
 Nokuzola Sisisi Tolashe	3504
 Notariado SISTEMA DE REGISTO CIVIL	12156
 Nova Lei Procura Acompanhar Um Sistema	8003
-Novo Sistema de Monitoramento	15526
+Novo Sistema de Monitoramento Ministro	15526
 Noção Por Sistema Estatístico Nacional	11516
 Nursing Sister	12972
 Não EST-TEC10 SIS-Sistema de Informação Sanitária	15532
@@ -198,7 +198,7 @@ OPERADORES DE SISTEMAS	10755
 OU PARTICIPANTE DO SISTEMA Artigo	15440
 Obito SISTEMA DE REGISTO CIVIL	12862
 Ocupação Sistema Online	11898
-Operador Nacional de Sistema Elétrico de Cabo Verde	15924,59
+Operador Nacional de Sistema Elétrico de Cabo Verde	15983
 Os Sistemas de Informação	15476
 Outros Sistemas	10754
 P.4.1 Sistemas	11376
@@ -370,7 +370,7 @@ Sistema Electrónico de Registo	12831
 Sistema Electrónico de Registo Civil	12775
 Sistema Eleitoral	3530,1181,227,3598
 Sistema Estadístico Nacional	1701,2508,10006
-Sistema Estatístico Nacional	4040,4,2381,194,4138,602,62,1,24,3,67,21,40,1193,2680,85
+Sistema Estatístico Nacional	4040,4,2381,194,4138,602,62,1,24,3,67,21,40,1193,2680,76,9
 Sistema Estatístico Nacional. Artigo	12770
 Sistema Estatístico Nacional. O Departamento de Estatística	12788
 Sistema Financeiro	3137,8233,563,3507
@@ -424,7 +424,7 @@ Sistema MERIDIAN	12796
 Sistema Medioambiental	1701
 Sistema Multicaixa	11438
 Sistema Mundial	1701
-Sistema Nacional	1701
+Sistema Nacional	1701,13825
 Sistema Nacional Integrado de Gestão Hospitalar	11394,67
 Sistema Nacional de CT&I	1701
 Sistema Nacional de Cibersegurança	9257
@@ -449,17 +449,17 @@ Sistema Nacional de Información Sanitaria TIC	1701
 Sistema Nacional de Informação Estatística	11516
 Sistema Nacional de Informação Sanitária	11543
 Sistema Nacional de Innovación	1701
-Sistema Nacional de Investimento	15924
+Sistema Nacional de Investimento	15526,398
+Sistema Nacional de Investimentos	15526
 Sistema Nacional de Medio Ambiente	1701
 Sistema Nacional de Pagamentos	5068,101,1825,344,665,4811
 Sistema Nacional de Pagamentos. I SÉRIE	5169
-Sistema Nacional de Planeamento	10783,613,1
+Sistema Nacional de Planeamento	10783,613,1,4129
 Sistema Nacional de Planificación	4209
 Sistema Nacional de Planificación Territorial	1701
 Sistema Nacional de Protección Social	1701,13777
 Sistema Nacional de Protecção Social	11378
 Sistema Nacional de Proteção Social	11547
-Sistema Nacional de Qualificações	15526
 Sistema Nacional de Registo Civil	12142
 Sistema Nacional de Regulação	2816
 Sistema Nacional de Salud	4209
@@ -534,6 +534,7 @@ Sistema de Controlo de Fronteiras da Guiné-Bissau	11566
 Sistema de Controlo de Tráfego	4274
 Sistema de Controlo de Tráfego de Telecomunicações	4274
 Sistema de Coordenadas	11405
+Sistema de Coordenação da Estratégia Multissetorial	15694
 Sistema de Créditos	11361
 Sistema de Cuentas Nacionales	1701,2508
 Sistema de Débitos Directos	11403
@@ -546,6 +547,7 @@ Sistema de Ensino	11577,1200
 Sistema de Estatística Nacional	11449
 Sistema de Extensión Agraria	4209
 Sistema de Farmacovigilancia Integral de Medicamentos	4209
+Sistema de Garantias Moveis	15526
 Sistema de Gestao de Informacao da Terra	427
 Sistema de Gestao de Residuos Solidos Urbanos	574
 Sistema de Gestao de Terras	574
@@ -643,6 +645,7 @@ Sistema de Regulación	1701
 Sistema de Salud	1701
 Sistema de Saúde	10775,768,1279
 Sistema de Saúde da Guiné-Bissau	11543
+Sistema de Seguimento	15694
 Sistema de Segurança Interna	11566
 Sistema de Segurança Nacional	4146
 Sistema de Segurança Social	11433
@@ -663,7 +666,7 @@ Sistema de Videovigilância. ARTIGO	539
 Sistema de Vigilância	539
 Sistema. Revoga	11385
 SistemadePagamentos	15453
-Sistemas	794,907,1115,1393,2100,153,508,1030,2755,615,2,22,12,23,1,139,450,844,2577,36,27,69,394,410
+Sistemas	794,907,1115,1393,2100,153,508,1030,2755,615,2,22,12,23,1,139,450,844,2577,36,27,69,122,272,410
 Sistemas Baseados	2816
 Sistemas Compartilhados	11368
 Sistemas Digitais	11382,637
@@ -704,7 +707,7 @@ Sistemas de Inteligencia Artificial	1855,1639,715,2632,259,5418
 Sistemas de Inteligencia Artificial Excelentísimo	1855
 Sistemas de Liquidação	10755
 Sistemas de Mensagens Curtas	12774
-Sistemas de Pagamento	5169,1293,4293,1178,881
+Sistemas de Pagamento	5169,1293,4293,1178,881,2712
 Sistemas de Pagamentos	11955,3490,571
 Sistemas de Preços	11520
 Sistemas de Registo	12021
@@ -715,7 +718,9 @@ Sistemas de Salud	1701
 Sistemas de Tecnologias de Informação	167
 Sistemas de Telecomunicaciones	9543
 Sistemas de Videovigilância	539,255
+Sistematizaçãdoefdiacsiêonbcriiag	15694
 Sistematização	15564,130
+Sistemática	15450
 Sister	328,1310,196
 Sister. Child	1638
 Sisterhood Method. Paper	13300

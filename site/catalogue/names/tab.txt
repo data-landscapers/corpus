@@ -43,6 +43,7 @@ Acronym Table Term Explanation AC Air	13185
 Acting Executive Secretary TABLE OF CONTENTS	15740
 Action Summary Table Title	12843
 Action Table	11855
+Action. Table	15845
 Adaptation Table	15553
 Administration I Table	10874
 Africa. Table	1944,13527
@@ -312,7 +313,6 @@ Emmanuel Taban	2989
 Employees Income Table	14815
 Employment. Table	15244
 Energy Physical Supply and Use Tables	2775
-Estados Partes. Tabela	15694
 Etat. Tableau	15639
 Etat... Tableau	14479
 Ethiopia Attachment III. Data Tables A	12500
@@ -470,6 +470,7 @@ Infrastructure Fund Table D.8	11248
 Initial Table of Contents Section	13037
 Institutions Table	15164
 Integrity Committee Total Number of Meetings Table	1554
+Interior. Table	15845
 International Illustrative Sectoral Summary Table	14566
 International Standard Classification of Occupations Table	14815
 International TABLE DES MATIERES	13375
@@ -585,6 +586,7 @@ Mobile Table	10856
 Modest Efficiency. Table	16436
 Mogadishu-based Tabaarak ICT	7897
 Monetary and Financial Indicators 21 TABLES	13868
+Monitoring Matrix Table19	15845
 Monsieur TABAKA Mexan Guillaume	3191
 Monsieur TCHICAYA M. TABAKA	15780
 Montserrat Bonkanka Tabares	8372
@@ -592,6 +594,7 @@ Moulaye Tabouré	7440
 Movéis Tabela	11574
 Mozambique Mozambique Digital Acceleration Project TABLE	4653
 Mwanza Border Table	13053
+NADMO Table	15845
 NATIONAL PAYMENTS SYSTEM OVERSIGHT POLICY Table	12537
 NATIONAL Tableau	15670
 NBC. Table	1944
@@ -815,6 +818,7 @@ Sc6nario Optimiste Tableau	14479
 Sector Tabela	11574
 Segurança Cibernética. Tabela	2816
 Sexo Tabela	11387
+Sharm El Sheikh and Taba	16808
 Sida. Le Tableau	13300
 Significance of Decree TABLE	15473
 Site Supervising Engineer. Table	12253
@@ -861,7 +865,6 @@ Supplementary Table S4	10188
 Supplementary Tables	11578
 Supply Use Tables	236
 Supply and Use Table	14777
-Sustainable Growth Development Policy Financing TABLE	15924
 Swisscom Annex Table	15471
 System Inventory Table	10617
 System Inventory Tables	15080
@@ -1034,6 +1037,7 @@ TIME TABLE OF EVENTS	4896
 TOFE Tableau des Opérations Financières	10712
 Tab1. Répartition	13390
 TabInfo	10848
+Taba Subsea Cable	16808
 Tabaakoum	4377
 Tabaarak ICT	7897
 Tabaarak ICT Solutions	7897
@@ -1069,7 +1073,7 @@ Tabioukom	15614
 Tabit	15252
 Tabitha Karanja	1245
 Tabla	14742
-Table	7,3,16,1,1,6,202,160,322,47,1,5,13,156,18,51,4,148,27,24,6,1,9,15,18,3,20,242,28,47,1,1,2,1,7,119,1,1,43,1,36,4,6,4,39,77,44,105,3,195,132,138,64,150,1,113,1,9,1,48,18,638,74,36,68,9,71,239,113,3,18,197,7,52,26,11,125,23,220,236,50,3,4,2,1,53,2,286,115,1,6,45,24,20,256,477,62,132,49,70,42,58,31,25,1,31,173,127,90,53,30,122,186,31,60,36,80,17,38,333,22,60,24,84,38,21,1,1,286,232,5,1,108,1076,112,125,162,2,5,7,1,32,4,1,1,3,7,4,1,4,35,10,6,2,1,2,1,3,2,1,5,4,50,6,7,21,24,4,7,22,7,24,22,79,4,2,1,2,14,4,24,12,1,2,3,11,7,2,6,4,22,2,6,1,2,25,10,14,91,16,107,1,27,1,7,3,15,3,4,205,4,61,2,6,4,3,9,4,3,1,7,8,3,2,9,2,6,28,3,5,4,1,21,4,4,12,14,5,37,76,13,3,9,12,20,4,11,17,6,7,6,7,2,1,69,2,1,13,11,1,5,2,5,2,2,10,4,12,18,6,12,13,1,2,6,31,4,12,12,17,4,62,62,2,13,2,1,6,78,4,23,111,20,6,16,9,1,2,2,8,1,7,1,6,1,1,2,7,3,15,35,2,11,1,6,16,113,106,16,1,2,10,7,1,13,1,1,2,9,12,5,7,5,8,19,4,15,45,54,27,65,37,20,4,58,122,3,122,1,1,18,21,362,28,2,1,1,9,9,27,2,62,3,9,3,21,52,44,8,49,6,13,5,3,3,22,2,3,35,10,5,2,3,1,4,11,6,10,24,5,1,25,10,1,2,10,12,2,6,1,5,14,12,22,4,11,22,29,45,6,2,26,41,39,3,95,30,9,34,9,44,3,1,1,7,20,1,10,3,4,21,11,3,3,12,6,10,6,14,20,3,32,2,2,7,36,1,4,13,1,15,3,53,6,5,41,60,16,28,17,63,31,81,31,69,22,63,55,52,190,3,54,64
+Table	7,3,16,1,1,6,202,160,322,47,1,5,13,156,18,51,4,148,27,24,6,1,9,15,18,3,20,242,28,47,1,1,2,1,7,119,1,1,43,1,36,4,6,4,39,77,44,105,3,195,132,138,64,150,1,113,1,9,1,48,18,638,74,36,68,9,71,239,113,3,18,197,7,52,26,11,125,23,220,236,50,3,4,2,1,53,2,286,115,1,6,45,24,20,256,477,62,132,49,70,42,58,31,25,1,31,173,127,90,53,30,122,186,31,60,36,80,17,38,333,22,60,24,84,38,21,1,1,286,232,5,1,108,1076,112,125,162,2,5,7,1,32,4,1,1,3,7,4,1,4,35,10,6,2,1,2,1,3,2,1,5,4,50,6,7,21,24,4,7,22,7,24,22,79,4,2,1,2,14,4,24,12,1,2,3,11,7,2,6,4,22,2,6,1,2,25,10,14,91,16,107,1,27,1,7,3,15,3,4,205,4,61,2,6,4,3,9,4,3,1,7,8,3,2,9,2,6,28,3,5,4,1,21,4,4,12,14,5,37,76,13,3,9,12,20,4,11,17,6,7,6,7,2,1,69,2,1,13,11,1,5,2,5,2,2,10,4,12,18,6,12,13,1,2,6,31,4,12,12,17,4,62,62,2,13,2,1,6,78,4,23,111,20,6,16,9,1,2,2,8,1,7,1,6,1,1,2,7,3,15,35,2,11,1,6,16,113,106,16,1,2,10,7,1,13,1,1,2,9,12,5,7,5,8,19,4,15,45,54,27,65,37,20,4,58,122,3,122,1,1,18,21,362,28,2,1,1,9,9,27,2,62,3,9,3,21,52,44,8,49,6,13,5,3,3,22,2,3,35,10,5,2,3,1,4,11,6,10,24,5,1,25,10,1,2,10,12,2,6,1,5,14,12,22,4,11,22,29,45,6,2,26,41,39,3,95,30,9,34,9,44,3,1,1,7,20,1,10,3,4,21,11,3,3,12,6,10,6,14,20,3,32,2,2,7,36,1,4,13,1,15,3,53,6,5,38,3,60,44,17,63,31,81,31,69,22,63,55,52,190,3,54,64
 Table A	4214,7036
 Table A of Schedule	3714
 Table A. Recommendations	4214
@@ -1148,6 +1152,7 @@ Table E1. Table E1	14935
 Table ES.1	10841
 Table F	7,11289
 Table G	7,11243,46
+Table Gabon	16802
 Table H	7
 Table II	2636,11,2802,199,1,9124
 Table III	14773
@@ -1256,9 +1261,12 @@ Table of Rating Factors for Lease of Real Estate	14778
 Table of Telecommunication and Postal Services Fees	14944
 Table-of-contents	233
 Table1	8606,6261
+Table15	15845
+Table16	15845
 Table2	8606
 Table2.1	12445
 Table2.8	12445
+Table20	15845
 Table3.1 Distribution of Economic	15085
 Table4.1 Distribution of Gender of Business Owners	15085
 Table5	8606

@@ -511,6 +511,7 @@ Chief Executive Officer of RDB	14862
 Chief Executive Officer of RDB The Chief	14862
 Chief Executive Officer of RICTA	8343
 Chief Executive Officer of RISA	5356
+Chief Executive Officer of Roke Telkom	16797
 Chief Executive Officer of SID	10160
 Chief Executive Officer of Sand Technologies	5837
 Chief Executive Officer of Scalar International. Through	5431
@@ -669,7 +670,7 @@ Committed Proposed Allocation Official Use Only	4653
 Committee Media Officer	9883
 Committee of Senior Trade Officials	15641
 Common Services Office	10063
-Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9,855,9,169,1026,336,8,1371,1092
+Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9,855,9,169,1026,336,8,1371,1092,762
 Commonwealth and Development Office FM Financial Management	10768
 Communication Mfanfikile Dlamini Chief Operations Officer	11131
 Communication Officer	11289,366,314
@@ -1280,7 +1281,7 @@ Government Office Equipment Standards	11503
 Government Office Park	12345
 Government Officer	13122,3
 Government Offices	12946,305,1016
-Government Officials	12977
+Government Officials	12977,3776,1,1,1
 Government Publishing Office	5773
 Government Service Centre Post Office Development	15578
 Governor and Chief Operations Officer	11131
@@ -1499,7 +1500,7 @@ Introduction Benin Ghana GSMA Head Office	10822
 Invavise Alien Species Project Officer Kamini	11332
 Investigation and Information Gathering Office	8806
 Investigations Bureau DPO Data Protection Officer	6936
-Investment Officer	6946,7287,786
+Investment Officer	6946,7287,786,1798
 Investment Programme ONSA Office	11857
 Investment Project Financing Official Use Only	3604
 Involvement of Welfare Officers and Peer	14742
@@ -1591,6 +1592,7 @@ King's Office	13093
 Koboko District IT Officer	2928
 Koforidua Office	2776
 Kora Cell Office	4941
+Korea's Office for Government Policy Coordination	16752,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Krakah GRA Senior Revenue Officer Constance	236
 Kumasi Main Post Office	16604
 Kumasi Office	2776
@@ -1753,7 +1755,7 @@ Managing Director and Chief Executive Officer of NIBSS	4856
 Managing Director and Chief Executive Officer of NSIA	6376
 Managing Director and Chief Executive Officer of Nigeria	2536
 Managing Director and Chief Executive Officer of SIMBED	4725
-Managing Director and Chief Executive Officer of Telecom	15827,114
+Managing Director and Chief Executive Officer of Telecom	15827,114,867
 Mandates the National Statistics Office	15760
 Manifest Officer	16631
 Manzini Regional Education Office	12962
@@ -2100,7 +2102,7 @@ Occupational Health and Safety Officer	12972
 Occupational Health and Safety Official Use Only	12253
 Oct-24 Attorney General’s Office	14746
 Offical States Secrets Act Requirement	11952
-Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74,83,152,1,27,15,85,36,32,63,8,34,34,5,2,60,20,4,1,6,7,76,22,55,63,49,7,3,4,15,4,2,3,10,7,2,2,6,6,4,17,4,4,1,10,6,17,11,4,17,12,15,1,14,4,5,5,30,1,28,29,4,20,12,88,1,16,17,42,12,101,6,30,39,18,27,17,73,7,48,3,16,19,18,13,28,33,123,23,30,23,6,126,144,37,44,224,20,6,15,20,2,6,23,38
+Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74,83,152,1,27,15,85,36,32,63,8,34,34,5,2,60,20,4,1,6,7,76,22,55,63,49,7,3,4,15,4,2,3,10,7,2,2,6,6,4,17,4,4,1,10,6,17,11,4,17,12,15,1,14,4,5,5,30,1,28,29,4,20,12,88,1,16,17,42,12,101,6,30,39,18,27,17,73,7,48,3,16,19,18,13,28,33,123,23,30,23,6,126,144,37,44,224,20,6,15,20,2,6,23,38,116
 Office Accommodation	5533,6453,2775
 Office Accommodation Office Management Executive	14746
 Office Accra	2308
@@ -2321,6 +2323,7 @@ Officer of Orange Botswana	5717
 Officer-in-Charge	10073,3356,1345
 Officer. Example	14524
 Officers	34,1843,111,787,212,143,2432,870,2819,146,518,72,181,2043,39,41,51,121,37,52,141,68,202,7,2,5,334,70,172,142,1019,1,17,4,6,11,7,68,3,4,56,143,92
+Officers Annually	15845
 Officers Commanding Stations	14505
 Officers Doctors	4260
 Officers PART III	14732
@@ -2572,7 +2575,7 @@ Open-Source Programme Offices	13080
 Operating Systems and Office Suite. ICT	12917
 Operation Phase Official Use Only Item	12253
 Operations Liaison Officer	3005
-Operations Officer	11289,2023,2,1583,162,414,7,444
+Operations Officer	11289,2023,2,1583,162,414,7
 Oracle's Regional R&D Office	6924
 Oracle's Regional Research and Development Office	6924
 Orange Cameroon Chief Executive Officer Patrick	6131
@@ -2798,6 +2801,7 @@ Principal Spending Officers	15790
 Principal Tax Officer	13044
 Prison Officer	14742
 Prison Officers	14742
+Prison Officers Training	15845
 Prisons and Probation Officers	2775
 Private Office	14770
 Private and Cabinet Office First Quarter Performance	13226
@@ -3125,7 +3129,6 @@ Senior Extension Officer	12972
 Senior Faculty Officer	13089
 Senior Finance Officer	6946
 Senior Financial Management Officer	13938
-Senior Financial Officer	15924
 Senior Financial Operations Officer	14835
 Senior Government Officials	12660
 Senior Government Officials Their Excellencies	10210
@@ -3383,6 +3386,7 @@ Treasury Cashier Office. Birth Certificates	12216
 Treasury OIDM Official Identity Management Policy	5533
 Treaty Office	25
 Tundwe Choolwe Procurement Officer	13392
+Tunisia's Office	16757
 Turnaround Strategy. The Office	12327
 Twitter Officiel	8673
 U.S. Attorney’s Office	11342

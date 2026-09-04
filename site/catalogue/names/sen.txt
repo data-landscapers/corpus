@@ -272,6 +272,7 @@ France and Senegal Strengthen Ties	2544
 Francis Ngulube Senior Accountant	13392
 French Senate	6471,6,44
 Further Categories of Sensitive Personal	12185
+G-Advanced Integrated Sensing and Communication	16810
 G. In Senegal	11902
 G. Senel	15715
 GDP GFDRR GoA Senior Health and Community	10763
@@ -517,7 +518,7 @@ None Second Middle Primary Junior Senior	11879
 Not... Senate Warns Wildlife Shortage of Food	4942,664,283,454,183
 Nyandarua Senator John Methu	2512
 Nyore Madzianike- Senior Reporter SIXTEEN	13619
-O SEN	12770
+O SEN	12770,2680
 OBJETIVOS DO SEN	15535
 OBJETIVOS E VISÃO DO SEN	15535
 OCEANO ATLÂNTICO SARA OCIDENTAL MAURITÂNIA SENEGAL	16325
@@ -666,6 +667,7 @@ SEBE Senior Officer	16371
 SECRETARIO GENERAL ADJTO. SENADO	4209
 SECRETARIO GENERAL DEL SENADO	4209
 SECRETARY Senior Official for Foreign Assistance	4154
+SEGREDO ESTATÍSTICO SEN	15450
 SEN Artigo	12770
 SEN CHEF DE DEPTMT SOUS-DIRECTEUR DIRECTEUR	15670
 SEN Cuisson	15799
@@ -676,7 +678,6 @@ SEN O SEN	15535
 SEN Regional Development Centres. Secondary Education	14829
 SEN Resource and Development Centres	14742
 SEN Sistema Estatístico Nacional	15535
-SEN Texto Lei	15450
 SEN-CSU	3673,3968,217
 SEN-PND Secrétariat	15961
 SEN-Senegal	14896
@@ -703,6 +704,7 @@ SENATEURS CHAPITRE	15727
 SENATOR LINDIWE DLAMINI	12955
 SENATOR THEMBA N. MASUKU DEPUTY PRIME	12939
 SENATont	15598
+SENCOs	16779
 SEND Shared Cash Transfer Delivery Platform	15044
 SEND-P	15044
 SENEGAL	4209,250,6402,1041,4348
@@ -837,6 +839,7 @@ Senate. Kenya	9937
 Senateandfacultystructures	8602
 Senateurs	15584
 Senate’s ICT	8095
+Senatnrtaa-sCeantoasringarudpoosFosgitoua	15694
 Senator	1245,8400,412,668,4282
 Senator Abubakar Kyari	7219
 Senator Aminu Tambuwal	2592
@@ -848,6 +851,7 @@ Senator Cabdi Xaashi Cabdullaahi	15070
 Senator Cabdullaahi Cali Xirsi	15070
 Senator Charles Tavengwa	13551
 Senator Diket Plang	4690
+Senator Dr. Aliyu Sabi Abdullahi	16796
 Senator Dr. Thabiso Lebese	12738
 Senator Francis Fadahunsi	10725
 Senator George Akume	2382,1321,399,3459,1420
@@ -912,7 +916,7 @@ Sending	34,938,6824,351,1290,1755,2316,58,1270
 Sending False Messages	3383
 Sending Offensive Messages	3383
 Sendje	4209
-Sendo	2816,4494,2182,1278,2,592,1,32,131,27,14,449,3340,82,36,56
+Sendo	2816,4494,2182,1278,2,592,1,32,131,27,14,449,3340,82,36,56,162
 Sendova and Bravo2024	8283
 Sends	11860
 Sendwave. What Amegbor	11169
@@ -928,9 +932,10 @@ SeneNews	7419
 SeneNews. Orange	1143
 SeneWeb	4967,179
 Senega	16008
-Senegal	44,18,24,68,87,19,27,13,77,25,15,91,10,37,43,26,17,6,1,4,57,3,96,3,2,4,12,25,36,3,36,4,3,25,52,6,36,6,80,1,1,68,32,4,17,99,44,8,1,3,6,9,3,84,1,7,12,1,6,180,40,44,2,76,15,41,190,3,2,9,17,1,57,11,52,13,2,1,7,9,13,2,21,54,48,86,6,7,5,38,19,8,55,26,67,41,6,5,20,42,83,26,39,75,38,48,57,5,170,1,75,92,14,44,17,15,14,80,52,25,6,171,67,24,23,26,11,2,10,1,25,201,10,9,22,51,28,37,7,132,12,58,11,45,35,28,1,16,39,1,4,18,7,25,34,4,24,1,53,8,64,26,1,1,4,88,37,35,31,81,7,8,11,13,119,3,20,1,86,27,25,41,44,37,6,23,70,114,57,82,29,2,9,37,86,31,19,148,39,2,26,55,1,34,107,15,15,34,66,43,45,19,37,22,31,29,1,34,3,35,57,33,25,24,8,34,88,76,214,41,84,5,100,124,84,105,68,76,169,67,99,57,25,1,10,46,51,1,21,46,168,241,1,24,122,42,12,9,127,15,1,1,109,103,1,304,208,25,45,26,9,7,18,16,3,7,1,2,8,5,4,7,12,48,8,14,14,23,13,13,121,2,9,262,21,105,6,9,9,8,6,6,6,22,61,122,42,29,4,3,13,3,1,2,5,8,1,44,17,1,188,1,9,47,11,118,2,11,1,16,7,9,103,460,305,25,35,57,254,57,32,479,20,233,23,124,34,6,42,30,231,62,141,146,96,31,13,36,11,9,25,6,39,71,144,130,65,48,14,24,132,1,60,2,171,24,31,212,15
+Senegal	44,18,24,68,87,19,27,13,77,25,15,91,10,37,43,26,17,6,1,4,57,3,96,3,2,4,12,25,36,3,36,4,3,25,52,6,36,6,80,1,1,68,32,4,17,99,44,8,1,3,6,9,3,84,1,7,12,1,6,180,40,44,2,76,15,41,190,3,2,9,17,1,57,11,52,13,2,1,7,9,13,2,21,54,48,86,6,7,5,38,19,8,55,26,67,41,6,5,20,42,83,26,39,75,38,48,57,5,170,1,75,92,14,44,17,15,14,80,52,25,6,171,67,24,23,26,11,2,10,1,25,201,10,9,22,51,28,37,7,132,12,58,11,45,35,28,1,16,39,1,4,18,7,25,34,4,24,1,53,8,64,26,1,1,4,88,37,35,31,81,7,8,11,13,119,3,20,1,86,27,25,41,44,37,6,23,70,114,57,82,29,2,9,37,86,31,19,148,39,2,26,55,1,34,107,15,15,34,66,43,45,19,37,22,31,29,1,34,3,35,57,33,25,24,8,34,88,76,214,41,84,5,100,124,84,105,68,76,169,67,99,57,25,1,10,46,51,1,21,46,168,241,1,24,122,42,12,9,127,15,1,1,109,103,1,304,208,25,45,26,9,7,18,16,3,7,1,2,8,5,4,7,12,48,8,14,14,23,13,13,121,2,9,262,21,105,6,9,9,8,6,6,6,22,61,122,42,29,4,3,13,3,1,2,5,8,1,44,17,1,188,1,9,47,11,118,2,11,1,16,7,9,103,460,305,25,35,57,254,57,32,479,20,233,23,124,34,6,42,30,231,62,141,146,96,31,13,36,11,9,25,6,39,71,144,130,65,48,14,24,132,1,60,2,171,24,31,212,15,82,2,37
 Senegal AI	6948
 Senegal AI Factory	8821
+Senegal AI Transformation Center	16772
 Senegal Advances Digital Governance	3612
 Senegal Affordability	11964
 Senegal BMZ	1425
@@ -971,6 +976,7 @@ Senegal Niger Madagascar Burkina Faso Gabon	10819
 Senegal Nigeria Cote Ghana	10861
 Senegal Numerique	10861
 Senegal Numérique SA	4967
+Senegal PMC	16772
 Senegal Partners With Sonatel	2600
 Senegal President	11517
 Senegal Rapporteurs	5680
@@ -1011,6 +1017,7 @@ Senegal and Guinea-Bissau	5279
 Senegal and Kenya	4467,2762,133,2711
 Senegal and Kenya.29	10881
 Senegal and Liberia. South Africa	5212
+Senegal and Malawi	16776
 Senegal and Mali	2813,648,7400
 Senegal and Mauritania	16705
 Senegal and Mauritania Sign MoU	2288
@@ -1058,6 +1065,7 @@ Senegal-based	2237
 Senegal-based D.IA Advisory	6120
 Senegal-based HealthTech	4972
 Senegal-benchmarks-Togo	3865
+Senegal-side	16772
 Senegal. DEG	1055
 Senegal. Digital	1540
 Senegal. Digital Green's FarmerChat	5367
@@ -1075,11 +1083,12 @@ Senegal. Pakistan	11004
 Senegal. Researchers	4997
 Senegal. The DTP	808
 Senegal. The Gambia	14212
+Senegal. Topic	16772
 Senegal. Wave	10929
 Senegal.' DFC	1437
 Senegal.md	4467
 Senegal16	13681
-Senegalese	287,100,260,1654,10,22,211,56,27,971,14,253,938,109,85,36,21,2,274,220,122,24,266,23,884,94,143,177,7,129,124,1301,1118,1,160,53,753,741,399,2123,512,580,685,39
+Senegalese	287,100,260,1654,10,22,211,56,27,971,14,253,938,109,85,36,21,2,274,220,122,24,266,23,884,94,143,177,7,129,124,1301,1118,1,160,53,753,741,399,2123,512,580,685,39,805
 Senegalese Agency for Digital Development	4912
 Senegalese B2B	11911
 Senegalese Business Movement	2288
@@ -1102,6 +1111,7 @@ Senegal’s Constitutional Council	5163
 Senegal’s Diamniadio Lake City and Morocco’s Mohammed	4563
 Senegal’s Digital Ministry	5985
 Senegal’s Intercommission	9963
+Senegal’s Interior Ministry	16813
 Senegal’s Minister of Telecommunications and Digital Affairs	12877
 Senegal’s Ministry of Communication	5672,676
 Senegal’s Ministry of National Education	2550
@@ -1128,6 +1138,7 @@ Senghor	10865,1468
 Sengstag T	14666
 Sengupta	7592,1014
 Senguènèga Yatenga Nord	15715
+Senhas	15912
 Senhor Presidente da Assembleia Nacional Senhoras	1265,683,13944
 Senhor Presidente da Assembleia Nacional Senhores Membros	15892
 Senhores	11561
@@ -1139,7 +1150,7 @@ Senhores Deputados Nos	1948
 Senhores Deputados O OE	1948
 Senhores Deputados O Orçamento	1948
 Senhores Membros	1265,683
-Senhorio	16056
+Senhorio	16056,82
 Senhorios	16056
 Seni Oedraogo	15765
 Seni Ouedraogo	15765
@@ -1196,9 +1207,9 @@ Senior Communication Officer	4123,8986,371
 Senior Communications and External Affairs Officer	11136
 Senior Company Executives and HR	6632
 Senior Computer Support Officer Procurement and Supply	14835
-Senior Consultant	11156,4768
+Senior Consultant	11156
 Senior Conveyancer	7278
-Senior Counsel	9636,1479,1548,3242,19
+Senior Counsel	9636,1479,1548,3242
 Senior Country Economist	4840,7341
 Senior Data Protection Analyst World Press	4800
 Senior Data Scientist	9541
@@ -1210,7 +1221,7 @@ Senior Development Officer	11897
 Senior Development Specialist	14897
 Senior Digital Competency and Curriculum Specialist	11750
 Senior Digital Development Mohamed Hamid	14897
-Senior Digital Development Specialist	2989,605,7171,10,770,2465,1009,905
+Senior Digital Development Specialist	2989,605,7171,10,770,2465,1009
 Senior Digital Governance and Service Management Consultant	4766
 Senior Digital Health Business Analyst Ministry	15019
 Senior Digital Identity Consultant	3005
@@ -1231,25 +1242,24 @@ Senior Director of Public Policy and Communications	9820
 Senior Economic Advisor	3237,2
 Senior Economic Advisor. Follows the April EO	3237
 Senior Economic Assistant	3895
-Senior Economist	2989,3949,3825,49,29,295,135,910,482,38,681,150,1245,120,167,409,7,425,19
+Senior Economist	2989,3949,3825,49,29,295,135,910,482,38,681,150,1245,120,167,409,7,425
 Senior Economist Eliane Razafimandimby Ramiandrison Senior	14576
 Senior Economist Mamadou Saliou Diallo	16675
 Senior Economist Sector Specialist	14897
 Senior Economist. Felicia	11131,3
 Senior Economiste	7655
 Senior Education Programme FENECO Manager Confédération	11916
-Senior Education Specialist	2989,9423,3068,444
+Senior Education Specialist	2989,9423,3068
 Senior Education Specialist Borrower	16675
 Senior Election Officer	9645
 Senior Electrical Engineer	15075
 Senior Employment Officers	13037
-Senior Energy Specialist	11136,4788
+Senior Energy Specialist	11136
 Senior Energy Specialist Matteo Maria Malacarne	16654
 Senior Engineer	6946,6419,1380,25
 Senior Environment Specialist	2989
 Senior Environment Specialist Isabelle Bautista	15905
 Senior Environmental Engineer	15019
-Senior Environmental Specialist	15924
 Senior Ethiopian	14121
 Senior Executive Service Program	9211
 Senior Expert	10812
@@ -1261,12 +1271,10 @@ Senior Faculty Officer	13089
 Senior Fellow	5440,1711,2558,1973
 Senior Finance Officer	6946
 Senior Finance Operations Assistant Permanent Secretary	14835
-Senior Finance and Blue Economy Consultant	15924
 Senior Financial	14897
 Senior Financial Analyst	11863
 Senior Financial Management Officer	13938
 Senior Financial Management Specialist	11545,2340,1134
-Senior Financial Officer	15924
 Senior Financial Operations Officer	14835
 Senior Financial Sec-	14897
 Senior Financial Sector Specialist	3238,7525,78,295,1527,38,611,2,1583,260,316
@@ -1275,7 +1283,7 @@ Senior Fragility	10572
 Senior Gardener	14760
 Senior Gender Analyst	12972
 Senior Gender Analysts	12977
-Senior Governance Specialist	761,10784,322,4057
+Senior Governance Specialist	761,10784,322
 Senior Government	14295,228
 Senior Government Officials	12660
 Senior Government Officials Their Excellencies	10210
@@ -1361,14 +1369,14 @@ Senior Political Advisor	7721
 Senior Presidential Envoy	3583
 Senior Primary	1987
 Senior Private Sector Development Specialist	10841
-Senior Private Sector Specialist	10841,1190,150,520,611,2,1843,316,451
+Senior Private Sector Specialist	10841,1190,150,520,611,2,1843,316
 Senior Private and Abdoulaye Ouedraogo	14897
 Senior Procurement Officer	11863
 Senior Procurement Operations Officer	13938
 Senior Procurement Specialist	1284,1705,8878,1464
 Senior Procurement Specialist Address	13185
 Senior Procurement and Supply Officer	14835
-Senior Program Assistant	11136,4788
+Senior Program Assistant	11136
 Senior Program Assistant ICT Sector Unit	15372
 Senior Program Officer	12663
 Senior Programme Advisor	4046
@@ -1455,6 +1463,7 @@ Senior Vice-President and Head of Products	6986
 Senior Vice-President of Research	7975
 Senior Volunteer and Executive Programme	14748
 Senior Writer Techpoint Digest Stop	4554
+Senior and Junior Quarterly	15845
 Seniority Level	11955
 Senkoro	7321
 Sennar	5118,9779,58,219,32
@@ -1478,6 +1487,7 @@ Sensibilisation du CS	16618
 Sensibilisations	3396
 Sensibiliser	1005,891,1220,265,7436,148,967,12,1346,11,40,49,391,644,112,853,122,200,136,4,56,26,394,170,47,101,28
 Sensibilizar	1701,13983,5
+Sensibilização	15694
 Sensibilização de Professores	12777
 Sensing	395,1698,14042
 Sensitisation	1877,111,13616
@@ -1486,7 +1496,7 @@ Sensitisation Workshop	8278
 Sensitisation and Training	11956
 Sensitisations	12253
 Sensitise	1988,10265
-Sensitive	27,7,938,248,113,18,279,237,10,232,600,421,499,232,505,495,223,160,306,115,310,3144,36,617,385,751,66,543,426,13,39,190,8,108,118,213,345,59,283,62,1068,75,266,117,14,64,176,181
+Sensitive	27,7,938,248,113,18,279,237,10,232,600,421,499,232,505,495,223,160,306,115,310,3144,36,617,385,751,66,543,426,13,39,190,8,108,118,213,345,59,283,62,1068,75,266,117,14,64,176,181,1445
 Sensitive Data	3861,7370,1188
 Sensitive Data Any	2958
 Sensitive Data Data Retention and Lawful	1243
@@ -1513,6 +1523,7 @@ Sensitivity Valuation	13053
 Sensitization	1988,10333,7,120,1285,205,804,118
 Sensitization The KIIs	12978
 Sensitization of Informal Cross-Border Traders	14935
+Sensitizations	15845
 Sensitize	170,1818,9869,396,75,984,2,1575,241
 Sensitizing	11129
 Sensor	794,167,6994,4994
@@ -1600,6 +1611,7 @@ SÍNTESE DO DIAGNÓSTICO DO SEN	15535
 T-I18. Senior AI Experts Cultivation and Attraction	15713
 Tamasauskas Associate Partner Gorazd Majstorovikj Senior	14621
 Tana River Senator Danson Mungatana	14665
+Tanzania and Senegal	16778
 Tanzania's Watumishi and Senegal's Numerique	13688
 Task Force of Senior Officials	13417
 Task Team Leader and Senior Social Protection	15006

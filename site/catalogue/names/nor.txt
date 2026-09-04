@@ -825,12 +825,14 @@ Nordpol	8530
 Norebase	7631,2238
 Norebase's State of Expansions	7631
 Nored	12399
-Norfund	211,179,314,1,2,1,2,183,35,209,1095,1,1,3,914,5461,1608,955,2081
+Norfund	211,179,314,1,2,1,2,183,35,209,1095,1,1,3,914,5461,1608,955,2081,3518
 Norfund African	10220
 Norfund EUR	708
 Norfund LinkedIn	2232
 Norfund PDF. M-KOPA	198
 Norfund USD	211,302,1721
+Norfund's	16774
+Norfund's US	16774
 Norfund. FX	864
 Norfund. WeLight	390
 Noriana Muneku	13571
@@ -838,7 +840,7 @@ Noriana Muneku Permanent Secretary	13392
 Norleo Space Investments	10162,37,1
 Norleo Space Investments and Grant Gordon	10162
 Norm Average	13310
-Norma	15,11446,850,463,2730,141
+Norma	15,11446,850,463,2676,54,141,493
 Norma Ambiental	11390,152
 Norma Angolana	11450
 Norma ISO IEC	11381
@@ -991,7 +993,7 @@ North Africa. Recent	4084
 North African	2673,4,291,960,124,32,84,27,433,346,366,36,577,612,127,2136,378,1486,1547,97,1869,483
 North African Power Pool	11149
 North Africa’s Digital Health Push Tunisia	7766
-North America	144,846,1,45,1800,600,346,644,88,349,109,850,252,327,97,192,142,165,105,54,52,194,171,180,510,85,803,4,554,106,15,258,32,83,18,471,22,4,46,21,355,888,367,2424,178,1415
+North America	144,846,1,45,1800,600,346,644,88,349,109,850,252,327,97,192,142,165,105,54,52,194,171,180,510,85,803,4,554,106,15,258,32,83,18,471,22,4,46,21,355,888,367,2424,178,1415,401
 North America and Asia	8936,4596
 North America and Europe	2948,2622,1135,5217
 North America and Europe. Africa	7281
@@ -1315,7 +1317,7 @@ Norway Registers Development	12675,1791,4
 Norway South-South Trilateral Cooperation	15500
 Norway and Rwanda	5175
 Norway and Switzerland	9424,2777
-Norway's Development Finance Institution	13256
+Norway's Development Finance Institution	13256,3518
 Norway's Ministry of Foreign Affairs	8561
 Norway. Initially	766
 NorwayIt	11529

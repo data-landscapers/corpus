@@ -8,10 +8,14 @@ Comunicação Unidades Curriculares Horas	12019
 Convenção da Organização de Unidade Africana	11364,1
 Crear Unidades de Negocio	1701
 DAS UNIDADES ESCOLARES	10766
+DGIS DGT Unidade IG	15694
 DISTRIBUIÇÃO POR UNIDADE ORGÂNICA	11531
+DNE Unidade	15694
+DNE Unidade DD063061-D0E2-4804-8778-73FA945E4D17	15694
 Desenvolvimento Unido	12201
 Diretor-Geral da Unidade de Informação Financeira	15881
 Dos Unidades de Ramificación	3179
+E Unidade	15694
 ECV Unidade Orgânica Faculdade de Ciências	12019
 EMIRATOS ARABES UNIDOS DUBAI	4209
 Estados Unidos	1701,1115,277,426,88,85,5068,103,1888,9,17,779,3824
@@ -31,7 +35,7 @@ Nacionales Unidas	975
 Naciones Unidad	975
 Naciones Unidas	758,217,726,2508,3839,2439,541,4450
 Nações Unidades	11569,4397
-Nações Unidas	220,575,420,593,593,180,235,232,992,4,102,565,36,525,546,200,154,754,740,643,165,156,145,485,1060,430,27,331,256,1,6,5,3,8,3,3,1,2,1,9,10,5,25,5,4,27,41,15,5,4,10,5,2,2,3,8,386,179,635,22,24,7,32,2401,81,133,55,3,159,130,142,16,9,5,255
+Nações Unidas	220,575,420,593,593,180,235,232,992,4,102,565,36,525,546,200,154,754,740,643,165,156,145,485,1060,430,27,331,256,1,6,5,3,8,3,3,1,2,1,9,10,5,25,5,4,27,41,15,5,4,10,5,2,2,3,8,386,179,635,22,24,7,32,2401,81,106,27,55,3,159,130,142,16,9,5,255
 Nações Unidas CV	15966
 Nações Unidas Em Março	2816
 Nações Unidas Guiné-Bissau	11547
@@ -89,10 +93,13 @@ Unidad	4209
 Unidad Regional	11525
 Unidad de Gestión de SYDONIA	4209
 Unidad de Orientación Profesional	4209
-Unidade	12770,2735,189
+Unidade	12770,2735,21,168
 Unidade Africana	11530
 Unidade Buba	11552
 Unidade Cacheu	11552
+Unidade Estatística	15450
+Unidade Estatística Identificável	15450
+Unidade Estatística Não Identificável	15450
 Unidade Industrial	11443
 Unidade Nacional	12787
 Unidade Operacional	11569
@@ -105,11 +112,12 @@ Unidade de Acompanhamento	15526,398
 Unidade de Competitividade	11898,123
 Unidade de Coordenação	15391,135,530
 Unidade de Coordenação da Reforma	15392
-Unidade de Gestão	8166,7890
+Unidade de Gestão	8166,7360,530
 Unidade de Gestão da Casa	16022
 Unidade de Gestão de Aquisições Centralizadas	16056
 Unidade de Gestão de Projectos Especiais	8166,3689,4255
-Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56,3505,457,127,77,134,172
+Unidade de Gestão de Projetos Empresarial	15526
+Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56,3962,127,77,134,172
 Unidade de Governo	11569
 Unidade de Iformação Financeira. Decreto-Lei	15359
 Unidade de Implementação	11390,50,1,1,21,79
@@ -117,25 +125,25 @@ Unidade de Informação Financeira	6360,5008,315,3676
 Unidade de Informação Financeira de Cabo Verde	11683
 Unidade de Intermediação da Mão de Obra	10778
 Unidade de Investigação Tecnológica	549
-Unidade de Promoção	15526
+Unidade de Promoção Setor Empresarial	15526
 Unidade de Tecnologias	3118,12408
-Unidades	539,1162,5269,4435,11,5,156,442
+Unidades	539,1162,5269,4435,11,5,156,442,3507
 Unidades Curriculares Horas	12019
 Unidades Curriculares Opcionais Horas	12019
 Unidades Especiais	16290
 Unidades Especializadas	6970
 Unidades Nacionales de Referencia	1701
-Unidades Orgânicas	15503
+Unidades Orgânicas	15503,23
 Unidades Sanitárias	11401
 Unidades Sanitárias de Base	16019
 Unidades TIC	15476
 Unidades Territoriais	11409
-Unidades de Gestão	10752,5172
+Unidades de Gestão	10752,4774
 Unidades de Gestão Provinciais	10752
 Unidades de Implementação	7945
 Unidades de Processamento Gráfico	2816
 Unidades de Saúde	11363
-Unidas	4641,6928
+Unidas	4641,6928,4125
 Unidentified	14714,1
 Unido Africana	15477
 Unidos	1192,5421,4776,1418

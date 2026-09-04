@@ -110,6 +110,8 @@ Bidder’s Reference	14778
 Blockchain for Refugees	12227
 Blueprints and Reference	9124
 BoZ. The Payment Reference Number	12364
+Board Ghana Refugee Objective	15845
+Board Ghana Refugee Programme	15845
 Boards Support Bujagali Refinancing Package	11310
 Body Ministry of Justice Ref. No	13035
 Body Refugees and Returnees Service	14118
@@ -270,6 +272,7 @@ Contexto A Reforma	11442
 Continuous Operation Reference System. Despite	13645
 Continuously Operating GNSS Reference Stations	12457
 Contract. The Terms of Reference	13031
+Cooperative Reform and Revamp Programme	16796
 Core Pillars of Public Governance Reform	7063
 Core Pillars of Public Governance Reform Senegal	7063
 Core References	4528,7984
@@ -378,7 +381,7 @@ Digital Infrastructure Reforms	1120,385
 Digital Literacy Refers	13347
 Digital Public Infrastructure Reform	11236
 Digital Transition and Administration Reform	1885,1995,1480,6422
-Digital Transition and Administrative Reform	5890,1034,245
+Digital Transition and Administrative Reform	5890,1034,245,9632
 Digital and Human Capital Reform DPF	763,418
 Dir Postal Sector Reform and Regulation EN	16594
 Director of Reforms	14505
@@ -522,6 +525,7 @@ F. REFERENCED INTERNATIONAL STANDARDS RSB	15027
 F. Reform Scenarios	10997
 F.1 Lessons Reflected	11863
 FDI. Reforms	12376
+FECAD Reforço	15694
 FERFA Kenya Petroleum Refineries Limited Kenya	12256
 FGS PFM Reforms Advisor. The Consultant	15090
 FINANCE Terms of Reference	12008
@@ -540,6 +544,8 @@ Fair Reference	5679
 Fase de Avaliação Global da Reforma Educativa Formação	10766
 Federal Civil Service Reform Agenda	7973
 Federal Commissioner for Refugees	12145
+Female Annually Ghana Refugee	15845
+Female Annually Ghana Refugee Board Objective	15845
 Fertilizer Rwanda’s Refugee Strategy Focuses	6526
 Fewer Refugees	12227
 Fichier Unique de Reference	15631
@@ -590,7 +596,10 @@ Get Kenya's Refugee Act Right. CNBC	12297
 Get Microdata Reference ID COG 2024 FINDEX v02 M DOI	15844
 Ghana Pushes Tech-Law Reforms	4897
 Ghana Ref	9728
-Ghana Refugee Board	16592
+Ghana Refugee	15845
+Ghana Refugee Board	15845,747
+Ghana Refugee Board Limited	15845
+Ghana Refugee Board Track	15845
 Global Compact for Refugees	10841
 Global Framework for Refugee Education	11905
 Global Framework of Reference	11879,1435,677,1456,27,19
@@ -1224,9 +1233,12 @@ Public-Private Partnerships QR Quick Reference R&D	14965
 Publicação de Ofertas de Referência	11430
 Quadro de Referência	2816
 Quadro de Referência de Recursos Humanos	2816
+Quarterly Ghana Refugee	15845
 Questionable Data Representation Reflects	11105
 Quick Reference Summary	14235
 R References Vancutsem C	16463
+R Refugee Board MINTER SMTDP	15845
+R Refugee Board Objective	15845
 R2. Refine	13314
 RABES UNIDOS REFORÇAM COOPERAÇÃO EM AGRICULTURA	12807
 RATIONALISATION DE L’ETAT REFORME	15722
@@ -1854,7 +1866,7 @@ Refinerías	4209
 Refining	7548,1057,2526,1125,202
 Refining the Philippine AI Regulation Act	8991
 Refinitiv The SpaceX Falcon	4244
-Refira-se	11371,198,4520
+Refira-se	11371,198,4343,177
 Reflect	11905,296,492,1298,437
 Reflect How Africans Already Move and Spend	9903
 Reflect Resource Mobilization Ministry of Education	13991
@@ -1989,8 +2001,8 @@ Reforça-se	16089
 Reforçam	3838,8977
 Reforçamos	8179
 Reforçando	4081,7290
-Reforçar	2138,678,703,627,2384,1418,1486,1942,147,3,11,32,3966,484,40,428
-Reforço	3530,7242,751,3,12,5,4,1240,12,2736,149,282,53,232,236
+Reforçar	2138,678,703,627,2384,1418,1486,1942,147,3,11,32,3966,377,107,40,428
+Reforço	3530,7242,751,3,12,5,4,1240,12,2736,149,10,272,53,232,236
 Reforço Institucional	16268,4
 Reforço Logístico	11561
 Reforço da Cadeia de Identificação	11565,1
@@ -2029,8 +2041,9 @@ Refuerzo	1701,2508
 Refuge	12227,23,1192
 Refuge Act No	1988
 Refuge Point	346
-Refugee	1867,121,3545,1267,531,3510,23,313,87,364,272,86,159,28,54,23,47,31,677,148,616,4,100,1072,13,66,220,357
+Refugee	1867,121,3545,1267,531,3510,23,313,87,364,272,86,159,28,54,23,47,31,677,148,616,4,100,1072,13,66,220,357,244
 Refugee Access	12297
+Refugee Achieve Reduce Strengthen	15845
 Refugee Act	1867,121,118,10121
 Refugee Affairs	5533,5685
 Refugee Affairs SDG Sustainable Developmental Goals	5533,6453
@@ -2123,6 +2136,10 @@ Refugee and Cross-Border Health	13870
 Refugee and Host Communities	1988
 Refugee and Host Communities Project TABLE	1867
 Refugee and Host Communities United Nations Convention	1988
+Refugee and Migration Management	15845
+Refugee and Migration Management Board	15845
+Refugee and Migration Management MINTER SMTDP	15845
+Refugee and Poor	15845
 Refugee's Life	12227
 Refugee-Led Organisations	12297
 Refugee-Led Organization Network of Kenya	12227
@@ -2154,6 +2171,7 @@ Refugees Inconsistent Basic	12297
 Refugees Intermediate Results Indicators	11924
 Refugees International	12227,70
 Refugees Married	12227
+Refugees Percentage	15845
 Refugees Platform	11079
 Refugees Proclamation No	12188
 Refugees Project	13991
@@ -2289,6 +2307,7 @@ Rural-Urban-Camp Divide for Refugees	10841
 Rwanda Public Finance Management Reform Project	321
 Rwanda's Sustainable Refugee Graduation Strategy	14970
 SA Law Reform Commission	8521
+SACKEY RAYMOND GHANA REFUGEE BOARD	15845
 SADC Mediation Reference Group	12640
 SANCTIONS RELATIVES AUX REFUS DE COMMUNICATIONS	16617
 SAP Reform	14828
@@ -2302,7 +2321,6 @@ SGG PORTANT ADOPTION DU REFERENTIEL	16733,1,1
 SI REFUS	13300
 SIG-Business Environment Reform	789
 SIGNEZ ET INSCRIVEZ VOTRE NUMÉRO REFUS	13300
-SOE Reform Agenda	15924
 SPATIAL INTEGRATION AND HOUSING REFORM Objective	11236
 SPATIAL INTEGRATION AND HOUSING REFORM PROGRESS	11236
 SSO Single Sign-On ToR Terms of Reference	15164
@@ -2520,6 +2538,7 @@ Tongogara Refugee Settlement	9794,3748
 Tower Refinancing	687
 Track Legal Reforms Women	16260
 Trade and Payment Services Ref. TED	14453
+Trade-Ins and Refurbishment Are Building the Supply	16799
 Transaction Reference Number	13333
 Transfer of Responsibility for Refugee Affairs	12227
 Transition and Administration Reform OO SS OS	1885
@@ -2574,6 +2593,7 @@ Urban Refugees	12227,70
 Urban Tenure Reforms	12912
 User Acceptance Testing RAASA Refugee Appeals	11986
 Utility Reform and Regulation	13624
+V Reforço	15694
 V. Refers	11269
 V. STRUCTURAL AND SECTORAL REFORMS	13060
 VAT Refund	12389
@@ -2623,6 +2643,9 @@ World Local Zambia Refugee and Host Community	1988
 World Refugee Day	12627,3958
 World's Refugees	12227
 World-Defining Digital Sector Reform	5871
+X MINTER Ghana Refugee	15845
+X MINTER Ghana Refugee Board	15845
+X MINTER Ghana Refugee Board Objective	15845
 X. References	6832
 X. References Aguinis	6832
 XI. REFERENCES XI. REFERENCES X. REFERENCES	13341

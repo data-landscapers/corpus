@@ -36,7 +36,6 @@ Compromissos Estratégicos	5663
 Comunicação Estratégica Planeamento	15966
 Consulta Estratégica	9289
 Contas Estratégicas da Uniti Wholesale	6356
-Contexto de Implementação da Estratégia	15694
 Costa Rica Yes Estrategia Nacional de Banda	11529
 Código da Estrada	11455
 Código da Estrada. Decreto-Lei	11983
@@ -64,6 +63,7 @@ E ESTRATÉGIAS DE LONGO PRAZO	11397
 EEDCV Estrat	15684
 EIXOS DE DESENVOLVIMENTO O Plano Estratégico	12777
 EIXOS ESTRATÉGICOS E OBJETIVOS OPERACIONAIS Recenseamento	11526
+EIXOS ESTRreAsTtrÉiçGãIoCbOaSseadas	15694
 EJE ESTRATÉGICO	1701
 EJE ESTRATÉGICO III	1701
 EJE ESTRATÉGICO IV	1701
@@ -88,6 +88,7 @@ ESTRATÉGICOS DE DESARROLLO SOSTENIBLE	1701
 ESTRATÉGICOS DE Eje Estratégico	1701
 ESTRATÉGICOS DE Eje Estratégico II	1701
 ESTRATÉGICOS DE Eje Estratégico III	1701
+ESTRAcOoTdmÉeGoseIrneAfhePorAêdnRacAEias	15694
 ESTRIOL ESTRADIOL	15930
 ESTRUTURA DE CAPACITAÇÃO E FORMAÇÃO	2816
 ESTRUTURA DE CUSTOS DA EMPRESA	10757
@@ -96,10 +97,11 @@ ESTRUTURA DO SEN	15535
 ESTRUTURA DO SEN O SEN de Cabo	15535
 ESTRUTURA ETÁRIA	11531
 ESTRUTURA HABILITACIONAL	11531
+ESTRUTURA ORGÂNICA	15526
 ESTRUTURA ORGÂNICA Capítulo I De Naure	15503
 ESTRUTURANTES ADMINISTRATIVOS EST-ADM1 Equipa da DNMA	15532
 Egipto A Estratégia Nacional de Inteligência Artificial	3519
-Eixo Estratégico	11543,1234
+Eixo Estratégico	11543,1234,2917
 Eixos Estratégicos	12777,2795
 Eje Ejes Estratégicos de Desarrollo Sostenible Sistemas	1701
 Eje Estratégico	1701
@@ -126,7 +128,7 @@ Estrangeira Licenciamento	11571
 Estrangeiras	10755
 Estrangeiro	539,10825,1,70,93,9,24,378,3581,507
 Estrangeiro Estou	12018
-Estrangeiros	3192,707,361,1132,1179,2828,591,723,652,754,3225,132,551,397
+Estrangeiros	3192,707,361,1132,1179,2828,591,723,652,754,3225,132,50,501,397
 Estrangeiros de Angola	10765,10
 Estrangeiros. Operacionalidade	6530
 Estrasburgo	15509
@@ -158,7 +160,7 @@ Estrategia de Seguimiento	11743
 Estrategia. La Supervisión de Evaluación	1701
 Estrategia. Una	1701
 Estrategias	1701
-Estratégia	795,473,870,678,703,627,6294,332,594,95,86,15,7,286,18,269,3334,56,40,122,268,4,168
+Estratégia	795,473,870,678,703,627,6294,332,594,95,86,15,7,286,18,269,3334,50,6,40,122,268,4,168
 Estratégia A3 GOVERNAÇÃO DIGITAL DA GUINÉ-	11569
 Estratégia Angola	11366
 Estratégia Brasileira de Inteligência Artificial	2816,703
@@ -198,6 +200,7 @@ Estratégia Nacional de Transformação Digital	2816,3769,4984,1240,21
 Estratégia Nacional de Transformação Digital da Guiné-Bissau	11569
 Estratégia Nacional de Vacinação	15966
 Estratégia PILLER. ARTIGO	11530
+Estratégia Para	15694
 Estratégia da Cooperação Portuguesa	11455
 Estratégia da Economia Digital	3667
 Estratégia da Economia Digital de Cabo Verde	2690,1391,1362,10241,5,530
@@ -212,6 +215,7 @@ Estratégia de Cooperação da OMS	15966
 Estratégia de Desenvolvimento Agrosilvopastoril	15433
 Estratégia de Desenvolvimento Estatístico	10757
 Estratégia de Desenvolvimento da Estatística	6619
+Estratégia de EIPcD	15694
 Estratégia de Economia Digital	16347
 Estratégia de Expansão da Rede de Educação	11387
 Estratégia de Gestão da Dívida	12796
@@ -225,6 +229,8 @@ Estratégia de Género	11562
 Estratégia de IA	15689
 Estratégia de Implementação	795,2021,4920,4406
 Estratégia de Implementação da PNPS	11547
+Estratégia de Inclusão	15694
+Estratégia de Inclusão Figura	15694
 Estratégia de Inclusão Social	11562
 Estratégia de Inclusão de Pessoas	15694
 Estratégia de Integração Local Efetiva	11530
@@ -262,6 +268,7 @@ Estratégicas	1701
 Estratégico	11569
 Estratégico Nacional	11543
 Estratégico da Conectividade Intermodal	16056
+Estratégico de Desenvolvimento Sustentável	15526
 Estratégicos	11569
 Estreito de Ormuz	11432
 Estrela	4938
@@ -272,7 +279,7 @@ Estructuración	1701
 Estructuración de Actividades Económicas	1701
 Estructuración de Actividades Económicas ODS	1701
 Estructurar	1701
-Estrutura	13,4031,2926,3785,2,26,576,11,20,16,19,27,4,72,9,18,3803,34,134,9,375
+Estrutura	13,4031,2926,3785,2,26,576,11,20,16,19,27,4,72,9,18,3803,34,58,76,9,375
 Estrutura Institucional	11569
 Estrutura Legal	11898
 Estrutura Organizacional	3519
@@ -342,7 +349,6 @@ Los Centros de Decisión Económica Estratégica	1701
 Língua Estr. III	15772
 Línguas Estrangeiras	15772
 MECANISMO E ESTRATÉGIA DE MOBILIZAÇÃO	15535
-MFFE. CAPÍTULO II ESTRUTURA ORGÂNICA Secção	15526
 MISSÃO E METAS O Plano Estratégico	12777
 MONITOREO Y EVALUACIÓN DE LA ESTRATEGIA	1701
 MONITORIZAÇÃO E REVISÃO DA ESTRATÉGIA NACIONAL	4146
@@ -356,11 +362,13 @@ NORETHISTERONE ESTRADIOL	15930
 Na Direção de Estrangeiros	16027
 Nametil-Angoche Inauguração da Estrada Maroeira	9432
 Negócios Estrangeiro	2688
-Negócios Estrangeiros	2688,3330,952,4423,135,41,1231,2726,46,183,301
+Negócios Estrangeiros	2688,3330,952,4423,135,41,1231,2772,183,301
 Negócios Estrangeiros Pela República Democrática de São	11393
 Não EST-LEG2 Decreto-lei de Estruturação	15532
 O Plano Estratégico	11442,2,1333,2656
+O Plano Estratégico Plurianual	15912
 O Plano Estratégico de Desenvolvimento Sustentável	15433
+O Serviço de Planeamento Estratégico	15526
 OBJETIVOS ESTRATÉGICOS	15535
 OBJETIVOS ESTRATÉGICOS OE1 OE2 OE3 OE4	11569
 OBJETIVOS ESTRATÉGICOS Para	15535
@@ -398,6 +406,7 @@ PROPOSTA ESTRATÉGIAS DE RETENÇÃO	2816
 PROPOSTAS ESTRATÉGICAS PARA SUPERAR OS DESAFIOS	2816
 Parceria Estratégica	11564
 Paz Sostenible. Eje Estratégico III	1701
+PcD Eixo Estratégico	15694
 Pilares Estratégicos	5663
 Pilares Estratégicos EEDCV Estratégia da Economia Digital	15689
 Plan Estratégico	975,3234
@@ -406,19 +415,19 @@ Plan Estratégico Nacional de Nutrição	11525
 Planeamento Estratégico	11543
 Planeamento Estratégico de Sistemas de Informação	12019
 Planes Estratégicos Quinquenales	1701
-Plano Estratégico	167,3439,1,849,6316,607,11,2,51,9,74,17,1234,3147
+Plano Estratégico	167,3439,1,849,6316,607,11,2,51,9,74,17,1234,2749
 Plano Estratégico Existem	11379
 Plano Estratégico Nacional	7707
 Plano Estratégico Nacional da Pessoa Idosa	15966
+Plano Estratégico Plurianual	15912
 Plano Estratégico da Inspecção-Geral da Administração	11452
 Plano Estratégico da Pessoa Idosa	15966
 Plano Estratégico da Sociedade de Informação	2816
 Plano Estratégico da UEM	9694
 Plano Estratégico da WATRA	11531
 Plano Estratégico de Desenvolvimento PEDS Sustentável	11855
-Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081,3511,15,35,6,3,149,240,59
+Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081,3511,15,35,6,3,149,299
 Plano Estratégico de Desenvolvimento Sustentável II	15684,5
-Plano Estratégico de Desenvolvimento Sustentável. Com	15526
 Plano Estratégico de Desenvolvimento da Polícia Nacional	11392
 Plano Estratégico de Mobilização de Apoio Climático	15962
 Plano Estratégico de Universalização	10772
@@ -450,6 +459,7 @@ Proposta da Estratégia Nacional de Transformação Digital	12830
 Proposta de Acções Estratégicas	2816
 Proposta de Estratégia Nacional	3558
 Propostas Estratégicas	2816
+PçcãDo da Estratégia de Inclusão	15694
 QUADRO ESTRATÉGICO NACIONAL	11390
 Quadro Estratégico da ENIF	11426
 Quadro de Acções Estratégicas	2816
@@ -472,8 +482,10 @@ Santos. A Estratégia Nacional	16134
 Sector Postal Estratégia	12794
 Segundo Plano de Desenvolvimento Estratégico	5443,10776
 Serviço de Migração Estrangeiros	3899
+Serviço de Planeamento Estratégico	15526
 Serviços de Estrangeiros	15503,519
 Silva RESUMO EXECUTIVO ESTRATÉGIA DE DESENVOLVIMENTO	15433
+Sistema de Coordenação da Estratégia Multissetorial	15694
 Sostenible EJE ESTRATÉGICO II	1701
 Standalone Estratégia Nacional de Saúde Digital	7707
 Sul A Estratégia Nacional de Inteligência Artificial	3519

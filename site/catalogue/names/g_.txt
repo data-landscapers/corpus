@@ -199,7 +199,7 @@ G Fifth Generation ASPs Application Service	6671
 G Fifth Generation B2B Business	13346
 G Fifth Generation Network ABMT Appropriate	2775
 G Fifth Generation Telephone Wireless Technology	11857
-G Fixed Wireless Access	6100
+G Fixed Wireless Access	6100,10710
 G Fourth Generation	6671,6675
 G Fourth Generation GSM GNI Gross	14897
 G Fourth Generation Network	2775
@@ -267,7 +267,7 @@ G NI	15471
 G NR	14780,45
 G NR ETSI EN	14780,45
 G NSA	8828
-G NTN	5528
+G NTN	5528,11283
 G National Software Development Guideline Title	5665
 G Nchini	6019
 G Nemerk	3972
@@ -383,6 +383,7 @@ G URINE FONCÉ	13300
 G URL	14780,45
 G USIM	5391
 G USSD	4150
+G Ultrawideband	16810
 G Utilization Gap	6051
 G VERNANCE GOVERNANCE GOVERNANCE GOVERNANCE GOVERGNAONCVE	10785
 G VOIE RECTALE	13300

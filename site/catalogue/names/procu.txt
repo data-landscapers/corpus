@@ -79,7 +79,6 @@ CHAPTER NINE PROCUREMENT	6946
 COMMANDING OR PROCURING TO COMMIT OFFENCE	11190
 CONSULTANCY FIRMS PROCUREMENT TITLE	14486
 CONSUMABLES Procurement	12962
-Cabo Verde UGA Procurement Management Units	15924
 Central Medical Stores Procurement Depa1tment	4260
 Central Procurement Board	14745,21,81
 Central Procurement Board of Namibia	12951
@@ -413,18 +412,19 @@ Procurar Ajuda	10777
 Procuration	15399
 Procuration Irrévocable	15399
 Procuração	15396
-Procure	1264,724,8476,669,167,686,267,69,2468,532
+Procure	1264,724,8476,669,167,686,267,69,2468,532,523
 Procure Aligned Services	11995
 Procure Check	11240
 Procure Electronic	1988
 Procure Founded	10464
 Procure IPP	12399
+Procure Nationwid X X X X	15845
 Procure. Lipa Later Lipa Later	10464
 Procured	1988,7411,1151,306,14
 Procurem	13938
 Procureme	13938
 Procuremen	6432
-Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341,74,17,27,1,9,4,5,10,15,9,3,20,5,80,63,129,17,1,25,35,28,39,68,79,55,277,72,70,105,39,232,109,56,53,55,7,2,8,4,2,31,19,28,28,9,21,46,31,54,9,3,49,10,48,26,26,152,30,39,13,87,7,35,48,18,39,1,2,2,41,9,69,8,111,82,96,65,292,178,40,9,42,9,33
+Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341,74,17,27,1,9,4,5,10,15,9,3,20,5,80,63,129,17,1,25,35,28,39,68,79,55,277,72,70,105,39,232,109,56,53,55,7,2,8,4,2,31,19,28,28,9,21,46,31,54,9,3,49,10,48,26,26,152,30,39,13,87,7,35,48,18,39,1,2,2,41,9,69,8,111,82,96,65,292,178,40,9,42,9,33,46
 Procurement A1-Local AI	7548
 Procurement AI	4126
 Procurement Act	12961,1789
@@ -567,7 +567,7 @@ Procurement STI Sexually Transmitted Infection TFP	10829
 Procurement SUW Scale-Up Window TA Technical	3604
 Procurement SUW Scale-up Window TSO Transmission	15983
 Procurement Section	14745
-Procurement Specialist	1228,1661,3650,4986,1175,317,41,274,1687,171,234,129,48,60,2,261
+Procurement Specialist	1228,1661,3650,4986,1175,317,41,274,1687,171,234,129,48,60,2
 Procurement Specialist AFTPC Clement Tukeba Lessa	15372
 Procurement Specialist Ato Abebe Gebremedhin	12195
 Procurement Specialist Dir. New Congo Telecom	15372
@@ -698,6 +698,7 @@ Public Procurement Administrative Review Board	2512,9601
 Public Procurement Appeals Authority	8616
 Public Procurement Authority	4126,48,2762,521,2271,111,3,577
 Public Procurement Authority's GHANEPS	10305
+Public Procurement Authority’s Average Price Database	15845
 Public Procurement Board	14841
 Public Procurement Code	11905,3613
 Public Procurement Code. Single Investment Window	11939

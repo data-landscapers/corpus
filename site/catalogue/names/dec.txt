@@ -166,9 +166,10 @@ CNIA. CONSELHO DE MINISTROS Decreto	12823
 COLLABORATION A Engage Decision-Making Engage	961
 COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF	5692
 CONSELHO DE MINISTROS Decreto	12774,8,1,3436
-CONSELHO DE MINISTROS Decreto-Lei	16056,320
+CONSELHO DE MINISTROS Decreto-Lei	16056
+CONSELHO DE MINISTROS Decreto-lei	15526
 COTONOU DECLARATION I. PREAMBLE	15939
-CRI Dec	15924,220
+CRI Dec	16144
 CRVS Decade	9535,13,217,3455,24,433,1
 Cabinet Decision	12946,1807
 Cabinet Decision No	12984,113
@@ -727,7 +728,7 @@ Decentralizing Legal Identity	13095
 Decentralizing Legal Identity SL. No. Distrct	13095
 Deception	7777
 Decibels	1112
-Decide	2277,16,17,19,88,121,14,210,64,180,5,1,53,46,22,18,62,165,92,110,41,104,2,10,192,13,22,81,146,133,99,138,41,199,33,154,66,1,29,288,91,11,232,37,126,11,34,225,389,55,265,123,135,177,1,98,14,4805,570
+Decide	2277,16,17,19,88,121,14,210,64,180,5,1,53,46,22,18,62,165,92,110,41,104,2,10,192,13,22,81,146,133,99,138,41,199,33,154,66,1,29,288,91,11,232,37,126,11,34,225,389,55,265,123,135,177,1,98,14,4805,570,4053
 Decide AI	7396
 Decide Better With Us	9561
 Decide for Work	7396
@@ -736,7 +737,7 @@ Decidem	11455
 Decides	5825,8955,45
 Deciding	6635,4495
 Deciding Award of Contract Qualification	13031
-Decidir	11382,519,3490
+Decidir	11382,519,3490,135
 Decilitro Sistema de Posicionamento Global Hepatite B	10777
 Decimal	736,11624
 Deciphering Ethiopia	3176
@@ -880,7 +881,6 @@ Declaração de Autorização	11404
 Declaração de Bletchley	2816
 Declaração de Cessação de Actividade	12018
 Declaração de Compromisso Antes	6462
-Declaração de Educação	15694
 Declaração de Inicio de Actividade	12018
 Declaração de Kazan	2816
 Declaração de Lisboa	11393
@@ -889,7 +889,6 @@ Declaração de OPMS	11430
 Declaração de Oliver Tambo	15477
 Declaração de Receitas Eventuais	11532
 Declaração de Rendimentos Mod	12018
-Declaração de Salamanca	15694
 Declaração de São Luís	2816
 Declaração de Titularidade	15388
 Declarações	3589,7773,57,3939,38
@@ -954,7 +953,7 @@ Decreasing Better	1940
 Decreasing Incomes	12445
 Decree	10,1,14,551,393,413,436,289,1418,79,1351,27,191,1652,110,3830,10,37,29,107,602,350,5,19,31,206,40,93,1019,18,26,2015,21,80,19,26,48,93,2,78,230,8,102
 Decree Absolute Certificate	12639
-Decree Law	10775,1094,292,3822
+Decree Law	10775,1094,292,3763,59
 Decree Law No	14934,539
 Decree Laws	15531
 Decree N	13313,18
@@ -964,8 +963,8 @@ Decree No. Key	15473
 Decree No.100	13357
 Decree No.2010-554	15372
 Decree Nº2018-0690	15550
-Decree- Law	10765
-Decree-Law	10775,1080,21,15,403,2567,65,467
+Decree- Law	10765,5159
+Decree-Law	10775,1080,21,15,403,2567,65,467,531
 Decree-Law No	11550,3,319,3521
 Decree-law No	9494
 Decrees	10841,4818
@@ -978,7 +977,7 @@ Decret-N	13334
 Decret-N24-186PR-du-19-decembre-2024.pdf	2048,1,1,1,1,1
 Decret-N26-003PR-du-16-jan-2026.pdf	2048,1,1,1,1,1,2591,1,1,1,1,1
 Decreta	11520
-Decreto	6,157,4,409,219,731,329,272,310,1,378,50,1343,65,2567,259,948,1361,1369,612,15,30,21,63,1,7,15,27,8,218,188,328,463,8,1,1,4,3,2,8,11,11,6,13,12,2526,53,44,49,6,240,183,264
+Decreto	6,157,4,409,219,731,329,272,310,1,378,50,1343,65,2567,259,948,1361,1369,612,15,30,21,63,1,7,15,27,8,218,188,328,463,8,1,1,4,3,2,8,11,11,6,13,12,2526,53,44,55,240,183,264
 Decreto Colonial	15392
 Decreto Estratégia Nacional	11569
 Decreto Executivo	4218,6533,32,600,7,15,14,7,26,6
@@ -997,19 +996,19 @@ Decreto Presidencial	13,154,263,314,8,42,421,1150,1154,88,539,1,71,339,2284,1468
 Decreto Presidencial. Artigo	13
 Decreto Regulamentar	11455,3982
 Decreto-	15470
-Decreto- Lei	15694
+Decreto- Legislativo	15526
+Decreto- Lei	15694,218
 Decreto- Regulamentar	15772
 Decreto-Legislativo	2054,5412,4432,3482,12,12,122,168
 Decreto-Lei	2054,4408,1004,3892,7,21,2,16,57,55,2,19,361,85,35,2173,1164,3,1,21,11,1,4,8,29,37,6,44,73,101,61,17,52,88,43,67,34,66,254
 Decreto-Lei Nº	15470
-Decreto-Lei Sumário Cria	15912
 Decreto-Lei de Execução	16056
 Decreto-Lei de Execução Orçamental	16056
 Decreto-Lei-N	11519,31
-Decreto-Regulamentar	1342,89,1,2978,9,7482,3491,41,70,1,16
+Decreto-Regulamentar	1342,89,1,2978,9,7482,3491,41,17,53,1,16
 Decreto-Regulamentar Nº	15520
 Decreto-legislativo	11933,3500,7
-Decreto-lei	1342,89,1,2978,9,7107,375,82,3375,22,8,3,13,99,1,22,6,40,21,96,5,61,200,67
+Decreto-lei	1342,89,1,2978,9,7107,375,82,3375,22,8,3,13,99,1,22,6,40,21,96,5,61,200,67,116
 Decreto. ARTIGO	11527,1256
 Decreto. Art	576,2290,1408,8500,8
 Decreto. Artigo	12823
@@ -1093,7 +1092,6 @@ Entites Territoriales Decentralisees	15584
 Entrega Declaração	12018
 Entrega Declaração Fora de Prazo	12018
 Essa Declaração de Titularidade	15388
-Estatutos. Texto Decreto-Lei	15912
 Etat. Un Decret du Premier Ministre	15584
 EthSwitch. Decisions	12269
 Ethical Committee TB Tuberculosis Declarations Ethics	12379
@@ -1248,7 +1246,7 @@ Jan-2026 Yes Dec	16705
 Japan Yes Declaration	11529
 Jaume Dubois Dec	4368
 Jeddah Declaration	15115
-Joint Declaration	9067,838,1250,1046
+Joint Declaration	9067,838,1250,1046,4583
 Joint Decree	6087
 Joint Executive Decree	10775
 Journal of Intelligent Management Decision	11140
@@ -1380,7 +1378,7 @@ Monetary Policy Decisions The Governor	11131,3
 Mozambique Court Rejects Decree Allowing Internet	8610,233
 Moçambique. O Decreto	12854
 NA Dec	16032
-NDICE CONSELHO DE MINISTROS Decreto-lei	15504,22
+NDICE CONSELHO DE MINISTROS Decreto-lei	15504
 NDS-112 and Devolution and Decentralisation	970
 NKWE Declaration	12955
 NON OFFICIELLE DE LA DECENTRALISATION	15901
@@ -1500,6 +1498,7 @@ Policy Decisions That Matter	6714
 Policy Recommendations for Decentralized Finance	14844
 Political Decentralization	13418
 Political Decentralization Political	13418
+Por Decreto-Regulamentar	15450
 Pour le Conseil Le Président DECIDE DECISION	15885
 Poverty Eradication and Social Welfare CABINET DECISION	12923
 Pre-Filled Declarations	12389

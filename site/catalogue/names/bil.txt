@@ -118,7 +118,7 @@ Bilan Puissance Electrique O5 DIRECTION DES	15670
 Bilanga	10875,4840
 Bilanga Gnagna Est	15715
 Bilans	10975
-Bilateral	961,1706,886,308,348,217,21,48,4,3,1048,127,991,52,277,2752,586,529,106,166,13,161,553,123,390,970,445,77,136,385,157,54,296,39,62,1006,253,19,56,40,278
+Bilateral	961,1706,886,308,348,217,21,48,4,3,1048,127,991,52,277,2752,586,529,106,166,13,161,553,123,390,970,445,77,136,385,157,54,296,39,62,848,158,253,19,56,40,278
 Bilateral AI	7548
 Bilateral Agreement	4260
 Bilateral Agreements The United Arab	11185
@@ -132,7 +132,6 @@ Bilateral Brief Botswana	12617
 Bilateral Brief Developmental Partnership	13791
 Bilateral Compact	6534
 Bilateral Cooperation	14267,1779
-Bilateral Creditors	15924
 Bilateral Economic Commission	5086
 Bilateral Engagements Targeted	7548
 Bilateral Institutional Mechanism	16237
@@ -256,6 +255,7 @@ Bill for Sierra Leone	410
 Bill of Entry	14828,3
 Bill of Fundamental Voters’ Rights and Duties	12905
 Bill of Lading	14216,1276
+Bill of Law	15924
 Bill of Quantities	1988
 Bill of Quantities TBA	1988
 Bill of Rights	2307,1276,459,1491,4920,740,72,1354,320,522,1212
@@ -293,7 +293,7 @@ Billet Facile	16672
 Billets	15456
 Billetterie Transport CI	15936
 Billetterie Transport CI Dépend	15936
-Billing	2528,1906,1245,3758,1794,649,182,302,147,2356,1357
+Billing	2528,1906,1245,3758,1794,649,182,302,147,2356,1357,585
 Billing Billing TTC MT298 SMT	12364
 Billing Efficiency	12062
 Billing Section	9437
@@ -719,6 +719,7 @@ Industry Bill	14829
 Industry and Competition. The Bill	5872
 Infant Registration Bill	4534
 Innovation Lab Bill	878
+Intelligent Billing	16809
 International Mangrove Centre Bills	8681
 Internet Censorship Bill	2117
 Interpretation of Bill of Rights	2307
@@ -761,6 +762,7 @@ Land Redistribution Bill	11197
 Landmark Industry Regulation Bill	3364
 Law Enforcement Integrity and Accountability Bill	11757
 Le Finance Bill	7994
+Legacy Billing Architectures	16809
 Lesotho Bilateral Trade Agreement Facilitation	16631
 Liquor Bill	5872
 Loan Authorization Bills	12987

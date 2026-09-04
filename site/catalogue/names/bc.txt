@@ -162,10 +162,9 @@ BCS EUR	253
 BCS Group	651
 BCS Ltd	15136
 BCT-Lab	10692
-BCV Bank of Cabo Verde	15924
 BCV Os	11933
 BCV Segundo	15829
-BCV and ECB	15924
+BCV. Artigo	15450
 BCV. Sistema Estatístico Nacional	15535
 BCX CEO Jonas Bogoshi	1740
 BCaD Consulting Getachew Wolde	12195
@@ -359,7 +358,6 @@ ID and BC	12328
 ID and BCs	12328
 ID. CSOs and NGOs BCs	12328
 IDs and BCs	12328
-IMF. The BCV	15924
 IMPRIMERIE BCEAO	4459
 Initial Participation Falls Short The BCEAO	10929
 Interface AWS Amazon Web Services BCP	6432
@@ -380,7 +378,7 @@ Management Systems BCP Business Continuity Plan	13420
 Mnbc- Bceao	3577
 Numérique BAD Banque Africaine de Développement BCEAO	15583
 O BCEAO	11569
-O BCV	15535
+O BCV	15450,85
 Ouest BCDF Bureau Communal du Domaine	10876
 Plateforme. La BCEAO	16259
 Pour la BCEAO	10711

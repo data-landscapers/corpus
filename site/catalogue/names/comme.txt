@@ -480,7 +480,6 @@ Commercial Court	12668,254,34,1262,100,2419
 Commercial Court Chief Judge Eva Mappy	14218
 Commercial Courts	11906
 Commercial Courts- Implement	11906
-Commercial Creditors	15924
 Commercial Data Centres	12436
 Commercial Director	4994
 Commercial Division	1919,2977,3278,340,190,4915,1123,105
@@ -505,11 +504,11 @@ Commercial Intra-city Courier Services Certificate	1223
 Commercial Intra-city Courier Services Licence	1223
 Commercial Invoice	14216
 Commercial Land	12912
-Commercial Law	6683
+Commercial Law	6683,10112
 Commercial Law Wilmari Strachan Your Author	6683
 Commercial Lending	12389
 Commercial Licence	2913
-Commercial Loan	160,2,61,79,1,13,1,103,1,57,59,14,2,181,30,89,121,13,783,468,2214,10,5,1073,700,204,280,632,1707,2312,1762,550,1690,939
+Commercial Loan	160,2,61,79,1,13,1,103,1,57,59,14,2,181,30,89,121,13,783,468,2214,10,5,1073,700,204,280,632,1707,2312,1762,550,1690,939,469
 Commercial Maize Project’s Hamba Ubuye	13123
 Commercial Management System	15659,310
 Commercial Management System D&R Distribution and Retail	15969
@@ -718,6 +717,7 @@ Economic and Commercial Relations	16237,40
 Economy and Recurrent Continuous In Progress Comments	10870
 Economy and Recurrent Yearly In Progress Comments	10870
 Ecosystème National du Commerce Electronique du Burundi	13652
+EduSpots Network. Commenting	16775
 Education and Commerce	14818
 Egypt. Commercial International Bank	10665
 Egyptian Chambers of Commerce	15473
@@ -880,6 +880,7 @@ Innovation and Commercialisation Fund	13295
 Innovation and Commercialization Ecosystem Development	7547,1
 Innovation and Commercialization Pipeline	4528,7984
 Innovation and Commercialization Scheme	14749
+Inquiries and Comments About IFC	16776
 Institut Supérieur de Commerce ISF	13377
 Interaction of Commercial and Government Digital Platforms	5349
 International Chamber of Commerce	226,10492,123,709,1635
@@ -1014,7 +1015,7 @@ Ministry of Commerce Trade and Industry Zambia Trade	12454
 Ministry of Commerce and Consumer Protection	14736,83,11,9,8
 Ministry of Commerce and Consumer Protection. Mrs. Marie	14736
 Ministry of Commerce and Industrialization	14965
-Ministry of Commerce and Industry	2157,1,1628,492,4963,1,1234,3086,1174,155,348,905,141
+Ministry of Commerce and Industry	2157,1,1628,492,4963,1,1234,3086,1174,155,348,905,141,511
 Ministry of Commerce and Industry's Digitalization Program	3786
 Ministry of Commerce and Industry. EXIM	3441
 Ministry of Commerce and Industry. The Export-Import Bank	3441

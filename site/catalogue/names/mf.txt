@@ -14,7 +14,6 @@ Alphabétisation. MF	15673
 Among MFIs	14997
 André Mfinda	4979
 Annie Flore MFOULA NGHANGY	16099
-Articulação O MFFE	15526
 BANKS MFIs NDFSPs SACCOs	15130
 BANKS MFIs SACCOs	15130
 BANKS MFIs SACCOs Mobile	15130
@@ -46,11 +45,12 @@ Classe MF M F N.º	10766
 Classe MF M F Novos	10766
 Codes MFP Mutuelle	13306
 Communication Mfanfikile Dlamini Chief Operations Officer	11131
-Conselho de Ministério MFI DS Conselho Nacional	15694
+Comunicação MFFE	15526
 Control and Mobilising Management System The MFRS	14738
 Court Elevée MFB	15474
 Coverage Ratio MFIs Micro Finance Institutions	15023
 DGIS of MFIS. DGIS	11855
+DNS MFIDS	15694
 Data Annual Collection Collection MFIS and Municipalities	11855
 Departments and Agencies M&E Monitoring and Evaluation MFD	1264
 Disseminate MFS	14777
@@ -133,6 +133,7 @@ MDAs MEPSIR MFD MICS MNO MoF	15553
 MDAs. The MFB	969
 MDGs Millennium Development Goals MFIS Ministry	11855
 MF ARAB Anouar Ministère	15472
+MF DGIS	15694
 MF M	10766
 MF M Angola	10766
 MF M F	10766
@@ -146,6 +147,7 @@ MF M F N.º	10766
 MF M F Novos	10766
 MF M F Outros MF M	10766
 MF M F Pessoal	10766
+MF MIOTH	15694
 MF MP NAIs ODINE PAN	10766
 MF SLIMANI Younes Ministère des Affaires	15472
 MF-DE	15375
@@ -195,9 +197,9 @@ MFD Maximizing Finance for Development MINEA Ministério	11380
 MFD Maximizing Finance for Development MNO Mobile	15621
 MFD and PCM	13331
 MFD and Private Capital Mobilized	15983
-MFD-EP	1264,440,163,424,182,983,106,42,1049,6115,649,143,345,521,685,904,561,378,704,3,263,45,63,112,43,467,21
+MFD-EP	1264,440,163,424,182,983,106,42,1049,6115,649,143,345,521,685,904,561,378,704,3,308,63,112,43,467,21
 MFD-Enabling	2253,1527
-MFD-Enabling Project	1264,440,163,424,182,983,106,42,1049,6115,649,143,345,521,685,904,561,378,704,3,263,45,63,112,43,467,21
+MFD-Enabling Project	1264,440,163,424,182,983,106,42,1049,6115,649,143,345,521,685,904,561,378,704,3,308,63,112,43,467,21
 MFD-centered	15553
 MFD-e	16144,240
 MFD-e. II. PROJECT DESCRIPTION	16384
@@ -209,13 +211,13 @@ MFEP-CP	15678
 MFERP-CP	15371
 MFEZs	12376
 MFFE Ministry of Finance	16187
-MFFE. Artigo	15526
-MFFE. CAPÍTULO II ESTRUTURA ORGÂNICA Secção	15526
+MFFE Presidente	15526
 MFFEFE	15526
 MFGPD	9162
 MFI All	14997
 MFI CEOs	1854
 MFI COOPEC	13314
+MFI Conselho Nacional da Familia	15694
 MFI Increase	14674
 MFI MTIBD MGYSD MoFDP M2 MVA	12701
 MFI Micro Finance Institution MFS Mobile	2775
@@ -227,7 +229,6 @@ MFI and SACCO	14997,133
 MFI da Garantia Bancária de Execução	11372
 MFIDS	4412,7553,3472,257,272,221
 MFIDS Ministry of Family	16187
-MFIDS. A Direção de Serviço de Cuidados	15694
 MFILA-FILA	15692
 MFIS Close	11855
 MFIS Management	11855
@@ -356,7 +357,6 @@ Mfuwe International Airport	5247
 Microsoft Entra ID MFA Note	10617
 Ministry of Finance. MFIS	11855
 Ministère de MFPMA and MESU	11916
-Missão O MFFE	15526
 Mme Brunelle Estimée MFOUBOU MAPALI	16175
 Mme LEBALY MFIRA	16274,182
 Mme MFOUBOU MAPALI Brunelle Estimée Service	16099

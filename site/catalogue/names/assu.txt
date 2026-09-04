@@ -51,14 +51,14 @@ Assumed	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,202,1,1,1,1,1,1,229,1,1,237,154,1,
 Assumer	14488,1,1,909
 Assumes	13868
 Assumi	15966
-Assumindo	15344
+Assumindo	15344,350
 Assuming	1828,7219,1213,556,324,385,60,270,69,293,1097,1574,484,232,59
 Assuming the Council’s Chairpersonship	7142
 Assumir	4218,7166,517
 Assumiremos	15476
 Assumiu-se	11569
 Assumption	7845,14,3317,687,803,835,158,1066,699
-Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284
+Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284,887
 Assumptions All	11986
 Assumptions Availability	11986
 Assumptions CCSS	11986
@@ -83,6 +83,7 @@ Assunto Lei de Protecção	10747
 Assunto Que	10756
 Assunto Regula	11361
 Assuntos Constitucionais	1268,7990,2898,675
+Assuntos Consulares	16376
 Assuntos Corporativos	9559
 Assuntos Económicos	11378
 Assuntos Jurídicos	11561

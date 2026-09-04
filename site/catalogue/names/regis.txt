@@ -128,6 +128,7 @@ BIRTHS AND DEATHS REGISTRATION ACT	11176,2109,1176
 BIRTHS AND DEATHS REGISTRATION ARRANGEMENT	12523
 BIRTHS AND DEATHS REGISTRATION DISTRICTS	13285
 BIRTHS AND DEATHS REGISTRY	15628
+BOLETIM OFICIAL Registo	15694
 BRR Australia Austria National Registry	10714
 BRR Civil Registration System	10714
 BRR Civil Status Registration System	10714
@@ -1035,6 +1036,7 @@ Future of Civil Registration and Vital	13677
 G2G Platforms National Civil Registry	14897
 GENERAL INFORMATION ABOUT COLLATERAL REGISTRY SYSTEM	13333
 GISAGARA Registered Marriage NYARUGURU	12413
+GSMA Device Registry	16799
 Gabinete de Registos	11837
 Gambia Social Registry	1687
 General Dashboard of IDP Registration	15621
@@ -1103,6 +1105,7 @@ Honorable Dr. Mutuuzo Peace Regis	14039
 Hospital Data Management Module for Births Registration	12186
 Hun and Sukna Civil Registry Offices	4531
 Hwange Registry Office	7879
+I SÉRIE BOLETIM OFICIAL Registo	15526
 I Série BOLETIM OFICIAL Registo	15755
 IADB Dictionary of Civil Registration and Identification	12338
 IAR Immovable Assets Register ICT Information	11261
@@ -1636,7 +1639,7 @@ National Registration Act. Short	12410
 National Registration Act. The Bureau	13005
 National Registration Act. The KRAs	13005
 National Registration Act. The NRB	10130
-National Registration Bureau	1704,27,533,658,3,753,494,267,192,11,1956,268,204,161,1,601,36,1278,288,695,281,411,1172,171,3,13,6,25,4,1,10,14,50,2,4,708,2,68,5,6,9,10,9,100,1,99,1164,40,28,128
+National Registration Bureau	1704,27,533,658,3,753,494,267,192,11,1956,268,204,161,1,601,36,1278,288,695,281,411,1172,171,3,13,6,25,4,1,10,14,50,2,4,708,2,68,5,6,9,10,9,100,1,99,1164,40,28,128,2115
 National Registration Bureau CRB Credit Reference	11994
 National Registration Bureau KRA Kenya Revenue	12227
 National Registration Bureau National Registration Bureau	13005
@@ -1934,6 +1937,7 @@ RCI Registo Civil Integrado	10765,10
 RCS Registre	14437
 REAS OU SETORES REGISTOS LEGAIS RELATIVOS	15694
 RECEIPT FOR SURRENDERED NATIONAL REGISTRATION CARD	12410
+REGIS WA	16768
 REGISSANT LES CONDITIONS ET MODALITES D’EXERCICE	11522
 REGISSANT L’ACTIVITE STATISTIQUE AU CAMEROUN	15485
 REGISTER	11251,1072,55
@@ -2200,7 +2204,7 @@ Registers	1,770,199,2744,173,1338,5550,358,1093,27,270,482,280,86,49,1174,120,1,
 Registers Biometrics	2477
 Registers Contract	6432
 Registers and Summary Sheets Users	11596
-Registo	539,37,218,1643,1,250,1586,1022,180,1138,2785,1351,3,1,1,22,583,4,4,1,14,36,2,4,21,15,59,17,29,11,5,319,120,754,26,7,54,2496,22,11,113,518,34,269,51,68
+Registo	539,37,218,1643,1,250,1586,1022,180,1138,2785,1351,3,1,1,22,583,4,4,1,14,36,2,4,21,15,59,17,29,11,5,319,120,754,26,7,54,2496,22,11,113,408,110,34,82,187,51,68
 Registo Automóvel	10751,1418,3826,492
 Registo Civil	2953,4513,3284,15,7,3,2,586,27,35,55,48,9,32,7,593,606,2584,37,176,455,460
 Registo Civil Artigo	12775,2621
@@ -2254,7 +2258,7 @@ Registo de Operadores de Comunicações Electrónicas	11430
 Registo de Som	549
 Registo de Versão	11441,3,4,3,5,7
 Registo' Ptedlâl. ARTIGO	11514
-Registos	549,2404,577,1181,1349,470,1473,1268,1479,2,1,12,10,596,90,24,35,7,10,28,1,271,64,120,46,89,619,87,2496,22,5,7,4,74,34,5,330,156,225,70,197,69
+Registos	549,2404,577,1181,1349,470,1473,1268,1479,2,1,12,10,596,90,24,35,7,10,28,1,271,64,120,46,89,619,87,2496,22,5,7,4,74,34,5,185,145,156,225,70,86,111,69
 Registos Autárquicos	9403
 Registos Cen	15396
 Registos Centrais	11363,174,1238,2584,37,176
@@ -2563,6 +2567,8 @@ Registration of Marriages	12944
 Registration of Mechanism	11855
 Registration of Memorandum of Incorporation	3714
 Registration of National ID	12241
+Registration of Nationwid X X X X	15845
+Registration of Nationwide X X X X	15845
 Registration of Organisations	14743
 Registration of PWD	15019
 Registration of Persons	1844,76,1085,9263,29

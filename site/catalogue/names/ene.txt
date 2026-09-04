@@ -52,6 +52,7 @@ Africa. Energy Policy	12233
 African Biofuel and Renewable Energy Initiative	10841
 African Development Bank's Leveraging Energy Access	12191
 African Energy Chamber	5985,281,827,1632,5948
+African Energy Commission	16768
 African Energy Forum	15670
 African Energy Week	8755,4813,2590
 African Union Commissioner for Energy and Infrastructure	3987,43
@@ -409,7 +410,7 @@ Eneo. Au	10975
 Eneo. Cependant	10975
 Energ	13325
 Energe	3604
-Energia	2437,347,32,1331,1516,1307,3250,1159,1,49,533,825,36,2610,70,29,451,72
+Energia	2437,347,32,1331,1516,1307,3250,1159,1,49,533,825,36,2610,70,23,6,451,72
 Energia EUinMoz2026	6743
 Energia Elétrica	11532
 Energia Elétrica Doméstica Contribuição Audiovisual	11532
@@ -481,7 +482,7 @@ Energies-media. Tonye	15480
 Energising Development	12191,33
 Energization Outcome	12358
 Energizing Africa	10077
-Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8,155,99,14,13,3,69,19,63,128,134,33,15,41,46,49,55,61,49,59,145,311,160,13,54,118,9,62,9,45,17,9,69,16,9,32,2,74,7,57,12,40,397,55,59,85,4,39,12,111,158,66,95,99,13,29,369
+Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8,155,99,14,13,3,69,19,63,128,134,33,15,41,46,49,55,61,49,59,145,311,160,13,54,118,9,62,9,45,17,9,69,16,9,32,2,74,7,57,12,40,397,55,59,85,4,39,12,111,158,66,95,99,13,29,369,114
 Energy Access	10157,2076
 Energy Access Deficit	11923,268
 Energy Access Diagnostic Report	12376
@@ -711,6 +712,7 @@ Energy Transition	14456,289,1238
 Energy Transition Strategy	12206
 Energy Transportation	1777
 Energy Unit	13042
+Energy Use	15845
 Energy Use and Access	12445
 Energy Utility Corporation Limited	12358,2608
 Energy Utility Corporation Limited Ex	12358
@@ -826,7 +828,6 @@ F Fuel and Energy	13093
 FUTURE OUTLOOK ENERGY	12256
 FY17 Energy Transmission and Distribution	15702
 FY17 Renewable Energy Solar	15702
-Facility EDEC Energy Distribution Company	15924
 Facility for Energy Inclusion Off-Grid Energy Ac-	11923
 Fast-Track Energy Transition	10768
 Federal Government of Somalia Ministry of Energy and Water	14957
@@ -1246,7 +1247,6 @@ Nzoko Energy Congo S.A.R.L	15848
 Nzoko Energy Congo Sarl	15848
 OFF-GRID SOLAR ENERGY KITS BY TIER	11572
 OLA Energy Kenya Limited	12256
-ONSEC National Energy Systems Operator	15924
 ORIENTAL Energy	2738
 ORIENTAL Energy SAU	2738
 Off-Grid Solar Energy Sector	11923,268
@@ -1347,6 +1347,7 @@ RWANDA ENERGY GROUP AND IMBUTO FOUNDATION	12358
 Rallying Call Quality Energy	12256
 Real Time Energy Prices	15620
 Region Energy	12256
+Regional Energy Governance and Information System for West	16768
 Regional Energy Regulators Association of Southern Africa	12969
 Regional Energy Security	5765,6634
 Registration of Renewable Energy Related Technologies	14745
@@ -1467,7 +1468,7 @@ Secteur Informel ENEC	737
 Sector Profile Energy	718
 Sector de Energia	6970
 Segurança Energética	11366
-Senior Energy Specialist	11136,4788
+Senior Energy Specialist	11136
 Senior Energy Specialist Matteo Maria Malacarne	16654
 Service des Energies Renouvelables	10975
 Services Energetiques	15741
@@ -1600,7 +1601,6 @@ VIRUNGA ENERGIES SAU. Un PV	15670
 VIVO ENERGY	2342
 VIVO ENERGY CI	2342
 VIVO Energy	2342
-VRE Variable Renewable Energy IBRD International	15924
 VRE Variable Renewable Energy ZDER Renewable	15983
 Valeur Millions FCFA Energie	10975
 Variable Renewable Energy	14667,1316

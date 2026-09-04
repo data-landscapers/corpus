@@ -65,6 +65,8 @@ HABITAT L	15542
 HABITAÇÃO	11421
 HABITAÇÃO E ORDENAMENTO DO TERRITÓRIO	15380
 HABITAÇÃO PARA TODOS	16487
+HABITAÇÃO SECÇÃO I ACESSO E PROCEDIMENTO	16138
+HABITAÇÕES E DE GESTÃO DO CONDOMÍNIO	16138
 HABITAÇÕES FAMILIARES	11421
 HABITS	15574
 HABITUELS LIEN AVEC SEXE RÉSIDENCE	13300
@@ -167,7 +169,7 @@ Habitation SGG Secrétariat Général du Gouvernement SHaSA	15580
 Habitation UNESCO	10847
 Habitation du Burkina Faso	15557,163
 Habitation du Burkina Faso CHIFFRES CLÉS DES	15557
-Habitação	4040,4,42,1064,329,242,874,396,675,545,1230,1313,6,17,613,31,1,24,80,1,49,1,490,720,2593,8,49,257,493,300,41
+Habitação	4040,4,42,1064,329,242,874,396,675,545,1230,1313,6,17,613,31,1,24,80,1,49,1,490,720,2593,8,49,89,168,444,49,300,41
 Habitação Distribuição	10777
 Habitação MRR Mecanismo de Resolução de Reclamações NAS	11390
 Habitação Razão de Mortalidade Materna Vacina Contra	10777
@@ -176,6 +178,7 @@ Habitação Sistema Estatístico Nacional Sem Formação	10766
 Habitação de Angola	5427
 Habitação-2027	12851
 Habitação. ANG	9323
+Habitação. Artigo	16138
 Habitação. Felicitou	7792
 Habitação. O RGPH	4040,4,7377,25,131
 Habitações	11421,25,131
@@ -251,6 +254,7 @@ Permanent Secretary Dr. Brilliant Habeenzu	13663
 Permanent Secretary Eng. Dr. Brilliant Habeenzu	6201
 Phanuel Habimana	16577
 Pierre Damien Habumuremyi	11682
+Plano Nacional de Habitação	16138
 President Juvénal Habyarimana	13418
 Proyecto de Habituación	4209
 RECENSEAMENTO GERAL DA POPULAÇÃO E HABITAÇÃO	4044

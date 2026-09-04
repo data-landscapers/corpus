@@ -468,6 +468,7 @@ Establish ICT Innovation Hubs	958
 Establish ICT Regulatory Forum	14022
 Establish ICT Skills Repository	12241
 Established ICT Hub	12971
+Establishing ICT Ecosystem	16752
 Establishment of ICT Infrastructure	13956
 Estimates of Contribution of ICT	236
 Estonian ICT	2257
@@ -511,7 +512,6 @@ FRW. Icyiciro	14911
 FSM National Government ICT Network Roll-out	11529
 Factors Influencing ICT Adoption	14851
 Factors Influencing The Integration Of ICT	899
-Familiar. ICIEG	15694
 Fayda ICT	1290,9542,1396,39
 Feb-2024 ICR Sequence.01	11924
 Federal Ministry of Education and ICEDT Consult Limited	8586
@@ -782,7 +782,7 @@ ICAP Supports Eswatini	12334
 ICAP's HIV Insight Dashboard Streamlines Data	16422
 ICAR-ADE	1368
 ICARES	14769
-ICASA	926,31,446,206,201,2,757,375,2,318,980,488,328,115,6,11,406,126,61,23,64,180,100,31,284,358,7,74,145,267,105,333,68,3,1,22,130,109,41,1,30,12,62,163,37,482,775,67,777,53,140,15,67,45,339,16,9,10,5,24,3,705,1494,807,187,238
+ICASA	926,31,446,206,201,2,757,375,2,318,980,488,328,115,6,11,406,126,61,23,64,180,100,31,284,358,7,74,145,267,105,333,68,3,1,22,130,109,41,1,30,12,62,163,37,482,775,67,777,53,140,15,67,45,339,16,9,10,5,24,3,705,1494,807,187,238,2117
 ICASA Act	4732,1140,1952,3387,24,27
 ICASA Action	11195
 ICASA Auction MTN Group	926
@@ -921,7 +921,8 @@ ICI ET DANS LA BROCHURE	13300
 ICI ET DANS LA BROCHURE ANÉMIE	13300
 ICI L'eau	3551,1106,1302
 ICIEC	11310
-ICIEG	11965,3729
+ICIEG	11965
+ICIEGqu	15694
 ICIII	11852
 ICIIMAC	15443
 ICISET	12926
@@ -1309,6 +1310,7 @@ ICT Infrastructure and Services Development of ICT Enabled	958
 ICT Infrastructure and Systems	15164
 ICT Initiative	12731,2985
 ICT Initiatives and Projects	14851
+ICT Innovation	15845
 ICT Innovation Awards	14879
 ICT Innovation Ecosystem Strengthening Project	207,691
 ICT Innovation Programme and Business Process Outsourcing	1283
@@ -1429,6 +1431,7 @@ ICT Policies	26,1,1,930,13893
 ICT Policy	958,200,7174,2794,403,1096,49,222,21,378,51,645,974,199,386
 ICT Policy Development and Research	1608,1289,8333
 ICT Policy Development and Research Only	11230
+ICT Policy Forum	16802
 ICT Policy Guidelines	6946
 ICT Policy Making and Governance	9893
 ICT Policy National Broadband Strategy Singapore	11529
@@ -1690,6 +1693,7 @@ ICT and Postal Services	3583,499
 ICT and SETIC	13314
 ICT and STEM Equipment	14922
 ICT and Skills	12333
+ICT and Surveillance	15845
 ICT and Telecommunications	15120
 ICT and Trade	7990
 ICT and Vice President	4798
@@ -2144,6 +2148,10 @@ Kimani Ichung'wah	10668
 Kingdom of Eswatini ICAP	12944
 Kingdom's ICT	12395
 Km ICRC	11857
+Knowledge and ICT Innovation	15845
+Knowledge and ICT Innovation Average Score	15845
+Knowledge and ICT Innovation Indicator	15845
+Knowledge and ICT Innovation X MINTER Police	15845
 Knowledge of ICT	9203
 Kola Ijasan and Pria Chetty of Research ICT	6052
 Komi Amedjonekou ICT	5087
@@ -2191,10 +2199,12 @@ Local ICTs	6946
 Local ICTs Kenya’s ICT	6946
 Lompo Bernard Yungu Loleka At ICR	16436
 London. ICTworks	10841
+Low ICT	15845
 Low ICT Enrolment	14729
 Low Levels Of ICT National Postal	12395
 Lucas Ajanaku Anambra State ICT Agency	10150
 M ICT Budget	5715
+M M M H M and ICT-driven	15845
 M&E Implementation The ICR	14888
 M. AYAYOS ICKOUNGA	15488
 M. ICKONGA	16100
@@ -2222,6 +2232,7 @@ MINICT's ICT4GOV Cluster Strategy	9124
 MINPLAN and ICF	10765,10
 MINPLAN and ICNE. INE	10775
 MINSOLID MININFR A ICT	1284
+MINTE All Agencies and ICT Innovation R	15845
 MOF ICT Development	2638
 MOVEMENT OF ICT EQUIPMENT STANDARDS	34
 MPs' ICT	699
@@ -2708,6 +2719,7 @@ Research ICT Solutions	1944
 Research ICT Solutions and Baker Botts	1364
 Resources IAP Inventor Assistance Programme ICT	11250
 Resources and ICT	15164
+Response ICT and Data	15845
 Responses Score ICT	10812
 Result ICT Services Protection of Consumers of Markets	6946
 Results Indicators Quality of ICR ICR Moderately	10779
@@ -2868,7 +2880,7 @@ State Department ICT State Department African	7548
 State Department for ICT	2965,3185,280,977,140,1,60,484,1846,601,627,133,3365
 State Department for ICT and Digital Economy	3845,22,1669,2846,952,1831
 State Department for ICT and The Digital Economy	14546
-State Department of ICT and Digital Economy	3878,2847,344,411,1089,223,1607,268
+State Department of ICT and Digital Economy	3878,2847,344,411,1089,223,1607,268,6136
 State Dept of ICT	7069
 State Minister for ICT Godfrey Kabbyanga	3275
 State Minister for ICT Joyce Nabbosa Sebuggwawo	10563
@@ -2989,6 +3001,7 @@ Tshepiso Hadebe Research ICT Africa	6512
 Tunisian Minister of ICT	1596
 Tunisian Ministry of ICT	1596
 Tunisie... Actualité ICT Africa Summit	3658,2617,145
+Técnica Moniz ICIEG Paulino	15694
 UCC Welcomes the New ICT Sector Leadership	9781
 UEMOA ICT Fund	9287
 UGPE and ICIEG	11965

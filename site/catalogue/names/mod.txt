@@ -390,6 +390,7 @@ Directorate of Modernization	10937
 Directorates of Administrative Organization Modernization	3604
 Direcção Nacional da Modernização	5329
 Direção Nacional da Modernização	15572
+Direção Nacional da Modernização Administrativa	15526
 Direção Nacional da Modernização Administrativa DNMA	15532
 Direção Nacional de Modernização	15532
 Direção Nacional de Modernização Administrativa	15532
@@ -598,6 +599,7 @@ Hospital Information System Maturity Model	1824,10431
 Hubtel Moderated	7606
 Human Capital Delivery Model	15059
 Human Capital Strategy and Management Model	15491
+Human Dimension Modernizing BSS	16809
 Human Oversight Models Human	14565
 Humble French Engineering Term Shaped the Modern	5700
 Hybrid Model	12675
@@ -730,6 +732,7 @@ Large Language Model Meta AI	2816
 Large Language Models	2816,910,19,1770,717,47,1294,3497,1140,3503,499
 Large-Scale World Model Training	3465
 Last Modified	4676
+Law of Administration Modernization	15924
 Law of Administrative Modernization	11965
 Learn More About CRPRS CRPRS Modules	12211
 Legal Digital ID Model Governance Assessment	1879
@@ -968,7 +971,7 @@ Ministry of Public Service and Administrative Modernization	3604,7333
 Ministry of Public Service and Modernization	3281
 Ministry of State Modernization and Public Administration	11873,36
 Ministério Da Modernização Do Estado	1340,743,2330
-Ministério da Modernização	11965,3567,40,112,338,268
+Ministério da Modernização	11965,3561,6,40,112,338,268
 Mission Mode Projects	14965
 Mmoloki Modise	3951
 MoDi Sign	11120
@@ -1129,7 +1132,7 @@ Modelos de Arranjo Institucional	11456
 Modelos de Atestado	11419
 Modelos de IA	2816
 Modelos de Linguagem de Pequena Escala	2816
-Models	226,3519,1694,794,370,548,216,70,353,511,818,1595,49,18,375,1045,96,130,2055
+Models	226,3519,1694,794,370,548,216,70,353,511,818,1595,49,18,375,1045,96,130,2055,2301
 Models Insights	4848
 Models and Chatbots	13461
 Models of Smart Government	395
@@ -1145,7 +1148,7 @@ Moderado Quadro	11421
 Moderado Risco	11390
 Moderado. Não	11390
 Moderan ZIS Angole	10780
-Moderate	418,551,315,490,54,39,845,892,1084,559,1185,107,40,349,949,424,828,1597,42,7,1,4,49,41,94,16,37,139,239,22,52,56,35,202,93,8,42,51,9,6,17,6,1,11,186,22,39,25,61,37,12,38,1,74,516,41,273,1,418,170,90,477,89,334,27,39,4,39,119,273,36,33,31,7,35,48,60,76,187,59,30,66,65,240,14,38,269
+Moderate	418,551,315,490,54,39,845,892,1084,559,1185,107,40,349,949,424,828,1597,42,7,1,4,49,41,94,16,37,139,239,22,52,56,35,202,93,8,42,51,9,6,17,6,1,11,186,22,39,25,61,37,12,38,1,74,516,41,273,1,418,170,90,477,89,334,27,39,4,39,119,273,36,33,31,7,35,48,60,76,246,30,66,65,240,14,38,269
 Moderate Agency	11863
 Moderate Agency OF THE OPERATION	11863
 Moderate Auditing	15518
@@ -1296,7 +1299,7 @@ Moderator Mrs Shalini Jugessur Managing Director	14776
 Moderator. Fabrice Batapi Ndimba	16495
 Moderators	14776
 Moderement	14540
-Modern	3061,324,90,1257,1090,610,553,290,476,177,206,133,113,335,124,139,8,143,331,317,285,7,237,199,314,10,27,9,27,158,227,433,218,367,207,446,25,322,302,384,916,576,240,263,57,94,425
+Modern	3061,324,90,1257,1090,610,553,290,476,177,206,133,113,335,124,139,8,143,331,317,285,7,237,199,314,10,27,9,27,158,227,433,218,367,207,446,25,322,302,384,916,576,240,263,57,94,425,261
 Modern AI	7789
 Modern Agro-Industry for Better Food Security	14748
 Modern Approach	2816,4016
@@ -1412,11 +1415,14 @@ Modernização da Rede Elétrica	16055
 Modernização da X X X X Administração	11569
 Modernize	2608,1545,2795,3817,220,155,9,2603,971,223,298,128
 Modernize Border Control	5758
+Modernize Disaster Risk	15845
 Modernize Education Data Systems	12052
+Modernize IGF	15845
 Modernize Infrastructure	13005
 Modernize Justice Sector	14994
 Modernize Land and Property Registration. Key	15473
 Modernize Ministry Performance	9009
+Modernize Nationwide X X X X	15845
 Modernize Payments	6887
 Modernize Payments Mauritius	6887
 Modernize Postal and Courier Sector	7779
@@ -1636,6 +1642,7 @@ National Meteorological Service Modernization Phase	2242
 National Meteorological Service Modernization Project	2305
 National Stamp Duty Module	14567
 National Transparency Platform Modules	3430
+Natural Moderate	15845
 Ncahtainognesa.l Arabic Large Models	15713
 Network Expansion and Modernization Agreement	9532
 Network Modernisation	12315
@@ -1661,6 +1668,7 @@ Number LLM Large Language Models	3184,1,1340,6470
 O D Very High High Moderate	13053
 O Instituto de Modernização Administrativa	6694,8,2177
 O Ministro da Modernização	2618,13282,183,98
+O Ministério da Modernização	15526
 OBJECTIFS RESULTATS ATTENDUS Modernisation	10712
 ONLINE VIDEO MODULES UNCDF	11017
 OPEN ACCESS MODEL	11857
@@ -1830,6 +1838,7 @@ Rating Moderate Moderate	15735
 Rating Moderately Satisfactory OBJECTIVE	10779
 Rating Moderately Unsatisfactory	10779
 Rating Modest	10779
+Real Stakes of BSS Modernization	16809
 Records Continuum Model	9888
 Refactor Moderate	6432
 Reference Information Model	1009

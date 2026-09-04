@@ -43,6 +43,7 @@ Braun V	14666
 Braun V. Teaching	12231
 CABINET V	16100
 CAPÍTULO V	576,2943,699,6537,706,67,783
+CAPÍTULO V A2026	16376
 CAPÍTULO V AUTARQUIAS LOCAIS Artigo	16022
 CAPÍTULO V COMUNICAÇÕES ELECTRÓNICAS Artigo	15
 CAPÍTULO V Comunicações Publicitárias	11360
@@ -50,7 +51,7 @@ CAPÍTULO V DEVERES E CONFLITOS	4147
 CAPÍTULO V DISPOSIÇÕES COMPLEMENTARES	11363
 CAPÍTULO V DISPOSIÇÕES COMUNS ARTIGO	11520
 CAPÍTULO V DISPOSIÇÕES FINAIS	14,11359
-CAPÍTULO V DISPOSIÇÕES FINAIS Artigo	14,15490
+CAPÍTULO V DISPOSIÇÕES FINAIS Artigo	14,15490,408
 CAPÍTULO V DISPOSIÇÕES TRANSITÓRIAS E FINAIS	11467
 CAPÍTULO V Deveres	6462
 CAPÍTULO V Disposições	15358
@@ -180,7 +181,6 @@ Financial Year Part V	12900
 Form V	13307
 GATEKEEPERS PART V	6520
 GDPR-Chapter V	11154
-Gabinete. Secção V Serviços	15526
 Garousi V	12255
 General Directorate of RSB. CHAPITRE V	14863
 George Silundika Avenue Cnr. S. V	13420
@@ -399,12 +399,14 @@ Section V Dépouillement	17
 Section V. Technical Requirements	14766
 Section V.- Modalités	11139
 Sections V	11233
+Secção V CEJFA	15526
 Secção V Disposições	15391
 Secção V Medidas	15433
 Secção V Resolução Artigo	16089
 Secção V Vícios	15396
 Sessão Legislativa da V Legislatura	6847,1462,182,1308
 Severability PART V GENERAL PROVISIONS	13352
+Seção II Capítulo V DISPOSIÇÕES FINAIS	15450
 Seção V	11562
 Shaw V. Developing	766
 Shri V. Muraleedharan	12979,3296,56
@@ -417,8 +419,9 @@ Staff of Commission A.32 PART V	12546
 Standards for Voltage Harmonics Appendix V	14867
 Statutes. PART V	14768
 Sub-part V	7845
-Subsecção V Conselho Nacional de Desenvolvimento	15526
 Subsecção V Demarcação	11901
+Subsecção V Direção Geral	15526
+Subsecção V Natureza	15526
 Supremo Tribunal de Justiça. CAPÍTULO V CONTENCIOSO	11528
 THEMATIQUE V	15712
 TITRE V	1186,3381,6258,11,686,1771,1124,66,871,29,12,31,13,26,43,16,60,28,31,84,17,36,6,62,151,21,19,138,26,253,156,3,1,1
@@ -483,12 +486,14 @@ V Bwishyura-Kigoma-Rwabusoro	12358
 V CEC	15799
 V CHE BUSANGA	15670
 V CONSORTIUM D'ENTREPRISES CDE	16623
+V Capacitação	15694
 V Censo General de Población	8048,2439
 V Censo de Población	4209
 V Chantier	15670
 V Commerc	12256
 V Côte	16188
 V DC	11269,3545
+V DD063061-D0E2-4804-8778-73FA945E4D17	15694
 V DIAMATIC GROUP TECHNOLOGIE SARL DGT	16623
 V Dabola	16714
 V Double Circuit Transmission Line	13893
@@ -500,6 +505,7 @@ V ETABLISSEMENTS SOW AMADOU BHOYE	16623
 V EXECUTiVE SUMMARY	961
 V Eastern Backbone Rehabilitation Project	13060
 V Edéa III	10975
+V Entid Entidad Calendarização Custo	15694
 V Erongo	12399
 V Ethiopia	14615
 V Evacuation	12358
@@ -587,6 +593,7 @@ V ROSSMO CONSTRUCTION ROSSMO	16623
 V Ramaano	9234
 V Rapport Annuel	15670
 V Recenseamento Geral da População	8211
+V Reforço	15694
 V Remerciements	15599
 V Rubirizi-Zege-Horezo-Makamba	13433
 V SANS	11269
@@ -767,7 +774,6 @@ V. Refers	11269
 V. Richter	11028
 V. SANS	11269
 V. STRUCTURAL AND SECTORAL REFORMS	13060
-V. SUMMARY OF RISKS AND MITIGATION	15924
 V. SUR LA RECEVABILITE DU MEMOIRE	16247
 V. Small	12256
 V. Sources	14437

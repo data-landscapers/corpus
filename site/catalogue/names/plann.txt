@@ -104,7 +104,7 @@ Detailed Urban Planning Plans	10930
 Developing Governance and Planning	15164
 Development Empowerment PME Planning	11193
 Development MPSIR Ministry of Planning	15659
-Development Planning	12674,27
+Development Planning	12674,27,3144
 Development Planning Officers	16524
 Development System PM&E Planning	11224
 Director General of National Planning Commission	13118
@@ -350,7 +350,7 @@ Land Use Planning and Management Information System	1513
 Land Use and Planning Departments	14746
 Land Use and Planning Unit	14738
 Land Use and Planning Unit Statistics	14738
-Land Use and Spatial Planning Authority	1513
+Land Use and Spatial Planning Authority	1513,14332
 Lands and Country Planning	1161
 Lands and Physical Planning	14631
 Lesotho AI Strategy and Data Centre Planning	9942
@@ -491,7 +491,7 @@ National Centre for Planning State Land Uses	15473
 National Council for Strategic Planning	14860
 National Development Plan NPC National Planning	11224
 National Development PlanNelson MandelaNepadPeople	11215
-National Development Planning Commission	582,4793,1133,9593
+National Development Planning Commission	582,4793,1133,9337,256
 National Development Planning and Research	2998,400,11599
 National Directorate of Planning	11863
 National Government Planning	12962
@@ -588,7 +588,7 @@ Planned and Achieved Measures Progress Support	11906
 Planned and Unplanned HV	14867
 Planners	396,7570,4996
 Planners KM Kilometers KMHFL Kenya Master	2775
-Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,137,5,294,204
+Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204
 Planning Act	1988
 Planning Ahead Will Make	10763
 Planning Assumptions The Electoral Commission	7266

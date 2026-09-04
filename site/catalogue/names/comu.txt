@@ -60,7 +60,7 @@ Comunicado Final	4147
 Comunicado de Imprensa	15962
 Comunicado de Imprensa Publicado	16343
 Comunicar	163,2658,7934,629,54,5,83,375,3457,30,3
-Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317,245,43,3,11,2,1,2,3,4,4,4,2,1,42,2,4,2,1,4,9,70,11,27,13,1,126,192,64,53,1,37,238,480,13,4,8,2,4,4,1,13,4,3,10,6,1337,1176,32,1,4,8,72,1,26,1,5,17,46,394,56,6,28,248,1,16,4,51
+Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317,245,43,3,11,2,1,2,3,4,4,4,2,1,42,2,4,2,1,4,9,70,11,27,13,1,126,192,64,53,1,37,238,480,13,4,8,2,4,4,1,13,4,3,10,6,1337,1176,32,1,4,8,72,1,26,1,5,17,46,122,272,56,6,28,248,1,16,4,51
 Comunicação Ao	16325
 Comunicação Decorreu	12799
 Comunicação Empresarial	15772
@@ -71,6 +71,7 @@ Comunicação Institucional	1192,9580
 Comunicação Instituto Nacional de Avaliação	10766
 Comunicação IoT	2816
 Comunicação Já	12808
+Comunicação MFFE	15526
 Comunicação O Conselho de Ministros	12813
 Comunicação PAAO Plano de Ação Anual Orçamentado	11557
 Comunicação Prévia	11458
@@ -98,7 +99,7 @@ Comunicação. Já	10614
 Comunicação. PARTE I ASSEMBLEIA NACIONAL POPULAR	11518
 Comunicação. Perfil de Entrada	12019
 Comunicação. Sob	167
-Comunicações	13,2,1200,13,49,855,163,139,3,379,50,661,366,254,71,56,181,53,594,1360,360,148,29,736,265,70,737,20,31,72,11,409,84,125,135,392,54,411,196,613,22,20,13,13,2,31,24,34,1,11,11,27,13,127,433,14,631,34,1,1,7,10,1502
+Comunicações	13,2,1200,13,49,855,163,139,3,379,50,661,366,254,71,56,181,53,594,1360,360,148,29,736,265,70,737,20,31,72,11,409,84,125,135,392,54,411,196,613,22,20,13,13,2,31,24,34,1,11,11,27,13,127,433,14,631,34,1,1,7,10,1502,1184
 Comunicações Electrónicas	15,1200,2388,4706,2438,8,15,1,625,1,18,13,2,1,2,136
 Comunicações Eletrónicas	4435,11091,1032
 Comunicações Eletrônicasetc	11456
@@ -121,7 +122,7 @@ Comunidad Nacional	1701
 Comunidad de Desarrollo	8881
 Comunidad de Países de Lengua Portuguesa CSU	1701
 Comunidad de Vecinos	4209
-Comunidade	2618,248,3705,1480,1185,1546,580,31,2,60,76,38,632,83,3251,841
+Comunidade	2618,248,3705,1480,1185,1546,580,31,2,60,76,38,632,83,3242,9,841
 Comunidade Económica	5402,1169,4473,487,11,27,3935,31
 Comunidade Económica Regional	11542
 Comunidade Económicas Regionais	15477
@@ -131,7 +132,7 @@ Comunidade de Desenvolvimento	5974,2880,142,1087,1367
 Comunidade de Países de Língua Portuguesa DLI	2816
 Comunidade de Tecnologia	12284
 Comunidade. Através	2688
-Comunidades	2688,8063,662,12,89,9,4,42,4003,915
+Comunidades	2688,8063,662,12,89,9,4,42,3957,46,915
 Comunidades Afectadas	11390
 Comunidades Angolanas	539,10897
 Comunidades Emigradas	16022
@@ -180,6 +181,7 @@ Documento de Comunicación Estratégica	14215
 E COMUNICAÇÃO E DA SOCIEDADE	15
 E COMUNICAÇÃO E DOS SERVIÇOS	15
 E COMUNICAÇÕES CAPÍTULO I DISPOSIÇÕES GERAIS	11520
+E CONSERVAÇÃO COMUNITÁRIA DOS ESPAÇOS COMUNS	16138
 E UMA COMUNICAÇÃO SOCIAL INDEPENDENTE. REFORMA	16487
 EXPANSÃO DOS SERVIÇOS DE COMUNICAÇÕES NOS	1215
 EXPOSIÇÃO AOS MEIOS DE COMUNICAÇÃO	10777

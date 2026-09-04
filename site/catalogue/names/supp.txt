@@ -173,7 +173,7 @@ Bound Measurable Target Supporting Responsibilit Agencies	1000
 Bound Measurable Target Supporting Responsibility Supporting	1000
 Bridgeway Supply Chain Limited Data Controller	7167
 Budget Support	11863
-Budget Support Group	11863
+Budget Support Group	11863,4061
 Budget Support for Education Reforms	13460
 Building Supply Group	11131,3
 Bulk Supply Point	16596
@@ -418,6 +418,7 @@ Description World Bank Project Implementation Support	12553
 Design Participant Support Systems	12675
 Dev Supp I Vol	1834,1
 Develop Support Mechanisms	14819
+Development Partners Support	15845
 Development Support	970,7576
 Development of Supporting Legal and Regulatory Instruments	3678
 Device School Support System	11857
@@ -551,6 +552,7 @@ Enterprise Service Bus Farmer Input Support	12453
 Enterprise Support C-AI	7548
 Enterprise and Supplier Development	11321
 Entrepreneur Support Orga- Africa	14897
+Entrepreneur Support Organisations	16817
 Entrepreneur Support Organizations	1264,12969,664
 Entrepreneurial Support Organizations	13358
 Entrepreneurship Education and Support System	12786
@@ -996,6 +998,7 @@ Management and Implementation Support	3456
 Manzini Integrated Water Supply and Sanitation Project	12922
 Manzini Region Integrated Water Supply and Sanitation	13123
 Mapping the Supply of Surveillance Technologies	1250
+Market Supply	16799
 Marketplace Supply	14932
 Marriage Registration Supported	12241
 Matching Business Support Trade Fairs Standard	12376
@@ -1287,7 +1290,6 @@ Ratified ECOWAS Supplementary Act	10908
 Recommendation Examples Entrepreneurship Support	10841
 Recommendations Supporting	13420
 Recording Clerks Other Clerical Support Workers	16266
-Reduction Support Credit DSA Debt Sustainability	15924
 Redundant Power Supplies	11209
 Redundant Power Supply	12681
 Regional Forecast Support Centre	15916
@@ -1598,7 +1600,7 @@ Supplementing	11130
 Supplice Mathieu SARANDJI	4249
 Supplied	4242,1084,1027,4806
 Supplied Demand	14957
-Supplier	4676,3994,2051,108,1571,132,505,148,1039,542,12,187,115,213
+Supplier	4676,3994,2051,108,1571,132,505,148,1039,542,12,187,115,213,552
 Supplier Day	11134
 Supplier Duties	13185
 Supplier Finance Arrangements	13053
@@ -1646,7 +1648,7 @@ Supplies and Materials	12977
 Supplies of Laboratories	14736
 Supplies the IDEA Programme	4538
 Supplu	11852
-Supply	1,957,51,275,583,2335,10,1035,575,1010,919,200,36,179,123,351,483,732,863,3,296,181,26,245,484,23,277,76,47,45,209,70,182,160,143,173,46,20,108,212,19,96,34,522,179,144,25,3,17,19,65,65,15,64,69,103,476,2,2,50,30,193,33,243,315
+Supply	1,957,51,275,583,2335,10,1035,575,1010,919,200,36,179,123,351,483,732,863,3,296,181,26,245,484,23,277,76,47,45,209,70,182,160,143,173,46,20,108,212,19,96,34,522,179,144,25,3,17,19,65,65,15,64,69,103,476,2,2,50,30,102,91,33,243,315
 Supply Adequacy Analysis Supply	15904
 Supply Angola	11366
 Supply Chain	10721,413,1021,1011
@@ -1737,7 +1739,7 @@ Supplying	12356,3361
 Suppléant	15908
 Suppléant Prestataire VBG Comprenant	15908
 Suppo10rt.5forSSutpapteorGt	10157
-Support	26,1,1,6,131,71,117,111,4,181,1,139,35,1,22,52,41,18,3,1,8,30,79,52,24,6,43,15,45,20,79,80,22,239,74,36,53,18,103,471,250,66,2,181,31,15,158,73,8,101,37,202,21,236,21,34,91,112,28,76,12,3,84,48,179,707,9,1,54,214,20,142,1,272,465,10,9,10,97,204,51,142,10,2,590,10,311,10,17,86,41,824,51,235,732,302,145,15,30,373,1,42,5,8,43,10,7,5,15,9,8,19,64,8,11,5,24,79,50,1,6,9,31,16,2,6,5,1,25,1,4,1,7,99,121,57,11,50,218,51,8,34,3,5,11,25,11,12,33,58,9,26,48,27,20,7,6,14,2,26,1,5,64,12,34,2,1,1,9,7,23,6,35,4,54,4,10,48,3,105,6,1,6,8,11,28,26,168,10,7,23,2,7,7,27,32,7,9,7,20,105,24,12,2,35,37,15,2,2,6,11,32,2,27,3,67,12,38,11,9,92,37,112,95,1,14,42,64,3,12,20,15,4,136,6,172,52,16,9,7,125,108,49,23,1,5,8,1,12,39,6,1,4,10,13,5,4,24,9,8,1,25,13,12,12,6,17,15,37,18,6,22,10,3,37,8,16,10,19,23,54,8,74,30,39,13,23,31,2,31,1,6,34,1,15,36,31,23,1,2,2,51,2,9,6,170,8,27,208,43,26,53,46,17,23,45,121,16,47,73
+Support	26,1,1,6,131,71,117,111,4,181,1,139,35,1,22,52,41,18,3,1,8,30,79,52,24,6,43,15,45,20,79,80,22,239,74,36,53,18,103,471,250,66,2,181,31,15,158,73,8,101,37,202,21,236,21,34,91,112,28,76,12,3,84,48,179,707,9,1,54,214,20,142,1,272,465,10,9,10,97,204,51,142,10,2,590,10,311,10,17,86,41,824,51,235,732,302,145,15,30,373,1,42,5,8,43,10,7,5,15,9,8,19,64,8,11,5,24,79,50,1,6,9,31,16,2,6,5,1,25,1,4,1,7,99,121,57,11,50,218,51,8,34,3,5,11,25,11,12,33,58,9,26,48,27,20,7,6,14,2,26,1,5,64,12,34,2,1,1,9,7,23,6,35,4,54,4,10,48,3,105,6,1,6,8,11,28,26,168,10,7,23,2,7,7,27,32,7,9,7,20,105,24,12,2,35,37,15,2,2,6,11,32,2,27,3,67,12,38,11,9,92,37,112,95,1,14,42,64,3,12,20,15,4,136,6,172,52,16,9,7,125,108,49,23,1,5,8,1,12,39,6,1,4,10,13,5,4,24,9,8,1,25,13,12,12,6,17,15,37,18,6,22,10,3,37,8,16,10,19,23,54,8,74,30,39,13,23,31,2,31,1,6,34,1,15,36,31,23,1,2,2,51,2,9,6,170,8,27,208,43,26,53,46,17,23,45,121,16,47,73,124
 Support AI	4897,2651,4808,319,786
 Support AI-enabling	1363
 Support API	6948
@@ -1798,7 +1800,6 @@ Support Forum	2674
 Support Francophone Open Governments	9022
 Support Ghana	789
 Support GoR Government of Rwanda LODA Local	14942
-Support Group LSPE State Enterprise Sector	15924
 Support H	14752
 Support Heath Benefit Package Reform	12376
 Support ICT	958,13921
@@ -1988,7 +1989,7 @@ Support the Upgrade	15080
 Support-Split Within ODM	7869
 SupportStaff	11180
 Supportability	14441
-Supported	287,977,278,38,171,202,143,385,517,317,455,91,385,14,206,128,84,856,1005,325,778,21,461,177,129,699,643,60,627,306,10,4,73,184,98,28,77,76,896,30,16,417,55,32,281,38,15,28,91,14,203,26,295,144,154,69,809,232,108,313,343,87,484
+Supported	287,977,278,38,171,202,143,385,517,317,455,91,385,14,206,128,84,856,1005,325,778,21,461,177,129,699,643,60,627,306,10,4,73,184,98,28,77,76,896,30,16,417,55,32,281,38,15,28,91,14,203,26,295,144,154,69,809,232,108,313,343,87,484,283
 Supported Employ	11280
 Supported Employment Enter	11280
 Supported Employment Enterprises	11280
@@ -1997,7 +1998,7 @@ Supported Formats	12211
 Supported Global Refugee Forum	4257
 Supporter	16641
 Supporters	3942,3322,4549,485
-Supporting	34,684,129,111,42,131,1714,113,417,66,21,142,237,128,152,228,83,151,169,29,26,33,391,544,562,131,204,160,115,1,256,344,57,355,403,183,57,2,399,22,177,258,91,64,844,316,3,50,27,107,1,16,151,3,106,51,364,44,206,89,177,60,3,6,13,4,40,203,126,112,239,8,75,212,40,2,117,46,290,112,59,55,2,53,382,78,57,1,108,161,44,9,9,15,10,75,2,35,130,117,91,52,56,35,38,51,25,32,2,62,18,158,15,35,73,55
+Supporting	34,684,129,111,42,131,1714,113,417,66,21,142,237,128,152,228,83,151,169,29,26,33,391,544,562,131,204,160,115,1,256,344,57,355,403,183,57,2,399,22,177,258,91,64,844,316,3,50,27,107,1,16,151,3,106,51,364,44,206,89,177,60,3,6,13,4,40,203,126,112,239,8,75,212,40,2,117,46,290,112,59,55,2,53,382,78,57,1,108,161,44,9,9,15,10,75,2,35,130,117,91,52,56,35,38,51,25,32,2,62,18,158,15,8,27,73,55
 Supporting AI	4126
 Supporting ANC	4349
 Supporting African Entrepreneurs Initiatives	1363
@@ -2196,6 +2197,7 @@ Trade Finance Supply Historically	10718
 Trade Finance Supply for Intra-African Trade	10718
 Trade Finance Supply for Intra-African Trade Intra-African	10718
 Trade Implementation Support Mechanism	13382
+Trade-Ins and Refurbishment Are Building the Supply	16799
 Training and Support	11927
 Transaction Support	8546
 Transform Support Program Graduate	12969
@@ -2208,6 +2210,7 @@ Treasury. Suppliers	13122
 Treatment and Supply	11152
 Treatment and Supply NPPI	11152
 Tuberculosis. Support	4301
+Turns Supply	16799
 Types of Incidents and Level of Support All	775
 UCC Research Support and Collaboration Framework	9781
 UDA Supporters	7869
@@ -2298,7 +2301,7 @@ World Bank Financial Support Prosperity Vice	15844
 World Bank Financial Support Sampling Sampling	15844
 World Bank Geospatial Operation Support Team	10775
 World Bank Grant Supports Zambia	1901
-World Bank Implementation Support Mission	1216
+World Bank Implementation Support Mission	1216,15573
 World Bank Implementation Support Plan	13332,2326
 World Bank Service Delivery and Support	15731
 World Bank Support	3604

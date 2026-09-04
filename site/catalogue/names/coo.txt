@@ -363,6 +363,7 @@ Comissão de Coordenação	15440
 Comité Local de Coordination CNDH	15848
 Comité Technique de Coordination	10712
 Comité de Coordenação	11557
+Comité de Coordenação de Tesouraria	15526
 Comité de Coordination Inter Agence CDMT	15423
 Comité de Coordination Le Comité de Coordination	15936
 Comité de Coordination National	15685
@@ -427,7 +428,11 @@ Cooling Capacity	9123
 Cooling Cooling System	9446,1510
 Cooling System	12253
 Cooling-off	28,11151,1353,387,11
+CoonmdiitçéõePsareaslpímecpiaiciso	15694
+CoonmtruanaisdamduelEhecroensómica	15694
+Coonntvraenaçsãmouslohberreesa	15694
 Coop Bank	12149
+Coop ID	16796
 CoopBank	9876
 CoopCHECK	9876
 CoopID	9876
@@ -440,7 +445,7 @@ Coopera9ao Avenida	4260
 Cooperación	4209,11269
 Cooperación Internacional	4209,2632
 Cooperación Multilateral Excelentísima	1855
-Cooperar	10755,764,3984
+Cooperar	10755,764,3984,23
 Cooperate	1243,4001,3359,2216,466,861,39,1135
 Cooperate Accountabili	8603
 Cooperate Any	12146
@@ -488,6 +493,7 @@ Cooperation Levels of Assurance	10819
 Cooperation Measures	2230
 Cooperation Measuring	10764
 Cooperation Ministry of Foreign Affairs	14770
+Cooperation Not Conquest Is the Key	16812
 Cooperation PART III	1333
 Cooperation Plan International	15661
 Cooperation Privacy Human	1243
@@ -514,7 +520,7 @@ Cooperative Agreement Number NU2HGH000047	11912
 Cooperative Bank	14997
 Cooperative Bank Of Oromia	1471
 Cooperative Bank Of Oromia Digital Lending	1471
-Cooperative Bank of Nigeria	9876
+Cooperative Bank of Nigeria	9876,6920
 Cooperative Bank of Oromia	1471
 Cooperative Bank of Oromia's Coopay-Ebirr	11620
 Cooperative Bank. The Bank	11134
@@ -522,29 +528,34 @@ Cooperative Banking Framework	11134
 Cooperative Banks	15023
 Cooperative Development	14818
 Cooperative Development Commission	8908
+Cooperative Directorate	16796
 Cooperative Effort	1777
-Cooperative Federation of Nigeria	9876
+Cooperative Federation of Nigeria	9876,6920
+Cooperative Identification Number	16796
 Cooperative League	7167
 Cooperative Measures	15120
 Cooperative Member Identification Number	9876
 Cooperative Oversight	12537
+Cooperative Reform and Revamp Programme	16796
 Cooperative Rural Development Bank Burundi	13314,76
 Cooperative Sector Digitalization	9876
 Cooperative Societies Act	9876
+Cooperative Societies Are Struggling	16796
 Cooperative Societies Bill	9876
 Cooperative Societies and Federations	14793
 Cooperative Society	14793
 Cooperative Society Ltd. Mr. S Tengur	14736
-Cooperative Verification Number	9876
-Cooperatives	1867,121,787,9677,2341,1747,61
+Cooperative Verification Number	9876,6920
+Cooperatives	1867,121,787,9677,2341,1747,61,195
 Cooperatives Cabinet Secretary Wycliffe Oparanya	12268
 Cooperatives Division	14770,77
 Cooperatives EWADE Eswatini Water Development Enterprise	12970
+Cooperatives Fail	16796
 Cooperatives SCGs Savings and Credit Groups SOC	15023
 Cooperatives.31. Environment	14410
 Cooperazione Internazionale	8774
 Cooperazione NRC	15661
-Cooperação	167,2521,96,32,703,2499,952,3785,290,329,5,14,30,7,26,75,12,14,12,1218,1,12,2591,49,86,9,521
+Cooperação	167,2521,96,32,703,2499,952,3785,290,329,5,14,30,7,26,75,12,14,12,1218,1,12,2591,49,10,76,9,521
 Cooperação Bilateral	10752,5248,3
 Cooperação China-África	11564
 Cooperação Digital	2816
@@ -639,14 +650,16 @@ Coordenador da Comissão Inspectiva	11452
 Coordenador da Equipa	11456
 Coordenador da UIP	11441
 Coordenador-Adjunto	11378
+Coordenador-Geral	15526
 Coordenadora Dulce Alexandre Beatriz Gomes Mendes	10757
 Coordenadora Engrácia Costa	10757
 Coordenadora Filipe Samuel	10757
 Coordenadora Maria Flora Artur	10757
 Coordenadora Residente	9260,2703,4019,14
 Coordenadora da Difusão Engracia Costa	10757
+Coordenadores-gerais	15526
 Coordenar	167,4051,6536,627,1,53,8,6,12,57,9,374,3602,23,158,71
-Coordenação	5016,5738,605,17,2,28,36,6,8,5,55,15,26,344,869,2621,79,62,3
+Coordenação	5016,5738,605,17,2,28,36,6,8,5,55,15,26,344,869,2621,59,20,56,6,3
 Coordenação Central	10754,4683
 Coordenação Central Forte	11461
 Coordenação Compete	15532,157
@@ -661,6 +674,7 @@ Coordenação Metodológica	11406
 Coordenação Teresa Spínola Anália Silva Directoras-Gerais	4044
 Coordenação da Comissão Interinstitucional	15433
 Coordenação da UIP	11441
+Coordenação de Tesouraria	15526
 Coordenações Comunais da Educação	10766
 Coordina	10826
 Coordinación	1701,2508,11269
@@ -739,7 +753,7 @@ Coordinating Unit PRMED Poverty Reduction	12962
 Coordinating and Advisory Public	6832
 Coordinating the Digital and Future Skills Programme	11230
 Coordinating the PC4IR Strategic Implementation Plan	11230
-Coordination	26,1,1,794,118,18,3,9,28,133,30,100,23,395,149,39,12,216,871,23,55,352,107,80,21,257,265,527,253,226,498,47,706,205,244,54,52,9,91,118,11,49,332,26,35,899,187,44,384,145,442,447,356,199,56,44,17,47,89,168,5,2,9,134,2,631,24,4,64,35,95,5,32,65,98,18,3,54,31,100,7,44,47,260,21,23,24,61,21,133,105,11,4,15,11,3,4,2,78,64,186,270,463,24,104,8,16,12,29,28,44,8,103,41,1,43,12,13,9,39,1,1,21,98,25,9,3,37,8,26,178,41,28,62,5,15,8,52,22,5,19,5,35,26,8,12,42,17,16,41,47,53,23,12,29,72,43,64,43,62,79,318,35,16,26
+Coordination	26,1,1,794,118,18,3,9,28,133,30,100,23,395,149,39,12,216,871,23,55,352,107,80,21,257,265,527,253,226,498,47,706,205,244,54,52,9,91,118,11,49,332,26,35,899,187,44,384,145,442,447,356,199,56,44,17,47,89,168,5,2,9,134,2,631,24,4,64,35,95,5,32,65,98,18,3,54,31,100,7,44,47,260,21,23,24,61,21,133,105,11,4,15,11,3,4,2,78,64,186,270,463,24,104,8,16,12,29,28,44,8,103,41,1,43,12,13,9,39,1,1,21,98,25,9,3,37,8,26,178,41,28,62,5,15,8,52,22,5,19,5,35,26,8,12,42,17,16,41,47,53,35,29,72,43,64,43,62,79,318,35,16,26
 Coordination Act	7548
 Coordination Agent for GPE	12175
 Coordination Centre	6946,535,4751
@@ -829,7 +843,7 @@ Coordination of Youth Parties and Politicians	10104
 Coordination-statistiques	15785
 Coordination. MICT and EPTC	6539
 Coordination. VIII.5. Suivi	10876
-Coordinator	1258,146,373,733,1094,962,1021,2122,3568,124,456,6,145,143,886,200,73,21,47,14,1042,232,194,159,36,317,815,492
+Coordinator	1258,146,373,733,1094,962,1021,2122,3568,124,456,6,145,143,886,200,73,21,47,14,1042,232,194,159,36,317,815,492,99
 Coordinator Engr. A.J. Maina Engr. Usman	11857
 Coordinator General COMSTECH	15251
 Coordinator Haoua Ouattara	3574
@@ -1027,7 +1041,9 @@ Director and COO	5276
 Director of Economic Cooperation and Regional Integration	3238
 Director of IGAD Economic Cooperation	10634
 Director of Planning and Information and Project Coordinator	13332
+Directorate of Cooperative Societies	16796
 Directorate of Social Protection Coordination	12832
+Directors of Cooperatives	16796
 Directrice Coordonnées	15712
 Direitos Humanos. Protocolo de Cooperação	10752
 Diseases NCM National Coordinating Mechanism	12970
@@ -1452,9 +1468,11 @@ Kenya-US Health Cooperation Framework	4583
 Kenya’s National Computer and Cyber Crimes Coordination	8095
 Key Outcomes and Areas of Cooperation Discussions	13170
 Key Process Automated. Improve NSS Coordination	12551
-Korea International Cooperation Agency	208,298,264,136,1315,914,2425,165,932,1464,150,113,39,238,134,155,30,380,61,29,279,394,849,337,178,788,2920,285
+Kogi Moves To Digitise Cooperatives	16796
+Korea International Cooperation Agency	208,298,264,136,1315,914,2425,165,932,1464,150,113,39,238,134,155,30,380,61,29,279,394,849,337,178,788,2920,285,1272,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Korea International Cooperation Agency MINEDUC	14915
-Korea-Africa Economic Cooperation	9905,1958
+Korea's Office for Government Policy Coordination	16752,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Korea-Africa Economic Cooperation	9905,1958,4921
 L'Unité de Coordination des Projets	14578
 L'Unité de Coordination du PROjet de Gouvernance Digitale	14502
 LA COOPERATION	15973,126,76
@@ -1683,6 +1701,7 @@ Nedbank COO Nkuhlu	8974
 Ngoma Transport Cooperative	718
 Ngoma Transport Cooperative. Four	718
 Nick Cook and Lauren Cassells	12048
+Nigeria's Cooperative Digital Transformation Programme	16796
 Nigerian Cooperative Societies Act	9876
 Nigerians. The Project Coordinator	11097
 Nigeria’s Coordinating	5141
@@ -1698,6 +1717,7 @@ Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86,223
 Norwegian Agency for Development Cooperation NRP	12175
 Number of Clean Cooking Connections	12399
 Number of Cooperation	14935
+Núcleo Coordenador Intersectorial da EIPcD	15694
 O Comité de Coordenação	11523
 O Conselho Coordenador de Recenseamento Geral da População	12770
 O Coordenador	10754
@@ -1898,7 +1918,7 @@ Regional Cooperation and Knowledge Exchange Limited	14818
 Regional Cooperation and Sustainable Governance	14808
 Regional Cooperation and Sustainable Governance URL	14808
 Regional Cooperative Oversight Framework	11807,141
-Regional Coordinating Councils	7457,8644
+Regional Coordinating Councils	7457,8388,256
 Regional Coordination	6946,5377
 Regional Coordination Centre for Cybersecurity	14729
 Regional Coordination Mechanisms	9838
@@ -1907,6 +1927,7 @@ Regional Coordinator	11525,626,4352,202
 Regional Coordinator Coordinator	12151
 Regional Coordinator for Civil Registration Hesbon Odhiambo	14640
 Regional Coordinator of UNCTAD	16503
+Regional Coordinators	16775
 Regional Cybersecurity Coordination Centre	16243
 Regional Cybersecurity Coordination Mechanism. On Gender	7452
 Regional Fragility and Resilience Coordinator	13885
@@ -2032,6 +2053,7 @@ Silva Coordenador Técnico Adão Fernando FICHA	10757
 Singapore Cooperation Enterprise	1701,10121
 Singapore Coopération Enterprise	2342
 Sistema de Coordenadas	11405
+Sistema de Coordenação da Estratégia Multissetorial	15694
 Smart Zambia Institute National Coordinator	9379
 Smart Zambia Institute National Coordinator PERCY	5483
 Smart Zambia Institute National Coordinator Percy	12416,1155
@@ -2056,6 +2078,7 @@ Southern African Development Coordination Conference	9959
 Sovereignty and International Cooperation	3861
 Space Cooperation	16331
 Space Cooperation Agreement	16331
+Special Educational Needs Coordinators	16779
 Sr. Estêvão Silvestre Cambindja Chaves Coordenador	10769
 Stakeholder Cooperation	12444
 Stakeholder Coordination	3614,11409
@@ -2268,4 +2291,5 @@ Zambia Artificial Intelligence Cooperation. Presentations	9379
 Zambia Belt and Road Innovation Cooperation Centre	13631
 Zambia Education Program Coordination Unit	13378,14
 Zambia Refugees and Host Communities Project Coordinator	1778
+Zona de Comissão Nacional de Coordenação	15526
 Zonal Coordination Department	2933

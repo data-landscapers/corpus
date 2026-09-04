@@ -371,7 +371,7 @@ Avalia	11569
 Avaliacao	2228
 Avaliacao Nacional da Qualidade	2228
 Avaliacao Rapida	574
-Avaliar	13,2803,1330,72,7163,1,15,164,8,600,3307,208
+Avaliar	13,2803,1330,72,7163,1,15,164,8,600,3281,26,50,158
 Avaliação	576,1562,646,32,703,699,2244,2941,1369,3,8,593,14,16,7,13,9,6,3,5,2,10,81,15,341,136,3442,33,17,6,3,29,130,272,359
 Avaliação Ambiental	6269,5137
 Avaliação Contínua	16019
@@ -750,6 +750,7 @@ Avec le SIGFIP	16071
 Avec le SNID	3581
 Avec le Système	13892
 AvecarsdieomnyofofthSeciAeIntsitfircateRgesye	15713
+Avedsetfiirc-siêenscoizainchoog	15694
 Aveiñ-Nkum	4209
 Avelle	15524
 Aven Marcel Ledira	15692
@@ -808,7 +809,7 @@ Avenue des Trois Martyrs	15439
 Avenue du Docteur Jamot Centre-ville	16413
 Avenue du Gouvernement B.P	13467
 Avenues	1161,9680,119
-Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,300,131,487
+Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487
 Average Annual Natural Hazards	15553
 Average Area	10765,10
 Average Available Capacity	12062
@@ -1160,7 +1161,7 @@ Cnr Mayixhale Street and Adriaanse Ave	8999
 Code de Procédure Pénale. Avant	15643
 Collection Average	11417
 Collins Avenue	4896
-Comissão de Avaliação	11518
+Comissão de Avaliação	11518,4620
 Comité Técnico de Avaliação Científica da IEEE	2816
 Commandant PENDI TSAMBA Avelin	16381
 Commission Electorale Nationale Indépendante. Avant	15414
@@ -1360,6 +1361,7 @@ Enjeux Avec	16281
 Entreprise Avant	14488
 Entreprise Séance Avec	14488,1
 Entretien Suivez Le Grand Entretien Avec	5022
+Environmental Spatial Impact Total Average Rank	15845
 Equity Average	1944
 Es AVEC	14479
 Escola de Formação de Professores Ensino Geral Avaliação	10766
@@ -1491,6 +1493,7 @@ ISF Aveugle	13442
 ITIE Avril	16618
 IX. MONITORIZAÇÃO E AVALIAÇÃO	10772
 Identity Card Available Fees	14045
+Immigration Service Average	15845
 Imtiyaz Avant	13757
 InStock Availability Starts	10244
 Increase Availability of Digital Learning Materials	11918
@@ -1551,6 +1554,7 @@ Kenyatta Ave P.O. Box	14441
 Kigali Genocide Memorial and AVEGA	12358
 Kinguele Aval	16037
 Kinguélé Aval	16037
+Knowledge and ICT Innovation Average Score	15845
 Koudougou. Avis	15769
 Kur Mohammed Ave	5903
 LA PERFORMANCE UN CADRE ORGANISATIONNEL AVEC	2342
@@ -1732,9 +1736,9 @@ ONECI. Avec	3762
 Objet Avis	16395
 Oct-25 Annual Average	13060
 Offres National Avis	15449
-Olavo Avelino Garcia Correia	11901,3532,71,68,647
+Olavo Avelino Garcia Correia	11901,3532,71,22,46,340,226,81
 Olavo Avelino Garcia Correia Promulgado	15440
-Olavo Avelino Garcia Correia. Promulgado	15526
+Olavo Avelino Garcia Correia. Promulgado	15526,386
 Olivier Avoa	2931
 Omer AVALLA Plateau Membre	16485
 Online Availability	12389
@@ -1795,9 +1799,10 @@ Payment of Avoidable Commitment Fees	14546
 Payment of Incorporation Fees Available Through Online	12389
 Países Menos Avançados Popular	11569
 Pelagic Publishing. Available	12090
-Pennsylvania Avenue	10976,898,7,465
+Pennsylvania Avenue	10976,898,7,465,4430
 Per Capita Average Revenue Per Capita	10765
 Percentage Changes of Wage Employment and Average Earnings1	2775
+Percentage of Average	15845
 Percurso Avaliativo	11419
 Performance Organisational Average	11131
 Personnel. Avont	15429
@@ -1840,6 +1845,7 @@ Province Avez-vous	13390
 Présence Nationale Avec	16214
 Public Online Availability of Detailed Criteria and Steps	12389
 Public Online Availability of Requirements Needed	12389
+Public Procurement Authority’s Average Price Database	15845
 Publicly Available	11005
 Publicly Available and Up	12389
 Publics AVI Agent de Vérification Indépendant BAD	10876

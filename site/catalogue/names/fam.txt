@@ -12,7 +12,7 @@ ASSOCIATION GRANDE FAMILLE QUARTIER GENERAL	15848
 Abono de Família	11467,4019,570,248
 Activities Social Services Family and Child Development	15578
 Afrique de FamilySearch	1876
-Agregado Familiar	10754,23,770
+Agregado Familiar	10754,23,770,4591
 Agregado Familiar O IIMS	10777
 Agregado Familiar Os	10760
 Agregado Familiar-Entrevista de Revisão	10777
@@ -70,7 +70,6 @@ Demand for Family Planning	13454,1793
 Department of Gender and Family	12977
 Department of Gender and Family Issues	12939,38
 Department of Population and Family Health	12255
-Des. da Familia Servi	15694
 Development Office Famines Early Warning Systems	10763
 Digital Family Folder	12246
 Divorce and Family Relations Act	7231,5774,100
@@ -126,9 +125,8 @@ Famelezana	14488,1,1
 Fametrahana	14488,1,1
 Fametrahanafanariam-pako Fahadiovan’ny Mialoha	14490
 Famili	10841
-Familia	1701,1167,12826
-Familiar	4258,3019,3476,1188,3579
-Familiar. ICIEG	15694
+Familia	1701,1167
+Familiar	4258,3019,3476,1188,3579,1253
 Familiaridade	11441,15,565,4089
 Familiarisation	9237
 Familiarise	10419
@@ -150,7 +148,7 @@ Famille Ministère	15599
 Famille NTIC ODD	15685
 Famille T	16103
 Familles	15732,797
-Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,814
+Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,193,621
 Family Affairs	14889
 Family Assistance Plan	11855
 Family Assistance Program	11855
@@ -278,6 +276,7 @@ M. Maker Mwangu Famba Former Minister	11916
 MAINSTREAMING GENDER AND FAMILY PROMOTION Rwanda	14935
 ME FAMILY	11964
 MEMBRE DE LA FAMILLE	13300
+MFI Conselho Nacional da Familia	15694
 MFIDS Ministry of Family	16187
 MIGEPROF Ministry of Gender and Family Promotion MINAGRI	14935
 MIGEPROF Ministry of Gender and Family Promotion MINALOC	14947
@@ -291,7 +290,8 @@ Minister of Gender Equality and Family Welfare	14774
 Minister of Gender Equality and Family Welfare Hon	14753
 Minister of Health and Family Welfare	16649
 Ministerio da Familia	11855
-Ministry of Family	10826,1139,4222
+Ministro da Família	16138
+Ministry of Family	10826,1139,3959,263
 Ministry of Family and Human Rights Development	15059
 Ministry of Family and Social Inclusion	11855
 Ministry of Family and Social Inclusion Implementing Agency	11855
@@ -364,6 +364,7 @@ Santé Familiale Dr Elise IKOULA	15599
 Saúde Agregados Familiares Alimentação de Lactentes	10777
 Social Affairs and Family	14976,214
 Social Welfare and Family Welfare and Orange Support	16600
+Solidári Des. da Cuid Medi Familia	15694
 St. Famille School and GS Kinyinya	15101
 Standards OASIS Web Services Notification Family	1009
 Statutory Bodies Family Fund Protection Board	14746

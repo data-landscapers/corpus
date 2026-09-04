@@ -190,7 +190,7 @@ Body AIDE MEMOIRE MALAWI	12980
 Body India-Malawi Bilateral Relations India and Malawi	12979
 Body MALAWI EXTRACTIVES INDUSTRIES TRANSPARENCY INITIATIVE	12932
 Body MALAWI. GOVERNMENT	12900
-Body Malawi	12906
+Body Malawi	12906,3917
 Body Malawi Communications Regulatory Authority Guidelines	13036,3
 Body Malawi Earns Global Recognition for Digital	13214
 Body Malawi Foundational Learning Program for Results	13058
@@ -200,6 +200,7 @@ Body REPUBLIC OF MALAWI ECONOMIC	13060
 Body The University of Malawi	13032
 Body UNDP Malawi Quarterly Progress Report	13080
 Boosting Malawi’s Export Capacity	13053
+Botswana and Malawi	16788
 Botswana and Malawi. Currently	1154
 Botswana's End Malaria Council	12606
 Boulevard NDADAYE Malchior	13567
@@ -234,6 +235,7 @@ Burkina Faso and Niger. Mali	9552
 Burundi Malawi Somalia Madagascar South Sudan	14896
 Business Malawi	14674
 Business RATING BASIC STAGE Malawi	12214
+BusinessMalawiDigital Malawi Acceleration ProjectDigital	16789
 Buy Malawi Strategy	13060,62
 Buyu and Malindi	12115
 Bwaila Hospital. UNDP Malawi	13215
@@ -415,7 +417,7 @@ Digital Malawi Acceleration Project	1572,132,1387,552,35,931,703,222,1536,161,21
 Digital Malawi Acceleration Project ITB	13185
 Digital Malawi Acceleration Project Purchaser	13185
 Digital Malawi Connectivity Initiatives	14395
-Digital Malawi Foundations Project	1704,12970
+Digital Malawi Foundations Project	1704,12970,2149
 Digital Malawi Foundations Project SOP-	1704
 Digital Malawi Program	12214,845
 Digital Malawi Program Phase	230,2842,9181,1078
@@ -466,7 +468,6 @@ Economics Society of Malawi	9341
 Economist Abraham Maliet	3323
 Economy MALAWI DIGITAL READINESS ASSESSMENT	12214
 Edith Chinyumba MALAWI GOVERNMENT	13122
-Eduardo Malasquez Carbonel	15924
 Education Sector Analysis for Malawi	12175
 Egypt Male	11004
 Eikestad Mall	14376
@@ -1081,6 +1082,7 @@ Malari	4260
 Malaria	21,750,592,625,240,1925,14,93,41,48,5620,811,621,16,182,552,187,83,185,17,540,291,351,741,660,205,314
 Malaria Cancer Tuberculosis HIV	12138
 Malaria Commodity	4301
+Malaria Consortium	16751
 Malaria Control	12421
 Malaria Control Programme PI Performance Indicators	15556
 Malaria Contém	966
@@ -1114,7 +1116,7 @@ Malauli	9376
 Malava	6192
 Malava MP Malulu Injendi	2515
 Malavu Data Controller INST-4423414DDF0 NAIROBI Kenya	7167
-Malawi	62,36,56,76,6,13,13,56,22,61,1,1,43,37,118,9,91,23,42,33,26,94,43,51,22,3,10,106,18,71,5,2,82,20,11,1,12,13,45,17,14,75,14,8,11,20,39,24,37,2,9,7,117,4,56,26,63,3,284,54,6,103,20,94,25,3,45,44,24,38,5,3,47,3,38,3,1,3,50,3,6,1,31,8,3,5,13,3,1,70,1,3,5,9,56,11,6,177,18,46,111,24,139,20,35,59,5,6,43,29,69,22,22,97,8,29,21,84,4,49,140,188,5,25,26,22,11,133,1,14,41,57,24,116,32,25,13,120,23,6,63,10,62,51,15,13,32,36,5,9,5,5,42,1,72,24,5,105,29,20,27,28,34,16,29,47,20,20,169,7,7,1,18,17,53,19,64,36,6,42,30,1,4,7,39,6,52,1,59,10,6,28,38,6,2,7,2,4,10,2,1,36,14,62,8,95,29,81,36,14,30,1,14,24,21,73,6,41,1,1,1,29,43,1,22,16,14,17,21,130,19,115,1,28,16,14,62,1,316,7,113,35,116,44,73,290,135,1,43,11,23,44,1,1,4,121,8,202,84,1,8,10,67,24,13,1,61,126,86,41,38,2,18,96,68,116,43,5,69,70,50,70,18,23,4,1,21,50,3,6,37,69,18,9,14,98,7,22,15,16,43,11,129,85,152,3,37,8,95,19,124,15,13,3,1,2,29,1,5,70,87,60,3,9,1,9,3,2,4,2,1,1,2,3,1,5,7,3,4,3,6,3,1,2,1,15,2,6,1,1,10,1,8,2,15,8,5,8,10,6,18,8,11,1,16,16,30,73,169,14,217,3,7,2,1,2,3,2,1,8,1,14,1,8,1,10,1,1,8,2,1,13,1,1,1,2,2,3,5,8,4,1,1,2,18,2,1,2,3,1,3,1,13,2,2,1,1,1,4,6,4,6,3,3,8,1,3,1,12,1,1,1,1,5,1,1,3,2,1,2,4,6,4,3,1,1,3,4,1,1,2,2,3,1,11,8,6,5,3,4,6,5,2,12,1,8,3,1,1,38,33,19,14,19,5,18,19,5,3,16,41,22,38,25,6,73,25,2,50,79,211,95,68,23,1,69,32,39,16,28,21,7,272,152,197,292,156,47,140,350
+Malawi	62,36,56,76,6,13,13,56,22,61,1,1,43,37,118,9,91,23,42,33,26,94,43,51,22,3,10,106,18,71,5,2,82,20,11,1,12,13,45,17,14,75,14,8,11,20,39,24,37,2,9,7,117,4,56,26,63,3,284,54,6,103,20,94,25,3,45,44,24,38,5,3,47,3,38,3,1,3,50,3,6,1,31,8,3,5,13,3,1,70,1,3,5,9,56,11,6,177,18,46,111,24,139,20,35,59,5,6,43,29,69,22,22,97,8,29,21,84,4,49,140,188,5,25,26,22,11,133,1,14,41,57,24,116,32,25,13,120,23,6,63,10,62,51,15,13,32,36,5,9,5,5,42,1,72,24,5,105,29,20,27,28,34,16,29,47,20,20,169,7,7,1,18,17,53,19,64,36,6,42,30,1,4,7,39,6,52,1,59,10,6,28,38,6,2,7,2,4,10,2,1,36,14,62,8,95,29,81,36,14,30,1,14,24,21,73,6,41,1,1,1,29,43,1,22,16,14,17,21,130,19,115,1,28,16,14,62,1,316,7,113,35,116,44,73,290,135,1,43,11,23,44,1,1,4,121,8,202,84,1,8,10,67,24,13,1,61,126,86,41,38,2,18,96,68,116,43,5,69,70,50,70,18,23,4,1,21,50,3,6,37,69,18,9,14,98,7,22,15,16,43,11,129,85,152,3,37,8,95,19,124,15,13,3,1,2,29,1,5,70,87,60,3,9,1,9,3,2,4,2,1,1,2,3,1,5,7,3,4,3,6,3,1,2,1,15,2,6,1,1,10,1,8,2,15,8,5,8,10,6,18,8,11,1,16,16,30,73,169,14,217,3,7,2,1,2,3,2,1,8,1,14,1,8,1,10,1,1,8,2,1,13,1,1,1,2,2,3,5,8,4,1,1,2,18,2,1,2,3,1,3,1,13,2,2,1,1,1,4,6,4,6,3,3,8,1,3,1,12,1,1,1,1,5,1,1,3,2,1,2,4,6,4,3,1,1,3,4,1,1,2,2,3,1,11,8,6,5,3,4,6,5,2,12,1,8,3,1,1,38,33,19,14,19,5,18,19,5,3,16,41,22,38,25,6,73,25,2,50,79,211,95,68,23,1,69,32,39,16,28,21,7,272,152,197,292,156,47,140,350,768,12,1,15,19
 Malawi Acceleration Plan	14674
 Malawi Acceleration Project	10411,1842,774,1647
 Malawi Action	12985
@@ -1160,7 +1162,7 @@ Malawi College of Fisheries	13060
 Malawi College of Health Sciences	12253
 Malawi College of Health Services	13040
 Malawi Communications	12214,27
-Malawi Communications Regulatory Authority	1704,1398,6,570,494,411,26,925,14,504,894,418,47,1,31,43,39,1692,729,464,2,236,1518,6,15,45,8,13,10,52,593,33,95,44,34,1076,184,300
+Malawi Communications Regulatory Authority	1704,1398,6,570,494,411,26,925,14,504,894,418,47,1,31,43,39,1692,729,464,2,236,1518,6,15,45,8,13,10,52,593,33,95,44,34,1076,184,300,2149
 Malawi Communications Regulatory Authority Date	13035
 Malawi Communications Regulatory Authority MDAT	12175
 Malawi Communications Regulatory Authority MDAs Ministries	12241,839,15
@@ -1251,7 +1253,7 @@ Malawi GSMA	10819
 Malawi Gaming and Lotteries Authority	13122
 Malawi Gazette Supplement	12908,50
 Malawi Gazette Supplement No	10130
-Malawi Government	1632,2540,618,7385,12,27,39,645,19,15,32,89,69,6,1546
+Malawi Government	1632,2540,618,7385,12,27,39,645,19,15,32,89,69,6,1546,2130
 Malawi Government Justin Saidi	13177
 Malawi Government’s Medium Term Expenditure Framework	13053
 Malawi Growth Development Strategy III	12175
@@ -1309,6 +1311,7 @@ Malawi Mining Company	13122
 Malawi Mining Investment Company	13060
 Malawi Mining Investment Forum	13060
 Malawi Ministry of Agriculture	13094,1580
+Malawi Ministry of Information and Communications Technology	16823
 Malawi Ministry of Information and Digitalization	12981
 Malawi Ministry of Trade and Industry National Single	14674
 Malawi Missions	12217
@@ -1642,6 +1645,7 @@ Malawi. The United Nations Development Programme	12241,839,15
 Malawi. This Strategy	12917
 Malawi. This Taskforce	12241
 Malawi. Through	1451
+Malawi. Topic	16823
 Malawi. Transforming	12175
 Malawi. Transforming How Justice Is Delivered	8286
 Malawi. UNCDF	12941
@@ -1661,7 +1665,7 @@ Malawi24 Reporter More Malawian	7291
 Malawi24 Skip	3035,253,61,689,520,84,1026,183,181,224,255,42,811,48
 MalawiLII	13151,3
 MalawiRead	6598
-Malawian	2231,804,73,180,43,18,329,142,218,20,500,51,33,1026,183,181,224,255,42,201,55,221,234,100,48,75,912,176,152,1384,19,606,995,413,28,2,1,12,27,2,1,15,8,1,37,13,24,576,7,39,4,23,15,26,2,33,20,35,3,46,8,1107,415
+Malawian	2231,804,73,180,43,18,329,142,218,20,500,51,33,1026,183,181,224,255,42,201,55,221,234,100,48,75,912,176,152,1384,19,606,995,413,28,2,1,12,27,2,1,15,8,1,37,13,24,576,7,39,4,23,15,26,2,33,20,35,3,46,8,1107,415,2080
 Malawian AI By Benson Kunchezera	10111
 Malawian AI German-EU	10111
 Malawian Birth Certificate	12216
@@ -1768,6 +1772,7 @@ Maldives National Identity Card	10714
 Maldives and St Lucia	11855
 Maldives. The Special Chamber of ITLOS	14742
 Male Academic	9128
+Male Annually	15845
 Male Attending	12431
 Male Basic Phone Feature Phone Smartphone	582
 Male Circumcision	15247
@@ -1814,6 +1819,7 @@ Male Overall	12409
 Male Population	9485,2910
 Male Preference	16266
 Male Primary	15604
+Male Quarterly	15845
 Male Young	14897
 Male and Female	12253
 Male-dominated Sectors	10964
@@ -1964,7 +1970,7 @@ Malika Mouas	15930
 Malike Kendeh	12541
 Malili Township	1638
 Malimong	309
-Malindi	104,1027,10984,2485
+Malindi	104,1027,10984,2485,2203
 Malindi High School	10313
 Malindi Mfazi	6151
 Malindi Solar	10313,1943
@@ -2426,6 +2432,7 @@ Seasonal Malaria Chemoprevention	11586
 Selon Moov Africa Malitel	7728
 Selon le Mali-Mètre	10554
 Semu Malabo	4209
+Senegal and Malawi	16776
 Senegal and Mali	2813,648,7400
 Senior Energy Specialist Matteo Maria Malacarne	16654
 Services La Commission Malagasy	14412
@@ -2457,7 +2464,7 @@ Smile Mall	6011,985
 Société B2GOLD MALI RESOURCES SARL	9287,55
 Société Malienne de Transmission	7999
 Société des Textiles du Mali	8237
-Solly Malatsi	2946,1296,618,92,98,10,115,332,105,196,125,35,183,217,683,5,40,84,47,375,36,341,293,126,203,67,278,989,32,162,86,321,261,249,189,3003
+Solly Malatsi	2946,1296,618,92,98,10,115,332,105,196,125,35,183,217,683,5,40,84,47,375,36,341,293,126,203,67,278,989,32,162,86,321,261,249,189,3003,2557
 Solly Malatsi SpaceX Starlink WhatsApp YouTube	5933
 Solly Malatsi and President Cyril Ramaphosa	7318
 Solly Malatsi. Communications	9935
@@ -2640,7 +2647,7 @@ WESTSIDE MALL and CK Patel Building	7167
 WOMEN INCLUSIVITY IN MALAWI	12941
 Wealthy and Self-reliant Nation. Malawi	12175
 Webster Malido	9082
-Westgate Mall	5716
+Westgate Mall	5716,11071
 Willy SAGBE Soumaïla MALO	10850
 Wilson Malima	9688,90
 Within the Digital Malawi Acceleration Project. Local-govt	5312
@@ -2649,7 +2656,7 @@ World Bank Digital Malawi Acceleration	1704
 World Bank Digital Malawi Initiative	12214
 World Bank Group President David Malpass	13332
 World Bank Malawi Rural Electrification	12214
-World Bank-funded Digital Malawi Acceleration Project	7070
+World Bank-funded Digital Malawi Acceleration Project	7070,9753
 World Health Organization Malawi WHO MALAWI	13166
 World Malaria Report Annual	4301
 X IAMGOLD EXPLORATION MALI GUINEE SUCCURSALE	16623

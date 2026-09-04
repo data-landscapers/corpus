@@ -49,6 +49,7 @@ CMU Country Management Unit CN-TIPPEE National	15511
 CMU Country Management Unit CNP Concelho	11380
 CN CN	14867
 CN Consulting	4043
+CN FECAD	15694
 CN Mozambique	9441
 CN TIPPEE	15411
 CN TIPPEE National Commission	15411
@@ -61,6 +62,7 @@ CN-TIPPEE M Entity	15411
 CN-TIPPEE Maintain	15411
 CN-TIPPEE Secretary Permanent	15411
 CN-TIPPEE. The POM	15411
+CN3SA	16776
 CNAM Conseil National	16626
 CNAM Dépend	15936
 CNAM GS	15518
@@ -146,6 +148,7 @@ CNE AND ELECTORAL	9399
 CNE Cadernos Eleitorais	10271
 CNE Comissão Nacional Eleitoral	10765,10
 CNE Commission	12201
+CNE DD063061-D0E2-4804-8778-73FA945E4D17	15694
 CNE Electoral Allocation of Seats Constituency	12201
 CNE Linha Gratuito	16141
 CNE Postado	10271
@@ -196,7 +199,8 @@ CNERIB Révision Réunion	16103
 CNERTP	15416
 CNES Airbus	15473
 CNESRS	1183
-CNEST	11963,3572
+CNEST	11963,3487,85
+CNEST Contraordenações	15450
 CNESVS-km	10919
 CNESVSCI	15711
 CNEUF	15493,20,40
@@ -537,6 +541,7 @@ Ex CNC	10965
 Executive Order IN-4 Establish CNI Database	11857
 FCFA CNI	6674
 Fonctions CNERIB Nouveau	16103
+Fortes Técnica CNDHC Helena Gomes Alves	15694
 France's CNIL	4583,1606,6021
 G By CNBC Africa Published	8266
 Gb CNA Storage	11209
@@ -632,6 +637,7 @@ Numéro CNSS	16249
 O CNDSF	15526
 O CNDSP	15526
 O CNEFP	15526
+O CNEST	15450
 O CNI	7466,7926
 O CNR	11365
 O CNT	6307,2437
@@ -659,6 +665,7 @@ Pour le CNT	6959
 Presidente Interino da CNE	11561
 Presidente da CNE	11432,129
 Presidente da CNE Carmem Batista Lobo	10271
+Presidente da CNEST	15450
 Presidente da CNIA	12823
 Presidente da CNPD	3079,13063
 Presidência da CNE	11561

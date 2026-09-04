@@ -291,19 +291,26 @@ Agregado Comercial	4209
 Agregado Comercial A1	4209
 Agregado Comercial A2	4209
 Agregado Comercial A3	4209
+Agregado Conjugal	16138
 Agregado Consular	4209
-Agregado Familiar	10754,23,770
+Agregado Familiar	10754,23,770,4591
 Agregado Familiar O IIMS	10777
 Agregado Familiar Os	10760
 Agregado Familiar-Entrevista de Revisão	10777
 Agregado Família	15437
+Agregado Jovem Casal	16138
+Agregado Jovem Solteiro	16138
 Agregado Militar	4209
 Agregado Militar A1 Agregado Militar A2	4209
 Agregado Militar A3	4209
 Agregado MilitarA3 Consejero A1 Consejero A2	4209
+Agregado Não Conjugal	16138
 Agregado de Prensa	4209
 Agregados	10777,669,131,4867
 Agregados Familiares	4044,6733,644,5023
+Agregados Jovens	16138
+Agregados Jovensnão	16138
+Agregados de Baixo Rendimento	16138
 Agregando	10772,784
 Agregar	1701,13775
 Agregation	2461
@@ -504,7 +511,7 @@ Agricultural and Environmental Soil	1988
 Agricultural and Livestock Processing	11579
 Agricultural and Marine Engineering	13972
 Agriculturalists	6948
-Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,161,12,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25
+Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25
 Agriculture AI	4528,7984
 Agriculture Acting Head	12972
 Agriculture Activités	13341
@@ -1254,7 +1261,7 @@ Farming and Agribusiness. Approval Fiscal Year	16398
 Fashop Agritech E2R Solutions Charbon Déch	16693
 Federal Ministry of Agriculture	5267,4609,281
 Federal Ministry of Agriculture and Food	3742
-Federal Ministry of Agriculture and Food Security	5765,1454,2657
+Federal Ministry of Agriculture and Food Security	5765,1454,2657,6920
 Felicia Imohimi The National Agricultural	8659
 Female Agripreneurs	5923,191,295,107,247,33,469
 Female Male All Agriculture	10841
@@ -1334,7 +1341,7 @@ Foundation for Sustainable and Inclusive Agriculture	10931
 Foundation for Transforming Kenya’s Agriculture	11140
 Frame Supply Agreement	78,1
 Framelvork Agrecnrcnt	15399
-Framework Agreement	6921,4180,1288,1023,149,1181,657,857,19
+Framework Agreement	6921,4180,1288,1023,149,1181,657,857,19,525
 Framework Agreements	6432
 Free Trade Agreement	3861
 Free Trade Agreements	16234
@@ -1744,7 +1751,7 @@ Minister of Agriculture and Food Security	7219,2746
 Minister of Agriculture and Food Security and Mr. Jean	16256
 Minister of Lands and Agriculture	7236,5369,2
 Minister of State for Agriculture	16331
-Minister of State for Agriculture and Food Security	9876
+Minister of State for Agriculture and Food Security	9876,6920
 Ministerio de Agricultura	6841
 Ministries of Agriculture	1257,4270,6798,1018
 Ministries of Agro-Industry	14818
@@ -1890,7 +1897,7 @@ Nutrition-Sensitive Agriculture	14818
 Nutrition-Sensitive Agriculture Agricultural	14818
 Nível de Agregação	966
 O AgroPraga	16229
-O Ministério da Agricultura	11979
+O Ministério da Agricultura	11979,3547
 O Projeto de Desenvolvimento da Agricultura Comercial	10769
 OMG Agriculture Services	15048
 OPEX Agree Funding Options Department of Policy	11857
@@ -1901,6 +1908,8 @@ Operation and Maintenance Phase of Agrobusiness Activities	1988
 Organised Agriculture	11188
 Orientation Agricole	2342
 Orientation Agricole. Institué	2342
+Os Agregados Jovens	16138
+Os Agregados de Baixo Rendimento	16138
 Output Agreement	14976
 Overview of Agreed Commitments and Announcements	15661
 Ownership of Agricultural Land for Domestic Firm	12389
@@ -1929,6 +1938,7 @@ Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,8
 Paris Agreement Implementation Platform	13057
 Paris Agreement's Enhanced Transparency Framework	3431
 Paris Agreement. Enhancing Wildfire Preparedness	11332
+Paris Agreement. Methodology	15845
 Paris Agreement. Promoting	1867
 Paris Agreement. The EU	11536
 Paris Agreement. The NDC	11586

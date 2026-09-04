@@ -216,6 +216,7 @@ Cameroon No Canada Yes Innovation Agenda	11529
 Cameroon’s Ministry of Scientific Research and Innovation	15480
 Capacity Building and Innovation	15714
 Capacity Building and Innovation Public	15714
+Capacity Building for Learning and Innovation	15845
 Catalyzed Homegrown Innovation and Entrepreneurship	13095
 Catalyzing Homegrown Innovation and Entrepreneurship	13095
 Categories Tech and Innovation Every	10015
@@ -400,6 +401,7 @@ Digital Innovations Technical	12241
 Digital Innovations and M and E Framework for Free	16218
 Digital Innovations for Developing Solutions	12241,839
 Digital Innovators Summit12	12675
+Digital Learning and Innovation Manager	16775
 Digital Social Innovation Grants Enabel	256
 Digital Support Innovations EHR WhatsApp Helpdesk	12508
 Digital Technology and Innovation	2338,1799,569,67,1197,4147,5871
@@ -424,7 +426,7 @@ Digital and Innovation	11863
 Digital and Innovation Hub	11978
 Digital and Innovation Hub Botswana International University	1554
 Digitale Innovationen Made	1423
-Digitalisation and Innovation	9199,1933,4184
+Digitalisation and Innovation	9199,1933,4184,1486
 Digitalisation and Innovation Hub	12598
 Digitalisation and Innovations	3848
 Digitalization and Innovation	3806,2188,1621,76,30,476,344,1,319
@@ -657,6 +659,7 @@ Human Capital Education Innovation Science	12512
 Humanity Advocacy Knowledge Innovation	9082
 IAC A Strategic Hub for Innovation	13551
 IBRD Fund for Innovative GPG Solutions	11417,971
+ICT Innovation	15845
 ICT Innovation Awards	14879
 ICT Innovation Ecosystem Strengthening Project	207,691
 ICT Innovation Programme and Business Process Outsourcing	1283
@@ -740,7 +743,7 @@ Industry Innovation and Infrastructure	11855
 Industry and Innovation	5700
 Inequality Innovation Gender Index Global Index	13358
 Influence of Innovation Leakages	7548
-Information Technology and Innovation	7034,3163,195
+Information Technology and Innovation	7034,3163,195,6385
 Information Technology and Innovation Foundation	961,282,5966
 Information Technology and Innovations Division	14843
 Information Technology. International Journal of Innovations	11265
@@ -812,7 +815,7 @@ Innovating Beyond Payments	14054
 Innovating Tanzania's Path	10195
 Innovating Together	2292,5
 Innovating for Children and Youth	7171
-Innovation	396,5,119,17,21,58,27,75,29,1,17,24,39,71,62,9,111,73,7,17,3,33,4,25,4,17,13,191,86,7,2,139,75,37,82,88,291,9,1,38,16,20,35,78,57,34,45,69,5,14,21,58,1,3,30,16,14,15,1,16,9,86,9,24,33,1,100,44,19,54,17,44,51,16,13,5,55,5,31,8,53,68,6,76,19,3,12,28,65,10,26,9,72,45,59,79,69,3,67,61,125,78,8,31,90,41,16,2,103,8,7,6,8,80,8,21,67,12,12,13,25,3,152,2,2,26,16,170,3,35,29,63,89,24,13,32,6,5,70,129,59,51,1,4,10,4,11,41,21,66,1,8,3,52,17,37,25,22,7,8,13,16,142,26,46,14,133,39,2,6,23,37,37,9,34,9,89,32,9,3,82,64,131,4,128,11,6,69,57,3,4,1,38,1,30,129,3,1,69,19,2,3,1,28,40,21,4,25,25,60,28,10,32,18,6,41,47,142,11,24,26,83,3,1,41,67,28,102,54,35,3,5,46,33,61,109,88,35,36,22,5,23,6,39,11,17,112,84,106,59,113,69,29,42,18,6,1,37,42,35,38,75,62,39,24,6,15,45,9,25,59,11,40,56,45,13,7,3,2,16,12,29,1,1,51,13,162,3,1,3,2,16,83,65,191,38,92,5,33,4,65,1,2,122,27,1,10,14,43,23,10,1,10,8,21,30,14,35,3,52,1,15,29,1,5,24,7,59,29,4,5,13,4,1,13,7,5,8,6,1,36,25,30,6,15,4,32,8,19,18,85,1,9,3,7,14,22,29,84,13,61,18,6,25,5,1,5,17,16,32,6,8,20,1,3,20,6,90,18,3,30,9,4,35,36,10,18,84,14,17,77,11,87,22,2,15,77,81,15,21,17,10,10,21,31,7,13,13,175,140,1,1,89,30,1,29,85,66,1,9,55,3,7,27,2,1,3,9,8,3,3,16,2,3,17,2,26,1,16,44,1,17,24,22,54,22,4,11,86,8,2,9,34,18,8,69,53,47,8,98,17,3,48,26,15,5,3,89,21,9,2,1,7,43,6,9,9,1,60,73,10,5,53,4,6,38,6,4,52,3,29,13,7,3,4,1,20,108,54,16,18,6,1,12,10,69,64,36,53,1,3,4,19,34,16,8,14,6,11,5
+Innovation	396,5,119,17,21,58,27,75,29,1,17,24,39,71,62,9,111,73,7,17,3,33,4,25,4,17,13,191,86,7,2,139,75,37,82,88,291,9,1,38,16,20,35,78,57,34,45,69,5,14,21,58,1,3,30,16,14,15,1,16,9,86,9,24,33,1,100,44,19,54,17,44,51,16,13,5,55,5,31,8,53,68,6,76,19,3,12,28,65,10,26,9,72,45,59,79,69,3,67,61,125,78,8,31,90,41,16,2,103,8,7,6,8,80,8,21,67,12,12,13,25,3,152,2,2,26,16,170,3,35,29,63,89,24,13,32,6,5,70,129,59,51,1,4,10,4,11,41,21,66,1,8,3,52,17,37,25,22,7,8,13,16,142,26,46,14,133,39,2,6,23,37,37,9,34,9,89,32,9,3,82,64,131,4,128,11,6,69,57,3,4,1,38,1,30,129,3,1,69,19,2,3,1,28,40,21,4,25,25,60,28,10,32,18,6,41,47,142,11,24,26,83,3,1,41,67,28,102,54,35,3,5,46,33,61,109,88,35,36,22,5,23,6,39,11,17,112,84,106,59,113,69,29,42,18,6,1,37,42,35,38,75,62,39,24,6,15,45,9,25,59,11,40,56,45,13,7,3,2,16,12,29,1,1,51,13,162,3,1,3,2,16,83,65,191,38,92,5,33,4,65,1,2,122,27,1,10,14,43,23,10,1,10,8,21,30,14,35,3,52,1,15,29,1,5,24,7,59,29,4,5,13,4,1,13,7,5,8,6,1,36,25,30,6,15,4,32,8,19,18,85,1,9,3,7,14,22,29,84,13,61,18,6,25,5,1,5,17,16,32,6,8,20,1,3,20,6,90,18,3,30,9,4,35,36,10,18,84,14,17,77,11,87,22,2,15,77,81,15,21,17,10,10,21,31,7,13,13,175,140,1,1,89,30,1,29,85,66,1,9,55,3,7,27,2,1,3,9,8,3,3,16,2,3,17,2,26,1,16,44,1,17,24,22,54,22,4,11,86,8,2,9,34,18,8,69,53,47,8,98,17,3,48,26,15,5,3,89,21,9,2,1,7,43,6,9,9,1,60,73,10,5,53,4,6,38,6,4,52,3,29,13,7,3,4,1,20,108,54,16,18,6,1,12,10,69,64,36,53,1,3,4,19,34,16,8,14,6,11,5,27
 Innovation Act	14768
 Innovation Adoption	14819
 Innovation Adoption Review	14819
@@ -1097,7 +1100,7 @@ Innovations for Successful Societies	12333
 InnovationsEmerging TechnologiesRead	5537
 Innovationskraft	694,1
 Innovationszentren	614
-Innovative	10,779,110,305,620,1780,187,469,172,218,883,1595,3713,122,1,13,8,252,620,129,161,209,43,94,363,312,146,147,1213,55,13,76,105,23,51,556,108
+Innovative	10,779,110,305,620,1780,187,469,172,218,883,1595,3713,122,1,13,8,252,620,129,161,209,43,94,363,312,146,147,1213,55,13,76,105,23,51,556,108,184
 Innovative Advanced Windwall Rooftop Technology	14745
 Innovative Apprenticeships	6948
 Innovative Approaches	13477
@@ -1186,6 +1189,10 @@ Kabogo Gitau and Rwanda Minister of ICT and Innovation	4030
 Key Arena for Innovation and Competition	7334
 Kigali Innovation City	812,2586,5808
 Kigali Innovation City Company	812
+Knowledge and ICT Innovation	15845
+Knowledge and ICT Innovation Average Score	15845
+Knowledge and ICT Innovation Indicator	15845
+Knowledge and ICT Innovation X MINTER Police	15845
 Knowledge and Innovation Exchange	15960
 Korea-Tanzania Healthcare Innovation Event	14398
 Kouamé Innocent	8694
@@ -1226,6 +1233,7 @@ M. BEUGRÉ Innocent Kevin	7805
 MCIT’s Applied Innovation Center	15992
 MECHANISMS FOR DATA INNOVATION	1243
 MESOB Innovation Exhibition	6860
+MINTE All Agencies and ICT Innovation R	15845
 MOBEX Africa Tech Innovation Conference	5970
 MOBILIZE PRIVATE SECTOR INVESTMENT AND INNOVATION	15977
 MODERNISATION DE L’ADMINISTRATION ET INNOVATION	16365
@@ -1331,6 +1339,7 @@ National AI Innovation Ministry of Finance	12512
 National Artificial Intelligence Innovation Fund	3760,9683
 National Centre for ICT Integration and Innovation	899
 National Digital Innovation Profile Workshop	9434
+National Digitalisation and Innovation Strategy	16802
 National ICT Innovation Awards	5906,8468
 National ICT Innovation Awards Malawi	5906
 National ICT Innovation Hub	2676,2433,1756,787,1207,530,512,2973,1314
@@ -1345,7 +1354,7 @@ National Innovation Hub Standards Framework	10573,107,624
 National Innovation Hub Standards Framework Workshop	10573
 National Innovation Initiative	12376,970
 National Innovation System	5700
-National Innovation and Digital Strategy	3378
+National Innovation and Digital Strategy	3378,13381
 National Innovator Registry	6239,49
 National Innovator Registry. Dr. Aminah Zawedde	6239
 National Payment Systems Centre of Excellence and Innovation	12390
@@ -1482,7 +1491,7 @@ Report Access The Nigerian Innovation Hub	12053
 Republic of Rwanda Ministry of ICT and Innovation	1204
 Research Assessment DSI Department of Science and Innovation	5246
 Research Innovation and Agri-Tech	14818
-Research and Innovation	2335,5213,4808,188,131,1630,340,84,18
+Research and Innovation	2335,5213,4808,188,131,1630,340,84,18,2025
 Research and Innovation Directors Forum	1554
 Research and Innovation Mauritius	14747
 Research and Innovation Policy	12675
@@ -1522,6 +1531,7 @@ Safe Innovation Open Data Rights	1243
 Sahal Tech Innovation Challenge	11622,30,4734
 Sahal Tech Innovation Las	16386
 Sahal Tech Smart Innovation Hub	16386
+Satellite Innovation	16811
 Savannah Inno-	14897
 Savannah Innovation Labs	4807
 Scalability of Innovations and Interventions	13998
@@ -1550,8 +1560,10 @@ Service Innovation Technologique	15701
 Service and Innovation Act	14768
 Shifting Attitudes Towards Innovation and Legal Challenges	11909
 Showcase of Innovation	13005
+Sierra Leone Government's National Innovation and Digital	16759
 Sierra Leone Innovation Investment Fund	8610
 Sierra Leone Innovation Showcase	5276
+Sierra Leone's National Innovation and Digital Strategy	16759
 Sistema Nacional de Innovación	1701
 Skilled and Innovative Human	12444
 Skills and Innovation	11712,1445

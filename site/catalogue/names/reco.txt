@@ -114,7 +114,6 @@ Backup and Recovery Requirement	11952
 Bamidele Famoofo The European Bank for Reconstruction	11735
 Bank for Reconstruction and Development	10768,4745,473
 Bank for Reconstruction and Development IDA IFC Information	16144
-Bank for Reconstruction and Development WB World Bank	15924
 Banque. Recommandations	16012
 Best Practices and Recommendations	11133
 Blueprint for Health Records Research	14434
@@ -412,11 +411,12 @@ Enhanced Electronic Health Record	12379
 Enhancing International Recognition	15104
 Equipment EHR Electronic Health Records EIA	2775
 Equity Group’s Africa Recovery and Resilience Plan	7073
+Era Of Manual Records	16796
 Eskom’s Generation Recovery Plan	11992
 Et Dépasse Un Record De Pelé	4960,62,2035
 Ethics Recommendations	12356
 Ethio Telecom Reports Record Revenue Growth	7688
-European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4,301,99,272,1054,978,776,43,21,439,1087,36,546,13,7,181,113,1562,6,219,682,241,442,11,134,1220,233,97
+European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4,301,99,272,1054,978,776,43,21,439,1087,36,546,13,7,181,113,1562,6,219,682,241,442,11,134,1220,233,97,458
 European Bank for Reconstruction and Development. Digital	9632
 European Criminal Records Information System	10979
 Evidências Recomendações	15966
@@ -1039,7 +1039,7 @@ Recognise. Avoid. Respond. Recognise	10725
 Recognised	6832,4568,1252
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Recognised System	12528
-Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67,775,358,68,78,72,67,284,5,4,25,312,48,104,223,354,370,55,284,13,11,353,217,1169
+Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67,775,358,68,78,72,67,284,5,4,25,312,48,104,223,354,370,55,284,13,11,353,217,1169,264
 Recognising AI	14601
 Recognising ICT	7365
 Recognising Liberia	5244
@@ -1063,7 +1063,7 @@ Recognition of Digital Currencies for Cross-Border Payments	12389
 Recognition of Donors UNHCR	10864
 Recognition of National ID for Accessing Services Nationwide	12214
 Recognition of Nodal Agency	12917
-Recognition of Prior Learning	11504,1430,126,1516,243,1856
+Recognition of Prior Learning	11504,1430,126,1516,243,1856,94
 Recognition of Qualifications	7760
 Recognition of Rights	14742
 Recognition of Smallholders	14818
@@ -1084,14 +1084,17 @@ Recognizing Digital Leadership The Minister of Information	4535
 Recognizing Nairobi's Refugees	12227
 Recognizing Sudan	14897
 Recognizing the Candidate RIR	3503
-Recolha	10754,3,9,655,9,16,34,89,8,324,883,2574,34,53
+Recolha	10754,3,9,655,9,16,34,89,8,324,883,2574,34,53,5
+Recolha Artigo	15450
 Recolha Coerciva de Cartão de Eleitor	11425
+Recolha Direta	15450
+Recolha Indireta	15450
 Recolha de Dados	10772
 Recolha de Informações Básicas	11406
 Recolha de Informações Pessoais	11368
 Recolhe	10777
 Recolhedor	11582
-Recolher	10777,605,22,26,4015
+Recolher	10777,605,22,26,4015,81
 Recolhidos	15385
 Recombinante	15930
 Recomenda	16325
@@ -1306,6 +1309,7 @@ Reconhecimento	2816,8766,319,3443,126,224,328
 Reconhecimento Biométrico	3519
 Reconhecimento Facial	2816
 Reconhecimento da Autenticidade de Requisitos Documentais	2816
+Reconhecimento daEs	15694
 Reconhecimento. Fonte	2816
 Reconnaissance	1231,1501,6159,4484,67,339,663,1049,1143
 Reconnaissance Locale	14444
@@ -1385,8 +1389,9 @@ Recordamos	10753
 Recordando	11393,4084
 Recorde Diário	11434
 Recorde-se	3603,2617,1661,1083
-Recorded	673,2,1,93,285,87,65,32,54,1,42,1,83,253,1,90,21,1,2,7,3,213,47,1,19,1,1,73,83,412,381,173,1,2,3,3,644,516,1,36,1,1,80,67,50,528,113,351,26,10,7,1,98,280,1,10,351,26,178,496,1,2,3,2,247,211,479,122,71,64,207,534,78,6,1671,132,2,40,107,73,11,1,1,45,10,775,28,443,2194
+Recorded	673,2,1,93,285,87,65,32,54,1,42,1,83,253,1,90,21,1,2,7,3,213,47,1,19,1,1,73,83,412,381,173,1,2,3,3,644,516,1,36,1,1,80,67,50,528,113,351,26,10,7,1,98,280,1,10,351,26,178,496,1,2,3,2,247,211,479,122,71,64,207,534,78,6,1671,132,2,40,107,73,11,1,1,45,10,775,28,443,2194,2109
 Recorded Consumption	9409
+Recorded Count	15845
 Recorded DVD	6921
 Recorded Employment1	2775
 Recorded Future	9399
@@ -1552,6 +1557,7 @@ Revenue Recognition	15169
 Review Performance Recognition Structure	11134
 Review of Recovery	12253
 Reward and Recognition The Central Bank of Eswatini	11134
+Risk Area Description Potential Impact Recommended	15845
 Risk Management and Disaster Recovery Plan Risk	13420
 Risk Management and Disaster Recovery Plan Twelve	13420
 Rwanda RESEARCH REPORT RECOMMENDATIONS	12328
@@ -1637,6 +1643,7 @@ Sudan Transition and Recovery Support Multi-Donor Trust	14885
 Sudan Vision for Economic Reconstruction	15039
 Sudatel Group Delivers Record FY2025 Results	15284
 Summarised Recommendations	12435
+Summary and Recommendations	15845
 Summary and Recommendations Main Findings	13957
 Summary of Key Findings and Recommendations	13382
 Summary of Recommendations	12182,32,767,1006,910
@@ -1717,6 +1724,7 @@ VI. RECOMMENDATIONS	10765
 VI. Recommendations for Economic Empowerment Supporting	10841
 VOIES DE RECOURS	13635
 Vaccine Recommended Age Bacillus Calmette	14742
+Verde RECOLHA DIRETA COERCIVA Artigo	15450
 Version of Record	5349
 Video Disc EHR Electronic Health Record	34
 Vital Event Record	12151

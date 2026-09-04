@@ -33,7 +33,7 @@ ANNEXE A PLAN DE SONDAGE	13300
 ANNEXE-6. PLAN D’ACTION CONTRE LES VIOLENCES	14488,1,1
 ANNEXES Plan	14489
 ANNEXURES TO THE ANNUAL PERFORMANCE PLAN	5533,6453
-ANNUAL ACTION PLAN	12843
+ANNUAL ACTION PLAN	12843,3002
 ANNUAL PERFORMANCE PLAN	5533,6453
 ANTICIPATED RISKS AND MITIGATION PLAN	14887
 APAI-CRVS Strategic Plan	3038
@@ -59,7 +59,7 @@ Accident National Strategic Development Plan National	12701
 Accountability The Strategic Plan Key Outcomes	12515
 Act. The National Digital Master Plan	14524
 Action Environnemental PARC Plan	10876
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86
 Action Plan Cycle	11866,7
 Action Plan ESMS Environmental and Social Management	1818
 Action Plan Mitigation Measures Risks Mitigation	15553
@@ -111,7 +111,8 @@ Angola’s National Development Plan	10780,637
 Angola’s National Health Development Plan	10776
 Annex A. Action Plan Implementing Entity	1777
 Annex I Policy Implementation Plan and Cost	14947
-Annual Action Plan	13242,89
+Annexes Plan	15845
+Annual Action Plan	13242,89,2514
 Annual Audit Plan	14828,3
 Annual Borrowing Plan	11136,2732,678
 Annual Budgeted Plan of Actions	13349
@@ -404,7 +405,6 @@ Developed National AI Strategic Implementation Plan	11230
 Development Bank AWP Annual Work Plan	13990
 Development Delivery Plan	7548
 Development Master Plan PDO Project Development	11380
-Development Objective PEDS Strategic Plan for Sustainable	15924
 Development Plan	10856,280,389,461,1328
 Development Plan HRM&D Human Resource Management	11986
 Development Plan IALC Inter-Agency Leadership Committee	15556
@@ -766,7 +766,6 @@ Global Action Plan for Healthy Lives and Wellbeing	12141
 Global Aviation Safety Plan	12942
 Global National Adaptation Plan	5247
 Go-Live Plan	14185
-GoCV’s Strategic Plan for Sustainable Development II	15924
 Governance Plan	15936
 Governance and Decentralisation Sector Strategic Plan	14935
 Governance and Decentralization Sector Strategic Plan	13418
@@ -822,6 +821,7 @@ Health Sector Strategic Plan and Rwanda	4167
 Health Sector Transformation Plan	1212
 Health Sector Transportation Plan	1219
 Health Strategic Plan	14666,745
+Health and Plan	15845
 Health and Safety Plan	1988
 Heritage Management Plan	1988
 High-level Implementation Plan	12674
@@ -969,7 +969,7 @@ Integrated Pesticide Management Plan	1988
 Integrated Plan of Action	11230
 Integrated Recovery Plan	11131,3
 Integrated Resource Plan	11228,8,36,1332,76
-Integrated Strategic Business Plan	12380,796,1076
+Integrated Strategic Business Plan	12380,796,1076,2557
 Integrated Strategic Plan	1870
 Integrated Strategy and Business Plan	13155
 Integrated Transmission Expansion Plan	11272
@@ -993,6 +993,7 @@ Irrigation Master Plan and Investment Framework	13060
 Italy's Mattei Plan for Africa	14097
 Italy's Mattei Plan. Deal	5095
 Italy’s Mattei Plan for Africa	5095
+Italy’s Mattei Plan for Africa. Kenya	16803
 Ivoire Plan National de Développement Projet National	15936
 Ivoire Unveils Ambitious Digital Transformation Plan	4096
 Ivoire's National Development Plan	6336
@@ -1002,6 +1003,7 @@ Joint Country Action Plan	14970
 Just Energy Transition Implementation Plan	11210
 Just Energy Transition Investment Plan	11245
 KENYA SPACE AGENCY STRATEGIC PLAN	1131
+KOAFEC Action Plan	16784
 KPIs Disaster Recovery Plan	10721
 KSA STRATEGIC PLAN	1131
 KSA Strategic Plan	1131
@@ -1170,13 +1172,12 @@ Medium Term National Development Plan	5276
 Medium Term Plan	12917
 Medium Term Plan III	12321
 Medium Term Strategic Work Plan	13328
-Medium-Term Development Plan	2626,638,1522,45,702,5685,6,13,38,2
+Medium-Term Development Plan	2626,638,1522,45,702,5685,6,13,38,2,4568
 Medium-Term Development Plan and Medium Term Expenditure	11261
 Medium-Term Development Plan. Through	5533
 Medium-Term National Development Plan	1161,6021,1428
 Medium-term Action Plan	5677
 Meheba Local Area Plan	1867
-Memorandum NAP National Adaptation Plan CET	15924
 Merger Agreement and Plan of Merger	7198
 Methodology and Work Plan for Performing the Assignment	13037
 Mid-Year Strategic Plan Review Workshop	1554
@@ -2330,6 +2331,7 @@ Strategic Plan. Vital	12367
 Strategic Policing Plan	14781
 Strategic Quality Infrastructure Plan	13320
 Strategic Roadmap and Action Plan	4725,3699
+Strategic Tourism Marketing Plan	15924
 Strategic and Action Plan	14742
 Strategic and Financial Plan	7938
 Strategic and Operational Plan	11525

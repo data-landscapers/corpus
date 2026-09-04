@@ -183,6 +183,7 @@ Increased Prices of Goods and Services	14932
 Increased Prices of Goods and Services Evidence	14932
 Indicators Affordability Price	14897
 Industry Price Code	13385
+Informal Market Solves the Price Problem	16799
 Initial Prices	13037
 Institute for Prices and Competition	11380
 Interconnection Prices and Retail Tariffs	14017
@@ -271,7 +272,7 @@ Personal Interviewing CPI Consumer Price Index	13359
 Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165
 Price Adjustment Formula	13185
 Price Analysis and Monitoring Division	14839
 Price Changes	2775
@@ -331,7 +332,7 @@ Price-to-Earnings	4263
 PriceCode	13385
 PriceListNamibia	12478
 PriceWaterhouseCoopers	6409
-Priced	6690
+Priced	6690,10116
 Priced Code	13385
 Pricelist Namibia	12478
 Pricelist for RINEX	14864
@@ -349,6 +350,7 @@ PricewaterhouseCoopers Zambia	2240
 PricewaterhouseCoopers. The Integrated Annual Report	13133
 Prichard	11133,1236,579
 Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5,266,204,37,31,1959,68,32,167,1022
+Pricing Battles	16814
 Pricing Mechanism	1828
 Pricing Power	12389
 Pricing Requirements Completion	7266
@@ -375,6 +377,7 @@ Project Specification PriceCode	13385
 Projection Specification Price Code	13385
 Proposal Price	15080
 Proposal Prices	15080
+Public Procurement Authority’s Average Price Database	15845
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
 Purpose CPI Consumer Price Index CPIS	14777
 Purpose CPI Consumer Price Indexes DQAF	14777

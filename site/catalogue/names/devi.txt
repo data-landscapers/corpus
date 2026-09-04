@@ -43,6 +43,7 @@ Developers of Fiscal Devices	13606
 Deviation	10870,365,751,1199,1361,534
 Deviations	9855,1142,2188,1895,176,407
 Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477,345,459
+Device Access	16799
 Device Access Fund	14966,53
 Device Access Management System	15019
 Device Affordability	8111,6563
@@ -54,6 +55,7 @@ Device Compliance Management	11231
 Device Driver	11956
 Device Encourage	14674
 Device ICT Affordability Security	12359
+Device Management System and Type Approval Regulations	16799
 Device Manufacturing	3487
 Device Penetration	3487
 Device Requirements Applicants	11347
@@ -121,6 +123,7 @@ Fuel Fiscal Devices	13606
 Fuel Fiscal Devices Compliance	13606
 Fuel Fiscal Devices Technical Committee	13606
 GB Cost of Devices Low	11857
+GSMA Device Registry	16799
 GUIDELINE ON REGULATION OF MEDICAL DEVICE	11268
 Geeta Devi Somaroo	14769
 Generative Artificial Intelligence-enabled Medical Device	3651

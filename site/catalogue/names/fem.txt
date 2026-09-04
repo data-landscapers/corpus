@@ -157,9 +157,14 @@ FEMUA	3675,2330,9,9626
 FEMoUS	14124
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,417,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,244,44,19,47,65,43,73,6,170,178,24
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,417,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24
 Female Across	12409
 Female Agripreneurs	5923,191,295,107,247,33,469
+Female Annually	15845
+Female Annually Ghana Refugee	15845
+Female Annually Ghana Refugee Board Objective	15845
+Female Annually MINTER	15845
+Female Annually MINTER SMTDP	15845
 Female Basic Phone Smartphone Feature Phone	582
 Female Beneficiaries Ratio	15578
 Female Both Country Of Death	12151
@@ -185,6 +190,7 @@ Female Genital Mutilation	9766
 Female Genital Mutilation FPOS	14857
 Female Genital Mutilation and Cutting	12188
 Female Genital Schistosomiasis	13166
+Female Ghana Police	15845
 Female HH	10763
 Female Infant	13040
 Female Internet	15617
@@ -205,6 +211,7 @@ Female Male Total Guinea-Bissau	11581
 Female Male Workforce	14761
 Female NA NA	16260
 Female NA NA NA	16260
+Female NADMO	15845
 Female NBF-only	12460
 Female No Level Completed	12431
 Female Number	10964
@@ -213,6 +220,8 @@ Female Only Founder	4972
 Female Population	9485,2910
 Female Prison Officers	14742
 Female Private	15553
+Female Quarterly MINTER	15845
+Female Quarterly MINTER Number	15845
 Female Replacing	12328
 Female Resolved	13332
 Female Selecting	5679
@@ -535,6 +544,7 @@ OUDALAN Femmes	10847
 Oui Non Homme Femme Total S6Q02	6959
 Oui Non Homme Femme Total S6Q03	6959
 Oui Non Homme Femme Total S6Q04	6959
+Outcome Female Acres	15845
 PARTICIPATION DES FEMMES ET DES HOMMES	13300
 PARTIR DE LA LISTE DES FEMMES	13300
 PASSORE Femmes	10847

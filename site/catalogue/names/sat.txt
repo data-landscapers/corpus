@@ -81,6 +81,7 @@ Citizen Satisfaction Rate	10709
 Citizen's Satisfaction Survey	11866
 Citizens Budget Satisfaction Survey	11866
 Classique Satellite Bilingue Franco arabe Passerelle	10847
+Client Satisfaction	15845
 Client Satisfaction Impact	10718
 ClimSA Satellite System Upgrade	12988
 Coarse Resolution Satellite Imagery Database	11334
@@ -476,7 +477,7 @@ Satariano	1243
 Satcab	6663
 Satelaiti	2868,3151
 Satellitaire Figure	13375
-Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212,335,274,311,15,286,153,429,137,499,48,81,38,10,12,549
+Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212,335,274,311,15,286,153,429,137,499,48,81,38,10,12,549,830
 Satellite Analysis Branch	15907
 Satellite Analysis Exposes Extreme Farmland	15229
 Satellite Analysis Reveals	14569
@@ -524,6 +525,7 @@ Satellite IDA IDH ITU ISABU ISO	13290
 Satellite Imagery	14769,484
 Satellite Imagery Cooperation MoU	15167
 Satellite Imagery and IoT Data for Spatial Temporal	2816
+Satellite Innovation	16811
 Satellite Internet	5318,1786
 Satellite Internet Capacity	6671
 Satellite Internet Connectivity	3641
@@ -598,6 +600,7 @@ Satellite Terminal Network	6891
 Satellite Town and Alimosho Local Government Area	10742
 Satellite Transponder Rental	12982
 Satellite US	10407
+Satellite Wholesale	16814
 Satellite Wide Terrestrial	9781
 Satellite Wide Terrestrial Jinja	9781
 Satellite and Regional Models Satellite	11191
@@ -610,7 +613,7 @@ Satellite-enabled	5378,7723
 Satellite-to-mobile	9997
 SatelliteS	736
 SatelliteServiceFactor	736
-Satellites	5378,2733,2477,1542,265,706
+Satellites	5378,2733,2477,1542,265,706,3710
 Satellites Are Accelerating Health Tech	5378
 Satellites Asante	8111
 Satellogic	14769

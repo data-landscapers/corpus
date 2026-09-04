@@ -15,6 +15,7 @@ Achievements Egypt	15725
 Acquires Cicor’s Tunisia... Egyptian National Theatre	7322
 Across Egypt’s Courts Eng. Raafat Hindi	11641
 Activity Reports Education Sector Plan for Egypt	15604
+Advance Egypt’s Eastern Digital Corridor	16808
 Affordability Connectivity Egypt	11004,960
 Africa EGDI	1885
 Africa Eastern Africa Moroni Middle EGDI	10840
@@ -206,6 +207,7 @@ EGALITE VENTURES LTD Data Controller INST-487728D552E	7167
 EGALITE VENTURES LTD Data Processor INST-487728D552E	7167
 EGARD DE TEURS DONNEES PERSONNETTES	15429
 EGAt ET INSTITUTIONNEI	15429
+EGBEDZI MINTER ABIGAIL O. OCQUAYE MINTER	15845
 EGCERT-NTRA	16212
 EGCSE	12956,19
 EGDCV	12008,3524,40
@@ -350,6 +352,8 @@ Education Sector Plan for Egypt Education	15604
 Education Sector Plan for Egypt Education Sector	15604
 Education System Governance and Structure The Egyptian	15604
 Eg. AI	4126
+Eg. Human	15845
+Egab. Edited	16773
 Egaddu	12874
 Egalement	1648,1007,593,12231,233
 Egalité	6959,8984,22,240,90
@@ -412,7 +416,7 @@ Egovernment Survey	11379,4153
 Egoïsme	6959
 Egtech	12478
 EgypWĕV	15604
-Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472,291,107,193,5,435,108,68,10,178,6,20,129,135,17,11,3,16,147,2,44,57,11,32,4,91,89,63,24,64,10,51,31,36,2,9,2,11,8,24,3,85,5,1,17,7,22,7,1,19,30,1,3,1,1,6,69,20,4,9,42,18,18,21,15,17,13,6,17,10,36,6,3,30,52,14,13,44,10,24,19,11,49,1,29,121,6,8,10,7,23,70
+Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472,291,107,193,5,435,108,68,10,178,6,20,129,135,17,11,3,16,147,2,44,57,11,32,4,91,89,63,24,64,10,51,31,36,2,9,2,11,8,24,3,85,5,1,17,7,22,7,1,19,30,1,3,1,1,6,69,20,4,9,42,18,18,21,15,17,13,6,17,10,36,6,3,30,52,14,13,44,10,24,19,11,49,1,29,121,6,8,10,7,23,70,218,2
 Egypt AI	15713
 Egypt AI Rating	15713
 Egypt Action Details Provide	15713
@@ -873,6 +877,7 @@ Export-Import Bank of Egypt	7535
 Export-Import Bank of Egypt. The Tech Africa	4401
 Ezekiel Egboye	2595
 FLEGT. Egalement	15500
+Facebook Twitter Linkedin Telecom Egypt	16808
 Facial Recognition Egypt	9827
 Faso Middle EGDI M-OSI	10840
 Fawry’s EGP	5869
@@ -999,6 +1004,7 @@ International Classification of Health Interventions. Egypt	15725
 International Cooperation Egypt	15714
 International Cooperation and Egyptian Expatriates	9299
 International Development Agency GoE Government of Egypt	15473
+Internet Corridor of Egypt	16808
 Islamic and Egyptian	15473
 JC and EGCSE	12975
 Jane Egerton-Idehen	12078
@@ -1229,7 +1235,7 @@ Tech-I4-A1 Establish Strategic Partnerships Egypt	15713
 Tech-I4-A2 Develop Shared Resources Framework Egypt	15713
 Tech-I4-A3 Upgrade R&D Facilities Egypt	15713
 Technical Education Egypt	15604
-Telecom Egypt	511,1132,313,329,9,15,11,85,164,108,137,154,374,179,18,320,189,147,55,218,491,15,4,15,337,360,114,242,17,15,24,145,11,245,323,24,7,568,3036,5010,138,1,199,18,78,36,105
+Telecom Egypt	511,1132,313,329,9,15,11,85,164,108,137,154,374,179,18,320,189,147,55,218,491,15,4,15,337,360,114,242,17,15,24,145,11,245,323,24,7,568,3036,5010,138,1,199,18,78,36,105,762
 Telecom Egypt Announces the Launch	15610
 Telecom Egypt Expands	15827
 Telecom Egypt Grants Preliminary Approval	15809
@@ -1246,6 +1252,8 @@ Telecom Egypt and Zain Omantel International	3342
 Telecom Egypt's Regional Data Center Hub	7425
 Telecom Egypt's Regional Data Hub	1956
 Telecom Egypt. Telecom Egypt	10461
+Telecom Egypt’s Red Sea	16808
+Telecom Egypt’s Red Sea Subsea Festoon	16808
 Telecom Egypt’s Taba	15827
 Telecoms Telecom Egypt	10461
 Telephony Integration EGDI E-Government Development Index	14965

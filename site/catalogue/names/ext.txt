@@ -101,8 +101,7 @@ Commerce Extérieur H	13341
 Commerce extérieur Vers	5452
 Commission. Extraterritorial	4366
 Committee BISE Bureau for Innovation Scouting and Extension	14747
-Common External Tariff	1828,11735,61,2300
-Common External Tariff NDC Nationally Determined	15924
+Common External Tariff	1828,11735,61
 Communication and External Relations Department	2807,7908,2714
 Community Health Extension Worker	771
 Community Health Extension Workers	4217
@@ -230,6 +229,7 @@ Ebene Food and Agricultural Research and Extension Institute	14847
 Economic Governance and Extractive Sector Support Project	7160
 Effects and Externalities of Smart Governance	5349
 Embaixadora Extraordinária	11393
+Emeka Anuforo Communication and External Relations African	16778
 Emisión de Deuda Externa	4209
 Energy and Extractives	15702
 Energy and Extractives Global Practice	12388
@@ -254,7 +254,7 @@ Extended	209,2268,2802,2428,265,50,1717,2861,585,1630,184,474
 Extended Abstracts	8460
 Extended Arrangement	15473
 Extended Continental Shelf	14742,103
-Extended Credit Facility	1828,1755,544,7409,13,10,617,879,1974,12,711,38,134
+Extended Credit Facility	1828,1755,544,7409,13,10,617,879,1974,12,711,38
 Extended Credit Facility Arrangement	13741
 Extended Credit Facility Arrangement and Approves US	15752
 Extended Credit Facility-supported	15658
@@ -274,7 +274,7 @@ Extended Term Consultant for Poverty	10763
 Extended UTAUT Model	5349
 Extended Unemployment Rate	12600
 Extender	1701
-Extending	547,1338,2847,742,3398,277,1673,320,149,281,38,396,291,102,761,271,1292,165,77,159,573
+Extending	547,1338,2847,742,3398,277,1673,320,149,281,38,396,291,102,761,271,1292,165,77,159,573,1102
 Extending Broadband Connectivity	5245
 Extending Financial Inclusion	12297
 Extending Page	11855
@@ -320,6 +320,7 @@ Extension of Coverage	13474
 Extension of Coverage Inspector	13465
 Extension of Delivery Time	12400
 Extension of EthERNet	14010
+Extension of IFC	16776
 Extension of MAUPASS for Corporate Access	14761
 Extension of Nyabarongo Project	12358
 Extension of Operation Thiba	11289
@@ -341,6 +342,7 @@ Extensive Results	11955
 Extensive Risk	13080,15
 Extensión	1701,2508
 Extensión de OFIVE	4209
+Extensão	15694
 Extensão da Central Eléctrica	16132
 Extensão da Central Eléctrica da Palmeira	16132
 Extent	970,1018,1799,7764,503,2659
@@ -350,7 +352,7 @@ Exterior Gateway Protocol	14864
 Exterior Nº Categoría de Funcionario Público Monto	4209
 Exteriores	4209
 Externa	10757
-External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7,32,10,39,24,10,253,284,52,95,1,30,260,96,47,107,4,175,54,233,9,33,327,1,15,2,36,92,147,37,207,291,583,35,120,100,167,208,146,35,66,39,3,263,677
+External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7,32,10,39,24,10,253,284,52,95,1,30,260,96,47,107,4,175,54,233,9,33,327,1,15,2,36,92,147,37,207,291,583,35,120,100,167,208,146,35,66,39,3,940
 External API	11952
 External Advisory Committee	16212
 External Affairs Indian Minister	14805
@@ -386,7 +388,7 @@ External Company Name and Amendments	12041
 External Company Registration Understanding External	12041
 External Cooperation Unit	10530
 External Data Sources DIMAMO Operational Database	8604
-External Debt	2775,12002,1147
+External Debt	2775,12002
 External Debt Equity Owner	15149
 External Debt Ser-	2775
 External Debt Sustainability Framework	13868
@@ -438,7 +440,6 @@ External Sector Statistics Starting	13868
 External Services Type	15411
 External Services Type B	15411
 External Sources	940
-External Stability Assessment	15924
 External Supplies and Services	11955
 External System Integration	3861
 External Systems	10765,10,1614,4242
@@ -465,7 +466,7 @@ Extincteurs	14537
 Extinguir	10772
 Extinguishers	9123
 Extinguishing	9123
-Extinção	13,11368,2,21,26,13,24,49,505,3412
+Extinção	13,11368,2,21,26,13,24,49,505,3412,479
 Extinção da Licença	11430
 Extinção de Institutos Públicos	4218
 Extome	6395
@@ -494,7 +495,7 @@ Extract of Stamp Duty Legal Notice Relevant	13251
 Extract-	8604
 Extractable	15027
 Extractação	15358
-Extracted	966,360,1,2,1,686,1,2,1,2136,1,2,1,1503,750,2427,3647,3228,650
+Extracted	966,360,1,2,1,686,1,2,1,2136,1,2,1,1503,750,2427,3647,3228,130,520
 Extracting	961,1855,4166
 Extraction	235,530,1,243,178,18,13,775,1866,254,1420,16,999,1280,778,2215,331,2238,1739,243
 Extraction Has	10078
@@ -554,7 +555,7 @@ Extraterrestrial Organizations	13053
 Extraterritorial	7547,60,3829
 Extraterritorial Reach	3861
 Extraterritorial Reach This Policy	3861
-Extrato	16290
+Extrato	15924,366
 Extrato de Publicação	12021
 Extrato de Publicação da Associação	16290
 Extrato de Publicação da Sociedade	16290
@@ -863,7 +864,6 @@ Ressources Extérieures RES.INT	15475
 Results of Extraordinary General Shareholder Meeting	8939
 Reunião Extraordinária da Assembleia Nacional DR Luanda	9705
 Reunião Plenária Extraordinária	6847,1462,1490
-Revenue Authority ECF Extended Credit Facility	15924
 Rise of Extractive Practices	3810
 Role of Research and Extension	11140
 S S Registrar External	10775

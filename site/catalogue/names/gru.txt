@@ -94,7 +94,7 @@ Grundlage	1530
 Grundmann	7759
 Grundy	11156
 Grupe	10780
-Grupo	539,3670,5050,855,652,11,587,1,56,121,35,106,3705,574
+Grupo	539,3670,5050,855,652,11,587,1,56,121,35,106,3705,574,176
 Grupo A Abogado Fiscal Administrador Grupo	4209
 Grupo B	4209
 Grupo B Especialista Grupo B Inspector	4209
@@ -110,6 +110,7 @@ Grupo Empreiteiro	11405
 Grupo F Servicio	4209
 Grupo G Maestro Músico Técnico Disciplina	4209
 Grupo II	15388
+Grupo III	16138
 Grupo Ilheus OnLine	15593
 Grupo Local de Educação	11557
 Grupo Local de Parceiros da Educação	16268
@@ -149,6 +150,8 @@ Grupos Técnicos	11421,25,131
 Grupos Técnicos Comunais	11421,25,131
 Grupos Técnicos Municipais	11421,25,131
 Grupos Técnicos Provinciais	11421,1,24,131
+Grupos de Focalização	16138
+Grupos de Focalização III	16138
 Grupos de Trabalho	2138,9233
 Grupos de Trabalho de Normalização	12782
 Gruppo TIM	5618

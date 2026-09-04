@@ -543,7 +543,7 @@ Bordereaux Electroniques de Suivi des CargaiSons	15999
 Bororo. Des	8737
 Boucle du Mouhoun. Des	16026
 Boulevard Denis Sassou N’GUESSO Chacune des Parties	15901
-Bourse Régionale des Valeurs Mobilières	15847
+Bourse Régionale des Valeurs Mobilières	15847,939
 Bourse des Matières Premières Agricoles	2342
 Bourse des Valeurs	4887
 Bourse des Valeurs Mobilières	15999
@@ -2355,7 +2355,6 @@ Des TDRs	10975
 Des Textes	16616
 Des Titres S	13681
 Des. Sust	15772
-Des. da Familia Servi	15694
 Description Code des Marchés Publics	10876
 Description Le Bureau des Normes de Madagascar	14451
 Description Ziel des FZ-Moduls	1533,687
@@ -3996,7 +3995,7 @@ La Congolaise des Eaux	15969
 La Cour des Comptes	14573,839,291,24
 La Direction Générale des Affaires Sociales	10876
 La Direction Générale des Douanes	16389
-La Direction Générale des Impôts	5814,349,8320,944,370,139,145
+La Direction Générale des Impôts	5814,349,8320,944,370,139,145,668
 La Direction Nationale des Affaires Foncières	13723
 La Direction Nationale des Domaines	16611
 La Direction Nationale des Impôts	16629
@@ -5955,6 +5954,7 @@ Société des Télécommunications du Congo	15372,83
 Société des Télécommunications du Tchad	556
 Soins PNDTIC Politique Nationale de Développement des TIC	13341
 Solidarité des Marchés du Bénin BCEAO Banque Centrale	4459
+Solidári Des. da Cuid Medi Familia	15694
 Sommet des Chefs	2387,13289,423
 Son Excellence Madame la Vice-Ministre des Finances	7470
 Son Excellence Monsieur le Ministre des Finances	7470

@@ -562,7 +562,7 @@ CSPro Census and Survey Processing System CTA	13300
 CSSPS Computerized School Selection and Placement System	15059
 CURRENT CHALLENGES VS ENHANCED SYSTEM SMARTCARE	2477
 CYCLA SYSTEMS LIMITED Data Controller INST-5439406C317	7167
-Cable System	1766
+Cable System	1766,15042
 Cable System METISS MeltingpoTIndianoceanic Submarine System	14729
 Cable Systems Connected	2677
 Cable Systems FM Frequency Modulation FTTH	6671
@@ -584,6 +584,7 @@ Capital CMS Content Management System CSS	236
 Carbon Pricing System	12389
 Card Centres for Deployment of New System	14741
 Card Russian Federation Automated System	10714
+Care System	15924
 Cargo Community System	14718
 Cargo Tracking System	13053
 Case Management System	5642,3032,304,805,2606,221,83,243,144,15,1410
@@ -1030,6 +1031,7 @@ Development Cooperation Information Management System	13080,15
 Development Office Famines Early Warning Systems	10763
 Development System PM&E Planning	11224
 Development of Angola's Payment System	10767
+Development of Data Management and Information Systems	15845
 Development of Financial Information Systems	12781
 Development of Health Information Systems	14666
 Development of Malawi Election Monitoring Systems	13095
@@ -1038,6 +1040,7 @@ Development of National Digital Address System	10861
 Development of National Statistics System	12899
 Development of Statistics NSS National Statistical System	13359
 Device Access Management System	15019
+Device Management System and Type Approval Regulations	16799
 Device School Support System	11857
 Diagnostic of ID Systems	442,10323,10
 Diaspora Integrated Information Management System	5160
@@ -1725,7 +1728,7 @@ Ghana Agricultural Information and Monitoring System	9561
 Ghana Electronic Procurement System	7457
 Ghana Enterprise Land Information System LC	15657
 Ghana Health Information Management System	3833,12061
-Ghana Integrated Financial Management Information System	15790
+Ghana Integrated Financial Management Information System	15790,55
 Ghana Integrated Social Protection Information System	16600
 Ghana Integrated Tax Management and Information System	10522,102
 Ghana Intelligent Transport System	636
@@ -2360,7 +2363,6 @@ Intrusion and Hold-up Alarm Systems	11269
 Inventory Management Information System	13005
 Investigating AI-Powered Tutoring Systems	6948
 Investigating AI-Powered Tutoring Systems That Adapt	6948
-Investment System	15924
 Invoice Operations Management System	14952
 Invoice System	15188
 Invoicing System	14737
@@ -2429,6 +2431,7 @@ Kilimanjaro One Submarine Cable System	3954
 Kiribati National Integrated Identity Management System	10714
 Know Your Customer System	12375
 Know-Your Customer System	4894
+Knowledge Management System	15845
 Knowledge Management Systems	12356
 Knowledge-Based Systems	8604
 Koha Library Management System	6946
@@ -3236,7 +3239,6 @@ Nvidia and Nexus Core Systems	10136
 OAP Management Information System	12663
 OBIIGAÎIONS RELATIVES AU SYSTEME DE COMPTABITISATION	15429
 OECD's Creditor Reporting System	11487
-ONSEC National Energy Systems Operator	15924
 OPS System	11986
 ORCS Secure Login System	13477
 OS Operating System PABX Private Automated	34
@@ -3667,6 +3669,7 @@ Record-Keeping Vendor Governance Agentic AI Systems	14565
 Records Management System	3042,2208,385,6967
 Records Management System Department of E-	12917
 Records System FDA Food and Drugs Authority	15556
+Red Sea Subsea Festoon Cable System	16808
 Redress Mechanism Global System for Mobile Communications	1228
 Reduce Poverty and Boost Sustainable Growth. Systematic	13312,2
 Reduced Systems	10550
@@ -3678,6 +3681,7 @@ Regional Disease Surveillance System Enhancement	10829
 Regional Disease Surveillance Systems Enhancement	11417
 Regional Disease Surveillance Systems Enhancement Program	11560,4399
 Regional Disease Surveillance Systems Enhancement Project	11380,4579
+Regional Energy Governance and Information System for West	16768
 Regional Health Information System	3791
 Regional Health Information System SOP Standard	3791
 Regional Payment Systems	12286
@@ -4000,6 +4004,7 @@ Snapshot of Civil Registration and Vital Statistics Systems	327,1,11810
 Social Action Management Information System	10768
 Social Benefit Registration System	12533,1
 Social Grant Disbursement System	13236
+Social Management System	16776
 Social Protection Assessment Resource Kit for Systems	10991
 Social Protection System	11855,2698,189
 Social Protection System Component	14553
@@ -4298,7 +4303,7 @@ System Implementation	9338,1914,1785
 System Information Coverage Area	736
 System Information Network	736
 System Insight	7446
-System Integration	13095
+System Integration	13095,2750
 System Integration Achieving	15156
 System Integration Integrate Impilo	12508
 System Integration Services Requirement	13185
@@ -4468,7 +4473,7 @@ System. Release	9124
 System. The U.S. Government	3972
 System. Under	13248
 System.pdf Publisher	14895
-Systematic	3456,976,1167,1949,1055,2,66,989,1314,182,800,98,160,27,56,87,73,3016
+Systematic	3456,976,1167,1949,1055,2,66,989,1314,182,800,98,160,27,56,87,73,3016,372
 Systematic CPD Indicator	13095
 Systematic Country Diagnostic	969,5570,4226,10,54,696,20,310,69,1044,344,2,2133,27,6,31,3,4,1108
 Systematic Country Diagnostic SCGB Sociedade de Cabos	11545
@@ -4520,7 +4525,7 @@ Systemically	5242,1931,2443,1518,4609
 Systemically Important Financial Market Infrastructures	4103
 Systemically Important Payment Systems	12286,251
 Systemize	15512
-Systems	736,35,128,73,271,18,1038,1284,71,323,224,59,41,131,258,95,584,296,26,222,62,457,341,163,10,58,316,14,213,1,203,8,227,22,4,3,268,320,2,22,492,4,5,41,68,459,159,37,183,111,528,7,44,10,90,54,87,1,124,7,18,60,49,4,14,577,45,81,51,101,19,70,14,56,28,2,32,94,4,141,74,2,1,31,23,188,21,23,11,33,32,5,159,5,212,59,55,60,14,23,281,128,147,339,41,254,75,3,14,10,11,33,187,12,262,52,554,180,222,241
+Systems	736,35,128,73,271,18,1038,1284,71,323,224,59,41,131,258,95,584,296,26,222,62,457,341,163,10,58,316,14,213,1,203,8,227,22,4,3,268,320,2,22,492,4,5,41,68,459,159,37,183,111,528,7,44,10,90,54,87,1,124,7,18,60,49,4,14,577,45,81,51,101,19,70,14,56,28,2,32,94,4,141,74,2,1,31,23,188,21,23,11,33,32,5,159,5,212,59,55,60,14,23,281,128,147,339,41,254,75,3,14,10,11,33,187,12,262,52,367,187,180,222,241,112,28
 Systems Across Africa TechAfrica News	4225
 Systems Act	11551,3123
 Systems Act Zimswitch Technologies	12490
@@ -4826,7 +4831,7 @@ Vaccination Reporting System II	8183
 Valuation and Information Management System	14722
 Vanuatu’s ASYCUDA-based Electronic Single Window System	15478
 Vehicle Tracking System	8888
-Verification System	9855
+Verification System	9855,5990
 Verification System ILPD Institute of Legal Practice	718
 Verification and Certification of Imported ICT Systems	6936
 Vessel Monitoring System	14752,93

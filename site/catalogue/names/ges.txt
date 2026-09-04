@@ -155,6 +155,7 @@ Deutschen Gesellschaft	11316
 Digitalisation du Système de Gestion des Recettes Domaniales	16581
 Directora Nacional de Gestão da Dívida Pública	12220
 Directrizes de Gestão de Riscos	6462
+Direção de Gestão Tributária	15912
 Direção de Serviços de Gestão de Recursos Humanos	16290
 Distributor Instituto Nacional de Gestão	15593
 Département Gestion Littoral	16627
@@ -183,6 +184,7 @@ Entidade Gestora de Protecção Social Obrigatória	11433,34
 Entidades Gestoras	11443
 Equipe de Gestion du DS	15423,262
 Erzielung von Allgemeiner Gesundheitsabsicherung Digital	904
+Estatuto de Gestor Público	15912
 Estratégia de Gestão da Dívida	12796
 Estratégia de Gestão de Deslocados Internos	12779
 Estrutura de Gestão	16321
@@ -426,7 +428,7 @@ Gestión de Finanzas Públicas	4209
 Gestión de Página Web	4209
 Gestor	2816,9326,3334,580
 Gestor Municipal	10754
-Gestor Público	15391
+Gestor Público	15391,59
 Gestor Público. Artigo	15391
 Gestor de Negócios	2816
 Gestor de Projecto	11448
@@ -444,7 +446,6 @@ Gestão A&S	11406
 Gestão Adaptativa	11437
 Gestão Administrativa	15503
 Gestão Apresentando Euclides Valdir da Veiga Dias	16290
-Gestão Artigo	15526
 Gestão Autorizando	16290
 Gestão Autárquica	9403
 Gestão Cibernética	4218
@@ -478,6 +479,7 @@ Gestão de Acesso	16027
 Gestão de Acidente	10747
 Gestão de Activos Apreendidos. ARTIGO	12789
 Gestão de Cadastro de Veículos Motorizados	11435
+Gestão de Contas	15526
 Gestão de Dados	549
 Gestão de Dados da ANPG	11405
 Gestão de Data Centers	5319
@@ -520,6 +522,7 @@ Government GMAO Gestion des Matériels Assisté	13341
 Gross Enrolment Rate GESD	12175
 Guiné-Bissau. O GESTDOC	11566
 Génie Informatique de Gestion	13364
+HABITAÇÕES E DE GESTÃO DO CONDOMÍNIO	16138
 HIRE GOLD MINE Gestion	2342
 Horn of Africa Deutsche Gesellschaft	886
 Hydrocarbures PASP SIPF GESTOCI SITARAIL PETROCI	2342
@@ -623,6 +626,7 @@ Logiciel de Gestion des Faits	10061
 Logiciel de Gestion des Organisations Professionnelles	15936
 Logística Ejes Estratégicos Sistemas de Gestión Estratégica	1701
 Ls SANCTIONS Gestionnaires	15999
+Língua Gestual	15694
 L’ARE GESTION DE L’ADRESSE	15670
 L’Agence Ivoirienne de Gestion des Fréquences	15710
 L’ECONOMIE ET DU SYSTEME DE GESTION	15722
@@ -682,7 +686,10 @@ O Gabinete de Gestão	6610,1933
 O Gabinete de Gestão da Qualidade	15503
 O Gestor Municipal	10754
 O Instituto Nacional de Gestão	12859
+O Serviço de Gestão Patrimonial	15526
 O Serviço de Gestão Pedagógica	15694
+O Serviço de Gestão de Recursos Humanos	15526
+O Serviço de Gestão de Risco	15526
 O8 DIRECTION ADMINISTRATIVE ET FINANCIERE GESTION	15670
 OFFRIR UNE GESTION INTÉGRALE DES INFORMATIONS	13306
 ORGANE DE GESTION Article	15431
@@ -838,7 +845,11 @@ Service de Gestion du Système	15475
 Services Service Gestion	13301
 Serviço da Entidade Gestora da Protecção Social	11433
 Serviço de Gestão	15404
+Serviço de Gestão Financeira	15526
+Serviço de Gestão Patrimonial	15526
 Serviço de Gestão da Gover-	15532
+Serviço de Gestão de Recursos Humanos	15526
+Serviço de Gestão de Risco	15526
 Sistema Electrónico de Gestão de Incentivos	10769
 Sistema Gestao Orcamental	574
 Sistema Gestor de Base de Dados	12021
@@ -961,12 +972,13 @@ UNIDADE DE GESTÃO DE PROJETOS ESPECIAIS	11941
 Uitvoerende Gesag	11190
 Unicef. Gestion	16628
 Unidad de Gestión de SYDONIA	4209
-Unidade de Gestão	8166,7890
+Unidade de Gestão	8166,7360,530
 Unidade de Gestão da Casa	16022
 Unidade de Gestão de Aquisições Centralizadas	16056
 Unidade de Gestão de Projectos Especiais	8166,3689,4255
-Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56,3505,457,127,77,134,172
-Unidades de Gestão	10752,5172
+Unidade de Gestão de Projetos Empresarial	15526
+Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56,3962,127,77,134,172
+Unidades de Gestão	10752,4774
 Unidades de Gestão Provinciais	10752
 Union GIZ Deutsche Gesellschaft	13042
 Unit of Account UGPE Unidade de Gestão de Projetos	11863

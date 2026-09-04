@@ -131,7 +131,7 @@ Excellency Vice President Mohammed B.S	7694
 Executive Vice Chairman	3538,260,4053,405,32,375,310
 Executive Vice Chairman SKLD Integrated Services	7444
 Executive Vice Chairman and Chief Executive Officer	7562,555,300,292,408,2175
-Executive Vice President	6924,2170,5437
+Executive Vice President	6924,2170,5437,2268
 Executive Vice President Vestager	11154
 Executive Vice President and COO	9532
 Executive Vice President and COO Xie Junshi	9529
@@ -295,7 +295,7 @@ Noël GBAGUIDI Vice-président	16485
 Ntate Vice-President	12748
 Nórcia Vicente	12277,39
 O Comando Regional de São Vicente	15503
-O Vice-Primeiro Ministro	3558
+O Vice-Primeiro Ministro	3558,12580
 O Vice-Primeiro-Ministro	5355,68,10644,126,6
 OLAVO AVELINO CORREIA VICE PRIME MINISTER	16219
 OPERATOR SER- VICES	5872
@@ -341,7 +341,7 @@ Protection des Victimes	13330
 R.T. Masekes Vice ChairpPerrsoofn. I. D.T	1154
 RENVOI DES VICTIMES VERS LES SERVICES	16085
 Refugees and Disaster Victims	13938
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,142,45,14,49,112,240,14
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
@@ -359,7 +359,7 @@ Rubén Vicente Andrés	12142
 République Cabinet du Vice-Président	15973
 République. La Vice-présidence	15703
 République. Le Vice-Président	15703
-S. Vicente	1948
+S. Vicente	1948,13746
 S. Vicente. A Contratação	1948
 SUPPORT VICTIMS	12939
 Sal and São Vicente	11941,3629
@@ -398,7 +398,7 @@ Sua Excia Sr. Vice-Primeiro Ministro	15486
 Surabaya and Managing Partner Law Firm Victorious	11692
 São Vicente	342,923,683,899,13,92,240,7916,747,7,39,40,14,3389,44,16,44,28,1,43,50,124,135,133,4,56,33,132,6,6,91
 São Vicente Digital	11108
-São Vicente Island	2794,9
+São Vicente Island	2794,9,13121
 São Vicente Island Today	2794
 São Vicente and Maio. The Legal and Institutional	15570
 São Vicente and Praia	11941,3649
@@ -475,7 +475,7 @@ Vice PM	4209
 Vice Premier	15272
 Vice Presidency	13477,256
 Vice Presidency Complex for Private Sector	10718
-Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323,66,6,552,131,3,35,23,10,17,284,50,15,50,62,345,3,27,31,77,13,20,20,28,14,19,717,438,78,102,37,254,112,81,42,34,60,540,56
+Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323,66,6,552,131,3,35,23,10,17,284,50,15,50,62,345,3,27,31,77,13,20,20,28,14,19,717,438,78,102,37,254,112,81,42,34,60,540,56,553
 Vice President ADM Responsible Team Leader	16436
 Vice President Article	15027
 Vice President Ato Asfaw Abera	12195
@@ -567,9 +567,11 @@ Vice Prime Minister and Ministry of Finance Avenida	16219
 Vice Primeiro Ministro	12021
 Vice Primeiro-Ministro	11542
 Vice Président	14862,1,164
-Vice-	3887,11277
+Vice-	3887,11277,362
 Vice- Doyen	16381
 Vice- Ministro	4209
+Vice- Presidente	15450
+Vice- Presidentes	15912
 Vice- Presidents	13292
 Vice- Primer Ministro Primero	4209
 Vice- Primer Ministro Segundo	4209
@@ -638,11 +640,11 @@ Vice-Presidente Segundo	4209
 Vice-Presidente Vice-Presidente Fiscal General Defensor	4209
 Vice-Presidente da Assembleia Nacional	11436
 Vice-Presidente da Assembleia Nacional Com Cópia	11436
-Vice-Presidentes	4209,8614
+Vice-Presidentes	4209,8614,3089
 Vice-Presidents	8015,5486,158
 Vice-Primature	16365
 Vice-Prime Minister	14742
-Vice-Primeiro Ministro	15486
+Vice-Primeiro Ministro	15486,652
 Vice-Primeiro-Ministro	4578,777,88,5941,4683,67,59,6
 Vice-Primer Ministro Primero	4209
 Vice-Primer Ministro Segundo	4209
@@ -675,6 +677,7 @@ Vice-premier Ouattara	10942
 Vice-premiers Ministres	15569,801
 Vice-president Dr Mohamed Juldeh Jalloh	4619
 Vice-presidente	2816,8663,52
+Vice-presidentes. Subsecção III Fiscal	15912
 Vice-primeiro-ministro	4081
 Vice-présidence	13341
 Vice-président	113,2187,1316,4054,3155,2667,920,125,868,34,288,58,542,55,137,26,71
@@ -742,11 +745,13 @@ Victor Kapiyo	3162,5738,4413,1996
 Victor Kyalo	10886,3124
 Victor Kyalo. Comments	14017
 Victor Maina	6946
+Victor Manuel Lopes Coutinho. ANEXO A2026	16138
 Victor Massaquoi	7182
 Victor Mukeh Vandi	9450
 Victor Musangu Director ICT	13392
 Victor Nkambule	13204
 Victor Odhiambo	5923
+Victor Ogunbiyi	16779
 Victor Ohuruogu	8341
 Victor Olaiya	9739
 Victor Osamor	12926

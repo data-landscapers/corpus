@@ -112,6 +112,7 @@ Comissariado Geral de Moçambique CPLP	2816
 Comissária da UE Jutta Urpilainen	9434
 Comissário da Direção de Estrangeiros	11566
 Comissários da Marinha	11537
+Comissã	15694
 Comissão	15,2300,129,1075,11,2027,15,247,3061,378,1492,2,3,17,756,33,3824,55,37,95,394
 Comissão Científica	11542
 Comissão Conclusão	11569
@@ -148,7 +149,7 @@ Comissão Nacional da UNESCO	7882
 Comissão Nacional de Angola	7882,3505,91
 Comissão Nacional de Coordenação	15526
 Comissão Nacional de Educação	10766
-Comissão Nacional de Eleições	4419,519,5333,1290,369,218,3211,782
+Comissão Nacional de Eleições	4419,519,5333,1290,369,218,3211,335,447
 Comissão Nacional de Eleições. ARTIGO	11528
 Comissão Nacional de Eleições. ASSEMBLEIA DA REPÚBLICA	12772
 Comissão Nacional de Estratégia Digital	15532
@@ -159,7 +160,8 @@ Comissão Nacional de Protecção Civil	10763,5
 Comissão Nacional de Protecção de Dados	1338,742,265,13040,7
 Comissão Nacional de Protecção de Dados de Cabo	16408
 Comissão Nacional de Protecção de Dados de Cabo Verde	6568
-Comissão Nacional de Proteção de Dados	11893,121,3490,5,26,607,38,141
+Comissão Nacional de Proteção	15450
+Comissão Nacional de Proteção de Dados	11893,121,3436,54,5,26,607,38,141
 Comissão Nacional de Proteção de Dados Av. D	3079
 Comissão Nacional de Proteção de Dados Pessoais	11943
 Comissão Nacional de Proteção de Dados. Artigo	15504
@@ -182,7 +184,7 @@ Comissão de Acompanhamento	11455,4117
 Comissão de Acompanhamento. Artigo	15572
 Comissão de Administração	11436
 Comissão de Assuntos Constitucionais	539,10897
-Comissão de Avaliação	11518
+Comissão de Avaliação	11518,4620
 Comissão de Carteira	11056
 Comissão de Coordenação	15440
 Comissão de Cultura	539
@@ -238,7 +240,7 @@ Comite de Pilotage DAAF	14472
 Comite de Pilotage Unique	10829
 Comite de Satélite	1215
 Comites	13292
-Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82,56,69,39,37,55,11,2,31,1257,6,35,49,43,9,10,16,167,72,74,46,596,1,26,33,55,41,262,186,75,24,257,22,11,7,6,9,16,4,16,1,18,49,15,12,11,3,5,7,4,4,36,29,3,2,3,9,27,8,4,14,8,11,10,19,62,60,28,25,4,34,13,25,52,10,4,2,25,44,1,10,10,55,125,94,76,38,4,26,7,13,28,53,31
+Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82,56,69,39,37,55,11,2,31,1257,6,35,49,43,9,10,16,167,72,74,46,596,1,26,33,55,41,262,186,75,24,257,22,11,7,6,9,16,4,16,1,18,33,16,15,12,11,3,5,7,4,4,36,29,3,2,3,9,27,8,4,14,8,11,10,19,62,60,28,25,4,34,13,25,52,10,4,2,25,44,1,10,10,55,125,94,76,38,4,26,7,13,28,53,31
 Comité CPIM	13468
 Comité Central	11045
 Comité Cette	10975
@@ -302,6 +304,7 @@ Comité National du Numérique	15568
 Comité National du Ras	16645,6
 Comité National du Rassemblement	16637,4
 Comité National du Recensement	15557
+Comité Para-Olímpico Cabo-vAerdCiOanNoS	15694
 Comité Permanent	13442
 Comité Presidencial	11461
 Comité Produire	10975
@@ -347,6 +350,7 @@ Comité de Balanza de Pagos Trabajos de Seguimiento Coyuntura	4209
 Comité de Bâle	15474
 Comité de Concertation des Partenaires Techniques	11944
 Comité de Coordenação	11557
+Comité de Coordenação de Tesouraria	15526
 Comité de Coordination Inter Agence CDMT	15423
 Comité de Coordination Le Comité de Coordination	15936
 Comité de Coordination National	15685
@@ -627,6 +631,7 @@ Responsabilités du Comité	15027
 Responsabilités du Comité de Ingingo	15027
 Responsabilités du Président du Comité Exécutif Article	15027
 Reunion du Comite Technique	14562
+Revenue Is Actually Coming	16810
 Revue Comité	12043
 Règles de Fonctionnement du Comité National	2625
 République. Comité de Pilotage	15542
@@ -639,7 +644,6 @@ Réunion du Comité de Stabilité	15102
 Réunions du Comité Exécutif	13518
 SECÇÃO III COMISSÕES FUNDIÁRIAS SUBSECÇÃO	11527
 SENHORES MEMBROS DA COMISSÃO PERMANENTE	12796
-SEPC Comissã	15694
 SNFI. Le Comité de Pilotage	10965
 SNIGS-MS COMITE TECHNIQUE DE REDACTION Annuaire	15475
 SOLIDARITE COMITE NATIONAL DU RASSEMBLEMENT POUR	16637
@@ -681,3 +685,4 @@ Un Comité	13292,2182,199
 Un Comité de Pilotage	9406
 Vice-président du Comité	14462
 Vsci Comité National	15711
+Zona de Comissão Nacional de Coordenação	15526

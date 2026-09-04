@@ -211,7 +211,7 @@ Anakpa Mani	8718
 Analamanga	14442,46,1,1,90,34,8
 Analanjirofo	14550
 Analfabetismo	11569
-Analisar	167,2649,1402,7164,60,7,7,3977,70
+Analisar	167,2649,1402,7164,60,7,7,3977,70,23
 Analise	2228
 Analise FOFA	2228
 Analista	12021,4300
@@ -278,7 +278,6 @@ Analysis By Pamellah Musimwa and Chinga Govhati	8864
 Analysis By VERITAS THE Cyber and Data	9251
 Analysis By Valentine Maya	6105
 Analysis DAFF Department of Agriculture	11188
-Analysis ECB European Central Bank RA	15924
 Analysis EDD	11271
 Analysis ERR Economic Rate of Return ESCP	1867
 Analysis Mason	14932
@@ -349,7 +348,7 @@ Analyst Reporting Generates Fragmented	13037
 Analyste	747,8868,5817,42,19
 Analyste des Investissements	15474
 Analystes	1187
-Analysts	899,2679,2,45,32,887,124,22,520,5,248,308,170,1,43,76,187,63,22,90,409,1376,379,803,9,747,135,163,485,931,232,30,908,431,71,533,164,68,635,265,686
+Analysts	899,2679,2,45,32,887,124,22,520,5,248,308,170,1,43,76,187,63,22,90,409,1376,379,803,9,747,135,163,485,931,232,30,908,431,71,533,164,68,635,265,686,930
 Analysts-say-that-the-invalidation-of-Higino-Carneiro's-	9399
 Analysys Mason	5704,4884
 Analysys Mason's MEA	8828
@@ -892,8 +891,6 @@ HISTORICAL ANALYSIS OF DOMESTIC AND FOREIGN	6408
 HOUSEHOLDS Analysis	15574
 HP ANALYSE DE LA PERFORMANCE	16664
 HR Risk Analysis Report	12500
-Hans Anand Beck	15924
-Hans Anand Beck Task Team Leaders	15924
 Haver Analytics	7655
 Health Analyst Chief Government Analyst Chief	14773
 Health Challenges SITUATIONAL ANALYSIS Digital Health	396
@@ -978,6 +975,7 @@ Inside Anambra	9936
 Insights and Analysis	10028
 Institute for Policy Analysis	12376
 Institute of Policy Analysis and Research	12329
+Institute of Policy Research and Analysis	16770
 Institutional Logics Case Analysis	226
 Integrated Analytics	13037
 Integrated Data Analysis	13062
@@ -1057,6 +1055,7 @@ MOUANDA Van Dyck UGP Analyste Programmeur	16012
 MOUKIMOU Anasthasie DEP	15580
 MS Excel. Analytical	2948
 MTN. Analyse	15712
+MTN’s Enterprise Value Analytics	16812
 MUSLUN Azra Bibi Analyst	14770
 MWc Analyse	15670
 Macro Economic Analysis Nhlanhla Hlatshwayo Security	11131,3
@@ -1082,7 +1081,6 @@ Mauvais Anatole Collinet MAKOSSO	15780
 Methodology and Statistical Analysis	15123
 Methodology for Data Collection Analysis	15658
 Methodology for Data Collection Analysis of MIS	15658
-Micky O. Ananth	15924
 Migration Information and Data Analysis System	7048
 Minister Anand	9043,232,44
 Minister of Local Government. Prof. Shyaka Anastase	15208
@@ -1379,6 +1377,8 @@ Staff IT Systems Analyst Computer Support	14835
 Stage Analytical	1243
 Stakeholder Analysis	12210,146,403,3037
 Stakeholder Analysis Background Stakeholder	12210
+Stakeholders Analysis Effective	15845
+Stakeholders Analysis Stakeholder Role	15845
 Startup Act Mauritanie II. Analyse	1247
 Static Analysis	15161
 Statistical Analysis Software	8604
@@ -1474,7 +1474,7 @@ WMO and ANAM	16317
 Weaponisation of AI Against the State. Analysis	4528
 Workshops Comparative Analysis	13005
 World Bank Education Sector Analysis	12914
-World Bank-IMF Debt Sustainability Analysis	238,15686
+World Bank-IMF Debt Sustainability Analysis	238
 X Analyse	16195
 X. TYPOLOGIE ET ANALYSE DES RISQUES	10876
 X.8.4. Analyse	15685

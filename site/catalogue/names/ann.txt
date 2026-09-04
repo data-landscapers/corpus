@@ -68,7 +68,7 @@ ANNEE SOCIALE	15489
 ANNEE SOCIALE ET COMPTES SOCIAUX Article	15416
 ANNEE-EDITION SPECIALE N	16047
 ANNEES PIB1 Valeur Télécoms Courant2 Valeur	13324
-ANNEX	961,1,8,273,21,20,534,49,1022,715,257,987,1691,659,350,2307,859,54,61,135,172,20,28,196,37,107,1,24,11,295,50,19,41,230,6,101,31,330,239,133,296,1,606,27,166,393,222,34,45,3,3,22,26,31,5,7,5,8,2,5,43,34,40,28,43,281,13,49,18,20,4,3,35,48,20,37,1,2,2,68,12,39,17,125,108,112,45,195,52
+ANNEX	961,1,8,273,21,20,534,49,1022,715,257,987,1691,659,350,2307,859,54,61,135,172,20,28,196,37,107,1,24,11,295,50,19,41,230,6,101,31,330,239,133,296,1,606,27,166,393,222,34,45,3,3,22,26,31,5,7,5,8,2,5,43,34,40,28,43,281,13,49,18,20,4,3,35,48,20,37,1,2,2,68,12,39,17,233,112,45,195,52
 ANNEX AGREED FINANCIAL TERMS	14135
 ANNEX Annex	10980,1353
 ANNEX B	3861,3337,6767
@@ -262,7 +262,7 @@ ANNUAIRE STATISTIQUE DE L’EDUCATION	13478
 ANNUAIRE STATISTIQUE DU BURUNDI	13377
 ANNUAIRE STATISTIQUE DU MINISTERE DU COMMERCE	13500
 ANNUAL	11586,1383,1767,99,285
-ANNUAL ACTION PLAN	12843
+ANNUAL ACTION PLAN	12843,3002
 ANNUAL ACTION PLANS	15796
 ANNUAL ACTIVITY REPORT	14985
 ANNUAL AND QUARTERLY	5533,6453
@@ -430,6 +430,7 @@ Africa50 AnnualReport23 Final EN RevA DIGITAL.pdf	810,1,1,235,1
 AfricaNenda Annual Report	5229
 African Space Industry Annual Report	6467
 African Union BERNET Annual Work Plan	13331
+Agencies Annually NIA	15845
 Agreed Actions Annex	12195
 Ahead Ahead Annual Integrated Report	11134
 Aimable Annexe D	13300
@@ -451,7 +452,6 @@ AnnAunanl	11134
 AnnPdfOpen.aspx	12577
 Anna Banza	13542
 Anna Carlotta	12541
-Anna Carlotta Allen Massingue	15924
 Anna Chibamu AS Zimbabwe	1191
 Anna Chyzhkova	15991
 Anna Collard	14376
@@ -709,6 +709,7 @@ Annexes Intervention	789
 Annexes Limites	6959
 Annexes Meeting	5678
 Annexes Mot	15458
+Annexes Plan	15845
 Annexes References	5679
 Annexes The Regional Trade Policy	14079
 Annexes Tier	10764
@@ -849,15 +850,15 @@ Annuaires	13377,2098,198,948
 Annuaires Décentralisation	3396
 Annuaires Statistiques	13325
 Annuaires Statistiques MEBAPLN	15743
-Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3,20,7,1,17,17,13,12,13,2,23,25,12,9,25,3,22,2,44,18,9,9,26,41,135,32,39,80,24,3,35,51,15,2,38,2,64,18,181,155,65,408,153
+Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3,20,7,1,17,17,13,12,13,2,23,25,12,9,25,3,22,2,44,18,9,9,26,41,135,32,39,80,24,3,35,51,15,2,38,2,64,18,336,65,408,153
 Annual A- Data Centre Compute Percentage	7548
 Annual ACIST Proceedings	1248
 Annual AI	4126,3422
 Annual ARCT	13331
 Annual ARPCE	15553
 Annual Abstract	13991
-Annual Action Plan	13242,89
-Annual Action Plans	789,12128,2018,62
+Annual Action Plan	13242,89,2514
+Annual Action Plans	789,12128,2018,62,848
 Annual Activities Progress Report	12932
 Annual Activity Report	14985
 Annual Administrativ	15518
@@ -1216,16 +1217,25 @@ Annualised Revenue Run-Rate for Sikaflow	9977
 Annualised TPV	7663
 Annualité	16020
 Annualized	4301,7271
-Annually	1686,4746,4818,616,120,39,1306,1,2115
+Annually	1686,4746,4818,616,120,39,1306,1,2115,398
 Annually Bi-annually Quarterly Monthly Never	1686
 Annually Bi-annually Quarterly Monthly Weekly	1686
+Annually Board	15845
 Annually Cabinet	7548
 Annually First	15905
 Annually General Public	7548
+Annually Ghana Police	15845
 Annually Head ICT	13005
 Annually Head ICT NRIS NRIS Re	13005
 Annually Issuer	15905
+Annually NACOC	15845
+Annually NADMO	15845
+Annually NADMO Proportion	15845
+Annually NPC	15845
+Annually Number	15845
+Annually PRISONS Percentage	15845
 Annually Review	10829,696,4028,108
+Annually School	15845
 Annualreport	12325
 Annuel	2342,13328
 Annuelle	6954
@@ -1527,6 +1537,7 @@ DIRECTION JURIDIQUE Rapport Annuel	15670
 DISBURSTBL Fiscal Year Annual Cumulative	1284
 DISCLAIMER The Annual Report	14773
 DJOUE Annette	16381
+DOREEN P. ANNAN MINTER	15845
 DORK MEDICAL CENTER ANNEX LIMITED Data	7167
 DPGA Annual	13095
 DPGA Annual Meeting	13095
@@ -1686,6 +1697,11 @@ Federal Auditor General Presents Its Annual	7054
 Federation. Annual	12145
 Fees License Type Tenure Application Annual	10407
 Fees Service Type Tenure Application Annual	10407
+Female Annually	15845
+Female Annually Ghana Refugee	15845
+Female Annually Ghana Refugee Board Objective	15845
+Female Annually MINTER	15845
+Female Annually MINTER SMTDP	15845
 Female Frequency Annual Data	15661
 Female Frequency Annual Project	15661
 Female. Frequency Annual Data	15661
@@ -1736,6 +1752,7 @@ GE EN ANNÉES	13300
 GE EN ANNÉES RÉVOLUES	13300
 GEI Frequency Annual Data	15661
 GET Handbook Annex	1818
+GIS Annually All	15845
 GIZ Managing Director Anna Sophie Herken	9632
 GLOSSAIRE Année	2476
 GREEN ASSESSMENT SUMMARY ANNEX	1818
@@ -1867,6 +1884,7 @@ Isla de Annobón Annobón	4209
 Ivanhoe Mines Announces Completion of Hydropower Ramp-Up	15952
 J Annual Reports of Refugee Appeals Authority	11177
 J. ANNEXE	13524
+JHS Annually	15845
 JJ Annexe	15399
 JSI. Annual	12255
 JURÍDICOS INNOVACIÓN SOCIAL BIOKO SUR ANNOBON	4209
@@ -1985,6 +2003,7 @@ Malagasy ANNEXE-4. TOVANA	14490
 Malagasy ANNEXE-5. TOVANA	14488,1
 Malawi Annex C. Transforming Education Summit	12175
 Malawi Revenue Authority Annual Report	14674
+Male Annually	15845
 Management KIFC Annual	14997
 Manager Anna Nylander	8094
 Mandate Outputs Annual	11986
@@ -2059,6 +2078,7 @@ MÉTHODE. Annexe	13300
 Métallurgie Non Ferreuse ANNEE	16103
 N'A PAS ANNÉES	13300
 NA No Annual	15758
+NADMO Annually	15845
 NAIS ANNÉE SUIV	13300
 NAISSANCE ANNÉES	13300
 NATIONAL DEFENCE AND SECURITY ANNUAL PERFORMANCE	13126
@@ -2134,6 +2154,7 @@ Ocidental. Para Anna Chyzhkova	15991
 Oct-25 Annual Average	13060
 Offerors Annex II	14131
 Office Annual	7548
+Officers Annually	15845
 Official Twitter Account Announcements	11953
 Offre Annexe	16569
 Onduleurs.pdf Annexe	13694
@@ -2144,11 +2165,14 @@ Online Annex	8436
 Online Annex B	8436
 Ooredoo Annex Table	15471
 Open Menu Home Announcements Current Archives	12486
-Operation Specific Annex	15924
 Operational Plan APP Annual Performance Plan	11218
 Operations Annual Quantitative	13332
 Operator CAGR Compound Annual Growth Rate	3184,1,1340,6470
 Orange MEA Annual Network CapEx Programme	933,208
+Outcome Annually	15845
+Outcome Annually NACOC	15845
+Output Annually	15845
+Output Annually NACOC	15845
 Output Indicators Annual Target Q1 Q2	11986
 Outputs Name Annual Budget	13080,15
 Overview of Agreed Commitments and Announcements	15661
@@ -2256,7 +2280,10 @@ Q4.1 and Annexure Q4	13461
 QUESTIONNAIRES Annexe E Annexe	13300
 Qualité Gouvernance Gouvernance Annexe	2966
 Quarterly Annual	2776,12001
+Quarterly Annually	15845
+Quarterly Annually Implemented Implemented MINTER SMTDP	15845
 Quarterly Projection Model. Annual Integrated Report	11134
+Quarterly and Annual Progress Reports	15845
 Quarterly and Annually Desired	11986
 Quarterly and Annually Indicator	11986
 RAPPORT ANNUEL	822,176,7893,4410
@@ -2292,6 +2319,16 @@ Re-reading. Annotating. Asking	5513
 Ready Annual	14997
 Redevance Forestière Annuelle	15999
 References65 Annex	15342
+Region Annually GIS	15845
+Regions Annually	15845
+Regions Annually Gaming	15845
+Regions Annually Ghana Annually Immigration	15845
+Regions Annually Ghana Fire	15845
+Regions Annually Ghana Quarterly Immigration Rate	15845
+Regions Annually NACOC	15845
+Regions Annually NACSA	15845
+Regions Annually Percentage	15845
+Regions Quarterly NACOC Annually NACOC	15845
 Registrar-General's Department Annual Report	14761
 Regulations. Annual	13322
 Regulatory Board ANNEX	15081
@@ -2312,6 +2349,7 @@ Requirements Specification Annex C	13037
 Results and Announces Capital Raise	9735
 Revenue Announcement	5702
 Revenue Collection and Annual Growth	14985
+Review Annually RSIMD	15845
 Revised Annual Performance Plan	11986
 Revised Framework for Strategic Plans and Annual	11986
 Revised Framework for Strategic Plans and Annual Performance	11224
@@ -2498,6 +2536,7 @@ Université Koffi Annan de Guinée	16641
 Université Kofi Annan	16725
 Unlimited Wananchi Group Annex Table	15471
 Upgradability ANNEXURES Annexure	11952
+Utility Annually	15845
 V ANNA Interconnector Project	12399
 V ANNEXES Annexe	10711
 V Annexures	5132

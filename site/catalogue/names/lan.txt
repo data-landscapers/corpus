@@ -886,7 +886,7 @@ Land Use and Planning Unit	14738
 Land Use and Planning Unit Statistics	14738
 Land Use and Relevant ESS8 Involuntary Resettlement	12253
 Land Use and Soils	1988
-Land Use and Spatial Planning Authority	1513
+Land Use and Spatial Planning Authority	1513,14332
 Land Valuation Division MLNR	15657
 Land Victoria	4896
 Land and Documentation of Ownership	15247
@@ -1296,7 +1296,7 @@ Ministry of Land and Natural Resources	13392
 Ministry of Land and Physical Planning. Records	14546
 Ministry of Land and Regional Government	9727
 Ministry of Land and Survey	11129
-Ministry of Lands	395,125,420,30,584,150,1342,632,2053,1085,2087,1410,1899,295,4,799,10,67,7,81,615,456
+Ministry of Lands	395,125,420,30,584,150,1342,632,2053,1085,2087,1410,1899,295,4,799,10,67,7,81,615,456,2243
 Ministry of Lands and Agriculture	1663,977,2996,1005,595,5369
 Ministry of Lands and Housing	2104,9617
 Ministry of Lands and Natural Resources	1249,625,5821,4674,87,931,3124
@@ -1554,6 +1554,7 @@ Reshaping the Development Landscape	10630
 Resilience and Land	13831,66
 Resilient Landscapes	15129
 Resolve Land Disputes	12389
+Resolve Rwenzori Land Disputes National Mental	16797
 Resource Ministry of Housing and Lands	14770
 Responsibilities of Land	14746
 Responsible Governance of Tenure of Land	10960

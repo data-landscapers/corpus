@@ -523,7 +523,7 @@ Finance. Mr Speaker	13387
 Financial Crimes Commission. Madam Speaker	14753
 Financial Inclusion Specialist	10774
 Financial Management Manual Financial Management Specialist	15372
-Financial Management Specialist	1867,1122,9206,822,315,1858,182,39,513
+Financial Management Specialist	1867,1122,9206,822,315,1858,182,39
 Financial Management Specialist Alex Hadzhiivanov	15905
 Financial Management Specialist Henie Dahlia Takodjou	11924
 Financial Management Specialist Zarafshan H. Khawaja	15601
@@ -785,7 +785,6 @@ Laser Spectroscopy	12972
 Law. II- Spending	15393
 Laws of Zambia. Madam Speaker	12449
 Lead Digital Development Specialist	14010
-Lead Disaster Risk Management Specialist	15924
 Lead Energy Specialist	11136
 Lead Financial Sector Specialist	12701
 Lead Governance Specialist	11867
@@ -1013,6 +1012,7 @@ Number of Spectrum Licences Issued	12395
 Number of Spectrum Licences Issued KINGDOM	12395
 Number of Spectrum Licenses Issued Service Class	12395
 Numero Special	436
+O SPEMA	15526
 OAU Convention Governing the Specific Aspects of Refugee	11628
 OBJECTIF SPECIFIQUE	16195
 OBJECTIFS SPECIFIQUES Ind.1.1.1.1. Taux	15722
@@ -1033,7 +1033,6 @@ Ookla’s Speedtest Intelligence	9759
 Open DWDM Speaker	16545
 OpenID Connect Specifications B.2 National Regulations	11952
 Operating and Spectrum	7204
-Operation Specific Annex	15924
 Operational Specialist	11289
 Operations Specialist	11289
 Opportunistic Spectrum Management	11262
@@ -1113,7 +1112,7 @@ Priority Outcomes Specific	396
 Private Sector Development Specialist	10841,4338
 Private Sector Specialist	761,10080,2471,2,1583
 Private University Ogun Spends N1bn	10034,231
-Procurement Specialist	1228,1661,3650,4986,1175,317,41,274,1687,171,234,129,48,60,2,261
+Procurement Specialist	1228,1661,3650,4986,1175,317,41,274,1687,171,234,129,48,60,2
 Procurement Specialist AFTPC Clement Tukeba Lessa	15372
 Procurement Specialist Ato Abebe Gebremedhin	12195
 Procurement Specialist Dir. New Congo Telecom	15372
@@ -1140,6 +1139,7 @@ Projected Age Specific Expected Projected Age	12151
 Projected Spectrum	5245
 Projection Specification Price Code	13385
 Projector Specifications	34
+Promise of High-Band Spectrum	16810
 Promotion of Climate Smart Agriculture Specialists Promotion	1988
 Promotions and Special Offer	6671
 Promotions and Special Offers	6671
@@ -1259,7 +1259,6 @@ SANCTIONS SPECIFIQUES AUX INFRACTIONS	16617
 SARB. Special	6938
 SDGs. The Fifth Specialized Technical Committee	1814
 SDH State Department for Housing SDR Special	2775
-SDR Special Drawing Rights SDFP Sustainable	15924
 SDR Special Drawing Rights SEA Sexual	10829
 SDR Special Drawing Rights TA Technical	16187
 SDR Special Drawing Rights UN United	15731
@@ -1355,6 +1354,7 @@ SPEEDING	14760
 SPEEDS BATTERY USE MOBILE	11004
 SPEEP	15240
 SPEIG	15977
+SPEMA	15526
 SPEREC	11406
 SPEREC. O Ponto Focal A&S	11406
 SPES Solar	15769
@@ -1398,26 +1398,25 @@ Senate The Honourable Speaker	10210,2482
 Senior Agriculture Specialist	13312,2
 Senior Development Specialist	14897
 Senior Digital Competency and Curriculum Specialist	11750
-Senior Digital Development Specialist	2989,605,7171,10,770,2465,1009,905
+Senior Digital Development Specialist	2989,605,7171,10,770,2465,1009
 Senior Digital Specialist	10886,1540,1591,1002,1383
 Senior Digital Specialist Alma Nurshaikhova Senior	3456
 Senior Economist Sector Specialist	14897
-Senior Education Specialist	2989,9423,3068,444
+Senior Education Specialist	2989,9423,3068
 Senior Education Specialist Borrower	16675
-Senior Energy Specialist	11136,4788
+Senior Energy Specialist	11136
 Senior Energy Specialist Matteo Maria Malacarne	16654
 Senior Environment Specialist	2989
 Senior Environment Specialist Isabelle Bautista	15905
-Senior Environmental Specialist	15924
 Senior FM Specialist	13331
 Senior Financial Management Specialist	11545,2340,1134
 Senior Financial Sector Specialist	3238,7525,78,295,1527,38,611,2,1583,260,316
 Senior Financial Sector Specialists. Review	12701
-Senior Governance Specialist	761,10784,322,4057
+Senior Governance Specialist	761,10784,322
 Senior Health Specialist	12534,778,2
 Senior Land Administration Specialist	10763,4710
 Senior Private Sector Development Specialist	10841
-Senior Private Sector Specialist	10841,1190,150,520,611,2,1843,316,451
+Senior Private Sector Specialist	10841,1190,150,520,611,2,1843,316
 Senior Procurement Specialist	1284,1705,8878,1464
 Senior Procurement Specialist Address	13185
 Senior Public Sector Specialist	11867,1445,2,1583,583
@@ -1451,7 +1450,7 @@ Social Development Specialist Monitoring	1778
 Social Development Specialist Sorting	1778
 Social Development Specialist and GBV Specialist	15055
 Social Justice News Reporter Special Investigative	7936
-Social Protection Specialist	10763,1778,771,2,2610
+Social Protection Specialist	10763,1778,771,2
 Social Protection Specialist Julia Rachel Ravelosoa	14553
 Social Recovery and Human Development Specific Objective	970
 Social Registry Specialist	11855
@@ -1587,6 +1586,7 @@ Special Education Needs Sector	14829
 Special Education Needs Unit	13016
 Special Education Needs. This Masters	12972
 Special Educational Needs	899,12015,42
+Special Educational Needs Coordinators	16779
 Special Educational Needs Policy	14896
 Special Envoy	560,5229,928,735,2329,935,1388,1640,1117,258,1137
 Special Envoy for Covid Response	6667
@@ -1723,7 +1723,7 @@ Specialconsiderationshallbegivenwhenachildisfoundguilty	972
 Speciale	8022,7562
 Specialisations	10771
 Specialised	961,48,1517,2002,4075,1585,945,819,424,68,68,798
-Specialised AI	12210
+Specialised AI	12210,4577
 Specialised Clinics	12976
 Specialised Deposit-Taking Institutions	15600
 Specialised Health Care	12606
@@ -1799,7 +1799,7 @@ Species	13385
 Species Identification and Classification	15478
 Species Mix	14818
 Species Mix Resource	14818
-Specific	640,149,173,8,30,68,93,82,21,194,320,89,121,756,860,257,440,812,173,247,1353,61,504,308,1639,790,163,376,37,77,122,1,16,37,84,83,9,2,74,148,100,8,249,80,1,45,43,43,9,166,14,65,13,103,9,20,3,25,31,91,146,98,7,131,60,108,100,129,6,11,25,2,5,55,267,194,46,13,38,738,1,27,3,7,25,78,25,17,25,13,12,50,59,34,66,8,129,70,9,52,23,26,18,27,35,105,55,30,225,219,306
+Specific	640,149,173,8,30,68,93,82,21,194,320,89,121,756,860,257,440,812,173,247,1353,61,504,308,1639,790,163,376,37,77,122,1,16,37,84,83,9,2,74,148,100,8,249,80,1,45,43,43,9,166,14,65,13,103,9,20,3,25,31,91,146,98,7,131,60,108,100,129,6,11,25,2,5,55,267,194,46,13,38,738,1,27,3,7,25,78,25,17,25,13,12,50,59,34,66,8,129,70,9,52,23,26,18,27,35,105,55,30,225,219,306,278
 Specific Aspects	11986
 Specific Aspects of Refugee Problems	5533,9393
 Specific Assessments	11145,1,1
@@ -1840,7 +1840,7 @@ Specific Security Controls	6432
 Specific Tasks	3678
 Specific The DHA	11986
 Specific Types of Data Controllers and Data Processors	11956
-Specifically	629,160,172,200,67,15,5,16,554,10,39,121,108,21,647,11,214,467,31,117,23,24,27,352,22,162,3,84,131,177,67,56,134,398,290,101,153,347,28,28,301,27,93,304,11,285,46,193,224,174,507,230,171,140,105,107,220,410,408,596,2,10,1,4,5,34,10,12,40,28,31,23,1,16,127,23,4,6,16,12,27,10,6,17,7,26,25,6,109,67,57,25,28,196,81,2,10,33,2,3,19,15,51,6,7,87,71,14,52,19,7,44,116,127,24,359,13,42,2,10,46,4,13,95,37,24,111,11,26,21,5,9,26,59,147,79,165,68,68,138,332,13,89,52,38,124,107,38,25,47,3,29,17,34,6,34,34,247,13,49,7,31,7,35,21,27,47,10,1,2,2,80,281,374,277
+Specifically	629,160,172,200,67,15,5,16,554,10,39,121,108,21,647,11,214,467,31,117,23,24,27,352,22,162,3,84,131,177,67,56,134,398,290,101,153,347,28,28,301,27,93,304,11,285,46,193,224,174,507,230,171,140,105,107,220,410,408,596,2,10,1,4,5,34,10,12,40,28,31,23,1,16,127,23,4,6,16,12,27,10,6,17,7,26,25,6,109,67,57,25,28,196,81,2,10,33,2,3,19,15,51,6,7,87,71,14,52,19,7,44,116,127,24,359,13,42,2,10,46,4,13,95,37,24,111,11,26,21,5,9,26,59,147,79,165,68,68,138,332,13,89,52,38,124,107,38,25,47,3,29,17,34,6,34,34,247,13,49,7,31,7,35,21,27,47,10,1,2,2,80,102,79,100,374,277
 Specifically Article	5321
 Specifically the PDO	1867
 Specification	1009,7803,311,1598,54,465,629,491,825,1842
@@ -1864,7 +1864,7 @@ Specified	10765,10,222,959,1576,91,1977
 Specified Parties	12542
 Specified Parts Commencement Date	12575
 Specifies	11269,2116
-Specify	582,154,1041,100,63,2032,1693,6132,360,207,640,181,1592,372
+Specify	582,154,1041,100,63,2032,1693,6132,360,207,640,181,1592,372,696
 Specify State Party	1243
 Specifying	1243,11793,2357
 Specijalnosti	10780
@@ -1953,6 +1953,7 @@ Spectrum-pricing	5245
 Spectrum. Initially	5033
 SpectrumManagement	9292
 Speculative	4127
+Speculative Bet	16810
 Speech	1613,197,75,391,1307,5164,2407,9,52,1904,1653,1507
 Speech Commissioner HHS Statement	11283
 Speech Commun	9739

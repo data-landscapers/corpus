@@ -1383,6 +1383,7 @@ Cymunio Limited Data Processor INST-944126A6FE7 NAIROBI	7167
 CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO	11388
 Código Penal. CAPÍTULO III Disposições Processuais	6970
 Código Processos Penal	9176
+Código de Procedimento Administrativo	16138
 Código de Processo Penal	6970,4612
 Código de Processo Penal. Artigo	6970
 D Data PrOcessOr	1593,11361
@@ -2067,6 +2068,7 @@ Grievance Redress Mechanism Structures and Processes	12253
 Grounds and Procedures	5665
 Guidance Notes for Processing Children's Data	12301
 Guidance Notes for Processing of Personal Data	12301
+HABITAÇÃO SECÇÃO I ACESSO E PROCEDIMENTO	16138
 HEALTH INFORMATION MANAGEMENT PROCEDURES	2709
 HIECS Procedures	15663
 HOMABAY COUNTY Data Processor INST-15136082003 HOMABAY	7167
@@ -2602,17 +2604,18 @@ ProCEED	12399
 ProCEED Mini-Grid Project Host	12399
 Proce	972
 Procedam	11363
-Procede	12783,2720
+Procede	12783,2720,635
 Procede-se	16122
 Procedendo	16056
-Proceder	167,4051,7156,7,1,53,8,6,69,1,8,42,332,873,2584,30,57,32,27,22
+Proceder	167,4051,7156,7,1,53,8,6,69,1,8,42,332,873,2584,30,57,32,27,22,386
 Procederá	163
 Procedeu-se	11543,26,332,3585
 Procedia	9129
 Procedia Computer Science	226,5123,3256,523,1
-Procedimento	539,37,3981,6826,5,18,29,17,9,57,2,62,319,3490,79,102
+Procedimento	539,37,3981,6826,5,18,29,17,9,57,2,62,319,3490,79,102,566
 Procedimento Administrativo	11388,45,19,9,4294
 Procedimento Administrativo Conjunto	11388
+Procedimento Administrativo. Perspetivando	15450
 Procedimento Geral de Consulta	11518
 Procedimento Inspectivo	11452
 Procedimento Operacional Padrão	12797
@@ -2626,9 +2629,10 @@ Procedimento de Contratação	4557
 Procedimento de Emissão de Parecer Prévio	11379
 Procedimento de Instalação ARTIGO	539
 Procedimento de Licenciamento Ambiental	11390
-Procedimentos	414,2023,1,1081,755,895,5603,11,575,12,43,6,11,86,2,2,4044
+Procedimentos	414,2023,1,1081,755,895,5603,11,575,12,43,6,11,86,2,2,4006,38,812
 Procedimentos Administrativos	4075,7313,45
 Procedimentos Administrativos Conjuntos	11388
+Procedimentos Aduaneiros	15526
 Procedimentos Aplicáveis	6462
 Procedimentos Inspectivos	11452
 Procedimentos Operacionais Padrão	11376
@@ -2784,7 +2788,7 @@ Processamento de Dados Pessoais Princípio	11374,4103
 Processamento de Dados Pessoal	15477
 Processamento de Imagem	12019
 Processamento de Linguagem Natural	2816
-Processar	167,2649,13211
+Processar	167,2649,12710,501
 Processe	11862
 Processed	3931,7305,1128,678,1985,457
 Processed Seaweeds	14736
@@ -2806,7 +2810,7 @@ Processes6	8606
 Processes9	8606
 Processiflg	11517
 Processin	972
-Processing	3,13,9,2,284,451,527,44,141,119,37,107,50,90,14,218,666,114,119,196,100,310,247,1121,131,86,45,119,316,744,89,573,246,597,508,170,1551,16,548,120,139,275,150,112,379,60,30,14,166,19,8,101,7,1,35,27,29,12,14,77,16,37,102,247,11,20,25,50,32,6,11,268,60,96,129,828,1,14,75,221,74,24,50,18,116,31,16,410,186,596,365
+Processing	3,13,9,2,284,451,527,44,141,119,37,107,50,90,14,218,666,114,119,196,100,310,247,1121,131,86,45,119,316,744,89,573,246,597,508,170,1551,16,548,120,139,275,150,112,379,60,30,14,166,19,8,101,7,1,35,27,29,12,14,77,16,37,102,247,11,20,25,50,32,6,11,268,60,96,129,828,1,14,75,221,74,24,50,18,116,31,16,410,186,596,365,168
 Processing Conditions ARTICLE	15484
 Processing Fee for Simplified Customs Assessment Form	14828,3
 Processing Fees	12882
@@ -3265,7 +3269,6 @@ Streamlined Visa Processes	12376
 Streamlining of Government Processes	12917
 Strengthening Business Processes for Identity Management	12663
 Strengthening Complaints Handling Processes	11134
-Sumário Procede	16138
 Supervision Processes	16614
 Supervisory Review and Evaluation Process	11134
 Suppliers Data Processor INST-829020C3D9D NAIROBI Kenya	7167
@@ -3372,7 +3375,6 @@ WILCOCK Data Processor INST-6441911DEC1 NAIROBI Kenya	7167
 WTO Processes	2117
 Waste Best Practice Procedure Manual Sign	2989
 Wide Web. Process	12360
-Without Proceeds	15924
 Women Pre-arrival Customs Processing Tonga	16631
 Word Processing Operator	14835
 Workflow of RCI Birth Registration Process	10765,10

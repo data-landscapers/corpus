@@ -747,7 +747,7 @@ Cybercity	585,8281,5579,402
 Cybercity Ebene	14844,3
 CybercityEbène	14847
 Cybercri-	13341
-Cybercrime	26,749,8,178,282,21,12,259,242,132,208,754,1077,94,40,45,96,47,837,137,28,508,112,178,213,143,691,361,266,896,137,379,10,22,1,427,169,12,544,423,1,10,421,31,373,632,163,518,71,106,122,83,51,162,1182,39,23,29,116,31,381,33,171,5,35,455,38,156,303
+Cybercrime	26,749,8,178,282,21,12,259,242,132,208,754,1077,94,40,45,96,47,837,137,28,508,112,178,213,143,691,361,266,896,137,379,10,22,1,427,169,12,544,423,1,10,421,31,373,632,163,518,71,106,122,83,51,162,1182,39,23,29,116,31,381,33,171,5,35,292,163,38,156,303
 Cybercrime Act	700,1077,340,1266,1268,347,176,70,1543,181,3245,381,127,1136,538,64,1889,218,671,105
 Cybercrime Act Government Spokesperson Mwaura	6787
 Cybercrime Act. Review	1777
@@ -836,9 +836,9 @@ Cyberoam	12917
 Cyberphysicalism	11715
 Cyberport de Hong Kong	6568
 Cyberpro Global	14555
-Cybersecurit	6432
+Cybersecurit	6432,9413
 Cybersecurite	10494,5090
-Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18,42,466,138,163,20,3,20,47,78,31,91,35,66,41,3,72,255,22,5,35,76,12,75,98,11,302,17,68
+Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18,42,466,138,163,20,3,20,47,78,31,91,35,66,41,3,72,255,22,5,35,76,12,75,98,11,20,282,17,68
 Cybersecurity Academy	14674
 Cybersecurity Academy for Juniors and Youth	16046
 Cybersecurity Act	587,574,616,2110,239,360,680,480,673,1,616,4,2142,122,524,111,3,426,108,1838,18,330,996,699,1459,220
@@ -1006,6 +1006,7 @@ Cybersecurity Service Providers	9728,111,5877
 Cybersecurity Services	587
 Cybersecurity Skill Development CCB-CSD.S1	10721
 Cybersecurity Skills Gap Survey	1940
+Cybersecurity Solutions Encouragingly	16813
 Cybersecurity Specialist	11750
 Cybersecurity Stakeholders	9983
 Cybersecurity Standards	587,8538
@@ -1040,6 +1041,8 @@ Cybersecurity and AI Forum	3029
 Cybersecurity and AI Safety Zimbabwe	4528,7984
 Cybersecurity and AI for DPI Agencies	16144
 Cybersecurity and Computer Misuse Bill	4082,161
+Cybersecurity and Counter- Terrorism	15845
+Cybersecurity and Counter-Terrorism	15845
 Cybersecurity and Crime Act	10674
 Cybersecurity and Cyber Crimes Act	1161
 Cybersecurity and Cyber Resilience	10721
@@ -1156,7 +1159,7 @@ Cyclone Ana	13241
 Cyclone Belal	14745
 Cyclone Eleanor	14745
 Cyclone Eloise	6539,6438
-Cyclone Freddy	996,232,3425,8326
+Cyclone Freddy	996,232,3425,8326,3794
 Cyclone Freddy. A Report	13095
 Cyclone Freddy. COMPONENTS Current Component Name	4653
 Cyclone Fytia	14569
@@ -1221,7 +1224,6 @@ Cyrille Ganou Badolo	5917
 Cyrille Herbert	16177
 Cyrille Ndong	11080
 Cyrille Schouame	5065
-Cyrille Valence Ngouana Kengne	15924
 Cyrus Maluwa	12978
 Cyrus Melvin Kevin YEMBIT MANFOUMBI	16175
 Cys-LAB Startup Village	6630
@@ -1292,6 +1294,7 @@ Development and Cybersecurity	7379
 Development and Cybersecurity Economic	7379
 Digital Connectivity and Cybersecurity Partnership	954,8834
 Digital Connectivity and Cybersecurity Partnership USAID	532
+Digital Cybercrime Investigation	16758
 Digital Service Authentication and Cybersecurity Another	14752
 Digital Service Life Cycle. Available	11216
 Digital Service Life Cyle	11216
@@ -1375,6 +1378,7 @@ Ensure Cybersecurity Awareness	1000
 Epitech University and MStudio. Cybastion The Program	3604
 Equatorial Guinea Global Cybersecurity Index	10764
 Establish Cyber Security Framework	395
+Establish Cybersecurity	15845
 Establish National Cybersecurity Advisory Board	1000
 Establish the National Cybersecurity Council	1777
 Establishing Cybercrime Complaint Center	1000
@@ -2059,6 +2063,7 @@ Public Sector Cybersecurity Framework	5533
 Publish New Cybersecurity Law Amid Rising	6845
 QUALIFIED CYBERSECURITY PROFESSIONALS	1940
 Qe7FtjalG The Namibia Cyber Security Incident	5794
+R Cybercrime Investigation Unit	15845
 RAMASHAMOLE OFFICIATES SADC CYBER DRILL MASERU	12696
 RELATIVE A LA CYBERSECURITE ET	15643
 REMARKS TYPE OF CYBER BREACH Low	1938
@@ -2208,7 +2213,7 @@ Strengthen National Cyber Readiness	1777
 Strengthen National Cyber Readiness Liberia	1777
 Strengthen National Cyber Resilience By News	14639
 Strengthening Cyber	14772
-Strengthening Cybersecurity	14054
+Strengthening Cybersecurity	14054,2759
 Strengthening Cybersecurity Across the Public Sector	5597
 Strengthening Cybersecurity Capacities Launched	16127
 Strengthening Cybersecurity and Information Protection	13053
@@ -2238,7 +2243,8 @@ Sénateur Cyriaque Nshimirimana	13405
 TH CYCLE OF LEAP PAYMENTS URL	15859
 TIP and Cybercrime Unit	14760
 TITRE III DE LA CYBERSECURITE CHAPITRE	15429
-TN CyberTech	6996
+TN CyberTech	6996,9795
+TN CyberTech Bank	16791
 TN CyberTech Bank ATMs and Innbucks	6996
 TN CyberTech Bank Limited	4896
 TN CyberTech Bank's ATM	6996

@@ -344,7 +344,7 @@ Distribuição da Rede Bancária	10775
 Distribut	12977
 Distributable	15102
 Distribute	15713
-Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644,45,204,114,1081,78,1,227,409,49,210,1407,76
+Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644,45,204,114,1081,78,1,227,409,49,210,1407,76,2110,6
 Distributed Access	11469
 Distributed Active Archive Center	10794
 Distributed Antenna System	718
@@ -483,7 +483,7 @@ Distributors GoTV Kenya	6946
 Distributors Master Plans	12399
 Distributtiioonn	12256
 Distribué	9502,2522,3,2662,1200,514
-District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,327,29,174,63,338
+District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338
 District Action Plan DEMISO	12175
 District Administration	13423
 District Administrations and Local Authorities	13472
@@ -492,7 +492,7 @@ District Administrator's Boardroom	12739
 District Administrators	11721,1050
 District Ambositra Commune Ilaka Centre District	14425
 District Annual	14935
-District Assemblies	789,3337,11333,1144
+District Assemblies	789,3337,11333,386,758
 District Assemblies Common Fund	789,6906
 District Assemblies. The Minister	16163
 District Assembly	11,16065
@@ -883,6 +883,7 @@ EMR District Hospital	12379
 ENDE Empresa Nacional de Distribuição de Electricidade	11380
 ENERGÍAS TRANSPORTE DISTRIBUC. REG. INS ULAR	4209
 ENSURING DATA DISTRIBUTION	14004
+EPA and District Camp	15845
 ES District	13418
 Eastern District of Virginia	9188
 Education Division and District	12175
@@ -937,7 +938,6 @@ FARMACIAS Y SIMILARES CAPITALES DISTRITALES	4209
 FORM OF WARRANT OF DISTRAINT	11976
 FY Distribution	12969
 FY17 Energy Transmission and Distribution	15702
-Facility EDEC Energy Distribution Company	15924
 Fair Competition and Market Distortion The Joint	6748
 Fair Distribution of Inputs	10931
 Farm Inputs Procured and Distributed	12977
@@ -1247,6 +1247,7 @@ NACIONAL DE ALIMENT. BACHILLER. POLITECNICO DISTRITAL	4209
 NASA EOSDIS Land Processes Distributed	13624
 NDFS Nutanix Distributed File System NDMP	13185
 NDMA-PR-10 Civil Disturbance	12977
+NDPC’s District Development Data Platform	15845
 NIA District Office	2689,13399
 NIA District Offices	3568
 NIDA District Office	2119

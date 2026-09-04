@@ -14,7 +14,9 @@ Departamento de Planeamento	11449
 Directora-Geral de Planeamento	15404
 Direção Geral de Planeamento	6530,5325,4435
 Direção de Planejamento	11855
+Direção-Geral de Planeamento	15526
 Direções Gerais de Planeamento	16056
+Documento de Planeamento	15526
 ERP Planejamento	11555
 Elaborar Planes de Acción	1701
 GROUPE PLANETE AFRIQUE	998
@@ -41,6 +43,8 @@ NICFI Planet	15715
 NICFI Planet. Ces	15715
 Nine Planet Apartments	8900,6409
 Novastar Ventures Africa People and Planet Fund	4516
+O Serviço de Planeamento	15526
+O Serviço de Planeamento Estratégico	15526
 OBJECTIVE STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
 OBJECTIVES STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
 PLANEAMENTO E ESTATÍSTICA ANUÁRIO ESTATÍSTICO	10766
@@ -50,7 +54,7 @@ PLANED TARGET	12453
 PLANET	1679,13073
 Planea	15380
 Planeam	15966
-Planeamento	13,2803,703,1235,4505,1355,136,2,2,4,2,6,3,3,5,6,578,6,20,4,58,4,3,82,19,9,332,121,123,3238,11,13,122,246,152,42,90,195,39,259
+Planeamento	13,2803,703,1235,4505,1355,136,2,2,4,2,6,3,3,5,6,578,6,20,4,58,4,3,82,19,9,332,121,123,3238,11,13,122,246,194,90,195,39,259
 Planeamento A Ministra da Saúde Víctor Hugo	10777
 Planeamento Educativo da UNESCO LBSE Lei de Bases	11557
 Planeamento Estatístico	11391
@@ -63,7 +67,7 @@ Planeamento Ur	15380
 Planeamento Urbanístico	15380
 Planeamento da Actividade Inspectiva	11452
 Planeamento de Cobertura	9559
-Planear	11444,5,4054
+Planear	11444,5,4054,23
 Planes	1701
 Planes Estratégicos Quinquenales	1701
 Planes de Desarrollo	1701
@@ -81,5 +85,7 @@ Planetary Labour Market	226
 Planetary Science Division	8787
 Procura de Planeamento Familiar	10777
 Provedores de Planeamento Familiar	10777
-Sistema Nacional de Planeamento	10783,613,1
-Subsecção I Direção-Geral de Planeamento	15526
+Serviço de Planeamento	15526
+Serviço de Planeamento Estratégico	15526
+Sistema Nacional de Planeamento	10783,613,1,4129
+Vieira Diretor Geral de Planeamento	15694

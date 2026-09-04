@@ -392,7 +392,7 @@ Representación	11563
 Representación Parlamentaria	4209
 Representando	10325
 Representant	14662,922
-Representante	2437,1,610,1663,36,1071,200,154,2458,2121,4753
+Representante	2437,1,610,1663,36,1071,200,154,2458,2121,4753,634
 Representante Fiscal	11383
 Representante Municipal da Educação	10751
 Representante Permanente	4209,7184
@@ -406,7 +406,7 @@ Representantes	4209,2761,734,3725,25,4,58,1307,2536
 Representantes Legais	11404
 Representantes da Comissão Intersectorial	10752
 Representantes da Sociedade Civil	10752
-Representar	13,154,4051,7163,1,53,8,6,69,3873,112,69
+Representar	13,154,4051,7163,1,53,8,6,69,3873,112,23,46,340
 Representation	27,945,502,2240,147,1815,1872,207,166,707,136,4007,300,248,155,1553,686
 Representation Conflicts	12360
 Representation Equal Civil Liberties Equal Socioeconomic	10759
@@ -457,7 +457,7 @@ Representatives of SCRA	7647
 Representatives of School Based Management Committees	11860
 Representatives of Taxpayers	12629
 Representatives of Vodacom Lesotho Foundation	12692
-Representação	11569,3827
+Representação	11569,3827,298
 Representação da OMS	11376
 Representações Diplomáticas	15380
 Represented	2933,4918,270,588,277,1611,1538
@@ -516,6 +516,7 @@ Repression	15342
 Repressão	15359,118
 Repressão de Atos Ilícitos Relacionados	15477
 Reprieve	14932
+Reprimir	15526
 Reprint	13385
 Reprint PIN	14533
 Reprinted	13385
@@ -722,6 +723,7 @@ UNESCO Representative	9755
 UNESCO Representative List of Intangible Cultural Heritage	14742
 UNFPA Nigeria Resident Representative Muriel Mafico	9540
 UNFPA Representative and Co-Chair	15980
+UNFPA Representative for Tanzania	16777
 UNFPA Resident Representative Mr. John Musoti	12719
 UNFPA Resident Representative. Charting	7702
 UNHCR Country Representative Aissatou M. Ndiaye	4652
@@ -744,7 +746,6 @@ United States Trade Representative	14008,924
 United States United States Trade Representative	14932
 Université Numérique du Mali Le Représentant	1708
 Vehículo Domes. Repres. Respons. Soberanía Annual	4209
-WBG Resident Representative	15924
 WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135
 WFP Representative and Country Director	16526
 WMO Regional Representative	14471

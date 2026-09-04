@@ -120,6 +120,7 @@ Join Biometric Update	7065
 Join BusinessDay	9047,703,247,96,127,400,69
 Join Daily Trust WhatsApp Community	9878,220
 Join ITU	9434
+Join Ministerial Order	15924
 Join Nigeria’s President for ECOWAS Summit	5939
 Join One of Our Groups Information Communication	8705
 Join Our Mailing List	15223
@@ -188,7 +189,7 @@ Joint Cybersecurity Committee Administrative Provisions	587
 Joint DE6 FR7 DK NL8 CZ	789
 Joint Data Center	10841,4969
 Joint Data Controllers	12185
-Joint Declaration	9067,838,1250,1046
+Joint Declaration	9067,838,1250,1046,4583
 Joint Decree	6087
 Joint Defence Working Group	2667
 Joint Development Agreement	13155
@@ -237,11 +238,13 @@ Joint Meeting of Committee of Ministers	12942
 Joint Meeting of SADC Ministers of Finance and Ministers	9761
 Joint Ministerial Commission	14064
 Joint Ministerial Committee	12617
+Joint Ministerial Order	15924
 Joint Monitoring Committee	11193
 Joint Monitoring Framework	15604
 Joint Monitoring Programme	13325,2249
 Joint Monitoring Programme WHO-UNICEF	13325
 Joint Monitoring Reports	16398
+Joint Monitoring Visits and Field Inspections	15845
 Joint Multi	14896
 Joint Multi-Cluster Needs Assessment	14896
 Joint NCC-Industry Committee	6748
@@ -319,7 +322,6 @@ Joint WAMA	7
 Joint WBG Approach	11468
 Joint WBG Strategy	14627
 Joint Working Group	5961,5224,1794
-Joint World Bank	15924
 Joint-Venture	15670
 Jointly	1243,4093,341,1522,3955,1116,2468,392
 Jointly Building	7835

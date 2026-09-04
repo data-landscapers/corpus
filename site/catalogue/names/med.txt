@@ -429,6 +429,7 @@ CheckUps Medical Center Data Processor INST-2919378131B	7167
 Chenouf Alkama Derradji Belloum Sihem Medani	15432
 Cheplapkei Medical Clinic Data Controller INST-4899166DFAE	7167
 Chief Executive Officer of Medallion Data Centres	10424
+Chief Ibikunle Medubi	16796
 Chief Operating Officer of MEDUSA Submarine Cable	16716
 China Media Group	4880,10725
 China Media Project	9263
@@ -516,7 +517,6 @@ DCDT Media RelationsEmail	11254
 DE BATA EBEBIYÍN ANTICORRUPCIÓ MEDIO AMBIENTE	4209
 DE LAS MEDIDAS TRIBUTARIAS	4209
 DE LOS GASTOS Y MEDIDAS	4209
-DE MEDIDAS QUE GARANTAM	15694
 DECIDE-AI.Nature Medicine	8301
 DECLANDEN MEDICAL SERVICES LTD Data Controller	7167
 DECLOLA MEDICAL CENTRE Data Processor INST-79671871021	7167
@@ -925,7 +925,7 @@ International Medical Device Regulators Forum	3651,4650
 International MedicalDeviceRegulatorsForum	8301
 International Organisation for Mediation	5525
 Internet Freedom Social Media	9937
-InterviewsAWS Series BUSINESS TECHNOLOGY MEDIA COMMUNITY	12867,1,1
+InterviewsAWS Series BUSINESS TECHNOLOGY MEDIA COMMUNITY	12867,1,1,3923,1,1,1
 InterviewsUnboxing BUSINESS TECHNOLOGY MEDIA COMMUNITY About	10735
 Invictus Global Media Group Join Us	9820
 Invite Media	13461
@@ -1093,7 +1093,7 @@ MEDIDAS CORRETIVAS ADOTADAS Com	11561
 MEDIDAS DE GESTIÓN DE PERSONAL CAPÍTULO	4209
 MEDIDAS DE MITIGAÇÃO	11390
 MEDIDAS PARA A IMPLEMENTAÇÃO DA PRESTAÇÃO	11473
-MEDIDAS QUE GARANTAM	15694
+MEDIDAS QUE	15694
 MEDIO AMBIENTE LICENCIA MEDIO ABIENTAL	4209
 MEDIO AMBIENTE LICENCIA MEDIO AMBIENTAL	4209
 MEDIO AMBIENTE LICENCIA MEDIO AMBIENTAL CULTURA	4209
@@ -1217,7 +1217,7 @@ MediClinic Hospital	12947
 MediClinic Hospital Otjiwarongo	12947
 MediClinic Hospital Swakopmund	12947
 MediPro	1261
-Media	34,192,1058,494,36,148,131,3,246,498,4,100,14,903,287,605,297,165,27,2,241,500,2,645,51,60,89,774,16,203,2,20,39,94,97,53,64,179,12,75,21,284,311,43,4,112,20,57,87,331,31,91,83,32,130,116,84,179,249,4,35,198,66,11,11,79,2,3,1,90,56,27,5,494,162,17,67,102,46,132,12,11,2,18,63,14,53,169,221,36,14,17,90,65,182,13,7,11,87,43,1,12,3,152,56,69,20,155,118,26,5,112,26,353,173,35,79,4,19,4,52,30,39,314,24,32,19,54,24,92,41,109,214,25,265,154,126,14
+Media	34,192,1058,494,36,148,131,3,246,498,4,100,14,903,287,605,297,165,27,2,241,500,2,645,51,60,89,774,16,203,2,20,39,94,97,53,64,179,12,75,21,284,311,43,4,112,20,57,87,331,31,91,83,32,130,116,84,179,249,4,35,198,66,11,11,79,2,3,1,90,56,27,5,494,162,17,67,102,46,132,12,11,2,18,63,14,53,169,221,36,14,17,90,65,182,13,7,11,87,43,1,12,3,152,56,69,20,155,118,26,5,112,26,353,173,35,79,4,19,4,52,30,39,314,24,32,19,54,24,92,41,109,132,82,25,265,154,126,14
 Media Academy for Journalism and Communication	9313
 Media Access Control	4274,10590
 Media Access Control Parameters	3604
@@ -1329,6 +1329,7 @@ Media Rights Agenda	6770,2312,2622
 Media Rights Monitor	11095
 Media Sanitization	10721
 Media Self-Regulation Council of Zambia	11691
+Media Semi- Public Relation	15845
 Media Sierra Leone	11634
 Media South African	7253
 Media Statement	8999,2230,3
@@ -1350,6 +1351,7 @@ Media Trust and Loud	4857
 Media Type	1009
 Media Urged	14079
 Media Women Network	14984
+Media and Academia Disseminate M&E	15845
 Media and Advertising Media Council L L	12210
 Media and Broadcasting	1877
 Media and Broadcasting Services	1474,2354,3041
@@ -1627,7 +1629,7 @@ Meditect	5875
 Mediter-	11155
 Mediteranian DX Club	13301
 Mediterr	766
-Mediterranean	1213,528,568,66,661,306,11,283,224,12,249,529,13,13,257,1375,3828,242,777,800,1065,863,1851,152,55,338,437
+Mediterranean	1213,528,568,66,661,306,11,283,224,12,249,529,13,13,257,1375,3828,242,777,800,1065,863,1851,152,55,338,437,92
 Mediterranean Basin	2837
 Mediterranean Sea	1038,175,2144,1293,13,10810,137
 Mediterranean Universities Union	3023
@@ -1638,7 +1640,7 @@ Mediterranean. Specifically	1213
 Mediterranean. The ViaTunisia	6503
 Mediterrania Capital Partners	15893,2
 Mediu	10760,1192
-Medium	895,66,817,1460,1494,933,390,377,1005,322,86,1554,1386,191,153,27,40,56,265,350,7,7,1,293,78,93,33,21,36,8,1,8,525,336,31,36,4,2,1056,103,269,17,65,83,17,88,67,12,80,128,75,26,7,179,66,252
+Medium	895,66,817,1460,1494,933,390,377,1005,322,86,1554,1386,191,153,27,40,56,265,350,7,7,1,293,78,93,33,21,36,8,1,8,525,336,31,36,4,2,1056,103,269,17,65,83,17,88,67,12,80,128,75,26,7,179,66,120,132
 Medium Build	13314
 Medium Dietary Diversity	12978
 Medium Digital Financial Services Support	14897
@@ -1654,7 +1656,7 @@ Medium Enterprise SMME Small Medium-Micro Enterprise	11250
 Medium Enterprise SRMI Sustainable Renewables Risk	11549
 Medium Enterprise TSC Teachers Service Commission	7548
 Medium Enterprises	940,30,4274,489,150,452,2079,1438,1128,1321,699,72,39,270,93,1072,1731,372
-Medium Enterprises Development Agency	13256,2889
+Medium Enterprises Development Agency	13256,2889,629
 Medium Enterprises Government Institutions Citizens X	12376
 Medium Enterprises MS Microsoft NACIT National	12917
 Medium Enterprises Maseru Securities Market Mobile	12701
@@ -1779,19 +1781,20 @@ Medium-Term Debt Management	13474
 Medium-Term Debt Management Strategy	14546,602
 Medium-Term Debt Management Strategy and Annual Borrowing	11136
 Medium-Term Debt Strategy	7695,5261,912
-Medium-Term Development Plan	2626,638,1522,45,702,5685,6,13,38,2
+Medium-Term Development Plan	2626,638,1522,45,702,5685,6,13,38,2,4568
 Medium-Term Development Plan and Medium Term Expenditure	11261
 Medium-Term Development Plan. Through	5533
 Medium-Term Development Priority	5533,58
 Medium-Term Expenditure	11986
 Medium-Term Expenditure Ceilings	15790
 Medium-Term Expenditure Forecast	11916
-Medium-Term Expenditure Framework	1261,2956,1316,339,5352,642,50,1316
+Medium-Term Expenditure Framework	1261,2956,1316,339,5352,642,50,1316,2613
 Medium-Term Expenditure Frameworks	7548
 Medium-Term Fiscal Framework	10779,1087
 Medium-Term Macroeconomic and Fiscal Framework	1964
 Medium-Term National Development Agenda	789
 Medium-Term National Development Plan	1161,6021,1428
+Medium-Term National Development Policy Framework	15845
 Medium-Term Outlook	11136
 Medium-Term Outlook and Risks	11271
 Medium-Term Period	5533,58,6395
@@ -1816,7 +1819,7 @@ Medium-sized Enterprises	2201,13944
 Medium-sized Enterprises MV Medium Voltage MW	11549
 Medium-sized Enterprises Project	15491
 Medium-technology	11149
-Medium-term	4732,2100,372,344,470,810,1360,605,478,689,396,561,414
+Medium-term	4732,2100,372,344,470,810,1360,605,478,689,396,561,414,2514
 Medium-term Action Plan	5677
 Medium-term GDP	11131
 Medium-term Reforms	10997
@@ -1839,6 +1842,7 @@ Medlitics	9456
 Medora Brown and Zarina Nteta	12328
 Medouneu. Dans	16037
 Medtronic LABS	937,2448,9117
+Medubi	16796
 Medumba and Fe'efe'e	9944
 Medumba and Ghomala	9944
 Medupe	9967
@@ -2002,6 +2006,9 @@ O CMC Medico	15426
 OFFINOBI Colombe MEDRAC Africa Spécialiste	16012
 OKO BARTH Junior MEDRAC Africa Responsable	16012
 OMBC Online Media Briefing Center	16059,142
+Objetivos Medidas	15694
+Objetivos Medidas Entidade	15694
+Objetivos Medidas Respo	15694
 Obstetric and Neonatal Care EMRS Electronic Medical	15556
 Occupational Medical Surveillance	11134
 Occupational Medicine	14773
@@ -2327,6 +2334,7 @@ Social Media and Digital Rights	10017
 Social Media and Politics	16366
 Social Media. Freedom House	15342
 Social Media. Social Science	961
+Solidári Des. da Cuid Medi Familia	15694
 Somali Media Association	14984
 Somali Media Association URL	14984
 Somali Media Council	14879,128

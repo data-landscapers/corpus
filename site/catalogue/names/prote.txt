@@ -310,7 +310,8 @@ Comissão Nacional de Protecção Civil	10763,5
 Comissão Nacional de Protecção de Dados	1338,742,265,13040,7
 Comissão Nacional de Protecção de Dados de Cabo	16408
 Comissão Nacional de Protecção de Dados de Cabo Verde	6568
-Comissão Nacional de Proteção de Dados	11893,121,3490,5,26,607,38,141
+Comissão Nacional de Proteção	15450
+Comissão Nacional de Proteção de Dados	11893,121,3436,54,5,26,607,38,141
 Comissão Nacional de Proteção de Dados Av. D	3079
 Comissão Nacional de Proteção de Dados Pessoais	11943
 Comissão Nacional de Proteção de Dados. Artigo	15504
@@ -535,7 +536,7 @@ Data Privacy and Protection ODPC	2668
 Data Processing and Protection	961
 Data Protec	13381
 Data Protection	27,236,698,1,129,137,15,350,1213,67,207,598,183,221,44,348,109,7,20,251,24,359,119,314,103,583,24,45,10,97,69,184,154,602,130,1721,570,816,34,3,334,394,34,78,281,13,37,177,15,25,4,18,9,60,1,54,33,6,73,84,365,37,17,2,8,24,30,1,44,15,226,60,464,165,12,132,36,244,1,89,22,48,203,22,20,93,122,66,32,12,354,111,84,431
-Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54,444,76,136,53,95,64,1,14,11,1,32,31,37,5,33,65,10,42,7,3,1,2,14,9,7,31,44,5,4,64,16,9,232,138,327,910
+Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54,444,76,136,53,95,64,1,14,11,1,32,31,37,5,33,65,10,42,7,3,1,2,14,9,7,31,44,5,4,64,16,9,232,138,327,910,242
 Data Protection Act 2011.pdf	12675
 Data Protection Act DSM Dispute Settlement	1243
 Data Protection Act Date	14435
@@ -934,6 +935,7 @@ Enabling Environment for Social Protection Systems	12964
 Enact Personal Data Protection Act	11133
 Enactment of Data Protection	12444
 Enforce Data Protection	5244
+Enforce Data Protection Act	15845
 Enforce the Data Protection	1204
 Enforce the Financial Consumer Protection Framework Enforce	15130
 Enforcement of Data Integrity and Protection	15120
@@ -1748,7 +1750,7 @@ Princípio da Protecção	11452
 Privacy In Social Protection Systems	11156
 Privacy Protection	12675,3537
 Privacy Protections	6212
-Privacy and Data Protection	3861,8307
+Privacy and Data Protection	3861,8307,3677
 Privacy and Data Protection Policy and Bill	14434
 Privacy and Data Protection Practices of Digital Lending	592
 Privacy and Data Protection. Committee	2264
@@ -1847,6 +1849,7 @@ Protecting Cyber Infrastructure	4676
 Protecting Data Privacy and Security	12356
 Protecting Decree No	15473
 Protecting First Responders	6947
+Protecting Freedom of Expression	16771
 Protecting Future Generations Artificial	2958
 Protecting Ghana	14691
 Protecting Intellectual Property and Cultural Data	16212
@@ -1865,7 +1868,7 @@ Protecting the Internet	14723
 Protecting the Poor and Vulnerable	10779
 Protecting the Work Force Child Labour and Minimum	1988
 Protectio	12977
-Protection	34,3,127,70,314,95,140,187,261,12,53,91,390,51,9,81,49,1,46,48,282,239,82,127,216,173,173,42,15,17,176,62,48,40,81,26,5,4,173,83,2,247,153,55,231,401,31,117,18,34,261,147,19,74,272,35,56,233,96,88,140,8,9,93,1,42,213,91,255,184,73,40,72,61,107,67,289,114,179,16,114,27,151,81,432,239,61,180,102,132,44,162,69,66,32,49,68,60,2,14,1,1,1,3,13,10,56,24,19,5,7,164,12,5,5,16,13,279,176,120,92,13,16,1,1,1,11,44,99,100,2,8,1,9,47,31,53,8,31,7,1,11,1,7,29,30,69,61,102,240,11,62,13,120,109,94,1,10,20,10,8,11,17,8,18,39,32,92,194,9,4,68,35,197,89,28,34,21,45,120,12,2,10,7,8,10,4,25,1,1,3,44,37,1,19,26,2,52,46,7,1,2,2,1,2,1,6,1,8,9,8,51,5,20,1,2,14,9,4,15,56,14,57,11,88,11,23,11,21,66,93,26,9,53,1,5,38,2,14,5,13,36,13,29,1,13,37,8,18,25,39,6,1,14,84,18,37,4,12,32,3,7,25,79,38,44,166,32,253,27,9,1,9,7,62,27,25
+Protection	34,3,127,70,314,95,140,187,261,12,53,91,390,51,9,81,49,1,46,48,282,239,82,127,216,173,173,42,15,17,176,62,48,40,81,26,5,4,173,83,2,247,153,55,231,401,31,117,18,34,261,147,19,74,272,35,56,233,96,88,140,8,9,93,1,42,213,91,255,184,73,40,72,61,107,67,289,114,179,16,114,27,151,81,432,239,61,180,102,132,44,162,69,66,32,49,68,60,2,14,1,1,1,3,13,10,56,24,19,5,7,164,12,5,5,16,13,279,176,120,92,13,16,1,1,1,11,44,99,100,2,8,1,9,47,31,53,8,31,7,1,11,1,7,29,30,69,61,102,240,11,62,13,120,109,94,1,10,20,10,8,11,17,8,18,39,32,92,194,9,4,68,35,197,89,28,34,21,45,120,12,2,10,7,8,10,4,25,1,1,3,44,37,1,19,26,2,52,46,7,1,2,2,1,2,1,6,1,8,9,8,51,5,20,1,2,14,9,4,15,56,14,57,11,88,11,23,11,21,66,93,26,9,53,1,5,38,2,14,5,13,36,13,29,1,13,37,8,18,25,39,6,1,14,84,15,3,37,4,12,32,3,7,25,79,38,44,166,32,253,27,9,1,9,7,62,27,25
 Protection Act	9251,1879,822,258,4,298
 Protection Act EAC East African Community	12663
 Protection ActData	7270
@@ -2107,7 +2110,7 @@ Protecção de Informações Sensíveis	11386
 Protecção de Infra-estruturas Críticas de Informação	2784
 Protecção de Vítimas	539
 Protegendo	15689
-Proteger	163,1538,1818,6976,1023,24,3802,191
+Proteger	163,1538,1818,6976,1023,24,3802,106,85
 Protegidas	11514,13,15,3838,8
 Protegidas. CAPÍTULO III Condicionantes	15380
 Protein	4972,6328
@@ -2119,7 +2122,7 @@ Protestante	10777,2523,90,2108
 Protesters	13030,1487
 Protests	14897,445
 Protests News	14517
-Proteção	1265,10128,149,5,3962,185,130
+Proteção	1265,10128,149,5,3962,185,130,314
 Proteção Civil	11376,4586
 Proteção Civil SNV Serviço Nacional de Vigilância	11376
 Proteção Contra	10777
@@ -2133,7 +2136,7 @@ Proteção de Dados Pessoais Artigo	15477
 Proteção de Dados Pessoais Resolução	11374
 Proteção de Dados Pessoais. Cabo Verde	16251
 Proteção de Dados Pessoais. Gabinete	15477
-Proteção de Pessoas Acometidas de Doença Mental	15694
+Proteção de Pessoas Acometidas	15694
 Public Data Protection Law	4575,354
 Public Disclosure Authorized SOCIAL PROTECTION	10985
 Public Disclosure Authorized Social Protection and Jobs	10964
@@ -2367,7 +2370,7 @@ Social Protection Baseline	11469
 Social Protection Basic Social Protection Basic	10775
 Social Protection Bill	14487,1372
 Social Protection COSDEC Community Based Skills	12923
-Social Protection Consultant	10763,1778,3383
+Social Protection Consultant	10763,1778
 Social Protection Delivery	12049
 Social Protection Discussion Paper Series	10985
 Social Protection Expenditure	10985
@@ -2402,7 +2405,7 @@ Social Protection Sector Strategic Plan	14942
 Social Protection Sector Working Group	15138
 Social Protection Shock Response Strategy	15878
 Social Protection Single Window Citizens Service	16600
-Social Protection Specialist	10763,1778,771,2,2610
+Social Protection Specialist	10763,1778,771,2
 Social Protection Specialist Julia Rachel Ravelosoa	14553
 Social Protection Steering Committee	15601
 Social Protection Strategy	10963,1,891,4158

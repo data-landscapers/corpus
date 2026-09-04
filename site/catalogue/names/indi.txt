@@ -42,6 +42,7 @@ Activities Key Performance Indicators	13991
 Activités Indicateurs	15580
 Additional Indicators	1818
 Administração Indirecta	4146,6637,605,61
+Administração Indireta	15912
 Advantage Healthcare India	15119
 Adverse Individuals	11994
 Adverse Individuals and NMSEs	11994
@@ -334,6 +335,7 @@ DPI Indicators for Data Exchange Systems	7222
 DPI Indicators for Digital Identity Systems	7222
 DPI Indicators for Digital Payment Systems	7222
 DURABLE Indicateurs	13300
+Dados Estatísticos Individuais	15450
 Data Export and Import Unit Value Indices	11258
 Data Indicator Name Definition	1284,12048
 DefExpo India	15119
@@ -377,6 +379,7 @@ Direitos de Utilização Individual de Frequências	11430
 Direitos de Utilização Individual de Números	11430
 Disabilities MPI Indicators Sudan	15244
 Disability Individual Support Programme Veterans Funeral	12373
+Disaster Risk Reduction and Emergency Response Indicators	15845
 Disbursement Linked Indicator Disbursement Linked Result	16032
 Disbursement Linked Indicators	10870,6,1029,271,3487,369
 Disbursement Linked Indicators DLI	11905
@@ -792,7 +795,7 @@ Ind Indicadores-Chave	11569
 Ind1.1. Indice	15722
 Index HNWI High Net-Worth Individuals HQLA	14997
 Indi-	10780
-India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4,91,107,67,203,37,5,173,163,13,2,1,28,2,4,26,13,1,10,10,40,18,62,6,32,110,12,101,136,55,46,14,2,7,38,63,132,181,42,74,154,70,3,3,16,19,2,8,46,318
+India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4,91,107,67,203,37,5,173,163,13,2,1,28,2,4,26,13,1,10,10,40,18,62,6,32,110,12,101,136,55,46,14,2,7,38,63,132,181,42,74,154,70,3,3,16,19,2,8,46,318,162,11
 India AI	4300
 India AI Action Summit	5044
 India AI Governance Guidelines	9208
@@ -1374,6 +1377,7 @@ Indicator Health Survey	11417
 Indicator I-16	10785
 Indicator I-18	10785
 Indicator I-27	10785
+Indicator Identification	15845
 Indicator Incoming Voice Incoming SMS Outgoing	6671
 Indicator Indicator Capability Source Scoring Logic	15164
 Indicator Indicator Capability Source Variables Scoring	15164
@@ -1599,7 +1603,7 @@ Indiqué la NotiÞcation de Remboursement Anticipé	15901
 Indiquée	15901
 Indiqués	15901
 Indira Bongisa Lekezwa ABBREVIATIONS AND ACRONYMS	14976
-Indira Campos	15924,135
+Indira Campos	16059
 Indirect	236,509,3908,1268,4859,222,522,476,269,1,115,105,353,995,30,860,2,255,153,234,39
 Indirect Beneficiaries Beneficiaries	10964
 Indirect Component	10964
@@ -1722,12 +1726,15 @@ Indivíduo	10766
 Indivíduos	10777,683,109
 Indonesia India Bangladesh Uganda Senegal Nigeria	11004
 Indonesia India International Telecommunication Union	10764
+Informações Auxiliares Individuais	15450
+Informações Estatísticas Individuais	15450
 Informelle Indifférents	13390
 Infrastructure Program WDI World Development Indicators	15621
 Inner Setting and Individual Domains	12025
 Innovation and Individuals Domains	12025
 Inquérito de Indicadores Multiplus	11417
 Inquérito de Indicadores Múltiplos	10760,5,10,2,3,607
+Institutional Financial Sustainability Indicator	15845
 Integrated Indicator Framework	11237,52
 Integration of Disability Indicators	13016
 Interest Relief for Individuals	14717
@@ -1791,7 +1798,6 @@ Key Demographic and Socio-Economic Indicators Zimbabwe	958
 Key Economic Indicators	10822
 Key Economic Indicators for Selected OECD Countries	2775
 Key Expected Outcomes and Outcome Indicators	11924,3500,87,90,62,68,705
-Key Fiscal Indicators	15924
 Key Health Indicators	10829
 Key Indicator	9772
 Key Indicators	12675,2260,1679
@@ -1823,6 +1829,7 @@ Key Risk Indicators	15023
 Key Statistics Indicator	12551
 Key Surveillance Performance Indicators	12976
 Kits Individuais	11962
+Knowledge and ICT Innovation Indicator	15845
 Korea Poland Brazil Croatia Chile India	7655
 LABOUR MARKET INDICATORS	14832
 LDCs. Development Partnership The Government of India	16256
@@ -2133,7 +2140,6 @@ POSAF INDICATEURS DE RÉSULTAT Proportion	10712
 POSAF RESULTATS ATTENDUS INDICATEURS DE RESULTAT	10712
 POTRAZ Success Indicator NAIC	4528
 POUR LA REPUBLIQUE DU BURUNDI Indicateurs	13433
-PPG Debt and Public Debt Indicators	15924
 PRESIDENT OF INDIA IN BOTSWANA	12568
 PRIMARY INDICATORS OF GLOBAL PROGRESS TOWARD	11572
 PRINCIPAIS INDICADORES	11531
@@ -2268,6 +2274,7 @@ Proposed Key Performance Indicators	4528,7984
 Protection of Individuals	8776,5658,299
 Protecção Individual ERR Equipas	11376
 Pré-requis Indicateurs	15583
+Public Safety and Crime Reduction Indicator	15845
 Public Works Program Pilot Indicator Name	15601
 Q.9. Indiquez	13390
 QUELS SONT LES INDICATEURS GÉNÉRÉS	16026
@@ -2305,7 +2312,6 @@ REVISED PDO INDICATORS	15601
 REVISED PDO INDICATORS Original PDO Indicator	15601
 RGB Outcome Indicator	14935
 RGB Output Indicator	14935
-RI Result Indicator ECOWAS Economic Community	15924
 RMC Key Indicators	14935
 RRA Key Indicators	14935
 RSN Logique Résultats Indicateurs Sources	10874
@@ -2324,6 +2330,7 @@ Readiness Indicators and Staging Logic32	15164
 Readiness Indicators and Staging Logic39	15164
 Readiness Indicators and Staging Logic52	15164
 Recent Visits From India	2667
+Recolha Indireta	15450
 Rede MULTICAIXA Principais Indicadores	11434
 Refugees Intermediate Results Indicators	11924
 Regarding India and Namibia	3253
@@ -2453,7 +2460,7 @@ Select Macroeconomic Indicators	11469
 Selected Aviation Industry Indicators	2775
 Selected Aviation Industry Indicators Postal Services	2775
 Selected EPZ Performance Indicators	2775
-Selected Economic and Financial Indicators	13868,2056
+Selected Economic and Financial Indicators	13868
 Selected Key Economic Indicators	2775
 Selected Macroeconomic Indicators 20	13868
 Selected Macroeconomic Indicators Sources	13868
@@ -2599,6 +2606,7 @@ Traditional Indigenous	8868
 Transfer DLI Disbursement Linked Indicator ESMAP	15663
 Transformative Delivery Systems Indicator Name Baseline	12440
 Transmission Performance Indicators	12969
+Tratamento de Dados Estatísticos Individuais	15450
 Trends of Extreme Rainfall Indices	16135
 Trusted Employer Scheme Indicator	11986
 Trusted Tour Operator Scheme Indicator	11986

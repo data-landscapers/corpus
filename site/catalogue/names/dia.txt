@@ -303,7 +303,7 @@ Diagnoses Table	15411
 Diagnosing Readiness Gaps and Country Archetypes	2957
 Diagnosis	9075,4863,1268
 Diagnosis Approach	10881,4700
-Diagnostic	1155,597,987,996,467,12,2618,1134,925,1297,523,108,22,290,9,438,430,35,198,158,901,12,2,71,91,1073,348,130,388,78,8,11,38,162,10,483
+Diagnostic	1155,597,987,996,467,12,2618,1134,925,1297,523,108,22,290,9,438,430,35,198,158,901,12,2,71,91,1073,348,130,388,78,8,11,38,162,10,483,614
 Diagnostic Accuracy	4528,7984
 Diagnostic Analysed	14752
 Diagnostic Approach	10881,4700
@@ -485,7 +485,7 @@ Diary	8460
 Dias Afrinet	11412
 Dias Santos	11955
 Diasonama	10032,196
-Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262,171,140,105,388,55,667,351,1264,21,117,519,100,282
+Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262,171,140,105,388,55,667,351,1264,21,117,365,154,100,282
 Diaspora AI Advisory Group	4528
 Diaspora Advanced Health Programme	7895
 Diaspora Advertisement Airtel Africa Foundation	5802
@@ -944,7 +944,7 @@ Ousmane Diagana Country Director	969,295,9565,135,585,375,3567,20,4,3,35,48,20,8
 Ousmane Diagana Global Director	2889
 Ousmane Diagana Mats Karlsson Sector Manager	16614
 Ousmane Diagana Regional Director	11560,345,3753,1,2,526,197
-Ousmane Diagana Regional Practice Director	3604,12139,39,142,45,14,161
+Ousmane Diagana Regional Practice Director	3604,12139,39,187,14,161
 Ousmane Diagana. Regional Director	15802
 Ousmane Diagana. Regional Practice Director	11965
 Ousmane Diallo Nacanabo	1950

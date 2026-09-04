@@ -43,7 +43,7 @@ AO TECHNOLOGY GROUP LIMITED Data Processor	7167
 AOM Group	16285
 APN GROUP LIMITED Data Controller INST-5645818C340	7167
 APN GROUP LIMITED Data Processor INST-5645818C340	7167
-APO Group	2807,5160,1535,3015,2075,76,21
+APO Group	2807,5160,1535,3015,2075,76,21,2089,6
 APO Group. ABIDJAN	14689
 APONN-SOKO GROUP LIMITED Data Controller INST-98208091214	7167
 AROPE GROUP LIMITED Data Processor INST-446058ED2F9	7167
@@ -58,7 +58,7 @@ AU Working Group	1814
 AVADA GROUP LIMITED Data Controller INST-6229969CEC4	7167
 AVADA GROUP LIMITED Data Processor INST-6229969CEC4	7167
 AWS Ground Station	10794
-AXIAN Group	4112,1039,9481
+AXIAN Group	4112,1039,9481,2146
 AXIAN Group Axian Digibank	14531
 AXIAN Group and Mastercard	4112
 AYEDOS COWRIE GROUP LIMITED Data Controller	7167
@@ -71,6 +71,7 @@ About KP Group	12576
 About Raxio Group Raxio Group	11914
 About Sudatel Telecommunications Group Founded	15284
 About Ultranet Telecom Group Ultranet Telecom	16412
+About the African Development Bank Group	16778
 Abridged and Main Report the Expert Group	582
 Absa Group	7567,375,2276,316
 Absa Group CEO Kenny Fihla	7639,6630
@@ -113,14 +114,14 @@ Africa. World Bank Group	10768
 Africa. World Bank Group Page	10768
 Africa. World Bank Group. Bastagli	10768
 AfricaNenda and Equity Group	7073
-African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509,147,34,2059,1,40,149
+African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509,147,34,2059,1,40,149,410,6
 African Development Bank Group Amb. Baba	7452
 African Development Bank Group Approves	11310
 African Development Bank Group Avenue Joseph	10718
 African Development Bank Group Carlos Monteiro	2865
 African Development Bank Group Contract Awards	13893
 African Development Bank Group Independent Recourse	11863
-African Development Bank Group President	9905
+African Development Bank Group President	9905,6879
 African Development Bank Group Published	13429
 African Development Bank Group Reflecting	2865
 African Development Bank Group The TechPark	2811
@@ -212,7 +213,7 @@ Bandwidth and Cloud Services Group	651,12680
 Bandwidth and Cloud Services Group Holdings	651
 Bank Country and Lending Groups.9	11004
 Bank Fund Vacant Group Pension Fund	4896
-Bank Group	156,387,454,193,11,383,131,534,3102,4112,405,847,3,259,27,875,366,1585,1,2,24,160,102,484,163,714,579,119,1,22,18,224,70
+Bank Group	156,387,454,193,11,383,131,534,3102,4112,405,847,3,259,27,875,366,1585,1,2,24,160,102,484,163,714,579,119,1,22,18,224,70,271
 Bank Group AI Artificial Intelligence API	13042
 Bank Group ASC Annual School Census	13310
 Bank Group Country Manager for Rwanda	14871
@@ -258,7 +259,7 @@ Bridge Loan and Hustler Groups	10330
 British American Parliamentary Group	14706
 Broad Groups	12413
 Brussels Discourse Theory Group	11028
-Budget Support Group	11863
+Budget Support Group	11863,4061
 Building Ground	9123
 Building Intelligence From the Ground Up	7367
 Building Supply Group	11131,3
@@ -340,6 +341,7 @@ Capacity’ Means When Every Group	6947
 Capital WBG World Bank Group	15447
 Capricorn Group	12478
 Capricorn Group Limited	12478
+CardinalStone Group	16785,13
 Caribbean and Pacific Group of States	14628
 Carlyle Group and Anchorage Capital Group	9016
 Cases of Civil Society and Indigenous Groups	11028
@@ -408,6 +410,7 @@ Common Carrier Pan Africa Network Group	6946
 Common Initiative Groups	16540
 Commonwealth Observation Group	12201
 Communications Group	15342
+Community Meetings and Focus Group Discussions	15845
 Community Working Group	10964
 Component Climate Hazards Group InfraRed Precipitation	10763
 Compute Raxio Group	11310
@@ -448,7 +451,7 @@ DENTAL CAPITAL GROUP LIMITED Data Controller	7167
 DEPRISS GROUP LIMITED Data Controller INST-1653870F18B	7167
 DETAILS Non-World Bank Group Financing Trust	13523
 DETAILS World Bank Group Financing	13787,2867
-DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,181,751
+DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932
 DETAILS-NewFinEnh1 World Bank Group Financing International	10829
 DETECTOR SECURITY GROUP LIMITED Data Controller	7167
 DFIs Cede Ground	4972
@@ -785,7 +788,7 @@ Government Ministère de Chairs the Local Education Group	11916
 Government of Lesotho Annual Expert Group Meeting	12761
 Governmental Action Group	7452
 Graphic Communications Group Ltd	9536
-Green Blood Group	4924,43,1,24,5,149,184
+Green Blood Group	4924,43,1,24,5,149,184,11483
 Grit Real Estate Income Group	14507
 Grouisinséeem-Benistsdaeus	4459
 Ground	1988,108,4851,204,1961,11,83,3047,203,575,354,871,1217,1079
@@ -829,7 +832,7 @@ Groundtruthmatrix	8606
 Groundwater	1988
 Groundwater Infiltration Soil	9123
 Groundwater and Boreholes	1988
-Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149
+Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215
 Group A	10785
 Group A and B Bids	13185
 Group A and Group D	10785
@@ -1367,7 +1370,7 @@ MOUBISSANGOYE LOUMBI Grouse	16381
 MPDI Working Groups	6938
 MSA Group	15952
 MSC Group	2135,1770
-MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,39,140,329,360,151,54,6,8,360,164,167,278,24,2590,317,611,430,1,467,1
+MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,39,140,329,360,151,54,6,8,360,164,167,278,24,2590,317,611,430,1,467,1,592
 MTN Group Available	9871
 MTN Group CEO	5569,5238
 MTN Group CEO Ralph Mupita	6563,288,3737,743
@@ -1377,6 +1380,7 @@ MTN Group Company	11234
 MTN Group Executive	9871
 MTN Group FY2025 Data Sheets	16216
 MTN Group Fintech	1537,9129,3713,11,936
+MTN Group Fintech CEO Serigne Dioum	16790
 MTN Group Fintech Holdings	3330
 MTN Group Fintech Holdings B.V	3011
 MTN Group Fintech Mastercard Inc	1537
@@ -1476,6 +1480,7 @@ Mission du Groupe Régional	10812
 Misuse of EIB Group Resources and Assets	15901
 Mitrelli Group	9399,1362,5101
 Mitrelli Group. The Mitrelli Group	10761
+Mixx and MVola AXIAN Group	16778
 Mn Safaricom Group Performance Service	3898
 Mn. Safaricom Kenya Performance Safaricom Group	6100
 Mobile Gains Ground	7110
@@ -1610,6 +1615,7 @@ Paratus Group	1146,81,1008,1136,168,1419,1,1435,11,62,547,3298,385,623,180
 Paratus Group CCO	7014,22
 Paratus Group CEO	3371
 Paratus Group Chief Commercial Officer Martin	10697
+Paratus Group Holdings	16797
 Paratus Group and Kampala-based ISP Roke Telkom	11320
 Paratus Group and Kampala-based Roke Telkom	10697
 Paratus Group's East African	4958
@@ -1883,7 +1889,6 @@ Sudatel Telecom Group Limited Report	15169
 Sudatel Telecommunications Group	15284
 Sudlows Consulting and X2X Group	1639
 Supervision Ratios and Group Sizes	8891
-Support Group LSPE State Enterprise Sector	15924
 Support for Vulnerable Groups and Unemployed Youth	11285
 Sustainable Development Goals. Grounded	14752
 Swiss-based Mitrelli Group	15870
@@ -2040,12 +2045,13 @@ Vision Invest and WIOCC Group	14387
 Vivendi Africa Group	15447
 Vivendi Group	15513,40
 Vivica Group	10735,3631
-Vodacom Group	2248,299,201,702,309,108,285,290,79,531,1507,450,195,227,602,2,1,106,640,977,453,2554,1908
+Vodacom Group	2248,299,201,702,309,108,285,290,79,531,1507,450,195,227,602,2,1,106,640,977,453,2554,1908,2137
 Vodacom Group Accessibility Lead	15319
 Vodacom Group Beyond	8035
 Vodacom Group CEO	8036
 Vodacom Group CEO Shameel Joosub	3483,669,2853,770,3577
 Vodacom Group CEO. Vodacom Group	4152
+Vodacom Group Consumers	16799
 Vodacom Group Egypt	8035
 Vodacom Group If Africa	4993
 Vodacom Group Limited	7204,1247
@@ -2129,7 +2135,7 @@ Workmen’s Group	14760
 World Bank Country and Lending Groups	10785,219
 World Bank Development Economics Data Group	15620
 World Bank Executive Director Africa Group	11134
-World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,42,63,7,65,14,76,23,160,63,6,111,120,26,1,24,15,6,21,5,55,148,20,32,135,100,80,3,125,5,34,4,9,23,26,1,4,2,11,2,20,1,1,3,35,68,38,4,62,18,181,59,41,22,13,85,1,43,1,12,18,165,51,7,1,70,113,28
+World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,42,63,7,65,14,76,23,160,63,6,111,120,26,1,24,15,6,21,5,55,148,20,32,135,100,80,3,125,5,34,4,9,23,26,1,4,2,11,2,20,1,1,3,35,68,38,4,62,18,240,41,22,13,85,1,43,1,12,18,165,51,7,1,70,113,28,120
 World Bank Group Annual Meetings	14774
 World Bank Group Approach	10714,292,1437
 World Bank Group Approach. Digital	11310
@@ -2266,5 +2272,6 @@ Zanzibar. Airtel Africa and Vodacom Group	10228
 Zedcrest Group	8040
 Zedcrest Group. Zedcrest	8040
 Zhongman Petroleum and Natural Gas Group Corp	15930
+Zijin Mining Group. Working	16812
 Zimbabwe Group EBITDA	4896
 Zimbabwe Group Pen-	4896

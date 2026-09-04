@@ -30,7 +30,7 @@ Afrique Centrale Gabon Tchad Congo Guinée	9916
 Agence Gabonaise	15368
 Agence Gabonaise de Normalisation	15409
 Agence Gabonaise de Normalisation. Article	15409
-Agence Gabonaise de Presse	15953,107,99,123,36,23,44,9,71,37,4,3
+Agence Gabonaise de Presse	15953,107,99,123,36,23,44,9,71,37,4,3,240
 Agence Gabonaise de Presse URL	16159,159,23,53,71,37,4
 Agence Gabonaise de Presse. Ce	15953
 Agence Gabonaise de Sécurité Sanitaire des Aliments	15500
@@ -109,6 +109,7 @@ Conselho de Administração da APD. O Gabinete de Apoio	167
 Constitution Gabon	15968
 Constitution du Gabon	15968
 Consul Honoraire du Gabon	16099
+Consumers By Gabriel Ouma	16781
 Contribution of UNESCO Gabon I. Background	15968
 Contribution of UNESCO Gabon URL	15968
 Cooperação GGQ Gabinete de Gestão da Qualidade GPS	15535
@@ -152,7 +153,8 @@ Digital Gabon Project World Bank Group	764
 Digital Sovereignty Push Gabon	7093
 Digitalization and Innovation and ST DIGITAL GABON	7035
 Digitalization and Innovation of Gabon	5797
-Digitax Gabon	3453,126
+Digitax Gabon	3453,126,13170
+Digitax Gabon Par Redaction	16749
 Dimnaka Gabriel Adigwe	12478
 Directeur Général Gabonaise des Jeux	16175
 Director General de Gabinete	4209
@@ -161,7 +163,6 @@ Director. O Gabinete de Comunicação Institucional	167
 Director. O Gabinete de Recursos Humanos	167
 Director. O Gabinete de Relações Internacionais	167
 Director. O Gabinete de Tecnologias de Informação	167
-Diretor de Gabinete	15526
 Distributeur Automatique de Billets GABAC Groupe	11944
 Distrito Ayudante Principal de Gabinete	4209
 Douanes Gabonaises	16226
@@ -170,7 +171,6 @@ Débit Gabon Yes Plan	11529
 EP FIDA FINBANK FSP GAB GIZ	13390
 Eau du Gabon	16037
 Eau du Gabon SHS Solar Home System	16037
-Economia Social Gabinetes	15694
 Economically-vulnerable Gabonese	15518
 Economie Gabonaise BANQUE AFRICAINE DE DEVELOPPEMENT	15500
 Edição Banco de Moçambique Gabinete de Inclusão Financeira	2138
@@ -263,10 +263,9 @@ Gabana Architects and Consultants	4083
 Gabbar Singh	14841
 Gabin ATIGA	16175
 Gabin Richard	15744
-Gabinete	10751,15,16,760,27,13,3776,1,21,16,8,99,23,6,240,183,167,168
+Gabinete	10751,15,16,760,27,13,3776,1,21,16,8,99,23,6,240,183,167,16,152
 Gabinete Central	10757
 Gabinete Civil	1855,2354
-Gabinete Integram	15526
 Gabinete Jurídico	167
 Gabinete Jurídico GPCGC	11435
 Gabinete Ministerio Oficial Mayor	4209
@@ -291,6 +290,7 @@ Gabinete de Comunicação Tomada de Posse	10752
 Gabinete de Estratégia	12142
 Gabinete de Estudo	11453
 Gabinete de Estudos	13,4741,4505,1493,14,595,26,4,147,19
+Gabinete de Estudos Fiscais	15912
 Gabinete de Estudos Planeamento	10752
 Gabinete de Gestão	5405,6000,23,9,132,255,3439
 Gabinete de Gestão Espacial Nacional. Assegurou	10366
@@ -311,8 +311,7 @@ Gabinete de Segurança Nacional	15504
 Gabinete de Segurança Nacional. Foram	15504
 Gabinete de Tecnologia	11435
 Gabinete de Tecnologias de Informação	167,10586,19,639,38
-Gabinete. Secção V Serviços	15526
-Gabinetes	167,10599,4760
+Gabinetes	167,10599,4760,168
 Gabinetes Regional de Planificação	11525
 Gabinetes da Ministra Portaria	15380
 Gabinetes de Planificao Regional	11525
@@ -320,7 +319,7 @@ Gabions	13385
 Gabix	8541,221
 Gable	13392
 Gabode	13884
-Gabon	24,90,46,63,78,326,74,23,40,72,80,97,6,46,178,122,76,75,9,35,39,35,140,6,48,53,17,157,208,19,3,40,11,7,56,107,39,137,93,186,71,51,42,52,1,94,19,7,13,51,56,18,52,7,5,79,2,77,25,34,75,14,88,11,35,23,80,21,61,13,71,18,13,296,84,39,24,61,139,87,2,87,61,33,90,73,424,61,1,98,167,62,25,3,84,34,100,20,25,58,92,43,166,23,16,59,120,38,58,28,29,93,25,23,2,132,30,252,267,178,45,105,19,7,1,26,1,85,99,1,1,99,54,30,36,1,37,126,274,1,218,197,6,105,110,1,91,25,79,4,342,25,34,48,1,228,45,26,50,3,3,8,43,76,7,39,35,31,57,185,1,97,80,29,80,59,1,5,34,159,3,16,1,2,55,16,57,19,38,38,41,1,9,178,11,1,32,103,554,78,154,8,88,18,180,145,476,143,190,158,44,592,41,15,4,1,34,36,8,5,11,3,4,2,13,7,11,2,1,4,15,9,11,7,3,34,2,16,10,38,3,14,5,18,3,1,17,3,6,30,80,45,40,4,36,5,28,6,1,12,5,12,23,11,15,5,8,3,16,8,11,19,3,16,20,1,8,27,19,2,8,22,3,4,7,22,18,5,9,31,1,3,9,5,29,4,1,7,5,9,11,11,13,8,5,4,1,2,3,86,9
+Gabon	24,90,46,63,78,326,74,23,40,72,80,97,6,46,178,122,76,75,9,35,39,35,140,6,48,53,17,157,208,19,3,40,11,7,56,107,39,137,93,186,71,51,42,52,1,94,19,7,13,51,56,18,52,7,5,79,2,77,25,34,75,14,88,11,35,23,80,21,61,13,71,18,13,296,84,39,24,61,139,87,2,87,61,33,90,73,424,61,1,98,167,62,25,3,84,34,100,20,25,58,92,43,166,23,16,59,120,38,58,28,29,93,25,23,2,132,30,252,267,178,45,105,19,7,1,26,1,85,99,1,1,99,54,30,36,1,37,126,274,1,218,197,6,105,110,1,91,25,79,4,342,25,34,48,1,228,45,26,50,3,3,8,43,76,7,39,35,31,57,185,1,97,80,29,80,59,1,5,34,159,3,16,1,2,55,16,57,19,38,38,41,1,9,178,11,1,32,103,554,78,154,8,88,18,180,145,476,143,190,158,44,592,41,15,4,1,34,36,8,5,11,3,4,2,13,7,11,2,1,4,15,9,11,7,3,34,2,16,10,38,3,14,5,18,3,1,17,3,6,30,80,45,40,4,36,5,28,6,1,12,5,12,23,11,15,5,8,3,16,8,11,19,3,16,20,1,8,27,19,2,8,22,3,4,7,22,18,5,9,31,1,3,9,5,29,4,1,7,5,9,11,11,13,8,5,4,1,2,3,86,9,195
 Gabon 1997	15968
 Gabon Actu	2282
 Gabon Advances Tier III Datacenter Project	8542
@@ -550,7 +549,7 @@ Gabonais. Sans	8441
 Gabonaise	4970,10401,4,53,592,17,23,189,132
 Gabonaise. ABONNEZ VOUS	15409,55,69,64,84,22,75
 Gabonaise. MINISTÈRE DES TRAVAUX PUBLICS ET	16381
-Gabonese	24,138,1363,229,19,509,54,955,288,648,309,84,2172,243,58,28,819,602,657,638,1004,4570,36,31,33,3,4,45,523,199
+Gabonese	24,138,1363,229,19,509,54,955,288,648,309,84,2172,243,58,28,819,602,657,638,1004,4570,36,31,33,3,4,45,523,199,477,40
 Gabonese Administration Information Center	15518
 Gabonese Administration Network	15518
 Gabonese Digital Incubator Company	15447
@@ -563,6 +562,7 @@ Gabonese IXP	15447
 Gabonese Insured Person	15518
 Gabonese Internet	15411
 Gabonese Ministry of National Education	15518
+Gabonese People The ITU Council	16802
 Gabonese Republic	24,199,541,14613,34,36,64,2,1,4,35
 Gabonese Republic. Own	15500
 Gabonese State. Shortly	15511
@@ -581,7 +581,7 @@ Gabon’s Minister of Digital Economy	8197
 Gabon’s Ministry of Digital Economy	9199
 Gabon’s National SBD	15411
 Gabor Csak	16135
-Gaborone	26,1,1,934,592,1445,689,384,6,5,983,175,74,13,65,38,13,5,430,51,27,153,48,483,2825,685,207,5,582,803,792,1,1,2,7,1,5,3,1,5,1,1,4,10,1,1,2,1,3,6,4,5,3,2,1,6,5,3,3,3,3,2,35,36,265,138,156,44,990,959,3
+Gaborone	26,1,1,934,592,1445,689,384,6,5,983,175,74,13,65,38,13,5,430,51,27,153,48,483,2825,685,207,5,582,803,792,1,1,2,7,1,5,3,1,5,1,1,4,10,1,1,2,1,3,6,4,5,3,2,1,6,5,3,3,3,3,2,35,36,265,138,156,44,990,959,3,1526
 Gaborone BOTSWANA MULTI TOPIC HOUSEHOLD SURVEY	12600
 Gaborone Botswana	12972
 Gaborone Botswana Fax	12642
@@ -597,7 +597,7 @@ Gaborone and Francistown	2731,9908
 Gaborone. Botswana	5393,717
 Gaborone. Event	2576,784,1890,78,121
 Gabriel	1004,7456,7284,42,115
-Gabriel Afadzinu	11306
+Gabriel Afadzinu	11306,5469
 Gabriel Ametame	6936
 Gabriel Beka Nsue de Aconibe	4209
 Gabriel Beká Nsue de Aconibe	4209
@@ -831,12 +831,13 @@ Rep. Cameroon Sao Tome and Principe Gabon	15553
 Représentant Permanent du Gabon	15371
 Représentant le Gabon	6014
 Republic of Congo. Gabon	10841
-Republic of Gabon	160,141,3152,1083,434,10441,107
+Republic of Gabon	160,141,3152,1083,434,10441,107,1284
 Republic of Gabon and CAB4	15513,40
 Republique Gabonaise	1231,14435
 Robert Gabriel Mugabe	13562
 Robert Gabriel Mugabe Award	1554
 Robert Gabriel Mugabe International Airport	1713
+Rua Dr. Gabinete	15450
 RÉPUBLIQUE GABONAISE	16037
 RÉPUBLIQUE GABONAISE URL	16037
 République Gabonaise	548,683,10349,3781,14,1,33,19,19,17,54,15,64,28,53,3,20,2,24,51,70,120,5,28,19,17,62,19,38,19,96,2,108,108
@@ -908,6 +909,7 @@ TBE TC TLE TT ZIPs Gabinetes	10766
 TCHIALE Gabriel Martin	16381
 TELEDIFFUSION DU GABON	16175
 TUTELLE GABON OIL COMPANY	16099
+Table Gabon	16802
 Tagged GAB and UGA	2336
 Tanyi George Orang and Dr. Lidwina Gabsa	1599
 Team Member Gabriel Njimgye Tekumafor Team	11924

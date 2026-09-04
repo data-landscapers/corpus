@@ -33,6 +33,7 @@ Banca Instituições	6970
 Banca Quer Previsibilidade	8003
 Bancaire	6163,4802,2425,2118,428
 Bancassurance	14997
+Bance	16815
 Banchale Gufu	10764
 Banco	2816,422,5827,1697,15,595,5,192,329,916,2566,375,74,238,22,33
 Banco Africano	11569
@@ -109,7 +110,8 @@ Banco Paille Sans	10847
 Banco Santander	1414,2942
 Banco Societé Générale	11372
 Banco Yetu	12252
-Banco de Cabo Verde	6425,5508,22,8,3396,74,7,13,73,9,37,257,81,14,38,16,111,33,97,360
+Banco de Cabo	15450
+Banco de Cabo Verde	6425,5508,22,8,3396,74,7,10,3,73,9,37,257,81,52,16,111,33,97,360
 Banco de Cabo Verde António Carlos Moreira	11955
 Banco de Cabo Verde Artigo	15433
 Banco de Cabo Verde BDMI Base de Dados	15535
@@ -129,6 +131,7 @@ Banco de Desenvolvimento de Angola	144,6708
 Banco de Desenvolvimento de Moçambique	8003
 Banco de Fomento Angola	5589
 Banco de Mexico	9709
+Banco de Ministro	15526
 Banco de Moambique	6938
 Banco de Mocambique	1526
 Banco de Mozambique	6938
@@ -265,7 +268,7 @@ O Banco Central	8003,8576
 O Banco Central de São Tomé	2974
 O Banco Mundial	8701,857,1,1552,279,33,4636
 O Banco Nacional de Angola	7115,225,3415,631,18
-O Banco de Cabo Verde	15433,7,682
+O Banco de Cabo Verde	15433,7,10,672
 O Banco de Desenvolvimento	8003
 O Banco de Moçambique	5169,1293,6308,44,39
 OPERATIONS BANCAIRES Section	14429
@@ -282,6 +285,7 @@ Regulamento de Cartões Bancários	12853
 Regulamento de Cartões Bancários Sem	12853
 Regulamento. BANCO DE MOÇAMBIQUE Aviso	5169
 Revisão O Banco de Cabo Verde	15440
+Rodolphe Bance	16815
 Réglementation Bancaire	15352
 SECÇÃO I ADQUIRENTE NÃO BANCÁRIO	11438
 SECÇÃO II ADQUIRENTE NÃO BANCÁRIO	11438
@@ -296,6 +300,7 @@ Secteur Bancaire URL	13771
 Secteur Bancaire-Moroni Cabinet	4342,9429
 Sector Bancário	2816
 Sede O Banco	16089
+Seção III Capítulo IV Banco de Cabo	15450
 Sistema Bancarização	11898
 Sistema de Bancarização	15572,458
 Subsariana BAD Banco Africano de Desenvolvimento BCV	15535

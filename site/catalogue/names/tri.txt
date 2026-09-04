@@ -12,7 +12,8 @@ Actos TCA Tribunal de Contas de Angola Rua	11473
 Administración Tributaria	4209
 Administração Geral Tributária	4203,1647,674,1,1527,2734,597,3,22,24
 Administração Geral Tributária ADT	11435
-Administração Tributária	11435,583,4004
+Administração Tributaria	15526
+Administração Tributária	11435,583,3894,110
 Alcatraz and Tristao Islands Marine Protected Areas	1264
 Alexandre Cose TRIBUNAL DE CONTAS APROVA	11473
 Anambra Digital Tribe	10160
@@ -37,6 +38,7 @@ Auto-scaling Triggers Implement	11952
 Autoridade Tributária	8731,1352,2719,3110,110,112,8,57,288
 Autoridade Tributária de Moçambique	12142,76,643
 Autoridade Tributária de Moçambique. Como	12861
+Autoridades Tributárias	15912
 Availability of Specialized Procurement Tribunals	12389
 BA Trim	2081,2,1,2327,2,1
 BURUNDI QUATRIEME TRIMESTRE	13586
@@ -87,6 +89,7 @@ Complexity H1 Compability Skills Trialability H2	9129
 Components Results Safeguard Policies Triggered Disbursement	11924
 Composition of Tribunal	12549
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
+Conselho Consultivo Tributário	15526
 Conselho da Administração Geral Tributária	10786
 Conselho de Administração da Administração Geral Tributária	6309
 Conselho de Diretivo da Autoridade Tributária	16549
@@ -131,6 +134,7 @@ Digital Preservation Triad	9888
 Diploma Ficha de Programação Financeira Trimestral ANEXO	10783
 Directive Helped Trigger the Financial Crisis	10
 Direito Tributário	11358
+Direção de Gestão Tributária	15912
 Dos Tribunais	15359
 Dre Triphonie Nkurunziza	13760
 Dupla Tributação	11435
@@ -141,6 +145,7 @@ ECOLE DE GENIE TRAVAUX Tristan	15744
 EME TRIMESTRE	15706,1
 ESCALA SALARIAL DEL PERSONAL TRIBUNAL	4209
 ESCALA SALARIAL DEL PERSONAL TRIBUNAL CONSTITUCIONAL	4209
+ESTATUTOS DA AUTORIDADE TRIBUTÁRIA E ADUANEIRA	15912
 EVOLUÇÃO MÉDIA TRIMESTRAL DE RECEITAS	11531
 EVOLUÇÃO TRIMESTRAL DE N.º DE UTILIZADORES	11531
 Edéa Triangle	15542
@@ -239,6 +244,7 @@ Information and Data Protection Appeals Tribunal	12549
 Ingresos Tributarios	4209
 Inside NamRA’s Tug of War Triumph	13044
 Inside NamRA’s Tug of War TriumphGrip	13044
+Inspeção Tributária	15526
 Integrated Sanitation Project Triple Sewage Treatment	15578
 Intellectual Property Tribunal. Instead	10041
 Intendente Eridson Trindade	5819
@@ -295,7 +301,6 @@ Member States. The Consumer Tribunal	5676
 Membres du Tribunal	16117
 Merged Federation of Motorcycle and Tricycle Union	10046
 Ministro de Estado Vocal de Mesa Magistrado Tribunal	4209
-Ministro. Subsecção II Conselho Consultivo Tributário	15526
 Mme Michelle Tricia TCHINGA-TCHINGA	16175
 Municipal Planning Tribunal	7343,7330
 N' Trillion	6408
@@ -313,6 +318,9 @@ Note Trial Note Trial Implementation	1009
 Number of Staff Weeks Number of Trips Comments	15411
 O Conselho Consultivo Tributário	15526
 O Código Geral Tributário	15359
+O Serviço de Inspeção Tributária	15526
+O Serviço de Justiça Tributária	15526
+O Serviço de Tributação	15526
 O TRIBUNAL DE CONTAS DE ANGOLA	11473
 OCT-24 NOV-24 DÉC-24 CUMUL TRIMESTRIEL	15706
 Oct-2019 Portal Safeguard Policies Triggered	11924
@@ -408,6 +416,11 @@ Secretary of Tax Tribunal	12629
 Senegal Sierra Leone Trinidad and Tobago Tunisia	10764
 Servicios Tributarios	4209
 Serviço Regional Tributário RF	11435
+Serviço de Inspecção Tributária	15526
+Serviço de Inspeção Tributária	15526
+Serviço de Justiça Tributária	15526
+Serviço de Tributação	15526
+Serviços de Inspeção Tributária	15526
 Seven Trillion	3862
 Severe Yellow Alert Triggered After Electricity	14801
 Shruti Trikanad	12139
@@ -606,7 +619,7 @@ Tribunal and Courts	3714
 Tribunal de Comarca	10751
 Tribunal de Commerce	14417,1078
 Tribunal de Commerce de Cotonou	5478
-Tribunal de Contas	13,1,153,3500,1345,1179,4577,649,32,24,70,26,3822,13,558,60,34,33,398
+Tribunal de Contas	13,1,153,3500,1345,1179,4577,649,32,24,70,26,3822,13,508,50,60,34,33,398
 Tribunal de Contas Angola	11473
 Tribunal de Contas O Tribunal de Contas	16487
 Tribunal de Contas da União	11473
@@ -649,7 +662,7 @@ Tribune Online	9310
 Tribunol	15397
 Tribunoux. Cette	15429
 Tributarios	4209
-Tributação	795,11347
+Tributação	795,11347,3384
 Tribute	7452
 Tributions	15438
 Tributo Especial Unificado	12018

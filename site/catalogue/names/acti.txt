@@ -147,7 +147,7 @@ ANNEX II ONGOING ACTIVITIES AND SUPPORT	12399
 ANNEX III. ONGOING ACTIVITIES WITH SUPPORT	12680
 ANNEXE I Activités	16037
 ANNOUNCEMENTS BY THE ACTING SPEAKER NON-ADVERSE	13526
-ANNUAL ACTION PLAN	12843
+ANNUAL ACTION PLAN	12843,3002
 ANNUAL ACTION PLANS	15796
 ANNUAL ACTIVITY REPORT	14985
 ARCT Acting Director	11772
@@ -305,7 +305,7 @@ Acting Undersecretary of Finance Makki Abdel Rahim	15188
 Acting WHO Somalia Representative Dr Mohamed	11655
 Acting World Bank Country Representative Oyewole	2604
 Acting World Bank Regional Integration Director	5400
-Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36,91,10,6,26,58,24,132,100,42,31,6,2,264,31,28,4,36,92,227,70,194,1,223,35,3,84,101,269,58,28,3,15,19,63,8,75,5,11,46,4,7,68,49,178,21,21,12,146,133,52,25,90,81,8,107
+Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36,91,10,6,26,58,24,132,100,42,31,6,2,264,31,28,4,36,92,227,70,194,1,223,35,3,84,101,269,58,28,3,15,19,63,8,75,5,11,46,4,7,68,46,3,178,21,21,12,146,133,52,25,90,81,8,107
 Action Accountability	6936
 Action Activité Article Paragraphe Ces	3396
 Action Africa	7334
@@ -420,7 +420,7 @@ Action OVERVIEW OF KEY THEMATIC FOCUS	6936
 Action Opérationnel Triennal	16627
 Action Party Timeline	395
 Action Party Timeline Page	395
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86
 Action Plan Cycle	11866,7
 Action Plan ESMS Environmental and Social Management	1818
 Action Plan Mitigation Measures Risks Mitigation	15553
@@ -579,12 +579,14 @@ Action for Better Education Outcomes	15960
 Action for Development	9450
 Action for Economic Transformation	11134,1989
 Action for Sustainability Initiative	7167
+Action for Women	16778
 Action&title	1219
 Action- No Compromise	3051
 Action-Oriented	4528,7984
 Action-Taken Report and Conclusion	13336
 Action. Led	12625
 Action. Rome	12978
+Action. Table	15845
 Action. The Project	15411
 Action1.1.2	15720
 ActionAid Malawi	13130
@@ -596,7 +598,7 @@ Actionable Steps Forward	5042
 Actionnaires	16613
 Actionnariat	2342,13052,549,352
 Actionnariat du Titulaire L'intégralité	15943
-Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16,91,951,111,206,123,33,2,8,276,26,605,14,5,6,131,51,206,6,61,424,269,143,101,274,22,404,89,30,11,15,27,66,17,42,18,110,60,28,41,60,151,453
+Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16,91,951,111,206,123,33,2,8,276,26,605,14,5,6,131,51,206,6,61,424,269,143,101,274,22,404,89,30,11,15,27,66,17,42,18,110,60,16,12,41,60,151,453
 Actions A. Climate Vulnerability and Risks	15553
 Actions Agreed	13392
 Actions Annuel Budgétisé	13349
@@ -766,6 +768,7 @@ Activity Potential Risk and Impact Proposed Mitigation	1988
 Activity Program Scope	5677
 Activity Progress Develop	12448
 Activity Progress Revise	12448
+Activity Purpose Audience Method	15845
 Activity Report	4972
 Activity Reports Education Sector Plan for Egypt	15604
 Activity Reports K07	15604
@@ -902,7 +905,7 @@ Africa Region Gender Action Plan	10964
 Africa. Actions	14997
 African Action Congress	8849,5499
 African Action Plan	14090
-African Development Bank's Affirmative Finance Action	15204
+African Development Bank's Affirmative Finance Action	15204,1574
 African Multi-Hazard Early Warning and Action System	12977
 African Science and Technology Consolidated Plan of Action	12675
 Africa’s Science and Technology Consolidated Plan of Action	12675
@@ -933,8 +936,8 @@ Anexo I Glossário A Activo de Informação	6970
 Anna Nhambasora- Acting Deputy Director	13310
 Annex A. Action Plan Implementing Entity	1777
 Annex I NSDS III Multi-Year Action	13359
-Annual Action Plan	13242,89
-Annual Action Plans	789,12128,2018,62
+Annual Action Plan	13242,89,2514
+Annual Action Plans	789,12128,2018,62,848
 Annual Activities Progress Report	12932
 Annual Activity Report	14985
 Annual Budgeted Plan of Actions	13349
@@ -1126,6 +1129,7 @@ Comité Technique de Programmation des Activités Statistiques	16373
 Commercial and Administrative Activities Zone	4900
 Commission Activity	12549
 Communicate Programme of Action	3264
+Communication Activity Matrix Activity Purpose Audience	15845
 Communication Campaign IGA Income-Generating Activity IMF	11924
 Communication Strategy and Action Plan	11986
 Community Action	11469,1501
@@ -1694,6 +1698,7 @@ Jur River Activist	3212,2216,578
 Justice Actions	15936
 Justice Activités	13341
 Justify SOE Commercial Activities	12389
+KOAFEC Action Plan	16784
 KPIs. Review and Adaptive Action	4528,7984
 Kenya Calls for Action	14182
 Kenya ICT Action Network	3162,196,900,3294,2096,209,3397,1347,331
@@ -2104,8 +2109,8 @@ Primary School Health Activity	14773
 Prime Activities	3513
 Principais Actividades Desenvolvidas	2816
 Principais Actividades Planificadas	2816
+Prior Action	15924
 Prior Actions	10779,5440
-Prior Actions. Efforts	15924
 Priorities for G20 Action. Berlin	12297
 Priority Action	16188
 Priority Action Vertical Farming	14818
@@ -2135,8 +2140,9 @@ Program Actions	13756
 Program Activities	12977
 Program of Action.5	10856
 Programa Anual de Actividades	11382
-Programme of Action	11283,4513
+Programme of Action	11283,4513,49
 Programme of Action Programme of Action Achi	11224
+Programme of Action The Programme of Action	15845
 Programme of Action and Annual Action Plans	15845
 Programme of Action for Resilient Water Supply	13752
 Programme of Action’s ICT	5015

@@ -278,6 +278,7 @@ GOUVERNEM NON AFFILIES AU CLUB	15999
 GOVERNANCE Dr. Petros M. Mashwama Non-Executive	11131
 GRANULES OU NON	13300
 General Directorate of Literacy and Non-Formal Education	11905
+Genuine Competition None	16814
 Ghana and Nigeria. None	4150
 Goods and Non-Consulting Services All	15518
 Google Africa Nonprofit Support	676
@@ -751,7 +752,7 @@ Non-Governmental Organisations	396,544,5181,5033,706,1061,25,1780,16,37,56
 Non-Governmental Organisations' Act	13339
 Non-Governmental Organization	12356,684,2371
 Non-Governmental Organization NIDA	12338
-Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994,744,1576
+Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994,744,985,591
 Non-Governmental Organizations Act	3583
 Non-Governmental Organizations. Outcomes	14888
 Non-Grid	11890
@@ -786,9 +787,8 @@ Non-Objection NPV Net Present Value NRW	15659
 Non-Official Translation	15393
 Non-Oil GDP	1828
 Non-Oil Revenue	10997
-Non-Paris Club	13868,2056
+Non-Paris Club	13868
 Non-Payment of Successful Grant Applicants	2307
-Non-Performing Loan CPF Country Partnership Framework	15924
 Non-Performing Loans	11131,338,1487,2067
 Non-Permanent Member	12640
 Non-Personal Data	7548
@@ -884,7 +884,7 @@ Non-commercial	12598,2214
 Non-communicable	5889,3567,2957,193,370,2080
 Non-communicable Diseases	12606
 Non-compli	13053
-Non-compliance	1243,90,474,902,18,585,575,715,6,29,259,55,714,767,245,223,1310,639,759,248,457,866,2,220,495,90,9,198,307,2266,315,21,96
+Non-compliance	1243,90,474,902,18,585,575,715,6,29,259,55,714,767,245,223,1310,639,759,248,457,866,2,220,495,90,9,198,307,2266,315,21,96,647
 Non-compliant	3003,535,6105,1758,456
 Non-compliant VASPs	4602
 Non-compulsory	7514,2162,426,707,2059
@@ -992,8 +992,8 @@ Non-oil Revenue CAMEROON	10997
 Non-oil Revenue Mobilization	1828
 Non-paiement	15670,238
 Non-participant	10711
-Non-payment	12500,554
-Non-performing	4217,7307,2344,1605,451
+Non-payment	12500,554,2791
+Non-performing	4217,7307,2344,1605
 Non-performing Loans	11134
 Non-permit	12539
 Non-personal	4214,1030,1272,3
@@ -1044,7 +1044,7 @@ Non-standardized	13037
 Non-state	899,14614
 Non-synchronous	15983
 Non-targeted	13298
-Non-tax	1830,8372,934,388,2344,1028,1028
+Non-tax	1830,8372,934,388,2344,1028
 Non-tax Revenue	5655
 Non-taxable	15473
 Non-teaching	15604
@@ -1115,8 +1115,7 @@ None. Ecobank	15474
 None. Interoperability	12269
 None. MOCAF	15474
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,172,45,8,459
-Nonetheless FDI	15924
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459
 Nongo	8022
 Nongo Conteya	16662
 Nongobzanga Zongo	3668,543,85,2472

@@ -31,7 +31,7 @@ Buyer Region	4972
 Buyer Unite de Gestion du Projet Filets Sociaux	16194
 Buyer's Credit	192,36,1,269,13063
 Buyer's Credit of US	13561
-Buyers	2775,1159,193,4423,120,1080,2086,3734
+Buyers	2775,1159,193,4423,120,1080,2086,3734,1229
 Buying	6441,2346,332,308,40,2915,891,1891
 Buyiselwa	11260
 Buyobozi	15102
@@ -47,6 +47,7 @@ Financial Buyers IPOs	4972
 Header DocumentType Seller BranchAddress Buyer ItemData	16554
 I I D- Buy	582
 Kisumu West MP Rozzah Buyu	2742
+Leaves the Buyer Holding the Risk	16799
 M-PESA Buy Goods	8714,128,155
 M-PESA Buy Goods Kadogo	8842
 M-Pesa Buy Goods	8714

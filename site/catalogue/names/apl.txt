@@ -22,7 +22,7 @@ Aplicaciones Móviles	10361
 Aplicación	1701,2508
 Aplicam-se	11433,10,18
 Aplicando	7881,4893
-Aplicar	167,11207,168,3935
+Aplicar	167,11207,168,3935,49
 Aplication Express BI	11435
 Aplicativo	11435
 Aplicativo CONFIN	4209
@@ -33,7 +33,7 @@ Aplicativo de Control de Gastos	4209
 Aplicativo de Gestión	4209
 Aplicativos	4209
 Aplicativos de Transporte	2816
-Aplicação	14,1,534,195,8,42,2022,50,653,755,6473,8,28,581,3,18,3,17,4,10,11,84,2,4,35,1298,2491,15,21,5,55,582
+Aplicação	14,1,534,195,8,42,2022,50,653,755,6473,8,28,581,3,18,3,17,4,10,11,84,2,4,35,1298,2491,15,21,5,55,472,110
 Aplicação Específica	11367
 Aplicação IAS	15392
 Aplicação OTP MCHIP CAP	15392
@@ -90,6 +90,7 @@ Matemática Aplicada	15772
 Mechanism APL Adaptable Program Loan AReg4DT	1264
 Melhor Aplicação Móvel. Estas	16304
 Métodos Quantitativos Aplicados	15910
+Natureza Capítulo II APLICAÇÃO DO PRINCÍPIO	15450
 Norma de Aplicação	10755
 Não Aplicável NAS Normas Ambientais	11413
 Objectivo de Aplicação	11430

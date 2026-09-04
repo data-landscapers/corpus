@@ -21,7 +21,6 @@ ANUÁRIO ESTATÍSTICAS VITAIS GUINÉ-BISSAU	11537
 APD. Esta	11488
 APIs. Esta	16030
 ARN. Esta	11519
-ASSEMBLEIA NACIONAL Sumário Estabelece	15450
 ASSUNTOS CONSTITUCIONAIS E RELIGIOSOS Estatisticas	12862
 ASYCUDA Governance Established	13042
 AXIAN Has Secured Approval To Establish	13778
@@ -71,7 +70,7 @@ Approved Establishment Positions	12947
 Armed Services Integrated Information System Establishment	246,92
 Asesor S.E. Canciller Secretario Jefe de Estado	4209
 Assunto Estabelece	11385
-Atividade Estatística Oficial	11537
+Atividade Estatística Oficial	11537,3913
 Atividade Estatística Oficial Por	11537
 Attorney Establish	7548
 Autoridade Estatística	11537
@@ -111,7 +110,6 @@ CAPÍTULO I DO SISTEMA ESTATÍSTICO NACIONAL	11516
 CAPÍTULO III CONTENCIOSO ESTATÍSTICO SECÇÃO	11516
 CAPÍTULO IV ATRIBUIÇÕES DO ESTADO	11901
 CAPÍTULO V Estatística Artigo	12785
-CDPD OBRIGATORIEDADE DOS ESTADOS NA ADOÇÃO	15694
 CENTUM REAL ESTATE LIMITED Data Controller	7167
 CENTUM REAL ESTATE LIMITED Data Processor	7167
 CERT Establishment Consultation	15120
@@ -129,6 +127,7 @@ CORPORATE GOVERNANCE Page16 ESTABLISHMENT OF RWANDA	12358
 CORRECTION THE FETCH ESTABLISHED	1686
 COULD NOT BE ESTABLISHED	1718
 CSA Cybersecurity Establishment	4791
+CSU DD063061-D0E2-4804-8778-73FA945E4D17 Estabelecimentos	15694
 Cabo Verde Establishment of Open Data Policy	11873
 Cabo Verde. Esta	15684
 Cabo Verde. Estar	16444
@@ -181,7 +180,7 @@ Conferência Estatística da CPLP	2816
 Congo. Esta	12119
 Consejo Nacional de Estadística	10487,3728
 Consejo Nacional de Estadística. Con	14215
-Conselho Nacional de Estatística	6619,4830,4086
+Conselho Nacional de Estatística	6619,4830,4001,85
 Conselho Nacional de Informação Estatística	11516
 Conselho Superior da Estatística	11526
 Conselho Superior de Estatística	12770
@@ -227,10 +226,13 @@ DIMAMO HDSS. Established	8604
 DIS. Esta	12863
 DO ESTADO	11361,91,5035
 DO ESTADO Artigo	11461
+DO O Conselho Nacional de Estatística	15450
+DOS ESTADOS NA ADOÇÃO	15694
 DRS Electronic Deeds Registration System ESTA	11261
 DWA ESTATE LIMITED Data Controller INST-87360684C0A	7167
 Da Estatística Agregada Para	9559
 Dados Estatísticos	794,8647
+Dados Estatísticos Individuais	15450
 Dados Estatísticos Sobre	9441
 Dados Estatísticos de CREL	10753
 Dados Estatísticos de Empresas Criadas	10753
@@ -252,9 +254,9 @@ Department of Valuation and Real Estate Management	12369
 Description D-I9-A1 Establish	15713
 Description Establish	15713
 Description Establishes	230,520,243
+Description Establishing	16752
 Description MODERNIZAÇÃO DO ESTADO	1340,743,2330
 Developing and Established	15164
-Development Bank IFH Real Estate and Housing	15924
 Development Establishment	15578
 Development of River Marina Establishing	15578
 Dia Mundial da Estatística	11538
@@ -355,6 +357,7 @@ ESTATUTO ORGÂNICO DA AGÊNCIA DE PROTECÇÃO	167
 ESTATUTO ORGÂNICO DO CENTRO NACIONAL	4218
 ESTATUTO ORGÂNICO DO INSTITUTO NACIONAL	11381,1,67
 ESTATUTO REMUNERATÓRIO DOS MEMBROS DO CONSELHO	752
+ESTATUTOS DA AUTORIDADE TRIBUTÁRIA E ADUANEIRA	15912
 ESTATUTOS DOS CANDIDATOS	11528
 ESTATUTOS DOS CANDIDATOS E VERIFICAÇÃO	11528
 ESTATÍSTICA	11449
@@ -396,12 +399,12 @@ Esta Lei Constitucional	15344
 Esta da ENTD.GW. Atenção	11569
 Estabelece	5663,799,1004,3606,291,5,9,6,3,4,14,29,5,5,18,6,110,734,466,8,68,2506,150,17,429,11,410
 Estabelecendo	9434
-Estabelecer	2816,703,7264,591,2,5,3,46,18,13,19,89,332,873,2617,49,36,1,26,186,66
+Estabelecer	2816,703,7264,591,2,5,3,46,18,13,19,89,332,873,2617,49,10,26,1,26,23,163,66
 Estabelecer Centros de Excelência	15684,5
 Estabelecer Parcerias	15684,5
 Estabeleceu	10751,1147
 Estabeleceu-se	15380,709
-Estabelecimento	1192,1624,703,7853,41,143,586
+Estabelecimento	1192,1624,703,7853,41,143,586,3552
 Estabelecimento Corresponde	10757
 Estabelecimento da Autoridade Reguladora Nacional	11518
 Estabelecimento da Parceria Estratégica	11564
@@ -420,7 +423,7 @@ Establecer	1701
 Establecimento da Academia de Liderança	11569
 Establecimiento	1701
 Establecimientos Turísticos	4209
-Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21,33,2,1,17,8,15,20,25,9,4,51,4,51,11,100,1,11,148,83,18,29,13,28,75,215,15,4,6,26,11,24,37,43,220,23,234,49,4,31,127,57,228,7,25,37,63,35,73,49,15,9,4,26,3,32,6,1,60,10,8,25,13,8,4,11,7,32,30,7,96,17,17,80,32,66,131,7,208,25,12,214,21,17,211,386
+Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21,33,2,1,17,8,15,20,25,9,4,51,4,51,11,100,1,11,148,83,18,29,13,28,75,215,15,4,6,26,11,24,37,43,220,23,234,49,4,31,127,57,228,7,25,37,63,35,73,49,15,9,4,26,3,32,6,1,60,10,8,25,13,8,4,11,7,32,30,7,96,17,17,80,32,66,131,7,208,25,12,120,94,21,17,211,386
 Establish A Comprehensive Data Governance Framework	15713
 Establish AI	4528,3020,4662,302,3201
 Establish AI Centers of Excellence	4528,7984
@@ -449,6 +452,7 @@ Establish Consumer Awareness and Safety Initiatives D-12	11857
 Establish Cooperation	14745
 Establish Criteria	12376
 Establish Cyber Security Framework	395
+Establish Cybersecurity	15845
 Establish Data Center	15713
 Establish Data Centre	2610
 Establish Data Exchange Platform	15713
@@ -516,6 +520,7 @@ Establish National Tech Labs Program	1204
 Establish Open Data Platform	15713
 Establish Operational Framework	12675
 Establish PKI	14723
+Establish PPPs	15845
 Establish Personal Data Protection Authority	15713
 Establish Policy Secretariat	7548
 Establish Principles of Multisectoral Collaboration GOAL	15679
@@ -524,6 +529,7 @@ Establish Procedures for Incident NCC MOPT	1777
 Establish Provincial Government Cache Data Centre	12453
 Establish Redundancy	1000
 Establish Robust Governance Framework Outcome Indicators	12356
+Establish SMART	15845
 Establish Secure and Reliable	1000
 Establish Secure and Reliable Environment	1000
 Establish Security Standard	1000
@@ -546,6 +552,7 @@ Establish and Implement	14935
 Establish and Join Knowledge-Sharing Platforms AI	12675
 Establish and Manage Regulatory Sandboxes Effectively	11007
 Establish and National	7548
+Establish and Nationwid X X X X	15845
 Establish and Operate	13078
 Establish and Promote the Maintain And Enhance the Dedicated	1777
 Establish the AI	1814
@@ -588,13 +595,14 @@ Establishes Small	12444
 Establishes the APDP	3713
 Establishes the Axiz	5965
 Establishes the Office	12302
-Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3,109,19,4,22,69,133,15,25,11,1,238,4,60,59,34,10,15,90,66,62,45,18,12,7,117,321,35,48,22,53,260,190,7,118,108,49,29,9,16,41,36,6,19,9,19,14,1,13,30,6,16,10,37,68,20,42,7,115,107,31,23,71,60,26,25,30,4,50,192,26,669
+Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3,109,19,4,22,69,133,15,25,11,1,238,4,60,59,34,10,15,90,66,62,45,18,12,7,117,321,35,48,22,53,260,190,7,118,108,49,29,9,16,41,36,6,19,9,19,14,1,13,30,6,16,10,37,68,20,42,7,115,107,31,23,71,60,26,25,30,4,50,192,26,669,152
 Establishing AI	4609
 Establishing Belarus Kyrgyzstan T2 Advancing Azerbaijan	10764
 Establishing CAPs	12973
 Establishing Computer Security Response Units	1000
 Establishing Cybercrime Complaint Center	1000
 Establishing Ethical and Regulatory Frameworks	12356
+Establishing ICT Ecosystem	16752
 Establishing Instituion	12146
 Establishing Instituion The Council of Ministers	12146
 Establishing KPIs	12008
@@ -636,6 +644,7 @@ Establishment Documents	14524
 Establishment G-O1 Robust	15713
 Establishment Law	14874
 Establishment Law No.2	14874
+Establishment Nationwid X X X X	15845
 Establishment Of The National Computer Incident	2256
 Establishment Proclamation	12890,1166
 Establishment Proclamation No	13952
@@ -652,6 +661,7 @@ Establishment and Regulation of Population Register N	12984
 Establishment and Strength	14760
 Establishment and Unit	12240
 Establishment of Agency	12899
+Establishment of Anti Nationwide X X X	15845
 Establishment of Appeals Tribunal	12959
 Establishment of Assistance Fund for Persons	13470
 Establishment of Authority	12535,2208
@@ -664,6 +674,7 @@ Establishment of Centre of Excellence	12356
 Establishment of Civil Registration Offices	12064
 Establishment of Commission	12546
 Establishment of Commission Establishment of Commission	12546
+Establishment of Communities of Practice	15845
 Establishment of Council	11178,1741,1800,16
 Establishment of Councils	12531
 Establishment of County Statistics Office	14594
@@ -705,6 +716,7 @@ Establishment of National Registration System	12898
 Establishment of National Registry	12457
 Establishment of National Research	12971
 Establishment of National Statistical System	11851,1454
+Establishment of Nationwide X X X X	15845
 Establishment of OSBPs	13053
 Establishment of Office	14727
 Establishment of Office Sub-Part B	14727
@@ -742,7 +754,7 @@ Estadio	4209
 Estadio de Malabo Malabo	4209
 Estadios	4209
 Estadista	8110
-Estado	13,1,1,148,4,14,358,10,27,168,50,1,397,73,3,70,1,1,1,1,89,1,269,35,119,6,87,106,29,6,36,170,3,67,72,1,143,37,111,55,32,50,182,70,216,185,88,60,98,73,55,10,172,6,5,43,17,57,6,9,32,24,20,119,6,35,2,101,21,28,35,95,11,73,192,4,86,52,50,1,6,61,33,24,94,1,19,19,14,96,91,156,31,34,70,20,6,6,2,30,20,31,122,29,62,16,9,2,55,98,68,7,48,29,26,54,8,7,51,59,22,85,44,77,53,18,48,361,58,81,39,30,1,146,66,55,45,62,69,129,1,63,119,1,27,35,104,169,23,30,1,83,32,69,93,1,2,128,14,15,81,510,81,93,57,26,272,113,196,2,1,1,1,1,1,1,3,2,8,4,3,2,3,3,3,1,285,39,47,159,13,28,2,1,1,1,1,1,4,2,3,4,1,1,1,1,2,3,1,1,4,1,2,1,6,1,2,2,9,2,2,4,4,1,2,2,1,1,6,1,1,1,1,2,1,2,1,3,2,4,2,16,1,1,1,31,1,2,2,2,3,3,1,4,3,3,5,1,4,10,8,3,1,8,5,96,18,47,155,3,32,6,26,49,4,3,19,35,22,22,23,169,459,3,1,1,2,6,2,2,2,3,3,1,2,2,5,3,14,1,7,1,2,7,2,6,9,1343,65,39,8,1,1,28,921,81,14,1,8,13,5,3,3,1,4,7,1,29,7,8,28,1,26,1,22,6,3,37,112,10,61,144,1,24,31,7,20,9,28,3,6,28,11,16,6,49,4,25,14,38,32,39,31,22,4,29,48,63
+Estado	13,1,1,148,4,14,358,10,27,168,50,1,397,73,3,70,1,1,1,1,89,1,269,35,119,6,87,106,29,6,36,170,3,67,72,1,143,37,111,55,32,50,182,70,216,185,88,60,98,73,55,10,172,6,5,43,17,57,6,9,32,24,20,119,6,35,2,101,21,28,35,95,11,73,192,4,86,52,50,1,6,61,33,24,94,1,19,19,14,96,91,156,31,34,70,20,6,6,2,30,20,31,122,29,62,16,9,2,55,98,68,7,48,29,26,54,8,7,51,59,22,85,44,77,53,18,48,361,58,81,39,30,1,146,66,55,45,62,69,129,1,63,119,1,27,35,104,169,23,30,1,83,32,69,93,1,2,128,14,15,81,510,81,93,57,26,272,113,196,2,1,1,1,1,1,1,3,2,8,4,3,2,3,3,3,1,285,39,47,159,13,28,2,1,1,1,1,1,4,2,3,4,1,1,1,1,2,3,1,1,4,1,2,1,6,1,2,2,9,2,2,4,4,1,2,2,1,1,6,1,1,1,1,2,1,2,1,3,2,4,2,16,1,1,1,31,1,2,2,2,3,3,1,4,3,3,5,1,4,10,8,3,1,8,5,96,18,47,155,3,32,6,26,49,4,3,19,35,22,22,23,169,459,3,1,1,2,6,2,2,2,3,3,1,2,2,5,3,14,1,7,1,2,7,2,6,9,1343,65,39,8,1,1,28,921,81,14,1,8,13,5,3,3,1,4,7,1,29,7,8,2,26,1,26,1,22,6,3,37,112,10,61,144,1,12,12,31,7,20,9,28,3,6,28,11,16,6,49,4,25,14,38,32,39,31,22,4,29,48,63
 Estado A DNME	15572
 Estado ASSEMBLEIA DA REPÚBLICA Lei	6970
 Estado Actual	10777
@@ -750,7 +762,7 @@ Estado Agenda Guinea Ecuatorial	1701
 Estado Angolano	14,1,4131,6605,3,624,8,10,29,5
 Estado Angolano. Mas	10751
 Estado Angolano. Publicado	15
-Estado Artigo	11461
+Estado Artigo	11461,4065
 Estado CHEFIA DO GOVERNO	16290,259
 Estado Civil	10777
 Estado Crosswalk	190
@@ -761,8 +773,10 @@ Estado Democrático de Direito	4146,7221,69
 Estado Director General Adjunto Ministerio	4209
 Estado Director General Adjunto Ministerio Delegado	4209
 Estado Director General Adjunto Ministerio Director	4209
+Estado Direção Nacional	15526
 Estado EJERCICIO	4209
 Estado Eje IV	1701
+Estado Estado	15526
 Estado Excelentísima	1855
 Estado GOV.CV	16181
 Estado IGAPE	10779
@@ -796,7 +810,7 @@ Estado da Província. ARTIGO	12783
 Estado da República de Cabo Verde	15359
 Estado da Saúde	8324
 Estado de Arte da Inteligência Artificial	2816
-Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243,3326,60,29,43,28,22,229,334,57,230
+Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243,3326,60,29,43,28,22,168,61,334,57,230
 Estado de Cabo Verde. Artigo	15358
 Estado de Cabo Verde. Assim	16019
 Estado de Cabo Verde. Permite	7466,8561
@@ -823,7 +837,7 @@ Estado-Maior-General	15504
 Estado-Membro	11387
 Estado-Membro da União Africana	11374
 Estado-Membros da CPLP	11393
-Estado-membro	15477
+Estado-membro	15450,27
 Estado-membro da União Africana	15477
 Estado. A APD	167
 Estado. A Intelwatch	12119
@@ -834,7 +848,7 @@ Estado. Agenda Guinea Ecuatorial	1701
 Estado. Angola	12119
 Estado. Ao	8519
 Estado. Apesar	4146,11910
-Estado. Artigo	13,1,2852,7917,1118,3443,15,21,11,141,223,334
+Estado. Artigo	13,1,2852,7917,1118,3443,15,21,11,141,223,334,49
 Estado. Artículo	163,4046
 Estado. B	4209
 Estado. CAPÍTULO II CONDIÇÕES GERAIS	15
@@ -843,6 +857,7 @@ Estado. CAPÍTULO VII Disposições Finais Artigo	2866
 Estado. CHEFIA DO GOVERNO	16549
 Estado. Com	4747,5042
 Estado. Corresponde	4209
+Estado. Crédito S.A	15526
 Estado. Desta	8879
 Estado. Deste	11371
 Estado. Dionísio Manuel da Fonseca	5305
@@ -850,7 +865,7 @@ Estado. Diz	8309
 Estado. Dos	4209
 Estado. Durante	7705
 Estado. El Primer Ministro	14265
-Estado. Em	6307,9219
+Estado. Em	6307
 Estado. Entre	4274
 Estado. Essa	14261
 Estado. Esta	7666,2429,4105
@@ -896,7 +911,7 @@ Estado. VI	3519
 Estado. VII	3519
 Estado.Segundo	11482
 EstadoDSP5 DSP1 Não EST-ADM9 Enterprise Architecture	15532
-Estados	549,246,906,1115,1330,72,1184,261,908,1480,799,31,115,69,1682,297,28,293,11,11,2,4,26,94,3,3,12,16,10,12,329,3446,133,27,31,554,287
+Estados	549,246,906,1115,1330,72,1184,261,908,1480,799,31,115,69,1682,297,28,293,11,11,2,4,26,94,3,3,12,16,10,12,329,3446,133,27,31,159,395,287
 Estados Americanos	2816
 Estados Membros	2816,6507,2196,50
 Estados Membros da ONU	2816
@@ -906,8 +921,6 @@ Estados Membros da União Europeia	10750
 Estados Parte	11376
 Estados Parte. Em	11376
 Estados Partes	11374,4103
-Estados Partes. Melhoria	15694
-Estados Partes. Tabela	15694
 Estados Unidos	1701,1115,277,426,88,85,5068,103,1888,9,17,779,3824
 Estados Unidos Medidas	2816
 Estados Unidos da América	2581,235,277,426,87,1414,1504,1,1654,340,111,2121,21,615,18,1395,21
@@ -940,7 +953,7 @@ Estalagens	11458
 Estamos	1265,471,212,1610,207,316,666,677,796,397,92,994,1042,219,1788,1,732,477,54,71,691,2698,208,5,203,289,12,58
 Estamos Juntos	8881
 Estandarizar	1701
-Estando	11415,486
+Estando	11415,486,3793
 Estar	5169,5586,28,647,13,24,434,3457,174
 Estaremos	15303
 Estará	15520
@@ -966,7 +979,7 @@ Estatisticas	12156,706
 Estatisticas Usuarios Autorizados	12156
 Estatisticas de Turismo	9441
 Estatisticos	11453
-Estatuto	167,372,726,436,2517,2244,4303,10,589,1,9,7,1,53,22,73,491,290,471,2609,86,26
+Estatuto	167,372,726,436,2517,2244,4303,10,589,1,9,7,1,53,22,73,491,290,471,2609,59,27,26,23,386
 Estatuto Editorial	16528
 Estatuto Editorial Política	16262,85
 Estatuto Editorial. Artigo	12311
@@ -982,14 +995,19 @@ Estatuto Remuneratório	752
 Estatuto da Criança	15694
 Estatuto da Ordem Profissional	15477
 Estatuto de Aposentação	15404
+Estatuto de Gestor Público	15912
 Estatuto de Projeto de Mérito Diferenciado	15477
 Estatuto de Refugiado	11364,1
 Estatuto de Refugiados	11365
-Estatutos	4435,6924,9,22,4001,42,70,29
+Estatutos	4435,6924,9,22,4001,42,17,53,29,380
+Estatutos Estatutos	15450
+Estatutos São	15912
+Estatutos da ATCV	15912
 Estatutos da Comunidade	12842
 Estatutos da O.A.A	11436
+Estatutos. Artigo	15912
+Estatutos. Programa	15912
 Estatutos. Resolução	11983
-Estatutos. Texto Decreto-Lei	15912
 Estatística	13,154,4587,4505,1355,138,1,13,3,618,4,125,21,482,766,3,2984
 Estatística Avenida Comandante Gika	10766
 Estatística Departamento de Estudos	10766
@@ -1001,9 +1019,9 @@ Estatística Rua Ho-Chin-Minh	10757
 Estatística Tel	10766
 Estatística da Comissão da CEDEAO	11044
 Estatística. Link	11453
-Estatísticas	167,7884,2715,278,482,12,27,1,399,56,814,2700,431,62,61
+Estatísticas	167,7884,2715,278,482,12,27,1,399,56,814,2615,76,9,431,62,61
 Estatísticas Mensais da População Refugiada	11460
-Estatísticas Oficiais	6619,4740,157,4019
+Estatísticas Oficiais	6619,4740,157,3934,85
 Estatísticas Relacionadas. III. Lista de Pedidos Submetidos	12021
 Estatísticas Vitais	10765,10,615,147,605,633,87,1,2976
 Estatísticas Vitais Do Registo Civil	12862
@@ -1043,6 +1061,7 @@ FINANÇAS INSTITUTO NACIONAL DE ESTATÍSTICA	11526
 FSPs X Establish API	15130
 FSPs X Establish National Open Finance	15130
 FUERZAS MAYOR JEFE ESTADO JEFE ESTADO	4209
+Fairview Estate	16791
 Falls Estates	9644
 Fares Establishment of Social Unit Extension of Natural	15578
 Fedel-al School of Statistics. S. Establisl	11852
@@ -1093,6 +1112,7 @@ Human Resource Establishment The Authority	6946
 I-I11-A2 Policy Framework Establishment Egypt	15713
 I-O29 Establish	15713
 I. Establisli	11852
+IA Estabelecimento	15694
 IA. Esta	2816,2847,5666
 ICPC Established	3513
 ICT Authority. Established	7633
@@ -1122,6 +1142,7 @@ Informal Establishments Informal	15085
 Informal Establishments3	15085
 Informal Sector CFAF Establishments LC Franc	10980
 Information and Communications. Establish	13314
+Informações Estatísticas Individuais	15450
 Infra-estrutura Robusta Esta	9432
 Infrastructure Establish	396,11461
 Infrastructure Establishment of Seed Fund	11857
@@ -1139,7 +1160,7 @@ Instituto Nacional de Estadísticas de Guinea Ecuatorial	4209
 Instituto Nacional de Estatistca ID	9441
 Instituto Nacional de Estatistica ID	9441
 Instituto Nacional de Estatisticas de Mocambique	115
-Instituto Nacional de Estatística	2816,1224,4,42,43,377,473,171,1469,372,675,215,330,490,622,1435,2,6,9,2,3,598,16,12,15,25,3,67,9,12,32,7,1,47,532,614,18,43,20,1461,1091,123,9,304,71,14
+Instituto Nacional de Estatística	2816,1224,4,42,43,377,473,171,1469,372,675,215,330,490,622,1435,2,6,9,2,3,598,16,12,15,25,3,67,9,12,32,7,1,47,532,614,18,43,20,1461,1091,123,9,304,71
 Instituto Nacional de Estatística INSS	10757
 Instituto Nacional de Estatística IPC	15535
 Instituto Nacional de Estatística LBSEE	11387
@@ -1149,7 +1170,7 @@ Instituto Nacional de Estatística de Moçambique Acquired	9441
 Instituto Nacional de Estatística de Portugal. Tratar-se-á	11526
 Instituto Nacional de Estatística. Este	11979
 Instituto Nacional de Estatística. O GEPE	10766
-Instituto Nacional de Estatísticas	11537,1325,2664
+Instituto Nacional de Estatísticas	11537,1325
 Institutos Nacionais de Estatística	8051
 Integrated Business Establishment Census	15085
 Integrated Business Establishment Survey	236,15693
@@ -1215,6 +1236,7 @@ MINEDUC. Established	209
 MINIJUST NBR X Establish	15130
 MINISTRO DE ESTADO	4209
 MINISTÉRIO DA REFORMA DO ESTADO	15358
+MIOTH CMs Desenvolver Promoção da Estabelecimento	15694
 MRE Real Estate Limited	10464
 MSMEs. Establish	940
 Maio. O Secretário de Estado	10752
@@ -1227,6 +1249,7 @@ Mauritius. Strategic Objectives Establish	14566
 Medios Audiovisuales. Esta	9320
 Melhor Aplicação Móvel. Estas	16304
 Mentorship Establish	14997
+Metainformação Estatística	15450
 Minister of Establish	11857
 Ministra de Estado	2688,8718,4516
 Ministro da Administração Estatal	8930
@@ -1237,6 +1260,7 @@ Ministro de Estado Vocal de Mesa Magistrado Tribunal	4209
 Ministro de Estado Vocales Mesa Parlamento	4209
 Ministro de Estado de Hacienda	10361
 Ministro de Estado de Hidrocarburos	9303
+Ministro. Estado	15526
 Ministry of Homeland Security. Established	12291
 Ministry of Justice’s Real Estate Registry and Notarization	16480
 Ministry of Posts Established and Q4	1777
@@ -1244,6 +1268,7 @@ Ministério Da Modernização Do Estado	1340,743,2330
 Ministério da Administração Estatal	12156,637
 Ministério da Educação SEMS Serviço de Estatística	15535
 Ministério da Saúde SEN Sistema Estatístico Nacional	15535
+Ministério de Estado	15526
 Mobile Phone Network Towers Establishment	15578
 Mobile Phone Networks Establishment	15578
 Mobile Phone Towers Establishment	15578
@@ -1254,8 +1279,10 @@ Montagem Boletim Estatístico de Construção	9441
 Mswati III. Establishes	968
 Média Esta	2816
 NACOSTI Establish	7548
+NATUREZA Estado	15450
 NBR FSPs X Establish Payments Association	15130
 NBR X Establish	15130
+NCCE Establish	15845
 NIMC Establishment Act	3703
 Nacional de Estatistica	11380
 Nacional de Estatística	11537
@@ -1284,7 +1311,7 @@ Número de Estações Móveis Tabela	11574
 O Anuário Estatístico da Educação de Angola	10766
 O Anuário de Estatistica Sanitária	11453
 O Chefe de Estado	5272,1252,1
-O Conselho Nacional de Estatística	11963
+O Conselho Nacional de Estatística	11963,3487
 O Conselho Superior de Estatística	11516,1254
 O Departamento de Estatística	12788
 O ESTADO QUE CABO VERDE PRECISA	16487
@@ -1294,7 +1321,7 @@ O Estado de Cabo Verde	15344
 O Estatuto	12311
 O Estatuto Epistemológico da Inteligência Artificial	2816
 O Estatuto da Entidade Gestora	11457
-O Instituto Nacional de Estatística	3589,455,2947,675,3756,27,67,21,1233,2756
+O Instituto Nacional de Estatística	3589,455,2947,675,3756,27,67,21,1233,2680,76
 O Instituto Nacional de Estatística O Instituto	11537
 O Instituto Nacional de Estatística de Cabo Verde	5578,3197
 O Ministro de Estado José de Lima Massano	11482
@@ -1305,7 +1332,6 @@ O Secretário de Estado	11519,1
 O Secretário de Estado da Economia Digital	3527
 O Secretário de Estado da Saúde	5020
 O Sistema Estatístico Nacional	11359,178
-OBRIGATORIEDADE DOS ESTADOS NA ADOÇÃO	15694
 ORÇAMENTO DO ESTADO	2816
 OTROS GASTOS TOTAL DEL ESTADO	4209
 OUTPUT Establishing	13095
@@ -1412,7 +1438,7 @@ Private Collaboration and Ecosystem Coordination Establish	14819
 Private Coordination Establish	14819
 Private Fintech Innovation Fund Establish	14819
 Private Ownership and Establishment	14008,28,385
-Produtores de Estatísticas Oficiais	15535
+Produtores de Estatísticas Oficiais	15450,85
 Produtos Estatísticos	11422
 Produção de Estatísticas Vitais	11537
 Professional Services Transportation Real Estate Energy	4972
@@ -1464,6 +1490,7 @@ Real Estate Tax Law No	15473
 Real Estate Taxation Authority	15473
 Real Estate Technology and Sustainability Fund	4972
 Real Estate Transactions	10448
+Real Estate and Housing Fund	15924
 Real Estate and Lands Law	15473
 Realização de Inquéritos Estatísticos	11516
 Receitas de Estado	11965,3390,787
@@ -1494,10 +1521,12 @@ SECRETARIA DE ESTADO DA ADMINISTRAÇÃO PÚBLICA	15404
 SECRETARIO DE ESTADO	4209
 SECÇÃO II DADOS ESTATÍSTICOS	794
 SECÇÃO II DAS TRANSGRESSÕES ESTATÍSTICAS Artigo	11516
+SEGREDO ESTATÍSTICO SEN	15450
 SEGURANÇA DO ESTADO E ORDEM PÚBLICA	10747
 SEN Sistema Estatístico Nacional	15535
 SEN. Esta	11526
 SENHORES MINISTROS E SECRETÁRIOS DE ESTADO	12796
+SGRHFP SEPC Secretária de Estado da Inclusão Social	15694
 SIDS Pequenos Estados Insulares	15966
 SISTEMA DE REGISTO CIVIL E ESTATÍSTICAS	12862
 SITUAÇÃO DO SISTEMA ESTATÍSTICO NACIONAL Tendo	11526
@@ -1538,7 +1567,6 @@ Secretarios de Estado	1855,4986
 Secretarios de Estado. En	6841
 Secretária de Estado	1180,84,9486,2,4774
 Secretária de Estado Moçambique	10750
-Secretária de Estado da Inclusão Social DGPOG SGRHFP	15694
 Secretário de Estado	4075,4234,541,1900,2,1,625,28,691,3429
 Secretário de Estado Adjunto	11963,837
 Secretário de Estado da Acção Social	11378
@@ -1564,11 +1592,12 @@ Serviço de Estatísticas Vitais	12831
 Serviços da Estatistica	11561
 Serviços de Estatística	11561
 Seychelles South Sudan Zimbabwe T3 Establishing	10764
+Seção II Instituto Nacional de Estatística	15450
 Sidvokodvo Industrial Estate.The	12922
 Simpósios Africano de Estatística	12862
 Sistema Educativo de Cabo Verde. Esta	16268
 Sistema Estadístico Nacional	1701,2508,10006
-Sistema Estatístico Nacional	4040,4,2381,194,4138,602,62,1,24,3,67,21,40,1193,2680,85
+Sistema Estatístico Nacional	4040,4,2381,194,4138,602,62,1,24,3,67,21,40,1193,2680,76,9
 Sistema Estatístico Nacional. Artigo	12770
 Sistema Estatístico Nacional. O Departamento de Estatística	12788
 Sistema Integrado de Estatísticas Criminais	16487
@@ -1630,6 +1659,7 @@ Teshie Nungua Estates	3386
 Tipo de Disputas de Terra Disponibilidade de Estatísticas	11898
 Training Establishments	14760
 Transações de Terras Disponibilidade de Estatísticas	11898
+Tratamento de Dados Estatísticos Individuais	15450
 Treaty Establishing the African Economic Community	14409
 Tribunal Constitucional Ministro de Estado Ministro Vocal	4209
 Tuvalu T3 Establishing T2 T1 Advancing	10764
@@ -1643,6 +1673,9 @@ Uganda. Established	15007
 Um Estado	15532,955
 Um Estado Mais	16487
 Under the Law Establishing RURA	14947
+Unidade Estatística	15450
+Unidade Estatística Identificável	15450
+Unidade Estatística Não Identificável	15450
 Unified Real Estate Tax	15473
 Utilizadores de Estatísticas Oficiais	15535
 WIL Establish	6832

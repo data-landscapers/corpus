@@ -146,7 +146,6 @@ BASIC INFORMATION	1284,10241
 BASIC INFORMATION A. Basic Project Data	3456,9655,412,1053,937,37
 BASIC INFORMATION Financing Instrument Adaptable Program	15424
 BASIC INFORMATION OPS TABLE BASIC DATA Project ID Project	10963
-BASIC INFORMATION Operation ID Programmatic	15924
 BASIC INFORMATION Project	13856,1081
 BASIC INTERMEDIATE ADVANCED	11994
 BASIC POLICY ISSUES AND DIRECTIONS	14004
@@ -255,7 +254,7 @@ Base de Amostragem	10777
 Base de Artemisina Teste de Diagnóstico Rápido Taxa	10777
 Base de Cible	11944
 Base de Cotización	14265
-Base de Dados	5204,1333,4217,18,633,20,91,45,332,891,2575,29,668
+Base de Dados	5204,1333,4217,18,633,20,91,45,332,891,2575,29,62,606
 Base de Dados da Direcção de Emigração	15359
 Base de Dados de Cidadão Maior	10756
 Base de Dados de Cidadãos Maiores	5791,4981,3,650
@@ -274,10 +273,10 @@ Base-TX	34
 Base. Ce	15541
 Baseada	15694
 Baseband Security	10721
-Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45,56,38,15,3,264,10,2,6,4,38,2,15,2,40,22,20,27,118,7,12,15,16,26,6,13,5,5,41,28,3,1,29,9,3,6,3,6,3,11,28,18,7,48,106,2,55,6,6,31,190,15,6,3,26,2,29,67,6,3,11,84,164,2,17,1,4,13,36,3,30,43,193,12,75,127,70,53,19,22,24,57,14,13,294,132,157,13,6,2,33,35,7,17,31,12,10,8,5,19,1,1,5,69,19,7,3,8,95,35,34,46,128,27,12,13,23,24,2,7,31,7,35,21,27,3,54,1,2,2,30,32,18,17,2,162,108,1,111,43,1,50,146,38,14,31,26,121,105
+Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45,56,38,15,3,264,10,2,6,4,38,2,15,2,40,22,20,27,118,7,12,15,16,26,6,13,5,5,41,28,3,1,29,9,3,6,3,6,3,11,28,18,7,48,106,2,55,6,6,31,190,15,6,3,26,2,29,67,6,3,11,84,164,2,17,1,4,13,36,3,30,43,193,12,75,127,70,53,19,22,24,57,14,13,294,132,157,13,6,2,33,35,7,17,31,12,10,8,5,19,1,1,5,69,19,7,3,8,95,35,34,46,128,27,12,13,23,24,2,7,31,7,35,21,27,3,54,1,2,2,30,32,18,17,2,270,1,111,43,1,50,146,38,14,31,26,121,105
 Based Black Economic Empowerment CBM Citizen-based	11224
 Based Black Economic Empowerment DPME Department	11986
-Based Budgeting	13420
+Based Budgeting	13420,2425
 Based Care	7761
 Based Education	13477
 Based Education and Training CPBN Central Procurement	12923
@@ -338,7 +337,6 @@ Baseline End Target	1284
 Baseline Evaluation	13005
 Baseline Framework	4610
 Baseline Growth	12053
-Baseline Historical	15924
 Baseline Indicators	10775
 Baseline Intermediate Targets End Target	10829,135,2368,2186
 Baseline Moderate	10718
@@ -623,6 +621,7 @@ Bastagli	10985,540,1807
 Bastati	15342
 Bastien Chevillé	16133
 Bastoine Msoma	10285
+Bastonário	15912
 Bastos	2513,8462
 Bastos. Merveille Manuella Ngoufack Tsafack	2513
 Basupú Malabo	4209
@@ -644,6 +643,7 @@ Broad Based Black Economic Empowerment	11184
 Broad Based Black Economic Empowerment BISG	11250
 Broadcasting Baseline Survey	6946
 Broaden Tax Base Launched	15241
+Budget Base Law	15924
 Bugiri Municipality MP Asuman Basalirwa	5343
 Burn and BasiGo	4972
 Burundi. Based	13312,2
@@ -1141,6 +1141,7 @@ Isabella Maria Linnea Hayward BASIC DATA	14966
 J Base Stations Tx Channel S	736
 James Makamba. Based	306
 Jamil Bassam	12257
+Jamuna River Basin	16773
 Jean François Basse	14446,2005
 Jean-François Basse	3158
 Jean-François Basse. Dans	16479
@@ -1174,7 +1175,7 @@ Lagos Based Doctor Uncovers The Hidden	5574,215
 Lagos State Ministry of Basic	7444
 Lake Basin Development Authority	6946,7600
 Lake Basin Mall Eagle Africa Centre	12256
-Lake Chad Basin	7452,2164,1225
+Lake Chad Basin	7452,2164,1225,5946
 Lake Chad Basin Commission	16137
 Lamu Basin	12256
 Launch Base Africa	4972,907,518
@@ -1203,7 +1204,7 @@ Legal Basis for Transfer	12302
 Legal Basis of Official Statistics	15760
 Lei Base	11569
 Lei Bases	15694
-Lei de Base	11518,13,38
+Lei de Base	11518,13,38,3957
 Lei de Base da Inteligência Artificial	2690
 Lei de Bases	15,6254,156,4330,610,3,9,10,3,6,1,9,13,38,100,20,356,3426,21,60,254,268
 Lei de Bases Gerais de Prevenção	15694
@@ -1271,6 +1272,7 @@ Measles Cases Baseline	4153
 Measure Baseline Original Target Households	15601
 Measurement Base	14736
 Mediterranean Basin	2837
+Melissa Basque-Roux	16778
 Methodologies for Calculating ICT Price Basket Indicators	15120
 Methodology Summary Based	14819
 Metric Baseline Average	4217
@@ -1483,6 +1485,7 @@ Public Service Houses Baseline	3604
 Public Service Regulations RBM Results Based	13310
 Purpose and Legal Basis	15066
 QCBS Qualifications and Cost Based Selection RAS	15518
+Quadro Lei de Bases Gerais de Prevenção	15694
 Qualifications and Cost Based Selection	15518
 Quality And Cost Based Selection	13017
 Quality And Cost Based Selection. SZ-MICT-513271-CS-QCBS	13017
@@ -1502,7 +1505,6 @@ RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545,2503,2221
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
 RESULT FRAME TBL IO PBC Baseline End Target	13331
 RESULT FRAME TBL IO PBC Baseline Intermediate Targets	10964
-RESULTS Baseline Period	15924
 RISK MANAGEMENT AND GOVERNANCE Basis for Conclusion	14546
 Recommendations Based	8130,3797,224,827,440,1601
 Recouvrement BEPS Base Erosion Profit Shifting	10712
@@ -1591,6 +1593,7 @@ Serigne Mountakha Bassirou MBACKE	8269
 Services Baseline Actual	15735
 Services de Base	16037
 Serviços Baseados	2816
+Serviços de Base Territorial	15526
 Shoprite CEO Whitey Basson	14376
 Simplified Procurement Procedures’. Based	11525
 Sindicato de Base	10114

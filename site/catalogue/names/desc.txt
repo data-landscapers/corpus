@@ -199,7 +199,7 @@ Descrip-	15901
 Descriptif	15583,318
 Descriptif Ce	15583
 Descriptif L'observatoire OBSYDYA	16281
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66,139,4,1,2,7,17,134,164,55,14,201,9,7,42,5,1,1,47,37,4,24,46,27,9,122,8,58,13,16,35,20,27,27,13,18,17,71,154,73,28,2,15,80,50,49,3,26,49,1,2,9,3,4,35,3,11,23,109,4,4,29,6,7,27,1,51,16,100,41,35,8,85,44,6,6,26,14,67,4,1,2,24,142,13,75,31,20
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66,139,4,1,2,7,17,134,164,55,14,201,9,7,42,5,1,1,47,37,4,24,46,27,9,122,8,58,13,16,35,20,27,27,13,18,17,71,154,73,28,2,15,80,50,49,3,26,49,1,2,9,3,4,35,3,11,23,109,4,4,29,6,7,27,1,51,16,100,41,35,8,85,44,6,6,26,14,67,4,1,2,24,142,13,75,31,20,4,2,1,1,1,2,10,3,11,3,31
 Description ADC	594,2
 Description AF Additional Financing AGETIP Public	15731
 Description AFC	240,90,119,593
@@ -370,6 +370,7 @@ Description Eine	457
 Description Employing	8603
 Description Enacted	1614
 Description Enhances	2216
+Description Enhancing	16757
 Description Ensures	5191
 Description Equinix	856,1,1298
 Description Equip MUBAS	401
@@ -378,6 +379,7 @@ Description Equity	855,296
 Description Equity LP	1153
 Description Establish	15713
 Description Establishes	230,520,243
+Description Establishing	16752
 Description European Union	16144
 Description Evaluation of Swedish	497
 Description Every	13991
@@ -465,6 +467,7 @@ Description KOICA	86,122,1,77,219,1,191,1,1,206,1,1,627,688
 Description Kenya	842
 Description Kenya-specific	1466
 Description Key Components Law Nº	13418
+Description Knowledge	16760
 Description L	839,242
 Description L'Agence Nationale	14316
 Description L'objectif	840
@@ -514,6 +517,7 @@ Description MoH Computerisation	1666,977,2996
 Description MoHE Computerisation	5652
 Description MoSA Computerisation	2654,2999
 Description Mots-clés Fréquence	747
+Description MozJobs	16769
 Description Mozambique	843
 Description Mubadala Investment Company	706,430
 Description Mubadala Investment Company LP	1544
@@ -651,6 +655,7 @@ Description Sovereign	450,351,1325
 Description Space Program	1757
 Description Statistical	15661
 Description Strengthen	1561
+Description Strengthening	16759,2,1,1,1,1,1,1
 Description Strengthens	112,45,65,1,1,1943
 Description Strengthens African AI	1467
 Description Structures and Capacities	179
@@ -697,6 +702,7 @@ Description The Action	845,232,1,365,9
 Description The Africa Digital Financial Inclusion	4920
 Description The African Development Bank Group	14085
 Description The African Development Bank's Fragile	13966
+Description The African Growth and AI Network	16770
 Description The African Union	1175
 Description The April-2026	5660
 Description The Bank	11134
@@ -865,6 +871,7 @@ Ege Description	15129
 El Description	15129
 Encargado de Descentralización	6841
 Endpoint Descriptions	5665
+Engineering Services Project Description Helios Towers	16776
 Entregáveis da Contratação Ref. Entregável Descrição Prazo	11442
 Entregável Descrição Prazo Pagamento E1 Plano	11451
 Environmental and Social Baseline Description	14487
@@ -997,6 +1004,7 @@ Job Descriptions What Nigeria Has Tried	10015
 Job Descriptions for ICT Common Services	12917
 Jst Provinces Describe	11180
 KNPHI LIMS Tender Description	7988
+Key Risks and Challenges Risk Area Description	15845
 L Description	15129
 LEGAL Legal Covenants Sections and Description	11905
 LEGAL Legal Covenants Sections and Description Benin	16144
@@ -1023,6 +1031,7 @@ Line Item Description of Goods Country of Delivery	13185
 Liquidable Gravamen Descuentos Num. PERSONAL Mensual	4209
 List of Goods and Delivery Schedule Line Description	13185
 Location Description	1988
+Location of Project and Description of Site	16776
 Lot Description of Goods Quantity Delivery Number	13185
 Lss Description	15129
 M. Descartes Koumba	16486
@@ -1094,6 +1103,7 @@ Procurement Description	13037
 Program Action Plan Action Description Appointment	10870
 Program Description	12176
 Programa de Promoção da Governação Descentralizada	1808
+Programme Description	15845
 Programme Terra Bénin Description Suivi	10876
 Programme. Description Modulable	10876
 Project Brief Description Links	3604
@@ -1128,6 +1138,7 @@ Requirement Service Description Tariffs and Charges Contract	5676
 Results Area Description	11905
 Results Descriptive	7886
 Revenue Item Description Amount Collected	12976
+Risk Area Description Potential Impact Recommended	15845
 Risk Category Risk Risk Description Proposed	15372
 Risk Description and Mitigation Measures IV. APPRAISAL	15138
 Risque Description Conséquence Application	16328

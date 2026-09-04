@@ -85,6 +85,7 @@ Apollo Asset Management Company Limited Data	7167
 Arab Submarine Cable Company	15284
 Aronet Company Limited Data Processor INST-36271452E0E	7167
 Asian Journal of Comparative Law	2518
+Assessment of Goals Compatibility	15845
 Association of Insurance Companies of Côte	10198
 Association of Private Security Companies	11129
 Association of Telecommunication Companies of Nigeria	11129
@@ -146,7 +147,7 @@ Benin Power Compact	87,15314,1
 Beninese Electricity Production Company	16468
 Benue Digital Infrastructure Company	1805
 Bethesda Health Care Services Company Limited	7167
-Beyond the Company	7356
+Beyond the Company	7356,9420
 Bilateral Compact	6534
 Blaise COMPAORE LOI N	15362
 Board Member of Africa Merchant Assurance Company	6946
@@ -298,6 +299,7 @@ Canadian Bank Note Company	10812
 Canar Telecommunications Company	14853
 Capital Goods Finance Companies	13976
 Capital for Securitisation Company	5869
+CardinalStone Finance Company Limited	16785,13
 Case Register and Allegations Annual Comparison	11250
 Case Study Companion	2858
 Cayman Companies Act	7198
@@ -369,7 +371,7 @@ Compagnons de De Brazza	16039
 Companhia Santomense de Telecomunicações	2315
 Companhia São-tomense de Telecomunicações	5557
 Companhias	6970,8534
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235,89,25,3,64,298,175,1,209,447,662,118
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235,89,25,3,64,298,175,1,209,447,662,118,92
 Companies API Application Programming Interface	4214
 Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801,437,10,10,26,3,762,301,51,133,2,14,20,88,247,9,46,347,12,87,99,40,29,856,33,91,167,4,3,8,40,41,10,16,2
 Companies Act Amendment	11250
@@ -429,7 +431,7 @@ Companies’ Register	3714
 Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359
 Companion Card	10418
 Companion Guide	11156
-Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,561,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175
+Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,561,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32
 Company Act	14891
 Company Address Changes	12041
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
@@ -443,6 +445,7 @@ Company Egypt Green Building Council Governorates	15578
 Company Embedded Generation Eswatini Energy Regulatory	12969
 Company Financial Year	12041
 Company GWh	12256
+Company Helios Towers	16776
 Company Human Resources Officer Vacant	12970
 Company Income Tax	12395,281
 Company Information	12389
@@ -842,7 +845,6 @@ FEES Company Application Fees	12342
 FINANCE SCM COMPANY SECRETARY RISK	11198
 FT Africa's Fastest-Growing Companies	605
 Facebook Compartilhar	11587
-Facility EDEC Energy Distribution Company	15924
 Facility SONEDE National Company	13729
 Farm-to-Market Compact	5247
 Farmer Aggregation Companies	5765
@@ -925,6 +927,8 @@ Global Digital Compact. Tweet URL	9786
 Global Digital Compact. Underspending	11230
 Global Digital Compact. Yet	6386,856
 Global FinTech Company	11816
+Goal Compatibility Matrix	15845
+Goal Compatibility Matrix No. Goal	15845
 Governance Standards The Company	4896
 Government Conceals Names of Companies Awarded Direct	9399
 Government of Ghana GRIDCO Ghana Grid Company	4126
@@ -1144,6 +1148,7 @@ Meta Companies	5113
 Metumi Power Company	12256
 Microfinance Project Financing Company Total Financing	15578
 Microsoft Frontier Company	7007
+Middle East. The Company	16776
 Mighty Land Company	15670
 Millennium Challenge Compact	12645
 Mimosa Mining Company	1554
@@ -1494,6 +1499,7 @@ State-Owned Companies’ Support Services	11272
 State-Owned Company	11250
 State-owned Company	14835
 State-owned Nile Petroleum Company	3583
+Storage Company	16820
 Storage of Company and Beneficial Ownership Information	12389
 Subject Company	7198
 Subject Company Information	7198
@@ -1576,6 +1582,7 @@ Uganda Printing and Publishing Company	1198
 Uganda Security Printing Company	320,2355
 Uis Tin Mining Company	13189
 Undertook Comparable Company Analysis	4896
+United Nations Global Compact Initiative	16778
 United Nations Global Digital Compact	11478
 United Nations' Global Digital Compact	11028
 Unlimited Bangladesh Telecommunications Company Limited	15471

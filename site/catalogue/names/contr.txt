@@ -1458,6 +1458,7 @@ CLOUDTIMES KENYA LIMITED Data Controller INST-689092D0328	7167
 CLOVER FIELD DAIRIES LIMITED Data Controller	7167
 CMA CGM KENYA LIMITED Data Controller	7167
 CNDP. Contrairement	11742
+CNEST Contraordenações	15450
 CNS LAW ADVOCATES LLP Data Controller	7167
 CNSS Contribution Déterminée	643
 CO ADVOCATES Data Controller INST-3819521BD65 NAIROBI	7167
@@ -2073,7 +2074,7 @@ Contractor's ESMP	12253
 Contractor's ESMP and Code of Conduct	14010
 Contractor's Environmental and Social Safeguards Specialist	12253
 Contractor- ESMP	12253
-Contractors	1638,140,210,1873,2350,2772,2148,864,258,2412,853,383,243
+Contractors	1638,140,210,1873,2350,2772,2148,864,258,2412,853,383,243,632
 Contractors Code of Conduct	12253
 Contractors ESMP	12253
 Contractors Environmental and Social Management Plans. ANNEX	15659
@@ -2175,7 +2176,8 @@ Contrat. PAIEMENTS L’Emprunteur	15901
 Contratante	11456
 Contratar	167,16154
 Contratação	15,2416,385,7956,588,78,3950,722
-Contratação Pública	11449,1349,2728,530
+Contratação Profissional	15526
+Contratação Pública	11449,1349,2728,386,144
 Contratação Pública ADI2 Sim EST-TEC18 Plataforma	15532
 Contratação de Empresa	12034
 Contratação de Especialista	11440,1
@@ -2187,7 +2189,7 @@ Contratação de Serviços	11377,67
 Contratação de Técnicos	15388
 Contratações	2613,8829
 Contratistas	4209
-Contrato	2866,8506,33,25,8,4,6,3,450,120,3370,665
+Contrato	2866,8506,33,25,8,4,6,3,450,120,3370,135,530
 Contrato Comercial	11372
 Contrato Simplificado	12021
 Contrato de Aceitação	11438
@@ -2242,7 +2244,7 @@ Contribuer Copyright	9482
 Contribuera	15583
 Contribuicao	1144
 Contribuicoes	12018
-Contribuinte	8578,153,2031,621,149,486,837,6
+Contribuinte	8578,153,2031,621,149,486,837,6,2665
 Contribuinte Obs. CI	11532
 Contribuinte Obs. Imposto	11532
 Contribuinte Outras	10762
@@ -2253,7 +2255,7 @@ Contribuinte. Neste	11532
 Contribuintes	11383,52,583
 Contribuintes Lista	12018
 Contribuintes.pdf Declaração Periódica Devido	12018
-Contribuir	13,1688,2445,6626,609,1,136,1,9,15,1234,2614,1,84,27
+Contribuir	13,1688,2445,6626,609,1,136,1,9,15,1234,2614,1,84,27,23,386,226
 Contribuites Declaração Eletrónica Mod	12018
 Contribuição	1251,831,784,1546,7112,7
 Contribuição Audiovisual	11532
@@ -2264,7 +2266,7 @@ Contribuição Industrial Regime Especial	11532
 Contribuição Nacionalmente Determinada	15962
 Contribuição Predial Rústica	11532
 Contribuição Predial Urbana	11532
-Contribuições	4274,304,6852,11,86,5,18,468,3508,496,527
+Contribuições	4274,304,6852,11,86,5,18,468,3508,386,110,527
 Contribuições Atraso	11532
 Contribuições Juros	11532
 Contribuições Recebidas Empresas	11490
@@ -2306,7 +2308,6 @@ Contribution Agreement. Article	15901
 Contribution Agreement. The Borrower	15901
 Contribution Agreements	13080
 Contribution Budgétaire	4155,1,1,1,1,1
-Contribution CFT Countering the Financing of Terrorism NPL	15924
 Contribution Carbone	16020
 Contribution Carbone Article	16020
 Contribution Déterminée	643,8248,2713,1721,108,2368,820,25
@@ -2334,7 +2335,7 @@ Contribution of UNESCO Gabon I. Background	15968
 Contribution of UNESCO Gabon URL	15968
 Contribution. L’Emprunteur	15901
 ContributionofthisWorkstream	8301
-Contributions	22,1201,1119,433,939,77,1888,1859,252,20,237,389,2357,204,238,391,296,18,15,246,77,104,96,473,102,636,1028,111,37,674,309,151
+Contributions	22,1201,1119,433,939,77,1888,1859,252,20,237,389,2357,204,238,391,296,18,15,246,77,104,96,473,102,636,1028,111,37,674,306,3,151
 Contributions Déterminées	3045,11577,1090,45
 Contributions NDICI-GE Neighbourhood	970
 Contributions Nationales Déterminées	15500
@@ -2447,7 +2448,7 @@ Control the RIR	3503
 ControlAI	9027
 Controladores Financeiros	16056
 Controladores de Finanzas Púb	4209
-Controlar	163,1538,2517,7163,68,3,66,503
+Controlar	163,1538,2517,7163,68,3,66,503,3505
 Controle	15772,549
 Controle de Doenças	15966
 Controle de Infecções	15966
@@ -2774,6 +2775,7 @@ Controlling Persons Who Are Reportable	11233
 Controlling the Sudanese Identity	14854
 Controlo	438,356,2022,1620,4414,1905,22,6,5,582,9,27,24,22,67,18,3848,118,6,457,90
 Controlo Cambial	12853
+Controlo Financeiro	15912
 Controlo Interno	5319,10647
 Controlo Orçamental	16193
 Controlo Sobre	10777
@@ -3543,6 +3545,7 @@ Duties of Data Controller Every	972
 Dyron Howell School Data Controller INST-582309ACAD9	7167
 Développement Contributors Data	16463
 E BARMAO AND ADVOCATES Data Controller	7167
+E CONTRAORDENAÇÕES Competências	15450
 E CREDIT LIMITED Data Controller INST-319018E0B8D	7167
 E&A GLOBAL HOLDINGS LIMITED Data Controller	7167
 E-Government and Contractor	12253
@@ -4340,7 +4343,7 @@ National du Contrôle Monsieur Aristide Aboyi EDAH	16485
 Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
-Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735
+Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735,292
 Nationally Determined Contributions. WRI	15500
 Nature of Contract	12400
 Neither Contracting	13326
@@ -4386,6 +4389,7 @@ Não Apenas Contribuintes A Ministra	8003
 O Centro de Controlo	10751
 O Contrato	11438
 O Contrato de Aceitação	11438
+O Serviço de Contratação Pública	15526
 O Sistema de Controlo Interno	11452
 O for Contract	12195
 OBLIGATION DE CONTRIBUTION A L'ACCES UNIVERSEL	15394
@@ -4659,6 +4663,7 @@ Remote Control	34
 Renewal of Contracts	12972
 Renewed Social Contract	13473,2780
 Rent Control Dilemma Comeback	15473
+Repartição Especial de Grandes Contribuintes	15526
 Repeals Controversial Telecom Ownership Regulations NetOne	2987
 Reporting Exchange Control Secretaries Advisor Broker	4896
 Requirement Service Description Tariffs and Charges Contract	5676
@@ -4786,6 +4791,7 @@ Services and Contracts	15901
 Serviço Nacional da Contratação Pública	2365
 Serviço Nacional de Contratação	2365
 Serviço Nacional de Contratação Pública. Meick Afonso	6309
+Serviço de Contratação Pública	15526
 Sharing Contract REREC Rural Electrification and Renewable	12256
 Shidhudhu Contributors Absalom Absalom Dortea Mulilo	13044
 Shidhudhu Contributors Dortea Mulilo Jhanré Pretorius	13108

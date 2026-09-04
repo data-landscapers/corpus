@@ -196,6 +196,7 @@ Health Insurance Management Authority NTBC National	13347
 Health Insurance Premium	14717
 Health Insurance Units	10865
 Health NHIA National Health Insurance Authority	15556
+Health R Immigration Insurance Scheme Service	15845
 Highly Insulated	16266
 Hollard Insurance	2151
 IA Insuffisance	15583
@@ -313,6 +314,7 @@ Insurance Revenue	14897
 Insurance Régime de Retraite de Ministry	10985
 Insurance SHIF Social Health Insurance Fund	2775
 Insurance Scheme	14997
+Insurance Scheme X MINTER Ghana Nationwide	15845
 Insurance Sector	14997,26,107
 Insurance Sector Education and Training Authority IoT	6832
 Insurance Strand	418
@@ -426,7 +428,7 @@ National Health Insurance Levy	7695,44,8299
 National Health Insurance Management Authority	13465
 National Health Insurance NDoH Non-patient File	1009
 National Health Insurance Policy	11748,3511,3
-National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,430,93
+National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,22,408,93
 National Health Insurance and Social Guarantee Fund	9837
 National Health Insurance and Social Security	15518
 National Health Insurance and Social Welfare Fund	15411

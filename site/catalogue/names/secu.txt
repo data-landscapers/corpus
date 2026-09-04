@@ -82,6 +82,7 @@ African Union Peace and Security Council	3583,7694
 African Union's Peace and Security Council	3583
 African Union’s Cyber Security and Personal Data	9969
 Ag. Director Research and Project Management Security	6946
+Agencies Security	15845
 Agency for Information Systems Security	15679
 Agency for Secure Titles AREI African Biofuel	10841
 Agreement TLS Transport Layer Security	11952
@@ -189,7 +190,7 @@ Body The Ministry of Labour and Social Security	13700
 BofA Securities	7198
 BofA Securities and Citi	7198
 Bolster Security	8520
-Border Security	8167
+Border Security	8167,7678
 Border and Port Security	2943,4133,294
 Botswana Computer Security	3887
 Botswana Computer Security Incident Response	3887
@@ -376,6 +377,7 @@ Continuous Security Operations Centre	10721
 Conﬁdence and Security	958
 Conﬁdent and Security of Network Services This National	958
 Cooperation and Security	3256
+Coronation Securities Limited	16786
 Cotec Security Group Limited Data Controller	7167
 Cotec Security Group Limited Data Processor	7167
 Could Undermine Nat'l Security	3092
@@ -700,7 +702,7 @@ Enhancing Regional Integration and Security	4102
 Enhancing Security and Privacy of National Scale Identity	1495
 Enhancing Security and Trust	13582
 Enseñanza Secundaria	4209
-Ensino Secundário	1948,3202,5616,621,32,53,105,490,721,2688,88,761
+Ensino Secundário	1948,3202,5616,621,32,53,105,490,721,2688,88,130,631
 Ensino Secundário Direcção Nacional	10766
 Ensino Secundário Geral	10766,653
 Ensino Secundário Geral Anuário Estatístico da Educação	10766
@@ -812,7 +814,7 @@ Farmer Security and Enforcement	14818
 Farmer Security and Enforcement Increasing	14818
 Farmer Security and Enforcement Weak	14818
 Fast-track Water Security and Climate Adaptation Program	15658
-Federal Ministry of Agriculture and Food Security	5765,1454,2657
+Federal Ministry of Agriculture and Food Security	5765,1454,2657,6920
 Federal Urban Job Creation and Food Security	5655
 Feed and Fodder Security	14818
 Fees for Registration of Security Interest	12389
@@ -856,6 +858,7 @@ Forcepoint Web Security	10102
 Foreign and Security Policy	7794
 Foreign and Security Policy Between the African Union	7794
 Forensic Data Security Audit	11956
+Fortinet’s Security Fabric	16813
 Forum for Incident Response and Security Teams	5780
 Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714,2879,640
 Foundation for Security	11156
@@ -1074,6 +1077,8 @@ Instrumentos Normativos Secundários	11448
 Instrumentos Secundários	11448
 Insurance and Social Security Fund	15518
 Insurance and Social Security Supervisory Authority	6938
+Integrated Border Security and Migration Management	15845
+Integrated Border Security and Migration Management MINTER	15845
 Integrated Centre for Public Security	645
 Integrated Food Security Phase Classification	3583,7553,333,1509,1967,14,1505
 Integrated Food Security Phase Classification System	3583
@@ -1186,6 +1191,7 @@ MINISTERE DE LA SECURITE	15558
 MINISTERE DE LA SECURITE ET	15524
 MINISTERE DE LA SECURITE Le Conseil	15942,345
 MINISTERE DE LA SECURITE MINISTERE	15558
+MINTE All Agencies Border R Security	15845
 MISS Minimum Information Security Standards MMM	5533
 MOSIP’s Secure Biometric Interface	5085
 MOTORBIKES SECURED UNDER DR. NYAN’S LEADERSHIP	10581
@@ -1244,7 +1250,7 @@ Minister of Security Mahamadou SANA	5758
 Minister of Security Mahamadou Sana	3925
 Minister of Security and Public Order	16275
 Minister of Social Security	14721
-Minister of State for Agriculture and Food Security	9876
+Minister of State for Agriculture and Food Security	9876,6920
 Ministers of Interior and Internal Security	14039
 Ministries of Home Affairs and Internal Security	1778,210
 Ministries of National Security	1382
@@ -1436,7 +1442,7 @@ National Social Security Authority of Zimbabwe	13609
 National Social Security Fund	3661,1334,9,3719,1590,509,1,1164,4195
 National Social Security Fund Act	10822
 National Social Security Fund Annual Membership	2775
-National Social Security Institute	778,15146
+National Social Security Institute	778
 National Social Security Policy	12922
 National Social Security System	10775
 National Social Security and Welfare Corporation	9338
@@ -1475,6 +1481,7 @@ Nigeria’s Securities and Exchange Commission	8265,1690,606,182,2139
 Non-Financial Benefits Security of Tenure Investment	12457
 Nuclear Security	14745
 Nucleon Security	4972
+Number of Security	15845
 Nutrition Security	10768,2706,1344
 Nutritional Security and ASYCUDA	13042
 O Assuring Statistical Confidentiality and Data Security	14777
@@ -1856,7 +1863,7 @@ Secunda	11210
 Secundar	1701
 Secundo	16420
 Secundária de Balala	12148
-Secundário	10766,11,610,32
+Secundário	10766,11,610,32,4275
 Secundário DGESIC Direção-Geral	11557
 Secundário Ensino	10777
 Secundário Taxas Líquidas de Frequência Escolar	10777
@@ -1985,6 +1992,7 @@ Securing Declaration	1638,11547,1895
 Securing Europe’s Subsea Data Cables	2677
 Securing Futures	5035
 Securing Ghana’s Digital Finance Ecosystem	14691,7
+Securing Ghana’s Future Through Peace	15845
 Securing Land Tenure	161
 Securing Lesotho’s Digital Frontiers	8700
 Securing NIPN Zambia's Future	13578
@@ -2039,7 +2047,7 @@ Securitisation	5242
 Securitised	13398
 Securitised Deeds	13398
 Securitization Agenda	2117
-Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217,334,16,1,1,1,7,4,22,30,3,29,11,69,82,6,1,1,9,2,1,19,16,8,1,1,16,6,20,4,83,1,11,1,11,1,2,7,26,31,22,4,18,13,24,18,99,22,30,216,22,10,43,5,28,32,5,11,18,51,63,53,73,8,2,1,9,14,2,29,9,10,79,58,27,65,407,154,155,17,52,13,19,8,67,50,65,33,53,2,8,11,52,29,15,46,8,19,12,28,18,32,22,15,24,23,21,47,12,1,2,178,131,45,56,55,29,3,10,255,10,276,362,26
+Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217,334,16,1,1,1,7,4,22,30,3,29,11,69,82,6,1,1,9,2,1,19,16,8,1,1,16,6,20,4,83,1,11,1,11,1,2,7,26,31,22,4,18,13,24,18,99,22,30,216,22,10,43,5,28,32,5,11,18,51,63,53,73,8,2,1,9,14,2,29,9,10,79,58,27,65,407,154,155,17,52,13,19,8,67,50,65,33,53,2,8,11,52,29,15,46,8,19,12,28,18,32,22,15,24,23,21,47,12,1,2,178,131,45,56,55,29,3,10,174,81,10,276,362,26
 Security A Licensee	762
 Security Act	14674
 Security Actors	10819
@@ -2047,6 +2055,7 @@ Security Admin	10721
 Security Advisory Services	11285
 Security Agencies	11993,3934,288
 Security Agency	5307,1629,4341,709
+Security Agency Output	15845
 Security Agency Press Statement	9067
 Security Airtel Urges Uganda’s Digital Finance	9899
 Security Alliance DAST Dynamic Application Security	11952
@@ -2108,6 +2117,7 @@ Security Council Committee	3583
 Security Council Reform	12979
 Security Council Resolution	14959
 Security Council. The Arria-Formula Meeting	2117
+Security Councils	15845
 Security Cyber Coordination Centre	5841
 Security Data Real-	8603
 Security Data Warehousing Data	15034
@@ -2149,7 +2159,12 @@ Security Incident Management Maturity Model	7736,1734
 Security Incident Response Team Congo Telecom	15553
 Security Index	12512,2162
 Security Information and Event Management	5793,639,4289,510,1806,2124,343
+Security Infrastructure and Capacity	15845
+Security Infrastructure and Capacity Enhancement	15845
+Security Infrastructure and Capacity Enhancement Number	15845
+Security Infrastructure and Capacity Enhancement Percentage	15845
 Security Initiative	9416
+Security Inter-agency Quarterly Ministry	15845
 Security Interest	12389,910,34
 Security Interest Notice Registration Number	13333
 Security Interest Reference Number	13333
@@ -2209,6 +2224,7 @@ Security Policy and Procedures	14921
 Security Positive	9129
 Security Public Perception of Social Protection	10837,1315,188
 Security Push	5792
+Security R MINTER SMTDP	15845
 Security RISA RISA RISA Operation	12359
 Security Req-1	13037
 Security Requirements	6432
@@ -2559,6 +2575,7 @@ W3CWSDL Secure Retrieve Secure Retrieve	1009
 Water Security Program. The FM	3604
 Water Security The Emergency Plan	15604
 Water Security and Provision	2626
+Weak Maritime Security	15845
 West Africa Border Security Week Accra	2521,659,249,939,974,1524,210,294
 Wildlife Service KWSCRP Kenya Water Security	2775
 Wingu Drive and Wingu Security	5629

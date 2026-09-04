@@ -3,6 +3,7 @@ Albinismo No Plano de Desenvolvimento Nacional	11577
 B. Plano de Acção	11451
 CONFEMEN PATO Plano de Ações Trienal Orçamentado	11557
 Comunicação PAAO Plano de Ação Anual Orçamentado	11557
+Deficiência PNC Plano Nacional de Cuidados ANEXO	15694
 Desenvolver Plano de Trabalho	11448
 Disponibilização de Planos Espaciais	11898
 E1 Plano de Trabalho	11448
@@ -27,6 +28,7 @@ Ministério da Saúde de Angola. Plano Estratégico Nacional	10780
 O Plano Anual de Actividades Estatísticas	11526
 O Plano EAS	11413
 O Plano Estratégico	11442,2,1333,2656
+O Plano Estratégico Plurianual	15912
 O Plano Estratégico de Desenvolvimento Sustentável	15433
 O Plano Nacional de Desenvolvimento	11366,203
 O Plano Nacional de Promoção da Saúde	15966
@@ -46,6 +48,7 @@ PESOE Plano Económico	12787
 PGAS Plano de Gestão Ambiental	11390,23
 PLANO DE ACÇÃO VBG	11406
 PLANO DE ATIVIDADES PARA	15476
+PLANO DE AÇÃO	15694
 PLANO DE AÇÃO DA ENDE	15535
 PLANO DE FINANCIAMENTO DA ENDE	15535
 PLANO DE GESTÃO E MONITORIZAÇÃO AMBIENTAL	11406
@@ -54,8 +57,8 @@ PLANO SETORIAL DA EDUCA	11523
 PLATAFORMA DE SERVIÇOS E PLANO	11555
 PNDS Plano Nacional de Desenvolvimento Sanitário PNUD	11376
 PSSO Plano de Saúde	11413
-Plano	13,1264,861,90,1990,1445,701,1302,3106,589,10,1,4,14,16,6,1,29,10,4,71,15,5,13,4,5,329,3482,11,144,237,194,90,125,140
-Plano Anual	2613,8839
+Plano	13,1264,861,90,1990,1445,701,1302,3106,589,10,1,4,14,16,6,1,29,10,4,71,15,5,13,4,5,329,3482,11,135,9,237,140,54,90,125,140
+Plano Anual	2613,8839,4074
 Plano Anual da Formação	11361
 Plano Anual de Aquisições	16056
 Plano Anual de Atividades	15535
@@ -78,21 +81,22 @@ Plano Director Smart Rwanda	11461
 Plano Director de Formação	11444
 Plano Director de Recuperação	11396,1
 Plano Diretor	15892,167,134
+Plano Diretor de Tecnologia da Informação	15912
 Plano EAS	11413
 Plano Económico	4129,8660,7
-Plano Estratégico	167,3439,1,849,6316,607,11,2,51,9,74,17,1234,3147
+Plano Estratégico	167,3439,1,849,6316,607,11,2,51,9,74,17,1234,2749
 Plano Estratégico Existem	11379
 Plano Estratégico Nacional	7707
 Plano Estratégico Nacional da Pessoa Idosa	15966
+Plano Estratégico Plurianual	15912
 Plano Estratégico da Inspecção-Geral da Administração	11452
 Plano Estratégico da Pessoa Idosa	15966
 Plano Estratégico da Sociedade de Informação	2816
 Plano Estratégico da UEM	9694
 Plano Estratégico da WATRA	11531
 Plano Estratégico de Desenvolvimento PEDS Sustentável	11855
-Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081,3511,15,35,6,3,149,240,59
+Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081,3511,15,35,6,3,149,299
 Plano Estratégico de Desenvolvimento Sustentável II	15684,5
-Plano Estratégico de Desenvolvimento Sustentável. Com	15526
 Plano Estratégico de Desenvolvimento da Polícia Nacional	11392
 Plano Estratégico de Mobilização de Apoio Climático	15962
 Plano Estratégico de Universalização	10772
@@ -102,7 +106,8 @@ Plano Multirriscos	15966
 Plano Multissetorial	15966
 Plano Multissetorial Integrado	15966
 Plano Multissetorial de Doenças Crónicas Não Transmissíveis	15966
-Plano Nacional	15962
+Plano Nacional	15526,436
+Plano Nacional Não	15694
 Plano Nacional RAM	15966
 Plano Nacional da Arquitectura Global	11371,8
 Plano Nacional de Ação	11376
@@ -111,15 +116,18 @@ Plano Nacional de Banda Larga	11529
 Plano Nacional de Banda Larga da Nigéria	11569
 Plano Nacional de Capacitação	1948,14014,60
 Plano Nacional de Comunicação de Risco	15966
-Plano Nacional de Cuidados	1948,9907,3839
+Plano Nacional de Contabilidade Pública	15526
+Plano Nacional de Cuidados	1948,9907
 Plano Nacional de Desenvolvimento	438,10322,17,613,179
 Plano Nacional de Desenvolvimento Sanitário	10760,17,766,17
 Plano Nacional de Desenvolvimento TIC	11387
 Plano Nacional de Desenvolvimento de Angola	11455
 Plano Nacional de Digitalização Portuária	8729
 Plano Nacional de Educação Financeira	16579
+Plano Nacional de Emprego	15526
 Plano Nacional de Formação Médica Graduada	16019
 Plano Nacional de Frequências	15,2851,8564
+Plano Nacional de Habitação	16138
 Plano Nacional de Numera	11518
 Plano Nacional de Numeração	15,11415,1
 Plano Nacional de Promoção da Saúde	15966
@@ -130,6 +138,7 @@ Plano Operacional. CONSELHO DE MINISTROS Resolução	12777
 Plano Quinquenal	4214
 Plano Sectorial	10783
 Plano Sectorial da Educação	11557
+Plano Tesouraria	15526
 Plano Testes	12021
 Plano Trianal	11557
 Plano de Acompanhamento Familiar	11855
@@ -147,10 +156,9 @@ Plano de Acção. Estes	12830
 Plano de Acção. Norma Ambiental	11542
 Plano de Apoio da China	11564
 Plano de Aquisição Anual	16056
-Plano de Atividades	1338,93,1,648,66,1,2316,1
+Plano de Atividades	1338,93,1,648,66,1,2316,1,11448
 Plano de Atividades Anual Orçamentado	11557
 Plano de Ação	11376,161,10,8,14,3864,102,37,122,61,211
-Plano de Ação Continental	15694
 Plano de Ação DB	15476
 Plano de Ação Fases	11569
 Plano de Ação Global Estratégico Horizonte	15476
@@ -165,6 +173,7 @@ Plano de Carreias	1268
 Plano de Carreiras	1265,683,14014
 Plano de Compromisso Ambiental	11406,136
 Plano de Conferência	11456
+Plano de Contas	15526
 Plano de Desenvolvimento	11569,3957
 Plano de Desenvolvimento Estratégico	11372
 Plano de Desenvolvimento Institucional	11411
@@ -192,6 +201,7 @@ Plano de Ordenamento da Orla Costeira	15388
 Plano de Preparação	11376
 Plano de Recuperação	15772
 Plano de Tarefas Essenciais	11365
+Plano de Tesouraria	15526
 Plano de Trabalho	11448,8,442
 Plano de Trabalho Bienal	11455
 Plano de Trabalho Detalhado	11444

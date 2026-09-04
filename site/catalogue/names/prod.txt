@@ -39,7 +39,6 @@ Acts Control and Production Service	10937
 Adaptive and Productive Social Safety Nets Project	15658
 Advisory Product Manager	5359
 Africa Crop Production	15838
-Africa GDP Gross Domestic Product TA	15924
 Africa's AI Productivity Gain	2957,7758
 African Petroleum Producers Organization	14202
 Afrique Centrale PIB Produit Intérieur Brut	16037
@@ -843,7 +842,7 @@ Proderip	10044
 Prodigi Connect and BrailleNote Reader	13198
 Prodigy	14534,5,58,12,11,15
 Prodigy C1	14480
-Prodigy Finance	10682
+Prodigy Finance	10682,6138
 Prodnik	12333
 Prodoc	10965
 Producción	1701,2508
@@ -1086,7 +1085,7 @@ Produto Empresa Online REPÚBLICA DE CABO	12021
 Produto Interno Bruto	795,1066,5130,2332,2039,180
 Produto Interno Bruto Provincial	11422
 Produtores Agro-pecuários de Angola	10769
-Produtores de Estatísticas Oficiais	15535
+Produtores de Estatísticas Oficiais	15450,85
 Produtos	2138,4324,4914,29,16,25,131,441,3458,490
 Produtos Estatísticos	11422
 Produtos Financeiros Dimensão	16122
@@ -1095,7 +1094,7 @@ Produtos Financeiros. Nota	16122
 Produtos Online	12021
 Produtos de Saúde	10188
 Produtos de TIC. Os	2816
-Produzir	7585,3198,665,1,7,7,4072,952
+Produzir	7585,3198,665,1,7,7,3987,76,9,952
 Produção	438,6133,4186,1,14,588,5,40,37,6,13,65,6,5,45,316,123,3483,31
 Produção Científica	11385
 Produção Tecnológica	11385
@@ -1129,6 +1128,7 @@ Proyecto de Producción	4209
 Proyecto de Producción de Programas Educativos	4209
 Public Electricity Production Company	11380
 Pyrethrum Flowers and Extract Production	2775
+PÚBLIC A Produção	15694
 Q2 QoQ YoY Production	11152
 QUALITÉ DES PRODUITS PHARMACEUTIQUES ET PRODUITS	13306
 Quantity and Value of Mineral Production	2775

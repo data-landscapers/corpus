@@ -160,7 +160,7 @@ Bolsa de Valores de Luanda	8260
 Borrowdale Liquid Owned Vacant Office	4896
 Botswana VAT	10023
 Botswana Vaccine Institute	12640
-Bourse Régionale des Valeurs Mobilières	15847
+Bourse Régionale des Valeurs Mobilières	15847,939
 Bourse de Valeurs Mobilières	11944
 Bourse des Valeurs	4887
 Bourse des Valeurs Mobilières	15999
@@ -229,6 +229,7 @@ CPM Valid	14671
 CRYSTAL VALUERS LIMITED Data Processor INST-816133153C0	7167
 CULTIVING NEW Validé Acceptée FRONTIER	998
 Cabo Verde Telecom Luís Vasconcelos Lopes	11955
+Cabo Verde’s VAT	15924
 Cadeia de Valor	11379
 Calculation of VAT Payable	12630
 Caleb Vanderpuye	4229
@@ -330,7 +331,6 @@ Current VAT Administration and Key Constraints	8670
 Current VAT Administration and Key Constraints VAT	8670
 Customs Valuation	11036
 Custódia de Valores Mobiliários	11933
-Cyrille Valence Ngouana Kengne	15924
 D D CIT and VAT	12500
 D The VAT	12500
 D- Value-added	5864
@@ -509,7 +509,6 @@ GBV and VAC	12977
 GDP VAT	12948
 GESTION ET CONSER VATION D’UN NUMERO	16651
 GESTODENE VALERATE D’ESTRADIOL	15930
-GRS Grievance Redress Service VAT	15924
 GSM FIXED ISP VAS C&I OTHERS	3862
 GUIDING PRINCIPLES Values	15679
 Gain of VAT	14674
@@ -1164,6 +1163,7 @@ Silicon Valley. Elle	11673
 Silicon Valley. Princeton University Press. Shrishak	11050
 Silicon Valley’s Big Tech	11050
 Silicone Valley	12231
+Simplifying the VAT	15924
 Sinai Valter Mapoissa Technician Technician General	2989
 Sir Harilal Vaghjee Memorial Hall	14796
 Sir Varde	12478
@@ -1437,6 +1437,7 @@ VAT Administration Act	11252
 VAT C-Efficiency	13624
 VAT C-efficiency	10997
 VAT CIT	14897
+VAT Code	15924
 VAT Documentation	12630
 VAT Domestic	12500
 VAT EIDMS Regulations	14932
@@ -1532,7 +1533,6 @@ VISION AND VALUES	13097
 VISION AND VALUES Mission	13097
 VPN Virtual Private Network VRF Variable	13185
 VRB Valuers Registration Board VTC Vocational	2775
-VRE Variable Renewable Energy IBRD International	15924
 VRE Variable Renewable Energy ZDER Renewable	15983
 Va-t-on	14425
 Va5M78l35fLt7xvmGQ2z	5800
@@ -1617,6 +1617,7 @@ Vacuum-desiccation RS	15027
 Vadim QUIRIN	2697
 Vaduz	8896
 VaeazAKFHWq0v8WrKw1T	4554
+Vaesrsdeegur	15694
 VagMxDHAe5VrxdGnj72H	9615
 Vaganova	10780
 Vagas	11391
@@ -1845,7 +1846,7 @@ Vally Padayachee	12521
 Vallée	14847,1190
 Vallée des Pretres Ministry of Local Government	14746
 Valor	539,205,2122,2596,5293,2,9,2,15,577,27,74,6,65,23,346,117,3362,11,5,626,354
-Valor Acrescentado	4203,7815,3378,359,267
+Valor Acrescentado	4203,7815,3378,130,229,267
 Valor Acrescentado Bruto	3421,168,5186
 Valor Añadido	4209
 Valor Base Incidência	12018

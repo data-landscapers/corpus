@@ -188,6 +188,7 @@ Harbaksh Singh Jandu Data Controller	7167
 Harish Singh	6948
 Harish Singh Thapa	6948
 Health District of Sinfra	16329
+Hong Kong and Singapore	16785,13
 ICT Policy National Broadband Strategy Singapore	11529
 IGAD Single Visa Initiative	14039
 INFRACOM. SING SA	15447
@@ -319,6 +320,7 @@ RESPONSABLE DE TRAITEMENT Mont Sinaï Sarl	10821
 RTGS Real-Time Gross Settlement SDM Single	1264
 RTVGE. Sin	11672
 Ranjit Singh	4253
+Red Sea and Sinai	16808
 Rede Media Tensão Nova Sintra	15892
 Reference Sinnenberg	8436
 Reference TSA Treasury Single Account TTCe	15661
@@ -406,9 +408,9 @@ Sierra Leone Singapore Slovakia Slovenia Solomon	11765
 Sin and Muthu	9128
 Sinaba	14859
 Sinagoge	13046
-Sinai	5426,10047,354
+Sinai	5426,10047,354,981
 Sinai Development Authority	15473
-Sinai Peninsula	15473,131
+Sinai Peninsula	15473,131,1204
 Sinai Valter Mapoissa Technician Technician General	2989
 Sinai for Human Rights	11079
 Sinais	12019
@@ -531,7 +533,7 @@ Singh S	771
 Singhasivanon P	15411
 Singida	6728,7872
 Singita	8857
-Single	714,17,488,45,897,3065,439,1059,110,87,435,1205,1,43,462,56,1595,219,332,24,2,301,259,2,129,165,64,144,44,10,83,825,1,28,1091,180,157,31,6,241,108,247,60
+Single	714,17,488,45,897,3065,439,1059,110,87,435,1205,1,43,462,56,1595,219,332,24,2,301,259,2,129,165,64,144,44,10,83,825,1,28,1091,180,157,31,6,241,108,247,60,1297
 Single Actor Can Close	10015
 Single Administrative Document	7512,5530,2024
 Single Administrative Documents	15066
@@ -587,7 +589,7 @@ Single Phase Delay	13524
 Single Point of Access	12389
 Single Point of Decision Making	12389
 Single Point of Payment	12389
-Single Portal	11965,43
+Single Portal	11965,43,3916
 Single Portal Digital Services Team Report	11965
 Single Portal and DPI	12008
 Single Priority	13938

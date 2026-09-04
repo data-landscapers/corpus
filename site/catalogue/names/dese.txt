@@ -40,7 +40,9 @@ Combat Desertification UNCCD United Nations Framework	15129
 Comunidade de Desenvolvimento	5974,2880,142,1087,1367
 Conferência Mundial de Desenvolvimento	11531
 Conselho Nacional de Desenvolvimento	15526
+Conselho de Desenvolvimento	15526
 Conselhos Locais de Desenvolvimento Comunitário	16487
+DD063061-D0E2-4804-8778-73FA945E4D17 Desenvolvimento	15694
 DE CONSULTORIA PARA DESENVOLVER UM SISTEMA	10769
 DESENHO DA AMOSTRA Para	10777
 DESENVOLVA Disfrute	16030
@@ -70,14 +72,14 @@ Desejo	10777
 Desemba	2718,1669,2863
 Desember	11199,2
 Desembolso	11390
-Desempenhar	11518,3841,730
+Desempenhar	11518,3841,167,563
 Desempenho	11547,4512
 Desempenho CICA Conselho de Igrejas Cristãs de Angola	11390
 Desempenho Esperado	11442
 Desempleados	1701
 Desemprego	11406
 Desencadear	11384,517
-Desenho	11367,77,4,121,4203
+Desenho	11367,77,4,121,4125,78
 Desenho AG	15772
 Desenho Analítico	15772
 Desenho Curricular	2816
@@ -89,14 +91,14 @@ Desenvolvedor	2816
 Desenvolvedor de Assistentes Virtuais. Segundo Xavier	2816
 Desenvolvedores	3519
 Desenvolvedores de IA	3519
-Desenvolver	1192,1624,1330,72,2244,2972,1320,29,577,16,5,1,14,1,46,1,4,1,2,5,113,332,3458,117,28,22,38,120,5,66,566
+Desenvolver	1192,1624,1330,72,2244,2972,1320,29,577,16,5,1,14,1,46,1,4,1,2,5,113,332,3458,117,28,22,38,120,5,5,61,157,409
 Desenvolver Angola	2821
 Desenvolver Plano de Trabalho	11448
 Desenvolver Programas de Formação	15684,5
 Desenvolvi	11527
 Desenvolvido	6837,2595
 Desenvolvido Por SP Media	9799
-Desenvolvimento	13,2,780,731,282,1008,50,653,173,814,514,1442,2774,24,174,711,175,427,8,5,9,14,546,33,3,11,9,5,15,25,10,1,1,9,5,70,4,1,11,1,12,7,4,3,140,146,43,123,180,576,17,36,2610,36,1,49,9,149,5,5,130,86,56,53,3,88,141,53,1,182
+Desenvolvimento	13,2,780,731,282,1008,50,653,173,814,514,1442,2774,24,174,711,175,427,8,5,9,14,546,33,3,11,9,5,15,25,10,1,1,9,5,70,4,1,11,1,12,7,4,3,140,146,43,123,180,576,17,36,2610,10,26,1,49,9,149,5,5,130,86,56,53,3,88,141,53,1,182
 Desenvolvimento Agrário	15554
 Desenvolvimento Agrícola	12034
 Desenvolvimento Comunitário	10763
@@ -122,13 +124,11 @@ Desenvolvimento POP Procedimentos Operacionais Padrão	11376
 Desenvolvimento RAM	2816
 Desenvolvimento Regional. Adicionalmente	11366
 Desenvolvimento Rural	11527,1250,2627
-Desenvolvimento Social	11108,4329,247,10,493
-Desenvolvimento Social Conselho Nacional	15694
+Desenvolvimento Social	11108,4329,247,10,444,49
 Desenvolvimento Sus	11527
 Desenvolvimento Sustentavel	1341,743,2330
 Desenvolvimento Sustentáveis. Fruto	1215
 Desenvolvimento Sustentável	2816,703,5741,2133,62,72,1282,2624,256,5,272,53
-Desenvolvimento Sustentável II	15924
 Desenvolvimento Sustentável RMPGB Rede	11557
 Desenvolvimento Sustentável. Cabo Verde	1948,14303
 Desenvolvimento Sustentável. Protegemos	1265
@@ -209,6 +209,7 @@ Estratégia Nacional de Desenvolvimento da Profissão Docente	11557
 Estratégia de Desenvolvimento Agrosilvopastoril	15433
 Estratégia de Desenvolvimento Estatístico	10757
 Estratégia de Desenvolvimento da Estatística	6619
+Estratégico de Desenvolvimento Sustentável	15526
 Estágio de Desenvolvimento	11396,1
 Estágios de Desenvolvimento	11396
 Export Credit Line for Banco de Desenvolvimento de Angola	144
@@ -224,7 +225,7 @@ II. Desenvolvimento	11440
 II. ESTRATÉGIAS DE DESENVOLVIMENTO DO PSE	11523
 III. Desenvolver	11440
 INAGE Desenvolve Sistema de Armazenamento de Arquivos	570
-INCLUSÃO E DESENVOLVIMENTO SOCIAL Forma	16138
+INCLUSÃO E DESENVOLVIMENTO SOCIAL Portaria Conjunta	16138
 INDICADORES DOS OBJECTIVOS DE DESENVOLVIMENTO SUSTENTÁVEL	10777
 INOVAÇÃO E DESENVOLVIMENTO	11397
 INSTITUTO DE DESENVOLVIMENTO LOCAL-FAS	11406
@@ -240,7 +241,7 @@ Kalahari Desert	3649,8968
 Leone We Deserve	4619
 MBITO DO DESENVOLVIMENTO DA AI EM	2816
 MBITO DO DESENVOLVIMENTO DA IA	2816
-Ministro. Subsecção IV Conselho Nacional de Desenvolvimento	15526
+MIOTH CMs Desenvolver Promoção da Estabelecimento	15694
 NGO Ajuda de Desenvolvimento de Povo	10784
 Nacional de Desenvolvimento	11569
 Namib Desert	5081
@@ -268,7 +269,7 @@ Objectivos de Desenvolvimento Sustentável OGE	11387
 Objectivos de Desenvolvimento Sustentável da ONU	2816
 Objectivos de Desenvolvimento Sustentável da ONU. Os	8996
 Objetivo de Desenvolvimento Sustentável. Disse	2671
-Objetivos de Desenvolvimento Sustentável	2816,7941,786,26,3963,162,272,518
+Objetivos de Desenvolvimento Sustentável	2816,7941,786,26,3963,434,518
 Objetivos de Desenvolvimento Sustentável da ONU. A AI	2816
 Organização DESENVOLVIMENTO DE SOLUÇÕES PLATAFORMAS	15476
 Os Objetivos de Desenvolvimento Sustentável	11547
@@ -279,9 +280,8 @@ PRINCIPAIS ACTIVIDADES DESENVOLVIDAS PELO GOVERNO	2816
 PROMOÇÃO E ACOMPANHAMENTO DO DESENVOLVIMENTO	11397
 Participants Desegregated	13418
 Plano Estratégico de Desenvolvimento PEDS Sustentável	11855
-Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081,3511,15,35,6,3,149,240,59
+Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081,3511,15,35,6,3,149,299
 Plano Estratégico de Desenvolvimento Sustentável II	15684,5
-Plano Estratégico de Desenvolvimento Sustentável. Com	15526
 Plano Estratégico de Desenvolvimento da Polícia Nacional	11392
 Plano Nacional de Desenvolvimento	438,10322,17,613,179
 Plano Nacional de Desenvolvimento Sanitário	10760,17,766,17
@@ -335,7 +335,6 @@ Sistema de Avaliação de Desempenho	11449
 Somali Deserves	11105
 State-Owned Desert Lands	15473
 Subsariana BAD Banco Africano de Desenvolvimento BCV	15535
-Subsecção V Conselho Nacional de Desenvolvimento	15526
 Subsídio de Desemprego	15486
 Século XXI PEDS Plano Estratégico de Desenvolvimento	15535
 Taxas de Fecundidade Desejada	10777

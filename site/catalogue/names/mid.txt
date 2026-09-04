@@ -75,7 +75,7 @@ EGDI High EGDI Middle EGDI Low	10840
 EHRs. Middle-income	12025
 East Asia Europe Latin Middle South	10977
 East Asia and Europe and Latin America Middle	10977
-Eastern and Middle Africa	10714
+Eastern and Middle Africa	10714,6108
 Education Nationale MID	14438
 Elementary and Middle	13960
 Elementary and Middle Levels	13960
@@ -254,6 +254,7 @@ Mid-Term Review No	13742,2694
 Mid-Term Review Project Development Objective Project	4653
 Mid-Term Review of Cooperation	13957
 Mid-Term Strategy Refresh	4528,7984
+Mid-Term and Terminal Evaluations	15845
 Mid-Term-Review	16638
 Mid-Tier Stability	6051
 Mid-Year	13055,67,1552
@@ -329,14 +330,15 @@ Middle EGDI M1	10840
 Middle EGDI M2	10840
 Middle EGDI M3	10840
 Middle EGDI MH	10840
-Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279,228,6,178,3,31,40,17,1,5,33,62,26,72,108,45,60,165,240,2,112,114,105,68,298,304
+Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279,228,6,178,3,31,40,17,1,5,33,62,26,72,108,45,60,165,240,2,112,114,105,68,298,304,60
+Middle East Africa	16799
 Middle East Conflict	11285
 Middle East Democracy Center	15926
 Middle East Europe	11922
 Middle East Financial Technology Providers	14897
 Middle East Peace Process	11185
 Middle East War	11134,2551
-Middle East and Africa	1741,569,427,876,1052,56,251,392,164,272,671,261,1488,1,1,255,114,237,266,802,446,350,266,350,188,209,72,378,2210,26,511,172,639,12
+Middle East and Africa	1741,569,427,876,1052,56,251,392,164,272,671,261,1488,1,1,255,114,237,266,802,446,350,266,350,188,209,72,378,2210,26,511,172,639,12,1087
 Middle East and Africa Pharmaceutical	15725
 Middle East and Africa. Participating	16131
 Middle East and Africa. Singapore	10342
@@ -380,6 +382,7 @@ Middle East. IPT	344
 Middle East. Jumia	9984
 Middle East. Ongoing	11136
 Middle East. Regional	7815
+Middle East. The Company	16776
 Middle East. The EBRD	4650,13
 Middle East. The Group	8125
 Middle East. Today	7489

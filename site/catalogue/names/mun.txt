@@ -80,7 +80,7 @@ COVID-19. La Organización Mundial de Comercio	15478
 Cabo Verde A Organização Mundial da Saúde	16484
 Calabar Municipality	8520
 Calvin Habasonda and Oswald Mungule	13532
-Camaras Municipais	15437
+Camaras Municipais	15437,257
 Caminhos Municipais	15380
 Cape Coast for Municipal Assemblies	16524
 Cape Town's Municipal Planning Tribunal	8915
@@ -128,7 +128,7 @@ Câmara Municipal Ratificando	16290
 Câmara Municipal da Boa Vista	16380
 Câmara Municipal da Praia	16181
 Câmara Municipal de São Vicente	11108
-Câmaras Municipais	1265,683,9580,3909,39,522,24,465
+Câmaras Municipais	1265,683,9580,3909,39,218,304,24,116,349
 Câmaras Municipais. Uma	1265
 Código de Posturas da Câmara Municipal de Bissau	11537
 Cúpula Mundial	11393
@@ -337,8 +337,8 @@ Munich	998,4702,5146,1497
 Munich Re	11310
 Munich-based	8342
 Munich. Schneider	2093
-Municipais	10754,667,1,24,131
-Municipal	789,1019,180,960,5065,260,642,1836,32,465,738,87,128,32,117,2007,363,18,8,251,476,240,286,164,56,57,338
+Municipais	10754,667,1,24,131,4117
+Municipal	789,1019,180,960,5065,260,642,1836,32,465,738,87,128,32,117,2007,363,18,8,251,476,240,132,154,164,56,57,338
 Municipal Adjustment Program	16614
 Municipal Adjustment Programs	16614
 Municipal Assemblies	16163,361
@@ -354,6 +354,7 @@ Municipal City Council and Town Council Election	14760
 Municipal City Council of Port Louis	14746,28
 Municipal City Council of Port Louis Construction	14746
 Municipal City Council of Port Louis Municipal	14746
+Municipal Collaborate	15845
 Municipal Contract	16614
 Municipal Contract for Conakry	16614
 Municipal Contracts	16614
@@ -452,7 +453,7 @@ Município	4044,7322,7,36,12,25,131,324,3479,8
 Município Cor da Placa	11373
 Município Entre	4044
 Município de Pequim	11045
-Municípios	1808,8964,3,598,36,105,63,324,3487,52,36,446,78,22,465
+Municípios	1808,8964,3,598,36,105,63,324,3487,52,10,26,446,78,22,465
 Municípios Aos	11527
 Municípios Cabo-verdianos	15535
 Municípios Homens Mulheres Bengo	4044
@@ -536,7 +537,7 @@ Objecto O Plano Director Municipal de São	15380
 Oficiais de Municipal da Polícia Nacional	10751
 Organización Mundial	1701,6347
 Organización Mundial de Meteorología	1701
-Organização Mundial	11376,5,4052
+Organização Mundial	11376,5,4052,93
 Organização Mundial da Saúde	7342,3438,596,83,118,10,4432
 Organização Mundial da Saúde Angola Estrada Direita	10776
 Organização Mundial da Saúde OMS Angola	10776
@@ -553,6 +554,7 @@ POPULATION BY MUNICIPALITY Data	10763
 POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO	4044
 POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO Quadro	4044
 PROCESSES Municipal Budgets	11231
+PacraDpedsasosasCcâommaras Municipais	15694
 Parceria Mundial	11557
 Patrick Mundua	10066
 Patrick Munsami	9902

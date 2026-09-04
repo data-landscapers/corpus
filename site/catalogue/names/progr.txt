@@ -296,7 +296,6 @@ B. Program Description	11905
 BACKBONE PROGRAM	15372,139
 BAGUANT Nandeshwar Kishun Lead Programme	14770
 BASIC INFORMATION Financing Instrument Adaptable Program	15424
-BASIC INFORMATION Operation ID Programmatic	15924
 BCMS Programmation	10858
 BEAC and ProgressSoft Reach	10022
 BEAM Programme	13420
@@ -335,6 +334,7 @@ Big Push Infrastructure Programme	7695
 Big Push Infrastructure Programme Mr	7695
 Big Push Programme	7695
 Bm Decibel-milliwatts DPP Democratic Progressive Party	14674
+Board Ghana Refugee Programme	15845
 Body Connectivity Programmes	12945
 Body ESWATINI EXPANDS SMART CITY PROGRAMME	13132
 Body Malawi Foundational Learning Program for Results	13058
@@ -422,7 +422,7 @@ COGTA Power Apps Skills Transfer Programme	14694
 COMMENTS PROGRAMMES	12971
 COMPACT PROGRESS REPORT	12717
 COMPACT PROGRESS REPORT SECOND CYCLE	16188
-COMPOSITE DEVELOPMENT PROGRAMMES	15796
+COMPOSITE DEVELOPMENT PROGRAMMES	15796,49
 CONFEMEN Educational System Analysis Program	15661
 CONSOLIDAR O PROGRAMA DE LITERACIA	11397
 CONSOLIDAÇÃO DO PROGRAMA DE CONECTIVIDADE POR	11397
@@ -436,7 +436,6 @@ CRS Trade Testing Programme	11685
 CSIS Africa Program	7588
 CSO Thematic Programme	970
 CUCI Programme	12978
-CVE Cabo Verdean Escudo PDO Program	15924
 CWV Programme	13462
 CYCLE INCUBATION PROGRAMM Maseru	12721
 Cabo Verde Connectivity Program	11863
@@ -595,6 +594,7 @@ Continue Programme de PTA	10876
 Continuous In Progress Finance	10870
 Contributing Partners Program	6153
 Cooperation Programme Training	12972
+Cooperative Reform and Revamp Programme	16796
 Coordinated Digital and Future Skills Programme	11230
 Coordinated Programme of Economic and Social Development	582
 Coordinated the Digital and Future Skills Programme	11230
@@ -749,6 +749,7 @@ Develop Program Framework	12675
 Develop the Cybersecurity Awareness Program	12971
 Develop the Programme Project	12448
 Developed the Disaster Management Programme Programme	11230
+Developmen TIME FRAME COST Programme Implementing	15845
 Development Goals SFP School Feeding Programme	12964
 Development Objective The Program for Results Development	16032
 Development PPSD Social Income for Inclusion Program	11855
@@ -789,12 +790,14 @@ Digital Ambassadors Programme DigComp	14915
 Digital Ambassadors Skills Training Programme	2256
 Digital Cabo Verde Program	15491
 Digital Capacity Building Programme	13080,15
-Digital Champions Programme	11306
+Digital Champions Programme	11306,5469
+Digital Champions Programme and EduSpots	16775
 Digital Climate Transformation Program	13057
 Digital Culture Development Programs Digital Culture	15719
 Digital Economy Accelerator Programme	7172
 Digital Economy Programme	13382
 Digital Enablement Programmes	1236
+Digital Finance Programme	16778
 Digital Fitness Programme	13080,15
 Digital Futures Programme	10290
 Digital Futures Programme Inception Workshop	10290
@@ -935,6 +938,7 @@ EEIP Programme	5808
 EETP Programme Development Objective	13999
 EF A REPUBLIQU& SECRETA Programme	15999
 EHR Implementation Progress	12508
+ELECTRA and CVA. Progress	15924
 ELECTRICITY SECTOR REFORM PROGRESS Q3 REPORT	11236
 ENQUADRAMENTO PROGRAMÁTICO	3519
 EPI Program	977
@@ -1073,6 +1077,7 @@ Establish Government Training Programs	12675
 Establish Integrated Soil Health Programmes	14818
 Establish National Tech Labs Program	1204
 Establish Train-the-Trainer Program	1204
+Estatutos. Programa	15912
 Estrategia Programas	1701
 Eswatini National General Education Progress Report	1358
 Eswatini Youth Empowerment Programme	9197,108,1829,1278
@@ -1114,6 +1119,7 @@ Executive Director of Ethiopia's National ID Program	14095
 Executive Director of Ethiopia's National Identity Program	6147
 Executive Director of Ethiopia’s National ID Program	5966
 Executive Leadership Development Programme	11131,3
+Executive Programme	16815
 Expanded Program	5225,3151,4600
 Expanded Program of Vaccination	11401
 Expanded Programme	3707,4669,3025,1795,841,886,802
@@ -1327,7 +1333,7 @@ Governance Programming Overseas	15342
 Government Action Programme	10856
 Government Enterprise and Empowerment Programme	5267
 Government Experience Exchange Program	13421
-Government Program	12176,1762,1073,579,334
+Government Program	12176,1762,1073,579
 Government Program Cabo Verde's Strategic Plan	11863
 Government Programme	1912,451,9173,3030,157,3,16,5,1,3,1,20,1,6,7,4,17,12,1,9,6
 Government Programme of Action	13123
@@ -1445,7 +1451,6 @@ ID PROGRAM Contents Overview	12257
 ID PROGRAM ENHANCED PROTECTION AND SOLUTIONS	12257
 ID PROGRAM Overview Refugees	12257
 ID4D Program	10775
-IDA PROGRAM DOCUMENT FOR A PROPOSED	15924
 IDA Program Financing	15693
 IDEA Program	1704,1008
 IDEA Programme	7261,702,1032,187,4058
@@ -1643,6 +1648,7 @@ Joint United Nations Programme	10759,76,2,1,130,902,16,3,451,12,1,135,435,16,136
 Journal de Programmation des Marchés	10975
 Jowhar Off-stream Storage Programme	15129
 Jowhar Offstream Storage Programme	15129
+Jumuishi Programme	16777
 Jun-26 In Progress-On Track N	16188
 Junior Achievement Financial Literacy Program Ka	11134
 Justice Programme	12985
@@ -1684,6 +1690,8 @@ L'Unité Opérationnelle de Programme	15569
 LE CONTENU DES PROGRAMMES DE FORMATION	15933
 LE PROGRAMME D'ACCELERATION DE LA TRANSFORMATION	2695
 LEAP Programme	15859,394
+LEAPS Executive Programme	16815
+LEAPS Programme	16815
 LESP Program Officer	10345
 LIFT Programme	13998
 LIT2 LIT3 Não EST-ADM7 Programa	15532
@@ -1728,7 +1736,6 @@ Le Programme des Nations-Unies	8895
 Le Responsable de Programme	15569
 Lead Analyst Programmer	12961,76
 Lead Analyst Programmer Mandatory Requirement Compliant	13037
-Lead Country Economist and Program Leader	15924
 Leaders Connect Programme	7030
 Leadership Mindset Programme	11131
 Learn and Progress	15059
@@ -2162,6 +2169,7 @@ Nigeria Innovation Programme	567
 Nigeria Jubilee Fellows Programme	10160
 Nigeria National Social Safety Net Program-Scale	790
 Nigeria Programme	11314
+Nigeria's Cooperative Digital Transformation Programme	16796
 Nigeria’s Uneven Progress Nigeria	9206
 Nile Equatorial Lakes Subsidiary Action Programme	12358
 Nkwe Program	12977
@@ -2271,7 +2279,6 @@ PHASE II PROGRAMME ID No	16219
 PIECEAC Programme	16037
 PILIER III PROGRESSER VERS L'ACCES UNIVERSEL	15799
 PIP Programme	15580
-PIP Public Investment Program DNRE National	15924
 PIP Public Investment Programme PMS Performance	12970
 PIU Program Development Objective PPSD Program-for-Results	11905
 PM Programme	3396
@@ -2295,7 +2302,7 @@ PREF-CEMAC Economic and Financial Reform Program	15659
 PRESS RELEASE National ID Program Reestablished	8971
 PREVENTIVE CAPABILITY PROGRAM	1000
 PRIMARY INDICATORS OF GLOBAL PROGRESS TOWARD	11572
-PROGRAM	2709,13215,690
+PROGRAM	2709,13905
 PROGRAM ACTION PLAN	11905,4127
 PROGRAM ACTION PLAN PAP CHANGE TBL Action Description	16032
 PROGRAM AND SUB-PROGRAM	1756,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,3764,1,1,1,1,1,1,1,1
@@ -2432,6 +2439,7 @@ Planning and Programming Department	1824
 Platform Support Program	13462
 Platform for Progress	14723
 Pobreza PIPGR Programa de Inclusão Produtiva	11390
+Police Programme	15845
 Police Reform Support Program	11974
 Policies and Programs	14723
 Policy and Programs	12329
@@ -2495,6 +2503,7 @@ Professional Certifications Program	14999
 Professional Programmes	11131
 Professional Training Program RAIO	1204
 Progr6s	15497
+ProgrFaomnateN	15694
 Program	602,367,235,80,78,342,120,43,47,340,37,43,143,73,162,69,185,39,548,51,117,131,184,145,120,237,79,71,705,47,126,17,87,103,102,413,49,202,40,253,96,6,133,142,217,92,72,287,618,443,84,57,211,482,505,486,2,3,7,5,39,3,6,1,27,14,93,1,21,148,2,137,123,22,52,56,35,295,8,4,38,1,10,7,16,26,6,17,6,157,25,5,5,28,174,124,22,129,3,312,49,31,273,1,130,26,32,221,15,164,84,542,30,27,71,177,61,23,2,21,18,4,49,2,3,96,29,26,187,181,25,23,20,42,34,16,22,2,15,258,3,19,47,65,43,197,52,7,262
 Program A. Actions Taken Under the Program	13756
 Program ANACM National Agency of Civil Aviation	13729
@@ -2525,7 +2534,7 @@ Program Data	6423
 Program Description	12176
 Program Design	3604
 Program Design Effectiveness Risk Internal Audit	3604
-Program Development Objective	2712,892,2935,40,4291,547,488,3254,576,189
+Program Development Objective	2712,892,2935,40,4291,547,488,3254,576
 Program Development Objective PSC Project Steering	6539
 Program Director	3608,822
 Program Director Makondo Mukando	6484
@@ -2668,7 +2677,7 @@ Program. Working Paper	15663
 Program... Through	8937
 Program.35 Table	11905
 Program.50 The PCU	3604
-Programa	758,507,74,1,1,1,359,107,140,106,27,2,1,5,43,1047,488,226,316,202,2,1,5,35,1,1,185,371,4,86,782,307,3069,1038,449,8,22,6,578,10,5,2,27,1,20,15,72,18,31,4,3,329,142,747,2571,45,73,2,48,6,32,120,10,61,69,172,26,45,22,130,106,51,152
+Programa	758,507,74,1,1,1,359,107,140,106,27,2,1,5,43,1047,488,226,316,202,2,1,5,35,1,1,185,371,4,86,782,307,3069,1038,449,8,22,6,578,10,5,2,27,1,20,15,72,18,31,4,3,329,142,747,2571,45,47,26,2,48,6,32,120,10,61,69,172,26,45,22,130,106,51,152
 Programa Africano	9539,1998
 Programa Africano Acelerado	11537
 Programa Alargado de Retoma Desportiva Nacional	15532
@@ -2697,7 +2706,6 @@ Programa Kwenda	11482
 Programa Nacional	4209,11224
 Programa Nacional de Alimentação Escolar	11482
 Programa Nacional de Avaliação da Conformidade	11381
-Programa Nacional de Conciliação	15694
 Programa Nacional de Control de Epizootias	4209
 Programa Nacional de Controlo	10188
 Programa Nacional de Formação de Agentes Locais	1770,12430
@@ -2764,6 +2772,7 @@ Programa de Gestão	15380
 Programa de Governação	10783
 Programa de Governação Eletrónica	5443
 Programa de Governo	11462,107,3995,8,122,793
+Programa de Governo Desafios	15694
 Programa de Governo IX Leg	15532
 Programa de Inclusão Digital de Acesso Universal	11440,1,1
 Programa de Iniciação Científica Tutelada	15910
@@ -2841,7 +2850,7 @@ Programmation Financière	10874
 Programmation Militaire MM Mali-Mètre NSP Ne	6959
 Programmation des Ressources	14580
 Programmation du Développement	6578
-Programme	12,14,1,1,64,37,127,6,202,59,120,6,88,48,4,50,22,38,101,85,43,28,33,108,22,1,1,42,98,67,73,6,1,1,3,136,7,30,2,8,19,4,156,69,1,1,1,30,132,110,24,58,295,80,100,15,6,1,1,3,65,53,26,112,18,27,2,4,51,67,12,51,7,128,80,34,44,285,110,49,194,1,1,1,40,33,1,1,8,78,18,227,373,79,1,1,1,395,81,29,351,195,79,27,87,1,1,1,44,73,30,281,8,1,14,73,128,2,4,75,52,42,3,113,174,34,70,143,17,73,108,79,116,69,12,47,34,118,78,63,13,175,94,11,93,67,55,243,64,88,121,4,31,208,27,52,112,87,3,133,251,52,119,100,43,1,9,4,5,2,60,6,1,22,10,5,5,146,2,1,22,4,28,10,20,6,4,2,18,2,11,11,13,3,44,193,11,16,34,163,119,22,15,8,41,27,5,255,132,48,23,285,90,92,40,11,8,8,4,2,40,18,7,59,14,79,41,49,21,2,11,6,7,3,8,28,51,5,9,18,1,1,43,20,6,16,88,16,38,56,15,21,406,56,72,86,18,52,1,16,1,1,47,12,11,49,13,36,15,45,3,17,4,6,10,15,2,55,5,69,21,2,18,94,47,78,83,46,122,8,37,7,7,1,3,1,10,4,7,15,24,3,26,1,6,5,3,8,8,40,4,18,9,3,12,5,22,8,2,2,1,16,3,13,1,25,18,16,31,11,5,1,8,28,7,25,3,25,4,34,19,18,1,47,42,24,25,12,22,10,6,5,20,3,57,17,8,32,4,13,3,43,6,18,32,120,1,3,2,15,4,3,47,16,25,14,3
+Programme	12,14,1,1,64,37,127,6,202,59,120,6,88,48,4,50,22,38,101,85,43,28,33,108,22,1,1,42,98,67,73,6,1,1,3,136,7,30,2,8,19,4,156,69,1,1,1,30,132,110,24,58,295,80,100,15,6,1,1,3,65,53,26,112,18,27,2,4,51,67,12,51,7,128,80,34,44,285,110,49,194,1,1,1,40,33,1,1,8,78,18,227,373,79,1,1,1,395,81,29,351,195,79,27,87,1,1,1,44,73,30,281,8,1,14,73,128,2,4,75,52,42,3,113,174,34,70,143,17,73,108,79,116,69,12,47,34,118,78,63,13,175,94,11,93,67,55,243,64,88,121,4,31,208,27,52,112,87,3,133,251,52,119,100,43,1,9,4,5,2,60,6,1,22,10,5,5,146,2,1,22,4,28,10,20,6,4,2,18,2,11,11,13,3,44,193,11,16,34,163,119,22,15,8,41,27,5,255,132,48,23,285,90,92,40,11,8,8,4,2,40,18,7,59,14,79,41,49,21,2,11,6,7,3,8,28,51,5,9,18,1,1,43,20,6,16,88,16,38,56,15,21,406,56,72,86,18,52,1,16,1,1,47,12,11,49,13,36,15,45,3,17,4,6,10,15,2,55,5,69,21,2,18,94,47,78,83,46,122,8,37,7,7,1,3,1,10,4,7,15,24,3,26,1,6,5,3,8,8,40,4,18,9,3,12,5,22,8,2,2,1,16,3,13,1,25,18,16,28,3,11,5,1,8,28,7,25,3,25,4,34,19,18,1,47,42,24,25,12,22,10,6,5,20,3,57,17,8,32,4,13,3,43,6,18,32,120,1,3,2,15,4,3,47,16,25,14,3
 Programme ACCESS CAIDP	3340
 Programme AIA Appropriation In Aid AIDS	2775
 Programme Africain	15599
@@ -2875,9 +2884,12 @@ Programme Compétences	10925
 Programme Consultation Process	14000
 Programme Coordination Unit	6400
 Programme Coordinator	7709
+Programme Cost	15845
+Programme Costing	15845
 Programme Courses Staff Trained	6946
 Programme DBBA	7660
 Programme DHS	13300
+Programme Description	15845
 Programme Design	14000,2253
 Programme Details Programme	11314
 Programme Development Officer	10112
@@ -2904,6 +2916,7 @@ Programme Evaluation and Auditing UN Women United	11193
 Programme Expenditure	11218
 Programme FAEN	15847
 Programme Figure	11228
+Programme Financing	15845
 Programme Findings The BEAM	13420
 Programme Four	11986
 Programme Four. Targets	11272
@@ -2991,6 +3004,7 @@ Programme Pluri Annuel	15475
 Programme Pluriannuel	15848
 Programme Policy Officer for Cash-Based Transfers	16526
 Programme Prioritaire	8821,6721
+Programme Programme Social Economic Natural	15845
 Programme Progress National	10856
 Programme Progress Smart Gouv	10856
 Programme Protection	15428
@@ -3109,8 +3123,9 @@ Programme for International Students Assessment	13477
 Programme for Results	10876
 Programme for Rural Irrigation Development	13060
 Programme for Youth and Women	11283
-Programme of Action	11283,4513
+Programme of Action	11283,4513,49
 Programme of Action Programme of Action Achi	11224
+Programme of Action The Programme of Action	15845
 Programme of Action and Annual Action Plans	15845
 Programme of Action for Resilient Water Supply	13752
 Programme of Action’s ICT	5015
@@ -3205,7 +3220,7 @@ Progres	14540,866
 Progresar	1701
 Progresión	1701
 Progresos	1701
-Progress	789,181,273,21,20,90,180,216,4,54,39,121,105,533,214,36,72,57,259,319,374,90,154,178,9,395,499,268,863,61,65,129,536,17,11,14,68,146,88,215,27,118,117,574,1,2,334,101,91,17,1043,463,63,49,8,14,27,17,27,36,78,33,1,130,4,16,43,1,33,5,12,49,1,119,146,9,14,10,258,12,24,45,5,24,1,21,8,214,6,27,8,1,47,59,2,41,22,23,162,68,43,7,188,53,11,4,100,2,40,1,191,106,39,148,17,67,174,24,27,4,49,1,44,8,16,94,6,11,1,73,343,179,22,6,46,77,27,2,10,12,50,22,12,5,23,31,58,8,4,4,26,328,50,36,17,8,29,3,2,30,32,27,6,24,119,23,45,14,49,1,111,43,1,53,2,17,138,256,51
+Progress	789,181,273,21,20,90,180,216,4,54,39,121,105,533,214,36,72,57,259,319,374,90,154,178,9,395,499,268,863,61,65,129,536,17,11,14,68,146,88,215,27,118,117,574,1,2,334,101,91,17,1043,463,63,49,8,14,27,17,27,36,78,33,1,130,4,16,43,1,33,5,12,49,1,119,146,9,14,10,258,12,24,45,5,24,1,21,8,214,6,27,8,1,47,59,2,41,22,23,162,68,43,7,188,53,11,4,100,2,40,1,191,106,39,148,17,67,174,24,27,4,49,1,44,8,16,94,6,11,1,73,343,179,22,6,46,77,27,2,10,12,50,22,12,5,23,31,58,8,4,4,26,328,50,36,17,8,29,3,2,30,32,27,6,24,119,68,14,49,1,111,43,1,53,2,17,138,256,51,117
 Progress Begins When We Stop Excusing	4942,664,283,454,183
 Progress Capital Stocks	236
 Progress Current	1802,10382
@@ -3325,6 +3340,7 @@ Public Expenditure and Financial Accountability Program	11866
 Public Financial Management PIMI Program	11560
 Public Financial Management PPCU Public Programme	12962
 Public Investment Programme	3846,1,2847
+Public Investment Programs	15924
 Public Sector AI Programmes	14786
 Public Sector AI Transformation Programme	7548
 Public Sector Governance Programme	4236
@@ -3350,6 +3366,7 @@ Quality Management Programme	12976
 Quantitative Report. Regional Program Working Paper	15663
 Quarterly Programme Progress Reports	11857
 Quarterly Progress Report	11851,390
+Quarterly and Annual Progress Reports	15845
 Quatrième Phase du Programme Régional	743
 Questioning the Foundations of Progress Perhaps	12249
 Quotation RISDP Regional Indicative Strategic Programme	12975
@@ -3524,7 +3541,6 @@ SMARTCARE PRO PROGRAM MANAGERS PRESENTATION Presenter	2477
 SME Development Support Programme	10980
 SMEs Enhanced Through the Xport Accelerator Programme	11332
 SNFI Support Program	10967
-SOEs. Progress	15924
 SP Area Program Name Ministry	10985
 SPAR6C Programme	9393
 SPATIAL INTEGRATION AND HOUSING REFORM PROGRESS	11236
@@ -3539,7 +3555,6 @@ STRATEGIC OBJECTIVES AND PROGRAMS	1000
 STRATEGIC OBJECTIVES AND PROGRAMS Based	1000
 STRATEGIQUE ET LE CADRE PROGRAMMATIQUE	15583
 STRATÉGIQUE ET LE CADRE PROGRAMMATIQUE Au	15583
-SUMMARY OF PROPOSED FINANCING AND PROGRAM	15924
 SWAPO Party Manifesto Programme NQA	13033
 SWIFT Customer Security Programme	11131,3
 SYDONIA Program	16503
@@ -3608,7 +3623,7 @@ Senior Executive Service Program	9211
 Senior Health Programmes Officer	13224
 Senior Health Programmes Officer Endelina Uushona	13224
 Senior Leadership Programme	11131,3
-Senior Program Assistant	11136,4788
+Senior Program Assistant	11136
 Senior Program Assistant ICT Sector Unit	15372
 Senior Program Officer	12663
 Senior Programme Advisor	4046
@@ -3840,6 +3855,7 @@ Third Review Under the Staff-Monitored Program	3583
 Three-year Program	14897
 Through the Accelera Cloud Program	4144
 Through the Burkina Startup Program	15550
+Through the Digital Champions Programme	16775
 Through the GT Programme	11131
 Through the Global Disability Fund Programme	13219
 Through the Industrial Infrastructure Development Programme	12922
@@ -3863,6 +3879,7 @@ Title Deeds Validation and Securitisation Programme	13594
 Titling Programme	11954
 Todos Programa de Educação	10766
 Togo-Luxembourg Indicative Cooperation Program	7379
+Tourism Operational Program	15924
 Track Progress	12356
 Track and Measure the Progress of Implementation	958
 Tracking ICT Development Progress	12395
@@ -4140,6 +4157,7 @@ World Food Programme. Technical Report	10841
 World Programme of UNESCO	14774
 X Corp Monetisation Programmes	13462
 X Corp Monetisation Support Programme	13462
+X MINTER Police Programme	15845
 X Programa Nacional de Fomento	4209
 X Programme Résultats	3396
 X X Programmation	10858

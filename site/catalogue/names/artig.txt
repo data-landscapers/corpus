@@ -8,17 +8,18 @@ Abril. Artigo	5169,1293
 Administrador Executivo. Artigo	430
 Administração Pública Artigo	11461,3897
 Administração Pública. ARTIGO	12774
-Administração Pública. Artigo	15,15329,228,450
+Administração Pública. Artigo	15,15329,228,450,354
 Administração da Justiça. Artigo	6970
 Administração. ARTIGO	11461
 Agência Angolana de Protecção de Dados. Artigo	430
 Agência de Protecção de Dados. ARTIGO	539
 Agência de Protecção de Dados. Artigo	14,1,779
+Agências de Artigo	15526
 Angola. ARTIGO	3519
 Análise. Artigo	167
 Aquisições. Artigo	15755
 Artigle	13719
-Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508,3777,2,5,1,1,16,11,575,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,2,2,3,1,2,8,1,4,10,6,5,1,2,3,2,5,2,4,3,3,2,1,3,6,49,2,1,1,8,4,5,5,27,5,8,319,117,293,459,2,1,1,1,2,5,2,1,3,35,30,2491,14,1,21,5,6,1,4,8,29,7,37,26,1,5,17,6,40,117,5,61,200,64,3,34,33,33,97,157
+Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508,3777,2,5,1,1,16,11,575,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,2,2,3,1,2,8,1,4,10,6,5,1,2,3,2,5,2,4,3,3,2,1,3,6,49,2,1,1,8,4,5,5,27,5,8,319,117,293,459,2,1,1,1,2,5,2,1,3,35,30,2491,14,1,21,5,6,1,4,8,29,7,10,27,26,1,5,17,6,40,117,5,61,157,43,64,3,34,33,33,16,81,157
 Artigo Científico	11385
 Artigos	9799,1637,4041,217
 Artigos Medicos	4260
@@ -30,7 +31,9 @@ Auditorias Artigo	11461
 Autoridade Reguladora Nacional. ARTIGO	11520
 Aviso. ARTIGO	12853
 Aviso. Artigo	16122
+BCV. Artigo	15450
 BDRE. Artigo	15359
+Balanço. Artigo	15912
 Banco Artigo	16089
 Banco de Cabo Verde Artigo	15433
 Banco de Cabo Verde. Artigo	15433,7,649
@@ -41,9 +44,10 @@ Bases de Dados Artigo	6970
 Biblioteca. Artigo	15358
 Bilhete de Identidade. Artigo	12775
 CABO VERDE E INTERVENIENTES Artigo	15440
+CAPITULO I DISPOSIÇÕES GERAIS Artigo	16138
 CAPÍTULO I APROVAÇÃO DO ORÇAMENTO Artigo	16022
 CAPÍTULO I DISPOSIÇOES GERAIS ARTIGO	11518
-CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	13,739,14681,7,64,22,46,484,320
+CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	13,739,14681,7,64,68,484,320
 CAPÍTULO I DISPOSIÇÕES PRELIMINARES Artigo	11901
 CAPÍTULO I DISPOSiÇÕES GERAIS ARTIGO	11528
 CAPÍTULO I DOS PRINCÍPIOS GERAIS ARTIGO	11513
@@ -67,7 +71,7 @@ CAPÍTULO III REGIME SANCIONATÓRIO Artigo	15
 CAPÍTULO III RESOLUÇÃO DE CONFLITOS ARTIGO	11520
 CAPÍTULO III SIMPLIFICAÇÃO ADMINISTRATIVA Artigo	16376
 CAPÍTULO IV Cooperação Internacional Artigo	6970
-CAPÍTULO IV DISPOSIÇÕES FINAIS Artigo	744,14828
+CAPÍTULO IV DISPOSIÇÕES FINAIS Artigo	744,14828,566
 CAPÍTULO IV DOCUMENTOS DE IDENTIFICAÇÃO Artigo	16376
 CAPÍTULO IV ELEMENTOS DE PROVA Artigo	549
 CAPÍTULO IV FISCALIZAÇÃO E SANÇÕES Artigo	15504
@@ -76,7 +80,7 @@ CAPÍTULO IX SISTEMA FISCAL Artigo	16022
 CAPÍTULO V AUTARQUIAS LOCAIS Artigo	16022
 CAPÍTULO V COMUNICAÇÕES ELECTRÓNICAS Artigo	15
 CAPÍTULO V DISPOSIÇÕES COMUNS ARTIGO	11520
-CAPÍTULO V DISPOSIÇÕES FINAIS Artigo	14,15490
+CAPÍTULO V DISPOSIÇÕES FINAIS Artigo	14,15490,408
 CAPÍTULO V Estatística Artigo	12785
 CAPÍTULO V Fundo de Segurança Cibernética Artigo	6970
 CAPÍTULO V PESSOAL E ORGANIGRAMA Artigo	167
@@ -101,7 +105,9 @@ CNI. Artigo	15392
 CNIA. Artigo	12823
 CNPD. Artigo	15385
 CNR ARTIGO	11365
+CONCURSAL Artigo	16138
 CONTROLO E RESPONSABILIDADE Artigo	11461
+CSU. Artigo	16138
 Cabo Verde. Artigo	11901,3788
 Cadastro Predial. Artigo	11901
 Cadastro. Artigo	11901
@@ -122,6 +128,7 @@ Comissão Nacional de Proteção de Dados. Artigo	15504
 Comissão de Acompanhamento. Artigo	15572
 Comissões Técnicas de Normalização. ARTIGO	12782
 Competências ARTIGO	12782
+Composição Artigo	15526
 Comunicação Social Artigo	12311
 Comunicação Social. Artigo	12311
 Comunicação. Artigo	15,6955,5853
@@ -130,18 +137,23 @@ Comunidades. ARTIGO	11514
 Comércio Eletrónico Artigo	15477
 Concessão de Asilo ARTIGO	11365
 Condições de Processamento de Dados Pessoais Artigo	15477
+Condutores. Artigo	15526
+Conselho Diretivo Artigo	15912
+Conselho Diretivo. Artigo	15912
+Conselho Diretivo. Secção II Serviços Artigo	15912
 Conselho Fiscal. ARTIGOS	12783
 Conselho Superior da Magistratura Judicial. Artigo	14
 Conselho Superior de Estatística Artigo	12770
 Conselho de Administração da APD. Artigo	752
 Conselho de Administração da ARN. ARTIGO	11520
 Conselho de Administração. Artigo	13,154,15224,698
-Conselho de Ministros. Artigo	6970,5341,512,2749
+Conselho de Ministros. Artigo	6970,5341,512,2627,122
 Conselho. ARTIGO	11518
 Conselho. Artigo	167
 Constituição. ARTIGO	11513
 Constituição. Artigo	15344
 Contratos Públicos. Artigo	10783
+Criação Artigo	15450
 Criminal Artigo	12311
 Críticas Artigo	6970
 Código Civil. Artigo	11901
@@ -196,6 +208,7 @@ Direito CAPÍTULO I Disposições Gerais Artigo	6462
 Direitos ARTIGO	539
 Direitos Sobre Acessibilidade Artigo	12785
 Disposições Gerais Artigo	5169,7142,474
+E ATRIBUIÇÃO Artigo	16138
 E CONFIDENCIALIDADE Artigo	15
 E DE EXERCÍCIO DE CIDADANIA Artigo	15344
 E FINAIS Artigo	15433
@@ -218,14 +231,15 @@ Empresas Comerciais. CAPÍTULO IV Pessoal Artigo	15391
 Energia. Artigo	16056
 Entidade Licenciadora. ARTIGO	11458
 Equipa de Serviço Digital. Artigo	15755
-Estado Artigo	11461
+Estado Artigo	11461,4065
 Estado da Província. ARTIGO	12783
 Estado de Cabo Verde. Artigo	15358
 Estado. ARTIGO	11513,1,1260
-Estado. Artigo	13,1,2852,7917,1118,3443,15,21,11,141,223,334
+Estado. Artigo	13,1,2852,7917,1118,3443,15,21,11,141,223,334,49
 Estado. CAPÍTULO II DISCIPLINA ORÇAMENTAL Artigo	16056
 Estado. CAPÍTULO VII Disposições Finais Artigo	2866
 Estatuto Editorial. Artigo	12311
+Estatutos. Artigo	15912
 Estratégia PILLER. ARTIGO	11530
 Estratégia de Governação Digital. Artigo	15755
 FADCOM. Artigo	13
@@ -236,12 +250,11 @@ Federação Desportiva. Artigo	15532
 Fevereiro. Artigo	12772
 Finais Artigo	6970,5341
 Finanças CAPÍTULO I Disposições Gerais ARTIGO	12789
-Finanças. Artigo	11901
+Finanças. Artigo	11901,3625,386
 Fiscalização Artigo	11461
 Fogo. Artigo	15503
 Fomento Empresarial. Artigo	15526
 Forma Eletrónica Artigo	15477
-Formação Profissional Artigo	15526
 Formação. Artigo	167
 Forças Armadas. Artigo	14
 GARANTIAS E DEVERES FUNDAMENTAIS ARTIGO	11513
@@ -249,13 +262,13 @@ GERAIS ARTIGO	11519,8
 Gabinete Provincial da Saúde. ARTIGO	11445
 Generalidades ARTIGO	11365
 Gestor Público. Artigo	15391
-Gestão Artigo	15526
 Gestão de Activos Apreendidos. ARTIGO	12789
 Governação Digital. Artigo	15532
 Governo Digital Artigo	11461
 Governo Digital. ARTIGO	11461
 Governo. Artigo	12311,3080,13,685
 Gratuidade Artigo	6462
+Habitação. Artigo	16138
 Homem. ARTIGO	11513
 I DAS DISPOSIÇÕES GERAIS Artigo	15
 I DISPOSIÇÕES GERAIS ARTIGO	3519,8001
@@ -266,7 +279,8 @@ I PRINCÍPIOS FUNDAMENTAIS Artigo	15
 I PRINCÍPIOS GERAIS Artigo	11901
 I&D. Artigo	16022
 I. Artigo	16056
-I.P. Artigo	15532
+I.P. Artigo	15532,380
+I.P. CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	15912
 IA ARTIGO	3519
 IA CRÍTICA ARTIGO	3519
 IA SECÇÃO I DISPOSIÇÕES GERAIS ARTIGO	3519
@@ -311,13 +325,12 @@ Lei da Terra. ARTIGO	11527
 Lei da Videovigilância. Artigo	549,245
 Lei. ARTIGO	539,10922,67
 Lei. Artigo	549,2317,4104,5341,462,2623
-MFFE. Artigo	15526
 MODELO DE GOVERNAÇA DA IA ARTIGO	3519
 MPD Artigo	15477
 Maio. Artigo	15503
 Matéria Penal. Artigo	6970
+Metodologia Artigo	15694
 Ministro Artigo	15526
-Ministério Artigo	15526
 Ministério da Saúde. Artigo	15689
 Moçambique. Artigo	12311
 NICO Artigo	16376
@@ -330,6 +343,7 @@ Nuvem Artigo	6970
 Núcleo Nacional de Cibersegurança. Artigo	15504
 O Artigo	11436
 O Conselho Científico. Artigo	15503
+O Conselho Consultivo. Artigo	15912
 OBJETIVOS E TUTELA Artigo	11516
 ORIENTADORES Artigo	15
 OTC. Artigo	11901
@@ -348,6 +362,7 @@ PESSOAIS CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	14
 POLÍTICA DE RECURSOS HUMANOS Artigo	16056
 POR ENTIDADES PRIVADAS Artigo	11901
 POSIÇÃO SIGNIFICATIVA NO MERCADO ARTIGO	11519
+PREÇÁRIO Artigo	16376
 PRIVADO E COOPERATIVO Artigo	14
 PRIVATIVOS EM GERAL ARTIGO	11514
 PROCEDIMENTO DE CONSULTA PÚBLICA ARTIGO	11520
@@ -365,8 +380,8 @@ Poder Executivo. ARTIGO	539,10826,96
 Poder Executivo. Artigo	14,1,152,10616
 Polícia Criminal ARTIGO	539
 Polícia Nacional de Angola. Artigo	794
+Portaria. Artigo	16138
 Portuárias. ARTIGO	11514
-Postos Aduaneiros. Artigo	15526
 Presidente da República. Artigo	13,154,263,314,8,42,9978,11,613
 Presidente. ARTIGO	11528
 Presidente. Artigo	12823
@@ -383,7 +398,6 @@ Projectos. Artigo	10783
 Proteção de Dados Pessoais Artigo	15477
 Protocolo Artigo	6462
 Provedor Intermediário de Serviços Electrónicos Artigo	6970
-Pró-Empresa. Artigo	15526
 Publicações Artigo	12311
 PÚBLICA Artigo	16022
 PÚBLICA CENTRAL Artigo	15572
@@ -404,12 +418,14 @@ RGÃOS DELEGADOS DO INE Artigo	11516
 RQJD'XUDomR ARTIGO	11530
 RQVWLWXLomR RVHJXLQWH ARTIGO	11530
 Reclamações ARTIGO	539
+Recolha Artigo	15450
 Rectificação Artigo	12311
 Recursos Financeiros Artigo	2866
 Regime Sancionatório Artigo	2866
 Registo Civil Artigo	12775,2621
 Registo de Dados ARTIGO	539
 Registo' Ptedlâl. ARTIGO	11514
+Regulamentação Artigo	15526
 Regulamento. ARTIGO	12782
 Regulamento. Artigo	744
 Relações Exteriores. Artigo	15392
@@ -443,6 +459,7 @@ SECÇÃO II PRESTAÇÕES SOCIAIS Artigo	752
 SECÇÃO II RESPONSABILIDADE PENAL ARTIGO	3519
 SECÇÃO II SERVIÇOS EXECUTIVOS Artigo	167
 SECÇÃO III ACORDOS DE INTERLIGAÇÃO ARTIGO	11519
+SECÇÃO III Artigo	16138
 SECÇÃO III CONSELHO FISCAL Artigo	13
 SECÇÃO III CRIMES Artigo	14
 SECÇÃO III DILIGÊNCIAS Artigo	549
@@ -462,6 +479,7 @@ SUBSECÇÃO I COMISSÃO FUNDIÁRIA NACIONAL ARTIGO	11527
 SUBSECÇÃO II COMISSÕES FUNDIÁRIAS REGIONAIS ARTIGO	11527
 SUBSECÇÃO X Operador de Centros de Dados Artigo	6970
 SUBSECÇÃO XIII Operador de Comunicações Digitais Artigo	6970
+SUPERINTENDÊNCIA Artigo	15912
 SUPERIOR DE ESTATÍSTICA Artigo	11516
 SUPERVISÃO E FISCALIZAÇÃO ARTIGO	3519
 Sanções Artigo	6970
@@ -469,10 +487,13 @@ Sanções SECÇÃO I Infracções Artigo	12785
 Secretariado Executivo. Artigo	13
 Secção I Competências Artigo	15392
 Secção I Contra-ordenações Artigo	15392
+Secção I Regime Financeiro Artigo	15912
 Secção II Assembleia Geral Artigo	15391
 Secção II Procedimento Artigo	15392
+Secção II Regime Patrimonial Artigo	15912
 Secção III Conselho de Administração Artigo	15391
 Secção III Gestão Patrimonial Artigo	16056
+Secção III Pessoal Artigo	15912
 Secção III Processo Artigo	15433
 Secção III Servidões Artigo	15380
 Secção IV Supervisão Artigo	16089
@@ -484,8 +505,6 @@ Serviço de Interesse Público Artigo	12311
 Serviços Autónomos. Artigo	16056
 Serviços de Acesso Universal de Telecomunicações. Artigo	2866
 Setembro. Artigo	6462,8930
-Setor Financeiro Artigo	15526
-Setor Privado Artigo	15526
 Singulares. ARTIGO	12782
 Sistema Estatístico Nacional. Artigo	12770
 Sistema Nacional de Saúde. Artigo	16019
@@ -497,13 +516,16 @@ Sistemas Informáticos. ARTIGO	539
 Sistemas de Informação Artigo	6970
 Sociais SECÇÃO I Saúde Artigo	12785
 Sociedade Civil. Artigo	15
+StOriCcIuElaDdAaDnEa ARTIGOS AALTssEoRciDaçOãSo	15694
 Subsecção I Assentos Artigo	15396
 Subsecção II Averbamentos Artigo	15396
+Subsecção IV Conselho Consultivo Artigo	15912
 SÍMBOLOS E COLOCAÇÃO DE SINAIS Artigo	794
 TAXAS E MULTAS Artigo	794
 TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO. Artigo	15
 TERRA ARTIGO	11514
 TIC. Artigo	15
+TRANSITÓRIAS Artigo	16376
 Taxas. Artigo	15391
 Tecnologias de Informação. Artigo	167
 Telecomunicações. Artigo	2866,4104
@@ -518,6 +540,7 @@ USUÁRIOS ARTIGO	3519
 UTILIZADORES ARTIGO	11461
 Utilidade Pública Desportiva. Artigo	15532
 VERDE CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	16089
+Verde RECOLHA DIRETA COERCIVA Artigo	15450
 Videovigilância. Artigo	794
 Violação da Livre Iniciativa Os Artigos	11436
 Web da ARN. ARTIGO	11519

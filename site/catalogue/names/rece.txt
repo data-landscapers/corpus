@@ -1,4 +1,3 @@
-A. Recent Economic Developments	15924
 A.1- Recettes	16047
 A3 Recepcionista Embajada A3 Agregado Comercial	4209
 ACCUSE RECEPTION DE Envoyer	14424
@@ -130,7 +129,7 @@ Diferencial da Receita	10779
 Digitalisation du Système de Gestion des Recettes Domaniales	16581
 Director Nacional de Receitas	15526
 Diretora Nacional de Receitas	16549
-Direção Nacional de Receitas	12018,3,3382,123,496,120
+Direção Nacional de Receitas	12018,3,3382,123,386,110,120
 Disabilities Feedback Received	9772
 Discontinuities And Recent Transformations	12227
 Discontinuities and Recent Transformations	12227
@@ -414,8 +413,8 @@ RIC Recensement	15961
 RPPCUB Recensement des Propriétaires des Propriétés	13689
 Receba Nossa Newsletter Oferecemos	11415,13
 Recebam	10754
-Recebedoria	11532
-Recebedorias	15380
+Recebedoria	11532,4844
+Recebedorias	15380,146
 Receber	6995,4379,154,9,3821,1,118,26,23
 Receber Nenhuma Vacina	10777
 Receberá	414,15613
@@ -442,7 +441,7 @@ Receita	1144,1722,3120,5545,4491
 Receita Ele-	15532
 Receita Próprias	1338,742
 Receita de Servicos de Dados	1144
-Receitas	13,1,153,577,1345,777,653,699,201,159,6172,18,614,5,43,101,1252,13,2584,544
+Receitas	13,1,153,577,1345,777,653,699,201,159,6172,18,614,5,43,101,1252,13,2584,532,12
 Receitas Autárquicas	9403
 Receitas Constituem	15391
 Receitas Extraordinárias	10750
@@ -486,12 +485,12 @@ Recel	15429
 Recel Esl	15429
 Recensea	11561
 Recenseadores	11421,25,131
-Recenseamento	5818,5710,33,3798,697,85
+Recenseamento	5818,5710,33,3798,335,362,85
 Recenseamento Eleitoral	10271,1257,9,24,332,3466,45
 Recenseamento Eleitoral Oficioso	9990
 Recenseamento Eleitoral URL	15359
 Recenseamento Eleitoral. CONSELHO DE MINISTROS	15359
-Recenseamento Geral	12014,3521,159
+Recenseamento Geral	12014,3521
 Recenseamento Geral da Agricultura	11526
 Recenseamento Geral da População	4040,4,42,1064,329,1512,3769,17,644,1,24,131
 Recenseamento Todo	11528
@@ -510,7 +509,7 @@ Recensement Général des Entreprises RGPH	10874
 Recensement des Propriétaires des Propriétés	13689
 Recensements	10875
 Recenser	10876,3697
-Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,389,334,270
+Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270
 Recent AI Factories and Gigafactories	6879
 Recent AU African Position	1814
 Recent Angola	10781
@@ -526,6 +525,7 @@ Recent Economic Developments and Outlook External	11136
 Recent Economic Developments and Outlook Figure	11136
 Recent Economic Developments and Outlook Overall	11136
 Recent Economic Developments and Outlook Table	11136
+Recent Examples	16811
 Recent FM	10829
 Recent GSMA	9349
 Recent Geopolitical Tensions Could Stifle Trade	10718
@@ -553,7 +553,7 @@ RecentIssue.jsp	8022
 Recentemente	2365,11947,1939
 Recenter RECs	11149
 Recentering the Civic Internet	1071
-Recently	1880,49,378,11,72,176,126,326,216,43,94,511,238,115,191,112,293,24,432,679,172,294,402,461,891,8,408,627,77,762,117,406,172,12,29,158,192,528,185,13,114,44,172,88,3,36,39,19,527,122,60,242,278,158,32,54,322,546,10,151,563,20
+Recently	1880,49,378,11,72,176,126,326,216,43,94,511,238,115,191,112,293,24,432,679,172,294,402,461,891,8,408,627,77,762,117,406,172,12,29,158,192,528,185,13,114,44,172,88,3,36,39,19,527,122,60,242,278,158,32,54,322,546,10,151,563,20,1308
 Recently Pope Leo XIII	6231
 Recently Upgraded Infrastructure	6432
 Recepcionar	4218,7150,37,30,14
@@ -683,6 +683,9 @@ Transferência de Receitas	15380
 Troisième Recensement Général	13890,17
 Troisième Recensement National	16620
 Type of Notifications Received	11259
+Técnicos de Receita	15912
+Técnicos de Receitas	15526,386
+Técnicos de Receitas. Prevê-se	15912
 UK-initiated AI Safety Summits. Recently	11154
 UNITED STATES OF AMERICA Received	16024
 USE OF DIGITAL REVENUE RECEIPTS Publication	15065

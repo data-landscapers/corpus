@@ -1,4 +1,6 @@
 A. PRESIDENCE DU FASO Le Conseil	16287
+ACARINHAR Presidente Mascarenhas Associação de Promoção	15694
+ACD Presidente Substituto Centro Ortopédico	15694
 AEAA President	10196
 AFAN’s National President	3742
 AFC’s President and CEO	11657
@@ -32,7 +34,7 @@ Afreximbank President Dr George Elombi	4401
 Afreximbank President and Chairman	6401
 Africa President Mahama	10135
 Africa Region Vice Presidency	11149
-African Development Bank Group President	9905
+African Development Bank Group President	9905,6879
 African President Cyril Ramaphosa	5621
 African Presidents	6250
 African Union. President Xi Jinping of China	10945
@@ -45,12 +47,14 @@ Algerian President Abdelmadjid Tebboune	2542,2338,2247
 Allan Kisia President William Ruto	14535
 AmCham Cameroon President Laure E. Djoukam	14207
 Amadou Hott the Bank's Vice President for Power	14871
+Amigos de Crianças Maria Teresa Presidente	15694
 Angola's President Signs Repressive Civil Society	9399
 Angolan President João Lourenço	2791,920
 Angolans. Presidential Decree	10765,10
 Anwar Sharif Practice Group Vice President	15731
 Ao Presidente da CNIA	12823
 Approval Vice President	16614
+Arminda Fortes Presidente de Chã de Lopes Matias	15694
 Arret Jatta President Adama Barrow	6941
 Asesor Presidencia de Gobierno	4209
 Asesor Presidencia de Gobierno Servicio	4209
@@ -61,6 +65,7 @@ Auditor de Guerra Consejero Presidencia	4209
 Authorized Regional Vice President	1228
 B.O.E. Presidencia	163
 B0-2020-011.pdf PRESIDENCE DE LA REPUBLIQUE	14429
+B1.lºacek3.Pº.antres Alcides Amarante Presidente FIRMA	15694
 BDM. BNDES President Aloizio Mercadante	12816
 BYTHE PRESIDENT OF THE REPUBLIC	11217
 Bacal SANHA President	15363
@@ -118,6 +123,7 @@ CONSEJERO PRESIDENCIA REPUBLICA	4209
 CUSTODIAN Ministry of Justice House of Parliament Presidency	1161
 Cairo Court of Appeal President	11641
 Cameroonian President	125
+Canto Técnica APIMUD Eurídice Andrade Presidente	15694
 Capacity Building. Ministry of President	1777
 Capital The President	9332
 Carlos Tavares Pina Presidente	15476
@@ -296,7 +302,7 @@ Excellency the State President. CUSTOMS	13122
 Executive Co-Chair Robert Friedland and President and Chief	15952
 Executive President	11738,4498
 Executive President Millicent Kargbo	11634
-Executive Vice President	6924,2170,5437
+Executive Vice President	6924,2170,5437,2268
 Executive Vice President Vestager	11154
 Executive Vice President and COO	9532
 Executive Vice President and COO Xie Junshi	9529
@@ -335,6 +341,7 @@ Following Urgent Presidential Appeal	5163
 Following the Presidential	11916
 Foreign Affairs The President	8992
 Foreword From the President	4528,7984
+Formação de Marciano Monteiro Presidente Pessoas	15694
 Former Deputy President Rigathi Gachagua	11084
 Former President Buhari	11866
 Former President Ernest Bai Koroma Arrives	5939
@@ -542,6 +549,7 @@ MBASOGO PRESIDENTE DE LA REPÚBLICA	1855,4986
 MDAs of President Tinubu	8981
 MDAs. NiRA President Adesola Akinsanya	4690
 METSOLA For the Council The President T	7855
+MFFE Presidente	15526
 MIGA Vice President Hiroshi Matano	579
 MIGA Vice President and CFO	11476
 MOI BENJAMIN WILLIAM MKAPA PRESIDENT PRESIDENT	14409
@@ -647,11 +655,11 @@ Nigerians. Vice President Shettima	2610
 Nigeria’s Vice President Kashim Shettima	8046
 O Decreto Presidencial	11432
 O Despacho Presidencial	4641,9559
-O Presidente	13,154,3980,2315,75,1199,2704,346,572,30,61,67,2,25,1227,1413,1208,5,81,9,17
+O Presidente	13,154,3980,2315,75,1199,2704,346,572,30,61,67,2,25,1227,1413,1208,5,81,9,17,409
 O Presidente Interino da CNE	11561
 O Presidente João Lourenço	14314
 O Presidente Ordem	15477
-O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4,3971,26,11,693
+O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4,3971,26,11,54,639
 O Presidente da CNPD	16142
 O Presidente da ENG	15910
 O Presidente da República	13,154,263,314,8,42,1877,936,539,1,71,339,49,35,412,152,67,707,1,990,3784,18,11,577,1,1,7,2,1,1,5,3,1,1,2,9,2,23,11,1,2,10,2,4,3,3,2,1,9,46,17,1303,1479,1
@@ -903,7 +911,7 @@ Presidency.156	3583
 Presidency.36	13313
 Presidency’s Digital Services Unit	3922
 Presidency’s Inter-Ministerial Committee	3922
-President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58,72,1,4,4,2,4,1,13,1,3,36,1,22,2,3,37,26,72,21,67,76,1,1,4,2,1,1,1,14,1,1,1,1,1,1,4,1,5,1,3,4,20,32,1,3,12,37,3,16,11,2,5,4,10,2,8,25,1,5,11,1,36,66,3,10,14,19,47,5,72,44,39,12,37,4,4,52,28,21,62,8,181,17,23,6,33,18,4,1,12,8,19,27,17,11,14,17,11,20,28,6,5,68,1,11,34,1,2,1,1,3,9,6,1,5,4,16,4,21,15,1,12,3,4,2,13,2,2,3,2,2,4,4,3,4,1,9,14,4,9,1,3,8,7,1,40,12,6,43,3,17,55,62,67,18,35,52,27,9,21,9,9,46,2,14,19,19,42,21,10,3,17,17,8,41,9,34,18,3,64,60,12,16,83,158,55,20,4,37,13,19,2,2,6,46,188,57,20,7,11,17,18,30,37
+President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58,72,1,4,4,2,4,1,13,1,3,36,1,22,2,3,37,26,72,21,67,76,1,1,4,2,1,1,1,14,1,1,1,1,1,1,4,1,5,1,3,4,20,32,1,3,12,37,3,16,11,2,5,4,10,2,8,25,1,5,11,1,36,66,3,10,14,19,47,5,72,44,39,12,37,4,4,52,28,21,62,8,181,17,23,6,33,18,4,1,12,8,19,27,17,11,14,17,11,20,28,6,5,68,1,11,34,1,2,1,1,3,9,6,1,5,4,16,4,21,15,1,12,3,4,2,13,2,2,3,2,2,4,4,3,4,1,9,14,4,9,1,3,8,7,1,40,12,6,43,3,17,55,62,67,18,35,52,27,9,21,9,9,46,2,14,19,19,42,21,10,3,17,17,8,41,9,34,18,3,64,60,12,16,83,158,55,20,4,37,13,19,2,2,6,46,188,57,20,7,11,17,18,30,37,80,6
 President Abdel Fattah	15926
 President Abdel Fattah Al-Sisi. Rashwan	16490
 President Abdel Fattah El Sisi	10103,5553
@@ -944,7 +952,7 @@ President Boko	2909,1,7141,2515,1,1,38,9
 President Bola Ahmed TINUBU	7452
 President Bola Ahmed Tinubu	2390,4,411,578,342,377,137,62,2842,305,46,390,404,176,522,244,652,817,593,21,612,29,50,22,31,3,1221,2055
 President Bola Ahmed Tinubu GCFR	12004
-President Bola Ahmed Tinubu's Renewed Hope	7144,740,2273,1828
+President Bola Ahmed Tinubu's Renewed Hope	7144,740,2273,1828,4811
 President Bola Ahmed Tinubu’s Renewed Hope	2933,85,36,1671,2729,205,236,2414
 President Bola Ahmed Tinubu’s State Visit	5001
 President Bola Tinubu	2535,1,50,183,57,45,63,547,222,399,18,1095,1533,362,31,38,2,470,97,692,272,112,25,73,51,4,4,66,70,193,52,38,236,54,190,394,34,11,254,524,894,69,2288
@@ -1124,6 +1132,7 @@ President Oligui Nguema	7035
 President Omar Al-Bashir	15220
 President Ondimba	16285
 President Oramah	6401
+President Ould Tah's Four Cardinal Points	16784
 President Patrice TALON	15457
 President Patrice Talon	1724,1346,3314,4434,17,52,5052
 President Patrick Herminie	6831
@@ -1132,7 +1141,7 @@ President Paul Biya	2144,3193,5504,147
 President Paul Kagame	3959,108,2459,1040,700,3416,659,2708
 President Paul Kagame and First Lady Jeannette	12371
 President Paul Kagame of Rwanda	8113
-President Peter Mutharika	7231,4922
+President Peter Mutharika	7231,4922,4651
 President Pierre Nkurunziza	13313
 President Preliminary Application	587
 President President Herminie Officially Launches Electronic	6806
@@ -1329,12 +1338,13 @@ President. The Ministry	14862
 President. The President	11247
 PresidentFebruary	2541,73,1275,141,801
 Presidenta	4209
-Presidente	13,2,152,53,210,1271,107,976,32,50,741,540,62,9,1054,152,148,648,242,157,1433,692,482,77,96,295,300,146,607,625,10,6,61,64,3,2,2,8,3,9,21,5,3,14,160,220,348,488,9,1,1,20,5,5,1343,1176,8,24,42,44,26,23,355,18,393
+Presidente	13,2,152,53,210,1271,107,976,32,50,741,540,62,9,1054,152,148,648,242,157,1433,692,482,77,96,295,300,146,607,625,10,6,61,64,3,2,2,8,3,9,21,5,3,14,160,220,348,488,9,1,1,20,5,5,1343,1176,8,24,42,17,27,26,23,355,18,13,380
 Presidente Audiencia Provincial	4209
 Presidente B. Maria	10770
 Presidente Consejo	4209
 Presidente Corte Suprema de Justicia	4209
 Presidente Cámara de Dip. Suprema de Justicia	4209
+Presidente Federação	15694
 Presidente Interino	11561
 Presidente Interino da CNE	11561
 Presidente João Lourenço	5211,3947,1914,407,640
@@ -1360,6 +1370,7 @@ Presidente da Assembleia da República	6970,5802,24
 Presidente da Associação	11566
 Presidente da CNE	11432,129
 Presidente da CNE Carmem Batista Lobo	10271
+Presidente da CNEST	15450
 Presidente da CNIA	12823
 Presidente da CNPD	3079,13063
 Presidente da Comissão Executiva	15486
@@ -1511,9 +1522,9 @@ Presiding	4768,505,6431,2348,357
 Presiding Judge	10960
 Presiding Officer	13387,204
 Presiding Officers	10049,1240
-Presidir	13,11422,14
+Presidir	13,11422,14,4463
 Presidium	1554
-Presidência	2401,4123,2747,719,1416,163,1264
+Presidência	2401,4123,2747,719,1416,163,1264,2617,462
 Presidência da CNE	11561
 Presidência da República	5046,7787,3189,354
 Presidência da República. Segundo	12792
@@ -1537,9 +1548,10 @@ Projecto de Decreto Presidencial	11415
 Promoção da Língua Portuguesa Presidenciais	6837
 Prosperity Vice Presidencies	10977
 Prosperity Vice Presidency	11149,1935,675,2087
-Publique-se O Presidente da República	15380
+Publique-se O Presidente da República	15380,146
+Publique-se. Competência O Presidente da República	15450
 Publique-se. O Presidente da Assembleia Nacional	539,14938
-Publique-se. O Presidente da República	14,1,524,10,2970,7228,2,6,1,602,5,21,4,21,16,94,1,7,3,371,410,461,2586,1,26,6,1,4,37,7,64,22,46,517
+Publique-se. O Presidente da República	14,1,524,10,2970,7228,2,6,1,602,5,21,4,21,16,94,1,7,3,371,410,461,2586,1,26,6,1,4,37,7,64,22,46,340,177,287
 Quit Presidential Race	2355,176,4,1,56,3,339,96,901,1006,1761,673
 RE ELECTION AS PRESIDENT	15052
 REGIONAL LEADERSHIP His Excellency the President	14566
@@ -1564,7 +1576,7 @@ Recurrent Engagement. President	1777
 Recurrent President	1777
 Regional Integration and Development The President	10321
 Regional President	2310,6807
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,142,45,14,49,112,240,14
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
@@ -1616,6 +1628,7 @@ STRUCTURES RATTACHEES A LA PRESIDENCE	15901
 STRUCTURES RATTACHEES AU PRESIDENT	15744,157
 SUVs and President's Wife While Millions Struggle	11866
 SYSTEMES D'INFORMATION LE PRESIDENT	10904
+SaOs CcoIEmDNAEDEE UJNosIéPEDSiaSsOAL LDA. Presidente	15694
 Sapo Atualidade Presidenciais	4938
 Sapo Atualidade Presidente da Hungria	4938
 Says Liberia’s Vice President By Pan	9989
@@ -1758,7 +1771,7 @@ Viabilidade Financeira Presidencial	10750
 Vice Chair and President of Microsoft	2525
 Vice Presidency	13477,256
 Vice Presidency Complex for Private Sector	10718
-Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323,66,6,552,131,3,35,23,10,17,284,50,15,50,62,345,3,27,31,77,13,20,20,28,14,19,717,438,78,102,37,254,112,81,42,34,60,540,56
+Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323,66,6,552,131,3,35,23,10,17,284,50,15,50,62,345,3,27,31,77,13,20,20,28,14,19,717,438,78,102,37,254,112,81,42,34,60,540,56,553
 Vice President ADM Responsible Team Leader	16436
 Vice President Article	15027
 Vice President Ato Asfaw Abera	12195
@@ -1842,6 +1855,8 @@ Vice President. Held	14325
 Vice President. RESOLUTION NUMBER	12912
 Vice Presidente	4209
 Vice Presidents	3583,10063,679,302,1704
+Vice- Presidente	15450
+Vice- Presidentes	15912
 Vice- Presidents	13292
 Vice-Chairman and President of Microsoft	2526
 Vice-President Ahmed Afif and President Wavel Ramkalawan	1884

@@ -57,6 +57,7 @@ ASSEMBLEE PENTECOTISTE DE BERE	15455
 ASSEMBLEE VERITE REVELEE	15744
 ASSEMBLEES POPULAIRES COMMUNALES	15507
 ASSEMBLEIA NACIONAL	15359,37,81
+ASSEMBLEIA NACIONAL CAPÍTULO	15450
 ASSEMBLEIA NACIONAL Define	15554
 ASSEMBLEIA NACIONAL Institui	15554
 ASSEMBLEIA NACIONAL Lei	11365,4724
@@ -64,7 +65,6 @@ ASSEMBLEIA NACIONAL POPULAR Ir	11513,8
 ASSEMBLEIA NACIONAL POPULAR URL	11513
 ASSEMBLEIA NACIONAL Regula	15554
 ASSEMBLEIA NACIONAL Substituindo	16549
-ASSEMBLEIA NACIONAL Sumário Estabelece	15450
 ASSEMBLY	12612
 ASSEMBLY ARTICLE	14409
 ASSEMBLY FOR WRITTEN REPLY QUESTION	10889
@@ -182,7 +182,8 @@ Assefa S	3791
 Assefa&author	1219
 Assegura	10755
 Asseguramento	13,15457
-Assegurar	167,372,2540,1068,71,2244,68,4225,28,577,2,6,8,5,1,2,3,9,1,33,5,6,1,1,1,4,1,2,1,11,53,2,8,35,8,332,120,753,3,2582,32,1,111,1,22,6,3,37,183,264,8,62,398
+Assegurar	167,372,2540,1068,71,2244,68,4225,28,577,2,6,8,5,1,2,3,9,1,33,5,6,1,1,1,4,1,2,1,11,53,2,8,35,8,332,120,753,3,2582,32,1,58,53,1,22,6,3,37,122,61,157,107,8,62,398
+Assegurar Implementação	15694
 Assegurar Inclusão Financeira Digital Sustentável	15689
 Assegurou	6995
 Assem	15391
@@ -194,7 +195,7 @@ Assemble Populaire Communale	15555
 Assembled	6921,2478
 Assemblee	15584
 Assembleia	6191,3608,978,736,31,25
-Assembleia Geral	11531,7,3853,303
+Assembleia Geral	11531,7,3853
 Assembleia Geral Fiscal	15476
 Assembleia Geral da ARCTEL-CPLP	11531
 Assembleia Geral. Artigo	15391
@@ -203,7 +204,7 @@ Assembleia Mundial	16180
 Assembleia Mundial da Saúde. Um	15966
 Assembleia Municipal Declarando	16290
 Assembleia Municipal de São Lourenço	15380
-Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743,1032,15,26,11,81,32,513,67,287,111
+Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743,1032,15,26,11,54,27,32,513,67,287,111
 Assembleia Nacional ASSEMBLEIA NACIONAL Deferindo	16549
 Assembleia Nacional Lei	539,10826
 Assembleia Nacional Popu	11518
@@ -229,7 +230,7 @@ Assembleia da República. O Conselho Constitucional	12854
 Assembleia-Geral	15694
 Assembleias de Voto	11425
 Assemblers Mean	16266
-Assemblies	7695,6519,638,268,1043,361
+Assemblies	7695,6519,638,268,725,318,361
 Assemblies Mr. Mustafa Yasin Sheikh	15120
 Assemblies of God Church Soweto A. Shipena	13046
 Assembling	14113
@@ -485,6 +486,7 @@ Assessment of EITI	13654,3065
 Assessment of Enabling Factors	11907,1442
 Assessment of Eswatini's E-Commerce Readiness	12395
 Assessment of Existing Policy and Legal Framework	11905
+Assessment of Goals Compatibility	15845
 Assessment of Household Vulnerability and Food Insecurity	13060
 Assessment of Indicators Using Health Facility Data	10881
 Assessment of Land Governance	15473
@@ -710,6 +712,7 @@ Change Readiness Assessment	12935
 Chatterjee SC. Assessment	3791
 Chief Audit Executive CARA Criminal Assets	11218
 Child Labor Unemployment Overcrowding Assets Housing	15244
+Citizen Score Cards and Beneficiary Assessment Surveys	15845
 Citizens’ Assembly Guidelines Revised Citizens’ Assembly	15208
 Citizens’ Assembly Guidelines Revised URL	15208
 Claims and Reunification of Unclaimed Financial Assets	2775
@@ -768,6 +771,7 @@ Conformity Assessment and Accreditation	13320
 Conformity Assessments for High-Risk	16212
 Congo's National Assembly and Senate	852
 Connectivity MALAWI DIGITAL READINESS ASSESSMENT	12214
+Conselho Diretivo da Assembleia Nacional. Compete	15450
 Constituent Assembly	14128
 Constitution Assembly	12201
 Constitutional Assembly	11245
@@ -975,7 +979,7 @@ Disaster Risk Assessment and Early Warning Systems	14818
 Disaster and Risk Management Mauritius National Assembly	11332
 Distribution Assets Component	14080
 Distribution of Members of County Assembly	2775
-District Assemblies	789,3337,11333,1144
+District Assemblies	789,3337,11333,386,758
 District Assemblies Common Fund	789,6906
 District Assemblies. The Minister	16163
 District Assembly	11,16065
@@ -1105,7 +1109,6 @@ Excelentíssimo Senhor Presidente da Assembleia Nacional	11436
 Executive Board. Executive Board Assessment Djibouti	13868
 Executive Director of Diversified Assets	9098,248
 Expanding Green Assets	9117
-External Stability Assessment	15924
 FDI IFC Asset Recycling	11469
 FEC P-3 Federal Infrastructure Asset Sharing	11857
 FINANCIAL ASSETS	11955
@@ -1742,7 +1745,7 @@ Number of Asset Managers	14997
 Nutritionnelle PPP Prevention and Peace Building Assessment	643
 O Assento de Nascimento	10753
 O Overall Assessment	14777
-O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4,3971,26,11,693
+O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4,3971,26,11,54,639
 OASIS Security Assertion Markup	1009
 OBJECTIONS AND REVIEW OF ASSESSMENTS	14717
 OBJECTIVES OF COMPLIANCE ASSESSMENTS	13381
@@ -1866,7 +1869,6 @@ PSDS Diagnostic Assessment	14777
 PUBLIC INVESTMENTS AND ASSETS	5793
 Parameters for Assessing Privacy and Public Interest	11956
 Paris Aligned Fragility Lens Assessment	15011
-Paris Alignment Assessment	15924
 Part VI--Quick Assessment of Administrative	10812
 Partial Assessment	15411,252,68
 Partial Assessment Bank	11525
@@ -1883,7 +1885,7 @@ People MALAWI DIGITAL READINESS ASSESSMENT	12214
 Per Second MCA Member of County Assembly	2775
 Percentage Contribution Type of Asset	2775
 Perform Algorithmic Impact Assessment	14441
-Performance Assessment	14867
+Performance Assessment	14867,978
 Performance Assessment Report	12500
 Performance Assessment Report Template Attachment IV	12500
 Performance Assessment Report Template I. Payment	12500
@@ -1920,6 +1922,7 @@ Presidente da Assembleia da República	6970,5802,24
 Presidential and National Assembly	12201
 Presidential and National Assembly Elections. View	12350
 Press Law Assembly	12201
+Press Releases General Assembly Press Releases	16808
 Prevention and Peace Building Assessment	643
 Price and Preferential Points Assessment	11240
 Primeira Vice-Presidente da Assembleia Nacional	11365
@@ -2231,6 +2234,7 @@ Strategic Asset Allocation	11131,3
 Strategic Asset Allocation SACCOs Saving and Credit	15023
 Strategic Asset Management	5244
 Strategic Asset Mauritius	14752
+Strategic Environmental Assessment	15845
 Strategic Environmental Assessment CHAPTER SIX	15796
 Strategic Environmental and Social Assessment	2889,715
 Strategic National Asset Gaps	7548

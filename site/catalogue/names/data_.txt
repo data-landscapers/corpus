@@ -5658,7 +5658,7 @@ Data Project	1704,587,11496,228,2639,21
 Data Promotion	11259
 Data Protec	13381
 Data Protection	27,236,698,1,129,137,15,350,1213,67,207,598,183,221,44,348,109,7,20,251,24,359,119,314,103,583,24,45,10,97,69,184,154,602,130,1721,570,816,34,3,334,394,34,78,281,13,37,177,15,25,4,18,9,60,1,54,33,6,73,84,365,37,17,2,8,24,30,1,44,15,226,60,464,165,12,132,36,244,1,89,22,48,203,22,20,93,122,66,32,12,354,111,84,431
-Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54,444,76,136,53,95,64,1,14,11,1,32,31,37,5,33,65,10,42,7,3,1,2,14,9,7,31,44,5,4,64,16,9,232,138,327,910
+Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54,444,76,136,53,95,64,1,14,11,1,32,31,37,5,33,65,10,42,7,3,1,2,14,9,7,31,44,5,4,64,16,9,232,138,327,910,242
 Data Protection Act 2011.pdf	12675
 Data Protection Act DSM Dispute Settlement	1243
 Data Protection Act Date	14435
@@ -6169,7 +6169,7 @@ Data Systems and Digital Health	4349
 Data Systems and Digital Health The U.S	4349
 Data Systems and Governance	14818
 Data Systems and Governance Weak	14818
-Data Tamasha Africa	10392
+Data Tamasha Africa	10392,6385
 Data Tank	6545
 Data Target	15034
 Data Team’s Roles Current	15034
@@ -6431,6 +6431,7 @@ Development Data Group	15620,226
 Development Data Quality Policy	4214
 Development Framework NSDO National Spatial Data	11261
 Development Knowledge Link Africa Data Controller	7167
+Development of Data Management and Information Systems	15845
 Device Affordability and Access Scheme Data Protection	4653
 Devine Mercy Eldoro Catholic Dispensary Data	7167
 Devpart Consult Data Processor INST-910183D2B2B NAIROBI	7167
@@ -6476,6 +6477,7 @@ Digital Personal Data Protection Act	6411,9525
 Digital Personal Data Protection Bill	1243
 Digital Registries Data	6423
 Digital Sovereignty and Fair Data Compensation Bill	8088
+Digital Tools and Data Platforms	15845
 Digital Transformation The Data Commissioner	2668
 Digital and Data Systems for Health	2678
 Digitalising Data Management Processes	12551
@@ -6972,6 +6974,7 @@ Energy Data	3861
 Energy V ACKNOWLEDGEMENTS The AU Data	961
 Enfants PGES DATA CENTER SECONDAIRE FAMINTINANA	14488
 Enforce Data Protection	5244
+Enforce Data Protection Act	15845
 Enforce the Data Protection	1204
 Enforcement of Data Integrity and Protection	15120
 Enforcing the Data Protection Act and Regulations	12189
@@ -8457,6 +8460,7 @@ NBR Electronic Data Warehouse	15023
 NCI Cancer Research Data Commons	7313
 NDGC Data Governance Policy Handbook	3861
 NDGC and Data Protection Authority Review	3861
+NDPC’s District Development Data Platform	15845
 NDS Pillars Data Literacy and Skills Legal	14790
 NDS final.pdf Mauritius National Data Strategy	14790
 NDVI ANOMALIES BY PROVINCE Data	10763
@@ -8545,7 +8549,7 @@ National Data Center. Web Content	14921
 National Data Center8	14858
 National Data Centers	15679
 National Data Centers and HighPerformance Computing	16212
-National Data Centre	301,94,198,365,1298,262,2043,93,98,107,383,607,181,562,89,105,155,431,1,990,120,890,2814,23,43,148,27,25,469,13,9,21,8,42,44,27,28,71,25,7,15,8,55,50,340,505,484,247
+National Data Centre	301,94,198,365,1298,262,2043,93,98,107,383,607,181,562,89,105,155,431,1,990,120,890,2814,23,43,148,27,25,469,13,9,21,8,42,44,27,28,71,25,7,15,8,55,50,340,505,484,247,1868,34
 National Data Centre Building	12253
 National Data Centre Construction Project	1715
 National Data Centre Currently	12253
@@ -9204,7 +9208,7 @@ PROGRESS IN IMPLEMENTATION OF OPEN DATA	11854
 PROGRESS REPORT SECOND CYCLE OF DATA	16188
 PROGRESS TO-DATE ON DATA MANAGEMENT	11231
 PROHIBITION OF DATA LOCALISATION No State	1243
-PROJECT FINANCING DATA	1264,20,420,163,424,1165,106,42,7164,195,1,453,108,35,295,1256,220,1,455,228,561,334,27,39,537,37,3,105,3,263,220,510,21
+PROJECT FINANCING DATA	1264,20,420,163,424,1165,106,42,7164,195,1,453,108,35,295,1256,220,1,455,228,561,334,27,39,537,37,3,105,3,483,510,21
 PROJET DE CONSTRUCTION D'UN DATA CENTER	1005
 PROMOTING GENDER EQUITY AND DATA JUSTICE	5244
 PROPOSAL DATA SHEET	15080
@@ -9407,7 +9411,8 @@ Priscilla Gracinda Gomes Data	15181
 Privacy Commissioner for Personal Data	6568
 Privacy Data	961
 Privacy E ENS ArticleVisitor Data	6632
-Privacy and Data Protection	3861,8307
+Privacy and Data Expansion	15845
+Privacy and Data Protection	3861,8307,3677
 Privacy and Data Protection Policy and Bill	14434
 Privacy and Data Protection Practices of Digital Lending	592
 Privacy and Data Protection. Committee	2264
@@ -9703,6 +9708,7 @@ Responsable Open Data. Ce	748
 Responsable Open Data. Cliquez	9406
 Responsables Open Data	747,1,439,797,7422
 Responsables Open Data Manuel Open Data	747
+Response ICT and Data	15845
 Responsibility for Data	16144
 Responsibility for Data CBL	16144
 Responsibility for Data Collection	11417
@@ -10260,7 +10266,7 @@ Tackling Education and Skills Data Challenge	10359,4823
 Take Control of Their Data	4800
 Take Control of Your Data	4809,76
 Tanui. Data	6150
-Tanzania Data Lab	10392
+Tanzania Data Lab	10392,6385
 Tanzania Data Lab Executive Director Dr	10392
 Tanzania Data Protection Commission	14674
 Tanzania Electronic Data Governance Strategy	5883

@@ -78,6 +78,7 @@ Airtime Service Verified Location	15867
 Al Mada Ventures	2135
 Al Mada Ventures. Gozem	3905
 Alan Knott-Craig and Shayne Mann. Verascient	11128
+Alberto Afonso Deficiência de Cabo Verde	15694
 Alexander Venter	10202,79
 Alfândegas de Cabo Verde	15403,281
 Alfândegas de Cabo Verde.pdf	12018
@@ -130,6 +131,7 @@ Associação Cabo- Verdiana MORABI de Auto-Promoção da Mulher	11855
 Atlantic. Cape Verde	3564
 Atlantica Ventures	10464,3924
 Atualização Económica de Cabo Verde	7881
+Auditores Certificados de Cabo Verde	15912
 Aumeeruddy-Cziffra MAURITIUS Deputy Speaker Hon. Vedasingam	14753
 Autentika Cabo Verde Mobile Digital Key	11875
 Autocheck Vehicle Examination Station	14753
@@ -151,7 +153,6 @@ BANCO DE CABO VERDE Gabinete	16122
 BANKING INFORMATION FOR VERIFICATION PURPOSES	11240
 BBBEE STATUS LEVEL VERIFICATION	11240
 BCEAO. Ver	11568
-BCV Bank of Cabo Verde	15924
 BELOW IS THE ENGLISH VERSION	4327
 BELOW IS THE ENGLISH VERSION ACTIVITIES	16182
 BIG VENTURES LIMITED Data Controller INST-113425D0E0B	7167
@@ -166,7 +167,7 @@ Background and Context The Republic of Cabo Verde	12008
 Banco BAI Cabo Verde	11955
 Banco Central da República de Cabo Verde	16089
 Banco Central de Cabo Verde	16089
-Banco de Cabo Verde	6425,5508,22,8,3396,74,7,13,73,9,37,257,81,14,38,16,111,33,97,360
+Banco de Cabo Verde	6425,5508,22,8,3396,74,7,10,3,73,9,37,257,81,52,16,111,33,97,360
 Banco de Cabo Verde António Carlos Moreira	11955
 Banco de Cabo Verde Artigo	15433
 Banco de Cabo Verde BDMI Base de Dados	15535
@@ -187,7 +188,6 @@ Bank Verification Number and National Identification Number	8852
 Bank Verification Numbers	2355,407,371,4795,2391
 Bank and Ingcebo Joint Venture	11134
 Bank of Botswana Cabo Verde National Financial	6938
-Bank of Cabo Verde	15924
 Bank-sponsored Cabo Verde Tech Park Phase	11863
 Banks Welcome Verification Tool Liberia Bankers	14218
 Bank’s Cabo Verde Technology Park Phase	11863
@@ -264,24 +264,22 @@ CONTROLE DE VERSÕES Versão Resumo	11532
 CRE Venture Capital	9616
 CRE Venture Capital Fund III	1050
 CRE Venture Capital and Janngo Capital	1138
-CREDIT TO CABO VERDE I. COUNTRY	15924
 CRÉDIT ET VERSEMENTS Versement	15901
 CSA VEHICLES SUMMARY	13965
 CSE Velocity	14267
 CTA Vehicle Charges	12971
 CTA Vehicle Charges The Budget for CTA	12971
-CVA Cabo Verde Airlines PFM Public	15924
-CVE Cabo Verdean Escudo PDO Program	15924
 Cabo Venton	15658
 Cabo Ver	16251
-Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,25,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,5,10,40,2,11,7,1,10,14,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,15,1,4,18,33,4,28,76,3,6,17,18,30,21,54
+Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,5,10,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,15,1,4,18,33,4,28,76,3,6,17,18,30,21,54,189
 Cabo Verde A Organização Mundial da Saúde	16484
+Cabo Verde ARN	15526
 Cabo Verde Action Plan	11873
 Cabo Verde Action Plan Review	11873
-Cabo Verde Airlines	3956,11968
+Cabo Verde Airlines	3956
 Cabo Verde Airports	1948
 Cabo Verde Algeria Congo	10819
-Cabo Verde Ambition	11891,4033
+Cabo Verde Ambition	11891
 Cabo Verde Approval Date Current Closing	16187
 Cabo Verde Arranca Hoje	15824
 Cabo Verde B	11867
@@ -373,8 +371,8 @@ Cabo Verde Telecom S.A	2091
 Cabo Verde Telecom URL	16343
 Cabo Verde Telecommunication Union	11569
 Cabo Verde Telefones	8166,7944
+Cabo Verde Trade	15526
 Cabo Verde TradeInves	15526
-Cabo Verde UGA Procurement Management Units	15924
 Cabo Verde URL	15505,65,489,75,394
 Cabo Verde Yes Programme Stratégique	11529
 Cabo Verde and Burkina Faso	11867
@@ -409,12 +407,13 @@ Cabo Verde. B. Escopo de Trabalho Espera-se	11898
 Cabo Verde. B. Sectoral and Institutional Context	15491
 Cabo Verde. Based	15983
 Cabo Verde. Bases	11955
+Cabo Verde. C. Consultations and Collaboration	15924
 Cabo Verde. Cabo	15476
 Cabo Verde. Cabo Verde	11895
 Cabo Verde. Cette	16633
 Cabo Verde. Com	15824
 Cabo Verde. Despite	11855
-Cabo Verde. Deste	15476
+Cabo Verde. Deste	15476,218
 Cabo Verde. Duas	11683
 Cabo Verde. Durante	11962
 Cabo Verde. Elencou	6709
@@ -439,6 +438,7 @@ Cabo Verde. Olavo Correia	16193
 Cabo Verde. Os CETEM	15684
 Cabo Verde. PARTE I PRINCÍPIOS FUNDAMENTAIS	15344
 Cabo Verde. Part	15590
+Cabo Verde. Pillar C	15924
 Cabo Verde. Population of Cabo Verde	12002
 Cabo Verde. Posição	5476
 Cabo Verde. Quando	15520
@@ -455,9 +455,9 @@ Cabo Verde. Tipografia Santos. Praia	15694
 Cabo Verde................................1104 Resolução	15433
 Cabo Verde1	15694
 Cabo Verde2024 Sub-Saharan Africa Lower Middle	11874
-Cabo Verdean	342,997,1,1,1,67,23,649,2,1,63,2264,2,1,50,371,1736,5284,8,13,89,3526,99,334
+Cabo Verdean	342,997,1,1,1,67,23,649,2,1,63,2264,2,1,50,371,1736,5284,8,13,89,3526,99
 Cabo Verdean Digital Economy	11863
-Cabo Verdean Escudo	11965,3959,59
+Cabo Verdean Escudo	11965,4018
 Cabo Verdean Escudo DA Designated Account	15983
 Cabo Verdean Escudo DGTED Directorate of Telecommunications	11863
 Cabo Verdean Escudos	11955
@@ -471,6 +471,7 @@ Cabo Verde’s Strategic Plan for Sustainable Development	11855
 Cabo Verde’s Strategic Plan for Sustainable Development5	11863
 Cabo Verde’s Strategy	11855
 Cabo Verde’s USR. The Government of Cabo	11855
+Cabo Verde’s VAT	15924
 Cabo Verdian Institute for Gender Equality and Equity	11965
 Cabot Venton	10763,4895
 Caixa Económica de Cabo Verde	11955
@@ -607,7 +608,7 @@ Contabilistas Certificados de Cabo Verde	15477
 Contract Vetting	12976
 Control VERSION DATE AMENDMENT AUTHOR Final	5244
 Cooperation and Communities For the Government of Cabo Verde	15363
-Cooperative Verification Number	9876
+Cooperative Verification Number	9876,6920
 Copy of Joint Venture	11209
 Corner Endeavour Crescent and Venture Close	12515
 Cornerstone Venture	4972
@@ -622,6 +623,7 @@ Court Elevée Veiller	15474
 Credit Guarantee Vehicle	11236
 Cross-Community Cross-Community Patient HL7 Version	1009
 Cubal and Fábrica Velha	10776
+Cuidados. Verde Compromisso Agenda de Transformação	15694
 Current Representative Mr Dean Veverka	3513
 Customers and Verifying	16590
 Célibataire Marié Vivant Divorcé Séparé Veuf	13300
@@ -638,6 +640,7 @@ DATA PROTECTION COMMISSION ACQUIRES NEW VEHICLES	14086
 DATA SHARING AND VERIFICATION SERVICES	12047
 DCs. Verify	5364
 DE BASE CIBLE SOURCE DE VERIFICATION	15500
+DE CABO VERDE	15912
 DE DEMANDE DE VERSEMENT PROJET C.2	15901
 DE LA VEILLE NORMATIVE Dans	15670
 DE LA VENTE COMMERCIALE	13293
@@ -668,7 +671,6 @@ DOCUMENT HISTORY Version Revision Date Revision	14441
 DOUANES RELATIVES AUX VEHICULES NEUFS	16047
 DRAFT VERSION	12990
 DRC Reform Matrix Verbatim	11906
-DSA. The World Bank Cabo Verde	15924
 DX Ventures	264,1,387,4937,3109
 DX Ventures Series	265
 DX Ventures and Enza Capital	7015
@@ -844,7 +846,7 @@ Equipment Vehicles Software Others	14830
 Equipment Vehicles Software Software Others Buildings	14830
 Espaces Verts	14489
 Estado da República de Cabo Verde	15359
-Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243,3326,60,29,43,28,22,229,334,57,230
+Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243,3326,60,29,43,28,22,168,61,334,57,230
 Estado de Cabo Verde. Artigo	15358
 Estado de Cabo Verde. Assim	16019
 Estado de Cabo Verde. Permite	7466,8561
@@ -969,7 +971,7 @@ Government Agencies France Launch Africa Ventures	4972
 Government Makes Biometric Verification Mandatory for Ghana	7369
 Government Program Cabo Verde's Strategic Plan	11863
 Government Strengthens Identification Verification System	16538
-Government of Cabo Verde	181,1,8,152,1067,3426,619,586,2598,3217,14,4,66,26,43,3483,61,18,354,59,289
+Government of Cabo Verde	181,1,8,152,1067,3426,619,586,2598,3217,14,4,66,26,43,3483,61,18,413,289
 Government of Cabo Verde. MFIS	11855
 Government of Cabo Verde. Taking	15590
 Government of Cape Verde	181,1,8,2604,2243,6832
@@ -1023,6 +1025,7 @@ Hub South Africa Sahara Ventures Tanzania	15460
 Hugo Verkuijl	5899
 I Verify Dashboard	12241
 I'Avis Irrévocable de Versement	15399
+IA de Verascient	16820
 IA de Verascient L'émergence	11508
 IASC-Directrices- VBG version-francaise.pd	15746
 IBM SPSS Version	9129
@@ -1037,7 +1040,7 @@ II.1.3.2. Vente	13452
 III.2.6.4. Vente	15685
 IMF Cabo Verde	15983
 IMF Investment Project Financing Independent Verification	11905
-IMPRENSA NACIONAL DE CABO VERDE IMPRENSA	15689
+IMPRENSA NACIONAL DE CABO VERDE IMPRENSA	15689,5
 IMPRIMERIE OFFICIELLE Les Vergers	15360,34,16,22,24,11,40,27,60,8,6,82,42,15,20,96,67,3,10,142,86,59,33,59,22
 INDICATEURS SOURCE DE VERIFICATION RISQUES ET	15722
 INFORMATIONS SUR LA FINANCE VERTE	13390
@@ -1097,6 +1100,7 @@ Introduce Mijo Airport Dropoff Vehicle Category	15867
 Introdução O Governo da República de Cabo Verde	12021
 Investments AVCA’s Venture Capital Database	4972
 Italian Funding Firm Launches Novagria Ventures	10931
+J Associação de Surdos de Cabo Verde	15694
 J. P. Verdin	16135
 JOINT VENTURES	11240
 JOINT VENTURES AFTER TAX	10793
@@ -1291,6 +1295,7 @@ Musha Ventures	12339
 Máquinas de Vectores de Suporte	2816
 N'EN VEUT PAS D'AUTRE	13300
 N. Vernon	11140
+NACIONAL DE CABO VERDE Av	15694
 NACIONAL DE CABO VERDE Av. da Macaronésia	15689
 NCC Verified	1777
 NCC Very	11857
@@ -1361,7 +1366,7 @@ Nucoode. O Digital Awards Cabo Verde	2281
 Numérique... Vendredi	3301
 Nyssen and Verbeke	10865
 Nzongomane and Velebantfu	12962
-O Banco de Cabo Verde	15433,7,682
+O Banco de Cabo Verde	15433,7,10,672
 O D Very High High Moderate	13053
 O ESTADO QUE CABO VERDE PRECISA	16487
 O Estado de Cabo Verde	15344
@@ -1384,7 +1389,7 @@ Online Verification Service	3225,210,1351,540,207,5713
 Online Verification System	4772
 Only for Veterans	12373
 OpenAPI Version	6423
-Operador Nacional de Sistema Elétrico de Cabo Verde	15924,59
+Operador Nacional de Sistema Elétrico de Cabo Verde	15983
 Operation Name P175828 Cabo Verde Human	16187
 Operators Verification	6593
 Orange Digital Ventures Africa	515,197,221,208,1,1,405
@@ -1410,6 +1415,7 @@ PARA CONSTRUIR UM CABO VERDE PARA	16487
 PARA IMPLEMENTAÇÃO DA LINHA VERDE NACIONAL	12798
 PARTECH AFRICA VENTURE CAPITAL FUND	188
 PARTECH AFRICA VENTURE CAPITAL FUND II	855
+PAs. While Cabo Verde	15924
 PCA da Imprensa Nacional de Cabo Verde	6571
 PDF Version	14511
 PEDRO VERONA RO DRIGUES PIRES Assinada	15359
@@ -1554,7 +1560,7 @@ RENFORCEMENT DE LA VEILE NORMATIVE ET	15999
 RENVOI DES VICTIMES VERS LES SERVICES	16085
 REPORT CABO VERDE Technology Park	11863
 REPORT DE VERSEMENT	15901
-REPUBLIC OF CABO VERDE	11855,110,2031,1495,433,59
+REPUBLIC OF CABO VERDE	11855,110,2031,1495,492
 REPUBLIC OF CABO VERDE MINISTRY	12008
 REPUBLIC OF CABO VERDE MINISTÉRIO	16493
 REPÚBLICA DE CABO VERDE	12021,3323
@@ -1595,6 +1601,7 @@ Registrar's Verification Statement	14647
 Registration of Road Motor Vehicles and Motorcycles	2775
 Regulatory Verification	5665
 Reinvent Cape Verde	3377
+Reis Associação de Surdos de Cabo Verde	15694
 Relações Exteriores Pela República de Cabo Verde	11393
 Reliability and Verifiability	3861
 Reliable. Verbatim Council-of-Ministers	6902
@@ -1610,13 +1617,12 @@ Report. VENTURE DEBT	4972
 Reporting and Verification	8561,863
 Republic of Cabo Verde	583,16,205,5203,2159,3697,78,3550,61,38,334,59,131,105,274
 Republic of Cabo Verde H. E. Adama	7452
-Republic of Cabo Verde Implementing Agency	15924
 Republic of Cabo Verde Loan No	8166
 Republic of Cabo Verde. Praia	11909
 Republica de Cabo Verde Tel	8166
-República Cabo Verde C.P	15532,157
+República Cabo Verde C.P	15526,6,157
 República Cabo Verde. C.P	15689
-República de Cabo Verde	11901,3443,14,119,26,1,5,17,6,40,117,5,395,130
+República de Cabo Verde	11901,3443,14,92,27,26,1,5,17,6,40,117,5,395,130
 República de Cabo Verde Projeto	16110
 República de Cabo Verde Tel	16110
 República de Cabo Verde Telefone	11941
@@ -1646,6 +1652,7 @@ SEKERE VERANTWOORDELIKE PARTYE	11255
 SEM. Matthias Veltin	2453
 SERVICES IN KENYA Version	9854
 SERVIÇO DE VOZ Verificou-se	11556
+SID VERDE	15694
 SIGNED RDHS PRESS RELEASE ENGLISH VERSION	15067
 SIM Swap and Number Verification APIs	6593
 SIZES OF BUILDING PLOTS Very Small	11129
@@ -1680,6 +1687,7 @@ Senior Veterinary Officer	15478
 Sergent-Chef OWONO-MBENG Gilles de Verne. CABINET MILITAIRE	16381
 Service de Veille Sanitaire	14442
 Services Version	14784
+Serviços de Cabo Verde	15912
 Setor Elétrico de Cabo Verde	16059
 Seychelles Mauritius Cabo Verde South Africa	10837,1503
 Sharing Reliable Data Verified	12209
@@ -1820,6 +1828,7 @@ Trusted Third Party Identity Verification	2068
 Tumusiime DK and Venkateswaran M	8376
 Tumusiime and Venkateswaran	8376
 Turismo de Cabo Verde	15526
+Turismo de Cabo Verde Geral	15526
 Turnkey Verifiable Cloud	4716
 Two-Step Verification	9166
 Type of Serial Number of Equipment Equipment Vehicle	736
@@ -1843,6 +1852,7 @@ Uganda Ve Personal Protection	5113
 Ukraine's Ministry of Veterans Affairs	12391
 Um Cabo Verde	15532
 Uma Ventures	11911
+Under the Very High Impetus of H.E. Brice	16802
 Unicef Cabo Verde	16510
 Unidade de Informação Financeira de Cabo Verde	11683
 Uniform Resource Locator VESDA Very Early	13185
@@ -1935,9 +1945,8 @@ VERBATIM AND IN FULL	6477
 VERBATIM EXCERPT	1807,5665,383
 VERBATIM FIDELITY RE-CAPTURE	7233
 VERBI Software	16329
-VERDE	12021,3668
+VERDE	12021,3668,5
 VERDE CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	16089
-VERDE Cabo Verde Third Fiscal Space	15924
 VERDE E DO RESPETIVO REGULAMENTO	16110
 VERDE Setembro	15684
 VERDE TECHNOLOGY PARK	11863
@@ -1997,7 +2006,7 @@ VHI Vegetation Health Index WFP World	15118
 VHW Village Health Workers VIP Very	12663
 VI.E Vehicles Register	10812
 VII- DATE AND VENUE OF NEXT	7452
-VIII Governo Constitucional da República de Cabo Verde	15564
+VIII Governo Constitucional da República de Cabo Verde	15564,348
 VMWARE and VEEAM Backup and Replication	11209
 VOLUME OF VENTURE CAPITAL EXITS	4972
 Valija Vehiculo Vehiculo Estudiantes GENERAL	4209
@@ -2070,8 +2079,9 @@ Vehicle Tester	14753
 Vehicle Tracking System	8888
 Vehicle and Fuel Taxation for Transport Demand Management	10997
 Vehicle-specific	7987
-Vehicles	236,1752,9563,404,779,599,1412,666,107
+Vehicles	236,1752,9563,404,779,599,1412,666,107,327
 Vehicles YES NO Concrete Building	14778
+Vehicular	15845
 Vehículo Domes. F U N C	4209
 Vehículo Domes. Repres. Respons. Soberanía Annual	4209
 Vehículo Domest. F U N C	4209
@@ -2089,7 +2099,7 @@ Veillez	6954,8614,1061
 Veja. Disponível	2816
 Vel Il MosTRheepeprrfoepRoerhteinotnEotf	12151
 Velagaleti Samuel David L. Surendra	16282
-Velar	163,4,4051,7164,136,3985
+Velar	163,4,4051,7164,136,3985,23
 Velasco	7836
 Velasquez	7278
 Veld Fires	13474
@@ -2173,7 +2183,7 @@ Vendor-by-vendor Standardisation	15164
 Vendor-lock	6432
 Vendor-name	3733
 Vendor-sourced	2520,2733
-Vendors	236,4047,280,1869,715,561,962,459,1360,320,2168,286,398,1271,232,119,1380
+Vendors	236,4047,280,1869,715,561,962,459,1360,320,2168,286,398,1271,232,119,1380,150
 Vendors Effective	14565
 Vendors and Solution Providers	11952
 Vendre	13390
@@ -2262,17 +2272,17 @@ Venture Fund. UNICEF	2239
 Venture Garden Group	53
 Venture Garden Nigeria	53
 Venture Media	12478
-Venture Platform	13256
+Venture Platform	13256,3518
 Venture-backed	4972
 VentureBeat	11135
 Ventures	4972
-Ventures Platform	816,96,1321,6465,358,411,28,424,1256,1164,917,1448
+Ventures Platform	816,96,1321,6465,358,411,28,424,1256,1164,917,1448,2070
 Ventures Platform Closes Pan-African Fund II	13256
 Ventures Platform Final	13256
 Ventures Platform Fund IV	816
 Ventures Platform Nigerian Technology Venture Fund	2233
 Ventures Platform Pan-African Fund I Mastercard	912
-Ventures Platform Pan-African Fund II	11735,1521,923
+Ventures Platform Pan-African Fund II	11735,1521,923,2595
 Ventures Platform and Stears	14704
 Ventures Program	15672
 Venu de Bonoua	9054
@@ -2330,7 +2340,7 @@ Verdade	2161
 Verdant Capital	11994
 Verdant Capital Hybrid Fund	693,354
 Verdant Capital Hybrid Fund Verdant Capital	692
-Verde	4835,6734,286,7,1,10,1,81,3478,102,17,12,455,176,213
+Verde	4835,6734,286,7,1,10,1,81,3478,17,85,17,12,455,176,213
 Verde Africa Western Africa Praia High	10840
 Verde Borrower	11855
 Verde Capacidade	11376
@@ -2339,6 +2349,7 @@ Verde H2	10840
 Verde Jos-Hymard	15524
 Verde OUTPUT INDICATOR	11863
 Verde Park Agency	11863
+Verde RECOLHA DIRETA COERCIVA Artigo	15450
 Verde Technology Park	11863
 Verde de Protecção	15380
 Verde2024	11874
@@ -2399,7 +2410,7 @@ Verificam-se	11556
 Verificando-se	10747
 Verificar	13,154,3980,71,7164,67,112
 Verificase	10777
-Verification	236,734,854,404,5086,54,540,119,256,1034,76,354,54,3,23,612,325,11,44,10,301,46,318,164,328,230,75,46,1,173,382,66,18,103,105,125,10,51,21,140,1204,291,93,44,178,321,220,149,112,68
+Verification	236,734,854,404,5086,54,540,119,256,1034,76,354,54,3,23,612,325,11,44,10,301,46,318,164,328,230,75,46,1,173,382,66,18,103,105,125,10,51,21,140,1204,291,93,44,178,321,220,149,112,68,587
 Verification Agent	15659
 Verification Agents	11905
 Verification Applicants	12211
@@ -2417,7 +2428,7 @@ Verification Report Procedures	15663
 Verification Reports	6727
 Verification Services	15704
 Verification Statement	14647
-Verification System	9855
+Verification System	9855,5990
 Verification System ILPD Institute of Legal Practice	718
 Verification Verification	10829
 Verification and Certification of Imported ICT Systems	6936
@@ -2435,7 +2446,7 @@ Verificação da Conformidade	11898
 Verificação de Incapacidades	11467
 Verificações	10777
 Verificou-se	11543
-Verified	107,5,44,1,3,2,4,55,1,1,1,3,3,7,70,3,2,2,7,88,3,4,9,1,110,7,9,14,11,6,167,4,2,1,6,1,8,1,11,3,1,2,169,12,3,5,2,6,5,1,3,1,6,20,1,166,7,2,2,15,61,3,10,288,6,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,95,1,128,148,202,387,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,1980,269,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,949,62,1321,1443,2931,29,706,586,616,445,257,203
+Verified	107,5,44,1,3,2,4,55,1,1,1,3,3,7,70,3,2,2,7,88,3,4,9,1,110,7,9,14,11,6,167,4,2,1,6,1,8,1,11,3,1,2,169,12,3,5,2,6,5,1,3,1,6,20,1,166,7,2,2,15,61,3,10,288,6,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,95,1,128,148,202,387,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,1980,269,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,949,62,1321,1443,2931,29,706,586,616,445,257,203,1594
 Verified Business	7427
 Verified Credentials Wallet. Phase	11940
 Verified Credit Decision	5482
@@ -2466,7 +2477,7 @@ Veritas NetBackup and Veeam Solution	14802
 Veritas Zimbabwe	3760,633
 Veritas. Vu	15744
 Verite Microfinance Bank	7496
-Verizon	4434,11037
+Verizon	4434,11037,1339
 VeriÞcations	15901
 Veriﬁcation	11860
 Veriﬁed	8604
@@ -2590,7 +2601,6 @@ Vertiv’s Regional Director for Northwest Africa	8244
 VertoFX	2777
 Vertragsverhandlungen	9062
 Vertrouesentrum	11199
-Veruschka Schmidt	15924
 Vervloesem	7966
 Verwaltung	900,2,2,627,1,7530
 Verwaltung KfW Development Bank	902
@@ -2621,6 +2631,8 @@ Very High Risk	13358
 Very High Speed Internet	14729
 Very High Supply Cost	1828
 Very High Supply Cost The Current	1828
+Very Large Online Platform	16783
+Very Large Online Search Engine	16783
 Very Poor	10964,1250
 Very Resilient	4848
 Very Small	12400

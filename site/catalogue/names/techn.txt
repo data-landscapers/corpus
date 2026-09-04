@@ -1842,9 +1842,9 @@ IMF Exploring the Adoption of Selected Digital Technologies	12948
 IMF High-Level Summary Technical Assistance Report	1698
 IMF Middle East Technical Assistance Center	15165
 IMF Staff Monitored Programme Technical Committee	11131,3
-IMF Technical Assistance	15924
 IMF Technical Notes and Manuals	1828,9312
 IMF Technical Notes and Manuals No	13624
+IMF-Africa Regional Technical Assistance Centers	15924
 IMPORTATION O6 DIRECTION TECHNIQUE	15670
 INATRO's Technical Area Administrator	12275
 INCLUSIVE TECHNOLOGY INFRASTRUCTURE Establishing	12444
@@ -1951,7 +1951,7 @@ Information Technologies	226,3619,5655,1264,2526,1476
 Information Technologies and Communications Authority	15099
 Information Technologies and Services	3722
 Information Technologies and Social Communication	3136,419,131,181,11,1560,329,220,495,114,32,36,133,465,3697,507,1722
-Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2,573,47,424,82,10,15,40,281,28,37,12,136,33,24,11,15,5,55,36,5,234,2,54,17,10,25,164,388,256,338,209,44,16,130,69,18,38,30,95,196,142,374,217
+Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2,573,47,424,82,10,15,40,281,28,37,12,136,33,24,11,15,5,55,36,5,234,2,54,17,10,25,164,388,256,338,209,44,16,130,69,18,38,30,95,196,142,374,217,664
 Information Technology Act	8210,998
 Information Technology Agency	4525
 Information Technology Agency NLP Natural	4126
@@ -2021,7 +2021,7 @@ Information Technology and Computer Science	6832
 Information Technology and Computer Training	12677
 Information Technology and Digital Transformation Platform	14998
 Information Technology and E-Governance	9437
-Information Technology and Innovation	7034,3163,195
+Information Technology and Innovation	7034,3163,195,6385
 Information Technology and Innovation Foundation	961,282,5966
 Information Technology and Innovations Division	14843
 Information Technology and Learning	16366
@@ -2178,7 +2178,7 @@ Internet and Information and Communications Technologies	12616
 Internetsional Technologies Ltd	3862
 Interoperability Emerging Technologies and Special Use Cases	5665
 Interopérabilité Technique	13841
-InterviewsAWS Series BUSINESS TECHNOLOGY MEDIA COMMUNITY	12867,1,1
+InterviewsAWS Series BUSINESS TECHNOLOGY MEDIA COMMUNITY	12867,1,1,3923,1,1,1
 InterviewsUnboxing BUSINESS TECHNOLOGY MEDIA COMMUNITY About	10735
 Intro Technology	10380
 Investment Project Financing IT Information Technology	15491
@@ -2272,7 +2272,7 @@ Kokologho. Le Technopôle	7670
 Kolda New Deal Technologique	5779
 Konza Development Technopolis Development Authority	1638
 Konza Technology City	359
-Konza Technopolis	359,877,9,393,1030,34,73,1786,1232,340,28,426,359,602,726,108,410,291,250,518,2,85,3,342,168,88,128,498,1045
+Konza Technopolis	359,877,9,393,1030,34,73,1786,1232,340,28,426,359,602,726,108,410,291,250,518,2,85,3,342,168,88,128,498,1045,4593
 Konza Technopolis Authority	6946
 Konza Technopolis Development	5793,1153
 Konza Technopolis Development Authority	1722,4439,785,2903,1316,3313
@@ -2474,6 +2474,7 @@ Make Digital Technology	15679
 Making Technology Work for Malawi UK FCDO	262
 Making and Governing of Digital Technology	11028
 Malawi Chief Technical Advisor for Rule of Law	13001
+Malawi Ministry of Information and Communications Technology	16823
 Malawi University of Science and Technology	2816,1742,1293,1563,4764,62,840,32,10,1280,913
 Malawi University of Science and Technology MZUNI Mzuzu	12241,839,15
 Malawi University of Science and Technology NSW	13053
@@ -2566,6 +2567,7 @@ Minister of Communications and Digital Technologies	1289,521,1804,628,2649,205,6
 Minister of Communications and Information Technology	11162,479,97,4131,123
 Minister of Communications and Information Technology Amr	15811
 Minister of Communications and Information Technology Raafat	16207
+Minister of Communications and Information Technology. Under	16808
 Minister of Communications and Technology	1694,48,1058,950,825,10332,46,12,30,125,50
 Minister of Digital Communications and Technologies	4242
 Minister of Digital Transition and Technological Innovation	4756,849,179,221,121,560,1445
@@ -2628,7 +2630,7 @@ Ministry of Information Technology	2668,848,3728,2890,162,4269,1,159,17,10,1,3,3
 Ministry of Information Technology and Communications	12333
 Ministry of Information and Communication Technologies	4289,8835
 Ministry of Information and Communication Technology	1010,6,983,589,1485,422,321,220,1645,428,17,1289,693,158,743,368,274,2322,9,13,20,29,59,19,43,45,1043,470
-Ministry of Information and Communications Technology	1572,3526,439,719,3564,591,1888,597,159,59,1281
+Ministry of Information and Communications Technology	1572,3526,439,719,3564,591,1888,597,159,59,1281,2394,34
 Ministry of Information and Digitalisation Technology	14674
 Ministry of Information and Technology	13002,2189
 Ministry of Innovation and Technology	464,286,540,493,11,1,18,284,781,329,1,387,3493,1,589,1630,2007,292,576,1788,16,4,13,6,7,89,973,129,1
@@ -2791,7 +2793,7 @@ National Information Technology Authority-Uganda	5064,1512,1456,42,649,1060,2,44
 National Information Technology Authority-Uganda Palm Courts	11750
 National Information Technology Development	5215
 National Information Technology Development Act	5665
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5,400
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5,400,3532
 National Information Technology Development Agency Act	10157,1836
 National Information Technology Development Agency NVDA	11952
 National Information Technology Development Agency Nigeria	8764
@@ -3023,6 +3025,7 @@ Pharmacy Council. Technical	15798
 Pharmacy Technician	14120
 Pharmacy Technicians	4260
 Pharmacy Technicians U.S. Mozambique Mozambique M	4260
+Phase II of Konza Technopolis	16803
 Physical Annual Emerging Technologies Technologies	7548
 Pinkie J Malebe SADCAS Technical Manager	13068
 Plan ICT Information Communication Technology NDP	11986
@@ -3385,7 +3388,7 @@ Scolarisation TIC Technologies	12
 Sea Net Technologies Ltd	3862
 Sea Net Technologies Nigeria Ltd	3862
 Sea Net Technologies Nigeria Ltd Nil	3862
-Seamless Technologies	13256
+Seamless Technologies	13256,3518
 Sec. Health Technology Implementation. Volume	10940
 Second Technical Meeting of IDT4M Project	12241
 Secondary School TVET Technical and Vocational Education	14896
@@ -3760,7 +3763,7 @@ Technecultura	4734,5993
 Technecultura Meta	10727
 Technext	9112,1393,4427
 Technext24	8852
-Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91,52,8,15,14,13,36,11,2,2,39,5,50,40,139,11,16,14,27,5,41,13,2,16,14,11,32,22,37,10,63,111,1,6,12,36,12,45,82,14,30,5,15,40,5,40,14,5,1,5,18,35,3,87,125,10,11,1,13,18,18,11,11,71,132,18,37,82,50,75,70,22,25,21,72,344,12,6,9,202,85,42,24,16,1,15,12,5,9,20,3,5,8,1,30,8,6,6,18,52,10,7,46,1,39,10,8,11,15,19,99,1,19,70,39,13,23,59,5,7,48,38,54,1,2,2,119,78,26,23,30,30,14,96,65,122,13,214,182
+Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91,52,8,15,14,13,36,11,2,2,39,5,50,40,139,11,16,14,27,5,41,13,2,16,14,11,32,22,37,10,63,111,1,6,12,36,12,45,82,14,30,5,15,40,5,40,14,5,1,5,18,35,3,87,125,10,11,1,13,18,18,11,11,71,132,18,37,82,50,75,70,22,25,21,72,344,12,6,9,202,85,42,24,16,1,15,12,5,9,20,3,5,8,1,30,8,6,6,18,52,10,7,46,1,39,10,8,11,15,19,99,1,19,70,39,13,23,59,5,7,48,38,54,1,2,2,119,78,26,23,30,30,14,96,65,122,13,214,182,134
 Technical ACTC	12364
 Technical AI Governance	5276
 Technical Acceptance	12364
@@ -3805,7 +3808,6 @@ Technical Assistance Report-Climate Policy Diagnostic	15983
 Technical Assistance Report-Report	14634
 Technical Assistance Report-Review and Evaluation	6938
 Technical Assistance Reports Volume	15983
-Technical Assistance SOE Oversight Unit	15924
 Technical Assistance ToR Terms of Reference TSO	15659
 Technical Assistance ToR Terms of Reference USAID	15515
 Technical Assistance Total2 Public	12399
@@ -4158,6 +4160,7 @@ Technical and Vocational Education and Training VC Venture	15447
 Technical and Vocational Education andTraining	1443
 Technical and Vocational Training	14082,2062
 Technical and Vocational Training Centers Upgrading Project	258
+Technical-Vocational Education and Skills Training	16769
 Technically	4242,95,31,2000,783,4740,3406,847
 Technicalperformanceonadeveloper-controlled	8301
 Technicat Guidance	3972
@@ -4754,6 +4757,7 @@ Telecommunications and Digital Technologies	9756
 Telecommunications and Digital Technologies. Within	9756
 Telecommunications and Information Technology	226
 Telecommunications and Technology	109,14770,9
+Telecommunications and Technology Sector	16776
 Telecoms and Technology	14888
 Tendai S. Samusodza Department of Information Technology	8130
 Term Description ICT Information Communication Technologies	14674

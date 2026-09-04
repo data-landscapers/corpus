@@ -228,7 +228,7 @@ Civic Awareness. TABLE	13005
 Civic Center	7444
 Civic Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Civic DEFENDERS	1566
-Civic Education	11905,1190,1756
+Civic Education	11905,1190,1756,994
 Civic Education Strategy	13095
 Civic Education Strategy for NRB Figure	12241
 Civic Engagement	2096,10118
@@ -546,6 +546,7 @@ Civil Society Organizations CTT	14857
 Civil Society Organizations Financing	7548
 Civil Society Organizations and Academia	16542
 Civil Society Organizations and Development Partners	11863
+Civil Society Participate	15845
 Civil Society Raises Alarm	11677
 Civil Society Self-coordinating Mechanism	5162
 Civil Society Shall	13347
@@ -691,7 +692,7 @@ Courtesy The Directorate of Civil Registry and Immigration	7932
 Criminal Civil	10750
 Criminal and Civil Identification	10775
 Culture Civil Service College Deliver	14566
-Código Civil	11537,364,3495
+Código Civil	11537,364,3495,742
 Código Civil Cabo-Verdiano	15470
 Código Civil. Artigo	11901
 Código de Registo Civil	11363,174,32,1206,2621
@@ -800,6 +801,7 @@ Donors Support Civil Society	6948
 Download CIV1 Site Tech Specs Download	10956
 Droits Civils	10826,2504,112,1419
 Drones Civiles	13500
+E-training Management for Civil Servants	16757
 EDUCATION CIVIQUE ET	15999
 ELECTRONIC RECORDING IN CIVIL STATUS REGISTERS	12338
 ENREGISTREMENT DES NAISSANCES A L’ÉTAT CIVIL	13300
@@ -1174,7 +1176,7 @@ Office of Civil Status and Identification	3604
 Officers of Civil	12226
 Ordre National des Ingénieurs de Génie Civil	15542
 Organizational Structure of Civil Registration	12151
-Organizações da Sociedade Civil	11569
+Organizações da Sociedade Civil	11569,4125
 Organizações da Sociedade Civil PDCT	11387
 Oromia Civil Registration Agency	12188
 Os Serviços de Identificação Civil	2953
@@ -1314,6 +1316,7 @@ Rwanda's Civil Registration and Vital Statistics	8376
 Rwanda. Civil	12413,2643
 Rwanda’s Civil Registration and Vital Statistics	5399
 Réinsertion Socio- and Civic	10985
+SALW Number of Civilian	15845
 SAMA ETAT CIVIL	7526
 SARLUNIPERS YALI GENIE CIVIL	16623
 SECTION TWO REGISTER OF CIVIL	12226

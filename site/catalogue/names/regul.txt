@@ -207,7 +207,7 @@ Autoridade Reguladora de Comunicações da Namíbia	6798
 Autoridade Reguladora de Energia Atómica BM Banco	11376
 Autoridade Reguladora de Farmácias	11543
 Autoridade Reguladora de Tecnologias de Informação	6970
-Autoridades de Regulação Económica	15526
+Autoridades de Regulação Económica Fomento Empresarial	15526
 Autorite de Regulation	15584
 Autorite de Regulation du Numerique	15584
 Autorite de Regulation du Numerlque	15584
@@ -547,6 +547,7 @@ Develop and Enforce Robust Consumer Protection Regulations	12444
 Developing Regulatory Frameworks	16046
 Development of Supporting Legal and Regulatory Instruments	3678
 Developmental Regulation	11857
+Device Management System and Type Approval Regulations	16799
 Digital Africa Policy and Regulatory Index	14674
 Digital Analysis and Regulation Platform	6342
 Digital Assets Regulation	8697
@@ -1037,7 +1038,7 @@ Indonesia’s Government Regulation	11310
 Industry Regulation Act	11188
 Influencer and Third-Party Regulations	9855
 Information Regulations	12376,1304
-Information Regulator	1605,1119,94,76,497,571,481,140,592,4,13,295,237,82,581,125,120,51,44,159,169,701,516,163,166,316,317,858,637,506,17,3,10,24,388,290,17,62,1,185,1038,1087,316,654
+Information Regulator	1605,1119,94,76,497,571,481,140,592,4,13,295,237,82,581,125,120,51,44,159,169,701,516,163,166,316,317,858,637,506,17,3,10,24,388,290,17,62,1,185,1038,1087,316,654,1465
 Information Regulator South Africa	7055
 Information Regulator South Africa’s Information Regulator	5806
 Information Regulator of South Africa	6632,51
@@ -1236,7 +1237,7 @@ Majority Regulatory	10718
 Malam Bacai Sanhá. REGULAMENTO DE FISCALIZAÇÃO	11520
 Malam Bacai Sanhá. REGULAMENTO DE OFERTA	11520
 Malam Bacai Sanhá. REGULAMENTO RELATIVO AO	11519
-Malawi Communications Regulatory Authority	1704,1398,6,570,494,411,26,925,14,504,894,418,47,1,31,43,39,1692,729,464,2,236,1518,6,15,45,8,13,10,52,593,33,95,44,34,1076,184,300
+Malawi Communications Regulatory Authority	1704,1398,6,570,494,411,26,925,14,504,894,418,47,1,31,43,39,1692,729,464,2,236,1518,6,15,45,8,13,10,52,593,33,95,44,34,1076,184,300,2149
 Malawi Communications Regulatory Authority Date	13035
 Malawi Communications Regulatory Authority MDAT	12175
 Malawi Communications Regulatory Authority MDAs Ministries	12241,839,15
@@ -1436,6 +1437,7 @@ Não EST-LEG10 Regulamento	15532
 Não Regulamentada	15263
 O Conselho de Administração da Autoridade Reguladora	2866
 O F TH E REGUL ATO	13357
+O Regulamento	15912
 O Regulamento C	11531
 O Regulamento Europeu de Inteligência Artificial	2816
 O Regulamento Interno	11365
@@ -1851,8 +1853,9 @@ Regulamentar	2816,2847,10021,5,83
 Regulamentar de Segurança Cibernética	7736
 Regulamentares	10755,2036
 Regulamentares Relacionados	2816
-Regulamentação	14,1,2801,4154,4388,1,4,31,175,742,512,2709,496,459
+Regulamentação	14,1,2801,4154,4388,1,4,31,175,742,512,2627,82,496,459
 Regulamentação A UIF	15359
+Regulamentação Artigo	15526
 Regulamentação Compete	15440
 Regulamentação Continental	2816
 Regulamentação Específica	10754
@@ -1865,7 +1868,7 @@ Regulamentação da Inteligência Artificial da União Europeia	2816
 Regulamentação de Cartões de Pagamento	11403
 Regulamentações	2816
 Regulamentações de Danos Ambientais	11390
-Regulamento	13,563,168,50,1,1642,1,378,50,380,273,755,895,1293,2283,219,1786,4,1,28,576,1,9,4,17,15,14,11,1,14,3,4,15,21,31,1,11,11,27,226,103,120,756,8,12,14,32,13,2527,8,144,240
+Regulamento	13,563,168,50,1,1642,1,378,50,380,273,755,895,1293,2283,219,1786,4,1,28,576,1,9,4,17,15,14,11,1,14,3,4,15,21,31,1,11,11,27,226,103,120,756,8,12,14,32,13,2527,8,138,6,240
 Regulamento ANEXO II	794
 Regulamento C	11531
 Regulamento Constituição da República de GuinéBissau Lei	11542
@@ -1953,7 +1956,7 @@ Regulamentos Técnicos	11381
 Regulamentos de Zoneamento P	11898
 Regulamentámos	16251
 Regulaons	9128
-Regular	585,133,53,199,716,15,166,121,787,183,561,64,278,667,306,447,316,68,12,755,514,2,1722,196,257,493,1105,42,89,18,94,33,10,122,2,2,1,1,58,177,25,184,326,19,28,34,22,158,9,20,19,12,24,3,103,39,58,5,54,217,178,25,121,27,15,219,18,13,13,5,57,103,9,406,42,24,41,419,60,42,100,62,1,1,12,3,3,13,12,45,17,62,1,25,9,3,62,78,89,42,38,189,45,123,57,1,25,5,24,12,85,149,54,19,57,347,164
+Regular	585,133,53,199,716,15,166,121,787,183,561,64,278,667,306,447,316,68,12,755,514,2,1722,196,257,493,1105,42,89,18,94,33,10,122,2,2,1,1,58,177,25,184,326,19,28,34,22,158,9,20,19,12,24,3,103,39,58,5,54,217,178,25,121,27,15,219,18,13,13,5,57,103,9,406,42,24,41,419,60,42,100,62,1,1,12,3,3,13,12,45,17,62,1,25,9,3,62,78,89,42,38,189,45,123,57,1,25,5,24,12,85,35,114,54,19,57,347,164
 Regular Audits and Reporting	12675
 Regular Budget. Project Budget	14924
 Regular Capacity Building Efforts	13998
@@ -1979,7 +1982,7 @@ RegularE.FR	10975
 RegularE.FR Participation	10975
 Regularisation	12984,490
 Regularity	15164
-Regularizar	4209
+Regularizar	4209,11317
 Regularization	15473
 Regularization Public	15473
 Regularization of Status Act	2831
@@ -1987,7 +1990,7 @@ Regularization of Status of Certain Residents of Namibia	12337
 Regularização	539,11362,117
 Regularizações	12018
 Regularize	16188
-Regularly	1686,302,2622,1066,1,4,5535,736,262,39,2,47,81,36,256,645,753,143,458,60,43,142,78,26,11,95,32,443,156
+Regularly	1686,302,2622,1066,1,4,5535,736,262,39,2,47,81,36,256,645,753,143,458,60,43,142,78,26,11,95,32,443,156,85
 Regularly Assessed	14777
 Regulasiekoerant	11233
 Regulasiekoerant N.B. The Government Printing Works	11196,17,20
@@ -2002,7 +2005,7 @@ Regulate Recognition	12214
 Regulate Regulatory Tools Communications Monitoring	9109
 Regulate Technology. Oxford University Press	5242
 Regulate and Ensure	15716
-Regulated	718,222,888,2298,862,5372,359,103,440,952,1712,810,78,1110
+Regulated	718,222,888,2298,862,5372,359,103,440,952,1712,810,78
 Regulated APIs	10719
 Regulated Activities	16212
 Regulated Businesses	14891
@@ -2124,7 +2127,7 @@ Regulation. The Customer	14867
 Regulation. The Regulatory Authority	14867
 Regulation.12 Pillar	4126
 Regulation29	10765
-Regulations	3,8,11,551,14,131,18,47,15,174,24,24,141,62,40,70,46,22,229,120,27,30,3,4,30,3,30,23,9,79,319,40,16,96,167,48,3,32,18,91,95,45,29,9,134,31,65,62,19,231,176,79,68,26,82,614,27,43,46,33,112,107,162,3,353,18,46,26,3,41,62,15,7,46,132,430,137,42,38,96,13,11,103,57,4,37,67,23,23,3,2,418,22,78,3,66,10,12,40,7,93,11,49,3,58,11,2,11,5,5,172,153,35,86,164,122,29,47,7,33,91,46,1,75,6,12,47,270,274,193,20,41,190,3,15,43,13,21,66,38,145,408,55,80,5,115,30,15,29,65,62,2,2,1,2,1,4,1,11,12,20,2,14,6,4,18,2,71,234,78,189,23,7,1,23,72,9,7,1,53,15,32,6,49,15,6,15,41,6,1,20,3,37,1,3,4,1,44,19,9,2,13,6,15,5,29,15,25,5,1,36,4,5,2,5,4,3,9,4,13,1,21,1,26,5,1,9,4,4,4,10,8,5,48,15,1,27,95,27,8,2,1,1,4,3,6,5,2,10,1,8,5,6,20,1,1,4,7,5,37,11,25,11,2,5,7,38,5,50,7,33,68,1,9,1,1,7,2,7,1,4,2,1,6,3,8,13,19,10,22,13,4,17,33,14,14,55,6,4,14,29,89,309,4,16,166,5,11,16,45,3,5,140,7,5,8,19,39,31,2,2,5,13,13,35,1,4,43,5,27,39,1,1,1,1,1,1,1,2,1,4,1,2,2,3,1,5,1,1,2,3,5,13,2,6,19,11,2,3,3,2,10,10,5,4,1,1,5,17,3,9,1,11,41,12,3,67,52,15,45,23,112,79,53,80,7,4,116,55,139,107,610,27
+Regulations	3,8,11,551,14,131,18,47,15,174,24,24,141,62,40,70,46,22,229,120,27,30,3,4,30,3,30,23,9,79,319,40,16,96,167,48,3,32,18,91,95,45,29,9,134,31,65,62,19,231,176,79,68,26,82,614,27,43,46,33,112,107,162,3,353,18,46,26,3,41,62,15,7,46,132,430,137,42,38,96,13,11,103,57,4,37,67,23,23,3,2,418,22,78,3,66,10,12,40,7,93,11,49,3,58,11,2,11,5,5,172,153,35,86,164,122,29,47,7,33,91,46,1,75,6,12,47,270,274,193,20,41,190,3,15,43,13,21,66,38,145,408,55,80,5,115,30,15,29,65,62,2,2,1,2,1,4,1,11,12,20,2,14,6,4,18,2,71,234,78,189,23,7,1,23,72,9,7,1,53,15,32,6,49,15,6,15,41,6,1,20,3,37,1,3,4,1,44,19,9,2,13,6,15,5,29,15,25,5,1,36,4,5,2,5,4,3,9,4,13,1,21,1,26,5,1,9,4,4,4,10,8,5,48,15,1,27,95,27,8,2,1,1,4,3,6,5,2,10,1,8,5,6,20,1,1,4,7,5,37,11,25,11,2,5,7,38,5,50,7,33,68,1,9,1,1,7,2,7,1,4,2,1,6,3,8,13,19,10,22,13,4,17,33,14,14,55,6,4,14,29,89,309,4,16,166,5,11,16,45,3,5,140,7,5,8,19,39,31,2,2,5,13,13,35,1,4,43,5,27,39,1,1,1,1,1,1,1,2,1,4,1,2,2,3,1,5,1,1,2,3,5,13,2,6,19,11,2,3,3,2,10,10,5,4,1,1,5,17,3,9,1,11,41,12,3,67,52,15,45,23,112,79,53,80,7,4,116,55,139,107,23,587,27
 Regulations Act	12523,5
 Regulations Act. Assistance	14736
 Regulations Amendment	5687
@@ -2226,7 +2229,7 @@ Regulations. The Landlord and Tenant	14742
 Regulations. The Mechanical Engineering Laboratory	14736
 Regulations. The PIU	15553
 Regulato1y	4153
-Regulator	324,634,647,1171,742,367,297,666,764,84,987,44,65,345,2226,1612,163,413,306,127,62,186,167,116,151,9,27,65,202,345,840,36,167,773,350,563
+Regulator	324,634,647,1171,742,367,297,666,764,84,987,44,65,345,2226,1612,163,413,306,127,62,186,167,116,151,9,27,65,202,345,840,36,167,773,350,444,119
 Regulator ARCEP	15424
 Regulator Insecurity	11857
 Regulator July-Sept	3518
@@ -2244,7 +2247,7 @@ Regulator. Powers	12666
 Regulator. Prohibition	12666
 Regulator. The Consumer	11138
 Regulator.org.za ISSUED BY THE INFORMATION REGULATOR	12046
-Regulators	940,18,3,851,2049,260,74,388,265,80,156,257,31,303,6,182,192,1,92,100,137,284,163,2,104,235,8,279,88,58,39,570,68,181,199,54,410,52,317,112,130,21,28,30,138,120,80,185,230,83,65,138,215,60,3,33,584,68,453,25,98,49,9,13,208,243,378,25,25,187,807,6,220,1,108,62,83,178,133
+Regulators	940,18,3,851,2049,260,74,388,265,80,156,257,31,303,6,182,192,1,92,100,137,284,163,2,104,235,8,279,88,58,39,570,68,181,199,54,410,52,317,112,130,21,28,30,138,120,80,185,230,83,65,138,215,60,3,33,584,68,453,25,98,49,9,13,208,243,378,25,25,187,807,6,220,1,108,62,83,178,133,1669,12,3
 Regulators AI	7548
 Regulators Algeria Financial Stability Committee Angola	6938
 Regulators Chief Executive Officer	6938
@@ -2497,7 +2500,7 @@ Regulatory and Technical Enablement	13052
 Regulatórias Guiné-Bissau	11569
 Regulatório	12841
 Regulatório Favorável. Apoiar	11898,123
-Regulação	2295,521,1330,2404,1937,2883,60,101,1246,3189
+Regulação	2295,521,1330,2404,1937,2883,60,101,1246,2749,440
 Regulação Digital	11448,83
 Regulação Externa	10366
 Regulação da Inteligência Artificial	2816

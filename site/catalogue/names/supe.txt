@@ -92,7 +92,7 @@ Conseil Superieur	15584
 Consejero Superior	4209
 Consejo Superior	4209
 Consejo Superior P.J	4209
-Conselho Superior	12039,3487
+Conselho Superior	12039,3487,386
 Conselho Superior da Comunicação Social	12311,522
 Conselho Superior da Estatística	11526
 Conselho Superior da Magistratura	16487
@@ -176,7 +176,7 @@ Emmanuel Simango Technical Supervisor	13392
 Engineering and Supervision Technical Consultant Component	14080
 Enhanced and Proactive Supervision	10
 Enseignement Superieur	14472,190
-Ensino Superior	414,2059,343,703,5580,335,7,1313,633,4,19,47,66,11,8,10,5,75,1138,39,3357,321,62
+Ensino Superior	414,2059,343,703,5580,335,7,1313,633,4,19,47,66,11,8,10,5,75,1138,39,2885,472,321,62
 Ensino Superior ID	9441
 Ensino Superior ML	2816
 Ensino Superior Ministério da Energia	11569
@@ -224,6 +224,7 @@ Geo-Enabling for Monitoring and Supervision	16436
 Global Network of AI Supervisory Authorities	6997
 Government Schools Supervisor	12726
 Government Super App	14752,38
+Governo da Superintendência	15912
 Groupe des Superviseurs Bancaires Francophones. The Bank	14744
 HB Supervision	14666
 HEW Supervisor	1219
@@ -281,6 +282,7 @@ KOREK Super App	5786
 Kennete Mmusinyane of Obed Supermarket	2935
 Kenya Digital Health Superhighway	10031
 Kenya's Digital Superhighway	7985,2647
+Kenya’s BETA Digital Superhighway	16803
 Kenya’s Digital Superhighway	8382,2250,533
 Kwanonqaba Mb Superspar Clanwilliam PnP Sanbury	8999
 L'ACCES AU GRADE DE SUPERVISEUR	16230
@@ -386,6 +388,7 @@ Pension and Insurance Supervision Director	6938
 Pesa Super App	6350
 Pesa Super App. Through	6350
 Phillipi SuperSpar Eeesteriver Superspar Khayelitsha Pick	8999
+Poderes de Superintendência	15912
 Política de Superintendência	11933
 Portal and Super App With the Unified Government	14752
 Postes Super-	15615
@@ -432,6 +435,7 @@ SUPERIEUR DE LA JEUNESSE MINISTERE	16322
 SUPERIEUR ET	15568
 SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE	12,15398,971
 SUPERIEURS ECHELLE	15524
+SUPERINTENDÊNCIA Artigo	15912
 SUPERIOR DE ESTATÍSTICA Artigo	11516
 SUPERVISING AUTHORITY OF RDB Article	14862
 SUPERVISING AUTHORITY OF RDB UMUTWE WA	14862
@@ -488,6 +492,7 @@ Super App KOREK	14830
 Super App Soft	14791
 Super App URL	14791
 Super Apps	6971,1136
+Super Bowl	16810
 Super Cereal	16526
 Super ESCO	14947
 Super Gate	6472
@@ -542,11 +547,12 @@ Superintendent of Police	14760
 Superintendent of Police SSU	14760
 Superintendente	11561
 Superintendents	13361
-Superintender	167,10588,4817
+Superintender	167,10588,4771,46
 Superintendidos	4556,1
-Superintendência	167,263,3788,7151,12,1,6,50,11,484,3500,7,389
+Superintendência	167,263,3788,7151,12,1,6,50,11,484,3500,7,10,379
+Superintendência A ATCV	15912
 Superintendência O NOSI	15391
-Superior	4209,6568,639
+Superior	4209,6568,639,4278
 Superior Council of Social Communication	12201
 Superior Council of Social Declaration of Principles	12201
 Superior Counsel of Judicial Magistrates	12201
@@ -623,7 +629,7 @@ Supervision. All	2948,1484,3327,371
 Supervision. Arlicle	15438
 Supervision. Cecil H. Kgoetiane	7759
 Supervision. Sihle Sibiya	7759
-Supervisionar	4218,6565,632,13,7,3924,145,251,334
+Supervisionar	4218,6565,632,13,7,3924,145,22,229,334
 Supervisions	12358
 Supervisión	1701,2508
 Supervisor	34,548,2234,8745,692,33

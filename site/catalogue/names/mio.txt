@@ -1,5 +1,7 @@
 Budget MIOS Minimum Information Interoperability Standards	5533
+IES MIOT	15694
 Kuandaa Miongozo	2868
+MF MIOTH	15694
 MICE and MIOTH	4412
 MIOLAMI	15901
 MIOS Catalogue	11184
@@ -7,7 +9,11 @@ MIOS Framework	11184
 MIOS Framework and Principles Document	11184
 MIOS V6	11184
 MIOS Version	11184
-MIOTH	11862,4325
+MIOTH	11862,3832,493
+MIOTH CMs	15694
+MIOTH CMs Desenvolver Promoção da Estabelecimento	15694
+MIOTH FECAD	15694
+MIOTH IGT	15694
 MIOTH Ministry of Infrastructure	16187
 Mio BIF	13325
 Mio. Menschen	904

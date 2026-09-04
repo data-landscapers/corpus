@@ -47,7 +47,6 @@ Closing Period Month	6579,349
 Closing Period Oct	12267
 Closing Period Page	15969
 Closing Period Percentage	12228,39
-Closing Period Pillar	15924
 Closing Period Result Date Result Date	4653,11379
 Closing Period Result Month	4653,11316,63,155
 Closing Period Revise People	4653
@@ -98,6 +97,7 @@ EVINAYONG PERIFERIA	4209
 Egyptian Planners In the Liberal Experiment Period	15473
 Eleventh Periodic Report	14742
 Ended During the Period Under Review.139	11259
+Evaluation Framework Periodic	15845
 Execution Period	15901
 Family Registration Period	12226
 Fertile Period	15247
@@ -219,7 +219,7 @@ Perinatais	15966
 Perinatal Health Monitoring Module	11589
 Perinatal Mortality	15247
 Perini	11156
-Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,23,119,101
+Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101
 Period Covered	12987
 Period FY	6946
 Period FY17	10964
@@ -304,7 +304,6 @@ RECOGNIZED IN THE PERIOD Net Earnings	11955
 REG. Period	388
 REMPE Declaração Periódica de Rendimento	12018
 REPORTING PERIOD	12976
-RESULTS Baseline Period	15924
 RIABA PERIFERIA	4209
 Rating Periodicity	14777
 Registrar General’s Department French Colonial Period	14761

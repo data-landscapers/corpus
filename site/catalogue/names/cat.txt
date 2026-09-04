@@ -21,7 +21,7 @@ Admin Category	12465
 AfDB African Development Bank CATI Computer	13359
 AfricInvest and Cathay Innovation	945
 AfricInvest and Cathay Innovation. Invests	612
-Africa Ecosystem Catalysts Facility	14233
+Africa Ecosystem Catalysts Facility	14233,2583,1
 Africa Ecosystem Catalysts Facility Announces USD	14233
 Age Categories TKP Beneficiaries	15663
 All Categories	15388
@@ -160,7 +160,7 @@ Cascador’s Catalytic Fund	14705
 Cash for Work Labor-Intensive PWP for Resilient Catchments	13111
 Cat B1	15659
 Cat C	5005
-Cat DDO	15983
+Cat DDO	15924,59
 Cat-add-codes	704,1,430
 Cat6 Patch Panel	12681
 Cat6A	13185
@@ -191,12 +191,12 @@ Catalyses	1468
 Catalyseur	5978
 Catalysing	11130
 Catalysing Renewable Energy Access and Transition	13054
-Catalyst	226,6880,5180,2561,150
+Catalyst	226,6880,5180,2561,150,1778
 Catalyst Fund	4972,2607,1569
 Catalyst for Africa’s Sustainable Community Health	15833
 Catalyst for Inclusive E-Commerce	7860
 Catalyst for Sustainable Development	12962
-Catalysts	10464,685,157
+Catalysts	10464,685,157,5469
 Catalytic	4185,2227,5177,708,147,2264,1436
 Catalytic Agents	2957
 Catalytic Are Political Development and Corruption	1828
@@ -216,7 +216,6 @@ Catalyzing Private	13938
 Catalyzing Sustainable Change	13998
 Catapult	7283
 Catapult Africa	7283
-Catarina Isabel Portelo	15924
 Catarina Veiga Ministério da Saúde	16000
 Catarino Fontes Pereira	8052
 Catastro	1701,2508
@@ -290,7 +289,7 @@ Category A1	11868
 Category A2	11868
 Category Allocated Financed	11525
 Category Author Lucia Nghifindaka	13247
-Category B	7695,4173,92,177,372,2863,39,100,90
+Category B	7695,4173,92,177,372,2863,39,100,90,1175
 Category B Taxpayers	12509
 Category Before Restructuring	15969
 Category C	5005,2690,4173,641,2379
@@ -550,6 +549,7 @@ Definition of Customer Categories Individual	5687
 Demographic Category of PWDs	12460
 Deposit Category Balance	14546
 Developing Telecoms Details Vaughan O'Grady Category	5908
+Development Results E&S Category Rationale	16776
 Development of Bank Categorization Large Banks Medium-sized	11960
 Devices and Terminals No Category of Q2	2776
 Devine Mercy Eldoro Catholic Dispensary Data	7167
@@ -860,6 +860,7 @@ Seychelles Details Vaughan O'Grady Category	2511
 Shepherd Roman Catholic Church Walvis Bay	13046
 Short List of National Consultants Prior Category	11525
 Short List of National Prior Consultants Category	11525
+Social Categorization Rationale	16776
 Social Category	15672
 Special Categories	3861
 St Cecilia Roman Catholic Basic School	16346

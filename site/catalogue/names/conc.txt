@@ -214,6 +214,7 @@ CONCUITENCE	14713
 CONCURRENCE Arllcle	15429
 CONCURRENCE Chapitre XIV	16615
 CONCURRENCE LOYALE	15394
+CONCURSAL Artigo	16138
 CONCURSO PARA	11473
 CONSEJO DE LA REPUBLICA Cuentas CONCEPTO	4209
 CONSEJOS DE POBLADOS CATEGORÍA MINISTERIO CONCEPTO	4209
@@ -265,7 +266,7 @@ Concebida	15344
 Concebido	9694
 Concede	11372
 Concedente	15526
-Conceder	10754,1,4748,586
+Conceder	10754,1,4748,23,563
 Concedida	11901
 Conceito	11555,346
 Conceitos	11413,35,4116,761
@@ -273,7 +274,7 @@ Conceitos Objetivos de Aprendizagem	15564
 Conceituar	15564
 Conceived	3150
 Concelhias de Finanças	16056
-Concelho	15380,676
+Concelho	15380,70,606
 Concelho OnLine	15593
 Concelho de Direção	10752
 Concelhos	16056
@@ -427,10 +428,10 @@ Concession Model	14621
 Concession de Transport Modification	15670
 Concession du Titre de Basilique Mineure	13405
 Concession. Installations	16612
-Concessional	107,5,44,1,3,2,4,55,1,1,1,3,3,7,70,3,2,2,7,88,3,4,9,1,110,7,9,14,11,6,167,4,2,1,6,1,8,1,11,3,1,2,169,12,3,5,2,6,5,1,3,1,6,20,1,166,7,2,2,15,61,3,10,288,6,186,1,128,148,202,3113,1303,8282,50,927
+Concessional	107,5,44,1,3,2,4,55,1,1,1,3,3,7,70,3,2,2,7,88,3,4,9,1,110,7,9,14,11,6,167,4,2,1,6,1,8,1,11,3,1,2,169,12,3,5,2,6,5,1,3,1,6,20,1,166,7,2,2,15,61,3,10,288,6,186,1,128,148,202,3113,1303,8282,50
 Concessional Financing	13756,239,917,785
 Concessional Financing and Incentives	12399
-Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2604,220
+Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2604,220,114
 Concessional Loan Agreement	15399
 Concessional Loan Department The Export-Import	15399
 Concessional Loan Framework Agreement of Rwanda Smart	791
@@ -449,15 +450,16 @@ Concessions and Treasury Funds	13122
 Concessionária	11443,4083
 Concessionária Geral	15526
 Concessionária Nacional	11405
-Concessão	11384,21,25,84,13,374,3487
+Concessão	11384,21,25,84,13,374,3487,138
 Concessão de Asilo ARTIGO	11365
 Concessão de Crédito	11386
 Concessão de Direitos Fundiários	11408
 Concessão de Gestão	11443
+Concessões	15526
 Concessões Empresariais	12789
 Concessões. Em	15526
 Concevoir	12043,1247,51,1946,451,632
-Conceção	11547
+Conceção	11547,4147
 Concha Verdugo Yepes	11559
 Conciliadores	16487
 Conciliat	14742
@@ -686,10 +688,10 @@ Concurrency and Computation	8605
 Concurrent	1828,4044,3251,3237
 Concurrent Jurisdiction of Courts	13948
 Concurrent Power of Taxation	13948
-Concurrently	1828,931,417,407,864,206,594,1755,202,1924,488,236,916,73,370,1395,239,132,76,42,590,749,310,1,184,68,132,596,199,587
+Concurrently	1828,931,417,407,864,206,594,1755,202,1924,488,236,916,73,370,1395,239,132,76,42,590,749,310,1,184,68,132,596,786
 Concurrently Maintainable Tier III	9123
 Concursal	4557
-Concurso	14,1,11414,50,41,1330,2583
+Concurso	14,1,11414,50,41,1330,2583,705
 Concurso Público	11619,3769
 Concurso de Crime	3519
 Concursos	15388
@@ -1136,7 +1138,6 @@ Principais Conclusões	10777
 Privacy Concerns	14524
 Problemas Concretos	8827
 Procedimento de Concurso Público	4556,1
-Programa Nacional de Conciliação	15694
 Project Concept Note	13731,1693
 Project Conceptual Note PCU Project Coordination	13731
 Projet. Conclusion	1005
@@ -1230,6 +1231,7 @@ Sectoral Concertation Committee	11916
 Security Concerns	13532
 Security Concerns Mr Speaker	13387
 Senate Concurrence Clears Path for Cybercrime Act	4651
+Serviços Centrais de Conceção	15526
 Simplify Concepts	12675
 Single Window Concept Historically	13042
 Situation Difficultés Observations Concession	10975

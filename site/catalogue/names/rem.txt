@@ -479,7 +479,7 @@ Remessa	11365,21,86,3961
 Remessa de Valores	11386
 Remete-se	15392
 Remetente	11582
-Remeter	4218,6565,598
+Remeter	4218,6565,598,4145
 Remetidos	10753
 Remettre	14489,1,1052
 Remgro	7145
@@ -635,6 +635,7 @@ Remunerations	14997
 Remunerations Committee and Risk	11131,3
 Remuneratória	1268
 Remuneração	13,154,585,3395,11233,11,42,529
+Remuneração Ao Fiscal	15912
 Remuneração Competitiva	2816
 Remuneração Mínima Mensal Garantida	1948
 Remunerações	1265,3,680,9579,4435,60,67
