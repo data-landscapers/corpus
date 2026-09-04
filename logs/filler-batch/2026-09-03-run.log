@@ -158,3 +158,10 @@ Traceback (most recent call last):
     return io.open(self, mode, buffering, encoding, errors, newline)
            ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 PermissionError: [Errno 13] Permission denied: 'C:\\CORPUS\\logs\\filler-batch\\2026-09-03-batch.csv'
+filler-batch: 9 country(ies) queued from --only
+  TUN, CIV, CPV, MRT, NER, SEN, SLE, STP, TGO
+  note: already searched, will be re-probed — TUN (03/09/2026), CIV (03/09/2026), CPV (03/09/2026), MRT (03/09/2026), NER (03/09/2026), SEN (03/09/2026), SLE (04/09/2026), STP (04/09/2026), TGO (04/09/2026)
+  model claude-opus-5[1m] | one fresh session each | strictly serial
+  stop on: no deadline, 3 consecutive failures, more than 20 quota waits, no cost ceiling, STOP in logs/filler-batch
+
+=== TUN — started 06:13:27 (timeout 120m) ===
