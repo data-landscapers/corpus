@@ -1,0 +1,11 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+data.statistics--censuses-and-surveys,data.statistics,2,10,3,1,2,0,0,,staged,1
+data.statistics--national-strategy-for-development-of-statistics,data.statistics,2,9,3,1,2,0,0,,staged,1
+data.statistics--statistics-from-administrative-data,data.statistics,2,14,2,1,0,0,2,already-seen,staged,1
+data.open--use-of-open-data,data.open,2,14,3,1,2,0,1,duplicate-in-run,staged,1
+data.satellite--agricultural-use-of-satellite-data,data.satellite,2,15,3,1,2,0,0,,staged,1
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,geopol.usa,2,8,3,1,2,0,0,,staged,0
+geopol.china--chinese-mous-engagements-and-commitments,geopol.china,2,9,3,1,1,1,0,,staged,1
+geopol.eu--eu-mous-engagements-and-commitments,geopol.eu,2,15,3,1,2,0,0,,staged,0
+geopol.gulf--gulf-mous-engagements-and-commitments,geopol.gulf,2,5,1,1,0,0,0,,staged,1
+geopol.india--india-mous-engagements-and-commitments,geopol.india,2,10,3,1,1,0,1,headline-only-stub,staged,1

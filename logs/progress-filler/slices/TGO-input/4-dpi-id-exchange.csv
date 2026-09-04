@@ -1,0 +1,11 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+dpi.id--authentication,DPI,Digital Identity and CRVS,dpi.id,Authentication,4
+dpi.id--digital-id-from-birth,DPI,Digital Identity and CRVS,dpi.id,Digital id from birth,4
+dpi.id--interoperability-of-birth-registration-and-digital-id,DPI,Digital Identity and CRVS,dpi.id,Interoperability of birth registration and digital id,4
+dpi.id--national-maintenance-of-id-and-credentials-systems,DPI,Digital Identity and CRVS,dpi.id,National maintenance of id and credentials systems,4
+dpi.id--robustness-of-system,DPI,Digital Identity and CRVS,dpi.id,Robustness of system,4
+dpi.id--use-by-other-systems,DPI,Digital Identity and CRVS,dpi.id,Use by other systems,4
+dpi.exchange--interoperability-of-education-systems,DPI,Data Exchange,dpi.exchange,Interoperability of education systems,4
+dpi.exchange--interoperability-of-health-systems,DPI,Data Exchange,dpi.exchange,Interoperability of health systems,4
+dpi.exchange--interoperability-of-social-protection-systems,DPI,Data Exchange,dpi.exchange,Interoperability of social protection systems,4
+dpi.exchange--use-of-digital-id-in-other-systems,DPI,Data Exchange,dpi.exchange,Use of digital id in other systems,4

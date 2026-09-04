@@ -1,0 +1,12 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+dpi.registry--business-register,DPI,Registries,dpi.registry,Business register,7
+dpi.registry--land-register,DPI,Registries,dpi.registry,Land register,7
+dpi.registry--population-register,DPI,Registries,dpi.registry,Population register,7
+dpi.registry--social-protection-register,DPI,Registries,dpi.registry,Social protection register,7
+dpi.registry--tax-register,DPI,Registries,dpi.registry,Tax register,7
+dpi.pay--b2b-and-b2g-functionality,DPI,Digital Payments and Fintech,dpi.pay,B2B and B2G functionality,10
+dpi.pay--governance-role-of-central-bank,DPI,Digital Payments and Fintech,dpi.pay,Governance role of central bank,10
+dpi.pay--revenue-collection,DPI,Digital Payments and Fintech,dpi.pay,Revenue collection,10
+dpi.mis--health,DPI,Sectoral management information systems,dpi.mis,Health,6
+dpi.mis--social-protection,DPI,Sectoral management information systems,dpi.mis,Social protection,6
+dpi.mis--tax,DPI,Sectoral management information systems,dpi.mis,Tax,6

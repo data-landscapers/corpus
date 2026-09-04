@@ -1,0 +1,10 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+digital.localgov--ict-infrastructure-for-local-government,Digitalisation,Digitalisation of sub-national government,digital.localgov,ICT infrastructure for local government,2
+digital.rural--digitalisation-of-rural-health-clinics,Digitalisation,Rural digital data capture,digital.rural,Digitalisation of rural health clinics,3
+digital.rural--digitalisation-of-rural-police-stations,Digitalisation,Rural digital data capture,digital.rural,Digitalisation of rural police stations,3
+digital.rural--digitalisation-of-rural-primary-schools,Digitalisation,Rural digital data capture,digital.rural,Digitalisation of rural primary schools,3
+digital.rural--digitalisation-of-rural-registry-offices,Digitalisation,Rural digital data capture,digital.rural,Digitalisation of rural registry offices,3
+tech.ai--control-of-ai-abuse,Technology,AI,tech.ai,Control of AI abuse,4
+tech.ai--use-of-ai-in-government-administration,Technology,AI,tech.ai,Use of AI in government administration,4
+tech.ai--use-of-ai-in-sectoral-management-information-systems,Technology,AI,tech.ai,Use of AI in sectoral management information systems,4
+tech.innovate--technology-hubs,Technology,Innovation ecosystem,tech.innovate,Technology hubs,2

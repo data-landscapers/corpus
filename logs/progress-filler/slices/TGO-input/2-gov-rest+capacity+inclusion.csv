@@ -1,0 +1,13 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+gov.protect--national-data-protection-readiness,Governance,Data protection,gov.protect,National data protection readiness,4
+gov.standards--adoption-of-international-standards,Governance,Standards,gov.standards,Adoption of international standards,3
+gov.standards--national-interoperability-standards,Governance,Standards,gov.standards,National interoperability standards,3
+gov.discourse--non-governmental-contribution-to-national-policy,Governance,Public debate and participation in policymaking,gov.discourse,Non-governmental contribution to national policy,1
+gov.discourse--open-discussion-of-government-policy,Governance,Public debate and participation in policymaking,gov.discourse,Open discussion of government policy,1
+capacity.literacy--digital-literacy-civil-service,Capacity,Literacy,capacity.literacy,Digital literacy (civil service),3
+capacity.training--dt-related-training-in-secondary-education,Capacity,Training and skills,capacity.training,DT-related training in secondary education,2
+capacity.training--dt-related-university-facilities-and-qualifications,Capacity,Training and skills,capacity.training,DT-related university facilities and qualifications,2
+include.access--citizen-feedback-portals,Inclusion,Access to services,include.access,Citizen feedback portals,4
+include.access--citizen-participation-in-policy,Inclusion,Access to services,include.access,Citizen participation in policy,4
+include.access--inclusion-of-persons-with-disabilities,Inclusion,Access to services,include.access,Inclusion of persons with disabilities,4
+include.access--inclusion-of-refugees-and-idps,Inclusion,Access to services,include.access,Inclusion of refugees and IDPs,4

@@ -1,0 +1,12 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+gov.policy--ai-strategy,Governance,"Strategies, plans and policies",gov.policy,AI strategy,5
+gov.policy--data-governance-policy,Governance,"Strategies, plans and policies",gov.policy,Data governance policy,5
+gov.policy--data-interoperability-framework-roadmap,Governance,"Strategies, plans and policies",gov.policy,Data interoperability framework / roadmap,5
+gov.policy--data-localisation-policies,Governance,"Strategies, plans and policies",gov.policy,Data localisation policies,5
+gov.policy--data-storage-cloud-strategy,Governance,"Strategies, plans and policies",gov.policy,Data storage / cloud strategy,5
+gov.policy--open-data-policy,Governance,"Strategies, plans and policies",gov.policy,Open data policy,5
+gov.legislate--access-to-information-legislation,Governance,Legislation and regulation,gov.legislate,Access to information legislation,10
+gov.legislate--ai-legislation-regulations,Governance,Legislation and regulation,gov.legislate,AI legislation / regulations,10
+gov.legislate--cybersecurity-legislation,Governance,Legislation and regulation,gov.legislate,Cybersecurity legislation,10
+gov.legislate--legislation-enabling-data-interoperability,Governance,Legislation and regulation,gov.legislate,Legislation enabling data interoperability,10
+gov.legislate--statistics-legislation,Governance,Legislation and regulation,gov.legislate,Statistics legislation,10

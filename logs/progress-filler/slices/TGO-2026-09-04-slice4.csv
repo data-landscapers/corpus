@@ -1,0 +1,11 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+dpi.id--authentication,dpi.id,2,18,2,1,0,0,1,headline-only-stub,staged,4
+dpi.id--digital-id-from-birth,dpi.id,2,16,3,1,2,0,0,,staged,4
+dpi.id--interoperability-of-birth-registration-and-digital-id,dpi.id,2,18,2,1,2,0,0,,staged,4
+dpi.id--national-maintenance-of-id-and-credentials-systems,dpi.id,2,17,3,1,2,0,0,,staged,4
+dpi.id--robustness-of-system,dpi.id,2,15,3,1,2,0,2,already-seen,staged,4
+dpi.id--use-by-other-systems,dpi.id,2,14,1,1,0,0,0,,staged,4
+dpi.exchange--interoperability-of-education-systems,dpi.exchange,2,18,3,1,2,0,1,already-seen,staged,4
+dpi.exchange--interoperability-of-health-systems,dpi.exchange,2,13,1,1,2,0,0,,staged,4
+dpi.exchange--interoperability-of-social-protection-systems,dpi.exchange,2,20,2,1,2,0,0,,staged,4
+dpi.exchange--use-of-digital-id-in-other-systems,dpi.exchange,2,17,1,1,1,0,0,,staged,4
