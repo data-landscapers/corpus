@@ -2,3 +2,5 @@ iso,started,minutes,verdict,probed,staged_rows,nil,skipped_prior_nil,files_basel
 TUN,2026-09-04T06:13:27,4.0,PROBLEM,,,,,60,103,03/09/2026,1.57,31,0b0cce59-d798-43dc-adba-d9500469de3b,no run CSV written; lint-staged-queue: 1 finding(s)
 SLE,2026-09-04T06:17:26,4.6,PROBLEM,,,,,66,94,04/09/2026,2.17,41,2acb86d8-2b76-4b24-a6ea-845a222ab8e8,no run CSV written
 TUN,2026-09-04T06:27:13,10.3,PROBLEM,,,,,60,103,03/09/2026,4.27,69,bf73cd2c-52e2-4133-aef0-c37b269c07c0,no run CSV written; lint-staged-queue: exit 3221225794
+TUN,2026-09-04T06:42:35,8.4,PROBLEM,82,82,0,0,60,103,03/09/2026,3.45,54,400f9550-0d82-47ed-8fe2-936bc41bd76f,Corpus tree left uncommitted:  M outputs/reports/GNQ/GNQ-progress.md
+SLE,2026-09-04T06:51:01,7.0,PROBLEM,81,81,0,0,66,94,04/09/2026,3.55,47,c3738051-419a-4134-98fe-c05ba74cf6e7,Corpus tree left uncommitted:  M outputs/reports/SEN/SEN-progress.md

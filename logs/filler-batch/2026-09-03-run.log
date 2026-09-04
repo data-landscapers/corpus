@@ -213,3 +213,24 @@ filler-batch: 1 run(s), 0 clean — stopped: STOP present
   ledger: logs/filler-batch/2026-09-04-batch.csv
   PROBLEM TUN: no run CSV written; lint-staged-queue: exit 3221225794
   queue: 0 country(ies) still unsearched
+filler-batch: 9 country(ies) queued from --only
+  TUN, CIV, CPV, MRT, NER, SEN, SLE, STP, TGO
+  note: already searched, will be re-probed — TUN (03/09/2026), CIV (03/09/2026), CPV (03/09/2026), MRT (03/09/2026), NER (03/09/2026), SEN (03/09/2026), SLE (04/09/2026), STP (04/09/2026), TGO (04/09/2026)
+  model claude-opus-5[1m] | one fresh session each | strictly serial
+  stop on: no deadline, 3 consecutive failures, more than 20 quota waits, no cost ceiling, STOP in logs/filler-batch
+
+=== TUN — started 06:42:35 (timeout 120m) ===
+--- TUN PROBLEM in 8m — probed 82, staged 60 baseline + 103 progress, nil 0, $3.45
+    ! Corpus tree left uncommitted:  M outputs/reports/GNQ/GNQ-progress.md
+
+=== CIV — already run clean within 24h, skipping ===
+
+=== CPV — already run clean within 24h, skipping ===
+
+=== MRT — already run clean within 24h, skipping ===
+
+=== NER — already run clean within 24h, skipping ===
+
+=== SEN — already run clean within 24h, skipping ===
+
+=== SLE — started 06:51:01 (timeout 120m) ===
