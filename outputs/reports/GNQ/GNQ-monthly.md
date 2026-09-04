@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: GNQ
-ledger_rows: 18
+ledger_rows: 24
 not_held: 6
-record: 6ab87bb80418
+record: 1d9d9287a9b4
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
@@ -22,10 +22,15 @@ Connectivity arrived from orbit: [satellite internet was confirmed available in 
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+Two plans and no strategy is still the position. The transport ministry's [half-year plan sets the country's first published broadband target, 85 per cent coverage through 34 new towers by the end of 2026](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_transportes_presenta_su_plan_semestral_para_fortalecer_la_conectividad_terrestre_postal_y_digital), and a [World Bank team opened a four-day session in Malabo in early September to finalise a national digital economy strategy](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_telecomunicaciones_acelera_la_transformacion_digital_con_el_respaldo_del_grupo_banco_mundial) — on a diagnostic that found [no interoperability framework and no digital skills data held](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt).
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The 2024 social media and computer crime law is [in force with its provisions reported in rollout from July, including a bar on social-media access for under-fourteens without parental authorisation](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/); the full text is not held. Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
+The full text of the 2024 social media and computer crime law reached the base this month: it [criminalises computer fraud, identity theft and false news online](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia) and creates the national cybersecurity agency the ledger has carried as an entity with no premises, staffing or budget on record. The government [reasserted the law's full force on 1 July amid rising complaints, naming neither artificial intelligence nor deepfakes](https://www.guineaecuatorialpress.com/noticias/el_gobierno_recuerda_la_plena_vigencia_de_la_ley_que_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
 <!-- /narrative -->
 ### Standards
 
@@ -91,6 +96,14 @@ The base's first record of a national e-commerce platform arrived on 14 August, 
 An investigation opened into [where more than 425 million CFA francs allocated to equip the university computer room at Bata went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/). It is a capacity line the base can date and price, and cannot yet say produced anything; no finding, charge or recovery has followed.
 <!-- /narrative -->
 
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The refugee agency's rights mapping put an absence on the record this month: [Equatorial Guinea has acceded to the refugee treaties and enacted no domestic status determination law](https://rimap.unhcr.org/countries/equatorial-guinea), so no registration or documentation system follows from one. It sits alongside the state's own periodic review report, which [names no disability statute either](https://upr-info.org/sites/default/files/country-document/2025-04/A_HRC_WG.6_47_GNQ_1.pdf).
+<!-- /narrative -->
+
 ## Data
 
 ### National statistics
@@ -101,4 +114,12 @@ INEGE opened a three-day validation workshop on 27 July at the Ministry of Finan
 Census preparation was validated a second time in four weeks without an enumeration date being set. The scientific committee [validated the project document, the resource-mobilisation strategy and the communication strategy for the fifth population and housing census and the first agricultural census](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/), reading into the record the 2025 decree ordering both operations and the resolution that created the committees. The project document is stated to fix objectives, methodology, timetable and the agricultural sample size; none of it is published, and neither is a date on which anyone will be counted.
 
 The fifth interministerial council of the year [adopted a National Quality Assurance Framework for official statistics on 25 August, a standardised protocol for the collection, processing and dissemination of socio-economic data presented as aligning national method with international standards](https://ahoraeg.com/politica/2026/08/25/el-gobierno-afianza-la-disciplina-fiscal-y-la-transparencia-en-el-quinto-consejo-interministerial-del-2026/); the framework text is not published.
+<!-- /narrative -->
+
+## Geopolitics
+
+### EU activities
+
+<!-- narrative: geopolitics--geopol-eu -->
+The Commission's own country page states the position plainly: [no European Union delegation and no country programme for Equatorial Guinea, with ties run from a neighbouring capital](https://international-partnerships.ec.europa.eu/countries/equatorial-guinea_es). European engagement remains bilateral and unresolved — the President [pressed Spain in October to return funds after a ten-year delay on a stalled digital terrestrial television project](https://www.guineaecuatorialpress.com/noticias/audiencia_presidencial_con_jorge_moragas_encargado_de_negocios_de_la_embajada_de_espa%C3%B1a).
 <!-- /narrative -->
