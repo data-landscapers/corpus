@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: COD
-ledger_rows: 48
-not_held: 13
-record: c022562c04c1
+ledger_rows: 50
+not_held: 6
+record: fd9c33427185
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -188,4 +188,9 @@ The planning minister [announced recruitment of mapping agents and fixed general
 
 <!-- narrative: data--data-open -->
 The month's one open-data movement came from the central bank rather than from the state's open-data policy, which the base still does not hold. The bank [relaunched its website on 14 August as a public economic-data portal carrying exchange rates, inflation, interest rates, statistics and indicators, with a currency converter and a search facility](https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel), its governor framing the site as part of a reform whose stated objectives include digitalising payments and automating control processes. It is a publication channel rather than a data release: no machine-readable download, licence or update schedule is stated, and the national data governance strategy remains **Not held**.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+Two routes into earth observation opened in the window, one contracted and one already running. [MapBiomas launched a Congolese land-cover mapping programme on 18 August](https://rdc.mapbiomas.org/2026/08/18/mapbiomas-republique-democratique-du-congo/), and behind it sits a satellite the country does not yet have: [a contract to supply, commission and maintain the RDC-SAT earth-observation satellite for the National Centre for Remote Sensing was signed in Kinshasa in June, framed as supporting agriculture, mining and forestry monitoring](https://www.spacebel.com/en/news/the_first_%E2%80%98made_in_belgium%E2%80%99_commercial_satellite_for_the_democratic_republic_of_the_congo_a_landmark_contract_for_spacebel_000260/14). No launch date is on the record.
 <!-- /narrative -->

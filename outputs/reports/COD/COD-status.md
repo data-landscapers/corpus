@@ -1,14 +1,14 @@
 ---
 title: DR Congo — digital transformation and data governance status report
-compiled: 2026-08-19
+compiled: 2026-09-04
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 165
+sources_cited: 166
 sections_written: 37
-not_established: 2
+not_established: 1
 acquire_lines: 50
 ---
 ## Governance
@@ -415,4 +415,4 @@ No Gulf state, sovereign fund or Gulf-owned operator held an identified position
 ### India activities
 <!-- geopol.india -->
 
-India held no identified position in DR Congo's digital infrastructure, payments or public-sector systems as at August 2026.
+India's relationship with DR Congo is on the record and has no digital content. Its Ministry of External Affairs [records a 2008 Joint Commission agreement, a 2009 cultural cooperation agreement, a May 2010 memorandum on regular Foreign Office Consultations, decades of ministerial visits, MONUSCO troop contributions and early signature of the International Solar Alliance Agreement](https://www.mea.gov.in/Portal/ForeignRelation/India-DRC-Congo-250226.pdf) (February 2026). None of them is a digital instrument, and no line of credit, training placement or Indian supplier contract touching the digital estate is on the record.
