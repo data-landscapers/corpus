@@ -1,0 +1,13 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+dpi.pay--b2b-and-b2g-functionality,DPI,Digital Payments and Fintech,dpi.pay,B2B and B2G functionality,1
+dpi.pay--consumer-protection,DPI,Digital Payments and Fintech,dpi.pay,Consumer protection,1
+dpi.pay--cross-border-functionality,DPI,Digital Payments and Fintech,dpi.pay,Cross-border functionality,1
+dpi.pay--g2p-functionality,DPI,Digital Payments and Fintech,dpi.pay,G2P functionality,1
+dpi.pay--p2p-p2g-and-p2b-functionality,DPI,Digital Payments and Fintech,dpi.pay,"P2P, P2G and P2B functionality",1
+dpi.pay--population-uptake,DPI,Digital Payments and Fintech,dpi.pay,Population uptake,1
+dpi.pay--revenue-collection,DPI,Digital Payments and Fintech,dpi.pay,Revenue collection,1
+dpi.registry--address-register,DPI,Registries,dpi.registry,Address register,3
+dpi.registry--civil-register,DPI,Registries,dpi.registry,Civil register,3
+dpi.registry--land-register,DPI,Registries,dpi.registry,Land register,3
+dpi.registry--population-register,DPI,Registries,dpi.registry,Population register,3
+dpi.registry--tax-register,DPI,Registries,dpi.registry,Tax register,3

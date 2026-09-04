@@ -1,0 +1,12 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+gov.protect--national-data-protection-readiness,Governance,Data protection,gov.protect,National data protection readiness,4
+gov.regional--cross-border-data-transfers,Governance,Regional collaboration,gov.regional,Cross-border data transfers,3
+gov.regional--regional-legal-harmonisation,Governance,Regional collaboration,gov.regional,Regional legal harmonisation,3
+gov.regional--shared-regional-infrastructure,Governance,Regional collaboration,gov.regional,Shared regional infrastructure,3
+gov.standards--adoption-of-international-standards,Governance,Standards,gov.standards,Adoption of international standards,1
+gov.standards--national-interoperability-standards,Governance,Standards,gov.standards,National interoperability standards,1
+gov.standards--national-quality-standards,Governance,Standards,gov.standards,National quality standards,1
+gov.discourse--open-discussion-of-government-policy,Governance,Public debate and participation in policymaking,gov.discourse,Open discussion of government policy,1
+finance.budget--sustainable-domestic-financing-of-digital-transformation,Finance,Domestic budget appropriations and expenditure,finance.budget,Sustainable domestic financing of digital transformation,1
+finance.mou--strategic-relationships,Finance,MoUs and other agreements,finance.mou,Strategic relationships,1
+finance.new--mobilisation-of-non-state-finance,Finance,New investments,finance.new,Mobilisation of non-state finance,3

@@ -1,0 +1,13 @@
+indicator_id,topic_l1,topic,subject,indicator,subject_rows_at_probe
+gov.policy--ai-strategy,Governance,"Strategies, plans and policies",gov.policy,AI strategy,4
+gov.policy--broadband-strategy,Governance,"Strategies, plans and policies",gov.policy,Broadband strategy,4
+gov.policy--data-interoperability-framework-roadmap,Governance,"Strategies, plans and policies",gov.policy,Data interoperability framework / roadmap,4
+gov.policy--data-localisation-policies,Governance,"Strategies, plans and policies",gov.policy,Data localisation policies,4
+gov.policy--data-storage-cloud-strategy,Governance,"Strategies, plans and policies",gov.policy,Data storage / cloud strategy,4
+gov.policy--open-data-policy,Governance,"Strategies, plans and policies",gov.policy,Open data policy,4
+gov.legislate--access-to-information-legislation,Governance,Legislation and regulation,gov.legislate,Access to information legislation,4
+gov.legislate--ai-legislation-regulations,Governance,Legislation and regulation,gov.legislate,AI legislation / regulations,4
+gov.legislate--cybersecurity-legislation,Governance,Legislation and regulation,gov.legislate,Cybersecurity legislation,4
+gov.legislate--digital-payments-legislation,Governance,Legislation and regulation,gov.legislate,Digital payments legislation,4
+gov.legislate--e-commerce-legislation,Governance,Legislation and regulation,gov.legislate,E-commerce legislation,4
+gov.legislate--statistics-legislation,Governance,Legislation and regulation,gov.legislate,Statistics legislation,4
