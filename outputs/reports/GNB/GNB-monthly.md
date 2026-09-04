@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: GNB
-ledger_rows: 2
-not_held: 1
-record: ff6b67589c47
+ledger_rows: 3
+not_held: 2
+record: b635b8d93c61
 ---
 
 # Guinea-Bissau: monthly update, August – September 2026
@@ -16,6 +16,14 @@ record: ff6b67589c47
 
 <!-- narrative: summary -->
 Two rows moved, one of them a decree that had been waiting a year. On 8 August the government [approved a national interoperability regulation](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q), the first movement on a draft the Council of Ministers had approved in July 2025; the announcement came from the regional programme that funds the work rather than from a gazette, and names no decree number or entry into force. Ahead of the 30 August referendum the electoral support office [handed the elections commission an updated register of 966,152 voters, unchanged from the last update](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/), having [issued 25,146 replacement voter cards in a 30-day operation to 11 August](https://ang.gw/gtape-anuncia-emissao-de-25-146-cartoes-do-eleitor-da-2a-via/). The month's registry work was replacing credentials rather than adding registrants.
+<!-- /narrative -->
+
+## Governance
+
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The national digitalisation programme [launched nationally in August, at US$60m, covering connectivity, data protection, the digital economy and electronic government](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/). It is the delivery vehicle the 2025-2030 strategy has lacked, and it arrives with a fund plan behind it: the [2026-2031 strategic and financing plan for the universal access fund](https://wardip.gw/plano-estrategico-do-fundo-de-acesso-e-servicos-universais-2026-2031-consultoria-salience-2025/), delivered in May after a review recommended restructuring the fund itself.
 <!-- /narrative -->
 
 ## DPI
