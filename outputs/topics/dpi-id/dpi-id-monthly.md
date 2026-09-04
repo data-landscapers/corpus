@@ -3,13 +3,13 @@ title: Digital Identity and CRVS — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; COM; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: e8a6143ef865
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 51e9c4b4ed0f
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -52,6 +52,10 @@ The register underneath both is only now being equipped. On 7 August the United 
 ## Comoros
 
 At the African civil registration day in Moroni on 10 August, the interior minister and the modernisation project's coordinator [tied digitised birth registration, particularly for newborns in rural communities, to legal identity, with the children's fund reaffirming support](https://alwatwan.net/societe/journ%C3%A9e-africaine-de-l%E2%80%99%C3%A9tat-civil-i-la-modernisation-et-la-digitalisation-au-c%C5%93ur-de-l%E2%80%99%C3%A9v%C3%A8nement.html). It is a restatement of intent rather than a system: no registration rate is on record at either end of the window, and the civil-status agency the 2023 law provides for is still a draft decree.
+
+## Congo
+
+The credential layer moved on stock rather than on design: the government [announced 100,000 blank passports and a new payment mechanism, alongside 330,000 identity cards](https://starducongo.info/congo-passeports-le-gouvernement-annonce-100-000-passeports-vierges-et-un-nouveau-mecanisme-de-paiement/). The instrument behind the card is older — [Decret 2024-2692 of 21 November 2024 institutes the computerised national identity card](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117585/COG-117585.pdf) — and the unique identification number it rests on has been instituted since 2004. What the base still does not hold is an issuance series against those volumes.
 
 ## DR Congo
 

@@ -3,15 +3,19 @@ title: Data Storage — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: infra.store
-places: AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; ZWE
-record: bed954f8328c
+places: DZA; AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; ZWE
+record: 6c2e43b49826
 ---
 
 # Data Storage: monthly update, August 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+The second of the state's two data centres passed its design review. The digitalisation commission's communique [names Blida as the second national data centre and records it obtaining Uptime Institute Tier III Design certification, the same certification Mohammadia obtained in February](https://algerie-eco.com/2026/09/02/le-deuxieme-centre-national-de-donnees-a-blida-obtient-la-certification-internationale-tier-iii-design/); [installation there began in March 2025](https://algerie-eco.com/2025/03/07/coup-denvoi-de-linstallation-du-deuxieme-centre-national-des-donnees-a-blida/). What is certified is the design and not the constructed facility, which the commission says it is still working towards.
 
 ## Angola
 

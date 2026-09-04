@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BDI; TCD; COG; CIV; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; SSD; TZA; TGO; TUN; ZWE
-record: fdf42a7c8818
+places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; COG; CIV; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; SSD; TZA; TGO; TUN; ZWE
+record: 6d116ace3c09
 ---
 
 # Regional collaboration: monthly update, August 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The cross-border digital identity work Benin does through Smart Africa moved fro
 ## Botswana
 
 The [ICT memorandum with Namibia was signed at Kasane on 7 August](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement) between the two ICT ministries, with their operators and regulators present, covering digital transformation, cybersecurity, connectivity and skills development. It had been [announced for signature the day before](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/) as an extension of existing roaming and submarine-cable transit cooperation. The signed instrument itself is not held, and no term, funding or data-governance provision is published; what the two sides did publish alongside it is operational, and is recorded under connectivity below.
+
+## Burkina Faso
+
+The region's answer to a network that keeps being attacked is another country's fibre. At a meeting of the two digital ministers on 12 August, [Nigeria proposed connecting its planned 90,000 km open-access national fibre network to Burkina Faso's borders to improve internet resilience, quality and affordability, alongside cooperation on artificial intelligence, digital public infrastructure and talent](https://burkina24.com/2026/08/12/cooperation-numerique-sous-regionale-le-burkina-faso-et-le-nigeria-sallient-pour-accelerer-leur-transformation-digitale/). Both halves of that are prospective: the corridor is a proposal, and the Nigerian network it would reach is itself planned rather than built.
 
 ## Burundi
 
@@ -107,6 +111,10 @@ The same 1 August recommendations also included [a protocol between AES states t
 ## Mauritius
 
 The continental internet registry seated here is still without a settled board. One outlet's analysis records that the registry [named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised](https://btw.media/en/afrinic-eight-seat-board-election-result-evidence-gap), and that the appeal court has now [set aside its 2023 appeal for want of corporate authority without ruling on the official receiver's permission or on statutory leave](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided). The chain from election through appointment to quorum is therefore unresolved and the receiver undischarged. No registry statement on the withheld tallies is held.
+
+## Morocco
+
+Morocco's regional reach extended past the continent this month: the UN Economic and Social Commission for Western Asia and the minister for digital transition [signed a memorandum in Rabat establishing a framework for regional cooperation on modernising public administration and advancing digital governance reform](https://techafricanews.com/2026/09/03/escwa-morocco-digital-governance-mou/). No programme, value or deliverable is attached to it.
 
 ## Namibia
 

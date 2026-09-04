@@ -3,13 +3,13 @@ title: Innovation ecosystem — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: tech.innovate
-places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NAM; NER; NGA; RWA; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 8d8beadeca1d
+places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 73bbb9979280
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -71,6 +71,10 @@ Two assistive devices are [in pilot with a disability association — smart glas
 
 
 A freight platform founded in 2023 was profiled on 19 August: it [takes booking, cost estimation, secured payment and cargo tracking, and handles customs formalities and border documentation for importers, exporters and online merchants](https://www.wearetech.africa/fr/fils/tech-stars/avec-swiftway-shippers-abubakar-fuseini-automatise-la-gestion-du-fret). No volume, revenue or customer figure is stated, and the account is a profile rather than a filing.
+
+## Guinea
+
+The instrument the innovation layer waits on is still a draft: the [startup bill went through a relecture session at the commerce ministry on 29 April 2025](https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/), and no promulgated act has been found since. In August a [national innovation strategy went out to tender under Belgian development financing](https://www.enabel.be/app/uploads/2026/08/GIN23009-10070_Strategie_Innovation17082026.pdf), procured ahead of the statute that would give it a legal base.
 
 ## Kenya
 

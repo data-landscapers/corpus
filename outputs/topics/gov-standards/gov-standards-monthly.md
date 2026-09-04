@@ -3,19 +3,23 @@ title: Standards — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: gov.standards
-places: AGO; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 3c7a6451b09c
+places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: 44c547cf1ffe
 ---
 
 # Standards: monthly update, August 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
 The standards estate entered the record this month rather than moving in it. The national quality-infrastructure institute, formed by the 2021 merger of the standardisation and accreditation bodies, is [an ISO correspondent member](https://www.iso.org/member/316519.html) — a category that carries no vote on ISO technical work — and in March [published its 2026 national standards catalogue, incorporating 140 new standards](https://iniq.gov.ao/2026/03/13/%f0%9d%90%88%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%90-%f0%9d%90%83%f0%9d%90%88%f0%9d%90%92%f0%9d%90%8f%f0%9d%90%8e%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%81%f0%9d%90%88%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%99/), among them texts arising from SADC regional harmonisation across the circular economy, construction and building materials, food, quality management, safety rules, technology suppliers, occupational health and safety and vehicle safety. The institute states that Angolan standards are voluntary and are made mandatory only by legislation in the public interest, which is where a reader has to look for their force.
+
+## Benin
+
+Benin's standards body is now inside the international system rather than beside it: the Agence Nationale de Normalisation [is recorded as a full member of ISO](https://www.iso.org/member/308845.html), having [launched the national NB conformity mark in April](https://anm.bj/fr/actualite/7503). Membership is a standing on paper; what the base does not hold is a standards catalogue, a certified-product count, or any ICT-specific Beninese standard.
 
 ## Cape Verde
 

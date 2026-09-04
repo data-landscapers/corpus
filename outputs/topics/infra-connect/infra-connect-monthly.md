@@ -3,13 +3,13 @@ title: Connectivity — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8227c563bf23
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6ace3bed5325
 ---
 
 # Connectivity: monthly update, August 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -50,6 +50,10 @@ On the money side, the universal service fund's [revised FY2026/27 procurement p
 ## Cameroon
 
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
+
+## Cape Verde
+
+The regulator's quarterly market series, which had stopped at the second quarter of 2025 in this base, resumed on 5 August with the [first-quarter 2026 report: 588,603 active SIM cards at 113.9% penetration, down 0.8% on the quarter, and 511,702 internet access subscriptions, up 1% on the quarter and down 4% on the year](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [The composition of internet access moved rather than its level — mobile broadband subscriptions fell 16.4% year on year while fixed broadband rose 12.9%, and 86% of subscriptions are still delivered over mobile broadband on a small screen](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [Market shares by internet subscription are CVTelecom 72%, Unitel T+ 27.3% and Starlink 0.64%, the satellite operator up 0.20 percentage points on the quarter](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). The series carries no breakdown by island or municipality.
 
 ## Central African Republic
 

@@ -3,13 +3,13 @@ title: Use of satellite data — monthly update, August 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 subject: data.satellite
-places: BDI; COM; COG; CIV; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; ZMB
-record: 28aeb45bf57b
+places: BDI; COM; COG; CIV; COD; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; ZMB
+record: b8420e82a35e
 ---
 
 # Use of satellite data: monthly update, August 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The national mapping institute began putting its own holdings into a usable form
 ## Cote d'Ivoire
 
 The national meteorological agency [signed a convention on 10 August with a private company combining artificial intelligence, satellite data, drones and georeferenced data to monitor farm holdings and anticipate weather-linked risk](https://sodexam.com/climat-et-agriculture-la-sodexam-et-jool-international-misent-sur-lintelligence-artificielle/). It is an agreement to develop solutions rather than a service: no product, value, timetable or user is named, and it is the second such convention the agency has signed this year.
+
+## DR Congo
+
+Two routes into earth observation opened in the window, one contracted and one already running. [MapBiomas launched a Congolese land-cover mapping programme on 18 August](https://rdc.mapbiomas.org/2026/08/18/mapbiomas-republique-democratique-du-congo/), and behind it sits a satellite the country does not yet have: [a contract to supply, commission and maintain the RDC-SAT earth-observation satellite for the National Centre for Remote Sensing was signed in Kinshasa in June, framed as supporting agriculture, mining and forestry monitoring](https://www.spacebel.com/en/news/the_first_%E2%80%98made_in_belgium%E2%80%99_commercial_satellite_for_the_democratic_republic_of_the_congo_a_landmark_contract_for_spacebel_000260/14). No launch date is on the record.
 
 ## Egypt
 
