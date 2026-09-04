@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: CPV
-ledger_rows: 6
-not_held: 45
-record: c6544304eb5e
+ledger_rows: 8
+not_held: 35
+record: 8082fd9db7ca
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -38,6 +38,11 @@ The Prime Minister told Parliament during the State of the Nation debate on 31 J
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The regulator's quarterly market series, which had stopped at the second quarter of 2025 in this base, resumed on 5 August with the [first-quarter 2026 report: 588,603 active SIM cards at 113.9% penetration, down 0.8% on the quarter, and 511,702 internet access subscriptions, up 1% on the quarter and down 4% on the year](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [The composition of internet access moved rather than its level — mobile broadband subscriptions fell 16.4% year on year while fixed broadband rose 12.9%, and 86% of subscriptions are still delivered over mobile broadband on a small screen](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [Market shares by internet subscription are CVTelecom 72%, Unitel T+ 27.3% and Starlink 0.64%, the satellite operator up 0.20 percentage points on the quarter](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). The series carries no breakdown by island or municipality.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->

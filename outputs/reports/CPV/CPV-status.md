@@ -1,14 +1,14 @@
 ---
 title: Cape Verde — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-09-04
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 172
+sources_cited: 174
 sections_written: 37
-not_established: 3
+not_established: 2
 acquire_lines: 55
 ---
 ## Governance
@@ -53,7 +53,7 @@ What cannot be seen is the enforcement. The authority [completed a decade of ope
 ### Regional collaboration
 <!-- gov.regional -->
 
-Cabo Verde has [acceded to both the Council of Europe's Convention 108 on data protection and the African Union's Malabo Convention on cyber security and personal data protection](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448) (2025), binding its domestic regime to a European and an African instrument at the same time.
+The African instrument is bound by an act of the National Assembly: [Resolucao 153/IX/2020, gazetted on 17 March 2020, approves accession to the African Union Convention on Cyber Security and Personal Data Protection and publishes the Convention's full Portuguese text](https://boe.incv.cv/Bulletins/Download/3161). The data protection authority also [describes the country as party to the Council of Europe's Convention 108](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448) (2025); no accession instrument for that convention is held, so the domestic regime is bound to an African instrument on the gazette's evidence and to a European one on the authority's own account.
 
 Its ECOWAS obligations are the denser layer and the one the bloc does not pay for. Ministers meeting at Cotonou on 4 October 2024 [adopted the ECOWAS Digital Sector Development Strategy 2024–2029](https://www.ecowas.int/the-19th-meeting-of-ecowas-ministers-in-charge-of-telecommunications-ict-and-digitalization-adopts-the-ecowas-digital-sector-development-strategy-for-the-period-2024-2029/), [required member states to ensure full implementation of the Roaming Regulation by all mobile operators by the end of 2025](https://www.ecowas.int/the-19th-meeting-of-ecowas-ministers-in-charge-of-telecommunications-ict-and-digitalization-adopts-the-ecowas-digital-sector-development-strategy-for-the-period-2024-2029/). Yet the [Community MTEF Budget 2026–2028 carries no disaggregated digital or ICT appropriation anywhere in its expenditure structure, and its only ICT-named programme line records nil from 2024 through the 2028 estimates](https://www.ecowas.int/wp-content/uploads/2026/06/ECOWAS-COMMUNITY-BUDGET-2026-2028.pdf), against a [Community Levy of UA 195,850,000 in 2026 to which Cabo Verde contributes](https://www.ecowas.int/wp-content/uploads/2026/06/ECOWAS-COMMUNITY-BUDGET-2026-2028.pdf). The regional instruments binding Cabo Verde are financed from outside the bloc.
 
@@ -337,7 +337,7 @@ The count itself is uneven. As at 2023 [population, agricultural and economic ce
 
 What the Cabo Verdean state publishes of its own motion has gone backwards even as access to records improved: [disclosure of public records fell 12.5 points over 2014-2023 to 45.8 of 100, 12th of 54 African states and among the country's ten most deteriorated governance indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf), while [accessibility of public records rose 22.5 points, its third largest ten-year gain, though at 42.0 of 100 it is still among its ten worst measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf).
 
-The right of access is in place: as at 2025 [right-to-information legislation was recorded as effective, with an entity monitoring implementation and compliance](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [e-procurement data is published to the Open Contracting Data Standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Missing is any account of the state's own performance: government publishes [neither the data protection authority's results nor progress on the right-to-information law, including how many requests are received and granted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [nor public service delivery performance nor the public investment project database](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [nor the progress reports of its govtech and data governance institutions, which exist internally only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+The right of access is in place and has a name: [Lei 10/X/2022, gazetted on 16 May 2022, regulates access to and re-use of administrative documents and administrative information held by the bodies and entities listed in its article 2](https://boe.incv.cv/Bulletins/Details/A2022/S1/BO47/4230), and as at 2025 [the legislation was recorded as effective, with an entity monitoring implementation and compliance](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [e-procurement data is published to the Open Contracting Data Standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Missing is any account of the state's own performance: government publishes [neither the data protection authority's results nor progress on the right-to-information law, including how many requests are received and granted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [nor public service delivery performance nor the public investment project database](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [nor the progress reports of its govtech and data governance institutions, which exist internally only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 Published coverage is concentrated in economic and demographic series. [Labour (7.5 of 10) and population (7.0) score best in ODIN 2024, followed by balance of payments, trade, money and banking and national accounts at 6.5 each](https://odin.opendatawatch.com/data); [government finance sits at 4.5, with crime and gender statistics at 4.0 each](https://odin.opendatawatch.com/data); and [education facilities is the weakest at 2.0, with energy, natural resources and food security at 3.0](https://odin.opendatawatch.com/data).
 
@@ -391,4 +391,4 @@ No Gulf state or corporate involvement in Cabo Verde's digital estate was on the
 ### India activities
 <!-- geopol.india -->
 
-No Indian state or corporate involvement in Cabo Verde's digital estate was on the record as at August 2026.
+India's engagement of record is a single project, and it is fifteen years old. The [Pan-African e-Network was inaugurated in Praia on 29 July 2010, implemented by the Indian state company TCIL with NOSi and financed by the Government of India](https://www.governo.cv/pan-african-e-network-inaugurado-na-praia/), connecting Cabo Verdean institutions over fibre and satellite to a TCIL data centre and studio in New Delhi, to twelve Indian hospitals and seven Indian universities, and to five regional African universities and five hospitals, for tele-education, telemedicine, heads-of-state videoconferencing, internet access, e-government and e-commerce. Nothing on the record reports its operation, its closure or any later Indian line of credit, technical-cooperation record or forum commitment naming Cabo Verde.
