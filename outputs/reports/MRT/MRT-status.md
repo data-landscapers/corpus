@@ -1,331 +1,349 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-09-02
+compiled: 2026-09-04
 place: MRT
-ledger_rows: 64
-not_held: 4
-record: 9eca7156c605
+region: XWA
+built_by: STATUS-INIT
+hub_last_reviewed: 2026-07-20
+intersections_read: 7
+sources_cited: 104
+sections_written: 37
+not_established: 4
+acquire_lines: 45
 ---
-
-# Mauritania: status report
-
-*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MRT/ledger.csv` (64 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
-
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
-
-## Summary of position
-
-<!-- narrative: summary -->
-Mauritania has a working identity and payments stack and a thin published record of what governs it. The [National Population Register](https://ladepeche.mr/?p=22700) stands at 5.1m against 3.4m in 2019, the [Houwiyeti](https://techrek.info/1-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%85%d8%b3%d8%aa%d9%81%d9%8a%d8%af-%d9%85%d9%86-%d9%87%d9%88%d9%8a%d8%aa%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1%d8%a7%d8%aa-%d8%aa%d9%83%d8%b4%d9%81/) application reports 1,511,139 beneficiaries, and financial inclusion is put at 55% in 2026 against 21% in 2019–20 [by the financier of the programme that delivered it](https://www.afdb.org/en/success-stories/mauritania-finance-track-modern-age-92328).
-
-The instruments are the weak side. The National Digital Transformation Agenda ran to 2025 and no successor is held; the [National AI Strategy 2025–2029](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) and the data protection authority are known only from a foreign government's reference guide; the [universal-access fund's governing decree was replaced in July 2026](https://lequotidien.mr/?p=39470) and neither the new text nor the one it repeals is held, because both national gazette hosts return NXDOMAIN.
-
-Delivery is measured where it is measured at all, and the most useful figure in the base measures the state against its own system: of 642 legally constituted public bodies, [339 are active with the tax administration and just 3 pay through the electronic platform](https://www.ami.mr/archives/265398).
-<!-- /narrative -->
-
 ## Governance
 
 ### Strategies, plans and policies
+<!-- gov.policy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National Digital Transformation Agenda 2022-2025 | [Implemented, period expired](https://businessfocus.org.uk/setting-the-agenda-for-digital-transformation/) | Four axes set out by the digital minister; the period has since ended |
-| Ride-hailing authorisation compliance deadline | [Implemented](https://lequotidien.mr/?p=40128&lang=fr) | Fifteen-day deadline set by communique of 21 August 2026 |
+Mauritania's governance improvement has all but stopped: [it scored 42.5 of 100 for overall governance in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), 41st of 54 African states and below the continental average of 49.3, and where the decade to 2023 brought 4.1 points, the most recent five years brought 0.7.
+
+Policy itself is not the missing piece. [The National Digital Transformation Agenda 2022–2025](https://mtnima.gov.mr/wp-content/uploads/2024/03/Agenda-Numerique-2022-25-MTNIMA.pdf) is the governing strategy, with a public-administration pillar making interoperability and a national government cloud and intranet explicit objectives, and headline targets to double internet usage and triple digital-economy employment. Around it sit a [national strategy for open and interoperable data built on three axes](https://dig.watch/resource/the-national-strategy-for-open-and-interoperable-data-of-mauritania) — an interoperability framework across government, open-data governance aligned with Open Government Partnership principles, and open data for innovation — a [68-page IPv6 transition strategy](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf) targeting 25% migration by 2026 and owned by [a national IPv6 committee the strategy itself created](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf), and a [national artificial intelligence strategy](https://mtnima.gov.mr/wp-content/uploads/2024/07/strategie-AR-Final-26-07-2024-.pdf) published in 2024.
+
+Delivery has been organised strategy by strategy rather than through one body. [UNDP handed the government a costed design for ANETA, a standing state digital agency under the digital ministry, on 31 July 2021](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf), at around 50 staff, EUR 220,000 to establish and EUR 1.4 million a year to run, with [an e-Cabinet platform and a public-procurement portal as its opening deliverables](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf). Capability has since come ministry by ministry instead, from [the Ijraati procedures portal](https://www.ecofinagency.com/news-digital/1902-53059-mauritania-puts-800-administrative-procedures-online-in-digital-reform-drive) to a [national e-health strategy](https://www.ecofinagency.com/news-digital/0512-51162-mauritania-accelerates-digital-transformation-of-health-system).
+
+The ambitions outrun the evidence behind them. [The digital ministry presents IPv6 address space as the precondition for wide 5G rollout and for cloud, IoT and AI services](https://www.alakhbar.info/6a62c5feac143500012ee215/) (July 2026), while [the sector-by-sector economic-impact figures in its own IPv6 strategy are lifted from a 2022 consultancy report rather than measured for Mauritania](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf). At a workshop on blockchain in public administration on 27 July 2026, [UNDP's representative put the sequence the other way round: that transformation of governance, not technology, is the precondition for digital administration](https://www.ami.mr/archives/265184).
 
 ### Legislation and regulation
+<!-- gov.legislate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| ANETA state digital agency proposal | [Planned](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf) | Named 'Agence Numérique de l'État' (AN-État) and proposed as national interoperability operator in a June 2023 strategy, reviving a 2021 UNDP proposal |
-| Startup Act | [Enacted](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) | Loi n° 2024-002 P.R relative aux start-ups technologiques et innovantes promulgated 2 January 2024 |
-| Universal Service Access Fund governance | [In development](https://lequotidien.mr/?p=39470) | Council of Ministers approved a decree repealing Decree 2020-152 |
+Mauritania's Council of Ministers approved on 29 July 2026 [a draft decree repealing and replacing the 2020 decree governing the universal-access fund](https://lequotidien.mr/?p=39470), the instrument that has organised subsidised connectivity since November 2020.
+
+The digital statute book behind it is short and mostly old. [Law No. 2016-007 is the cybercrime statute](https://mtnima.gov.mr/sites/default/files/loi_2016_-_007_relative_la_cybercriminalite.pdf), and [Law No. 2017-020 of 22 July 2017 on the protection of personal data](https://www.apd.mr/fr/plan-stragtegique-2023-2026/) covers processing by public and private bodies, establishes rights of access, rectification, erasure and objection and created the national data protection regulator — but [it has still not been brought fully into force, and no dedicated cross-government data-sharing law is in effect](https://dataprotection.africa/mauritania/) (2024).
+
+Most of what governs digital administration is made by decree rather than by parliament. [Inter-administration electronic exchange rests on Décret n° 2022-009](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf), and [Décret n° 2021-138 of 3 August 2021 governs the secure chip national identity card](https://citizenshiprightsafrica.org/wp-content/uploads/2022/12/Mauritanie-Decret-2021-138-du-03-aout-2021-carte-nationale-didentite.pdf), making it the official document establishing identity and nationality, voluntary from age six and compulsory from sixteen for anyone holding a National Identification Number. [No dedicated digital-identity legislation has been enacted at all](https://www.undp.org/blog/mauritania-pilots-digital-id-app), the digital ID resting on that decree and on civil-registration law.
+
+The one recent digital statute is [loi n° 2024-002 P.R on technology and innovative start-ups, promulgated on 2 January 2024](https://mtnima.gov.mr/fr/loi-de-startup/). [The sponsoring ministry's own page names and dates the law but carries no text of it](https://mtnima.gov.mr/fr/loi-de-startup/), so what was enacted cannot be read where the government announces it — the same pattern as the universal-access decree, whose [replacement terms were not reproduced in the communiqué announcing it](https://lequotidien.mr/?p=39470).
 
 ### Data protection
+<!-- gov.protect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Data protection authority | [Implemented](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | Operating under a 2023-2026 plan, per a reference guide |
-| Data protection law and enforcement record | [Implemented](https://www.apd.mr/fr/wp-content/uploads/2023/10/Loi-2017-020-sur-la-protection-des-donnees-a-caractere-personnel.pdf) | Loi n° 2017-020 in force since 22 July 2017; the authority reports monthly meetings and sector sensitisation days through May 2026 |
+Nine years after it was passed, [Mauritania's personal data protection law has still not been brought fully into force, and doing so is the first priority of the data protection authority's 2023–2026 strategic plan](https://dataprotection.africa/mauritania/).
+
+[Law No. 2017-020 of 22 July 2017](https://www.apd.mr/fr/plan-stragtegique-2023-2026/) covers processing by public and private bodies, establishes rights of access, rectification, erasure and objection, and created the Autorité de Protection des Données à caractère Personnel as national regulator, its members sworn in after a 2022 implementing regulation. The authority is a working institution rather than a paper one: [it maintains its own institutional site, with an activity stream running to May 2026](https://www.apd.mr/fr/). On transfers, [no general legal data-localisation requirement applies](https://www.dataguidance.com/jurisdictions/mauritania) (2026) — the law restricts cross-border transfers to jurisdictions offering adequate protection, and the national cloud is a sovereignty initiative rather than a localisation mandate.
+
+The direction of travel on the rights the law would protect is the other way. [Digital freedom fell 20.3 points over 2014–2023 to 40.0 of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), 36th of 54 African states and the second most deteriorated of the 96 measures in the index. Protection is also limited by how records are kept at the point personal data is first taken: [case files, complaints and arrest statements at rural gendarmerie and police posts are written by hand, at posts often without reliable electricity or office equipment, and detainee records were found poorly maintained](https://www.state.gov/wp-content/uploads/2023/02/415610_MAURITANIA-2022-HUMAN-RIGHTS-REPORT.pdf) (2023).
 
 ### Regional collaboration
+<!-- gov.regional -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Senegal-Mauritania digital cooperation memorandum | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-and-mauritania-sign-mou-to-deepen-digital-cooperation) | Signed January 2025 |
+Mauritania stands outside almost every binding regional digital instrument in West Africa. When fifteen states adopted [the Model Policy Framework for Information Integrity in West Africa and the Sahel at Praia on 5 September 2025](https://articles.unesco.org/sites/default/files/medias/fichiers/2025/11/EN%20-%20FINAL%20Model%20policy%20information%20integrity%20West%20Africa%20%2B%20Sahel.pdf), together with a Praia Action Plan running to 2036, Mauritania was not among the signatories.
+
+The pattern follows from membership. [The region's binding data-protection instrument, the ECOWAS Supplementary Act adopted at Abuja on 16 February 2010, applies by its own terms only to processing carried out in a UEMOA or an ECOWAS member state](https://www.statewatch.org/media/documents/news/2013/mar/ecowas-dp-act.pdf), a perimeter that belonging to neither union leaves Mauritania outside. The same line runs through payments and connectivity: [the clearing, settlement and instant-payment infrastructure the BCEAO operates for the eight WAEMU states](https://www.bceao.int/fr/communique-presse/liste-des-participants-autorises-ouvrir-les-services-de-pi-spi-au-public-30-sept-2025) does not reach Mauritanian institutions, [no Mauritanian participation appears in the pan-African instant payment network as at June 2026](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf), and [the ECOWAS roaming regulation binds member states](https://www.ecowas.int/18th-meeting-of-experts-from-west-african-national-regulatory-authorities-focuses-on-roaming-implementation-across-public-mobile-communications-networks/), leaving Mauritanian subscribers outside the community roaming tariffs their neighbours launched in April 2026. Cross-border identity work is arranged the same way: [the regional unique-identification programme runs across six ECOWAS states](https://wuri.ecowas.int/the-west-africa-unique-identification-for-regional-integration-and-inclusion-wuri-programme-to-hold-its-maiden-regional-sensitisation-and-awareness-event/), Mauritania not among them.
+
+What does bind is continental rather than regional: [Mauritania has ratified the African Union's Malabo Convention on cyber security and personal data protection](https://dataprotection.africa/mauritania/), which with national law carries the whole of its data-protection position. The one substantial regional vehicle that does reach it is financing rather than rulemaking — it is [one of four country beneficiaries of the World Bank's Western Africa Regional Digital Integration Program](https://projects.worldbank.org/en/projects-operations/project-detail/P176932), with the digital transformation ministry as implementing agency. On the voluntary side it is [not a member of the Open Government Partnership](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf), where the three comparators its own open-data strategy measures itself against all are.
 
 ### Standards
+<!-- gov.standards -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National framework for public digital service standards | [In development](https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/) | Three-day standards and interoperability workshop run by the digital ministry |
-| National IPv6 transition strategy | [Implemented](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf) | A 68-page strategy targeting 25% adoption by 2026, with a national committee |
+[Every licensed telecommunications operator in Mauritania had activated IPv6 by July 2026](https://www.alakhbar.info/6a62c5feac143500012ee215/), the furthest any technical standards commitment has been carried. [The national transition strategy](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf) sets 25% migration by 2026 across a three-phase roadmap of preparation, dual-stack operation and continuous monitoring, and [the digital ministry frames the address space as the precondition for wide 5G rollout and for cloud, IoT and AI services](https://www.alakhbar.info/6a62c5feac143500012ee215/).
 
-<!-- narrative: governance -->
-[Loi n° 2017-020](https://www.apd.mr/fr/wp-content/uploads/2023/10/Loi-2017-020-sur-la-protection-des-donnees-a-caractere-personnel.pdf) has been in force since 22 July 2017; the [authority's site](https://www.apd.mr/fr/) records monthly meetings and sensitisation days through May 2026, with no enforcement record yet published. The National Digital Transformation Agenda covered 2022 to 2025 and [its four axes are known from a ministerial interview](https://businessfocus.org.uk/setting-the-agenda-for-digital-transformation/); no successor is held. The [universal-access fund](https://lequotidien.mr/?p=39470) was regoverned in July 2026 on stated grounds that its object, resources and budgetary integration were unclear after six years — the replacing decree's terms are not reproduced, and both national gazette hosts return NXDOMAIN.
+Standards for services rather than for networks are further back. [In March 2025 the government held a national workshop, with German cooperation, to set unified standards for digital public services](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services), explicitly to improve interoperability between government systems. [A 2024 scoping study for the digital ministry](https://mtnima.gov.mr/wp-content/uploads/2024/06/Rapport-Final-de-le%CC%81tude-de-cadrage-de-sofrecom.pdf) sets out a general interoperability framework and an interoperability hub — API gateway, identity and access management, a unified data repository — and names civil-status and identity documents as one of the first service families to be brought into it. The legal footing is thinner than the design work: [electronic exchange between administrations rests on the 2022 decree, with the general interoperability framework proposed rather than in place](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023).
 
-Legislation moved most. The [Startup Act](https://mtnima.gov.mr/fr/loi-de-startup/) — Loi n° 2024-002 — was promulgated 2 January 2024, after a 2023 draft targeting 300 labelled start-ups and 3,000 jobs over five years; the promulgated text is not held, but the ministry's [pre-enactment deck](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) sets a procurement margin, a start-up fund and guarantee fund, and payroll relief. A state digital agency [proposed by UNDP in 2021 as ANETA](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf) remains proposed only, revived by name in a [2023 strategy](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) naming the country's existing, thin open-data portal.
+### Public debate and participation in policymaking
+<!-- gov.discourse -->
 
-Standards are where the state is otherwise writing. The [IPv6 transition strategy](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf) commits the state to impose the protocol on government agencies, educational establishments and critical-infrastructure sectors — an obligation rather than an encouragement — and creates a national committee to own the roadmap. A [national framework for public digital service standards](https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/) is under development with German support, and nothing has been published from it.
+Mauritania ranks [5th of 54 African states for media freedom, at 73.8 of 100 in 2023 after a 10.6-point gain over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) — and 41st of 54 for [accountability and transparency, its worst governance dimension at 22.6](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), and 41st again for [freedom of expression and belief at 38.4, down 2.5 points over the same decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). A free-ish press coexists with a state that discloses little and an [online space that is the second most deteriorated measure in the whole index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
 
-Regionally, the [memorandum with Senegal](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-and-mauritania-sign-mou-to-deepen-digital-cooperation) of January 2025 has produced no recorded deliverable.
-<!-- /narrative -->
+What the state publishes is the binding constraint on debate. [Disclosure of public records is among the country's ten worst measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), and Mauritania is [not a member of the Open Government Partnership](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) whose principles its own open-data strategy invokes. Against that, [rural representation and participation rose sharply over 2014–2023 and is now among the country's best-scoring measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
+
+Consultation on digital policy happens where the sponsoring ministry organises it: [the consultation run alongside drafting of the Startup Act found most respondents rating the existing regulatory framework poorly and the draft bill's provisions well](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) (September 2023). Scrutiny after the fact runs through the Inspection Générale d'État, which [put the financial impact of irregularities found in its 2024–2025 exercises at over two billion ouguiyas against more than thirty billion audited, stated as recovered](https://ladepeche.mr/?p=23767), and whose unquantified findings [ran to internal-control failures, fictitious competition and unjustified direct awards, with public procurement named the domain most exposed to risk](https://ladepeche.mr/?p=23767) (August 2026).
 
 ## Finance
 
 ### MoUs and other agreements
+<!-- finance.mou -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Islamic Development Bank digital financing | [Planned](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal) | Agreement in principle for US$50m, 14 April 2026 |
+No digital-sector memorandum of understanding or comparable cooperation agreement had been made public as at September 2026.
 
 ### New investments
+<!-- finance.new -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital-Y German cooperation project | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394) | Supporting the public digital service standards framework |
-| EIB COVID-19 resilience submarine cable financing | [Implemented](https://www.eib.org/en/projects/all/20190635) | Committed in 2020 |
-| EIB financing for the EllaLink connection | [Implemented](https://ami.mr/fr/archives/276234) | More than EUR 43.5m committed by the EIB and the EU |
-| WARDIP digital transformation programme | [Implemented](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Financed the national cloud launched in June 2026 |
-| World Bank private sector, digital and human capital reform financing | [Implemented](https://documents1.worldbank.org/curated/en/481901627264822850/txt/Mauritania-Second-Private-Sector-Digital-and-Human-Capital-Reform-Development-Policy-Financing.txt) | US$30m IDA grant, the second of three operations |
+[Mauritania's connection to the EllaLink submarine cable was launched at Nouadhibou in 2025](https://ami.mr/fr/archives/276234), linking the country directly to networks in Europe and the Americas on European Investment Bank financing with European Union support. The EIB had earlier signed [a EUR 25 million loan in December 2020](https://www.eib.org/en/projects/all/20190635) for the first direct high-speed link to Europe and West Africa. Mauritania is also [a landing country of the MEDUSA system](https://www.eib.org/en/projects/all/20210166), backed by a EUR 38.5 million EIB loan and a EUR 40 million European Union grant, and [one of eight landing points on Maroc Telecom's EUR 150 million West Africa cable](https://medias24.com/2023/06/01/150-millions-deuros-pour-le-west-africa-cable-sous-marin-a-fibre-optique-de-maroc-telecom/), whose northern segment became operational in April 2022.
 
-<!-- narrative: finance -->
-Mauritania's digital financing record is substantial and almost entirely external. The [World Bank's WARDIP programme](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) financed the national cloud and is running the unawarded PKI procurement; the EIB financed [the EllaLink connection](https://www.eib.org/en/projects/all/20210166) at more than EUR 43.5m, the data centre and a [2020 COVID-19 resilience cable](https://www.eib.org/en/projects/all/20190635); Germany's [Digital-Y](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394) project runs at EUR 4m; and the [Islamic Development Bank agreed US$50m in principle](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal) in April 2026, with no signed instrument or disbursement schedule held. The one domestic figure on record is the [digital ministry's 2026 budget, set at US$24.2m and up 104.6% on the prior year](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty).
-<!-- /narrative -->
+The largest commitment made to Mauritania in its own right is [an IDA credit of SDR 45.7 million, US$60 million equivalent, approved on 7 November 2023](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) under the World Bank's Western Africa Regional Digital Integration Program, of which [Mauritania is one of only four country beneficiaries](https://projects.worldbank.org/en/projects-operations/project-detail/P176932) alongside The Gambia, Guinea and Guinea-Bissau. [An earlier US$30 million development policy operation](https://projects.worldbank.org/en/projects-operations/project-detail/P171238) supporting private-sector digital reform ran 2021-2022 and is closed.
+
+Germany's BMZ is funding [a EUR 4 million digital transformation programme running 2024 to 2027](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394); [a EUR 2.5 million French development agency grant](https://www.iatistandard.org/activities/FR-3-CZZ3692) channelled through UN Women is modernising the statistics institutes of Mauritania, Senegal and Chad; and [China granted MRU 629.4 million in 2021](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm) for an urban security and monitoring system for the national security directorate in Nouakchott, 316 cameras extensible to 1,000 observation points. [Mauritania and the Islamic Development Bank agreed in principle in April 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal) on a digital package of around US$50 million covering infrastructure, cybersecurity and skills.
+
+<!-- derived -->
+Eleven commitments are on record across 2019 to 2028, eight naming Mauritania as the recipient and three regional operations naming it as a beneficiary. Connectivity takes six of them and about three-quarters of the money; nothing funds digital identity, digital payments or government service delivery. The World Bank and the European Investment Bank are the most frequent financiers, three commitments each, the EIB's all submarine cable. Loans rather than grants carry the money in; the grants fund policy support, statistics and a surveillance system.
 
 ## ICT Infrastructure
 
 ### Connectivity
+<!-- infra.connect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| 5G licences | [Implemented](https://ghabess.net/23385) | Commercial network launched at Nouakchott 2026-08-10 |
-| ACE submarine cable landing | [Implemented](https://www.agenceecofin.com/actualites-numerique/0505-138141-internet-la-mauritanie-amorce-le-deploiement-de-son-deuxieme-cable-sous-marin) | Sole international cable since 2011 |
-| Chinguitel network modernisation | [Implemented](https://techafricanews.com/2025/11/13/chinguitel-and-huawei-complete-major-network-modernization-across-mauritania/) | Full modernisation completed in Nouakchott with Huawei |
-| EllaLink second submarine cable | [In development](https://ami.mr/fr/archives/294524) | Phase-1 coastal landing completed at Nouadhibou |
-| IPv6 deployment across operator networks | [In development](https://www.alakhbar.info/6a62c5feac143500012ee215/) | All licensed operators have activated IPv6 across networks and services |
-| MEDUSA cable, sub-Saharan component | [Planned](https://www.eib.org/en/projects/all/20210166) | EIB financing recorded for the sub-Saharan component |
-| Sahel digital connectivity support | [In development](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Ericsson with Luxembourg and Swedish support named for Sahel connectivity |
-| Satellite internet licences | [In development](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite) | Three firms provisionally selected across two lots |
+Mauritania got its first fifth-generation mobile network on 10 August 2026, when [Chinguitel switched it on at a Nouakchott ceremony](https://lequotidien.mr/?p=39791) attended by the digital transformation minister. The operator that took the country there is not a national champion: Chinguitel has been [majority-owned by Sudan's Sudatel Group since it entered the market in 2007](https://lequotidien.mr/?p=39791), and it set out alongside the launch a [2027–2030 investment plan covering coverage expansion, transport and fibre networks, and national data centres](https://lequotidien.mr/?p=39791).
+
+Domestic traffic began staying in the country the year before. The [national Internet Exchange Point was officially launched in May 2025](https://fr.saharamedias.net/mauritanie-lancement-officiel-du-centre-national-dechange-internet/), hosted at International Mauritanian Telecommunications in Nouakchott and run jointly by government and the operators, though participation remains limited to the IMT consortium and the three national operators. Every licensed operator had [activated IPv6 by July 2026](https://www.alakhbar.info/6a62c5feac143500012ee215/), under a [ministry strategy that presents address space as the precondition for wide 5G, cloud and AI services](https://www.alakhbar.info/6a62c5feac143500012ee215/); moving subscribers is the slower half of the job, and as at July 2026 the [furthest-advanced operator had still not reached the national migration target set for the end of the year](https://www.alakhbar.info/6a62c5feac143500012ee215/).
+
+Reach is the constraint the new equipment does not resolve. [37.4% of individuals used the internet in 2023](https://datareportal.com/reports/digital-2026-mauritania), against [about 113 mobile cellular subscriptions per 100 people in 2022](https://fred.stlouisfed.org/series/ITCELSETSP2MRT). Price is not the obvious culprit at the entry level: a [1GB mobile basket cost 1.47% of GNI per capita in 2025, inside the UN Broadband Commission's affordability threshold, while 5GB cost 2.94% and fixed broadband around 17.6%](https://pulse.internetsociety.org/en/reports/mr/).
+
+The long view is of a mobile network improving fast from a low start while everything around it does not. [Mobile communications rose 17.0 points over 2014-2023 to 56.0 of 100 in the 2024 Ibrahim Index, one of Mauritania's ten most improved measures, yet still 43rd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), while [access to the internet and to computers reached only 24.4 of 100, 38th of 54, on a gain of 5.5 points over the same decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). [Infrastructure overall scores 33.3 of 100, 35th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
 
 ### Data Storage
+<!-- infra.store -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National cloud platform | [Implemented](https://alwiam.info/ar/51206) | Data-security testing and migration preparation ahead of go-live, 2026-08-11 |
-| Nouakchott Tier III national data centre | [Implemented](https://www.eib.org/en/press/all/2025-202-inauguration-du-centre-d-hebergement-de-donnees-numeriques-de-nouakchott) | Inaugurated 8 May 2025, EUR 15m EIB-financed and Uptime-certified |
+Mauritania [launched a national government cloud on 29 June 2026](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty), giving government agencies shared computing and storage and holding public data inside national borders, with no migration timeline announced. It runs on hardware barely a year old: the [National Data Centre in Nouakchott was inaugurated in May 2025, financed by a EUR 15 million European Investment Bank loan, certified Tier III by the Uptime Institute and operated by International Mauritanian Telecommunications](https://www.eib.org/en/press/all/2025-202-inauguration-du-centre-d-hebergement-de-donnees-numeriques-de-nouakchott).
+
+Keeping data in the country is a policy choice rather than a legal duty. [No general data-localisation requirement applies, and the 2026 cloud is a sovereignty initiative rather than a mandate](https://www.dataguidance.com/jurisdictions/mauritania), which leaves private and commercial workloads where they were: [Amazon Web Services operates no region in Mauritania](https://aws.amazon.com/about-aws/global-infrastructure/). The one announced addition to domestic capacity comes from an operator rather than the state, with [national data centres named among Chinguitel's 2027–2030 investments](https://lequotidien.mr/?p=39791).
 
 ### Energy
+<!-- infra.energy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| SOMELEC digital-transformation programme | [In development](https://somelec.mr/sites/default/files/PPPM%20EXERCICE%202024%20revision%2004-12-2024%20pour%20publication.pdf) | FY2024 procurement plan (revised 4 December 2024) itemises a data-centre fit-out, an ERP/CRM system and smart-metering and dispatch studies, each with a target completion date |
-| Power supply to network sites and the data centre | ***Not held*** | — |
+Half of Mauritania has mains electricity: [50.3% of the population had access in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=MR), a national figure that conceals an almost wholly urban supply, since [93.5% of the urban population had access in the same year](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=MR). Against the rest of the country's infrastructure record that is a relative strength: [access to energy scores 47.2 of 100 in the 2024 Ibrahim Index, 21st of 54 African states and up 7.4 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), Mauritania's best infrastructure measure after mobile communications.
+
+Generation leans unusually hard on renewables, with [hydro, wind and solar together supplying close to half of electricity output in 2024](https://countryeconomy.com/energy-and-environment/electricity-generation/mauritania). Reliability is the weaker point for anything that has to stay powered: [firms reported several outages in a typical month when the measure was last taken, in 2014](https://www.indexmundi.com/facts/mauritania/indicator/IC.ELC.OUTG).
+
+### Technical Capacity
+<!-- infra.capacity -->
+
+Mauritania's own reading of what limits its networks is people rather than equipment: the [national IPv6 strategy weights its costing to human resources on the stated ground that most installed equipment already supports the protocol](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf), and the transition is owned by [a national IPv6 committee the strategy establishes](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf).
+
+The administration doing this work is middling by African comparison and improving: [effective administration scores 45.1 of 100 in the 2024 Ibrahim Index, 36th of 54 African states, having gained 8.8 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
+
+What it does not have is a single body carrying digital delivery. [UNDP delivered a costed proposal in July 2021, at the government's own request, for a standing state digital agency constituted under the digital ministry](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf), and the [national data strategy's answer to having no interoperability operator is to revive the dormant decree that would create one](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf). Where systems have been built, the skills to run them have not always come with them: UNDP records that [considerable capacity building among national stakeholders is still needed to govern the open-source components of the e-ID system](https://www.undp.org/blog/mauritania-pilots-digital-id-app), which was built by an external vendor with a local partner.
+
+The pipeline behind all of it is narrow. [Tertiary ICT and STEM provision rests on the University of Nouakchott Al Aasriya's Faculté des Sciences et Techniques, the École Supérieure Polytechnique and the Institut Supérieur du Numérique in the public sector, alongside private providers such as Groupe ISI and ESPRI](https://mesrs.gov.mr/fr/etablissements).
 
 ### Cybersecurity
+<!-- infra.cybersec -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Central Bank digital reputation protection platform | [Implemented](https://elvetach.info/archives/212723) | Detection figures for the first half of 2026 reported by PAFIID |
-| National computer emergency response team | [Planned](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | Provided for under the 2022-2025 cybersecurity strategy; nothing on record built |
-| National Cybersecurity Strategy 2022-2025 | [Implemented, period expired](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | Ran 2022 to 2025; no successor is published |
+Mauritania sits in the [evolving band of the ITU's 2024 Global Cybersecurity Index](https://statbase.org/data/mrt-global-cybersecurity-index/), on a legal footing laid a decade ago: [Law No. 2016-007 is the country's cybercrime statute](https://mtnima.gov.mr/sites/default/files/loi_2016_-_007_relative_la_cybercriminalite.pdf), and Mauritania has [ratified the African Union's Malabo Convention on cyber security and personal data protection](https://dataprotection.africa/mauritania/).
 
-<!-- narrative: ict-infrastructure -->
-International capacity is a single point of failure until EllaLink commissions. The [ACE cable](https://www.agenceecofin.com/actualites-numerique/0505-138141-internet-la-mauritanie-amorce-le-deploiement-de-son-deuxieme-cable-sous-marin) has carried the country alone since 2011; the [EllaLink branch](https://ami.mr/fr/archives/276234) — 669 km, 200 Gb/s rising to 12 Tbit/s, financed by the EIB and the EU — completed its coastal phase at Nouadhibou in May 2026 with offshore laying scheduled for August 2026. A [MEDUSA sub-Saharan component](https://www.eib.org/en/projects/all/20210166) is financed and has no landing on record.
-
-Mobile is the most changed layer. [Four fifteen-year 5G licences](https://techafricanews.com/2026/04/15/mauritania-advances-5g-rollout-as-regulator-names-provisional-winners-for-national-licences/) were provisionally awarded in April 2026 to the three incumbents and the new entrant Rimatel, at bids of MRU 252.6m to 305m plus 5% of revenue, and Chinguitel launched in Nouakchott the following month. Chinguitel had [completed a full network modernisation with Huawei](https://techafricanews.com/2025/11/13/chinguitel-and-huawei-complete-major-network-modernization-across-mauritania/) in November 2025. Satellite is one stage behind: [three firms were provisionally selected](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite) in July 2026 from nine bids, with two of them required to match the leading offer before a licence issues, and no award, launch date or operating framework published. That account is Agence Ecofin's reading of the regulator's communiqué; the communiqué itself is not held.
-
-The protocol layer is a written state commitment rather than an engineering preference. [All licensed operators have activated IPv6](https://www.alakhbar.info/6a62c5feac143500012ee215/), and one unnamed operator has passed 15% of subscribers migrated against a 25% end-2026 target.
-
-Hosting is domestic and recent. The [Nouakchott Tier III data centre](https://www.eib.org/en/press/all/2025-202-inauguration-du-centre-d-hebergement-de-donnees-numeriques-de-nouakchott), EUR 15m and EIB-financed, was inaugurated in May 2025, and the [national cloud](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty) launched there in June 2026 with no migration timeline, capacity or cost disclosed. Cybersecurity is thinner: the 2022–2025 strategy's period has ended with no successor and no CERT, and the one operational figure in the base is the Central Bank's — [more than 10,000 electronic threats detected in the first half of 2026, 470 confirmed and removed](https://elvetach.info/archives/212723).
-
-SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%20EXERCICE%202024%20revision%2004-12-2024%20pour%20publication.pdf) sets out its own data-centre, ERP/CRM and smart-metering programme, financed by FADES, SOMELEC and IDA; power to network sites and the national data centre remains not published.
-<!-- /narrative -->
+The newest additions to the state's electronic reach are investigative powers rather than defences: the detection chapter of the [new narcotics law provides for interception of communications, electronic and technical monitoring, and geolocation and tracking](https://www.ami.mr/archives/267317). Money to build the defensive side is not yet committed, though cybersecurity is one of the components of the [digital financing package agreed in principle with the Islamic Development Bank in April 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal).
 
 ## DPI
 
 ### Data Exchange
+<!-- dpi.exchange -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National data management system | [In development](https://www.ami.mr/archives/265184) | Two-day workshop opened on data governance and blockchain, 27 July 2026 |
+Since April 2025 a Mauritanian company can be created in [a single online transaction that simultaneously enters it in the Registre de Commerce, issues its tax identification number and affiliates it to the Caisse Nationale de Sécurité Sociale](https://mtnima.gov.mr/fr/modernisation-de-ladministration-publique-digitalisation-et-mise-en-ligne-via-khidmaty-de-services-publics-destines-aux-investisseurs/), run through the Khidmaty portal and authenticated by the Houwiyeti identity app — the most substantial working exchange of data between Mauritanian administrations, and one built with no national interoperability platform underneath it.
+
+That is the pattern throughout. The population register has [offered web APIs since around 2010](https://procurement-notices.undp.org/view_file.cfm?doc_id=301323) that let the electoral commission, mobile operators and financial institutions verify identity in real time, giving partial automated exchange in the absence of a general platform (2022). The legal footing is [Décret n° 2022-009 on inter-administration electronic exchange, with a Référentiel Général d'Interopérabilité proposed rather than in place](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023). A [2024 scoping study for the digital transformation ministry](https://mtnima.gov.mr/wp-content/uploads/2024/06/Rapport-Final-de-le%CC%81tude-de-cadrage-de-sofrecom.pdf) sets out the missing piece — a General Interoperability Framework and an Interoperability Hub comprising an API gateway, identity and access management and a unified data repository — and puts civil-status and identity documents first in line to be brought into it.
+
+The [design of the planned national address register](https://mtnima.gov.mr/wp-content/uploads/2025/03/TDR-adressage.pdf) shows how far the design work runs ahead of delivery: it obliges the Agence Numérique de l'État to build an interoperability API alongside the address database and the housing and land ministry to align cadastral data so that every parcel receives a digital address, none of it yet operational (2025). Interoperability is an explicit objective of [the governing digital strategy](https://mtnima.gov.mr/wp-content/uploads/2024/03/Agenda-Numerique-2022-25-MTNIMA.pdf) and an axis of [a standalone national strategy for open and interoperable data](https://dig.watch/resource/the-national-strategy-for-open-and-interoperable-data-of-mauritania), and unified standards for digital public services were [set at a national workshop with German cooperation in March 2025](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services). The [personal data protection law of 2017 has still not entered into force](https://dataprotection.africa/mauritania/), and no dedicated cross-government data-sharing law is in effect (2024).
 
 ### Digital Identity and CRVS
+<!-- dpi.id -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Biometric SIM identification | [Implemented](https://www.ecofinagency.com/news-digital/1601-51999-mauritania-steps-up-pressure-on-telecom-operators-over-biometric-identification) | Formal notices issued to the three operators, January 2026 |
-| Houwiyeti digital identity application | [Implemented](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) | A full day of scheduled maintenance took the application down, 2026-08-08 |
-| National Population Register | [Implemented](https://ladepeche.mr/?p=22700) | Register figures given to deputies, June 2026 |
-| National public key infrastructure and certificate management system | [In development](https://beta.mr/files/appls/177.pdf) | Bid deadline moved to 21 July 2026 by a second addendum |
+Biometric identification against the national register is a legal precondition for selling or activating any SIM card in Mauritania, and the regulator, having ordered unidentified SIMs deactivated in October 2023, [issued formal notices to Mattel, Mauritel and Chinguitel in January 2026 over their failure to comply](https://www.ecofinagency.com/news-digital/1601-51999-mauritania-steps-up-pressure-on-telecom-operators-over-biometric-identification).
+
+The register behind that requirement, [SIGPTS, launched in 2020 and run by ANRPTS, had enrolled the great majority of the population by May 2025](https://www.biometricupdate.com/202505/african-nations-making-digital-id-gains-in-the-face-of-common-challenges). [Décret n° 2021-138 governs the card it issues](https://citizenshiprightsafrica.org/wp-content/uploads/2022/12/Mauritanie-Decret-2021-138-du-03-aout-2021-carte-nationale-didentite.pdf): a secure contact and contactless-chip document, the official proof of identity and nationality, available voluntarily from age six and compulsory for every Mauritanian of sixteen or over holding a National Identification Number. [Fingerprints are captured for the national biometric register](https://tech5.ai/mauritania-digital-id-undp-funding/), with the Houwiyeti platform adding a facial image for one-to-one matching by smartphone camera with liveness detection. The card is [not issued free of charge, and the governing decree requires payment for issuance, replacement or renewal](https://www.ecoi.net/en/document/1187051.html).
+
+[Houwiyeti reached the public in January 2024](https://tech5.ai/mauritania-digital-id-undp-funding/), letting citizens authenticate to government services by facial match against their stored eID over OpenID Connect rather than a password; ANRPTS had [launched it in December 2023](http://anrpts.gov.mr/fr/houwiyeti) for requests for identity and civil status documents. It was [built by the Swiss vendor TECH5 with the local firm SmartMS and funded by UNDP](https://www.undp.org/blog/mauritania-pilots-digital-id-app), which records that national stakeholders still need considerable capacity building to govern the open-source components, and [designed for low-connectivity areas](https://www.undp.org/blog/mauritania-pilots-digital-id-app), with offline verification and several credentials on one phone.
+
+[No dedicated digital-identity legislation has been enacted](https://www.undp.org/blog/mauritania-pilots-digital-id-app): the system rests on decree and civil-registration law written for the biometric card, with legislation for the digital ID left to a future phase (2024). The card is [one accepted proof among several for enrolling in public health insurance](https://www.procedures.gov.mr/fr/procedure/1292) (2023) and [underpins tiered know-your-customer checks at financial institutions without being universally mandatory to open an account](https://policyaccelerator.uncdf.org/whats-new/mauritania-journey-financial-inclusion) (2022). [Refugees have been biometrically registered since October 2014 and issued National Identification Numbers, around 128,000 people by March 2024](https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf), with backlogs remaining. Mauritania is [not among the six countries in the ECOWAS and World Bank WURI programme for cross-border identity interoperability](https://wuri.ecowas.int/the-west-africa-unique-identification-for-regional-integration-and-inclusion-wuri-programme-to-hold-its-maiden-regional-sensitisation-and-awareness-event/) (2022).
 
 ### Digital Payments and Fintech
+<!-- dpi.pay -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| PAMIF financial infrastructure modernisation | [Implemented](https://www.afdb.org/en/success-stories/mauritania-finance-track-modern-age-92328) | Telecompensation, real-time settlement and automated refinancing reported delivered |
-| Tax on electronic transactions | [Implemented](https://invest-time.com/2026/01/17/mauritanie-budget-2026-taxe-electro/) | Introduced by the 2026 finance law |
+Mauritania's tax authority runs an online filing and payment system, and use of it collapses at the payment step: among public bodies, [66 are enrolled, 53 file electronically and 3 pay through it](https://www.ami.mr/archives/265398) (July 2026). The platform itself, [the Système de télédéclaration et télépaiement, is live alongside a separate tele-services portal](https://impots.gov.mr/DGI/teleservices.html) (2026), while electronic payment of import and export duties remains an [unimplemented Trade Facilitation Agreement commitment recorded by the WTO as showing no progress](https://tfadatabase.org/fr/members/mauritania/technical-assistance-projects/article-7-2), so digital revenue collection stops short of customs (2026).
+
+Retail rails run through GIMTEL, [the interbank card and payments switch established in May 2005 under the aegis of the Banque Centrale de Mauritanie as an economic interest grouping whose members include the central bank, Mauripost and the commercial banks](https://gimtel.mr/fr/missions). The central bank [opened interbank interoperability between mobile wallet applications through GIMTEL in October 2024](https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/), following a project begun in 2021, and a [2025 tender sought the implementation of an instant payment system enabling interoperability of financial services](https://www.mauritaniatenders.com/tender/implementation-instant-payment-system-mauritania-enabling-interoperability-financial-services-7034e4b.php). Cross-border, Mauritania [appears neither among PAPSS's live participants nor in its extended network](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf) (June 2026); GIMTEL's 2025 certification in the Visa Global Registry is international card-network interoperability rather than instant cross-border payment.
+
+The demand side is thin. [Account ownership at a financial institution or with a mobile-money provider stood at 27.31% of adults aged 15 and over](https://data.worldbank.org/indicator/FX.OWN.TOTL.ZS?locations=MR) in the 2024 Global Findex fieldwork, up from single-digit mobile money penetration in 2018, and [access to banking services scores 13.4 of 100 in the 2024 Ibrahim Index, 36th of 54 African states and among the country's ten worst-scoring measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023). The Alliance for Financial Inclusion found in 2024 that [GIMTEL is not well positioned to serve people of modest means, and that the financial inclusion targets in the National Financial Inclusion Strategy 2023–2028 are not embedded in payment-scheme governance](https://www.afi-global.org/wp-content/uploads/2024/10/AFI_FDPs_CS_MAURITANIA_FINAL.pdf); [refugees' access to financial services remains partial](https://www.afi-global.org/wp-content/uploads/2024/10/AFI_FDPs_CS_MAURITANIA_FINAL.pdf), with digitisation and mobile money for that group at an early stage.
 
 ### Registries
+<!-- dpi.registry -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Biometric driving licences and registration plates | [Planned](https://www.ami.mr/archives/266980) | Ministerial statement of a before-end-2026 target, 2026-08-21 |
-| National information system for the central criminal-record register | [Enacted](https://www.ami.mr/archives/267317) | Decree adopted by the Council of Ministers 2026-08-27 |
-| Referentiel national numerique des donnees foncieres et cadastrales | [Enacted](https://kassataya.com/mauritanie-le-numerique-comme-instrument-de-depossession-silencieuse-du-foncier/) | Digitisation critiqued publicly 2026-08-28 |
-| Unified digital consular registry | [Implemented](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/) | Live for the Riyadh mission's zone of competence |
+[Fewer than half of Mauritanian births were registered by 2021, well down on the middle of the decade before](https://nationstat.com/fr/country/mauritania/completeness-of-birth-registration) — against a civil registration system that is [the country's best-performing administrative measure in the 2024 Ibrahim Index, 75.0 of 100 and 7th of 54 African states, on a score that has not moved since 2014](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
+
+[Civil registration is run by ANRPTS, covers births, marriages, divorces and deaths and is recorded at commune-level Citizen Welcome Centres](https://www.ecoi.net/en/document/1187051.html) (2025) — the same agency and the same counters that [issue identity documents against the SIGPTS register, leaving registration and identity only partially integrated](https://www.biometricupdate.com/202505/african-nations-making-digital-id-gains-in-the-face-of-common-challenges). [Enrolment happens at fixed and mobile reception centres, including missions that travel to villages](https://ebrary.net/164420/political_science/biometric_enrolment_practice), where staff key biographic details and capture fingerprints, photograph and signature straight into the national biometric database while applicants still bring paper source documents (2023).
+
+The other registries are uneven. [The 2024 presidential register held 1,939,342 voters against a voting-age population of 2,510,244, a coverage rate of 77.2%](https://www.idea.int/data-tools/data/country?country=141&database_theme=293), compiled as [the biometric RAVEL 2023 register, which requires a valid biometric identity card and is deduplicated against the national ID database](https://www.ifes.org/sites/default/files/2024-06/Election%20Snapshot%20Mauritania%20Presidential%20Elections%202024.pdf). A [single general Tax Identification Number covers all tax operations, individuals and businesses alike](https://impots.gov.mr/DGI/espace_particulier.html) (2025), and a [National Social Registry of the poorest households](https://www.worldbank.org/en/news/feature/2024/09/05/afw-transforming-lives-in-mauritania-through-adaptive-social-protection) carries social-protection targeting (2024). Consular registration has moved online, [through a platform delivering the consular card, travel authorisation, legalisation and repatriation permits without attending a mission](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/), though [the registration desk remains the competent authority, so the platform layers onto the existing register rather than replacing it](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/).
+
+Land is the weakest. World Bank land governance work finds [no national cadastral plan or land register, with formal registration concentrated in urban areas](https://documents1.worldbank.org/curated/en/099110824061522855/pdf/P500687-27dfa6ec-9081-4e5a-ac8b-5f3fec38494e.pdf) (2025), and the [TEHLIL cadastre and the electronic land registry set up in Nouakchott in 2014 are to be succeeded by a modernisation reform announced in September 2025 and rolled out progressively across the country](https://www.domaines.gov.mr/index.php/mot-dg/). There is [no operational national address register either: procurement terms of reference were issued in March 2025 for MAURIPOST to design and implement a georeferenced digital postal addressing system under the World Bank's WARDIP programme](https://mtnima.gov.mr/wp-content/uploads/2025/03/TDR-adressage.pdf).
 
 ### Sectoral management information systems
+<!-- dpi.mis -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Education certificate service on Houwiyeti | [Implemented](https://ami.mr/fr/archives/276019) | Launched for extraction and confirmation of national education certificates |
+Mauritania's sectoral information systems digitise above the point of service rather than at it. [Rural health posts keep handwritten registers and documents that patients carry between visits, and paper summaries travel up to district centres to be entered into DHIS2 there](https://documents1.worldbank.org/curated/en/099121523194016438/pdf/P1598650398a4706d09a340d1a66200239a.pdf) (2025). [Education statistics work the same way: enrolment, attendance and transition data reach the national SIRAGE platform through regional inspectors' periodic field visits, while rural primary schools keep pupil and attendance records on paper](https://ami.mr/fr/archives/269802) (2025). [Smartphone data capture by community health workers exists as a nine-facility pilot in two districts](https://www.wvi.org/sites/default/files/2022-11/2021%20Digital%20Health%20Factsheet%20-%20AIM%20Health%20Plus%20-%20Mauritania.pdf), an isolated exception rather than a national pattern (2025).
+
+Where systems are being built, they are being built at the centre. [The health insurance fund CNASS signed a cooperation agreement with the State Digital Agency in July 2025 to digitise its infrastructure under a 2025–2030 strategy, and launched its first digital services for policyholders on the Khidmati platform in May 2026](https://ami.mr/fr/archives/295101). A [National e-Health Strategy for 2024–2030, launched in October 2025, sets out a national vaccination database, an E-CNAM digital health insurance platform and expanded telemedicine](https://www.ecofinagency.com/news-digital/0512-51162-mauritania-accelerates-digital-transformation-of-health-system). Social protection has the working data spine: [the Tekavoul cash-transfer programme identifies and enrols beneficiaries through civil-registration-linked identification drawn from the Social Register](https://www.alliance-sahel.org/en/an-inclusive-social-protection-system-in-mauritania/).
+
+In revenue and justice the constraint is administrative rather than technical. The tax authority's [2025–2029 strategic plan sets out planned work to interface its information system with other public bodies and to generalise electronic filing and payment](https://impots.gov.mr/DGI/files/Plan%20Startegique%202025-2029.pdf). Public financial management has meanwhile been going backwards: [budgetary and financial management fell 7.0 points to 59.7 of 100 over 2014–2023 in the 2024 Ibrahim Index, one of the ten most deteriorated Mauritanian measures, and tax and revenue mobilisation fell 2.7 points to 53.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023). [Criminal record certificates went online in March 2025 through the Houwiyeti application](https://mtnima.gov.mr/fr/mauritanie-digitalisation-du-casier-judiciaire-et-lancement-de-son-acces-en-ligne/), covering national judicial records rather than case management at individual posts: [case files, complaints and arrest statements at rural gendarmerie and police posts are written by hand, at posts that often lack reliable electricity or office equipment, and detainee records were found poorly maintained](https://www.state.gov/wp-content/uploads/2023/02/415610_MAURITANIA-2022-HUMAN-RIGHTS-REPORT.pdf) (2023).
 
 ### Other GovTech and e-Gov
+<!-- dpi.govtech -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital consular services platform | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad) | Launched 9 July 2026 with a first phase of nine online services |
-| Digitised civil service recruitment competition | [Implemented](https://www.ami.mr/archives/266841) | Four-day examination for 390 posts opened 2026-08-18 |
-| Digitised civil-service recruitment | [Implemented](https://lequotidien.mr/?p=40000&lang=fr) | 390-post competition run digitally from application to examination (2026-08) |
-| Electronic invoicing for public institutions | [Planned](https://www.ami.mr/archives/265398) | Announced by the Finance Minister, 30 July 2026 |
-| Ijraati administrative procedures portal | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-centralizes-800-administrative-procedures-in-new-digital-portal) | Launched consolidating more than 800 administrative procedures |
-| Khdamati remote transactions platform | [Planned](https://ami.mr/fr/archives/300915) | Integration with the Diwan territorial-administration system taken forward with German cooperation 2026-08-13 |
-| SNDE services on the Mes Services portal | [Implemented](https://ami.mr/fr/archives/300346) | Water utility services integrated into the portal from 4 August 2026 |
-| STT electronic tax services platform | [Implemented](https://www.ami.mr/archives/265398) | Adoption by public bodies disclosed at a tax workshop, 30 July 2026 |
+[Mauritania's Ijraati portal, launched in February 2026, centralises more than 800 administrative procedures in a single directory](https://www.ecofinagency.com/news-digital/1902-53059-mauritania-puts-800-administrative-procedures-online-in-digital-reform-drive), under a three-phase roadmap that moves from centralising procedures, to keeping them updated and reliable, to fully digitising the most-used ones inside the Khdamati platform — which places most of the digitisation itself in the future. [Already available online are university enrolment at Nouakchott, company registration and investment-code approvals, criminal-record certificates, and vehicle registration through the Digital Road Traffic System](https://www.ecofinagency.com/news-digital/1902-53059-mauritania-puts-800-administrative-procedures-online-in-digital-reform-drive) (2025).
 
-<!-- narrative: dpi -->
-Identity is the deepest layer. The [National Population Register](https://ladepeche.mr/?p=22700) has risen to 5.1m from 3.4m in 2019 with enrolment now a permanent public service, 238 local commissions installed and more than 613,000 people captured by a survey of enrolment difficulties. Against [an aggregate coverage claim of more than 94%, a residual of citizens without papers falls disproportionately on Haratine and Afro-Mauritanian groups](https://ladepeche.mr/?p=22700). [Houwiyeti](https://techrek.info/1-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%85%d8%b3%d8%aa%d9%81%d9%8a%d8%af-%d9%85%d9%86-%d9%87%d9%88%d9%8a%d8%aa%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1%d8%a7%d8%aa-%d8%aa%d9%83%d8%b4%d9%81/) reports 677,000 activated accounts and 406,871 cumulative civil-status extracts, with its share of passport requests rising to 35.7% by January 2026. Beneath it, a [national PKI](https://beta.mr/files/appls/177.pdf) is tendered in two lots and twice extended with no award held; the notice title promises a national digital identity system and its operative text describes only e-certification integrating with the existing register. [Biometric SIM identification](https://www.ecofinagency.com/news-digital/1601-51999-mauritania-steps-up-pressure-on-telecom-operators-over-biometric-identification) is enforced by formal notice with sanctions of up to 3% of turnover, and no compliance outcome has been reported.
+Three services joined them in 2026. The water utility SNDE's [transactions became available remotely, without a branch visit, from 4 August 2026, with its services integrated into the « Mes Services » government portal](https://ami.mr/fr/archives/300346). A [foreign ministry consular platform entered service on 9 July 2026 for the Riyadh mission's zone of competence — Saudi Arabia, Bahrain and the Maldives — its first overseas jurisdiction](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/). And [Mourchid, launched in June 2026, brings public employment, vocational-training and entrepreneurship-support programmes into a single portal, though it functions mainly as an information and guidance tool with no documented API integration between employment services and the Social Registry or the National Employment Agency database](https://www.ecofinagency.com/news-services/3006-56949-mauritania-unveils-platform-to-improve-access-to-youth-jobs-training-and-support).
 
-Government services are being consolidated onto single front doors. [Ijraati](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-centralizes-800-administrative-procedures-in-new-digital-portal) directs more than 800 administrative procedures, and the water utility's services were [attached to the Mes Services portal](https://ami.mr/fr/archives/300346) in August 2026 rather than given a platform of their own. The [consular platform](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad) launched in July 2026 and went live for [Saudi Arabia, Bahrain and the Maldives](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/), with a companion platform building a digital register of national skills abroad.
-
-Adoption is the unresolved question, and the base carries one hard measurement of it. Of [642 legally constituted public bodies, 339 are active with the tax administration](https://www.ami.mr/archives/265398), around 20 are absent from the taxpayer register entirely, and on the electronic tax-services platform 66 are enrolled, 53 file and 3 pay. Electronic invoicing for public institutions has been announced against that background.
-
-The exchange layer is at policy stage: a [national data management system](https://www.ami.mr/archives/265184) is being scoped with blockchain proposed as its trust layer, on a policy in consultation since November 2025 naming land administration, trade, public procurement and natural-resource management — [four registries](https://www.ecofinagency.com/news-digital/2907-57833-mauritania-pushes-ahead-with-blockchain-to-modernize-public-services), with no draft text, adoption date or budget published.
-
-Payments carry a delivered programme and a new levy. [PAMIF](https://www.afdb.org/en/success-stories/mauritania-finance-track-modern-age-92328) rebuilt clearing, real-time settlement and automated refinancing, and the 2026 finance law introduced a [0.1% levy on electronic transactions above MRU 5,000](https://invest-time.com/2026/01/17/mauritanie-budget-2026-taxe-electro/) with 10% on agent commissions.
-<!-- /narrative -->
+The institutional base is thinner than the service layer. [UNDP proposed a standing state digital agency, ANETA, under the digital ministry in July 2021](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf), with [an e-Cabinet platform and a public-procurement-portal MVP as its quick wins](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf); neither was built under it. [Public administration is nonetheless Mauritania's second best-scoring governance dimension in the 2024 Ibrahim Index, 57.9 of 100 and 20th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023), and [accessibility of public records is its fastest-improving transparency measure](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), even as the country [sits in the bottom fifth of the UN's 2024 E-Government Development Index](https://dig.watch/countries/mauritania). The reach of central systems is limited: of [642 legally constituted public bodies, 339 are active with the tax administration and around twenty are not registered in the national taxpayer register at all](https://www.ami.mr/archives/265398) (July 2026). A [national government cloud launched in June 2026](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty) gives the estate somewhere to run.
 
 ## Digitalisation
 
 ### Digitalisation of sub-national government
+<!-- digital.localgov -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Municipal or regional digital services | ***Not held*** | — |
+Digitalising territorial administration reached the table on [13 August 2026, when the minister delegate to the interior minister discussed integrating the Diwan territorial-administration system with the Khidmaty services platform with a German delegation comprising the embassy chargé d'affaires and GIZ, as part of decentralisation cooperation](https://ami.mr/fr/archives/300915). Otherwise [digital-government activity is concentrated at central-government level](https://www.undp.org/blog/mauritania-pilots-digital-id-app), in a country where much of the population lives in rural areas with thinner connectivity and public-service infrastructure (2024). Where capacity is built below the centre it is to feed central systems rather than to run local ones: [workshops in Brakna and Hodh Charghi in April 2025 were aimed at regional capacity to operate the SIRAGE education platform and to organise school-visit data-collection missions](https://ami.mr/fr/archives/270002), not at digitising the schools themselves. [Rural representation and participation, by contrast, is one of Mauritania's stronger and faster-improving governance measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023).
 
-<!-- narrative: digitalisation -->
-No municipal or regional digital service is held for Mauritania. What the base carries of service digitisation is national and is recorded under DPI.
-<!-- /narrative -->
+### Rural digital data capture
+<!-- digital.rural -->
+
+In rural Mauritania the record is made on paper and digitised a level above it: [health posts keep handwritten registers and send paper summaries up to district centres for entry into DHIS2](https://documents1.worldbank.org/curated/en/099121523194016438/pdf/P1598650398a4706d09a340d1a66200239a.pdf) (2025). The same shape holds in schooling, where [rural primary schools keep pupil and attendance records on paper and regional inspectors gather them on periodic visits for entry onto the national education platform at district or regional level](https://ami.mr/fr/archives/269802) (2025), and in policing, where [case files, complaints and arrest statements at rural gendarmerie and police posts are written by hand](https://www.state.gov/wp-content/uploads/2023/02/415610_MAURITANIA-2022-HUMAN-RIGHTS-REPORT.pdf) at posts that often lack reliable electricity or office equipment (2023).
+
+The exceptions are narrow and deliberate. [Smartphone capture by community health workers runs as a small NGO-supported pilot rather than a national pattern](https://www.wvi.org/sites/default/files/2022-11/2021%20Digital%20Health%20Factsheet%20-%20AIM%20Health%20Plus%20-%20Mauritania.pdf) (2025). Civil status is where digital capture does reach the village: [ANRPTS reception centres, including missions that travel to villages, enter biographic details and capture fingerprints, photograph and signature directly into the national biometric database at the counter](https://ebrary.net/164420/political_science/biometric_enrolment_practice), with applicants still bringing paper source documents (2023). The [e-ID pilot was built for the same conditions, with offline verification and several credentials on one phone, and designed for rural users](https://www.undp.org/blog/mauritania-pilots-digital-id-app) (2024). The binding constraint is physical: [electricity access is heavily skewed towards towns](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=MR) (2023), and [formal land registration is concentrated in urban areas, with no national cadastral plan or land register behind it](https://documents1.worldbank.org/curated/en/099110824061522855/pdf/P500687-27dfa6ec-9081-4e5a-ac8b-5f3fec38494e.pdf) (2025).
+
+Rural governance itself is not uniformly weak. [Rural representation and participation rose 15.8 points over 2014-2023 to 74.2 of 100, 16th of 54 African states, among both Mauritania's best-scoring and most improved measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023), and [rural economy support rose 12.6 points to 66.6 and rural land and water access 7.7 points to 63.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023). [The rural economy sub-category nonetheless fell 4.9 points to 55.9 of 100, 32nd of 54, the one part of the country's governance record pulling against its overall improvement](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023), and [market access is the sole cause of that decline](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), now among the weakest measures in the country's profile.
 
 ## Technology
 
 ### AI
+<!-- tech.ai -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National AI Strategy 2025-2029 | [Implemented](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) | Recorded by a reference guide; the text is not held |
+Mauritania has a national artificial-intelligence strategy, [published by the digital transformation ministry in July 2024](https://mtnima.gov.mr/wp-content/uploads/2024/07/strategie-AR-Final-26-07-2024-.pdf), which sets AI alongside broadband, cybersecurity, data centres and cloud services, data protection, digital identification, digital payments, digital signatures and e-commerce rather than treating it as a separate programme.
+
+Commercial interest so far comes from the mobile market: the operator that [launched the country's first 5G network in August 2026](https://lequotidien.mr/?p=39791) presented it as groundwork for AI, cloud computing and connected-device services in sectors from health and education to mining and finance.
 
 ### ICT Industry
+<!-- tech.industry -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Mobile operator market | [Implemented](https://techafricanews.com/2026/04/15/mauritania-advances-5g-rollout-as-regulator-names-provisional-winners-for-national-licences/) | A fourth operator entered at the 5G award |
+Mauritania's rules for business and competition are among the weakest in Africa and have not moved: [34.4 of 100, and 48th of 54 states, in the 2024 Ibrahim Index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023), a score essentially flat across the decade, inside a wider business and labour environment that lost 2.2 points over the same period to reach 40.3 (2023).
+
+The domestic technology industry working inside those rules is [small and thinly financed](https://african.business/2026/02/innov-africa-deals/mauritanias-startup-ecosystem-promise-at-the-periphery) (2026). The [Startup Act bill presented in September 2023](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) offered the sector customs and VAT relief on imported equipment and a subsidy towards the cost of protecting intellectual property.
+
+Physical distribution is a hard constraint on any of it: [transport, shipping and postal networks](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) sit among Mauritania's worst-scoring measures in the same index and lost ground over the decade to 2023.
+
+Larger technology supply is substantially foreign. The operator behind the newest mobile network is [Sudanese-controlled](https://lequotidien.mr/?p=39791) and has [set out an investment plan for 2027–2030](https://lequotidien.mr/?p=39791) covering network expansion, fibre and national data centres, while Nouakchott's urban security and monitoring system was [funded by a Chinese government grant in 2021](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm) and contracted to a Chinese builder.
 
 ### Innovation ecosystem
+<!-- tech.innovate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| IBTIKAR technology park | ***Not held*** | — |
+Mauritania's innovation economy is small and grant-dependent: [no venture capital fund is headquartered in the country, angel activity is minimal, and start-up financing comes largely as donor and government grants](https://african.business/2026/02/innov-africa-deals/mauritanias-startup-ecosystem-promise-at-the-periphery) (2026). The country placed [126th on WIPO's Global Innovation Index in 2024](https://www.wipo.int/edocs/gii-ranking/2024/mr.pdf), in the bottom quartile.
 
-<!-- narrative: technology -->
-The AI position is a strategy nobody outside a foreign commercial guide has seen. The [National AI Strategy 2025–2029](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) is recorded as existing; its scope, commitments, budget and implementing body are all unestablished, and no institution is named as owning it.
+The policy answer is the Startup Act, [promulgated in January 2024](https://mtnima.gov.mr/fr/loi-de-startup/). As [presented in September 2023](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) and framed within the Agenda Digital 2022–2025, the bill was built around a merit-based start-up label carrying benefits for five years, awarded by a labelling committee with a national body to run the scheme. Labelled firms were to get a three-year exemption from the patente business tax and partial corporate-tax relief across the label period, relief on employer and employee social contributions, a preferential margin in public procurement, international market-access programmes and a right of access to open data, with tax relief for the support structures around them and a technology-innovation hub. The [finance side of the bill](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) added investor tax relief, foreign-currency accounts and a state-backed start-up fund alongside a guarantee fund. The ministry attached [targets](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) of a few hundred labelled firms and several thousand jobs over the five years, and a markedly better Global Innovation Index placing by 2028.
 
-The market changed shape in April 2026, when a [fourth operator was licensed](https://techafricanews.com/2026/04/15/mauritania-advances-5g-rollout-as-regulator-names-provisional-winners-for-national-licences/) alongside the three incumbents. The two external technology relationships on the record run in different directions: [Oman](https://lequotidien.mr/?p=39490), where a cooperation agreement and memoranda signed in July 2026 cover capacity-building, cybersecurity, artificial intelligence and data analytics with no value disclosed by either side; and China, whose [grant of MUR 629.4m for an urban security system](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm) has no delivery, siting or oversight arrangement on record.
-<!-- /narrative -->
+The support structures that exist are few and concentrated in Nouakchott. [Hadina RIMTIC, an incubator founded in 2014, had incubated five start-ups and pre-incubated 26 more](https://www.wearetech.africa/en/fils-uk/tech-stars/hadina-rimtic-the-first-incubator-focused-on-tech-entrepreneurship-in-mauritania) (2023) and runs recurring programmes including the MauriAppChallenge, with InnovRim/SahelFabLab operating as a second fab lab and incubator.
 
 ## Capacity
 
 ### Literacy
+<!-- capacity.literacy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National digital literacy measurement | ***Not held*** | — |
+Education is the second worst-ranked of Mauritania's governance dimensions in the [2024 Ibrahim Index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), scoring 34.5 of 100 for 2023 and placing the country 48th of 54 African states — and that is after a 5.9-point gain across the decade to 2023.
+
+The decade's movement sits unevenly under that headline. [Equality in education rose 11.2 points to 41.5 and completion 9.8 points to 36.4](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), so the system has become fairer and better at holding on to the pupils it enrols. Enrolment itself barely moved, at 31.5 and 38th of 54, up a tenth of a point over ten years, and quality reached only 28.3, 40th of 54 and up 2.1 points (2023). The gains are in distribution and retention; the two measures that set the ceiling on adult literacy have stayed where they were.
+
+Enrolment, attendance and transition statistics are compiled through the national education management information system, but in rural primary schools [pupil and attendance records are kept on paper](https://ami.mr/fr/archives/269802) and reach the platform only when regional inspectors collect them on periodic field visits and enter them at district or regional level (2025). The numbers that describe the weakest part of the system are therefore the ones assembled furthest from it.
 
 ### Training and skills
+<!-- capacity.training -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Summer school on language models for low-resource African languages | [Implemented](https://www.ami.mr/archives/267189) | First edition opened 2026-08-25 |
-| Youth digital employability programme | [Implemented](https://www.ami.mr/archives/264918) | Launched for 2,150 beneficiaries across six cities, 23 July 2026 |
+Mauritania's own government has put the binding constraint on people rather than equipment: the national [IPv6 transition strategy](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf) weights its costing towards human resources, on the stated ground that most installed kit already supports the protocol. That is an unusually direct admission for a technical migration plan, and it points at the same shortage every other digital programme in the country runs into.
+
+Tertiary provision in ICT and STEM is concentrated in a small number of institutions — the public university's science and engineering faculties, a polytechnic school and a dedicated digital institute, [alongside a handful of private providers](https://mesrs.gov.mr/fr/etablissements) (2024). Outside the formal system the pipeline narrows further, to a few incubators and fab labs: [Hadina RIMTIC](https://www.wearetech.africa/en/fils-uk/tech-stars/hadina-rimtic-the-first-incubator-focused-on-tech-entrepreneurship-in-mauritania), a Nouakchott incubator founded in 2014 that runs recurring programmes including the MauriAppChallenge, and InnovRim/SahelFabLab as a second (2023).
+
+Public-sector skills work has been narrow and mostly tied to particular systems. [Training in April 2025](https://ami.mr/fr/archives/270002) was aimed at equipping regional education staff to operate the SIRAGE platform and to run the school-visit missions that feed it, rather than at putting recording tools into schools. On the labour-market side, the [Mourchid portal](https://www.ecofinagency.com/news-services/3006-56949-mauritania-unveils-platform-to-improve-access-to-youth-jobs-training-and-support), launched in June 2026, draws public employment, vocational-training and entrepreneurship programmes into a single place, working as a guide to what exists rather than joining up the services behind it.
 
 ### Research institutions
+<!-- capacity.research -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National digital or data research programme | [Implemented, period expired](https://prs-mesrs.gov.mr/calcul-scientifique-informatique-et-data-sciences-2/) | CNESRS-accredited under arrêté 183 (17 February 2022) for May 2021 to May 2024; no renewal is on record |
-
-<!-- narrative: capacity -->
-Research capacity is accredited and lapsed: a [national digital and data research programme accredited under a 2022 order](https://prs-mesrs.gov.mr/calcul-scientifique-informatique-et-data-sciences-2/) ran from May 2021 to May 2024, and no renewal is on file. An accreditation that expires without a successor is a finding about the record as much as about the programme.
-<!-- /narrative -->
+Mauritania had no public research institution or national research programme working on digital, data or statistical questions as at September 2026.
 
 ## Inclusion
 
-_The base holds no inclusion rows for Mauritania. A thin evidence base is a finding, not a gap in this document._
+### Access to services
+<!-- include.access -->
+[Inclusion and equality scored 25.2 of 100 in the 2024 Ibrahim Index, 48th of 54 African states in 2023 despite a 7.0-point gain over the decade, with equal access to public services at 28.8 — 40th, and up just 1.3 points — and equal socioeconomic opportunity at 18.9, 49th, both among the country's ten worst-scoring measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). The gain has come almost entirely from somewhere other than who can reach a public service.
 
-<!-- narrative: inclusion -->
-Training is one programme. [France's Fonds Équipe France](https://www.ami.mr/archives/264918) finances a 2,150-place digital-employability project across six cities, implemented by Simplon, succeeding a programme closed in 2025. Nothing measures digital literacy nationally. The [Calcul Scientifique, Informatique et Data Sciences unit](https://prs-mesrs.gov.mr/calcul-scientifique-informatique-et-data-sciences-2/) at the Université de Nouakchott, CNESRS-accredited May 2021–May 2024 with no renewal published, ran 16 doctoral candidates and defended three theses in 2022.
+The fund meant to close that gap is itself being rebuilt. [Mauritania's Council of Ministers moved in July 2026 to replace the 2020 decree governing the Fonds d'accès universel aux services](https://lequotidien.mr/?p=39470), and [its stated grounds were that six years of application had exposed shortcomings in how the fund's object is defined, in how its resources are mobilised, distributed and allocated, and in the absence of a clear framework for folding it into the state's budgetary and accounting system](https://lequotidien.mr/?p=39470). [The communiqué did not set out what the replacement provides](https://lequotidien.mr/?p=39470), so the instrument meant to extend service to unserved communities is being rebuilt to terms nobody outside government has seen.
 
-Access is measured by reference studies, cited and not absorbed here. [DataReportal](https://datareportal.com/reports/digital-2025-mauritania) put internet penetration at 37.4% in March 2025; the ITU figures carried in the satellite-licence reporting [put internet use at 45.8% in 2024, 3G coverage at 78% and 4G at 73%, and a 5 GB mobile plan at 2.94% of GNI per capita against a 2% international benchmark](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite).
-<!-- /narrative -->
+Individual services are nonetheless being put online. [Water utility transactions moved onto the « Mes Services » portal from 4 August 2026](https://ami.mr/fr/archives/300346), and [a consular platform opened for Mauritanians in Saudi Arabia, Bahrain and the Maldives](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/). Documentation rules are not the binding constraint they often are elsewhere: [health insurance enrolment accepts several proofs of identity, with equivalents for migrants and refugees](https://www.procedures.gov.mr/fr/procedure/1292). Money is. [Refugees reach financial services only partly, through work such as that with the Djikké cooperative serving urban caseloads, with digitisation and mobile money for them at an early stage](https://www.afi-global.org/wp-content/uploads/2024/10/AFI_FDPs_CS_MAURITANIA_FINAL.pdf), and [the national payments switch was judged ill-suited to serving people of modest means](https://www.afi-global.org/wp-content/uploads/2024/10/AFI_FDPs_CS_MAURITANIA_FINAL.pdf).
+
+### Digital divides
+<!-- include.divides -->
+
+[About 55% of Mauritania's population did not use the internet in 2024](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite), which puts most of the country outside the services being designed for it. Price explains part of that. [A 5 GB mobile data plan cost 2.94% of GNI per capita in 2025](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite), against the 2% international affordability benchmark, even though [an entry-level 1 GB basket sits within that threshold and a fixed connection costs many times more](https://pulse.internetsociety.org/en/reports/mr/). Affordability holds only at the smallest package a household can buy; it fails the moment use rises to anything a family or a small business would need, and it fails entirely for a fixed line.
+
+The decade's gains have been in voice and coverage rather than in what people can do online. [Mobile communications is among the country's ten most improved measures in the 2024 Ibrahim Index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), while [access to internet and computers moved far less over the same years](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). The pattern in schooling runs the same way: [equality in education and completion both improved over the decade while enrolment stayed flat and quality barely moved](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), so the pool of people equipped to use a connection has grown more slowly than the network reaching them.
+
+The sharpest divide is geographic. [Electricity access is overwhelmingly urban](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=MR), and [rural Mauritania carries comparatively limited connectivity and public-service infrastructure](https://www.undp.org/blog/mauritania-pilots-digital-id-app) — a household without power is not a household a mobile network can serve, whatever the coverage map says.
 
 ## Data
 
 ### National statistics
+<!-- data.statistics -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Fifth general population and housing census | [Implemented](https://www.ami.mr/archives/265803) | Final regional results presented from 3 August 2026 |
-| National Youth Empowerment Index | [Implemented](https://lequotidien.mr/?p=39456&lang=fr) | Reference document presented at a Nouakchott workshop, 29 July 2026 |
+The capacity of Mauritania's statistical system rose 11.6 points over the decade to 2023, reaching [55.7 of 100 in the 2024 Ibrahim Index and 20th place of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) — one of the country's larger administrative gains of the period.
+
+The improvement is unevenly spread. Across the five pillars of the [World Bank's Statistical Performance Indicators](https://www.worldbank.org/en/programs/statistical-performance-indicators), Mauritania scored above 89 per cent on the use of data but only 20 to 49 per cent on data sources in 2023, with data services and infrastructure in the 50 to 69 band and data products at 70 to 89. It is the collection of source material, not its processing or its use, that constrains the system.
+
+That shows in the collection calendar. A population census has been held within the last ten years, but [neither an agricultural census nor an economic or business census in the last twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators). The survey programme leans the same way: [three or more health surveys, two household surveys, two labour surveys and one agricultural survey in the decade to 2023, and no business or establishment survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators). The productive economy is the part of the country least often measured.
+
+Gaps of that kind carry into the comparative record. The [2024 Ibrahim Index has no data for Mauritania on 15 of its 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), among them human resources in education and every one of the index's public perception measures, so the country is scored on a smaller instrument than its neighbours are.
+
+Two external pressures bear on what the statistics agency can produce. [An Agence Française de Développement grant channelled through UN Women](https://www.iatistandard.org/activities/FR-3-CZZ3692) is modernising the data systems of the national statistics institutes of Mauritania, Senegal and Chad to improve gender-disaggregated data (2024). At the other end of the pipeline, rural health posts [keep handwritten registers, with paper summaries sent up to district centres for entry into DHIS2](https://documents1.worldbank.org/curated/en/099121523194016438/pdf/P1598650398a4706d09a340d1a66200239a.pdf) (2025), so primary-care statistics are digitised above the point of care rather than at it.
 
 ### Open data
+<!-- data.open -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National open data portal | [Implemented, thin](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) | National open-data strategy published, June 2023, naming the existing portal and proposing a governance overhaul |
+Mauritania published [24 open datasets from four providers as at June 2023, against Tunisia's 2,346 datasets from 161 providers](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf), and the government's own open-data strategy, which benchmarks the country against Morocco, Senegal and Tunisia, [places Mauritania last on every measure it publishes](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf).
 
-<!-- narrative: data -->
-Open data rests on a strategy rather than a service: the [national open-data strategy published in June 2023](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) names the existing portal and proposes a governance overhaul of it. No dataset count, update cycle or completed overhaul is held.
-<!-- /narrative -->
+Publication runs through [mauritania.opendataforafrica.org, the channel operated by the statistics agency ANSADE](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf). The strategy rests on [three axes: an interoperability framework among government entities, open-data governance aligned with Open Government Partnership principles, and use of open data for innovation](https://dig.watch/resource/the-national-strategy-for-open-and-interoperable-data-of-mauritania) — while [Mauritania is not an OGP member, where all three of its chosen comparators are](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023). Its stated ambition then was [to publish more through the existing ANSADE portal rather than to build a replacement](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf); by January 2026 a [dedicated national portal at data.gov.mr was in development under the World Bank's WARDIP programme, with delivery expected in early 2026](https://mtnima.gov.mr/wp-content/uploads/2026/01/PAA_WARDIP_02.01.2026.pdf).
+
+Openness varies sharply by domain. In the 2024 Open Data Inventory, [balance of payments scores 7.5 out of ten and money and banking 5.5, while government finance, labour and prices sit at 4 and national accounts and international trade at 3](https://odin.opendatawatch.com/data). Among social statistics, [population and vital statistics lead at 5.5 and poverty and reproductive health at 4.5, with gender statistics at 2.5 and crime and justice at 2 the weakest categories in the assessment](https://odin.opendatawatch.com/data). [Environmental statistics run between 3 and 4.5, energy strongest and agriculture and pollution weakest](https://odin.opendatawatch.com/data). The pattern is that what a central bank or a demographic survey produces gets published, and what a line ministry holds does not.
+
+The 2024 Ibrahim Index separates what citizens can reach from what the state chooses to release. [Accessibility of public records scores 24.7 of 100 and ranks 34th of 54 African states, the fastest-improving of the country's transparency measures with an 11.9-point gain over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), while [disclosure of public records is among Mauritania's ten worst measures at 10.1 of 100 and 50th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023). The digital ministry's own page on the Startup Act shows the habit at close range: it [names and dates the law but carries no text of the instrument](https://mtnima.gov.mr/fr/loi-de-startup/).
+
+### Use of satellite data
+<!-- data.satellite -->
+
+Mauritania's telecoms regulator ARE [selected three companies to provide satellite telecommunications services in the country](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite) in July 2026.
 
 ## Geopolitics
 
-### China activities
+### US / hyperscaler activities
+<!-- geopol.usa -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Urban security system | [Implemented](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm) | Chinese government grant of MUR 629.4m through ETCA |
+Neither the United States government nor any global cloud provider had an established presence in Mauritania's digital sector as at September 2026.
+
+### China activities
+<!-- geopol.china -->
+
+China's one substantial intervention in Mauritania's digital estate builds surveillance capacity for the police: a 2021 grant agreement worth [MRU 629.4 million, about US$15 million at the time](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm), drawn from an Economic and Technical Cooperation Agreement, funding an Urban Security and Monitoring System for the General Directorate of National Security in Nouakchott. The design runs to 316 surveillance cameras extensible to 1,000 observation points, a two-storey unified command centre, three regional security service buildings and 34 police observation posts — a state-security build, not a service-delivery one, and separate in kind from the connectivity and public-administration work European lenders have paid for.
+
+<!-- derived -->
+Chinese public money accounts for one of the eleven external financing commitments on the record for Mauritania's digital estate, against three apiece from the World Bank and the European Investment Bank. On count of commitments, China is a minor financier of the sector and a singular one in what it has chosen to fund.
+
+### EU activities
+<!-- geopol.eu -->
+
+Europe has paid for Mauritania's physical layer, and the clearest instance is the [national data centre in Nouakchott, inaugurated in May 2025 on a EUR 15 million European Investment Bank loan](https://www.eib.org/en/press/all/2025-202-inauguration-du-centre-d-hebergement-de-donnees-numeriques-de-nouakchott), certified Tier III by the Uptime Institute and operated by International Mauritanian Telecommunications. Undersea the pattern is the same: the EIB [signed a EUR 25 million loan in December 2020](https://www.eib.org/en/projects/all/20190635) for the country's first direct high-speed fibre link to Europe and West Africa, running to 2025; the [EllaLink connection was launched at Nouadhibou in 2025](https://ami.mr/fr/archives/276234); and Mauritania is a landing country on the [MEDUSA system connecting Portugal to North and West Africa](https://www.eib.org/en/projects/all/20210166), backed by an EIB loan and a European Union investment grant.
+
+Bilateral European programmes cover the softer side. Germany's BMZ is funding a [EUR 4 million digital transformation programme, DIGITAL-Y, running 2024 to 2027](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394), aimed jointly at the state and the digital sector and framed around a young, largely unemployed population with limited access to public services in health and education; German cooperation also sat behind the [national workshop held in March 2025 to set unified standards for digital public services](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services) and improve interoperability between government systems. France's development agency has put a [EUR 2.5 million grant, channelled through UN Women as phase 2 of the Women Count programme](https://www.iatistandard.org/activities/FR-3-CZZ3692), into modernising the data systems of the national statistics institutes of Mauritania, Senegal and Chad (2024) to improve the production and use of gender-disaggregated data.
+
+<!-- derived -->
+The European Investment Bank is, with the World Bank, one of the two most frequent financiers of Mauritania's digital estate, three commitments each of the eleven on record, and all three of the EIB's are submarine-cable connectivity. Add the single commitments from Germany's development ministry and the French development agency and European institutions account for five of the eleven — the largest bloc, and the one that has shaped what the country's international bandwidth and hosting look like.
 
 ### Gulf/UAE activities
+<!-- geopol.gulf -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Oman digital cooperation agreement | [Implemented](https://lequotidien.mr/?p=39490) | Cooperation agreement and memoranda signed at the close of the Nouakchott forum |
+Mauritania and the Islamic Development Bank [signed an agreement in principle in April 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal) on a digital transformation financing package covering digital infrastructure and equipment, cybersecurity, interoperability and system modernisation, and digital skills, connectivity and innovation.
 
-<!-- narrative: geopolitics -->
-The external digital relationship on record is with Oman: a [cooperation agreement and memoranda signed at the close of a Nouakchott forum](https://lequotidien.mr/?p=39490). Nothing on file records work done under them.
-<!-- /narrative -->
+### India activities
+<!-- geopol.india -->
 
-## Gaps to fill
-
-| System or instrument | What would settle it | Last probed |
-|---|---|---|
-| Power supply to network sites and the data centre | An operator, utility or regulator statement quantifying outage exposure or backup provision for telecommunications sites and the Nouakchott Tier III data centre now hosting the national cloud. | 2026-08-10 |
-| Municipal or regional digital services | A named wilaya or commune digital service, one-stop desk or local e-government platform, with a location and a start date. Ijraati and Mes Services are national portals. | 2026-08-10 |
-| IBTIKAR technology park | Any dated statement of whether the IBTIKAR technology park, named in the 2023 digital agenda, was built, is operating, or holds tenants. | 2026-08-10 |
-| National digital literacy measurement | A national survey or ministry statement measuring digital skills or literacy in Mauritania, as distinct from the vocational-training place counts. | 2026-08-10 |
-
-<!-- narrative: gaps -->
-One of the four is a document search that found something else: a 2017 FASEP-financed feasibility study for a different Mauritanian technopole, which predates and does not name IBTIKAR, the park cited in the 2023 digital agenda; no dated status for IBTIKAR itself has been located.
-
-The rest are ordinary absences: no municipal or regional digital service against two national portals, nothing measures digital literacy nationally, and power to network sites and the national data centre hosting the national cloud is not published.
-<!-- /narrative -->
+India had no established role in Mauritania's digital sector as at September 2026.
