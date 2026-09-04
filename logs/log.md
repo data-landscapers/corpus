@@ -41,6 +41,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-04 13:23 · status-init · 20m · MDG: 37 sub-sections, 197 sources, 25 acquire lines, A-I pass — ok. 29 extraction agents, 628 facts, 619 pooled. G passed first time; three undated figures fixed. Note 120 raised: the wiki's 4G comparison contradicts its own figures.
 2026-09-04 12:44 · status-init · 27m · BDI: 37 sub-sections, 219 sources, 44 acquire lines, A-I pass — ok. First of the fourteen the campaign never reached. 32 extraction agents over two waves, 578 facts, 557 pooled; check G fixed, one real apparatus hit cut.
 2026-09-04 11:22 · render · 8m · 251 report docs, catalogue 16808 over 4697 shards, finance 1371 deals, 38 topic pages, bulletin 43 items; link lint clean over 422 pages; deployed - ok
 2026-09-04 11:14 · build · 59m · catalogue 16808, 1041 sources considered across 36 units, 47 Not held rows settled, 68 rows minted, 111 indicators mapped; mirror moved mid-run so stage 2 re-run; topics 76, bulletin 43 - ok
