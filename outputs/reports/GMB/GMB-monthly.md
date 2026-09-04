@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: GMB
-ledger_rows: 17
-not_held: 13
-record: 6027afbc82e0
+ledger_rows: 23
+not_held: 4
+record: 7fb453019166
 ---
 
 # Gambia: monthly update, August – September 2026
@@ -45,6 +45,11 @@ The body that carries both of the country's information statutes surfaced in the
 The revenue authority [hosted the seventh ATAF Heads of Tax Administrations Master Class in Banjul on 23-24 July 2026](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1). The Forum's executive secretary argued from Rwanda, Kenya and Morocco that digital systems deliver only alongside governance reform — "technology alone collects nothing" — and [pressed for a united African position at the United Nations](https://foroyaa.net/african-tax-officials-meet-in-gambia-to-strengthen-revenue-mobilisation/).
 
 The bilateral channel that bears on connectivity moved from signature to work. The June 2026 telecommunications and digital-economy memorandum with Senegal [went into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with the Senegalese telecommunications and digital minister travelling to Banjul to agree the first joint work, the two regulators having separately deepened cooperation on frequency coordination, service quality and cross-border roaming](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites). The structural case for it is the country's own: a limited terrestrial fibre build and dependence on a single submarine cable for international access, with only limited terrestrial redundancy through Senegal. No work programme, budget or timetable is published. That work took its first steering-committee session at [Banjul on 29 August 2026](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/), where the four priorities were settled as infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation, with rural electronic-government access named among them. No timetable, budget or named deliverable is attached to any of the four.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The standards bureau's position was restated from both ends this month. Its director general put adoptions at [around 500 standards, alongside membership of the African standards organisation](https://thepoint.gm/africa/gambia/headlines/iso-secretary-general-visits-gambia-to-deepen-partnership), while the international body's own profile records the bureau as a [Correspondent member without a vote at the standards and electrotechnical organisations, and the country's technical-barriers enquiry point](https://www.iso.org/member/576505.html). A correspondent member may adopt standards; it does not help make them.
 <!-- /narrative -->
 
 ## Finance
@@ -89,10 +94,36 @@ The trade ministry said on [4 August 2026 that a Digital Single Window Business 
 The electoral commission's digitalisation produced its first published contest figure. At a stakeholders' forum on 7 August the chief electoral officer disclosed [1,600 objections filed against the 2026 supplementary voter roll](https://thepoint.gm/africa/gambia/headlines/iec-received-1600-objections-in-voter-registration-njie), on eligibility and residency, now before Revising Court Magistrates ahead of the provisional register being merged with the 2021 Voter Register. No denominator of supplementary registrations, no outcome of the hearings and no merged register total is held.
 <!-- /narrative -->
 
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the base holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
+<!-- /narrative -->
+
 ## Data
 
 ### Open data
 
 <!-- narrative: data--data-open -->
 One measured position moved into the record. The Gambia [ranked third in sub-Saharan Africa on budget transparency in the 2025 open budget survey](https://foroyaa.net/gambia-ranks-third-in-sub-saharan-africa-on-budget-transparency/). Budget transparency and open data are different things: the survey measures what a government publishes about its own spending, and the record held still carries no dataset count or portal for The Gambia.
+<!-- /narrative -->
+
+## Geopolitics
+
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+Chinese engagement remained visible as training rather than infrastructure. The embassy [announced twenty-five further Gambians travelling to China in September under ministry grants, with a vocational workshop and a laboratory planned](https://standard.gm/chinese-embassy-stages-welcome-for-returning-gambian-graduates/). The broadband and fifth-generation work the ambassador [named in 2023](https://gm.china-embassy.gov.cn/eng/sgxw/202310/t20231018_11163300.htm) still carries no contract, value or date.
+<!-- /narrative -->
+### EU activities
+
+<!-- narrative: geopolitics--geopol-eu -->
+The Commission's country page sets the frame at [EUR 193m of grants for 2021-2027, with digitalisation named as one clause under jobs and growth](https://international-partnerships.ec.europa.eu/countries/gambia_en), so the digital share remains unstated. The delivered items are smaller and dated: a [EUR 493,346 platform tracking 237 national development plan indicators](https://www.eeas.europa.eu/delegations/gambia/european-union-supports-digital-tracking-system-boost-transparency-gambia_en) and the [fingerprint identification system launched in May](https://www.eeas.europa.eu/delegations/gambia/gambia-launches-automated-fingerprint-identification-system-afis-strengthen-criminal-investigations_en).
+<!-- /narrative -->
+### Gulf/UAE activities
+
+<!-- narrative: geopolitics--geopol-gulf -->
+Gulf involvement is now on the record in two forms, neither carrying a figure. The Islamic Development Bank's own sector page records it [financing the regional fibre backbone reaching The Gambia alongside two other lenders, with no date or sum given](https://www.isdb.org/sectors/ict), and a Bahraini firm's [January memorandum with the regulator offers a free critical-infrastructure security tier with no value or duration stated](https://pura.gm/press-release-ctm360-partners-with-pura-to-strengthen-the-gambias-national-cybersecurity-resilience/).
 <!-- /narrative -->
