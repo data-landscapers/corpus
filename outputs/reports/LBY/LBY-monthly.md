@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: LBY
-ledger_rows: 27
-not_held: 7
-record: cb142522002c
+ledger_rows: 36
+not_held: 2
+record: 5b13744dc4c1
 ---
 
 # Libya: monthly update, August – September 2026
@@ -53,6 +53,21 @@ LPTIC [met Nokia's regional director on 15 July](https://alwasat.ly/news/libya/5
 
 On 7 August LTT and ARABSAT [announced a Strategic Partnership Agreement](https://techafricanews.com/2026/08/07/arabsat-and-ltt-sign-strategic-partnership-to-strengthen-libyas-digital-infrastructure/) under which ARABSAT will supply High Throughput Satellite capacity on Arabsat-6A at 30.5 degrees east for LTT's existing and future requirements. ARABSAT's chief executive described the agreement as reflecting the institutional relationship with the Libyan International Telecommunications Company, one of ARABSAT's principal shareholders. No contract value, duration, throughput, coverage or service date was published.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+A first independent assessment of a Libyan facility reached the record: a [tier III design certification for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=), with no capacity figures disclosed. It certifies design rather than construction, and it arrives while the sector is still unlicensed — the regulator [floated a first data centre and cloud licensing framework in February, at which point storage firms were operating unpermitted](https://lana.gov.ly/post.php?id=351103&lang=ar).
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The utility [fired the first of four units at a new South Tripoli plant on 28 August, toward 1,320 MW of added capacity](https://ar.libyaobserver.ly/article/38496). It follows a [failure in July that lost 1,350 MW and darkened most of the country](https://alwasat.ly/news/libya/525055), blamed on a tripped 400kV line. The standing policy for Libyan data centres asks for [99.9 per cent power uptime and twenty-four hours of fuel](https://nissa.gov.ly/main-services/physical-security-policy/).
+<!-- /narrative -->
+### Technical Capacity
+
+<!-- narrative: ict-infrastructure--infra-capacity -->
+The regulator's move to license data centres and cloud services is still at workshop stage, [with storage firms operating unpermitted when it was floated in February](https://lana.gov.ly/post.php?id=351103&lang=ar). What arrived instead is a private certification: [tier III design status for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=). Certification by a foreign body is standing in for a domestic licence that does not yet exist.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -98,6 +113,14 @@ On 23 July the Ministry of Labour and Rehabilitation [reported the Libya Experts
 On 30 July the Libyan Export Development Authority reported [LD 79.5 million of exports processed through the electronic Unified Export Window between April and July 2026](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/): 354 registered companies, 190 distinct products, more than 20 destinations, and 129 orders to Tunisia — 66% of the total, against 28 to Turkey and eight to South Korea.
 
 On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. As with the expert register and the export window, no supplier, cost, hosting arrangement or data-protection basis is stated.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+The renewable energy authority's off-grid programme is now on the record at [400 solar systems, 310 kW peak, for remote clusters and border posts](https://reaol.ly/index.php/portfolio/pro1/). It is power rather than connectivity, and it is the largest counted state provision outside the cities the base holds; the other reaches beyond the capital this year are [15 sentinel disease surveillance sites](https://ncdc.org.ly/Ar/29_9_2025-2/) and a [police station records system launched in Tripoli](https://lana.gov.ly/post.php?id=347992&lang=ar).
 <!-- /narrative -->
 
 ## Capacity
