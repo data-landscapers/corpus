@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: LBR
-ledger_rows: 26
-not_held: 9
-record: 28f19459b579
+ledger_rows: 28
+not_held: 6
+record: 090b29ef4c1d
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -17,7 +17,7 @@ record: 28f19459b579
 <!-- narrative: summary -->
 Two laws were signed on one day. The President [signed the Cybercrime Act and the Personal Information Act into force on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), closing a gap this ledger has carried for months, and the telecoms regulator [set licensing, tax and service rules for the satellite market](https://www.wearetech.africa/fr/fils/actualites/telecom/licences-taxes-services--le-liberia-definit-les-regles-du-marche-des-telecoms-par-satellite).
 
-Against that the state auditor supplied the month's hardest finding: a [digital lending platform paid for in full was still undelivered at field verification, a year after its contractual go-live](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). Elsewhere the biometric identity programme's [draft concession agreement went to Parliament after consultations concluded](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd), the regulator [rolled out automated telecom licensing and renewal](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), and the country's first legal artificial intelligence [was launched over Supreme Court opinions from 1861](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/).
+Against that the state auditor supplied the month's hardest finding: a [digital lending platform paid for in full was still undelivered at field verification, a year after its contractual go-live](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). Elsewhere the biometric identity programme's [draft concession agreement went to Parliament after consultations concluded](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd), the regulator [put automated telecom licensing and renewal into service](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), and the country's first legal artificial intelligence [was launched over Supreme Court opinions from 1861](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/).
 <!-- /narrative -->
 
 ## Governance
