@@ -1,15 +1,15 @@
 ---
 title: Gabon — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-09-04
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 127
+sources_cited: 130
 sections_written: 37
-not_established: 2
-acquire_lines: 38
+not_established: 0
+acquire_lines: 35
 ---
 ## Governance
 
@@ -353,9 +353,9 @@ On the land side, the Ministry of Housing [has engaged the French firm IGN FI to
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
 
-No Gulf party had a role in Gabon's digital infrastructure, platforms, financing or skills programmes as at August 2026.
+The Gulf relationship runs through one firm. The Presidency [records three memoranda signed in Abu Dhabi in February 2026 - mining, digital, and ports and logistics - of which the digital one renews an existing memorandum with Presight, a G42 subsidiary, to support digital transformation of the public administration and strategic State services using artificial intelligence, advanced analytics and big data](https://presidence.ga/2026/02/06/abu-dhabi-cooperation-strategique-trois-memorandums-dentente-signes-par-le-gabon/), framed by the minister as consolidating Gabon's digital sovereignty. No amount, term, deliverable or system name is stated, and no Gulf investment or data-centre commitment naming Gabon is on the record.
 
 ### India activities
 <!-- geopol.india -->
 
-No Indian party had a role in Gabon's digital infrastructure, platforms, financing or skills programmes as at August 2026.
+India is positioning rather than present. [It has proposed a multiannual capacity-building convention whose stated focus is digitalisation of the public administration, alongside scholarships](https://agpgabon.ga/gabon-fonction-publique-linde-se-positionne-pour-accompagner-la-modernisation-de-ladministration-publique/) (April 2026), and its own [country brief records memoranda on holding a Joint Commission Meeting and on foreign-service training cooperation, an investment memorandum between the two business chambers, a 2007 housing line of credit and ITEC and ICCR training places](https://www.mea.gov.in/Portal/ForeignRelation/India-Gabon26new.pdf) (April 2026). Nothing digital is signed, and no Indian supplier contract or line of credit touching the digital estate is on the record.
