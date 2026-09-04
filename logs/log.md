@@ -41,6 +41,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-04 16:43 · status-init · 18m · NER: 37 sub-sections, 114 sources, 33 acquire lines, A-I pass — ok
 2026-09-04 16:24 · status-init · 25m · GNQ: 37 sub-sections, 184 sources, 23 acquire lines, A-I pass — ok
 2026-09-04 15:58 · status-init · 17m · LSO: 37 sub-sections, 164 sources, 31 acquire lines, A-I pass — ok
 2026-09-04 15:40 · status-init · 28m · COM: 37 sub-sections, 148 sources, 24 acquire lines, A-I pass — ok
