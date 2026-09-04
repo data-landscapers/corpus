@@ -326,8 +326,19 @@ def sections(text):
 
 
 def links(text):
-    """Every URL carried by a markdown inline link."""
-    return set(re.findall(r"\]\((https?://[^)\s]+)\)", text))
+    """Every URL carried by a markdown inline link, in either CommonMark destination form.
+
+    The bare form cannot carry a space, so a held URL that contains one — some publishers'
+    document stores emit them — is citable only in the angle-bracket form `](<...>)`. Matching
+    the bare form alone left such a citation on the page and outside every check that reads this:
+    not a failed check A but an *unchecked* one, which is the state check A exists to make
+    impossible, and check B passed on it because the paragraph did carry a link. Percent-encoding
+    is not the way out either: the catalogue holds the unencoded URL, so an encoded citation reads
+    as a URL the base does not hold. (2026-09-04, the COM run, where two writers independently hit
+    the same Comorian decree and both reported the gap rather than quietly dropping the source.)
+    """
+    return (set(re.findall(r"\]\((https?://[^)\s]+)\)", text))
+            | set(re.findall(r"\]\(<(https?://[^>]+)>\)", text)))
 
 
 def is_baseline(path):
