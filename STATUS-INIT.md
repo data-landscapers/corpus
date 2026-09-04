@@ -68,7 +68,7 @@ The stamp is per country — stage 3's log call consumes it. `status-scope.py` d
 
 ### Stage 1 — extract, one subagent per source of evidence
 
-Launched in a single batch. **No extraction agent writes to the output file**: each writes facts to `prep/scope/{ISO3}/facts/{name}.json` and returns only a count. Each is given `documentation/archived/status-init-extract.md` whole, with the country substituted — a file, not a paraphrase, so twenty agents share one schema.
+Launched as one batch **up to the harness ceiling of 20 concurrent subagents**, then fed in as slots free. A country with 28 intersections needs 32 extraction agents and does not fit; BDI ran in two waves. **The refusal is silent in the sense that matters** — the twelve that hit the cap come back as an error beside nineteen successes, so a run that fires and forgets loses a third of the evidence and assembles anyway from what landed. Count the files in `facts/` against the agent count before pooling; do not take the launch as the check. *(2026-09-04, the BDI run. This said the batch was launched in one go, which the harness has not permitted since the cap was introduced.)* **No extraction agent writes to the output file**: each writes facts to `prep/scope/{ISO3}/facts/{name}.json` and returns only a count. Each is given `documentation/archived/status-init-extract.md` whole, with the country substituted — a file, not a paraphrase, so twenty agents share one schema.
 
 - **One agent per intersection**, reading that one file whole and resolving every slug with `python scripts/status-slugs.py {slug} …` (which reads the catalogue — the same object check A tests against). A slug that resolves to no URL yields no fact. Facts, never prose.
 - **Three agents for the indicator rows**, one per disjoint family group.
@@ -94,7 +94,7 @@ Launched in a single batch. **No extraction agent writes to the output file**: e
 
 **The parent pools, dedupes and slices deterministically** — `python scripts/status-pool.py {ISO3}`, one slice per chapter. Two facts are one fact when they state the same thing about the same object; the survivor is `solid` over `borderline`, then better `tier`, then later `published`, taking the union of the losers' `slugs`. Every surviving fact gets an **owner**: the chapter of the slug its extraction agent listed first. The owning chapter states it in full; every other chapter may refer to it in passing but must not restate the figure — otherwise one coverage number appears four times in four voices. Where a sub-section owns nothing, `status-pool.py` promotes its six best-evidenced shared facts into it. **A promoted fact arrives as `mine: true` and the writer states it in full** — that is the point of promotion; `costated` and `owner_slug` are provenance, not a restriction.
 
-**One agent per chapter, ten in a batch**, each given `documentation/archived/status-init-write.md` and the path to its slice — facts and resolved URLs, never raw wiki text. It cannot cite anything not in its slice, which is what makes no-link-no-claim enforceable.
+**One agent per chapter, ten in a batch** — that fits the ceiling — each given `documentation/archived/status-init-write.md`, the path to its slice, and **its output path, which is `prep/scope/{ISO3}/draft/{nn}-{chapter}.md` and nowhere else**: `status-assemble.py` globs `draft/*.md` and a chapter written anywhere else is invisible to it, so the assemble fails naming all 37 sub-sections as uncarried and the cause is not in the message. Each writer is also given **its sub-sections in outline order, with the `###` label and `<!-- slug -->` comment verbatim** — including any the pool left empty, which the writer still has to emit as a dated *not established* sentence and would otherwise silently drop. Facts and resolved URLs, never raw wiki text. It cannot cite anything not in its slice, which is what makes no-link-no-claim enforceable.
 
 ### Stage 3 — the parent assembles
 
@@ -106,6 +106,8 @@ Launched in a single batch. **No extraction agent writes to the output file**: e
 6. **Log the country and commit it** — one line per country, not per session; the unit of work is the country:
 
     ```bash
+    # log-line refuses anything over 40 words — the line is a skim, and what the run learned
+    # about the machinery goes in the commit message, not here.
     python scripts/log-line.py status-init "{ISO3}: 37 sub-sections, NN sources, NN acquire lines, A-I pass — ok"
     git add -A && git diff --cached --quiet || git commit -m "{ISO3} status baseline: 37 sub-sections, NN sources"
     ```
