@@ -1,15 +1,15 @@
 ---
 title: Guinea-Bissau — digital transformation and data governance status report
-compiled: 2026-08-29
+compiled: 2026-09-04
 place: GNB
-ledger_rows: 39
+ledger_rows: 40
 not_held: 1
-record: 51edf071d246
+record: 9d21353acf37
 ---
 
 # Guinea-Bissau: status report
 
-*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNB/ledger.csv` (39 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-04 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNB/ledger.csv` (40 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -78,6 +78,7 @@ Guinea-Bissau's tracked development finance is concentrated in three instruments
 |---|---|---|
 | .GW country-code top-level domain | [Implemented](https://ang.gw/arn-nic-gw-guine-bissau-passa-a-permitir-registo-de-dominios-gw-com-caracteres-acentuados/) | Internationalised domain names supported from 2026-06-05 |
 | ACE (Africa Coast to Europe) submarine cable landing | [Implemented](https://www.agenceecofin.com/actualites-numerique/2908-131059-deploiement-de-la-fibre-optique-la-guinee-bissau-veut-apprendre-du-tchad) | Guinea-Bissau connects to its first international submarine fibre-optic cable (ACE) |
+| ECOWAS second submarine cable (Cabo Verde, Liberia, Sierra Leone, Guinea-Bissau) | [Planned](https://www.ecowas.int/liberia-hosts-workshop-to-validate-ecowass-second-submarine-cable/) | Feasibility study reviewed and approved at the ECOWAS expert workshop, Monrovia, 22-24 October 2025 |
 | Starlink satellite internet service | [Implemented](https://arn.gw/arn-tic-concede-autorizacao-geral-provisoria-a-starlink-guine-bissau/) | Commercial launch |
 | WARDIP-GB National Fibre-Optic Backbone | [In development](https://ang.gw/guine-bissau-nao-pode-perder-o-comboio-da-modernizacao-tecnologica-diz-presidente-da-republica/) | EIASS environmental and social safeguards study published, moving toward implementation |
 | RNEP-GB / WARDIP-GB Final Report (Apr 2025) | ***Not held, searched 2026-08-27 - the RNEP-GB final report is held and is a different document*** | — |
@@ -90,7 +91,7 @@ Guinea-Bissau's tracked development finance is concentrated in three instruments
 | National Cybersecurity Strategy (decree) | [In development](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/) | Council of Ministers approved the draft decree for a National Cybersecurity Strategy, following the January 2025 WARDIP/NRD Cyber Security feasibility study; no confirmation on file of gazettal or entry into force |
 
 <!-- narrative: ict-infrastructure -->
-Guinea-Bissau's international connectivity rests on a single submarine-cable landing — the ACE cable, live since March 2023 — supplemented since June 2025 by [Starlink's commercial satellite service](https://arn.gw/arn-tic-concede-autorizacao-geral-provisoria-a-starlink-guine-bissau/), its 7th West African market. A national fibre backbone is still in development: the World Bank-financed [WARDIP-GB programme](https://ang.gw/guine-bissau-nao-pode-perder-o-comboio-da-modernizacao-tecnologica-diz-presidente-da-republica/), launched in April 2025, has published a 2,877 km/56-node design and an environmental and social safeguards study, but the project's own governing Final Report is not held in the base, leaving the design specifics resting on an undated project-website primary.
+Guinea-Bissau's international connectivity rests on a single submarine-cable landing — the ACE cable, live since March 2023 — supplemented since June 2025 by [Starlink's commercial satellite service](https://arn.gw/arn-tic-concede-autorizacao-geral-provisoria-a-starlink-guine-bissau/), its 7th West African market. A second link is in prospect but not built: ECOWAS member-state experts with their technical and financial partners [approved the feasibility study for a second submarine cable serving Cabo Verde, Liberia, Sierra Leone and Guinea-Bissau](https://www.ecowas.int/liberia-hosts-workshop-to-validate-ecowass-second-submarine-cable/) in Monrovia in October 2025, with no route, cost, landing site or construction date published since. A national fibre backbone is still in development: the World Bank-financed [WARDIP-GB programme](https://ang.gw/guine-bissau-nao-pode-perder-o-comboio-da-modernizacao-tecnologica-diz-presidente-da-republica/), launched in April 2025, has published a 2,877 km/56-node design and an environmental and social safeguards study, but the project's own governing Final Report is not held in the base, leaving the design specifics resting on an undated project-website primary.
 <!-- /narrative -->
 
 ## DPI
