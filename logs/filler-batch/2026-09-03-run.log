@@ -165,3 +165,51 @@ filler-batch: 9 country(ies) queued from --only
   stop on: no deadline, 3 consecutive failures, more than 20 quota waits, no cost ceiling, STOP in logs/filler-batch
 
 === TUN — started 06:13:27 (timeout 120m) ===
+--- TUN PROBLEM in 4m — probed , staged 60 baseline + 103 progress, nil , $1.57
+    ! no run CSV written
+    ! lint-staged-queue: 1 finding(s)
+
+=== CIV — already run clean within 24h, skipping ===
+
+=== CPV — already run clean within 24h, skipping ===
+
+=== MRT — already run clean within 24h, skipping ===
+
+=== NER — already run clean within 24h, skipping ===
+
+=== SEN — already run clean within 24h, skipping ===
+
+=== SLE — started 06:17:26 (timeout 120m) ===
+--- SLE PROBLEM in 5m — probed , staged 66 baseline + 94 progress, nil , $2.17
+    ! no run CSV written
+
+=== STP — already run clean within 24h, skipping ===
+
+=== TGO — already run clean within 24h, skipping ===
+
+====================================================================
+filler-batch: 2 run(s), 0 clean — stopped: queue worked through
+  wall 0.1h | $3.74 | median 4m a country
+  staged 126 baseline + 197 progress file(s) — undelivered in C:\corpus-osint-xfer\new-queue until Bill moves them
+  ledger: logs/filler-batch/2026-09-04-batch.csv
+  PROBLEM TUN: no run CSV written; lint-staged-queue: 1 finding(s)
+  PROBLEM SLE: no run CSV written
+  queue: 0 country(ies) still unsearched
+filler-batch: 9 country(ies) queued from --only
+  TUN, CIV, CPV, MRT, NER, SEN, SLE, STP, TGO
+  note: already searched, will be re-probed — TUN (03/09/2026), CIV (03/09/2026), CPV (03/09/2026), MRT (03/09/2026), NER (03/09/2026), SEN (03/09/2026), SLE (04/09/2026), STP (04/09/2026), TGO (04/09/2026)
+  model claude-opus-5[1m] | one fresh session each | strictly serial
+  stop on: no deadline, 3 consecutive failures, more than 20 quota waits, no cost ceiling, STOP in logs/filler-batch
+
+=== TUN — started 06:27:13 (timeout 120m) ===
+--- TUN PROBLEM in 10m — probed , staged 60 baseline + 103 progress, nil , $4.27
+    ! no run CSV written
+    ! lint-staged-queue: exit 3221225794
+
+====================================================================
+filler-batch: 1 run(s), 0 clean — stopped: STOP present
+  wall 0.2h | $4.27 | median 10m a country
+  staged 60 baseline + 103 progress file(s) — undelivered in C:\corpus-osint-xfer\new-queue until Bill moves them
+  ledger: logs/filler-batch/2026-09-04-batch.csv
+  PROBLEM TUN: no run CSV written; lint-staged-queue: exit 3221225794
+  queue: 0 country(ies) still unsearched
