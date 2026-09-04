@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: MAR
-ledger_rows: 31
+ledger_rows: 32
 not_held: 17
-record: a479ac81dd87
+record: f917c0e828dc
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -35,6 +35,11 @@ The data-protection statute is being recast rather than replaced. The regulator'
 
 <!-- narrative: governance--gov-protect -->
 The data-protection authority moved first on the election. It [set out in a communiqué of 28 August the rules binding political parties, candidates and artificial-intelligence-generated content during the campaign](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM), having already [set out the requirements for processing personal data in the legislative elections](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere). Naming synthetic content in an election instrument is the notable part. The record held carries no enforcement action under it and no complaint mechanism a voter could use.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+Morocco's regional reach extended past the continent this month: the UN Economic and Social Commission for Western Asia and the minister for digital transition [signed a memorandum in Rabat establishing a framework for regional cooperation on modernising public administration and advancing digital governance reform](https://techafricanews.com/2026/09/03/escwa-morocco-digital-governance-mou/). No programme, value or deliverable is attached to it.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

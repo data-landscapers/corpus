@@ -3,9 +3,9 @@ title: Algeria — monthly update, August – September 2026
 compiled: 2026-09-04
 period: 2026-08-01 to 2026-09-04
 place: DZA
-ledger_rows: 30
+ledger_rows: 32
 not_held: 7
-record: ff7e159386c8
+record: 2799ef391512
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -47,6 +47,11 @@ A private matching arrangement is the month's entry here. A continental hub netw
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The one dated position is the licence award rather than any new build. [Three commercial 5G licences were awarded to the three operators in December 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and that is where the record stands: no coverage obligation, rollout milestone or subscriber figure has followed on this ledger since.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The second of the state's two data centres passed its design review. The digitalisation commission's communique [names Blida as the second national data centre and records it obtaining Uptime Institute Tier III Design certification, the same certification Mohammadia obtained in February](https://algerie-eco.com/2026/09/02/le-deuxieme-centre-national-de-donnees-a-blida-obtient-la-certification-internationale-tier-iii-design/); [installation there began in March 2025](https://algerie-eco.com/2025/03/07/coup-denvoi-de-linstallation-du-deuxieme-centre-national-des-donnees-a-blida/). What is certified is the design and not the constructed facility, which the commission says it is still working towards.
 <!-- /narrative -->
 ### Cybersecurity
 
