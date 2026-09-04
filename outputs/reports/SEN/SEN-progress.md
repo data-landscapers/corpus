@@ -1,12 +1,12 @@
 ---
 title: Senegal — progress report, September 2025 – September 2026
-compiled: 2026-09-03
-period: 2025-09-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2025-09-01 to 2026-09-04
 place: SEN
-ledger_rows: 122
+ledger_rows: 124
 not_held: 14
 indicators: 121
-record: 8056f19ec534
+record: d4c2889cd5a1
 ---
 
 # Senegal: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-03.*
+*The period is 2025-09-01 to 2026-09-04.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -120,7 +120,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Registries | Tax register |  | ***No evidence*** |
 | Registries | Land register |  | ***No evidence*** |
 | Sectoral management information systems | Health | The ministry [has begun building a single patient record](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) ahead of the law meant to govern confidentiality and transfer, and a [mortality and cause-of-death tool](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/) is in pilot. <details><summary>Full record</summary>A civil-society call for adoption of a digital-health bill was made at a restitution day in July 2026, and the record notes the ministry has begun building a single patient record accessible to certified structures ahead of that law ([bill](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/)).<br><br>The mortality and cause-of-death analysis tool was trained on over two days in July 2026. Cause-of-death quality is being worked on inside the health information system rather than through the civil register, which is where the audit and the digitisation programme sit ([tool](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/)).</details> | Advanced |
-| Sectoral management information systems | Education |  | ***No evidence*** |
+| Sectoral management information systems | Education | The national education platform [reaches about a fifth of schools](https://aphrc.org/publication/enhancing-coherence-and-use-of-education-data-addressing-system-fragmentation-across-uganda-senegal-and-burkina-faso/), held back by weak system integration and connectivity, while a [three-country project works on sub-national data use](https://www.gpekix.org/blog/insights-kix-seeds-annual-general-meeting-how-can-data-improve-learning-outcomes). <details><summary>Full record</summary>2025-12-01 - an issue brief on the three countries' education data systems states that the national platform, [comprehensive in design, reaches only about 20% of schools because of weak system integration and connectivity](https://aphrc.org/publication/enhancing-coherence-and-use-of-education-data-addressing-system-fragmentation-across-uganda-senegal-and-burkina-faso/), that collection remains largely manual and paper-based alongside isolated digital files with no real-time dashboards or standardised protocols, and that [over a third of public schools lack electricity while only a quarter have internet access](https://aphrc.org/publication/enhancing-coherence-and-use-of-education-data-addressing-system-fragmentation-across-uganda-senegal-and-burkina-faso/). The coverage and infrastructure figures are the brief's own citations of third-party sources, not measurements it made.<br><br>2025-06 - the project's annual general meeting in Ouagadougou [reviewed a year of work on sub-national education-data collection and on integrating promising local tools into national frameworks](https://www.gpekix.org/blog/insights-kix-seeds-annual-general-meeting-how-can-data-improve-learning-outcomes). Its named responses here are local monitoring committees, user feedback forums, school dashboards and mobile tools; no adoption, coverage or budget figure is published for any of them.<br><br>This is the first position the base holds on the education MIS, so no direction can be stated.</details> | No change, a first stated position with no earlier finding behind it |
 | Sectoral management information systems | Social protection |  | ***No evidence*** |
 | Sectoral management information systems | Justice | An [e-Justice platform is deployed in one court, with five judicial procedures digitised and more than 40 justice-sector professionals trained](https://www.ecofinagency.com/news-digital/2508-58308-senegal-advances-e-justice-rollout-with-dakar-area-pilot). <details><summary>Full record</summary>2026-08-24 — the Justice Minister and the UN development agency's resident representative [discussed the digital transformation of the Pikine-Guediawaye courthouse in the Dakar suburbs, where the e-Justice programme is being extended](https://www.ecofinagency.com/news-digital/2508-58308-senegal-advances-e-justice-rollout-with-dakar-area-pilot). The programme's final report records five judicial procedures digitised, the platform deployed in that one court and more than 40 justice-sector professionals trained, following a July 2025 installation of a mini data centre, a network connection to Dakar, a backup site and end-user equipment.<br><br>What the base does not hold is any extension beyond the single court: a roadmap for possible expansion exists and no further courts are announced, and plans to integrate the Maisons de justice and Boutiques de droit are stated but not dated. No case volume, clearance time or user figure is published for the digitised procedures, so the deployment is recorded and its effect is not. The account is the supporting agency's own.</details> | Advanced |
 | Sectoral management information systems | Tax |  | ***No evidence*** |
