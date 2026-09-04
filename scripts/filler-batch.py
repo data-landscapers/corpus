@@ -288,7 +288,32 @@ def dirty(path: Path, ignore: str = "") -> str:
                        capture_output=True, text=True, errors="replace")
     lines = [ln for ln in p.stdout.splitlines()
              if not (ignore and ln[3:].strip().strip('"').startswith(ignore))]
-    return "\n".join(lines[:5])
+    return "\n".join(lines)
+
+
+# What a filler session writes on the Corpus side, per `PROGRESS-FILLER.md` §7 and §8: its
+# run CSV and the two registers, the log line, and the queue cell. Nothing else in the tree
+# is its work.
+OWN_WRITES = ("logs/progress-filler/", "logs/log.md", "logs/progress-report-log.csv")
+
+
+def split_dirty(lines: list[str]) -> tuple[list[str], list[str]]:
+    """Uncommitted Corpus work, split into what the session wrote and what it did not.
+
+    **The tree is not this run's alone, and charging a country for someone else's edit
+    buys a whole session that cannot fix it** *(TUN, 2026-09-04 06:42)*. A build stage 4
+    was mid-flight with `outputs/reports/GNQ/GNQ-progress.md` modified; TUN's verification
+    pass was graded PROBLEM on it, which kept TUN out of `done_recently`, which is the
+    same re-queue loop the lint did-not-run fault caused eight minutes earlier. Re-running
+    TUN cannot commit a file TUN never touched — `share_settled` learned this about the
+    share on 2026-09-02 and scoped its question to `new-queue/{ISO}`; the Corpus tree is
+    now in the same position, with builds and fillers writing it in parallel.
+
+    So the split, not a filter: a session's own uncommitted output is still a PROBLEM and
+    still re-queues, and everyone else's is reported as the warning it is."""
+    mine = [ln for ln in lines
+            if ln[3:].strip().strip('"').startswith(OWN_WRITES)]
+    return mine, [ln for ln in lines if ln not in mine]
 
 
 _RESET = re.compile(r"resets?\s+(\d{1,2})[:.](\d{2})\s*(am|pm)?", re.I)
@@ -475,8 +500,13 @@ def run_one(iso: str, a) -> dict:
     if ahead:
         problems.append(f"share {ahead} commit(s) unpushed")
     own = dirty(CORPUS, ignore="logs/filler-batch/")
-    if own:
-        problems.append(f"Corpus tree left uncommitted: {own.splitlines()[0][:60]}")
+    mine, theirs = split_dirty(own.splitlines()) if own else ([], [])
+    if mine:
+        problems.append(f"Corpus tree left uncommitted: {mine[0][:60]}")
+    if theirs:
+        warnings.append(f"Corpus tree dirty in {len(theirs)} file(s) this run does not "
+                        f"write: {theirs[0][:60]} — another process's, and re-running "
+                        f"{iso} cannot commit it")
 
     row = {
         "iso": iso,
