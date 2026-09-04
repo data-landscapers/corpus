@@ -37,6 +37,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-04 11:14 · build · 59m · catalogue 16808, 1041 sources considered across 36 units, 47 Not held rows settled, 68 rows minted, 111 indicators mapped; mirror moved mid-run so stage 2 re-run; topics 76, bulletin 43 - ok
 2026-09-04 08:04 · render · 5m · 251 report docs, home, 54 country + 8 region pages, catalogue 16730, finance 1344 deals, topics 38, bulletin empty window, 27 editions pruned - ok
 2026-09-04 07:59 · build · 1h21m · catalogue 16730, 508 sources considered across 21 units, 254 ledger rows minted and 191 indicators opened; stopped at EGY on request, 8 units left - ok
 2026-09-04 06:36 · progress-filler · 9m · TUN triggered a third time, already searched 09-03; verified on disk (82/82 gaps, 163 files, no subject moved), nothing re-bought. Fixed both defects driving the re-trigger: lint heuristic ran over exactly-settled files; filler-batch read a correct no-CSV run as failure.
