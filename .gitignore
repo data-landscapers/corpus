@@ -103,5 +103,12 @@ outputs/names/
 # gone by the next. Untracked because `filler-batch.py` faults a session that leaves the
 # tree dirty, and scratch nobody meant to keep would stop a batch on its own litter.
 logs/progress-filler/.*
+
+# The batch driver's own console logs. The driver survived the 2026-09-04 archiving of
+# PROGRESS-FILLER and can still be run, but its run logs are not the record - the per-country
+# batch CSVs beside them are, and `logs/log.md` carries the narrative. Untracked so a stray
+# invocation over an empty queue cannot leave the tree dirty for the next run to trip on.
+logs/filler-batch/*-run.log
+logs/filler-batch/night.log
 logs/progress-filler/*-slices/
 logs/progress-filler/tmp*/
