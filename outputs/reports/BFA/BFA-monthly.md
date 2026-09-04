@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: BFA
-ledger_rows: 25
-not_held: 11
-record: da426c956417
+ledger_rows: 26
+not_held: 8
+record: b0c890776c60
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -33,6 +33,11 @@ Policy work this month was procedural rather than substantive. The digital trans
 On 3 August the legislature [voted the personal-data protection bill and the organic law creating a merged communications and data-protection authority](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). The new law prohibits and sanctions processing without consent, indexes administrative fines to turnover excluding tax and scales them by gravity, and prohibits transferring sensitive data abroad. The merged authority takes the data-protection commission's mandate and is given its own rule-making power with artificial intelligence named specifically. Neither text is held, neither is promulgated, and no commencement, seat or leadership is stated.
 
 The same 23 July sitting replaced the 2017 decree governing the non-profit register, fixing for the first time a retention period for that data after dissolution.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+The region's answer to a network that keeps being attacked is another country's fibre. At a meeting of the two digital ministers on 12 August, [Nigeria proposed connecting its planned 90,000 km open-access national fibre network to Burkina Faso's borders to improve internet resilience, quality and affordability, alongside cooperation on artificial intelligence, digital public infrastructure and talent](https://burkina24.com/2026/08/12/cooperation-numerique-sous-regionale-le-burkina-faso-et-le-nigeria-sallient-pour-accelerer-leur-transformation-digitale/). Both halves of that are prospective: the corridor is a proposal, and the Nigerian network it would reach is itself planned rather than built.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
