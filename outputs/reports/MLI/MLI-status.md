@@ -2,365 +2,361 @@
 title: Mali — digital transformation and data governance status report
 compiled: 2026-09-04
 place: MLI
-ledger_rows: 80
-not_held: 4
-record: a9c20470a77f
+region: XWA
+built_by: STATUS-INIT
+hub_last_reviewed: 2026-07-24
+intersections_read: 7
+sources_cited: 111
+sections_written: 37
+not_established: 4
+acquire_lines: 47
 ---
-
-# Mali: status report
-
-*Compiled 2026-09-04 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (80 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
-
-**Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
-
-## Summary of position
-
-<!-- narrative: summary -->
-Mali's digital programme is a sovereignty programme, and the objects it has built are those that keep data and identity inside the state or inside the three-country Sahel confederation. A [Tier III National Data Centre opened in Bamako in January 2026](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako); the passport is [issued to AES specification by a Chinese supplier that replaced a French one](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move); the state [took majority control of SOTELMA in June 2026](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm).
-
-The regulatory layer is older than the build. The data-protection authority has enforced under a 2013 statute since before this record opens, and [opened its second 2026 session with more than 1,000 files](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/). In the same period the cybercrime pole [sentenced a journalist to 12 months with six suspended](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac) for saying in public that cybercrime law was being used against journalists.
-
-What is thin is money reaching users. The universal access fund [cut its 2026 budget by 32% in July after spending 8% of it in six months](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/), and digital payment at civil registry centres [raised about FCFA 200 million across 23 months](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/).
-
-A national AI strategy, a data-management law and a national public key infrastructure exist only as [recommendations made at the end of July 2026](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
-<!-- /narrative -->
-
 ## Governance
 
 ### Strategies, plans and policies
+<!-- gov.policy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Conseil national du Numerique | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
-| Declaration de Ouagadougou on the digital economy | [Implemented](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/) | Adopted at the UEMOA digital economy salon 14-15 July 2026 |
+[The government has acknowledged that implementation of the Mali Numérique 2020 strategy was not successful, and a replacement National Digital Economy Strategy for 2024-2028 remains under development](https://dig.watch/resource/national-strategy-for-the-development-of-the-digital-economy-in-mali-draft) (2025). Until that lands, the instrument covering the estate is [the 2015 national strategy for the development of the digital economy](https://communication.gouv.ml/wp-content/uploads/2021/01/DraftMN2020.pdf), which reaches across broadband and universal access, cybersecurity, data centres and cloud services, data protection, digital identification, digital payments, digital signatures, e-commerce and e-waste — the whole field in a document now a decade old.
+
+Sectoral policy has moved where the umbrella has not. [The Council of Ministers approved a national cybersecurity strategy for 2026-2030 in December 2025](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-to-launch-national-cybersecurity-strategy-this-year), and [a national financial inclusion strategy adopted in June 2022](https://www.uncdf.org/article/8238/financial-inclusion-in-mali) targets rural populations, women, youth and smaller enterprises.
+
+The wider governance record it sits in is falling. [Mali scored 43.2 out of 100 for overall governance in the 2024 Ibrahim Index, 37th of 54 African states and below the African average of 49.3, having lost 4.6 points over 2014-2023 against an African average that rose 1.0 point](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023). [Across the index's 96 indicators Mali improved on 43 and declined on 51, and scored below the African average on 59 of them](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023). Its best showing is on the administrative and economic foundations: [Foundations for Economic Opportunity, covering public administration, infrastructure, the business environment and the rural economy, is the country's most improved category at 48.1 out of 100, 29th of 54, up 1.9 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023).
 
 ### Legislation and regulation
+<!-- gov.legislate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Data-management law | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
-| Platform-content enforcement instruction | [Implemented](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs) | Ministerial instruction to prosecutors 2026-07-29 |
-| Startups law | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
+Mali's telecoms regulator [circulated a message on 12 March 2026 reiterating the prohibition on importing, selling or using non-homologated Starlink and WiFi Zone equipment](https://lepays.ml/starlink-wifi-zone-non-homologues-lamrtp-rappelle-linterdiction/), and warning of sanctions. The restriction runs off the existing equipment-homologation regime: the reiteration enacts no new statute and cites no article numbers.
+
+Platform-content enforcement rests on the same statute book. [A justice ministry communiqué of 29 July 2026 enumerates penal qualifications already in force, creates no new offence and notifies no platform](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs), and it [treats the staging, filming, publication and commentary of images of child depravity as offences falling "notamment de la cybercriminalité"](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs) — a content-liability reading of the cybercrime law arrived at by ministerial instruction rather than by amendment.
+
+The instruments themselves are older. [Mali enacted a cybercrime law in 2019, published in the Journal Officiel](https://sgg-mali.ml/JO/2019/mali-jo-2019-43.pdf). [Law No. 2013-015 of 21 May 2013 restricts cross-border transfers of personal data to countries judged to offer adequate protection and imposes no general requirement that data be stored inside the country](https://amrtp.ml/en/download/law-no-2013-015-of-may-21-2013-on-the-protection-of-personal-data-in-the-republic-of-mali/), and [a law of 13 December 2024 criminalises data breaches, with the constitution of 23 July 2023 giving personal-data protection constitutional recognition](https://carnegieendowment.org/features/africa-digital-regulations).
+
+There is no consolidated digital identity act: [the NINA number and the biometric card rest on Law No. 06-040 of 11 August 2006 on the national identification number, Law No. 06-024 of 2006 on civil status and Decree No. 2022-0639/PT-RM, with no digital-ID-specific regulation in force](https://dpimap.org/mali/) (2025).
+
+<!-- derived -->
+Each of Mali's 2026 moves on the digital estate — an equipment reminder to importers and users, an instruction to prosecutors, a conviction in the cybercrime court — applies law already in force, and none of them creates a new statute.
 
 ### Data protection
+<!-- gov.protect -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Autorite de Protection des Donnees a caractere Personnel | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | Second 2026 session opened 2026-08-03 with more than 1,000 files |
-| Benin and Mali data-protection cooperation | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-and-mali-enhance-data-protection-cooperation) | Cooperation agreed 2025-04-16 |
-| Data-protection authorisation for DDR beneficiary data | [Implemented](https://gouvernement.ml/protection-des-donnees-personnelles-la-cnddr-et-la-cni-se-forment-aux-enjeux-du-ddr-i/) | Three-day training on the authorised processing, 17-19 August 2026 |
-| Loi n2013-015 on personal data protection | [Implemented](https://malijet.com/la_sante_au_mali/311528-protection-des-donnees-la-canam-cloture-une-formation-dedi.html) | Sectoral training completed 2026-08-29 |
-| Mandatory lease-declaration decree | [In development](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) | Draft decree before the authority October 2025 |
+[Mali's data protection authority fined a Bamako clinic 5 million FCFA for obstructing one of its verification missions](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) (2025), one end of a caseload that also runs to [more than 100 formal notices issued to data controllers](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) and [some 2,000 declaratory files examined from organisations registering their personal-data processing](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) (October 2025). [In December 2025 the APDP opened its first office outside the capital, an antenna serving the Ségou region](https://lessor.ml/posts/autorite-de-protection-des-donnees-a-caractere-personnel-la-region-de-segou-a-son-antenne-6932a107b56bd).
+
+[The authority has been operational since 2016 as an independent body of 15 members serving seven-year terms, funded from the state budget and empowered to investigate complaints, demand evidence and impose sanctions](https://dataprotection.africa/mali/), [established under Law No. 2013-015 of 21 May 2013](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/).
+
+What the framework grants is not matched by machinery on the identity side. [There is no mechanism for a Malian to view the data held on them in the national identity database or to see an access log, and data sharing between government bodies is ad hoc with no overarching data governance framework](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf) (2023); [redress over the NINA and the biometric identity card runs through the general oversight of the ordinary courts, with no identification-specific mechanism](https://www.iijd.org/mali/) (2025). [Mali's digital freedom score, which measures online censorship, internet shutdowns and the rights of internet users, fell 22.7 points over 2014-2023 to 38.5 out of 100, 40th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023).
+
+Where new watch duties have been distributed, they have gone to private parties rather than to a regulator: [the justice ministry's July 2026 communiqué calls on parents, educators, building owners, landlords, managers of furnished flats, and bar and hotel keepers to watch for and denounce the conduct it targets](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs), rather than on a telecommunications or content regulator. Public bodies are training for the regime independently: [the compulsory health insurance fund CANAM closed a staff session on personal-data management and protection, covering cyberattack, leakage and unauthorised access, on 28 August 2026](https://malijet.com/la_sante_au_mali/311528-protection-des-donnees-la-canam-cloture-une-formation-dedi.html).
 
 ### Regional collaboration
+<!-- gov.regional -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| AES data-protection authorities coordination framework (CC-APDP-AES) roadmap | [Implemented](https://www.digitalbusiness.africa/cybersecurite-les-pays-de-laes-signent-une-feuille-de-route-sur-la-protection-des-donnees/) | Roadmap signed by the three confederation authorities, 18 November 2025 |
-| AES protocol on AI governance | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
-| Membership of the African Telecommunications Union board | [Implemented](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) | Re-elected for 2027-2031 at the Abuja plenipotentiary |
-| Smart Africa cooperation | [Implemented](https://techafricanews.com/2026/03/10/mwc-2026-mali-strengthens-digital-cooperation-with-smart-africa/) | Ministerial meeting at MWC 2026 |
-| Withdrawal from ECOWAS | [Implemented](https://www.ecowas.int/wp-content/uploads/2025/01/FINAL_Press-Statement-_-ECOWAS-_-Withdrawal-BURKINA_MALI_NIGER.pdf) | Withdrawal took effect on 29 January 2025 |
+[Mali, Burkina Faso and Niger severed their ECOWAS ties in 2024](https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty), and the three are [building identity and data interoperability through the Alliance of Sahel States rather than through the regional rails ECOWAS is assembling](https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty). [The bloc launched a common biometric passport on 29 January 2025, providing free movement within the three countries — the same day Mali's exit from ECOWAS took effect](https://www.biometricupdate.com/202501/sahel-states-under-military-rule-unveil-common-biometric-passport-jan-29).
+
+What still binds Mali is monetary rather than political. [Malian banks, payment institutions, microfinance institutions and e-money issuers are bound by BCEAO Instruction n° 003-03-2025 of 18 March 2025 on identification, identity verification and customer due diligence, applied uniformly across the eight UMOA states from Dakar](https://www.bceao.int/sites/default/files/2025-04/Instruction%20n%C2%B0003-03-2025%20du%2018%20mars%2025relative%20%C3%A0%20l%27identification-%20la%20v%C3%A9rification%20de%20l%27identit%C3%A9%20et%20la%20connaissance%20de%20la%20client%C3%A8le%20par%20les%20institutions%20financi%C3%A8re.pdf), while [payment systems run on Règlement n° 15/2002/CM/UEMOA](https://downloads.bceao.int/sites/default/files/2017-11/8-%20Reglement_n_15_2002_CM_UEMOA_relatif_aux_systemes_de_paiement_dans_les_Etats_membres_de_l_UEMOA.pdf) and [the central bank's regional instant payment platform has operated live across all eight WAEMU states, Mali among them, since 30 September 2025](https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de).
+
+On identity, Mali sits outside the ECOWAS architecture rather than having left it. [The ECOWAS Commission's own account of the WURI regional identification programme names Benin, Burkina Faso, Côte d'Ivoire, Guinea, Niger and Togo as the implementing states, and not Mali](https://wuri.ecowas.int/the-west-africa-unique-identification-for-regional-integration-and-inclusion-wuri-programme-to-hold-its-maiden-regional-sensitisation-and-awareness-event/), and [the cross-border interoperability strategy ECOWAS and the World Bank validated in March 2026, aimed at mutual recognition of ID credentials and harmonised technical specifications, is built for the Community's members](https://von.gov.ng/ecowas-world-bank-advance-west-africa-digital-identity/).
+
+One regional instrument was written to reach Mali by either route. [The 2010 ECOWAS Supplementary Act on personal data protection applies by its Article 3(3) to processing carried out in a UEMOA or an ECOWAS member state, and requires each member state to establish the legal framework and an independent data protection authority protected from instruction and from telecom-sector interests](https://www.statewatch.org/media/documents/news/2013/mar/ecowas-dp-act.pdf). [Its entry into force is conditional under Article 48 on publication both in the Community's official journal and in each member state's own gazette](https://www.statewatch.org/media/documents/news/2013/mar/ecowas-dp-act.pdf).
+
+### Standards
+<!-- gov.standards -->
+
+Mali has [no dedicated data exchange or interoperability strategy and no published implementation roadmap](https://dig.watch/resource/national-strategy-for-the-development-of-the-digital-economy-in-mali-draft) (2025), and [none of its core registers — commercial, civil registration, land and cadastre, tax, address and electoral — is connected to a national government data exchange platform](https://www.digitaldevelopment.org/countries/mali/) (2023).
+
+Electronic signatures have a narrow footing. [They are recognised in Mali for payment-system purposes under Règlement n° 15/2002/CM/UEMOA](https://downloads.bceao.int/sites/default/files/2017-11/8-%20Reglement_n_15_2002_CM_UEMOA_relatif_aux_systemes_de_paiement_dans_les_Etats_membres_de_l_UEMOA.pdf), which also provides for netting and settlement finality. Behind that sits no regional certification policy: [an ECOWAS and EU expert meeting on 26–27 March 2024 formulated guidelines and left a roadmap being defined, working from the Malabo Convention and the ECOWAS Supplementary Act on electronic transactions](https://www.ecowas.int/towards-a-certified-electronic-signature-in-west-africa/).
 
 ### Public debate and participation in policymaking
+<!-- gov.discourse -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Disinformation awareness campaign | [Implemented](https://gouvernement.ml/lutte-contre-la-desinformation-la-campagne-le-vrai-avant-le-viral-table-sur-la-sensibilisation-de-60-000-personnes/) | Campaign launched 20 August 2026 with a target of 60,000 people |
+[Mali's cybercrime court sentenced Chahana Takiou, founder and publication director of the newspaper 22 septembre, to 12 months' imprisonment with 6 suspended on 3 August 2026, on a charge of atteinte au crédit de l'État à travers l'institution judiciaire](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac). [The remarks he was convicted over were made at the Forum panafricain des médias in Bamako in June 2026, where he argued that journalists prosecuted under Mali's cybercrime law should instead be tried under the press-offence law; a clip circulated, the cybercrime Pôle summoned him, and he was remanded in custody before trial](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac). [The sentence was exactly the one the prosecution had sought at the hearing of 27 July 2026](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac).
 
-<!-- narrative: governance -->
-The authority here is older than the systems it regulates. Loi n2013-015 has been in force since May 2013 and the APDP enforces under it: [about 2,000 declaratory files reviewed in 2025, with one 5m FCFA fine and more than 100 formal notices](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/), a [regional antenna at Segou](https://lessor.ml/posts/autorite-de-protection-des-donnees-a-caractere-personnel-la-region-de-segou-a-son-antenne-6932a107b56bd), and [more than 1,000 files before a ten-day session opened on 3 August 2026](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/). No figures for sanctions issued or files cleared are published, so the docket is a workload count.
+The measured record moves the same way. [Mali's media freedom score fell 9.1 points over 2014-2023 to 53.5 out of 100, 30th of 54, and its freedom of expression and belief score fell 24.4 points to 57.6, both inside a Rights sub-category down 12.4 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023).
 
-Platform regulation took the opposite route. On [29 July 2026 the justice minister instructed prosecutors](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs) to act against content networks using penal and cybercrime provisions already on the books — no new statute, no notification to platforms, and enforcement duties pushed onto parents, landlords and hotel keepers. Five days later the cybercrime pole [sentenced Chahana Takiou, publication director of 22 septembre, to 12 months with six suspended](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac) for arguing that journalists should be tried under press-offence law rather than cybercrime law. Neither the judgment nor the charging instrument is held.
+Official argument about online speech is running through sovereignty. [The justice ministry's July 2026 communiqué characterises the conduct it targets as "importé d'ailleurs" and contrary to "nos valeurs sociétales"](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs), seating a child-protection enforcement action inside an argument about foreign platforms, and [the minister instructed prosecutors and judges at the end of July 2026 to act with rigour against those responsible for depraved content on social media](https://bamakomatin.com/depravation-des-moeurs-sur-les-reseaux-sociaux-le-ministre-de-la-justice-ordonne-aux-juges-de-sevir-avec-rigueur-contre-les-auteurs/), making enforcement a matter of prosecutorial instruction.
 
-Three instruments exist only as [recommendations from the Semaine du Numerique of 1 August 2026](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html): a data-management law, a startups law and a Conseil national du Numerique. Externally, Mali was [re-elected to the African Telecommunications Union board for 2027-2031](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) and [spoke for the three AES states at the UEMOA digital economy salon](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/). The European Commission states [the EUR 151m committed for 2021-2024 has no 2025-2027 successor](https://international-partnerships.ec.europa.eu/countries/mali_en), funding running instead through a shared central-Sahel allocation with no digital activity named. An academic evaluation [finds no single access-to-information law](https://www.revue-irs.com/index.php/home/article/view/1637), the right split across Loi 98-012, Loi 2013-015 and Loi 2017-062.
-<!-- /narrative -->
+Civil society is working the same ground from the other side. [Women Tech Mali launched Citoyens 2.0 in August 2026, a Malian application for countering disinformation, alongside a public campaign titled "Le vrai avant le viral"](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html), and [a representative of the ministry responsible for communication and the digital economy endorsed it as bringing citizens closer to institutions, naming institutions, media, content creators and ordinary users as the four actors a disinformation response requires](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html).
 
 ## Finance
 
+### MoUs and other agreements
+<!-- finance.mou -->
+
+No memorandum of understanding or comparable digital-sector agreement involving Mali had been concluded as at September 2026.
+
 ### New investments
+<!-- finance.new -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| AGEFAU conventions with the education and employment ministries | [Implemented](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/) | Two four-year renewable conventions signed 2026-07-22 |
-| Agence de Gestion du Fonds d'Acces Universel | [Implemented](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/) | New director-general named 2026-07-23 |
+The largest digital money movement on Mali's record went to the state rather than into it: Sotelma, Maroc Telecom's Malian subsidiary trading as Moov Africa Malitel, [paid XOF 160 billion in 2024 to renew its telecommunications licence](https://www.telecomschamber.org/industry-news/maroc-telecoms-investments-in-its-moov-africa-subsidiaries-increased-by-75-in-2024/), the single largest component of Maroc Telecom's licence and frequency costs across its Moov Africa subsidiaries that year.
 
-<!-- narrative: finance -->
-The universal access fund is where Mali's inclusion money sits and where the record is sharpest. AGEFAU [cut its 2026 budget by 32%, from FCFA 41,151,471,000 to FCFA 27,886,688,000, on 23 July 2026](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/), after spending 8% of the annual budget in the first half against receipts at 56% of forecast. In the same week it [signed two four-year conventions with the education and employment ministries](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/), committing cumulative education spend under the conventions to above FCFA 17bn.
-<!-- /narrative -->
+The newest commitment runs the other way. The International Finance Corporation [disclosed in 2025 a proposed senior unsecured loan to Orange Mali S.A. of up to the CFA franc equivalent of EUR 70 million](https://disclosures.ifc.org/project-detail/SII/49673/orange-mali-sa), running to 2032 for network modernisation, 4G expansion and mobile money infrastructure.
+
+Sweden has financed Mali's statistics rather than its networks. Sida [committed SEK 25,000,000 in December 2018 to co-fund the fifth general population and housing census, RGPH5](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0101), paid to the Institut National de la Statistique in Bamako over 2018 to 2025, and a [second agreement on the same census added SEK 20,062,653, effectively all of it drawn down before the activity closed in 2025](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0103) — some SEK 45 million of Swedish census money between them.
+
+The government [signed a concessional loan with the Export-Import Bank of China on 28 September 2018 to finance the Mali Digital 2020 project](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), with China International Telecommunications Construction Corporation as the commercial contractor. USAID [funded a Digital Ecosystem Country Assessment from 2023](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-1-72068823LA00001), covering digital infrastructure, the regulatory environment and digital economy development.
+
+<!-- derived -->
+Seven external digital commitments naming Mali are on the record, spanning 2018 to 2032 and worth roughly USD 531 million, more than four-fifths of it in two telecommunications transactions dated 2018 and 2024; the West African regional operations that do not name the country sit outside that figure (September 2026).
+
+<!-- derived -->
+As at September 2026 grants are three of the seven but under two per cent of the value, roughly USD 9 million, the rest carried by loans and by the licence transaction; connectivity takes almost all the value, while the most frequently financed subsector is national statistics — three commitments worth about USD 5 million, all of them Swedish support to the same census, making Sida the most frequent financier on the record.
 
 ## ICT Infrastructure
 
 ### Connectivity
+<!-- infra.connect -->
+Internet use stood at [35.1% of the population in 2025](https://datareportal.com/reports/digital-2025-mali), against mobile connections equivalent to 94% of it. Population coverage by at least a 4G network was [47% in 2021](https://www.digitaldevelopment.org/wp-content/uploads/2023/09/ddd_MLI.pdf), and international bandwidth [about 7 kbit/s per internet user in 2019](https://www.digitaldevelopment.org/wp-content/uploads/2023/09/ddd_MLI.pdf) — the mark of a landlocked country dependent on cross-border terrestrial fibre and satellite.
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| ADSL retirement and FTTH migration | [Planned](https://www.maliweb.net/communique-391/moov-africa-malitel-tourne-la-page-de-ladsl-la-migration-vers-la-fibre-optique-ftth-lancee-dici-fin-2026-3118639.html) | Migration announced for end-2026 |
-| International route diversity through the CSquared backbone | [Implemented](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | 2Africa West capacity added 2026-07-15 |
-| Moov Africa Malitel fibre | [Implemented](https://www.ecofinagency.com/news-digital/1506-56460-moov-africa-upgrades-fiber-service-amid-rising-internet-use-in-mali) | Speeds doubled at no extra cost 2026-06-15 |
-| Orange Mali 4G and fibre expansion | [In development](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | EUR 80m IFC-led loan signed 2025-11-17 |
-| Orange Mali satellite 3G and 4G | [Implemented](https://techafricanews.com/2025/05/07/orange-mali-and-intelsat-bring-4g-connectivity-to-malis-hard-to-reach-regions/) | In service, reaching about 360,000 remote residents |
-| SMTD-SA as sole national transport-infrastructure operator | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
-| Starlink kit imports | [Implemented, under enforcement](https://www.voaafrique.com/a/le-pouvoir-malien-l%C3%A8ve-l-interdiction-des-kits-starlink/7817463.html) | AMRTP announced seizure and dismantling operations against unauthorised Starlink and Wi-Fi Zone equipment 2026-06-11, after restating the prohibition in March 2026 |
-| Universal connectivity target | [Planned](https://malijet.com/a_la_une_du_mali/310877-semaine-du-numerique-2026-jour-1-panel-1.html) | Set at the Semaine du Numerique opening panel 2026-07-30 |
+Mali's ban on non-homologated Starlink and WiFi Zone equipment was [reiterated in March 2026](https://lepays.ml/starlink-wifi-zone-non-homologues-lamrtp-rappelle-linterdiction/) amid a SIM-card identification drive that the transitional authorities present as a security measure against uncontrolled connectivity tools they say expose the country to terrorism risk. The retail market the restriction sits over is [an Orange Mali and Malitel duopoly, with no new operator licence issued for years](https://theafricantribune.info/malis-telecom-costs-surge-while-senegal-thrives-in-data-affordability/), and prices remain [far above the affordability threshold the ITU applies](https://www.itu.int/en/ITU-D/Statistics/Documents/ICT_Prices/ITU_ICTPriceBaskets_Allowance_2025.xlsx).
+
+The decade to 2023 was one of fast improvement from a low starting point. Mali's [internet and computers score rose 19.8 points to 31.8 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), its third most improved indicator and 29th of 54 African states, and its [mobile communications score rose 19.9 points to 60.5](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 37th of 54. The [Infrastructure sub-category scored 36.4 out of 100, 30th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) and gained 8.4 points over the decade. Delivery infrastructure moved the other way: the [postal and shipping network score fell 16.3 points to 15.6](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 40th of 54 and among Mali's ten worst measures, while [Malians' own assessment of infrastructure provision rose 13.6 points to 46.7](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 16th of 54 and far above what the counted measures record.
+
+Traffic exchange runs through [a single internet exchange point, MLIX, established in Bamako in February 2018 and managed by the regulator AMRTP, with five participating networks](https://www.pch.net/ixp/details/2019). The Chinese-financed Mali Digital 2020 project was [designed around intercity fibre connecting Kidal, Gao and Timbuktu to Mopti and running to the Guinean, Algerian and Burkinabè borders](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), with an urban network interconnecting government institutions in Bamako.
 
 ### Data Storage
+<!-- infra.store -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Tier III National Data Centre | [Implemented](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako) | Inaugurated 2026-01-31, 99.982% availability stated |
+Mali [inaugurated a sovereign Tier III data centre in Bamako in early 2026](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako/), meant to host government platforms and bring state data previously held abroad back into the country. There is no hyperscale alternative close by: [Amazon Web Services' region list contains no West African location](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html), so Malian users are served from distant regions.
+
+Repatriation is a policy choice rather than a legal duty, since [Mali's 2013 personal data protection law sets no general requirement to store data inside the country](https://amrtp.ml/en/download/law-no-2013-015-of-may-21-2013-on-the-protection-of-personal-data-in-the-republic-of-mali/). What the state itself holds is thinner than the new building suggests: [data sources and data infrastructure are the weakest of the World Bank's statistical pillars for Mali](https://www.worldbank.org/en/programs/statistical-performance-indicators), well below its scores for data use and data services (2023).
 
 ### Energy
+<!-- infra.energy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Diesel-to-solar conversion of network sites | [In development](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | Included in the IFC-led loan of 2025-11-17 |
+Electricity has been rationed since late 2023, with [households in Bamako down to five or six hours of power a day as of November 2025](https://afrikinfos-mali.com/2025/11/25/edm-sa-pourquoi-les-maliens-ne-recoivent-ils-plus-que-5-a-6-heures-de-courant/). The utility EDM's director-general [attributed the cuts in March 2024 to a fuel and financial crisis that has displaced hydropower from the generation mix](https://afrikinfos-mali.com/2024/03/12/edm-sa-face-au-delestage-entre-langage-de-verite-et-daveu-dimpuissance/), and residential tariffs are [among the highest in West Africa (2025)](https://www.globalpetrolprices.com/Mali/electricity_prices/).
+
+Access reached [54.5% of the population in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ML), but the national figure conceals the split that matters for any service delivered outside the main centres: [91.5% of urban residents had electricity in 2023 against 22.7% of rural residents](https://countrydatahub.com/countries/mali/indicators), a gap of 68.8 percentage points. Mali's [access to energy score rose 10.2 points over 2014-2023 to 26.3 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 36th of 54 African states.
+
+Off-grid provision is active rather than planned, run through [AMADER's rural mini-grid programme and supported under the World Bank's Electricity System Reinforcement and Access Expansion Project](https://documents1.worldbank.org/curated/en/397151627676502492/pdf/Concept-Project-Information-Document-PID-Mali-Electricity-System-Reinforcement-and-Access-Expansion-Project-P176633.pdf) (2024). Where the state has tried to digitise, power is one of the binding constraints named: a July 2025 workshop on civil registration [put poor connectivity, weak electricity access and insecurity in rural areas at the top of the list](https://amap.ml/modernisation-de-letat-civil-au-mali-des-membres-du-cnt-en-atelier-de-sensibilisation/).
 
 ### Technical Capacity
+<!-- infra.capacity -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National Data Centre capacity | ***Not held*** | — |
+Mali moved its national identity database in February 2024 to Mali Kura Biométrie, [a sovereign platform built and maintained by Malian engineers](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/), after a 2023 dispute in which the French vendor IDEMIA was accused of withholding access to the RAVEC/NINA database. Production of the [biometric identity card is likewise handled by a Malian company, with a German supplier providing equipment and training under a technology-transfer arrangement](https://www.maliweb.net/societe/carte-didentite-biometrique-du-mali-la-confection-est-assuree-par-une-societe-malienne-et-non-une-entreprise-allemande-3005191.html), and the digitisation of bank-channel pension payments was [built with technical support from PAFEEM](https://www.africascoop.net/index.php/2026/07/30/sante-le-mali-accelere-la-digitalisation-de-ses-services-publics/), the entrepreneurship and employment financing project.
+
+The equipment behind the institutions is improving faster than the institutions. Internet access across the structures of the national statistical system, coordinated by INSTAT under Law No. 2016-005, [rose to 63% in 2024 from 49% in 2023](https://www.instat-mali.org/laravel-filemanager/files/shares/ca/rap-act-statistique-2024_ca.pdf), while intranet connectivity and working websites remain limited across many of them. The [capacity of the statistical system scored 32.5 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 46th of 54 African states and essentially unchanged over the decade — no improvement in the state's ability to count what it governs.
+
+Public administration as a whole [scored 46.6 out of 100 in 2023, 35th of 54, and fell 7.4 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). The one component to move materially the other way was [effective administration, up 5.6 points to 48.2, 32nd of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf): the public service is judged more capable of delivering while the systems it delivers through score worse.
 
 ### Cybersecurity
+<!-- infra.cybersec -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Agence nationale de la Securite des Systemes d'Information | [Implemented](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/) | Created by Council of Ministers texts 2026-06-10 |
-| Criminal chamber of the national cybercrime pole | [Implemented](https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029) | Began hearing cases 2026-05-21, four cases and eight accused |
-| National Cybersecurity Strategy 2026-2030 | [Implemented](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/cybersecurite-le-mali-prepare-un-cadre-national-coordonne-pour-2026-2030) | Adopted by the Council of Ministers 2025-12-09 |
+Mali's Council of Ministers [approved a national cybersecurity strategy for 2026-2030 in December 2025](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-to-launch-national-cybersecurity-strategy-this-year). It starts from a weak position: the country [scored 29.47 out of 100 on the ITU Global Cybersecurity Index 2024, in the fourth of five tiers](https://statbase.org/data/mli-global-cybersecurity-index/), relatively strong on legal measures and weak on organisational and capacity-development ones.
 
-<!-- narrative: ict-infrastructure -->
-The [Tier III National Data Centre, inaugurated on 31 January 2026 with a stated availability of 99.982%](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako), is the centrepiece, and no rack, floor or power capacity figure has been published for it. The institutional cyber stack was assembled around it in the same twelve months: a [National Cybersecurity Strategy 2026-2030 adopted in December 2025](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/cybersecurite-le-mali-prepare-un-cadre-national-coordonne-pour-2026-2030), [ANSSI created in June 2026](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/), and the cybercrime pole's [criminal chamber hearing its first four cases in May 2026](https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029).
+The enforcement apparatus is further ahead than the defensive one, and it is pointed at speech. The Pôle national de lutte contre la cybercriminalité, the specialised cybercrime prosecution and trial body, is [the venue in which speech offences against the state are tried](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac), including charges of atteinte au crédit de l'État à travers l'institution judiciaire, and in August 2026 it [convicted the publication director of a national newspaper](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac). Its reach has widened by instruction rather than by statute: the justice minister [directed in July 2026 that networks trafficking in depraved content on social media be pursued under penal and cybercrime provisions already on the statute book](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs), creating no new offence.
 
-Access is carried by two operators. Orange Mali is building [300 4G towers, half of them rural, and fibre to about 300,000 households under a EUR 80m IFC-led loan](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi), with diesel-to-solar site conversion in scope; Moov Africa Malitel [doubled fibre speeds to up to 100 Mbps across six cities in June 2026](https://www.ecofinagency.com/news-digital/1506-56460-moov-africa-upgrades-fiber-service-amid-rising-internet-use-in-mali) and [announced ADSL retirement for end-2026](https://www.maliweb.net/communique-391/moov-africa-malitel-tourne-la-page-de-ladsl-la-migration-vers-la-fibre-optique-ftth-lancee-dici-fin-2026-3118639.html). [Satellite 3G and 4G reaches about 360,000 remote residents](https://techafricanews.com/2025/05/07/orange-mali-and-intelsat-bring-4g-connectivity-to-malis-hard-to-reach-regions/).
-
-International routing improved without any Malian asset changing hands: [CSquared added 2Africa West capacity to the backbone that reaches inland to Mali](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/), giving an independent subsea route behind the Abidjan, Accra and Lagos landing concentration.
-
-Two positions are recommendations rather than systems: [a law making SMTD-SA the sole national operator of transport infrastructure](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), and [universal connectivity by 2030](https://malijet.com/a_la_une_du_mali/310877-semaine-du-numerique-2026-jour-1-panel-1.html). A named-analyst investigation carried by Maliweb reports [AFRIBONE as the sole surviving independent provider](https://www.maliweb.net/contributions/deviations-institutionnelles-et-oligopole-du-numerique-en-afrique-de-louest-la-manne-sequestree-aux-origines-de-la-captation-du-fonds-dacces-universel-au-mali-3118719.html), buying wholesale IP transit at near-retail prices. Starlink kit imports remain restricted: after an October 2024 lifting, AMRTP [restated the ban on unauthorised equipment in March 2026](https://lepays.ml/starlink-wifi-zone-non-homologues-lamrtp-rappelle-linterdiction/) and [announced seizure and dismantling operations in June 2026](https://libreinfos.com/2026/07/02/telecommunications-letat-declare-la-guerre-aux-exploitants-illegaux-de-wifi-zone-starlink-et-talkie-walkie/).
-<!-- /narrative -->
+The Chinese-financed Mali Digital 2020 project was [designed to include a state surveillance camera network and an internal secure communications network for the government](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), built under the same concessional loan as the fibre backbone.
 
 ## DPI
 
 ### Data Exchange
+<!-- dpi.exchange -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Customs systems interconnection for goods in transit | [Piloting](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/) | Transit-goods data pilot launched, presented at a Bamako roundtable 2026-08-06 |
-| National public key infrastructure and e-signature services | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Effective deployment recommended at the Semaine du Numerique 2026-08-01 |
+Mali has no national data exchange platform, and the systems launched or expanded in September 2025 — Sigui-Dolo for transport licensing, OpenClinic for health, SIGIP for territorial administration and TrésorPay for payments — [run as isolated sector platforms with no interoperability hub between them](https://cadeproject.org/updates/mali-launches-new-digital-platforms-to-improve-access-to-public-services/). None of the core registers — commercial, civil registration, land and cadastre, tax, address and electoral — connects to such a platform, and [the technical foundations for cross-agency interoperability are absent](https://www.digitaldevelopment.org/countries/mali/) (2023).
+
+What linkage exists is narrow. Birth declarations recorded through the City-Web application at civil status centres [feed the MorphoCivis interface that calculates and issues the NINA identification number](https://id4africa.com/2016/presentations/1-1-3_MATD_SY_Abdou.pdf) (2024), and the one-stop investment shop API-Mali [issues the commercial registration number and the tax identification number together](https://apimali.gov.ml/en/creation-entreprise/) when a business is formed (2025). Elsewhere the join is made by hand: an applicant for a tax identification number [submits a photocopy of the NINA card](https://www.dgi.gouv.ml/obtenir-un-nif/), with no interface or shared key behind it (2018). The Registre Social Unifié, [set up by decree in May 2022 as an open system able to exchange with other national databases](https://rsu.gouv.ml/portail/presentation/), takes the NINA number as one acceptable identifier among several rather than as its key.
+
+The identity system itself cannot be reached: it [supports no APIs or formal data-exchange protocols, and the link to the health ministry's OpenClinic platform announced in 2025 has not been built](https://www.biometricupdate.com/202509/mali-introduces-new-platforms-to-enhance-digital-public-service-access). Civil registration stands in the same place, [largely paper-based with the connection to the NINA number planned rather than implemented](https://cadeproject.org/updates/mali-launches-new-digital-platforms-to-improve-access-to-public-services/) (2025). Nothing above the sector level is set to change it: [the replacement national digital economy strategy is still under development](https://dig.watch/resource/national-strategy-for-the-development-of-the-digital-economy-in-mali-draft), leaving no interoperability roadmap, and sharing between government bodies [runs case by case with no overarching data governance framework](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf) (2023).
 
 ### Digital Identity and CRVS
+<!-- dpi.id -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| AES harmonised travel and identity document specifications | [Implemented](https://bamada.net/libre-circulation-dans-laes-validation-des-passeports-et-cartes-didentite-harmonises-par-les-ministres-de-la-securite) | Validated by the three security ministers at Bamako 2024-11-22 |
-| Cahier de recensement village register | [In development](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-29-sgg/) | Draft ordinance adopted by the Council of Ministers 2026-07-24 |
-| CIB-AES biometric identity card | [Piloting](https://afriktimes.info/2026/06/02/aes-diaspora-identification-successful-pilot-phase-in-bamako-for-the-instant-production-of-documents/) | Cross-border diaspora enrolment pilot in Bamako June 2026 |
-| E-AES biometric passport | [Implemented](https://www.lesahel.org/editorial-passeports-biometriques-aes/) | Five document categories issued to ICAO specification |
-| NINA national identity number | [Implemented](https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html) | Authenticates applications to the justice e-services |
+Mali's identity system enables no digital authentication at all: it [supports neither digital know-your-customer nor authentication through a government portal, and identity is verified by physical inspection of the document](https://dpimap.org/mali/) (2025). Behind it sits a biometric register of national scale — [5,733,428 biometric national identity cards produced against 8,463,084 people listed as eligible in the RAVEC database](https://bamada.net/situation-de-la-carte-didentite-nationale-biometrique-au-mali-5-733-428-cartes-disponible-sur-les-8-463-084-personnes-aptes-dans-la-base-de-donnees-du-ravec), roughly two-thirds, by August 2023.
+
+The credential rests on [Decree No. 2022-0639/PT-RM, which made the Carte Nationale d'Identité Biométrique Sécurisée compulsory from age 15, free on first issue and chargeable on renewal](https://www.irb-cisr.gc.ca/en/country-information/rir/Pages/index.aspx?doc=457155). Enrolment [captures fingerprints and a facial photograph, with no iris, a practice unchanged from the 2009-2011 RAVEC census to the 2025 biometric passport](https://dpimap.org/mali/). Malians nonetheless [rate the ease of obtaining an identity document at 69.9 out of 100, 8th of 54 African states and up 5.7 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), against a collapsing civil registration score.
+
+Ownership has been pulled home in one direction and pushed abroad in another. Mali [migrated the register in February 2024 to Mali Kura Biométrie, a sovereign platform built and maintained by Malian engineers, after a 2023 dispute in which IDEMIA was accused of withholding access to the RAVEC/NINA database](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/), and card production [is carried out by the Malian company M-SI, with Germany's Dermalog supplying equipment and training](https://www.maliweb.net/societe/carte-didentite-biometrique-du-mali-la-confection-est-assuree-par-une-societe-malienne-et-non-une-entreprise-allemande-3005191.html) (2024). Passport production went the other way, [moving from IDEMIA to China's Emptech in October 2025](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move/), presented as a sovereignty measure.
+
+Regionally Mali has changed camp. It [launched a common Alliance of Sahel States biometric passport with Burkina Faso and Niger on 29 January 2025, the day its exit from ECOWAS took effect](https://www.biometricupdate.com/202501/sahel-states-under-military-rule-unveil-common-biometric-passport-jan-29), and stands outside the ECOWAS foundational identity model, [the WURI programme being implemented by six other West African states with the Commission](https://wuri.ecowas.int/the-west-africa-unique-identification-for-regional-integration-and-inclusion-wuri-programme-to-hold-its-maiden-regional-sensitisation-and-awareness-event/).
+
+Coverage of non-citizens is partial: [refugees enrol through the National Refugee Commission and displaced people and returnees through the National Social Development Directorate, with no general provision for permanent residents or temporary workers](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf) (2023). The finance ministry [has no documented role in the system, which sits with territorial administration and security, and whole-of-government coordination on digital identity is weak](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf) (2023).
 
 ### Digital Payments and Fintech
+<!-- dpi.pay -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Cross-border remittances into mobile wallets | [Implemented](https://www.finextra.com/pressarticle/105780/terrapay-enables-cross-border-remittances-for-wave-mobile-money-users-in-mali) | TerraPay and Wave integration announced 2025-05-29 |
-| Digital pension payment | [Piloting](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) | Bank-payment pilot with BDM completed 2026-07-27 |
-| Moov Money prepaid Mastercard | [Implemented](https://afrique.le360.ma/economie/gitex-africa-2026-a-marrakech-moov-money-mali-lance-sa-carte-prepayee-co-brandee-en-partenariat-avec_BSK7BUJUVFG2PCVQA4FSPVIXRA/) | Launched at GITEX Africa 2026-04-09 |
-| Orange Money prepaid Mastercard | [Implemented](https://www.maliweb.net/economie/cooperation/monnaie-numerique-moderniser-les-paiements-3105976.html) | Launched with Orabank Mali 2025-06-05 |
-| TresorPay | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/mali-unveils-digital-platforms-for-payments-land-management) | Launched 2025-03-18 for identity fees and fines |
+[59.8% of Malian adults made or received a digital payment in the 2024 Global Findex round, against 38% in 2021](https://microdata.worldbank.org/catalog/7941/study-description) — while the network that serves them shrank, [mobile-money distributor numbers falling 46.34% during 2024, the steepest contraction in the UEMOA](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf), which the central bank puts down to [lower fees and commissions paid to distributors and the closure of inactive points](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf).
+
+Mali holds [10.7% of UEMOA e-money transaction volume and 11.7% of value, the value share down from 12.1% in 2023](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf), [7.29% of the accounts opened in the Union, served by nine issuing establishments](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) (December 2024), and is [the Union's third largest country for cross-border digital flows, with 17 million intra-UEMOA operations worth 1,054 billion FCFA in 2024](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf). Formal banking is another matter, [access to banking services scoring 19.2 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) after a ten-point gain over the decade.
+
+Instant payments arrived through the region: [six participants based in Mali were authorised at the launch of the BCEAO's PI-SPI platform on 30 September 2025](https://www.bceao.int/fr/communique-presse/liste-des-participants-autorises-ouvrir-les-services-de-pi-spi-au-public-30-sept-2025), and [eleven Malian banks, e-money issuers and microfinance institutions by April 2026, with onboarding compulsory for banks and e-money issuers from 30 September 2026 and for microfinance institutions from 30 June 2027](https://www.financialafrik.com/en/2026/03/05/instant-payments-pi-spi-in-the-waemu-updated-list-of-establishments-authorized-by-the-bceao/). Clearing and settlement are not Mali's to run: [the BCEAO operates SICA-UEMOA and STAR-UEMOA for all eight member states](https://www.bceao.int/en/content/payment-systems-management), and customer due diligence is set from Dakar by [BCEAO Instruction n° 003-03-2025 of 18 March 2025, binding banks, payment institutions, microfinance institutions and e-money issuers alike](https://www.bceao.int/sites/default/files/2025-04/Instruction%20n%C2%B0003-03-2025%20du%2018%20mars%2025relative%20%C3%A0%20l%27identification-%20la%20v%C3%A9rification%20de%20l%27identit%C3%A9%20et%20la%20connaissance%20de%20la%20client%C3%A8le%20par%20les%20institutions%20financi%C3%A8re.pdf).
+
+Government pushes money in faster than out. [An interministerial instruction of July 2024 mandates digital payment for a first list of public services, including taxes, fines, identity documents and passports](https://afrikinfos-mali.com/2024/07/23/mali-le-gouvernement-devoile-la-liste-des-premieres-obligations-de-paiement-numerique-dans-les-services-publics/), and civil registry centres [raised roughly FCFA 200 million that way between July 2024 and May 2026 across the local-government tier](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/). Disbursement is still at pilot scale: [the Jigisémèjiri mobile-money pilot in Mopti covered around 3,000 households and was framed as informing future scale-up in December 2023](https://blogs.worldbank.org/en/africacan/improving-cash-transfer-process-mobile-technologies-mali), [mobile payment of pensions, introduced in 2019, reaches pensions below FCFA 50,000](https://www.africascoop.net/index.php/2026/07/30/sante-le-mali-accelere-la-digitalisation-de-ses-services-publics/) (July 2026), and [digital financial services lack established mechanisms for handling consumer complaints](https://blogs.worldbank.org/en/africacan/digital-financial-services-can-bring-inclusion-and-growth-mali) (November 2023).
 
 ### Registries
+<!-- dpi.registry -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Birth registration | [Implemented](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | 89.5% registration across 747 functional primary centres |
-| National Agency for the Security of Civil Status Documents | [Implemented](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | Created in 2025 |
-| National diaspora skills directory | [Implemented](https://www.maliweb.net/politique/diplomatie/washington-dc-lancement-du-repertoire-numerique-des-competences-de-la-diaspora-malienne-3119417.html) | Launched at Washington 22 August 2026 |
-| SIF/GUF land information system and one-stop land office | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/mali-unveils-digital-platforms-for-payments-land-management) | Launched 2025-03-18 |
+[Mali's civil registration score fell 37.5 points over 2014-2023 to 25.0 out of 100, 50th of 54 African states and the sixth most deteriorated of the 96 indicators measured for the country](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023).
+
+The register it measures is a paper network. There are [747 primary civil status centres, 292 secondary centres and some 8,000 declaration points](https://www.aa.com.tr/fr/afrique/le-mali-se-dote-dun-syst%C3%A8me-informatique-souverain-de-gestion-des-donn%C3%A9es-de-l%C3%A9tat-civil/3136986) (2024), and rural offices and village declaration points [record births, deaths and marriages entirely on paper, forms travelling to council-level centres for later processing](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/Digitalization%20of%20Civil%20Registration%20and%20Vital%20Statistics%20in%20Africa.pdf) (2025). [A UNICEF-supported platform to consolidate birth, death and marriage registration nationally has been piloted in ten zones since 2022 and not rolled out countrywide](https://www.unicef.org/mali/en/stories/celebration-progress-birth-registration-mali) (2024), and [a July 2025 workshop with members of the Conseil national de transition accepted that digitalisation remains insufficient, connectivity, electricity and insecurity binding in rural areas](https://amap.ml/modernisation-de-letat-civil-au-mali-des-membres-du-cnt-en-atelier-de-sensibilisation/). [Birth registration completeness stood at 87%](https://www.dhsprogram.com/pubs/pdf/SR293/SR293.pdf) (2018). The answer so far has been institutional: [the Council of Ministers created an Agence nationale de sécurisation des actes d'état civil on 5 February 2025](https://bamada.net/conseil-des-ministres-du-5-fevrier-2025-creation-de-lagence-nationale-de-securisation-des-actes-detat-civil), [to improve the integrity and integration of civil registration records](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps).
+
+Other registers are uneven. The commercial register has been [computerised since September 2017 under an OHADA-backed programme](https://www.ohada.com/actualite/3724/ohada-mali-lancement-du-rccm-informatise-a-bamako.html?langue=en). The [NINACAD cadastral parcel-numbering system has run since its 2018 web-portal launch and remains in use for parcel identification](https://www.dgi.gouv.ml/du-ninacad-adresse-bientot-disponible-au-mali/) (2026), while [NINACAD-Adresse, launched in 2025, covers roughly 1.5 million locations concentrated in Bamako district and the towns of Kati, Ségou, Koulikoro, Markala and Sikasso](https://bamada.net/presentation-du-ninacad-adresse-pour-une-meilleure-organisation-du-territoire-et-des-services), leaving the rural majority and most business premises without a standardised address. The electoral roll is [a permanent biometric register drawn from the RAVEC population and civil registry databases, with biometric NINA cards used as voter identification](https://www.biometricupdate.com/202309/mali-postpones-elections-after-payment-dispute-with-idemia), and held [8,463,085 registered voters at the June 2023 constitutional referendum](https://electionguide.org/elections/id/4134/).
+
+Social protection has its own register, [established by decree in May 2022 to cover beneficiaries of contributory and non-contributory schemes alike](https://rsu.gouv.ml/portail/presentation/) and [still maturing, the most recent year of the World Bank-supported Sahel Adaptive Social Protection Programme spent strengthening its policy, systems and diagnostics](https://www.worldbank.org/en/programs/sahel-adaptive-social-protection-program-trust-fund/country-work/mali) (2025). Credit information is regional and private, Mali being [covered by BIC-UEMOA, the credit bureau spanning all eight UEMOA states](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux) (August 2026).
 
 ### Sectoral management information systems
+<!-- dpi.mis -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| National digital health portal | [Implemented](https://techgriot.co/english/african-tech/2026/07/mali-launches-a-national-digital-portal-to-modernize-healthcare-access/) | Launched 2026-07-08 under the health digital plan 2024-2028 |
-| OpenClinic health information system | [In development](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Presented 2025-09-16 |
-| Unique patient identifier | [Piloting](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) | End-to-end digitised circuit in one Bamako hospital |
+Police records in Mali are paper by statute: the [Code de Procédure Pénale in force since December 2024 requires judicial police officers to draft procès-verbaux by hand on the spot and sign them page by page, with paper custody registers kept at the station and originals transmitted physically to the prosecutor](https://sgg-mali.ml/codes/codeprocedurepenale.pdf). Mali also [takes part in the INTERPOL-led West African Police Information System, which converts existing paper police records into a centralised national digital database](https://www.interpol.int/ar/1/1/2015/West-African-Police-Information-System-launched-by-INTERPOL) (2024) — digitisation after the fact rather than at the point of capture.
+
+Health follows the same shape. [Rural community health centres record patient encounters predominantly on paper registers and client forms, with staff entering only aggregated monthly figures into the national DHIS2 platform in use since 2015-2016](https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Working_Groups/RHIS/B._Country-specific_documentation__case_studies__best_practices_/Community_HIS_country_case_studies/Case_studies/CS_Health_Data_Reporting_Challenges_in_Mali.pdf) (2025). [OpenClinic, launched and expanded in September 2025, manages clinical, financial, pharmaceutical, laboratory and statistical records across a subset of facilities](https://cadeproject.org/updates/mali-launches-new-digital-platforms-to-improve-access-to-public-services/), and [DISC-Mali has put tablet-based capture in the hands of community health workers for household visits since March 2023](https://medic.org/stories/asc-hawa-kone-changer-des-vies-avec-lapplication-de-sante-numerique-disc-mali/). One facility shows what a joined-up circuit looks like: [the Hôpital dermatologie de Bamako runs registration, laboratory, consultation and pharmacy on a single unique patient identifier with electronic payment at each step](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) (July 2026).
+
+Education repeats it: [rural primary schools record attendance, enrolment and grades by hand on forms physically distributed and collected, with entry into the national STATEDUC2 database happening at the regional education directorate rather than at the school](https://reliefweb.int/attachments/52de6f6c-85ed-41fb-94d9-19244bab25a8/Annuaire_Primaire_2023-2024_26_09_2024.pdf) (2024), and the education management information system [has no formal data-sharing protocol with the national statistics institute INSTAT and no link between learner records and any national data exchange](https://knowledgehub.adeanet.org/en/elibrary/adea2017d017) (2017). In agriculture, [the AgData Hub hosted by Mali-Météo and the electronically registered farmer database used for input subsidy e-vouchers remain standalone donor- and research-led systems with no interoperability with tax, land or civil registration](https://sti-portal.fao.org/innovations/agdatahubs-mali-leveraging-digital-platforms-integrate-climate-soil-and-crop-data) (2025).
 
 ### Other GovTech and e-Gov
+<!-- dpi.govtech -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| .ml country-code domain administration | [Implemented](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535) | 13,441 domain names across 30 registrars (2025-12) |
-| Diaspora services platform | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/mali-launches-digital-platform-to-streamline-services-for-its-diaspora) | Launched 2025-02-18 |
-| Government action monitoring and evaluation system | [Implemented](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) | First published evaluation covering the second half of 2025 |
-| Government Intranet | [In development](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535) | 13 services integrated (2025-12) |
-| Integrated human resources management system | [In development](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-29-sgg/) | Reported to the pan-African public administration forum July 2026 |
-| Online criminal record and nationality certificate | [Implemented](https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html) | Launched during the Week of Justice February 2026 |
-| SIGIP territorial administration data management | [In development](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Presented 2025-09-16 |
-| Sigui-Dolo driving licence and vehicle registration | [Implemented](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Presented 2025-09-16 |
+Mali's justice ministry [extended its judicial records system in February 2026 with nationwide online platforms for criminal record extracts and nationality certificates whose documents carry the same legal validity as those issued in person](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/), having launched the underlying case file system with the national ICT agency AGETIC in January 2025.
 
-<!-- narrative: dpi -->
-Identity runs through the confederation. The [E-AES passport is issued in five categories to ICAO specification](https://www.lesahel.org/editorial-passeports-biometriques-aes/), supplied by Emptech since October 2025; the [CIB-AES card was piloted in Bamako in June 2026 for Burkinabe residents](https://afriktimes.info/2026/06/02/aes-diaspora-identification-successful-pilot-phase-in-bamako-for-the-instant-production-of-documents/), on [specifications the three AES security ministers validated in November 2024](https://bamada.net/libre-circulation-dans-laes-validation-des-passeports-et-cartes-didentite-harmonises-par-les-ministres-de-la-securite). Domestically the [NINA number authenticates service applications](https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html), while [birth registration stands at 89.5% across 747 functional centres and death registration at about 20%](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps).
+Other services have followed in quick succession. [Sigui-Dolo, launched in September 2025, issues biometric driving licences and vehicle registration cards and is connected to the TrésorPay government payments platform for fee collection and to the SYDONIA customs system](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration). The tax authority's [e-Impôt platform, live since December 2021, carries tele-declaration and telepayment for large and mid-sized taxpayers at computerised tax centres, with online registration and digitised tax clearance certificates added from 2023](https://www.dgi.gouv.ml/16562-2/). [BAARA-ANPE, launched in June 2025, registers jobseekers, centralises their personal and professional data and matches them with employers nationally](https://menefp.gouv.ml/lancement-officiel-de-la-plateforme-digitale-baara-anpe-par-madame-le-ministre-oumou-sall-seck/). And [a platform opened in February 2025 lets the diaspora request administrative, identity and travel documents through diplomatic and consular missions](https://www.wearetech.africa/en/fils-uk/news/tech/mali-launches-digital-platform-to-streamline-services-for-its-diaspora). None of them can check a user against the identity register, which [offers no authentication through a government portal](https://dpimap.org/mali/) (2025).
 
-The base layer is older than any of that. A [draft ordinance adopted on 24 July 2026 formalises the cahier de recensement](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-29-sgg/), the hand-kept village register from which family record books are issued, replacing a 2006 statute — so civil registration still begins on paper.
-
-Service platforms are numerous and mostly unmeasured. [Online criminal-record and nationality certificates went live in February 2026](https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html) with an authenticity check against forgery; [Sigui-Dolo handles driving licences and vehicle registration](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) and is linked to TresorPay and the customs system; OpenClinic and SIGIP remain in build; a [national digital health portal launched in July 2026](https://techgriot.co/english/african-tech/2026/07/mali-launches-a-national-digital-portal-to-modernize-healthcare-access/), and [one Bamako hospital runs an end-to-end circuit on a unique patient identifier](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/).
-
-Payments have two state flows and one market. Pension payment has a completed bank-channel pilot; [digital payment at civil registry centres raised about FCFA 200 million between July 2024 and May 2026](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/), and every collectivite has been ordered to report within 30 days on why. In the market a [second telco-led prepaid card launched in April 2026](https://afrique.le360.ma/economie/gitex-africa-2026-a-marrakech-moov-money-mali-lance-sa-carte-prepayee-co-brandee-en-partenariat-avec_BSK7BUJUVFG2PCVQA4FSPVIXRA/). Against that, the BCEAO records Mali's [mobile-money distributor numbers down 46.34% in 2024, the steepest fall in the Union](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf), and its share of Union transaction value at 11.7%, down from 12.1%.
-
-Government's own systems are being wired together: [13 services on the AGETIC intranet and 13,441 domain names under .ml](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535), an integrated human-resources system in build, and a monitoring system that [published a completion rate of 43.43% for the second half of 2025](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/). A national public key infrastructure is recommended and not built. INSTAT runs [its own microdata catalogue — a NADA archive of 107 studies led by the 2022 census (August 2026)](https://microdata.instat.ml/index.php/catalog/).
-<!-- /narrative -->
+The measured position is well below that activity. Mali [scored 0.3005 on the UN E-Government Development Index in 2024, 173rd of 193 member states and below the African average](https://publicadministration.un.org/egovkb/en-us/data/compare-countries), and its [public administration sub-category — civil registration, statistical capacity, administrative effectiveness, revenue mobilisation and budget management — scored 46.6 out of 100 in 2023, 35th of 54 and down 7.4 points over a decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), with [effective administration the one component to improve materially, up 5.6 points to 48.2](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). The stated agenda is wider than what is running: the territorial administration ministry [named digitalisation of public services, modernisation of civil registration, dissemination of the new administrative map and improvement of basic social services as its four priorities in August 2026 and asked UNDP for reinforced support to deliver them](https://malijet.com/actualite-politique-au-mali/311342-mali-pnud-vers-un-renforcement-du-partenariat-autour-des-r.html), while the hosting is now domestic, with a [sovereign Tier III data centre inaugurated in Bamako in early 2026](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako/).
 
 ## Digitalisation
 
 ### Digitalisation of sub-national government
+<!-- digital.localgov -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Koutiala commune fiscal census and financial management digitisation | [In development](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/) | Presented to the commune 2026-03-06 |
+[Every Malian collectivité was ordered on 30 July 2026 to report within thirty days on how digital payment is functioning in each état civil centre — the difficulties met, the corrective measures taken, the equipment needed and what would improve it](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/). Local authorities must also [designate focal points to supervise digital payment at those centres and pass technical and financial information upward](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/). The territorial administration ministry [frames generalised digital payment as the instrument for ending fraudulent practice in local revenue collection](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/), and the order came alongside publication of [what the whole local-government tier had raised through the channel since July 2024](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/).
 
-<!-- narrative: digitalisation -->
-Sub-national digitalisation is one commune-level project: [a fiscal census and the digitisation of financial management at Koutiala](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/). Nothing on file extends it to other communes.
-<!-- /narrative -->
+Beneath that, digitalisation of the civil register is still partial. A [UNICEF-supported platform for consolidating birth, death and marriage records nationally has been piloted since 2022 without a countrywide rollout](https://www.unicef.org/mali/en/stories/celebration-progress-birth-registration-mali) (2024), and the [network of civil status centres and declaration points administered by the DNEC is still being digitised](https://www.aa.com.tr/fr/afrique/le-mali-se-dote-dun-syst%C3%A8me-informatique-souverain-de-gestion-des-donn%C3%A9es-de-l%C3%A9tat-civil/3136986) (2024). In December 2025 the [data protection authority opened its first office outside Bamako, an antenna serving the Ségou region](https://lessor.ml/posts/autorite-de-protection-des-donnees-a-caractere-personnel-la-region-de-segou-a-son-antenne-6932a107b56bd). The [ministry of territorial administration named digitalisation of public services, modernisation of civil registration and dissemination of the new administrative map among its priorities in August 2026, and asked UNDP for reinforced support to deliver them](https://malijet.com/actualite-politique-au-mali/311342-mali-pnud-vers-un-renforcement-du-partenariat-autour-des-r.html).
+
+### Rural digital data capture
+<!-- digital.rural -->
+
+Mali's [government data exchange and digital service work sits at national level and in Bamako and the larger towns, with rural areas held back by thin connectivity and by insecurity that deters investment in networks](https://www.digitaldevelopment.org/countries/mali/) (2024). At the rural service point itself the record is still made on paper: [village declaration points and rural civil registry offices write births, deaths and marriages onto forms carried to council-level centres for later processing](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/Digitalization%20of%20Civil%20Registration%20and%20Vital%20Statistics%20in%20Africa.pdf) (2025); [rural primary schools keep attendance, enrolment and grades on paper forms distributed and collected by hand, with entry into the national education database happening at the regional directorate rather than at the school](https://reliefweb.int/attachments/52de6f6c-85ed-41fb-94d9-19244bab25a8/Annuaire_Primaire_2023-2024_26_09_2024.pdf) (2024); and [rural clinics keep paper registers and client forms, passing only aggregated monthly figures into the national health platform](https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Working_Groups/RHIS/B._Country-specific_documentation__case_studies__best_practices_/Community_HIS_country_case_studies/Case_studies/CS_Health_Data_Reporting_Challenges_in_Mali.pdf) (2025). Digitisation begins one tier above the place where the fact is observed.
+
+The breaks in that pattern run through donor-built systems rather than the administration. [Community health workers have carried tablet-based capture for household visits since March 2023](https://medic.org/stories/asc-hawa-kone-changer-des-vies-avec-lapplication-de-sante-numerique-disc-mali/). Mali's [agricultural data holdings — a hub hosted by Mali-Météo integrating climate, soil and crop data, and an electronically registered farmer database used for input subsidy e-vouchers — are standalone systems that do not connect to tax, land or civil registration](https://sti-portal.fao.org/innovations/agdatahubs-mali-leveraging-digital-platforms-integrate-climate-soil-and-crop-data) (2025).
+
+None of this has stopped rural Mali scoring well on the things the register does not hold. [Rural Economy is the country's strongest Ibrahim Index sub-category by a wide margin, at 69.4 out of 100 and 13th of 54 African states, up 11.1 points over 2014-2023 — the largest ten-year gain of any of its sixteen sub-categories](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023). [Rural market access, the ability of producers to reach markets and market information, reached 75.6 and 10th place](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023), and [rural representation and participation 80.5 and 8th place, up 17.4 points over the same decade and Mali's fourth most improved indicator](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023). What has not moved with them is the physical basis for capture: [rural electricity access remains far below the urban rate](https://countrydatahub.com/countries/mali/indicators) (2023), and [4G population coverage is well short of universal](https://www.digitaldevelopment.org/wp-content/uploads/2023/09/ddd_MLI.pdf) (2021).
 
 ## Technology
 
 ### AI
+<!-- tech.ai -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Centre d'intelligence artificielle et de robotique | [Implemented](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) | Demonstrated a locally built intrusion-detection technology 2026-08-01 |
-| Francophone West African AI governance guidelines | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Adopted with five other states 2026-07-09 |
-| MIA operator AI assistant | [Implemented](https://www.ecofinagency.com/news-digital/1506-56460-moov-africa-upgrades-fiber-service-amid-rising-internet-use-in-mali) | Launched 2026-06-15 |
-| National AI strategy | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
+Mali's tax authority set out artificial intelligence as an ambition rather than a working tool in November 2025, describing [a planned data warehouse with business intelligence and artificial intelligence tools to detect inconsistencies and combat fraud](https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html), with no date attached to it. Revenue collection, not service delivery, is where the state has put the idea first.
 
 ### ICT Industry
+<!-- tech.industry -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| State shareholding in SOTELMA | [Implemented](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm) | State stake raised from 49% to 56% for FCFA 160bn |
+Mali's economic diversification score fell 28.5 points over 2014-2023 to [18.3 out of 100, 53rd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), placing it among both the country's ten worst-scoring and ten most deteriorated indicators (2023). The industrial base is narrowing rather than broadening, which is the setting any account of a technology sector here has to start from.
+
+The rules moved the same way, less far. [Business and competition regulations scored 51.5 out of 100, ranking 30th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), down 8.8 points across the same decade, inside a business and labour environment sub-category scoring 39.9 and ranked 38th (2023). Mali is mid-table on the regulatory frame and second from last on what the economy actually produces, so the constraint on a technology industry is not principally the rulebook.
+
+What that sector consists of is not counted: [the enterprise sector has no statistical frame](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023), so firm numbers, employment and turnover for anything called an ICT industry rest on no official measurement. The organised activity that is visible sits in a [small hub and incubator layer](https://new.afrilabs.com/index.php/hub_country/mali/) (2026) rather than in enumerated firms.
 
 ### Innovation ecosystem
+<!-- tech.innovate -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Citizen content reporting and checking application | [Implemented](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html) | Launched alongside the closing report of a digital campaign |
+The newest visible output of Mali's innovation ecosystem came from civil society, not from a firm or a state programme: Women Tech Mali launched [Citoyens 2.0, an application for countering disinformation, in August 2026](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html), alongside a public campaign titled "Le vrai avant le viral".
 
-<!-- narrative: technology -->
-Mali has no national AI strategy. One was [recommended on 1 August 2026](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), and the only AI-governance instrument the country has joined is the [Francophone West African guidelines adopted with five other states in July 2026](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). The [Centre d'intelligence artificielle et de robotique](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) has one demonstration on record, of a locally built intrusion-detection technology; the other AI system on the ledger is an [operator's customer assistant launched in June 2026](https://www.ecofinagency.com/news-digital/1506-56460-moov-africa-upgrades-fiber-service-amid-rising-internet-use-in-mali).
-
-The sector's largest movement was ownership rather than technology. The state [raised its stake in SOTELMA from 49% to 56% for FCFA 160bn in June 2026](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm), cutting Maroc Telecom to a minority 17 years after privatisation, and the [passport supplier changed from Idemia of France to Emptech of China in October 2025](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move), which officials described as regained sovereignty and local data management. No United States or India bilateral digital instrument is held. UAE operator e& [committed $6bn to the ITU's Partner2Connect coalition across 16 markets including Mali and Niger, in March 2024](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/), undivided, with no Mali-specific figure.
-<!-- /narrative -->
+The organised part of that ecosystem is a hub layer. [Impact Hub Bamako, Jokkolabs Mali, Nyetaa Mali and Expert'labs Mali](https://new.afrilabs.com/index.php/hub_country/mali/) are among the Malian hubs on AfriLabs' membership list, with an Orange Digital Center and a university incubator alongside them (2026). Against international measurement the country places [131st in WIPO's Global Innovation Index 2024](https://www.wipo.int/edocs/gii-ranking/2024/ml.pdf), in the bottom quartile of the ranked economies.
 
 ## Capacity
 
-### Training and skills
+### Literacy
+<!-- capacity.literacy -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digital-skills programme for 15,000 young people | [In development](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) | First cohort recruitment opened 2026-08-01 |
-| Teacher-training institute ICT equipment | [Implemented](https://www.unesco.org/fr/articles/lunesco-remet-des-equipements-et-materiels-informatiques-au-ministere-de-leducation-nationale-au) | Handover of FCFA 88,740,927 of equipment to eight institutes 2026-07-30 |
+Human Resources in Education is the [single one of the Ibrahim Index's 96 indicators for which Mali returns no data at all](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), so its teacher supply and qualification cannot be scored or ranked (2023).
+
+Where Mali is scored, the direction is down. Education quality [fell 7.5 points over 2014–2023 to 19.0 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 46th of 54 African states, and enrolment stands at [21.5, 47th and 2.0 points lower than a decade earlier](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) — even as the education sub-category as a whole rose 2.8 points to 36.3, Mali's third worst sub-category score of any measured (2023).
+
+Use of the internet by adults is roughly two in five: [42% used it at some frequency and 25% used it daily, while 58% had never used it at all](https://www.afrobarometer.org/wp-content/uploads/2023/02/Resume-des-resultats-Mali-Afrobarometer-R9_07FEVRIER2022.pdf) (2022).
+
+Schooling itself is barely digitised, with rural primary schools still [keeping attendance, enrolment and grades on paper](https://reliefweb.int/attachments/52de6f6c-85ed-41fb-94d9-19244bab25a8/Annuaire_Primaire_2023-2024_26_09_2024.pdf) and the national education database reached only at regional directorate level (2024).
+
+### Training and skills
+<!-- capacity.training -->
+
+Tertiary computer science is taught in the private sector as well as the public one: the [Université du Sahel in Bamako runs a dedicated faculty of computer science](https://www.universitesahel.net/facultes/faculte-informatique/) in the capital. What feeds those programmes is the constraint — the quality of Malian schooling [fell steadily over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) and now sits among the lowest-scoring education systems on the continent.
+
+Inside the state, training has come agency by agency rather than as a programme. The compulsory health insurance fund CANAM [closed a session on personal-data management, cybersecurity and protection against leakage and unauthorised access](https://malijet.com/la_sante_au_mali/311528-protection-des-donnees-la-canam-cloture-une-formation-dedi.html) on 28 August 2026, delivered by a private firm. Card and payment operations training under a [BCEAO programme](https://www.bceao.int/sites/default/files/2025-06/Rapport_2022-2023_sur_les_IMF-Moyens-Services_de_Paiement-VF_compressed.pdf) was completed at all the Malian sites concerned, alongside five other UEMOA members (2023).
+
+The state's own record of who is looking for work was digitised in mid-2025, when the National Employment Agency launched [a platform to register jobseekers and match them with employers nationally](https://menefp.gouv.ml/lancement-officiel-de-la-plateforme-digitale-baara-anpe-par-madame-le-ministre-oumou-sall-seck/).
 
 ### Research institutions
+<!-- capacity.research -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Higher-education and research digital capacity | [In development](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf) | Universite Numerique du Mali strategic framework and action plan validated 2024-05-07 |
-
-<!-- narrative: capacity -->
-Higher-education and research digital capacity rests on a [national policy document naming a Universite Numerique du Mali strategy](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf) rather than on delivered provision. No enrolment, platform or funding line is held.
-<!-- /narrative -->
+Mali ranked [131st in the Global Innovation Index in 2024](https://www.wipo.int/edocs/gii-ranking/2024/ml.pdf), in the bottom quartile of the ranked economies.
 
 ## Inclusion
 
 ### Access to services
+<!-- include.access -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Citoyens 2.0 digital participation project | [Implemented](https://maliexpress.net/numerique-et-participation-citoyenne-le-projet-citoyens-2-0-au-de-la-capitalisation-des-acquis/) | Capitalisation stage 2026-08-29 |
+Mali's score for whether public services reach citizens irrespective of group or location [fell 4.2 points over 2014-2023, to 30.4 out of 100 and 39th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023). Services reach people less evenly than they did a decade earlier, on a measure where most of the continent moved the other way.
+
+The clearest gain is legal. Mali [adopted a dedicated statelessness law in June 2025](https://reliefweb.int/report/mali/unhcr-applauds-malis-adoption-landmark-law-protect-stateless-people) creating a pathway to registration and nationality, and since 2017 nearly 2,400 people at risk of statelessness have been naturalised and more than 30,000 have received birth certificates and other civil documents. Enrolment routes also exist for [refugees through the National Refugee Commission and for displaced people and returnees through the National Social Development Directorate](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf), though no general provision extends registration to other non-nationals such as permanent residents or temporary workers (2023).
+
+Price is the barrier that binds hardest on the services that do exist. A high-consumption mobile data basket costs [51.5% of gross national income per capita](https://www.itu.int/en/ITU-D/Statistics/Documents/ICT_Prices/ITU_ICTPriceBaskets_Allowance_2025.xlsx), against an affordability threshold of 2% (2025). For a household at or near the average income, a data plan of that size is not a purchasing decision.
+
+Digital delivery of state payments has not moved past pilot scale: [mobile-money disbursement of social transfers in Mopti](https://blogs.worldbank.org/en/africacan/improving-cash-transfer-process-mobile-technologies-mali) was still being framed as informing a future scale-up in December 2023, with cash, vouchers and mobile money in parallel use. Where digital financial services do reach people, [recourse mechanisms for handling consumer complaints are not established](https://blogs.worldbank.org/en/africacan/digital-financial-services-can-bring-inclusion-and-growth-mali) (November 2023), and the [standardised digital addressing launched in 2025](https://bamada.net/presentation-du-ninacad-adresse-pour-une-meilleure-organisation-du-territoire-et-des-services) covers Bamako district and a handful of towns, leaving the rural majority and most business premises without an address a service can be delivered to.
 
 ### Digital divides
+<!-- include.divides -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Women's digital-training target | [Planned](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | 70% by 2032 target set in the IFC-led loan |
+Women's access to public services in Mali scored [13.3 out of 100 in 2023, 47th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), placing it among the country's ten worst-scoring governance indicators even after a rise of 4.3 points over the preceding decade. It is the sharpest of Mali's inclusion divides and the one least visible in the connectivity figures.
 
-<!-- narrative: inclusion -->
-AGEFAU, the universal access fund, [signed two four-year conventions with the education and employment ministries](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/), committing it to connect every secondary, technical and vocational school by end-2027. The fund sits under direct Primature tutelle, an arrangement a [named-analyst investigation dates to 2012](https://www.maliweb.net/contributions/deviations-institutionnelles-et-oligopole-du-numerique-en-afrique-de-louest-la-manne-sequestree-aux-origines-de-la-captation-du-fonds-dacces-universel-au-mali-3118719.html) and contrasts with the regulator-attached funds of neighbouring states.
+The use divide runs almost as deep. [58% of Malian adults reported never using the internet, with 42% using it at some frequency and 25% doing so daily](https://www.afrobarometer.org/wp-content/uploads/2023/02/Resume-des-resultats-Mali-Afrobarometer-R9_07FEVRIER2022.pdf) (2022). The pattern behind that is a country whose mobile reach has improved fast while its internet use has not: Mali's mobile communications score [rose 19.9 points over 2014-2023 to 60.5 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), its second most improved indicator of 96, while its internet and computers score reached only [31.8 out of 100 on the same measure](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) (2023) despite a comparable rate of improvement. Coverage has arrived; use has not followed it.
 
-Skills programmes are being opened faster than they are being measured. Recruitment for the first cohort of a [15,000-youth programme with the Association Kabakoo opened on 1 August 2026](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0); an operator reports [350 graduates placed](https://www.maliweb.net/formation-professionnelle/metiers-au-numerique-orange-met-350-jeunes-talents-sur-le-marche-du-travail-3118599.html); and eight teacher-training institutes received [FCFA 88,740,927 of Japan-funded equipment](https://www.unesco.org/fr/articles/lunesco-remet-des-equipements-et-materiels-informatiques-au-ministere-de-leducation-nationale-au) with no maintenance, connectivity or software provision stated. The IFC-led loan carries a [70%-by-2032 women's digital-training target](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) with no interim figure. A [2009 ministry policy document recorded no long-term national research strategic plan](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf), against a 1:100 teacher-student ratio at Bamako. [UNESCO backed validation of a strategic framework for the planned Université Numérique du Mali in May 2024](https://www.unesco.org/fr/articles/lunesco-soutient-loperationnalisation-de-luniversite-numerique-du-mali), citing 132,186 students across 16 institutions and an 81:1 ratio against its own 25:1 norm; no creation decree has followed.
-<!-- /narrative -->
+Geography is the divide that has moved least. [Government data exchange and digital service initiatives remain concentrated at national level and in Bamako and the major cities](https://www.digitaldevelopment.org/countries/mali/), with rural areas held back by thin connectivity and by insecurity that deters network investment (2024). Beneath that sits the [urban-rural split in electricity access](https://countrydatahub.com/countries/mali/indicators), which settles whether a household can power a device at all before any question of coverage or price arises.
 
 ## Data
 
 ### National statistics
+<!-- data.statistics -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| External support to the fifth population and housing census | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0201) | Special review committed, April 2024, on an agreement first funded in 2018 |
-| INSTAT microdata catalogue | [Implemented](https://microdata.instat.ml/index.php/catalog/) | 107 studies held in INSTAT's own NADA archive as of capture 2026-08-10 |
+Mali's statistical system uses data far better than it collects it: on the World Bank's Statistical Performance Indicators it [scores above 89 per cent on data use and between 50 and 69 per cent on data services and products, but only 20 to 49 per cent on both data sources and data infrastructure](https://www.worldbank.org/en/programs/statistical-performance-indicators), the two pillars that measure the collection systems underneath (2023). The gap shows most plainly in the enterprise sector, which has had [no business or establishment census in twenty years and no such survey in the last ten](https://www.worldbank.org/en/programs/statistical-performance-indicators), leaving firms without a statistical frame even as household, labour force, health and agricultural surveys were fielded three or more times over the same decade (2023).
+
+The fifth general population and housing census, which Malian law requires every ten years and which was planned for fieldwork in 2019, [only concluded in 2022](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0101), delayed by the country's infrastructure and security conditions. Sweden, which [co-funded it through INSTAT](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0101), then paid for a [separate special review of the census at SEK 599,826](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0201), an activity opened and closed within 2024.
+
+The state's ability to count what it governs has not moved in a decade: Mali's [capacity of the statistical system score stood at 32.5 out of 100 in 2023, 46th of 54 African states and 0.2 points below where it was ten years earlier](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). Connectivity inside the system is improving, with [internet access across the structures of the National Statistical System, coordinated by INSTAT under Law No. 2016-005, reaching 63 per cent in 2024 from 49 per cent in 2023](https://www.instat-mali.org/laravel-filemanager/files/shares/ca/rap-act-statistique-2024_ca.pdf), while intranet links and working websites remain scarce across many member bodies.
+
+Where the numbers begin, capture is still on paper. Rural primary schools [record attendance, enrolment and grades on forms carried to and from the regional education directorate](https://reliefweb.int/attachments/52de6f6c-85ed-41fb-94d9-19244bab25a8/Annuaire_Primaire_2023-2024_26_09_2024.pdf), where they are keyed into the national education database (2024), and rural clinics [keep patient encounters on paper registers and send only aggregated monthly totals to the national DHIS2 platform](https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Working_Groups/RHIS/B._Country-specific_documentation__case_studies__best_practices_/Community_HIS_country_case_studies/Case_studies/CS_Health_Data_Reporting_Challenges_in_Mali.pdf) (2025). A peer review of the education management information system found it had [no formal data-sharing protocol with INSTAT](https://knowledgehub.adeanet.org/en/elibrary/adea2017d017) (2017).
 
 ### Open data
+<!-- data.open -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Open-data portal or policy | ***Not held, searched 2026-08-10 — no single access-to-information law found; the right is split across Loi 98-012, Loi 2013-015 and Loi 2017-062*** | — |
+The state has grown less forthcoming about its own affairs over the past decade. Mali's [disclosure of public records score, which measures whether budgets, assets and official information are published proactively, stood at 21.4 out of 100 in 2023, 42nd of 54 African states and 5.1 points down over ten years](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). What a citizen can obtain by asking has moved the other way, [accessibility of public records rising 3.9 points to 32.3 out of 100 over the same period, 24th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) — better than most of the continent at answering a request, near the bottom at volunteering anything unasked.
+
+Published statistics are strongest where the money and the crops are: in the 2024 Open Data Inventory, [government finance, price indexes and agriculture each score 7.5 out of 10, while health outcomes and money and banking reach 4.5 and trade 4](https://odin.opendatawatch.com/data). [No openness score is recorded at all for energy, pollution or the digital and communications category](https://odin.opendatawatch.com/data) (2024).
+
+Nothing sits above these publications as a rule. Data sharing between government bodies is [ad hoc, with no overarching data governance framework, and a Malian has no way to see what the national identity database holds on them or who has looked at it](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf) (2023).
 
 ### Use of satellite data
+<!-- data.satellite -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Integrated national MRV system for the climate contribution | [In development](https://mediaelles.com/environnement-vers-la-finalisation-la-creation-du-systeme-national-mrv-integre-de-la-cdn/) | Creation of the system moving to finalisation by decree, August 2026 |
-
-<!-- narrative: data -->
-The one satellite-data instrument on record is the [integrated national measurement, reporting and verification system for the climate contribution](https://mediaelles.com/environnement-vers-la-finalisation-la-creation-du-systeme-national-mrv-integre-de-la-cdn/), whose creating decree is being finalised.
-<!-- /narrative -->
+Mali's earth observation and geospatial holdings sit almost entirely in agriculture and weather. The [AgData Hub hosted by Mali-Météo brings climate, soil and crop data together, and a separate electronically registered farmer database drives input subsidy e-vouchers, both standalone donor- and research-led systems with no interoperability with tax, land or civil registration systems](https://sti-portal.fao.org/innovations/agdatahubs-mali-leveraging-digital-platforms-integrate-climate-soil-and-crop-data) (2025).
 
 ## Geopolitics
 
 ### US / hyperscaler activities
+<!-- geopol.usa -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| United States bilateral digital cooperation | ***Not held*** | — |
+USAID commissioned [a Digital Ecosystem Country Assessment of Mali](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-1-72068823LA00001) in 2023, examining digital infrastructure, the regulatory environment and digital economy development in order to shape its own programming.
 
 ### China activities
+<!-- geopol.china -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Foreign supplier of national identity documents | [Implemented](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move) | Emptech replaced Idemia as passport supplier October 2025 |
+China supplies both the finance behind Mali's national backbone and the vendor that prints its passports: production of the biometric passport [moved from France's IDEMIA to China's Emptech in October 2025](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move/), a switch the government presented as a digital sovereignty measure while leaving the credential in the hands of a foreign supplier.
+
+The finance runs through the Mali Digital 2020 Project, [a concessional loan signed with the Export-Import Bank of China on 28 September 2018](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0) with China International Telecommunications Construction Corporation as the commercial contractor. The scope agreed that year reached well beyond connectivity: [intercity fibre](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0) linking Kidal, Gao and Timbuktu to Mopti and running out along the Algerian, Guinean and Burkinabè border routes, an urban fibre network interconnecting government institutions, [an electronic identity card system](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), and [a camera surveillance network with a secure internal communications channel for the government](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0). One foreign lender therefore stood behind the state's long-distance network, its government intranet, an identity credential and a surveillance capability at the same time.
+
+[Completion has never been publicly confirmed](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0): the project carried a 2020 completion date, and the last documented visit to the works was by China's ambassador in February 2019.
+
+<!-- derived -->
+The Eximbank loan is one of the two transactions that dominate Mali's digital finance by value (September 2026), at roughly USD 187 million against about USD 256 million for Maroc Telecom's renewal of the Sotelma licence, and well ahead of the IFC's roughly USD 79 million.
 
 ### EU activities
+<!-- geopol.eu -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EU multiannual indicative programme 2021-2027 | [Discontinued](https://international-partnerships.ec.europa.eu/countries/mali_en) | European Commission country page states Mali is funded from the central-Sahel complex-settings allocation for 2025-2027 rather than a dedicated country programme |
+The European Union had no digital-sector financing commitment or cooperation programme in Mali as at September 2026.
 
 ### Gulf/UAE activities
+<!-- geopol.gulf -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| e& Partner2Connect digital-infrastructure pledge | [Implemented, undivided among 16 markets](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | $6bn pledged to ITU's Partner2Connect coalition across 16 markets 2024-03-01 |
+No Gulf state or Gulf-based development financier had a digital-sector financing commitment in Mali as at September 2026.
 
 ### India activities
+<!-- geopol.india -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| India bilateral digital cooperation | ***Not held*** | — |
-
-<!-- narrative: geopolitics -->
-No India bilateral digital cooperation is held for Mali. The base carries no instrument under this heading at all, which is a statement about the record rather than about the country's external relations.
-<!-- /narrative -->
-
-## Gaps to fill
-
-| System or instrument | What would settle it | Last probed |
-|---|---|---|
-| National Data Centre capacity | A rack, floor-area, power or storage figure for Mali's Tier III National Data Centre, from the digital economy ministry, AGETIC or the builder. | 2026-08-10 |
-| Open-data portal or policy | A Malian government open-data portal, open-data policy or right-to-information instrument, or an official statement that none exists. | 2026-08-10 |
-| United States bilateral digital cooperation | A US government programme document, agreement or funding decision on digital or data cooperation with Mali after the 2023 Digital Ecosystem Country Assessment. | 2026-08-10 |
-| India bilateral digital cooperation | A bilateral memorandum, DPI cooperation programme or ministerial readout naming a Mali-India digital instrument. | 2026-08-10 |
-
-<!-- narrative: gaps -->
-Four rows carry no reliable statement of status. The National Data Centre's availability figure is published but its rack, floor-area or power figure is not. No open-data portal or policy is held: an academic evaluation finds no single access-to-information law, the right split across three statutes. The remaining two are bilateral — whether any United States or India digital instrument exists at all.
-<!-- /narrative -->
+India had no digital-sector financing commitment or cooperation programme in Mali as at September 2026.
