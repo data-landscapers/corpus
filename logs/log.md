@@ -37,6 +37,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-04 08:04 · render · 5m · 251 report docs, home, 54 country + 8 region pages, catalogue 16730, finance 1344 deals, topics 38, bulletin empty window, 27 editions pruned - ok
 2026-09-04 07:59 · build · 1h21m · catalogue 16730, 1214 sources considered across 24 units, 445 rows minted and 268 indicators opened; stopped at EGY on request, 8 units left - ok
 2026-09-04 06:36 · progress-filler · 9m · TUN triggered a third time, already searched 09-03; verified on disk (82/82 gaps, 163 files, no subject moved), nothing re-bought. Fixed both defects driving the re-trigger: lint heuristic ran over exactly-settled files; filler-batch read a correct no-CSV run as failure.
 2026-09-04 02:54 · progress-filler · 52m · STP, nine slices: 94/94 gaps searched, one nil. 202 selections/133 files after cap (68 baseline, 65 progress). 4 duplicate URLs merged, lint clean. Note 118 [ACT] warns the 16 drop-list rows would blacklist STP's own government. UNDELIVERED.
