@@ -1,14 +1,14 @@
 ---
 type: doc
 title: Known defects in prep/africa-dpi-data.csv
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-04
 ---
 
 # Known defects in `prep/africa-dpi-data.csv`
 
 *(**Moved here from the OSINT notes queue on 2026-08-20**, where it had been sitting as note 11 and part of note 15 since 2026-08-15. It was never OSINT's: `prep/africa-dpi-data.csv` is a **Corpus** file holding a third-party dataset, OSINT keeps no copy, and there was nothing there to repair. Recording it here is what the misfiling should have been from the start — `STATUS-INIT` reads this file on every country, so the defects want stating where the next run will meet them.)*
 
-**This is not a defect list to fix, with one exception that proves the rule.** The data is a third party's and Corpus does not correct it; a correction would be an unsourced claim wearing a dataset's authority. The exception is the **mojibake** below, which is not a claim at all but the third party's own bytes decoded wrongly, and is therefore repaired rather than described. What this file does is tell a `STATUS-INIT` run what it is looking at, so a run neither trusts a bad cell nor spends a second country rediscovering the same fault. Confirmed across **eight countries** — NGA, SEN, TZA, CIV, MAR, EGY, SWZ and one more — which is what makes them structural rather than incidental.
+**This is not a defect list to fix, with one exception that proves the rule.** The data is a third party's and Corpus does not correct it; a correction would be an unsourced claim wearing a dataset's authority. The exception is the **mojibake** below, which is not a claim at all but the third party's own bytes decoded wrongly, and is therefore repaired rather than described. What this file does is tell a `STATUS-INIT` run what it is looking at, so a run neither trusts a bad cell nor spends a second country rediscovering the same fault. Confirmed across **eleven countries** — NGA, SEN, TZA, CIV, MAR, EGY, SWZ and one more, then BDI, MDG and GNB on 2026-09-04 — which is what makes them structural rather than incidental. The `govtech-*` family returned exactly **one** usable fact on each of those last three, from 149 rows apiece.
 
 ## The `govtech-*` family — 149 rows a country, one URL
 
@@ -85,6 +85,18 @@ python scripts/lint-mojibake.py --fix          # repair the inputs in place
 ```
 
 Two things in it are worth knowing before trusting it. **A run of one character is never touched** — a lone `é` is a letter, and the signature is two or more adjacent high characters that decode as valid UTF-8 *together*; that test is what let it repair 92 sequences in this file while leaving 3,420 correct accented characters and 36 legitimate Portuguese `çã`/`çõ` pairs alone. And **cp1252's five undefined bytes** (`0x81 0x8D 0x8F 0x90 0x9D`) are read back through a latin-1 fallback, without which a strict encoder skips any run containing one and five accented characters survive the repair looking clean — the hole that had been sitting in OSINT's own guard until 2026-08-20. A `.pre-mojibake` copy is written beside any input it rewrites, because `prep/` is gitignored and there is no history to fall back on.
+
+## A cited source can be for a *different country*, and only the URL says so
+
+*(Found 2026-09-04 on the GNB run, the first time this class has appeared.)*
+
+`ict-innovation-gii` for **Guinea-Bissau** carries WIPO's Global Innovation Index country page for **Guinea** — `gii-ranking/2025/gn.pdf`. `gn` is Guinea; Guinea-Bissau is `gw`. The row is otherwise well formed: it has a value, a year and a live URL from an authoritative publisher, and every check short of opening the PDF and reading whose country it is passes.
+
+**This is worse than a dead link, because a dead link announces itself.** A mis-attributed live source produces a fact that is true of somewhere else, correctly formatted, correctly linked, and undetectable by any of `status-check.py`'s tests — check A asks whether the URL is *held*, not whether it is *about this country*. The extraction agent caught it only because it read the URL rather than the value.
+
+**The rule it implies, for `iiag-*`, `gii-*` and any other index row whose URL encodes a country code**: read the country code in the URL against the country being written, and drop the row where they disagree. Do not repair the URL to the right country's page — that would be substituting a source the dataset does not cite, which is a fabrication however plausible.
+
+Two countries in this dataset are especially exposed to this because their short names collide: **Guinea (GIN)**, **Guinea-Bissau (GNB)** and **Equatorial Guinea (GNQ)**, the last of which is still to be run. **Congo (COG)** and **DR Congo (COD)** are the other pair worth checking.
 
 ## What this costs, and why the dataset is still used
 
