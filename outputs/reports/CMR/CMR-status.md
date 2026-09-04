@@ -1,14 +1,14 @@
 ---
 title: Cameroon — digital transformation and data governance status report
-compiled: 2026-08-31
+compiled: 2026-09-04
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 187
+sources_cited: 189
 sections_written: 37
-not_established: 3
+not_established: 2
 acquire_lines: 59
 ---
 ## Governance
@@ -376,4 +376,4 @@ No Gulf state, sovereign fund or Gulf-owned company held a financing, infrastruc
 ### India activities
 <!-- geopol.india -->
 
-No Indian-financed or Indian-supplied digital infrastructure was in place in Cameroon as at August 2026, and no bilateral digital agreement with India was in force.
+India's one valued instrument in Cameroon is nineteen years old. The [Pan-African e-Network country accord was signed on 3 September 2007 by the Minister of External Relations, against a commitment from the Government of India of FCFA 1,400,000,000 covering network implementation, recurring costs and five years' maintenance](https://www.minpostel.gov.cm/index.php/fr/les-grands-chantiers/135-presentation-du-projet-panafricain-des-services-en-ligne). Nothing reports what it delivered or whether it still runs. The relationship is live at ministerial level without being live on the ground: India's Commerce and Industry Minister [named digital technologies among areas for expanded cooperation when he met the Prime Minister at WTO MC14 in Yaounde on 26 March 2026](http://www.cameroon-tribune.cm/article.html/75812/en.html/cameroon-india-expanding-cooperation), which is an expression of interest and not an instrument.
