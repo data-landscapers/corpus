@@ -4,3 +4,5 @@ SLE,2026-09-04T06:17:26,4.6,PROBLEM,,,,,66,94,04/09/2026,2.17,41,2acb86d8-2b76-4
 TUN,2026-09-04T06:27:13,10.3,PROBLEM,,,,,60,103,03/09/2026,4.27,69,bf73cd2c-52e2-4133-aef0-c37b269c07c0,no run CSV written; lint-staged-queue: exit 3221225794
 TUN,2026-09-04T06:42:35,8.4,PROBLEM,82,82,0,0,60,103,03/09/2026,3.45,54,400f9550-0d82-47ed-8fe2-936bc41bd76f,Corpus tree left uncommitted:  M outputs/reports/GNQ/GNQ-progress.md
 SLE,2026-09-04T06:51:01,7.0,PROBLEM,81,81,0,0,66,94,04/09/2026,3.55,47,c3738051-419a-4134-98fe-c05ba74cf6e7,Corpus tree left uncommitted:  M outputs/reports/SEN/SEN-progress.md
+TUN,2026-09-04T07:03:07,6.2,ok,82,82,0,0,60,103,03/09/2026,2.38,35,ac628d59-d483-4cd2-aff4-649becd64e77,
+SLE,2026-09-04T07:09:19,4.2,ok,81,81,0,0,66,94,04/09/2026,2.00,33,725fe321-ae93-48b7-9c68-e1a0b56febe7,"warning: Corpus tree dirty in 1 file(s) this run does not write:  M outputs/reports/CIV/ledger.csv — another process's, and re-running SLE cannot commit it"
