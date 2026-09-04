@@ -1,15 +1,15 @@
 ---
 title: AI — monthly update, August 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 subject: tech.ai
-places: DZA; BEN; BFA; CMR; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: c60baef48feb
+places: DZA; BEN; BFA; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: f80e49961bcd
 ---
 
 # AI: monthly update, August 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -36,6 +36,12 @@ Asked in plenary where artificial intelligence sat in the new data-protection la
 Cabinet was told on 30 July that the [national AI strategy is still being developed, with ten priority areas and a costed roadmap tabled](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and no adoption instrument published; a 2040 roadmap on seven pillars had been presented in July 2025. The [AI authority and presidential council that roadmap provided for remain uncreated](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and are absent from the ten priorities, which carry only adaptation of the legal framework. Among the priorities is a [national high-performance computing centre](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy), announced with no site, cost, operator or timetable. At the same session the telecommunications minister said Cameroon had [acceded as a founding member of a global AI cooperation body](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy); the accession date is not published.
 
 The higher-education ministry [set out a strategy for artificial intelligence in higher education](https://www.scoop-afrique.com/articles/ia-et-education-le-pari-camerounais-presente-a-pekin) at the Global Smart Education Conference in Beijing from 18 to 20 August 2026. No strategy document, budget or implementation date has been published behind it.
+
+## Central African Republic
+
+The month's only artificial-intelligence entry is a citizen's, not the state's. A national representative's own account records [the country represented at the continent's main machine-learning gathering in Lagos from 2 to 7 August, and a national artificial-intelligence pioneers grouping introduced there](https://www.linkedin.com/posts/kadidja-pombot-fall-9669781b5_dli2026-deeplearningindaba-dli2026-activity-7490088682880872448-E6E8).
+
+No membership, funding or output is published for the grouping, and it stands against a national strategy that has been in elaboration since November 2024 and has produced no text.
 
 ## Chad
 

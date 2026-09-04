@@ -1,15 +1,15 @@
 ---
 title: Energy — monthly update, August 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 subject: infra.energy
-places: BWA; BDI; COM; ETH; KEN; LSO; MDG; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
-record: dc884a7a4acf
+places: BWA; BDI; CAF; COM; ETH; GHA; KEN; LSO; MDG; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
+record: 9051476a5a30
 ---
 
 # Energy: monthly update, August 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -21,6 +21,12 @@ The facility's power is the unusual part. [On-site gas-fired generation is suppl
 
 Among the regulator's remedies for degraded service, named [on 3 August](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), is a planned study on powering mobile base stations.
 
+## Central African Republic
+
+The power the digital estate runs on moved more this month than the estate did. A [50MW solar plant with 15MWh of battery storage was inaugurated on 12 August](https://www.wam.ae/en/article/c1p3six-uae%E2%80%99s-global-south-utilities-delivers-largest), reported to raise national generation capacity by over 60% and to strengthen grid stability.
+
+Against a baseline of 28MW installed and 16 to 18 hours of daily load-shedding, that is the largest single change on this ledger. What is not published is any post-commissioning figure: no availability, no load-shedding hours and no connection count, so the capacity is stated and its effect is not.
+
 ## Comoros
 
 The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the base.
@@ -28,6 +34,12 @@ The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a s
 ## Ethiopia
 
 The incumbent's renewable programme reached [39.72 MW of installed solar across 190 fully solar-powered sites, 867 hybrid systems and 1,114 lithium-ion storage units](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the financial year, with diesel generator running time down by up to 40%. The figures are the operator's own and unaudited.
+
+## Ghana
+
+The transmission system failed nationally twice in three weeks. A major fault on the Akosombo-Volta line at about 4.30am on 20 August [tripped the Akosombo units and some thermal plants](https://www.graphic.com.gh/news/general-news/gridco-on-why-there-is-a-second-nationwide-electric-power-outage.html), three weeks after [a system disturbance at about 3.11am on 29 July had tripped generating plants simultaneously](https://gna.org.gh/2026/07/gridco-attributes-nationwide-power-outage-to-system-disturbance/). The operator opened a technical investigation into the first and said further measures were needed to strengthen reliability after the second; no interruption index is published for either.
+
+On 28 August the energy ministry [launched a GHS598 million project to connect 206 communities across all 18 districts of the Volta Region within six months](https://gna.org.gh/2026/08/government-launches-ghs598m-electrification-project-for-206-volta-communities/), part of a programme covering four regions this year and four more annually to 2030. It is the largest funded rural-electrification commitment the base holds, and it lands in the same month as the second national outage.
 
 ## Kenya
 

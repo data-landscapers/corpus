@@ -1,15 +1,15 @@
 ---
 title: Use of satellite data — monthly update, August 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 subject: data.satellite
-places: BDI; COM; COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; ZMB
-record: 85e84974f421
+places: BDI; COM; COG; CIV; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; ZMB
+record: 28aeb45bf57b
 ---
 
 # Use of satellite data: monthly update, August 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ The food and agriculture organisation's earth observation portal [publishes vege
 ## Congo
 
 The national mapping institute began putting its own holdings into a usable form. On 11 August it [signed a framework partnership with a local non-governmental organisation to digitise, secure and disseminate its geospatial and cartographic data](https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185), building a shared platform for public, institutional and research access. It is a framework agreement rather than a delivered platform: no term, funding, licence or access rule is stated, and nothing says what is currently held or in what form.
+
+## Cote d'Ivoire
+
+The national meteorological agency [signed a convention on 10 August with a private company combining artificial intelligence, satellite data, drones and georeferenced data to monitor farm holdings and anticipate weather-linked risk](https://sodexam.com/climat-et-agriculture-la-sodexam-et-jool-international-misent-sur-lintelligence-artificielle/). It is an agreement to develop solutions rather than a service: no product, value, timetable or user is named, and it is the second such convention the agency has signed this year.
 
 ## Egypt
 

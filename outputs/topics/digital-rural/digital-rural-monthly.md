@@ -1,15 +1,15 @@
 ---
 title: Rural digital data capture — monthly update, August 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GIN; LSO; MWI; MLI; MUS; NGA; SLE; TGO; ZMB; ZWE
-record: 6097cbf2fd4f
+places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; MWI; MLI; MUS; NGA; SLE; TGO; ZMB; ZWE
+record: d1c732ca881c
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,12 @@ The civil-status modernisation project took its design into the countryside, [co
 ## Eswatini
 
 Rural data collection got hardware rather than a system. The agriculture ministry [handed 40 tablets and 4 laptops, valued at E313,504, to agricultural extension officers on 10 August](https://eswatinipositivenews.online/agriculture-minister-hands-over-e313-504-digital-gadgets-to-boost-agricultural-extension-services/) under an IFAD and Green Climate Fund-backed project, for real-time crop, livestock and weather reporting by officers working with smallholder farmers across all four regions. No officer total, data platform, reporting standard or custodian for the collected field data is stated, so what the reports feed into is not on the record.
+
+## Ghana
+
+The police service's own page on its criminal data bureau entered the base this month, and what it establishes is where the paper stops: [the bureau at investigations headquarters receives fingerprints and crime details on forms sent in from police stations](https://police.gov.gh/en/index.php/criminal-data-service-bureau-cdsb/), including rural and district ones. The digitisation is at the centre and the stations feed it on paper.
+
+It is a standing description dated to capture rather than an event, and it sits against the interior ministry's own sector plan, which names limited logistics particularly in rural and border communities as the constraint on digitisation reaching those stations.
 
 ## Guinea
 

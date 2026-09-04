@@ -1,13 +1,13 @@
 ---
-title: Gulf/UAE activities — progress report, 2025-09-01 to 2026-09-03
-compiled: 2026-09-03
-period: 2025-09-01 to 2026-09-03
+title: Gulf/UAE activities — progress report, 2025-09-01 to 2026-09-04
+compiled: 2026-09-04
+period: 2025-09-01 to 2026-09-04
 subject: geopol.gulf
 places: AGO; BWA; BFA; BDI; CAF; COM; CIV; DJI; COD; SWZ; ETH; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SDN; ZMB; ZWE
-record: dbacc896171a
+record: d905b5cbaa9f
 ---
 
-# Gulf/UAE activities: progress report, 2025-09-01 to 2026-09-03
+# Gulf/UAE activities: progress report, 2025-09-01 to 2026-09-04
 
 *29 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

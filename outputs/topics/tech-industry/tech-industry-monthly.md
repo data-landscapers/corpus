@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, August 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 subject: tech.industry
 places: BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; SDN; TGO; ZMB; ZWE
-record: ed1ea87a5433
+record: fd579e7602b2
 ---
 
 # ICT Industry: monthly update, August 2026

@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, August 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 subject: gov.standards
 places: AGO; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: efa622fd2802
+record: 3c7a6451b09c
 ---
 
 # Standards: monthly update, August 2026

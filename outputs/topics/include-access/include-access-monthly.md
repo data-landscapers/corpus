@@ -1,15 +1,15 @@
 ---
 title: Access to services — monthly update, August 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 subject: include.access
-places: DZA; AGO; BWA; BDI; COM; CIV; DJI; COD; EGY; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 503ec7fb4f72
+places: DZA; AGO; BWA; BDI; CAF; COM; CIV; DJI; COD; EGY; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 8edfb61dfc80
 ---
 
 # Access to services: monthly update, August 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,12 @@ The Ministry of Youth and Gender Affairs [describes the Department of Gender Aff
 ## Burundi
 
 A rural community digital hub [opened at Shombo](https://www.linkedin.com/posts/eddy-kubwimana_internet4all-shombo-internet4all-activity-7497195156408954880-fCPP). It is a single site reported by its own organisers; no programme, national count, funding line or usage figure stands behind it.
+
+## Central African Republic
+
+Registration and feedback for displaced people moved, and it moved outside government. An operational update for the second quarter records [37,389 registered Sudanese refugees, card-based registration, and a complaints and feedback system that had received 535 complaints](https://data.unhcr.org/en/documents/download/123755).
+
+It is the clearest instance on this ledger of a digital feedback channel reaching a displaced population, and the state's own centralised portal, launched in December, still carries no described feedback function at all.
 
 ## Comoros
 

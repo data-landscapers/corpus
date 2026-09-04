@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 subject: dpi.registry
-places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e77dc2aea655
+places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ae768d13ff01
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -87,6 +87,12 @@ The country published its first unified land policy, and it is the month's clear
 
 
 A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
+
+## Ghana
+
+Two registries entered the base this month as standing descriptions rather than events. The revenue authority's own page sets out [the taxpayer identification number system it maintains under the 2016 revenue administration Act](https://gra.gov.gh/tin/), and the national digital address system's [official page records it live](https://www.ghanapostgps.com/). Neither carries an internal date, so both are dated to capture and neither reports a change: what moved is the base's own coverage, not the registries.
+
+Nothing published with either gives a register size, a coverage rate or a public-sector consumer, which is the figure each would need before it could be said to be working.
 
 ## Guinea
 

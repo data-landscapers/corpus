@@ -1,13 +1,13 @@
 ---
-title: Data protection — progress report, 2025-09-01 to 2026-09-03
-compiled: 2026-09-03
-period: 2025-09-01 to 2026-09-03
+title: Data protection — progress report, 2025-09-01 to 2026-09-04
+compiled: 2026-09-04
+period: 2025-09-01 to 2026-09-04
 subject: gov.protect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2e6a73ce2ad9
+record: bb15927eb965
 ---
 
-# Data protection: progress report, 2025-09-01 to 2026-09-03
+# Data protection: progress report, 2025-09-01 to 2026-09-04
 
 *52 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

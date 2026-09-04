@@ -1,13 +1,13 @@
 ---
-title: US / hyperscaler activities — progress report, 2025-09-01 to 2026-09-03
-compiled: 2026-09-03
-period: 2025-09-01 to 2026-09-03
+title: US / hyperscaler activities — progress report, 2025-09-01 to 2026-09-04
+compiled: 2026-09-04
+period: 2025-09-01 to 2026-09-04
 subject: geopol.usa
 places: AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; UGA; ZMB; ZWE
-record: c55adf9d3cdc
+record: 62eace9341ff
 ---
 
-# US / hyperscaler activities: progress report, 2025-09-01 to 2026-09-03
+# US / hyperscaler activities: progress report, 2025-09-01 to 2026-09-04
 
 *38 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 
