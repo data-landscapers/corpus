@@ -460,15 +460,44 @@ LEDGER_COLS = ["iso", "started", "minutes", "verdict", "probed", "staged_rows", 
                "cost_usd", "turns", "session_id", "problems"]
 
 
-def append_ledger(path: Path, row: dict) -> None:
-    """Appended after every country, not written at the end: a driver killed at 4am
-    should leave behind everything it had already learned."""
+def _write_row(path: Path, row: dict) -> None:
     new = not path.exists()
     with path.open("a", encoding="utf-8", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=LEDGER_COLS)
         if new:
             w.writeheader()
         w.writerow(row)
+
+
+def append_ledger(path: Path, row: dict) -> None:
+    """Appended after every country, not written at the end: a driver killed at 4am
+    should leave behind everything it had already learned.
+
+    **A locked ledger is not a reason to lose the run** *(TGO, 2026-09-04 06:08)*. The
+    file was open in Excel when the last country of a thirteen-country batch came back
+    clean — 73 gaps, 156 files — and the `PermissionError` came out of `main`. The driver
+    died holding a finished run it never recorded: no row, no summary, no ledger commit,
+    and nothing in the output but a traceback. Losing the row is worse than the lock,
+    because the row is what the next driver resumes from.
+
+    So: retry briefly, since a spreadsheet's hold is usually seconds; then spill to a
+    sidecar rather than raise. The sidecar is named to match `done_recently`'s
+    `*-batch.csv` glob, so a resumed driver still skips the country whose row spilled —
+    a spill that resume could not read would swap one silent re-run for another."""
+    for attempt in range(3):
+        try:
+            _write_row(path, row)
+            return
+        except OSError:
+            if attempt < 2:
+                time.sleep(5)
+    spill = path.with_name(path.name.replace("-batch.csv", "-spill-batch.csv"))
+    try:
+        _write_row(spill, row)
+        print(f"    ! ledger locked — {row['iso']}'s row went to {spill.name}", flush=True)
+    except OSError as exc:
+        print(f"    ! ledger locked, and {spill.name} too — {row['iso']}'s row is lost "
+              f"({exc}); it read: {row}", flush=True)
 
 
 def take_lock() -> bool:
@@ -605,7 +634,17 @@ def main() -> int:
             # row, so the wait is on the record and the cost of the truncated attempt is
             # counted.
             later = retry_after(result)
-            if later is not None and waits < a.max_waits:
+            # **A country that already did the work is not retried** *(SLE, 2026-09-04
+            # 01:56)*. SLE probed 81 gaps, staged 160 files and claimed its queue cell,
+            # and only then did a turn hit the quota. The driver read the limit, waited
+            # half an hour and ran SLE again — a session that could do nothing but
+            # duplicate what was on disk, and which came back in four minutes having
+            # written no run CSV, so the ledger then carried a PROBLEM row for a country
+            # that had in fact succeeded. The test is what the row already shows: a
+            # claimed cell and a probed count together mean the country is done, whatever
+            # its last turn said.
+            finished = bool(row["queue_cell"]) and bool(row["probed"])
+            if later is not None and not finished and waits < a.max_waits:
                 resets, why = later
                 waits += 1
                 row["verdict"] = "waited"

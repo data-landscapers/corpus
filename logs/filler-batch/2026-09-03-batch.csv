@@ -9,3 +9,16 @@ TUN,2026-09-03T13:48:03,24.2,rate-limited,,,,,12,19,,25.00,36,0c4ca44f-26d6-4dca
 TUN,2026-09-03T14:42:00,4.3,PROBLEM,,,,,12,19,,0.00,1,98ffd4cd-6e96-43eb-b59a-614fc265d3bf,claude exited 1; 'Filler Searched' still blank — the queue will offer TUN again; no run CSV written; TUN's batch not committed in the share: ?? new-queue/TUN/; Corpus tree left uncommitted:  M logs/progress-report-log.csv
 CIV,2026-09-03T14:46:44,3.8,PROBLEM,,,,,0,0,,0.00,1,8e76842f-a6ea-432b-a78c-f159f049ed67,claude exited 1; 'Filler Searched' still blank — the queue will offer CIV again; no run CSV written; Corpus tree left uncommitted:  M logs/progress-report-log.csv
 CPV,2026-09-03T14:50:29,3.5,PROBLEM,,,,,0,0,,0.00,1,cd73695d-7316-4be1-b6a9-277fc3676471,claude exited 1; 'Filler Searched' still blank — the queue will offer CPV again; no run CSV written; Corpus tree left uncommitted:  M logs/progress-report-log.csv
+TUN,2026-09-03T15:21:07,44.0,PROBLEM,82,82,0,0,60,103,03/09/2026,40.40,55,969d690d-f309-4dad-bab6-62a362533132,lint-staged-queue: 1 finding(s)
+CIV,2026-09-03T16:05:05,3.3,waited,,,,,0,0,,0.00,1,ea85e109-e99f-4b9b-9b00-14ebb63a8ac2,claude exited 1; 'Filler Searched' still blank — the queue will offer CIV again; no run CSV written
+CIV,2026-09-03T16:20:25,49.1,ok,28,28,0,0,23,39,03/09/2026,61.45,63,54e0b484-6f75-4118-bb39-0bb2d292ab75,
+CPV,2026-09-03T17:09:32,47.4,ok,72,71,1,0,60,83,03/09/2026,110.44,65,be428fac-d858-48c1-8a06-d77bfb440b3a,
+MRT,2026-09-03T17:56:57,10.0,waited,,,,,0,0,,8.12,33,52a60f8b-8635-4a87-ba13-6bcc7bdea2c9,claude exited 1; 'Filler Searched' still blank — the queue will offer MRT again; no run CSV written
+MRT,2026-09-03T19:42:00,83.6,ok,80,80,0,0,71,112,03/09/2026,156.65,72,a03661b0-eee1-40bf-8e46-4cc6e4303463,
+NER,2026-09-03T21:05:34,59.2,ok,77,76,1,0,54,93,03/09/2026,54.37,74,af68a6a0-54ff-4371-8672-9a45d0a4b390,
+SEN,2026-09-03T22:04:48,50.1,ok,64,64,0,0,57,93,03/09/2026,119.15,56,46ce058b-b3a8-4824-a4ea-e6e6b6371446,
+SLE,2026-09-03T22:54:58,16.4,waited,,,,,12,20,,22.94,26,605f6231-62ac-4adc-9039-962f73672768,claude exited 1; 'Filler Searched' still blank — the queue will offer SLE again; no run CSV written; SLE's batch not committed in the share: ?? new-queue/SLE/; Corpus tree left uncommitted: ?? logs/progress-filler/slices/SLE-2026-09-03-slice-brief.md
+SLE,2026-09-04T00:42:00,43.0,waited,81,81,0,0,66,94,04/09/2026,108.31,62,804bde49-6732-47cd-b65d-3a22dff69429,
+SLE,2026-09-04T01:56:59,3.6,PROBLEM,,,,,66,94,04/09/2026,1.81,35,017d94d7-e75a-4881-b4dd-c29bb278855f,no run CSV written
+STP,2026-09-04T02:00:38,54.7,ok,94,93,1,0,68,65,04/09/2026,102.87,102,97dc7c42-9ef6-4c08-9b8d-29619183b873,
+TGO,2026-09-04T02:55:21,34.8,waited,,,,,58,94,,101.38,29,93bff9a5-f502-432c-91ab-b608674a12e4,claude exited 1; 'Filler Searched' still blank — the queue will offer TGO again; no run CSV written; TGO's batch not committed in the share: ?? new-queue/TGO/; Corpus tree left uncommitted: ?? logs/progress-filler/slices/TGO-2026-09-04-slice1-selecte
