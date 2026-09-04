@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: GIN
-ledger_rows: 28
-not_held: 14
-record: 1b66d1310013
+ledger_rows: 30
+not_held: 5
+record: 44d2781b3dda
 ---
 
 # Guinea: monthly update, August – September 2026
@@ -113,6 +113,14 @@ Two more of the administration's own paper processes went onto systems in August
 
 <!-- narrative: digitalisation--digital-rural -->
 The first rural digital service to reach farmers this month was a private one carried on a state bank's counters. An agritech firm and the state rural bank [launched a first cohort at Conakry on 6 August pairing field sensors, weather alerts and agronomic advice with the bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/). No cohort size, cost or coverage is stated, and the base still holds no state rural digital-services programme to set beside it.
+<!-- /narrative -->
+
+## Technology
+
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The instrument the innovation layer waits on is still a draft: the [startup bill went through a relecture session at the commerce ministry on 29 April 2025](https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/), and no promulgated act has been found since. In August a [national innovation strategy went out to tender under Belgian development financing](https://www.enabel.be/app/uploads/2026/08/GIN23009-10070_Strategie_Innovation17082026.pdf), procured ahead of the statute that would give it a legal base.
 <!-- /narrative -->
 
 ## Data
