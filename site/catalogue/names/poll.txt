@@ -1,5 +1,6 @@
 ACTIVITÉS POLLUANTES Article	16047
 ACTIVITÉS POLLUANTES PARAGRAPHE	16047
+AMBIENT AIR POLLUTION	16892
 Adequate Staffing of High-Volume Polling Units	10049
 Air Pollution	1988
 Air Pollution Management	1988
@@ -21,6 +22,7 @@ Gallup World Poll Gallup World Poll	11004
 Gallup World Poll Gender	11964
 Gallup World Poll Percentage	11964
 Gallup World Poll. Funding Agency	13084,675,2085
+Ghana Randomized Air Pollution and Health Study	16996
 Girls Polly Jean HarrisonFebruary	7156
 Indicateurs Pollutions	14488,1,1
 Indicator for Monitoring Budget Air Pollution	1988
@@ -37,7 +39,7 @@ Opinion Polling Working	1363
 POLL CLOSED Don't	5551
 POLL ERROR	15574
 POLLUTIONS	15999
-Persistent Organic Pollutants	14774
+Persistent Organic Pollutants	14774,2544
 Polley Fra	1009
 Pollicy	4443,3503,767
 Pollicy Uganda	10392,6385
@@ -54,7 +56,8 @@ Polling and Counting	10017
 Pollman and Barry	8436
 Polls	5603,784,3407
 Polls.pdf	5603
-Pollution	1988,6903,3362,1132,1038,65,1,1,255,73,724,1072
+Pollution	1988,6903,3362,1132,1038,65,1,1,255,73,724,1072,500
+Pollution Control	17157
 Pollution Prevention and Management	1988
 Pollution Prevention and Management The Borrower	1988
 Pollution Response Unit PS	14760
@@ -64,12 +67,14 @@ Pollutions	8673,5815,1,1
 Polly Ericksen	16135
 Reference Pollman and Barry2017	8436
 Relevant. ESS3 Resource Efficiency and Pollution Prevention	14937
-Resource Efficiency and Pollution Prevention and Management	1264,724,8841,135,1001,1367,191,1030,23,334,748
+Resource Efficiency and Pollution Prevention	17114
+Resource Efficiency and Pollution Prevention and Management	1264,724,8841,135,1001,1367,191,1030,23,334,748,1278
 Sewage and Air Pollution	12389
 Statement of Poll and Declaration of Results	16574
 Strategic Plan Polls Request Forms Benchmarking	9109
 Taxe Pollution	15936
 Technology Polley Framework. Retrieved	1009
+Urbanization and Pollution	17114
 Use Surveys and Polls	12675
 Water Pollution	1988
 World Poll	11004

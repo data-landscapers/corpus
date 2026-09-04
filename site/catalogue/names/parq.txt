@@ -4,6 +4,7 @@ D.G. PARQUE MOVIL CIVIL.-Concepto	4209
 D.G. PARQUE MOVIL MILITAR Concepto	4209
 ENPCT Empresa Nacional de Parques de Ciencias	12786
 Empresa Nacional de Parques de Ciência	2816,10026
+GESTÃO DE PARQUE DE VEÍCULOS	17100
 LABORÉ PARQUET OU BOIS CIRÉ	13300
 Le Parquet	4420
 O Parque Tecnológico	15684
@@ -14,11 +15,11 @@ PARQUE MOVIL CIVIL REGION CONTI.-Concepto	4209
 PARQUE MOVIL PRESIDENC	4209
 Parque	12842,2842,448
 Parque Industrial de Topuito	10083
-Parque Nacional de Malabo	4209
+Parque Nacional de Malabo	4209,12880
 Parque Nacional de Malabo Sección	4209
 Parque Natural da Serra	15380
 Parque Solar	16132
-Parque Tecnológico	2281,1277,11918,208,5,457
+Parque Tecnológico	2281,1277,11918,208,5,457,799
 Parque Tecnológico Arquipélago Digital de Cabo Verde	5443
 Parque Tecnológico S	15684
 Parque Tecnológico da Praia	15684,567
@@ -32,10 +33,12 @@ Parques Nacionales	4209
 Parques Tecnológicos	16251
 Parques Tecnológicos da Praia	1265,683,14303
 Parques de Campismo	11458
-Parquet	10253,1582,3,2479,232,865,487
+Parquet	10253,1582,3,2479,232,865,487,942,92,557
+Parquet Général	17492
 Parquet de Grande Instance de Mbuji-Mayi	15670
 Parquet. Article	37
 Parquets	13442,193
+Parquets Généraux	17492
 Parquinio Rachida Mamade Vilton	2989
 SANIDAD PARQUE Cuentas CONCEPTO	4209
 SEGUNDO DIRECTIVO PERSONAL Y SANIDAD PARQUE	4209

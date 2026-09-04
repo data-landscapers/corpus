@@ -22,6 +22,8 @@ Burkina Faso Moves Closer	4234
 Burkina Faso Moves Travel Declarations Online	5792
 CV Movel	15471
 Cape Verde Moves Closer	3244
+Capital Movement	17235
+Capital Movement In Million of USD	17235
 Cases Action Steps Impact Move Scaling	14997
 Category of Movable Assets	12389
 Centro Integrado de Movoho	4209
@@ -30,6 +32,7 @@ Chad Moves	4926
 Chave Movel Digital	11965
 Combined Category of Movable Assets	12389
 Commodities Value Move	7343
+Communities Moving	17127
 Comparative Debt Movement	12951
 Congo Moves	12052
 Connecting Africa. Movitel Mozambique	5887
@@ -42,12 +45,17 @@ D2D Moves	16811
 DLP. Move	899
 DRC Moves Closer	2385
 Dashboard Cargo Movement	15478
+Data Production Ecosystem Moving	17116
 Democratic Movement of Mozambique MISA Media Institute	12201
 Digital Platform Federal Supreme Court Moves	12260
 Director for Free Movement of Persons and Migration and WURI	5579
+Directorate of Free Movement of Persons	17221
 Directorate of Free Movement of Persons and Migration	10909
 Djibouti Moves Toward Launch of National Cybersecurity	4204
 Dr. Ibrahim Bangura Movement	4619
+E Movilizar	16898
+ECOWAS Director of Free Movement of Persons	17221
+ECOWAS Free Movement	16874
 ECOWAS Free Movement Protocol	2781
 Early Movers Mauritius	8088
 Electronic Movement Control System	9076,159,15,441,204,1341,750
@@ -60,9 +68,10 @@ First Movers Advantage	14508
 Free Movement	7048
 Free Movement Protocol	10317
 Free Movement of Labour The EAC Partner	12164
-Free Movement of People	12227
+Free Movement of People	12227,4647
 Free Movement of People Across Africa	12227
-Free Movement of Persons	961,6491,2865,3722,370
+Free Movement of People and Goods	16874
+Free Movement of Persons	961,6491,2865,3722,370,2465
 Free Movement of Persons and Transhumance	10317,3722
 Free Movement of Such Data	14434
 Free Movement of Workers	12164
@@ -76,12 +85,14 @@ Government Moves	14561
 Gov’t Moves	10644
 Guarantee Facility. Moving	11469
 HEA Moves	13556
+HOUSEHOLD NOT FOUND OR MOVED ELSEWHERE	17127
 Halley Movement	9658,5114
 Halley Movement and Founder	9658
 Head of Movement for Southern Eastern Africa	6484
 Heart Movement	4127
 Human and People's Rights AMUSI United Movement	12201
 ID4Africa Movement	10816
+INTERVIEW. INTERVIEWER MOVES	17127
 Implementation Moved	15060
 Infrastructure for Movement and Control	12227
 Insight Description Our Strategic Move Insight	12512
@@ -91,8 +102,9 @@ Island Developing States SMP Single Movement	16631
 KZN KwaZulu-Natal LAMOSA Land Access Movement	11261
 Kenya's Movable Property Security Rights Act	12297
 Kogi Moves To Digitise Cooperatives	16796
-LA SURFACE ET BALISAGE SURFACE MOVEMENT	16552
+LA SURFACE ET BALISAGE SURFACE MOVEMENT	16552,454
 MACHINERY-OF-GOVERNMENT CHANGE IN FY2026 MOVES	1285,1,1837,1,1260,1
+MOVE TOWARDS A SOCIAL REGISTRY	16867
 MOVE-IT	10822
 MOVEMENT OF ICT EQUIPMENT STANDARDS	34
 MOVEMENTS	13420
@@ -106,17 +118,22 @@ Mapa Nacional de Banda Larga Movel	1526
 Mastercard Move	7539
 Mauritius. Movement	14742
 Mission Moving	2776
+Mixed Movements	17323,1
 MoVE Yaounde	6958
 MoVE-IT	12138
 Mongo-Kamba Movis	15379
 Mov. Avg	1828
-Movable	14345,368,149,135
+Movable	14345,368,149,135,2238
 Movable Property	12598,701,1698,17
 Movable Property Registry System	14761
 Movable Property Security Interests Act	13333
 Movable and Immovable Property Database	14713
 Move Africa Gabon Télécom	2263
 Move Beyond Laws	5910,491
+Move Document COVID-19	17323,1
+Move Elsewhere	16902
+Move MFDP	17260
+Move Towards	16867
 Move and Wider Society	12227
 Move. ANNEX	13122
 MoveOn Telecoms Ltd	6394
@@ -132,6 +149,7 @@ Movement South Africa NPC	11986
 Movement Toxic Chemicals	14409
 Movement for Democracy	11909
 Movement for Economic Change	12669
+Movement for Growth	17370
 Movement of Capital ARTICLE	14409
 Movement of Capital The Partner States	14409
 Movement of Persons	9399
@@ -139,35 +157,40 @@ Movement of Toxic Chemicals	14409
 Movements	10,12490,553,367
 Moveon Telecoms Limited	6394
 Mover	10313
-Moves	306,6392,2223
+Moves	306,6392,2223,8021
 Moves Now	7545,59
 Movesa	12309
 Movice	15692
 Movicel	1215,1328,7823
 Movicel. Há	1215
 Movicell	8854
-Movilización	1701
+Movilización	1701,15197,44
 Movilización Social	8048,6167
 Movilización de Recursos	8048
 Movilización de Recursos. Estos	14215
-Movilizar	1701
+Movilizar	1701,15197
 Movimenta Mais	11434
 Movimentação	11386,18
 Movimentação de Contas de Moeda Electrónica	11404
 Movimento	9399,7085
+Movimento Ação Cidadã	17020
 Movimento Mudei	10428
 Movimento Para Alternância Democrática	11544
 Movimento Reajustador	11513
+Movimento de Jovens Pelas Autarquias Locais	17062
 Movimientos	1701
-Moving	1243,120,1358,95,429,406,479,300,295,138,382,373,470,154,95,95,206,1,81,88,258,107,125,137,25,11,934,55,497,636,146,399,414,164,113,1,35,93,39,134,2,21,1,555,192,3,41,35,194,39,36,24,23,36,36,44,126,383,19,36,5,60,28,25,14,13,190,2,243,124,323,6,147,150,36,299,274,81,123,71,410,57,3,82,300,477
+Moving	1243,120,1358,95,429,406,479,300,295,138,382,373,470,154,95,95,206,1,81,88,258,107,125,137,25,11,934,55,497,636,146,399,414,164,113,1,35,93,39,134,2,21,1,555,192,3,41,35,194,39,36,24,23,36,36,44,126,383,19,36,5,60,28,25,14,13,190,2,243,124,323,6,147,150,36,299,274,81,123,71,410,57,3,82,300,477,333,14,68,76,59,46,123,18,1,2,4
 Moving Ahead Hungary Yes National Infocommunication	11529
 Moving Area	14778
+Moving Beyond Counting	17331
 Moving Beyond Local Data Ownership	3598
 Moving Beyond Paper-Based Records	16224
 Moving Beyond the Headline Numbers	9148
 Moving Forward UNDER THE AUSPICES	14251
 Moving Swaziland's National Land Information Service	13251
 Moving To Zero Carbon Emission	12515
+Moving Towards	16867
+Moving Works Activity	16863
 Moving Zimbabwe Forward	13688
 Moving of Registers of Civil	12226
 Moving the Economy	970,12350
@@ -195,6 +218,7 @@ PARQUE MOVIL CIVIL MALABO.-Concepto	4209
 PARQUE MOVIL CIVIL REGION CONTI.-Concepto	4209
 PARQUE MOVIL PRESIDENC	4209
 PIU. Moving	15601
+PPCC Moves To Strengthen Staff Capacity	17304
 Peering Is Moving the Needle	6318
 Pipeline Transport Air Transport Aircraft Movements	2775
 Popular Democratic Movement	12378
@@ -216,6 +240,7 @@ Scaling Cross-Border Interoperability Moving	9431
 Senegal Move	11670
 Senegalese Business Movement	2288
 Shaama. Landless People’s Movement	12378
+Sierra Leone Move Toward Borderless Mobile	17106,81,79
 Single Movement Permission	16631
 Sistema de Garantias Moveis	15526
 Small States Can Move Differently Ambassador	9741
@@ -240,6 +265,7 @@ Transparency of Data Movement Across Jurisdictions Backup	6432
 Types of Movable Assets	12389
 UNDP’s Moving Beyond Crisis	11356
 Uganda and MoveOn Telecoms	4958,1
+Unite Movement for Change	17332
 United Heart Movement	4127
 Unlimited Movistar	15471
 Vodacom Mozambique and Movitel	5887,888
@@ -247,6 +273,7 @@ Vodacom Mozambique and Movitel. Vodacom Mozambique	6856
 Vodacom and Movitel	6822
 Weeks Moving	1938
 What's Actually Moving	8050
+Works Moving	16863
 World Bank and IMF. Moving	10985
 World Movement Agreements	15340
 XAfrica Data Centres First Movers Get	14508

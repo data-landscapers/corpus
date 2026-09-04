@@ -1,5 +1,8 @@
 AFRINIC RPD	9613,4628
 APM RPP	13185
+Approval of RP	17114
+Approval of RP The Resettlement Plan	17114
+Assets RPPD Return	17235
 Authority RPPF Represented Political Parties’ Fund	5533
 C09 Insufficient RPA	9237
 CPCC and RPCC	16144
@@ -7,6 +10,7 @@ Centre RPHC Rwanda Population and Housing Census	12413,2643
 Congo RPP Revenue Protection Program SCADA	15969
 Converged Ethernet RPO Recovery Point Objective	13185
 Coordination Committee RPF Resettlement Policy Framework	1264
+D. The RP	17114
 DEE RPM T1.pdf	8891
 DI FI CL BS GU RPA	11863
 DLRRD.gov.za RP57	11261
@@ -14,7 +18,7 @@ DRC RPC Regional Payment Connectivity SMBs	11994
 Defining the RPPI	11286
 Defining the RPPI An RPPI	11286
 EEES RP	163
-ESMF and RPF	15372,1242
+ESMF and RPF	15372,1242,500
 Energy Technology RPPA Rwanda Public Procurement	14947
 Framework RPP Revenue Protection Program SAIDI	15659
 GBV. The RPF	15553
@@ -22,11 +26,14 @@ Gombe RP	15584
 High Commissioner for Refugees RPPF Represented Political	11986
 Host Communities RPRF Policy Dimensions	11900
 I DO ENVAELL AO RP TMI	14565
+Impact Description RP Requirements Significant Impact	17114
 Investment RPO Recovery Point Objective RTO	6432
 LLL. CAT and RPL	12574
 Le RPKI	4210
 Le RPROG	15569
 MEA01 Managed of RPA	9237
+MENA MoP MoSA RPBA SA SP	16902
+Manual RAP Resettlement Action Plan RPF	16926
 PAPSS Pan-African Payment and Settlement System RPA	10718
 Parent-Teacher Association RF Results Framework RPC	15661
 Primary Sampling Unity. RPHC	12403
@@ -37,6 +44,12 @@ RAP Resettlement Action Plans RPF Resettlement	16614
 REB Rwanda Basic Education Board RP	14922
 RF Results Framework RPF Resettlement Policy	13331
 RISA RPPA	1204
+RP Completion Audit	17114
+RP Completion Audit Upon	17114
+RP Preparation and Validation	17114
+RP The PIU	17114
+RP. Key	17114
+RP. Valuation of Assets	17114
 RP288	11197
 RP309	11224
 RPA Amakuru	13313
@@ -117,6 +130,7 @@ Rôle du RPNNIP Créé	2842
 SADC RPTC	12972
 SARB. The RPPI	11286
 Selection of RPA	9237
+Smallholder Agriculture Project RPSF Rural Poor	17105
 South African RPPI	11286
 South African RPPI RPPIs	11286
 South African RPPI. Risenga Maluleke Statistician-General	11286

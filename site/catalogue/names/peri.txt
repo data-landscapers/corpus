@@ -2,6 +2,7 @@ AI Automates the Periphery	16266
 AKONIBE PERIFERIA	4209
 ANNOBON BANEY PERIFERIA	4209
 Anexos da Declaração Periódica de Rendimento No Código	12018
+Annual MdJL UGP Periodic	17441
 Appliances PCIe Peripheral Component Interconnect Express	13185
 Availabiliry Period	15399
 Availability Period	15399
@@ -34,13 +35,16 @@ Closing Period	3604,8320,64,240,39,293,498,2101,985,292
 Closing Period Apr	1264
 Closing Period Beneficiaries	16032
 Closing Period Building Policy and Financing Pathways	16144
+Closing Period Comments	17505
 Closing Period Component	10768,4890
+Closing Period Digitally	16949
 Closing Period Expand	15658
+Closing Period For Official Use Only	17000
 Closing Period ID	12228
 Closing Period Improve	11905,3756
 Closing Period Improved	1867
 Closing Period Increase	3604,7164
-Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692
+Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35
 Closing Period Jun	11971,1949
 Closing Period Mar	1264
 Closing Period Month	6579,349
@@ -52,7 +56,8 @@ Closing Period Result Month	4653,11316,63,155
 Closing Period Revise People	4653
 Closing Period Strengthening the Enabling Environment Number	1867
 Closing Period The World Bank CAR	15661
-Closing Period Value Month	10870,1101,257,39,173,3639
+Closing Period VAT	17079
+Closing Period Value Month	10870,1101,257,39,173,3639,915,85
 Cloud Hosting Model Periodic Review	6432
 Combined Period Report for Malawi	13040
 Combined Periodic Report	13040
@@ -68,6 +73,7 @@ Concluding Observations of Malawi’s Eighth Period Report	13040
 Concluding Observations of Malawi’s Seventh Period Report	13040
 Condições de Trabalho Perigosas	10777
 Consultancy Period	9203
+Consultation Period	17251
 Contribuintes.pdf Declaração Periódica Devido	12018
 Country Strategy Paper Period	11863,3148
 Cumulation Period	16219
@@ -87,8 +93,10 @@ Declaração Universal Periódico	10750
 Defect Liability Period. EEC	13054
 Development Programme UPR Universal Periodic Review	970
 Digitality and Peripherality	226
+E. Data Collection Periods Table	17139
 EBIBEYIN PERIFERIA	4209
 ELEVENTH PERIODIC REPORT	14742
+EN EL PERIODO	16875
 ENTIRE HOUSEHOLD ABSENT FOR EXTENDED PERIOD	582
 ERITREA ON ITS SECOND PERIODIC	14150
 EU's AI Periphery	7810
@@ -99,6 +107,7 @@ Eleventh Periodic Report	14742
 Ended During the Period Under Review.139	11259
 Evaluation Framework Periodic	15845
 Execution Period	15901
+FORESTAL EN EL PERIODO	16875
 Family Registration Period	12226
 Fertile Period	15247
 Fifth Periodic Report of Mauritius	14839
@@ -117,7 +126,10 @@ Grace Period. The Commitment Charge	16219
 Guidelines for National Periodic Reports	14742
 HEALTH AND WITHIN A PERIOD	11252
 HEALTH WITHIN A PERIOD	11252
+ICT Regulator Periodic	16872,103
 IMPLEMENTATION PERIOD If You Receive	13108
+Impact Assessment Period	16861
+Impact Assessment Periods	16861
 Indicator Name Baseline Closing Period	11924
 Informações de Perigo	15388
 Interest Period	15399,820
@@ -174,6 +186,7 @@ Medium-Term Period The DHA	5533
 Medium-Term Period The ETA	5533
 Mme Marie Perine DIGOUMBILOU SADIBI	16381
 Mortalidade Perinatal	10777
+NICI-1 Policy Development and Implementation Period	16861
 NIEFANG PERIFERIA	4209
 NIGERIA FOR THE PERIOD FY26-FY32	11468
 NSOK-NSOMO PERIFERIA	4209
@@ -182,17 +195,27 @@ Nigeria Public Consultation Period	6748
 Non- Food End Period	13060
 O Perito Principal	11898
 Offer Period	4896
+Operación Periodicidad Responsable EF Estadística	16898
+Operación Periodicidad Responsable EF Estadística Cantidad	16898
+Operación Periodicidad Responsable EF Estadística Gastos	16898
+Operación Periodicidad Responsable EF Estadística Número	16898
+Operación Periodicidad Responsable EF Estadística Porcentaje	16898
+Operación Periodicidad Responsable EF Estadística Proporción	16898
+Operación Periodicidad Responsable EF Estadística Sí	16898
+Operación Periodicidad Responsable EF Estadística Valor	16898
 Outcomes Baseline Period	11905
-PBC Name Baseline Closing Period	10870,5209
+PBC Name Baseline Closing Period	10870,5209,915
 PDO Outcomes Baseline Closing Period Strengthen	11417
-PDO Outcomes Baseline Period	1264,603,1737,7164,4890,3,483
+PDO Outcomes Baseline Period	1264,603,1737,7164,4890,3,483,805
 PERINDOPRIL	15930
 PERIOD	11259,696,440,1490
 PERIOD Capital Contributions	11955
+PERIOD ENDED	16978
 PERIOD FOR WHICH BIDS ARE REQUIRED	11240
 PERIOD FY25-FY29	12968
 PERIODE ETECTORALE Article	15397
 PERIODIC REVIEW MANDATES AND EVALUATION CRITERIA	3861
+PERIODIC REVISION Periodic	17157
 PERIODIQUES DESTINES AUX MINEURS Arllcle	15397
 PERIODIQUES ETRANGERS Arlicle'194	15397
 PRIOR PERIOD ERROR	10793
@@ -208,6 +231,7 @@ Peri-Urban Development Board	12890
 Peri-Urban Development Board Ordinance	12890
 Peri-urban	771
 Periculum	7482
+Periférica	17112
 Perigosos	12774
 Perillo G	14666
 Perimeter	11285,1677,223,1979
@@ -219,8 +243,12 @@ Perinatais	15966
 Perinatal Health Monitoring Module	11589
 Perinatal Mortality	15247
 Perini	11156
-Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101
+Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101,688,11,18,2,86,29,130,32,40,39,16,1,78,48
+Period AAID Milestones	17139
+Period Average Exchange Rate	17235
+Period Averages GHC	17235
 Period Covered	12987
+Period Ended	16978
 Period FY	6946
 Period FY17	10964
 Period FY19-FY23	13331
@@ -229,6 +257,7 @@ Period FY20-25. Washington	15983
 Period FY21	16436
 Period FY23-FY27	3604
 Period Jan-Mar	6671
+Period LRD	17235
 Period Name	1784,1,2,7,3
 Period Network	12395
 Period Period Definition Period	11905,3754
@@ -245,19 +274,24 @@ Period Under Review	11259
 Period Variation	6671
 Period and Timetable	4896
 Period of Five	11250
+Period of Institutional Challenge and Reflection	17116
 Period of Registration	12226
 Period of Validity of Bids	13185,1581
 Period of Validity of Proposals	15080
-Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74,332,93,534,186,10,186,50,30,7,95,35,494,3
+Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74,332,93,534,186,10,186,50,30,7,95,35,494,3,1197,5,4,57,27,60,353
+Periodic Activity	17099
 Periodic Audits	11995
 Periodic Audits and Inspections Periodic	5665
 Periodic Compliance Audits	15120
 Periodic Focus Group Discussions	1778
+Periodic Intensification of Routine Immunization	16971
 Periodic M&E	12175
+Periodic Progress Reports	17287
 Periodic Publication of Utilization Reports	5245
 Periodic Reassessment	3861
 Periodic Reassessment Data	3861
-Periodic Report	6188,2297,2800,3457
+Periodic Regulatory Reporting	17243
+Periodic Report	6188,2297,2800,3457,2209
 Periodic Reports of States	8485
 Periodic Review	11129,3436,177
 Periodic Review Changes	3502
@@ -265,16 +299,25 @@ Periodic Review License Renewal Process Steps	5665
 Periodic Review Mandates and Evaluation Criteria	3861
 Periodic Review Schedules	3861
 Periodic Review. The NRO and ICANN	3503
+Periodic Revision	17157
 Periodical	9437
-Periodically	1000,4665,1873,3227,10
+Periodically	1000,4665,1873,3227,10,6339,2
 Periodicamente	11569
+Periodicidad	16898
 Periodicidade da Actividade Inspectiva	11452
 Periodicidade de Pagamento	11467
 Periodicidade de Reuniões	4147
 Periodicity	14777
 Periodicity O O O LO	14777
+Periodico Digital Ahora EG	16942
 Periodista	7703
+Periodo Lugar	16962
+Periodo Nacidos Vivos Muertes Fetales	16962
+Periodo Nacidos Vivos Total Muertes Fetales	16962
+Periodo Ordinario de Sesiones	16855
+Periodo de Conserva	16855
 Periods	10852,1404
+Perioperative Nursing	16922
 Peripherals	34
 Periphery	16266
 Perishable	7695
@@ -288,29 +331,35 @@ Peritos Contabilistas de Angola	11381
 Peritos Qualificação Responsabilidade Perito Principal	11898
 Periódica Obrigações Fiscais A Portaria	12018
 Periódica Universal	10750
+Periódico Digital Mofueñ Encabezada	17341
 Petya Universal Periodic Review	15968
 Post Warranty Period	14766
 Post-Warranty Period	15080
 Pregnancy Related and Perinatal	21
-Primer Periodo Ordinario de Sesiones	163
+Primer Periodo Ordinario de Sesiones	163,16692
 Procedure Periodically	1988
-Project Implementation Period	11863,2075,142,931,361
+Project Implementation Period	11863,2075,142,931,361,2069
 Prolonged Contract Implementation Period Physical	14546
 Promise and Peril	1243
 Proposed Implementation Period	12980
+Provincia Periodo Nacidos Vivos Total Muertes	16962
 Public Comment Period	5853
+Quadrennial Periodic Reporting RCIC Rural Communities	17105
 RAPPORTAGE PERIODIQUE I. ORGANISATION	15595
+REALISATIONS DE LA PERIODE	17513
 RECOGNIZED IN THE PERIOD Net Earnings	11955
+REFERENCE PERIOD Tables	17043
 REG. Period	388
 REMPE Declaração Periódica de Rendimento	12018
 REPORTING PERIOD	12976
 RIABA PERIFERIA	4209
 Rating Periodicity	14777
+Reference Period Cassava	17043
 Registrar General’s Department French Colonial Period	14761
 Related Grace Period	12389
 Related Service Period	13185
 Repayment Period	15399
-Reporting Period	11233,3923,749
+Reporting Period	11233,3923,749,1073,59
 Reporting Period Note	5687
 Reporting Period The Financial Statements	14736
 Reporting Period. B	11233
@@ -331,6 +380,8 @@ SOFR Banking Day. Lookback Period	16219
 STRATEGIC CONTEXT Country Strategy Paper Period	13938
 Second Periodic Report	14149,1
 Second Periodic Report of Zimbabwe	6951
+Segundo Periodo Ordina	16855
+Segundo Periodo Ordinario de Sesiones	16855
 Select Financial Period FY	8727
 Self-Assessment for Period Please	12364
 Standstill Period	13185,1895
@@ -344,6 +395,7 @@ Strategic Interventions Target Period Components	396
 Strategic Interventions Target Period Components Build	396
 Strategic Interventions Target Period Components Establish	396
 Sub-Saharan Africa. Reporting Period	8727
+Surveys Periodic Survey Reports	17011
 TIME PERIOD	6982
 TONA Banking Day. Lookback Period	16219
 TRANSITIONAL PERIOD FOR CERTAIN STATE PARTIES	1243
@@ -361,15 +413,19 @@ Two-Year Window Period	3379
 UN Universal Periodic Review	15007
 UNESCO org UPR46 COM E Main.pdf Universal Periodic Review	13739
 UNESCO org UPR46 ERI E Main.pdf Universal Periodic Review	14073
+UNIC Operación Periodicidad Responsable EF Estadística	16898
 Universal Period Review of Eswatini	13170
 Universal Periodic Review	3583,3366,2,4635,314,542,681,33,917,1058,837
+Universal Periodic Review Forty-seventh	16958
 Universal Periodic Review National Report	14742
+Universal Periodic Review TRAC2	17101
 Universal Periodic Reviews	9145
+Universal Periodical Review	17017
 Validity Period Hourly URL-specific Data Bundles	11259
 Validity Period Price	11259
 Voters Periods	13418
 Warranty Period	14766,314
-Withdrawal Period	14912
+Withdrawal Period	14912,2024
 World Bank. Periodic	16144
 ZERO-TARIFF TREATMENT FOR A PERIOD	14816
 Zimbabwe Maternal and Perinatal Mortality Study	21

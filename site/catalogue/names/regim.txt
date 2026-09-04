@@ -1,3 +1,4 @@
+ALTERAÇÃO AO REGIME GERAL DE INFRAÇÕES	17100
 ANPD Compliance Audit Regime	3861
 Abril Regime	11435
 B REMPE Regime Contactos TACs Declaração	12018
@@ -17,7 +18,11 @@ CAPÍTULO VIII REGIME DE RESPONSABILIDADE	3519
 CFT Regime	12701
 CHAPITRE VI DES REGIMES BUDGETAIRE ET	14431
 CHAPITRE VI DU REGIME DES SANCTIONS	13709
+CIO Regime	16975
+CIO Regime The CIO-RL	16975
+CIO Regime. The CIO-RL	16975
 COMESA Simplified Trade Regime	13053
+Chief Information Office Regime	16975
 Contribuição Industrial Regime Especial	11532
 Current Monitoring Regime	15905
 Customs Regime Receipts	15066
@@ -51,6 +56,8 @@ Engineer Regiment	8370,8141
 Estado. H TITULO Vi REGIMEN SANCIONADOR	163
 Financiers RAMU Regime	15685
 Fiscal Regime	15566
+Foreign Trade Regime	16996
+Foreign Trade Regime ND-GAIN Notre Dame	16996
 General Receipts and Customs Regime Receipts	15066
 General Regime for Partnership Contracts	15566
 General and Simplified VAT Regimes. ACC	10792
@@ -59,6 +66,7 @@ INCLUSIVE REGISTRATION REGIME The Act	9670
 Inflation Target Regime	11289
 Inspection Regimes	12389
 International Trade Regime	226
+Investment Regime	16942,30
 Janeiro. O Regime Jurídico de Facturas	4203
 Junho O Regime de Tesouraria	15380
 Kenya’s Digital Taxation Regime	14932
@@ -66,12 +74,14 @@ LEI QUE ALTERA O REGIME JURÍDICO	10756
 LEI QUE ESTABELECE O REGIME JURÍDICO	12784
 LEI SOBRE O REGIME JURÍDICO	11384
 LISBOA PróximoABERTURA DO REGIME ESPECIAL	6837
+Legal Regime	16942,30
 Legal Regime Netwk Ops	16594
 Legal Regime of Taxpayer Number	10775
 Liability Regimes	12389
 Licensing Regime	16212
 Limited Community of Property Regime	15056
 Marriage Regime Count Percentage Community	15056
+Memorandum of Foreign Trade Regime	16972
 Modernising Ghana’s Tax Regime	7695
 Nigeria's New VAT Regime for Non-Residents Under	7786
 O Regime Jurídico	11901
@@ -79,10 +89,12 @@ O Regime Sancionatório	11436
 O Regimento	11561
 O Serviço de Regime	15526
 O2 DIRECTION JURIDIQUE LES REGIMES JURIDIQES	15670
+OPERATIONS DE COUVERTURE ET REGIME	17485
 Objetivos O Regime Jurídico	11901
 Open Access Regime	15372
 Optimizing Africa's ICT Tax Regimes Towards	14674
 PART II LEGAL REGIME	10974
+PIT Regime	17011
 POSTAUX RELEVANT DU REGIME	15885
 PREMIER DES REGIMES JURIDIQUES	15429
 PROMOTION OF COMPATIBILITY OF REGIMES Mechanisms	1243
@@ -94,17 +106,23 @@ Presumptive Tax Regime	15014
 Principal Programme Officer for Tariffs and Customs Regimes	4827
 Property Registration Special Regime System	11939
 Protection Regimes and Required Measures	3861
+REGIME	17138
 REGIME DE INTERLIGAÇÃO CAPÍTULO I DISPOSIÇÕES	11519
 REGIME DE RESPONSABILIDADE DA IA SECÇÃO	3519
 REGIME DE RESPONSABILITE ET SANCTIONS DES	16047
 REGIME DE TARIFAÇÃO	11430
+REGIME DES COMPTES	17485
+REGIME DES OPERATIONS EN CAPITAL	17485
+REGIME DUODECIMAL	17100
+REGIME FOR OPEN ACCESS	16884
 REGIME JURIDIOUE	15489
 REGIME JURIDIQUE ET ATTRIBUTIONS Article	15431
 REGIME JURÍDICO DA COMUNICAÇÃO E TRAMITAÇÃO	11433
 REGIME JURÍDICO DO NÚMERO DE IDENTIFICAÇÃO	11383
 REGIME JURÍDICO DOS POLOS DE DESENVOLVIMENTO	11443
 REGIME MONETAIRE POUR LES VERSEMENTS	15901
-REGIME SANCIONATÓRIO	10755
+REGIME SANCIONATÓRIO	10755,4799
+REGIME The CBL	17138
 REGIMENTO DO CONSELHO NACIONAL DE CIBERSEGURANÇA	4147
 REGIMES D'IMPOSITION SOUS-SECTION	15999
 REGIMES DES RESEAUX	16615
@@ -114,7 +132,7 @@ REGULATORY REGIME	11550
 RESTRICTIVENESS OF THE REGULATORY REGIME	13985
 RWANDA'S MOBILE SECTOR TAX REGIME	12385
 RY REGIME F OR DIGITAL SE	13357
-Regime	13,2,561,2943,1650,1293,508,4390,22,6,45,8,2,5,8,5,53,4,9,5,369,117,395,440,2079,124,288,15,21,11,5,54,27,27,22,168,218,110,100,16
+Regime	13,2,561,2943,1650,1293,508,4390,22,6,45,8,2,5,8,5,53,4,9,5,369,117,395,440,2079,124,288,15,21,11,5,54,27,27,22,28,140,218,110,100,16,873,89,14
 Regime A ATCV	15912
 Regime Aplicável	10755
 Regime Especial	10772,4616,89
@@ -125,8 +143,9 @@ Regime Ethnic	15342
 Regime Excecional de Regularização de Dívidas	12018
 Regime Financeiro	4218
 Regime Fiscal	15694
-Regime Geral	167,577,2775,684,7183,10,1,6,1,28,6,3953,5,742
+Regime Geral	167,577,2775,684,7183,10,1,6,1,28,6,3953,5,158,584,866,96
 Regime Geral da Tesouraria	15955
+Regime Geral de Organização da Atividade	15554
 Regime Geral de Segurança Social	167
 Regime Jurídico	1948,489,8928,17,1,1,1,5,40,2,3,27,5,52,382,3479,8,8,44,37,49,530
 Regime Jurídico Aplicável	744
@@ -134,6 +153,7 @@ Regime Jurídico Assim	15526
 Regime Jurídico Especial	16022
 Regime Jurídico Geral	15912
 Regime Jurídico Geral de Protecção de Dados	2345
+Regime Jurídico Geral de Proteção de Dados	15554
 Regime Jurídico Geral de Transportes	11983,4039
 Regime Jurídico Subsidiário	10747
 Regime Jurídico da Actividade de Inspecção	11452
@@ -187,6 +207,7 @@ Regime de Prestação	11430
 Regime de Retenções	12018
 Regime de Tarifação	11430
 Regime de Transição	11388
+Regime for Open Access and Technology Neutrality	16884
 Regimento	3519,628,7414,3798,697
 Regimento Interno da Comissão Nacional de Eleições	15359
 Regimento da Assembleia Nacional	539,2980,11958
@@ -194,6 +215,7 @@ Regimento. Este	11415
 Regimes	14932
 Regimes Geral	11432
 Regimes de Proteção Social Contributivos	11547
+Regulatory Regime	16861,81
 Regulatory Regime Transformation The National Communications	15120
 Resolution Regime	11134,3695
 Resolution Regime Fully	11134

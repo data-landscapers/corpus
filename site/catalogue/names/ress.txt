@@ -183,7 +183,7 @@ Resscurces	15999
 Ressetlement Action Plan	10829
 Ressource	10858,2467,2217
 Ressourcen	694,1
-Ressources	643,104,18,1577,24,195,835,1171,307,3011,1950,139,737,1,146,16,40,61,2366,233,140,129,96,486,54,143,801,6,43,21,48,27,12,57,33,50,2,2,14,8,102,40,48,25,38,48,49,16,6,77,132,13,142,133,12,1,94
+Ressources	643,104,18,1577,24,195,835,1171,307,3011,1950,139,737,1,146,16,40,61,2366,233,140,129,96,486,54,143,801,6,43,21,48,27,12,57,33,50,2,2,14,8,102,40,48,25,38,48,49,16,6,77,132,13,142,133,12,1,94,720,6
 Ressources Animales	3396
 Ressources Educatives	13574
 Ressources Educatives Libres	13574
@@ -193,7 +193,7 @@ Ressources Extérieures RES.INT	15475
 Ressources Génétiques	16381
 Ressources Géolo	16381
 Ressources HMP	14442
-Ressources Humaines	2342,2881,5752,2326,13,128,1107,73,1009,37,507,20,170,251,96,2
+Ressources Humaines	2342,2881,5752,2326,13,128,1107,73,1009,37,507,20,170,251,96,2,740
 Ressources Humaines Civiles	15425
 Ressources Humaines Il	14549
 Ressources Humaines N	16714
@@ -228,6 +228,7 @@ Service des Ressources Humaines SRH	14537
 Service des Ressources Transmission	10876
 Son Excellence le Ministre des Ressources Hydrauliques	15851
 Sous-Direction des Ressources Humaines SDRDC	10975
+Statistics Data Social and Economic and Financial Ressources	16863
 Système Intégré de Gestion des Ressources Humaines	8009,218,7511,198,549
 Système de Gestion des Ressources Humaines du MESRS	15936
 Systèmes de Planification des Ressources	14483

@@ -11,7 +11,7 @@ CIENTO OCHENTA Y SIETE MIL	4209
 CIENTÍFICA	16487
 CIENTÍFICA Qualificação da Investigação Criminal	16487
 CIERNDH	10752
-CIESIN	1013
+CIESIN	1013,15883,26
 CIESPAC	15500,185
 CIETAC	15399
 CMB SOCOPRIM CIE TRCI	2342
@@ -19,8 +19,12 @@ CSF CIES	13143
 Ciela Resort	7963
 Ciena	3782,12763
 Ciena Only	9155
-Ciencia	1701,154,2354,2632
-Ciencias	4209,6229
+Ciencia	1701,154,2354,2632,10023,56,22,220,120,63
+Ciencia Dirección General de Planificación	16864
+Ciencia Excmo. Sr. D. Jesús Engonga	16864
+Ciencia MEC	16942
+Ciencia PRODEGE Programa de Desarrollo Educativo de Guinea	16864
+Ciencias	4209,6229,6460,22,295,98,96
 Ciente	11531
 Cientes	15572
 Cientista de Dados	2816
@@ -29,20 +33,24 @@ Científica	5405
 Científicas Informática Informações Informações	11534
 Columbia University CIESIN	196
 Comissão Científica	11542
-Comité Científico	10487,3728
+Comité Científico	10487,3728,3207
+Comité Científico Nacional	17034
 Comité Técnico de Avaliação Científica da IEEE	2816
+Comités Científicos	17422
 Comités Científicos. Uno	10487
 Conselho Científico	15503
 Conselho Científico O Conselho Científico	15503
+Conselho Técnico Científico	17103
 DISCIPLINES ASSO- CIEES	16100
 ENPCT Empresa Nacional de Parques de Ciencias	12786
+Economía Aplicada IST Información Científica	16898
 FCP CIE	2342
 FIN CIERE	15400
 Gestores de Informação Científica	8000
 Grupo de Investigação Científica	11385
 INSPECCION GRAL. POLICIA CIENTIF. E INVESTIG.-	4209
 Instituições de Investigação Científica	11385
-Investigação Científica	11385,40,98,34,1266
+Investigação Científica	11385,40,98,34,1266,4180
 Investigação Científica ABREVIATURAS E ACRÓNIMOS ADPP-GB	11557
 Investigação Científica DGEPASE Direcção-Geral	11557
 Investigação Científica MEESJCD Ministério da Educação	11557
@@ -53,6 +61,7 @@ La CIE	2342
 Laboratório de Polícia Científica	16487
 Laboratórios de Investigação Científica	11385
 Le CIES	1005
+MW CIE	16978
 Ma CIE	15936
 O Conselho Científico. Artigo	15503
 Otavalo-Ecuador. Revista de Ciencias Sociales	7886
@@ -67,6 +76,7 @@ SODECI Transports Electricité ACI AERIA CIE	2342
 Sector de Investigação Científica	6970,5853
 Sistema Nacional de Ciencia	1701
 Sistema de Ciencia	1701
+Sistema. Ciente	17032
 Subsector de Educación Científica	4209
 Trabalho Científico	12019
 Welcome Cielht	15692

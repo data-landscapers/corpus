@@ -28,6 +28,7 @@ Qalyubia Dakahlia Gharbia Beni Suef	15578
 Qena Sharqia Faiyum Luxor Beni Suef	15578
 Red Sea and Suez Canal. Unlike	6773
 SUEDE Assainissement	643
+SUELO	16875
 Sharqia Qalyubia Beheira Minya Beni Suef	15578
 Sohag Monufia Minya Beheira Beni Suef	15578
 Sue Nyathi	10481
@@ -40,10 +41,12 @@ Suef Dakahlia Qaliubiya Sharqia Damietta	15578
 Suef Dakahlia Qalyubia Sharqia Damietta	15578
 Suef Faiyum Qena Giza Qalyubia Luxor	15578
 Suef Minya Qalyubia Luxor Gharbia Monufia	15578
+Suehn Mecca	16921
 Sueldos	4209
 Sueldos Personal Civil	4209
 Sueldos Personal Civil A1 A2 A3	4209
 Sueldos Personal Militar	4209
+Suelo	16875
 Suez Canal	4121,2472,8880,19,449
 Suez Canal Bank	4457,2071
 Suez Canal Development Corridor	15473
@@ -55,5 +58,6 @@ Suez City	15473
 Suez City............................52 Figure	15473
 Suez Governorate and GAFI	15473
 Suez. Et	2514
+UO Sueate Xe	16857
 Valley Gharbia Beni Suef Dakahlia	15578
 Valley Qena Luxor Beni Suef	15578

@@ -8,6 +8,7 @@ Building Repairs	11986
 COMPETÊNCIAS DAS REPARTIÇÕES FISCAIS	11435
 COMPETÊNCIAS DAS REPARTIÇÕES FISCAIS Nos	11435
 Cell Phone Repairs	1810
+Chefe da Repartição	17100
 Chefe da Repartição Fiscal CSA	11435
 Chefe de Repartição	15526
 Chefe de Repartição Fiscal	11435
@@ -45,6 +46,8 @@ ISSUE AND REPAYMENT OF DEBT INSTRUMENTS	10793
 IV. PERSONNEL ENSEIGNANT IV.1 REPARTITION DES	10847
 IV. PERSONNEL ENSEIGNANT IV.2 REPARTITION DES	10847
 KOUATELAY Albert. REPARTITION DU CAPITAL	2342
+Liberia Refugee Repatriation	17203
+Liberia Refugee Repatriation and Resettlement Commission	17350
 Lindela Repatriation Centre	5533
 MANUAL DE PROCEDIMENTOS DAS REPARTIÇÕES FISCAIS	11435
 MODIFICATION DE LA REPARTITION	16047
@@ -59,6 +62,8 @@ NON-STRUCTURAL PARTITIONING AND REPAIRS	14778
 Outstanding Repair Works Under Corporate Social	14546
 PART VIII Radiocommunication Equipment Dealers and Repairers	736
 PAS DE REPAS PRÉPARÉ DANS	13300
+REFUGEE REPATRIATION AND RESETTLEMENT COMMISSION PREAMBLE	16830
+REFUGEES REPATRIATION AND RESETTLEMENT	16830
 REPAIR	12980,2763
 REPAIR Project	15743
 REPANGOL	11405
@@ -77,10 +82,13 @@ REPARTIÇÃO DE TRÁFEGO POR DESTINO	11531
 REPARTIÇÃO GLOBAL DE ACESSO A INTERNET	11531
 REPARTIÇÃO GLOBAL DE SERVIÇOS DE INTERNET	11531
 REPATIC	15667
+REPATRIATION AND RESETTLEMENT COMMISSION	16830
 REPAYMENT OF PRINCIPAL AND.PAYMENT OF INTEREST	15399
 Reception and Reintegration of Refugees and Repatriates	10841
+Reconciliation and Reparations Commission	16973
+Refugee. Repatriation and Resettlement Commission	16830
 Repaid	291,15614
-Repair	11,225,992,760,485,4360,5759,2154,335,68,223,1180
+Repair	11,225,992,760,485,4360,5759,2154,335,68,223,1180,454
 Repair Any	15081
 Repair NAS Network Attached Storage	13185
 Repair Tier	10721
@@ -88,8 +96,9 @@ Repair of Motor Vehicles and Motorcycles	14840
 Repairability	16799
 Repaired	1988,689
 Repairers	236
-Repairs	2775,7946,2332,1340
+Repairs	2775,7946,2332,1340,2650
 Repairs CM-MR	10721
+Repairs and Maintenance	16978
 Repairs and Maintenance and Finance Cost. Direct Operational	12982
 Repairs of Furniture and Filing Cabinets	14738
 Reparaciones	4209
@@ -106,10 +115,14 @@ Reparación de Maquinaria	4209
 Reparación de Obras Eléctricas	4209
 Reparación de Vehículos	4209
 Reparation Authority	3583
+Reparations Commission	17105,123
+Reparations Commission State Corporations Gambia Women	16973
+Reparations Fund	17228
 Reparations and Costs	13040
 Reparação	3519,7924,4613,82
 Reparação de Automóveis	10757
 Reparação de Veículos	11447
+Repartición	16898
 Repartie	14442
 Repartir	13301
 Repartition	13390
@@ -128,25 +141,33 @@ Repartições	15526,530
 Repartições Fiscais	11435
 Repartições Fiscais. Imposto	11435
 Repartições Municipais de Saúde	11401
+Repartições Regionais de Finanças	17100
 Repartições de Finanças	15355,171
 Repartições de Identificação	10753
 Repartições de Identificação Civil	10752
+Reparto de Documentos	16855
 Repatriamento	11460
 Repatriate	4126
 Repatriated	10023
 Repatriating	4126
 Repatriation	4126,10748,91
 Repatriation and Reintegration of Zimbabwean Nationals	13673
+Repatriation and Resettlement	16830
+Repatriation and Resettlement Commission	16830
 Repatriation of Export Proceeds	13122
+Repay Indicators Compared	17257
+Repay the Fund	17209,117
+Repay the IMF	17257
+Repay. Liberia	17257
 Repaymenl Date of Principal and Interest	15399
-Repayment	1818,10,1886,1120,62,5434,463,1504,1727,872,503
+Repayment	1818,10,1886,1120,62,5434,463,1504,1727,872,503,1858
 Repayment Date	15399
 Repayment Date of Principal and Interest	15399
 Repayment Period	15399
 Repayment Schedule	15399
 Repayment and Prepayment	16219
 Repayment of Principal. Without	16219
-Repayments	3714,2400,8782
+Repayments	3714,2400,8782,2089,272
 Reviewed Rm Raised Repaid	10793
 Serviço de Reparação de Queixas	11390
 Ship Repair Yard	13868
@@ -156,6 +177,7 @@ Unconfirmed Lending and Repayments The International Bank	14546
 V. INFRASTRUCTURES SCOLAIRES V.2 REPARTITION DES	10847
 V.INFRASTRUCTURES SCOLAIRES V.1 REPARTITION DES ECOLES	10847
 VI.1 REPARTITION DES SALLES DE CLASSES	10847
+Vehicle Repairs	16943
 Warranty Defect Repair	13185
 Warranty Defect Repair Service	13185
 Wednesday. Repair	8679

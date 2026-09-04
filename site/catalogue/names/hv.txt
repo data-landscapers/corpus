@@ -1,8 +1,10 @@
+Agency GoTG Government of The Gambia HVIA	16923
 All HVAC	9123
 Emmerik HV	10780
 FLDLV TXH JUDYLWDP QR HVSDoR	11527
 GW Gigawatt HV High	12233
 Gabon. HVPI	16285
+Gross Domestic Product HVI	17101
 HV GH	11527
 HV High Voltage IBRD Investment Bank	11549
 HV KDELWDFLRQDLV FRPHUFLDLV	11527
@@ -41,6 +43,7 @@ LV Supply Voltage Variations HV	14867
 LV Voltage Swells HV	14867
 LV Voltage Unbalance HV	14867
 MV Voltage Dips HV	14867
+MVA HV	16966
 Morocco HV	10840
 Nassau High EGDI HV	10840
 PLQDGR HVSDoR JHRJUi	11527

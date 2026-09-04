@@ -16,6 +16,8 @@ Architecture ESCOM Electricity Supply Cooperation of Malawi	12917
 Artes Escénicas	4209
 Asséêdio Sexual ENAPP Escola Nacional de Administração	11390
 Attachments ESCOPs	1988
+Aulas de Escuelas Primarias	16864,56
+Aulas de Escuelas de Educación Infantil	16864
 Automação de Escritório	11371
 Ação Social Escolar Assistência Técnica Base	10766
 BI. Esclareceu	6614
@@ -35,8 +37,11 @@ Cabo Verdean Escudo DA Designated Account	15983
 Cabo Verdean Escudo DGTED Directorate of Telecommunications	11863
 Cabo Verdean Escudos	11955
 Calendário Escolar Nacional	11419
-Censo Escolar	10766,2022
+Censo Escolar	10766,2022,4076,56
 Censo Escolar Anual da Educação	10766
+Censo Escolar Anual. Para	16920
+Censo Escolar Nacional	17345
+Censo Escolar de Principio de Curso	16864
 Centro Escolar	4209
 Centros Escolares	4209
 Centros Escolares de Religiosos	4209
@@ -56,6 +61,8 @@ Conclusão Taxa Líquida de Escolarização Taxa de Transição	10766
 Continent Is Escaping Silicon Valley’s Long	226
 Controls and Safeguards Purpose of Escalation and Safeguards	14565
 Coordenação Escolar Comunal Centro de Formação Local	10766
+Criminal Conspiracy To Escape	16935
+Curso Escolar	16864,56
 D.G. PRENSA ESCRITA	4209
 DAS UNIDADES ESCOLARES	10766
 DE IMPRENSA DE DENÚNCIA E ESCLARECIMENTO	10751
@@ -64,6 +71,7 @@ DGIS Cape Verdean Escudo Disbursement and Financial	11855
 DIRECTIVO TELEVISIÓN RADIO PRENSA ESCRITA	4209
 DOCUMENTOS ESCOLARES	11419
 DPI Digital Public Infrastructure ESCP Environment	6539
+Dirección General de Prensa Escrita	16903,22,162,41
 Direcções de Escolas. Os	10766
 Diretores de Escolas	11538
 Distrito Escolar Luba	4209
@@ -92,6 +100,8 @@ Distrito Escolar de Niefang	4209
 Distrito Escolar de Nsok Nsomo	4209
 Distrito Escolar de Nsork	4209
 Distrito Escolar de Oyala Oyala	4209
+Docentes de Escuelas Primarias	16864,56
+Docentes de Escuelas de Educación Infantil	16920
 Draft ESCP. Draft Procurement Plan. Draft	1778
 Dénombrement des Escherichia	16103
 EAP EHCVM ESCP FM GBV	15658
@@ -99,6 +109,7 @@ EAP and ESCP. E. Role of Partners	16144
 EB Ensino Básico ESE Escola Superior	11557
 ECOWAS ESCP	1264
 EFECTIVO ESCOLAR	10766
+EFECTO INVERNADERO Escala	16875
 EIB EU ESCP ESMF ESHS FASUCE	15553
 EIRR Economic Internal Rate of Return ESCP	15659
 EMA Environmental Management Act ESCP Environmental	1988
@@ -118,6 +129,7 @@ ESCALA SALARIAL DEL PERSONAL DEL SENADO	4209
 ESCALA SALARIAL DEL PERSONAL TRIBUNAL	4209
 ESCALA SALARIAL DEL PERSONAL TRIBUNAL CONSTITUCIONAL	4209
 ESCALA SUELDO BASE COMPLEM. DE ESCALA	4209
+ESCALA Y ALCANCE	16875
 ESCALA Y COMPLEMENTOS SALARIALES	4209
 ESCALATING CONFLICTS THREATEN TO UNDERMINE RECENT	13532
 ESCAP	11572,795
@@ -155,6 +167,7 @@ ESCIEA	12962
 ESCITALOPRAM	15930
 ESCO and EE	14947
 ESCO-IGES	15550
+ESCOLA CICLO DE ESTUDOS PROVAS	17103
 ESCOM	127,12126,807,168,1446
 ESCOM Electricity Supply Commission of Malawi EU	13005
 ESCOM Limited Main	12213
@@ -174,10 +187,10 @@ ESCP EIA	1988
 ESCP Effectiveness Section	1264
 ESCP Environmental and Social Commitment Plan ESEEP	11380
 ESCP Environmental and Social Commitment Plan ESF	15491
-ESCP Environmental and Social Commitment Plan ESIA	16384
+ESCP Environmental and Social Commitment Plan ESIA	16384,538
 ESCP Fourth Cameroon Household Survey ESF	10964
 ESCP I. STRATEGIC CONTEXT A. Country	1264
-ESCP and ESMF	3604,10406
+ESCP and ESMF	3604,10406,2886,26
 ESCP and SEP	11905,4239
 ESCP. Community	15138
 ESCP. ECOWAS. Section I.B.1 of Schedule	1264
@@ -200,24 +213,31 @@ ESCPs	1264,5275,9605
 ESCUELA	4209
 ESCUELA INTERARMAS.- Concepto	4209
 ESCUELA NAC. DE FAS Y MÚSICA	4209
-ESCWA	3841,651,313,2423,2593,1751,160,2174,7,1,939,3,103,161,1681
+ESCUELAS	16920
+ESCWA	3841,651,313,2423,2593,1751,160,2174,7,1,939,3,103,161,1681,115,181,46,14,12,122
 ESCWA Aldabaiba	3841,1934
+ESCWA Committee	17169
 ESCWA Inclusive	3841
 ESCWA Libya	3841
 ESCWA Minister of Economy	3826
+ESCWA URL	17169
 ESCWA. Bibliographical	14853
+ESCWA. Home News	17169
 ESMF and ESCP	1867,9097
 Economic Internal Rate of Return ESCP Environmental	15515
 Edifício da Escola Grande	16510
 Effective Date. Sections and Description ESCP	10964,4589
+El Escudo	16871
 Emaswati. ESCCOM Commission	12395
 Emissão de Títulos Escolares da Educação Pré-Escolar	11419
+Enseñanza Técnica Profesional Curso Escolar	16920
 Ensino. TAXA DE DESISTÊNCIA ESCOLAR	10766
 EntertainmentLifestyle ESCCOM	4866
-Escala	4209
+Escala	4209,12666,23
 Escalabilidade	11463,92
 Escalar	2816
 Escalate	7777,5755,1138
+Escalate Escalate Call	16889
 Escalated	12359
 Escalating	8739,1027,2228,3348
 Escalation	6432,5927,678,1528,599
@@ -227,20 +247,25 @@ Escalation Level Timeline Name Section	6432
 Escalation Rules	13037
 Escalation Triggers Escalation	14565
 Escalation and Dispute Protocols Contracts	6432
+Escalation of Complaints	17243
 Escalations	8999
 Escalier	14490
 Escalier Ouvrage	15555
 Escalão	10757,5568
 Escalões	15532
+Escanear	16905
 Escape	3112,8874
+Escapee	16935
 Escaping	961,14532
 Escaping Capability Traps Through Problem Driven	11006
 Escaping Capability Traps Through Problem-Driven Iterative	11006
 Escaping the Low-Growth Trap	11560
+Escaso	16898
 Eschborn	8546,2610
 Escherichia	14142,1961
 Escherichia-coli	14736
 Esclareceu	4294
+Esclarecido	17020
 Esclarecimento	3519,1943,1000
 Esclarecimentos	11532,486
 Esclarecimentos Os	12853
@@ -248,7 +273,7 @@ Esclarecimentos Qualquer	16138
 Esclareça	12169
 Esclavage	14774
 Esclaves	14774
-Escola	10750,5212,225
+Escola	10750,5212,225,916
 Escola Digital	2281
 Escola Endereço Telefone	16325
 Escola Formação de Professores Domingos Mendonça	11552
@@ -258,6 +283,7 @@ Escola Nacional de Administração	5721,5061,658,23,89,17
 Escola Nacional de Administração Pública	11569,4393
 Escola Nacional de Capacitação	1268
 Escola Nacional de Capacitação da Administração Pública	16022
+Escola Nacional de Educação Física	17178
 Escola Nacional de Formação de Técnicos	10768
 Escola Nacional de Saúde Biombo Prábis Public	11552
 Escola Normal	11552
@@ -270,8 +296,10 @@ Escola Secundária Eugénio Tavares	5329,10870
 Escola Secundária Jorge Barbosa	15448
 Escola Secundária de Mangulamelo	12148
 Escola Superior de Desenvolvimento Rural	2816
+Escola Superior de Educação Artes Performativas	17103
 Escola Superior de Informática Bissau Zona-V Private	11552
 Escola Superior de Jornalismo	9099
+Escola Superior de Tecnologia	17103
 Escola de Administração	10768
 Escola de Formação	16487
 Escola de Formação Amílcar Cabral	11552
@@ -288,12 +316,13 @@ Escolar de Ebibeyín	4209
 Escolar de Evinayong	4209
 Escolar de Mbini Rehabilitación	4209
 Escolaridade	10754
-Escolas	1526,1758,7466,16,621,170,1220,2671,246,78
+Escolas	1526,1758,7466,16,621,170,1220,2671,246,78,1286,35,10
 Escolas Básicas	15476
 Escolas Secundárias	15476
 Escolha	9990,787
 Escolha Informada	10777
 Escolher	15445
+Escolástica Nsa AKIEME Jefa de Servicio de Planificación	16898
 Escopo	11555,343
 Escopo A. Objectivos	11898
 Escopo O Quadro de Interoperabilidade	11555
@@ -308,11 +337,15 @@ Escovedo	11156
 Escreva	16321
 Escrita	11374,4103
 Escrita Na	16122
-Escrito	11514
+Escrito	11514,5528
 Escritor	11479
 Escritos	12018
 Escritura	11901
+Escritura Pública	16859
 Escritura Pública de Constituição	11383
+Escrituras de Constitución	16859
+Escrituras de Constitución de Sucursal Mercantil	16859
+Escrituração	17100
 Escritório	10750,812,4404
 Escritório Conjunto	11108
 Escritório Coordenadora da Comissão de Protecção	10750
@@ -327,12 +360,15 @@ Escritórios	15991
 Escroquerie	13719,1710
 Escroquerie Quiconque	15429
 Escrow	4127,6594
+Escrow Account	16835
 Escrow Refund Lock	12882
 Escudo	11863
 Escudos	11955,3580
-Escuela	4209
+Escuela	4209,12733
 Escuela Aconibe	4209
+Escuela Aeronáutica de Guinea Ecuatorial	17089
 Escuela Canige Malabo	4209
+Escuela Graduada	16864
 Escuela Graduada de Aluan-cdo	4209
 Escuela Graduada de Nguba	4209
 Escuela Graduada de Nnom Nnam	4209
@@ -340,7 +376,8 @@ Escuela Nacional de Semu Malabo	4209
 Escuela Primaria	4209
 Escuela Pública de Potao Malabo	4209
 Escuela Taller de Bata	4209
-Escuela Unitaria	4209
+Escuela Unitaria	4209,12655
+Escuela Unitaria Escuela Graduada Colegio Nacional	16864
 Escuela Unitaria de Abia	4209
 Escuela Unitaria de Akanabot	4209
 Escuela Unitaria de Akua Nkom Akurenam	4209
@@ -349,6 +386,7 @@ Escuela Unitaria de Bonamanga Bata	4209
 Escuela Unitaria de Nkimi	4209
 Escuela Unitaria de Nkonvia Bata	4209
 Escuela Unitaria de Sendje	4209
+Escuela Universitaria de Formación	16864
 Escuela de Aviación Civil	4209
 Escuela de Capacitación Agraria	4209
 Escuela de Capacitación Agraria ECA Malabo	4209
@@ -357,12 +395,31 @@ Escuela de Ehoco Riaba	4209
 Escuela de Oyala Pueblo	4209
 Escuela de Telecomunicaciones DJIBLOHO	4209
 Escuela de Yengue	4209
+Escuelas	16864,56
+Escuelas Africanas de Estadística CE-1	16898
+Escuelas EIP	16864
+Escuelas Graduadas	16864
+Escuelas Primarias	16864,56
+Escuelas Unitarias	16864
+Escuelas Universitarias	16864,56
+Escuelas de Educación Infantil	16864,56
 Escueta	4209
 Escuta	549,10228
 Escândalo	11432
+Essential Healthcare Package ESCP Environmental and Social	16896
+Estado. Dirección General de Prensa Escrita	17194
+Estudiantes de Escuela Secundaria	16864
+Estudiantes de Escuelas Primarias	16864,56
+Estudiantes de Escuelas de Educación Infantil	16920
 Estudo De Conectividade Das Escolas Públicas	899
+European Investment Bank ESCP Environmental and Social	17099
+Evolución Repitentes de Escuelas Primarias	16864
+Evolución de Repitientes de Escuelas Primarias	16920
+Extranjeros de Escuelas de Educación Primaria	16920
+Extranjeros de Escuelas de Educación Secundaria	16920
 Financing. Sections and Description Per ESCP	10829
 Gambia ESCP	1264
+Geopolitical Risks Geopolitical Risks Escalating	17364
 Goma. Escalating	11916
 Google Escolher	9990
 Government of Malawi and ESCOM	13228
@@ -375,6 +432,7 @@ IA Pode Democratizar Conhecimento Escasso	9558
 IDA ESCP	1867
 IIMS Escolha	10760
 IMPRENSA Esclarecimento	11415
+INGRESSO PRÉ REQUISITO Provas Ponderação Escola	17103
 IX. Escolta Por	15955
 Immediate Basis ESCCOM Foreign Direct Investment	12444
 Increasing ESCOM	14674
@@ -385,12 +443,18 @@ Jefe de Zona Escolar Jefe Informático Grupo	4209
 Legal Notices Subscribe Home News ESCCOM	4058
 Levantamento Escolar	9441,3347
 Lifts. Escalators	13385
+Livelihood Resilience and Escaping Poverty	17011
 M. Escobar-Sierra	5349
+MATRÍCULA DE ESCUELAS DE EDUCACIÓN INFANTIL	16920
+MATRÍCULA DE ESCUELAS PRIMARIAS	16920
 MINISTERIO FISCAL ESCALA SALARIAL DEL PERSONAL	4209
 Malawi. ESCOM	13228
-Mapa Escolar	4209
+Mapa Escolar	4209,12655,56
+Mapa Escolar TIC Tecnologías de Información	16920
+Matrícula de Escuelas Primarias	16864
 Mauritania ESCP	1264
 Minister Maziya. ESCCOM Chief Executive Officer	13066
+Ministro Delegado Encargado de Infraestructuras Escolares	17313
 Ministry of ICT and ESCCOM	12437
 Modelos de Linguagem de Pequena Escala	2816
 Moderada Escolaridad	1701
@@ -403,6 +467,8 @@ NÍVEL DE ESCOLARIDADE E ALFABETIZAÇÃO Alfabetização	10777
 Nível de Escolaridade	10777
 Nível de Escolaridade Nível	10777
 Oral Taxa Bruta de Frequência Escolar Taxa	10777
+PARTICIPANTES INSTITUCION Cargo Escolástica NSA AKIEME	16875
+PONDERAÇÃO E PRÉ-REQUISITOS ESCOLA CICLO	17103
 POPULAÇÃO ESCOLAR	10766
 PROCEDURE PROCESS FLOW TIMELINES Incident Escalation	6432
 PW Expanded Public Works ESCP Environmental	15138
@@ -416,16 +482,20 @@ Policy Analysis Report. ESCCOM	12395
 Potencial da Escola Nacional	11569
 Prensa Escrita	4209
 Procedures ESCON Environmental and Social Compliance Note	11863
+Profesional EUFP Escuela Universitaria de Formación	16864
 Programa Nacional de Alimentação Escolar	11482
 Project Steering Committee Escalation	12359
 Project. AU ESCP	1264
 Project. ESCP	3604
 Project’s Effective Date. Guinea ESCP	1264
+Provas Ponderação Escola Superior Agrária Biotecnologia	17103
 Proyecto Nacional de Transporte Escolar	4209
 Proyecto de Alimentación Escolar	4209
 Proyecto de Rendimiento de Centros Escolares	4209
 REG. ESCUELA CONT. MILITAR MILITAR CONT	4209
 REGULAÇÃO DOS RECURSOS ESCASSOS E DOMÍNIOS	11397
+RESUMEN DE LAS ESCUELAS DE EDUCACIÓN	16920
+RESUMEN DE LAS ESCUELAS PRIMARIAS DESDE	16920
 RSTP and ESCCOM	6539
 Rate of Return ESCP Environmental and Social	11549
 Recursos Escassos	11795,1047
@@ -433,6 +503,8 @@ Reestruturação da Escola Nacional	11569
 Rehabilitación Escuela Unitaria	4209
 Rehabilitación Escuelas	4209
 Rehabilitación de Escuelas Primarias	4209
+Repitentes de Escuelas Primarias	16864
+Repitientes de Escuelas Primarias	16920
 Reporting and Escalation Matrix	6432
 Reporting and Escalation Pathways	3861
 SAA ESCP	1264
@@ -457,6 +529,7 @@ TAXA LÍQUIDA DE ESCOLARIZAÇÃO	10766
 Tamanho Escalão	10757
 Taxa Líquida de Frequência Escolar	10777
 Taxas Brutas de Frequência Escolar	10777
+Texto SIEGE Sistema de Información Escolar de Guinea	16920
 Títulos Escolares	11419
 UN ESCWA	4819
 UN EScAP	10840

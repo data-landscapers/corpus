@@ -60,7 +60,7 @@ ARRANGEMENTS Article	15641
 ARRETE Article	10981,4516,1119
 ARRETENT ARTICLE PREMIER	16635
 ARRÊTE Article	13923
-ARTICLE	2465,1107,675,1941,2702,2208,858,571,244,555,389,4,4,49,9,28,600,21,482,325,111,16,9,26,13,24,5,28,15,1,21,24,371,98,329,307
+ARTICLE	2465,1107,675,1941,2702,2208,858,571,244,555,389,4,4,49,9,28,600,21,482,325,111,16,9,26,13,24,5,28,15,1,21,24,371,98,329,307,301
 ARTICLE CENT-CINQUIÈME.-	15999
 ARTICLE CENT-DEUXIÈME.- Au	15999
 ARTICLE CENT-QUATRIÈME.- Le Président	15999
@@ -94,6 +94,7 @@ ARTICLE III DUTIES OF THE CONSULTANT	13031
 ARTICLE IO	15348
 ARTICLE IV	14912
 ARTICLE IV CONSULTATION	13741,127
+ARTICLE IV CONSULTATION AND REVIEW UNDER	17503
 ARTICLE IV CONSULTATION KEY ISSUES Context	13868
 ARTICLE IV PAYMENT FOR THE SERVICES	13031
 ARTICLE NEUVIÈME.- Soutien	15999
@@ -167,12 +168,15 @@ ARTICLES OF ASSOCIATION	3714
 ARTICLES OF ASSOCIATION Companies	3714
 ARTICLES OF ASSOCIATION FOR A PRIVATE	3714
 ARTICLES OF ASSOCIATION FOR A PUBLIC	3714
+ARTICLES OF CONVENTIONS APPLICABLE TO RECOGNIZED	16830
+ARTICLES OF THE CONVENTION RELATING	16830
 ARTICLES POPULAIRES Plaies	11123
 ARTICLES RECENTS Lutte	11123
 ARTICLES THEMATIQUES	16378
 ARTICLES THEMATIQUES Flash Infos Le DPPD-PAP	16378
 ARTICLET CASDEDEFAUT	15399
 ARTICLI	15348
+ARTICULO	16871
 ASSEMBLY ARTICLE	14409
 ASSIMPER Article	15027
 ASSIMPER. Article	15027
@@ -204,7 +208,7 @@ Activités Postales Article	37
 Activités de Communications Electroniques Article	37
 Address Grievance Article	11956
 Adhésion Article	15027
-Administration Article	14862,1,239,310
+Administration Article	14862,1,239,310,2028
 Administration Centrale. Article	16611
 Administration de RDB Article	14862
 Administration de RSB Article	14863
@@ -233,11 +237,12 @@ Agence de Régulation. ARTICLE	13809
 Agence. Artic	15400
 Agence. Article	735,13697,943,37,4,15
 Agent Comptable. Article	15412
-Agreement. ARTICLE II	14430
+Agreement Notwithstanding Article	16843
+Agreement. ARTICLE II	14430,2506
 Agreement. ARTICLE III	14430
-Agreement. ARTICLE IV	14430
+Agreement. ARTICLE IV	14430,2506
 Agreement. ARTICLE V	15697
-Agreement. Article	15901
+Agreement. Article	15901,942
 Agreement. Effectiveness Article V	15659
 Agrométéorologie Article	15371
 Aimé Ange Wilfrid BININGA Article	15780
@@ -249,6 +254,10 @@ Amortissements Article	16047
 Amérique. Article	16367
 Anatole Collinet MAKOSSO Article	15524,136,120,6,253,61
 Anglais. Article	10966
+Annex I. Article	16843
+Annex II. Article	16843
+Annex IV. Article	16843
+Annex VII. Article	16843
 Annonces Articles	9993
 Announcing the Results Article	15393
 Appeal Tribunal Article	14926
@@ -277,7 +286,7 @@ Articl2e	13292
 Articla	15363
 Articlas	15363
 Articlc	15443
-Article	7,3,1,6,8,2,10,76,50,70,1,30,38,6,3,108,16,113,21,7,9,150,12,1,2,3,9,23,4,368,29,28,5,12,12,4,25,18,44,1,1,1,244,6,5,5,33,29,83,59,6,11,19,1,1,37,15,22,29,17,25,4,62,26,1,1,1,11,6,49,280,12,1,27,47,3,15,19,42,34,134,14,86,7,99,40,53,3,5,95,60,76,104,29,1,1,71,74,6,75,56,1,23,18,53,52,181,7,105,104,44,40,17,44,3,1,1,1,11,1,119,1,18,8,17,4,59,106,143,16,104,97,29,68,30,2,2,3,74,42,3,74,47,26,10,66,70,32,134,16,66,87,14,21,159,38,49,58,54,33,46,5,17,33,67,1,23,27,299,32,27,3,81,71,19,121,45,9,54,51,5,2,12,2,34,6,6,20,10,102,45,20,52,11,43,24,5,5,66,45,17,95,190,148,20,34,15,48,69,1,1,1,1,23,25,88,1,4,29,39,41,10,25,79,36,29,32,110,13,14,27,162,6,17,8,120,64,37,1,14,78,1,115,1,1,46,12,1,24,1,29,22,1,95,1,2,7,93,2,24,97,21,36,17,2,25,39,172,25,63,5,47,6,4,37,1,1,5,3,3,1,3,7,5,1,11,23,24,2,1,2,3,3,10,16,29,9,4,2,55,43,22,34,4,1,14,2,34,3,54,66,104,61,39,5,28,2,15,13,27,39,15,43,13,25,54,17,51,4,12,20,5,2,20,16,13,4,5,10,2,16,14,51,37,50,1,5,13,21,3,5,8,25,6,10,4,9,38,1,7,1,17,8,6,4,1,22,13,2,7,31,6,41,8,10,14,8,10,17,89,163,116,4,3,3,14,4,23,13,72,2,7,17,40,51,37,35,71,1,1,1,9,7,3,10,2,1,4,4,15,6,29,4,30,18,6,19,1,21,1,7,33,8,6,49,1,119,2,1,2,7,2,2,16,33,9,44,2,1,1,3,2,9,9,24,1,46,14,3,8,2,1,1,2,1,3,3,2,4,1,5,3,10,10,18,10,1,6,8,34,26,14,11,3,1,1,20,26,18,112,103,1,1,1,2,3,1,1,1,1,2,1,1,2,3,2,1,2,1,9,14,1,4,6,14,5,1,1,3,7,24,14,8,3,45,12,4,48,8,48,1,20,7,1,25,44,12,15,2,2,6,3,6,3,1,1,4,3,4,2,3,4,1,5,2,2,14,1,3,1,6,1,7,6,3,72,7,13,39,15,21,18,3,3,21,1,1,26,2,7,14,9,20,10,24,50,31,4,4,2,1,1,6,1,1,1,2,1,5,3,1,1,2,1,3,1,10,1,1,2,2,1,5,1,3,1,2,1,1,2,2,1,1,1,5,2,1,2,1,2,1,3,1,3,1,1,11,1,3,2,3,1,2,2,4,9,2,4,1,3,3,2,5,5,1,16,1,8,12,2,4,7,2,1,8,15,4,6,3,1,1,3,1,1,3,1,4,2,1,20,1,5,13,3,1,2,18,3,6,3,1,1,8,1,2,24,5,12,3,20,2,9,2,6,4,2,14,3,39,15,22,16,2,27,3,1,9,25,31,21,1,18,8,33,5,7,1,7,30,41,6,12,14,16,8,3,5,7,5,16,8,2,1,21,27,6,16,23,3,5,38,12,31,71,20,21,6,37,1,1,2,1,1,8,1,8,2,1,8,6,68,28,34
+Article	7,3,1,6,8,2,10,76,50,70,1,30,38,6,3,108,16,113,21,7,9,150,12,1,2,3,9,23,4,368,29,28,5,12,12,4,25,18,44,1,1,1,244,6,5,5,33,29,83,59,6,11,19,1,1,37,15,22,29,17,25,4,62,26,1,1,1,11,6,49,280,12,1,27,47,3,15,19,42,34,134,14,86,7,99,40,53,3,5,95,60,76,104,29,1,1,71,74,6,75,56,1,23,18,53,52,181,7,105,104,44,40,17,44,3,1,1,1,11,1,119,1,18,8,17,4,59,106,143,16,104,97,29,68,30,2,2,3,74,42,3,74,47,26,10,66,70,32,134,16,66,87,14,21,159,38,49,58,54,33,46,5,17,33,67,1,23,27,299,32,27,3,81,71,19,121,45,9,54,51,5,2,12,2,34,6,6,20,10,102,45,20,52,11,43,24,5,5,66,45,17,95,190,148,20,34,15,48,69,1,1,1,1,23,25,88,1,4,29,39,41,10,25,79,36,29,32,110,13,14,27,162,6,17,8,120,64,37,1,14,78,1,115,1,1,46,12,1,24,1,29,22,1,95,1,2,7,93,2,24,97,21,36,17,2,25,39,172,25,63,5,47,6,4,37,1,1,5,3,3,1,3,7,5,1,11,23,24,2,1,2,3,3,10,16,29,9,4,2,55,43,22,34,4,1,14,2,34,3,54,66,104,61,39,5,28,2,15,13,27,39,15,43,13,25,54,17,51,4,12,20,5,2,20,16,13,4,5,10,2,16,14,51,37,50,1,5,13,21,3,5,8,25,6,10,4,9,38,1,7,1,17,8,6,4,1,22,13,2,7,31,6,41,8,10,14,8,10,17,89,163,116,4,3,3,14,4,23,13,72,2,7,17,40,51,37,35,71,1,1,1,9,7,3,10,2,1,4,4,15,6,29,4,30,18,6,19,1,21,1,7,33,8,6,49,1,119,2,1,2,7,2,2,16,33,9,44,2,1,1,3,2,9,9,24,1,46,14,3,8,2,1,1,2,1,3,3,2,4,1,5,3,10,10,18,10,1,6,8,34,26,14,11,3,1,1,20,26,18,112,103,1,1,1,2,3,1,1,1,1,2,1,1,2,3,2,1,2,1,9,14,1,4,6,14,5,1,1,3,7,24,14,8,3,45,12,4,48,8,48,1,20,7,1,25,44,12,15,2,2,6,3,6,3,1,1,4,3,4,2,3,4,1,5,2,2,14,1,3,1,6,1,7,6,3,72,7,13,39,15,21,18,3,3,21,1,1,26,2,7,14,9,20,10,24,50,31,4,4,2,1,1,6,1,1,1,2,1,5,3,1,1,2,1,3,1,10,1,1,2,2,1,5,1,3,1,2,1,1,2,2,1,1,1,5,2,1,2,1,2,1,3,1,3,1,1,11,1,3,2,3,1,2,2,4,9,2,4,1,3,3,2,5,5,1,16,1,8,12,2,4,7,2,1,8,15,4,6,3,1,1,3,1,1,3,1,4,2,1,20,1,5,13,3,1,2,18,3,6,3,1,1,8,1,2,24,5,12,3,20,2,9,2,6,4,2,14,3,39,15,22,16,2,27,3,1,9,25,31,21,1,18,8,33,5,7,1,7,30,41,6,12,14,16,8,3,5,7,5,16,8,2,1,21,27,6,16,23,3,5,38,12,31,71,20,21,6,37,1,1,2,1,1,8,1,8,2,1,8,6,68,28,34,55,3,1,3,4,6,21,28,14,5,21,1,8,6,1,14,24,21,2,58,22,41,37,84,69,37,18,9,25,19,1,1,1,2,9,4,6,23,49
 Article 12.html	6471
 Article 16	13719
 Article 39	13719
@@ -289,11 +298,16 @@ Article Cairo University Launches Free Program	5322
 Article Contrat	15901
 Article DOI	4074
 Article Ecrit	10625
+Article Eight The Union	17438
+Article Eighteen Provisions	17438
+Article Eleven The Union	17438
 Article Enquiry Close	6387
 Article Facebook Twitter Copy Link Print	2264,1669,239,437,166,820,1446
 Article Five	15492
 Article Flipboard Pinterest Tumblr	9925,238
 Article Four	15492
+Article Four The Union	17438
+Article Fourteen Any	17438
 Article Google Scholar Arora P	9739
 Article Google Scholar Aruku K	9739
 Article Google Scholar Bai	9739
@@ -328,17 +342,19 @@ Article Google Scholar Wilson	9739
 Article I Scope of Services	13031
 Article I.5.A	15901
 Article ID	4271
-Article II	1914,13479
+Article II	1914,13479,1543
 Article III	7845,7548,826
 Article III Duties	13031
-Article IV	1828,2,2297,1687,725,140,4738,108,330,1886,127,2351,165
-Article IV Consultation	3583,70,10088,127
+Article IV	1828,2,2297,1687,725,140,4738,108,330,1886,127,2351,165,538,27,23,531
+Article IV Consultation	3583,70,10088,127,3496,139
 Article IV Consultation Report	15518
 Article IV Consultation and Fifth Review	13741
-Article IV Consultation and Review Under the Flexible	8891
+Article IV Consultation and Review Under the Flexible	8891,8612
 Article IV Consultation-Press Release	13624,244
 Article IV Consultation. IMF	10997
+Article IV Main Recommendations 82 IX. Youth	17503
 Article IV Mission	10841
+Article IV. Washington DC	16942
 Article IX	16219
 Article Il	15354
 Article J	15399
@@ -351,6 +367,7 @@ Article L’IGEBU	13702
 Article L’Institut Géographique du Burundi	13422
 Article N	1801,10400
 Article Name Eitzel	1248
+Article Nineteen This Treaty	17438
 Article No	15516
 Article P	16020
 Article P-1000	16020
@@ -359,6 +376,7 @@ Article P-917	16020
 Article Page Photo Album Raccourcis	15449
 Article Paiement	15901
 Article Premier	232,15868
+Article Previous	17077,184
 Article Propriété Intellectuelle	15901
 Article PubMed Google Scholar Abiy R	10784
 Article PubMed PubMed Central Google Scholar	10784
@@ -366,17 +384,22 @@ Article Rating Subscribe Login	5390,965,827
 Article Relying Parties	12146
 Article S	1837,8876,4136
 Article SO	15584
+Article Seven The Prime Ministers	17438
 Article Six	15492
+Article Six Only the Presidential Council	17438
 Article Spécifications	13524
 Article Suivant Lancement	13638
 Article Suivant Recrutement	13620
+Article Tags Weather Climate MTG Meteogambia	16957
 Article The Department of Climate Change and Meteorological	12988
+Article Thirteen The Union	17438
 Article Topics	1769,158,394,69,651,29,444,289,489,409,63,62,29,287,2,181,75,100,80,313,60,13,236,86,83,128,44,465,56,47,32,89,166,2349,80
 Article Topics Africa	9804
 Article Topics Austrian State Printing House	10293
 Article Topics Benin	9801
+Article Twelve The Union	17438
 Article Using	10748
-Article V	1914,12081,435,482,785,46,476
+Article V	1914,12081,435,482,785,46,476,717
 Article V Confidentiality and Ownership of Documents	13031
 Article VI	11210
 Article VI Assignment and Sub-Contracting	13031
@@ -441,12 +464,15 @@ Article9	13292,2152,1173,8
 ArticleHuawei	6559
 ArticleRegulatory Pressure Is Increasing. Many Organisations	6632
 ArticleSouth Africa	6365
+ArticleVie	16872
 Articled Accountant	4896
 Articlel	15489
-Articles	25,2,546,12,133,31,13,137,63,252,33,89,258,88,125,84,105,409,60,46,248,57,97,92,168,541,147,266,259,181,91,16,222,425,166,6,6,409,342,100,262,358,481,97,22,1,69,215,477,5,178,157,194,533,246,15,150,382,56,57,9,56,106,187,28,80,70,35,31,72,175,93,11,52,207,33,19,38,97,196,56,4,33,171,29,8,137,81,120,111,263,127,254,16,1,2,13,15,46,3,28,24,35,399,36,25,11,3,12,33,103,310,16,27,13,263,14,5,27,87,1,1,7,21,2,15,10,1,7,6,33,42,20,54,21,18,6,51,60,126,1,29,6,6,64,4,11,4,7,109,37,57,29,24,150,120,24,2,34,19,3,279,8,134,17,76,91
+Articles	25,2,546,12,133,31,13,137,63,252,33,89,258,88,125,84,105,409,60,46,248,57,97,92,168,541,147,266,259,181,91,16,222,425,166,6,6,409,342,100,262,358,481,97,22,1,69,215,477,5,178,157,194,533,246,15,150,382,56,57,9,56,106,187,28,80,70,35,31,72,175,93,11,52,207,33,19,38,97,196,56,4,33,171,29,8,137,81,120,111,263,127,254,16,1,2,13,15,46,3,28,24,35,399,36,25,11,3,12,33,103,310,16,27,13,263,14,5,27,87,1,1,7,21,2,15,10,1,7,6,33,42,20,54,21,18,6,51,60,126,1,29,6,6,64,4,11,4,7,109,37,57,29,24,150,120,24,2,34,19,3,279,8,134,17,76,91,122,13,73,26,1,15,13,264,95,155,49
 Articles Chukwuemeka Fred Agbata	9936
 Articles IA	11673
 Articles III and IV	3583
+Articles In Headlines	17077,184
+Articles In National News	17177
 Articles L'intelligence	9541
 Articles L.10	3537,2277
 Articles Last Sync	5691
@@ -457,6 +483,7 @@ Articles Similaires Economie Congo	16486
 Articles Similaires En	1876,3203
 Articles and Memorandum of Association	3714
 Articles and Memorandum of Association. A General Council	13385
+Articles and Memorandum of Incorporation	16835
 Articles of Agreement	7845
 Articles of Association	3714,1182,7493,998,1504
 Articles of Association Article	3714
@@ -466,7 +493,7 @@ Articles of Association. Article	3714
 Articles of Association. Form	3714
 Articles of Association. PART	3714
 Articles of Association. Part D Insert	3714
-Articles of Incorporation	10407,2778
+Articles of Incorporation	10407,2778,3693,450
 Articles-	6790
 Articles. Annexure	3714
 Articles. Article	3714,2898
@@ -484,7 +511,7 @@ Articulation	1009,9867,1068,3556
 Articulations	7919
 Articulação	10783,665,13,66,3949,50,46
 Articulação Na	15532,157
-Articulo	163
+Articulo	163,16735,124
 Articulé	4043,6837
 Assembly ARTICLE	14409
 Assembly. ARTICLE	14409
@@ -530,6 +557,9 @@ BUJUMBURA Article	13292
 BUSSOBR D'EL'ETAT ARTICLE QUATRE-VINGT-TROISIÈME.-	15999
 Bacongo. Article	15780
 Bank Account Article	15393
+Bank Al Maghrib. Article	17443
+Bank Al-Maghrib Article	17443
+Bank Al-Maghrib. Article	17443
 Bank. ARTICLE V UNDERTAKINGS Section	16219
 Bank. Diederick Zambon Article	15901
 Banking and Capital Market Development ARTICLE	14409
@@ -654,7 +684,7 @@ COBE the Memo and Articles	4896
 COLLECTIVITES TERRITORIALES ARTICLE	15469
 COMITE DE DIRECTION. Article	15416
 COMITE TECHNIQUE DE LABELLISATION Article	15588
-COMMERCE Article	13293
+COMMERCE Article	13293,4146
 COMMISSARIAT AUX COMPTES. Article	15416
 COMMISSIONS AD HOC Article	15410
 COMMUNAL Article	10813
@@ -681,9 +711,11 @@ CONTENTS TABLE DES MATIERES Article	14862
 CONTRACTUAL ARRANGEMENTS AND TIMELINES Article	15081
 CONTRAVENTIONS AND ENFORCEMENTS Article	12616
 CONTRIBUABLES Article C	15999
+CONTROLE DES ETABLISEMENTS DE CREDIT Article	17443
 CONTRÔLE Article	10836,4799
 CONTRÔLE DE LA GESTION. Article	15416
 COOPERATION Article	785
+COORDINATION Articulate	16942
 COTISATIONS SOCIALES ET AUTRES RECETTES Article	15426
 COUR DES COMPTES Article	15703
 COVID-19. Article	15478
@@ -691,6 +723,7 @@ CREANCES FISCALES Articie	15999
 CREATION Article	15350
 CREATION ET COMPOSITION Article	10825
 CREATION ET SIEGE Article	15410
+CREDIT Article	17443
 CROSS-BORDER TRANSFERS OF PERSONAL DATA Article	14907
 CRYPTOLOGIE Article	13719
 CRÉDITS DU BUDGET GÉNÉRAL ARTICLE	15999
@@ -722,6 +755,7 @@ Center. ARTICLE	15484
 Centrafricaine. Article	15558
 Centre. Article	15366
 Certain Bodies Article	15393
+Certificados Concisos. Articulo	16859
 Certificat Foncier Article	14444
 Certificate of Incorporation and Articles	12483
 Certifications ARTICLE	15484
@@ -730,6 +764,8 @@ Chairpersons of Sub-Committees. Article	15393
 Chambre de Commerce. Article	13843
 Chambre. Article	15727
 Chapitre VI Sanctions Article	308
+Chapitre VII Dessanctions Article	17440
+Chapitre VIII Dispositionstransitoires Article	17440
 Chapitre. Article	10966
 Chapter VII and Chapter XII and Article	1807
 Chapter. Article	14907
@@ -745,6 +781,7 @@ Cite This Article	12826
 City of Kigali Councils Article	14918
 Civil Aviation and Civil Air Transport ARTICLE	14409
 Civil Society ARTICLE	14409
+Civil and Political Rights and Articles	17330
 Civil and Political Rights. Article	10453
 Clearing Article	15102
 Closing Date. ARTICLE VII FINANCIAL MANAGEMENT	16219
@@ -816,9 +853,9 @@ Consent and Other Lawful Bases Article	11956
 Constituency. Article	15393
 Constitution Article	2456
 Constitution and Article	13470,1342
-Constitution. Article	17,291,8558,5082,468,43,41,110,787,8,198,12,88,24
+Constitution. Article	17,291,8558,5082,468,43,41,110,787,8,198,12,88,24,1231
 Constitutional Mandate and Legal Authority WHEREAS Article	3861
-Contentieux Article	15371
+Contentieux Article	15371,2068
 Contents ARTICLE	15399
 Contract Article	11956
 Contract. ARTICLE II COMMENCEMENT OF SERVICES	13031
@@ -846,6 +883,7 @@ Copy URL Article	16092,283,152
 Cotonou Article	15654
 Council ARTICLE	14409
 Council of Constitutional Inquiry. Article	13948
+Council of Foreign Ministers. Article	17438
 Council. ARTICLE	14409
 Cour Constitutionnelle. Article	15703,24
 Cour des Article	15901
@@ -891,6 +929,7 @@ DATA Article	11517
 DATA CONTROLLER ArtiCle	11517
 DATA PROTECTION ACT ARRANGEMENT OF ARTICLES	14907
 DATA PROTECTION Article	11517
+DE CHANGE Article	17439
 DE CONFIANCE Article	15584
 DE DATOS PERSONALES Articulo	163
 DE FINANCEMENT ET DE TRESORERIE Article	16047
@@ -954,6 +993,7 @@ DE L’ORGANISATION DES OPERATIONS ELECTORALES Article	15727
 DE L’ORGANISATION ET DU FONCTIONNEMENT Article	15426
 DE MEMBRE Article	15410
 DE PAIEMENT Article	15443,65
+DE PASAPORTE BIOMETRICO ARTICULO	16871
 DE PROMOTION Article	15780
 DE SERVICES DE COMMUNICATIONS ELECTRONIQUES Article7	15444
 DE VOTE Article	15727
@@ -969,10 +1009,12 @@ DEFINITIONS ARTICLE	12527
 DEFINITIONS Article	10825,3604,2207
 DEFINITIONS DES TERMES Article	13828
 DEFINITIONS SECTION I DES PRINCIPES Article	13709
+DEL PASAPORTE DE SERVICIO ARTICULO	16871
 DEMANDE ET OBTENTION DE L’INFORMATION Article	14861
 DEPA and Article	1243
 DEPENSES Article	16020
 DEPENSES BUDGETAIRES Article	16047
+DEPÔTS Article	17443
 DES ACTES DE COMMERCE Article	13293
 DES ACTIONS SOCIALES Article	15361
 DES ACTIVITES ET SERVICES NUMERIQUES. Article	15584
@@ -993,6 +1035,7 @@ DES COMPTES PUBLICS Article	16047
 DES COMPTES SPÉCIAUX ARTICLE UATRE-VINGT-DIX-SEPTIÈEME.-	15999
 DES CONDITIONS D’INSCRIPTION Article	15727
 DES CONTROLES Article	15395,385,259
+DES CORRESPONDANCES Article	17439
 DES DEFINITIONS Article	785,12507,2435,885
 DES DEVOIRS Article	15703
 DES DIRECTIONS TECHNIQUES. Article	15416
@@ -1092,7 +1135,7 @@ DISPOSITIONS FINANCIERES Article	13524,1886
 DISPOSITIONS FINANCIERES ET COMPTABLES Article	15426
 DISPOSITIONS FISCALES ET COMPTABLES Article	15352
 DISPOSITIONS GENERALES ARTICLE	13809,1627,94
-DISPOSITIONS GENERALES Article	436,750,3217,6563,556,45,1957,197,690,33,405,12,1,1,491,41,23,1,1,6,16,1,1,11,1,26,26,16,60,4,14,10,42,38,40,15,154,184,92,145,294,21,14
+DISPOSITIONS GENERALES Article	436,750,3217,6563,556,45,1957,197,690,33,405,12,1,1,491,41,23,1,1,6,16,1,1,11,1,26,26,16,60,4,14,10,42,38,40,15,154,184,92,145,294,21,14,228,560
 DISPOSITIONS GENERALES Article C	15999
 DISPOSITIONS GENERALES Article L	15999
 DISPOSITIONS GENERALES Article Premier	15524
@@ -1248,6 +1291,7 @@ Djiri. Article	16274,182
 Djoumouna Article	15395
 Document. Article	3503
 Dolisie. Article	15426
+Dollar. ARTICLE III	16936
 Downloads Article Details References Addis Standard	8671
 Draft Article	9915
 Draft Articles	9991
@@ -1315,6 +1359,7 @@ ENQUÊTE DE LA CYBERCRIMINALITÉ Article	14870
 ENQUÊTE DE MARCHÉ Article	15126
 ENQUÊTE SUR LES ACTIVITÉS COMMERCIALES Article	15126
 ENTRY INTO FORCE ARTICLE	12527
+ENVIRONMENT AND COORDINATION Articulate	16942
 ENVIRONNEMENTAL ET CULTUREL Article	15703
 ENVISAGED IN ARTICLE	1333
 EQUILIBRE BUDGETAIRE Article	16047
@@ -1346,6 +1391,7 @@ EXEMPTIONS Article C	15999
 EXONERATIONS Article	15999
 EXTRACTS FROM THE MEMORANDUM AND ARTICLES	4896
 EXÉCUTION DES OPÉRATIONS DE PAIEMENT Article	14919
+Earth. Article	16847
 East African Trade Regime ARTICLE	14409
 Eau. ARTICLE	13809
 Economie Numérique. Article	1231,14302,670
@@ -1378,6 +1424,7 @@ Energie. ARTICLE	13809
 Engagement Budgétaire Article	15569
 Engagements Financiers. Article	15412
 English. ARTICLE	14409
+English. Article	16843
 Enquête ARTICLE	37
 Entité Territoriale Décentralisée. Article	15569
 Entités Territoriales Décentralisées. Article	15569,801
@@ -1386,6 +1433,7 @@ Entretien Routier. Article	16645
 Environment ARTICLE	14409
 Environmental Impact Statements. Article	1988
 Environmental Issues and Natural Resources ARTICLE	14409
+Equatorial Guinea. Article	16958
 Establishment ARTICLE	14409
 Establishment and Composition of Sectoral Committees ARTICLE	14409
 Establishment of Independent Appeal Committee Article	15126
@@ -1405,12 +1453,14 @@ Ethnic Minority. Article	11905
 Europe. Article	15237
 European Commission’s Article	8629
 European Convention of Human Rights and Article	14841
+European Union. Article	17019
 Evaluation and Maintenance of Data Security System Article	11956
 Evaluation of Lawful Bases of Data Processing Article	11956
 Evidence Article	10911
 Excellence Article	15376
 Except Article One of Law	15102
 Except the Articles	12226
+Excise Tax Harmonized Code Article Description	17011
 Executive Committee Article	15027
 Executive Committee Members Article	15027
 Executive Committee. Article	15027
@@ -1452,6 +1502,7 @@ FINANCIAL PROVISIONS ARTICLE	12527
 FINANCIERE Article	14417
 FINANCIERE DES COLLECTIVITES TERRITORIALES ARTICLE	15469
 FISCALITE Article	16612
+FLEGT LICENSES Article	16843
 FOB. Article	16020
 FONCTIONNEMENT Article	15350,1261,5
 FONCTIONNEMENT DES COMMISSIONS SPECIALISEES Article	16616
@@ -1518,6 +1569,7 @@ GOUVERNANCE ET CONTRÔLE INTERNE Article	10836,4799
 GROUPE BENHAMADI GERBIOR Article	15885
 GTS. Article	13334
 Gabon. Article	15560,167,293
+Gambia. Share Article Previous	17177
 Garantia de Articulação Normativa	11448
 Garantie Article	15126
 Garantie Sociale. Article	15361
@@ -1558,6 +1610,7 @@ HANDICAPEES ARTICLE	15436
 HATPLC Article	15885
 HEC. Article	15393
 HEREBY ORDERS AS FOLLOWS Article	16547
+Harmonized Code Article Description	17011
 Head of State. Article	13948
 Heads of State. ARTICLE	14409
 Health ARTICLE	14409
@@ -1604,8 +1657,8 @@ IIC Article	11139
 IIC. Article	11139
 III Articles	16708
 IJ Article	15397
-IMF Article IV	12962,662
-IMF's Articles of Agreement	13868
+IMF Article IV	12962,662,3693
+IMF's Articles of Agreement	13868,3635
 IMF’s Articles of Agreement	13868
 INCITATIONS ET MECANISMES D’APPUI ARTICLE	13809
 INDUSTRIAL DEVELOPMENT ARTICLE	14409
@@ -1641,6 +1694,7 @@ Ikigega Article	1214
 Ikinyarwanda. Article	14862,1,30,18,191,24,51
 Imari Article	15027
 Impersonation Article	14870
+Implement WTO TFA Articles Prioritize	16968
 Implementation of Article VII	11036
 Importance Article	11956
 Incompatibilités Article	17
@@ -1667,6 +1721,8 @@ Integrated Payment and Settlement System of Burundi. Article	13388
 Integration of International Law Article	3861
 Inteko Article	15027
 Inteko Rusange. Article	15027
+Interim Government. Article	16847
+Interim National Transitional Council. Article	16847
 Interministériels. Article	15603
 Internal Audit Article	15102
 Internet Article	15584,1031
@@ -1689,10 +1745,12 @@ Ivoire and Nigeria. Article	6502
 Ivoire... PUBLICITE Articles	10379
 J Article	13781
 J C Article	13781
+JIC. Article	16843
 JOUR TABLE DES MATIERES Article	14862
 JUSTICE ARTICLE	14409
 Jean- Article	15558
 Jean-Marc THYSTERE TCHICAYA Article	15780
+Joint Implementation Committee. Article	16843
 Joint Project Financing ARTICLE	14409
 Journal Officiel. Article	14429
 Judicial Administration Council. Article	13948
@@ -1722,24 +1780,32 @@ Kubazwa Inshingano Article	15027
 Kwemeza Article	14911
 L Article	10813,2480,2291
 L CERTIFIED TRUELOPY ARTICLE SOIXANTIÈME.-	15999
+L'ACCEPTATION Article	17439
 L'ACTION COMMUNALE ET REGIONALE ARTICLE	15469
 L'ADMINISTRATION PUBLIQUE Article	15584
+L'AVAL Article	17439
+L'ECHEANCE Article	17439
 L'EGARD DE LA CLIENTELE Article	11567
 L'EMPLOI ET DES QUALIFICATIONS Article	13827
+L'ENDOSSEMENT Article	17439
 L'ETAT CIVIL Article	16636
 L'HABITAT ET AUX TRANSPORTS. ARTICLE	15364
 L'INFORMATION ET DE LA COMMUNICATION Article	13719
 L'ÉTABLISSEMENTDE L’IMPÔT GÉNÉRAL SYNTHÉTIQUE Article C	15999
+LA CAPACITE COMMERCIALE Article	17439
 LA CONSULTATION ELECTORALE ET REFERENDAIRE Article	15727
 LA GEOLOGIE Article	16177
+LA GERANCE LIBRE Article	17439
 LA GESTION DES REGISTRES Article	10813
 LA PERSONNE PHYSIQUE Article	10813
 LA PROMOTION DE L’EMPLOI JEUNE Article	15999
+LA PROVISION Article	17439
 LA QUALITE. Article I9	15416
 LA STATISTIQUE OFFICIELLE ARTICLE	15530
 LA TENUE DU REGISTRE NATIONAT Article	10813
 LAMATIONS Article L	15999
 LE COMITE DE PILOTAGE NATIONAL Article	16645
+LE PAIEMENT Article	17439
 LECTRONIQUE Article	13719,764
 LECTRONIQUES CERTIFIES DE FACTURATION PHYSIQUES Article	14469
 LEGISLATURE Article	15727
@@ -1853,6 +1919,7 @@ Man- Article	16177
 Marchés Publics Article	13524
 Marie-France Lydie Hélène PONGAULT Article	15901
 Maritime Transport and Ports ARTICLE	14409
+Maroc. Article	17443
 Matriz de Articulação	11448
 Matériel Article	15371
 Maya- Article	15488
@@ -1877,6 +1944,7 @@ Meteorological Services ARTICLE	14409
 Minister of Article	15901
 Minister of Justice. Article	15393
 Ministerial Articulation of ICT	13956
+Ministerio de Seguridad Nacional. ARTICULO	16871
 Ministre des Affaires Etrangères. Article	15597
 Ministre du Budget. Article	4420
 Ministre. Article	13292
@@ -1921,6 +1989,7 @@ NON COMMERCIAUX Article	15999
 NOUS SUR FACEBOOK Apbinfo Articles Récents	9810
 NPI. Article	16651
 NTAHANGWA. Article	13292
+NTC. Article	16847
 NUMERIQUE Article	13719
 Nama Article	14862
 Nation. Article	13710,1695,198,100
@@ -1979,6 +2048,7 @@ OBLIGATIONS D’INFORMATION ET DE TRANSPARENCE Article	10836,4799
 OBLIGATIONS SPÉCIFIQUES Article	14469
 OCFM Article	14444
 OGP Articles of Governance	9022
+OGP Articles of Governance. Based	17037
 OGP’s Articles of Governance	9022
 OHADA. Article	15426,5
 OMMUNES ET COMMUNAUTES Article C	15999
@@ -2010,6 +2080,7 @@ Odd Article	16486
 Official Language ARTICLE	14409
 Ogooué Lolo-Haut Ogooué. Article	15371
 Ohjet Article	37
+Oil and Gas Regulatory Decree Articles	16972
 Ollombo. Article	15848
 Open Access Article	12178
 Open Access Article Publishing Charges	5246
@@ -2029,6 +2100,7 @@ Oscar Nzohabonayo Article Précédent Le Chef	13638
 Ots. Article	15497
 Ouesso Article	16177
 Ouesso. Article	16274,182
+Ouléma. Article	17443
 Override Article	12616
 Owando Article	16437
 PAGE Article	15903
@@ -2061,6 +2133,7 @@ PEREQUATION Article C	15999
 PERIODE ETECTORALE Article	15397
 PERSONAL DATA PROCESSING Article	11517
 PERSONALES Articulo	163
+PERSONNE CONCERNEE Article	17440
 PERSONNE HANDICAPEE. ARTICLE	15364
 PERSONNEL Article	14431
 PERSONNELLE Article	10813
@@ -2106,12 +2179,17 @@ Parameters for Interconnection Services Article	12616
 Parameters for Mobile Telephone Services Article	12616
 Parlement. Article	14538,867,164,134
 Parquet. Article	37
+Part Five Final Provisions Article	16847
+Part Four Judicial Guarantees Article	16847
+Part One General Provisions Article	16847
 Part Two Articles	14113
+Part Two Rights and Public Freedoms Article	16847
 Partenariats Stratégiques. Article	15701
 Partner State. ARTICLE	14409
 Partner States ARTICLE	14409
 Partner States. ARTICLE	14409
 Party of Interest Consultations. Article No	15516
+Pasaporte Diplomático Articulo	16871
 Patrimoine Article	15371
 Pay As You Earn Article	14908
 Paying Customers Article	12616
@@ -2204,6 +2282,7 @@ Président. Article	113,14318
 Ptables. Article	15489
 Public Authority Article	11956
 Public Interest Article	11956
+Public-Privé Article	17456
 Public. Article	15102
 Publicité Article	15126,236
 Publiques. Article	15429
@@ -2231,7 +2310,7 @@ REGISTRES ET CARNETS DE DECLARATION Article	16636
 REGLEMENT DES DIFFERENDS Article	15584
 REGULATIONS Article	15027
 REGULATORY ENVIRONMENT Article	14965
-RELATED ARTICLES	3962,6100
+RELATED ARTICLES	3962,6100,7361
 RELATIONS AVEC LE RESEAU NATIONAL ARTICLE	13809
 REP ERTIFIEO TRUE COP ARTICLE	15999
 REPARTITION DES PROGRAMMES PAR MINISTERE Article	16047
@@ -2259,6 +2338,7 @@ RIGHTS OF THE DATA SUBJECT Article	14893
 RIQUES Article	15584
 RISQUE Article	16177
 ROUTIER Article	15786
+ROYAUME DU MAROC Article	17462
 RSB Article	14863
 RSU. ARTICLE	13715
 RSU. Article	16645
@@ -2272,6 +2352,8 @@ Recherche Article	15371,5
 Recipient. ARTICLE V	14430
 Recouvrement ARTICLE	15901
 Rectification Article	11956
+Recueil des Traités 163 Article Nine Each State	17438
+Recueil des Traités 1989 Article Two The Union	17438
 Referendum Article	15393
 Regional Peace and Security ARTICLE	14409
 Registrar of Companies. Article	14891
@@ -2281,6 +2363,7 @@ Registration Article	15177
 Registre Article	735
 Registre National des Personnes Physiques. Article	16651
 Registre SDID Article	14911
+Reglamento Aplicación. TITULO I DEFINICION ARTICULO	16871
 Regulation and Article	576
 Regulation. Article	14867,24,190
 Regulatory Authority Article	15126
@@ -2302,6 +2385,7 @@ Republic Kinyarwanda. Article	14862
 Republic of Mozambique. ARTICLE	12771
 Republic of Rwanda. Article	14861,1,8,41,191,24,51
 Republic of Zimbabwe MINDFUL of Article	12527
+Republica de Guinea Ecuatorial. ARTICULO	16871
 Republique Democrattque du Congo. Article	15584
 Republique Dernocratique du Congo. Article	15584
 Republique Dernocratlque du Congo. Article	15584
@@ -2309,6 +2393,7 @@ Republlque Democratique du Congo. Article	15584
 Republlque Democratlque du Congo. Article	15584
 Republlque Democrattque du Congo. Article	15584
 Repubulika Article	14862
+República de Guinea Ecuatorial. Articulo	17022
 Requests ARTICLE	15484
 Research Article	8604
 Research Article Assessment	12379
@@ -2389,6 +2474,7 @@ SERVICES DE CERTIFICATION Article	15395
 SERVICES DE PAIEMENT Article	15442
 SERVICES EN LIGNE Article	15397
 SERVICES LOCAUX ARTICLE	15469
+SERVICIO DIPLOMATICO. ARTICULO	16871
 SES ADJOiNTS ARTICLE	15348
 SETTLEMENT OF DISPUTES ARTICLE	12527
 SFE. Article	14469
@@ -2458,6 +2544,7 @@ Services. Article	15901
 Settlement and Reconciliation ARTICLE	15484
 Settlement of Disputes. Article	15641
 Siasa Premium Articles IDO	9646
+Signature Date. ARTICLE V	16936
 Signature Date. ARTICLE VI	14430
 Sitounkola. Article	15558
 Small and Medium Enterprises. ARTICLE	13326
@@ -2485,8 +2572,12 @@ State Land Fund. ARTICLE	12771
 State Parties. Article	15641
 State Parties. PART IX TRANSPARENCY Article	15641
 State. ARTICLE	12771
-State. Article	11517
+State. Article	11517,5330
 States. Article	13948
+States. Article Fifteen Member States	17438
+States. Article Five The Presidential Council	17438
+States. Article Sixteen Member States	17438
+Stations Article	16957
 Statistique. ARTICLE	15485
 Statistique. Article	13707,1974,935
 Statistiques. Article	15701
@@ -2593,14 +2684,17 @@ Transit Cargoes Article	15492
 Transition ARTICLE	14409
 Transition. Article	15703
 Transitional Provisions ARTICLE	14409
+Transitional Stage Article	16847
 Transmission These Articles	3714
 Transmission of Postal Articles	13951
 Treasurer Article	15027
 Treaty ARTICLE	14409
 Treaty. ARTICLE	14409
 Treaty. Article	12962
+Treaty. Article Seventeen Other States	17438
 Treaty’ MINDEUL of Article	15363
 Trésor Public. Article	13772,1594,654
+Trésor. Article	17443
 Tweet Article	16242
 Type and Objects of Company Rationale This Article	8866
 Télécommunications Article	16615
@@ -2608,6 +2702,7 @@ Télédétection Article	15371
 U Article	15525
 U.S. Government. ARTICLE	4247
 U.S. Government. Article	4247
+UDHR Articles	16951
 UDHR and Article	11704
 UEMOA. Article	10836,4672
 UMOA. Article	15635
@@ -2623,14 +2718,15 @@ Ubuyobozi. Article	14862
 Ubwishingire Article	15126
 Uganda Finance E ENS ArticleSettlement	6998
 Umubitsi Article	15027
-Under Article	1742,3502,4670,2021,2611,196
-Under Article IV	13868
+Under Article	1742,3502,4670,2021,2611,196,2101
+Under Article IV	13868,3635
 Under Articles	4763,10014
+Under the IMF's Articles of Agreement	17503
 Union Africaine. Article	16020
 Union Article	15395,93,413
 Union des Comores. ARTICLE	13723
 Union des Comores. Article	13719,62
-Union. Article	10836,4672
+Union. Article	10836,4672,1335
 Unit. Article	14742
 Unité Opérationnelle de Programme Article	15569
 Unless Article	27
@@ -2662,6 +2758,7 @@ Voter Database Article	15393
 WITHDRAWAL ARTICLE	12527
 WOMEN IN SOCIO-ECONOMIC DEVELOPMENT ARTICLE	14409
 WTO E-Commerce Negotiations. Article	1243
+WTO TFA Article	17367
 Weihai Xuli International Article	15395
 X Article	15643
 XC II ANNEXES Article	14488

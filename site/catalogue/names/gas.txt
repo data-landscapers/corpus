@@ -1,6 +1,7 @@
 ABBREVIATIONS AGO Automotive Gas Oil AI	718
 AD. SUPPO. SUPPO. COMP. GASTRO. RESIST	15930
 ALLOCATIONS.EN GAs DE DÉFAUT DE REMBOURSEMENT	15999
+Administrativos Gasto	16898
 African Atlantic Gas Pipeline	7452
 African Gas and Oil Company Limited	12256
 African Gas and Oil Company Limited AGO	12256
@@ -25,6 +26,7 @@ COMP. GAST. RESIST. Granulés SOL. RECT	15930
 COMP. GLES. A MICRO. GRAN. GAST	15930
 CUADRO DE GASTOS MENSUALES DE FUNCIONAMIENTO	4209
 Cadastro Social Unico Gaspar Dos Santos	7882,3599
+Central Eléctrica de Turbo Gas	16969
 Combined Cycle Gas Turbine	12062
 Combined Cycle Gas Turbines	11228
 Combined-Cycle Gas Turbines CSP Concentrated Solar	11228
@@ -33,6 +35,7 @@ D. Gasevi	9128
 D.C. Gaspar	1828
 DE LA APROBACIÓN DE GASTOS	4209
 DE LOS GASTOS Y MEDIDAS	4209
+DEPÓSITOS DE CARBONO Y GASES	16875
 DETALLE DE GASTOS	4209
 DETALLE DE GASTOS DE LAS SECCIONES	4209
 De Gasperin	16144
@@ -50,22 +53,28 @@ Electricity and Gas	15085
 Electricity. Gas	14836
 ElementPay Blaise Pascal Gasabira Leads Rwanda	6887,414
 Elena Gasol	9636,5811
+Elena Gasol Ramos	16876
 En Gas	37
 Enock KABANYANA Nadine GASAMUDURI Imelde KAMARIZA	13300
 Environmental and Legal PETROSA Petroleum Oil and Gas	11261
 Eritrea's Gash Barka	14085
 Ethiopia Gas Market	12233
 Expansion of Natural Gas Network Connection	15578
+Fatou Gassama	17407
 Fatou Gassama The Gambia Bureau	8459
 Full Pass-Through Price Gasoline Diesel Sources	1828
 G ANTI-REFLUX GASTRO-OESOPHAGIEN	15930
 GAKURU Venuste NIYIZIRERA Grace GASASIRA Gerard	12445
 GAS Act	11272
+GAS OIL	16900
 GASA Formation. Il	12883
 GASANZE	718
+GASOLINE	16900
 GASSACKYS	15848
 GASSAKI GEMA	16177
 GASSAYES YOHA Conseiller	15744
+GASSOYONG S	16841
+GASSOYONG S-ALVNAS OL LNAWASYOGNG S	16841
 GASTO DE PRIMERA INSTALACION POR GRUPO	4209
 GASTO DE RETORNO POR GRUPO Nº	4209
 GASTOS	4209
@@ -83,6 +92,7 @@ GASTOS PRESUPUESTARIOS	4209
 GASTOS PÚBLICOS	4209
 GASTROENTEROLOGY INCLUDING HEPATOLOGY SERVICES	14773
 GED Government Education Department GCMS Gas	13420
+GHG Greenhouse Gas GHGI Greenhouse Gas	17140
 GHG Greenhouse Gas GoBF Government of Burkina	15621
 GN Gasu	9616
 GNI Greenhouse Gas GRS Gross National	16144
@@ -110,6 +120,7 @@ Gas Master Plan	11215,57
 Gas Natural	1701
 Gas Natural Diversificada	1701
 Gas Natural Licuado	1701
+Gas Oil	16935
 Gas Sector	11925
 Gas Service Connection Electricity Network Development	15578
 Gas Services Congo	16413
@@ -134,9 +145,10 @@ Gasabo Fees	12328
 Gasabo KG	14967,38
 Gasabo Kobil Petroleum Rwanda Gatsata	718
 Gasela Mgqibelo	4896
-Gaseous	15027
-Gases	13385
+Gaseous	15027,1873
+Gases	13385,3490,25
 Gases GoZ Government of Zimbabwe HDI Human	970
+Gases de Efecto Invernadero	16875
 Gasevi	9128
 Gasevic	8602,526
 Gasevicetal	8602
@@ -155,24 +167,28 @@ Gashu K	10784
 Gashu KD	10780,1475
 Gasinzigwa	12372
 Gasoduto Africano Atlântico Segunda	11429
-Gasoil	15542,1172
+Gasoil	15542,1172,186
+Gasoil Price	17177
+Gasoline	16902
 Gasoline Diesel Kerosene Jet	1828
 Gasoline Diesel Sources	1828
 Gasoline and Diesel	718
 Gaspar	1828,9169,2871
 Gaspar Datondji	1814
 Gaspar Dos Santos	5542,432,6,605,32,628,4184,3,47
+Gaspar EDU MBO Jefe de Servicio de Metodología	16898
 Gaspar Micolo	11417
 Gaspard	15524
 Gaspard MASSOUKOU	16249
 Gaspard MEZUI OVONO	16099
 Gasper	14896
 Gaspers	2518
+Gassama	16937
 Gassan	5504
 Gassan Nayala Boucle du Mouhoun	15715
 Gassier	3604
 Gasta Siyateya Mwinde	13397
-Gasto	1701
+Gasto	1701,15197,71
 Gasto de Alojamiento	4209
 Gasto de Equipamiento	4209
 Gaston	15660,84
@@ -181,10 +197,12 @@ Gaston ELOUNDOU ESSOMBA	16559
 Gaston Mawanou	2261
 Gaston Mesmin	15558
 Gaston Noel LIRA	16099
-Gastos	1432,2777,7178,4089
+Gaston Sorgho Task Team Leader	16896,26
+Gastos	1432,2777,7178,4089,1422
 Gastos Administrativos	4209
 Gastos Base	4209
 Gastos Comunes	4209
+Gastos Corrientes Gastos de Inversión Gráfico	16969
 Gastos Ejercicios Cerrados	4209
 Gastos Financieros	4209
 Gastos Reservados	4209
@@ -199,6 +217,7 @@ Gastos de Investigación	4209
 Gastos de Logística	4209
 Gastos de Organización de Competiciones Deportivas	4209
 Gastos de Personal	4209
+Gastos de Personal Bienes Corrientes	16969
 Gastos de Relaciones	4209
 Gastos de Representación	4209
 Gastos de Representación Personal	4209
@@ -212,11 +231,13 @@ Gastroenteritis Pneumococcal	15725
 Gastroentritis	12151
 Gastrointestinal Outpatient Department	14773
 Gasura	7880
+Gasóleo	17100
 Gataraga Gashaki Gatebe Manyagiro Shangasha Ngarama	12413
 Gatare. In Gasabo District	4941
 Ghana National Gas Company	15740,164
+Global Forest Observation Initiative GEI Gases	16875
 Green House Gas	12256,1824,1579,485
-Greenhouse Gas	789,13955,667
+Greenhouse Gas	789,13955,667,1729
 Greenhouse Gas Accounting Methodology for Energy Access	15659
 Greenhouse Gas Accounting for Energy Investment Operations	15659
 Greenhouse Gas Emission Reduced	15159
@@ -228,15 +249,19 @@ Greenhouse Gases	1264
 Greenhouse Gases GIZ The German Agency	1264
 Greenhouse Gases Mitigation Potential	13331
 Greenhouse Gases Mitigation Potential Project Interventions	13331
+Gross Domestic Product GHG Greenhouse Gas	16949
+Gross Enrollment Rate GHG Greenhouse Gas	17458
+Guidelines for National Greenhouse Gas Inventories	17140
 Household Drinking Water Connections Natural Gas	15578
 Household Water Supply Connections Natural Gas	15578
 Huambo MARIA DE FATIMA GASPAR ANTÓNIO	10751
 Hydro Geothermal Natural Gas Thermal Wind	12256
 INEGE Gastos de Funcionamiento de INEGE	4209
+INGEI Inventario Nacional de Emisiones de Gases de Efecto	16875
 INGRESO NATURALEZA DEL GASTO Cotizaciones	4209
 INJ. SOL. INJ. GLES. MICROGRAN. GAST	15930
 INTERESES Y GASTOS FINANC	4209
-IPCC Guidelines for National Greenhouse Gas Inventories	15129
+IPCC Guidelines for National Greenhouse Gas Inventories	15129,2011
 India-based Oil and Natural Gas Corporation	3583
 Integrated Ghana Gas Processing Facility	7695
 Jabana and Gasogi	15010
@@ -249,6 +274,7 @@ Kimpuni Procurement Specialist AFTPC Gaspy Gedeon	15372
 Kinihira Rukumberi Zaza Kabagali Gashora Sake	12413
 L Gastos de Funcionamiento	4209
 LGP Liquefied Petroleum Gas LMS Learning	12975
+LIQUEFIED PETROLEUM GAS	17250
 LIQUIFIED PETROLEUM GAS	14528
 Lake Gas	12256
 Lamin Gassama	4677
@@ -258,10 +284,12 @@ Ley de Presupuestos de Gastos	4209
 Licenses for Liquefied Petroleum Gas	718
 Limited Mr Mgqibelo Gasela	4896
 Liquefied Natural Gas	11185,30,33,3582
-Liquefied Petroleum Gas	718,11538,424,289,1978
+Liquefied Natural Gas. LPG	16996
+Liquefied Petroleum Gas	718,11538,424,289,1978,2049
 Liquefied Petroleum Gas Smart Meters of HS	6921
-Liquified Petroleum Gas	12256,147
+Liquified Petroleum Gas	12256,147,4702
 Los Gastos	4209
+Lubrificantes Incidência- Taxas-Notas Taxa Gasolina	17100
 Luz Prima de Prima de Prima de Gastos de Mayor	4209
 M. Eric Gaston NGUEMA	16099
 M. GASSAYES YOHA	16274,182
@@ -294,12 +322,15 @@ NKOUIKA-DIAGHANI-NKITA Gaston UERPOD	15580
 NYAMASHEKE NGORORERO GASABO KAYONZA NYARUGENGE MUHANGA	12413
 NZISENGERA Jean de Dieu KAYIRANGA Gaston RUKIZA	12445
 National Greenhouse Gas Emission Monitoring Indicators	11424
+National Greenhouse Gas Inventories Programme	17140
 Natural Gas	9123,3133
+Natural Gas MPO Macro Poverty Outlook	16996
 Natural Gas Master Plan. Current	12206
 Natural Gas Network Connection Development of Electricity	15578
 Natural Gas Network Enhancement of Electricity Services	15578
 Natural Gas Networks	15578
 Ngororero Rwamagana Nyanza Nyagatare Huye Gasabo	15056
+Nigeria-Morocco Gas Pipeline Project	17459
 Ntongwe Bugesera District Gashora Kirehe District	12413
 Nyarugenge and Gasabo	15130
 NÃO ACEITE GASOSA COMBATA A CORRUPÇÃO	10750
@@ -308,12 +339,18 @@ OTROS GASTOS TOTAL DEL ESTADO	4209
 Obia Gaston	16413
 Occupation Business Address Mr Mgqibelo Gasela	4896
 Oda Gasinzigwa	12372
-Oil and Gas	5765,5420,771
+Oil Gas	16996
+Oil and Gas	5765,5420,771,4986
 Oil and Gas Alone Won’t End Poverty	10465
+Oil and Gas Development	17139
+Oil and Gas Regulatory Decree Articles	16972
 Oil and Gas Sector	14845
 Open Cycle Gas Turbine	12062
 Open Cycle Gas Turbines	12062
 Open-Cycle Gas Turbine	11297
+Operación Periodicidad Responsable EF Estadística Gastos	16898
+Opposite Conex Gas Station	17334
+Others Other Services Electricity and Gas Financial	17503
 Otros Gastos	4209
 P Mamba Kamembe Uwinkingi Gasarenda Simbi	12413
 P Rugerero Burega Nyakiriba Rambura Gasiza	12413
@@ -321,6 +358,8 @@ PAYS Rwanda POINTS DE CONNEXIONS GASENYI	13324
 PETROLEUM AND GAS	14947
 PETROLEUM AND GAS Rwanda	14947
 PGCL1 Jean-Pierre Guy GASHAMI	11863
+PUBLIC CORPORATIONS OIL and GAS OTHERS	17235
+Paris Agreement for Greenhouse Gas Inventories of CRT	17140
 Partson Gasura	7880
 Petroleum Gas	2775
 Petroleum Gas LED Light Emitting Diode	14947
@@ -349,6 +388,7 @@ Rubavu Societe Petroliere Bugesera Standard Gas	718
 Rukara Muhanda Rusiga Bukure Gasange Murambi	12413
 Rusizi Gasak	12413
 Sayid Sha'ban Secondary Connecting the Natural Gas	15578
+Servicios Gastos Financieros	16969
 Severity Progress Gas	11131
 Solid Liquid Gas	12445
 Sonté Gaston Cassi DOSSOUHOUI	15438
@@ -357,10 +397,13 @@ Stand da Mercury Beyond Connection Gaspar	7667
 Supervision Gender Development Index Greenhouse Gas	15553
 TARIFFS AND THE GAS TURN	14673
 TBD Gas-to-Power Use Case Feasibility Study	12399
+TH STREET-SINKOR OPPOSITE CONEX GAS STATION	17334
 TRONÇON GASHIGA	15542
 Tanyaradzwanashe Dengende of GasPulse Technologies	13688
 Techo de Gastos	4209
 Teléfono Prima de Prima de Prima de Prima de Gastos	4209
+Tuberculosis and Malaria GHG Greenhouse Gas GLF	16896
+Tuberculosis and Malaria GHG Greenhouse Gas GoTG	16922
 Twitter and Tear Gas	2518
 TÍTULO VI DE LOS GASTOS	4209
 University Education Natural Gas Main Roads	15578

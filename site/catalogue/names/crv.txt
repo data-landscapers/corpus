@@ -19,17 +19,20 @@ Between the CRVS	14889
 Birth Notification Number CRVSID	12337
 CDMT CGP CR CRVS CSB CTD	14425
 CENTRE OF EXCELLENCE for CRVS Systems	12327,2567
+COBAC Banking Commission for Central Africa CRVS	16942
+CPF Country Partnership Framework CRVS Civil	16896,26
 CRR Comissão de Resolução de Reclamações CRVS Registo	11390
 CRS Civil Registration Services CRVS Civil	12151
 CRVS AND ID MANAGEMENT SYSTEMS	12327
-CRVS Act	1357,13566
+CRVS Act	1357,13566,2474
 CRVS Annual Report	13244
 CRVS Assessment	13005
+CRVS Bill	16896,26
 CRVS CRVS	12151
 CRVS CSB CSU CTC CV	14622
 CRVS CSI CSMF CURY D4H DHIS	15599
 CRVS Caucus	13608
-CRVS Civil	12367
+CRVS Civil	12367,4560
 CRVS Civil Registration and Vital Statistics CRVSID	13681
 CRVS Civil Registration and Vital Statistics CSOs	12241,839,15
 CRVS Civil Registration and Vital Statistics D4H	12413
@@ -46,11 +49,14 @@ CRVS Coverage and Performance Overview	13005
 CRVS Coverage and Performance Overview While Malawi	13005
 CRVS Data	13005
 CRVS Day	3434,6114,3091
-CRVS Decade	9535,13,217,3455,24,433,1
+CRVS Decade	9535,13,217,3455,24,433,1,3717
+CRVS Electronic Civil Registration and Vital Statistics	16922
 CRVS Forms	12338
+CRVS INTEGRATION	17397
 CRVS Integration Experiences Plenary Session	13220
 CRVS Integration Experiences. Plenary Session	12761
 CRVS Inter-dependencies	13005
+CRVS Investment Case	16860
 CRVS KenyaSnapshot e.pdf CENTRE OF EXCELLENCE LE CENTRE	12138
 CRVS Key Message	12064
 CRVS MAS RDHS	12413
@@ -58,6 +64,7 @@ CRVS Namibia e WEB.pdf CENTRE OF EXCELLENCE for CRVS Systems	12327
 CRVS National	12413
 CRVS National Strategic Plan	12367
 CRVS Operational Plan	12219
+CRVS Overview	16860
 CRVS Platforms	13080
 CRVS Proclamation	12250
 CRVS Registration	12241
@@ -78,8 +85,10 @@ CRVS TC	12367
 CRVS TWG	14889
 CRVS TWG The Terms	14889
 CRVS Technical Working Group	12413,2643
+CRVS The Gambia	17397
 CRVS The Ministry of Labour and Home	12639
 CRVS Web-based	15056
+CRVS and BR Improvement Plans	16860
 CRVS and EIR	977
 CRVS and EMIS	13681
 CRVS and Education	13681
@@ -130,7 +139,7 @@ Cameroon’s CRVS	10972
 Centre of Excellence for CRVS	441
 Centre of Excellence for CRVS Systems	63,1282,1
 Centre of Excellence for CRVS Systems. Housed	12138,189
-Child CRVS Civil Registration and Vital Statistics	15415
+Child CRVS Civil Registration and Vital Statistics	15415,1445
 Civil Registration Officer CRVS	12338
 Civil Registration and Vital Statistics KENYA CRVS-NATIONAL	14655
 Civil Registration and Vital Statistics Namibia CRVS-Social	13220
@@ -148,7 +157,7 @@ Decentralized CRVS	12250
 Deepen CRVS-NISSA Integration	12761
 Develop Costed CRVS Strategic Plan	12761
 Development of Integrated ID and CRVS Software	12241,839
-Digital CRVS	12064
+Digital CRVS	12064,5333
 Digital CRVS Roadmap	12064
 Digital ID and CRVS	13095
 Digital ID and CRVS System	12241,839
@@ -157,6 +166,7 @@ Digitalizing CRVS	12064
 Digitizing CRVS	9804,3621
 E. CRVS	7664
 ECA for CRVS	10775
+EGMRG CRVS	17397
 EIR and CRVS	977
 EMIS and CRVS	13681
 Egypt CRVS Journey	16520
@@ -167,6 +177,7 @@ Expand CRVS	13678
 Expert CRVS	12043
 Final Tables CRVS 2025.xlsx	12471
 Government of Rwanda. Digitalisation of CRVS	15083
+HISTORY OF CRVS IN THE GAMBIA	17397
 Husbands and Wives CRVS	15056
 ID and CRVS	12241,764,75,15
 ID and CRVS System	12241,839,15
@@ -197,6 +208,7 @@ Linking CRVS	12761
 Linking CRVS and EIR	977
 Linking National ID and CRVS Systems	326
 Linking National ID and CRVS Systems Companion	326
+MOH CRVS Cumulative	16922
 MOH Celebrates African CRVS Day Posted	9548
 MOIFAR's CRVS Unit	14889
 Malawi CRVS	13005

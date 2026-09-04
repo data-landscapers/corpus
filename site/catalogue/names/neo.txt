@@ -4,12 +4,18 @@ BOP NEOs	13868
 ENMR Early Neonatal Mortality Rate GFR	12413,2643
 Facility Neonatal Mortality Rate	4153
 Hypoxia Kidney and Neonatal Sepsis	12151
+Immunization Technical Advisory Group NNT Neonatal	17289
 Infant Mortality Rate and Neonatal	12138
 Integrated Management of Neonatal and Childhood Illnesses	12976
 LNMR Late Neonatal Mortality Rate MAS2	12413,2643
 LOCAUX ECONAZOLE NITRATE MICRONISE METRONIDAZOLE NEOMYCINE	15930
 Leading CauseS of Registered Deaths for Neonates	12151
+MATERNAL NEONATAL AND CHILD	16971
+MATERNAL NEONATAL AND CHILD HEALTH	16971
 MORTALIDADE NEONATAL E INFANTIL	10777
+Management of Neonatal and Childhood Illnesses MOH Ministry	16971
+Maternal Neonatal Child and Adolescent Health Unit	16951
+Maternal and Neonatal Death Surveillance and Review	16971
 Mortalidade Neo Natal	11537
 Morte Neonatal	11537
 Ms Neo Mashamba	11289
@@ -18,6 +24,8 @@ NEOMYCINE	15930
 NEOMYCINE MUPIROCINE BACITRACINE	15930
 NEOMYCINE TOBRAMYCINE OXYTETRACYCLINE NEOMYCINE	15930
 NEONATAL AND CHILD HEALTH SERVICES	14773
+NEONATAL HEALTH	16971
+NEONATAL MORTALITY RATE	16892
 NEOSTIGMINE METHYLSULFATE	15930
 NEOTREE	12240
 NEOs. DJIBOUTI	13868
@@ -38,29 +46,38 @@ Neobanks	11994
 Neoma Africa Fund III	448
 Neoma Africa Fund III. Octotel	448
 Neomie Nina Belandrine	15901
-Neonatal	10780,49,731,591,216,46,226,1394,1023,669
+Neonatal	10780,49,731,591,216,46,226,1394,1023,669,1135,62,29,20,318
 Neonatal Con-	12151
 Neonatal Condi-	12151
 Neonatal Deaths	12151
 Neonatal Deaths Neonatal	12151
+Neonatal Health	16971
 Neonatal Intensive Care Services	14773
+Neonatal Intensive Care Unit	16922
 Neonatal Mortality	12151
 Neonatal Mortality Rate	4349,8018,46,2643
 Neonatal Screening Program	10188
 Neonatal Sepsis	12151
 Neonatal Tetanus	15247
+Neonatal and Childhood Illness IPC Infection Prevention	17289
 Neonates	12151
 Neonates In The Community Table	12151
 Neonatology	14773
+Neonatology Intensive Care Unit	16922
+Neoplasms	16922
 Neotec	6008
 Neotel	15455
 Obstetric and Neonatal Care EMRS Electronic Medical	15556
 PAEDIATRIC SERVICES AND NEONATAL CARE	14773
 Portuguese Neonatal Screening Program	10188
+Program NNT Neonatal Tetanus NTDs Neglected	16971
 Registered Neonatal Deaths	12151
 Registered Proportion County County Neonatal Deaths	12151
+Row Labels AFP Measles Neonatal Tetanus	16971
+Sepsis Neonatal	16962
 TFR GFR CBR CDR Neonatal Infant	12413
 Tétano Neonatal	10777
+Tétanos Neonatal	16962
 Udio. Neon Music	9739
 VIP NEO S SIM	15471
 Year Neonatal	10829

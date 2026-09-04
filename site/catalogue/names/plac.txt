@@ -21,6 +21,7 @@ Claudel Placide AUBIANG NZEH	16381
 Computerized School Selection and Placement System CENDLOS	15796
 Cor da Placa	11373
 Countries and MENA’s Place	13314,2160,19
+County Place of Residence	16921
 DATA PROTECTION LAW IN PLACE. DATA	4785
 DERBY PLACE LOUNGE LIMITED Data Controller	7167
 DURATION AND PLACE OF SERVICE PROVISION	15590
@@ -31,9 +32,12 @@ Distrito Urbano Cor da Placa	11373
 EN PLACE DU SYRAD	13838
 EN PLACE D’UNE PLATEFORME CENTRALISEE	16662
 ESSAMY NGATSE Membre Placide MOUDOUDOU Membre	15615,632
+En Place D'un Cadre D'IA Responsable	17468
 Executive Board. Place	11356
 Eximbank. Place	10632
+FOUNDATIONAL ELEMENTS ARE IN PLACE	16942
 First Place	7798
+Fonds de Placement Collectif	17485
 Formato da Placa	11373
 Foster Care Placement Programme	12977
 GOVERNMENT CENTRE PLACE D’ ARMES	14778
@@ -51,6 +55,8 @@ LA MISE EN PLACE DES	16621
 LA MISE EN PLACE DES SOLUTIONS	10711
 LAW IN PLACE	4785
 LP. Place	16774
+Les Organismes de Placement Collectif	17485
+Lighting Mode and Place of Residence Urban Rural	16921
 MISE EN PLACE D'UN SYSTEME INTEGRE	10812
 MISE EN PLACE D'UNE AGENCE	765
 MISE EN PLACE DES CINQ	16621
@@ -72,12 +78,15 @@ Number of Children Placed	12977
 Number of Government Sponsored Students Placed	2775
 Office for Europe Place des Nations CH-1211 Geneva	10764,80
 Office for Europe Place des Nations Union	11563
+Organismes de Placement Collectif	17485
+Organismes de Placement Collectif Immobilier	17485
 Ouagadougou. Placée	3592
 Ouagadougou. Placées	3927
 Ouganda. Placée	15942
 PAGIR. Placée	15908
 PLACE	15574
 PLACE LTD Data Processor INST-9941250204F	7167
+PLACEMENTS A L’ETRANGER	17485
 PLACEZ	13300
 POUR LA MISE EN PLACE	16621
 PROTECTION LAW IN PLACE DATA PROTECTION	10908
@@ -86,7 +95,7 @@ Placa	11373
 Placa de Publicidade	2866
 Placas	11373
 Placas Toponímicas	11373
-Place	8,11,9,2,9,38,41,47,13,123,283,32,11,63,55,4,78,131,88,366,239,337,154,95,105,2000,173,405,36,43,156,190,65,70,60,136,3,242,62,257,354,130,426,121,85,408,122,341,319,15,1,81,31,125,95,44,42,5,54,23,10,7,4,32,8,11,15,48,1,5,62,9,1,34,12,39,39,63,1,129,13,3,2,1,19,3,1,26,11,36,22,5,1,53,17,1,67,11,21,24,15,41,3,38,41,52,1,3,40,7,45,5,55,7,8,57,4,18,77,23,72,59,18,157,39,87,21,207,121,43,34,5,6,7,2,10,41,221,242,115,250,27,85,29,6,1,36,122,161,226,11,323,1,1,1,1,1,1,1,1,1,5,466,38,208,329,120,433,32,48,86,29,191,69,239,381,330,131,164,101,110,1,3,2,1,5,15,16,8
+Place	8,11,9,2,9,38,41,47,13,123,283,32,11,63,55,4,78,131,88,366,239,337,154,95,105,2000,173,405,36,43,156,190,65,70,60,136,3,242,62,257,354,130,426,121,85,408,122,341,319,15,1,81,31,125,95,44,42,5,54,23,10,7,4,32,8,11,15,48,1,5,62,9,1,34,12,39,39,63,1,129,13,3,2,1,19,3,1,26,11,36,22,5,1,53,17,1,67,11,21,24,15,41,3,38,41,52,1,3,40,7,45,5,55,7,8,57,4,18,77,23,72,59,18,157,39,87,21,207,121,43,34,5,6,7,2,10,41,221,242,115,250,27,85,29,6,1,36,122,161,226,11,323,1,1,1,1,1,1,1,1,1,5,466,38,208,329,120,433,32,48,86,29,191,69,239,381,330,131,164,101,110,1,3,2,1,5,15,16,8,7,9,4,27,51,14,2,13,21,97,40,19,46,312
 Place An Advert	9253
 Place An ICT	958
 Place At Any Table	8644
@@ -94,6 +103,8 @@ Place Block	3386
 Place Espace	15555
 Place NGA	10162
 Place Nigerian Tech Talent	6065
+Place Of Birth	16921
+Place Of Locality	16921
 Place Sustainable Safety Nets	15658
 Place de Dolisie	16177
 Place de France. BP	13712
@@ -105,11 +116,13 @@ Place des Nations CH-1211 Geneva	10764,80,719
 Place des Nations CH-1211 Geneva E-mail	26,1,1
 Place des Nations Place des Nations CH-1211 Geneva	11563
 Place for Protection	13295
-Place of Birth	13307
+Place of Birth	13307,3614
 Place of Birth and Recent Migration	15247
 Place of Business	11976,1061
+Place of Currently	16921
 Place of Destination	13185
 Place of Incorporation Company Registration Number	12364
+Place of Locality	16921
 Place of Occurrence	2775,9376,75,446
 Place of Occurrence and Sex of Decedent	12672
 Place of Registration of Adoption	12226
@@ -117,14 +130,19 @@ Place of Registration of Birth	12226
 Place of Registration of Death	12226
 Place of Registration of Divorce	12226
 Place of Registration of Marriage	12226
+Place of Residence	16921,193,13
+Place of Residence Kerosine Palm	16921
 Place of Residence Urban Place of Residence Rural	10829
+Place of Residence and Sex	16921
+Place of Residence and Sex of Household Head	16921
+Place of Residence and Sex of Household Head Male	16921
 Place of Usual Residence	13644
 Place-specific	3515
 Place. Rapport	13452
-Placed	1770,1784,228,2247,4216,732,1264,854,1720
-Placement	9123,1034,972,857,267,1528
+Placed	1770,1784,228,2247,4216,732,1264,854,1720,2052
+Placement	9123,1034,972,857,267,1528,3454,250
 Placement Committee No. of Children	12977
-Placements	15023,141
+Placements	15023,141,2321
 Placer	8891,7017,733
 Placer la GEDA	11724
 Places	766,1094,33,355,971,2059,112,764,201,827,646,984,394,491,1920,599,2663,613,374,313
@@ -148,6 +166,7 @@ Placées	10182
 Placés	16092,632
 Plateaux-Est. Placée	9898
 Poorest Place of Residence Urban Place of Residence	10829
+Population County and Place of Residence	16921
 Pretas Formato da Placa	11373
 Principal Place of Business	12364
 Private Placements Platform	6938
@@ -160,6 +179,8 @@ RIP Place	15056
 ROADMAP TOWARDS ENDING DIS PLACEMENT	14874
 Radisson Blu de N’Djaména. Placée	10422
 Rapport du Dialogue National Inclusif. Placés	16001
+Registration Centers and Places	16860
+Registration Centers and Places Registration	16860
 Rond-point Place	15555
 République Centrafricaine. Placée	16307
 République du Congo. Placées	16157
@@ -171,15 +192,24 @@ Safe Place	16244
 Secteur Bancaire Place	3715
 Semawata Place	13313
 Service. Placé	16381
+Sex and Place of Residence	16921
+Sex and Place of Residence Urban Rural	16921
 Signature Placeholder	16212
 Suecia BARBOU DES PLACES	6613
 Sénégal Place Soweto	11139
 TIME AND PLACE OF DISPATCH	28
 TRAVAUX DE MISE EN PLACE	16699
 TYPES OF BUILDING Places	11129
+Tax Time and Place of Supply	17108
 Tchad. Placée	11719
+Third Schedule. Time and Place of Supply Time	17108
 Tonkpi. Placée	9717
 Training and Placement Scheme	14742
+Type Toilet Facility and Place of Residence	16921
+Type of Toilet Facility and Place of Residence	16921
+Type of Toilet Facility and Place of Residence Urban	16921
 VII. MISE EN PLACE DU MÉCANISME	16104
+VII.Glossary of Terms A Accelerator- Places	16872
 VISITS TO PLACES OF DETENTION	13097
 Vulnerable Places	13003
+Youth Employment and Placement Accelerator	17370

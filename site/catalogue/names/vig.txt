@@ -25,6 +25,8 @@ Infância US Unidade de Saúde VIDR Vigilância	11376
 JUEZ DE VIGILANCIA PENITENCIARIA	4209
 LOCALIZAÇÃO CELULAR E DA VIGILÂNCIA ELECTRÓNICA	549
 La Vigie	14742
+MEDIOS DE VIGILANCIA Y SANCIÓN	16965
+Marco Sí No No No Vigencia	16898
 NPF Vigilant App	14697
 P Vigneswara Ilavarasan	226
 P.3.2 Vigilância da RAM	11376
@@ -38,11 +40,14 @@ Serviço de Vigilância	15966
 Sistema Nacional de Vigilancia	1701
 Sistema de Vigilância	539
 Surtos Epidémicos GLASS Sistema Mundial de Vigilância	11376
+Sí No No No Vigencia Administrativos	16898
+Sí No Sí No Vigencia Administrativos	16898
 Theory-Informed Diagnostic Vignettes Cross-domain	7966
 VID Vigilância Integrada	11543
 VIGICCLIM	2342
 VIGILANCE	11567
 VIGILANCE DU PUBLIC FACE	15970
+VIGILANCIA Y SANCIÓN Artículo	16965
 ViNaDia Vigilancia Nacional	966
 ViRaHe Vigilancia de Restistência	966
 Vigi-mobile	14773
@@ -66,7 +71,7 @@ Vigilância da RAM	11376
 Vigilância de Local	549
 Vigimobile	14662
 Vignette-based	11585
-Vigor	167,263,119,195,8,42,2813,539,1,71,2244,4287,5,1,1,16,11,578,1,1,1,4,1,1,1,1,5,1,3,1,1,1,2,2,6,2,7,1,1,4,10,6,5,3,5,11,3,3,2,10,115,3776,1,173,40,383
+Vigor	167,263,119,195,8,42,2813,539,1,71,2244,4287,5,1,1,16,11,578,1,1,1,4,1,1,1,1,5,1,3,1,1,1,2,2,6,2,7,1,1,4,10,6,5,3,5,11,3,3,2,10,115,3776,1,173,40,383,916
 Vigucur	15399
 Viguetrr	15399
 Vigueur	15901

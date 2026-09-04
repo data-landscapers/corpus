@@ -17,13 +17,24 @@ CRVS CSB CSU CTC CV	14622
 CTD Collectivité Territoriale Décentralisée CVECA Caisse	10965
 CV ANNEXES PGES- DATA CENTER PRINCIPAL	14489
 CV ANNEXES PGES- DATA CENTER SECONDAIRE	14488
+CV Con	16962
+CV Durante	16962
+CV Edición	16962
+CV En	16962,7
 CV Fact	15982
+CV Gráfico	16962
+CV Hechos	16962
 CV Innovation	2945
 CV Labs	6368
 CV Labs Accelerator	10810
+CV Las	16962
+CV Los	16962
 CV Movel	15471
 CV Móvel	16251
+CV Nacidos Vivos	16962
+CV Nota	16969
 CV Raman Fellowships	16256
+CV Tabla	16962
 CV Telecom	5884,5994
 CV Telecom. Assim	15504
 CV VC	11117
@@ -33,6 +44,7 @@ CV-IXP	15573
 CV-IXP Internet Exchange Point Details Name	11878
 CV-IXP Route Servers	11878
 CV. Na	12018
+CV. Una	16962
 CV.pdf	15684
 CV0004	11873
 CV2060	14929,75
@@ -61,6 +73,7 @@ CVII ANNEXES PGES- DATA CENTER SECONDAIRE	14488
 CVII PGES- CENTRE DE PERSONALISATION DES	14490
 CVIII ANNEXES PGES- DATA CENTER SECONDAIRE	14488
 CVIII PGES- CENTRE DE PERSONALISATION DES	14490
+CVM BRAZZAVILLE	17006
 CVM Personalised Bundles	11259
 CVM Personalised Bundles. Table	11259
 CVM. Growth	10793
@@ -68,6 +81,8 @@ CVMultimedia	15471
 CVN and CoopID	9876
 CVN. Member	9876
 CVP Cellule de Voirie Primaire	16614
+CVRS Database	16867
+CVRS Database and Social Registry Database	16867
 CVRSS	12151
 CVS Cellule de Voirie	16614
 CVT Commercial	15491
@@ -84,6 +99,7 @@ Cell C CVM Promotional Bundles	11259
 Cohérence du CV	13635
 Comprehensive CV	12365,9
 Concentrix CVG Malaysia Sdn. Bhd Data	7167
+Consejo de Poblado CV Comunidad de Vecinos INEGE	16962
 Cultura CV	15772
 Current CV	9198
 Cv Description	15129

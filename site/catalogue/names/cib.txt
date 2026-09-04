@@ -6,7 +6,7 @@ AIGF Cible	15936
 Administration Cible	15936
 Administração Pública. A Cibercidadãos	14261
 Advisory Board de CIBEROBS	8678
-Agencia Nacional de Ciberseguridad	6992
+Agencia Nacional de Ciberseguridad	16965
 Agência Nacional de Cibersegurança	2298
 Agência Nacional de Segurança Cibernética	2816
 Agência de Segurança Cibernética	2816
@@ -40,18 +40,23 @@ CIB-AES	1950,1975,199,10,2314,7756
 CIB-AES. Cette	14204
 CIB-OLAM	11897
 CIB. C'était	10515
+CIBERATIVISMO E RESISTÊNCIA	17020
+CIBERATIVISMO NA GUINÉ-BISSAU Uma	17020
+CIBERCRIMINALIDADE O Diretor Nacional da Polícia Judiciária	17066
 CIBERESPAÇO ACESSÍVEIS AO PÚBLICO	10747
 CIBERESPAÇO Artigo	15504
 CIBERNÉTICOS NAS INFRA-ESTRUTURAS CRÍTICAS DE INFORMAÇÃO	2784
 CIBERSEGURANÇA	4218,7179
 CIBERSEGURANÇA ARTIGO	11461
 CIBERSEGURANÇA NA ADMINISTRAÇÃO PÚBLICA	11397
+CIBERTEC	17109
 CIBERTERRORISMO	11397
 CIBITOKE	13292,8,90
 CIBITOKE ISARE MPANDA MUGERE MUGINA MUHUTA	13390
 CIBLES A ATTEINDRE	13290
 CIBLES A ATTEINDRE D’une	13290
 CIBLES Ce	10237
+CIBN Professional Chartered Bankers Diploma and Intermediate	17235
 CONSELHO NACIONAL DE CIBERSEGURANÇA	11397
 Can- Cibi- Ka- Ma- Mu- Mu-	13300
 Can- Cibi- Kayan- Ma- Mu- Mu-	13300
@@ -66,7 +71,7 @@ Centro Nacional de Cibersegurança. Segundo	4736
 Centro Nacional de Segurança Cibernética	2784
 Centro Operacional de Cibersegurança	15899
 Centro de Coordenação Cibernética	6970
-Ciber	16251
+Ciber	16251,968
 Ciber Segurança	2089,2321,9
 Ciber-Ataque	10747
 Ciber-ataque	6220
@@ -75,9 +80,15 @@ Cibercafés	9543
 Cibercri	16251
 Cibercrime	2368,33,1745,2221,4380,784,4720
 Cibercrime SECÇÃO	11374
+Cibercriminali	16855
+Cibercriminalidade	17066
 Cibercriminosos	2816
+Ciberdefensa	16965
 Ciberdefesa	4146
+Ciberdelincuencia	16965
+Ciberdelitos	16965
 Ciberdiplomacia	2816
+Ciberespacio	16965
 Ciberespaço	4146,6601,4757
 Cibernética	15477
 Cibernética Artigo	6970
@@ -89,7 +100,10 @@ Cibersegurança Nacional	1431,1
 Cibersegurança Passa A Ser Função Permanente	8827
 Cibersegurança da União Internacional	11379
 Cibersegurança. No Domínio Político	4146
+Ciberseguridad	16855,110,124,82,54
 Ciberseguridad. Entre	10361
+Ciberseguridad. Los	16965
+Ciberterrorismo	16965
 Cibitoke	2625,10675,74,16,37,15,193
 Cibitoke Gitega	13300
 Cibitoke Gitega Karuzi Kayanza Kirundo Makamba	13442
@@ -118,6 +132,7 @@ Cibles Entreprises	16328
 Cibles Evolution	15848
 Cibles ONG	16328
 Ciboulette	16103
+Circulation CIBN Certified Information Systems Auditor	17235
 Comité Técnico de Cibersegurança	4147
 Concurrence Cible	15936
 Conseil Café-Cacao Cible	15936
@@ -136,6 +151,7 @@ D.G. DE ASUNTOS CIBERNETICOS Y LABORATORIOS.-	4209
 DE BASE CIBLE SOURCE DE VERIFICATION	15500
 DE CIBERSEGURANÇA	4146
 DE PETIT CALIBRE Cible	15936
+DELITOS INFORMATICOS Y CIBERDELINCUENCIA EN	16965
 Delgado Teixeira A Proposta de Lei da Cibersegurança	9258
 Departamento de Cibersegurança	11382
 Departamento de Operações de Cibersegurança	4218
@@ -150,18 +166,22 @@ Edahabia and CIB	9037
 Energie Cible	15936
 Espaço Cibernético	6970
 Estado da Cibersegurança	3893
+Estado. La Agencia Nacional de Ciberseguridad	16965
 Estrategia Nacional de Seguranca Cibernetica	10440
 Estrategia de Ciberseguridad	4209
 Estratégia Nacional de Cibe	11396
 Estratégia Nacional de Cibersegurança	3246,900,1,71,4662,919,1273,325,4107,747
+Estratégia Nacional de Cibersegurança da Guiné-Bissau	17034
 Estratégia Nacional de Segurança Cibernética	795,1989,32,4154,766,2704,632
 Estratégia da Segurança Cibernética	2816
 Estratégias Sólidas de Segurança Cibernética	2816
 Etat Cible	15936
 Extérieur Cible	15936
+F. CFA. CAPÍTULO II CIBERDELITOS Artículo	16965
 Francophonie Cible	15936
 Fundo de Cibersegurança	4218
 Fundo de Segurança Cibernética	6970
+Gestionar la Ciberseguridad	16965
 Gestão Cibernética	4218
 Global de Cibersegurança	2132,1761,253,309,7114
 Global de Cibersegurança da União	11569
@@ -173,6 +193,7 @@ Groupe Local de Ciblage	10964
 Homme Cible	15936
 IA Cibles	15583
 INCIDENTES DE CIBERSEGURANÇA	11397
+INFORMÁTICOS Y CIBERDELITOS CAPÍTULO	16965
 ITU Global Cibersecurity Index	11569
 Implementação da Política de Segurança Cibernética	11377
 Incidentes Cibernéticos	2816,8715,4956
@@ -185,6 +206,7 @@ Indicateurs Cibles	15724
 Industrie Cible	15936
 LIMS Cible	13306
 LITERACIA EM CIBERSEGURANÇA	11397
+La Agencia Nacional de Ciberseguridad	16965
 La CIB-AES	4124
 Lei da Cibersegurança	4146,2972,3954
 Lei de Cibersegurança	4736,3423
@@ -218,6 +240,7 @@ O Núcleo Nacional de Cibersegurança	15504
 O Provedor de Serviço de Segurança Cibernética	6970
 O Sistema Nacional de Segurança Cibernética	6970
 Operações Cibernéticas	6970
+Organismos Internacionales de Ciberseguridad	16965
 PETROCI Cible	15936
 POUR LA REPUBLIQUE DU BURUNDI Cible	13433
 PROGRAMMES ET STRUCTURES SOUS TUTELLE Cible	15936
@@ -236,6 +259,7 @@ Promoção da Cibersegurança	11374
 Proposta da Lei da Segurança Cibernética	2816
 Proposta da Lei de Crimes Cibernéticos	2816
 Proposta de Lei da Cibersegurança	9258,541,1616
+Proteger la Ciberseguridad	16965
 Provedor de Segurança Cibernética	6970
 Provedor de Serviços de Segurança Cibernética	6970
 Provedores de Serviços de Cibersegurança	11436

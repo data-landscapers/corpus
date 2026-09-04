@@ -17,6 +17,8 @@ Agreement and Plan of Merger	7198,1741
 Alban Merill	15744
 Algeria Mme Meriem Benmouloud Minister	15679
 Allaeddine Merghad	15930
+Alpha Merit Award	16961
+Alpha Phi Alpha Merit Award	16961
 Análise de Mercados	11430
 Asma Merouani	15732
 Association Meres Educatrices	15661
@@ -51,6 +53,7 @@ Chaaria Data Controller INST-461218A19BF MERU Kenya	7167
 China and Mercado Pago	6971
 Comissão Executiva da Mercury	6617
 Comme Merveille Manuella	2513
+Commission MER Monitoring	16943
 Commissioner for Refugee Affairs Mercy Mwasaru	4631
 Commonwealth Meridian	11134
 Commonwealth’s Meridian Team	11134
@@ -73,6 +76,7 @@ Data Controller INST-301218DFF06 MERU Kenya	7167
 Data Controller INST-6441838E04A MERU Kenya	7167
 Definição de Mercados	11430
 Deputy Minister Mercy Dinha	13671
+Derecho Mercantil General	16859
 Devala. Selon Mermans Babounga	16068
 Devine Mercy Eldoro Catholic Dispensary Data	7167
 Dieu Merci	16425
@@ -96,9 +100,12 @@ Endangered Species and Illegal Merchandize	12928
 Energy Consultant Adefris Merid Asfaw	12195
 Enterprise Merchants	5687
 Equity Merchants CommunityConnect	4554
+Escrituras de Constitución de Sucursal Mercantil	16859
 Ethiopian Statistical Service Dr. Meron Kifelew	14121
+FDA Managing Director Rudolph Merab Sr	17153
 FIDELITY BANK FIRST BANK FSDH MERCHANT	11002
 FORM OF PLAN OF MERGER	7198
+FSDH MERCHANT BANK JAIZ BANK KEYSTONE	17242
 FSDH Merchant Bank	4771
 FSPs and Merchants	11130
 Factor Value Marking for Financial Merit	14778
@@ -124,6 +131,7 @@ Henrietis Debora Merveillis	16177
 Hervé HOUNZANDJI J1 Mercredi	16545
 High Commissioner for Digitalisation Meriem Benmouloud	5742
 High Commissioner for Digitalization Meriem Benmouloud	2845
+Hon. Rudolph J. Merab	16848
 Honourable Mercy Dinha	13671
 Husein Merchant	14233,2584
 INFRA-ESTRUTURAS DO MERCADO FINANCEIRO	10755
@@ -142,6 +150,7 @@ Indicators and Targets The MERL Matrix	7548
 Individual Merchants Retail Large Customer Agent	5687
 Individuals Merchants Retail Agents and Category Lite	5687
 Industrie Mer Rouge	13868
+Infraestrutura de Mercado Financeiro LUR	17032
 Infraestruturas de Mercado Financeiro	11933
 Infrastructure for MeRS	14761
 International Merchandise Trade Statistics	13479
@@ -164,6 +173,7 @@ LIMITED Data Processor INST-50387016854 MERU Kenya	7167
 Land Merging	12333
 Le Mercredi	6045
 Lesaka Merchant Division. Lesaka	10393
+Liberian. MERRY CHRISTMAS	17119
 Lite Merchants	5687
 Live Commonwealth Secretariat Meridian System	14546
 Local and International Payment Processing Merchants	4988
@@ -176,6 +186,9 @@ M. Merouane Ladjal	15930
 M. Merzak Laichaoui	15930
 M. Merzoug Larbi	15675
 M. Mohamed Saïd Merdjane	15467
+MALAWI CORONATION MERCHANT BANK ECOBANK FBNQUEST	17242
+MER C MALABO TOUR	17006
+MER-2	17183
 MERANKABANDI II	13592
 MERCADO	11531
 MERCADO DAS TELECOMUNICAÇÕES	11531
@@ -186,27 +199,33 @@ MERCADOS DEL Y CRÉDITOS REGIONAL K.N	4209
 MERCANTE	4209
 MERCATOR. PERFORMANCES FINANCIÈRES EN	2342
 MERCHANT BANK CHANNELS ECOBANK FBNQUEST MERCHANT	11002
+MERCHANT BANK FIDELITY BANK FIRST BANK	17242
 MERCHANTS PAYMENTS	15023
 MERCI DE S’ASSURER QUE LA LISTE	15901
 MERCI DE VOTRE AIMABLE ATTENTION	3381
 MERCI DE VOTRE ATTENTION	15738
 MERCI Pour	14480
 MERCI THANK YOU OBLIGADO GRACIA	13677
+MERCIFUL DECLARATION OF THE INSTITUTION	17438
+MERCIFUL TREATY3 INSTITUTING THE ARAB	17438
 MERCK Foundation	16285
 MERCOSUL	11393
 MERCOSUR	4368
 MERCY KORANY NSCS	15845
 MERGED	12280
+MERGER	16878
 MERGER AGREEMENT	7198
 MERGER PROPOSAL	7198
 MERIDIAM	16037
 MERJ Exchange Seychelles	950
 MERL AI	7548
 MERL Matrix	7548,7116
+MERN STACK	17437
 MERNIS	10714
 MERSIT	11905
 MERTAIRE	15999
 MERU Kenya	7167
+MERWAT	17303
 MINISTERE DE LA MER	16175
 MINISTRES DU MERCREDI	3191,135,10003,116
 MTN MoMo Merchant	8410
@@ -218,6 +237,9 @@ Marina Mercante	4209
 Marine Gardens Merced	11563
 Mehdi Abderraouf Ben Merouane	16344
 Mer Rouge	2342,12474
+MerWat Platform	16946
+MerWat Project	16946
+MerWat-Libya	16946
 Meraka Institute	396
 Meraki	7479
 Meraki Mesh Response Kits and Cisco	7479
@@ -226,7 +248,7 @@ Merankabandi CORE MIS. Configuration	13395
 Merankabandi II	13657
 Meras Djibouti	13878
 Merawi Aragaw	4782
-Mercado	3603,2757,3199,1856,13,2,89,1,11,43,3806,146,163,869
+Mercado	3603,2757,3199,1856,13,2,89,1,11,43,3806,146,163,869,340
 Mercado Adjacente	11430,1
 Mercado Comum	7945,649
 Mercado De Capitais Exige Empresas Preparadas	8003
@@ -234,7 +256,7 @@ Mercado Digital	15684,5
 Mercado Digital Nacional de IA	2816
 Mercado Energético	15433
 Mercado Farmacêutico	8324
-Mercado Financeiro	2138,8617,615
+Mercado Financeiro	2138,8617,615,5662
 Mercado Geográfico	11430,1
 Mercado Geográfico Relevante	11430,1
 Mercado Monetário	12789
@@ -245,12 +267,16 @@ Mercado Relevante de Produtos	11430,1
 Mercado Sectorial. Sem	11397
 Mercado da Banda Larga	11396
 Mercado da CEDEAO	15684
+Mercado de Ativos TEF	17032
 Mercado de Bolsa de Acções da Unitel	8122
 Mercado de Comunicaciones Electronicas	9543
 Mercado de Conectividade	2671
 Mercado de Dados	2671
 Mercado de Emprego	2816
 Mercado de Trabalho	2816,12661,489
+Mercado de Valores	16898
+Mercado de Valores BEAC FMI	16898
+Mercado de Valores Disponibilidad	16898
 Mercado de Valores Mobiliários	6462,4908,4063
 Mercados	1701,9830,11,479
 Mercados Digitais. Atividades	11898,123
@@ -258,19 +284,21 @@ Mercados Públicos	4209
 Mercados Relevantes	11519
 Mercados de Comunicaciones Electrónicas	9543
 Mercantile	14841
+Mercantiles	16855
 Mercato	8797
 Mercator Programme	13051
 Merced	10764,80
 Mercedes	15473
+Mercedes Avomo NDONG Jefa de Gabinete	16898
 Mercedes Benz E400	13096
 Mercedes Street	12961,76
 Mercedes-Benz	11036
 Mercedes-Benz GLC	11036
 Mercer	5242,3364,1409
-Merchandise	5247,4737,5039
+Merchandise	5247,4737,5039,2212,268
 Merchandise Marks Act	3714,9186
 Merchandise Trade	10718
-Merchandise Trade Balance	15023
+Merchandise Trade Balance	15023,2212
 Merchandise Trade Statistics. Working	8527
 Merchant	3657,78,1390,470,620,4578,257,811,133,276,220,2344,1310
 Merchant Discount Rates	5124
@@ -295,17 +323,18 @@ Merchants The Merchants	11130
 Merchants and POS	4517
 MerchantsAfter	5691
 Merchie	15744
-Merci	419,1179,702,1588,145,989,1805,3432,1221,1910,15,108,220,22,11,420,24,215,416,783,7,145,125,104,2,538,84,4
+Merci	419,1179,702,1588,145,989,1805,3432,1221,1910,15,108,220,22,11,420,24,215,416,783,7,145,125,104,2,538,84,4,815,26,59
 Merci Beaucoup	9761
 Merci Beaucoup. Muito Obrigado. Asante	9959
 Merci Byamungu About The Author	10278
 Merci Réunion	16482
 Mercia Geises	4862
 Mercianne	15558
+Merciful	16847
 Merciful The National Assembly Legislation	14854
 Merciful The Telecommunications and Post	15340
 Mercosur	7008
-Mercredi	2366,49,776,135,80,269,574,644,129,41,6,826,150,22,15,64,333,817,344,630,862,573,1319,897,3473,62,51,101,63,76,72,193
+Mercredi	2366,49,776,135,80,269,574,644,129,41,6,826,150,22,15,64,333,817,344,630,862,573,1319,897,3473,62,51,101,63,76,72,193,1457
 Mercure Hotel	13108
 Mercure Tubes	14423
 Mercuriale	3396
@@ -323,6 +352,7 @@ Mercy Asantewaa Gyakye Wiredu	16232
 Mercy Bianca-Ioana Marcu Managing Director	5363
 Mercy Bofu-Matinha GOVERNMENT	13625
 Mercy Corps	654,448,1086,9806
+Mercy Corps Donors	16876
 Mercy Corps Many DFS	11994
 Mercy Corps Ventures	4972
 Mercy Corps. Kenya	11994
@@ -352,6 +382,7 @@ Meredith Drive	4896
 Meredith Whalen	15512
 Merel	10214
 Merely	3791
+Merest	16836
 Merez Petroleum Gahanga	718
 Merfed Benouareth	15410
 Merfunt KASSA KOMBILA. Mme	16175
@@ -361,6 +392,7 @@ Merge SIS	9128
 Merge Uniform Clusters	8606
 Mergeallpatients	8606
 Merged	267,1445,59,89,54,992,66,181,452,278,74,259,766,1462,2357,224,230,5529
+Merged Declaration for Unincorporated Taxpayers	16955
 Merged Federation of Motorcycle and Tricycle Union	10046
 Mergel	2096,3253,351
 Mergel and Desouza	2096
@@ -404,6 +436,7 @@ Meridiam's Mete Saracoglu	7288
 Meridian	15147
 Meridian System Balances and Summary Statement of Public	14546
 Meridian Ventures Investment FZCO	11722
+Merieke Wit DFID	16857
 Meriem BENMOULOUD. MINISTERE DE LA COMMUNICATION	15602
 Meriem Benmouloud	1842,420,158,418,682,255,56,1124,2076,21,9698
 Meriem Benmouloud. Past Achievement	2790
@@ -418,6 +451,7 @@ Merina.Ny	14488,1,1
 Merinas. L'activité	14490
 Meristem Securities	7446
 Meristem Securities Limited	11942
+Merit	16985
 Merit HoldCo	610,75
 Merit and Excellence Initiative	14748
 Merit-based	9756,2160
@@ -430,11 +464,12 @@ Merli Margaret Baroudi	579
 Merlin	14459,41,110
 Merlin ASSOUMOU NDO	16381
 Mermans Babounga	16068
+Merode	16858
 Meroni	15129
 Merouane Ait Hamou	15930
 Merouane Belkacemi	15732
 Merouane Boulsane	15608
-Merriam-Webster	8130,6304,981
+Merriam-Webster	8130,6304,981,1596
 Merriam-Webster Dictionary	1009
 Merristem and Cowrywise	7446
 Merry Toi-Milonon	5516
@@ -461,11 +496,14 @@ Merveille Bienvenue LEHO DIBANTSA	15660
 Merveille Manuella Ngoufack Tsafack. Avant	2513
 Merveille Victoire	16177
 Merveilles Nazareth	16177
+Merwat	16946
 Merwe	432,9246,515,86,450,6,2200,1431
 Mery These	15363
+Meryam Benjelloun	17524
 Meryem Bouedina	15410
 Meryvon	15524
 Merzak Ferroukhi	15930
+Merzouga	17519
 Meta's Mercy Ndegwa	12104
 Michele Meroni	16135
 Mme BOUCHE Mercedès M. OUMAR SADJO	16195
@@ -477,19 +515,21 @@ Mount Meru	13561,1
 Mount Meru Gas Rusororo	718
 Mr. Amumpaire Raymond and Ms. Awino Mercy	3307
 Mr. Meron Abraham	14126
+Mr. Rudolph J. Merab	16853
 Mrs. Mercy Obadare	7314,594
 Mrs. Merlyne N. Yolamu	12953
 Ms Meriam Paul	11220
 Murang'a and Meru	5134
 Módulo de Gestão de Mercados	9403
 NASA MERRA-2	13686
+NASA’s MERRA	17157
+NGO Coalition Mr. Rudolph J. Merab	16857
 NZENGOUBE DIBAKA Cadi Mery Galibert	16381
 Naira Merchant	11861
 Naira Merchant Speed Wallet	11861
 Naira Merchant Speed Wallets	11861
 Naira Speed Merchant App	11861
 Nairobi. Rand Merchant Bank	3541
-National Communications Authority Mercy Obeng-Dapaah	16208
 National Diaspora Merit Award Dinner and Closing	7895
 Ndugu Nicholaus Merinyo Mkapa	6019
 Niccoló Meriggi	12948
@@ -520,6 +560,7 @@ Processo de Definição de Mercados	11430
 Projet MERANKABANDI	13324
 Projet Merankabandi II	13657
 Protection Regulation GMV Gross Merchandize Volume	1243
+Q. Manneh Louis D. Mendy Mercy	16973
 Q2 POS Population Mobile Money Merchants	6978
 Q4 POS Population Mobile Money Merchants	4517
 QUOTA DE MERCADO	11531
@@ -535,12 +576,15 @@ RDC Mercredi	2886
 Rand Merchant Bank	240,1164,25,136,255,321,96,1,748,2,163,390,4891,4704,1
 Rand Merchant Bank Namibia	13137
 Raymond Amumpaire and Mercy Awino. Google	3312
+Registro Mercantil	16859
+Reglamento de Mercados	16865
 Reine Merry	15901
 Reporting The MERL	7548
 Revisão da Análise de Mercados	11430
 Rise Of Merchant Super-Apps	8107
 Roha and Meridiam	7288
 Rosin Merveille	16100
+Rédigé le Mercredi	17489
 République du Burundi Merci	13499
 SERVICE PROVIDERS Mere	12930
 SNFI1 Meriem BOULIFA	11863
@@ -555,6 +599,7 @@ Simplified Merger Review Procedure	12389
 Sistema MERIDIAN	12796
 Sistema de Gestão de Mercados	11933
 Smooth Transition Process Mercy K. Kainobwisho	2757
+Sociedad Mercantil	16859
 Son Altesse Royale la Princesse Lalla Meryem	8891
 Sparkle Haskoning ABB AFR-IX Mercury Engineering	10861
 Stanbic IBTC and Meristem	7446
@@ -574,11 +619,14 @@ Tiered Merchant and Know	7391
 Togawa Mercer S	5242
 Transfers and Merchant	12000
 Transverse Mercator Busanze Land Cover	12413
+Transverse Mercator WTS Wood Tracking System	16843
 UGP Mercredi	16012
 UMA DIÁSPORA MERECEDORA DE RECONHECIMENTO	16487
 UN Women's Queenie Meria	12104
-UNIVERSAL MERCHANT BANK	11002
+UNIVERSAL MERCHANT BANK	11002,6240
 Ungar and Merchant2017	8436
+Unidad de Registro Mercantil	16859
+Universal Transverse Mercator	16843
 Université Mercure International	16627
 Université Mercure Internationale	16712
 VARIAÇÃO DE QUOTA DE MERCADO	11531

@@ -1,14 +1,17 @@
+Bange Impulsa	16942
 C Imputation	15901
 CENTRO PRESUPUESTOS IMPUESTOS	4209
 Combat Impunity	3583
 D. G. DE IMPUESTOS Y CONTRIBUCIONES	4209
 D.G. ADJUNTO DE IMPUESTOS Y CONTRIB	4209
 DEG Impulse	8342
-DG Impuestos	4209
+DG Impuestos	4209,12721
 Demand Impulse	1828
 Desarrollo Económico Encargado de Impuestos	1855
 Descuentos Num. PERSONAL Mensual Integro Impuestos	4209
+Dirección General de Impuestos	16930,391,21
 E. Impunity	3583
+ENTITY INITIATIVE DESCRIPTION Bange Impulsa	16942
 FORMALIZAÇÃO DE NEGÓCIOS GANHA NOVO IMPULSO	10773
 Factores Impulsionadores	2138
 Haute Impulsion de Votre Majesté	8891
@@ -17,22 +20,27 @@ IMPURUZA	15158
 IMPUTABLE	2342
 IMPUTATION DES SOMMES REÇUES AU TITRE	15901
 IMPUTED	511
+IRPF Impuesto	16969
+Ilmo. Sr. Director General de Impuestos	17192
 Impuesto	4209
 Impuesto Especial	4209
 Impuesto Especial de Tenencia	4209
-Impuestos	4209
+Impuestos	4209,12695,65,53,170
 Impugnación	163
+Impugnación de Valoraciones	16855
 Impugnação	11358,4075
 Impugnação Administrativa	11388
-Impulsar	1701
+Impulsar	1701,15192,72
+Impulsar la Inscripción	17112
 Impulsion	13445,2048,227
 Impulsionando	11569,4120
 Impulsionar	15684,5,370
+Impulso Profesional	17101
 Impunidade	10750,1
 Impunidade. Impunidade. Lançamento da Campanha	10750
 Impunité	13325
 Imputaciones	4209
-Imputation	10711,441,106,4643,680
+Imputation	10711,441,106,4643,680,904
 Imputation Côte	10711
 Imputation Data	11258
 Imputations	3396,12141
@@ -41,15 +49,18 @@ Imputed	82,46,1,66,1,53,114,1,15,120,1,97,52,32,1,1,1,1,1,1,175,27,3,1,1,1,76,76
 Imputed. Exclude	854
 Imputés	15373
 Integro Impuestos	4209
-Issue of Impunity	14073
+Issue of Impunity	14073,2945
 Liquidable Impuestos	4209
 MELHORAR E IMPULSIONAR A CRIAÇÃO	11397
 Mantenimiento de Carreteras Impuestos	4209
 Otros Impuestos	4209
 PRINCIPALEMENT IMPUTABLE	2342
+Personas Físicas ISS Impuesto	16969
+Primario Secundario Terciario Impuestos	16969
 Proyecto de Impulso	4209
 RIGENGA IMPUNZI N'ABASABA SITATI Y'UBUHUNZI MU	14926
 Real Non-Oil GDP and Public Demand Impulse	1828
+Seguridad Social IVA Impuesto	16969
 Software GeoGebra Impulsiona Inovação	10349
 Sous la Haute Impulsion de Votre Majesté	8891
 Très Haute Impulsion du Président	2695

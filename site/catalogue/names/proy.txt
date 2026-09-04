@@ -1,5 +1,6 @@
 Bata Proyecto	4209
 Centro Integrado de Mosom Ebibeyín Proyecto	4209
+Consejo de Ministros. Otro Proyecto	16925
 D.G. DE COORDINACIÓN DE PROYECTOS	4209
 Distrito Escolar de Bata Proyecto	4209
 Distrito Escolar de Ebibeyín Proyecto	4209
@@ -7,17 +8,25 @@ Distrito Escolar de Micomiseng Proyecto	4209
 Documento de Proyecto	8048
 EVAL. Y CONTROL PROY	4209
 El Proyecto Videovigilancia	341
+El Proyecto de Apoyo	17414
+El Proyecto de Ley	16918,253
+El Proyecto de Ley de Contratos	17076
 Ese Proyecto de Ley	9303
+Este Proyecto	16925
+Fondo Europeo de Desarrollo. Proyecto	16875
 Gastos de Funcionamiento Proyecto de Atún	4209
 Implementación Oficina Técnica de Diseño de Proyectos	4209
 Mocomo Proyecto	4209
+Otro Proyecto de Ley	17171
 PARLAMENTO ANÁLISIS PROYECTOS DIVERSIFIC. VPM CONSEJEROS	4209
 PROGRAMAS Y PROYECTOS INSTITUCIONALES	4209
 Proyección de Atracción	4209
 Proyectar	1701
-Proyecto	4209,6278,1256,2472
+Proyecto	4209,6278,1256,2472,2710,162,84,21
 Proyecto Adquisición de Insumos	4209
 Proyecto Biblioteca	4209
+Proyecto CUREF	16875
+Proyecto CUREF-INDEFOR	16875
 Proyecto Comisión Nacional de Codificación	4209
 Proyecto Construcción	4209
 Proyecto Educativo CANIGE Multilingual School	4209
@@ -35,6 +44,8 @@ Proyecto Nacional de Transporte Escolar	4209
 Proyecto PRO-SEGUROS	4209
 Proyecto Premio Nacional Obiang Nguema Mbasogo	4209
 Proyecto Red de Agua Potable	4209
+Proyecto SIGEF	17343
+Proyecto SIGEF URL	17343
 Proyecto SIGF	11743
 Proyecto de Actualización	4209
 Proyecto de Actualización Plan Director	4209
@@ -46,7 +57,7 @@ Proyecto de Alimentación	4209
 Proyecto de Alimentación Escolar	4209
 Proyecto de Ampliación	4209
 Proyecto de Ampliado de Vacunación	4209
-Proyecto de Apoyo	4209,2272
+Proyecto de Apoyo	4209,2272,10449,412
 Proyecto de Asistencia Adopción de Menores	4209
 Proyecto de Auto-Empleo	4209
 Proyecto de Automatización	4209
@@ -69,6 +80,7 @@ Proyecto de Creación	4209
 Proyecto de Creación Agencia de Arbitraje	4209
 Proyecto de Creación de Instalación	4209
 Proyecto de Datación	4209
+Proyecto de Decreto	16925
 Proyecto de Desarrollo	4209
 Proyecto de Desarrollo Forestal Comunitario	4209
 Proyecto de Desarrollo de Investigación Educativa	4209
@@ -114,14 +126,14 @@ Proyecto de Gas Natural Licuado de Guinea Ecuatorial	1701
 Proyecto de Gestión	4209
 Proyecto de Gratuidad	4209
 Proyecto de Habituación	4209
-Proyecto de Implementación	4209
+Proyecto de Implementación	4209,13020
 Proyecto de Implementación Cuenta	4209
 Proyecto de Implementación Plan de Tesorería	4209
 Proyecto de Implementación de Educación Inclusiva	4209
 Proyecto de Impulso	4209
 Proyecto de Incentivación	4209
 Proyecto de Indemnización	4209
-Proyecto de Informatización	4209
+Proyecto de Informatización	4209,12724,12,42
 Proyecto de Instalación	4209
 Proyecto de Instalación de Cámaras	4209
 Proyecto de Instalación de Red de Fibra	4209
@@ -132,9 +144,17 @@ Proyecto de Inventario Forestal	4209
 Proyecto de Inventario Nacional de Agrupaciones	4209
 Proyecto de Laboratorios	4209
 Proyecto de Levantamiento	4209
-Proyecto de Ley	4209,5094
-Proyecto de Ley Reguladora	9303
-Proyecto de Ley de Derechos de Autor	9303
+Proyecto de Ley	4209,5094,7615,71,182,23,30
+Proyecto de Ley General de Zonas Económicas Especiales	17301
+Proyecto de Ley Reguladora	9303,7868,111
+Proyecto de Ley de Asociaciones Público-Privadas	17171
+Proyecto de Ley de Asociaciones Público-Privadas. En	17171
+Proyecto de Ley de Contratos	17076
+Proyecto de Ley de Derechos de Autor	9303,7891
+Proyecto de Ley de Finanzas Públicas	17224
+Proyecto de Ley de Ordenanzas Militares	17224
+Proyecto de Ley de Protección Social	17224
+Proyecto de Ley de Transparencia	17301
 Proyecto de Liquidación	4209
 Proyecto de Lucha	4209
 Proyecto de Mantenimiento	4209
@@ -185,7 +205,7 @@ Proyecto de Sociedad Civil	4209
 Proyecto de Sostenibilidad	4209
 Proyecto de Televisión Digital Terrestre	8153
 Proyecto de Urbanización	4209
-Proyectos	975,726,2508
+Proyectos	975,726,2508,12716,203,271
 Proyectos Educativos	4209
 Proyectos Institucionales	4209
 Proyectos de Asistencia Técnica	4209
@@ -194,4 +214,7 @@ Proyectos de Desarrollo	1701
 Proyectos de Desarrollo de Acuerdos Bilaterales	4209
 Proyectos de Diversificación Económica	4209
 Proyectos de Electrificación	4209
+Proyectos de Ley Reguladora	17224
+Proyectos de Ley de Derechos	17282
+Proyectos de Ley de Transparencia	17301
 Proyectos de Leyes	9303

@@ -18,6 +18,7 @@ BIENS ET EQUIPEMENTS AFFECTES	15394
 BIENS ET SERVICES	1272
 BIENTÔT	13300
 BIENVENUE LEHO DIBANTSA	15660
+BUR Biennial Update Report BTR Biennial	17140
 Bieha	10875
 Bieha Sissili Centre-Ouest	15715
 Biele	9237
@@ -28,10 +29,27 @@ Bien Commun	3857
 Bien-aimé	15744
 Bien-fonds	10876
 Bien-être	10712,2588,90,52,1095,300,524,14,53,1213
-Bienes	1701
+Bienes	1701,15268
 Bienes Corrientes	4209
 Bienes Inmuebles	4209
-Bienestar Social	1701,154,2354
+Bienestar	16898,81
+Bienestar Administrativos Social	16898
+Bienestar Administrativos Social Acceso	16898
+Bienestar Administrativos Social Prevalencia	16898
+Bienestar Casos	16898
+Bienestar Cobertura	16898
+Bienestar Incidencia	16898
+Bienestar No No No No Demográfica	16898
+Bienestar No Sí No No Demográfica	16898
+Bienestar Proporción	16898
+Bienestar Social	1701,154,2354,12689,71,10,115
+Bienestar Social MSN Ministerio	16898
+Bienestar Social ND Dato	16962
+Bienestar Social PNUD	16898
+Bienestar Sí No No No Demográfica	16898
+Bienestar Sí No No No Población	16898
+Bienestar Sí No Sí No Demográfica	16898
+Bienestar Tasa	16898
 Bienheureux Nicolin	16177
 Biennale	7843,6986
 Biennale Artistique	7843
@@ -41,9 +59,12 @@ Biennial Conference	961,1665
 Biennial Effectiveness of Cross Cutting Enablers Progress	14819
 Biennial Report	16107
 Biennial Review	9609,648
-Biennial Transparency Report	3430
+Biennial Transparency Report	3430,13710
+Biennial Transparency Reports	17140
+Biennial Update Report	17140
+Biennial Workplan and Budget	17281
 Biennium	14622
-Biens	737,1311,428,490,571,299,808,6331,2325,472,1405,249,475,146,275,386
+Biens	737,1311,428,490,571,299,808,6331,2325,472,1405,249,475,146,275,386,777
 Bientôt	3249,4206,3405,3045
 Bienvenido Esono Micha	8372
 Bienvenido Osa Micha. En	9302
@@ -95,9 +116,12 @@ EAC Boukechida Miloud Bien	15690
 ENFANTS D'ENFANT BIENTÔT	13300
 EOP ONGOUYA TCHEIA Bienvenu Edouard	16100
 ET AUX BIENS	15429
+EXPORTATION DE BIENS	17485
 El Macheri EAI Boulmsahaf Bien	15690
 Est. Bien	15715
 Etat Bien	15690
+Examen Bienal-2023	16898
+Examen Bienal-2023sobre la Declaración de Malabo	16898
 Exportation de Biens. L’objectif	16226
 Extrême-Nord Bien	10975
 FONCTION IRAKOZE Bienvenu Secrétaire Exécutif du SETIC	13341
@@ -106,12 +130,14 @@ FSU. Bien	15474
 First Biennial Update Report	3430
 Futa. Bien	2429
 GASTOS EN BIENES CORRIENTES Y SERVICIOS	4209
+Gastos de Personal Bienes Corrientes	16969
 Gotologue Arnold Bienvenu	1806
 Guinée Bien	16627
 HOSPIT. Y BIENESTAR SANITARIAS Y PLAN	4209
 Handicapée. Bien	10826
 Homme. Bien	10826
 IAWJ Biennial Conference	2626
+IMPORTATION DE BIENS	17485
 Ia. Bien	2387
 Ibid. Bien	15474
 J.P. and Bietz	12090
@@ -133,7 +159,7 @@ M. Blaise Bienvenu ALI	9277
 M. DJORWE DJORO Bienvenu	16195
 M. Willy Bienvenu MONDJO	16099
 MALADIES DIARRHÉIQUES Bien	13300
-MINISTERIO DE SANIDAD Y BIENESTAR SOCIAL	4209
+MINISTERIO DE SANIDAD Y BIENESTAR SOCIAL	4209,12892
 MTN Bénin. Bien	16090
 MTND Methodology for Data Collection Biennial	3604
 Madagascar. Bien	14570
@@ -156,7 +182,11 @@ OpenCRVS. Bien	14539,1
 Orange. Bien	15474
 Oslo. Bien	13546
 PAGIR. Bien	15908
+PIB du Maroc. Bien	17448
 POSSESSION DE BIENS PAR LES FEMMES	13300
+Plan de Acción Bienal	16898
+Planes de Acción Bienal	16898
+Planes de Acción Bienal Estruct Coste Estimativo	16898
 Plano de Trabalho Bienal	11455
 Política de Bienestar Social	1701
 Pool Bien	13433
@@ -181,6 +211,7 @@ Son Excellence Ismaïl Omar Guelleh. Bien	14696
 Soumission du Plan Biennal	14622
 Stratégie. Bien	10965
 SÉCURISATION DES PERSONNES ET DES BIENS	10934
+Sí No No No Bienal Administrativos	16898
 Tchad. Bien	15542
 VALEUR AJOUTÉE SUR LES BIENS ET	15177
 VSAT. Bien	15542

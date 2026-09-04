@@ -9,6 +9,7 @@ Campus Principal da UEM	8807
 Centro Estatístico da UEMOA	9323
 Centro de Informática da UEM	2816
 Comissária da UE Jutta Urpilainen	9434
+Comissão da UEMOA	17278
 Comissão da UEMOA. ANG	11044
 Comunicação UE União Europeia USD Dólar	15535
 Comunicação da UEM	8827
@@ -22,6 +23,7 @@ ED TR UE P Y N	15999
 ET DIFFU F UE DES INFORMATIONS	15999
 Electricity Housing Assets Overcrowding Uemnployment Child	15244
 Espace UEMOA	3684
+Estado UE Unión Europea UNFPA Fondo	16898
 Estados Membros da UE	2816
 Estados-membros da UE	2816
 Estratégia Digital Internacional da UE	12840
@@ -32,10 +34,13 @@ Finanças da UEMOA	11568
 Fund UEMOA West African Economic and Monetary	11552
 Gabinete de IA da UE	3519
 HABG ONUDC GIZ UE Banque	15712
+IAOsd UeD YT	16857
 Intérieur MPLCI UE RIJLI	15712
 Intérieur UE	15712
+JENjeAa Ue JapIsuod	16857
 José Ribeiro Uefo	9159
 José Ribero Uefo	6282
+La UE	17425
 Lei da IA da UE	3519
 Lei da UE	3519
 Lei de IA da UE	3519
@@ -60,6 +65,7 @@ Plano Estratégico da UEM	9694
 QUE CT UE T AURE QUEST	14849
 RH Ressoutces Humoines UE Union Europienne	14479
 Reitor da UEM	8827
+Relaciones UE-Guinea Ecuatorial	17425
 SENEGAL TOGO UEMOA	4459
 SNDS II UERPOD Union	15580
 SOSUCAM SOWEDA TDR TPE UE	15542
@@ -67,6 +73,7 @@ STAR UEMOA	10922
 TH E UE PUBLIQ SOPIE CERTIFIEE	10974
 TWh Terra-Watt Hour UETCL Uganda Electricity	12256
 Télécommunications UEMOA Union Economique	16327
+U PUBLUWOIA Ue JOH	16857
 UE Anne Marchal	5303
 UE BAD	15799
 UE BELGIQUE	643
@@ -140,7 +147,7 @@ UEM Masters Degree	12826
 UEM. Abstract Electoral Registration	12826
 UEM. Com	9694
 UEM. Fonte	2816
-UEMOA	4,3,19,1,1,709,12,256,407,651,198,347,15,343,395,29,9,272,13,699,12,64,595,259,11,131,248,104,277,314,73,260,152,76,116,204,1,3,36,251,200,281,47,42,188,187,333,171,268,36,402,222,290,90,17,27,148,141,48,3,1,5,104,15,38,1,13,34,34,561,5,3,6,1,18,2,3,12,1,18,235,5,1438,1,303,1281,503,10,67,67,12,75,9,43,41,47,23,79,9,3,56,2,189,74,21,11,60,9,13,106,167,82,74
+UEMOA	4,3,19,1,1,709,12,256,407,651,198,347,15,343,395,29,9,272,13,699,12,64,595,259,11,131,248,104,277,314,73,260,152,76,116,204,1,3,36,251,200,281,47,42,188,187,333,171,268,36,402,222,290,90,17,27,148,141,48,3,1,5,104,15,38,1,13,34,34,561,5,3,6,1,18,2,3,12,1,18,235,5,1438,1,303,1281,503,10,67,67,12,75,9,43,41,47,23,79,9,3,56,2,189,74,21,11,60,9,13,106,167,82,74,309,36,232,77
 UEMOA A. Increasing	11821
 UEMOA Au-delà	10344
 UEMOA BMZ	10708
@@ -212,6 +219,8 @@ UETCL	12256
 UETCL LAKE TURKANA WIND POWER	12256
 UEnioenffedte	4459
 UMOA TPN Trésor Public National UEMOA	4459
+Ue BuljsI	16857
+Ue ECacd G	17111
 Ueeddooyinka	15152
 Uemoa	3259,318,73,69,1717,556,896,381,344,2187
 Uemoa. C’est	3259
@@ -222,6 +231,7 @@ Uemoa. Pour	3577
 Uendeshaji	7218
 Uendjipa	12478
 Uendjipa Patuuomasa	12478
+Ul SI JUaWBaIZe Ue JeY	16857
 Union Africaine UE	10874,5321
 Union Africaine UEMOA	737
 Union Européenne UEMOA	10874
@@ -230,4 +240,4 @@ União Europeia UEM	2816
 Valeur Ajoutée UEMOA Union	10712,164
 Within the UEMOA	11821
 XII Conferência Científica da UEM	2816
-Zone UEMOA	1412
+Zone UEMOA	1412,15537

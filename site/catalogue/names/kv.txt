@@ -1,4 +1,5 @@
 KV Booué	16037
+KV CLSG	16978
 KV DE NKOLKOUMOU	10975
 KV DE NYOM II	10975
 KV Fougamou	16037
@@ -17,6 +18,8 @@ KV de Grandes Chute	16714
 KV de Kaloum	16714
 KV de Kinsuka	15670
 KV du RIC Nord	16037
+KVA Switch-over	17006
+KVA Temps	17006
 KVA UPS	9123,3640
 KVA. Alimentation	16552
 KVA. Switch-over	16552

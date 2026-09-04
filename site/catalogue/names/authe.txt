@@ -17,11 +17,12 @@ Africa Happily Authenticated	3470
 Audit Trail and Node Authentication	1009
 Audit Trail and Node Authentication Clinical Context	1009
 Authen	8603
-Authentic	14713
+Authentic	14713,2130,595
 Authentic Texts This Protocol	15641
-Authenticated	6423,4707,1081
+Authenticate	16983
+Authenticated	6423,4707,1081,4632
 Authenticates NIRA Authenticates	15061
-Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,1539,204,7,457
+Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,1539,204,7,457,1323,37
 Authentication Article	14911
 Authentication Authentication	12364
 Authentication Code and QR Code	13606
@@ -43,6 +44,7 @@ Authentication and Authorisation Requirement	11952
 Authentication and Authorization	5665,5056
 Authentication and Authorization Platform for Web	11872,3
 Authentication and Digital Signature	11872
+Authentication and Security	17437
 Authentication and Trust Services ENBIC ECOWAS National	12663
 Authentication for Head Nurses	11892
 Authentication for Loan Agreement	12333
@@ -62,6 +64,7 @@ Authentifiez	16430
 Authentique	10387
 Availability of Electronic Signature and Authentication	12389
 B. Authentication	15161
+Base Registries Other Authentic Sources Open	17097
 Basic Authentication	11872
 Biometric Authentication Relying	15061
 Biometric Membership Authentication System	16218
@@ -77,6 +80,7 @@ Civil Identification and Authentication	11909
 Common Seal and Authentication of Documents Rationale	8866
 Communication and Authentication	775
 DECLARATION OF AUTHENTICITY OF REPORT CONTENTS	1988
+DIGITAL IDENTIFICATION AND AUTHENTICATION	16942
 DIGITAL IDENTITY AND AUTHENTICATION	12161
 Democratize Authentication	12244
 Democratize Secure Authentication Date	12244
@@ -126,6 +130,7 @@ National Integrated Authentication Framework	14965
 National System for Civil Identification and Authentication	11939
 National System of Identification and Civil Authentication	11872,19
 Non-Marriage Certificate Document Authentication	14137
+Note-To-File Authentication Discovery	16970
 Online Authentication and Digital Signature	11939
 PS3.15 Authentication Authentication	1009
 Parti Authenticité	8891,2944
@@ -148,4 +153,5 @@ TechCabal Happily Authenticated	2552,1493,146,797,66
 Trust and Authentication	10775
 Uganda's AKIBA Happily Authenticated	5743
 VERIFICATION OF INFORMATION AND AUTHENTICATION	12959
+Verifying the Authenticity of Diplomas	16949
 XML Enterprise User Authentication EMR European	1009

@@ -1,9 +1,11 @@
+ADAMA BARROW AT THE INAUGURATION	17124
 Abagize Inama	14862,1,239
 Act. Inadequate	11954
 Acueil Tchad Inauguration	4333
 Administration Inama	14862
 Administration de RDB Inama	14862
 Adverse Inadequate	11994
+AfDB Annually Inadequate	16947
 Africa Inaugurated	7207
 Afrique GFS Global Forecast System INAM	11553
 Assisting INALUD	10776
@@ -12,6 +14,7 @@ Body NamPower Inaugurates Africa's First Digital	13200
 C04 Inadequate	9237
 CABINDA INAUGURADO PELO MINISTRO DO INTERIOR	11427
 CMCs and INAGE	2989
+CNIAPGE and INAP	16942
 Capacity Building and Inclusiveness Inadequate	14818
 Cape Verde Inaugurates	2803
 Chad Inaugurates Strategic Regulatory Platforms	6752
@@ -21,6 +24,7 @@ Contingency Contingency Inaccessibility	12364
 Coordinated Inauthentic Behaviour	15342
 Cost of Inaccessibility Dr. Longla	16010
 Cost of Inaction AI	7548
+County Council. Inadequate	16970
 Custos da Inação	7948
 DALY INAMDAR ADVOCATES LLP Data Controller	7167
 DALY INAMDAR ADVOCATES LLP Data Processor	7167
@@ -28,7 +32,7 @@ DCUY Inactifs PLs	10975
 DO INAMET	11372
 DRC Actifs Inactifs PLs Actifs Inactifs	10975
 DRC Inaugurates	11914
-Daniel Inaju	8532,7293,769
+Daniel Inaju	8532,7293,769,786
 Digital Government Bill Inability	12917
 Direcção Comercial da INACEP	11518,1
 Direção Comercial da INACEP	11527,42
@@ -39,6 +43,7 @@ EAC Inaugurates Three Technical Working Groups	11807
 ENCADREMENT INAPPROPRIÉ DES JEUNES ENFANTS Encadrement	13300
 ERS Equipa Regional de Saúde. INASA Instituto	11543
 Egypt The Inauguration	9332
+Elections and Inauguration	17358
 Electricity Inadequately	10976,1370
 Emma Inamutila Theofelus	3539
 Eric INAMUCO Magnifique NKEZIMANA Martn IRAKOZE	13300
@@ -49,7 +54,9 @@ FSAU INAGE	2989
 Find Online Government Services Inadequate for Elderly	12214
 Fragmentation and Inadequate Coordination	13220
 Francine Inarukundo	5905,7678
+GAMBIA AT THE OFFICIAL INAUGURATION	17124
 GRM HE HSNP IDREA ILO INAMET	10763
+Gambia Inadequate	16923
 General Statute for Rwanda Public Service. Inama	14862
 Ghana Inauguration du CREDPOL	16633
 Godel INANGA YENDEYIKA	16175
@@ -57,6 +64,8 @@ Google’s Inaugural Africa Cloud Summit	3003
 Google’s Inaugural Africa Cloud Summit Government	3965,1438,1506
 GovNet GRM IDA IDEMOC INAGE INCM	4653
 H.E. Francine Inarukundo	13457
+High Inactivity	17139
+High Inactivity Not Rated	17139
 Highlights Inauguration	14760
 HoS Inaugurates Technical Working Committee	10156
 IB and Inavatric	7065
@@ -85,6 +94,8 @@ INALUD	10776
 INAMAHOROMaggy Gynèse	13390
 INAMET	13,1688,7339,1723,609,24,1,40,42
 INAMet	11553
+INAP and CNIAPGE	16942
+INAP and CNIAPGE. Re-evaluate	16942
 INAPEM	2573
 INAPI	15347,530
 INARISON	14479
@@ -103,7 +114,7 @@ INAUGURATION	9781
 INCM INCM INCM FSAU INAGE INAGE	2989
 INSD Inadéquation	10874
 Inaan	14906
-Inability	961,3478,409,4129,1852,327,830,255,723,116,15
+Inability	961,3478,409,4129,1852,327,830,255,723,116,15,3746,102
 Inable and Inclusive	11332
 Inaccessibility and Low Maintenance of Medical Data Archive	6948
 Inaccessibilité	3396,11141
@@ -112,16 +123,18 @@ Inaccuracies	14546
 Inaccuracy	14546
 Inaccuracy of Cash and Cash Equivalents Balance	14546
 Inaccuracy of Current Liabilities Balances	14546
-Inaccurate	11142,3855,375
+Inaccurate	11142,3855,375,1599,178
 Inaccurate AI	6948
 Inaccurate Personal Data	11956
+Inaccurate Undecided	17149
 Inactivated Polio Vaccine	11401
 Inactivated Polio Vaccine Integrated Specimen RefeITal	4153
 Inactivated Poliovirus Vaccine	11401
-Inactive	8436,6379,1799
+Inactive	8436,6379,1799,397
 Inactive Employed Unemployed Inactive	10763
 Inactive NEET	11581
 Inactive Population Both Sexes	14815
+Inactive' Taxpayers Implementation	17011
 Inactivity	11296,3519
 Inactivité	15724
 Inaddition	8602
@@ -129,9 +142,10 @@ Inadeinxg	11152
 Inadequacies	14546,389
 Inadequacy	10829,2485
 Inadequado	15694
-Inadequate	173,222,371,174,18,3,200,100,567,1755,1950,2015,888,235,1146,295,438,262,164,157,55,42,1,21,149,68,83,322,7,26,53,26,165,59,36,7,2,2,89,10,89,229,243,45,2,8,65,2,3,38,15,200,19,45,61,637,80,409,183,5,84,17,62,25,13,12,50,247,414,55,47,85
+Inadequate	173,222,371,174,18,3,200,100,567,1755,1950,2015,888,235,1146,295,438,262,164,157,55,42,1,21,149,68,83,322,7,26,53,26,165,59,36,7,2,2,89,10,89,229,243,45,2,8,65,2,3,38,15,200,19,45,61,637,80,409,183,5,84,17,62,25,13,12,50,247,414,55,47,85,988,25,2,16,8,1,42,15,1,8,19,1,7,33,103,25,18,103
 Inadequate Achieve Increase Strengthen	15845
 Inadequate Awareness of PPP Activities	14546
+Inadequate Capacity	16927
 Inadequate Commercial Electricity	13295
 Inadequate Compromise	12241
 Inadequate Control	14546
@@ -156,7 +170,7 @@ Inadequate Staff	13005
 Inadequate Staffing Review	14546
 Inadequate Statistics Act	14860
 Inadequate Technical Support for Digital Program Evaluations	12214
-Inadequately	11874,7,1
+Inadequately	11874,7,1,5114
 Inadequação	10783
 Inadmissibility	12389
 Inadéquation	10874,4838
@@ -172,6 +186,7 @@ Inama Nshikiranganji	13303,20
 Inanda	13259
 Inani	11551,22
 Inani Ilayisha	11573
+Inany	16833
 Inapplicable Laws	14024
 Inapplicable Laws Any	7538
 Inappropriate	34,1954,11432,1398
@@ -185,6 +200,7 @@ Inaudible	13526
 Inaugura	15824
 Inaugura-se	2125
 Inaugurado	10442,311
+Inaugural	16926
 Inaugural AI Innovation Demo Day	5413
 Inaugural Board	12951
 Inaugural Chair of National Cybersecurity Agency Kenya	10737
@@ -207,7 +223,7 @@ Inaugural Western Cape Infrastructure Ministerial Roundtable	8564
 Inaugurant	16093
 Inaugurar Múltiples Nacional	4209
 Inaugurated	2356,501,604,3175,8421
-Inauguration	1189,1153,1991,469,8317,1498,143,13,720,425
+Inauguration	1189,1153,1991,469,8317,1498,143,13,720,425,1292
 Inauguration du HUB	2370
 Inauguration of Mankantimane Suspended Foot Bridge	12977
 Inauguration of Rubavu Electricity Distribution Network	12429
@@ -218,9 +234,11 @@ Inauguré	7031
 Inaugurée	16406
 Inavatric	7065
 Inayatullah	11265
+Instituto Nacional de INAP	16942
 Insufficient Inadequate Reduced	12241
 Inteligência Artificial INAGE	2816
 Inversión Extranjera Directa INAP	1701
+Judiciary Inadequate	16943
 KIGEME Lydie INARUKUNDO Nadege KIGEME Olive	13300
 Kazuo Inaba	1828
 Libya Inaugurates Medusa Submarine Cable	2837
@@ -246,6 +264,7 @@ Ms. Francine Inarukundo	5918
 Multiple Health Indicators Survey INALUD	10776
 Nametil-Angoche Inauguração da Estrada Maroeira	9432
 Namibia Fragmentation and Inadequate Coordination Paper	12373
+National Budget Financial Inability	16943
 National Institute of Electronic Government INAM National	4214
 Ndwedwe and Inanda. Buthelezi	13259
 Nombre de CEC Inactifs	15599
@@ -256,6 +275,8 @@ O INAGBE	11472
 Occupé Sous- Sous- Chômeur Taux Inactif	737
 PIU INAGE	2989
 PIU PIU PIU INAGE	2989
+PRELIM INARIES Chapter	16851
+PRESIDENT ADAMA BARROW TO INAUGURATE ELECTRICITY	17152
 Perezida. Abagize Inama	14863
 Período de Inalterabilidade Os	11528
 Poliomielite Inactivada The Washington Group	10777
@@ -273,6 +294,7 @@ SPE GRH GTIC INADE INE INEE	10766
 Safe Food Production Inadequate	14818
 Secondary Inability	15604
 TF Inacti	737
+Taxpayer Category Number of Taxpayers Number of Inactive	17011
 Tempo INAMET Consulte	9040
 Tidiane Ouattara Appointed Inaugural DG	12133,737
 Ububasha Inama	15102
@@ -280,6 +302,7 @@ Ubuyobozi Abagize Inama	14863
 Ubuyobozi Inama	14862
 Ubuyobozi Ugize Inama	14862
 Ugize Inama	15102
+Very Inaccurate	17149
 Waste Protocols MCTES INAGE	2989
 XX Inaccessible XX Destroyed	15206
 Yakondji Arsene Gassy Djamba Inass Kassem	16436

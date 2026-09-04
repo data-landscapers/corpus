@@ -10,6 +10,7 @@ ABONNES DES OPERATEURS DE COMMUNICATIONS ELECTRONIQUES	15885
 ABORDABILITE ET PROTECTION DES MENAGES	16037
 AC des Marchés Publics	10876
 ACCÈS AUX MII ET UTILISATION DES	13300
+ACCÉLÉRER LE PASSAGE DES VÉHICULES AUX	17445
 ACQUISITION DES EQUIPEMENTS EN INFRASTRUCTURE INFORMATIQUE	14564
 ACQUISITION ET INSTALLATION DES EQUIPEMENTS INFORMATIQUES	13694
 ACRONYMES LISTE DES GRAPHIQUES LISTE DES	16327
@@ -157,6 +158,7 @@ Accompagnement des NREN	16205
 Accroissement des Recettes Intérieures du Bénin	15427
 Accréditation des Etablissements de Santé	8237
 Accueil Médical des Urgences SCRP	15475
+Accueil des Réseaux Electriques Nationaux de Distribution	17491
 Accès des Startups	4567
 Achat des Mé-	15423
 Achat des Médicaments	15685
@@ -181,14 +183,14 @@ Administration Centrale. La Direction des Systèmes	15425
 Administration Générale des Impôts	13723
 Administration de Masse des Médicaments	14622
 Administration des Affaires Marketing	8269
-Administration des Douanes	11139,2606,1733,521,2
+Administration des Douanes	11139,2606,1733,521,2,1444,40
 Administration des Douänes	15999
 Administration des Eaux	16099
 Administration des Entreprises	9357
 Administration des Finances	15412
 Administration des Finances DCSFR	10874
 Administration des Hydrocarbures. En	3191
-Administration des Impôts	15963
+Administration des Impôts	15963,1522
 Administration. Des	16637
 Administration. MINISTERE DES EAUX ET FORETS	16099
 Administration. SECTION IV DES OBLIGATIONS DES	15999
@@ -204,9 +206,9 @@ Afrique Centrale DAJR Département des Affaires Juridiques	11944
 Afrique DNSI Direction Nationale des Systèmes	16626
 Afrique Subsaharienne APME Agence de Promotion des Petites	15501
 Afrique de Formation des Avocats Francophones	10821
-Afrique des Nations	11761,3781
+Afrique des Nations	11761,3781,1935
 Afrique des Nations U17	8321
-Afrique du Droit des Affaires	10829,7,139,547,27,3823,146,117,23,1,2,136,224,307
+Afrique du Droit des Affaires	10829,7,139,547,27,3823,146,117,23,1,2,136,224,307,614
 Afrique du Droit des Affaires ONG Organisation Non	10876
 Afrique du Droit des Affaires Ordre	15352
 Afrique du Droit des Affokes	15397
@@ -229,7 +231,7 @@ Agence Nationale de Financement des Collectivités Locales-	16646
 Agence Nationale de Promotion des Investissements	15411
 Agence Nationale de Promotion des TIC	15637,1,590
 Agence Nationale de Promotion des Technologies	15621,16,1,82
-Agence Nationale de Réglementation des Télécommunications	5830,2074,987,515,5252
+Agence Nationale de Réglementation des Télécommunications	5830,2074,987,515,5252,2802,1,24
 Agence Nationale de Régulation des Télécommunications	6241
 Agence Nationale de Sécurité des Systèmes	8058,2816,4619,20,40,68,315,236,212
 Agence Nationale des Bourses du Gabon	15376
@@ -240,6 +242,7 @@ Agence Nationale des Infrastructures Numériques	2961,3818,23,3033,5576,103,4,26
 Agence Nationale des Normes	15999
 Agence Nationale des Parcs	11597
 Agence Nationale des Parcs Nationaux. L'adoption	16381
+Agence Nationale des Plantes Médicinales	17458
 Agence Nationale des Renseignements	13877
 Agence Nationale des Statistiques Agricoles	16616,122
 Agence Nationale des Systèmes	4402,9459
@@ -265,7 +268,7 @@ Agence de Régulation des Télécommunications Cameroun	10965
 Agence de Régulations des Marchés Publics	15542
 Agence de Transfert des Technologies Financières	10237
 Agence des Etats Unis	14442
-Agence des Nations Unies	11944,1380,90
+Agence des Nations Unies	11944,1380,90,3910
 Agence des Normes	15542
 Agence des Services	10821,4658,38,6
 Agence des Systèmes	2451,184,98,462,1051,1014,2132,1872,6319,176,162,184,7,32,329,57
@@ -276,11 +279,13 @@ Agencies MFBPE Ministère des Finances	13331
 Agents des Guichets Fonciers	14598
 Agglomération Effectif des Taux	10875
 Agripreneuriat des Jeunes	10492
+Agrément Office des Changes	17485
 Ahmed ADLI MINISTERE DES FINANCES ArrÍtÈ	15394
 Aider des Béninois	6221
 Aimé Ange Wilfrid BININGA MINISTERE DES	15455
 Ainsi le Ministère des Finances	10965
 Aires AIRES PROTEGEES VALORISATION DES Protégées	15999
+Ajout des APIs	17484
 Alain Fabrice MOUNDJIEGOU. MINISTERE DES AFFAIRES	16099
 Alerte Précoce des Crues	15828
 Algérienne des Eaux	10021
@@ -327,6 +332,7 @@ Anip. Des	7332
 Annexe A ESTIMATION DES ERREURS Annexe	13300
 Annexe E TRAVAIL DES ENFANTS NO	13300
 Annuaire des Statistiques Sanitaires B.C.G	15475
+Anomalies des Précipitations Anomalies	17001
 Applicatifs Promotion des TICs	10812
 Application Contrôle Citoyen des Prix	15712
 Apports des IPPs	10975
@@ -338,6 +344,7 @@ Apurement des Arriérés	4420
 Architecture des Référentiels de Données	15624
 Architecture des Référentiels de Données R	15624
 Archivage des Données	9277,7123
+Archives des Prestataires	17534
 Arlette SOUDAN-NONAULT MINISTERE DES AFFAIRES SOCIALES	16413
 Arrimage des Aéroports du CAMEROUN Aux	15542
 Arrivée des Autorités	14527
@@ -374,6 +381,7 @@ Association Professionnelle des Ingénieurs Conseils	15542
 Association Professionnelle des Institutions de Microfinance	16641
 Association des Autorités	14412
 Association des Banques	13314
+Association des Banques Centrales Africaines	17381
 Association des Blogueurs de Guinée	16641
 Association des Communes du Burundi	13518
 Association des Employeurs	15027
@@ -427,6 +435,7 @@ Autonomisation des Jeunes	16627
 Autonomisation des Ménages Pauvres	16384
 Autorité Burundaise de Régulation des Produits Vétérinaires	13329
 Autorité Malienne de Régulation des Télécommunications	7999
+Autorité Marocaine des Marchés de Capitaux	17485
 Autorité Nationale de Protection des Données	16641
 Autorité Nationale de Régulation des Marchés Publics	15936
 Autorité Nationale de Régulation des Médias	13929
@@ -437,7 +446,7 @@ Autorité Nationale des Elections	2366,13237
 Autorité Nationale des Elections APAI-CRVS African Programme	15415
 Autorité Saoudienne des Données	13728
 Autorité de ASIN Régulation des Communications	16144
-Autorité de Contrôle des Assurances	568
+Autorité de Contrôle des Assurances	568,16917
 Autorité de Contrôle des Elections	15727
 Autorité de Gestion des Réparations	8237
 Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29,552,1059,4065,540,132,25
@@ -495,8 +504,10 @@ BERE Directeur des Statistiques	10875
 BIF II.1.3. Système de Dépositaire Central des Titres	13452
 BIGIRIMANA Ernest Ministère des Infrastructures	13341
 BIGIRIMANA Floribert Ministère des Infrastructures	13341
+BLOCAGE ET INTERDICTION DES OPÉRATIONS LIÉES	17083
 BMPA Le Conseil des Ministres	2342
 BN Budget National CDMT Cadre des Dépenses	10712
+BORD D’UN FERRY ET DES DIRHAMS	17485
 BORDEREAU DES PRIX Date	13524
 BOUCLE D'UTILISATION DES DISPOSITIFS D'ÉPARGNE ET	13390
 BOURSE DES MATIÈRES PREMIÈRES JUIN AGRICOLES	2342
@@ -516,6 +527,7 @@ Banque Centrale des Comores	1854,606,3585,14,87,7566,45,44
 Banque Centrale des Comores DEVELOPMENT OBJECTIVE Original	13742
 Banque Centrale des Comores Fixe	13712
 Banque Centrale des Comores. Il	13801
+Banque Centrale des Comoros	17235
 Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489
 Banque Mondiale Table des Matières Version	1187
 Banque Mondiale. Banque des Etats	11944
@@ -559,6 +571,7 @@ Bureau National de Gestion des Risques	14622
 Bureau de Coordination des Affaires Humanitaires. In OC	10826
 Bureau de Coordination des Programmes Emploi	15936
 Bureau de Coordination des Programmes Filets Sociaux	10927
+Bureau des Nations Unies	17323,1
 Bureau des Normes de Madagascar	14451
 Bureau des Radiocommunications	13301
 Bureau des Stratégies	4090
@@ -594,7 +607,7 @@ CARACTÉRISTIQUES DE BASE DES ENQUÊTÉS	13300
 CARACTÉRISTIQUES DES ENQUÊTÉS	13300
 CARACTÉRISTIQUES DES LOGEMENTS ET	13300
 CARACTÉRISTIQUES PHYSIQUES DES PISTES	15774
-CARACTÉRISTIQUES PHYSIQUES DES PISTES RUNWAY PHYSICAL	16552
+CARACTÉRISTIQUES PHYSIQUES DES PISTES RUNWAY PHYSICAL	16552,454
 CARTES ANNEXE-7. FICHE DE RÉCEPTION DES	14490
 CARTOGRAPHIE DES OFFRES DE FORMATION ET	15674
 CAS DE RÉDUCTION DES COÛTS	15901
@@ -688,6 +701,7 @@ CHAPITRE V DE L'ACCES DES PERSONNES	15436
 CHAPITRE V DES SANCTIONS ARTICLE	15485
 CHAPITRE V DES SOURCES	15530
 CHAPITRE V DU REGISTRE NATIONAL DES	10813
+CHAPITRE V Des	17452
 CHAPITRE V PRODUCTION DES STATISTIQUES	15722
 CHAPITRE VI DES AUTRES INFRACTIONS Artlcle	15429
 CHAPITRE VI DES REGIMES BUDGETAIRE ET	14431
@@ -770,6 +784,10 @@ COMPOSANTES DES VISITES PRÉNATALES Au Burundi	13300
 COMPTE RENDU DES TRAVAUX	16545
 COMPTE RENDU DES TRAVAUX Session	16545
 COMPTE RENDU DU CONSEIL DES MINISTRES	2738,453,135,2741,1603
+COMPTES DES CORRESPONDANTS BANCAIRES	17485
+COMPTES DES CORRESPONDANTS BANCAIRES Comptes	17485
+COMPTES EN DIRHAMS DES NON-RESIDENTS	17485
+COMPTES EN DIRHAMS DES NON-RESIDENTS Comptes	17485
 COMPTES ET DES SIGNATAIRES AUTORISES	15901
 CONCEPTS ET DEFINITIONS VIII CARTE DES	10847
 CONDITIONS D'EXPLOITATION DES SERVICES Art	15394
@@ -811,15 +829,22 @@ CONTRACEPTION AVEC DES PRESTATAIRES DE PLANIFICATION	13300
 CONTRAINTES AUXQUELLES LE DEVELOPPEMENT DES PLATEFORMES	15493
 CONTRIBUTION DES PATENTES SECTION	15999
 CONTROLE DES DONNEES PAR	10876
+CONTROLE DES ETABLISEMENTS DE CREDIT	17443
+CONTROLE DES ETABLISEMENTS DE CREDIT Article	17443
+CONTROLE DES ETABLISEMENTS DE CREDIT Pour	17443
 CONTROLE DES TELECOMMUNICATIONS ARCT RAPPORT ANNUEL	13301
+CONTRÔLE DES MOYENS ET PRESTATIONS	17534
 CONTRÔLE DES OPÉRATEURS TRAITEMENT DE DOSSIERS	15670
 CONVENTIONS ET DETTES DES TIERS	15999
+CONVERTIBLES DES NON-RESIDENTS ET DES ETRANGERS	17485
+CONVERTIBLES DES PERSONNES MORALES MAROCAINES ET	17485
 CORRESPONDANT A LA PROTECTION DES DONNEES	436
 COUR DES COMPTES Article	15703
 COUVERTURE ET CONTENU DES SOINS PRÉNATALS	13300
 COVID-19. Des	4325,12301
 CRC Caisse de Retraite des Comores	13742
 CREATION DES ENTREPRISES Approuvés	15426
+CREDIT ET SYSTEME DE GARANTIE DES	17443
 CRÉDIT DES UE	15529
 CSBF. CHAPITRE II DES ATTRIBUTIONS	14417
 CSBF. Des	14417
@@ -841,6 +866,7 @@ CYBERCRIMINALITÉ TABLE DES MATIÈRES UMUTWE WA	14870
 CYBERCRIMINATITE CHAPITRE I DES PRINCIPES	15429
 Cabhler des Clauses	13524
 Cadastre PMPP Plan de Mobilisation des Parties Prenantes	10876
+Cadastre des Etats	17355
 Cadre Mondial des Services Climatiques	16621
 Cadre National des Services Climatologiques	16621
 Cadre Organique des Etablissements Publics Burundais	2625
@@ -864,6 +890,7 @@ Cahier des Clauses Administratives Particulières	13524
 Cahier des Ouvrage	10876
 Caisse Générale de Retraite des Agents de I'Etat	15419
 Caisse Nationale de Sécurité Sociale des Agents Publics	16365
+Caisse Nationale des Organismes de Prévoyance Sociale	17448
 Caisse de Stabilisation des Prix des Hydrocarbures	10087,5455
 Caisse des Dépôt	15411
 Caisse des Dépôts	7649,1351,1,1941,3290,1215,507,441,352
@@ -904,7 +931,7 @@ Centrafrique Des	4249
 Centrafrique. Des	16519
 Centrafrique. Pour le Ministre des Finances	2071
 Centrale Récapitulative des Risques Bancaires	11944
-Centrale des Incidents de Paiement	13452
+Centrale des Incidents de Paiement	13452,3490
 Centrale des Incidents de Paiement La Banque	13452
 Centrale des Risques Bancaires	16270
 Centrale des Risques des EMF	10965
@@ -954,12 +981,14 @@ Chambre des Représentants	8891
 Chambre des Représentants-	8891
 Chambres Provinciales des Comptes. CHAPITRE V	15703
 Chapitre I- Des	15370
+Chapitre II DES DROITS	17440
 Chapitre II Des	13330,2030,72
 Chapitre III Des	13330,2030
-Chapitre IV Des	13330
+Chapitre IV Des	13330,4126
 Chapitre IV. Des	15603
+Chapitre VII Des	17456
 Chapitre VIII Des	13330
-Chapitre X Des	13323
+Chapitre X Des	13323,4133
 Charge Intégrée des Maladies	14622,801,262
 Charge des Domaines	15999
 Charge des Questions Fiscales	7470
@@ -975,7 +1004,7 @@ Charte Africaine des Droi	10826
 Charte Africaine des Droits	2808,10522,112,339,1834
 Charte Nationale des Libertés	15703
 Charte des Nations	15488,110
-Charte des Nations Unies	15405,18,262,82
+Charte des Nations Unies	15405,18,262,82,1689
 Charte des Très Petites Entreprises69	8891
 Chasse DGI Direction Générale des Impôts DGDDI	10876
 Chauffeur. ACTIVITES REALISEES REGULARISATION DES TITRES	15670
@@ -1019,6 +1048,7 @@ Code Général des Collectivités Territoriales Décentralisées	10981,4488,726
 Code Général des Impôts	4420,147,1889,4256,266,2794,1577,184,264,202,21,308
 Code Général des Impôts. Article	15418
 Code Général des Impôts. La Taxe de Soutien	3045,12712
+Code de Bonnes Pratiques des Statistiques Européennes	17474
 Code des Collectivités	9287,55
 Code des Collectivités Locales	16651
 Code des Douanes	15533,466
@@ -1164,7 +1194,7 @@ Conditions de Vie des Ménages. The Oxford Poverty	16384
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
 Conformité Sécurité Des Systèmes D’Information Et	11034
 Confédération Générale des Entreprises de Côte	15712
-Confédération Générale des Entreprises du Maroc	8891
+Confédération Générale des Entreprises du Maroc	8891,8557,1
 Confédération des Etats du Sahel	1967,1,1427,739,2567,182,76,594,117,1138,479,55,6334,266,175,170
 Confédération des Etats du Sahel. Au	1968
 Confédération des Etats du Sahel. Il	7670
@@ -1454,6 +1484,7 @@ DE LA VIE PRIVEE DES PERSONNES	15643
 DE L’ AGREMENT DES PRESTATAIRES	15395
 DE L’'ADAPTATION DES INFRACTIONS DE DROIT	15643
 DE L’AFFECTATION DES RECETTES Article	16020
+DE L’AGENCE DE LA SECURITE DES	16879
 DE L’AMENAGEMENT ET DU REGIME DES	15780
 DE L’AUTORITE DE CONTROLE DES ELECTIONS	15727
 DE L’ELECTION DES MEMBRES DES BUREAUX	15727
@@ -1487,8 +1518,12 @@ DE VALIDATION DES SPECIFICATIONS TECHNIQUES HARMONISEES	1967
 DECISIONS ET AVIS MINISTERE DES AFFAIRES	4658
 DECISIONS ET AVIS MINISTERE DES FINANCES	15432,24
 DECISIONS ET AVIS MINISTERE DES TRANSPORTS	15394
+DECLARATION DES AVOIRS ET LIQUIDITES DETENUS	17485
+DECLARATION D’EXPORTATION DES DIRHAMS BILLETS	17485
 DECLARATION D’INTENTION POUR L’EXPLOITATION DES SERVICES	15885
 DECLARATION MENSUELLE OU TRIMESTRIELLE DES IMPÔTS	6954
+DECLARATIONS ET CONSERVATION DES DOCUMENTS	17485
+DECLARATIONS ET CONSERVATION DES DOCUMENTS Déclaration	17485
 DECLASSIFICATION DES INFORMATIONS ET DES DOCUMENTS	113
 DECOMPTE DES PAIEMENTS AFFERENTS A DES	15901
 DECRET DE PUBLICATION DES RESULTATS	16704
@@ -1502,10 +1537,12 @@ DEFINITION ET MODE DE CALCUL DES	15848
 DEFINITIONS DES CONCEPTS CLES Autorité	15479
 DEFINITIONS DES TERMES Article	13828
 DEFINITIONS SECTION I DES PRINCIPES Article	13709
+DEL RÉGIMEN DE RESPONSABILIDA DES	16855
 DELAIS DE REMPLACEMENT DES TRANSFORMATEURS MT	10975
 DEMANDES ET DE DELIVRANCE DES AUTORISATIONS	16203
 DEP Ministère des Hydrocarbure	15580
 DEPENSES DES BUDGETS GENERAL ET ANNEXES	15426
+DEPÔTS Chapitre III Système de Garantie des Dépôts	17443
 DERNIÈRE NAISSANCE DES NAISSANCES	13300
 DEROULEMENT DES TRAVAUX	16373
 DES ACTES DE COMMERCE Article	13293
@@ -1614,6 +1651,7 @@ DES CONTRIBUABLES SECTION	15999
 DES CONTROLES Article	15395,385,259
 DES CONVENTIONS DE PRETS AVEC	16020
 DES CONVENTIONS MATRIMONIALES DES COMMERÇANTS	13293
+DES CORRESPONDANCES Article	17439
 DES COUTS Artlcle	15429
 DES CREDITS BRUTS	13390
 DES CREDITS DU BUDGET DE L’ETAT	16020
@@ -1909,6 +1947,7 @@ DES OBLIGATIONS DE L’ADMINISTRATION PUBLIQUE Article	113
 DES OBLIGATIONS DE L’ETAT ET DES	15612
 DES OBLIGATIONS DES FOURNISSEURS D'ACCES	15643
 DES OBLIGATIONS DES PARTIES Section	13293
+DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT	17440
 DES OBLIGATIONS ET	15901
 DES OBLIGATIONS ET DES SANCTIONS	1801
 DES OBLIGATIONS ET DES SANCTIONS56 Section	1801
@@ -1952,6 +1991,8 @@ DES PERSONNES IMPOSABLES Article G	15999
 DES PERSONNES MORALES Article	15792
 DES PERSONNES PHYSIQUES	15999
 DES PERSONNES PHYSIQUES CHAPITRE	15792
+DES PERSONNES PHYSIQUES MAROCAINES RESIDENTES	17485
+DES PERSONNES PHYSIQUES MAROCAINES RESIDENTES Comptes	17485
 DES PERSONNES TITRE	15792
 DES PETITES ET MOYENNES ENTREPRISES Article	15999
 DES PEUPLES AUTOCHTONES	15455
@@ -2084,6 +2125,7 @@ DES STATUTS MISE A JOUR	16274,182
 DES STRUCTURES	15382
 DES SYSTEMES D'INFORMATION	15643
 DES SYSTEMES D'INFORMATION LE PRESIDENT	10903
+DES SYSTEMES D’INFORMATION Section	16879
 DES Scope Subsystem Type Categorical	7221
 DES Scope System Type Binary	7221
 DES Scope System Type Nominal Identifies	7221
@@ -2372,7 +2414,7 @@ Digitalisation des Services Publics	13341
 Digitalisation des Services Publics Afin	13341
 Digitalisation du Système de Gestion des Recettes Domaniales	16581
 Digitalisation' Conseil des Ministres	15489
-Dimensions des PD	16552
+Dimensions des PD	16552,454
 Dingana PGES CENTRE DE PERSONALISATION DES	14490
 Diplomatie VII. MECANISME DE MITIGATION DES	13341
 Directeur Adjoint des Actualités	16175
@@ -2455,7 +2497,8 @@ Direction Centrale des Systèmes	15778,195
 Direction DGRHAS Générale des Ressources Humaines	11905
 Direction Départementales des Affaires Sociales	16012
 Direction Generale des Ressources DHIS2	14442
-Direction Générale des Collectivités Territoriales	557
+Direction Générale des Collectivités Locales	17448
+Direction Générale des Collectivités Territoriales	557,16897
 Direction Générale des Communications	15720
 Direction Générale des Contributions Directes	15625,1
 Direction Générale des Domaines	4420,6291,4914,1
@@ -2468,10 +2511,11 @@ Direction Générale des Grands Travaux GDP Directorate	15372
 Direction Générale des Hydrocarbures	16037
 Direction Générale des Impots	15625,1
 Direction Générale des Impots Avant	15625,1
-Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724,88,65,308,133,137,19,4,171,728,57,9,70,37,77,3,54,68,18,19,24,43,96,63,21,61,10,237,190,123,23,55,5
+Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724,88,65,308,133,137,19,4,171,728,57,9,70,37,77,3,54,68,18,19,24,43,96,63,21,61,10,237,190,123,23,55,5,809
 Direction Générale des Impôts Conakry	16724
 Direction Générale des Impôts DHIS District Health	15583
 Direction Générale des Impôts EDBM	14438
+Direction Générale des Impôts URL	17533
 Direction Générale des Impôts de Madagascar	14580
 Direction Générale des Impôts du Burkina Faso. Elle	16120
 Direction Générale des Impôts du Bénin	15797
@@ -2486,6 +2530,7 @@ Direction Générale des Mines	16627
 Direction Générale des Opérations	749
 Direction Générale des Politiques	16365
 Direction Générale des Postes	2052,2596
+Direction Générale des Pouvoirs Locaux. L’Administration	17448
 Direction Générale des Ressources	16317
 Direction Générale des Routes DSNIS	13377
 Direction Générale des Soins	15685
@@ -2511,6 +2556,7 @@ Direction des Affaires Administratives DGEC	10847
 Direction des Affaires Civile	7993
 Direction des Affaires Civiles	9668
 Direction des Affaires Domaniales	10876
+Direction des Affaires Générales	17500
 Direction des Affaires Générales du MINDCAF	16581
 Direction des Affaires Générales. Cette	2961
 Direction des Affaires Juridique	10975
@@ -2518,12 +2564,14 @@ Direction des Affaires Juridiques	10975,3456,1000,338,945
 Direction des Affaires Non Répressives	15599
 Direction des Applications Météorologiques	15371
 Direction des Archives Autres	15424
+Direction des Domaines	17470
 Direction des Douanes	4420,6291
 Direction des Déchets Industriels	15936
 Direction des Ecoles	15936
 Direction des Enquêtes	15666
+Direction des Entreprises Publiques	17458
 Direction des Etablissements Publics	15936
-Direction des Etudes	10975,930,2537,981,70,173,162
+Direction des Etudes	10975,930,2537,981,70,173,162,1613
 Direction des Examen	15936
 Direction des Examens	15936
 Direction des Grandes Entreprises	6163,9836,21,71
@@ -2551,6 +2599,7 @@ Direction des Soins Infirmiers	15475
 Direction des Soins de Sante de Base DVSSER	14442
 Direction des Statistiques	8891,1983,4605
 Direction des Statistiques Démographiques. Malgré	15666
+Direction des Stratégies	17458
 Direction des Systèmes	5740,1202,1614,5993,876,6,208,34,12,103,148,176,182,204,216
 Direction des Technologies	4170,11766
 Direction des Titres	13329
@@ -2589,12 +2638,17 @@ Distribution des Cartes	16658
 Distribution des Eaux	13743
 District des Montagnes	2342
 Divers Le Conseil des Ministres	13445
+Division des Affaires Administratives	17500
 Division des Domaines	16611
+Division des Enquêtes	17446
 Division des Fonds	7660
+Division des Indices Statistiques Missions	17446
 Division des Opérations Cadastrales	15555
 Division des Statistiques	15351
+Division des Statistiques Générales Missions	17446
 Diwan des Waqfs	13891
 Djacoba Oliva TEHINDRAZANARIVELO Le Garde des Sceaux	14431
+Document Analyse Qualitative des Réfugiés Burkinabè	17323,1
 Documentation des Bonnes Pratiques Compilation	16646
 Documents IHPC Indice Harmonisé des Prix	15479
 Documents Publics Centre de Promotion des Investissements	15936
@@ -2655,6 +2709,7 @@ Décision du Ministre des Eaux	2342
 Décision du Ministre des Moudjahidines	15555
 Déclaration Universelle des Droits	10826,2955,1770
 Déclaration des Chefs	15423,262
+Déclarations Uniques des Marchandises	17445
 Définition des DLIs	10876
 Défis Des	14622
 Délimitation des Provinces	2625
@@ -2828,6 +2883,7 @@ ET DU PROTOCOLE DE CESSION DES	15530
 ET DU STATUT DES PARLEMENTAIRES Article	15703
 ET DU TRANSFERT DES DONNEES PERSONNEL	15584
 ET D’EXPLOITATION DES RESEAUX ET SERVICES	16047
+ET D’IMPORTATION DES DEVISES BILLETS	17485
 ET FACILITATION D’ACCES A DES IMAGES	16617
 ET GESTION DES FONCTIONS SUPPORT	15999
 ET INTENDANCE GÉNÉRALE DES PALAIS PRÉSIDENTIELS	16381
@@ -2976,6 +3032,7 @@ Equipements des Territoires Urbains	15542
 Espace des Métiers	14721
 Estimatif des Equipements Informatiques	13694
 Estonian la Qualité des Services Financiers for DFS	16144
+Estonie. Des	17448
 Etablissement des Statistiques	15599
 Etablissements de Monnaie Electronique EXPOSE DES MOTIFS	14417
 Etat Civil BUCREP Bureau Central des Recensements	15501
@@ -3007,6 +3064,7 @@ Existence des Assistants	10874
 Existence des DGESS Organisation	10874
 Expertise des Auditeurs Associés	10821
 Expioitation des Insfrastructures	15999
+Exploitants des Réseaux Publics de Télécommunications	17442
 Exploitants des Services Postaux Article	37
 Exploitation Exclusive des Gisements Pétroliers	2342
 Exploitation des Carrières Provisions	15542
@@ -3130,8 +3188,9 @@ Fonds de Garantie des Investissements Prioritaires	7106
 Fonds de Solidarité des Cadres Judiciaires	13390
 Fonds de Solidarité des Travailleurs	13390
 Fonds des Nations	8072,2441,95,2275,3030,787,28
-Fonds des Nations Unies	6578,104,1873,336,386,1008,589,1108,1318,2123,52,198,12,39,124,825,70
+Fonds des Nations Unies	6578,104,1873,336,386,1008,589,1108,1318,2123,52,198,12,39,124,825,70,746
 Fonds des Nations-Unies	11982
+Formation des Cadres	17442
 Formation des Formateurs	13390
 Formation des Responsables du Mécanisme	14425
 Formulaire de Divulgation des Bénéficiaires Effectifs	9339,4228,720,1,276
@@ -3165,6 +3224,7 @@ Fédération des Entreprises du Gabon	4208
 Fédération des Mouvements	15712
 Fédération des Petites	15712
 Fédération des Sociétés	11944
+Fédération des Technologies	17448
 G. Des	5877
 G. MINISTERE DES SPORTS	8321
 G19 Building du Ministère des Finances	13668
@@ -3213,8 +3273,9 @@ GOUVERNANCE OPÉRATIONS EN CAPITAL SIGNATURE DES	2342
 GROSSESSE COMME DES POINTS DE RÉFÉRENCE	13300
 GROUPEMENT DE CORPS DES METIERS	16274,182
 GSM. Banque des Etats	11944
-GUIDAGE ET CONTRÔLE DES MOUVEMENTS	15774,778
+GUIDAGE ET CONTRÔLE DES MOUVEMENTS	15774,778,454
 GUIDE POUR LA DIGITALISATION DES PAIEMENTS	10711
+GUINEE-BISSAU LISTES DES ETABLISSEMENTS AGREES	17356
 Gabon Agence Nationale des Infrastructures Numériques	6129
 Gabon du Sommet des Affaires	16099
 Gabon. La Direction Générale des Douanes	16226
@@ -3260,6 +3321,7 @@ Gestion des Infrastructures Informatiques	10975
 Gestion des L’IA	15583
 Gestion des Magistrats	11958
 Gestion des Missions	15936
+Gestion des Moyens Missions	17446
 Gestion des Organisation	2342
 Gestion des Organisations	15674
 Gestion des Par	15583
@@ -3325,6 +3387,7 @@ Général des Dépenses	4420
 Général des Impôts	16328
 Générale des Douanes	15549
 Générale des Impôts	15349,276,1
+Générale des Opérations de Change	17485
 Générale des Ressources Humaines	11905
 Générale des Services	15366
 Générale des Technologies	16381
@@ -3341,6 +3404,7 @@ HL7 FHIR. Des	13568
 HP MINISTÈRE DE L’ÉCONOMIE ET DES	15961
 HUMAINS ET DE LA PROMOTION DES	15786,314,77
 Habitation du Burkina Faso CHIFFRES CLÉS DES	15557
+Harmonisation des Politiques Fiscales	16949
 Harmonisation des Processus Métier	13841
 Harmonisation des Statistiques	10874,3578,1027,22,79
 Harmonisation du Droit des Affaires	15411,63,625
@@ -3471,10 +3535,12 @@ IL Y A DES SEMAINES	13300
 ILLICITE DES ComNat-ALPC ARMES LÉGÈRES ET	15936
 ILS APPARAISSENT DANS LA LISTE DES	13300
 IMFs Connaissance des IMFs Connaissance	13390
+IMMATRICULATION ET CATEGORISATION DES OPERATEURS ECONOMIQUES	17485
 IMMONGAULT. MINISTERE DES EAUX ET FORÊTS	16381
 IMPORTANCE DES COMPETENCES NUMERIQUES	15493
 IMPORTANCE DES PLATEFORMES NUMERIQUES	15493
 IMPORTANCE DES SERVICES FINANCIERS NUMERIQUES	15493
+IMPORTATION ET EXPORTATION MATERIELLE DES INSTRUMENTS	17485
 IMPOT SUR LE REVENU DES CAPITAUX	16047
 IMPOT SUR LE REVENU DES PERSONNES	16020
 IMPOTS DES MOYENNES ENTREPRISES-CIME OWENDO	16381
@@ -3505,7 +3571,7 @@ INSCRIVEZ LE NUMÉRO DE L'HISTORIQUE DES	13300
 INSPECTION DES FINANCES	15744
 INSPECTION GENERALE DES SERVICES	16175
 INSPECTIONS DES SERVICES	16175
-INSTALLATIONS DE TÉLÉCOMMUNICATION DES SERVICES	16552
+INSTALLATIONS DE TÉLÉCOMMUNICATION DES SERVICES	16552,454
 INSTITUANT DSI AU SEIN DES MINISTÈRES	10906
 INSTITUANT UN DEPARTEMENT EN CHARGE DES	10905
 INSTITUT DES SCIENCES DE LA COMMUNICATION	15674
@@ -3513,6 +3579,7 @@ INSTITUT NATIONAL DES SCIENCES DE GESTION	15674
 INSTITUT UNIVERSITAIRE DES SCIENCES DE L'ORGABISATION	15674
 INSTITUTIONNELLES ET DES DROITS HUMAINS	15792
 INSTITUTIONS Le Conseil des Ministres	16001
+INSTRUCTION GENERALE DES OPERATIONS DE CHANGE	17485
 INSTRUCTIONS POUR LA PREPARATION DES OFFRES	16747
 INTEGRATION DES AVANTAGES FISCAUX ET DOUANIERS	16047
 INTEGRATION DES DONNEES DANS LA BASE	10876
@@ -3523,6 +3590,7 @@ INTERRUPTION DES SYSTEMES DE PAIEMENT	15901
 INTERVENANTS DESCRIPTION DES TACHES DOCUMENTS ET	10876
 INTITULES DES SECTIONS	3396
 INTRODUCTION DES OFFRES	16747
+INTRODUCTION I. PROFIL DES RÉSIDENTS	17478
 INTRODUCTION O1 DU SUIVI DES	15670
 INVENTAIRE DES INITIATIVES EXISTANTES SUR	16621
 INVENTAIRE ET DESCRIPTION DES INITIATIVES EXISTANTES	16621
@@ -3561,7 +3629,7 @@ Identification des Exploitants	10096
 Identification des Incidents	15472
 Identification des ONG	16328
 Identification des OPP	998
-Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43,3375,74,395,720,185,119,46,363,29
+Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43,3375,74,395,720,185,119,46,363,29,926
 Identification des Personnes Physiques	14243,2408
 Identification des Personnes Pour	15431
 Identification des Personnes. Article	15431
@@ -3586,10 +3654,12 @@ Indicateurs de Déclenchement des Paiements	10876
 Indicateurs des TIC	13531
 Indice Harmonisé des Prix	10874,5746,88
 Indice National Harmonisé des Prix	16708
+Indice Standardisé des Précipitations	17001
 Indice de Développement des TIC	1323,742,2015,11919,169
 Indice de Développement des TIC IFRI Institut de Formation	15583
 Indice de Développement des Technologies	15512
 Indice des Infrastruc-	13341
+Indice des Prix des Actifs Immobiliers	17451
 Indice des Prix des Services Bancaires	5928
 Indice des Services En	13341
 Indirects Direction Générale des Impôts	16328
@@ -3631,7 +3701,7 @@ Inspecteurs des Services	16381
 Inspecteurs des Services Adjoints	16381
 Inspecteurs des Services Assistants	16381
 Inspection Générale des Douanes	13809
-Inspection Générale des Finances	969,2635,374,3645,1127,6622,197,89,54
+Inspection Générale des Finances	969,2635,374,3645,1127,6622,197,89,54,1746
 Inspection Générale des Finances- IGF	969
 Inspection Générale des Finances. Article	15569
 Inspection Générale des Services	16099,282
@@ -3682,13 +3752,15 @@ Institution. Des	10821
 Institutions Nationales des Droits	10826
 Instituts de Formation des Maîtres	8577
 Instituts de Formation des Professeurs	16001
+Instruction Générale des Opérations de Change	17485,1
+Instruction Générale des Opérations du Change	17485
 Instruction des Armées HP	15475
 Interconnexion des Bases de Données	15738
 Interconnexion des Données	16617
 International TABLE DES MATIERES	13375
 Internet Des Objets	13341
 Internet FDSP Fonds de Digitalisation des Services Publics	13341
-Internet des Objets	7283,8189,238
+Internet des Objets	7283,8189,238,1738
 Internet. Des	4744
 Interopérabilité des SI v.0.2.2	16692
 Interopérabilité des Systèmes de Paiement Instantané	7283
@@ -3726,6 +3798,7 @@ Jean-Marc THYSTERE TCHICAYA MINISTERE DES TRANSPORTS	15848
 José Mpanda Kabangu des Postes	3512
 Journal de Programmation des Marchés	10975
 Journal des Marchés	10975
+Journée Internationale des Droits des Femmes	17501
 Journée Internationale des Jeunes	16712
 Journée Internationale des Jeunes Filles	15936
 Journée Internationale des Personnes	13442
@@ -3793,6 +3866,7 @@ L'administration des Douanes	4269
 L'ambassadeur du Royaume des Pays-Bas	5718
 L'analyse des PAP	15569
 L'analyse des RAR	10858
+L'appel des Nations Unies	17474
 L'environnement des Datacenters	1244
 L'informatisation des SPT	13306
 L'lnspection Générale des Finances	15366
@@ -3868,6 +3942,7 @@ LE CADRE REGLEMENTAIRE DE L'INTERCONNEXION DES	15592
 LE CONSEIL DES MINISTRES DE L'UNION	14849,503
 LE CONSEIL DES MINISTRES ENTENDU	10903,2,4514
 LE CONTENU DES PROGRAMMES DE FORMATION	15933
+LE DIRECTEUR DE L’OFFICE DES CHANGES	17485
 LE GOUVERNEMENT MINISTÈRE DES FINANCES	7470
 LE MARCHE CAHIER DES CLAUSES ADMINISTRATIVES	13524
 LE MINISTRE DE L'ECONOMIE ET DES	15406
@@ -3923,6 +3998,7 @@ LISTE DES ENCADRÉS ENCADRÉ	10712
 LISTE DES ENGAGEMENTS	15712
 LISTE DES ENGAGEMENTS ENGAGEMENTS PORTEURS D’ENGAGEMENTS	15712
 LISTE DES EQUIPEMENTS HOMOLOGUES N	998
+LISTE DES ETABLISSEMENTS DE PAIEMENT AGRÉÉS	17024
 LISTE DES FIGURES	737,10228,3477,1141,102,61
 LISTE DES FIGURES Fig. II.1 Fig	13341
 LISTE DES FIGURES Figure	737,9975,253,2425,196,837,19,180,961,12,75,15,61,190
@@ -4021,6 +4097,7 @@ La Gestion des Matériels Assisté	13341
 La Gestion des Ressources Humaines	14537
 La Haute Autorité de Protection des Données	3356
 La Haute Autorité des Médias	8772
+La Marocaine Electronique des E-Services. Il	17494
 La Matinale du Service Universel des Tic	3404
 La Ministre des Petites	16249
 La Mission de Promotion des Matériaux Locaux	15542
@@ -4037,6 +4114,7 @@ La SOCIETE DES MINES D’ITY	2342
 La SOCIÉTÉ DES MINES	2342
 La Société de Gestion des Stocks	2342
 La Société des Postes	15493
+La Solution de Gestion des Dotations Voyages	17485
 La Surveillance des Systèmes de Paiement	13468
 Laboratoire National de Contrôle de Qualité des Médicaments	15475
 Laboratoire des Sciences	15789
@@ -4159,6 +4237,7 @@ Liste Nationale des Médicaments Essentiels	14622
 Liste des Comptes	15901
 Liste des Figures Figure	15707
 Liste des Grandes Ecoles du Cameroun	15480
+Liste des PSCo	17534
 Liste des Tableaux Tableau	15707
 Liste des Titres	15670
 Liste des Titres de Productions	15670
@@ -4213,15 +4292,18 @@ L’ECONOMIE ET DES FINANCES	7670,651,7621
 L’ECONOMIE ET DES FINANCES Le Conseil	8321
 L’ECONOMIE ET DES FINANCESLe Conseil	7670
 L’EGARD DU TRAITEMENT DES DONNEES	10825
+L’ETRANGER Instruction Générale des Opérations de Change	17485
 L’EXERCICE DES ACTIVITES DES ORGANISMES Article	16177
 L’HOMME DU CAMEROUN COMMISSION DES DROITS	15999
 L’INSTAURATION CONTINUE DES MEILLEURES PRATIQUES	2342
 L’INSTAURATION L’ATTEINTE DES OBJECTIFS CLÉS	2342
 L’INTEGRITE ET LA DIGNITE DES INDIVIDUS	16617
 L’Inspection Générale des Services	16099
+L’Instruction Générale des Opérations de Change	17485
 L’OFFICE NATIONAL DE CONTROLE DES AMENAGEMENTS	16287
 L’Observatoire des Marches des Services	13313
 L’Office National de Protection des Réfugiés	13360
+L’Office des Changes	17485
 L’Organisation Nationale des Entrepreneurs	3658,2617,145
 L’Université Nationale des Sciences	10855
 L’acheminement des DEEE	14423
@@ -4267,7 +4349,7 @@ M. Thiery OBAME NZE. DIRECTION DES	16381
 M. Willy ANDONG LIBAKOU. MINISTERE DES	16381
 M2 Feux des TWY	16552
 MAEC Ministère des Affaires	10712
-MAG True and Mag Bearing Dimensions des RWY	16552
+MAG True and Mag Bearing Dimensions des RWY	16552,454
 MAHAFALY Solonandrasana Olivier Le Garde des Sceaux	14414
 MALAGAY DE L’INFORMATIQUE ET DES LIBERTES	14537
 MANDAT POUR LA COLLECTE DES DONNEES	785
@@ -4275,6 +4357,9 @@ MANIFESTATION D'INTERET SELECTION DES CONSULTANTS	16194
 MANUEL DE TRAITEMENT DES RECOURS ET	10876
 MANUEL DES PROCEDURES DE COLLECTE ET	10876
 MANUEL DES PROCEDURES DE DECLARATION D’OUVERTURE	13652
+MARCHE DES CHANGES	17485
+MARCHE DES CHANGES ET OPERATIONS SUR	17485
+MARCHE DES CHANGES Principes	17485
 MARCHÉS DES INFRASTRUCTURES CRITIQUES	8313
 MARCHÉS FINANCIERS ET DES DISPOSITIFS	15508
 MARENA Scholarship Scheme. Université des Mascareignes	14745
@@ -4433,6 +4518,7 @@ MODALITES ET CONDITIONS GENERALES D’EXERCICE DES	11522
 MODE DE SAISINE DES PLAINTES	15670
 MODERNISATION DES	15999
 MODIFICATION DES ARTICLES	16047
+MODIFICATION DES ASSOCIÉS ET	17534
 MODIFICATION DES DISPOSITIONS DOUANIERES Article	16047
 MODIFICATION DES DISPOSITIONS DOUANIERES SECTION	16047
 MODIFICATION DES STATUTS EUROP ASSISTANCE-IHS SERVICES	15426
@@ -4498,6 +4584,7 @@ Mamadou CAMARA Directeur des Statistiques Economiques	16708
 Management des Bases	15422
 Management des RH	6163
 Management des Unités Commerciales	15674
+Manager des Opérations	17210
 Manuel des Lignes Directrices	15567
 Manuel des Procédures Administratives	10975
 Marché Commun Economique des Etats Membres	13290
@@ -4530,11 +4617,12 @@ Ministre des Affaires	7978,2734,1260,37,2448
 Ministre des Affaires Etrangères	4420,8985,35,5,478,1538
 Ministre des Affaires Etrangères. Article	15597
 Ministre des Affaires Foncières	15426,994,6
+Ministre des Affaires Gindrales	17441
 Ministre des Affaires Sociales	10824,45,4747,257
 Ministre des Comptes Publics Charles M’BA	15678
 Ministre des Enseignements Maternel	16535
 Ministre des Enseignements Secondaire' Technique	15489
-Ministre des Finances	1214,33,53,506,149,749,1132,395,18,92,22,633,25,42,40,804,549,219,588,33,384,1501,906,888,6,1031,1313,4,5,111,37,23,19,1,62,1,2,68,57,22,677,763,176,30,186,265,3,210,6,197,20,342
+Ministre des Finances	1214,33,53,506,149,749,1132,395,18,92,22,633,25,42,40,804,549,219,588,33,384,1501,906,888,6,1031,1313,4,5,111,37,23,19,1,62,1,2,68,57,22,677,763,176,30,186,265,3,210,6,197,20,342,873
 Ministre des Finances Hervé NDOBA	1300
 Ministre des Finances. AArticle	13781
 Ministre des Finances. Art.42.- Lorsque le Conservateur	15349
@@ -4561,9 +4649,12 @@ Ministre des Télécommunications	2554,1245,3842,2453,1045,12,2139
 Ministry of Protection Sociale des Public Health	10985
 Ministère Des Ressources Animales Et Halieutiques	15936
 Ministère Des Transports	15936
+Ministère Délégué Chargé des Affaires Générales	17448
+Ministère Délégué Chargé des Marocains Résidant	17448
+Ministère Délégué Chargé des Relations	17448
 Ministère Délégué En Charge Des Sports	15936
 Ministère des Af-	15349
-Ministère des Affaires	2366,2769,2198,1558,3025,1425,101,2197,10,316
+Ministère des Affaires	2366,2769,2198,1558,3025,1425,101,2197,10,316,1483
 Ministère des Affaires Etrangère	15349
 Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718,1422,1162,1944,112,13,283,179,387,304,14,3
 Ministère des Affaires Etrangères SIGAC	15936
@@ -4578,7 +4669,7 @@ Ministère des Droits	13442
 Ministère des Eaux	3045,12667,45,179,61,102
 Ministère des Enseignements	2966
 Ministère des Enseignements Maternel	16535
-Ministère des Finances	969,315,13,3,3,1,1,1,1,1,1,1,1,367,274,3,72,1,1,1,1,1,1,1,1,704,69,237,670,420,34,135,1,1,1,1,1,1,1,1,30,21,633,107,368,343,349,738,110,285,1388,2027,253,1,10,6,1262,1088,59,92,23,6,8,6,24,3,3,10,88,5,49,15,49,641,1037,25,19,49,119,7,30,14,26,19,4,147,340,9,71,6,184
+Ministère des Finances	969,315,13,3,3,1,1,1,1,1,1,1,1,367,274,3,72,1,1,1,1,1,1,1,1,704,69,237,670,420,34,135,1,1,1,1,1,1,1,1,30,21,633,107,368,343,349,738,110,285,1388,2027,253,1,10,6,1262,1088,59,92,23,6,8,6,24,3,3,10,88,5,49,15,49,641,1037,25,19,49,119,7,30,14,26,19,4,147,340,9,71,6,184,930,37
 Ministère des Finances Cellule	10965
 Ministère des Finances Contactez-nous Brazzaville	15422
 Ministère des Finances KANOUNE Yahia Ministère	15472
@@ -4604,6 +4695,7 @@ Ministère des Services Postaux	16626
 Ministère des Serviteurs du Peuple le Conseil	5304
 Ministère des Sports	3396,12540
 Ministère des TIC	765,12536
+Ministère des Technologies	17448
 Ministère des Transport	15478
 Ministère des Transports	3231,165,1707,5608,230,1302,1047,2081,107,64,215,179,65,322,293,25,28
 Ministère des Transports Cible	15936
@@ -4645,6 +4737,7 @@ Modélisation des Données	11733,2963
 Moissi des Comores	13720
 Monsieur Cédric RATANGA. Directeur des Services Postaux	16175
 Monsieur Lassané OUEDRAOGO. CONSEIL DES MINISTRES	16287
+Monsieur le Secrétaire Général des Nations Unies	17474
 Montant des Encours	13390
 Monétaire des Etats	15354,18,39
 Moroni-Union des Comores	4342,9429
@@ -4685,9 +4778,11 @@ NOM POUR DES TESTS DU MINEUR	13300
 NOMINATION DES CONGOLAIS DE L’ETRANGER Décret	16177
 NOMINATION DES MEMBRES	2342
 NON GOUVERNEMENTALES DU CONSEIL CONSULTATIF DES	15405
+NON UTILISES Instruction Générale des Opérations de Change	17485
 NON-RESPECT DES DISPOSITIONS APPLICABLES	15394
 NON-RESPECT DES DISPOSITIONS APPLICABLES En	15394
 NOS RUBRIQUES DROIT DES MARCHES FINANCIERS	10996
+NOTIFICATION ET PAIEMENT DES COTISATIONS	17121
 NOURRITURE OU DES PRODUITS AGRICOLES	13300
 NSDD Norme Spéciale de Diffusion des Données ODD	15479
 NT DES	3396
@@ -4716,6 +4811,8 @@ Nationale des Postes	16726
 Nationale des Telecommunications	1818
 Nationales des Assurances	11944
 Nations Unies UNESCO Organisation des Nations Unies	15474
+Nature des N	17485
+Nature des Pays Valeur	17485
 Nature des Prévision	2476
 Nestor NTAHONTUYE. LE MINISTRE DES FINANCES	13587,1
 Nigeria. Des	6200
@@ -4775,6 +4872,9 @@ OBTIGATIONS DES PRESTATAIRES DE SERVICES	15429
 OBTIGATIONS DU JOURNAI.ISIE ET DES ORGANES	15397
 OCCUPE DES ANIMAUX	13300
 OCDE Office Chérifien des Phosphates OCP Office	15583
+OCDE. Des	17448
+OFFICE DES CHANGES	17485
+OFFICE DES CHANGES Instruction Générale des Opérations	17485
 OFFICE NATIONAL DES STATISTIQUES	15346
 OFFRIR UNE GESTION INTÉGRALE DES INFORMATIONS	13306
 OGR. Des	13375
@@ -4797,6 +4897,7 @@ ORGANISATION La Direction des Systèmes	15425
 OSC Droits CGECI des Droits de FIPME	15712
 OU DE FOURNITURE DES SERVICES	15545
 OU DE FOURNITURE DES SERVICES NUMERIQUES	16203
+OU DES PARTS DU CAPITAL SOCIAL	17534
 OU DES REPRESENTATIONS A CARACTERE PORNOGRAPHIQUE	16617
 OU des C	15584
 Objectif de Développement Durable des Nations Unies	13735
@@ -4810,9 +4911,11 @@ Observatoire Congolais des Droits	15848
 Observatoire Marocain des Petites	7655
 Observatoire des Droits	10365
 Observatoire des Décès Maternels Néonatals	15423
+Observatoire des Délais de Paiement	17449
 Observatoire des Forêts	13325
 Observatoire des MArches	15706,1
 Observatoire des Marchés	15706,1
+Observatoire des Technologies	17448
 Observatoire du Marché des Services Internet	13312,2,17
 Obtention des Certificats	15542
 Occupation des Terres	15715
@@ -4825,6 +4928,7 @@ Office Burundais des Recettes. Dans	13505
 Office International des Epizooties	13320
 Office National Interprofessionnel des Céréales	8891
 Office National de Protection des Réfugiés	13360
+Office National des Oeuvres Universitaires Sociales	17458
 Office National des Pensions	13390,52
 Office National des Postes	15372,102
 Office National des Sports	15936
@@ -4835,14 +4939,26 @@ Office National des Télécommunications ONATOUR	13377
 Office National du Contrôle des Aménagements	7674
 Office Nationale des Pensions	13390
 Office Togolais des Recettes	4034,5942
-Office des Changes	8891
+Office des Changes	8891,8594,2,16
+Office des Changes L’Office des Changes	17486
+Office des Changes Pour	17485
+Office des Changes URL	17486
+Office des Changes and IMF	17503
+Office des Changes. Ces	17485
+Office des Changes. Compte	17485
 Office des Changes. Disponible	8891
+Office des Changes. Désignation	17485
+Office des Changes. Effectivité	17485
+Office des Changes. Il	17485
+Office des Changes. Pour	17485
+Office des Changes. Sont	17485
 Office des Nations	14403
 Office des Postes	4715
 Office des Produits	8237
 Office des Voiries de Djibouti	13908
 Office for Europe Place des Nations CH-1211 Geneva	10764,80
 Office for Europe Place des Nations Union	11563
+Offices des Changes	17485
 Offices des Postes	11522
 Officiel des Marchés Publics	10876
 Offre Restreint ARMP Autorité de Régulation des Marchés	10876
@@ -5035,6 +5151,7 @@ PRESENTATION DES ROLES	3381
 PRESENTATION DU LOGICIEL GESTION DES COMPTES	15537
 PRESIDENCE DE LA REPUBLIQUE MINISTERE DES	15786
 PRESIDENT DU CONSEIL DES MINISTRES	15362,82
+PRESTATAIRES D’AUDIT DE LA SÉCURITÉ DES	17534
 PREUVES DES SOMMES EXIGIBLES	15901
 PREVENTION DES	15999
 PRINCIPE DE L'ELECTION DES ORGANES DES	15469
@@ -5058,6 +5175,7 @@ PRODUCTION DES STATISTIQUES OFFICIELLES ARTICLE	15485
 PRODUCTION ET DU RESEAU A DES	13433
 PRODUCTION ET PRODUCTIVITE DES FILIERES AGRICOLES	15999
 PRODUIT DES CESSIONS D'IMMOBILISATIONS	15999
+PROFESSIONNEL VII. PROFIL DES MÉNAGES ET	17478
 PROFIL DU CABINET ET DES EXPERTS	12043
 PROGRAMMATION TRIENNALE DES ACTIONS ET RESULTATS	15673
 PROGRAMME D'APPUI A L'AUTONOMISATION DES FEMMES	15999
@@ -5226,6 +5344,7 @@ Population des Hommes	13300
 Port Louis. La Fraternité Mauricienne des Malades	14746
 Portabilité des Données	13841
 Portail National des Collectivités Territoriales	557
+Portail National des Procédures	17461
 Portail National des Services Publics	15936
 Portail des Startups	4567
 Portails des Régions	6685
@@ -5267,7 +5386,7 @@ Programme de Développement des Services de Santé PEC	15423,262
 Programme de Vérification des Imp	15999
 Programme de Vérification des Importations	15999
 Programme des Nations	3850,757,1475,3212,1237,3166,97,1043,978,129,431,29,284,2
-Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91,979,1433,99,107,34,825,92,8,75,5,31,821,1,247,2,59,65,486,144,163,3,26,13
+Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91,979,1433,99,107,34,825,92,8,75,5,31,821,1,247,2,59,65,486,144,163,3,26,13,788
 Programme des Nations-Unies	1684,9028,4958
 Programme des Reformes Economique	15659
 Programme des Reformes Economiques	15659
@@ -5303,7 +5422,7 @@ Promotion des Jeunes Sourds	16743
 Promotion des Langues	10847,16,734,4042
 Promotion des Langues Nationales	3396,12236,7,104
 Promotion des Langues Nationales Nb	10847
-Promotion des PME	10900
+Promotion des PME	10900,6561
 Promotion des Petites	15479
 Promotion des Peuples Autochtones	5103,10450
 Promotion des Peuples Autochtones MJSECFQE Ministère	15580
@@ -5345,7 +5464,7 @@ Présentation des Objectifs du Développement Durable	16627
 Préservation des Informations	13841
 Présidence du Burundi Ministère des Finances MAEIRCD	13427,233
 Présidence du Conseil des Mini	16250
-Présidence du Conseil des Ministres	16250
+Présidence du Conseil des Ministres	16250,1198
 Président du Conseil National des Droits	15467
 Président du Conseil des Ministres	15834,3,413
 Président du Conseil des Ministres. Le Conseil des Ministres	11597
@@ -5412,6 +5531,7 @@ RAPPORT SUR L'EVOLUTION DES INDICATETEURS TIC	13324
 RCA. Des	15474
 RCA. Pour le Ministre des Finances	1955
 RE DEs MEsuREs D'AccEt-ERATtoN	14479
+REALISER A L’ETRANGER Instruction Générale des Opérations	17485
 REAMENAGEMENT DES DROITS	16047
 RECENSEMENT GÉNÉRAL DES ENTREPRISES	10875
 RECEPTION DES SERVICES EXECUTES	16747
@@ -5423,6 +5543,8 @@ REFORME ET DES RELATIONS AVEC	16001
 REGEC for Recensement General des Entreprises du Congo	1828
 REGIDESO. Des	13433
 REGIME DE RESPONSABILITE ET SANCTIONS DES	16047
+REGIME DES COMPTES	17485
+REGIME DES OPERATIONS EN CAPITAL	17485
 REGIMES DES RESEAUX	16615
 REGIONS ET DES	10847
 REGLEMENT DES DIFFERENDS	15584
@@ -5451,6 +5573,7 @@ RESEAU A DES COUTS COMPETITIFS Aperçu	16037
 RESEAU A DES COUTS COMPETITIFS Pour	15801
 RESEAU DES JEUNES POUR LA SANTE	16195
 RESINA Des	10858
+RESOLUTION DES DIFFICULTES DES ETABLISSEMENTS	17443
 RESPECT DES LOIS	15901
 RESPONSABILITE DES PRESTATAIRES TECHNIQUES DE SERVICE	16617
 RESPONSABILITÉ DES PRESTATAIRES TECHNIQUES DE SERVICES	13719
@@ -5464,8 +5587,10 @@ RESUME DES EVOLUTIONS En	16708
 RETIRER DES PRIVILÈGES	13300
 RETRAITE DES FONCTIONNAIRES	7670
 REVENU ET AVOIRS DES MÉNAGES BURKINABÉ	737
+REVENUS DES INVESTISSEMENTS	17485
 REVISION DES PRIX	16747
 RIEUR ET DES COLLECTIVITES LOCALES ArrÍtÈ	15394
+ROYAUME DU MAROC OFFICE DES CHANGES	17485
 RPPCUB Recensement des Propriétaires des Propriétés	13689
 RWANDA TABLE DES MATIERES ISHAKIRO TABLE	14862
 Rapport de REVUE DES POLITIQUES DE DEVELOPPEMENT	15542
@@ -5483,6 +5608,7 @@ Recensement des Propriétaires des Propriétés	13689
 Reception des Appels	14662
 Recette du Centre des Impôts	16020
 Receveur des Impôts	16020,609
+Receveurs des Finances	17485
 Recherche DGAE Direction Générale des Affaires	15479
 Recherche Scientifique FAST Faculté des Sciences	12
 Recherche. INSTITUT DES SCIENCES TECHNOLOGIQUES ET	15674
@@ -5490,6 +5616,11 @@ Reconstruction des Zones	15999
 Recouvrement des SPECIFIQUES	10712
 Recouvremet des Avoirs Saisis	6959
 Recueil des Normes	10975
+Recueil des Traités	17438
+Recueil des Traités 161	17438
+Recueil des Traités 163 Article Nine Each State	17438
+Recueil des Traités 165 IN THE NAME	17438
+Recueil des Traités 1989 Article Two The Union	17438
 Referentiel General de Securite des Systemes	10906
 Refuse des Une	13300
 Regard des Malien.ne.s	6959
@@ -5529,6 +5660,7 @@ Représentants des Institutions Internationales Mesdames	16620
 Représentants des Institutions Nationales	15673
 Représentants des Institutions Républicaines	16650
 Représentants des Institutions Républicaines Mesdames	16620
+Représentants des Ministres du Bénin	17355
 Représentants des Organismes Publics NOM	15472
 Responsabilité Sociale des Entreprises	839
 Responsabilité Sociétale des Entreprises	839,14657
@@ -5553,6 +5685,7 @@ Rivière des Anguilles	14829
 Rivière des Anguilles Dam	14830
 Rodrigues. Des	6399
 Royaume des Pays-Bas	5531,187
+Royaume du Maroc Administration des Douanes	17485
 Ruanda. Das Oberziel des Vorhabens	457
 Rue des Résidences	11080
 Rurale ANOR Agence des Normes	10975
@@ -5595,6 +5728,7 @@ Régime des Travailleurs Mobiles	16175
 Région des Grands Lacs	13325,117
 Région des GrandsLacs	13442
 Région des Plateaux	15603
+Région des Savanes	17323,1
 Régionale des Arts	16726
 Régionales des Universités	15568
 Régions Militaires du Génie. MINISTÈRE DES AFFAIRES	16381
@@ -5955,6 +6089,8 @@ Société des Télécommunications du Tchad	556
 Soins PNDTIC Politique Nationale de Développement des TIC	13341
 Solidarité des Marchés du Bénin BCEAO Banque Centrale	4459
 Solidári Des. da Cuid Medi Familia	15694
+Solution de Gestion des Dotations	17485
+Solution de Gestion des Dotations Voyages	17485
 Sommet des Chefs	2387,13289,423
 Son Excellence Madame la Vice-Ministre des Finances	7470
 Son Excellence Monsieur le Ministre des Finances	7470
@@ -6047,7 +6183,9 @@ Suspension des Réseaux	7455
 Syndicat National des Transporteurs	15542
 Syndicat des Travailleurs	11630
 Synergie des Missions	16210
+Systeme Informatise de Gestion des Affaires	17441
 Systeme de Gestion des Materiels	14442
+Systme Informatisk de Gestion des Affaires du MdJL	17441
 Système Général de Diffusion des Don	15479
 Système Général de Diffusion des Données	3024,7850
 Système Intégré de Gestion des Affaires	15936
@@ -6097,7 +6235,7 @@ Sécurité Publique MIT Ministère des Infrastructures	15479
 Sécurité Sanitaire des Aliments	15416
 Sécurité des Bases de Données Instrumentation Industrielle	15674
 Sécurité des Services Cloud	15472
-Sécurité des Systèmes	547,638,253,399,793,974,651,1575,770,839,366,253,278,928,142,1126,289,318,12,2567,940,814,40,13,28,30,127,49,177,134,403,153,15,11,73
+Sécurité des Systèmes	547,638,253,399,793,974,651,1575,770,839,366,253,278,928,142,1126,289,318,12,2567,940,814,40,13,28,30,127,49,177,134,403,153,15,11,73,735,40
 Sécurité des Systèmes Numériques API Interface	15493
 Sécurité des Usagers	10975
 Sécurités des Systèmes	11151
@@ -6138,6 +6276,7 @@ TABLEAU DE BORD DES INDICATEURS	15479
 TABLEAU DES NAISSANCES. SI LA MÈRE	13300
 TABLEAU DES SOLUTIONS AUX PROBLEMES IDENTIFIES	15592
 TABLES DES MATIERES	12043
+TAILLE DES MÉNAGES VII.2 PROFIL	17478
 TAPE CLÉ AVEC LA VALIDATION DES	16294
 TAT ACTUEL DES TIC DANS	15541
 TAT COMPARATIF DE L'ÉVOLUTION DES COMPTES	4459
@@ -6201,6 +6340,7 @@ TITRE IV. CONDITIONS D'EXERCICE DES SERVICES	14429
 TITRE PREMIER DES DISPOSITIONS GENERALES CHAPITRE	15397
 TITRE PREMIER DES FONDEMENTS DE L'ECOLE	15360
 TITRE PREMIER DES PROCEDES D'IDENTIFICATION DES	10813
+TITRE V CONTROLE DES ETABLISEMENTS	17443
 TITRE V DE LA RESOTUTION DES	15429
 TITRE V DES OBLIGATIONS DU RESPONSABLE	15432
 TITRE V DU CONTROLE ET DES	16148,1
@@ -6237,6 +6377,7 @@ TRIPLÉS SUR DES LIGNES SÉPARÉES. S'IL	13300
 Table Ronde des Investisseurs	13405,1
 Table des Figures Figure	16365
 Table des Matières	747,1,1236,11316,541
+Table des Matières PRÉAMBULE	17485
 Tableau des Opérations Financières	15569
 Tableau des Ressources	9276
 Tableaux de Bord de Suivi des Indicateurs	10712
@@ -6295,6 +6436,7 @@ UGP. Des	12043
 UN E-Governement Survey Indice de Développement des TIC	16641
 UNE DES CATÉGORIES CI-DESSUS	13300
 UNE GESTION AMÉLIORÉE DES ENJEUX LIÉS	2342
+UNE PRÉDOMINANCE DES RAISONS	17478
 UNE RÉFORME AU SERVICE DES USAGERS	16396
 UNESCO Organisation des Nations Unies	15724
 UNFPA Fonds des Nations Unies	13300
@@ -6496,6 +6638,7 @@ VIII. SUIVI-EVALUATION ET ETABLISSEMENT DES RAPPORTS	15746
 VIII.2 HISTORIQUE DES EFFECTIFS PAR REGION	10847
 VIII.3 HISTORIQUE DES EFFECTIFS ET DES	10847
 VOLUTION DES SERVICES FINANCIERS NUMÉRIQUES DANS	4459
+VOYAGE Instruction Générale des Opérations de Change	17485
 VULGARISATION DES INFORMATIONS METEOROLOGIQUES	15999
 Validation des Acquis	15568
 Vallee des Pretres	14830

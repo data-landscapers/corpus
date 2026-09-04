@@ -1,14 +1,14 @@
 AMERICA M Mexico W	11964
 ASIA Mexico Guatemala Sri Lanka Pakistan	11004
 Banco de Mexico	9709
-Brazil and Mexico	7602
+Brazil and Mexico	7602,9633
 Brazil and Mexico. Even	4972
 Eswatini and Mexico. Chapel Hill	771
 Faas A19 Mauritius Mexico National Identity	10714
 Federal Electoral Institute of Mexico. Traça	11909
 Guatemala and Mexico	11004,898,62
 IndiaIndonesia PakistanPhilippinesGuatemala Mexico Men Women	11964
-Indonesia and Mexico	7569,568,1113,645,163,115,831,960
+Indonesia and Mexico	7569,568,1113,645,163,115,831,960,4903
 Indonesia and Mexico. Between	6868
 Indonesia and Mexico. Tourist	6867,1
 Ireland Israel Kazakhstan Lithuania Malta Mexico	10764
@@ -25,7 +25,7 @@ Men Mexico Guatemala Sri Lanka Pakistan	11004
 Mexan Guillaume	15780
 Mexican	9367,5254
 Mexican State of Baja California	13040
-Mexico	226,1017,3015,889,535,931,443,347,328,939,614,425,706,299,71,61,139,19,1,149,39,43,120,216,37,285,8,1,19,42,126,950,272,2,310,997,276,100,474,28,105,59
+Mexico	226,1017,3015,889,535,931,443,347,328,939,614,425,706,299,71,61,139,19,1,149,39,43,120,216,37,285,8,1,19,42,126,950,272,2,310,997,276,100,474,28,105,59,1204,82,286,213
 Mexico Affordability	11964
 Mexico Basket	11563
 Mexico City	10078,4919
@@ -33,6 +33,7 @@ Mexico City and Montevideo	226
 Mexico Global Cybersecurity Index	10764
 Mexico Guatemala Philippines Pakistan Indonesia India	11964
 Mexico Guatemala Sri Lanka Pakistan Indonesia	11004
+Mexico ICT Policy	16872
 Mexico Men Women	11004
 Mexico Mexico	11964
 Mexico Micronesia Moldova Monaco Mongolia Montenegro	11470
@@ -52,15 +53,16 @@ Mexico-Panama	1243
 Mexico. D. Role of Ministries	11525
 Mexico. Figure	11964
 Mexico. Indonesia and Mexico	11004
-Mexique	6613,7810,1051,19
+Mexique	6613,7810,1051,19,1955
 Monsieur TABAKA Mexan Guillaume	3191
 Nigeria and Mexico	11964
+Open Government Data Review of Mexico	17448
 Philippines and Mexico	11964
 Sri Lanka and Mexico	11004
 Sweden and Mexico	16812
 T2 Advancing Canada Ecuador Mexico Uruguay	10764
 Uganda Unemployed Mexico	11004
-United Mexican States	1243
+United Mexican States	1243,16185
 Vietnam and Mexico and India	1038
 Women GUATEMALA Men Women MEXICO Men	11964
 Women Mexico	11964

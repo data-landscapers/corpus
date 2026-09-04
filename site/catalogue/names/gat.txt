@@ -49,6 +49,7 @@ Church of God Gatithini	7167
 Claver Gatete	8754
 Connectivity Channel Gateway Payment Originator Date	12364
 Corporate Appointments Tech Gateways HR	10068
+Customs Exit Officers and Port Gate Officers	17367
 D4D Hub and Global Gateway. Benin	1779
 DRIVER'S ORIGIN GATE MUST	5240
 Data Gateway	16716
@@ -63,6 +64,7 @@ Digital Global Gateway Chloe Teevan Introduction	11155
 District Gatare Kibilizi Nkombo Shangi Musebeya	12413
 Dr. Eunice Gathitu	9855
 Dubai's Smart Gates	1713
+E-Commerce Gateway	16878
 EAPC GATUKU CHURCH Data Processor INST-47193092E5F	7167
 EOC and Anticipatory Action SOP Development Gateway	12241
 EPM Payment Gateway	14185
@@ -82,10 +84,13 @@ EU's Global Gateway Strategy. Team Europe	12985
 EU's International Digital Strategy and Global Gateway	12843
 EU-Nigeria Digital Package and Global Gateway Strategy	10573
 EU-Nigeria Global Gateway	14027
-EU’s Global Gateway	5099,3176,2317,3059
+EU’s Global Gateway	5099,3176,2317,3059,3780
+Economic Gateways	17260
 Editorial Team The Satellite Gateway	5976
 Energy Agency IGTVS International Gateway Traffic	718
 Engineer Thomas Gatkuoth Nyak	3659
+Enhanced Interior Gateway Routing EMIS Education	16942
+Enhanced Interior Gateway Routing Protocol	16942
 Eswatini Commissions Starlink Satellite Gateway	5976
 EurAfrica Gateway Cable	11155
 European Global Gateway Business Advisory Group	2320
@@ -97,6 +102,7 @@ Eutelsat OneWeb Satellite Gateway	7207
 Exchange Gateway	6019
 Executive Secretary Gatete	8754
 Executive Secretary Mr Claver Gatete	11817
+Exit Gate	17367
 Exit Gate Picture	15478
 Exterior Gateway Protocol	14864
 Ezekiel Lol Gatkuoth	6811
@@ -113,6 +119,7 @@ GATEKEEPERS PART V	6520
 GATEWAY	1285,9870,192,1914
 GATEWAY Program	11347
 GATEWAY Program Application Portal	11347
+GATEWAY TRAFFIC MEASUREMENT AND REVENUE ASSURANCE	17250
 GATEWAYS	13388
 GATHERING THAT GAVE HOPE	6211
 GATO MBERE Y'UKO NJYA KUKABARUZA KWA	12328
@@ -149,13 +156,14 @@ Gatekeeping Phase	16212
 Gatekeeping The National Reality Check Platform	13649
 Gatenga	718
 Gatenga Kanombe Rwamagana District Ruramira Mukura	12413
-Gates	266,946,3569,186,397,867,526,809,31,2116,96,86,49,908,1112,2774,91,503
-Gates Foundation	514,7,740,395,512,902,80,48,458,209,417,3,191,52,177,76,261,190,268,53,45,323,250,60,155,207,75,24,22,99,172,88,493,31,357,495,126,497,444,197,46,29,141,15,25,51,694,151,112,27,13,66,386,479,16,4,2,27,144,86,73,166,46,549,23,476,199,322,191,975,599,75,894
+Gates	266,946,3569,186,397,867,526,809,31,2212,86,49,908,1112,2774,91,503,1787
+Gates Foundation	514,7,740,395,512,902,80,48,458,209,417,3,191,52,177,76,261,190,268,53,45,323,250,60,155,207,75,24,22,99,172,88,493,31,357,495,126,497,444,243,29,141,15,25,51,694,151,112,27,13,66,386,479,16,4,2,27,144,86,73,166,46,549,23,476,199,322,191,975,599,75,894,373,229
 Gates Foundation Africa	13560
 Gates Foundation Norat	7065
 Gates Foundation Senior Program Officer Jeremiah	13061
 Gates Foundation and Anthropic	6171
 Gates Foundation and CLEAR Global	11497
+Gates Foundation and Foundation S	17122
 Gates Foundation and Google.org	10620
 Gates Foundation and OpenAI	4476,229,76,583
 Gates Foundation and Rwanda	7597
@@ -182,8 +190,9 @@ Gates-funded	3853,1378
 Gates-funded DG	1368
 Gates-supported	16815
 GatesFoundation	9516
-Gateway	1215,46,26,1143,1844,2319,298,55,1512,3769,132,5,689,208,216,374,433,1763
+Gateway	1215,46,26,1143,1844,2319,298,55,1512,3769,132,5,689,208,216,374,433,1763,838,365
 Gateway Capital	1429
+Gateway D100	17250
 Gateway Earth Station	2913,3978,3698
 Gateway Earth Station Fee Formula	6891
 Gateway Earth Station. Satellite User Terminal	2913
@@ -196,15 +205,19 @@ Gateway Or Barrier	12227
 Gateway Payment System	14674
 Gateway Protocol BMS Building Management System	13185
 Gateway Quick Reference Guide	12364
+Gateway Regulations	17250
 Gateway Services and Data Centre Oversight Committee	4654
+Gateway Traffic Measurement	17250
+Gateway Traffic Measurement and Revenue Assurance System	17250
 Gateway and Payment Originator	12364
 Gateway de SMS	11371
 Gateway. Employee	12359
 Gateways	3641,221,1832,7601,17,2,74
 Gathara D	10780
 Gathecha	10043
-Gather	110,789,9737,2039,857,1224,329,159,1452
-Gathering	395,2708,9253
+Gather	110,789,9737,2039,857,1224,329,159,1452,347,56,15,252
+Gathered	16860
+Gathering	395,2708,9253,4619
 Gathii	11033
 Gathungu	2512,3,227
 Gatien Wenceslas	15692
@@ -228,7 +241,7 @@ Gatundu	9940
 Gatundu South MP Kagombe	9940
 Gatwe	13683
 General Art. XIV GATS	11154
-Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12
+Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814
 Global Gateway Africa-Europe Investment Package	11288
 Global Gateway Afrique-Europe	1189
 Global Gateway Communication	11155
@@ -264,13 +277,14 @@ I. API Gateway	15161
 ID BRR My Gateway SSO Central	10714
 IGSS International Gateway Systems and Services IMEI	6946
 IM-managed Event Gateway	6423
+INFORMATION GATHERING	17249
 INFORMATION GATHERING Part A General	11181
 ITOUA GATO	16177
 ITU Radio Regulations. Gateway Earth Station	2913
 Ignace GATARE Chairperson	718
 Incorporating GATT and GATS General Exception	1243
 Indicators AfDB3 Gates IsDB5 AFD6 EU7	11469
-Information Gathering	13381
+Information Gathering	13381,3718
 Integrated Payment Gateway	8458
 International Gateway	3487
 International Gateway License	762
@@ -282,6 +296,7 @@ International Gateway Providers	11857
 International Gateway Systems	15205
 International Gateway Systems and Services	6946,2389
 International Gateways	13312,2
+International Voice Gateway	16886
 Internet Gateway	12325
 Interoperability Gateway	15518
 Investigation and Information Gathering Office	8806
@@ -290,13 +305,18 @@ Juda Gata	8943
 Ka-band and V3 Earth Station Gateways	2937
 Kimironko Ndera Rusororo Gatumba Runda Gahengeri	12413
 La Fondation Gates	10267
+Liberia's Gateway	17260
 Liberia. Satellite Gateway Service	10407
 Liberia. Satellite Gateway Terminal	10407
+Licencing OTT International Gateway	16876
 Logic Gates	13356
 M. Mounir Gattal	15930
 M. Régis Gatien LECKOGO	16381
+MALABO GATE TOUR JUMELLE	17006
+MELINDA GATES FOUNDATION	16991
 MENA. Gates Foundation	290
 MESOB Bridge API Gateway	12215
+METHODS FOR GATHERING AND ASSESSING INFORMATION	16843
 MIS and Payment Gateway	12335
 MPTF Gateway ID	14925
 MSME Digital Gateway	11032
@@ -304,8 +324,8 @@ Mandatory Governance Gates	6442
 Mastercard Global Payment Gateway Services	12273
 Media Gateway	15542
 Melinda GATES	10874
-Melinda Gates	16421,223
-Melinda Gates Foundation	65,1,1,1,1,1,1,1,1,1,1,1,54,1,1,1,1,1,1,1,1,1,1,1,60,1,1,1,1,61,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,82,1,1,1,1,1,1,1,1,1,1,109,1,1,1,1,1,1,1,1,1,1,160,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,195,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,208,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,91,34,15,207,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,658,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,992,472,316,43,447,6335,898,189,3,290,35,274,33,2877,4,506
+Melinda Gates	16421,223,755
+Melinda Gates Foundation	65,1,1,1,1,1,1,1,1,1,1,1,54,1,1,1,1,1,1,1,1,1,1,1,60,1,1,1,1,61,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,82,1,1,1,1,1,1,1,1,1,1,109,1,1,1,1,1,1,1,1,1,1,160,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,195,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,208,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,91,34,15,207,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,658,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,992,472,316,43,447,6335,898,189,3,290,35,274,33,2877,4,506,1054
 Melinda Gates Foundation CBCC	12175
 Melinda Gates Foundation and Omidyar Network	10812
 Melinda Gates Foundation. INTRODUCTION Mobile	11902
@@ -325,7 +345,7 @@ NGSO Gateway Earth Station	2913
 NIYONAMBAZA Solange GATABAZI Olivier France NIYONGIRA	12445
 NPG National Payment Gateway CDF Congolese	11994
 National Call Center Mobile Gateway Enabalers	14965
-National Payment Gateway	1995,2771,7228,2038
+National Payment Gateway	1995,2771,7228,2038,2846
 Network APIs Commercial Open Gateway APIs	6593
 Nicholas Gates	6468
 Number of Gateways	3862
@@ -338,14 +358,19 @@ ORIGIN GATE IS PRINTED	1795,1413,3881
 Open Data Watch and Development Gateway	6337
 Open Gateway	6593
 Open Gateway API	6593
+Operator B2. International Gateway Operators Licence	17250
+POS Gateway	16878
 PRIMES Interoperability Gateway	12173,84
 PSF’s MSME Financing Gateway	14997
 PSPs. In the Payment Gateway	12335
+Pa-Peter Flomk of Iron Gate Community	17145
 Pay Strand PnP Cape Gate PnP	8999
-Payment Gateway	4609,1930,5796,24,558,535
+Payment Gateway	4609,1930,5796,24,558,535,3426
 Payment Gateway Integration	12711
 Payment Gateway Operators	7909
 Payment Workﬂow Implementation Payments Gateways Integration	13395
+Payments Gateway	16878
+Physical Government Access Gateway Project	16885
 Ping Interoperability Gateway Factsheet	12257
 Pioneer Gate	12597,1,30
 Pioneer Gate and Tlokweng	5250
@@ -366,11 +391,12 @@ Red Sea Internet Gateway URL	14159
 Regional Payments Framework Gateway	745
 Reliance Foundation and Gates Foundation	9072
 Requirement Gathering	12917
-Requirements Gathering	12400
+Requirements Gathering	12400,4668
 Rukomo Butaro Gatunda Karangazi Butaro Nyange	12413
 Rulindo Gatsibo Nyaruguru Gakenke Nyamasheke Burera	15056
 SCT and SWL. The Payment Gateway	12335
 SMS Gateway	14752
+STEEL GATE	16963
 Satellite Gateway	5976
 Satellite Gateway Service Providers	10407
 Satellite Gateway Services	10407
@@ -384,6 +410,7 @@ Social Media Payment Gateway	11231
 Software Requirements Gathering and Analysis Phase	15161
 South Sudan International Gateway	4654
 SpaceX’s Gateway Earth Station and User- Terminal	6891
+Steel Gate	16963
 Strategic Framing If Global Gateway	11155
 Sulfo Rwanda Industries Gatenga	718
 Super Gate	6472
@@ -399,6 +426,7 @@ Through Global Gateway	15857
 Through the GSMA Open Gateway	6714
 Through the Global Gateway	3860,9668
 Tlokweng Gate	12598
+Tsegaye Ginbo Gatiso	16996
 UNHCR's PRIMES Interoperability Gateway	12257
 UNICEF. Gates	7566
 Undersecretary for Telecommunications Thomas Gatkuoth Nyak	4299

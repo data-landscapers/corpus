@@ -1,5 +1,7 @@
 ACTUAR NA REINSERÇÃO SOCIAL E NOS	16487
 AKIWASILISHA BUNGENI MAKADIRIO YA MAPATO NA	2868,3151
+ART COVERAGE NA	16892
+AVAILABLE NA NOT APPLICABLE	16892
 AVALIAÇÃO Na	11526
 Academia. Na Figura	2816
 Agence Na-	13681
@@ -22,6 +24,7 @@ B-ready Na	11898
 B03 NA ISO	16103
 BAJETI YA WIZARA NA TAASISI ZAKE	2868,3151
 BESOINS DE NA ISO	16103
+BIRTHS NA	16892
 Bajeti. MPANGO NA MAKADIRIO YA MAPATO	6019
 Bilhete de Identidade. Na	8631
 Bill Home Affairs Bill NA	11986
@@ -35,6 +38,7 @@ CETIC LABO EHC Ci-crête NA ISO	16103
 CETIC LABO EHC NA	16103
 CETIC LABO NA ISO	16103
 CETIC Laboratoire EHC Révision NA	16103
+CIBERATIVISMO NA GUINÉ-BISSAU Uma	17020
 CIBERSEGURANÇA NA ADMINISTRAÇÃO PÚBLICA	11397
 CIO NA Business	5533
 CLS. Na	4250
@@ -70,8 +74,10 @@ DE DATE DE REALISATION DOCUMENTAIRE NA	16103
 DE DENÚNCIAS NA CONTRATAÇÃO PÚBLICA Num	12798
 DE NA IEC	16103
 DG NA Disaggregation	11986
+DITADURA NA GUINÉ-BISSAU	17020
 DOS ESTADOS NA ADOÇÃO	15694
 DTSER Na DTSER	3899
+Daba Na Walna	17020
 Dec-2024 NA	16079
 Department of NA NA Access	11986
 Dir.envir. BEJAIA NA ISO	16103
@@ -100,15 +106,19 @@ Escrita Na	16122
 Espanha. Na	3093
 Establish and Environmental NA	16032
 Estado. Na	11547
+Estêvão Na Mena	17020
 Exploração de Recursos Naturais Na	2816
 FREQUÊNCIA ACADÉMICA NA REPÚBLICA ARGELINA DEMOCRÁTICA	11472
-Female NA NA	16260
-Female NA NA NA	16260
+Female NA NA	16260,988,4
+Female NA NA NA	16260,988
+Female NA NA NA NA NA	17248,4
 Fiduciary NA	16032
 GISB NA IEC	16103
 GN Révision ONML P NA ISO	16103
+Gabu. Na Direção Geral de Estudos	17058
 Government Gazette Assumptions NA Disaggregation	11986
 Groupe SIM SPA Révision P NA	16103
+Guiné-Bissau Na Guiné-Bissau	17015
 HOTUBA YA WAZIRI WA MAWASILIANO NA	2868,3151
 HUMANOS ENVOLVIDOS NA RESPECTIVA EXECUÇÃO	11461
 HYGIMED BIO OSTEO Révision IMC NA	16103
@@ -123,17 +133,22 @@ I. Na Receita	12796
 ICT NA	15164
 IMC NA ISO	16103
 IMPOSTOS E TAXAS NA GUINÉ-BISSAU	11532
+INCUMPRIMENTO NA PRESTAÇÃO DE INFORMAÇÃO	17100
+INSTITUTIONAL MATERNAL MORTALITY RATIO NA NA	16892
 INTELIGÊNCIA ARTIFICIAL PARA A CAPACITAÇÃO NA	2816
 INTIC. Na	12830
 IOMP EURL ACTM Révision P NA	16103
 IP. Na	14342
 ISORESHA RY’IBINTU NA SERIVISI BITANGIRWA KURI	15177
 Idemia NA	2823
+Implementing MOICI and NA Agency	16884
 Industrie CAQCE Lab CNT NA ISO	16103
 Industrie CAQCE Lab INMV NA ISO	16103
 Industrie NA Codex Stan	16103
 Industrie NA ISO	16103
 Industrie Révision LFB LFB Révision NA	16103
+Internet NA Households	16940
+Internet NA NA	16940
 Internet. Na	15564
 Intertek International Limited. Na	12829
 JUSTIÇA NO MUNICÍPIO DA SAMBA Na	10751
@@ -141,6 +156,7 @@ Julho. Na	2816
 Jun-2025 NA	16013
 KAZI NA UTU	6019
 KUA TÎ MBÏKÛÊ NA LÊGËNÎ	15603
+Kontaktu. Na	17111
 KÔZONÎ NA YÊ KÛÊ	15603
 LABOPTIC Révision NA ISO	16103
 LFB DGSN NA ISO	16103
@@ -162,8 +178,9 @@ MUSTAPHA MUSTAPHA Révision NA ISO	16103
 MW NA NA Live DC	10995
 Maio. Na	4040
 Maladies Sexuellement Transmissibles NA	13377
-Male NA NA	16260
-Male NA NA NA	16260
+Male NA NA	16260,988,4
+Male NA NA NA	16260,988
+Male NA NA NA NA NA	17248,4
 Mamboko Na Mamboko	15474
 Maputo. Na FACIM	2816
 Measurement Ministry of Comments NA Economy and Recurrent	10870
@@ -173,7 +190,9 @@ Middle Jubba NA NA NA NA	14896
 Minister of Health. YES YES NA	15758
 Moçambique. Na	12799,36
 Ms NA Gcaleka-Mazibuko	11289
+Mussa Na Mbatcha	17129
 NA A3.3.2.4	10858
+NA ADD Due Date	17470
 NA Advances	16260
 NA Availability	11986
 NA Average	15617
@@ -186,7 +205,11 @@ NA Centres Dakar Dakar	10861
 NA Classifications	14777
 NA Codex	16103
 NA Codex Stan	16103
+NA Construction	17140
+NA DDE	17470
 NA DEPARTMENT OF HOME AFFAIRS	11986
+NA DGCL Due Date	17505
+NA DGCT Recurrent Yearly In Progress	17505
 NA DOCUMENTAIRE	16103
 NA Data	12468
 NA Date	11863
@@ -197,10 +220,11 @@ NA Dropped	16032
 NA ETA	5533
 NA Employment	15604
 NA Exceptions	10908
-NA Female	12344,3916
+NA Female	12344,3916,680
 NA Female Internet	12344
 NA Fixed	15617
-NA Households	15617
+NA Honourable Ministers National Assembly Members	17124
+NA Households	15617,1323
 NA ICT	3749,8595,3273
 NA IEC	16103
 NA INTITULE NA ISO	16103
@@ -214,28 +238,36 @@ NA LÊGË TÎ KËNGÖ TËNË TÎ	15603
 NA MATUMIZI YA FEDHA KWA MWAKA	6019
 NA MATUMIZI YA WIZARA YA MAWASILIANO	2868
 NA MBÏ NA LÊGË TÎ MAMÂNDÏÄ	15603
-NA Male	12344,3273
+NA MEF	17470
+NA MEF Other Continuous	17470
+NA Male	12344,3273,1323
 NA Male Internet	12344
+NA Ministry of Interior Due Date	17505
 NA Mobile	15617
 NA Mobile-cellular	15617
 NA NA	11986,2910,708
 NA NA Alergia	14897
+NA NA Average	16940
 NA NA Birth	5533
 NA NA Carrier-neutral Data Center	14897
 NA NA E-Visa	5533
 NA NA Employment	15604
+NA NA Female Internet	16940
 NA NA Hosting	5533
-NA NA NA	11986
-NA NA NA Adolescent	16260
-NA NA NA Female	16260
-NA NA NA Fraction	16260
+NA NA NA	11986,5154,108,4
+NA NA NA Adolescent	16260,988,4
+NA NA NA Female	16260,988,4
+NA NA NA Firms	17248,4
+NA NA NA Fraction	16260,992
 NA NA NA Implement	5533
 NA NA NA Live	5533
-NA NA NA Men	16260
-NA NA NA Mortality	16260
+NA NA NA Maternal	17252
+NA NA NA Men	16260,992
+NA NA NA Mortality	16260,992
 NA NA NA NA Foundational	11986
+NA NA NA NA NA Agriculture	17140
 NA NA NA NA NA Firms	16260
-NA NA NA NA NA Maternal	16260
+NA NA NA NA NA Maternal	16260,988
 NA NA NA New PI	11986
 NA NA NA New PI Digital	11986
 NA NA NA New PI Draft	11986
@@ -254,6 +286,7 @@ NA OS3.4 Action	10858
 NA Overall	10779
 NA Pillar Policy	14947
 NA Portail	748
+NA Post NA NA Operations Manual	17180
 NA Progress	14947
 NA Proportion	2342
 NA Q2	11986
@@ -265,12 +298,12 @@ NA Requires	10908
 NA SERIVISI BITANGIRWA KURI MURANDASI	15177
 NA SESSÃO DE APRECIAÇÃO E ANÁLISE	12796
 NA SOURCE N	16103
-NA Saved	16260
+NA Saved	16260,988,4
 NA Spatial	11986
 NA System	5533
 NA TEKNOLOJIA YA HABARI KWA MWAKA	2868
 NA Used	16260
-NA Wider	16260
+NA Wider	16260,988,4
 NA ZONA	11531
 NA the African	14897
 NA. Date	13938
@@ -291,14 +324,16 @@ Na Educação	11569
 Na Etapa	12142
 Na Faculdade de Medicina	9694
 Na Guiné-	11569
-Na Guiné-Bissau	9426,2121,15,7
+Na Guiné-Bissau	9426,2121,15,7,5503
 Na Ilustração	11569
 Na Instrução	11388
+Na Kume Nô Balur	17164
 Na Loja	10751
 Na Mwandishi	7218,4394
 Na Mwandishi Wetu	1859,62
 Na Mwandishi Wetu Shanghai	7863,1
 Na Mwandishi WetuMay	6327
+Na Na	17119
 Na OSCAR ASSENGA	11643
 Na Plataforma SIGT. Para	11435
 Na República da Guiné-Bissau	11513
@@ -321,7 +356,10 @@ O PAPEL DA INTELIGÊNCIA ARTIFICIAL NA	2816
 ONA BATIMETAL P NA ISO	16103
 ONA NA ISO	16103
 ORIGEM DE REGISTOS ATIVOS NA ZONA	11531
+Only Environmental and Social Systems NA MEF	17470
+Only Fiduciary Systems NA IGF Recurrent	17470
 Onyekuru NA	14666
+Ordenamiento Jurídico Na	16855
 Outras Notícias Na EPC de Djuba	12148
 P NA	16103
 P NA Guide	16103
@@ -329,7 +367,10 @@ P NA ISO	16103
 P NA OHI S-63	16103
 PAR NA ISO	16103
 PARTILHADOS NA ADMINISTRAÇÃO PÚBLICA	11397
+PENTA3 IN ONE YEAR-OLDS NA NA	16892
 PESQUISA NA INTERNET	16325
+PIT NO NA Bank	17180
+PIT NO NA for Interim Project Implementation	17180
 POPULARES DAS LUNDAS CONTAM ABUSOS NA	9399
 POUR LES BESOINS DE REF. NA	16103
 PRAZOS Ref.ª Na Plataforma SIGT Devem	11435
@@ -344,9 +385,11 @@ Passports NA	11986
 Pay Na Na	4285
 País. EXPANSÃO DA REDE ELÉCTRICA NA	11366
 Pension NA	15130
+Percentage of NA	17441
 Plan Na	15479
 Plano. Na	10772
 Portugal. Na	11587
+Privados. Na	17034
 Production and Fiduciary NA	16032
 Prof. Doutor Eng. Lourino Chemane. Na	10140
 QUALILAB Algérie Télécom P NA ISO	16103
@@ -379,6 +422,7 @@ RNB Na	11569
 Registre Na	16651
 Respondent- Haki Na Sheria Initiative	14460
 Resultados Já Aparecem Na Agricultura	9558
+Rio de Janeiro. Na	17100
 Rádio Na	16122
 Régie Na-	13341
 Révision CTN NA ISO	16103
@@ -400,11 +444,25 @@ Setembro. Na Sessão Plenária	2816
 Sistema Duplo Na	11416
 Situtu Na Bosro Mafli	8718
 Social Systems Ministry of Completion NA Economy	10870
+Social Systems NA DGCL Due Date	17505
+Social Systems NA DGCL Recurrent Semi-Annually	17505
+Social Systems NA MEF	17470
+Social Systems NA MEF Other Continuous	17470
+Social Systems NA MEF Recurrent Yearly	17470
 Sol Na Iardi	11525
 Startups E PME Tecnológicas Entram Na	8827
 Strategic Framework NA Not Applicable NIR	5533
 Stratégie Na	15479
 Systems Ministry of Completion Measurement NA Economy	10870
+Systems NA DAAG	17470
+Systems NA DDE	17470
+Systems NA DGCL	17505
+Systems NA DGCL Due Date	17505
+Systems NA DGCL Recurrent Yearly	17505
+Systems NA Fes-Meknes Region	17470
+Systems NA MEF	17470
+Systems NA MEF Recurrent Semi-Annually	17470
+Systems NA MEF Recurrent Yearly	17470
 TEHAMA. Na	6019
 TIC NA AGRICULTURA	11397
 TIC NA CONSTRUÇÃO E OBRAS PÚBLICAS	11397
@@ -414,6 +472,7 @@ TIC NA SAÚDE	11397
 TRANSIÇÃO DO ENDEREÇAMENTO NA INTERNET	11397
 Tablet NA	14836
 Technical NA	16032
+Territorio Na	16855
 Thème NA	16103
 Thème TSS HYGIMED SPA P NA	16103
 Transporte Na	2816

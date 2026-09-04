@@ -14,14 +14,15 @@ INCM WordPress SDM	6970
 ITU WORD TELECOM	13301
 Last Word	10104
 List of Definitions Word	11188
-MS Word	3118,1321,3385,4930,2850
+MS Word	3118,1321,3385,4930,2850,1359
 Management Microsoft Word Ease	9124
 Microsoft Office Word	962
-Microsoft Word	236,3478,4980,2219,628,457,304,978,357,962,1005,604
+Microsoft Word	236,3478,4980,2219,628,457,304,978,357,962,1005,1608,39
 Microsoft Word and Excel	13314
 Mobile Word Congress	5311
 Muluemebet Abera Wordofa	12255
 Offices Wordwide United Arab Emirates	14621
+Part III. Words	17250
 Policy Wording	12058
 SESOTHO WORD BANK BEING COMPILED	12713
 Secondary Prime Word	12360
@@ -37,6 +38,8 @@ Word Express	7655,3616,1262
 Word Figure	15399
 Word Health Organization	12956
 Word Processing Operator	14835
+Word Processing Task	16963
+Word Processor	16963
 Word Search	10001
 Word Trade Organization	11154
 Word University of Nigeria Teaching Hospital University	11129
@@ -45,7 +48,7 @@ Word-spacing	8301
 Word. En	16416
 Word2Vec	8606
 WordNet	8606
-WordPress	309,1919,209,1837,487,762,2720,339,25,1572
+WordPress	309,1919,209,1837,487,762,2720,339,25,1572,7205
 WordPress Download Manager	1013,931,286,3550,8686,4
 WordPress Download Manager JS-triggered	1209
 WordPress REST	5827,2849

@@ -1,5 +1,6 @@
 Category Risk Bytes Percent Secure Socket	12395
 SSL Secure Sockets Layer NHBS National	14897
-Secure Sockets Layer	14439,44
+Secure Socket Layer	16924
+Secure Sockets Layer	14439,44,2441
 Secure Sockets Layer SSO	14438
 Socket Layer Protocol USB Universal Serial	34

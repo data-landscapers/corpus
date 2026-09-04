@@ -11,8 +11,12 @@ Cipriano Mendes Pereira	11544
 Conselho de Ministros. José Maria Pereira Neves	15358,1
 Costa Semedo Domingos Simôes Pereira Djenabu	11544
 Criminal EDUARDA LINDAURA PEREIRA MIGUEL SARMENTO	10750
+Cropland Perennial	17140
+Cropland Perennial Crop Rubber	17140
+DE Perennial Crop Tier	17140
 Detenção de Domingos Simões Pereira	15403,664
 Dr. António Iaia Pereira Da Silva	11561
+Dr. Matheus Mazzilli Pereira	17020
 Dungué António Una Herculano João Pereira	11544
 E. N. C. Perera	16135
 Elias Pereira	11963
@@ -21,9 +25,11 @@ Esther Perez Ruiz	13868
 Ethan Perez	9592
 Excellency Dr. Florentino Mendes Pereira	6087
 FOND DE PEREQUATION DES COLLECTIVITES LOCALES	16175
+Florentino Mendes Pereira	17220
 Guinea-Bissau's Minister of Justice Carlos Pinto Pereira	4984
 Hélio Pereira	9501
 ITEKA RYA PEREZIDA N	1214
+JOSÉ MARIA PEREIRA	15554
 JOSÉ MARIA PEREIRA NEVES	16376
 JOSÉ MARIA PEREIRA NEVES Decreto-lei	15572
 JOSÉ MARIA PEREIRA NEVES Republicação Decreto-lei	15572
@@ -35,10 +41,14 @@ João Baptista Correia Pereira	15477
 Justice Minister Carlos Pinto Pereira. Part	4984
 Juvenal Pereira	11566
 KAGAME Paul Perezida	1214,13647,1,1,7,23,18,191,24
+M. Carlos Pinto Pereira	17210
+Mangrove Cropland Perennial Crop Annual Crop	17140
+Mangrove Forestplantation Cropland Perennial Crop Annual	17140
 Marciano da Silva Pereiia Barbeiro. Partido da Renovação	11544
 O Eng.º Juvenal Pereira	15881
 PERENCO	15542,495
 PEREQUATION Article C	15999
+PERES	16841
 PEReN	15936
 PERestimates	15663
 Pereerccurerennttlyaagtteenddinigs. Rturriabl	12431
@@ -49,7 +59,10 @@ Perekamoyo	13057
 Peremae.s	15999
 Perenco	16037
 Perenidade	11547
-Perennial	789
+Perennial	789,16351
+Perennial Crop	17140
+Perennial Crops	17114
+Perennial Crops. Imagery for CPER High	17140
 Peretimi Akinmodun and Lazarus Kalu AELEX	9877
 Pereybere	14830
 Perez	10964,1042
@@ -63,6 +76,7 @@ Perezida. Iryo	15102
 Perezida. Members	14863
 Perezidansi	14862
 Pinto Pereira Ministro	11393
+Reference Perennial Crop	17140
 Reino Pereira Mandu Camará Agnelo Augusto	11544
 Republic of Benin H.E. Jose Maria Pereira	7452
 Richard Perekamoyo	13057

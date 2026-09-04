@@ -11,6 +11,7 @@ Administrativos da Embaixada de Espanha	11531
 African Union and Germany Embassy	7362
 Arms Embargo and Act	7845
 Arms Embargo and Travel Ban	7845,6964,19,3
+Arret Jatta The Chinese Embassy	17423
 Ayudante Grupo E Comandante Embarcación Corresponsal	4209
 B2 Embajador A3 Ministro Consejero A1	4209
 Belgium Embassy	13358
@@ -29,12 +30,14 @@ Camp des Embrevades	14746
 Canciller Secretario Delegado Regional Ministerio Embajador	4209
 Carestía de Vida Administrativo Embajada A2 Agente	4209
 Centro. Embora	11569
-Chinese Embassy	5991,15,7168
+Chinese Embassy	5991,15,7168,4249
+Chinese Embassy Stages Welcome For Returning	17423
 Classification Emballage	14423
 Comandante Embarcación	4209
 Company Embedded Generation Eswatini Energy Regulatory	12969
 Congo. From the Embassy of India	16275
 Consular B1 Agregado Administrativo A1 Embajador	4209
+Contact for More Information U.S. Embassy Malabo	16972
 Controller INST-1683148DE2C EMBU Kenya	7167
 Controller INST-2958721BF3D EMBU Kenya	7167
 Controller INST-32557491EC9 EMBU Kenya	7167
@@ -44,6 +47,7 @@ Controller INST-505810B3820 EMBU Kenya	7167
 Controller INST-85191733CC3 EMBU Kenya	7167
 Controller INST-918701A335F EMBU Kenya	7167
 Criado A2 Criado B2 Embajador A1	4209
+Curriculum Integration Embed	16963
 Czech Embassy	8947
 Czech Republic Embassy	8947
 DE LAS EMBAJADAS Y CONSULADOS Num	4209
@@ -59,10 +63,13 @@ Digital Embassy Village	10404,3863
 District and Embassy	12338
 Driver of Systemic Change Embed	10865
 Dutch Embassy	13358
+E DAS EMBAIXADAS	17100
 E. Embedding AI	11140
 EGNIMBA EMBOUMA	16100
 EMB's15. Despite	12201
 EMB. Special	12201
+EMBAJADA DE GUINEA ECUATORIAL EN ESPAÑA	17390
+EMBAJADA DE LA REPÚBLICA DE GUINEA	17390
 EMBAJADAS DEL GRUPO A1 EN	4209
 EMBAJADAS DEL GRUPO A2 EN	4209
 EMBAJADAS DEL GRUPO A3 EN	4209
@@ -71,6 +78,7 @@ EMBAJADOR	4209
 EMBALLAGES SOGUILUBE	16623
 EMBASSY	10975
 EMBASSY OF FINLAND PRETORIA	573
+EMBASSY OF THE PEOPLE'S REPUBLIC	16929
 EMBEBA MBOURANGON	16177
 EMBEDDED FINANCE	4824
 EMBEDDING SAFETY IN FAST-PAYMENT DESIGN	11138
@@ -84,7 +92,7 @@ ESWATINI AND U.S. EMBASSY STRENGTHEN ECONOMIC	13213
 ETAPES PRETRAITEMENT ACTIVITES Emballage	14423
 Embaba	15473
 Embai	15380,12
-Embaixada	3093,3744,3915,779,3861,12,652
+Embaixada	3093,3744,3915,779,3861,12,652,1304,1
 Embaixada da Finlândia	10440
 Embaixada da França	414
 Embaixada da República Democrática de São Tomé	6837
@@ -107,13 +115,17 @@ Embaixadoras	16305
 Embaixadoras da ACRIDES	16305
 Embaixadores ACRIDES	16305
 Embaixadores de Portugal	11566
-Embajada	4209
+Embajada	4209,12852
 Embajada A1 Cocinero A2 Cocinero B2	4209
 Embajada A1 Interprete Traductor Consulado B1	4209
 Embajada A1 Recepcionista Embajada A2 Recepcionista	4209
 Embajada A3 Agente Consular B3 Agregado	4209
 Embajada A3 Jefe Económico Admón.. A3	4209
 Embajada A3 Oficial de Comunicación B1 Oficial	4209
+Embajada de China	17271
+Embajada de España	17061
+Embajada de España URL	17061
+Embajada de Guinea Ecuatorial	16905,400
 Embajadas	4209
 Embajador	4209
 Embajador A1	4209
@@ -128,6 +140,9 @@ Embajador Gran Canciller Jefe Económico	4209
 Embajador Internacional	4209
 Embajador Servicio	4209
 Embakasi South	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
+Embalagem	17100
+Embalagens	17100
+Embalagens-	17100
 Emballage	14423
 Emballages	14488,1,1
 Embalmation	12496
@@ -140,22 +155,26 @@ Embark	13295,1702
 Embarking	7835,295
 Embarks	12639
 Embassies	13122,551,1102,54
+Embassies and High Commissions	16921
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Kingdom	13358
 Embassy Libreville	1560
 Embassy Office	12898
+Embassy Rents	17105
 Embassy Situação	15476
 Embassy The White House	8921
+Embassy VSAT USD	17250
+Embassy and Permanent Mission of The Gambia	16914
 Embassy of Belgium	13156
 Embassy of Canada	9043,232
 Embassy of Finland	1016,9576
 Embassy of France	13312,2
 Embassy of Germany	16730
-Embassy of India	10780,2964,47,2465
+Embassy of India	10780,2964,47,2465,984
 Embassy of India Algiers	16331
 Embassy of India Algiers INDIA-ALGERIA RELATIONS Diplomatic	16331
 Embassy of India Harare Press Release Embassy	13509
@@ -167,20 +186,20 @@ Embassy of Portugal	5404
 Embassy of Rwanda	14918
 Embassy of Sierra Leone	3950
 Embassy of Sudan	15251
-Embassy of Sweden	377,2870,8945,309
+Embassy of Sweden	377,2870,8945,309,4448
 Embassy of Switzerland	15222
 Embassy of Zambia	4365
 Embassy's Economic Section	10177
 Embassy. Approximately	16275
 Embassy. Similarly	16275
-Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247,716
+Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247,716,1007,8,389,30
 Embed AI	4126,402,2304,116,190,13,397,203,3405,1356,2054
 Embed Accountability and Monitoring	11285
 Embed MPI	15244
 Embed S-MPI	15244
 Embed Ubuntu	4528
 Embed Video	6387
-Embedded	2477,2371,3191,565,2580,769,261,230,2011,364,319
+Embedded	2477,2371,3191,565,2580,769,261,230,2011,364,319,2112
 Embedded Autonomy	5700
 Embedded Chip Tech	13005
 Embedded Content Matters Consider	6542
@@ -195,9 +214,10 @@ Embeddedness	226
 Embeddedness Building	10865
 Embeddedness of Digital Labour	226
 Embeddedness of Digital Start-Ups	226
-Embedding	1777,5811,433,2985,269,1022,146,614,1544,172,261,30
+Embedding	1777,5811,433,2985,269,1022,146,614,1544,172,261,30,1973
 Embedding AI	6793,6856
 Embedding Artificial Intelligence	14566
+Embedding FAIR	17116
 Embedding M&E	15845
 Embedding Open Data Practice	1243
 Embedding Protection	9766
@@ -210,11 +230,11 @@ Embiveni Biggest Braai	4866
 Emblem	15901
 Emblème	15901
 Embodied	5487
-Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7,4778
+Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7,4778,673,73
 Embosi Primary	12977
 Emboss	14741
 Emboîtant	1748
-Embrace	5244,7733,2020
+Embrace	5244,7733,2020,2142
 Embrace Distributed Renewable Energy and Clean Cooking	12717,3471
 Embrace Gender Diversity	2668
 Embrace Good Governance	11131
@@ -240,18 +260,24 @@ Ethics Embedment	15713
 Ethics and Embed Ubuntu	12512
 Ethiopian Embassies and Consulates	12250
 Ethiopian Embassy	10516,1148,562
+Events EMBASSY OF THE PEOPLE'S REPUBLIC	16929
 Excelência Senhor Embaixador	10753
 Export Customer Embedded Generation Distributor Embedded	12399
+FIA Embraces Inter-Agency	17037
 Fazenda. Embora	8760
 Fight Delays Embedding	7764
+Finance Assistant Victoria Embonda Mbasi CJM	17101
 Finland Embassy	13998
 Foreign Assistance Office U.S. Embassy Avenida	4260
 Foreign Embassies and High Commissions	11956
+Foreign Embassy	17108
 France Embassy	12972
 French Embassy	5556,6167,174,1078,2472
 French Embassy French Embassy EUR	15661
 Future of Embedded Finance	14819
+G-4 Promote Inclusive Data Use and Embed	17116
 Gabonese Embassy	16285
+Gambian Embassy	16874
 German Embassy	3697,3028,2903,79,404,2,3465,2458,186
 German Embassy Chargé	13426
 German Embassy Nairobi	4890
@@ -260,6 +286,7 @@ German Embassy. Participation	11897
 German and Italian Embassies	14162
 Good Governance and Integrity Embracing	13347
 Google Satellite Embedding	14656
+Guinea-Bissau's President H.E. Umaro Sissoco Embaló	17023
 Had the U.S. Embassy	10146
 Home Affairs Immigration Officers1 Embassy	12972
 Human Fertilisation and Embryology Act	13040
@@ -271,7 +298,7 @@ INST-79916263F35 EMBU Kenya Renewed	7167
 INST-9864382BC16 EMBU Kenya	7167
 Incorporate Embed	1777
 Increased Regional Integration Pillar III Embrace	16188
-Indian Embassy	4849,10270,1530
+Indian Embassy	4849,10270,1530,592
 Institutional Embeddedness	7151
 Interactive Datawrapper Embed	6934
 Interprete Traductor Embajada A1	4209
@@ -281,18 +308,24 @@ Interprete Traductor Embajada A3	4209
 Iranian Embassy	9968
 Iraqi Embassy	11738
 Irish Embassy	12978
+Italian Embassy	16946
 J2 Embracing e-Learning PWFormatted.pdf SomaliREN	15164
 Japanese Embassy	3468
 Joint Embedding Predictive Architecture. Pour	3465
 KALRO Embraces Digital Innovation	6554
+LACC Embraces New Powers	17037
 LIMITED Data Processor INST-9195846A6C6 EMBU Kenya	7167
+La Embajada	17390
+La Embajada de Guinea Ecuatorial	17390
 LeCun’s Joint Embedding Predictive Architecture	7573
 Liberia. Embed	1777
 Liberia. Embedding	1777
-Liberian Embassy	7722
+Liberian Embassy	7722,9148
+Liberia’s Embassy	16870
 Licensing. Embed	1777
 LinkedIn Embedded Content	965,3804,120,206,68,334,86
 M. EMBONGO	15615
+MODIFICACIÓN DE UNA EMPRESA EMBAJADA	16859
 MWEA Data Processor INST-59724551F3D EMBU Kenya	7167
 Mba Ada Embaixador Extraordinário	11393
 Medical Services U.S. Embassy Ministry of Health	4154
@@ -309,11 +342,14 @@ OmniRetail Digital B2B Commerce and Embedded Finance	2232
 Online Embedded Generation	12969
 Organization of SIM Cards and Embedded SIM	14944
 PALOP. Embora	2816
+President Embaló	17023
 President Umaro Sissoco Embaló	11579
+President of Guinea-Bissau Umaro Sissoco Embaló	17023
 Processor INST-12485011114 EMBU Kenya	7167
 Processor INST-1683148DE2C EMBU Kenya	7167
 Processor INST-2958721BF3D EMBU Kenya	7167
 Professionals Embedding	14566
+Promote Inclusive Data Use and Embed FAIR	17116
 RRA MINECOFIN X Embed	15130
 Recepcionista Consulado B3 Recepcionista Embajada A2	4209
 Recepcionista Embajada A1	4209
@@ -331,6 +367,7 @@ SERVICE PACKAGE EMBEDDING PREVENTIVE SERVICES	15977
 SERVICE PACKAGE EMBEDDING PREVENTIVE SERVICES Policy	15977
 SOCIETY LIMITED Data Controller INST-274553D7C0F EMBU	7167
 Saido Embaló	11544
+Saldo Nobre General Umaro Sissoco Embalé	17312
 Saliu Embaló	11544
 Says Liberia Must Embrace Technology	7615
 Secretaria Cónsul General B1 Secretaria Embajador	4209
@@ -349,6 +386,7 @@ Social and Institutional Embeddedness	7151
 Social and Institutional Embeddedness Across	7151
 Somali Embassy	10184,337,4370
 Sources and Methods Embargoed	11286
+Sr. Ramiro Bubacar Embaló	17147
 States Embassy Monrovia	4202
 Sudanese Embassy	14905
 Swedish Embassy	3277,10619
@@ -356,6 +394,7 @@ TVET. Embed AI	6832
 Taiwan Embassy	12975
 Taiwanese Embassy	12972
 Tech Embassy	10640
+Technology and Efficiency Improvements Embrace	17011
 Tharaka-Nithi Embu Nyandarua Nyeri Kirinyaga Murang’a	7869
 Traductor Consulado B3 Intérprete Traductor Embajada	4209
 Traductor Embajada A2 Jefe Económico Admón	4209
@@ -384,7 +423,7 @@ US Embassy and Starlink	3251
 Uasin Gishu and Embu Districts	12151
 Uganda U.S. Embassy	4217
 Umaro Embaló Caramba Saco Umaro Demba	11544
-Umaro Sissoco Embaló	2671,8898
+Umaro Sissoco Embaló	2671,8898,5451
 Umaru Sissoco Embalo	9620
 Union Emblem	15901
 United States Embassy	4327,13,2355,111,371,1084,715,253

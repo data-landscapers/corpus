@@ -27,6 +27,7 @@ Besides the Cape Town	1820
 Beyond Johannesburg and Cape Town	5957
 Bijl WESTERN Cape	10243
 Black Sash's Western Cape	11660
+Bomi and Grand Cape Mount	16970
 Budget BRB Burundi Backbone System CAPEX	13331
 Building Resilience Cape Town International Convention	10611
 CAGR Compound Annual Growth Rate CapEx	10781,1646,2055
@@ -39,7 +40,11 @@ CAPEC Parties	15712
 CAPEF	15999
 CAPEN LTD Data Controller INST-6844440DC37 NAIROBI	7167
 CAPEN LTD Data Processor INST-6844440DC37 NAIROBI	7167
-CAPEX	241,477,2769,117,258,288,41,462,1140,639,1691,1,1,305,1329,2098,98,88,726,562,1499,644,79,106,57,321,617
+CAPESA	16898
+CAPESA INEGE	16898
+CAPESA Informes	16898
+CAPESA Número	16898
+CAPEX	241,477,2769,117,258,288,41,462,1140,639,1691,1,1,305,1329,2098,98,88,726,562,1499,644,79,106,57,321,617,222,90,220
 CAPEX AND OPEX	718
 CAPEX Capital	12911
 CAPEX Capital Expenditure CCDR Climate Change	15659
@@ -61,7 +66,7 @@ CDN77. Cape Town	9617
 CSO Civil Society Organization CTAPSD Cape	13359
 Cairo and Cape Town	10939
 Can Cape Verde	2945
-CapEx	376,460,88,217,4387,904,936,4073,554,3169,1646
+CapEx	376,460,88,217,4387,904,936,4073,554,3169,1646,113
 Cape Awards	7253
 Cape Business News	10243
 Cape Canaveral	4244
@@ -79,8 +84,12 @@ Cape Gate Regional Centre	8999
 Cape IV	14404
 Cape Maclear	13060
 Cape Metropolitan Council	6683
-Cape Mount	10406
+Cape Mount	10406,6447,82,35,1
+Cape Mount Bomi Grand Bassa River	16921
+Cape Mount County	16876
+Cape Mount Grand Gedeh Grand Bassa	16921
 Cape Peninsula University of Technology	8130,4048
+Cape Point	16973
 Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20,211,69,8,11,16,123,473,179,18,49,427,163,269,259,1226,223,22
 Cape Town Bloemfontein Public Library Natal	11237,21,28
 Cape Town CPT1	595,1,6195
@@ -88,7 +97,7 @@ Cape Town Campus	2994,938
 Cape Town City	5032
 Cape Town City Hall	5199,9474
 Cape Town Civic Centre	12072,44
-Cape Town Convention	14008,831
+Cape Town Convention	14008,831,2133
 Cape Town Division Library of Parliament	11237,21,28
 Cape Town Eskom	9769
 Cape Town Film Studio	14673
@@ -128,9 +137,10 @@ Cape Town. Produced	6436
 Cape Town.59 Internet	13461
 Cape Town.The	11273
 Cape Town.md	1404
-Cape Verde	599,190,224,230,220,361,970,9,8,54,80,299,133,176,11,99,518,731,125,23,373,155,27,435,311,211,366,294,277,1542,82,1751,668,57,254,6,4,5,31,22,12,59,42,801,525,1351,726,71,34,38,289,104,520
+Cape Verde	599,190,224,230,220,361,970,9,8,54,80,299,133,176,11,99,518,731,125,23,373,155,27,435,311,211,366,294,277,1542,82,1751,668,57,254,6,4,5,31,22,12,59,42,801,525,1351,726,71,34,38,289,104,520,611
 Cape Verde Accelerates Digital Transformation	3663
 Cape Verde António Gonçalves Partner Costa	11943
+Cape Verde Benin Burkina Faso Senegal	16935
 Cape Verde Cape Verde	11909
 Cape Verde ComVida Health Passport	11869
 Cape Verde Data	11943
@@ -147,6 +157,7 @@ Cape Verde Launches National	5037
 Cape Verde Launches National Data and AI	6050
 Cape Verde Law	11943
 Cape Verde Law Data Protection Law	11943
+Cape Verde Male	16935
 Cape Verde Ministry	342
 Cape Verde Moves Closer	3244
 Cape Verde Nationally Determined Contribution	11863
@@ -200,7 +211,9 @@ Capex of R3.1	10793
 Capex of R3.3	10793
 Capex of R4.6	10793
 Capex of R9.4	10793
+Cavala Grand Cape Mount Golakonneh	17239
 Central Bank of Cape Verde	4181
+Central CAPESA Centro de Apoyo	16898
 Central Karoo City of Cape Town	8999
 City of Cape Town	6486,857,171,124,941,336,876,311,433,718,32,1,10,776,2105,496
 City of Cape Town District	8999
@@ -215,6 +228,7 @@ Comoros and Cape Verde	9759
 Composition of NPV Costs Benefits CAPEX	15659
 Composition of NPV Costs Benefits CAPEX US	15659
 Conclusion Cape Verde	11909
+Consumer BDS Business Development Services CAPEX	16876
 DGIS Cape Verdean Escudo Disbursement and Financial	11855
 Daily News CAPE TOWN	3954
 Data Protection Cape Town	12232
@@ -260,15 +274,29 @@ Estonia and Rwanda. Cape Verde	2945
 Exact CapEx	1174
 Except for Northern Cape	11192
 Expanding the Western Cape Government	11287
+Faso Gambia Cape Verde Mali Mauritania	17011
 Free State and Northern Cape	10241
 Full CAPEX	10167
 Future CAPEX	4150
+G. Cape Mt	16921
 Gabriella Razzano. Cape Town	6512
+Gbarpolu River Cess Bomi Grand Cape	16921
+Gee Bomi Sinoe Maryland Grand Cape	16921
 Geographic Coverage of Western Cape Region	8999
 Government of Cape	190
 Government of Cape Verde	181,1,8,2604,2243,6832
 Government of Cape Verde. Once	11869
 Government of Cape Verde’s Núcleo Operacional da Sociedade	181,1,8
+Grand Bassa Grand Cape Mount Grand	16935
+Grand Bassa and Grand Cape Mount	17289
+Grand Cape Mount	16921,14,8,7,20,1,72,71,125
+Grand Cape Mount County	16970,1,143,175
+Grand Cape Mount County. National RMNCAH	17289
+Grand Cape Mount LAAS-2024	17043
+Grand Cape Mount and Bong Counties	16970
+Grand Cape Mount and Grand Bassa Counties	16970
+Grand Cape Mount and Maryland Counties	16970
+Grand Cape Mt	16935,36
 Group Capex	3898
 Group Capex of KShs	6100
 Guinea Bissau and Cape Verde	16705
@@ -295,10 +323,12 @@ KwaZulu Natal North West Eastern Cape	11262
 KwaZulu-Natal Gauteng Western Cape Eastern Cape	8999
 KwaZulu-Natal Limpopo Mpumalanga North-West Northern Cape	8999
 Lagos and Cape Town	9206
+Liberia Bomi Grand Cape Mount Bong	16921
 Limpopo Mpumalanga Northern Cape North West	11198
 Limpopo and Eastern Cape	11192
 Limpopo and Northern Cape Departments of Health	11980
 Limpopo. Western Cape	8999
+List of Acronyms ACE Africa-Coast-to-Europe CapEx	16923
 Luanda and Cape Town. Once	15984
 MRR Monthly Recurring Revenue CapEx Capital	3184,1,1340,6470
 MTC’s CAPEX Paratus Paratus	1013
@@ -307,6 +337,9 @@ Macau and Cape Verde	6361
 Machine Learning Eastern Cape Gqeberha	6832
 Major CapEx	15164
 Male Female Western Cape	11192
+Margibi and Grand Cape Mount	17114
+Montserrado and Grand Cape Mount	17114
+Montserrado and Grand Cape Mount Counties	16971
 Moov Africa SSA Subsidiaries Annual CapEx	1065,376
 Mpumalanga and Western Cape	11192
 Multifaceted Approach. Cape Town	6832
@@ -356,6 +389,8 @@ Reinvent Cape Verde	3377
 Republic of Burundi CAPEX	13388
 Reviewed Revenue Capex Rm Rm	10793
 Risenga Maluleke Statistician-General Eastern Cape UR	11296
+Rivercess and Grand Cape Mount Counties	16970
+Rivercess and Grand Cape Mount County Administrations	16970
 Route Overberg Overberg City of Cape Town	8999
 Rural Eastern Cape	5724
 SARB Kenya Egypt Mauritius Cape Verde	6938
@@ -363,7 +398,9 @@ SASSA's Western Cape	8999
 Scalabrini Centre of Cape Town	5533,6453
 Senior Cape Verdean	2794
 Sex Male Female Total Western Cape	11192
+Sex Total Male Female Grand Cape	16921
 Silicon Cape	1363
+Sinoe Grand Kru Maryland Grand Cape	16921
 Sonatel Group Annual CapEx	1143,405
 South Africa Remains the Anchor Johannesburg and Cape	6791
 South Africa and Cape Verde	1463
@@ -390,15 +427,17 @@ Teraco’s Cape Town	3932
 Town Cape Winelands Garden Route Garden	8999
 Tygerberg Hospital WC Cape Winelands DM	11986
 UNIVERSITY OF CAPE TOWN	11885
+USD CAPEX COST	16854
 USPF Capex and Opex F-4 Incentivize	11857
 USTDA Western Cape	732
 University of Cape Coast	455
 University of Cape Coast Data Literacy Week	6508
-University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215,309,976,3167,151
+University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215,309,976,3167,151,183
 University of Cape Town Launch	3654
 University of Cape Town SARChI Chair	3654
+University of Cape Town Two Commissioners	16978
 University of Cape Town and Wits	9574
-University of Cape Town’s Graduate School of Business	1647
+University of Cape Town’s Graduate School of Business	1647,15331
 University of Cape Town’s IP Chair	6041
 University of Cape Town’s Nelson Mandela School	586,4458
 University of Cape Verde and NOSi	11909

@@ -25,7 +25,7 @@ Directeur Général des Etudes	16616
 Directeur National des Etudes Economiques	16616
 Directeur des Etudes	8269,7416
 Direction Générale des Etudes	10847,5537
-Direction des Etudes	10975,930,2537,981,70,173,162
+Direction des Etudes	10975,930,2537,981,70,173,162,1613
 Directions des Etudes	15580,93
 Dont Etudes	15999
 Durée des Etudes	15674
@@ -49,7 +49,7 @@ Etude de Maître Sylvert Bérenger KYMBASSA BOUSSI	15426
 Etude du Premier Cycle	3045,12712
 Etude du Secteur Numérique	3604
 Etude-Contrôle-Consultance	14488,1,1
-Etudes	12,725,1605,5927,2578,117,11,2326,76,105,1006,1,1,49,829,3,153,18,27,70,46,114,49,151,100,76,147,59,230,16
+Etudes	12,725,1605,5927,2578,117,11,2326,76,105,1006,1,1,49,829,3,153,18,27,70,46,114,49,151,100,76,147,59,230,16,851
 Etudes APS	1993
 Etudes Approfondies DESS Diplôme	12
 Etudes Assistant	15599
@@ -109,6 +109,7 @@ Master Etudes Germaniques	15674
 Ministère. Etudes	15424
 Oyo. ETUDE DE MAITRE SYLVERT BERENGER	15786
 Politique Fiscale DGEFRI Direction Générale des Etudes	11944
+Pratiques Communautaires Document Etude	17323,1
 R SOC AICHFEET ETUDE EXPERTISE ET	16623
 R2. Etudier	15493
 R5. Etudier	15474

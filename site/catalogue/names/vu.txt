@@ -1,3 +1,4 @@
+A. Overview of Vulnerabilities	17257
 A. The Republic of Congo Is Vulnerable	1828
 A. van Vuren	8022
 A3.2.3.6 Vulgariser	10858
@@ -43,6 +44,7 @@ Cash Transfer for Orphans and Vulnerable Children	14487
 Chapter VUpfront	14858
 Claude Louis Vu	16100
 Climate Change Risks and Vulnerabilities	10829
+Climate Vulnerability and Resilience	16896,26
 Coding Vulnerabilities	16520
 Commune de Mossendjo Vu la Constitution	15558
 Comportements Que Je N'ai Jamais Vus	4960,62,2035
@@ -71,6 +73,7 @@ DISPOSITIONS Vu la Constitution	15439
 DIVERSES ET FINALES Vu	15439
 DONT LA TENEUR SUIT VU	4420
 DROUGHT VULN4ERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
+DROUGHT VULNERABILITY ASSESSMENT	17157
 DROUGHT VULNERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
 DU GOUVERNEMENT Vu	15558
 Dahua Développement Ressources Vu	15744,433
@@ -80,17 +83,23 @@ Data Subject's Vulnerability Index	11956
 Data Subject's Vulnerability Indexes	11956
 Data Subject's Vulnerability Indexes Schedule	11956
 Data Subjects' Vulnerability Indexes	11956
-Disadvantaged and Vulnerable Groups	1988
+Disadvantaged and Vulnerable	16926
+Disadvantaged and Vulnerable Groups	1988,14938,173
 Disadvantaged and Vulnerable Groups Disadvantaged	1988
+Disadvantaged and Vulnerable Groups Vulnerability	16926
+Disadvantaged and Vulnerable Groups. Special	17114
 Divulgação Responsável de Vulnerabilidades	6970
 Djoumouna Vu	15395
 Dlamini Ms. Felicia Dlamini-Kunene Mr. Vusi	11131
+Drivers of Food Insecurity Assess Vulnerable Population	17285
+Drought Vulnerability Assessment	17157
 Déjà Vu	12333
 E VUINC	15999
 EN VUE EN D’AMÉLIORER LES SERVICES	15624
 ET DE L’ORDRE PUBLIC Vu	15558
 Economic Empowerment Support Program for Poor and Vulnerable	16384,129
 Economic Empowerment of Poor and Vulnerable Households	10866
+Economic Vulnerability C	17285
 Egypt Vulnerability Assessment for Refugees	15181
 Eligible VUP	12440
 Emmanuel POUPET Vu	16177
@@ -117,21 +126,25 @@ Find Vukani	5600
 Foni Joyce Vuni and Buhendwa Iragi	12227
 Food Security and Vulnerability Survey	15191
 Friday. International Vulture Awareness Day	1554
+GM Vulnerable Groups	16926
 GRUPOS VULNERÁVEIS	11390
 GSS Vue	13689
 Gilbert MOKOKI Vu	15660
 Gladio Entreprise Vu	15439
 Gouver- Vu	16100
 Gouver- Vu la Constitution	15901
+High Vulnerability	17157
 I Vu	15366
 INCLUDED BUT VULNERABLE People	11138
 INDICE DE VULNÉRABILITÉ LIÉ	16026
+INEGE and VUE’s Medium Growth Policy	16942
 IPv4. Vu	13301
 Identification of Systemic Risks and Vulnerabilities	6938
 Incluir Populações Vulneráveis	15684,5
 Inclusion Productive des Jeunes Vulnérables	16012
 Inclusion Productive des Jeunes Vulnérables Finaliser	16012
 Indicators of Compromise Vulnerability	10721
+Institutional and Strategic Vulnerabilities Although Libya	17157
 Insérer Images Vu	15558
 Intermediate Level Tenable Certified Passive Vulnerability	15662
 Irène Marie-Cécile MBOUKOU-KIMBATSA Vu	15744
@@ -148,8 +161,10 @@ LAISE DE VIET VU DAO ET	16100
 LE PRESIDENT DE LA REPUBLIQUE Vu	14431,2185
 LOIS Vu	15602,130
 Le Point De Vue De L’Expert	11034
+Libya Vulnerability	16902
 Linda Vukani Gumede	1814
 Low Participation of Women and Vulnerable Groups	13998
+Low Vulnerability	17157
 Luanda BOAVENTURA JOÃO CASSECA VULOLA	10751
 LÉGISLATIVE DE TRANSITION Vu la Constitution	15691
 L’ASSEMBLEE LEGISLATIVE DE TRANSITION Vu la Constitution	1801,13991
@@ -213,6 +228,7 @@ Orphaned and Vulnerable Children	12977
 Orphans and Vulnerable	12970
 Orphans and Vulnerable Children	958,413,1404,10139,48,333,1640
 Orphans and Vulnerable Children PFMS	958
+Orphans and Vulnerable Children and Almudos	16867
 PARTAGES0 VUES Partager	2266,48,70,1204,745,235,171,806,299,245
 PARTIE NON OFFICIELLE Vu	15660
 PASNFI Vulgariser	10965
@@ -249,6 +265,8 @@ Protect Vulnerable Communities	11285
 Protecting Poor and Vulnerable People	10964,941,1426
 Protecting the Poor and Vulnerable	10779
 Protection of Elderly and Vulnerable Voters Particular	10049
+Protection of Vulnerable	17243
+Protection of Vulnerable Consumers	17243
 QUALIFIANTE ET DE L’EMPLOI Vu la Constitution	15558
 RISK RATING AND VULNERABILITIES	13868
 Reach the Poor and Most Vulnerable. Africa Development	10763
@@ -283,6 +301,7 @@ Socamiral Sarlu Vu	15439
 Social Grants A. Orphaned and Vulnerable Children	12977
 Socially Vulnerable Persons	10963,8
 Socioeconomic Empowerment for Poor and Vulnerable Households	16384
+Socioeconomic Vulnerability	17157
 Sommet Longitudes Latitudes Vu la Constitution	16177
 Sommets Longitudes Latitudes Vu la Constitution	16177
 South Africa’s Vukosi Marivate	5074
@@ -377,7 +396,7 @@ Vu la Charte	113,1688,12668,937,124,72,76,3,10,10,79,12,471,373,1,8,6
 Vu la Charte Africaine	14861
 Vu la Const	15461
 Vu la Constiftution	15744
-Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66,1645,1,1,10,20,7,4,253,1,820,3,2,1,2,1,1,1,10,15,15,4,20,17,38,5,67,251,1,1,7,23,284,170,6,1,6,11,4,3,4,12,1,14,1,9,1,6,2,4,2,2,3,16,1,9,2,21,19,17,6,4,13,11,11,15,10,4,4,5,1,7,45,30,1,1,8,32,12,3,20,11,2,6,62,15,38,29,3,10,96,46,15,48,1,22,6,26,27,5,12,16,8,2,1,21,27,22,23,3,43,12,31,159,1
+Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66,1645,1,1,10,20,7,4,253,1,820,3,2,1,2,1,1,1,10,15,15,4,20,17,38,5,67,251,1,1,7,23,284,170,6,1,6,11,4,3,4,12,1,14,1,9,1,6,2,4,2,2,3,16,1,9,2,21,19,17,6,4,13,11,11,15,10,4,4,5,1,7,45,30,1,1,8,32,12,3,20,11,2,6,62,15,38,29,3,10,96,46,15,48,1,22,6,26,27,5,12,16,8,2,1,21,27,22,23,3,43,12,31,159,1,263,560,1,16
 Vu la Constitution Vu la Loi L	16612
 Vu la Convention	547,3,18,20,13871,151,283,489,24,36,1,39,452
 Vu la Directive	548,10974
@@ -439,8 +458,9 @@ Vulindlela Report	11986
 Vulnerabilidade	11362,207,332
 Vulnerabilities	8897,719,5113
 Vulnerabilities Management and Penetration Testing	15054
-Vulnerability	940,2490,3836,1857,5,644,949,120,315,369,431,297,670,130,279,1615,191,523
-Vulnerability Assessment	1000,14662
+Vulnerability	940,2490,3836,1857,5,644,949,120,315,369,431,297,670,130,279,1615,191,523,1241,41,8,206
+Vulnerability Analysis and Mapping	17285
+Vulnerability Assessment	1000,14662,1495
 Vulnerability Assessment Framework and Checklist	1000
 Vulnerability Assessment Vulnerability	1000
 Vulnerability Assessment and Analysis	12977
@@ -448,28 +468,37 @@ Vulnerability Assessment and Management Conduct	15149
 Vulnerability Assessment and Penetration Testing	10721,4023
 Vulnerability Assessments	13053
 Vulnerability Index	16026
+Vulnerability Index Calculation Indicator Weight Step	17157
 Vulnerability Management	5665,7415,126
 Vulnerability Management Service	11952
+Vulnerability Map	17157
 Vulnerability Profiles Report	12977
 Vulnerability Reporting Any	15198
+Vulnerability Score	17257
 Vulnerability and Capacity Assessment	12977
-Vulnerability and Impact Assessment	14443
+Vulnerability and Impact Assessment	14443,2714
 Vulnerability and Impact Assessment Fig	14443
+Vulnerability and Penetration Testing	17235
 Vulnerability and Readiness	969,12362
 Vulnerability and Readiness Country Index	2889
+Vulnerability and Readiness Scores	17257
+Vulnerability and Risk Drought Risk Mitigation Measures	17157
+Vulnerability of Desalination	17157
 Vulnerability of Telecommunication Infrastructure	13331
-Vulnerable	1778,210,2269,6506,201,273,344,324,555,2414,370,180,94,140,302,300,124
+Vulnerable	1778,210,2269,6506,201,273,344,324,555,2414,370,180,94,140,302,300,124,542,70,103,15,43,91,4
 Vulnerable Children	12373
 Vulnerable Children PHU Public Health Unit	12970
 Vulnerable Demographics Dependency	10763
 Vulnerable Families	10763,5
 Vulnerable Group	15004
-Vulnerable Groups	1778
+Vulnerable Groups	1778,15148,173,15
 Vulnerable Groups Fund	11998
+Vulnerable Groups Group Potential Interests	17099
 Vulnerable Groups and Inclusion	3861
 Vulnerable Groups and Inclusion Data	3861
-Vulnerable Households	9772
+Vulnerable Households	9772,7228
 Vulnerable Learners. Statistics	12411
+Vulnerable Parties	17099
 Vulnerable People	16079
 Vulnerable Peoples Plan	11863,2075
 Vulnerable Places	13003
@@ -478,6 +507,7 @@ Vulnerable Populations	15782
 Vulnerable Populations Missed	12761
 Vulnerable Populations Orphans and Youth Lack	12328
 Vulnerable Pregnant and Lactating Women	14980
+Vulnerable and Marginalized Communities	17114
 Vulnerables25 Ministry of Programme National Housing	10985
 Vulnérabilité	10874,2,1096,1743,765,142,1102
 Vulnérabilités	15500
@@ -517,6 +547,7 @@ Vuyolwethu E. Feni-Fete and Acquinatta N. Zimu-Biyela	9888
 Weihai Xuli International Vu	15395
 Wilfred Vusi Maditsi	10809
 Women’s Vulnerability	16384
+World AFR Most Vulnerable Countries LBR	17257
 World’s Most Vulnerable Aug	10819
 Year Eligible VUP	12440
 Year Number of Other Vulnerable	16079

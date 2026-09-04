@@ -1,5 +1,6 @@
 BB920 Toiture	16552
 BB933 Toiture	16552
+Cosmetics. Toiletries	16900
 DANS TOILETTES OU LATRINES	13300
 DES TOITURES V.4.2.1 Public Nombre	10847
 DES TOITURES VI.4.2.2 Privé Nombre	10847
@@ -47,5 +48,11 @@ Toires. Elle	15429
 Toiut	15429
 Toivo.Kamati	12927
 Toivonen	2096
+Type Toilet Facility and Place of Residence	16921
+Type of Toilet Facility	16921
+Type of Toilet Facility and Place of Residence	16921
+Type of Toilet Facility and Place of Residence Urban	16921
+Type of Toilet Facility for Household	16921,193
+Type of Toilet Facility for Household About	16921,193
 V.7 DISTANCE BETWEEN TOILETS AND SUPPLY	15574
 Ventilated Improved Toilet	12976

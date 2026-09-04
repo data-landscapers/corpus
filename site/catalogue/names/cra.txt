@@ -1,5 +1,6 @@
 AIRCRAFT CRASH	14738
 About CRAN The Communications Regulatory Authority	13061
+Acronyms AOA BRSC CRA DCIM DEMs	16916
 Africa. Research ICT Africa. Cramton	9759
 Ananny and Crawford	7451
 BON and CRAN	12466
@@ -71,10 +72,10 @@ CRATER LAKE COMPANY LIMITED Data Controller	7167
 CRATER VIEW AUCTIONEERS Data Processor INST-6296581CC35	7167
 CRAVE CAPITAL LIMITED Data Controller INST-22360622CA0	7167
 CRAVE CAPITAL LIMITED Data Processor INST-22360622CA0	7167
-CRAWL LIVECRAWL TIMEOUT	17,718,801,6009,4553
+CRAWL LIVECRAWL TIMEOUT	17,718,801,6009,4553,4845,238,142,3
 CRAWL LIVECRAWL TIMEOUT and CRAWL UNKNOWN ERROR	14866
 CRAWL NOT FOUND	14830
-CRAWL UNKNOWN ERROR	8202,3030,24,4,17,17,47,9,33,66,346,3413,354
+CRAWL UNKNOWN ERROR	8202,3030,24,4,17,17,47,9,33,66,346,3413,354,1877
 CRAY XC-30	11191
 Cameroon's Nomenclature of Craft Trades	10980
 Capital Pay International Limited and Crawford Capital	14329
@@ -90,7 +91,7 @@ Consommables Médicaux Essentiels CRA	16195
 Crackdown	4942
 Cracking	1988
 Cracks	6211
-Craft	8546,2750,3519
+Craft	8546,2750,3519,2120
 Craft Certificate	12431
 Craft Certificate Figure	12431
 Craft Workers	16266
@@ -120,7 +121,7 @@ Crane AI	3065
 Crane AI Labs	7151
 Crane Cloud	985
 CraneLogin	15936
-Cranes	12253
+Cranes	12253,4647
 Cranes Part	11269
 Crank	7537
 Crash	13385
@@ -179,6 +180,7 @@ Major Data Privacy Crackdown	3480
 March. CRAN	5617
 Measures After Spate of Fatal Crashes Big	6077
 Mines Commerce Crafts	10763
+Mr. Bernard Crabb	16848
 Mrs. Emilia Nghikembua CEO of CRAN	13150
 Namibia's CRAN	5529
 Namibia. CRAN	13069,33
@@ -206,7 +208,9 @@ Sources AFS AFS CRAN Portal	1944
 Sources AFS AFS CRAN Portal Table	1944
 Suraj Kund Art and Craft Mela. ICCR	16649
 Surajkund Art and Craft Mela	16649
-Surajkund International Crafts Mela	11579,1038,3639,21
+Surajkund International Craft Fair	17240
+Surajkund International Craft Mela	17240
+Surajkund International Crafts Mela	11579,1038,3639,21,964
 Trade and Crafts	16256
 UCC Suspends Crackdown	4608
 University of Craiova for Journalism	4127

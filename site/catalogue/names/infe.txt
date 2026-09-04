@@ -8,10 +8,12 @@ Centre for Infectious Disease Research	10374,1982
 Controle de Infecções	15966
 Controlo de Infecções PdE Pontos de Entrada PFN	11376
 Contrôle des Infections	14622,1089
+Deficiency Syndrome ARI Acute Respiratory Infection	16971
 Department of Tropical Medicine and Infectious Disease	16329
 ENTENDU PARLER D'AUTRES INFECTIONS SEXUELLEMENT	13300
 EU UNE INFECTION NE SAIT	13300
 GESTODENE INFERTILITE	15930
+HIV INFECTIONS	16892
 HIV and Sexually Transmitted Infections	14839
 HS Harcèlement Sexuel IST Infection Sexuellement	15746
 Helmholtz Centre for Infection Research	12003
@@ -20,12 +22,16 @@ IMF International Monetary Fund IPC Infection	15518
 INFECTION INFECTION OU	13300
 INFECTION PREVENTION CONTROL AND ANTIMICROBIAL RESISTANCE	14773
 INFECTIONS SEXUELLEMENT TRANSMISSIBLES DÉCLARÉES Infections	13300
+INFEGE. Ambas	17415
 INIS Infection Prevention and Control IPC Joint	11417
 IRAS Infeccao Respiratoria Aguda Ligera IRAS	966
+Infeccione	16962
+Infecciones	16969
 Infecciones Respiratorias	4209
+Infecciones Respiratorias Agudas	16962
 Infecciones de Transmisión Sexual	4209
 Infecciones de Transmisión Sexual KDI	1701
-Infection	15712,249
+Infection	15712,249,980
 Infection Disease Specialists	14094
 Infection Prevention and Control	4301,6475,3998
 Infection Prevention and Control IIMS	10776
@@ -84,19 +90,25 @@ Malware Infections	3214
 Maria Grazia Dente Public Health and Infectious	10784
 Marzia Chiesi Foundation Dept of Infectious Disease	10878
 Minimum Requirements for Infection Prevention Control	14773
+NPHIL's Department of Infectious Disease Epidemiology	16971
 National System for Healthcare-Associated Infection	4202
+Neonatal and Childhood Illness IPC Infection Prevention	17289
 Open Forum Infect Dis	14666
+Opportunistic Infections PFA	16951
 PHYLogeny Inference Package	9475
 Paludisme Infections	15599
 Paridade de Género Infecção Respiratória Aguda Infecções	10777
 Portugal Infelizmente	15476
+Precios de Consumo IRA Infecciones Respiratorias Agudas	16969
 Procurement STI Sexually Transmitted Infection TFP	10829
 R4. Infection	14020
 Respiratory Infections	12151
 Respiratory Infections Infections Diseases	12151
 SEXUALLY TRANSMITTED INFECTION WAN	12253
+STI Sexually Transmitted Infection TB Tuberculosis	16971
 Self-reporting of Sexually Transmitted Infections	15247
-Sexually Transmitted Infections	1988,10265,787,1702
+Sexually Transmissible Infections TAC	16951
+Sexually Transmitted Infections	1988,10265,787,1702,2229
 Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sintomas de Infecção Respiratória Aguda	10777

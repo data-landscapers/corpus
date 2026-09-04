@@ -1,8 +1,9 @@
 ACRONYMS AHC Area Health Centre MHO	14773
 AFRICAN CONTINENTAL FREE TRADE AREA	15641
+AGRICULTURAL AREA AND PLANTED AREA	17043
 AI Strategy Focus Areas	1814
 AI Strategy Focus Areas Figure	1814
-AIRE D'ATTERRISSAGE D'HÉLICOPTÈRES HELICOPTER LANDING AREA	16552
+AIRE D'ATTERRISSAGE D'HÉLICOPTÈRES HELICOPTER LANDING AREA	16552,454
 ARE-AFRICA ENERGY FORUM	15670
 ARE-CCB Visite de Mr Denis LECOURTIER	15670
 ARE-KINSUKA Descente	15670
@@ -12,11 +13,12 @@ ARE-RAP-2024-RAPPORT-ANNUEL-2024-VF-2.pdf Copyright	15739
 AREA AND DIGITALIZATION NOTED	13440
 AREA OCCUPIED BY BUILDING	11129
 AREA UNDER JURISDICTION	14753
-AREAS	11572
+AREAS	11572,5529
 AREAS CHALLENGES AND INTERVENTIONS Challenge	6936
 AREAS FOR COOPERATION TO SUPPORT DIGITAL	1243
 AREAS FOR COOPERATION The State Parties	1243
 AREAS OF COOPERATION Cooperation	1243
+AREAS OF INTERVENTION	16885
 AREAS POA	12500
 ARECOR	15670
 ARECOR RDC	15670
@@ -39,6 +41,8 @@ ARELEC	14479
 ARELIA MEDICARE Data Controller INST-7418928DD7E NAIROBI	7167
 AREN SOFTWARE LIMITED Data Processor INST-57109396246	7167
 ARENE-approved	9409
+AREP-FM	17470
+AREPs	17470
 ARES Acreditação	16290
 ARESA MEDICARE NURSING HOME LIMITED Data	7167
 ARETE Institute for Sustainable Prosperity	7810
@@ -51,15 +55,16 @@ Accra West Area Director Ms. Anna	16254
 Accra West Area Office	16254,151
 Accra West Area Office and Kaneshie Taxpayer	16254
 Activity Target Audi- Focus Areas	6946
-AfCFTA African Continental Free Trade Area	12241
+AfCFTA African Continental Free Trade Area	12241,4701
 Africa Continental Free Trade Area	4891,10,1468,454,5792,73,632,602
 Africa Continental Free Trade Area Agreement	4368
 Africa Free Trade Area	961
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
 African Continental Free Trade Area Artificial	4528
+African Continental Free Trade Area ECOSOC	17101
 African Continental Free Trade Area Protocol	7596,1826,2405
 African Continental Free Trade Area Secretariat	10819
 African Continental Free Trade Area. AfCFTA	10075
@@ -76,9 +81,12 @@ African Free Trade Area. Cross-border	961
 Africa’s Continental Free Trade Area	1264
 Agency for Secure Titles AREI African Biofuel	10841
 AgriTech. Intervention Area I11	14818
+Agricultural Area	17043
+Agricultural Area and Planted Area	17043
 Airport Residential Area	3386
 Airport Residential Area Operational Limited	3386
 Akpini Traditional Area	16596
+Albers Conic Equal Area	16875
 Alcatraz and Tristao Islands Marine Protected Areas	1264
 Alignment Alignment SDGs Area	970
 Amuwo Odofin Local Government Area	10265
@@ -94,6 +102,7 @@ Appui Institutionnel ARES	16606
 Apr-2026 Practice Area	15097
 Apr-2026. Practice Area	13793
 Arandis Town Hall Open Area Near	13046
+Area ADi	17140
 Area AFD French Development Agency AfDB	13885
 Area AI Artificial Intelligence AI4D AI	12512
 Area AML Anti-Money Laundering API Application	12663
@@ -105,15 +114,19 @@ Area Chiefs. Statutory	1382
 Area Command	8278
 Area Commercial Not Operational	3386
 Area Consumer Rights and Obligations Digital Literacy	5676
+Area Council	16887,39
+Area Council Ministry of Agriculture Ministry of Environment	16973
 Area Councils	11129
 Area Covered	14079
 Area Description Maximising AI	14674
 Area Details Indices Targets	11857
 Area Distributed Ledger Technology Eswatini Bankers	11130
+Area GBoS Gambia Bureau of Statistics GCCPC	17105
 Area Health Centres	14721,21,31
 Area IMF International Monetary Fund AI	11994
 Area Land Committee	1391
 Area Network	718,14020,45,353
+Area Network ECOWAS Economic Community of West	16883,1
 Area Network VM Virtual Machine VMs	13185
 Area Office	10764,80,719
 Area Office Gedung Sapta Pesona	10764,80
@@ -128,6 +141,7 @@ Area PAGE	2775
 Area Planted	2775
 Area Required	14778
 Area S	11857
+Area SDGs Sustainable Development Goals UNDP	16921
 Area SEA	1867
 Area Snapshots	6947
 Area Targeting	11905
@@ -138,6 +152,8 @@ Area for Housing Development Figure	2775
 Area of Action	9433
 Area of Business	12400
 Area of Cooperation	4167,35,15,43,41,48,1003
+Area of Flood Risk Ranks Id Rank	17157
+Area of Land	17140
 Area of Office	14778
 Area of Office Space	14778
 Area of Open Data	11854
@@ -145,15 +161,19 @@ Area of Origin	10841
 Area of Project Name Project Description Budget	11986
 Area of Weakness Description Ideal State Infrastructure	11986
 Area-based	10864,1505
-Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129,291,96,207,25,1019,912,100,95,35,92,224,31
+Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129,291,96,207,25,1019,912,100,95,35,92,224,31,1332,120,33,144,7,10,284,18,52
 Areas Beyond National Jurisdiction	8681
 Areas Demonstrating Progress	14022
 Areas Lacking Sufficient Commercial Interest for Investments	11529
 Areas Management	789,172
+Areas Network Law	16843
 Areas Privadas	11373
+Areas Production	17114
+Areas WACOMP West Africa Competitiveness Project	17105
 Areas and Deliverables	11188
 Areas for Consideration	10841
 Areas for Development Reducing Barriers	13080
+Areas for Engagement	17180
 Areas for Further Research	6947
 Areas for Improvement	12356,55
 Areas of Audit	14985
@@ -166,6 +186,7 @@ Areas of Cooperation The Participants	4167,35,58,1092
 Areas of Expertise Policy	11006,1
 Areas of ICT Accessibility and Level of Implementation	11935
 Areas of Impact	12058
+Areas of Intervention	16885
 Areas of Intervention Partner Nature of Involvement	3604
 Areas of National Need	16024
 Areas of PFM	14185
@@ -177,6 +198,7 @@ Areeba	2259,12594,1888
 Aregash Getachew Hailu and Zerihun Yohannes Amare	12158
 AreggeistSepreedceivfiecntFsetorttihlietyexRpaectteesd	12151
 Areka	10574
+Arellano Director Ejecutivo Adjunto PRODEGE D	16864
 Arem H	1219
 Arem&author	1219
 Aremu	8022
@@ -199,11 +221,15 @@ Arezki Benamara	16085
 Arnaud Arends	13044
 Assessment Area Findings Legal and Regulatory Kenya	12210
 Assessment Area Network Performance Service Quality	5676
+Assessment Areas	16963
 Average Area	10765,10
 BRITISH AMERICAN TOBACCO AREA LIMITED Data	7167
+Banjul Area GBV Gender Based Violence	16926
+Banjul Local Government Area	16874
 Bank and UNHCR. E. Project’s Target Area	13938
 Bay Area	10430
 Bende Local Government Area	15336
+Bong Distribution Area	16978
 Boripe Local Government Area	10049
 Brazzaville and Pointe-Noire Area	15659
 Broadband Global Area Network	736
@@ -219,7 +245,9 @@ COMESA FREE TRADE AREA	13440
 COMESA-EAC-SADC Free Trade Area	13563
 CONCLUSIONS AND FURTHER AREAS OF RESEARCH	12445
 CPF Results Area II	15983
+CROSS-CUTTING AREAS	16942
 CROSSCUTTING AREAS MAINSTREAMING MATRIX	14935
+CULTIVATED AREA	17043
 Caxton and Arena Holdings	13461
 Chairwoman of ARE’s Board of Directors	15670
 Chief Administrator of Kauto Administrative Area	8213
@@ -231,6 +259,8 @@ City Centre Clinic and Area	12253
 City Local Area State City Government	11129
 City of Johannesburg Metropolitan Area	14673
 Closed Area	14778
+Coastal Protected Areas and Sensitive Habitats	17114
+Coastal Protected Areas and Sensitive Habitats Overview	17114
 Collective Investment Scheme Common Monetary Area	12701
 Commission EAs Enumeration Areas EBK Engineers	2775
 Common Monetary Area	6539,997,633,671,2208,82,1,3,1335
@@ -242,6 +272,8 @@ Community Settlement Areas NAP National Adaptation	1867
 Competencies Areas	14915
 Competitiveness and Innovation Practice Area	10964
 Conflict-Affected Areas	1066
+Constraints Expected Outcomes Policy Area Objective	17138
+Context Areas	17140
 Continental Africa Free Trade Area	12660
 Continental Free Trade Area	4905,9233
 Continental Free Trade Area AM Accountability	1264
@@ -252,22 +284,28 @@ Contributing Practice Areas Digital Development Education	15491,130
 Contributing Practice Areas Digital Development Finance	1264,14880
 Contributing Practice Areas Digital Development Governance	3604
 Contributing Practice Areas Education CLIMATE	11905
-Contributing Practice Areas Education CLIMATE Climate	15661
+Contributing Practice Areas Education CLIMATE Climate	15661,1797
 Contributing Practice Areas Education Digital Development	15743
 Contributing Practice Areas Energy	11380,4279
 Contributing Practice Areas Gender	16032
+Contributing Practice Areas Governance CLIMATE Climate	16949
 Contributing Practice Areas Governance Digital Development	969
 Contributing Practice Areas Health	10829,588,143
 Contributing Practice Areas Social Protection	10768,2564
 Cooperating Partners THEMATIC AREA	12453
 Core REPORTING RESPONSIBILITY Functional Area	14434
+Council Brikama Area Council Department of Forestry	16973
+Council WAN Wide Area Network WASSCE	16852
 Country Population Area	14897
 Coverage Area Proposed Frequency Band Proposed	736
 Coverage Areas	7368
+Critical Areas Seed Distribution Orange Alert	17157
+Crop Production Planted Area	17043
 Crop Sector Intervention Area A1	14818
 Crop Sector Intervention Area D1	14818
 Crop Sector Intervention Area I1	14818
 Crop Sector Intervention Area J1	14818
+Cross Cutting Areas Data Privacy	16876
 Cross Cutting Areas The Cross-Cutting	12917
 Cumulative INSTITUTIONAL DATA Contributing Practice Areas	10964,2367
 Customer MAN Metropolitan Area Network MDA	13312,2
@@ -278,6 +316,7 @@ DISTRICT DEVELOPMENT MODEL Area of Project Name	11986
 Daria Arentva	6985
 Darlia Aretha MIKILOU	16099
 Data Management Disciplines Knowledge Area	15034
+Data Required Priority Area Activity Intended	16963
 Data for Policy Area	2096
 Data for Policy Focus Area	2096
 Data for Policy Focus Area of Digital	2096
@@ -290,6 +329,7 @@ Delineation of Postcode Areas NIPOST	11129
 Destiny Arena	6097
 Development Map and Investment Map. Priority Area	15473
 Development Priority Areas	970
+Development RA Results Area RF Results	17458
 Digital Development Contributing Practice Areas	3562
 Digital Development Contributing Practice Areas Governance	1284,14269
 Digital Divide Thematic Area	899
@@ -300,8 +340,10 @@ Directorate General and Area Chiefs	1382
 Disputed Area	15138
 Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531
 Disputed Areas	15372
-Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1,2079,102,40
+Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1,2079,102,40,1369,519
 Districts And Areas In Which Registration	12138
+Disturbed and Fire-Affected Areas	17140
+Dividend TDA Tourism Development Area TOT	17105
 Djibouti. Practice Area	13850
 Draft Exclusive Geographic Areas	7980,109
 E. PROJECT’S TARGET AREA AND POPULATION	11863,2075
@@ -310,40 +352,51 @@ E.1 Project Area and Location	11863
 EA Enumeration Area Figure	582
 EAC One Network Area	6928
 EAC's One Network Area	2296
-ECOWAS Wide Area Network	238
+ECOWAS Wide Area Network	238,16634,103
+ECOWAS Wide Area Network ECOWAS	16872
 ENUMERATION AREA NUMBER	582
 EU Priority Areas and Proposals of Team Europe	13992
 EVALUATION MATRIX. Compliance Area Requirement	6432
+Earth's Land Surface Areas CHIRPS Climate	17157
+Ecowas Wide Area Network ECOWAS Economic	16885
 Ede South Local Government Area	10049
 Education Area	13314
 Egbedore Local Government Area	10049,205
 Egypt Policy Area	1802
 Egyptian Rural Areas	15578
+Electric Company Janjanbureh Area Council Kanifing	16973
 Emerging Organisational Efficiency and Areas	6946
 Entreprise ARECOR Projet	15670
-Enumeration Area	11136,1267
+Enumeration Area	11136,1267,4518,122
 Enumeration Area ECCAS	15574
 Enumeration Area Geographical	582
-Enumeration Areas	6106,8754,714
+Enumeration Area GoL Government of Liberia GPS	16921
+Enumeration Areas	6106,8754,714,1347,206,158
 Enumeration Areas EMIS	14857
 Enumeration Areas. EAC	12403
-Environmentally Sensitive Areas	14748,70
+Environmentally Sensitive Areas	14748,70,2296
+Equatorial Guinea Driver Area Impact Primary	16996
 Equipment Distribution Area	9123
 Ethiopia Policy Area	12184
 Ethiopia. SECTION2 Areas of Cooperation The Participants	4349
 Eti-Osa Local Government Area	3101
-Euro Area	2775
+Euro Area	2775,14460,268
+Euro Area and Canada	17235
+Euro Area. Domestically	17503
+Europe BAC Brikama Area Council BCC	16884
 European Economic Area	11119
 Evaluation Area Criteria Description Weight Score	13031
+Examining the Focus Areas	16861
 FOCUS AREAS	5245,3109
 FOCUS AREAS RECOMMENDED INITIATIVES N F1	11857
 FOCUS AREAS RECOMMENDED INITIATIVES TIMELINE RESPONSIBLE	11857
+FY26 Focus Area	16896
 Family Recreational Areas	14830
 Federal Democratic Republic of Ethiopia Practice Area	14015
 Financial Capability Priority Area Consumer Protection	940
 Financial Mail. Arena	13461
 Financing of Terrorism Common Monetary Area Centre	11134
-Focus Area	10964,170,771,1206,1345,1145,57,778
+Focus Area	10964,170,771,1206,1345,1145,57,778,486,27
 Focus Area Collaboration Key Enablers Challenges	14566
 Focus Area Constraints	15411
 Focus Area FCFA The Central Africa	969
@@ -370,10 +423,13 @@ GOVERNMENT LOCAL AREA NETWORK GRC	12253
 GOVERNMENT WIDE AREA NETWORKS Official Use	12253
 GUINEE SA AREEBA GUINEE	16623
 Galloway Road Watherson Residential Area Private	2776
+Gambia Banjul City Council Basse Area	16973
+Gambia EA Enumeration Area FCS Food	17285
 Game Management Areas	1988
 Gender Area Age	940
 Geographic Area	11252
 Geographic Area and Coverage	11252
+Goal Focus Area Goal Rationale SG	17116
 Good Governance Priority Area	970
 Good Governance and Citizens’ Rights Priority Area	970
 GovTech Enablers Index GovTech Focus Areas	10785
@@ -391,7 +447,8 @@ Government of Nigeria's Presidential Priority Areas	12308
 Government-Wide Area Network	2256
 Government-Wide Area Network A Government	13346
 Grand Bois Mediclinic and Bramsthan Area Health	14773
-Greater Banjul Area	332,932,7756,1090,1975,2175,1060
+Greater Banjul Area	332,932,7756,1090,1975,2175,1060,1566,40,40,284,77,5,47
+Greater Banjul Area Electricity Improvement Project	16929
 Greater Maputo Area	12275
 Green Economic Growth Priority Area	970
 Grill Area Design	11134
@@ -399,7 +456,7 @@ Growth Priority Area	970
 Gwarzo Local Government Area	12051
 H. Findings Summary Compliance Area	13381
 HDAs. Zone Distribution Area	9123
-Harvested Area	2775
+Harvested Area	2775,14268
 Heavy Industrial Area P. O. Box	3386
 High Impact Research Areas	1554
 High-Impact Research Areas	1554
@@ -415,12 +472,14 @@ III. AREAS OF CONCERN AND RECOMMENDATIONS	14149,1
 IMPACT AREA RIGHT OF WAY	11857
 INATRO's Technical Area Administrator	12275
 INSTITUTIONAL DATA Contributing Practice Areas Practice	11855
-INSTITUTIONAL DATA Practice Area	969,315,9545,551,145,1807,2159,130
+INSTITUTIONAL DATA Practice Area	969,315,9545,551,145,1807,2159,130,1275,26
 INTERVENTION FRAMEWORK Priority Area	970
 ITU Area Office for Southern Africa	12695
 Identify Areas	12389
 Identify Areas Allocated	12389
+Identify and Analyze High-risk Areas	17011
 Identifying Focus Areas and Gaps	7588
+Identifying Targeted Areas of Subsequent ICT4D Action	16861
 Ife South Local Government Area	10254
 Impact Area Manager	1009
 Implementation Impact Area	1988
@@ -585,6 +644,8 @@ Kampala Metropolitan Police Area	315
 Kampala Metropolitan Police Area. The CCTV	315
 Kauto Administrative Area	8213
 Kazungula District’s Game Management Area	3662
+Key Action Areas	16975
+Key Area of Action Action Points Measures	16963
 Key Areas	12717
 Key Arena for Innovation and Competition	7334
 Key Audit Areas and Findings	13420
@@ -592,9 +653,13 @@ Key Discussion Areas	16371
 Key Fintech Focus Areas The Bank	11134
 Key Focus Areas	11134,54
 Key Focus Areas The Key Focus	11188
+Key Focus Areas and Interventions	16985
+Key Focus Areas and Interventions Under Institutional	16985
 Key Focus Areas and Sectors Artificial Intelligence	1814
 Key Focus Areas of NST2	14997
 Key Focus Areas of NST2 The Economic	14997
+Key Marine and Coastal Protected Areas	17114
+Key Marine and Coastal Protected Areas Liberia	17114
 Key Outcomes and Areas of Cooperation Discussions	13170
 Key Performance Areas	5676
 Key Performance Areas Consumer	5676
@@ -610,19 +675,24 @@ Kingdom of Eswatini. Key Areas Supported	11131
 Kontagora Local Government Area	14394
 Kosofe Local Government Area	10742
 KwaZulu-Natal's Disease Management Area	2626
+LAN Local Area Network LDC Least	16885
 LAN Local Area Network LMS Learning	15604
 LAND TENURE CATEGORY AREA AND MAIN	15473
 LDCs AND FCV-AFFECTED AREAS	11572
+LESSONS INFORMING THE AREAS OF STRATEGIC	16885
+LGA Local Government Area LCS Livelihood	17285
 LOCAL AREA NETWORKS LCC	12253
 Labor Contributing Practice Areas Education Fragile	11525
 Lagos Metropolitan Area Transport Authority	11469
-Land Area	12395
+Land Area	12395,4762
 Land Cover of Selected Study Areas	15129
+Lands and Surveys ECOWAN ECOWAS Wide Area	16926
 Last Mile Connectivity for Rural Area and National	340
 Leaf Area Index	11334
 Learning Area	12914
 Lere Local Government Area	14706
 Lere Local Government Area of Kaduna	14706
+Lessons Informing the Areas of Strategic Intervention	16885
 Leveraging the African Continental Free Trade Area	11140
 Lib. Secretariat Sect. Local Government Area	11129
 Livestock Sector Intervention Area A7	14818
@@ -647,8 +717,9 @@ Local Area Networks LBDA Lake Basin	6946
 Local Area Plan	1867,121
 Local Area Plans	1778
 Local Area Plans Sanitation and Kalumbila	1988
-Local Government Area	9110,944,1075
-Local Government Areas	3718,1313,2113,1903,63,939,1080,891,31
+Local Government Area	9110,944,1075,5756,400
+Local Government Areas	3718,1313,2113,1903,63,939,1080,891,31,4823,11,66,277,57
+Local Government Areas of Kanifing and Brikama	16874
 Local Government Areas of Osun State. Delimitation	10049
 Local Governments and Local Council Development Areas	3101
 Local Loop Wide Area Network World	13290
@@ -663,25 +734,31 @@ MOUNTAIN AREAS ARE PROJECT BASED AREAS-MAHOOANA	12739
 Magano Naimbale Layout and Design Arnaud Arends	13108
 Main Areas of Additional Support and Timing Time	11855
 Main Distribution Area	9123
+Major Cost Areas	17116
 Mar-2025 Practice Area	2291
 Mar-2028 Practice Area	15782
 Marine Protected Areas	1264,13554
 Marine and Coastal Biological Diversity and Protected Areas	14845
+Marine and Coastal Protected Areas	17114
 May-2027. Practice Area	13734
 Mbezi Industrial Area	2250,330
 Mechanism APL Adaptable Program Loan AReg4DT	1264
 Meheba Local Area Plan	1867
+Metro Area Network	16872
 Metro Area Network MB	14879
 Minister of State for Social Area	10768
 Ministry Local Area Network	12597
 Ministry of Finance Practice Area	16293
 Ministry of Health's Government Wide Area Network	12141
+Ministry of Youths and Sports Arena	17011
 Ministry. Area	14934
 Mobile GWAN Government Wide Area Network	13346
 Model Area	12233
 Modernization of Refugee and Host Community Settlement Areas	1867
 Moving Area	14778
 Ms. Aretha Mare	7362
+Municipal Council Kerewan Area Council Kuntaur	16973
+Municipalities and Area Councils	16951
 Musuli Lane North Industrial Area	3386
 N AREAS	11857
 N AREAS AFFORDABILITY Incentivise OEMs	11857
@@ -692,10 +769,15 @@ N. FOCUS AREA RECOMMENDED INITIATIVES Timeline	11857
 NAP Policy Areas and Commitments Building	12987
 NAP Policy Areas and Envisaged Reforms Anti-Corruption	12987
 NIGCOMSAT FMW&H Aremu Ade A. Engr	11857
+NSPIP Implementation Area	16952
 NST2 Priority Area	14997
+NUMBER OF PLOTS AND PLOT AREA	17043
 Name of Staff Firm Area of Expertise Position	13037
+National Fiber Backbone and Metro Fiber Area	16872
+National Fiber Backbone and Metropolitan Area	16872
 National Key Result Areas	14965
 National System of Protected Areas	11586
+National Wildlife Conservation and Protected Area Management	17114
 Net Area	9781
 Network Area	4608,735,39,3371,4559,2,17,279,265,1037,67,16,141
 Network Area Framework TechAfrica News	5382
@@ -707,7 +789,7 @@ No. Key Area Details Indices Targets	11857
 No. of Area No. of Area Civil	15473
 Nutrition and Population Practice Area Eastern and Southern	11417
 OAU Convention. Areas for Consideration	10841
-OBSTACLES D'AÉRODROME AERODROME OBSTACLES Zone Area	16552
+OBSTACLES D'AÉRODROME AERODROME OBSTACLES Zone Area	16552,454
 ONA One Network Area P2P Peer-to-Peer	13312,2
 OUTLOOK AND KEY FOCUS AREAS	10793
 Object Area	1161
@@ -723,13 +805,18 @@ Outcome Area	11905
 Outcome Areas	11905
 Overcome Areas of Underperformance	11218
 Overview Of Key Thematic Focus Areas	6936
+PDO Area RA PDO Indicators Labor	17458
+PLANTED AREA	17043
 PLOS One Browse Subject Areas	12231
 PLOS Subject Areas	12231
 POLICY AREAS AND ESSENTIAL COMPONENTS	12419
-POLICY FOCUS AREAS	14879
+POLICY FOCUS AREAS	14879,1993
+POLICY FOCUS AREAS INFORMING THE DESIGN	16883
+POLICY KEY ACTION AREAS	16872
+POLICY PRIORITIES AREAS	16951
 POLICY PRIORITY AREAS	958
 POPULATION IN URBAN AND RURAL AREAS	11572
-PRACTICE AREA	1264,603,1695,42,7164,649,143,345,3032,721,1,2,82,401
+PRACTICE AREA	1264,603,1695,42,7164,649,143,345,3032,721,1,2,82,401,805,509
 PRIORITY AREAS	418
 PS4R Area	10841
 PS4R Area PS4R	10841
@@ -744,24 +831,32 @@ Performance Outcome Areas	10984
 Phase II Country Practice Area	14888
 Philanthropic Aren't	38
 Pillars Area	14935
-Planted Area	2775
+Planted Area	2775,14268
 Pledges Aren't Enough	12227
 Police Northern Area	14760
 Policy Area	14022
+Policy Area Reforms Responsible Agencies Time	16996
 Policy Areas EVOBJ TBL Page	10779
 Policy Areas Fiscal Openness	11866
 Policy Areas Legislation	11873
 Policy Areas The Angola Development Policy	10779
 Policy Areas and Essential Components	12419
+Policy Focus Areas	16872,103
+Policy Focus Areas Informing	16883
+Policy Key Action Areas	16975
+Policy Key Action Areas Summary of Targets	16872
+Policy Key Action Areas The National	16975
 Policy Priority Areas	958
 Policy and Legal Framework. Thematic Area	12453,892
+Population Contributing Practice Areas Climate Change	16896,26
 Port Area	14736,24
 Port Area. Conformity Assessment	14736
 Postal Area	13081
 Postcode Area	11129
 Potential Research Questions and Priority Areas	12445
-Practice Area	1264,603,1695,42,7164,11,638,143,345,232,275,14,243,163,1744,334,66,577,105,1,2,82,289,112
+Practice Area	1264,603,1695,42,7164,11,638,143,345,232,275,14,243,163,1744,334,66,577,105,1,2,82,289,112,778,27,11,498
 Preferential Trade Area	13563
+Preparation of ToRs for Subject Area Specialist	17114
 Presidential Priorities Areas of President Bola Ahmed	12308
 Presidential Priority Areas	12308
 Principles Governance Legal Framework Priority Areas	21
@@ -783,30 +878,42 @@ Priority Area24	899
 Priority Areas	940,30,9187,2807,1958
 Priority Areas for Funding Resources	7548
 Priority Areas of Implementation Noting	21
+Priority Areas of Intervention for NCCD	17157
 Priority Awareness Areas	5676
 Priority Awareness Areas Consumer	5676
 Priority Human Settlements and Housing Development Areas	11224
 Priority6A.1reParsiority Areas	10157
 Private Network WAN Wide Area Network	15164
+Private Protected Areas	17140
 Private Sector THEMATIC AREA	12453
 Product GMAs Game Management Areas GRZ	1988
+Program Area	17470
 Programme Area	14945
 Programme Area Manager for Health Emergency Intelligence	15321
-Project Area	12253
+Project Area	12253,5188
+Project Area Intermediate Result Strategic	17441
+Project Area of Influence	17099,15
+Project Area. Each PAPJ	17441
 Project Areas	16638
 Project The Government-Wide Area Network	2256
+Proposed Protected Areas	17016,98
+Protect Areas	17369
 Protected Area Management and Investment Strategy	13060
-Protected Areas	11586
+Protected Areas	11586,5430,98,26
 Protected Areas The Global Economy	11586
 Protected Areas and Wild Fauna and Flora	14845
+Protected Forest Areas Network	17114
+Protecting Guinea-Bissau's Coastal and Urban Areas	17369
 Province Area District Municipality Description of Project	6832
 Public Parking Area Maintenance of Nihetay Bridge	15578
+REGION Region Parcels Parcel Area	17043
 REVIEW OF UNSERVED AREAS AND ACCESS	11857
 RSM-02 Estimating Cultivable Areas	15285
 Railways Key Result Area	14781
 Reclamation of Mined-out Areas	16511
 Recovery and Human Development Priority Area	970
 Reform Area	15147
+Region Total Area	16973
 Registration Area	14778
 Registration Area Centres	10054
 Registration Area Olobu	10049
@@ -819,24 +926,30 @@ Remote Areas Launched	3625
 Remote Areas of Malawi Very	12214
 Research Area Fig	1554
 Research Areas	12675
+Resettlement Area Liberian Law World Bank	17114
+Residential Area	17285
 Rest of Urban Areas	2775
-Result Area	13005
+Result Area	13005,4465
 Result Areas	16032
 Results Area	11905,4127
 Results Area Description	11905
-Results Areas	12176,3856
+Results Areas	12176,3856,1426
 Results Areas Baseline Period	11905
+Results Areas Developing	17505
 Results Areas Improving	11905
 Results Areas Increased	10870
+Results Areas RA1	17470
 Results Areas Strengthened	16032
 Results Areas Transformed	13058
+Riaba and Luba Metropolitan Area	16942
 Risk Area Description Potential Impact Recommended	15845
 Road Safety Commission Abuja Municipal Area	11129
 Rural Area	11129
 Rural Area Information Technology Broadband Network	14621
 Rural Arears and Capacity Building	15518
-Rural Areas	6422,3689,853,1431
+Rural Areas	6422,3689,853,1431,4466,114,275
 Rural Areas Figure	10763
+Rural Areas Liberia	16876
 Rural Areas Project	15518
 Rural Areas Table	10763
 Rural Areas Under Digital Transformation Project	3770
@@ -847,11 +960,15 @@ Rural Development Areas. Improve Agricultural Services	12945
 Ruweng Administrative Area of Unity State	3583
 SADC Free Trade Area	10169
 SAN Storage Area Network SDD Solid-State	13185
+SCOPE AND COVERAGE AREAS	16885
 SDG Area Weight Nutrition Any	15244
 SECTION2 Areas ofCooperation The Participants	4301
+SG Strategic Objective Key Activity Area	17116
 SLTR Area	11954
 SP Area Program Name Ministry	10985
+STRATEGIC ASSESSMENT AND FOCUS AREAS	16968
 STRATEGY Focus Area	11131
+SUBJECT AREA THE FOCUS AREAS	16883
 SUDAN One Net Area	9781
 SUMMARY OF KEY POLICY FOCUS AREAS	14879
 SUMMARY OF THE FOUR THEMATIC AREAS	13310
@@ -868,8 +985,11 @@ Scope Policy Area	12235
 Sector Priority Area	14997
 Security and Cybersecurity Controls Control Area Description	6432
 Segmentation of Government Wide Area Network	12453,892
+Selection of Enumeration Areas	17285
 Sep-2021. Practice Area	761
 Sep-2026. Practice Area	16398
+Service Areas	16978
+Service Areas The Commission	16978
 Service Delivery Thematic Area	11951
 Service Local Area LAN	12364
 Six Priority Areas Enablers	1204
@@ -878,8 +998,10 @@ Software Defined Wide Area Network	5444
 Software-Defined Wide Area Network	7026
 Software-Defined Wide Area Network SFP Small	13185
 Software-Defined Wide Area Networks	2755
+Solution Area Specific Recommendations Lead Actors	17260
 Sonia Arenaza Chipa	12048
 Spatial Action Areas NSDF National Spatial	11261
+Special Management Areas	17114
 Standard. Every Local Government Area	11129
 States and Local Government Areas	11129
 States and Local Government Areas. Delineation of Postcode	11129
@@ -892,28 +1014,39 @@ Strategic Objectives Deploy Experimental Innovation Areas	14566
 Strategic Plan’s Key Result Areas	13005
 Strategy and Priority Areas	14409
 Strategy and Priority Areas CHAPTER THIRTEEN	14409
+Stratified Area Estimator Analysis de SEPAL. Para	16875
+Stratified Area Estimator Design	16875
 Study Area and Climate Pattern	12614
 Sudan Practice Area	14954
+Summary of Recommended Solutions Solution Area Specific	17260
+Summary of Targeted Areas	16975
 Sunyani Traditional Area	16511
 Supervision Area	6938
 Supervisor Area	14778
+Supervisory Area Maps	16921
+Supervisory Area Maps and District Boundary Maps	16921
 Surrounding Maritime Areas	14742
 System Information Coverage Area	736
 THEMATIC AREA	12453
+THEMATIC AREAS Academic	17287
 TRENDS AND RISK AREAS	8354
 Target Results Area	16032
 Tax Debt Priority Area Coordinator	12162
 Tax Online Service Area	12282
+Teachers LAN Local Area Network LAT	16852
 Tema Heavy Industrial Area	16511
 Thematic Area	12453,857,35
 Thematic Area Average Score	13310
 Thematic Area Average Score Policy and Legal	13310
+Thematic Area Number of Incidents Percentage	16970
+Thematic Areas	17037
+Thematic Policy Focus Areas	16872
 Topic Area Immediate	6832
 Trade Area	4126,2218,1178,1733,1221,5384
 Trade Area AFD French Development Agency	10841
 Trade Area AI Artificial Intelligence AIF	14997
 Trade Area AI Artiﬁcial Intelligence API	12674
-Trade Area AfDB African Development Bank	13731
+Trade Area AfDB African Development Bank	13731,3504
 Trade Area CCPC Competition and Consumer Protection	12376
 Trade for All Policy Areas	13382
 Traffic Management for Protected Areas	1132
@@ -925,15 +1058,18 @@ UK and Euro Area	11131
 UNDERSERVED AREAS	11857
 UNDERSERVED AREAS Table	11857
 UNDP Malawi Area	13080,15
+UNIQUE POLICY AREAS INFORMING THIS STRATEGIC	16884
 URBAN AND RURAL AREAS	11572
+URBAN AREAS	16892
 USG Global Health MOU Program Areas	6934
 Under Focus Area	11525,3363
 Under Results Area	11905
-Underserved Areas	9924,4725
+Underserved Areas	9924,4725,2234,377
 Unified Upper Area Control	14409
 Union KPA Key Priority Area KYC	12663
+Unique Policy Areas Informing	16884
 Urban Area	11129
-Urban Areas	2775,7988
+Urban Areas	2775,7988,6104
 Urban Areas Figure	10763
 Verification Area	14778
 Virtual Local Area Network	15512
@@ -948,12 +1084,14 @@ Water Development and Area Plans	1988
 Western Area	8820
 Western Area Urban District	8903
 White Group Area	11245
-Wide Area Network	1783,11139,55,28,305,36,610,902,618
+Wide Area Network	1783,11139,55,28,305,36,610,902,618,1447
+Wide Area Network Currently	16923
 Wide Area Network HISP Health Information	12917
 Wide Area Network HQ Headquarters ICAO	13005
 Wide Area Networks	14860
 Wireless Local Area Network	3386,12126
 Wireless Local Area Network Glossaire CMMI	15512
+Wologizi Protected Area	16970
 Workshop Participants Focus Areas Output Outcome	6946
 Zambia Police Service Local Area Network	12462
 Zimbabwe. This Priority Area	970

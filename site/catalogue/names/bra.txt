@@ -84,7 +84,7 @@ BRAVILEX INTERNATIONAL Co. LIMITED Data Processor	7167
 BRAVO	16552
 BRAYO CROWN SHOP Data Processor INST-7488091C75C	7167
 BRAZAVILLE	4209
-BRAZIL	2775
+BRAZIL	2775,14508
 BRAZZAVILLE	4209,11186,10,21,13,16,10,23,36,34,57,45,32,50,2,36,6,62,43,10,138,8,53,57,20,70,27,93,46,12,31,96
 BRAZZAVILLE B.P	16552
 BRAZZAVILLE MAYA-MAYA VOR	16552
@@ -100,8 +100,10 @@ BRationality	5349
 BUSY BRAINS GROUP OF SCHOOLS LTD	7167
 Banco Bradesco	5618
 Bank Branch	2115
+Bank Branch Management	17235
 Bank of China Johannesburg Branch	10618
 Bankim Brahmbhatt	5033
+Banks’ Branching	17236
 Bemardo Braima Mané	11544
 Benjamin Bratton	4448
 Bernard Brain Cudjoe	3358
@@ -156,6 +158,7 @@ Brahim BOUTKHIL	15507
 Brahim Bouabid	547,3,18,20
 Brahim El Mazned	8891
 Brahim Ghemired	15608
+Brahim Hamed Procurement Specialist Procurement EAWRU	16922
 Brahim MERAD	15767
 Brahim MERAD ANNEXE	15933
 Brahim Mezned	8891
@@ -169,11 +172,13 @@ Brahima Konaté. Ingénieur	15264
 Brahima TRAORE	8321
 Braile	15392
 Brailey	7886
-Braille	899,8108,760,219,690,1299,63,193,430,59,196,117,437,163,1109,1,781,170
+Braille	899,8108,760,219,690,1299,63,193,430,59,196,117,437,163,1109,1,781,170,1193,227,182
 Braille One Reader	13633
+Braille and Easy	17296
 Braille-written	15340
 Braille. Igualmente	15694
 Braille. This Manifesto	13033
+Braima Camará	17062
 Braima CamaÉ	11544
 Brain	4126,500,2525,3989,412
 Brain Builders Youth Development Initiative	6705
@@ -196,7 +201,7 @@ Brainshare Technologies	3862
 Brak and Al-Abrak	1849
 Brakacayaasha Gudaha	15047
 Brake	15027
-Braking	13385
+Braking	13385,3515
 Bralirwa and MTN Rwandacell PLC	14997
 Bram Fudzu	4775
 Bram Thuysbaert	10964
@@ -207,7 +212,7 @@ Branca	11373
 Branca Fim de Local	11373
 Branca Formato da Placa	11373
 Brancas Formato da Placa Rectangular III	11373
-Branch	571,21,3122,1182,328,309,287,1362,1941,2040,823,8,275,1,213,17,477,2148
+Branch	571,21,3122,1182,328,309,287,1362,1941,2040,823,8,275,1,213,17,477,2148,1824,287
 Branch AOP	11218
 Branch Appointment Booking System	2115,1085
 Branch Appointment Booking System DMO District	11986
@@ -232,19 +237,22 @@ Branche Aucun SYSCOHADA Cahier de Non	10875
 Branche Dispose	10875
 Branche Effectif Pourcentage	10875
 Branche Effectif Pourcentage Moyenn Effectif	10875
+Branche Electricité URL	17513
 Branche Inférieur	10875
 Branche Micro- Petite Moyenne Grande Non	10875
 Branche Oui Non Non	10875
 Branchements	3396,6628,5518
 Branchements XXV Programme Résultats	3396
-Branches	5533,3524,1769,1804,2130,237
+Branches	5533,3524,1769,1804,2130,237,1866
 Branches Affilié Non	10875
 Branches Capital	10875
+Branches Debt	16968
 Branches Effectif Pourcentage Activités	10875
+Branches On-time	16968
 Branches Police Main Command	14760
 Branches and Units	14760
 Branching Unit	16716
-Brand	5247,2719,289,1200,514,1048,114,753,321,4436
+Brand	5247,2719,289,1200,514,1048,114,753,321,4436,293,9
 Brand Africa	8919
 Brand Equity	6946
 Brand Equity The Authority	6946
@@ -253,6 +261,7 @@ Brand Finance About the Global Innovation Index	12487
 Brand Management	13053
 Brand Name	6946,7937
 Brand Namibia	12982
+Brand Protection	17156
 Brand Strategy	15476
 Brand Trust	3487
 Brand Zimbabwe	13474,211
@@ -280,6 +289,7 @@ Brandon Wanguep	10983
 Brands	10393
 Brandsen	2096
 Brandt	9128,3252,3979
+Brandão-Marques	17503
 Branice Kazira	16679
 Brankamp and Gl	12227
 Branqueamento de Capitais	11386,18,279,3676
@@ -289,7 +299,7 @@ Braol	12478
 Brarudi	13358
 Bras Soy Peon	15363
 Brasam Investments	7167
-Brasil	899,802,1115,263,100,340,1873,1317,1810,1280,973,300,66,238,18,38,24,5,12,45,1,8,17,20,5,114,304,7,342,474,2092,478,125
+Brasil	899,802,1115,263,100,340,1873,1317,1810,1280,973,300,66,238,18,38,24,5,12,45,1,8,17,20,5,114,304,7,342,474,2092,478,125,1360,155,317
 Brasil BCC Central Bank	11994
 Brasil Em	2816
 Brasil Mauro Vieira Ministro	11393
@@ -300,6 +310,7 @@ Brasil. Em	8760
 Brasil. JurídicoAI. Disponível	2816
 Brasil. Trata-se	8179
 Brasilia	10764,80,719,1532
+Brasilia and Amman	16902
 Brass	2277,33,1068,3637,6258
 Brassage	747
 Brassilive David Razanantsoa	14644
@@ -321,7 +332,7 @@ Braunstein M	10784
 Brause	11028
 Brause and Blank	8460
 Brautigam	2518,2389
-Brava	1265,683,3381,2619,4007,3389,44,115,17,174,198,64,243
+Brava	1265,683,3381,2619,4007,3389,44,115,17,174,198,64,243,1084
 Brava Island	15983
 Brava URL	15956
 Brava and Santiago North	11955
@@ -339,7 +350,7 @@ Brayne	7966
 Braz-	15423,135,481,61
 Braz- Département de Brazzaville	15660
 Brazaville	15724,453
-Brazil	124,20,82,423,362,208,594,38,251,15,658,61,239,104,212,260,189,419,170,19,533,61,82,128,3,111,222,14,306,154,299,25,26,130,71,55,24,81,59,103,1,72,143,24,45,22,186,120,54,46,63,20,122,109,609,58,35,6,119,60,42,96,80,154,275,213,30,93,356,82,227,30,187,13,41,17,61,6,77,56,20,1,1,126,2,3,17,28,27,214,44,57,38,46,285,15,13,2,16,24,30,3,249,130,67,373,29,132,2,116,215,2,2,1412,171,574,9,19,1,18,145,50
+Brazil	124,20,82,423,362,208,594,38,251,15,658,61,239,104,212,260,189,419,170,19,533,61,82,128,3,111,222,14,306,154,299,25,26,130,71,55,24,81,59,103,1,72,143,24,45,22,186,120,54,46,63,20,122,109,609,58,35,6,119,60,42,96,80,154,275,213,30,93,356,82,227,30,187,13,41,17,61,6,77,56,20,1,1,126,2,3,17,28,27,214,44,57,38,46,285,15,13,2,16,24,30,3,249,130,67,373,29,132,2,116,215,2,2,1412,171,574,9,19,1,18,145,50,1154,75,293
 Brazil Chile Uruguay Colombia Peru Costa	11135
 Brazil Croatia Korea Chile Poland Vietnam	7655
 Brazil Daniel Berhanie Enyew	12246
@@ -354,7 +365,7 @@ Brazil and Colombia. Rwanda	8449
 Brazil and India	3391,1733,420,1128
 Brazil and India. The Bank	3318
 Brazil and Indonesia. Components	649
-Brazil and Mexico	7602
+Brazil and Mexico	7602,9633
 Brazil and Mexico. Even	4972
 Brazil and Pakistan	10846
 Brazil and Poland	7428
@@ -383,7 +394,8 @@ Brazil. Designed	11439
 Brazil. For the Tech Diplomacy Global Institute	5454
 Brazil. Pix	11138
 Brazil. SAIL	124
-Brazilian	1219,874,682,405,602,1260,2,322,1466,388,428,957,762,272,193,1301,23,1005,85,133,437,2897
+Brazil. Technical	16949
+Brazilian	1219,874,682,405,602,1260,2,322,1466,388,428,957,762,272,193,1301,23,1005,85,133,437,2897,1259
 Brazilian AI	11135
 Brazilian Central Bank	9832,1175
 Brazilian Debate	11028
@@ -402,6 +414,7 @@ Brazilians	9832
 Brazillian and South African G20 Presidencies	5803
 Brazil’s AI-powered SISAM	7648
 Brazil’s Artificial Intelligence Observatory	11135
+Brazil’s Cadastro Unico and Montenegro’s SWIS	16867
 Brazil’s General Law	1243
 Brazil’s ITI	11120
 Brazil’s Lei Geral de Protegdo de Dados	6936
@@ -409,9 +422,10 @@ Brazil’s PIX	10929
 Brazil’s Pará	5367
 Brazil’s Pix	4970,254,476
 Brazil’s Pix Forum	11006,1
+Brazil’s Poupatempo	16949
 Brazil’s Technology Ambassador	7428
 Brazil’s.br	4690
-Brazing	13385
+Brazing	13385,3515
 Brazza	1876,3203,11013,1,134,47,101,62,19,30
 Brazza Mall	1299
 Brazza and Kinshasa	15372
@@ -534,6 +548,7 @@ COULIBALY Brahima	2342
 CPLP. Brazil and Portugal	10188
 CTR BRAZZAVILLE	16552
 CTs. Brazil’s Bolsa Familia	15663
+CVM BRAZZAVILLE	17006
 Cabo Brazzaville	16195
 Cabo Verde Brasão Bandeira Tecnologias de Informação	16325
 Capacitating IS Branch	11986
@@ -550,8 +565,11 @@ Civic Services Branch	11274
 Civil Aviation Branch	12889
 Club de Brazzaville	1828
 Clément MOUAMBA Brazzaville	15488
+Colombia and Brazil	16996
 Com Branch External	14781
 Commercial Bank Branches ATMs	1828
+Commercial Banks Branch Network Commercial	17235
+Commercial Banks Network County Branches Windows	17235
 Commune de Brazzaville	15615
 Communication Branch CP	14760
 Communications Branch	14760
@@ -578,6 +596,7 @@ Dangote Cement Brazzaville	16177
 Deutsche Bank AG London Branch	9796
 Deutsche Bank AG Zurich Branch	9796
 Director Global Brand	14405
+Director of Brand and Public Relations	17467
 Divisional and Branch Training Units	14760
 Divisions and Branches	14760
 Djiri Brazzaville. Date	16367
@@ -615,21 +634,25 @@ Etat Brazzaville	15395
 European Commission and Brazil	9067
 Examining Brazil	5366
 Exceptées Brazzaville	15685
-Executive Branch	5994,8047,5
+Executive Branch	5994,8047,5,2795,535,18
 Executive Branch Tunji-Ojo	4102
+Executive Branch of Government	16835,86
 Executive Branch. For the LTA	14354
+Executive Branchof the Government	16833
 F SOC DES BRASSERIES DE GUINEE	16623
 FCBVYAYX ASECNA Aerodrome of Brazzaville	16552
 FINANCE BRANCH	9398
 FIR Brazzaville	15455
 FMS and BRA	14874
 Fabrica de Start-ups Brasil	11546
+Federative Republic of Brazil	17428
 Ferme Agropastorale de N'Djili Brasserie	15682
 Feux Brazza	1876
 Forbes Brasil	2816
 Foreign Company Branch	14891
 Foreword Brahima Sanou BDT	26,1,1
 Founder and CEO of Intron. At Branch International	11497
+Frente Popular Brasil	17020
 Fábrica de Startups Brasil	11533
 G7-IAP-statement-03-29-23.pdf Bradford	11154
 GDC-submission APC.pdf. Google Scholar Braun	11028
@@ -639,6 +662,7 @@ George Braziller	2948
 Global South. As Bradford	11050
 Google Scholar Brause	11028
 Government Branch	1802,10382,51
+Government of Brazil	17017
 Grand Bois Mediclinic and Bramsthan Area Health	14773
 GÉNÉRAL Département de Brazzaville BRAZZA HOSPITALITY GROUP	16177
 H. and Branch	12090
@@ -667,6 +691,7 @@ Innovation and Knowledge Development Branch of UNCTAD	12786
 Institut de Branding	16545
 Instituto Brasileiro de Administração	10750
 Instituto Brasileiro de Defesa	12366
+Intelectuais de Binhan Brassa	17020
 Internet. BrainSAT	6980
 Ivoire. Branche	9028
 J.B. Branch	8994
@@ -674,6 +699,8 @@ JOÃO MANUEL GONÇALVES LOURENÇO. LIVRO BRANCO	11396
 JUDICIAL BRANCHES	3861
 Johannesburg Branch	12252
 Judicial Branches	3861
+Judiciary Branch	16943
+Judiciary Branch of Liberia	17256
 Já Júlia Bragança	9501
 Kayla Brandt	12478
 Kerry Payments Brazzaville SARLU	6684
@@ -711,7 +738,9 @@ M20000000170390J BRASSERIES DU BRASCO CONGO	7346
 MFWA Sulemana Braimah	9960
 Marco Brandstaetter	6238
 Marien NGOUABI de Brazzaville	15685
+Mark Branchflower	17297
 Marketing Branding and Value Addition	14818
+Marketing and Branding Strategy Action Plan	17105
 Matipa Brave Machangu	13688
 Matthias Braun	680
 Mauritius Brain Gain Initiative	14824
@@ -728,6 +757,7 @@ Modification Département de Brazzaville Année	15524
 Mohamed Benkaddour Abderrahim Laabaid Brahim Zidouh	8891
 Moungali Brazzaville	15848
 Mr. Philippe Branchat	14021
+Mr. Raphael BRIGANDI and Ms. Enya BRAUN	16888
 Mr. Touré Brahima	10508
 Mwango Brain	9259,1100
 Météo Brazzaville	16242
@@ -736,11 +766,14 @@ NBA Osun State Branches	10049
 NIN-based KYC. In Brazil	7008
 NW de Brazzaville	16552
 Naira Branch Wallets An FI	11861
+National Branding	17260
 National Society Branches	12977
 News Brazzaville	7660
 News Former Branch Kenya CEO Rose	3621,343,1408,102,1054
 Next Article Bravehearts Ladies	4172
 Nigeria. India and Brazil	11138
+Number of Branches	17236
+Number of Branches and Agencies	17236
 O Brasil	2816
 O Livro Branco	11072,324,1
 Oliver Braedt	15473
@@ -770,6 +803,7 @@ Policy BEE Publications ITWeb Africa Brainstorm	10735,2132,1,1,3923,1,1,1
 Poto-Poto Brazzaville	15426,987
 President Brad Smith	2523
 President Cyril Ramaphosa and Microsoft President Brad	4950
+Primeiro-Ministro Braima Camará-	17034
 Private Branch Exchange	762
 Prodigi Connect and BrailleNote Reader	13198
 Professor Anu Bradford	11154
@@ -785,7 +819,8 @@ Rank Brand Industry	11884,321
 Rank Brand Industry Brand	11885
 Red Cross Branch	12977
 Reduce the Brain Drain of ICT Skilled	15679
-Ribeira Brava	15388
+Research and Statistics Department Banks’ Branching	17236
+Ribeira Brava	15388,1895
 Richard Branson	560
 Rondebosch and Brackenfell	9617
 Rosário Teixeira de Alva Sequeira Bragança. SECRETÁRIO	11391
@@ -803,6 +838,7 @@ Satellite Analysis Branch	15907
 Sendova and Bravo2024	8283
 Shenzhen Branch	302,9
 Shenzhen Branch of Bank of China	303,34,7252
+Sign Language and Braille Education	17295
 Simbisa Brands	6996
 Siteki Branch	12977
 Smart Cities. CAPACITAÇÃO E BRAIN GAIN	15684
@@ -838,7 +874,7 @@ Tala and Branch	12231
 Tara Brady	5735,1,1
 Techfolio. Branch Uses Artificial Intelligence	11994
 Technician Branch	13361
-Techno Brain	5475,19
+Techno Brain	5475,19,11499
 Techno Brain Global FZ LLC	3700
 Teraco Brackenfell	9617
 Through the Brand Namibia	12982
@@ -851,6 +887,7 @@ Trade Facilitation Branch	13042
 Traffic Branch	14781
 Traffic Branch The Traffic Branch	14760
 Traffic Branch WACP	14760
+Trust Bank Ltd. Branches	17437
 Trusted Brand	3487
 U.S. Targets Brazil’s Payments Platform Pix	4970
 UMc Brazil Americas South America Sao	10840
@@ -869,6 +906,7 @@ University of Bradford	6946,3389
 Université Marien NGOUABI de Brazzaville	15685
 Unión Internacional de Unión Internacional de Brazil Union	11563
 V de Brazzaville	15799
+Voluntary National Review Women’s Branch	16973
 W ACC BRAZZAVILLE CONTROLE	16552
 W FIS BRAZZAVILLE INFORMATION	16552
 W TWR BRAZZAVILLE TOUR	16552
@@ -877,6 +915,7 @@ Water Resources Branch	12889
 William Bran	16367
 William Marion BRANHAM. Bacongo	15744
 William Marrion BRANHAM	15848
+Women’s Branch of The Inter-Party Committee	16973
 Y TAKRAF GUINEA BRANCH CBG SUCC	16623
 Yema Brave Rosie	16100
 Yohan Bradley	15524

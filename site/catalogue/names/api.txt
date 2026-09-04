@@ -1,5 +1,6 @@
 ABBREVIATIONS ADR Adverse Drug Reaction API	9855
 ACRONYMS ACRONYMS AI AIA API DCI	11156
+ACRONYMS AND ABBREVIATIONS API Application Programming	17149
 AML Anti-Money Laundering API Application Program	13312,2
 ANOR ANTIC API APICCAM ARMP ARSEL	15542
 API Application Programming Interface	11944
@@ -100,7 +101,9 @@ APITRE UNIOUE ARTICLE	15348
 APIX-SA	7106
 APIs Close	6387
 APIs Elastic	13676
+APIs LISGIS	17116
 APIs National	4848
+APIs and WIS2.0	16947
 APIs. API	15161
 APIs. APIs	15590
 APIs. Driving	4528,7984
@@ -126,6 +129,7 @@ Advanced Encryption Standard API Application Programming	11952
 African API	16809
 Afriex’s B2B Payments API	10223
 Aid Management Platform API	5244
+Ajout des APIs	17484
 All API	12047
 American National Standards Institute API Application	10775
 Analyse des API	15936
@@ -151,7 +155,9 @@ Aquaculture and Apiculture P1	5636
 Area AML Anti-Money Laundering API Application	12663
 Artificial Intelligence API	14879
 Attendance Rate API	15630
+Automated Dissemination Develop APIs	17149
 B2B APIs	767
+Backend APIs	17437
 Bank AI Artificial Intelligence API Application	7548
 Bank Group AI Artificial Intelligence API	13042
 Biometrics APIs	12000
@@ -191,6 +197,8 @@ EMIS Schools Stats API	15630
 Ecobank’s APIs	8341
 Enrollment Rates API	15630
 Establish API	11133
+Europe API	16872
+Excel and APIs	17149
 Expand Secure APIs	14997
 Expérience API Government Platforms	12043
 External API	11952
@@ -212,6 +220,7 @@ Gemini API and Google AI Studio	13461
 GitHub API	12478
 GovStack Digital registries BB Data API template-1.3.0.json	6423
 Government APIs	8449
+Hierarchy Process AI Aridity Index API	17157
 I. API Gateway	15161
 IATI Datastore API	6982
 ID APIs	4911
@@ -223,6 +232,7 @@ Inclusion API	14997
 Informatique Médicale API Application Programming Interface	13306
 Integration and API Requirements	13037
 Intelligence AML Anti Money Laundering API	14674
+IoT and APIs	16968
 JSON API	7885
 JSON JSON API	9480
 JSON. Une API	12024
@@ -263,14 +273,17 @@ Order of APIs Reorganised	6423
 PSP API. The IPS	12269,1
 PeeringDB API	9442
 Percentage of API	13005
+Plan and Budget API Application Programming Interface	16949
 Provide APIs	6423
 Pulse API	15166
 Qualquer API	16321
 REST API	9480,2924,3896
 REST API Design Standards	11952
-REST APIs	7266
+REST APIs	7266,9673
+REST APIs. Using	16939
 RESTful API	9603
-RESTful APIs	6432,6711,42
+RESTful APIs	6432,6711,42,3739,15
+RESTful and API	17437
 RESTful. API Gateway	12419
 Reddit's Data API	13461
 Registry APIs	6423
@@ -297,11 +310,13 @@ Sécurité des Systèmes Numériques API Interface	15493
 Through the API	12490
 Trade Area AI Artiﬁcial Intelligence API	12674
 Truth API	9832
+Twilio API	17157
 Twitter API	8436
 URL API Endpoint Language Data Format	15714
 USSD and APIs	14997
 Une API	13306
 Unified API	5226,5983
+Use of APIs	16924
 Use of Open APIs All	6432
 VSDC API Specification Item Classification Codes	12454
 Vertex API	13461

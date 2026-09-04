@@ -55,6 +55,7 @@ CN TIPPEE	15411
 CN TIPPEE National Commission	15411
 CN TIPPEE Submitted	15411
 CN-MAEP	15936
+CN-REDD	16875
 CN-TIPPEE	1774,281,13356,100,7
 CN-TIPPEE Finalize	15411
 CN-TIPPEE M Done S Open	15411
@@ -63,6 +64,8 @@ CN-TIPPEE Maintain	15411
 CN-TIPPEE Secretary Permanent	15411
 CN-TIPPEE. The POM	15411
 CN3SA	16776
+CNACES National Commission	17458
+CNAES	17103
 CNAM Conseil National	16626
 CNAM Dépend	15936
 CNAM GS	15518
@@ -113,6 +116,7 @@ CNC. Novembre	15493
 CNC. OLIGUI NGUEMA	16037
 CNCERT	8277
 CNCFE	15526
+CNCP National Commission for Public Procurement CNRST	17458
 CNCSNPFTE	3396
 CND Convention	643
 CNDD-FDD	2859,3530,7206
@@ -133,7 +137,8 @@ CNDP. Il	8993
 CNDPC	9836,6339,207
 CNDPH	13442
 CNDPHB	13442
-CNDRA	14647
+CNDRA	14647,2196,173,100
+CNDRA2.Document	16843
 CNDRS	11109
 CNDSF	15526
 CNDSI	15936
@@ -145,20 +150,27 @@ CNDigit Nouveau	15936
 CNDigit. Le CNDigit	15936
 CNDigit.pdf Page	15936
 CNE AND ELECTORAL	9399
+CNE CNE	16898
 CNE Cadernos Eleitorais	10271
 CNE Comissão Nacional Eleitoral	10765,10
 CNE Commission	12201
 CNE DD063061-D0E2-4804-8778-73FA945E4D17	15694
 CNE Electoral Allocation of Seats Constituency	12201
 CNE Linha Gratuito	16141
+CNE Numero de Reuniones	16898
+CNE Pendiente Disponer	16898
 CNE Postado	10271
 CNE President	12201
+CNE Realización	16898
+CNE Resultado	16898
+CNE SEN	16898
 CNE and DGAPE	11909
 CNE and DGAPE. Notwithstanding	11909
 CNE and STAE	12201
 CNE-STAE	12201
 CNE. Artigo	15359
 CNE. ELECTION OBSERVATION AND PARTY AGENTS	12201
+CNE. II. SISTEMA ESTADÍSTICO NACIONAL	16898
 CNE. Publicado	16141
 CNE. The EU EOM	12201
 CNE. The Election Law	12201
@@ -171,9 +183,11 @@ CNECI Article	14431
 CNECI. Article	14431
 CNECI. Dans	14549
 CNECI. Il	14431
-CNEDOGE	1382,264,939,87,1537,2398
+CNEDOGE	1382,264,939,87,1537,2398,10298,37,48,315,43,39,5
 CNEDOGE DG Teodomiro Monsuy Eyi	2683
 CNEDOGE Director General Teodomiro Monsuy Eyi	2683
+CNEDOGE and INSESO	16942
+CNEDOGE. Artículo	16905
 CNEE. La Société de Patrimoine	16037
 CNEEPIP. Article	15439
 CNEF BEAC	10965
@@ -183,6 +197,8 @@ CNEF COBAC Promotion	10965
 CNEF COBAC Renforcement	10965
 CNEF Cameroun	11944
 CNEF Financial	10967
+CNEF Informational Note	16942
+CNEF Note	16942
 CNEF R	10965
 CNEF Stratégique	10965
 CNEF la Finance	10965
@@ -191,6 +207,7 @@ CNEF. Arbitration	10967
 CNEFOR	15376
 CNEFOR. Article	15376
 CNEFP	15526
+CNEFs	16942
 CNELEC	9226
 CNEPPS	11907
 CNERIB Nouveau	16103
@@ -234,7 +251,11 @@ CNI. Para	7466
 CNIA. Artigo	12823
 CNIA. CONSELHO DE MINISTROS Decreto	12823
 CNIAF	16047
-CNIAPGE	2585,1624,5315
+CNIAPGE	2585,1624,5315,7331,13,26,1,38,9,3,35,7,114,27,298
+CNIAPGE Organizes	16942
+CNIAPGE and INAP	16942
+CNIAPGE. Manuel Osa Nsue	16987
+CNIAPGE’s	16942
 CNIB-AES	5959
 CNIB-AES. Selon	5959
 CNIB. Aligned	3925
@@ -295,7 +316,7 @@ CNNIC Internet	11857
 CNOESP	15966
 CNOM. Cette	9224
 CNOM. Initiée	9224
-CNOPS	8891,2944
+CNOPS	8891,2944,5613
 CNOSC	16641
 CNOSCG	16641
 CNP-NZ	2377
@@ -356,7 +377,7 @@ CNRKR	13442
 CNRPS	10544
 CNRPT	16615,11
 CNRSIT	15591
-CNRST	12,725,1959,279,4695
+CNRST	12,725,1959,279,4695,9788
 CNR’s Secretariat	11900
 CNS Conseil	15961,659
 CNS LAW ADVOCATES LLP Data Controller	7167
@@ -403,7 +424,10 @@ CNSS. Tous	16007
 CNT ANRH SONELGAZ	16103
 CNT Comptes	15961
 CNT Guinée	16642
+CNT INEGE	16898
+CNT INEGE Resultado	16898
 CNT INMV CAQCE Lab M	16103
+CNT Informes	16898
 CNT M	16103
 CNT NA ISO	16103
 CNT NF EN	16103
@@ -414,6 +438,7 @@ CNT Portant	10812
 CNT URL	16642,65
 CNTDE	13721
 CNTEMAD	4047
+CNTGE	16996
 CNTIC	479
 CNTIPPEE	8441,7718
 CNTIPPEE National Commission for Works of Public Interest	15518
@@ -423,6 +448,8 @@ CNTS Centre National de Transfusion Sanguine COPIL	13306
 CNTS-CI	15936
 CNTS. Cette	13306
 CNTSCI Mobile	15936
+CNTTDT	16942
+CNTTDT Commission	16942
 CNU-DCl	15429
 CNUCC	14450
 CNUCED	5077,5744,2924,67,1662,4,15,90,1043
@@ -446,6 +473,7 @@ CRAPC MIPP CNT Révision CRAPC MIPP	16103
 Cabo Verde CNI	7466
 Caisse Nationale de CNPS Prévoyance Sociale	15936
 Caisse Nationale de Sécurité Sociale CNSS	737,15445
+Cambio Climático CN-REDD	16875
 Cameroon CNEF	10967
 Card Production Centers. Once the CNIB	10812
 Cartes CNI Notification	14480
@@ -454,10 +482,13 @@ Cartographie CNLS	15423
 Cartão Nacional de Identificação CNI	4415,1,1,1
 Cash-in Cash-out CNSI National Commission for Information	13312,2
 Central Africa Region AF CNSPP CSPM	15601
+Central CNE Consejo Nacional de Estadística COBAC	16898
 Centre Médico-Social CNTS	15685
+Centro de Formación Estadístico CNE	16898
 Ces CNSMO	11944
 Chaulagai CN	766
 China’s Internet Development. CNNIC. Available	8460
+Cn11s11mer	16851
 CnC Daystar BESS	11469
 CnC Nigeria DF	11469
 CnC Platform	11469
@@ -521,6 +552,7 @@ DECISIONS CNRCEP	998
 DGSN CNI	3090
 DISTRIBUTION ET REMISE DES CARTES CNI	14480
 Decentralised CNI	1258
+Deliberação da CNAES	17103
 Des CNIB	3396
 Designation and Protection of CNII Order	10721
 Designation and Protection of CNNI Order	10721
@@ -528,26 +560,38 @@ Despite the CNE	12201
 Directeur Général du CNECI	14431
 Directeur Général du CNIN	15759
 Directeur Général du CNRD	15685
+Director General de CNIAPGE	16945,35
+Directores Generales de CNEDOGE	16905
 Données Intégré National CNDSP Comité National	13341
 Développement CNLC Commission Nationale	15479
 ET DES ATTRIBUTIONS DU CNECI Article	14431
 ET DU CONTROLE DU CNECI Section	14431
 Effective Remedy CNE	12201
+El CNE	16898
+El CNEDOGE	16905
+El CNIAPGE	17128
+El Director General de CNIAPGE	16980
 Email Téléphone Numéro Impôt Numéro CNSS	15670
+Emergency Response Component CNDRA Centre for National	17114
 Entreprise du CNP	10367
 Estratégia de Comunicação da CNPD	1338
 Etat Réponse CNFA	998
 Ex CNC	10965
 Executive Order IN-4 Establish CNI Database	11857
 FCFA CNI	6674
+Financiero CNEF	16942
 Fonctions CNERIB Nouveau	16103
+Forestry Development Committee CNDRA Center for National	16843
 Fortes Técnica CNDHC Helena Gomes Alves	15694
 France's CNIL	4583,1606,6021
 G By CNBC Africa Published	8266
+Gambian CNIs	17156
 Gb CNA Storage	11209
 George Silundika Avenue Cnr. S. V	13420
 Get Kenya's Refugee Act Right. CNBC	12297
 Ghana. A CNPD	15856
+Guinea Ecuatorial CNEDOGE	16942
+HRMS. While CNIAPGE	16942
 Henri Sebgo du CNP-NZ	2377
 Homme CNP	15848
 I.3.1. Organes I.3.1.1. CNDigit Le Comité	15936
@@ -560,20 +604,26 @@ IN-1 Develop CNI Identify	11857
 IN-2 Develop CNI Develop	11857
 IN-2 Develop CNI Strategy IN-3 Facilitate	11857
 IN-4 Establish CNI	11857
+INAP and CNIAPGE	16942
+INAP and CNIAPGE. Re-evaluate	16942
+INEGE CNE	16898
 ITB and CNRC. Under	4542
 Industrie CAQCE Lab CNT NA ISO	16103
 Industrie CNI	13377
 Industrie CNS	10874
 Industrie INMV CAQCE Lab CNT ISO	16103
+Initiatives CNDRA Center for National Documents and Records	16860
 Interopérabilité CNaPS	14438
 Intervenção da CNPD	15385
+Japanese Government Special Budget CN	17101
+Junta Directiva de CNIAPGE	16987
 Komite CNIS	13323
 L'arrivée du CNEF	16446
 LIENS ENTRE LE CNSC ET	16621
 LIST OF ACRONYMS CNE National Election	11586
 La CNAM	15936
 La CNDH	16287
-La CNDP	547,3,18,20,596,1415,6394,5299,39
+La CNDP	547,3,18,20,596,1415,6394,5299,39,3149
 La CNDPC	9836
 La CNI	15936
 La CNIL	10821
@@ -689,6 +739,7 @@ Président du CNSP. Mais	2514
 Président du CNT	16700
 Prévoyance Sociale CNEF Comité National Economique	11944
 Príncipe CNPD RECEBEU A AGÊNCIA NACIONAL	3079
+Public Administration CNIAPGE	16942
 Périmètre CNI Etat Civil IDVS Outils	14480
 Périmètre SIECM PRÉ-ENRÔLEMENT PERSONNALISATION DES CNI	14480
 REALISE CNEA Dans	2966

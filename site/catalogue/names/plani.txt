@@ -1,3 +1,4 @@
+AFOGO INEGE Jefa de Servicio de Planificación	16875
 Aménagement Agricole Planifiées	8303
 Association Marocaine de Planification Familiale	8891
 CONTRACEPTION AVEC DES PRESTATAIRES DE PLANIFICATION	13300
@@ -6,9 +7,11 @@ Cellule de Planification	9553
 Central Ministry New Planification Economique Secrétariat	1284
 Chef du Département Planification Suivi-Evaluation	10876
 Chefs Services de Planification du Développement Local	16646
+Ciencia Dirección General de Planificación	16864
 Conformité Planifier	14537
 Conseil National de Planification	15542
-Consejo Nacional de Planificación	1701
+Consejo Nacional de Planificación	1701,15192
+Consejo Nacional de Planificación. Esta	16893
 Coordinación Sistema Nac. de Planificación	4209
 Células Sectoriales de Planificación	4209
 D. G DE PLANIFICACION Y PROGRAMACION	4209
@@ -18,17 +21,24 @@ DE LA PLANIFICATION	16175
 DE LA PLANIFICATION ET DE B	15999
 DE LA PLANIFICATION ET DU SUIVI-ÉVALUATION	10876
 DE LA PLANIFICATION ET I SECHON	15999
+DEL CONSEJO NACIONAL DE PLANIFICACIÓN Artículo	16893
 DELEGACIÓN DIRECTIVO COORDINAC. PLANIFICACIÓN CATASTRO	4209
 DEMANDE EN PLANIFICATION Pilule Injectables Implants	13300
 DU BUDGET ET DE LA PLANIFICATION	13334
+Departamento de Planificación	16893
 Direccao Nacional da Planificacao	574
+Dirección General de Planificación	16864,56
+Dirección de Planificación	16864,56
+Director General de Planificación	17215
 Direcção de Planificação	12788
 ERP Planification	7655
 EXPOSITION AUX MESSAGES SUR LA PLANIFICATION	13300
 Encargada de Planificación	6841
 Encargada de Planificación Excelentísima	1855
+Escolástica Nsa AKIEME Jefa de Servicio de Planificación	16898
 FINANZAS ECONOMIA Y PLANIFICACION CONTABILIDAD FINANCIERA	4209
 Fishing National Grant Planifiation	15500
+Formación Profesional Dirección General de Planificación	16920
 Gabinetes Regional de Planificação	11525
 Gabinetes de Planificao Regional	11525
 Gouvernement. Planification	15712
@@ -38,14 +48,19 @@ Institut International de Planification	14472
 Institut Malgache des Techniques de Planification	7725
 Institut Malgache des Techniques de Planification INSTAT	14472
 LA PLANIFICATION ET DE LA PROSPECTIVE	16381
+La Dirección General de Planificación	17321
 Le Service Planification	10876,4802
 Les Directions de Planification	15673
 MINISTERE DE LA PLANIFICATION ET	16001,98,76
 MINISTÈRE DE LA PLANIFICATION ET	16381
 MOYENNE. Planification	1679
+Ministerio de Planificación	16898,27
 Ministério da Planificação	2816
+Onguene Director General De Planificación	16920
+PLANIFICA CIÓN Y DIVERSIFICACIÓN ECONÓMICA AYUNTAMIENTO	17101
 PLANIFICACIÓN Y DESARROLLO ECONÓMICO	4209
 PLANIFICACIÓN Y DESARROLLO ECONÓMICO Centro Directivo	4209
+PLANIFICACIÓN Y DESARROLLO ECONÓMICO MINISTERIO	17101
 PLANIFICACIÓN Y DESARROLLO ECONÓMICO Servicio	4209
 PLANIFICATION	13341,3373
 PLANIFICATION DE LA FÉCONDITÉ Planification	13300
@@ -55,12 +70,27 @@ PLANIFICATION La Banque Centrale	13468
 PLANIFICAÇÃO E FINACIAMENTO	11561
 PRINCIPAIS ACTIVIDADES PLANIFICADAS	2816
 PRISE DE DÉCISION SUR LA PLANIFICATION	13300
+Pedro Esono Nse Director General de Planificación	16864
 PforR. VI.5. Planification	10876
 Phase Planification Déroulement Mise	14537
-Planificación	1701,154,2354,11269
-Planificación Nacional	1701,5140,1207,330,924,1059,126,3728
+Planificación	1701,154,2354,11269,1397,18,5,6,65,21,32,51,119,67,3,59,21
+Planificación Asistencia	16898
+Planificación Costo	16898
+Planificación DDDD	16898
+Planificación Indicador	16898
+Planificación Investigadores	16898
+Planificación MICL Ministerio de Interior	16898
+Planificación Nacional	1701,5140,1207,330,924,1059,126,3728,3199,1,7
 Planificación Nacional. Durante	8378
+Planificación Número	16898
+Planificación Porcentaje	16898
+Planificación Proporción	16898
 Planificación Sanitaria	4209
+Planificación Suma	16898
+Planificación Tablero	16898
+Planificación Tasas	16898
+Planificación Territorial Fernando EVUNA MBORO INDEFOR-AP	16875
+Planificación Volumen	16898
 Planificar	11381,1,67
 Planificateur	8269,6258
 Planificateur-aménageur	7670
@@ -102,8 +132,10 @@ REA MEDIDAS DE POLÍTICA Planificação	15694
 SIDA DIRECTION GENERALE DE LA PLANIFICATION	13306
 SRMNEA Planification	15711
 Service Planification	15678
-Sistema Nacional de Planificación	4209
+Sistema Nacional de Planificación	4209,12684
 Sistema Nacional de Planificación Territorial	1701
+Sistema Nacional de Planificación. El CONAP	16893
+Sistema Nacional de Planificación. Para	16893
 Sistema de Planificación	1701
 Société Civile. Le Conseil National de Planification	15542
 Subsector de Planificación	4209
@@ -117,3 +149,4 @@ VIII. PLANIFICATION ET SUIVI-ÉVALUATION VIII.1 Objectifs	10876
 VIII.4. Planification	10876
 VIII.4. Planification VIII.4.1 Planification	10876
 VIII.4.1 Planification	10876
+Vice-Ministro de Planificación	16925

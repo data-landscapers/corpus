@@ -70,6 +70,8 @@ C14 Insufficient	9237
 CANNON GENERAL INSURANCE	7167
 CANOPY INSURANCE BROKERS LTD Data Controller	7167
 CANOPY INSURANCE BROKERS LTD Data Processor	7167
+CBL Insurance Department	17138
+CBL’s Insurance Department	17235
 CENTAUR INSURANCE BROKERS LIMITED Data Controller	7167
 CHANCERY WRIGHT INSURANCE BROKERS Data Controller	7167
 CHANCERY WRIGHT INSURANCE BROKERS Data Processor	7167
@@ -85,6 +87,7 @@ Captive Insurers	15023
 Caractéristique Aménorrhée Abstinence Insusceptibilité	13300
 Caractéristique Diabète Hyper- Maladie Insuffisance Cancer	13300
 Card Insurance Scheme	13563
+Cash Insurance	17236
 Cash Value Insurance Contract	11233
 Centers Health Insurance Family Development Ambulance	15578
 Chartered Insurance Institute	14997
@@ -101,12 +104,17 @@ Community Based Health Insurance	4349,7897,87,2797
 Community- Based Health Insurance	12328
 Community-Based Health Insurance	4167,7453,626,87,2664,141
 Community-based Health Insurance	12370
+Company IMFC Liberia Insurance Commission IPS	17235
 Complete Solutions Insurance Brokers Limited Data	7167
 Comprehensive Health Insurance Benefit	15977
 Comprehensive Health Insurance Benefit Package for UHIS	15977
+Conductors of Insulated Cables This National Standard	16900
 Corporation for Deposit Insurance	14224
+Cost Insurance Freight	16935
 Cost Insurance and Freight CIT Corporate Income	14985
 Credit and Political Risk Insurance	11310
+Crop Insurance Schemes	17157
+Crop Insurance Schemes Raise	17157
 D.G DE DEPORTIVA REG. INSULAR REG	4209
 D.G SERVI. ELECT. R. INSULAR.- Concepto	4209
 D.G. R. INSULAR REG. CONT	4209
@@ -131,9 +139,12 @@ Deposit Insurance Fund. Together	14224
 Deposit Insurance Permanent Secre- Board	6938
 Deposit Insurance Scheme of Botswana	6938
 Deposit Insurance Scheme. Outcome	12701
+Deposit Insurance Unit	17138
 Description The Moroccan InsurTech	5921
+Disease Surveillance Network Insure	17157
 Disrupted Insulated Insulated Insulated Insulated Disrupted	16266
 Disrupted Insulated Insulated Mixed Insulated Insulated	16266
+Draft Insurance Commission Act	17235
 EAGLE AFRICA INSURANCE BROKERS KENYA LIMITED	7167
 ECOWAS Brown Card Insurance Scheme	14679
 ESTADO MAYOR MAYOR REG. INSULAR	4209
@@ -170,6 +181,7 @@ G10 Adoption of OCR Insurers	9237
 G12 Stakeholder Insurers	9237
 G15 Configuration Insurers	9237
 Gabonese Insured Person	15518
+Gambia Birth and Health Insurance Registration	16922
 Garoua Insuffisance	15542
 Gas Insulated Substation	12358
 General Insufficient	15604
@@ -194,6 +206,7 @@ Health Insurance Fund Care Pay Mobile	186
 Health Insurance Information System	629
 Health Insurance Management Authority NTBC National	13347
 Health Insurance Premium	14717
+Health Insurance Scheme NIN National Identification	16922
 Health Insurance Units	10865
 Health NHIA National Health Insurance Authority	15556
 Health R Immigration Insurance Scheme Service	15845
@@ -220,7 +233,9 @@ INSULINE HUMAINE	15930
 INSULINE ISOPHANE	15930
 INSULINE LISPRO	15930
 INSULINE LISPRO PROTAMINE	15930
+INSUOD UI	16857
 INSURANCE	14778,86,285
+INSURANCE BUILDING	17334
 INSURANCE PREMIUM TAX ON GENERAL INSURANCE	14843
 INSURANCE The Licensee	15149
 INSURERS ASSAR	15130
@@ -233,10 +248,12 @@ Inclusion Insurance M&E Pension Agriculture Finance	14997
 Inclusive Climate Insurance RSF	11469
 Increased Insurance	15130
 Indemnity and Insurance Rationale	8866
+Independent Insurance Commission	17138,97
 Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
 Insuf	15580
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156
+Insufficiency	16863
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
@@ -244,29 +261,37 @@ Insufficient ICT	14137
 Insufficient Inadequate Reduced	12241
 Insufficient Information	14647
 Insufficient Investment	15960
+Insufficient Lack of High Provide	16884
 Insufficient Lack of Inefficient	12241
+Insufficient Leads	17260
+Insufficient Legal and Policy Framework	16942
 Insufficient Local Generation	12399
 Insufficient MDAs	13080
 Insufficient Management Systems	12214
+Insufficient Private Sector Engagement	17139
 Insufficient Resources	4439
 Insufficiently	766,11150
 Insuffisance	737,2229,4689,3057,162,91,2325,10,41,1084,25,123,25,944,38,3,102,27,224,392,300,13
 Insuffisances	10858,2432,2550
 Insuffisant	15512
 Insuffisant Non-renouvellement	10876
-Insuficiente	1701
+Insuficiente	1701,15197
 Insuficiência	10772,4763
 Insuficiência de Materiais	11561
 InsufÞ	15848
 Insufﬁcient	10844
 Insuiciência	15572
+Insular	16864,56,42
+Insular SNIS Sistema Nacional de Información Sanitaria	16962
+Insular. En	16962
+Insular. Hechos	16962
 Insularización	1701
 Insulate the Panel	7112
 Insulated	16266
 Insulated Insulated	16266
 Insulated Insulated Disrupted	16266
 Insulated Insulated Insulated	16266
-Insulating	13385
+Insulating	13385,3515
 Insulation	1988,11397
 Insulators	13385
 Insuline	16047
@@ -277,17 +302,23 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259
 Insurance Act	6938,4317,1393,412,1749,34
 Insurance Activity Supervisory Body	6938
 Insurance Association	14997
+Insurance Authority NHIS National Health Insurance	16896
 Insurance Broker	14809
 Insurance Business Proclamation No	13976
+Insurance Center	17334
+Insurance Commission	17235
 Insurance Companies	11255
 Insurance Company	14766
 Insurance Compensation Fund	14997
 Insurance Control Department	6938
+Insurance Department	17235
+Insurance Department Audit	17235
 Insurance Development Forum	14997
+Insurance Expenses	17236
 Insurance Firms Early-stage	12444
 Insurance Formal Informal	12445
 Insurance Fraud	2333,47,65,2181,2052,209,414,23
@@ -296,13 +327,14 @@ Insurance Fund UNISA The University of South	11250
 Insurance Industry Act	12598
 Insurance Industry Act. Public Enterprises Evaluation	12598
 Insurance Institute of Zimbabwe	1554
-Insurance Law	11136,3861
+Insurance Law	11136,3861,2238
 Insurance MINECOFIN	14997
 Insurance Market Composition	14997
 Insurance Market Composition While Rwanda	14997
 Insurance Markets	6938
 Insurance Nominal GDP	2775
 Insurance Passive	12373
+Insurance Plaza	17334
 Insurance Postal Agency Counter Extension Post	11129
 Insurance Premium	14736,278
 Insurance Premium Levy Act	13403
@@ -315,8 +347,10 @@ Insurance Régime de Retraite de Ministry	10985
 Insurance SHIF Social Health Insurance Fund	2775
 Insurance Scheme	14997
 Insurance Scheme X MINTER Ghana Nationwide	15845
-Insurance Sector	14997,26,107
+Insurance Sector	14997,26,107,2105
 Insurance Sector Education and Training Authority IoT	6832
+Insurance Sector Profitability Indicators	17235
+Insurance Sector Profitability Indicators ROE ROA	17235
 Insurance Strand	418
 Insurance Strand Without	12460
 Insurance Strategic	14997
@@ -366,7 +400,7 @@ Insuﬀicient	958
 Integrated Social Insurance System	11939
 International Association of Insurance Supervisors	14997
 Investment Development Insurance	11310
-Investment Insurance	11310
+Investment Insurance	11310,5662
 Investment and Insurance	12297
 Ivorian Insurtech and Jumia Technologies	4150
 Journal of Insurance Medicine	8604
@@ -377,24 +411,37 @@ Kenya.107 Insufficient	12227
 Kenyan Insurance Sector Report	6938
 Kenya’s Association of Kenya Insurers	14997
 L SOCIETE INSUCO GUINEE	16623
+LHS Quarterly Insufficient	16947
+LISA Libyan Insurance Supervisory Authority LNMC	17157
+La Región Insular	16969
 Lack of Insufficient Low	12241
 Lagos State Health Insurance Scheme	11968
+Liberia Insurance Commission	17235
+Liberia Insurance Commission Act	17235
+Liberia Insurance Commission. The Bank	17138
+Liberian Insurance Sector	17235
+Libyan Insurance Supervisory Authority Ongoing	17157
 Libyan Insurance Supervisory Authority Stock	6938
 Limited and Econet Insurance	4896
+Livestock Insurance Schemes Pre-position	17157
 M Female Male Insurance	15023
 MDAs. Inclusive Climate Insurance Program Note	11469
 MIGA Expands Insurance Support	11310
 MINECOFIN Insurers	15130
 MMI Military Medical Insurance MPFSS Monetary	14997
 MONOPHASIQUE INSULINE HUMAINE INTERMEDIAIRE	15930
+Management Information Insurance Department Internal Audit	17235
 Mauritius Deposit Insurance Act	14744
 Mauritius Deposit Insurance Company Ltd	14744
 Mauritius Deposit Insurance Corporation Ltd	14744
 Mauritius Deposit Insurance Scheme	14744
+Medical and Insurance	17236
 Medium Enterprises NAIS National Agriculture Insurance	14997
+Member Health Insurance HHNDR Page	16922
 Microfinance Supervisory Authority CEO Insurance Regulatory	6938
 Military Medical Insurance	14997
 MoSS’s Social Solidarity Pension and Social Insurance	15663
+Mongomo. La Región Insular	16898
 Morocco's InsurTech	5921
 Motor Insurance	14997
 Motor Third Party Insurance	7591
@@ -405,6 +452,7 @@ NHI National Health Insurance BAS Basic	396
 NHIA National Health Insurance Authority DPIA	6936
 NHIF National Health Insurance Fund NRB	12227
 NHIF National Hospital Insurance Fund NIA	2775
+NHIS Electronic National Health Insurance System	16922
 NHIS National Health Insurance Scheme NITA	15556
 NICO Life Insurance Company Limited	14674
 NOTARIA DE LA REGION INSULAR.- Concepto	4209
@@ -418,17 +466,21 @@ National Bank of Rwanda THE INSURANCE SECTOR	15023
 National Commission for Control of Insurance	14997
 National Health Insurance	24,372,971,2465,3622,107,1042,511,1424,1487,536,45,17,3630
 National Health Insurance Act	13403
-National Health Insurance Authority	1654,2089,89,1,468,27,1671,178,4814,1013,3794,96,324,128,254
+National Health Insurance Authority	1654,2089,89,1,468,27,1671,178,4814,1013,3794,96,324,128,254,296,26
+National Health Insurance Authority NHIS National	16922
 National Health Insurance BUI. Retrieved	1009
 National Health Insurance Bill	1009
 National Health Insurance Bill. Retrieved	1009
 National Health Insurance Consultancy	12606
-National Health Insurance Fund	396,2379,5442,166,2750,1094
-National Health Insurance Levy	7695,44,8299
+National Health Insurance Fund	396,2379,5442,166,2750,1094,4669
+National Health Insurance Levy	7695,44,8299,1070
 National Health Insurance Management Authority	13465
 National Health Insurance NDoH Non-patient File	1009
 National Health Insurance Policy	11748,3511,3
-National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,22,408,93
+National Health Insurance Program	16993
+National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,22,408,93,550,26,183
+National Health Insurance System	16922
+National Health Insurance Tribunal	16896
 National Health Insurance and Social Guarantee Fund	9837
 National Health Insurance and Social Security	15518
 National Health Insurance and Social Welfare Fund	15411
@@ -439,12 +491,15 @@ National Hospital Insurance Fund	2515,7798,16,2,491
 National Hospital Insurance Fund Act	10822
 National Insurance	4602,10395
 National Insurance Commission	6938
+National Insurance Commission Act	17235
+National Insurance Commission Validation Workshop. Delivered	17235
 National Insurance Institutions Outcome	14997
 National Insurance Marketplace	14997
 National Insurance Strategy	15023
 National Organization for Social Insurance	15519
 National Social Insurance Authority	4944
 National Social Insurance Fund	15883
+Ndong Coordinadora Regional Insular Ilmo. Sr	16920
 Nigeria Deposit Insurance Corporation	9571
 Nigerian Insurers Association	11129
 Nigeria’s National Insurance Commission	2462
@@ -453,6 +508,7 @@ Non-life Insurance Division	9675
 Old Mutual Insure	11511
 One-Stop Centres. Insufficient	14935
 Operationalize the Universal Medical Insurance Fund	1828
+Organization NHSI National Health Insurance Scheme	17105
 Overview of Namibia’ Social Protection Social Insurance	12373
 PS. Insufficient	10017
 Payroll Investments Asset Management and Insurance	9437
@@ -461,12 +517,13 @@ Pension and Insurance Supervision Director	6938
 Pensions and Insurance	12409
 Pensions and Insurance Authority	6938,5471,1123
 Pequeno Estado Insular	16019,468
-Pequenos Estados Insulares	15966,25
+Pequenos Estados Insulares	15966,25,1195
 Performance Indicators for General Insurance Business	2775
 Performance Indicators for Life Insurance Business	2775
 Phase Mauvaise Insuffisance	14488,1,1
 Political Risk Insurance	11310
 President's Of- Tanzania Insurance Regulatory	6938
+Private Health Insurance	16896
 Professional Liability Insurance	12400
 Proyecto Adquisición de Insumos	4209
 Prudential Insurance Zambia Limited	13430
@@ -475,6 +532,8 @@ Public Assets Insurance Program	14997
 Public Fi- The Deposit Insurance Corporation	6938
 Public Insurers Private Insurers Insurance	15023
 Public and Private Sector Insurance Fund	15519
+R. Insular R	16969
+R. Insular R Continental	16969
 REG. INSULAR	4209
 Racist and Xenophobic Motivated Insult	26
 Recapitalized Insurers	9117
@@ -482,7 +541,11 @@ Reduced Insurance Scheme	14997
 Reg. Insular	4209
 Regional Insurance Supervisory Commission	6938
 Regional Third-Party Motor Vehicle Insurance Scheme	13563
-Región Insular	4209
+Regiones Insular	17112
+Región Insular	4209,12689,64,7,125,177,38,90
+Región Insular URL	17309
+Región Insular. Fuente	16962
+Región Insular. Gráfico	16962
 Regulatory Framework for Insurance Aggregators	14819
 Role of Political Risk Insurance	11310
 Rubavu Insufficient	12328
@@ -524,6 +587,7 @@ Social Insurance Labor Market Social Assistance	10985
 Social Security and National Insurance Trust	16405
 South African Special Risks Insurance	11353
 South Africa’s National Health Insurance	8603
+Spectrum Insufficient Medium Expediting	16884
 Stabilization Levy NHIL National Health Insurance	236
 State Health Insurance Schemes	12004
 State Insurance Company of Mauritius Ltd	14736
@@ -541,6 +605,7 @@ Sustainable Insurance	14997
 TIC Insuffisance	15542
 Tanzania Insurance Regulatory Authority	11133
 Tarik Dadi Combats Health Insurance Fraud	2269,19,59,9,173,4,11,6,12,38,10,6,3,57,4,664,278,96,687,933,332,433,355,605,327
+Trade CIF Cost Insurance Freight COICOP	16935
 Trans-African Insurance Co Ltd	2307
 Transport Insurance Certificate	16737
 Très Insuffisant	15512
@@ -553,7 +618,7 @@ Unemployment Insurance Contributions Act	11181
 Unemployment Insurance Fund	7910,26,531,2818
 United General Insurance Assistant Manager Colleta	7364,5852
 United Insurance	14897
-Universal Health Insurance	2419,5288,3426,4592,252
+Universal Health Insurance	2419,5288,3426,4592,252,964,475
 Universal Health Insurance Act	6921
 Universal Health Insurance Agency	15977
 Universal Health Insurance Authority	15725,246

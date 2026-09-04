@@ -21,17 +21,23 @@ EOP PONGUILY ONDOKA Hector Jess Crusy	16100
 EPMS and Ponto	12270
 Edith Poni	3323
 Estado. Pontos Fortes	11461
+Fish Ponds and Water Breeding Facilities and D10	17105
 GAOUA BOUGOURIBA IOBA NOUMBIEL PONI	10847
 GRANDS PONTS	15711
 Gaoua Poni Sud-Ouest	15715
 Gbomblora Poni Sud-Ouest	15715
 Grands Ponts	15711
+INEGE Pendiente Poner	16898
+INEGE Poner	16898
+INGRESSO PRÉ REQUISITO Provas Ponderação Escola	17103
 Indicador Pon	11376
 José Rodrigues da Ponte	11566
 Kampti Poni Sud-Ouest	15715
 Loropéni Poni Sud-Ouest	15715
 M. Brice Edgard PONGA. Directeur Général	16175
 M. Gipsy Irène VOUGO PONOU	16099
+MASIG Pendiente Poner	16898
+MHEP Pendiente Poner	16898
 Malba Poni Sud-Ouest	15715
 Marie-France Lydie Hélène PONGAULT Article	15901
 Marie-France Lydie Hélène PONGAULT B	15692
@@ -42,6 +48,7 @@ Natural. Ponds Map	15129
 Ntombo Pont	15692
 PONADER	15801
 PONAME	15801
+PONDERAÇÃO E PRÉ-REQUISITOS ESCOLA CICLO	17103
 PONGO ENERCY SARL	15670
 PONGO ENERGY	15670
 PONGO ENERGY SARL	15670
@@ -54,14 +61,18 @@ PONI Total Région	10847
 PONI Urbain	10847
 PONTO	11397
 PONTO DE SITUAÇÃO Regulamentação	2816
+PONTO DO EDITAL DOCUMENTO OBRIGATORIEDADE	17103
 PONTO MONETÁRIO	11582
 PONTOS DE ENTRADA	11376
 PONTUAÇÕES E ACÇÕES PRIORITÁRIAS	11376
 Passerelle Pont	15555
+Pendiente Poner	16898
+Plano Estratégico Pontos	17093
 Ponatshego	12540
 Poncelet O. Ileleji	8311
 Ponctualité Assiduité Ethique	15780
 Pond BS	771
+Pond River	17043
 Ponda. Moyana	8022
 Ponder	16820
 Ponderado	16138
@@ -70,7 +81,7 @@ Pondont	15429
 Ponds	15129
 Pondération	11567,4369
 Ponelis	12333
-Poner	1701
+Poner	1701,15154,43
 Pongezi	2868,3151
 Pongo Energy	15670
 Pongola	2626
@@ -85,7 +96,7 @@ Pont de Mayinga	16274,182
 Pont du Niari Fait	15439
 Pont du Nkam	15542
 Ponta	15388
-Ponte	15694
+Ponte	15694,1584
 Ponte D. Luis	15380
 Ponte José António Mendes	15694
 Ponte João Gotô	15380
@@ -95,7 +106,8 @@ Ponto	2816,4154,3785,764,63,688,3233,1
 Ponto Focal	11376,80
 Ponto Focal Nacional	11376
 Ponto de Troca de Tráfego da Internet de Moçambique	9694
-Pontos	2952,3473,545,4406,143,3985
+Ponto-focal	17361
+Pontos	2952,3473,545,4406,143,3985,1528
 Pontos Focais	11410,132
 Pontos Focais de Economia Digital	11542
 Pontos Fortes	11461
@@ -110,8 +122,9 @@ Pontuações	11376
 Pontśo	12647
 Pontšo	12753
 Ponya	11053
-Ponzi	3870,257,5637
+Ponzi	3870,257,5637,7319
 Ponzi-like	4127
+Provas Ponderação Escola Superior Agrária Biotecnologia	17103
 Périgban Poni Sud-Ouest	15715
 R PONI	10847
 Relatórios de Ponto de Situação	12021

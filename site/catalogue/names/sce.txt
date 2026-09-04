@@ -1,18 +1,25 @@
 A. Alternative Scenarios A1. Key	13868
 Adebavo ABIOLA Le Garde des Sceaux	15400
+Adverse Scenario	17326,177
 Africa’s Startup Scene From Cotonou	10887
+Alternative Scenario	16949
 Application Scenario of Urban Multi-hazard Early Warning	13943
 BLUPASS and SCE	10980
 Base Case Scenario	11863
-Baseline Scenario	13868
+Baseline Scenario	13868,3081
+Baseline Scenario B	17503
 Baseline Scenario Gross Nominal PPG External	13868
 CHINA AND SOUTH AFRICA International Scene	2775
 CHINE EN GUINEE SCETCHCG-SA	16623
+COMPONENT Scenario Drought Impacts	17157
 COUNTRY CLASSIFICATION AND DETERMINATION OF SCENARIO	13868
 Christian NTSAY Le Garde des Sceaux	14483
 Climate Change and Impacts Scenarios	16135
+Climate Scenario Projections for Libya	17157
+Climate Scenario Projections for Libya Scenario Drought	17157
 Common Scenarios	6432
 D'après le Garde des Sceaux	5477
+Different Fertility Scenarios	16935
 Different Scenarios	1828
 Different Scenarios Gasoline Price	1828
 Djacoba Oliva TEHINDRAZANARIVELO Le Garde des Sceaux	14431
@@ -33,7 +40,9 @@ Garde des Sceaux Paul-Marie GONDJOUT	15703
 Garde des Sceaux Paule-Marie GONDJOUT Le Ministre	15727
 Garde des Sceaux RYAHINDUWE KANDI RYUJUJWE PENALTY	14862
 Gqrde des Scecrux	15438
-Grand Sceau de Sa Majesté Mohammed VI	17,291,427
+Grand Sceau de Sa Majesté Hassan II	17439
+Grand Sceau de Sa Majesté Mohamed VI	17440
+Grand Sceau de Sa Majesté Mohammed VI	17,291,427,16721
 Grand Sceau de Sa Majesté Mohammed VTI	308
 Growth Scenarios	5245
 INDICATEURS PRINCIPAUX DES DEUX SCENARII ENVISAGES	14479
@@ -58,6 +67,8 @@ MAHAFALY Solonandrasana Olivier Le Garde des Sceaux	14414
 MINERAL SCE	16623
 Manager of Scenious Hub	8330
 Mbaye Scellé	4960,62,2035
+Medium Fertility Scenarios	16935
+Medium Fertility Scenarios. Housing Characteristics	16935
 Network Control Centre Scenario	2913
 Neutral Scenario	1264
 NorcATEURs ScENAR	14479
@@ -74,6 +85,7 @@ Rapid Roll-Out Scenario Recommendations	10812
 Reference Scenario	12233
 Regional Trade Scenario	12399
 Représentant le Garde des Sceaux	5845
+Results of CBA Base-case Scenario and Sensitivity Analyses	16896,26
 Richel Sceva	16100
 République de Guinée. Le Garde des Sceaux	16635
 SCEE-AES	7670
@@ -91,13 +103,16 @@ Sceaux	9726,279,2517,742,1199,998,1241
 Scellé	10875,5124
 Scellé du Sceau	13323,7
 Scenarii	15685
-Scenario	2913,7916,1404,890,226,183,947,1074
+Scenario	2913,7916,1404,890,226,183,947,1074,1950
 Scenario Analysis and Regulatory Expectations NGFS	13532
 Scenario Analysis of Africa's AI Trajectory	2957
+Scenario C	17503
 Scenario Calculator	14707
+Scenario D	17503
 Scenario Optimiste	14479
 Scenario-Based Analysis	11228
-Scenarios	1828,10405
+Scenario-based	17157
+Scenarios	1828,10405,4702
 Scene of Crime	12984
 Scene of Crime Office	14745
 Scene of Crime Office SP	14760
@@ -105,6 +120,8 @@ Scenes	4825
 Scenious Hub	8330
 Scepticism	9545
 Sceptics	14190
+Sensitivity Analysis- Alternative Scenario	16949
+Sensitivity Analysis- Baseline Scenario	16949
 Setup Scenarios	5665
 Strait of Hormuz Disruption Scenario	10718
 Summary and Outlook International Scene	2775

@@ -2,10 +2,10 @@ A. SUMMARY OF KEY FINDINGS	15019
 ACKNOWLEDGEMENTS The ID4D-Global Findex Database	10714
 About the Global Findex Database	10977
 About the Global Findex Database Financial	10977
-Abstract The Global Findex	13084,675,2084,1,821
+Abstract The Global Findex	13084,675,2084,1,821,380
 Acknowledgments About the Global Findex Database Executive	10977
 Acknowledgments Global Findex	10977
-Acronym FINDEX	15843,1,821
+Acronym FINDEX	15843,1,821,380
 Adaptation Findings In CAR Possible Options	10829
 Address Findings	11218
 Addressing Prior Year Audit Findings	13420
@@ -26,6 +26,7 @@ Body The Global Findex Database	13084
 Borehole and Footbridge Construction Projects Findings	13420
 CAN FIND MORE INFORMATION	7198
 CEO of FindMe	10983
+CHANCE FIND PROCEDURES	17114
 CHAPTER FOUR MAIN FINDINGS	15244
 COG 2024 FINDEX V02 M The Global Findex Database	15844
 COG 2024 FINDEX v02 M	15844
@@ -38,28 +39,41 @@ Cameroon’s FindMe Rides New Bank Deal	10983
 Capita Grant Finding	13420
 Capital Key Findings	10350
 Category Findings Relevant Scores and Statistics Data	12210
+Chance Find	17114
+Chance Find Documentation	17114
+Chance Find Documentation The Ministry of Tourism	17114
 Chance Find Procedure	1988
 Chance Find Procedures	1988
+Chance Find Process	17114
+Chance Finds	17114
 Conclusion Conclusion Findings	14897
 Congo Find	14666
 Contents Introductory Comments Summary Findings Detailed	7869
 Context and Preliminary Findings Mozambique	3058
 Cost Recovery Audit Findings	3583
+Critical Findings Naymote	17139
 Crowded Market FindMe	10983
 DATA GOVERNANCE IN MOZAMBIQUE Findings and Recommendations	4214
 DDI DZA 2024 FINDEX v02 M WB Producers	15846
 DDI Document ID DDI COG 2024 FINDEX v02 M WB Producers Name	15844
 DDI Document ID DDI GAB 2024 FINDEX v02 M WB Producers Date	15843
 DDI Document ID DDI GIN 2024 FINDEX v02 M WB Producers Date	16665
+DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
 DIAGNOSTIC FINDING	6832
+DIAGNOSTIC FINDINGS	16942
 DZA 2024 FINDEX v02 M Title	15846
 Description FinDev Canada	263,828,3383
 Detailed Findings	7869,7701
 Diagnostic CAR Table of Summary Findings	15415
 Diagnostic Finding	6832
-Diagnostic Findings	12659,653,2
+Diagnostic Findings	12659,653,2,3562
+Diagnostic Findings Current State of Digital Financial	16876
+Diagnostic Findings Current State of Digital Infrastructure	16876
+Diagnostic Findings Current State of Digital Platforms	16876
+Diagnostic Findings Current State of Foundational Skills	16876
 Disaster Recovery Plan Finding	13420
 Discussion Main Findings	14666
+Discussion of Key Findings	16971
 Données Findex	11944
 Données Findex Banque des Etats	11944
 Données Findex Page	11944
@@ -79,10 +93,11 @@ Expenditure Findings	13355
 Experts Find Accessing Finance for Digital Transformation	12214
 FIND Foundation	15581
 FIND US	13097
-FINDEX	10963,1,2120,675,2084,1,2,819
+FINDEX	10963,1,2120,675,2084,1,2,819,211,115,54
 FINDINGS	236,1702,11372
 FINDINGS A. POLICY AND LEGAL FRAMEWORKS	13310
-FINDINGS AND DISCUSSION	2518
+FINDINGS AND CHALLENGES A. INFORMATION SYSTEM	16867
+FINDINGS AND DISCUSSION	2518,14631
 FINDINGS OF THE COMMISSION	13178
 FINDINGS Parliament of Zimbabwe	13420
 FINDINGS The Fund	13420
@@ -103,8 +118,8 @@ Find-	8301
 FindHomes	16820
 FindMe	1946,9037
 Finda	11365
-Findable	5246,2884,2058,2487
-Findex	613,1032,1932,2053,4636,448,131,120,173,806,305,1063,2,1583,550,27,6,13,25,35,68,523,482
+Findable	5246,2884,2058,2487,4441
+Findex	613,1032,1932,2053,4636,448,131,120,173,806,305,1063,2,1583,550,27,6,13,25,35,68,523,482,250,66
 Findex Database	10977,1272
 Findex Microdata 2025 updateKenya	12203
 Findex Page	11944
@@ -121,8 +136,10 @@ Finding of Recognition Review	3503
 Finding the Crossroads	5349
 Finding the Perfect Location	11546
 Finding the Solution	12025
-Findings	236,663,853,671,525,987,191,306,7,1262,43,285,182,621,54,61,1,112,11,951,171,108,159,668,291,24,236,60,33,197,354,523,55,39,71,122,1,1,5,445,106,225,11,67,12,152,24,10,9,45,51,32,84,22,65,1,7,103,118,313,53,35,295,36,1427,9,25,43,32,37,22,67,41,80,566,114,220,292
+Findings	236,663,853,671,525,987,191,306,7,1262,43,285,182,621,54,61,1,112,11,951,171,108,159,668,291,24,236,60,33,197,354,523,55,39,71,122,1,1,5,445,106,225,11,67,12,152,24,10,9,45,51,32,84,22,65,1,7,103,118,313,53,35,295,36,1427,9,25,43,32,37,22,67,41,80,566,114,220,292,490,1,15,157,28,158
+Findings Across Six AAID Pillars Liberia	17139
 Findings Against EPTC The Commission	13178
+Findings And Challenges	16867
 Findings And Recommendations	226
 Findings Bivariate	8075
 Findings Concluding Comments Survey Methodology	7869
@@ -155,16 +172,22 @@ GAB 2024 FINDEX v02 M. Downloaded	15843
 GBV. Findings	12977
 GIN 2024 FINDEX v02 M Title The Global Findex Database	16665
 GIN 2024 FINDEX v02 M. Downloaded	16665
+GLOBAL FINDEX DATABASE	16991
+GMB 2024 FINDEX v02 M DOI	17045
+GMB 2024 FINDEX v02 M Title The Global Findex Database	17045
+GMB 2024 FINDEX v02 M. Downloaded	17045
 GSMA Report Finds	6781
+Gambia. Findings	16927,24
 Get Microdata Reference ID COG 2024 FINDEX v02 M DOI	15844
 Ghana FINDINGS	236
 Ghana. Finds	4074
-Global Findex	761,2661,2726,4566,251,12,942,25,50,255,21,30,761,23,230,445,1138,100,450,27,19,25,325,1,2,819,157
+Global Findex	761,2661,2726,4566,251,12,942,25,50,255,21,30,761,23,230,445,1138,100,450,27,19,25,325,1,2,819,157,120,103
 Global Findex Africa	11919
-Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819
-Global Findex Digital Connectivity Tracker	10977,2107,675,2084,1,2,819
+Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819,277,103
+Global Findex Digital Connectivity Tracker	10977,2107,675,2084,1,2,819,380
 Global Findex Identification	10714
 Global Findex Microdata	10714
+Global Findex Survey	16942
 Global Findex Survey Methodology	10714
 Global Findex. Consistent	10977
 Global Fintech Lending FinDev Canada	4474
@@ -174,7 +197,10 @@ Guinea Worm. Findings Among	11912
 H. Findings Summary Compliance Area	13381
 Health Assistance Programme Finding	13420
 High-Level Findings	15415
+I. Key Findings	16955
+I. Key Findings Background	16955
 I. SSRLP Project Implementation and Key Findings	12980
+ID4D Diagnostic Findings Alexandre Amard	17070
 ID4D- Global Findex Database	10714
 ID4D-Global Findex	10714
 ID4D-Global Findex Data	10714
@@ -182,18 +208,27 @@ ID4D-Global Findex Database	10714
 II. MISSION FINDINGS AND KEY RECOMMENDATIONS	12595
 III. IMPLEMENTATION PROGRESS AND KEY FINDINGS	12195,1680,1144
 III. KEY FINDINGS	13378
+IMO OUR PUBLICATIONS FINDINGS AND ACHIEVEMENTS	17101
+IMPORTANT FINDINGS	16884
+INEGE Household Survey Findings Report	16996
 INTEGRATING AFRICA Key Findings First	11149
 IREMBO Findings	12333
 Impact Evaluation Findings Independent	16253
 Impilo Find	9429
+Implementation Arrangement for Chance Find	17114
+Implementation Arrangement for Chance Find Table	17114
 Implementation and Monitoring of Gender Activities Finding	13420
 Inclusive Growth. Summary of Findings. NIST	10819
+Joint Diagnostics Report and Key Findings	16902
 KENYA Findings	899
 KEY FINDINGS	9399,2503,1490,675
+KEY FINDINGS AND IMPLICATIONS	17139
+KEY FINDINGS AND INSIGHTS	17116
 KEY FINDINGS The Eswatini FinScope	418
 Kenya Housing Survey Findings	2775
 Key Audit Areas and Findings	13420
-Key Findings	2334,441,3137,1239,2248,131,820,635,19,2,143,904,265,58,602,117,921,948,33,123,36,414,696
+Key Finding	16921
+Key Findings	2334,441,3137,1239,2248,131,820,635,19,2,143,904,265,58,602,117,921,948,33,123,36,414,696,655,122,84,22,111
 Key Findings Across Our Six Elements	7313
 Key Findings Namibia Statistics Agency	12383
 Key Findings Pneumonia	12151
@@ -202,8 +237,11 @@ Key Findings Technology	1363
 Key Findings and Analysis	15120
 Key Findings and Recommendations	12182,194
 Kicukiro. RESEARCH FINDINGS	12328
+LBY 2017 FINDEX V02 M. ACCESSED	16991
 LITERACY AND EDUCATION Key Findings Literacy	12431
 Legal Basis Finder	7409
+Liberia Telecom Market Assessment Findings Erik	17070
+Liberia. Key Findings	17149
 Life Counts CHAPTER FIVE Key Findings	12151
 Likouala. Findings	11924
 Ltd. Findings	718
@@ -226,6 +264,7 @@ Motor Vehicles Expenditure Variances Finding	13420
 Mozambique. Findings	12201
 NAM 2024 FINDEX v02 M Producer	13084
 NAM 2024 FINDEX v02 M Title	13084
+NSS Assessment Findings	17116
 National Institute of Statistics Rwanda RESEARCH FINDINGS	12328
 Nigeria CONTENTS Executive Summary Key Findings	11138
 Non-Delivery of Procured Motor Vehicles Finding Parliament	13420
@@ -233,10 +272,12 @@ Nyagatare RESEARCH FINDINGS	12328
 ORGANISATION STRUGGLING TO FIND	1940
 Overall Framework Findings	8301
 Overview of Findings and Key Takeaways Introduction	4848
+PRESIDENT GBEHZONGAR MILTON FINDLEY MINISTER	16878
 PRINCIPAL FINDINGS	16266
 PROGRESS IN ADDRESSING PRIOR YEAR FINDINGS	13420
 PUZZLE Find	13477
 Parent Ministry Finding	13420
+Partnerships. Findings	16927
 Pauper Burials Findings The Ministry	13420
 Payment of Utilities Findings Marondera District Office	13420
 Per Global Findex	3822
@@ -257,19 +298,22 @@ RESEARCH FINDINGS	12328
 RESEARCH FINDINGS RESEARCH FINDINGS	12328
 Reconciliations Findings Disbursements	13420
 Recovery of Accounts Receivable Finding	13420
+Refworld Find	17490
 Report Finds Zambia	8677
 Reporting and Learning Findings	15845
 Research Findings	12328
 Rug Pull Finder	4127
 République du Congo. Selon le Global Findex	15493
+SDGs. Key Findings Across Sectors	17260
 SOCIAL MEDIA MONITORING FINDINGS The EU	12201
 SUMMARY OF KEY FINDINGS OF SATISFACTION	15731
-SURVEY FINDINGS	15023
+SURVEY FINDINGS	15023,2262
 SURVEY FINDINGS Respondents' Demographics TECH HUBS	15460
+SURVEY FINDINGS SURVEY FINDINGS HOUSEHOLD DEMOGRAPHIC	17285
 SURVEY TOPLINE FINDINGS Southern Africa REGISTERED	12409
 Sector Theme Findings Impact Talent	14997
 Selection Rule Child Metric Findex	10714
-Series Information The Global Findex	13084,675,2084,1,821
+Series Information The Global Findex	13084,675,2084,1,821,380
 Shared AI Findings Exchange	9027
 South Nyaruguru RESEARCH FINDINGS	12328
 Statutory Funds Finding The Ministry	13420
@@ -281,7 +325,7 @@ Summary Findings	7869
 Summary and Recommendations Main Findings	13957
 Summary of Findings	2677,4474,5146,138,1552
 Summary of Findings and Actions	11525
-Summary of Key Findings	15663,603
+Summary of Key Findings	15663,603,873
 Summary of Key Findings and Recommendations	13382
 Supporting Documents Finding Expenditure	13420
 Supporting Documents Findings	13420
@@ -312,8 +356,9 @@ WB Global Findex	14897
 WBG Findex	15518
 Warriors Finding Strength	10374
 World Bank Findex	11994,2112
-World Bank Global Findex	1828,10166,3524
+World Bank Global Findex	1828,10166,3524,1358,66
 World Bank Global Findex Database	1828,10472
+World Bank Global Findex Database Globally	16883
 World Bank Global Findex Database and IMF	1828
 World Bank Global Findex Report	11469
 World Bank's Global Findex	4240

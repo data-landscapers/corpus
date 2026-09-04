@@ -12,10 +12,13 @@ Abidjan. Fait	2808,237,12712
 Action VII.3.1 Faire	13306
 Action XI.1.1 Faire	13306
 Address Fair Market Competition	12214
+Addressing Failures	17260
 Administration Numérique Faire du Numérique	1247
+Adopting FAIR Data Principles	17116
 Alexandria Ismailia Monufia Faiyum New Valley	15578
 Algiers International Fair	16331
 Ambassador Faisal Bin Falah Al Harbi	12710
+Amelia Fairbairn	17467
 Analyse SWOT FORCES FAIBLESSES	15936
 Annual Eswatini Careers Fair	11134
 Aswan Minya Ismailia Qena Luxof Faiyum	15578
@@ -35,6 +38,7 @@ Beni Suef Qena Gharbia Faiyum Alexandria	15578
 Bible Faith Church Medical Services Data	7167
 Bid. Failure	13185
 Bidding Documents. Failure	14766,12
+Biodiversity Fair	17164
 Boiler Failure and Water Chemistry	1154
 Botswana Consumer Fair	12552
 Brazzaville. Fait	16413
@@ -72,10 +76,13 @@ Congo Forces Faiblesses	15724
 Congo Télécom25. Les FAI	15493
 Congo. Faire	6661,3053
 Consequences for Failure	14647
+Constitution Fair	16943
 Cooperation and Fair Competition Artificial	2958
 Cooperatives Fail	16796
+Coordination Failures	17139
 Correcting Market Failures	5700
 Criteria for Free and Fair Elections	12201
+Critical Fail	17344
 Critère Durabilité Transparence Adaptabilité Analyse Faible	16328
 Cyber Africa Forum By Faith Omoniyi	3112
 Cybersecurity Fair	13080
@@ -88,16 +95,20 @@ DPS Document de Politique Sectorielle FAI Fournisseurs	16327
 Dahua Développement Ressources Fait	16177
 Dakar. Faire	10642
 Data Access Failure Ratio	5744
+Data Use and FAIR Principles	17116
 Denis Mark BRISTOW FAITS MARQUANTS Adm	2342
 Designing for Failure	7678
 Determining Fairness	7198
 Dette Madame Sarah KPENOU. Fait	16485
 Develop Fair	961
 Digital Sovereignty and Fair Data Compensation Bill	8088
+Digital Transformation for Fair Taxation	17190
 Décret. Fait	15569
 E. Fair	14809
 ECOWAS Trade Fair	6422
 EHILE Amoi FAITS MARQUANTS Adm MMPE	2342
+ENSURING FAIR COMPETITION	16839
+ENSURING FAIR COMPETITION Fair	16839
 ENTITY Failure	11863
 ERREUR. QUE FAIRE	16629
 ESCCOM Manager of Consumer Fair and Communications Officer	14257
@@ -114,9 +125,11 @@ Elevé Elevé Faible Défense	15583
 Elevé Faible	15583
 Elevé Faible Elevé	15583
 Elevé Faible Tri	15583
+Embedding FAIR	17116
 Embedding the FAIR	14565
 Emile OUOSSO RENOUVELLEMENT DE LICENCE Fait	15780
 Enfants VFE Violences Faites	15746
+Enforcement Failure	16835
 Enforcement and Remedies Failure	3861
 Engineer Faisal Al-Miftah Noor Al-Huda	15203
 Enhance Enforcement Capacity Address Fair Market	12214
@@ -148,6 +161,7 @@ FAIGNOND	16177
 FAIInfrastructures	6275
 FAILED	7891
 FAILS	8186
+FAILURE TO COMPLY WITH THE LAS	16843
 FAILURE TO DO SO MAY RESULT	11240
 FAILURE TO PROVIDE ANY	11240
 FAIOpérateurs	3658
@@ -155,6 +169,7 @@ FAIR AND EQUITABLE TREATMENT	13326
 FAIR AND LEGITIMATE PROCESSING The United	1243
 FAIR AND REASONABLE	4896
 FAIR Approach Interoperability	14666
+FAIR Data Principles	17116
 FAIR Forward	1814,7818
 FAIR GUIDELINES FOR THE DEVELOPMENT	14565
 FAIR Guidelines	5914,8426,225,1
@@ -194,6 +209,7 @@ FAIZA IDDRISU MINTER ZAKARI MUSH MINTER	15845
 FAIpQLSdZIBWrNC7jNuW-YLAQMSwCRZTKhBvJJD2poGGJITQWjUJ38w	6153
 FAIpQLSeWGDlcZtSSNd4Tuz45pH3LglGJWAbjgGvtzQeobbZ6Re17Pw	6930
 FAIpQLSfoaM hBbJ E3LF55v6aVOeZiBJunwqRgaUMo7JdC2clzNDxg	6669
+FBO Faith-based	16971
 FETCH FAILED	15544
 FETCH FAILURE	6540
 FINANCIAL INSTRUMENTS MEASURED AT FAIR	10793
@@ -228,17 +244,19 @@ Faiblesses	10712,162,2416,51,2040,120,11,68,615,426,20
 Faidol	16413
 Faigpueraek2inabthoevenusmhobwersotfhapt	1154
 Fail-over	13169
-Failed	3874,1655,1647,3239,4506
+Failed	3874,1655,1647,3239,4506,1963
 Failed Governance	12227
 Failed Namibia	6825
 Failed Response	12038
-Failing	1006,2855,3087,2179,1879,1195,71,142,279,266,1667,126,112,609
+Failing	1006,2855,3087,2179,1879,1195,71,142,279,266,1667,126,112,609,1411
 Failing the Hustlers	10330
 Failover	8605,4437,1741
 Failover Design	10721
-Fails	8,11,1,9,1,1,1,1,44,129,171,120,391,796,5256,598,469,333,5684
-Failure	1,25,8,702,26,21,178,426,920,1000,265,11,131,546,350,89,197,106,111,28,388,136,557,312,5,188,93,164,282,185,81,6,342,142,96,60,2,174,83,680,6,493,193,325,688,283,28,48,1,27,31,12,30,433,49,143,49,20,10,55,98,88,5,21,85,114,7,41,129,39,18,77,165,10,66,1,26,6,3,145,164,6,8,57,17,40,55,18,16,40,618,51,147,124,168,1,42,9,12,89,3,4,33,4,10,26,80,31,22,1,403,229,188,288
+Fails	8,11,1,9,1,1,1,1,44,129,171,120,391,796,5256,598,469,333,5684,2818
+Failsto	16833
+Failure	1,25,8,702,26,21,178,426,920,1000,265,11,131,546,350,89,197,106,111,28,388,136,557,312,5,188,93,164,282,185,81,6,342,142,96,60,2,174,83,680,6,493,193,325,688,283,28,48,1,27,31,12,30,433,49,143,49,20,10,55,98,88,5,21,85,114,7,41,129,39,18,77,165,10,66,1,26,6,3,145,164,6,8,57,17,40,55,18,16,40,618,51,147,124,168,1,42,9,12,89,3,4,33,4,10,26,80,31,22,1,403,229,188,288,643,9,43,5,141,38,37,3,9,39,56,23,8,6,2
 Failure Mode Institutional Implication Transaction	11138
+Failure To Control	16935
 Failures	1903,1680,945,6610,18,1356,2652,80
 Faim Bureau Régional	16026
 Faim Mission Burkina Faso Rue Gandaogo	16026
@@ -255,6 +273,7 @@ Fair Competition Commission	7763
 Fair Competition Fair	5244
 Fair Competition and Equal Treatment	6946,8315
 Fair Competition and Market Distortion The Joint	6748
+Fair Dealing Practices	16835
 Fair Distribution of Inputs	10931
 Fair Entrepreneurship Sunmakers MTN Start-up Techstars	14897
 Fair Market	13968
@@ -292,7 +311,7 @@ FairPlanet Media Services	8943
 FairPlanet Social Enterprise	8943
 FairPlanet's Privacy Policy	8943
 Fairbridge	4896
-Faire	37,198,513,250,7,242,1195,674,349,4491,18,362,555,510,219,215,75,343,621,2,38,51,733,234,111,1247,10,1,5,23,12,92,285,706,1,13,1,110,478,379,21,39,76,40,49,39,38,4,11,58,73,54,28,18,158,61,154,128,80,10,81,15,4,14
+Faire	37,198,513,250,7,242,1195,674,349,4491,18,362,555,510,219,215,75,343,621,2,38,51,733,234,111,1247,10,1,5,23,12,92,285,706,1,13,1,110,478,379,21,39,76,40,49,39,38,4,11,58,73,54,28,18,158,61,154,128,80,10,81,15,4,14,789
 Faire Converger Sécurité Numérique Et Sécurité	11034
 Faire des TIC	13290
 Faire du Burundi	13290
@@ -308,7 +327,7 @@ Fairland Lead	10793
 Fairlie	12278
 Fairly	7886,4306,22,287,2395,101
 Fairmile School	6946
-Fairness	718,243,1997,903,1035,1018,528,756,350,1199,1874,429,85,5,16,800,245,188,277,9,294,73,55,462,882,124,1,246,185,1604
+Fairness	718,243,1997,903,1035,1018,528,756,350,1199,1874,429,85,5,16,800,245,188,277,9,294,73,55,462,882,124,1,246,185,1604,257,68,25,17,17,129,136
 Fairness Fairness	14565
 Fairness Implementing	16212
 Fairness and Ensure	5244
@@ -331,6 +350,7 @@ Faisceau Hertzien	1934,76
 Faisons	1287,1588,6027,7830
 Faisons-en	15295
 Fait Kinshasa	15584
+Fait-le	17485
 Faite	15586
 Faites	5123,1983,177
 Faites-vous	13300
@@ -355,6 +375,7 @@ Faith-Based Organization Full-Time Equivalent Global Health	4153
 Faith-Based Organizations	4153,8087,882
 Faith-Based Service Providers	4301
 Faith-Based and Private Sector Providers	4165
+Faith-based Community ECE Trained	16935
 Faith2421	12478
 Faitières	10858
 Faits	822,4808,1990,1271,2031,53,3647,1425,195
@@ -397,6 +418,7 @@ Good Fair	5247
 Good Faith	3502
 Good Faith. ICANN	3503
 Government Action Fair	6606
+Government Failure	17208
 Government. Failure	13420
 Guidelines Legal Trajectory of FAIR Guidelines the FAIR	14565
 Guidelines for Setting Fair and Non Discriminatory Royalties	12389
@@ -418,11 +440,13 @@ INSUFFISANCE DE L’OFFRE EN ENERGIE Faible	15542
 IV. DESCRIPTION DU PROJET FAISANT OBJET	13635
 Implication Failure	13420
 Implications Failure	13420
+Inclusive Data Use and FAIR Principles Ensuring	17116
 Incorporating the FAIR Principles	14666
 India International Garment Fair	16331
 Indicatif. Fait	15901
 Information FAI Fournisseur	13341
 Infringement Notice. Failure	12046
+Institutionalize FAIR	17116
 Institutions Moyen Terme Faire	15512
 Inter-operable and Re-usable. Implementation of FAIR	5246
 International Eswatini Trade Fair	11667
@@ -458,8 +482,10 @@ Louis Marc SAKALA Notre Vision Faire	15536
 M. Faid	15698
 MINISTERE DES AFFAIRES FONCIERES Fait	15488
 MINISTRE CHIFFRES CLÉS FAITS MARQUANTS	2342
+MONITORING AND EVALUATION Failure	16872
 MRA Core Values FAIRNESS SERVICE EXCELLENCE	13053
 MTN Fairs	11083
+Madam Lorpu Faith Scott IOD PARC	16853
 Malawi International Trade Fair	13053
 Mamie Faitai de Bingerville	5381
 Matching Business Support Trade Fairs Standard	12376
@@ -524,10 +550,13 @@ Pointe-Noire. Fait	15780
 Policy Evolution The FAIR Guidelines	14565
 Policy Reference Point The FAIR Guidelines	14565
 Pont du Niari Fait	15439
+Prioritizing Fair and Timely Grievance Resolution	16985
 Private and Faith-Based Providers	4217
 Procedural Fairness	11006
 Process Failures	5550
 Prof. Dr. Faisal Abdul-Azim Al-Abdali	9091
+Promote Fair and Effective Competition Ensuring	17212
+Promote Inclusive Data Use and Embed FAIR	17116
 Promoting Fairness	14932
 Promoting Fairness and Transparency	14897
 Proportionality and Fair Use	6748
@@ -575,6 +604,8 @@ Sangha. Fait	15439
 Scope of Application The FAIR Guidelines	14565
 Security Logging and Monitoring Failures	11922
 Sensitive Data Minimisation and Fair	1243
+Service Delivery Failure	17139
+Service Delivery Failures	17139
 Sierra Leone NatCA Boss Urges Fair	5390
 Smart Africa and GIZ FAIR Forward	4126,7009
 Société Fait	15439
@@ -585,6 +616,7 @@ Statut de Gabonais Economiquement Faibles	15428
 Sudan FETCH FAILURE	14866
 Suef Faiyum Qena Giza Qalyubia Luxor	15578
 Support Trade Fairs Accelerator	12376
+Surajkund International Craft Fair	17240
 System Fails	14235
 System Lifecycle Application The FAIR Pillars	14565
 Système Intégré des Faits	15422
@@ -623,5 +655,6 @@ X Action XI.1.1 Faire	13306
 Year Analysis of Early-Season Failures	13062
 Yours Faithfully	4896
 Youth Agri-Innovation Fairs	14818
+Youth and Faith Based Organizations	16951
 Zambia International Trade Fair	7191,5291
 Zimbabwe International Trade Fair	1154

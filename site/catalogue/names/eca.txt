@@ -56,7 +56,9 @@ ENCAISSEMENTS ECARTS	16714
 Ecart	2050,1346,7579,969,3549,756
 Ecart Prévision	10975
 Ecart de Conversion Actif	10975
+Ecart de Fréquence	17462
 Ecart de Réévaluation	10975
+Ecart de Tension	17462
 Ecarter	14479
 Ecarts Réalisations SAIDI	10975
 Ecarts Volumes	10975
@@ -75,6 +77,7 @@ UN ECA's Deputy Executive Secretary and Chief	8472
 UN EcA	10840
 UN-USG and Executive Secretary of ECA	14724
 UNITES RECUS DOSSIERS ECARTS Pourcentage TRAITES	10975
+Ue ECacd G	17111
 Under the ECA	9759
 Using ECAM5	10985
 Visit ECA	12330

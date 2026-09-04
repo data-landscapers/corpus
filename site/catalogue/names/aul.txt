@@ -1,6 +1,14 @@
 Aulacodiculture	16627
 Aulacodiculture de Kankan	16627
+Aulas	16864,56
 Aulas Nas	15564
+Aulas de Centros de Enseñanza Técnica	16864
+Aulas de Clase	16920
+Aulas de Clase de Centros	16920
+Aulas de Clase de Centros de FTP	16920
+Aulas de Clase de Centros de Formación Técnica Profesional	16920
+Aulas de Escuelas Primarias	16864,56
+Aulas de Escuelas de Educación Infantil	16864
 AuloriTé de Réguloiion	15429
 Auloriié	15429
 Aulorilé	15429
@@ -16,4 +24,5 @@ Lo Houle Aulorité de I'Audiovisuel	15397
 Lo Houte Auloriié	15397
 Lo Houte Aulorité	15397
 MS Colsse Aulonome	15399
+Ratio Alumno Aula	16920
 SALA DE AULA	10766

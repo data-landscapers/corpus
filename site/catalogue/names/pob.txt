@@ -1,34 +1,52 @@
+Bienestar Sí No No No Población	16898
 CONSEJOS DE POBLADOS	4209
 CONSEJOS DE POBLADOS CATEGORÍA MINISTERIO CONCEPTO	4209
 CONSEJOS DE POBLADOS CONSEJOS DE POBLADOS	4209
 Censo General de Población	1701
+Consejo de Poblado CV Comunidad de Vecinos INEGE	16962
 Consejo de Poblado de Adjab Bata	4209
 Consejo de Poblado de Alen-Angok Ebibeyín	4209
 Consejo de Poblado de Mokomo Nsok Nsomo	4209
 Consejo de Poblado de Nsok Nsomo	4209
-Consejos de Poblados	4209
+Consejos de Poblado	16962
+Consejos de Poblado. Siendo	16898
+Consejos de Poblados	4209,12629,124
+EPA Encuesta de Población Activa PAO Organización	16898
 ERRADICACIÓN DE LA POBREZA	1701
 Ej. Consejo Nacional de Población	1701
+El IV Censo General de Población	16969
 El Sistema Poblacional	1701
 El V Censo General de Población	10487
+Encuesta de Población	16898
 Encuesta de Población Activa	4209
 FARMACIAS Y SIMILARES CONSEJOS DE POBLADOS	4209
+Fomento de Indicador de Pobreza Relativa	16898
+Fomento de Población Activa Empleo	16898
 I Censo Agropecuario V Censo de Población	10487
+II Encuesta de Población Activa	17259
 II Encuesta de Población Activa-EPA	4209
+INDICADORES NIVEL FUENTES Población	16898
+IV Censo General de Población	16898,71
 Inquêrito Ligeiro de Avaliação da Pobreza	11525
 La Política de Población	1701
 Mega Sistema Poblacional Motores Niveles	1701
 Mega-Sistema Poblacional	1701
 PNP. La Política Nacional de Población	1701
+POBLACIÓN Y DEMOGRAFÍA	16969
 POBLADOS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
-Población	1701,6347
+Población	1701,6347,8850,71
+Población Activa Empleo	16898
+Población Gráfico	16969
+Población UNICEF Fondo	16898
 Población Vulnerable	4209
 Poblado	4209
-Pobreza	1701,247,8806,11,10,587,28,172,15,101
+Poblados	16962
+Pobreza	1701,247,8806,11,10,587,28,172,15,101,5215,5
 Pobreza DESARROLLO SOSTENIBLE	1701
 Pobreza Multidimensional	11586
 Pobreza PIPGR Programa de Inclusão Produtiva	11390
 Pobreza. Eje Estratégico II	1701
+Pobreza. Eje II	16893
 Pobé-Mengao Soum Sahel	15715
 Política Nacional de Población	1701
 Política Nacional de Población PNUD	1701
@@ -38,10 +56,10 @@ Política de Población ODS	1701
 Política de Población Pobreza Eje II Sociedad	1701
 Política de Sanidad DE LA POBREZA	1701
 Política de Sanidad Pobreza	1701
-Quinto Censo General de Población	14215
+Quinto Censo General de Población	14215,3207
 RESTAURANTES CONSEJOS DE POBLADOS CONSEJOS	4209
 Segunda Encuesta de Población Activa	14215
 Sistema Poblacional	1701
 Sistema Poblacional Sostenible	1701
-V Censo General de Población	8048,2439
-V Censo de Población	4209
+V Censo General de Población	8048,2439,6411,361,163
+V Censo de Población	4209,12689,524

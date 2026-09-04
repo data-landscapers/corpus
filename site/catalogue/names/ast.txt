@@ -1,8 +1,10 @@
 AST AEROCLUB	15774
 AST AIR CONGO	16552
+AST B	17006
+AST C	17006
 AST CIV	15774
 AST MIL	15774
-AST PRESIDENTIELLE	16552
+AST PRESIDENTIELLE	16552,454
 AST ROMEO	16552
 AST SpaceMobile	7303,3494
 AST SpaceMobile’s Bluewalker	16811
@@ -51,10 +53,12 @@ Astack Phiri Parent Teacher Committee	13392
 Astana	6893,1984,6546,262
 Astbury CC	14666
 Aster Point Hospital Data Controller INST-266477267AE	7167
+Asterisked	16892
 Asteroid IX	12237
 Asteynta Tirsiga Aqoonsiga	14930
 Asthma	12151,3055
 Asthme	13300
+Asticamente	17003
 Astin. Godinot	15524
 Astou	5022
 Astou Diop	5022
@@ -74,6 +78,8 @@ Astuce	4960,62,2035,402,182
 Astère NDUWAMUNGU Administrator Visitez	13630
 Astères	6477
 Astôme Pepe Lebeau	15744
+B747 AST C	17006
+B747 AST PRESIDENTIELLE	17006
 Cause of Death Asthma HIV	12151
 Centre for Radio Astronomy Techniques and Technologies	10076
 Chinese Society of Astronautics	9816
@@ -88,18 +94,25 @@ Day Was Astroturfing	7437
 Day Was AstroturfingBen RobertsFollow7	7437
 EXPLOITATION AST	12253
 European Union SAAO South African Astronomical	5246
+GAMS ASTM A184	16900
+GAMS ASTM Adopted American Society for Testing	16900
+GAMS ASTM C1157	16900
+GAMS ASTM C150	16900
 HL7 and ASTM	7988
+High Commissioner Asthana	17234
 Hypertension and Asthma	12151
 ISABU Astère NDUWAMUNGU	13630
 Kajsa Osterberg Astrom. FCG Swedish Development	427
 Kazakhstan’s ASTANA-1	13042
 Lieutenant OLABA ONTSIA Astrid Rick	16381
+M2 AST B	17006
 NIL AST AIR CONGO	16552
 NIL AST EX AIR AFRIQUE	16552
 NIL AST PRESIDENTIELLE	16552
 PDU and ASTS	9123
 Par Ndeye Astou Konaté	5022
 Paralysie Asthme	13300
+Parking AST	17006
 RS ASTM C	15027
 RS ASTM C1693	15027
 RS ASTM C1693-11	15027
@@ -110,6 +123,7 @@ RS ASTM C494	15027
 RS ASTM C880	15027
 S. Aston	11140
 SERVICE DEFINITIONS Asthma and COPD Brief	15206
+Shri Dinka Asthana	17234
 Skye Astral Limited	3386
 Somalia.advertisements Astaan	3637
 South African Radio Astronomy Observatory	11248

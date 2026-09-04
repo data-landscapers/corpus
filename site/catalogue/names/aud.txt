@@ -3,6 +3,8 @@ ABBREVIATIONS AND ACRONYMS ACVs Contracting and Auditing	10829
 ACRONYMS AGSA Auditor General of South Africa	11224
 ACTING AUDITOR-GENERAL	3051,10369
 ACTING AUDITOR-GENERAL. HARARE	3025,10395
+ADDITION OF A NEW AUDIT DOMAIN	17534
+ADDITION OF AN AUDITOR	17534
 ADMINISTRATION Audited Audited	11986
 AFRINIC's Three-Year Audit Still Needs	9508
 AGSA Auditor General South Africa AI	11250
@@ -10,6 +12,8 @@ AGSA Auditor-General of South Africa AOP Annual	11218
 AI Audit Lab	16212
 AI Readiness Audit	6214
 AI Risk and Audit Committee	14812
+AIC Audit Implementation Committee AIS Automatic	17105
+AJOUT D’UN AUDITEUR	17534
 ANNUAL REPORT ABRIDGED AUDITED FINANCIAL STATEMENTS	1154
 ANPD Compliance Audit Regime	3861
 AUDA NEPAD	14773
@@ -25,6 +29,7 @@ AUDA-NEPAD and KICTANet	7226
 AUDA-NEPAD. AI for Africa	6948
 AUDA-NEPAD. Rather	7795
 AUDCG	15369
+AUDCIF	16972
 AUDIA CHESEREM KIRWA Data Processor INST-41629510D2C	7167
 AUDIEN	4209
 AUDIENCE DU GOUVERNEUR DE LA BCEAO	2556,995,1106,1302,1374
@@ -51,7 +56,7 @@ AUDIOLOGY CLINIC- KILIFI Data Controller INST-66675632CEE	7167
 AUDIOTEL ALGERIE	15885
 AUDIOTEL ALGERIE Article	15885
 AUDIOTEL ALGERIE. CHAPITRE	15885
-AUDIT	4153,7710,2075,635,1004
+AUDIT	4153,7710,2075,635,1004,1266
 AUDIT AND INVESTIGATION Section	14908
 AUDIT AND RISK MANAGEMENT COMMITEE OUTSOURCED	11198
 AUDIT APPROACH	13420
@@ -81,7 +86,7 @@ AUDITORS' REPORT	14032
 AUDITS AND ASSESSMENTS Licensed MDAs	13381
 AUDITS ET Sanctionner	15999
 AUDIÊNCIA Vice-Presidente	10752
-AUDPF	3162,456,505,467,654,1982,3494,1335,636,372,394,23,1006
+AUDPF	3162,456,505,467,654,1982,3494,1335,636,372,394,23,1006,2598
 AUDPF-at-a-glance	3162
 AUDPF-domestication	3358
 Abridged Audited Financial Statements	1154
@@ -107,6 +112,8 @@ African Union AUDPF	5244
 African Union's AUDP-CAT	10720
 Algorithm Audits of Online Platforms	4253
 Angl. CAC AUD NNPC Hosp. JIBWIS	11129
+Anne Audrey MAEVA BEMANANJARA Working	17101
+Anne Audrey Maeva BEMANANJARA Consultant Kisito	17101
 Announced Cybersecurity Audit	15662
 Annual Audit Plan	14828,3
 Annual Audit Reports	14748
@@ -114,6 +121,7 @@ Annual Independent Audits	12932
 Annual Internal Audit Plan	11131,3
 Annual Internal Audit Plan The Annual	11134
 Annual National Tax Audit Plan	12389
+Annual SG6 SO3 Financial Governance Audit	17116
 Annual Security Audits	6432
 Annual Vendor Lock-in Risk Audit	6432
 Applicable Audit Risk and IT Remuneration	11134
@@ -137,6 +145,8 @@ Audere Africa	11497
 Audi SQ5 Sportback	11036
 Audience	14745,1267,144
 Audience Insights World Bank	11004
+Audiencia	16980,81
+Audiencia Preliminar	16965
 Audiencia Provincial de Bioko Norte	4209
 Audiencia Provincial de Centro Sur	4209
 Audiencia Provincial de Kie Ntem	4209
@@ -145,7 +155,7 @@ Audiencia Provincial de Malabo	4209
 Audiencia Provincial de Wele Nzas	4209
 Audil	15429
 Audilia Wanjala	12227
-Audio	4625,3939,1255,1434,604,168,221,113,1173,1134,217,13
+Audio	4625,3939,1255,1434,604,168,221,113,1173,1134,217,13,2004
 Audio Articles	6387
 Audio By Carbonatix	7698,2721
 Audio By Carbonatix Africa Has	10555
@@ -162,6 +172,7 @@ Audio By Vocalize Kenya	7633
 Audio D-9	11857
 Audio La BAD	9519
 Audio Minimum	34
+Audio Recording of Court Hearings	16949
 Audio Video Interlative	12260
 Audio Visual Equipment	12597
 Audio and Audio-Visual Content Services and Online Safety	11230
@@ -171,7 +182,7 @@ Audio-Visual Media and Regional Offices	12982
 Audio-Visual Services and Media Policy	6152
 Audio-Visual Technology	14148
 Audio-out	13524
-Audio-visual	10729
+Audio-visual	10729,6531
 AudioCast Diffusez	16214
 Audiology	14773
 Audios	8718
@@ -183,7 +194,7 @@ Audiovisual and Digital Media Industry Support and Services	5188
 Audiovisuales	4209
 Audiovisuel	4237,3703,832,281,1384,438,2389,1,474,42,18,1598,32,585,33,646
 Audiovisuelle	15397
-Audit	3,31,201,308,611,1,646,541,134,36,539,59,104,500,147,265,41,35,15,43,89,1003,18,163,132,722,36,9,171,675,5,265,241,210,59,440,27,590,8,385,327,2,18,84,470,216,96,91,17,146,159,5,59,52,151,16,303,143,89,4,87,259,23,175,62,67,22,249,16,1,5,34,58,23,5,11,18,22,30,62,137,9,24,26,39,50,154,94,220,247,27,223,102,9,28,27,25,110,88,26,17,13,28,115,4,75,50,83,105,71,18,83,145,1,12,43,220,3,208,4,1,64,114,1,67,41,177,2,66,41
+Audit	3,31,201,308,611,1,646,541,134,36,539,59,104,500,147,265,41,35,15,43,89,1003,18,163,132,722,36,9,171,675,5,265,241,210,59,440,27,590,8,385,327,2,18,84,470,216,96,91,17,146,159,5,59,52,151,16,303,143,89,4,87,259,23,175,62,67,22,249,16,1,5,34,58,23,5,11,18,22,30,62,137,9,24,26,39,50,154,94,220,247,27,223,102,9,28,27,25,110,88,26,17,13,28,115,4,75,50,83,105,71,18,83,145,1,12,43,220,3,208,4,1,64,114,1,67,41,177,2,66,41,111,10,81,3,41,10,16,122,23,225
 Audit Act	9439,5322,67,3
 Audit Action Plans	11218
 Audit All	4217
@@ -192,12 +203,12 @@ Audit Approach	13420
 Audit B. Project Components	11417
 Audit Bench	15566
 Audit Bill	9439
-Audit Bureau	10409
+Audit Bureau	10409,6889
 Audit Bureau and UNSMIL	10409
 Audit Bureau's Chairman	10409
 Audit Charter	11906,1014
 Audit Commission	14409
-Audit Committee	718,436,400,3979,4780,818,3,666,558,1062,57,1069,192,8,89,267
+Audit Committee	718,436,400,3979,4780,818,3,666,558,1062,57,1069,192,8,89,267,2262
 Audit Committee Finding The Audit Committee	13420
 Audit Committee Members	11218,32
 Audit Committee Report	11197,53
@@ -207,12 +218,16 @@ Audit Committee Total Number of Meetings	1554
 Audit Committee and Internal Audit	5533
 Audit Committee and Risk	11250
 Audit Committee. Method	9888
-Audit Committees	4896,8226
+Audit Committees	4896,8226,3827
 Audit Committees. Raising	789
 Audit Court System Allows	11939
+Audit Department GSSD International Bank Liberia	17235
 Audit External Audit The MSB Act	14736
 Audit Financial Management	13938
 Audit Finds	3245
+Audit Follow Up Unit LR-MFDP-478888-GO-RFP	17180
+Audit Follow Up Unit NON CONSULTING	17180
+Audit Follow-up Tracking Tool	16949
 Audit Forms	12364
 Audit Forms Quarterly Audit Form REVIEW	12364
 Audit Framework and Independent Oversight	3861
@@ -231,9 +246,10 @@ Audit MTND	15936
 Audit MTSF Not Applicable ICAO International	11986
 Audit Management	15933
 Audit Management Information System	2112
+Audit Management Solution Board Audit Risk	17235
 Audit Marketing Digital	15674
 Audit ONIP	12043
-Audit Office	3051,11719
+Audit Office	3051,11719,2077,96
 Audit Office Act	3025,26,10369,50,121
 Audit Office Board	3051
 Audit Opinion	13420,1565
@@ -243,7 +259,7 @@ Audit Oversight Committee	5533
 Audit QoS Elaboration	998
 Audit Readiness Data Sovereignty	6432
 Audit Recommendation Implementation Committee	9650
-Audit Report	1554,5500,3667,497,32,616,89,2257,414,120,14,388
+Audit Report	1554,5500,3667,497,32,616,89,2257,414,120,14,388,1695
 Audit Report EU	970
 Audit Report. The Office	6463
 Audit Reporting Across Health Facilities. Laboratory	4202
@@ -253,16 +269,19 @@ Audit Requirements Service	11952
 Audit Rights Extended	12302
 Audit Rules	12364
 Audit Rules Each Participant	12364
+Audit Section SOA.27. Offences and Penalties Section	16833
 Audit Service Act	15657
 Audit Service Sierra Leone	9680
+Audit Services	17364
 Audit Standard	15657
+Audit Standards GIABA Gross International Reserves	17235
 Audit Subsection	14908
 Audit Supervisor	13044
 Audit Support	6432
 Audit TORs	15661
 Audit Templates and Forms	3861
 Audit The FM	11863
-Audit Trail	7988,1867,3622
+Audit Trail	7988,1867,3622,3659
 Audit Trail Audit Trail	12364
 Audit Trail and Node Audit Trail and Node	1009
 Audit Trail and Node Authentication	1009
@@ -272,20 +291,24 @@ Audit Trails Complete	12211
 Audit Trails The ZIPSS	12364
 Audit Type	13053
 Audit UN-Board of Auditors UNHCR22 Yearly Project	13938
+Audit Unit	17364
 Audit and Accountability	14921
 Audit and Accounting	1020
+Audit and Compliance	17260
 Audit and Evaluation	12951
 Audit and Exchequer Act	13287
 Audit and Inspection	5665
+Audit and Investigation Office SOP	17101
 Audit and Investigations	11401
 Audit and Investigations Gavi Programme Audit Republic	11401
 Audit and Monitoring	11952,350
 Audit and Monitoring Requirement	11952
+Audit and Pilot Refurbishment Agency	17260
 Audit and Risk Committee	13053,1715,255
 Audit and Risk Committee MEMBER	13053
 Audit and Risk Committee The Audit and Risk	12969,1775
 Audit and Risk Committee. Monetary Policy Committee	14744
-Audit and Risk Management	10550
+Audit and Risk Management	10550,6685
 Audit and Risk Management Committee	9781,1417,1935
 Audit and Risk Sub-Committee	15023
 Audit and VAPT	10721
@@ -304,7 +327,7 @@ Auditabilidade	11448,13
 Auditability	2958,3484,1106,5489,1528,1
 Auditability and Traceability Auditability	14565
 Auditable	10721
-Audited	1607,1,1,1,1,1,3284,637,1779,3507,1044,123,3633
+Audited	1607,1,1,1,1,1,3284,637,1779,3507,1044,123,3633,1631
 Audited Annual Financial Statements	11197
 Audited Appropriation PROGRAMME	11986
 Audited Audited Audited Appropriation	11986
@@ -312,7 +335,7 @@ Audited Audited Audited Appropriation PROGRAMME	11986
 Audited Audited Audited Appropriation PROGRAMME FOUR	11986
 Audited Balances	14546
 Audited Closing	10793
-Audited Financial Statements	3410,1486,6959,545,2336
+Audited Financial Statements	3410,1486,6959,545,2336,2514,78
 Audited Financial Statements for Econet	4896
 Audited Number	10793
 Audited Project Financial Statements	11855
@@ -324,17 +347,19 @@ Audited Rm Irancell Telecommunication Company Services	10793
 Audited Rm Net	10793
 Audited Rm Raised Repaid	10793
 Audited-stage	1613
+Auditees	17364
 Auditer	8515,6034
 Auditeur	15769
 Auditeurs	15027
 Auditeurs Internes	15027
 Auditif	13390
-Auditing	236,547,1944,324,553,283,1009,3092,2841,304,392,1370,158,268,10,89,41,1436,272,203,39,107,140,1,2,428
+Auditing	236,547,1944,324,553,283,1009,3092,2841,304,392,1370,158,268,10,89,41,1436,272,203,39,107,140,1,2,428,835,25,193
 Auditing Arrangements	11855
 Auditing Chambers	14850
 Auditing Cybersecurity	1940
 Auditing Data	14867
 Auditing Data The Regulatory Authority	14867
+Auditing Fees	17364
 Auditing ITB Ingonyama Trust Board ITPGRFA	11197
 Auditing Liquefied Petroleum Gas Ministry of Natural	12969
 Auditing Profession Act	11573
@@ -353,10 +378,11 @@ Audition de Monsieur Hassan Tariq	8891
 Audition de Monsieur Mustapha	8891
 Audition du Ministère	8891
 Audition du Professeur Mohamed Tozy	8891
-Auditor	2668,148,2080,2652,1318,2280,302,507,86,301,304,407,1493,220,1170
+Auditiva	16864,56
+Auditor	2668,148,2080,2652,1318,2280,302,507,86,301,304,407,1493,220,1170,1378
 Auditor Committee	15027
 Auditor Ernst	10793
-Auditor General	121,597,71,365,400,227,30,56,121,524,9,147,166,209,540,634,1127,1078,71,1055,2102,46,617,17,180,720,407,229,229,224,181,146,248,26,7,29,14,2,81,70,209,23,6,57,56,117,94,263,598,389,212,1,87
+Auditor General	121,597,71,365,400,227,30,56,121,524,9,147,166,209,540,634,1127,1078,71,1055,2102,46,617,17,180,720,407,229,229,224,181,146,248,26,7,29,14,2,81,70,209,23,6,57,56,117,94,263,598,389,212,1,87,1598,3,51,427,50
 Auditor General Alexis Kamuhire	3043
 Auditor General Cites Missing Audit Committee	9650
 Auditor General Développement	12358
@@ -371,6 +397,7 @@ Auditor General and Director	12531
 Auditor General and Türkiye’s Court of Accounts	11637
 Auditor General for ECOWAS Institutions	7452
 Auditor General for Local Government	13418
+Auditor General of Liberia John S. Morlu	17314
 Auditor General of South Africa	2521
 Auditor General of State Finances	13418
 Auditor General of State Finances. Annual Audit	14935
@@ -379,7 +406,9 @@ Auditor General's Annual Report	11866
 Auditor General's Department	2779
 Auditor General's Office	1154,11939,2142
 Auditor General's Report	12669
+Auditor General. Fund	16839
 Auditor General. NIDA	14966
+Auditor General. Section SOA.26. Offences and Penalties	16833
 Auditor General’s Office	12972
 Auditor Guerra	4209
 Auditor No	11955
@@ -389,6 +418,7 @@ Auditor's Responsibilities	15169
 Auditor- General	587,9726
 Auditor- General. KEMSA and AFA	10313
 Auditor-General	11,11,423,142,383,44,347,193,1082,143,485,240,210,1193,437,192,1,926,53,430,54,58,38,436,178,773,466,416,74,257,243,80,88,1,205,884,1,26,6,1,48,6,18,161,402,128,151,113,393,769,50,887,58,34,97,48,1063,1158
+Auditor-General Hon. P. Garswa Jackson	17364
 Auditor-General ODPC Office	6432
 Auditor-General Strategic Plan	10107
 Auditor-General The Office	14546
@@ -416,14 +446,15 @@ Auditoria Ambiental	11390
 Auditorias	11406,55
 Auditorias Artigo	11461
 Auditorium	3661,5668,15,1600,297
-Auditors	585,4311,4754,2692,141,17,472,81,417,758,393,406,632
+Auditors	585,4311,4754,2692,141,17,472,81,417,758,393,406,632,1875
 Auditors Advisor	4896
 Auditors Control Advisor Date	4896
 Auditors General	14409
+Auditors IAD International Investment Position IBLL	17235
 Auditors and Consultants	11955
 Auditorías	4209
 Auditor’s Report	11250
-Audits	2775,386,341,102,550,6584,37,101,263,724,1057,2,131,237,91,1364,240,164,752,243
+Audits	2775,386,341,102,550,6584,37,101,263,724,1057,2,131,237,91,1364,240,164,752,243,955,265
 Audits AI	16212
 Audits Environnementaux	15999
 Audits Environnementaux Frais	15999
@@ -467,6 +498,7 @@ BCPFS Recurrent Yearly Audit	16032
 BIGIRIMANA Audace	13390
 BOARD Audit Committee	6946
 BOCRA Auditorium. The Botswana Internet Exchange	12625
+Background of GAC The General Auditing Commission	17364
 Bank of Zambia ZIPSS Rules Annual Audit	12364
 Bank’s Internal Audit	11131,3
 Biannually Audit	3604
@@ -474,8 +506,10 @@ Bill Download PDF Download Audio	15021
 Board Audit	11131
 Board Audit Committee	7204,3927,3,3968
 Board Audit Committee Charter	15102
+Board Audit Risk	17235
 Board Audit and Risk Assurance Committee	6946
 Board Audit and Risk Assurance Committee BETA	6946
+Board Audit and Risk Management	17235
 Board Member Date Appointed Board Audit	11131
 Board for Auditors	3714
 Board of Directors Audit	12969
@@ -485,11 +519,13 @@ Board’s Audit and Risk Committee	15023
 Body SIMPLIFIED REPORT OF THE AUDITOR	13355
 Brandon Audeh	14376
 Broad Audience	1777
+Bureau of Audits	17364
 C. Independent Security Audits	14716
 C. Independent Security Audits The National	14716
 C. Regular Audits	4610
 CAR’s Supreme Audit Institution	15661
 CESE Audition de Monsieur Hassan Tariq	8891
+CFC Auditor General	17364
 CGMP Supreme Audit Institution	11905
 CITIZEN AFFAIRS Audited Audited Audited Medium	11986
 COMMUNICATION AUDIOVISUEItE	15397
@@ -500,11 +536,13 @@ Carry Out Internal Audits	14546
 Central Bank of Seychelles’ Internal Audit Division	11134
 Central Internal Audit Department	15147
 Certification Department and External Auditor Pass Pass	10819
+Certified Information System Auditor	17235
 Certified Information Systems Auditor	1940,8925
 Certified Internal Auditor	3632,11365
 Certified SIM3 Auditor Training	9470
 Chengeto Moyo Reporting Accountants and Auditors	4896
 Chief Audit Executive CARA Criminal Assets	11218
+Circulation CIBN Certified Information Systems Auditor	17235
 Citizen Auditor-General	2742,3774
 Civil Magistrado Audiencia Provincial Abogado	4209
 Clean Audit Opinion	11198
@@ -520,11 +558,15 @@ Committee The Audit	14736
 Committee. Audited	10313
 Committee. Board Audit Committee	11131,3
 Communication Activity Matrix Activity Purpose Audience	15845
-Communication Audiovisuelle	8891,7045
+Communication Audiovisuelle	8891,7045,1549
 Communication Présidentielle Audience	16156
 Community Mode of Construction and Environmental Audit	13392
+Compilation of Program Monetary Data Audit	17235
 Complete the Audit	12389
+Completion Audit Report	17114
 Compliance Audit	15152
+Compliance Audit Report	17314
+Compliance Audit Reports	16843
 Compliance Audit Returns	11956,37
 Compliance Audit Returns Certificate	11956
 Compliance Monitoring and Audit	12302
@@ -534,9 +576,11 @@ Comprehensive Audits	13053
 Comptroller and Auditor-General	13287
 Comunicación Audiovisual	9303
 Conclusion The Audit Committee	1554
+Conduct Gender Disaggregated Statistics Assessment Audit	17116
 Conduct Internal Audits Despite The National	14546
 Conduct Internal Audits Despite the National Treasury	14546
 Conduct Internal Audits Management	14546
+Conduct Internal Process Audits	16985
 Conduct of Compliance Audit	4583,7718
 Consolidated Audited Financial Statements	4896
 Consolidated Fringe Benefits Package for Management Audit	15023
@@ -549,11 +593,15 @@ Controller and Auditor	14546
 Controller and Auditor General	14546
 Controls and Audits	15901
 Controls and Audits Svetla Dalbokova	15901
+Corporate IT and IT Audit Units	17364
 Cost Recovery Audit Findings	3583
 Council's Audit Committee Charter. Financial Reporting	1554
+Court of Audit	16994
+Court of Audit Court of Audit	16994
 Court of Audit. Economic	15752
-Court of Auditors	3667,7101,768,50,3964
+Court of Auditors	3667,7101,768,50,3964,1408
 Cuerpo de Auditores	4209
+Currency Management and Vault Operations Audit	17235
 Cybersecurity Audit	10721,1322
 D B MOR's Internal Audit Directorate	12500
 DANS TOUS LES MODULATION DES AUDITS	2342
@@ -564,6 +612,7 @@ DE SERVICES AUDIOVISUEI.S Artlcle	15397
 DE SERVICES DE COMMUNICATION AUDIOVISUETTE EN	15397
 DEPARTAM. AUDITORIA	4209
 DEPARTAM. AUDITORIAS	4209
+DEPARTURE OF AN AUDITOR	17534
 DES ENTREPRISES PUBLIQUES MODULATION DES AUDITS	2342
 DEVELOPMENT UNIT Internal Audit Squad CENTRAL	14760
 DORIS GAKII Share Audio By Vocalize	7710
@@ -600,10 +649,12 @@ Direcção de Auditoria	167
 Direito de Audição Prévia DCG	11435
 Disbursed AUD	249
 Dispute of Tax Audit Results	12389
+Distinguido Auditorio	16865
 Distribution of Audits Conducted	13053
 Documentation and Auditability	3861
 Documentation and Auditability All	3861
 Domestic Tax Audits Domestic	13053
+DÉPART D'UN AUDITEUR	17534
 EB Financial Audits OUTPUT INDICATOR	11863
 EHSS Audit and Assurance	10643
 ENCONTRO DOS JOVENS AUDITORES DA OISC	11473
@@ -622,18 +673,25 @@ Energy Audit Firm T3	12256
 Energy Auditor T2	12256
 Energy Consumer and Energy Audits	14745
 Engage Independent Auditors	12675
+Enhance Internal Audit	17364
 Enhancing Internal Audit Function The Finance	14828,3
+Ensuring Efficiency of Audit	16885
 Entities. The Auditor-General of South Africa	11230
 Entreprises Publiques Audiovisuelles Comoriennes	13781
+Environmental Assessments and Audits	17114
 Environmental Audits	2775
-Environmental and Social Audit	3604
+Environmental and Social Audit	3604,13495
+Environmental and Social Audit Hazard	17114
+Environmental and Social Audits	17114
 Establish Audit Standards	12675
+Establishing Independent Audit	16843
 Estimated Audited	11986
 Eswatini's Auditor-General	10108
 European Court of Auditors	15901
 Evaluation and Auditing	11193
 Executive Director Dr. Audrin Mathe	12982
 Expanded Implementation Support IAD Internal Audit	1264
+Expansion of Post-Clearance Audit	17367
 Expertise des Auditeurs Associés	10821
 External Audit	14736,817,666
 External Audit Article	15102
@@ -647,6 +705,10 @@ External Auditors Information Auditor-General South Africa	11250
 External Auditors National Audit Office	14736
 External Audits	10819
 External Audits Application Process for Potential Trust	10819
+FDA Annual Compliance Audit Report	16843
+FDA Compliance Audit Report	16843
+FDA Compliance Audit Report.Verification	16843
+FDA Compliance Audits	16843
 FINANCE AND AUDIT COMMITTEE This Committee	718
 FINANCIAL AUDIT REPORT ON THE CONSOLIDATED	13126
 FISCALES ADJUNTOS DE LA AUDIENCIA PROVINCIAL	4209
@@ -678,6 +740,7 @@ Findings of Forensic Audit	10822
 Firm of Certified Auditors	11955
 Fiscal Audiencia Provincial	4209
 Fiscal Audiencia Provincial Fiscal de Instrucción Fiscal	4209
+Fleet Management Audit	17235
 Forensic Audit	10822
 Forensic Audit Public Engagement Platform	12557
 Forensic Audit Report	12956
@@ -687,22 +750,29 @@ Former Controller and Auditor General Ludovic Utouh	3632
 Former National Institute of Cinema and Audiovisual	11546
 Forward Looking Internal Audit	11131
 Functional Audit Committee The GAC	9650
+GAC General Auditing Commission GDP Gross	17139
 Gabinete de Auditoria Interna	16193
 Gavi’s Audit and Investigation	11401
 Gaya Member Piragalathan Chinnapen The Audit	14744
 Gender Audit and Gender Strategy	9516
-General Auditing Commission	8835,120,2765,2321,5,308
+General Audit Commission	17364
+General Auditing Commission	8835,120,2765,2321,5,308,2595,286,22,3,54,50
+General Auditing Commission. Enrolled	16841
+General Auditing Commission’s Strategic Plan	17364
+General Auditing Office	17364
 Generic Tax Audit	12389
 Ghana Audit Service. Our Vision	15657
 Ghana Audit Service. The Study	15657
-Global Internal Audit Standards	11134,3889
+Global Internal Audit Standards	11134,3889,2212
 Global Internal Auditing Standards	11131
 Gobierno Presidente Audiencia Provincial	4209
 Gobierno Secretario General Ministerio Fiscal Audiencia	4209
 Gouvernement. I. AUDITION DU GOUVERNEMENT	15671
 GovNet Audit	12043
+Government GAC General Auditing Commission GDP	16949
 Government of Nigeria. Federal Audit Service Commission	11866
 Growth Number of Audits Conducted	13053
+Guidelines for Auditing Management Systems This Standard	16900
 Gweru Urban and Luveve Constituencies Audit of Gweru	13420
 HEI. AI Risk and Audit Committee	14812
 Head Internal Audit	11131,3
@@ -710,6 +780,7 @@ Head Internal Audit MPhil	11134
 Head Internal Audit Refiloe Mamogobo Head	11131
 Head Internal Audit. The BAC	11131
 High Definition Audio	34
+High-Risk SOEs and MACs Require Audits	17364
 Hon. Audace NIYO F	13334
 Human Resource Internal Audit Compliance Management	6946
 Human Resources Audit	15424
@@ -718,7 +789,9 @@ Hz Audible Noise DTV	34
 IAASB International Auditing and Assurance Standards Board	11380
 ICAO Aviation Security Audit	13123
 IDA Audrey Anne Alexandra Ariss Project	1284
+INDEPENDENT AUDIT	16843
 INDEPENDENT AUDITOR’S REPORT TO THE BOARD	13053
+INSTRUCTIONS ON THE INDEPENDENT SYSTEM AUDIT	16843
 INTENDED AUDIENCE	1009
 INTERNAL AUDIT	12920
 INTERNAL AUDIT AND AUDIT COMMITTEES	11218,6
@@ -727,8 +800,8 @@ Identify Target Audiences MICSTI Ministry of Education	12675
 Identify the Target Audience	12675
 Immigration Services AG Auditor-General DDG	11986
 Implement Bias Audits	12675
-Independent Audit	11131,3
-Independent Auditor	4896,2308,3589
+Independent Audit	11131,3,5709,5,5,4
+Independent Auditor	4896,2308,3589,6040,20
 Independent Auditors Grant Thornton	13053
 Independent Auditor’s Report REPORT	11955
 Independent Auditor’s Report and Opinion	11955
@@ -740,22 +813,25 @@ Independent Regulatory Board for Auditors	11198
 Industry Trends and Audience Survey	6946
 Information Services AGSA Auditor-General of South Africa	11986
 Information Systems Audit and Control Association	9237,1179,13
+Inspection and Audit Powers	17243
 Inspections and Audit	13185
 Inspections and Auditing The Consultant	13037
 Inspectors and Auditors	12900
-Institute of Internal Auditors	1155,2477,3314,4188,3604,285
+Institute of Internal Auditors	1155,2477,3314,4188,3604,285,2212
 Institutional Audits	13556
+Insurance Department Audit	17235
 Intended Audience	1009,12028
 Intermediate Level Tenable Certified Nessus Auditor	15662
-Internal Audit	1155,4378,1413,2750,1435,3,103,718,31,359,606,5,16,81,40,1667,68,3,12,180,8,685
+Internal Audit	1155,4378,1413,2750,1435,3,103,718,31,359,606,5,16,81,40,1667,68,3,12,180,8,685,1233,286,129
 Internal Audit Activity Reports for Q1	15023
+Internal Audit Agency	16949
 Internal Audit Agency Act	11,576
 Internal Audit Agency CSA	6936
 Internal Audit Annual Plan	12500
 Internal Audit Article	15102
 Internal Audit Cadre	14843
 Internal Audit Charter	1554,5392,6005,2072
-Internal Audit Department	1264,11708,2094
+Internal Audit Department	1264,11708,2094,2169
 Internal Audit Directorate	12500
 Internal Audit Framework	11131
 Internal Audit Function	1154,13948
@@ -766,8 +842,9 @@ Internal Audit Plan	1554,9580
 Internal Audit Report	408,12561,1791
 Internal Audit Reports	14828,3
 Internal Audit Reports Prepared	13005
-Internal Audit Section	14744
+Internal Audit Section	14744,2205
 Internal Audit Standard Operational Procedure	14738
+Internal Audit Strategic Plan	17235
 Internal Audit Technician	11131
 Internal Audit Training Program	12500
 Internal Audit Unit	587,967,9275,395,3322
@@ -776,7 +853,7 @@ Internal Audit Unit and Audit Committee	11224
 Internal Audit Units	15147
 Internal Audit and Audit Committees	11197,53
 Internal Audit. Through	15023
-Internal Auditing	14738
+Internal Auditing	14738,2206
 Internal Auditing Staff	14738
 Internal Auditor	587,677,290,9971,1945,1266,782
 Internal Auditor CIS Collective Investment Schemes	14997
@@ -788,9 +865,9 @@ Internal Control and Internal Auditing. Administrative	15518
 Internal Controls and Internal Audit	15659
 Internal Quality Audits	9855
 International Auditing Standards	11955
-International Organization of Supreme Audit Institutions	12325
+International Organization of Supreme Audit Institutions	12325,5039
 International Standards for Supreme Audit Institutions	10768
-International Standards of Supreme Audit Institutions	3051,10369,1126
+International Standards of Supreme Audit Institutions	3051,10369,1126,2403
 Investigations and Audit	13373
 Investment Audit	4349
 Issue Audits	13053
@@ -807,6 +884,7 @@ Kévin Audrey	15524
 LEGAL AUDIT AND COMPLIANCE DIRECTIVE	3861
 LGT Audits	14985
 LIDERANÇA PARA AUDITORES GERAIS ADJUNTOS	11473
+LV Auditors Training	16848
 La Comunicación Audiovisual	9303
 Land Audit Report	11193
 Latest Audited Financial Statements	11209
@@ -815,11 +893,14 @@ Legal Audit and Compliance Directive	3861
 Legal Basis Audit Tool	7409
 Level of Assurance Approve Periodic Audit	10819
 Liberia's General Auditing Commission	9650
+Liberian Constitution Audit	17364
+Liberia’s Supreme Audit Institution	17364
 Libya's Audit Bureau	10002
 Libya's Audit Bureau and Tunisia's Court of Auditors	10002
+Licensing and Independent Audit	16853
 Liliane Marie Audrey VANE	16175
 Lillian Kariuki Auditor	12287
-Logging and Auditing	6423
+Logging and Auditing	6423,10524
 Logs Audit	11153
 M. Audace OLABA	16175
 M. Audrey Alban Jean-Baptiste Mapithy-Ma-Mapithy	5079
@@ -841,6 +922,7 @@ Magistrado Audiencia Provincial	4209
 Magistrado Audiencia Provincial Oficial Mayor	4209
 Management Audit	12962
 Management Audit Reports. The Ministry of Public	12972
+Management Information Insurance Department Internal Audit	17235
 Management. The Internal Auditor	14736
 Managing the AI Audit Lab	16212
 Mandate Audit Frequency	12675
@@ -855,6 +937,7 @@ Medios Audiovisuales. Esta	9320
 Member The Audit Risk Management and Governance	14736
 Michael Okpara Auditorium	5072
 Minister of Skills Audit and Development. Liquid Intelligent	13615
+Ministry of Finance and Audit Bureau	17135
 Ministry of Skills Audit	4528,7984
 Ministry of Skills Audit and Development	7521
 Ministry’s Audit Committee	2867,10553
@@ -862,8 +945,10 @@ Miss GHOORAH Bhargvee Assistant Director of Audit	14770
 Mme Audrey Guenaëlle Ruffine YEBE	16175
 Mme MAGANGA MANGALA Audrey Service Ressources	16099
 Mme OSSOUBITA Audrée	16195
+MoFEA Directorate of Internal Audit	16896,26
 Moderate Auditing	15518
 Moderate’. Audit	15019
+Mohammed Thabet M Audah	17070
 Monitor and Audit Systems	12675
 Museum Auditorium OVERALL	11134
 NACION. AUDITORÍAS PRESIDENTE MISIONES MALABO CONT	4209
@@ -884,7 +969,7 @@ National Audit Chamber Act	3583
 National Audit Chamber of Sudan Independent Auditor	15169
 National Audit Chambers	14850,490
 National Audit MIS	12453,892
-National Audit Office	12176,829,1621,110,14,11,25,61
+National Audit Office	12176,829,1621,110,14,11,25,61,2258
 National Audit Office Ministry of Public Service	14770
 National Auditing Chambers	14850
 National Auditor	15340
@@ -892,6 +977,7 @@ National Committee of Press and Audiovisual	13739
 National Council for Audiovisual Regulation	2311
 National Personnel Audit	11879
 National Press and Audiovisual Council	13739
+National Public Buildings Audit	17260
 National Quality Audit Framework	12175
 National Treasury and Auditor-General	10313
 Neurollect Audread	8209
@@ -916,6 +1002,7 @@ Operation Audio	34
 Order of Accountants and Auditors of Mozambique	6626
 Outcomes Metrics Audit	4153
 Overview Internal Audit	11131
+PAC Secretariat for Audit	17180
 PART ONE Audio	14190
 PART V INSPECTORS AND AUDITORS	12894
 PART V INSPECTORS AND AUDITORS Appointment	12894
@@ -923,6 +1010,7 @@ PART VI DATA AUDITORS	13321
 PEFA External Audit	970
 PERFORMANCE AUDIT REPORT OF THE AUDITOR-GENERAL	15657
 PERFORMANCE INFORMATION B AUDITOR-GENERAL’S REPORT	11198
+PFMU Internal Audit Section	16949
 PHP AUDIT	15424
 PNLS Audience	16012
 POST-TRANSFER AUDIT	15600
@@ -939,6 +1027,8 @@ Paul Octave Wiehe Auditorium	14779,56
 Perform Internal Audit	14546
 Performance Audit	741,1247
 Performance Audit Report	741,11253
+Performance Audit Unit	17364
+Performance Audits Conduct	17011
 Periodic Audits	11995
 Periodic Audits and Inspections Periodic	5665
 Periodic Compliance Audits	15120
@@ -946,7 +1036,9 @@ Personnel Audit and Skills Gap Analysis	7659
 Photos Vidéos Audio Agenda	3675
 Photos Vidéos Audios Agenda	3675
 Planned Audit	14746
+Post Clearance Audit	17367
 Post Clearance Audits Type of Audit	13053
+Post-Clearance Audit TDO	17367
 Post-Clearance Audit. Mr. Brightwell Nkambule	13051
 Post-Clearance Audits	12389
 Post-Clearance Audits Post Clearance Audits	13053
@@ -962,6 +1054,7 @@ Probity Auditor	15080
 Process Metric Audit	4153,14,35,15,43,41,48,1003
 Professional Bar of Certified Auditors and Accountants	11955
 Professional Practice of Internal Auditing	14738
+Program Audit Report. Source DLI	17470
 Program Design Effectiveness Risk Internal Audit	3604
 Program. Internal Control and Internal Audit Arrangements	3604
 Programme Evaluation and Auditing UN Women United	11193
@@ -979,7 +1072,10 @@ Public Audience Create	4126
 Public Audit Act	6946,1988,1379,934,5,212,1541,1405,39,44,53,29,19
 Public Audit Act No	741,12614
 QMS Surveillance Audit	12977
+QUALIFIED AUDITOR	17534
+Qualified Information Systems Security Audit Service	17534
 Quality Assurance Manual. Audit Transformation	11134
+Quality Assurance Quality Audits	16963
 Quarter Total Auditor General’s Office	12972
 Quarterly Audience Measurement and Media Consumption Trends	6946
 Quarterly Audit	10829,696,330,1477,2221,108
@@ -994,6 +1090,8 @@ REPORT OF THE DIRECTOR’S OF AUDIT	14736
 REQUIRED EXTENSIBLE AUDITABLE	6423
 REQUIRED REPLACEABLE AUDITABLE	6423
 RISK MANAGEMENT AND INTERNAL AUDIT	12951
+RP Completion Audit	17114
+RP Completion Audit Upon	17114
 Radio Audience Measures RDP Reconstruction and Development	11192
 Raïssa Audrey	16175
 Reappointment of External Auditors	15023
@@ -1011,6 +1109,7 @@ Reporting Accountants and Auditors Announcement of Dividend	4896
 Reps Pass Nigeria Audit Service Act	11866
 Republic of Angola Programme Audit	11401
 Request the National Audit Chamber	3583
+Resettlement Completion Audit	17114
 Resilient and Audit and Develop	4126
 Responsabilités des Auditeurs Internes Ingingo	15027
 Responsible AI Audit Lab	16212
@@ -1056,8 +1155,9 @@ Security Audit. Acts	783
 Security Audits Regular	13381
 Secção Marco Rohrbacher Audiência	10752
 Selon Facebook Audience Insights	15474
+Senior Internal Auditor	16949
 Services Galerie Vidéos Photos Audios Agenda	3675
-Servicios de Comunicación Audiovisual	9303
+Servicios de Comunicación Audiovisual	9303,7891,88
 Serviço de Auditoria Interna	15526
 Shape the Audio-Visual Future	10441
 SierraSeat Audit Management Information System	9680
@@ -1073,24 +1173,34 @@ Specialization Unit Audrey Anne Alexandra Team	1284
 Spectrum Audit	5245
 Stability Non-Bank FIs Supervision Internal Audit	15023
 Stable Audio	9739
+Stakeholder Engagement Indicators S. No. Audience	17099
 Standard Audit File for Tax Proposes-Cabo Verde	16022
 Statistical Auditing for Compliance	14857
 Stock Analysis and Supply Chain Audits	14985
+Strategic Plan The General Auditing	17364
+Strengthen Audit Capacity	17011
+Strengthen Audit Capacity No. Activities Implementation	17011
 Stronger Governance and Compliance Audit	13532
 Subsequent Audit	15492
 Summary of Audit Opinion Opinion Issued Number	13420
 Supervision Consultancy Services and Project Audit	15011
 Supply Chain Audit	4153,14,35,15,43,41,48,1003
-Supreme Audit Institution	9439,241,428,1309,488,1051,167,2249,285,2
+Supreme Audit Institution	9439,241,428,1309,488,1051,167,2249,285,2,1705
 Supreme Audit Institution Performance Measurement Framework	9439
+Supreme Audit Institution. Approximately	17364
 Supreme Audit Institution. Without	9439
-Supreme Audit Institutions	9439,3981,2724
+Supreme Audit Institutions	9439,3981,2724,1220
 Supreme Audit Institutions Government Ant Corruption	12972
+Supreme Audit Institutions Talent	17364
+Suspense and Settlement Account Reconciliation Audit	17235
+Swedish National Audit Office	17364
 System Audit Logs	14546
 T Security Auditors	6832
 TARGET AUDIENCE	13133
 TARGET AUDIENCE AND SCOPE	15540
 TAX AUDITS AND RELATED DISPUTES	12389
+TELECOMMUNICATIONS AUDIO	16900
+TELECOMMUNICATIONS. AUDIO AND VIDEO ENGINEERING	16900
 TEVV Audit	16212
 TH REPORT ON AUDITED ACCOUNTS	10313
 Target Audience	940
@@ -1106,8 +1216,10 @@ Technical Auditing	16212
 Testing Security Audit Annual	11952
 TikTok Audience Insights	13461
 Timely Submission of Project Audit	12195
+Tipo Auditiva	16864
 Togo's High Authority for Audiovisual and Communication	4237
 Trails Audit	11153
+Transform Audit Delivery	17364
 Transmissão de Conteúdos Audiovisuais	11430
 Transparent Audit Publication	5574
 Treasury’s Internal Audit Unit	14546
@@ -1115,7 +1227,10 @@ Trinity Audio	9111,882
 Trust Audit	14752
 Tweet Head of Libya’s Audit Bureau Khaled	10409
 Télécommunications Start-Up Audiences Publications	3675
+UK National Audit Office	16923
+UN AUDITEUR QUALIFIÉ	17534
 UN Board of Auditors	13938
+UNFPA Office of Audit and Investigations Services	17068
 Uganda's Auditor General	3583
 Unannounced Cybersecurity Audit	15662
 Union Commission AUDA-NEPAD African Union Development	1814
@@ -1126,9 +1241,12 @@ V AUDCG	15495
 VI.8.3. Audits	10876
 Van Audenhove	12333
 Variances Between Prior Year Audited Outstanding	14546
+Visual Auditiva Motora Intelectual Visual	16864
+Visual Auditiva Motora Visual	16920
 Voluntary Energy Audits Over	14745
 WEIRD Audits	4253
 Waste Audit	1988
 Work-Integrated Audit	6832
+World Audiovisual	17240
 XI. AUDIT EXTERNE DU PROGRAMME	10876
 Year-End Report and Audit Report	14212

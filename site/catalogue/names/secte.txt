@@ -216,7 +216,7 @@ STRATEGIE DE DEVELOPPEMENT DU SECTEUR	15799
 Secondaires Secteur Tertiaire Transverse Humaines Publiques	2342
 Secte	13300
 Secte Autre	13300
-Secteur	419,318,450,869,286,257,669,128,1974,444,63,891,887,188,682,1397,597,356,100,949,20,1346,10,25,65,92,153,82,10,10,59,629,13,1,109,71,218,546,40,51,1,18,49,41,54,36,39,128,8,172,307,294,5,25,11
+Secteur	419,318,450,869,286,257,669,128,1974,444,63,891,887,188,682,1397,597,356,100,949,20,1346,10,25,65,92,153,82,10,10,59,629,13,1,109,71,218,546,40,51,1,18,49,41,54,36,39,128,8,172,307,294,5,25,11,823
 Secteur Bancaire	3715,627,9373,56,25,753
 Secteur Bancaire M. IBRAHIM MOHAMED Abdourazak	1961
 Secteur Bancaire Place	3715
@@ -267,7 +267,7 @@ Secteur des Douanes du Centre	4269
 Secteur des TIC	13716
 Secteur des Tic	13717
 Secteur. L’entrée	10975
-Secteurs	2342,11048,1098,1,1,1838,380
+Secteurs	2342,11048,1098,1,1,1838,380,794
 Secteurs Non-résidents	13390
 Secteurs Non-résidents TOTAL Effectif	13390
 Secteurs Non-résidents TOTAL FEUILLE	13390
@@ -281,6 +281,7 @@ Statistique du Secteur Développement Rural	9553
 Statistiques du Secteur Rural	16616
 Statuts Particuliers des Fonctionnaires du Secteur Transport	15371
 TA PROMOTION DU SECTEUR BOURSIER Article	15999
+TRANSFORMATION NUMÉRIQUE DU SECTEUR PUBLIC AU	17448
 Transformation Digitale du Secteur	13306
 Transformation du Secteur	15673
 UNE ACTIVITÉ DU SECTEUR DE L’ÉLECTRICITÉ	15670

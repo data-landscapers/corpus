@@ -5,6 +5,7 @@ ADDITIONAL DETAILS AS PER APPLICATION PLEASE	14754
 AI CAF Detailed Mapping	15713
 AI. Detailed Data Strategy	15713
 ALRS DETRESSE EMERGENCY	16552
+ANNUAL DETERMINATION	17250
 APPLICATION DETAILS	2709
 APPLICATION DETAILS Date of Application Name of Originator	12364
 ASSIGNMENT AND DETAILED TASKS	15090
@@ -18,10 +19,12 @@ Action Details	15713
 Action Details Construct	15713
 Action Details Deliverables	15713
 Action Details Deliverables Cooperative	15713
+Activity Details	17196
 Activity Details Direct Beneficiaries40 Strengthening	1867
 Advanced Level GIAC Certified Detection Analyst	15662
 Age Determination Committee	12959
 Age Determination Committees	12959
+Agricultural Council Determining	16916
 Amend PIN Details	14533
 Amend Profile Details	14533
 Amortissement Dette Structurée RESSOURCES DE FINANCEMENTS	15999
@@ -30,6 +33,7 @@ Angola’s Nationally Determined Contribution	10768
 Anomaly Detection	10721,510
 Antenna Details Make Model Frequency Range	736
 Antenna Details Model Make	736
+Arbitrary Detention	16972
 Area Details Indices Targets	11857
 Autonome de Gestion des Dettes CCE	10876
 Autonomous Satellite Wildfire Detection Using Hyperspectral	14769
@@ -42,6 +46,7 @@ BUDGET DETAILLE DU PSNSN	16195
 Back News Details	16114
 Banco Nacional de Angola. DETERMINO	11403
 Bank Account Details	14501
+Bank Account Details Currency Held	16978
 Bank Details	14533
 Banking Details	12342,55,3
 Base I Repeater Station Details Type	736
@@ -62,10 +67,13 @@ CAR’s Nationally Determined Contributions	2889
 CC Cyber Threats Detected FY	6946
 CFA. SECTION III DES DETITS CONTRE	15397
 CIRMR-DP.S2 Detection Process	10721
+CLIENT DETAILS Libyan International Telecom Company	17436
 COMPLAINANT’S DETAILS	2709
+COMPONENT Measure Type Details Proposed Responsible	17157
 COMPULSORY BRIEFING SESSION DETAILS	11240
 CONTENU DETAILLÉ DES MODULES Module	10237
 CONVENTIONS ET DETTES DES TIERS	15999
+COST SUMMARY ESTIMATES GOAL DETAILS ESTIMATE	16885
 COUNTRY CLASSIFICATION AND DETERMINATION OF SCENARIO	13868
 COURT ADDRESSES AND CONTACT DETAILS	12920
 CROSS-BORDER TRANSFER MECHANISMS AND ADEQUACY DETERMINATIONS	3861
@@ -93,14 +101,17 @@ Closing Details	15424
 Code Detail Record	5173
 Code of Practice for Information Security Controls Detailed	3861
 Collision Detection	3604
-Color Key Improvement Deterioration No Change	16260
+Color Key Improvement Deterioration No Change	16260,988,4
 Competitive Obj. Objective Details No	1818
 Complainant Details Grievance Ref	1778
+Complaint-Stage Determination	17243
 Computer-Aided Detection	12678
+Concept Note and Detailed Budget	17116
+Confidentiality Status Details	17212
 Congo’s Nationally Determined Contributions	15553
 Constitution. Detailed	14546
 Consultant Final Detailed Project Report	12962
-Contact Details	15901
+Contact Details	15901,1213
 Contact Details Ministry of Youth and Gender Affairs	12642
 Contact Details of Organizers	13021
 Contas Detidas Junto	10755
@@ -109,6 +120,7 @@ Contribuição Nacionalmente Determinada	15962
 Corruption Detection and Prevention Strategy	12598
 Court. Issues for Determination	3005
 Crime Detection Strategy NCPS National Crime	11188
+Criterios Determinantes	16855
 Cross-Border Transfer Mechanisms and Adequacy Determinations	3861
 Culturally Grounded Misogyny Detection Framework	7790
 Cutoff Age Determination	10714
@@ -122,6 +134,7 @@ D1-D3 Detect	14020
 DE LA DETERMINATION DE L’ELU Article	15727
 DE LA DETERMINATION DES ELUS Article	15727
 DE LA DETTE ET DES PARTICIPATIONS	15973,28,98,76,206
+DECLARATION DES AVOIRS ET LIQUIDITES DETENUS	17485
 DEFINITION OF KEY CONCEPTS Determining	13418
 DELIVERY DETAILS	4896
 DEMANDES DE GARANTIE DETTES PUBLIQUES	15999
@@ -148,7 +161,7 @@ DETAILED PRESCRIPTION OF ANY ACTIONS	2709
 DETAILED PROJECT DESCRIPTION	10829
 DETAILED PROJECT DESCRIPTION Table	10829
 DETAILED QUARTERLY DASHBOARD PROGRESS L	11236
-DETAILS	1284,2172,148,7605,208,438,1477,2181,37,71,523
+DETAILS	1284,2172,148,7605,208,438,1477,2181,37,71,523,778
 DETAILS Non-World Bank Group Financing Trust	13523
 DETAILS OF APPLICANT	14740
 DETAILS OF THE COMPANY SECRETARY	4896
@@ -156,6 +169,7 @@ DETAILS OF THE COMPANY SECRETARY Authorized	4896
 DETAILS OF THE COMPLAINT	2709
 DETAILS OF THE HEALTH DATA CONTROLLER	2709
 DETAILS OF THE REQUESTER	2709
+DETAILS OF THE STRATEGIC OBJECTIVES	16884,1
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED	4896
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED PROPERTY	4896
 DETAILS World Bank Group Financing	13787,2867
@@ -172,6 +186,7 @@ DETECTION ET IDENTIFICATION DES VICTIMES Art	16085
 DETECTOR SECURITY GROUP LIMITED Data Controller	7167
 DETENTEURS DE MONNAIE ELECTRONIQUE	11522
 DETENTION D’UN EQUIPEMENT POUR COMMETTRE DES	16617
+DETENTION OF RECOGNIZED REFUGEES AND PROTECTED	16830
 DETERMINATION	5113
 DETERMINATION DE LA BASE D'IMPOSITION Article	15999
 DETERMINATION DE L’ASSIETTÈDE L'IMPOTISUR LE REVENU	15999
@@ -186,6 +201,7 @@ DETERMINATION ON THE OPERATIONAL AND CYBERSECURITY	13206
 DETERMINATION UNDER PAYMENT SYSTEM MANAGEMENT ACT	13206
 DETERMINATION UNDER THE BANKING INSTITUTIONS ACT	12967
 DETERMINATION UNDER THE PAYMENT SYSTEM MANAGEMENT	12365,9,73,638
+DETERMINATIONS AND DIRECTIONS	17243
 DETERMINED	3861,10586,1194
 DETERMINED BY RELEVANT MACS	14879
 DETERMINING ITS RESPONSIBILITIES	14862
@@ -199,6 +215,7 @@ DETTES ET ARRIERES ENvERs	14479
 DETTES PÜBLIQUES	15999
 DFIL. Details	10768
 DIGITAL HEALTH SOLUTION DETAILS	2709
+DIGITALIZACIÓN DE LOS CAMBIOS DETECTADOS EN	16875
 DPP Details	12058
 DPSA Determination and Directive	11196
 DU PLAFOND DES DETTES FINANCIERES	16020
@@ -213,8 +230,10 @@ Description Objective Action Details Tech-I5-A1 Training	15713
 Descrição Detalhada da Subcomponente	11440
 Det. Sociais da Saúde	15966
 Detaded	3972
+Detai Component	17219
 Detaiked	3972
 Detail	5665,758,4396,29,285,152,1666
+Detail Explanation of Strategic Goal and Cost Profiles	17116
 Detail.php	9399
 DetailArticles	13912
 DetailByLanguage	10848
@@ -222,12 +241,14 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109,347,46,39,59,24,10,39,1,242,39,62,38,111,39,52,256,390,241
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109,347,46,39,59,24,10,39,1,242,39,62,38,111,39,52,256,390,241,243,5,5,97,61,8,95,2,24,9,111,245
+Detailed Action Table	17116
 Detailed Analysis	236
 Detailed Assessments	14777
 Detailed Assessments Using the Data Quality Assessment	14777
 Detailed Audit Trails	5665
 Detailed BOM	15080
+Detailed Budget	16863
 Detailed Budget Estimates for FY2026	14986
 Detailed Change	14966,5
 Detailed Changes	13459
@@ -247,7 +268,7 @@ Detailed OGP Commitments	12987
 Detailed Planning MoF	15473
 Detailed Plans	15388,85
 Detailed Project	11855
-Detailed Project Description	15372,39
+Detailed Project Description	15372,39,2030
 Detailed Project Description AFRICA	15372
 Detailed Project Description GABON	15411
 Detailed Project Report	12962
@@ -258,13 +279,15 @@ Detailed Roles and Responsibilities	12674
 Detailed Roles and Responsibilities for AISIO Leadership	4528,7984
 Detailed STG and GEA	11916
 Detailed Sector Analyses	2957
+Detailed Strategic Initiatives	17364
 Detailed Sub-sector	14997
 Detailed Tasks Assigned	13037
 Detailed Theory of Change Education Sector Plan	15604
 Detailed Urban Planning Plans	10930
 Detailed Workstream Reports	12935
 Detailing	10388,757,1255
-Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197,261,19,284,76,132,200,13,626,302,175,23,189,170,56,433,52,94,35,1,20,84,1,2,448,181,259
+Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197,261,19,284,76,132,200,13,626,302,175,23,189,170,56,433,52,94,35,21,84,1,2,448,181,553,14,3,18,6,1,11,26,20,157,15,26
+Details Aim A Feasibility Study	17028
 Details Application	8726
 Details Baseline Target Due	1818
 Details Guide	16212
@@ -274,12 +297,16 @@ Details Managed	4434
 Details Minimum Paid-up Capital KES	10738
 Details Pricing	4434
 Details Property	14713
+Details Publication	17511
 Details of Appointed Partnership Representative	11276
 Details of Consumers	15023
 Details of Health Promotion and HIV	11218,6
+Details of Incidence	17114
 Details of Partners	11276
 Details of Projected External Financing of PSIP	14830
 Details of Projected External Financing of PSIP Rs	14830
+Details of Stakeholder Consultations Conducted	17099
+Details of Strategic Priorities and Proposed Interventions	17011
 Detailspar AITN	3526,841
 Detained	13108,2818
 Detainees	14742
@@ -296,12 +323,12 @@ Detalle de Gastos	4209
 Detalle de Ingresos	4209
 Detalle de Inversiones Públicas	4209
 Dete Solar Mini-Grid	13614
-Detect	1777,2483,1416,5045,696,1678,830,95,1144,847
+Detect	1777,2483,1416,5045,696,1678,830,95,1144,847,1146
 Detect Financial Fraud	6549
 Detectar	2816,1402
 Detected	4610,7757,2393
-Detecting	315,5218,1172,3013,410,593,1779
-Detection	5132,401,2257,814,2117,510,38,717,1220,1810,237,472
+Detecting	315,5218,1172,3013,410,593,1779,4657
+Detection	5132,401,2257,814,2117,510,38,717,1220,1810,237,472,1604
 Detection Process	10721
 Detection Process CIRMR-DP.S1	10721
 Detection and Investigation	5533
@@ -325,7 +352,7 @@ Detenham	11430,90
 Detention	4531,6646,527,1404
 Detenção	15344
 Detenção de Domingos Simões Pereira	15403,664
-Deter	11520,3920,649
+Deter	11520,3920,649,1014
 Deter and Eliminate Illegal	14447
 Detergent-disinfectants	13385
 Detergentes	4209
@@ -341,44 +368,50 @@ Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135
 Deterioration No Change Not Classified FOUNDATIONS	10759
 Deterioration No Change Not Classified SECURITY	10837,1503
 Deterioration Overall Governance	10968,902
+Determinadas	16875
 Determinados	3519,7936
 Determinantes de Saúde	11543
-Determinants	7886,135,1107,532,1,299,816,188,231,76,3852
+Determinants	7886,135,1107,532,1,299,816,188,231,76,3852,1852
 Determinants Of Implementation Of The Digital	899
 Determinants of Health	13982
 Determinants of Health Addressed	10776
 Determinants of Informality	13624
 Determinants of Property Tax Revenue	10997
-Determinar	1701,9076,653,88,1,3872,59,76,596
-Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717,379,9,73,76,52,392,86,32,100,21,116,1272,142,6,101,75,109,336,350
+Determinar	1701,9076,653,88,1,3872,59,76,596,776,32,35
+Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717,379,9,73,76,52,392,86,32,100,21,116,1272,142,6,101,75,109,336,350,1126,318,86
 Determination Agent	14135
 Determination Committee	11177
 Determination No	6946
 Determination Officer SA South Africa	5533
 Determination SCHEDULE II	12967
+Determination and Publication of Fees	17249
+Determination of Benchmark Wholesale Rates Based	17212
 Determination of Dominant Position	1847
+Determination of E&S Instruments Required	17114
 Determination of Income	14828
-Determination of National Roaming Wholesale Rates	16208
 Determination of Responsiveness	15080
-Determinations	10157
+Determinations	10157,6682,404
 Determinations Meets Minimum Requirements	11005
 Determinação	11360,46,113
 Determinação da Coima	11430
-Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171,242,276,96,621,1132,556,5,159
+Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171,242,276,96,621,1132,556,5,159,1589,25,14,91,136,15,35,86,132
 Determine Whether the Entity	11233
 Determine the MNE Group	573
-Determined	11169,49,1752,978,1079
+Determined	11169,49,1752,978,1079,1990
+Determined Contribution	17139
 Determined Contribution IP Internet Protocol IPF	13331
 Determined Contribution NDP National Development Plan	10768
 Determined ContributionVĕ	15604
 Determined Contributions NDP National Development Plan	11380
 Determined Contributions PPSD Optic Fiber	16144
 Determines	10822
-Determining	236,337,202,1321,4850,2772,1515,52,577,391,74,2409,508
+Determining	236,337,202,1321,4850,2772,1515,52,577,391,74,2409,508,1623,18,31,241
 Determining Fairness	7198
+Determining Penalties	17249
 Determining Themes for Addressing Zones	11129
 Determining the Contribution	236
 Determining the Controlling Persons	11233
+Determining the Current State of Selected Digital Financial	16942
 Determining the Intellectual Property Rights Associated	15713
 Deterministic	1828
 Deterministic Frontier Using Data Envelopment Analysis	1828
@@ -408,6 +441,7 @@ Downloads Article Details References Addis Standard	8671
 Drawing Up Detailed Plans	15388
 Droughts Detecting Drought Events Reported	10763
 Dubai DET Partner	5322
+ELEMENT DETAILS	16884
 EMPLOYERS DETAILS Company Trade Name	13037
 ENFANCE EN DETRESSE	15615
 ET DE LA DETTE FLOTTANTE	2342
@@ -435,9 +469,11 @@ Event Details	10707,3238
 Events Details	15255
 Expertise Contact Details	6432
 Extended Deterrence Theory Approach	226
+FDA. Detailed	16843
 FID Detector	14736
 FINANCING DETAILS International Development Association	12832
 FINANCING DETAILS World Bank Group Financing	14553
+FINANCING MECHANISMS Detailed	16843
 FONCTION DETAILLEE STATUT COMMENTAIRE STRUCTURE INTERVENANT	15936
 FORM APPLICANT’S DETAILS	2709
 FRAMEWORK DETAILS	11857
@@ -454,16 +490,20 @@ Fire Detection and Suppression Analogue	9446
 Fire Detection and Suppression System	12253
 Firewall and Intrusion Detection	12253
 Floods Detecting Flood Events Angola	10763
+Forest Reference Level. Detail	17140
 Former Detainees	3583
 Fraud Detection	15054
 Fraud Detection May Be Flagging the Wrong	5820
 G Details John Tanner Category	2405
+G Determining	16884
 G. CONTACT DETAILS First Transfer Secretaries	4896
 GAINS DE DETENTATION SUR ACTIÉFINANCIER	15999
 GAWAXAB GOVERNOR DETERMINATION ON THE LICENSING	12365
 GENERALE DE LA DETTE	16381
 GHANA BASIC DETAILS Name	236
+GOALS GOAL DETAILS SPECIFIC OBJECTIVES	16885
 GRANTOR DETAILS	13333
+GREAT Project. Details	16949
 GRN Determination	12399
 Ghana's Nationally Determined Contributions	789
 Ghana’s Nationally Determined Contributions	789
@@ -473,6 +513,7 @@ Grantor Details	13333
 Group Details	11298
 Guardian’s Contact Details	13477
 Guinea's Nationally Determined Contributions	16654
+H Determining	16884
 HEALTH AND WELL-BEING Determinants of Health Addressed	10776
 Health Emergencies Rapidly Detected And Responded	10776
 Higher Than Those Determined	11218
@@ -480,16 +521,20 @@ Host Intrusion Detection Systems	1000
 IDA Financing Gap DETAILS	10963,4590
 IDA Financing Gap DETAILS World Bank	14576,1082
 IDA Financing Gap Total Amount DETAILS	10964
+II- AVOIRS ET LIQUIDITES DETENUS	17485
 III.2.4 Caisse Autonome de Gestion des Dettes	10876
 IIT Kharagpur's Real-Time Voice Deepfake Detection	9208
 INSERT ADDITIONAL DETAILS REGARDING THE PROPOSED	14754
 INSULINE ASPARTE PROTAMINE INSULINE DETEMIR SOL	15930
+INVOLUNTARY RESETTLEMENT A. DETAILS	17114
 ISSUES FOR DETERMINATION BY PDPO Five	3307
 ITB E.4.2. Determination	14778
 IV. DETAILED CHANGE	1228,1245,2180,11316,63,155
 IV. Proposed and Detailed Changes	15693
 Identify Protect Detect Respond Recover All	6423
 Impact. Detailed	6100
+Improve Detection of Non	17011
+Improve Detection of Non-compliant Professionals	17011
 Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
 Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1,135
 Improvement No Change Increasing Deterioration Slowing	10837,1503
@@ -518,6 +563,7 @@ Intruder Detection Systems Continuous CCTV	9446
 Intrusion Detection	1000,11253
 Intrusion Detection System IPS	14442
 Intrusion Detection and Prevention Systems	11231
+Inventory Report NDC National Determined Contribution	17140
 Investigators and Detectives	12984
 Investment Details Low-Cost	12457
 Irungu E. Determinants	12231
@@ -538,6 +584,8 @@ Legal Basis Determination	3861
 Legal Entity Representative Details	11276
 Level of Detail	14777
 Level of Detail Included	3502
+LiberTrace Detailed	16848
+Liberia’s Nationally Determined Contributions	16949,308,32
 Liberia’s Revised Nationally Determined Contribution	16144
 Libyan Agricultural Officials Detained Over Banned	9213
 Liveness Detection	4292
@@ -557,9 +605,13 @@ Market Snapshot Detailing	12376
 Master Urban Planning Plans and Detailed	10930
 Master Urban Planning Plans and Detailed Urban	10930
 Mauritius Nationally Determined Contribution	14742
+Measure Type Details Proposed Responsible Party	17157
+Measure Type Details Responsible Party Operational	17157
 Member Detail CCN	13380
 Menu for Update of Contact Details	14533
 Meta’s Detectron2	5367
+Methodology for Determining Wholesale Rates	17212
+Methodology for Determining Wholesale Rates The Authority	17212
 Ministerial Determination	12399
 Ministry of Health and Childcare NDC Nationally Determined	970
 Mobile Satellite Station Details Type	736
@@ -584,10 +636,11 @@ NOMBRES DE CARTES BANCAIRES ET DETENTEURS	13390
 Name and Registration Details	5538
 National Determined Contribution	970
 National-Level Project Details	14910
-Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236
+Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236,730,191,318
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
-Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735,292
+Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735,292,1077,179,39,117
+Nationally Determined Contributions DHS	17101
 Nationally Determined Contributions. WRI	15500
 Network Intrusion Detection Systems	1000
 Network Operator NDC Nationally Determined Contribution	15621
@@ -609,12 +662,15 @@ PAIEMENT DE LA DETTE FOURNISSEURS	2342
 PAIEMENT DEs DETTES PAR DEs BANQUES	14479
 PIM. Detailed	1867
 PREMIER DES CRIMES ET DETITS COMMIS	15397
+PRIVACY AND SECURITY Infrastructure Detection Enforcement	16883
 PROCUREMENT DETAILS Procurement Reference No	13037
 PRODUCTION DES DOCUMENTS SECURISES DETRANSPORT	15999
+PROJECT DETAILS KM-4 Data Center Location	17436
 PROVIDE THEIR IDENTITY AND CONTACT DETAILS	2709
 PROVOCATION AUX CRIMES ET DETITS	15397
 PUBLIC PUBLIC Obj. Monitoring Details Baseline	1818
 Parameter Design Detail Current Utilization	13185
+Parties. Details	16843
 Partnership Registration Details	11276
 Partnerships Will Determine Success	8861
 Party Details Plaintiff	14675
@@ -624,6 +680,7 @@ Payments System Determination	13206
 Physical Address Details	11276
 Pilot. Detailed	15713
 Plagiarism Detection	15164
+Plan NDC Nationally Determined Contribution NDM	17458
 Planning Detail	9123
 Plano Detalhado	15380,8
 Plano Detalhado Chã	15388
@@ -672,21 +729,25 @@ Refer Document Purchaser's Detail Name	13548
 Refugee Status Determination	12658,2523
 Refugee Status Determination Officer	11177,41,768
 Refugee Status Determination Officers	11177
+Refugees’ Status Determination	16874
 Regional-Level Project Details	14910
 Register Property Details	14533
 Registo de Detalhe de IP	4274
 Registration and Refugee Status Determination	12227
 Registry Power Detaches	9914,1,77
 Regulations Determine	9123
+Release Date Change Details	16923,1
 Remote Earth Station Details Type of Earth	736
 Republic of Malawi. Details of Shipping	13185
 Republic of South Africa. Determine	11285
 Resources and Energy Multi-Year Price Determination Public	12969
+Respondent Information Item Details Name of Respondent	17212
 Review of Detention and Deportation Policy	11986
 Revision Details Revised	11188
 Rights of Detainees	14742
 Risk Management Senior Officer. Publication Details	12162
 Risk and ICT Committee Member Details	11250
+Risks and Mitigation Strategies RISK DETAILS RISK	16884
 Rwanda’s Nationally Determined Contribution	15138
 Rwanda’s Nationally Determined Contributions	14947
 Rwanda’s UNFCCC Nationally Determined Contributions	14947
@@ -697,6 +758,7 @@ SECTION IV DES DETITS CONTRE	15397
 SECÇÃO III FACTURAÇÃO DETALHADA E IDENTIFICAÇÃO	15
 SECÇÃO III Facturação Detalhada	15
 SFA Of Tax Efficiency and Its Determinants	1828
+SH REPORTING FORMAT INCIDENT DETAILS Nature	17114
 SN Name of Officers Contact Details	14835
 SN Officers Contact Details	14835
 SOL. INJ. INSULINE DETEMIR	15930
@@ -732,6 +794,7 @@ Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1,135
 Smart Zambia Institute MPA FINANCING DETAILS	3562
 Smoke Detection Apparatus VLAN Virtual Local	13185
 Soaps and Detergents	14736
+Social Determinants of Health	17289
 Stateless Determination and Protection Bill	12984
 Station Details MAIN Station	736
 Statistics and Research. Details	12151
@@ -746,6 +809,7 @@ Summary of Cyber Threats Detected	6946
 Summary of Key M&E Parameters Parameter Details	12356
 Survey Details Estimated Completion Time	9478
 System Details	736
+System HPD Health Promotion and Social Determinants	17289
 TACHES ET RESPONSABILITES DETAILLEES A. Architecture	7977
 TEL NO. DETAILS OF DATA PROTECTION	2709
 TEL NO. REQUEST DETAILS	2709
@@ -755,6 +819,8 @@ Tanzania and Uganda. Explore Firm Details South	6683
 Taxpayer Details	11276
 Tender Details	13548
 Threshold Award Criteria Details	13621
+Timely Detect Non-filers	17011
+Timely Detect Non-filers Implementation	17011
 Timetable and Submission Details Proposals	12754
 Title Details Update	12333
 Toll Fee and Detailed Exit	13053
@@ -777,7 +843,7 @@ Use of Radiation Detecting Equipment	14745
 V. Dette	6896
 V. GOVERNANCE AND MONITORING Determined	15939
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
-VII DETAILED CHANGE	1284
+VII DETAILED CHANGE	1284,15612,26
 VII. DETAILED CHANGE	2889,9076,3173,644,201
 VII. PLAN D’ACTIONS DETAILLE	15624
 VISITS TO PLACES OF DETENTION	13097
@@ -787,6 +853,7 @@ Victoria Falls and Dete	1554
 View Tender Details Tender	13621
 W Dete Solar Mini-Grid	13614
 WIA Supported Media Size Details ADF	34
+WIPO Lex Details Details Year of Version	16839
 Warning Signs Bouncing Back Slowing Deterioration	10759
 Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135
 Water Leakage Detection	593
@@ -797,6 +864,7 @@ Willing CERTIFICATION DEPARTMENT Determines	10819
 Wokabi V. Determinants	12231
 Women Slowing Deterioration Absence of Armed Conflict	11870
 World Bank IPF. Detailed FM	3604
+XX XX X Detailed	16848
 Yvon Detchenou	4246
 Zambia’s Nationally Determined Contribution	1867
 Zéro Dette	9845

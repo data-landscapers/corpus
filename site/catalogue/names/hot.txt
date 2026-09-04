@@ -1,3 +1,4 @@
+A4. Historical and Simulated Number of Hot Days	17257
 AH Hotel	8367,1363
 AMANA VIEW HOTEL LIMITED Data Processor	7167
 AMANA VIEW HOTEL LTD Data Controller	7167
@@ -11,6 +12,7 @@ Abidjan Sofitel Hotel Ivoire	3281
 Accra Marriott Hotel	10117
 Accredited Hotels	2775
 Admas Grand Hotel	6652
+African Princess Hotel	16889,188,174
 Afrin Hotel	12186
 Al Salam Rotana Hotel	8613,5581
 Alisa Hotel	5219,10761
@@ -18,6 +20,7 @@ Amadou Hott the Bank's Vice President for Power	14871
 Amaryllis Hotel	16789
 Anomaly Hotspots of Agricultural Production	16291
 Anti-Corruption Hotline	11350
+Anti-Fraud Hotline	17068
 Atlantic Hotel	6063
 Avani Hotel	10151
 Avani Lesotho Hotel	5741
@@ -27,7 +30,8 @@ BLUE PALM HOTEL	7167
 BLUE STAR HOTEL MARALAL Data Controller	7167
 BONTANA HOTEL LIMITED Data Controller INST-13309205B28	7167
 BOYNUZ HOTELS LIMITED Data Controller INST-451881800D7	7167
-Bakadaji Hotel	4519,24,2628,3292
+Bakadaji Hotel	4519,24,2628,3292,6663,20
+Bissau Royale Hotel	17071
 CHAIK HOTEL	7167
 CHAIN HOTEL CONAKRY SA	16623
 CHAMBAI SAFARI HOTEL Data Processor INST-81257833EB0	7167
@@ -43,7 +47,10 @@ Chinhoyi University of Technology Hotel	1554
 City Hill Hotel	13689
 Climate and Poverty Hotspots	10763
 Community Hotspot	3570
+Consumers Hotlines Media Reports	17106,81
+Corina Hotel	16971,324
 Corinthia Hotel Tripoli	5920
+Covid Response Hotline	16934
 Cresta Sprayview Hotel	6642
 Crossroads Hotel	12241,752,87,15,35
 DE L’INDUSTRIE HOTELIERE ET DU TOURISME	8237
@@ -58,6 +65,7 @@ EAGLE PALACE HOTEL LIMITED Data Controller	7167
 EAGLE PALACE HOTEL LIMITED Data Processor	7167
 EASTMARK HOTEL LTD Data Controller INST-2228362EB1D	7167
 ETS RAIF HOTEIT HOTIMEX	16623
+Ebola Hotline	16934
 Eko Hotel	11981
 Elgel Hotel	14094
 Escola de Hotelaria	15526
@@ -83,6 +91,8 @@ Golden Tulip Hotel	12879
 Google Hotels	13461
 Graziella Hotels and Fast Foods. En	7496
 HOTCHLEY HEKOUELATH	16100
+HOTEL ANDA CHINA Antenna	17006
+HOTEL BAMY Antenna	17006
 HOTEL RESTAURANT PETIT BATEAU	16623
 HOTL ICRC LMIC MLOp OCHA OCR	11156
 HOTUBA	6020,1
@@ -97,6 +107,7 @@ Hilton Hotel	4103,68,406
 Holiday Inn Hotel	3021
 Hon. Alexander Roosevelt Gabby Hottordze	3384
 Honorable James Hoth Mai	14039
+Hot Covers	17157
 Hot FM and News Diggers	10216
 Hot-rolled	15027
 Hot-standby	14921
@@ -104,7 +115,7 @@ HotPotatoes	15564
 Hotel	6927,505,413,3284,1833,91,1722,829
 Hotel Africana	11759
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
-Hotel Anda China	7704
+Hotel Anda China	7704,9518
 Hotel Asmara Palace	3851
 Hotel Aurassi	2790
 Hotel Azalaï de Marcory	4664
@@ -119,16 +130,18 @@ Hotel Tourism Statistics Section	12962
 Hotel Verde	10392
 Hotel and Casino	12989
 Hotel de Bata	4209
+Hotelaria	17308
 Hotelería	4209
 Hotelière Sir Gaetan Duval	14829
 Hotellerie	2342,11048
-Hotels	6215,4761,153,752,74,39,352,90,1572,728,249,387,884,296
+Hotels	6215,4761,153,752,74,39,352,90,1572,728,249,387,884,296,454
 Hotels Hôtels	16552
 Hotels Suggestions	15552
 Hotels and Guest Houses	11956
 Hotels and Lodges	8677
 Hotels and Tourism.5. Housing.6. Real	14410
 Hotels.ng	5570
+HotelyPunto	16942
 Hotep Nyendwa Non	13532
 Hoth Mai	3583
 Hotline	718,10413,3,1269,8,34,915,1382,105,208,72
@@ -139,7 +152,10 @@ Hotmail	4150,1714
 Hotspot Analysis Prioritization Matrix	10763
 Hotspot Analysis Prioritization Matrix Priority	10763
 Hotspot Authorisation	8247
+Hotspot Mapping	17157
 Hotspot Operators Mao Warns DP Members	4608
+Hotspot Provider	17250
+Hotspot WiFi Avenida Digital-	17219
 Hotspots	10763
 Hotuba	2868,3151
 Hotéis	11416,42
@@ -167,12 +183,15 @@ Lieu Itsandra Beach Hotel	13799
 Lilongwe Hotel	12241,854
 List of Hotels	6488
 L’Espwar Hotline	14760
+Mamba Point Hotel	17084,22
 Marriot Hotel-Kigali	14869
 Marriott Hotel	11968
 Martisoor Hotel	15015
+Medical Emergency Hotline	16934
 Mercure Hotel	13108
 Mestil Hotel	3050,8025
 Mestile Hotel	3050
+Metzy Hotel	17038
 Metzy Residence Hotel	4359
 Mount Soche Hotel	7270
 Mountain View Hotel	6273
@@ -183,6 +202,7 @@ NCG Hotline	14760
 Nakuru Hotel	14523
 National Anti-Corruption Hotline	7936,3407
 National Anti-Corruption Hotline. Once	5533
+National GBV Hot Line	16951
 Near Nyamekye Hotel Adabraka	3386
 Nile Hotel	6121
 Nilepost Advertisement Hot Topics Uganda Police	3955,220,433,224,1245
@@ -191,6 +211,7 @@ Nobila Airport Hotel OBJET	10821
 Nobila Airport Hotel Traitement	10821
 Novotel Hotel de Cotonou	15921
 Ocean Bay Hotel	8362,97
+Ocupación Hotelera	16898
 Ole Sereni Hotel	4513
 Opposite Bontana Hotel P.O. Box	12256
 P AFRICAN HOTEL DEVELOPMENT GUINEE SARL	16623
@@ -208,6 +229,7 @@ Renaissance Cairo Mirage City Hotel	8755,4813,2590
 Rhino Hotel	7512
 Roca Golf Hotel PAEEJ	13358
 Rodrigues. The National Hotline	14774
+Royal Ambassador Hotel	16971
 Royal Palace Hotel de Bujumbura	13689
 SANA Metropolitan Hotel	7298
 SUMMARY HOTUBA YA BAJETI 2025-26 FINAL	6020
@@ -215,6 +237,7 @@ Safari Park Hotel	12303,1948
 Salam Rotana Hotel	8133
 Secondary Hotel	15604
 Sefiert International Hotel	14019
+Senegambia Beach Hotel	17177
 Serena Hotel	9983
 Sheraton Hotel	4348,6068
 Sheraton Kampala Hotel	9695,89,2287
@@ -229,17 +252,24 @@ Sofitel Hotel Ivoire	6447
 Solar Hotel Tourism	11469
 Somerset Westview Hotel	8550
 Spa Hotel	12649
+Specification for Hot-dipped Zinc-coated	16900
 Star Hotel	12962
 Sunbird Capital Hotel	13080
 T SOCIETE CHAIN HOTEL CONAKRY SA	16623
 TV3's Hot Issues	15823
 Taj Pamodzi Hotel	13473
+Tasa de Ocupación Hotelera	16898
+Tasa de Ocupación Hotelera Disponibilidad	16898
+Tasa de Ocupación Hotelera MCTPA	16898
 Thabeng Hotel	3258
 Tier III Carrier Hotel Datacenter	8542
 Tour Operators and Hotels	14736
 Traffic Hotline	14760
 Transcorp Hilton Hotel	4102
+Turismo Hoteleira	17008
+UNFPA Investigation Hotline. X. Zero Tolerance	17068
 UWA Urge Hotels	6077
+Unemployment Survey and Census Conduct the Hotels Bureau	16863
 United Hotel	10975
 Vacant Hotel Pension Owned Vacant Hotel	4896
 Vacant Hotel Pension Owned Vacant Stand	4896

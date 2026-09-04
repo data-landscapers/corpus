@@ -13,6 +13,7 @@ Haiti Jamaica Montserrat Nicaragua Puerto Rico	13042
 Manufacturer POP Point of Presence PUE Power	10781,1646,2055
 Manufacturer PoP Point of Presence PUE Power	10861
 Maria Rosa Puech and Rocio Schmunis	15959
+NUdAVJ MOY UO YQ4 Pue YY	16857
 ONSA PUE SBG SGCGC SLA SOC	10157
 POTRAZ PPP PUE Q1 Q2 Q3	4528
 PPP Public-Private Partnership PUE Power Usage	12512
@@ -20,17 +21,21 @@ PUE Power Usage Effectiveness RBAC Role-Based	6432
 PUE Power Usage Effectiveness RFS Ready	10781,3701
 PUE Productive User of Energy PV Solar	12399
 PUERTO CASTRO	6613
+PUESTAS EN MARCHA DE CENTROS	17342
 Parlamento Pueblo	4209
 Philippines Pitcairn Poland Portugal Puerto Rico	11470
 Presence EAC East African Community PUE	3184,1,1340,6470
 Prioritize PUE	12399
 Project Implementation Unit PUE Power Usage	15621
 Proyecto de Puesta	4209
-Pueblo	1701,2508,967,528
+Pue J	16857
+Pueblo	1701,2508,967,528,11134,27,6,87,69,34,162,21,2,7,56,10,21
 Pueblo Adjunto	4209
 Pueblo Salario Bruto República D.E.S. Mensual	4209
-Pueblo de Malabo	8083,71
-Puede	1701
+Pueblo de Malabo	8083,71,9007,212
+Pueblo la Defensa	16855
+Puede	1701,15158
+Puedes	17393
 Puentes	4209
 Puerperal	10780
 Puerperalna	10780
@@ -40,9 +45,10 @@ Puerto Rico Saint Kitts and Nevis Saint	16631
 Puerto Rico Telephone Company	15471
 Puerto Seco de Ebebiyín	8554
 Puerto Seco de Ebibeyín	4209
+Puerto de Bata	17282
 Puertos	4209
 Puesta	1701,2508
-Puesto	1701
+Puesto	1701,15261
 Puestos de Control	4209
 Standards DC PUE	6432
 Technical Evaluation for PUE and Manufacturing	12195

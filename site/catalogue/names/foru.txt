@@ -18,6 +18,7 @@ About the EU-Ethiopia Business Forum The EU-Ethiopia	14109
 Academic Forum	8460
 Accreditation Forum	16144
 Actualité Cyber Africa Forum	10379,3104
+Advisory Forums	16851
 AfCFTA Digital Trade Forum	7039,25,78,1893,1520
 AfCFTA Digital Trade Forum's Eight Calls	7142
 AfCFTA Digital Trade and Services Forum	5247
@@ -35,6 +36,7 @@ Africa Development Forum	11149
 Africa Development Forum Series The Africa	11149
 Africa Diaspora Forum	8458
 Africa Energy Forum	11137
+Africa Food Systems Forum	17139
 Africa Gender Statistics Forum	8427
 Africa Gender and Child Statistics Forum	8427
 Africa Innovation and Technology Forum	5715
@@ -61,7 +63,7 @@ African News Innovation Forum	13461
 African Peer Review Forum of Heads of State	13673
 African Peering and Interconnection Forum	3470,6774,68,2808,1892
 African Sovereign Investors Forum	6580
-African Tax Administration Forum	573,388,1228,973,4076,454,1,1,770,698,3789,1486,495
+African Tax Administration Forum	573,388,1228,973,4076,454,1,1,770,698,3789,1486,495,2079
 African Tax Administration Forum Base Erosion	14932
 African Tax Administration Forum Regional Community	961
 African Taxation Administration Forum	961
@@ -78,6 +80,7 @@ Annual Data Innovation Forum for Africa	961,282,1919
 Annual Digital Forum	7963,331,41
 Annual Forum	1554
 Annual General Meeting and Commissioners’ Forum	12969
+Annual NSS Learning Forum	17116
 Annual Research Forum	13563
 Annual UHIS Health Forum Comments	16079
 Arab Global Forum for Digital Cooperation and Development	8645
@@ -92,7 +95,9 @@ BIC Somali Innovation Forums	15239
 BRICS Forum	3599,7584
 Background Global Gateway Forum The Global	11226
 Belt and Road Forum for International Cooperation	11154
+Belt and Road Forum for International Cooperation Takes	16870
 Benin Investment Forum	15748,1
+Better Business Forum	16876
 Bloomberg Philanthropies Global Forum New York	12717
 Body AfriCreative Future Forum	14139
 Body At Zain Interactive Forum	15203
@@ -128,6 +133,7 @@ Chamber of Telecommunications Knowledge Forum	11132
 Children Forum Network	9765
 China-Africa Digital Cooperation Forum	1826
 Climate Change UNFCCC United Nations Forum	15129
+Cloud World Forum	16923
 Combined Assurance Forum	11131
 Commentaires Technologie Cyber Africa Forum	7057
 Commissions Annual General Meeting Forum	14839
@@ -145,6 +151,7 @@ Convene High-Level Forum	7523
 Coordonnateur du Forum	2886
 County Engagement Forums	2668
 Cross-Sectoral Coordination Forums	4528,7984
+Customer and End User Forums	16851
 Cyber Africa Forum	2451,645,9,1,6,45,18,22,2,15,8,77,215,12,841,2690,21,3303,310,5068
 Cyber Africa Forum By Faith Omoniyi	3112
 Cyber Africa Forum... Régulation Actu CAMTEL	10379
@@ -152,6 +159,7 @@ Cyber Africa Forum... Régulation Actu Orange	13483
 Cyber African Forum	3197
 Cybersecurity and AI Forum	3029
 DCO and World Economic Forum	3837
+Data Use Forum	17116
 Datasphere Initiative’s Africa Sandboxes Forum	6946
 Department’s Youth Forum	5533
 Description Maputo Internet Forum	110
@@ -179,6 +187,7 @@ Disabilities FORCOM National Forum of Community Radios	12201
 Disability Rights Forum	5533,6453
 Djibouti. The Forum	13945
 Donor Collaboration Forum Bill	2204
+ECOWAS Regional Electricity Forum	16978
 EU Business Forum	6552,191,1503
 EU European Union FOSAD Forum of South	11224
 EU Green Power Transformation Forum	12962
@@ -189,18 +198,24 @@ East Africa. The Forum	13651
 East African Community Digital for Development Forum	13653
 East African Public Procurement Forum	3969
 Ecobank-JoyNews Business Financial Dialogue. Where the Forum	9075
+Economic Diversification Forum	17101
 Economic Forum WHO World Health Organization	10759,78,1052,451
 Economic Forum WTP Willingness	11380
+Economic Forum for Economic Diversification MPI	17101
 Economic Forum for Sustainable Development	1353
 Economic Research Forum	15473
 Edition du Forum	7843,1444,55
 Editor’s Forum	11131
+Education Forum Weekly Television	16852
+Education Forum. Pre-Vocational	16852
+Education Management and Information System FAWE-GAM Forum	16852
 Egyptian Human Rights Forum	11079
 Election Observation Mission FAMOD Forum of Mozambican	12201
 Electoral Commissions Forum	10017
 Electoral Commissions Forum of SADC Countries	10390,950,861
 Electricity Market Advisory Forum	11236
 Electronic Payment Forum and Exhibition	4680
+Equality Agenda Forum	17101
 Establish Fintech Engagement Forum	4848
 Establish ICT Regulatory Forum	14022
 Establishment of Industry Forum	11,576
@@ -209,6 +224,7 @@ European Civic Forum	11050
 Evaluation Forum	11193
 Evaluation WEF World Economic Forum TABLE	15491
 Event Expansion Femtech Finance Fintech Forum	5322
+Examination WEF World Economic Forum	16876
 FEM Forum	15474
 FIFAfrica26 Code of Conduct. The Forum	15265
 FIRC Forum des Institutions de Régulation du Cameroun FISUEL	10975
@@ -223,8 +239,10 @@ Financial Sector Stability Forum	6938
 Fintech Engagement Forum	4848,80
 Fintech Policy Forum	4848
 First Arab Regional Forum	8645
+First Global Forum	17105
+First National Forum	17101
 First Sudanese-Arab Smart Transport Forum	8133
-Forum	11,172,245,159,204,170,282,571,452,17,31,28,11,31,66,106,79,134,39,4,74,29,35,295,151,6,42,107,37,11,444,167,123,235,89,66,16,189,29,129,19,440,124,161,14,115,32,12,86,101,315,47,108,83,1,46,42,118,60,29,10,73,13,7,15,32,8,136,26,290,21,173,33,174,187,44,146,157,48,123,11,36,89,151,33,212,55,77,293,109,434,99,87,90,41,126,121,39,22,126,5,17,23,48,82,2,18,27,57,33,300,20,60,21,13,1,81,142,123,473,749,8,133,18,2,63,43,83,15,101,116,16,19,1,9,14,197,106,56,18,109,268,46,77,20,184,215,27,208,1,5,113,78,6,36,12,18,6,15,94,79,127,36,57,2,10,124,44,45,64,17,83,43,38,103,17
+Forum	11,172,245,159,204,170,282,571,452,17,31,28,11,31,66,106,79,134,39,4,74,29,35,295,151,6,42,107,37,11,444,167,123,235,89,66,16,189,29,129,19,440,124,161,14,115,32,12,86,101,315,47,108,83,1,46,42,118,60,29,10,73,13,7,15,32,8,136,26,290,21,173,33,174,187,44,146,157,48,123,11,36,89,151,33,212,55,77,293,109,434,99,87,90,41,126,121,39,22,126,5,17,23,48,82,2,18,27,57,33,300,20,60,21,13,1,81,142,123,473,749,8,133,18,2,63,43,83,15,101,116,16,19,1,9,14,197,106,56,18,109,268,46,77,20,184,215,27,208,1,5,113,78,6,36,12,18,6,15,94,79,127,36,57,2,10,124,44,45,64,17,83,43,38,103,17,124,57,2,20,9,99,44,174,49
 Forum Africain	2855,547,4441
 Forum Africain des Régulateurs des Services Publics	10975
 Forum Arabe des Régulateurs	10975
@@ -264,11 +282,12 @@ Forum des Startups	15550,71
 Forum du Peering	16545
 Forum for African Women Educationalists	1540,10789,801
 Forum for African Women Educationalists Zimbabwe	13671
+Forum for Economic Diversification	17101
 Forum for Incident Response and Security Teams	5780
 Forum for International Research	899
 Forum for Women	15983
 Forum of Coordination Unit	1777
-Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714,2879,640
+Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714,2879,640,792
 Forum of Mauritanian Communities. Users	7190
 Forum of Mozambican Associations of People	12201
 Forum of South African Directors-General	11201
@@ -313,7 +332,7 @@ Global Government Forum	12001
 Global Internet Governance Forum	6950,5154
 Global Leaders’ Forum	11234
 Global Policy Forum	13390
-Global Refugee Forum	1867,8974,23,1041,268,84,370,1838,2229
+Global Refugee Forum	1867,8974,23,1041,268,84,370,1838,2229,629,1
 Global Refugee Forum GRS Grievance Redress	1867
 Global Refugee Forum. Although the Fayda ID	12173
 Global Refugee Forum4	12257
@@ -325,10 +344,12 @@ Governors’ Forum	11129
 Harare Forum for Africa	11302
 Health Development Partners Forum	12729
 Healthcare Providers CEO Forum	10696
+High Level Political Forum	16973
 High-Level African Union Private Sector Forum	13899
 High-Level Business Forum The Ministry of International	5086
 High-Level Development Partners Forum	12626
-High-Level Political Forum	15191
+High-Level Political Forum	15191,1910
+High-Level Political Forum INFF	17101
 Hosted the Inclusive FinTech Forum	14997
 Hosts Africa Innovation and Technology Forum	5715
 IBSA Dialogue Forum	11579
@@ -347,7 +368,7 @@ Inclusive FinTech Forum	5384
 Inclusive Fintech Forum	2450,87,5912,6574
 India Africa Forum Summit	2667,12452,1045,92
 India Africa Forum Summit III	11579
-India-Africa Forum Summit	13561,2714,2,8,364
+India-Africa Forum Summit	13561,2714,2,8,364,592
 India-Africa Forum Summit New Delhi	16285
 India-Africa Forum Summit. The President	12568
 India-Gabon Business Forum	16285
@@ -367,8 +388,9 @@ Intergovernmental Sector Forum	8569
 Intermediaries FIRST Forum of Incident Response and Security	1264
 International Accreditation Forum	13320,314,1102,78
 International Forum	8282,7974
+International Forum for Planning and Development	17371
 International Medical Device Regulators Forum	3651,4650
-International Migration Review Forum	9838
+International Migration Review Forum	9838,7454
 Internet Governance Forum	1714,4476,760,10,360,730,293,547,619,139,418,782,2117,6,1801
 Internet Governance Forum Burkina Faso. Dans	10642
 Internet Governance Forum IoT	958
@@ -395,6 +417,9 @@ Le Forum	2886,1157,2462,3207,819,1107,1887,393,24,754,1101,539
 Le Forum des Administrations Fiscales Africaines	15797
 Learning Forums	12356
 Liberia National Children's Forum	9861
+Liberia National Children’s Representative Forum	17296
+Liberia. The National Integrity Forum	16949
+Liberian Forum for Agricultural Advisory Services	17047
 Liberian National Children Forum	9861
 Libya Experts Forum	7723
 Libyan Experts Forum	11747
@@ -437,20 +462,25 @@ National Community Radio Forum	13461
 National Cybersecurity Forum	7538,692,343,127
 National DNS Forum	6738,4256
 National Data Producers Forum	15980
+National Dialogue Forum	16958
 National Digital Identity Forum	4977
 National Drama and Film Festivals Adjudicators Forum	6946
 National Economic Consultative Forum	395,12900
 National Economic Consultative Forum NEPAD	958
-National Forum	4219,1816,438,885,2638,3949,483,565
+National Forum	4219,1816,438,885,2638,3949,483,565,2108
 National Forum for Data Producers	15980
 National Forum of Community Radios	12201
-National Integrity Forum	10762
+National Integrity Forum	10762,6275
+National Integrity Forum. III. IMPLEMENTATION ARRANGEMENTS	16949
 National Internet Security Forum	10642
 National Multi-Stakeholder Forum	8568
 National Open Data Forum	12608
 National Payments System Advisory Forum. PART	12938
+National Peering Forum	17106
+National Peering Forum The Liberia Telecommunications	17106
 National Religious Leaders Forum. A Human	2626
 National Showcase and Partnership Forum	7171
+Natural Resources Forum	16996
 Nigeria Electronic Fraud Forum	3732,7406
 Nigeria Governors Forum	3735,7391,731
 Nigeria Governors' Forum	10597,1453
@@ -486,6 +516,7 @@ Partnerships AI Forums and Science	12356
 Pix Forum	5700,5306,1
 Pix Forum. Importantly	11007
 Police Forum CSC Community Service Centre	11188
+Policy Makers Forum	17240
 Policymakers' Forum	13791
 Premier Forum	14696
 Press Release AfCFTA DIGITAL TRADE FORUM	7039
@@ -506,6 +537,7 @@ Regional Forum	10841
 Regional ICT Regulatory Forum	14022
 Regional Reports World Economic Forum	14819
 Remerciement Le West Africa Peering Forum	16545
+Representative Forum	17296
 Research and Innovation Directors Forum	1554
 Robert Beugré Mambé. Ivoire Tech Forum	3268
 Rome’s Arab Italian Trade Forum	5264
@@ -515,10 +547,16 @@ Rwanda Internet Governance Forum Elias Hakizimana	8343
 Rwanda Internet Governance Forum Secretariat	8343
 Rwanda Youth Internet Governance Forum	8038,305
 Rwanda-Botswana Business Forum	6117
+Rwanda. In Natural Resources Forum	16996
+Rwanda. Natural Resources Forum	16996
 SADC Parliamentary Forum Discussion Paper	961
 SA’s National Urban Forum	11285
 STAKEHOLDER VALIDATION FORUM ON THE DRAFT	15261
+Sahel Governance Forum	16973
+Sahel Governance Forurm	16973
 Science Forum South Africa	6480,4705
+Second Belt and Road Forum for International Cooperation	16870
+Second India-Africa Forum Summit	17240
 Second Somali National Cybersecurity Forum	15120
 Second Somalia National Cybersecurity Forum	15120
 Second United Nations World Data Forum	12138
@@ -536,9 +574,9 @@ Southern African Regional Climate Outlook Forum	12918
 Space Forum Africa	8275,512
 Spanish Business Forum	5264
 St Petersburg International Legal Forum	6880
-Stakeholder Forum	7548
+Stakeholder Forum	7548,9425
 Stakeholders Forum	11129
-Stakeholders’ Forum	7110
+Stakeholders’ Forum	7110,9875
 Standardization Forum. Assurance	10775
 Standing Fintech Engagement Forum Establish	4848
 Startup Consultative Forum	9958
@@ -562,14 +600,18 @@ Tanzania Digital Trust Forum	9491
 Tax Administration Forum. OECD	13314
 Tax Administration Forum. Platform Sector Type	13314
 Tax Administrators African Tax Administration Forum	12208
+Tax Policy Forum	17011
+Tax Policy Forum Holding	17011
 Technical Advisory Forum	7548
 Technical Advisory Forum. Rationale	14664
 Technology and Innovation Forum	6695
-Third India-Africa Forum Summit	11183
+Third Belt and Road Forum for International Cooperation	16929
+Third India-Africa Forum Summit	11183,6057
 Third India-Africa Summit Forum	11183
 Tunisia Global Forum	7649,1432
 Tunisian Civil Forum for OGP	9022
 UN Forum	7060
+UN High-Level Political Forum	16973
 UN Internet Governance Forum	3874,384,5600
 UN Public Service Forum	6288
 UN Public Service ForumJuly	5553
@@ -606,12 +648,13 @@ Women Forum	15977
 Women. The Economic Research Forum	15473
 World Bank. AFRICA DEVELOPMENT FORUM Overview	11149
 World Broadband Association Forum	3954
-World Economic Forum	226,10,192,4,1,528,282,120,985,177,157,388,328,58,671,680,163,120,350,791,36,77,25,463,116,49,281,318,135,58,2043,886,101,316,5,55,294,406,264,46,5,145,320,242,18,379,218,30,1885,33,11,2,19,92,109,386,167
+World Economic Forum	226,10,192,4,1,528,282,120,985,177,157,388,328,58,671,680,163,120,350,791,36,77,25,463,116,49,281,318,135,58,2043,886,101,316,5,55,294,406,264,46,5,145,320,242,18,379,218,30,1885,33,11,2,19,92,109,386,167,610
 World Economic Forum Blueprint	10819
 World Economic Forum Global Competitiveness Index	15447,33
 World Economic Forum Global Competitiveness Report	15411
 World Economic Forum Global Gender Gap	789
 World Economic Forum Helios Towers	236
+World Economic Forum Report	17458
 World Economic Forum and World Bank ID4D	10819
 World Economic Forum's Digital Skills Index	14102
 World Economic Forum's Future of Production	12935
@@ -628,6 +671,7 @@ World Privacy Forum	10822
 World Urban Forum	10025,1260
 Yale Law J Forum	9739
 Young Lawyers Forum	8264
+Youth Engagement Forum EPA Technical Consultation	17114
 Youth Forum	10474
 Youth and Innovation Forum	12730
 Zain Interactive Forum	15203

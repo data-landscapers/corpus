@@ -3,7 +3,7 @@ A. CONTEXT AT APPRAISAL Context Country	15424
 A. CONTEXT AT APPRAISAL Country Context	15702
 A. COUNTRY CONTEXT	11863,2075
 A. Country	11549
-A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1605,435,39,80,24,3,35,68,38,2
+A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1605,435,39,80,24,3,35,68,38,2,1288,492,17
 A. The Participating Countries	1914,13783
 A. the Participating Countries	14912
 ACCESS TO ELECTRICITY IN COUNTRIES	11572
@@ -11,6 +11,7 @@ ACCESS-DEFICIT COUNTRIES	11572
 ACP Countries Computer Crime and Cybercrime	26
 ACP Countries Data Protection	27
 ACP Countries European Commission	470
+AD plot Count Step	17140
 ADAPT Country Implementation Forum	8421
 ADDR 3 ADDR 4 ADDR CITY ADDR STATE ADDR COUNTRY ADDR ZIP	3364
 AF. B. Country Context	15983
@@ -27,7 +28,11 @@ ANNEX COUNTRY	4653
 APPRAISAL Country Context	15731
 AVAILABLE TO SELECT COUNTRIES	5352
 Abbreviated Resettlement Action Plan AID Country	15424
+Abebe Adugna Dadi Country Director	16949
+Abortion Care CCS Country Cooperation Strategy	17289
 Account CCSS Counter Corruption and Security Services	5533
+Accountant General Department CSCs County Service	16949
+Acronym LAAS 2024 Country Study	17366
 Acronymsp.16 Country	10838,1032,482,136
 Act of Parliament- County Statistical Office	2775
 Act. County Statistician	14594
@@ -36,6 +41,7 @@ Acting Country Manager for World Bank Liberia	4285
 Acting County Secretary and County Executive Committee	7990
 Acting World Bank Country Representative Oyewole	2604
 Actual Count	12551
+Address County Service Center Bottlenecks	17139
 Adjustment for Country Strategies Adjustment	1818
 AfDB African Development Bank AFWRI Country	10841
 AfDB Country Manager	14970
@@ -85,6 +91,7 @@ Agencies County Focal Civil Society Points	7548
 Agencies and Counties	5793
 Agencies and Counties MERL Monitoring	7548
 All Code Countries	14997
+All County Service Centers	16872
 Almud Weitz. Country Director	13897
 American Countries	12383
 Amount-quality Approx. Countries	712
@@ -125,6 +132,8 @@ Authority and County Statistics	14594
 Authority. NCA CONTACTS AND PRESENCE COUNTRYWIDE	2776
 Automated Public Counters	6946
 Automation of County Own Source Revenue	9939
+Average Exchange Rates of WAMZ Countries	17235
+Average Household Size and County Population Households	16921
 B. Countries	1548,2
 B. Introduction and Context Country Context	1704,587,1165,7507,2148,676,6,44,178,1498,1,36,743,361,21
 B. Introduction and Context Country Context Madagascar	14553
@@ -136,6 +145,7 @@ BARINGO COUNTY IFMIS SUPPORT AND TRAINING	12322
 BETTER SUPPORT TO COUNTRIES	10776
 BETTER SUPPORT TO COUNTRIES Relatório Anual	10776
 BOMET COUNTY PUBLIC SERVICE BOARD Data	7167
+BONG COUNTY	16978
 BOTSWANA COUNTRY REPORT	12533
 BUMULA SUB COUNTY HOSPITAL Data Controller	7167
 BUMULA SUB COUNTY HOSPITAL Data Processor	7167
@@ -154,8 +164,11 @@ Bank. I. STRATEGIC CONTEXT A. Country	15518
 Bank’s Anti-Money Laundering and Counter-Terrorism Financing	11134
 Bank’s Country Manager for Rwanda	14873
 Baringo County	7480
+Baseline Assessment of Liberia’s Country Service Centers	16949
+Baseline Assessment of Liberia’s County Service Centers	16949
 Basque Country	11873
 Becomes Fourth Country Globally	7998
+Benchmark Countries	16876
 Benchmark Countries Study	15713
 Benchmark Countries Study Benchmarked	15713
 Benin BENIN Porto-Novo Country	10822
@@ -167,6 +180,7 @@ Benin Systematic Country Diagnostic Concept Note	15424
 Benin's Country Program Adjustment Responding	15515
 Benin. Women Count Data Hub. Retrieved	16144
 Better Education Service Nigeria Gender Country	11469
+Big Fanti Town and Grand Bassa County	17114
 Binyam Shiferaw and Nidhi Parakh. Counterparts	10886
 Blantyre Country	13185
 Body COUNTRY HYDROMET DIAGNOSTICS Informing	13365,1584
@@ -174,8 +188,16 @@ Body LIST OF COUNTRIES WHICH HAVE	13370
 Body WHO Botswana Country Office BIENNIAL	12623
 Bolt and Mombasa County	11504
 Bomet County	6946
-Bong County	6968,3378
+Bomi County	16947,3,21,40,46,203
+Bomi County.19 LACC	17037
+Bomi and Maryland Counties	16960
+Bong Counties	16971
+Bong County	6968,3378,6601,24,7,167,161
+Bong County Distribution	16978
 Bong County Senator Prince K. Moye	6968
+Bong and Grand Bassa Counties. County	16970
+Bong and Grand Gedeh Counties. Legislative Reforms	17139
+Bong and Nimba Counties	16978
 Borrower's Counterpart Contribution The Borrower	11863
 Borrower's Country	13185,2214
 Borrower’s Country	15080
@@ -205,6 +227,7 @@ CAR Country Partnership Framework	10829
 CAR SCD Systematic Country Diagnostic SEP	969
 CCDR Country Climate and Development Report CERC	10768
 CCS Country Cooperation Strategy CHE	15725
+CDA County Development Agenda CHE Climate	17289
 CFAA Country Assistance Strategy CITCG Communauté	15372
 CICO Agent Nigeria Gender Country Expansion	11469
 CIDP County Integrated Development Plan CSO	7548
@@ -225,9 +248,11 @@ COUNTING AND TABULATION OF RESULTS	12201
 COUNTING AND TABULATION OF RESULTS Counting	12201
 COUNTRIES	4883
 COUNTRIES IN SUPPORT OF CLEAN ENERGY	11572
-COUNTRY	573,655,9591,1044,677,16,1382,2555
+COUNTRY	573,655,9591,1044,677,16,1382,2555,416
+COUNTRY AND ENERGY SECTOR OVERVIEW	16966
 COUNTRY AND SECTOR OVERVIEW	12399,281
 COUNTRY AND STRATEGIC CONTEXT Country Strategy	13731
+COUNTRY AT A GLANCE	16876
 COUNTRY CLASSIFICATION AND DETERMINATION OF SCENARIO	13868
 COUNTRY CLOCK KENYA LIMITED Data Processor	7167
 COUNTRY CODE TOP-LEVEL DOMAIN	14879
@@ -263,9 +288,10 @@ COUNTRY Russian	4127
 COUNTRY STATEMENT OF THE KINGDOM	12760
 COUNTRY STRATEGY PAPER	13885
 COUNTRY The Ministry of Education	15182
+COUNTRY USE CASE	16909
 COUNTRY'S DIGITAL VISION Rwanda	12385
 COUNTRY-LEVEL REGULATORY FRAMEWORKS Given	1243
-COUNTY	2709
+COUNTY	2709,14226,43
 COUNTY ASSEMBLY OF KAKAMEGA Data Controller	7167
 COUNTY GIRLS HIGH SCHOOL NAIROBI Data	7167
 COUNTY GOVERNMENT OF BOMET	7167
@@ -273,7 +299,11 @@ COUNTY GOVERNMENT OF MIGORI Data Controller	7167
 COUNTY GOVERNMENTS The Bill	14594
 COUNTY GREEN HOTEL Data Controller INST-404686524C8	7167
 COUNTY GUARDS LIMITED Data Processor INST-3033778F42B	7167
+COUNTY INFRASTRUCTURE DEVELOPMENT	16970
+COUNTY INFRASTRUCTURE DEVELOPMENT In Gbarpolu County	16970
+COUNTY LEVELS	16970
 COUNTY MEDICAL CENTRE EMBU LIMITED Data	7167
+COUNTY OF MONTSERRADO	16850
 COUNTY PENSION FUND Data Controller INST-96078176AB9	7167
 COUNTY PUBLIC SERVICE BOARD	7167
 COUNTY SACCO SOCIETY LTD Data Controller	7167
@@ -292,12 +322,15 @@ CPF Country Partnership Framework CPIA Country	969
 CPF Country Partnership Framework CPS Country	11380,4131
 CPF Country Partnership Framework CR Civil	15518
 CPF Country Partnership Framework CRI Corporate	15621,763
+CPF Country Partnership Framework CRVS Civil	16896,26
 CPF Country Partnership Framework CSF Climate	11549
 CPF Country Partnership Framework CT Cash	15663
 CPF Country Partnership Framework DA Designated	1867,9658,3990
 CPF Country Partnership Framework EIRR Economic	13836
+CPPR Country Portfolio Performance Review CRB	17105
 CPS Country Partnership Framework	13861
 CPS Country Partnership Strategy	15411
+CPS Country Partnership Strategy CQS Selection	17441
 CRA Gazettes Standards and Guidelines for County Own-source	9939
 CRESS Country	15961
 CRI Country Partnership Framework CVE Country	11855
@@ -313,8 +346,12 @@ Cameroon and Comparator Countries	10997
 Cameroon. Countries	12339
 Cameroun Country	10967
 Camps and Counterterrorism	12227
+Can Developing Countries	16942
+Cape Mount County	16876
+Categories Country Information Legal Information Policy	16830
 Category Consultant Services Country Central African	16194
 Ce of Country	10840
+Census County Coordinators and Directors	16921
 Centrafrican Country Diagnostic	15415
 Central African Republic Country Private Sector	10841
 Central African Republic Country Profile	10841,4817
@@ -327,23 +364,29 @@ Chief Country Economist. The Bank Group	14119
 Chief Country Program Officer for Eritrea	14119
 City Council County Director of Education	14460
 City County NCCAP National Climate Change	2775
+City Tripoli Country LY Continental Region	16948
 Civil Registration and Vital Statistics Somalia Country	14894
 Client Counterparts The Association of Municipalities	11941
 Client's Input and Counterpart Personnel	11869
-Climate Risk Country Profile	3456,12205
+Climate Risk Country Profile	3456,12205,1596
 Code System Countries	6666
 Codes for Representation of Names of Countries	11179
+Commercial Banks Network County Branches Windows	17235
 Commitments Title ID Submitted Country Policy	11873
 Committee DFS Country Partnership Framework ECOWAS	16144
+Common Country Analysis	16916
+Communication SCD Systematic Country Diagnostic SEA	16952
 Community of Central Africa DGGT Country Financial	15372
 Community of Portuguese Language Countries	6778,4767,1300
 Community of Portuguese Speaking Countries	11553,648
 Community of Portuguese Speaking Countries CRPD Convention	12201
 Community of Portuguese-Speaking Countries	10188,6001
-Community of Portuguese-speaking Countries	12201
+Community of Portuguese-speaking Countries	12201,4757
 Comoros Climate Risk Country Profile	13813
 Company for Developing Countries	1419
 Comprehensive Country Assessment Report	12944
+Conditional Cash Transfer CSR Country	16852
+Conduct Train County	17116
 Congo Countering Xenophobia	9682
 Connectivity IDA Counterpart	15372
 Context Country Context	14576
@@ -358,22 +401,28 @@ Control of Counterfeit and Low-Quality Medicines	10776
 Core Country Office Model	15966
 Core Country Office Model CDC Centers	15966
 Core Predictable Country Presence	15966
+Corruption Perceptions Index CSC County Service	17139
+Corruption Perceptions Index Country Office Development	16973
 Council of County AI Focal Point Intergovernme	7548
 Council of County Governors	14422,27,44
-Count	10964,1289,1727,642,934,18,271
+Count	10964,1289,1727,642,934,18,271,1047,257,108,32
 Count Charge Against Three Suspects	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Count Down Announcements	8999
 Count Every Child	12227
 Count Percent Employment Size	15085
 Count Percentage Community	12413
+Count of Fraud	17362
+Count of Fraud Cases	17362
+Count of Fraud PSPs	17362
 Count of M&E	15845
 Count of Port-Out Activities-December	3862
 Count of Port-out	3862
 Count of Total Towers	3862
 Count&title	766
 Countdown Announcement PR Campaign Mop-up	8999
-Counted	13095
-Counter	14965
+Counted	13095,3814,12
+Counter	14965,1957
+Counter Accounts	17236
 Counter Corruption	11986
 Counter Corruption and Fraud Counter Corruption and Fraud	11986
 Counter Corruption and Fraud Prevention	11986
@@ -400,8 +449,8 @@ Counterfeit	13108
 Counterfeit Products	13474
 Counterfeit-	11976
 Counterfeiters	11864
-Counterfeiting	11976,250,2488,1
-Countering	15342
+Counterfeiting	11976,250,2488,1,2220
+Countering	15342,1675
 Countering Disinformation	6907
 Countering Financing of Terrorism	789,10341
 Countering Inclusion Strategy the Financing of Terrorism NGO	12297
@@ -411,7 +460,7 @@ Countering Xenophobia	9682
 Countering the Financing of Terrorism	789,10347,3683
 Counterintuitively	15123
 Counternarrative	15342
-Counterpart	2218,9706,3448,139
+Counterpart	2218,9706,3448,139,1365
 Counterpart Contribution	11863
 Counterpart Countries	13868
 Counterpart Funding	1264,9504,1137,483,3905
@@ -427,9 +476,17 @@ Counterterrorism	7452,1947
 Counterterrorism Force	7452
 Counterterrorism Hon. Musa Sillah	7452
 Counterterrorism Unit	783
-Counties	1638,1137,3657,514,602,2391,2210,2,6,34,40,2210,105
+Counterversion	16839
+Counties	1638,1137,3657,514,602,2391,2210,2,6,34,40,2210,105,2332,43,14,8,27,144,25,121
+Counties Administrations	16970
+Counties Clients Tested for HIV Client Tested	16971
+Counties Commission	16943
 Counties Counties Kakam	12151
+Counties Data Source USGIS	16921
+Counties Development Agendas	16970
 Counties IFMIS E- Procurement Training News	12322
+Counties. An Annual Work Plan	16970
+Counties. Within	16921
 Counting	1431,5306,1246,199,1226,629,1155
 Counting Approach. Oxford	15244
 Counting Back	11909
@@ -437,7 +494,7 @@ Counting Out	12201
 Counting President Bio Gains	8115
 Counting and Multidimensional Poverty Measurement	15244
 Countless	13963
-Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80
+Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144
 Countries Agree	14932
 Countries By Kennedy Komba	13468
 Countries Countries	6671
@@ -459,9 +516,10 @@ Countries. Out	5508
 Countries. Washington	10997
 Countries’ Rating Based	15713
 Countrv. Postal	11180
-Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29
+Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30
 Country Access Rate	11136
 Country Analyses And Plans	899
+Country Analysis Brief	16964
 Country Analysis SEM	13979
 Country Argentina Brazil Chile Uruguay Colombia	11135
 Country Assessment Country	13344
@@ -469,8 +527,11 @@ Country Assessment Mission	6858,9872
 Country Assistance Strategy	15424,177,1013
 Country Assistance Strategy CFU Contribution Foncière	16614
 Country Average	9616
+Country Basic Education Nine	16852
+Country Bread	17043
 Country Briefs	13713
 Country Briefs THE STATE OF IDENTIFICATION	13713
+Country CPD	17101
 Country Capacity	11935
 Country Case Studies	4430,245,8545
 Country Cases Show	4430
@@ -481,19 +542,26 @@ Country Classification About G3ict	11935
 Country Climate Development Report	11469,4675
 Country Climate Development Report Contingent Emergency	10763
 Country Climate and Development	11469
-Country Climate and Development Report	1828,1628,148,7164,701,2399,1736,139,240,671
+Country Climate and Development Report	1828,1628,148,7164,701,2399,1736,139,240,671,295,308
 Country Climate and Development Report CERC Contingent	1264
+Country Climate and Development Report. World Bank	17257
 Country Code	12364,13
+Country Code Top-Level	16872
 Country Commercial Guide	10841
+Country Compact	16971
 Country Context	10763,432,765,183,269,14,243,270,374,430,234,23,954,184,52,325,921
 Country Context Aligned	13042
 Country Context The Kingdom of Eswatini	12939
 Country Contexts. Stud Fam Plann	10881
-Country Cooperation Strategy	10776,1953,1129,1867
+Country Cooperation Strategy	10776,1953,1129,1867,1149,415
 Country Cooperation Strategy CSO	10776
 Country Cooperation Strategy for WHO and Egypt	15725
 Country Coordinating Mechanism	12729
 Country Current	1264
+Country Dashboard	17011
+Country Development Strategy and Goals	16876
+Country Development Strategy and Goals The Financial	16876
+Country Development Strategy and Goals The GoL	16876
 Country Diagnostic	1028,2576,4040,3070,1513,1085,2,2166
 Country Diagnostic Cameroon Digital Economy Assessment	15480
 Country Diagnostic Framework Finance	10841
@@ -505,28 +573,39 @@ Country Diagnostic for South Sudan	7644
 Country Diagnostic. World Bank	13314
 Country Diagnostics	15513,40
 Country Dialogues and Country Strategy Paper	7784
-Country Director	1228,686,2132,607,3721,418,1971,200,582,675,2236,120,848,49,7,121,96,739
+Country Director	1228,686,2132,607,3721,418,1971,200,582,675,2236,120,848,49,7,121,96,739,560,445
 Country Director Carlos Felipe Jaramillo	579
 Country Director Chon Gyong Shik	770
+Country Director Deputy Country Director	17001
 Country Director Idah Z. Pswarayi-Riddihough	761
 Country Director Jomoke Jagun-Dokunmu	579
 Country Director Raymond Bourdeaux	12137
+Country Director for Accountability Lab	17037
+Country Director for Accountability Lab Liberia	17037
+Country Director for Algeria	16902
 Country Director for Laterite Rwanda	15182
+Country Director for Libya	16902
 Country Director for Madagascar	14430
+Country Director for Palestine	16902
 Country Director for South Africa	12940
+Country Director of Accountability Lab Liberia	17037
+Country Director of ChildFund The Gambia	17177
 Country Director of Creditinfo West Africa	9800
 Country Director of Empower Playgrounds Ghana	8247
 Country Director of KOICA Nigeria Office	9360
 Country Director of KOICA Rwanda Office	770
 Country Director of Project Sprint	8264
 Country Economic	14897
-Country Economic Memorandum	2508,8333,628,4189
+Country Economic Memorandum	2508,8333,628,4189,1284,422
+Country Economic Memorandum Morocco	17458
 Country Economic Monitor	11271
 Country Economist	10841,3044
 Country Engagement	11417
+Country Engagement Note	16896
 Country Engagement Note for Zimbabwe	13523
 Country Enters Its Next Digital Chapter	9820
 Country Experiences	10822
+Country Export	16935
 Country F. Vulnerability Assessments	12977
 Country FM	718
 Country Facts	11935,3991
@@ -542,7 +621,8 @@ Country Hydromet Diagnostics	11553,2176,719
 Country Hydromet Diagnostics Element	11553,1812,1083
 Country ICT Survey for Namibia. Sweden	12325
 Country Implementing Partners. Disclaimer	15960
-Country Index	969,12362,2330
+Country Import	16935
+Country Index	969,12362,2330,1797
 Country Index Technical Report	3456
 Country Indicators	11762,1988
 Country Information	15634
@@ -559,13 +639,16 @@ Country Lead	9424
 Country Leader of Deloitte	9107
 Country Led Planning	16036
 Country Legislative Reference	3161
+Country Level Overview and Highlights	17196
+Country Liberia	17127
 Country Mailing	11180
 Country Management Unit	11855,2155,878,623
 Country Management Unit and ESF	10768
 Country Management Unit-based	15411
 Country Management Units	10841,4670
-Country Manager	6056,3026,1681,2,10,361,2176,2,1031,714,5,409,1153,171
+Country Manager	6056,3026,1681,2,10,361,2176,2,1031,714,5,409,1153,171,273
 Country Manager Clovis Pilla	5699
+Country Manager for Liberia. Additional	16876
 Country Manager for North West Africa	7271
 Country Manager for Somalia	11136
 Country Manager for Sudan	14897
@@ -582,15 +665,18 @@ Country Name	11129,1371,4080
 Country National Technical Team	13310
 Country Number	12252
 Country Of Death	12151
-Country Office	10776,152,404,1397,1129,1065,258,72,1059
+Country Office	10776,152,404,1397,1129,1065,258,72,1059,661,95,33,188
+Country Office Annual Report	16942
 Country Office Director for Zambia and Malawi	13455
-Country Offices	11533
+Country Office and EdTech Hub	17196
+Country Offices	11533,5568
 Country Overall Gender Urban Rural Household	14098
 Country Overview	10822
 Country Overview Fig	14443
 Country PANEE	3604
 Country Panics	10
-Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914,130,363,785,511,511,286,87,3,4,32,51,58,2,82,240,310,91,52,7
+Country Partnership Compacts	17196
+Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914,130,363,785,511,511,286,87,3,4,32,51,58,2,82,240,310,91,52,7,453,26,27,509
 Country Partnership Framework Civil Registration Computer	15553
 Country Partnership Framework Corporate Results Indicator	16436
 Country Partnership Framework DA Designated Account	1264,10296
@@ -609,7 +695,7 @@ Country Perspectives	4907
 Country Pilots	8726
 Country Policies and Programs Outcomes	11935
 Country Policy	11529
-Country Policy and Institutional Assessment	969,2635,7921,338,3690,108
+Country Policy and Institutional Assessment	969,2635,7921,338,3690,108,1288,156
 Country Policy and Institutional Assessment CRFA Country	11863
 Country Policy and Institutional Assessment. Public	15658
 Country Population Area	14897
@@ -619,8 +705,8 @@ Country Private Sector Diagnostic	10768,73,123,504,1,1499,1608
 Country Procurement	15372
 Country Procurement Assessment Report	15372
 Country Procurement Issue Paper	15372
-Country Product Line Team Leader	1284
-Country Profile	1356,742,8878,906,269,195,326,1386
+Country Product Line Team Leader	1284,15638
+Country Profile	1356,742,8878,906,269,195,326,1386,2838,26
 Country Profile Companion	2098
 Country Profile Contents	11881
 Country Profile ENTERPRISE SURVEYS	11874
@@ -631,11 +717,13 @@ Country Profile.pdf	1400
 Country Profiles	10764,212,898,7,1,464
 Country Profiles Africa Angola Global Cybersecurity	10764
 Country Profiles For Early Childhood Development	10768
+Country Program	17101
 Country Program Adjustment Responding	15518
 Country Program Officer	4840
-Country Programme	7785,259,4918,1163
+Country Programme	7785,259,4918,1163,2976
 Country Programme Advisor	13885
 Country Programme Coordinator	13042
+Country Programme Document	17101
 Country Programme Officer	13885
 Country Programme Results	14058
 Country Programme Results and Resources Framework	13095
@@ -647,7 +735,7 @@ Country Rankings	5247
 Country Rating	10840
 Country Region Sub-Region City EDGI Group	10840
 Country Report	1226,9754,1695,2176,628
-Country Report No	1828
+Country Report No	1828,15381
 Country Report URL	13733,2193
 Country Report. Mogadishu	15129
 Country Reports	9399,1442
@@ -674,8 +762,12 @@ Country Strategy Paper Period	11863,3148
 Country Strategy Paper Priorities	13938,1073
 Country Strategy Paper Priorities Pillar	11863
 Country Strategy Paper for Rwanda	14871,2
+Country Strategy and Goals Technology	16876
+Country Study	17165
 Country Subcomponent Climate Development Report	3604
-Country Summary	10841,1059
+Country Summary	10841,1059,5296
+Country Support Unit	17289
+Country Support Unit DHS Demographic and Health	17289
 Country Support and Enabling Functions	12729
 Country Team	13312,2,1645
 Country Team ICRC International Committee of Red	15342
@@ -685,6 +777,7 @@ Country Trends	4722
 Country Validé	16634
 Country Window	11936
 Country Year Average Cost	16436
+Country and Energy Sector Overview and Challenges	16966
 Country and Field of Study	14775
 Country and MEDIUM Mitigants	1818
 Country and Programme of Study	14775
@@ -696,7 +789,7 @@ Country of Asylum	13769
 Country of Contrasts	12199
 Country of Delivery Date	13185
 Country of Honour	16277
-Country of Origin	2775,8066,1145,2789,717
+Country of Origin	2775,8066,1145,2789,717,1443
 Country of Origin Fig	1554
 Country of Origin Information Unit	13997
 Country of Proceeds	11469
@@ -705,19 +798,21 @@ Country of Residence	2775
 Country's Technological Transformation	15170
 Country's Vision	13391
 Country-	16036
-Country-Information	12214,460,2291,553,116
+Country-Information	12214,460,2291,553,116,1308
 Country-Led Planning	16036
 Country-Level Overview	11867
+Country-Level Progress	17196
 Country-by-Country Reporting	11976
 Country-focused	10861
 Country-led	15725
-Country-level	2879,6146,1819,17,143,898,62,2994,1186
+Country-level	2879,6146,1819,17,143,898,62,2994,1186,798,254
 Country-level AI-exposure	6965
 Country-level Implementation Arrangements	1264
 Country-level PIUs	1264
 Country-level Prospective Evaluations DRC Education Policy	11916
-Country-specific	6048
+Country-specific	6048,11092
 Country-wide	12006,2941
+Country. As Liberia	16975
 Country. Commissioner	573
 Country. Key	13060
 Country. Notwithstanding	13391
@@ -730,14 +825,15 @@ CountryProfile&Id	13388
 Countryside	15473
 Countryside By Steve Ephraem	13507
 Countryside Development Company	15473
-Countrywide	12358,45,45,948
+Countrywide	12358,45,45,948,3859
 Countrywide Universal Broadband Availability The Kenya	6133
 Country’s NTT	13310
 Country’s Name	11129
+Country’s National Development Plan	16951
 Country’s’ Project Performance and Similar Context	11863
 Counts	1232,1026,1604,1374,7131,46,3217
 Counts Percentages Same	12413,2643
-County	2775,2359,1298,1116,442,1949,374,1836,2,1103,1045,111,12,63,31,8,70,2187
+County	2775,2359,1298,1116,442,1949,374,1836,2,1103,1045,111,12,63,31,8,70,2187,52,27,61,14,15,20,1,128,15,25
 County AI	7548
 County AI Focal Point	7548
 County AI Focal Points	7548
@@ -748,23 +844,39 @@ County AI and Data Readiness Grants	7548
 County Addressing Committees	14595
 County Addressing Law	12149
 County Addressing Units. Unlike	14595
+County Administrations	16970
+County Administrative Building and Superintendent Residences	16970
+County Administrative Officers	16970
 County Aggregation	9852
 County Annual	7548
 County Assemblies	14546
 County Assemblies. Circular No. AG.3	14546
 County Assembly	14546
 County Assembly of Nyeri Data Processor INST-910552DD5F2	7167
+County Authorities	17114
 County B- Government AI	7548
+County Between	16921
+County Bomi	16935
 County C- Portfolio	7548
 County CRMS Committee	9939
+County Capacity	17139
+County Capacity Assessment Tool	16970
 County Chief Officer for Education	13254
 County Civil Registration Coordinator SCRO	12138
 County Commissioner	14594
+County Condoms IUCD Depo Oral Contraceptives	16971
+County Consultation Malaria Cases Malaria Cases	16971
 County Contribution	2775
 County Corporation	14524
+County Council	16970
+County Council. Inadequate	16970
+County Councils	16970
 County County	4153,3395,4603
+County County Schools	16935
 County County Statistics Office. Statistics Office	14594
+County County and Zone Description GRAND BASSA	16978
 County Data Controller INST-275728B5D7B NYANDARUA Kenya	7167
+County Data Source USGIS	16921
 County Department	14524
 County Department of Agriculture	7167
 County Department of Agriculture- Turkana County Data	7167
@@ -780,17 +892,34 @@ County Department of Public Service Management	7167
 County Department of Roads	7167
 County Department of Sports	7167
 County Department of Water	7167
+County Depots	16971
 County Develop	7548
-County Development Agendas	10346
+County Development Agenda	16970
+County Development Agenda. Over	16970
+County Development Agenda. Payroll	16970
+County Development Agendas	10346,6793,150
+County Development Agendas. The Deputy Minister	17231
+County Development Fund	16850
+County Development Funds	16963
 County Development Governments	7548
+County Development Officers	16970
 County Development Partner	7548
+County Development Plan	16970
+County Development Planning Units	16970,261
+County Development Programs	16970
+County Diagnostic Officers	16971
 County Directors of Education	899,13602
 County Directors of Education and Heads of Institutions	14501
 County Education Departments	9139
+County Education Offi	16876
+County Education Officers	16963
+County Education Offices	17233
 County Education and ICT	899
 County Emergency Operation Centers	4153
 County Emerging Technologies	7548
+County Engagement	17260
 County Engagement Forums	2668
+County Environmental Officers	17099,15
 County Executive	2668,4880
 County Executive Committee	2668,11754
 County Executive Committee Member	2709,11740
@@ -799,6 +928,8 @@ County Executive Committee Member Mathew Babwoya	7990
 County Executive Committee Member for Finance	9939
 County Executive Committee Members	2775
 County Executive Member	2668
+County Focal Person Dashboard	17274
+County Forestry Development Fund	16843
 County Government	2709,66,4773,442,4159,2273,124,48
 County Government of Kilifi Data Controller INST-768086D27EA	7167
 County Government of Kilifi Data Processor INST-768086D27EA	7167
@@ -813,12 +944,19 @@ County Governments Public Private Office	7548
 County Governments’ Expenditure	2775
 County Governments’ Revenue	2775
 County HIGHEST LOWEST HIGHEST LOWEST Nairobi	12251
+County Health Boards	16971
 County Health Data Bank	2709
 County Health Data Banks	2709
 County Health Directors	12138
 County Health Information Systems USAID	297
 County Health Management Teams	12143
+County Health Officers and M&E Officers	16971
+County Health Registrars	16860
+County Health Team	16970
+County Health Team CMI Crisis Management	16860
+County Health Teams	16971
 County ICT Directorate	9939
+County Improved Un-Improved Total Number	16921
 County Industrial Parks	9852
 County Integrated Development Plans	7548
 County Integration Each County Government	7548
@@ -826,38 +964,92 @@ County Intergovernmental Coordination Committee	14594
 County Intergovernmental Coordination Committee. Clause	14594
 County Internet Usage	12251
 County Investment Plans	10346
+County Jury Management Team	16943
 County K	1219
 County Kenya	7548,4603
+County Key Districts Requiring Coverage Rivercess	17239
+County Land Commissioners	17016
+County Level	17139
 County Licensing Uniform Procedures Act	9852
+County Literate Illiterate Total Number	16921
+County Live	16971
+County M&E Officers	17116
+County MOE	16935
 County MP	14631
+County Male Female LRD USD LRD	16878
+County Male Female Sex Ratio Number	16921
+County None Preschool Primary Secondary Tertiary	16921
+County Number	16935,36
+County Office	17149
+County Offices	17149
 County Officials Thank KICTANet Partners Mr	13254
 County Physical MICDE	7548
+County Place of Residence	16921
+County Planning National Spatial MPW	17260
+County Population	16921
 County Public Service Board	7167,7427
 County Registrar	12151
 County Revenue Management Systems	9939
+County Rice Cassava Hectares Yields	16935
+County Schools	16935
+County Schools Classrooms Enrollment Teacher6	16935
 County Secretary	2668
-County Service Centers	10346
+County Security Council	16970
+County Security Council Meetings	16970
+County Security Councils	16970
+County Security Mechanism	16970
+County Servi	17180
+County Service Cen	17180
+County Service Cent	17180
+County Service Cente	17180
+County Service Center	16860,110,169
+County Service Center Assessment	17139
+County Service Center Assessments	17139
+County Service Center Coordinators	16970
+County Service Centers	10346,6603,21,1,168,121
+County Service Centers County Service Centers	16970
 County Statistician	14594
 County Statistics Office	14594
 County Statistics Office. Clause	14594
 County Statistics Office. PART VI--POPULATION	14594
 County Statistics Offices	14594
+County Statistics and Information Offices	16935
+County Statistics and Information Offices ECE Early	16935
+County Superintendents and County	16970
+County Surveillance Officers	16971
+County Table	16935,36
 County Technologies	7548
 County Technologies B- Connectivity	7548
 County Technologies Data	7548
 County Technologies Infrastructure Technologies	7548
 County Treasuries	10346
-County Treasury	9939
+County Treasuries. Subcomponent	16949
+County Treasury	9939,7010
+County Treasury Offices	17079
+County Urban Rural Total North Western	17043
 County Women Representatives	9645
+County Worked Percent Did	16921
+County World Bank	17260
 County Youth and Adolescent Network Data Controller	7167
 County Youth and Adolescent Network Data Processor	7167
+County and District	16921,178
+County and District Commissioners	17114
+County and District Culture	16970
+County and District Development Committees	17114
+County and District Offices	17114
+County and Level	16935
+County and Level County School Level ECE	16935
 County and Residence	2775
 County and Sex	2775
 County and Subcounty Directors of Education	899
 County&author	1219
 County-Led Economic Development PRESS RELEASE	9852
 County-Level Implementation	7548
-County-level	7548
+County-disaggregated	17139
+County-level	7548,9591
+County-level Focal Officers	17114
+County-level Focal Persons	17114
+Countywide Sanitation Activity	16970
 Cross Country Perspective	11140
 Cross- Country Evidence	1828
 Cybastion's Country Director for Côte	6646
@@ -886,6 +1078,7 @@ DRC Country Brief GOGLA	11923
 DRC Country Partnership Framework	11918
 DRE IN THREE COUNTRIES	11572
 DStv Country	9781
+Dailing Categories Prefixes Country Code Service	16934
 Daniel Dulitzky Country Director	10768,4169
 Daniel Dulitzky. Country Director	12220
 Danish Industrialisation Fund for Developing Counties	789
@@ -899,17 +1092,23 @@ Delayed Disbursement of County Funds Review	14546
 Delivered Countrywide Couriers	9781
 Deloitte Analysis of National Broadband Plans and Country	11857
 Delve Country Profile	2889
+Demand CCDR Country Climate and Development Report	17458
+Density By County	16921
 Department of Agriculture Busia County Data Controller	7167
 Department of Agriculture Busia County Data Processor	7167
 Department of Health- Garissa County Data Controller	7167
 Department of Health- Garissa County Data Processor	7167
 Description USAID Digital Ecosystem Country Assessment	1166
 Destination Country	13376
+Develop Country LGAs Local Government Aadministrations	16885
+Develop Country LTE Long Term Evolution	16884
 Developed Countries Fund NAP National Adaptation	11586
-Developing Countries	226,228,158,154,1752,430,2401,351,2910,233,1875,8,1659,82,481,383,1504,826
+Developed Countries LFSP Liberia Forest Sector	17140
+Developing Countries	226,228,158,154,1752,430,2401,351,2910,233,1875,8,1659,82,481,383,1504,826,1261
 Developing Countries . Washington	11140
 Developing Countries Are Implementing Universal Health	11133
 Developing Countries Performing	226
+Developing Countries SCC Social Cost of Carbon	16996
 Developing Countries. IMF Staff Discussion Note	10997
 Developing Countries. University of Milano	16144
 Developing Country	5349
@@ -918,6 +1117,7 @@ Developing Country Perspective	226
 Developing and Transitional Countries	14932
 Development Countries	11356
 Development County	7548
+Development Partners Key Country Challenge Development	17257
 Diagnosing Readiness Gaps and Country Archetypes	2957
 Different Countries	14965
 Different Country Contexts Importantly	9331
@@ -941,6 +1141,8 @@ Digital Trade Regulatory Integration Country Profile	13985
 Direct Recipient Country of Incorporation	18,9548
 Distribution of County Executive Committee Members	2775
 Distribution of Members of County Assembly	2775
+District and County	17099
+District and County Education Officers	17233
 Do African Countries	3391
 Do Developing Countries Tax So	1828,11120
 Doballi’s Country Director	2680
@@ -948,18 +1150,24 @@ Donor Countries National EUR	15500
 Dr. Dan Were Country Director Jhpiego	9855
 Draft Order Gazetting the Host Country Agreement	10313
 Draft WBG Country Partnership Framework	1867
+Drive Agricultural Transformation Bong County	17306
 E-Governance and Developing Countries	13341
 E-Government for Developing Countries	5349
 ECOWAS Counterterrorism Brigade	7452
+ECOWAS Countries	16935
+ECOWAS Countries and Percentage	16935
 ELECTORAL CODE OF CONDUCT ON COUNTERING	6907
+ENP-South Countries. Chapter	16863
 ERITREA DIGITAL TRADE REGULATORY INTEGRATION COUNTRY	13985
 ESCP I. STRATEGIC CONTEXT A. Country	1264
 ESWATINI BECOMES FIRST AFRICAN COUNTRY	12972
 EU-funded Country Window	11936
+EXPLOI TATION OF THE COUNTRY’S ECONOMIC	17101
 Eastern County Trans Nzoia Kakamega Vihiga	7869
 Economic and Financial Analysis COUNTRY	13332
 Economy Country Assessment ESF Director General	13331
 Economy Name Country	15844
+EdTech Solutions and Solar Power BOMI COUNTY	16963
 Egypt Country Office	15473
 Egypt Country Office USAID	15473
 Egypt Country Profile. Retrieved	15604
@@ -989,6 +1197,11 @@ Emerging County	7548
 Emerging Technologies for Developing Countries	16467
 Emerging Technologies for Developing Countries URL	16467
 Enhance Agricultural Resilience for African Countries	14140
+Enhancing Country Support and Programme Enabling Functions	17289
+Equatorial Guinea Country Economic Memorandum	16996
+Equatorial Guinea Country Overview	16942
+Equatorial Guinea Country Profile	16996
+Equatorial Guinea Country Report. BTI. Buiyabán	16942
 Equatorial Guinea Digital Economy Country	1752
 Eritrea Country	14058
 Eritrea Country Profile	14058
@@ -998,7 +1211,9 @@ Establishments Establishment Type Count Percentage Formal	15085
 Eswatini Country Office Contributors	13163
 Eswatini Country Project Coordinator	13022
 Ethiopia Country Office. Email	14116
+Europe Oceania Countries	16830
 European Countries	12383
+European Neighborhood South Countries	16863
 Evaluation and Results for Anglophone Africa CP Country	12962
 Even Counting	8182
 Every African Country's National Digital Health	7707
@@ -1018,8 +1233,10 @@ FM. Country Public Finance Management	15658
 FY14-20 Country Partnership Strategy	12968
 FY14-FY16 WBG Country Partnership Strategy	10779
 FY20--25 Country Partnership Framework	11905
+FY2024 Liberia Counterpart Financing	16971
 FY21-FY25 Country Partnership Framework	969
 FY25 World Bank Group Country Partnership	15491
+Fadia M. Saadah Country Director	17458
 Fadia M. Saadah. Country Director	13860
 Federal Republic of Somalia Count Percent Somali	15085
 Female Both Country Of Death	12151
@@ -1028,13 +1245,14 @@ File Count	11268,1405,1172
 Finance and Cash Counter	14761
 Findings of Country Research	13148
 First Safe Country Principle	11264
+Five African Countries	16858
 Five African Countries IUCEA and MindHYVE.ai Launch	6678
 Five Countries	1824
 Five Country Practices	444,11923
 Fixed Operators Staff Count	3862
 Focus Countries	2192
 Fragmented MALAWI SCORE Country	12241
-Framework COUNTRY	1284,9680,561,330,1476,1,2221
+Framework COUNTRY	1284,9680,561,330,1476,1,2221,1369
 Francophone African Countries Powering the Next	3157
 Franz R. Drees-Gross Country Director	15659
 Fraud Forensics Countries	10848
@@ -1042,18 +1260,19 @@ Fraud Prevention Strategy DHA Counter Corruption	11986
 Functional Civil Registration Office Counts	15415
 Functions of County Governments	2775,11800
 Functions of County Governments. PART IV	14575
+Functions of Government CPF Country Partnership Framework	17458
 G5 Sahel Country Climate and Development Report	1264
 G5 Sahel Region Country Climate and Development	16384
 GCI. Countries	10764
-GCM Champion Country	9838
+GCM Champion Country	9838,7454
 GEM Report Country Profiles. Egypt. Inclusion	15604
 GENERAL INSTITUTIONAL FRAMEWORK GENERAL APPROACH Countries	1243
 GET.transform Launches EU-funded Country Window	11936
 GFOI Country-Led Planning	16036
 GHS Index Country Profile for Angola	11417
-GIEWS Country Brief	16464
+GIEWS Country Brief	16464,708
 GIEWS Country Brief The Republic	16464
-GIEWS Country Cereal Balance Sheet	16464
+GIEWS Country Cereal Balance Sheet	16464,708
 GIZ Country Director for South Africa	13223
 GIZ Nigeria Country Office	8985
 GPE Secretariat Country Team Lead	11916
@@ -1067,9 +1286,17 @@ GUARANTEE AGENCY COUNTRY PARTNERSHIP FRAMEWORK	12968
 GUINEA-BISSAU DIGITAL TRADE REGULATORY INTEGRATION COUNTRY	11550
 Gabon’s FY12-16 Country Partnership Strategy	15511
 Gaborone Country	12622
+Gambia Systematic Country Diagnostic	16952
 Garissa County	346,10382,1499,70
 Garissa Youth Hub and Nyeri County Youth	6946
 Gazette County Government Co-	7548
+Gbarpolu Counties	16943,28
+Gbarpolu Counties. Developed	17214
+Gbarpolu Counties. Funded	16976
+Gbarpolu Counties. Strategic Objective	16943
+Gbarpolu County	16978
+Gbarpolu and Bomi Counties	16970
+Gbarpolu and Bong Counties	16970
 Gender Quota Country Profile	15553
 General Country Director	15372
 General Country of Origin Information Report	13997
@@ -1077,11 +1304,14 @@ General Information Countries	9892,1
 General Information Country	16152
 General Information PROCUREMENT PLAN Country	15804
 Ghana A Xalam Analytics Country Report	3184
+Ghana Country Context Over	17196
 Ghana Country Programme	9931
 Ghana GHANA Accra Country	10822
 Global ACE Somalia Country Chapter	15043
 Global AI Ethics and Governance Observatory Country	11483,1095
+Global Compact for Migration Champion Country	17292
 Global Counter-Terrorism Strategy	11210
+Global Health Security Agenda Country Report	16860
 Global Initiative for Inclusive ICTs Country	11935
 GoK Counterpart Funding	14546
 Good Countries	1264
@@ -1093,13 +1323,31 @@ Government3 County	2775
 Governor of Kisii County	6946
 Governor of Mombasa County	11504
 Grade Course Duration and Country	14835
-Grand Bassa County	8101,1549
+Grand Bassa Counties	16949,22,22
+Grand Bassa County	8101,1549,7297,23,1,40,88,15,25
+Grand Bassa County Administration	17099
+Grand Bassa County. Key	16975
+Grand Bassa County. Scientific	17099,15
+Grand Bassa and Bong Counties	16970
+Grand Cape Mount County	16970,1,143,175
+Grand Cape Mount County. National RMNCAH	17289
+Grand Cape Mount and Bong Counties	16970
+Grand Cape Mount and Grand Bassa Counties	16970
+Grand Cape Mount and Maryland Counties	16970
+Grand Gedeh County	16970,1
+Grand Gedeh County and Tubmanburg	17011
+Grand Kru County	16921,26,24
+Grand Kru and Maryland Counties	17114
+Grand Kru and River Gee Counties	16921,193
 Grant Facility Trust Fund Country	13017
 Green Country Label	14729
 Group Vice President Country Director Regional	16436
 Group of Countries Geographical Identifier Cote	16032
+Growth Total Count of Fraud	17362
+Guiding Principles for Country Implementation	16916
 Guinea-Bissau Country Economic Memorandum	11560
 Guinea-Bissau The Country Hydromet Diagnostics	11553
+Guinea-Bissau. The Least Developed Countries Fund	17369
 Gulf Countries. Over	14909
 HCI-AM23-CAR.pdf. The ND-GAIN Country Index	15661
 HIPC Heavily Indebted Poor Countries	14929
@@ -1122,12 +1370,14 @@ Head Count	14744
 Head of Counter-Terrorism British High Commission West	10689
 Health Country Profile Comoros	13813
 Health Country Profile Guinea Bissau	11589
+Healthier Population UNCT United Nations Country	17289
 Heavily Indebted Poor Countries	9490,2434
 Heavily Indebted Poor Countries Completion Point	14976,214
 Heavily Indebted Poor Countries Initiative	14925
 Heavily Indebted Poor Countries Internally Displaced	11136
 Heavily Indebted Poor Country	14897
 Heavily Indebted Poor County	14888
+High Income Countries. Figure	16996
 High Indebted Poor Country	14888
 Hindering African Countries Secure Their Data	3598
 Hold the Child. Country	4257
@@ -1139,6 +1389,7 @@ Homabay County Women Representative Hon. Bensuda	6946
 Homabay County Women Representative Officers Ethics	6946
 Honourable Chikote. World Bank Zambia Country	13488
 Host Country Information Note	7074
+Household Head and County Agriculture Households Male	16921
 Housing Characteristics Country Level	14005
 Housing and Country Planning	8903
 Hub Country	11931
@@ -1146,20 +1397,26 @@ Human Capital Country Brief Burkina Faso	15743
 Humanitarian Country Team	12318,1031,1690,76,227
 Humanitarian Country Teams	12105
 I. COUNTRY BACKGROUND INFORMATION Country Profile	12500
+I. COUNTRY CONTEXT	16902
+I. COUNTRY CONTEXT Recent	16902
 I. STRATEGIC CONTEXT A. Country	11380
-I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345,1426,1,2079,80,62,68,37,1,2
-I. Strategic Context A. Country Context	15372
+I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345,1426,1,2079,80,62,68,37,1,2,1288
+I. Strategic Context A. Country Context	15372,2069
 ICPD25 Kenya Country Commitments	12151
 ICRR0024415 Country Angola Programmatic DPF Planned	10779
 ICT Country Profiles. Geneva	15480
 ID Countr	6432
 ID4D COUNTRY DIAGNOSTIC	15415
-ID4D Country Diagnostic	116,189,10507,10,1712,2881,59,19
+ID4D Country Diagnostic	116,189,10507,10,1712,2881,59,19,1456
+ID4D Country Diagnostic for Liberia	16949
 IDA Counterpart	15372
 IDA Counterpart Project Management	15372
+IDA I. STRATEGIC CONTEXT A. Country	17458
 IDs. European Countries	10415
+IFC Country Advisory Program Lead Bobby	17153
 IFC Country Advisory and Economics	14017
 IFC Country Manager for Comoros	3067
+IHR. Count	16892
 II. COUNTRY CONTEXT AND PROSPECTS	14043
 ILO Country Director Kumboga Ndaba	10317
 ILO Country Director for Ethiopia	14039
@@ -1169,7 +1426,8 @@ ILO-WAEMU Country Briefs	11581
 ILO-WAEMU Youth Country Briefs	11581
 IMF Country Focus	6679,4880
 IMF Country Report	10997,4755
-IMF Country Report No	969,859,2,9275,2519,244,866,43,252,12,432,279
+IMF Country Report No	969,859,2,9275,2519,244,866,43,252,12,432,279,1505,246
+IMF Country Team	17235
 IMF Staff Country Reports Volume	13624
 IMSERT COUNTRY NAME	3972
 INHERENT RISK High Substantial Country	15661
@@ -1180,6 +1438,7 @@ INSERT COUNTRY POPULATION	5352
 INSERT Government COUNTRY COUNTRY COUNTRY	5352
 INSERT Government COUNTRY NAME	5352
 INSERT NAME OF COUNTRY’S FDA EQUIVALENT	5352
+IPT. Bong County	16971
 ISO's Action Plan for Developing Countries	15860
 ITB the Purchaser's Country	13185
 ITU Country Profile	173
@@ -1198,6 +1457,7 @@ Index Country Policy and Institutional Assessment	643
 Information and Communication Technology Country	13731
 Information and Resources COUNTRY LINKS	14058
 Infrastructure Sharing for Landlocked Countries Landlocked	5675
+Inger Andersen Country Director	17441
 Insert Country Flag	11480
 Insurance Postal Agency Counter Extension Post	11129
 Integration and Business Delivery Regional Member Countries	13938
@@ -1206,20 +1466,23 @@ International Academy for Counter-Terrorism	9275
 International Country Risk Guide	1828
 International Monetary Fund Country Report	15511
 International Monetary Fund Country Report No	11905
-International Monetary Fund IMF Country Report	13741,127,909,252,723
+International Monetary Fund IMF Country Report	13741,127,909,252,723,1457,48,69,177
 Introduction General Information Country	12327
 Introduction The Country Cooperation Strategy	15725
 Introduction The Country Hydromet Diagnostics	14448
 Investment Company for Developing Countries	1420
 Ioana Alexandra Botea Beneficiary Country	15782
+IsDB Member Countries	17432
 Isiolo County	3374
 Islamic Military Counter Terrorism Coalition	10701
+Islamic Perspectives and Muslim Majority Country Practices	16902
 Items Delivered Countrywide	9781
 Items Domestic Delivered Countrywide Couriers	9781
 Items Inter-City Delivered Countrywide Couriers	9781
 Ivoire Country Climate Development Report	3604
 Ivoire Country Office	10940
 J Health Inf Dev Count	766
+J. Burgess Carter Montserrado County Senator	17376
 JV Country	11469
 Jackson County Library Services	8022
 Jessica Charles Wade FY25-29 COUNTRY PARTNERSHIP	12968
@@ -1278,10 +1541,13 @@ Komenan Koffi. Beneficiary Country	13734
 Kwale County	1236,8251
 Kwale County Commissioner Stephen Orinde	8214
 LANDLOCKED DEVELOPING COUNTRY MOBILE OWNER	11004
+LDC Least Develop Country LTE Long	16883
 LEAST DEVELOPED COUNTRY	11004
 LIST OF COUNTRIES WHICH HAVE SIGNED	4867
+LLA Bong County Administrator Amelia D.C	17145
 LLDC Landlocked Developing Country ML Machine	13042
 LOW- AND MIDDLE-INCOME COUNTRIES	11004,960
+LTA. Country Code	16934
 Lamu County	10313
 Lamu County. Social Responsibility and Investment	6946
 Land Landlocked Developing Countries	10764
@@ -1316,8 +1582,10 @@ Latin America and The Caribbean Country Argentina	11135
 Lead Country Economist	14017
 Lead and Country Economists	10718
 Learnfrom Other African Countries	14932
-Least Developed Countries	2663,4536,36,3529,80,160,568,388,981,101,40,306,356,205,39,891,184,1074,97,393,22
-Least Developed Countries Fund	11586,2166
+Least Developed Countries	2663,4536,36,3529,80,160,568,388,981,101,40,306,356,205,39,891,184,1074,97,393,22,223,301,68
+Least Developed Countries Fund	11586,2166,3412
+Least Developed Countries Global	16883
+Least Developed Countries LIBTELCO	16872
 Least Developed Countries M M2M	14879
 Least Developed Countries and Small Island Developing	6318,7294,140
 Least Developed Country	3583,5894,2092,340,2161,488,1698
@@ -1326,11 +1594,23 @@ Least Developed Country LTSS Long-Term Savings	14997
 Lending Obligations CCP Central Counterparty CDD	14997
 Lerato Martha Makana Country	14087
 Leveraging VITALREG for Sustainable CRVS Country Case	12064
+Liberia CEO County Education Officer CICO	16876
 Liberia Country Climate and Development Report	16144
+Liberia Country Cooperation Strategy	17289
 Liberia Country Focus Report	4840,3734
+Liberia Country Office	17068
 Liberia Country Partnership Framework FY25-FY30	16144
 Liberia Country Strategy Paper	4840
+Liberia County Service Centers	17037
+Liberia HIS Counties	16935
 Liberia ID4D Country Diagnostic	108
+Liberia Sub-Sahara Africa Low-Income Country World	17011
+Liberia Women Count	16949
+Liberia and Comparator Countries	16876
+Liberia. Other Counties	16921,193
+Liberian Counties	16921
+Libya Country Manager	16902
+Libya Country Representative	16902
 Life Counts	12151
 Life Counts Acknowledgment PAUL D. MWANGEMI	12151
 Life Counts Acronyms	12151
@@ -1381,22 +1661,34 @@ Life CountsKidney	12151
 Lighting Africa Country Page	12191
 Line Description of Goods Country of Delivery Quantity	13185
 Line Item Description of Goods Country of Delivery	13185
+Links Title Publisher Country Publication Date	16830
+List of Counterparts and Respective Focal Point	16902
+List of Counterparts and Respective Focal Point Organization	16902
 List of Countries Which Have Signed	1243
 Literacy Program In Makueni County	899
 Literacy and ALL COUNTRIES Affordability Literacy and Safety	11004
-Local Country Headlines	2504,1,1413,1,1,6939,1582,2579
+Local Country Headlines	2504,1,1413,1,1,6939,1582,2579,2060
+Local County Administrations	16970
 Lofa Counties. While the Government	10346
-Lofa County	9650,477
+Lofa County	9650,477,6820,23,89,261
+Lofa County Superintendent	16970
+Lofa County University	16970
+Lofa County. Another NGO	16970
+Lofa County. Saryee	17153
+Lofa and Bong Counties	16970
+Lofa and Nimba Counties	16970
 Low and Medium Income Countries	15411
 Low and Middle Income Countries	665
 Low- and Middle-Income Countries	6948,2483,1554
 Low- and Middle-Income Countries.43	11004
 Low- and Middle-Income Country Context	10881
 Low-Income Countries	1828,4490,7306,61
-Low-Income Country	14043
+Low-Income Country	14043,2968
 Low-Income Country Debt Sustainability Framework	3604
+Low-Income Country World Time	17011
 Low-Medium Income Country	14666
 Low-Middle Income Countries	6948
+Lower Margibi County	16971
 Lower Middle Income Countries MOH Ministry	771
 Lower Middle-Income Country	13418
 Lower- and Middle-Income Countries	10964
@@ -1406,15 +1698,19 @@ Lower-Middle Income Country	11909
 M High-Speed Internet Project Across the Country	5292
 M&E Lower-Middle-Income Country Labor Management Procedures	10964
 M. Countries	83,1060
+MACs and Counties	16949
 MB File Count	9854
+MENA Countries	17448
 MI Design Effectiveness MI Country	15372
 MIC Middle Income Country MoF Ministry	11863
 MICDE County	7548
+MOH- County	17116
 MOSIP VP of Country Implementations Krishnan Rajagopalan	8175
 MP for Aswa County	10672
 MSME Finance Country Coordinator	14106
 MULTILATERAL INVESTMENT GUARANTEE AGENCY COUNTRY PARTNERSHIP	11468
 Machakos County Data Controller INST-4354816A39C MACHAKOS	7167
+Macrotrends Country GNI Crucially	17239
 Madagascar A Xalam Analytics Country Report	14482
 Madagascar Country Partnership Framework FY23-FY27	14456
 Madagascar Country Private Sector Diagnostic	14456
@@ -1422,6 +1718,7 @@ Mails Delivered Country-wide Express Mail	9781
 Make Every Woman and Girl Count	598
 Makhtar Diop Country Director	11525,3899
 Makhtar Diop Obiageli Katryn Ezekwesili Country	16614
+Making All Voices Count Research Report	16872
 Making Every Dollar Work Harder Countries	11356
 Making Every Woman and Girl Count	14895
 Makueni County	10313
@@ -1435,10 +1732,18 @@ Mamta Murthi Country Director Ahmadou Moustapha	15731
 Mananga Country Lodge	12977
 Mandera County	12151
 Map of Central African Republic COUNTRY	15658
+Map of Liberia Showing Counties and Major Cities	17099,15
+Margibi County	16876,71,3,21,40,103,25,28
+Margibi and Grand Bassa Counties	16971
+Margibi and River Gee Counties	16943
+Margibi and River Gee Counties. All	16943
 Market for Eastern and Southern Africa CPF Country	6539
 Marriage Regime Count Percentage Community	15056
 Marsabit County	6946
 Maryam Salim Country Manager	14937
+Maryland County	16947,167,37
+Maryland and Bong Counties	16970
+Maryland and Rivercess Counties	16970
 Maseru Country	12743
 Matuga. Kwale County News	12322
 Matuga. Kwale County Our Social Media	12322
@@ -1447,7 +1752,7 @@ May-2025 Country Director	16654
 May-2026 Country Director	12832
 Measures Country	15553
 Measuring Governance Using Cross- Country Perceptions	14897
-Member Countries	5677,8525
+Member Countries	5677,8525,3230
 Member Countries of ESARBICA. Journal	12325
 Member for Migori County	10313
 Meskerem Brhane Country Director	13856
@@ -1459,17 +1764,32 @@ Middle-Income Countries	1264,12421
 Migori County	8793,1520
 Migori County's Registrar of Persons Julia Otieno	8793
 Migori County. Otieno	8793
+Migration Projection Country	16935
+Minister Davis Receives New WFP Country	17025
+Ministry of Commerce and Industry Country	17334
 Ministry of Education and UNICEF Ethiopia Country Office	13999
 Ministry. The Country Programme	12962
+Mobile Country	16934
+Mobile Country Code	16934
 Mobile Money International Courier Transaction Counts	9781
 Modernized County Service Centers and County Treasuries-	10346
 Mogadishu Country	14878
 Mombasa County	11504
 Mombasa County Government	9436
 Money Laundering and Countering the Financing of Terrorism	13532
-Montserrado County	3071,11203
-Morocco Country Climate and Development Report	14627
+Monitoring and Supervision of County Depots	16971
+Monsterrado and Margibi Counties	17055
+Montserrado County	3071,11203,2566,81,22,4,3,13,7,1,22,106,15,121,54,57
+Montserrado County Senator Abraham Darius Dillon	17376
+Montserrado County. Bong	16921,193
+Montserrado County. Health Financing Liberia's Health	16971
+Montserrado and Bong Counties’ Regional Blood Banks	16971
+Montserrado and Grand Cape Mount Counties	16971
+Montserrado and Margibi Counties	17190
+Morocco Country Climate and Development Report	14627,2831
 Morocco and Tunisia. MAM March-April-May Mashreq Countries	2775
+Mount County	16921
+Moving Beyond Counting	17331
 Mozambique Republic of Mozambique Type Country	4653
 Ms. Niharika Vasumitra Country Engagement Partner	14081
 Multi-Annual Country Strategy	13358
@@ -1485,6 +1805,7 @@ NDMA County Drought	14516
 NEIGHBOURING COUNTRIES	11211,51
 NETWORK PERFORMANCE Countrywide	12358
 NIN Naira Value of Trades Counterparty Identity	4602
+NO. OF HEALTH CENTERS COUNTIES Counties	16935
 NRI Country NRI Environment Readiness Use	236
 NSDM Countrywide	14567
 NSDS STATUS OF COUNTRIES	13082
@@ -1507,29 +1828,43 @@ Narok County	10313,1918
 Narratives and Counternarratives	740
 Nasir County	3583
 Natalija Gelvanovska-Garcia. Beneficiary Country	11965
+National Council of Chiefs. County	16970
 National Count	12201
 National Counter Terrorism Fusion Centre	8767,1
 National Countering the Financing of Terrorism Strategy	11277
 National Counterterrorism Fusion Centre	8748
 National Counties	7548
+National Destination Code Country Code Service	16934
 National Identity Count	15845
-National and County	12151
+National and County	12151,4721
+National and County Development Plans	16970
 National and County Government	14422,124,48
-National and County Governments	6432,7990,124
+National and County Governments	6432,7990,124,2326
 National and County Governments of Kenya	12322
 Nations Country Team	13989
+Naymote’s County Service Centers	17139
 Ndiame Diop Country Director	13742
+Nerve Across the Country A Gambian Singer	17069
 Network Readiness Index Country Comparison	11857
 Nigeria A Xalam Analytics Country Report	4525
 Nigeria Country Office World Bank Western	11468
+Nimba County	16921,26,23,1,40,103,25,51,70,29,22
+Nimba County LIBERIA ELECTRICITY REGULATORY COMMISSION	16978
+Nimba County Superintendent Kou Meapea Gono	17190
+Nimba County Superintendent Kou Meapeh Gono	17416
+Nimba County. Nimba	16921,193
+Nimba and Bomi Counties. Stage	17011
+Nimba and Bong Counties	16971,7,136
+No. County Step	16853
 Non-Automated Public Counters	6946
 Non-EU Countries	15901
 Non-Member ECOWAS Country	14434
 Non-World Bank Group Financing Counterpart Funding	14015
-Non-fragile Country	1284
+Non-fragile Country	1284,15638
 Northern Northern Nairobi County Region Meru	7869
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
 Number County Country	7167
+Number of Peace and Political Dialogues No County	16970
 Nyamira County	8383,3768
 Nyandarua County	6627,4459,2168
 Nyandarua County Assistant Director for Gender	11086
@@ -1542,6 +1877,7 @@ OECD Countries	961,10172,4420
 ONLY INSERT FOR ELIGIBLE COUNTRIES	5352
 OPERATORS EMPLOYEE COUNT	3862
 OPS TABLE Country Project ID Parent	15513,37
+OPV2 County Round	16971
 Obiageli Katryn Ezekwesili Ousmane Diagana Country	15511
 Objectives and Methodology for Individual Country Reports	12337
 Okey Chigbu for TechTrends Africa. Counter-narrative	7798
@@ -1550,14 +1886,16 @@ Open Education Resources Project Counties	6946
 OpenAI for Countries	6790
 OpenEMIS Country Highlights	12974
 Oracle Kenya Country Leader David Bunei	8261
-Organization of Petroleum Exporting Countries	2775
+Organization of Petroleum Exporting Countries	2775,14460
 Organizations CSP Country Strategy Paper CVE	11863
-Ousmane Diagana Country Director	969,295,9565,135,585,375,3567,20,4,3,35,48,20,81,29,301
+Orientations for County Health Boards	16971
+Ousmane Diagana Country Director	969,295,9565,135,585,375,3567,20,4,3,35,48,20,81,29,301,864,26,30
 Ousmane Dione Country Director	13861,1802
 Outgoing Outgoing SMS Data Volumes Country	6671
 P-CV-GB0-004 Country	11863
 P-DJ-H00-001 Country	13938
 P130184 Country Western Africa Original EA	15424
+P155293 Social Safety Nets Project Country	16960
 P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
 P173640 Beneficiary Country	12832
@@ -1565,22 +1903,34 @@ P2P Mobile Money Transaction Count	9781
 PIDC29534 Country	12669
 PITD1 Country Manager Alex MUBIRU	13938
 PITD2 Country Manager Joseph RIBEIRO	11863
+PMU Institutional Capacity and Country Structures	16949
 POPULATION OF CONCERN Country	16580
+PROPORTION OF A COUNTRY’S POPULATION	16892
 PS4R Country Assessment Diagnostic Framework. Washington	10841
+PSPs Sector Count of Fraud Cases Reported	17362
 Pacific Island Countries	26,1,1
 Page Country	6671
 Parameter Country	13991
 Paratus Uganda Country Manager Edwin Kyambadde	10697
 Paratus Uganda. Murang'a County	6394
 Paratus. Murang'a County Government	6378
-Participating Countries	1914,13783,262
+Part IV. Mobile Country	16934
+Participating Countries	1914,13783,262,977
+Participating Countries Financing Agreement	16936
+Participating Countries Financing Agreements	16936
+Participating Countries and Regional Bodies	16936
+Participating Country	16936
+Participating Country Financing Agreement	16936
 Partner Countries	3760,9683
 Passport Country	11276
 Peer-Learning Country Clinics	7963
+Per Count	17362
 Per Second MCA Member of County Assembly	2775
 Percentage of Count of LIs	15845
+Petroleum Exporting Countries OB OPEC Plus	17235
 Petroleum Exporting Countries OVC Orphans and Vulnerable	2775
 Petroleum Exporting Countries P2B Person	15023
+Petroleum Exporting Countries PACD Program for Accelerated	17105
 Phase II Country	8166
 Phase II Country Practice Area	14888
 Plan D4TEP Country Partnership Framework	3604
@@ -1589,6 +1939,8 @@ Policy Country	12341
 Policy. Country	11887,267
 Policy. County AI	7548
 Polling and Counting	10017
+Population And Sex Ratio By County	16921
+Population County and Place of Residence	16921
 Population Group Country Group Burundi	13669
 Population and Development CPs Country Programmes CSO	12962
 Population and Housing Census Country Level	14005
@@ -1600,14 +1952,18 @@ President Trina S. Haque Country Director	11924
 Primary Storage Locations Storage ID Country	6432
 Principal Country Economist	13885
 Principal Country Program Officer	13938
+Priority Counties	17239
+Priority Districts Critically Needing Coverage Counties	17239
 Private Equity Country Attractiveness Index WEF	13358
 Process National Rwanda Is Counting Everything	5889
+Procurement Consultant. The County and District	16921
 Procurement Financial Management Country Issues	15411
 Procurement Summary Country	13548
 Programme Summary Country	14000
 Project Counterpart Funds Account	15372
 Project ID P128534 Country Cameroon Original	15601
 Project Implementation Unit. The County CRMS	9939
+Project PLAN General Information Country	17180
 Project Risks H Country	15659
 Project Sprint Country Director	8264
 Prosperous Middle Income Country	13346
@@ -1630,6 +1986,7 @@ RDGE and Country Director Hervé LOHOUES	13885
 REG. Countries	1048
 RESULTS COUNTRY	4653,10485,831,63,155
 RISK Country	15518
+RIVERCESS COUNTY	16978
 ROLE OF COUNTY GOVERNMENTS	14575
 RSI Systematic Country Diagnosis SCD Sustainable	11855
 RWANDA COUNTRY REPORT STRENGTHENING EDUCATION	12329
@@ -1637,33 +1994,48 @@ Ranking Country RGI RSI ERIGS ROI	12256
 Rapid Assessment of Counties	5134
 Rapid Country Analysis	11916
 Real Time Food Prices Country	15620
-Real-Time Review of Country Measures	10763
+Real-Time Review of Country Measures	10763,6139
 Recommendations County	5134
 Recorded Count	15845
 Refugee Country of Origin	10841
 Refugee Policy Review Framework Country Summary	10841,1386
 Refugee Policy Review Framework. Country Summary	11905
+Region Counties Gbarpolu South Central Margibi	17043
 Region and Its Countries	11596
+Regional Composition Region Counties Southeastern	17043
 Registered Proportion County County Neonatal Deaths	12151
 Registrar. The Sub- County Registrar	12151
+Regular County	17139
 Regulatory Agencies and County Focal Points Sector	7548
 Regulatory Agency CCDR Country Climate and Develop	13885
 Related Data Found Country Organizations	11935
 Relevance of Objectives Rationale Country	14888
 Renunciation Count	15845
 Representative Taa Z. Wongbe of Nimba County	4998
+Republic CEM Country Economic Memorandum CEMAC	16996
 Republic of Angola and Country Director Albert G	1770
 Republic of Congo Country Economic Memorandum	1828
 Republic of Congo Country Partnership Framework	15553
 Republic of Kenya. GO-SPIN Country Profiles	7548
 Republic of Kenya. Migori County Annual Development	12231
 Resident Coordinators and UN Country Teams	11356
+Resilience The Country Programme Document	16973
 Responses Country Specific Medium High Lower	13868
 Results Framework COUNTRY	10829
 Results Framework and Monitoring COUNTRY	15411
 Results Framework. Country	15782
+Revenue Sharing Regulations. County Service Centers	17139
 Review of Six Countries	1250
 Risks Mitigation Measures Country	15659
+River Cess County Senator Wellington Geevon	17207
+River Gee Counties	16960,10
+River Gee County	16947
+River Gee and Maryland Counties	16978
+RiverCess County	17114
+Rivercess Counties	17114
+Rivercess County	16970
+Rivercess and Grand Cape Mount Counties	16970
+Rivercess and Grand Cape Mount County Administrations	16970
 Rockingham County	9968
 Role of County Governments	7548,7116
 Role of County Governments County	7548
@@ -1675,26 +2047,34 @@ Rwanda Is Counting Everything	5889
 Rwanda and Tanzania Country National Switch Ownership	12214
 Rwanda. Countrywide	12403
 SADC Countries	12383,192
+SAMPLE ALLOCATION BY REGION AND COUNTY	17043
 SAMPLE WEST AFRICAN MARKETS Country	10861
 SCD Systematic Country Diagnostic SDG Sustainable	11549
 SCD Systematic Country Diagnostic SEP Stakeholder	15659
 SCD Systematic Country Diagnostic SIAC Serviços	10765,10
+SDIs Sector Count of Fraud	17362
 SDSP County	14516
 SECTORS COUNTRIES	4883
 SEED DEALS COUNT PER COUNTRY AFRICA	10954
 SEED FUNDING AMOUNT PER COUNTRY	10954
 SERIES A DEALS COUNT PER COUNTRY	10954
 SERIES A FUNDING AMOUNT PER COUNTRY	10954
+SERVICES ACROSS COUNTRIES	16991
 SMS Counts	2776
 SMS Counts Market	2776
+SN COUNTRY BANK MOBILE WALLET	17242
+SOP1 PLAN General Information Country	17219
 SSA Countries	1152
 SSA. Countries	1152
 STOPEACOP Countering Xenophobia	9682
 STRATEGIC CONTEXT A. Country Context	11863,2075,142
 STRATEGIC CONTEXT Country Strategy Paper Period	13938
+STRONG COUNTRY-LED GOVERNANCE OF DATA National	16892
 SURVEY COUNTRIES	11004
 Safe Country Project	259
 Safety Nets and Country Economic Inclusion Practice	10963
+Sahel Countries	17017
+Samantha Francois Country Director	17260
 Samburu County	14299
 Samia Melhem Approved By APPROVALTBL Country	15513
 Samoa. Countries	13042
@@ -1702,8 +2082,10 @@ Sampling Zones Classification County Uasin Gishu	7869
 San Mateo County	14392
 San Mateo County Superior Court	14675
 San Mateo County Superior Courts	14675
+Sanitation and Hygiene WCO WHO Country Office	17289
 Save Energy-Every Action Counts	14745
 Says World Bank Country Manager	14345
+School District County	16963
 Score Country	10837,1052
 Sector Director Marie Françoise Marie-Nelly Country	15372
 Segment By Country	8727
@@ -1717,22 +2099,40 @@ Selected African Countries Performance	236
 Selected Benchmark Countries	15411
 Selected Countries	2775,13661
 Selected SADC Countries GDP Growth Projections	13685
+Senator for River Gee County and Chair	17070
 Senator for Uasin Gishu County	6946
 Senior Country Economist	4840,7341
+Senior Country Officer	16902
 Senior Deputy Country Director Mr Baik	8121
 Senior Vice President and Country Manager for East	8374
 Sep-2025 Country Director	13111,3564
+Service Agency CSC County Service Centers	16970
+Service Delivery Experience County Service Center	17139
 Services and Personnel Counterpart	11869
 Services for Developing Countries	9616
 Set Countries	6666
 Seven Countries	13148
-Sex and County	2775
+Sex Country	16935
+Sex Total Male Female Bomi County	16921
+Sex Total Male Female Gbarpolu County	16921
+Sex Total Male Female Margibi County	16921
+Sex Total Male Female Maryland County	16921
+Sex Total Male Female Montserrado County	16921
+Sex Total Male Female Sinoe County	16921
+Sex and County	2775,14146
+Sex and County Total Male Percent Female	16921
+Sex and County Total Urban Rural Male	16921
 Sexes Country Of Birth N	12151
+Sexual Harassment SCD Systematic Country Diagnostic	16949
+Sherman Consultant Locations Country First Location	17441
 Shirika Plan for Kenya Country Brief	12297
 Show MoreShow Less Anja Werntges Country	11936
 Siaya County	6946,448
 Sierra Leone Country Partnership Framework	16144
+Sierra Leone and Guinea. Countries	16876
 Single Window Countries	13042
+Sino County	16971
+Sinoe County	17114
 Six African Countries	13278,815,581
 Six Arab Countries The NTRA	11642
 Six Asian and African Countries	226
@@ -1743,6 +2143,7 @@ Skills Country Action Plan D-TEST Digital	13991
 Skills Development Country Performance	11863
 Small Island Developing Countries	11191
 Small Island States and Countries	14721
+Smart Africa Alliance. Country	17287
 Smart Government Integrated Country Engine	958
 Social Safety Net Project Country Financing	15663
 Social Service Delivery. Country Case Studies	12761
@@ -1763,6 +2164,8 @@ Storage System CCDR Country Climate and Development	15983
 Strategy Non-Bank Financial Institutions Over the Counter	12701
 Strategy for Transformation OTC Over The Counter	14997
 Streamlined Country Diagnostic	11468,1
+Strengthen County Development Planning Units URL	17231
+Strengthen the Capacity of County Service Centers	16949
 Study and Country Table	14775
 Sub County	1920
 Sub County Civil Registration HP	12138
@@ -1778,9 +2181,10 @@ Sudan Country Report URL	14851
 Sudan Deposits Its Country Signing Certificate	15104
 Sudan Humanitarian Country Team	15115,1
 Sudan. Country Background Paper. ILO	15244
+Superintendent of Nimba County	17260
 System CPF Country Partnership Framework	15659
 System LIC Low Income Countries LMIC	771
-Systematic Country Diagnostic	969,5570,4226,10,54,696,20,310,69,1044,344,2,2133,27,6,31,3,4,1108
+Systematic Country Diagnostic	969,5570,4226,10,54,696,20,310,69,1044,344,2,2133,27,6,31,3,4,1108,323
 Systematic Country Diagnostic SCGB Sociedade de Cabos	11545
 Systematic Country Diagnostic SMP Stakeholder Management	15518
 Systematic Country Diagnostic. The Strengthening Electricity	15659
@@ -1791,10 +2195,13 @@ Taita Taveta County	6946,3367
 Tana River County	7990,1557,766
 Tana River County Government	7990
 Tana River and Kilifi Counties. Community	6946
+Target Countries	17196
 Tax Policy for Developing Countries	12385
+Technical Assistance Fund for Middle-Income Countries UNECA	17101
 Technologies-specific County	7548
 Technology LDC Least Developed Country	13042
 Telecel Money's Country Manager	2985
+Telephone Website Others Count	17149
 Ten African Countries	1250
 Ten African Countries. Johannesburg	12325
 Ten Country Case Studies	4117
@@ -1805,7 +2212,9 @@ Theory of Regulation for Developing Countries	11310
 Third Countries	12549,1885
 Third Country Fabric Derogation	14721
 Through County Integrated Development Plans	7548
+Through the County Security Council	16970
 Title Main Stakeholders Countries Topic	10819
+Tool CDF County Development Fund CLAS	16970
 Town and Country Planning Act	1988,10659,2101
 Town and Country Planning Board	14738,8
 Town and Country Planning Department	11
@@ -1822,47 +2231,66 @@ Turkana County	8323,1990,1914,70,2368
 Turkana County Government	6946
 Turkana County.72	12227
 Turkana and Kwale County	12151
+Type Of Residence And County	16921
+Type of Residence and County	16921
+Type of Residence and County Male Female	16921
+Type of Residence and County Owned Mortgaged	16921
+Type of Residence and County Total Urban	16921
+Typical Mediterranean Countries	17157
 U.S. Country Commercial Guide	1886,2162
 U.S. Country Commercial Guide for Madagascar	3394
 U.S. ITA Country Commercial Guide	4186,908,1246
+UCT Arrangements for PRGT Countries	17257
 UN COUNTRY TEAM	14959
 UN Country Team	10346,2383,2230
 UN Country Team Members The United	13989
 UN Security Council Counter-Terrorism Committee Executive	571
+UN Women Country Gender Equality Profile	16947
 UN Women Country Representative	14990
+UNDP Country Office	16927
 UNDP Country Offices	402
 UNDP Sudan Country Office	15244
 UNDP Uganda Country Office	11773
 UNDP's Malawi Country Office. Pension	12144
 UNDP-GEF Least Developed Countries Fund	11553
+UNESCO Country Profile	17448
 UNESCO Country Representative	9202
+UNFPA Country Office	17068
 UNFPA Somalia Country Humanitarian Appeal	9766
 UNHCR Country Representative Aissatou M. Ndiaye	4652
 UNHCR Country Representative. The Deputy Head	16222
 UNICEF Country Report	14897
 UNICEF Country Representative	7171
 UNICEF Country Representative Wafaa Abdelatef	5100
+UNICEF Country and Regional Child Protection Offices	16860
 UNICEF Djibouti Country Office	13901
 UNICEF Egypt Country Office	15604
 UNICEF Eswatini Country Office	12330
 UNICEF Ethiopia. Country Office Annual Report	12188
+UNICEF Liberia Country Office Annual Report	16949
+UNICEF Liberia Country Office-Education Fact Sheet	16949
 UNICEF Sudan Country Office	15253
 UNICEF Sudan Country Office. Deliverable	15253
 UNICEF and Countdown	10768
 UNICEF's Sudan Country Office	15253
 UNICEF’s Country Representative for Zambia	5802
+UNV VNR WOBIPC Country Programme Document	16973
 US Counterstrategies. Insight Africa	5242
 US Country Commercial Guide	1032,857,1486,1598
 US ITA Country Commercial Guide	4186,908,1246
 USAID Country Profile Egypt	15473
 Uasin Gishu County	10399,1859
 Uganda UGANDA Kampala Country	10822
-United Nations Country Team	13977,982,766
+Underfunded Counties	17139
+United Nations Country Team	13977,982,766,1564
+United Nations Country Team SWAP	17101
 United Nations E-Government Survey. Countries EDGI	10840
 United Nations Global Counter-Terrorism Strategy	11183
 United Nations Office of Counter-Terrorism. The Somali	10701
 United Nations Population Fund Country	15039
 United Nations.11 LOW- AND MIDDLE-INCOME COUNTRY	11004
+Upper Middle-Income Countries	16996
+Upper-Middle Income Countries UN United Nations	16996
 Use Case for African Counterparts	3796
 Use of Country Systems	14888
 User Interfaces for Low-Income Countries	5349
@@ -1876,7 +2304,9 @@ View Counter	2266,48,70,1204,745,235,171,806,299,245
 Vihiga County	12268,2373
 Village Assessment Survey County Profiles	1867
 Visit Country Office Site	14058
+Visit the County Office	17149
 Visitor Counter	6480,9754
+Volunteer CHT County Health Team DOTS	16971
 Vulnerability and Readiness Country Index	2889
 WAEMU Countries	16144
 WB Country Manager	15019
@@ -1888,6 +2318,7 @@ WEST AFRICA COUNTRY ATTRACTIVENESS	10861
 WEST AFRICA COUNTRY ATTRACTIVENESS TO DATA	10861
 WFP Angola Country Brief	10763
 WFP Cameroon Country Brief	10841
+WFP Country Director Ministry of Foreign Affairs	17025
 WFP Kenya Annual Country Report	7548
 WFP Representative and Country Director	16526
 WFP Uganda Country Brief	10841
@@ -1898,8 +2329,9 @@ WORLD BANK COUNTRY MANAGER’S REMARKS	14345
 Wajir County	899,6305,4947
 Wendy E. Hughes Country Director	14456
 Wendy E. Hughes. Country Director	12388
+West Africa Countries	17017
 West Africa. Countries	10834
-West African Countries	16144
+West African Countries	16144,777
 West African Country	15424
 Whistleblowing Homa Bay County	6946
 Wholesale and Retail Payment Systems Country	6938
@@ -1908,6 +2340,7 @@ Within the United Nations Country Team	11332
 Women Count	1407,13488
 Women Count Data Hub	16144
 Women Count Phase	1407
+World AFR Most Vulnerable Countries LBR	17257
 World Bank Angola Country Climate Development	10763
 World Bank Climate Risk Country Profile	13003
 World Bank Country Classification	11935
@@ -1919,6 +2352,7 @@ World Bank Country Director for Gabon	1575
 World Bank Country Director for Nigeria	3721,7755
 World Bank Country Economic Memorandum for Angola	11417
 World Bank Country Engagement Note	14897
+World Bank Country GNI	17239
 World Bank Country Manager	12370
 World Bank Country Manager Abdu Muwonge	9344
 World Bank Country Manager Georgia Wallen	6523,7695,100
@@ -1929,6 +2363,8 @@ World Bank Country Manager for Sudan. Financed	14960
 World Bank Country Manager for Zambia	7963,5468
 World Bank Country Manager for Zambia. Zambia	1901
 World Bank Country Office	13312,2
+World Bank Country Office Information	17114
+World Bank Country Office. Information	17099
 World Bank Country Partnership Framework	1264,2340,7813,3773,431
 World Bank Country Partnership Strategy	11924,3487
 World Bank Country Representative Franklin Mutahakana	8459
@@ -1938,7 +2374,7 @@ World Bank Digital Economy Country	1029
 World Bank Group Country Management	15969
 World Bank Group Country Manager	14339
 World Bank Group Country Manager for Madagascar	14603
-World Bank Group Country Partnership Framework	12176,935
+World Bank Group Country Partnership Framework	12176,935,3811
 World Bank Group ID4D Country Diagnostic	15415
 World Bank Group Liberia Country Manager	14345
 World Bank Group's Country Partnership	1954
@@ -1948,6 +2384,7 @@ World Bank Group. Country Partnership Framework	15663
 World Bank Group’s Cameroon Country Partnership	10964
 World Bank Group’s Country Partnership Framework	6539,9119,5
 World Bank Group’s Country Partnership Strategy	11855
+World Bank Group’s FY19-FY24 Country Partnership	16960
 World Bank Group’s Strategic Country Diagnostic	10964
 World Bank Launches New Country Partnership	11476
 World Bank Liberia Country Manager	14345
@@ -1963,12 +2400,18 @@ World Bank. Country Assistance Strategy	15601
 World Bank. Country Partnership Framework	15601
 World Bank. Country Public Finance Management	15661
 World Bank’s Acting Country Director for Nigeria	11305
+World Bank’s Climate Risk Country Profile	16949
+World Bank’s Country Economic Memorandum	16942
+World Bank’s Country Engagement Note	16952
 World Bank’s Country Partnership Framework	16436
 World Bank’s Country Partnership Strategy	15372
 World Bank’s Country Policy and Institutional Assessment	13868
 World Bank’s Regional Director and Country Manager	4640
 XYZ County Government	14524
 Yango Senegal Country Manager Aïcha Niang	7419
+Year Antigen County Bomi Bong Gbarpolu	16935
+Year Central County	16860
+Year-2024 No. County Male Female	16970
 Years of Counting South Africa	11294,47
 Yei River County	7249
 Zambia Country Brief. Website	12369

@@ -1,7 +1,10 @@
+AFRICA AND THE SAHEL Approved	17017
 Abrogation SAHEL NTIC Décision	998
+Academic Entities REACH Johannes Sahmland-Bowling	16902
 Additional Saharan Africa	11469
 AfricTivistes CitizenLabs and Sahel Activistes	9201
 Africa. Rahul Sahni	7578
+African Sahel	17157
 Akum David Sahbaker	6259
 Alliance Sahel	643
 Alliance des Etats du Sahel	3993,66,2900,711,567,7439,441
@@ -17,6 +20,7 @@ Banque Sahélo	15474
 Banque Sahélo-saharienne	2983
 Baraboulé Soum Sahel	15715
 Basic Education Laws SAHRC Summit Report	10729
+Bhagwan Mahaveer Vikalang Sahayata Samiti	17240
 Boundoré Yagha Sahel	15715
 CACQE LABO ITGC Les Moulins du Sahel	16103
 CENTRAL SAH EL SUD-OUE ST DGESS-MENAPLN	10847
@@ -66,6 +70,7 @@ GSMA Sub Saharan Africa. For Methodology	14674
 Google’s Policy Recommendations for Sub Saharan Africa	1363
 Gorgadji Séno Sahel	15715
 Gorom-Gorom Oudalan Sahel	15715
+Greater Sahara Aquifer System	17157
 Guideline SAHPGL-MD-03	3651
 Habiburahman Sahibzada Reviewed	10779
 Haut Conseiller Madame RANDRIAMORASATA Maminirina Sahondra	14416
@@ -101,12 +106,15 @@ MVOULANKE SAH	15744
 Maghreb and Sahel	6326
 Mansila Yagha Sahel	15715
 Markoye Oudalan Sahel	15715
+Mathematics SWEDD Sahel Women's Empowerment Demographic	17105
 Michael Nyumah Sahr	16201
 Milieu de Sahel	737
 Mme. Kenza Sahli	15767
 Moulins du Sahel MI	16103
+Mr. Sahba Sobhani	17173
 Mr. Sahu	8352
 Mr. Soumendra Sahu	8352
+Ms. Ndumbeh Saho	17292
 Muhammed Safa Sahin	15604
 Mumbi Kiragu and Sahara Ali	10246
 Nasri Abdelkader EAI Marou Sahnoun EAC	15690
@@ -114,6 +122,11 @@ Nassoumbou Soum Sahel	15715
 National Human Rights SAHRC Summit Report	10729
 National Migration Policy. Ndumbeh Saho	9838
 Ndumbeh Saho	10463
+North Western Sahara Aquifer System	17157
+North-West Sahara Aquifer System	17157
+Northern Sahara Basin	17157
+Northwest Sahara Aquifer System	17157
+Nubian and Northwest Sahara Aquifers	17157
 ONG ID Sahel Afrique	9866
 OPPORTUNITY Saharan Africa	10995
 Oudalan Sahel	15715
@@ -126,10 +139,13 @@ Pobé-Mengao Soum Sahel	15715
 Pourcentage SAHEL	10847
 President Sahle-Work Zewde. Daniel Fikadu Law	12185
 President of Ethiopia Sahle-Work Zewde	12188
+Procurement SWEDD Sahel Women’s Empowerment and Demographic	16952
 R SAHEL	10847
 R SAHEL OUDALAN	10847
 Regions SAHEL	10847
 Regions Sahel	737
+Represents the Libyan Sahara Desert Occurs	17157
+Rising Sahel Insecurity	17364
 Ritvik Sahajpal	13094
 Région Privé SAHEL	10847
 Région Province Commune Effectif Pourcentage Sahel	10875
@@ -177,20 +193,21 @@ Sahal Tech Innovation Challenge	11622,30,4734
 Sahal Tech Innovation Las	16386
 Sahal Tech Labs	11622
 Sahal Tech Smart Innovation Hub	16386
-Sahara	19,770,110,3214,1111,28,784,34,187,3070,1836,334,4118,58
+Sahara	19,770,110,3214,1111,28,784,34,187,3070,1836,334,4118,58,1201,283,79
 Sahara Africa	8376
-Sahara Desert	16472
+Sahara Desert	16472,685
 Sahara Group	8610,233
 Sahara Reporters	7458
-Sahara and Sahel Observatory	15129
+Sahara and Sahel Observatory	15129,2276
 Sahara-powered	11163,334
 Sahara. Starlink	5830
-Saharan	766,1120,721,1084,211,435,94,36,769,113,837,281,170,154,1761,1392,502,317,12,448,991,1135
-Saharan Africa	19,73,57,64,1,22,288,65,354,18,61,125,9,1,1,1,60,29,115,191,2,170,225,15,11,2,179,83,194,104,56,107,73,170,3,236,1,251,46,5,117,178,409,276,30,17,11,196,251,64,461,36,241,28,140,131,75,55,123,19,27,1,190,41,33,42,205,253,14,78,12,19,64,215,6,3,56,15,182,35,50,133,357,248,30,372,93,9,27,51,24,55,171,118,42,19,36,38,30,49,16,67,32,66,219,89,147,350,6,1,60,20,102,32,2,19,124,15,109,44,2,91,16,52,55,35,19,7,51,84,101,42,51,2,8,62,4,16,72,12,141,3,12,32,19,39,31,2,48,10,81,120,294,26,214,12,35,54,49,2,22,13,275,57,214,484,55,9,39,110,74,230,26,75,126,86,193,22,150,85,301,26,1,46,376,27,363,11
+Saharan	766,1120,721,1084,211,435,94,36,769,113,837,281,170,154,1761,1392,502,317,12,448,991,1135,3593,30
+Saharan Africa	19,73,57,64,1,22,288,65,354,18,61,125,9,1,1,1,60,29,115,191,2,170,225,15,11,2,179,83,194,104,56,107,73,170,3,236,1,251,46,5,117,178,409,276,30,17,11,196,251,64,461,36,241,28,140,131,75,55,123,19,27,1,190,41,33,42,205,253,14,78,12,19,64,215,6,3,56,15,182,35,50,133,357,248,30,372,93,9,27,51,24,55,171,118,42,19,36,38,30,49,16,67,32,66,219,89,147,350,6,1,60,20,102,32,2,19,124,15,109,44,2,91,16,52,55,35,19,7,51,84,101,42,51,2,8,62,4,16,72,12,141,3,12,32,19,39,31,2,48,10,81,120,294,26,214,12,35,54,49,2,22,13,275,57,214,484,55,9,39,110,74,230,26,75,126,86,193,22,150,85,301,26,1,46,376,27,363,11,161,40,94,22
 Saharan Africa and South Asia	9653
 Saharan Africa's GDP. Yet	3691
 Saharan Africa. AI	7545
 Saharan Africa. Africa	1726
+Saharan Africa. African Journal of Agricultural Research	16996
 Saharan Africa. Airtel Africa	6932
 Saharan Africa. Beyond	6111
 Saharan Africa. Classified	12367
@@ -215,7 +232,8 @@ Saharan Africa. We're	12289
 Saharan Africa.1	13868
 Saharan Africa.79 Women	16144
 Saharan Africa.912	10881
-Saharan African	215,551,299,147,229,113,172,201,409,44,1411,258,2240,2087,753,506,334,811,101,82,17,755,128,44,17,66,288,1901,387,363,35,801,1045
+Saharan African	215,551,299,147,229,113,172,201,409,44,1411,258,2240,2087,753,506,334,811,101,82,17,755,128,44,17,66,288,1901,387,363,35,801,1045,48
+Saharan Atlas	17157
 Saharan P2P	8019
 Saharan States Community	10841
 Saharienne	15493
@@ -224,7 +242,7 @@ Sahay S. Improving	771
 Sahay&volume	771
 Sahbaker	6259
 Saheb	11135
-Sahel	643,94,52,209,266,704,154,149,106,398,382,184,15,40,728,683,15,37,365,28,239,458,10,135,535,20,59,11,240,321,53,119,293,49,164,41,404,181,72,631,55,154,56,322,86,429,158,68,197,29,6,17,2,8,1,1,257,9,168,226,17,575,2076,797,453,103,155,3,5,23,202,81,358,348
+Sahel	643,94,52,209,266,704,154,149,106,398,382,184,15,40,728,683,15,37,365,28,239,458,10,135,535,20,59,11,240,321,53,119,293,49,164,41,404,181,72,631,55,154,56,322,86,429,158,68,197,29,6,17,2,8,1,1,257,9,168,226,17,575,2076,797,453,103,155,3,5,23,202,81,358,348,217,47,21,1,223,120,44
 Sahel AFRISTAT	10874
 Sahel ARGASC Agence de Gestion	6959
 Sahel Adaptive Social Protection MDTF	16435
@@ -235,26 +253,40 @@ Sahel CIM	10874
 Sahel CMN Centre Météorologique National CMSC	16621
 Sahel CNAQ Cadre	15961
 Sahel CONGAD	16621
+Sahel Countries	17017
 Sahel Digital Corridor	9993
 Sahel Dimanche	998
+Sahel Document Food Security and Humanitarian Implications	17323,1
+Sahel Document Publish	17323,1
 Sahel Fig	6959
+Sahel Governance Forum	16973
+Sahel Governance Forurm	16973
 Sahel MI	16103
 Sahel MI Corps	16103
 Sahel MI NA CODEX STAN	16103
 Sahel MI Nouveau Thème WanyLab CTIAA	16103
 Sahel MI Révision	16103
+Sahel Offer	16973
 Sahel PIM Personnes	643
+Sahel Page	17017
+Sahel Praia	17018
+Sahel Publish	17323,1
 Sahel SA	10965
+Sahel States	17017
 Sahel Sud-Ouest	737,10138
 Sahel Urbain	10875
 Sahel and East Africa	16787
 Sahel and West Africa	15782
 Sahel. Ce	737
 Sahel. Ces	15720
+Sahel. Context and Problem Statement	17018
+Sahel. Further Commit	17017
 Sahel. Le Conseil des Ministres	2342
 Sahel. Open	4394
 Sahel. Parmi	14201
+Sahel. Praia Action Plan Page	17018
 Sahel. Un	14239
+Sahel. Undertaking	17018
 Sahelian	9456,5485,609
 Sahelian Areas	10841
 Sahelian North	10964
@@ -279,29 +311,33 @@ Sampelga Séno Sahel	15715
 School Third Tanvy Etwaroo Pandit Sahadeo	14745
 Sebba Yagha Sahel	15715
 Seytenga Séno Sahel	15715
+Sirreh Saho	17386
 Solhan Yagha Sahel	15715
 Soum Sahel	15715
 Soumendra Sahu	5149,2239,1
 Southern Sahara Africa CEO	10796
 Southern Sahara Africa CEO Keller Yun	10796
+Sub Sahara Africa	17011
 Sub Saharan	15411
-Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143,327,245,2445,424,33,11,410
+Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143,327,245,2445,424,33,11,410,1048,472
 Sub Saharan Africa Business	5411,2135,58,2857,146
 Sub Saharan Africa European Commission	1455
+Sub Saharan Africa STEM Science	16942
 Sub Saharan Africa. Namibia	12355
 Sub Saharan African	6807,8604
-Sub Saharan African Historically Underserved Traditional	15518
+Sub Saharan African Historically Underserved Traditional	15518,1418
 Sub Saharan Countries	15447
 Sub- Saharan	14897
-Sub- Saharan Africa	1828,5720,3456,568,801
+Sub- Saharan Africa	1828,5720,3456,568,801,4623
 Sub- Saharan Africa. Cameroon GII Ranking	10969
 Sub- Saharan Africa. Result	789
 Sub- Saharan Africa. South Africa GII	11885
 Sub- Saharan Africa. Zimbabwe GII Ranking	12487
 Sub- Saharan African	11004,2328
-Sub- Saharan African Historically Underserved Traditional	10829,135
+Sub- Saharan African Historically Underserved Traditional	10829,135,6150
 Sud du Sahara	10712,4830
 Sumiko Ogawa and Ratna Sahay	1828
+System NWSAS Northwest Sahara Aquifer System	17157
 Séno Sahel	15715
 Tankougounadié Yagha Sahel	15715
 Tanzania and Western Sahara	2839
@@ -312,7 +348,9 @@ Télé Sahel	998
 UM SAHEL LOR OUM SEN	10847
 Uzma Sahar Rauf	10977
 Wallis and Futuna Western Sahara Yemen Zambia	11470
+West Africa and Sahel	17018
 West African Sahel. Weather and Climate Extremes	16135
+West African and Sahelian	17018
 Western Sahara	2682,4741,708,3146,332
 Yagha Sahel	15715
 Youcef Sahi	15690

@@ -24,9 +24,9 @@ FOMERLY KNOWN AS VTB BANK	1829
 Financial Action Task Force FOMC Federal	15023
 Fombad	8021
 Fomboni	1961,920,872,633,9362,46,25,4
-Fomentar	1268,433,1115,1330,3802,2806,617,8,3,14,1,55,64,3828,106,76,9,29,120,5
+Fomentar	1268,433,1115,1330,3802,2806,617,8,3,14,1,55,64,3828,106,76,9,29,120,5,1170,39,195
 Fomentar Eventos de Tecnologia	15689
-Fomento	2816,703,690,11317,168,328,229
+Fomento	2816,703,690,11317,168,328,229,647
 Fomento Empresarial	15526,168,205,288
 Fomento Empresarial Livre Comércio	15526
 Fomento Empresarial Pública	15526
@@ -34,11 +34,19 @@ Fomento Empresarial-MFFE	12021
 Fomento Empresarial. Artigo	15526
 Fomento Empresarial. MINISTÉRIO DA MODERNIZAÇÃO	16290
 Fomento de Cultura	4209
-Fomento de Empleo	4209
+Fomento de Empleo	4209,12689
 Fomento de Empleo Excelentísimo	1855
+Fomento de Indicador de Pobreza Relativa	16898
+Fomento de No No Sí No de Condiciones	16898
+Fomento de Población Activa Empleo	16898
+Fomento de Proporción	16898
+Fomento de Sí No Sí No de Condiciones	16898
+FomentoDigital	17205
+FomentoDigital Reshared	17205
 Fomid monitoring bin.js	4861,929,900
 Fomos	3906
 Fomsdk	4861,929,900
+Fundación Africana de Fomento	16898
 Félicien FOMEKONG	15599
 G Programa de Fomento	4209
 H Programa de Fomento	4209
@@ -46,6 +54,7 @@ INVESTIMENTOS E FOMENTO EMPRESARIAL	16290
 Instituto Nacional de Fomento da Informação	11389
 Instituto Nacional de Fomento da Sociedade da Informação	11317,54,11
 Instituto Nacional de Fomento da Sociedade de Informação	1192,4762,25,702,4091
+Instituto Nacional de Fomento de Empleo	17415
 Instituto de Fomento da Sociedade da Informação	2581,8749,507
 Kudakwashe Dandajena and Mercy Fomundam	1814
 Les Abou de Fomboni. Déjà	3753
@@ -56,9 +65,12 @@ Madame Joan DESSAINT FOMI	16485
 Mº TRABAJO Y FOMENTO DE EMPLEO	4209
 O Instituto Nacional de Fomento da Sociedade da Informação	11382
 Plano de Fomento	10758
-Programa de Fomento	4209
+Programa de Fomento	4209,12996
 Programa de Fomento da Indústria Transformadora	11443
+Programa de Fomento de Empreendedorismo Digital	17074
 Proyecto de Fomento	4209
 Sage-femmes du CHRI de Fomboni	13823
+Subsecretaria de Fomento	17337
 TRABAJO Y FOMENTO DE EMPLEO	4209
 X Programa Nacional de Fomento	4209
+Y FOMENTO DE EMPLEO MINISTERIO	17101

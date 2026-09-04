@@ -1,21 +1,29 @@
 Acronyms Description MOFI Ministry of Finance	11857
 Animal Resources and Fishery MoFEP Ministry of Finance	15118
 Banaadir Regional Administration. MoF	15004
+Budget Department of MoFEA	16944
 Building MoF	15473
 CBE Centre for Financial Inclusion MoF Ministry	12444
 CNBC Africa’s Palesa Mofokeng	4723
 Cabo Verde MoF	583,1512
+Chinese Government and MOFCOM	17423
 Civil Society MoFNP	12453
+Cluster Survey MoFEA Ministry of Finance and Economic	16922
 Communications and Innovation MOFA	14566
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Departments and Agencies MM Materials Management MoFEDIP	13420
 Description MoF Computerisation	1661,977,2995
 Detailed Planning MoF	15473
 ESA MoF	15473
+Economy and Trade MoFA Ministry of Foreign Affairs	17157
+Education MOFEA Ministry of Finance and Economic Affairs	16884
+Education MoFEA Ministry of Finance and Economic Affairs	16927
 Education and Technical Education MoF Ministry of Finance	15663
 Examinations Council of Zambia By Beulah Mofya	13477
 FGS MoF	15004
 FGS and Puntland MoF	15090
+Finance MOFA Ministry of Foreign Affairs MOL	16843
+Indicators LGA Local Government Authorities MoFEA	16926
 International MOFA	14566
 Jean Marc Matwaki Mofelele	14364
 Kieren Moffat	11006
@@ -25,9 +33,11 @@ Lesotho. MoFDP	14185
 M&E MoTS MoFNP MNO'S NDP	12453
 M. Gervais Songa MoF	11916
 MDAs MEPSIR MFD MICS MNO MoF	15553
+MDGs Millennium Development Goals MoFEA Ministry	16915
 MFI MTIBD MGYSD MoFDP M2 MVA	12701
 MIC Middle Income Country MoF Ministry	11863
 MNOs Mobile Network Operators MoF Ministry	12663
+MOCI Ministry of Commerce and Industry MOF Ministry	16843
 MOF Assurances of Integrity	14777
 MOF Assurances of Integrity Data Quality Indicators	14777
 MOF ICT Development	2638
@@ -39,28 +49,44 @@ MOF's Integrated Financial Management Information System	12500
 MOF's Internal Audit Department	12500
 MOF. Assurances of Integrity	14777
 MOF. Institutional Environment	14777
+MOF2.Document	16843
 MOFARI	15430
 MOFCOM	122,3,58,159,117,1368,6811,1577,3047
 MOFDP	10060
 MOFDP-PMU	10060
+MOFEA	16858,26,1,37,204,90
+MOFEA Implementation	16884
+MOFEA Oversight	16858
+MOFEA Payroll	16858
+MOFEA Recommendations	16858
+MOFEA Reports	17216
+MOFEA and OP Implementation	16884
+MOFEA-Public Private Partnership	17126
+MOFEA’s Departments of Budget and Planning	16858
 MOFEC	14897
 MOFED	259,14491
 MOFED MITCI	14750
 MOFEDIP	13685
 MOFNP	193,12142,118,879,15
 MOFPED and MOH. Overhead	4217
+MOICI and MOFEA Implementation	16884
+MOL OTHERS MOF	16843
 Management Information System MoFNP Ministry of Finance	13332
 Manthati Mofokeng	12712
 Market Development MoF	14819
 Meisi Mofokeng	11660
 Microfinance Institution MOE Ministry of Education MOFNP	13347
 Minister of Environment and Forestry Thabo Mofosi	8801
+Ministry of Basic and Secondary Education MoFEA	16951
+Ministry of Communication and Digital Economy MoFEA Ministry	17105
+Ministry of Education MoFDP	16975
 Ministry of Education MoFEA	12175
 Ministry of Education MoFNE	14857
 Ministry of Energy and Oil MoFEP Ministry of Finance	14897
 Ministry of Finance and National Planning MoFNP	13532
 Ministry of Finance. MoF	15604
 Ministry of Technology and Science MoFNP Ministry of Finance	13345
+MoBSE Ministry of Basic and Secondary Education MoFEA	16852
 MoETE MOF INGOs General Devaluation	15604
 MoETE MoF MoPED General Lack	15604
 MoF Analytical	15604
@@ -71,6 +97,7 @@ MoF Data Center	2112
 MoF GSB	2112
 MoF K03	15604
 MoF K04	15604
+MoF Ministry of Finance MSME Micro Small	16942
 MoF Ministry of Finance MoHESR Ministry of Higher	15604
 MoF Ministry of Finance MoTAI Ministry of Trade	4126
 MoF Other By the Bank	11905
@@ -81,13 +108,17 @@ MoF&EA Ministry of Finance and Economic Affairs MNSSP	12964
 MoF's Budget Directorate	15004
 MoF. Effective	12444
 MoF. Law No	15473
+MoF. Revenue Management The Equatorial Guinean	16942
 MoF. Throughout	15663
-MoFDP	14185
-MoFEA	12176,5,799,100,1546
+MoFDP	14185,2929
+MoFEA	12176,5,799,100,1546,2270,31,17,121,39,1,212
+MoFEA Directorate of Internal Audit	16896,26
 MoFEA Ministry of Finance	13005
 MoFEA Mr Patrick Zimpita	12980
 MoFEA and AGD	13005
+MoFEA and MOH	16922
 MoFEA and NLGFC	12181
+MoFEA. Allocation	17105
 MoFEA. DCIMS	13095
 MoFED	970,12553
 MoFED Ministry of Finance and Economic Development MoHCC	970
@@ -99,15 +130,23 @@ MoFNE	14857,3
 MoFNP	12453,879,13,2,185
 MoFNP-January2026Foc	13532
 MoFPED	1150,132,2708,227,3031
+MoFWR	17105
 MoFaya	8682
 MoLGRD and MoFEPD	6754
 Moffat	11006
 Moffat and Zhang	11006
 Mofrad	11265
+Moftah Ismaiel Ajeel Murad Mohamed Basheer	17403
+Mofuen. Todos	17341
+Mr. Lamin Bojang of MoFEA	17104
 NCA Telcos GSS GRA MoF BoG	236
 Notes. The MoF	14135
+OP and MOFEA	16884
 Officer MoF	13005
 PFM. MoFDP	14185
+PMO MOFEA Rationalized	16858
+PURA and MOFEA's PPP	4519
+Periódico Digital Mofueñ Encabezada	17341
 PforR. The MoF	11905
 Positioning MoFA	14819
 Provincial ICT Officer Mr. Moffat Zulu	34
@@ -118,6 +157,7 @@ Strengthen MOF’s Assurances of Integrity	14777
 Strengthen MOF’s Legal and Institutional Environment	14777
 Strengthening of MoFDP IFMIS	14185
 Support MoFDP	14185
+Survey MoFEA Ministry of Finance and Economic Affairs	16896
 Term Evolution MoF Ministry of Finance NCA	236
 Thabo Mofutsanyana	11252
 Thabo Mofutsanyana District Municipality	11289

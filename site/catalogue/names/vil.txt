@@ -7,6 +7,7 @@ Al-Hisas Village	15578
 Alpha Vilho	12478
 Amahoro Village Office	4941
 Aménagement des Villes	15542
+Annual Calendar of Government. PART VIL NATIONAL	16841
 Artisanal Villages	10980
 Associations Villageoises	13390
 BAHARI VILLA LTD Data Controller INST-382402FB0C4	7167
@@ -53,6 +54,7 @@ Declaration of Osona Village Extension	13189
 Development of Eco-Integrated Tourism Villages	14829
 Digital Embassy Village	10404,3863
 Digital Village	4148,1119
+Digital Village Program	17320
 Digital Village Project	2285
 Digital Villages	15372
 Digital Villages Initiative	12740
@@ -93,11 +95,14 @@ La Mairie de Ville	6098
 La Ville	15292
 Laboria Park Parliamentary Village	11285
 Le Morne Village	14774
+Liaison Officer Estela Vilanova Núñez Volunteer	17101
 Liapeca Village	10765,10
 Local Units Centers Villages Beneficiaries	15578
 M. Viboudoulou Vilpoux	1828
 MAIN ACTIVITIES IN VILLAGES AS REPORTED	10763
 Main Villages Demonstrating High Rates	15578
+Maroc Ville Casablanca	17514
+Maroc Ville Fez	17488
 Matimba Village	4941
 Mbvunguti Village	340
 Mr. Masotja Vilakati	11131,3
@@ -116,6 +121,7 @@ Orange Village	5561
 Orange Ville’s US	9253
 Organisme Nombre de Comités Villages	10876
 Osona Village	13183
+PART VILE REQUIREMENTS FOR THE ISSUANCE	16841
 PETITE VILLE	13300
 Parliamentary Village	11285
 Parliamentary Villages	11285
@@ -125,10 +131,12 @@ Parliamentary Villages. SAPS PSS	11285
 Parquinio Rachida Mamade Vilton	2989
 Paul Furcy Adel Bell Village	14830
 Pelican Park and Acacia Park Parliamentary Villages	11285
+Phase Village	17099
 Pilar Villena	12948
 Pitsane Village	6780
 Plateaux Ville	15724
 Pombas Ribeira Grande Vila Nova de Sintra	16325
+President Boakai Launches Digital Village Program	17320
 Presidential Villa	2610,4500
 Projecto da Vila Olímpica	2816
 Projet Villes	16213
@@ -145,16 +153,19 @@ Riviere du Poste Village Hall	14746
 Rivière du Poste Village Hall	14746
 Rondebosch and Parliamentary Villages	11285
 Rural Electrification Unit Powers Remote Villages	12682
+Rômulo Vilaverde	17164
 SANTIAGO Vila	16325
 SGCCI Global Village	12617
 SOS Children Villages Eswatini	12977
 SOS Children's Villages	12115,3045
 SOS Children's Villages International	12328
 SOS Villages	16740
+SURVOL DE LA VILLE DE MALABO	17006
 Samsung's Digital Villages	15447
 Section Villageoise	10876
 Section Villageoise de Gestion Foncière TDR Termes	10876
 Sections Villageoises	10876
+Settlement Villages	17140
 Shubak Village	15578
 Silikin Village	3888,2128
 Smart Village	12435,2125,1258
@@ -176,10 +187,15 @@ Tokai Village Centre	8999
 Tour of Villages	11285
 Training of Village Health Workers and Civil Registration	12761
 Trois Boutiques Village Hall	14746
+UNE FORTE CONCENTRATION DANS LES VILLES	17478
+USD United States Dollar VSLAS Village	17235
 Um Doma Village	15578
 Union des Villes	15712
+United Nations Children's Fund VDC Village	16952
+United Nations VHS Village Health Service	16896
 United States Dollar Village Savings and Loans	13938
 Urugwiro Village	6526
+VAC Violence Against Children VDC Village	16926
 VHW Village Health Workers VIP Very	12663
 VILA-NOVA GOUVEIA	6613
 VILLAGE LEADERS Data	10763
@@ -207,7 +223,7 @@ Villa Road	14736,111
 Villa Road Moka	14736
 Villa Somalia	14906,141
 Villacoublay	15426
-Village	2760,1370,6699,456,431,501,133,59,489,409,307,950,149,25,318,25,392,105,1096
+Village	2760,1370,6699,456,431,501,133,59,489,409,307,950,149,25,318,25,392,105,1096,159,34,20,251
 Village Assessment Survey County Profiles	1867
 Village Bank and Savings and Credit Co-operatives	12409
 Village Business Units	13673,12
@@ -219,7 +235,10 @@ Village Connectivity and E-Cabinet	1660,977,2995
 Village Council	14717,25
 Village Council Elections	14742
 Village Council Karasburg East Constituency Office	13046
-Village Development Committees	12536,663
+Village Dev Committees	16926
+Village Dev. Committee	16926
+Village Development Committee	16867
+Village Development Committees	12536,663,3668
 Village Development Committees Fiber Optic Services	15578
 Village Digital Safety Botswana Initiative	11600
 Village Economies	10964
@@ -227,9 +246,10 @@ Village Elders	12138
 Village Electrification Programme	12593
 Village Global	264
 Village Hall	14746
-Village Head	12085,131
+Village Head	12085,131,4651
 Village Headman	12216
 Village Headmen	13005
+Village Health Services	16896
 Village Health Teams	9248,2525
 Village Health Worker	12679
 Village Health Workers and Civil Registration Officers	12679,82
@@ -242,11 +262,13 @@ Village Market Afya House	4154
 Village Market PO Box	4153
 Village Outskirts Fiber Optic Network Installation	15578
 Village Reach	12240
-Village Savings and Loan Associations	10299,542,3712,406,179,1115
+Village Savings and Loan Associations	10299,542,3712,406,179,1115,982
+Village Savings and Loan Associations. Complementary	17096
 Village Savings and Loans	12964
 Village Savings and Loans Association	13390
 Village Savings and Loans Association WFP World	16384
 Village Savings and Loans Associations	11900
+Village Support Group	16867
 Village Telco	985
 Village URUGWIRO. The Cabinet Meeting	14869
 Village de Vitré	1005
@@ -257,6 +279,7 @@ Village of Al- Nahda	15578
 Village of Fares	15578
 Village of Innovation and Technology	1897,9059
 Village of Sheikh Marzouk	15578
+Village. The CFP	16867
 Villageoise	10965
 Villageoises	10876
 Villages	1228,410,1932,1083,6632,240,803,30,194,866,2160,327,127,15
@@ -273,7 +296,7 @@ Villano	9128
 Villas	2342,1867
 Villa’s Front-of-Shirt Sponsor	3256
 Villbo Group	8132
-Ville	1232,1095,4264,2300,2009,2998,1477,97,839,204,101
+Ville	1232,1095,4264,2300,2009,2998,1477,97,839,204,101,832
 Ville LibrevillePays GABON Tel	15368
 Ville de Bangui	15603
 Ville de Bobo-Dioulasso	10875
@@ -292,7 +315,7 @@ Ville de Tahoua	7374,2193
 Ville de Yaoundé	16534
 Villegas-Ch	9128
 Villella	14434
-Villes	3157,5734,2124,2613,1911,3,82,685
+Villes	3157,5734,2124,2613,1911,3,82,685,1139
 Villes Africaines	15542
 Villes Budget	16627
 Villes Effectif Pourcentage Ville de Ouagadougou Affilié	10875

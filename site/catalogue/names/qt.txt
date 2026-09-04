@@ -1,8 +1,11 @@
 Activities Qty Output Deadline P1	11862
 Aug’24 QTB STB	5247
+E-Payments Service Providers QTY Comment	16878
 Equipment Detail Qt Load	13185
 Equipment Detail Qty Load	13185
 ITEM DESCRIPTION QTY	14778
+Item Description QTY Physical Unit	17334
+Item Description QTY Physical Unit Duration	17334
 Outstanding Qty	9599,6
 Outstanding Qty General	9605
 Outstanding Qty Organization	9605
@@ -17,6 +20,11 @@ QTR Consulting Tools for Firm	1988
 QTR SEP	1988
 QTR SPMU	1988
 QTRouter	11342
+QTV's This Morning	17357
+QTY Active In-active LD	16878
+QTY Active In-active Locations	16878
+QTY Physical Unit Training Duration	17334
+QTY USD	16878
 QTrust	6332
 Qtimeynta	15047
 Qtr-to Qtr	11296

@@ -4,6 +4,7 @@ Application Security Project PFS Perfect Forward	11952
 Areas of PFM	14185
 Assainissement de Djibouti PFR Public Finance Review	11271
 Authority PFMS Public Financial Management System	13420
+B. PforR Program Scope	17458
 Based PforR	11469
 Bivalent Pfizer	14742
 Border Post PFMA Public Finance Management	11218
@@ -25,6 +26,7 @@ Corporation of South Africa PFMA Public Finance	11261
 Coverage PFS	10985
 Cumulative PFS	10985
 D PFR	15399
+DP Cargo Enters PF	17367
 DPF and PforR	11469
 Debt Management System PFM Public Financial	11863
 Description PFA	14922
@@ -50,6 +52,7 @@ Health Sector PFM	10829
 Home Affairs and PFMS	13295
 IDA and Trust Fund PforR	11905
 IOSCO PFMI	14844
+Includes PIU and PFMU	17099
 Key PFM Reform Initiatives	15148
 LEVEL PFIs PHEIs Self Study Overseas	14775
 Le PFC	13375
@@ -64,7 +67,10 @@ M PforR	11469
 MEPSSA PforR	11905
 MINFI Ministère des Finances MW MégaWatt PfoR	10975
 Malawi PFM Strategy	12176
+Management PFMU Project Financial Management Unit	16949
+Management PforR Program-for-Results PMT Program Management	17458
 Modernization of PFM	1284
+Morocco’s PFM	17503
 Multiple PFM-related	15147
 NERP National Economic Recovery Plan PFM	13060
 National PFM	13418
@@ -79,6 +85,7 @@ Objective PFM Public	11380
 One-Government PFM Digital Data Sharing	15147
 One-stop Border Post PFMA Public Finance	5533
 Open University of Mauritius PFIs	14775
+Opportunistic Infections PFA	16951
 Orphans and Vulnerable Children PFMS	958
 P177468 Governance PforR	15659
 PAD Project Appraisal Document PFM Public	15411
@@ -89,6 +96,7 @@ PDO PFM PIM PISU PIU PMT	15658
 PEV PFA PGT	14622
 PF Aguarde	11429,3,47
 PF Demande	16722
+PF Presión Fiscal SCCBP Saldo	16969
 PF-funded	12623
 PF4-2-Quality-childcare-early-education-services.pdf	8891
 PF4.2 Quality	8891
@@ -101,10 +109,12 @@ PFI's ESMS	12195
 PFI's and PSE	12195
 PFIPC	7632,1000,768
 PFIs PHEIs Self Study Overseas	14775
+PFIs Point of Sale PIU PricewaterhouseCoopers Reserve	17235
 PFIs and PHEIs	14775
 PFIs and Private	14775
 PFIs for US	12195
-PFM Act	6946,3367,1863,786,98,360,1727,300
+PFM Act	6946,3367,1863,786,98,360,1727,300,1531,52
+PFM Champions	16944
 PFM Digitalization Regulations	15147,1
 PFM Directives	15411
 PFM IT Systems Roll Out	321
@@ -124,8 +134,9 @@ PFM Reimbursable	15411
 PFM SSP	14935
 PFM Smart	2112
 PFM Steering Committee	14185
-PFM Strategy	12176
+PFM Strategy	12176,4768
 PFM The PBF	10829
+PFM-Annual-Progress-Report.pdf	16944
 PFM-reform	2249,5399
 PFM-related	1284,13863
 PFM-relevant	16815
@@ -143,16 +154,26 @@ PFMA REPORT No Figures	11250
 PFMA Section	11218,6,26
 PFMA Sections	9437
 PFMA and Treasury Regulations	11230
+PFMD and AFRITAC	16944
 PFMIS	4640,2171
 PFMIs	12537,198
+PFMR and Anti-Corruption	16858
+PFMRISP	16949
+PFMRISP. The PIT	16949
 PFMRs	12321
 PFMS Network	395
 PFMS and Appropriation Accounts	13420
 PFMS. The Ministries	13420
 PFMSD	12176
+PFMU Financial Procedures Manual	16949
+PFMU Financial Procedures Manual. Key	16949
+PFMU Internal Audit Section	16949
+PFMU Project Financial Management Unit PID	17114
+PFMU and Implementing Agencies	16949
 PFNL Produit	15961
 PFP Hydrocarbures	2342
 PFPSP	10869,5004
+PFRAM	16944
 PFRDA	7981
 PFRHS	4754
 PFS Chèque	10985
@@ -168,6 +189,7 @@ PFrogramme INDICATEUR TTAUX DE TRANSFORMATION LOCALE	15999
 PPF and PFS	15372
 PSSN PforR	16032
 Par GODOM Appolinaire PF ODP	16377,23,21
+Paradise Foundation Initiative PFM	16951
 Pf0dults manufactures	15999
 PfAHCwTQ& r	5810
 Pfaffenbichler	11155
@@ -177,12 +199,13 @@ Pfh Description	15129
 Pfiffner	8436
 PfoR Focal Points DLI	11905
 Pfoerrlfeovrmeliongf	10969,915,1,466
-PforR	734,655,181,1886,148,2840,4432,99,494,436,271,884,1542,1,45,1025,235,46,78,15
+PforR	734,655,181,1886,148,2840,4432,99,494,436,271,884,1542,1,45,1025,235,46,78,15,1411
 PforR Activities	11905
 PforR Component	16032
 PforR DLRs and IDA IPF	16032
 PforR Dans	10876
 PforR Estimated IBRD	6539
+PforR Feature Government	17458
 PforR Financing	11905
 PforR Financing Framework	11905
 PforR Government	11905
@@ -191,10 +214,11 @@ PforR IV.2.4.1.1. Règles	10876
 PforR Policy	11905
 PforR Policy and Procedures	11905
 PforR Principles. The RoC	11905
-PforR Program	11905,271
+PforR Program	11905,271,5282
 PforR Program-for-Results PIM Project Implementation Manual	3604
 PforR Programme	10876
 PforR Programs	11905
+PforR RAs	17458
 PforR and US	16032
 PforR-IMPACT	15999
 PforR-PRSEC	15999
@@ -209,6 +233,7 @@ Pfumvudza	13685
 Pfungwa	4528,7984
 Pfw Description	15129
 Plan Directeur de Digitalisation des Services Publics PFT	13341
+Plan for Action PFI	16951
 Planned PFS Expenditure	10985
 Police Forces SADC PF Norms and Standards	12201
 Political Parties SADC PF Norms and Standards	12201
@@ -216,7 +241,9 @@ President's Emergency Plan for AIDS Relief PFM	12962
 Procura de PF	10760
 Programme Elargi de Vaccination PFA	15423
 Programme PforR	11905
+Project Development Objective PFM Public Financial	16949
 Project Water PforR	11469
+Public Expenditure and Financial Accountability PFM Public	17105
 Pursue PFM	13868
 Q2 FY25. No PFI	12195
 Reasons for Nonalignment PforR Objective	11905
@@ -231,22 +258,26 @@ SDG PF	4349
 SIGEFI PFM	13314
 SOCIÉTÉS CAPITAL PFP RN	2342
 SOCIÉTÉS CAPITAL PFP4 RN	2342
+Sanaria’s PfSPZ	16958
 Seychelles Social Protection System PforR	734
 Simultaneous PforR	11417
 Social Protection System PforR	742
 Somalia's PFM	15148
+Staffing. The PFMU	16949
 Strathern and Pfeffer	7790
 Strengthen the PFM	14935
+Stronger PFM	17364
 Substantial. PFM	12176
 TBC Simultaneous PforR	3604
 TF and PF	14016
 TMO TMU THIMO PFS	10985
 Treasury and PFM	14185
+Under the PFMRISP	16949
 Unit PDO Project Development Objective PFM	11560
 Vaccination PFA	15685
 Various PFIs	12195
 WB PforR	1573
-Weak PFM	10829
+Weak PFM	10829,6029
 World Bank's Policy for PforR Financing	11905
 ZANU PF	13487
 ZANU PF National Chairman and Minister of Defence	13646

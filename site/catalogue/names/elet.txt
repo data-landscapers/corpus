@@ -5,8 +5,9 @@ Assinaturas Eletrónicas	11569
 Atos Notariais Eletrônicos ADI4 LEG13 Sim	15532
 Auto RERD-Desdobrável Flyer Declaração Eletrónica Mod	12018
 CAPÍTULO VI APRESENTAÇÃO ELETRÓNICA DE INSTRUMENTOS	15440
+CONTROLO DE ELETRICIDADE	17100
 Certificação Eletrónica Raiz	15476
-Comunicações Eletrónicas	4435,11091,1032
+Comunicações Eletrónicas	4435,11091,1032,535
 Comunicações Eletrônicasetc	11456
 Comércio Eletrónico	15477,774
 Comércio Eletrónico Artigo	15477
@@ -16,11 +17,13 @@ Declaração Eletrónica	12018
 Declaração Eletrónica Mod	12018
 Desenvolvimento de Governo Eletrónico	11569
 Desenvolvimento de Governo Eletrónico EGDI Enquanto	11569
+Dos Operadores de Comunicações Eletrónicas	17186
 ELETRÓNICA E REFORMA DA GESTÃO	16219
 Eletr	15772
-Eletricidade	10760,789
+Eletricidade	10760,789,5459
 Eletricidade Básica	15772
 Eletricidade de Moçambique	7381
+Eletro	17269
 Eletromagnetismo	12019
 Eletró	15772
 Eletrónica	11569,364,3839
@@ -36,6 +39,7 @@ Elettaria	16103
 Empresa de Distribuição de Eletricidade de Cabo Verde	15924
 Empresa de Distribuição de Eletricidade de Cabo Verde S.A	15983
 Empresa de Produção de Eletricidade de Cabo Verde	15983
+Engenharia Eletrotécnica	17103
 Entidade de Certificação Eletrónica Raiz	15476
 Estatísticas Vitais Sistema Eletrônico	12862
 Forma Eletrónica Artigo	15477
@@ -51,6 +55,7 @@ Instituições de Moeda Eletrónica As Instituições de Moeda	11933
 Instituto Nacional de Governança Eletrónica	12142
 Lei da Identidade Eletrónica	16251
 Lei da Identidade Eletrónica. Também	16251
+Modelos Declarativos Eletrônicos	17004
 Moeda Eletrónica	15440
 Pagamento Eletrónico	15572
 Pagamentos Eletrónicos	7948
@@ -66,9 +71,11 @@ Plataforma Eletrónica Nacional	16487
 Plataforma Eletrónica da Contratação Pública	16056
 Plataforma Eletrónica de Contratação Pública	5462,10500
 Plataforma Eletrónica de Contratação Pública O Governo	5462
+Plataforma Eletrónica de Trocas de Documentos Comerciais. Ao	17278
 Plataforma de Autenticação Eletrónica	15572
 Programa de Governação Eletrónica	5443
 Programa de Reforma da Governação Eletrónica	5443,10776
+Projecto de Plataforma Eletrónica	17278
 Prática Eletrónica	15772
 Práticas de Eletrónica	15772
 Quadro de Interoperabilidade da Governação Eletrónica	11555
@@ -77,6 +84,7 @@ Registo Eletrónico	16321
 SISTEMA ELETRÓNICO DE PRESCRIÇÃO URL	16321
 Serviço Público de Comunicações Eletrónicas	15526
 Serviço Público de Comunicações Eletrónicas URL	15526
+Sistema de Transferência Eletrónica de Fundos	17032
 TRE Passaporte Eletrónico Cabo-Verdiano	15470
 Tipo de Entidade Energia Eletricidade Empresa	15504
 Transações Eletrónicas	11583,3894

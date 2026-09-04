@@ -1,4 +1,5 @@
 Centre de Santé Intégré Fraction	15599
+Digital Fast Frack	16961
 FRACTION DU REVENU IMPOSABLE EN DINARS	15534
 FRACTIONS D’ANNEES	15901
 FRACTURE	10581
@@ -6,7 +7,7 @@ Fraca	2315,129,1086,2027,15,247,941,8775
 Frack Kié	3105
 Fraco	11421,25,131
 Fraco Investimento	2816
-Fraction	10763,4907
+Fraction	10763,4907,1470,108
 Fraction of Photosynthetically Active Radiation	11334
 Fractional	10763
 Fractions	3714
@@ -14,5 +15,6 @@ Fracture	10698,3924,852,19,19,120,304,705
 Fracturing of Global Standards	8629
 Mattia Fracchia	10609
 Mattia Fracchia and Francesco Loiacono	10609
-NA NA NA Fraction	16260
+NA NA NA Fraction	16260,992
+NDFI Normalized Difference Fraction Index	17140
 Pontos Fracos	11461

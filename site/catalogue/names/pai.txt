@@ -25,7 +25,7 @@ CROWN PAINTS KENYA PLC Data Controller	7167
 Cameroun PAIX	15485
 Cameroun REPUBLIQUE DU CAMEROUN Paix-Travail-Patrie	15541
 Cameroun REPUBLIQUE DU CAMEROUN. PAIX-TRAVAIL-PATRIE B	15530
-Centrale des Incidents de Paiement	13452
+Centrale des Incidents de Paiement	13452,3490
 Centrale des Incidents de Paiement La Banque	13452
 Communication PRH Paie	13312,2
 Compagnie Financière de Paiement	4459
@@ -39,10 +39,11 @@ Crown Paints Kenya PLC	6946
 Crédits de Paiement	15569
 Crédits de Paiement Article	15569
 Cérémonie de Lancement des Nouveaux Moyens de Paiement	6045
+D. Pairwise Comparison Matrix and Risk Classification	17157
 DATE DE PAIEMENT ET DOMICILIATION DES	15901
 DE LA PAIX ET	8237
 DE L’OBLIGATION D’ACCEPTER LE PAIEMENT EN	14417
-DE PAIEMENT	13452,16
+DE PAIEMENT	13452,16,3971
 DE PAIEMENT Article	15443,65
 DE PAIEMENT CHAPITRE PREMIER	10836,4799
 DE PAIEMENT I.1. Introduction	13452
@@ -102,6 +103,7 @@ Incidents de Paiement	15934
 Indicateurs de Déclenchement des Paiements	10876
 Instruments de Paiement	9906
 Inter-City. PAIX	8025
+Interest Paid	17236
 Internet. Paiements	11160
 Interopérabilité des Systèmes de Paiement Instantané	7283
 Interruption des Systèmes de Paiement	15901
@@ -109,7 +111,11 @@ Intégration de Système de Paiements Régional	13452
 JUSTIFICATIFS DE PAIEMENT AFFERENTS	15901
 L'UTILISATION DE SERVICES DE PAIEMENT Section	10836
 LA DIGITALISATION DES PAIEMENTS DES	10711
+LE PAIEMENT Article	17439
 LE PAIEMENT ELECTRONIQUE	14411
+LES DELAIS DE PAIEMENT	17439
+LES MOYENS DE PAIEMENT	17485
+LISTE DES ETABLISSEMENTS DE PAIEMENT AGRÉÉS	17024
 LOSS PAID	11955
 La Centrale des Incidents de Paiement	11944
 La Paix Street	14847
@@ -128,13 +134,17 @@ Modernisation des Systèmes de Paiement	13452
 Moyens de Paiement	8556,1681,5600
 Moyens de Paiement EMF Etablissement de Microfinance Banque	11944
 Moyens de Paiements	5740
+NOTIFICATION ET PAIEMENT DES COTISATIONS	17121
 Netherlands-based PAIX and Raxio	10861
 Numérotation Paire-Impaire Note	15555
+Néant SUCCURSALE Néant ETABLISSEMENTS DE PAIEMENT	17356
 Núm. PAIS	4209
 O PAICV	16487
 O PAIGC	11513
 OPEN Paie	13314
 OPERATIONS DE PAIEMENT Article	10836
+OU MOYENS DE PAIEMENT	17485
+Observatoire des Délais de Paiement	17449
 One-Third Deposit Paid	12977
 Opposition PAIGC	7452
 PAGE DE PAIEMENT Vous	16629
@@ -159,6 +169,7 @@ PAIEMENT DES PENSIONS	14436
 PAIEMENT DEs DETTES PAR DEs BANQUES	14479
 PAIEMENT EN MONNAIE ELECTRONIQUE Article	14417
 PAIEMENT ET DE REGLEMENT	13468
+PAIEMENT INTERNATIONALE OU CARTE DE PAIEMENT	17385
 PAIEMENT NATIONAL	13452
 PAIEMENT NATIONAL Au	13452
 PAIEMENT NUMÉRIQUE	14586
@@ -172,13 +183,14 @@ PAIERIE DU GABON AU SENEGAL	16175
 PAIF-PME	416,6411,4018
 PAIF-PME. C'est	6827
 PAIFAR-B	13390
-PAIGC	11513,24
+PAIGC	11513,24,5483
 PAIGC. Importa	11537
 PAIJA	10985
 PAILLAT Lydie Scolastique	16381
 PAILLE	13300
 PAIMENT.pdf	13302
 PAIMFB	15738
+PAINT AND COLOUR INDUSTRIES	16900
 PAIRFP	3396,7462
 PAIRFP Disponibilité	10858
 PAISSE	13300
@@ -206,14 +218,15 @@ Pai1icipants	4153
 Paid Peering	14864
 Paid Prior	12389
 Paid TV	14836
+Paid and Unpaid Activities. Captures	17165
 Paid for Live	8999
 Paid-in Minimum Capital Requirements for Domestic	12389
 Paid-in Minimum Capital Requirements for Foreign	12389
 Paid-up	1995
-Paid-up Capital	10738
+Paid-up Capital	10738,6498
 Paie Anael RH. Pour	15474
 Paie des Enseignants Provincial	11916
-Paiement	2476,85,834,289,339,2172,899,1561,145,1888,23,125,40,90,968,38,1352,17,49,62,985,21,5,16,920,25,50,68,257,50,52,35,71,5,8,27,441,64,77
+Paiement	2476,85,834,289,339,2172,899,1561,145,1888,23,125,40,90,968,38,1352,17,49,62,985,21,5,16,920,25,50,68,257,50,52,35,71,5,8,27,441,64,77,848
 Paiement Convention	15901
 Paiement Direct	13630,2293
 Paiement Etablissements de Paiement	13452
@@ -232,7 +245,7 @@ Pailles. The Minister of Information Technology	7365
 Pain Points	13037
 Painel de InspecçãoInspeção Independente	11898
 Painel de Liderança	2816
-Paint	11134,818,1433,1361
+Paint	11134,818,1433,1361,2154
 Painted Dog Conservation	1554
 Painting	14738,8
 Painting Competition	14745
@@ -240,7 +253,8 @@ Painting Tito Vicente Samossi Joaquim	10776
 Painting Works FSU	14746
 Painting Workshop and Woodworks Workshop	14738
 Painting of Frames	14746
-Paints	6921,4348,2116,1351
+Paints	6921,4348,2116,1351,2164
+Paints Gallons	17235
 Painéis	16022
 Pair-Impair Exigence	15555
 Paired	2950,633,2146,6586
@@ -278,6 +292,7 @@ REPUBLIQUE DU CAMER0UN PAIX-TRAVAIL-PATRIE	15441
 REPUBLIQUE DU CAMEROUN PAIX	10966,15,4392,63,563
 REQUISES POUR LES SERVICES DE PAIEMENT	14919
 RETARD DE PAIEMENT	15901
+Reserves Paid	17236
 Responsable des Produits de Paiement	4695
 RÉPUBLIQUE DU CAMEROUN Paix	16041
 SAGE Paie	10975
@@ -300,8 +315,9 @@ Starting Paid-Up Capital	12882
 Système Intégré de Paiement	13452
 Système National de Paiement	13452
 Système National de Paiement. Lors	13468
-Système de Paiement	11944,1524
+Système de Paiement	11944,1524,3997
 Système de Paiement Instantané	7621,5831
+Système de Paiement Instantané PAPSS	17465
 Système de Paiement National	13828
 Systèmes Intégré de Paiement	13452
 Systèmes de Paiement	13302,150,16,1884,156,393

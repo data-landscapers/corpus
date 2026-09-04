@@ -10,9 +10,13 @@ Category HQ Location Digital Africa	4972
 Chinese-built AU HQ	5302
 Commercial Bank of Ethiopia HQ	3944
 Commissions NatCA HQ	5849
+Completion of FDA HQ	16848
 Customs HQ	13042
 Development Structure HQ	13042
 Estimated. CinetPay HQ	652
+FDA HQ	16848,5
+FDA HQ FOI Act	16853
+Global Positioning System HQ Headquarters IOM	16921
 HQ Accra	6937
 HQ Cairo	982
 HQ Djibouti	4255
@@ -56,7 +60,8 @@ Skills Mix Required HQ	11855
 System Program HQ Head Quarters HRMIS	12917
 UNDP HQ-led	12241
 UNESCO HQs	14993
-UNICEF HQ	12337
+UNICEF HQ	12337,4859
+WFP HQ	16867
 Wananchi HQ	3886
 Wide Area Network HQ Headquarters ICAO	13005
 XULVPR HQYLDP	11527

@@ -7,6 +7,7 @@ AI Assurance	7548,8165
 AI and Assurance	7548
 AI and Assurance Technologies	7548
 ANEC CEC Assurer	3381
+ANNEX II LEGALITY ASSURANCE SYSTEM	16843
 ANNEXES PGES- DATA CENTER PRINCIPAL Assurer	14489
 APA LIFE ASSURANCE LIMITED Data Controller	7167
 APA LIFE ASSURANCE LIMITED Data Processor	7167
@@ -22,6 +23,7 @@ ASSURANCE	14409
 ASSURANCE COMPANY LIMITED Data Controller	7167
 ASSURANCE COMPANY LIMITED Data Processor	7167
 ASSURANCES EN GUINEE SA NSIA-GUINEE SA	16623
+ASSURANCES ET REASSURANCE	17485
 ASSURANCES GUINEE SA	16623
 ASSURANCES SA	16623
 ASSURED INSURANCE BROKERS LIMITED Data Controller	7167
@@ -36,6 +38,8 @@ Africa Merchant Assurance Company Limited Data	7167
 Africaine des Assurances Traitements	10821
 Agosto ASSUNTO	11403
 Algérie Assure	15568
+Annual SG1 SO2 Quality Assurance	17116
+Annual SG2 SO3 Quality Assurance Statistical	17116
 Assessing the Levels of Assurance	10775
 Assessment and Quality Assurance Officer	12984
 Assignment Assuming	13031
@@ -57,8 +61,8 @@ Assuming the Council’s Chairpersonship	7142
 Assumir	4218,7166,517
 Assumiremos	15476
 Assumiu-se	11569
-Assumption	7845,14,3317,687,803,835,158,1066,699
-Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284,887
+Assumption	7845,14,3317,687,803,835,158,1066,699,1716
+Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284,887,1029,41,12
 Assumptions All	11986
 Assumptions Availability	11986
 Assumptions CCSS	11986
@@ -71,8 +75,10 @@ Assumptions Q1	11986
 Assumptions Q2	11986
 Assumptions Q3	11986
 Assumptions System	11986
+Assumptions The Government	16874
 Assumptions VFS	11986
 Assumptions and Methodologies	15796
+Assunlos Fiscais GABINETE DO DIRETOR GERAL	17111
 Assunto	167,263,119,195,8,42,2813,7148,608,1,3,1,2,1,1,1,4,1,3,1,1,1,2,2,6,10,1,4,10,6,5,1,2,5,5,6,3,15
 Assunto Aprova	4146,6603,23,11,579,7,27,49,10,3
 Assunto Autoriza	11457
@@ -87,14 +93,16 @@ Assuntos Consulares	16376
 Assuntos Corporativos	9559
 Assuntos Económicos	11378
 Assuntos Jurídicos	11561
-Assuntos Parlamentares	4435,1583,3253
+Assuntos Parlamentares	4435,1583,3253,8041
 Assuntos Políticos	10750
 Assuntos R	539
 Assuntos Religiosos	539
 Assunção	15433,589
 Assur	11289
-Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5,805,568,405,389,35,49,52,1085,232,836,40,50,26,137,151,604,144
+Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5,805,568,405,389,35,49,52,1085,232,836,40,50,26,137,151,604,144,380,358
 Assurance AI	7548
+Assurance Authority	16852,374
+Assurance Authority NAT National Assessment Test	16852
 Assurance Body	7548
 Assurance Body Accelerated	7548
 Assurance CIP Centrale	10965
@@ -111,14 +119,14 @@ Assurance Maladie	643,5486,3706,3935,520,332,739,50,17,90,418,96
 Assurance Maladie ANGC	15475
 Assurance Maladie Généralisée	1961
 Assurance Maladie Généralisée. Pour	13717
-Assurance Maladie Obligatoire	8891
+Assurance Maladie Obligatoire	8891,8601
 Assurance Maladie Obligatoire. Si	8891
 Assurance Maladie Universelle	4402,11283,412
 Assurance Maladie Universelle ARV	15423
 Assurance Maladie Universelle CAT	15685
 Assurance Maladie Univeverselle RGPH Recensement Général	15685
 Assurance Moyenne	10965
-Assurance Qualité	11597,2295,1484,154,69,774
+Assurance Qualité	11597,2295,1484,154,69,774,1085
 Assurance Qualité CNS Conseil National	15501
 Assurance Qualité Enregistrement	15599
 Assurance Qualité Statistique	16373
@@ -137,16 +145,17 @@ Assurance and Standards	899
 Assurance of Planning	11857
 Assurance-	11944
 Assurance-maladie	10824
-Assurances	235,6648,4082,174,2238,1400,672,25,109,91,123,104,98,176,442,6,18
+Assurances	235,6648,4082,174,2238,1400,672,25,109,91,123,104,98,176,442,6,18,807,37
 Assurances de Côte	15712
 Assurances de Droit National Africaines	11944
 Assurances du Burundi SODECO	13377
 Assurances of Integrity	14777
 Assurant	4871
-Assure	11944,2593,1031,15,265
+Assure	11944,2593,1031,15,265,1003
+Assured	16927
 Assured Future	13688
 Assurent	1187
-Assurer	12,130,856,294,765,909,205,1,209,15,6,601,17,350,851,2756,410,169,335,746,1,1074,114,32,16,2,89,1,966,111,1247,11,40,34,15,24,214,90,1,32,30,28,29,586,1,25,30,3,5,1,1,47,36,899,2,14,54,26,15,41,15,27,1,3,3,37,2,8,4,14,1,46,14,2,47,53,7,28,2,30,31,13,25,114,54,123,42,44,121,80,4,1,1,5,15,5,24
+Assurer	12,130,856,294,765,909,205,1,209,15,6,601,17,350,851,2756,410,169,335,746,1,1074,114,32,16,2,89,1,966,111,1247,11,40,34,15,24,214,90,1,32,30,28,29,586,1,25,30,3,5,1,1,47,36,899,2,14,54,26,15,41,15,27,1,3,3,37,2,8,4,14,1,46,14,2,47,53,7,28,2,30,31,13,25,114,54,123,42,44,121,80,4,1,1,5,15,5,24,792,37
 Assurer Ministère De La Santé	15936
 Assurer-	14424
 Assurerdemanièredurablele	16620
@@ -155,7 +164,7 @@ Assureurs	10965,979
 Assureurs Non90 Oui Oui Non Non	11944
 Assurez	14683
 Assurez-vous	16091,538
-Assuring	1000,815,9026,3936
+Assuring	1000,815,9026,3936,2108
 Assuring Sustainable Water Availability and Safe Sanitation	8012,3,3268
 Assuré	16327
 Assurés	15685
@@ -164,7 +173,7 @@ Assurés Taux	15685
 Atlantique Assurance Vie	6883
 Atlantique Assurances	6883
 Automated Corporate Support Services Assumptions NA	11986
-Autorité de Contrôle des Assurances	568
+Autorité de Contrôle des Assurances	568,16917
 BOM Assurances of Integrity	14777
 BOM Assurances of Integrity Data Quality Indicators	14777
 Baseline Assumptions All	10157
@@ -189,6 +198,7 @@ CS Assumptions Q2	11986
 Cabinet Assumptions NA Disaggregation	11986
 Cameroun Assurer	15999
 Catégorie Assurances Individuelles Contrat	13390
+Census Data Processing and Data Quality Assurance	16921
 Chamada A Assumir Papel Nacional Américo	8827
 Combined Assurance	11131
 Combined Assurance Forum	11131
@@ -203,9 +213,12 @@ Comité Technique. Contrôle Assure	11944
 Competitive Leadership AI Assurance	15713
 Compliance and Quality Assurance	13037
 Complémentaires Assurances	13390
+Concessions LAS Legality Assurance System LEITI	16843
 Conditional Independence Assumptions	12978
+Conduct Quality Assurance	17011
 Contrôle des Assurances BCC	13377
 Cooperation Levels of Assurance	10819
+Costing Methodology and Assumptions	17116
 Council for Quality. Assurance	1009
 Criteria Assurance	10775
 Cyber Assurance Lab	10642
@@ -219,8 +232,9 @@ DIRECTLINE ASSURANCE COMPANY LIMITED Data Controller	7167
 DROIT DES ASSURANCES	16363
 DU MINISTERE DES AFFAIRES SOCIALES Assurer	15999
 Data Assurance	14752
-Data Quality Assurance	12151,205,2888
-Data Quality Assurance Framework	16206
+Data Collection and Quality Assurance Data	17043
+Data Quality Assurance	12151,205,2888,1777,95
+Data Quality Assurance Framework	16206,721
 Data Quality Assurance Framework UNFPA United	13359
 Data Quality Assurance and Limitations	15085
 Data Quality Assurance and Limitations Several	15085
@@ -257,16 +271,21 @@ Evaluation and Quality Assurance	11791
 Evolution of Selected Macroeconomic Assumptions	13868
 Example Levels of Assurance	10765,10
 FICHE TECHNIQUE Assujettissement des ONG	16328
-FINANCING ASSURANCES REVIEW	15752
+FINANCING ASSURANCES REVIEW	15752,1457,117
+FINANCING ASSURANCES REVIEW EXECUTIVE SUMMARY	17209
 Federation Assurance Level	10775
 Fees and Assumptions	11240
 Financing Assurances Review	15752
 Footprint Development and Hospitals Assumptions Availability	11986
+G. Quality Assurance and Compliance	16975
+GATEWAY TRAFFIC MEASUREMENT AND REVENUE ASSURANCE	17250
 GMC Assurance	10975
 GOUVERNANCE ET GESTION DES Assurer	15999
 GPE Quality Assurance Review for Zimbabwe Phase	13310
 GTA Assurances	6883
 GTA Assurances Vie	6883
+Gambia National Accreditation and Quality Assurance	17226
+Gateway Traffic Measurement and Revenue Assurance System	17250
 Government Assurances	6533
 Government Gazette Assumptions NA Disaggregation	11986
 Head of Fraud and Revenue Assurance	10580
@@ -289,18 +308,24 @@ Internetwork System Specialisation Assurance	6832
 J SAHAM ASSURANCES GUINEE SA SAHAM	16623
 KD STA Procramme LIBELLE Assurer	15999
 Know Your Customer LoA Level of Assurance	12663
+LEGALITY ASSURANCE SYSTEM This Agreement	16843
 LEVELS OF ASSURANCE	10819
 LEVELS OF ASSURANCE Digital Identity	10819
 LIBELLE BUECTF Assurer	15999
 LIBERIA ASSURES DIGNITY	10581
 LO Assuring	14777
 LO Rigorous Quality Assurance Practices	14777
+Legality Assurance	16848
+Legality Assurance System	16843,5,5,4,162
+Legality Assurance System Development	16848
 Level of Assurance	10765,10,44
 Level of Assurance Approve Periodic Audit	10819
 Levels of Assurance	10765,10,44
 Lot Quality Assurance Sampling MDA	10776
 L’Africaine des Assurances	10467
 MAXI-PRO ASSURANCES	16413
+MHz H24 Assure APP	17006
+MHz H24 Assure APP TWR MALABO	17006
 MOF Assurances of Integrity	14777
 MOF Assurances of Integrity Data Quality Indicators	14777
 MOF. Assurances of Integrity	14777
@@ -317,6 +342,8 @@ NITDA Launches National Software Quality Assurance	8439
 NITDA's National Software Quality Assurance Framework	5665
 NSIA Assurances Cameroun	3658,2617,145
 National AI Safety and Assurance Programme	7548
+National Accreditation and Quality Assurance Authority	16852,75,299
+National Accreditation and Quality Assurance Authority NDP	16927
 National Digital Infrastructure Assurance Framework	8986,132,1039,267,914
 National Digital Infrastructure Assurance Framework Nigeria	10157
 National External Quality Assurance Laboratory	4301
@@ -341,33 +368,40 @@ Out-of-Scope Assumptions	6423
 PILIER V ASSURER LA VIABILITE FINANCIERE	15799
 PM7 Establish Quality Assurance Unit	12917
 PRINCIPAL Assurer	14489
+PRINCIPLES AND ASSUMPTIONS	16874
 Paulo Manuel de Assunção Pedro	430
 Planning Assumptions The Electoral Commission	7266
 Proficiency Testing Quality Assurance I Quality	4153
 Projet BE Entreprise Assurer	14489,1
 Proposed Ownership Assumption	13005
+Província Sul Assuntos Terminal Noite	17147
 QUALITY ASSURANCE	9855,4554
 QUALITY ASSURANCE Standard Digital	9855
 QUALITY ASSURANCE UNIT	14736
 QUALITY ASSURANCE UNIT The Mauritius Standards	14736
-Quality Assurance	899,6367,63,4528,3,96,400,44,212,305,58,62,344,1028,333,70,268,81,3,19,577,411,265
+Quality Assurance	899,6367,63,4528,3,96,400,44,212,305,58,62,344,1028,333,70,268,81,3,19,577,411,265,431,29,31,44,97,46,43,128
 Quality Assurance Agency for Higher Education	14787
-Quality Assurance Authority	14747,21
-Quality Assurance Framework	9855,5905
+Quality Assurance Authority	14747,21,2458
+Quality Assurance Establish	16963
+Quality Assurance Framework	9855,5905,1161
 Quality Assurance Management Information System	13623
 Quality Assurance Manager	12726
 Quality Assurance Manual. Audit Transformation	11134
+Quality Assurance Mechanisms	16963
 Quality Assurance Office	8957
 Quality Assurance Officer	12726
 Quality Assurance PERSAL Personnel and Salary System	11192
 Quality Assurance Peer Review	11134
+Quality Assurance Quality Audits	16963
 Quality Assurance Review	15688
 Quality Assurance SDG Sustainable Development Goals	12917
 Quality Assurance Sampling Multiple Indicator Cluster	14622
 Quality Assurance Support	899
 Quality Assurance Testing	8670
 Quality Assurance Unit	12917,1819,1258
-Quality Assurance and Continuous Improvement	9855
+Quality Assurance and Continuous Improvement	9855,7432
+Quality Assurance and Continuous Improvement. The Consultant	17287
+Quality Assurance and Dissemination	16927
 Quality Assurance and Information Technology	13623
 Quality Assurance and Limitations	15164
 Quality Assurance and Maintenance. Table	12917
@@ -392,7 +426,9 @@ RH A3.2.3.2 Assurer	10858
 RISKS Assumptions	962
 Research Approaches and Assumptions	5349
 Revenue Assurance	2527,12234
-Revenue Assurance System	2527,12593
+Revenue Assurance System	2527,12593,2096,34,18
+Revenue Assurance System Fees Schedule	17250
+Revenue Assurance System Regulations	17250
 Revenue Assurance Unit	9162
 Risk Assurance	6946
 SAHAM Assurances Vie Exploit	10821
@@ -419,6 +455,8 @@ Sovereignty Effectiveness Assurance Level	3787
 Sovereignty Effectiveness Assurance Levels	3787,2059
 Standardization Forum. Assurance	10775
 Standardized Levels of Assurance	10819
+Standards and Quality Assurance Directorate	16852
+Standards and Quality Assurance Directorate SSS Senior	16852
 Standards and Quality Assurance. The Director General	1131
 State of Passwordless Identity Assurance	9902
 Statement of Combined Assurance	11131
@@ -426,6 +464,9 @@ Statistics Mauritius Elements of Assurances of Integrity	14777
 Strategic Assumptions Ethio	3487
 Strengthen BOM’s Assurances of Integrity	14777
 Strengthen MOF’s Assurances of Integrity	14777
+Strengthen Telecom Revenue Assurance	17268
+Strengthen Telecom Revenue Assurance The Gambia	17268
+Strengthen Telecom Revenue Assurance URL	17268
 Strengthen the Assurances of Integrity	14777
 Summary of Assurance of Integrity Assessment	14777
 Supplies Authority KEMSA Quality Assurance Laboratory	4153
@@ -440,6 +481,7 @@ Telecommunications Revenue Assurance	15120
 Testing and Quality Assurance	11216,725,459,2527
 Testing and Quality Assurance Reports	16600
 Tiered Identity Assurance Framework	12241,839
+Transform Quality Assurance Unit	17364
 Treasury Management and Revenue Assurance System’for	2527
 Twitter Assurer	4568
 UGP Continu Assurer	16012

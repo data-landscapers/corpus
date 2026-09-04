@@ -143,7 +143,7 @@ FINTETCH OTM	10965
 FINTRUST Development	940
 FIntechs	2762
 Featured FinTech Innovators KundaPay	11816
-FinTech	248,259,64,250,9,94,16,115,1203,217,71,186,298,229,228,106,11,301,268,12,787,737,174,214,407,434,80,262,4,50,48,196,119,369,605,616,55,110,39,69,161,37,29,206,244,457,154,39,680,249,17,92,69,59,391,68,223,206,182,221,188,27,288,493,226,163,50,40,9,3,166,22,120,47,261,29,4,207,444,192,152,115
+FinTech	248,259,64,250,9,94,16,115,1203,217,71,186,298,229,228,106,11,301,268,12,787,737,174,214,407,434,80,262,4,50,48,196,119,369,605,616,55,110,39,69,161,37,29,206,244,457,154,39,680,249,17,92,69,59,391,68,223,206,182,221,188,27,288,493,226,163,50,40,9,3,166,22,120,47,261,29,4,207,444,192,152,115,352,162,131,82
 FinTech Adoption Financial	6938
 FinTech Arsenal	7334
 FinTech Chaired	6938
@@ -161,6 +161,7 @@ FinTech Regulatory Sandbox	7763
 FinTech Scale	3111
 FinTech Steering	12444
 FinTech Strategy	4185,8259
+FinTech Task Force	17317
 FinTech Unit	12444
 FinTech and AI	12608
 FinTech and AgriTech	4528
@@ -185,7 +186,7 @@ FinTechs da Sandbox	2974
 FinTechs. Infrastructure	12444
 Financial Fintech	14997
 Fintcmp	6997
-Fintech	47,225,107,350,229,289,40,274,3,694,54,149,85,31,172,28,158,88,80,288,4,226,186,30,24,37,67,20,91,36,59,177,111,62,201,102,24,35,1,267,51,12,175,130,25,23,123,141,188,81,84,213,281,53,425,92,31,220,17,24,27,196,82,253,9,301,56,117,73,43,201,164,735,214,407,126,148,47,54,161,11,173,162,310,334,31,19,23,18,39,97,168,37,68,496,155,5,214,32,128,85,219,121,252,56,87,237,176,1,41,3,67,78,100,263,187,27,6,204,5,528,328,160
+Fintech	47,225,107,350,229,289,40,274,3,694,54,149,85,31,172,28,158,88,80,288,4,226,186,30,24,37,67,20,91,36,59,177,111,62,201,102,24,35,1,267,51,12,175,130,25,23,123,141,188,81,84,213,281,53,425,92,31,220,17,24,27,196,82,253,9,301,56,117,73,43,201,164,735,214,407,126,148,47,54,161,11,173,162,310,334,31,19,23,18,39,97,168,37,68,496,155,5,214,32,128,85,219,121,252,56,87,237,176,1,41,3,67,78,100,263,187,27,6,204,5,528,328,160,237,162,15,74,42,81,13,92
 Fintech AI	4848
 Fintech AI-enabled	14566
 Fintech Advisory Council	4848
@@ -202,9 +203,12 @@ Fintech City	14819
 Fintech City Conduct	14819
 Fintech Cluster	13778
 Fintech Committee	14997
+Fintech Companies	17104
 Fintech Consultative Workshop	14819
 Fintech Credit Guarantee Window	4928
 Fintech Delivery Dashboard	14819
+Fintech Department	17104
+Fintech Department. Members	17104
 Fintech Development	5939
 Fintech Development Finance CBE Ombudsman Financial	12390
 Fintech Ecosystem Assessment	14819
@@ -223,8 +227,10 @@ Fintech Group	6563
 Fintech Group Product Manager Mr. Joshua	14555
 Fintech Growth	6212
 Fintech Hub and Pls	14997
+Fintech Industry	17104,213
 Fintech Innovation	3965
 Fintech Innovation Fund	14819
+Fintech Islamic	17329
 Fintech Lab	13559
 Fintech Landscape Study	12444
 Fintech Law	15713,499
@@ -271,6 +277,7 @@ Fintech and Cybersecurity Growth	4897
 Fintech and Digital Asset Lead	9706
 Fintech and Digital Infrastructure	10740,53
 Fintech and Digital Infrastructure. Part	5569
+Fintech and Exchange Bureaus Sector	17104,213
 Fintech and Fintech-related	14819
 Fintech and Innovation Department	7464,142,1126,802
 Fintech and Mobile Money Expand the Reach	12092
@@ -331,6 +338,7 @@ Huawei Cloud FinTech Summit	6653
 Huawei Cloud Strengthens Egypt’s FinTech Ecosystem	6653
 IFC Promotion R&D Support Fintech	14819
 IMF FinTech Note	11140
+INCLUSION AND THE FINTECH REVOLUTION. WASHINGTON	16991
 INCLUSIVE AND SUSTAINABLE FINANCE Ensuring FinTech	12444
 Implementation The Mauritius National Fintech Strategy	14819
 Inclusion and Integrity CBN Fintech Report	4848

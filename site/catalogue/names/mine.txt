@@ -21,8 +21,12 @@ Based Violence GMIS Geological and Mineral Information	2889
 Basilique Mineure de Mugera L	13405
 Basilique Mineure de Mugera Lancement	13405
 Basilique Mineure. Il	13405
+Bea Mineral Mining Company	16970
 Biden-era Minerals Security Partnership	4447
 Bond MINECOFIN	14997
+Bong Mines	16971
+Bong Mines Company	17367
+Bong Mines Company Ltd	16947
 Botswana's Ministry of Minerals and Energy	12577
 Botswana's Ministry of Minerals and Energy and KP Group	12576
 Brigade des Mineurs	14847
@@ -64,12 +68,14 @@ Datacenter de ST Digital Minette Libom Li	3298
 Deal for Glencore’s Kamoto Mine Congolese	5407,676
 Delta Mining Limited and Mopani Copper Mines	13387
 Demand List MINECOFIN	14997
+Departamento Forestal Miriam Minerva ONDO MBANG	16875
 Department of Geology and Mines	2889
 Department of Mineral Resources	11890
 Department of Mineral Resources and Energy	6683,4589
 Department of Mineral and Energy. Over	11890
 Department of Mineral and Petroleum Resources	11232
 Desarrollo Minero	4209
+Desarrollo Minero MSBSIS Ministerio de Sanidad	16969
 Directeur Central du Ministère des Mines	16381
 Direction Générale des Mines	16627
 Direction Nationale des Mines	16719
@@ -77,6 +83,7 @@ Direction des Mines	235
 Désignation Puissance Unité Luyuan des Mines Congo	15799
 Développer des MINEDUB	10965
 E. SHIKONGO CHAIRPERSON MINERALS AND ANCILLARY	13189
+EG Minister of Mines and Energy	17240
 ELEMENTS MINERAUX ET EQUILIBRE HYDRO-ELECTROLYTIQUE CALCIUM	15930
 ENQUÊTÉ MINEUR ENQUÊTÉ MINEUR ENQUÊTÉ MINEUR	13300
 ENQUÊTÉ MINEUR ET SIGNEZ. A REFUSÉ	13300
@@ -92,6 +99,10 @@ Economy and Territorial Administration MINESUP	16041
 Education de Base MINEPAT Ministère	10965
 Empresa Minera Nacional	4209
 Energy and Mineral Resources	1228
+Energy and Mines	16973,132,47,76
+Energy and Mines Honourable Speaker	17105
+Energy and Mines Ministry of Public Service	16973
+Energy and Mines National Action Plan	16973
 Expand MINECOFIN	14997
 FCFA Mines SA	2342
 FX Global MINECOFIN	14997
@@ -99,6 +110,7 @@ Financial MINECOFIN	14997
 Foreign Policy Instruments OCDE Mines Artisanales	643
 Form SACCO-bank MINECOFIN	14997
 Framework. MINECOFIN and CMA	14997
+Gambian Standard for Natural Mineral Water	16900
 Geological and Minerals Development Bill	13387
 Gestion Publique Finance Agro Energies Mines	13568
 Government MINEMA Ministry	12328
@@ -120,6 +132,7 @@ Implementing Agency MINEPAT Project Development Objective	15601
 Increase MINECOFIN	14997
 Increase the MINECOFIN	14997
 Industry and Minerals	7787,8,1367
+Industry and Minerals MoLG Ministry of Local Government	17157
 Industry and Mines	13899
 Institut des Mines	16627
 Instituteurs du MINESEC	15850
@@ -150,7 +163,9 @@ Korea International Cooperation Agency MINEDUC	14915
 Kwango Mines	13419
 L'ENQUÊTÉ MINEUR POUR DES TESTS SUPPLÉMENTAIRES	13300
 LA MINE D’OR	16456
+LERCJ Ministry of Lands. Mines and Energy Rural	16851
 LODA MINECOFIN IFMIS	14935
+LRC. Mineral	17011
 LTD AT UIS TIN MINE SITE	13189
 La SOCIETE DES MINES DE FLO-	2342
 La SOCIETE DES MINES DE LA-	2342
@@ -162,6 +177,7 @@ Le MINESEC	10379
 Le Ministre des Mines	15409
 Le Ministère des Mines	16618,9
 Leading MINECOFIN	14997
+Licensing and Public Affairs MME Ministry of Mines	16978
 Lim Chan Kwong Lam Thuon Mine	14744
 Local Government MINECOFIN Ministry of Finance and Economic	14935
 Lubambe Mine	13387
@@ -245,6 +261,8 @@ MINEDUC MINECOFIN	15130
 MINEDUC MINEDUC	1204
 MINEDUC. All	14922
 MINEDUC. Established	209
+MINEDUCYT Ministry of Education	17196
+MINEDUYT	17196
 MINEE	6400,4575,4567,32
 MINEF	15936
 MINEFI	16195
@@ -300,6 +318,7 @@ MINEUR POUR DES R TESTS L'échantillon	13300
 MINEUR POUR DES TESTS L'échantillon	13300
 MINEURS Arlicle	15429
 MINICOM MINECOFIN	15130
+MINING AND MINERALS	16900
 MINISTERE DE LíENERGIE ET DES MINES	15360
 MINISTERE DE L’INDUSTRIE ET DES MINES	15456
 MINISTERE DES MINES	15395,44,560
@@ -320,30 +339,33 @@ Minecofin	2998,400,11599,167
 Minecraft and CyberSafe. So	5551
 Minecraft. CyberSafe	5551
 Mined	3974
+Mineen Senior Electrical Engineer and Software	17260
 Minembwe	10097
 Minenhle Nzimande	9243
 Minepat	3923,1435,10911
 Miner	8603
 Minera	1701
 Minerai	2342
-Mineral	6921,6464,1600
+Mineral	6921,6464,1600,1915,240
 Mineral Access Concessions	6534
 Mineral Contracts	13122
 Mineral Development Fund	7695
 Mineral Income Investment Fund	10069
 Mineral Information Systems	13474
+Mineral Policy	17140
 Mineral Processing and Battery Technology Research Project	1554
 Mineral Processing and Battery Technology Research Projects	1554
 Mineral Regulation Commission Act	13654
 Mineral Resource	11280
 Mineral Resource Estimation	16511
 Mineral Resources Development	12979
+Mineral Waters	16900
 Mineral and Petroleum Resources	11232
 Mineral and Petroleum Resources Development Act	6683,7990
 Mineral and Petroleum Resources Royalty	11181
-Minerals	2889,1639,316,4555,1911,298,844,60,517,160,710
+Minerals	2889,1639,316,4555,1911,298,844,60,517,160,710,3336
 Minerals Ancillary Rights Commission	13189
-Minerals Commission	16511
+Minerals Commission	16511,603
 Minerals Council	7751,699
 Minerals Council South Africa. Drawn	7751
 Minerals Development Fund	16511
@@ -351,9 +373,11 @@ Minerals Development Fund Ladies and Gentlemen	16511
 Minerals Management and ESEPARC	11131,3
 Minerals Regulation Commission	13403
 Minerals Technology and Space Science	1154
+Minerals Yearbook	16996
 Minerals and Mines Departments	13093
 Minerals and Mining	16511
-Minerals and Mining Act	16511
+Minerals and Mining Act	16511,597
+Minerals and Mining Law	17257,147
 Minerals and Mining Policy	16511
 Minerals and Water	15011
 Mineração	2816
@@ -361,7 +385,7 @@ Mineração de Dados Educacionais	2816
 Miners	12597,788
 Minerva	11028
 Minerva Technology Futures	7209
-Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523,453,670,20,17,40,6,70,128,4,95,220,31,259,99,126,2,3,27,47,33,2,56
+Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523,453,670,20,17,40,6,70,128,4,95,220,31,259,99,126,2,3,27,47,33,2,56,179,113,142,127,25,188
 Mines Agriculture des Marchés Eau	2342
 Mines Artisanales	643
 Mines Commerce Crafts	10763
@@ -370,14 +394,16 @@ Mines Crédit	13390
 Mines Directeur	14904,1581
 Mines MESFTP Ministère	15479
 Mines Transport Télécom Comm Formation Ecofin	13568
-Mines and Energy	5086,7955,9,38,45,22,34,11
+Mines and Energy	5086,7955,9,38,45,22,34,11,3816,124,120
 Mines and Energy MOU Memorandum of Understanding MSB	12399
+Mines and Energy MoPT Ministry of Post and Telecommunication	17114
 Mines and Mineral Resources	2667
 Mines and Minerals	13093
 Mines and Minerals Act	12535,452,324
 Mines and Minerals Development Act	1988,11317
 Mines and Minerals Policy	13060
 Mines and Quarries	10873
+Mines and Quarries Act	17105
 Mines and Technology VRA Volta River Authority	4126
 Mines de Cobalt	15542
 Mines de Côte	15936
@@ -424,20 +450,26 @@ Ministry of Energy and Mines Sector	14080
 Ministry of Hydrocarbons and Mines	16279
 Ministry of Industries Mines and Energy	13189
 Ministry of Industry and Minerals	9862
+Ministry of Lands. Mines and Energy	16851
 Ministry of Local Government MINECOFIN Ministry of Finance	14947
 Ministry of Minerals and Energy	12553,42
 Ministry of Minerals and Energy and P23.7	2736
 Ministry of Minerals and Energy. Table	12563
-Ministry of Mines	1777,10456,808,2629,187,420,442
-Ministry of Mines and Energy	1242,4002,3844,3237,55,86,455
+Ministry of Mines	1777,10456,808,2629,187,420,442,228,25,263,5,20
+Ministry of Mines and Energy	1242,4002,3844,3237,55,86,455,4054,3,38,83,15,290
 Ministry of Mines and Energy Electricity Control Board	12399
+Ministry of Mines and Energy Mineral	17011
+Ministry of Mines and Energy and Ministry of Public	16872
 Ministry of Mines and Geology	981,1908,6111
 Ministry of Mines and Geology MS Moderately Satisfactory	2889
+Ministry of Mines and Hydrocarbon	16972
+Ministry of Mines and Hydrocarbons	16972,268
 Ministry of Mines and Minerals Development	13479
 Ministry of Mines and Minerals Development. Ensure	13654
 Ministry of Mines and Mining Development	1554
 Ministry of Mines and Quarries	10873
 Ministry of Mines' Export Permit Management System	13688
+Ministry ofLands. Mines and Energy	16851
 Ministère des Mines	3045,12497,81,47,87,179,65,322,293,10,1,14
 Mme Minette Libom Li Likeng	10524,5615
 Mopani Copper Mine	13387
@@ -460,7 +492,9 @@ NPLs. MINECOFIN	14997
 National Authority for Petroleum and Minerals	13042
 National MINECOFIN	14997
 National Mineral Resources Development Policy	13348
+National Office of Hydrocarbons and Mines	17459
 National Union of Mineworkers	14366
+Natural Mineral Waters	16900
 Ngwenya Iron Ore Mine	13123
 Nigeria Mineral Sector Support for Economic Diversification	2889
 Nigerian Minister of Mines and Steel Development	14134
@@ -482,6 +516,7 @@ Partenariat Public Privé. MINEPAT MINFI	15542
 Petroleum and Mineral Resources	9414,6059
 Planning MINEDUC Ministry of Education MINEMA Ministry	14935
 Planning MINEDUC Ministry of Education MIS Management	14922
+Planning MME Ministry of Mines and Energy MOA	17139
 Plataforma Nacional de Gestión Minera	9303
 Política de Recursos Minerales	1701
 Política de Recursos Minerales Competitiva	1701
@@ -501,9 +536,11 @@ RSWITCH MINECOFIN	15130
 Reagents for Mineral Froth Flotation Professor Tawanda	1154
 Reclamation of Mined-out Areas	16511
 Recursos Minerais	4147,7211,47,1382
+Recursos Minerais de Timor-Leste	17337
 Recursos Minerales	1701
 Registro Minero	9303
 Review of Minerals and Mining Policy	16511
+Royalties No. Mineral and Agriculture Royalty Rates	17011
 Rwanda MINECOFIN	1130
 Rwanda MINECOFIN and KOICA	286
 Rwanda Mines	14947
@@ -552,12 +589,14 @@ United States and South Korea. Minerva	11050
 Update the MINEPAT-based PIU PIM	10964
 VIH. MINEUR POUR LA COLLECTE	13300
 VIH. N MINEUR POUR	13300
+Vice-Minister of Mines and Hydrocarbons Mr. Santiago Eneme	17240
 Vuyiswa Khutlang SA Mine Project Leader	7751
 W SGS MINERAL SERVICE GUINEE-SARL SGS	16623
 Waive MINECOFIN	14997
 WebSIG du MINEDUB	8507
 Within MINEDUC	14922
 Work MINECOFIN	14997
+Works The Ministry of Mines and Energy and Ministry	16872
 Yaoundé. Minette Libom Li Likeng	10354
 Zambia Chamber of Mines	13403
 Zambia Consolidated Copper Mines Investment	13387

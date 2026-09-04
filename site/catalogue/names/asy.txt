@@ -4,12 +4,15 @@ APPLICATION FOR ASYLUM	11177
 ASM Asylum Seeker Management BABS Branch	11218
 ASY. REF. ASY	11900
 ASY. REF. ASY. REF. ASY. REF	11900
-ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429,501,1353,1153
+ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429,501,1353,1153,245,6,19,48,47,15,52,42,209,53
+ASYCUDA Access URL	16882
 ASYCUDA Advisory Board	13042
 ASYCUDA Advisory Board and Deputy Secretary-General	13042
 ASYCUDA App Picture	15478
+ASYCUDA Automated System for Custom Data ATM	16876
 ASYCUDA Automated System for Customs Data ASYCUDA	16631
 ASYCUDA Automated System for Customs Data AWP	969
+ASYCUDA Automated System for Customs Data AWPB	16949
 ASYCUDA Automated System for Customs Data CatIS	13861
 ASYCUDA Automated System for Measurement	15478
 ASYCUDA Automated System for Performance Measurement	15478
@@ -17,7 +20,7 @@ ASYCUDA Centre of Excellence	13042
 ASYCUDA Cloud Framework	13042
 ASYCUDA Cloud Framework ASYCUDA Cloud Framework	13042
 ASYCUDA Community	16631
-ASYCUDA Compendium	16631
+ASYCUDA Compendium	16631,270
 ASYCUDA Customs Digitalization	13042
 ASYCUDA Customs G2B	13314
 ASYCUDA Electronic Single Window for Trade	13042
@@ -39,7 +42,9 @@ ASYCUDA New Generation for Customs Digitalization	13042
 ASYCUDA New Generation of Customs	13042
 ASYCUDA New Generation. Barbados	13042
 ASYCUDA Newsletter	15478
-ASYCUDA Programme	13042,2436,1153
+ASYCUDA Performance Management	17011
+ASYCUDA Performance Management Program. Collaboration	17011
+ASYCUDA Programme	13042,2436,1153,270
 ASYCUDA Programme Division	15478
 ASYCUDA Programme Management Officer	16631
 ASYCUDA Programme and Burundi Revenue Authority	16631
@@ -49,26 +54,34 @@ ASYCUDA Regional Support Centre	13042
 ASYCUDA Sanitary and Phytosanitary Module The Government	15478
 ASYCUDA Support Mechanism Centre	13042
 ASYCUDA Support for Migration Tailored	13042
+ASYCUDA System	16882
+ASYCUDA System Upgrade	17063
+ASYCUDA System Upgrade URL	17063
 ASYCUDA System for Performance Measurement	13042
 ASYCUDA TileSW	13042
 ASYCUDA Training	16631
 ASYCUDA Training Session for Turkmenistan Customs Officers	15478
 ASYCUDA WORLD	5077
-ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142,1260
+ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142,1260,1404,62,5,19,43,94,96,166
 ASYCUDA World Password Reset Process	12654
 ASYCUDA World Registration Process Table	12654
 ASYCUDA World System	7206
+ASYCUDA World Upgrade	17011
 ASYCUDA World. Externally	13053
 ASYCUDA Yearbook	13042
-ASYCUDA for Customs	12915
+ASYCUDA for Customs	12915,4452
 ASYCUDA's Customs Management System	16631
 ASYCUDA-Based Single Window for Trade	13042
+ASYCUDA-Compendium-2022-Gambia.pdf	16901
+ASYCUDA-World	17367
 ASYCUDA-based ASTANA	15478
 ASYCUDA-based SW	13042
 ASYCUDA-based Single Window. Customs	13042
+ASYCUDA. Authorized LRA and Customs	16882
+ASYCUDA. LIBERIA TIME RELEASE STUDY REPORT	17367
 ASYCUDA. The TIN	12349
 ASYCUDAWORLD The Namibia Revenue Agency	13067
-ASYCUDAWorld	1393,999,9183,1079,297,91,25,348,2063,1153
+ASYCUDAWorld	1393,999,9183,1079,297,91,25,348,2063,1153,270
 ASYCUDAWorld ASYCUDA's Customs Management System	16631
 ASYCUDAWorld ASYCUDAWorld	13042,2436
 ASYCUDAWorld Advanced Functional Training	13042
@@ -106,7 +119,8 @@ ASYHUB Postal and ASYHUB Express	13042
 ASYHUB and ASYREC	13042
 ASYLUM SEEKERS	11177
 ASYPAP	15478
-ASYPM	13042,2436
+ASYPM	13042,2436,1533
+ASYPM ASYCUDA Performance Monitoring System CBL	17011
 ASYPM Forum	15478
 ASYPM Portal	15478
 ASYPM The Automated System for Performance Measurement	13042
@@ -119,15 +133,21 @@ ASYTIN Trader Registration Portal Ms. Sania	16631
 ASYVAL	16503
 ASYVAL de SYDONIA World	16235
 Abbreviations ACF ASYCUDA Cloud Framework AEO	13042
+About ASYCUDA World	16882
+Access ASYCUDA Online	16882
+AfDB African Development Bank ASYCUDA Automated	16927
 Afghanistan. The UNCTAD ASYCUDA	15478
 All ASYCUDA	13042
 Amnesty International. Doğu Asya Araştırmaları Dergisi	2518
 Application Programming Interface ASYCUDA Automated System	13042
 Area ASYCUDA Automated System for Customs Data	12951
+Asya S S Omar Alshwehde Awatef	17403
 Asycuda	9945,3108
 AsycudaProgram	15478
 AsycudaProgram. Fabrice Millet	15478
 Asylum	1988,8853,23,313,809,241,4467
+Asylum Committee	16830
+Asylum Committee and Sub-Committees	16830
 Asylum Law and Policy	13769
 Asylum Seeker	13769
 Asylum Seeker Management	11986
@@ -136,9 +156,10 @@ Asylum Seeker Management System DEPARTMENT	11986
 Asylum Seeker Management System Explanation	11986
 Asylum Seekers	11986
 Asylum Seekers and Special Permit	4667
+Asylum-Seekers	17323,1
 Asylum-Seekers Download	13669
-Asylum-seekers	11900,2565,2229
-Asymmetric	11869
+Asylum-seekers	11900,2565,2229,733
+Asymmetric	11869,4963
 Asymmetric Digital Subscriber	12395
 Asymmetric Digital Subscriber Line	13218,2154
 Asymmetric Digital Subscriber Line AI	6000
@@ -184,9 +205,11 @@ Capacity Building ASYCUDA New Generation	13042
 Catalogue of ASYCUDA Solutions	13042
 Catalogue of ASYCUDA Solutions The ASYCUDA Programme	13042
 Chad’s Asylum Law	10841
+Commission Is the Rduggs and Asylum Seekram Unit	16836
 Countries Security ASYCUDA New Generation	13042
 Country of Asylum	13769
 Courier Manifest ASYCUDA IATA Cargo XML	12454
+Customs ASYCUDA	17367
 Customs Data ASYHUB ASYCUDA Data Exchange	13042
 Customs Procedures and Automation ASYCUDAWorld Registration	12654
 Customs Process Modernization ASYCUDAWorld	16631
@@ -205,7 +228,7 @@ Faiyum Giza Damietta Asyut Ismailia Gharbia	15578
 First Implementation of ASYCUDAWorld	13042
 Functional Scope The ASYCUDA New Generation	13042
 GDCE and ASYCUDA	16631
-GRA and ASYCUDA Programme	16631
+GRA and ASYCUDA Programme	16631,270
 Generation of ASYCUDA Technology for Efficient	13042
 Generation of ASYCUDA for Ef	13042
 Generation of ASYCUDA for Effi	13042
@@ -217,7 +240,9 @@ III. Impact The Implementation of ASYCUDA	13042
 ITA’s ASYCUDAWorld	16631
 IV. ASYCUDA	13042
 IV. ASYCUDA New Generation for Sustainable Trade	13042
+Identification System ASYCUDA Automated System for Customs	17105
 Implementation Strategy ASYCUDA New Generation	13042
+Information ASYCUDA Automated System for Customs Data	17011
 Integration Platform ASYPM Automated System for Performance	13042
 International Trade Facilitation Agreements ASYCUDAWorld	13042
 Ismailia Luxor Asyut Beni Suef	15578
@@ -244,6 +269,7 @@ Monufia Gharbia Menya Asyut Sohag Sharqia	15578
 National Requirements Alignment ASYCUDAWorld	16631
 Needs of Asylum-Seekers	14101
 Nepal and Vanuatu. ASYREC	13042
+Net Savings ASYCUDA Automated System for Customs	16996
 Number of ASYCUDA Declarations Chart	15478
 Nutritional Security and ASYCUDA	13042
 Outlook ASYCUDA New Generation	13042
@@ -254,8 +280,10 @@ Platform ASYSW ASYCUDA-based Electronic Single Window	13042
 Project Workplans. Asylum Law and Policy	13773
 Public Key Infrastructure Asymmetric	11869
 Qena Beheira Monufia Asyut Sharqia Giza	15578
+Refugee and Asylum Seekers Unit	16836
 Refugees Asylum	10841
-Refugees and Asylum Seekers	2775,8066
+Refugees and Asylum Seekers	2775,8066,6033
+Refugees and Asylum Seekers The Gambia Refugee	16874
 Registered Refugees and Asylum Seekers	2775
 Relief Consignments Coordination Platform The ASYREC	13042
 Research Methodology and Approach The ASYCUDA	13042
@@ -268,7 +296,7 @@ Sharqia New Valley Asyut Giza Damietta	15578
 Single Window for Trade BURUNDI ASYCUDA Training	16631
 Single Window for Trade The ASYCUDA Single	13042
 Situation When ASYCUDAWorld	16631
-Six-week ASYCUDAWorld	16631
+Six-week ASYCUDAWorld	16631,270
 Sohag Aswan Menya Asyut Qena Beheira	15578
 Sohag Aswan Minya Asyut Qena Beheira	15578
 Solution ASYCUDAWorld	16631

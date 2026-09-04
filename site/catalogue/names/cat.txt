@@ -6,10 +6,12 @@ ACTUAL CATEGORÍA MINISTERIO CONCEPTO	4209
 ACTUAL CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
 ACTUAL CATEGORÍA MINISTERIO CONCEPTO CATEGORÍA MINISTERIO	4209
 ACTUAL MINISTERIO CONCEPTO CATEGORÍA MINISTERIO CONCEPTO	4209
+ADMINISTRATIVE PENALTY CATEGORIES AND BANDS	17249
 AI Governance. Catherine Nzuki	7588
 AI Strategy Risk Matrix Risk Category	4528,7984
 ALL SAINTS' CATHEDRAL CHURCH Data Controller	7167
 ALPESHY CATERERS LTD Data Controller INST-585595F4C72	7167
+APPLICATION FEES Category Application Fee	17250
 ARCHERS POST CATHOLIC HEALTH CENTRE Data	7167
 ASSUMPTION OF MARY ITHANGA CATHOLIC HOSPITAL	7167
 ASYCUDA Automated System for Customs Data CatIS	13861
@@ -27,6 +29,7 @@ Age Categories TKP Beneficiaries	15663
 All Categories	15388
 All Saints Cathedral Primary School Data	7167
 Anne Catherine Tchokonté	14637
+Annual Annual Regulatory Spectrum Fees Category	17250
 Antananarivo. Catégorie	14450
 Approval Last Approved Rating Risk Category	2712
 Approval Risk Category Approval Package	4688
@@ -35,6 +38,7 @@ Asset Addition Categories	12445
 Assistant Catering Officer	14760
 Assurance Maladie Universelle CAT	15685
 Authority. A Category	2913
+Authorization Equipment Regulatory Spectrum Category Fees	17250
 Awasi Catholic Mission Health Centre Data	7167
 Ayang Macdonald Categories Access Control	3623
 Ayang Macdonald Categories Biometrics News	2318,6,103,20,94,25,48,44,120,42,105,22,70,1,8,259,18,126,31,282,78,69,141,37,21,280,185,78,145,55,511,151,60,43,101,181,78,116,183,19,89,178,5,104,1,149,7,16,253,294,2377,54,3,489,289,390,16
@@ -47,6 +51,7 @@ BCMS CAT CGI CT DADF DC	10858
 BFA Catalyst Fund	12339
 BOGUIKOUMA Cathia Florise	16381
 BQA. CAT	12574
+BULK STORAGE OPERATIONS Category Application Licence	17250
 Bail and Remand Court CAT	14742
 Bata Por Catalina Obono Mba Nchama	11633
 Big Cat Alliance and Global Biofuels Alliance	2787
@@ -54,8 +59,10 @@ Big Catch-Up	14622
 Big Data Analytics CATHSSETA	6832
 Bilal Siddiqi IDinsight's Catalytic Fund	12182
 Bishop Kioko Catholic Hospital Data Controller	7167
+Bissau Cacine Catio Rio Cacine	17147
 Bonification Catégorie Section Niveau	15602
 Broad Economic Category	2775
+Buba Catio	17147
 Business Category. FI's Compliance Officers	11861
 CAPITALES DE DISTRITALES Y MUNICIPALES CATEGORÍA	4209
 CAPITALES DE PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO	4209
@@ -71,9 +78,11 @@ CAT Programmation	10858
 CAT and OECD	11136
 CAT-DDO	15491
 CAT-OP	11765
+CAT. II	17006
 CAT. Minutes	15028
 CAT6A Official Use Only	12253
-CATALOGUE	4803
+CATALOGUE	4803,12097
+CATALOGUE OF THE GAMBIA STANDARDS BUREAU	16900
 CATALYST FOR CHANGE	11586
 CATALYST FOR CHANGE I N N	11586
 CATARINA SOLANGE ARÃO GONÇALVES	10751
@@ -87,6 +96,7 @@ CATD de Thierry Dogbo	3683
 CATED	11916
 CATEGORIA AYUNTAMIENTOS DE MALABO Y BATA	4209
 CATEGORIAS ADMINISTRATIVAS MEDICOS Y TECNICOS AUXIL	4209
+CATEGORIAS DE PÉRDIDA O GANANCIA	16875
 CATEGORIE	10975
 CATEGORIE DES PLAINTES EN	15670
 CATEGORIE NOMBRE Ministères	15936
@@ -96,11 +106,13 @@ CATEGORIES DES COMPTES SPECIAUX DU TRESOR	15426
 CATEGORIES OF AUTHORISED FM STATIONS	2776
 CATEGORIES OF COMPANIES AND MODIFIED APPLICATIONS	3714
 CATEGORIES OF DATA Certain	961
+CATEGORIES OF INFORMATION THAT WILL	16843
 CATEGORIES OF LICENSEES	14809
 CATEGORISATION OF CO-OPERATIVE SOCIETIES SN Category	7845
-CATEGORY	12253,136,2454
+CATEGORY	12253,136,2454,2092
 CATEGORY AREA AND MAIN CHARACTERISTICS POPULATION	15473
 CATEGORY Article	14863
+CATEGORY Transaction Transactions	16878
 CATEGORÍA	4209
 CATEGORÍA COMERCIO CUOTA ANUAL Ficha	4209
 CATEGORÍA COMERCIO Certificado de Comercio	4209
@@ -119,6 +131,7 @@ CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA MINISTERIO	4209
 CATEGORÍA MINISTERIO CONCEPTO ACTUAL MINISTERIO CONCEPTO	4209
 CATEGORÍA MINISTERIO CONCEPTO CATEGORÍA MINISTERIO CONCEPTO	4209
 CATEGORÍA MINISTERIO CONCEPTO MINISTERIO CONCEPTO	4209
+CATEGORÍAS DE COBERTURA	16875
 CATERIKA LTD Data Controller INST-641562D5A56 NAIROBI	7167
 CATERIKA LTD Data Processor INST-641562D5A56 NAIROBI	7167
 CATERING-SA	16623
@@ -149,6 +162,7 @@ CLASSIFICATION Catégorie Indice Ouvrier	15432
 CLASSIFICAÇÃO DE RISCO E CATEGORIZAÇÃO	11390
 CLOUD BASED ON DATA CATEGORIZATION	6432
 CLOUD BASED ON DATA CATEGORIZATION Technical	6432
+COMPONENT Category of Drought Drought Impact Impact	17157
 CONCEJALES AYUNTAMIENTOS Categoria Ayunt. Asignac. Mensual	4209
 CONCEPTO ACTUAL CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
 CONSEJOS DE POBLADOS CATEGORÍA MINISTERIO CONCEPTO	4209
@@ -161,6 +175,7 @@ Cash for Work Labor-Intensive PWP for Resilient Catchments	13111
 Cat B1	15659
 Cat C	5005
 Cat DDO	15924,59
+Cat DDO Catastrophe Deferred Drawdown Option	16952
 Cat-add-codes	704,1,430
 Cat6 Patch Panel	12681
 Cat6A	13185
@@ -173,7 +188,7 @@ Catalog Management	13042
 Catalogar	15358
 Cataloging-in-Publication Data IMF Library Names	12948
 Catalogs	13042,1923
-Catalogue	37,1197,3212,3613,38,1456,1321,310,2698,556,99,213,887,306,352,320
+Catalogue	37,1197,3212,3613,38,1456,1321,310,2698,556,99,213,887,306,352,320,285
 Catalogue Service	13031
 Catalogue des Services Publics Numériques	13882
 Catalogue of ASYCUDA Solutions	13042
@@ -189,7 +204,7 @@ Catalyse Global Partnerships	10865
 Catalyser for Energy Transition	12962
 Catalyses	1468
 Catalyseur	5978
-Catalysing	11130
+Catalysing	11130,6188
 Catalysing Renewable Energy Access and Transition	13054
 Catalyst	226,6880,5180,2561,150,1778
 Catalyst Fund	4972,2607,1569
@@ -197,7 +212,7 @@ Catalyst for Africa’s Sustainable Community Health	15833
 Catalyst for Inclusive E-Commerce	7860
 Catalyst for Sustainable Development	12962
 Catalysts	10464,685,157,5469
-Catalytic	4185,2227,5177,708,147,2264,1436
+Catalytic	4185,2227,5177,708,147,2264,1436,955
 Catalytic Agents	2957
 Catalytic Are Political Development and Corruption	1828
 Catalytic First Loss Guarantee	8937,1,141
@@ -220,6 +235,8 @@ Catarina Veiga Ministério da Saúde	16000
 Catarino Fontes Pereira	8052
 Catastro	1701,2508
 Catastro Minero	9303
+Catastro Nacional de Tierras	16989
+Catastro Nacional de Tierras URL	16989
 Catastrophe	14896,49,667
 Catastrophe Deferred Drawback Option	15491
 Catastrophes	13341,361,741,179,1999
@@ -250,9 +267,11 @@ Categorias	15,2422,1,8952,779,3366
 Categorias de Rendimento da DPR	12018
 Categorias de Rendimentos	12018
 Categorias de Rendimentos da DPR	12018
-Categorical	7451,832
-Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846,616,20,1,7,44,84,131,5,44,99,36,3,263,417,14,346,567,138,349,477,9,45,19,73,82,444
+Categorical	7451,832,8584,35,247
+Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846,616,20,1,7,44,84,131,5,44,99,36,3,263,417,14,346,567,138,349,477,9,45,19,73,82,444,1253,2,63,556
+Categories All	17140
 Categories Consultancy	9893
+Categories Country Information Legal Information Policy	16830
 Categories Cybersecurity Allan Juma	9830
 Categories Information Technology	9892
 Categories News	9936
@@ -262,6 +281,8 @@ Categories Startups When Africa	10010
 Categories Sub-categories	10835,3,130,902,16,466,1,135
 Categories Tech and Innovation Every	10015
 Categories and Sub-categories	11889,274
+Categories of Administrative Fees	17249
+Categories of Affected Parties	17114
 Categories of Businesses	15085
 Categories of Customs and Excise Revenue	12951
 Categories of Eligible Expenditure Category	15553
@@ -271,48 +292,70 @@ Categories of Operators Obliged	12558
 Categories of Participants	12364
 Categories of Payment Messages	12364
 Categories of Stakeholders Gove	14790
+Categories of TB Cases Number Percent All	16971
 Categories-	9399
 Categorisation	12333
 Categorisation of Stablecoins	14844
-Categorised	8243,4299,919
+Categorised	8243,4299,919,3423
 Categorization	11863,2075,1535,780
 Categorization Does	11863
+Categorization of Grievances	17099
 Categorization of Lamu Basin Blocks Category Blocks	12256
 Categorização	3519,2943
-Categorize	14997
+Categorize	14997,1866
 Categorize Workers	12675
 Categorizing	12445
-Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,40,3,1,11,1,20,59,56,9,12,164,333,47,132,146,87,175,345,87,521,171,25,170,54,21,24,26,28,118,290,45,35,105,1,11,88,109,179,98,168,72
+Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,40,3,1,11,1,20,59,56,9,12,164,333,47,132,146,87,175,345,87,521,171,25,170,54,21,24,26,28,118,290,45,35,105,1,11,88,109,179,98,168,72,494,57,1,13,150,15,49,51,21,14,192
 Category A Enterprise	12894
 Category A Income Exemption Threshold	14717
+Category A Level	16961
+Category A Signatories	16949
 Category A1	11868
 Category A2	11868
 Category Allocated Financed	11525
+Category Application Fee ICT Infrastructure Provider	17250
+Category Application Fee Licence Fee USD	17250
+Category Application Licence Annual Annual Annual	17250
+Category Application Licence Annual Notes Fee	17250
 Category Author Lucia Nghifindaka	13247
 Category B	7695,4173,92,177,372,2863,39,100,90,1175
+Category B Signatories	16949
 Category B Taxpayers	12509
 Category Before Restructuring	15969
-Category C	5005,2690,4173,641,2379
+Category C	5005,2690,4173,641,2379,2553
 Category Category	15473
 Category Class Number	12256
 Category Classified Level	10157
 Category Consultant Services Country Central African	16194
+Category Corporate	16937
 Category D	11868
+Category D5	17250
+Category D6	17250
+Category Daily Penalty Category I GMD	17249
+Category Description Required Action Complaints	17114
+Category Examples Implementation Stage Preventive	17157
 Category Expenditure Current Actuals	2473
 Category FM Compliance FM Compliance TV	6946
 Category FY	6946
 Category Fig	1554
 Category Findings Relevant Scores and Statistics Data	12210
 Category Foreign Currency	11863
+Category GW	17140
 Category Grant Allocated Financed	2474
 Category HQ Location Digital Africa	4972
 Category I Sub-regional Offices	12337
 Category IBRD	16144
-Category II	12337,2946
-Category III	15283
+Category II	12337,2946,1966
+Category II GMD	17249
+Category III	15283,1966
+Category III GMD	17249
 Category III.B.1	16144
+Category IV	17249
+Category IV GMD	17249
 Category Infrastructure Deficits	12508
 Category Licence Category FY	6946
+Category Marine HF	17250
+Category Method Prior Review	17180
 Category No. Expenditure Category Current Allocation	15969,218
 Category Not Required	11924
 Category Number	13418
@@ -327,20 +370,29 @@ Category Respondents	11138
 Category Risk Bytes Percent Secure Socket	12395
 Category SCHEDULE	16144
 Category Score	11138
+Category Service Type Proposed Wholesale Rate	17212
+Category Site Assessment for Petroleum Retail Station	17250
 Category Submitted	10819
 Category Tax	15205
 Category Technical Score Business Function Requirements	13185
 Category Tenure Application Fee Landing Rights	10407
 Category Title Foram	10349
 Category Total No. of Blocks Within the Category	12256
+Category USD	17250
+Category V	17249
+Category V GMD	17249
 Category and Residency	2775
 Category and Sex	2775
 Category and Sex1	2775
 Category for Major Routes	2830
 Category of Complaints Received	12062
+Category of Drought Drought Impact Impact Decreased	17157
+Category of Grievance	17099,15
+Category of Grievance Category Description Required Action	17099,15
 Category of Institution	2775
 Category of Movable Assets	12389
 Category1	2775
+Categorías	16875
 Catena-X	7313
 Catena-X Organization Chart.pdf	7313
 Cater for Marginalised People	13295
@@ -351,6 +403,9 @@ Catering and Interior Decoration Trainees	12970
 Caters	13037
 Catete	4044,7532,1
 Catete. Na	11446
+Catfish	17043
+Catfish Nile Tilapia Crustaceans Clams	17043
+Catfish Nile Tilapia Crustaceans Heterotis	17043
 Cathay AfricInvest Innovation Fund	510,95,7,319,14
 Cathay Africinvest Innovation Fund	612
 Cathedral Piazza	7198,1741
@@ -383,7 +438,7 @@ Catherine Wanjala	12227
 Catherine and Donatienne	3852
 Cathie Philippe Gerald Youhann Wissa Social	15663
 Catholic	5889,4940,1087,2753,935
-Catholic Church	12201,210,3320
+Catholic Church	12201,210,3320,1227
 Catholic Church Hall Duinesig Combined School	13046
 Catholic Commission for Justice	2993
 Catholic Diocese of Malindi Data Controller INST-181078796C8	7167
@@ -391,7 +446,7 @@ Catholic Diocese of Nakuru Data Controller INST-454011F253C	7167
 Catholic Diocese of Nakuru Data Processor INST-454011F253C	7167
 Catholic Hospital	12956
 Catholic Organization for Relief and Development Aid Data	7167
-Catholic Relief Services	6903
+Catholic Relief Services	6903,10067
 Catholic Relief Services Data Controller INST-565076B2C51	7167
 Catholic University of Eastern Africa	6946
 Catholique	13300,90,2108
@@ -403,8 +458,13 @@ Cathrine T. Nengomasha	12325
 Cathy O’Neil	571
 Cathy and Adea Kryeziu	10964
 Catija Issumalgy Abdula	2816
+Catio	17147
+Catio Relatório de Missão de Terreno	17147
+Catió	17147
+Catió Estado Antiga	17147
+Catió Relatório de Missão de Terreno	17147
 Catsatsa Sikuwe	11626
-Cattle	3583,4262,4012
+Cattle	3583,4262,4012,5186
 Cattle Breeders	11586
 Cattle Mambila	11857
 Cattle Primary School	11857
@@ -412,9 +472,12 @@ Cattle Primary and Secondary	11857
 Cattle Rearing Primary School Primary	11857
 Cattle School	11857
 Cattle Secondary School	11857
+Cattle Tax	16968
 Catumbela	11429,658
 CatÈgorie Indice	15410
 Catálogo	966,10495
+Catálogo Nacional de Indicadores	17349
+Catálogo Nacional de Indicadores Estadísticos	17349
 Catálogo Nacional de Serviços Públicos Digitais	15755
 Catálogo Nacional de Serviços Públicos Digitais. Artigo	15755
 Catálogo de APIs Iremos	16030
@@ -432,7 +495,7 @@ Catástrofes	15966
 Catástrofes Naturales	4209
 Catâlogo	966
 Catég	13390
-Catégorie	737,9536,603,2424,90,62,972,1,197,1048,104,43,182,35,13,293,212,162
+Catégorie	737,9536,603,2424,90,62,972,1,197,1048,104,43,182,35,13,293,212,162,292
 Catégorie Accident	13390
 Catégorie Administra	13390
 Catégorie Administrations	13390
@@ -475,7 +538,7 @@ Catégories Abdelmaksoud Rachdi Catégorie	8891
 Catégories Actualités Commentaires	13638
 Catégories Android Apple Applications Mobile Applications	9993
 Catégories Responsabilités Institutionnels Coordination	15848
-Catégorisation	14424,1200,122,190
+Catégorisation	14424,1200,122,190,1549
 Catégoriser	15908
 Católica Global School of Law	6521
 Central Data Catalog	9485,6359
@@ -487,6 +550,7 @@ China Category	8726
 Chris Burt Categories Biometrics News	2521,199,5,94,4,91,266,1905,1781
 Classification Catégorie Section Niveau	15602
 Classification of Economic Categories	14746
+Classification of Standards THE TGSB STANDARDS CATALOGUE	16900
 Climate Safeguards Categorization	13938,1073
 Climate Safeguards Category	11863
 Closed Current EA Category Original EA	11924
@@ -504,14 +568,18 @@ Components Not Categorized Indicator Name Classrooms	16436
 Concelhos de Santa Catarina	15503
 Consulting Services Category Prior Review	13017
 Consumer Category	2775
+Content Curation and Thematic Catalogue Development	17287
 Coordenador Manuel Artur Catende	10757
+Corresponding Types of Entitlement PAP Category Type	17114
 Cotonou Catholic Relief Services	10821
 Courts Prosecuting Cat Matlala	3962
 Crime Category-wise Jul	14760
 Crimes Category	14760
 Critdres Cat69ories	14479
 Critères Catégorie I II III Compétence	15780
-Current Expenditure Category	1228
+Crop Categories	17043
+Curated Content Catalogue for Smart Africa	17287
+Current Expenditure Category	1228,15668
 Current Situation and Challenges Catalysed	15604
 Customer Categories	12436
 Customer Category	2775
@@ -525,13 +593,16 @@ DE PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
 DEFINITIONS OF TELECOMMUNICATIONS CATEGORIES	11211
 DEFINITIONS OF TELECOMMUNICATIONS CATEGORIES..104 APPENDIX	11262
 DELEGACIÓN DIRECTIVO COORDINAC. PLANIFICACIÓN CATASTRO	4209
+DEMANDE D’OCTROI DU STATUT D’OPERATEUR CATEGORISE	17485
 DES INFRASTRUCTURES DE TELECOMMUNI CATIONS ET	15399
 DES Scope Subsystem Type Categorical	7221
 DIVINE MERCY ELDORO CATHOLIC DISPENSARY Data	7167
+Dailing Categories Prefixes Country Code Service	16934
 Data Asset Inventory and Catalogue Template	3861
 Data Catalog	16189
 Data Catalog Vocabulary	15714
 Data Catalogue	12768,2266
+Data Catalogue Vocabulary	16939
 Data Catalogue and Metadata	15034
 Data Categorisation	13063,417
 Data Categorisation and Sharing Framework	4123,8940,417
@@ -545,6 +616,7 @@ Data Usage Summary Category Total Data	12395
 Datasharing Categories	8606
 Date Environmental Assessment Category	11525
 Date of Catastrophe Board Decision Date	13868
+Debt Category	17235
 Definition of Customer Categories Individual	5687
 Demographic Category of PWDs	12460
 Deposit Category Balance	14546
@@ -554,7 +626,7 @@ Development of Bank Categorization Large Banks Medium-sized	11960
 Devices and Terminals No Category of Q2	2776
 Devine Mercy Eldoro Catholic Dispensary Data	7167
 Disability Medical Assessment and Categorization Guidelines	12231
-Disbursement Categories	1228,56
+Disbursement Categories	1228,56,15612,26
 Disbursement Categories Category	15411
 Disbursement Categories KEY RATINGS Outcome Satisfactory	15601
 Disbursement Category	4653
@@ -563,18 +635,21 @@ Dr. Catherine Honeyman	15182
 Dr. Catherine Nwosu	9368
 Dr. Catherine OVONO MEZUI	16175
 Draft Data Categorization	4123,8940,417
+Ducks Cattle Goats Sheep Pigs	16935
 E E.1 Categoria E.1	12018
 E-Government Category	13214
 E.2 Categoria E.2	12018
 EA Category Partial Assessment	15601
 EA Category Revised EA Category	15663
-EDT Lu-Hai Liang Categories Biometric R&D	9713
 ENVIRONMENT Categorised B	1818
 East African Community Cataloguing-in-Publication Data	14409
 Economic Categories	14738,8
 Economic Category BeTA Bottom-up Economic Transformation	2775
 Editorial Team Category	5289
 Eighth Category	15039
+El Catastro Nacional de Tierras	16989
+El Catálogo Nacional de Indicadores	17349
+El Ministro Delegado de Catastro	16989
 Electricity Tariff Categories	14745
 Electronic Green Catalogues	12389
 Emma Catalfamo	11004
@@ -582,18 +657,23 @@ Endeavor Catalyst	4457,2071,2616
 Enhanced Category	6074
 Enquiries Handled Category Total Received Resolved	6946
 Environmental Assessment Category	12137
+Environmental Assessment Category C	16960
 Environmental and Social Risk Categorization	15011
+Establish Grievance Category	17099,15
 Ethiopia. The Catastrophe Containment and Relief Trust	13868
 Event Category	10235
 Exclusive Preference Category Margin	13037
 Expenditure Categories	11525,920
 Expenditure Category	2775
 Expenditure Category Current Allocation Actuals	16187
+Expenditure Category Table	17260
 Exterior Nº Categoría de Funcionario Público Monto	4209
 Ezulwini Catholic Primary School	11134
+F2. Waste Oil Recycling Category Application	17250
 FAO. Category	11398
 FY FY FY License Category Purpose	6946
 Facility The Africa Ecosystem Catalysts Facility	14233
+Fee Annual Regulatory Fee Category Premix	17250
 Fees Loan Category Loan Amount Legally	14206
 Figure A.2. Eligible Expenditures Category	15658
 Financial Year. Mauritius Police Force Category-wise	14760
@@ -609,10 +689,14 @@ GENERATION CAPACITY CATEGORISATION	11228
 GENERATION CAPACITY CATEGORISATION Given	11228
 GMS CATEGORY	13938
 GOOD SHEPHERD CATHOLIC COLLEGE OF HEALTH	13078
+GRIEVANCE CATEGORY	17099
+GRM and No Budget Category Quantity Unit	17099
+Gambia’s Category B and C	17201
 Gender Marker System Categorization	13938
 Gender Marker System Category	11863
 General Catalyst	4458,4581,58,277
 General Catalyst and MultiChoice	4458
+Geographical and Categorical	16867
 George and Gregory Cathbat	10412
 Gestion des Catastrophes	13442,104
 Ghana Categories	236
@@ -622,12 +706,14 @@ Global Ventures and Endeavor Catalyst	2310
 GovZAUpdates Event Category Issued	11225
 Government of Rwanda Category	12398
 Governorate Cost Category	15977
+HOSPITAL DEATHS BY MAJOR DIAGNOSTIC CATEGORY	16892
 Hall A Stella Maris Roman Catholic	13046
-Health Catalytic Fund	11589
+Health Catalytic Fund	11589,5533
 Helena Cathia	16177
 Highveld Cattle and Maize	12977
 Holders of Category	11960
 Hospital Caterers	12976
+Household Categorization Spot Checks	16867
 Huawei Safe City Angola. Cat	645
 I.2.3. Catégorisation	15936
 ID4D Practitioner’s Guide. Category Benefits Administrative	10775
@@ -642,6 +728,7 @@ II.1.1. Catégorisation	15936
 II.1.2. Catégorisation	15936
 II.1.3. Catégorisation	15936
 II.1.4. Catégorisation	15936
+IMMATRICULATION ET CATEGORISATION DES OPERATEURS ECONOMIQUES	17485
 INSTITUTO GEOGRAF. Y CATASTRAL.- Concepto	4209
 INSULAR Y CONTINENTAL CATEGORIA ACTIVIDAD CUOTA	4209
 IRC Information Resource Catalogue IT Information	12359
@@ -652,6 +739,8 @@ Implementation of Catastrophe Containment and Relief	13868
 Import Category	14985
 Improve the Online Metadata Catalogue	13031
 Income Categories	12445
+Income Tax Category Personal Income Tax	17011
+Indicative Curated Content Catalogue	17287
 Indice Catégorie TABLEAU ANNEXE	16171
 Individuals Merchants Retail Agents and Category Lite	5687
 Industry Category	12436
@@ -666,6 +755,7 @@ Investor Category	14828
 Irrigation and Water Catchment Management ARTICLE	14409
 Irrigation and Water Catchment Management The Partner	14409
 Ivy Njoki and Zahraa Dirani. Categories	6705
+JEP Tariff Schedule All Categories End-User	16978
 Jennie Cataldo	1038
 Joel R. McConvey Categories Biometrics News	2873
 KEY POLICY PRINCIPLES FOR CAT	12574
@@ -679,15 +769,20 @@ LAND TENURE CATEGORY AREA AND MAIN	15473
 LLL. CAT and RPL	12574
 LTSM National Catalogue	11241
 Laboratory Scale Manufacture of Lithium Cathode Materials	1154
-Lap Category Sequence	1228
+Land Category AGB	17140
+Land Category Dead	17140
+Land Category SOC ref	17140
+Lap Category Sequence	1228,15668
 Latency Catch	6892
 Le Catalogue des Solutions Interopérables	13841
 Le Catendrier	15399
 Leading Catalyst	3487
 Les Catégories	13341
 Level Lab Category National Public	4153
-Library Cataloguing	14898
+Liberia Category Specific Challenge Impact	17260
+Library Cataloguing	14898,2043
 Licence Category	10738
+Licence Category Application Licence Annual Annual	17250
 License Category	6946
 License Category FY	6946
 Licensing Categories This Guideline	5665
@@ -703,17 +798,23 @@ M MILITARES CATASTRAL Y OBRAS BOMBEROS	4209
 MB Category	15867
 MBIF Catégorie Hommes Femmes Conjoints	13390
 MDA. V.2 Catégories	13341
+MI CAT	17101
 MINISTERIO CONCEPTO ACTUAL CATEGORÍA MINISTERIO CONCEPTO	4209
 MINISTERIO CONCEPTO CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
 MIOS Catalogue	11184
+Madam Catherine Anderson	16848
 Madame Yaye Catherine DIOP	8269
 Main Categories of Threats Identified	5677
 Major Consumer Category	2775
 Management Cloud Infrastructure Catalogs Media File	13042
+Mandate Category Stakeholder Role	17099
 Market Price Reference Catalogue	12956
 Massango Cambundi Catembo Quipungo Belize Amboim	10765
+Meeting Project Outcomes Stakeholder Category Stakeholder	17099
 Mestre Catija Issumalgy Abdula	2816
 Minister of Posts and Telecommunications Category	11000
+Ministerio de Catastro	17194
+Ministry of Agriculture Severe Catastrophic	17157
 Mission CRS Catholic Relief Services CVRL	15118
 Mme Lysette Catrylhe ONIENGUIA	15685
 MoU Categories	5966
@@ -739,10 +840,12 @@ NSDS Category Definition	13082
 Nairobi. Facilitators Catherine Otieno and Egline Samoei	11018
 National AI Strategy Ecosystem Category	4528
 National AI Strategy Ecosystem Category Entities	12512
+National Drug Catalogue	17039
 National Product Catalogue	3400
 News Categories News Stories Press Release	12465
 Nigeria and Tanzania. About the Africa Ecosystem Catalysts	14233
 No. Category Allocation Committed Allocation	2473
+No. Category Steps Completed No	16853
 No. DESCRIPTION TENDER NO. Category Closing	1638
 No. Licence Category	9335
 Nominated Senator Catherine Mumma	6160
@@ -755,35 +858,48 @@ OPERATING COST CATEGORY CAPEX REVENUE	3862
 Occupational Category	7151
 Official Use Only Risk Category Rating	11469
 Official Use Only Risk Category Risks	11469
+Operations Categories The Gambia Government Cloud	16924
 Original EA Category Current EA Category	15731
 Otmane Gair Catégorie	8891
 Outcomes Not Categorized Indicator Name Baseline	16436
 Overall Governancep.7 Category	10838,1032,482,136
 P122398 EA Category	15372
+P125799 EA Category	17441
 PAR CATÉGORIE AU	3396
 PAUSES THAT LET REGULATION CATCH UP	14673
 PBC-associated Disbursement Category	15802
+PETROLEUM IMPORTATION AND RE-EXPORT Category Application	17250
 POBLADOS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 PORTANT APPROBATION DU CATALOGUE D’INTERCONNEXION	15885
 PRIMERA CATEGORIA	4209
 PRINCIPES ET CATEGORIES DES PRESTATAIRES Section	15584
 PROCESSING SPECIAL CATEGORIES OF PERSONAL DATA	1333
+PRODUCTION BY CROP CATEGORY	17043
 PROJECT CATEGORISATION Environmental and Social Risk	11863
 PROPOSED REALLOCATIONS FOR DISBURSEMENT CATEGORIES Category	4653
 PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 PayPal Details Vaughan O'Grady Category	6350
 País Nº Categoría de Funcionario Público Monto	4209
+Penalty Categories	17249
+Permit Category D5	17250
+Permit Category Generation Licence	17250
 Permit Category Permits	12256
 Pesquisar Documentos Pesquisar All Categories	15388
+Petty Trade Category	16949
+Plan de Acción de Reducción de Riesgos Catastróficos	16875
 Popular Categories	7178
 Postal and Courier Licensees License Category FY	6946
 Postal and Courier Volumes Service Category Q3	6000
+Primer Catálogo Nacional de Indicadores	17349
+Primer Catálogo Nacional de Indicadores URL	17349
 Principales Catégories	16636
 Professional Category	14828
+Profiling of LMS Staff Category Number	16947
 Project Card Category Details Type	13395
 Project Catalyst	6705
 Project Categorization	15372
 Project Risk Matrix RISK CATEGORY RISK	11863
+Project Stakeholder Category	17099
 Proposed Allocation Current Proposed Category No	16187
 Président Abdelkader AMARA Catégorie	8891
 Public Administration. Category	12153
@@ -791,25 +907,29 @@ Publisher FAO Category Technical	14941
 Punishment CAT	14742
 Quality Scorecard and KPIs Data Catalogue and Glossary	15034
 REGIONES CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
+REPORTING CROP PRODUCTION BY CROP CATEGORIES	17043
 RESIDUAL AND CATCH-ALL SAFEGUARDS	3861
 RISK CATEGORY RISK DESCRIPTION RATING MITIGATION	13938
 RULES FOR THE IMPLEMENTATION OF CAT	12574
 Rating Risk Category Rating	16705
 Reallocation of Funds Across Disbursement Categories	4653
 Reference Cate and Mayer-Schönberger2013	8436
+Region Crop Categories Total Holdings Cereals	17043
 Registration. Category	12349
 Regulation Is Catching Up	9112
 Reinstated Broadcast Licences License Category FY	6946
 Religion Catholique	13300
 Religião Católica	10777
+Remarks No Budget Category Quantity Unit	17099
 Research Category and Sex	2775
 Residual and Catch-All Safeguards	3861
 Results Select Business Category	12882
 Revised Data Signal Distributors Category FY	6946
-Rights Categories Internally Displaced Person	14074,391,2229
+Riesgos Catastróficos PNAF Programa Nacional de Acción	16875
+Rights Categories Internally Displaced Person	14074,391,2229,733
 Risk Category	9123,2842,3588,105
 Risk Category IV	9123
-Risk Category Latest ISR Rating Current	1284
+Risk Category Latest ISR Rating Current	1284,15612,26
 Risk Category Proposed Rating Political and Governance	11395
 Risk Category Rating	969,898,1737,2935,4229,61,135,416,37,108,35,1771,1,2079,210,40,977
 Risk Category Rating Page	15743
@@ -828,22 +948,28 @@ SA CATEGORIE Article	14863
 SECTION Category	16144
 SEGUNDA CATEGORIA Oficina	4209
 SEP Budget Table Budget Category	1778
+SEP Estimated Budget No Budget Category	17099
+SEWERAGE SYSTEM LICENCE FEES Category Annual	17250
+SEWERAGE TREATMENT PLANT LICENCE FEES Category	17250
+SHORT CODES AND SPECIAL NUMBERS Category	17250
 SRAL CATTA	16623
 SSVP St Christopher Catholic Church	11204
 STATES Publication Category	15089
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35
 Saad Sefrioui Catégorie	8891
 Sabas SONOU AGOSSOU Environmental and Social Category	11863
 Sample Budget and Capacity Audit Templates Category	3861
-Santa Catarina	3192,12196,132,174,272
+Santa Catarina	3192,12196,132,174,272,1317
 Santa Catarina and Praia	11855
 Santa Catarina de Santiago	15388,578
+Schedule. Category Application Licence Annual Regulatory	17250
 Scope Subsystem Type Categorical	7221
 Scope Subsystem Type Categorical Distinguishes	7221
 Scope Subsystem Type Categorical Indicates	7221
 Scope System Type Categorical	7221
 Scope System Type Categorical Determines	7221
 Scope System Type Categorical Indicates	7221
+Screening Grievance Category	17114
 Search Keyword Categories- Any	11215
 Second Category	15282
 Secretario de Estado de Catastro	1855
@@ -863,6 +989,7 @@ Short List of National Prior Consultants Category	11525
 Social Categorization Rationale	16776
 Social Category	15672
 Special Categories	3861
+Sra. Doña María Dolores Catalina Oyana	16920
 St Cecilia Roman Catholic Basic School	16346
 Staff Categories	12969
 Staff Categories Figure	12969
@@ -870,34 +997,48 @@ Staff Profile Staff Categories Staff Gender	12969
 Staff Trained Across Various Categories	6946
 Stakeholder Categories	12356
 Stakeholder Categories Stakeholders	7548
-Standards Catalogue	13385
+Stakeholder Categorization	17099
+Stakeholder Categorization Key	17099
+Stakeholder Category Actors	17018
+Standards Catalogue	13385,3515
 Stats SA. Stats SA Library Cataloguing-in-Publication	11258,28
 Still Catching Up Nigeria	8088
 Studentsuccess Categories	8602
 Stª Catarina	12018
+Subproject Category Classification	17114
+Subproject Category Classification Based	17114
 Substantial Substantial Risk Category Moderate	11905
 Summary Income Statement Category Interest	11131,3
 Supporting Future Growth Anne Catherine Tchokonté	14637
 Sustainable Environment. Category	11888
 System Lot No Category Estimate	13938
 TABLE REALLOCATION BETWEEN DISBURSEMENT CATEGORIES Current	1228
+TEMPORARY ASSIGNMENTS Category Fee Temporary	17250
 TERCERA CATEGORIA	4209
 TESORO PÚBLICO ACTUAL CATEGORÍA MINISTERIO	4209
 TESORO PÚBLICO CATEGORÍA MINISTERIO CONCEPTO	4209
 TESORO PÚBLICO CATEGORÍA MINISTERIO CONCEPTO MINISTERIO	4209
 TESORO PÚBLICO MINISTERIO CONCEPTO CATEGORÍA	4209
+TGSB CATALOGUE	16900
+TGSB STANDARDS CATALOGUE	16900
+TGSB Standards Catalogue	16900
 TKP Beneficiary Categories Registered Individuals	15663
 TKP Beneficiary Household Categories Total TKP	15663
 TM Forum Catalyst	7490
+TOLL-FREE NUMBERS Category Application Fee	17250
 Tariff Category	9409
 Tariff Category Facility Charge	12394
 Tax Category	12951
 Tax Periods. ITEM CATEGORY VAT RETURNS	12509
+Taxpayer Categories Completion	17011
+Taxpayer Categories Liberia Revenue Authority	17011
+Taxpayer Category Number of Taxpayers Number of Inactive	17011
 Technical Category	14828
 Thami Abderrahmani Ghorfi Catégorie	8891
 Thematic Categories Macroeconomic Stability Trade Openness	5247
 Third Category	15282
 Threshold Category Open Open Short List	11855
+Trade Facilitation Agreement Year Category Brief	17011
 TransferCategory Categories of Ieamer	11180
 Transparence. Catégorie	14425
 Types of Digital Taxes CATEGORY TYPE	14932
@@ -909,6 +1050,7 @@ UNESCO’s Category	11439
 UTP CAT-6	12763
 Uganda Catholic Medical Bureau	11022
 Under Category	11560,4584
+Unified Fees Regulations. Category	17250
 Universidad Catolica San Antonio de Murcia	12951
 Universidade Católica da Guiné-Bissau	11552
 Universidade Católica de Angola	11632
@@ -920,11 +1062,14 @@ Useful Category	5700
 V.2 Catégories	13341
 VI.1 Catégories	10876
 Waste Categories Non-hazardous	1988
+Weekly Category Description Percentile	17157
 Welfare Sustainable Environment Categories Sub-categories	10837
+Withdrawal Category	16949
 World Bank Data Catalog	11867
 World Bank ID4D’s Catalog of Technical	15518
 World Bank Microdata Catalog	13873
 X.2.3 Catégories	10876
+Year Vehicle Category Business Commercial Private	16935
 YouTube Popular Categories Android	9993
 Yvonne Catherine Kirabo	15064
 Zahra Zaoui Catégorie	8891

@@ -13,6 +13,7 @@ Current Fragmentation and Silo Landscape Despite	12008
 Data Fragmentation	16600
 Description The African Development Bank's Fragile	13966
 Digital For Fragile And Conflict-Affected Situations	1549
+Disease FCV Fragility	16876
 E-learning Sudan FCV Fragility	14897
 EYOS Equivalent Years of Schooling FCV Fragility	15661
 FCS Fragile and Conflict-affected Situations FI Financial	1264
@@ -20,19 +21,20 @@ FCV Fragility	10829,4361,431,763
 FCV Fragilité	16626
 FRAGILITY AND RESILIENCE ASSESSMENT	13938
 FRAGILITY AND THE URGENCY OF BUILDING	15059
+FRAGMENTATION OF PEACE AND RECONCILIATION PROGRAMS	16970
 Foodcrops Monitoring and Preparedness Fragmented	14818
 Fragen	11316
-Fragile	1284,583,1695,42,6012,1152,17,44,135,453,143,12,283,50,1426,1,1556,665,68,37,3,82,401,292
+Fragile	1284,583,1695,42,6012,1152,17,44,135,453,143,12,283,50,1426,1,1556,665,68,37,3,82,401,292,486,38,297
 Fragile Contexts	15164
 Fragile Foundation Kasi Cloud	5200
 Fragile Health Systems	11596
 Fragile Power	9914
-Fragile State	969,315,583,1695,42,7164,61,135,453,143,295,50,1426,1,402,9,1167,27,616,68,37,3,483,254
+Fragile State	969,315,583,1695,42,7164,61,135,453,143,295,50,1426,1,402,9,1167,27,616,68,37,3,483,254,524
 Fragile State Index	13358
 Fragile State and Conflict	10832
 Fragile States Facility TSF	14132
 Fragile States Fase	11569
-Fragile States Index	11545
+Fragile States Index	11545,5407
 Fragile Times	15064
 Fragile and Conflict	10841
 Fragile and Conflict-Affected Situations	11310,5466
@@ -47,7 +49,7 @@ Fragility and Resilience Consultant	13938
 Fragilité	5207,10267
 Fragmentacija ZIS-a	10780
 Fragmentated	15658
-Fragmentation	1261,4714,377,586,610,48,194,252,562,724,71,689,877,2040,584,72,904,101,331,345,131,463,101
+Fragmentation	1261,4714,377,586,610,48,194,252,562,724,71,689,877,2040,584,72,904,101,331,345,131,463,101,824,6,35,237
 Fragmentation Investors Encounter During Due	7003
 Fragmentation Somalia	5975
 Fragmentation and Inadequate Coordination	13220
@@ -55,20 +57,25 @@ Fragmentation and Interoperability Across	8013
 Fragmentation of Digital Health Initiatives Malawi	12240
 Fragmentation of Technical Infrastructures	5677
 Fragmentação	11569
-Fragmented	958,1501,1159,910,320,685,379,727,883,26,542,515,287,236,407,285,318,19,641,21,314,3,2,2,9,7,834,74,7,139,4,36,47,215,214,412,157,842,615,66,179,37,130,50,128,418,200,281
+Fragmented	958,1501,1159,910,320,685,379,727,883,26,542,515,287,236,407,285,318,19,641,21,314,3,2,2,9,7,834,74,7,139,4,36,47,215,214,412,157,842,615,66,179,37,130,50,128,418,200,281,668,61,26,143,10,111
+Fragmented E-Procurement	17139
 Fragmented Ecosystem	12444
 Fragmented Ecosystem Mitigation	12512
 Fragmented Ecosystem Participation. Analysis	4528
 Fragmented Efforts	12356
 Fragmented IFMIS	12214
+Fragmented Implementation	17139
 Fragmented KYC	11138
 Fragmented MALAWI SCORE Country	12241
+Fragmented Mandates	17260
 Fragmented Millimetre-Wave Rules Could Cost	12870
+Fragmented Policies	17260
 Fragmented Progress	2957
 Fragmented Readiness	15164
 Fragmented Readiness and T2-C	15164
 Fragmented Research Field	5700
 Fragmented Service Delivery	12761
+Fragmented Support of Development Partners	16876
 Fragmented System	14137
 Fragmented World	6418,1439,717
 Framework for AI-Ready Unstructured and Fragmented Data	12760
@@ -76,6 +83,7 @@ General Leopoldino Fragoso	2543
 Geopolitical Fragmentation and Loss of Consensus NGFS	13532
 Governance and Institutional Fragmentation Kenya	7548
 Government Development Index FCV Fragility	11545
+Headquarters. Ms. Nicole Fragano	17257
 Health Coordination Fragmented	14818
 I. Fragmented	3058
 Information Foncière du Bénin FCV Fragilité	10876
@@ -83,6 +91,7 @@ Instable. Fragile. Suffisant	13531
 Institutional Coordination and Mandate Review Fragmented	14818
 Internet FCFA Franc CFA FCV Fragilité	15474
 Labor Contributing Practice Areas Education Fragile	11525
+Leone Fragile	16876
 Mauritius. Fragmented	14790
 Namibia Fragmentation and Inadequate Coordination Paper	12373
 National Seed Policy and Institutional Framework Fragmented	14818
@@ -110,6 +119,7 @@ Structural Vulnerability and Economic Fragility	15059
 Union FCV Fragility	11560
 Velhas Fragilidades de Mocambique Por Amilcar Punja	10551
 WBG Fragility	10841
+WFP WHO Core Diagnostic Instrument Fragility	16902
 West Africa World Bank Classification of Fragile	1264
 Whole of Government Aggregation Framework Fragmented	10157
 World Bank Fragility	969

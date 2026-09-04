@@ -11,10 +11,13 @@ CADECO.PAR Deskeco	7813
 CFM Information Desk	9772,1
 CSD Service Desk Received	12364
 CSD Service Desk for Collection	12364
+Central Help Desk Set	16963
 Central Industry Fraud Desk	4848
 China Desk	3779
 Crime Intelligence Rural Safety Desk	11188
 D E- Desktop	582
+DESK SERVICES ACP	16844
+DESK SERVICES RTGS SERVICE BUREAU PRICING	16844
 DESKTOP SPECIFICATIONS	2779
 DHA Employment The DHA Youth Desk	11986
 DHA Youth Desk	11986
@@ -25,29 +28,35 @@ Desk Audits	13053
 Desk Jet	11860
 Desk Officer	14753
 Desk Research	226,11988,2605,78
-Desk Review	771
+Desk Review	771,16345
 Desk Review and Exploratory Interviews	10919
+Desk Review and Secondary Data Collection	17099,15
 Desk The Federal Government	10157
+Desk-Based Studies	17114
 Desk-based	8301,6486
 Desk-review	6189
 Deskflo	10605
 Deski Daiche	15692
-Desks	11134,1277
-Desktop	6832,1156,1771,2898,745,1434,826,779
+Desks	11134,1277,4769
+Desktop	6832,1156,1771,2898,745,1434,826,779,529
 Desktop Application Veriﬁcation Figure	8604
-Desktop Computers	6946
+Desktop Computers	6946,10388
 Desktop Interface Type USB	34
 Desktop Research	12376
 Desktop Study Several	12253
 Desktop Tablet	582
-Desktops	34,13370,1517
+Desktop and Power Supplies and Printer	16970
+Desktops	34,13370,1517,2259
 Desktops TBA	1988
 Desktops for Ministers	2779
 Desktops for Non-Technical Staff	2779
 Desktops for Primary Schools	2779
 Desktops for Technical Staff	2779
+Desktops.pdf Republic of Liberia Ministry of Public Works	17328
 Director's Desk	13062
+Disability Desk	17296
 Déploiement du Desk ENR	1993
+E Desktops	17180
 E- Surfline B- Yes Desktop D-	582
 EMIS Desk	11860
 Electrification Dev. Desk Head Ato Melaku	12195
@@ -60,6 +69,9 @@ Government Shared Service Desk Platform	12917
 HELP DESK	15637
 Help Desk	34,12330,553,10
 Help Desk Contact	12364
+Help Desk Operations Ongoing	16963
+Help Desk Setup Establish	16963
+Help Desk Support	16970
 HornDiplomat News Desk	15132
 ICT Help Desk	34
 ICTSS Service Desk	12055
@@ -76,8 +88,10 @@ Management for Government Proj A Service Desk	15476
 Media Desk	11297
 Ministry of Finance's World Bank Desk	15988
 Ministry's Strategic Blueprint. The Desk	10157
+NO. HELP DESK	16844
 News News Desk Published	16568
 NonVisual Desktop Access OWASP Open Web	11952
+Nonvisual Desktop Access	17056
 OUTPUTS Desk	13938
 Objectives The Desk	10157
 Olivier Steele. Desktop	13382
@@ -91,6 +105,7 @@ Public Information Desk	14778
 Public Relations Desk Nairobi	9852
 RSL's PR Desk	12711
 Remote Desktop CM-IDAM.S15 CM-IDAM	10721
+Revamp Statistical Desk	17116
 Secretary's Desk First Edition	13503
 Secretary's Desk Q1-2026 A PDF	13503
 Service Desk	12654,3373

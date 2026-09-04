@@ -14,7 +14,7 @@ PrevAnteriorTRIBUNAL DE CONTAS APROVA NOVAS REGRAS	11473
 REGRAS GERAIS	10755
 Regra	14
 Regrained	5182
-Regras	576,2240,1741,6198,605,10,3,57,31,1314,2621,44,254
+Regras	576,2240,1741,6198,605,10,3,57,31,1314,2621,44,114,140
 Regras Anuais de Execução	11372
 Regras Deontológicas	11368
 Regras Gerais	11430,4264
@@ -29,7 +29,7 @@ Regras de Prevenção	11404
 Regras de Retenção	12018
 Regreening Africa	15129
 Regression	7759,1370,2066,3895,71
-Regresso	16022
+Regresso	16022,1125
 Regrettably	13097
 Regroup Labs	4429
 Regroupement	7279,1,7164
@@ -41,3 +41,4 @@ SECÇÃO I Regras Gerais	11425
 SECÇÃO II REGRAS ESPECÍFICAS APLICÁVEIS	10747
 SECÇÃO III REGRAS ESPECÍFICAS APLICÁVEIS AOS	10747
 Stacking Ensemble Regres-	8604
+Voting Regressor	17157

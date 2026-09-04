@@ -1,13 +1,15 @@
 ANA Exemplars Matric Results Research EMIS	11220
 ARMANDO EMILIO GUEBUZA	1829
 AU EMIS	16356
-AU EMIS Norms and Standards	13629
+AU EMIS Norms and Standards	13629,3385
+Abreviaturas COU Curso de Orientación Universitaria EMIS	16864
 Actualité L’Alliance EMI	13628
 Adopting the EMIS Norms and Standards	13310
 African Union EMIS Norms and Standards	13629
 African Union's EMIS	12052,4304
 African Union's EMIS Norms and Standards	12052
 Air Emissions	1988
+Air Emissions and Ambient Air Quality	17114
 All EMIS Educational Management Information System	13960
 Angola's EMIS-run	4876
 Application of Eminent Domain Principles	15473
@@ -42,27 +44,35 @@ Carbon Emissions	6946,5287
 Carbon Net Emissions	15983
 Cardinal Emile Biayenda	1297,14152,331,468
 Cardinal Emile Biayenda B.P	15901
+Centro Nacional de Emisión	16942
+Centro Nacional de Emisión de Documentos	17305
 Centro Nacional de Emisión de Documentos Oficiales	1382,2827
+Centro Nacional de Emisión de Documentos Oficiales de Guinea	16905,443,44
 Centro Nacional de Emisión de Documentos Oficiales. Created	1382
 Cenário A. Emissão	12018
 Cenário B. Emissão	12018
 Certificate of Being Alive. IMMIGRATION AND EMIGRATION	12333
 Civil Aviation The United Arab Emirates	11185
 Colloque International EMICn	13799
+Community of Central Africa Centro Nacional de Emisión	16942
 Comunidades Emigradas	16022
 Conduct EMIS	13310
+Congo Mauritius United Arab Emirates Singapore	16942
 Consultancy For EMIS Policy Development	14131
 Consultancy For EMIS Policy Development Support	14131
 Consultancy for EMIS Policy Development Support	14131
 Corridor LED Light Emitting Diode LIA	2775
+Current EMIS	16909
 DA IDENTIFICAÇÃO CIVIL E EMISSÃO	10756
 DE LA STATISTIQUE ET DES EMISSIONS	16381
-DHIS2 EMIS	1017,942,10078
-DHIS2-based EMIS	11970,1075
+DHIS2 EMIS	1017,942,10078,4874
+DHIS2-based EMIS	11970,1075,3866
 Danny Eminence	15524
+Deforestation and Reducing Emissions	17140
 Demographic and Health Survey EMIS Education Management	13681
 Description National EMIS Numeric	11180
 Designated EMIS Oﬃcer	11860
+Development EFA Education For All EMIS	16852
 Dieu BASHIMA Richard NDUWIMANA Emilienne BAYUBAHE	13300
 Digital EMIS	12196
 Digital Skills Framework One EMIS	6832
@@ -80,13 +90,16 @@ Documentos Emitidos	12021
 Douniama Emile Ouosso	15815
 E0930-BI Emis	13567
 EBESP EGMA EGRA EMIS ENI ENMC	16436
+ECOWAS EMIS	16927
 ECW Education Cannot Wait EMIS Education	15661
 EGDI E-Government Development Index EMIS Education	13312,2
 EMCU Eswatini Medical Christian University EMIS	12975
+EMI and RFI	17114
 EMI. Following	14153
 EMICn	13799
 EMIRAE France	11725
 EMIRATOS ARABES UNIDOS DUBAI	4209
+EMIS A GPE KIX-funded	17185
 EMIS B. Ensure	15604
 EMIS Committee	11860
 EMIS Consolida A Massificação Dos Pagamentos	11434
@@ -128,6 +141,8 @@ EMIS Professional Associations	11860
 EMIS Project	14851
 EMIS Reports	12345
 EMIS Research Protocols Schools Masterlist Data	11241
+EMIS SHIFT	16909
+EMIS SHIFT FOR EQUITABLE	16909
 EMIS SURVEYS AND DATA SETS	11180
 EMIS School Code Document Version	15630
 EMIS Schools Stats API	15630
@@ -145,6 +160,7 @@ EMIS Unit of MoET	13016
 EMIS Units	15960
 EMIS User Guide and Codebook	15688
 EMIS User Guide and Codebook of Variables	15688
+EMIS Validation Report	17021
 EMIS and CRVS	13681
 EMIS and DDPSA	11905
 EMIS and HRMIS	16436
@@ -170,6 +186,7 @@ EMIS. Development	13392
 EMIS. Given	13016
 EMIS. Hence	13310
 EMIS. MEPPSA	11905
+EMIS. Participants	16911
 EMIS. STG	11916
 EMIS. Schools	13681
 EMIS. Specific	12175
@@ -191,7 +208,7 @@ Early Grade Reading Assessments EMIS Education	13310
 Economic Community of West African States EMIS	5244
 Elevate the EMIS	13310
 Emidio Sebastiao	12776
-Emigration	6832,7913,1301
+Emigration	6832,7913,1301,828
 Emil Ali and Joanna Lim	9026
 Emil Tesliuc	3427,12174
 Emil Yohana	7250
@@ -214,6 +231,7 @@ Emile Parfait Simb	4127
 Emile Zerbo	3354,12963
 Emile-Parfait Simb-de-la-cryptomonnaie-a-la-propagande-russe	4127
 Emile-Parfait-Simb-de-la	4127
+Emilia	16996
 Emilia Nghikembua	1975,11,1031,1845,1922,843,787,4745,71,1022,130
 Emilia-Romagna	10592
 Emilia-Romagna Data Valley	10592
@@ -242,8 +260,10 @@ Emily Kallaur	4214
 Emily M	3654
 Emily Mabote	10343
 Emily Manjara	12478
+Emily Tripp	16902
 Eminent	14745
-Eminent Domain	15473
+Eminent Domain	15473,1378
+Eminent Scholars	17347
 Eminye	11573
 Emir Abdelkader	15943
 Emir Abdelkader de Constantine	16344
@@ -260,17 +280,22 @@ Emirates International Investment Company. Blnk	4457,2071
 Emirates International Telecommunications	1818,1
 Emirates Logistics	14507
 Emirates Mr. Marwan Al Sarkal Office	2958
+Emirates National Oil Company	16942
 Emirates News Agency	9098
 Emirates News Agency HARARE	13692
 Emirates News Agency SAKAÏ	16576
 Emirates News Agency URL	16576
 Emirates and South Africa	11185
 Emirates’ Khazna Data Centers	10861
-Emirati	1741,1539,1,3190,1655,369,2690,3291,2146
+Emirati	1741,1539,1,3190,1655,369,2690,3291,2146,837
 Emirati Genome Programme	15262
+Emirati Minister of Investment	17459
+Emirati President	17459
 Emiratos	4209,2404
 Emirats Arabes Unis	15742
+Emisiones CO2	16898
 Emisiones Radioeléctricas	9543
+Emisiones de CO2	16898
 Emisión	4209
 Emisión Deuda Pública	4209
 Emisión de Bonos	4209
@@ -278,8 +303,10 @@ Emisión de Deuda	4209
 Emisión de Deuda Externa	4209
 Emisión de Obligaciones	4209
 Emisión de Títulos	4209
-Emission	1005,1471,6647,1852,547,711,1181,210,913,1057,49,104
+Emission	1005,1471,6647,1852,547,711,1181,210,913,1057,49,104,1367,26,345
 Emission Class Adj Chn Selectivity	736
+Emission Factor	17140
+Emission Factors	17140
 Emission License	1988
 Emission Trading System	12389,2363
 Emission de Monnaie Electronique	16641
@@ -287,14 +314,17 @@ Emission de NOX	1005
 Emission des Départements	14744
 Emission des Titres	15999
 Emission-free	13624
-Emissions	7402,4851,1371,1194,593,18,36,205,377,409
+Emissions	7402,4851,1371,1194,593,18,36,205,377,409,658,26,117
 Emissions Levy	7695
 Emissions Outre	10975
+Emissions Reduc	17101
+Emissions Reduction Strate	17101
 Emissions and Energy Efficiency of Infrastructure	12389
-Emissão	794,2725,6595,635,4,2,1,16,601,13,33,26,11,5,19,48,373,117,3340,22,12,84,96,484
+Emissão	794,2725,6595,635,4,2,1,16,601,13,33,26,11,5,19,48,373,117,3340,22,12,84,96,484,1044
 Emissão da Autorização Geral	11520
 Emissão da Certidão Cadastral	11384
 Emissão da Licença Individual	11520
+Emissão de CO₂	17100
 Emissão de Cartão Nacional de Identificação	15476
 Emissão de Cheques	11403
 Emissão de Facturas	11383
@@ -306,12 +336,13 @@ Emissão de Valores Mobiliários	11383
 Emitentes de Moeda Electrónica	11386
 Emitida	11564
 Emitidos	10750
-Emitir	13,154,1534,2517,6537,28,598,1,2,51,8,6,9,3,55,2,9,1,9,364,120,3338,32,59,53,1,22,563
+Emitir	13,154,1534,2517,6537,28,598,1,2,51,8,6,9,3,55,2,9,1,9,364,120,3338,32,59,53,1,22,28,535,770,163
 Emitodio Muarilo	6619
 Emitted CO2	12261
 Emição	15470
 Energy and Emissions	12261
 English Language and Mathematics EMIS	12175
+Enhanced Interior Gateway Routing EMIS Education	16942
 Enumeration Areas EMIS	14857
 Eswatini's EMIS	13016
 Eswatini's National EMIS	13016
@@ -324,11 +355,17 @@ Faraji Hassan Emily	9452,39
 Federal EMIS Committee	11860
 Fernandine Emilie	15524
 Fly Emirates	14548,71
+Forest Emissions	17140
+Forest Reference Emission Level	17140
+Forest Reference Emissions Level Gg Gigagrams	17140
 Formulate EMIS	13310
 Framing EMIS	15096
 Functional EMIS	11860
 GOVERNMENT OF THE UNITED ARAB EMIRATES	13326
 GR-3028-CORE Acronym EMI	9123
+Gambia Emigration	16874
+Gambian DHIS2 EMIS	16911
+Gambian EMIS	16911
 Government EGP Electronic Government Procurement EMIS	12917
 Greenhouse Gas Emission Reduced	15159
 Greenhouse Gas Emissions	15411
@@ -344,12 +381,14 @@ H.E. Ambassador Deweh Emily Gray	10509
 Habib Emimar	16100
 Hansley Emiliano Louis	10643
 Harmonized EMIS	15604
+High- Emission Pathway	17157
 Homme Emile DOUMBA Le Ministre du Budget	15371
 Hortance Nancy NSENGIYUMVA Thomas NSHIMIYIMANA Emile	12445
 ICR DOCUMENT EMIS	16436
 IDA-7445-MR Emis	5983
 II EMISSÃO DE PARECER PRÉVIO	15572
 II. BREVE HISTORIAL DA EMISSÃO	10772
+INGEI Inventario Nacional de Emisiones de Gases de Efecto	16875
 INST-5429241D0B5 NAIROBI United Arab Emirates	7167
 ISIQEPHU F- OKWEHHOVISI KUPHELA EMINYE IMIBANDELA	11573
 ISIQEPHU M- OKWEHHOVISI KUPHELA EMINYE IMIBANDLELA	11573
@@ -366,19 +405,30 @@ Labour Market Panel EMIS Education Management	15604
 Latest EMIS Records	12345
 Le Colloque International EMICn	13799
 Learning Development Standards EMIS Education Management	13990
+Liberia M1. GHG Emissions Intensity Vs	17257
 Liberia and EMIS Data Analytical Support	14131
+Liberia's EMIS	17021
+Liberia's EMIS Data Champion	17021
+Liberia’s Forest Reference Emission Levels Submission	17140
 Local Government EMIS Oﬃcer National Conference	11860
+Long Term Low Emission Development Strategy	17101
+Long-Term Low Emission Development Stra	17101
+Long-Term Low Emission Development Strategy	17101
 Louis Modeste Ouédraogo. Emil SEGDA	12068
+Low- Emission Sustainable Pathway	17157
 L’ARE A EMIS UN AVIS	15670
 M EMIS K05	15604
 M. Emile Kossi N’GUISSAN	2966
+M2. Emissions	17257
 MEPPSA. EMIS	11905
 MEPU-A's EMIS	16638
 MES Minimum Emission Standards MTS Main	11228
 MG Emis	14498
 MHz MHz MHz Emission	13301
+Malaysia United Arab Emirates Oman Equatorial	16996
 Management Information System EMIS Essential Package	11905
 Management Information Systems ENS EMIS Norms	13310
+Medium- Emission Pathway	17157
 Minimum Emission Standard Compliance	11228
 Minimum Emission Standards	11228
 Minister of State Emile ZERBO	3824
@@ -391,12 +441,18 @@ Mrs. Emilia Nghikembua CEO of CRAN	13150
 NAIROBI United Arab Emirates	7167
 NAM-CSIRT Emilia Nghikembua	7741
 NLAS and EMIS	16436
+NREF Niveles de Referencia de Emisiones Forestales NRF	16875
+NREF. Nivel de Referencia de Emisiones Forestales	16875
 Namibia. EMIS	12345
 National EMIS	5599,5581
 National Greenhouse Gas Emission Monitoring Indicators	11424
 National Policy of EMIS	11860
 Net Emissions	15983
 Nigeria and United Arab Emirate	12026
+Nigeria’s EMIS	17014
+Nivel de Referencia de Emisiones Forestales	16875
+Non-CO2 Emissions	17140
+OECD Air Emission Accounts	17257
 OHDUQLQ EMIS	15604
 Odette NZEYIMANA Emilienne NIFASHA Agnes NZITONDA	13300
 Offices Wordwide United Arab Emirates	14621
@@ -404,6 +460,7 @@ Official Use Only Emissions	12253
 Overall Effectiveness of EMIS	15096
 PP.4.A.3 Strengthen EMIS	15604
 PP.4.B.1 Strengthen EMIS	15604
+Peer Review of Liberia's EMIS	17021
 Petroleum Gas LED Light Emitting Diode	14947
 Plateforme EMIS	15673
 Popoli EMIS Education Management Information System	14896
@@ -413,11 +470,15 @@ Princípio da Inexigibilidade de Documentos Emitidos	11388
 Procedimento de Emissão de Parecer Prévio	11379
 Providing EMIS	15661
 Provincial Education Department EMIS	11241
+REDUCTION OF EMISSIONS Deforestation	17140
 REGULAMENTO SOBRE A ATRIBUIÇÃO E EMISSÃO	11419
 Raguidissida Emile ZIDA	7670
 Red Nacional de Emisoras	4209
+Reducción de Emisiones	16875
+Reducing Emissions	16996,105,39
 Reference Emiliou2023	8436
 Registration and Emission Class Certification	736
+Reglamento de Emisiones Radioeléctricas	16865
 Report of EMIS Receiving Committee	14855
 Requisição de Emissão	11419
 Response Toolkit GEE Emissões	11413
@@ -450,7 +511,7 @@ State EMIS. Ultimately	11860
 State Ministry of Education EMIS Oﬃcer and State	11860
 State of Burundi’s EMIS	13629
 State of EMIS	12052,4304
-Strengthening EMIS	11598,4090
+Strengthening EMIS	11598,4090,1333
 Strengthening of EMIS	16436
 Student Information System and EMIS	15604
 Systems Edo State's DHIS2-based EMIS	11970
@@ -467,18 +528,22 @@ Tx Emission Class Spurious Emission	736
 TÉ EMISE	15901
 UAE United Arab Emirates	15220
 UAE United Arab Emirates UN United	15342
+UAE United Arab Emirates University of Madrid	16942
 UNESCO UIS TBD EMIS K05	15604
+UNITED ARAB EMIRATES	16935
 Ukraine United Arab Emirates United Kingdom	11470,295
 Union EMIS Education Management Information System	14855
 Union des Comores EMICn	13799
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3,209,242,113,220
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3,209,242,113,220,896,7,510
 United Arab Emirates Bahrain Algeria Egypt	15725
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates Government	13795
+United Arab Emirates Malaysia Qatar Kuwait	16996
 United Arab Emirates Mogadishu	15072
 United Arab Emirates UHC Universal Health	2775
 United Arab Emirates UN United Nations	11960
+United Arab Emirates University	16942
 United Arab Emirates Yes ICT Fund	11529
 United Arab Emirates and Saudi Arabia	15471
 United Arab Emirates and Singapore	6689,3020
@@ -488,6 +553,7 @@ United Arab Emirates' EDGE Group	9399
 United Arab Emirates-based G42 Group	3624,87,522,525
 United Arab Emirates. FACT SHEET	16580
 United Arab Emirates. Minister of International Relations	5086
+United Arab Emirates. MoU	17459
 United Arab Emirates. Samira Njoya	4887
 United Arab Emirates. The Agreement	11185
 United Arab Emirates. Varisco	1741

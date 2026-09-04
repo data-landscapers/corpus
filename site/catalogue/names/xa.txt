@@ -23,6 +23,7 @@ Dhaarta Xafiiska Xog-dhigista	14906
 Docteur Xavier CRESPIN	16099
 Dollar US XAF	14683
 Dr. FRANCIS XAVIER OTIENO ODAWA Data	7167
+EUR. The XAF	16972
 Ee Xafiiska Garyaqaanka Guud	14906,141,105,1
 F0.000.000 XAF	4209
 FELIZANDRO ELLIOTE XAVIER MUNZE	10751
@@ -52,7 +53,10 @@ Kay Rala Xanana Gusmão	13042
 Lagu Gaarayo Xalka Waara	15047
 Leader WB World Bank XAF Central	15511
 Li Xao Pin	10752
+M XAF	16942
 M. Michel Xa	16250
+MB of XAF	16942
+MB of XAF15	16942
 Madagascar A Xalam Analytics Country Report	14482
 Markup Language XAD-PID Change Management Cross-Enterprise	1009
 Microsoft Xandr	13461
@@ -62,6 +66,7 @@ Mudane Dr. Xasan Sheekh Maxamuud	14906
 Mudane Dr. Xasan Sheekh Maxamuud Madaxweynaha	15047
 NCAMISO XABA	9628
 Nigeria A Xalam Analytics Country Report	4525
+Organization XAF Central African CFA Franc	16942
 Part XA	11269
 Power Producer XALAM DATA CENTER MARKET	3184,1,7810
 Publishes the Xalam DC	4428
@@ -80,7 +85,7 @@ Wh. XALAM DATA CENTER MARKET BRIEFING	3185
 World Health Organization XAD-PID XDS	1009
 XAALADAHA LUMIDDA IYO WAXYEELLADA AQOONSIGA	14930
 XAALADAHA MADANIGA	15153
-XACML	1009
+XACML	1009,15915
 XACML Core	1009
 XAD-PID	1009
 XADGUDUBKA BARAKACAYAASHA Qodobka	15047
@@ -202,7 +207,7 @@ Xavier Cirera	7655
 Xavier Coadic	12088
 Xavier Creach	12811
 Xavier Crespin	16454
-Xavier Decoster	3604,10413,1430,1179
+Xavier Decoster	3604,10413,1430,1179,250
 Xavier Deville. Cette	14581
 Xavier Estico	9582
 Xavier Faz	14997

@@ -14,7 +14,7 @@ CNE Cadernos Eleitorais	10271
 CNE Comissão Nacional Eleitoral	10765,10
 COMISSÃO NACIONAL DE ELEIÇÕES	11528,3831
 COMISSÕES REGIONAIS DE ELEIÇÕES	11528
-Caderno Eleitoral	11425
+Caderno Eleitoral	11425,5584
 Cadernos Eleitorais	3246,7025,1154
 Cadernos Eleitorais da GTAPE	10271
 Cadernos Eleitorais. O GTAPE	10271
@@ -28,7 +28,7 @@ Cartões de Eleitor	10114
 Circulo Eleitoral Nacional	539
 Comissão Eleitoral Nacional	3530,2288,2718
 Comissão Nacional Eleitoral	6640,3788,997,694
-Comissão Nacional de Eleições	4419,519,5333,1290,369,218,3211,335,447
+Comissão Nacional de Eleições	4419,519,5333,1290,369,218,3211,335,447,868
 Comissão Nacional de Eleições. ARTIGO	11528
 Comissão Nacional de Eleições. ASSEMBLEIA DA REPÚBLICA	12772
 Comissões Municipais Eleitorais	539
@@ -38,7 +38,7 @@ Comissões de Recenseamento Eleitoral	16022,119
 Círculo Eleitoral	11528,33
 Círculo Eleitoral Nacional	539,10826
 Círculo Nacional Eleitoral	539
-Código Eleitoral	11930,3429,335
+Código Eleitoral	11930,3429,335,1589
 Código Eleitoral-	15694
 Código Eleitoral. Artigo	15359
 Código Eleitoral. Isso	11930
@@ -55,7 +55,7 @@ Eleitoral A Direção Geral	15470
 Eleitoral Oficioso	9399
 Eleitores	11561,587
 Eleições	2315,129,509,577,2027,15,247,821,4888,33,378
-Eleições Gerais	10772,593,60
+Eleições Gerais	10772,593,60,5584
 Eleições Legislativas	15404,737
 Eleições’26	2315,129,1086,2027,15,247
 FINANCIAMENTO ELEITORAL	11528
@@ -78,7 +78,7 @@ Lei da Observação Internacional Eleitoral	11528
 Lei de Observação Eleitoral	5791
 Listas de Recenseamento Eleitoral	11528
 MODO DE RECENSEAMENTO ELEITORAL	11528
-Mapa Global de Eleitores Inscritos	16320
+Mapa Globais de Eleitores Inscrito	17283
 Marcação da Data de Eleições	11561
 Missão de Observação Eleitoral da União Europeia	3530
 Nacional de Eleições Lista	11544
@@ -89,7 +89,7 @@ PERíODO DE RECENSEAMENTO ELEITORAL	11528
 PROCESSO ELEITORAL	11528
 PROPAGANDA ELEITORAL	11528
 Presunção de Capacidade Eleitoral	11425
-Processo Eleitoral	10114,157,1257,33,422,4337
+Processo Eleitoral	10114,157,1257,33,422,5026,274
 Processo Eleitoral C N D H	6530
 Príncipe Eleições	2315,129,1086,2027,15,247
 RECENSEA MENTO ELEITORAL	11561

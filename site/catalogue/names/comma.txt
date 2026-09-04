@@ -43,6 +43,7 @@ COMMANDES ET ESSAIS GENERAUX	16103
 COMMANDES PARTIELLES	16747
 COMMANDEUR DADET UGP Responsable Sauvegarde	16012
 COMMANDING OR PROCURING TO COMMIT OFFENCE	11190
+Chain of Command	17344
 Chronos des COMMANDES	10975
 Comma	8021
 Comma Inside	5390
@@ -81,12 +82,12 @@ Commande des MII	13513
 Commandement	16143,238
 Commandement Supérieur	3604
 Commandements	16117
-Commander	11517,1031,2135
+Commander	11517,1031,2135,2441
 Commander-in-Chief	13948,1415
 Commandes	16747
 Commandes Publiques	16160,178
 Commandez	14683
-Commands	8278
+Commands	8278,8739
 Commas	14670
 Commentaires Securite Commandement	4960
 Common Internet File System CLI Command	13185
@@ -120,6 +121,8 @@ GE-GQG Commandants	16100
 GROUPEMENTS DE GENDARMERIE Commandant OMAMBI	16100
 General Commander	14998
 Grand Commander	11925
+Guinea Bissau Guinea-Bissau's High Military Command	17095
+Guinea-Bissau’s High Military Command	17095
 HOL Danab Commandos	3610
 Haut Commandement	16143
 ICT Command Center	13987

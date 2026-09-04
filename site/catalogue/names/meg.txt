@@ -17,6 +17,7 @@ Djamel Meghit	15410
 ENIPEC MEGA Batna Tannerie de Jijel Révision	16103
 El Meghaier	15608,82,42,131,80,401
 El Meghaier. Décret	15608
+Energy MW Megawatt PURC Public Utility	16978
 Este Mega Sistema	1701
 Este Mega-Clúster	1701
 Formerly Nipol Mega Empire Limited	3862
@@ -30,6 +31,7 @@ International Bandwidth Usage Megabits	14836
 KM Kilometres MBPS Megabits	12973
 Kenya. The EcoCloud-G42 Mega Data Center	1639
 LTE Long Term Evolution MB Megabytes	6671
+LTE Long Term Evolution Mbps Megabits	16885
 LTM Last Twelve Months Mbps Megabits	1818
 Laboratoire National de Transfusion Sanguine MEG	15685
 Lebanon and Syria Max Maximum Mbps Megabits	2775
@@ -49,6 +51,8 @@ MEGAGA	15692
 MEGATRENDS UNDERGIRDING THE ESWATINI FINTECH STRATEGY	12444
 MHz Mega	12973
 MHz Mega Hertz MIA Moi International	2775
+MHz MegaHertz MMS Multimedia Messaging Service	16885
+MHz MegaHertz MOBSE Ministry of Basic and Secondary	16884
 MNO Mobile Network Operator MW Megawatt	718
 MV Medium Voltage MW Megawatt NCB	15659
 MW Megawatt NDP National Development Plan	12399
@@ -61,7 +65,7 @@ Machine Mbps Megabits	6946
 Managed Service Provider MW Megawatts NDC	10781,1646,2055
 Management Card Personalization Printing ABIS Mega	13005
 Marine Megafauna Conservation Organisation	11332
-Mbps Megabits	6671,6240
+Mbps Megabits	6671,6240,3973
 Mbps Megabyte	14674
 Meeple S.r.l. MEGASTAR S.L. Minio Studio	8530
 Meg Whitman	1038
@@ -89,15 +93,16 @@ MegaEdu	899
 MegaEdu26	899
 MegaMatcher	13005
 MegaMore Wireless Broadband Ltd	3862
-Megabit	15621
+Megabit	15621,1262,2
 Megabits	3456,1232,1312,1877,3334,1325,138,243,1919,494
 Megabits-per-second	11085
 Megabyte	15513,40
 Megabyte Aprili	2868
 Megabyte Juni	2868
+Megabyte MDAs	16872
 Megabyte MNOS	14879
 Megabyte Mbps	6000
-Megabytes	236,4038,1726
+Megabytes	236,4038,1726,10883
 Megadeals	10954,1385
 Megahertz	736
 Megamore Wireless Broadband Ltd	3862
@@ -106,6 +111,7 @@ Megaports	2591
 Megaprojects	11223
 Megateli El Mahfoud	16171
 Megatrend Global Impact Opportunity for Eswatini AI	12444
+Megatrends	17364
 Megawatt	10451,1611,2805
 Megawatt Complex	12515
 Megawatt Hours NELSAP	12358
@@ -134,6 +140,7 @@ Provider MW Megawatts OEM Original Equipment	10861
 RAMESH MEGHI SHAH Data Processor	7167
 SODIUM ET DE MEGLUMINE ENDOCRINOLOGIE ET	15930
 Spectrum MW Megawatt MWK Malawi Kwacha	14674
+Term Evolution Mbps Megabits	16883,59
 Twelve Megawatts of IT Load	1245
 Twenty-Four Megawatts of IT Load. Campus	1245
 Yitu and Megvii	2518

@@ -8,12 +8,14 @@ Africa MGA Microfinance Guarantee Agency MFI	14897
 Agencies MFB Ministry of Finance and Budget MFD	3604
 Agencies MFBPE Ministère des Finances	13331
 Agencies MFD Maximizing Finance for Development MPA	6539
+Agencies MFDP Ministry of Finance and Development Planning	17114
 Agencies MFI Microfinance Institution MIS Management	13312,2
 Allan Gray Ventures and Endeavour. MFS Africa	606
 Alphabétisation. MF	15673
 Among MFIs	14997
 André Mfinda	4979
 Annie Flore MFOULA NGHANGY	16099
+Annual Economic Review Survey and Report MFDP	17116
 BANKS MFIs NDFSPs SACCOs	15130
 BANKS MFIs SACCOs	15130
 BANKS MFIs SACCOs Mobile	15130
@@ -28,10 +30,13 @@ Banks and MFIs	15023
 Body BY MFANUFIKILE KHATHWANE EZULWINI	13066
 Body PGR E MF FIRMAM MEMORANDO	12798
 Broken Promises of MFIs	12231
+Bundle MFDP	17260
 Burundi MFBEN	3164,1,1,1,1
 Burundi MFI Network	13314
 CANEVAS-RAPPORT MFBEN 2025-2026 T3.xlsx	3164,1,1,1,1,4
+CBL and MFDP	17030
 CMO Faye Mfikwe	1590
+CSA and MFDP	16970
 Capital Adequacy Ratio for MFIs	15023
 Carine MOULOUNGUI MFOUBOU	16099
 Classe M F MF M F	10766
@@ -43,8 +48,12 @@ Classe MF M F Bacharelato MF	10766
 Classe MF M F MF M	10766
 Classe MF M F N.º	10766
 Classe MF M F Novos	10766
+Code MFDP Ministry of Finance and Development Planning	17011
 Codes MFP Mutuelle	13306
+Collection MFDP Ministry of Finance and Development Planning	17116
+Committee Deputy Minister for Economic Management MFDP	16949
 Communication Mfanfikile Dlamini Chief Operations Officer	11131
+Comptroller and Accountant General of MFDP	16949
 Comunicação MFFE	15526
 Control and Mobilising Management System The MFRS	14738
 Court Elevée MFB	15474
@@ -53,6 +62,8 @@ DGIS of MFIS. DGIS	11855
 DNS MFIDS	15694
 Data Annual Collection Collection MFIS and Municipalities	11855
 Departments and Agencies M&E Monitoring and Evaluation MFD	1264
+Departments and Agencies MFDP	16872
+Deportes MFPRA Ministerio	16898
 Disseminate MFS	14777
 District de Mfouati	15615
 Dodoma. Mfumo	3085
@@ -91,7 +102,9 @@ Firefighting Appliances and Equipment The MFRS	14746
 Fleet and Equipment Management System The MFRS	14738
 Flutterwave MFB	9150
 Fulgence MFUMUANGANI	15458
+Giumma YOUSEF Abdalrauf Rmadan Mftah ABOSITTA	17403
 Google CSIR Icasa Luzangu Mfupe Paul	6365
+Governance Infrastructure Master TBD Legislature MFDP	17260
 Government of Cabo Verde. MFIS	11855
 Henock Mfouapon	10970
 Hôpital Mfilou Antenne	16552
@@ -118,6 +131,8 @@ Kuandaa Mfumo	3509
 Kuhuisha Mfumo	2868
 Kuunganisha Mfumo	2868,3151
 L'objectif du MFBEN	13555
+LRA and MF	17011
+LRA and MFDP	16853,158
 Le MFB	15474
 Legal Operational Policies No MFD	16032
 Liberia Revenue Authority MND MFDP Monitoring	16144
@@ -129,9 +144,11 @@ Lusungu Mfune	3791
 Luzangu Mfupe	6365
 M Series C for MFS Africa	606
 M. Mfouatie	5905
+MACs MFDP	17260
 MDAs MEPSIR MFD MICS MNO MoF	15553
 MDAs. The MFB	969
 MDGs Millennium Development Goals MFIS Ministry	11855
+MDIs Microfinance Deposit-Taking Institutions MFDP Ministry	17235
 MF ARAB Anouar Ministère	15472
 MF DGIS	15694
 MF M	10766
@@ -204,6 +221,22 @@ MFD-centered	15553
 MFD-e	16144,240
 MFD-e. II. PROJECT DESCRIPTION	16384
 MFD-enabling	15553
+MFDP Cutting	17260
+MFDP Final Budget10	16943
+MFDP Fiscal Policies	16970
+MFDP Focus	17260
+MFDP Increased	17139
+MFDP MFDP	16848
+MFDP Mr. Matthias Yeana Facilitator	16857
+MFDP Programme Pillar	17260
+MFDP Regulations	16970
+MFDP Vision	17260
+MFDP Year	16872,388
+MFDP and CBL. The IMF	17364
+MFDP and IMF	17257
+MFDP and LRA	16983,28
+MFDP and Legislature	17116
+MFDP’S of Finance	17364
 MFDcentered	15553
 MFEP ACHOUR Nabil SONATRACH	15472
 MFEP SADEK Houari MINISTERE DES RELATIONS	15472
@@ -251,6 +284,7 @@ MFIs and SACCOs	14997,133
 MFIs-PLCs	15023
 MFIs. F. Sustainability	13938
 MFIs. Indirect	12490
+MFIs. Members	17104
 MFIs. Potential	16384
 MFIs. The CIASA	14897
 MFIs.15 MFIs	13388
@@ -267,7 +301,7 @@ MFOUMOU MAKITA	15901
 MFP. Défis	13390
 MFPMA	1536,10380,4020
 MFPMA and MAS	11916
-MFPRA	15661,17
+MFPRA	15661,17,1220
 MFPRA Ministère	15661
 MFPRA and MFB	15661
 MFPRAME	15371
@@ -285,7 +319,7 @@ MFRS MFRS	14738,8
 MFS Accessibility	14777
 MFS Accessibility Alignment	14777
 MFS Accuracy and Reliability	14777
-MFS Africa	501,105,2027,144,9183,3533
+MFS Africa	501,105,2027,144,9183,3533,1742
 MFS Alignment	14777
 MFS Monetary and Financial Statistics MFSM	14777
 MFS Serviceability	14777
@@ -310,15 +344,19 @@ MFWA Executive Director	9960
 MFWA Sulemana Braimah	9960
 MFWA-commissioned	10297
 MFmyXiB4PazsTzWL	4434
+MIA MFDP	16872
 MICROFINANCE INSTITUTIONS MFIs	13388
 MINCOTIM and MFBPE	1284,12047
 MM. KIBINGA MFUDI	15744
+MME and MFDP	17257
 MMOs and MFIs	12269
 MMOs and MFIs. The BRB	13388
+MOA MFDP	16848
 MOPT MFDP	1777
 MPT Court Elevée MPT and MFB Moyen	15474
 MPT Moyen Moyenne MFB	15474
 MSA and MFMA	11248
+MTFESS MFPRA	16898
 Malanje Moxico Namibe Uíge Zaire MF	10766
 Malindi Mfazi	6151
 Management Information System MFD Maximizing Finance	15659
@@ -333,6 +371,7 @@ Mfano Zanzibar	8615
 Mfanufikile Khathwane	12437,36
 Mfanukhona Nkambule	13016
 Mfffr	15584
+Mfg. Goods	17235
 Mfila	15395,705,77
 Mfilou	15379,16,163,222,320,267
 Mfilou Antenne	16552
@@ -360,9 +399,12 @@ Ministère de MFPMA and MESU	11916
 Mme Brunelle Estimée MFOUBOU MAPALI	16175
 Mme LEBALY MFIRA	16274,182
 Mme MFOUBOU MAPALI Brunelle Estimée Service	16099
+Move MFDP	17260
 Moxico Namibe Uíge Zaire MF	10766
+Mr. Ivan L. Hart MFDP Ms	16857
 Mr. Mfanfikile Dlamini	11131,3
 Ms. Diana Elvie MFONO HOUNGLA	16285
+Municipal Capacity Assessment Tool MFDP Ministry	16970
 Módulo MFL	12863
 NBR MFIs	15130
 NBR X Improve MFIs	15130
@@ -383,6 +425,7 @@ Outgoing Nedbank COO Mfundo Nkuhlu. Outgoing	9366
 PAFEN’s Steering and Technical Committees. MFBPE	1284
 PAM MFA	10617
 PIU MFBPE ARCT MFPTE MINSOLID Technical	1284
+PPP MFDP	17260
 PRCs and MFIs	16384
 PS of MFBPE	13331
 Paystack MFB	3378,9895
@@ -419,7 +462,9 @@ Público-Privado MF M	10766
 RANG LIGNE MF	13300
 RIM. While MFIs	13314
 Raphael Mforlem	10994
+Reduce MFDP	17260
 Related MFBEN FY2025	3167
+Reporting MFDP Ministry of Finance and Development Planning	16943
 Reporting and Learning MFA Ministry of Foreign Affairs	7548
 Revised Implementation Arrangements PM MFBPE SETIC	1284
 SACCO MFI	418
@@ -437,9 +482,12 @@ Strengthen MFIs	15130
 Strengthen MFS Statistics	14777
 Strengthen the MFI	15130
 Strengthening the Recipient’s Social Protection Systems MFIS	11855
+Subempleo MTFESS MFPRA	16898
+TBD Yes Annual MFDP	17260
 Technology IFC International Finance Corporation MFI	13347
 Uíge Zaire MF	10766
 VII Mfilou-Ngamaba	15379
+Water and Sewer Corporation MFDP Ministry of Finance	17260
 West and Eastern Africa. MFWA	5485
 Williams College Massachusetts Mfanfikile Dlamini	11134
 World Bank’s MFD	16144

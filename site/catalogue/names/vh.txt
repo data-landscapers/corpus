@@ -5,6 +5,7 @@ BB401 Antenne VHF Tour Antenne	16552
 Band VHF Alarm	6946
 Barbuda High EGDI M-OSI H-HcI VH-TII	10840
 Deported VHF	16552
+Duplex VHF Fixed D10	17250
 E OMNI VHF NIG-MOT-DM4-ARCEP- Conforme	998
 EGDI M-OSI H-HcI VH-TII Europe Antigua	10840
 EGDI M-OSI VH-HcI M-TII Oceania	10840
@@ -40,6 +41,7 @@ Seychelles High EGDI M-OSI H-HcI VH-TII	10840
 Sydney Very High EGDI VH	10840
 TRO UNICEF USAID VHB VIH VOP	10777
 Tetrapol IDR Tetrapol Handheld Whip VHF	998
+United Nations VHS Village Health Service	16896
 VAT Value-Added Tax VHF Very High	6946
 VH Victoria Hospital MCH Maternal and Child	14773
 VH-HcI VH-TII Europe Algeria High EGDI	10840
@@ -49,8 +51,10 @@ VH-TII Americas Dominica High EGDI M-OSI	10840
 VH-TII Americas Monaco High EGDI M-OSI	10840
 VHF D RAPPORT ANNUEL	998
 VHF D SONIDEP	998
+VHF Fixed	17250
 VHF GSP-MOT-DP2-ARCEP- Conforme IC-F5000	998
 VHF PMR Fixed	6946
+VHF Stations MMSI Allocation Callsign Allocation	17250
 VHF Very	11380
 VHF Very High Frequency VoIP Voice	2775
 VHF. Ainsi	13301

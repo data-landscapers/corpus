@@ -9,7 +9,9 @@ Africa Digital ID Hackathon	7064
 Agentic AI Hackathon	5327
 Ali AOUN Pour le Gouvernement du Royaume Hachémite	15732
 Andreas Hackl	12227
+Anual Ministerio de Hacienda	16898
 B1 HACIENDA CMF	4209
+BANCO AFRICANO MINISTERIO DE HACIENDA	16930
 Bingo Hackathon	13314
 Burcu Hacibedel and Hector Perez-Saiz	4127
 C1 HACIENDA CMF	4209
@@ -26,6 +28,7 @@ Cheesman and Hackl	12227
 Clases Pasivas Ministerio de Hacienda	4209
 Conduct Hackathon for Girls	12241
 Cornelius Hacking	1679
+Cyber Security and Ethical Hacking	17437
 D1 HACIENDA CMF	4209
 D2 HACIENDA CMF	4209
 D3 HACIENDA CMF	4209
@@ -38,7 +41,8 @@ EL HACEN	5983
 ESATIC FER FIRCA GUCE HACA ISTC	15936
 ESWATINI Innovation Hackathon UNESWA	12361
 El Hachemi Benmouhoub	15456
-El Ministerio de Hacienda	4209
+El Ministerio de Hacienda	4209,12695,118
+El Ministerio de Hacienda Presupuestos	17415
 El Ministro de Hacienda	4209
 Eswatini Innovation Hackathon	12361
 Eswatini.The Eswatini Innovation Hackathon	12361
@@ -50,12 +54,13 @@ GovTech Hackathon	12391
 Government Hackathon	5322
 HAC Humanitarian Aid Commission	15220
 HAC. Il	3348
-HACCP	13290,224,1222,82
+HACCP	13290,224,1222,82,2082
 HACCP Manual	14818
 HACCP-749-2010.pdf	13514
 HACCP-ready	14818
 HACHIMOU Hassane RAPPORT ANNUEL	998
-HACIENDA	4209
+HACIENDA	4209,12892
+HACIENDA ANALIZA LAS REFORMAS ESTRUCTURALES	17321
 HACIENDA CMF	4209
 HACIENDA CMF A2 HACIENDA CMF ACTUAL	4209
 HACIENDA CMF A3 HACIENDA CMF CUOTA	4209
@@ -70,19 +75,20 @@ HACK4Peace	14163
 HACKATHON	15460
 HACTU	14039
 Hacene Maz	15410
-Hacer	1701
+Hacer	1701,15197,67
 Hachalu Hundessa	2117
 Hachette UK. Morozov	11050
 Hachmaoui Bahidj Eddine	16230
-Hacienda	4209,3839,330,3365,332,2190
+Hacienda	4209,3839,330,3365,332,2190,2641,75,263,75,54
 Haciye	13300
 Hack4SDGs and PALOP Innovation Journey	11546
 HackJos	2339
-Hackathon	2096,3517,424,918,5406,1460,734,197,798
+Hackathon	2096,3517,424,918,5406,1460,734,197,798,1392
 Hackathon Competition	13021
 Hackathon Cybersecurity	1989
 Hackathon IA	7649
 Hackathon Live Show	12881
+Hackathon Open Data	17484
 Hackathon She Leads Digital	16244
 Hackathon Simandou	16674
 Hackathon Wamanga	13821
@@ -122,11 +128,16 @@ MZUNI’s IDT4M Hackathon	13095
 Mamady KEITA HAC Commission	16620
 Margie Cheesman and Andreas Hackl	12227
 May. Tirat Hacarmel	1741
+Medio Ambiente MHPDE Ministerio de Hacienda	16969
 Mientras Hacienda	12075
-Ministerio de Hacienda	1701,2508,2632,1207,330,924,1185,1588,2140
+Ministerio de Hacienda	1701,2508,2632,1207,330,924,1185,1588,2140,2644,16,18,5,6,21,5,12,48,32,51,16,170,3,59,21,72,8
+Ministerio de Hacienda Envio	16990
+Ministerio de Hacienda URL	16990
+Ministerio de Hacienda. En	17415
+Ministerio de Hacienda. Excepcionalmente	17022
 Ministra Delegada de Hacienda	9302,1059
 Ministro de Estado de Hacienda	10361
-Ministro de Hacienda	4209
+Ministro de Hacienda	4209,12716
 Mountasser Hachem	9610
 Mr. Mohamed Ben Hachem	15886
 Mº HACIENDA	4209
@@ -137,11 +148,16 @@ National Open Data Hackathon	12608
 National Open Data Hackathons	12608
 Open Data Hackathon	5613,6995
 Open Data Hackathons	12608
+PIB No Registros Ministerio de Hacienda	16898
 Patel Hachitema	9792
 Prime Minister Ahmed Hachani	1688
 Proyecto Hacienda Educa	4209
 PÚBLICO MINISTERIO CONCEPTO MINISTERIO CONCEPTO HACIENDA	4209
 R. Hackney	5349
+Realizado Hacer	16898
+Reforma Administrativa MHEP Ministerio de Hacienda	16898
+Registros Anual Ministerio de Hacienda	16898
+Registros Ministerio de Hacienda	16898
 Royaume HachÈmite de Jordanie	15410
 Rue Moulaye El Hacen Ould MOCHTAR	5983
 SAF’s HAC	6947
@@ -149,6 +165,7 @@ Secretaria de Estado de Hacienda	1855
 Secretario de Estado de Hacienda	1855,8506
 State of Eritrea HAC Hamelmalo Agriculture College	13960
 Support for Open Data Hackathons and Forum	12608
+Sí Registros Ministerio de Hacienda	16898
 T-I18-2 AI Competitions and Hackathons	15713
 TB Hack Claim Secondary	5146
 Technical Working Group HAC Humanitarian Aid	6947
@@ -156,8 +173,9 @@ Tirat Hacarmel	1741
 Transferencia de Créditos El Ministro de Hacienda	4209
 UMC Data Hackathon	11424
 UNESCO-India Africa Hackathon	13562
-UNESCO-India-Africa Hackathon	11579,782
+UNESCO-India-Africa Hackathon	11579,782,4879
 UNESCO-India-Africa Hackathon UNESWA	12361
+Viceministro de Hacienda	16990,331
 Website Hacking	3214
 Will Hack	3279,85
 Women’s Hackathon	16679

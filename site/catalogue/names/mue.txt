@@ -1,3 +1,4 @@
+Administrativos Corporaciones Locales Muertes	16898
 Aveugle Sourd Muet Infirme des Infirme des DéfiSourd-	13442
 BERNARD MUTUA PETER MUENI Data Processor	7167
 Brenden Kuerbis and Milton MuellerGeneral Across	6562
@@ -5,6 +6,7 @@ Dr. Claire Mueni Ngeta	7167
 Everlyn Muendo	9162
 Luanda CÂNDIDO MUETCHENO FERNANDO	10751
 L’Association Nationale la Main des Sourds Muets	10826
+Masculino Femenino Nacidos Vivos Muertes Fetales	16962
 Milton Mueller	6562
 Mme Yannick Emma Darnelle OGANDAGA MUENTSOUA	16175
 Mueda	6775
@@ -19,9 +21,17 @@ Muela and Eskom	12767
 Mueller	7789
 Muellerleile	2096
 Muellerleile and Robertson	2096
-Muerte	4209
+Muerte	4209,12753
+Muerte Súbita	16962
+Muertes	16962,7
+Muertes Fetales	16962
+Muestreo	16875
 Muets	10826
 Muez Ali	15220
+OYANA Muestreo	16898
+Periodo Nacidos Vivos Muertes Fetales	16962
+Periodo Nacidos Vivos Total Muertes Fetales	16962
+Provincia Periodo Nacidos Vivos Total Muertes	16962
 Reuben Mueni	6946
 Sourd Muet	13442
 Valerie Mueller	14017

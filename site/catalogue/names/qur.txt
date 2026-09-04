@@ -1,12 +1,12 @@
 Ali Nadeem Qureshi	14976,83,131
 Ali Qureshi	15006
-Holy Quran	15656
+Holy Quran	15656,1196
 Integrated Quranic School Policy	14971
 Integrated Quranic Schools Policy	14971,16
 M. QURESHI AHMEDHUSAIN ABDULLAH	15455
 Professor Ismat Qurashi	15142
 Quran	14896,708
-Quranic	14896,75
+Quranic	14896,75,1881,22
 Quranic School	11857
 Qurashi	15142
 Qurashi Abdullah	9587
@@ -15,3 +15,5 @@ Qureshi	8603
 Quro Medical	4972
 Qur’aanka	14859
 Qur’an	13122
+Qur’anic	16951
+Standardised Quranic Scripts	16852

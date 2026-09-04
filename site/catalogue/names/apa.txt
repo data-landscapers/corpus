@@ -6,7 +6,7 @@ APA Microinsurance Limited Data Controller INST-867024BA45F	7167
 APA Microinsurance Limited Data Processor INST-867024BA45F	7167
 APA News	3713,110,4067
 APA OFIC	11544
-APA Reliance	1228
+APA Reliance	1228,15668
 APA-Abidjan	7890
 APAC AI	8263
 APACE	4941
@@ -38,12 +38,13 @@ Apapa Area Command	8278
 Apapa Port	10620,69
 Aparatos	9543
 Aparatos Diversos	4209
+Aparecen	16871
 Aparelho	12789
 Aparelho de Estado	12770
 Aparición	1701
-Apart	36,270,652,32,258,13,666,501,497,56,565,37,175,434,22,682,136,366,19,76,103,106,553,33,211,102,50,580,64,149,102,132,73,156,207,346,145,635,11,447,615,506,169,205,385,378,8,42,84,95,23,48,113,3,41,499,5,24,37,317,64,27,1,74,518,281,111,389,136,101,59,25,392,7,38,1131
+Apart	36,270,652,32,258,13,666,501,497,56,565,37,175,434,22,682,136,366,19,76,103,106,553,33,211,102,50,580,64,149,102,132,73,156,207,346,145,635,11,447,615,506,169,205,385,378,8,42,84,95,23,48,113,3,41,499,5,24,37,317,64,27,1,74,518,281,111,389,136,101,59,25,392,7,38,1131,203,15,5,44,31,3,20
 Apart Without Change	7471
-Apartado	11518,1,8,17,25
+Apartado	11518,1,8,17,25,5350
 Apartheid	7751,5710
 Apartheid South Africa	5822
 Aparthotéis	11458
@@ -54,6 +55,8 @@ Apasu	8724
 Apatride	16636
 Apatrides	10920,2440,2605
 Apatrides Organisation	13442
+Apatridia	17323
+Apatridie Publish	17323,1
 Autorité Nationale des Elections APAI-CRVS African Programme	15415
 Bridgetown Apartado Postal	11563
 CENTRAL APA-Kinshasa	16570
@@ -73,6 +76,7 @@ GOVERNANCE APA	9966
 Ghana. Apasu	8724
 GoC. Apart	15553
 Government. Apart	11854
+Grievance Mechanism Apart	17099
 Hadoop and Apache	13021
 Items of Information and Related Concepts Apart	12445
 Jean-Paul Apata	9923

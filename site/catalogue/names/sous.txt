@@ -14,6 +14,7 @@ Accra. Sous	16531
 Acheteur Sous	13524
 Administration Publique Sous le Haut Patronage du Président	2960
 Administration Sous-section	14431
+Agostinho Sousa Cordeiro. Após	17315
 Amadou Oury Bah. Sous	16687
 Anosy. Sous	14580
 António Freitas de Sousa Desporto	4938
@@ -75,6 +76,7 @@ Code du Travail. Sous-section	1231
 Colline A04 Sous	13390
 Comité Sous-préfectoral de Gestion Foncière Rurale	10936
 Communication Sous	14537
+Comodoro Agostinho Sousa Cordeiro	17315
 Congo. Sous-section	16047
 Construção Centro Ambulatório Hospital Baptista de Sousa	15689
 Câbles Sous Marins	16641
@@ -339,7 +341,7 @@ Sous-comp	16012
 Sous-comp6.2	16012
 Sous-composante	15746,208,58,669
 Sous-compte de Transit des Recettes Non Fiscales	13524
-Sous-directeur	10975,4450,245
+Sous-directeur	10975,4450,245,1778
 Sous-directeur Afrique	16633
 Sous-directeurs	10975,4450
 Sous-direction	10975,4450
@@ -390,10 +392,11 @@ Sous-secteur TRANSPORT	15542
 Sous-secteur Transports	15542
 Sous-secteur des TIC Responsable	13290
 Sous-secteurs	2342
-Sous-section	1231,13200,930,10,5,58,99,145,69,33,240,27,128,2,58,36
+Sous-section	1231,13200,930,10,5,58,99,145,69,33,240,27,128,2,58,36,1168
 Sous-section I1	16177
-Sous-section III	15361
-Sous-section IV	15361
+Sous-section II	17439
+Sous-section III	15361,2078
+Sous-section IV	15361,2078
 Sous-section V	15361
 Sous-sois	15999
 Sous-système	15475,120,998
@@ -413,14 +416,14 @@ Sous-utilisation	737,6918
 SousJroilonl Toute	15429
 SousRubrique	13681
 Sousa	10718
-Sousa Fernandes Semedo	16549
+Sousa Cordeiro	17315
 Sousa-Zomer	2093
-Souscription	15747,575,73
+Souscription	15747,575,73,1090
 Souscriptions	15456
 Souscrire	15637
 Souscrivez	10996,5407
 Souss Massa	6924
-Souss-Massa	8891,515
+Souss-Massa	8891,515,8092,4,8
 Souss-Massa Massa	8891
 Sousse	7649
 Soussigné	13524

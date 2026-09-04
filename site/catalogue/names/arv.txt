@@ -1,7 +1,11 @@
 AF ALCP Anti-HBc ARV BCG CAPI	10777
 ART ARV BSC BSL	4153
+ART Anti- Retroviral Therapy ARVs Anti-retrovirals	16935
+ART Anti-Retroviral Therapy ARV Antiretroviral CHA	16971
 ARV AWaRe CHU BAD BNGRC COUSP	14622
 ARV Antirétroviraux ATACH Alliance	15724
+ARV Prophylaxis	16971
+ARV Prophylaxis Children	16971
 ARV Sepl	4301
 ARV Services	12379
 ARV for Adult Treatment	4167
@@ -12,6 +16,7 @@ ARVs for Adult Treatment	4260
 ARVs for Infant Prophy	4260
 ARVs for Pediatric Treatment	4260
 Abbreviations AFENET Africa Epidemiology Network ARV	12379
+Acquired Immune Deficiency Syndrome ARV	16951
 Approved By Thanos Arvanitis	15029
 Arvesen	15553
 Arvind Gupta	6423
@@ -29,4 +34,4 @@ Jean-Francois Arvis	11149
 LISTE DES ABREVIATIONS ARV	15685
 Shri Arvind Kaushal	16256
 Soins de Santé Primaires ARV	15475
-Yannis Arvanitis	11545
+Yannis Arvanitis	11545,5925

@@ -18,11 +18,15 @@ EPS Fintech GDP GT HC HRH	11131
 ESEC EC EDS FOSA HC HD	15599
 Education Morale HCJRPTDJ	15848
 Epidemiology Training Program HC Health	12379
+Equatorial Guinea’s HCI	16996
 Evaluation of Research and Higher Education HCI Human	14747
 GAHAR and HCO	16079
 GDP GSMA GUOT HCI HEIS ICB	15553
+GHz Gigahertz HCI Human Capital Index	16885
 GT HC Foreign Exchange Gross Domestic	11134
+Geographic Information Systems HCT HIV Counseling	16935
 Graduation Ratio HCERES High Council	14747
+Grievance Redress Service HCI Human Capital	16896,562
 Guiné-Bissau HCI	11569
 HC Ill	4217
 HC Project	15661
@@ -39,6 +43,7 @@ HCI Cluster	13185
 HCI Data Protection	13185
 HCI Human Capital Index	15059
 HCI Human Capital Index HDI Human	15244
+HCI Human Capital Index ILO International	16996
 HCI IBM IBRD ICASEES IDA IGF	15658
 HCI Nodes	13185
 HCI Platform	13185
@@ -61,10 +66,12 @@ HCP. Activité	8891
 HCP. Budget	8891
 HCP. Comptes	8891
 HCP. Enquête	8891
+HCP. Je	17474
 HCP. L'Indice	8891
 HCP. Lutte	8891
 HCP. Op. Cit	8891
 HCPETR-CI	15936
+HCR Afrique	17323,1
 HCR Burundi	13669
 HCR Haut-Commissariat des Nations Unies	15724
 HCR Human Capital Review	15059
@@ -91,13 +98,19 @@ Hcr Description	15129
 HculmudanincgapGitaolvfleigrhnta	15713
 Huawei’s HCCDA-Tech Essentials	15818
 Implement the HCDM	15059
+Index HCP High Commission for Planning HD	17458
+Index HCW Healthcare Waste HMIS Health	16896
 Inspecteur Général du HCR Case Postale	13360
 Karamagi HC	14666
 Kimaro HC	14666
 Le HCDH	15965
 Le HCN	7185
-Le HCP	7655
+Le HCP	7655,9819,35
+Le HCR	17323,1
+Liberia HCI Human Capital Indexes ICESCR	17114
+Malaria HCT HIV Counseling and Testing HIV	16971
 Mentorship for HCW	2477
+Morocco’s HCI	17458
 Médio HCI	11569
 NOUVELLEs DONNÉEs DU HCP	7655
 OSI LOSI TII HCI EPI	10840
@@ -125,3 +138,4 @@ UN HCR	10841
 Under the HCP	16187
 Upgrade Kitagwenda’s Ntara HC IV	16797
 Vive le HCR	16746
+Work HCI Human Capital Index ICT	16876

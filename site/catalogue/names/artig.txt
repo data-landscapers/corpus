@@ -3,7 +3,7 @@ ABERTOS Artigo	11461
 APD. Artigo	167,577
 ARN. ARTIGO	11519,1
 ARN. CAPÍTULO IV AUTORIZAÇÃO GERAL ARTIGO	11520
-ARTIGO	539,37,2943,7230,616,60,5,1,14,13,3,52,1,4,1,1,7,1,2,39,1205,1,7,1,6,64
+ARTIGO	539,37,2943,7230,616,60,5,1,14,13,3,52,1,4,1,1,7,1,2,39,1205,1,7,1,6,64,4247
 Abril. Artigo	5169,1293
 Administrador Executivo. Artigo	430
 Administração Pública Artigo	11461,3897
@@ -15,13 +15,16 @@ Agência Angolana de Protecção de Dados. Artigo	430
 Agência de Protecção de Dados. ARTIGO	539
 Agência de Protecção de Dados. Artigo	14,1,779
 Agências de Artigo	15526
+Ambiente. Artigo	17100
 Angola. ARTIGO	3519
 Análise. Artigo	167
 Aquisições. Artigo	15755
 Artigle	13719
-Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508,3777,2,5,1,1,16,11,575,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,2,2,3,1,2,8,1,4,10,6,5,1,2,3,2,5,2,4,3,3,2,1,3,6,49,2,1,1,8,4,5,5,27,5,8,319,117,293,459,2,1,1,1,2,5,2,1,3,35,30,2491,14,1,21,5,6,1,4,8,29,7,10,27,26,1,5,17,6,40,117,5,61,157,43,64,3,34,33,33,16,81,157
+Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508,3777,2,5,1,1,16,11,575,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,2,2,3,1,2,8,1,4,10,6,5,1,2,3,2,5,2,4,3,3,2,1,3,6,49,2,1,1,8,4,5,5,27,5,8,319,117,293,459,2,1,1,1,2,5,2,1,3,35,30,2491,14,1,21,5,6,1,4,8,29,7,10,27,26,1,5,17,6,22,18,117,5,61,157,43,64,3,34,33,33,16,81,157,639,85,86,225
 Artigo Científico	11385
-Artigos	9799,1637,4041,217
+Artigo Etiquetas Avisos	17300
+Artigos	9799,1637,4041,217,1406
+Artigos Licença	17100
 Artigos Medicos	4260
 Artigos Médicos	12800,63
 Assembleia Geral. Artigo	15391
@@ -44,6 +47,7 @@ Bases de Dados Artigo	6970
 Biblioteca. Artigo	15358
 Bilhete de Identidade. Artigo	12775
 CABO VERDE E INTERVENIENTES Artigo	15440
+CAP Artigo	17300
 CAPITULO I DISPOSIÇÕES GERAIS Artigo	16138
 CAPÍTULO I APROVAÇÃO DO ORÇAMENTO Artigo	16022
 CAPÍTULO I DISPOSIÇOES GERAIS ARTIGO	11518
@@ -81,13 +85,16 @@ CAPÍTULO V AUTARQUIAS LOCAIS Artigo	16022
 CAPÍTULO V COMUNICAÇÕES ELECTRÓNICAS Artigo	15
 CAPÍTULO V DISPOSIÇÕES COMUNS ARTIGO	11520
 CAPÍTULO V DISPOSIÇÕES FINAIS Artigo	14,15490,408
+CAPÍTULO V EXECUCAO ORÇAMENTAL ARTIGO	17100
 CAPÍTULO V Estatística Artigo	12785
 CAPÍTULO V Fundo de Segurança Cibernética Artigo	6970
 CAPÍTULO V PESSOAL E ORGANIGRAMA Artigo	167
 CAPÍTULO V Publicidade Institucional Artigo	16122
 CAPÍTULO VI CONSIGNAÇÃO DE RECEITAS Artigo	16022
+CAPÍTULO VI DISPOSICOES FINAIS ARTIGO	17100
 CAPÍTULO VI DISPOSIÇÕES FINAIS Artigo	167,627
 CAPÍTULO VI Disposições Finais ARTIGO	539
+CAPÍTULO VI RECURSOS CONSIGNADOS ARTIGO	17100
 CAPÍTULO VII CARTOGRAFIA CADASTRAL Artigo	11901
 CAPÍTULO VII Mediação de Seguros Artigo	16122
 CAPÍTULO VII PARTIDOS POLÍTICOS Artigo	16022
@@ -124,9 +131,10 @@ Civil. Artigo	15392
 Comandos Regionais da Policia Nacional. Artigo	15503
 Comissão Fundiária Nacional. ARTIGO	11527
 Comissão Nacional de Eleições. ARTIGO	11528
-Comissão Nacional de Proteção de Dados. Artigo	15504
+Comissão Nacional de Proteção de Dados. Artigo	15504,50
 Comissão de Acompanhamento. Artigo	15572
 Comissões Técnicas de Normalização. ARTIGO	12782
+Comité Nacional da Dívida Pública. ARTIGO	17100
 Competências ARTIGO	12782
 Composição Artigo	15526
 Comunicação Social Artigo	12311
@@ -153,9 +161,11 @@ Conselho. Artigo	167
 Constituição. ARTIGO	11513
 Constituição. Artigo	15344
 Contratos Públicos. Artigo	10783
+Controlo Financeiro. ARTIGO	17100
 Criação Artigo	15450
 Criminal Artigo	12311
 Críticas Artigo	6970
+Código Aduaneiro. Artigo	17100
 Código Civil. Artigo	11901
 Código Eleitoral. Artigo	15359
 Código Geral Tributário. Artigo	15359
@@ -167,6 +177,7 @@ DA IA ARTIGO	3519
 DA LINHA CHAMADORA Artigo	15
 DADOS Artigo	14
 DADOS PESSOAIS Artigo	14
+DAS DESPESAS E RECEITAS ARTIGO	17100
 DE ADMINISTRAÇÃO ARTIGO	11518
 DE BASE ARTIGO	11519
 DE DADOS DO ESTADO ARTIGO	11461
@@ -184,11 +195,13 @@ DISPOSIÇÕES GERAIS ARTIGO	3519,7942,53
 DISPOSIÇÕES GERAIS Artigo	11461
 DISTRIBUIÇÃO E FISCALIZAÇÃO DAS RECEITAS Artigo	744
 DIÁRIO DA REPÚBLICA ARTIGO	539
+DO ARTIGO	17100
 DO ESTADO Artigo	11461
 DO PROGRAMA DE INVESTIMENTO PÚBLICO Artigo	10783
 DO PROJECTO Artigo	10783
 DOS SISTEMAS DE INFORMAÇÃO Artigo	15504
 Decreto Presidencial. Artigo	13
+Decreto Regulamentar. Artigo	15554
 Decreto. ARTIGO	11527,1256
 Decreto. Artigo	12823
 Delegações. Artigo	15503
@@ -234,7 +247,7 @@ Equipa de Serviço Digital. Artigo	15755
 Estado Artigo	11461,4065
 Estado da Província. ARTIGO	12783
 Estado de Cabo Verde. Artigo	15358
-Estado. ARTIGO	11513,1,1260
+Estado. ARTIGO	11513,1,1260,4326
 Estado. Artigo	13,1,2852,7917,1118,3443,15,21,11,141,223,334,49
 Estado. CAPÍTULO II DISCIPLINA ORÇAMENTAL Artigo	16056
 Estado. CAPÍTULO VII Disposições Finais Artigo	2866
@@ -243,13 +256,17 @@ Estatutos. Artigo	15912
 Estratégia PILLER. ARTIGO	11530
 Estratégia de Governação Digital. Artigo	15755
 FADCOM. Artigo	13
+FCFA ARTIGO	17100
+FCFA. ARTIGO	17100
 FINANCEIRA E PATRIMONIAL Artigo	167
 FSAU Artigo	2866
 FSAU. Artigo	2866
 Federação Desportiva. Artigo	15532
+Fevereiro. ARTIGO	17100
 Fevereiro. Artigo	12772
 Finais Artigo	6970,5341
 Finanças CAPÍTULO I Disposições Gerais ARTIGO	12789
+Finanças. ARTIGO	17100
 Finanças. Artigo	11901,3625,386
 Fiscalização Artigo	11461
 Fogo. Artigo	15503
@@ -257,6 +274,7 @@ Fomento Empresarial. Artigo	15526
 Forma Eletrónica Artigo	15477
 Formação. Artigo	167
 Forças Armadas. Artigo	14
+G. Artigo	17186
 GARANTIAS E DEVERES FUNDAMENTAIS ARTIGO	11513
 GERAIS ARTIGO	11519,8
 Gabinete Provincial da Saúde. ARTIGO	11445
@@ -315,6 +333,7 @@ Justiça. ARTIGO	539,12236
 Justiça. Artigo	6462,5439,3490
 Kb. Artigo	15392
 LBOTPU. Artigo	15380
+LEGISLAÇĀO TRIBUTÁRIA ARTIGO	17100
 LIBERDADES E GARANTIAS INDIVIDUAIS Artigo	15344
 LOCALIZAÇÃO Artigo	15
 Lei Cambial. ARTIGO	12853
@@ -331,6 +350,7 @@ Maio. Artigo	15503
 Matéria Penal. Artigo	6970
 Metodologia Artigo	15694
 Ministro Artigo	15526
+Ministério da Economia Digital. Artigo	17186
 Ministério da Saúde. Artigo	15689
 Moçambique. Artigo	12311
 NICO Artigo	16376
@@ -346,6 +366,7 @@ O Conselho Científico. Artigo	15503
 O Conselho Consultivo. Artigo	15912
 OBJETIVOS E TUTELA Artigo	11516
 ORIENTADORES Artigo	15
+ORÇAMENTAL ARTIGO	17100
 OTC. Artigo	11901
 OU PARTICIPANTE DO SISTEMA Artigo	15440
 Objecto Artigo	11461
@@ -355,6 +376,8 @@ Ordem Interna. Artigo	794
 Ordenamento Jurídico Angolano. ARTIGO	539
 Orçamentado. Artigo	10783
 Orçamentados. Artigo	10783
+Orçamento ARTIGO	17100
+Orçamento Artigo	17100
 Orçamento Geral de Estado. Artigo	10783
 PASER. Artigo	15433
 PESSOAIS Artigo	14
@@ -378,6 +401,7 @@ Plantas Informativas. Artigo	15380
 Plataforma Nacional de Serviços Públicos Digitais Artigo	11461
 Poder Executivo. ARTIGO	539,10826,96
 Poder Executivo. Artigo	14,1,152,10616
+Poluentes. Artigo	17100
 Polícia Criminal ARTIGO	539
 Polícia Nacional de Angola. Artigo	794
 Portaria. Artigo	16138
@@ -399,6 +423,7 @@ Proteção de Dados Pessoais Artigo	15477
 Protocolo Artigo	6462
 Provedor Intermediário de Serviços Electrónicos Artigo	6970
 Publicações Artigo	12311
+Publicidade Artigo	15554
 PÚBLICA Artigo	16022
 PÚBLICA CENTRAL Artigo	15572
 PÚBLICO Artigo	14,10769
@@ -436,6 +461,7 @@ Revogação. ARTIGO	11520
 Rosário. ARTIGO	12774
 S AUTORIDADES COMPETENTES Artigo	15
 S.A. Artigo	15526
+SA. ARTIGO	17100
 SAÚDE Artigo	16022
 SECÇÃO I Artigo	12770
 SECÇÃO I CONSELHO DE ADMINISTRAÇÃO Artigo	13
@@ -526,21 +552,28 @@ TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO. Artigo	15
 TERRA ARTIGO	11514
 TIC. Artigo	15
 TRANSITÓRIAS Artigo	16376
+Taxas ArtigosIncidência	17100
 Taxas. Artigo	15391
 Tecnologias de Informação. Artigo	167
 Telecomunicações. Artigo	2866,4104
+Tesouro Público. ARTIGO	17100
+Tesouro. ARTIGO	17100
 Tesouro. Artigo	15380,11
 Tipologias ARTIGO	11458
 Transações Eletrónicas Artigo	15477
+Tribunais. ARTIGO	17100
+Tribunal de Contas. ARTIGO	17100
 Turismo. ARTIGO	11458
 TÍTULO I DA REPÚBLICA Artigo	15344
 TÍTULO I DISPOSIÇÕES GERAIS Artigo	15440
 TÍTULO I PRINCÍPIOS GERAIS Artigo	15344
+UNICEF Guinea-Bissau Artigo	17015
 USUÁRIOS ARTIGO	3519
 UTILIZADORES ARTIGO	11461
 Utilidade Pública Desportiva. Artigo	15532
 VERDE CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	16089
 Verde RECOLHA DIRETA COERCIVA Artigo	15450
+Vice-Presidente. Artigo	17411
 Videovigilância. Artigo	794
 Violação da Livre Iniciativa Os Artigos	11436
 Web da ARN. ARTIGO	11519

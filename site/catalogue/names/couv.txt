@@ -12,7 +12,7 @@ CSU Couverture	15724
 Chef du Couvernement	15416
 Conditions Couverture	747
 Couvernement	15416
-Couverture	737,10,440,1437,722,4372,1998,1,1201,1026,1346,10,25,89,28,247,933,672,129,51,19,3,46,131,42,9,161,51,2,5,56,26,281,315,5,1,14
+Couverture	737,10,440,1437,722,4372,1998,1,1201,1026,1346,10,25,89,28,247,933,672,129,51,19,3,46,131,42,9,161,51,2,5,56,26,281,315,5,1,14,807
 Couverture ARV	3396
 Couverture Couverture	13804
 Couverture D’autre	16195
@@ -21,7 +21,7 @@ Couverture National	15936
 Couverture Nationale	15372
 Couverture Penta	16722
 Couverture Population	419
-Couverture Sanitaire Universelle	7641,217,6764,801,262,1037
+Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788
 Couverture Sanitaire Universelle. Pour	15711
 Couverture Santé	16195
 Couverture Santé Universelle	9273,6922,137,106,3
@@ -32,6 +32,7 @@ Couvre	1187
 Extension Couverture	3537
 II. Couverture	15943
 III.3.9. Couverture	13414
+INSTRUMENTS DE COUVERTURE	17485
 IV.1.1.8.4 Couverture	10876
 Institutions Couverture	13442
 Jean Couvaras Kamanga	13532
@@ -41,6 +42,7 @@ Mali. Couvrant	7727
 Ménages Couverture	13300
 OPERATEUR LONGUEUR DE LA COUVERTURE FIBRE	13414
 OPERATEURS BBS ESPACE COUVERT	13324
+OPERATIONS DE COUVERTURE ET REGIME	17485
 Projet de Couverture	11529
 Projet de Couverture Nationale	15372,83,58,40
 R.2.1.1. La Couverture Sanitaire Universelle	13325

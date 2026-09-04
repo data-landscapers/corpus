@@ -1,3 +1,4 @@
+ACCESS TO AND USE OF BANKING	16991
 AFRICAN BANKING CORPORATION Data Controller INST-297630C908C	7167
 AFRICAN BANKING CORPORATION Data Processor INST-297630C908C	7167
 Absa Group Limited and ABC Banking Corporation	398
@@ -47,7 +48,7 @@ Banki Nkurukwinjira	14919
 Banki. Ingingo	15102
 Bankily	4655,5001
 Bankim Brahmbhatt	5033
-Banking	22,396,522,59,129,739,722,260,222,644,813,328,40,759,656,112,404,119,368,3,151,67,1,198,174,95,67,854,151,80,619,219,267,194,264,57,37,319,3,2,388,420,12,199,142,68,82,43,22,86,19,232,211,146,184,169,176,203,656,181,44,78,100,26,107,75,337,394
+Banking	22,396,522,59,129,739,722,260,222,644,813,328,40,759,656,112,404,119,368,3,151,67,1,198,174,95,67,854,151,80,619,219,267,194,264,57,37,319,3,2,388,420,12,199,142,68,82,43,22,86,19,232,211,146,184,169,176,203,656,181,44,78,100,26,107,75,337,394,897,45,118,36,87,116
 Banking Accounting	12231
 Banking Act	5687,1251,907,139,2148,2358,38,70,690,271,139,1019,2,8,1,2,79,10,9,3,3,7,2
 Banking Act Through Urban Saving Schemes	12297
@@ -65,10 +66,13 @@ Banking Business	14056
 Banking Business Proclamation	14056
 Banking Business Proclamation No	13976
 Banking Circular No. for Refugees	12297
+Banking Commission	16942
 Banking Commission Secretary General	6938
 Banking Commission WAMU Financial Markets Authority	6938
 Banking Commission for Central Africa	15447,33
+Banking Concentration	17236
 Banking Day	15399
+Banking Density	17236
 Banking Details	12342,55,3
 Banking Dày	15399
 Banking EFT	14674
@@ -76,10 +80,12 @@ Banking EFT and Mobile Money Banking EFT	14674
 Banking FSDS	14997
 Banking Former Safaricom	3621,343,1408,102,1054
 Banking Hall	11134
+Banking Industry	17235
 Banking Industry Persons	12231
-Banking Institute of Liberia	14345
+Banking Institute of Liberia	14345,2890
 Banking Institute of Liberia and IFC	14218,121
 Banking Institution	12967
+Banking Institutions	17235
 Banking Institutions Act	3714,8651,9,73,458,38,24,118,121
 Banking Law	13314
 Banking Law and Licensing Regulation	14997
@@ -87,16 +93,21 @@ Banking Licence	14717
 Banking Network	10775
 Banking Ombudsman	12343
 Banking Ombudsman Office	11134
+Banking Operations	17235
 Banking Population	14997
 Banking Regulations	12490
-Banking Sector	11131,3,151,1637,2040,35,26
+Banking Sector	11131,3,151,1637,2040,35,26,2081,213,45
 Banking Sector Despite	11134
+Banking Sector Development	17104,213
+Banking Sector Developments 43	17503
+Banking Sector Developments and Stress Test	17317
 Banking Sector Eswatini	11131
 Banking Sector Figure	15023
 Banking Sector Indicators Capital AdequacCyapital Adequacy	11134
 Banking Sector Indicators Capital Adequecy Asset	11131
 Banking Sector Players	14997
 Banking Sector Rwanda Low-Income Middle-Income High-Income	14997
+Banking Sector Stress Test	17104,213
 Banking Sector Supervision	11131
 Banking Sector URL	14962
 Banking Service	11939
@@ -108,14 +119,17 @@ Banking Services Property Rights	10835,3,130,902,16,466,1,135
 Banking Sidney Jele Legal	11131,3
 Banking Strategic	14997
 Banking Subscribers	4517
-Banking Supervision	12444,2400
+Banking Supervision	12444,2400,2392
 Banking Supervision Application Central Bank of Lesotho	12701
+Banking Supervision Department	17104,213
 Banking Supervision MNO Mobile Network Operator	12444
 Banking Supervision Office	11134
 Banking Supervision Report	14997
 Banking Supervision and Financial Stability	8377
+Banking Supervision and Legal Department	17104
 Banking System	13868
 Banking System Opens Direct Yuan	9387
+Banking System Surveillance The CBL	17138
 Banking Transportation Maritime Legal Business Research	9750,247
 Banking Why South African	7382
 Banking and Capital Market Development ARTICLE	14409
@@ -130,7 +144,8 @@ Banking and Financial Services Act	22,2705,10572,5,1,192,35,34
 Banking and Financial Services Bill	13532
 Banking and Financial Supervision Commission	6938
 Banking and Mobile Money	14674
-Banking and Monetary Control Department	5317
+Banking and Monetary Control Department	5317,11919
+Banking and Monetary Supervision Department	17236
 Banking and Non-Banking Sectors	12956,167
 Banking and POS Terminals	6671
 Banking and Public Services The Cooperative Bank	12238
@@ -151,10 +166,13 @@ CAP.24.20 Banking	13559
 CBE Banking Hall	11134
 CBN Open Banking Framework	4848
 CENTRAL BANK OF SUDAN Banking Regulation	15180
+COBAC Banking Commission for Central Africa CRVS	16942
+COBAC Central African Banking Commission	16996
 COMMENCEMENT OF BANKING INSTITUTIONS ACT	12943
 CURRENCY AND BANKING OPERATIONS	15023
 Cellphone Banking	12447,605
-Central African Banking Commission	10967
+Central African Banking Commission	10967,6005,24
+Central African States BARC Banking Institute	17235
 Central Bank and Banking Sector Law No	15794
 Central Bank of Egypt Community of African Banking	6938
 Central Bank of Nigeria Banking Sector Reform	10
@@ -171,6 +189,7 @@ Commercial Banking	5247
 Commission COBAC Central African Banking Commission	10841
 Community of African Banking Supervisors	4103
 Cooperative Banking Framework	11134
+Core Banking Application SP SQL SSA	17235
 Core Banking System	7783,30,79
 Corporate and Investment Banking	8974
 Course Fundamentals of Central Banking Exchange Control	11131
@@ -182,28 +201,34 @@ D. BANKING DETAILS Name of Bank	4896
 DANGOTE CEMENT Banking Engineering	11884
 DETERMINATION UNDER THE BANKING INSTITUTIONS ACT	12967
 Data Protection Frameworks for Banking Sector Beyond	2668
+Department of Banking and Supervision	16949
 Depósito Bankita	10775
 Development of Banking Network and Number of Bank Accounts	11960
 Developments Monetary Developments Fiscal Review Banking	11131
-Digital Banking	4994,7303,620,1902
+Digital Banking	4994,7303,620,1902,2057
 Digital Banking Framework	7341
 Digital Banking Platform	608
 Digital Payments and Banking	7535
 Director General of Electronic Banking Services	15254
 Draft Open Banking Framework Legal Department	11134
+E-commerce Open Bankinng	16876
 East Africa Banking Industry Outlook	5883
 East African Banking School Conference	9487
 Ecobank's Pan-African Banking Sandbox	8464
 Egyptian Banking Institute	7535
+Electronic Banking	16982
 Electronic Banking Services	9451,5446
 Electronic Banking Services Company	1851
 Electronic Banking System	14897
 Enable Digital Banking Services and Promote Financial	16590
+Equatorial Guinea NUMBER OF BANKING AGENCIES	16942
 Eswatini Banking	13123
 European Banking Authority	6938
 Expand Agent Banking Services Agent	8184
 Expand Digital Banking Licenses	4848
 Expand Mobile Banking Services	7386
+Expansion of Banking Services	17235
+Expansion of Banking Services The CBL	17235
 FINANCIAL SYSTEM BANKING SECTOR	15023
 FUTURE OF BANKING	2275
 Fast Payments Module. Open Banking	11131
@@ -212,6 +237,8 @@ Feasibility of Open Banking	13092
 Finance and Banking	6946,52
 Finance and Banking Department	13791
 Finances. Banking. Monetary	13385
+Flex Cube Comprehensive Banking	16907
+GIMAC Interbank Electronic Banking Group of Central	16942
 General Directorate for Banking Supervision	9774
 Global Banking Annual Review	14997
 Global Banking and Markets Africa	11134
@@ -227,11 +254,15 @@ I.2.8. Open Banking Apparu	13452
 INCOME ONLINE BANKING	11004
 INTERNET BANKING SUBSCRIBERS MOBILE BANKING SUBSCRIBERS	15130
 INVESTMENT BANKING Quest Merchant Bank Limited	5903
+Improved Banking Environment R1	16876
 Initiative Description Horizon Banking	14997
+Interbank Electronic Banking Group of Central	16942
+Interbank Electronic Banking Group of Central Africa	16942
 Interest-Free Banking	10025
+International Banking Finance Institute	17235
 International Finance Corporation. Inclusive Banking	12231
 International Finance and Banking Law	12951
-Internet Banking	4695,7260,332,765,980,787
+Internet Banking	4695,7260,332,765,980,787,2088
 Internet Banking Interbank Large-Value	6938
 Internet Banking Mobile	15023
 Internet Banking PSPs	13314
@@ -244,12 +275,14 @@ Investment Banking Luvuyo Masinda	9702
 Islamic Banking Glossary. Kenya Bankers Association	12297
 KCB Group's Director of Corporate Banking	7499
 KENNA’s Banking	9750
+KENYA AFRICAN BANKING CORPORATION KCB STANBIC	17242
 Keep Low Levels of Banking Sector Non-Performing	11131
 LEARNING HEALTH GOVERNMENT INCOME ONLINE BANKING	11964
 Launches Agency Banking Roll-Out	7964
 M Banking	15455
 Maintaining Adequate Banking Sector Achieve	11131
 Maintaining Banking Sector Adequate Liquidity Ratios	11131
+Malabo. BEAC’s Central Africa Banking Commission	16972
 Marketing Standard Bank Business and Commercial Banking	5247
 Markets and Banking Operations Directorate	15023
 Minimum Guaranteed Banking Service	10967
@@ -259,8 +292,11 @@ Mobile Banking APP and Bank USSD	12287
 Mobile Banking Dominates DFS Access Age	15130
 Mobile Banking Mobile Payment Internet Banking	15023
 Mobile Money and Banki Pafupi Agents	12182
+Mobile Payments and Transfers Internet and Mobile Banking	16942
 Monetary and Banking Council	6938
+Money and Banking System	16972
 Money and Banking System Due	14008
+Money and Banking System Per the Central Bank	16972
 Monitoring Markets and Banking Operations ICT Governance	15023
 Mozambican Banking Association	7734
 Mozambican Banking Association and INTIC	2601
@@ -274,6 +310,7 @@ National Treasury-owned SafetyWeb Banking System	10809
 Net Banking	12917
 Net Zero Banking Alliance and Net Zero	13532
 Nka Banki Nkuru	15102
+OPEN BANKING	16942
 OPEN BANKING STANDARDS	13092
 OVERVIEW OF OPEN BANKING STANDARDS	13092
 ObTh Electronic Banking Services Co. Ltd	15215
@@ -301,14 +338,19 @@ Personal and Private Banking South Africa	10218
 Poupança Bankita	10775
 Prepaid Cards Mobile Banking Subscribers Internet	4517
 Principles for Responsible Banking	10718
+Professional Banking Diploma	17235
+Professional Banking Diploma Program. Accordingly	17235
 Proliferation of Open Banking	4848
 Proposal for Cooperative Banking Framework CBE	11134
 Protection of Consumers of Banking Products and Services	4785
+Quarterly Banking Sector Development Reports	17138
 RFR Banking Day	16219
 RFR Banking Days	16219
 RIGENGA BANKI NKURU Y’U RWANDA RÉPUBLIQUE	15102
 RIGENGA BANKI NKURU Y’U RWANDA TABLE	15102
+Regional Banking Commission	16942
 Regulatory Framework for Open Banking	11138
+Research and Statistics Department Banking Concentration	17236
 Risk-Free Rates Banking Day	16219
 Rwandan Banking Sector	14997
 SABRIC South African Banking Risk Information	5533
@@ -332,6 +374,7 @@ Standard Bank Corporate and Investment Banking	3056,997
 Standard Bank Corporate and Investment Banking Chief	15875
 Standard Bank Personal and Private Banking CEO	3435
 Sub-sector Working Groups Task Forces Banking	14997
+Support Banking Department Payment Systems Services	17235
 Sustainable Banking Assessment	10718
 Sweden's BankID	10147
 TONA Banking Day	16219

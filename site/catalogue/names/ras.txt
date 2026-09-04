@@ -25,6 +25,7 @@ FAAFINTA RASMIGA AH	15152
 Faafinta Rasmiga	14906,24,117,105
 Faafinta Rasmiga. Qodobka	14859
 Frigelec RAS	10975
+GENERACIÓN DE UN MOSAICO RASTER CON	16875
 GJ Rasethaba	10793
 Gabon RAS HRM	15518
 General Shaikh Rashid	13808
@@ -46,6 +47,7 @@ Madagascar's Foreign Minister Rasata Rafaravavitafika	14517
 Madame RASOLONJATOVO Norovola Haritiana	14610
 Madame Rasmata DJIBO	15942
 Marie Marcelline Rasoloarisoa	14513,39
+Mary Rassekh Team Member HHNGE Empowerment	16922
 Mbps. Ooredoo Tunisia CEO Mansoor Rashid	2405
 Md Rashidujjaman Rifat	4439
 Minister Rasoloarisoa	14513
@@ -57,11 +59,14 @@ Monsieur Rasmane OUEDRAOGO	16287
 Mr. M. Rassen Deputy Commissioner of Police	14760
 Napoli Xinhua Rashford	3610
 Oxford University Press. Rasmussen	12151
+PACTE-ESRI RAs	17458
 PFM RAS	15411
 PFM RAS II	15411
 Paafinta Rasmiga	15153
+PforR RAs	17458
 President Abdel Fattah Al-Sisi. Rashwan	16490
 Princípio da Rastreabilidade	11419
+Program RAs	17458
 Público Rastreando	11898
 QCBS Qualifications and Cost Based Selection RAS	15518
 RAS ATT	10975
@@ -78,6 +83,7 @@ RASHIDA SAANI GHANA POLICE GHANA POLICE	15845
 RASPC	15390
 RASSOOLKHAN Hemwantee Senior Human Resource	14770
 RRH Rassemble	10876
+Rainfall Raster	17157
 Ramatoa Minisitra Rasata Rafaravavitafika	14457
 Ras Bath	10533
 Ras El Ma	15930
@@ -98,6 +104,7 @@ Rashid Ali	1741
 Rashid BEATRICE	13584
 Rashid and His Highness Sheikh Mansour	12983
 Rashid-Computer	5359
+Rashrash	17157
 Rashwan	16490
 Rashwan Hammady	10665
 Rasmané	12948
@@ -111,7 +118,8 @@ Rassembler	16151
 Rassemblées	13377
 Rassurer	4923,11325
 Rassuré	15736
-Raster	11405
+Raster	11405,5470
+Rasterio	17157
 Rastreabilidade	11461
 Rastreadores de Dados	2816
 Rastreio	549,10208

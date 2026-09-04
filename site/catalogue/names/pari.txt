@@ -1,4 +1,5 @@
 ACK ST MARYS MUNJITI PARISH Data	7167
+ADAPTA de Paris21. Tabla	16898
 AI-Enabled Paris Agreement	13057
 Accord de Paris	7640,75,1176,2770,1772,2279
 Accord de Paris. Dans	11661
@@ -27,11 +28,13 @@ Chitungwiza and Parirenyatwa Hospitals	13420
 City of Paris and French Ministry for Europe and Foreign	789
 Cloud Next Gen de BNP Paribas	2608
 Collective Challenge. Paris	12948
+D. Rationale for AF. Paris Alignment	16922
 DE PARIS CIRN EMPRU ETS INITIAUX	15999
 Digital Economy Outlook. Paris	15424
 Données ODD Objectifs de Développement Durable PARIS21	15501
 Déclaration de Paris	2379,8,8325,4767,206
 ELCIN Parish	13046
+ENDE de Paris21	16898
 ESP. UNESCO Paris	15604
 Energy and AI. Paris	11140
 Enrollment The Gender Parity Index	12411
@@ -52,6 +55,7 @@ Gender Parity Index ICT	12175
 Gender Parity Index IDA International Development	14896
 Gender Parity Indices for Forms	12175
 Gender Parity Law	11965
+Gender Parity Principle	16951
 Global Education Monitoring Report. Paris	6832
 Grand Palais de Paris. Pour	2379
 HEC Paris	4577,30
@@ -70,14 +74,22 @@ OECD Indicators. Paris	15604
 Open Data Watch and PARIS21	8427
 Operational Manual PPP Purchasing Power Parity	15515
 PA Paris Alignment PDO Project	10768
+PAGE Programme for Accelerated Growth and Employment PARIS21	16927
 PARIHS	8376
-PARIS	4209,9756,1570
+PARIS	4209,9756,1570,1328
 PARIS ALIGNMENT ASSESSMENT For Direct	1818
 PARIS HOLDING PERSPECTIVES	2342
-PARIS21	766,6447,2495,1166,363,289,1025,20,186,325,261,16,1093,1027,101,381
+PARIS21	766,6447,2495,1166,363,289,1025,20,186,325,261,16,1093,1027,101,381,902,35,29,189
 PARIS21 DP22	7213
 PARIS21 Discussion Paper	7213
+PARIS21 Guidelines	16927
+PARIS21 Guidelines for National Strategy	16927
+PARIS21 NSDS Guidelines	16927
+PARIS21 Por	16898
+PARIS21 Secretariat	16927
 PARIS21. Elles	15961
+PARIS21. Estrategias	16898
+PARIS21. Under	16927
 PARIS21. Une	15961
 PARISH COLLECTION	9696
 PPP Purchasing Power Parity PPSD Project	15518
@@ -96,17 +108,20 @@ Parioli Office Park	11265
 Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
 Parirenyatwa and Chitungwiza	13420
 Parirenyatwa. Example Related Person	6666
-Paris	573,691,691,141,162,95,26,8,7,19,403,23,12,29,139,85,71,261,1286,307,363,15,75,381,189,16,15,103,45,240,90,143,26,102,114,127,33,214,70,13,95,50,174,515,36,242,83,293,279,423,638,150,49,261,21,17,90,2,20,134,165,16,77,25,129,138,113,146,252,170,51,128,452,220,128,127,2,260,1267,55,1,35,492,15,8,18,9,19,111,54,1,201,41,35,222,19,50,23,75,37,13,81,89,104,95
-Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512,492,369,141,415,51,54,1,2,322,722
+Paris	573,691,691,141,162,95,26,8,7,19,403,23,12,29,139,85,71,261,1286,307,363,15,75,381,189,16,15,103,45,240,90,143,26,102,114,127,33,214,70,13,95,50,174,515,36,242,83,293,279,423,638,150,49,261,21,17,90,2,20,134,165,16,77,25,129,138,113,146,252,170,51,128,452,220,128,127,2,260,1267,55,1,35,492,15,8,18,9,19,111,54,1,201,41,35,222,19,50,23,75,37,13,81,89,104,95,139,44,22,499,19
+Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512,492,369,141,415,51,54,1,2,322,722,217,53,79,86,117,61
 Paris Agreement Implementation Platform	13057
+Paris Agreement for Greenhouse Gas Inventories of CRT	17140
 Paris Agreement's Enhanced Transparency Framework	3431
+Paris Agreement. Draft	17140
 Paris Agreement. Enhancing Wildfire Preparedness	11332
 Paris Agreement. Methodology	15845
 Paris Agreement. Promoting	1867
 Paris Agreement. The EU	11536
 Paris Agreement. The NDC	11586
 Paris Aligned Fragility Lens Assessment	15011
-Paris Alignment	6539,4229,4169,1207
+Paris Alignment	6539,4229,4169,1207,805
+Paris Alignment PACTE-ESRI National Plan	17458
 Paris Alignment. The Program	11905
 Paris Alignment. The Project	11417
 Paris Branch	2836
@@ -115,12 +130,12 @@ Paris Charter	4583
 Paris Cité	11784
 Paris Climate Agreement	789,2815,7114,3912
 Paris Club	11136,2732
-Paris Convention	12161,1196
+Paris Convention	12161,1196,3615
 Paris Dauphine. Cette	7390
-Paris Declaration	14002
+Paris Declaration	14002,2850
 Paris Oct	16693
 Paris Peace Forum Global Coalition	4583
-Paris Principles	13097,1052,593
+Paris Principles	13097,1052,593,2216
 Paris and London	15001
 Paris-Camp Clairon BP	16552
 Paris-Camp Clairon P.O. Box	16552
@@ -134,7 +149,7 @@ Paris. Plan	15493
 Paris. Pour	15496
 Paris. Qiang	15474
 Paris. World Bank Group	11879
-Paris21	1188,10049,3623
+Paris21	1188,10049,3623,2038
 Parish Development Model	1262,4859,2428,104,308,8
 Parish Development Model Management Information System	3050
 Parish Development Model and Emyooga	10299
@@ -155,6 +170,7 @@ Report. Paris	11310
 Rouen and Paris	7722
 SG Paris	10718
 ST Mathew Parish Church Dunes Mall	13046
+Salud PARIS21 Consorcio de Estadísticas	16898
 School Attendance Gender Parity Index	13399
 Sciences Po Paris	16825
 Sciences-Po Paris	11154
@@ -165,11 +181,14 @@ Societal Change and Development. Paris	6832
 Société Générale Paris	10821
 Souley de Paris	10389
 Sub-Saharan Africa . Paris	11140
+Tax Administration. Paris	16949
 Telecom Paris	14017
+Timor-Leste. Paris	16942
 Twenty-First Century. Paris	6832
 Télécom Paris	10029
 UNESCO ICT Competency Framework for Teachers. Paris	899
 UNESCO Paris	15604
+UNFPA. The PARIS	16863
 USD Purchasing Power Parities	15120
 Understanding the Digital Divide. Paris	6832
 Université Paris-Est Créteil Public	14643

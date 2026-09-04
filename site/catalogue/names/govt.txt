@@ -23,6 +23,7 @@ Future GovTech	11867
 G Prosperity Insight Series GOVTECH MATURITY	10785
 G2C G2B G2G Whole of Govt	14752
 GOVERNAN GOVERNANCE GOVERNANCE GOVERNANCE GOVTECH MATURITY	10785
+GOVTECH	16942
 GOVTECH MATURITY INDEX	10785
 GTMI GovTech Enablers Index	10785
 GTMI Group A Extensive GovTech Maturity	10785
@@ -30,7 +31,7 @@ General Data Protection Regulation GovTech Government	12675
 Give Nigerian Govt Sweeping Powers Over	7458
 Global GovTech	10785
 Gov. GovTech Cameroun	10992
-GovTech	157,604,233,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101,823,181,174,429,298,73,1008,383,244,1,271,137,339,17,226,108,78,67,628,103,701
+GovTech	157,604,233,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101,823,181,174,429,298,73,1008,383,244,1,271,137,339,17,226,108,78,67,628,103,701,691,238
 GovTech Approach	11867
 GovTech Cameroun	10992
 GovTech Case Studies	994
@@ -57,11 +58,12 @@ GovTech Innovation Programme	14752
 GovTech Lab	9291,3384
 GovTech Launch Report	15518
 GovTech Leaders	11867
-GovTech Maturity	10785,1082
+GovTech Maturity	10785,1082,5075
 GovTech Maturity D Low GovTech Maturity	10785
-GovTech Maturity Index	4752,210,6607,298,4179,28,128
+GovTech Maturity Index	4752,210,6607,298,4179,28,128,740,7
 GovTech Maturity Index Average GTMI	10785
-GovTech Maturity Index Regional Brief	11867
+GovTech Maturity Index Components for Liberia	16949
+GovTech Maturity Index Regional Brief	11867,5075
 GovTech Maturity Index Regional Briefs	11867
 GovTech Maturity Index Regional Briefs GovTech	11867
 GovTech Prize	4921
@@ -103,17 +105,26 @@ Govt Pushes for Unified Digital Systems	6077
 Govt Signals Social Media Clampdown	4175
 Govt Tells Meta To Align Policies	9640
 Govt Tells Tech Firms	11611
+Govt of Gambia	17241
 Govt of Guinea	3959
 Govt of India	13029
 Govt of Lesotho	2669
 Govt of Mauritius	14713
+Govt-2014	16885
+Govt-2024	16885
+Govt-2024 Strategic	16885
+Govt-2024 Strategic Plan	16885
+Govt-2024 Strategy	16885
+Govt-2024 Strategy for The Gambia. Closely	16885
+Govt-2024. Lastly	16885
+Govt-2024. The ICT Agency	16885
 Govt-business	12214
 Govt. Enterprise and Empowerment Program GEEP	11857
 Govt. Interoperability	11857
 Govt. The AILA	12241,839
 Govt. To Strengthen Cyber Security Capacity	12129
 Govt. of Comoros	13744
-Govt. of India	13974
+Govt. of India	13974,3266
 Govtech Business Ecosystem	772,1701
 Govts	11857
 Govts. Wireless	11857
@@ -132,6 +143,7 @@ LGA Local Govts	11857
 LGAs Govts. HQ	11857
 Land Disputes Ease As Govt Fixes	5070,1633
 Le GovTech Innovation Challenge	8771
+Local Govt. Authorities Ward	16926
 Local Govts	11857
 Local Govts. HQ	11857
 Local Govts. P-9 Accelerate HM FMoCDE	11857
@@ -140,6 +152,7 @@ Major Hospital Local Govts	11857
 Maturidade GovTech	11569
 Maturidade GovTech GTMI	11569
 Minister Amr Talaat. GovTech	4532
+Ministry of Local Govt	16858
 Mobile Digital Truck Govt	2256
 Monitoring GovTech	10785
 Namibian Govt	3439

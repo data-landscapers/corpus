@@ -1,4 +1,7 @@
+A.11. Powers and Functions	16833
 ACF Built-In Capabilities Business Functions Available	13042
+ANNEX V FUNCTIONS OF THE INDEPENDENT	16843
+ANNEX X FUNCTIONS OF THE JOINT	16843
 ASYCUDAWorld Advanced Functional Training	13042
 AUDIT FUNCTION	15023
 Accessible and Functional	14889
@@ -9,14 +12,14 @@ Advisory Council. Functions	12546
 Advisory Function	3861
 AfllFoucnactitoionnosf Functions	10157
 Allocation of Functions	10157
-Altos Funcionarios	4209
+Altos Funcionarios	4209,12662
 Analyst Functions	6423
 Annexure C Functional Non	13037
 Annexure C Functional and Non Functional Requirements	13037
 Applicant Functions	6423
 Apply the NIST Framework Functions	1777
 Autentika. IGRP WEB NOME FUNCIONALIDADES DESCRIÇÃOS	16321
-Authority. Functions	587,14007
+Authority. Functions	587,14007,2245
 Autofill Function	12041
 Automation of Labour Administration Function	12597
 BUSINESS FUNCTION REQUIREMENTS	13185
@@ -44,6 +47,7 @@ Category Technical Score Business Function Requirements	13185
 Central AI Risk Function and AI Security	11135
 Centre. Functions	14575
 Centro Nacional de Reabilitação Funcional	15694
+Child Functioning Module	16909
 Cidadão Cidadão Funcionários	11379
 Classificador Funcional	10783
 Classificação Internacional da Funcionalidade	15694
@@ -71,6 +75,7 @@ Cross Functional Security and Interoperability Standards	6423
 Cumulative Distribution Function	4676
 Customs and Trade Division TONGA ASYCUDAWorld Functional	16631
 D.G. DE LA FUNCION PUBLICA	4209
+DE LA FUNCION PUBLICA Y REFORMA	17101
 DELEGACIÓN DIRECTIVO FUNCIÓN D.G DE REFORMA	4209
 DETALLE DE LOS SALARIOS DE FUNCIONARIOS	4209
 DG Functional	5533
@@ -94,6 +99,7 @@ E FUNCTIONINGmobile	582
 Earth Observation Satellite FUNCTIONS	1131
 Educational Qualification Functional	11129
 Educational Qualification Functional Title Secondary Address	11129
+Enhancing Country Support and Programme Enabling Functions	17289
 Enhancing Internal Audit Function The Finance	14828,3
 Especificação Funcional	12021
 Essential Functions of Human Resource Section	14761
@@ -101,6 +107,7 @@ Established the Resolution Function	11134
 Establishment and Functions	14647
 Establishment and Functions of Statistics Botswana	12530
 Establishment of Zambia Cyber Security Agency Functions	2727
+Expand Government Functions and Services R4. Introduce	16876
 Exterior Nº Categoría de Funcionario Público Monto	4209
 FUNCION PUBLICA	4209
 FUNCIONAIS E POR GÉNERO	11531
@@ -118,11 +125,17 @@ FUNCTIONAL SHIFT DUE TO AI	11156
 FUNCTIONAL SHIFT DUE TO AI Systems	11156
 FUNCTIONALITY Sub-Saharan	11964
 FUNCTIONINGmobile Does	582
-FUNCTIONS	3861,8462,639,1541
+FUNCTIONS	3861,8462,639,1541,2332,400
 FUNCTIONS AND MANAGEMENT OF THE AUTHORITY	12894
 FUNCTIONS AND POWERS OF THE BANK	12938
 FUNCTIONS AND RESPONSIBILITIES The Ministry	14934
 FUNCTIONS OF REGIONAL ADMINISTRATION	12970
+FUNCTIONS OF THE COMMISSION	16830
+FUNCTIONS OF THE DEPARTMENT OF STATE	16839
+FUNCTIONS OF THE DEPARTMENT OFSTATE	16839
+FUNCTIONS OF THE MINISTER	16839
+FUNCTIONS OF THE MINISTRY	16839
+FUNCTl0NS	16836
 Features CRPRS Modules Comparison Benefits Functionalities	12211
 Financial Function Management	9124
 Foreign Ministers. Functional	16331
@@ -131,10 +144,12 @@ Fourth Function	11129
 Fourth Function Section	11129
 Fully Functional GISPIS Platform	16600
 Funchal	15470
+Funcio	16855
 Funcion. Grupos Parlamentarios	4209
-Funciona	16027
+Funciona	16027,828
 Funcionais	11441,4035
-Funcional	15359,117
+Funcional	15359,117,1489,229,221
+Funcionales	16855,43
 Funcionalidade	10777
 Funcionalidades	9432
 Funcionam	15392
@@ -149,25 +164,34 @@ Funcionamiento	1701,2508
 Funcionamiento Empresa Agua	4209
 Funcionamiento Grupos Parlamentarios	4209
 Funcionamiento de Distritos	4209
+Funcionamiento de Registros Elec	16855
 Funcionario	4209
 Funcionario Administrativo	4209
-Funcionarios	4209
-Funciones	163
+Funcionario Público	16855
+Funcionarios	4209,12646,16
+Funcionarios Civiles	16903
+Funcionarios Encargados	16855
+Funcionarios Internacionales Ecuatoguineanos	16871
+Funcionarios Militares	16871
+Funcionarios Públicos	16855
+Funciones	163,16692,110
 Funcionários	2816,4179,5782,2700,579
 Funcionários Os	11514
 Funcionários Públicos	2816
 Funcionários da Administração Pública	11413
-Función Pública	758,1097,2354,2632,2683,2219
+Función Pública	758,1097,2354,2632,2683,2219,5155,44,3,183
 Función Pública. Artículo	4209
 Function	4528,1859,4747,852,370,156,460,1462,396,66,1293
+Function Current Operations Gaps Identified Provision	16943
 Function Full	16189
 Function Rs Million Description Estimates	14830
 Function Total PSIP	14830
 Function of Zimbabwe Electoral Commission	13501
 Function-specific	6432
-Functional	582,179,393,2753,1626,417,231,251,1116,3271,314,76,7,24,29,528,141,48,228,146,148,246,251,48,1628,217,24,13,92,574,304
+Functional	582,179,393,2753,1626,417,231,251,1116,3271,314,76,7,24,29,528,141,48,228,146,148,246,251,48,1628,217,24,13,92,574,304,947,40,58,20,8
 Functional AI	15713
 Functional AI Exchequer	7548
+Functional Architecture	17116
 Functional Audit Committee The GAC	9650
 Functional Civil Registration Office Counts	15415
 Functional Classification	14830
@@ -176,6 +200,7 @@ Functional Competencies	12693
 Functional Compulsion	3615
 Functional Computer	582
 Functional Consultant and Developer	6353
+Functional Cookies	17388
 Functional Criteria	11240
 Functional Design Strategy	13532
 Functional Digital Identity	11940
@@ -204,6 +229,7 @@ Functional Requirements.docx	13037
 Functional Scope PAGEREF	15090
 Functional Scope The ASYCUDA New Generation	13042
 Functional Scope The SFMIS	15090
+Functional Secretariat	16848
 Functional Specification	11131
 Functional TWGs	12356
 Functional Teaching Council	13070
@@ -222,19 +248,25 @@ Functionality SIMOrede	12270
 Functionality Subtitle	14778
 Functionality The EthSwitch IPS	12269
 Functionality XX Partially	15206
-Functioning	771,7050,4070,25,1100,29,286,665,1905
+Functioning	771,7050,4070,25,1100,29,286,665,1905,942,66,110,375
 Functioning AI	15713
 Functioning Economic Zones and Policy Incentives Focus	12376
-Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598,387,1,8,96,20,169,40,68,85,187,6,15,2,91,4,1,1,6,2,8,13,214,1,5,6,1,15,38,15,1,2,349,40,205,385,458,1,5,7,27,44,82,19,5,2,46,72,13,11,25,22,34,26,46,69,375,119,19,318
+Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598,387,1,8,96,20,169,40,68,85,187,6,15,2,91,4,1,1,6,2,8,13,214,1,5,6,1,15,38,15,1,2,349,40,205,385,458,1,5,7,27,44,82,19,5,2,46,72,13,11,25,22,34,26,46,69,375,119,19,318,1039,4,4,20,9,15,88,260,8
 Functions Core	14746
 Functions NCoE	11860
+Functions Pursuant	17235
+Functions Section SOA.9. Board Established Section	16833
 Functions The CSIRT	12674
 Functions The Council	3861
 Functions The Desk	10157
 Functions and Accessibility	14647
+Functions and Duties	16835
+Functions and Duties of LTA Regarding Competition	16835
 Functions and Institutions for Effective Service Delivery	15658
+Functions and Operation	16835
 Functions and Powers of Agency PART IV BOARD	12899
 Functions and Powers of Commissioner	14727
+Functions and Powers of Information Commissioner	16840
 Functions of Agency	2727,8737,1841,12
 Functions of Authority	12535,27,777,32,1372
 Functions of Authority Licensing	11179
@@ -268,6 +300,9 @@ Functions of District Development Coordinating Committee	13318
 Functions of Division	13322
 Functions of Division Electronic Government	13322
 Functions of E-tax Platform	12676
+Functions of Forestry Law Enforcement Dptm. and Planning	16848
+Functions of GICTA	16866
+Functions of Government CPF Country Partnership Framework	17458
 Functions of Institute	14768
 Functions of Lands Commission	15657
 Functions of Lead Agency	13403
@@ -297,13 +332,14 @@ Healthcare Leadership Function Supportive	11596
 I. Funcionalidades Online	12021
 IANA Functions	3503
 IANA Functions Operator	3503
+II.2. Funciones En	16898
 INEGE Gastos de Funcionamiento de INEGE	4209
 INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
 Initial FUNCTIONAL REQUIREMENTS ID Functional Requirement	13037
 Integrated Functional Adult Education	13991
 Internal Audit Function	1154,13948
 Internal Audit Function The Internal Audit	1554
-International Classification of Functioning	15663
+International Classification of Functioning	15663,1287
 Java. Functional	13042
 KEY FUNCTIONS OF THE FINANCE DEPARTMENT	9437
 Key Capitals Supporting the Financial Stability Function	11134
@@ -313,24 +349,34 @@ Key Functions and Activities NOSi	11891
 Key Functions and Objectives	15120
 L Gastos de Funcionamiento	4209
 LGA Functionary	12064
+La Función Pública	17128
 Land Functionalities Overview Comprehensive	12211
 Lennart Funck	9632
-Ley de Funcionarios Civiles	4209
+Ley de Funcionarios Civiles	4209,12818
+Liberia Health Equity Fund. Key Functions	16971
 Limited Price Functional	12214
+Los Funcionarios	16855
+Los Funcionarios Públicos	16855
 MCIT and Functional AI	15713
+MEMBERS AND FUNCTIONS	16841
 MINISTERIO DE LA FUNCIÓN PÚBLICA	4209
 MW Función Publica	4209
 Mandate and Functions	12759
 Mandatory Functional	11209
 Mandatory Functional Requirements	11209
+Minimal Functions and Services	16876
 Ministry of Science and Technology Role and Function	12356
 MoH Functional Review	12240
 MoH Functional Review Report. Ministry of Health	12240
+Mobilidade Funcional	17178
 Modo de Funcionamento	11381
 Mugisha Functional Support	8723
 Mº FUNCIÓN PUBLICA	4209
+NAVIGATION About GICTA Leadership Functions Resource	16866
 NCA Regulatory Functions MOPT NCC Strategy	1777
 NCC Functional Q1	1777
+NOTWITHSTANDING SCHEDULE A Functions and Structure	16835
+NUM. NOMBRE Y APELLIDOS FUNCIÓN EMAIL	16898
 National AI Council Role and Function	12356
 National AI Governance Framework. Key Functions	16212
 National Computer Emergency Response Team. Functions	587
@@ -340,7 +386,9 @@ National Statistical System. Functions	14594
 Nigeria. Functions	12145
 Nota Técnica de Articulação Funcional	11451
 Number of Functional Tax Risk	11866
+O FUNCIONAL	17219
 OBJECTIVES AND FUNCTIONS	12962
+OBJECTIVES AND FUNCTIONS OF THE ADVISORY	16887
 OBJECTIVES AND FUNCTIONS OF THE KENYA	14410
 OBJECTIVES AND FUNCTIONS The Programme	12962
 OBJECTIVES AND FUNCTIONS The SADC Unit	12962
@@ -354,11 +402,15 @@ Optimized Beneficial Ownership Declaration Functionality	11219
 Organisation and Functioning	15081
 Organization and Functioning	11868
 Orçamento de Funcionamento	2816
+PART HT FUNCTIONS	16841
 PART III DUTIES AND FUNCTIONS	12892
 PART TWO POWERS AND FUNCTIONS	14024
 PRACTITIONER’S FUNCTIONS AND TERMS OF APPOINTMENT	3714
 PRESCRIBE THE POWERS AND FUNCTIONS	11976
+Partially Functional	17139
 País Nº Categoría de Funcionario Público Monto	4209
+PdRT Ill FUNCTIONS	16836
+Physical Obstruction Of Government Function	16935
 Poder Judicial FUNCION Consejo	4209
 Power and Function	14024
 Powers and Functions	12185,1763,76
@@ -367,6 +419,7 @@ Pre-Qualifying Criteria and Functional Evaluation and Folder	11240
 Principles and Functional Requirements for Records	13250
 Principles for Digital Functional Identification	10819
 Príncipe Funchal	6837
+Public Function	16840
 Publicity and Resource Mobilisation Committee Functions	1154
 Q1 Regulatory Functions The EA	12062
 REGULATORY FUNCTIONS	12062
@@ -387,16 +440,22 @@ Rwanda Forensic Laboratory. Functions	12338
 SECÇÃO II FUNCIONAMENTO	10754
 Schedule of Requirements B. FUNCTIONAL	13185
 Search Functionality	12389,572
+Section SOA.14. Powers and Functions	16833
+Section SOA.8. Functions and Responsibilities	16833
 Sections and Key Functions Department of Youth Develop	12642
 Security Function Group	11986
 Several Functionalities	12389
-Sistema Integral de Gestión de Funcionarios	5111,183,6449
+Sistema Integral de Gestión de Funcionarios	5111,183,6449,5600
 Six Functional Pillars Pillar	4528,7984
 Smart Workplace Functionalities	15716
 Smart Workplace Functionalities Enhanced E Governance	15716
 Smart Zambia Institute Role and Function	12356
+Solar Multi Functional Platforms	16973
+Spectrum Management Functions	16835
+Stakeholders Present Name and Function Organization	16926
 Statistical Operational Functions and Services	13993
 Statistical Regulatory Functions	13993
+Strengthen the QA Function	17364
 Supabase Edge Functions	5513
 Systems Administration and Management Functions Required	13185
 TECHNICAL WORKING GROUP FUNCTIONAL RESPONSIBILITY Composed	14434
@@ -405,5 +464,8 @@ Technical Functional	11986
 Telecommunications and Post. Functions	15340
 Testing Attributes Functional Testing	5665
 The. Risk Function Assessment	11134
+Trust Services Applications for Core Government Functions	16876
+UNICEF Child Functioning Module	16911
 User-Facing Functionality	13037
 VAT Returns Management Functionality	12509
+WHO’s International Classification of Functioning	16950

@@ -32,6 +32,7 @@ Another Chinese	2518
 Another Chinese Government	51,134
 Anti-Crime Surveillance Export-Import Bank of China	645
 Arinze Chinazom	7798
+Arret Jatta The Chinese Embassy	17423
 Artificial Intelligence China	9629
 Artificial Intelligence China's Moonshot AI	9629
 Assessing China	4676,566
@@ -59,7 +60,7 @@ Brookings Institution Global China Report	2518
 C CHINA INTERNATIONAL WATER	16623
 CAF Model China	15713
 CEIEC China National Electronics Import	10765,10
-CHINA	4209,8753,2437
+CHINA	4209,8753,2437,1536,348
 CHINA AND SOUTH AFRICA International Scene	2775
 CHINA ASIA ENTREPRISE	2342
 CHINA BOHAI BANK	2836
@@ -72,6 +73,9 @@ CHINA EXIMBANK GCL NO.35	54,15345
 CHINA EXIMBANK GCL. N.35	15399
 CHINA EXIMBANK PBC NO	56,302
 CHINA EXTMBANK CCL NO.3s	15399
+CHINA IN THE GAMBIA ALL RIGHTS	16929
+CHINA IN THE GAMBIA Home	16929
+CHINA IN THE GAMBIA URL	16929
 CHINA MAURITIUS FTA CANNOT	14816
 CHINA MAURITIUS FTA SHALL OPERATE	14816
 CHINA SHALL BE GRANTED PREFERENTIAL	14816
@@ -101,15 +105,17 @@ Carlos Sena and China	8638
 Case of China’s Digital Expansion	2518
 Century Technologies and China Mobile International	6566
 Chad Chile China Colombia Comoros Congo	11765
+Chapter of China-Gambia Relations	16929
 Chin J Int Polit	5242
 Chin-Chung Tsai	13991
-China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11,50,99,32,3,24,8,38,22,23,36,4,5,9,5,1,28,10,25,18,14,21,13,18,16,13,98,3,22,14,1,10,85,8,15,22,9,15,50,57,117,107,22,7,217,55,71,138,286,104,2,82,14,20,60,2,40,22,2,102,47,38,14,1,37,122,63,99,35,19,11,15,71,13,73,246,26,13,6,31,81,33,36,49,177,35,128,13,37,40,16,1,73,88,74,36,60,105,31,96,25,47,6,141,95,130,1,2,668,151,74,59
+China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11,50,99,32,3,24,8,38,22,23,36,4,5,9,5,1,28,10,25,18,14,21,13,18,16,13,98,3,22,14,1,10,85,8,15,22,9,15,50,57,117,107,22,7,217,55,71,138,286,104,2,82,14,20,60,2,40,22,2,102,47,38,14,1,37,122,63,99,35,19,11,15,71,13,73,246,26,13,6,31,81,33,36,49,177,35,128,13,37,40,16,1,73,88,74,36,60,105,31,96,25,47,6,141,95,130,1,2,668,151,74,59,60,12,59,22,7,14,24,15,23,11,83,11,1,87,8,40,50,12,27,48,4,7
 China Academy of Information and Communications Technology	7174,4628,2469
 China Academy of Space	12545
 China Aerospace Science and Technology Corporation	9816
 China Builds Underlying Infrastructure	10350
 China CAMC Engineering Co. Ltd	14615
 China Category	8726
+China Chapter Chairman	17070
 China Chengxin International Credit Rating Co	7785,4024
 China Christmas Island Cocos	11470
 China Citic Bank	1430,714
@@ -131,6 +137,7 @@ China Development Bank	50,55,16,220,1387
 China Development Bank and China EximBank	1728
 China Development Bank and ZTE	50
 China Development Bank and ZTE Corporation	50
+China Dibao Registry	16867
 China Diplomacy Why the Chinese	10026
 China Disability Inclusion Knowledge Exchange Platform	9767
 China Disabled Persons' Federation	9767
@@ -169,8 +176,10 @@ China Information Technology Expo	5755,1
 China Interbank Bond Market	15609
 China Interbank Bond Market. AIIB	15905
 China International Big Data Industry Expo	12864
-China International Development Cooperation Agency	13309
+China International Development Cooperation Agency	13309,3966
+China International Development Cooperation Agency and CMA	17275
 China International Development Cooperation Agency. All	13309
+China International Import Expo	16929
 China Is Turning Data	10350
 China JIA	6613
 China Macao SAR Resident Identity Card	10714
@@ -181,7 +190,7 @@ China Machinery Engineering Corporation	58,300,15681
 China Media Group	4880,10725
 China Media Project	9263
 China Memorandum of Understanding	7407
-China Meteorological Administration	9186,4757,210
+China Meteorological Administration	9186,4757,210,3122
 China Ministry of Commerce	18,33,71,59,1,1,2,157,1,116,8179,1577,3047
 China Mobile	1643,2478,555,566,10,520,794,608,1103,1539,628,5027
 China Mobile International	511,2166,1573,743,259,520,794,10246
@@ -259,6 +268,7 @@ China and South Africa	2775
 China and South Africa BTL Bilateral Tubal	2775
 China and South Africa Sub-Saharan Africa East	2775
 China and Sudan	15272
+China and The Gambia	16929,494
 China and Transformational Export Program	3441
 China and Transformational Exports Program	2157,1305,7848
 China and Uganda	6102
@@ -295,18 +305,20 @@ China's SpaceSail	8134,5091
 China's Three Gorges Dam	15875
 China's UN	8740
 China's Xinjiang Uygur Autonomous Region and Guizhou	12864
-China-Africa	5239,624,128,12,787,3236,1276,316,1248,800,605,726
+China-Africa	5239,624,128,12,787,3236,1276,316,1248,800,605,726,1932
 China-Africa AI	9238
 China-Africa Building Materials Niger	3546
-China-Africa Cooperation	183,608,2808,2392,12,787,4528,300,1691,357
+China-Africa Cooperation	183,608,2808,2392,12,787,4528,300,1691,357,3204,59
 China-Africa Cooperation Summit	3659
 China-Africa Digital Cooperation Development Action Plan	1826
 China-Africa Digital Cooperation Forum	1826
 China-Africa Digital Technology Cooperation Center	11318,1944,1009
+China-Africa Economic and Trade Expo	16929
 China-Africa Media Cooperation	10441,1177
 China-Africa Media Cooperation Deputy Minister	10441
 China-Africa Year of People	6003
 China-Aid Project of ECOWAS Headquarters Building	5991
+China-Aid Road and Bridges Project	16929
 China-Aided Educational Technical Cooperation Proje Subject	459
 China-Algeria	4880
 China-Arab States Summit. Visits	15272
@@ -315,6 +327,7 @@ China-Brazil Earth Resources Satellite	13106
 China-ECOWAS	6003
 China-ECOWAS Relations	6003
 China-Ethiopia	7350
+China-Gambia	16929
 China-Gates Foundation Tuberculosis Control Program Article	10784
 China-Kenya	10618
 China-Niger	3546
@@ -322,6 +335,7 @@ China-Rwanda	791
 China-Somalia	15071
 China-Tanzania	5977
 China-US	10038
+China-Union Investment	16947
 China-West Africa	6003
 China-West Africa Medical and Health Industry Expo	10630
 China-Zimbabwe Exchange Center	11302
@@ -353,12 +367,14 @@ China. But China	5863
 China. CIPS	8928
 China. Cambridge	10846
 China. China	2518,4064
+China. Chinese	16929
 China. Ese	14304
 China. European	6582
-China. Given	10527
+China. Given	10527,6484
 China. Grey	14389
 China. Health Inf Manag	10919
 China. In Nigeria	1250
+China. Increased	17235
 China. Inside	10430
 China. International Journal of Communication	2518
 China. Lesotho	12762
@@ -378,6 +394,8 @@ China. Reuters	10038
 China. Social Indicators Research	7886
 China. Southern China Morning Post	11135
 China. Stablecoin	5863
+China. Table	17011
+China. The Chinese Ambassador’s Scholarship	16929
 China. The EITI	16719
 China. The Protocol	5440
 China. The United States	10068
@@ -422,6 +440,7 @@ China’s Ministry of Public Security	11740
 China’s National Economic and Social Development Plan	5242
 China’s National Intelligence Law	4563
 China’s National Radio and Television Administration	10441
+China’s National TV. Sonko	17423
 China’s Personal Information Protection Law	10242
 China’s Platform Economy	226
 China’s President Xi Jinping	11154
@@ -464,22 +483,26 @@ Chinedu Okafor	3413
 Chinemenma Igbokwe and Adedola Adetokunbo-Ajayi	9750
 Chinenye Ifebirinachi	6423
 Chines	5242
-Chinese	18,20,13,5,1,2,66,55,1,1,1,1,1,4,1,30,26,69,23,2,2,17,17,98,5,2,79,21,38,28,144,459,33,271,65,109,98,1,290,27,135,239,109,189,213,34,268,91,28,12,20,64,37,15,49,6,6,52,48,64,44,110,4,46,31,69,46,12,293,17,68,13,54,42,4,4,186,41,108,109,114,4,5,10,31,14,15,20,27,144,150,24,34,104,27,16,128,12,99,56,173,26,53,131,24,15,112,85,13,1,159,80,96,1,47,35,55,79,7,48,58,15,118,161,107,13,144,120,197,16,113,35,15,166,112,102,31,7,8,7,27,45,12,41,22,29,118,1,25,19,2,95,20,32,156,42,30,61,112,19,87,46,42,12,9,21,133,14,135,1,18,61,11,2,1,7,50,4,22,91,12,2,164,45,209,71,10,4,5,14,1,129,58,398,447,23,54,72,209,319,2,46,194,156,47,674,170,22,214,2,2,381,223,26,171,78
+Chinese	18,20,13,5,1,2,66,55,1,1,1,1,1,4,1,30,26,69,23,2,2,17,17,98,5,2,79,21,38,28,144,459,33,271,65,109,98,1,290,27,135,239,109,189,213,34,268,91,28,12,20,64,37,15,49,6,6,52,48,64,44,110,4,46,31,69,46,12,293,17,68,13,54,42,4,4,186,41,108,109,114,4,5,10,31,14,15,20,27,144,150,24,34,104,27,16,128,12,99,56,173,26,53,131,24,15,112,85,13,1,159,80,96,1,47,35,55,79,7,48,58,15,118,161,107,13,144,120,197,16,113,35,15,166,112,102,31,7,8,7,27,45,12,41,22,29,118,1,25,19,2,95,20,32,156,42,30,61,112,19,87,46,42,12,9,21,133,14,135,1,18,61,11,2,1,7,50,4,22,91,12,2,164,45,209,71,10,4,5,14,1,129,58,398,447,23,54,72,209,319,2,46,194,156,47,674,170,22,214,2,2,381,223,26,171,78,1649,8,13,69,264,148
 Chinese AI	1965,374,2899,19,107,1426,1482,188,35,15,237,41,102,373,21,754,177,215,97,627
 Chinese AI Published	9659
 Chinese Academy of Sciences	14140,618
 Chinese Academy of Sciences. No	14140
 Chinese Ambassador	35,147,7,39,1,31,1,39,43,18,430,5200,12,1867,1220,289,187,1057,322,1529,632,203,302
 Chinese Ambassador Han Jing	10215
+Chinese Ambassador Liu Jin	17423
 Chinese Ambassador Rao Hongwei and Minister of Finance	791
 Chinese Android	3867,939,998,1046
 Chinese Assistant Minister of Foreign Affairs	11154
 Chinese Communist Party	2117,401,1080,1644,5108
 Chinese Community	14774
 Chinese Cybersecurity Law	3787
-Chinese Embassy	5991,15,7168
+Chinese Embassy	5991,15,7168,4249
+Chinese Embassy Stages Welcome For Returning	17423
 Chinese Enterprise Contracting Engineering Association	3546
 Chinese Government	18,33,1,3,51,16,59,1,1,1,1,5,3,107,42,1,17,2,97,160,10535,2829
+Chinese Government Scholarship Program	16929
+Chinese Government and MOFCOM	17423
 Chinese High-Flyer	11050
 Chinese Huawei	5337
 Chinese ICT	3598,1644,1955
@@ -496,7 +519,7 @@ Chinese Ministry of Industry and Information Technology	14271
 Chinese People's Political Consultative Conference Wang	15272
 Chinese People’s Republic	2518
 Chinese Premier Li Qiang	16514
-Chinese President Xi Jinping	105,4775,2594,488,52,726,150,373,805,377,2864
+Chinese President Xi Jinping	105,4775,2594,488,52,726,150,373,805,377,2864,3561
 Chinese President Xi Jinping and President Guelleh	183
 Chinese RMB	6870
 Chinese Renminbi	3056,985,12,3973
@@ -511,6 +534,7 @@ Chinese Standard Time	4880
 Chinese State-owned	3583
 Chinese Supplier	15399
 Chinese Supply of Surveillance Technology	9399
+Chinese Technology Company. Information Minister Jerolinmek	17320
 Chinese Vice Minister of Industry and Information Technology	14271
 Chinese Yuan	8928,459,3597,1405
 Chinese Yuan. Quidax	8443
@@ -586,6 +610,7 @@ Comorian and Chinese	14465
 Competition Space China European Union Data	9816
 Conclusion Both China	5242
 Congo Chine	11847,4590
+Construtores Civis Internacionais da China	17337
 Contracts for Chinese-financed	4563
 Cooperação China-África	11564
 Cooperação Midiática China-África	11045
@@ -601,6 +626,7 @@ Deepening China-Africa Mining Cooperation	13666
 Department News China	13309
 Deputy Resident Representative Nana Chinbuah	8343
 Description China Eximbank	1150
+Desenvolvimento China	17337
 Despite China	10430,724
 Digital China	15713
 Distributed Than... Bank of Kigali Courts Chinese	14969
@@ -619,9 +645,12 @@ Editorial Team Mr. Chinyama	6104
 Educational Technical Cooperation Project. China’s Ministry	122,337
 Egypt. China-vendor	6317
 Embaixador da República Popular da China	16280
+Embajada de China	17271
 Ericsson and China Mobile	5772
+Estudos da Cooperação China	17337
 Ethio Telecom and Chinese	8245,1284
 Ethiopia UAE China France United States	13868
+Europe and China	16996
 Exim Bank China	13868
 Exim Bank China Multilateral Bilateral	13868
 Exim Bank of China	12319,2160
@@ -660,6 +689,7 @@ G. Chinyama	10215
 G77 and China	11356
 GUINEE SUCCRSALE CHINA ROAD AND BRIDGE	16623
 Gambia China Marshall Islands Togo	11005
+Gambia and China. Ambassador Liu	17423
 Gaya Member Piragalathan Chinnapen The Audit	14744
 Geneva Libyan Guest House China	4849
 Ghana and China	8928
@@ -680,13 +710,15 @@ Great Firewall’ of China	2518
 Greater China	8049
 Grey’s Chinese	14389
 Guterres China	2857,3026,94
+HOTEL ANDA CHINA Antenna	17006
 Head of Global China Program	8890
 Herman Chinnery-Hesse’s SOFTtribe	8025
 Honourable Mr Justice MOSES HUNGWE CHINHENGO	13504
 Hopewell Chin’ono	753,1765
 Horticulture Republic of China	12972
 Hospital La Amistad China Guinea Ecuatorial	4209
-Hotel Anda China	7704
+Host China	16870
+Hotel Anda China	7704,9518
 House That China Built	5302
 Huawei’s Global Academy. Zambia and China	10215
 I Républiquc Popr-rlairc de Chinc	15399
@@ -705,6 +737,7 @@ Industrial and Commercial Bank of China Limited	6870
 Influence of China	2518
 Infrastructure and Chinese	4676
 Institute for China-America Studies	10444
+Interior da China	17337
 Introduction China	10350
 Ivoire Bhutan China Kenya Honduras Indonesia	11563
 Ivoire’s Ministry of Interior and Security and China Railway	551
@@ -715,6 +748,7 @@ John L. Thornton China Centre	10444
 Journal of Chinese Economic and Business Studies	5302
 Joyce Onyeagoro Percy Chinyama	6484
 Justice CHINHENGO	13504
+Justin Chinyantaa	17161
 K CHINA HARBOUR ENGINERING COMPANY LTD	16623
 Kabwe and Chingola	5247
 Kanyama MP Monty Chinkuli	3182
@@ -728,6 +762,7 @@ Kigoma China	2857,3026,94
 Korea and China	11135
 Korean Republic and China	14853
 LA CHINE Bn	15399
+LTIMAS NOTÍCIAS China	17360,1
 La Chine	3465,3312,3476,380,2772,217
 Latin America. China	12864
 Le Projet UNESCO-Fonds-en-dépôt de Chine	15733
@@ -779,6 +814,7 @@ Nigeria. China	5364
 North University of China	8510
 Northern Region. The Chinese Government	13122
 Northwest China's Shaanxi	7835
+Norway Netherlands Canada Denmark Luxembourg China	16973
 Nouakchott Chinguitel	3960
 Oladiran Stephen Olabiyi and Caleb Childozie Chinedu	6948
 Only the US and China	5029
@@ -798,7 +834,7 @@ People's Repubtic of China Serial No Date	15399
 Peoples' Republic of China	12984
 People’s Bank of China Governor Pan Gongsheng	10026
 People’s Bank of China. Most Africa-China	5863
-People’s Republic of China	258,751,5941,1012,1056,2136,188,1780,1145,572
+People’s Republic of China	258,751,5941,1012,1056,2136,188,1780,1145,572,2031,235,323
 People’s Republic of China. V- ON INSTITUTIONAL	7452
 Percive Chinyama Director Standards Department SMART	13308
 Percy Chinyama	3695,843,28,160,801,957,57,2838,414,2567,6,108,976,13
@@ -808,10 +844,11 @@ Peter Ching’oma	13095
 Peter Chintu	12376
 Phase IV Export-Import Bank of China	4473
 Phase-I Bank of China	311
-Pirada China	11587
+Pirada China	11587,5447,291,87
 Piragalathan Chinnapen Director	14744
 Plano de Apoio da China	11564
 Port of Salalah China West Airport Group	2511
+Povo Chinês	17337
 Powered By China	3598
 Print Large Medium Small Chinese Ambassador	13309
 Produce Two Next-generation Communication Satellites Chindeu	12066
@@ -834,11 +871,12 @@ Real Story of China	2518
 Records of Chinese Presence	14774
 Relevant Chinese	3546
 Republic Of China	12972
-Republic of China	8918,2236,1768,34,6,10,5,146,9,1126,744,397
+Republic of China	8918,2236,1768,34,6,10,5,146,9,1126,744,397,1839
 Republic of China RSTP Royal Eswatini Technology	12962
 Republic of China Taiwan	12962
 Republic of China-Taiwan	12970,2
 Republic of Guinea and Export-Import Bank of China. RMB	2159
+República Popular China	17271
 República Popular da China	3519,1235,3884,1356,1570
 República da China	3519
 Roland Banya and Tapiwa Chinembiri	9759
@@ -856,6 +894,7 @@ République Populaire de Chine. Ce	16650
 République Populaire de Chine. Depuis	16650
 République Populairè de Chinè	15399
 SAMA. China	6935
+SL925 ANDA CHINA	17006
 SMART Burkina Project Export-Import Bank of China	474
 SMART Zambia National Coordinator Percy Chinyama	4740,1244,120,1026,3085,2160,99,1168
 STANBIC BANK’S OFFERINGS Africa China Trade	5247
@@ -867,6 +906,7 @@ Salesforce IBM China Mobile Fujitsu IBM	6477
 Schmidt Chintu	8480,602,1470
 Seeing China’s Belt and Road	2518
 Senator Bernie Sanders and Chinese AI	10430
+Shengjing Hospital of China Medical University	16929
 Shenzhen Branch of Bank of China	303,34,7252
 Shop Silundika Harare Stand Land Chinhoyi	4896
 Silicon Valley and Chinese	5821
@@ -908,11 +948,13 @@ Threads Whatsapp China	9816
 Through the China-West Africa Medical Summit and Expo	10630
 Thursday. Chinese Ambassador Zhao Weiping	5010
 Tinubu Seeks China’s Geophysical Data Partnership	9018
+Transportes da China	17337
 Tribunal Supremo da República Popular da China	10752
 Trust. China China	11154
 Tuesday. Welcoming the Chinese	9767
 Turkey KSA Korea UAE China Egypt	15713
 Turkey KSA Korea UAE China Stage-2	15713
+Turkey. China	17235
 Turkey. Chinese	9984
 Tweet Chinese Ambassador	9379
 Télévision de Chine	10615

@@ -16,11 +16,19 @@ CNARR and UNHCR	2823
 CONASUR. UNHCR PRESENCE Staff	10864
 Commission for Africa UNHCR United Nations High	10841
 Congo. The UNHCR	11924
+Consumption of Unhealthy Food Groups	17127
 Convention. Education UNHCR	10864
 Dakar. UNHCR	10841
 Date UNHCR	13938
 Department of Refugee Services. World Bank and UNHCR	12297
 Development Programme UNHCR United Nations High	1867
+Document UNHCR	17323,1
+Document UNHCR Grand Bargain Update	17324
+Document UNHCR Press Release	17323,1
+Document UNHCR RBWCA	17323,1
+Document UNHCR Regional Bureau for West and Central	17323,1
+Document UNHCR West	17324
+Document UNHCR’s Multi-Country Office	17323,1
 Durable Solution- UNHCR	10864
 Executing Agency UNHCR Djibouti COUNTRY	13938
 Executing Agency. UNHCR	13938
@@ -43,6 +51,8 @@ ID and UNHCR	3597
 Ivoire. UNHCR	16580
 Japan for UNHCR	16580
 Joint UNHCR-Ministry of Health	11897
+Joint WFP and UNHCR Impact Evaluations Publish	17323,1
+LBR82587.pdf UNHCR	16830
 M&E Project Management QPR UNHCR Quarterly	13938
 MASSAH and UNHCR	11905
 MENFOP25 and UNHCR	13938
@@ -63,9 +73,15 @@ RRS and UNHCR	12257
 RRS and UNHCR's PRIMES	12257
 Recent Years UNHCR	15604
 Recognition of Donors UNHCR	10864
+Red Palm Oil Unhealthy Food	17127
+Red Palm Oil Unhealthy Food Grains	17127
+Red Palm Oil Unhealthy Food Group	17127
 RfP Request for Proposal UNHCR United Nations	11986
 SHIF Social Health Insurance Fund UNHCR	12227
+SSBs. Unhealthy	17127
 SSE STEP STG TFPs TTL UNHCR	16436
+SSF SSN UNDP UNHCR UNICEF USD	16902
+Scientific and Cultural Organization UNHCR United Nations	17157
 Sudan. UNHCR	15181
 Sweden for UNHCR	16580
 Switzerland for UNHCR	16580
@@ -78,11 +94,13 @@ UNHACO	16002
 UNHACO Non	16002
 UNHAS	14945
 UNHCHR	13938
-UNHCR	899,312,567,89,96,25,236,67,33,16,483,105,464,20,185,98,562,395,746,135,1614,672,255,817,540,1297,13,18,16,1,46,13,2,1,3,23,10,12,82,38,171,693,16,1,1,1,8,3,5,19,58,4,8,159,1,9,10,15,39,30,10,30,8,13,10,9,3,1,11,1,135,114,56,121,27,5,198,33,106,83,94,2,446,100,65,83,53,22,5,9,355,431,1,62,11,38,16,15,81,61,43,118,151,64,44,3,54,3,149,35,120,98,159,214,144,5
+UNHCR	899,312,567,89,96,25,236,67,33,16,483,105,464,20,185,98,562,395,746,135,1614,672,255,817,540,1297,13,18,16,1,46,13,2,1,3,23,10,12,82,38,171,693,16,1,1,1,8,3,5,19,58,4,8,159,1,9,10,15,39,30,10,30,8,13,10,9,3,1,11,1,135,114,56,121,27,5,198,33,106,83,94,2,446,100,65,83,53,22,5,9,355,431,1,62,11,38,16,15,81,61,43,118,151,64,44,3,54,3,149,35,120,98,159,214,144,5,245,44,3,25,49,19,353,1,166
 UNHCR ADDS Quarterly	13938
 UNHCR ADDS Twice	13938
 UNHCR Africa Published	15008
+UNHCR BURKINA FASO	17323,1
 UNHCR Briefing	12806
+UNHCR Bureau Régional Afrique	17323
 UNHCR Burundi	13360
 UNHCR CEMAC USSD United Nations Capital	11944
 UNHCR CRVS	12138
@@ -100,10 +118,12 @@ UNHCR Egypt's Facebook	15181
 UNHCR Egypt. Sudanese	15181
 UNHCR Ensure	13938
 UNHCR FPA. Independent	13938
+UNHCR Fact Sheet	17323,1
 UNHCR Financial Internal Control Framework	13938
 UNHCR Funding Update	11905
 UNHCR Gap Analysis	1867
 UNHCR Global Framework	11905
+UNHCR Grand Bargain Update	17324
 UNHCR Handbook and Guidelines	5533,6453
 UNHCR Helpline	13773
 UNHCR Innovation Service	12227
@@ -112,21 +132,28 @@ UNHCR Joint Data Center	13203
 UNHCR Joint Registration Exercise Total Population	13769
 UNHCR Kenya	12227,70
 UNHCR Legal	10822
+UNHCR Libya	16877
 UNHCR Microdata Library	15810
 UNHCR Mozambique	12806
+UNHCR Multi-Country Office	17323,1
 UNHCR Once	13938
 UNHCR Operational Data Portal	12227,4353
 UNHCR PRESENCE Staff	16580
 UNHCR Post Annual	13938
+UNHCR Press Release	17323,1
 UNHCR ProGres	1867,121
 UNHCR ProGres22	1867
 UNHCR Proxy ID An ID	12227
 UNHCR Q1	13938
 UNHCR Q3	13938
 UNHCR Quarterly	13938
+UNHCR RBWCA	17323,1
+UNHCR Refugee Data	17157
 UNHCR Refugee ID An ID	12227
 UNHCR Refugee Protection Assessment	11905
-UNHCR Report	1988
+UNHCR Regional Bureau for West and Central Africa	17323,1
+UNHCR Regional Report	17323,1
+UNHCR Report	1988,15336
 UNHCR Representative	1901,10910,2159
 UNHCR SENS	10841
 UNHCR Socioeconomic	10841
@@ -135,19 +162,28 @@ UNHCR Socioeconomic Survey	1867
 UNHCR Statistics for Refugees and Asylum Seekers Burkina	15743
 UNHCR Strategy	11905
 UNHCR Supporting	13938
+UNHCR Taha Gebril	16902
 UNHCR Thrice	13938
 UNHCR Twice	13938
 UNHCR UK	12227
 UNHCR UNHCR	13938
+UNHCR URL	17490
 UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1,135
 UNHCR Upgrades	12227
 UNHCR Upgrades Its Data Management System	12227
 UNHCR WFP Joint Assessment Mission	10841
+UNHCR West	17324
+UNHCR West Africa	17323,1
+UNHCR West Africa Agenda Regional Strategic	17324
+UNHCR West Africa Concept Note Regional	17324
+UNHCR West Africa Eradicating	17323,1
+UNHCR West Africa Funding Update	17323,1
 UNHCR World Refugee	899
 UNHCR World Refugee Day Golf Charity	899
 UNHCR and AfDB	13938
 UNHCR and Arizona State University	15008
 UNHCR and CNR	11900
+UNHCR and Côte	17323,1
 UNHCR and DRS	12227
 UNHCR and Ethiopia’s Refugees and Returnees Service	4842
 UNHCR and Grameen Credit Agricole Foundation	13938
@@ -188,10 +224,16 @@ UNHCR. Target	11924
 UNHCR. Technical Report	10841
 UNHCR. The Lisungi Experience	11905
 UNHCR. UNHCR	10841
+UNHCR.org	17490
 UNHCR129	10822
+UNHCR’S Strategic Directions	17323,1
+UNHCR’s Global Trends Report	17323,1
+UNHCR’s Multi-Country Office	17323
+UNHCR’s Regional Bureau for West and Central Africa	17323,1
 UNICEF and UNHCR	11924
 USA for UNHCR	16580
 Unhappy	5679,665
+Unhealthy	17127
 Unhealthy Food Consumption	15247
 Unholy	2096
 Unholy Chorus	2096

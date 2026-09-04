@@ -9,6 +9,7 @@ Addressing Multiple Poverty Traps	10964
 Africa Can End Poverty	13450,2440
 Afrobarometer's Lived Poverty Index	12192,86,223
 Against Poverty	16253
+Agenda for Prosperity and Development PRS Poverty Reduction	16943
 Ajuda de Desenvolvimento de Povo	11557
 Angola Poverty	10763
 Angola Poverty Assessment	10768
@@ -33,6 +34,7 @@ CSD Poverty	11136
 Cameroon Macro Poverty Outlook	10964
 Cameroon Poverty Assessment	10985
 Central African Republic Poverty Assessment	15661
+Century PRSP Poverty Reduction Strategy Paper	16927
 Child Poverty Analysis	12962
 Climate Change and Poverty. Climate Change and Poverty	13332
 Climate and Poverty Hotspots	10763
@@ -52,6 +54,7 @@ Director Poverty Reduction and Social Protection Division	12980
 Disability PRSP Poverty Reduction Strategy Paper	15244
 Dividend for Its Future Growth and Poverty Reduction	6948
 EAST DARFUR STATE MULTIDIMENSIONAL POVERTY INDEX	15244
+ECONOMY TRADITIONAL SECTORS POVERTY REDUCTION	16942
 ELGADARIF STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 ELGAZIRA STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 Economic Development and Poverty Reduction Strategy II	13418
@@ -59,6 +62,7 @@ Economic Development and Poverty Reduction Strategy. EICV	12403
 Empowerment Against Poverty NDS30 National Development	10841
 Ending Poverty	15658,855
 Enji Yagoub Oxford Poverty and Human Development	15244
+Equatorial Guinea Poverty Assessment	16996
 Eradicate Poverty	9353
 Extended Term Consultant for Poverty	10763
 Extreme Poverty	11133,9,856,1476
@@ -66,13 +70,15 @@ Extreme Poverty DEEP	11142
 Extreme Poverty ESR Enhanced Single	11133
 Fight Poverty Communities Push Government	16797
 Fight Poverty and Unlock Prosperity. Official Use	3604
+Gambia Poverty and Gender Assessment	16951
 Gender and Poverty	12946
 Ghana Poverty Reduction Strategy	236
 Ghana's Growth and Poverty Reduction Strategy II	16253
 Ghana. Poverty	789
 Global Alliance Against Hunger and Poverty	11133,1683
-Global Multidimensional Poverty Index	15244
+Global Multidimensional Poverty Index	15244,2041
 H for Headcount Ratio. Multidimensional Poverty Intensity	15244
+HUMAN DEVELOPMENT INDEX POVERTY INDEX	17101
 Honourable Minister for Humanitarian Affairs and Poverty	11998
 Household Living Conditions and Poverty	10841
 Hunger and Poverty	12158
@@ -82,7 +88,9 @@ INCIDENCE OF POVERTY DISPARITIES ACROSS STATES	11998
 INE- Multidimensional Poverty	10765,10
 Implementation of Sudan Multidimensional Poverty Survey	15244
 Income and Poverty	14734
+Income and Poverty Statistics	17149
 Innovations for Poverty Action	76,291,296,446,1,374,6808,1985,861
+Intangible Capital. Poverty	17458
 Interim Poverty Reduction Strategy Paper	14860
 Interim Poverty Reduction Strategy Paper ISIC-3	14857
 International Food Poverty Research	11986
@@ -106,6 +114,7 @@ Lived Poverty Score Rank Public Procurement	11870
 Lived Poverty Sustainable Environment	10759,1395
 Livelihood Empowerment Against Poverty	4336,11523,19,722
 Livelihood Empowerment Against Poverty Program Impact	13332,2326
+Livelihood Resilience and Escaping Poverty	17011
 MCDWD and Poverty Rate MCDWD	10763
 MONITORING AND EVALUATION UNIT The Poverty	12962
 MPI. Poverty	15244
@@ -122,14 +131,16 @@ Mi Parcours RIAS Regional Poverty Reduction	15424
 Minister of Humanitarian Affairs and Poverty Reduction	3018
 Minister of Poverty Eradication and Social Welfare	12923
 Minister of State for Humanitarian Affairs and Poverty	2381
+Ministry for Justice The Gambia Poverty and Gender	16951
 Ministry of Finance Poverty	11136
 Monitoring and Evaluation Division PRSAP Poverty Reduction	12962
 Multidimensional Child Poverty Analysis	12962
 Multidimensional Poverty	10765,10,1223,3246
 Multidimensional Poverty Incidence	15244
-Multidimensional Poverty Index	206,3342,8450,3246
+Multidimensional Poverty Index	206,3342,8450,3246,1857
 Multidimensional Poverty Index CSPro Census and Survey	15244
 Multidimensional Poverty Index M&E Monitoring and Evaluation	15244
+Multidimensional Poverty Index MSMEs	17101
 Multidimensional Poverty Index S-MPS Sudan Multidimensional	15244
 Multidimensional Poverty Index. NISR	12403
 Multidimensional Poverty Index. World Development	15244
@@ -150,6 +161,8 @@ National Poverty	13332
 National Poverty Line	10985,2347
 National Poverty Rate	13332
 National Poverty Rate. Survey	10768
+National PovertyMonitoringSurvey Results	16833
+Natural Gas MPO Macro Poverty Outlook	16996
 Navigating Two Decades of High Poverty and Charting	14576
 Nigeria Multidimensional Poverty Index	11998
 Nigeria Poverty	11469
@@ -167,10 +180,13 @@ POV Pauvreté SFI Société	7655
 POVERTY AND ECONOMIC EMPOWERMENT	13399
 POVERTY ERADICATION	12373
 POVERTY REDUCTION	12962
+PRSP Poverty Reduction Strategy Paper PSDS	16861
 PRSP Poverty Reduction Strategy Paper RFQ	11525
 Paesi Emergenti CPRF Community Poverty Reduction	12970
+Participatory Performance Monitoring PRSP Poverty Reduction	16852
 Pivotal Moment for Poverty Reduction	10985
-Poverty	761,208,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5,151,103,229,57,24,11,295,12,57,74,160,34,184,27,23,34,41,32,136,135,119,23,16,2,147,221,86,221,198,42,674,189,93,61,26,32,82,23,64,15,52,54,267,42,48,57,3,2,182,187,261
+Poverty	761,208,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5,151,103,229,57,24,11,295,12,57,74,160,34,184,27,23,34,41,32,136,135,119,23,16,2,147,221,86,221,198,42,674,189,93,61,26,32,82,23,64,15,52,54,267,42,48,57,3,2,182,187,261,609,49,45,293
+Poverty Alleviation	16861
 Poverty Alleviation Funding Facility	11579
 Poverty Alleviation and Empowerment Recurrent Expenditure	14835
 Poverty Assessment	1867,8896,222,2538,2138
@@ -195,18 +211,22 @@ Poverty Intensity	15244
 Poverty M&E Monitoring	11855
 Poverty Pillars	14752
 Poverty Poor	15604
-Poverty Rate	10985
+Poverty Rate	10985,6172
+Poverty Rate Informal Employment Micro	16973
 Poverty Reduction	10964,899,157,903,39,1867
 Poverty Reduction Effects of Mobile Broadband	15621
 Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
-Poverty Reduction Strategy	11924
+Poverty Reduction Policies and Goals	16861
+Poverty Reduction Strategy	11924,5019,196
 Poverty Reduction Strategy GRA Ghana Revenue	236
-Poverty Reduction Strategy Paper	11525,399,1494,1826,180,1190
+Poverty Reduction Strategy Paper	11525,399,1494,1826,180,1190,247,288
 Poverty Reduction Strategy Team	14860
 Poverty Reduction Strategy and Action Plan	11131,3,1841
 Poverty Reduction Strategy and Action Programme	12914,48
 Poverty Reduction Support Credit Program PSI	15475
 Poverty Reduction and Growth Strategy Paper. TCLE	11916
+Poverty Reduction and Resilience Building	16951
+Poverty Reduction and Resilience Building Thematic Policy	16951
 Poverty Reduction and Shared Prosperity	11924,3500,87,90
 Poverty Reduction and Shared Prosperity. The Project	16436
 Poverty Reduction and Social Protection	12964,14,82
@@ -234,8 +254,11 @@ Poverty and Inequality Statistics	11237
 Poverty and Rural Development	12946
 Poverty and Social Impact Assessment of Potential Fuel	13332
 Poverty and Vulnerability	10763
+Poverty-Reduction	16861
 Poverty.44. Gender.45. Food	14410
+Povertyand	16833
 Povo AIAS Avaliação de Impacto Ambiental	11390
+Povo Chinês	17337
 Povo Guiné-Bissau AFF Análise	11557
 Povo Unido	11544
 Povoação Velha	15388
@@ -244,6 +267,7 @@ Povos	14,10736,4727
 Povos Indígenas	11390,152
 Povos. LEI DA PROTECÇÃO DE DADOS	14
 Priorities for Ending Poverty and Boosting Shared Prosperity	15474
+Pro-poor Agenda for Prosperity and Development PRS Poverty	16935
 Professor of Poverty and Human Development	15244
 PítricoogfriarmaaddoenGo Povroegrrnaom. Ca	15694
 RED SEA STATE MULTIDIMENSIONAL POVERTY INDEX	15244
@@ -254,6 +278,7 @@ Reduce Poverty	16626
 Reduce Poverty and Boost Sustainable Growth. Systematic	13312,2
 Reduce Unemployment and Eradicate Poverty	14293,54
 Regional Poverty Reduction Strategy Paper	15424
+Relevant and Quality Education for All Gambians for Poverty	16852
 Republic of Congo Poverty Assessment Report	15493
 Republic of South Sudan South Sudan Poverty	3583
 Rethinking Poverty Reduction	10985
@@ -267,6 +292,7 @@ STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 SUDAN MULTIDIMENSIONAL POVERTY INDEX	15244
 SUDAN MULTIDIMENSIONAL POVERTY SURVEY	15244
 SUDAN MULTIDIMENTIONAL POVERTY SURVEY	15244
+Second Strategy for Poverty Alleviation	16861
 Severe Poverty	15244
 Simulated Poverty Impact	13332
 Social Safety Nets Poverty Reduction Policies	10837,1315,188
@@ -297,12 +323,15 @@ Units Targeting the Multi Dimension Poverty Food	15578
 Unstacking Global Poverty	15244
 Urban Poverty Reduction Programme	10763
 Use of Account Poverty	1828
+WB2021 Poverty	16942
 WEST DARFUR STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 WEST KORDOFAN STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 WHITE NILE STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 Widespread and Severe Poverty	15244
 World Bank Poverty Assessment	10763
 World Bank. Angola Poverty and Equity Brief	11417
+World Bank. Equatorial Guinea Poverty Assessment	16996
+World Bank. Liberia Poverty Assessment	16949
 World Bank. Poverty and Inequality Platform	11417
 World Bank’s Poverty	12399
 Youth and National Services MPESW Ministry of Poverty	12923

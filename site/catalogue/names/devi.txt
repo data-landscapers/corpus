@@ -16,10 +16,13 @@ Automated Digital Devices	1988
 BIOMETRIC STANDARDS AND DEVICE CERTIFICATION	12047
 BOOJHOWON Chandranee Devi Senior Human	14770
 BRING YOUR OWN DEVICE	34
+BROADBAND DEVICES	16884
 Band Devices	736
 Band Devices Requirements	736
 Bring Your Own Device	34,10512,4508,110,348
 Bring Your Own Device CIL	15512
+Broadband Devices	16883,1
+COMPTES EN DEVISES OU EN DIRHAMS	17485
 Centralized User and Device Management	12241
 Compute Unified Device Architecture	9475
 Confiscates Starlink Devices Kordofan	4245
@@ -30,6 +33,9 @@ Control and Use of Personal Mobile Devices	14839
 Cross-cultural Study of Sharing Digital Devices	4439
 Customer Device Sales	3487
 D-3 Implement Student Device Affordability Schemes	11857
+DEVICES	16883
+DEVICES APPLICATIONS	16883
+DEVICES FOR BROADBAND Quality Accessibility	16883
 DEVICES TO THE ELECTRONIC INVOICING SYSTEM	4699
 DEVISE DE L'OFFRE Tous	16747
 DEVISED BY CHINA	561
@@ -37,6 +43,7 @@ DEVISES POUR LES PAIEMENTS	15901
 DIGITAL SKILLS IN NIGERIA Device	11879
 Data Data and Storage Devices	10721
 Data3 Digital4 Fintech5 SMS Devices Wholesale6	10793
+Destructive Devices Or Ammunition	16935
 Develop the Bring Your Own Device	11986
 Develop the Mobile Device Management	11986
 Developers of Fiscal Devices	13606
@@ -62,7 +69,8 @@ Device Requirements Applicants	11347
 Device School Support System	11857
 Device V	5029
 Device VI	5029
-Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559,535,1117
+Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559,535,1117,2160,1,58,21,256
+Devices Acquisition Type	16884
 Devices Devices	14723
 Devices For Primary Health Care	10776
 Devices Manuals	13185
@@ -70,14 +78,16 @@ Devices Q3	11857
 Devices Sector	899
 Devices and Terminals	2776
 Devices and Terminals No Category of Q2	2776
-Devido	2816,3244,5304,1,22,34,25,123,8,441,141,3344
+Devices for Education Knowledge Pack	16942
+Devido	2816,3244,5304,1,22,34,25,123,8,441,141,3344,1644
 Devido Procedimento	11388
 Devine Mercy Eldoro Catholic Dispensary Data	7167
+Devis	17485
 Devis Herwin Claude	15692
 Devis Quantitatif	13694
 Devis Quantitatif Estimat	13694
 Devisc	15399
-Devise	10829,2548,1375,60,135,452,1348
+Devise	10829,2548,1375,60,135,452,1348,738
 Devised	12934
 Devises	15901
 Devittie	3379
@@ -86,12 +96,14 @@ Digital Devices	5871,6582
 Digital Infrastructure and Devices	11918
 Direct-to- Device	16144
 ENABLED MEDICAL DEVICES ACKNOWLEDGEMENTS SAHPRA	3651
+ET D’IMPORTATION DES DEVISES BILLETS	17485
 East Africa Device Assembly Kenya Ltd	3975
 Electronic Devices	1988
-Electronic Fiscal Device	13606
+Electronic Fiscal Device	13606,3405
 Electronic Fiscal Device Management System	7746
 Electronic Fiscal Device Management System EPZ	13053
-Electronic Fiscal Devices	4699,287,261,7701
+Electronic Fiscal Device System EMDE Emerging	17011
+Electronic Fiscal Devices	4699,287,261,7701,4063
 Electronic Fiscal Devices. Unlike	6469
 Electronic Invoice Devices	14952
 Enabled Medical Devices	3651,4650
@@ -105,7 +117,7 @@ First Schedule. Virtual Fiscal Device	13606
 Fiscal Device	13606
 Fiscal Device API Gateway Requirements Specifications	13606
 Fiscal Devices	12509,1097
-Fiscal Electronic Device	8368,177
+Fiscal Electronic Device	8368,177,8563
 Fiscal Electronic Devices	7695,673
 Fiscal Fuel Devices	13606
 Fish Aggregating Devices	14818,11
@@ -146,6 +158,7 @@ LOCAL CONTENT POLICY P11 Local Device	11857
 Languages ICT Devices	958
 Learner Digital Device	899
 Licenciamento da Atividade de Cadastro Predial Taxas Devidas	11901
+List of Qualified Devices for Electronic Signature	17534
 Lower Taxes and More Affordable Devices	8241
 Mean Deviation	12175
 Medical Device	3651,4650,2863,104
@@ -158,7 +171,7 @@ Ministry of Health and Wellness. Mrs. K Devi	14736
 Misheeta Devi Gungah Basant Rai Government	14745
 Mobile Device	15164
 Mobile Device Financing Facility Mr. Kolubah	2916
-Mobile Device Management	11231
+Mobile Device Management	11231,5693,47
 Mobile Device Policy	15164
 Mobile Phone Devices	6671,275,9097
 Mobile Phone Devices Mobile	6671
@@ -178,6 +191,8 @@ National Aggregate Deviation	13058
 No. of Devices and Terminals	2776
 Number of Assistive Devices Distributed	12977
 Number of Fuel Fiscal Device Interruptions	13606
+OPERATIONS DE CHANGE DE DEVISES	17485
+OPERATIONS DE CHANGE DE DEVISES Dispositions	17485
 OpenAI and Advanced Micro Devices	7209
 Own Device	15164
 Own Device CD Compact Disc	34
@@ -200,11 +215,15 @@ RAMPHUL Taranginee Devi Electoral Officer	14770
 RFP. Deviations	12681
 Recovery Devices	14921
 Reduction of National Aggregate Deviation	12175
+Refresh Device Upgrades Upgrading	16963
 Regulation of Medical Device Software	11268
 Remote Wipe for InTune Device	11231
+Resistance Temperature Device	16947
 Retail Fuel Price Deviation	1828
 Root Cause Analysis of Deviations Table	5245
+SEAL CREATION DEVICES	17534
 SUBRON-TOOFANNY Hansha Devi ASA	14770
+Seal Creation Devices	17534
 Short Range Radio Devices	14883
 Short Range and Utrawide Band Devices	736
 Smart Device Access	1284
@@ -224,9 +243,13 @@ Theft of Device	11861
 Thousand Fixed Line Subscriptions Devices and Terminals	9781
 Tower Cos. P-11 Local Device Assembly	11857
 Transport Radiation Device	718
+USE BROADBAND DEVICES	16884
+USE BROADBAND DEVICES A Having	16884
 USERS Internet ACCESSING VIA MOBILE DEVICES	12214
 Unified Device Manager	12241
-Use of Fiscal Electronic Device	7695
+Use Broadband Devices D2	16884
+Use Broadband Devices No Parameter Remark	16884
+Use of Fiscal Electronic Device	7695,9413
 User Device Compatibility Web	13037
 User Devices End-user	12240
 VAT. Electronic Fiscal Devices	12948

@@ -5,7 +5,7 @@ Adquirente	11386,52
 Adquirentes	11438
 Adquirir	15358,145,586
 Adquisiciones	4209
-Adquisición	4209
+Adquisición	4209,12689
 Adquisición Activos	4209
 Adquisición de Acciones	4209
 Adquisición de Anti	4209
@@ -16,6 +16,7 @@ Adquisición de Medicamentos	4209
 Adquisición de Participaciones	4209
 Adquisición de Servidor	4209
 Adquisición de Vehículos de Servicios	4209
+CAPITULO II MODOS DE ADQUIRIR	16838
 CAPÍTULO II ADQUIRENTES NÃO BANCÁRIOS	11438
 O Adquirente	11438
 Os Adquirentes	11438

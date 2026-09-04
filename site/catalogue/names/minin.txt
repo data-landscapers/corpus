@@ -4,7 +4,9 @@ AI for Mining	12512
 AI for Mining Exploration	4528
 Addressing Illegal Mining	16511
 African Mining Legal Atlas	2889
+Agricultural and Mining Agricultural and Mining	16853
 Agriculture Fishing Mining Public	11874
+Agriculture and Mining Concession	16853
 Alpha Centauri Mining	16285
 Artisanal Mining Programme	13460
 Ashapura Mining	16649
@@ -13,6 +15,9 @@ B SOCIETE SEKE GOLD MINING SA	16623
 B. Mining	13060
 BEL AIR MINING SA	16623
 BROTHER MINING	15670
+Bea Mineral Mining Company	16970
+Bea Mountain Mining Corporation	16970
+Bea Mountain Mining Site	17140
 Bitcoin. Mining	9367
 Burundi Mining Authority and IBI Sign Comprehensive	13666
 Burundi Mining Bureau	13666
@@ -23,6 +28,7 @@ Christmas Pass Mining	8639
 Climate-Resilient Mining	13474
 Companies Registry Acts of Parliament Zimbabwe Mining	12511
 D MOOLMAN MINING GUINEA MOOLMAN MINING	16623
+DE Mining Tier	17140
 DEAVOUR MINING	2342
 DTP MINING GUINEE SASU	16623
 Data Mining	2816,8442,1763,3475
@@ -33,6 +39,7 @@ Deepening China-Africa Mining Cooperation	13666
 Delta Mining Limited	13362
 Delta Mining Limited and Mopani Copper Mines	13387
 Deploy Digital Identity Against Illegal Mining	7513
+Description Mining	17140
 Directorate-General of Mining Cadastre	10873
 Dynamic Mining	16649
 E SOCIETE AFRICAN MINING SERVICES-GUINEE-SARL AMS-SARL	16623
@@ -56,6 +63,7 @@ Groupe ENDEAVOUR MINING	2342
 H GUINEA EVERGREEN MINING INTELLIGENCE COMPANY	16623
 H SOCIETE BEL AIR MINING SA	16623
 H SOCIETE MACI MINING	16623
+Illicit Mining	16935
 Information Regulator's Enforcement Notice Against Mining	6683
 Institute of Geological and Mining Research	16239
 J LAGUIPRESS SECURITY MINING SARLU LAGUIPRESS	16623
@@ -74,7 +82,10 @@ Kisanfu Mining	6843
 Konkola Deep Mining Project	13387
 Korea C&C Mining	15542
 Land and Mining Management Strengthening Project	10873
+Leper Colony Settlement Mining	17140
 Liberia International Mining	8755,4813,2590
+Liberia Mining Company	17367
+Liberia. Mining	16975
 Likoma Activity Center. Energy and Mining Sector	13122
 MADAOUELA MINING COMPANY	11597
 MINEDU MININTER Others	1284
@@ -87,6 +98,7 @@ MININFRA’s Capacity Development Strategy	14947
 MINING	5733
 MINING ACT	6921
 MINING AND DIGITAL ECONOMY	7167
+MINING AND MINERALS	16900
 MINING COMPANY	13189
 MINING Par	2342
 MINING SUB-SECTOR	16511
@@ -111,12 +123,13 @@ Master Mining	15439
 Master Mining Vu	15439
 Mimosa Mining Company	1554
 Minerals and Mining	16511
-Minerals and Mining Act	16511
+Minerals and Mining Act	16511,597
+Minerals and Mining Law	17257,147
 Minerals and Mining Policy	16511
 MiniTPT MiniTPT Radiodiffusion Mininfo Mininfo	13290
 Mininfo ARCT ARCT ARCT ARCT Proposition	13290
 Mininfo De Août	13290
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4,51,94,100,1181,19,226
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4,51,94,100,1181,19,226,389,96,15,128,1,95,22,107
 Mining AI	4528,7984
 Mining CEOs	7751
 Mining Cadastre	10873
@@ -124,12 +137,14 @@ Mining Cadastre Department	10873
 Mining Cadastre General Directorate	10873
 Mining Cadastre Information Management System	13685
 Mining Cadastre Portal	12987
-Mining Cadastre System	11232
+Mining Cadastre System	11232,5873
 Mining Cap	6921
 Mining City Radio	9111
 Mining Code	2889,10735,3095
 Mining Code. Delivery	2889
-Mining Companies	13060
+Mining Companies	13060,3887
+Mining Concessions	16848
+Mining Concessions Guideline	16848
 Mining Cooperation Agreement	13666
 Mining Cooperation Agreement URL	13666
 Mining Development Agreement	13122
@@ -140,14 +155,19 @@ Mining Indaba	10592
 Mining Industry	13122
 Mining Local Content Summit	16511
 Mining Malawi Wins Global Recognition for Offline	3965,1438,1506
+Mining Mining	17140
 Mining Motor	10976,1370
+Mining Operations Agriculture Operations	17011
 Mining Operations Transformation	7751
 Mining Operations Transformation PwC South Africa	7751
+Mining Otherland Legend Color REDD	17140
+Mining Output	17235
 Mining Qualifications Authority NDFSS	6832
 Mining Revenue and Inclusive Development	1828
 Mining Royalties	14985
-Mining Sector	2775,9581,704,625
+Mining Sector	2775,9581,704,625,3326
 Mining Sector Governance Support	2889
+Mining Sector No Interventions Activities	17011
 Mining Sector Optimization and Transformation Zimbabwe	4528,7984
 Mining Sector Working Group	13060
 Mining Services	13122
@@ -177,19 +197,24 @@ Mining of Mineral Deposits	7759
 MiningAgriculture	13532
 MiningEntrepreneurshipESG	7253
 MiningTech	4528,7984
+Miningand	16833
 Minint	9399
 Minister of Energy and Mining	6490
 Minister of Energy and Mining Lejone Mpotjoane	8801
 Minister of Mining	12983
 Ministry of Energy and Mining	13122,190,2
+Ministry of Hydrocarbons and Mining Development	16996
 Ministry of Mines and Mining Development	1554
 Ministry of Mining	15085
+Ministry of Mining Development and Hydrocarbons	16996
 Ministry of Petroleum and Mining Market Report	3583
 Modernizing Mining and Manufacturing	11221
 Morne Witt Mining Claim No	13189
 Mulenga. Mining	8039
 Namibia Institute of Mining and Technology	12399
 National Anti-Illegal Mining Operations Secretariat	7695,8816
+National Mining Corporation	17157
+National Mining Policy	17105
 Nimba Mining SA	16719
 Nouvelle Gabon Mining	16285
 OFFICE Presidenc MINCOTI BRB MININTER	1284
@@ -228,6 +253,7 @@ Société TELOUA SAFEGUARDING URANIUM MINING COMPAGNY	11597
 Soft Skills Gaps Mining and Quarrying Manufacturing	12445
 Songwe Rare Earth Mining	13060
 South African Mining	7751
+Special Mining Reserve	16972
 State Department for Mining	14546
 Strategic Outlook for Mining Technology Governance Looking	10069
 Support Artisanal and Small-scale Mining Formalisation	13938

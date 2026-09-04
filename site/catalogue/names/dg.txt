@@ -22,6 +22,7 @@ Africa CDC DG Jean Kaseya	5213
 Afrique CPIPP DGE Centrale Economic and Monetary	15372
 Alignment of DGS	12917
 Allowed the DGCI	11939
+Angelo Costa DGCI	17004
 Assessment DGFP General Directorate of Civil Service	969
 Assistant DG	16249
 Atelier DGI	13796
@@ -50,6 +51,7 @@ CRAPC ITCMI MADRP ITAFV INRAA DGSN	16103
 Cabo Verdean Escudo DGTED Directorate of Telecommunications	11863
 Cameroonian DGT	16033
 Campost DG Pierre Kaldadak	1946
+Casablanca. La DGI	17496
 Centers DGMEC General Directorate for Civil Registry	10812
 Central Supplier Database DG Director General	11250
 Chasse DGI Direction Générale des Impôts DGDDI	10876
@@ -64,6 +66,7 @@ Conseiller du DG	16175
 Contexte La DGID	16328
 D- DGAE	16177
 D.G.A D.G FONCTION TOTAL DG	15670
+DAAG DG	17470
 DCF DGE DGI DGD DGSI DGTCP	10858
 DCI DG Amin Mohamed	10398
 DE LA DGI Mars	10858
@@ -82,6 +85,7 @@ DG Ansat	10924
 DG Aristide Guy Adjinacou Gnahoui	3387
 DG Arzouma Parfait Louré	3925
 DG Attia Byll	6446
+DG Bah	17125
 DG CAMEPS	15685
 DG CAMTEL	15559
 DG Connect	11155
@@ -100,9 +104,10 @@ DG Functional	5533
 DG GANADERÍA	4209
 DG INTPA	970,10185,3367,1347,412,90,397
 DG INTPA Directorate General for International Partnerships	970
-DG Impuestos	4209
+DG Impuestos	4209,12721
 DG Indicator	11986
 DG International Partnerships	6552,191,4412
+DG Joekai Unveils Plans	17057
 DG Jordan-Dyani	2902
 DG Justine Adebiyi	6446
 DG Kashifu Inuwa	4725
@@ -177,8 +182,7 @@ DGAIE	3044,7814
 DGAMP	15936
 DGAN Révision	16103
 DGAP B	15455
-DGAPE	11893,16,74,4337
-DGAPE A Direção Geral de Apoio	16320
+DGAPE	11893,16,74,5300
 DGAPR	8891
 DGARH	15524,377,199
 DGARH B	16100
@@ -221,8 +225,11 @@ DGB-published	4398
 DGBM-DCF-DGTCP.DGID-DGDDI	15397
 DGC Direction	15961
 DGCCRF	10647,1095
+DGCI DAS CONTRIBUIGOES E IMSCSTOS Secrelaria	17111
 DGCI. Para	11532
+DGCIL. Bissau	17111
 DGCIS Development Partnership	2667
+DGCL Due Date	17505
 DGCM and GAF AG	10873
 DGCMEF Direction	15961
 DGCMP	11905,4462
@@ -294,7 +301,7 @@ DGENNTI. Article	15701
 DGENNTI. Chapitre III	15701
 DGEOCS	15575
 DGEP Direction	15961
-DGEPASE	11557
+DGEPASE	11557,5501,280
 DGES TOTAL GENERAL DE CAPACITES D'ACCUEIL	15674
 DGESS	10847,27,4638,83,37,7
 DGESS Année	10847
@@ -304,6 +311,7 @@ DGESS General Directorate of Studies and Sectoral Statistics	16384
 DGESS. Ainsi	15595
 DGESS. Elle	15595
 DGESup	3396
+DGEWE	16951
 DGF Advisory Committee	14997
 DGF Data Governance Framework DMU	14790
 DGF Law	15023
@@ -413,6 +421,7 @@ DGID DGDDI	16328
 DGID. Après	6954
 DGID. Article	7346
 DGID. Il	7346
+DGIR. Las	17342
 DGIS ARME	15694
 DGIS CM DGIS	15694
 DGIS COPAC	15694
@@ -430,6 +439,7 @@ DGIS. The Project	11855
 DGISDGI	15694
 DGLCP	15691
 DGM La Direction Générale	14613
+DGM Observation	17447
 DGM-DMC-SSER	16177
 DGM. Article	15371
 DGMDA	15555
@@ -447,7 +457,8 @@ DGPCP. Artigo	16056
 DGPE Rapport Annuel	2342
 DGPE Toutefois	2342
 DGPE. En	2342
-DGPEPWIG	975,7579,5750
+DGPEPWG	16895
+DGPEPWIG	975,7579,5750,2590,9,22,8,12,41,3,1,36,1,60,41,34,9,4,19,28,3,4,33,20,23,44,28,31,14,4
 DGPER Nombre	3396
 DGPLQ	15604
 DGPLQLV	11530
@@ -458,6 +469,7 @@ DGPOP	15685
 DGPRO	14332,2053
 DGPSN	417,3783
 DGPSN Direction Générale	13725
+DGPWIGE	16871
 DGRAD	477,5906,1087,595,122,3719,2264
 DGRE Direction	15961
 DGRH CS	15524
@@ -512,19 +524,23 @@ DGSP POLICE GENERALE Lieutenant-colonel	16100
 DGSP PRESIDENT DE LA REPUBLIQUE	15744
 DGSP Pour	15744
 DGSP SECTION	15744
-DGSSI	547,3,18,1,19,597,253,4170,222,8828,1278
+DGSSI	547,3,18,1,19,597,253,4170,222,8828,1278,1598
+DGSSI URL	17534
+DGSSI. Cette	17534
+DGSSI2026 All	17500,34
 DGSSSa	15685,95,494,182
 DGST B	15455
 DGST MINISTERE DE L’INTERIEUR ET	15455
+DGT Digital	16980
 DGT Direction	14437
 DGT IEFP	15694
 DGT Strategic Plan	16033
-DGTCP	2330,146,920,208,779,2444,3885,146,18,4621,80,263,556,323
+DGTCP	2330,146,920,208,779,2444,3885,146,18,4621,80,263,556,323,275
 DGTCP Direction	15961
 DGTCP En	3396
 DGTCP Recettes	10876
 DGTCP. L'exécution	10876
-DGTED	3558,6,1765,6534,102,43,3468,28,185,445
+DGTED	3558,6,1765,6534,102,43,3468,28,185,445,1052
 DGTED OUTCOME INDICATOR	11863
 DGTIC	15512
 DGTIC SETIC BRB SETIC	1284
@@ -563,7 +579,9 @@ DSW and DGFI	12977
 Datacenter de La DGI	10858
 Dedicated DG	10785
 Depository CSR Corporate Social Responsibility DGF	15023
+Dept DG LISGIS Sector Ministries Agencies	17116
 Deputy DG	1915
+Deputy DG-Technical	16971
 Dg Asin	3106
 Dg Oneci	3988
 Dg de Sgci	3988
@@ -658,6 +676,7 @@ JCPS DG’s Meeting Home Affairs Bill	5533
 Kaliope Azzi-Huck ANEVE CONFEMEN DGACEVS DGAEP	15743
 Karl Makemba DGI	16461
 Kinsuka. Mme le DG	15670
+Kontaktu da DGCI	17102
 L'appel du DG	2758
 L'appel du DG ASIN	3248
 LA DGI EN APPELLE-T-ELLE	15970
@@ -668,6 +687,7 @@ LFB DGSN NA ISO	16103
 La DG-AEF	15639
 La DGAS	10876
 La DGB	10876
+La DGCT	17454
 La DGE	5945
 La DGEFC	10876
 La DGENNTI	15701
@@ -676,6 +696,7 @@ La DGFD	10876
 La DGI	10519,339,3311,1456,1,110,61,139
 La DGI ENGAGE LA VALIDATION	5814
 La DGID	7346,156
+La DGM	17447
 La DGPE	15874
 La DGPF	7713
 La DGTCP	15577
@@ -698,7 +719,9 @@ Maladie DGPOP	15685
 Malienne Maïmouna Dicko. Pour la DG	11652
 Mamadou CAMARA INS DGA	16620
 Managed Requirements DGov	9237
+Marines Actuellement la DGM	17447
 Matches the DGB	1990
+May-2025 DGTCP	16994
 Medecine Preventive DGR	14442
 Methodology DGEANF	11905
 Ming Hao Responsible DG	15905
@@ -707,6 +730,8 @@ Monsieur le DG. Nous	3849
 Moussa DOUMBOUYA INS Assistant DG	16620
 Moyen Terme DGB	15840
 Mulheres DGAENF Direção-Geral da Alfabetização	11557
+NA DGCL Due Date	17505
+NA DGCT Recurrent Yearly In Progress	17505
 NESDB DG. Consolidating	5096
 NGOLELE Frédéric DGID	15580
 NIMC DG	7143,977
@@ -731,6 +756,7 @@ PIUs. DGE	11905
 PORTEFEUILLE DE L’ÉTAT DGPE DIRECTION GENERALE	2342
 POSAF DGI PLAN D'ORIENTATION STRATÉGIQUE	10712
 POSAF la DGI Rapports	10712
+PURA DG	17125
 Per DG Louis-Marc Sakala	1643
 Per the DGI	3579
 Percentage Completion of DGTS Pillars	14750
@@ -771,10 +797,13 @@ Secundário DGESIC Direção-Geral	11557
 Selon la DGE	3389
 Selon la DGI	9192
 Selon le DG	2758,9316
+Senegalese Prisons DG	17177
 Signature du DGCC	10975
 Sistema Educativo DGPEE Direção-Geral de Previsão	11557
 Smart Africa Alliance DG Lacina Kone	5348
 Smart Africa DG Lacina Koné	3959,3238
+Social Systems NA DGCL Due Date	17505
+Social Systems NA DGCL Recurrent Semi-Annually	17505
 Sociales DGS	16012
 Spécifications. Tassili Airlines DGAN Nouveau Thème	16103
 Statistiques DGEPF Direction Générale	11944
@@ -782,8 +811,12 @@ Support DG	10876
 Support Facility DA Designated Account DGE	11549
 Supporting the DGDEN	15553
 System DFI Development Finance Institutions DG	11224
+Systems NA DGCL	17505
+Systems NA DGCL Due Date	17505
+Systems NA DGCL Recurrent Yearly	17505
 TIC. La DGDEN	15493
 TRIBUNE du DG Paterne Binene	10163
+Team DGL Digital Gambia Limited ECOWAN	16885
 Tidiane Ouattara Appointed Inaugural DG	12133,737
 Tot DG	11867
 Transmission des DG	10876
@@ -795,4 +828,5 @@ Visa DGID	16328
 Vision La DGPE	2342
 Visite du DG Participants Agents	13689
 WanyLab DGSN Castel El Djazaïr ITGC	16103
+Women DGWE	16951
 Z-rétinol. WanyLab DGSN Castel El Djazaïr	16103

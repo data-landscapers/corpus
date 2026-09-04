@@ -19,10 +19,12 @@ Câmara de Direitos Públicos	6069
 DIREITO DED	12018
 DIREITOS	10752,761,3831
 DIREITOS A Universidade Lusíadas de Angola	10752
+DIREITOS DE AUTOR Consultoria	17093
 DIREITOS DE PROPRIEDADE Artigo	11901
 DIREITOS E OBRIGAÇÕES RELATIVAMENTE	10755
+DO DIREITO DE ACESSO	15554
 DOS DIREITOS E DEVERES	11528
-Direito	14,400,125,10,203,42,2022,703,2943,508,2206,990,584,2,606,2,2,1,11,10,3,1,3,57,7,1,5,67,9,361,3,117,293,462,12,2559,14,1,26,3,52,10,59,17,168,78,52,265,21
+Direito	14,400,125,10,203,42,2022,703,2943,508,2206,990,584,2,606,2,2,1,11,10,3,1,3,57,7,1,5,67,9,361,3,117,293,462,12,2559,14,1,26,3,52,10,59,17,168,78,52,265,21,898
 Direito Administrativo	11358,90
 Direito Aduaneiro	16110
 Direito Ambiental	11358
@@ -49,6 +51,7 @@ Direito da Comunicação Social	11358
 Direito de Acesso	11358
 Direito de Asilo	11364,1
 Direito de Audição Prévia DCG	11435
+Direito de Autor	15554
 Direito de Informação	11383,42
 Direito de Obter Ajuda	3519
 Direito de Reclamação	3519
@@ -60,11 +63,11 @@ Direito de Uso	12137,687
 Direito de Uso Privativo	11514
 Direito. A Administração Pública	11388
 Direito. Banco de Moçambique	6462
-Direitos	14,525,1898,1,378,50,653,7231,1,1,3,605,10,4,19,19,18,27,56,7,8,41,332,410,463,11,35,2524,44,4,85,32,185,328,67
+Direitos	14,525,1898,1,378,50,653,7231,1,1,3,605,10,4,19,19,18,27,56,7,8,41,332,410,463,11,35,2524,44,4,85,32,45,140,328,67,1089
 Direitos ARTIGO	539
 Direitos Anteriores	11443
 Direitos Autorais Online	2816
-Direitos Conexos	8385
+Direitos Conexos	8385,7169
 Direitos Delegação Provincial de Luanda	10753
 Direitos Direitos Humanos	10752
 Direitos E DOS DIREITOS HUMANOS Humanos	10753
@@ -72,7 +75,7 @@ Direitos Económicos	11547,15,1223
 Direitos Fundamentais	794,10658
 Direitos Fundiários	11443
 Direitos Gerais	11430
-Direitos Humanos	220,218,738,92,1313,235,137,653,1,540,309,840,131,236,58,267,72,477,77,26,101,78,125,22,29,315,744,3,202,372,627,1040,452,1,1,1,1,11,7,3,615,3,81,5,5,46,7,3,22,3,502,52,82,3276,217,187,85,16
+Direitos Humanos	220,218,738,92,1313,235,137,653,1,540,309,840,131,236,58,267,72,477,77,26,101,78,125,22,29,315,744,3,202,372,627,1040,452,1,1,1,1,11,7,3,615,3,81,5,5,46,7,3,22,3,502,52,82,3276,217,187,85,16,1021,330,27,1
 Direitos Humanos A Universidade Lusíadas de Angola	10752
 Direitos Humanos Aposta	10752
 Direitos Humanos Carlos Alberto Cavuquila	10752
@@ -117,6 +120,7 @@ Direitos de Utilização Individual	11430
 Direitos de Utilização Individual de Frequências	11430
 Direitos de Utilização Individual de Números	11430
 Direitos de Utilização de Bens	11430
+Direitos de Utilização de Frequências	17186
 Discentes. Direitos	10752
 Dra. Ana Celeste Cardoso Direitos Humanos	10750
 E DOS DIREITOS HUMANOS APOSTA NA	10752
@@ -132,6 +136,7 @@ Facul-dade de Direito da Universidade de Lisboa	9176
 Faculdade de Direito de Bissau Bissau Zona-V Public	11552
 Francisco Queiroz Direitos Humanos	10753
 Gabinete de Comunicação Direitos Humanos	10752
+Guiné-Bissau UNFPA Reforça Direitos	17178
 HUMANOS Direitos Humanos	10752
 IA. CAPÍTULO III PROTECÇÃO DOS DIREITOS	3519
 IVA Direito	12018
@@ -143,6 +148,7 @@ Juiza de Direito	11561
 Juízes de Direito	11561
 LEI SOBRE O DIREITO DE ASILO	11364,1
 Lei de Direitos Digitais	2816
+Liga Guineense de Direitos Humanos	17020
 MINISTÉRIO DA JUSTIÇA E DOS DIREITOS	10750,1,1,1
 MJDH. Direitos Humanos	10752
 NICA DE CONCESSÃO DE DIREITOS FUNDIÁRIOS	11384,24
@@ -171,3 +177,4 @@ Suspensão de Direitos	11425
 Suspensão de Direitos Políticos	11425
 Transmissão de Direito de Superfície	11443
 TÍTULO II RELAÇÕES INTERNACIONAIS E DIREITO	15344
+UNFPA Reforça Direitos	17178

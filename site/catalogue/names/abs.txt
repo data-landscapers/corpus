@@ -31,6 +31,7 @@ ABSTRACT Digital Public Infrastructures	5700
 ABSTRACT Health Information Systems	10780
 ABSTRACT Submarine	4676
 ABSTRACTED AND PUBLISHED	14410
+ABSTRACTEDAND PUBLISHED	16833
 ABSU-CEP	15429
 ABSU-CEP. Elle	15429
 ABSU-SEP	15429
@@ -72,7 +73,7 @@ Absa-led	1951
 Absar	7106
 Absa’s Managing Director	10051
 Absa’s R31.4	10217
-Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263,543,282,20,9,83,15,3,50,884,5,19,79,40,244,293,87,368,124,21,24,224,42,36,27,12,62,132,264,36,44,1,6,62,14,24,3,90,39,189,7,28,101,291,69,211
+Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263,543,282,20,9,83,15,3,50,884,5,19,79,40,244,293,87,368,124,21,24,224,42,36,27,12,62,132,264,36,44,1,6,62,14,24,3,90,39,189,7,28,101,291,69,211,314,5,15,1
 Absence Forces Delay In Kidnapping Trial	7312
 Absence de Attente	10975
 Absence de Brand	16641
@@ -143,17 +144,18 @@ Absolute Contributions of Each Indicator	15244
 Absolute Contributions of Indicators	15244
 Absolute MPI	15244
 Absolute and Relative Contributions of Indicators	15244
-Absolutely	1038,2473,3733,2921,4175,40
+Absolutely	1038,2473,3733,2921,4175,40,2546
 Absorbant	15848
 Absorbed	4260
 Absorption	1731,9565,3326
 Absouya	10875
 Abstenciones	6613
+Abstenerse	16965
 Abstention	12201,3526,520
 Abstentions	6613
 Abster-se	10755,675,98
 Abstinence	13300
-Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019,397,201,445,327,50,17,683,287
+Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019,397,201,445,327,50,17,683,287,887
 Abstract AI	7451
 Abstract Abstract Accurate	16135
 Abstract Access	8436,4276
@@ -190,7 +192,9 @@ Abstract Sharing	9969
 Abstract Submission Deadline	13582
 Abstract Summary	12678
 Abstract The Food and Agriculture Organization	12667
-Abstract The Global Findex	13084,675,2084,1,821
+Abstract The Global Findex	13084,675,2084,1,821,380
+Abstract The Liberia	17366
+Abstract The Women's Empowerment and Nutrition Survey	17165
 Abstract The World Bank Enterprise Survey	10862
 Abstract Tropical	16024
 Abstract University	16366
@@ -198,16 +202,18 @@ Abstract Views	6545
 Abstract Women	7790
 Abstract. The Bureau	2775
 AbstractMobile	4439
-Abstraction	8603
+Abstraction	8603,8554
 Abstraction Level Incompatibilities	12360
 Absu-Cep Absu-Cep Traitement	10821
 Academic Year Education Statistics Annual Abstract	13994
 Annual Abstract	13991
+Annual Statistical Abstract	16833
 Annual Statistical Abstract and County Statistical	2775
 Annual Volume of Water Abstracted	2775
 Anti-Corruption Mechanisms Absence of Corruption	10837
 Avertissement Absence	10876
 B Absence	15901
+BANK ABSA BANK ACCESS BANK AGRICULTURAL	17242
 BARRE. CODE BARRE. ABSENT	13300
 BARRE. CODE BARRE. ABSENTE	13300
 Balances Absence of Undue Influence Civic Checks	10759,78,1315,188
@@ -235,6 +241,7 @@ Commentaires Absolute	4960,62,2035
 Continued Annual Absorption of Frontline HCWs Year	4260
 Crescimento Absoluto	11574
 Crescimento Relativo Absoluto	11574
+Data Absence. Low	16942
 David Savage Abstract	11310
 Decent Housing Absence of Armed Conflict	10838
 Decree Absolute Certificate	12639
@@ -247,10 +254,12 @@ ENTIRE HOUSEHOLD ABSENT FOR EXTENDED PERIOD	582
 Edu. Statistics Ann Abstract	13991
 Education Statistics Annual Abstract	12199,1792,3
 Electricité Abstract	10975
+Equatorial Guinea. Absence	16942
 Extended Abstracts	8460
 FDRE Ministry of Education Statistics Annual Abstract	13991
 Financial Management Absence of Human Trafficking	10759
 Forced Labour Absence of Crime Public Perception	10759,78,1315,188
+Governance Absence of Medium	16884
 Guinée Bissau Absence	10711
 Gulf of Aden Abstract	13949
 HL7v3 Abstract Data Type Specification	1009
@@ -264,6 +273,7 @@ Indicators Absolute Relative	15244
 J. Abscondment	12977
 JSTARS.2026.3698556 Abstract	12837
 KILOGRAMMES. ABSENTE	13300
+Liberia Absence of Financial Risk Capital Firms	16876
 Low Absorption of Project Funds	14546
 Low Absorption of Project Funds The Republic	14546
 Low Technology Transfer and Absorption	14729
@@ -284,7 +294,7 @@ PROJECT Absence	15411
 PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135
 PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1,135
 Participation Absence of Corruption	10759
-Political Stability and Absence of Violence	14897
+Political Stability and Absence of Violence	14897,2099
 President Advocate Duma Boko and Absa Bank	10051
 Pressure Swing Absorption Oxygen	12956
 Priorité Absolue S1	9824
@@ -313,12 +323,14 @@ SAFETY Absence of Armed Conflict Absence of Violence	10759
 SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1,135
 SARL ABSERVICE MONETIQUE GUINEE SAR	16623
 SICA-UEMOA Absence	10711
+SOEs Absence	17470
 STATISTICS ANNUAL ABSTRACT	13994
 SUSTAINABLE WITH ROOM TO ABSORB SHOCKS	7695
 Science. Abstract	10979
 Score Rank Absence of Armed Conflict	10838,1048,454
 Score Rank Absence of Undue Influence	10835
 Score Rank Absence of Violence	10837,131,1184
+Secretary Absent	17317
 Shidhudhu Contributors Absalom Absalom Dortea Mulilo	13044
 Slow Absorption of Grant Funds The Project	14546
 Smallholder Fields of Malawi Abstract. Accurate	13162
@@ -343,6 +355,7 @@ UEM. Abstract Electoral Registration	12826
 Unpaywall. Abstract	12098
 Visa and Absa	2773
 Warning Signs Absence of Forced Migration	12352
+Water Abstraction Licensing Regulation	17228
 Water Access Absence of Corruption	10835,3,130,902,16,466,1,135
 Women Absence of Armed Conflict Absence of Forced	10759
 Women Anti-Corruption Mechanisms Absence of Corruption	10759

@@ -8,6 +8,8 @@ AU Border Programme	14511
 AWS Amazon Web Services BGP Border	13185
 Abdullahi Boru	12227
 Abdullahi Boru Halakhe	12227
+Acceptable Borderline Poor	17285
+Across International Borders I. LEC	16851
 Actual Net Borrowing	14546
 Additional Services and Borrower's Access	12389
 Advertising. The Borrower	15411
@@ -40,13 +42,17 @@ BORA SERVICES LIMITED Data Processor INST-302343E37E4	7167
 BORABU TECHNICAL TRAINING INSTITUTE Data Controller	7167
 BORANA CONSERVANCY LIMITED Data Controller INST-371123E4445	7167
 BORANA RANCH LIMITED Data Controller INST-569796CF705	7167
+BORD D’UN FERRY ET DES DIRHAMS	17485
+BORDER COMMUNITIES OF SAO	17221
 BORDER DATA SHARING	14434
 BORDER MANAGEMENT	12389
 BORDER MANAGEMENT AND TRADE FACILITATION	13403
 BORDER MANAGEMENT AUTHORITY	11285
 BORDER MANAGEMENT COMMITTEE AND JOINT BORDER	13403
 BORDER POSTS Wishing	13108
+BORDEREAU DE VENTE DE BILLETS	17485
 BORDEREAU DES PRIX Date	13524
+BORDEREAU D’ACHAT DE BILLETS DE BANQUE	17485
 BORDERLAND SYSTEM COMPANY LIMITED Data Controller	7167
 BORDERLAND SYSTEM COMPANY LIMITED Data Processor	7167
 BORDERLESS FUTURE LIMITED Data Controller INST-573299AD87A	7167
@@ -63,7 +69,7 @@ BORGOU	15398,68
 BORNE FONTAINE	13300
 BORO Ibrahim	15632
 BORROWE R'S IDA-D9060- Disbursi	2473
-BORROWER	11924,3500,87,90,62,68,705
+BORROWER	11924,3500,87,90,62,68,705,516
 BORROWING POWERS	4896
 BOrchestration	5349
 BOrder	4676
@@ -95,7 +101,8 @@ Bord FSA	13377
 Bord de Suivi	15722
 Bordeaux	7654,4349
 Bordeaux Population Health Research Centre	12003
-Border	4678,1754,572,2395,61,435,422,1540,532,335,247,82,350,2863
+Border	4678,1754,572,2395,61,435,422,1540,532,335,247,82,350,2863,718
+Border Agencies	17367
 Border Communities Development Agency CBN Central	11857
 Border Control System	12917,1912
 Border Control and Surveillance	9399,591
@@ -108,11 +115,12 @@ Border Governance Last Updated	14511
 Border Governance-African Union	14511
 Border Guard Police	9399
 Border Guards	11131,3
-Border Management	12164,1239
+Border Management	12164,1239,3471
 Border Management Authority	2681,11,251,1690,514,386,343,320,1318,1562,159,15,441,204,163,1160,28,2,31,6,664,37
 Border Management Authority Act	5533,5685,61,707
 Border Management Border Management Authority and Department	11986
 Border Management Committee	13673
+Border Management Information System	16874
 Border Management System	13405,1425
 Border Management and Immigration Anti-Corruption Forum	2626
 Border Management and Trade Facilitation	13403
@@ -133,7 +141,7 @@ Border Traders	10819
 Border and Port Security	2943,4133,294
 Border- Making	12227
 Border-Making	12227
-Bordereau	10876,3582
+Bordereau	10876,3582,3027
 Bordereau de Livraison	10876
 Bordereaux	10876
 Bordereaux Electroniques de Suivi des CargaiSons	15999
@@ -149,10 +157,12 @@ Bordj Bou Arreridj Road	8606
 Bordj Bou Arréridj	15456,276,211,401
 Bordj Bou Arréridj Centre	16085
 Bordj MÈnaÔel	15360
+Bordo	16969
 Borehole	1988,12558
 Borehole Drilling	13474
 Borehole Registration	1988
 Borehole and Footbridge Construction Projects Findings	13420
+Boreholes	17043,62
 Borena	12188
 Boresha Authority of Kenya	14524
 Boresha Ltd	14524
@@ -183,6 +193,7 @@ Boris MABIKE MA KOMBILE	16175
 Borj El Amri	9596
 Borj El Amri. Ce	9596
 Borj El Amri. Il	9596
+Borkor	17364
 Borkou	792
 Borky	7278
 Borky and Bradley	7278
@@ -206,6 +217,7 @@ Boromo Balé Boucle du Mouhoun	15715
 Boron	3317
 Bororo. Des	8737
 Borotokoolka Dhisaya Golaha Ansixinta Dastuurka Qaran	14859
+Borough of New Kru Town	16921
 Borovac JA. Data	10780
 Borower	15399
 Borowska-Beszta B	12231
@@ -228,10 +240,10 @@ Borrowdale Liquid Owned Vacant Office	4896
 Borrowed	418,12042
 Borrowed Funds	7198
 Borrowed Voice	7777
-Borrower	160,152,240,14,17,171,7,12,220,197,9,2,15,61,301,126,74,40,96,74,1468,148,2935,1412,215,2602,11,184,454,438,8,61,296,168,24,14,243,442,74,146,196,260,6,38,66,118,65,473,23,309,25,27,17,12,10,104,58,234,5,22,12,13,76,11,2,5,35,106,4,39,2,54,143,68,21,42,187,74,321,40
+Borrower	160,152,240,14,17,171,7,12,220,197,9,2,15,61,301,126,74,40,96,74,1468,148,2935,1412,215,2602,11,184,454,438,8,61,296,168,24,14,243,442,74,146,196,260,6,38,66,118,65,473,23,309,25,27,17,12,10,104,58,234,5,22,12,13,76,11,2,5,35,106,4,39,2,54,143,68,21,42,187,74,321,40,460,66,39,98,11,6,107,17
 Borrower ADB Loan Project Instrument Special	11863
 Borrower Agreement	15901
-Borrower Contribution	14888
+Borrower Contribution	14888,2072
 Borrower DPF2	10779
 Borrower Framework	12426
 Borrower GOVERNMENT OF ERITREA Guarantor GOVERNMENT	14132
@@ -255,20 +267,20 @@ Borrower's No Feb	15969
 Borrower. Any	15399
 Borrower. Section	16219
 Borrower. The Bonower	15399
-Borrowers	1988,4126,1596,986,815,271,3403,147,2079,107,141
+Borrowers	1988,4126,1596,986,815,271,3403,147,2079,107,141,1267
 Borrowers Regulations	11417
 Borrowers and Lenders Act	6940
 Borrower’s Country	15080
 Borrower’s ICR	15511
 Borrower’s Ministry of Finance	16219
 Borrower’s Project Implementation Unit	3456
-Borrowing	418,169,1720,7204,1466,979,8,395,50,122,363,159,815,868,261,483
+Borrowing	418,169,1720,7204,1466,979,8,395,50,122,363,159,815,868,261,483,1755,1
 Borrowing Practices	1828
 Borrowing and Credit	12460
 Borrowing and Credit PWD	12460
 Borrowing of Information Resources	13532
 Borrowing the ID	4439
-Borrowings	10793,2260,1683
+Borrowings	10793,2260,1683,2499
 Borrôwcr	15399
 Bortower	15399
 Borycz	12090
@@ -276,10 +288,12 @@ Borzooei	8604
 Brazzaville the Borrower	15901
 Breaking Down Africa's Digital Borders	8111
 Build Borrow Buy Developing	14997
+Bundung Borehole Concern	16926
 C. the Borrower	1914
 C.1. The Borrower	15553
 CARDS DOMINATE FORMAL BORROWING IN FIVE	10977
 CEO Boris Compaoré	4233
+CHANGE INSTALLE A BORD D’UN FERRY	17485
 CHUD Borgou	16485
 CLIENTS Borrower	11924,1818,1989
 COMMISSIONER GUIDANCE NOTE ON CROSS BORDER	12302
@@ -299,8 +313,10 @@ Centre for African Regional Integration and Border Studies	11319
 Chad-Sudan Border	10841
 Cham. Boru	7278
 Charge. The Borrower	16219
+Charles Borome Razafimahatratra	17319
 Chez Dr Borlli Michel Jonas Somé	8721
 Chief Judge of Borno State	12063
+Children Ever Born DTT Demographic Transition	16950
 Children Ever Born and Living	13454,1793
 Chirundu Border Post	13474
 Chris Borden	10977
@@ -321,6 +337,7 @@ Contracted Workers Contracted Workers The Borrower	1988
 Contribution Agreement. The Borrower	15901
 Conversion Fees. The Borrower	16219
 Conversions Generally. The Borrower	16219
+Coordinate Border Management	16968
 Coordinated Border Management	12389,662
 Coordinated Border Management Committee	6042
 Coordinated Border Management and Data Standardization	13051
@@ -343,9 +360,13 @@ Cross Border Payment Reporting Plus	15934
 Cross Border Processing	10157
 Cross Border Sale of Handicraft Rwanda	10819
 Cross Border Taxation Technical Committee	573
+Cross Border Trade	16949
+Cross Border Trade Association of Liberia. UNIFEM	16949
+Cross Border Trade Conference	16949
 Cross Border Trade Expert Sarah Bonakele	13563
 Cross Border Traders Association Border Management	13403
 Cross Border Transfer	12185
+Cross Border Transfers Terminating	17235
 Cross Borders	9903
 Customs Border and Enforcement	15478
 Customs and Border Protection	11036
@@ -362,6 +383,7 @@ Dec-2025 Borrower	16675
 Dec-2025. Borrower	13897,141
 Deduction of Front-End Fee. The Borrower	16219
 Dedza One-Go Border Post Figure	13053
+Description of Covenant The Borrower	17441
 Digital Development Borrower	2291
 Digital Development Financing Instrument Borrower	15513,37
 Digital Passages and Borders	12227
@@ -380,6 +402,7 @@ Dyck Senior Social Protection Specialist Borrower	13523
 Département du Borgou	16281
 E. and Borgman	12090
 EAC Regional Framework for Trusted Cross Border	8426
+EG Commerce Minister Mr. Borupu	17240
 EIS for The Borrower	1988
 EU’s Carbon Border Adjustment Mechanism	11149
 East African Community Cross Border Payment	5372
@@ -392,9 +415,10 @@ Elohim Borel	16100
 Eng. Leo Boruett	6946
 Enhanced Border Security	12164
 European Union's Carbon Border Adjustment Mechanism	10718
-External Borrowing Plan	12127
+External Borrowing Plan	12127,5082
 Facing Cross Border	14434
 Feyi Boroffice	13312,2
+Financing Borrowers	16922
 Financing Borrowers for Goods	15553
 Forbes Border Post	13474
 Formal Borrowing	15130
@@ -416,10 +440,12 @@ Hatcliffe and Borrowdale	1191
 Hazardous Materials Management and Safety The Borrower	1988
 Helping Small Businesses Cross Borders	7523
 High. Borrower	14971
+Humanized Border Management	17490
 IGAD Senior Epidemiologist Dr. Waqo Boru	11590
 IMMIGRATION AND BORDER CONTROL	12947
 IPF Borrowers	11905
 Ifelodun and Boripe	10049
+Immigration and Border Control System	16885
 Immigration and Border Management	15845
 Impalila Island and Kasika Border Posts	12984
 India. J Vector Borne Dis	1219,11027
@@ -432,6 +458,7 @@ Integrated Border Security and Migration Management	15845
 Integrated Border Security and Migration Management MINTER	15845
 Integrated Border and Migration Mgmt	15845
 Internal Control. The Borrower	16219
+International Borders	16851
 Internet Without Borders	8095
 Investment Project Financing. Borrower	761,11376
 J.M. Borky	7278
@@ -485,6 +512,9 @@ Mme NGANONGO IKIA BOREKAMBI	15615
 Mobile Cross Border Communities	14434
 Modernize Border Control	5758
 Mohamed Bordji	15467
+Momen Borgega Project	17298
+Momoh Borbor Kamara	17070
+Money Without Borders	17467
 Monitoring and Evaluation BMA Border Management Authority	11986
 Monsieur Boroma TRAORE	15676
 Mozambique Border Corporate Bayobab Press10	11234
@@ -499,6 +529,7 @@ Mwongozo Bora	2868
 Nakonde One-Stop Border Post	5247
 National Border Management Plan	15976
 Neither the Borrower	15399
+Net Borrowing	17235
 Net Borrowing External	14546
 Nigeria.' Borrower	449
 No. of Gazetted Border Control Points	12453,892
@@ -510,6 +541,7 @@ North Borneo	2518
 Nov-2025 Borrower	14015
 Nyamapanda Border Post	13474
 OGW. Born	6946
+OM. The Borrower	17458
 Obanua’s Entertainment’s Kumi Bora	9739
 Oct-2026 Borrower	16293
 Olga Bornemisza	10829
@@ -544,17 +576,22 @@ Passport and Border Control System	12597
 Passport and Border Control System. Under Civil	5250
 Payment of Interest. The Borrower	16219
 Peace and Security Department African Union Border	14511
+Peaceful Border Resolution	17320
 Police Commissioner Advocate Borotho Matsoso	12731
 Pollution Prevention and Management The Borrower	1988
 Pour Stéphane Borso Madjimbaye	4739
+Prevalence of Poor and Borderline FCS Map	17285
+Prevalence of Poor and Borderline FCS Subnational	17285
 Prince Boris Cyubahiro. KIGALI	8995
-Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845,134,351,342,1553,63,967,383
+Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845,134,351,342,1553,63,967,383,835,6
 Programme Report. The Borrower	16219
 Project Approval Fiscal Year CLIENTS Borrower	16436
 Project Promoter. The Borrower	15901
 Public Safety Borders Civil	9067
 Quatre Bornes	3292,11454,7
 Quatre Bornes Bus Owner’s Cooperative Society	14753
+REFERENCE BORDEREAU	17485
+REFERENCE BORDEREAU Bordereau	17485
 REPRESENTATIONS AND WÀRRANTIES BY THE BORROWER	15399
 REST BORROWED FROM FAMILY BORROWED	10977
 RG.2.2.24286.33602 Borky	7278
@@ -562,6 +599,7 @@ RTPRESENTATIONS AND WARRANTIES BY THE BORROWER.-.....9	15399
 Recommitted Borrower	15372
 Reginaldo Borico Okomo	3494,2
 Reginaldo Boricó	7703,1
+Reginaldo Boriko Okomo	17377
 Regional Framework for Trusted Cross Border Data	8426
 Regional Organization Role Borrower	4653
 Reinforce Operationalization of Cross Border Markets	13418
@@ -584,6 +622,7 @@ Santa Clara Border	12984
 Satisfactory Borrower Performance	16614
 Sayali Borole	10932
 Scaling AI Readiness Across Borders	12723
+Season Borehole	17043
 Secretary-General Dr. Borlli Michel	5917
 Secretary-General Dr. Borlli Michel Jonas	6707
 Section II. The Borrower	15553
@@ -599,6 +638,7 @@ Senior Social Protection Specialist Borrower	12832
 Sep-2021. Borrower	15802
 Sergent-chef MOUITY MOUSSOUNDA Yves Alban Boris	16381
 Si Ben Youcef Oultène Maârif Bordj	15690
+Sierra Leone Move Toward Borderless Mobile	17106,81,79
 Simran Jena Boralba Kapllani	11964
 Single Border History	7867
 Smart Border Custom Management System	14088
@@ -622,6 +662,7 @@ Subprogrammes Border Management Authority	11986
 Substantial Borrower	14456
 Substantial. Borrower	12220,3582
 Sugar Cane Mkt Borno North East	11857
+Summary Table of Projected External Borrowing Program	17257
 Summary of Borrower's ICR	16614
 Support the Borrower	15663
 Supporting the Borrower	15411,252
@@ -634,6 +675,7 @@ TABLEAU DE BORD. COMMENT FAIRE	16629
 TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
 TRANS BORDER DATA FLOWS	1474
 TRANS BORDER FLOWS OF PERSONAL DATA	1474
+TRS and Coordinated Border Management Implementation Task	17367
 TYPES OF CROSS BORDER TRANSFER Transfer	13376
 Tableau de Bord de Performance	15936
 Tableaux de Bord de Suivi des Indicateurs	10712
@@ -672,13 +714,16 @@ Verde Borrower	11855
 WITNESS WHEREOF the Borrower	16219
 Water João Baptista Borges Ministro de Energia	11366
 Water Purification Points and Boreholes Drilled1	2775
+Well Borehole Lake	17043
 Wenela Border Post	12984
 West Africa Border Security Week Accra	2521,659,249,939,974,1524,210,294
 Work Savings Borrowing Selling	10977
 World Bank Borrowers	15372,39
-World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453,438,50,19,41,1367,2186,140,3,775
+World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453,438,50,19,41,1367,2186,140,3,775,500,13,231,39
 World Bank's Procurement Regulations for IPF Borrowers	9604
-World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806,1807,1006
+World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806,1807,1006,752
+X Yearly Description of Covenant The Borrower	17441
+Yearly Description of Covenant The Borrower	17441
 Zambia Border Clearance	12984
 Zambia Border Development Strategy	5247,5381
 Zambia Displaced Persons and Borderlands Communities Project	1778

@@ -27,8 +27,8 @@ Apocalypse	9739
 Apoclarine	15692
 Apoderamento Ilícito de Aeronaves	15477
 Apoia	2816,13150
-Apoiar	167,2649,1402,6536,630,4,8,46,2,5,3,90,27,332,133,3310,15,21,11,42,43,27,23,46,112,5,632
-Apoio	15,2066,2,733,851,746,1561,2545,1752,497,14,603,5,31,14,13,8,75,11,13,14,8,324,410,3122,17,244,61,267,229
+Apoiar	167,2649,1402,6536,630,4,8,46,2,5,3,90,27,332,133,3310,15,21,11,42,43,27,23,46,112,5,632,721,51
+Apoio	15,2066,2,733,851,746,1561,2545,1752,497,14,603,5,31,14,13,8,75,11,13,14,8,324,410,3122,17,244,61,267,229,842,190
 Apoio Adicional	15532
 Apoio Administrativo	1339,1,741,2,9276
 Apoio Agrupado	4218
@@ -39,6 +39,7 @@ Apoio Operacional Nível	16290
 Apoio Social	4044,7377
 Apoio Técnico	11537
 Apoio da OMS	15966
+Apojsns	16857
 Apolitical	5092,210
 Apolitical Vector	5302
 Apolitical. Deal	5092
@@ -65,18 +66,21 @@ Aposição de Nome	11363
 Apost-clusteringharmonisa-	8606
 Aposta	15684
 Apostar	3048
+Apostilha de Haia	17103
 Apostille	7185,3046,1810,2680
 Apostille Convention	14714,1
 Apostle Kwadwo Safo	8896
 Apostolic Church Ansar Ud Deen Nigerian	11129
-Apoyar	1701
+Apoyar	1701,15192,5
 Apoye	1701
-Apoyo	1701,2508,11269
+Apoyo	1701,2508,11269,1420
 Apoyo Gestión Finanzas Publicas	4209
 Associação Nacional de Apoio	15694
 Associação de Apoio	11855
+BREVE APONTAMENTO SOBRE	17020
 Banco Mundial Reforça Apoio	16059
 CBL Apologizes After Record	6357
+Central CAPESA Centro de Apoyo	16898
 Centros de Apoio	16251
 CoE APO07 Managed Human ITCap	9237
 Comissão Multissectorial de Apoio	11421,1,24,131
@@ -91,7 +95,6 @@ Célula Apoyo Ordenador Nacional FED	4209
 César Apollinaire Ondo Mvé	9726
 D Programa de Apoyo	4209
 DAICF Ficheiros de Apoio	12018
-DGAPE A Direção Geral de Apoio	16320
 DOCUMENTAÇÃO DE APOIO FORNECIDA PELO PAÍS	11376
 Defends NRM Cooperation Deal MTN Apologises	4608
 Departamento de Apoio	4218,7163,1
@@ -102,6 +105,8 @@ Direção Geral de Apoio	11983
 Documentos de Apoio	12018
 E DOS DIREITOS HUMANOS APOSTA NA	10752
 E Direção Geral de Apoio	6530
+El Programa de Apoyo	16893
+El Proyecto de Apoyo	17414
 Equipa de Apoio Técnico	11384,4004
 Equipas Multidisciplinares de Apoio Défice	15694
 Estatuto de Aposentação	15404
@@ -115,7 +120,7 @@ Fundo de Apoio	13,2,11415,279
 Fundo de Apoio Social	1770,8998,610,2822
 GABINETE DE APOIO AO CONSELHO	8052
 GACD Gabinete de Apoio	15535
-Gabinete Técnico de Apoio	10114,1447
+Gabinete Técnico de Apoio	10114,1447,5448
 Gabinete de Apoio	167,11282
 Godefroy Apollinaire	15524
 Governo. Apostará	15526
@@ -166,7 +171,7 @@ Programa de Apoio	10758,4675,835
 Programa de Apoyo	4209
 Projecto de Apoio	10750
 Projeto de Apoio	8536
-Proyecto de Apoyo	4209,2272
+Proyecto de Apoyo	4209,2272,10449,412
 Regras de Aposição da Numeração de Polícia	11373
 Regulatório Favorável. Apoiar	11898,123
 SECÇÃO II SERVIÇOS DE APOIO AGRUPADOS	11449
@@ -179,6 +184,7 @@ Serviços de Apoio	15694
 Serviços de Apoio Agrupados	4218,7164,67
 Sistemas de Apoio	12019
 Son Excellence Apollinaire Joachimsom KYELEM de Tambèla	15676
+Subsahariana AFRITAC-C Centro de Apoyo Técnico	16898
 T Apoyo	4209
 T. Apollon	14753
 Tráfico Apoiar	10750

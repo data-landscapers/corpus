@@ -23,11 +23,14 @@ Bug Fixes	15867
 Business Corporations GFCF Gross Fixed Capital	14777
 Business Unit Fixe	9916
 COMMUNICATION AUTHORITY OF KENYA Fixed Telephony	6946
+CORE TELECOMMUNICATION SERVICES B1. Fixed Line	17250
 CRA Iraq Yes Fixed Broadband Policy	11529
 Calixte NGANONGO FIXATION DE REDEVANCE Arrêté	15426
 Cameroon's Camtel Expands Fiber Network and Fixed	3528
 Chief Fixed Network Officer	9528
+Clearing Accounts Fixed	17236
 Connectivity Fixed	11884,321,146
+Consumption of Fixed Capital	16996
 Coverage of Fixed Assets	11955
 Câmara Fixa	794
 DATE FIX	4964
@@ -42,11 +45,13 @@ Domestic Fixed Network Traffic	6671
 Domestic Fixed Voice Traffic	6671
 Domestic Fixed Voice Traffic Fixed	6671
 Domestic Product GFCF Gross Fixed Capital	2775
+Duplex VHF Fixed D10	17250
 E. No Fixed Cap	5773
 EDG Fix	16714
 ENDROIT FIXE	13300
 ET DES FINANCES FIXATION DE PRIX	15692
 EVOLUÇÃO DE ACESSO FIXO VIA RÁDIO	11531
+Electricity Infrastructure Not Fixtures	16851
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Excise and Preventive Service CFC Consumption of Fixed	236
 F FIXED WIRELESS	14879
@@ -74,6 +79,7 @@ FIXATION DU PLAFOND D’AUTORISATION DES EMPLOIS	16047
 FIXE OPERATEURS INTERNET	13324
 FIXED	3862
 FIXED AND MOBILE LAST MILE SOLUTIONS	14879
+FIXED CHARGES CODES TARIFF PER TRANSACTION	16844
 FIXED INTERNET	6000
 FIXED INTERNET AND DATA REVENUES	11211,51
 FIXED INVESTMENT TRENDS Over	11248
@@ -117,21 +123,23 @@ Fixation des Conditions	13313
 Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,170,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,170,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
 Fixed Asset Register	9004
 Fixed Assets Coverage	11955
+Fixed Assets Register	16978
 Fixed Assets Tax	12452
 Fixed BB Subscription	13314
 Fixed Base Rate	16219
 Fixed Based Rate	16219
-Fixed Broadband	2776,9619,2725,16
+Fixed Broadband	2776,9619,2725,16,1747
 Fixed Broadband Complaints Reach	11642
 Fixed Broadband Market	12395
 Fixed Broadband Market Shares	12395
 Fixed Broadband Networks Access	718
+Fixed Broadband Penetration	16975
 Fixed Broadband Plan Ireland Yes National	11529
 Fixed Broadband Revenue Subscriptions Market	12395
 Fixed Broadband Subscription	2776
@@ -150,6 +158,7 @@ Fixed Budget FM Financial Management FY	15411
 Fixed Business Unit. The Plan International	9917
 Fixed Cable Modem	6946
 Fixed Calls	6946
+Fixed D100	17250
 Fixed Data	2776,3895,275
 Fixed Data Penetration	2776
 Fixed Data Subscription	2776
@@ -176,12 +185,15 @@ Fixed Internet Traffic	15136
 Fixed Internet Wu	9781
 Fixed Internet and Data Revenues	11211,51
 Fixed LTE	6000,11,233,5015
+Fixed Line	17250
+Fixed Line D100	17250
 Fixed Line Data Subscriptions	2776
 Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
 Fixed Line Revenue	11211,51
 Fixed Line Subscriptions	6671
 Fixed Links	6946
+Fixed Links D20	17250
 Fixed Market Broadcasting Market	12395
 Fixed Minutes International	3862
 Fixed Mobile Convergence	3258
@@ -265,10 +277,11 @@ Fixed Wired Broadband Fixed Wireless Broadband	12395
 Fixed Wired Internet Market Lags	7110
 Fixed Wired Internet Subscriptions	3862
 Fixed Wireless	3862,2809,5865
-Fixed Wireless Access	2528,2808,339,325,4793,165,1357
+Fixed Wireless Access	2528,2808,339,325,4793,165,1357,4935
 Fixed Wireless Access GB	6000
 Fixed Wireless Access Subscriptions	6000
 Fixed Wireless Access System	736
+Fixed Wireless Broadband	16975
 Fixed Wireless Internet Subscription	3862
 Fixed Wireless Subscriptions	6671
 Fixed Wireless Subscriptions Fixed Line Subscriptions	12395
@@ -282,6 +295,7 @@ Fixed and Mobile Network Services	2775
 Fixed and Mobile Tariffs	6946
 Fixed and Mobile Telephony Charges	2775
 Fixed and Random Effects	1828
+Fixed&WirelessAdoption&UtilisationGovernment	16883
 Fixed-	10844,4627
 Fixed-Budget Selection	13037
 Fixed-Fixed	6671
@@ -300,8 +314,9 @@ Fixed-effects	10852
 Fixed-line	1013,1763,1783,6652,1184,2441,61
 Fixed-speed	11085
 Fixed-tele	10844
-Fixed-telephone	718,6228,3898,1489,11,3273
+Fixed-telephone	718,6228,3898,1489,11,3273,1323
 Fixed-term	10776,358,162
+Fixed-to-mobile	16839
 Fixed-wired	12395
 Fixed-wireless	1818,5080,5497
 FixedBB	11563
@@ -323,14 +338,17 @@ Formation Brute de Capital Fixe	9276
 Formation Brute de Capital Fixe FBU	13377
 Frequency Assignments for Non-Protected Fixed Links	6946
 Frequency Assignments for Non-Protected Fixed Links Band	6946
+Furniture and Fixtures	16978
 G Fixed Wireless Access	6100,10710
 GSM FIXED ISP VAS C&I OTHERS	3862
 Gabon Telecom Fixe GVA GBM Comparativement	15706
 General UI Improvement Minor Bug Fixes	15867
 Gigabytes. Fixed	11085
-Gross Fixed Capital Formation	2775,12055
+Gross Domestic Product GFCF Gross Fixed	16996
+Gross Fixed Capital Formation	2775,12055,2166
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
+Gross Fixed Capital Formation. LNG	16996
 Gross Fixed Investment	14897
 HF PMR Fixed	6946
 Headquarters Allowance Proposed Fixed Rate	13037
@@ -362,6 +380,7 @@ Internet Fixe RAPPORT ANNUEL	998
 Internet Fixe Taux	998
 Internet Fixo	11531
 Internet and Broadband Fixed Broadband	12395
+Internet. F Fixed Wireless	16872
 IoT Fixed Service	3898
 IoT Fixed Services and IoT	6100
 Item of Tangible Fixed Assets Years Buildings	11955
@@ -448,6 +467,8 @@ SOUTH AFRICA FIXED AND MOBILE UPLOAD	11262
 Service Gross Compensation of Consumption of Fixed Taxes	236
 Serviço de Telefonia Fixa	16558
 Serviço de Telefonia Fixa Assim	16558
+Simpex HF Fixed	17250
+Simplex Channel HF Fixed	17250
 Street Fixed	14713
 TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
 TAUX FIXE	15901
@@ -469,10 +490,13 @@ Trend of Fixed Broadband	15136
 Trend of Fixed Broadband Subscriptions	15136
 TÉLÉPHONE FIXE	13300
 UGPE. Fixed-broadband Internet	11965
+UHF Fixed	17250
+UHF Television Fixed Links	17250
 UTILIZADORES DE SERVIÇO DE INTERNET FIXO	11531
 Usage Basket Fixed Broadband	12395
 Uzbekistan. Fixed-broadband	10844
 VDSL and Fixed Wireless Access	1818
+VHF Fixed	17250
 VHF PMR Fixed	6946
 VOICE SUBSCRIPTINS- FIXED WIRED	3862
 Vodacom Broadband Fixed Wireless	12769
@@ -481,6 +505,7 @@ WHOLESALE RETAIL BROADBAND FIXED MOBILE	6539
 WRITE AMOUNT IN N A- Fixed	582
 Wave Fixed Wireless Access	5245
 Weak Fixed Asset Controls	9650
+Wh Fixed Charge US	16978
 Work Gross Fixed Changes	236
 Year Fixed Mobile	14836
 Year-on-Year Fixed Broadband	2776

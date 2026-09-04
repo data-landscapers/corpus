@@ -1,5 +1,6 @@
 A.3 PLAN DE SONDAGE ET MISE	13300
 A.3 Plan	13300
+AAID Development Plan	17257
 AAMP Agricultural and Agro-Processing Master Plan ADB	11261
 ACHIEVEMENT POLICE STRATEGIC PLAN	14760
 ACT The Nigerian National Broadband Plan	11857
@@ -18,6 +19,8 @@ ACTIVATION OF THE STRATEGIC PLAN	12759
 ACTIVITÉS PRINCIPALES Plan	12043
 ADEA Strategic Plan	13310
 AEAA Strategic Plan	13477
+AF Environmental and Social Commitment Plan	16896,26
+AF Stakeholder Engagement Plan	16896,26
 AGREEMENT AND PLAN OF MERGER	7198
 AI Action Plan	3517,3273,758,2979,608,1075
 AI Continent Action Plan	7548,798,2704
@@ -47,32 +50,42 @@ AWP Annual Work Plan	14916
 AWPB Annual Work Plan and Budget BIF	1284
 AWPB Annual Work Plan and Budget BP	15515
 AWPB Annual Work Plan and Budget CAR	10829,4832
+AWPB Annual Work Plan and Budget CBA	16896
 AXES PRIORITAIRES BASÉS SUR LE PLAN	15670
 Abbreviated Resettlement Action Plan	15511
 Abbreviated Resettlement Action Plan AID Country	15424
 Abuse SEP Stakeholder Engagement Plan SCD	15518
+Abuse and Harassment SEP Stakeholder Engagement Plan	17099
 Accelerated Transformation Plan	15514,4
 Accelerated Transformation Plan for Development	15518
 Accelerator Plan	13060
 Access Plan	12358
 Accident National Strategic Development Plan National	12701
 Accountability The Strategic Plan Key Outcomes	12515
+Acronyms and Abbreviations AOP Annual Operating Plan	17441
 Act. The National Digital Master Plan	14524
 Action Environnemental PARC Plan	10876
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86,77,35,26,5,12,12,67,139,100
 Action Plan Cycle	11866,7
 Action Plan ESMS Environmental and Social Management	1818
+Action Plan Goal	17018
 Action Plan Mitigation Measures Risks Mitigation	15553
 Action Plan NCPB National Cereals and Produce	2775
-Action Plan Review	9022,2844
+Action Plan Objective	17018
+Action Plan RBF Results-based Financing RfB	16896
+Action Plan Review	9022,2844,5171
 Action Plan Science and Resources Estonia’s National	11135
 Action Plan and Next Steps	14010
 Action Plan and Next Steps Annex B	14010
+Action Plan for Continuous Improvement	16963
+Action Plan for Information Integrity	17018
+Action Plan for Integrating MIL	17018
 Action Plan for Next Financial Year	12971
 Action Plan for Rare Diseases	10188
 Action Plan for Risk Mitigation. With Project	16436
 Action Plan for Spectrum Management	5245
 Action Plan. Despite	13868
+Action Plan. GBoS	16927
 Action Plan. RESOLUTION NUMBER	12912
 Action Plan. The CNEPPS	11907
 Activity Plan and Budget	12845
@@ -90,6 +103,7 @@ Africa Programme. The NICI Plan	12896
 Africa Recovery and Resilience Plan	8654,284
 Africa Region Gender Action Plan	10964
 African Action Plan	14090
+African Regional Action Plan	16854
 African Science and Technology Consolidated Plan	12675
 African Science and Technology Consolidated Plan of Action	12675
 African Telecommunications Union Spectrum Assignment Plan	7850,323
@@ -97,11 +111,13 @@ African Union BERNET Annual Work Plan	13331
 Africa’s Science and Technology Consolidated Plan of Action	12675
 Agence de Développement du Digital. Plan	9406
 Agencies MIP-1 Malawi Implementation Plan	13060
+Agency NDP National Development Plan NEA	17105
 Agir. PLAN STRATEGIQUE NATIONAL DE SANTE	16195
 Agree Plan	11857
 Agreement and Plan of Merger	7198,1741
 Agro-pastoral and Fisheries Import-Substitution Plan	10980
 Aim of Electronic Waste Management Plan	1988
+All Values Annual Work Plan	17180
 Ambitious Five-Year Action Plan Côte	2557
 America's AI Action Plan	5216,41
 America’s AI Action Plan	5216,41,1533,4345
@@ -111,8 +127,9 @@ Angola’s National Development Plan	10780,637
 Angola’s National Health Development Plan	10776
 Annex A. Action Plan Implementing Entity	1777
 Annex I Policy Implementation Plan and Cost	14947
+Annex II. Action Plan Co-Creation	17037
 Annexes Plan	15845
-Annual Action Plan	13242,89,2514
+Annual Action Plan	13242,89,2514,1586
 Annual Audit Plan	14828,3
 Annual Borrowing Plan	11136,2732,678
 Annual Budgeted Plan of Actions	13349
@@ -122,25 +139,32 @@ Annual District Education Operational Plan BECE	15796
 Annual Internal Audit Plan	11131,3
 Annual Internal Audit Plan The Annual	11134
 Annual National Tax Audit Plan	12389
-Annual Operating Plan	13183
-Annual Operational Plan	11218
+Annual Operating Plan	13183,4258
+Annual Operation Plan	16971
+Annual Operational Plan	11218,5753
 Annual Operational Plan Performance	11218
 Annual Performance Plan	5533,343,636,171,4514,21,12,7,15,9,725
 Annual Plan	5677,7441
 Annual Plan of Actions	13349
+Annual Procurement Plan	16970
 Annual Procurement Plan and Contracts	13332
-Annual Work Plan	2989,1411,7841,474,365,15,2035
+Annual Procurement Plan. The Procurement	16970
+Annual Work Plan	2989,1411,7841,474,365,15,2035,1840,15
 Annual Work Plan PIU Management and Budget	2989
 Annual Work Plan Review	14546
-Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40
+Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40,1265,10,13
+Annual Work Plan and Budget CAGD Comptroller	16949
 Anti-corruption Action Plan	15372
 Application du Plan de Trésorerie Article	4420
 Apprenants Le Plan	15591
 Approach NAPHS National Action Plan for Health	11417
+Approval of RP The Resettlement Plan	17114
+Approved Forest Management Plan	16843
 Architecture du Plan	15580,381
 Argentina Yes Plan Federal De Internet	11529
 Artificial Intelligence Policy and Implementation Plan	9741
 Asbestos Management Plan	1988
+Asbestos Remedial Action Plan	16896,26
 Asbestos Waste Management Plan	1988
 Asbestos Waste Management Plan Electronic Waste	1988
 Assemblée Populaire de WilayaPOS Plan	15555
@@ -152,16 +176,21 @@ Atelier de Validation du Plan National du Numérique	3069,749
 Au Plan de Passation des Marchés	10876
 Auditor-General Strategic Plan	10107
 Authored the Maputo Plan of Action	13040
+Authority's Corporate Strategic Plan	17294
 Awareness DHA GBVF Plan DHA GBVF	11986
 B Digital Plan	12035
 B2- Plan	7548
 BCP Recovery Plan	10721
 BEE COMMITMENT PLAN	11209
 BEE Commitment Plan	11209
+BIODIVERSITY MANAGEMENT PLAN TEMPLATE	17114
 BUREAU INDEPENDANT ANTI-CORRUPTION PLAN DU RAPPORT	14450
 BUSINESS CONTINUITY PLAN SECTION	12484
 BUSINESS INSTANCE IMPLEMENTATION PLAN	1009
+Background The Judicial Strategic Plan	16943
 Band ITU Freq. Plan Out Stations	736
+Banjul Plan of Action	16874
+Banjul Plan... Document Press Release	17323,1
 Bank of Zambia’s Strategic Plan	13532
 Bank the Annual Work Plan and Budget	11417
 Bank’s Stakeholder Engagement and Communication Plan	11131
@@ -169,13 +198,17 @@ Banque Mondiale. Le Plan	14425
 Barbados Yes National Strategic Plan of Barbados	11529
 Basic Plan	11529
 Basin Development Organisation PEESIC Plan for Higher	11552
+Beijing Declaration and Plan for Action	16951
 Belgium Yes Plan	11529
 Belém Gender Action Plan	8891
 Benin Government Action Plan	10856
 Benin's National Development Plan	2331
 Benin's National Development Plan and Government Action	2334
+Best Education Plan G2P Government	16876
 Bhutan Yes Broadband Master Plan Bolivia	11529
 Bidder’s Preliminary Project Plan	15080
+Biodiversity Action Plan	17114
+Biodiversity Management Plan	17114
 Biomedical Waste Management Plan	11924
 Bloomberg. Zambia Dedollarization Plan. Available	12376
 Blueprint Action Plan	635
@@ -190,12 +223,14 @@ Bridge Plan	4167
 Broadband Plan	11857
 Broadband Plan Israel Yes Digital Israel	11529
 Broadband Policy Mali Yes Plan	11529
+Broadband Strategic Plan. This Policy	16883
 Budget du Ministère du Plan	16616
 Bundles Tariff Plan Changes	11259
 Burkina CASEM Plan de Travail Annuel	2074
 Burkina Faso Plan National de Développement	10812
 Burundi. The Strategic Plan	13314
 Burundi’s Education Sector Plan	13349
+Busan Action Plan for Statistics	16863
 Business Continuity Management Plan P2-6. Management	12500
 Business Continuity Plan	4848,1584,4118,1950,38,379,1629,204,728,64
 Business Continuity Plan BC&DR	12538
@@ -209,17 +244,19 @@ Business Plan and Budget for FY	15023
 Business Plan and NSDS Report	9485
 Business Plan and Procurement Plan for FY	15023
 C- Plan	7548
-C. Annual Work Plan and Budget	14912
+C. Annual Work Plan and Budget	14912,2024
 C. Strategic Plan for Agriculture and Rural Statistics	12768
 CADRE LOGIQUE ET PLAN D’ACTIONS	10712
 CAR's National Development Plan	2211
 CAR's National Plan for Recovery and Peace-building	15415
 CAR's National Recovery and Peacebuilding Plan	16436
 CARTES ANNEXE-6. PLAN D’ACTION CONTRE	14490
+CBL Strategic Plan	17138,97
+CBL’s Strategic Plan	17235
 CBM Implementation Action Plan	13051
 CDAP Community Data and Action Plan CDC	12970
 CERC Business Plan Competition CISE Caisse	10964
-CERC Manual and Emergency Action Plan	14912,606,141
+CERC Manual and Emergency Action Plan	14912,606,141,1277
 CIDP County Integrated Development Plan CSO	7548
 CIRMR-IRP.S8 Plan	10721
 CIV. The National Energy Efficiency Plan	3604
@@ -228,6 +265,8 @@ CM-MINHDU-484050-CS-QCBS du Plan de Passation de Marchés	16213
 CNI. A National CNI Protection Plan	14674
 COMMUNICATION PLAN	958
 COMPACT TARGETS AND ACTION PLAN	12399,281
+CONCLUSION This Stakeholder Engagement Plan	16926
+CORPORATE STRATEGIC PLAN	16968
 COVID-19 Response and Management Plan The COVID-19	12253
 CRVS Costed Plan and Civil Registry Rules	4257
 CRVS National Strategic Plan	12367
@@ -236,6 +275,8 @@ CRVS Strategic Plan	12330,4,33
 CRVS and Identity Management Investment Plan	12534
 CRVS and Identity Management Investment Plan. Strategic	12533
 CS for Implementation Plan Defence	1131
+CSA Annual Work Plan	16985
+CSA Strategic Plan	16985
 CV2060 and National Transformation Plan	15004
 Cabinet. The Strategic Plan	12977
 Cabo Verde Action Plan	11873
@@ -244,16 +285,20 @@ Cabo Verde Sustainable Development Plan	11863
 Cabo Verde’s Strategic Plan for Sustainable Development	11855
 Cabo Verde’s Strategic Plan for Sustainable Development5	11863
 Cadastre PMPP Plan de Mobilisation des Parties Prenantes	10876
+Cambio Climático PARRC Plan de Acción de Reducción	16875
 Campaigns Action Plan	11986
 Campsite Management Plan	13392
 Capacity Building Plan Increase	14947
+Capacity Development Plan	16970
 Capacity-Building Plan	12241
+Capital Investment Plan	16851
 Capital Markets Master Plan	14997
 Cartographie HACHETTE Tourisme PLAN STRATEGIQUE	15722
 Ce Plan	15720,87
 Ce Plan Stratégique National de Santé Numérique	16195
 Cell C Home LTE Price Plan	11259
 Central African Republic Education Sector Plan	16436
+Central MoH and Plan International	16971
 Centre for Enhancement of Quality Education Sector Plan	15604
 Chain Transformation Plan	13166
 Change Management Plan	13987
@@ -268,13 +313,15 @@ China’s National Economic and Social Development Plan	5242
 Civic Awareness STRATEGIC PLAN	13005
 Civil Registration and Vital Statistics Strategic Plan	12334
 Civil Society Engagement Action Plan	7784
+Climate Change Gender Action Plan	16947
 Code Nation Plan	6133
 Coherent and Comprehensive Long-Term Plan	14748
 Colombia Yes Plan Vive Digital	11529
 Combined Assurance Plan	11134
 Commission’s Strategic Plan	11250
+Communication Management Plan	16943
 Communication Nigeria Yes National Broadband Plan	11529
-Communication Plan	958,10833
+Communication Plan	958,10833,5135
 Communication Plan INTERNAL Board of Directors MPCC	11131
 Communication Plan Objectives	15034
 Communication Strategy Plan	15604
@@ -292,12 +339,13 @@ Community Policing Unit Strategic Plan	12732
 Compact Targets and Action Plan	12399,281
 Compact Targets and Action Plan THE RESULTS	15977
 Compact Targets and Action Plan Targeted	12563
+Compact Targets and Action Plan Trajectory Target	16966
 Compact's Action Plan	12399
 Company Share Plan	7198
 Compensation PEES Plan	10876
 Competitive Plan	4126
 Complexes Plan	15473
-Compliance Improvement Plan	12439,2546
+Compliance Improvement Plan	12439,2546,1983
 Compliance Risk Management Plan	11134
 Comprehensive Action Plan	15224
 Comprehensive Agriculture Master Plan	3583
@@ -305,6 +353,7 @@ Comprehensive Assessment and Strategic Plan	12337
 Comprehensive Mental Health Action Plan	10776
 Comprehensive Teacher Recruitment and Deployment Plan	11905
 Compute Plan	7548
+Concession Readiness Plan	17260
 Conclusion and Supervision Plan	15372
 Congo Unveils European-Backed Plan	3080
 Congo's National Development Plan	3096,8828
@@ -314,7 +363,10 @@ Consider the Marshall Plan. When Europe	4258
 Consolidated Annual Plan of Actions	13349
 Constitute the Strategic Plan Implementation Committee	13005
 Construction Waste Management Plan Safe Disposal	12253
+Continental Action Plan	17395
+Continental Response Plan	16971
 Contingency Plan	14254
+Contingent Emergency Response Implementation Plan	16926
 Contract. The Preliminary Project Plan	14766
 Contractor Environmental and Social Management Plan	12253
 Cooperation Plan International	15661
@@ -323,21 +375,28 @@ Coordinating the PC4IR Strategic Implementation Plan	11230
 Copy of Education Plan P3-10. Scope	12500
 Corporate Development Plan	1818
 Corporate Disaster and Recovery Plan	1000
-Corporate Strategic Plan	10550,31,1500,295,677
+Corporate Strategic Plan	10550,31,1500,295,677,3958,94
 Corporate Strategic Plan CSR	13053
+Corporate Strategic Plan GRA	16968
 Corporate Transitional Strategic Plan	12551
 Costed Action Plan	13219
 Costed National Disability Action Plan	13219
 Costed National Disability Plan	13219
 Costed National Disability Plan of Action	13219
 Costed Plan	4257
+Counties. An Annual Work Plan	16970
 Country Strategic Plan	10062,4883
 Country. The Nigerian National Broadband Plan	11857
+Country’s National Development Plan	16951
+County Development Plan	16970
+Court Performance Improvement Plan	17441
 Covid-19 Preparedness and Response Plan	14897
 Coût du Plan	15580
 Crisis Communications Plan	6946
 Crisis Management Response Plan	11134
 Crisis Management Response Plan and Crisis Management	11134
+Crisis Response Plan	17311
+Critical Infrastructure Plan	16884
 Critical Infrastructure Protection Plan	3604,7307
 Cross-Border Payment System Master Plan	13651,371
 Culture Change Strategy and Plan	5533
@@ -384,6 +443,7 @@ Decentralization Implementation Plan	13418
 Declaration and Denarau Action Plan	940
 Declaration of Principles and Action Plan	12896
 Defined Benefit Pension Plan Provision	14736
+Deliverables Plan	16884
 Delivery Improvement Plan SEIAS Socio-Economic Impact	11218
 Demand Side Management Master Plan and Action	14745
 Demerger Plan. Progress	15983
@@ -405,7 +465,7 @@ Developed National AI Strategic Implementation Plan	11230
 Development Bank AWP Annual Work Plan	13990
 Development Delivery Plan	7548
 Development Master Plan PDO Project Development	11380
-Development Plan	10856,280,389,461,1328
+Development Plan	10856,280,389,461,1328,3544,84,516
 Development Plan HRM&D Human Resource Management	11986
 Development Plan IALC Inter-Agency Leadership Committee	15556
 Development Plan JCPS Justice Crime Prevention	11188
@@ -413,6 +473,8 @@ Development Plan KZN KwaZulu-Natal LP Limpopo	11192
 Development Plan NDP National Development Plan	11250
 Development Plan NGO Non-governmental Organisation NIS	5533
 Development Plan NPF New Procurement Framework	11549
+Development Plan PIT Personal Income Tax	17011
+Development Plan RISE The Gambia Resilience	17105
 Development Technology and Delivery Plan	7548
 Development of Action Plan Updated the NAPHS	10776
 Development of Gender Based Action Plan	1988
@@ -420,10 +482,12 @@ Development of Sierra Leone's National Action Plan	14226
 Development of Strategic Plan for National Registration	12241
 Devtel Prepaid Tariff Plan	11259
 Diagram Number Search Diagram General Plan	12511
+Dialing Plan	16934
+Dialing Plan for Liberia	16934
 Digital Acceleration Plan	14674
 Digital Cameroon Strategic Plan	16050
 Digital Economy Development Plan Strategy	15621
-Digital Economy Master Plan	15936
+Digital Economy Master Plan	15936,1252
 Digital Education Strategy and Implementation Plan	13991
 Digital Education Strategy and Implementation Plan. June	13991
 Digital Government Plan	12562
@@ -459,6 +523,7 @@ Disaster Recovery Plan BCP	12538
 Disaster Recovery Plan Finding	13420
 Disaster Recovery Plan Ministry of Finance	12674
 Disaster Risk Reduction Master Plan	12206
+Disclosed Plan	17114
 Distribution Plan Updates	12358
 District Action Plan DEMISO	12175
 Divisions. The Strategic Plan	12759
@@ -470,17 +535,22 @@ Draft National Development Plan	12580
 Draft National Radio Frequency Plan	11259
 Draft Numbering Plan Regulations	4732
 Draft Reviewed Integrated Development Plan	11251
+Drought Contingency Plan	17157
+Drought Management Plan	17157
 Drought Response Plan	13387
 Du Plan	15569
 Débit Gabon Yes Plan	11529
 Développement Durable P2D Plan de Décentralisation	10712
 Développement PNDIS Plan National de Développement	13312,2
 Développement POSAF Plan	10712
+E&S Information Disclosure Plan	17114
 E- Waste and Hazardous Material Management Plan	1284
+E-Government Strategic Plan	16885
 E-Waste Management Plan	1284,2172,11456
 E-Waste Management Plan. Project	1284
 E-Waste and Hazardous Material Management Plan	13331
 E-Waste and Hazardous Materials Management Plan	13331
+E-waste Management Plan	16949
 E-waste Management Plan. Component	1988
 EAC Cross-Border Payment System Master Plan	7192
 EACO Strategic Plan	8753
@@ -492,25 +562,32 @@ EEC's Network Development Plan	12388
 ELECTRICITY SUPPLY PLAN FOR GHANA	15904
 EMERGENCY RESPONSE PLAN E-WASTE	12253
 EMIS Education Sector Plan for Egypt Education	15604
+EN-1.pdf Independent Reporting Mechanism Action Plan	17037
 ENERGY POLICY AND INTEGRATED ENERGY PLAN	14422
+ENVIRONMENTAL AND SOCIAL MANAGEMENT PLAN	17114
 ENVIRONMENTAL AND SOCIAL MANAGEMENT PLAN ELECTRICITY	12253
 ENVIRONMENTAL SOCIAL MANAGEMENT PLAN State the Environmental	1988
 ESA and ESP. Education Sector Plan for Egypt	15604
 ESCP Environmental and Social Commitment Plan ESEEP	11380
 ESCP Environmental and Social Commitment Plan ESF	15491
-ESCP Environmental and Social Commitment Plan ESIA	16384
+ESCP Environmental and Social Commitment Plan ESIA	16384,538
 ESG Transition Plan	11134
 ESMF Environmental and Social Commitment Plan ESPC	3604
 ESMF and Stakeholder Engagement Plan	1988
 ESMP Enviornmental and Social Management Plan FA	969
+ESMP Environmental and Social Management Plan ESMS	17099
 ESMP Environmental and Social Management Plan ESS	10829,4309
+ESMP Environmental and Social Management Plan FM	16896
 ESP Education Sector Plan FFA Framework	15604
+ESP Education Strategic Plan	17196
 ESSP Education Sector Strategic Plan	14916
 ESSP Education Sector Strategic Plan ESSP	12975
 ESSP Education Sector Strategic Plan ESYB	14922
 ESTABLISHING CORPORATE DISASTER AND RECOVERY PLAN	1000
 EU AI Continent Action Plan	6879
-EU Action Plan	789,181
+EU Action Plan	789,181,16049
+EU Action Plan for Forest Law Enforcement	16843
+EU FLEGTAction Plan Evaluation	16853
 EU Gender Action Plan	789
 EU Gender Action Plan III	789
 EU’s AI Continent Action Plan and Apply	4689
@@ -527,10 +604,12 @@ Economic and Social Recovery Plan. Critics	4063
 Economie du Plan	4273,11843
 EdTech Strategy and Action Plan	11918
 Education Action Plan	13990
+Education Action Plan DODeL Directorate of Open	17196
+Education Policy and Strategic Plan	16852
 Education Section Plan for Egypt Education Sector	15604
 Education Sector Medium Term Development Plan	789
 Education Sector Medium-Term Plan CHAPTER	15796
-Education Sector Plan	11525,391,1433,641,1614,57,775,24
+Education Sector Plan	11525,391,1433,641,1614,57,775,24,561
 Education Sector Plan Development Grant	14896
 Education Sector Plan Support Project	15661,775
 Education Sector Plan Support Project ESS	15661
@@ -543,10 +622,11 @@ Education Sector Plan for Egypt Education Sector	15604
 Education Sector Plan for Guinea-Bissau	11536
 Education Sector Plan. Different	15604
 Education Sector Strategic Implementation Plan	14922
-Education Sector Strategic Plan	12329,82,83,420,61,335,839,1,746,20,6,18,147
+Education Sector Strategic Plan	12329,82,83,420,61,335,839,1,746,20,6,18,147,1824
 Education Sector Strategic Plan ETGPS Educational	12975
 Education Sector Strategic Plan and SDG4	12741
-Education Strategic Plan	789
+Education Strategic Plan	789,16407
+Education and Sports Sector Development Plan	17196
 Education and Training Sector Strategic Plan	12574
 Educational Plan P5-18. Stock	12500
 Effectiveness PNDES National Plan for Economic and Social	15621
@@ -554,7 +634,12 @@ Egypt Education Sector Plan for Egypt	15604
 Egypt The Education Sector Plan	15604
 Eight National Development Plan	12416
 Eighth National Development Plan	6170,1609,4674,879,4,9,44,37,10,76,150
+El Plan Estratégico de Desarrollo Sostenible	16893
 El Plan Nacional	1701
+El Plan Nacional de Desarrollo Económico	16875
+El Plan Nacional de Nombres de Dominio de Internet	16855
+El Plan Nacional de Nombres de Dominios	16855
+El Plan de Desarrollo	16898
 El Primer Plan Quinquenal	1701
 Elaboration du Plan National de Financement	16195
 Elaboration du Plan Stratégique National	15712
@@ -571,7 +656,7 @@ Electronic Travel Authorisation DHA GBVF Plan	11986
 Electronic Waste Management Plan	1988
 Electronic Waste Management and Monitoring Plan	1988
 Embedded Generation TDP Transmission Development Plan	11228
-Emergency Action Plan	13331,2327,1,310,175
+Emergency Action Plan	13331,2327,1,310,175,792,163,15
 Emergency Plan of Action	15553
 Emergency Preparedness Plan	12253
 Emergency Response Plan	1988,10265
@@ -581,39 +666,44 @@ Emerging Gabon Strategic Plan	15411,100
 Emerging Senegal Plan	417,391
 Emerging Technologies Compute and Infrastructure Plan	7548
 Energy Action Plan	11215,57
-Energy Master Plan	13054
+Energy Master Plan	13054,4206
 Energy Policy and Action Plan	13054
 Energy Policy and Plan	14422
 Energy Sector Strategic Plan	14947
 Energy Sector Strategic Plan EUCL	12358
 Energy Sector Strategic Plan GDP Gross	14947
 Energy Sector Strategy Plan	14871
+Energy and Mines National Action Plan	16973
 Engagement Plan SNE National Electricity Company	15659
 Engagement des Parties Prenantes PGES Plan de Gestion	10876
 Ensure O&M EHS Plan	1988
+Enterprises SDOCs Strategic Plan SIBLL Structured	17235
 Environment and Social Commitment Plan	2889,3650,4229
 Environment and Social Management Plan	15424
 Environment and Social Management Plan Contractor	14576
+Environmental Assessment Security Management Plan Traffic	17114
 Environmental Monitoring Plan	1988
 Environmental Social Management Plan	14487,1176
 Environmental Social Management Plan ESO Entrepreneurship	15621
 Environmental and Social Action Plan	1818,13840
-Environmental and Social Commitment Plan	1264,514,89,121,901,100,615,1230,5995,135,426,27,548,43,1103,220,1,1221,23,336,64,162,380,35,105,1,2
+Environmental and Social Commitment Plan	1264,514,89,121,901,100,615,1230,5995,135,426,27,548,43,1103,220,1,1221,23,336,64,162,380,35,105,1,2,1275,13
 Environmental and Social Commitment Plan ESF Environmental	1867,13792
 Environmental and Social Commitment Plan These Regulations	1988
 Environmental and Social Commitment Plan. Regarding E&S	11905
-Environmental and Social Management Plan	1988,901,9035,329,173,685,74,146,1,606,1200,273,100,7,140,1,2,308
+Environmental and Social Management Plan	1988,901,9035,329,173,685,74,146,1,606,1200,273,100,7,140,1,2,308,953,192
 Environmental and Social Management Plan All	12253
+Environmental and Social Management Plan CERC Contingent	17114
 Environmental and Social Management Plan ESMP Environment	11863
 Environmental and Social Management Plan EUR Euro	15969
 Environmental and Social Management Plan Item Anticipated	12253
 Environmental and Social Management Plan The ESMP	12253
 Environmental and Social Management Plan The Environmental	12253
 Environmental and Social Management Plan. Specifically	12253
-Environmental and Social Management and Monitoring Plan	14487
+Environmental and Social Management and Monitoring Plan	14487,2627
 Environmental and Social Monitoring Plan	12253
 Environmental and Social Monitoring Plan Potential Impact	12253
 Environmental and Social Monitoring Plan The Environmental	12253
+Equatorial Guinea’s National Development Plan	16972
 Equity Group’s Africa Recovery and Resilience Plan	7073
 Equity Plan	11986
 Eritrea Domesticated IGIF Action Plan Reporting	14105
@@ -636,7 +726,7 @@ Etat PNDES Plan	16620
 Ethiopia's Ten-Year Development Plan	7820
 Ethiopian MOH. Health Sector Transformation Plan	12255
 European Union's Digital Education Action Plan	6936
-Evaluation Plan	1284,583,8962,135,453,438,50,451,975,1,1806,380,35,105,1,2,135,348
+Evaluation Plan	1284,583,8962,135,453,438,50,451,975,1,1806,380,35,105,1,2,135,348,778,27
 Evaluation Plan Evaluations	12356
 Evaluation du Plan	10963,1
 Evidence Action Plan	10911
@@ -645,12 +735,14 @@ Expenditure Framework NDP National Development Plan	1988
 Exploitation and Abuse SEP Stakeholder Engagement Plan	15621
 Extended National Strategic Development Plan	12759
 Extended National Strategic Development Plan II	12759
-External Borrowing Plan	12127
+External Borrowing Plan	12127,5082
 F6 The Nigerian National Broadband Plan	11857
 FE Plan	10858
 FINANCIAL AND COMMERCIAL PLAN	15149
 FINANCIAL YEAR NATIONAL DEVELOPMENT PLAN SIX	13118
 FINANCING PLAN AND BUDGET	13965,892
+FLEGT Action Plan	16848
+FLEGTAction Plan	16853
 FM Action Plan	10829,2503,2186,140
 FM Action Plan Action Staffing	15658
 FM Action Plan G. Procurement	2889
@@ -666,6 +758,7 @@ FR DOCUMENT PLAN	16195
 Family Assistance Plan	11855
 Famine Prevention Plan	14959
 Federal Civil Service Strategy and Implementation Plan	3557,6506,93
+Federal Republic of Germany. This Strategic Plan	16943
 Female Male Education Sector Plan for Egypt	15604
 Fifth National Development Plan	2588,10335,2,9
 Fifth National Development Plan NDP	12921
@@ -676,6 +769,7 @@ Finalize GBV Assessment and Action Plan Develop	2989
 Finalize GBV Assessment and Action Plan Update	2989
 Finalize the Network Extension Master Plan	16188
 Finance Reform Strategic Plan	11906
+Finance and Administration. The Strategic Plan	17295
 Finances PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
 Financial Education Plan	8354
 Financial Inclusion Plan	10775
@@ -691,15 +785,18 @@ First Five Year Development Plan	13320
 First National Adaptation Plan for Climate Change	3583
 First Phase Plan Partnering Organizations Hayah	15578
 First Ten-Year Implementation Plan	13060
+First-ever National Action Plan	16973
 Fiscal Adjustment Plan	12922
 Five Year Plan	11224
 Five-Year Development Plan	4214
+Five-Year National Health Strategic Plan	16971
 Five-Year Plan	10350,1268
 Five-Year Plan That Continues	5340
 Five-Year Plan and ECOWAS's Vision	6003
 Five-Year Plan for National Informatization	10350
-Five-Year Strategic Plan	4614
+Five-Year Strategic Plan	4614,12681
 Five-year Government's Plan	12832
+Five-year Strategic Plan. LIBERIA ELECTRICITY REGULATORY	16978
 Fixed Broadband Plan Ireland Yes National	11529
 Fixed Business Unit. The Plan International	9917
 Fondements Le Plan	10712
@@ -716,10 +813,14 @@ Framework NASP National Strategic Plan NDP	11224
 Framework SEP Stakeholder Engagement Plan SETIC	13331
 France Yes Plan France Très Haut	11529
 Fraud Prevention Plan	5533
+Frequency Assignment Plan	16839
 Funding Plan	4153,14,35,10,5,5,38,6,35,48,9,994
 G20 Action Plan	11183
+GAMBIA REVENUE AUTHORITY CORPORATE STRATEGIC PLAN	16968
 GAP Government Action Plan GDER General	15515
 GB. Monthly Plan	15471
+GBON National Contribution Plan	16947
+GBON National Contribution Plan Liberia SOFF	16947
 GBV Action Plan	1778,210,1001,7975,2368,1806,415
 GBV Action Plan Template GBV Action	1988
 GBV Action Plan. The SEP	13332
@@ -731,19 +832,39 @@ GOUVERNANCE ET DU PLAN IDENTIFICATION NOM	13300
 GOUVERNANCE ET DU PLAN INSTITUT	13300
 GOVERNANCE AND DECENTRALISATION SECTOR STRATEGIC PLAN	14935
 GOVERNMENT PLAN	13345
+GPF Strategic Plan	17105
+GRA STRATEGIC PLAN	16968
 GRM. The Stakeholder Engagement Plan	11965
 GSMA Intelligence Nigerian National Broadband Plan	11857
 Gabon Operational Plan for Services	15447
 Gabon Transformation Accélération Plan	15518
+Gambia Biodiversity Strategy and Action Plan	17105
+Gambia Broadband Strategic Plan	16883,1
+Gambia E-Government Strategic Plan	16924
+Gambia National Agricultural Investment Plan	16861
+Gambia National Development Plan	16924,5
 Gambia National Digital Economy Master Plan	1359
+Gambia National Health Strategic Plan	16896
+Gambia National Health Strategy and Plan	16861
+Gambia Recovery Focused National Development Plan	16951
 Gambia Yes The Gambian ICT4D-2012 Plan	11529
+Gambia's Broadband Strategic Plan	16884
+Gambian ICT4D-2013 Action Plan	16861
+Gambian National Action Plan	16951
+Gambian National Development Plan	16874
+Gambian Open Data Action Plan	16939
+Gambia’s Broadband Strategic Plan	16883
+Gambia’s National Action Plan	16973
 Gas Master Plan	11215,57
-Gender Action Plan	11863,1913
+Gender Action Plan	11863,1913,3338
+Gender Action Plan GBV Gender-Based Violence	17114
 Gender Action Plan PROJECT TITLE	13938
+Gender Action Plan of SOFF	16947
 Gender Inclusion Strategy and Action Plan	9893
 Gender Sector Statistics Plan	14572
 Gender Sector Statistics Plan Report	14572
 Gender-based Violence and Femicide Plan	5533,6453
+General Auditing Commission’s Strategic Plan	17364
 General Education Sector Strategic Plan	14897
 General Education Strategic Plan	3583
 General Information PROCUREMENT PLAN Country	15804
@@ -783,18 +904,24 @@ Government Strategic Plan	12453
 Government of Cameroon’s Plan Stratégique Numérique Cameroun	15480
 Government of Eswatini’s National Development Plan	12962
 Government of Lesotho National Strategic Development Plan	12663
+Government of Liberia Presents Crisis Response Plan	17311
 Government of Mozambique's Global Reconstruction Plan	12832
 Government's National Development Plan	15513
 Government. The Plan	13312,2
+Government’s National Development Plan	16970
+Government’s Open Data Strategy and Action Plan	16939
 Govt Power Sector Action Plan	1230
+Govt-2024 Strategic Plan	16885
 Grand Plan	12989
 Grand Plan for National Transformation	5450
 Grenadines National ICT Strategy and Action Plan	11529
 Growth and Transformation Plan	13965,289
 Guatemala Yes Compromiso de Plan Nacional de Conectividad	11529
 Guinea's Minister of Plan and International Cooperation	2159
+Guinea-Bissau's National Adaptation Plan	17369
 Guinea-Bissau's Strategic and Operational Plan	11552
 Gulf of Guinea Joint Response Plan	10920
+H. Conclusion This Action Plan	17018
 HEALTH INFORMATION SYSTEM STRATEGIC PLAN	15556
 HEREBY ISSUES THE NATIONAL RADIOFREQUENCY PLAN	7850
 HOSPIT. Y BIENESTAR SANITARIAS Y PLAN	4209
@@ -813,9 +940,11 @@ Health PNDIS Plan	14666
 Health Plan	15411
 Health Policy Plan	766,453,9662,704,11
 Health Sector Development Plan	1212,2371
+Health Sector Emergency and Response Plan	16874
+Health Sector Investment Plan for Building	16971
 Health Sector Medium Term Development Plan	15556
 Health Sector Medium-Term Development Plan	15556
-Health Sector Strategic Plan	1261,2322,584,8073,173,316,2044
+Health Sector Strategic Plan	1261,2322,584,8073,173,316,2044,2516
 Health Sector Strategic Plan III	12240,926
 Health Sector Strategic Plan and Rwanda	4167
 Health Sector Transformation Plan	1212
@@ -823,17 +952,21 @@ Health Sector Transportation Plan	1219
 Health Strategic Plan	14666,745
 Health and Plan	15845
 Health and Safety Plan	1988
+Health and Social Welfare Policy and Plan NIR	16860
 Heritage Management Plan	1988
+Heritage Management Plan Biodiversity Management Plan	17114
 High-level Implementation Plan	12674
 Hub Plan	10668
 Human Capital Transformation Strategic Plan	12500
 Human Resource Development Plan	12934
 Human Resource HRP Human Resource Plan	11261
 Human Resource Plan	4217
+Human Resource Strategic Plan	17011
 Human Resource for Health Strategic Plan	12976
 Human Resources Operational Plan	13166
 Human Resources for Health Strategic Plan	12976
 Human Rights Defenders Network Strategic Plan	11586
+Human Tracking Act and Plan	16951
 Humanitarian Needs and Response Plan	3583
 Humanitarian Response Plan	15658,57
 I-2. Approbation du Plan Cadre de Coopération des Nations	14904
@@ -843,11 +976,27 @@ I. II. Implementation Plan	4217,43
 I. The Implementation Plan	4217
 ICAP Cameroun PLAN STRATEGIQUE NATIONAL	16195
 ICT Authority Strategic Plan	7548
-ICT Master Plan	395,14639
+ICT Master Plan	395,14639,1850,1
+ICT Master Plan for The Gambia	16884,1
+ICT Master Plan. Further	16884
 ICT Sector Strategic Plan	3013,4484,4836,2588,243
-ICT Strategic Plan	7707,7457
+ICT Strategic Plan	7707,7457,2277
 ICT Strategic Plan and Implementation	11231
 ICT Strategic Plan and Implementation Roadmap	11231
+ICT4 Development Master Plan. Legally	16883
+ICT4D Action Plan	16861
+ICT4D Plan	16861,24
+ICT4D Plan Development and Implementation	16861
+ICT4D-2003 Action Plan	16861
+ICT4D-2013 Action Plan	16861,22
+ICT4D-2013 Action Plan Development and Implementation	16861
+ICT4D-2013 Action Plan Impact Assessment	16861
+ICT4D-2013 Action Plan The Gambian NICI-1	16861
+ICT4D-2013 Action Plan The NICI-1	16861
+ICT4D-2013 Action Plan. Specifically	16861
+ICT4D-2013 Plan	16861,22
+ICT4D-2013 Plan Given	16861
+IDMP Integrated Drought Management Plan IOM	17157
 IDT4M Annual Work Plan	12241
 IGAD ISAC Establishment Plan	13880
 IGAD Regional Infrastructure Master Plan	13975,104,849
@@ -864,19 +1013,22 @@ IMPLEMENTATION ARRANGEMENT AND SUPPORT PLAN	10829
 IMPLEMENTATION ARRANGEMENT AND SUPPORT PLAN Overall	10829
 IMPLEMENTATION ARRANGEMENTS AND SUPPORT PLAN	14937
 IMPLEMENTATION ARRANGEMENTS AND SUPPORT PLAN Strategy	11905
-IMPLEMENTATION PLAN	396,765,11762,1015,977,27
+IMPLEMENTATION PLAN	396,765,11762,1015,977,27,2026
 IMPLEMENTATION PLAN AND MONITORING AND EVALUATION	12675
 IMPLEMENTATION PLAN FOR OPERATIONALISING THE STRATEGIES	15556
 IMPLEMENTATION PLAN FOR THE NSDS	13965
+IMPLEMENTATION PLAN FRAMEWORK	17116
 IMPLEMENTATION PLAN T	958
 IMPLEMENTATION PLAN TO ADDRESS SHORTCOMINGS IDENTIFIED	14773
 IMPLEMENTATION PLAN Task Results Responsible Dates	13938
 IMPLEMENTATION STRATEGY AND PLAN	14857
+IMPLEMENTATION SUPPORT PLAN	17458
 IMPÔTS PLAN D’ORIENTATION STRATÉGIQUE DE L’ADMINISTRATION	10712
 INFORMATION SYSTEMS STRATEGIC PLAN	15556
 INS Plan	15580
 INVESTMENT PLAN	15149
 IPMP Integrated Pest Management Plan LMP	1988
+IRM Action Plan Review	17037
 IRM Midterm Status Summary Action Plan	11873
 ISO's Action Plan for Developing Countries	15860
 IT2000 Master Plan	13290
@@ -890,17 +1042,20 @@ IX. Plan	15936
 Immeuble Plan	14527
 Impact Evaluation LMP Labor Management Plan	16384
 Impact Investment NDP National Development Plan	12376
+Implement the OHS Management Plan	17114
 Implement the WE Finance Code Plan Lead	15130
 Implementation Action Plan	3678,9243
-Implementation Arrangements and Support Plan	969,295,603,8901,612,169,11,1771,1,2159,24,3,35,68,37,1,2
+Implementation Arrangements and Support Plan	969,295,603,8901,612,169,11,1771,1,2159,24,3,35,68,37,1,2,1288
 Implementation Arrangements and Support Plan COUNTRY	13332,2186,140
 Implementation National Action Plan Implementation Framework	21
-Implementation Plan	958,203,27,69,340,219,1242,1095,14,35,15,43,41,48,893,110,6706,298,318,1,221,27,9,32,96,125,806,443,311,15,13,87,853
+Implementation Plan	958,203,27,69,340,219,1242,1095,14,35,15,43,41,48,893,110,6706,298,318,1,221,27,9,32,96,125,806,443,311,15,13,87,853,1230,8,60,105
+Implementation Plan Framework	17116
 Implementation Plan MIS Management Information System	12964
 Implementation Plan MLA	12175
 Implementation Plan MoU Memorandum of Understanding MUBAS	12241,839,15
 Implementation Plan Policy	958
 Implementation Plan Summary	1204
+Implementation Plan Table	16943
 Implementation Plan Table Fir100 Activities Responsible	12356
 Implementation Plan and Monitoring and Evaluation Framework	12675,1795
 Implementation Plan and Roadmap	12008
@@ -913,6 +1068,7 @@ Implementation Support Plan AFRICA	15372
 Implementation Support Plan FM Activity Frequency	11525,4028
 Implementation Support Plan GABON	15411
 Implementation Support Plan Implementation Support Plan	11855
+Implementation Support Plan PAD DATA SHEET	17441
 Implementation Support Plan Time Focus Skills	10964
 Implementation Support Plan and Resource Requirements	11905
 Implementation Support Plan for FM. FM	15518
@@ -922,10 +1078,13 @@ Implementation and Communication Plan	958
 Implementation of DHA GBVF DHA GBVF Plan	11986
 Implementation of DHA GBVF Plan	11986
 Implementation of E-waste Management Plan Increased	1988
+Implementation the Plan	16884
 Implementing the GBV Integrated Plan of Action	11230
-Improvement Plan	11224
+Improvement Plan	11224,5916
+Improvement Plan Liberia	17140
 Impôts PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
 In-Country Plan for Information Sharing and Analysis Centre	13880
+Inception Report and Work Plan	17287
 Incidence Response Plan CIRMR-IRP.S1	10721
 Incident Management Plan	10721
 Incident Management Plan Cyber Crisis Management	10721
@@ -952,6 +1111,8 @@ Information System Master Plan	4284,13
 Information Technology Architecture Plan	15031
 Information Technology NCP National Contribution Plan	11553
 Information Technology Plan and Governance	11134
+Information and Data Action Plan Objective	17018
+Infrastructure Action Plan	17260
 Infrastructure Annual Infrastructure Plan	7548
 Infrastructure PND Plan National de Développement PNDIS	13341
 Infrastructure Plan	7548
@@ -961,6 +1122,8 @@ Inline With The Strategic Plan Improved	12515
 Innovation NDP National Development Plan NECSA	5246
 Institutional Development Plan	10776
 Integrated Development Plan	7479,3752
+Integrated Drought Management Plan	17157
+Integrated Drought Management Plan The IDMP	17157
 Integrated Electricity Plan	14745
 Integrated Energy Plan	11272
 Integrated Information Systems Plan	1000
@@ -973,22 +1136,26 @@ Integrated Strategic Business Plan	12380,796,1076,2557
 Integrated Strategic Plan	1870
 Integrated Strategy and Business Plan	13155
 Integrated Transmission Expansion Plan	11272
+Integrated Work Plan IRRF	17101
 Integrity Policy DP Development Plan ELP	11250
 Interim Education Plan	11916
 Interim Plan	10550
 Interior BCP Business Continuity Plan PKI	1000
 Internal Audit Annual Plan	12500
 Internal Audit Plan	1554,9580
+Internal Audit Strategic Plan	17235
 International Plan of Action	14447
 Internet. Le Plan	15591
 Interoperability Master Plan	10991
 Introduction The Asbestos Management Plan	1988
 Introduction The Education Sector Strategic Plan	14916
+Introduction The National Numbering Plan	16934
 Introduction The Skills Development Plan	12934
 Intégration Le Plan	3396
 Investissement Public PNAE Plan	15580
 Investment Case Plan. Well	14923
-Investment Plan	7368,3451
+Investment Plan	7368,3451,6152,130
+Investment Plan for Building	16860
 Irrigation Master Plan and Investment Framework	13060
 Italy's Mattei Plan for Africa	14097
 Italy's Mattei Plan. Deal	5095
@@ -998,8 +1165,17 @@ Ivoire Plan National de Développement Projet National	15936
 Ivoire Unveils Ambitious Digital Transformation Plan	4096
 Ivoire's National Development Plan	6336
 Ivoire’s National Adaptation Plan	3604
+J. The System Plan	16851
+Job Plan	17503
 Joint CBM Action Plan	13051
 Joint Country Action Plan	14970
+Judicial Conferences. The Plan	16943
+Judicial Strategic Plan	16943
+Judicial Strategic Plan Results Framework	16943
+Judiciary Strategic Plan	16943
+Judiciary Strategic Plan V	16943
+Judiciary Strategy Plan	16943
+Judiciary Strategy Plan SO	16943
 Just Energy Transition Implementation Plan	11210
 Just Energy Transition Investment Plan	11245
 KENYA SPACE AGENCY STRATEGIC PLAN	1131
@@ -1031,23 +1207,26 @@ LCPDP Least-Cost Power Development Plan MCC	12717
 LE MINISTRE DU PLAN	16616
 LE PLAN D’ACTIONS	15670,950
 LE PROCESSUS DE DEVELOPPEMENT DU PLAN	15712
+LINKING THE E-GOVT-2024 TO ICT4D PLAN	16885
 LMIS Master Plan	13157
 LMP Labor Management Plan PBA Performance-Based	1264
 LMPS Strategic Plan	12732
 LOGIC OF THE PLAN	12675
 LOGICAL FLOW OF ACTION PLAN	1000
 LONG-TERM PLAN Once	12477
-LRA Corporate Strategic Plan	10581
+LRA Corporate Strategic Plan	10581,6786
 LRA's Corporate Strategic Plan	11710
+LRA’s Corporate Strategic Plan	17011
 LRP Livelihood Restoration Plan M&E Monitoring	16384
-Labor Management Plan	1264,1625,9537,3232,1,2
+Labor Management Plan	1264,1625,9537,3232,1,2,1453
 Labour Management Plan	1988
 Labour Migration Action Plan	10324
 Lack of Approved Business Continuity Plan	14546
 Lagos Plan of Action	6997
 Lagos The Nigerian National Broadband Plan	11857
 Land Drainage Master Plan	14748,70
-Land Use Plan	12389
+Land Use Plan	12389,4716
+Launch Five-Year Strategic Plan Search	17078
 Launch of NRB Strategic Plan and CRVS and ID	13080,15
 Le Directeur de Cabinet du Ministère du Plan	16337
 Le Ministre du Plan	13290,3128,255,40
@@ -1070,39 +1249,56 @@ Le Plan de Travail Budgétaire Annuel du SNIS	15530
 Le Représentant du Ministère du Plan	13290
 Least Coast Power Development Plan Dec	14947
 Least Cost Development Plan	15659,310
-Least Cost Power Development Plan	12358,322,2267,712,310
+Least Cost Power Development Plan	12358,322,2267,712,310,997
 Least Cost Power Development Plan LKMP	12358
 Least-Cost Development Plan	15969
 Least-Cost Power Development Plan	12717
+Legislated Master Plan	17260
 Les PLAN STRATEGIQUE DE LA REFORME	15722
 Lesotho. This Strategic Plan	12759
 Lesotho’s National Strategic Development Plan	12663
+Liberia Action Plan	17037
+Liberia's Education Sector Plan	17021
+Liberia's National Development Plan	16970
+Liberia's Strategic Plan	17364
+Liberia’s Dialing Plan	16934
+Liberia’s National Adaptation Plan	16949
+Libya Crisis Response Plan	17157
+Libya’s National Development Plan	17157
 Livelihood Restoration Plan	1988,8841
 Livelihood Restoration Plan Satellite Social Specialist	1988
 Local Area Plan	1867,121
 Location Plan	11862
 Long-Term National Development Plan	789
+Long-Term National Infrastructure Master Plan	17260
 Long-Term Plan	12675
 Long-term National Development Plan	1779
 LÉMENTS DU PLAN STRATÉGIQUE	15720
 L’élaboration du Plan	15580
 L’élaboration du Plan de Stratégie	16627
 M&E Monitoring and Evaluation Plan	12911
+M&E Plan	16971,4
 MAIN-D’ŒUVRE QUALIFIEE SUR LE PLAN NUMERIQUE	15493
 MALAWI IMPLEMENTATION PLAN MRA	12253
 MALAŴI NATIONAL ACTION PLAN	12987
+MANAGEMENT Of STAKEHOLDER ENGAGAMENT PLAN	17099
+MAPS Marrakech Action Plan for Statistics MASIG	16898
 MASTER PLAN ICT TRANSFORMATION	395
 MEDIAS PLAN DIRECTEUR DE DIGITALISATION DES	13341
 MEF PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
 MGDS III. The Plan	12917
+MIL. Praia Action Plan Page	17018
 MINISTERE DU PLAN	16616
 MINISTERE DU PLAN ET SUIVI	15381
 MINISTÈRE D'ÉTATCHARGÉ DU PLAN ET	15479
 MINISTÈRE DU PLAN	16708
 MINISTÈRE DU PLAN ET	16616
 MIP Management Improvement Plan MIS Management	11549
+MOBILE NUMBERING PLAN	17251
 MOETE and CAPMAS. Education Sector Plan for Egypt	15604
+MONITORING AND EVALUATION OF BROADBAND PLAN	16884
 MONITORING and EVALUATION PLAN	15743
+MORALE RESIDENTE BENEFICIAIRE DU PLAN D’ACTIONNARIAT	17485
 MPF Strategic Policing Plan	14760
 MPSAM Monitoring and Evaluation Plan	3604
 MTDP Medium-Term Development Plan MTEF Medium-Term	11261
@@ -1126,18 +1322,26 @@ Malawi's Third OGP National Action Plan	13006
 Malawi. The Plan	13095
 Malawians. NRB Strategic Plan	13080
 Management Plan	10721,857,1753,89
+Management Plan Drought	17157
 Management Plan ESS Environmental and Social Standards	15983
 Management Plan FM Financial Management FY	15511
+Management Plan FM Financial Management GBV	16922
+Management Plan UNFCCC United Nations Framework	17114
 Management SDIP Service Delivery Improvement Plan	11224
 Management Systems BCP Business Continuity Plan	13420
 Manual POM Procurement Plan PP Purchasing	11855
-Manual and Emergency Action Plan	15518
+Manual RAP Resettlement Action Plan RPF	16926
+Manual and Emergency Action Plan	15518,1418
 Maputo Plan of Action for Universal Access	13040
 Marchés Publics PTBA Plan de Travail	10876
+Marketing and Branding Strategy Action Plan	17105
+Marrakech Acción Plan for Statistics	16898
+Marrakech Action Plan for Statistics	16863
 Marrakech Action Plan for Statistics MDA	14857
 Marshall Plan	14742,93
 Marshall Plan Social Contract	14742
-Master Plan	395,563,2625,701,4199,938,1708,1081,79,40,4,66,724,421,88,33,8,284,122,955,1154
+Master Plan	395,563,2625,701,4199,938,1708,1081,79,40,4,66,724,421,88,33,8,284,122,955,1154,1072,70
+Master Plan Energy	17260
 Master Plan Having	395
 Master Plan Overview	395
 Master Plan and Implementation Strategy	395
@@ -1193,6 +1397,7 @@ Ministry Annual Plan	13118
 Ministry Launches Strategic Plan	15037
 Ministry of Plan	15553
 Ministry of Plan and International Cooperation	2159
+Ministry. Capacity Development Plan	16970
 Ministry’s Strategic Plan	12972
 Ministère du Plan	10821,3845,765,62,166,160,504,14,14,67,198,25,30,29,13,34
 Ministère du Plan. Plan National de Développement	15583
@@ -1203,8 +1408,9 @@ MoHCDGEC. Tanzania Health Sector Strategic Plan	1261
 Module Status Action Plan	11231
 Monitored SAPO Business Rescue Plan	11230
 Monitoring and Evaluation D. DPMO’s Strategic Plan	12977
-Monitoring and Evaluation Plan	1000,2604,7164,2209
+Monitoring and Evaluation Plan	1000,2604,7164,2209,4034
 Monitoring and Evaluation Plan for Data Strategy CUSTODIAN	1161
+Monitoring and Evaluation of Broadband Plan	16884
 Monitoring of Implementation of GBVF Plan	11986
 Monsieur le Ministre du Plan	16678
 Monthly Education Sector Plan for Egypt Education	15604
@@ -1214,35 +1420,47 @@ Multi Year Action Plan	12975
 Multi-Annual Budgeted Plan of Actions	13349
 Multi-Annual Indicative Plan	9398
 Multi-Hazard Contingency Plan	12977
+Multi-Year Action Plan	16863
 Multisectoral National Action Plan for Health Security	11417
+Multistakeholder Action Plan for Integrating MIL	17018
+Municipal Development Plan	16970
 NA No Plan	15758
 NAP National Adaptation Plan	11965
 NAP National Adaptation Plan NCD Non-Communicable	12970
+NAPHS National Action Plan for Health Security	17289
 NATIONAL BROADBAND PLAN	11857
 NATIONAL BROADBAND PLAN Ms Funke Opeke	11857
+NATIONAL DEVELOPMENT PLAN	16973
 NATIONAL DIGITAL HEALTH STRATEGIC PLAN	16041
 NATIONAL ELECTRONIC GOVERNMENT PLAN REPUBLIC	13345
+NATIONAL NUMBERING PLAN	16934
+NATIONAL NUMBERING PLAN OF URL	16934
 NATIONAL RADIO FREQUENCY PLAN	7850
 NBR Business Plan Implementation Report for FY	15023
 NCC Nigerian National Broadband Plan	11857
 NCC. Nigerian National Broadband Plan	11857
+NCD Launches Five-Year Strategic Plan	17295
 NCP National Contingency Plan NDC Nationally	11380
 NCS Action Plan	1777
 NCS Action Plan. Current	1777
 NDP Eighth National Development Plan BOZ	13332
 NDP Eighth National Development Plan ZmCIRT	13345
 NDP National Development Plan	14929
+NDP National Development Plan NDASC National	16915
 NDP National Development Plan NEGP National	13345
+NDP National Development Plan OpEx Operational	16923
 NDP National Development Plan WEGE Women	11193
 NDP Seventh National Development Plan	13332
 NERP National Economic Recovery Plan PFM	13060
 NETP National Emergency Telecommunications Plan NNI	3604
+NEUTRALITY PLAN FOR LIBYA Introduction	17157
 NFIR Action Plan	15130
 NFIR. The Annual Work Plan	15130
 NFIS Performance Monitoring Plan	940
 NGP Action Plan	12946
 NGP Plan of Action	12946
-NICI Plan	12896
+NICI Plan	12896,3965,23
+NICI Plan. B7	16861
 NIGCOMSAT The Nigerian National Broadband Plan	11857
 NIMC Nigerian National Broadband Plan	11857
 NPS Strategic Plan	3320
@@ -1257,6 +1475,10 @@ NRB’s Strategic Plan	13005
 NRB’s Strategic Plan. Bringing Registration Services	13095
 NRI The Nigerian National Broadband Plan	11857
 NSA Strategic Plan	1188
+NSDS Action Plan. Monitoring	16927
+NSDS III Action Plan	16927
+NSDS III Action Plan. The NSDS	16927
+NSPIP National Social Protection Implementation Plan	16952
 NTP National Transformation Plan	14929
 NT’s Strategic Plan	12321
 NamRA Strategic Plan	13108
@@ -1271,18 +1493,19 @@ National AI Implementation Plan	8363
 National AI Plan	1912
 National AI Policy and Implementation Plan	4583
 National AI Strategic Implementation Plan	11230
-National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193
+National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7
 National Action Plan Programme Development and Reviews	12642
 National Action Plan for Children	3583
 National Action Plan for Gender and Energy Access	15983
-National Action Plan for Health Security	10776,641,1312,434,3
+National Action Plan for Health Security	10776,641,1312,434,3,4091,108
 National Action Plan for Health Security NCD	12729
 National Action Plan for Health Security NDP	10776
 National Action Plan for Health Security PNDS	10776
+National Action Plan for Patient Safety	17289
 National Action Plan for Rare Diseases	10188
 National Action Plan for Youth Employment	10963,1
 National Action Plan for Youth PBC Employment	10964
-National Adaptation Plan	1867,4672,5050,311,65,241,1607,1848,322
+National Adaptation Plan	1867,4672,5050,311,65,241,1607,1848,322,966,190,118,112,89
 National Adaptation Plan for Agriculture	14818
 National Adaptation Plan for Climate Change	10963,1
 National Adaptation Plan for Zambia	1867
@@ -1293,7 +1516,7 @@ National Biodiversity Strategy and Action Plan	13060
 National Border Management Plan	15976
 National Broadband Infrastructure Plan for Next Generation	11529
 National Broadband Master Plan Fiji	11529
-National Broadband Plan	2871,2374,1463,579,2785,85,1372,328,95,1343,1428
+National Broadband Plan	2871,2374,1463,579,2785,85,1372,328,95,1343,1428,2252
 National Broadband Plan Committee	11857
 National Broadband Plan Presentation	11857
 National Broadband Plan Uruguay	11529
@@ -1303,19 +1526,22 @@ National Broadband Plan. The Honourable Minister	11857
 National CNI Protection Plan	14674
 National CRVS Strategic Plan	12413,2643
 National Cancer Control Plan	12606
+National Child Protection Strategy and Action Plan	17228
 National Citizenship and Tax Education Plan	10762
 National Communications and Addressing Plan	12149
-National Contingency Plan	10763,617,1969
+National Contingency Plan	10763,617,1969,3525
 National Crisis Management Plan	14729
 National Cyber Incident Response Plan	318
 National Cybersecurity Plan	1000
 National Cybersecurity Plan. Public-private	1000
 National Cybersecurity Strategy Formulation and Action Plan	1000
-National Cybersecurity Strategy and Action Plan	1000
+National Cybersecurity Strategy and Action Plan	1000,16028
+National Cybersecurity Strategy and Action Plan D	17070
 National Cybersecurity Strategy and Awareness Raising Plan	5780,7202
 National Data and Cloud Policy Implementation Plan	11230
-National Development Plan	396,190,372,197,424,137,9,27,76,39,98,152,174,120,669,357,38,129,86,1126,428,24,177,4,84,44,616,10,184,62,215,101,4,12,51,70,207,132,138,47,359,195,109,1202,417,258,89,102,202,404,5,8,3,2,75,134,16,182,5,2,1,22,6,6,18,17,7,17,77,159,4,7,50,304,17,79,341,29,11,9,23,32,22,88,5,18,2,14,4,13,1,2,4,2,3,3,8,3,313,26,6,5,2,7,206,124,2,4,13,1,13,3,1,491,25,3,27,25,123,82,749,5,50,5,31,588,106,2,149,334,32,260
+National Development Plan	396,190,372,197,424,137,9,27,76,39,98,152,174,120,669,357,38,129,86,1126,428,24,177,4,84,44,616,10,184,62,215,101,4,12,51,70,207,132,138,47,359,195,109,1202,417,258,89,102,202,404,5,8,3,2,75,134,16,182,5,2,1,22,6,6,18,17,7,17,77,159,4,7,50,304,17,79,341,29,11,9,23,32,22,88,5,18,2,14,4,13,1,2,4,2,3,3,8,3,313,26,6,5,2,7,206,124,2,4,13,1,13,3,1,491,25,3,27,25,123,82,749,5,50,5,31,588,106,2,149,334,32,260,436,2,9,1,1,30,8,1,3,2,13,9,1,16,2,26,41
 National Development Plan CMM Cybersecurity Maturity	1000
+National Development Plan Despite	16863
 National Development Plan Framework of Zambia	12376
 National Development Plan IV	6311,3898
 National Development Plan IV and Uganda's Vision	4217
@@ -1323,8 +1549,10 @@ National Development Plan IV and Vision	4217
 National Development Plan NDS National Development	12962
 National Development Plan NEPC New Era	12973
 National Development Plan NFS National Financial	13346
+National Development Plan NGBV	16951
 National Development Plan NIDS	10776
 National Development Plan NPC National Planning	11224
+National Development Plan NRI Network Readiness	16885
 National Development Plan NSDP	6832
 National Development Plan National Electronic Government	12453
 National Development Plan Ngubane-Mokiwa	6832
@@ -1340,10 +1568,10 @@ National Development Plan. Recommendations	1809
 National Development Plan. The Salary Review	12972
 National Development Strategy and National Development Plan	12962
 National Development Vision Plan	5883
-National Digital Addressing Plan	3751
+National Digital Addressing Plan	3751,13164
 National Digital Broadband Plan	11857
 National Digital Development Plan	3228
-National Digital Economy Master Plan	1359
+National Digital Economy Master Plan	1359,15971
 National Digital Government Plan	12562
 National Digital Health Strategic Plan RDPH	16041
 National Digital Master Plan	6974,574,4662
@@ -1354,6 +1582,7 @@ National Digital Skills Action Plan	3372,1
 National Disability Plan of Action	12950,27
 National Disability Plan of Action. The National	13219
 National Disaster Recovery and Business Continuity Plan	1000
+National Drought Management Strategy and Action Plan	17157
 National Drug Control Master Plan	14742,39
 National Durable Solutions Action Plan	15224
 National E-Government Plan	13463
@@ -1372,27 +1601,34 @@ National Electronic Government Plan	2291,10124,38,892
 National Electronic Government Plan Undertake	12453
 National Electronic Government Plan. Patrick K	12453,892
 National Emergency Telecommunications Plan	3604,2564,6814,9,1,1202,926
+National Employment Action Plan	16861
 National Energy Efficiency Plan of Côte	3604
 National Evaluation Plan	13060
 National Evaluation Plan. Government	13060
 National Five-Year Development Plan	1388
 National Frequency Allocation Plan	762
+National Frequency Plan	16839
+National Gender Plan NSGA	16951
 National Global Architecture Plan for Interoperability	10775
 National Governance Action Plan	16202
 National Growth and Development Plan	4240,2881
 National HIV Action Plan	14742
-National Health Development Plan	897,2707,7172,4,49,588,219,4323
+National Health Development Plan	897,2707,7172,4,49,588,219,4323,999
 National Health Development Plan NPV Net	10829
 National Health Development Plan PRSEAH	10776
 National Health Information System Strategic Plan	15556
 National Health Information Systems Development Plan	14666
+National Health Investment Plan	16971
 National Health Laboratory Strategic Plan	11417
 National Health Plan	15411
 National Health Plan Khartoum	8613
+National Health Plan and Policy	16971
+National Health Policy and Plan	16971
 National Health Sector Development Plan	10776
-National Health Sector Strategic Plan	12729,193,54,187
-National Health Strategic Plan	1867
+National Health Sector Strategic Plan	12729,193,54,187,3759,49
+National Health Strategic Plan	1867,15104
 National Health Workforce Search and Strategy Plan	16591
+National Health and Social Welfare Plan	16971
 National Human Resources Plan	12934
 National ICT Development Plan	13313
 National ICT Development Plan II	13313
@@ -1400,26 +1636,38 @@ National ICT Infrastructure Master Plan	2867
 National ICT Plan	11529
 National ICT Plan Kyrgyzstan	11529
 National ICT Strategic Plan	14723
-National Implementation Plan	14774
+National ICT Strategy and Plan NICI	16872
+National Immunization Strategic Plan NITAG National	17289
+National Implementation Plan	14774,2593
 National Incident Response Plan	10689
 National Indicative Plan	12333
 National Information System Master Plan	15411
+National Infrastructure Master Plan Legislature	17260
 National Integrated Resource Plan	12399,756
 National Integrated Water Resources Management Plan	14745,3
 National Investment Plan	14830
+National Laboratory Strategic Plan	17365
 National Land Use and Development Master Plan	888
 National Land-Use and Development Master Plan	14947
 National Malaria Elimination Strategic Plan	9969
 National Malaria Strategic Plan. IV. Polio	4260
 National Multisectoral Action Plan for One Health	11417
+National Multisectoral Plan	16958
 National NGA Plan Grenada Yes Information	11529
+National Numbering Plan	16835,4,95
+National Numbering Plan Rules	16839
 National ODL Action Plan	11757
 National Oil Spill Contingency Plan	14748
+National Operational Plan	17289
 National Optical Fibre Network Plan Indonesia	11529
 National PHEOC Strategic Plan	16591
 National Physical Development Plan	13060
-National Plan	12214,2452
-National Plan for Economic and Social Development	10812,4809
+National Physical Perspective Plan	16916
+National Plan	12214,2452,2792
+National Plan for Economic	16958
+National Plan for Economic and Social Development	10812,4809,1321
+National Plan for Education for All	16942
+National Plan for Frequency Assignment	16839
 National Plan for Gender Equality	11855,4128
 National Plan for Global Architecture for Interoperability	10775
 National Plan for Literacy	15604
@@ -1430,11 +1678,13 @@ National Plan for Peacebuilding and Consolidation	15661
 National Plan for Recovery and Peacebuilding	969
 National Plan for Social Care	11855
 National Plan for Social Care Services	11855
-National Plan of Action	8050,4927,493
+National Plan of Action	8050,4927,493,3480
 National Plan of Action for Children	12977
+National Plan of Action for Human and Drug Trafficking	16951
 National Plan of Global Architecture	10765,10
 National Police Service Strategic Plan	14505
 National Policy and National Plan	12916
+National Public Sector Investment Plan	17289
 National Radio Frequency Plan	7827,23,239,84,62,606
 National Recovery and Peace Consolidation Plan	15658
 National Recovery and Peacebuilding Plan	15702,29,27
@@ -1442,17 +1692,22 @@ National Seed Policy and Action Plan	14818
 National Skills Development Master Plan	12956
 National Skills Development Plan	6832
 National Skills Development Plan NSDS III	6832
+National Social Protection Implementation Plan	16952
 National Social Protection Policy and Strategic Plan	14149,1
 National Social Protection Strategic Plan	12977,1054
 National Solutions Pathways Action Plan	15073
+National Spectrum Allocation Plan	16839
 National Spectrum Management Plan	13888
 National Standardisation Strategy and Plan	13034
+National Statistical Action Plan	16927
 National Statistical System Strategic Plan	13005
+National Statistics Action Plan	16927
 National Strategic Development Plan	1200,10700,757,2,1,14,27,58,1907
 National Strategic Development Plan II	5274,1349,2077,3974,41,36
 National Strategic Development Plan II OP	12759
 National Strategic Development Plan II and National	12761
-National Strategic Plan	1596,3937,5247,1080,126,516,454,652,403,138,1,1323
+National Strategic Plan	1596,3937,5247,1080,126,516,454,652,403,138,1,1323,1498
+National Strategic Plan NWC	16951
 National Strategic Plan for Community Engagement	15758
 National Strategic Plan for HIV	10776
 National Strategic Plan for Health System Recovery	8613
@@ -1472,6 +1727,7 @@ National Transport Plan	14576
 National Violence Against Children Action Plan	12977
 National Water Action Plan	8599
 National Wireless Broadband Plan Malaysia	11529
+National Youth Policy and Action Plan	17114
 National de Développement Sanitaire PNDIS Plan National	13306
 Natural Gas Master Plan. Current	12206
 Neighbourhood Care Point Strategic Plan	12977
@@ -1479,6 +1735,7 @@ Network Design and Rollout Implementation Plan	7368
 Nigeria Action Plan	11866,442
 Nigeria Action Plan Review	11866
 Nigeria National Broadband Plan	3456
+Nigeria National Broadband Plan 2013-2018.pdf OFCOM	16872
 Nigeria OGP Action Plan	11866
 Nigeria Unveils Plan for Unified Digital Services	2529
 Nigeria's National Broadband Plan	2285,2181
@@ -1487,10 +1744,11 @@ Nigerian National Broadband Plan	11857
 Nigeria’s Digital Economy Policy and Strategy Plan	11857
 Nigeria’s National Broadband Plan	2284
 Ninth National Development Plan	10510
+Niveles de Referencia de Forestal PANA Plan de Acción	16875
 Non-hazardous Waste Management Plan Activity	1988
 Noviembre. Plan Nacional de Numeración Telefónica	9543
 Nuclear Industrialisation Plan	11272
-Numbering Plan	11
+Numbering Plan	11,16923
 Numbering Plan Fourth Amendment Regulat	4732
 Numbering Plan Fourth Amendment Regulations	4732
 Numbering Plan Mgmt ECOWAS Engl	16594
@@ -1510,23 +1768,30 @@ OPERATONAL PLAN FOR STRATEGY	12939
 ORIENTATIONS STRATEGIQUES Le Plan Stratégique National	16195
 Objectifs du Plan de Gestion	14424
 Objective Strategic Plan for Sustainable Development	11855
-Occupational Health and Safety Plan	13185
+Objectives The Plan	16934
+Occupational Health and Safety Plan	13185,3929
 Office of National Identification PNDES National Plan	10812
 Official Use Only PROCUREMENT PLAN	13017
 Omnibus Incentive Plan	7198
 Ontario Power Generation Pension Plan	9098,46
+Open Data Action Plan	16939
+Open Data Strategy Implementation Plan	16939
+Open Data Strategy and Action Plan	16939
 Open Government Partnership Action Plan	12176
-Operational Plan	11218
+Operating Plan	16839
+Operational Plan	11218,5752,1,264
 Operational Plan APP Annual Performance Plan	11218
 Operational Plan PAPU	12759
+Operational Work Plan	16970
 Optimisation du Plan GE84	998
 Optimized Cost Generation and Transmission Development Plan	14957
 Opérationnaliser le Plan	15738
 Organisation du Ministère du Plan	16616
 Organisation du Ministère du Plan. Page	16616
 Organization PANA National Adaptation Action Plan	13729
-Original Procurement Plan	13017,2787,348
+Original Procurement Plan	13017,2787,348,1028,39
 OsJEcnFs DU PLAN	14479
+Ouagadougou Plan of Action	16874
 Overview At-a-Glance Action Plan	11873
 Overview and Action Plan	12227
 Overview of Strategic Plan	13005
@@ -1537,6 +1802,7 @@ P169413 Plan de Gestion des Déchets	14423
 PA-SD Plan	15961
 PADCI Plan de Mobilisation des Parties Prenantes	15746
 PANSS Plan	15724
+PAP Program Action Plan PbC Performance-based	17458
 PC4IR Strategic Implementation Plan	11230
 PC4IR Strategic Implementation Plan. Programme	11230
 PCD Performance-Based Condition PDO Plan Communal	10964
@@ -1585,6 +1851,7 @@ PLAN D’ACTIONS DU POSAF	10712
 PLAN D’ACTIONS Objectifs Actions	15583
 PLAN FOR CHANGE	2477
 PLAN III	13982
+PLAN IMPLEMENTATION Phase	16861
 PLAN International	1679
 PLAN NATIONAL	16195
 PLAN NATIONAL D'ÉLECTRIFICATION RURALE	16683
@@ -1604,6 +1871,7 @@ PLAN STRATEGIQUE DU SYSTEME	16195
 PLAN STRATEGIQUE NATIONAL DE SANTE NUMERIQUE	16041,154
 PLAN STRATÉGIQUE DE LA SANTÉ NUMÉRIQUE	15720
 PLAN TARGET	12453
+PLAN THE WSIS PLAN OF ACTION	16861
 PLAN Vu la Loi Fondamentale	16616
 PME Plan National de Développement Sanitaire PND	15583
 PMP Pest Management Plan POC's Persons	1988
@@ -1623,21 +1891,23 @@ POLICE OFFICERS The Strategic Plan	14760
 POLICY IMPLEMENTATION PLAN Policy Component	12419
 POLICY MONITORING AND IMPLEMENTATION PLAN	14947
 POLICY REVI EW AND SUSTAINABILITY PLAN	11860
+POLICY THE FRAMEWORK THE PLAN	16861
 POSAF DGI PLAN D'ORIENTATION STRATÉGIQUE	10712
 POSAF PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
 POSAF POSAF PLAN D'ORIENTATION STRATÉGIQUE	10712
 POSAF. PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
 PP Nine Point Plan NT National	11193
 PP Procurement Plan PPF Project Preparation	15659
-PPSD and Procurement Plan	3604,7921
+PPSD and Procurement Plan	3604,7921,5424
 PPSD. The Procurement Plan	6539
 PREAMBULE PLAN STRATEGIQUE NATIONAL DE SANTE	16195
 PROCUREMENT ACTION PLAN	16384
 PROCUREMENT PLAN	1818,12120
 PROCUREMENT PLAN Procurem	13938
 PROCUREMENT PLAN REPORTING	11238
+PROCUREMENT PLAN Works	17180
 PRODIGY. Le Plan	14424
-PROGRAM ACTION PLAN	11905,4127
+PROGRAM ACTION PLAN	11905,4127,1426
 PROGRAM ACTION PLAN PAP CHANGE TBL Action Description	16032
 PROJECT FINANCING PLAN IN UA Financing	15758
 PROJECT IMPLEMENTATION PLAN	11209
@@ -1654,10 +1924,13 @@ PVHES Strategic Plan	13060
 Page The Strategic Plan	13504
 Panama Yes Plan Nacional de Banda Ancha	11529
 Paraguay Yes Plan Nacional de Telcomunicaciones	11529
+Paris Alignment PACTE-ESRI National Plan	17458
 Paris. Plan	15493
+Part III. Dialing Plan	16934
 Part of The Plan	12977
 Partnership Education Sector Plan for Egypt Education	15604
-Performance Plan	11986
+Partnership and Communication Action Plan SP Org	17101
+Performance Plan	11986,5472
 Peru Yes Plan Nacional	11529
 Pest Management Plan	15601
 Phased Implementation Action Plan	3678
@@ -1669,6 +1942,7 @@ Plan Approved	11180
 Plan CHAPTER	15796
 Plan Cadre	14904
 Plan Cameroun	15730,438
+Plan Clima	16875
 Plan Communal de Développement	10963,1
 Plan Comores	1996,964,812,6513,3451,15,17,30
 Plan Comores Emergent	1996,11721
@@ -1676,6 +1950,7 @@ Plan Comptable	10975
 Plan Comptable National	13301
 Plan Comptable des Opérations Publiques	14431
 Plan Conduct	12453
+Plan Contable	17282
 Plan D4TEP Country Partnership Framework	3604
 Plan DHA GBVF Plan DHA GBVF	11986
 Plan Diomaye	4899,308
@@ -1699,6 +1974,7 @@ Plan E-Finances Publiques	3064
 Plan E-Finances Publiques RCA	3064
 Plan EHCVM Harmonized Household Living Standards	16384
 Plan ESF Environmental and Social Framework	1264,14254
+Plan ESIA Environmental and Social Impact	16896,203
 Plan ESIA Environmental and Social Impact Assessment	11549
 Plan ESRS Environmental and Social Framework	10964
 Plan EUR	15661
@@ -1711,12 +1987,14 @@ Plan Estadístico Nacional	1701
 Plan Estratégico	975,3234
 Plan Estratégico Común	975
 Plan Estratégico Nacional de Nutrição	11525
+Plan Estratégico de Desarrollo Sostenible	16893,5,423
 Plan Européen	643
 Plan FGS Federal Government of Somalia FMS	14896
 Plan FSP Environmental and Social Management Framework	13331
 Plan Final IRIMP Report	14079
 Plan Foncier National	16420,6
 Plan Framework SCD Systematic Country Diagnostic	15511
+Plan G2B-ESP Getting	16876
 Plan GRN Government	12399
 Plan Gouvernance	3381
 Plan Horizonte	1701
@@ -1726,7 +2004,8 @@ Plan III ICT Information Communication Technology	12240
 Plan IPPF Infrastructure Project Preparation Facility	15372
 Plan IRR Internal Rate of Return LOLF	969
 Plan IS Information Security IT Information	13420
-Plan International	1160,11067,3020,1137
+Plan Implementation Rationale	16884
+Plan International	1160,11067,3020,1137,586,395
 Plan International Bénin ESU OLA OTAN	10821
 Plan International Bénin Traitement	10821
 Plan International Cameroon	9916,1
@@ -1739,6 +2018,7 @@ Plan Local	14624
 Plan M&E Monitoring and Evaluation Mbps Megabits	15621
 Plan Maestro	1701
 Plan Maestro de Desarrollo de Servicio Postal	1701
+Plan Maestro de Informatización	16930
 Plan Malawi	12291
 Plan Marketing	15596
 Plan Maroc Numeric	168
@@ -1746,8 +2026,10 @@ Plan Marshall	15478
 Plan Ministère	13300
 Plan Moldova Yes Digital Moldova	11529
 Plan NBS National Bureau of Statistics NCC	11857
+Plan NDC Nationally Determined Contribution NDM	17458
 Plan NDT National Department of Tourism NGI	11261
 Plan NEET Youth	12923
+Plan NGO Nongovernmental	16952
 Plan NICI	11529
 Plan NPS National Payment System NPS	13076
 Plan NPS National Payment System PDO	13836
@@ -1757,15 +2039,22 @@ Plan NSFAS National Student Financial Aid	11192
 Plan Na	15479
 Plan Nacional Anual	1701
 Plan Nacional TIC Hong Kong	11529
+Plan Nacional de Asignación de Nombres de Domi	16855
 Plan Nacional de Cajeros Automáticos	2927
-Plan Nacional de Desarrollo	7703,1
-Plan Nacional de Desarrollo Económico	1701
+Plan Nacional de Desarrollo	7703,1,9194
+Plan Nacional de Desarrollo Económico	1701,15158,9,25
+Plan Nacional de Desarrollo Guinea Ecuatorial	17349
 Plan Nacional de Desarrollo Sanitario	4209
 Plan Nacional de Desarrollo Sanitario PNP	1701
+Plan Nacional de Desarrollo Sostenible	16898
 Plan Nacional de Desarrollo de Guinea Ecuatorial	9302
+Plan Nacional de Inversiones REDD	16875
+Plan Nacional de Inversión REDD	16875
+Plan Nacional de Nombres de Dominio de Internet	16855
 Plan Nacional de Operacionalización	4209
+Plan Nacional de Prevención	17282
 Plan Nacional de Telecomunicaciones	11529
-Plan National	737,4624,5146,1416,1391,11,16,92,9,309,1723,462,65,194,426,20,42
+Plan National	737,4624,5146,1416,1391,11,16,92,9,309,1723,462,65,194,426,20,42,775
 Plan National Encourage	1885
 Plan National Foncier	10876
 Plan National Pilier V	13433
@@ -1809,7 +2098,9 @@ Plan OAP Old Age Pensions OTP	12663
 Plan Observe	11905
 Plan Opérationnel de Renforcement du SNIGS	15475
 Plan PPP Public-Private Partnership PPSD Project	13331
+Plan PURA Public Utilities Regulatory Authority	16886
 Plan Pakistan Yes National Broadband Policy	11529
+Plan Piloto	16945
 Plan Policy Analysis and Coordination Public Key	12453
 Plan Portugal Yes Agenda Portugal Digital	11529
 Plan Preparation Process	15796
@@ -1817,6 +2108,7 @@ Plan Prévisionnel de Passation des Marchés	1993
 Plan Purpose	11986
 Plan Q2	1777
 Plan QPEC Question Paper Evaluation Committee	12975
+Plan Quinquenal General	16893
 Plan Quinquennal	16627
 Plan RELANCE	10125
 Plan RIs Research Institutions RISDP Regional	13295
@@ -1826,6 +2118,7 @@ Plan Regional Integration Assistance Strategy RAP	15424
 Plan Remediation	11153
 Plan Resilience	10721
 Plan Resilience Management	10721
+Plan Responsibility	16943
 Plan SDP Spatial Development Planning SETA	11261
 Plan SMS Short Message Service SOC	15518
 Plan SN	15621
@@ -1861,24 +2154,39 @@ Plan Sénégal	2400
 Plan Sénégal Numérique	16641
 Plan TIC Benin	11529
 Plan Tecnológico	4209
+Plan The Judicial Strategic Plan	16943
 Plan Tier	10721
 Plan Triennal	10964
 Plan Triennal Spécial Territorial	10985
 Plan UNHCR United Nations High Commissioner	11218
+Plan URL	17474
 Plan VBG	16012
 Plan VUP Vision Umurenge Programme	14942
 Plan X	16195
 Plan Ye'low SMS	15471
+Plan and Budget API Application Programming Interface	16949
 Plan and Build	12358
 Plan and Governance	11131
 Plan and Governance Financial Technology Development	11131
 Plan and Make Decisions	12551
-Plan de Acción	9302
+Plan and Spectrum Regulations	16839
+Plan de Acción	9302,7596,27,483
+Plan de Acción Anual	17259
+Plan de Acción Bienal	16898
+Plan de Acción Estratégico	17373
+Plan de Acción Nacional de Adaptación	16875
+Plan de Acción de Busan2	16898
+Plan de Acción de Marrakech	16898
+Plan de Acción de Reducción de Riesgos Catastróficos	16875
+Plan de Busan	16898
 Plan de Cohérence	14537
 Plan de Communication Stratégique Produire	16646
+Plan de Continuidad de Actividades	17342
 Plan de Continuité	10906,3631
 Plan de Continuité des Activités	13341
+Plan de Convergencia	16875
 Plan de Desarrollo	4209
+Plan de Desarrollo Nacional	16898
 Plan de Developpement du Secteur Sante	14442
 Plan de Developpement du Secteur Sante PEV	14442
 Plan de Décentralisation	10712
@@ -1894,6 +2202,7 @@ Plan de Gestion des Pestes	16012
 Plan de Gestion des Risques Sécuritaires	15746
 Plan de Gestion du Changement Un	16646
 Plan de Localisation Postal	10983
+Plan de Mejora	17282
 Plan de Mise	643
 Plan de Mobilisation des Parties Prenantes	14425,63,1,1,1256
 Plan de Mobilisation des Parties Prenantes PV	14488,1,1
@@ -1914,6 +2223,7 @@ Plan de Renforcement des Capacités	16417
 Plan de Renforcement des Capacités. Ce	16417
 Plan de Riposte	15965
 Plan de Réponse	16296
+Plan de Seguro Médico Universal URL	17051
 Plan de Soutien Eco-	2342
 Plan de Suivi	748
 Plan de Suivi Evaluation	15712
@@ -1926,7 +2236,9 @@ Plan de Travail Annuel Budgétisé PTF	15423
 Plan de Travail Annuel Nombre	15999
 Plan de Travail Annuel PTF	10874
 Plan de Trésorerie	4420,11149
+Plan for Action PFI	16951
 Plan for Agricultural Transformation	14997
+Plan for DRMS	17011
 Plan for Egypt	15604
 Plan for Egypt Education Sector Plan for Egypt	15604
 Plan for Government of Mauritius	14750
@@ -1943,38 +2255,56 @@ Plan of Action	13310,729
 Plan of Merger	7198,1741
 Plan. ANNEXURE	12453
 Plan. Among	12759
+Plan. As the Plan	16884
+Plan. Deliverables	16884
 Plan. High	12233
 Plan. Hon. Ms. WINNIE MAGAGULA	12896
 Plan. Key	14922
+Plan. Liberia	16872,103
+Plan. National Broadband Strategy	16884
+Plan. Noting	16884
 Plan. Nous	4729
+Plan. Outputs	16884
+Plan. Part	16884
 Plan. The Electronic Government Act No.41	12453,892
 Plan. The Ministry of Home Affairs	12337
 Plan. The Plan	12453,892
 Plan. Thematic	8546
 Plan. Under	12439
 Plan... Actualités Cameroun Facebook Twitter Pinterest	9916
+Platforms Governance Action Plan Objective	17018
 Please Provide Route Plan	736
 Point Plan	4972
+Policy Framework Action Plan Objective	17018
 Policy Implementation Plan and Cost	14947
 Policy Implementation Plan and Cost Pillar Policy	14947
 Policy Implementation Plan. POLICY SUMMARY	12419
 Policy and Monitoring The Education Sector Plan	13349
 Policy and NICI Plan	12896
+Policy and Plan HMIS Health Management Information	16971
 Popularize the Plan	13005
+Population Resilience Action Plan Objective	17018
 Post Covid Recovery Plan	12922
 Post-COVID Recovery Development Plan	13731
 Post-COVID19 Economic Recovery Plan	12922
+Post-Conference Action Plan	17260
 Post-secondary Education Sector Plan for Egypt Education	15604
 Potable Water Supply and Sanitation Master Plan	12922
 Poverty Reduction Strategy and Action Plan	11131,3,1841
 Power Producer IRP Integrated Resource Plan	11228
 Power Sector Action Plan	1230
 Power Sector Master Plan	15983
+Praia Action Plan	17018
+Praia Action Plan Page	17018
+Praia Action Plan for Information Integrity	17018
 Pre- Determined Change Control Plan	3651
 Pre-University Education Sector Plan	15604
 Predetermined Change Control Plan	3651
 Preliminary Project Plan	14766,314
 Premier Support Plan and Necessary Storage Review	4434
+Prepare Contactor Management Plan and Operating	17114
+Prepared Procurement Execution Plan for Q1	16970
+Preparing the Plan	16985
 Presence of Emergency Response Plan	1988
 President's Emergency Plan for AIDS Relief	7750,5175
 President's Emergency Plan for AIDS Relief PFM	12962
@@ -1982,7 +2312,7 @@ Presidents Emergency Plan for AIDS Relief	12240
 President’s Emergency Plan for AIDS Relief	7187,3415
 Prevention Strategy NDP National Development Plan	11188
 Prevention and Response Action Plan	13111
-Primer Plan Quinquenal	1701
+Primer Plan Quinquenal	1701,15620
 Primer Plan de Desarrollo	1701
 Principle Plan for Heads of Departments	11193
 Priority Plan	2781
@@ -1992,7 +2322,7 @@ Procurement Action Plan Action	15411
 Procurement Framework Plan	10964
 Procurement Integrity and Transparency Action Plan	11469
 Procurement Integrity and Transparency Action Plan S	11469
-Procurement Plan	1867,1122,615,1535,1400,4229,61,135,561,330,8,42,1015,97,168,146,217,390,1434,39,107,35,48,57,1,145,348,42
+Procurement Plan	1867,1122,615,1535,1400,4229,61,135,561,330,8,42,1015,97,168,146,217,390,1434,39,107,35,48,57,1,145,348,42,702,26,48,210,39
 Procurement Plan. Based	10829
 Procurement Plan. Such	11525
 Procurement Plan. The PPSD	1284
@@ -2002,15 +2332,21 @@ Procurement Risk Assessment and Mitigation Action Plan	10768
 Procurement Strategy for Development PSGE Strategic Plan	15518
 Procurement and Environmental and Social Action Plan	13332
 Procurement. Procurement Plan	11525
-Program Action Plan	11905,271,882,2974
-Program Action Plan Action Description Appointment	10870
+Produce the Integrated Drought Management Plan	17157
+Program Action Plan	11905,271,882,2974,1426
+Program Action Plan Action Description Appointment	10870,6635
+Program Action Plan Action Description Maintain	17470
 Program Action Plan Yes Development Objective	16032
 Program Action Plan and IPF	11905
+Project Compliance Plan	17114
+Project Compliance Plan ESS	17114
 Project Implementation Manual PP Procurement Plan	10768
 Project Implementation Manual Plan National de Développement	15553
 Project Implementation Plan	15372
+Project Investment Plan	16944
 Project Launch of NRB Strategic Plan and CRVS	13080
 Project PCE Emerging Comoros Plan PCN	13731
+Project PLAN General Information Country	17180
 Project Plan	11252,1933
 Project’s PDO and CAR’s Education Sector Plan	16436
 Projet PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
@@ -2025,9 +2361,13 @@ Public Finance Reform Strategic Plan	11906
 Public Key Infrastructure PND Plan National	13312,2
 Public Private Azhari Education Sector Plan	15604
 Public Private Education Sector Plan for Egypt	15604
+Public Sector Investment Plan	16943,27
+Publicize Drought Management Plan	17157
+Purpose and Timing of Stakeholder Engagement Plan	16926
 Qatar Yes Qatar National Broadband Plan	11529
 QlImff MJF PLAN DE REDRESSEMENT	14479
 Quality Plan	14736,70
+R&D Strategic Plan	16852
 RAISING PLAN GBV	1988
 RAP Resettlement Action Plan RCV Republic	11863
 RAP Resettlement Action Plan REDISSE Regional	11380
@@ -2035,6 +2375,7 @@ RAP Resettlement Action Plan RPF Resettlement	1988,13523
 RCPCA National Recovery and Peacebuilding Plan	15731
 RCPCA Plan	15474
 RCPCA The National Plan for Recovery and Peace	969
+REALISE Crisis Response Plan	17311
 RECOMMANDE Au Ministère du Plan	16620
 REG Strategic Plan	12358
 REG's Strategic Plan	15049
@@ -2043,6 +2384,7 @@ REGIDESO. Le Plan	13433
 RELANCE Plan	6707
 RENU- Plan	15164
 RESET Strategic Plan	7722
+RESETTLEMENT PLAN	17114
 RESULTS MONITORING PLAN	13938
 RESULTS MONITORING PLAN A. Alignment	13938
 REVISED IMPLEMENTATION ARRANGEMENTS AND SUPPORT PLAN	1284
@@ -2051,22 +2393,26 @@ RRA Strategic Plan	14985
 RSAP Rural Safety Activation Plan RSP	11188
 RSB Strategic Plan	15127
 RURA Procurement Plan	718
+Rabat Plan of Action	17017
 Radio Frequency Spectrum Assignment Plan	7828
 Rampe Plan	15555
+Rate CIP Costed Implementation Plan CEB	16950
 Recommendations and Action Plan	5677
 Records of E-waste Management Plan	1988
+Recovery Focused National Development Plan	16924,20,7,154,123
 Recovery Plan	10721
 Recovery Plan DAC Departmental Advisory Committee	11986
 Recovery Plan ERP Enterprise Resource Planning	13420
 Recovery Plan Service Providers	10721
 Recovery and Peace Consolidation Plan	15731
-Recovery-Focused National Development Plan	9727,111
+Recovery-Focused National Development Plan	9727,111,7089,46,132,19,123
 Recovery-focused National Development Plan	1714
 Recovery-focused National Development Plan. Stakeholders	1714
 Ref. Channel Plan	5245
 Reform Plan Percentage of Risk Within Risk	13053
 Region Action Plan For Reviews and Life	8999
 Regional Development Plan	8645
+Regional Implementation Plan	17287
 Regional Indicative Strategic Development Plan	9708,461,152,2319,278,24,20,2,69,622,849
 Regional Indicative Strategic Development Plan ROC	12962
 Regional Indicative Strategic Plan	13359
@@ -2075,6 +2421,7 @@ Regional Infrastructure Development Plan	13655
 Regional Meteorology Strategy and Action Plan	12942
 Regional Postal Master Plan	10509
 Regional Work Plan	5579
+Regulatory Response and Sector Development Plan Blidi	17070
 Renewable Energy Strategic Plan	14745
 Renewed Hope Development Plan	10157
 Reorganization Plan	12389
@@ -2082,28 +2429,33 @@ Report PEDS Cabo Verde’s Strategic Plan	11863
 Reporting Action Plan the GBV Action Plan	1988
 Reports Education Sector Plan for Egypt Education	15604
 Représentants Ministère du Plan	13290
-Resettlement Action Plan	1988,9875,2075,1573,191,952
+Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218
 Resettlement Action Plan ARCEP Regulatory Authority	15511
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Management Plan	15372
-Resettlement Plan	14576,1085
+Resettlement Plan	14576,1085,1453
 Resettlement Plan Framework	15372,139
 Resettlement and Compensation Plan	15424
 Residential Plan	5874
 Residue Monitoring Plan	11210
 Resilience Plan	1828
 Resilience Strategy and Action Plan	6539
+Resource Cost for Strategic Plan	16943
 Resource Plan	14674
 Resource Plan Nored Northern Regional Electricity	12399
 Response Plan	13938
 Response Plan Published	15115,1
+Responsibility National Numbering Plan Management	16839
 Ressetlement Action Plan	10829
 Review of Nigeria Broadband Plan	11857
-Review of Strategic Plan	13005
+Review of Strategic Plan	13005,3938
 Revised Annual Performance Plan	11986
-Revised Plan Date	13017,2787,348
+Revised Plan Date	13017,2787,348,1028,39
+Revised and Enhanced Climate Action Plan	17140
 Rights Action Plan	13097
 Riparian Communities Participation Plan	13938
+Risk Management Plan	16943
+Risk Management Plan Strategic	16943
 Risk Management and Disaster Recovery Plan Risk	13420
 Risk Management and Disaster Recovery Plan Twelve	13420
 Road Safety Master Plan	12275
@@ -2129,6 +2481,7 @@ SADC's Regional Infrastructure Development Master Plan	10324
 SAPO Business Rescue Plan	11230
 SAPO Business Rescue Plan and SITA Repurposing	11230
 SAPO Business Rescue Plan. The Department	11230
+SDGs. NSDS III Action Plan	16927
 SECRETARIAT TECHNIQUE PERMANENT DU PLAN SECTORIEL	2966
 SECTOR DIGITAL STRATEGIC PLAN	14921
 SECTOR DIGITAL STRATEGIC PLAN All	14921
@@ -2145,28 +2498,34 @@ SEP Stakeholder Engagement Plan State’s Integrated	11417
 SEP Stakeholders Engagement Plan SIGFE Integrated	11380
 SETIC-PIU PIM Implementation Support Plan	13331
 SFMIS Implementation Roadmap and Rollout Plan	15090
-SH Action Plan	10964,3589,585,520,1
+SH Action Plan	10964,3589,585,520,1,1237,26,192
 SH Action Plan Discrimination	1988
 SH Action Plan Implementation	1988
 SH Action Plan and Accountability Framework	16144
-SH Prevention and Response Action Plan	14912
+SH Prevention and Response Action Plan	14912,2014,173
+SIP Sector Investment Plan UPU Universal	16915
 SIPO Strategic Indicative Plan	11986
 SMART Rwanda Master Plan	12359,2675
 SNDI HABG IX. Plan	15936
 SNEDD Mauritania’s National Strategy and Action Plan	1264
 SOCIAL MANAGEMENT PLAN	12253
+SOP1 PLAN General Information Country	17219
 SPECTRUM ROADMAP IMPLEMENTATION PLAN	5245
 SPIC Strategic Plan Implementation Committee UNDP	13005
+SPIP Social Protection Implementation Plan SR	16867
 SRTATEGIQUES DU PLAN D’ACTIONS	998
-STAKEHOLDER ENGAGEMENT PLAN	12990
+STAKEHOLDER ENGAGEMENT PLAN	12990,3936
 STAP Short Term Action Plan for Infrastructure	13295
 STRATEGIC DIRECTION This Plan	12453,892
-STRATEGIC PLAN	11261,2243,1438
+STRATEGIC PLAN	11261,2243,1438,1941
 STRATEGIC PLAN AND ANNUAL PERFORMANCE PLAN	11285
 STRATEGIC PLAN MATRIX	12973
 STRATEGIC PLAN POLICY FRAMEWORK	16033
+STRATEGIC PLAN REVIEW AND VALIDATION	16943
 STRATEGIC PLAN The Strategic Plan	11285
 SUDAN Transitional Education Plan	14958
+Safety Plan	16851
+Sahel. Praia Action Plan Page	17018
 Sante Numérique PLAN STRATEGIQUE NATIONAL	16195
 Santé Publique PLAN STRATEGIQUE NATIONAL	16195
 Santé Publique du Cameroun. Plan National de Développement	16195
@@ -2181,15 +2540,17 @@ Second Five Year Development Plan	13320
 Second Harambee Prosperity Plan	12968
 Second Nation Gender Plan of Action	12946
 Second National AMR Action Plan	13166
+Second Ten-Year Implementation Plan	17139
 Sector Infrastructure Plan	7548
 Sector Plan Communication and Digital Economy	15411
 Sector Plan for Egypt	15604
 Sector Plan for Egypt Education Sector Plan	15604
 Sector Statistics Plan	13343
-Sector Strategic Plan	899,13132,904
+Sector Strategic Plan	899,13132,904,1992
 Sector Strategic Plan III	13166
-Security Management Plan	2889,567,148,7225,135,4697
+Security Management Plan	2889,567,148,7225,135,4697,1453
 Security Management Plan and GBV	15659
+Security Plan	17114
 Security Risk Assessment and Management Plan	14976
 Security Risk Assessment and Security Management Plan	10829
 Segundo Plan Nacional de Desenvolvimento Sanitario	11525
@@ -2205,7 +2566,9 @@ Short Name Education Sector Plan Support	16436
 Short Term Action Plan II	12942
 Short-Term Action Plan	5677,7265,713
 Short-Term Generation Expansion Plan	13054
+Sierra Leone Judiciary Strategic Plan	16943
 Sierra Leone’s Medium-Term National Development Plan	1161
+Siglo XXI PDNES Plan Nacional de Desarrollo	16898
 Signature du Plan	16577
 Simplified Pesticides Management Plan	13392
 Site Development Plan	7343,1572
@@ -2236,6 +2599,8 @@ Social Management Plan ESS Environmental and Social	11549
 Social Management Plan EUR Euros FC	11863
 Social Monitoring Plan	12253
 Social PEPP Plan	10876
+Social Plan	17228
+Social Protection Implementation Plan	16867
 Social Protection Sector Strategic Plan	14942
 Social Risks Capacity Enhancement Action Plan	14910,2
 Social and Labour Plan	6683,7990
@@ -2257,12 +2622,20 @@ South Africa’s STI Decadal Plan	11221
 South Sudan's Second National Action Plan	3583
 Special Youth Emergency Plan	9616
 Spectrum Roadmap Implementation Plan	5245
-Stakeholder Engagement Plan	761,503,514,89,121,901,715,2935,126,596,3507,61,135,426,27,836,858,220,1,191,415,578,37,23,334,2,178,48,380,35,106,2
+Spending Plan	16970
+Stakeholder Engagement Plan	761,503,514,89,121,901,715,2935,126,596,3507,61,135,426,27,836,858,220,1,191,415,578,37,23,334,2,178,48,380,35,106,2,1265,23,150,15
+Stakeholder Engagement Plan Contact Preparation and Design	17099
+Stakeholder Engagement Plan Overall	16926
+Stakeholder Engagement Plan SH Sexual Harassment	16926
 Stakeholder Engagement Plan SIGED Sexual Harassment	10964
 Stakeholder Engagement Plan SSA Sub-Saharan Africa	969
 Stakeholder Engagement Plan Template for Emergency Projects	12990
+Stakeholder Engagement Plan This SEP	17099
+Stakeholder Engagement Plan URL	17099
+Stakeholder Engagement Plan World Bank ESS10	17099
 Stakeholder Engagement and Communication Plan	11131,3
 Stakeholder Engagement and Communications Plan	13295
+Stakeholder Management Plan	16943
 Stakeholder's Survey-2024 National Plan	12214
 Stakeholder's Survey-2024 Plan	12214
 Stakeholders Engagement Plan	15661
@@ -2271,8 +2644,11 @@ Standardization Annual Work Plan	12621
 Standards ESSP Education Sector Strategic Plan	13310
 State Development Plan	12135
 Statistical Master Plan	13082
+Statistical Plan	16927
 Statistician General's Review Corporate Strategic Plan	12551
+Statistics Plan	17116
 Strategic Action Plan	1000,13748
+Strategic Action Plan The Gambia National	16861
 Strategic Business Plan	12646
 Strategic Development Plan	11923,2092
 Strategic Development Plan RBZ Reserve Bank	13359
@@ -2286,24 +2662,40 @@ Strategic Investment Plan for Development	648
 Strategic Management Framework. The Strategic Plan	13532
 Strategic Mapping of Plan Outcomes	11857
 Strategic Organisation Structure Plan	6946
-Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29,186,46,70,18,73,192,22,4,28,2,35,38,15,13,124,133,112,27,28,467,12,20,698,25,6,21,79,74,51,38,14,127,309,7,31,3,4,86,429,665
+Strategic Organisational Plan OAI	17101
+Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29,186,46,70,18,73,192,22,4,28,2,35,38,15,13,124,133,112,27,28,467,12,20,698,25,6,21,79,74,51,38,14,127,309,7,31,3,4,86,429,665,160,25,1,1,11,26,21,25,5,12,153,19,78,22,38,69,34
+Strategic Plan Based	16883
 Strategic Plan Code Of Ethics NDS2	12515
 Strategic Plan Committee	1131
+Strategic Plan Communicati	16943
 Strategic Plan Development	10776,2196
 Strategic Plan Formulation	13005
 Strategic Plan Framework	14729
 Strategic Plan Goal Expenses	14058
 Strategic Plan Guinea-Bissau	11525
+Strategic Plan Human Capacity Limited	16943
 Strategic Plan IRRF	13095
+Strategic Plan Implementation	16943
 Strategic Plan Implementation Arrangements	13005
 Strategic Plan Implementation Arrangements The National	13005
 Strategic Plan Implementation Committee	13005
+Strategic Plan Implementation. Section	16943
+Strategic Plan Judiciary Procurement Procure	16943
 Strategic Plan Objectives	12955
 Strategic Plan Outcome	11224
+Strategic Plan Oversight and Coordination	16985
 Strategic Plan Polls Request Forms Benchmarking	9109
+Strategic Plan Possible	16943
+Strategic Plan Purchase	16943
+Strategic Plan Strategic Objectives Strategic Goals	17364
+Strategic Plan The Civil Service Agency	16985
+Strategic Plan The Finance Minister	17398
+Strategic Plan The General Auditing	17364
+Strategic Plan The Liberian Judiciary	16943
 Strategic Plan UPU	12759
 Strategic Plan URL	14729
 Strategic Plan VBCD Vector Biology and Control	14773
+Strategic Plan Vision Mission Overall Outcome	17364
 Strategic Plan and Business Plan	12902
 Strategic Plan and Goals	13051
 Strategic Plan for Financial Services	14748
@@ -2320,7 +2712,11 @@ Strategic Plan for Public Finance Reform	11906
 Strategic Plan for Surveillance and Animal Health	11417
 Strategic Plan for Sustainable Development	11891,3600,492
 Strategic Plan for TVET Transformation	789
+Strategic Plan. Accordingly	17235
 Strategic Plan. Clear	13005
+Strategic Plan. Key	17364
+Strategic Plan. Over	16968
+Strategic Plan. Table	16943
 Strategic Plan. Thank	14729
 Strategic Plan. The M&E	13005
 Strategic Plan. The Plan	14729
@@ -2328,6 +2724,7 @@ Strategic Plan. These KRAs	13005
 Strategic Plan. This Strategic Plan	13005
 Strategic Plan. UASF	12552
 Strategic Plan. Vital	12367
+Strategic Planning Process The Strategic Plan	16943
 Strategic Policing Plan	14781
 Strategic Quality Infrastructure Plan	13320
 Strategic Roadmap and Action Plan	4725,3699
@@ -2338,13 +2735,15 @@ Strategic and Operational Plan	11525
 Strategy Description ARCT Strategic Plan	13314
 Strategy Iceland Yes Electronic Communications Plan	11529
 Strategy National AI Plan Brazilian AI	11135
-Strategy and Action Plan	1000,3180,6077,4485
+Strategy Plan	17257
+Strategy and Action Plan	1000,3180,6077,4485,2197
 Strategy and Action Plan PSHACC Public Sector	12962
 Strategy and Action Plan for Grenada	11529
 Strategy and Action Plan. Bottom-up Research Methodology	4126
 Strategy and Implementation Plan	1257,557,6750
 Strateški Plan Nacionalnog ZIS-a	10780
 Strengthening Project SEP Stakeholder Engagement Plan	10829
+Submission of Annual Cash Plan	16944
 Submission of Rollout Plan	15081
 Submission of Rollout Plan Article	15081
 Submit the Resettlement Plan	12195
@@ -2355,8 +2754,12 @@ Sudan's Transitional Education Plan	14958,214
 Sudan’s National Strategic Development Plan	11529
 Summarized Procurement Plan	15411
 Summarizing the Plan	14781
+Summary of GBON National Contribution Plan	16947
+Summary of GBON National Contribution Plan Components	16947
+Summary of Procurement Plan URL	17180
 Support Plan LEAP Livelihood Empowerment Against	11855
 Supports the National Digital Master Plan	1201
+Supreme Court of Liberia. This Plan	16943
 Sustainability Plan	11860
 Sustainability Plan Government	11860
 Sustainable Development Plan	11536
@@ -2365,6 +2768,7 @@ Swaziland NICI Plan	12896
 Swaziland NICI Plan Process Highlights	12896
 Swaziland Policy and Plan	12896
 System Eighth National Development Plan Zambia	12453
+System Plan	16851
 System RAP Resettlement Action Plan RSU	16384
 TB Acceleration Plan	12729
 TB National Strategic Plan	10776
@@ -2377,6 +2781,7 @@ Table of Contents STAKEHOLDER ENGAGEMENT PLAN	12990
 Tax System Modernization Plan	10997
 Taxpayer Compliance Improvement Plan	13053
 TdC PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
+Team PP Procurement Plan PPD Public	17458
 Tech Nigeria Unveils Plan for Unified Digital	2529
 Technical Plan	10407
 Technologies Compute and A2- Plan	7548
@@ -2394,15 +2799,19 @@ Term Plan MTP III Third Medium	2775
 Term Plan MTP IV Fourth Medium	2775
 Term Plan MVNOs Mobile Virtual Network	2775
 Terminologie Le Plan	15591
+Thematic Trainer Pool and Deployment Plan	17287
 Theory of Change of Education Sector Plan	15604
 Third Health Sectoral Strategic Development Plan	14149,1
 Third Health Sectorial Strategic Development Plan	14031
 Three-Pillar Economic Plan	14545
+Time Bound Action Plan The National	17367
 Tinkhundla Integrated Development Plan Project G653	12970
 Togo’s National Development Plan	5956
 Tonga Yes National Infrastructure Investment Plan	11529
 Tourism Growth Partnership Plan	6867,1
+Tourism Master Plan	16996
 Town Global Action Plan for Sustainable Data	13359
+Traffic Management Plan	17114
 Training Plan	11252
 Training Plan FY	14761
 Training Plan for Contractor Workers Type of Training	12253
@@ -2416,6 +2825,7 @@ Transmission Plan Updates	12358
 Travail PLAN DE PROTECTION DES INFRASTRUCTURES	10906
 Treasury Unveils Plan To Replace	14270
 Trillion Rand Investment Growth Plan	11250
+Tripoli Master Plan	16916
 Trust. The Nigerian National Broadband Plan	11857
 Tuberculosis NDP National Development Plan TIER	396
 Tunisia Action Plan	9022
@@ -2425,11 +2835,12 @@ U.S. President’s Emergency Plan for AIDS Relief	10641
 UASF Strategic Plan	12552
 UK FCDO National Development Plan	5172
 UL President Unveils Bold Plan	10405
+UN Humanitarian Response Plan	16902
 UN PLAN DIRECTEUR	16037
-UN Plan of Action	14073
+UN Plan of Action	14073,2945
 UN-Habitat Strategic Plan	11285
 UNCT PSEA Action Plan for Sudan	15115
-UNDP Strategic Plan	11332,1763
+UNDP Strategic Plan	11332,1763,3878
 UNFPA Strategic Plan	15039
 UNFPA and Plan International Benin	10822
 US President's Emergency Plan for AIDS Relief	16422
@@ -2443,6 +2854,9 @@ Under the GoCV Education Sector Plan	15491
 Under the Integrated Resource Plan	12609
 Under the National Broadband Plan	3725
 Under the National Development Plan	11905
+Unit DCP Drought Contingency Plan DEM	17157
+United Nations Humanitarian Response Plan for Libya	16902
+United Nations System Action Plan HLPF	17101
 United States President's Emergency Plan	12944
 United States President’s Emergency Plan for AIDS	5165
 University NDP National Development Plan NRA	12241,839,15
@@ -2453,9 +2867,11 @@ Upgrade Plan	12563
 Upper Egypt Education Sector Plan for Egypt	15604
 User Asset Immovable Plan	11986
 User Asset Management Plan	5533
+Utilization of Numbers The Plan	16934
 V. Implementation Plan	1597
 V. PLAN D’ACTION QUINQUENNAL	15580
 V. Plan	16322
+VAT Compliance Improvement Plan	16944
 VI. PLAN D'ACTIONS	15381
 VI. PLAN DE GESTION ENVIRONNEMENTALE ET	14489
 VII. PLAN D’ACTIONS DETAILLE	15624
@@ -2465,6 +2881,7 @@ VIII. PLAN DE GESTION ENVIRONNEMENTALE ET	14488,2
 Vector Management Plan	13938
 Verbeke F. Plan	14666
 Violence Prevention Plan Gender Based Violence	12253
+Visibility of Strategic Plan	16943
 Vision and Implementation Plan	13814
 Vision and Objectives Smart Rwanda Master Plan	12359
 Vital Statistics Community Engagement Strategic Plan	13596
@@ -2476,21 +2893,27 @@ WBG Climate Action Plan	15518
 WBG Climate Change Action Plan	3604
 WBG’s Climate Action Plan	15553
 WBG’s Climate Change Action Plan	1867
+WMO Gender Action Plan	16947
+WMO Gender Action Plan for Members	16947
 WMP Waste Management Plan ZDA Zambia	1988
 WORK PLAN The Ministry of Information	12715
+WSIS Plan of Action	16861
 Waste Electrical and Electronic Equipment Management Plan	10870
-Waste Management Plan	1988
+Waste Management Plan	1988,15126
 Water Security The Emergency Plan	15604
 Water and Sanitation Development Plan	11525
 Weaknesses and Action Plan	15372
 West Africa Implementation Action Plan	15372,52
-Work Plan	3524,7607,890,1010,6,2093
+Work Plan	3524,7607,890,1010,6,2093,1728
+Work Plan and Budget BEU Biomedical Engineering	16922
 Work Plan and Budget BPO Build	1264
 Work Plan. Discussions	1554
 Workers Education Sector Plan for Egypt Education	15604
 World Bank Climate Change Action Plan	13331
 World Bank FM Implementation Support Plan	13332
 World Bank Implementation Support Plan	13332,2326
+World Bank Regional Gender Action Plan	16896,26
+World Bank’s Climate Change Action Plan	16922
 Wp Kilowatt-peak LCDP Least-Cost Development Plan	11549
 X. Education Sector Plan for Egypt Education	15604
 X. PLAN DE SUIVI DES INDICATEURS	14442
@@ -2500,12 +2923,17 @@ XI. PLAN DE MISE EN OEUVRE	14442
 XIV. PLAN D’ACTION PRIORITAIRES	10876
 Xingshu Plan	9816
 YEARS STRATEGIC PLAN	14887
+Year Action Plan	16985
+Year Action Plan and Budget	16985
 Year Business Plan	4896
 Year Development Plan	14779,118
 Year Health Infrastructure Master Plan	13685
 Year Implementation Plan	1814,10361,78,752,50,5,51,11,120
 Year Integrated Strategic Business Plan	13183
+Year Statistical Plan	16927
+Year Strategic Plan	16883
 Year-End Strategic Plan Review Workshop	1554
+Yiriwaa National Development Plan	16966
 Young The Nigerian National Broadband Plan	11857
 Zambia Capital Markets Master Plan	6938
 Zambia's Climate Adaptation Plan	1988

@@ -1,11 +1,14 @@
 A3 Delegado de Gobierno Jefe Militar de Distrito	4209
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
+Administración Pública. El Gobierno	17022
 Albert GOBY KAKOU	16381
 Asesor Presidencia de Gobierno	4209
 Asesor Presidencia de Gobierno Servicio	4209
-Buen Gobierno	1701
+Buen Gobierno	1701,15470,130
 Buena Gobernanza	1701
+CEMAC. El Gobierno	16898
 CONSEJERO PRESIDENCIA GOBIERNO	4209
+Colegio Nacional Gobena Mendo	17271
 Colegio Nacional Gobena Mendo de Batete	4209
 Consejero A3 Gobernador Provincial Jefe Militar	4209
 Consejero Gobierno Consejero Senado SG Adjo	4209
@@ -14,11 +17,14 @@ DELEG. TRAFICO GESTIÓN DE GOBIERNOS GOBIERNOS	4209
 DELEGADO DE GOBIERNO ADJUNTO	4209
 DELEGADO DE GOBIERNO DISTRITO	4209
 Dawlad Goboleed	14859
+Decreto de Gobierno	16859
+Delegaciones de Gobierno	16838
 Delegado Adjunto Gobierno	4209
 Delegado Adjunto Gobierno Servicio	4209
 Delegado Gobierno	4209
 Delegado de Gobierno	4209
 Delegado de Gobierno Adjunto	4209
+Delegados de Gobiernos	16871
 Dhexeeya Dawlad Goboleedyada	14859
 Diiwaan-bayaba Gobolka Banaadir	15153
 Diiwaan-hayaha Maamulka Gobolka Banaadir	15153
@@ -27,13 +33,16 @@ Diiwaanhayaha Gobolka Banaadir	15153
 Dowlad Goboleedyada	15153
 Dowladda Goboleedyada	15153
 EAC East African Community GoB Government	1284
-El Gobierno	1701,6452,219,693,3010,2190
+El Gobierno	1701,6452,219,693,3010,2190,2628,32,40,86,58,135,9,1,39,12,4,10,44,14,10,39
+El Gobierno de Guinea Ecuatorial	16904,77,312,49,67
 Estado Delegado Adjunto Gobierno	4209
 Estado Delegado Regional Inspector Regional Gobernador	4209
+Ex Miembros de Gobierno	16871
 GHG Greenhouse Gas GoBF Government of Burkina	15621
 GOBABIS	8413
 GOBABIS OUTAPI Total Eligible	13025
 GOBERNADOR PROVINCIAL	4209
+GOBIERNO	16838
 GOBIERNOS PROVINC.REG.CONT.-Concepto	4209
 GOBIERNOS PROVINC.REG.INS.-Concepto	4209
 GOBILLA-GOMBAULT	15615
@@ -53,9 +62,10 @@ Gobannimada Jamhuuriyadda Federaalka Soomaaliya	14859
 Gobernabilidad Democrática	758
 Gobernador Provincial	4209
 Gobernador Provincial Secretario Administrativo	4209
+Gobernadores Provinciales	16871
 Gobernanza	4209
 Gobernanza Muy	1701
-Gobierno	163,595,217,726,154,2354,2089,802,948,324,6,176,511,237,1,15,2,204,2551,443,1663,84,39
+Gobierno	163,595,217,726,154,2354,2089,802,948,324,6,176,511,237,1,15,2,204,2551,443,1663,84,39,2534,17,4,6,3,3,4,18,1,1,3,5,1,2,12,2,5,8,12,17,3,4,10,1,1,6,2,1,32,4,1,4,18,2,10,15,11,2,20,3,16,22,11,1,9,4,17,2,8,20,1,2,2,2,24,1,5,3,9,11,11,8,4,4,4,6,2,19,3,6,14,10,4,5,7,3,16,1,6,7,4
 Gobierno Adjunto Delegado Provincial Delegado Distrital	4209
 Gobierno Administrador General de Palacio Asesor S.E	4209
 Gobierno Canciller Secretario General Secretario General	4209
@@ -63,29 +73,50 @@ Gobierno Central	1701
 Gobierno Central. Tenemos	1701
 Gobierno Consejero Ministro Gran Canciller Secretario	4209
 Gobierno Director General Elemento Seguridad Parlamentaria	4209
+Gobierno Electrónico	16855,13,260
+Gobierno Electrónico URL	17128
+Gobierno Existencia	16898
+Gobierno General	16898
 Gobierno Ha	9303
 Gobierno LEY DE PRESUPUESTOS GENERALES	4209
 Gobierno La Directora General de Comercio	9927
 Gobierno La Sala Plenaria	9302
 Gobierno Maestro	4209
 Gobierno Malabo	163
-Gobierno Núm	4209
+Gobierno Malabo II	16855
+Gobierno Núm	4209,12903
+Gobierno Número	17022
 Gobierno Presidente Audiencia Provincial	4209
 Gobierno Provincial de Bioko Sur Luba	4209
 Gobierno Provincial de Ebibeyín Ebibeyín	4209
+Gobierno SEN	16898
 Gobierno Secretario General Ministerio Fiscal Audiencia	4209
 Gobierno Servicio	4209
+Gobierno Sí Sí	16898
+Gobierno URL	17282
 Gobierno Vice-Presidente Primero	4209
-Gobierno de Guinea Ecuatorial	7100,983,3589,846
-Gobierno de Guinea Ecuatorial Oficina de Información	9065,5116
+Gobierno de Guinea Ecuatorial	7100,983,3589,846,4376,36,49,52,81,63,40,56
+Gobierno de Guinea Ecuatorial Oficina de Información	9065,5116,3208,26
 Gobierno de Malabo	9065
+Gobierno de Malabo II. Durante	17343
+Gobierno de Ntobo	17049
 Gobierno. Ante	11672
+Gobierno. Artículo	16893
 Gobierno. Asimismo	8378
+Gobierno. Cabe	16898
+Gobierno. Con	17171
 Gobierno. Describe	1701
-Gobierno. En	1855
-Gobiernos	4209,11269
+Gobierno. Efectivamente	16865
+Gobierno. En	1855,14983,87
+Gobierno. Esas	17222
+Gobierno. Este	17128
+Gobierno. Las	16965
+Gobierno. Para	17382
+Gobierno. Pero	16898
+Gobierno. Sobre	16945
+Gobiernos	4209,11269,1393,22,1,4
 Gobiernos Locales	4209
-Gobiernos Provinciales	1701
+Gobiernos Provinciales	1701,15137
 Goble C	14666
 Gobol	14859
 Gobolka	14906
@@ -93,6 +124,7 @@ Gobolka Banaadir	15047,106
 Gobolka Banaadir Degmo	15153
 Gobonnimo Party	2743
 Guddoomiyaha Gobolka Banaadir	15153
+Hon. Harris W. Gobalson	16970
 INSTI. GOB IMAGEN KIE-NTEM BIOKO SUR	4209
 Information System GoB Government of Benin GRM	15515
 Intérêt Economique GoB Gigabit	15424
@@ -100,23 +132,31 @@ Issa Goba Roukiyat	13774
 Junta de Gobierno	11633
 Juzgado de Instrucción Delegado de Gobierno Jefe de Prensa	4209
 La G de Guinea El Gobierno	14265
+Los Gobiernos Provinciales	16838
+MINISTRO DEL GOBIERNO ENCARGADO	17112
 Maamulka Gobolka Banaadir	15047,106
 Maamulka Gobolka Banaadir. Qodobka	15153
 Maamulka Gobolka Benaadir	15047
 Maamullada Gobollada	14930
 Mahamba Gorge and Gobolondlo	12977
+Ministro Jefe de Gobierno	16838
 Molly Weyulu GOBABIS	9666
 N. Goburdhan	3782
 Nishal Goburdhan	578
+Noticias Gobierno Ver	16933
+Nuestro Gobierno	16865
 OFICIAL MAYOR PRESIDENCIA GOBIERNO	4209
 Otros Miembros de Gobierno	4209
 PRESIDENCIA DEL GOBIERNO	4209
+PRESIDENCIA DEL GOBIERNO Orden	17112
 Por Ezequiel Ntugu Esono El Gobierno	11743
-Presidencia de Gobierno	4209
+Presidencia de Gobierno	4209,12756
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
+Primer Ministro Jefe de Gobierno. Artículo	16838
 Primer Ministro de Gobierno	4209
 Product GNI Government Enterprise Architecture GoB	13331
 Professor Gobopamang Letamo	12551
 Programas de Gobierno	1701
+SEN El Gobierno	16898
 Violence FMI Fonds Monétaire International GoB	10876
 Zebaldt Ngaruka GOBABIS	8250,710

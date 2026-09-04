@@ -10,6 +10,7 @@ CFC CICOS CMTP CNPS	15542
 CIC ASSET MANAGAMENT LIMITED Data Controller	7167
 CIC ASSET MANAGAMENT LIMITED Data Processor	7167
 CIC Bill	268
+CIC Certified Public Accountant CISA Crude	17235
 CIC GENERAL INSURANCE LIMITED Data Controller	7167
 CIC GENERAL INSURANCE LIMITED Data Processor	7167
 CIC LIFE ASSURANCE LIMITED Data Controller	7167
@@ -39,17 +40,20 @@ CICPDVP	10821
 CICPH References	11935
 CICPVP	10821
 CICR Burundi	13442
-CICTE	4209
+CICTE	4209,12662,101
 CICrêtes BIO OSTEO HYGIMED Révision	16103
 CICrêtes HYGIMED Révision PROJET DE PROGRAMME	16103
 CiCricruciutitLelennggtthhppeerrVvoollttaaggee	12256
-Ciclo	10750,5022
+Ciclo	10750,5022,1092,56
 Ciclo Ensino Secundário	15772
 Ciclo Individual	10783
 Ciclo de Estudos	16166
+Ciclo de Formación	16920
+Ciclo de Formación Ofrecido	16920
 Ciclo de Vida	10783,772
 Ciclos	15564
 Ciclos de Ascensão	2816
+Ciclos de Estudo de Licenciatura	17103
 Ciclos de Vida	12774
 Ciconia	16552
 Cicrêtes Nouveau	16103
@@ -63,6 +67,7 @@ Data for Policy CIC	1246,7037
 Data for Policy CIC Board of Directors	1246
 Data for Policy CIC. Funders	1246
 Desempenho CICA Conselho de Igrejas Cristãs de Angola	11390
+ESCOLA CICLO DE ESTUDOS PROVAS	17103
 Encarregados de Educação BM Banco Mundial CICL	11557
 Founding Director of Data for Policy CIC	8283
 I Ciclo	5150,5616,621,32,158,490
@@ -74,9 +79,12 @@ IMC CICrêtes CHU	16103
 Integrado Licenciatura Pós-graduação DESP Ciclo de Estudos	16166
 Le CICG	15712
 Le CICR	13442
+Liberia CEO County Education Officer CICO	16876
 MTND SNDI ANSUT ANSSI ARTCI CICG	15936
 O Ciclo Individual	10783
 ONA CICrêtes Nouveau	16103
+PONDERAÇÃO E PRÉ-REQUISITOS ESCOLA CICLO	17103
 Primeiro Ciclo	11451
 Révision IMC CICrêtes NA	16103
+Sistema de Pagamentos CIC	17032
 UK CIC	1246

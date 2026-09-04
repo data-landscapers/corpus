@@ -3,6 +3,8 @@ AI-enabled Amategeko	8674
 AMA ADVOCATES LLP Data Controller INST-594912A5A22	7167
 AMA ADVOCATES LLP Data Processor INST-594912A5A22	7167
 AMA O. ANSAH	15845
+AMAANAH	16852
+AMAANAH The General Secretariat for Arabic and Islamic	16852
 AMAANO	15014
 AMABO	8505
 AMABWIRIZA RUSANGE N	14919
@@ -13,6 +15,7 @@ AMADE and ATT	10854
 AMADI	7167
 AMADI ADVOCATES Data Controller INST-6282072BF30 NAIROBI	7167
 AMADI ADVOCATES Data Processor INST-6282072BF30 NAIROBI	7167
+AMADOR ENGUANG NGUEMA MONSUY	17101
 AMAH COMPANY LIMITED Data Processor INST-432947122FC	7167
 AMAHAME REMEZO MU IBARURISHAMIBARE Ingingo	14862
 AMAHORO COALITION LIMITED Data Controller INST-60349983692	7167
@@ -97,9 +100,10 @@ Amadou KEITA	16708
 Amadou Kendessa Diallo	16745
 Amadou Kendessa Diallo Dernière	16745
 Amadou Konia Camara	9326,216
-Amadou Makhtar Fall	2889,13001
+Amadou Makhtar Fall	2889,13001,1052
 Amadou Makissa Diallo	14184
 Amadou N. Sy	12948
+Amadou Nyang	17379
 Amadou Oury	16718
 Amadou Oury BAH	16661,24
 Amadou Oury Bah	2370,939,4312,357,1866,634,87,6075,39,21,13,5,22,5,3
@@ -138,7 +142,8 @@ Amal AL FALLAH SEGHROUCHNI	3857
 Amal Al-Falah Al-Saghrouchini	4032
 Amal Al-Falah Al-Saghroushni	4141
 Amal Benmokhtar	15410
-Amal El Fallah Seghrouchni	2715,1167,1478,417,21,698,428,564,757,231,1007,1863,436,5019
+Amal El Fallah	17468
+Amal El Fallah Seghrouchni	2715,1167,1478,417,21,698,428,564,757,231,1007,1863,436,5019,700,10
 Amal El Fallah Seghrouchni and World Bank	7584
 Amal El Fallah-Seghrouchni	5890,619,660
 Amal El Fellah Seghrouchni	3892
@@ -191,6 +196,7 @@ Amano Capital	12376
 Amansie Central District	8025
 Amantha Naidoo	8591,190
 Amanuel Biru	1824
+Amanuel Mehari UNICEF Remy Pigois	16902
 Amanuel Meseret	14102
 Amanzimtoti	5569,1011,1330
 Amaphemithi	11551
@@ -235,6 +241,7 @@ Amategeko Ahana	14862
 Amategeko Ngengamikorere	15027
 Amategeko Ngengamikorere UMUTWE WA VI	15027
 Amateur	736,4943
+Amateur D5	17250
 Amateur Radio	6946
 Amateur Radio Examination US	736
 Amateur Radio Transceiver Operator	736
@@ -250,9 +257,10 @@ Amaury Cansa	12478
 Amaury Sport Organisation	8186
 Amaury Substation. Following	14745
 Amaury and Arsenal	14745
-Amazigh	3880,2,3311,102,8273
+Amazigh	3880,2,3311,102,8273,1279,614
+Amazighe	17461
 Amazing. Okay	560
-Amazon	767,440,1,63,92,403,511,16,17,19,88,94,3,24,14,125,85,54,10,4,176,5,1,53,46,22,18,4,58,165,16,71,5,110,41,37,67,2,10,45,147,13,22,81,146,133,99,138,41,199,20,13,154,2,35,17,8,4,1,29,75,80,3,10,115,5,41,50,11,124,20,64,18,6,37,23,35,68,11,34,19,34,172,136,135,1,9,1,24,26,6,40,4,7,55,84,2,64,12,28,75,31,19,48,25,85,50,19,14,35,109,1,19,15,64,21,210,118,70,330,3,39,372,53,190,730,99,54,98,263,504,52,209,207,46,52,14,24,56,398,370,246,185,1066,107,340,723,42,22,237,1052,717,110
+Amazon	767,440,1,63,92,403,511,16,17,19,88,94,3,24,14,125,85,54,10,4,176,5,1,53,46,22,18,4,58,165,16,71,5,110,41,37,67,2,10,45,147,13,22,81,146,133,99,138,41,199,20,13,154,2,35,17,8,4,1,29,75,80,3,10,115,5,41,50,11,124,20,64,18,6,37,23,35,68,11,34,19,34,172,136,135,1,9,1,24,26,6,40,4,7,55,84,2,64,12,28,75,31,19,48,25,85,50,19,14,35,109,1,19,15,64,21,210,118,70,330,3,39,372,53,190,730,99,54,98,263,504,52,209,207,46,52,14,24,56,398,370,246,185,1066,107,340,723,42,259,1052,717,110,112,1,505
 Amazon AWS	3859,3020,15
 Amazon Amazon Alibaba Amazon Amazon Amazon	6477
 Amazon Bedrock	5967,2175,2047
@@ -286,7 +294,7 @@ Amazon Leo Huawei	5908,442
 Amazon Leo and Herotel	7303
 Amazon Leo and Starlink	7382
 Amazon Passes France’s Digital Services Tax	14932
-Amazon Prime	5908,442,2596,5749
+Amazon Prime	5908,442,2596,8483
 Amazon Prime Video and Disney	5802
 Amazon Quick and Amazon Kiro	8142
 Amazon RDS	10505,289
@@ -300,7 +308,7 @@ Amazon Simple Notification Service	10794
 Amazon Simple Queue Service	10794
 Amazon Simple Storage Service	9123,1671
 Amazon Web	1245
-Amazon Web Services	1729,114,314,659,168,202,46,209,21,21,71,368,204,899,4,55,77,464,75,137,96,34,299,145,60,6,190,124,88,177,10,13,37,57,36,109,49,181,238,15,341,557,60,162,928,4,95,1,66,32,189,402,156,4,337,533,278,164,252,910,1119,1655
+Amazon Web Services	1729,114,314,659,168,202,46,209,21,21,71,368,204,899,4,55,77,464,75,137,96,34,299,145,60,6,190,124,88,177,10,13,37,57,36,109,49,181,238,15,341,557,60,162,928,4,95,1,66,32,189,402,156,4,337,533,278,164,252,910,1119,1655,877,1
 Amazon Web Services Inc	5837
 Amazon Web Services South Africa	7210
 Amazon Web Services and Canal Plus	3264
@@ -335,6 +343,7 @@ Amina Amani	8884
 Andre Amaral	8775,7223,558,23
 Anthea P. Amadi-Echendu	7278
 Aregash Getachew Hailu and Zerihun Yohannes Amare	12158
+Asma Amarh Mohammed Sereeba Amal Suleiman	17403
 Azure and Amazon Web Services	5629
 B1.lºacek3.Pº.antres Alcides Amarante Presidente FIRMA	15694
 BAKAYOKO Amadou	2342
@@ -343,11 +352,14 @@ Business Amazon Web Services AWS	10236
 Bénin Djabirou AMADOU Directeur Adjoint de Cabinet	10708
 C16620 Amal Mint Nouh	1183
 CEO of AMA	3742
+Cabo Amar Vinyo	17010
 Capitaine Amadou Haya Sanogo	7999
 Cheickh Amadu Bamba Koté	11544
 Cheickna Amala Diallo	9865
 Code Amateurs	12478
 Colonel-Major Souleymane Amadou Moussa	7374,2193,101,2026,2492
+Colonel-major Abdoulkadri Amadou Daouda	17355
+Comments Amadú Bá	17074
 Commissaire Divisionnaire Ousseini Amadou Oumarou	10547
 Commissioner Amani Abou-Zeid	1597
 Compete Amazon	10588
@@ -379,6 +391,7 @@ Ecuadorian Amazon	11006
 Edwin Amaoko	16402
 Ekye Amanfrom Bridge	7695
 Emeline P. Amangoua	3158
+Engr. Amara B. Massaquoi Contributor	17260
 Eugenia Grace Amagyei	8027
 Eulalia AMABO	16240
 Eutelsat OneWeb and Amazon Leo	6898
@@ -414,6 +427,7 @@ High Commissioner H.E Mr. Amararam Gujar	13029
 Hon. Amason Jeffah Kingi	12955
 Hon. Bakary DIAKITE Hon. Amadou Damaro	16625
 ICT AU African Union AWS Amazon	4126
+ID4D Diagnostic Findings Alexandre Amard	17070
 INTEKO ISHINGA AMATEGEKO THE PARLIAMENT HAS	14870
 INTEKO ISHINGA AMATEGEKO YEMEJE NONE NATWE	14893
 IPOs Amazon Leo	6559
@@ -461,7 +475,7 @@ MAUEZA EURIDCE AMADO GARCIA MAURÍCIO GANDO	10750
 ME AMARA Ghalem Ministère	15472
 Madame Amal EL FALLAH	3196
 Madame Amal EL Fallah Seghrouchni	4600
-Madame Amal El Fallah Seghrouchni	8002
+Madame Amal El Fallah Seghrouchni	8002,9517
 Madame Patricia Amand	6116
 Maputo How Amazon	6365
 Maritime and Amateur	6946
@@ -469,6 +483,7 @@ Mas’uuliyadaha Guddiga Amaanka	14859
 Matthew Amalitinga Abagna	10335
 Mauritius Telecom and Amazon Web Services	7365
 Melaine Amanda Rolande	15692
+Member Mr. Amadou Ceesay Member Mr	17104
 Microsoft Corp. and Amazon.com Inc	5627
 Microsoft and Amazon	5821,144,480,1193,2033
 Microsoft and Amazon Web Services	6368
@@ -480,7 +495,7 @@ Minister Amal El Fallah Seghrouchni and Wojtek	8244
 Minister Delegate Amal El Fallah Seghrouchni	5608
 Minister Delegate for Digital Transition Amale Falah	3563
 Mme AMADOU	16100
-Mme Amal El Fallah Seghrouchni	5745,2257
+Mme Amal El Fallah Seghrouchni	5745,2257,9469
 Mme Iris Amandine MBIRA	16099
 Mme la Ministre Amal El Fallah Seghrouchni	2717
 Mnyango Wezokuqashwa Nezabasebenzi. Amakhophi	11573
@@ -512,6 +527,7 @@ Nigeria. Amazon Leo	4623
 No.1 Amanfro Ashaley Botwe Street	3386
 Nossa Pátria Amada. ARTIGO	11513
 Nteko Ishinga Amategeko	15102
+O. Jallow Member Mr. Amadou Ceesay	17317
 OG Special of 15.10.2021 Amakuru bwite.pdf Author	14893
 Officer ACFRI Amadou Konare Sr. Environment	15372
 Oscar Amaman	9162
@@ -560,6 +576,7 @@ SEM Amadou Oury Bah	16700
 Saliha Amara	15410
 Salim Amaouche	15747
 Samantha Amabelia Chuquela	10750
+Security and Democracy and Amal El Fallah Seghrouchni	17511
 Segundo Osvaldo Amaro	11479
 Sekou Amadou Bah	4114,75
 Selamawit Amaha	12195
@@ -571,6 +588,7 @@ Sidi Amar Jijel Tipaza Décret	15690
 Society Division and Ms. Souhila Amazouz	1243
 Souhila Amazouz	4123,8940,417
 South Africa Amazon Leo	5050,1315,533
+Sr. Amadú Bamba Sambú Dabó	17337
 Starlink and Amazon	10673
 Starlink and Amazon Leo Cell C	10797
 Stephane Boyera and Aman Grewal	769
@@ -586,4 +604,6 @@ Whether Amaco	10261
 Wilma Amaelga MAPAGHA	16099
 YYYY MM DD ISIQEPHU J AMATHAYIMUTHEBULA	11573
 Yakan Annick Amani-Koné	9961
+Youngor F. Amara	17116
 Yves Bénoit ANDECKO AKANDA AMADOU BA	16175
+Zaynab Mahmoud Mohammed Adyaab Amani Khalefa	17403

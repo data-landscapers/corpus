@@ -1,6 +1,7 @@
 Affairs and Immigration NAFIS Namibia Automatic Fingerprint	12947
+Automated Fingerprint	16885
 Automated Fingerprint ID System	12337
-Automated Fingerprint Identification System	10812,1415,110
+Automated Fingerprint Identification System	10812,1415,110,4960
 Automated Fingerprints Identification System	12165
 Automatic Fingerprint Identification System	12378
 Biometric Fingerprint System	12984
@@ -8,6 +9,7 @@ CDSB Fingerprints	16602
 Chief Fingerprint Officer	14407
 Child’s Fingerprints Collection	10765,10
 Child’s Fingerprints Collection Figure	10775
+Citizens’ Fingertips The MOT-OVRS Mobile App	17142
 Company South Africa AFIS Automated Fingerprint	5533
 Controversy Over Universal Fingerprinting	5700
 FCFA FING	2342
@@ -15,7 +17,7 @@ Fingaz SMS News	9253
 FingazLive SMS News	9253
 Finger	12360
 Finger Chops	14705
-Fingerprint	6512,4263,1272,2693
+Fingerprint	6512,4263,1272,2693,2101
 Fingerprint Bureau	16602
 Fingerprint Identification System DDG	11986
 Fingerprint Purpose Limitation	6512

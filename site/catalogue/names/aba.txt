@@ -17,6 +17,7 @@ ABAOs	12507
 ABAQEIR ENTERPRISES LIMITED Data Processor INST-476468C73A2	7167
 ABASS BROTHERS COMMUNICATION ENTERPRISES LIMITED Data	7167
 ABASS HASSAN ABDI Data Processor INST-26840917074	7167
+ABAYAK Antenna	17006
 ADDIS ABABA	7538,2103,2167,9,329,39,41,1729,3,9,1,5,13,8,30,89,40,123
 ADDIS ABABA TELECOMMUNICATIONS LICENSING DIRECTIVE WHEREAS	762
 ADDIS ABABA THE FEDERAL DEMOCRATIC REPUBLIC	13965
@@ -30,12 +31,14 @@ Ababou	16815
 Ababwira	13300
 Abacu	13314
 Abacus	6368
+Abacá	16875
 Abadepite	14862,8,23
 Abadie	12006,972
 Abadiya	15473
 Abadiya Industrial Area	15473
 Abafakizicelo	11573
 Abafashanya	13303
+Abaga Delegado Regional	16920
 Abagabo	13300
 Abagenzi	13300
 Abagenzuzi	15027
@@ -48,7 +51,7 @@ Abagore	13300
 Abahinga	13323
 Abahlinzeki	11573
 Abahuza	13375
-Abaixo	2816
+Abaixo	2816,14204
 Abajejwe	13323
 Abakar	11636
 Abakar Mahamat	2380,9256
@@ -68,14 +71,19 @@ Abandon BCG	16722
 Abandon CPN1	16722
 Abandon Female Genital Mutilation	14011
 Abandonadas	11556
-Abandoned	1020,11196,34,2630,612
+Abandoned	1020,11196,34,2630,612,1356,5
+Abandoned Cropland	17140
 Abandoned Funds Submission Form	5687
 Abandoned Projects	6432
-Abandonment	11181
+Abandoning	17157
+Abandonment	11181,5754
 Abandonment of Female Genital Mutilation	11525
 Abandonment of SIM Card	15302
 Abandonner	7715,5815
 Abandono	11430
+Abandonos	16920
+Abandonos Se	16920
+Abandonos de Alumnos	16920
 Abane Ramdane	15555
 Abang Nsomo	4209
 Abantu	11573,1750
@@ -86,6 +94,7 @@ Abanyamuryango Ingingo	15027
 Abanyeshure	13518
 Abapfasoni	13300
 Abaqulusi	2626
+Abarca	16875
 Abarebwa	1214
 Abaricom	5166
 Abashakashatsi	13323
@@ -96,8 +105,9 @@ Abasteciendo	4209
 Abastecimento	2437,13318
 Abastecimento de Numerário	11438
 Abastecimiento	1701,2508
+Abatable	16996
 Abatanga	13323,1596
-Abate	8022,669,2085
+Abate	8022,669,2085,6324
 Abathun	10878
 Abatishimiye	15027
 Abatororokanya	13323
@@ -113,7 +123,7 @@ Abayomi Jegede	7172
 Abdou Abarry	15928
 Abdourazakhe Abani	2778
 Abreviaturas Aband. Aprov. Compart. Definit	10766
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20,44,169,81,13,27,12,10,4,3,9,15,6,1,5,6,2,4,5,2,24,17,9,10,50,133,388,22,62,27,41,23,46,196,9,43,60,33,27,3,149,241,45,21,12,10,7,26,14,5,7,1,3,3,1,2,1,6,1,10,5,2,2,7,6,14,3,25,2,1,9,10,4,2,1,1,1,2,3,12,73,6,275,177,54,117,113,123,100,279,19,148,600,115,15,38
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20,44,169,81,13,27,12,10,4,3,9,15,6,1,5,6,2,4,5,2,24,17,9,10,50,133,388,22,62,27,41,23,46,196,9,43,60,33,27,3,149,241,45,21,12,10,7,26,14,5,7,1,3,3,1,2,1,6,1,10,5,2,2,7,6,14,3,25,2,1,9,10,4,2,1,1,1,2,3,12,73,6,275,177,54,117,113,123,100,279,19,148,600,115,15,38,421,84,8,71,28,219
 Addis Ababa Action Agenda	970,2613,6752,858
 Addis Ababa Agreement	3583
 Addis Ababa CRRSA. Outreach	12267
@@ -168,6 +178,7 @@ Addis Ababa. MOR	12500
 Addis Ababa. MoSHE	13991
 Addis Ababa. Office-of-the-Prime-Minister	13991
 Addis Ababa. Organised	14134
+Addis Ababa. President H.E. Mr. Obiang	17240
 Addis Ababa. Printed	10819
 Addis Ababa. The Republic of Equatorial Guinea	8192
 Addis Ababa. Vodacom and Vodafone	8843
@@ -179,6 +190,7 @@ Administration of Addis Ababa	13948
 Ahmed Abaddi	1241,7650
 Ahmed Abadi Mohammed Benkaddour	8891
 Alessandro Abate	8691
+Andrés ABAGA OBIANG UNGE Jefe de Departamento	16875
 Armand Hatchuel Ahmed Abaddi Fouad Ben	8891
 B.O. Abass	4432
 Background Professor Abate	8529
@@ -190,6 +202,7 @@ Body ADDIS ABABA	14134
 Body Addis Ababa	14060,24,11,16,10,9,3,3,16,5
 COST IN DIFFERENT WAYS Abayomi Adewuyi	9594
 California Tobacco Control Program. Abadie	12006
+Camara Alieu Bangura Alhagie Kinteh Abass	16973
 Chad's Ministry of Public Health and Prevention. Abakar	11636
 Cheikh Ahmadou Bamba Younouss Ababacar Sadikh	5761
 Colegio Nacional Abaga Ndoho	4209
@@ -202,24 +215,31 @@ Development Abas Mohammed	14121
 Dieudonné Aba’a Owono	11049
 Direction Générale de RSB Abagize Ubuyobozi Bukuru	14863
 Djibouti-Addis Ababa	13868
+Don José Nguere Ndong Abang Coordinadora	16920
 Dr. Addis Ababa Othow	3507,172,6507
+ESTADÍSTICA DE GUINEA ECUATORIAL Edificio Abayak	16898
 East Africa Addis Ababa	14100
+Ecuatorial Edificio Abayak	16962
 Edificio ABAYAK	3179
+Ela Bile Fulgencio Abaga Micha Nzang	16864
 Energy Specialist Abalo Irene Jerry Fabiano	12195
+Estadístico-Demógrafo Ramiro Obama MEÑE ABANG	16962
 Ethiopia Addis Ababa	11665,567
 Ethiopia City Addis Ababa	14069
 Ethiopian FY Addis Ababa	3211
 Ethiopian Investment Holdings Portfolio. Addis Ababa	8971
 Evolução da Inteligência Artificial Abaixo	2816
 FAIBLE INTEGRATION MULTIMODALE Abandon	15542
-Federico Abaga Ondo	9303
+Federico Abaga Ondo	9303,7724,144
 Fiscal Year Addis Ababa	7091
+Florentino Abaga Ondo Ndoho	17399
 Gervais Abayeho	3738
 Glennise Ayuk and Abakar Mahamat	9427
 Glossary Term Definition ABAC Attribute-Based Access	11952
 Goods Implementation Addis Ababa	14156
 Green Growth Addis Ababa	11664
 HELD IN ADDIS ABABA	15641
+Haya Abassi and Mohamed Aburagheba	16902
 Head for Addis Ababa Projects W	12195
 Hon. Dr. Addis Ababa Othow	3736
 I Addis Ababa	11283
@@ -230,6 +250,7 @@ Ibrahim Abaker Musa	6947
 Ibrahim Abaker Musa. Once	6947
 Idriss Houssein Abass	13866
 Ilha de Santiago. Projeto de Abastecimento	1265
+Ilmo. Sr. Don Samuel Abaga Elá	16920
 India Addis Ababa	10516
 Innovation Minister Addis Ababa	12183
 Inteko Rusange. Abatanyuzwe	15027
@@ -239,6 +260,7 @@ Johannesburg and Addis Ababa. Afriexim	562
 Kampala and Addis Ababa	8074
 Key Indicators. Addis Ababa and Rockville	14067
 Khartoum and Addis Ababa	4555
+LAS. Abandoned	16843
 Lawrence Abang	3945
 List of Abbreviations AAU Addis Ababa University	13991
 M. BIALABNA Abaloutou	11645
@@ -246,6 +268,7 @@ M. John Abalo Takou	11067
 MEYONG ABATH Roger Athanase	16033
 Matthew Amalitinga Abagna	10335
 Maxwell Ababio	6056,2708
+Mba NVE Ramiro Obama MEÑE ABANG	16969
 Michael Abah	10718
 Mikail Abakar Ibrahim	5545
 Million Businesses Addis Ababa	12177
@@ -259,10 +282,12 @@ Módulo de Gestão de Pequenos Sistemas de Abastecimento	9403
 NISR ABAYISENGA Claudine FIELD TEAM LEADERS	12445
 Nair Abakar	5671
 Na’ela Abanda	10764
+Negue Ondo Martha Raquel Nkara Abaga	16864
 Northwest Addis Ababa	12500
 Olajuwon Abayomi	9594
 Only Addis Ababa	12199
 PEACE ABABO Vice-Chairperson Ms. Peace ABABO	718
+PRODEGE Marta Raquel Nkara Abaga Abogo	16920
 Part I By Ghidewon Abay Asmerom	14120
 Partners LLP Addis Ababa	12232
 Perezida. Abagize Inama	14863
@@ -282,7 +307,9 @@ References Abadie	12006
 Regime de Prescrição de Certos Bens Abandonados	11404
 Residents of Addis Ababa	13948
 Roosevelt Street Addis Ababa	7951
+Roosvelt Street W21K19 Addis Ababa	16849
 SAWS CEO Ishaam Abader	3290
+SOS JO ABAOIHEY JO	16857
 Salaam-Nairobi-Addis Ababa-Berbera-Djibouti	13867
 Saleh Abakar Zene	5398
 Says Deputy PM Addis Ababa	8920

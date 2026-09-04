@@ -5,9 +5,13 @@ CE NATSIKAPAIDNI COI CDAS	14843
 COI Unit	13997
 COI&linkSource	5349
 COIA C	15744
-COICOP	11424
+COICOP	11424,5474
 COICOP Classes	2775
-COICOP Divisions	2775
+COICOP DIVISIONS Dec-17 Jan Feb Mar	16935
+COICOP DIVISIONS Dec-18 Jan Feb Mar	16935
+COICOP DIVISIONS Dec-19 Jan Feb Mar	16935
+COICOP DIVISIONS Dec-20 Jan Feb Mar	16935
+COICOP Divisions	2775,14160
 COICT	5416
 COIIAC	15443
 COIIAC. L'établissernent	15443
@@ -21,7 +25,7 @@ CoICT Principal	5511
 CoIEritrea	13964
 Coiffure	2966
 Coima	11430
-Coimas	3519,7911
+Coimas	3519,7911,4124
 Coimas Administrativas	11436
 Coimas Contratuais	11430
 Coimas Para	9257
@@ -42,7 +46,7 @@ Coinkite	12882
 Coinly Technologies Limited Data Controller INST-7315170775A	7167
 Coinplexo Administrativo Clássicos de Ta	10770
 Coins	13532
-Coisas	795,1823,198,8580,1,172,4115
+Coisas	795,1823,198,8580,1,172,4115,1502
 Coisse	15687
 Determinação da Coima	11430
 ETAT DE COTE D’IVOIRE COIC SA	2342
@@ -59,6 +63,7 @@ Sango Coin	4127,207
 Sango Coin SANGO	4127
 Sango Coin Sango	4127
 Sango Coin SangoCoin	4127
+Trade CIF Cost Insurance Freight COICOP	16935
 USD Coin	9709
 USDC USD Coin	8590
 Universidade de Coimbra	5578,5202

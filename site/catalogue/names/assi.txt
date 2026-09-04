@@ -1,7 +1,10 @@
 ABANYAMURYANGO BA ASSIMPER Article	15027
 AFRITAC Africa Regional Technical Assistance Center	16104
+AFRITAC African Regional Technical Assistance Centre	17105
 AI Citizen Service Assistant for Smart Local	10347
+AI Oasis Assistant	17303
 AI Projects Assistant	5036
+ALLOCATION AND ASSIGNMENT OF FREQUENCIES	16839
 AMOA Project Management Assistance ANADEN National	13731
 AMSAF Technical Assistance	16371
 ANDRIANTOMPOINARIVO Hery MID Assistant	14539
@@ -15,6 +18,8 @@ ASSIETTE DE L'IMPOT CHAPITRE UNIQUE OBLIGATIONS	15999
 ASSIETTE DE L’IMPOT Chapitre	16020
 ASSIGNMENT	15090
 ASSIGNMENT AND DETAILED TASKS	15090
+ASSIGNMENT FEES	17250
+ASSIGNMENT LOGBOOK. A01a. Time	17127
 ASSIGNMENT PAGEREF	15090
 ASSIGNMENT TITLE	11750
 ASSIGNMENTS LUMP-SUM PAYMENTS CONTRACT No	13037
@@ -41,11 +46,13 @@ ASSINATURA Ano	11365
 ASSINATURAS ELECTRÓNICAS	11582
 ASSIS-TRANS	15780
 ASSISES DE L’AGRICULTURE	14818
+ASSIST	16864
 ASSISTANCE INTERNATIONALE EN MATIÈERE DE RECOUVREME	15999
 ASSISTANCE MÉDICALE EN MILIEU URBANO RURAL	16274,182
 ASSISTANCE PROGRAM MULTI-DONOR TRUST	11549
 ASSISTÊNCIA ALIMENTAR	10766
 ASSIetlesentités	15525
+ATTEMPTS IN YOUR ASSIGNMENT LOGBOOK	17127
 AU Technical Assistance Programme	7529
 AUGURE Assistante	14539
 AUTRE PERSONNE N'A ASSISTÉ X X	13300
@@ -54,13 +61,16 @@ Acc. Assistés National	16722
 Acting Assistant Director	13532
 Acting Assistant Director for Projects and Quality Assurance	9152
 Acting Assistant Director-IT Security	13532
+Action Effectivenes Cost Feasibilit Assistanc Adequacy	17157
 Action Trust ACDO Assistant Community Development	12970
 Additional Responsibilities Assistance	4349
 Adequacy of Social Assistance	10985
 Administrative Assistance	573
+Administrative Assistant	16922
 Administração Pública. Assim	15755,301
 Ado Bako Assistant Director	7895
 Africa Clean Energy Technical Assistance Facility	1988,10203
+African Private Sector Assistance Fund MICAT	17101
 African Telecommunications Union Spectrum Assignment	7827,262
 African Telecommunications Union Spectrum Assignment Plan	7850,323
 African Union. Technical Assistance	11906
@@ -85,21 +95,23 @@ Assia Sahraoui	15933
 Assiduidade	6462,9863
 Assiduité Ethique	15780
 Assiette	10712,4637,698
-Assign	1000,5832,816,958,2550,701,99,297,106,316,717
+Assign	1000,5832,816,958,2550,701,99,297,106,316,717,3471,76,24,176,121
 Assign QDS	14818
 Assignation	37,961,4363,7940,2163,479,352
 Assignation PERMISSIONNAIRE REFERENCE DECISION DATE	998
-Assigned	9123,878,1650,705,3117
+Assigned	9123,878,1650,705,3117,1416,228,39,95
+Assigned Bandwidth	17250
 Assigned Microwave Links for Deployment	6671
 Assigned Names and Numbers ICPAK Institute of Certified	6946
 Assigned Task Assigned Section	13037
 Assigner	13468
 Assigning	961,200,5432,4536,2
 Assigning and Maintaining Addresses for Objects	13221
-Assignment	427,3251,4150,718,577,2734,12,72,35,32,635,5,245,138,6,46,102,1565,393,40,718
+Assigning the Appropriate Risk Classification	17114
+Assignment	427,3251,4150,718,577,2734,12,72,35,32,635,5,245,138,6,46,102,1565,393,40,718,1072,15
 Assignment Assuming	13031
 Assignment The Consultant	13037
-Assignment Title	9603,1,6889
+Assignment Title	9603,1,6889,762
 Assignment of Frequency The Department	13951
 Assignment of High Demand Spectrum	11857
 Assignment of Numbering Resources	6946
@@ -108,20 +120,21 @@ Assignment of Proceeds Agreements	13122
 Assignment of Radio Frequency Bands	15480
 Assignment of Radio Frequency Bands Banking Commission	15480
 Assignment of Spectrum PS-5 Review the Spectrum Trading	11857
-Assignments	969,5977,6091
+Assignments	969,5977,6091,4250
 Assignments of Engineering Designs and Contract Supervision	15411
 Assignolion	15429
 Assigui	16177
 Assih	8262
-Assim	15,399,125,2277,302,216,812,1065,3308,740,886,627,5,593,1,8,8,3,6,1,24,1,14,10,10,62,1,1,3,4,1,2,2,5,6,4,9,6,3,4,7,1,444,3337,1,21,8,3,1,11,37,8,2,26,27,1,5,17,6,3,29,8,117,5,78,120,20,210,16,81,106,51
+Assim	15,399,125,2277,302,216,812,1065,3308,740,886,627,5,593,1,8,8,3,6,1,24,1,14,10,10,62,1,1,3,4,1,2,2,5,6,4,9,6,3,4,7,1,444,3337,1,21,8,3,1,11,37,8,2,26,27,1,5,17,6,3,29,8,117,5,78,120,20,210,16,81,106,51,644,80,11,36,39
 Assimi Goïta	8401,175
 Assimi Tairou	7355
+Assimilation System GMMR Great Man-Made River	17157
 Assimilé	14432
 Assimilés	15427,509
 Assimilés SMQ Système de Management	10712
 Assimilés du Cameroun	718
 Assinada	15396,54
-Assinado	11437
+Assinado	11437,5782
 Assinalou	5542,814
 Assinante	15,10732
 Assinantes	1144,10286
@@ -144,28 +157,37 @@ Assinaturas Electrónicas	9909,1552,2852
 Assinaturas Eletrónicas	11569
 Assingment	11941
 Assinie	10035,902,816
-Assis	2261
+Assis	2261,14840
 Assise	7355
 Assise Nationale	16641
 Assises	4600,2888,2879,3401,980,70,881
-Assises Nationales	3196,4472
+Assises Nationales	3196,4472,9844
 Assises de L’Agriculture	14758,60
 Assises de L’Environnement	14742
 Assises des Arts	14748
 Assises du Groupe	10182
 Assises du Numérique	15496
-Assist	11255,1164,559,1207,485,76,35,93
+Assist	11255,1164,559,1207,485,76,35,93,1993,666
 Assist Employees’ Productivity	2816
+Assist Government	16926
+Assist NGO Coalition	16853
+Assist NUCFDC Secretariat	16853
+Assist PAD	16853
 Assist SMEs	1885
 Assist the Assembly	14409
 Assist the Assembly ARTICLE	14409
+Assist the FDA REDD	16853
 Assist the Poor	100,8647,2230,4065
 Assist the SADC Secretariat	962
 Assist-Advise	11156
-Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196,199,525,122,118,152,615,4,12,107,7,258,14,119,9,120,127,249,628,15,148,7,6,35,7,142,485,13,50,15,53,43,29,59,59,6,163,33,2,18,11,134,76,75,25,345,1,6,54,33
+Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196,199,525,122,118,152,615,4,12,107,7,258,14,119,9,120,127,249,628,15,148,7,6,35,7,142,485,13,50,15,53,43,29,59,59,6,163,33,2,18,11,134,76,75,25,345,1,6,54,33,188,47,29,136,105,107,13
 Assistance Afrique Centrale Copyright	16403
+Assistance Centre AfRITAC African Growth and Opportunity	17235
+Assistance ECO ECOWAS EFT ELA	17235
 Assistance Evidence	2727
+Assistance Framework UNDP United Nations Development	17105
 Assistance Fund for Persons	13470
+Assistance Government	16902
 Assistance Human-in-the-loop	10726
 Assistance IFC International Finance UNHCR United	12297
 Assistance INE National Institute of Statistics MDM	12201
@@ -177,6 +199,7 @@ Assistance NGO Non-Governmental Organization NNGO National	6947
 Assistance Options and Safeguards	3861
 Assistance Options and Safeguards Permissible	3861
 Assistance Participants	11308
+Assistance Program	17524
 Assistance Public Disclosure Authorized	15519
 Assistance Questions	14683
 Assistance SPV West Africa Regional Communications	15424
@@ -190,9 +213,10 @@ Assistance Technique B2G Business	11944
 Assistance Technique MEF	1307,724,2277
 Assistance ToC Theory of Change ToR Terms	3604
 Assistance UGPE Special Projects Management Unit	16187
+Assistance and Cooperation	17249
 Assistance des Nations Unies	15478
 Assistances Techniques	16646
-Assistant	12151,344,198,26,1847,190,660,16,172,81,59,192,351,108
+Assistant	12151,344,198,26,1847,190,660,16,172,81,59,192,351,108,704,230
 Assistant AFMCG	15372
 Assistant Accountant	12972,5
 Assistant Attorney General for National Security John	11342
@@ -204,10 +228,12 @@ Assistant Chiefs	12138,13
 Assistant Civil Registration Officer	12972
 Assistant Clerk	12607
 Assistant Commissioner	2678,327,6779,3577
+Assistant Commissioner Edwin F. Kendema	17367
 Assistant Commissioner Health and Information Management	3005
 Assistant Commissioner for Digital and Innovation Technology	16254
 Assistant Commissioner for Electronic Services	10066
 Assistant Commissioner for Health Information	4922
+Assistant Commissioner for Ports Operation	17367
 Assistant Commissioner of Police	14760
 Assistant Commissioner of Police ADSU	14760
 Assistant Commissioners	13361
@@ -215,7 +241,8 @@ Assistant Communications Manager	12856
 Assistant DG	16249
 Assistant Data Commissioner for Registration	2668
 Assistant Dean	13477
-Assistant Director	10,24,7929,3168,3,891,339,940,161,67,1245,1215
+Assistant Deputy Minister for Fiscal Affairs	16949
+Assistant Director	10,24,7929,3168,3,891,339,940,161,67,1245,1215,841
 Assistant Director Communications	13532
 Assistant Director Information	11951
 Assistant Director Payment Systems Development	12364
@@ -238,6 +265,7 @@ Assistant Engineer	6946
 Assistant Extension Officer	12972
 Assistant FAO Representative	13049
 Assistant Finance Minister for Tax Policies Rami	10448
+Assistant Finance Minister for Tax Policy and Revenue	16999
 Assistant Financial Operations Officer	14835
 Assistant Governor	11131,3
 Assistant Guylaine Laiyra	9612
@@ -246,21 +274,32 @@ Assistant IP Registrar	10358
 Assistant Immigration Officers	12972
 Assistant Inspector General of Police	8471
 Assistant Inspector General of Police Andrew Felix	315
+Assistant Inspector General of Police for Crime Management	17297
+Assistant José Herman Wabo Deputy Resident	17101
+Assistant MNCMA Non Bank Staff Name	17441
 Assistant Manager	14746,89
 Assistant Manisha Teelokee Executive Associate	11332
 Assistant Master Leather Worker	14760
 Assistant Medical Officer	771
 Assistant Meteorologists	13365
-Assistant Minister	8706,5703
+Assistant Minister	8706,5703,2562
 Assistant Minister and Project Director	15663
 Assistant Minister for Digital Transformation	4767
 Assistant Minister for Digital Transformation Mahmoud Badawi	16236
 Assistant Minister for ICT Mohamed El-Gayar	15992
+Assistant Minister for Planning	17021
+Assistant Minister for Policy and Planning	16971
+Assistant Minister for Policy and Planning. Goal	16971
 Assistant Minister for Smart Governance Sherif Kishk	16255
 Assistant Minister for Statistics	9548
+Assistant Minister for TVET	17070
 Assistant Minister for Technical Office Affairs	15664
+Assistant Minister for Technical Services	17070
+Assistant Minister for Vital	16860
+Assistant Minister for Vital Statistics	16860,210,325
 Assistant Minister of Communications and Innovation	5446,7108
 Assistant Minister of Foreign Affairs for Economic and Trade	12983
+Assistant Ministers of MOE. Project Leads	16963
 Assistant Médico-Social	15674
 Assistant Passation	16012
 Assistant Permanent Secretaries	14738,7,1,89
@@ -297,13 +336,17 @@ Assistant Staff Officer	3691
 Assistant State Counsel Thomas Peter	14631
 Assistant Sub-Governor	6938
 Assistant Superintende	12972
+Assistant Superintendent	17114
+Assistant Superintendent Emmanuel Robinson	17375
 Assistant Superintendent of Police	14742,18
 Assistant Superintendent of Police BPF	14760
+Assistant Voice Arabic	17329
 Assistant de Direction	15366
 Assistant de Gestion	15936
 Assistant de Gestion des Déchets Industriels	15936
 Assistant de Gestion des Huiles Usagées	15936
 Assistant du Directeur de Cabinet	15685
+Assistant-Director	17017
 Assistante	15474,19,519
 Assistante Administrative	15670
 Assistante du Ministre des Finances	13476
@@ -316,6 +359,7 @@ Assisted Compliers	12439
 Assisted Digital Access Scheme	14752
 Assisted Digital Access Scheme. National Digital	14752
 Assisted Medical Treatment Orders	13420
+Assisted Personal Interviewing CT Cash Transfer	16867
 Assisted Telephone Interviewing CAPI Computer Assisted	13359
 Assisted Ultrasound Ultrasound	1363
 Assisted Voter Registration	12288
@@ -324,7 +368,7 @@ Assistente Universitário	2816
 Assistentes Técnicos	11421,25,131
 Assistentes Virtuais	2816
 Assister	10858,2443,417,2190
-Assisting	5677,2869,891,1404,349,670,1521,1379
+Assisting	5677,2869,891,1404,349,670,1521,1379,2681
 Assisting FSPs	13938
 Assisting INALUD	10776
 Assisting Labor Market Adjustments. World Bank	15663
@@ -350,6 +394,7 @@ Assiut and Suhag	15604
 Assizes	14742,105
 Association des Employeurs ASSIMPER	15027
 Attachés ASSISTANTES Le Ministère A Propos	15449
+Authorized Public Disclosure Authorized Social Assistance	16902
 Automated Biometric Identification System ADR Assistant	13005
 Automated Legal Research and Legal Drafting Assistance	15713
 Autres Sources de Revenus ASSIMPER	15027
@@ -364,6 +409,7 @@ Bank of Zambia CWAC Community Welfare Assistance	13332
 Bank’s Social Assistance PER	15663
 Basic Education Assistance Module	13420,54,165,40,6
 Basic Educational Assistance Module	13420
+Basic Pension Benefits and Social Assistance Benefits	16902
 Beedasee Invasive Alien Species Project Assistant	11332
 Benin Telecom. Rationale for Bank Assistance	15424
 Bilateral Assistance	12917
@@ -371,21 +417,26 @@ Bilhete de Identidade. Assim	10772
 Bons du Trésor Assimilables	7680
 Brava. Assim	15956
 Bursary and Public Assistance	1371
+C Assignment	16884
 CAPI Computer Assisted Personal Interview Figure	582
 CFAA Country Assistance Strategy CITCG Communauté	15372
 CIDADÃO RESPEITADO Assim	10770
 CIT DARS African Regional Technical Assistance	12500
 CNI CMDCV Assinatura Digital Desenvolvedores	16027
+COMPONENT Action Effectivenes Cost Feasibilit Assistanc	17157
 COMPONENTES DO PROJECTO E ASSISTÊNCIA TÉCNICA	11390
 CURRENT SPECTRUM ASSIGNMENTS IN NIGERIA	5245
 CV Telecom. Assim	15504
 Cabo Verde. Assim	15433,139
+Capacity ASSIGNED CAPACITY ACTIVATED CAPACITY AVAILABLE	16942
 Careers IDF-Application AI Assistant Contact	12495
 Cash Assistance	12227,3020
 Cash NDMA-PR-13 Targeted Food Assistance	12977
 Cash and Voucher Assistance	12227
+Census Project Assistant Coordinator Phone	16921
 Centre E.C. African Regional Technical Assistance	12500
 Century PDA Personal Digital Assistant PDL	13359
+Cerimónia de Assinatura da Convenção	17066
 Chef de Service Assistance	16175
 Chinese Assistant Minister of Foreign Affairs	11154
 Christian Fellowship. Employee Assistance Services	11131
@@ -397,16 +448,21 @@ Comments Ref. No. Description of Assignment Estimated	15372
 Committee Assistant. The Committee	11289
 Committee for Refugee Assistance CNARR National Commission	10841
 Community Assistance and Resource Distribution	12950
+Community Development Assistant	16867
 Community Development Senior Community Development Assistant	12970
+Community Health Assistant	16971
+Community Health Assistant CHV Community Health	16971
+Community Health Assistants	16971
 Community Surveillance Assistants	13596
 Community Welfare Assistance Committees	13332,55
 Como Assinar	16027
 Compensation Assistance Fund	11900
 Complaints Unit Assistant Permanent Secretary	14746
+Computer Assisted Interviewing	16867
 Computer Assisted Mass Appraisal	13418
-Computer Assisted Personal Interview	582,3462,6733,669,131
+Computer Assisted Personal Interview	582,3462,6733,669,131,5344,244,201
 Computer Assisted Personal Interview1	4040,7381
-Computer Assisted Personal Interviewing	11416,5,156,3997
+Computer Assisted Personal Interviewing	11416,5,156,3997,1353
 Computer Assisted Personal Interviewing CDHS-V	15574
 Computer Assisted Personal Interviewing. EAs	12403
 Computer Assisted Personal Interviews	13873,1212
@@ -416,25 +472,31 @@ Computer Assisted Telephonic Interview	4044,7402,131
 Computer Assisted Telephonic Interview2	4040,7381
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
 Conference of Heads of Assisted Secondary Schools	16162
+Consuelo Nlang Programme Assistant Socorro Perpetua	17101
 Consultant Mathais Gogohounga Senior Program Assistant	15424
 Consulting Assignments	15411
 Consulting Assignments Contract Title	11525
 Contacts Assistance	13360
+Contribution of Food Assistance	17323,1
 Convention Assistance	15901
 Cooperation and Mutual Assistance	14476
 Cotton Technical Assistance Programme	12979
 Country Assistance Strategy	15424,177,1013
 Country Assistance Strategy CFU Contribution Foncière	16614
+Court Administrator Office of Special Assistant Office	16943
+Criminal and Assizes Courts	16943
 Cumulative Numbering Resources Assigned Per Year	6946
 Current Red Flags Assigned	15905
 Current Spectrum Assignments	5245
 Customs Mutual Administrative Assistance Agreement	9092,1
 Código de Ativação da Assinatura Digital	16027
+D. Emmanuel Wheinyue Assistant Minister for Research	16970
 DAC Development Assistance Committee DFI Development	970
 DES ASSIMII.ES ET DES AUXITIAIRES Arllcle	15397
 DHONDOO Alankar Assistant Permanent Secretary	14770
 DIGITAL LEGAL ASSISTANT ENABLING ACCESS	11206
 DURATION AND LOCATION OF THE ASSIGNMENT	3678
+Da Assistência	17178
 Data Controller Application Assistance	12189
 Delhi. Assistant Minister of Communication and Innovation	12617
 Demand-Driven Technical Assistance	13998
@@ -442,17 +504,19 @@ Democracy and Electoral Assistance	11909
 Dental Assistants	14773
 Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
+Department’s Under Secretary for Foreign Assistance	17110
 Deputies and Assistant Registrars	12668
 Deputy Assistant Commissioner	9076,159
 Deputy Assistant Secretary of State for African Affairs	7344
 Deputy Assistant Superintendent of Police	14760
 Deputy Assistant Superintendent of Police DCP	14760
+Deputy and Assistant Ministers	16970
 Description of Assignment	15372
 Desenvolvedor de Assistentes Virtuais. Segundo Xavier	2816
 Detailed Tasks Assigned	13037
 Development Aid and Technical Assistance	14879
 Development Assistance	14879
-Development Assistance Committee	11155,4769
+Development Assistance Committee	11155,4769,1372
 Development Objectives Assistance Agreement	4301
 Differentiated Assistance	12297
 Differentiated Assistance Framework	12297
@@ -462,7 +526,9 @@ Digital Service Assistant	14830
 Digital Service Assistants	14750
 Digitalisation of Food Assistance	15220
 Digitalising Food Assistance	15220
+Direct Social Assistance Program	17503
 Direct Social Assistance for Emergency Response	12781
+Director Capacity Update Assistant	16867
 Directorate for Aid and Assistance	16580
 Directorate of Social Assistance	14487,6,23
 Direcção Nacional Assinatura de Contrato	10753
@@ -471,20 +537,26 @@ Dissolution of ASSIMPER Article	15027
 District Welfare Assistance Committee	13332
 Do Social Assistance Policies Provide	15663
 Draft Radio Frequency Spectrum Assignment Plans	7980,109
-Duration of Assignment	13031,1154
+Duration of Assignment	13031,1154,3070
 D’ACTIONS ASSIMPER	15027
 E VALIDAÇÕES Entidade Responsável Data Assinatura	11435
 EIB-Technical Assistance	1080
+EPA Assistant Director for Environmental and Social Impact	17260
 EPR Technical Assistance Facility	15140
+ESA Global Development Assistance	17405
 ESMAP Energy Sector Management Assistance Program	11549,23
 EVOLUÇÃO DE TRÁFEGO MÉDIO POR ASSINANTE	11531
 EXPECTED OUTPUT OF THE ASSIGNMENT	12693
 Ecoles de Statistiques Africaines CAPI Computer Assisted	15479
 Economia Assinatura	3093
+Effectiveness Cost Feasibility Assistance Adequacy	17157
 Efficient Spectrum Assignment	5245
 Elderly Funeral Assistance	12977
 Elderly Funeral Assistance Region Male Female	12977
-Emergency Liquidity Assistance	12701
+Emergency Assistance	16902
+Emergency Lending Assistance	17257
+Emergency Liquidity Assistance	12701,4534,22
+Emergency Liquidity Assistance Regulations	17138
 Emergency Support for Judicial Assistance	12668
 Emmanuel ASSILAMEHOO	2623
 Employee Assistance	6946
@@ -513,6 +585,7 @@ Executive Administrative Assistant	11314
 Executive Assistant	11289,2023,2,1685
 Exigences. ASSI Révision	16103
 Existence des Assistants	10874
+External Assistance and Other Assistance	16978
 FAST PROGRESS IN ELECTRIFICATION ASSISTED	11572
 FM Assistant	4653
 FM Sound Broadcasting Frequencies Assigned	6671
@@ -525,12 +598,15 @@ Families Assisted	12977
 Family Assistance Plan	11855
 Family Assistance Program	11855
 Fee- Based Export Promotion Assistance	5773
+Final Assignment Report	17287
 Finance Assistant Erwyn Veerapen ICT Administrator	11332
+Finance Assistant Victoria Embonda Mbasi CJM	17101
 Finance and Administration Assistant	13310
 First Aid Posts and People Assisted	12977
 First Aid Posts and People Assisted First	12977
 First Assistant	14988
 Fishing National Technical Assitance	15500
+Florencio Chayo Sañaba Services Assistant Enrique	17101
 Fondation Congo Assistance FIDH	15848
 Food Assistance Grants	12962
 Food Assistance Programme	13123
@@ -539,12 +615,15 @@ Foreign Assistance Office Ministerio	10713
 Foreign Assistance Office U.S. Embassy Avenida	4260
 Foreign Office Consultations India’s Economic Assistance	16275
 Frequency Assignment	6946
+Frequency Assignment Plan	16839
 Frequency Assignments for Broadcast Studio	6946
 Frequency Assignments for Non-Protected Fixed Links	6946
 Frequency Assignments for Non-Protected Fixed Links Band	6946
 Fronteiras. Assim	15955
 Funding Assistance Fwidin2	4301
+GLOBAL DEVELOPMENT ASSISTANCE About	17405
 GONPOT Tara Kumari Assistant Manager	14770
+General Food Assistance	16902
 General Food Assistance Project	12977
 General Food Assistance Project The NDMA	12977
 General Nurses and Nursing Assistants	12972
@@ -573,7 +652,11 @@ HON. LAWRENCE OOKEDITSE ASSISTANT MINISTER	12606
 HURNATH Pawan Research Assistant	14770
 Handle the Tasks Assigned	13037
 Hansard Matters Assistant Hansard Editor Parliamentary	14841
+Head of Technical Assistance	16902
 Head of United Nations Integrated Transition Assistance	15342
+Health Assistance Benefit	16902
+Health Assistance Benefit Housing Benefit Education	16902
+Health Assistance Benefit Libya	16902
 Health Assistance Operational Manuals	13420
 Health Assistance Programme	13420
 Health Assistance Programme Finding	13420
@@ -588,9 +671,13 @@ Health Project IT Assistant Yvette Tuyambaze	11332
 Health Sterile Services Assistant	14773
 Health Surveillance Assistants	10881,2315
 Henda ASC Assistente Social de Campo	11390
+Hon. Francis F. Mulbah Assistant Minister	17043,84
+Hon. Kou Dorliae Assistant Minister	16857
 Hon. Patrick Gervais Assirvaden Minister of Energy	14753,88
 Hospital São Francisco de Assis	15590
-Humanitarian Assistance	12617
+Human Resource Assistant	16978
+Human Resources Assigned	16885
+Humanitarian Assistance	12617,4623
 Humanitarian Assistance Management System	9747
 Humanitarian Assistance and Disaster Relief	2667
 I-4. Assistance	14904
@@ -601,8 +688,14 @@ IDA-E1670 Assignment Title	15143
 IES. Assim	11391
 IG Assistance	14428
 II. Assistance	15901
+II. SOCIAL ASSISTANCE POLICY	16902
+II. SOCIAL ASSISTANCE POLICY Libya	16902
+II. Technical Assistance Provided	16955
+III. SOCIAL ASSISTANCE PROGRAMMES	16902
+III. SOCIAL ASSISTANCE PROGRAMMES Libya	16902
 IMF High-Level Summary Technical Assistance Report	1698
 IMF Middle East Technical Assistance Center	15165
+IMF Technical Assistance Report No	16955
 IMF-Africa Regional Technical Assistance Centers	15924
 IMPROPER ASSISTANCE	11240
 INCLUDING REMEDIAL ACTION TAKEN TO ASSIST	2709
@@ -611,7 +704,10 @@ INS Assistant	16620
 INTERNATIONAL COOPERATION AND TECHNICAL ASSISTANCE	3861
 IP Configuration and Assign IPs	13185
 ISASS Integrated Social Assistance Services System	11133
+ITEM ASSIGNED COST IN DALASI	16885
 ITU-EC-ACP Project Assistant	26,1,1
+IV. SOCIAL ASSISTANCE SYSTEM ASSESSMENT	16902
+IV. SOCIAL ASSISTANCE SYSTEM ASSESSMENT Delivery	16902
 Identidade Internacional de Assinante Móvel	15,10732
 In-kind Assistance Cash Transfer	12373
 India Kamel Galal and Assistant Minister of Industry	9332
@@ -627,9 +723,10 @@ Integrity and Disciplinary Technical Assistance Unit	11182
 Intelwatch. Partilhar Edição Impressa Assinar Newsletter	9990
 International Cooperation and Technical Assistance	3861
 International Lawyers Assisting Workers Network	8764
+International Signaling Point Codes Assignee Assigned	16934
 Internet Assigned Numbers Authority	12056,2808
 Internet Corporation for Assigned Names and Numbers	3503,3743,3573,360,4193,772,401
-Internet Corporation for Assigned Names and Numbers ICT	14879
+Internet Corporation for Assigned Names and Numbers ICT	14879,1993
 JANKEE Lakshini Assistant Permanent Secretary	14770
 JORGE CARLOS DE ALMEIDA FONSECA Assinada	15385
 JUGLAUL Kamleswar Assistant System Analyst	14770
@@ -650,6 +747,7 @@ Legal Assistant	8978
 Legal Assistants	8978
 Lei da Assinatura Digital	16251
 Les Assises	14818
+Licensing and Customer Relations Assistant	16978
 Lifeline Assistance	14723
 Literacia. Assim	11569
 Low-Cost Legal Assistance Offered	12389
@@ -660,6 +758,8 @@ MANAGEMENT Assistant Juridique	15674
 MANAGEMENT Assistant de Direction	15674
 MBEMBA Trésor Maurel METP Assistant	16012
 MBOUNGOU Jeannette Mireille UGP ACPT Assistante	16012
+METAC Middle East Regional Technical Assistance	16955
+METAC Technical Assistance Report	16955
 MODIFICATION DES STATUTS EUROP ASSISTANCE-IHS SERVICES	15426
 MOHUNGOO Abdool Saib Aslam Assistant	14770
 MONKA Marcel METP Assistante de Direction	16012
@@ -683,6 +783,7 @@ Medical and Emergency Assistance	14761
 Members of ASSIMPER Article	15027
 Meteorological Assistants	13365
 Methodology and Work Plan for Performing the Assignment	13037
+Middle East Regional Technical Assistance Center	16955
 Military Pension Assistance for World Wars	12405
 Minister David Tshere M.P. and Assistant Minister	12552
 Miss BEHAREE Sabinta Assistant Systems Analyst	14770
@@ -695,7 +796,9 @@ Mobile Assistant	14125
 Moov Interactive Assistant	11674
 Moussa DOUMBOUYA INS Assistant DG	16620
 Mr. Farhan M. S. DAWOO Assistant	14745
+Mr. Momoh B. Kamara Assistant Director	17043,84
 Mrs. Bhoojeshwaree RAMSURN Assistant Permanent Secretary	14745
+Mrs. Salome W. Forkpa Research Assistant	17043,84
 Mrs. Sonalee SOORJUN-GAUJEE Assistant Permanent Secretary	14745
 Ms BELUT Soovarna Assistant Systems Analyst	14770
 Ms Darshinee Clerk Assistant Naika-Cahaneea	14753
@@ -707,9 +810,13 @@ Mutual Assistance	783,3104,3958,7529
 Mutual Legal Assistance	318,465,1943,1,8458,771,1447,63,1287
 Mutual Legal Assistance Act	587
 Mutual Legal Assistance Treaties	11995
+Módulo de Identidade de Assinante SME Pequenas	17093
 NDJOROGO ASSIMA	16381
 NEE. Assinala	15694
+NET OFFICIAL DEVELOPMENT ASSISTANCE	16892
+NGO Ongoing Coalition Secretariat Assist NGO	16853
 NOSI. Assim	15391
+NPA Assistant Director for Technical Services	17260
 Namibia Students Finance Assistance Fund	6765
 Namibia Students Financial Assistance Fund	5036,7992
 Nardjes Assia Mosbah	15410
@@ -717,6 +824,7 @@ National Directorate of Social Assistance	12832
 National Information System for Social Assistance	1371,3265,8061,2
 National Liaison Assistants	12972
 National Office for Assistance	13938
+National Plan for Frequency Assignment	16839
 National Refugee Assistance Committee	10841
 Navin Clerk Assistant Clerk Assistant	14841
 Navin Clerk Assistant Seetul	14753
@@ -737,6 +845,7 @@ O Assistance	14777
 OBJECTIVES OF THE ASSIGNMENT	15090
 OBJECTIVES OF THE ASSIGNMENT PAGEREF	15090
 OECD Development Assistance Committee List of Recipients	13082
+ORGANISMES ASSIMILES	17443
 Objective of Assises	14818
 Objectives Of The Assignment	14486
 Obligations du Trésor Assimilables	7680
@@ -744,15 +853,20 @@ Office Assistant	6946
 Office Management Assistant	14835
 Office Management Assistant. During Financial Year	14835
 Office Management Executive Office Management Assistants	14835
+Office of Technical Assistance	16984
 Official Development Assistance	1828,3416,1094,4994,24,1726,40,502
 Official Development Assistance PUL	5244
 Official Use Only Assigned Frequencies	736
 Official Use Only Social Assistance Program	10985
 Online Help Need Assistance	12282
+Operations MNSPS Herimpamonjy Mavoarisoa Program Assistant	17441
+Optimal Spectrum Assignment	16884
 Organs of ASSIMPER	15027
 Orphan Vulnerable Children Distribution of Social Assistance	12373
 Ouest. Assignation	16615
 Ousmane Fall. Assis	11745
+Overseas Development Assistance	16874
+P4 Social Assistance	17458
 PARSURAMEN Navina Assistant Parliamentary Counsel	14770
 PART VII Assistance Fund for Persons	13470
 PART X TECHNICAL ASSISTANCE	15641
@@ -775,25 +889,30 @@ Peter Miti Assistant Buildings Officer	13392
 Physician Assistants Year U.S. Government Liberia	4202
 Plan Regional Integration Assistance Strategy RAP	15424
 Planning the Assignment. Task	13922
+Plate Assignment	17142
 Ponctualité Assiduité Ethique	15780
 Pre-primarv Assistant	11180
+President Barrow Meets OIC Assistant Secretary	17347
 Previous Red Flags Assigned	15905
 Previous Red Flags Assigned Date	15905
 Princípios Gerais de Regulação Assimétrica	11430
 Prishnee Clerk Assistant Tayelamay	14753
 Procedural Law Assistance	26
-Procurement Assistant	2889,8636,3899
+Procurement Assistant	2889,8636,3899,1554
 Procurement Assistant Eleni Albejo	12195
 Procurement Assistants	1228
 Procurement Sub-Saharan Africa Technical Assistance Terms	15553
+Procurement TA Technical Assistance TADAT Tax	16949
 Procurement TA Technical Assistance TC Technical	13331,2290
+Procurement TA Technical Assistance TGR General	17458
 Procurement TA Technical Assistance TOR Terms	1264,5275
 Procurement TA Technical Assistance TORs Terms	15518
 Procurement TA Technical Assistance The Global	11560
 Procurement TA Technical Assistance UNDP United	11525
 Procurement TC Technical Assistance TLM Technical	11905
 Professor Brenda Musenge Assistant Director-EBS DODE	13392
-Program Assistant	10763,508,274,650,1115,2,2
+Program Assistant	10763,508,274,650,1115,2,2,3562,120
+Program Assistant MNSPS Ranaivoarivelo Heike P	17441
 Programa Alargado de Retoma Desportiva Nacional. Assim	15532
 Programa de Assistência Técnica	16022
 Programme Assistant	13310
@@ -804,10 +923,13 @@ Project Implementation Support and Technical Assistance	15983
 Project Management Unit TA Technical Assistance	1867
 Project Technical Assistance	15372
 Protection and Assistance	2106
-Protection and Assistance of Internally Displaced Persons	2106,8735,1059,879,2095,350,1470
+Protection and Assistance of Internally Displaced Persons	2106,8735,1059,879,2095,350,1470,733
+Provision of Assistance	16958
 Public Assistance	1371
 Public Research Organizations Technical Assistance	12389
+Public Schools Government and Government Assisted Schools	16852
 Public Welfare Assistance Committee	13332
+Pública. Assim	15554
 QCBS Technical Assistance	15372
 R. H. B. Rajubally Assistant	14835
 RAMGOOLAM-MOOLOO Swatee Assistant Systems Analyst	14770
@@ -823,16 +945,19 @@ Regime Jurídico da Assinatura Electrónica	8308,1
 Region Assistive	12977
 Regional Administration Assistant Civil Registration Officer	12970
 Regional Integration Assistance Strategy	15511
-Registration Assistant	12338
+Registration Assistant	12338,4522
+Registration Assistants	16860
 Regulations Act. Assistance	14736
 Relatório de Assistência Técnica	15912
 Republic of Mozambique. Assistance	12779
 Research Assistant	14812
+Resettlement Assistance	17114
 Resource Executive Office Management Assistant Support	14835
 Resources Assistant Manager Human Resources Human	14835
 Resources IAP Inventor Assistance Programme ICT	11250
 Rwanda Official Development Assistance Report	12333
 Rwanda Technical Assistance Facility	14935
+SATELLITE SPECTRUM FEES Earth Segment Assignment	17250
 SCOPE OF THE ASSIGNMENT AND DETAILED	15090
 SDGs Assistance	5655
 SE Mme Assia Bensalah Alaoui	8891
@@ -859,6 +984,7 @@ Senior Program Assistant ICT Sector Unit	15372
 Senior Sectional Engineer and Assistant Manager Engineering	6946
 Senior Special Assistant	2318,6506,576,2568
 Senior Special Assistants	1014
+Service Assignment Fee Notes FM Radio	17250
 Services Assimilés	1649
 Services Provided and People Assisted	12977
 Serviço de Telefonia Fixa Assim	16558
@@ -873,9 +999,12 @@ Skilled Assistance	15247
 Small Assignment	13037
 Small Assignments	13037
 Snr Communication Assistant	10864
-Social Assistance	2307,8678,870,518,290,811,299,1746,82,783
+Social Assistance	2307,8678,870,518,290,811,299,1746,82,783,518
 Social Assistance Act	2307,8032,4154
 Social Assistance Act. SASSA	6222
+Social Assistance Benefit	16902
+Social Assistance Benefit Disaster Compensation Benefit	16902
+Social Assistance Benefit The Social Assistance	16902
 Social Assistance Expenditure	10985
 Social Assistance Grants for Empowerment	3005,567
 Social Assistance MIS and Linking Social Protection	10822
@@ -884,16 +1013,21 @@ Social Assistance PER	15663
 Social Assistance Programme	3602
 Social Assistance Programmes	12373
 Social Assistance Programs	11998
+Social Assistance Programs and Delivery	16902
+Social Assistance Sector	16952
 Social Assistance Social Insurance Q5	10985
+Social Assistance Social Protection Social Solidarity	16902
+Social Assistance and Beyond	16867
 Social Assistance and Education	11245
 Social Assistance. Patient Monitoring	10775
 Social Insurance Labor Market Social Assistance	10985
-Social Registries for Social Assistance and Beyond	10819,314
+Social Registries for Social Assistance and Beyond	10819,314,5734
 Son Excellence le Colonel Assimi GOITA	15676
 Souraya El Assiouty	15519
 South African Assistant	9128
 South-South Cooperation Assistance Fund	13309
 Special Assistant	5235,5891,935
+Specialist Sanaa Bouchikhi Program Assistant Program	17441
 Spectrum Assignments	5245
 Spokesperson Sudan Under Secretary for Foreign Assistance	15092
 Statistical Assistant International Telecommunication Union	14098
@@ -907,17 +1041,21 @@ Strategic Use of Technical Assistance	13998
 Strengthen Mutual Legal Assistance Agreements	961
 Student-teacher Ratio TA Technical Assistance TC	15661
 Students Financial Assistance Fund NCTSP National	12923
+Subsidy Assistance Programme	16902
 Sudan Health Assistance and Response	14977
 Sudan. Assistance	14959
 Summary of Capacity Developments Needs Technical Assistance	13868
 T Assinant. Trim N-1 O II Trimestre	11574
+T4E Technology for Education TAI Technical Assistance	17196
 TA Technical Assistance	11965
 TA Technical Assistance TEI Team Europe	970
 TA Technical Assistance TSA Treasury Single	1284
 TA Technical Assistance TTL Task Team	15511
+TEMPORARY ASSIGNMENTS Category Fee Temporary	17250
 TERMES DE REFERENCE ASSISTANCE JURIDIQUE POUR	15585
 TERMS OF REFERENCE Technical Assistance	11862
 TF-D0339 Assignment Title	13925
+THANK YOU FOR YOUR ASSISTANCE	17149
 Tags Bureau of African Affairs Foreign Assistance	15092
 TaiwanICDF Assists Somaliland	15002
 Teacher Assistants	11230
@@ -926,15 +1064,17 @@ Teaching Assistance Programme. French Teachers	12972
 Teaching Assistants	10541,59
 Team Assistant	2989,7774,2,10,361,135,2041,2,1583,122
 Team Composition and Task Assignments Professional Staff	13037
-Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214,138,63,151,518,182,150,161,319,49,193,268,207,1094,1,273,17,102,57,1,164,271,39,142,106,310,14,671,21
+Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214,138,63,151,518,182,150,161,319,49,193,268,207,1094,1,273,17,102,57,1,164,271,39,142,106,310,14,671,21,424,136,223
 Technical Assistance Advisor	12500
 Technical Assistance Agreement	15574
 Technical Assistance Component	13054
 Technical Assistance Facility	1204
 Technical Assistance Facility for Youth	10841
-Technical Assistance Fund	15500
+Technical Assistance Fund	15500,1601
+Technical Assistance Fund for Middle-Income Countries UNECA	17101
 Technical Assistance Human Resources	14879
 Technical Assistance In-country	13042
+Technical Assistance Loan	17441
 Technical Assistance Mission	11134
 Technical Assistance Project	13042
 Technical Assistance Project Formal	13042
@@ -944,6 +1084,7 @@ Technical Assistance Project for Spectrum Management	13888
 Technical Assistance Report	969
 Technical Assistance Report No	14634
 Technical Assistance Report-Climate Policy Diagnostic	15983
+Technical Assistance Report-Redesign of Income Tax Forms	16955
 Technical Assistance Report-Report	14634
 Technical Assistance Report-Review and Evaluation	6938
 Technical Assistance Reports Volume	15983
@@ -955,12 +1096,14 @@ Technical Assistance and Capacity Building	14954,2,203,482
 Technical Assistance and Implementation Support	15515
 Technical Assistance and Training	691
 Technical Assistance for GTCR X	10776
+Technical Assistance for Investigations The MoU	17213
 Technical Assistance for Tariff Study	12233
-Technical Assistant	6936,3127,626,1177
+Technical Assistant	6936,3127,626,1177,5112
 Technical Assistants	13060
 Technical and Regulatory Technical Assistance	15372
 Technical and Related Assistance Agreement	4217
 Technology Assistance	12356
+Technology for Education Technical Assistance Initiative	17196
 Terms of Reference Technical Assistance	11941
 Tertiary Education Financial Assistance	12923
 Togo ASSIH	6613
@@ -976,9 +1119,11 @@ U.S. Department of Education Graduate Assistance	16024
 U.S. Government Strategic Assistance Funding	4153,14,50,132
 UMUTUNGO WA ASSIMPER Ingingo	15027
 UN Assistant Secretary-General	14084
+UN Assistant Secretary-General and UNDP Regional Director	16973
 UN Development Assistance Framework	14959
 UN Integrated Transition Assistance Mission	14959
 UNDP Assistant Administrator	14084
+Under Secretary for Foreign Assistance	17110
 Under the Social Aid Assistance Scheme	14742
 Under the Social Assistance Act	7581,886
 Unit Assistant Secretary General	14835
@@ -994,6 +1139,7 @@ WBG's Regional Integration Assistance Strategy for Africa	15372
 WFP's Differentiated Assistance Framework	12297
 Wake-Up Call for Social Assistance	10985
 Wave. Assistant Superintendent of Immigration Meita M	14260
+Welfare Corporation PDA Personal Digital Assistant	16843
 West Assiut	15473
 Woman Assistant Commissioner of Police	14760
 Woman Assistant Commissioner of Police WASP	14760

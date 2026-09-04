@@ -1,6 +1,7 @@
 AGREEMENT FOR THE TRANSFER OF ANONYMIZED	16189
 ANO ACADÉMICO	11472
 ANO Amoa Antoine	2342
+ANO LETIVO	17103
 ANOMALIE DE PRODUCTION DE BIOMASSE ANNÉE	16026
 ANOMALIE NORMALISÉE DE PRODUCTION DE BIOMASSE	16026
 ANONYMISED FOR REVIEW	12090
@@ -8,6 +9,7 @@ ANONYMOUS	8726
 ANONYMYSED FOR REVIEW	12090
 ANOPER	16359
 ANOR ANTIC API APICCAM ARMP ARSEL	15542
+ANOTHER INDIVIDUAL	17127
 ANOTHER POWER GRAB	10581
 ANOVA	1212,1736,5127
 ASSINATURA Ano	11365
@@ -25,15 +27,18 @@ Ano Introdução	15772
 Ano Judicial	5272,5480
 Ano Letivo	15772
 Ano OBJETIVOS ESTRATÉGICOS Peso	15535
+Ano Taxa	17100
 Ano de Fabricação	11532
+Anobon Anobon	16942
 Anodized	11269
 Anofi D. US-Nigeria	7187
 Anold Brouwer	13477
 Anolyse	15429
 Anoma	10718
-Anomalie	16026
-Anomalies	10876,3670
+Anomalie	16026,975
+Anomalies	10876,3670,2455
 Anomalies Promptly	15061
+Anomalies des Précipitations Anomalies	17001
 Anomaly	14900,815
 Anomaly Detection	10721,510
 Anomaly Hotspots of Agricultural Production	16291
@@ -51,7 +56,7 @@ Anonymity	8864,5802
 Anonymization	6518,1193,3064,199
 Anonymize	10775
 Anonymized	3861,10805,124
-Anonymous	6423,658,1881,60,4510,1228
+Anonymous	6423,658,1881,60,4510,1228,2339,144
 Anonymous Sudan	3983
 Anorld Malcom	9738
 Anorlu	15321
@@ -67,7 +72,7 @@ Anosy. Sept	14492
 Anosy. Sous	14580
 Anotar	16325
 Anotações	11532
-Another	193,43,160,36,1,111,38,189,128,62,48,6,228,5,306,31,110,119,14,169,120,174,16,11,200,1,38,20,100,2,63,205,23,9,9,24,34,130,57,1,56,95,32,166,10,449,3,105,218,71,3,152,82,77,110,139,20,14,131,112,235,56,130,451,60,28,74,80,84,173,29,13,13,129,151,45,148,2,7,33,58,35,85,12,13,3,11,111,48,100,50,5,45,63,28,41,8,78,8,3,68,15,6,16,77,38,96,1,34,61,1,22,30,98,4,4,1,7,56,10,36,78,36,97,53,17,60,70,2,9,17,106,66,114,12,52,37,32,52,73,68,2,20,30,23,50,39,16,70,40,41,11,37,25,4,95,10,11,32,17,76,24,19,56,66,20,8,90,25,34,15,12,1,25,11,7,22,11,4,5,3,65,11,23,1,3,12,96,42,14,2,1,2,7,13,14,28,50,324,56,26,12,54,77,60,3,56,38,21,15,3,1,9,22,26,7,83,33,40,7,10,15,9,15,8,19,30,1,2,5,2,1,31,34,10,6,26,52,3,91,176,155,14,5,3,12,23,3,2,21,8,11,13,3,13,100,82,60,19,18,26,18,58,27,43,28,65,28,56,257,278,18,38,23,33,16,58,58,235,13,36,4,18,9,40,38,44,25,75,18,34,7,1,63,9,205,8,69,13,23,26,7,11,62,18,30,3,109,543,517,42
+Another	193,43,160,36,1,111,38,189,128,62,48,6,228,5,306,31,110,119,14,169,120,174,16,11,200,1,38,20,100,2,63,205,23,9,9,24,34,130,57,1,56,95,32,166,10,449,3,105,218,71,3,152,82,77,110,139,20,14,131,112,235,56,130,451,60,28,74,80,84,173,29,13,13,129,151,45,148,2,7,33,58,35,85,12,13,3,11,111,48,100,50,5,45,63,28,41,8,78,8,3,68,15,6,16,77,38,96,1,34,61,1,22,30,98,4,4,1,7,56,10,36,78,36,97,53,17,60,70,2,9,17,106,66,114,12,52,37,32,52,73,68,2,20,30,23,50,39,16,70,40,41,11,37,25,4,95,10,11,32,17,76,24,19,56,66,20,8,90,25,34,15,12,1,25,11,7,22,11,4,5,3,65,11,23,1,3,12,96,42,14,2,1,2,7,13,14,28,50,324,56,26,12,54,77,60,3,56,38,21,15,3,1,9,22,26,7,83,33,40,7,10,15,9,15,8,19,30,1,2,5,2,1,31,34,10,6,26,52,3,91,176,155,14,5,3,12,23,3,2,21,8,11,13,3,13,100,82,60,19,18,26,18,58,27,43,28,65,28,56,257,278,18,38,23,33,16,58,58,248,36,4,18,9,40,38,44,25,75,18,34,7,1,63,9,205,8,69,13,23,26,7,11,62,18,30,3,109,543,517,42,43,3,6,5,44,6,2,3,15,7,1,10,3,3,5,4,10,11,15,32,71,95,31,5,81,38,3,49,3
 Another AI	14686
 Another API	12490
 Another Afrobarometer	10453
@@ -111,8 +116,10 @@ Carlton Anosy. Menée	7995
 Centre de Dépistage Anonyme Volontaire CENAMES	15685
 Chairman Saïd Toorbuth Member Ishwar Anoopum	14744
 Chilima and Another	13040
+Cinco Anos	17093
 Commissioner for Budget and Planning Mr Kingsley Anosike	5072
 Commune Anosizato Ouest. Il	14489,1
+DO NOT ALLOW ANOTHER	17127
 Daniel Anougba	3249
 Data Culture Another	15765
 De-identified and Anonymised Personal Data	962
@@ -120,14 +127,19 @@ Desire for Another Child	15247
 Digital Service Authentication and Cybersecurity Another	14752
 Discuss. Another	5822
 Diários Ano	539
+ESI Anomaly Drought Class Vegetation Response	17157
 El-Hadj Affissou Anonrin	4162
 Electronic Transmission Another	2117
+Equatorial Guinea. Another	16996
 Ethiopia. Another	10653
 Finances Anosy	14527
 Fitovinany Atsimo Andrefana Atsimo Atsinana Anosy	14622
+GENERA L PROVISIONS ANO POLI CY	16851
+GRACE TWS Anomaly Classification	17157
 GRADUADOS NO ANO ACADÉMICO	11391
 GREEN-PAY Managing Director Anouar Traboulsi	4627
 Gasabo Another	12328
+Groundwater Storage Anomalies	17157
 Havoria Anosy	14491
 I C- Laptop D- Another	582
 IDs.55 Another	12227
@@ -149,9 +161,11 @@ Karim Oscar ANONRIN Le Bénin	2792
 Kenya. Another	9738
 Kira. Another	9696
 L'INSTAT Anosy	14495
+LEGAL ANO REGULATORY FRAMEWORK Chapter	16851
 Las Anod	2719
 Learners Who Were At Another School	11180
 Lesotho. Another	12646
+Lofa County. Another NGO	16970
 Logistics Creates Another Headache Jacqueléne Coetzer	9930
 Ltd and Another	2307
 Léonce Ano	6014
@@ -173,7 +187,9 @@ Monsieur ANO Amoa Antoine	2342
 Mutharika and Another	13040
 NDPA. Another	11993
 NDVI ANOMALIES BY PROVINCE Data	10763
-NDVI Anomaly	13750
+NDVI Anomaly	13750,3407
+NDVI Anomaly Water Reserve Status Response	17157
+NEVER REPLACE AN INDIVIDUAL WITH ANOTHER	17127
 NIPS. Another	10075
 Nansana. Another	9696
 Nasser Another	15473
@@ -198,6 +214,8 @@ REQUEST FORM FOR TRANSFER OF ANONYMIZED	16189
 RGPH-4 Carlton Anosy	14607
 Raharaham-bahiny Anosy	14457
 Rainfall Anomaly	14900
+Rainfall Anomaly Index Agricultural NDVI	17157
+Recklessly Endangering Another Life	16935
 Regiões Nº de Conservatórias Nº de Postos Anos	11537
 Republic of Mozambique. Anonymization	3861
 Republic of Namibia and Another	12959
@@ -221,11 +239,13 @@ SÍNTESE DOS GRADUADOS NO ANO ACADÉMICO	11391
 TDA and Another	15473
 Technopolis Group M. Sami ANOUAR	14472
 Terms of Use of Anonymized Microdata for Scientific Purposes	16189
+Thermal Anomalies	17140
 Tipo de Pagamento Simplificado Anotações	11532
 Transfer of Anonymized Microdata for Scientific Purposes	16189
 Transfer of Anonymized Microdata for Scientific Purposes URL	16189
 Turma Ano	16325
 Unitas Hospital and Another	2307
 WORKING DEFINITIONS Anonymisation	961
+Water Anomaly Threshold	17157
 World Doesn't Need Another UN	7112
 Zero Hunger. Another	14758

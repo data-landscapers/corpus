@@ -2,6 +2,7 @@ A. Biramaze	13300
 A. Births	14714,1
 ABBREVIATIONS BRR Birth	10714
 ACRONYMS CBR Crude Birth Rate	12367
+ADOLESCENT BIRTH RATE	16892
 AEH LA BANOUE MONDIALE BIRD.l0A	14479
 ASBR Age-Specific Birth Rate ASFR Age-Specific	12413
 Abbreviations ABN Acknowledgement of Birth Notification AG	12151
@@ -11,16 +12,19 @@ Accelerating Birth Registration and Leave No Child	12051
 Acknowledgement of Birth Notification	14461
 Acronym Definition LRB Late Registration of Birth	5533
 Acronyms and Definitions BC Birth Certificate CSOs	12328
+Adolescent Birth Rate CBR Crude Birth	16950
 Advancing Birth Registration	13681
 All Birth Registrations	11218
 Amanuel Biru	1824
 Amendment of Birth Record Note	12216
+Anna Birdsall-Strong	17467
 Application For Registration Of Birth	12151
 Application for Child's Current Birth Certificate	6783
 Application for Registration of Birth	12367
 Article Google Scholar Birhane	9739
 Asaye Birhanu Senay	12255
 Assistant Registrar-General of Births and Deaths	13285
+Association Biruni Remote Sensing Center Civil	16916
 Average Birth Weight	12413
 Aysha and Debre Birhan	12233
 BADOYI Eliane EDITION DES DONNÉES BIRATASE	13300
@@ -53,11 +57,13 @@ BIRTHS AND DEATHS REGISTRATION ACT	11176,2109,1176
 BIRTHS AND DEATHS REGISTRATION ARRANGEMENT	12523
 BIRTHS AND DEATHS REGISTRATION DISTRICTS	13285
 BIRTHS AND DEATHS REGISTRY	15628
+BIRTHS NA	16892
 BIrbe	5349
 BIron	5349
 BMD Births	12970
 Baker Birikujja	3312,923,4055,2126
 Baker Birikujja AG. NATIONAL PERSONAL DATA	3307
+Basilé Peak National Park. BirdLife Data	16996
 Besides the Births and Deaths Registration Act	12151
 Billion Birr	1798,173
 Billion Birr Additional Budget Addis Ababa	1971
@@ -81,7 +87,10 @@ Biratu Yigezu Director General Central Statistical	13965
 Birch	6947,5143
 Birch and Cochrane	7789
 Bird's Peter Swire	8773
-Birds	1988
+BirdLife Data Zone. BirdLife International	16996
+BirdLife DataZone. Retrieved	16996
+BirdLife International	16996
+Birds	1988,15055
 Birdwatching	8550
 Birembo and Shango	12358
 Birgunj	15478
@@ -92,6 +101,7 @@ Birikujja	3312,7104
 Birindabagabo P	10784
 Birine ISO	16103
 Birine SONATRACH Révision Div. ISO	16103
+Birkama Ba Health Center	16922
 Birkhadem	15863
 Birkmann	10964
 Birkstedt	11156
@@ -114,12 +124,12 @@ Birr1651.9	5655
 BirrMetrics	10496
 Birta Dheer	15075
 Birta Dheer Golis Telecom Data Center	15075
-Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191,168,103,35,94
+Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191,168,103,35,94,1213,40,71,5,265
 Birth As-	12151
 Birth Asphyxia	12151
 Birth Asphyxia Asphyxia	12151
 Birth Attestation	10765,10
-Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452
+Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19
 Birth Certificate Access Changes Lives	12227
 Birth Certificate No	14713
 Birth Certificate Number	13477
@@ -127,24 +137,32 @@ Birth Certificate Online	6783
 Birth Certificates	445,3812,6518,1516,37,9,159,603
 Birth Certificates Available Fees	14045
 Birth Certificates and Identity Documents	12972
+Birth Certification	16860
+Birth Certification Center	16860
 Birth Complica-	12151
 Birth Death Marriage Divorces Cause	15056
 Birth Figure	10765
 Birth Identification Number and Death Identification Number	13005
 Birth Intervals	13454,1793
-Birth Notification	14137
+Birth Notification	14137,2723
 Birth Notification Number	12337
 Birth Notification Number CRVSID	12337
 Birth Optimisation Strategy	11218
 Birth Order	12413
 Birth Pregnancy	12151
+Birth Project	16993
 Birth Registered	10765,10
-Birth Registration	445,2330,1482,3407,3101,10,37,10,396,722,46,165,65,11,23,41,37,39,39,266,423,359,190,493,1110
+Birth Registration	445,2330,1482,3407,3101,10,37,10,396,722,46,165,65,11,23,41,37,39,39,266,423,359,190,493,1110,1613,89,22
+Birth Registration Birth Registration	16971
+Birth Registration Center	16860
+Birth Registration Centers	16971
 Birth Registration Completeness	12151,1493
 Birth Registration Completeness Between	12151
 Birth Registration Confirmation	10765,10
 Birth Registration Data	10714
 Birth Registration Exercise	12291,924
+Birth Registration Form	16860
+Birth Registration Health	16860
 Birth Registration ID and Related Services ID	12406
 Birth Registration Kenya	12151
 Birth Registration Legal Concepts Linkage	13148
@@ -152,17 +170,28 @@ Birth Registration Marriage Registration Death Registration	10814
 Birth Registration Matters	12005
 Birth Registration Mozambique's Civil Registration Code	12167
 Birth Registration Participants	12328
+Birth Registration Pilot Results Helen Nyangoya	17070
+Birth Registration Policy	16860
 Birth Registration Process	15628
+Birth Registration RED Reach Every District	16971
 Birth Registration Rate	15415
 Birth Registration Rate. Economy Foundational ID	10714
+Birth Registration Resources The Ministry of Health	16860
 Birth Registration Simplification Act	10765,10
 Birth Registration Simplification Law	10775
+Birth Registration Situation Analysis	16860
 Birth Registration Special Cases Birth	12216
 Birth Registration Statistical Report	15628
+Birth Registration Trends	16860
+Birth Registration Unit	16971
 Birth Registration Zambia Responsive Image Zambia	12406
 Birth Registration and Birth Certificates Currently	12328
 Birth Registration and Certificates Figure	10765
 Birth Registration and Certificates for Children Under Age	10765,10
+Birth Registration and Certification	16860
+Birth Registration and Certification Every	16860
+Birth Registration and Certification Process	16860
+Birth Registration and Certification Process for Child	16860
 Birth Registration and Issuance	10775
 Birth Registration and Justice for Children	10765,10
 Birth Registration and Legal Identity	16592
@@ -175,15 +204,18 @@ Birth Registries	10765,10
 Birth Registry	10765,10
 Birth Registry Extraction	10765,10
 Birth Report	12216
-Birth Report Form	12216,1
+Birth Report Form	12216,1,4643
 Birth Section	10034
 Birth Services	12333
 Birth X Minimum	12138
 Birth and Death	13005
 Birth and Death Certificate Registration Requirements	12496
-Birth and Death Registration	13244
+Birth and Death Policy	17416
+Birth and Death Registration	13244,3727
 Birth and Death Registration Act CAP	1867
 Birth and Death Registration Act. Submission of Draft	11986
+Birth and Death Registration and Certification Policy	16860
+Birth and Death Registration and Certification Policy URL	16860
 Birth and Death Registrations	12944
 Birth and Death Registry	15647
 Birth and Death Tables	12672
@@ -194,7 +226,7 @@ Birth-to-ID Continuity	14655
 Birth. Dep. Chief Registrar Oversees	12064
 Birthday	6553,6424
 Birthday Charity Run of Chief of Defence Forces	9781
-Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151,572,97,795
+Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151,572,97,795,376,26,121
 Births Abroad Birth	12216
 Births And Deaths Is Declared	12138
 Births And Deaths Registration Act Subsidiary	12138
@@ -235,6 +267,7 @@ Births and Deaths Registry's DDF-supported	16592
 Births and Deaths Registry. GNA	16206
 Birthwell Mbirintengerenji	12952
 Birtouta	15608
+Biruni Remote Sensing Center	16916
 Birutsya Charles and Birungyi Ruth	7772
 Blanche Birger Co Ltd	14783
 Blanche Birger Co. Ltd	14802
@@ -264,17 +297,21 @@ Concealment of Birth Act	1
 Confirmation of Birth	11282
 Continuous Birth	12241
 Continuous Birth Registration	12241
+Coverage of Birth Registration Birth	16860
 Crude Birth Rate	12151,216,16,30,58,201,2384
 Crude Birth Rate CDR Crude Death	15056
 DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
 Daily Nation. Birth	12138
 Damaged Birth Certificate Note	12216
 Date of Birth	2291,1271,7714,585,420,129,621,6,270
+Date of Birth Contact	16955
 Date of Birth DD MM YYYY Gender	14740
 David Birch	11705
 Dawit Birhan	1824
 Dawit Birhanu	12272
-Delayed Birth Registration	12216
+Decentralizing Birth Registration	16971
+Delayed Birth Registration	12216,4644
+Delayed Birth Registration Registration	16860
 Deputy Registrar-General of Births and Deaths	13285
 Digital Birth Registration	2669
 Digital Birth Registration Process	12328
@@ -290,6 +327,7 @@ EDEN Information System for Birth Registration INSD	10812
 Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2,58,3,6,151,205,4,2,6,160,169,1,1,2882,1,1,1,1,1,311,1,2
 Early Birth Registration	11274
 Early Registration of Birth	3200
+Edition of Candonga de Justiça Birth	17369
 Egyptian Birth and Death Registration System	15462
 El Hamadia Baghlia Bir Bouhouche Hadjout	15690
 Electronic Birth Registration	12051
@@ -306,18 +344,23 @@ External Birth Certificates	12496
 F SOCIETE GUINEAN BIRIMIAN GOLD SARL	16623
 FIRST LADY PARTNER ON BIRTH REGISTRATION	11915
 FOREIGNERS WHO ARE ETHIOPIAN BY BIRTH	14004
+FULL BIRTH AND DEATH REGISTRATION Completeness	16892
 Family Registration System Birhanu Gurmu Victoria	14137
 Fatih Birol	11572
 Females102.7 Males Births	15056
+Fencing Birds	17043
+Financing Birth and Death Registration	16860
 First Birth	15247
 Fleur Birba Patricia TAONSGO	5722
 Foreign Births Registration By Sex	12151
+Foreword The Birth and Death Registration and Certification	16860
 Free Birth Registration	5609
 Full Birth Certificate	12337
 Full Birth Certificates	12337
 GEF Gabon Statistical Development Project BIRD	15500
 GLOBAL BUSINESS CONGO Mme IBATTA BIROKENGO	15744
 Gabon BIRD Ministère	15500
+Gambia Birth and Health Insurance Registration	16922
 Gambian Birth Certificate	12085
 Ghana Births and Deaths Registry and Health Service	16592
 Guay and Birch	11028
@@ -330,6 +373,7 @@ HENRIETTA LAMPTEY Ag. REGISTRAR OF BIRTHS	15628
 Harmonised Births and Deaths Registry Portal	9535
 Health Facility Births	12151
 Home Births	12367
+Honourable Birom J.S. Sowe	16914
 Hospital Data Management Module for Births Registration	12186
 Included the Birth Entry Number	14655
 Increasing Birth Registration	61
@@ -349,33 +393,42 @@ King's Birthday	13153
 Kings Birthday	12971
 Kinyarwanda Illustrations of Digital Birth Registration	12328
 LAIS'. Birasaba	15110
-LIVE BIRTHS	12064
+LIVE BIRTHS	12064,4828
+LOW BIRTH WEIGHT PREVALENCE AMONG INSTITUTIONAL	16892
 Lagos Man Visited Birth Registration Website	10034,231
-Late Birth Registration	12216
+Late Birth Registration	12216,4644
 Late Birth Registrations	12947
 Late Registration of Birth GEWE Gender Equality	11986
 Late Registrations of Birth	3200
 Late and Delayed Birth Registration	12216
 Legal Framework for Birth Registration	10822
 Leonie Mariovich Births	10828
+Liberia Birth and Death Registration Policy. Yah	16860
+Liberia's Birth and Death Registration Policy	17416
+Liberia’s Birth and Death Registration Policy	16860
 Life Counts Appendices A. Birth	12151
 Life Counts Besides the Births and Deaths Registration	12151
 Life Counts Birth	12151
 Linking Birth Registration	12057
 List of Abbreviations and Acronyms BDR Births and Deaths	15628
+List of Acronyms and Abbreviations BR Birth Registration	16860
 Live Birth	12151
 Live Births	10780
 Live Births and Sex	12672
 Low Birth Weight	12413,2643
 Luanda BIRO CAETANO MWEFEKA NASCIMENTO	10751
+MOH Births and Deaths Registry	16922
+MOH DPI Births	16922
 Malawian Birth Certificate	12216
 Male Country Of Birth Male Female	12151
 Million Birr	7538
 Millions Birr	5655
-Mobile Birth Registration	10822
+Ministry of Health and Social Welfare Birth	17011
+Mobile Birth Registration	10822,6038
 Mobile Driving Licence and Birth Certificate	14752
 Mohamed Bireche	15467
 Mohammed Birouaine	8891
+Montserrado. Birth	16860
 Mr. David Birech	14505
 Mrs. Eunice A. Biritwum	15740
 Multi-Billion Birr Accounting Failure	7909
@@ -398,6 +451,7 @@ Namibian Birth Certificate and New Namibian Driver	12350
 National Birth	12241,50,1390
 National Birth Registration	12291
 National Birth Registration Campaign	4642,7649,804,4,116
+National Birth and Death Registration Policy	16971
 National ID Birth	12216
 National ID Birth Death Resident	12241
 National IDs and Birth Certificates	13080
@@ -415,10 +469,12 @@ Online Birth Registration System	3200,8786
 Original Birth Certificate	11282,1055
 PART III REGISTRATION OF BIRTHS AND ADOPTED	12898
 PDPO National Director Baker Birikujja	11173
+PROPORTION OF BIRTHS ATTENDED BY SKILLED	16892
 Particulars of Records of Birth	12226
 Phase One of National Birth Registration Campaign	12291
 Phyllis BiroriJohannesburg	3697,1687,800
-Place of Birth	13307
+Place Of Birth	16921
+Place of Birth	13307,3614
 Place of Birth and Recent Migration	15247
 Place of Registration of Birth	12226
 Population.2. Births	14410
@@ -434,6 +490,7 @@ REGISTRATION OF LIVE BIRTH PROCEDURE	12338
 Random House. Birhane	11050
 Recorded Live Births	12005
 Register Birth	12226
+Register of Births	16860
 Registered Births	2775,10869
 Registered Births. Deaths and Marriages	12413
 Registered Live Births	12151
@@ -441,6 +498,7 @@ Registrar of Births	1
 Registrar of Births and Deaths	12523,762
 Registrar-General of Births and Deaths	13286,29
 Registrar-General of Births and Deaths for Zambia	13285
+Registration Personnel Birth	16860
 Registration of Birth	12496
 Registration of Births	12944,61
 Registration of Births and Death Act	12151
@@ -493,6 +551,7 @@ Trillion Birr Budget for Upcoming Ethiopian Fiscal	1798
 Trillion Birr Federal Budget	7091
 Type Billion Birr	5655
 Téné Birahima Ouattara	2418,8524,1,3377
+UBR Universal Birth Registration UNCRC United	16860
 UNICEF and Ghana’s Births and Deaths Registry	10822
 Universal Birth Registration	11977
 University of Birmingham	9145,5591
@@ -508,3 +567,4 @@ Year of Registration of Birth	14713
 Year the Births and Deaths Registration Law	10822
 Yury Birukov	12504
 Zambia Legal Analysis Birth	12406
+Zone. BirdLife International	16996

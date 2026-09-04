@@ -47,6 +47,7 @@ Concurrent Jurisdiction of Courts	13948
 Conseiller Juridique	16099,76,206
 Consulta Jurídica	10753
 Contribuições Juros	11532
+County Jury Management Team	16943
 Court of Rodrigues Jurisdiction Act. The Judicial	14742
 Criminal Jurisdiction	14720,127
 D Jurisdiction	972
@@ -89,6 +90,7 @@ Empresa Pública Natureza Jurídica Sociedade Anónima	10757
 Empresa Pública Natureza Jurídica Sociedade Sociedade	10757
 Enquadramento Jurídico O Ministério Público	9176
 Especialidade Jurídico-Forenses	9176
+Estado. TÍTULO III RÉGIMEN JURÍDICO	16855
 Estudos Jurídico	15526
 Ethiopian Territorial Jurisdiction	13948
 Execução de Actos Jurídicos Internacionais	9799
@@ -100,7 +102,7 @@ FISCALÍA DE JURIDICCIÓN MALABO LUBA ANTONIO	4209
 FORMATION AND JURISTIC PERSONALITY OF CLOSELY	3714
 FORME JURIDIQUE DU TITULAIRE	15394
 Fiscal Jurisdicción Militar	4209
-Forma Jurídica	10753
+Forma Jurídica	10753,6106
 Formação Jurídica	10752
 Formc de I'Avis Juridique Destinatairc	15399
 Francine GAHIMBARE Emelyne JURURYIZA Florence GAHUNGU	13300
@@ -117,6 +119,7 @@ INSTITUTIONNEL ET JURIDIQUE	15493
 ISSUES DU NOUVEAU CADRE JURIDIQUE	2342
 IV. CADRE JURIDIQUE	14488,2
 Ile Marenga Bwishyura Juru Karenge Mpanga	12413
+Improved Constitutional Rights Litigation Jury	16943
 Informações Jurídicas	10753
 Instrumento Jurídico Regulador	163
 International Commission of Jurists	1642,9008,435
@@ -128,6 +131,7 @@ JE JURE DEVANT DIEU ET DEVANT	15603
 JURIDIQUE	14488,1
 JURIDIQUE DU PORTEFEUILLE DE L’ÉTAT L’année	2342
 JURIDIQUES	16099,76
+JURISAI	17492
 JURISDIC.MILITAR.- Concepto	4209
 JURISDICTION	11190
 JURISDICTION AND GOVERNANCE	12161
@@ -139,11 +143,13 @@ JURÍDICOS	4209
 JURÍDICOS INNOVACIÓN SOCIAL BIOKO SUR ANNOBON	4209
 Janeiro. O Regime Jurídico de Facturas	4203
 Joris Jurriëns	5718
+José Ayong NDONG Asesor Jurídico de INEGE	16898
 Jur River Activist	3212,2216,578
 Jurafsky	2816
 Jural	11956
 Juralvie Esther	15692
 Juridical	12146
+Juridicial	16855
 JuridicoAI	2816
 Juridiction	3396,9945,2154,406
 Juridiction des Comptes	10981
@@ -153,11 +159,15 @@ Juridique	1218,29,3816,40,4303,1302,968,2861
 Juridique Transverse. Rapport Annuel	2342
 Juridiques	15670,711
 Jurique	15585
+Juris	16855
 Juris Doctoris	15670
 Jurisai	11473
+Jurisdiccional	16855
+Jurisdiccionales	16855
 Jurisdicción Militar	4209
 Jurisdicción Militar Inspector Regional Ministerio Jefe	4209
 Jurisdicción Militar Servicio	4209
+Jurisdicción Ordinaria	16855
 Jurisdiction	26,757,189,2815,74,815,220,406,1130,148,4599,2,683,112,326,87,539,1020,461,13,298,39,1,87
 Jurisdiction CHAPTER	11190
 Jurisdiction Notwithstanding	14720
@@ -173,7 +183,7 @@ Jurisdiction of National Courts ARTICLE	14409
 Jurisdiction of Tribunal	12549
 Jurisdiction of Tribunal Tenure	12549
 Jurisdiction the Nigeria Revenue Service	11976
-Jurisdictional	431,3356,155,8360,2695
+Jurisdictional	431,3356,155,8360,2695,1946
 Jurisdictional Complexity and Regulatory Overlap	4848
 Jurisdictional Conflict and Judicial Rebuke	7909
 Jurisdictional Sovereignty	3787
@@ -191,11 +201,13 @@ Jurlic. T.ovoit MDIENSISPTERRoEGRDEAML'MECEOs NDOEMDIEE	15399
 Jurnal Hasil Penelitian	2093
 Jurnal Kependidikan	2093
 Jurnal Mantik	4432
-Juros	11435,97,486
+Juros	11435,97,486,5082
 Jurvel Daci	15524
+Jury Management Offices	16943
 Jurídica	11518
 Jurídico	539,10909,1334,2744
-Jurídicos	539,8719,2178
+Jurídico Regulador	16855
+Jurídicos	539,8719,2178,5469,487
 Jurídicos. Resolução	539
 Kenya Jurisdictions	14932
 LA RÉPUBLIQUE ET DES AUTRES JURIDICTIONS	15703
@@ -211,6 +223,7 @@ Le Service des Affaires Juridiques	13301
 Legal Jurisdiction Contract	6432
 Legal and Jurisdictional	3787
 Lei da Cooperação Jurídica	6970
+Ley de Régimen Jurídico	17022
 Luanda Luanda JURANDIRA ISABEL FERREIRA	10751
 M. Steeve NGOROGO. DIRECTION JURIDIQUE	16381
 MANAGEMENT Assistant Juridique	15674
@@ -239,6 +252,12 @@ Opinion Juridique	15399
 Ordenamento Jurídico Angolano. ARTIGO	539
 Ordenamento Jurídico Marítimo Nacional	15263
 Ordenamento Jurídico de Angola	539,10
+Ordenamiento Jurí	16855
+Ordenamiento Jurídico	16855
+Ordenamiento Jurídico Ecua	16855
+Ordenamiento Jurídico Ecuatogui	16855
+Ordenamiento Jurídico Na	16855
+Ordenamiento Jurídico Nacional	16855
 PART III EXTRA TERRITORIAL JURISDICTION	12928
 PERSONAL JURISDICTION OVER DATA CONTROLLERS	3861
 PERSONNALITE JURIDIQUE	15347
@@ -248,6 +267,7 @@ Participating Jurisdiction	11233
 Participating Jurisdiction Financial Institution	11233
 Participating Jurisdictions	11233
 Personal Jurisdiction Over Data Controllers and Processors	3861
+Personas Jurídicas	16859
 Position Jurisdictional	14997
 Princípio da Juridicidade	11388
 Proibição de Juros	10755
@@ -268,6 +288,7 @@ Regime Jurídico Assim	15526
 Regime Jurídico Especial	16022
 Regime Jurídico Geral	15912
 Regime Jurídico Geral de Protecção de Dados	2345
+Regime Jurídico Geral de Proteção de Dados	15554
 Regime Jurídico Geral de Transportes	11983,4039
 Regime Jurídico Subsidiário	10747
 Regime Jurídico da Actividade de Inspecção	11452
@@ -288,6 +309,7 @@ Regime Jurídico de Acesso	11448
 Regime Jurídico de Cibersegurança	15504
 Regime Jurídico de Organização	15477
 Regime Jurídico de Protecção de Dados Pessoais	12813
+Regulatory Roaming Frameworks Jurisdiction Regulatory	17212
 Relatório de Diagnóstico Jurídico Institucional	11456
 Renforcement du Cadre Juridique Relatif	15585
 Reportable Jurisdiction	11233
@@ -299,7 +321,7 @@ Rigor Jurídico	11448
 Roadmap Jurídico Institucional	11448
 Roadmap Jurídico Institucional Framework de Conformidade	11448
 Références Juridiques Contenu Code des Marchés Publics	10876
-Régimen Jurídico	9543
+Régimen Jurídico	9543,7312,16,241
 Régulation Juridique	10975
 Régulation Régulation Juridique Gouvernance	10975
 SECTION IV OES COMPETENCES DES JURIDICTIONS	15429
@@ -322,6 +344,9 @@ Territorial and Personal Jurisdiction	3861
 Third Party Jurisdiction	12185
 Transparency of Data Movement Across Jurisdictions Backup	6432
 Tribunais da Jurisdição Comum. MINISTÉRIO DA JUSTIÇA	10752
+Tutela Jurisdiccional	16855
+TÍTULO II RÉGIMEN JURÍDICO DE CONSERVACIÓN	16855
+TÍTULO III DEL RÉGIMEN JURÍDICO	16855
 UN CADRE JURIDIQUE PROTECTEUR POUR	2695
 Veille Juridique	16175
 Veille Juridique Chef de Service	16099

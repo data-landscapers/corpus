@@ -18,14 +18,16 @@ Dec-2021 Moderately Satisfactory Moderately Unsatisfactory	15601
 Digitally Unstoppable	9102,1
 Documents Contacts UNSPSC	13694
 Drugs and Crime UNSDCF United Nations Sustainable	15725
+Drugs and Crimes UNSDCF United Nations Sustainable	16943
 Framework for AI-Ready Unstructured and Fragmented Data	12760
-Fund USSD Unstructured Supplementary Service Data	13312,2
+Fund USSD Unstructured Supplementary Service Data	13312,2,3628
 GM. The UNSPR	15663
 High Unserved Energy Week	11228
 Highly Unsatisfactory	10779
 Highly Unsatisfactory. Current	15019
 Highly Unsatisfactory. Project Mgmt Procurement FM	14010
 IFI UNSD Increased	15901
+Iso Cluster Unsupervised Classification	16875
 Jul-2013 Moderately Satisfactory Moderately Unsatisfactory	15511
 Jun-2021 Moderately Satisfactory Moderately Unsatisfactory	15601
 Long Outstanding and Unsupported Accounts Payable Balance	14546
@@ -66,24 +68,32 @@ Solar PV Unsolicited IPPs Omburu Sun	12399
 Solar PV Unsolicited IPPs Sun EQ	12399
 Statistics. UNSD	14895
 Trade and Development Universal Service Fund Unstructured	15480
+UI User Interface UNSD United Nations	16942
+UNDP UNFPA UNICEF UNITAR UNCDF UNSDCF	16973
+UNICEF United Nations Children Fund UNSDCF	16941
+UNSAFE WASH SERVICES	16892
 UNSC Reform	11183
 UNSC Resolution	11210
 UNSC. Summit	12640
-UNSCR	14809
+UNSCR	14809,2142
 UNSCRs	14809
 UNSD Division	16104
 UNSD Energy Balances	12261
 UNSD Proportion	15901
 UNSD United Nations Statistics Division USD	11572
 UNSD United Nations Statistics Division WFP	15415
-UNSDCF	10776,2186,24,109,2630,241
+UNSDCF	10776,2186,24,109,2630,241,977,30,316
 UNSDCF Cycle United Nations Sustainable Development	15039
 UNSDCF Outcome	13095
+UNSDCF United Nations Sustainable Development Cooperation	17289
+UNSDCF and CCS	17289
 UNSDCF for Egypt. The UNSDCF	15725
 UNSDCF. The World Bank	15725
 UNSDWebsite	6337,7487
 UNSGSA Secretariat Inclusive Finance for Development Bill	1486
-UNSMIL	10409
+UNSMIL	10409,6507,241,107,139
+UNSMIL and UNDP	17264
+UNSMIL-facilitated Political Roadmap	17403
 UNSPR	15663
 UNSPR and UNR	15663
 UNSPR and UNR. Payment	15663
@@ -94,12 +104,15 @@ UNs’ Warning	8629
 USPF Table of Unserved Clusters Cluster Geopolitical	11857
 USPF Unserved Population Cluster Map Q4	11857
 USSD Unstructured Supplementary Service Data UxD	396
+Unauthorized Unauthorized Unauthorized Unsatisfactory	17235
 United Nations Children's Fund UNSDCF United	12962
 United Nations Refugee Agency UNSDCF	10776
+United States Dollars USSD Unstructured Supplementary	16876
 Unsafe	1264,2597,9102,603,1907
 Unsafe Containers Sierra Leone Confirms Measles	4619
 Unsatisfactory	1216,5712,7082,1009,492
-Unsatisfied	14766
+Unsatisfied	14766,2383
+Unsatisfied Undecided	17149
 Unsecured	11131,67
 Unsecured Credit Purposes	13532
 Unsecured Short Term Development Credit	11198
@@ -114,7 +127,7 @@ Unserved Rural Infrastructure IN6	11857
 Unserved and Underserved	6946
 Unsettled	11994
 Unsold	7368
-Unsolicited	28,5650,5501,1353,119,268,10,1
+Unsolicited	28,5650,5501,1353,119,268,10,1,3909
 Unsolicited Commercial Electronic Communications	15641
 Unsolicited Messages	11956
 Unsolicited Services	12616
@@ -126,6 +139,7 @@ Unspecifie	14775
 Unspecified	11192,1152,3273
 Unspecified Chinese Government Institution	52
 Unspecified Contract Duration	13575
+Unspeciﬁed	16940
 Unspent	11230
 Unsplash	396,4411,450,1346,132,4152,442,3364
 Unsplash Kenya	7406
@@ -138,8 +152,9 @@ Unstacking Global Poverty	15244
 Unstandardised	9129
 Unstructured	10711,431,4376
 Unstructured Data Blindspot	3279
+Unstructured Sup	16876
 Unstructured Supplementary Service	3862,11035
-Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503,1573,1125,138,197
+Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503,1573,1125,138,197,1454,278
 Unstructured Supplementary Service Data South African	11130
 Unstructured Supplementary Service Data WFP	14948
 Unsubscribe	11424
@@ -160,5 +175,6 @@ Unsustainable	12233
 Unsustainable Application	13868
 Unsustainable Magazine	14674
 Unsustainable Returns of Refugees	12227
+Very Unsatisfied	17149
 What's Unsaid. The New Humanitarian	12227
 Worst Unserved Energy	11228

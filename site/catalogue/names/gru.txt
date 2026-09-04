@@ -61,6 +61,7 @@ E Jefe Servicio Grupo	4209
 EMBAJADAS DEL GRUPO A1 EN	4209
 EMBAJADAS DEL GRUPO A2 EN	4209
 EMBAJADAS DEL GRUPO A3 EN	4209
+El Grupo Africano	17202
 Encargado Grupo	4209
 Encargado Grupo C Especialista Grupo C	4209
 Encargado Grupo D	4209
@@ -94,13 +95,15 @@ Grundlage	1530
 Grundmann	7759
 Grundy	11156
 Grupe	10780
-Grupo	539,3670,5050,855,652,11,587,1,56,121,35,106,3705,574,176
+Grupo	539,3670,5050,855,652,11,587,1,56,121,35,106,3705,574,176,824,12,46,7,144
 Grupo A Abogado Fiscal Administrador Grupo	4209
-Grupo B	4209
+Grupo Africano. Durante	17202
+Grupo B	4209,12894
 Grupo B Especialista Grupo B Inspector	4209
 Grupo B Jefe de Zona Marítima Jefe	4209
-Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52
-Grupo D	4209
+Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52,1175
+Grupo Banco Mundial URL	17426
+Grupo D	4209,12894
 Grupo D Director Grupo D Encargado	4209
 Grupo D Especialista Grupo D Inspector	4209
 Grupo D Interventor Grupo D Jefe	4209
@@ -109,9 +112,11 @@ Grupo E Habilitado Pagador Inspector Grupo	4209
 Grupo Empreiteiro	11405
 Grupo F Servicio	4209
 Grupo G Maestro Músico Técnico Disciplina	4209
+Grupo Holcim	17337
 Grupo II	15388
 Grupo III	16138
 Grupo Ilheus OnLine	15593
+Grupo Intergubernamental de Expertos	16875
 Grupo Local de Educação	11557
 Grupo Local de Parceiros da Educação	16268
 Grupo Multi-Sectorial	5663
@@ -122,6 +127,7 @@ Grupo Nacional de Acompanhamento	539
 Grupo Paratus	6798
 Grupo Parlamentar	539,5743,2877
 Grupo Parlamentar da UNITA	5791,1056,271,2041
+Grupo Parlamentario	17224,77,4
 Grupo Praia	15535
 Grupo Social Especial	11364,1
 Grupo Temático de Género	11562
@@ -133,6 +139,7 @@ Grupo de Acção Financeira	15359
 Grupo de Amigos da Iniciativa	11564
 Grupo de Apoio Orçamental	15962
 Grupo de Consulta Multi-Sectorial	5663
+Grupo de Expertos	16974
 Grupo de Investigação Científica	11385
 Grupo de Monitorização	15966
 Grupo de Projetos Projetos	15476
@@ -140,7 +147,7 @@ Grupo de Trabalho	2816,13065
 Grupo de Trabalho Inter-Ministerial	12862
 Grupo de Trabalho de Género	15966
 Grupo de Washington	10777,800
-Grupos	11406,7,4725
+Grupos	11406,7,4725,824
 Grupos Clase	4209
 Grupos III	16138
 Grupos Parlamentares	539
@@ -199,6 +206,7 @@ Médico Forense Portavoz Adjunto Grupo Parlamentario	4209
 Nacional Adjunto Grupo B Delegado Grupo	4209
 O Grupo	15962
 O Grupo Técnico de Acompanhamento	11378
+Ocidental WBG Grupo	17093
 Oficial Grupo	4209
 Oficial Grupo D Policía Judicial Grupo	4209
 Oficial Grupo E Responsable Deporte Militar	4209
@@ -209,7 +217,9 @@ Parlamento Portavoz Grupo Parlamentario Supervisor Distrital	4209
 Policía Judicial Grupo D	4209
 Policía Judicial Grupo D Servicio	4209
 Portavoz Adjunto Grupo Parlamentario Secretario Fiscalía	4209
+Portavoz de Grupo Parlamentario	17301
 Rebekka Grun Berlin Apang	15601
+SIGREF.pdf República de Guinea Ecuatorial GRUPO	16930
 Secretario Grupo	4209
 Secretario Grupo B	4209
 Secretario Grupo C Segundo Jefe Estado	4209

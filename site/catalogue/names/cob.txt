@@ -1,14 +1,22 @@
 BASIC and COBOL. Adeniyi	14706
 BEAC COBAC Axe	10965
+BEAC and COBAC	16942
+Bienestar Cobertura	16898
+Bosque Cobertura	16875
 C. Cobo	6948
+CATEGORÍAS DE COBERTURA	16875
+CEMAC I COBAC	17121
+CEMAC UMAC COBAC CM	17121
 CGICTPF and GICTF. COBIT	1009
 CHC Council for Scientific and Industrial Research COBIT	1009
 CIABAF COBAC DE4A DFS EGDI GDP	15480
 CNEF COBAC Promotion	10965
 CNEF COBAC Renforcement	10965
 COB BIRR	1732,1,1
-COBAC	4785,568,714,688,14,169,1126,106,1007,1788,2,977,3498,1,4,27,6,2,11,73,282,151,364,83
+COBAC	4785,568,714,688,14,169,1126,106,1007,1788,2,977,3498,1,4,27,6,2,11,73,282,151,364,83,452,44,30,24
+COBAC Banking Commission for Central Africa CRVS	16942
 COBAC Banque des Etats	11944
+COBAC Central African Banking Commission	16996
 COBAC Commission Bancaire	10965,979,3530
 COBAC D-2025	15848
 COBAC MONETAIRE DE L'AFRIQUE CENTRALE RELATIF	15443
@@ -38,10 +46,12 @@ COBAC. TITRE IO	15443
 COBAC. Tandis	16446
 COBAC.58	11944
 COBAC.58 Une	11944
+COBAC47. The COBAC	16942
 COBAYES	13300
 COBE Act	4896
 COBE the Memo and Articles	4896
 COBE. Accordingly	4896
+COBERTURA ARBÓREA ENTRE	16875
 COBERTURA RÁDIO	11556
 COBERTURA UNIVERSAL DE SAÚDE	15966
 COBERTURA UNIVERSAL DE SAÚDE Expansão	15966
@@ -67,6 +77,8 @@ COBUIN SOLUTIONS LIMITED Data Controller INST-9706484FA5B	7167
 COBUS VISSER Partner Bowmans Windhoek	12232
 COBZZWHA	12252
 COBÂC	15443
+COLMATAR AS LACUNAS DE COBERTURA	17093
+Central CNE Consejo Nacional de Estadística COBAC	16898
 Che Cob	7759
 Che Cob and Ali	7759
 Clima CUS Cobertura Universal de Saúde DHIS2	15966
@@ -77,9 +89,10 @@ Cobbe	8283
 Cobbe and Singh2018	8436
 Cobbe and Singh2020	8436
 Cobben	12926
-Cobertura	4436,6324,17,644,25,101,9,21,4107,10,272
+Cobertura	4436,6324,17,644,25,101,9,21,4107,10,272,909,23,76,119
 Cobertura Cobertura	11898
 Cobertura Escolar	4209
+Cobertura Existente	17093
 Cobertura Não Significa	9559
 Cobertura Sanitaria Universal CT&I	1701
 Cobertura Universal de Saúde	11543,44,4379
@@ -99,18 +112,22 @@ Cobrança O DUC	15380
 Cobrança SIGT	11435
 Cobrar	744,10744
 Cobre	11413
+Cobro	17022
 Cobweb Communication Ltd	3862
 Commission COBAC Central African Banking Commission	10841
 Conscil National du Crédit La COBAC	15443
 Conseil POUR LE NICKEL COBALT LATÉRITIQUE	2342
 DE DIAN-DIAN COBAD	16623
 DEVOLUCIÓN DE INGRESOS COBRADOS	4209
+Decision COBAC D-2022	16942
+Degradación Cobertura	16875
 E. Vergara Cobos	11310
 Educação Especial. Cobertura Geográfica Ao	10766
 Guias de Cobrança	15403
 Guidelines COBIT	9237
 Health Centre COBIT CSIR Control Objectives	1009
 Huayou Cobalt	7014
+Hídricos Cobertura	16898
 I. Inquérito de Cobertura	11416
 ITIL and COBIT Vendor Management	6432
 Ia COBAC	15443
@@ -121,8 +138,12 @@ Instructions COBAC	11944
 Internet Congo COBAC Commission	15493
 La COBAC	10965,979,3499,39,11
 Le Règlement COBAC	10965
+Le Règlement COBAC R	17121
 Legacy COBOL Systems	6432
 Lorsque la COBAC	15442,40
+MAPA DE COBERTURA Y USO	16875
+MAPA DE PÉRDIDAS DE COBERTURA ARBÓREA	16875
+MAPAS REGIONAIS DE COBERTURA E ANÁLISE	17093
 Mapa Cobertura	11537
 Mines de Cobalt	15542
 Model Integration COBIT Control Objectives for Information	12917
@@ -139,13 +160,15 @@ Planeamento de Cobertura	9559
 REGULAMENTO DAS TAXAS A COBRAR PELA	744
 Rapport de COBAC	10965
 Rede de Cobrança	15380
-Rede de Cobranças	15526
+Rede de Cobranças	15526,28
 Reference Cobbe	8283
 República de Angola. Cobrança	11435
+Règlement COBAC R	17121
 Règlement COBAC R-	11944
 Règlement COBAC R-2020	11944
 SECÇÃO DO CONTENCIOSO E COBRANÇA	11435
 Smile Communications and Cobranet	11506
+Sr. Don Abilio Sagunto Cobanche Director	16920
 TAXAS A COBRAR PELA AGÊNCIA	744
 Taxa de Cobertura Líquida	11416,5,25,131
 Taxas de Cobertura	10777

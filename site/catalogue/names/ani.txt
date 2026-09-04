@@ -12,6 +12,9 @@ ANIES	10991,5635,17,97
 ANIES C’est	16643
 ANIESE TCHISSOLA PORFIRIO SILVESTRE	10751
 ANIJA COMMUNITY MEDICAL HEALTHCARE Data Processor	7167
+ANIMAL HEALTH AND TREATMENT COSTS Animal	17043
+ANIMAL INVENTORY AND HERD	17043
+ANIMALS SHALL BE RAISED	17127
 ANIMF	5835
 ANIMIS	13300
 ANIMIST	13300
@@ -30,7 +33,7 @@ ANINF-ST Partnership Gabon's National Agency for Digital	3291
 ANINF. ANINF	15514,4
 ANINF. Applying	15518
 ANINF. Venture	15447
-ANIP Agence Nationale	15583
+ANIP Agence Nationale	15583,1516
 ANIP BJ	2693,2091,28,43
 ANIP Connexion	10821
 ANIP DG	3041
@@ -64,13 +67,14 @@ Anicet Rodrigue	15524
 Aniceto de Carvalho	9259
 Anicia Peters Chief Executive Officer	5036
 Aniel de Beer	10764
+Anika Ruess	17405
 Anikonda Banda PIC V	13392
 Anikó Szigetvári	14388
 Anil Bachoo	14837
 Anil Kumar Dip	14753
 Anil Seeruttun	8392
 Animais	16138
-Animal	1988,787,6292,2118,1198,677,325,1237,44,361,91,545
+Animal	1988,787,6292,2118,1198,677,325,1237,44,361,91,545,1237,143,114
 Animal Arcade	4049
 Animal Bites	15247
 Animal Disease Act	11188
@@ -86,15 +90,22 @@ Animal Health Regional Blood Safety Laboratories	4153
 Animal Health and Biosecurity	14818
 Animal Health and Biosecurity Endemic	14818
 Animal Health and Livestock	12194
+Animal Health and Treatment Costs	17043
 Animal Husbandry	15457
 Animal Identification Act	11188
 Animal Identification and Traceability System	11836
+Animal Inventory and Herd	17043
+Animal Production	17157
+Animal Production Construct	17157
 Animal Rearing School	11857
 Animal Resources and Fishery MoFEP Ministry of Finance	15118
 Animal Science	12972
+Animal Study	17157
 Animal Welfare Honourable Members	14748
-Animals	11836
+Animals	11836,5066,141
+Animals Average	17043
 Animals Electrical	1988
+Animals Owned Outside Holdings Average	17043
 Animas Centre for Coaching	12951
 Animateur	13781,2764
 Animation	7106,3715,1042,1826,848,1399,294
@@ -120,7 +131,7 @@ Anip. Enregistrant	4812
 Anip. Pour Judicaël Gbaguidi	7355
 Anip. Samedi	6217
 Anis Zwagui	1183
-Anisok	4209
+Anisok	4209,12733
 Anissa Kpakpabia	10764
 Anita	12227
 Anita Akumiah	16728,15
@@ -153,15 +164,19 @@ Cameroun. Animée	3779
 Carl ANIAMBOSSOU	16545
 Carl Aniambossou	16545
 Chika Charles Aniekwe	13280
+Codex Standard for Named Animal Fats	16900
 Community Animal Health Workers	4202
 Conservation of Animal Genetic Resources	14818
 Conservation of Animal Genetic Resources Indigenous	14818
+Consultant Anis Mahfoud Consultant Farid Laaboudi	17441
+Cruelty To Animals	16935
 D Animation	6832
 D.G. DE GANAD. SAN. ANIMAL	4209
 DES PECHES ET DES INDUSTRIES ANIMALES	15999
 DES RESSOURCES ANIMALES ET HALIEUTIQUES	7670,651,7355,441,170
 DES RESSOURCES ANIMALES ET HALIEUTIQUESLe Conseil	7670
 DG ANIP	3387
+Department for Animal	17157
 Director General of ANINF	6779
 Director General of ANIP	1927
 Djamal Aniour	15933
@@ -198,12 +213,14 @@ ILLUSTRATOR CEO CREATURES ANIMATION ANIMATOR	9781
 INDUSTRIES ANIMALES	15999
 INSEED and ANID	1635
 Imelda Anika Legal Director IKM Advocates	12301
+Inc. Animals	17235
 Industries Animales	10964,4578,457
 Integrated Animal Disease Surveillance and Response	14666
 International Exhibition of Agriculture and Animal Resources	6280
 Live Animal Health Certificate	15478
 Live Animal Health Certificate Picture	15478
 Live Animal Import Permit	15478
+Live Animals	17235
 Livestock Animal	14818
 Luanda Luanda Aniversariantes	10751
 M Joseph ANINIYO	15685
@@ -224,6 +241,7 @@ Mayowa Anibaba	7907
 Michel Anihibié	3350
 Minister of Agriculture and Animal Resources	14869
 Minister of National Infrastructure Hon. Anil Kumar	14753,88
+Ministry’s Agricultural and Animal Extension	17157
 Ministère Des Ressources Animales Et Halieutiques	15936
 Ministère des Ressources Animales	15757,179
 Monsieur Anicet MBADINGA MOULOUNGUI. Directeur	16175
@@ -235,20 +253,28 @@ NDAYIRAGIJE Anicet	13390
 NDZANA Stanislas Anicet DEP	15580
 Nedu Ani	6211
 Nov-2025 ANID	1635
+Number of Domestic Animals and Poultry	16935
 OCCUPE DES ANIMAUX	13300
+OWNERSHIP AND REASONS FOR KEEPING ANIMALS	17043
 Organização Mundial de Saúde Animal	15966
+Ownership and Reasons for Keeping Animals	17043
+PERCENTAGE OF LIVESTOCK HOLDINGS EXPERIENCING ANIMAL	17043
+PERCENTAGE OF POULTRY HOLDINGS EXPERIENCING ANIMAL	17043
 PRODUCTIONS ANIMALES	15674,429
+Percentage of Poultry Holdings Experiencing Animal Diseases	17043
 Petits Animaux	16627
 Plant and Animal Diseases Control ARTICLE	14409
 Plant and Animal Diseases Control The Partner	14409
 Plant and Animal Health Crop Sector Healthy	14818
 Plant and Animal Health..46 Crop Sector	14818
+Plant and Animal Quarantine Services	17274
 Plant and Animals	1988
 Porte-parole du Gouvernement Edgard Anicet MBOUMBOU MIYAKOU	548
 Power and Promise of Animal Rights	2518
 Professor Anil Bharath	1246
 Professor Anil Sooklal	11185
 Professor Dr. Anicia Peters	13010,38
+RAISING ANIMAL IN THE PAST	17043
 RDGE Marie Anitha JAOTODY	13938
 Research Animal Health Level	4153
 Ressources Animales	3396

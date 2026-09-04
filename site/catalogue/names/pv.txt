@@ -1,6 +1,11 @@
 Alternative Energy Trained Solar PV System	12515
+Bansang Solar PV	16966
+Barra Essau Solar PV	16966
+Basse Nama Solar PV	16966
 Batterie PV	14479
 Bureau PV Sensibilisation	14488,1,1
+Bushrod Island Solar PV	16978
+Bwiam Solar PV	16966
 CEB Solar PV Scheme for Charging of Electric	14745
 CEB Solar PV Scheme for Corporate Entities	14745
 CEB Solar PV Scheme for Domestic Customers	14745,62
@@ -20,6 +25,7 @@ Econet Wireless Mbizo Land Kwekwe Pvt	4896
 Econet Wireless Pvt Ltd	4896
 Entreprise PV	14488,1
 FTD Infocom Pvt Limited	14388
+Farafenni Nama Solar PV	16966
 Financiers PV Procès-Verbal SDSG Spécialiste	15746
 Floating Solar PV System	14830
 Fund Mugabe Way Wireless Pvt Ltd	4896
@@ -42,6 +48,7 @@ Les PV	10876
 MW PV	10180,3615
 MW Salima Nanjoka Solar PV	13060
 MW Salima Solar PV	13060
+MW Solar PV	16966
 MW Solar PV Farm	14745
 MW Solar PV Mini-grid	14080
 MW Solar PV Power Plants	13123
@@ -56,7 +63,9 @@ Mpanga Solar PV	15049
 My PVC	7314,594
 NEA PIM PV SHDS SHS SLS	11136
 NGOs and PVOs	8146
+Njaw Solar PV	16966
 Nyabarongo II Solar PV	15049
+N’joben Solar PV	16966
 PRODIGY PVC TIC UGP Déchet	14423
 PUE Productive User of Energy PV Solar	12399
 PV CSP	11953
@@ -112,6 +121,8 @@ Pvriordonum	14566
 Pvt Ltd	4896
 Pvt Ltd Road	4896
 Pvt Ltd Stand Land Chegutu CBD	4896
+Pvt. Sector	17235
+Pvt. Sectors	17235
 RE Solar PV	11953
 RE Wind Solar PV CSP Pump	11953
 RHS PPS PSEA PNS PVVIH RAM	14622
@@ -121,7 +132,7 @@ Réouverture de BRAFASO PV	3396
 Safaris Pvt Ltd Revenue	4896
 Sc6nario Optimiste Pro.iet PV	14479
 Selected PVC	1988
-Solar PV	408,10820,725,303,5,97,2471,873
+Solar PV	408,10820,725,303,5,97,2471,873,1276
 Solar PV Bioma	12256
 Solar PV CSP Pump DSR System	11953
 Solar PV Concentrated Solar Power	11953

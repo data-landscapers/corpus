@@ -1,5 +1,11 @@
+A. Annual Number of Days	17257
+A4. Historical and Simulated Number of Hot Days	17257
 ADVOCACY ACTIVITIES WORLD POPULATION DAY COMMEMORATION	12962
 AI Innovation Demo Day	5413
+AVERAGE NUMBER OF DAYS AND HOURS	17043
+AVERAGE NUMBER OF DAYS HOUSEHOLD MEMBER	17043
+AVERAGE NUMBER OF DAYS WORKERS WORKED	17043
+AVERAGE NUMBER OF HOURS PER DAY	17043
 Abhishek Dayal	16234
 Africa CRVS Day	3426,7,1,6370
 Africa CRVS Day. Only	3426
@@ -17,10 +23,13 @@ All Day	10707
 All Saints Day	7845
 Amin Dayekh	3874
 Annual Client Appreciation Day	13252
+Armed Forces Day Deputy Foreign	17025
+Armed Forces Day REPORT	17025
 Associates Inc. Business Day	8267
 Awareness Day	12970
 Bango Market Day	9569
 Banking Day	15399
+Blood Donor Day IDSR Integrated Disease	16971
 BoZ Commemorates International Anti-Corruption Day	13532
 Botswana Space Day	5328
 Budget Day	11193,3560
@@ -57,6 +66,7 @@ Celebration of World Mental Health Day Mental	10776
 Cell C Day-by-Day Night Data Bundles	11259
 Child Day Care Centre	14738
 Chovwe Day Secondary School GCE	13477
+Climate-Resilient Infrastructure The Day	17260
 Close Education Student Services Open Days	15552
 CnC Daystar BESS	11469
 Commemorated World Population Day	12962
@@ -71,6 +81,7 @@ Cumulated RFR Banking Day	16219
 Customs Day	4449,80
 Cyber Security Days Algiers	6630
 Cybersecurity Days	6778
+DAY OF APRIL A.D	16983
 DAY Paul	2342
 DAY TO DAY NURSING HOME LIMITED	7167
 DAY VOLUME WEIGHTED AVERAGE PRICE	4896
@@ -81,6 +92,7 @@ DAYLIFF FOREX BUREAU LIMITED Data Controller	7167
 DAYLIFF FOREX BUREAU LIMITED Data Processor	7167
 DAYLIPA FINANCING LIMITED Data Controller INST-996975D70AE	7167
 DAYLIPA FINANCING LIMITED Data Processor INST-996975D70AE	7167
+DAYOF	16851
 DAYSA LIMITED Data Controller INST-40525186089 NAIROBI	7167
 DAYSTAR UNIVERSITY Data Controller INST-7286093B830 NAIROBI	7167
 DAYTONA KENYA MONEY TRANSFER LIMITED Data	7167
@@ -89,7 +101,7 @@ DGSN Open Days	6452
 DPI Day	5356,114,9658
 DPI Day. Rwanda's DPI Day	8449
 DRC DAY	2880
-Data Protection Day	1243,3557,7595,191
+Data Protection Day	1243,3557,7595,191,4583
 Date End Date Number of Days	14754
 Day Africa Lost Internet	2677
 Day Ago	11040,56
@@ -109,6 +121,7 @@ Day Jiva	12933
 Day L3 Global	13624
 Day Last	15048
 Day Liquid Cash Buffer	12882
+Day Off	17152
 Day One Already	15245
 Day One Mark WalkerSeptember	7156
 Day One Session	15004
@@ -171,10 +184,12 @@ Dr. Dayo Lajide	9444
 E-Business Days	14174
 E-bisiness Days	14174
 ECA-convened World Fintech Day	12033,15
+EPA Targen P. Daye Deputy Managing	17260
 ESG WORKSHOP FINANCIAL LITERACY DAY	13532
 ESS Reporting Official Use Only Day	12253
 Eastern Congo Use Independence Day... MONUSCO	3245
 Eastern Daylight Time	5773
+Ecobank Day	17056
 Elderly Day Care Centres	14742
 Election Day	3758,6228,2255,839,15
 Energy Conservation Day We Are Hiring	4800
@@ -220,7 +235,8 @@ INTERNATIONAL GIRLS IN ICT DAY	15170
 INTERNATIONAL WOMEN'S DAY READY TO GO	13532
 INTERNATIONAL WOMEN’S DAY	12358
 IR Demo Day	11309
-ITEC Day	13791
+ITEC Day	13791,3443
+ITEC Day Mar	17234
 Identity Day and Civil Registration Day	13007
 Imports Nuclear Day	11953
 Inaugural AI Innovation Demo Day	5413
@@ -242,16 +258,18 @@ International Day	12971,1296
 International Day for Universal Access	14984,328
 International Day of Action	15725
 International Day of Older Persons	10776
+International Day of Peace IFIMS Internal Financial	16970
 International Day of Persons	4133,8844,56
 International Day of Sign Language The International	12977
 International Day of Universal Access	13030
-International Day of Yoga	16256,29,46
+International Day of Yoga	16256,29,46,909
 International Deaf Day. An International Deaf	12977
 International Elderly Day	12977
 International Identification Day	3586
 International Labour Day	14869
 International Men's Day	12642
 International Open Data Day	4429
+International Volunteer Day	16973
 International Women's Day	12642
 International Women’s Day	2668,9690,2402,33
 International Women’s Day Webinar	2668
@@ -260,7 +278,7 @@ International Youth Day	9648,138,85,1,1,4353
 International Youth Day. Note	9873
 Investor Day	7241
 J. Nehru Day Care Centre for Immunosuppressed	14774
-Jones Day	1728,1425
+Jones Day	1728,1425,14021
 Juba Day Secondary School	8940
 KQCNCajs Day	8713
 KYC Procedures. A Day Two Process	11233
@@ -294,6 +312,9 @@ National Day Celebrations Municipality City Council	14746
 National Day Reception	13509
 National Day of Identity Conference	3703
 National Days and International Yoga Day	16275
+National IT Day and Reviews	17322
+National Identification Day	17025
+National Identity Day	16993
 National Immunization Days	10776
 Niger Digital Day	10233,1461
 Nigeria Digital Open Day	2156,2083
@@ -307,7 +328,9 @@ OpenLivingLab Days Conference	11006
 Orange Corners Sudan Demo Day	15048
 Organiser des Peering Days	16545
 Outputs Days Objective Entities Indicators	12356
+PER DAY FOR WORK ON CROP	17043
 Pan-African Women’s Day	8662
+Part of Ecobank Day	17056
 Participants Name Their Own Challenges Day	13254
 Payer Day Max Hours	13606
 Peering Day	16545
@@ -357,7 +380,7 @@ Swati. Day	6821
 Switzerland Rwanda’s National Heroes Day	15131
 TARGET Day	16219
 TARGET Days	16219
-TH DAY	762,13698
+TH DAY	762,13698,2390
 TH DAYOF	11517
 TONA Banking Day	16219
 TONA Banking Day. Lookback Period	16219
@@ -392,8 +415,9 @@ World Consumer Rights Day	11131,2401,2683
 World Data Centers Day	2918
 World Day Against Trafficking	8480
 World Diabetes Day	9855
+World Disability Day	16889,362
 World Fintech Day	11819
-World Health Day	10776
+World Health Day	10776,6513
 World Health Day and World Mental	10776
 World MSME Day	10330
 World Mental Health Day	10776
