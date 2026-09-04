@@ -3,10 +3,10 @@ title: Kenya — progress report, September 2025 – September 2026
 compiled: 2026-09-04
 period: 2025-09-01 to 2026-09-04
 place: KEN
-ledger_rows: 316
+ledger_rows: 317
 not_held: 7
 indicators: 121
-record: c87388024576
+record: df6b87928bc0
 ---
 
 # Kenya: progress report, September 2025 – September 2026

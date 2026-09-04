@@ -3,18 +3,18 @@ title: Central Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-04
 period: 2025-09-01 to 2026-09-04
 place: XCA
-ledger_rows: 41
+ledger_rows: 42
 not_held: 0
-record: 66b2708caa6b
+record: 71918f125187
 ---
 
 # Central Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-04 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 41 bodies, instruments and systems on this place's ledger, 30 changed position between 2025-09-01 and 2026-09-04, 1 did not, 10 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 42 bodies, instruments and systems on this place's ledger, 31 changed position between 2025-09-01 and 2026-09-04, 1 did not, 10 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 68 sources for this place in the window — 19 in the earlier half (2025-09 to 2026-02), 49 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 69 sources for this place in the window — 19 in the earlier half (2025-09 to 2026-02), 50 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -128,6 +128,7 @@ CEMAC's two 2019-era free-movement instruments sit at opposite ends of the deliv
 | CEMAC Regulation 04/18 on payment services | Not held | [Regulation 04/18 remains in force and a draft 2026 replacement is under consideration, envisaged to enter into force on 1 January 2027: mandatory strong authentication, a reversed burden of proof on fraud disputes, a protected fund-safeguarding account for payment institutions, market opening to fintechs and aggregators, and a twelve-month regulatory sandbox](https://www.droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1298-cemac-une-reforme-en-cours-de-la-reglementation-des-services-de-paiements-agregateurs-initiateurs-de-paiement-transfert-dargent-bac-a-sable-reglementaire) | Advanced |
 | Central bank instruction on inbound remittance pre-financing | Did not exist | [Supplementing the community payment-services regulation, credit institutions must verify on concordant bank and messaging-network evidence that inbound remittance pre-financing executed through payment institutions has been matched by repayment - a rule bearing directly on the safety of funds credited to electronic-money wallets](https://droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1262-cemac-transferts-de-fonds-via-les-fintechs-une-nouvelle-instruction-beac-precise-les-diligences-relatives-au-traitement-et-suivi-des-prefinancements-des-operations-de-remittance-entrante-executees-par-le-canal-des-etablissements-de-paiement) | Advanced |
 | Licensing of new payment providers in the zone | A payments unicorn licensed in Cameroon through a bank partnership (2025-06) | [Four entrants licensed or partnered inside a year: a payments company in Cameroon through a bank partnership, a card network with a Cameroonian bank, a fintech with the International Finance Corporation in Chad, and a payment aggregator formally recognised in Congo (2026-06)](https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/) | Advanced |
+| Regional central bank accession to the continental payment system | Not participating (2025-08) | [The regional central bank joined the continental instant payment and settlement network in July 2026, connecting the six member states it serves to a network spanning twenty-eight countries (2026-07)](https://www.afreximbank.com/fr/beac-joins-papss-connecting-payments-between-cemac-and-the-rest-of-africa/) | Advanced |
 | SYSTAC 2 (BEAC regional retail-payment platform) | A retail clearing platform in service since 2007 | [Centralised, fully online ISO 20022-compliant platform for transfers, direct debits, cheques and card payments across all six CEMAC states, with strengthened AML/KYC and a dedicated dispute-resolution module; the instant-payments module is explicitly not yet in production, no date given; the RTGS successor SYGMA V10 is described only as coming "in the coming weeks", also undated](https://www.beac.int/wp-content/uploads/2026/08/CP_MISE-EN-PROD-SYSTAC.pdf) | Advanced |
 | Taxation of mobile money in the CEMAC zone | Mobile money taxed at national discretion with no stated regional position | [The central bank came out firmly against excessive taxation of mobile money, warning that transaction taxes penalise low-income households and hold back financial inclusion, and called for a concerted approach (2026-03)](https://centrafriqueinfos.com/mobile-money-beac-condamne-taxation-freine-inclusion-financiere/) | Regressed |
 | CEMAC payment services report | Published annually by the central bank | [Published for 2024 as the zone's statistical account of payment services (2026-04)](https://www.beac.int/wp-content/uploads/2026/04/RAPPORT-SUR-LES-SERVICES-DE-PAIEMENT-DANS-LA-CEMAC-2024-.pdf) | No change |

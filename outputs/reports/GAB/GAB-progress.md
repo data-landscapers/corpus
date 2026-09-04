@@ -3,10 +3,10 @@ title: Gabon — progress report, September 2025 – September 2026
 compiled: 2026-09-04
 period: 2025-09-01 to 2026-09-04
 place: GAB
-ledger_rows: 139
+ledger_rows: 140
 not_held: 19
 indicators: 121
-record: aa646dc72100
+record: 4cc2f67bd454
 ---
 
 # Gabon: progress report, September 2025 – September 2026
@@ -175,7 +175,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Access to services | Gender equity | [63.7% of women against 72.4% of men held a financial account in 2024](https://documents1.worldbank.org/curated/en/099018106302221103/pdf/IDU01497350d05b98048b7091f80c22417570fb9.pdf). <details><summary>Full record</summary>[The World Bank's Gabon country factsheet, data as of 2 April 2026, puts accounts at a financial institution at 63.7% of women against 72.4% of men, and use of a mobile phone or the internet to pay bills at 35.4% of women against 40.9% of men, both for 2024; it also records 25.5% of parliamentary seats and 27.6% of ministerial positions held by women](https://documents1.worldbank.org/curated/en/099018106302221103/pdf/IDU01497350d05b98048b7091f80c22417570fb9.pdf).<br><br>It is the first gender-gap series the base holds for Gabon, so the level is stated and the direction is not. No national gender-and-ICT survey or results framework reporting against a target is held.</details> | No change, a first measurement with no earlier figure behind it |
 | Access to services | Inclusion of persons with disabilities |  | ***No evidence*** |
 | Access to services | Inclusion of refugees and IDPs |  | ***No evidence*** |
-| Digital divides | Bridging of digital divides |  | ***No evidence*** |
+| Digital divides | Bridging of digital divides | [Zero-roaming and fibre agreements](https://www.guineaecuatorialpress.com/index.php/noticias/guinea_ecuatorial_y_gabon_firman_acuerdos_de_cooperacion_en_telecomunicaciones) were signed with Equatorial Guinea in November 2025. <details><summary>Full record</summary>The [ceremony at Ciudad de La Paz](https://www.guineaecuatorialpress.com/index.php/noticias/guinea_ecuatorial_y_gabon_firman_acuerdos_de_cooperacion_en_telecomunicaciones) produced three instruments signed by both ministers with their national regulators and operators as principals: zero roaming, spectrum interference coordination and a fibre link.<br><br>They address the border rather than the interior. No Gabonese coverage, price or usage figure accompanies them.</details> | Advanced |
 
 
 ## Data

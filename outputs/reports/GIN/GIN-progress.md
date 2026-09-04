@@ -3,10 +3,10 @@ title: Guinea — progress report, September 2025 – September 2026
 compiled: 2026-09-04
 period: 2025-09-01 to 2026-09-04
 place: GIN
-ledger_rows: 120
+ledger_rows: 122
 not_held: 5
 indicators: 121
-record: 1fbb0db46396
+record: 4632ddc79925
 ---
 
 # Guinea: progress report, September 2025 – September 2026
@@ -175,7 +175,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Access to services | Gender equity |  | ***No evidence*** |
 | Access to services | Inclusion of persons with disabilities |  | ***No evidence*** |
 | Access to services | Inclusion of refugees and IDPs |  | ***No evidence*** |
-| Digital divides | Bridging of digital divides |  | ***No evidence*** |
+| Digital divides | Bridging of digital divides | Guinea is one of five states whose [second submarine cable bids were evaluated](https://www.ecowas.int/ecowas-commission-hosts-evaluation-committee-meeting-for-west-african-submarine-cable-capacity-under-wardip/) at Abuja in July 2026. <details><summary>Full record</summary>The [evaluation committee meeting of 29 June to 10 July 2026](https://www.ecowas.int/ecowas-commission-hosts-evaluation-committee-meeting-for-west-african-submarine-cable-capacity-under-wardip/) covers five member states under the regional digital programme, Guinea among them, and assesses bids for capacity on a second West African submarine cable.<br><br>Domestically, the financing that reaches administrations outside the capital is the [US$81m local governance credit whose component split was confirmed in June 2025](https://documents1.worldbank.org/curated/en/099062025132018695/pdf/P177095-6d05b45d-3270-481b-808f-f87a7e563f63.pdf).</details> | Advanced |
 
 
 ## Data

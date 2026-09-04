@@ -173,3 +173,6 @@ data.satellite--agricultural-use-of-satellite-data,Advanced,"A [coordination and
 The base map was announced in August 2026 with the feasibility mission still to come ([base map](2026-08-04-dsti-leads-drive-for-digital-mapping-system-as-sierra-leone-moves-to-develop-national-base-map)).
 
 Neither states a data-licensing arrangement, and both are delivered with foreign partners. The country is acquiring a national geospatial layer through partnerships whose terms are unpublished.",SLE-data.satellite-cvp|SLE-data.satellite-base-map
+infra.connect--mobile-affordability,Advanced,"Sierra Leone [entered the regional free roaming agreement](2026-02-20-liberia-ghana-sierra-leone-ecowas-free-roaming-agreement-lta) in February 2026, removing charges with Liberia and Ghana.","The [agreement entered in February 2026](2026-02-20-liberia-ghana-sierra-leone-ecowas-free-roaming-agreement-lta) removes roaming charges among Sierra Leone, Liberia and Ghana, with the regulator stressing that full implementation still had to follow.
+
+It is a cross-border price, not a domestic one: nothing in the base publishes a Sierra Leonean retail tariff or an affordability ratio against income.",SLE-infra.connect-free-roaming

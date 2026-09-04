@@ -3,16 +3,16 @@ title: North Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-04
 period: 2025-09-01 to 2026-09-04
 place: XNA
-ledger_rows: 11
+ledger_rows: 12
 not_held: 0
-record: 142adce35081
+record: ecb2c5335385
 ---
 
 # North Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-04 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 11 bodies, instruments and systems on this place's ledger, 10 changed position between 2025-09-01 and 2026-09-04, 0 did not, 1 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 12 bodies, instruments and systems on this place's ledger, 10 changed position between 2025-09-01 and 2026-09-04, 1 did not, 1 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 9 sources for this place in the window — 3 in the earlier half (2025-12 to 2026-01), 6 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -33,6 +33,7 @@ North Africa's ledger opens thin and moves through the Arab League rather than t
 | Arab Committee for Artificial Intelligence and Emerging Technologies | Did not exist | [Council approved the creation of an Arab committee for artificial intelligence and emerging technologies, and at the same session adopted the Arab Charter for AI Ethics, described by the Arab League secretariat as a guiding and advisory document resting on ethical principles rather than a binding instrument](https://www.youm7.com/story/2026/1/22/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%89-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-29-%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8/7278361) | Advanced |
 | Arab conference of nationality and civil-status directors (recommendations) | Did not exist | [Recommended member states expand reliance on digital identity, strengthen legal frameworks protecting personal data in civil-status registers, and share defences against cyber threats aimed at those registers; a model data-protection framework for civil-status registers is to be circulated, and Iraq's proposal for a unified Arab identity was referred to member states for study](https://gate.ahram.org.eg/News/5891986.aspx) | Advanced |
 | Arab ICT Ministers Council AI working groups (AICTM Executive Bureau) | Did not exist | [Six working groups chartered under the Arab League's AI governance/digital committee at the 58th AICTM Executive Bureau session; Egypt chairs AI Governance and Quantum Computing, Libya chairs AI Data and Digital Infrastructure, Tunisia chairs AI Innovation — the Governance group's remit includes activating the 2025 Arab Charter for AI Ethics; no framework text, timetable or output yet published from any of the six groups](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Advanced |
+| Arab Maghreb Union treaty | In force, dormant (2025-08) | [In force since 1 July 1989 with a binding judicial organ, and no summit held since 1994 - a legal frame for regional harmonisation with no active machinery behind it](https://treaties.un.org/doc/Publication/UNTS/Volume%201546/volume-1546-I-26844-English.pdf) | No change |
 
 <!-- narrative: institutions -->
 Both rows on this section are new this year and both are Arab League tracks rather than AU or REC ones. The AI committee now has its six working groups staffed, three of them chaired by African states, with the Governance group tasked to activate the Arab Charter for AI Ethics — but no framework text or output from any group. The civil-status directors' conference produced recommendations on digital identity and register data protection, with no adoption route yet named.

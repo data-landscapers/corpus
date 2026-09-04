@@ -3,10 +3,10 @@ title: Niger — progress report, September 2025 – September 2026
 compiled: 2026-09-04
 period: 2025-09-01 to 2026-09-04
 place: NER
-ledger_rows: 74
+ledger_rows: 75
 not_held: 4
 indicators: 121
-record: 54f7dc6907f9
+record: 8e00185fe694
 ---
 
 # Niger: progress report, September 2025 – September 2026
@@ -118,7 +118,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Registries | Social protection register |  | ***No evidence*** |
 | Registries | Electoral register |  | ***No evidence*** |
 | Registries | Tax register |  | ***No evidence*** |
-| Registries | Land register |  | ***No evidence*** |
+| Registries | Land register | Eight member states [approved a draft land registration harmonisation directive](https://croissanceafrique.com/uemoa-directive-sur-lharmonisation-des-regles-regissant-limmatriculation-et-la-propriete-fonciere-au-sein-de-lunion/) in June 2026. <details><summary>Full record</summary>The [directive approved at Ouagadougou in June 2026](https://croissanceafrique.com/uemoa-directive-sur-lharmonisation-des-regles-regissant-limmatriculation-et-la-propriete-fonciere-au-sein-de-lunion/) harmonises land registration and titling rules across the union and provides for urban land information systems.<br><br>It is an approved draft rather than a transposed rule, and nothing in the base records a Nigerien land register or its implementation of the directive.</details> | Advanced |
 | Sectoral management information systems | Health | A [national e-health master plan 2025-2029](https://www.lesahel.org/atelier-de-la-direction-de-la-e-sante-vers-une-transformation-numerique-du-systeme-de-sante/) was validated in July 2026 with twenty-seven structuring projects, covering interoperability, surveillance and cybersecurity. <details><summary>Full record</summary>The roadmap was validated on 9 July 2026 and is budgeted, covering health information, interoperability, surveillance and cybersecurity ([plan](https://www.lesahel.org/atelier-de-la-direction-de-la-e-sante-vers-une-transformation-numerique-du-systeme-de-sante/)).<br><br>No budget figure, implementing body or first project is named, so what the base holds is a validated plan and no delivery against it. It is the only sectoral information-system plan for the country in this window.</details> | Advanced |
 | Sectoral management information systems | Education |  | ***No evidence*** |
 | Sectoral management information systems | Social protection |  | ***No evidence*** |

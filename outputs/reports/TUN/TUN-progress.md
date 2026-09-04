@@ -1,12 +1,12 @@
 ---
 title: Tunisia — progress report, September 2025 – September 2026
-compiled: 2026-09-03
-period: 2025-09-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2025-09-01 to 2026-09-04
 place: TUN
-ledger_rows: 86
+ledger_rows: 88
 not_held: 9
 indicators: 121
-record: f7519f78e0ad
+record: b4cd48880519
 ---
 
 # Tunisia: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-03.*
+*The period is 2025-09-01 to 2026-09-04.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -45,11 +45,11 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Data protection | Data protection authority | The [national data-protection authority](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) was cited by the replacement bill's own sponsors as institutionally limited. <details><summary>Full record</summary>The characterisation is the sponsors', made in February 2026 as part of the case for the new organic law ([authority](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/)).<br><br>No enforcement action, penalty, complaint volume or registration figure for the authority is published at any date. A legislature's own sponsors naming the regulator as the reason for replacing the statute is the strongest statement about it in the record.</details> | No change |
 | Data protection | National data protection readiness | No [legal basis is held for the linked national health dataset](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109) joining health, civil-status, social-affairs and education records; the ministry asserts only that data is stored confidentially and securely. <details><summary>Full record</summary>What is missing is a decree, ministerial order or data-sharing instrument stating the basis, retention rule and supervisory authority for that dataset ([basis](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109)).<br><br>The dataset it would govern is live: the national health identifier is the repurposed vaccination identifier, the health portal has passed technical validation and a cybersecurity audit, and a digital birth declaration is running at one hospital.<br><br>An assertion of confidentiality is not a legal basis, and the statute that would supply one is the 2004 law the government is replacing.</details> | No change |
 | Regional collaboration | Regional policy collaboration | The country [took a continental telecommunications union council seat](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071) and [chairs an Arab artificial-intelligence working group](https://www.businesstec.news/23334), and hosted the [ninth Arab civil-status conference](https://gate.ahram.org.eg/News/5891986.aspx). <details><summary>Full record</summary>The council seat was won at a plenipotentiary conference in July 2026 ([seat](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071)), and the working-group chair was taken at an Arab permanent committee's inaugural meeting held in the capital, with only the month published for the election date ([chair](https://www.businesstec.news/23334)).<br><br>The civil-status conference closed in the capital in August 2026 with recommendations only: no instrument is adopted, no member-state commitment is stated and the model framework itself is not held ([conference](https://gate.ahram.org.eg/News/5891986.aspx)).<br><br>Three regional positions taken in two months, none of which produces an obligation the base can read.</details> | Advanced |
-| Regional collaboration | Regional legal harmonisation |  | ***No evidence*** |
+| Regional collaboration | Regional legal harmonisation | The [1989 Maghreb Union treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201546/volume-1546-I-26844-English.pdf) is in force with a binding judicial organ and no summit since 1994. <details><summary>Full record</summary>The [treaty concluded at Marrakesh in February 1989](https://treaties.un.org/doc/Publication/UNTS/Volume%201546/volume-1546-I-26844-English.pdf) has been in force since 1 July 1989 and establishes a presidential council, a council of foreign ministers, a general secretariat, a consultative council and a judicial organ whose rulings bind.<br><br>No summit has been held since 1994, so the instrument supplies a legal frame for harmonisation and no working machinery. Harmonisation between Maghreb states therefore proceeds bilaterally where it proceeds at all.</details> | No change |
 | Regional collaboration | Shared regional infrastructure |  | ***No evidence*** |
 | Regional collaboration | Cross-border data transfers |  | ***No evidence*** |
 | Standards | National interoperability standards |  | ***No evidence*** |
-| Standards | National quality standards |  | ***No evidence*** |
+| Standards | National quality standards | The [twentieth mutual recognition working group with Libya](https://lncsm.org.ly/2025/12/18/%d8%a7%d8%ae%d8%aa%d9%8f%d8%aa%d9%85%d8%aa-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d8%b9%d8%b4%d9%80%d8%b1%d9%8a%d9%86-%d9%84%d9%81%d8%b1%d9%8a/) concluded in December 2025. <details><summary>Full record</summary>The [meeting concluded in December 2025](https://lncsm.org.ly/2025/12/18/%d8%a7%d8%ae%d8%aa%d9%8f%d8%aa%d9%85%d8%aa-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d8%b9%d8%b4%d9%80%d8%b1%d9%8a%d9%86-%d9%84%d9%81%d8%b1%d9%8a/) is the twentieth of a standing bilateral working group on the mutual recognition of conformity certificates and the quality and conformity marks.<br><br>It is the base's only record of Tunisian conformity assessment being recognised across a border, and it runs bilaterally rather than through the regional treaty, which has [held no summit since 1994](https://treaties.un.org/doc/Publication/UNTS/Volume%201546/volume-1546-I-26844-English.pdf).</details> | No change |
 | Standards | Adoption of international standards |  | ***No evidence*** |
 | Public debate and participation in policymaking | Non-governmental contribution to national policy |  | ***No evidence*** |
 | Public debate and participation in policymaking | Open discussion of government policy |  | ***No evidence*** |

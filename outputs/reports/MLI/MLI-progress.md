@@ -3,10 +3,10 @@ title: Mali — progress report, September 2025 – September 2026
 compiled: 2026-09-04
 period: 2025-09-01 to 2026-09-04
 place: MLI
-ledger_rows: 92
+ledger_rows: 93
 not_held: 4
 indicators: 121
-record: 21876a284913
+record: 9a079a5432f1
 ---
 
 # Mali: progress report, September 2025 – September 2026

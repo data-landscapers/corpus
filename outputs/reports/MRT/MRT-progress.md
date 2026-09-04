@@ -1,12 +1,12 @@
 ---
 title: Mauritania — progress report, September 2025 – September 2026
-compiled: 2026-09-02
-period: 2025-09-01 to 2026-09-02
+compiled: 2026-09-04
+period: 2025-09-01 to 2026-09-04
 place: MRT
-ledger_rows: 65
+ledger_rows: 66
 not_held: 4
 indicators: 121
-record: 1d4d8beec800
+record: 96ea20c0a781
 ---
 
 # Mauritania: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-02.*
+*The period is 2025-09-01 to 2026-09-04.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -45,7 +45,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Data protection | Data protection authority | The [data protection authority](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy) is established and operating under a 2023-2026 plan, with no decision, register or annual report held. <details><summary>Full record</summary>Its existence and plan are recorded by a reference guide ([guide](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy)).<br><br>Nine years after the statute, the base holds no decision, no register of declared processing, no enforcement action and no annual report from it, so what can be established is that the institution exists and not that it acts.</details> | No change |
 | Data protection | National data protection readiness |  | ***No evidence*** |
 | Regional collaboration | Regional policy collaboration | A [digital cooperation memorandum with Senegal](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-and-mauritania-sign-mou-to-deepen-digital-cooperation) was signed in January 2025, with no deliverable, workstream or funding under it on record. <details><summary>Full record</summary>The memorandum was signed in January 2025 and nothing has followed it into the base ([memorandum](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-and-mauritania-sign-mou-to-deepen-digital-cooperation)).<br><br>It is the only bilateral instrument with a neighbour on file. The country's other recorded international digital engagements run to the Gulf and to European financiers rather than along its own borders.</details> | No change |
-| Regional collaboration | Regional legal harmonisation |  | ***No evidence*** |
+| Regional collaboration | Regional legal harmonisation | The [1989 Maghreb Union treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201546/volume-1546-I-26844-English.pdf) is in force with a binding judicial organ and no summit since 1994. <details><summary>Full record</summary>The [treaty concluded at Marrakesh in February 1989](https://treaties.un.org/doc/Publication/UNTS/Volume%201546/volume-1546-I-26844-English.pdf) has been in force since 1 July 1989 and establishes a presidential council, a council of foreign ministers, a general secretariat, a consultative council and a judicial organ whose rulings bind.<br><br>No summit has been held since 1994, so the instrument supplies a legal frame for harmonisation and no working machinery. Harmonisation between Maghreb states therefore proceeds bilaterally where it proceeds at all.</details> | No change |
 | Regional collaboration | Shared regional infrastructure | A vendor with two European donors was [named for Sahel digital connectivity support](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) in June 2026, with no site, capacity or delivery figure for the country published. <details><summary>Full record</summary>The announcement names an equipment vendor working with two European government funders on Sahel connectivity ([announcement](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m)).<br><br>No Mauritanian site, capacity or delivery figure is published, so the country appears in a regional programme whose national share cannot be established.</details> | Advanced |
 | Regional collaboration | Cross-border data transfers |  | ***No evidence*** |
 | Standards | National interoperability standards | A [public digital service standards framework](https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/) is under development with German support, and the [state agency proposed to operate interoperability](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) has never been created. <details><summary>Full record</summary>A three-day standards and interoperability workshop was run by the ministry in March 2026 with German support; no framework or standard has been published ([workshop](https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/)).<br><br>The agency intended to operate national interoperability was proposed in July 2021 as a public establishment under the digital ministry with about fifty staff, EUR 220,000 to set up and EUR 1.4m a year to run, with a draft creation decree ([proposal](https://mtnima.gov.mr/wp-content/uploads/2024/05/20210916_PNUD_Proposition-ANETA_revised_clean-AN-Etat-1.pdf)). A June 2023 open-data strategy proposed reviving that decree to name the same body national interoperability operator, and no adoption, decree or launch is on record ([strategy](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf)).</details> | Advanced |
