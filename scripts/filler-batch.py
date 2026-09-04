@@ -194,6 +194,27 @@ def run_csv(iso: str, since: float) -> Path | None:
     return max(cands, key=lambda p: p.stat().st_mtime) if cands else None
 
 
+def prior_run_csv(iso: str) -> Path | None:
+    """The newest run CSV for this country, whatever its age.
+
+    **A country already searched end to end is meant to write no new run CSV.** §0's
+    re-run policy tells the session not to re-buy searched gaps, so a correct verification
+    pass leaves the last run's accounting standing and writes none of its own. `run_csv`
+    matches only a file written since this run started, so that pass reads as `no run CSV
+    written` — a PROBLEM, which keeps the country out of `done_recently`, which puts it
+    back at the head of the next batch's queue, which spends another fresh session
+    verifying the same finished country. TUN and SLE each went round that loop three times
+    on 2026-09-04 before anyone read the two runs side by side.
+
+    This is what the fallback reads to tell a verified country from a crashed one. It is
+    only ever consulted where the session itself came back clean and the queue cell is
+    claimed — a crash after an earlier good run still has an `err` and still reads as a
+    crash."""
+    cands = [p for p in RUNS.glob(f"{iso}-*.csv")
+             if not p.name.endswith(("-selected.csv", "-unselected.csv", "-misfiled.csv"))]
+    return max(cands, key=lambda p: p.stat().st_mtime) if cands else None
+
+
 def tally(path: Path) -> dict:
     """§7's run CSV, summed. The cap is auditable from this file alone, which is why the
     driver reads it rather than the session's account of it."""
@@ -394,11 +415,20 @@ def run_one(iso: str, a) -> dict:
         err = err or str(result.get("result", "session reported an error"))[:200]
 
     # What the session said, then what is on disk. Only the second decides the verdict.
-    csv_path = run_csv(iso, started)
-    t = tally(csv_path) if csv_path else {}
     lint_ok, lint_msg = lint_staged(iso)
     base_files, prog_files = staged_counts(iso)
     cell = claimed(iso)
+
+    # A session that declined to re-buy an already-searched country writes no run CSV, and
+    # that is the right outcome rather than a failure — see `prior_run_csv`. Fall back to
+    # the accounting that already stands, but only where the session came back clean and
+    # the cell is claimed, so a genuine crash is still a crash.
+    csv_path = run_csv(iso, started)
+    verified = False
+    if csv_path is None and not err and cell:
+        csv_path = prior_run_csv(iso)
+        verified = csv_path is not None
+    t = tally(csv_path) if csv_path else {}
 
     problems = []
     if err:
@@ -446,6 +476,9 @@ def run_one(iso: str, a) -> dict:
     print(f"--- {iso} {row['verdict']} in {mins:.0f}m — probed {row['probed']}, staged "
           f"{base_files} baseline + {prog_files} progress, nil {row['nil']}, "
           f"${row['cost_usd']}", flush=True)
+    if verified and not problems:
+        print(f"    · nothing re-bought — verified against the standing "
+              f"{csv_path.name}", flush=True)
     for pr in problems:
         print(f"    ! {pr}", flush=True)
     return row, result

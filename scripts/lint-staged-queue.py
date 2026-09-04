@@ -368,10 +368,29 @@ def check_body(docs: list[Doc], min_title: float,
                settled: set[str] | None = None) -> list[tuple[str, str, list[str]]]:
     """The crossing check. Returns (severity, path, lines).
 
-    A file the `url` check has already settled is skipped: it is the same finding
-    with a worse evidence line, and a second entry against one file reads as two
-    problems."""
-    settled = settled or set()
+    A file the `url` check has already settled is skipped, in **both** directions,
+    and the second direction is the one that was missing. Where the check fired,
+    a structural entry is the same finding with a worse evidence line and a
+    second entry against one file reads as two problems. Where the check *passed*
+    — the body carries its own `URL:` line and it equals the frontmatter's — the
+    file is settled exactly, and this module's opening paragraph says what
+    follows: *where the line is absent, the body still has to be read
+    structurally.* Absent, not present-and-matching.
+
+    **Running the heuristic over an exactly-settled file only manufactures
+    doubt** *(TUN, 2026-09-03)*. The INS *Flash Logements — RGPH 2024* PDF puts
+    its cover title outside the text layer, so the extraction opens at
+    `# SEPTEMBRE 2025`, scores 43% on its own title and traces neither `ins` nor
+    *Institut National de la Statistique* — three structural signals against a
+    body whose own `URL:` line is byte-identical to its `url:`. It was reported
+    SUSPECT, verified by hand, left in place, and then reported again on every
+    later pass, which is what a false positive costs when a batch driver reads
+    the exit code. Nothing about the exact check is a heuristic; where it has
+    spoken, the heuristics have nothing to add."""
+    settled = set(settled or set()) | {
+        d.path for d in docs
+        if d.body_url and d.url and same_url(d.url, d.body_url)
+    }
     findings = []
     for d in docs:
         if d.path in settled:
