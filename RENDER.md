@@ -134,11 +134,11 @@ python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.ht
 python scripts/catalogue.py       # -> site/catalogue/index.html, catalogue-data.js, raw-catalogue.{csv,json}
 ```
 
-Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vocab/`. Expect ~10,700 records, metadata only, each linking to its publisher. Stale place/topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`.
+Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vocab/`. Metadata only, each record linking to its publisher. Stale place/topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`. **The record count is not a fixed expectation and no figure is written here** — it was `~10,700` for weeks after the catalogue passed 16,000, which is a statement a render prints past every night without anything noticing. The count for the last build is in `outputs/catalogue/stats.json` and on the previous render's own log line; the serving shape it is heading for is `documentation/catalogue-serving-shape.md`.
 
 ### The names index — build it before the page
 
-`scripts/build-names-index.py` (BUILD stage 2b, from the workroot) writes `outputs/names/`: ~208,000 names keyed to stable document ids, in ~1,900 shards the catalogue page fetches one at a time on search. `catalogue.py` packs the shard keys into the page and copies the shards to `site/catalogue/names/`.
+`scripts/build-names-index.py` (BUILD stage 2b, from the workroot) writes `outputs/names/`: names keyed to stable document ids, in prefix shards the catalogue page fetches one at a time on search. `catalogue.py` packs the shard keys into the page and copies the shards to `site/catalogue/names/`. Shard count and index size track the catalogue and are not stated here for the same reason the record count above is not — the figures that stood in this line, `~208,000 names in ~1,900 shards`, had drifted to 4,655 shards and 47.6 MB by 2026-09-04.
 
 ```bash
 python scripts/rebuild.py --catalogue                 # BUILD stage 2 + 2b: catalogue, then names

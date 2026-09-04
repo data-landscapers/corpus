@@ -68,7 +68,7 @@ Cheap, because the base already holds what they need — and what distinguishes 
 
 ## 6. Open
 
-- **Serving shape of the catalogue.** ~7.2 MB JSON now; ~23 MB at the 30,000 records projected for spring 2027. A single fetch stops being defensible around 15–20k rows; `raw/` is already sharded by year, so sharding the catalogue the same way is nearly free — but the boundary is expensive to move once anything external consumes the file, and there are two consumers (the page, and the filtered download's export fetch). Decide before it breaks.
+- **Serving shape of the catalogue — decided 2026-09-04, in `documentation/catalogue-serving-shape.md`.** Not open any more, and the bullet that stood here was wrong twice over: it projected 30,000 records for spring 2027 when the log's own growth rate puts them in mid-October 2026, and it reached for year-shards, which the decision rejects because the page filters across the whole corpus and a year shard only helps a reader who has already chosen a year. The payload splits between filtering and displaying instead. Implementation waits for the end of the freeze.
 - **The home page.** It has to say what this is, to someone arriving from a link, in about eight seconds, without becoming a dashboard. Hardest page on the site.
 
 ## 7. Preconditions — met
