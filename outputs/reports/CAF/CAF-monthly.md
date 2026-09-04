@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: CAF
-ledger_rows: 12
-not_held: 15
-record: f825d345514c
+ledger_rows: 16
+not_held: 6
+record: 3b136896ddcf
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -54,6 +54,13 @@ The country's dependence on one neighbour was examined. A published assessment [
 <!-- narrative: ict-infrastructure--infra-store -->
 The base's only entry on storage this month is a continental project prospectus. A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the base holds no account of where the country's own public systems are hosted.
 <!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The power the digital estate runs on moved more this month than the estate did. A [50MW solar plant with 15MWh of battery storage was inaugurated on 12 August](https://www.wam.ae/en/article/c1p3six-uae%E2%80%99s-global-south-utilities-delivers-largest), reported to raise national generation capacity by over 60% and to strengthen grid stability.
+
+Against a baseline of 28MW installed and 16 to 18 hours of daily load-shedding, that is the largest single change on this ledger. What is not published is any post-commissioning figure: no availability, no load-shedding hours and no connection count, so the capacity is stated and its effect is not.
+<!-- /narrative -->
 
 ## DPI
 
@@ -73,12 +80,32 @@ Health information in the window is a single link run by someone other than the 
 An operator described its own contribution. Orange [published an account of work to build more accessible and inclusive public digital services in the country](https://fr.linkedin.com/posts/orange-centrafrique_orangecentrafrique-transformationnum%C3%A9rique-activity-7498417069621870592-Y_Eb). It names no service and carries no user figure, and it is the operator's own account of its role rather than the state's account of what it has delivered.
 <!-- /narrative -->
 
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+The month's only artificial-intelligence entry is a citizen's, not the state's. A national representative's own account records [the country represented at the continent's main machine-learning gathering in Lagos from 2 to 7 August, and a national artificial-intelligence pioneers grouping introduced there](https://www.linkedin.com/posts/kadidja-pombot-fall-9669781b5_dli2026-deeplearningindaba-dli2026-activity-7490088682880872448-E6E8).
+
+No membership, funding or output is published for the grouping, and it stands against a national strategy that has been in elaboration since November 2024 and has produced no text.
+<!-- /narrative -->
+
 ## Capacity
 
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
 Nothing moved in the research base this period. What changed is the record: the base had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+Registration and feedback for displaced people moved, and it moved outside government. An operational update for the second quarter records [37,389 registered Sudanese refugees, card-based registration, and a complaints and feedback system that had received 535 complaints](https://data.unhcr.org/en/documents/download/123755).
+
+It is the clearest instance on this ledger of a digital feedback channel reaching a displaced population, and the state's own centralised portal, launched in December, still carries no described feedback function at all.
 <!-- /narrative -->
 
 ## Data
