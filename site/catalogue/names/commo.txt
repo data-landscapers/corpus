@@ -4,12 +4,14 @@ Africa Minerals and Commodities Exchange	14311
 African Common Positions	6488
 African Common Proposals	7074
 African Minerals and Commodities Exchange	14311
+Aggravating Circumstances of Common Law Offences Under	15374
 Agricultural Commodity Exchange. Through Zaulimi	4172
 Air Commodore Dr Eng. Edgar Kamusoko	1554
 All Commonwealth	9645
 Annual Cash Based Transfer and Commodity Voucher	14945
 Anti Corruption Commission Investigators Commonwealth Africa	12972
 Apply Common But Differentiated Responsibilities	6960
+Attribution Creative Commons CC	15474,19,1133
 Average Gross Commodity Prices	2775
 B. Common	14415
 BAHATI COMMONCARE MEDICAL CENTRE Data Controller	7167
@@ -26,12 +28,13 @@ CHH Programme Commodity	12977
 CIS Commonwealth of Independent States CNSP Community	6946
 CMS Central Management System COMESA Common	13005
 CODE LISTS MOST COMMONLY USED	11180
-COMESA Common Market for Eastern and Southern Africa	11960,1428
+COMESA Common Market for Eastern and Southern Africa	11960,1428,3243
 COMMODITIES	4153
 COMMON GOAL RESEARCH CENTER Data Controller	7167
 COMMON GOOD	11006
 COMMON SEAL	585,8281
 COMMON STANDARDS	12338
+COMMONWEA LTH	16099
 COMMONWEALTH DIGITAL ROADSHOW UNDERWAY IN LESOTHO	12730
 COMMONWEALTH OF DOMINICA	13996
 COMMONWEALTH OF THE BAHAMAS	13996
@@ -48,7 +51,7 @@ Commodified Tech Stack TechPolicy.Press	6445
 Commodih	4349
 Commoditi	4301
 Commoditie	4202
-Commodities	4153,12,2,35,15,43,41,48,1003,2534
+Commodities	4153,12,2,35,15,43,41,48,1003,2534,7632
 Commodities Commoditv Commoditv	4349
 Commodities Commodity	4260,41
 Commodities Commodity Amount HIV	4153
@@ -76,7 +79,7 @@ Commodity TB Commodities ARVs and PrEP Opportunistic	4217
 Commodity Voucher	14945
 Commodity-backed	12882
 Commodité	10711
-Common	21,550,648,721,2236,263,89,883,742,998,115,747,30,562,1104,230,880,198,112,4,77,25,34,195,333,155,42,47,155,50,7,167,92,405,47,78,269,45,164,158,679,52,246,19,144,10,3,13,26,65,62,167,80
+Common	21,550,648,721,2236,263,89,883,742,998,115,747,30,562,1104,230,880,198,112,4,77,25,34,195,333,155,42,47,155,50,7,167,92,405,47,78,269,45,164,158,679,52,246,19,144,10,3,13,26,65,62,167,80,229,252
 Common African Position	5825
 Common Agenda	11028
 Common Agenda Policy Brief	11028
@@ -100,11 +103,15 @@ Common Criteria	7346
 Common Data	14965
 Common Data Categorisation and Sharing Framework	961
 Common Development Fund	13418,1517
+Common Digital Market Aligned	15831
 Common Dreams	7309
 Common Dwelling	12226
 Common Equity Tier	11131,3
+Common Error Responses	15630
 Common European Data Space for Cultural Heritage	7313
-Common External Tariff	1828,11735,61
+Common European Framework of Reference for Languages	15994
+Common External Tariff	1828,11735,61,2300
+Common External Tariff NDC Nationally Determined	15924
 Common Foundations	5676
 Common Good	5700,5306
 Common Good Economy	5700
@@ -115,7 +122,11 @@ Common ID System	10991
 Common Identifier Standards Service	11952
 Common Identifiers	11952
 Common Identifiers Requirement	11952
+Common Initiative Groups	16540
 Common Internet File System CLI Command	13185
+Common Interoperability Framework	764
+Common Interoperability Framework CNAM-GS National Health	15518
+Common Law	15469,130
 Common Law. Domestically	8354
 Common Market	827,11337,280,1119,88,758,812
 Common Market ARTICLE	14409
@@ -130,7 +141,7 @@ Common Market for Eastern and Southern Africa President	12353
 Common Market for Eastern and Southern Africa Summit	3760,9683
 Common Market for Eastern and Southern Africa's Regional	10718
 Common Market for Southern and Eastern Africa	14819
-Common Market of Eastern and Southern Africa	13320
+Common Market of Eastern and Southern Africa	13320,2350
 Common Market. ARTICLE	14409
 Common Market. S. VOTE OF THANKS	13440
 Common Markets for Eastern and Southern Africa	14960
@@ -140,14 +151,17 @@ Common Monetary Area. The Digital Lilangeni	11130
 Common National Digital Architecture	4126
 Common Operational Dataset Populations Statistics	15039
 Common Optimizations	6432
+Common Payment Application	15430
 Common Regional Frameworks	10508
 Common Reporting Standard	11233,743,3021
+Common Roadmap	16460
 Common Scenarios	6432
 Common Seal	585
 Common Seal and Authentication of Documents Rationale	8866
 Common Service Centers	14965
 Common Services Centers	14965
 Common Services Office	10063
+Common Skin Diseases	16329
 Common Standards	3861
 Common Support	12978
 Common Systems	14965
@@ -169,7 +183,7 @@ Commons	7313
 Commons Attribution	9129,108
 Commons Incubator	7313
 Commonsoft Sa	12478
-Commonwealth	249,2341,1536,46,1000,1254,460,833,323,936,652,403,218,1,511,254,66,50,60,9,1,1,1,1,1,1,715,83,36,159,209,265,55,225,606,506,75,608,43,54,212,5
+Commonwealth	249,2341,1536,46,1000,1254,460,833,323,936,652,403,218,1,511,254,66,50,60,9,1,1,1,1,1,1,715,83,36,159,209,265,55,225,606,506,75,608,43,54,212,5,409,68,79,665,151
 Commonwealth Association of Architects	12369
 Commonwealth Cybercrime Journal	9616
 Commonwealth Development Corporation	11131,3
@@ -193,15 +207,16 @@ Commonwealth Telecommunications Organisation	7719,5011,2020
 Commonwealth Volleyball Tournament	6946
 Commonwealth War Graves Commission Data Controller	7167
 Commonwealth West Africa	9616
-Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9,855,9,169,1026,336,8,1371
+Commonwealth and Development Affairs	15506
+Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9,855,9,169,1026,336,8,1371,1092
 Commonwealth and Development Office FM Financial Management	10768
 Commonwealth and Foreign	11129
 Commonwealth of Australia	11156,2376
 Commonwealth of Independent	6946
-Commonwealth of Independent States	6946,3818,799,2098
+Commonwealth of Independent States	6946,3818,799,2098,1810
 Commonwealth of Independent States Agreement	10764
 Commonwealth of Independent States Armenia Azerbaijan	10764
-Commonwealth of Learning	8609,1146,4992,65
+Commonwealth of Learning	8609,1146,4992,65,729
 Commonwealth of Nations	12327,2082
 Commonwealth-backed	10252
 Commonwealth39	12675
@@ -209,26 +224,28 @@ Commonwealth’s Meridian Team	11134
 Compactors Common	12253
 Continental Common Market. Trading	2117
 Corporate Finance Commons	10
-Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34,276,1,221,187,664,28,452,2019,172,231
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132
-Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583
+Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34,276,1,221,187,664,28,452,2019,172,231,342,242,1,1,9,1,906
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160
+Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,550,33
 Creative Commons Attribution International License	11927
-Creative Commons Attribution License	8376,2543,1084,228,15,1877,543
+Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358
 Creative Commons Attribution NonCommercial ShareAlike	2709
 Creative Commons Attribution NonCommercial-ShareAlike	11376
 Creative Commons Attribution-	15129
 Creative Commons Attribution-4.0 International	15118
 Creative Commons Attribution-Non Commercial-Share Alike	13889,99
-Creative Commons Attribution-Non- Commercial-Share Alike	10844,719
+Creative Commons Attribution-Non- Commercial-Share Alike	10844,719,3908
 Creative Commons Attribution-Non-Commercial	10841
 Creative Commons Attribution-NonCommercial	12467,240
 Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128,370,1,1100
 Creative Commons Attribution-NonCommercial-Share Alike	10764
-Creative Commons Attribution-NonCommercial-ShareAlike	14898
+Creative Commons Attribution-NonCommercial-ShareAlike	14898,827
+Creative Commons Attribution-Share Alike	15541
 Creative Commons Attribution-ShareAlike	12486,1585
 Creative Commons AttributionNonCommercialShareAlike	11006,1
 Creative Commons Attrlbution-ShareAlike Ucense	1009
 Creative Commons Attrlbutlo11	1009
+Creative Commons CC	15715
 Creative Commons Licences	14723
 Creative Commons License	13425
 Creative Commons NonCommercial	8602,1,1,1,1
@@ -248,6 +265,7 @@ EAC Common External Tariff	7548,5809
 EAC Common Market	8546,3618
 EAC Common Market Protocol	961,11203,63,1383
 EAC’s Common External Tariff	10313
+ECOWAS Common Positions	16243
 ENGLISH COMMON MARKET FOR EASTERN	13440
 East African Community Common External Tariff	6921
 East African Community Common Market Protocol	7506
@@ -290,6 +308,7 @@ International Commodity Market Outlook	13685
 International Trade and Commodities of UNCTAD. UNCTAD	13382
 Job Descriptions for ICT Common Services	12917
 Journal of Common Market Studies	11050
+Kenya and Uganda. Common	15411
 Lab Commodities	4153,14,35,58,41,48,1003
 Lab Commodities HIV Rapid Test Kits	4217
 Lab Commodities Lab Commoditv	4260
@@ -332,6 +351,8 @@ OECD's Common Reporting Standard	11685
 OPC I2 Strengthen the ICT Common Service	12917
 Official Creditor Committee Under the G20 Common	14018
 Open Banking and Open Data. Common	13532
+Open Data Commons Attribution	15714
+Open Data Commons Attribution License	15714
 Open Data Commons Open Database License	1232,1026
 Operations Commons	10
 PM Where Gardner Commons	42
@@ -356,6 +377,7 @@ Rapid Scan. Creative Commons Attribution	1248
 Regional Data Commons	6250
 Regional Data Commons for Africa	14819
 Revised Common Reporting Standard	11685
+SA ALLIANCE MINING COMMODITIES GU	16623
 SACU and Commonwealth	12962
 SADC Common Positions and Proposals	9292
 SADC Common Positions and Proposals for WRC-27	9292
@@ -366,9 +388,11 @@ Shakantu Common Core Document The Ministry	12936
 Shape Our Common Future	4148
 Short Title and Common Reference	3861
 Sistema de Gestão da Dívida Pública da Commonwealth	12796
+Social Twitter Facebook License Creative Commons	16466
 Strategic Commodities	13978
 Strengthening of ICT Common Services	12917
 Structured Commodity Trade Finance	11469
+T ALLIANCE MINING COMMODITES GUINEE	16623
 TB Commodity	4301
 Technology and Innovation Commons	14324
 U.S. Government Commodity Funding	4217
@@ -379,7 +403,7 @@ UK House of Commons	14753
 UN Common Approach	14959
 UNESCO and Commonwealth of Learning	14812
 Under the Commonwealth’s Nagdi	4172
-Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783,206,778,2,1583
+Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783,206,778,2,1583,550,33
 United Nations Common Approach	14959
 Unreconciled Loan Balances Between Commonwealth Secretariat	14546
 Using the Common Alert Protocol	15120

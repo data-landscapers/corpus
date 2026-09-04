@@ -1,29 +1,36 @@
 A1 RT OP PROJECT&UserID	126
+Bank OP	16614
 Circular Ref. OP	6946
 DOCUMENTATIO Chronos des N ET DES OP	10975
-Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23
-Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1
+Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531
+Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1,2079,102,40
 Environmental Assessment OP	12137
-Forests OP	11525,330,282
+Environmental Assessment and OP	16614
+Forests OP	11525,330,282,3274
 HCP. Op. Cit	8891
-Indigenous Peoples OP	11525,330,282
-International Waterways OP	1284,583,1589,148,7164,61,134,1,453,108,330,50,60,172,289,685,220,1,191,1030,23
-Involuntary Resettlement OP	11525,330,282
+Health and Safety OP World Bank Operation	15515
+Indigenous Peoples OP	11525,330,282,3274
+International Waterways OP	1284,583,1589,148,7164,61,134,1,453,108,330,50,60,172,289,685,220,1,191,1030,23,835,102,40,105,3,483,531
+Involuntary Resettlement OP	11525,330,282,3274
 National Fiber Op Crosswalk	257
 National Strategic Development Plan II OP	12759
-Natural Habitats OP	11525,330,282
+Natural Habitats OP	11525,330,282,3274
+Neither the Indigenous Peoples OP	15411
 OICA. Op. Cit	8891
 OND October-November-December OP Older Persons OPCT	2775
 OP Information Technology	6946
 OP Operational Technology PABX Private Automatic	6946
 OZONE DEPLETING SUBSTANCES OP	12253
-Op Cit	8891
-Op. Cit	8891
+Op Cit	8891,6582
+Op. Cit	8891,6582
+Op. Cit. and Cousins	15473
 Performance Standards for Private Sector Activities OP	11855,282
-Pest Management OP	11525,330,282
-Physical Cultural Resources OP	11525,330,282
+Pest Management OP	11525,330,282,3274
+Physical Cultural Resources OP	11525,330,282,3274
 Project Yes No Environmental Assessment OP	11525,330
 Regulatory Authority OP Operational Policy TSA	14897
 SAIIA OP	1006
-Safety of Dams OP	11525,330,282
+Safety of Dams OP	11525,330,282,3274
+Term Review OP Ministère	15424
 WET OP REGISTRASIE VAN AKTES	11217
+World Bank's Operation Policy OP	16638

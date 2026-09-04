@@ -8,6 +8,7 @@ A. Basic Project Data	12426
 A. Basic Project Data P175363 Adaptive	10963
 A. Basic Project Data Project	13793,1161,143
 A. Data	13039
+A. Report Data Prepared	15758
 A.M.S. INSURANCE BROKERS LIMITED Data Controller	7167
 A.M.S. INSURANCE BROKERS LIMITED Data Processor	7167
 A.N.G.C NDUMBERI CHILD DEVELOPMENT CENTRE Data	7167
@@ -136,6 +137,7 @@ ACP Countries Data Protection	27
 ACQUIRE CREDIT LIMITED Data Controller INST-90624556963	7167
 ACQUIRE CREDIT LIMITED Data Processor INST-90624556963	7167
 ACRE POINT REALTORS LTD Data Processor	7167
+ACSI Data	15553
 ACTED ENGINEERING LIMITED Data Processor INST-47669101004	7167
 ACTION PLAN Facilitate Data Access	4126
 ACTION RIFT SECURITY LIMITED Data Processor	7167
@@ -160,6 +162,7 @@ ADAPT IT SOLUTIONS LIMITED Data Processor	7167
 ADAPTIVE SERVICES LIMITED Data Processor INST-4758823DE26	7167
 ADC DANISA DISPENSARY Data Controller INST-666536EA301	7167
 ADC DANISA DISPENSARY Data Processor INST-334549AA87A	7167
+ADDITIONAL FINANCING DATA SHEET	15983
 ADDRESS POINT LIMITED Data Controller INST-952593C30A0	7167
 ADEA EDUCATION AND SKILLS DATA CHALLENGE	13636
 ADEA Education and Skills Data Challenge	13636
@@ -211,6 +214,7 @@ ADVENT VALUERS LIMITED Data Processor INST-8826509083D	7167
 ADVTECH KENYA LIMITED Data Controller INST-1016771E93F	7167
 ADVTECH KENYA LIMITED Data Processor INST-5074051A5C9	7167
 AEGIR CONSULT LIMITED Data Processor INST-89090571C0E	7167
+AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA	15774
 AEROSPEED CONSULTANTS LTD Data Controller INST-564786FFD42	7167
 AES PGES- DATA CENTER PRINCIPAL OBJECTIFS	14489
 AETHER INSURANCE AGENCY LIMITED Data Controller	7167
@@ -406,11 +410,13 @@ AI Governance and Responsible Data Acquisition	11313
 AI Infrastructure and Data Governance Pillar	4528,7984
 AI Infrastructure and Data Governance Unit	4528,7984
 AI Office. Citizen Data Hub	14752
+AI Patent Granting System Data Initiative	15713
 AI Security and Data Security	12926
 AI Strategy Implementation Office and National Data	4528,7984
 AI Tags Data International Approaches and Co-operation	11000
 AI and A- Data Centre Compute Capacity	7548
 AI and Big Data	3604
+AI and Big Data. In Benin	16144
 AI and Data	12971
 AI and Data Analytics	12210,2345
 AI and Data Centers Eng. Raafat Hindi	11738
@@ -419,13 +425,16 @@ AI and Data Governance National AI Strategy	11135
 AI and Data Literacy	4528
 AI and Data Literacy Ministry of Primary	12512
 AI and Data Readiness Grants	14664
+AI and Data Science	15718
 AI and Data Science. CONCLUSION The State	11277
 AI and Data Sciences	1814
 AI for Malawi National Language Data Trust	6813
+AI-CAF Talent Data Technology Stage-1 Egypt	15713
 AI-ready Data Centre	14508
 AI-ready National Data Centre. Addressing Huawei	13210
 AI-ready Tier III Data Centre	6388,8811
 AI. Data	1814
+AI. Detailed Data Strategy	15713
 AI. Developing Open Data	13314
 AIB-AXYS AFRICA LIMITED Data Controller INST-29436460A63	7167
 AIB-AXYS AFRICA LIMITED Data Processor INST-29436460A63	7167
@@ -618,6 +627,8 @@ ALMER MEDICAL SERVICES LIMITED Data Controller	7167
 ALNASRI MEDICAL CENTRE Data Controller INST-434046FF974	7167
 ALO CREDIT LIMITED Data Controller INST-9147872938F	7167
 ALOFT MARKETING LIMITED Data Controller INST-2122424505D	7167
+ALP Frequency Annual Data	15661
+ALP- Female Frequency Annual Data	15661
 ALPESHY CATERERS LTD Data Controller INST-585595F4C72	7167
 ALPHA HILL MEDICAL CENTRE LTD Data	7167
 ALPHA JAY HEALTH CARE Data Controller	7167
@@ -988,6 +999,7 @@ ASTRADENTAL SERVICES LTD Data Processor INST-9227199F756	7167
 ASTRAL AERIAL SOLUTIONS LIMITED Data Controller	7167
 ASTRAL AERIAL SOLUTIONS LIMITED Data Processor	7167
 ASTURE CREDIT LIMITED Data Processor INST-166361A5597	7167
+ASYCUDA Automated System for Customs Data ASYCUDA	16631
 ASYCUDA Automated System for Customs Data AWP	969
 ASYCUDA Automated System for Customs Data CatIS	13861
 ATAGLOB LIMITED Data Processor INST-252924AB19A NAIROBI	7167
@@ -1017,7 +1029,7 @@ AU Continental Data Policy Framework. DPC	1779
 AU Cybersecurity and Data Protection Convention	5244
 AU Data	1243
 AU Data Policy	961
-AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178,155
+AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178,155,1112
 AU Data Policy Framework AU Convention	12055,1402
 AU Data Policy Framework Simplified Version	3162
 AU Data Policy Framework and Africa Digital	1243
@@ -1029,6 +1041,7 @@ AU Data Policy Framework. Agency	3595
 AU Data Policy Framework. Based	1243
 AU Data Policy Framework. Sierra Leone	2118
 AU Data Policy Framework. Specifically	14486
+AU-OHDAA. One Health Data Alliance Africa	16195
 AUA INDUSTRIA LIMITED Data Controller INST-843644B6933	7167
 AUCTION PALACE INVESTMENTS LIMITED Data Controller	7167
 AUDIA CHESEREM KIRWA Data Processor INST-41629510D2C	7167
@@ -1115,8 +1128,11 @@ AZMARA NURSING HOME LIMITED Data Controller	7167
 AZMASOFT CONSULTING LIMITED Data Controller INST-7642954CFC9	7167
 AZURIE CHILDREN'S MEDICAL CENTRE LIMITED Data	7167
 AZWARA NURSING HOME Data Controller INST-6175651D6BC	7167
+Abbreviation Affiliation Role Development Data Group	15844
 Abbreviations DQAF Data Quality Assessment Framework	12902
+Abdel-Fatah El-Sisi KNOWLEDGE MANAGEMENT Personal Data	15484
 Abebe A. Data	3791
+Abomey-Calavi Data Center	16144
 About Personal Data Protection	10911
 About the AU Data Policy Framework	4123,8940,417
 About the Data Summit and Nafasi	8713
@@ -1165,8 +1181,11 @@ Act. Civil Registry Data	14854
 Act. DATA PROTECTION AND PRIVACY BILL	1474
 Act. DEFINITION OF OPEN DATA	11854
 Act. Data Protection	12301,734
+Action Description D-I6-A1 Data	15713
 Acumen EA Advisory Services Limited Data	7167
 Ada Lovelace Institute’s Participatory Data	11007
+Adaptable Program Loan Project Financing Data	15372
+Addition of Ghana Water Service and MTN Data	15867
 Address Data System	14790
 Adelko Consulting Services LTd Data Processor	7167
 Adept Technologies Data Controller INST-15732516986 NAIROBI	7167
@@ -1187,8 +1206,11 @@ Adopt Open Data Policies	5244
 Adopt and Implement Data Governance Guidelines	15034
 Adopt and Implement Data Governance Guidelines Government	15034
 Adopted Personal Data Protection Proclamation	12184
+Adoption of Technology and Data Systems	15845
 Advance New Data Governance Innovations and Principles	3810
+Advanced Level Law of Data Security and Investigations	15662
 Advancement of Public and Private Sector Data Utilization	11529
+Advancing Cloud and Data Infrastructure Markets	16144
 Advancing Data and Evidence	678
 Advancing Livestock Data	1368
 Advancing National AI Strategy and Data Centre	14198
@@ -1244,6 +1266,7 @@ Africa Data In Construction	10861
 Africa Data Leadership Initiative	2118,665,3569,287,29
 Africa Data Policy Framework	961
 Africa Data Protection	2459
+Africa Data Protection URL	16360
 Africa Data Protection and Localisation Landscape	1243
 Africa GovTech Data Year	13984
 Africa Guide Data Protection	12232
@@ -1264,9 +1287,11 @@ Africa-focus. Data	495
 Africa. Data	1814
 Africa. Data Policy	9739
 Africa. PAIX Data Centres CEO Wouter	2320
+Africa. Scientific Data	16135
 African Actors of Data Center Association	10077
 African Centre for Technology Studies Data Controller	7167
 African Citizen Digital Health Data	5456
+African Continent Using TAMSAT Data	16135
 African Convention of Cybersecurity and Personal Data	12333
 African Data Centre	1697
 African Data Centre Association	7127,709
@@ -1283,11 +1308,12 @@ African Network of Personal Data Protection Authorities	2734
 African Plant Nutrition Institute Data Controller	7167
 African Plant Nutrition Institute Data Processor	7167
 African Population and Health Research Center Data	7167
+African Region Data Governance Protocol	16241
 African Regional Data Cube	345
 African Renaissance Trust Data Controller INST-57051983125	7167
 African Spatial Data Infrastructure	13645
 African Union Data Policy	14752
-African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197,1090
+African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197,1090,1696
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
 African Union Data Policy Framework and Malabo	3861
@@ -1380,6 +1406,7 @@ Amossys Consulting Services Private Limited Data	7167
 Amplify Girls Africa Data Controller INST-288256B6952	7167
 Amplify Girls Africa Data Processor INST-288256B6952	7167
 An- Data	10780
+Analyse du Big Data	16639
 Analysis By VERITAS THE Cyber and Data	9251
 Analysis and Publication of Sex-Disaggregated Data	12389
 Analysis of Cable Repair Data	2677
@@ -1459,12 +1486,14 @@ Aptic Credit Limited Data Controller INST-64446293E0E	7167
 Aptivaa Management Consulting LLC Data Processor	7167
 AquaSee Networks Ltd Data Controller INST-80838526970	7167
 Aquisition de Data Center National	4385
+Arab Rep. Data	15725
 Ardhi Group Holdings Limited Data Controller	7167
 Ardhi Sacco Society Ltd Data Controller	7167
 Ardhitech Consulting Limited Data Processor INST-2533017E913	7167
 Area ASYCUDA Automated System for Customs Data	12951
 Area of Open Data	11854
 Arinifu Technologies LTD Data Controller INST-104373E0867	7167
+Armed Conflict Location and Event Data	16359
 Armok Auctioneers Data Processor INST-501456115AC BUNGOMA	7167
 Armon Technologies Limited Data Processor INST-157179C1A5A	7167
 Aronet Company Limited Data Processor INST-36271452E0E	7167
@@ -1506,6 +1535,8 @@ Automated System for Customs Data BMS	13053
 Automated System for Customs Data Why ASYPM	13042
 Automatic Data Processing	972,12347
 Automatic Processing of Personal Data	8776,5957
+Automating Data Capture KINGDOM	16631
+Automating Data Capture The Eswatini Revenue	16631
 Autopax Limited Data Controller INST-612415FD98A NAIROBI	7167
 Autopax Limited Data Processor INST-612415FD98A NAIROBI	7167
 Autotech Solutions Limited Data Controller INST-4246770FB7A	7167
@@ -1626,14 +1657,14 @@ BASHA RUKUNGA HALAL COMPANY LIMITED Data	7167
 BASHEY NURSING HOME LIMITED Data Controller	7167
 BASHY AFRICAN CREDIT LIMITED Data Controller	7167
 BASHY AFRICAN CREDIT LIMITED Data Processor	7167
-BASIC DATA	11965,2073,1152
+BASIC DATA	11965,2073,1152,1208
 BASIC DATA A. Product Information Main	14553
-BASIC DATA Operation ID	14971
+BASIC DATA Operation ID	14971,1019
 BASIC DATA Product Information	15190
-BASIC DATA Product Information Operation ID	2473,2180
+BASIC DATA Product Information Operation ID	2473,2180,11316,63,155,249
 BASIC DATA Product Information Operation Name	11924
 BASIC DATA Product Information Project ID	1228
-BASIC INFORMATION A. Basic Project Data	3456,9655,412,1053
+BASIC INFORMATION A. Basic Project Data	3456,9655,412,1053,937,37
 BASIC INFORMATION OPS TABLE BASIC DATA Project ID Project	10963
 BASICOM CONSULTING GROUP LLP Data Controller	7167
 BASIGO LIMITED Data Controller INST-17454127319 NAIROBI	7167
@@ -2229,6 +2260,7 @@ Base Resources Limited Data Processor INST-5055129782F	7167
 Baseline Annual Targets Responsibility Data Sources	14997
 Baseline Data	12399
 Basic Data	996
+Basic ICT Infrastructure Connectivity Aspect Data	15679
 Basic Property Data	11129
 Batian Registrars LLP Data Processor INST-14915972070	7167
 Bavarian State Office for Data Protection Supervision	10090
@@ -2244,9 +2276,11 @@ Benefits of Data Security and Privacy Standards	12360
 Benefits of Standardizing Data Definition	12360
 Benin Data Protection Authority and UNICEF	5547
 Benin and Mali Enhance Data Protection Cooperation	2734
+Benin the Smart Africa Data Exchange	16144
 Benin's National Artificial Intelligence and Big Data	6893
 Benin's National Data Strategy	4050
 Benin's Personal Data Protection Authority	2734
+Benin. Women Count Data Hub. Retrieved	16144
 Benjamin Kahura Kamau Data Processor INST-9107896F0D4	7167
 Benson Kipngetich Towet Data Processor INST-893823CC3C4	7167
 Betachem Data Processor INST-4863935A432 NAIROBI Kenya	7167
@@ -2263,16 +2297,18 @@ Bid Data Sheet Documents	13618
 Bid Data Sheet. D.3.2 Any Bid	14778
 Bid Data Sheet. F.5 Signing	14778
 Bidding Data Sheet	13185
-Big Data	571,109,281,254,3,25,853,167,82,169,302,465,206,117,1620,318,432,858,158,511,154,48,1,11,212,533,668,327,239,543,599,38,154,22,106,109,106,25,1,172,521,8,235,26,94,473,95,325,205,953,225,21,129
+Big Data	571,109,281,254,3,25,853,167,82,169,302,465,206,117,1620,318,432,858,158,511,154,48,1,11,212,533,668,327,239,543,599,38,154,22,106,109,106,25,1,172,521,8,235,26,94,473,95,325,205,953,225,21,129,704,1,135,41,151,728
 Big Data Analytics	961,5871,5676
 Big Data Analytics CATHSSETA	6832
 Big Data Analytics DNS	958
 Big Data Center	4758
+Big Data Centers	15734
 Big Data Centre	4727,1
 Big Data Laws and Regulations	12675
+Big Data Principales	15583
 Big Data Processing Capacity RAM	11863
 Big Data Purpose Data Data	1243
-Big Data and Analytics	12333,26
+Big Data and Analytics	12333,26,3194
 Big Data and Artificial Intelligence	4762
 Big Data and Big Data	9128
 Big Data and Big Data Analytics	958
@@ -2306,7 +2342,7 @@ Bittiner Hub Data Processor INST-652631BF86A NAIROBI	7167
 Blantyre Data Centre	12253
 Blis Dental Clinic Limited Data Controller	7167
 Bloomberg Philanthropies Data for Health	13425
-Bloomberg Philanthropies Data for Health Initiative	13425,1631
+Bloomberg Philanthropies Data for Health Initiative	13425,1631,543
 Bloomberg Philanthropies Data for Health Initiative Global	12672
 Bloomberg Philanthropies. Data	13425
 Bloomberg and Data Center Dynamics	6266
@@ -2360,6 +2396,7 @@ Botswana Data Quality Assurance Framework	12551
 Botswana's Data Protection Act	7438
 Botswana's Data Protection Act No	2265
 Botswana's Kala Data Centre	3649
+Boundary Demarcation and Boundary Data Integration	16511
 Box A. Key Concepts and Definitions Data	4214
 Box Data and LTE-TDD	1818
 Boyani Dispensary Data Controller INST-14979822BC5 KILIFI	7167
@@ -2418,7 +2455,7 @@ Bungoma North Technical and Vocational College Data	7167
 Bungoma Township Vocational Training Centre Data	7167
 Bungoma West Hospital Data Processor INST-8497939EDCF	7167
 Bureau Data Quality	2775
-Burkina Faso Data	10859
+Burkina Faso Data	10859,5060
 Burkina Faso Strengthens Data Protection	3536
 Burkina Faso's Data Portal	11867
 Burkina Open Data Initiative	8678
@@ -2490,6 +2527,7 @@ CAMP NDUNDA FALLS LIMITED Data Controller	7167
 CAMP SWAMP AFRICA Data Controller INST-3738378C933	7167
 CAMPTREK SAFARIS LTD Data Controller INST-36502405E3B	7167
 CAMTEL Data Center	4281
+CAMTEL's Data Centre	16062
 CAN MDAs OBTAIN DATA CONTROLLING	13381
 CANA HOSPITAL LTD Data Controller INST-14512254709	7167
 CANAAN MEDICAL CLINIC LIMITED Data Controller	7167
@@ -2686,6 +2724,7 @@ CFK Africa Data Controller INST-55246315138 NAIROBI	7167
 CFK Africa Data Processor INST-55246315138 NAIROBI	7167
 CFL AND COMPANY Data Controller INST-4564611209B	7167
 CFL AND COMPANY Data Processor INST-4564611209B	7167
+CFPS Data	16144
 CFT Related Data and Statistics	14809
 CG Madison Kenya Limited Data Processor	7167
 CH EXPERIENCE LIMITED Data Processor INST-601987D45E7	7167
@@ -2725,6 +2764,7 @@ CHAPCHAP MEDICAL CLINIC Data Controller INST-315124DB408	7167
 CHAPEO CAPITAL LIMITED Data Controller INST-174400E3C81	7167
 CHAPPLUS LIMITED Data Controller INST-836199769AA NAIROBI	7167
 CHAPTER FOUR DATA CONTROLLERS AND DATA	12185
+CHAPTER FOUR Data Protection Officer First	15484
 CHARIE KIDS TRANSPORT SERVICES Data Processor	7167
 CHARITY MEDICAL HOSPITAL LIMITED Data Controller	7167
 CHARITY NKIROTE Data Processor INST-76984957C1B MERU	7167
@@ -3054,6 +3094,8 @@ CONSULT CABANE AFRICA LIMITED Data Processor	7167
 CONSULTING LIMITED Data Processor INST-198778CBA2C NAIROBI	7167
 CONTENT AGGREGATION LIMITED Data Controller INST-9863606D44F	7167
 CONTENT AGGREGATION LIMITED Data Processor INST-9863606D44F	7167
+CONTENTS DATA SHEET	15601
+CONTENTS Data Sheet A. Basic Information	16614
 CONTINENTAL DATA STANDARDS	961
 CONTROL RISKS GROUP LIMITED Data Processor	7167
 CONTROLTECH LIMITED Data Controller INST-6898333F2B3 NAIROBI	7167
@@ -3124,7 +3166,9 @@ COVENANT MEDICAL CLINIC LIMITED Data Controller	7167
 COVERED DATA SYSTEM ACCESS L. Purpose	3972
 COVERT RISK ASSESSORS LTD Data Processor	7167
 COVID Data Tracker	5700
+COVID-19 ROLLOUT Data Sharing	16631
 COWATER KENYA LIMITED Data Controller INST-357970FCA7E	7167
+CPD Frequency Annual Data	15661
 CPF ASSET MANAGERS LIMITED Data Controller	7167
 CPF ASSET MANAGERS LIMITED Data Processor	7167
 CPF CAPITAL AND ADVISORY LIMITED Data	7167
@@ -3282,6 +3326,7 @@ Cabo Verde Establishment of Open Data Policy	11873
 Cabo Verde NEED THE LATEST DATA	12002
 Camama. Os Data Centers	11317
 Camfed Kenya Data Controller INST-2507074914D NAIROBI	7167
+Can Data Improve Learning Outcomes	15765
 Can Europe’s Digital Markets Act and Data	6879
 Can Standard Data	5244
 Canadian AI and Data Act	1814
@@ -3294,6 +3339,7 @@ Cape Verde Law Data Protection Law	11943
 Cape Verde Spatial Data Infrastructure	11867
 Cape Verde The Cape Verdean Data	11943
 Cape Verde The Data Protection Law	11943
+Capital Data Center	15656
 Capital Strategies Kenya Limited Data Controller	7167
 Capital Strategies Kenya Limited Data Processor	7167
 Capitol Diamond Sorage and Auction Yard Data	7167
@@ -3314,6 +3360,7 @@ Carrier-neutral Data	3184,1,1340,6470
 Cases Action Steps Impact Diversity and Data	14997
 Cashbass Africa Limited Data Controller INST-348239B4746	7167
 Casline Medical Centre Data Controller INST-9880402C564	7167
+Cassava Production Forecast. Data	15838
 Cassava Technologies. Africa Data Centres	1820
 Cassava's Africa Data Centres	1843
 Cassava’s Africa Data Centres	4425
@@ -3328,6 +3375,7 @@ Catholic Diocese of Nakuru Data Processor INST-454011F253C	7167
 Catholic Organization for Relief and Development Aid Data	7167
 Catholic Relief Services Data Controller INST-565076B2C51	7167
 CausalFoundry Spain SL Data Processor INST-555721B874F	7167
+Ce Data Center	16438
 Cecilia Njoki Ngoiri Data Processor INST-334171BDFC2	7167
 Ceftriaxone Interopérabilité AMR Data Center Activée	14622
 Cell C Day-by-Day Night Data Bundles	11259
@@ -3341,13 +3389,14 @@ Center for Data Innovation	1243,3508
 Center for Public Health and Development Data Controller	7167
 Central African Republic Data	2504,1414
 Central African Republic PROJECT FINANCING DATA	10829
-Central Data Catalog	9485
+Central Data Catalog	9485,6359
 Central Data Repository	4782
 Central Open Data Team	14790
 Central Rift Community Development Program Data	7167
 Centralising Data for Better Decision-Making The ZNSDI	13645
 Centre Data Controller INST-835848AF6E4 GARISSA Kenya	7167
 Centre Data Processor INST-348424E1EB8 NAKURU Kenya	7167
+Centre des Urgences de Yaoundé Bloomberg Philanthropies Data	15599
 Centre for Applied Data Science	8142
 Centre for Data and Digital Communications	15318
 Centre for Domestic Training and Development Data Controller	7167
@@ -3416,13 +3465,14 @@ Chesongoch Vocational Training Centre Data Processor	7167
 Chesta Dispensary Data Controller INST-145727A6EF4 WEST	7167
 Chief Data Analytics Officer	11997
 Chief Data Management and Security Officer de Mauritius	9948
-Chief Data Officer	3861,11173
+Chief Data Officer	3861,11173,549
 Chief Data Officer Manuel	748
 Chief Data Officer11	748
 Chief Data Officers	3861
 Chief Executive Officer of Medallion Data Centres	10424
 Chief Executive Officer of Open Access Data	11168
-Chief Statistician and Data Officer	11554,419
+Chief Open Data Officer	15714
+Chief Statistician and Data Officer	11554,419,3778
 Chief Technology Officer DC Data Centre	6432
 Childline Kenya Data Controller INST-176101095E1 NAIROBI	7167
 Children of God Relief Institute Data Processor	7167
@@ -3452,6 +3502,7 @@ Citizen Data Hub	14566,186
 Citizen Generated Data	14594
 Citizen Mbeya. Tanzania’s Personal Data	5002
 CitizenApp Data Interoperability System	3250
+Citizens’ Data Update Form	15811
 Cittadinanza Kenya Data Controller INST-58725710F8C NAIROBI	7167
 City Data Centre Name Data Centre	6432
 Civil Registration Data	13005
@@ -3461,6 +3512,8 @@ Civil Status Data Centre	557
 Claremont Mediserve Data Controller INST-5186125FEC6 NAIROBI	7167
 Claremont Mediserve Data Processor INST-5186125FEC6 NAIROBI	7167
 Clarifying Lawful Overseas Use of Data Act	5302
+Classement Global Open Data Index	16641
+Classement Open Government Data Index	16641
 Classic Talents Optimization Limited Data Processor	7167
 Classified Data	3861
 Clean Start Solutions Limited Data Controller	7167
@@ -3484,13 +3537,15 @@ Coinly Technologies Limited Data Controller INST-7315170775A	7167
 Colcheccio Limited Data Controller INST-982584F4D6A LAIKIPIA	7167
 Colcheccio Limited Data Processor INST-982584F4D6A LAIKIPIA	7167
 Collect Data	12642
+Collection Data Market Development and Integration CSIRTs	16144
 Collection Responsibility for Data MASFAMU Collection Page	10768
 Collection Responsibility for Data MoHAIS	1867
 Collection Responsibility for Data MoHAIS Collection Number	1867
 Collection Responsibility for Data MoHAIS Collection People	1867
+Collection Responsibility for Data PCU	15661
 Collection Responsibility for Data The MOH	11417
 Collection and Processing Personal Data	11662
-Collection of Administrative Data	12344,1754
+Collection of Administrative Data	12344,1754,1519
 Collection of Biometric Data	11877
 Collstep Limited Data Controller INST-2530594D036 NAIROBI	7167
 Colo Colocation DC Data Center DIF	10781,1646,2055
@@ -3536,8 +3591,12 @@ Compland Company Limited Data Controller INST-51414381138	7167
 Complementary Pillar Data	2557
 Complete Solutions Insurance Brokers Limited Data	7167
 Completely Ban Cross-Border Data Transfers	7173
+Composants Data	15583
 Comprehensive Data Domain Classification	3861
+Comprehensive Data Governance Frameworks and Standards	15713
+Comprehensive Data Governance Frameworks and Standards Code	15713
 Comprehensive Data Protection Law	12675
+Comprehensive Data Regulation System	15713
 Comprehensive and Robust Data Infrastructure	14795
 Computech Limited Data Controller INST-933817C4FDC NAIROBI	7167
 Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
@@ -3548,6 +3607,7 @@ Concern Worldwide Data Controller INST-21596411DEC NAIROBI	7167
 Conclusion Data	12189
 Conclusion Ghana’s Data Protection Act	8776
 Conditions for Consent DATA PROTECTION AND PRIVACY	1474
+Conditions for Data Collection and Processing ARTICLE	15484
 Conditions for Lawful Data Processing	11896
 Conditions of Data Transfers	12302
 Conduct Data Protection Impact Assessments	12302
@@ -3556,6 +3616,7 @@ Confidential Data	3861,1383,6708
 Confidentiality and Data Protection	2806
 Congo Data	11960
 Congo Nears Completion of Landmark National Data	3409
+Congo Open Data Initiative	15553
 Congo's National Data Center	2510
 Congo. Data	1828
 Congolese. Data Governance	3080
@@ -3592,6 +3653,7 @@ Continental Open Data Strategy	4123,8940,417
 Continuation of Information and Data Protection Commission	12549
 Continuous Data Protection	13185,2089
 Continuous Improvement Data Lineage Data Governance	15034
+Control and Data Acquisition	15983
 Control of Personal Data Protection	3563,1441
 Controlling Person Demographic Data. The Reporting	11685
 Convergence of Competition and Data Protection Finally	4583
@@ -3602,9 +3664,11 @@ Cooperation Data	13042
 Cooperation Framework. Data	4154
 Coordinated Border Management and Data Standardization	13051
 Coordinated Portfolio Investment Survey DQAF Data	14777
+Copernicus Data Space Ecosystem Browser	16024
 Copper Springs Community Health Center Data	7167
 Corporate Confidential Data	11995
 Corporate Non-Confidential Data	11995
+Corporte Scorecard Indicator. Frequency Quarterly Data	15658
 Correction of Registered Data The Company	14891
 Cortexgrid Solution Limited Data Controller INST-69669458405	7167
 Cosmas Data Cities	3937
@@ -3615,6 +3679,7 @@ Cotec Security Group Limited Data Controller	7167
 Cotec Security Group Limited Data Processor	7167
 Coulson Harney LLP Data Controller INST-375721AE361	7167
 Coulson Harney LLP Data Processor INST-375721AE361	7167
+Country Gender Data. Retrieved	16144
 Country. The Open Data Policy	11854
 County AI and Data Readiness Framework	14664
 County AI and Data Readiness Framework and County	14664
@@ -3653,6 +3718,8 @@ Credops Kenya Limited Data Processor INST-458599E2EB7	7167
 Crescent Tech Ltd Data Controller INST-849295FCFA0	7167
 Crescent Tech Ltd Data Processor INST-849295FCFA0	7167
 Crime Data Centre	12109
+Criminal Data Service Bureau	16602
+Criteria for Data Centers	16144
 Critical Data Elements	15034
 Critical Data Elements CDEs	15034
 Cross Border Data Flows	1243
@@ -3668,7 +3735,7 @@ Cross-Border Data Flow	7548
 Cross-Border Data Flow CSPs	6432
 Cross-Border Data Flow Framework	4123,8940,417
 Cross-Border Data Flow Governance RECOGNISING	3861
-Cross-Border Data Flows	961,282,2880,467,654,1395,5750,674,417,542
+Cross-Border Data Flows	961,282,2880,467,654,1395,5750,674,417,542,2190
 Cross-Border Data Flows Are Spreading Globally	1243
 Cross-Border Data Flows Framework	15221
 Cross-Border Data Flows Liberia	5244
@@ -3678,9 +3745,11 @@ Cross-Border Data Flows. World Bank	1243
 Cross-Border Data Transfer	3861,7801,294,346
 Cross-Border Data Transfer Article	11956
 Cross-Border Data Transfer Instruments	11993
-Cross-Border Data Transfers	5487,6409,1485
+Cross-Border Data Transfers	5487,6409,1485,2260
 Cross-Border Data Transfers Data Minimisation	13381
 Cross-Border Data Transfers and Data Sovereignty	11196
+Cross-Border Personal Data Transfer	15484
+Cross-Border Personal Data Transfer. The Executive	15484
 Cross-Country Data Analysis	5349
 Cross-border Data	14434
 Cross-border Data Flows	3618
@@ -3706,6 +3775,12 @@ Customer Data	1243
 Customs Data ASYHUB ASYCUDA Data Exchange	13042
 Customs Data Access and Reporting	14793
 Customs Data Exchange	5244
+Customs and Excise’s Automated System for Customs Data	16631
+Cutting Edge Domestic Data Centers Initiative	15713
+Cutting-Edge Domestic Data Center Code Action	15713
+Cutting-edge Domestic Data Center	15713
+Cutting-edge Domestic Data Center Initiative	15713
+Cuttingedge Domestic Data Center	15713
 Cyber Associate and Data Protection Bookbinder Business	12232
 Cyber Crime and Data Protection Bills	13090
 Cyber Hygiene and Data Protection	14402
@@ -3728,6 +3803,7 @@ Cyber and Data Protection Regulations	6181
 Cyber and Data for Higher and Tertiary Education. Harare	12512
 Cyber-security and Data Protection	3243
 Cybercrime Data	3962
+Cybercrime Law and Data Protection Bill. Across	16144
 Cybercrime Unit and Data Protection Office	14729
 Cybercrime and Data Protection. Install	4042
 Cybercrimes and Data Protection Act	3983
@@ -3760,6 +3836,18 @@ D Data PrOcessOr	1593,11361
 D Data PrOcessOrs	1593
 D Data PrOcessOrs OF MaJOr IMPOrtance	1593,11361
 D MEDICAL CENTRE LIMITED Data Controller	7167
+D-I6-A1 Data Governance Framework	15713
+D-I6-A2 Data	15713
+D-I6-A2 Data Quality Management Program Second	15713
+D-I6-A4 Data	15713
+D-I6-A4 Data Integration and Interoperability Data	15713
+D-I8-A2 Creating Open Data Portals Egypt	15713
+D-I8-A3 Develop Incentives Framework for Data Sharing	15713
+D-I8-A5 Ensuring Data Quality and Standards	15713
+D-I8. Open Data and Data Exchange Platform	15713
+D-I9-A1 Establish Data Security Framework	15713
+D-I9. Ensure Data Privacy and Security Specialized	15713
+D-O25 Enhance Data	15713
 D-TINE LIMITED Data Controller INST-41122918A85 KIAMBU	7167
 D-TINE LIMITED Data Processor INST-41122918A85 KIAMBU	7167
 D. Cross-Border Data Transfers Requirement	13381
@@ -3881,7 +3969,7 @@ DATA CENTRE LIMITED Data Processor INST-109186885B9	7167
 DATA CENTRE TIER III	15149
 DATA CENTRES AND HUMAN RIGHTS	14673
 DATA CHOPPERS Kalola	15289
-DATA COLLECTION	3861,9041,1962
+DATA COLLECTION	3861,9041,1962,1324
 DATA CONSUMPTION AND BROADBAND DEMAND	5245
 DATA CONTINUITY AS PERPETUAL CRISIS	12090
 DATA CONTROL Facilitating	961
@@ -3928,7 +4016,8 @@ DATA IN THE SHARED HEALTH RECORD	2709
 DATA INFRASTRUCTURE	1161,13405
 DATA INFRASTRUCTURE AND TECHNOLOGY	5244
 DATA INFRASTRUCTURE OBJECTIVE	1161
-DATA INTEROPERABILITY	12360
+DATA INITIATIVE Ghana's Open Data Initiative	16599
+DATA INTEROPERABILITY	12360,3180
 DATA INTEROPERABILITY STANDARDS	12360
 DATA JUSTiCE	961
 DATA LIFECYCLE GOVERNANCE REGIME	3861
@@ -3949,7 +4038,7 @@ DATA MODULE This Report	14777
 DATA MODULE VOLUME I VOLUME	14777
 DATA MODULE VOLUME II VOLUME II	14777
 DATA MODULE VOLUME III VOLUME III	14777
-DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179
+DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626
 DATA ORIGIN TECHNOLOGIES LIMITED Data Controller	7167
 DATA ORIGIN TECHNOLOGIES LIMITED Data Processor	7167
 DATA POINT	7167
@@ -4021,7 +4110,13 @@ DATA SHARING AND PROTECTION POLICY	14434
 DATA SHARING AND VERIFICATION SERVICES	12047
 DATA SHARING STEWARDSHIP DUTIES A ASSEMBLY	14434
 DATA SHEET	11924,1912,1112
+DATA SHEET BASIC DATA Product Information	15731
+DATA SHEET BASIC INFORMATION Product Information	15601,62
+DATA SHEET Operation ID P164885	15702
+DATA SHEET Operation ID P167817	15959
 DATA SHEET Product Information Operation ID	13742
+DATA SHEET Project Name WARCIP APL	15424
+DATA SHEET RATINGS OF PROJECT PERFORMANCE	15511
 DATA SOURCES AND ANALYTICAL WORK	14935
 DATA SOURCES AND DISCLAIMER Under the Mission	12717
 DATA SOVEREIGNTY AS CONSTITUTIONAL IMPERATIVE	3861
@@ -4036,6 +4131,7 @@ DATA SUBJECT'S VULNERABILITY INDEXES	11956
 DATA SUBJECTS RIGHTS	1333
 DATA SUBJECTS WHOSE PERSONAL DATA	2709
 DATA SUBMISSION TOOL	9485
+DATA SUBSCRIBERS	16216
 DATA SUBSCRIPTIONS	6000
 DATA SYSTEMS	1243,2910
 DATA SYSTEMS ENGINEERING LTD Data Controller	7167
@@ -4047,6 +4143,7 @@ DATA USAGE	3862
 DATA USE AT SCHOOL LEVEL ACROSS	15182
 DATA USE CASE FOR VALUE CREATiON	961
 DATA. Analysts	6423
+DATA. En	15710
 DATABIT LIMITED Data Controller INST-5766979ABB3 NAIROBI	7167
 DATABIT LIMITED Data Processor INST-5766979ABB3 NAIROBI	7167
 DATACELL CONSULT AFRICA LIMITED Data Controller	7167
@@ -4091,6 +4188,7 @@ DC BUSINESS INT NBO LIMITED Data	7167
 DC Data Center DFI Development Finance	10861
 DC Data Centre DCIM Data Centre	13185
 DDPSA Responsibility for Data MEPPSA	11905
+DE SON PORTAIL OPEN DATA	16421
 DE4A Digital Economy for Africa DPA Data	12663
 DEADAN GROUP LIMITED Data Controller INST-15537353009	7167
 DEADAN GROUP LIMITED Data Processor INST-15537353009	7167
@@ -4200,6 +4298,7 @@ DEVELOPMENT Data Controller INST-22559455BE7 NAIROBI Kenya	7167
 DEVELOPMENT Data Controller INST-8946964FE53 KISUMU Kenya	7167
 DEVELOPMENT Data Processor INST-8946964FE53 KISUMU Kenya	7167
 DEVELOPMENT OF AN INCLUSIVE DATA ECONOMY	1161
+DEVELOPMENT OF THE FRAMEWORK GUIDING DATA	15679
 DEVELOPMENT STUDIES Data Processor INST-86521012D9D	7167
 DEVKI STEEL MILLS LIMITED Data Processor	7167
 DEVLIGENCE LTD Data Controller INST-29204143158 NAIROBI	7167
@@ -4267,6 +4366,7 @@ DIGITAL FRAMEWORKS LIMITED Data Controller INST-4804507AB32	7167
 DIGITAL ID AND DATA SHARING	10765,10
 DIGITAL MARA MEDIA LIMITED Data Controller	7167
 DIGITAL MARA MEDIA LIMITED Data Processor	7167
+DIGITAL PLATFORMS Data	15480
 DIGITAL RECOVERIES EAST AFRICA LIMITED Data	7167
 DIGITAL TAILOR AGENCY LIMITED Data Controller	7167
 DIGITAL TAILOR AGENCY LIMITED Data Processor	7167
@@ -4384,9 +4484,11 @@ DPC. Under the Data Protection	12301
 DPDK Data Plane Development Kit DPM	13185
 DPI Data Exchange Architecture	3735
 DPI Indicators for Data Exchange Systems	7222
+DPIA Data Protection Impact Assessment	15472
 DPIA. The Data Controller	13381
 DPL FESTIVE LIMITED Data Controller INST-9494662570E	7167
 DPO. Data Protection Officers	13381
+DQa Routine Data Quality Assessment	15711
 DR. BAHWELL'S LIMITED Data Controller INST-639326A89AB	7167
 DR. CHARLES R. OPONDO CLINIC Data	7167
 DR. DIANA MAINA DENTAL CLINIC Data	7167
@@ -4508,9 +4610,11 @@ Daraja Academy Data Processor INST-544488D8CDD LAIKIPIA	7167
 Daraja La Amani Limited Data Controller	7167
 Dario Scaccabarozzi Data Controller INST-538140AEA1A KWALE	7167
 Data ARCT Collection Collection Broadband	13331
+Data ARTICLE	15484
 Data Access	4126,1960,5197
 Data Access ACHPR Res	6086
-Data Access Access	15024
+Data Access Access	15024,819,822
+Data Access Disclaimer	15843,1
 Data Access Failure Ratio	5744
 Data Access Robust AI Adoption Applied	4126
 Data Access and Interoperability	961
@@ -4535,7 +4639,7 @@ Data Analysis and Integration Stakeholder	7548
 Data Analysis and Reporting	13418
 Data Analyst	4528,2304,106,5574
 Data Analysts	6832
-Data Analytics	3344,5065,2725,97,1820,940,1008
+Data Analytics	3344,5065,2725,97,1820,940,1008,717,363
 Data Analytics Customs and Environmental Policies	13051
 Data Analytics Data	14999
 Data Analytics Division	11134
@@ -4547,6 +4651,7 @@ Data Analytics and Innovation Centre	13077
 Data Analytics and Smart Solutions Centre	2256
 Data Analytics and Smart Solutions Centre Project	2256
 Data Analytics and Statistical Laboratory	11627
+Data Annual Centers	15553
 Data Annual Collection Collection MFIS and Municipalities	11855
 Data Annual Project's MIS Collection Collection	11855
 Data Architect	4528,7984
@@ -4560,7 +4665,8 @@ Data Asset Inventory and Catalogue Template	3861
 Data Assurance	14752
 Data At Rest	34
 Data Audits-the	13310
-Data Availability	940,321,6529,20,156,375,1008,2856,26,2435
+Data Automation	16040
+Data Availability	940,321,6529,20,156,375,1008,2856,26,2435,1358
 Data Availability Malawi	12204
 Data Availability Score	4528,7984
 Data Availability Statement	766,5,448,42,2530,4645,2592,1227,2411
@@ -4569,6 +4675,7 @@ Data Availability Statement Research	5349
 Data Availability and Use	12419
 Data Back-up System	7988
 Data Base	11855
+Data Book	15473
 Data Boom and Airtel Money Surge Author	7663
 Data Boundary and Google Distributed Cloud	10798
 Data Breach	3861,2565,5744,131
@@ -4591,13 +4698,17 @@ Data Capture	12212
 Data Capturer Clerks	8639
 Data Capturer Ward Clerk Administration Manager	8603
 Data Capturing Microsoft Excel Ease	9124
+Data Catalog	16189
+Data Catalog Vocabulary	15714
 Data Catalogue	12768,2266
 Data Catalogue and Metadata	15034
 Data Categorisation	13063,417
 Data Categorisation and Sharing Framework	4123,8940,417
 Data Categorisation& Data Sharing	4123
 Data Category Coverage Periodicity Timeliness SDDS	14777
-Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132,154,172,882,110,158,121,41,121,287,255,492,120,275,252,190
+Data Ce	15407
+Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132,154,172,882,110,158,121,41,121,287,255,492,120,275,252,190,28,32,77,148,16,94,337,75,12,37,70,173,51,168,85
+Data Center A NOSi	16146
 Data Center Backup	11389
 Data Center Cabling Pathways Datacenter	9123
 Data Center Cabling Systems Introduction Structure	9123
@@ -4606,49 +4717,68 @@ Data Center Certification Compliance	12214
 Data Center Cost Index	5200
 Data Center Design Floor	9123
 Data Center Design and Implementation Best Practices	9123
-Data Center Dynamics	2133,113,1352,3337
+Data Center Dynamics	2133,113,1352,3337,9649
 Data Center Dynamics and Broadcast Media Africa	4858
 Data Center Dynamics. Airtel	8852
 Data Center Ecosystem and Digital Sovereignty	2918
+Data Center Gouvernemental	16641
 Data Center High Availability Introduction	9123
 Data Center IA Cloud	6375
 Data Center II	11863
 Data Center III	11863
 Data Center Infrastructure	12214
+Data Center MEPCI	16192
 Data Center Map	3859,2706
 Data Center Nacional	5272,270,5530
-Data Center National	2514
+Data Center National	2514,13126,465,384,120,1
+Data Center National Cœur	16610
+Data Center National URL	16610
+Data Center National de Santé	16438
 Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
 Data Center Regulation	12295
+Data Center ST-DIGITAL	16265
+Data Center ST-DIGITAL Depuis	16214
+Data Center ST-DIGITAL. Ce	16214,51
+Data Center ST-DIGITAL. Le CAMIX	16214
 Data Center Service Provider	15282
 Data Center Service Provider License	762
 Data Center Services	15149
 Data Center Tier III Services	15149
 Data Center UPS Installation	13080
+Data Center URL	16146
 Data Center and AI Investment	11310
 Data Center and Cloud	5987
 Data Center and Cloud Computing Services	15282
 Data Center and Cloud Computing Services License	15282
 Data Center and Cloud Services Directives	9123
 Data Center and IP Multimedia Subsystem Center	3669
+Data Center de CAMTEL	16195
 Data Center de Constantine	6419,612
+Data Center de ST Digital Auteur	15764
 Data Center de Sénégal Numérique	10578,573
 Data Center de Zamengoe	9916
+Data Center du Gabon	16489
+Data Center du Gabon Communication Présidentielle	16489
+Data Center du Gabon URL	16489
 Data Center du Ministère	6240
+Data Center. Ce	16714
 Data Center. Et	2300
-Data Centers	103,1089,1624,1043,391,2169,900,544,85,1389,2052,474,28,80,24,40,8,2909,197
+Data Centers	103,1089,1624,1043,391,2169,900,544,85,1389,2052,474,28,80,24,40,8,2909,197,530,5,5,539,210
 Data Centers Cloud	10861
 Data Centers Modulares	1192
 Data Centers Over	9629
 Data Centers Regulations	12294
+Data Centers Regulatory Framework	15713
+Data Centers Tier III	16438
 Data Centers US	9629
 Data Centers and AI	6678
+Data Centers and Cloud Services Aspect OBJECTIVE	15679
 Data Centers and Water Consumption	14673
 Data Centers. Sector	11863
 Data CentersTelecom Egypt	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 Data Centr	6432
 Data Centralisation	6793,6856
-Data Centre	34,1211,1562,4,61,313,115,294,99,421,462,1279,153,303,635,507,617,1053,199,51,82,1679,729,195,156,39,49,330,553,110,390,505,317,1,641
+Data Centre	34,1211,1562,4,61,313,115,294,99,421,462,1279,153,303,635,507,617,1053,199,51,82,1679,729,195,156,39,49,330,553,110,390,505,317,1,641,475,438,108
 Data Centre Accidents	12253
 Data Centre Blueprint	10210,82
 Data Centre Building Official Use Only	12253
@@ -4659,6 +4789,7 @@ Data Centre Contractor	12253
 Data Centre Cooling System	12253
 Data Centre Design	12253
 Data Centre Dynamics	14673
+Data Centre Energy Efficiency. Publications Office	16144
 Data Centre Environment	9455
 Data Centre Excellence and Sovereignty Zimbabwe	4528,7984
 Data Centre Expansion	13114
@@ -4673,6 +4804,7 @@ Data Centre Infrastructure Management	593,12592
 Data Centre Manager	6032,7133
 Data Centre Map	6150,3444,667
 Data Centre Market	4123,8940,417
+Data Centre National P Le Data	15624
 Data Centre Official Use Only Official	12253
 Data Centre Processing	9123
 Data Centre Project	340,7090
@@ -4742,6 +4874,7 @@ Data Collection Methods GM	1778
 Data Collection Monthly	12356
 Data Collection Secondary	13418
 Data Collection Semistructured	14666
+Data Collection Strategy	15796
 Data Collection Team	11129
 Data Collection The MOH Number	11417
 Data Collection Timeline	12182
@@ -4757,7 +4890,7 @@ Data Collection and Management Effective	12356
 Data Collection and Management Revision of Case Management	12977
 Data Collection and Monitoring The WRU	14745
 Data Collection and Preparation	14565
-Data Collection and Preprocessing	15253
+Data Collection and Preprocessing	15253,1013
 Data Collection and Real-Time Monitoring Effective Spectrum	5245
 Data Collection and Registration Centre	11928
 Data Collectors Supervision Voluntas	15024
@@ -4771,7 +4904,9 @@ Data Commissioner. The Data Protection	14275
 Data Commons	3861,2274,1178
 Data Commons for Generative AI	7313
 Data Competition Control	961
+Data Compliance	16212
 Data Compliance Rules	6466
+Data Comprehensive	15713
 Data Consulting KM	12079
 Data Consulting Km	5669
 Data Consumption and Broadband Demand GSMA Intelligence	5245
@@ -4953,9 +5088,11 @@ Data Controllers and Processors of Major Importance	8078
 Data Controllers and Processors of Major Importance. Quoting	8118
 Data Controllers and Processors of Significant Importance	4583
 Data Coverage	12389
+Data Coverage and Scope	16266
 Data Covered	5244
 Data Covered This Policy	5244
 Data Creates Competitive Advantage	1243
+Data Culture Another	15765
 Data Curation and AI	6953
 Data Curation-Equal	8436
 Data Custodian	15034
@@ -4967,6 +5104,7 @@ Data Data Architecture Modelling	15034
 Data Data Data Digital Infrastructure Environment	1161
 Data Data Data Implement Secure	14752
 Data Data and Storage Devices	10721
+Data De-duplication	15415
 Data Definitions	14790
 Data Deletion	12302
 Data Demand	14857
@@ -4982,6 +5120,7 @@ Data Dissemination	196,13163
 Data Dissemination Policy and Plans	14857
 Data Dissemination Standards GBVIMS Gender Based	13359
 Data Dissemination Standards GIS Geographical Information	13359
+Data Dissemination System	15751
 Data Dissemination and Use	1261,11755
 Data Download Packages	8436
 Data Download and Documentation	10977
@@ -4991,7 +5130,7 @@ Data Drop Rate	5744
 Data Dump System	6946
 Data Economy	1264
 Data Economy Initiative	14514
-Data Ecosystem	7548
+Data Ecosystem	7548,8664
 Data Ecosystem Management	7547,1
 Data Ecosystem Management Policy Objective	7548
 Data Ecosystem Management Policy Statement	7548
@@ -5027,10 +5166,12 @@ Data Exchange Act	8363
 Data Exchange Architecture	11952
 Data Exchange Architecture Requirement	11952
 Data Exchange Component	2709,5592,633
+Data Exchange IGB Institut	15715
 Data Exchange Layer	9356
 Data Exchange Memorandum of Understanding	13813
 Data Exchange Payments	12214
 Data Exchange Platform	5235,6632
+Data Exchange Platform Cutting-edge Domestic Data	15713
 Data Exchange RATING OPPORTUNISTIC STAGE Malawi	12214
 Data Exchange Standards	5665,6287,408
 Data Exchange Standards All	11952
@@ -5046,12 +5187,13 @@ Data Extraction	8604
 Data Field Label	12360
 Data Figure	15034,130
 Data Firms	14010
-Data Flow	13381
+Data Flow	13381,2175
 Data Flow Diagrams	5665
 Data Flow Mapping	6432
 Data Flows	8426,2728,1509
 Data Flows and Data Protection	11154
 Data Format Standards Service	11952
+Data Fragmentation	16600
 Data Frameworks	14664
 Data Fraud	12146
 Data Free Flow	1243,5143,856,3468
@@ -5060,11 +5202,12 @@ Data From INEC’s Admin Webpage	7176
 Data Fusion	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Data Gaps	13359
 Data Gaps Initiative	9331
+Data Gateway	16716
 Data Gender-Responsive Planning	13349
 Data Generation	11129
 Data GoN	4301
 Data Goal	12210
-Data Governance	961,117,6,159,1314,102,299,204,22,1,419,257,107,82,73,57,34,214,97,519,200,540,229,335,21,63,107,70,294,43,57,223,303,19,2338,83,104,708,80,134,143,16,98,187,771,209,8,248,388,98,296,23,32,302,668,4,39,40,469
+Data Governance	961,117,6,159,1314,102,299,204,22,1,419,257,107,82,73,57,34,214,97,519,200,540,229,335,21,63,107,70,294,43,57,223,303,19,2338,83,104,708,80,134,143,16,98,187,771,209,8,248,388,98,296,23,32,302,668,4,39,40,469,897,799
 Data Governance Across the AI Lifecycle Data	14565
 Data Governance Act	5802,716,4510,126
 Data Governance Act. Country Percentage	11922
@@ -5074,7 +5217,7 @@ Data Governance Custodian	15034
 Data Governance Cyber and Data Protection Act	4528
 Data Governance Data	14565
 Data Governance Excellence Award	15034
-Data Governance Framework	6352,4804,3596,282
+Data Governance Framework	6352,4804,3596,282,1207
 Data Governance Framework OBJECTIVE	12674
 Data Governance Framework for Digital Social	11156
 Data Governance Framework for Digital Social Protection	11156
@@ -5086,7 +5229,7 @@ Data Governance Guiding Principles	15034
 Data Governance Hub	11135
 Data Governance International Telecommunication Union United	11439
 Data Governance Landscape	5244
-Data Governance Law	4590,1928
+Data Governance Law	4590,1928,9196
 Data Governance Office	6516,2,1,5691,2351
 Data Governance Officer	15034
 Data Governance Officers	15034
@@ -5095,11 +5238,12 @@ Data Governance Policy	700,3161,1383,3088,1914,2442,2346
 Data Governance Policy and Strategy	11778
 Data Governance Pro-	15034
 Data Governance Program Roadmap	15034
+Data Governance Protocol	16241
 Data Governance Related Initiatives	5244
 Data Governance Related Initiatives Besides	5244
 Data Governance Risk	15034
 Data Governance Stakeholders	10720
-Data Governance Strategy	3861,10883
+Data Governance Strategy	3861,10883,1187
 Data Governance Strategy and Policy Development	3058
 Data Governance Structures	15034
 Data Governance Toolkit	8043,3396
@@ -5119,6 +5263,7 @@ Data Governance and Innovation for Sustainable Development	7242
 Data Governance and Management Maturity Model	15034
 Data Governance and Transparency	13080
 Data Governance. Politico	11135
+Data Group	15980
 Data Guidance	1243
 Data Gwnership. The US. Gowernment	3972
 Data Handler	2668,11856
@@ -5129,6 +5274,7 @@ Data Harmonisation Act	8363,185
 Data Harmonisation Bill	3802,1717
 Data Harmonization	9194
 Data Harmonization Act	3384
+Data Heath Information Software	15599
 Data Heritage	4528,7984
 Data Hosting and Cloud Market for IGAD Member	15143
 Data Hub	4999,6885,275,328,2479,53
@@ -5147,11 +5293,14 @@ Data Inclusive AI	7548
 Data Indicator Name Definition	1284,12048
 Data Information	1284
 Data Infrastructure	1147,14,2676,7646,3307,244
+Data Infrastructure Project	15473
 Data Infrastructure Statistics Act	12907
 Data Infrastructure and Open Data Framework Data	14566
 Data Infrastructure for Development	8275
 Data Ingestion and Transformation	14950
+Data Initiative	15713,886
 Data Innovation	1243
+Data Innovation State Parties	15641
 Data Innovation Trends	1243
 Data Insights	8376,3889
 Data Institute	11277
@@ -5178,6 +5327,7 @@ Data Inventory	13381
 Data Is Different	1243
 Data Is Now the Front Line of Warfare	11310
 Data Is Valuable. Here’s	5700
+Data Journalism Bootcamp	16599
 Data Justice	5244
 Data Justice Data	5244
 Data KPI	15034
@@ -5185,7 +5335,7 @@ Data Kenya	12210
 Data L H Protection Commissioner	12210
 Data Labelers Association Data Controller INST-9143850AC00	7167
 Data Labelers Association Data Processor INST-9143850AC00	7167
-Data Lake	3235,626,7139,3795
+Data Lake	3235,626,7139,3795,788
 Data Lake Consultancy Services URL	14795
 Data Lakehouse	14950
 Data Landscapers	768,1094,2701,218,435,383,651,119,102,109,87
@@ -5195,8 +5345,11 @@ Data Latency	5744
 Data Layer	11952
 Data Layer Implementation Service	11952
 Data Layer Requirement	11952
+Data Leak Prevention-DLP	15472
 Data Legal Privacy Policy Cookie Policy	12441
 Data Liberia	1777
+Data Licensing	15714
+Data Licensing Clear	15714
 Data Life Cycle	14434
 Data Lifecycle	7548
 Data Lifecycle Governance Regime	3861
@@ -5255,14 +5408,18 @@ Data Managers	8603,3735,2696
 Data Mapping	13004
 Data Mapping Exercise	6792
 Data Mapping Guideline 3.pdf	6792
-Data Market Development and Integration	1264,5664,6994,988,2,16
+Data Market Development and Integration	1264,5664,6994,988,2,16,1216,561
+Data Market Development and Integration CSIRTs	16144
 Data Market Development and Integration Facilitates	14079
 Data Market Development and Integration Jun	6928
 Data Market Inquiry	11195
 Data Marketplace	5244
 Data Markets Act	8436
+Data Mart	15411
 Data Marts	13053
 Data Mean Data Rate	5744
+Data Means	16162
+Data Mesh	16195
 Data Middle Platform	5349
 Data Migration	11216,2208
 Data Migration Requirements	13037
@@ -5273,7 +5430,7 @@ Data Minimisation and Security Breach. Results	962
 Data Minimization	3861,749,2938,3173,1942,341
 Data Minimization All	3861
 Data Minimization Limited	12675
-Data Mining	2816,8442,1763
+Data Mining	2816,8442,1763,3475
 Data Mining Company	2536
 Data Mining Sign MoU	2536
 Data Mining and Knowledge Discovery	11156,109
@@ -5289,6 +5446,7 @@ Data Module for Mauritius	14777
 Data Must Fall	4732
 Data Must Speak	1679
 Data Narratives	1851
+Data Observações Registo	16325
 Data Offers	11259
 Data Officer Coordination Data	15034
 Data Officers	12210
@@ -5310,11 +5468,14 @@ Data Pact The National Agricultural	8818
 Data Park	11863
 Data Pathway	12457
 Data Period	8753
+Data Pillar	15713
+Data Pillar The Data	15713
 Data Plane Security	10721
 Data Platform	5452
 Data Points	14778
 Data Points Scope	14778
 Data Policy	961
+Data Policy Advisor	15931
 Data Policy Bill of Rights Cybersecurity Data	961
 Data Policy Framework	961,2900,2389,102,119,3151,10,1633,3247,212
 Data Policy Harmonisation	10073
@@ -5340,7 +5501,7 @@ Data Privacy Health	12240
 Data Privacy Impact Assessment	11956
 Data Privacy Impact Assessment Article	11956
 Data Privacy Impact Assessment Schedule	11956
-Data Privacy Law	10370
+Data Privacy Law	10370,5343
 Data Privacy Pioneer Award	2668
 Data Privacy Service Units	11956
 Data Privacy Symposium	13494
@@ -5352,10 +5513,11 @@ Data Privacy and Protection ODPC	2668
 Data Privacy and Rights	720
 Data Privacy and Security	12356
 Data Privacy and Security Baselines Minimum	3861
+Data Privacy and Security Establish Open Data	15713
 Data Privacy and Targeted Advertising	9855
 Data Privacy. The Project	11417
 Data Pro-	14897
-Data Processing	3861,1383,1188,1319,3378,827,226,1174,98,613
+Data Processing	3861,1383,1188,1319,3378,827,226,1174,98,613,2186
 Data Processing Agreement	11956,346
 Data Processing Agreement Article	11956
 Data Processing Agreements	12302,1079
@@ -5492,11 +5654,11 @@ Data Processors Any	15058
 Data Processors Engagement	13035
 Data Processors of Major Importance. FIJ	11763
 Data Product	4214
-Data Project	1704,587,11496,228
+Data Project	1704,587,11496,228,2639,21
 Data Promotion	11259
 Data Protec	13381
-Data Protection	27,236,698,1,129,137,15,350,1213,67,207,598,183,221,44,348,109,7,20,251,24,359,119,314,103,583,24,45,10,97,69,184,154,602,130,1721,570,816,34,3,334,394,34,78,281,13,37,177,15,25,4,18,9,60,1,54,33,6,73,84,365,37,17,2,8,24,30,1,44,15,226,60,464,165,12,132,36,244,1,89,22,48,203,22,20,93,122,66,32,12
-Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54,444,76,136,53,95,64,1,14,11,1,32,31,37,5,33,65,10,42,7,3,1,2,14,9,7,31,44,5,4,64,16,9,232,138
+Data Protection	27,236,698,1,129,137,15,350,1213,67,207,598,183,221,44,348,109,7,20,251,24,359,119,314,103,583,24,45,10,97,69,184,154,602,130,1721,570,816,34,3,334,394,34,78,281,13,37,177,15,25,4,18,9,60,1,54,33,6,73,84,365,37,17,2,8,24,30,1,44,15,226,60,464,165,12,132,36,244,1,89,22,48,203,22,20,93,122,66,32,12,354,111,84,431
+Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54,444,76,136,53,95,64,1,14,11,1,32,31,37,5,33,65,10,42,7,3,1,2,14,9,7,31,44,5,4,64,16,9,232,138,327,910
 Data Protection Act 2011.pdf	12675
 Data Protection Act DSM Dispute Settlement	1243
 Data Protection Act Date	14435
@@ -5514,6 +5676,7 @@ Data Protection Act and Regulations. While the ODPC	12189
 Data Protection Act. All	8479
 Data Protection Act. As the Kenyan High	12139
 Data Protection Act. B. Right	1630
+Data Protection Act. Between	15629
 Data Protection Act. Cap.411C. Restriction	14594
 Data Protection Act. Dr Vincent Olatunji	2609
 Data Protection Act. Entities	6432
@@ -5544,7 +5707,7 @@ Data Protection Article	11956
 Data Protection Audit	1014
 Data Protection Authorities	961,1,2639,17,60,905,2056,155,5508,2132
 Data Protection Authorities. The African Union	5084
-Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117,442,82,3,56,121,103,12,45,5,1293,233,5,311
+Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117,442,82,3,56,121,103,12,45,5,1293,233,5,311,921
 Data Protection Authority Article	14907
 Data Protection Authority I-39	10785
 Data Protection Authority Implementation Guidelines	13381
@@ -5558,7 +5721,8 @@ Data Protection Authority. Objective	4808
 Data Protection Authority. Registration	7364
 Data Protection Authority. The Act	958
 Data Protection Authority. The Malawi Communications	7270
-Data Protection Bill	512,287,211,6,5,140,498,45,33,151,1170,14,704,447,20,1120,1910,991,706,3262,727,23,12,1,95,1584
+Data Protection Awareness No. of No. of CIC	15716
+Data Protection Bill	512,287,211,6,5,140,498,45,33,151,1170,14,704,447,20,1120,1910,991,706,3262,727,23,12,1,95,1584,1262,769
 Data Protection Bill By Leroy M	3008
 Data Protection Bill Namibians	1010
 Data Protection Bill and Cybercrime Bill. MICT	13232
@@ -5574,8 +5738,9 @@ Data Protection Civil Service	4126
 Data Protection Clause	13376
 Data Protection Commemoration Date	12586
 Data Protection Commisioner	13321
-Data Protection Commission	587,202,10,169,232,689,720,94,481,182,18,198,460,84,362,269,16,442,4,8,58,78,124,448,121,880,432,1408,828,1025,193,39,1371,419,670,109,656
+Data Protection Commission	587,202,10,169,232,689,720,94,481,182,18,198,460,84,362,269,16,442,4,8,58,78,124,448,121,880,432,1408,828,1025,193,39,1371,419,670,109,656,1467,76
 Data Protection Commission DATA PROTECTION COMMISSION	14086
+Data Protection Commission Democratic Republic of Congo	15553
 Data Protection Commission Ghana	10822
 Data Protection Commission of Zambia	9603
 Data Protection Commissioner	3,1627,733,305,41,164,1710,7,260,234,279,100,87,66,10,534,69,2,132,143,28,633,381,59,26,76,341,463,387,89,657,92,600,705,111,10,83,337,78,15,466,27,19,21,22,69,1,112,5,9,25,868,24,930,65,94,7,19,64,42,28,70,63,437
@@ -5654,25 +5819,29 @@ Data Protection National	13321
 Data Protection Office	783,16,197,232,1588,173,254,1286,54,70,197,1689,713,2880,2100,187,2304,4,25,38,29,20,8,172
 Data Protection Office and The Attorney	14726
 Data Protection Office. Un	6608
-Data Protection Officer	1877,847,583,5,168,148,1,899,1,332,24,216,1080,611,144,1501,3443,76,39,190,8,39,70,117,93,37,380,75,32,345,113,940,90,25,658
+Data Protection Officer	1877,847,583,5,168,148,1,899,1,332,24,216,1080,611,144,1501,3443,76,39,190,8,39,70,117,93,37,380,75,32,345,113,940,90,25,658,277,705
 Data Protection Officer Appointment	12193
+Data Protection Officer Appointment ARTICLE	15484
 Data Protection Officer Article	11956
 Data Protection Officer Assessment	11956
 Data Protection Officer Categories	6792
 Data Protection Officer Entities	12232
+Data Protection Officer Obligations ARTICLE	15484
 Data Protection Officer The DPA	12232
 Data Protection Officer Under the DPA	12232
 Data Protection Officer for Uganda	3307
+Data Protection Officer of Processor	15484
 Data Protection Officer's Assessment Schedule	11956
 Data Protection Officer. Cross-Border Data Transfers	1652
 Data Protection Officer. Every	8146
 Data Protection Officer. Whereas	9987
-Data Protection Officers	1014,206,1579,1730,54,180,239,361,62,137,619,427,319,331,785,938,329,677,86,95,1509,203,254,167,94,986,113,201,1363
+Data Protection Officers	1014,206,1579,1730,54,180,239,361,62,137,619,427,319,331,785,938,329,677,86,95,1509,203,254,167,94,986,113,201,1363,426
 Data Protection Officers Somalia Data Protection	15058
 Data Protection Officers Version	15058
 Data Protection Officers and Compliance Organisations	6544
 Data Protection Officers. Beyond	4809
 Data Protection Officers. Group	12193
+Data Protection Officers. The Executive Regulations	15484
 Data Protection Offices	6352
 Data Protection Overview	11909,559
 Data Protection Overview Namibia	12468
@@ -5684,6 +5853,7 @@ Data Protection Principles	1652,457,4683,5401
 Data Protection Proclamation	12245
 Data Protection Proclamation No.1321	12185
 Data Protection Protecting	5677
+Data Protection Provisions	15553
 Data Protection Public Service Delivery Interoperability	6077
 Data Protection RATING SYSTEMATIC STAGE Malawi	12214
 Data Protection Register	14727
@@ -5745,6 +5915,7 @@ Data Protection and Privacy. Retrieved	1243
 Data Protection and Right	3924,1974,4776
 Data Protection and Security	11995
 Data Protection for Health Data and Artificial Intelligence	5363
+Data Protection-Act	16594
 Data Protection. Egypt	4590
 Data Protection. Implementation	15019
 Data Protection. In S. Griller	1243
@@ -5752,7 +5923,7 @@ Data Protection... Institutional Interconnectivity	853
 Data ProtectionAct	972
 Data Provision	12356
 Data Provisions	1243,13481
-Data Quality	27,2748,1086,399,3288,4048,555,31,231,259,964,8,921,469
+Data Quality	27,2748,1086,399,3288,4048,555,31,231,259,964,8,921,469,680
 Data Quality Assessment Framework	12902,1875
 Data Quality Assessment Framework DSBB Dissemination	14777
 Data Quality Assessment Framework EAs	14857
@@ -5760,22 +5931,25 @@ Data Quality Assessment Report	12944
 Data Quality Assessment Standards	2709
 Data Quality Assessments	4202
 Data Quality Assurance	12151,205,2888
+Data Quality Assurance Framework	16206
 Data Quality Assurance Framework UNFPA United	13359
 Data Quality Assurance and Limitations	15085
 Data Quality Assurance and Limitations Several	15085
 Data Quality Audit Templates	3861
 Data Quality Control	12151
 Data Quality Dimension--An Overview	14434
+Data Quality High-quality	15714
 Data Quality Management Program	15034
 Data Quality Management Table	15034
 Data Quality Model	3861
 Data Quality Monitoring	14921
 Data Quality Monitoring System	11553
 Data Quality Protocols	2709
-Data Quality Quality	12151
+Data Quality Quality	12151,3562
 Data Quality Review	11596
 Data Quality Standard	11854
 Data Quality Standard for Surveys	11180
+Data Quality Standards	16212
 Data Quality Tables	13454
 Data Quality The Annexure	12367
 Data Quality and Audits	3972,182
@@ -5799,6 +5973,7 @@ Data Residency	6432,1116,4447,2764
 Data Residency Data Residency Regardless	6432
 Data Residency Requirements	6432
 Data Residential Property Price Index	11286
+Data Resources	15713
 Data Responsibility Guidelines	11156
 Data Retention	11995,1313
 Data Retention Legislation	13308
@@ -5813,7 +5988,7 @@ Data Routers	6946
 Data SDG Sudanese Pound	14897
 Data SLA Reporting Breach	11153
 Data Safeguarding and Averting Potential Corruption	13998
-Data Science	648,556,1321,2511,1796,855,1121,31,1221,1171,1130,314,79,172,95,53,3,1586
+Data Science	648,556,1321,2511,1796,855,1121,31,1221,1171,1130,314,79,172,95,53,3,1586,1248
 Data Science Analytics	6832
 Data Science Capacity Building Initiative	15086
 Data Science Catalytic Fund	392
@@ -5833,15 +6008,16 @@ Data Science for Social Impact	11143
 Data Sciences	1183
 Data Scientia	2816
 Data Scientia. Disponível	2816
-Data Scientist	4528,2304,3897,427,1356,414
+Data Scientist	4528,2304,3897,427,1356,414,3340,287
 Data Scientists	6832,8202
-Data Security	2117,1162,4269,2307,1299,1926,15,286,1783
+Data Security	2117,1162,4269,2307,1299,1926,15,286,1783,320
 Data Security Controls and Standards	11956
 Data Security Law	8277,2073
 Data Security Policy	10721
 Data Security Security	21
 Data Security Standard	434
 Data Security Team	15244
+Data Security and Compliance Framework	16600
 Data Security and Confidentiality Guidelines for HIV	14434
 Data Security and Encryption	11231
 Data Security and Privacy	12360
@@ -5857,8 +6033,9 @@ Data Services Market Inquiry	5872,2526
 Data Services Market Inquiry. Arthur Goldstuck	8668
 Data Services Revenue E9	12395
 Data Set	4528,7984
+Data Sets	15604,109,422
 Data Setup Time	5744
-Data Sharing	740,3075,46,1383,1295,1009,2421,745,1705,256,388,318,99,1044,205,61
+Data Sharing	740,3075,46,1383,1295,1009,2421,745,1705,256,388,318,99,1044,205,61,1841
 Data Sharing Agreement	3815,157,2,179,1,13,35,15,43,41,48,1003,198,6445,424,957
 Data Sharing Agreements	5692,900,5827,256
 Data Sharing Application	12419
@@ -5878,14 +6055,16 @@ Data Sharing Statement	11596
 Data Sharing Technical Subcommittee	3815
 Data Sharing Technology Platform	3815
 Data Sharing The GoA	10775
+Data Sharing and Integration	16520
 Data Sharing and Open Data	12419
 Data Sharing and Protection Policy	14434
 Data Sharing for Policy Oversight	11995
-Data Sheet	1988,3805,6460,784
+Data Sheet	1988,3805,6460,784,3399
 Data Sheet. All	13037
 Data Sheet. Attending	13037
 Data Sheet. Commissions	13037
 Data Sheet. Financial Proposals for QBS	13037
+Data Sheet. Page	16144
 Data Sheet. Proposals	13037
 Data Sheet. The Client	13037
 Data Sheet. The Proposal	13037
@@ -5896,7 +6075,7 @@ Data Source Baseline Result Data Collection	13095
 Data Source Field Combination Weighting	8604
 Data Source Means of Verification Outcome Frequency	13005
 Data Source Spectrum Remark WPP	4349
-Data Sources	2775,2197,6885,294,205,648,343,1776
+Data Sources	2775,2197,6885,294,205,648,343,1776,1012
 Data Sources Government	12356
 Data Sources Structured	11138
 Data Sources The HDSS	8604
@@ -5907,7 +6086,7 @@ Data Sources and Methodology	12413,259,972,1412
 Data Sources and Partners	15120
 Data Sources and Triangulation	7966
 Data Sove-	961
-Data Sovereignty	2515,1344,2,667,716,602,586,1039,77,3271,337,701,99,229,171,156,1090,1150
+Data Sovereignty	2515,1344,2,667,716,602,586,1039,77,3271,337,701,99,229,171,156,1090,1150,1460
 Data Sovereignty Compliance Framework	11995
 Data Sovereignty Compliance Mechanisms	11995
 Data Sovereignty Considerations	11156
@@ -5942,6 +6121,7 @@ Data Storage Flow Civil	10765
 Data Storage Layer	14950
 Data Storage Secure	5244
 Data Storage TBA TBA	1988
+Data Store OHADA Organization for Harmonization of Business	15411
 Data Stories Contact	12499
 Data Strategy	14674,78
 Data Strategy UNCTAD United Nations Conference	14790
@@ -5950,9 +6130,10 @@ Data Strategy and Action Plan	1284,12047
 Data Strategy and Ethics Mauritius	14752
 Data Strategy for Public Administration	6050
 Data Structure	12360,7
+Data Structure Core	16554
 Data Structures	6423
 Data Structures and Algorithms	13356
-Data Subject	27,485,1118,479,1752,3687,4408,229,117,702,372,5,1053,90
+Data Subject	27,485,1118,479,1752,3687,4408,229,117,702,372,5,1053,90,960
 Data Subject Access	14524
 Data Subject Access Requests	14524
 Data Subject Consent	6792,5510
@@ -5978,7 +6159,7 @@ Data Subscriptions Technology Q3	6000
 Data Survey Report 2022 2023	15164
 Data Svstems	4349
 Data Synthesis	6975
-Data Systems	3972,181,1,11,2,35,15,43,41,1051,1861,2186,2797,820,1235,993
+Data Systems	3972,181,1,11,2,35,15,43,41,1051,1861,2186,2797,820,1235,993,521
 Data Systems Infrastructure Ready	12325
 Data Systems Must Reflect Diversity	13016
 Data Systems Roadmap	4260
@@ -6016,9 +6197,14 @@ Data Transfers CDPG	13381
 Data Transfers Jurisdictions	11993
 Data Transfers Last Updated	11993
 Data Transformation	6975
+Data Transmission Lags	16520
 Data Trust	4528,6668,1316,1954
 Data Trust Advisory Board	7313
+Data Trusts	16212
+Data URL	15407
 Data Universal Inclusive Fostering Payments Exchange	12241
+Data Update Form	15811
+Data Upload and Hackathon	16599
 Data Usability	14752
 Data Usage	2776,1086,2138
 Data Usage Priority	12690
@@ -6040,20 +6226,24 @@ Data Value Chain	8427
 Data Value Creation Mandates	5244
 Data Value Creation Mandates Data	5244
 Data Versioning Service	11952
+Data Visua-	15583
+Data Visualisation	15583
 Data Visualization	6903
 Data Visualization Tools GRADS Ferret Friend	9475
 Data Voice	582
 Data Volume	5665
 Data Volumes	6671
-Data Warehouse	1789,1,1,1,1,684,514,215,3881,3888,3035
+Data Warehouse	1789,1,1,1,1,684,514,215,3881,3888,3035,1401
 Data Warehouse and Business Intelligence System	33
 Data Warehouses	766
 Data Wave	2816
+Data West Africa Cable System World	15553
 Data Winter	3810
 Data Without Borders Report	12301
 Data Workers	10143
 Data Workers’ Inquiry	6948
 Data World Bank	12376
+Data World Population	15473
 Data Youth Authority Protection and Cybersecurity	4126
 Data and AI	11154,1521
 Data and AI Committee	12675
@@ -6062,8 +6252,11 @@ Data and Algorithms	7836
 Data and Analysis	11028
 Data and Analytics	6832
 Data and Analytics Platform	10188
+Data and Apply Appropriate Open Licenses Intellectual	15713
 Data and Artificial Intelligence	11314
+Data and Classification	16266
 Data and Cloud	2117,1742,2612,4327,398,69,721,246,2441,259
+Data and Cloud Computing Center	15656
 Data and Cloud Market	11196
 Data and Cloud Policy	2117,3125
 Data and Cloud Services	11196
@@ -6071,8 +6264,9 @@ Data and Cloud Services Data	11196
 Data and Cloud Strategy	1912
 Data and Digital Environments	1161
 Data and E-commerce	1243
+Data and Emerging Technologies	15629
 Data and Enterprise Group	10793
-Data and Evidence	11133,1042,1815
+Data and Evidence	11133,1042,1815,1698
 Data and Evidence Education Management Information System	11907
 Data and Evidence Specialist Chea Sanford Wesseh	9861
 Data and Evidence and Domestic Finance	11907
@@ -6092,6 +6286,7 @@ Data and Policy	11006
 Data and Policy Journal	2096
 Data and SMS	2888
 Data and Services	13031
+Data and Services Repositories and Registries	15518
 Data and Statistical Dissemination and Access Policy	12902
 Data and Technology Board	11154
 Data and Trust Payment	10555
@@ -6100,14 +6295,19 @@ Data de Edição	2784
 Data de Entrada	11582
 Data de Finalização	11440
 Data de Início	11372
+Data de Nascimento	15392
 Data de Publicação	11582
 Data for AI	9622
 Data for Addix	14069
+Data for BENIN-IX	16044
 Data for Better Lives	1264,2340,2935,6792
+Data for Better Lives. Available	15553
 Data for Better Lives. Retrieved	1243
 Data for Better Lives. Washington	1264,5275,5340
 Data for Better Lives. World Bank. Doi	961
+Data for Better Lives.12 Under	15553
 Data for Better Lives’.67	13331
+Data for Cameroon Internet Exchange Point	16551
 Data for Development	4528,1578,6406,1511,26
 Data for Development and Innovation Technical Working Group	13485
 Data for Good In Malawi	12214
@@ -6142,12 +6342,14 @@ Data-Driven Transformation Data	5244
 Data. Kwa	3509
 Data. L'objectif	8099
 Data. Legal Framework and Personal Data Protection	12533
+Data. Pour	15680
 Data. The World Bank	11483
 Databases and Data	395
 Datacenter. Data	9123
 Datasec Limited Data Controller INST-9632430615D NAIROBI	7167
 Datasec Limited Data Processor INST-9632430615D NAIROBI	7167
 Dataworld Research Limited Data Processor INST-743082275A3	7167
+Dates of Data Collection	15620,223,1,2,819
 Dates of Data Collection Mode	10862,4162
 Daudics Medical Centre Data Controller INST-441872FC94E	7167
 Daughters of Charity of St Vincent Depaul Data	7167
@@ -6174,6 +6376,7 @@ Dei-care Medical Clinic Data Controller INST-871961FF04C	7167
 Dekhat Trading Limited Data Processor INST-5406012D675	7167
 Delamere Estates Limited Data Controller INST-71171008F24	7167
 Delegation of German Industry and Commerce Data Controller	7167
+Deliverables Data	15713
 Deliverance Church CYDC Data Controller INST-634784D16B0	7167
 Deliverance Church Kiserian Data Controller INST-533250540CE	7167
 Deliverance Church Ngong Data Controller INST-3301668CC89	7167
@@ -6192,6 +6395,7 @@ Dentosense Dental Clinic Data Controller INST-201770D3C82	7167
 Department of Agriculture Busia County Data Controller	7167
 Department of Agriculture Busia County Data Processor	7167
 Department of Agriculture Livestock and Blue Economy Data	7167
+Department of Data Intelligence and Governance	15838
 Department of E- New Data Centre	13185
 Department of Health- Garissa County Data Controller	7167
 Department of Health- Garissa County Data Processor	7167
@@ -6201,6 +6405,7 @@ Deputy Data Protection Commissioner Ms Misozi	13430
 Deputy Data Protection Commissioners	13321
 Deputy Director Generals Data Owners	15034
 Des Data Center	13924
+Descontinuado Cancelado Local Pesquisar Limpar Data	16166
 Description Africa Data Centres	1041,524
 Description Cyber Security and Data Security. Human	11131
 Description Data Protection And Privacy	1760,1383,3772
@@ -6222,6 +6427,7 @@ Develop Open Data Policy Implement the National	1161
 Develop and Data	12453
 Develop and Sustain Data Commons	3810
 Develop the Open Data Portal	11873
+Development Data Group	15620,226
 Development Data Quality Policy	4214
 Development Framework NSDO National Spatial Data	11261
 Development Knowledge Link Africa Data Controller	7167
@@ -6266,7 +6472,7 @@ Digital Identity and Data Privacy for African	289
 Digital Innovation Hub DPF Data Policy	1814
 Digital Media Non-WDT Sacco Data Processor	7167
 Digital Personal Data Protection	6363
-Digital Personal Data Protection Act	6411
+Digital Personal Data Protection Act	6411,9525
 Digital Personal Data Protection Bill	1243
 Digital Registries Data	6423
 Digital Sovereignty and Fair Data Compensation Bill	8088
@@ -6295,12 +6501,15 @@ Diplomatic and Sovereign Data	3861
 Direct Data Flow	11298
 Director of Data Protection Compliance	3360
 Director of Data Protection and Privacy	10198
+Directorate of Human Data	15661
 Directorate of Liquor Control and Licensing Data Processor	7167
 Disability Data Capture	13016
 Disability Data Must Capture Functional Severity	13016
 Disability Data Portal	1264
 Disaggregation Data	582
 Disclosed Data	8436
+Disclosing Personal Data	15484
+Disclosing the Personal Data	15484
 Discovering and Preserving Data	12090
 Dissemination Standards SDMX Statistical Data and Metadata	14777
 District Development Data Platform	1512,4996
@@ -6312,15 +6521,19 @@ Doctrinal Constitutional Interpretation Data Sovereignty	3861
 Doctrinal Foundation of Data Sovereignty AFFIRMING	3861
 Doctrinal Foundations of Data Sovereignty	3861
 Document Enterprise Document Data Element Extraction	1009
+Documents SCADA Supervisory Control and Data Acquisition	15659
 Dodoma. The Personal Data Protection Commission	12134
 Domestic Product GDPR General Data Protection	10781,80,1566,2055
+Dominica Data Sharing	16631
 Don Bosco Technical Institute Marsabit Data	7167
 Dorcas Njoki Ngunju Data Processor INST-378229748F5	7167
 Dorine Tabu Shali Data Processor INST-941923B5BC2	7167
 Dorothy Bisieri Oandah Data Processor INST-944598494D5	7167
 Dorothy Karimi Njiru Data Processor INST-299861EE3E2	7167
+Dotation du Data Center	15583
 Dotsavvy Limited Data Controller INST-957091715D5 NAIROBI	7167
 Dotsavvy Limited Data Processor INST-957091715D5 NAIROBI	7167
+Douala. Data	16551
 Douglas Mbugua Ngugi Data Processor INST-21396241338	7167
 Dr. Amanda Data Controller INST-407625F549A NAIROBI	7167
 Dr. Andrew Ndonga Data Controller INST-930148F4ED1	7167
@@ -6377,6 +6590,7 @@ Duties of Data Protection Officer	12185
 Dynamic Data Solutions Digital Address	3386
 Dyron Howell School Data Controller INST-582309ACAD9	7167
 Dyron Howell School Data Processor INST-582309ACAD9	7167
+Développement Contributors Data	16463
 E BARMAO AND ADVOCATES Data Controller	7167
 E BARMAO AND ADVOCATES Data Processor	7167
 E CREDIT LIMITED Data Controller INST-319018E0B8D	7167
@@ -6394,6 +6608,7 @@ E. Data Minimisation	13381
 E. SIFUNA AND ASSOCIATES ADVOCATES Data	7167
 E.A. VALUE WORLD GROUPE LIMITED Data	7167
 E.A.P.C Archers Child Development Centre Data	7167
+E2C Methodology for Data Collection Self	15659
 EA INFRASTRUCTURE PLATFORM LIMITED Data Controller	7167
 EABL Provident Fund Data Controller INST-494930800CE	7167
 EAC Data Governance Policy Framework	7548
@@ -6666,13 +6881,18 @@ Economics of Data	1161,82
 Economics of Data. The American Economic Review	961
 Economy DPA Data Protection Act	6432
 Ecosystem Data	14819
+Ecosystem Data Improving	15713
 Edelpert Medical Centre Data Processor INST-508996B7A39	7167
 Edenways Limited Data Processor INST-7128266E44A NAIROBI	7167
+Edition D-I6. Comprehensive Data Governance Frameworks	15713
+Edition Data	15713
+Edition I-I13. Ensure Data Center Sustainability	15713
 Edição. Data de Edição	2784
 Educare Point Limited Data Processor INST-35748873455	7167
 Education Data Portal	13209
 Education Data Strategy and Data Governance Framework	14922
 Education Data Systems	12196
+Education Data Systems Self-Assessment	16356
 Education Data Toolkit	6048
 Education For All Children Trust Data	7167
 Education Ministry Launches Nationwide School Data	15174
@@ -6684,10 +6904,16 @@ Education for Life Data Controller INST-39333481048 MOMBASA	7167
 Edwin Kiptoo Cheruiyot Data Processor INST-338060C4740	7167
 Eendei Dispensary Data Controller INST-6722790B3DF MACHAKOS	7167
 Effect of Platform Data Quality	14932
+Effectively Use Data	15960
 Egerton University SACCO Society Limited Data	7167
+Egypt Open Data License	15714
 Egypt's East Cairo Logistics Park Data	8045
 Egypt's Personal Data Protection Centre	6792
 Egypt's Personal Data Protection Law	9829
+Egypt. Data	15725
+Egyptian Data Governance Authority	15714
+Egyptian Data Governance Authority EDGA	15714
+Egyptian Data Protection Law	15713
 Egypt’s Personal Data Protection Law No	11079
 Ekitale Dispensary Data Controller INST-551873D1231 BUNGOMA	7167
 Ekitale Dispensary Data Processor INST-551873D1231 BUNGOMA	7167
@@ -6697,12 +6923,14 @@ Eldohub Innovation Center Data Processor INST-123035BFEA4	7167
 Eldoret Regional Hospital Moi Barracks Data	7167
 Eldoret Water and Sanitation Company Ltd Data	7167
 Eldorock Academy Data Controller INST-222845AB65B UASIN	7167
+Electricity Metering Data Exchange	15842
 Electronic Commerce and Data. Retrieved	1243
 Electronic Data Exchange	3375
 Electronic Data Inter-Change	14409
 Electronic Data Interchange	13295,1423
 Electronic Data Interchange G2C Government	13295
 Electronic Data Warehouse	15023
+Electronic Marketing. CHAPTER NINE Personal Data	15484
 Electronic Record and Data Management Standards	9855
 Electronic Vaccination Data System	9126
 Element Weights ROSC Rating Data Accessibility	14777
@@ -6736,6 +6964,7 @@ Emerging Technologies. The African Union Data	1243
 Emilia-Romagna Data Valley	10592
 Emirates’ Khazna Data Centers	10861
 Emtel Data Center	3292
+Enable the Data Subject	15484
 Enabling Data Policy Framework Transversal Digital	961
 Enact Personal Data Protection Act	11133
 Enactment of Data Protection	12444
@@ -6750,13 +6979,27 @@ Engagement of Data Processor	14524
 Engagement of Data Processor Public	14524
 Enhance Data Protection	4937
 Enhance Financial Data Dissemination	12701
+Enhance Interoperability and Data Quality	16600
 Enhance the SADC Data Protection Model Law	962
 Enhanced Data Accuracy and Security	13477
 Enhanced General Data Dissemination System	13868
+Enhancing Coherence and Use of Education Data	15960
 Enhancing Data Hosting Capacity	14674
+Enhancing Data Security Measures	15713
 Enhancing Data Use for SDG Monitoring	677
+Enjeux du Big Data	16639
 Ennhacing Financial Data Dis	12701
 Enrollment Data	14501
+Ensure Data Accessibility and Sharing	15713
+Ensure Data Center Sustainability	15713
+Ensure Data Center Sustainability Code Action	15713
+Ensure Data Center Sustainability Ecosystem Initiative	15713
+Ensure Data Center Sustainability Green	15713
+Ensure Data Center Sustainability Supports for AI	15713
+Ensure Data Privacy Detailed	15713
+Ensure Data Privacy and Security	15713
+Ensure Data Privacy and Security Code Action	15713
+Ensure Data Privacy and Security Infrastructure Initiative	15713
 Ensure Data Security	14434
 Ensure Data Security Kenya	12143
 Ensure Data Security and Privacy	11952
@@ -6782,10 +7025,16 @@ Equipment Software Life-Cycle Management of Data Centre	9123
 Equitable Data Collection	3861
 Eskom Data Portal	11297,656
 Eskom Generation Customer Data Dashboard	11236
+Establish A Comprehensive Data Governance Framework	15713
+Establish Data Center	15713
 Establish Data Centre	2610
+Establish Data Exchange Platform	15713
 Establish Data Governance Unit	12419
 Establish National Data AI-ready	7548
 Establish National Data National Data Library	7548
+Establish Open Data Platform	15713
+Establish Personal Data Protection Authority	15713
+Establish Principles of Openness and Data Sharing GOAL	15679
 Establish Provincial Government Cache Data Centre	12453
 Establishing Robust Data Governance	12210
 Establishment of Data Protection Office	14727
@@ -6840,6 +7089,8 @@ Evaluation and Maintenance of Data Security System	11956
 Evaluation and Maintenance of Data Security System Article	11956
 Evaluation of Lawful Bases of Data Processing	11956
 Evaluation of Lawful Bases of Data Processing Article	11956
+Event Data	15715
+Event Data AVI Indice	15715
 Event Data Project	11887,266,1,9,178
 Event Data Project AfDB African Development	10759,78,1052,451
 Event Data Project UNCTAD United Nations	10835,3,130,902,16,466,1,135
@@ -6864,13 +7115,18 @@ Extending the Free Monthly Data Package	14828,3
 External Data Sources DIMAMO Operational Database	8604
 F. DATA FORMAT	11860
 F. DELCROS General Data Protection Regulation	11154
+FAO Data Lab	15648
 FAS-IDL Methodology for Data Collection FAS-IDL	10768
 FAS-IDL Responsibility for Data Collection Page	10768
+FASU CE Data	15553
+FATHOM Flooding Data	15659
 FCI. The DARA Big Data Project	12926
+FCV Data Platform	15620
 FEES Data	1877
 FILE Data	3445
 FINANCIAL DATA	3862
 FINANCIAL SERVICES LIMITED Data Processor INST-4553980E2BE	7167
+FINANCING DATA	16293
 FIRST CYCLE OF DATA COLLECTION	12717
 FIXED INTERNET AND DATA REVENUES	11211,51
 FNB Connect Data Bundle Promotion	11259
@@ -6889,6 +7145,8 @@ Facilitate the Market-Driven Exchange of Data. China	10350
 Federated Data Operating Model	15034
 Federation GDPR General Data Protection Regulation	9855
 Federation. The Data	11129
+Female Frequency Annual Data	15661
+Female. Frequency Annual Data	15661
 Fers OF PersOnaL Data	1593,11361
 Fiber Infracos The Data Center Specialists	4525
 Fibre and Data Centre Expansion	618
@@ -6898,6 +7156,7 @@ FinNeeds UNDERSTANDING PEOPLE’S LIVES Data	418
 FinTech and Big Data	14729
 Final Data Governance Strategy	3058
 Finance Sector Data Sharing and Retention Guidelines	3861
+Financial Access Survey Data	15480
 Financial Data	961,2900
 Financial Inclusion Data	940,14083
 Fire Protection Data	9123
@@ -6924,6 +7183,7 @@ Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
 Fixed Telephony Voice Subscription Data Subscription	9109
 Floating Point Operations Data Protection Per	4126
+Fonction Publique NADA National Data Archive	15479
 Forecast and data	1013,931
 Forensic Data Analysts	5323
 Forensic Data Security Audit	11956
@@ -6949,7 +7209,7 @@ Free Monthly Mobile Data Package	14823
 Free Monthly Mobile Data Package for Youths	14823
 Free Movement of Such Data	14434
 Free and Trusted Data Flows. World Economic	1243
-Frequency Annual Data	1867,1737,8301
+Frequency Annual Data	1867,1737,8301,3754,2,483
 Frequency Annual. Data	3604
 Frequency Annually Data	10768
 Frequency Biannual Data	1867
@@ -6957,11 +7217,12 @@ Frequency Biannual Data Source Consultation	1867
 Frequency Biannual Data Source Project	1867
 Frequency Biannual Data Source Training	1867
 Frequency Bimonthly Data	10768
-Frequency Data	11525
+Frequency Data	11525,3847
 Frequency Once Data	10768
-Frequency Quarterly Data	10768
+Frequency Quarterly Data	10768,4890,486
 Frequency Semiannually Data	10768
 Frequency Semianually Data	10768
+Frequency Yearly Data	15658
 Fulfill Data Sharing	4202
 Fulfill Specimen and Data Sharing Commibnents	4301
 Fulfill Specimen and Data Sharing Commitments	4167,50,43,89,1003
@@ -6979,11 +7240,13 @@ G FBB Data	4525
 G Quarterly ARCT Data	13331
 G TELCOMS LIMITED Data Processor INST-296014BF144	7167
 G Third-generation HSDPA High Speed Data	14723
+G and Fiber Ensure Data Privacy and Security	15713
 G. DATA DICTIONARY	11860
 G05 Data	9237
 G20 Data Gaps Initiative	9331
 G20 Members’ Regulations of Cross-Border Data Flows	1243
 G7 Free Flow of Data	7242
+GABON Gender Data Landscape	16260
 GAM Reporting and Data Transfer Files	13462
 GAPAPPLICATIONS TO DATA CENTRESWHAT	14673
 GAZETTE ACT Data Protection Act	1333
@@ -7000,9 +7263,11 @@ GDA Data Assessment Framework	1161
 GDDS National Summary Data Page	11558
 GDDS. The National Summary Data Page	13868
 GDPR General Data Protection Regulation	11196
+GDPR General Data Protection Regulation RGPD	15472
 GDPR's Data Protection Officer	11896
 GDPR-like Data Privacy Laws. Retrieved	1243
 GDPR. Data	6055
+GEI Frequency Annual Data	15661
 GEMs Data	11310
 GEORGE KHATEIH MUSEVE Data Controller	7167
 GFA Data Centers	7960
@@ -7035,6 +7300,7 @@ GRADATIONS OF DATA SENSITIVITY AND PROTECTION	3861
 GRM. Responsibility for Data Collection FAS-IDL Enhanced	10768
 GROUP DATA REVENUE BY COUNTRY Table	10793
 GRZ’s Data Protection Act	1867
+GSM A Data	15553
 GSMA Data	1264
 GSMA Mobile Data for Humanitarian Action.pdf	6024
 GSMA Mobile Money Data	5232
@@ -7046,16 +7312,21 @@ GUIDELINES FOR NEGOTIATORS ON CONSIDERING DATA	1243
 GUIDELINES ON CONDUCTING A DATA MAPPING	13004
 GW. Data	5081
 GWAN Data Centre and Network Operations Centre	12917
+Gabon HDD Health Data Dictionary HDS	15411
 Gama. The Data Protection Act	6820
 Gartner Says Electricity Demand for Data Centers	7548
 Gateway Services and Data Centre Oversight Committee	4654
 GenAI Training and Data	13461
 Gender Data Network	8427
 Gender Data Network Impact	8427
+Gender Data Portal	16144
+Gender Data Portal Explore the Women	16260
+Gender Data Portal. Data	16260
+Gender Data Portal. Retrieved	16144
 General Data Dissemination System	11554,2314,909
 General Data Dissemination Systems GDP	14857
 General Data Engineering Services Engr. Fidelis	11857
-General Data Protection Regulation	842,234,1763,119,1087,706,615,121,900,549,145,885,80,390,311,29,1988,55,29,306,1,1,506,15,555,2202,295
+General Data Protection Regulation	842,234,1763,119,1087,706,615,121,900,549,145,885,80,390,311,29,1988,55,29,306,1,1,506,15,555,2202,295,743,40
 General Data Protection Regulation Acts	1243
 General Data Protection Regulation English	9067
 General Data Protection Regulation GREAT	5244
@@ -7076,7 +7347,10 @@ Get More Data	1766
 Ghana Data Exchange Hub	4126
 Ghana Data Protection Commission	4583,4181,4730,1180
 Ghana Ghana’s Draft Data Protection Bill	6520
-Ghana Open Data Initiative	4126
+Ghana Ministry of Education Performance Management and Data	15630
+Ghana Open Data	15386,318
+Ghana Open Data Initiative	4126,12473
+Ghana Open Data Initiative GHANA OPEN	16599
 Ghana's Agility Logistics Park Data Centre	8045
 Ghana's Data Harmonisation Bill	3802
 Ghana's Data Protection Act	4773
@@ -7101,8 +7375,10 @@ Global Data Privacy Rules	4583
 Global Data Security Initiative	5242
 Global Fund Data Science Catalytic Fund	392
 Global Lead for Tax Data Analytics	10335
+Global Open Data Index	16641
 Global Partnership for Sustainable Development Data	540,621,5568,1612,3986
 Global Pulse Data Privacy and Data Protection	495
+Global and Regional AI Dialogues Comprehensive Data	15713
 Global and Regional ICT Data	9616
 Glossary of Key Data Governance Terms Access	3861
 GmbH Office Nairobi Data Controller INST-5721631DDA0	7167
@@ -7111,6 +7387,7 @@ Good Practices For Ensuring Data Protection	11156
 GovStack Digital registries BB Data API template-1.3.0.json	6423
 GovTech Data Dashboard	11867
 Governance Data Inventory	6432
+Governance Frameworks and Standards Data High Quality	15713
 Governing IoT Data	7955
 Government Dark Data	10028
 Government Data	10765,10,1088
@@ -7134,6 +7411,7 @@ Government Data Network Expansion III P75	5646
 Government Data Platforms	14674
 Government Data Sharing Regulation	6592
 Government Data Shows	10025
+Government Data and Cloud Computing Center	15656
 Government Data and Cybersecurity Center	15002
 Government Department and National Data Centre	11712
 Government Finalizes Sierra Leone's Data Protection	3924
@@ -7143,6 +7421,7 @@ Government of Kenya. Data	4154
 Government of Uganda. Data	4217
 Government's Data Center and Cloud	5987
 Government. Data	12956,375
+Governmental Data	15518
 Governments Can Use AI and Data	7648
 Gradations of Data Sensitivity and Protection Levels	3861
 Great Data Race Beneath the Oceans	4676
@@ -7164,6 +7443,7 @@ Guidelines for Data Element Definitions	12360
 Guidelines for Data Element Definitions Table	12360
 Guidelines for Data Exchange Standards	12360
 Guidelines for Data Security and Privacy Standards	12360
+Guinea's National Data Governance Strategy. Held	16730
 Guinea-Bissau's National Summary Data Page	11554
 Guiyang Big Data Exchange	10350
 Guizhou Tongren Data Vocational College	12864
@@ -7200,10 +7480,12 @@ HOSPITALS Data Controller INST-687095D30C6 BUNGOMA Kenya	7167
 HP Data Protector	13185
 Habbeas Data	11452
 Habeas Data	167
+Haiti Data Network	15471
 Handset Data Literacy and Relevance Safety and Connectivity	11964
 Harbaksh Singh Jandu Data Controller	7167
 Harel Mallac Technologies Data Center	3292
 Harmonise Data Governance Southern Africa	10601
+Harmonize Data Standards	15960
 Harness Mobile Data for National Planning	6538
 Harvard Data Science Review	11156,934
 HarvestStat Subnational Crop Production Data	13094
@@ -7213,7 +7495,9 @@ Head of Data Science Program and Research Scientist	11143
 Head of Institution Profile Data	14501
 Health Centers CTID Intermediary Data Processing	10812
 Health Data	1161,2700,6108,4011,454,516
+Health Data Collaboration Hg Hôpital Général	15711
 Health Data Collaborative	2678
+Health Data Dictionary	15411
 Health Data Governance	9969
 Health Data Governance Framework	10641
 Health Data Governance Principles	12143
@@ -7229,15 +7513,21 @@ Health Data Regulations	13430
 Health Data Science	8606
 Health Data Sharing and Protection Policy	14434
 Health Data Sharing and Protection Policy FRAMEWORK	14434
+Health Data Standards HIS Health Information	15411
 Health Data and Digital Health Coordination Office	7454
+Health Service Data Routine	15556
 Healthcare Data Analytics and Management	8603
 Healthcare Data Processor INST-6029251E5C0 SIAYA Kenya	7167
 Hidden Data	8436
 High Court of Kenya.12 Data	12139
 High Priority Rating Data and Evidence Challenge	11907
+High Quality Sectoral Arabic Data	15713
 High-Level Data Sharing Process Overview	3815
 High-Level Recommendations for Data	1814
 High-Performance Computing and Data Processing Centre	2117
+High-Quality Sectoral Arabic Data Sets	15713
+High-Quality Sectoral Arabic Data Sets Code	15713
+High-Quality Sectoral Localized Data Sets	15713
 Hindering African Countries Secure Their Data	3598
 Historical Data	12389
 Historical Data Sheet H1	4150
@@ -7252,22 +7542,34 @@ Household Data	3861
 Household Income and Expenditure Survey. Data	12962
 Households Data	14723
 Human and People’s Rights. This Data Policy	961
-Humanitarian Data Exchange	15129
+Humanitarian Data Exchange	15129,491,95
 Hyperscale Data	3561
 Hyperscale Data Center	5426
+I-I10-A2 National Data Center The Egyptian	15713
+I-I11-A4 Advanced Data Management System Development	15713
 I. Identification of Personal Data	13004
 I. THE MISSING DATA	11860
+I.7 DATA COLLECTION	15574
+I.8 DATA PROCESSING AND MANAGEMENT	15574
+I.9 DATA ANALYSIS AND REPORT WRITING	15574
+I.I10. Cutting-edge Domestic Data Center Cutting-edge	15713
 IBM Data Governance	13991
 IBM Data Governance. June	13991
+IC Independence Data Openness Personal	15713
 ICAO Augmented Data Availability Assessment Mission	14167
+ICAP's HIV Insight Dashboard Streamlines Data	16422
+ICR DOCUMENT BASIC DATA Operation ID	15704
+ICR DOCUMENT DATA SHEET	16436
+ICR DOCUMENT TABLE OF CONTENTS DATA	15731,705
 ICT DATA COLLECTED BY ICASA	11211,51
 ICT Data Collected By ICASA	11262
 ICT Data Collection Unit	14888
 ICT Data Hub	6946
 ICT Data Interoperability Standard	12360
 ICT Data Week	11424
-ICT Data and Analytics Division	11424,2674
+ICT Data and Analytics Division	11424,2674,1373
 ICT Data and Statistics Division	961
+ICT Ministers Discuss Data Centre Industry	16236
 ICT Sector and Enhancing Cybersecurity and Data Protection	12973
 ICT and Open Data	11854
 ICT. The Data Protection Act	10594
@@ -7276,6 +7578,7 @@ ID Data Collection Technological	10775
 ID PRINTING DATA STORAGE	10775
 ID and Data Center	2872
 ID. Data	10714,61,1144
+ID4D-Findex Survey Data	15513,40
 ID4D-Findex Survey Data The ID4D	10714
 ID4D-Global Findex Data	10714
 IDEMOC National Infrastructure for Spatial Data INAGE	4214
@@ -7288,6 +7591,7 @@ IGInnldnooebvxaal2t0io2n4 Data	11885,466
 IGInnlndooebvxaal2t0io2n4 Data	11884
 II Neighbourhood Data Subtitle	14778
 II OCA AN DATA SHARING AGREEMENT	4154
+II. Data	16189
 II. Neighbourhood Data	14778
 II. PROJECT DATA AND RATINGS	12195
 II. PROJECT DATA AND RATINGS Table	13875
@@ -7297,15 +7601,16 @@ III. Mapping of Data Flows	13004
 III.4.2 DATA CENTER DE LA SANTÉ	13306
 III.4.2 Data	13306
 IMF Data Standards Initiative	11973
-IMF Data Standards Initiatives	11554
+IMF Data Standards Initiatives	11554,4197
 IMF Fossil Fuel Subsidies Data	11140
 IMF Special Data Dissemination Standard	14828,3
 IMF Special Data Dissemination System	14815,17
-IMF's Enhanced General Data Dissemination System	3968,7586,419
+IMF's Enhanced General Data Dissemination System	3968,7586,419,3778
 IMF’s Data Quality Assessment Framework	14777
 IMMUTABLE MOBILES AND DATA JOURNEYS	12090
 IMPACT DATA LOSS	1938
 IMPLICATIONS AND APPLICATIONS Data	8604
+IMPROVE DATA SHARING	15556
 IMPROVING DATA MANAGEMENT AND ANALYTICAL CAPABILITY	12951
 INCLUDE PROVISIONS ON DATA	1243
 INCREASING NATIONAL DATA DEVELOPMENT AND BENEFIT	14004
@@ -7313,11 +7618,13 @@ INDICATORS OF READINESS Data	11156
 INFORMATION SUPPLIED. PART VI Data Subject	972
 INIS Report Methodology for Data Collection INIS	11417
 INM-GB. Data	11553
+INS. Open Data Watch	16421
 INSPECTIONS KENYA LIMITED Data Controller INST-292879D8843	7167
 INSPIRE-O Key Project Data Government Request	12980
 INSTITUTIONAL DATA Contributing Practice Areas Practice	11855
-INSTITUTIONAL DATA Page	11549
-INSTITUTIONAL DATA Practice Area	969,315,9545,551,145,1807
+INSTITUTIONAL DATA I. STRATEGIC CONTEXT A	15515
+INSTITUTIONAL DATA Page	11549,4004
+INSTITUTIONAL DATA Practice Area	969,315,9545,551,145,1807,2159,130
 INTEGRATION AND SOFTWARE SUPPORT Data	2477
 INTERPLAY BETWEEN DATA SHARING	12419
 INTRODUCTION Data	961
@@ -7335,7 +7642,7 @@ IV. Maintenance of Data Inventory	13004
 IXAfrica Data Centre	887
 IXAfrica Data Centre Limited	887
 IXAfrica Data Centres	6791
-IXP Data	14069
+IXP Data	14069,1975
 Ibero-American Network of Data Protection	12210
 Idea of Data and European Constitutional Imaginaries	11028
 Identity Data Protection Identity	11952
@@ -7344,6 +7651,7 @@ Illegal Data	26
 Illegal Data Interference	26
 Impact The University of Eswatini Data Analytics	13077
 Implement Comprehensive Data Management Strategy	12384
+Implement Open Data Licensing and Metadata Standards	15714
 Implement the Data Governance Framework	15034
 Implementation of Big Data and E-Invoicing	14830
 Implemented Personal Data Protection Proclamation	12184
@@ -7356,8 +7664,10 @@ Implication Data	13420
 Importance of Implementing Robust Data Protection	2668
 Importance of National Data Infrastructure for Low	1264
 Improve Data Accessibility	5244
+Improved Maps and Spatial Data Infrastructure	16511
 Improvement of Data Accessibility and Presentation	11918
 Improving Data Integrity	13477
+Improving Data Management for Social Protection and Building	16101
 Improving the Use of Health Data for Health System	14434
 Imputation Data	11258
 In-bundle Data Rates	11259
@@ -7370,6 +7680,7 @@ Inc. Data Processor INST-3262907F861 NAIROBI US	7167
 Inc. Data Processor INST-3339002F83C NAIROBI Kenya	7167
 Incentivize Data Sharing	14790
 Include Open Data Framework and Data	4126
+Included SMS Data	15471
 Inclusion.44 AI and Big Data Commencement	10856
 Inclusive Data Charter	1161,5802,5268
 Inclusive Data Economy	1161
@@ -7401,6 +7712,7 @@ Information and Data Protection Appeals Tribunal	12549
 Information and Data Protection Commission	2265,1095,2003,2075,670,4124,316,1,37
 Information and Data Protection Commissioner	4987
 Infrastructure DPIA Data Protection Impact Assessment	7548
+Infrastructure Data	15713
 Infrastructure Government Data	5244
 Infrastructure Management DDR5 Double Data Rate	13185
 Infrastructure and Data Center Development	12035
@@ -7409,6 +7721,9 @@ Infrastructure and Data Governance	4528,7984
 Infrastructure and National Data	12935
 Ingotse Mission Data Controller INST-82956477B37 KAKAMEGA	7167
 Initiative Open Data	748
+Initiative Open Data du Burkina	15406
+Initiatives Objectives Comprehensive Data Regulation System	15713
+Initiatives Objectives Cutting-edge Domestic Data Center	15713
 Innovendi Data Technologies Un	5291
 Innovendi Data Technologies and Communication Ltd	5291
 Insights Into South Africa's AI Data	6886
@@ -7419,19 +7734,24 @@ Institutional Roles and Governance for Sovereign Data	10157
 Institutional Structure for Data Governance	14790
 Institutional Theory. Data	5349
 Institutionalisation of Open Data Practices	1243
+Institutionalize Data Use Culture	15960
 Institutions Receive Data Controllers Licences	2987
 Insufficient Data	12376
 Integrated Data Analysis	13062
+Integrated Data Management System	15621
 Integrated Data System To Make E-government	10822
 Integrating Data Provisions	14724
+Interagency Data Release Board National Council	15714
 Interception of Content Data	2913
 Interchange of Data	14965
 Interconnected Rwandan Data Center Mesh	15149
 Intercontinental Data Traffic	2677
+Interim Interagency Data Release Board	15714
 Interim Personal Data Protection Guidelines	13995
 Intermediary Data Processing Centers	10812
 Intermediate Results Indicators Mapped Methodology for Data	1284
 International Building Code Data Center Design	9123
+International Data	16144
 International Data Access	3862
 International Data Centre Authority	15149
 International Data Corporation	2816,867,4606,2907
@@ -7473,6 +7793,7 @@ Ivoire Data Center	3482
 Ivoire Unveils AI and Data Governance Strategy	2557
 Ivoire's First Sovereign Tier III Data	3436
 Ivoire's Open Data	11867
+Ivoire. Le Data Center	15640
 JAMES ASSOCIATES ADVOCATES LLP Data Processor	7167
 JAMLICK MICHENI MUTHUURI Data Processor	7167
 JEE Assessment Methodology for Data Collection JEE	11417
@@ -7485,7 +7806,7 @@ Joachim C. Data	3791
 Job Summary The Digital Health and Data	12754
 John Lokwawi. Data Commissioner Immaculate Kassait	2668
 John Magee Partner Global Co-Chair Data	12301
-Joint Data Center	10841
+Joint Data Center	10841,4969
 Joint Data Controllers	12185
 Journal of Big Data	961,7643
 Judicial Review of Data Governance Decisions	3861
@@ -7516,6 +7837,7 @@ KEY DATA CENTER INDUSTRY PLAYERS NIGERIA	10861
 KEY DATA CENTER INDUSTRY PLAYERS SUB-SAHARAN	10861
 KEY DATA PROVISIONS IN RTAS	1243
 KEY DEFINITIONS Data	10861
+KEY PERFORMANCE INDICATORS AND DATA COLLECTION	16041
 KEY POPULATION DATA	11900
 KEY TERMS DATA CONTROLLER	14434
 KHANNA LLP Data Controller INST-5437755750D NAIROBI	7167
@@ -7563,7 +7885,9 @@ Key Project Data and Ratings Project Data	13875
 Khazna Data Center	8045
 Khazna Data Centers. Khazna	1639
 Kind of Data	13084,675
+Kind of Data Observation	15843,1,821
 Kind of Data Sample	10862,4162
+Kingdom of Automating Data Capture	16631
 Kisumu County Data Controller INST-175606322DE KISUMU	7167
 Kisumu County Data Processor INST-175606322DE KISUMU	7167
 Konza Data Centre	359
@@ -7575,11 +7899,14 @@ Konza National Data Centre. Oracle	7989
 Koranteng-Acquah and Leonelli Data Science Journal DOI	12090
 Kuhifadhi Data	6015,4
 Kuhifadhi Data Dodoma	6019
+Kumasi Tier IV Data Centre	16170
 Kwenda MIS Methodology for Data Collection FAS-IDL	10768
 Kwenda MIS Methodology for Data FAS-IDL	10768
 Kwenda MIS. Responsibility for Data Collection FAS-IDL	10768
 L CAPITAL LIMITED Data Controller INST-325907C5C3F	7167
 L MANAGEMENT LTD Data Controller INST-971303AEBD1	7167
+L'AÉRODROME AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA	16552
+L'Open Data	15575
 LAW DATA PROTECTION AUTHORITY NOT APPOINTED	11539
 LAWFUL BASIS FOR PROCESSING PERSONAL DATA	13381
 LEGAL RECOGNITION AND EFFECT OF DATA	12919
@@ -7719,18 +8046,23 @@ LX XX VI ANNEXES PGES- DATA	14488
 LX XX VIII ANNEXES PGES- DATA	14488
 LX XXI X ANNEXES PGES- DATA	14488
 Laboratory Data Repository	4922
+Lack of Harmonized Data Standards Across Sectors	15960
 Landmark Data Center	3418
 Language Data Commons of Australia	7313
 Large-Scale Data Center	6529
+Late Tera Litt Data	15363
 Launch of National Mini Data Centres	4728
 Launch the Pangolin Data Trust	12512
 Law Definitions Authority Registration Data	12468
+Law High Quality Sectoral Arabic Data	15713
+Law. The Data Protection Officer	15484
 Lawful Bases of Data Processing	11956
 Lawful Bases of Data Processing Article	11956
 Laxton Limited Data Controller INST-4688876A8A1 KILIFI	7167
 Le COPIL Open Data	1187
 Le Comité de Pilotage Open Data	9406
 Le Data	2608
+Le Data Center National	16609,1
 Le Responsable Open Data	747,1237
 Le Responsables Open Data	747,1
 Left Many African Data Workers	6948
@@ -7752,6 +8084,7 @@ Lesotho Open Data Initiative	769
 Lesotho Unveils Mega Hydropower and AI Data	6551
 Lesotho's Data Management Policy	12691
 Leverage the National Data Governance	14566
+Leveraging Alternative Data	16133
 Liberia Data Portal	5244
 Liberia and EMIS Data Analytical Support	14131
 Liberia's Data Protection and Privacy Laws	2770
@@ -7801,6 +8134,7 @@ Ltd. Data Controller INST-93963591382 NAIROBI Kenya	7167
 Lusophone Network of Data Protection Authorities	3601
 Lusophone Personal Data Protection Network	6361
 L’Open Data	747,1,1236
+L’Open Data Portal	16416
 L’aménagement du Data CENTER	14489
 L’aménagement du Data CENTER SECONDAIRE	14488
 M CONSULT COMPANY LIMITED Data Controller	7167
@@ -7862,6 +8196,7 @@ MSG Guidelines for Open Data Policy Implementation	170
 MSc Data Science and Artificial Intelligence	14787
 MT KENYA REGION LIMITED Data Controller	7167
 MTG Data	13062
+MTN Group FY2025 Data Sheets	16216
 MTN Group's Data	1590
 MTN In-bundle Data Rates	11259
 MTN In-bundle Data Rates MTN	11259
@@ -7924,6 +8259,7 @@ Managing Director of Data Mining Company	2536
 Managing and Safeguarding of Data	12226
 Mandate Data Protection Impact Assessments	6936
 Mandate for Data Collection	13310
+Mandates for Using Data	15960
 Mandatory Audit of Legacy Data	3861
 Mandatory Audit of Legacy Data All	3861
 Mandatory Data Localisation Perhaps	9750
@@ -7935,13 +8271,15 @@ Maroc Data Centre	887
 Marx Okonji Data Controller INST-1071554DD61	7167
 Mascom Tier III Data Centre	12632
 Mascom's Tier III Data Centre	12632
-Master Data	11873,486,2675
+Master Data	11873,486,2675,501
+Master Data Management As A Service	15583
 Master Data Services	12359
 Master and Reference Data	12359
 Material Context of Data Processing and Priority	11956
 Material Safety Data Sheets	12253
 Material Scope and Data Classification Taxonomy	3861
 Mathebula. Data	9365
+Mathematics Algorithm and Complexity Data Collection	15789
 Maua Medical Centre Data Controller INST-1371641ACD1	7167
 Maua Medical Centre Data Processor INST-1371641ACD1	7167
 Mauritius City Ebene Data	14810
@@ -7964,21 +8302,27 @@ Megawatt Hyperscale Data Centre Campus	1245
 Meta-Supported Initiatives for Data Protection	6544
 Meta. Personal Data	5113
 Metadata Data Cite XML RDF	10878
+Metadata Standards for Open Data	15714
 Meta’s Director of Privacy and Data Policy for Africa	7409
 Meter Control Center MDMS Meter Data	12717
 Method Data	8460
+Methodological Approach Data Collection	16253
 Methodology Data	6565,5617
 Methodology Data Collection	899
 Methodology Diagnostic Methodology Data Collection Financial	14897
 Methodology Measure Data Collection	11525
 Methodology Measure Data Collection Name	11525
+Methodology Responsibility for Data Collection	15411
 Methodology and Data Quality	12151
-Methodology for Data	10768
+Methodology for Data	10768,4890,3,483
 Methodology for Data Agriculture	1867
 Methodology for Data Attendance	1867
 Methodology for Data Biannual	1867
+Methodology for Data Bits	15372
 Methodology for Data Collection	10768,649
 Methodology for Data Collection ARTCI	3604
+Methodology for Data Collection Analysis	15658
+Methodology for Data Collection Analysis of MIS	15658
 Methodology for Data Collection Data	3604
 Methodology for Data Collection Documentation	11417
 Methodology for Data Collection EVM	11417
@@ -7986,15 +8330,20 @@ Methodology for Data Collection Immunization	11417
 Methodology for Data Collection MOH	11417
 Methodology for Data Collection MOH Reporting Responsibility	11417
 Methodology for Data Collection One Health Committee	11417
+Methodology for Data Collection Review	15553,105
 Methodology for Data Collection The DNSP	11417
 Methodology for Data Data	1867
+Methodology for Data FIRST	16144
 Methodology for Data Government	11417
+Methodology for Data Implementing	16144
 Methodology for Data JEE	11417
 Methodology for Data Local	1867
 Methodology for Data Midterm	1867
+Methodology for Data The PIU and MESRS	16144
 Methodology for Data Validate	1867
 Methodology for Data Validating	1867
 Methods and Data Acquisition	12614
+Methods of Data Collection CHAPTER	15657
 Microsoft Copilot and Google Gemini. Data Reportal	6232
 Microsoft Data	11140
 Microwave Link Data Bearer Microwave Lin	736
@@ -8017,6 +8366,7 @@ Minimum Required Data	6423
 Minister for Finance Neal Rijkenberg. Data Tech	13172
 Minister of Information and Digitalization Data Protection	13035
 Ministry of Agriculture Methodology for Data Biannual	1867
+Ministry of Agriculture and Land Reclamation of Egypt. Data	16466
 Ministry of Education Student Data Protection Framework	3861
 Ministry of Finance. Data	10829
 Ministry of Health Data Governance Manual	3861
@@ -8036,15 +8386,15 @@ Mobile Data Pre-paid and Post-paid Subscriptions	2776
 Mobile Data Prepaid and Postpaid Subscriptions	2776
 Mobile Data Prepaid and Postpaid Subscriptions Mobile	2776
 Mobile Data Subscription	2776
-Mobile Data Subscriptions	2776,3895,275
+Mobile Data Subscriptions	2776,3895,275,9097
 Mobile Data Subscriptions Q3	2776
 Mobile Data Subscriptions and Penetration Rate	2776
 Mobile Data Subscriptions and Penetration Rate Subscription	2776
-Mobile Data Traffic	2776
+Mobile Data Traffic	2776,13267
 Mobile Data Traffic Eswatini Mobile	12395
 Mobile Data Traffic Figure	2776
 Mobile Data Traffic Recovery	12395
-Mobile Data Usage	2776
+Mobile Data Usage	2776,13267
 Mobile Data and Broadband Services	6671
 Mobile Data and Broadband Subscriptions	6671
 Mobile Data and Broadband3 Services	6671
@@ -8068,6 +8418,7 @@ Modern Tier-3 Data Centers Enabled for Cabo	11863
 Modernising and Enforcing Data Protection Law	6936
 Modernize Education Data Systems	12052
 Modernize Statistical Data Systems Driving Data	12499
+Mohammadia Data Center	16161
 Moneyweb DATA SIGN IN SUBSCRIBE Create	7343
 Monitoring CDMAS Centralised Data Management Analytical	11224
 Monitoring and Evaluation Plan for Data Strategy CUSTODIAN	1161
@@ -8089,6 +8440,7 @@ NA Data	12468
 NA NA Carrier-neutral Data Center	14897
 NAFDAC Collect Personal Data Only	7176
 NAIROBI Data Controller INST-719264922A9 NAIROBI Kenya	7167
+NATIONAL DATA CENTERS	15679
 NATIONAL DATA CLASSIFICATION MATRIX	3861
 NATIONAL DATA GOVERNANCE COUNCIL	3861
 NATIONAL DATA MANAGEMENT FRAMEWORK	5244
@@ -8125,6 +8477,7 @@ NISR Chapter Data	12413
 NISR IMPORTANT TECHNICAL NOTES FOR DATA	12403
 NISR's Data Governance Unit	3815
 NISR’S Data Governance Project Lead	6088
+NITA Data Charges	15716
 NITA Data Harmonisation Bill	3802
 NOSE AND THROAT CLINIC LIMITED Data	7167
 NOTIFICATION OF PERSONAL DATA BREACHES	14435
@@ -8153,6 +8506,7 @@ Nandi County Data Processor INST-63153456D27 NANDI	7167
 National AI Data Centre	10215
 National AI Strategy and Data Centre Blueprint	14198
 National AI Strategy and National Data Governance	3604
+National AI and Big Data Strategy	16144
 National AI and Data Infrastructure Facility	7548
 National AI and Data Platform	4528,883,1382,5719,1137
 National AI and Data Strategy	12214,767
@@ -8189,6 +8543,8 @@ National Data Center Within	5407,676
 National Data Center and National Cloud	4755
 National Data Center. Web Content	14921
 National Data Center8	14858
+National Data Centers	15679
+National Data Centers and HighPerformance Computing	16212
 National Data Centre	301,94,198,365,1298,262,2043,93,98,107,383,607,181,562,89,105,155,431,1,990,120,890,2814,23,43,148,27,25,469,13,9,21,8,42,44,27,28,71,25,7,15,8,55,50,340,505,484,247
 National Data Centre Building	12253
 National Data Centre Construction Project	1715
@@ -8216,6 +8572,7 @@ National Data Classification Matrix Mozambique	3861
 National Data Cloud	4844
 National Data Commons	9030
 National Data Coordination Centre	12962
+National Data Dictionary	15713
 National Data Distributor	4098,1822
 National Data Exchange	11952
 National Data Exchange Hub	1361,7187
@@ -8229,7 +8586,8 @@ National Data Governance	3575,3217,6665
 National Data Governance Authority	11940
 National Data Governance Committee	13457
 National Data Governance Council	3861,1383
-National Data Governance Framework	4217,2317,324,7129,1047
+National Data Governance Framework	4217,2317,324,7129,1047,1696
+National Data Governance Framework URL	16730
 National Data Governance Framework. Addressing	15034
 National Data Governance Framework. All	4217
 National Data Governance Platform	7316
@@ -8237,12 +8595,14 @@ National Data Governance Policy	700,3161,319,403,661,1272,3,273,1178,412,1143,2,
 National Data Governance Policy Date	7970
 National Data Governance Policy Validation Workshop	13223
 National Data Governance Policy and Strategy	3861
-National Data Governance Strategy	3604,364,615,699,143,359,825,160,89,507,3355,719,616,1402,883
+National Data Governance Strategy	3604,364,615,699,143,359,825,160,89,507,3355,719,616,1402,883,1591,799
 National Data Governance Strategy Date	6609
 National Data Governance Strategy Guinea	6858
 National Data Governance Strategy and National Data	3058
 National Data Governance Strategy for Digital Sovereignty	12055
+National Data Governance Strategy for Guinea	16730
 National Data Governance Strategy of Burundi	13457
+National Data Governance Strategy. Building Data	15931
 National Data Governance Strategy. Enhanced	12055
 National Data Governance Strategy. Promote	12055
 National Data Governance and Emerging Technologies	6516,15
@@ -8263,9 +8623,11 @@ National Data Official Use Only Centre	12253
 National Data Operationalizing	15034
 National Data Park and Compute Infrastructure	10157
 National Data Policy	2105,2261,217,1430
+National Data Producers Forum	15980
 National Data Protection Act	8418
 National Data Protection Agency	2109,8656,10
-National Data Protection Commission	1347,1749,1608,581,1125,5575
+National Data Protection Commis-	15901
+National Data Protection Commission	1347,1749,1608,581,1125,5575,3605,599,399
 National Data Protection Commission of Cape Verde	6361
 National Data Protection Conference	4773
 National Data Protection Office	4214
@@ -8274,6 +8636,7 @@ National Data Quality Guideline	1261
 National Data Repository	4301,27
 National Data Revolution Policy	12333,2701
 National Data Science Training Hub	13426
+National Data Sharing	16599
 National Data Sharing Policy	2998,654,163,311,457,387,7449,5,2610
 National Data Sharing Policy for Government	15034
 National Data Sharing for Government	12419
@@ -8284,12 +8647,13 @@ National Data Strategy. Contact	2118
 National Data Strategy. DIAL	2118
 National Data Summary Page	13868
 National Data Transmission Backbone Infrastructure	1150,133
-National Data Trusts	6107
+National Data Trusts	6107,10105
 National Data Value Creation Blueprint	7362
 National Data Warehouse	4260,7883
 National Data and Cloud Computing Policy	7510
 National Data and Cloud Policy	2526,8670,712,32
 National Data and Cloud Policy Implementation Plan	11230
+National Forum for Data Producers	15980
 National Government Data Centres	6432
 National Government Data Warehouse	14752
 National Guide for Government Data Governance	5920
@@ -8299,6 +8663,7 @@ National Health Data Warehouse I	4260
 National Housing Data Observatory	8087
 National Housing Data Programme	8087
 National Housing Data Steering Committee	8087
+National Identification Number Data	15393
 National Identity Data Capturing	11857
 National Indicator Data Set	396
 National Indicator Data Set Systems DTPS	396
@@ -8314,7 +8679,7 @@ National Open Data Hackathon	12608
 National Open Data Hackathons	12608
 National Open Data Policy	11854,754,2118,64
 National Open Data Policy URL	14726
-National Open Data Portal	5244,9546
+National Open Data Portal	5244,9546,924
 National Open Data Registry	9022
 National Open Data Strategy	9022
 National Personal Data Protection Agency of Sao	6361
@@ -8327,22 +8692,26 @@ National Privacy Week. Data ManagementData ManagementICT	5137
 National Privacy and Personal Data Protection Conference	6927
 National Security Data	3861,8134
 National Security Data Processing	3861
+National Seismological Observatory Data Centre	16511
 National Spatial Data	12453
+National Spatial Data Infrastruc-	15473
 National Spatial Data Infrastructure	976,820,1193,220,2035,1449,2792,166,2211,507,88,442,3,5,124,1848
 National Spatial Data Infrastructure ODA	5244
 National Spatial Data Infrastructure Policy	12902
+National Spatial Data Infrastructure Project	15473
 National Spatial Data Observatory	11261
 National Spatial Planning Data Repository NT	11261
 National Statistical System. The Botswana Data	12551
 National Statistics Data for Development Project	12137
 National Strategy for Data Management	1284
 National Summary Data	9485
-National Summary Data Page	11554,419,2804
+National Summary Data Page	11554,419,2804,974
 National Tier III Data Centre	4859
 National Treasury Secure Data Facility	3741,7481,775
 National Validation Workshop for Ghana's National Data	1779
 National and Public Data Centre	3634
 Nations USSD Unstructured Supplementary Service Data	14965
+Nationwide Monthly Egypt Open Data License	15714
 Natural Resources and Data Governance	8070
 Nature Sci Data	5367
 Navigating Data	8043,2558,838
@@ -8394,6 +8763,10 @@ Nigeria’s National Data Protection Commission	5463
 Nightlight Data	13624
 Njoroge Data Processor INST-445591159A6 NAIROBI Kenya	7167
 Nkaimurunya Data Controller INST-537184234C8 NAIROBI Kenya	7167
+No. of Data Controller Certification	15716
+No. of Data Controllers	15716
+No. of Data Protection Supervisors Certified	15716
+Nombre de Data Centers	16641
 Non-Personal Data	7548
 Non-discriminatory Data	11854
 Non-proprietary Data	11854
@@ -8408,6 +8781,7 @@ Nouakchott National Data Center	6910
 Number National Data	12356
 Number of AI-ready No National Data	7548
 Number of Public Data	11971
+Number of Public Data Centers	15553
 Numbering of Property The Data Collection Team	11129
 Numbering of Property and Data Gathering	11129
 Nutrition Data Set	14896
@@ -8487,21 +8861,27 @@ Open Big Data	5246
 Open Contracting Data Standard29	1984
 Open Contracting Data Standards	11867,1120
 Open Contracting for Infrastructure Data Standard	3969,5463
-Open Data	170,375,202,1,21,189,229,31,25,4,737,112,1139,626,262,710,15,396,2,1177,9,887,229,1858,74,1305,9,23,57,126,478,376,505,60,143,370,131,251,166,52,1194,26,38,89
+Open Data	170,375,202,1,21,189,229,31,25,4,737,112,1139,626,262,710,15,396,2,1177,9,887,229,1858,74,1305,9,23,57,126,478,376,505,60,143,370,131,251,166,52,1194,26,38,89,568,8,98,22,49,88,245,276,144,23,21,178
+Open Data Academic Outreach	16599
 Open Data Advocacy	11854
 Open Data Assessment	14920
 Open Data Budget Description URL	748
-Open Data Burkina Faso	10817
+Open Data Burkina Faso	10817,4804
 Open Data Charter	961,10893
 Open Data Charter Principles. Open Data	961
+Open Data Charter and Open Government Partnership	15714
 Open Data Charter. POLICY COMMITMENTS	11854
+Open Data Commons Attribution	15714
+Open Data Commons Attribution License	15714
 Open Data Commons Open Database License	1232,1026
 Open Data Contexte	9406
+Open Data Côte	15389
 Open Data Day	769
 Open Data Directive	4528,7984
 Open Data Ecosystem	11854
 Open Data Euskadi	11873
 Open Data Framework	3604,10962
+Open Data Gouv	15936
 Open Data Hackathon	5613,6995
 Open Data Hackathons	12608
 Open Data Handbook	1243
@@ -8510,34 +8890,42 @@ Open Data IRM Review IRM Report	11873
 Open Data Initiative	6668,3360,4698
 Open Data Initiative. Releases of Open Data	14726
 Open Data Initiative. Retrieved	1243
+Open Data Initiative. The Egyptian	15713
 Open Data Initiatives	3810,8546,2370
 Open Data Institute	747,1,213,1023,3045,5788
-Open Data Inventory	769,8508,2206,901,2536
+Open Data Intégrer L'Initiative Open Data	15389
+Open Data Inventory	769,8508,2206,901,2536,1457,44
+Open Data Inventory Score	15480
+Open Data Inventory Score Open Data	15447
 Open Data Kit	1219,2488,7212,1494,1347,862
 Open Data Kit OMS	14442
 Open Data Kit PS	12338
 Open Data Le ROD	748
 Open Data Licence	14726
+Open Data Licensing Models	15714
 Open Data Licensing and Publication Procedures Sectoral	3861
 Open Data L’objectif	1984
 Open Data L’émergence	1984
 Open Data Manuel	748
 Open Data Mauritius	14729
+Open Data Officers	15714
 Open Data Oui	748
 Open Data PRIVACY Social Media	9937
 Open Data Parlementaire Accueil Open Data	9480
-Open Data Platform	3310,1717,6527,3377
+Open Data Platform	3310,1717,6527,3377,1807
 Open Data Policies	12675
 Open Data Policies Guidelines	12675
-Open Data Policy	170,991,3171,251,7,7264,708,46,324,1797
+Open Data Policy	170,991,3171,251,7,7264,708,46,324,1797,985,332,156,10
 Open Data Policy Lab	6135,1178
 Open Data Policy and Data Protection Law	1161
-Open Data Portal	1161,8046,1610,1056,626,507,479,1305,141
+Open Data Policy of Egypt	15714
+Open Data Portal	1161,8046,1610,1056,626,507,479,1305,141,1469,16
 Open Data Portal I-29	10785
 Open Data Portals	14931
 Open Data Practitioners	11854
 Open Data Principles Open	11854
 Open Data Principles Open Data Technology	14790
+Open Data Qu'est-ce	15575
 Open Data Readiness Assesment	1984
 Open Data Readiness Assessment	9406,4564
 Open Data Readiness Assessment Report	14726
@@ -8547,16 +8935,23 @@ Open Data Sharing	14897
 Open Data Startups ADD	2258
 Open Data Steering Committee	11873
 Open Data Strategy	2105,1723,295,8940,417
-Open Data Toolkit	1243
+Open Data Toolkit	1243,14332
+Open Data URL	15389
 Open Data Une	1984
-Open Data Watch	3884,2453,876,1214
+Open Data Watch	3884,2453,876,1214,7053,897,44
 Open Data Watch and Development Gateway	6337
 Open Data Watch and PARIS21	8427
 Open Data Watch's Open Data Inventory	769
 Open Data Watch-Data2X	8427
+Open Data Watch. Au	16377
 Open Data Watch. Formation Internationale Participants	13689
 Open Data White Paper. Unleashing the Potential	1243
 Open Data and Cross Border Data Flow	4123,8940,417
+Open Data and Data Exchange Platform	15713
+Open Data and Data Exchange Platform Code	15713
+Open Data and Data Exchange Platform Ensure	15713
+Open Data and Data Exchange Platform Initiative	15713
+Open Data and Data Exchange Platforms	15713
 Open Data and Facilitated Reuse All	3861
 Open Data and Interoperability Develop AI-ready	14566
 Open Data and Open Materials	8436
@@ -8564,26 +8959,34 @@ Open Data and Reuse	3861,1383
 Open Data for Social Impact Challenge	11239
 Open Data. Allocation	9406
 Open Data. Ce Comité	9406
-Open Data. Ces	1984
+Open Data. Ces	1984,13728
+Open Data. Des	15575
 Open Data. Définition	9406
 Open Data. Elargissement du Comité de Pilotage	9406
+Open Data. Elle	15575
 Open Data. Elles	748
 Open Data. En	747,1,1236
+Open Data. Enfin	15575
+Open Data. Further	15447
 Open Data. Généralement	747
 Open Data. Généralisation	9406
 Open Data. Il	747,1
 Open Data. Ils	748
 Open Data. In Nigeria	11854
+Open Data. Le Code du Numérique	15575
 Open Data. Le ROD	747
+Open Data. Les Experts	16377
 Open Data. L’objectif	748
+Open Data. Par	15575
 Open Data. Renforcement	9406
 Open Data. Références	748
 Open Data. Sans	747,1,1236
 Open Data. Sometimes	14726
 Open Description Data	10157
+Open Fiber Data Standard	16545
 Open Fibre Data Standard	3812
 Open Government Data	5244,2,7207,892,1552
-Open Government Data Index	11379,190,884,892,661,891
+Open Government Data Index	11379,190,884,892,661,891,1744
 Open Government Data Platform	4098
 Open Government Partnership.. The Open Data	11854
 Open Government and Open Data	11854
@@ -8596,6 +8999,7 @@ OpenUp’s Data Pipeline for Narrative Storytelling	6729
 Opens Orange Sierra Leone Data Centre	4114
 Operation Meta- Dta Data Governance Data	15034
 Operation of Data Center	9123
+Operational Data Store	15411
 Operational Efficiency of Security Interest and Credit Data	12389
 Operationalize the Data Protection Act	13544
 Operationalize the Data Protection Authority	14674
@@ -8609,6 +9013,7 @@ Operator Telecel’s Fixed Data	2776
 Operators' Prices for Prepaid Daily Data Bundles	11259
 OpinionBI and Data AnalyticsData ManagementSITE SPONSOR	6107
 Optimisation du Data Center	1285
+Optimized Personal Data Protection Law	15713
 Orange Sierra Leone Data Centre	4114
 Organization of Data Center and Cloud Computing Services	14944
 Orientações da International Data Corporation	2816
@@ -8622,18 +9027,23 @@ Ownership Data Standards	12050
 Ownership and Data Sovereignty	13042
 Ownership of Data	11956
 P HOUSE COMPANY Data Controller INST-794111D7814	7167
+P Le Data Center National	15624
 P4 Legal Framework Drafting of Data Protection	12917
+PAD DATA SHEET AFRICA CENTRAL AFRICAN	15372
+PAD Data Sheet	15969
 PAIX Dakar. Africa Data Centres	3037
 PAIX Data Centers Series B Equity	811
 PAIX Data Centres	811,901,592,16,717,651,2368,130,80,525
 PAIX Data Centres CEO Wouter van Hulten	2320
 PAIX Data Centres Energy	6186
+PAPSE II Closing Data. Bangui	16436
 PART II DATA PROTECTION AUTHORITY	13319
 PART II Data Protection Authority	972
 PART II OFFICE OF THE DATA	13321
 PART III QUALITY OF DATA	13319
 PART III Quality of Data	972
 PART III Specifications of Fiscalisation Data Management	13606
+PART IV DATA GOVERNANCE Article	15641
 PART IX NATIONAL SPATIAL DATA INFRASTRUCTURE	12899
 PART IX RIGHTS OF THE DATA	13321
 PART V DUTIES OF DATA CONTROLLER	13319
@@ -8655,7 +9065,7 @@ PDO Indicators Mapped Methodology for Data Responsibility	1284
 PDO Indicators Methodology for Data Responsibility for Data	13332
 PEACOCK MANAGEMENT LIMITED Data Controller INST-5230737C7E4	7167
 PERSONAL AND NON-PERSONAL DATA	961
-PERSONAL DATA	1220,113,10852,2250
+PERSONAL DATA	1220,113,10852,2250,1754
 PERSONAL DATA BREACH	14434
 PERSONAL DATA PROCESSING Article	11517
 PERSONAL DATA PROCESSING PRINCIPLES SECTION	10974
@@ -8748,7 +9158,11 @@ PGES- DATA CENTER PRINCIPAL Organisation	14489
 PGES- DATA CENTER SECONDAIRE L’Entreprise	14488
 PHARMACY AND LAB SERVICES LIMITED Data	7167
 PI Methodology for Data Collection	10768
+PIDDC01573 A. Basic Project Data Project	16293
 PIM. Frequency Annual Data	3604
+PISU. Frequency Quarterly Data	15658
+PIU Data	15553
+PIU. Data	16144
 PKI Data Center Development	1786,1417,3881
 PLACE LTD Data Processor INST-9941250204F	7167
 PLANT LTD Data Controller INST-5968341D599 NAIROBI	7167
@@ -8787,9 +9201,10 @@ PROCESSORS Registration The Data Protection	14524
 PROCESSORS Section One Registration of Data Controllers	12185
 PROCLAMATION TO PROVIDE FOR PERSONAL DATA	12185
 PROGRESS IN IMPLEMENTATION OF OPEN DATA	11854
+PROGRESS REPORT SECOND CYCLE OF DATA	16188
 PROGRESS TO-DATE ON DATA MANAGEMENT	11231
 PROHIBITION OF DATA LOCALISATION No State	1243
-PROJECT FINANCING DATA	1264,20,420,163,424,1165,106,42,7164,195,1,453,108,35,295,1256,220,1,455,228,561,334,27,39
+PROJECT FINANCING DATA	1264,20,420,163,424,1165,106,42,7164,195,1,453,108,35,295,1256,220,1,455,228,561,334,27,39,537,37,3,105,3,263,220,510,21
 PROJET DE CONSTRUCTION D'UN DATA CENTER	1005
 PROMOTING GENDER EQUITY AND DATA JUSTICE	5244
 PROPOSAL DATA SHEET	15080
@@ -8804,6 +9219,7 @@ PUBLIC DATA PLATFORMS AND INFRASTRUCTURE	3604
 PUBLIC DATA SERVICE PROVIDERS IN GHANA	3386
 PUBLIC LIMITED COMPANY Data Controller INST-490749FDE56	7167
 PUBLIC LIMITED COMPANY Data Processor INST-490749FDE56	7167
+PUBLIC SECTOR OPERATIONS I. Basic Data	15758
 PUBLIC SERVICE AND SPECIAL PROGRAMS Data	7167
 PUBLiC DATA CURATiON	961
 PURPOSE OF DATA MAPPING	13004
@@ -8827,52 +9243,61 @@ Participatory and Inclusive Data Stewardship	11007
 Partners Associazione ScuolaNuova.EU AI AZ DATA	8530
 Party Data	11298,2326
 Passenger Name Record Data. Data	10723
+Patents Talent Policy Incentives Technology Data	15713
+Patient Data Management and Diagnostic Support	15977
 Paul Njunguna Ngugi Data Processor	7167
 Payment Card Industry Data Security Standard	2312,38,4588,7896
 Payments Data Exchange Protection	13080
+Payments Modern Employee Geographic Data State	16040
 Payroll and Pension Data	10829
 People's Republic of Data	10350
 Performance Indicator Unit of Measure Data	12917
 Performance Management Data Submission Article	12616
 Performance and Data Localization Requirements	14008
 Periodic Reassessment Data	3861
+Permits for Processing of Personal Data	15484
 Personal DATA Protection OFFICE	5113
-Personal Data	1243,387,2231,749,503,1310,1125,1851,1575,180,802,190,39,117,117,585,377,1143,388,252
+Personal Data	1243,387,2231,749,503,1310,1125,1851,1575,180,802,190,39,117,117,585,377,1143,388,252,320,157,184,76,311
+Personal Data ARTICLE	15484
 Personal Data Any	2958
 Personal Data Breach	3861,8324,2249
 Personal Data Breach Notifications	4583
 Personal Data Breach Notifications and Communications	13039
 Personal Data Controller	14434
 Personal Data Guarantee and Protection Law	1387
+Personal Data Infringement	15484
 Personal Data Management	12146
 Personal Data Personal	10908
 Personal Data Personal Data Protection	1243
 Personal Data Pro	10974
 Personal Data Proclamation	1368
 Personal Data Proclamation No	12257
-Personal Data Protection	16,210,735,200,82,231,1534,185,182,226,1350,293,119,1574,515,830,2088,449,20,17,52,3,63,576,2640,244
+Personal Data Protection	16,210,735,200,82,231,1534,185,182,226,1350,293,119,1574,515,830,2088,449,20,17,52,3,63,576,2640,244,940,110,29,40,1035
 Personal Data Protection Act	2806,309,1836,51,242,681,97,724,181,331,3875,529,472
 Personal Data Protection Act. OUT	7258
 Personal Data Protection Authori	10974
 Personal Data Protection Authorit	10974
 Personal Data Protection Authority	4237,346,518,3181,2692
+Personal Data Protection Authority Enhancing Institutional	15713
 Personal Data Protection Authority. Encryption	10974
 Personal Data Protection Authority. SECTION	10974
-Personal Data Protection Center	4982,4847
+Personal Data Protection Center	4982,4847,5655,728
+Personal Data Protection Center PDPC-	16212
 Personal Data Protection Centre	4583
-Personal Data Protection Commission	852,1954,1777,368,1976,331,2194,557,1124,529,570,25
+Personal Data Protection Commission	852,1954,1777,368,1976,331,2194,557,1124,529,570,25,3296
 Personal Data Protection Commission. Develop	11133
 Personal Data Protection Exception	11154
 Personal Data Protection Guidelines	10832
 Personal Data Protection Guidelines for Africa	961
 Personal Data Protection Handbook	12301
-Personal Data Protection Law	16,3612,1354,481,3936,705
+Personal Data Protection Law	16,3612,1354,481,3936,705,5380,230,88,410
 Personal Data Protection Law. INTRODUCTION Data	12419
 Personal Data Protection Obligations	3861
 Personal Data Protection Office	3307,5,311,612,878,490,1346,801,1395,1271,757,1059
 Personal Data Protection Office Uganda	9248
 Personal Data Protection Office. Very	10416
 Personal Data Protection OfficeData	4235
+Personal Data Protection Policy	16477
 Personal Data Protection Proclamation	1290,395,4186,4961,775,577,1,8,64
 Personal Data Protection Proclamation No	1797,63,1350,3880,4517,625,37
 Personal Data Protection Regulations. The PDPA	2806
@@ -8889,10 +9314,14 @@ Personal Data Protection and Privacy Principles. Retrieved	1243
 Personal Data Protection. Policy Prescriptions	5244
 Personal Data Protection. Retrieved	1243
 Personal Data Sovereignty	3861
+Personal Data Transfer ARTICLE	15484
 Personal Data and Cybersecurity	9399
 Personal Data and Personal Identifiable Information	4610
+Personal Data for Processing	15484
 Personal Data. C	4610
 Personal Data. Retrieved	1243
+Personal Data. Sections and Description Schedule	15553
+Personal Data. Third	15484
 Personal Information Protection Law and Data Security	6935
 Personal Jurisdiction Over Data Controllers and Processors	3861
 Phase PGES DATA CENTER PRINCIPAL Impacts	14489
@@ -8907,26 +9336,35 @@ Physical Data Element Logical DB	12360
 Pilot Cross-Border Data Exchange Platform	4326
 Plan de Gestion Environnementale du Projet PGES DATA	14488
 Planned Enforcement Actions for Data Controllers	3003
+Plateforme Open Data	15583
+Plateforme Open Data CI	15936
 Plateforme Open Data de Djibouti	3024
+Platform Establish Data Exchange Platform Establish	15713
+Platform for Data Exchange	15476
 Platform's Secure Data Storage and Sharing	14327
 Platinum Index Data Comm Ltd	3862
 Platinum Index Data Comm. Ltd	3862
 Plenty of Data	7764
+Point Focal du Portail Open Data	16421
+Points Focaux Open Data Platform	16377
 Policy Data	11570
 Policy Data Reference and Evaluation Bureau	4126
 Policy Objectives The National Data Governance	5244
 Policy. Personal Data	12419
+Policy.pdf Open Data Policy Arab Republic	15714
 Polytechnics. Data	13310
 Population Data Management	14503
 Portability Data Portability	6432
-Portail Open Data	9277
+Portail Open Data	9277,7144
 Portail Open Data du Burkina Faso3	10874
 Portal Reporting for Data Breaches	2724
 Portuguese National Data Protection Commission	6361
+Posts and Electronic Communications PROJECT FINANCING DATA	15621
 Potential Data Winter	3810
 Power Producer IT Information Technology DATA	4525
 Power Producer XALAM DATA CENTER MARKET	3184,1,7810
 Power of Data Protection Commissioner	13321
+Practical AI and Big Data Applications	16144
 Practices and Data Lifecycle	11439
 Pre-Existing Data	3861
 Preface Preface NATIONAL DATA STRATEGY P	14790
@@ -8936,6 +9374,7 @@ Prepaid Data Prices	11259
 Preparation Data	14565
 Prepare the Data Protection Guidelines for SADC	962
 Prequalification Data Sheet	1638
+President El-Sisi Witnesses Inauguration of Government Data	15656
 President of Africa Data Protection	2459
 Price Eswatini Electronic Communications Services of Data	12395
 Price of Data	12395
@@ -8981,8 +9420,10 @@ Private Insensitive Data	11995
 Private Sector Data Closure	3810
 Private Sensitive Data	11995
 Probe Data Breach	4998
+Procedures for Data Management Throughout Its Lifecycle	15713
 Processes Measurement Data Quality Measurement Roles	15034
 Processing Minor Data	12193
+Processing Personal Data	15484
 Processing Personal Data for Electoral Purposes	12301
 Processing Sensitive Data	12193
 Processing of Biometric Data	2873
@@ -8990,10 +9431,11 @@ Processing of Children’s Data	2873
 Processing of Data Subjects’ Health Information	11255
 Processing of Digital ID Data	12663
 Processing of Health Data	12301
-Processing of Personal Data	27,12158,364,455,377,1053,90
+Processing of Personal Data	27,12158,364,455,377,1053,90,960,705
 Processing of Personal Data Generality	27
 Processing of Personal Data for Private Security	12301
-Processing of Sensitive Personal Data	12185,364
+Processing of Sensitive Personal Data	12185,364,2935
+Processor of Personal Data	15484
 Production of Data	5700
 Program Data	6423
 Program Frequency Annual Data	11905
@@ -9006,16 +9448,20 @@ Project Data PROJECT FINANCING	14132
 Project Data Project ID	13850
 Project Data Project ID Project Name	14888
 Project Directors Data Steward	15034
-Project Financing Data	12388,24,14,243,1124
+Project Financing Data	12388,24,14,243,1124,1618
 Project Implementation Services For Establishing Data	4576
 Project Location The National Data Centre	12253
 Project Open Data	1218
+Project. Frequency Quarterly Data	15658
 Projected National Mobile Data Traffic	5245
+Projet Initiative Open Data du Burkina	15406
 Projets PRÉSENTATION DU DATA CENTER NATIONAL	3675
 Promote Data Sharing	12143
 Promote Effective Data Governance and Analytics for Advance	13991
 Promote Open Finance and Data	15130
 Promote Open Finance and Data Sharing Frameworks	15130
+Promulgating the Personal Data Protection Law	15484
+Promulgating the Personal Data Protection Law URL	15484
 Proparco and KCB Bank Data Protection Act	12297
 Proportionality and Practicality Data	14565
 Proposal Data Sheet	15080
@@ -9026,17 +9472,21 @@ Prosperous and Peaceful Africa AU DATA POLICY	961
 Protect Data Privacy and Security Integrate	12675
 Protecting Americans’ Data	11154
 Protecting Data Privacy and Security	12356
+Protecting Intellectual Property and Cultural Data	16212
 Protecting Personal Data	12356
+Protecting Privacy and Personal Data	15679
+Protection Le Data	16647
 Protection and Data	14879
 Protection and Data Protection Cybersecurity	4126
 Protection and Security of Personal Data	12146
 Protection of Customer Data and Transactions	15054
-Protection of Personal Data	1243,643,5,18,1416,303,1,232,24,870,240,2457,3319,51
-Protection of Personal Data Law	3325
+Protection of Personal Data	1243,643,5,18,1416,303,1,232,24,870,240,2457,3319,51,4696,123,260,226
+Protection of Personal Data Law	3325,12086
 Protection of Personal Data and Access	1906
 Protection of Personal Data and Privacy	9969,2450,2730
 Protection of Privacy and Transborder Flows of Personal Data	1243
 Protection of Public Data and Digital Sovereignty	6606
+Protocol DLP Data Leak Prevention IaaS	15472
 Provide Biometric Data Press Release	11079
 Provide Data	4167,35,15,43,41,48,1003
 Provided Where Personal Data Are Collected	14434
@@ -9046,6 +9496,7 @@ Provisional Data for Telkom Kenya Limited Table	6671
 Présidence Primature Senat HCC Open Data	9480
 Ps Personal Data	5113
 Public Data	3386,475,8091
+Public Data Initiative	15624
 Public Data Protection Law	4575,354
 Public Data Service	958,2428
 Public Data Service Internet	3386
@@ -9072,6 +9523,7 @@ Période PGES DATA CENTER PRINCIPAL Responsables	14489
 Q1. Data	10245
 QN. Data	5925
 Qualitative Data Collected	11935
+Quality Data Data Openness Infrastructure Cloud	15713
 Quality Scorecard and KPIs Data Catalogue and Glossary	15034
 Quality Statistics and Data for Everyone	14767
 Quality Taxation Data	961
@@ -9082,6 +9534,7 @@ Quarterly ARCT Data	1284,12047
 Question of Data Retention	2918
 Questionable Data Representation Reflects	11105
 Questioning Data Saturation	5349
+Questão Data Classificação Observações Registo	16325
 Quotes Data Highlights Collaboration	10857
 R&D Data Repository	14664
 RACKS DU DATA CENTER	13524
@@ -9093,6 +9546,7 @@ RATIONALE FOR THE DATA AND CLOUD	11196
 RAXIO DATA CENTER SARL	1005
 RAXIO DATA CENTRE SARL SOCIÉTÉ	1005
 RD PARK HOSPITAL LIMITED Data Controller	7167
+RDQA Routine Data Quality Assessment	15961
 RECIPIENTS TO SAFEGUARD PERSONAL DATA Third-party	13376
 RECOGNISE THE ROLE OF DATA	1243
 RECOMMENDATIONS Data	12328
@@ -9126,12 +9580,14 @@ ROSE WAWERU Data Controller INST-5418108EE4A	7167
 RS Retrieve Form for Retrieve Form for Data	1009
 RSTP National Data Centre	593
 RSU. Data	11924
+RSU. Frequency Quarterly Data	15658
 RULAAC Warns Data Protection Bill Could	7458
 RULES OF PROCESSING OF DATA	13321
 RWANDA National Data Governance Framework Table	15034
 Rack Centre’s New Data Facility Will	2595
 Rack du Data	13524
 Radical Interoperability- Data	13602
+Rainfall Data	16135
 Ranking Data Only Mobile Target	12395
 Rapid Data Collection Platform Bill	1113
 Raw Data	11405,685
@@ -9171,19 +9627,21 @@ Reddit's Data API	13461
 Reduit. The Bhumishq Data Center	3292
 Reference Data	12359
 Reference Data Organisation Excutive	15034
+Reforms From Data	16260
 Regarding Data	3058
 Regional Community Network of African Data Cross-border	961
 Regional Data Center Hub	7425
 Regional Data Commons	6250
 Regional Data Commons for Africa	14819
 Regional Data Governance and Protection Strategy	14022
-Regional Data Hub	1956
+Regional Data Hub	1956,13853,432
+Regional Data Interoperability and Cloud Strategy	16144
 Regional Data Strategy for Marine and Coastal	961
 Regional Data for Action	14434
 Regional Feminist Data Agenda	8713
 Regional Framework for Secure Cross-Border Data Flows	15221
 Regional Framework for Trusted Cross Border Data	8426
-Regional Health Data Hub	14236
+Regional Health Data Hub	14236,2005
 Regional Health Data Networks	14434
 Regional Health Data Sharing and Protection Policy	14434
 Regional Open Data Legal Framework and Interoperability	6352
@@ -9232,6 +9690,7 @@ Repository Reveals About Data	7313
 Republic of Data	9128
 Republic of Ghana. Data Protection Act	6936
 Requirements Requir Data Definition Explanation Example	12360
+Requisitos Data de Atualização	15645
 Research Data	3861
 Research Data Alliance RDA	5246
 Research Data Lockdown	3810
@@ -9244,6 +9703,8 @@ Responsable Open Data. Ce	748
 Responsable Open Data. Cliquez	9406
 Responsables Open Data	747,1,439,797,7422
 Responsables Open Data Manuel Open Data	747
+Responsibility for Data	16144
+Responsibility for Data CBL	16144
 Responsibility for Data Collection	11417
 Responsibility for Data Collection Children	10829
 Responsibility for Data Collection FAS-IDL	10768
@@ -9257,10 +9718,25 @@ Responsibility for Data Collection Freque	12917
 Responsibility for Data Collection Frequency Baseline	12917
 Responsibility for Data Collection MASFAMU	10768
 Responsibility for Data Collection MASFAMU COMPONENT	10768
+Responsibility for Data Collection MEH	15659
 Responsibility for Data Collection MOH	11417
 Responsibility for Data Collection PCU	3604
 Responsibility for Data Collection PCU Graduates of ESATIC	3604
 Responsibility for Data Collection PCU People	3604
+Responsibility for Data Collection PISU	15658
+Responsibility for Data Collection PISU Beneficiaries	15658
+Responsibility for Data Collection PISU Complaints	15658
+Responsibility for Data Collection PISU Component	15658
+Responsibility for Data Collection PISU Data	15658
+Responsibility for Data Collection PISU Households	15658
+Responsibility for Data Collection PISU Monitoring	15658
+Responsibility for Data Collection PISU Multi-modal	15658
+Responsibility for Data Collection PISU Page	15658
+Responsibility for Data Collection PISU People	15658
+Responsibility for Data Collection PISU Programs	15658
+Responsibility for Data Collection PISU Shock-response	15658
+Responsibility for Data Collection PISU Women	15658
+Responsibility for Data Collection PIU	15553
 Responsibility for Data Collection People	10829
 Responsibility for Data Collection The MOH	11417
 Responsibility for Data Collection The MOH Average	11417
@@ -9280,17 +9756,27 @@ Responsibility for Data MEPPSA Collection Essential Packages	11905
 Responsibility for Data MEPPSA Collection Gap	11905
 Responsibility for Data MESRSIT	11905
 Responsibility for Data METP	11905
+Responsibility for Data MND and PIU	16144
 Responsibility for Data MoHAIS Collection Stakeholder	1867
 Responsibility for Data National Learning Assessment Unit	11905
+Responsibility for Data National PIUs	16144
+Responsibility for Data PISU Page	15658
+Responsibility for Data PIU	16144
 Responsibility for Data PIU Collection Grievances	11905
 Responsibility for Data PIU Collection Page	11905
+Responsibility for Data PIU Collection Respondents	16144
+Responsibility for Data PIU and Ministry of Higher Education	16144
+Responsibility for Data PIUs	16144
+Responsibility for Data Primary	16144
+Responsibility for Data SPV Collection Benin	16144
 Responsibility for Data The MOH. Collection Percentage	11417
+Responsibility for Data The PIU	16144
 Responsible Data Center Development Act	14673
 Responsible Data Management	12356
 Responsiveness and Real-time Data Utilisation	12370
 Restricted Data	3861,1383,1188,5520
 Restricted Data Access	3861
-Restructuring Data Sheet	11924
+Restructuring Data Sheet	11924,3807
 Results Framework. Data	6539
 Results Repository Data Warehouse Provider Registry	21
 Rethinking Data Colonialism	12098
@@ -9324,8 +9810,11 @@ Rogers Capital Port Louis Data Center	3292
 Rohit Amritlal Devani Clinic Data	7167
 Roles and REFERENCES AND ACRONYMS Methodology of Data	14434
 Rose Belle Data Center	3292
+Routine Administrative Health Service Data Routine	15556
+Routine Data Quality Assessment	16722
 Routine Family Planning Data	10881
 Royal Science and Technology Park National Data	12944
+Rurale DCN Data Center National DGI	15583
 Rwanda Data Protection Law	12333,5
 Rwanda Data Protection and Privacy Law	15034
 Rwanda Draft Data Protection Law	12333
@@ -9365,6 +9854,7 @@ SAFETY AND SECURITY ACCESS HANDSET DATA	11964
 SANSA Data Products and Services Manager	11244
 SAPEMP. IMPROVING FIELD DATA Tshawuka	9526
 SARIT CENTRE Data Processor INST-35623816A01 NAIROBI	7167
+SCADA Supervisory Control and Data Acquisition SDG	15515
 SCHEDULES TO NIGERIA DATA PROTECTION ACT-GENERAL	11956
 SDMX Data Structure Definitions	8527,680
 SDMX and Data Modelling Workshop	13157
@@ -9380,6 +9870,7 @@ SERVICES DATA	3862
 SERVICES LIMITED Data Controller INST-8939761871F NAIROBI	7167
 SHARING OF DATA WITHIN THE NPS	13092
 SIERRA LEONE NATIONAL DATA STRATEGY	1161
+SIGIPES I. Data	15480
 SITUATION ANALYSIS Data	12419
 SITUATIONAL ANALYSIS FOR DATA ECONOMY	961
 SLIPTA Audit Methodology for Data SLIPTA	11417
@@ -9439,23 +9930,30 @@ SampleandSamplingMethod Data	8603
 Sampling Frame for SIBES Phase II Data	15085
 Samson Wanjala Clinic Data Controller	7167
 Samson Wanjala Clinic Data Processor	7167
+Santiago Data	15564
 Satellite Data and AI for Economic Development and Climate	942
 Satellite Imagery and IoT Data for Spatial Temporal	2816
 Satellite Managed Data Service	10407
 Satellite Managed Data Service Providers and Satellite	10407
 Satellite Managed Data Services	10407
 Satellite Managed of Data Service	10407
+Saudi Arabia. Saudi Arabia’s National Data	15713
+Saudi Arabia’s National Data Management Office	15713
+Saudi Arabia’s National Strategy of Data and AI	15713
+Saudi Data	15713
 Saudi Data and AI Authority	2958
 Saudi Data and Artificial Intelligence Authority	2958
 Scalable Model for Real-Time Education Data	11970
 Scale Data Level Score Data Characteristics	5665
+Scale of Startups Social Media Data	15713
 Scarcity of Training-Quality Data	3810
 School Data Management Information System	14922
 School Data Management System	12411,1007
+School Map Data Analysis Report	15480
 School Profile Data	14501
 School of Data	10817
 Sci Data	14666
-Scientific Data	12090
+Scientific Data	12090,3625,420
 Scope This Data Interoperability	12360
 Scope and Applicability Data Domains Covered All	3861
 Scope of Application Personal Data Collection and Processing	11539
@@ -9474,6 +9972,7 @@ Section II. Bid Data Sheet	14766
 Section III BID DATA SHEET	14778
 Sector Data Centre Development Standards and ICT	12453
 Sector-Specific Data	3861
+Sectoral Arabic Data Sets Open Data	15713
 Sectoral Data Classifications	3861
 Sectoral Data Governance Bodies and Specialization	3861
 Secure Data	14674
@@ -9481,6 +9980,7 @@ Secure Data Exchange Platform	14674
 Secure Data Infrastructure	12356
 Secure Data Platforms	14674
 Secure Data Sharing Framework	6842
+Secure Data Sharing Platforms	16212
 Secure Data. Usage Gap	14674
 Secure Government and Regulated Data Proportionately Apply	10157
 Secure National Data Center Ahead of Launch	4926
@@ -9505,8 +10005,9 @@ Sensitive Data	3861,7370,1188
 Sensitive Data Any	2958
 Sensitive Data Data Retention and Lawful	1243
 Sensitive Data Minimisation and Fair	1243
-Sensitive Personal Data	1630,10516,39,117,117,244,341,377,1143
+Sensitive Personal Data	1630,10516,39,117,117,244,341,377,1143,960
 Sensitive Personal Data Sensitive	12302
+Sensitive Personal Data. CHAPTER SEVEN Cross-Border	15484
 Sentinel Data for Flood Mapping and Damage Assessment	2816
 Service Data WFP World Food Programme	11133
 Service Data and Innovation Open	12359
@@ -9581,8 +10082,9 @@ Sovereign Data Data	10157
 Sovereign Data Defined	10157
 Sovereignty Framework for Government and Regulated Data	10157
 Sovereignty for Government And Regulated Data	10157
+Space-Based Data URL	15589
 Spatial Data	4653
-Spatial Data Infrastructure	427,10834,1770
+Spatial Data Infrastructure	427,10834,1770,2501
 Spatial Data Infrastructure Act	1009,10187
 Spatial Data Repository	13300
 Spatial Data Science for Development	6903
@@ -9613,8 +10115,9 @@ Station Data	10763
 Statistical Confidentiality Data	13310
 Statistical Confidentiality and Data Security	14777
 Statistical Data	3861,8558
+Statistical Data Analysis Report. MINESUP	15480
 Statistical Data Dissemination and Access	14115
-Statistical Data and Metadata	12499,2278
+Statistical Data and Metadata	12499,2278,1961
 Statistical Data and Metadata Exchange	9207,1737,768,1445
 Statistics Industry Statistical Dashboard Industry Data	9109
 Statistics Mauritius. Data	14836
@@ -9624,6 +10127,7 @@ Stop Shop Cloud Data Centres	9455
 Storage of Payment System Data	6735,200,4375
 Strategic Acquisition of Seven NTT Data Centres	11243
 Strategic Investment Waiver for Data Localisation	11995
+Strategic Objective Ensure Data Accessibility	15713
 Strategic Objectives Establish Sectoral Data Spaces	14566
 Strategies Personal Data Protection and Privacy Act	5244
 Strategy Data	12210
@@ -9631,9 +10135,11 @@ Strategy Data Governance Campaigns Key Principles	15034
 Strategy and Data Centre Blueprint	10292
 Strategy. Addresses. Fiber. Data. Law	7617
 Strategy. Data Collection Approach	14819
+Streaming Analytics Storage and Data Management Proj	15476
 Strengthen Agricultural Data and Empower Smallholders	12507
 Strengthen Cybersecurity and Data Protection Frameworks	5548
 Strengthen Data Collection	5244
+Strengthen Data Literacy and Capacity	15960
 Strengthen Data Protection Enforcement	12384
 Strengthen Data Sharing and Credit Infrastructure Review	4848
 Strengthen Education Data Systems and Advance Zero	15101
@@ -9643,7 +10149,9 @@ Strengthen Horizontal Accountability for Citizens’ Data	6770
 Strengthen Kenya’s Data Governance Framework	14561
 Strengthen Kenya’s Data Governance Framework Submitted	14561
 Strengthen Personal Data Protection and Digital Governance	4713
+Strengthen Social Protection Data Coordination	16101
 Strengthened Data Analytics	10550
+Strengthening Data Infrastructure	15765
 Strengthening Data Protection Frameworks	2459
 Strengthening Data Security	13678
 Strengthening Data Systems for Smarter Policymaking	11332
@@ -9653,13 +10161,16 @@ Strengthening Education Data URL	13629
 Strengthening Gender Statistics Through Inclusive Data	8427
 Strengthening Gender and Child Data Across Africa	8427
 Strengthening Polar Orbiting Satellite Data Flow	14522
+Strengthening Population Data Systems	16434
 Strengthening Public Debt Management and Debt Data	14828,3
 Strengthening Togo's Data Protection Framework	8282
+Strengthening and Enhancing Education Data Systems	15765,195
 Strengthening the Data Governance and Sharing Framework Bill	1476
 Strengthening the Enabling Environment for Gender Data Use	8427
 Strive Masiyiwa’s Africa Data Centres	5025
 Stronger Data Matters Uganda	3969
 Structured Data	8670
+Study Description Data Description Documentation Get	15844
 Subiect Data Definitions Authorisation	1009
 Submission of Internal Semi-Annual Data Protection Report	11956
 Submit Data	11180
@@ -9672,6 +10183,7 @@ Subscriber Data- Active Voice Subscriptions	3862
 Subscriber Voice Data	3862
 Subscription Data Usage	2776
 Subscriptions Total Mobile Data Traffic	2776
+Substantial. BASIC DATA	15782
 Sudan's School Data Gap	15253
 Sudanese Data and Artificial Intelligence Authority	3902,681,10654
 Suez Canal Economic Zone. Data Center	10380
@@ -9681,11 +10193,15 @@ Summary of Economic and Financial Data	4818,2127
 Summary of Economic and Financial Data. The Bank	8412
 Super User Free Mobile Data Package	14823
 Supervisor Responsibility Chief Data Officers	3861
-Supervisory Control and Data Acquisition	7573,5773
+Supervisory Control and Data Acquisition	7573,5773,2356,281
+Supervisory Control and Data Acquisition SNCP Stratégie	15969
+Supplementary Service Data Venture Capital World	15480
 Suppliers Data Processor INST-829020C3D9D NAIROBI Kenya	7167
+Supply Ministers Launch Citizen Data Update	15811
 Supply-side Data	940
 Support Data Stewards	15034
 Support for Open Data Hackathons and Forum	12608
+Supporting Data	16144
 Supporting Open Data Initiative	13970
 Supporting the National Spatial Data Infrastructure	13998
 Supreme Data Governance Authority	3861
@@ -9693,16 +10209,19 @@ Survey Data	12978
 Survey Data CUCI Impact	12978
 Survey Data Evidence	12978
 Survey Data. Microsoft Word	15244
+Survey Processing System DQr Data Quality	15711
 Sustainability and Data Security	15164
 Swatini Data Protection Act	12331
 Synesis IT Ltd and Africa Data Edge	3700
 Synthetic Data Artificial	12675
+System Data	15478
 Systematic Data Protection	8022
 Systems Limited Data Processor INST-5919342C364 NAIROBI	7167
 T Procurement Specialists Data	6832
 TABASAMU DENTAL SURGEONS LIMITED Data Controller	7167
-TABLE OF CONTENTS DATA SHEET	11924
+TABLE OF CONTENTS DATA SHEET	11924,3587,152
 TANZANIA The Personal Data Protection Act	12232
+TARGET DEMOGRAPHICS AND KEY DATA POINTS	15460
 TAVETA Data Controller INST-9294893F66C TAITA Kenya	7167
 TEL NO. DETAILS OF DATA PROTECTION	2709
 TF05 ST 05 Equitable Data Gove66d5d7413a57e.pdf	7242
@@ -9736,6 +10255,7 @@ TRENDS IN THE GOVERNANCE OF DATA	1243
 TRUSTEES Data Controller INST-810286BADD8 NAIROBI Kenya	7167
 TTCL’s National Internet Data Centre	10746
 TVET and HEI. Data	13314
+Table of Contents ADDITIONAL FINANCING DATA SHEET	15983
 Tackling Education and Skills Data Challenge	10359,4823
 Take Control of Their Data	4800
 Take Control of Your Data	4809,76
@@ -9748,6 +10268,7 @@ Tanzania's Personal Data Protection Act	11142
 Tanzania's Personal Data Protection Act No	11133
 Tanzania’s Data Protection	5002
 Tanzania’s Personal Data Protection Act	5242
+Tarefa Data Classificação Observações Registo	16325
 Target Frequency Data	11525
 Targets Description of Target Data Source Means	13005
 Targets Responsibility Data Sources	14997
@@ -9763,6 +10284,7 @@ TechCabal Copy Link Data	8727
 TechTalkThursday Why Data Refinement Could Define	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
 Technical Capacity and Skills Data	5244
 Technical Specifications Raxio MZ1 Data Centre	9446
+Technique BASIC DATA Operation ID	15693
 Technological Neutrality and Data Portability	13308
 Technological and Socioeconomic Rationale Data	3861
 Technologies Data	7548
@@ -9776,6 +10298,8 @@ TelOne Data Centre	9455
 TelOne and Econet’s AI Data Centre	8483
 Telecom Egypt's Regional Data Center Hub	7425
 Telecom Egypt's Regional Data Hub	1956
+Telecoms and Data	15511
+Temporary Interagency Data Release Board	15714
 Teraco Data Environments	7638
 Teraco Data Environnement	1241
 Teraco Expands Cape Town CT2 Data	3932
@@ -9805,7 +10329,7 @@ Tier III Lome Data Centre	6446
 Tier III National Data Centre	4858,51,419,7125,892
 Tier IV Data Center	9123
 Tier IV Data Centers	15149
-Tier IV Data Centre	1722
+Tier IV Data Centre	1722,14448
 Time-Invariant Variables Using Panel Data	12948
 Timeline of Data for Policy	1246
 Timely Data	11854
@@ -9841,7 +10365,7 @@ Training Data	7548
 Training and Certification of Data Protection Officers	13381
 Transborder Flows of Personal Data	1243
 Transfer of Data	11993
-Transfer of Personal Data	14434
+Transfer of Personal Data	14434,1050
 Transfer of Personal Data Order	12232
 Transfers of Personal Data	12549,1885
 Transform Health. Health Data Governance Legislative	1364
@@ -9850,6 +10374,7 @@ Transformation Through Geospatial Data	6903
 Transforming Data	13077
 Transmission Of Data	12151
 Transmission of Data	12151
+Transparency Enhance Data Security Measures	15713
 Transparency of Data Movement Across Jurisdictions Backup	6432
 Treasury's Secure Data Facility	11940
 Treat Data	14752
@@ -9865,7 +10390,9 @@ Trustworthy AI and Data Mission	7490
 Tsiry Andriantahina BASIC DATA Operation ID	14456
 Tuitoek Cherogony Data Processor INST-1888064C612 NAIROBI	7167
 Tunisia Targets Data Centers As Key	3768
-Turning Data	14767
+Turma Data Hora Sala	16325
+Turma Trimestre Semana Data N.º Nome	16325
+Turning Data	14767,1193
 Type of Personal Data	13004
 Types of Data Shared	12389
 Types of Sex-disaggregated Data Available Online	12389
@@ -9883,6 +10410,7 @@ UCDP Uppsala Conflict Data Program UN	10759,76,2,1,130,902,16,3,451,12,1,135
 UCHI Malawi Voice Data Commons	13095
 UEM Data Center	9225
 UI Data	13042
+UI Design NOSiGIS Data Center BI	15476
 UMC Data Hackathon	11424
 UMOJA ONE LTD Data Processor INST-8500724A072	7167
 UN Data Extrapolation	11857
@@ -9897,20 +10425,23 @@ UNESCO's Data Governance Toolkit	8043,2030,3871
 UNESCO’s Data Governance Toolkit	10601
 UNESCO’s Data Governance Toolkit. UNESCO	11439
 UNHCR Joint Data Center	13203
-UNHCR Operational Data Portal	12227
+UNHCR Operational Data Portal	12227,4353
 UNHCR Upgrades Its Data Management System	12227
 UNHCR. Data	11994
 UNICEF Data	10814
 UNICEF Data Warehouse. Retrieved	10714
+UNICEF Egypt Data Snapshot. Issue	15604
 UNU-WIDER and Brazil’s National Data Protection Authority	11439
 UN’S GUIDANCE NOTE ON BIG DATA	1243
 UN’S PERSONAL DATA PROTECTION AND PRIVACY	1243
 UP ON LESOTHO DATA GOVERNANCE	12691
 UPS Power Supply System. The Data	12253
+URL API Endpoint Language Data Format	15714
 US Census Bureau Data and EU Data	5863
 US Clarifying Lawful Overseas Use of Data	6477,3611
 US Data Privacy Framework	8533,1555
 US Geological Survey's EROS Data Center	11334
+US and India Open Data Initiative	16599
 US-based Vantage Data Centres	5025
 US-headquartered Vantage Data Centers	5161
 USD for Construction of Data Centers	103
@@ -9940,8 +10471,10 @@ Underlying Observations and Data Sources	13094
 Understanding Data Fully	1161
 Uneven Enforcement of Data Protection Laws Puts	5603
 Uneven Enforcement of Data Protection Laws Ugandas	5603
+Unified Data Exchange Platform	16600
 Unified Data System	9530
 Union SDIA Spatial Data Infrastructure Act	11196
+Unis. Ce Data Center	15640
 Unit Head of Data Management	11970
 Unit Manager for Data	10073
 United Nations Women Data Hub and ILOSTAT	3604
@@ -9957,7 +10490,7 @@ Unlike the Data Protection Commission	4486
 Unlocking Data Initiative	12196,1013
 Unlocking Malawi's Foundational Learning Data	13209
 Unstructured Data Blindspot	3279
-Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503,1573,1125,138
+Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503,1573,1125,138,197
 Unstructured Supplementary Service Data South African	11130
 Unstructured Supplementary Service Data WFP	14948
 Upcoming Data Center Portfolio	2572
@@ -9973,7 +10506,7 @@ Use the National Agritech Data Platform	14818
 Useful and Re-usable Data	1243
 User Administration Data Exchange and Interoperability	12961
 User Data Exported From Facebook	961
-Using Data	7764
+Using Data	7764,8398
 V ACKNOWLEDGEMENTS The Guidelines for Integrating Data	1243
 VA. Ce Data Center	2266
 VALUERS LIMITED Data Processor INST-932723CA892 NAIROBI	7167
@@ -10008,6 +10541,8 @@ Voter Registration Data Voter	10714
 Vulnerable Groups and Inclusion Data	3861
 WABORE MEDICAL CLINIC Data Controller	7167
 WALTER KUDOYI Data Processor INST-1072651CA3C	7167
+WAPP West African Power Pool DATA	16188
+WARCIP WBG TABLE OF CONTENTS DATA	15424
 WAT The Nigeria Data Protection Commission	9878
 WAYS OF ASSESSING RISKS IN DATA	13381
 WB's Management Team. II. PROJECT DATA	13378
@@ -10035,11 +10570,14 @@ WITHOUT THE CONSENT OF THE DATA	13376
 WORK AND DATA MANAGEMENT	15244
 WSQ Facial Image Data	13005
 WTO DISCIPLINES ON DATA ISSUES	1243
+WaPOR Data	16466
+Weak Data Integration and Monitoring Systems	15845
 Web Subject Data Definitions Personnel White	1009
 Web-Based Survey Data	10919
 Web. Subject Data Definitions RFC1510	1009
+Wednesday. Data	15875
 Weekly Night Data	12690
-Weighting Data	13084
+Weighting Data	13084,2759,1,821
 Wellness Foundation Data Controller INST-16693661558 NAIROBI	7167
 West Africa Data Center Markets	10861
 West Africa Data Center Markets Brief	4428
@@ -10051,22 +10589,31 @@ Wh. XALAM DATA CENTER MARKET BRIEFING	3185
 Whom the Data Flow	961
 Whose Data	7471
 Wideband Data	736
-World Bank Data	1264,6275,3273
+Women Count Data Hub	16144
+World Bank Data	1264,6275,3273,4849,483
+World Bank Data Access Access	15844
 World Bank Data Bank	11863
 World Bank Data Bank. Please	11863
 World Bank Data Catalog	11867
 World Bank Data Help Desk	10714
 World Bank Data Portal	11863
 World Bank Data. Literacy Rate	14576
+World Bank Development Economics Data Group	15620
+World Bank Gender Data Portal	15658,486,116
 World Bank Group Data	6539
 World Bank National Accounts Data and OECD	13331
-World Bank Open Data	11994
+World Bank Open Data	11994,3610
 World Bank Open Data Mortality	10881
+World Bank Open Data. Education Sector	15604
+World Bank Open Data. Retrieved	15604
+World Bank Open Data. World Bank	15604
 World Bank's Open Data Readiness	4214
 World Bank-UNHCR Joint Data Center	10841
 World Bank-UNHCR Joint Data Centre	11924
+World Bank. Gender Data Portal	16144
 World Bank’s Development Data Group	11133,9
 World Customs Organisation Data Model	9092
+World Data	15447
 World Data Centers Day	2918
 World Data Lab	9541
 World Data Organization	12864
@@ -10091,10 +10638,12 @@ XC III ANNEXES PGES- DATA CENTER	14488
 XC IX ANNEXES PGES- DATA CENTER	14488
 XC VI ANNEXES PGES- DATA CENTER	14488
 XC VII ANNEXES PGES- DATA CENTER	14488
+XLSX Data and Resources	16411
 XML Data Transformation XSL	12360
 XML Schema for Data Interoperability	12360
 Y DATA	10719
 YEAR END TELECOM PROVIDER’S FINANCIAL DATA	3862
+YR4 FY5 End Target Frequency Data	15411
 Yahsat's Data Solutions	14901
 Year Data Consumed	3862
 Year U.S. Government Data System Funding	4301,1051

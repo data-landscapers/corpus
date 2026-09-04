@@ -1,9 +1,15 @@
 ACK ST. ANDREWS SIMENYA CDC Data	7167
 AI. OpenAI Android	13461
+ANDAKE	15524
 ANDAVELO LIMITED Data Processor INST-888669334DD LAMU	7167
+ANDE SONELGAZ	16103
+ANDE URL	16630,62
+ANDE. Article	16637
 ANDE. Dedup	3540
 ANDEGE	8372
 ANDELA KENYA LIMITED Data Controller INST-3996545BF64	7167
+ANDEME MBOGHO Krishna Gernande	16381
+ANDEME OVONO	16175
 ANDF AVI L'ANDF	10876
 ANDF AVI Page	10876
 ANDF Adresse	10876
@@ -13,6 +19,7 @@ ANDF DLI	10876
 ANDF Des	10876
 ANDF Directeur Général	10876
 ANDF Décision du DG Chef du Département Approuve	10876
+ANDF Etat	15583
 ANDF Examen	10876
 ANDF Général	10876
 ANDF Le Directeur Général	10876
@@ -36,6 +43,11 @@ ANDFOP	10858
 ANDGE	4209,3494,1,1598
 ANDIMI HOSPITAL MUUNGOMA JK LTD Data	7167
 ANDIS	3807
+ANDODZON MBANI	16177
+ANDONGUI	16100
+ANDONGUI Destaing UGP Spécialiste Inclusion Productive	16012
+ANDOURA DIMI	15744
+ANDOURA NGATSE EBA	15524
 ANDREW	7167
 ANDREW JAMES PEARSE	1829
 ANDRIAMAMONJIARISON	6613
@@ -50,6 +62,7 @@ ANDRIANTASY Sylvain UCP Responsabe Passation des Marchés	14539
 ANDRIANTOMPOINARIVO Hery MID Assistant	14539
 ANDRITZ	10975
 ANDRITZ Réhabilitation	10975
+ANDZOUANA	16100
 ANSSI and ANDE	4036
 ARTEC Andohatapenaka	14549
 Action Zones Critiques Androy	14622
@@ -79,16 +92,17 @@ Anda Usman	4045
 Andah	5277
 Andakia	7106,1199
 Andaniny	14356
-Andar	8166
+Andar	8166,8327
 Andar Direito	10769
-Andar Plateau	8166
+Andar Plateau	8166,7944
 Andariya	15342
 AndctMivatrikoent	10157
 Andebol	11432
 Andekaleka	14479,2
-Andela	335,80,39,7752,1139,665,563,2741
+Andela	335,80,39,7752,1139,665,563,2741,3239
 Andela and Moringa Schools	12239
 Andela. Burundi	13314
+Andemtenga Kourittenga Centre-Est	15715
 Anderberg	2093
 Andersen	4763
 Andersen Consulting	4191
@@ -110,11 +124,14 @@ Andiswa Ndlovu and Lungelo Maziya	13072
 Andja Komso	12948
 Andjelich	14388
 Ando Naoki	10044
+Andoche	15524
 Andoharanofotsy	14488
 Andoharanpfotsy Distrika Atsimondrano	14488
-Andorra	1243,7824,1697,21,824
+Andoid	15478
+Andorra	1243,7824,1697,21,824,3862
+Andorra Telecom	15471
 Andorra Yes FTTH Full National Deployment	11529
-Andrade	10751,1,684
+Andrade	10751,1,684,4889
 Andraharo	7899,99
 Andraikitra	14488,1,1
 Andraikitra CVII Daty	14489
@@ -123,9 +140,10 @@ Andrainjato Fianarantsoa	14568
 Andranomena	14661
 Andranovory District	14425
 Andras Juszt	427
-Andre Amaral	8775
+Andre Amaral	8775,7223,558,23
 Andre Averbug	10841
 Andre Biyong	3608,4636,232
+Andre L. Carletto	15959
 Andre Pedro	11389
 Andre Wills	10537
 Andrea Ariik	9805
@@ -138,6 +156,7 @@ Andrea Kivi	6370
 Andrea Kivi and Smart Africa CEO Lacina	6370
 Andrea Martin	12541
 Andrea Nascetti	2816
+Andrea Rachelle	15901
 Andrea Rademeyer	14695
 Andrea Richter Hume	6965,580
 Andrea Rigoni	10764
@@ -156,6 +175,8 @@ Andreas Uukule	12984
 Andreessen Horowitz	5322,7846
 Andrefan'Ambohijanahary Antananarivo	9744
 Andrei Popviciu	4127
+Andrelle Edna MADOUNGOU MANGHANDZI	16175
+Andrelle Edna MADOUNGOU MANGHANDZI MM	16099
 Andrena Ventures	11128
 Andreoni	961
 Andrew	7065,322,2408
@@ -163,12 +184,14 @@ Andrew Alston	9612
 Andrew Asiama	5219
 Andrew Baker	8583
 Andrew Barker Walkers	7198
+Andrew Blackman	15924
 Andrew Bwezani Banda	13647
 Andrew Chuma	7387
 Andrew Dabalen	11149
 Andrew Gilhooly and Kristyn Schrader-King	10977
 Andrew Hall	3539
 Andrew Heffernan	4846
+Andrew J. Challinor. Climate	16135
 Andrew J. Zahuranec	6135
 Andrew James Roberts	1867,34
 Andrew Kamwendo	11629
@@ -215,14 +238,16 @@ Andriamatoa Mohammed Eidha Almenhali	14457
 Andrianaivo and Kpodar	1828
 Andrianavalona	14622
 Andriani	7886
+Andrien	15780
 Andries Badenhorst	13213
 Andries Moreteledi Tlhabane	2626
 Andries Nel	8521
-Android	775,588,949,18,1065,587,833,179,25,323,25,1006,382,511,161,735,13,59,163,39,1026,140,1,183,215,448,157,36,223,139,207,266,415,10,62,11,153,276,9,42,276,306,263,6,69,86,71,231,304,593,237
+Android	775,588,949,18,1065,587,833,179,25,323,25,1006,382,511,161,735,13,59,163,39,1026,140,1,183,215,448,157,36,223,139,207,266,415,10,62,11,153,276,9,42,276,306,263,6,69,86,71,231,304,593,237,699,66,23,251,24,51,37,166
 Android App	12335
 Android App Economy	1363
 Android Development	14130
 Android Kotlin	13421
+Android Mozoko	15474
 Android Package Kit	12732
 Android Registration Client	8175
 Android SDK	14651
@@ -237,11 +262,16 @@ Andry Herizaka Rakotoarisoa	13734
 Andry RAJOELINA Le Premier Ministre	14431
 Andry RAJOFLINA LE PREMIER MINISTRE	14483
 Andry Rabarisoa	14635
+André	15455,160,77,52,36,6,314,313,12
+André BITEGHE BI NZE	16175
 André Beetge	5569
+André Christian DIMANCHE	16182
 André Kakubu	14280,23
 André Loureiro	2989
+André Ludovic	15439
 André Mfinda	4979
 André Mpumba Pedro	6636
+André Médard	15395
 André Nkualoloki	7115
 André Nkualoloki. Na	7115
 André O. Todjè	6217
@@ -249,12 +279,19 @@ André O. Todjè. Il	6217
 André Pedro	2581,1385,1988,5435,320
 André Pedro. Em	11330
 André Pedro. Orçado	5954
+André Roger	15615
 André Sévo	3361
+André Teddy OBAME MBEANG	16175
 André Ullrich and Douglas A. Parry	4127
+André WA	15903
 André Wameso	6043,4120
 André Wameso. Cette	6043
 Andréa RANDRIANTSASON Enrôlement	14579
 Andréa RANDRIANTSASON Lancement	14554
+Andréa Rosa IGOUWE DONDIA	16381
+Andréas	16100
+Andrée	15620,281
+Andrée Mages Cerise	16100
 Andualem Admassie	6218,9101
 Andualem Mengistu	1828,11120
 Andualem T. Mengistu	12948
@@ -265,8 +302,11 @@ Andy Boyd	6948
 Andy Castle and Nilesh Nawale	2677
 Andy Clarno	571
 Andy Dymond	14017
+Andy Fred	15901
 Andy P	12478
 Andy Ramamonjisoa	14539
+Andy Varhol Elior	16177
+Andy Yannick KONDJA IMBONGHO	16175
 Angola's Anda Anda Angola	10789
 Anita Andanje Data Processor INST-7047132477D KAKAMEGA	7167
 Annika Andersson	10726
@@ -284,10 +324,13 @@ BYOD Android Smart Phones	34
 Bar Anding'o Comprehensive School	7204
 Bill Anderson	5216
 Black By Tannur Anders	2532
+Bo Pieter Johannes Andrée	15620
 Bowren and Anderssen	6286
 Bridget Anderson	12227
+Broad Scope andTechnical Features	15430
 Brother Andre Hospital LTD Data Controller	7167
 Brother Andre Hospital LTD Data Processor	7167
+C Mr. NDOMONDJI André	15546
 C'est Marc André Loko	2635
 COMITE DE PILOTAGE Direction Générale ANDF	10876
 COTD Saminirin ANDRIAMBELOSOA	13885
@@ -296,10 +339,12 @@ Catégories Android Apple Applications Mobile Applications	9993
 Chairperson of Icasa's NRFP Council Committee Andrew	8841
 Chinese Android	3867,939,998,1046
 Chipre ANDREOU PANAYIOTOU	6613
+Clara Gomes Andrade	16549
 Cllr Andrew Matseke	7827
 Codification andReform	972
 Colegio Nacional de Andrés Molonga de Ukomba- Bata	4209
 Colin Andrews	10985
+Commandant de Police MVINE ANDJAYE Yves	15973
 Commissaire Monsieur ANDRIANANDRASANA Hajaniaina Tahina	14537
 Commune Rurale Andoharanofotsy	14488
 Compatible Android	10032
@@ -311,37 +356,47 @@ Country Perspective Manabu Nose and Andualem Mengistu	12948
 Craig Kilfoil and Andrea Martin. The World	12335
 Culture Lalatiana RAKOTONDRAZAFY ANDRIATONGARIVO	14431
 Currently Android-only	2579
+CÂF ET REGLEMENTAIRE LEGISLATIVE ANDSTATUTORY AFFAIRS	15530
 DEOGRACIAS NSUE ANDONG	1855
 DHIS2 Android	11912
 DHIS2 Android Capture	1018
 DHIS2 Android Capture. Main	1018
+Danine Vadrana ANDOME	16175
 Darfur andKordofan	15342
 De Andrade	2093,6261
 De Mendonça and De Andrade	2093
 Deputy Minister Andries	10729
 Deputy Minister Andries Nel	10729
+Destin Andoche	15744
 Dieu Béni Anderson Kabou	9279
 Digital Development Minister Mahefa Andriamampiadana	14649
 Director Andrew Waititu	1590
 Director General André Mpumba Pedro	6681
 Director General TTCL Moremi Andrea Marwa	8214
+Director General of ANDE	16679
 Distrito Urbano de Andom	4209
 Distrito Urbano de Andom Onvang	4209
+Doreen Andoh Pictures	16218
 Dr. Andile Ngcaba	3890
 Dr. Andrea Ficchì	2816
 Dr. Andrew Ndonga Data Controller INST-930148F4ED1	7167
 Dr. Ribeiro André José de Carvalho. Conversations	10776
 DÉBORA NAZARÉ DE AZEVEDO ANDRÉ	10751
+Dália de Anunciação Delgado Vieira de Andrade Benholiel	15477
 ED Andrew Peters	3071,574
 Edéa. Mgr Andrew Nkea	6575
 Electronic Age andE-GovernanceWorkshop	12325
 Elifas Andreas	12478
+Elizabete Andrade Coordenação Direção Nacional de Educação	15564
 Emma Hobson and Colin Andrews	10985
 Erastus Andreas	9953
 Erik Brynjolfsson and Andrew McAfee	8380
+Escola Primária Atanazio Andrade	15380
+Eudes Armand ANDJOUA	16175
 Executive Director Anderson Miamen	8955
 Executive Director Andrew Peters	4614,1767,3912
 F25 Andorra Electronic	10714
+FETREULE ENTAIRE J LESTSLATIVE ANDSTATUTORY AFFAIRS	15999
 Fadiran and Jovan Andjelich	14388
 Fitovinany Atsimo Andrefana Atsimo Atsinana Anosy	14622
 Food andAgricultural Research and Extension Institute	14824
@@ -352,7 +407,9 @@ Galaxy Andraharo B.P	14622
 Gama. ICTAM General Manager Andrew Kamwendo	13059
 General Andrade	10751
 Governor Aivo Andrianarivelo	2929
+Général Valérie André	15426
 Général de Brigade Justin Andouka	9928
+HORMONES ANDROGENES ET ANTI-ANDROGENES CYPROTERONE ACETATE	15930
 Hajalalaina Consuella Rabearivony Andrianjakanava	10763
 Harisoa Danielle Rasolonjatovo Andriamihamina	15059
 Harisoa Danielle Rasolonjatovo Andriamihamina Abbreviations	14971
@@ -361,12 +418,19 @@ Haut Conseiller Madame ANDRIAMAMPANDRY Haingotiana	14610
 Haut Conseiller Monsieur TIANJANAHARY Andriamalaza	14610
 Haute Conseillère Monsieur DAMA Andrianarisedo Retaf	14416
 Heri Andrianasy	987,2776,14
-Heriniaina Mikaela Andrianasy	969
+Heriniaina Andrianasy	15474,19
+Heriniaina Mikaela Andrianasy	969,14584
+Heriniaina Mikaela Andrianasy ABBREVIATIONS AND ACRONYMS	15518
 Hon. Andrea Ariik Malueth	13610
 Hon. Andrew Ojok Oulanyah	7874
 Hon. Lupai Satimon Andrew	8940
 Hotel Anda China	7704
 IDDDR Laurent Andiazabal Team Member	1284
+INSCRIPTION ET NOMINATION Rigobert Roger ANDELY	15558
+Ilídio Tavares Andrade	15404
+Immigration André MBA OBAME Le Ministre	15361
+Information ANDE	16641
+Interopérabilité ANDE	16641
 Isabel Eugénia Andrade Freire	11955
 Islands Albania Algeria American Samoa Andorra	11470
 J.G. Anderson	8130
@@ -374,24 +438,47 @@ Jamaican Prime Minister Andrew Holness	9179
 Jaona Harilala Andriamaniraka	8914
 Johnny Richard ANDRIAMAHEFARIVO Le Ministre	14431
 José Henrique Alves Freire De Andrade	11955
+José Manuel Andrade Promulgado	15359
+José Manuel Gomes Andrade Promulgado	15358,1
+Josée Wildine LEWOBI ANDOUO	16099
 Journalist Andrew Kaggwa	14190
 Juan Andres	11136
 Kaisosi Combined School Andreas Kandjimi Primary	13046
 Kamal Andiwal	10932
 Kaominina Andoharanofotsy Ny	14488
 Kevin ANDOUCKAS LAMBOU	12112
+LATIVE AND-STATUTORY AFFAIRS CARD INDEX SERVICE	15530
+LEGISLATIVE ANDd SYATUTO AIRS CARD	15485
+LEHOUBOU ANDJEMBE. DIRECTION DES ETUDES ET	16381
 LOHATENY VOALOHANY FAMARITANA SY SEHA-PAMPIHARANA Andininy	14408
 LTE Android	9997,35
 Land Cruiser FJ Opinion By Andrew	6244,1
+Laurent Andiazabal	15493
 Liechtenstein San Marino Andorra Bulgaria Latvia	10764
+Lieutenant ANDELY	15744
 Lima André	10114
 Long-Term Evolution Android	10084
 Luanda Luanda ANDRÉ TCHIPUCUNGO MOHOJOLO MUTIMA	10751
 Luanda. Anda	10790
+L’ ANDE	16637
 M Misan'ny Farany ANDRIANARISON	14440
+M Rosin Andoche KABA	15685
 M-OSI H-HcI VH-TII Africa Andorra High	10840
 M-Pesa. Flutterwave. Andela. As Siyabonga	6808
+M. ANDEMBE	15744
+M. ANDZI	15615
+M. ANDZOUANA	15615
+M. Andre Yves MVONO ABESSOLO	16175
+M. Andrianasy. Toutefois	16092
 M. André Biyong	8002
+M. Andy Roland NZIENGUI NZIENGUI	16175
+M. Chrysos ANDJEMBE OKOUMBA	16381
+M. Davy Landry BOUPEZE ANDANG. DIRECTION	16381
+M. Heri Andrianasy	16092
+M. Philibert ANDZEMBE. CAISSE DES PENSIONS	16381
+M. SADAU André Marie	16195
+M. Ulrich ANDOUKA	16381
+M. Willy ANDONG LIBAKOU. MINISTERE DES	16381
 MARI CRUZ EVUNA ANDEME	1855
 MARIA CELESTE DE ANDRADE SEGO	10751
 Madagascan President Andry Rajoelina	14517
@@ -407,6 +494,7 @@ Marc André Loko	3100,50,48,2684,1510
 Marc André Loko. Pour	7392
 Margie Cheesman and Andreas Hackl	12227
 Mari Cruz Evuna Andeme	6841
+Maria da Conceição Monteiro Freire de Andrade Lopes	15404
 Martin Schindler and Andrew Tiffin	6965,580
 Masoodi and Andrey2020	7731
 Mateus Andrade	2741
@@ -417,6 +505,20 @@ Mgr Andrew Nkea Fuanya	6575
 Michael Bowren and Slant CEO Simon Anderssen	6286
 Miguel Andrade	10751
 Mihasonirina Andrianaivo and Kangni Kpodar	1828
+Mme ANDEME ALASSANE Zalika Oriane DIRECTION	16099
+Mme ANDRIEUX	15455
+Mme ANDZOUANA NGAYAN	15615
+Mme ASSOUMOU Andrée Léa	16099
+Mme Andresse Snnaelle MOUGOLA NZENGUE	16175
+Mme André Laurene Kisslène OMOGHE BIE	16099
+Mme Andrée Lizzy ELLESSOGHO ELLA ONDO	16175
+Mme Bernadette ANDEME OBIANG	16381
+Mme ELLESSOGHO ELLA ONDO Andrée Lizzy	16099
+Mme Fiticia Rane BANAVE ANDOUOLO	16175
+Mme Thelma SARAH ANDOU M'ALANDJI	16099
+Mme Zalika Oriane ANDEME ALASSANE	16175
+Mme. Marisca Emerenziana ANDJAI OBOURI. MINISTERE	16099
+Mme. Prisca ANDJOUOMO M’EBOUGOU	16381
 Mobile Android	12693
 Monsieur ANDRIAMPARANY Solofo Nirina	14537
 Monsieur ANDRIANANDRASANA Hajaniaina Tahina	14537
@@ -424,8 +526,11 @@ Monsieur ANDRIANANDRASANA Ratsihosena	14499,38
 Monsieur Andriamatoa ANDRIAMAMPIADANA Mahefa	14593,3
 Monsieur Andry RAMANAMPANOARANA	14462
 Monsieur Andry RAMANAMPANOHARANA	14495
+Monsieur André Jacques AUGAND	16175
+Monsieur André ZONGO	15942
 Monsieur Luc Yannick Andréas RANDRIAMAROLAZA	14613
 Mr. Andreas Pletziger	13578
+Mr. Andrew Ameckson	16254
 Mr. Andrew Muhire	15019
 Mr. Andrew Torre	2610
 Mr. Andy Liu	13631
@@ -436,16 +541,20 @@ NILZA MARIA ANDRE PINTO	10751
 NIR ED Andrew Peters	2604,393,648,969
 NIR Executive Director Andrew Peter	14335
 NIR Executive Director Andrew Peters	2997,242,2255,4633
+National Digitalization Agency ANDE	16705
 National Herbarium Dr Andilyat Mohamed	13791
 Nenyi George Andah	5277
 Ngulube andTafor	12325
 Nicholas Andrew Keyes	11271
 Nicholas Andrew Keyes and Korane Faycal	11271
+Nique Anderson	15524
 Noro Aina Andriamihaja	13742
 Nose and Andualem Mengistu NOTE	12948
+OETR STIVÉ AND-STATUTORY AFFAIRS CARD INDEX	15999
+OLOUKA ANDZINA	15744
 ONG. Pour André Todjè	6221
 OS Android	10769
-OS and Android	1846,534
+OS and Android	1846,534,13666
 OpenSRP Android FHIR SDK	13160
 Organisme ANDF Entité	10876
 Oyinsan and Francesco Andreoli	10165
@@ -458,27 +567,39 @@ Paul Mboutchouang Team Member Andrea Anna	11924
 Peace and Security and H.E. Dr. Géza Andreas	7794
 Per André Pedro	3966
 Per Simon Andersson-Manjang	1224
+Place de Nkayi. de Mme ANDELY	16177
 Pour André A. Todjè	6217
 Pour André Wameso	10163
 Pour Marc André Loko	7392
 Pour Yves Benoit Andecko	7268
 Pr Marius Andriamparany	14428
+Pr. Marie Andrée N’NEGUE	16381
+Pr. Solange Isabelle ANDEME AFENE	16381
 President Andry Rajoelina	14517
 Prime Minister Andy Burnham	10433
 Procuradora Natacha Andrade	10751
+Prof. Andre-Pascal Kengne	15765
+Prof. André SHIKAYI	15458
 Prof. Samuel Andam-Akorful	9561
+Professeur Pierre André KOMBILA Le Ministre	15361
 Professor Andrew Forbes	9698
 Président Madame ANDRIANARISOA RAVELOARISOA Fara Alice	14416
 Publications Division World Bank Andrew Dabalen	11149
 R. Andre Niyongabo	11140
 R. and Andoh	12090
 RANDRIAMANANA Zo Andry UGD Product Owner	14539
+REPAYMENT OF PRINCIPAL AND.PAYMENT OF INTEREST	15399
+Raoul Pierre André	15744
 Rector André Pedro Neto and Chairholder Professor	11478
 References Andrews	11006,136
 Region Atsimo Andrefana	14425
 René Andrade Hernández	10764
 Rick Anderson	5349
+Rigobert Roger ANDELY	15524,34
+Rigobert Roger ANDELY Article	15558
+Rigobert Roger ANDELY Chapitre	15558
 Rindraniaina ANDRIAMAMBASOA	14653
+Robert F Adler and Andrew J Negri	15907
 Roger Andjalandji	7421,2497
 Rubén Vicente Andrés	12142
 Rurale Andoharanofotsy	14488
@@ -486,15 +607,18 @@ Région Analamanga Commune Andoharanofotsy	14488
 Région Atsimo Andrefana	14625
 République Andry RAJOELINA Le Premier Ministre	14463
 SDK. Android OS	3491
+SEAAL ANDE Révision ISO	16103
 SM Andreas0	12478
 Samuel ANDRIAMBOLAMANITRA	14527
 Samuel Andati	6946
+Santé Sous-lieutenant ANDZOMBA	15901
 Sassa's Andile Tshona	2752
 Secretary of State Mari Cruz Evuna Andeme	3496
 Secrétaire Général Andry Ramanampanoharana	14510
 Segundo André Pedro	11389
 Selon André Wameso	6043
 Selon M. Andecko	9631
+Sheryline ANDEME ENGONGA	16175
 Silicon Valley. Andela	9602
 Simon Andersson-Manjang	1224
 Smart Traffic andSmart Police	14729
@@ -503,6 +627,7 @@ Souro André SANON	7670
 South Africa Report Andrew Partridge	11195
 South Africa. By Kelle Howson and Andrew	6512
 Spanish and Andorran Bizum	9832
+Specialist Heriniaina Mikaela Andrianasy Public Sector	15514
 Startup Anda Deploys	7324
 Strategy for Transparency andAccountability	12325
 Sub Procuradores Dra Andrade	10751
@@ -520,6 +645,8 @@ Wameso André	5836
 Website Management Mr. Andrew Kashoka	34
 YouTube Popular Categories Android	9993
 Yves Benoît Andecko	9631
+Yves Bénoit ANDECKO AKANDA AMADOU BA	16175
+Zenabu Andam	15657
 Zo Andrianjafy	14517
 des ANDF	10876
 des ANDF.e-FB	10876

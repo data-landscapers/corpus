@@ -1,25 +1,33 @@
+ACTIVITES ET CADRE DE MESURE	15583
+ACTIVITÉS ET CADRE DE MESURE	15583
 AI CAD	12502
 AUC for CAD4TB	12678
-Accord Cadre	10876
+Accord Cadre	10876,4523
 Actualisation des Données Cadastrales	10876
 Actualisation des Données Cadastrales MTGES Manuel Technique	10876
 Administrative Cadre Staff List Domestic Abuse	14742
+Afrique Centrale CNAQ Cadre National	15501
+Agenda Numérique CPP Cadre	16626
 Availability of Digital Cadastral Plans	12389
 B. Cadre	13442
+B. SOUS-SECTEUR ENERGIE Cadre	15542
 BANQUE MONDIALE Le Cadre	14488,1,1
 BN Budget National CDMT Cadre des Dépenses	10712
 Baryum Béryllium Cadmium Chrome VI Absorbeurs	14423
 Belgique DEEE Cadre	14423
 Benjamin Cadet	12095
+Brave Cadila	16100
 Brazil's Cadastro	4981,5047,1105,1310
 Burundi Humain Reseach Developpement CADEBU	13377
 Béryllium Cadmium Plomb Présence	14423
+C. SOUS-SECTEUR EAU ET ASSAINISSEMENT Cadre	15542
 CAD CDF	14683
 CAD CIP VALIDAR	11862
 CAD CREATIONS LTD Data Controller INST-4815997CAF5	7167
 CAD Knitting Workshop for MACODA	13095
 CAD and ACRIAJUDA	12201
 CAD&A26	14997
+CAD-COMGEND	16100
 CAD. The Bar Association	12201
 CAD. The TS	12201
 CAD4TB	12678
@@ -28,8 +36,11 @@ CADANA TECHNOLOGIES LIMITED Data Processor INST-88011200095	7167
 CADARCA	11139
 CADASTRAL SURVEY	14722
 CADASTRAL SURVEY ACT	14722
+CADASTRALES	16581
 CADASTRE	10858
 CADASTRE Disponibilité	10858
+CADASTRE ET DES AFFAIRES FONCIERES	15999
+CADASTRO	15437
 CADASTRO PREDIAL CAPÍTULO I DISPOSIÇÕES GERAIS	11384
 CADASTRO SOCIAL	11482
 CADATRE	10858
@@ -49,23 +60,43 @@ CADP-22	10769
 CADP-22 O Governo de Angola	10769
 CADRAGE STRATEGIQUE	10913
 CADRE	13355,113
+CADRE CONCEPTUEL	16195
 CADRE D'INTEROPÉRABILITÉ Unité de Gouvernance Digitale	14438
+CADRE DE MISE EN	15720,128
+CADRE DE MISE EN OEUVRE	15685
+CADRE DE RESULTATS DU PROGRAMME INDICATIF	15500
+CADRE DE SUIVI ET EVALUATION	16195
+CADRE DE VIE.pdf	16112
 CADRE DES ADMINISTRATEURS DE LA STATISTIQUE	13937
+CADRE DU PATNUC. DATE	15850
+CADRE D’INTERVENTION ET BUDGET	16195
+CADRE D’INTERVENTION ET BUDGET En	16195
 CADRE ENVIRONNEMENTAL ET SOCIAL	14488,1,1
 CADRE GENERAL	10913
 CADRE INSTITUTIONEL POUR LA MISE EN	13290
+CADRE INSTITUTIONNEL	15583,1037
 CADRE INSTITUTIONNEL DE LA PROTECTION DES	436
-CADRE JURIDIQUE	14650
+CADRE JURIDIQUE	14650,1991
 CADRE JURIDIQUE DES TÉLÉPROCÉDURES FISCALES	5814
 CADRE LEGAL ET REGLEMENTAIRE	13468
 CADRE LEGAL ET REGLEMENTAIRE Au	13468
+CADRE LOGIQUE	15848
+CADRE LOGIQUE DEFINITION ET MODE	15848
 CADRE LOGIQUE DU POSAF	10712
+CADRE LOGIQUE DU PSRE LOGIQUE D’INTERVENTION	15722
 CADRE LOGIQUE ET PLAN D’ACTIONS	10712
 CADRE MÉTHODOLOGIQUE DE MESURE DES DIMENSIONS	5928
+CADRE NATIONAL	16621
 CADRE NORMATIF DE REFERENCE La BRB	13468
 CADRE ORGANISATIONNEL DE MISE EN	13290
+CADRE PROGRAMMATIQUE	15583
+CADRE PROGRAMMATIQUE Programmes Objectifs	15583
 CADRE RÉGLEMENTAIRE	5478
+CADRE STRATEGIQUE	15493,192,163
+CADRE STRATEGIQUE III.1. Fondements	15848
+CADRE STRATÉGIQUE	15541
 CADRE STRATÉGIQUE DU POSAF	10712
+CADRECO	16090
 CADSMD	15263
 CADTECH SERVICES LIMITED Data Processor INST-69152319499	7167
 CADYST Développement	10975
@@ -73,20 +104,35 @@ CAPÍTULO IV EXERCÍCIO DE ACTIVIDADES CADASTRAIS	11384
 CAPÍTULO V EXERCÍCIO DE ATIVIDADES CADASTRAIS	11901
 CAPÍTULO VI CARTOGRAFIA CADASTRAL	11384
 CAPÍTULO VII CARTOGRAFIA CADASTRAL Artigo	11901
+CAQ Cadre	15961
+CES Cadre Environnemental	15746
+CHAPITRE II CADRE STRATEGIQUE II.1 Fondements	15722
+CHAPITRE IV CADRE DE MISE EN	15722
+CHAPITRE VI DU CADRE NATIONAL D'ASSURANCE	15530
 CM Cadre	737
 CNE Cadernos Eleitorais	10271
+COMO CADASTRAR	15437
 COMOE SUD-OUEST CAS CADE S CEN	10847
+CONTEXTE ET CADRE MÉTHODOLOGIQUE Contexte	16641
+CONTEXTE ET CADRE MÉTHODOLOGIQUE SECTION	16641
+CONTRAT CADRE N	16534
 CR Civil Registry CSU Cadastro Social	10765,10
+CRD Cadres	15961
+CRYPTOTOGIE SECTION I DU CADRE	15429
+CSD Cadre	15961
+CSLP Cadre	15961
 CSP du CM Cadre	737
 CadUnico	11133
 CadUnico A BLUEPRINT FOR CREATING	11133
-Cada Estado Parte	11374
+Cada API	16321
+Cada Estado Parte	11374,4103
 Cada Fase	9432
 Cada Livro	11369
 Cadaadisyada	11136
 Cadaado	15085
 Cadamuro	12006
 Cadaster	427,11962
+Cadastr	15694
 Cadastrada	11384
 Cadastrado	11384
 Cadastral	4596,7343
@@ -99,14 +145,17 @@ Cadastral Survey Act	14722
 Cadastral System Development	14934
 Cadastral Zone A00 Central Business District	12062
 Cadastral de Angola	11408
+Cadastrale	15999
 Cadastramento	10754
-Cadastre	4138,458,1077,3339,1749,115,26,34,1,61,1513,818,1159,1,1
+Cadastre	4138,458,1077,3339,1749,115,26,34,1,61,1513,818,1159,1,1,859,26,167,40,417,176,38,105,23,240,30
 Cadastre AI	12511
 Cadastre Accepted Payments	12511
+Cadastre Classification Taxation	15473
 Cadastre Document	10876
 Cadastre Home About Us Services Cadastral	12511
 Cadastre Mettre	10858
-Cadastre National	4079,9250
+Cadastre Moderniser	15999
+Cadastre National	4079,9250,2670
 Cadastre PMPP Plan de Mobilisation des Parties Prenantes	10876
 Cadastre Portal Get	12511
 Cadastre Portal Zimbabwe Electronic Cadastre	12511
@@ -118,15 +167,26 @@ Cadastre Portal Zimbabwe Transparency	12511
 Cadastre Zimbabwe. All	12511
 Cadastre and Cartography	5004
 Cadastre and Land Registration Authority	888
+Cadastre du Ministere	16611
+Cadastre du Ministère	16611
 Cadastre. Au	10902
-Cadastro	427,1675,8677,354,250,1,49,94,371,3,542
+Cadastre. Chapitre	15375
+Cadastre. URL	15375
+Cadastre. Vue	16318
+Cadastro	427,1675,8677,354,250,1,49,94,371,3,542,2945,610,264
 Cadastro Diferido	11384
 Cadastro Disponibilidade de Estatísticas	11898
+Cadastro Industrial	16022
 Cadastro Interoperabilidade	11898
+Cadastro Nacional	15388
 Cadastro Nacional de Terras	11527
-Cadastro Predial	11384,517
+Cadastro Predial	11384,517,3487
+Cadastro Predial Inscrição Cadastral	15388
+Cadastro Predial Partilhar A Operação	15388
+Cadastro Predial da Ilha de Santiago	15388
 Cadastro Predial. Artigo	11901
-Cadastro Social	3594,4288,867,2005,9,12,600,31,75,1,196,18,2495
+Cadastro Predial. Objectivos	15388
+Cadastro Social	3594,4288,867,2005,9,12,600,31,75,1,196,18,2495,1246,257,268,36,140,49,257
 Cadastro Social Unico	10775,4
 Cadastro Social Unico Gaspar Dos Santos	7882,3599
 Cadastro Socio	10768
@@ -145,7 +205,10 @@ Cadeias	10783
 Cadeira	10777
 Cadeiras	12018
 Cadena	4209
+Cadence	15622
+Caderneta	16325
 Caderno Eleitoral	11425
+Caderno de Orientações	15772
 Caderno de Recenseamento	11528
 Cadernos Ao	11933
 Cadernos Eleitorais	3246,7025,1154
@@ -157,101 +220,163 @@ Cadi Ayyad University	1735,5560
 Cadjèhoun-Aupiais	2697
 Cadmium	1988
 Cadmium Cadmium	1988
-Cadrage	14537
-Cadre	545,98,94,268,213,461,305,30,861,441,10,614,54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,191,124,478,50,599,23,1100,672,462,544,256,31,953,315,888,114,48,1,1,37,52,10,164,522,283,99,25,909,313,1,9,1,24,6,10,92,9,26,14,228,15,26,90,582,1,1,13,1,49,1,1,37,95,21,459
+Cadrage	14537,1113
+Cadre	545,98,94,268,213,461,305,30,861,441,10,614,54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,191,124,478,50,599,23,1100,672,462,544,256,31,953,315,888,114,48,1,1,37,52,10,164,522,283,99,25,909,313,1,9,1,24,6,10,92,9,26,14,228,15,26,90,582,1,1,13,1,49,1,1,37,95,21,459,279,34,8,1,31,3,14,2,5,9,5,7,1,38,3,38,3,1,7,4,4,24,1,8,38,3,12,27,8,2,2,14,8,102,53,7,25,3,2,4,3,16,4,3,31,38,66,2,7,93,45,37,4,128,77,33,8,83,1,6,7,7,51,30
 Cadre Associations	10965
-Cadre Environnemental	14488,1,1
+Cadre Budgétaire	15569,271
+Cadre Commun	15624
+Cadre Environnemental	14488,1,1,1256,162,104
 Cadre Général	1984
-Cadre Harmonisé	10866
+Cadre Harmonisé	10866,5518
+Cadre Institutionnel	15542
 Cadre Institutionnel L’EHCVM	737
 Cadre Intégré Renforcé	4402
+Cadre Juridique	15455
+Cadre Légal	15472
 Cadre M&E SNIP	12043
+Cadre Mondial	16621
+Cadre Mondial des Services Climatiques	16621
 Cadre Multi Niveaux	13433
 Cadre Multi-Niveaux	13433
-Cadre National	2625,10698,119
+Cadre National	2625,10698,119,2088,69,774,248
 Cadre National de Collecte	2625,10678
+Cadre National de Concertation	16621
+Cadre National de Services Climatiques	16621
+Cadre National des Services Climatologiques	16621
 Cadre Organique des Etablissements Publics Burundais	2625
+Cadre Organique du Ministère	15487
+Cadre Organisationnelle	16641
 Cadre PDF	545
 Cadre Partenarial du Secteur	11916
 Cadre Politique Africain	11818
 Cadre Post Cadre Number of Established Posts	12976
 Cadre Réglementaire	1218,12083
 Cadre Sectoriel Dialogue	643
-Cadre Stratégique	12
+Cadre Stratégique	12,15529,197,903
 Cadre Stratégique de Croissance	13290
 Cadre Stratégique de Lutte	13290
 Cadre Technique	13301
+Cadre de Concertation	15458
+Cadre de Contrôle Par	15583
+Cadre de Coopération des Nations Unies	16351
 Cadre de Dépense	10876
-Cadre de Dépenses	10975
-Cadre de Gestion Environnementale	14488,1,1
+Cadre de Dépenses	10975,4448,119,143,163
+Cadre de Gestion Environnementale	14488,1,1,1256
 Cadre de Mesure de Rendement	10712
 Cadre de Mesure de Rendement CO Contrats	10712
+Cadre de Mobilisation des Parties Prenantes	15746
+Cadre de Monitoring Embarquer	15583
 Cadre de Partenariat Pays	13579
 Cadre de Partenariat Pays du Groupe	13579
 Cadre de Passation des Marchés	13630
 Cadre de Passation des Marchés. Les Soumissionnaires	13630
-Cadre de Réinstallation	14489
+Cadre de Planification	15965
+Cadre de Réinstallation	14489,1257
 Cadre de Résultats	13325
-Cadre de Vie	3045,1824,1431,4614
+Cadre de Résultats N	16012
+Cadre de Transparence Renforcée	15500
+Cadre de Viabilité	15399
+Cadre de Vie	3045,1824,1431,4614,4603,240,179,176,279,27,67,136
 Cadre de Vie Culture	4895
-Cadre des Dépenses	1990
+Cadre de Vie Je	15624
+Cadre de Vie Site Officiel	15936
+Cadre des Dépenses	1990,13579
+Cadre des Dépenses Sectoriel	15569
 Cadre des Politiques	13482
 Cadre-d-Interop-rabilit-de-Djibouti.pdf	13841
 Cadre-strategique	8891
 Cadreco	2015
-Cadres	1679,1717,905,5105,831,263,475,969,1357,39,50,92,1088
+Cadrer Détailler	16628
+Cadreréglementaire	15525
+Cadreréglementaire LaPSSIE	15525
+Cadres	1679,1717,905,5105,831,263,475,969,1357,39,50,92,1088,972,49,131,214,392,45,261,5
 Cadres and Grades	14761
+Cadres de Dépenses	15542
+Cadres des UCP	15424
 Cadres des Zones de Santé	11892
 Cadres du RIM	13390
 Caducidad	163
-Caducidade	10755,631,196
+Caducidade	10755,631,196,3777
 Cadyst Autoproducti	10975
 Caractéristique Cadre	13300
 Cartografia Cadastral	11384
 Carácter Temático da Cartografia Cadastral	11384
 Catégorie Hommes Femmes Total Cadres	10975
+Ce Cadre	16621
 Certidão Cadastral	11384
 Certidões Cadastrais	11384
 Chefe da Secção de Cadastro Arrecadação	11435
-Code CAD	13325
+Code CAD	13325,2171
 Comité de Pilotage CPSD Cadre	13306
 Communication Cadre National de Dialogue Inter-	13442
 Complaint Mechanisms for Cadaster	12389
+Conseil National du Cadastre	15542
 Conseil le Cadre	3326
 Conservação de Cadernos de Recenseamento Compete	11528
 Conteúdo da Cartografia Cadastral	11384
 Contrat Cadre de Concession	10975
+Convention Cadre des Nations Unies	16621
+Convention Cadres des Nations Unies	15685
+Convention. Cadre	15968
 Critères CAD	13635
 Custos Cadastrais Normas de Serviço	11898
 D H Cadastro	11527
 D. Cadre	14437
 DANS LE CADRE DU PROJET	14424
 DANS LE CADRE DU PROJET Ce	14424
+DE LA COMMUNICATION Cadre	15542
+DE L’URBANISME ET DU CADASTRE	16001,98,76,206
+DE L’URBANISME ET DU CADASTRE ADMINISTRATIONS	16381
+DE L’URBANISME ET DU CADASTRE Province	16001
+DE L’URBANISME ET DU CADASTRE Services	15973
+DEPUTES ET CADRES DE L'ADMINISTRATION PARLEMENTAIRE	16617
 DES LOIS ISSUES DU NOUVEAU CADRE	2342
 DH Cadastro	11527
 DIGITAL CADASTRAL DATABASE	14722
+DIRECTION DE LA MODERNISATION DES CADRES	16099,76
 DONNEES CADASTRALES12	10876
+DU CADASTRE ET DES AFFAIRES FONCIERES	16352
+DU CADRE DE LA GOUVERNANCE	15643
+DU CADRE INSTI. TUTION	15584
+DU CADRE INSTITUTIONNEL Article	15584
+DU CADRE INSTITUTIONNEL ET OPERATIONNEL Article	15612
 DU CADRE POLITIQUE ET INSTITUITONNEL CHAPITRE	13781
 DU NOUVEAU CADRE JURIDIQUE DU PORTEFEUILLE	2342
 DUBURUNDI CADRE DE SURVEILLANCE DES SYSTEMES	13468
 Digital Cadastral Database	14713
+Directeur Provincial du Cadastre	16001
+Direction Provinciale du Cadastre	16001
 Direction du Cadastre	4034,5942
+Directions Départementales du Cadre	16112
 Directorate of Cadastre and Land Conservation	4034
 Directorate of Land Titles and National Cadastre	3042
 Directorate-General of Mining Cadastre	10873
+Directorates of Cadaster and Town Planning	15511
 Disbursed CAD	2167
 Disclosure of Cadastral Information	12389
+Division des Opérations Cadastrales	15555
+Division du Cadastre	16611
+Du Cadre Budgétaire	15569
 D’ACTUALISATION DES DONNEES CADASTRALES	10876
 ESU Cadre Sectoriel de Dialogue FDSI	643
 ET D’ENREGISTREMENT DE PARCELLES AU CADASTRE	10876
 EXPERT EN CYBERSÉCURITÉ DANS LE CADRE	7977
 Echelle du Cadastre National	5718
+Elaboration du Cadre	15673
 Electronic Cadastre	12511
 Emissão da Certidão Cadastral	11384
+Energie. Cadre	15542
 Enregistrement Cadastral	10876
 Enregistrement Cadastral CEDEAO Communauté	10876
+Equipe Cadre du DS FAC	15423
+Equipe Cadre du District	15685
+Equipe Cadre du District Sanitaire ENCV	15685
 Establishment of Rural Cadaster and Land Administration	13998
+Et Du Cadre De Vie	15936
 FICHA DO CADASTRO	10754
+FINALIDADE DO CADASTRO SOCIAL	15437
+FORMULATION DU CADRE STRATEGIQUE	15583
+FORMULATION DU CADRE STRATÉGIQUE	15583
 Faustino de Pina Rodrigues CadiSeidi Joâo AnÍbal	11544
 Finance Cadre	14761
 Financial Operations Cadre	14745,90
@@ -261,8 +386,10 @@ Force Police Cadre Civilian Staff	14760
 Forensic Science Laboratory Cadre Male Female	14742
 Forensic Scientist Cadre	14742
 Forensic Technologists Cadre	14742
+Forest Cadaster Directorate	16036
 Formulário de Cadastramento	10754
 Fujifilm and Innomed1 for CAD4TB	12678
+GESTÃO DO CADASTRO SOCIAL	15437
 GIS and Cadastre Management	10761
 Gacanka Cadmeed	14859
 General Services Cadre	14761
@@ -271,19 +398,30 @@ Gestão de Risco da Cadeia de Suplementos	2784
 Gouvernement Cadre	13341
 Gouvernement IX. CADRE LOGIQUE	13341
 HR Cadre	14745
+Hauts Cadres	16650
 Human Resource Cadre	14835
 Human Resources Cadre	14742
 I-2. Approbation du Plan Cadre de Coopération des Nations	14904
+I. CADRE ORGANISATIONNEL DES ENQUETES ET	15595
 I. Secção de Cadastro	11435
 ICT Cadre	12674
+II CADRE STRATEGIQUE	15722
+II. A. Sous-secteur TRANSPORTS Cadre	15542
 II. CADRE D'INTEROPÉRABILITÉ	14438
 II. CADRE JURIDIQUE	14489
+II. Cadre	15632
 III. CADRE INSTITUTIONNEL ET GOUVERNANCE	10876
 III. CADRE INSTITUTIONNEL ET GOUVERNANCE III.1	10876
-III.1. Cadre	13452
+III.1. Cadre	13452,2187,297
+III.1.1. Cadre	15639
+III.2.1.1. Cadre	15685
+III.2.5.3. Cadre	15685
+IMPORTANCE D’UN CADRE INSTITUTIONNEL EFFICACE	15493
 INSD Cadre	10874
 ISSUES DU NOUVEAU CADRE JURIDIQUE	2342
+IV CADRE DE MISE EN	15722
 IV. CADRE JURIDIQUE	14488,2
+IV. Cadre	15613
 IV.1.1.1 Cadre	10876
 IX CADRE LOGIQUE	13341
 Immovable Property Registry and Cadaster	12389
@@ -296,19 +434,32 @@ Job Title Number of Staff Administrative Cadre	14745
 Kwanza CAD	14683
 L'objectif du Cadre	13841
 LA PERFORMANCE UN CADRE ORGANISATIONNEL AVEC	2342
+LE CADRE DE LA MISE EN	16618
+LE CADRE DE L’EXERCICE DE L’ACTIVITE	15602
+LE CADRE DES E-SERVICES Un	15419
 LE CADRE DU PROJET	14425
+LE CADRE REGLEMENTAIRE DE L'INTERCONNEXION DES	15592
+LE RENFORCEMENT DU CADRE JURIDIQUE RELATIF	15585
 LES VALEURS CADRE-DE-REFERENCE DES ACTIONS	14529
 LETTRE DE CADRAGE BUDGETAIRE POUR L'EXERCICE	1866
+LIVRE PREMIER CADRE GENERAL	15469
 La CADECO	7783,30
+La Division du Cadastre	16611
 Laboratory Auxiliary Cadre	14742
 Laboratory Cadres Year U.S. Government	4217
 Land Administration and Cadastral Services	12662
 Land Records and Cadastre	12662
-Le Cadre	7283,6199,359,647,1,1
+Le Cadre	7283,6199,359,647,1,1,1475,656
+Le Cadre Budgétaire	15569
+Le Cadre Mondial	16621
+Le Ministère du Cadre	16112
 Levantamento Cadastral Base de Dados Nacional de Verificação	11898
 Licenciamento da Atividade de Cadastro Predial Taxas Devidas	11901
+LÉGISLATION ET CADRE RÈGLEMENTAIRE NÉCESSAIRES	16621
 L’élaboration du Cadre	11661
+MINISTÈRE DES DOMAINES DU CADASTRE ET	16352,229
 MINPMEESA Mr NONGNI Abednego Cadre	10980
+MO SATION CADAS PROTECTION ET DEVELOPPEMENT	15999
 MODERNIZAÇÃO E AMPLIAÇÃO DO CADASTRO SOCIAL	11482
 MTT and MT Cadre	14738
 MUST CAD Design Software for Knitting Training	13095
@@ -324,13 +475,25 @@ Mining Cadastre General Directorate	10873
 Mining Cadastre Information Management System	13685
 Mining Cadastre Portal	12987
 Mining Cadastre System	11232
+Ministre du Cadre de Vie	15517
+Ministère du Cadastre	15375
+Ministère du Cadre	16112
+Ministère du Cadre de Vie	16112,279
 NOTE DE CADRAGE RAPPORTS D'ETAPES Capacités	9049
+NUMÉRIQUES AU PROFIT DES CADRES ET	15788
+NZENGOUBE DIBAKA Cadi Mery Galibert	16381
 National Land Cadastre	12771
+Nombre des Services du Cadastre	15999
+Note de Cadrage du Projet de Système	15989
 Number of Filled Posts Per Cadre Number	12976
+Não. Cada	16027
 Nível Nacional Cobertura Cadastral	11898
 Nível Principal da Cidade Cobertura Cadastral	11898
-O Cadastro Social	10754,727,2710
+O Cadastro Social	10754,727,2710,1246
+O Caderno de Orientações	15772
 O Serviço Central de Cadastro	11384
+OBJECTIFS ET RÉSULTATS ATTENDUS DU CADRE	16621
+Objectifs Cadre	16037
 Obrigatoriedade da Inscrição Cadastral	11384
 Observations Cadre	13468
 Office Auxiliary Cadre	14761
@@ -340,6 +503,7 @@ PGES DATA CENTER PRINCIPAL II. CADRE	14489
 PGES DATA CENTER SECONDAIRE IV. CADRE	14488
 PORTANT CADRE NATIONAL DE COLLECTE	13303
 PORTANT CADRE REGLEMENTAIRE DU POINT D'ECHANGE	13291
+POS. Cada	15445
 PROCEDURE DE L’ACCORD CADRE	10876
 Participants Cadres	13689
 Performance of CAD4TB	12678
@@ -348,9 +512,11 @@ Planos Cadastrais	11898
 Planos Cadastrais Método	11898
 Planta Cadastral	11384
 Portant Cadre Réglementaire du Point D'échange Internet	13313
+Poste MCVDD Ministère du Cadre de Vie	15479
 Primary Inspectorate Cadre	12975
 Process Outsourcing CaDS Career Development Stairway	14729
 Procurement and Supply Cadre	14745,90
+Proportion des Services du Cadastre	15999
 Provincial Assembly AU African Union CAD	12201
 Provincial Cadastral Offices	427
 Prédio Cadastrado	11384
@@ -359,21 +525,30 @@ REGULAMENTO DO CADASTRO SOCIAL	10754
 RENOVAÇÃO E CONSERVAÇÃO DO CADASTRO	11384
 RENOVAÇÃO E CONSERVAÇÃO DO CADASTRO Secção	11901
 RGÃO TÉCNICO CADASTRAL Artigo	11901
+RHS Cadre	16722
 Reforço da Cadeia de Identificação	11565,1
 Registration Cadre. Officers	14761
+Renforcement du Cadre Juridique Relatif	15585
 Reporting Cadence	4528,7984
 Responsáveis Cada	10751
 Roxan Cadir	2816
 Réalisation des Contrats de Partenariat CCCL Contrat Cadre	10975
 Réalisation du Cadastre National	5531,5345
 Réalisation du Cadastre National DAF Direction	10876
+République Félix-Antoine TSHISEKEDI TSHILOMBO. Ce Cadre	15458
 SECÇÃO DE CADASTRO	11435
 SECÇÃO I EXECUÇÃO DO CADASTRO	11384
 SECÇÃO II RENOVAÇÃO DO CADASTRO	11384
 SECÇÃO III CONSERVAÇÃO DO CADASTRO	11384
+SITUATION ACTUELLE DU CADRE INSTITUTIONNEL	15493
+STRATEGIQUE ET LE CADRE PROGRAMMATIQUE	15583
+STRATÉGIQUE ET LE CADRE PROGRAMMATIQUE Au	15583
 SUR LES IMPACTS DANS LE CADRE	13613
+Sahel CNAQ Cadre	15961
 Secondary Cadre	12975
 Secteur CAD	13325
+Section Etudes Cadastrales	16611
+Section Plans Cadastraux	16611
 Secção de Cadastro	11435
 Serviço Central de Cadastro	11384
 Serviços Cadastrais	11514
@@ -386,22 +561,31 @@ Subsecção VIII Cadastro	11901
 Supervisão Mais Apertada Num Sistema Cada	12841
 Support the Planning Cadre	12962
 Swaziland's Legal Cadastre	13251
+Systematic Titling and National Cadastre	16511
 Système Intégré de Gestion du Cadastre	2598
+TABLEAU DE COHERENCE ENTRE LA CADRE	15583
+TABLEAU DE COHÉRENCE ENTRE LA CADRE	15583
 TB. CAD4TB	12678
+TITRE II CADRE INSTIIUTIONNEI- DU SYSTEME	15561
+TITRE II DU CADRE INSTITUlIONNEI. CHAPITRE	15429
 Technical Cadre	14745
 Technologique CSLP Cadre Stratégique de Lutte	12
 Telephone Operator Cadre	14745
 Thème Cible Effectif Cadre	10975
-Titulares Cadastrais	11384
+Titulares Cadastrais	11384,4004
 Transparency of Cadaster Costs	12389
+Transports Le Ministère du Cadre	16112
 Tropical Disease CAD	12678
 UN CADRE JURIDIQUE PROTECTEUR POUR	2695
 UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
+UVRE DU CADRE NATIONAL POUR	16621
+Un Cadre National	15530
 Urbain Rural Total Cadre	737
 Urbanism and Cadastre	4064
 V. CADRE INSTITUTIONNEL DE MISE EN	13306
 V. CADRE NORMATIF ET OUTIL	13341
 V. Cadre	13306
+V. TRAVAUX TOPOGRAPHIQUES ET CADASTRAUX	15999
 VI. CADRE DE SUIVI ET EVALUATION	13306
 VI. Cadre	13306
 VII. CADRE PROGRAMMATIQUE ET BUDGET VII.1	13306
@@ -409,8 +593,18 @@ VII. Cadre	13306
 VIII. CADRE DE SUIVI ET EVALUATION	14442
 VIII. CADRE LOGIQUE Type Libellé Indicateurs	13306
 VIII. Cadre	13306
+VIII.1 Cadre	15685
 VIII.3 Cadre	10876
+VISION ET OBJECTIFS DU CADRE	16195
 Valor Cadastral	11384
 Wasaaradda Caddaaladda	15153
+X. CADRE DE MISE EN	15423
+X.2. Cadre	15685
+X.2.1. Cadre	15685
+X.2.2. Cadre	15685
+X.2.3. Cadre	15685
+X.4. Cadre	15685
+X.6. Cadre	15685
 XI.1 Cadre	10876
+YouTubeMinistère du Cadre de Vie	16112
 Zimbabwe’s New Electronic Cadastre	12511

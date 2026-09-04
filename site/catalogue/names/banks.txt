@@ -25,7 +25,7 @@ BDCs. Banks	7416
 BankSETA	11230
 BankServ Africa	12252
 BankServAfrica	11214,685
-Banks	10,757,1125,47,764,309,91,512,42,274,195,642,88,268,134,275,489,81,78,31,99,282,378,143,59,6,105,30,25,267,304,237,570,15,210,88,89,50,53,265,24,50,32,79,37,76,290,93,349,65,13,123,20,41,20,42,191,97,2,3,486,241,79,15,5,5,21,8,6,38,33,116,44,21,17,5,23,3,28,48,13,88,359,286,25,167,44,239,106,235,94,514,128,34,9,24,3,75,78,12,88,26,35,72
+Banks	10,757,1125,47,764,309,91,512,42,274,195,642,88,268,134,275,489,81,78,31,99,282,378,143,59,6,105,30,25,267,304,237,570,15,210,88,89,50,53,265,24,50,32,79,37,76,290,93,349,65,13,123,20,41,20,42,191,97,2,3,486,241,79,15,5,5,21,8,6,38,33,116,44,21,17,5,23,3,28,48,13,88,359,286,25,167,44,239,106,235,94,514,128,34,9,24,3,75,78,12,88,26,35,72,317,71,82,223,101,621,86
 Banks Act	14224
 Banks Are Better Positioned	8717
 Banks Banks	11861
@@ -90,8 +90,11 @@ Domestic Systemically Important Banks	15023
 EAC Partner State Central Banks	7815
 EAC. The Central Banks	13388
 Egypt and Eswatini Central Banks Deepen Cooperation	7535
-Egyptian Banks Company	6938
+Egyptian Banks Company	6938,8725
+Egyptian Banks Company Egyptian Company	15519
+Establishment of Land Banks	16511
 Eswatini Stakeholder Map Influence Commmercial Banks	12444
+European System of Central Banks	15901
 Evident AI Index for Banks	9896
 Export-Import Banks	12130
 FEMALE MALE Banks	15130
@@ -110,6 +113,7 @@ Individuals and Authorised Dealer Banks	14453
 Insurance and Pension DFS Banks	15023
 Kash System Linking Banks and Telecoms Sees	14969
 Key Banks Stay	10929
+Land Banks and Investment-Ready Land Information	16511
 Liquidity Coverage Ratio for Banks	15023
 MARKET Banks	11960
 MNOs and Banks	12335
@@ -145,6 +149,7 @@ SACCOs and Banks	15130
 SADC Committee of Central Banks Governors	8129
 SYSTAC. Groupings of Central Banks	6938
 Selected Banks Tax Agent Module Release	12491
+Selected Monetary Accounts Banks	15924
 Service Banks	4848
 Services Insurance Banks Financial Services Distribution	4972
 Services Insurance Banks Financial Services Durables	4972

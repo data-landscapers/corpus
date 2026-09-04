@@ -2,6 +2,8 @@ A. Power	7845,6562,310,92
 A. Powers	7845,6562
 ACCEPT Powered	6181
 ADMINISTRATIVE ENFORCEMENT POWERS AND PROCEDURES	3861
+AEE POWER	15670
+AEE Power	15670
 AI POWERED SERVICES DIGITAL PAYMENTS ALTERNATIVE	14819
 AI for Middle Powers. Under the US	5044
 AI- Powered Society	4126
@@ -12,6 +14,9 @@ AMEA Power	11310
 ANGOLA-NAMIBIA POWER INTERCONNECTION PROJECT	13155
 ANNEX III OPERATIONAL INDEPENDENT POWER PRODUCER	12399
 ANOTHER POWER GRAB	10581
+ASHFAR POWER SARL	15670
+ASHFAR POWER SARL. TRANSPORT	15670
+ASHFAR Power SARL	15670
 ATK's Green Power Program	6724
 Accept Powered	3907
 Acemoglu and Johnson's Power and Progress	7789
@@ -31,6 +36,7 @@ Alignment of Power Sector Least Cost Expansion	12399
 Amadou Hott the Bank's Vice President for Power	14871
 Angola-Namibia Power Interconnector Project	13155
 Antenna Power	736
+Anwomaso Thermal Power Station	15904
 Authorised Representatives and Power of Attorneys	8866
 Authority ZPC Zimbabwe Power Company ZPCS	13420
 Autonomous Network Power	5226
@@ -52,8 +58,9 @@ Band Max Power Max EIRP	12949
 Base Stations Latitude Longitude Configuration Power	736
 Battery Room and Uninterrupted Power Supply	12253
 Beacon Power Services	12339
-Benin Power Compact	87
+Benin Power Compact	87,15314,1
 Bi-lateral Power Purchase Agreements	12399
+Billion Power Cross-Border Transmission Line URL	15870
 Biogas Power	12256
 BoC Power Bhola-2	11310
 Board. Powers	12535
@@ -64,6 +71,7 @@ Botswana Power Corporation	12553,42,3,11
 Botswana Power Corporation Act	12535,60
 Botswana Power Corporation Botswana Power Corporation	12604
 Botswana Power Corporation NOTE	12592
+Bui Power Authority	15904
 Build AI Factory Powered	3049
 Business Eswatini Pivotal Power Meeting	5015
 COGTA Power Apps Skills Transfer Programme	14694
@@ -71,11 +79,12 @@ CONSTRAINED POWER	10861
 CRT Power	1988
 CT Comité Tarifaire DPDC Dibamba Power	10975
 Cameroon Pledges Power Supply	4769,394,334,86
+Canals Solar Power Plant	15578
 Capacity Make Model Tx Power Tunability	736
 Captive Power Generation Permits	12062
 Case Study of Hwange Power Plant Power	1154
 Cash Power	9973
-Central African Power Pool	11149
+Central African Power Pool	11149,4510,378
 Centre. Powers	14575
 Challenges Affecting Power Generation	13241
 Chania Power Company	12256
@@ -111,12 +120,14 @@ Delegation of Power	14727
 Dell PowerEdge R640	9475
 Dell PowerEdge R740	9475
 Development Authority Power Holding Company of Nigeria	11129
+Dibamba Power Development Corporation	15542
 Digital Government Powered	14566
 Digital Powerhouse	4993
 Distributed Power	1196
 Distributed Power Africa	1196,624,2540,536,1596,4230
 Distributed Power Africa Limited	5538
 Distributed Power and Energy Services Revenue	4896
+Dossier ASHFAR POWER SARL	15670
 Draft PowerPoint Presentation	10841
 Dual Powered	15149
 E Power	11380
@@ -138,12 +149,15 @@ Econet Powers Lesotho's Digital Leap	3060
 Effective and Captive Power Capacity	12256
 Egbin Power Plant. Egbin	10157
 Electric Power	9123,2833,277
+Electric Power Generation and Distribution Company	15480
 Electric Power Licence Objection	14422
 Electrical Power	13185
+Electricité PPA Power Purchase Agreement PPP	15769
 Embracing the Power	12962
 Embracing the Power of Inclusive Data Towards	12962
 Emerging Power Crisis	12399
 Emerging Technology Stack Driving Power	4906
+Enclave Power Company Ltd	15740
 Energy Authority PJ Petajoule PPA Power	12233
 Energy Independent Power Procurement Programme RFP	11228
 Energy and Power Infrastructure Reliable	10157
@@ -179,15 +193,23 @@ Functions and Powers of Agency PART IV BOARD	12899
 Functions and Powers of Commissioner	14727
 Future and Powering Opportunity. Our Grids	13228
 GENERAL POWERS OF DIRECTOR-GENERAL	14717
+GHANA POWER PLANNING TECHNICAL COMMITTEE	15904
+GPC Gabon Power Company GPL Gaz	16037
 GW of Power Generation	6529
+Gabon Power Compagny	16037
+Gabon Power Company	16037
+Gambia Power Project	16705
 Garri and Khartoum North Power Stations	14933
 Gas Independent Power Producer Procurement Programme	11248
 Gas Lake Turkana Wind Power GHG	12256
 Generator Power	9123
 Geometry of Power	3463
 Geopolitical Relevance and Strategic Soft Power	3398
+Ghana Power System	15904
 Girl Power Action Initiative	12297
 Give Nigerian Govt Sweeping Powers Over	7458
+Global Computing Power Index Assessment	15713
+Global Soft Power	15807
 GoR Power Plants	12358
 Governance Power	9914,1,77
 Government. What Powers Our Digital Nation	14752
@@ -201,6 +223,7 @@ Hard Power	6001
 Hard Power Model	6001
 Having Master Power Technologies and Digital Parks	11491
 High Power Amplifier	6946
+Highlights of Medium-Term Power Requirements REPUBLIC	15904
 Holds Digital Power Accountable	9817
 Hon. Naisula. PERSISTENT POWER OUTAGES	10313
 Honourable Minister of Power	11129
@@ -211,8 +234,13 @@ Hydro Power Develop	14947
 Hydro Power Kenya	12256
 Hydro Power Plant HV	12358
 Hydro Power Station Chania	12256
+I-I10-A1 Computing Power Needs Assessment	15713
 ICTANet The Power of Communities	14932
 ICTANet The Power of Communities KICTANet.or.ke	14932
+IDA-financed Emergency Power Response Project	15702
+III.HOUSEHOLD ACCESS TO ELECTRIC POWER	15574
+IPP Independent Power Producer	16037
+IPP Independent Power Producer IRR Internal	15515
 IPP Independent Power Producer IT Information	10781,1646,2055
 IPP Independent Power Producer LAMC Liability	12233
 IPPS Imports Independent Power Producers Transmission	12399
@@ -224,9 +252,11 @@ IV OPERATIONAL INDEPENDENT POWER PRODUCER	12399
 Ibom Power 1 and Sapele Steam 1	12062
 Impact of Power Restrictions	13387
 Improved Power Transmission and Distribution Network	12358
+Independant Power Producer MEFP Ministère	15769
 Independent Power Producer	11549,684,166,661
+Independent Power Producer CEC	15659
 Independent Power Producer KWH	12358
-Independent Power Producers	408,310,5774,4723,13,1005,166,570,85,6,63,501,1121
+Independent Power Producers	408,310,5774,4723,13,1005,166,570,85,6,63,501,1121,1238
 Independent Power Producers Four	11228
 Independent Power Producers Independent Power Producers	9458
 Index Illuminating Kerosene EHS Independent Power	12256
@@ -236,6 +266,7 @@ International Emergency Economic Powers Act	8788
 International Water Power	6633
 Internet Power	899
 Investigatory Powers of Board	7845
+Irrévocable Power	15399
 JUDICIAL POWER	15149
 JUDICIAL POWER The Licensee	15149
 Jesse Cann Thandi Smith and Tina Power	10729
@@ -245,6 +276,9 @@ Josh Powell	6337
 Judicial Powers	13948
 Julius Nyerere Hydro- Electric Power	12256
 K. Power	7845
+KALULE POWER	15670
+KALULE POWER SARL	15670
+KALULE POWER SARL. Rapport Annuel	15670
 KPDC Kribi Power Developpment Company	10975
 KTDA Power Company Limited	12256
 Kam’mwamba Coal-Fired Power Plant Project	13060
@@ -262,11 +296,15 @@ Kenya Power and Rural	899
 Kenya Power's Managing Director	14667
 Koeberg Nuclear Power Station. Programme	11272
 Koysha Hydroelectric Power	12233
+Kribi Power Development Company	15542
 Kusile Power Station	2626,8597
 LAUNCH SHE POWERS AFRICA DIGITAL ACADEMY	12972
+LCPDP Least Cost Power Development Plan	15659
 LCPDP Least-Cost Power Development Plan MCC	12717
+LLM Powered Basic Industries	15713
 LNG Power Plant	14667
 LONGi Hi-MO X10 Powers Adailou's First	13874
+La Gabon Power Company	16037
 Labor Power	5366,52,1069,625,35,27
 Lack of Available Power Shared	11857
 Lake Turkana Wind Power	12256
@@ -274,7 +312,7 @@ Land Construction Power	10861
 Large Scale Renewable Energy and Power Infrastructure	12576,1
 Le Virunga Power	13433
 Least Coast Power Development Plan Dec	14947
-Least Cost Power Development Plan	12358,322,2267
+Least Cost Power Development Plan	12358,322,2267,712,310
 Least Cost Power Development Plan LKMP	12358
 Least-Cost Power Development Plan	12717
 Legal Power of Attorney	4283
@@ -285,6 +323,7 @@ Limitation of Company Powers and Objectives	3714
 Limitation of Company Powers and Objectives PART	3714
 Longitude Latitude Antenna Power Stations Station	736
 Low Halogen Power Supply Kit	12681
+L’entreprise AEE Power	15670
 M Benin Power Compact	87
 M MULTI-STAGE VENTURE FUND TO POWER	5879
 M P170734 Power Sector Recovery Performance	11469
@@ -300,6 +339,7 @@ MW IT Power	9446,1510
 MW Kam'mwamba Coal-Fired Power Project	13241
 MW Karuma Hydro Power Plant	3561
 MW Solar PV Power Plants	13123
+MW Solar Power Plant	16468
 MW Sources of Power Generation	14947
 MW Tedzani Hydro Power Plant	13060
 MW Undersea Power Link	965,3924,206
@@ -347,6 +387,7 @@ National Assembly Powers and Privileges Act	10313
 National Electric Power Authority	11857
 National Electric Power Authority Act	11857
 National Electrification Strategy PPA Power Purchase	12717
+National Power Distribution Utility Company	15969
 Ndola Energy Power Plant	5247
 Network Performance Network Performance Powered	6051
 Niklas. Trust and Power. Chichester	11138
@@ -364,6 +405,8 @@ OFFICE MEMBERSHIP POWERS OF MEMBERS TERMINATION	585
 ORPOWER4 RABAI POWER	12256
 Objects and Powers	3714
 Ontario Power Generation Pension Plan	9098,46
+Operational Manual PPP Purchasing Power Parity	15515
+Operations Planning Outlook for Power Supply	15904
 Ossiomo Power	10689
 Out Stations Associated Latitude Power Capacity	736
 Out Stations Longitude Latitude Power Capacity	736
@@ -377,8 +420,10 @@ PDU Power Distribution Unit PDU Power	13185
 PIU Project Implementation Unit PPA Power	11549
 PMP Project Management Professional PSU Power	13185
 POPULATION AND HOUSING CENSUS Power	14594
+POWER AFRICA	15670
 POWER AND DUTIES OF SPACE SCIENCE	13986
 POWER DISTRIBUTION	12358
+POWER GEN	15670
 POWER GENERATION	12358
 POWER GENERATION IN MALAWI	13241
 POWER GENERATION Page	12358
@@ -403,9 +448,11 @@ POWERS OF INVESTIGATIONS The National Cybercrime	12459
 POWERS OF MEMBERS	585,8281
 POWERS OF THE COURTS Article	13948
 POWERS TO INVESTIGATE	11190
+POWERTECH GUINEA SA	16623
 PPA Power Purchase Agreement PPP Public-Private	14947
 PPA Power Purchase Agreement PSC Production	12256
 PPP Public-Private Partnership PUE Power Usage	12512
+PPP Purchasing Power Parity PPSD Project	15518
 PPP Purchasing Power Parity PROMOREN Programa	10765,10
 PRESCRIBE THE POWERS AND FUNCTIONS	11976
 PROCEDURAL POWERS OF INVESTIGATIONS	12459
@@ -429,8 +476,8 @@ Powder Mill	14847
 Powdered	8182
 Powell	2948,5018
 PowellBJWaltzTJChinmanMJDamschroderLJSmithJLMatthieuMMet	8376,3870
-Power	1,2,7,1,10,6,7,559,306,105,215,1,41,465,88,913,658,169,6,23,13,118,962,220,68,44,239,238,180,391,77,243,415,41,128,106,271,30,271,160,328,137,492,188,180,32,254,262,244,54,23,85,80,294,54,224,55,35,42,145,11,11,22,2,50,31,3,4,39,30,60,16,25,56,102,1,2,221,159,6,9,87,23,30,92,47,1,39,41,7,7,15,103,41,11,17,17,1,14,42,1,10,9,10,4,82,26,5,32,1,206,14,15,33,20,10,206,109,11,6,3,7,64,13,20,150,383,7,66,61,306,16,3,12,172,123,2,8,53,45,3,3,19,17,5,1,20,4,10,26,14,78,2,54,68,15,41,1,134
-Power Africa	11923,268
+Power	1,2,7,1,10,6,7,559,306,105,215,1,41,465,88,913,658,169,6,23,13,118,962,220,68,44,239,238,180,391,77,243,415,41,128,106,271,30,271,160,328,137,492,188,180,32,254,262,244,54,23,85,80,294,54,224,55,35,42,145,11,11,22,2,50,31,3,4,39,30,60,16,25,56,102,1,2,221,159,6,9,87,23,30,92,47,1,39,41,7,7,15,103,41,11,17,17,1,14,42,1,10,9,10,4,82,26,5,32,1,206,14,15,33,20,10,206,109,11,6,3,7,64,13,20,150,383,7,66,61,306,16,3,12,172,123,2,8,53,45,3,3,19,17,5,1,20,4,10,26,14,78,2,54,68,15,41,1,134,62,78,179,499,428,68
+Power Africa	11923,268,3479
 Power Africa’s AI Future NetOne Steps	3965
 Power Apps	13080
 Power Attenuation	15081
@@ -451,6 +498,7 @@ Power Consumption Optical Amplifiers	4676
 Power Control	12949
 Power DER Distributed Energy Resources DFFE	11228
 Power DRC's National Digital Identity System	2698
+Power Delivery	15659
 Power Development	13562
 Power Development Visited India	13562
 Power Development and Regional Integration Desk Ato	12195
@@ -490,6 +538,7 @@ Power Packs	10742
 Power Pages and Dataverse. The COGTA Power	14694
 Power Parity PPP Project Procurement Strategy	11855
 Power Parity SADC Southern African Development	12663
+Power Planning Technical Committee	15904
 Power Plant Availability	14867
 Power Plant Launch	13624
 Power Platform	2524,4210
@@ -507,9 +556,9 @@ Power Producer XALAM DATA CENTER MARKET	3184,1,7810
 Power Project Instruments	14080
 Power Project NISO Nigerian Independent System	12062
 Power Pur	12233
-Power Purchase Agreement	1196,11858,69,32,492
+Power Purchase Agreement	1196,11858,69,32,492,2390
 Power Purchase Agreement Pre	12358
-Power Purchase Agreements	12233,23,64,79,2346
+Power Purchase Agreements	12233,23,64,79,2346,914
 Power Purchase and Grid Connection Agreement	13123
 Power Purchase and Grid Connection Agreements	13123
 Power Purchasing Agreements	14830
@@ -522,11 +571,13 @@ Power Sanitation	15206
 Power Sector	10861,1372,2724
 Power Sector Action Plan	1230
 Power Sector Development Framework	14877
+Power Sector Master Plan	15983
 Power Sector Recovery Additional Financing	11469
 Power Sector Reform	12233
 Power Services	4896
 Power Smart City Vision	3101
 Power Smart City Vision Without	3101
+Power State Owned Enterprise Société des Postes	15553
 Power Station	736
 Power Supply	958,8165
 Power Supply Issues	12508
@@ -551,6 +602,8 @@ Power and Progress	8380
 Power and Promise of Animal Rights	2518
 Power for All	11572
 Power of Accountant-General	11976
+Power of Attomey	15399
+Power of Attorncy	15399
 Power of Attorney	22,8844,1237,272,1448,526,900,1517,125
 Power of Attorney Sub-Merger Co	7198
 Power of Attorney. Recognising	8866
@@ -580,8 +633,9 @@ PowerCo	4896,2638,12
 PowerCom	3475
 PowerCom CEO Beatus Amadhila	3475
 PowerCom and Telecom Namibia	3475
-PowerGen	4972
-PowerPoint	899,1922,8319,265,822,1408,455
+PowerFactory	15969
+PowerGen	4972,10698
+PowerPoint	899,1922,8319,265,822,1408,455,1514,829,50,29
 PowerPoint.Le	8694
 PowerShell	570,6,2758,7283,104,2464,286
 PowerToys	11922
@@ -602,13 +656,16 @@ Powering Africa	4428
 Powering African Innovation Stories TAIS	5551
 Powering Africa’s Potential Through Its People	10964
 Powering Energy Independence	13795
+Powering FinTech	15480
 Powering Growth	11105,31
 Powering Growth and Prosperity for Businesses and Investors	14674
+Powering Kenya’s Transformation	15583
 Powering Opportunity	13228
 Powering Regional Integration	11608
 Powering the Future of Enterprise Innovation	6056
-PoweringAfrica	12399,1034
+PoweringAfrica	12399,1034,2366,238
 PoweringZambia Comments	13647
+Powerpoint	15568
 Powers	11,16,756,437,113,141,119,925,1065,131,147,7318,2,9,274,512,413,70,72,4,14,80,15,1,16,110,119,2,2,5,1,3,2,1,3,7,3,10,9,16,333,279,40,342,3,458,13,27,44,82,153,2,13,107,41,2,134,54,45,23
 Powers Africa	13101
 Powers Africa Digital Academy	7687
@@ -659,12 +716,17 @@ Prime Minister Dr. Abiy Ahmed. Powered	10709
 Privacy Policy Powered	4261
 Productive Power	11028
 Professionals Trained. One Powerful Milestone	13197
+Prohibition of Using Powers of Public Office	15393
+Project Implementation Unit PUE Power Usage	15621
 Projecto Nant Power	3093
+Promoteur ASHFAR POWER SARL	15670
 Promoting Gas Power Market Integration	7426
+Propre PPA Power Purchase Agreement	16037
+Protection Program SBEE Benin Power Distribution	15515
 Protection of Power	13295
 Protocol IPP Independent Power Producers IPP	2775
 Public Services Political Power	11870
-Purchasing Power Parity	11183,398,2906,633
+Purchasing Power Parity	11183,398,2906,633,395,629
 Purchasing Power Parity PPSD Project Procurement	10829
 Purchasing Power Shield	14829
 PyTorch and PowerToys	11922
@@ -709,9 +771,12 @@ Ruzizi III Holding Power Company Limited	3093
 Rx Power	736
 SADC Model Law Powers	27
 SAPP Southern African Power Pool TOU	12233
+SECONDARY POWER SUPPLY	16552
 SECTOR ELÉCTRICO ANGOLA POWER SECTOR LONG	11366
 SHARES AND CONTROL OF COMPANY Power	3714
+SMIN Power Group	15670
 STATEMENT ON DELEGATION OF LEGISLATIVE POWERS	14594
+SYSTEM DISTURBANCE AND POWER RESTORATION UPDATE	16586
 Salima Solar Power Plant	13241
 Scheme EPP Emergency Power Producers EPRA	2775
 Sector Institutional Development Project PDMP Power	11380
@@ -720,7 +785,7 @@ Shema Power	12358
 Shema Power Lake Kivu Ltd	718
 Shema Power Plant	12358
 Shifting Power	11138
-Significant Market Power	7368,657,5985,869,202,39
+Significant Market Power	7368,657,5985,869,202,39,252,181,655
 Site of Power DPI	4424
 Skysails Power	14745
 Small Hydro and Wind Power Generating Plants	12256
@@ -733,12 +798,16 @@ Solar PV Concentrated Solar Power	11953
 Solar PV REFIT HOPSOL Power Generation	12399
 Solar PV Solicited IPPs HOPSOL Power	12399
 Solar Power	12358
+Solar Power Generator	15447
+Solar Power Plants	16468
+Solar Power Water Station for Semi-Urban	16256
 Solar Power for Telecom Towers Guarantee MIGA	704,1
 Southern Africa Power Pool	13060
 Southern African Power Pool	9959,1057,133,1084,166,281,475
 Southern African Power Pool. Every	10169
 Specific Powers of Board	7845
 Spectrally and Power Efficient Optical Communication Systems	4676
+Stable Supply of Renewable Energy Power Through	16468
 Staging Room Power Room Split	12253
 State Power of Taxation	13948
 Statistique IPP Independent Power Producer GRT	10975
@@ -746,6 +815,7 @@ Stoves IPP Independent Power Producer JADF	14947
 Strengthening Capacity of Power Sector Practitioners	13791
 Sustainable Power	11469
 TOGAF Business Process Event-driven Process Powerful	9124
+TRANSTRADE Power Ldt	15659
 Tax Ombud Part F Powers	11181
 Tech Africa News and Water Power Magazine	6490
 Technical Characteristics Monitoring Voltage Power Frequency	14867
@@ -761,6 +831,7 @@ Through the Southern African Power Pool	10169
 Tim Edwards Powers	11006
 Tina Power	10729
 Tina Power Dudula	10729
+Togo Transmission Power Utility	15515
 Transformative Power of Ethiopia's Digital ID	12245,1205
 Transitional Bodies and Delegated Powers	3861
 Transmission and Distribution Power Masterplans	14947
@@ -768,6 +839,8 @@ Transmit Power	736
 Tribunal. Power	3714
 Tuyeimo Haidula Twenty-five PowerCom	3475
 Tx Emission Class Maximum Radiated Power	736
+U IPT POWERTECH GUINEA SA IPT	16623
+U.S. Government's Power Africa	15401,1
 UETCL LAKE TURKANA WIND POWER	12256
 UNINTERRUPTIBLE POWER SUPPLY	12253
 UNLOCKING THE ECONOMIC POWER OF REFUGEES	10841
@@ -804,8 +877,10 @@ Virunga Power Grace	13433
 Vodacom Powerflex Promotion	11259
 W. W. Powell	5349
 W. Weza Power	13433
+WAPP West African Power Pool DATA	16188
+WAPP West African Power Pool WBG	15983
 WOMEN'S EQUALITY Political Power	10759,78,1052,451
-West African Power Pool	11016
+West African Power Pool	11016,5128,510
 Weza Power	13433
 Weza Power Approbation	13433
 Weza Power Début	13433

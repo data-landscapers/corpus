@@ -2,6 +2,7 @@ ANPD Compliance Audit Regime	3861
 Abril Regime	11435
 B REMPE Regime Contactos TACs Declaração	12018
 Banking Activity Regime	11550
+C- REGIME FISCAL DE LA COMMANDE	15999
 CAPACIDADE ELEITORAL PASSIVA E REGIME	11528
 CAPÍTULO II DO REGIME JURÍDICO APLICÁVEL	11520
 CAPÍTULO II REGIME DE ACESSO	11430
@@ -9,6 +10,7 @@ CAPÍTULO III REGIME DE PRESTAÇÃO	11430
 CAPÍTULO III REGIME SANCIONATÓRIO Artigo	15
 CAPÍTULO V REGIME SANCIONATÓRIO	10747
 CAPÍTULO V REGIMES ESPECIAIS DE APLICAÇÃO	3519
+CAPÍTULO VII REGIME SANCIONATÓRIO Artigo	15440
 CAPÍTULO VIII REGIME DE AFORAMENTO Artigo	11901
 CAPÍTULO VIII REGIME DE RESPONSABILIDADE	3519
 CFT Regime	12701
@@ -16,9 +18,20 @@ CHAPITRE VI DES REGIMES BUDGETAIRE ET	14431
 CHAPITRE VI DU REGIME DES SANCTIONS	13709
 COMESA Simplified Trade Regime	13053
 Contribuição Industrial Regime Especial	11532
+Current Monitoring Regime	15905
 Customs Regime Receipts	15066
+Cybersecurity Licensing and Accreditation Regime	15716
 DATA LIFECYCLE GOVERNANCE REGIME	3861
 DATA PROTECTION IMPACT ASSESSMENT REGIME	3861
+DE L’AMENAGEMENT ET DU REGIME DES	15780
+DELIVRANCE ET DU REGIME DE L'AUTORISATION	15378
+DES REGIMES APPLICABLES A LA PRODUCTION	16612
+DES REGIMES JURIDIQUES Artlcle	15429
+DES REGIMES SPECIFIQUES	16381
+DU REGIME APPLICABLE AUX TITULAIRES	15780
+DU REGIME DE LA SIMPLE DECLARATION	15885
+DU REGIME FISCAL	15584
+DU REGIME JURIDIQUE APPLICABLE AUX ACTIVITES	15584
 DU REGIME NON CONTRIBUTIF OU RBRNC	14418
 Data Lifecycle Governance Regime	3861
 Data Protection Impact Assessment Regime	3861
@@ -31,10 +44,14 @@ E7 Regime	11448
 ENFORCEMENT POWERS AND SANCTIONS REGIME	3861
 East African Trade Regime	14409
 East African Trade Regime ARTICLE	14409
+EcTtoN I DU REGIME GENERAT	15429
 Enforcement Powers and Sanctions Regime	3861
-Engineer Regiment	8370
+Engineer Regiment	8370,8141
 Estado. H TITULO Vi REGIMEN SANCIONADOR	163
+Financiers RAMU Regime	15685
+Fiscal Regime	15566
 General Receipts and Customs Regime Receipts	15066
+General Regime for Partnership Contracts	15566
 General and Simplified VAT Regimes. ACC	10792
 IDENTITY REGIMES Recognising	1243
 INCLUSIVE REGISTRATION REGIME The Act	9670
@@ -42,13 +59,16 @@ Inflation Target Regime	11289
 Inspection Regimes	12389
 International Trade Regime	226
 Janeiro. O Regime Jurídico de Facturas	4203
+Junho O Regime de Tesouraria	15380
 Kenya’s Digital Taxation Regime	14932
 LEI QUE ALTERA O REGIME JURÍDICO	10756
 LEI QUE ESTABELECE O REGIME JURÍDICO	12784
 LEI SOBRE O REGIME JURÍDICO	11384
 LISBOA PróximoABERTURA DO REGIME ESPECIAL	6837
+Legal Regime Netwk Ops	16594
 Legal Regime of Taxpayer Number	10775
 Liability Regimes	12389
+Licensing Regime	16212
 Limited Community of Property Regime	15056
 Marriage Regime Count Percentage Community	15056
 Modernising Ghana’s Tax Regime	7695
@@ -56,9 +76,13 @@ Nigeria's New VAT Regime for Non-Residents Under	7786
 O Regime Jurídico	11901
 O Regime Sancionatório	11436
 O Regimento	11561
+O2 DIRECTION JURIDIQUE LES REGIMES JURIDIQES	15670
 Objetivos O Regime Jurídico	11901
+Open Access Regime	15372
 Optimizing Africa's ICT Tax Regimes Towards	14674
 PART II LEGAL REGIME	10974
+POSTAUX RELEVANT DU REGIME	15885
+PREMIER DES REGIMES JURIDIQUES	15429
 PROMOTION OF COMPATIBILITY OF REGIMES Mechanisms	1243
 Partial Exemption Regime	14828,3
 Penalty Regimes	3861
@@ -70,72 +94,95 @@ Property Registration Special Regime System	11939
 Protection Regimes and Required Measures	3861
 REGIME DE INTERLIGAÇÃO CAPÍTULO I DISPOSIÇÕES	11519
 REGIME DE RESPONSABILIDADE DA IA SECÇÃO	3519
+REGIME DE RESPONSABILITE ET SANCTIONS DES	16047
 REGIME DE TARIFAÇÃO	11430
+REGIME JURIDIOUE	15489
+REGIME JURIDIQUE ET ATTRIBUTIONS Article	15431
 REGIME JURÍDICO DA COMUNICAÇÃO E TRAMITAÇÃO	11433
 REGIME JURÍDICO DO NÚMERO DE IDENTIFICAÇÃO	11383
 REGIME JURÍDICO DOS POLOS DE DESENVOLVIMENTO	11443
+REGIME MONETAIRE POUR LES VERSEMENTS	15901
 REGIME SANCIONATÓRIO	10755
 REGIMENTO DO CONSELHO NACIONAL DE CIBERSEGURANÇA	4147
+REGIMES D'IMPOSITION SOUS-SECTION	15999
+REGIMES DES RESEAUX	16615
 REGIMES ESPECIAIS DE APLICAÇÃO DA IA	3519
+REGIMES PARTICUTIERS Artlcle	15429
 REGULATORY REGIME	11550
 RESTRICTIVENESS OF THE REGULATORY REGIME	13985
 RWANDA'S MOBILE SECTOR TAX REGIME	12385
 RY REGIME F OR DIGITAL SE	13357
-Regime	13,2,561,2943,1650,1293,508,4390,22,6,45,8,2,5,8,5,53,4,9,5,369,117,395,440,2079,124
+Regime	13,2,561,2943,1650,1293,508,4390,22,6,45,8,2,5,8,5,53,4,9,5,369,117,395,440,2079,124,288,15,21,11,5,81,27,190,328,100
 Regime Aplicável	10755
-Regime Especial	10772
+Regime Especial	10772,4616,89
 Regime Especial de Carreira	10772
 Regime Estatisticos	12021
 Regime Estatísticos	12021
 Regime Ethnic	15342
 Regime Excecional de Regularização de Dívidas	12018
 Regime Financeiro	4218
-Regime Geral	167,577,2775,684,7183,10,1,6,1,28,6
+Regime Geral	167,577,2775,684,7183,10,1,6,1,28,6,3953,5
+Regime Geral da Tesouraria	15955
 Regime Geral de Segurança Social	167
-Regime Jurídico	1948,489,8928,17,1,1,1,5,40,2,3,27,5,52,382
+Regime Jurídico	1948,489,8928,17,1,1,1,5,40,2,3,27,5,52,382,3479,8,8,44,37,49,530
 Regime Jurídico Aplicável	744
+Regime Jurídico Especial	16022
 Regime Jurídico Geral de Protecção de Dados	2345
-Regime Jurídico Geral de Transportes	11983
+Regime Jurídico Geral de Transportes	11983,4039
 Regime Jurídico Subsidiário	10747
 Regime Jurídico da Actividade de Inspecção	11452
 Regime Jurídico da Assinatura Electrónica	8308,1
 Regime Jurídico da Cibersegurança	8880
 Regime Jurídico da Comunicação	4075,7308,50
+Regime Jurídico da Comunicação de Irregularidades	15477
+Regime Jurídico da Criação	15477
 Regime Jurídico da Função Pública	167
 Regime Jurídico da Geodesia	11384
 Regime Jurídico da Identificação	549
 Regime Jurídico da Identificação Civil	10749,7,16
 Regime Jurídico da Instalação	11458
+Regime Jurídico da Tesouraria	16022
 Regime Jurídico da Transitoriedade	10783
 Regime Jurídico de Acesso	11448
+Regime Jurídico de Cibersegurança	15504
+Regime Jurídico de Organização	15477
 Regime Jurídico de Protecção de Dados Pessoais	12813
 Regime Normal	12021
 Regime Normativo de Governança	11448
 Regime Normativo de Hospedagem	11448
+Regime Ordinário	15476
 Regime Quem	12018
 Regime Remuneratório	12783
 Regime Sancionatório	549,10821,16,44
 Regime Sancionatório Artigo	2866
 Regime Sanitário Nacional	11376
 Regime Simplificado	1265,10753,3
+Regime Simplificado de Empresa	15476
+Regime Substantivo	16056
 Regime Supletivo	3519
+Regime Transitório As Recebedorias	15380
 Regime da Identificação Civil	10772
 Regime da Protecção Social Obrigatória	11467
+Regime da Te	15380
 Regime de Acesso	11569,304
 Regime de Confidencialidade	4147
 Regime de Contabilidade	12018
+Regime de Contabilidade Organizada	16022
 Regime de Exclusividade	11452
 Regime de Falência	10755
+Regime de Incentivos Fiscais	16022
 Regime de Interligação	11519
 Regime de Interligação. Decreto	11519
+Regime de Open Access	15684,5
 Regime de Pessoal	2866
 Regime de Prescrição de Certos Bens Abandonados	11404
 Regime de Prestação	11430
 Regime de Retenções	12018
 Regime de Tarifação	11430
 Regime de Transição	11388
-Regimento	3519,628,7414
-Regimento da Assembleia Nacional	539,2980
+Regimento	3519,628,7414,3798,697
+Regimento Interno da Comissão Nacional de Eleições	15359
+Regimento da Assembleia Nacional	539,2980,11958
 Regimento. Este	11415
 Regimes	14932
 Regimes Geral	11432
@@ -144,15 +191,19 @@ Regulatory Regime Transformation The National Communications	15120
 Resolution Regime	11134,3695
 Resolution Regime Fully	11134
 Reutilização Regime de Acesso	11448
+S SOUMISES A DES REGIMES PARTICULIERS	15584
+SECTION VI DU REGIME DE TAXATION	15999
 SECÇÃO I REGIME JURÍDICO	11430
 SECÇÃO II REGIME DE CONCESSÃO	11430
 SECÇÃO III REGIME DE LICENCIAMENTO	11430
+SERVICES POSTAUX RELEVANT DU REGIME	15885
 Simplified Trade Regime	13440
 Simplified Trade Regime The Simplified	13563
 Simplified Visa Regime	12389
 Special Economic Zone Regime	12208
 Special Regime for Labor Claims	12389
 Stable and Predictable Tax Regime	14932
+TITLE III TRADE REGIME FOR GOODS	15506
 TRADE AND INVESTMENT REGIMES	11524
 Taxation Regime	14932
 Technical Regulation Regime	13320

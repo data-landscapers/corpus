@@ -3,13 +3,18 @@ Applicants Replacements The Nzika	13095
 BRB. Replenishments	1284
 Balanced Repeated Replication	11296
 Bank’s Card Replacement Sites Eastern	8999
+Budgeting for Recruitment and Replacement	15790
 CW385E REPLY	11270
-Card Replacement	14741
+Card Replacement	14741,1347
 Card Replacement Approach	8999
 Card Replacement Approach Planning	8999
 Card Replacement Campaign	8999
 Card Replacement Message	8999
+Card Replacement Service	16088
+Card Replacement Service Outside NIA	16088
 Card Replacement Update	8999
+Card Replacement and Nationality Update	16088
+Cards Replaced	16374
 Certificate for Replacement of National Identification	12333
 DAILY CARD REPLACEMENT RATE	8999
 Daily Card Replacements	8999
@@ -46,7 +51,9 @@ Postbank Card Replacement Update Postbank Card	8999
 Quick Reply	11033
 RECOMMENDED REPLACEABLE AUDITABLE	6423
 REPL-Liberia-ID4D-Diagnostics-Web.pdf	108
+REPLACE	7150
 REPLACEMENT NATIONAL REGISTRATION CARD PART	12410
+REPLACEMENT OF ADMINISTRATIVE GUIDELINE NUMBER	15600
 REPLACES	6783
 REPLATFORM	6432
 REPLATFORM REPLATFORM	6432
@@ -56,6 +63,7 @@ REQUIRED REPLACEABLE AUDITABLE	6423
 RF2 Replication Factor	13185
 RFI. Replies	14756
 Real Time Replication	15274
+Receipt Replacing National Identity Cards	15415
 Replace	3676,483,2273,351,1012,30,1298,506,532,988,60,2176,1289
 Replace Courtrooms	12260
 Replace Rosary	14818
@@ -64,14 +72,18 @@ Replace the Office	14601
 Replace the TIC	13868
 Replaceability	5665
 Replaced	4653,528,2,1,2049,1766
-Replacement	10130,830,192,622,212,342,82,114,374,84,23,90,216,1111,323,1,116,5,130,30
+Replaced Dropped	16032
+Replaced Villages	16032
+Replacement	10130,830,192,622,212,342,82,114,374,84,23,90,216,1111,323,1,116,5,130,30,403,229
 Replacement Refusals Top the List The NTRA	11642
 Replacement Update	8999
 Replacement and ISO	3705
+Replacement of Card	16088
 Replacement of Definitive Driving License	12333
 Replacement of Four Radio Studio Mixing Consoles	12982
 Replacement of Green-barcoded IDs	11986
 Replacement of Lost	12216
+Replacement of Your TIN The Ghana	16601
 Replacer	8816
 Replaces	776,246,185,1317,83,18,2560,4,3,7845,348
 Replaces ZWS	13385
@@ -128,7 +140,7 @@ Replies of Malawi	13040
 Replies-to-FAQ VaMoz-Digital 15.03.24.pdf	9398
 Replika	8460
 Replit	11128
-Reply	1289,2325,2608,645,1814,1003,1530,71,695,947,2413
+Reply	1289,2325,2608,645,1814,1003,1530,71,695,947,2413,144
 Reply Cancel	8437,202,383,854,113,3531
 ReplyCancel	9747,54,3,23
 Replying	8210

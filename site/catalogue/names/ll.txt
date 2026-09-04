@@ -27,7 +27,7 @@ African-language LLM	8149
 Anthropic’s Claude and Meta’s Llama	8216
 Apis Partners LLP	94,303
 Aptivaa Management Consulting LLC Data Processor	7167
-Arabic LLM	6232,337
+Arabic LLM	6232,337,9562
 BARONGO OMBASA ADVOCATES LLP Data Controller	7167
 BARONGO OMBASA ADVOCATES LLP Data Processor	7167
 BASICOM CONSULTING GROUP LLP Data Controller	7167
@@ -78,16 +78,20 @@ DIRO ADVOCATES LLP Data Processor INST-6167773E64A	7167
 DLA Piper LLP	11880,421
 Danlex Partners LLP Data Controller INST-262873A52D3	7167
 Danlex Partners LLP Data Processor INST-262873A52D3	7167
+Deliverables LLM	15713
 Democratizing LLMs	11135
 Discussion Materials of J.P. Morgan Securities LLC	7198
 ECP Africa Fund IV A LLC	292
 EKITABU LLC Data Processor INST-8467809BA40 NAIROBI	7167
 ES DpE Ll’aUEnMOnAing	10711
+Egypt’s Arabic LLM	16202
 Ernst and Young LLP	15205
 Europe World LDCs LLDCs SIDS Low	11563
 FL LLC	8285
 FORVIS MAZARS LLP	9508
 Fidem Financial LLC	9487
+Foundation Model LLM	15713
+Frontier LLM	16358
 GOOGLE LLC................................................02	13462
 GenAI LLMs	13461
 General-purpose LLMs	3651
@@ -122,10 +126,11 @@ Kuiper Systems LLC	4632
 LDCs and LLDCs	11004
 LLA Chairman Kpakio	9651
 LLA Chairman Samuel F. Kpakio and Commissioner	9651
+LLATI NET DE MISE SERVICE DES	15399
 LLC AIAdopt Black Forest Labs AiBooks	8530
 LLC Contents Full Contents of The Global	10977
 LLDC Landlocked Developing Country ML Machine	13042
-LLDCs	2663,6282,1819,80,160,559,9,348,1122
+LLDCs	2663,6282,1819,80,160,559,9,348,1122,3589
 LLDCs Africa	10844
 LLDCs Africa N	10844
 LLDCs Asia	10844
@@ -153,11 +158,12 @@ LLM API	11585
 LLM CDSS	11578
 LLM Large Language Models MNC Multinational	10861
 LLM Ops Lifecycle CAIMEx	5226
+LLM Powered Basic Industries	15713
 LLM's Tribune and Time.446 Copilot	13461
 LLM's. Research and Development Kenya	12210
 LLM-assisted	11578,7,2723
 LLM-augmented	7573
-LLM-based	7790,3788,7
+LLM-based	7790,3788,7,4546
 LLM-based CDSS	11578,7
 LLM-generated	11578,7
 LLM-induced	11578
@@ -169,21 +175,26 @@ LLM. Arrivé	8219
 LLM. Dans	4833
 LLM. J’ai	8219
 LLM. J’explique	8219
+LLM. Output	16358
 LLM. The LLM	11585
 LLM. WAT	8219
 LLM422	13461
 LLMOps	5226
+LLMs and Generative AI	16212
 LLP and Ankura Sovereign Advisors LLP	14135
 LLR CEO	3761
 LLaMA	3465
 LLaMa	2816
 LLiicceennssiinngg	736
 LOGISTICS INTERNATIONAL INVESTMENTS Defendants LLC	1829
+Labor Market Impact Potential of LLMs	16266
 Landlocked Developing Countries LLDCs	10844
 Laptop LLM Challenge	8299
+Larce Bande du Llénin	15399
 Lawmark Partners LLP	8900,6409
 Le F Ll	13524
 List of LLDCs	11004
+LlLre	15399
 Llaitcieonnssi	736
 Llama	6879,1217,2037,3328
 Llama AI	6287
@@ -198,6 +209,7 @@ Lloyds Vincent Nkhoma	3288
 Lloyds and HSBC	9832
 LlpUrGf	8620
 Llpqmllf-	10965
+Llvre	15584
 MMoonntthhllyySsystem Lloosssseess	12256
 Managing Partner of Santos-Diaz LLC	7156,597,2450,489
 Meta's Llama	6287
@@ -230,6 +242,7 @@ Partners LLP Addis Ababa	12232
 Partners LLP Aman	12232
 PhD DBA LLD	12431
 Protocol LLD Low Level Design MDAs	13185
+Qatar Energy International E&P LLC	15930
 Remedial Actions for Google LLC	13461
 Respondent Google LLC	3307
 Rural Urban Rural Urban World LLDCs	10844
@@ -240,6 +253,9 @@ Simtrex Commercial Brokers LLC	4127
 Starlink Services LLC	6262
 TOUCHE LLP Data Controller INST-158027558A5 NAIROBI	7167
 TOUCHE LLP Data Processor INST-158027558A5 NAIROBI	7167
+Tech-I3-A3 National LLM	15713
+Tech-I3-A3 National LLM Use Cases Development	15713
+Tech-O9 LLMpowered	15713
 Techno Brain Global FZ LLC	3700
 Trials for LLM-supported	11585
 Trust LLC	10380
@@ -247,6 +263,7 @@ UNCTAD and WTO Many LLDCs	10844
 UNITED STATES OF AMERICA et al v GOOGLE LLC dc-	13461
 Uganda AY LL Personal Protection	5113
 Uganda. Google LLC	3307
+Univision LLC	15471
 Vienna Programme of Action for LLDCs	10844
 Watkins LLP	7198
 Wh Kilowatt Hour LLM Large Language	10781,1646,2055

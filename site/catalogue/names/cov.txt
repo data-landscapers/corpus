@@ -20,29 +20,35 @@ Angola. Covilhã	10780
 Antenatal Care Coverage and Content	13454,1793
 Appendix E. Coverage	15149
 Approach To Expanding Coverage	3726
+Arab World Regional Coverage	15713
 Area Covered	14079
 Assessing System Integration and Coverage	13005
 Association. LEGAL COVENANTS2 LEGAL COVENANTS	1284
 Association. Resilience Through COVID-19	13477
+BNETD Land Cover Map	15622
+BNETD land cover v1	15622
 Background Covid-19	12978
 Basic Antigen Coverage	14067,1180
 Beneficiaries of COVID-19	10985
 Boost Broadband Coverage	5937
 Bridge Coverage Gaps	12263
-Bridgetown Covenant	13042
+Bridgetown Covenant	13042,3589
 Broadcasting Sports Coverage	13474
 Burkina Faso. Covers	722
 Burundi’s COVID-19	13314
 CCDR CERC CHIRPS CNAS CNPC COVID-19	10763
 CDC CNBS COVID CPN CSPro DAM	10777
 CDC Covid Data Tracker	5700
+CFA Franc COVID-19 Coronavirus Disease CPF	15731
 CIAY Accredited Management Centre COVID-19 Yaounde	10980
 CMU Country Management Unit COVID-19 Coronavirus	13836
+COGEDES COVID CPF CRI ECD ECE	16436
+COM COVID-19 CONFIRMADONext	15486
 CONTENT SECURITY INFORMATION FRAUD NO COVERAGE	11004
 CONTENT SECURTIY TRUST FRAUD NO COVERAGE	11964
 COP Child Online Protection COVID-19 Coronavirus	6946
 COV Négatif	1005
-COVAX	2667,8734,3496
+COVAX	2667,8734,3496,618
 COVAX Facility	11401
 COVENANT MEDICAL CLINIC LIMITED Data Controller	7167
 COVERAGE AND ROLL OUT	15149
@@ -55,43 +61,59 @@ COVERED ENTITIES	3861
 COVERED FINANCIAL SERVICE SUPPLIER	1243
 COVERT RISK ASSESSORS LTD Data Processor	7167
 COVI9-19Pesquisa Contem	966
-COVID	550,18,5,13,57,75,43,135,62,12,3,2,23,40,227,459,224,359,170,489,583,34,466,378,248,1711,2164,298,637,276,654,303,61,5,37,8,12,33,397,116,3,182,335,17,41,35,25,166,19,43,83,225,107,254,26,8,376,58,87,46,9,406,39,511,1,247,6,19,58,69,8,1
+COVID	550,18,5,13,57,75,43,135,62,12,3,2,23,40,227,459,224,359,170,489,583,34,466,378,248,1711,2164,298,637,276,654,303,61,5,37,8,12,33,397,116,3,182,335,17,41,35,25,166,19,43,83,225,107,254,26,8,376,58,87,46,9,406,39,511,1,247,6,19,58,69,8,1,577,4,15,3,4,18,1,82,36,36,12,239,113,158,71,170,192
 COVID Certificate	11869
 COVID Data Tracker	5700
 COVID Relief	687
-COVID-	10718,245,1,896,393,1079
+COVID-	10718,245,1,896,393,1079,2161,111,120,288
 COVID-10	11924
-COVID-19	443,17,5,2,3,30,47,10,3,2,8,3,5,11,42,12,75,29,14,9,19,58,52,41,29,1,5,2,28,13,16,127,51,7,24,5,16,81,356,3,20,90,14,4,35,87,34,105,3,21,174,51,71,105,17,87,45,11,97,173,635,21,68,377,43,334,1,3,402,188,226,287,167,211,339,136,72,374,114,332,280,35,62,95,1,8,86,41,455,174,59,62,447,21,25,175,140,294,221,10,234,508,1,2,4,8,37,5,9,2,5,35,2,1,1,6,2,10,3,2,6,13,1,9,6,32,6,42,2,1,1,12,3,5,19,131,20,37,3,1,40,12,42,29,60,1,7,13,1,16,52,74,2,1,3,11,3,9,72,216,3,3,1,6,6,18,5,3,2,5,4,2,5,1,16,4,16,5,21,4,13,22,150,1,15,19,4,6,26,7,44,31,5,6,22,6,28,3,5,97,40,1,42,11,37,32,6,34,18,5,61,133,2,9,8,3,6,8,12,9,1,12,94,230,10,7,1,14,13,29,2,1,4,23,2,32,25,29,26,42,43,115,61,75,2,27,41,53,1,23,131,282,6,38,16,1,1,63,69,44,70,6,2,4,2,2,23,57,64,1,67,1,47,11,115,204
+COVID-19	443,17,5,2,3,30,47,10,3,2,8,3,5,11,42,12,75,29,14,9,19,58,52,41,29,1,5,2,28,13,16,127,51,7,24,5,16,81,356,3,20,90,14,4,35,87,34,105,3,21,174,51,71,105,17,87,45,11,97,173,635,21,68,377,43,334,1,3,402,188,226,287,167,211,339,136,72,374,114,332,280,35,62,95,1,8,86,41,455,174,59,62,447,21,25,175,140,294,221,10,234,508,1,2,4,8,37,5,9,2,5,35,2,1,1,6,2,10,3,2,6,13,1,9,6,32,6,42,2,1,1,12,3,5,19,131,20,37,3,1,40,12,42,29,60,1,7,13,1,16,52,74,2,1,3,11,3,9,72,216,3,3,1,6,6,18,5,3,2,5,4,2,5,1,16,4,16,5,21,4,13,22,150,1,15,19,4,6,26,7,44,31,5,6,22,6,28,3,5,97,40,1,42,11,37,32,6,34,18,5,61,133,2,9,8,3,6,8,12,9,1,12,94,230,10,7,1,14,13,29,2,1,4,23,2,32,25,29,26,42,43,115,61,75,2,27,41,53,1,23,131,282,6,38,16,1,1,63,69,44,70,6,2,4,2,2,23,57,64,1,67,1,47,11,115,204,105,24,3,4,2,11,2,3,4,11,2,1,1,3,1,5,19,7,3,10,8,20,10,3,17,8,29,1,2,2,10,12,4,31,2,2,1,118,1,2,90,23,6,3,22,22,1,243,10,9,90,33,2,36,155,35,2,3,3,7,24
 COVID-19 Accelerated Grant	12175
 COVID-19 Africa Watch	560
 COVID-19 Bill. Public	14750
+COVID-19 Billion	16631
 COVID-19 Boosted the Adoption of Digital Financial Services	11994
+COVID-19 COUNTRY	15518
+COVID-19 Chickenpox	15725
 COVID-19 Confirmed Cases	12977
 COVID-19 Considerations	12253
 COVID-19 Containment and Impacts	13977
 COVID-19 Contingent Emergency Response Component CPF	13331
 COVID-19 Corona Virus Diseases	13359
 COVID-19 Coronavirus	11960
-COVID-19 Coronavirus Disease	10829,442,109,2040
+COVID-19 Coronavirus Disease	10829,442,109,2040,2091
+COVID-19 Coronavirus Disease CPF Country Partnership	15491
 COVID-19 Country Program Response Note	11380
 COVID-19 Country Report	11224
-COVID-19 Crisis Response Approach Paper	10964
+COVID-19 Crisis Response Approach Paper	10964,4527
 COVID-19 Crisis Response Approach Paper. Page	13331
+COVID-19 Crisis Shifts Cybersecurity Priorities and Budgets	15491
 COVID-19 Crisis. Geneva	12376
 COVID-19 Dampens Kenya’s Economic Outlook	10822
 COVID-19 Education Sector Development Grant	14000
 COVID-19 Effects	10718
 COVID-19 Emergency Cash Transfer	13332
+COVID-19 Emergency Response Project	15491
 COVID-19 Health Recovery Levy	7695,44
 COVID-19 Immunization	12977
+COVID-19 Impact	15518
+COVID-19 Import	16631
+COVID-19 Ischaemic	15725
+COVID-19 Jeudi	16012
+COVID-19 MS Composante	16012
+COVID-19 Maladie	15724
 COVID-19 PPE	12253
 COVID-19 PPEs	13332
-COVID-19 Pandemic	718,222,308,9470,183,1026,1035
+COVID-19 Pandemic	718,222,308,9470,183,1026,1035,2642
 COVID-19 Pandemic Joint	10718
 COVID-19 Pandemic and Rebuilding Better. Page	13332
+COVID-19 Pandemic. Capacity Building	16649
+COVID-19 Persons	16631
 COVID-19 Prevention	12253
 COVID-19 Private Laboratories	3583
 COVID-19 Project P173832	10829
+COVID-19 ROLLOUT Data Sharing	16631
+COVID-19 Regular Funds	15500
 COVID-19 Resource Mobilisation Committee	11131,3
 COVID-19 Response Facility	500
 COVID-19 Response and Management Plan The COVID-19	12253
@@ -108,7 +130,9 @@ COVID-19 Testing and Treatment Centres	14773
 COVID-19 Tracing Database	9969
 COVID-19 Urban Cash Intervention	10763,2215
 COVID-19 Vaccine Delivery Support	11401
+COVID-19 Vaccine Effectiveness Study	15725
 COVID-19 Works Projects	12253
+COVID-19 and Cash	15519
 COVID-19 and HIV	9969
 COVID-19 and NIDA	12328
 COVID-19 and Rwanda	12333
@@ -116,45 +140,72 @@ COVID-19 and Ukrainian	10965
 COVID-19-Outbreak Response	10919
 COVID-19-Pandemie	692,1
 COVID-19-and-Data-Rights-in-Uganda-Report-.pdf	2549
-COVID-19-related	9969,853,7,52
+COVID-19-related	9969,853,7,52,4637,465
 COVID-19. Activities	6003
 COVID-19. Aims	463
 COVID-19. And Strive	560
+COVID-19. Article	15478
 COVID-19. As Figure	13332
 COVID-19. Atténuation	10965
+COVID-19. Avec	15478
 COVID-19. COVID-19 Information Information	12253
+COVID-19. Ce	15591
+COVID-19. Ces Administrations	15478
 COVID-19. Cette	10712
+COVID-19. Compétences	15493
+COVID-19. Con	15478
 COVID-19. DPF3	10779
-COVID-19. Dans	643
-COVID-19. Des	4325
+COVID-19. Dans	643,14850
+COVID-19. Des	4325,12301
 COVID-19. Desarrollar	975
+COVID-19. D’après	16626
 COVID-19. Em	11543
+COVID-19. En	15474,4,15
 COVID-19. Este	11391
 COVID-19. Ethiopia	12188
 COVID-19. Execution	11916
+COVID-19. FINANCING Financing Source Original	15731
 COVID-19. Five	3549
+COVID-19. Households	15663
 COVID-19. Ideally	10919
 COVID-19. In Eswatini	1642
+COVID-19. Inequality	15515
+COVID-19. L'Article	15478
+COVID-19. La Organización Mundial de Comercio	15478
+COVID-19. Le Gabon	15500
+COVID-19. L’OMS	15724
+COVID-19. L’exécution	15493
+COVID-19. L’économie	15720
+COVID-19. PACAD	15658
 COVID-19. Performance	1212
+COVID-19. Pour	15493
+COVID-19. Poursuivre	15493
 COVID-19. Responding	11380
 COVID-19. Sci Afr	14666
+COVID-19. Selon le Rapport	16626
 COVID-19. Sexual and Reproductive Health	14742
 COVID-19. State of Digital Transformation	5700
 COVID-19. Table	718,10061
+COVID-19. The Embassy	16275
 COVID-19. The Program	10819
+COVID-19. Todas	15478
 COVID-19. Tous	11944
+COVID-19. Un	15493
 COVID-19. Une	643
 COVID-CT	11988
 COVID-era	304,473
-COVID-related	562
-COVID19	970,242,36,5579,3992,1671,898
+COVID-related	562,14916
+COVID. Composante	16012
+COVID19	970,242,36,5579,3992,1671,898,2105,97,11
 COVID19 SARS COV2 IRAS	966
 CRVS Coverage and Performance Overview	13005
 CRVS Coverage and Performance Overview While Malawi	13005
 Cabo Verde Covid Certificate Cabo Verde	11939
 Cadastral Coverage	12389
+Cameroun Health Coverage	16195
 Catering Guide Covers	13385
 Celebration of Universal Health Coverage Day	10776
+Centers Full Coverage of Drinking Water and Sewage	15578
 Centre Population Coverage and Empowerment KRA	6946
 Chief Executive Officer and Head of Coverage	10745
 Civil COVID-19	12253
@@ -164,6 +215,8 @@ Civil Society Organizations COVID-19 Corona Virus	12241,839,15
 Civil and Political Rights and International Covenant	13040
 Clarifications Overview Total NSR Coverage	11998
 Client LCR Liquidity Coverage Ratio LDC	14997
+Climate Change COVID-19 Coronavirus	15725
+CoC Code of Conduct COVID-19 Coronavirus Disease	15515
 Code Coverage Requirements	11952
 Communications and Technology Period Covered	13017
 Community-Based Childcare Centres COVID-19	12175
@@ -173,15 +226,17 @@ Comprehensive Coverage	11860
 Congo's COVID	11924
 Congo's COVID-19	11924
 Consumption. Covers	11269
+Context of COVID-19	15658
 Country Signing Certificate Authority COVID19 Coronavirus	13005
 Covax	760
 Covcifip	5829
-Covenant	3583,8618,758,81
+Covenant	3583,8618,758,81,2564
+Covenant Loan	15372
 Covenant University and Harvard University	10170
 Covenant University. Peter	10170
-Covenants	11924,1129
+Covenants	11924,1129,2319
 Coventry	12025
-Cover	961,39,6,10,581,180,205,6,573,398,1484,529,162,110,374,4,41,752,17,508,2676,191,958,10,37,89,19,57,29,1,142,3,119,608,69,279,11,15,147,102,173,900,1,910,472,160,11,213
+Cover	961,39,6,10,581,180,205,6,573,398,1484,529,162,110,374,4,41,752,17,508,2676,191,958,10,37,89,19,57,29,1,142,3,119,608,69,279,11,15,147,102,173,900,1,910,472,160,11,213,373
 Cover AI	12675
 Cover Crops and Mulches	1988
 Cover Letter	12754
@@ -193,15 +248,17 @@ Cover-Up	4261
 Cover-dated	1367
 Cover-up	12253
 Cover.jpeg	7590
-Coverage	706,12,525,283,18,400,352,196,661,313,396,439,245,17,682,507,299,101,93,348,161,68,34,512,422,95,241,5,812,56,104,9,504,143,61,104,15,890,27,108,21,146,25,37,44,25,72,521,2,149,208,19,140,16,56,12,51,155,66,16,169,9,372,19,18,129,407,149,423,181,53,103,53,18,48,101,26,141,42
+Coverage	706,12,525,283,18,400,352,196,661,313,396,439,245,17,682,507,299,101,93,348,161,68,34,512,422,95,241,5,812,56,104,9,504,143,61,104,15,890,27,108,21,146,25,37,44,25,72,521,2,149,208,19,140,16,56,12,51,155,66,16,169,9,372,19,18,129,407,149,423,181,53,103,53,18,48,101,26,141,42,187,208,62,62,711
 Coverage Area Proposed Frequency Band Proposed	736
 Coverage Areas	7368
 Coverage Broadband Ltd	3862
 Coverage Congo	6815
 Coverage Corridors	8999
 Coverage Errors Coverage	12383
-Coverage Geographic Coverage	13084,675
+Coverage Geographic Coverage	13084,675,1861,226
 Coverage Geographic Coverage National	15024
+Coverage Geographic Coverage National Coverage	15843,822
+Coverage Geographic Coverage National Coverage Producers	15844
 Coverage Geographic Coverage National Universe All	10862
 Coverage Infrastructure IN6	11857
 Coverage Is Not the Same	9112
@@ -240,21 +297,21 @@ Covered Data Systems. Page	4154
 Covered Data Systenn	3972
 Covered Date System	3972
 Covered Dats Systeme	3972
-Covered Entities	3861
+Covered Entities	3861,11929
 Covered Entities Application	3861
 Covered List	8921,94,1429
 Covered Pit	15206
 Covered Stockpiles	1988
-Covering	1988,8992,5,1047,119,260,1225,1527
+Covering	1988,8992,5,1047,119,260,1225,1527,1097
 Covering the African Charter the Maputo Protocol	8485
-Covers	236,26,23,14,105,38,88,117,43,112,150,10,12,114,71,383,1,23,1701,1237,664,194,303,758,2330,1019,83,1414,670,1446,1451,86
+Covers	236,26,23,14,105,38,88,117,43,112,150,10,12,114,71,383,1,23,1701,1237,664,194,303,758,2330,1019,83,1414,670,1446,1451,86,1446
 Covers Rwanda	508
-Covid	718,42,278,1269,360,11,1752,2104,1121,255,1710,1199,1078,42,67,145,244,90,437,26,8,22,1,353,27,173,910
+Covid	718,42,278,1269,360,11,1752,2104,1121,255,1710,1199,1078,42,67,145,244,90,437,26,8,22,1,353,27,173,910,1795,172,219
 Covid SRD	7910
 Covid Social Relief of Distress	2307
 Covid-	14736,161
 Covid-1	1940
-Covid-19	547,3,18,18,2,130,29,1,12,139,41,25,223,27,33,349,387,323,242,118,36,1506,396,68,683,1121,111,654,413,109,146,26,579,153,819,902,161,96,185,134,15,216,205,130,5,43,318,3,7,87,90,91,220,90,59,381,1,30,20,2,1,346,7,412,494,238,19,219,1,21,2,98,5,56,28,10
+Covid-19	547,3,18,18,2,130,29,1,12,139,41,25,223,27,33,349,387,323,242,118,36,1506,396,68,683,1121,111,654,413,109,146,26,579,153,819,902,161,96,185,134,15,216,205,130,5,43,318,3,7,87,90,91,220,90,59,381,1,30,20,2,1,346,7,412,494,238,19,219,1,21,2,98,5,56,28,10,539,19,11,49,15,12,104,1,283,660
 Covid-19 Associated Risk	12448
 Covid-19 Boosts Online Retail Sales. Retrieved	1243
 Covid-19 Crisis	899
@@ -266,17 +323,24 @@ Covid-19 Pandemic. Netherless	718
 Covid-19 Preparedness and Response Plan	14897
 Covid-19 SETIC	9799
 Covid-19 Social Relief of Distress	2307
+Covid-19 Strategic Preparedness and Response Project of US	15518
 Covid-19 TERS-related	7936
 Covid-19 Technical Taskforce	12978
 Covid-19 Temporary Employer	7936
 Covid-19 and Dengue	13744
 Covid-19 and E-Commerce. A Global	1243
+Covid-19 and Education	15604
 Covid-19 the CEL	14736
 Covid-19 the Competency-Based Curriculum	899
+Covid-19. Après	15848
 Covid-19. Cette	8891
+Covid-19. Comme	15580
 Covid-19. Information and Organization	10726
 Covid-19. L’exécution	10821
+Covid-19. L’organisation	15685
+Covid-19. Rémunération	15685
 Covid-19’s Impact	899
+Covid-PRUC-19	15685
 Covid-induced	899
 Covid-related	2678,10671
 Covid19	12403,519,298
@@ -290,13 +354,17 @@ Credit Information Coverage	12389
 Credit Reference Bureau Coverage	15023
 Cummulative Coverage	10985
 Current COVID	10829
+Current Coverage Older	15473
 Custom Risk Management Coverage	12389
 DHO COVID-19	12253
 DRC. Covers	88
+DSA. Coverage	15924
+DSCR Debt Service Coverage Ratio EIRR	15515
 DTT Population Coverage	6946
 Data Category Coverage Periodicity Timeliness SDDS	14777
 Data Collection and Institutional Coverage	15164
 Data Coverage	12389
+Data Coverage and Scope	16266
 Data Covered	5244
 Data Covered This Policy	5244
 Dedicated Parliamentary Coverage	12982
@@ -304,6 +372,7 @@ Deed of Covenant	14546
 Designeid.com Cover	12142
 Despite COVID-19	13359
 Diagnostico de COVID-19	2816
+Digital Economy Identification Version Coverage Producers	15843
 Digital Health for COVID-19 European Commission	631
 Digital Solutions for COVID-19 Response	10919
 Digital Terrestrial Television Population Coverage	6946
@@ -315,9 +384,14 @@ Dust Covers	34
 E DURANTE A PANDEMIA DA COVID-19	11531
 E-Learning and COVID-19	15163
 ECONOMIC OUTLOOK AND COVID RESPONSE	12922
+EGYPT AND THEIR COVERAGE LAND TENURE	15473
 ESTIMATING THE GLOBAL ID COVERAGE GAP	10714
 Ebola and COVID-19	9969
+Education Coverage Main	15661
 Education and Coverage	13991
+Egypt and COVID-19 URL	15519
+Egypt and COVID-191 Public Disclosure Authorized Social	15519
+Egypt’s UHC Service Coverage Index	15725
 Entities Covered This Policy	11995
 Entreprise le COVID-19	14488,1,1
 Estimating the Global ID Coverage Gap	10714
@@ -336,6 +410,9 @@ FAO’s Land Cover Meta Language	15129
 FCCPC Coverage	11857
 FCC’s Covered List	10444
 FDA. During the Emergency Use Authorization for COVID	4426
+FM Conditions and FM Covenants	15411
+FY Coverage	15663
+Facing the COVID-19	15447
 Factoring for COVID-19-	13332
 Factoring for COVID-19-induced	13332
 Financial Covenants	11855
@@ -357,7 +434,12 @@ G Network Coverage	11857
 G Network Coverage Outlook. Ericsson Mobility	5675
 G Population Coverage	13314,837,746
 G Sites and Respective Coverage	6946
+G5 Sahel.8 The Covid-19	15550
+GABON COVID-19 Strategic Preparedness and Response Project	15500
 GSMA Coverage	11857
+Gabon COVID-19 Additional Financing	15518
+Gabon COVID-19 Strategic Preparedness and Response Project	15518
+Gamboma and Ouesso. Coverage	15372
 Gavi and COVAX	11401
 Gender Coverage	7662
 Geographic Area and Coverage	11252
@@ -369,8 +451,10 @@ Geographical Coverage ATM	11955
 Geographical Coverage of Terminals	11955
 Geographical Coverage of Terminals ISLANDS OF CV	11955
 Global Coverage Strategic	13851
+Global ID Coverage	15474,19
 Global ID Coverage Estimates	10714
 Global System for Mobile Communications Coverage	13336
+GoG’s COVID-19	15518
 Government and COVID-19	14010
 Gross Official Reserves and Months of Import Cover	12962
 Group CCRSP COVID-19 Crisis Response Support	11863
@@ -404,19 +488,23 @@ IFC Real Sector Emergency COVID-19 Facility	500
 INTERNATIONAL COVENANT ON ECONOMIC	12936
 IPv6 Coverage	11878
 ISO’s Land Cover Meta Language	15129
+IV.4.4.2. La Covid-19	15685
 Impact of COVID	12333
 Impact of COVID-19	10718
+Impact of COVID-19 On Employment and Wages	15604
 Impact of Covid-19	899
 Impacts of COVID-19	14750
 Implementing Land Cover Ontology. Land	15129
 Import Cover Annual Headline Inflation Currency	11131
 Inadequate Coverage and Adequacy of Social Protection	12373
+Inclusion and Coverage Baseline Actual	15735
 Increase Broadband Coverage and Usage SO	6946
 India-made Covid	12979
 Infrastructure Coverage and ICT Networks	13331
 Inhabitants Percentage of Population Covered	12395
+Institutional Arrangement No Legal Covenants	16187
 Intended for Human Consumption. Covers	11269
-International Covenant	1630,1328,47,578,278,2673,417,507,1624,317,261,553,240,312,10,66,745,21,97,61,191,245,758,81,57,51,1286,308,119,13,15,118,29
+International Covenant	1630,1328,47,578,278,2673,417,507,1624,317,261,553,240,312,10,66,745,21,97,61,191,245,758,81,57,51,1286,308,119,13,15,118,29,932
 International Covenants	13948
 International Library for Land Cover Legends	15129
 Internet Coverage Gaps	14897
@@ -427,29 +515,40 @@ LCCS Land Cover Classification System LCHS	15129
 LCML Land Cover Meta Language LU	15129
 LEGAL Legal Covenants Page	1867
 LEGAL Legal Covenants Sections and Description	11905
+LEGAL Legal Covenants Sections and Description Benin	16144
 LEGAL Legal Covenants Sections and Description I	3562
 LEGAL Legal Covenants Sections and Description KOE	6539
-LEGAL Legal Covenants Sections and Description Schedule	3604,7164,792
+LEGAL Legal Covenants Sections and Description Page	15743
+LEGAL Legal Covenants Sections and Description Schedule	3604,7164,792,4098,3
 LEGAL Legal Covenants Sections and Description Section	11417
 Lack of Capacity for COVID-19 Health Emergency Response	14546
+Land Cover	15715
 Land Cover Classification System	15129
 Land Cover Classification System User Manual	15129
 Land Cover Dashboard	12718
 Land Cover Legend Registry. Land	15129
+Land Cover Map	15622
+Land Cover Map Dataset Availability	15622
+Land Cover Map The Cote	15622
+Land Cover Map URL	15622
 Land Cover Meta Language	15129
 Land Cover Meta Language and UML	15129
+Land Cover and Land Use Change Dataset	16463
 Land Cover and Land Use Ontology	15129
 Land Cover of Selected Study Areas	15129
 Land Registration Coverage	12389
 Legal Covenants	1228,56,10681,2945,66
 Legal Covenants Clients Additional Financing Loan	11924
 Legal Covenants Conditions Description	11855
+Legal Covenants No Conditions	15969
 Legal Covenants No Conditions No Implementation	4653
 Legal Covenants Page	13332
+Legal Covenants Sections and Description FA	15621
 Legal Covenants Sections and Description Financing Agreement	10964
 Legal Covenants Sections and Description Page	11525
-Legal Covenants Sections and Description Schedule	13331
+Legal Covenants Sections and Description Schedule	13331,2222
 Legal Covenants The World Bank CAR	10829
+Lingering COVID-19	15553
 Liquidity BNR MPFSS Coverage Ratio	14997
 Liquidity Coverage Framework	13868
 Liquidity Coverage Ratio	14744,253,26
@@ -467,12 +566,15 @@ Matlou. The COVID-19 SRD Regulations	4667
 Mauritius B. Coverage	14777
 Media Coverage	13053,1951
 Media Coverage MRA	13053
+Media Coverage Regulations Article	15393
 Medicines Wellness Coverage Providers Loading	9429
 Medium Risk System Covers	5665
+Microdata Identification Version Coverage Producers	15844
 Microsoft Office Dust Covers	34
 Milano. Covarrubias	12978
 Ministry of Education Cover	13999
 Ministry of Health and Wellness COVID-19 Pandemic	14742
+Ministry’s COVID-19	15725
 Mobile Coverage	11529,1007
 Mobile Network Coverage	6946,5449
 Mobile Network Population Coverage	13336,10
@@ -492,7 +594,9 @@ Nafa Quick' COVID-19	1687
 Namibia's Universal Health Coverage Policy	12421
 Namibian Schools and Health Facilities Network Coverage	1944
 National Comprehensive COVID-19 Management Handbook	1212
-National Coverage	13084,675
+National Coverage	13084,675,2087
+National Coverage Project	15372,181
+National Coverage Project PPA PCU Projet	15372
 National ICT Master The COVID-19	899
 National ID Coverage	13005
 National Land Representation System and Land Cover	15129
@@ -501,6 +605,7 @@ National Telecommunication Coverage Project	228,1
 National Telecommunication Coverage Project. The PBC	228,1
 National and Special Event Coverage	12982
 Nationwide Coverage	2776
+Nigeria COVID-19 Under-Bond Cargo Management Automation	16631
 Nigeria and Uganda. Covers	404
 No. Legal Covenants	11965
 Non-Renewal of Expired Insurance Cover	14546
@@ -511,6 +616,7 @@ Overlapping Coverages Cybersecurity	6993
 Overview of Internet Use Mobile Network Coverage	12214
 PASD-PE for COVID-19	12220
 PAYMENTS NETWORK COVERAGE	11002
+PCE No Risks No Legal Covenants	16032
 PMTCT Coverage	14742
 POLICIES COVID-19	11863
 POPULATION WITH COVERAGE	13336
@@ -557,11 +663,13 @@ Results Legal Covenants Clients	11924
 Rights Foundation. Cover	6029
 Risks of COVID	10963
 Rwanda's COVID-19	12333
+République du Congo COVID-19	15493
 S9IFNN7OyA Impact of Covid-19	899
 SECURTIY FRAUD NO COVERAGE SPEEDS INTERNET	11964
 SECURTIY FRAUD NO COVERAGE SPEEDS USE	11964
 SENI-REDISSE IV- COVID-19 PIU The World	10829
 SOCIAL PROTECTION COVERAGE Despite	11998
+SPECIAL COVENANTS	15399
 Safety and Security With the COVID-19	14736
 Satellite-Based Land Cover Mapping and Monitoring	12667
 Schedule No Legal Covenants No Conditions	2473
@@ -575,21 +683,29 @@ Senegal's Universal Health Coverage	3673
 Somalia Covers	14964
 Somalia Legal Covenants	14910
 South Africa. Covers	927
+Spatial Coverage Update Frequency License Access	15714
 Special COVID-19 Social Relief of Distress Grant	6832
 Special Envoy for Covid Response	6667
 Standard for Edible Fats and Oils Not Covered	15027
 Sub-Saharan Africa. Covers	1167
 Sub-locations Covered	6946
 Substantial LEGAL COVENANTS1 LEGAL COVENANTS	1284
-Substantial. The COVID-19	13331
+Substantial. The COVID-19	13331,2187
 Successive COVID-19	13532
 Sud- Covid-19	10965
 Summary of Global Immunization Coverage	8376
 Supplemental Coverage	6246
 Support of Universal Health Coverage	14434
 System Information Coverage Area	736
+São Filipe Cova Figueira Mosteiros	16325
+T COVID-19 GAMBIA National Team Capacity	16631
 TB Tuberculosis UHC Universal Health Coverage	12729
 TMO TMU THIMO Coverage	10985
+TRANSFERS COVERED	15600
+TRANSFERS COVERED The Electronic Transfer Levy	15600
+TRANSFERS NOT COVERED	15600
+TRANSFERS NOT COVERED The Levy	15600
+Tags Publisher Contact Email Temporal Coverage	15714
 Temporal Scope and Lifecycle Coverage	7548
 Time of COVID-19	10768
 Timelines Coverage	14777
@@ -597,9 +713,13 @@ Times of COVID-19	969
 Toward Efficient Land Cover Mapping	15129
 Towards Universal Health Coverage	12376
 Transverse Mercator Busanze Land Cover	12413
+Tropical Tree Cover	16359
 Trulioo Extends Identity Verification Coverage	10822
 UHC Service Coverage Index	13166
+UHC Universal Health Coverage UNICEF United	15556
+UN Covenant	15604
 UN International Covenant	3583,1
+UNE MISSION INTERROMPUE PAR LA COVID-19	16400
 UNIVERSAL COVERAGE	10765
 UNIVERSAL COVERAGE AND ACCESSIBILITY	10775
 UNIVERSAL HEALTH COVERAGE	10776
@@ -608,10 +728,11 @@ UNIVERSAL HEALTH COVERAGE Improved Access	10776
 URBAN POPULATION COVERAGE	11211,51
 Ubiquitous Coverage	13295
 Uganda. ESTIMATING THE GLOBAL ID COVERAGE	10714
+Under the Fast Track COVID-19 Facility	15518
 United Nations International Covenant	3583
 Universal Access Cove Crosswalk	193
 Universal Coverage Scheme	9804
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177
 Universal Health Coverage Day	10776
 Universal Health Coverage Roadmap	9204
 Universal Health Coverage Services	13982
@@ -619,19 +740,31 @@ Universal Health Coverage System	11536
 Universal Health Coverage UKB	10776
 Universal Health Coverage WHO World Health	9855
 Universal Health Coverage World Bank Group	11468
+Universal Health Coverage and Health	15556
 Universal Health Coverage. Similarly	11536
+Universal Health Service Coverage Index	15725
+Universal Registration Coverage	16520
 University of Botswana Cover	12533
 Using the Land Cover Classification System	15129
 Vaccination Coverage	14067
 Vodacom Bolster DRC Rural Network Coverage	2278
 WB DDP COVID	463
 WBG COVID-19	11380
+WBG COVID-19 Crisis Approach Paper	15553
+WBG COVID-19 Crisis Response Approach Paper	15518
+WBG’s COVID-19 Approach Paper	15518
+WBG’s COVID-19 Crisis Response Approach Paper	15518
 WBG’s COVID-19 Crisis Response Approach64	13331
 Wednesday. Coverage	11942
+Weeks of COVID-19	15604
 West African Land Cover Reference System	15129
+Women COVID-19	16631
+Women COVID-19 Fully Integrated Customs System	16631
 Working Group UHC Universal Health Coverage	12240
 World Bank COVID-19	11905
 World Bank Digital Development Partnership COVID-19	463
+World Bank Group COVID-19 Crisis Response	15491,62
+World Bank Group’s COVID-19 Crisis	15511
 World Bank’s COVID-19	13332
 World Bank’s COVID-19 Crisis Response	10829
 World Intellectual Property Organization COVID-19	13312,2

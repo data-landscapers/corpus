@@ -12,6 +12,7 @@ Primary Pupil Teacher Ratio	12175,883
 Pupil	10969,910,5,1,10,265,15,29,1,146,4,132,2409
 Pupil Enrolment and Number of Teachers	2775
 Pupil Teacher Ratio. Reducing PTR	12175
+Pupil- Teacher Ratio	15604
 Pupil-Classroom Ratios Between	12411
 Pupil-Section Ratio	12199
 Pupil-Teacher Ratio	12199
@@ -19,4 +20,5 @@ Pupil-Trained Teacher Ratios	12411
 Pupil-teacher	12159
 Pupil-textbook	14896
 Pupils	3331,8548,450,1192,1221,154
+PupilĞteacher	15604
 System PCR Pupil Completion Rate PI	2775

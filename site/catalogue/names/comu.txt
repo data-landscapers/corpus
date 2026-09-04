@@ -24,22 +24,27 @@ COMUNICADO	11415
 COMUNICADO AOS UTENTES Reenvio de Processos	11415
 COMUNICAÇÃO	2816,1693
 COMUNICAÇÃO E SISTEMA DE INFORMAÇÃO	11531
+COMUNICAÇÃO SOCIAL PÚBLICA	16487
 CPLP A Comunidade	2816
 CPLP Comunidade	11545
 Carta da Comunidade	11393
 Centros Infantis Comunita	11387
 Centros Multimédia Comunitários	12835
 Chefes de Estado da Comunidade	11531
+Ciências da Comunicação	15978
 Comissão da Comunidade Económica	8051
 Comum	6462,4922
 Comuna	11373,36,12,25,131
 Comuna. Os	11366
 Comunais	11421,1,3,21,131
 Comunas	11373,36,16
+Comunhão	15470
+Comunhão Geral	15470
 Comuni	11514
 Comunica	10755
 Comunicacao Social	11045
 Comunicaciones	1701,1793,715
+Comunicaciones Celulares	15471
 Comunicación	163,1538,1328,1180,3874,2355
 Comunicación A2 Oficial de Comunicación A3 Recepcionista	4209
 Comunicación Audiovisual	9303
@@ -48,13 +53,19 @@ Comunicación IED	1701
 Comunicación UNESCO	1701
 Comunicación. En la Cámara	9303
 Comunicación. Este	9320
-Comunicacoes	1526
+Comunicacoes	1526,13965
 Comunicacoes de Mocambique	1526
 Comunicado	8578,2881
 Comunicado Final	4147
-Comunicar	163,2658,7934,629,54,5,83,375
-Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317,245,43,3,11,2,1,2,3,4,4,4,2,1,42,2,4,2,1,4,9,70,11,27,13,1,126,192,64,53,1,37,238,480,13,4,8,2,4,4,1,13,4,3,10,6,1337
+Comunicado de Imprensa	15962
+Comunicado de Imprensa Publicado	16343
+Comunicar	163,2658,7934,629,54,5,83,375,3457,30,3
+Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317,245,43,3,11,2,1,2,3,4,4,4,2,1,42,2,4,2,1,4,9,70,11,27,13,1,126,192,64,53,1,37,238,480,13,4,8,2,4,4,1,13,4,3,10,6,1337,1176,32,1,4,8,72,1,26,1,5,17,46,394,56,6,28,248,1,16,4,51
+Comunicação Ao	16325
 Comunicação Decorreu	12799
+Comunicação Empresarial	15772
+Comunicação Empresarial da Universidade de Santiago	16290
+Comunicação Estratégica Planeamento	15966
 Comunicação IM Mediador	11555
 Comunicação Institucional	1192,9580
 Comunicação Instituto Nacional de Avaliação	10766
@@ -64,14 +75,16 @@ Comunicação O Conselho de Ministros	12813
 Comunicação PAAO Plano de Ação Anual Orçamentado	11557
 Comunicação Prévia	11458
 Comunicação S	539
-Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487,522,2506
+Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487,522,2506,164,32,447
 Comunicação Social Artigo	12311
 Comunicação Social Sublinhou	5974
 Comunicação Social. Artigo	12311
 Comunicação Social. Disse	3906
 Comunicação TUPPI	11387
 Comunicação UA	2816
+Comunicação UE União Europeia USD Dólar	15535
 Comunicação Unidades Curriculares Horas	12019
+Comunicação Visual	15772
 Comunicação da Adopção da Computação	11377
 Comunicação da UAN	11411
 Comunicação da UEM	8827
@@ -87,7 +100,7 @@ Comunicação. Perfil de Entrada	12019
 Comunicação. Sob	167
 Comunicações	13,2,1200,13,49,855,163,139,3,379,50,661,366,254,71,56,181,53,594,1360,360,148,29,736,265,70,737,20,31,72,11,409,84,125,135,392,54,411,196,613,22,20,13,13,2,31,24,34,1,11,11,27,13,127,433,14,631,34,1,1,7,10,1502
 Comunicações Electrónicas	15,1200,2388,4706,2438,8,15,1,625,1,18,13,2,1,2,136
-Comunicações Eletrónicas	4435
+Comunicações Eletrónicas	4435,11091,1032
 Comunicações Eletrônicasetc	11456
 Comunicações INACOM	11415,13
 Comunicações Móveis	15
@@ -108,18 +121,20 @@ Comunidad Nacional	1701
 Comunidad de Desarrollo	8881
 Comunidad de Países de Lengua Portuguesa CSU	1701
 Comunidad de Vecinos	4209
-Comunidade	2618,248,3705,1480,1185,1546,580,31,2,60,76,38,632,83
-Comunidade Económica	5402,1169,4473,487,11,27
+Comunidade	2618,248,3705,1480,1185,1546,580,31,2,60,76,38,632,83,3251,841
+Comunidade Económica	5402,1169,4473,487,11,27,3935,31
 Comunidade Económica Regional	11542
+Comunidade Económicas Regionais	15477
 Comunidade Integrada	1256,84,743,2330
 Comunidade Local	11514
 Comunidade de Desenvolvimento	5974,2880,142,1087,1367
 Comunidade de Países de Língua Portuguesa DLI	2816
 Comunidade de Tecnologia	12284
 Comunidade. Através	2688
-Comunidades	2688,8063,662,12,89,9,4,42
+Comunidades	2688,8063,662,12,89,9,4,42,4003,915
 Comunidades Afectadas	11390
 Comunidades Angolanas	539,10897
+Comunidades Emigradas	16022
 Comunidades Locais	11514
 Comunidades Locais Tradicionais	11390
 Comunidades Ministério	11569
@@ -134,9 +149,11 @@ Comunitário AEC Avaliação Externa Conjunta	11376
 Comutador	11519
 Conductor B1 Oficial de Comunicación A1 Recepcionista	4209
 Conductor B2 Oficial de Comunicación B2 Recepcionista	4209
+Conselho Diretivo GCDC Gabinete de Comunicação	15535
 Conselho Municipal de Auscultação da Comunidade	11373
 Conselho Nacional de Comunicação Social	11513,48
 Conselho Superior da Comunicação Social	12311,522
+Conselhos Locais de Desenvolvimento Comunitário	16487
 Coordenação Escolar Comunal Centro de Formação Local	10766
 Coordenações Comunais da Educação	10766
 DAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO	11396
@@ -158,10 +175,12 @@ Director de Comunicações	12835
 Director. O Gabinete de Comunicação Institucional	167
 Direito da Comunicação Social	11358
 Direitos Humanos Jurisdição Comum	10752
+Diretora de Comunicação	16193
 Documento de Comunicación Estratégica	14215
 E COMUNICAÇÃO E DA SOCIEDADE	15
 E COMUNICAÇÃO E DOS SERVIÇOS	15
 E COMUNICAÇÕES CAPÍTULO I DISPOSIÇÕES GERAIS	11520
+E UMA COMUNICAÇÃO SOCIAL INDEPENDENTE. REFORMA	16487
 EXPANSÃO DOS SERVIÇOS DE COMUNICAÇÕES NOS	1215
 EXPOSIÇÃO AOS MEIOS DE COMUNICAÇÃO	10777
 Educación Física Institucional Comunitaria	4209
@@ -173,18 +192,22 @@ Equipamento de Comunicação Móvel	10747
 Equipamento de Comunicações Electrónicas	10747
 Estatutos da Comunidade	12842
 Estrategia de Comunicación	8048
+Estratégia de Comunicação	15535
 Estratégia de Comunicação da CNPD	1338
 FUNDO DE DESENVOLVIMENTO DAS COMUNICAÇÕES	11397
+Formação de Agentes Comunitários	16000
 GABINETE DE COMUNICAÇÃO SOCIAL DO GOVERNO	11427
+GARANTIR A INDEPENDÊNCIA DA COMUNICAÇÃO SOCIAL	16487
 GASTOS COMUNES Y OBLIGACIONES DIVERSAS	4209
 GASTOS COMUNES Y OBLIGACIONES DIVERSAS Cuentas	4209
-Gabinete de Comunicação	2816
+Gabinete de Comunicação	2816,13162,365
 Gabinete de Comunicação Direitos Humanos	10752
 Gabinete de Comunicação Institucional	167,10586,696
 Gabinete de Comunicação NESTA EDIÇÃO Institucional	10750
 Gabinete de Comunicação Tomada de Posse	10752
 Gastos Comunes	4209
 Grupos Técnicos Comunais	11421,25,131
+I Plano Nacional de Comunicação de Risco	15966
 INFORMAÇÃO E COMUNICAÇÕES ARTIGO	11520
 INSTITUTO ANGOLANO DAS COMUNICAÇÕES	11415,3
 Inteligência Artificial da Escola de Comunicação	3334
@@ -203,6 +226,7 @@ Lei de Comunicação Social	12833
 Lobito. Gabinete de Comunicação Institucional	11474
 MINISTÉRIO DOS TRANSPORTES E COMUNICAÇÕES PROJECTO	11542
 MUNICÍPIOS E NAS COMUNAS	1215
+Manuel Cabral Comunicado de Imprensa	15962
 Meios de Comunicação	10777,627
 Meios de Comunicação Social	11562
 Mercado Comum	7945,649
@@ -239,8 +263,10 @@ Operadores de Comunicações Electrónicas	6970,4460,1
 Os Operadores de Comunicações Electrónicas	15,11415
 Partido Comunista da China	11045
 Partners Hidroeléctrica de Cahora Bassa Comunidade	9409
+Plano Nacional de Comunicação de Risco	15966
 Plataforma Comum de Comunicação de Dados	12774
 Plataforma de Comunicação VoIP	11939
+Polos de Integração Digital da Comunidade Educativa	15564
 Política de Comunicaciones	1701
 Política de Comunicaciones ODS	1701
 Política de Medios de Comunicación	1701
@@ -259,8 +285,10 @@ Redes de Comunicações	11534
 Redes de Comunicações Electrónicas	10747,683,1
 Redes de Comunicações Electrónicas Privativas	11430
 Regime Jurídico da Comunicação	4075,7308,50
+Regime Jurídico da Comunicação de Irregularidades	15477
 Registo de Operadores de Comunicações Electrónicas	11430
 Regulador de Comunicações Electrónicas	11430
+Rádio Comunitária de Espargos	15978
 SECÇÃO III COMUNICAÇÃO E INTERCONEXÃO	14
 SECÇÃO III Comunicação	11461
 SECÇÃO IV COMUNICAÇÃO	11430
@@ -275,10 +303,13 @@ Segurança Comunitárias Relevante Os	11542
 Segurança de Redes de Comunicação de Dados	6970
 Servicios de Comunicaciones Electrónicas	9543
 Servicios de Comunicación Audiovisual	9303
+Serviço Público de Comunicações Eletrónicas	15526
+Serviço Público de Comunicações Eletrónicas URL	15526
 Serviço Universal de Comunicações Electrónicas	11430
 Serviço de Comunicações Electrónicas	11430
 Serviços de Comunicações Electrónicas	11430,1
 Serviços de Comunicações Electrónicas Especiais	11430
+Sistema Global de Comunicação	15564
 Sistema Nacional de Comunicaciones	4209
 Sistema Nacional de Comunicación Social	1701
 Sistema Nacional de Comunicações Electrónicas	15
@@ -289,6 +320,7 @@ TEMPO MÉDIO GLOBAL DE COMUNICAÇÃO POR	11531
 TIC NAS COMUNIDADES RURAIS	11397
 TV Cabo Comunicações Multimédia	7381
 Tecnologias da Comunicação	12019
+Tecnologias de Comunicação	15772
 Telecomunicações da Comunidade	11531
 Tempo Real da Comunidade de Desenvolvimento	6360
 Tipo de Comunicação	10747

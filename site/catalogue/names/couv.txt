@@ -1,22 +1,36 @@
+Afrique Centrale PCN Couverture Nationale	15493
 Annexe A Tableau A.7 Couverture	13300
 Annexe A Tableau A.9 Couverture	13300
+COUVERTURE	15999
 COUVERTURE ET CONTENU DES SOINS PRÉNATALS	13300
 COUVERTURE PAR UNE ASSURANCE MÉDICALE	13300
 COUVERTURE RÉSEAU ET CONNECTIVITÉ EN MILIEU	13590
 COUVERTURE SANITAIRE UNIVERSELLE	14622
+COUVERTURE TERRITORIALE	15943,352
 COUVERTURE. C’EST LE NUMÉRO	13300
+CSU Couverture	15724
+Chef du Couvernement	15416
 Conditions Couverture	747
-Couverture	737,10,440,1437,722,4372,1998,1,1201,1026,1346,10,25,89,28,247,933,672
+Couvernement	15416
+Couverture	737,10,440,1437,722,4372,1998,1,1201,1026,1346,10,25,89,28,247,933,672,129,51,19,3,46,131,42,9,161,51,2,5,56,26,281,315,5,1,14
 Couverture ARV	3396
 Couverture Couverture	13804
-Couverture Maladie Universelle	3045,559,4201,53,5857
+Couverture D’autre	16195
+Couverture Maladie Universelle	3045,559,4201,53,5857,1781,215,1,45,179,96
+Couverture National	15936
+Couverture Nationale	15372
+Couverture Penta	16722
 Couverture Population	419
-Couverture Sanitaire Universelle	7641,217,6764
-Couverture Santé Universelle	9273
+Couverture Sanitaire Universelle	7641,217,6764,801,262,1037
+Couverture Sanitaire Universelle. Pour	15711
+Couverture Santé	16195
+Couverture Santé Universelle	9273,6922,137,106,3
+Couverture Vaccinale FAC	15685
 CouvertureMobile	14509
-Couvrant	3106
+Couvrant	3106,13104,411
 Couvre	1187
 Extension Couverture	3537
+II. Couverture	15943
 III.3.9. Couverture	13414
 IV.1.1.8.4 Couverture	10876
 Institutions Couverture	13442
@@ -28,10 +42,14 @@ Ménages Couverture	13300
 OPERATEUR LONGUEUR DE LA COUVERTURE FIBRE	13414
 OPERATEURS BBS ESPACE COUVERT	13324
 Projet de Couverture	11529
+Projet de Couverture Nationale	15372,83,58,40
 R.2.1.1. La Couverture Sanitaire Universelle	13325
 SUR LA PAGE DE COUVERTURE. C'EST	13300
+Santé. Couverture Santé Universelle	16195
+Santé. Couverture Santé Universelle. Accédé	16195
 Statistics Centre de Santé de Base Couverture Sanitaire	14622
 Suite Couverture	13300
+Surveillance du Couvert Forestier	15366
 TAUX DE COUVERTURE DU TEST	13300
 Tableau A.10 Couverture	13300
 Tableau A.7 Couverture	13300
@@ -39,5 +57,6 @@ Tableau A.8 Couverture	13300
 Tableau A.9 Couverture	13300
 Taux de Couverture	13390
 Taux de Couverture Excellente	13390
+Taux de Couverture Vaccinale TMN	15475
 Technologies Couverture Couverture	13414
 VÉRIFIEZ LA PAGE DE COUVERTURE	13300

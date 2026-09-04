@@ -1,14 +1,27 @@
-ACLED Armed Conflict Location	11887,267
+ACLED Armed Conflict Location	11887,267,3561
 ACRONYMES AFD ARMP ARTEC BAD BIANCO	14425
 ACRONYMS AF Additional Financing ARMP Burundi	1284
+AF Additional Financing ARME Multisectoral Regulation	15983
+ANOR ANTIC API APICCAM ARMP ARSEL	15542
 ARMAAN LTD Data Controller INST-284135866B1 NAIROBI	7167
 ARMANDO EMILIO GUEBUZA	1829
 ARMANDO NDAMBI GUEBUZA	1829
 ARMD URL	13888,38,7
+ARME BLINDEE ET CAVALERIE	15744
+ARME BLINDEE ET CAVALERIE C	15744
+ARME BLINDEE ET CAVALERIE III	15744
 ARME Multisectoral Regulation Agency	11965
 ARME and MMEAP	11965
 ARME and NOSi	11965
 ARMED	10776
+ARMEE DE L’AIR	15744,157
+ARMEE DE L’AIR Capitaine OKOUMOU TUEYRES	15744
+ARMEE DE TERRE	15744,157
+ARMEE DE TERRE B	15901
+ARMEE DE TERRE II	15744
+ARMEE DE TERRE Lieutenant MOUANDHA	15744
+ARMEE DE TERRE SECTION	15744
+ARMEMENT	15744
 ARMIX	14468
 ARMOIRE	13300
 ARMOR	11469
@@ -16,17 +29,20 @@ ARMOR EAST AFRICA IMAGING SUPPLIES LIMITED	7167
 ARMOURY Land Fraud	14760
 ARMP Accelerating Governance Institutional Reforms General	11905
 ARMP Bon Réseaux	14539
+ARMP Citizen	15518
 ARMP Coordonnateur Général des Activités	14539
 ARMP Gère	10876
 ARMP Mise	10876
 ARMP Procurement Regulation Authority	969
 ARMP Public Procurement Regulatory Authority	10829
+ARMP Regulatory Agency for Public Procurement	15518
 ARMP Regulatory Authority for Public Contracts ATM	13312,2
 ARMP Semiannually Report	11905
 ARMP-	8021
 ARMP-3	8021
 ARMP-4	8021
 ARMP-5 and ARMP-1	8021
+ARMP. Afin	16583
 ARMP. Relation	10829
 ARMYTEX INTERNATIONAL SECURITY SERVICES LIMITED Data	7167
 Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
@@ -34,19 +50,30 @@ Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Armed Conflict1	11889
 Absence of Armed Conflict2	12352
 Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1,135
+Adjudant TSOUMBOU TSOUMBOU Armand	16381
 African Development Bank ARMD Djibouti Multisector	13885
 Angola Dominica Argentina El Salvador Armenia	10764
 Arm's Length	11976
+Arma da República de Cabo Verde	15380
 Armada	6636
 Armadas. Tem	10752
 Armadilha	10751
 Armagh Avenue	4896,642
 Arman	15342
 Arman Doskaliev	10714
+Armand	15615,560
+Armand Augustin	16100
+Armand Carmef MOUTSINGA	16175
 Armand Christ Kiyaloulou	11897
+Armand Enoch	15615
+Armand Fortuné	15744
 Armand Hatchuel	8891
 Armand Hatchuel Ahmed Abaddi Fouad Ben	8891
+Armand Juldace	15524
 Armand M. ZINGIRO	12358
+Armand Marius	15744
+Armand Mizaire	15524
+Armand Nazaire	15524
 Armand Swart	6727,7630
 Armand ZINGIRO Chief Executive Officer Pagevii	12358
 Armand Zingiro	15049
@@ -57,30 +84,55 @@ Armando Guebuza	2667
 Armando Tchoba	11561
 Armas	11513
 Armas Amukoto	10148
+Armas Nacionais	15344
 Armas da República da Guiné-Bissau	11513
+Armas da República de Cabo Verde	15344
 Armazenagem de Armas Bacteriológicas	11365
 Armazenagem de Armas Químicas	11365
-Armazenamento	6970
+Armazenamento	6970,8389
+Armazenamento de Dados	15684
+Armazenar	16027
 Armazéns de Medicamentos Prestadores	6970
-Armed	3583,1057,2307,390,572,1707,1213,108,80,840,922,2469
+Armed	3583,1057,2307,390,572,1707,1213,108,80,840,922,2469,1188
 Armed Conflict	10835,3,130,902,16,466,1,135,2254
+Armed Conflict Location	15715
+Armed Conflict Location and Event Data	16359
 Armed Conflict1	12353
-Armed Forces	5270,4779,1468,340,2885,256,344
+Armed Forces	5270,4779,1468,340,2885,256,344,51,80
 Armed Forces Health Services	11401
+Armed Forces Operations Authority	15473
 Armed Forces SARHO Sudanese Agency for Relief	6947
 Armed Forces SLA Sudan Liberation Movement	15342
 Armed Forces and Nigeria Security and Civil Defence	10254
+Armed Forces.53 Figure	15473
+Armed Forces’ Information Systems Department	16046
 Armed People	11131,3
 Armed Robbery	12984
 Armed Services Integrated Information System Establishment	246,92
+Armel	15615,165
+Armel Aymar	15901
+Armel Danny OBANGA. MMES	16381
+Armel Fridelin	15488
+Armel ITOUA	15685
+Armel Marius	15744
 Armel Ndoumba. L'attestation	2854
+Armel Odilon Romary	15426
+Armel Rodrigue	16100
+Armel Samoue	15493
+Armel Severin	15744
+Armelle Claire NEWMAN ETEGUE	16175
+Armelle Nambessa Ndoubenoue Albert Francis Atangana	16436
 Armelle Ouédraogo	7353
 Armelle Ouédraogo Dalilha Ky	10125
-Armenia	6849,2233,88,1615,59,2,159,351,253,285,1078,148,1348
+Armelle Ouédraogo Lefaso.net	16448
+Armement	16047
+Armenia	6849,2233,88,1615,59,2,159,351,253,285,1078,148,1348,1003
 Armenia Aruba Australia Austria Azerbaijan Bahamas	11470
 Armenia MINASYAN	6613
 Armenia Public Sector Modernization Project II	13331
 Armenia Yes Governmental Decree	11529
+Arminda Barros	15982
+Armoire Informatique	16395
 Armok Auctioneers Data Processor INST-501456115AC BUNGOMA	7167
 Armon Technologies Limited Data Processor INST-157179C1A5A	7167
 Armonización	1701
@@ -95,11 +147,15 @@ Arms of Government	4535
 Armstrong Kadyamatimba	2093
 Armutsgrenze. Frauen	615
 Army Barracks	12962
+Army Chief of CAR	16277
 Army Engineering University	8510
+Army Staff	16331
+Army Staff of India	16331
 Army Taggadum Sudanese Coordination of Civil Defensive	15342
 Army and Defense Agency Sector	8141
+Army and Security	15553
 Armário	794,9983
-Armée	3520,1138,180,2121,846,194,270
+Armée	3520,1138,180,2121,846,194,270,7187,97,5,134,35,127
 Armée ABDOURAHAMANE TIANI	3305,8292
 Armée Abdourahamane TIANI	9287,55
 Armée Abdourahamane Tiani	3967,22,50,763,11,1281,1239,220,440,2161,338
@@ -107,39 +163,71 @@ Armée Abdourahamane Tiani. Il	9567
 Armée Assimi GOITA	1967,5876,394,32,1018,55
 Armée Assimi GOÏTA	1968
 Armée Assimi Goïta	7926,1033
+Armée Gaylord OSSAVOU AUGUSTIN	16099
+Armée KOYI Féli	16381
+Armée Nationale Populaire	15456,51,48,708
+Armée OSSIMA NDONG Jean Martin	16381
 Armée Philippe MANGOU	7805
 Armée Saïd Chanegriha	4838,2214
-Armée du Salut	11916
+Armée du Salut	11916,3474,810
+Armée du Salut. Ce	16200
 Armée-Nation	3396
-Armées	5907
+Armées	5907,9516,552
+Armées Congolaises	15405
+Armées Taux	15999
 Arménie	5361,1252
 Barbuda Argentina Armenia Australia Austria Azerbaijan	11765
 Board THE EXECUTIVE MANAGEMENT Armand ZINGIRO	12358
 Body The Armauer Hansen Research Institute	14094
+Brice Armel	15744
+Brigadier-Chef LOUNDOU MBOUMI Armand David	16175
 British Army	11783
+COM’ ARMP	16703
 CONT. ARMADAS INSULAR INSULAR REG.CONT	4209
 Capacidade De Armazenamento Cresce	8827
 Capacity Strengthening for ARME	11965
 Central Armoury	14760
+Chef Suprême des Armées	16641
+Chief of Staff-General Deputy of Armed Forces	16649
 China's People's Liberation Army	7870
 Coat of Arms	13294
 Commonwealth of Independent States Armenia Azerbaijan	10764
 Conflitos Armados	11562
+Conseiller Armement	16381
+Conseiller Armée de Terre	16381
 DGMP and ARMP	10829
+DISARMAMENT AND ARMS CONTROL	15825
+Dadet Armand Olivier	15524
 Darfur and Kordofan Regions. The Sudanese Armed	15342
+Davy Armel	15524
 Decent Housing Absence of Armed Conflict	10838
 Djámanca MctorCassamá Armando Mango Guilherme Damas	11544
 EQUIPARACION Y ARMONIZACION DE SALARIOS	4209
 ESTADO MAYOR DE LAS FUERZAS ARMADAS.-Concepto	4209
 Eng. Armand Zingiro	12358
 Eric Armel N’Doumba	1814
+Etat-Major des Forces Armées	16370
+Eudes Armand ANDJOUA	16175
 Event of Armed Conflict	14409
 Events ARM	2552,1639,797
+Executive Arm	16212
+FACA Central African Armed Forces	15415
+FINANCIERES ARMEE DE TERRE	15744
+FORCES ARMEES CONGOLAISES	15744,157
+FORCES ARMEES CONGOLAISES B	15744
+FORCES ARMEES CONGOLAISES Commandant PAMBOU TCHICAYA	15744
+FORCES ARMEES CONGOLAISES MINISTERE	15744,157
+FOSA des Forces Armées Congolaises	15685
 Fall Armyworm	12931,435,1503
+Ferryse Armel MICKALA NDJEGOU	16175
 Force Armée Congolaise	5103
-Forces Armées	7843,394,3663
+Forces Armées	7843,394,3663,4465
 Forces Armées Burundaises. Pour	13329
-Forças Armadas	11513,56
+Forces Armées Centrafricaines FCR Financial Crime	15415
+Forces Armées Congolaises	15405
+Forces Armées Congolaises FHVE	15685
+Forces Armées Congolaises MVE	15423
+Forças Armadas	11513,56,3775,44,8,108,458,94,320
 Forças Armadas Angolanas	14,4133,6636
 Forças Armadas Revolucionárias	11513
 Forças Armadas. Artigo	14
@@ -150,28 +238,54 @@ GAHUNGU Armand Conseiller Expert	13341
 GOVERNMENT CENTRE PLACE D’ ARMES	14778
 Gambia Arm Forces	1000
 Gambia Armed Forces	8611
-Ghana Armed Forces	587,7108
+Ghana Armed Forces	587,7108,8816
+Gildas Armel	15524,91
+Girls and Young Women ARME Multisectoral Economic	15491
+Guy Armand BIGUAGOU	16175
 HDP Groupes Armés Terroristes	643
 HELENA MARISA ARMANDO MUCHINENE	10750
 Humanitarian Operations SLA Sudan Liberation Army	6947
+Hôpital Central des Armées Pierre Mobengo	15685
+ILLICITE DES ComNat-ALPC ARMES LÉGÈRES ET	15936
 INAGE Desenvolve Sistema de Armazenamento de Arquivos	570
 INFORMATIQUE BUTERA FRANCOIS Armand HAVYARIMANA Jean	13300
 INSPEC. GRAL DE LAS FUERZAS ARMADAS.-Concepto	4209
+Ilícito de Armas de Fogo	15359
+Indian Armed Forces	16331
 Indian Army	11925
+Instruction des Armées HP	15475
 Integrated ID Armenia Civil Registry	10714
 Internacional FAA Forças Armadas de Angola FAO	11376
 Ivoire Gala Armand KOUAME Conseiller Technique	10708
 Jorge Benício Armindo Benildo Joaquim Helena	2989
 Kpanou Jean Armel	1806
 Las Fuerzas Armadas	1701
+Legal Metrology Department and Michael Armah	16232
+Lieutenant LOMBAT Hugues Armand	16381
 Light Armoured Personnel Carriers	14830
+M. Armand Roland BOULOUPY PITHER	16175
+M. Armel Aurey YOUBOU TSOUMOU	16175
+M. BOYOMO Armand	16195
+M. Tiburce Armand NZIENGUI BOUSSOUGOU	16175
 MFPTE MINEDU OBR ARMP New Technical	1284
+MTS Armenia CJSC	15471
 Mail M. Jean Armand Yanogo Directeur	10812
 Managing Director. Armin Wieland	11707
+Maxar Technologies The Armed Forces	15473
+Ministre Armand Kuyema NATTA	16535
+Mme Armelle MBAZOGHE ELLA SOCIETE GABONAISE	16381
+Mme BAHOUNOUI BATENDE ARMELLE	16328
+Mme Juliette Armande MEDZA M’AKOUE. Secrétaires	16381
+Mme Manuela Armelle KOUBDJE NIAMBOU	16099,76
+Mme. Armelle Aimée MAMBOU	16381
+Mme. Lynda Armelle MBARI DIVASSA	16381
+Monsieur Armand Kuyema NATTA	16535
 N Sudan People's Liberation Army	15342
 NACIONAL Y ACADEMIAS FUERZAS ARMADAS R	4209
+National Army Club	16127
 National Coat of Arms	12891
 National Cybersecurity Committee Professor Vinaye Armoogum	9949
+National Service Products Organization and Armed Forces	15473
 News Army	4351
 Nigeria Army	11928
 Nigerian Armed Forces	11851
@@ -180,10 +294,12 @@ Nii Armah Ollenu Street	3386
 Nii Kodzo Armah Street Operational	3386
 OBR ARMP	1284
 Offre Restreint ARMP Autorité de Régulation des Marchés	10876
+PCA da ARME	16134
 PRESTADORES DE ARMAZENAGEM PRINCIPAL	10747
 PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135
 Paratus Namibia's Armada	9953
 Participant ARMP-4	8021
+People's National Army of Algeria	16331
 People’s Liberation Army	8510,1934,898
 Pour le Pr Armand Claude Abanda	8906
 Pr Armand Claude Abanda	8906
@@ -193,9 +309,11 @@ Prof. Vinaye Armoogum	6900
 Proliferação de Armas de Destruição	11386,18
 Prolifération des Armes	13725
 Qualité ARMP Agence de Régulation des Marchés	10975
+RATTACHEES ARMEMENT ORGANES D’EXECUTIONS Colonel	16100
 REG CEO Mr. Armand Zingiro and Ms	12358
 Republic of Armenia	12936
 Republic of Armenia Australia Yes The National	11529
+Research Center for Army and Security	15553
 Retail Army	7446
 SAF Sudanese Armed Forces	15036
 SAFETY Absence of Armed Conflict	10759,78,1052,451
@@ -204,10 +322,14 @@ SEU ARMAZENAMENTO	794
 SEU ARMAZENAMENTO Artigo	794
 SLA-AW Sudan Liberation Army	15220
 Score Rank Absence of Armed Conflict	10838,1048,454
+Serge Armel	16100,174,182
 Sick and Shipwrecked Members of Armed Forces	14742
+Sistema de Armazenamento	16132
+Sistema de Armazenamento de Energia	16132
 Sistemas de Armas Autónomas	2816
 Small Arms Survey Briefing Paper	3583
 Somali National Army	10701
+Sous-Lieutenant Armée	15524
 Sudan Armed Forces	15220
 Sudan's Army	15342
 Sudanese Armed Forces	1851,36,2358,2702,1186,1875,4186,730,21,14,42,35,304,2
@@ -215,14 +337,18 @@ Support Forces SAF Sudanese Armed Forces	15118
 Synthèse de Armelle Ouédraogo Lefaso.net	9048
 T4 Evolving Armenia Tajikistan Turkmenistan T3	10764
 TA for ARME	11965
+TSIBA NGOLO Armel Baudouin	15558
 Tableau Armoire Table Meuble	10847
+Telecom Egypt and ADH’s Telecom Arm	15827
 Terrorist Armed Groups	7452
 Transport des Armées	8237
 UMc Armenia Asia Western Asia Yerevan	10840
 US Army	8141
 US Army Europe and Africa	8141
 Uganda Coat of Arms	1391
+Unlimited VEON Armenia CJSC	15471
 Uzbekistan Panama Armenia Türkiye Bolivia Georgia	11563
+Vicky Armel	15744
 Vinaye Armoogum	9948
 Willard Munyoka and Prof. Armstrong Kadyamatimba	2093
 Women Absence of Armed Conflict Absence of Forced	10759

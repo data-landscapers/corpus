@@ -1,10 +1,16 @@
 Burkina Faso LF	1291,1,1,1,1,1,761,1,1,1,1,1,2308,1,1,1,1,1
 Bénin LF	1325,1,1,1,1,1,685,1,1,1,1,1,2135,1,1,1,1,1,1
+CACQE LFB M	16103
 DLC LF	10858
 Hind Lfal	5764
+Industrie Bel Algérie CACQE LFB ITELV	16103
+Industrie LFB Révision ISO	16103
+Industrie Révision LFB LFB Révision NA	16103
 International Standard Industrial Classification LFS	12445
 LF Emp Unemp 1Qtr26 300626.pdf Author	14832
 LF Emp Unemp Yr25 190526.pdf Author	14815
+LF Taux	15999
+LF- République du Congo A.A.C.M. Association	16177
 LF-2020.pdf	341
 LF2024	1272,3375
 LF2025	4647
@@ -12,6 +18,11 @@ LF2026	3537,1110,82,641,444,231
 LFA2025	2052,2592,1
 LFA2026	4644,1
 LFA2026-LFA2025	2050
+LFB CACQE M	16103
+LFB CACQEM	16103
+LFB DGSN NA ISO	16103
+LFB Institut	16103
+LFB M	16103
 LFO Figure	10975
 LFO Pointe	14479
 LFR Cuenta Explicación	4209
@@ -21,6 +32,8 @@ LFR2024 and LFA2025	2052
 LFR2025	4386,258,1
 LFR24 MONTO	4209
 LFR25	4386
+LFT Lutte	15474
+Lfa’iatpqpuliecaletisoAn PCIofnegrmo	15493
 MISP's LF	6740
 MW LFO	10975
 MW LFO de Guider	10975
@@ -32,7 +45,9 @@ PLF-stage and LF-stage	4159
 Partie Titre Nomenclature LFR	4420
 RSA LFPR	11296
 Réduction Augmentation LFI	4420
+Révision LFB M	16103
 TB LFF SAS	12681
+TVA LF	16328
 Thermique HFO Thermique LFO GAZ Solaire	10975
 V Kilo Volt LFO Light Fuel	10975
 Volume de LFO	10975

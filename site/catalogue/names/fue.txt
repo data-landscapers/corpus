@@ -13,6 +13,8 @@ CONGO STOCK-TAKING OF FUEL SUBSIDIES	1828
 CURRENT FUEL PRICES Current Energy Prices	12515
 Cash Flow Accounting of Fuel Subsidies	1828
 Clean Fuels and Technologies	15247
+Clean Fuels and Technologies for Cooking Dataset. Tracking	16037
+Collaboration Fuels Progress	15833
 Cooking Fuel	15244
 Cooking Fuel Cooking	15244
 Cooking Fuel Household	15244
@@ -75,7 +77,7 @@ Fuel Management and Recordings Finding	13420
 Fuel Marking Program	14985
 Fuel Mix	12399
 Fuel Mix Target	12399
-Fuel Oil	14745
+Fuel Oil	14745,758
 Fuel Oil Coal Hydro Photovoltaic Wind	14745
 Fuel Oil VAT	1828
 Fuel Operator	13606
@@ -105,10 +107,13 @@ Fuel and Traffic Management	12200
 Fuel and Traffic Management The Ministry of Transport	12200
 Fuel and Utilities	2775
 Fuel-	10829
+Fueling H24 SNPC	16552
 Fuelled	1248
+Fuelling	16552
 Fuels	9123
 Fuels and Utilities	2775
 Fuelsubsidies	10768
+Fuelóleo	15503
 Fuente	8153,1,3589,332
 Fuente ABBREVIATIONS AND ACRONYMS	15190
 Fuentes	10438
@@ -127,6 +132,10 @@ Heavy Fuel Oil EEP Herfidahl Hirschman	12256
 IMF Fossil Fuel Subsidies Data	11140
 INSPEC. GRAL DE LAS FUERZAS ARMADAS.-Concepto	4209
 INTRODUCCIÓN Fue	1701
+IV.2 FUEL CONSUMPTION IN HOUSEHOLDS	15574
+IV.4 FUEL-BURNING EQUIPMENT IN HOUSEHOLDS	15574
+IV.5 CHANGE IN FUEL CONSUMPTION HABITS	15574
+IV.HOUSEHOLD ACCESS TO FUELS	15574
 Installation for Bulk Fuel Delivery	718
 Integrated Fuel Supply System Solution	12200
 Las Fuerzas Armadas	1701
@@ -139,6 +148,7 @@ NIFTI Fuel Platform Nifti	14897
 National Fuel Society of Angola	11380
 Net Domestic Sales of Petroleum Fuels	2775
 Number of Fuel Fiscal Device Interruptions	13606
+O Fuel	15503
 Open Tender Fuel Procurement System	13060
 PART II Technical and Performance Specifications of Fuel	13606
 PART III Obligations of Fuel Operators	13606
@@ -146,12 +156,13 @@ PART IV Fuel Fiscal Device Operations	13606
 Pagos FUENTES FIN	4209
 Participants Fuel	12253
 Paz Fuerte Muy	1701
+Policy HFO Heavy Fuel Oil HR	15515
 Poverty and Social Impact Assessment of Potential Fuel	13332
 Power Is Fueling Madagascar's Economic	14669
 Proportion of Petroleum Fuel Sales	2775
 Recording and Custody of Fuel	13420
 Redress Services HFO Heavy Fuel Oil	11549
-Reforming Fossil Fuel Subsidies	1828
+Reforming Fossil Fuel Subsidies	1828,13831
 Reforming Fuel Subsidies. Washington	10985
 Retail Fuel Price Deviation	1828
 STOCK-TAKING OF FUEL SUBSIDIES IN CONGO	1828
@@ -161,6 +172,7 @@ Service Station Map Fuel	12969
 Stakeholders Fuel Malawi's Digital Vision MALAWI	12214
 Stock-Taking of Fuel Subsidies	1828
 Substation Fuel Backup Storage	10956
+Supplier HFO Heavy Fuel Oil IPP	15769
 Supply and Demand of Petroleum Fuels	2775
 Technical Specifications of Fuel Fiscal Devices PART	13606
 Technical Specifications of Fuel Fiscal Devices. Second	13606

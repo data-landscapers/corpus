@@ -1,5 +1,8 @@
+Ambiente NU Nações Unidas ODINE	15535
+Ato Constitutivo da Unido Africana	15477
 Autenticação Civil U I F Unidade	6530
 CAPÍTULO II REGISTO EM UNIDADES	11363
+Caraterísticas Unidades Limites Val-	15503
 Comandante Supremo Nações Unidas	11569
 Comunicação Unidades Curriculares Horas	12019
 Convenção da Organização de Unidade Africana	11364,1
@@ -7,32 +10,40 @@ Crear Unidades de Negocio	1701
 DAS UNIDADES ESCOLARES	10766
 DISTRIBUIÇÃO POR UNIDADE ORGÂNICA	11531
 Desenvolvimento Unido	12201
+Diretor-Geral da Unidade de Informação Financeira	15881
 Dos Unidades de Ramificación	3179
 ECV Unidade Orgânica Faculdade de Ciências	12019
 EMIRATOS ARABES UNIDOS DUBAI	4209
-Estados Unidos	1701,1115,277,426,88,85,5068,103,1888,9,17,779
+Estados Unidos	1701,1115,277,426,88,85,5068,103,1888,9,17,779,3824
 Estados Unidos Medidas	2816
 Estados Unidos da América	2581,235,277,426,87,1414,1504,1,1654,340,111,2121,21,615,18,1395,21
 Estados Unidos da América FACIM	2816
 Estados Unidos da América Sim Avançado Sim	2816
 Estados Unidos de América	2444,4169,4765
 Exército Unidas	11569
+FINANÇAS UNIDADE DE GESTÃO DE PROJETOS	16110,383
 Ficheiro de Unidades de Empresas GTREMPE	10757
 Fundo Nações Unidas	11387
 Infância US Unidade de Saúde VIDR Vigilância	11376
 LEI SOBRE A CODIFICAÇÃO DAS UNIDADES	11409
+Membros da Unido Africana	15477
 Nacionales Unidas	975
 Naciones Unidad	975
-Naciones Unidas	758,217,726,2508,3839,2439,541
-Nações Unidades	11569
-Nações Unidas	220,575,420,593,593,180,235,232,992,4,102,565,36,525,546,200,154,754,740,643,165,156,145,485,1060,430,27,331,256,1,6,5,3,8,3,3,1,2,1,9,10,5,25,5,4,27,41,15,5,4,10,5,2,2,3,8,386,179,635,22,24,7,32,2401
+Naciones Unidas	758,217,726,2508,3839,2439,541,4450
+Nações Unidades	11569,4397
+Nações Unidas	220,575,420,593,593,180,235,232,992,4,102,565,36,525,546,200,154,754,740,643,165,156,145,485,1060,430,27,331,256,1,6,5,3,8,3,3,1,2,1,9,10,5,25,5,4,27,41,15,5,4,10,5,2,2,3,8,386,179,635,22,24,7,32,2401,81,133,55,3,159,130,142,16,9,5,255
+Nações Unidas CV	15966
 Nações Unidas Em Março	2816
 Nações Unidas Guiné-Bissau	11547
+Nações Unidas I SÉRIE	15359
 Nações Unidas OCDE	2816
 Nações Unidas PALOP	2816
+Nações Unidas PFA Primeiros Socorros Psicológicos	15966
+Nações Unidas TIC Tecnologia de Informação	15535
 Nações Unidas UNESCO	11387
 Nações Unidas de Tóquio	2816
 Nações Unidas. Essa	11379
+Nações Unidas. Outros	15694
 Nações Unidas. Pode	11569
 Neste Unidas. Uma	11569
 Organigrama da Unidade de Implementação	11390
@@ -46,6 +57,7 @@ Projecto UPS Unidades de Alimentação Ininterrupta VBG	11413
 Projecto URIP Unidade Regional de Implementação	11390
 RABES UNIDOS REFORÇAM COOPERAÇÃO EM AGRICULTURA	12807
 REPÚBLICA DA GUINÉ-BISSAU Unidade- Luta	11526
+Red Unidirectionnel Feux	16552
 Reino Unido	2784,32,5944,3382
 Reino Unido Sim Avançado Sim	2816
 Reino Unido de Gran Bretaña	6613
@@ -53,6 +65,7 @@ Reino Unido. Sem	2784
 República Unida de Tanzanía	6613
 República da Guiné-Bissau Unidade	11523
 SADC and UNIDO	14721
+SPD7 Sim EST-ADM5 Unidade de Missão	15532
 Semestre Unidades Curriculares Horas	12019
 Sistema Internacional de Unidades	11381
 Sistemas de Informação Unidades Curriculares Horas	12019
@@ -62,19 +75,21 @@ Tráfego Nações Unidas	11569
 UCAN Universidade Católica de Angola UIP Unidade	11390
 UIP Unidade de Implementação	11413
 UNDP Accelerator UNIDO Green Space Mashrouy	14897
-UNIDADE DE GESTÃO DE PROJECTOS ESPECIAIS	8166
+UNIDADE DE GESTÃO DE PROJECTOS ESPECIAI	16493
+UNIDADE DE GESTÃO DE PROJECTOS ESPECIAIS	8166,7944
 UNIDADE DE GESTÃO DE PROJETOS ESPECIAIS	11941
 UNIDADE LUTA PROGRESSO	11513
 UNIDADE NACIONAL	12787
 UNIDO	2816,4826,1249,2078,160,443,312,11,264,46,282,2472,168,11,101
 UNIDO Convenes Innovation Forums	15239
 UNIDO Somalia's International Programme Coordinator	15239
+UNIDROIT	16381
 Unida	9399
 Unidad	4209
 Unidad Regional	11525
 Unidad de Gestión de SYDONIA	4209
 Unidad de Orientación Profesional	4209
-Unidade	12770
+Unidade	12770,2735,189
 Unidade Africana	11530
 Unidade Buba	11552
 Unidade Cacheu	11552
@@ -86,31 +101,43 @@ Unidade Sanitária Mais Próxima......................182	10777
 Unidade Tecnica de Implementacao da ENIF	2138
 Unidade Técnica de Implementação da ENIF	2138
 Unidade da Justiça	6944
+Unidade de Acompanhamento	15526,398
 Unidade de Competitividade	11898,123
-Unidade de Gestão	8166
-Unidade de Gestão de Projectos Especiais	8166,3689
-Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56
+Unidade de Coordenação	15391,135,530
+Unidade de Coordenação da Reforma	15392
+Unidade de Gestão	8166,7890
+Unidade de Gestão da Casa	16022
+Unidade de Gestão de Aquisições Centralizadas	16056
+Unidade de Gestão de Projectos Especiais	8166,3689,4255
+Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56,3505,457,127,77,134,172
 Unidade de Governo	11569
+Unidade de Iformação Financeira. Decreto-Lei	15359
 Unidade de Implementação	11390,50,1,1,21,79
-Unidade de Informação Financeira	6360,5008,315
+Unidade de Informação Financeira	6360,5008,315,3676
 Unidade de Informação Financeira de Cabo Verde	11683
 Unidade de Intermediação da Mão de Obra	10778
 Unidade de Investigação Tecnológica	549
-Unidade de Tecnologias	3118
+Unidade de Promoção	15526
+Unidade de Tecnologias	3118,12408
 Unidades	539,1162,5269,4435,11,5,156,442
 Unidades Curriculares Horas	12019
 Unidades Curriculares Opcionais Horas	12019
+Unidades Especiais	16290
 Unidades Especializadas	6970
 Unidades Nacionales de Referencia	1701
+Unidades Orgânicas	15503
 Unidades Sanitárias	11401
+Unidades Sanitárias de Base	16019
+Unidades TIC	15476
 Unidades Territoriais	11409
-Unidades de Gestão	10752
+Unidades de Gestão	10752,5172
 Unidades de Gestão Provinciais	10752
 Unidades de Implementação	7945
 Unidades de Processamento Gráfico	2816
 Unidades de Saúde	11363
 Unidas	4641,6928
 Unidentified	14714,1
+Unido Africana	15477
 Unidos	1192,5421,4776,1418
 Unidos. A Cimeira Global de Governos	12807
 Unit of Account UGPE Unidade de Gestão de Projetos	11863

@@ -1,3 +1,4 @@
+AI and Low Earth Orbit	16144
 American Low Earth Orbit	4990
 Azure Orbital	1038
 B.1.6 Low-Earth Orbit and Direct-2-Device	14674
@@ -16,7 +17,7 @@ Geostationary Satellite Orbit	2913
 Harnessing the Potential of Low Earth Orbit Satellite	14828,3
 LEO Low Earth Orbit LMS Licensing	6946
 LEO Low Earth Orbit M&E Monitoring	3604
-Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164,871,64,459,448,583,864
+Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164,871,64,459,448,583,864,1024
 Low-Earth Orbit	5245,9429
 Low-Earth Orbit Satellites	3063
 MISE EN ORBITE Djibouti	13844
@@ -28,7 +29,7 @@ Non-Geostationary Satellite Orbit	2913,2767,9072
 Non-Geostationary Satellite Orbits	2913
 ORBIT	11231
 ORBUS DIGITAL SERVICES	3299
-Orbit	10407
+Orbit	10407,5737
 Orbit SN	1690
 Orbital	9816,591
 Orbital Chenguang	9816

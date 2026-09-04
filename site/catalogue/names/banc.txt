@@ -1,4 +1,5 @@
 ABSA BANCASSURANCE INTERMEDIARY LIMITED Data Controller	7167
+ACCES AUX PRODUITS ET SERVICES BANCAIRES	15482
 AFRICAN CENTURY BANK CHANNELS BANC ABC	11002
 AGT Mobile Banco	10762
 AUTRES PRESTATAIRES DE SERVICES BANCAIRES Section	14429
@@ -8,11 +9,19 @@ Agentes Bancários	11438
 Angola Banco BCS and Mastercard	13275
 Ao Banco Nacional de Angola	11368
 Associação Moçambicana de Bancos	12808,6
+Atribuições O Banco	16089
 Autoridade Reguladora de Energia Atómica BM Banco	11376
+BANCAIRE	16629
+BANCAIRE Chapitre	15594
 BANCAIRES CHAPITRE	14429
+BANCARISATION DES SALAIRES	15387
+BANCARISATION DES SALAIRES Imprimer Tweeter Dans	15387
+BANCARISATION DES SALAIRES URL	15387
 BANCE C EPICENTRE NIGER ARCEP	998
+BANCO CENTRAL Secção I Disposições Gerais	16089
 BANCO COMERCIAL PORTUGUES S.A	1829
 BANCO DA AFRICA OCIDENTAL BDU CORIS	11588
+BANCO DE CABO VERDE Gabinete	16122
 BANCO DE MOÇAMBIQUE Aviso	6462,6391
 BANCOBU	13312,2,76
 BANCOBU IBB ECOBANK BCB BBCI BGF	13390
@@ -22,18 +31,19 @@ Banca	2816
 Banca Digital	7704
 Banca Instituições	6970
 Banca Quer Previsibilidade	8003
-Bancaire	6163,4802,2425
+Bancaire	6163,4802,2425,2118,428
 Bancassurance	14997
 Banchale Gufu	10764
-Banco	2816,422,5827,1697,15,595,5,192,329,916
+Banco	2816,422,5827,1697,15,595,5,192,329,916,2566,375,74,238,22,33
 Banco Africano	11569
 Banco Africano de Desarrollo	1701,2508,3839
-Banco Africano de Desenvolvimento	2816,893,372,1362,5944
+Banco Africano de Desenvolvimento	2816,893,372,1362,5944,4089,486,105,152
 Banco Africano de Desenvolvimento BEE	11387
 Banco Africano de Desenvolvimento. Para	1948
 Banco Africano de Desenvolvimento.AB	9259
 Banco Africano de Investimentos	5309
 Banco Angolano de Investimentos SA	12252
+Banco Artigo	16089
 Banco BAI CV	11955
 Banco BAI Cabo Verde	11955
 Banco BCS	13275
@@ -44,9 +54,11 @@ Banco Bradesco	5618
 Banco Caboverdeano de Negócios	11955
 Banco Caboverdiano de Negócios	11878,77
 Banco Caboverdiano de Negócios Manuel Fernando Monteiro	11955
-Banco Central	1701,1273,1773,1613,4395,383,378,417,61
+Banco Central	1701,1273,1773,1613,4395,383,378,417,61,3690,145,149,111
 Banco Central da RDC	7115
 Banco Central da República Democrática	7115
+Banco Central da República de Cabo Verde	16089
+Banco Central de Cabo Verde	16089
 Banco Central de São Tomé	7156
 Banco Central de Timor-Leste	11683
 Banco Comercial	2816,9139
@@ -54,6 +66,7 @@ Banco Comercial Português	9832
 Banco De Desenvolvimento Enfrenta O Desafio	8003
 Banco De Moçambique Dá	12841
 Banco De Negocios Internacional Angola	12252
+Banco Europeu de Investimento	15476,867
 Banco Interatlântico	11955
 Banco Interatlântico Ana Elizabeth Pires Carvalho	11955
 Banco Interatlântico Supervisory Board Chairman Manuel	11955
@@ -62,12 +75,15 @@ Banco Internacional de São Tomé	7156
 Banco Millennium BIM	2816
 Banco Millennium BIM. Fonte	2816
 Banco Mundia	11390
-Banco Mundial	574,221,381,92,433,247,633,235,711,31,31,249,598,1285,548,156,1241,37,33,56,89,64,103,3,543,181,52,52,679,1,135,152,63,848,1,2,9,8,601,1,11,4,12,7,10,3,14,1,1,2,4,3,5,26,49,11,13,14,5,324,65,16,42,756,37,7,14,1365,112,1,1
+Banco Mundial	574,221,381,92,433,247,633,235,711,31,31,249,598,1285,548,156,1241,37,33,56,89,64,103,3,543,181,52,52,679,1,135,152,63,848,1,2,9,8,601,1,11,4,12,7,10,3,14,1,1,2,4,3,5,26,49,11,13,14,5,324,65,16,42,756,37,7,14,1365,112,1,1,1162,28,395,1,159,8,43,158
 Banco Mundial CACS Conselhos Municipais de Auscultação	11390
 Banco Mundial Comunidade	11569
 Banco Mundial EDIÇÃO Eugénia Tavares Ulo	10757
 Banco Mundial GdA Governo de Angola GFP	11390
+Banco Mundial Reforça Apoio	16059
+Banco Mundial Regulamento de Aquisições	16110
 Banco Mundial X X	11569
+Banco Mundial. Durante	15962
 Banco Mundial. Em	11390
 Banco Mundial. Entre	1268
 Banco Mundial. Este	11461
@@ -93,10 +109,18 @@ Banco Paille Sans	10847
 Banco Santander	1414,2942
 Banco Societé Générale	11372
 Banco Yetu	12252
-Banco de Cabo Verde	6425,5508,22,8
+Banco de Cabo Verde	6425,5508,22,8,3396,74,7,13,73,9,37,257,81,14,38,16,111,33,97,360
 Banco de Cabo Verde António Carlos Moreira	11955
+Banco de Cabo Verde Artigo	15433
+Banco de Cabo Verde BDMI Base de Dados	15535
 Banco de Cabo Verde Central Bank of DRC	6938
+Banco de Cabo Verde Compete	15440
 Banco de Cabo Verde Dulce Lopes Chantre	11955
+Banco de Cabo Verde O MFFE	15526
+Banco de Cabo Verde Os	15440
+Banco de Cabo Verde. Artigo	15433,7,649
+Banco de Cabo Verde. Em	15359
+Banco de Cabo Verde. PREÂMBULO	16089
 Banco de Desarrollo	1701
 Banco de Desarrollo de Guinea Ecuatorial	1701
 Banco de Desarrollo de Guinea Ecuatorial. Estos	1701
@@ -117,43 +141,65 @@ Banco de Moçambique. Maputo	5169
 Banco de Sangre	4209
 Banco de Sangre de Bata	4209
 Banco de Sangre de Malabo	4209
+Banco. Artigo	15380,709
+Banco. Os	16089
 BancoMundial Comentário	9426
 Bancom	11119
 Bancos	10762,13,2066
-Bancos Centrais	3137,8796
+Bancos Centrais	3137,8796,4156
 Bancos Comerciais	2816,9980
+Bancrofti	15712
 Bancária	11435
 Bancárias	794
-Bancário	11438
+Bancário	11438,4066
 Bancário de CA	11438
 Bancário de TPA	11438
 Bancários	11438
 Banques Connaissance des Banques BANCOBU BCB IBB	13390
 Bizum and Bancomat	9832
 CAPÍTULO II ADQUIRENTES NÃO BANCÁRIOS	11438
+CAPÍTULO II PODERES DO BANCO	15440
 CARITAS BANCASSURANCE INTERMEDIARY LIMITED Data Processor	7167
 CEMAC le Service Bancaire Minimum Garanti	11944
-COBAC Commission Bancaire	10965,979
+CEMAC. La Commission Bancaire	15482
+COBAC Commission Bancaire	10965,979,3530
 CONNAISSANCE ET ACCESSIBILITÉ DES SERVICES BANCAIRES	13390
 CONSO BANCASSURANCE INTEMEDIARY LIMITED Data Controller	7167
+CONSOMMATEURS DES PRODUITS ET SERVICES BANCAIRES	15482
 CREDISUL Banco de Credito	12252
 CSBF. TITRE II. SERVICES BANCAIRES CHAPITRE	14429
 Centrale Récapitulative des Risques Bancaires	11944
+Centrale des Risques Bancaires	16270
 Cognisance des Banques BANCOBU BCB IBB ECOBANK	13390
-Commission Bancaire	4459,6377,52,77,557,45,377,121,2138
-Commission Bancaire Sont	10836
-Commission Bancaire. TITRE IV	10836
+Commission Bancaire	4459,6377,52,77,557,45,377,121,2138,1239,1,31,8,153,199,425
+Commission Bancaire Sont	10836,4799
+Commission Bancaire de I'Aliique Ccntrale	15443
+Commission Bancaire. Article	15482
+Commission Bancaire. La Commission Bancaire	15442
+Commission Bancaire. TITRE IV	10836,4799
 Commission de Supervision Bancaire	14416,1,12
+Commissron Bancaire	15443
+Commisston Bancaire	15443
+Comrnission Bancaire	15443
 Confiabilidade da Infraestrutura Banco	11898
+Conta Bancária	16579
 Contas Bancárias	10777
 Contas Bancárias Limites	11403
+Cor-nmission Bancaire. La Comrrission Bancairc	15443
+Cor-nrnissron Bancaire	15443
+Cornmission Bancaire	15443
+Cornmission Bancatre	15443
+Cornrnission Bancairc	15443
+Cornrnission Bancaire	15443
 D.G. DE BANCAS	4209
 DAB Guichet Automatique Bancaire	11944
 DE LA COMMISSION DE SUPERVISION BANCAIRE	14417
 DE SERVICE DES INSTITUTIONS BANCAIRES	13390
 DEL. ENTIDADES CONTROL BANCA	4209
+DES COMPTES BANCAIRES SANS CONTROLE	16629
 DIAMOND TRUST BANCASSURANCE INTERMEDIARY LIMITED Data	7167
 DO BANCO MUNDIAL	11390
+DROIT BANCAIRE	16363
 DU BUDGET ET DU SECTEUR BANCAIRE	4645
 DU SECTEUR BANCAIRE	3715
 Departamento de Serviços Bancários	5169,1293,6352
@@ -172,39 +218,54 @@ FICHA TÉCNICA Edição Banco de Moçambique Gabinete	2138
 FINTECH DROIT BANCAIRE NOS RUBRIQUES DROIT	10996
 FMBZZMLX ACCESS BANK BKCHZMLU BKCHZMLU BANC	12364
 FONCTION BANCAIRE DU TRÉSOR PUBLIC	1336
+FRAUDE AUX CARTES BANCAIRES Arllcle	15429
 Futuro da Banca	6360
 Groupe des Superviseurs Bancaires Francophones. The Bank	14744
-Grupo Banco Mundial	6269,3289,1836,50,454
+Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52
 Guichet Automatique Bancaire	11944
 Guichet Automatiques Bancaires	13390
+I-a Commission Bancaire	15443
 IBU Identifiant Bancaire Unique IDH Indicateur	11944
 INSTITUIÇÕES FINANCEIRAS BANCÁRIAS	11386
+Ia Comrnission Bancairc	15443
 Identifiant Bancaire Unique	11944
 Identification Bancaire Unique	8556
 Identificação Bancária	12848
-Identité Bancaire	10978,2657
+Identité Bancaire	10978,2657,1717
 Indice des Prix des Services Bancaires	5928
+Information Bancaire	15934
+Informação O Banco	16089
 Instituição Financeira Bancária	10755,683
 Instituição Financeira Não Bancária	11386
 Instituições Financeiras Bancárias	7340,4046,52
 Instituições Financeiras Não Bancárias	11386
+Instruções O Banco de Cabo Verde	16122
 Italian Bancomat	9832
 LA COMMISSION DE SUPERVISION BANCAIRE ET	14417
-La Commission Bancaire	10836,1108
+LEI ORGÂNICA DO BANCO DE CABO	16089
+La Commission Bancaire	10836,1108,3498,40,153
 La Commission de Supervision Bancaire	14417
+La Cornmission Bancaire	15443
+La Cornnrissittn Bancaire	15443
+La Cornrnission Bancaire	15443
 Lorsque la Commission Bancaire	10836
 MFI da Garantia Bancária de Execução	11372
 MODELE DE GARANTIE BANCAIRE DE BONNE	13524
 MODELE DE LA GARANTIE BANCAIRE	13524
+Meta-Informação BM Banco Mundial CAE Carta	15535
 Moza Banco	8003
 NAS E DIRECTRIZES DO BANCO MUNDIAL	11390
 NOMBRES DE CARTES BANCAIRES ET DETENTEURS	13390
 NORMAS DO BANCO MUNDIAL	11390
+Natureza O Banco de Cabo Verde	16089
 Não Bancárias	11386
-O Banco Central	8003
+Número de Identificação Bancária	15445
+O Banco	16089
+O Banco Central	8003,8576
 O Banco Central de São Tomé	2974
-O Banco Mundial	8701,857,1,1552,279,33
+O Banco Mundial	8701,857,1,1552,279,33,4636
 O Banco Nacional de Angola	7115,225,3415,631,18
+O Banco de Cabo Verde	15433,7,682
 O Banco de Desenvolvimento	8003
 O Banco de Moçambique	5169,1293,6308,44,39
 OPERATIONS BANCAIRES Section	14429
@@ -213,11 +274,15 @@ Ownership Structure Banco de Cabo Verde	11955
 PARTICIPANTES E BANCO NACIONAL DE ANGOLA	10755
 POINTS DE SERVICE DES INSTITUTIONS BANCAIRES	13390
 POSSESSION ET UTILISATION DE COMPTES BANCAIRES	13300
+Paul Bance	15415
 PlayStation SANS BESOIN DE CARTES BANCAIRE	5567
 RAPPORT ANNUEL 2025 DE LA COMMISSION BANCAIRE.pdf	14203
+RGÃOS DO BANCO E COMITÉ	16089
 Regulamento de Cartões Bancários	12853
 Regulamento de Cartões Bancários Sem	12853
 Regulamento. BANCO DE MOÇAMBIQUE Aviso	5169
+Revisão O Banco de Cabo Verde	15440
+Réglementation Bancaire	15352
 SECÇÃO I ADQUIRENTE NÃO BANCÁRIO	11438
 SECÇÃO II ADQUIRENTE NÃO BANCÁRIO	11438
 SOCIAIS DO BANCO MUNDIAL Norma Ambiental	11542
@@ -230,9 +295,13 @@ Secteur Bancaire Place	3715
 Secteur Bancaire URL	13771
 Secteur Bancaire-Moroni Cabinet	4342,9429
 Sector Bancário	2816
+Sede O Banco	16089
 Sistema Bancarização	11898
+Sistema de Bancarização	15572,458
+Subsariana BAD Banco Africano de Desenvolvimento BCV	15535
 Só Depois Avançar O Banco Mundial	9558
 TITRE III. PRESTATAIRES DE SERVICES BANCAIRES	14429
+TITRE V ORGANISATION BANCAIRE Chapitre	15594
 Uma Instituição Financeira Bancária	11438
 Y BANCO DE SANGRE	4209
 Y BANCO DE SANGRE.- Concepto.-66111	4209

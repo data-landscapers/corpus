@@ -1,12 +1,14 @@
 AI Cloud. Delivering Exascale-performance	11502
 ANA Exemplars Matric Results Examinations Grade	11220
 ANDF Examen	10876
+ANEXO XIV Calendário de Exames Nacionais	15772
 ANY CURRICULUM Examinations Council of Zambia Haile	13477
 AVALIAÇÃO DO RECÉM-NASCIDO Examinou	10760
 Add Additional EX189-SEC Exagrid	11209
 Administration and Management of Examinations	13477
 Africa Examining	4442
 Amateur Radio Examination US	736
+Amount-quality Exact	16655
 Annual Examples	15164
 April. Examples	13341
 Assess Enrol EXAMPLE AI-enabled	11156
@@ -15,6 +17,7 @@ Attributes Symbol Example Application Name N	9124
 Autocheck Vehicle Examination Station	14753
 AÑO QUE SE EXAMINA	3179
 Bar Examination	12972
+Basic Education Certification Examination BED	15796
 Bennett S. Examining	3791
 Botswana Examinations Council	12574
 Breast Cancer Examinations	15247
@@ -25,17 +28,22 @@ CLOSED EXAMINATION OF DATA PROVISIONS	1243
 Caractéristique Examen du Prise	13300
 Case Example of Thailand	226
 Case Studies E.1 Global Implementation Examples	11952
+Centred Example	15546
 Cervical Cancer Exam	15247
 Ciências Exactas	11472
 Classification Definition Examples Residency Security Level	5244
 Confidential Attributes Symbol Example Process Name	9124
 Curriculum and National Examination	13956
 DELIVERY CHAIN PHASE Provide Manage EXAMPLE	11156
+DES EXAMENS ET CONCOURS	16099
 Data Controller. Examples	15058
 Data Explanation Example Good Poor Definition	12360
 Deeds Examination and Registration	13251
 Digitize National Exams	4670
+Directeur des Examens	16485
 Direction Générale des Examens	10847
+Direction des Examen	15936
+Direction des Examens	15936
 Director ICT The Examinations Council of Zambia	13477
 Directorate of Examinations of MEPPSA	11905
 Directorate of National Examinations and Assessment	12345
@@ -55,6 +63,7 @@ EXAMPLES	11007
 EXAMPLES OF HIGH-RISK PROCESSING ACTIVITIES High-risk	13381
 EXAMPLES OF INTERNATIONAL FRAMEWORKS ON DATA	1243
 EXAMPLES OF THE USE OF AI	11156
+EXAUMA	16274,182
 Educational Assessment and Examination Service	10709
 En.pdf Burundi Example P.O	13453
 Enhanced OpenEMIS Exams	12974
@@ -63,7 +72,7 @@ Eritrean Secondary Education Certificate Examinations GER	13960
 Esq. The Examinations Council of Zambia	13477
 Eswatini ECESWA Examination Council of Eswatini ECOT	12975
 Ethiopian Higher Education Entrance Certificate Examination	13991
-Exa Agent	9605,670,4591
+Exa Agent	9605,670,4591,776
 Exa web fetch exa	14680
 ExaGrid	11209
 ExaGrid Backup Storage. ExaGrid	11209
@@ -79,24 +88,28 @@ Exact Proparco	1153
 Exact Rockefeller	521
 Exact SIFEM	945
 Exactement	8848
-Exactitude	14437,100
+Exactitude	14437,100,2099
 Exactly	4641,207,2430,2769,1218
 Exactly the Block	1866
+Exactos	15385
 Exagrid	11209
 Exagrid Partner Note	11209
 Exam Processing System	13477
-Exame	549,2267,9959
+Exame	549,2267,9959,2584,37
 Exame de Saúde Pós-Natal	10777
 Exame de Saúde Pós-natal	10777
-Examen	2377,1715,5420,1364,1106,1318,142,82,900,1,112,324,265
+Examen	2377,1715,5420,1364,1106,1318,142,82,900,1,112,324,265,308,40,81,191,102,85,280
 Examen Effectif	13300
 Examen Périodique Universel	10826,2912,56
 Examen Périodique Universel. Les Comores	13794
 Examen des Dossiers Programme Résultats	3396
 Examen du Rapport Périodique	10826
-Exames	10777
-Examinar	1701,9748
-Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536
+Examens	15639,464,525
+Examens Nationaux Volontaires	15968
+Exames	10777,4995
+Exames da Avaliação Externa	15772
+Examinar	1701,9748,3942
+Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536,1396
 Examination Centre	13477
 Examination Centres	13477
 Examination Council	899,1786,2,359,86,176,15,119,65,590,447,96,374,93,240
@@ -116,10 +129,10 @@ Examinations Council of Zambia Prof. Frank Tailoka	13477
 Examinations Council of Zambia. Candidates	13477
 Examinations Grade	11220
 Examinations and Examination Materials Section	13477
-Examine	5677,6317,451,2420,132,345
+Examine	5677,6317,451,2420,132,345,262
 Examine NGSO	5680
 Examined	1958,7781
-Examiner	747,8144,1985,2592,64,311,694,37
+Examiner	747,8144,1985,2592,64,311,694,37,981,115,178,60,28
 Examiners	13532
 Examiners of Deeds	13251
 Examines	1004,7601,3609
@@ -133,12 +146,13 @@ Examining Platform Governance and User Behaviours	5349
 Examining the Job Creation and Workforce Potential of AI	7588
 Examining the Linkages Between Digitalisation	5349
 Examining the Mediating Role of ICT Regulatory Environment	5349
-Examiné	8735,1,150,1075,3339
-Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11,288,39,17,10,182
+Examiné	8735,1,150,1075,3339,2984
+Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11,288,39,17,10,182,265,75,84,95,118,1,821
 Example A County Public Service Board	14524
 Example Afya Nzuri National Hospital	14524
 Example Commission	14524
 Example David	14524
+Example Electricity Consumption	15714
 Example Encounter	6666
 Example Forthreepatientswithages25	8606
 Example Individual Address	11129
@@ -169,7 +183,7 @@ Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
 Example. The Kenya Social Security Agency	14524
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485
 Examples for Section	8530
 Examples of Bid	14778
 Examples of Data	14434
@@ -182,20 +196,29 @@ Examples of PIPs	12374
 Examples of RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
 Examples of Successful African	10856
 Examples.xlsx Manuel Open Data	747
+Exams	15604
 Exarar	167,11215,67
 Exaspérée	3361
+Exatos	15509
+Exatrust	16242
+Exaucé Zidane	16177
+Exaucée Stevie Laurencia Aseth	16177
 Exaud Kimboi	4061
+Exauma	16274,182
+Exaverie KOMBA YEMBA	16175
 External Examinations	13477
 FAIS REGULATORY EXAMINATIONS	8354
 FDI Examples	10856
 FIGURE A.3 GENERIC EXAMPLE	1009
 First School Leaving Certificate Examination. Walter	2319
+Forensic Examiner	15662
 Formação Ciências Exatas	12019
 Free Exam Preparation for Every Ethiopian Student	12199
 Free Examination Fees	14742
 Free Examination Fees Scheme	14742
 GCE Examination	13477
 General Certificate of Education Examinations	13477
+Gilus Saint Exaucé	16177
 Global Examples The Network for Greening the Financial	13532
 Grade Nine Examination	13477
 Grade Online Examination	13991
@@ -209,15 +232,19 @@ Higher Education Examination Council	13310
 Higher Education Examinations Council	13310
 Highlight Real-World Examples	12675
 Human Rights Examiner	12936
+II-2. Examen du Projet de Stratégie	16620
 INNOVATIONS New Exam Processing System	13477
 Information Technology Professionals Examination Council	14188
 Infância. Gabinete de Exames Nacionais	11557
 Integration of ExaGrid Backup Storage	11209
+Intermediate Level Certified Forensic Examiner	15662
+Intermediate Level GIAC Certified Forensic Examiner	15662
 International Example	3861
 International Examples Show This Can Work	7648
 Introduction and Examples	13341
 It's Exam Season	15166
 JSSL Examination ECZ Executive Director	13477
+Josimar Prince Exaucé	16039
 Junior Secondary Examinations	13477
 Junior Secondary External Examination	13477
 Junior Secondary External Examination. Among	13477
@@ -234,6 +261,7 @@ LISTÉ DANS Exactement	13300
 Leaving Examinations	13477
 Level Description Examples Public	11952
 List of Examinations Conducted	14775
+MDAs. Exact	15553
 MOECHE Examination System	15202
 Malawi National Examinations Board	12175,1302
 Matches Exa	3098
@@ -242,12 +270,16 @@ Mauritius Examinations Syndicate	14775,72
 Mauritius Examinations Syndicate MGI	14775
 Mauritius. B. Solicitation Documents B.1. Examination	14778
 Microsoft Professional Exam Vouchers	13095
+Mme KOUD BANAT Graciace Exaucet	15780
 Mozambican Example	3861
 NABTEB National Business and Technical Examinations Board	11860
 NECO National Examinations Council	11860
 NESA National Examination and School Inspection Authority	14922
+NGANGA Exaucée	16012
 Naming Systems Example	6666
 Nation Address SSE Substantive Search and Examination	11250
+National Center for Examination Education Evaluation	15604
+National Centre for Examinations and Educational Evaluation	15604
 National Examination	12151
 National Examination Council of Tanzania	10196
 National Examination and School Inspection Authority	14922
@@ -259,10 +291,12 @@ Nicolas Nkhuwa Public Relations Manager Examinations	13477
 Note Examiner	13532
 Number of Examination Centres	2775
 O' Level National Exams. END	770
+OS Examiner	15662
 Officer. Example	14524
 Oio Quinara Tombali Example Sra. Celina	11515
 Online Examination System	13991
 OpenEMIS Exams	12974
+P177022&lang exact	15621
 PROTECTION CAN LEAD TO HARM Examples	11156
 Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
 Parirenyatwa. Example Related Person	6666
@@ -319,6 +353,7 @@ Vehicle Examiner	14770
 WAEC West African Examination Council	11860
 WAEC West African Examinations Council WAT	11952
 WMO. Examples	11553
+West African Examinations Council	16162
 West African Senior School Certificate Examination	7171
 X ExaGrid	11209
 X ExaGrid EX63000	11209

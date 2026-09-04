@@ -10,6 +10,7 @@ Acknowledgments About the Global Findex Database Executive	10977
 African Startups Database. Retrieved	12214
 Amazon Relational Database Service	10794
 Ansar S. The Global Findex Database	12231
+Application and Database	15590
 Applications and Database Security Environments	9123
 Arab Rep. National Citizen Database	10714
 Availability of Electronic Database	12389
@@ -32,6 +33,8 @@ Briter Bridges Database	12376
 Briter Bridges Database62	12376
 CENTRAL SUPPLIER DATABASE	11240
 CHAPTER IX PROTECTION OF CRITICAL DATABASES	11179
+COG 2024 FINDEX V02 M The Global Findex Database	15844
+COG 2024 FINDEX v02 M Title The Global Findex Database	15844
 COVID-19 Tracing Database	9969
 CPD Central Population Database C2C Consumer-to-Consumer	14790
 CRVS System and Database No Weaknesses	13005
@@ -45,9 +48,12 @@ Central Supplier Database Number	11252
 Centralized and Interoperable Database	1529
 Civil Registration Database	12337
 Civil Status Database	14714,1,113,3,12
+Civil Status Organization Database	15393
+Climatology and Hydrology Database Management System	16239
 Coarse Resolution Imagery Database	11334
 Coarse Resolution Satellite Imagery Database	11334
 Cochrane Database Syst Rev	10881
+Criminal Records Database System	16602
 DATABASE	6423,4352
 DATABASE.CART	1009
 DATABIT LIMITED Data Controller INST-5766979ABB3 NAIROBI	7167
@@ -58,8 +64,9 @@ DHIS2 Database Responsibility for Data Collection	11417
 DIGITAL CADASTRAL DATABASE	14722
 DataBank	10714
 DataBreachToday	3279
+Databank	15604
 DatabankWide.xlsx	11960
-Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34,2090
+Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34,2090,232,1207
 Database Activity Monitoring	13053
 Database Administration	9437,3600
 Database Administrator	15080,10
@@ -74,6 +81,7 @@ Database Management and Administration	12345
 Database Manager	11860
 Database Managers	11860
 Database Managers and Analysts	11860
+Database Metadata Documentation	15844
 Database MySQL	2674
 Database RDMA Remote Direct Memory Access	13185
 Database Schema	6423
@@ -83,10 +91,13 @@ Database Systems	15080
 Database Type N	9124
 Database Utilisation	12370
 Database Verification	2307
+Database and Quality Assurance Administrator	15663
 Database of Information Technology	12982
 Database-heavy	6432
+Database. Electoral Domicile Article	15393
 Database. Retrieved	1243
-Databases	970,1548,8099,97,1447,1195,1405
+Database. United Nations Department of Economic and Social	15604
+Databases	970,1548,8099,97,1447,1195,1405,1623
 Databases and Data	395
 Databasex	10812
 Datable	2977,1987,78,780,1012
@@ -114,21 +125,24 @@ Family Database	8891
 Findex Database	10977,1272
 Foundational ID. National ID Database	12533
 Full Contents of The Global Findex Database	10977
+GAB 2024 FINDEX v02 M Title The Global Findex Database	15843
+GIN 2024 FINDEX v02 M Title The Global Findex Database	16665
 GIS Addressing Database. At the Local Government	11129
 GSMA Tax Database. Côte	10932
 Global Database	13624
 Global Electrification Database	11572
 Global Emerging Markets Risk Database	11310
 Global Emerging Markets Risk Database Consortium	11310
-Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138
+Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819
 Global Household Energy Database	11572
 Global Innovation Index Database	10846
+Global Monitoring Database. Page	15663
 Global Off-Grid Solar Market Report Database	12191
 Global Tax Expenditure Database	12948
 GovTech Projects Database	11867
 HRD Database	12972
 ICASA Database	11259
-ICT Indicators Database	1248,8511,2585
+ICT Indicators Database	1248,8511,2585,3167,106
 ICT Regulatory Database	11529
 ID for All The National Database and Registration	3623
 ID4D Global Database	10714
@@ -150,11 +164,14 @@ Integrated Database Development	12165
 Integrated Personnel Payroll Database	12254
 Integration Layer CRVS Database BID	13005
 Intelligence Database	1000
+International Database. TIMSS	15604
+International Database. UN	15604
 Interpol International Child Sexual Exploitation Database	12628
 Investments AVCA’s Venture Capital Database	4972
 Libyan Legal Database	0
 Local Addressing Database	11129
 MAISHA INTEGRATED DATABASE	12165
+MS SQL Database	15478
 Maisha Integrated Database	12165,62
 Maisha Integrated Database.126 Despite	12227
 Malawi Business Registration Database	12906
@@ -187,12 +204,15 @@ National Research Database of Zimbabwe	1554
 National Risk and Import Decision Database	14818
 Nigeria Police Crime and Incident Database Centre	11928
 OECD Family Database	8891
+OPEN DATABASE INCLUSIVE	15460
 Open Data Commons Open Database License	1232,1026
 Open Database License	1984,10494
+Oracle Database	15478
 Oracle Database Administration	2308
 Oracle Database Cloud Service	6432
 PBF Manual. Quarterly PBF Database PBF	10829
 PHYSICAL ADDRESSES IN DATABASE	11211
+PIRLS International Database. RTM	15604
 Pakistan's National Database and Registration Authority	2274,5,2413
 Pakistan’s National Database and Registration Authority	10521
 Passport Database	10714
@@ -206,6 +226,7 @@ Project. Quarterly PBF Database Routine HMIS	10829
 Protected Computers and Critical Database	4484
 Public Work Mapping Database	14002
 Public Works Mapping Database System	14002
+Putting the Voter Database	15393
 Quarterly PBF Database Patient	10829
 Quarterly PBF Database Quality	10829
 Quarterly PBF Database Routine	10829
@@ -224,6 +245,7 @@ Stears Funds Database	8612
 TERRORISTS WITH NIMC DATABASE	6871
 Tanzania National ID Database	10714
 Tax Policy Reform Database	13624
+TeleGeography Global Bandwidth Database	16144
 TiVa Database	8891
 TiVa Database Graphique	8891
 Transaction Database	11952
@@ -234,6 +256,11 @@ United Nations Comtrade Database	10969
 Universal DataBase	14155
 VRR Togo DGDN Database	10714
 Vital Statistics Database Informants	12337
+Voter Database	15393
+Voter Database Article	15393
+Voter Database Registration	15393
+Voter Database. Law	15393
+Voter Database. Nevertheless	15393
 Voter Turnout Database. Retrieved	10714
 WDI and Informal Economy Database	10997
 WEO Database	11581
@@ -242,7 +269,7 @@ WID.World World Inequality Database WJP World	10759,78,1052,451
 WIPO Statistics Database	11883
 Weather Stations and Climate Database Management Systems	14738
 World Bank DataBank	11004
-World Bank Database	11863
+World Bank Database	11863,3741
 World Bank Global Electrification Database. Page	13331
 World Bank Global Findex Database	1828,10472
 World Bank Global Findex Database and IMF	1828
@@ -251,6 +278,7 @@ World Bank Informal Economy Database	13624
 World Bank UPBEAT Database	13624
 World Bank's Global Findex Database	4807,7493
 World Bank’s Global Findex Database	7156,74
-World Economic Outlook Database	12385
+World Economic Outlook Database	12385,3219
 World Economic Outlook Database. IMF	13332
 World Revenue Longitudinal Database	6593
+World TVET Database Cameroon. Bonn	15480

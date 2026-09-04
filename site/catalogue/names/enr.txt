@@ -1,4 +1,4 @@
-AGRÉMENT ET ENREGISTREMENT Section	10836
+AGRÉMENT ET ENREGISTREMENT Section	10836,4799
 ANS. ENREGISTRER LE NUMÉRO DE LIGNE	13300
 Admissions and Total Enrolment	14775
 Adult Education Enrollment	12411
@@ -6,6 +6,7 @@ Andréa RANDRIANTSASON Enrôlement	14579
 Anip. Enregistrant	4812
 Antsimondrano. Enrolment	4789
 Assess Enrol EXAMPLE AI-enabled	11156
+Assurance Qualité Enregistrement	15599
 B ENREGISTREZ TOUT CE QUI EST	13300
 Bangui. Enrolment	1258
 Bentoumi and Sparkle Executive Director Enrico Bagnasco	3342
@@ -15,16 +16,29 @@ Biometric Enrolment Frequently Asked Questions	6222
 Biométrie Enrôlement	12043
 Bourse du Nigeria. Enrichie	11507
 Bulk TRN Requests the Enrolment	11298
+Burkina Faso Gross Enrollment Rates	15743
 C ENREGISTREZ TOUT CE QUI EST	13300
 C1- C6 Enrolment	14775
 C1-C3 Enrolment	14775
 C1-C3 Enrolment of International Students	14775
 C1-C5 Enrolment of International Students	14775
 C1-C6 Enrolment of International Students	14775
+CHAPITRE II DECLARATION ET ENREGISTREMENT DES	15502
+CHAPITRE III DECLARATION ET ENREGISTREMENT DES	15502
+CHAPITRE PREMIER DECLARATION ET ENREGISTREMENT DES	15502
 CNI Clôture Enrôlement Colisage	14480
 COE Enrolment	4528,7984
 COMMUNES ENREGISTRER LES FAITS D'ETAT CIVIL	3381
+COMP. COMP. COMP. COMP. ENROB. GEL	15930
+COMP. COMP. COMP. ENROB	15930
+COMP. ENROB	15930
+COMP. ENROB. GTTES. BUV. SOL. INJ	15930
+COMP. ENROB. LP. SOL. INJ	15930
+COMP. ENROB. SEC	15930
+COMP. ENROB. SIROP GLES. PDRE. SUSP	15930
+COMP. ENROB. SUSP.BUV. COMP. SEC	15930
 Centro Nacional Enrique Matala Matomba de Ekuku	4209
+Completion Net Enrollment Ratio	16436
 Computation of Gross Tertiary Education Enrolment Ratio	14775
 Course Enrollments235 Certificates Completed	13095
 D ENREGISTREZ TOUT CE QUI EST	13300
@@ -38,6 +52,7 @@ Déploiement du Desk ENR	1993
 ENR BC	13725
 ENR Sector	29
 ENREGIS-	13300
+ENREGISTREMENT	16636
 ENREGISTREMENT DES NAISSANCES A L’ÉTAT CIVIL	13300
 ENREGISTREZ	13300
 ENREGISTREZ L'HEURE. HEURE	13300
@@ -52,13 +67,16 @@ ENREGISTREZ TOUT CE QUI EST TRADITIONNELLE	13300
 ENREGISTREZ TOUTES LES RAISONS MENTIONNÉES MANQUE	13300
 ENREGISTRÉ CI-DESSOUS. OU PLUS	13300
 ENREGISTRÉ LE NUMÉRO D'ORDRE POUR TOUS	13300
+ENREGISTRÉES	16249
 ENRICHING AI SURVLANCE INFRASTRUCTURE	14004
+ENROB. COMP. PELL	15930
 ENROL	11156
 ENROLLMENT	12146
 Education Education Enrolment Education Completion Human	10837,1315,188
 Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
-Enregistre	10876
-Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18
+Enreg	15999
+Enregistre	10876,5032
+Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91
 Enregistrement Cadastral	10876
 Enregistrement Cadastral CEDEAO Communauté	10876
 Enregistrement Communal	10876
@@ -66,44 +84,58 @@ Enregistrement Droit	10876
 Enregistrement Ensemble	10876
 Enregistrement Publication Enchères Ouverture	13341
 Enregistrement Systematique des Naissances	14574
+Enregistrement Tardif des Enfants	16106
+Enregistrement Tardif des Enfants Scolarisés	16106
 Enregistrement des Abonnés	13301
 Enregistrement des Electeurs	14813
 Enregistrement des Faits	9637,1
 Enregistrement des Graphique	13300
-Enregistrer	747,258,5949,963,2959,2499
+Enregistrement des OID	16115
+Enregistrer	747,258,5949,963,2959,2499,2659,60,653
 Enregistrer Figure	13375
 Enregistrer. Si	13375
-Enregistrez	747
+Enregistrerlesinformationssurleresponsabledetraitement	16034
+Enregistrez	747,15882
+Enregistrée	15780
+Enric Aguilar	16135
 Enrich	12493,479
 Enriched	160,152,240,14,17,171,19,220,197,9,2,15,61,301
 Enriches	4429,2636
 Enriching Voyage	2367
 Enrichingsynonymresourcesusingdomain-specificontologies	8606
 Enrichingwordvectorswithsub-	8606
+Enrichir	15568
+Enrichis	16381
 Enrichissant	8891
-Enrichissement	13405
+Enrichissemen	15500
+Enrichissement	13405,2163
+Enrichissement Il	16381
 Enrichissement Illicite ONU Organisation des Nations Unies	6959
 Enrico Bagnasco	3342
 Enrique	4209
 Enrique Fanta Ivanovic	13290
 Enrique Rojas	12948
+Enriquecimento Ilícito	16487
 Enriquez	12333
 Enroll	2604,8161,10,1678
-Enrolled	11006,498,936
+Enrolled	11006,498,936,3278
 Enrolled OVC Beneficiaries	12977
 Enrolling	571,4877,5685,791,2992
-Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68
+Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24
 Enrollment Data	14501
 Enrollment Kits	13424
+Enrollment Rates API	15630
+Enrollment Ratio Gross Intake Ratio Global	16436
 Enrollment The Gender Parity Index	12411
 Enrollment and Completion	13991
 Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638
 Enrolment Education	12356
 Enrolment Infrastructure	11774
 Enrolment Ratio OSM	13960
+Enrolment School-aged	15604
 Enrolment and Completion	13991
 Enrolment of Female Learners	2775
 Enrolment of International Students	14775
@@ -112,28 +144,37 @@ Enrolment of Male Learners	2775
 Enrolment of Mauritian Students Overseas	14775
 Enrolment of Special Education Needs	14775
 Enrolment of Students	12411,2364
-Enrôlement	1187,1278,2276,1353,8386,99
+Enrolments	16253
+Enrprr.utteur	15399
+Enrprtrlttcttr	15399
+Enrôlement	1187,1278,2276,1353,8386,99,835,928
 Enrôlement Scan	14480
 Enrôlement du Président	3337,4,1472,2351
 Entreprise Enregistrement	14488,1,1
 Entreprise Phase Préparatoire Enregistrement	14488
 Estimated Enrolment	14775
+Etape Description Réception Enregistrement	15908
 Evolution of Gross Tertiary Enrolment Ratio	14775
 Evolution of Student Enrolment	14958
+Exécution Financière Enregistrés	16469
 F ENREGISTREZ TOUT CE QUI EST	13300
 F INJECTION INJECTION ENREGISTREZ TOUS	13300
 FCFA Gross Domestic Product Gross Enrollment	11905
 Fokontany Enregistrement	14480,8,1,1
 GER Gross Enrolment Rate	14916
 GER Gross Enrolment Ratio GGR Gross	14747
+GOZEM CONGO. Enregistrée	15780
 General and Professional Secondary Education Enrollment	12411
+Ghanaians Enrolled	16374
+Gozem CG Financing. Enregistrée	15780
+Gross Domestic Product GER Gross Enrolment	15604
 Gross Enrollment Rate	12411
-Gross Enrollment Ratio	13314
+Gross Enrollment Ratio	13314,3122
 Gross Enrollment Ratio Central African	13314
 Gross Enrolment Rate	12175,24,2717
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
-Gross Enrolment Ratio	13991,756
+Gross Enrolment Ratio	13991,756,857
 Gross Enrolment Ratio GoSE Government	13960
 Gross Enrolment Ratio for Basic and Secondary Education	14958
 Gross Tertiary Enrolment Ratio	14775
@@ -141,21 +182,27 @@ Gross Tertiary Enrolment Ratio HEC	14775
 Gross Tertiary Enrolment Ratio The Gross	14775
 Gross and Net Enrolment Rates	13399
 Gustave Enrichir	5022
+HYDROCHLOROTHIAZIDE COMP. COMP. COMP. ENROB. COMP	15930
 Health Sciences’ Students Enrolment	2775
 Higher Education Enrolment	12199
 IDENTITY ENROLMENT AND BIOMETRIC CAPTURE	12047
+INJ. COMP. ENROB	15930
 Impression de Carte Périmètre Enrôlement Périmètre IDMS	14480
+Initiative GER Gross Enrollment Rate GHG	15661
+JE SOUHAITE ENREGISTRER MON COMPTE MAIS	16629
 Jorge Enrique Celis Giraldo	15059
 LIGIBLES DANS Q.153. ENREGISTREZ LE NUMÉRO	13300
 Learner Enrollment	12411
 Local Government’s National ID Enrolment	11857
 Low ICT Enrolment	14729
 L’onglet Enregistrer	13375
+M. Enrique DUMAIRE	16175
 MASS ENROLMENT	1920
 MASS ENROLMENT AND RENEWAL EXERCISE	1920
 Mario Draghi and Enrico Letta	9832
 Mass Enrolment and Renewal Exercise	1920,7466
 Mauritius. Enrolment	14775
+Mid-Term Review Net Enrollment Ratio Non-Governmental	16436
 NDPA. Enrolment	9670
 NER Net Enrolment Rate	14916
 NIMC Enrols	7141
@@ -165,12 +212,16 @@ National Enrolment	13399
 Neither Enrolled	15244
 Net Enrollment Rate	12411
 Net Enrollment Rates	12411
+Net Enrollment Ratio	16436
 Net Enrolment Rate	12175,24
 Net Enrolment Rates NESIP	12175
 Net Enrolment Ratio	12175,1816
 Net Tertiary Enrolment Rate OU	14775
 Nigerian Government Intensifies National Identity Enrolment	7141,3
+Non-Citizens Enrolled	16374
+O COMBATE AO ENRIQUECIMENTO ILÍCITO	16487
 OBJET DE LA REQUETE Enregistrement	10821
+PDO Outcomes Enrollment and Empanelment	16079
 PERSONNEL PERSONNE ET ENREGISTREZ TOUT ACCOUCHEUSE	13300
 Phase Préparatoire Enregistrement	14489
 Platform Enrolment	4528,7984
@@ -180,17 +231,21 @@ Primary Education Enrollment Rates	12411
 Primary Gross Enrollment Ratio	14897
 Primary and Junior School Enrolment	2775
 Product GER Gross Enrolment Ratio GPI	14896
+Promotion des EnR	16621
 Public Services for Women Education Enrolment Public	10759
 Pupil Enrolment and Number of Teachers	2775
 Q.159 ET ENREGISTRER LE NUMÉRO	13300
 Registre du Courrier Enregistrement	10975
 Research Network GER Gross Enrollment Rate	13991
 Responsables Coût Phase Préparatoire Enregistrement	14490
+Référentiels Normes Procédures Enregistrement	16692
 SCOLAIRE ENREGISTREMENT DES LIGNE ACTUELLE	13300
+SERVICES CLIMATIQUES ET AVANCÉES ENREGISTRÉES DANS	16621
 SOCIAL STATISTICS Student Enrolments	13479
 SOEURS ENREGISTRÉS	13300
 STEM Education and Enrolment	11140
 Saisines Enregistrées Dossiers	10975
+School Enrolment	15796
 School Enrolment and Attendance	14851
 Secondary Education Enrollment Rates	12411
 Secondary Gross Enrollment Ratio	14897
@@ -199,6 +254,7 @@ Sectors Enrolled	12551
 Services. Enrolment	12359
 T Enrolment	14729
 TAPE ACTION ENREGISTREMENT ET EXAMEN PRELIMINAIRE	14424
+TITRE VI ENREGISTREMENT	15999
 TOUT ENREGISTRÉ	13300
 TRE ENREGISTRÉE EN ANNÉES. IL	13300
 TRE ENREGISTRÉE EN JOURS	13300
@@ -207,8 +263,10 @@ Tableau C.6 Enregistrement	13300
 Tailored Enrollment	11987
 Teacher Trainees Enrolment	2775
 Tertiary Enrolment Ratio	14775
+Training NER Net Enrolment Rate NGO	15604
 TÉ ENREGISTRÉE COMME AYANT	13300
 TÉ ENREGISTRÉE. JOUR MOIS ANNÉE BCG	13300
+UCP Enregistre	15908
 UPDATE OF MASS ENROLMENT EXERCISE	1920
 University Enrolment1	2775
 Ward Enrollment Exercise	4291

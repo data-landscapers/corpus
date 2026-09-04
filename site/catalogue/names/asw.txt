@@ -1,6 +1,35 @@
 Aswa County	10890
-Aswan	4048,5366
+Aswan	4048,5366,6059,131,59,295,19,69,33
+Aswan Dam	15473
+Aswan Governorate	15473,105
+Aswan Governorate Paving	15578
+Aswan Luxor Kafr El Sheikh Dakahlia	15578
+Aswan Minya Ismailia Qena Luxof Faiyum	15578
+Aswan Sharqia Gharbia Damietta Kafr	15578
 Aswat Nissa	9595
 Aswath Damodaran	1944
+Asyut Aswan Beheira Faiyum Dakahlia Beni	15578
+Asyut Qena Faiyum Luxor Gharbia Aswan	15578
+Asyut Sharqia Giza Gharbia Aswan Damietta	15578
+Asyut Sohag Monufia Minya Qena Aswan	15578
+Beheira Menya Aswan Qena Faiyum Sohag	15578
+Beheira Minya Aswan Monufia Qena Sohag	15578
+Beheira Minya Aswan Sohag Monufia Asyut	15578
+Beheira Monufia Aswan Asyut Faiyum Sohag	15578
+Beheira Sohag Aswan Asyut Minya Monufia	15578
+Beheira Sohag Aswan Minya Monufia Qena	15578
+Beheira Sohag Asyut Minya Qena Aswan	15578
+Beni Suef Minya Sohag Aswan Luxor	15578
+CREWS ASW	16698
+CREWS ASW DRC Project	15916
+CREWS ASW Guinea Project	16698
+Faiyum Aswan Sharqia Dakahlia Asyut Giza	15578
 MP for Aswa County	10672
+Minya Asyut Sohag Beheira Monufia Aswan	15578
+Minya Sohag Qena Asyut Aswan Beheira	15578
+Minya Sohag Qena Asyut Aswan Faiyum	15578
+Monufia Beni Suef Sharqia Giza Aswan	15578
 School of Communication Dr. Daniel Robert Aswani	14555
+Sohag Aswan Menya Asyut Qena Beheira	15578
+Sohag Aswan Minya Asyut Qena Beheira	15578
+Valley Sohag Damietta Beheira Aswan Luxor	15578

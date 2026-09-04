@@ -7,11 +7,13 @@ Avatar of TBryMMz	12478
 Baseline TBC	13058
 Bill of Quantities TBA	1988
 CIDRZ Hosts Uganda’s R2D2 TB Network	10374
+Caractéristiques TBN	15599
 Clinics and TB	12421
 Commodity TB Commodities ARVs and PrEP Opportunistic	4217
 Completed Planned July August On-going TBC	8999
 Components PBC Baseline End Target RESULT FRAME TBL	13331
-Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545,2503
+Components RESULT FRAM E TBL IO Indicator Name PBC	15518
+Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545,2503,2221
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Curing TB	4260
@@ -28,18 +30,22 @@ Ensino Secundário TécnicoProfissional Província TBE	10766
 Entry-level Printers TBA	1988
 Ethical Committee TB Tuberculosis Declarations Ethics	12379
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
+Exploitation du Backbone Tbps Terabits	16626
+Geovic Mining Corp TBD	15542
 Global TB	4301
 Global TBD	14997
 HIV TB	4301
-HIV and TB	3385,832,84,10006
+HIV and TB	3385,832,84,10006,1418
 Heart of Health Management TBI	7764
 High. Rating Relevance TBL Rating High	14888
 I Can End TB	2626
 I TBnodRed	4301
 II. TB	4260
 Ic Georgia Asia Western Asia Tbilisi	10840
+Improvement Value TBD	16638
 Improving TB	10784
 Indicators RESULT FRAME TBL PD O Indicator Name	10829
+Information TBS	15848
 KENYA WITH TB	14546
 KoN and TB	771
 Label of ZRCP TBA	1988
@@ -57,6 +63,8 @@ Mozambique. HIV and TB	771
 NSP TB	10776
 National TB	10784
 Network Equipment for Data Center TBA TBA	1988
+Number TBD TBD	15901
+Number of Number TBD TBD	15901
 Number of TBD	14997
 OHS TBD	4260
 Outcomes RESULT FRAME TBL PD O Indicator Name	1284
@@ -64,22 +72,28 @@ Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
 PMTCT and TB	14923
+PROGRAM ACTION PLAN PAP CHANGE TBL Action Description	16032
 Patients Screened for TB	12977
+Patients TB	16722
 Planification Economique ADD FIN TBL1	1284
 Policy Areas EVOBJ TBL Page	10779
 Previous TB	12678
-Project Development Objective Indicators RESULT FRAME TBL PD	10964
+Project Development Objective Indicators RESULT FRAME TBL PD	10964,4589
 Project Objectives and Components DEVOBJ TBL	14888
+Project Yes No TBD Environmental Assessment	15411
 QC QMS RTCQI SHA STI TB	4153
 Qty TBD	12763
 Qty TBD TABLE	12763
 Quantity of ZRCP TBA	1988
-RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545,2503
+RESULT FRAM E TBL IO Indicator Name PBC Baseline	15518
+RESULT FRAM E TBL PD O Indicator Name PBC	15518
+RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545,2503,2221
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
 RESULT FRAME TBL IO PBC Baseline End Target	13331
 RESULT FRAME TBL IO PBC Baseline Intermediate Targets	10964
-RESULT FRAME TBL PD O Indicator Name PBC	10829,135
+RESULT FRAME TBL PD O Indicator Name PBC	10829,135,4589
 RGPH SEN SFP SIGE SPE TBA	10766
+RMA SNIS TBM TBN TFA TFT	15599
 RT Mupita7 TBL Molefe7	10793
 RV SIDA SRO TBF TBN TCA	10777
 RW7L0KQSP UGBpW7gwDsF TbcvEgS	4583
@@ -88,7 +102,7 @@ Road Safety ZRCP TBA	1988
 S-Annual TB	4301
 SADC Trade Protocol TBT	13320
 SADC Trade Protocol TBT Annex	13320
-SPS and TBT	11149
+SPS and TBT	11149,4329
 SRMNIA SSP STAR TAB TAS TB	14622
 Service du Transport du Burundi TBM	13377
 Sexually Transmitted Infections TB	10776
@@ -100,6 +114,7 @@ Stop TB Partnership	2816
 Support for World TB Day	12729
 Système Educatif National TBS Taux Brut	12
 TB Acceleration Plan	12729
+TB Accra	15386
 TB Backup	9475
 TB CTO for Cohesity	14802
 TB Campaign	8301
@@ -114,6 +129,7 @@ TB EMR	10784
 TB Elimination Acceleration Program	4260
 TB Elimination Acceleration The Government of Mozambique	4260
 TB Hack Claim Secondary	5146
+TB Kumasi	15386
 TB LFF SAS	12681
 TB Modelling Working Group	10784
 TB Multisectoral Accountability Framework	12729
@@ -153,28 +169,40 @@ TB. Malaria	4349
 TB. Prevention	4260
 TB. Still	12678
 TB. The Government of Mozambique	4260
+TB. Vai	15505
 TBA Improper	1988
 TBBPA	1988
 TBC Frontiers	5241
 TBC Frontline Healthcare Worker Type	4167
 TBC Public-Private Partnerships for Collaborative Regulation	5241
+TBC SA	16623
 TBC Simultaneous PforR	3604
+TBC To Be Confirmed USD United	16188
 TBD Administrative	14935
 TBD Agriculture	970
 TBD Business Census Reports	14935
 TBD Cooperation	970
+TBD EMIS K02	15604
+TBD EMIS K04	15604
+TBD EMIS K08	15604
 TBD ESS	13523
+TBD Etat du Cameroun	15542
 TBD F Good Governance	970
 TBD Gas-to-Power Use Case Feasibility Study	12399
 TBD Health	970
 TBD IE	970
+TBD JESR Reports K02	15604
 TBD Knowledge Transfer	12399
+TBD MoETE K05	15604
+TBD MoETE K06	15604
+TBD MoSS	15977
 TBD No Feasibility Study	12399
 TBD Social Recovery and Human Development	970
 TBD Tax-to-GDP	789
 TBD Technical and Business Model Development for Clean	12399
 TBD Wind Project	12399
 TBE TC TLE TT ZIPs Gabinetes	10766
+TBEUGDIQGEUTED1ET	16195
 TBI Country Director	4046
 TBI Country Director Maria Mkandawire	4046
 TBI and UNDP	4046
@@ -197,25 +225,33 @@ TBnotified	4301
 TBryMMz	12478
 TF LEGAL TBL1 Description Status Action	1284
 Target RESULT FRAME TBL PD O Indicator	13331
+Target TBD	16638
 Taux Brut de Mortalité TBR	13377
 Tb Capacity for Backup. Production	11209
+TbhyisthdeoNcautmioneanltRbeuseiladrschonCetnhteer	15713
 Tbilisi	12413
 Tbill	14997
-Tbits	5138,9307
+Tbits	5138,9307,1097
 Tbps BB	10995
 Tbps Peak Traffic Handled	13704
 Tbps Sample Ghana	3184
 Tbps Traffic Milestone	2754
 Tbps. Capacity	4676
+Tbps. Cette	16641
 Tbps. Financed	627
+Tbps. In the Mediterranean	15941
 Tbps. Medusa	4676
 Tbps. Meta	511
 Tbps. Owned	10378
+Tbps. The GoC	15372
 Tbtshsee	11152
 Tbute	13781
 Tbutefois	13781
 UNDP and TBI	4046
+UNESCO UIS TBD EMIS K05	15604
+Urgence Complets TB Tuberculose ViH Virus	15711
 V Namibia-Botswana Interconnector TBD No Pre-Feasibility	12399
+V TECHNO SYSTEM TB	16623
 Video Surveillance Package TBA	1988
 WTO TBT	1988,11046,286
 WTO TBT Agreement	13320

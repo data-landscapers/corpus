@@ -3,7 +3,7 @@ Alto Comando Militar	10114
 Ayudante Grupo E Comandante Embarcación Corresponsal	4209
 COMACO	12376
 COMAN SA Traitement	10821
-Centro de Comando	10788,604
+Centro de Comando	10788,604,4111,777
 Centro de Comando da Polícia Nacional	9994
 Centros de Comando	10788
 Comandachina	3179
@@ -12,10 +12,29 @@ Comandante Coordenadores	10751
 Comandante Embarcación	4209
 Comandante Supremo Nações Unidas	11569
 Comandante-Geral da Polícia Nacional de Angola	4147
+Comandantes Regionais	15503
+Comando	16290
 Comando Geral	11392
 Comando Geral da Polícia Nacional	794
 Comando Geral da Polícia Nacional de Angola	794
+Comando Metropolitano	16487
 Comando Provincial da Polícia Nacional de Angola	794
+Comando Regional	15503
+Comando Regional da Boa Vista	15503
+Comando Regional da PN	15520
+Comando Regional de S. Vicente	15503
+Comando Regional de Santiago Norte	15503
+Comando Regional de Santiago Sul	15503
+Comando Regional de Santo Antão	15503
+Comandos	15503
+Comandos Regionais	15503
+Comandos Regionais da PN. Assim	15503
+Comandos Regionais da Policia Nacional	15503
+Comandos Regionais da Policia Nacional. Artigo	15503
+Comandos Regionais de Santo Antão	15503
+Comandos Regionais de São Vicente	15503
+Comandos da Secção Fiscal	15503
+Comarca da Praia. CAPÍTULO IV DISPOSIÇÕES TRANSITÓRIAS	15433
 Comarcas	5424
 Comisario Jefe Superior Capitán de Corbeta Comandante	4209
 Comisario Principal Capitán Capitán Infantería Comandante	4209
@@ -25,10 +44,15 @@ Instancia Secretario Juzgado Comarcal	4209
 Juzgado Comarcal Secretario Particular	4209
 Ministerio Juez Comarcal Secretario Juzgado Comarcal	4209
 O Comando Provincial da Polícia Nacional	794
+O Comando Regional de Santiago Norte	15503
+O Comando Regional de São Vicente	15503
 Oficial de Protocolo Secretario Juzgado Comarcal Conserje	4209
+Os Comandos Regionais da Polícia Nacional	15955
+Os Comandos Regionais de São Vicente	15503
+PN. Os Comandos Regionais da PN	15503
 Primer Ministro Juez Comarcal Juez Distrito	4209
 Registo da Comarca de Mbanza Kongo	5296
 Roger Coma Cunill ABBREVIATIONS AND ACRONYMS	11380
-Tribunais de Comarca	10752
+Tribunais de Comarca	10752,5389
 Tribunal de Comarca	10751
 Um Centro de Comando	10788

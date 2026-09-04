@@ -37,7 +37,7 @@ Act the Mauritius Emerging Technologies Council	14735
 Adamaoua Regional Council	10980
 Address Supporting Organisation Address Council	14433
 Address Supporting Organization Address Council	8047
-Administrative Council	6488,1305,145,12,1806
+Administrative Council	6488,1305,145,12,1806,6290
 Administrative Council P.O. Box	6488
 Advisory Council	6946,2670,2930,370
 Advisory Council PART IV	12546
@@ -47,13 +47,14 @@ Advisory Credit Reporting Council	15023
 AfCFTA Council of Ministers	7142
 AfCFTA Council of Ministers Responsible for Trade	7039
 AfCFTA Council of Ministers. Okala	8421
-Africa AI Council	2682,1305,43,553,1458,209,276,728,1,602,2216
+Africa AI Council	2682,1305,43,553,1458,209,276,728,1,602,2216,5661
 Africa AI Council ICT Ministers	3987
 Africa AI Council and Algeria	7254
 Africa AI Council. South Korea	4067
 Africa AI Council. The Board	4030
 Africa Business Council	13899
 Africa Chamber Investment Summit the Council	9852
+Africa Frontline First Launches High-Level Council	15833
 Africa. The Council	3702
 AfricaNenda Council Chair	13052
 African Council for Artificial Intelligence	15203
@@ -84,7 +85,9 @@ Another Atlantic Council	8495
 Any Member State. the Council of Ministers	11517
 Arab Council of Ministers Responsible for Cybersecurity	3948
 Arab Economic Unity Council	8133
+Arab League's Economic Unity Council	16622
 Arab Ministers of Council for Communications and Information	8534
+Arab Telecommunications and Information Council of Ministers	16046
 Arab Telecommunications and Information Ministers Council	4865
 Aranos Primary School Aranos Town Council	13046
 Area Councils	11129
@@ -125,7 +128,7 @@ Botswana Examinations Council	12574
 Botswana National Youth Council	12642
 Botswana's End Malaria Council	12606
 Bright Chiwama Published By Examinations Council	13477
-British Council	9579,1460
+British Council	9579,1460,4565
 British Council Building Private Bag	12214
 British Council Global Get	14897
 Broadband Council	11857
@@ -147,14 +150,18 @@ COUNCIL	1807,4669,1,1344,34,1544,5010,326
 COUNCIL OF ELDERS	585
 COUNCIL OF ELDERS CHIEF EXECUTIVE	585
 COUNCIL OF LEGAL EDUCATION Data Processor	7167
+COUNCIL OF MINISTERS	15374
+COUNCIL OF MINISTERS Abuja	15374
 COUNCIL OF MINISTERS REGULATION TO PROVIDE	13986
 COUNCIL OF MINISTERS Resolution No	12779
+COUNCIL OF MINISTRIES	16594
 COUNCIL OF MSB ON INTERNAL CONTROL	14736
 COUNCIL OF THE MAURITIUS STANDARDS BUREAU	14736
 COUNCIL Of MINISTERS Resolution	3861
 CRP.5 Council	3583
 CSD Central Supplier Database CSIR Council	5533
 CSF Community Safety Forum CSIR Council	11188
+Cabo Verde's Council of Ministers	2127
 Cameroon Urges North West Councils	7336
 Capacity Building of Tinkhundla Councils	12970
 Cape Metropolitan Council	6683
@@ -198,10 +205,14 @@ Community Councilor	12661
 Community Councils	12699
 Community Councils of Seate and Mphokojoane	12699
 Community. The Council	11806
+Company Egypt Green Building Council Governorates	15578
 Competitiveness Council	12956
 Completion Date District Council of Flacq Construction	14746
+Component CONASUR National Council for Emergency Relief	16384
 Composition of Council	12919
+Conduct of Council of State Elections	15927
 Conference The Research Council of Zimbabwe	1154
+Congo. The Council	16434
 Constituency Office Bethanie Village Council Tses	13046
 Constituency Office Ongwediva Town Council	13046
 Constitution of Councils and Subordinate Authorities	12531
@@ -221,9 +232,10 @@ Coordination Council	11006
 Corporate Council	3093,4
 Cost Sources Technologies Council	7548
 CounCil of Ministers	11517
-Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60,107,1,11,1,10,3,51,1,99,8,179,146,15,44,8,7,468,3,76,27,71,212,75,13,12,127,40,29,34,50,1,4,16,1,2,4,26,5,1,20,12,20,9,4,8,50,100,4,6,228
+Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60,107,1,11,1,10,3,51,1,99,8,179,146,15,44,8,7,468,3,76,27,71,212,75,13,12,127,40,29,34,50,1,4,16,1,2,4,26,5,1,20,12,20,9,4,8,50,100,4,6,228,128,538,149,152,319
 Council ARTICLE	14409
 Council Act OAG Office	6432
+Council Administrations	15721
 Council Advisory Committee	3583
 Council Board	1154
 Council CHAPTER SIX	14409
@@ -239,7 +251,7 @@ Council Cession. Pur- Township Stand	4896
 Council Conclusions	11155,2837,1009
 Council Decision	13051
 Council Digitisation Project	13664
-Council Directive	5700
+Council Directive	5700,10931
 Council Directors	1554
 Council FRSC AMAC CEO Redeemed Christian	11129
 Council Finance	1554
@@ -252,6 +264,7 @@ Council Meeting	9761,5033
 Council Member Mr. S Purdasseea Council	14736
 Council Ministers	4929
 Council National AI	12356
+Council OHADA Organisation	15661
 Council Office BSTP Cameroon Bank for Small	10980
 Council Preparatory Meeting	7808
 Council Project Management	14738
@@ -265,13 +278,15 @@ Council Subject	14409
 Council The Council	14409
 Council Westwiew	4896
 Council and Committee	14736
+Council for Artificial Intelligence	16202
+Council for Childhood and Motherhood NCEEE National Centre	15604
 Council for Higher Education	11277
 Council for Natural Scientific Professions SA-EU South	5246
 Council for Non-Governmental Organisations	13134
 Council for Planners SALGA South African Local	11261
 Council for Promote	7548
 Council for Quality. Assurance	1009
-Council for Scientific and Industrial Research	396,36,1,5100,1523,23,2047,1680,419,40,71,17,624,9,11,93
+Council for Scientific and Industrial Research	396,36,1,5100,1523,23,2047,1680,419,40,71,17,624,9,11,93,4107
 Council for Trade	1243
 Council of African IT Agencies	3272,1311
 Council of African Internet Governance Agencies	8343,2107
@@ -286,12 +301,13 @@ Council of County AI Focal Point Intergovernme	7548
 Council of County Governors	14422,27,44
 Council of Education Ministers	11180,40
 Council of Elders	585,8281,1125
-Council of Europe	25,404,346,501,538,303,3246,1000,2073,2699,1260
+Council of Europe	25,404,346,501,538,303,3246,1000,2073,2699,1260,3613
 Council of Europe Convention	8776,2132,246,3636
 Council of Europe Framework Convention	7112,4023
 Council of Europe's Glacy	783
 Council of Europe's Global Action	783
 Council of Europe’s Framework Convention	11135
+Council of Europe’s Steering Committee for New and Emerging	16202
 Council of Financial System Supervisors	6938
 Council of Foreign Relations	8788,2366
 Council of Government	13733
@@ -304,8 +320,9 @@ Council of Higher Education of Türkiye	15249
 Council of ICT Ministers	10073
 Council of Implement	11906
 Council of Land Surveyors	12511
+Council of Min-	15901
 Council of Minis	14874
-Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25,545,8,7,33,26,504,537,62,38,18,12,8,27,5,66,207,80,25,123,293,15,9,10,5,118,65,19,57,87,105
+Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25,545,8,7,33,26,504,537,62,38,18,12,8,27,5,66,207,80,25,123,293,15,9,10,5,118,65,19,57,87,105,23,11,19,54,103,71,20,18,310,415,50
 Council of Ministers Approves	14122
 Council of Ministers Approves Digital Ethiopia	14051
 Council of Ministers Decree	12201
@@ -315,7 +332,7 @@ Council of Ministers No	10765,10
 Council of Ministers Proclamation	12890
 Council of Ministers Regulation	762
 Council of Ministers Regulation No	14004
-Council of Ministers Resolution	3861
+Council of Ministers Resolution	3861,12122
 Council of Ministers Resolution No	7624
 Council of Ministers Responsible for Trade	7142
 Council of Ministers Shall	11517
@@ -332,16 +349,18 @@ Council of Ministers. So	11555
 Council of Ministers. Strengthening	8647
 Council of Ministers. The Electronic Signature	14051
 Council of Ministers. Upon	745
+Council of National Universities	16255
 Council of Pamplemousses	14746
 Council of Patriots for Democracy	6122
 Council of Persons	15036
 Council of Quatre Bornes	14746
 Council of South Africa	8301,5161
-Council of State	11,1880,9046,1017
+Council of State	11,1880,9046,1017,3505,468
 Council of Zambia	13392
 Council of Zambia Editorial Team Dr Michael	13477
 Council of Zimbabwe	1154,400
 Council of Zimbabwe Risk Committee	1154
+Council's Advisor	16622
 Council's Audit Committee Charter. Financial Reporting	1554
 Council's Governing Board	14664
 Council. ARTICLE	14409
@@ -372,7 +391,7 @@ Councillor Cyril Xaba	11275
 Councillors	12521,10,587,263,6,12,1056,480
 Councillorss	13381
 Councilors	11129
-Councils	970,184,1897,810,2395,498,192,2284,1065,923,6,1145,162,75,50,43,1249,790,127
+Councils	970,184,1897,810,2395,498,192,2284,1065,923,6,1145,162,75,50,43,1249,790,127,739
 Councils Leaders of Provincial Legislatures Fellow South	11215
 Councils PART VI- Privilege of Immunity	12531
 Councils and Settlement Councils	12771
@@ -461,6 +480,7 @@ Dutch Research Council	4368,1125,463,585,3206
 Duties of Council	14714,1
 EAC Basic Education Council	14251
 EAC Council of Ministers	12164,2783
+EC Council Certified Security Analyst Advanced	15662
 ECOWAS Business Council	7452
 ECOWAS Business Council. Dr. Abdul Kamara	7452
 ECOWAS Convergence Council	7452
@@ -477,6 +497,7 @@ EOC Enterprise Operational Centre CSIR Council	11986
 ESWATINI HIGHER EDUCATION COUNCIL	12975
 ESWATINI SPORTS AND RECREATION COUNCIL	13131
 EU Council Conclusions	970
+EU Council Framework Decision	15901
 EU-US Trade and Technology Council	11154
 EUMETSAT’s Council	11291
 EUROPEAN PARLIAMENT AND THE COUNCIL	7821
@@ -491,6 +512,8 @@ Education Council	4126
 Education Labour Relations Council	11241
 Education Standards and Quality Assurance Council	899
 Egypt National AI Council	4126
+Egyptian Health Council	15725
+Egyptian Health Council. Egypt	15725
 Egypt’s National Council for AI	7836
 Electronic Information Systems Management Advisory Council	12919,63
 Electronic Services Council	4299
@@ -512,6 +535,8 @@ Establishment of Councils	12531
 Establishment of Muslim Family Council	14714,1
 Establishment of Standards Council	12526
 Establishment of Statistics Council Tenure	11178
+Estate Tax Authority SCPUD Supreme Council	15473
+Estonia Council	15936
 Eswatini Council of Educators	13477
 Eswatini ECESWA Examination Council of Eswatini ECOT	12975
 Eswatini Higher Education Council	11134,1841,2,101
@@ -536,6 +561,7 @@ Executive Council Meeting	14794
 Executive Council of ASCON	7329
 Executive Council. H.E. Simeón Oyono Esono	8192
 Explore Zambia's Teaching Council	12726
+Extraordinary Meeting of GCC Ministerial Council Prime	16114
 FCCPC Federal Competition and Consumer Protection Council	11857
 FCC’s Council	10444
 FDRE Council of Ministers	10839
@@ -563,9 +589,10 @@ Fintech Governance Council	14819
 Fiscal Council	7695
 Fiscal Council Management System	5588
 Foreign Affairs Council	15001
-Forest Stewardship Council	10841,136
+Forest Stewardship Council	10841,136,4830
 Formalise Fintech Advisory Council	4848
 Framework HPCSA Health Professions Council of South	396
+Framework.pdf Arab Republic of Egypt National Council	16212
 Full Council Meetings Period Meetings First	1154
 Fully Operational National Research Council	11718
 Functional Teaching Council	13070
@@ -576,9 +603,12 @@ GENERAL ELECTION FOR LOCAL AUTHORITY COUNCILS	13046
 GITO Council	11184
 GITOC Government Information Technology Officers Council	11196
 GIZ and Human Sciences Research Council	4126
+GOPP Council	15473
 GOVERNING COUNCIL	1220
+Gender-Based Violence SSC Sector Skills Council	15604
 General Council	1243,4490,7652
 General Fund The Council	14735
+Ghana Medical and Dental Council	15927
 Ghana Tertiary Education Council	4126
 Gibeon Town Council	13189
 Global Blockchain Business Council	9147,23
@@ -597,9 +627,11 @@ Government Information Technology Officer Council	11184
 Government Information Technology Officers Council	11184,756
 Graduation Ratio HCERES High Council	14747
 Guardianship Council	12338
+Guermazi Senior Council Claudia M. Pardinas	15424
 Gugulethu Councilors	8999
 Gulf Cooperation Council	9491,1645,2770,25,108
 Gweru City Council	3051
+H.E. OLUGBENGA ASHIRU CHAIRMAN FOR COUNCIL	15374
 Harare City Council	9395
 Harare and Bindura The Research Council of Zimbabwe	1554
 Harghita County Council TrustOriginality.ai Hastings Music	8530
@@ -608,7 +640,11 @@ Health Professional Council of Zambia	34
 Health Professions Council of South Africa	396,7905,2237
 Health Professions Council of Zambia	13430
 Helao Nafidi Town Council	13189
+High Council	15393
+High Councils	15393
+High-Level Council	15833
 High-Level Drug and HIV Council	14742
+Higher Council for Urban Development	15473
 Higher Education Council	14922,75
 Higher Education Examination Council	13310
 Higher Education Examinations Council	13310
@@ -621,7 +657,7 @@ House of Peoples’ Representatives and State Councils	13948
 Human Resource Development Council	11290,3439,19,71
 Human Resources Development Council and Legal Aid	12551
 Human Resources Management Research Council of Zimbabwe	1554
-Human Rights Council	3583,1,7626,658,320,13,839,1033,1058
+Human Rights Council	3583,1,7626,658,320,13,839,1033,1058,837
 Human Rights Council Advisory Committee	3583
 Human Rights Council Resolution	6949
 Human Rights Council Sixtieth	3583
@@ -637,8 +673,9 @@ ITU Council. The Authority	7923
 IUCEA Inter-University Council for East Africa IXP	13312,2
 Indaba The Research Council of Zimbabwe	1554
 Independent Fiscal Councils	1828
+India-Gabon Business Council	16285
 Indian Council for Cultural Relation	11925
-Indian Council for Cultural Relations	13509
+Indian Council for Cultural Relations	13509,2728
 Indonesia National Financial Inclusion Council	11994
 Industrial Councils	12597
 Information Age Council	12529,7
@@ -650,6 +687,7 @@ Innovation Council	14819
 Inter-Ministerial Council	14742
 Inter-University Council for East Africa	9707,1600,2871,231
 InterAcademy Partnership Global Research Council	5246
+Interagency Data Release Board National Council	15714
 Intergovernmental Budget and Economic Council	10122
 Intergovernmental Budget and Economic Council. Supporting	9939
 International Council	8021,4304
@@ -661,6 +699,7 @@ Introduction The Eswatini Higher Education Council	13078
 Islamic Council	3046
 Ivoire's Council of Ministers	3052
 JCCE Education for Approval. The National Council	11860
+JSON National Council for Artificial Intelligence	15714
 Joint Business Council	13432
 Joint Economic Council	14719
 Juba City Council	3046,1051
@@ -692,6 +731,7 @@ Knowledge Zambia’s Council	12356
 Kongola Town Council	13189
 Korea and Africa EUMETSAT’s Council	11291
 Korean University Council for Social Service	8384
+Kotoku Zonal Council	16276
 KwaDukuza Local Municipality Senior Councillor	11266
 Kwekwe City Council	9437
 LIBERIA JOINS UN SECURITY COUNCIL	10581
@@ -724,14 +764,16 @@ Local Authorities and Councils	8677
 Local Authorities and Regional Councils	12399
 Local Authority Council	13096
 Local Authority Councils	12946
-Local Council	1988,4268
+Local Council	1988,4268,9465
 Local Council III Vice Chairperson	8589
-Local Councils	2112,10852,158
+Local Council. MoETE	15604
+Local Councils	2112,10852,158,2271,328
 Local Councils. Consequently	13122
 Local Employment Councils	10963,1
 Local Government Council	11129,847
 Local Government Councils	11129,3806
 Local Governments and Local Council Development Areas	3101
+Local Popular Council	15473
 Localization Coordination Council MPCA Multi-Purpose Cash	6947
 Logo of Council	14735
 Logo of Council The Council	14735
@@ -745,6 +787,7 @@ METSOLA For the Council The President T	7855
 MINISTERS OF HEALTH COUNCIL	14434
 MMM Council	11231
 MOHAIS and Kalumbila District Council	1988
+Malaria Council Meeting Welcome	15833
 Malaria Councils and Funds	12606
 Mali's Council of Ministers	4213
 Management Association Science Granting Councils Initiative	1554
@@ -796,6 +839,7 @@ Medical Research Council of The Gambia	4338
 Medical and Dental Council of Ghana	10523
 Meetings of Council	11178,1741,1800,16
 Meetings of Council and Subordinate Authorities	12531
+Members of Local Councils. Officers and Personnel	15393
 Membership of Council	14719
 Merton London Borough Council	13040
 Microsoft. The Atlantic Council	10088
@@ -818,6 +862,7 @@ Mozambique’s Constitutional Council	8742
 Mulayo Council	13462
 Mulobezi Town Council	2386
 Multihazard Mitigation Council	1264
+Municipal Assemblies and Regional Co-ordinating Councils	16524
 Municipal City Council	14742
 Municipal City Council and Town Council Election	14760
 Municipal City Council of Port Louis	14746,28
@@ -888,17 +933,23 @@ National Communication Council	10370
 National Construction Council	1988
 National Council	1988,1640,498,3316,217,1289,1202,453,1257,144,304,19,29,626,66,48,405,520,580,696
 National Council Industry Act	12253
-National Council for Artificial Intelligence	6997,4138
+National Council for AI	15713
+National Council for Artificial Intelligence	6997,4138,4578,1,155,333,10
+National Council for Artificial Intelligence Egypt National	15713
 National Council for Artificial Intelligence. Kenya	8088
 National Council for Arts and Culture	6351
 National Council for Audiovisual Regulation	2311
+National Council for Childhood and Motherhood	15604
+National Council for Childhood and Motherhood Child Rights	15604
 National Council for Construction	1988
 National Council for Construction Act No	1988
-National Council for Curriculum and Assessment	7492
+National Council for Curriculum and Assessment	7492,8670
+National Council for Emergency Relief and Rehabilitation	15621,696,67
 National Council for Financial Inclusion	7763,372
+National Council for Food Security	16384
 National Council for Higher Education	15164
 National Council for Information System Security	1886
-National Council for Information Systems Security	4755
+National Council for Information Systems Security	4755,10924
 National Council for Law Reporting	2709,9522
 National Council for Motherhood and Childhood Care	14853
 National Council for Older Persons Act	3005
@@ -911,7 +962,9 @@ National Council for Press and Journalistic Publications	15342
 National Council for Prices	11380
 National Council for Science and Technology	12358,2564
 National Council for Science and Technology. Equity	14922
+National Council for Social Protection	16384
 National Council for Strategic Planning	14860
+National Council for Women	15725,321,99
 National Council for Women. Building	9624
 National Council of Managing Directors of Licensed Customs	9361
 National Council of Namibia	12374
@@ -923,17 +976,20 @@ National Council of Provinces The Chairperson	11289
 National Council of Regions and Districts	7766
 National Council of SERVICOM Nodal Officers	11951
 National Council of State	11954
+National Council of Statistics	15760
 National Council the Huduma Bill	12138
 National Councils	14918
 National Cyber Security Advisory and Coordinating Council	13346
 National Cybersecurity Advisory Council	1200,335,11393
-National Cybersecurity Council	1200,577,2429
+National Cybersecurity Council	1200,577,2429,11285
 National Cybersecurity Council NCS National Cybersecurity	1777
 National Cybersecurity Council and Coordinator	1777
 National Data Advisory Council	6086
 National Data Governance Council	3861,1383
 National Data Governance and Emerging Technologies Council	6516,3,273,7769
 National Day Celebrations Municipality City Council	14746
+National Defense Council	15492
+National Defense Council’s Secretary	15492
 National Digital Advisory Council	12674
 National Digital Advisory Council Purpose	12674
 National Digital Council	3702,7184,1788
@@ -956,6 +1012,7 @@ National Examination Council of Tanzania	10196
 National Examinations Council of Tanzania	10196,479
 National Fintech Governance Council	14819
 National Food Safety and Nutrition Security Council	14818
+National Food Security Council	16384
 National Frequency Management Council	5245
 National Health Council	396
 National Human Rights Council	3583
@@ -968,6 +1025,7 @@ National Payment Systems Council	12735
 National Payments Advisory BRB Intermediate Council	13314
 National Payments Advisory Council	13314
 National Payments Council	3391,9923
+National Peace Council	15927,647
 National Planning Commission Advisory Council	12546
 National Population Council	14857,3,179
 National Press and Audiovisual Council	13739
@@ -981,20 +1039,22 @@ National Research Policy The Research Council	1154
 National Research and Innovation Council	12564
 National Research and Innovation Council. Mr Tshere	12638
 National Science and Technology Council	1554,12398
-National Security Council	11,5332,2591,3343
+National Security Council	11,5332,2591,3343,4215,1088
 National Security Council Secretariat	587
+National Security Council’s Secretary	15492
 National Seed Council	14818
 National Skills Council	14997
 National Standards Council	14273
 National Statistical Council	12643,63,51
 National Statistical Council and Committees	12643
 National Statistics Council	11873,2082,822
+National Statistics Council Institut National	15501
 National Strategic Planning Council	14857,3
 National Teachers Council	12175
 National Technical and Vocational Education Council	9450
 National Tourism Council	6646
 National Transition Council	2781,4921
-National Transitional Council	3901
+National Transitional Council	3901,12793
 National Umushyikirano Council	12358
 National Vision. The Council	1154
 National Wage Consultative Council Act	7845
@@ -1006,6 +1066,7 @@ National Youth Council	7171,5030,171,1046
 National Youth Council Departments	12642
 National Youth Council of Malawi	13122
 National Youth Environment Council	14742
+Nations Security Council	15901
 Negarit Gazette. The Council	1964
 Niger's Council of Ministers	4394
 Nigeria's Federal Executive Council	12078
@@ -1039,17 +1100,20 @@ Optical Council	14267
 Optical Council of Mauritius	14773,20
 Opuwo Town Council	13003
 Ordinary Directive Council	5568
+Organizations Supreme Health Council Health	15725
 Oshikuku Town Council	13189
 Oti Regional Coordinating Council	7457
 PART II THE NATIONAL ADVISORY COUNCIL	12916
 PART III- Powers and Duties of Councils	12531
 PART X- Revenues of Councils	12531
+PBC Council of Ministers	15969
 PCC President’s Coordinating Council PFMA Public	11224
 PCI Security Standards Council	14834
 PEBEC Presidential Enabling Business Environment Council	11857
 PHARMACY COUNCIL	14773
 PROFILE OF CHAIRPERSON AND COUNCIL MEMBERS	14736
 PSCBC Public Service Bargaining Council UAT	11986
+PUBLIC National Council for Artificial Intelligence	16212
 Parliament the National Research and Innovation Council	12638
 Partners Council Number	7548
 Partners Council Procurement	7548
@@ -1060,9 +1124,15 @@ Payments Council of India	5124
 Peace and Security Council	5825
 Peak Town Council	12977
 People. The State Council	13948
+Pharmaceutical Council	15798
+Pharmaceuticals Export Promotion Council of India	16331
+Pharmacy Council	15798
+Pharmacy Council of Ghana	16218
 Pharmacy Council of Mauritius	14773
+Pharmacy Council. Technical	15798
 Phathiswa Magopeni-Press Council	10729
 Policy Advisory Council	958
+Popular Councils	15473
 Population Council	899
 Postal Operations Council	4093
 Posts Council Agendas	11251
@@ -1110,8 +1180,10 @@ RESEARCH COUNCIL OF ZIMBABWE	1154
 RESEARCH COUNCIL OF ZIMBABWE Leadership	1154,400
 RISK COMMITTEE The Research Council of Zimbabwe	1554
 Recipient's Council of Ministers	14056
+Refugee Council	15661
 Refugee Council RLI Refugee Lens Investing	12297
-Regional Coordinating Councils	7457
+Regional Co-ordinating Councils	16524
+Regional Coordinating Councils	7457,8644
 Regional Council	13096,1
 Regional Council B Yes Local AuthorityA	12325
 Regional Council Karim Achengli	6924
@@ -1159,6 +1231,7 @@ SCIENTIFIC ADVISORY COUNCIL Sub-Part	14824
 SERVICE ACT ALLIED HEALTH PROFESSIONALS COUNCIL	14773
 SLB for Rural Councils	970
 SLB for Urban Councils	970
+SPECIFIC INSTRUCTIONS FOR REGIONAL CO-ORDINATING COUNCILS	15790
 STANDARDS COUNCIL OF MAURITIUS STANDARDS	14736
 STANDARDS COUNCIL OF MSB	14736
 Safeguard Measures The Council	14409
@@ -1175,6 +1248,7 @@ Scientific Advisory Council	14824
 Scientific Advisory Council PART V	14824
 Secretary National Judicial Council	1014
 Sector Ministries and Councils	14185
+Sector Skills Councils	15604
 Sectoral Council	13610,41,758
 Sectoral Council for Ministers	12164
 Sectoral Councils	14409
@@ -1229,6 +1303,8 @@ Sovereign Council and Council of Ministers	14884
 Spanish National Research Council	1554
 Spanish National Research Council MOU	1554
 Speaker of Nakisunga Subcounty Council	8352
+Special Council	15393
+Special Councils	15393
 Staff Council	4553
 Stakeholder Engagement The Research Council of Zimbabwe	1154
 Standards Council	12526,2195,15,70
@@ -1249,7 +1325,7 @@ Standards Council of Mauritius Standards Bureau	14736
 Standards Council. The Mauritius Standards Bureau	14736
 Star Green Building Council of South Africa	11134
 Start-Up Council	14829
-State Council	8628,1722,3598
+State Council	8628,1722,3598,1445
 State Council Zhang Gaoli	15272
 State Council of Traditional Rulers	11129
 State Council's Belkacem Debrez	3425
@@ -1275,9 +1351,18 @@ Sudan. A Localization Coordination Council	6947
 Summit. CHAPTER FIVE THE COUNCIL ARTICLE	14409
 Superior Council of Social Communication	12201
 Superior Council of Social Declaration of Principles	12201
-Supreme Council	4113,7528
+Supreme Council	4113,7528,3832
+Supreme Council for Cybersecurity	16212
 Supreme Council for Digital Transformation	15203
-Supreme Judicial Council	9064
+Supreme Council for Media Regulation	15926
+Supreme Council for Planning	15473
+Supreme Council for Planning and Urban	15473
+Supreme Council for Planning and Urban Development	15473
+Supreme Council for Planning and Urban Only	15473
+Supreme Council for Research Ethics Committee	15725
+Supreme Council of Digital Society	16212
+Supreme Council of Universities	16255
+Supreme Judicial Council	9064,6329
 TABLINGS National Assembly and National Council of Provinces	11285,4
 TCRA Consumer Consultative Council	9970
 TELECOMMUNICATIONS UNION ADMINISTRATIVE COUNCILJuly	8730
@@ -1317,6 +1402,7 @@ Transitional Military Council	15342
 Transitional Sovereignty Council and Assistant	14998
 Trois Boutiques Football Ground District Council	14746
 Twafohene Wenchi Traditional Council	10135
+UAE Cybersecurity Council	15876
 UAE-Malawian Business Council	12983
 UN Council	961
 UN Human Rights Council	3584,8617,839
@@ -1337,6 +1423,7 @@ United Nations Security Council	1638,479,1466,519,25,3888,3170,740,715,545,1301,
 United Nations Security Council Resolution	11185,25,3599
 United Nations Security Council. Prof. Murwira	13509
 United Nations Security Council. The CAR	4127
+United States Council of Economic Advisors	15518
 Universal Postal Union Council of Administration	3990
 Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
@@ -1356,6 +1443,7 @@ Village Council Elections	14742
 Village Council Karasburg East Constituency Office	13046
 Virtual Asset Council	7448,46,1736,524,201
 Vision Council	12546
+Volta Regional Coordinating Council	16596
 WAEC West African Examination Council	11860
 WAEC West African Examinations Council WAT	11952
 WCO Council Approves the Updated Study Report	14789
@@ -1363,9 +1451,11 @@ WTO Council for Trade	1243
 Ward Councillors	8999,3979
 Ward Councillors and Block Leaders	12978
 Wenchi Traditional Council	10135
+West African Examinations Council	16162
 West African Monetary Union’s Council	8275
 Women Council	12552
 Women Council and Local Council	8352
+World Green Building Council	15578
 World Travel and Tourism Council	5418
 World Travel and Tourism Council Global Summit	5418
 ZAS Exhibition The Research Council of Zimbabwe	1554

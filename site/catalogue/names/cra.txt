@@ -43,6 +43,13 @@ CRANFORD RESOURCE GROUP LIMITED Data Controller	7167
 CRAN’s Chief Executive	13159,1093
 CRAN’s Chief Executive Officer	13159
 CRAN’s National Trust Framework	12865
+CRAPC ITCMI MADRP ITAFV INRAA DGSN	16103
+CRAPC ITCMI MADRP ITAFV INRAA Révision	16103
+CRAPC MIPP CNT NF V18-111	16103
+CRAPC MIPP CNT Nouveau Thème	16103
+CRAPC MIPP CNT Nouveau Thème Révision	16103
+CRAPC MIPP CNT Révision	16103
+CRAPC MIPP CNT Révision CRAPC MIPP	16103
 CRASA	26,1,1,290,644,4279,778,33,375,293,1088,1484,400,645,874,51,166,370,1420,1296
 CRASA CEOs	5241
 CRASA Executive Secretary	9292
@@ -58,6 +65,7 @@ CRASA and Southern African Development Community	6052
 CRASA for Southern Africa	5677
 CRASC-SUD	15273
 CRASC-SUD. Cet	15273
+CRASCs	15712
 CRASP	8269
 CRATER LAKE COMPANY LIMITED Data Controller	7167
 CRATER VIEW AUCTIONEERS Data Processor INST-6296581CC35	7167
@@ -66,7 +74,7 @@ CRAVE CAPITAL LIMITED Data Processor INST-22360622CA0	7167
 CRAWL LIVECRAWL TIMEOUT	17,718,801,6009,4553
 CRAWL LIVECRAWL TIMEOUT and CRAWL UNKNOWN ERROR	14866
 CRAWL NOT FOUND	14830
-CRAWL UNKNOWN ERROR	8202,3030,24,4,17,17,47,9,33,66,346,3413
+CRAWL UNKNOWN ERROR	8202,3030,24,4,17,17,47,9,33,66,346,3413,354
 CRAY XC-30	11191
 Cameroon's Nomenclature of Craft Trades	10980
 Capital Pay International Limited and Crawford Capital	14329
@@ -78,15 +86,21 @@ Common Crawl	13461
 Common Crawl. The Inquiry	13461
 Community Outreach Tragic Kamonyi Crash Leaves	5889
 Conference and Expo. The CRA	12935
+Consommables Médicaux Essentiels CRA	16195
 Crackdown	4942
 Cracking	1988
 Cracks	6211
 Craft	8546,2750,3519
 Craft Certificate	12431
 Craft Certificate Figure	12431
+Craft Workers	16266
+Craft and Related Trades Workers	16266
 Craft of Making	11006,1
+Craft-Based Work	16266
 Crafted	5419
 Crafting	9129,1723,413,1091,1648
+Crafts	16266
+Crafts Mela	16237
 Craftspeople Council Office	10980
 Cragin	12090
 Craglia	5700
@@ -104,6 +118,7 @@ Crane	12253
 Crane AI	3065
 Crane AI Labs	7151
 Crane Cloud	985
+CraneLogin	15936
 Cranes	12253
 Cranes Part	11269
 Crank	7537
@@ -132,6 +147,7 @@ Crawley	12227
 Crawley and Teye	12227
 Critical Information Infrastructure CRASA	12759
 Crypto Market Crash	12882
+Delivery Crafts Manufacturing Tourism	16266
 Despite Crawford	6776
 Dinka and Juba Arabic. Crails	9944
 EARTH CRAVE LIMITED Data Processor INST-86219788DE9	7167
@@ -139,7 +155,11 @@ Ebola Defense After Rwanda’s Crackdown	6343
 Education Statistical Yearbook After Rwanda’s Crackdown	5606
 Emma Theofelus and CRAN	5617
 Enterprises Promotion Agency CCO BC-PME Craftspeople	10980
+F CRA.pätinfraction	15999
+Foreword Crafting Our Digital Destiny	16212
+Garment and Other Craft and Related Trades Workers	16266
 Government of Kenya.253 Although Crawford	3583
+Guinée E2IC Technology Eco Crayon Nimba	16693
 HPE Cray XD670	11471
 Hospitalized After Rwanda’s Crackdown	5889
 ICT Minister Emma Theofelus and CRAN Chairperson	6825
@@ -178,11 +198,15 @@ Richard Hall Cravath	7198
 SADC and CRASA Secretariats	26,1,1
 Sage. Cragin	12090
 Same CRAN	5498
+Services Job Opportunities Craft Centers Localization	15578
 Social Economy Organisations and Craftspeople	10980
 Social Economy and Crafts	10985
 Sources AFS AFS CRAN Portal	1944
 Sources AFS AFS CRAN Portal Table	1944
-Surajkund International Crafts Mela	11579,1038
+Suraj Kund Art and Craft Mela. ICCR	16649
+Surajkund Art and Craft Mela	16649
+Surajkund International Crafts Mela	11579,1038,3639,21
+Trade and Crafts	16256
 UCC Suspends Crackdown	4608
 University of Craiova for Journalism	4127
 VAT Registration Threshold Holder of Pleasure Craft	14757

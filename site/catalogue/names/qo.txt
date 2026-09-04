@@ -49,6 +49,7 @@ Federaalnimo. Qodobka	14859
 Finance QoS	14674
 G QoS	14674
 GHz QoS	5245
+GPP-referenced QoS	2152
 GSMA. QoS	10856
 GUDDIYADA MADAXA BANNAAN Qodobka	14859
 Garsooraha Sare. Qodobka	14859
@@ -99,6 +100,7 @@ Nabadgelinta Qofnimada	14859
 National QoS Comparison	6051
 O Qodobka	14906
 OGGOLAANSHAHA QOFKA XOGTA LEH	15152
+OI TI QO QE TP TG	16325
 Oggolaanshaha Qofka Xogta Leh	15152
 PSC Project Steering Committee QoS Quality	13331
 Photovoltaic QOSSS Quality of Service and Supply Standards	12399
@@ -129,6 +131,8 @@ QoS Quality of Service RBAC Role-based	15164
 QoS Regulations	9563,5111
 QoS Section	14674
 QoS and CoS	11857
+QoS and KPI	15372
+QoS and Key	15372
 QoS and QoE	5245
 QoS of Homeland Security	14674
 QoS. The NCA	15120
@@ -148,6 +152,7 @@ Qodobka	14859,47,24,117,105,1
 Qodobka Yaad	15047
 Qodobkaan. Qodobka	14906
 Qodobkan	14859,47,246
+Qodwa-Tech	16046
 Qofka	14859,71,222,1
 Qofka Aqoonsigiisu	14930
 Qofka Guddoomiyaha	14859
@@ -191,6 +196,7 @@ Soomaaliya. Qodobka	15152
 Supply Unit QoS Quality of Service QSFP	13185
 TRB Receives QoS Monitoring Platforms	4562
 Telecommunications QoS	5168
+Usagers PNM Portabilité des Numéros Mobiles QoS	16327
 WAXBARASHADA IYO TABABARRADA Qodobka	15047
 Waajibaadka Muwaadinka Qodobka	14859
 Wasaaradda Qorshaynta	15047

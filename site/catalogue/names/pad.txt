@@ -1,80 +1,139 @@
+AF PAD	15511
+AF’s PAD	15511
+Agency PAD Project Appraisal Document PAT	15518
 Appraisal Document PAD PDO Project Development	11855
 BANK PROCEDURE PAD	12253
+Burkina Faso and Togo. The PAD	15424
 C. Padovani	11028
 CCTs. The PAD	11924
 Cite the PAD	5620
+Communication ORAF Net Present Value PAD	15424
+Composantes du Projet Le PADCI	15746
 DFS Serviço Financeiro Digital DSS Padrões	11555
+DLR. Original PAD	16032
 DZAP PAD	1879,619,1880
 Daniella Van Leggelo Padilla	13431,1575
 Desenvolvimento POP Procedimentos Operacionais Padrão	11376
 Diretrizes Claras Sobre Padrões de Segurança	11898
+Exemple PADCI	15936
 Finance Mr. Prenesh Padayachee Group Chief	14776
+Gbps. The PAD	15424
 Gouthami Padam	11136
 Grégoire de Padirac	3036
+Guy Stéphane PADZYS	16381
 Honourable Renganaden Padayachy	14744
 Honourable Renganaden Padayachy Minister of Finance	14744
+I.3.2.2. PADCI	15936
+I.3.2.2. PADCI Le Projet	15936
 INES Padre Sialo	4209
 Inside PADA	1770
 Instituto Europeu de Padronização	2866
 Instituto Nacional de Padrões	3519
 Jorge Padilla	13461
+Le PADCI	15936
 Level-1 PAD	767
+Loan Agreement and PAD	15663
+MINEPAT MIS MTR NGO NPF PAD	15601
 MTR Mid-Term-Review PAD Project Appraisal Document	13861
+MTR NER NGO NLAS NPV PAD	16436
 Mil Sorgho Riz Paddy Maïs Souchet	737
+Mme PADONOU LOUEMBET	16039
 Ms J Padiachy	11289
+NPV Net Present Value PAD Project	15511
+Nick Padone BEYIBATSI	16381
 Nilausen and Padilla	13461
+Number PAD3789	15518
 O PADA	11413,27,1,1
+OSEP PADCI PND PRIME SONAPIE SNDI	15936
 Observatory PADEC Comorian Economic Digitalisation Support	13731
+Operations Manual PAD Project Appraisal Document	15663
 Original PAD	12780
+PAD Client Information Activities At Appraisal	15424
+PAD DATA SHEET AFRICA CENTRAL AFRICAN	15372
+PAD Data Sheet	15969
 PAD Director General Cyrus Ngo'o	4108
 PAD Level	4292
+PAD Project Appraisal Document PFM Public	15411
+PAD and FA. Other Changes	16436
+PAD and PEF	16032
+PAD and PIU	15424
+PAD for WARCIP Benin	15424
 PAD&A166	14997
+PAD-CV	16540
 PAD-INNOVENDI	4108
 PAD-PME	10980
 PAD-stage	13830
 PAD. Annexes	969
 PAD. Baseline	11924
 PAD. Construction	14010
+PAD.5	15601
 PAD00070	1193,672,34
 PAD00076	3780
+PAD00215 INTERNATIONAL BANK FOR RECONSTRUCTION	15659
+PAD1567	160
+PAD1567 INTERNATIONAL BANK FOR RECONSTRUCTION	15411
+PAD1567-PAD-P132824-R2016-0091-1-Box394887B-OUO-9.pdf	160
 PAD2144. World Bank	11924
+PAD2480	15518
+PAD26	15424
 PAD2764. World Bank	11924
+PAD3054	15663
+PAD3089	15518
 PAD3510 INTERNATIONAL BANK FOR RECONSTRUCTION	11380
 PAD3539	538,21
 PAD3541	734,8
 PAD3556	554
+PAD3759	583
+PAD3759 FOR OFFICIAL USE ONLY INTERNATIONAL	15491
 PAD4031	784,14182
+PAD4044. Forthcoming	15518
 PAD4298	772
+PAD4332	15515
+PAD4428 INTERNATIONAL BANK FOR RECONSTRUCTION	15518
 PAD4638	971
+PAD4638. Washington	15601
 PAD4661	981
 PAD4710. World Bank	11924
 PAD4756	1175,2,1,1,1,1,1,95
 PAD4954	996
+PAD5052	1584,14037
+PAD5163	15663
 PAD5527	993,585,1
 PAD5527 INTERNATIONAL DEVELOPMENT ASSOCIATION PROJECT PAPER	1284
+PAD611	15663
 PADA. Nota	11451
 PADA. O Especialista	11440
 PADA. O PADA	11413,27,1
-PADCI	1649,1226,815,90,1115,856,578
+PADCI	1649,1226,815,90,1115,856,578,9417,190
+PADCI Plan de Mobilisation des Parties Prenantes	15746
 PADCI and PARAE	5784
 PADCI and PARAE. First	5784
+PADDY	15542
 PADEC	1408,808,378,366,10771
+PADEG	15500
 PADFA	11154
+PADHI00258 FOR AN ADAPTIVE AND PRODUCTIVE	15658
 PADHI00393	14936
 PADHI00535 INTERNATIONAL BANK FOR RECONSTRUCTION	10768
 PADHI01083	12388
 PADHI01184	6665
 PADHI01184 INTERNATIONAL BANK FOR RECONSTRUCTION	6539
 PADHI01209 INTERNATIONAL BANK FOR RECONSTRUCTION	11417
+PADHI01462	16384
+PADHRS	15685
 PADIM	7736
 PADIM. Overall	2989
 PADMIR	10965
 PADMPME	12031
 PADMPME. Clôturé	10204
+PADRHS	15685
 PADSF	2421,1052,22
-PADTIC	8678
+PADTIC	8678,6943,16,34
+PADTICE	15550
+PADs and ICRs	16436
 PAFEN PAD	1284
 PARAE and PADCI	6130
+PDO. The PAD	15663
 Pad Footing	14738
 Pad The Information Commissioner	13096
 Pad. Women	14964
@@ -83,12 +142,15 @@ Padded	4479,263
 Padding	1207
 Paddy	7409
 Padilla and Nilausen	13461
+Padlet	16325
 Padongelukfondsheffinggoedere	11263
+Padonou	16359
 Padovani	11028
 Padre Pio House	5113
 Padre Sialo	4209
 Padrez	8436
 Padronizar	11392
+Padronização	15564
 Padronização de Especificações	11555
 Padronização de Sistemas de TI. Os	11555
 Padrão	11405,47
@@ -97,6 +159,7 @@ Padrão Global OC4IDS	9432
 Padrão de Dados	11405
 Padrão de Entrega	11405
 Padrão de Serviço Digital	11555
+Padrão de Serviços Os	15358
 Padrón	4209
 Padrões	2816,7961,665,19,94,1219
 Padrões Abertos de Contratação	9432
@@ -111,6 +174,7 @@ Padua	10784
 Padue. Fondée	7533
 Padvervoer	11551
 Padéma	10875
+Padéma Houet Hauts-Bassins	15715
 Paroisse Saint Antoine de Padoue de Mugera	13405
 Prenesh Padayachee	3854
 Prenesh Padayachee Group Chief Digital Officer	14776
@@ -121,6 +185,7 @@ Procedimentos Operacionais Padrão	11376
 Program PAD	11417
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
+Project Appraisal Document. Report No. PAD2480	16626
 Project Paper PAD5527	1578
 Project. PADMPME	12031
 Projecto de Aceleração Digital de Angola PADA	11442
@@ -128,15 +193,23 @@ Projet PADCI	1649
 Príncipe PrevAnteriorHOMENAGEM AO PADRE HORÁCIO SACRAMENTO	6837
 Public Administration Digital Transition Agenda and PADA	1770
 Regulamento de Padrões de Desenvolvimento de Sistemas	2816
+Report No. PAD	15601
 Report No. PAD00159	1290,9542
+Report No. PAD1567	160
 Report No. PAD3474	541
+Report No. PAD3759	15491
+Report No. PAD4428	764
+Report No. PAD4879	15553
 Report No. PAD5156	14910
 Report No. PADHI00683	2254,1308
+Report No. PADHI01072	16144
 Report No. PADHI01416	5620,1134
 Report PAD3474	543
+Report PADHI01072	5362
 Rice Paddy Production	2775
 SCG. Cite the PAD	6754
 SOP1 PAD	1264
+SSSNP PAD	15663
 Security NDC Nationally Determined Contribution PAD	11417
 Sociais PADA Projecto de Aceleração Digital de Angola	11413
 Steel PAD	14666
@@ -144,6 +217,7 @@ Tata Padado Kèlèm	9493
 V. PAD	10876
 VARIAÇÕES DOS PADRÕES DE CONSUMO ANTES	11531
 Vally Padayachee	12521
+WARDIP SOP1 PAD	16144
 WB Project Appraisal Document PAD3340	424
 World Bank PAD	538,196,441,2,1,1,1,1,1,391,11207
 World Bank PAD P167183. IATI	473

@@ -7,6 +7,7 @@ ACK ST. ANDREWS SIMENYA CDC Data	7167
 ACK ST. EMMUTSA CDC Data Controller	7167
 ACK St. James Nguruka CDC Data	7167
 ACK St. John's Kabuku CDC Data	7167
+ACRONYMS AND ABBREVIATIONS Africa CDC	16041
 AI Artificial Intelligence CDAC Communicating	15342
 AI-based CDSS	11578
 AI-powered CDSS	12246
@@ -19,6 +20,8 @@ AIC MBANGWANI CDC Data Controller INST-818132083C0	7167
 AIC Thigio CDC Data Processor INST-70340505EC7	7167
 AIP Agricultural Inputs Programme CDC Centre	12241
 APIN's Dr. Olaposi Olatoregun and US CDC	9444
+ATM BEAC BMZ CEMAC CAR CDN	15480
+AV BUCREP BUNEC CDC	15599
 About Africa CDC	4782
 Achat de Médicaments Essentiels du Burundi CDS Centre	13306
 Ack All Saints Mushililie Cdc Data	7167
@@ -29,7 +32,7 @@ Ack St. Stephens Rawa CDC Data	7167
 Act. Babatunde Bamigboye Esq. CDPRP Head	3226
 Action I.2.1 Les CDS	13306
 Adjusted CDR	12413,2643
-Africa CDC	560,2118,2104,359,62,10,165,78,455,426,158,502,710,1497,514,251,200,308,169,130,814,89,961,501,1481,54,287
+Africa CDC	560,2118,2104,359,62,10,165,78,455,426,158,502,710,1497,514,251,200,308,169,130,814,89,961,501,1481,54,287,870,178,398
 Africa CDC Chief Digital Advisor Nsengimana	5378
 Africa CDC Continental Health Data Governance	6794
 Africa CDC DG Jean Kaseya	5213
@@ -42,8 +45,11 @@ Africa CDC for Ebola	2311,24,2424,534,613,107,100,280,14,352,339,157,80
 Africa CDC's Kaseya	5203
 Africa CDC's Nsengimana	5911
 Africa CDC. Even	5213
+Africa CDC. Stratégie de Transformation Numérique de CDC	16195
 Africa CDC’s Africa Pathogen Genomics Initiative	9718
 Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052,451
+Africana de Estatística CD Conselho Diretivo CEDEAO	15535
+Afrique CDC	16195
 Agricultural Inputs Programme CDC Centre for Disease	13080
 Air Cdre. Dr. Eng. E. Kamusoko	1554
 Air Cdre. Dr. Eng. E. M	1554
@@ -68,8 +74,11 @@ Business Intelligence CDHO Chief Digital Health	12240
 CAD CDF	14683
 CAPEX Capital Expenditure CD Compact Disc	6432
 CBAO Comtech CDD564 AL CDD564	998
+CBMT. Le CDMT-L	15569
+CBMT. Le CDMT-P	15569
 CBR Crude Birth Rate CDR Crude	12413
 CCI RUIRU CDC Data Processor INST-626651D9C67	7167
+CCT Conditional Cash Transfers CDA Community	15604
 CD Communicable Diseases CDC Center for Disease	12151
 CD Continuous Integration	11952
 CD Cor	12360
@@ -79,7 +88,7 @@ CD Pipelines Requirement	11952
 CD RW	34
 CD and DVD	8958
 CD-10 Identifier ICT Integrating the Healthcare Enterprise	1009
-CD-ROM	34
+CD-ROM	34,16155
 CD-ROM Start Guide Support	34
 CD. The ICT	34
 CD012944	10881
@@ -93,6 +102,24 @@ CDAC PARAM Supercomputer	9475
 CDACNetwork Companies House Registration	15342
 CDAP Community Data and Action Plan CDC	12970
 CDB and ZTE	105
+CDC Africa	16195
+CDC Africa. Santé	16195
+CDC Afrique	15712,483
+CDC Afrique44	16195
+CDC BENIN Additif	16395
+CDC BENIN Référence S CSM 119867 Date	16395
+CDC BENIN. Publié	16395
+CDC Bénin	15954,441
+CDC Bénin Avis	16395
+CDC Bénin Référence PI DOSQ 117747 Date	16395
+CDC Bénin Référence S CSM 117252 Date	16395
+CDC Bénin Référence S CSM 117253 Date	16395
+CDC Bénin Référence S DCHSIMG 117735 Date	16395
+CDC Bénin. Avis	16395
+CDC Bénin. Référence F DCHSIMG 117731 Date	16395
+CDC Bénin. Référence S CSM 119867 Date	16395
+CDC Bénin. Référence S DCHSIMG 119765 Date	16395
+CDC CDE CDMT CEBAT CEEAC CEMAC	15542
 CDC CNBS COVID CPN CSPro DAM	10777
 CDC Center for Disease Control and Prevetion CPU	34
 CDC Covid Data Tracker	5700
@@ -114,10 +141,11 @@ CDC-CI and GREEN-PAY Partner	4627
 CDC-funded	10641
 CDD Customer	12227
 CDD Customer Due Diligence CFT Combating	12663
+CDD DOSSIER N	15671
 CDD Ghana	7662
 CDD for Existing Customers	12389
 CDD-FDD. Lors	13530
-CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1,135,13
+CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1,135,13,4143
 CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
 CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135
 CDE District Election Commission CEDAW Convention	12201
@@ -125,14 +153,24 @@ CDEAO	998
 CDEC- Microfinance	13390
 CDEC-Microfinance	13390
 CDED Conseil de Développement Economique de Djibouti	13836
+CDENO	15999
+CDER CDER Révisio	16103
+CDER IEC	16103
+CDER Nouvea	16103
+CDER Réunion	16103
 CDEs. Identification of CDEs	15034
+CDF CDF	15670
 CDF Committee	13387,33
 CDF Committees	13420
 CDF Congolese	13388
 CDF Dashboard	8741
+CDF Dépenses DEPENSES DU PERSONNEL INVESTISSEMENTS	15670
 CDF Guidelines	13122
+CDF Libellés DEPENSES DU PERSONNEL INVESTISSEMENTS	15670
 CDF Management Committee	13420
 CDF NWDT SACCO LTD Data Processor	7167
+CDF Sources	15670
+CDF Tableau	15670
 CDF and USD	3535
 CDF-MIS	13423
 CDF. Let	13387
@@ -142,6 +180,7 @@ CDH Incorporated	14932
 CDH Investment Bank Limited	12252
 CDH Investment Bank and NBS Bank	13053
 CDHIMWMW	12252,895
+CDHS5	15574
 CDI Combined Drought Index	12931
 CDI-BF	3396,4274
 CDI-E	12977
@@ -155,19 +194,36 @@ CDM ICHAGAKI HEALTH CENTRE Data Controller	7167
 CDM ICHAGAKI HEALTH CENTRE Data Processor	7167
 CDMA Code	12911
 CDMA and ADSL	35,9531
+CDMA2000	15471
+CDMG Date	16395
 CDMI Cloud Data Management Interface CEO	6432
 CDMT CGP CR CRVS CSB CTD	14425
 CDMT Organe	14425
+CDMT-L	15569
+CDMT-L. Article	15569
+CDMT-P	15569
+CDMT-P. Article	15569
+CDMT. Article	15569
 CDMT. Neither the Agence Nationale	4015
+CDMU Compact Delivery and Monitoring Unit CEEAC	16037
+CDMU Pour	16037
 CDMU and M300	12595
-CDMU. While Mission	12717
+CDMU-CP	16037
+CDMU-CT	16037
+CDMU. Dialogue	16037
+CDMU. While Mission	12717,3471
+CDN BENIN VERSION ANGLAISE.pdf	16144
+CDN Congo.pdf Page	15553
 CDN Content Delivery Network Colo Colocation	10861
 CDN Opportunities Colocate	13704
 CDN and SDN	8130
+CDN. Le PAGL2	16646
 CDN77. Cape Town	9617
+CDNET	16202
 CDNGI	12868
 CDNs Zoom	13865
 CDNs and AI	8130
+CDNs and IXPs	15480
 CDO Digital Capabilities Lab	3496
 CDO Pi	14438
 CDO. Functions	12674
@@ -180,6 +236,7 @@ CDPA and SI	13381
 CDPA and Statutory	13381
 CDPA. Step	13381
 CDPA. Such	13381
+CDPD OBRIGATORIEDADE DOS ESTADOS NA ADOÇÃO	15694
 CDPG1	13381
 CDPH. Eu	10826
 CDPI Team	5726
@@ -195,18 +252,28 @@ CDS Solutions	9533
 CDS and Fawry	9533
 CDS. L'application SPT	13306
 CDS. Une	13306
+CDSB Fingerprints	16602
+CDSB The CDSB	16602
+CDSB The Criminal	16602
+CDSMT	15569
+CDSMT-L	15569
+CDSMT-P	15569
 CDSP Ill Beneficiaries Feature Animations Documentaries	9781
+CDSP-SIPAO	15452
 CDSS Intégrer	13306
 CDSS-style	11578
 CDSS-supported	12712
 CDTSAOLU	12252
 CDTable	10714
+CDV Conseil	15724
+CDerecraetaeseadnavAaIilaInbidlituystorfydsaytastdeume	15713
 CDigital	5700
 CDncession	37
 CE NATSIKAP AIDNI COI CDAS	14843
 CE NATSIKAPAIDNI COI CDAS	14843
 CPE and CDE	12201
 CPEs and CDEs	12201
+Cameroon Telecommunication CDC	16041
 Capital Expenditures CDN Content Delivery Network	10781,1646,2055
 Care Record CDA Clinical Document Architecture	1009
 Cde Felix Mhona	13688
@@ -216,24 +283,32 @@ Cde. Dr. Emmerson Dambudzo Mnangagwa's	3760,9683
 Cde. Dr. Emmerson Dambudzo Mnangagwa's Attendance	3760,9683
 Cdhuarritn4g	11152
 Cdoensstirnufirraestdreuscrtouruetses Améliorer	6959
+CdouCnotruiens	15713
 Cdp du Sénégal	6252
 Cdp. M. Thiongane	7501
 Cdr Demissie Yilma	12298
 Cdre E.MA.irKCamdruesokMo	1154
+Cdrigolais	15584
+Centre Anti-Tuberculeux CDMT	15685
 Chairman Air Cdre. Dr. Eng. E	1554
+Changements Climatiques CDN	16621
 Chief Director CDC Coega Development Corporation	11261
 Chimkwita CDF	3035,253,61,689,520,84,1026,364,224,297
+Civil CDC Afrique	16195
 Civil and Political Rights CDU	14742
 Climate Change Funds CDMA Code Division	2775
 Cloudflare CDN	13074
+Comité de Coordination Inter Agence CDMT	15423
 Committee for Standardization CDA Community Health Centre	1009
 Community Development Committee CDO Community Development	12970
 Community Development Plan CDSF Community Development	12970
+Computer Assisted Personal Interviewing CDHS-V	15574
 Conduct CDD and Customer Identity Risk Factors	12389
 Constitutional Council CDD Centre for Democratic Development	12201
 Control CDO Chief Digital Office	13080
 Cooperation and CDmmunlties	11517
 Coordinated CD	13624
+Core Country Office Model CDC Centers	15966
 Corporation CDR Crude Death Rate CECM	2775
 Critical Data Elements CDEs	15034
 Crude Birth Rate CDR Crude Death	15056
@@ -250,35 +325,56 @@ EAPC Kiugu CDC Data Controller INST-3452558042F	7167
 EAPC MUKOTHIMA CDC Data Controller INST-384734B711F	7167
 EAPC NTHIGIRANI CDC Data Controller INST-73508091389	7167
 ESONG CDO	4209
+Electro Industries CDER Réunion	16103
 Elong CDO Nsork Wele-Nzas	4209
 Enhanced CDD	12389,2756
+Entité Territoriale Décentralisée. Le CDMT-L	15569
+Etudes de Population CDP Calendrier de Diffusion Préalable	15501
 Excellency CDE	4528,7984,1031
 Excellency the President Cde. Dr. Emmerson	3760,9683
 Expenditures MSP Managed Service Provider CDN	3184,1,1340,6470
 FSNAU and SWALIM's CDI	15093
+GLOSSARY AfDB African Development Bank CDMU	16188
+HISP UiO and Africa CDC	16409
+HISP and Africa CDC	16011,398
 HL7 CDA R2	1009
 HL7 CDA R2 Consent	1009
 HL7 CDA Release	1009
 Head of Africa CDC’s Division for Surveillance and Disease	4782
 Hewlett Packard CDD Customer Due Diligence	14897
 High Court. Africa CDC	5456
+INTERNATIONALES HENAN CHINE SA CDMC	16623
 Impossible Position Africa CDC Director-General Jean	5456
 Included CD	34
 Independent Candidates and Electoral Stakeholders CDPG	13381
 Industry Group CDF FIG INR MAS	11469
+Information CD Comité de Direction PCA Plan	15472
 Infrastructure CDMU Compact Delivery and Monitoring Unit	12717
 Internet CD Centre de Données CDIN Centre	13341
 Internet Regions. CDNs	14864
 Italy's CDP	12819
+Jeunesse CDE	15848
+Joint Africa CDC Surveillance	16409
 KYC and CDD	12227
 LLM CDSS	11578
 LLM-based CDSS	11578,7
 La CDC-CI	4549
 La CDHC	9512
+La CDMU	16037
 La CDN	8891
 La Cdp	7501
+La Stratégie de Transformation Numérique de CDC Afrique	16195
+Le CD	15472
 Le CDIN	13341
+Le CDMT	15569
+Le CDMT-L	15569
+Le CDMT-P	15569
+Le CDSMT	15569
+Le CDSMT-L	15569
+Le CDSMT-P	15569
 Lending Obligations CCP Central Counterparty CDD	14997
+Les CDN	16545
+Les CDS	15685
 MAR. CDPI	6692
 MI CDE Appropriate	6432
 MI CDE CAC	6432
@@ -288,17 +384,23 @@ Mallen CD	10780
 Masambanjati CDSS	13095
 Microsoft Office CD	34
 Minister Cheikh Oumar Seck and CDC Director	9000
+Ministères. Le CDMT	15569
 Monitoring CDMAS Centralised Data Management Analytical	11224
 Monitoring and Evaluation of CDF Projects Finding	13420
+Moyen Terme CDAV	15685
 Multiple Access CDSC Central Depository and Settlement	2775
 Mundial COUSP Centro de Operações de Energia CDC	11376
 NDGC Appointed CDOs	3861
 NDGC and CDOs	3861
+NGOs and CDAs	15604
 NPG National Payment Gateway CDF Congolese	11994
 National Health Information System South CDC	396
+National. Ces CDN	15712
 Nbubuiñ Cdo	4209
 Nigeria's CDIAL AI	3859
+Norad and CDC	16409
 Norman CD	14666
+Nouveau Thème Nouveau Thème CDER	16103
 Officer CDO Community Development Officer CDP	12970
 Official Africa CDC	4782
 Opportunities Leveraging the CDC GHS	11912
@@ -306,6 +408,9 @@ Opportunity Act AI Artificial Intelligence CDSF	12962
 Own Device CD Compact Disc	34
 PEPFAR and CDC	12977
 PM CDT Next Release Date	13930
+PNS CD	15474
+Pacte. La CDMU	16037
+Part de CDD	16322
 Pour la CDC-CI	4549
 Pour la CDHC	9512
 Prior CDC-CI	10943
@@ -324,6 +429,9 @@ Regulatory Agencies CDS Customs Declaration System	13042
 Related Posts CDPI	9804
 Responsibilities of CDO	15034
 Results The AI-enabled CDSS	11578
+Référence S CDCB 120082 Date	16395
+STRATEGIE DE TRANSFORMATION NUMERIQUE DE CDC	16195
+Santé CDT	15475
 Selection and Land Allocation Policy CD	11261
 Selon la CDHC	9512
 Senegal’s CDP	5363
@@ -334,11 +442,14 @@ Staff Writer CDC-CI Capital	10942
 Sudan CDAC Community of Practice	15016
 TFR GFR CBR CDR Neonatal Infant	12413
 TRANSFER OF PERSONAL INFORMATlON CDPG	13376
+Technologie CDMA	15542
 Through UNICEF CDS-EOS	11401
 Through WHO CDS	11401
 Tracking CDP Continuous Data Protection CIFS	13185
 Training of CDF Committee Members Findings	13420
+Transformation Numérique de CDC Afrique	16195
 Tshs. Tshs. CD	6921
+Tuberculose CDTUB	15475
 U.S. Government and CDC	12266
 UK's CDC Group	3217
 UNDP CDO	4431
@@ -349,6 +460,7 @@ US CDC and Bundung Hospital	4338
 US Government-funded CDC	10970
 Unadjusted CDR	12413,2643
 Universal Postal Union’s CDS	13042
+V CONSORTIUM D'ENTREPRISES CDE	16623
 Vodacom CDRs	6024
 Wellness CDCU Communicable Disease Control Unit	14773
 Year TFR GFR CBR CDR Neonatal	15056

@@ -2,7 +2,7 @@ ACCIDENT OR INCIDENT REPORT	14528
 ACCION SOCIAL.- Concepto	4209
 ACCIÓN CARTOGRAFÍA SEGUIMIENTO BIOKO SUR PROVINCIAL	4209
 ANNEE Accident	13390
-Accident	737,268,10175,971,75,1159,1103,1,1
+Accident	737,268,10175,971,75,1159,1103,1,1,933,262,1029
 Accident Accidents	12151
 Accident Age Neonatal	12151
 Accident Contractor	12253
@@ -12,15 +12,17 @@ Accident Négatif Milieu	14488,1,1
 Accident PGES DATA PRINCIPAL Mesures	14489
 Accident PGES DATA SECONDAIRE Mesures	14488
 Accident Report	12062
+Accident Vasculaire Cérébral AVP	15423,262
 Accident and Emergency	14773
 Accident and Emergency Centre	8813
 Accident and Emergency Department	14742
+Accident de Service	16714
 Accidental	12413,2643
 Accidental Asbestos Friable Release	1988
 Accidental Non-Compliers	12439
 Accidental and Internal Breaches	6727
 Accidentally	11984
-Accidents	9890,1075,1186,102,1124,1342
+Accidents	9890,1075,1186,102,1124,1342,979,477
 Accidents Pneumonia	12151
 Accidents Road Traffic Accident Respiratory Infections	12151
 Accidents and Fatalities	10776
@@ -29,6 +31,7 @@ Accion A Nigerian	7560
 Accion Digital Transformation Fund	943,5
 Accion Digital Transformation Fund Swedfund	948
 Acciones	1701,2508
+Accises	15549,469
 Acción	1701
 Acción Estrategia Agenda Guinea Ecuatorial	1701
 Acción Inspectora	9543
@@ -36,6 +39,7 @@ Acción Social	1701
 Acción Social ODS	1701
 Adquisición de Acciones	4209
 Africa and South and Southeast Asia. Accion	948
+Alerte Accident Pour	15936
 BATA AEROP. AEROP. CORISCO AEROP. ACCIDENTES	4209
 BUS ACCIDENT	14753
 COAST ACCIDENT AND GENERAL INVESTIGATION LIMITED	7167
@@ -48,8 +52,11 @@ D.G. DE SANIDAD MILITAR Y ACCION	4209
 D.G. INCIDENTES Y ACCID. AEREOS.- Concepto	4209
 D.G.PLAN. ACCION. TERR. Concepto	4209
 D.G.PLAN. ACCION. TERR.- Concepto	4209
+DEPENSES ACCIDENTELLES ET IMPREVISIBLES EN INVESTISSEMENT	15999
 Data Centre Accidents	12253
 Description Accion Digital Transformation Fund	943
+DÉPENSES ACCIDENTELLES ET IMPRÉVISIBLES ENF ONOTIONNEMENT	15999
+DÉPENSES ACCIDENTELLES ETIMBRÉVISIBLES EN FONCTIONNEMENT	15999
 Elaborar Planes de Acción	1701
 GLOSARIO GLOSARIO Acciones	1701
 Gas Transport Ltd ROAD ACCIDENT VIVO	14738
@@ -71,6 +78,7 @@ Road Accident Fund The RAF	10102,707
 Road Traffic Accident	12151
 Road Traffic Accidents	12151,802
 Road Traffic Diarrhea Accidents	12151
+TAUX DE LETALITE DES ACCIDENTS	15999
 TRAFFIC ACCIDENTS ALONG THE GREAT EAST	13387
 Traffic Acci-	12151
 Traffic Acci- Kidney	12151

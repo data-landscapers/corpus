@@ -20,18 +20,19 @@ Act. Babatunde Bamigboye Esq. CDPRP Head	3226
 Acting Head	10699,590,777,1438,506
 Acting Head of Cooperation	13651
 Acting Head of Forecasting	11289
+Acting Head of Mission	15976
 Acting Head of Partnerships	10573
 Address of Group Headquarters	12302
 Adjusted Headcount Ratio	15244
 Affaires and Head of Cooperation	13426
-African Heads of State	3987,1747,144
+African Heads of State	3987,1747,144,10801
 African Heads of State and Government	3987,6832
 African Heads of State. The African	4426
 African Peer Review Forum of Heads of State	13673
 African Union Assembly of Heads of State and Government	4583,2559
 African Union Commission Headquarters	7951
 African Union Commission Headquarters Country	7951
-African Union Headquarters	11839
+African Union Headquarters	11839,4532
 African Union Headquarters P.O. Box	4123
 African Union Headquaters P.O. Box	1243
 African Union Heads of State	13388
@@ -57,11 +58,13 @@ Annually Head ICT	13005
 Annually Head ICT NRIS NRIS Re	13005
 Anthropic’s Head of Beneficial Deployments	5286
 Appropriation Bill for Head	12606
-Assembly of Heads of State and Government	5202,532,8404
+Assembly of Heads of State and Government	5202,532,8404,1503
 Audio By Carbonatix The Head of Internal	7699
 AuthOrity of Heads of Slate and Government	11517
 Authentication for Head Nurses	11892
-Authority of Heads of State and Government	7,7445,4065
+Authority of Heads of State and Governm	15363
+Authority of Heads of State and Government	7,7445,4065,3846
+Authority of Heads of State and Government of ECOWAS	15363
 Auxiliaries and General Workers Technical Head Technical	14835
 Axelspace Corporation Headquarters	14077
 BACKGROUND The Heads of State and Government	13310
@@ -89,10 +92,13 @@ Business Area Head for Planning	11289
 Buteko Avenue Head Office P. O	12409
 C. Headquarters	14410
 CAPACITATION OF DHA Head	11986
+CAPMAS Head	15664
+CAPMAS Head URL	15664
 CBE Head Office	11134
 CBE Headquarters	11131,3
 CCN Head Office	13046
 CEB's Head of Communications	14801
+CID Headquarters	16602
 CIRT Head of CIRT	14539
 COMESA AUTHORITY OF THE HEADS	13440
 COMESA Summit of Heads of State and Government	13226
@@ -118,6 +124,7 @@ Child Headed Households	12977
 China-Aid Project of ECOWAS Headquarters Building	5991
 China-aid ECOWAS Headquarters Building	6003
 Choosing Dubai Over London for Headquarters	10010
+Christabel Addo Head Office Location Opp	15816
 Clement Madale Head of Strategic Planning	11224
 Commission's Head of Public Affairs	9563
 Commission's Headquarters	14351
@@ -127,6 +134,8 @@ Committee of African Heads of State and Government	10313
 Commonwealth Heads of Government Meeting	315
 Community Headquarters	13610,41
 Compliance and Head Internal Affairs	11131,3
+Conference of Heads of Assisted Secondary Schools	16162
+Conference of Heads of State and Government of ECCAS	15831
 Constituency Headman	13248
 Construction Headquarters	13361
 Country Head for Benin	3255
@@ -172,11 +181,12 @@ E-Government Technology Unit Head	2779
 EAC Headquarters	8546,1161,3903,41
 EAC Heads of State	3738,8426
 EAC Heads of State Summit	3738
+EBRD Head of Benin	15986
 EBRD Head of Morocco	8905
 ECOWAS AUTHORITY OF HEADS	4114,3338
-ECOWAS Authority of Heads of State and Government	7452
+ECOWAS Authority of Heads of State and Government	7452,8276,515
 ECOWAS Authority of Heads of State and Government and H.E	7452
-ECOWAS Headquarters	5991,1461,4096
+ECOWAS Headquarters	5991,1461,4096,4277,769
 EDUCATION ATTAINMENT OF HOUSEHOLD HEAD	15244
 EFCC Head	8194
 EGX Chairman Omar Radwan and ITDA Head	10498
@@ -216,6 +226,7 @@ FINANCIAL REVIEW Headline	10793
 Fellow Heads of State and Government	12688
 Fifteen Heads	12970
 Film and Cinema Key Headlines	9781
+Financing Head of Public Finance Sector	15604
 Fink. Oracle Group Eswatini Head of People	13233
 Force Headquarters Abuja	8471
 Founding and Headline Sponsor	3797
@@ -240,13 +251,13 @@ Group Head of Regulatory	4896
 Guidelines and Proposed Registration Fees. MACRA Head	7364
 H for Headcount Ratio. Multidimensional Poverty Intensity	15244
 HEAD Disaggregating the S-MPI	15244
-HEAD OF GOVERNMENT	4049,1303
+HEAD OF GOVERNMENT	4049,1303,10214,616,365
 HEAD S-MPI	15244
 HEAD TITLE	13093
 HEADLINE	4534
 HEADLINE LABOUR FORCE INDICATORS BMTHS	12600
 HEADLINE OVERREACHES ITS OWN BODY	3478
-HEADS OF STATE AND GOVERNMENT	7452,4065,1923
+HEADS OF STATE AND GOVERNMENT	7452,4065,1923,1923
 HEADS OF STATE AND GOVERNMENT Theme	13440
 HEADS OF The Assembly of Heads	14434
 HEADS UP CIVIL REGISTRARS	12338
@@ -257,8 +268,10 @@ HOD Head of Department HSRC Human Sciences	11224
 HR Human Resource HQ Headquarters ICT	13310
 HS Heading	6921
 Harare Office Head Office	12511
+Hardship Head of Division	15901
 Head AI	12675
 Head Communications	8999
+Head Converged Digital Infrastructure Africa	16545
 Head Count	14744
 Head Expanding Social Protection Program	3005
 Head FY2024-25Q2	12962
@@ -275,7 +288,7 @@ Head Nomcebo Hadebe	4173
 Head Nurse	11892,436
 Head Nurses	11892
 Head Of Government Ministry of Digital Transition	1885
-Head Office	1263,1045,468,610,5454,159,1219,991,71,675,31,419,542,24,11,62,311,1391,101,103,152
+Head Office	1263,1045,468,610,5454,159,1219,991,71,675,31,419,542,24,11,62,311,1391,101,103,152,297,975
 Head Office AXIAN Telecom	14445
 Head Office Auxiliary	14835
 Head Office Bank Square	13532
@@ -283,6 +296,7 @@ Head Office CA Coast Region Office	6946
 Head Office Central Business District P.M.B	14473
 Head Office Mauritius Tourism Promotion Authority	14847
 Head Office Regional Office Bank of Zambia	12364
+Head Office. Rapport Annuel	15670
 Head Office. Risk	13420
 Head Office. The NPRS	12337
 Head Offices of Ministries and Commissions	13420
@@ -302,7 +316,8 @@ Head Technical Unit Seminar	14835
 Head and Deputy Head Teachers	899
 Head for Addis Ababa Projects W	12195
 Head of AI	12675
-Head of AU-IPED	12052
+Head of AIC Ahmed Tantawy	15992
+Head of AU-IPED	12052,4304
 Head of Account Management	12292
 Head of Action	13629
 Head of Administration	11289,1972
@@ -321,6 +336,7 @@ Head of Business Incubation Services and General Manager	718
 Head of Business Solutions	2591
 Head of Business and AI	12082
 Head of Central West and East Africa	5277
+Head of Chancery and Commerce	16275
 Head of Civ	13005
 Head of Civil Registration Office	3004
 Head of Civil Service	9730,2137
@@ -330,7 +346,7 @@ Head of Cluster	7036,6631
 Head of Cluster for Central Southern Africa	6484
 Head of Communication and Media	8023
 Head of Communication and Public Relations	2000,10671
-Head of Communications	9691,1072,4431
+Head of Communications	9691,1072,4431,892
 Head of Communications and Information Services	7391,5188
 Head of Communications and Societal Purpose	4085
 Head of Consumer and Commercial Banking	9449
@@ -347,6 +363,7 @@ Head of Cybersecurity	2715
 Head of Cybersecurity Constantino Sotomane Sérgio Guivala	2989
 Head of Data Protection	13216
 Head of Data Science Program and Research Scientist	11143
+Head of Defence Health	16277
 Head of Department	9561,1568,2430
 Head of Department Ernest Mohlahlo	11273
 Head of Department of Infrastructure Chantal Smith. Minister	8564
@@ -355,7 +372,7 @@ Head of Digital Business	15042
 Head of Digital Financial Services	4038
 Head of Digital Inclusion	11003
 Head of Dispute and Litigation	3945
-Head of Division	11289
+Head of Division	11289,4612
 Head of Division East and Central Africa	9707
 Head of Domestic Taxes and Mr Vivian	13044
 Head of ESTDA	13952
@@ -374,9 +391,12 @@ Head of Experimentation	1928
 Head of Finance Samba Ceesay	7475
 Head of Fintech and Innovation	7114,48
 Head of Fraud and Revenue Assurance	10580
+Head of G-20	16275
 Head of Global China Program	8890
-Head of Government	1885,2476,1,656,342,530,1034,1581,1,3276,2627
+Head of Government	1885,2476,1,656,342,530,1034,1581,1,3276,2627,1773,58,307
 Head of Government Affairs for Africa	9202
+Head of Government DIRECTORATE GENERAL OF TAXATION	16033
+Head of Government. The Central African Republic	16519
 Head of Grants and Research	5946
 Head of Group Talent Management	11131,3
 Head of Growth	9790,5029
@@ -411,6 +431,7 @@ Head of Modernisation Joseph Khonje	9093
 Head of Monitoring and Evaluation	10763
 Head of Monitoring and Evaluation Unit	2678
 Head of Movement for Southern Eastern Africa	6484
+Head of National Office	16580
 Head of National Web	12656
 Head of Office	11905,1142
 Head of Office and UNESCO Representative	9139,6033,20
@@ -420,7 +441,7 @@ Head of Operations for Corporate	6870
 Head of Organisational Development and Learning	12951
 Head of Oversight and Compliance	8697
 Head of PSD	12672
-Head of Partnerships	12366
+Head of Partnerships	12366,3238
 Head of Pay and Benefits Development and Management	13533
 Head of Payments	4673
 Head of Payments for Corporate and Investment Banking	8026
@@ -457,12 +478,12 @@ Head of Section	13108
 Head of Sections	14835
 Head of Securelytics	8563
 Head of Security Operations	2824
-Head of Service	2616,7447
+Head of Service	2616,7447,6461
 Head of Service Lauds NIMC Reforms	7144
 Head of Service of Rivers State	7659
 Head of Social Safeguards	10763
 Head of Standards	14225
-Head of State	1644,265,1862,449,342,1425,501,36,1722,259,1,2481,144,414,415,1584,367,37,461,333,119
+Head of State	1644,265,1862,449,342,1425,501,36,1722,259,1,2481,144,414,415,1584,367,37,461,333,119,596,164,249,163,149
 Head of State Brice Clotaire Oligui Nguema	3579
 Head of State and Head of Government	14101
 Head of State and Minister	6806
@@ -481,6 +502,8 @@ Head of Sub-Saharan Africa	2334,8522
 Head of Supply Chain Management Division Building	7951
 Head of Systems Administration	2308
 Head of TCIB	5263
+Head of Tax and Customs Tuvalu	16631
+Head of Technical Services	16474
 Head of Treasury	7444
 Head of UNDP's Digital Capacity Lab	12723
 Head of UNESCO Office	5935,2428,4866
@@ -492,6 +515,7 @@ Headcount	11134,864
 Headcount of Permanent Staff	12951
 Headed	9234
 Header	410,4602
+Header DocumentType Seller BranchAddress Buyer ItemData	16554
 Header The World Bank Implementation	6833
 Headgear	13385
 Headhunted Lack	1940
@@ -515,9 +539,10 @@ Headmistress of Wesley Girls Basic School	8384
 Headoffice Road	4896
 Headphones and Screen Reader	6946
 Headquarter	6946
-Headquartered	620,2980,1030,47,45,2752,1624,463,2905,171,972,138,8,6,1,3,47,2,1199,186,11,52
+Headquartered	620,2980,1030,47,45,2752,1624,463,2905,171,972,138,8,6,1,3,47,2,1199,186,11,52,743,509,28
 Headquarters	587,958,127,1,1,792,183,1,1919,1853,1030,1528,214,1582,358,330,878,158,97,339,34,6,196,138,51,1061,141,31,166
 Headquarters Abuko Station	14260
+Headquarters Address	16219
 Headquarters Agreement	14409
 Headquarters Allowance	13037
 Headquarters Allowance Proposed Fixed Rate	13037
@@ -532,7 +557,8 @@ Headquarters and Regional Offices	12970
 Headquarters. Every	12452
 Headquarters. Geneva	13300
 Headrick	2096
-Heads	7692,2,2126,1461,1007,71,338,1,279,355,1436,94
+Heads	7692,2,2126,1461,1007,71,338,1,279,355,1436,94,742
+Heads of Agencies	16511
 Heads of Central Banks	745
 Heads of Communications Regulatory Authorities	13610
 Heads of Cooperation	789
@@ -568,8 +594,9 @@ Heads of Revenue	5124
 Heads of SAPS-CI	11277
 Heads of School Certificate Examination Centres and Heads	13477
 Heads of Sections	14761
+Heads of Sectors Heads of Committees Representatives	15604
 Heads of Service	7659
-Heads of State	1264,440,5808,4814,201,1882,191
+Heads of State	1264,440,5808,4814,201,1882,191,857,1222
 Heads of State and Government	3583,3869,2309,408,339,311,1821,800,561,723,121
 Heads of State and Government Summit	13673
 Heads of State and Government. IX- VOTE	7452
@@ -606,6 +633,7 @@ Identification Section Header	11877
 Ile Authority of Heads of State and Government of ECQWAS	11517
 Import Cover Annual Headline Inflation Currency	11131
 Independent Electoral Commission of Lesotho IEC Head	12652
+India. The Benin Head of State	15457
 Interim Head of State Yacouba Isaac Zida	10838
 International IDEA's Regional Head of Programmes for Africa	12756
 Introduction Benin Ghana GSMA Head Office	10822
@@ -659,6 +687,7 @@ Mercy Phiri Head Teacher	13392
 Micheweni District Headquarters	5855
 Microsoft's Head of Government Affairs for Africa	6955
 Microsoft’s Head of Legal Affairs for Africa	6689
+Minister of Youth Affairs and Head	16275
 Ministers and Heads of Mission	9959
 Ministry Headquarters	3890,8716
 Ministry Headquarters for Consultancies	12606
@@ -713,6 +742,7 @@ PayInc Head of TCIB Meera Sunker	12469
 Permanent Secretaries and Heads of Agencies	13005
 Permanently Host ARSO Headquarters	14273
 Planning Head	12359
+Platinum and Headline Sponsor	15748
 Police General Headquarters	13361
 Police General Headquarters' Operations Department	13448
 Police General Headquarters. The Legal Services	13361
@@ -727,7 +757,10 @@ Postal and Courier Headlines	9781
 President and Head of State Brice Clotaire Oligui	9837
 Presidential Delivery Unit Head Ms. Kusobile	6201
 Previous IBIIBI Kazakhstan Digital Economy Headquarters	13666
+Prime Minister Head of Government	15566
 Prime Minister and Committee Head Professor Kamil	9685
+Prime Minister and Head of Government	16716
+Prime Minister and Head of Government Mr. Félix	16519
 Principle Plan for Heads of Departments	11193
 Priscilla Sadomba Head Investor Relations and Communications	13634
 Province Name of Head of List	12201
@@ -748,6 +781,7 @@ Report Quarterly Head of IIC	13005
 Reports Head of Adminis	13005
 Reports Quarterly Head of Pro	13005
 Representative and Head of Mission	14923
+Republic and Head of State	15670,849
 S Headquarters	12972
 SA Headline Rm	10793
 SADC Heads of State and Government	12640
@@ -757,6 +791,7 @@ SARB Head Office	8571
 SEG-Y Binary Header	11405
 SENWELO MODISE PHENYO KEDISITSE Head of Technology	12232
 SEX OF HOUSEHOLD HEAD	15244
+SRA Headquarters	15478
 SS Head Of Government Ministry of Digital	1885
 SUMMARY OF CAPITAL EXPENDITURE BY HEADS	13093
 SVP and Head of Corporate	14111
@@ -795,7 +830,7 @@ Sudan Uncensored Headcount Ratios	15244
 Suggested Composition Head	12359
 Summit of EAC Heads of State	11806
 Summit of Heads of State	5045
-Summit of Heads of State and Government	14267
+Summit of Heads of State and Government	14267,2008
 Summit of Heads of States	1814
 Summit of SADC Heads of State and Government	10321,2319
 Survey Topline Findings REGISTERED OFFICES Head	12409
@@ -821,10 +856,12 @@ UN Secretary-General’s Special Representative and Head	10409
 UNCTAD Headquarters	13042
 UNDP Headquarters	12241,839,15
 UNESCO Head of Office and Representative	12994,54
+UNESCO Headquarters	15604,14,251
 UNESCO's Head of Social and Human Sciences for Southern	13663
 UNFPA Head of Office	12962
 UNFPA Head of Office Margaret Thwala	13047
 UNFPA Headquarters	13040
+UNHCR Country Representative. The Deputy Head	16222
 US Delegation Heads	5044
 Uncensored Headcount Ratio	15244
 Uncensored Headcount Ratios	15244
@@ -846,6 +883,7 @@ Village Headman	12216
 Village Headmen	13005
 Visa's Head of Risk	3112
 Vodacom Headquarters	5715
+WAEMU Headquarters. The WAEMU PIU	16144
 WORK STATUS OF HOUSEHOLD HEAD	15244
 Ward Head	12051
 Ward Head of Mainika Babban Gida	12051

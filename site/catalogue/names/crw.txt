@@ -1,4 +1,8 @@
 CRW Crisis Response Window	14038,1152
-CRW ERF	15190
+CRW ERF	15190,1208
+CRW Eligibility Note. IDA	15491
+CRW-ERF	16398
 CRW-ERF Crisis Response Window	15190
+Framework CRW Crisis Response Window CVT	15491
+IDA CRW-ERF	16398
 SC CRW E&S EDGE ESCR FE	1228

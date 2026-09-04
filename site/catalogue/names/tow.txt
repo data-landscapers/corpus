@@ -64,7 +64,7 @@ CHARACTERISTICS Town	11129
 CHARTERED MANAGEMENT AND TOWN REALTORS LIMITED	7167
 CREI Solar Energy for Telecom Towers	2234
 Cairo and Cape Town	10939
-Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20,211,69,8,11,16,123,473,179,18,49,427,163,269,259
+Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20,211,69,8,11,16,123,473,179,18,49,427,163,269,259,1226,223,22
 Cape Town Bloemfontein Public Library Natal	11237,21,28
 Cape Town CPT1	595,1,6195
 Cape Town Campus	2994,938
@@ -77,7 +77,7 @@ Cape Town Eskom	9769
 Cape Town Film Studio	14673
 Cape Town First	9759
 Cape Town International Airport	8915,980
-Cape Town International Convention Centre	8564,191,2257,2556
+Cape Town International Convention Centre	8564,191,2257,2556,2590
 Cape Town Internet Exchange	1820,7797
 Cape Town Kaapstad	11551
 Cape Town Kaapstad No	11190,9,2,62
@@ -114,6 +114,7 @@ Cape Town.md	1404
 Cell Tower Initiative	14395
 Cell Tower Range	12006
 Cell Towers	12041
+Cellular Tower	15578
 Central Banking. Governor’s Town Hall CBE	11134
 Central Karoo City of Cape Town	8999
 Centre Fund Township Development	4896
@@ -146,6 +147,7 @@ Count of Total Towers	3862
 Cyber Tower	318
 DECISIVE STEP TOWARDS MODERNISING LAND	10987
 DFIs. IHS Towers	90
+DG de Helios Towers Congo	16002
 DOWN TOWN AFRICA INVESTMENTS LTD Data	7167
 DOWN TOWN BETS KENYA LIMITED Data	7167
 DOWN TOWN MEDICAL CLINIC Data Processor	7167
@@ -157,6 +159,7 @@ Dama Water Tower	12933
 Data Protection Cape Town	12232
 Deed Number Chitepo Salisbury Township	4896
 Digital Identity SECTION I TOWARD	10819
+Directorates of Cadaster and Town Planning	15511
 Directorates of Town Planning and Estates Management	12253
 Djibouti Moves Toward Launch of National Cybersecurity	4204
 Dock Road Cape Town South Africa	9759
@@ -200,11 +203,13 @@ Harmonized Tower International	11857
 Health Summit Presidential Townhall	10331
 Helao Nafidi Town	13189
 Helao Nafidi Town Council	13189
-Helios Towers	81,379,957,17,2224,1238,714,178,328,40,119,145,1057,66,250,49,108,2429,2,310,1274
+Helios Tower	16002
+Helios Towers	81,379,957,17,2224,1238,714,178,328,40,119,145,1057,66,250,49,108,2429,2,310,1274,4037,142
 Helios Towers Africa	81,435
 Helios Towers Africa Ltd	81
 Helios Towers Africa and Eaton Towers	236
 Helios Towers CEO Tom Greenwood	7543
+Helios Towers Congo	16002
 Helios Towers DRC	5604,6
 Helios Towers DRC Infraco SPRL	88
 Helios Towers DRC.pdf	88
@@ -217,7 +222,9 @@ Helios Towers USD	460,974
 Helios Towers’ Managing Director for Tanzania	5788
 Herios Tower	2868
 Hon. Member for Nakuru Town East	10313
+Humaines de Helios Towers Congo	16002
 Hélios Towers	3658,2617,145,3959
+I. Toward SDM-Based Submarine Optical Networks	16144
 IDPs Total Kassala Town	15244
 IHS Kenya Tower Infrastructure	1518
 IHS Nigeria Tower Expansion Loan	80
@@ -241,10 +248,13 @@ INT Towers Nigeria	45
 IPT Powertech for Telecom Tower Energy	344
 IRIPHABLIKHI YOMZANTSI-AFRIKA Cape Town	11182
 ITWeb Security Summit Cape Town	5806
+Immeuble DIKIN TOWER	16441
+Immeuble Dikin Tower	16441
 Immigration Scalabrini Centre of Cape Town	11986
 Inclusive Digital Future Towards Vision	6927
 Indus Towers Ltd	4896
 Indus Towers' African	7942
+Installation Installation of Mobile Phone Network Towers	15578
 Intercity Courier Towers Traffic	9781
 Invite the City of Cape Town	11285
 J4U Town	4732
@@ -269,6 +279,7 @@ Kenya National Bureau of Statistics Real Towers	2775
 Kenya Urban Transport Various Towns	14546
 Kenya. IHS Towers	1518
 Kings Tower	778
+Kinkala SELECTED CITIES AND TOWNS Kayes	15372
 Kongola Town Council	13189
 Kossoh Town	8820
 Kossoh Town and Jui	8820
@@ -280,6 +291,7 @@ Lisomona Tower	3524
 Livingstone Towers City	13185
 Livingstone Towers P.O. Box	3678
 Local Community Media Townhall	11131
+Luanda and Cape Town. Once	15984
 M Atlas Tower Kenya	1518
 M Helios Towers	1434
 MAST AND TOWERS	3862
@@ -287,6 +299,7 @@ MNO-led TowerCo	4896
 MW Cape Town	1404
 Machiya Tower	3524
 Malaba Fiber and Tower Network	1171
+Malawi's Journey Toward	16484
 Malili Township	1638
 Mamelodi Township	7759
 Management of Kalumbila Town Council	1988
@@ -298,6 +311,15 @@ Ministry of Town	13896
 Mitete Town Council	2386
 MoHAIS Kalumbila Town Council	1867
 MoHAIS and Kalumbila Town Council	1867
+Mobile Network Tower	15578
+Mobile Network Tower Installation	15578
+Mobile Network Tower Installation Program	15578
+Mobile Network Towers	15578
+Mobile Network Towers Achieving the Sustainable Development	15578
+Mobile Phone Network Towers	15578
+Mobile Phone Network Towers Achieving the Sustainable	15578
+Mobile Phone Network Towers Establishment	15578
+Mobile Phone Towers Establishment	15578
 Moloto Township	11281
 Moroto Town	11759
 Mulobezi Town Council	2386
@@ -327,6 +349,7 @@ National Strategy Towards Ending GBV	12566
 Ndola Town Clerk George Mulenga	13680
 NeXTeracom Tower II	14847
 Nesta’s Towards Public Digital Infrastructure	11007
+Network Towers Establishment of Social Housing Units	15578
 Newton Tower	14847
 Newton Tower Ministry of Foreign Affairs and International	14746
 Newton Tower Sir William Newton Street	14736
@@ -379,12 +402,14 @@ Rainbow Towers Hotel	10073
 Real Towers	12251
 Refugee Camp and Town	10841
 Roadmap Towards Effective Governance and Service Delivery	4091
+Roadmap Towards Poverty Reduction	15810
 Roadmap Towards the Sustainability of HIV	12421
 Rosebank Towers	10793
 Route Overberg Overberg City of Cape Town	8999
 Rural Telecom Tower Deployment Sub-Saharan Africa	716
 Rural Telecom Tower Expansion Loan Belgian	1420
 Rural and Small Towns Water Security Project	1228
+République du Congo. Helios Towers	16002
 SA Towers Syria	10793
 SBA Communications and American Tower	7793,157
 SEC Towers	9954
@@ -423,8 +448,10 @@ Steps Toward	5700
 Stock Cape Town	11012
 Stone Town	104
 Stone Town Municipal Authority	12115
+Strategic Step Toward Global AI	16514
 Strategy Townhall	11131
 Symphony Walk Town Cntr Cnr Govan	8999
+TOWARD THE OPERATIONALIZATION OF THE MASTER'S	15825
 TOWARDS A RESILIENT	4848
 TOWARDS Spending	11986
 TOWER DEPLOYMENT POLICIES P-6 Site Requirement	11857
@@ -452,7 +479,7 @@ Telposta Towers P.O. Box	7549,7115
 Teraco Expands Cape Town CT2 Data	3932
 Teraco’s Cape Town	3932
 Times Tower	12282
-Toward	3294,1138,82,581,52,202,1190,1483,1717,1024,265,282,1834,480,1124
+Toward	3294,1138,82,581,52,202,1190,1483,1717,1024,265,282,1834,480,1124,954,129
 Toward AI	11156
 Toward Climate-Resilient Development	10963,1
 Toward Cross-border Interoperability	12663
@@ -461,15 +488,16 @@ Toward Inclusive Development In Morocco	8891
 Toward More People-Centered Service Delivery	984,11679,1
 Toward Self-Determination	5042
 Toward Verifiable Controls	8511
-Toward the Digital Age	969,5570,4175
+Toward the Digital Age	969,5570,4175,4804
 Toward the Digital Age. Retrieved	10819
 Towarda	8606
-Towards	226,563,172,9,184,89,5,845,3,679,829,237,97,23,567,320,8,124,49,105,399,167,183,169,49,39,692,114,1187,470,2,1,372,150,488,724,18,426,35,3,106,100,106,22,27,365,319,119,104,85,44,106,61,53,73,217,620,125,150,61,1038,201,41
+Towards	226,563,172,9,184,89,5,845,3,679,829,237,97,23,567,320,8,124,49,105,399,167,183,169,49,39,692,114,1187,470,2,1,372,150,488,724,18,426,35,3,106,100,106,22,27,365,319,119,104,85,44,106,61,53,73,217,620,125,150,61,1038,201,41,446,13,49,924
 Towards A Prosperous and Empowered Upper Middle-Income	13685
 Towards A Secure Cyberspace	15046
 Towards AI for Everyone	6948
 Towards AIToday	6692
 Towards Access for Opportunity	10840
+Towards Climate Change Resilience and Adaptation. Remote	16135
 Towards Comprehensive Social Protection	12923
 Towards Crowding-in Private Sector Investment Companion	941
 Towards Crowding-in Private Sector Investment Copyright	941
@@ -547,11 +575,13 @@ Town Hall Meetings Regular Meetings Meetings	11131
 Town Hall Meetings Town	12210
 Town Planning	11129
 Town Planning Authority	11129
+Town Planning Schemes for Cairo Conceived	15473
 Town Team Team	8999
 Town Terminus	9437
 Town and Country Planning Act	1988,10659,2101
 Town and Country Planning Board	14738,8
 Town and Country Planning Department	11
+Town of Residence	15721
 Townhall	11131
 Townhalls and Feedback	11131
 Towns	12138,57,218
@@ -573,7 +603,7 @@ Ultimate Tower	13694
 Under the Telecommunication Towers Programme	3524
 Union Towers	3862
 Universal Service Fund Cell Tower Initiative	1572
-University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215,309,976
+University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215,309,976,3167
 University of Cape Town Launch	3654
 University of Cape Town SARChI Chair	3654
 University of Cape Town and Wits	9574
@@ -598,6 +628,7 @@ Wing AShri Atal Bihari Vajpayee TowerCybercity	14848
 World Economic Forum Helios Towers	236
 World. Towards	14935
 X Tower	236
+YesNo Town of Residence	15721
 Youth Town Hall	8101
 ZUBAH TOWN ROBBERY CASE MOVES FORWARD	10581
 Zambia. IHS Towers	1550

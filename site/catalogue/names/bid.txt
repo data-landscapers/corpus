@@ -24,6 +24,7 @@ All Bids	8166,3074,1945,1581
 All Concluded Unsolicited Bid Proposals	11250
 All SBD and Bid Response	11252
 Allow Aggrieved Bidders	12389
+Alpha Boubacar DIALLO BID Représentant	16620
 Alternative Bid	13185
 Alternative Bids	13185
 Amendment of Bidding	13185
@@ -53,12 +54,14 @@ BID DOCUMENTATION REQUIREMENTS Bidders	12693
 BID DOCUMENTATION. B-BBEE CERTIFICATE	11240
 BID IS SUBJECT	11240
 BID NUMBER	11240
+BID Panel	16580
 BID SUBMISSION	11240
 BID TOTAL AMOUNT-VAT INCLUSIVE Tel	13031
 BID VALIDITY PERIOD	11209
 BID-13	12447
 BID-19	12967
 BID-34	12967
+BID. Mise	16714
 BIDABANGANYA Anicet N	13390
 BIDCO AFRICA LIMITED Data Controller INST-33999439E38	7167
 BIDCO AFRICA LIMITED Data Processor INST-33999439E38	7167
@@ -83,7 +86,10 @@ BIDF KCB CRDB BCAB BIJE Population	13390
 BIDHAA SASA LIMITED Data Controller INST-252814EC3AF	7167
 BIDHAAPRO LIMITED Data Controller INST-906421210FE NAIROBI	7167
 BIDHAAPRO LIMITED Data Processor INST-906421210FE NAIROBI	7167
+BIDIE	15455
 BIDII COMMUNICATIONS LIMITED Data Processor INST-3574010E3C7	7167
+BIDILOU	15692
+BIDJONGOU NZAMBA	16099
 BIDOUZO Sèdjro Hostin Esperancia	13938
 BIDOUZO Sèdjro Hostin Esperancia Environmental and Social	13938
 BIDPA	12551
@@ -93,6 +99,8 @@ BIddrisu	5349
 BIdentification	5700
 BIdentification&doi	5700
 BIdentity	5700
+Bank’s Standard Bidding Documents	15372,39
+Banque Islamique de Développement BIDC	15475
 Best Evaluated Bid	14783,19
 Bid Box	14778
 Bid Checklist	14778
@@ -200,7 +208,7 @@ Bidder. The Proposal Security	15080
 Bidder1	13185
 Bidder22	15080
 BidderBidder	15080
-Bidders	1638,1342,2813,1473,721,179,819,149,513,970,592,31,12,1148,281,19,63,274,148,342,604,632,3,12,149,101,52,74
+Bidders	1638,1342,2813,1473,721,179,819,149,513,970,592,31,12,1148,281,19,63,274,148,342,604,632,3,12,149,101,52,74,257,107
 Bidders A. GENERAL	14766,314
 Bidders Bid Price	14778
 Bidders Contents A. General	13185,342
@@ -233,7 +241,7 @@ Bidder’s Qualifications Documentary	14766
 Bidder’s Reference	14778
 Bidder’s Remarks	14778
 Bidder’s Response	11240
-Bidding	8166,1689,2845,485,146,61,82,53,1236,3
+Bidding	8166,1689,2845,485,146,61,82,53,1236,3,969
 Bidding Data Sheet	13185
 Bidding Document	8166,6612
 Bidding Document URL	14766
@@ -250,6 +258,7 @@ Bidding Forms	13185
 Bidding Forms Price Schedule	13185
 Bidding Forms Price and Completion Schedule	13185
 Bidding Forms Table of Forms Letter of Bid	13185
+Bidding NCDs Non-Communicable Diseases NGO Non-Governmental	15411
 Bidding Procedures	13185,342
 Bidding Procedures Part	13527
 Bidding Procedures Section	13185
@@ -264,6 +273,9 @@ Bidimensional	11445
 Bidirectional	8460
 Bidi’a Wa’ikamatus Sunnah Hon. NYSC Vill	11129
 Bidjongo	8737
+Bidonville Sont	15555
+Bidou	16359
+Bidoua	15439
 Bidra Innovation Ventures	8717
 Bids Section	13185
 Bids Section III	13185
@@ -273,6 +285,7 @@ Bids. D. Submission of Bids D.1. Format	14778
 Bids. Date	13185
 Bidvest	10279
 Body Request for Bids Goods	13185
+Budget de Fonctionnement BID	15475
 C. PREPARATION OF BIDS	14766
 C. Preparation of Bids	13185,1581
 C. Preparation of Bids C.1. Language	14778
@@ -345,6 +358,7 @@ Extension of Bid Kindly	14759,3
 F. Evaluation of Bids	13185
 FIFC3 Esperancia BIDOUZO	13938
 FORM F-1 BID SUBMISSION FORM	13031
+FOUEMO BIDINGA	15744
 Financial Bid Form	7368
 Financial Part INSTRUCTIONS TO BIDDERS	13185
 Financial Part of Bid	13185
@@ -366,12 +380,17 @@ Group C Bids	13185
 H.E. Abdullahi Bidhaan Warsame	15000
 HEREBY INVITED TO BID	11240
 I. Evaluation of Financial Parts of Bids	13185
+ICB International Competitive Bidding ABBREVIATIONS	15411
+ICB International Competitive Bidding ICT Information	15372
+ICB International Competitive Bidding IMF International	15659
+ICB and Limited International Bidding	15411
 IDC BID CLOSING DATE	11209
 INES de Bidjabidjan	4209
 INFORMATION FOR BIDDERS	12693
 INSTRUCTIONS ON SUBMISSION OF BIDS	11209
 INSTRUCTIONS TO BIDDERS	12681,12,2387
 INVITATION OF BIDS	14795
+INVITATION TO BID	16569
 INVITATION TO BID The Office	12693
 INVITED TO SUBMIT A BID	11240
 Implementation Strategy Bidder	11240
@@ -379,9 +398,11 @@ Incomplete Bids	11240
 Industrial Relations and Employment Creation Bid Box	12961
 Information. Bids	6942
 Integration Layer CRVS Database BID	13005
+Interest SBD Standard Bidding Documents	15411
 International Bidders	14766
 International Bidding	14753
-International Competitive Bidding	14766
+International Competitive Bidding	14766,606,181
+International and National Competitive Bidding	15659
 Invitation To Bid	13621
 Invitation for Bid	14778
 Invitation for Bids	8166,6597,3,12,218
@@ -391,6 +412,7 @@ Joe Biden	4447,5983
 Key Personnel The Bidder	15080
 Kuhifadhi Bidhaa	6019
 LATE BIDS	11240
+La BID Soumissionnaire Issue Date	16662
 Language of Bid	13185,1581
 Late Bids	8166,5019,342,1239
 Late Bids D.3.1 Bids	14778
@@ -406,6 +428,7 @@ Maintenance OCB Open Competitive Bidding OGP	11863
 Manufacturer. The Bidder	13185
 Minister for Energy and Water Resources Abdilahi Bidhan	15119
 Modification of Bids	13185,1581
+Mohamed Sidy Ould Taleb BID Directeur	16620
 Morocco Opens Bidding for Nine Stations	4769,394,334,86
 Mozambique's Rural Connectivity Project Seeks Bids	3489
 Mozambique’s Bid	5407,676
@@ -415,7 +438,9 @@ Name of Bidder	14778
 Name of Bidder Technical Bid Price Evaluated	13185
 Namibia. Bidders	12961,76
 Namibians. Bidders	13037
-National Competitive Bidding	1867,10833
+National Competition Bidding	15372
+National Competitive Bidding	1867,10833,2672,39,142
+National Competitive Bidding NDC National Dispatch	15659
 Ndong Bidoa	4209
 Notarised Power of Attorney D. Submission of Bids	13185
 Number of Bids	14783
@@ -459,6 +484,7 @@ Price Name of Bidder	13185
 Prime Bidder	15154
 Prime Bidder. Bidders	15154
 Prime Bidder. The Prime Bidder	15154
+Prior Bids	15372
 Procurement Committee. Bids	14736
 Procurement Notice Request for Bids Purchaser	12700
 Proposal Security. A Bidder	15080
@@ -475,9 +501,10 @@ RETURNABLE SCHEDULES Bidders	11209
 RFP. If the Bidder	11240
 Repeal of BID-19 APPENDIX A APPENDIX B	12967
 Request for Bid No	13185
-Request for Bids	11417,108,1660,342
+Request for Bids	11417,108,1660,342,1991
 Request for Bids Non-Consulting Services	13527
 Request for Bids for Design	12253
+Requirements for National Competitive Bidding	15411
 Restricted Competitive Bidding	11525
 Result Bids	3321
 SA BIDDERS HAVE NO TCS	11240
@@ -511,6 +538,7 @@ Securing the Bid	14766
 Selective Bidding	12389
 Senior Experts Bidding	11862
 Seven Pre-Qualified Bidders	11236
+Sexual Exploitation and Abuse SBD Standard Bidding	15659
 Should the Bidders	12400
 Signature of Bidder	13185
 Signed Bid Submission Form	13031
@@ -549,9 +577,11 @@ US President Biden	1041
 USE OF BIDS	11240
 VAT. Documents Comprising the Bid The Bid	14778
 Vi3iciYiAGjfPZc Bids	11209
+Vice President Biden	15402
+Vice President Joe Biden	15402
 WoredaNet. Bidding	14010
 World Bank's Standard Bidding Documents	11905
-World Bank’s Standard Bidding Documents	10964
+World Bank’s Standard Bidding Documents	10964,4589,106
 YEARS BID DOCUMENTS ELECTRONIC SUBMISSION	11240
 YEARS BID SUBMISSION LINK REQUESTS	11240
 YEARS PART A INVITATION TO BID	11240

@@ -1,10 +1,13 @@
 AI Datacenter Energy Dilemma	11140
+Abomey-Calavi Datacenter	16144
 Aménagement DATACENTER	1993
 Anthony Same Expands African Datacenter Network	6154
 Camtel Unveils the Performance of Its Zamengoé Datacenter	10994
 Ce Datacenter	3406
 Cloud Infrastructure The Datacenter	9123
-Construction du Datacenter	2942
+Colocation Le Datacenter de GUILAB	16647
+Construction du Datacenter	2942,12926
+Construire des Datacenters	15542
 DATACELL CONSULT AFRICA LIMITED Data Controller	7167
 DATACLAVE LTD Data Processor INST-2220784234F NAIROBI	7167
 DATACONNECT	1648
@@ -14,27 +17,33 @@ Data Center Cabling Pathways Datacenter	9123
 DataCamp	6395
 DataCenter	2868,5882
 DataCenterMap	3859
+DataCenters	16151
 DataCentresInAfrica2026-EN.pdf	6471
 DataCipation	10720,3027,67
 DataCipation Project	13747
 DataCite	13098
 DataCite's Global Access Fund	13098
-Datacenter	301,943,1155,115,94,334,399,55,10,561,173,202,60,1108,1060,1970,583,1735,16,497,1814
+Datacenter	301,943,1155,115,94,334,399,55,10,561,173,202,60,1108,1060,1970,583,1735,16,497,1814,2332,51,76,224,23,115,539
 Datacenter Des	10858
+Datacenter National	15624
 Datacenter Network Specialist	3834
 Datacenter SOP	9123
 Datacenter Taux	10858
 Datacenter Technicians	6832
 Datacenter Tier III	8540
 Datacenter Tiers	3967,22
+Datacenter Tiers IV	15738
+Datacenter URL	15891
+Datacenter and IXP	15480
 Datacenter de La DGI	10858
 Datacenter de ST Digital Minette Libom Li	3298
+Datacenter de Yaoundé	16006
 Datacenter du Gabon	6570
 Datacenter. Data	9123
 Datacenter. Pour	10858
 DatacenterDynamics	1146,3602,1402
 DatacenterDynamics and Ecofin Agency	778
-Datacenters	1244,1331,343,8,263,1153,403,3499,232,573,74,5441
+Datacenters	1244,1331,343,8,263,1153,403,3499,232,573,74,5441,916,240
 Datacenters Afrique Afrique du Sud Algérie Angola	14683
 Datacenters BICSI	9123
 Datacenters Le Centre	2926
@@ -81,6 +90,7 @@ Nombre de Datacenter	3396
 Orange Sierra Leone Opens New Datacenter	4140
 Proyecto de Datación	4209
 Race for AI Datacenter Space	11140
+Redundancy Site for Existing Datacenters	16144
 SAUVEGARDE CHAQUE HEURE SUR UN DATACENTER	14683
 ST Digital's DataCenter	3436
 Security of Datacenter	9123

@@ -1,6 +1,7 @@
 ABBREVIATIONS ADR Adverse Drug Reaction API	9855
 ACRONYMS ACRONYMS AI AIA API DCI	11156
 AML Anti-Money Laundering API Application Program	13312,2
+ANOR ANTIC API APICCAM ARMP ARSEL	15542
 API Application Programming Interface	11944
 API Application Programming Interface ASSAR Rwanda	14997
 API Application Programming Interface AU African	12512
@@ -9,21 +10,30 @@ API Application Programming Interface DPI Digital	13076
 API Authentication APIs	11952
 API Calls	4528,7984
 API Compatibility	5665
-API Documentation	5665
+API Documentation	5665,9965
 API ENDPOINT PATH PARAMETER NAMING	6423
+API Endpoints Summary Table Legend	15630
 API Endpoints and APIs All API	6423
 API Gateway	5533,1688,5198
+API Gateway Principales Stockage	15583
 API Gateways	12419
 API Integration for Recurring Debit Orders	15260
-API Interface	11555
+API Interface	11555,3919
+API Interopérabilité Sécurité	15936
+API Management	15936
+API Management ITIL	15936
 API Medium	12444
+API O PDEX	16030
 API OAS	1984
 API OKESTRA LIMITED Data Processor INST-8227636BA5A	7167
 API Order	6423
+API P	15624
 API PNG Gateway	4275
 API Protection All APIs	11952
-API REST	9480
-API SFEC	7346
+API REST	9480,6456,505
+API REST MT-MX	15934
+API RESTful	15624
+API SFEC	7346,8902
 API SFEC. Ces	7346
 API SFTP	3972
 API SP.URB.TOTL DS2 fr excel v2 318520	747
@@ -33,8 +43,11 @@ API Security Requirement	11952
 API Standards All APIs	11952
 API Standards Enact Consumer	12444
 API Testing	5665
+API URL Language	15714
 API Zimswitch Technologies	12490
 API and PNR	10360,363
+API de MTN	15493
+API de PeeringDB	16545
 API for All Models CAIMEx	5226
 API for FNB and RMB	8432
 API for Foreign PIN Applicants	14533
@@ -51,7 +64,7 @@ API-PAIEMENT-FACTURE	7212
 API-ZF	14231
 API-ZF. Il	14231
 API-accessible	10730
-API-based	710,4138,1539,926,1119,3927,41,637,1753,207
+API-based	710,4138,1539,926,1119,3927,41,637,1753,207,717
 API-based EmaSwati	12444
 API-clean	13272
 API-dependency	7151
@@ -67,20 +80,31 @@ API. Developer	6423
 API. Every	6603
 API. G. Data Encryption	15161
 API. L. API Versioning	15161
+API. Le Gouvernement	15493
+API. L’ARPCE	15493
 API. User Documentation	5665
+APICAM	15542
+APICCAM	15542
+APICONGO	15493
 APICULTURE VENTURE LIMITED Data Processor INST-627494A7670	7167
 APIDE	6835
-APIEX	8246,4602
-APIEx	10823
+APIEX	8246,4602,2568,332
+APIEx	10823,5722
+APIEx Bénin	16545
 APIFA	9333
+APIMG	16641
+APIMUD	15694
 APIN Public Health Initiatives	15321
 APIN's Dr. Olaposi Olatoregun and US CDC	9444
+APITRE UNIOUE ARTICLE	15348
 APIX-SA	7106
 APIs Close	6387
 APIs Elastic	13676
 APIs National	4848
 APIs. API	15161
+APIs. APIs	15590
 APIs. Driving	4528,7984
+APIs. Esta	16030
 APIs. ISO	10721
 APIs. J. Security Headers	15161
 APIs. MVola	2633
@@ -103,7 +127,9 @@ Afriex’s B2B Payments API	10223
 Aid Management Platform API	5244
 All API	12047
 American National Standards Institute API Application	10775
+Analyse des API	15936
 Another API	12490
+Any API	15590
 Api-Agro Forestry Systems	14409
 Api1rtaclo	11514
 Apiculture	14774
@@ -123,6 +149,7 @@ Apis Partners LLP	94,303
 Aquaculture and Apiculture P1	5636
 Area AML Anti-Money Laundering API Application	12663
 Artificial Intelligence API	14879
+Attendance Rate API	15630
 B2B APIs	767
 Bank AI Artificial Intelligence API Application	7548
 Bank Group AI Artificial Intelligence API	13042
@@ -131,16 +158,24 @@ Biometrics APIs None Bank	12490
 Building Block API	6423
 Building Blocks. Additional APIs	6423
 CAIMEx One API	5226
+CH APITRE	15366
+CII and API	16275
 CKAN API	2258
+Cada API	16321
 Carolina Glasserman Apicella of DataGénero	7151
+Catálogo de APIs Iremos	16030
 Cette API	13306
+Chambers of Commerce and Director of API	16275
 Companies API Application Programming Interface	4214
+Consultant API Chef	16012
+Créer des API	15624
 Custom API	6423
 Customer API	14438
 DHIS2 API	12754
 DIRECTOR DA APIEX	15291
 DPI-related APIs	13005
 DRS-14 API	6423
+Dashboard API. Base URL	15630
 Data Dictionary and API Standards	11940
 Design API	6432
 Develop API	11133,3864
@@ -150,7 +185,9 @@ Directions API	1363
 Disponibilização de APIs	11893
 Dispute Resolution API Business-to-Business IGF Inclusive	12444
 Distributed Denial of Service API Application Programming	6432
+EMIS Schools Stats API	15630
 Ecobank’s APIs	8341
+Enrollment Rates API	15630
 Establish API	11133
 Expand Secure APIs	14997
 Expérience API Government Platforms	12043
@@ -189,13 +226,21 @@ JSON JSON API	9480
 JSON. Une API	12024
 Kenya APIYO	6613
 LLM API	11585
+Locations API	15630
+L’agence APICONGO	15493
+L’essor des API	16545
 M-PESA API	4087
+M. Benjamin APINDANGOYE	16175
+M. Nego Abed Pasteur Apipi Bouya	16098
 MESOB Bridge API Gateway	12215
 MIS-NCR API	14885,63
 MTT AfCFTA AI API BPP CBN	10157
 Make the APIs	14441
 Method API Application Program Interface ATNA	1009
 Monitor API	15161
+NASIA API	15630
+NIANGA APILA	15524
+NST Scores API	15630
 National APIs	14819
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
@@ -217,7 +262,8 @@ PeeringDB API	9442
 Percentage of API	13005
 Provide APIs	6423
 Pulse API	15166
-REST API	9480,2924
+Qualquer API	16321
+REST API	9480,2924,3896
 REST API Design Standards	11952
 REST APIs	7266
 RESTful API	9603
@@ -229,6 +275,7 @@ Regulated APIs	10719
 Requires APIs	12444
 SDK and API	7065
 SIM Swap and Number Verification APIs	6593
+Schools API	15630
 Secure APIs	14997
 Service APIs	6423
 Service APIs The APIs	6423
@@ -243,10 +290,12 @@ Sudan API Application Programming Interface ARPU	14897
 Sunbird's API	3745
 Support API	6948
 Support for APIs	11133
+Sécurité des Systèmes Numériques API Interface	15493
 Through the API	12490
 Trade Area AI Artiﬁcial Intelligence API	12674
 Truth API	9832
 Twitter API	8436
+URL API Endpoint Language Data Format	15714
 USSD and APIs	14997
 Une API	13306
 Unified API	5226,5983

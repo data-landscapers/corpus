@@ -17,7 +17,8 @@ World Health Organization XAD-PID XDS	1009
 XCPD Cross-Community Patient Discovery XDM Cross-Enterprise	1009
 XD-LAB	1009
 XD7dp3sfpfo	4127
-XDR Cancellations	4653
+XDOLW	15604
+XDR Cancellations	4653,11534
 XDS Affinity Change Management Domain	1009
 XDS Metadata HL7 Version	1009
 XDS RFC	1009

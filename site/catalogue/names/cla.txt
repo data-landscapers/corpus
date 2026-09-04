@@ -1,4 +1,9 @@
 A.9 Clarify	14723
+ACIDE CLAVULANIQUE	15930
+ACIDE CLAVULANIQUE AMOXICILLINE	15930
+ACIDE CLAVULANIQUE AMOXICILLINE AMOXICILLINE	15930
+ACIDE CLAVULANIQUE CLOXACILLINE CLOXACILLINE AMOXICILLINE	15930
+ACIDE CLAVULANIQUE COLISTINE	15930
 ADAPTATION DES INFRACTIONS CLASSIQUES AUXTECHNOLOGIES	13719
 ADJIBI Claude Edgard Octobre	10876
 ANNEXES ANNEXE-1. CLAUSES ENVIRONNEMENTALES ET SOCIALES	14489
@@ -19,10 +24,18 @@ Administration Standard Classroom	899
 Africa Can Claim Its Place	6808
 Agentic AI Master Class Laboratory	13688
 All Confidential and Classified	3861
+Alphonse Claude NSILOU	15426,848,182
+Alphonse Claude N’SILOU	15558,186,295,138
+Alphonse Claude N’SILOU Article	15558
+Alphonse Claude N’SILOU Journal	15615
+Amandine Claude ASSANGONE OBIANG	16175
 Ambassador Claudia Patricia Mosquera Rosero	6963
 Ambassador Claver Gatete	1554
 America's Classrooms	6832
+Amour Clara MEGNE M’OBIANG	16175
+Amour Clara MEGNE M’OBIANG MM	16099
 Andy Clarno	571
+Ange Clauvel NIAMA	15685
 Anthropic Claude	5226,85
 Anthropic's Claude	6879
 Anthropic’s Claude	8510,2646,612
@@ -35,12 +48,15 @@ Application and Data Classification	11995
 Arbitration Clauses and Special Agreements ARTICLE	14409
 Arbitration Clauses and Special Agreements The Court	14409
 Arc NDUWIMANA Claudine NSHIMIRIMANA Jacqueline NDUWIMANA	13300
+Ardin Claire	15744
+Armelle Claire NEWMAN ETEGUE	16175
 Arrangement of Clauses PART	12459
 Arthur C Clarke	9698
 Asset Class. Geneva	1243
 Attorneys of Claimants	14742
 Authority. Clause	14594
 Automating for End-to-End Claims Processing Whitepaper	9237
+Average Classroom Construction Costs	16436
 B. Contents of Bidding Document For Clarification	13185
 B2- Classification	7548
 BDS for ITB Clause	14766
@@ -81,12 +97,14 @@ Business Clase	4209
 Business Mauritius Panelists Juanita Clark CEO	14776
 Bénin Classé	2694
 CAPÍTULO II CLASSIFICAÇÃO DOS PRÉDIOS Artigo	11901
+CAPÍTULO IV Classes	15380
 CBN Should Clarify	7173
 CERTIFICAT ACHEVÉ AUCUNE TRÉE MÉDICAL CLASSE	13300
 CGs’ Master Class	7694
 CHAPITRE II Classification Article	14538
 CHART OF OFFENCES CLASSIFIED AS DRUG	14760
 CHART OF OFFENCES CLASSIFIED AS MISDEMEANOUR	14760
+CIM Classification	15724
 CIREF Classification	14423
 CIVIL EVENT RECORDS AND CERTIFICATES Clause	12959
 CIVIL REGISTER Clause	12959
@@ -98,28 +116,43 @@ CLAN Laboratories	11188
 CLARA ROSA HOSPITAL UTAWALA LIMITED Data	7167
 CLARENCE K. MASSAQUOI CHAIRPERSON ABBREVIATIONS	10407
 CLAREX MEDICAL CENTRE Data Controller INST-80963662A0E	7167
+CLARIFICATION DES CONCEPTS	15632
+CLARIFIER LES ROLES ET RENFORCER	16037
 CLARIN	7313
 CLARITY AND TRANSPARENCY	12389
 CLARITY COUNSELING AND TRAINING CENTRE LIMITED	7167
 CLARIVIDA MEDICAL LTD Data Controller INST-1966979EB17	7167
+CLARO	15471
 CLASP Data Controller INST-27255194407 NAIROBI US	7167
 CLASS	1223
 CLASS LICENSES	762
 CLASS OF CO-OPERATIVE SOCIETIES WITH TURNOVER	7845
-CLASSE	13300
+CLASSE	13300,2224
+CLASSE CAPORAL OU QUAR TIER MAITRE	15524
 CLASSE O N NIVEAU CLASSE	13300
+CLASSE PREPA	15674
+CLASSEMENT EN AFRIQUE	15936
+CLASSES PREPA INTEGREES	15674
+CLASSES PREPARATOIRES LYCEE NATIONAL LEON MBA	15674
+CLASSIFICATION Catégorie Indice Ouvrier	15432
+CLASSIFICATION Contrat	15732
 CLASSIFICATION DECISION MATRIX Calculation Method	5665
 CLASSIFICATION DES IMPACTS	14488,1,1
 CLASSIFICATION DES IMPACTS En	14488,1,1
+CLASSIFICATION EFFECTIFS SELON LA NATURE	15410,761,59
 CLASSIFICATION PAR MINISTERE ET ECONOMIQUE	4644,1,1,1,2
+CLASSIFICATIONDU CONTRAT DE TRAVAIL Effectifs	16171
 CLASSIFICAÇÃO DE RISCO E CATEGORIZAÇÃO	11390
 CLASSIFICAÇÃO DO RISCO AMBIENTAL E SOCIAL	11390
 CLASSIFIED	11995
 CLASSIFIED SECTION	13385
 CLASSROOMS	11918
-CLAUDE.md	17,216,147,157,48,95,89,237,37,107,44,24,30,46,1,30,1,1,1,1,1,195,56,79,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,26,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,125,21,12,30,1,1,1,1,1,39,1,191,40,333,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,546,1,1,1,1,1,1,1,1,1,172,92,88,39,5,58,17,45,5,14,65,32,5,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,84,17,28,1,1,1,1,1,212,1,94,60,13,44,1,1,1,821,210,13,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,179,125,232,8,88,74,41,190,155,17,127,1,1,1,1,1,1,1,1,247,164,181,113,30,92,37,35,24,59,7,2,104,16,100,36,89,71,83,60,83,10,20,27,7,20,5,14,144,73,6,64,10,10,5,46,22,176,188,3,35,614,504,31,20,16,181,87,93,54,96,2,2,2,262,45,416,36,1958,439
+CLAUDE MOMBO	16099
+CLAUDE.md	17,216,147,157,48,95,89,237,37,107,44,24,30,46,1,30,1,1,1,1,1,195,56,79,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,26,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,125,21,12,30,1,1,1,1,1,39,1,191,40,333,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,546,1,1,1,1,1,1,1,1,1,172,92,88,39,5,58,17,45,5,14,65,32,5,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,84,17,28,1,1,1,1,1,212,1,94,60,13,44,1,1,1,821,210,13,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,179,125,232,8,88,74,41,190,155,17,127,1,1,1,1,1,1,1,1,60,187,164,181,113,30,92,37,35,24,59,7,2,104,16,100,36,89,71,83,60,83,10,20,27,7,20,5,14,144,73,6,64,10,10,5,46,22,176,188,3,35,614,504,31,20,16,181,87,93,54,96,2,2,2,262,45,416,36,1958,439,1283,254,134,135,44,52,71,1
 CLAUSE BY CLAUSE ANALYSIS	11280
+CLAUSE PAR INCORPORATION La RÉPUBLIQUE	15901
 CLAUSES DÉONTHOLOGUIQUES Absence	13635
+CLAUSES FINALES	15901
 CLAUSTE MOTORS LIMITED Data Controller INST-449508A5C14	7167
 CLAYDON HOLDINGS LIMITED Data Processor INST-4973818909B	7167
 CLAYTONS FAMILY MEDICAL CENTRE LIMITED Data	7167
@@ -128,14 +161,19 @@ COICOP Classes	2775
 COMPREHENSIVE DATA DOMAIN CLASSIFICATION	3861
 CONSTITUTIONAL CHALLENGES AND SUPREMACY CLAUSE APPLICATION	3861
 CONTACT Claire Mattei	14445
+CONTACT POINT World Bank Maria Claudia	15513
 CONTAINS A CLAIM THAT CONFLICTS	3200
 COUNTRY CLASSIFICATION AND DETERMINATION OF SCENARIO	13868
 CSD International Statistical Classification of Diseases	1009
 Cabhler des Clauses	13524
+Cadastre Classification Taxation	15473
 Cahier des Clauses Administratives	4342
 Cahier des Clauses Administratives Générales	13771
 Cahier des Clauses Administratives Particulières	13524
 Cameroon’s Minister Rejects Opposition Claim of Victory	3768
+Camp Clairon	15908
+Capacity Building Programmes for Staff. CLASSIFICATION	15927
+Capitaine de Vaisseau MIBISSA Jean Claude	16381
 Care and Support for Teaching and Learning CTT Classical	12975
 Category Class Number	12256
 Category Classified Level	10157
@@ -156,6 +194,7 @@ Claes	15311
 Claeson M	10780
 Claessens	10718
 Claim	418,6005,4878
+Claim Inheritance Rights WIN Project	15473
 Claim for Rent	14778
 Claimant	1829,11211
 Claimant Chiume and Kunje	13040
@@ -163,13 +202,15 @@ Claimants	1829,6819
 Claimed	418,2102
 Claimed Part B	14546
 Claiming	8949
-Claims	1348,1048,1255,63,892,614,222,378,4280,629,64,338,3,96,1279,817,1671,26
+Claims	1348,1048,1255,63,892,614,222,378,4280,629,64,338,3,96,1279,817,1671,26,1164
+Claims Check Code	16218
 Claims System	11230
 Claims and Compensations	12364
 Claims and Reunification of Unclaimed Financial Assets	2775
 Clainnants	8648
 Clair Hickmann Paulo Paz Mohammed	11532
-Claire	12227
+Clair Isidore VIEIRA	16545
+Claire	12227,3553
 Claire Casher	10714,263
 Claire Louise Sterngold Contributors	11017
 Claire Ma	6371,740
@@ -185,17 +226,25 @@ Claire Sibthorpe and Jakub Zagdanski	11964
 Claire Vo and Leveraging AI	11143
 Clairement	3465,9841,422
 Clairfonds	14830
+Clairon	15488,420
+Clairvie-Edouard Yetikoua	15474
 Clairvoyant Business Option Limited	3862
+Claise NKOUKA LEKOGO	16175
 Clamp-in	15027
 Clamping	10
+Clanche Strano	15524
 Clanwlliam	8999
 ClapMi	11117
 Clara	9399
+Clara Ana Coutinho De Sousa Practice	15743
+Clara Ana Coutinho De Sousa Regional	15621
 Clara Ana De Sousa	1641
 Clara B. Arthur	6075
+Clara Gomes Andrade	16549
 Clara Mah Anyangwe	13572
 Clara Mazon	10302
 Clara Saine Mendy	7475
+Clara de Sousa Practice Manager	16187
 Clara-Saine-Mendy ScaleMaxWidthWzcwMF0.jpg	7475
 Claramente. Trazemos	15291
 Clare	12227
@@ -205,14 +254,16 @@ Claremont	8999
 Claremont Mediserve Data Controller INST-5186125FEC6 NAIROBI	7167
 Claremont Mediserve Data Processor INST-5186125FEC6 NAIROBI	7167
 Clarence	4434,2043,6290,1986
+Clarence Alain Pool. David	15395
 Clarence Gama	4038
 Clarence Massaquoi	7617
 Clarence and Mistral	5846
 Clarencio Ndong Nguema Obono Oficina de Información	11672
 Clarette Rwagatore	13312,2
 Clarian Makungu	10540
+Claricia Doriane	15848
 Clarifai Full	4434
-Clarification	3675,451,3861,559,1691,534,1272,108,249,785,1039,201,334,3,165,175,82
+Clarification	3675,451,3861,559,1691,534,1272,108,249,785,1039,201,334,3,165,175,82,1523
 Clarification No	13404,1355,3
 Clarification Period	13621
 Clarification RFP N 96 2024 SOM	14927
@@ -232,13 +283,14 @@ Clarifications Burundi	13694
 Clarifications Overview Total NSR Coverage	11998
 Clarifications Raised	15028
 Clarifications and Support. Public Bodies	14014
+Clarificação	16251
 Clarified	12457
-Clarifier	8891,1985
+Clarifier	8891,1985,5229,223,298
 Clarifies	7972
 Clarifies Vehicle Procurement Amid Public Questions	11054
 Clarify	4126,88,634,2700,3217,10,134,51,173,3,1904,274,1463,41,1,209,136
 Clarify Ecosystem Expectations	3503
-Clarifying	4848,7449,31,794,1844,136,62
+Clarifying	4848,7449,31,794,1844,136,62,309,577
 Clarifying Lawful Overseas Use of Data Act	5302
 Clarifying Patients' Rights	14434
 Clarinval	2096
@@ -247,11 +299,14 @@ Clarisse A Houngbedji	10919
 Clarisse A Houngbedji3	10919
 Clarisse House. Equipment	14830
 Clarisse Manjary	4262
+Clarisse Marie SOUGOU	16099
 Clarisse NYIRAMANA Faina ISHIMWE Jean NYIRAMBIBI	12445
+Clarisse Okemba	16095
 Clarity	961,1814,173,167,1468,664,673,1524,857,472,457,927,803,178,728,2577,228
 Clarity of Digital Policy	3391
 Clarity of Policy Text	12058
 Clarity of Tax Regulations	12389
+ClariÞ	15848
 Clark	1828,268,720,1860,3930,2108,571,25
 Clark CEO	14776
 Clark T	14666
@@ -260,7 +315,7 @@ Clarke J	11990
 Clarke V	8460,3771
 Clarke V. Using	14666
 Clarke and Dercon	10763
-Claro	163
+Claro	163,15308
 Claro Kpemavo	6744
 Clarrio	7482
 Clase	4209
@@ -273,7 +328,7 @@ Clases Pasivas Ministerio de Hacienda	4209
 Clash	10062
 Clash Against Future FC Artificial	7814
 Clasrooms	11905
-Class	11,725,26,461,2428,2014,210,144,847,170,1388,699,2672,160,1430,2,1306,321,115
+Class	11,725,26,461,2428,2014,210,144,847,170,1388,699,2672,160,1430,2,1306,321,115,344,131,862
 Class A Solutions	5665
 Class Actions	12929
 Class Air Mail	11851
@@ -314,6 +369,7 @@ Class FM	3802
 Class G Investor Permit	7406
 Class II	13385,2
 Class III	13385
+Class Ia	16219
 Class Licence	11
 Class License	762
 Class License APPENDIX C OTHER LICENSES	762
@@ -321,6 +377,8 @@ Class Licensee	762
 Class Licenses	762
 Class M	12227,70
 Class Precision Recall F1-Score Support	8606
+Class Scale Factor	16466
+Class Table	15622
 Class Word Logical Name Word	12360
 Class and Region	12977
 Class and Region Region Form	12977
@@ -332,7 +390,7 @@ Class0wasperfectlypredicted	8606
 Class1	8606
 Class1precisionof98	8606
 Class1withonlyeightfalsepos-	8606
-Classe	737,3830,6199,81,28,1,510,49,360
+Classe	737,3830,6199,81,28,1,510,49,360,3920
 Classe Acadêmica	11569
 Classe Alunos Angola	10766
 Classe Alunos Angola Bengo Benguela Bié	10766
@@ -359,16 +417,23 @@ Classe Professores Alunos Angola Bengo Benguela	10766
 Classe de CE2	14745
 Classe de Iniciação	10766
 Classe de Transição	11419
-Classement	1247,1095,6549,1985,738,1761,193,969
+Classement	1247,1095,6549,1985,738,1761,193,969,956,15,595,146,377,10,5,81
+Classement Asie	15936
+Classement Europe	15936
+Classement Global Open Data Index	16641
 Classement IDH	11944
+Classement Indice	16641
+Classement Indice Mondial	16641
+Classement Open Government Data Index	16641
 Classement Titre	14438
 Classement du Burundi	13325
-Classer	13781
-Classes	9123,1643,1087,1200
+Classer	13781,1726
+Classes	9123,1643,1087,1200,2551,111
 Classes C and D	3651
 Classes Recreational Activities Page	14835
 Classes Simples Classes Classes Double-flux Double-flux	10847
 Classes Simples Classes Classes Nb	10847
+Classes-to-teacher	15604
 Classic	4964,4682
 Classic Talents Optimization Limited Data Processor	7167
 Classical	826,7140,317,1476
@@ -387,11 +452,14 @@ Classificador Intersectorial	10783
 Classificador Orgânico	10783
 Classificador Territorial	10783
 Classificador de Programa	10783
-Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156,399,26,295,253,132,77,38
+Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156,399,26,295,253,132,77,38,102,126,1,82,69,89,2,5,4,184,28,351,265
+Classification Activité	15936
 Classification Après	14423
 Classification Boundaries Automatic Class A Classification	5665
+Classification Catégorie Section Niveau	15602
 Classification Definition Examples Residency Security Level	5244
 Classification Emballage	14423
+Classification Etablissement	15602
 Classification Expiration Date	1284
 Classification Figure	14423
 Classification Framework Sovereign	10157
@@ -404,6 +472,7 @@ Classification Internationale des Marchés CITE	10874
 Classification Investment Project Substantial Financing	3604
 Classification Of Goods Temporary Importations	12454
 Classification RS ISO	15027
+Classification Substantial Financing	15553
 Classification Systems Used	15085
 Classification and Disposal	12253
 Classification and Measurement Issues	5700
@@ -422,9 +491,11 @@ Classification of Individual Consumption	14857
 Classification of Liabilities	13053
 Classification of Offences	2775
 Classifications	13306,1288,440
-Classificação	2784,32,703,7238,613,11,24,1,45,447,413
+Classificação	2784,32,703,7238,613,11,24,1,45,447,413,4014
+Classificação Internacional de Doenças	16484
 Classificação Internacional de Funcionalidade	11577
 Classificação Orgânica	1342,2325
+Classificação Teste	16325
 Classificação da Informação	11377
 Classificou	6709
 Classified	598,26,236,1393,1608,1505,1581,4914,134,346,207,1381,1353
@@ -436,78 +507,115 @@ Classified. The NDGC	3861
 Classify	34,4092,3155,3950,979,794,1918
 Classifying	13356
 Classique Satellite Bilingue Franco arabe Passerelle	10847
-Classroom	12726,666,1693
+Classroom	12726,666,1693,519,57,526,249
 Classroom Availability	12411
 Classroom Conditions	12199
 Classroom Ratio PpCR	12175
-Classrooms	11469,436,13,9,1465,1530
+Classrooms	11469,436,13,9,1465,1530,656,26,832
+Classrooms Illiteracy	15578
 Classy	13434
 Classé	10907,3627
 Classée	6479,5200
+Classées	15864
 Claud John Kumalija	771
-Claude	1636,777,403,176,473,580,984,228,29,1,131,95,541,511,283,289,14,286,352,417,13,291,249,849,313,1129,3282
+Claude	1636,777,403,176,473,580,984,228,29,1,131,95,541,511,283,289,14,286,352,417,13,291,249,849,313,1129,3282,1123
 Claude AI	8596,1325
-Claude Borna	6514,4373
+Claude ASSE BIYOGHE	16175
+Claude Bertrand MOUELE	16099
+Claude Borna	6514,4373,5519
 Claude Code	5286,132,1564,2626
 Claude Cowork and Claude Tag	9608
+Claude ELLA NZIET	16381
+Claude José MARTINS	16175
 Claude K. Migisha and Marie Batista	13747
 Claude KIREZI Remy Bruce SHEMA Fred	12445
+Claude Kassi BROU	15834,3
+Claude Katelle	15780
+Claude Kikoka Mbala	16500
+Claude Louis Roger	16100
+Claude Louis Vu	16100
 Claude Mythos	6468,3733
 Claude NTAKARUTIMANA Hermes MANIRAKIZA Sylvestre NTIRUNDURA	13300
+Claude Naomie	16100
 Claude Niyukuri	9175
+Claude Olivier	16100
 Claude Omona	5394
 Claude Omona and Jesse Johnson James	5394
 Claude Opus	5599,1538,300
 Claude Platform	9608
+Claude Priscille MADOUNGOU BOUDIANGA	16175
 Claude Pro	5048,239
 Claude Rameau Bireau	4874
 Claude Shannon	2816
 Claude Sonnet	9025
+Claude Stephan	15692
 Claude Urbain PLAGBETO	2354,905,3629
 Claude and Claude Code	5418
 Claude and Claude Code. Along	5048
+Claude's WebFetch	15642
 Claude-Pro-licence	5287
 Claude-generated	9921
 Claude-powered	5287
 Claude-powered AI	5048
 Claude. Every	9592
+Claudel	16100
+Claudel Placide AUBIANG NZEH	16381
+Claudestin Paul IWANGO DE IWANGO. CABINET	16099
+Claudette Jenifer	16100
 Claudette Mahoro	13666
 Claude’s AI	9921
 Claudia	12837
+Claudia BANAVE	16175
+Claudia Lopez	16187
+Claudia Marie Muriel Lopez	16187
 Claudia McKay	10977
 Claudia Meek	12540
 Claudia P	10763
 Claudia Patricia Mosquera Rosero	6963
 Claudia Robbiati	10784
 Claudia Rodriguez Alas	12541
+Claudia Zambra Taibo	16626
 Claudiad Contents Implementing	11007
+Claudine Dieulin	16135
 Claudine GIFWANDI Chris-Lee KANYANGE Emelyne GIRUKWISHAKA	13300
+Claudine MUNARI	15395
+Claudine MUNARI Déclaration	15395
 Claudine Nyinawagaga	12370
 Claudine Silaho Weber Hilty The Republic	11936
 Claudino Filipe	10752
+Claudino Moreira	16083
 Claudio Machado	10765,10
 Claudio Machado Cavalcanti	10714
-Clause	2530,1208,8,986,1140,137,1823,2448,835,165,697,77,265,640,78,148,208,131,1022,48,7,165,118,7,411
+Clause	2530,1208,8,986,1140,137,1823,2448,835,165,697,77,265,640,78,148,208,131,1022,48,7,165,118,7,411,109,313,177,846
 Clause-by-clause	3746
 Clause-level	3974
-Clauses	1231,5178,5752,798,1635,7,165,569
+Clauses	1231,5178,5752,798,1635,7,165,569,431,378,518
 Clauses Environnementales	14488,1,1
+Clauses Exigence	15525
 Clauses-Type Cloud	3857
+Clauvice NYAMA MOUKETOU	16175
+Claver	15780
 Claver GAKWAVU	12358
 Claver Gatete	8754
 Claver MASABO Dismas MBONICUYE Hermenegilde MUGISHO	13300
+Claver VENDEDJENA ONIVINONGO	16175
 ClaveÚnica F25 Aug	10714
+Clavin Pauliny	15692
 Clavos	4209
 Clayson Monyela	2532
+Clotaire Claver	15558
 Colegio Claret de Luba Luba	4209
 Commissioners General Master Class	7694
 Committee Classification	13332
 Communications Equipment Vendor Class Licence	7708
 Companies Classification	3386
 Compliance Clauses	6432
+Components Not Categorized Indicator Name Classrooms	16436
+Comportamento Classificação	16325
 Comprehensive Data Domain Classification	3861
 Comércio Classe Acadêmica Comitê Técnico	11569
 Congratulating the Class	8409
+Conseil de Classe	16001
 Constitucionales Bussnes Clase	4209
 Constitutional Challenges and Supremacy Clause Application	3861
 Content Classification and Online Safety	5189
@@ -525,14 +633,20 @@ DE CLASSE VI.4.1 NATURE ET ETAT	10847
 DE CLASSE VI.4.2 NATURE ET ETAT	10847
 DE CLASSES VI.4.3 Origine	10847
 DE CLASSES VI.4.4 Origine	10847
+DE Ire CLASSE	15524
 DE LA CLASSIFICATION ET	113
 DE SALLES DE CLASSE	10847
+DE TRAVAIL CLASSIFICATION Contrat	16171
+DE TRAVAIL CLASSIFICATION EFFECTIFS	15690
 DEFINITIONS AND OBJECTS OF ACT Clause	12959
+DELAIS ET CLAUSES	16747
+DES CLAUSES CONVENTIONNELLES Art	15747
 DIPLO Gnahoa Jean Claude	2342
 DIPLO Gnahoa Jean Claude LIMITED	2342
 DIVORCES AND OTHER MARITAL SEVERANCES Clause	12959
 DRC Tax Claims Loom Over U.S.-Backed	5407,676
 DU LOYER ET DE LA CLAUSE	13293
+DU REGLEMENT DES LITIGES Alphonse Claude	15780
 Data Breach Hacker Claims	3279
 Data Classification	3861,1383,219,969,4799,764,2795,244,20
 Data Classification Alignment	11995
@@ -551,6 +665,7 @@ Data Classification and Transfers	11995
 Data Classification and Transfers All	11995
 Data Classifications. All	6432
 Data Protection Clause	13376
+Data and Classification	16266
 Debt Claims	15014
 Dec-2026 Environmental and Social Risk Classification	14966
 Degree of Urbanisation Classifications	14674
@@ -564,10 +679,12 @@ Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135
 Deterioration No Change Not Classified FOUNDATIONS	10759
 Deterioration No Change Not Classified SECURITY	10837,1503
 Deuxième Vide Président Madame RAMANANJARASOA Clarisse	14537
+Devis Herwin Claude	15692
 Difference Does CLA Make	11006
 Diretrizes Claras Sobre Padrões de Segurança	11898
 Djibril Pierre Clavair Pamousso	6424
 Djibril Pierre Clavair Pamousso. Selon	6424
+Document ID Classification Owner Custodian Applicability	16212
 Dr. Claire Mueni Ngeta	7167
 Dr. Keith Jefferis and Claudia Reader	12701
 Députée Clarisse Eugénie RAMANANJARASOA	14492
@@ -575,21 +692,30 @@ Députée RAMANANJARASOA Clarisse Eugénie	14499
 Développement. Clairement	13290
 E.4 Clarification of Bids E.4.1	14778
 ECOLES ET SALLES DE CLASSES PUBLIQUES	10847
+EFFECTIFS SELON LA NATURE CLASSIFICATION	16171
+ELLA EKOGHA Hubert Claude	16381
+ENIPEC Classement	16103
 ET-AUC-560865-GO-RFB Clarifications	10617
 Earplug Class	14921
 Economic Classification	2775,8443
 Economic Statistics Classification Statistician	12403
 Electrical Class Ratings	9123
+Elisabeth Claire NDOUMBA	16175
 Emerging A1- Classification	7548
 Emission Class Adj Chn Selectivity	736
 Entrance Rooms Class	9123
-Environmental And Social Risk Classification	13787,1167
+Environmental And Social Risk Classification	13787,1167,1700
 Environmental And Social Risk Classification Moderate	2291,12285
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental and Social Clauses	1988
-Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93
-Environmental and Social Risk Classification Concept Review	13111
+Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105
+Environmental and Social Risk Classification Concept Review	13111,2402,37,1125
+Environmental and Social Risk Classification Investment	15621,122
+Environmental and Social Risk Classification Substantial	15658
+Erica Claude ANGUE BEYEME	16175
 Establishes How Clarification Requests	12389
+Etablissements Classés DG	16621
+Etablissements Facultaires Classiques Proportion	15999
 Executive Secretary Mr Claver Gatete	11817
 Exit Clause	6432
 Exit Clause All	6432
@@ -600,6 +726,7 @@ FOREIGN FUNDS Classification Compensation of Employees	13093
 FOURNITURES CAHIER DES CLAUSES TECHNIQUES PARTICULIERES	13524
 False Claims	8436
 False Claims About Security	10725
+Family of International Classification	15725
 Feb-2027 Environmental and Social Risk Classification	2473
 Fee Class Application	736
 Fee Class Application Fee Reciept No	736
@@ -613,6 +740,7 @@ Functional Classification	14830
 Functional and Economic Classification	13093
 Fund Integrated Food Security Phase Classification	11136
 GAHIMA Jean Claude NIYIGENA Yves Paulin	12445
+GAI Classifications	16266
 GC Clause	13185
 GCC Clause	13185,1581,314
 GCC Clauses	13185
@@ -622,7 +750,7 @@ GCI PB 019 CLA-2023-FIN.pdf	645,2,211,2
 Garmien Clarisse HEMA	7670
 Gazette. Clause	14594
 General Conditions of Contract Table of Clauses	13185
-George R. Clarke	13314
+George R. Clarke	13314,2160,19
 GhIPSS CEO Clara B. Arthur	6097
 GitHub Classroom	11922
 GitHub Classroom. All GitHub Classroom	11922
@@ -632,7 +760,11 @@ Google Classroom	6748,6395
 Government Data Classification Scheme	6432
 Government Information Classification	11854
 Govt Signals Social Media Clampdown	4175
+Grades Classes NGAKOSSO	15848
+Group HEGDI Rating Class H3	15634
 Grupos Clase	4209
+Guermazi Senior Council Claudia M. Pardinas	15424
+H.E. Mr. Rameaux Claude Bireau	16277
 HABIMANA Claudien Umuvugizi Wungirije	15027
 HDAs. Class C4 Telecommunications Infrastructure	9123
 Hacker Claims	3364
@@ -641,46 +773,59 @@ Handling of Complaints and Claims	5676
 Handling of Complaints and Claims The Guidelines	5676
 Harmonized Classification of Fees	12164
 Heads of Tax Administrations Master Class	7692,1
+Henri Claude KOMBILA	16381
 High Court. Clause	14594
 High-impact Class	8424
 High-risk Class	8439
 Honourable Lady Justice Claudia Claassen	12920
 House of Commons Library. Clark	5675
 ICD-10 International Classification of Causes of Deaths	12413
+ICD-10. Classification	15599
+ICD11 International Classification of Diseases	15966
 ICTAM President Clarence Gama	13059,53
+ID Classe	15715
+ID Financing Instrument Classification Investment Project	15661
 ID. Clause	12959
 IDENTITY DOCUMENTS Clause	12959
 IDs and Class M	12227
 IDs. Clarify	12328
 IHS Towers. Classified	292
+II. Classification	15936
 IMPLEMENTATION AND GOVERNANCE Policy Clause Implementation	6432
 INDUSTRIAL CLASSIFICATION CODE	14891
+INFRACTIONS CLASSIQUES DE DROIT COMMUN COMMISES	16617
 INVTRANTYPEFORTTC Class of TTCs	12364
+ISCO-08 Occupational Classification	16266
 ISP Service Classifications. No. ISP Service	3386
 ITB Clause	13037,1729
 ITB Clauses	14766
 IX. CLARIFICATION DES ROLES ET RESPONSABILITES	13482
 Imagery Classification. IEEE Journal of Selected Topics	14769
+Importance Classification	16266
 Improve the Quality and Reliability of Classrooms	11918
 Includes GitHub Classroom	11922
 Incorporation of Sustainability Clauses	12389
 Indian Classical Dance Performance	13509
 Industrial Classification Code	14891
 Industrial Classifications	14836
+Infrastructure Construction Classroom	15604
 Initiative MCCs Model Contractual Clauses OECD	1243
 Input Tax Claim Schedules for VAT Returns	12509
 Input Tax Claims for Taxpayers	12509
 Inquests Act. Clause	12959
 Institutional Theory and Digital Transformation Classical	7966
 Integrated Food Classification	3583
-Integrated Food Security Phase Classification	3583,7553,333,1509,1967,14
+Integrated Food Security Phase Classification	3583,7553,333,1509,1967,14,1505
 Integrated Food Security Phase Classification System	3583
 Integrity Clause	14736
 Integrity Clause The Mauritius Standards Bureau	14736
 Intermediate-level Results Indicators Classroom	13392
 International Classification for Standards	13341
-International Classification of Diseases	11969,444,316,2327
+International Classification of Diseases	11969,444,316,2327,406,263,382
 International Classification of Diseases KFH	12338
+International Classification of Diseases-10	15411
+International Classification of Functioning	15663
+International Classification of Health Interventions. Egypt	15725
 International Standard Classification of Activities	236
 International Standard Classification of Education	13310,1465
 International Standard Classification of Education MBBS	14775
@@ -692,18 +837,28 @@ International Standards of Industrial Classification Rev III	14857
 International Statistical Classification of Diseases	12151
 Interpretation Classification	13053
 Interpretation and General Clauses Act	14719
+Iris Claude MIHINDOU MIHINDOU	16175
 Irrigated. Class	15129
 Italy Claudia Robbiati	10784
 Italy Claudia Robbiati Doctors	10784
 Italy Fabio Manenti Authors Claudia Robbiati	10784
 JEAN CLAUDE KASSI BROU	2556,995,1106,1302,1374
 JEL CLASSIFICATION	5700
+Jean Claude	15455,103,57,129,36,121
+Jean Claude Bazebi	16407
+Jean Claude Bazebi. Dans	16407
+Jean Claude EMEKA	15685
+Jean Claude GAKOSSO	15524
 Jean Claude Gaga	8535
+Jean Claude Gakosso	16275
 Jean Claude Hashakineza	8839
 Jean Claude Kassi Brou	3719
 Jean Claude Le Roy Business Mauritius	14765
+Jean Claude MATIBA	16099
+Jean Claude MOBOUSSE	15685
 Jean Claude Mpawenimana	9270
 Jean Claude NYIRANSENGIMANA Bernadette HITUWABYAYE Nadege	12445
+Jean Claver	15744
 Jean Paul NKURUNZIZA J. Claude IRAKOZE	13300
 Joachim NIMENYA Merline KAYIRO Pierre Claver	13300
 Jonas Claes	15311
@@ -713,7 +868,9 @@ Jul-2022 Environmental and Social Risk Classification	4653
 Julia Clark	10714,51,10,202
 Julia Clark and Rohini Pande	12328
 Julia Clark and Stela Mocan	10714
+Julia Michal Clark	15518
 Jun-2026. Environmental and Social Risk Classification	14971
+Jun-2028 Environmental and Social Risk Classification	15969
 Justice. Justice Claassen	12920
 K-16 Classrooms. Springer International Publishing	8460
 KAYIRO Pierre Claver Mr NTISINZIRA	13300
@@ -724,6 +881,7 @@ Kenya National Qualifications Framework Act. Clause	7832,2448
 Kenya Statistics Authority. Clause	14594
 Kwanonqaba Mb Superspar Clanwilliam PnP Sanbury	8999
 L Licença de Classe	2866
+L3-CROP-TYPE.EGY-MLL Class	16466
 LCCS Land Cover Classification System LCHS	15129
 LE MARCHE CAHIER DES CLAUSES ADMINISTRATIVES	13524
 LISTE DES ANNEXES ANNEXE-1. Clauses	14490
@@ -738,6 +896,7 @@ Lack of Clarity	14546
 Land Claim Commissioner SACPLAN South African	11261
 Land Cover Classification System	15129
 Land Cover Classification System User Manual	15129
+Large Landowning Class	15473
 Large-Scale Remote Sensing Image Classification	14769
 Launch Jean Claude Musabyimana	12370
 Legal Claim	12302
@@ -746,30 +905,56 @@ Letrado Mayor Clase Económica Director General	4209
 Licença de Classe B	2866
 Licença de Classe C	2866
 Litigation Guardian Mr CJ CLAIMANT	13040
+Litigation and Claim Assessment	15713
 Luanda CLAUDIO GARCIA ESTEVÃO	10751
 Luanda Luanda PEDRO CLAVER COSSENGUE HILÁRIO	10751
+Luc Claude Edouard	15692
+Léon Claude	15780
+Lévite Clarisse	15615
+L’ENSEIGNEMENT PRIMAIRE CLASSE	16230
+M. DJIMBI Jean Claude. DÉPARTEMENT PATRIMOINE	16381
+M. Didier Claver NDONG	16175
+M. Dyamis Claude DESNO ONDO	16099
+M. Jean Claude Gakosso	16121
+M. NAHOUTOUMA SAMBA Claiz	15901
+M. Pierre Claude MBINA MOUNDANGA. ADMINITRATION	16381
+M. Rosin Clauther MBAMI	16381
 MATERIAL SCOPE AND DATA CLASSIFICATION TAXONOMY	3861
 MINED CLAIM IS REFUTED	3745
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
 MWIZERWA Jean Claude	12445,2611
+Madame Clarisse Eléonore KYELEM	16287
 Madame RAMANANJARASOA Clarisse Eugénie	14537
 Mandatory Exit Clause The Contract	6432
 Mapping Classification	6432
-Mar-2028 Environmental and Social Risk Classification	14456
+Mar-2027. Environmental and Social Risk Classification	15802
+Mar-2028 Environmental and Social Risk Classification	14456,1731
 Marguerite Clarke AGIR ABBREVIATIONS AND ACRONYMS	11905
-Maria Claudia Pachon	1264,9450
+Maria Claudia Pachon	1264,9450,4779,20
+Maria Claudia Pachon ABBREVIATIONS AND ACRONYMS	15491
 Master Class	7692,2
 Material Scope and Data Classification Taxonomy	3861
 Matriz de Classificação da Significância	11390
+Maxime Claude	15558
+Me Jean Claude SAIDI	15458
 Medium and High Voltage Class of Consumers Sale	9409
 Meet the Google for Startups Accelerator Africa Class	5875
 Member IDD04 Claudia Cardelli Team Member	1284
 Mike Clare	2677
 Minister. Clause	12959
 Mlle Clairia Mugisha	13547
+Mme ABANA BILOA Claudine	16195
+Mme Clarisse LELANGHA	16175
+Mme Claudette EWORET	16175
+Mme Claudia Pélagie MAYINZA KOUSSOU	16175
+Mme Marie Claire MELONG AYENOUE	16099,76
+Mme. Claudette MBONGO	16381
 Model Clause	11154
 Model Contractual Clauses	1243
 Modelo Normativo de Classificação	11448
+Monsieur Claude ANIGNIKIN Couffo Membre	16485
+Monsieur Jean Claude HOUSSOU	15466
+Monsieur Nioubi Claude KABRE	16117
 Morne Witt Mining Claim No	13189
 Mr. Clarance Massaquoi	8835
 Mr. Claud Kumalija	1261
@@ -780,6 +965,7 @@ Mrs. Nyinawagaga Claudine	12434
 Ms N Ntlangwini and Ms MO Clarke	11285
 Ms N Ntloko Chief Land Claims	11261
 Ms. Clarian Makungu	11299
+Ms. Claudine Munari	16275
 My Class-	13681
 My Classroom	11294,47,2340
 N NIVEAU CLASSE	13300
@@ -801,6 +987,7 @@ NO. OF OFFENCES CLASSIFIED AS CRIME	14760
 NOTIFICATION AND REGISTRATION OF BIRTHS Clause	12959
 NOTIFICATION AND REGISTRATION OF DEATHS Clause	12959
 NW4495 Clarke	11980
+Name Size Code LULC classification.R	16463
 Namibe NGANETA CLAUDERINHA FIGUEIREDO DOS SANTOS	10751
 Namibia Standard Classification of Occupations	13037
 Naomi Clare Lee Patient	10881
@@ -811,11 +998,14 @@ National Government Expenditure Classification	2775
 National SEXE Classique Satellite Bilingue	10847
 National Standard Industrial Classification	14836,4
 National Statistical System. Clause	14594
+Non Classé Ailleurs NIU	16249
 NotebookLM. Claude. GitHub. Lovable. Every	5513
 Notwithstanding Clause	15302
 Number of Classrooms	1988
 Number of Spectrum Licenses Issued Service Class	12395
 Nyirimanzi Jean Claude	12403
+OBIANG MBA Jean Claude	16381
+OBJET ET CLASSIFICATION Article	15406
 OCCUPATION Occupation Classés	13300
 OCRC Classé	10821
 OFFICE USE ONLY Fee Class	1877
@@ -824,6 +1014,7 @@ Office. Clause	14594
 Online Content Classification and Emergency Regulation	2117
 Open Learning Classes	13477
 OpenAI and Claude	8405
+Operation ID Classification Investment Project P500628	16144
 Operation ID Financing Instrument Classification Investment	10768
 Oui Clarification	13433
 Overview and Clarifications	11998
@@ -832,6 +1023,7 @@ PART FOUR CLASS LICENSES	762
 PERSON OR CLASS OF PERSONS	14720
 PINAUD Clara Statut	10880
 POLICY STATEMENT Policy Clauses Implementation Guidelines	6432
+POLITIQUE DE SUBVENTION CLAIRE	16037
 POSTS WITH CLASSIFICATIONS	14760
 PRUDENCE CLASS	13300
 PW Classic Labor-Intensive Public Works CRI	15138
@@ -839,10 +1031,15 @@ Pacifique NSAGUYE Emmanuel IZOMPA Jean Claude	13300
 Par Claude Hakizimana	6162
 Par Claude Urbain PLAGBETO	2950
 Par Claudia Kenou	2014
+Paris-Camp Clairon BP	16552
+Paris-Camp Clairon P.O. Box	16552
 Per CLAUDE.md	1826,1130,3198,2065
 Permanent Classroom Ratios PqTR	12175
 Personal Responsibility Clause	34
 Phase Classification	12977,2243
+Pierre Clara BILOMBY	16175
+Pierre Claver MFOUBA	15666
+Points New Classes Mobile Libraries Literacy	15578
 Policy Clause Implementation Guidelines Actor Requirements	6432
 Policy Clauses Implementation Guidelines Actor Requirements	6432
 Pour le Pr Armand Claude Abanda	8906
@@ -855,10 +1052,14 @@ Priority of Secured Claims	12389
 Privé Classique Satellite Bilingue Franco arabe Passerelle	10847
 Privé Privé Commun Classiqu Satellite Bilingue	10847
 Project ID Financing Instrument Process Classification	13332
+Prova Nacional Classificação	16325
 Provider Class A US	736
+Provider and Claims	15481,598
 Public Interest Litigation and Class Actions	14748
+Public Land Management Classification	15473
 Publishing Classified Military Information Aids Terrorists	4738
 Quelle PRUDENCE CLASS	13300
+Questão Data Classificação Observações Registo	16325
 R3. Clarify	13312,2
 REGISTRARS AND AGE DETERMINATION COMMITTEE Clause	12959
 REGULATORY CLASSIFICATION AND APPROVALS	4896
@@ -867,20 +1068,26 @@ REQUESTS FOR CLARIFICATION OR FURTHER INFORMATION	11240
 REQVLevel Classification	11180
 Radio PJ CLASSIC FM BUJUMBURA	13414
 Rating Class EGDI Rank LOSI Rank	10840
+Receiving Literacy Classes	15663
 Registrar-General. Clause	12959
 Registration and Emission Class Certification	736
 Regulatory Clarification This Spectrum Roadmap	5245
+Rehabilitation Classroom	15604
 Remote-Sensing Image Classification	14769
 Research Infrastructure Classification	7548
 Resisting and Claiming Digital Sovereignty	11028
-Risk Classification	14601
+Risk Classification	14601,1611
+Risk Classification Guidelines	16212
 Risk Classification P177003 Investment Project Financing	10829
+Risk Classification2 This Guide	16212
+Robert Marie Jean Claude KARGOUGOU.-Officier	15595
 Routier Classe	3396
 Rule Class	5665
 Rule of Law Demands Clarity	3615
 Rural Slowing Improvement Not Classified Market	12352
 SAHPRA Classification	3651
 SAHPRA's Classification Guideline	3651
+SAKALA PANGOU CLAUDE AYMARD	15780
 SCC Clause	14766,314
 SCC for GCC Clause	14766
 SECONDAIRE ANNEXE-1. CLAUSES ENVIRONNEMENTALES ET SOCIALES	14488
@@ -892,6 +1099,7 @@ SITC Standard International Trade Classification PAGE	2775
 SLA Classification	6432
 SMART Education Solutions Transform Classrooms	3511
 SN Class	7845
+SOLDAT DE Ire CLASSE SOLDAT	15524
 SUNSET CLAUSES AND REVIEW TRIGGERS	3861
 SUPREMACY CLAUSE APPLICATION	3861
 Safeguard Clause	14409
@@ -900,6 +1108,8 @@ Saharan Africa. Classified	12367
 Sampling Zones Classification County Uasin Gishu	7869
 Santa Clara	9399,591,1402
 Santa Clara Border	12984
+School Classroom	15578
+School Classrooms	15578
 Second Clasp	14760
 Second Class Air Mail	1220,10756
 Sector Classifications	4972
@@ -922,15 +1132,20 @@ Small Claims Court Act	12543
 Small Claims Courts	9546,3410
 Small Claims Procedure	14847
 Smart Classroom	11918,3246
+Social Claim	15901
 Social Risk Classification	11965
 Social Risk Classification Environmental Risk Rating	15138
+Social Risk Classification Financing Agreement Foreign	16436
 Social Risk Classification P175363 Substantial Investment	10964
 Social Risk Classification P179509 Investment Project	11560
 Social Risk Classification Road Fund	1228
 Social Risks Classification	1988
 Software Class Score Range Alternative Classification	5665
+Sous-total Alger CLASSIFICATION EFFECTIFS SELON	16171
+Sous-total Chlef CLASSIFICATION EFFECTIFS SELON	16171
 South Africa. Product Risk Classification	3651
 Special Regime for Labor Claims	12389
+Species Identification and Classification	15478
 Staff Clarification Requests	12058
 Standard Contractual Clauses	5244,6712,37,1388
 Standard Industrial Classification	11296
@@ -940,6 +1155,9 @@ Statistician-General. Clause	14594
 StatisticianGeneral. Clause	14594
 Statistics Act. Clause	14594
 Statistics Fund. Clause	14594
+Steven James Mortimer Clarke ICR Main	15702
+Steven James Mortimer Clarke Page	15659
+Strategic Clarity	15713
 Sub-Saharan Africa. Classified	11417
 Submit Claims	12389
 Sudan Classification	14898
@@ -952,15 +1170,18 @@ TIERED ORGANIZATIONAL CAPACITY GUIDELINE Class	5665
 TVET. Classrooms	12411
 Table of Clauses A. General	14766
 Tamko Clarence	11355
+Tarefa Data Classificação Observações Registo	16325
 Team Clarity	8530
 Telecommunication Regulatory Master Class	6946
 Telecommunications Cabling Infrastructure Classes	9123
 Telecomunicações. Licença de Classe C	2866
+Terence Claubel	16177
 Termination Clauses Every	6432
 Timothy Clay	10964
 Title Source Clarification Supply	7987
 Title of Class of Securities	7198
 Transitional Clause	7832
+Très Haute Clairvoyance de Son Excellence Pr	15668
 Tuberculosis Angola Profiles Claudia Robbiati View	10784
 Tx Emission Class	736
 Tx Emission Class Maximum Radiated Power	736
@@ -978,6 +1199,9 @@ US Cloud Act. Claim	5821
 UZARERWA Marie Claire	12445
 United States’ Clarifying Lawful Overseas	6471
 Universal Services Provider Class B	736
+Unlimited CLARO	15471
+Unlimited Claro	15471
+Unlimited. CLARO	15471
 Unofficial Results and Premature Outcome Claims Voting	10725
 Up Innovativa Hardin AI Claibe	8530
 Using the Land Cover Classification System	15129
@@ -988,6 +1212,7 @@ VI.3 SURFACE DES SALLES DE CLASSE	10847
 VI.8.5. Classement	10876
 VII. Classification	6612
 VSDC API Specification Item Classification Codes	12454
+Venance Yvon Claudet	15744
 Volamanana Clarisse	14569
 WHO's International Classification of Diseases	9370
 West Africa World Bank Classification of Fragile	1264

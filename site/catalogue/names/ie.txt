@@ -1,8 +1,11 @@
 ABNT Chicago Harvard IEEE MLA Turabian	12467,19
+ADI6 ADI9 IEI4 TEC1 TEC2 TEC4	15532
 AIDS IEC	15206
 AL DAS ELEtçÕeS IeeSLAnVAS	11544
+ARPCE IEC	16103
 Acomprehensivesurvey. IEEE Access	8606
 Administrators of IECMS	12972
+Administração PúblicaIEI1 IEI2 IEI4 LEG4 Não	15532
 African IETF	991
 Agbehadji IE. Health	10780
 All the IETF	991
@@ -12,17 +15,31 @@ Body The IECMS	15078
 Burkina Faso Ministry of Health.21 The IeDA	10881
 Burkina Faso.20 The IeDA	10881
 Business Day. For the IEC	9375
+CDER IEC	16103
+CHAPITRE Ier	16617
+CHAPITRE Ier ECONOMIE GENERALE	16295
+CNIC REELEC IEC	16103
 COMESA ZWS HS IEC ADOPTIONS	13385
+CONDOR NA IEC	16103
+CSIRT IES1 Não ESTRUTURANTES LEGISLATIVOS EST-LEG1	15532
+Centro Nacional de Cibersegurança IES1 LEG1 Não	15532
 Cette IEE	13325
 Chairperson of IEBC	12113
-Chapitre Ier	10966
+Chapitre Ier	10966,4462,7,29,69,27,37,674
+Cloud de Governo SPD9 SPD10 TEC2 IES5	15532
 Comité Técnico de Avaliação Científica da IEEE	2816
 Commission. IEBC	12293
 Communication Technology IEC Information	13005
+CommunicoTion. Outre Ie	15397
 Comunicación IED	1701
+Coordinator for IeDA	15581
 Cross Domain Convolutional Neural Networks. IEEE	14769
 D IE PARLEMENT van Suid-Afrika	11190
+DE NA IEC	16103
+DES DISPOSITIONS PENALES CHAPITRE IER	15727
+DES LISTES ELECTORALES CHAPITRE IER	15727
 DPSE GIZ IEC INSTAT MGP MID	14425
+DU VOTE CHAPITRE IER	15727
 Divers IEPS	13377
 Document and IEC	13596
 Donna Kaidou Jeffrey IEGEC	10779
@@ -32,15 +49,25 @@ Eastern and Southern Africa IEG Independent Evaluation	6539
 Elections Act. IEBC	12293
 Electoral Commission The IEC	7514
 Electric Vehicles RS IEEE Std	15027
+Electro Industries NA IEC	16103
+EletrónicaDSP3 DSP5 IEI1 IEI2 IEI3 IEI4	15532
 Estatística IES	11387
 F. IECMS Modules ANNEX F1	14927
+Formation Ie Ministre du Numérique	15489
 Former IEBC	9645
 GHG HIPC IDP IEA IMF IPC	11136
+GISB NA IEC	16103
+Gabon. Chapitre Ier	15597
+Guinea and Niger. IeDA	15581
 HSDU. IEC	15206
 HSDUs. IEC	15206
 Hon. Prince Simelane. The IECMS	12997
+I'exiension de Ieurs	15429
+I'olinéo Ier	15429
 IBEDC Ibadan Electricity Distribution Plc IEDN	12062
+ICR DOCUMENT IEG IFR IMF IPF	16436
 IDR Import Dependency Ratio IEBC Independent	2775
+IE Produits	15999
 IE Special Educational Needs and Inclusive Education	14896
 IE University and NOVAFRICA. Other Primary Investigators	10609
 IE0044	11873
@@ -75,6 +102,7 @@ IEC Development and Dissemination	12977
 IEC Development and Dissemination The Office	12977
 IEC Digital	12360
 IEC Directives	13320
+IEC Electropedia	15555
 IEC Explains the Figures Responding	9315
 IEC Framework	12360
 IEC Guide	13320
@@ -82,6 +110,7 @@ IEC Independent Electoral Commission JCPS Justice	11218
 IEC Information	11924
 IEC Information Technology	12360
 IEC Interchange Format ISO	12360
+IEC International Electrotechnical Commission	15472
 IEC International Electrotechnical Commission IoT Internet	11196
 IEC International Organization for Standardization	10765,10
 IEC LESOTHO	12652
@@ -91,7 +120,9 @@ IEC Operações	11532
 IEC Partenaire	14425
 IEC Pushes for Digital Election Reforms	7042
 IEC Secure XML	12360
-IEC TS	12191,1242
+IEC Standards African Union Harmonization EGYPT	16212
+IEC TR	16103
+IEC TS	12191,1242,2670
 IEC TS Off-Grid Solar Market Report	11923
 IEC and Department of Basic Education	14357
 IEC and EMVs	13985
@@ -99,9 +130,12 @@ IEC and Lancet Laboratories	15327
 IEC and TIA	9123
 IEC's	8846,469
 IEC's Voter Participation Survey	10453
+IEC. En	16267
 IEC. Firstly	11949
 IEC.pdf	5641
+IEC17025	15669
 IEC20000	1000
+IECD RCA	16184
 IECMS	12387,26,60,463,36,25,132,309,66,3,112,1375,84,141
 IECMS Integrated Electronic Case Management System	12413,2643
 IECMS Phase	13619
@@ -111,6 +145,7 @@ IECMS. Staff	13504
 IECMS. The IECMS	12473
 IED&A117	14997
 IED&A118	14997
+IED-HYDROCONSEIL-EED	15542
 IEDA Consultant PCA Planning Department Director	2989
 IEDOM	14744
 IEE. L’apport	13325
@@ -133,10 +168,11 @@ IEEE Standard Computer Glossorles	1009
 IEEE Standard for Technical Specifications	15027
 IEEE Systems Council	8022
 IEEE Tongsuksai	9129
-IEEE Transactions	2093,6511,4322
+IEEE Transactions	2093,6511,4322,2733
 IEEE Visualization and Visual Analytics	8022
 IEEE Wireless Communications	8130
 IEEE Xplore	7759,31
+IEEE. Son	15670
 IEEE. Sotomane	2816
 IEEE.pdf Roldán	8604
 IEEE142	9123
@@ -149,6 +185,7 @@ IEFP Institute of Employment and Vocational Training	11855
 IEFP and NGOs	11855
 IEFP11	11855
 IEFis	4209
+IEG-CEDEAO	16323
 IEGEC	13850
 IEGID	11136
 IEJ Brickhill	14193
@@ -156,7 +193,9 @@ IEM EN	736
 IEMed	13257
 IEMed Abstract Despite	13257
 IER Institut	12
+IER MINISTRE SERVICES DU PR	15441
 IES. Assim	11391
+IES3 IES4 GOV7 GOV4 Não EST-ADM2	15532
 IESBA	11955,1098
 IESBA Code	15169
 IESF109	14997
@@ -175,17 +214,39 @@ ISO and IEC	14947
 ISO and IEEE	4528,7984
 ISO- IEC27001	1000
 ISOC IETF-Africa	991
+Ie Bureou	15429
+Ie CGl. Article	15497
 Ie CTIS	13334
-IeDA-maternity	10881
+Ie Conseil	15489
+Ie Directeur	15489,1122
+Ie Minislre	15438
+Ie Ministre	16611
+Ie Prêteur	15399
+Ie Togo	15399
+IeDA The Integrated	15581
+IeDA-maternity	10881,4700
+IeUNnsOtUta	15399
+Iedécretn	15489
 Ieee.ors	1009
+Ielles	15397
+Iemps	15429
 Ienca	11135,21
+Iendont	15429
+Ienitoire	15429
 Ienlveectstricmiteyntarcceeqsusire	11572
+Iente	15429
+Ienue	15429
 Ierminées	10813
+Iesprofessionnellesopplicoblesouxquelleselleest	15429
+Ieurs	15416,27
 Imagery Classification. IEEE Journal of Selected Topics	14769
 Implementation. IEEE Journal of Selected Topics	15129
 Independent Electoral Commission of Lesotho IEC Head	12652
 Independent Electricity Distribution Network IE Ikeja	12062
+Indicateur de Développement Humain IEC	15423
+Indice de Développement Humain IEC	15475
 Information and Communication Technology IE	12175
+Information. Chapitre Ier	15701
 Iniciativas de Desarrollo Espacial IEC	1701
 Instituteur Certifié IEPD	10847
 IoCk IETLEIS	14713
@@ -194,22 +255,41 @@ KAZI IENDELEE. Vilevile	2868
 Krishnamani Kavita Mathur Victoria Alexeeva IEGSD	14888
 Limited GTL Ghana Tech Lab IEAI	4126
 Local IEC	7266
+Lorsque Ie	15429
 MATTERS ARISING The IEAG	14216
+MESURELEC NA IEC	16103
 MHz and IEM	736
+Mersal NA IEC	16103
 Mobile Care Services IETF RFC7159	1009
+Mois Ie	15397
+NA IEC	16103
 NGO IECD	11897
 NY. IEEE Access	9129
 National Identity System IEC Electoral Commission	11986
 Norma ISO IEC	11381
 Note the IEC	7266
+Nouveau Thème IEC	16103
+Nouveau Thème NA IEC	16103
 OUN BOU LK IEMD E BAN	10847
+PAR IES MOYENS D'INFORMATION ET	15397
 PAYMENT PLATFORMS The IEAG	14216
+PRESIDENCE DE LAKEP PRESIDENCY OF IER	15999
+Partenariats. Chapitre Ier	15678
+Por Ie Présidenl	15397,41
 Pour Ies	10813
+REF. NA NA IEC	16103
+REF. NA SOURCE DOCUMENTAIR E IEC	16103
 Ratings Ratings ICR IEG Reason for Disagreements	14888
 Register of Voters. IEBC	3936
 Register of Voters. The IEBC	3936
 Response and Resilience IEA International Energy Agency	1867
-République Gabonaise. Chapitre Ier	11580
+République Gabonaise. Chapitre Ier	11580,4198
+Révision NA IEC	16103
+S Monsieur Ie Directeur	15399
+SERVICE DU FICH ETARIAY G IERLEG	15999
+SNIAC ADI5 IEI4 TEC4 TEC5 TEC8	15532
+SOMMAIRE CHAPITRE Ier	16295
+Saúde Reprodutiva IEFP Instituto	15535
 Senior Member IEEE	12926
 South Africa’s IEC	10497
 States. IEA	11572
@@ -217,6 +297,7 @@ Stationary Battery Applications RS IEEE Std	15027
 Série IEEE P70xx	2816
 TBD IE	970
 Through the IECMS	14994
+Titre Ier	15435
 TransferCategory Categories of Ieamer	11180
 W A SA NGU IE KADIOGO	10847
 Will the IEC	11076

@@ -43,6 +43,8 @@ Determinations Meets Minimum Requirements	11005
 Distance Minimum Distance Moyenne Distance Médiane	13390
 Domestic Minimum Top-Up Tax SAP State	14828,3
 E. Data Minimisation	13381
+EXIGENCE MINIMALE Supérieur	15943
+EXIGENCES MINIMALES	15943
 Education and Training Authority MISS Minimum Information	11196
 Expectations and Minimum Maturity Level	15054
 Explicit Minimum Best-fit	15164
@@ -59,12 +61,15 @@ Guaranteed Minimum Banking Service	10967
 Harm Minimization	3861
 Health Documents PWP Minimum Interoperability Standard	1009
 High Medium Basic Minimal	5665
+Hosting Service Provider Minimum Requirements	15590
 ICT Minimum	15164
+INDICATEUR EXIGENCES MINIMALES Taux	16295
 Identify Minimum Separation	12389
 Item No. Description of Item Minimum Criteria	15080
 Kenya's Minimum Energy Performance	12256
 Learning Achievement MML Minimum Mastery Level	13990
 Lu Heng's Minimum Initial Specification	11797
+MBB INDICATEUR EXIGENCE MINIMALE	15943
 MES Minimum Emission Standards MTS Main	11228
 MINIMAL TO CAUTIOUS	12241
 MINIMAL TO CAUTIOUS Likelihood	13080
@@ -89,11 +94,14 @@ Mean Annual Minimum Temperatures	2775
 Meet Minimum Requirements	11005
 Meeting MP Member of Parliament MPSS Minimum	11218
 Meeting Minimum Fiscal Transparency Requirements Significant	11005
-Minimal	961,4286,967,218,2691,493,1110,375,766,85,424,379,340,1090
+MiniMartap	15542
+Minimal	961,4286,967,218,2691,493,1110,375,766,85,424,379,340,1090,1286,741
 Minimal Data Collection	12281
+Minimal Digital Ecosystem	16397
 Minimal Identity	10775
 Minimal Meaning	9855
-Minimal Risk	12675
+Minimal Risk	12675,3537
+Minimal Risk AI	16212
 Minimalistic Principles	10819
 Minimality Personal	12651
 Minimality Principle	6512
@@ -110,7 +118,7 @@ Minimising Climate Change Shocks	13477
 Minimising Conflict of Interest	11250
 Minimising the Risk	1814
 Minimisingfalsepositivesrequiresincreasingthesimilarity	8606
-Minimizar	1701,9841,13
+Minimizar	1701,9841,13,4473
 Minimization	3861,9324
 Minimização	11555
 Minimize	1988,7135,1652,439,1026
@@ -119,7 +127,7 @@ Minimized	10550,3128
 Minimizes	13037
 Minimizing	1988,5771,7162
 Minimizing Algorithmic Bias and Discrimination	1161
-Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148,102,279,1217,31,20,46,16,32,69,37,46,84
+Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148,102,279,1217,31,20,46,16,32,69,37,46,84,547,288,313
 Minimum Acceptable Diet	15247
 Minimum Access Conditions	5620
 Minimum Age Convention	14011
@@ -174,8 +182,10 @@ Minimum SLA Requirements	11995
 Minimum Sample Size Requirements for Seasonal Forecasting	236
 Minimum Service Delivery Standards	13474,172,42
 Minimum Service Delivery Standards Framework	13685
+Minimum Speed Multiplied	15762
 Minimum Standards Requirements for Solar Home Systems	14947
 Minimum Standards for Electronic Payments EPS Fast	12390
+Minimum Support Price	16234
 Minimum T3	15164
 Minimum Team Size	5665
 Minimum Technical	6432
@@ -190,6 +200,7 @@ Minimum-Wages-3.pdf	226
 Ministry of Health and Population MPA Minimum Package	10829
 Moyenne Minimum Maximum	13390
 Moyenne Minimum Maximum Moyenne Minimum Maximum	13390
+NORMES ET SPECIFICATIONS MINIMALES	15394
 NORMS AND STANDARDS Minimum	11182
 National Minimum	14742
 National Minimum Standard Operating Procedures for Hostels	13247
@@ -198,10 +209,12 @@ National Minimum Wage	14742
 National Minimum Wage Act	11280
 No. Equipment Minimum Lifespan	34
 Non-ECC Minimum	34
+OBLIGATIONS MINIMALES DE CONFORMITÉ LBC	16363
 OECD Global Minimum Corporate Tax	14932
 Operations Parameter for Data Centre Room Minimum	9123
 Paid-in Minimum Capital Requirements for Domestic	12389
 Paid-in Minimum Capital Requirements for Foreign	12389
+Paquet Minimum	15423,262
 Phase Minimal	14896
 Population Urban Minimum	11857
 Printing Works MIOS Minimum Information Security	11986
@@ -211,7 +224,10 @@ Qualified Domestic Minimum Top-Up Tax	14828,3
 Qualified Domestic Minimum Top-up Tax	14839
 Ratio Liquidity Ratio Minimum	15023
 Review The Minimum Data	13218
+Risk AI Systems Minimal-risk AI	16212
 SCOPE The Minimum Interoperability Standard	11184
+Salaire Minimal Interprofessionnel Garanti	15542
+Salaire Minimum Interprofessionnel Garanti	15436,584
 Sensitive Data Minimisation and Fair	1243
 Size Minimum	14921
 Soumissionnaires Minimum	10876
@@ -224,6 +240,8 @@ TEAM COMPOSITION AND MINIMUM QUALIFICATION	3678
 Target Deduplication Disk Appliance Minimum Requirements	13185
 Technical Minimum Require-	6946
 Token USB. Minimum	12364
+UAH. Minimal	15471
 UN Standard Minimum Rules	12984
 Uninterrupted Power Supply Minimum	9123
 United Nations Standard Minimum Rules for Treatment	14742
+World Bank. Minimal FM	15553

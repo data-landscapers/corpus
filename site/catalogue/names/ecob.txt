@@ -15,7 +15,7 @@ Centenary Bank Malawi and Ecobank Malawi Limited	13053
 Cognisance des Banques BANCOBU BCB IBB ECOBANK	13390
 DFS DTB EAC EC ECOBANK ENIF	13390
 DU SENEGAL ECOBANK FBNBANK ORABANK ORANGE	11588
-ECOBANK	3361,922,4020,2273,2725,89
+ECOBANK	3361,922,4020,2273,2725,89,1997
 ECOBANK BGF BBCI FINBANK BHB KCB	13390
 ECOBANK FBNBANK FIDELITY BANK FIRST ATLANTIC	11002
 ECOBANK KENYA LIMITED Data Controller INST-199293A5553	7167
@@ -29,28 +29,31 @@ ECOBLOX	11502
 ECOBLOX and Digital Parks Africa Launch Africa	11502
 ECOBLOX’s DCIM and HPC	11502
 ECOMAC and ECOBASE	10508,18
-EcoBank	10841
+EcoBank	10841,4633
 Ecoband	8025
 Ecoband Networks	8025
 Ecoband Networks Limited	3386
-Ecobank	982,17,706,731,635,11,279,38,272,173,51,48,48,704,359,259,11,483,406,19,123,1168,1552,374,144,29,134,456,132,621,751,244,125,206,1021,2,946,737
+Ecobank	982,17,706,731,635,11,279,38,272,173,51,48,48,704,359,259,11,483,406,19,123,1168,1552,374,144,29,134,456,132,621,751,244,125,206,1021,2,946,737,450,27,19,1108
 Ecobank Auditorium	9075
 Ecobank Benin SA Ecobank Benin SA	10821
 Ecobank Benin SA Société KTEPLUS IZIGROUP	10821
 Ecobank Benin SA Traitement	10821
 Ecobank Burkina	4459
 Ecobank Burundi	13314
-Ecobank Cabo Verde	1265,3,468
-Ecobank Cameroun	3779
+Ecobank Cabo Verde	1265,3,468,14226
+Ecobank Cameroun	3779,11763
 Ecobank Centrafrique	2328,8549
 Ecobank Fintech Challenge	8464
 Ecobank Group	3844
 Ecobank Group's African	3895
+Ecobank Guinée	16641
 Ecobank Head of Information Security Miriam	13627
 Ecobank International	10718
 Ecobank Malawi Limited	12252,895
+Ecobank Niger	16158
 Ecobank Niger. Par	4459
 Ecobank Nigeria	4771
+Ecobank OMNI PLUS	15966
 Ecobank Pan African Sandbox	8341
 Ecobank RDC SA	4695
 Ecobank Rwanda Plc Partners I and M	12358
@@ -83,3 +86,6 @@ GROUPE ATTIJARIWAFA BANK CORIS BANK ECOBANK	11588
 MERCHANT BANK CHANNELS ECOBANK FBNQUEST MERCHANT	11002
 Managing Director of Ecobank Sierra Leone	3895
 MikashBoks and Ecobank	3895
+Niger Ecobank Niger	16158
+None. Ecobank	15474
+W ECOBANK GUINEE ECOBANK GUINEE	16623

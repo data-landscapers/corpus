@@ -1,3 +1,4 @@
+Abdel Nasser	16568
 Abdel Nasser Abu El-Azm Issa	14685
 Abuja. NASENI	14702
 Adoption of NAS	12149
@@ -5,6 +6,7 @@ Ali Nassar-Smith	1689
 Andrea Nascetti	2816
 Assento de Nascimento	10749,4,3,9,10,588,117
 Assento de Nascimento. O Registo	10753
+Aulas Nas	15564
 Aziz Nassour	572
 BONGA NASI Data Controller INST-191851A05E6 NAIROBI	7167
 Beth Nasiforo Mukarwego	12461
@@ -12,15 +14,17 @@ Bishop and Nasrabadi	11258
 Boletim de Nascimento	10756,9,7,3,2086
 Boletim de Nascimento. Ou	10772
 Boletim de Registo de Nascimento	10749
+Burkina Faso Dr Halguièta Nassa	15945
 C. M. and Nasrabadi	11258
 CAMPANHA DE REGISTO NAS MATERNIDADES Denominado	10750
 CAPÍTULO III REGISTO DE NASCIMENTO	11363
 CBN NTA Nass Sen. NUT Dev	11129
 CIBERNÉTICOS NAS INFRA-ESTRUTURAS CRÍTICAS DE INFORMAÇÃO	2784
+CNI Nas	15392
 CR de Nasandratrony	14425
 Cameroon’s Sugar Market Nasco	5407,676
 Certidão Nascimento	10765,10
-Certidão de Nascimento	10765,7,3,2009
+Certidão de Nascimento	10765,7,3,2009,3211
 Certidão de Nascimento. Ou	10772
 Christina Wocintechchat Karen Nash Makmot Robin	10861
 Colegio Nacional Presidente Nasser de Ebibeyín Ebibeyín	4209
@@ -28,11 +32,14 @@ Completação de Registos de Nascimentos	11537
 Constitution of NASK Steering Committee	12149
 Contacts Mansir Nasir	3721,7755
 DE DADOS NAS COMUNICAÇÕES ELECTRÓNICAS CAPÍTULO	15
+Data de Nascimento	15392
 Date Commune Nasandratrony	14425
 David Nasibu	12478
 Deputy Daaga Nassouri	7361
+Description The NASIA	15630
 Dr. Ali Nasser Al-Khuwailedi	11738
 Dr. Halguièta Nassa	3536
+EMBOUT NASAL	15930
 Elvis Nashilongo	7273,7109
 Establishment of NAS Fund	11129
 Ethiopia. Nasikiliza	11487
@@ -54,23 +61,37 @@ Inaugural NASK	12149
 Jeudiger Nascimento	8536
 Josef Nashilongo	12478
 Kaissane Nassif	5657
+Kamal Nasser	15664
 LOCAL DE NASCIMENTO E MIGRAÇÃO Migração	10777
+Lake Nasser	15473,999
+Law El Nasser	15473
 Local de Nascimento	10777
 Luanda AGOSTINHO VIEIRA DO NASCIMENTO	10751
 Luanda BIRO CAETANO MWEFEKA NASCIMENTO	10751
 M. Azouz Nasri	6195
+M. Idrissa Nassa	15893
+M. Nasreddine Bentifour	15863
+M. Nassim Mohand Amer. Décret	15747
+M. Nassim Sbia	15432
 ML4 NASCOP N L M	4153
+MPT HOUAMED Nassima Direction Générale Des	15472
 MUNICÍPIOS E NAS COMUNAS	1215
 Mahdi Nasrullah Al-Ameen	4439
 Manuellrénio Nascimento Lopes	11544
 Mary W. Jackson NASA Headquarters	6897
 Mary's Meals and Nascent Solutions	12175
+Medinet Nasr Company	15473
 Mheshimiwa Halima Idd Nassor	6019
 Michel Nicaise Nassin	2328
+Milton Nascimento de Sena Paiva	15477
 Minister Nassima Arhab	5952
+Mme Nasrine Yemici Abedje Ornelia OSSINGA	16175
 Mme Nassa	2665,689,481
+Mme Nassiba BouguettaÔa	15360
+Mme. Nassima Mazit	16344
 Mohamed Ali Nasra	2460,3536
-Mohamed Nasr	1956
+Mohamed Nasr	1956,13654,217
+Ms. Nassima Arhab	16127
 Mugesera Rurenge Nasho Karongi District Gitesi	12413
 NAS Account	11129
 NAS Committee	11129
@@ -104,7 +125,7 @@ NASCO	13037
 NASCOH	940
 NASCP---ra	4301
 NASCUS	940
-NASDAQ	2528,566,3262
+NASDAQ	2528,566,3262,10056
 NASDAQ Composite	5985,909
 NASENI	2339,7759,4604
 NASENI Executive Vice Chairman and Chief Executive	14702
@@ -116,13 +137,14 @@ NASENI and The Gambia	10098
 NASENI and The Gambian	10098
 NASENI-Gambia	10098
 NASFAF	13097
+NASIA API	15630
 NASIP	9609
 NASITDEA	12050
 NASK Committee	12149
 NASK Steering Committee	12149
 NASLA	3234
 NASPERS LIMITED	11885
-NASRDA	1274,1196,593,1510,2055
+NASRDA	1274,1196,593,1510,2055,9286
 NASRDA and Galaxy Space	3063
 NASS Clerk Said	10034,231
 NASSAN	6613
@@ -137,10 +159,12 @@ NEIDE FRANCISCO DO NASCIMENTO EDNA CAMBANGULA	10750
 NG-4 Nassarawa Central	11857
 NINGABIRE Pascal DUSABE Alain NIRAGIRA Nassile	13300
 NOTARIADO CAMPANHA DE REGISTO NAS ESCOLAS	10750
+NaSIA	16162
 Nas Casas Fortes	11438
 Nas Faturas	12018
 Nas Faturas CV Telecom	12018
 Nas Faturas da Electra	12018
+Nas Relações Externas	16487
 Nasal	1988
 Nasarawa	11998,52
 Nasarawa Man’s N2.5m. Time	7176
@@ -153,10 +177,13 @@ Nascent Technologies	7548
 Nascença	10777
 Nascer	5296,1318,4136,711
 Nascer Com Registo	10765,10
+Nasceram	15380,1176
 Nascido	10760
 Nascidos	10760
 Nascimento	10754,11,10,597,165,619,706
 Nascimento Estatisticas	12156,706
+Nascimento Morais	15392
+Nascimento Ramos	15404
 Nascimento. Dos Santos	2543
 Nascimentos	10760,17,683
 Nascimentos Registados	11537
@@ -166,13 +193,16 @@ Nasdaq-listed	3508,2120
 Nasdaq-listed Equinix	5627
 Nasdaq-listed Inseego Corp	620
 Nasdaq. IPOs	13279
+Nash Fiifi Eyison	15702
 Nashaka	13300
 Nashed	15342
 Nashilongo	14382
 Nashilongo Gervasius. Gervasius	12336
 Nashinge	10559
+Nashmey De Ritla	15524
 Nashon Omondi	12084
 Nashua and CBI-electric	11768
+Nasi R	16463
 Nasif Jaward	5939
 Nasim Parvez	10764
 Nasionale Direkteur van Openbare Vervolgings	11190
@@ -200,21 +230,34 @@ Naska Goagoses	12926
 Naspers	6930,1342,163
 Naspers South Africa CEO	10212
 Naspers’ AI	8601
+Nasr City	16266
 Nasra Ahmed	14178
 Nasra Omar Ahmed	14973
+Nasreddine Bentifour	15863
+Nasreddine Hamoudi	16171
+Nasri Abdelkader EAI Marou Sahnoun EAC	15690
 Nassa	3754
+Nassah Commission	15432
+Nassah Imprimerie Officielle	15432
 Nassar Director General of Informatics	2958
 Nassarawa North Nassarawa Central	11857
 Nassarawo Primary School	12037
 Nassau	14301,18
 Nassau High EGDI HV	10840
 Nassco	12020
+Nasser Another	15473
 Nasser Bourita	11638
+Nasser Sba	15608
+Nasser Social Bank	15992
+Nassima Rezigue	15410
+Nassira Lakrouz	15410
+Nassoumbou Soum Sahel	15715
 Nassour	572
 Nassouri Daaga	7306
 Nassuf Ben Amad	5833,15,712,1800,926
 Nassuf Ben Amad L’Institut National	10285
 Nassur HASSANE	13805
+Nasséré Bam Centre-Nord	15715
 National NASK SC	12149
 National Programme Manager of NASSCO	12049
 Nicaise Nassin	4874
@@ -223,6 +266,7 @@ Número de Identificação Predial Nas	11901
 O Assento de Nascimento	10753
 O Pedido de Certidão de Nascimento	2688
 Omer Nasir Elseed Senior Education Specialist	13392
+Ouled Amar Nassim	15602
 Pepkor and Naspers	7005
 Polícia Criminal. Nas	549
 Pour Halguièta Nassa	3354
@@ -238,23 +282,35 @@ Ramadhan Nassib	10043
 Raya Nassar and Terrence Naidoo	7116,685
 Regering van Nasionale Eenheid	11246
 Registo Nascimento	12156
-Registo de Nascimento	4044,6706,15,7,3,588,58,116,1311
+Registo de Nascimento	4044,6706,15,7,3,588,58,116,1311,2511
 Registo de Nascimento Ocorrido	11363
 Registos de Nascimento	11537
 Repair NAS Network Attached Storage	13185
 Representing NASENI’s Executive Vice Chairman	10098
+Romina Patrícia Nascimento Lopes	16290
+SOL. NAS. Collyre Collyre Collyre Collyre	15930
+SYRIA Nasib	16631
 Says Former NASA Executive Jim Adams	8787
+Secção I Nascimento Subsecção I Declaração	15396
 Selon Dr Halguièta Nassa	2583
+Serveurs NAS C'est	15512
+Seyyid Nassir Addadi	16085
 Siasa NASSIR	9646
+Smail Nassima	16230
 Snow and Cold The NASA Harvest GEOCIF	13094
+Son Excellence Monsieur Saif Bin Naser	16381
 State Lawsuits Authority. Counselor Abdel Naser	14373
 TIC NAS COMUNIDADES RURAIS	11397
 TIC NAS PESCAS	11397
 TTCL Zanzibar Manager Nasra Mugheiry	10746
 Time436 and Conde Nast437. Licensing	13461
 Tobi Oshinnaike NASA Jakub Zerdzicki Mike	10861
-Université Gamal Abdel Nasser de Conakry	10691
+Université Gamal Abdel Nasser	16627,14
+Université Gamal Abdel Nasser Le CERE	16627
+Université Gamal Abdel Nasser de Conakry	10691,5996,25
+Université Gamal Abdel Nasser. Il	16627
 Uso Consuetudinário Nas	11514
 Validation of NAS	12149
 Verenigde Nasies	11201
 Yet Nasarawa	12050
+Youssef Nasr	16266

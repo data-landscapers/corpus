@@ -18,6 +18,7 @@ Atlantic. Cape Verde	3564
 Audited Revenue Capex Rm Rm	10793
 Aug-26 Province Western Cape Western Cape	8999
 August. The Western Cape	11494
+Awarding CAPEX	15553
 BKU and University of Cape Coast	455
 BSC Broadband Systems Corporation CAPEX Capital	718
 BT Basse Tension CAPEX Capital Expenditure	10975
@@ -33,13 +34,24 @@ CAPE DENTAL CLINIC LIMITED Data Controller	7167
 CAPE DENTAL CLINIC LIMITED Data Processor	7167
 CAPE TOWN	11137,152
 CAPE VERDE CONNECTIVITY PROGRAMME EIB Global	356
+CAPEC	15712
+CAPEC Parties	15712
+CAPEF	15999
 CAPEN LTD Data Controller INST-6844440DC37 NAIROBI	7167
 CAPEN LTD Data Processor INST-6844440DC37 NAIROBI	7167
-CAPEX	241,477,2769,117,258,288,41,462,1140,639,1691,1,1,305,1329,2098,98,88,726,562,1499
+CAPEX	241,477,2769,117,258,288,41,462,1140,639,1691,1,1,305,1329,2098,98,88,726,562,1499,644,79,106,57,321,617
 CAPEX AND OPEX	718
 CAPEX Capital	12911
+CAPEX Capital Expenditure CCDR Climate Change	15659
 CAPEX Capital Expenditure CD Compact Disc	6432
+CAPEX Capital Expenditures CE Citizen Engagement	15621
 CAPEX LIFE ASSURANCE COMPANY LIMITED Data	7167
+CAPEX Subsidies	15553
+CAPEX Subsidies Agreement	15553
+CAPEX Subsidies. PIM	15553
+CAPEX Subsidy	15553
+CAPEX Subsidy Agreement	15553,68
+CAPEX Subsidy Agreement. Type Financing	15621
 CAPEX and OPEX	718,11139
 CAPEX of EUR	8123
 CAPEX of N2	3862
@@ -54,7 +66,8 @@ Cape Awards	7253
 Cape Business News	10243
 Cape Canaveral	4244
 Cape Cape Cape State Natal West	11211
-Cape Coast	7368,1016,727
+Cape Coast	7368,1016,727,6793,697
+Cape Coast for Municipal Assemblies	16524
 Cape Corridor	11248
 Cape Corridor Project Transport	11248
 Cape Department of Infrastructure Email	8564
@@ -68,7 +81,7 @@ Cape Maclear	13060
 Cape Metropolitan Council	6683
 Cape Mount	10406
 Cape Peninsula University of Technology	8130,4048
-Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20,211,69,8,11,16,123,473,179,18,49,427,163,269,259
+Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20,211,69,8,11,16,123,473,179,18,49,427,163,269,259,1226,223,22
 Cape Town Bloemfontein Public Library Natal	11237,21,28
 Cape Town CPT1	595,1,6195
 Cape Town Campus	2994,938
@@ -81,7 +94,7 @@ Cape Town Eskom	9769
 Cape Town Film Studio	14673
 Cape Town First	9759
 Cape Town International Airport	8915,980
-Cape Town International Convention Centre	8564,191,2257,2556
+Cape Town International Convention Centre	8564,191,2257,2556,2590
 Cape Town Internet Exchange	1820,7797
 Cape Town Kaapstad	11551
 Cape Town Kaapstad No	11190,9,2,62
@@ -115,7 +128,7 @@ Cape Town. Produced	6436
 Cape Town.59 Internet	13461
 Cape Town.The	11273
 Cape Town.md	1404
-Cape Verde	599,190,224,230,220,361,970,9,8,54,80,299,133,176,11,99,518,731,125,23,373,155,27,435,311,211,366,294,277,1542,82,1751,668,57,254,6,4,5,31,22,12,59,42,801,525,1351
+Cape Verde	599,190,224,230,220,361,970,9,8,54,80,299,133,176,11,99,518,731,125,23,373,155,27,435,311,211,366,294,277,1542,82,1751,668,57,254,6,4,5,31,22,12,59,42,801,525,1351,726,71,34,38,289,104,520
 Cape Verde Accelerates Digital Transformation	3663
 Cape Verde António Gonçalves Partner Costa	11943
 Cape Verde Cape Verde	11909
@@ -157,10 +170,11 @@ Cape Verde. Bureau of Democracy	11909
 Cape Verde. Finances	1463
 Cape Verde. NAVIGATING LEGAL CHALLENGES	11909
 Cape Verde. Starlink	2946
-Cape Verdean	2794,9,441,133,176,11,617,7691,37
+Cape Verdean	2794,9,441,133,176,11,617,7691,37,4280
 Cape Verdean State	11872
 Cape Verdean State. Through Single Sign	11939
 Cape Verdeans	2945,471,8453,40
+Cape Verde’s Customs Service. Partilhar	16503
 Cape Verde’s ICT	11909
 Cape Verde’s NDCs	11863
 Cape WSB Wine and Spirit Board WSIG	11197
@@ -173,6 +187,8 @@ CapePeninsulaUniversityofTechnology	8603
 CapeTalk's John Maytham	14177
 CapeTown	8603
 Capel and Brereton	8283
+Capela de Poilão Fonseca	15380
+Capela de São Jorge	15380
 Capernaum Trust	36,6,183
 Capetonians	12072,2601
 Capetown	7774,1354
@@ -196,6 +212,8 @@ City of Cape Town Water Desalination Feasibility	11248
 City of Joburg and City of Cape Town	1912
 Cloud Adoption Committee CapEx	6432
 Comoros and Cape Verde	9759
+Composition of NPV Costs Benefits CAPEX	15659
+Composition of NPV Costs Benefits CAPEX US	15659
 Conclusion Cape Verde	11909
 DGIS Cape Verdean Escudo Disbursement and Financial	11855
 Daily News CAPE TOWN	3954
@@ -236,6 +254,7 @@ Eastern Cape. Using	7574
 Eastern and Western Cape	11297
 Ekurhuleni and Cape Town. Teraco	9769
 Energy Saving Solution Across Western Cape	8112
+Enseignement Supérieur CAPEX Dépense	15474
 Estimation CAPEX	12043
 Estonia and Rwanda. Cape Verde	2945
 Exact CapEx	1174
@@ -252,6 +271,7 @@ Government of Cape Verde. Once	11869
 Government of Cape Verde’s Núcleo Operacional da Sociedade	181,1,8
 Group Capex	3898
 Group Capex of KShs	6100
+Guinea Bissau and Cape Verde	16705
 Historical Background Cape Verde	11909
 IRIPHABLIKHI YOMZANTSI-AFRIKA Cape Town	11182
 ITWeb Cape-based	10538
@@ -260,6 +280,7 @@ Immigration Scalabrini Centre of Cape Town	11986
 Inaugural Western Cape Infrastructure Ministerial	8564
 Inaugural Western Cape Infrastructure Ministerial Roundtable	8564
 Independence of Cape Verde	11909
+Indice National de Gouvernance. La CAPEC	15712
 Investment Capex	6593
 Invite the City of Cape Town	11285
 JHB2 and Cape Town CPT1	596
@@ -278,6 +299,7 @@ Limpopo Mpumalanga Northern Cape North West	11198
 Limpopo and Eastern Cape	11192
 Limpopo and Northern Cape Departments of Health	11980
 Limpopo. Western Cape	8999
+Luanda and Cape Town. Once	15984
 MRR Monthly Recurring Revenue CapEx Capital	3184,1,1340,6470
 MTC’s CAPEX Paratus Paratus	1013
 MW Cape Town	1404
@@ -315,6 +337,7 @@ OPERATING COST CATEGORY CAPEX REVENUE	3862
 Optimized CAPEX	15080
 Orange MEA Annual Network CapEx Programme	933,208
 Oscar Capelao	13108
+Ouest CAPESA Centre	15479
 Overberg Cape Town Garden Route Cape	8999
 Own Device CapEx Capital	15164
 Partridge. Cape Town	6512
@@ -371,7 +394,7 @@ USPF Capex and Opex F-4 Incentivize	11857
 USTDA Western Cape	732
 University of Cape Coast	455
 University of Cape Coast Data Literacy Week	6508
-University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215,309,976
+University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215,309,976,3167
 University of Cape Town Launch	3654
 University of Cape Town SARChI Chair	3654
 University of Cape Town and Wits	9574
@@ -441,5 +464,6 @@ Western Cape. Due	7343
 Western Cape. Ownership	11192
 Western Cape. Standard Bank	9720
 Whether Cape Town	9617
+World Bank Policy CAPEX Capital Expenditure	15515
 Yet Cape Verde	2945
 YouTube Partner Sales Eastern Cape	13462

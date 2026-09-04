@@ -1,3 +1,4 @@
+AQACOMMS Pour	16641
 AQEORS LIMITED Data Controller INST-368587850B8 NAIROBI	7167
 AQUADENT COMPANY LIMITED Data Controller INST-15951163B02	7167
 AQUADENT COMPANY LIMITED Data Processor INST-15951163B02	7167
@@ -5,7 +6,8 @@ AQUARIUS KENYA MANAGEMENT LIMITED Data Controller	7167
 AQUAVIRUNGA	718
 AQUILA EAST AFRICA COMPANY LIMITED Data	7167
 ASTEYNTA TIRSIGA AQOONSIGA	14930
-Aqaba	10378
+Aqaba	10378,5449
+Aqaba Digital Hub	15827
 Aqaba Jornal Económico	4938
 Aqalada	14859
 Aqaladda	14859
@@ -20,6 +22,10 @@ Aqalka Shacab	14859
 Aqalka Shacabka	14859
 Aqalka Shacbka	14859
 Aqalkaasi	14859
+Aqari	15473
+Aqarimap	15473
+Aqarmap	15473
+Aqarmap Business Group.94	15473
 Aqeeg	15244
 Aqeeg Rural	15244
 Aqil&author	766
@@ -44,8 +50,10 @@ Aqoonsigayga Waa Xuquuqdayda	10728
 Aqoontiisu	14859
 AquaRech	4561
 AquaSee Networks Ltd Data Controller INST-80838526970	7167
+AquaX	16545
 Aquabolt.com	12478
-Aquaculture	10763,2711,1344
+Aquaculture	10763,2711,1344,682,1116,11
+Aquaculture DPC	16621
 Aquaculture Division	14818
 Aquaculture Mega Farms	13122
 Aquaculture Research	12962
@@ -56,10 +64,10 @@ Aquando	10755,618,57,5,583
 Aquaritech	13233
 Aquatic	1988
 Aqueduct	14673
-Aquele	6462,4963,88,15,1257
+Aquele	6462,4963,88,15,1257,2574
 Aqui Hidden	6530
 Aquisition de Data Center National	4385
-Aquisição	2816,1402,56,283,3917,2956,8,580
+Aquisição	2816,1402,56,283,3917,2956,8,580,3340,30,668
 Aquisição Regulamentos	10769
 Aquisição de Bens	167
 Aquisição de Serviços de Telecomunicações	4556,1
@@ -67,24 +75,34 @@ Aquisição de Software de Apuramento	11561
 Aquisição de TPA	11438
 Aquisição de Terminais	11438
 Aquisição de Terras	11542
-Aquisições	8594,3025
+Aquisições	8594,3025,4305,132
+Aquisições Públicas	15404,122,436,94
+Aquisições. Artigo	15755
+Aquza	15473
 Asteynta Tirsiga Aqoonsiga	14930
 Awoodaha Kale Ee Aqalka Sare Ee	14859
+BDRH da Administração Pública. CAPÍTULO IV AQUISIÇÕES	16056
 BIXINTA AQOONSIGA QARAN	14930
 Baarlamaanka Federaalka Xubnaha Aqalka Sare	14859
+Banco Mundial Regulamento de Aquisições	16110
 Bixinta Aqoonsiga Qaran	14930
 Bixinta Kaarka Aqoonsiga	14930
 Bixinta Kaarka Aqoonsiga Bixinta Tirsiga	14906
 Cartão de Eleitor de Cidadão Estrangeiro Aquele	11528
+Chiktap Digital Aquaponie de Guinée Witec Magip	16693
 Coação Física Aquele	11528
 Cusbooneysiinta Kaarka Aqoonsiga	14930
 DAABICIDDA IYO BIXINTA KAARKA AQOONSIGA	14930
+DC-R&D AQCS WELDTEST Expert	16103
+DC-R&D AQCS WELDTEST Expert Abréviations	16103
 DHICIDDA IYO CUSBOONEYSIINTA KAARKA AQOONSIGA	14930
 DIB-U-DAABICIDDA KAARKA AQOONSIGA	14930
 DIIWAAN-GELINTA IYO AQOONSASHADA DADWEYNAHA	14930
 Daabacista Kaarka Aqoonsiga	14906
 Denúncia Caluniosa Aquele	11528
 Dib-u-daabicidda Kaarka Aqoonsiga	14930
+E PATRIMÓNIO PÚBLICO Secção I Aquisições	16056
+EST-TEC17 Plataformas de Aquisição	15532
 Especialista de Aquisições da UIP	11441
 Estou Aqui	15291
 Fadhiyada Golaha Aqalka Sare	14859
@@ -92,6 +110,7 @@ Fisheries and Aqua-Farming	14829
 Fisheries and Aquaculture	14628
 Fisheries and Aquaculture Fisheries	14628
 Fisheries and Aquaculture Minister	10112
+Founder and Chief Executive Officer of Aqaba Digital	15827
 Golaha Aqalka Sare	14859
 Golaha Baarlamaanka Aqalka Sare	14859
 Governo. Aquele	10114
@@ -99,6 +118,7 @@ Go’aan-qaadashada Golaha Aqalka Sare	14859
 Guddiyada Golaha Baarlamaanka Aqalka Sare	14859
 Guddoomiyaha Aqalka Sare	14859
 Guddoomiyaha Aqalka Sare Federaalka	14859
+H AQUA MARINE GUINEE SA AQUA	16623
 HAKINTA TIRSIGA AQOONSIGA CUTUBKA LIXAAD	14930
 HIRGELINTA HANNAANKA HUBINTA KAARKA AQOONSIGA	14930
 Habka Aqoonsashada Asaasiga	14906
@@ -139,6 +159,9 @@ Northern Basement Transboundary Aquifer. Hydro Nova	15052
 O SEU NEGÓCIO COMEÇA AQUI	10773
 Parâmetros de Aquisição	11405
 Philippines' Ninoy Aquino International Airport	4275
+Plano Anual de Aquisições	16056
+Plano de Aquisição Anual	16056
+Planos Anuais de Aquisições	16056
 QAABKA TIRSIGA AQOONSIGA	14930
 Qaabka Tirsiga Aqoonsiga	14930
 Qeybta Maareynta Aqoonsiga Qaran	14930
@@ -146,10 +169,12 @@ Qofka Aqoonsigiisu	14930
 RAADKA SHARCI EE AQOONSIGA SHISHEEYE CUTUBKA	14930
 REFERÊNCIA Aquisição de Serviços	12021
 RTC Online. Aqui	12011
+Regulamento da Lei de Aquisições Públicas	15755
 Regulamento de Aquisição	10769
 Regulamento de Aquisição. Mais	10769
 Requisitos Técnicos da Solução Aqui	12021
 SHarciga Aqoonsiga iyo Diiwaangalinta dadwaynaha.pdf Ku	14906
+Sabou Farms Aquaponie	16693
 Senzo Mathunjwa of Aquaritech	13233
 Shahaadada Aqoonsiga	14930
 Shahaadada Aqoonsiga Qaran	14930
@@ -164,6 +189,7 @@ Tirsiga Aqoonsiga	14930
 Tirsiga Aqoonsiga Gaarka	14930
 Twitter. Aquel	11820
 U-igmashada Aqalka Sare	14859
+Unidade de Gestão de Aquisições Centralizadas	16056
 Vincenzo Aquaro	10840
 Violação Fronteiriça Aquela	11528
 Waxyeellada Aqoonsiga	14930

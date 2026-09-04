@@ -4,7 +4,7 @@ ANUAL CUOTA ANUAL COMERCIO Ficha	4209
 ANUAL CUOTA ANUAL Ficha	4209
 ANUAL Ficha	4209
 ANUAL MENSUAL ANUAL MENSUAL A8	4209
-ANUTTC	4125,13
+ANUTTC	4125,13,11237,72,728,143,63
 ANUÁRIO ESTATÍSTICAS VITAIS GUINÉ-BISSAU	11537
 Actualización PE C2 INDUSTRIA INSPECCION ANUAL	4209
 Adultos. Anuário Estatístico da Educação	10766
@@ -17,12 +17,12 @@ Anu Talus	8533
 Anu Talus Chair	8533
 Anuai	2868
 Anual	4209,386
-Anualmente	11425,101
+Anualmente	11425,101,4168,328
 Anubha Sinha	12139
 Anulação. Pela	12018
 Anuna O	11860
 Anunciar	11528
-Anunciou	3137,8342
+Anunciou	3137,8342,5049
 Anuolu Junction PU	10049
 Anupam Chander	5242
 Anupold	3689
@@ -67,6 +67,7 @@ Conferência Anual da Rede Africana de Engenharia	11411
 Conferência Anual de Inteligência Artificial	12823
 D2 INDUSTRIA INSPECCION ANUAL	4209
 Declaração Anual de Rendimentos	12018
+Dália de Anunciação Delgado Vieira de Andrade Benholiel	15477
 EDPB Chair Anu Talus	8773
 EVOLUÇÃO ANUAL DE RECEITA MÉDIA	11531
 EVOLUÇÃO ANUAL DE RECEITA MÉDIA GLOBAL	11531
@@ -97,6 +98,7 @@ Inquérito Anual	11423
 Instituto Nacional de Estatística de Angola. Anuário	10780
 J176 Anum Tessa Avenue	7886
 João Carlos Domingos Relatório Anual da OMS	10776
+K SOCIETE STEF ANUTTI STOCKS GUINEA	16623
 Luminosos INDUSTRIA INSPECCION ANUAL	4209
 Luminosos INDUSTRIA INSPECCION ANUAL CULTURA LICENCIA	4209
 Luminosos INFORMACIÓN INSPECCION ANUAL CULTURA LICENCIA	4209
@@ -115,6 +117,7 @@ O Plano Anual de Actividades Estatísticas	11526
 Omotola Akindipe Relatório Anual da OMS	10776
 Orçamento Anual	12823
 Orçamento Anual Estimado	11406
+PAA Plano Anual de Atividades PALOP Países	15535
 PE INDUSTRIA INSPECCION ANUAL INDUSTRIA INFORMACIÓN	4209
 PE INDUSTRIA INSPECCION ANUAL INFORMACIÓN Rótulos	4209
 PE INSPECCION ANUAL Rótulos	4209
@@ -125,9 +128,13 @@ Período Anual de Inscrição	11528
 Plan Nacional Anual	1701
 Plano Anual	2613,8839
 Plano Anual da Formação	11361
+Plano Anual de Aquisições	16056
+Plano Anual de Atividades	15535
 Plano Anual de Contratação	2365,248
 Plano Anual de Formação	11361
+Plano de Aquisição Anual	16056
 Plano de Atividades Anual Orçamentado	11557
+Planos Anuais de Aquisições	16056
 Primeiro Fórum Anual de Digitalização Inclusiva	8159
 Professor Anu Bradford	11154
 Professores. Anuário Estatístico da Educação	10766
@@ -139,13 +146,18 @@ Proposta da Programação Anual	10783
 PÚBLICO E PROGRAMAÇÃO ANUAL DO PROGRAMA	10783
 Quality Essential Health Services Relatório Anual	10776
 Questionários Anuário Estatístico da Educação	10766
+RAA Relatório Anual de Atividades RE Recenseamento	15535
 REPARTIÇÃO ANUAL DE ACESSO POR TECNOLOGIA	11531
 Regras Anuais de Execução	11372
 Relatório Anual	2866,8599
 Relatório Anual da OMS	10776
+Relatório Anual de Atividades	15535
 Relatório Estatístico Anual	11418
 Rosa Pedro Relatório Anual da OMS	10776
+SARLUNIPERS STEF ANUTTI STOCKS SARLU	16623
 TRÁFEGO GLOBAL ANUAL E QUOTA	11531
+Taxa Anual Nominal Bruta	16122
+Taxa Anual de Encargos Efetiva Global	16122
 TÍTULO Anuário Estatísticas Vitais da Guiné-Bissau	11537
 VARIAÇÃO ANUAL DE CRESCIMENTO DE ACESSO	11531
 VARIAÇÃO ANULA D CRESCIMENTO DE ACESSO	11531

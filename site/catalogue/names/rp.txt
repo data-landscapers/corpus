@@ -2,7 +2,9 @@ AFRINIC RPD	9613,4628
 APM RPP	13185
 Authority RPPF Represented Political Parties’ Fund	5533
 C09 Insufficient RPA	9237
+CPCC and RPCC	16144
 Centre RPHC Rwanda Population and Housing Census	12413,2643
+Congo RPP Revenue Protection Program SCADA	15969
 Converged Ethernet RPO Recovery Point Objective	13185
 Coordination Committee RPF Resettlement Policy Framework	1264
 DEE RPM T1.pdf	8891
@@ -12,19 +14,26 @@ DRC RPC Regional Payment Connectivity SMBs	11994
 Defining the RPPI	11286
 Defining the RPPI An RPPI	11286
 EEES RP	163
+ESMF and RPF	15372,1242
 Energy Technology RPPA Rwanda Public Procurement	14947
+Framework RPP Revenue Protection Program SAIDI	15659
+GBV. The RPF	15553
+Gombe RP	15584
 High Commissioner for Refugees RPPF Represented Political	11986
 Host Communities RPRF Policy Dimensions	11900
 I DO ENVAELL AO RP TMI	14565
 Investment RPO Recovery Point Objective RTO	6432
 LLL. CAT and RPL	12574
 Le RPKI	4210
+Le RPROG	15569
 MEA01 Managed of RPA	9237
 PAPSS Pan-African Payment and Settlement System RPA	10718
+Parent-Teacher Association RF Results Framework RPC	15661
 Primary Sampling Unity. RPHC	12403
 Project the RPA	9237
 Quantum-Safe Technologies RPL	14819
-RAP Resettlement Action Plan RPF Resettlement	1988
+RAP Resettlement Action Plan RPF Resettlement	1988,13523
+RAP Resettlement Action Plans RPF Resettlement	16614
 REB Rwanda Basic Education Board RP	14922
 RF Results Framework RPF Resettlement Policy	13331
 RISA RPPA	1204
@@ -42,6 +51,7 @@ RPA. Optical	9237
 RPAZ RPPRMC RSTI RS	1154
 RPBNIP	2842
 RPCA Référentiel	643
+RPCC Regional Project Coordination Committee SME	16144
 RPCC. ECOWAS. Section I.A.3	1264
 RPCC. Guinea-Bissau. Section I.B.1 of Schedule	1264
 RPCC. Guinea. Section I.B.1 of Schedule	1264
@@ -49,6 +59,10 @@ RPCC. Mauritania. Section I.B.1 of Schedule	1264
 RPCC. The Gambia. Section I.A.3 of Schedule	1264
 RPF Party	4942,664,283,454,183
 RPF Resettlement Planning Framework RPP Revenue	11380
+RPF Resettlement Policy Framework RPP Revenue	15515
+RPF Resettlement Policy Framework SEA Sexual	15621
+RPF and ESMF	15659
+RPF and IPPF	15372
 RPF and SEP	3456
 RPF. The ESMFs	1264
 RPG-eligible	43
@@ -56,14 +70,18 @@ RPGs. Africa’s RPG	11149
 RPHC Census	12358
 RPHC Projections	12413
 RPHC5	14903
+RPHQĕV	15604
 RPKI-based	3840
+RPKI-enabled	16551
 RPKI. Member Services	12058
 RPKaVhIM	6963
 RPL Division and Ms Madhvi Buntoo	14812
 RPLWp	11530
-RPM Bruxelles	8643
+RPM Bruxelles	8643,8104
+RPM-AFR	16046
 RPO Recovery Point Objective RPS Requests	11952
 RPO and RPO	14921
+RPP Revenue Protection Program SCADA Supervisory	15983
 RPPCUB	13689
 RPPCUB Recensement des Propriétaires des Propriétés	13689
 RPPCUB Sessions	13689
@@ -76,16 +94,20 @@ RPPI-guide OECD	11286
 RPPIs	11286
 RPPRMC RSTI SARIMA SGCI SOPs STI	1554
 RPPVP	548
+RPROG	15569
+RPRSP	15424
+RPRSP South Atlantic	15424
 RPS Error Rate	11952
 RPS Mandatory Daily	11952
 RPlan Comptable Général	14483
-RProg	10712
+RProg	10712,4857
 RTO and RPO	10721,2868
 Regional Economic Community RPCC Regional Project	1264
 Regional Off-Grid Electricity Access Project RPF	11549
 Repartição Fiscal RP	11435
 Request for Quotations RPF Resettlement Policy Framework	11525
 Resettlement Policy Framework RPP Revenue Protection	11549
+RoC Republic of Congo RPF Resettlement Policy	15659
 RpWebEngine.exe	13314
 Rpeak	9475,1996
 Rpensionista	12018

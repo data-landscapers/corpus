@@ -36,6 +36,7 @@ I. Inquérito de Cobertura	11416
 IDS Inquérito Demográfico	966
 IFPIM.. The Inquiry	13461
 IHCVAF Inquérito Harmonizado	11547
+II Inquérito Global	15966
 III Inquérito	7881
 IIMA IIMA IIMS IIMS Inquérito de Indicadores	10760
 IMASIDA Inquérito	966
@@ -76,20 +77,21 @@ Inquiry the Commission	13461
 Inquiry98	13461
 Inquisitório	11452
 Inquiétudes	419
-Inquérito	220,10555,2,610,136,3,329
+Inquérito	220,10555,2,610,136,3,329,3582,98,427
 Inquérito Anual	11423
 Inquérito Biológico	966
 Inquérito Demográfico	10777
 Inquérito Nacional de Satisfação	6619,4803
 Inquérito Regional Integrado	11562
 Inquérito Sobre Despesas	10768
+Inquérito Vota	16028
 Inquérito de Cobertura	11416,5,25,131
 Inquérito de Cobertura. Os	4040,4
 Inquérito de Cobertura. Os Resultados Definitivos	11421,25,131
 Inquérito de Conjuntura	11422
 Inquérito de Indicadores Multiplus	11417
 Inquérito de Indicadores Múltiplos	10760,5,10,2,3,607
-Inquéritos	11526
+Inquéritos	11526,4009,493
 Inquêrito Ligeiro de Avaliação da Pobreza	11525
 Intervalo de Confiança Inquérito Demográfico	10777
 Just AI Framework of Inquiry	5008,3825
@@ -98,6 +100,7 @@ MARKET INQUIRY UMUTWE WA IV	15126
 MEDIA INQUIRIES	11357
 MICS Inquérito	966,10581
 Madlanga Commission of Inquiry	14357
+Mar IMC Inquérito Multiobjectivo Contínuo INE	15535
 Market Inquiry	11308,2153
 Media Inquiries	4123,8986
 Media and Digital Platforms Inquiry	11195
@@ -110,6 +113,7 @@ Operator Bandwidth Capacity Inq. Digital Nigeria	3862
 Outgoing and Inq. Digital	3862
 Part C Inquiries	11181
 Presidential Commission of Inquiry	9377
+Prior Inquiry	15492
 Productivity Commission Inquiry Report	12419
 Programa de Inquéritos Demográficos	10777
 Public Inquiries Act	7845,6964
@@ -120,13 +124,16 @@ Qualitative Inquiry. March	13332
 REGIONAL COUNCILS Inquiries	13025
 RFIs Inquiry	13461
 Realização de Inquéritos Estatísticos	11516
+Receitas Familiares IDSR Inquérito Demográfico	15535
 Relationship Manager Inquiry for Actual Knowledge	11233
 SA Inquiry	13461
 SA. The Inquiry	13461
 SARA Inquérito	966
+SGI Sistema de Gestão de Inquéritos SNA System	15535
 ST CENT IPNX INQ.DIGITAL NIGERIA LIMITED	3862
 Satellite Services Licensing Framework Inquiry	6891
 Saúde Inquérito de Indicadores Múltiplos	10777
+Seguimento IDRF Inquérito	15535
 Send Inquiry	15131
 Sistema Permanente de Inquéritos Agrícolas Integrados	11979
 South Africa. The Inquiry	11308

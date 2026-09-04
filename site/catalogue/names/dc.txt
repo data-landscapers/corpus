@@ -1,15 +1,17 @@
 AC and DC	9123,2146
 ACB Connect App Launch of Malawi’s DCIMS	13080
 ACRONYMS ACRONYMS AI AIA API DCI	11156
+AU DCG	15495
 AVIS DE CONSULTATION OUVERTE DCOT N	9339
 Administration des Finances DCSFR	10874
-Affordability Report. Washington DC	13314
+Affordability Report. Washington DC	13314,2160,19
 Africa DC	4906,1549,804
 Africa. The IBTC DC Academy	11491
 African DC	10861
 African and DCO Member States	3837
 All DC	9123
 Aphelion DC3	3292
+Art99 AU DCG	15495
 Asia Infrastructure Fund. Operates DCs	7259
 Auditor General Report The DCDT	11230
 Automatic Teller Machine DCC	11955
@@ -17,11 +19,22 @@ Avg DCEI	11867
 BCMS CAT CGI CT DADF DC	10858
 Bayobab DC	6232
 Brazzaville National DC	1643
-Burkina Faso. DCRP	3469
+Brazzaville and DC Social	15659
+Burkina Faso. DCRP	3469,12117,950
+CDC Bénin Référence S DCHSIMG 117735 Date	16395
+CDC Bénin. Référence F DCHSIMG 117731 Date	16395
+CDC Bénin. Référence S DCHSIMG 119765 Date	16395
 CENTRO PROM. DCHOS. HUMAN. Y DEMOC.-Concepto	4209
 CGAP and DCI	11819
 CGSI PSDI DCEI GTEI Ilustração	11569
+COC BENIN Référence S DCHSIMG 117735 Date	16395
+CODE DCI	15930
+CODE DCI DENOMINATION COMMUNE INTERNATIONALE FORME	15930
+CODE DCI PDRE	15930
 COMMISSIONER OF POLICE DCP NORTH CO	14760
+COMP. COMP. COMP. COMP. CODE DCI	15930
+CRITERES DE DISPENSATION CODE DCI	15930
+CRITERES DE DISPENSATION CODE DCI Dispensé	15930
 CRVS Civil Registration and Vital Statistics DCI	11133
 Central Bank of Nigeria DCMS	11861
 Chief Technology Officer DC Data Centre	6432
@@ -29,8 +42,10 @@ Civil Registration Vital Statistics and Identity DCR	12337
 Colo Colocation DC Data Center DIF	10781,1646,2055
 Colocation NDC National Data Center DC	3184,1,1340,6470
 Commercialisation DCCB	10975
+Communication DCC	15631
 Connectors for DC-application	11269
 Consulta Conta Corrente DCI	12018
+Contentieux DCRP	15639
 DADF DADF DLC DLC DLC DC	10858
 DBE and DCDT	11220
 DBK Development Bank of Kenya DCS Depository	2775
@@ -49,8 +64,10 @@ DC Data Center DFI Development Finance	10861
 DC Data Centre DCIM Data Centre	13185
 DC Direct	12233
 DC EDIC	6468
+DC Energy	15659
 DC Luanda	1227
 DC N	14502
+DC Operational	15659
 DC Quick and Bidirectional Charger for Use	15027
 DC Studio	14365
 DC Uptime Tier III TCCD	6432
@@ -58,6 +75,8 @@ DC X X X X X	10858
 DC and AC	9123
 DC and DR. Networking	15080
 DC and Geneva. WBG	10841
+DC-R&D AQCS WELDTEST Expert	16103
+DC-R&D AQCS WELDTEST Expert Abréviations	16103
 DC-based	2158,1324,3052,2589
 DC-powered ITE	9123
 DC. Ali	12948
@@ -84,6 +103,7 @@ DC. Publication	12948
 DC. Segamba	13300
 DC. Shortlisted	11134
 DC. Technical Report	10841
+DC. The Performance and Learning Review	15659
 DC. U.S. Department of State	10841
 DC. World Bank	3456,7385,156,152
 DC. World Bank and United Nations Development	11133
@@ -91,17 +111,23 @@ DC. World Bank. IDA17 Scale-Up Facility	10997
 DC0179	10775
 DC0192 European Commission	11154
 DC2. Run	11863
+DC220V	15670
+DC220V45	15670
 DC3 Luminosité	13524
 DCA Directorate of Civil Aviation DDOS Distributed	6946
+DCAD ACCUEIL	15631
 DCAF Legal Databases	0
 DCAF and Enabel	11974
 DCAMD	14555
 DCAMD AI Resource Lab	14555
 DCAMUM	14662
+DCAPol	15580
+DCAT-AP	15714
 DCBR BMSA LEB SITARAIL SM Lafigué	2342
 DCBR EAU ET ASSAINISSEMENT SGPME SIB	2342
 DCC for Visa and MasterCard	11955
 DCCF RELATIF AUX DÉPÔTS DES DOSSIERS	9976
+DCCLVC	15712
 DCCMS	12988,74,78
 DCCMS Enhances Weather Monitoring Capabilities	12988
 DCCMS Headquarters	12988
@@ -128,12 +154,15 @@ DCDT. Retrieved	6832
 DCDT. The EGDI	1912
 DCDT’s Interdepartmental Coordinating Committee	6832
 DCDT’s National Digital and Future Skills Strategy	6832
+DCE Gestion	16628
+DCE's Remarks Dr. Djokoto	15798
 DCEF Ministère	10708
 DCEI Avg GTEI	10785
 DCEI Indicator-Level Responses	10785
 DCF Analysis	4896
 DCF DADF DC Programmation	10858
 DCF DGE DGI DGD DGSI DGTCP	10858
+DCFI-MPSIR	15685
 DCGEM	10980
 DCI AI Hub	11156
 DCI AI Hub for Social Protection	11156
@@ -142,13 +171,16 @@ DCI AI Hub’s Global Evidence Review	11156
 DCI AI Tracker	11156
 DCI DG Amin Mohamed	10398
 DCI Director Mohammed I. Amin	10398
+DCI En	16658
 DCI and Customs	11939
+DCI-PRG	16657,1,19
 DCI-endorsed	11156
 DCI-endorsed Implementation Guide	11156
 DCI. Como	12018
 DCI. Se	12018
 DCIGK	14090
 DCIMS	12241,839,15
+DCLBA	16047
 DCM and ECM	14997
 DCMIS Portal Transparency	13095
 DCMIs	11993
@@ -162,6 +194,7 @@ DCO Secretary-General Deemah AlYahya	7169
 DCO and WEF	3837
 DCO and World Economic Forum	3837
 DCO. Thigo	14334
+DCOOP	16195
 DCO’s Digital Foreign Direct Investment	14334
 DCP Digital for Tertiary Education Program DFIL	3604
 DCP Direction	14437
@@ -172,10 +205,21 @@ DCPMIs	8078,100,4054
 DCR. Customary	12337
 DCRNPI	1963,2294,579,2808,217,70
 DCRNPI Director General Simon Majur	1963
+DCRP MCIA	16294
+DCRP Primature	16536
 DCRP-MCCAT	11123
-DCSFR	10874
+DCS Dépenses	15724
+DCS. Ce	15685
+DCSFR	10874,4605
+DCSFR Direction	15961
+DCSIC	15671
 DCSP Notice	6940
 DCSPs	6940,524,95,1173
+DCSS B	15744
+DCSS EMP	15901
+DCSS II	15744
+DCSS Sous-lieutenant GOUABA	15744
+DCSS Sous-lieutenant SOUSSA NGANONGO	15901
 DCSSI	5907
 DCSSIC	3465
 DCTCE	8670
@@ -199,8 +243,15 @@ DCrouching	5700
 DCs. Verify	5364
 DCultivating	5349
 DCzw9IkVxR0	6251
+DE DISPENSATION CODE DCI	15930
+DE DISPENSATION CODE DCI BRONCHODILATATEURS AVEC	15930
+DE DISPENSATION CODE DCI COMP. PELL	15930
+DE DISPENSATION CODE DCI Dispensé	15930
+DE DISPENSATION CODE DCI METABOLISME NUTRITION	15930
+DISPENSATION CODE DCI	15930
 DJ&CD and DCS	11270
 DOS DCF DCF DCF DOS DCF	10858
+DOSAGE CRITERES DE DISPENSATION CODE DCI	15930
 DPSA and DCDT. Milestones	11940
 DPSR DSF DADF DOS DC DC	10858
 Dabengwa Sifiso Lagos DC	6410
@@ -208,6 +259,7 @@ Dansoman Operational PMB DC	3386
 DcYox8IDhcIAoivDru6MTfWc5EiNZ0mL	11866
 DcdDisseminateFinalDMZ&df	6982
 Dconsensual	4583
+Dcstinataire	15399
 Declarações Entregues Consulta Situação Fiscal DCI	12018
 Demand Intelligence DCDT MICT SETA	6832
 Department of Basic Education DCDT	6832
@@ -216,14 +268,20 @@ Deputy Assistant Superintendent of Police DCP	14760
 Description USAID Digital Frontiers DCCP	532
 Description USAID Digital Invest DCCP	954
 Digital CFA DCFA	4127
+Digital Dividends. Washington DC	15474,19
+Digital Economy Assessment. Washington DC	15474,19
 Digital Invest DCCP	954
 Direito de Audição Prévia DCG	11435
+District Sanitaire DC	15685
+Division of Legal Affairs and Litigation DCOOP	16041
 ECOBLOX’s DCIM and HPC	11502
 EU DC CoC	15149
 Emerging DCDT DHET	6832
 Every DCSP	6940
+Financière DCSFR Direction	15479
 Folha de Rosto Editavel Versão1 0 0.zip DPR DCI	12018
 Founder of IBTC DC Academy	11491
+GLES. LP. COMP. CODE DCI DENOMINATION	15930
 GTMI CGSI PSDI DCEI GTEI	10785
 Gachagua’s DCP	11084
 Green DC	4833
@@ -242,6 +300,8 @@ Launch of Malawi’s DCIMS FIGURE	13095
 Launched the DCIMS	13095
 Lefaso.net DCRP	4882
 Live DC	3184,1,1340,6256,1646
+L’essentiel des DCS	15685
+M UI CODE DCI DENOMINATION COMMUNE	15930
 MIT DCI	12048
 MTN Sifiso Dabengwa DC	6735
 MW DC	1227
@@ -250,6 +310,7 @@ MW NA NA Live DC	10995
 Merges Paratus's DC3	1227
 Meteorological Services THE DCCMS Be Wise	13062
 MoFEA. DCIMS	13095
+Ménages. Les DCS	15685
 NC4 and DCI	3983
 NW Washington DC	10976,898,472
 National DCS	8249
@@ -262,6 +323,7 @@ Operationalize DCIMS	13080
 Orange Orange AMS-IX Orange Bluesun DC	10861
 Others Global DC	10861
 PACTDIGITAL. DCD URL	4748
+PC ZMD2 DCJM	15744
 PDUs Rectifiers DC-UPS	9123
 PLAN DCaaS	12253
 Philip Blignaut SITA DCDT	11254
@@ -270,21 +332,33 @@ Power Systems DC	9123
 Preenchimento Manual Consulta Conta Corrente DCI	12018
 Presidency and DCDT. The IDWG	11940
 Presidential Task DCDT	6832
+PreviousEkumfi DCE Urges Unity and Optimism	16076
 Publishes the Xalam DC	4428
+R Une Autorité Administrative Indépendante de DCP	15624
 RAS Cf la DCP	10975
+REPUBLIQUE DCSS	15744
 REQUIRED CITATION DCI AI Hub for Social	11156
+Recursos Humanos DCN Departamento de Contas Nacionais	15535
+Results Indicator DA Designated Account DCMEF	16384
 Riyadh. Through the DCO	3837
 Rodríguez DC	3791
 Root Certification Authority. The DCS	11120
+Rurale DCN Data Center National DGI	15583
+Référence F DCHSIMG 111891 Date	16395
+Référence F DCHSIMG 111892 Date	16395
+Référence PI DCHSIMG 100862 Date	16395
 SA DCDT	6353
 SCRP SCRP SCRP DOS DCF DCF	10858
 SIMEX Savanne DC	14738
+SP DCC Sous la Très Haute Présidence	16001
 SSA-prorated. DCMS	649
+Sa DCS	15685
 Shariah-based Washington DC	12297
 Social Workers and DCS	12977
 Solly Malatsi. The DCDT	10129
 South Africa. DCD	2021
 Standards DC PUE	6432
+Sustainable Reduction of Poverty. Washington DC	15493
 TASAS Y DCHOS. ADMINISTRATIVOS	4209
 TV. The DCDT	11170
 Team DCDT	1810
@@ -298,11 +372,14 @@ V DC	11269,3545
 Visa and MasterCard’s DCC	11955
 W DC	13387
 Wahington DC	5242
-Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164,109,314,295,14,1,603,299,840,1308,1,126
+Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164,109,314,295,14,1,603,299,840,1308,1,126,313,102,849,113
 Washington DC. Liscence	12255
+Washington DC. Support	16403
 Washington DC16	748
 Washington of Kenya. International Journal of Advanced DC	12297
 Wave One. Washington DC	12297
 X DC X X X DC	10858
 X X X DC X X	10858
 X X X X X DC	10858
+Yaoundé DC CAMPOST. Déjà	16214
+Yaoundé DC CAMPOST. INK	16214

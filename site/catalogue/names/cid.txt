@@ -1,21 +1,36 @@
+AUTENTI CIDADE	16321
 Agro-industrie Média ANADER RTI CIDT IDT	2342
+Autorização de Residência de Cidadão	15520
 BILHETE DE IDENTIDADE DE CIDADÃO NACIONAL	10756
+Bairro Cidade OnLine	15593
 Bairros Periféricos da Cidade da Praia. Desenvolvimento	1265
 Base de Dados de Cidadão Maior	10756
 Base de Dados de Cidadãos Maiores	5791,4981,3,650
 Benguela Cidade de Benguela Pedro Parente-Angop	11429
 Bilhete de Identidade de Cidadão Nacional	10749,7,16
 CAPACITAR OS CIDADÃOS	11397
+CASA DO CIDADÃO INPS	16028
+CFE Contingency Fund for Emergencies CID11	15966
+CID B	15524
 CID Criminal Investigation Department	6936
 CID Cybercrime Unit	6936
+CID DDSE	15524
+CID DDSI	15524
 CID Director Tom Magambo	12109
-CIDADANIA	10752
+CID Forms	16602
+CID Headquarters	16602
+CID IV	15524
+CID Pour	15901
+CID SECTION	16100
+CID-11	16484
+CID11	15966
+CIDADANIA	10752,5735
 CIDADÃO RESPEITADO	10770
 CIDADÃO RESPEITADO Assim	10770
 CIDADÃOS EM ABRIL O Centro de Resolução	10753
 CIDADÃOS MAIORES	11425
 CIDB Construction Industrial Development Board CIPRO	11261
-CIDCA	13309
+CIDCA	13309,2296
 CIDEN TECHNOLOGIES Data Processor INST-532159C7A45 NAIROBI	7167
 CIDP County Integrated Development Plan CSO	7548
 CIDPH	14538
@@ -28,28 +43,36 @@ CIDRZ's Yasa Bwalya	13430
 CIDRZ. Beyond	10374
 CIDST	14428,189
 CIDT En	2342
+CIDTA	15614
+CIDTS	15685
 Cartão de Eleitor de Cidadão Estrangeiro Aquele	11528
 Cartórios Notariais da Cidade da Praia. Os	9271
 Casa de Cidadão	12021
 Central CID	11823
+Cid Mohamed ELLA	16175
 Cidad	9399
-Cidadania	4146,5112,1492,2,1,1,808,2751
+Cidadania	4146,5112,1492,2,1,1,808,2751,1031,350,793
 Cidadania Digital	1770,12430,113
 Cidadania I M I J Instituto	6530
-Cidade	3468,7898
+Cidadao	15380
+Cidade	3468,7898,4323,601
 Cidade Alta	539,10826
 Cidade Alta Luanda	11473
 Cidade Baixa	11474
-Cidade Segura	8638,1356
+Cidade OnLine	15593
+Cidade Segura	8638,1356,6286
 Cidade Segura Project Phase	8638
 Cidade da Matola	12784
-Cidade da Praia	3192,2127,708,503,1636,3775
+Cidade da Praia	3192,2127,708,503,1636,3775,3439,8,132,44,125,203,63,155,194,39,150
+Cidade da Praia Ilha de Santiago	15355
 Cidade de Maputo	12792
 Cidade de Maputo. Artigo	12823
 Cidade de Maputo. O Memorando	12846
-Cidades	11379
+Cidades	11379,4214
+Cidades Saudáveis	15966
+Cidades Sustentáveis Resiliência	15966
 Cidades da Beira	1808
-Cidadão	795,461,84,743,733,1597,1159,488,1406,1464,1826,9,10,588,2,6,23,86,75,10,4,306,34,30,26,49,4,756,1
+Cidadão	795,461,84,743,733,1597,1159,488,1406,1464,1826,9,10,588,2,6,23,86,75,10,4,306,34,30,26,49,4,756,1,2583,22,11,1,84,44,12,58,165,267,5,29,164,31
 Cidadão Cidadão Funcionários	11379
 Cidadão Gratuito Saber	9040
 Cidadão Nacional	12784
@@ -57,17 +80,28 @@ Cidadão Partilhar Tweetar Partilhar Email Comentários	5572
 Cidadão TRANSFORMAÇÃO Serviço E V Serviço	11379
 Cidadão Uma	12774
 Cidadão da Guiné-Bissau	11566
+Cidadão. Artigo	15358,33
+Cidadão. Legislação	15355
+Cidadão. MINISTÉRIO DAS FINANÇAS E ADMINISTRAÇÃO	15358
+Cidadão. Neste	15476
 Cidadão. O Estado	11371
-Cidadãos	8053,2729,589,54,10,120,10,4
+Cidadão. Trata-se	15476
+Cidadãos	8053,2729,589,54,10,120,10,4,4459
 Cidadãos Excelência	11436
 Cidadãos G2G Governo	11555
 Cidadãos Maiores	5204,1,1332,4235,653
+Cidadãos O Governo	16487
+Cidadãos Uma	16487
 Cidda	14859,293,1
 Cider Locally	6921
 Cidkasta	15153
+Cidália Semedo	15829
 Conselho Municipal da Cidade de Nampula	1808
+Contatos Rua Cidade	15470
 Contrôleur de Gestion CIDN	10975
+Diderot Cidjeu	16386
 Divisional CIDs	14760
+E DE EXERCÍCIO DE CIDADANIA Artigo	15344
 Espaço Cidadão	1256,84,743,2330
 Espaços Cidadão	11461
 Feu FANNY Ibrahima CIDT	2342
@@ -88,15 +122,18 @@ O Bilhete de Identidade de Cidadão Nacional	10749,7
 Objectif du CID	13841
 Os Bilhetes de Identidade de Cidadão Nacional	10749
 PNC Tuberculose and Cidade de Maputo	2228
+Participa Cidadão	16028
 Plataforma Rede Cidadã	12857
 Portée du CID	13841
 Projecto Cidade Segura	8638,1356
-Projeto Cidade Segura	342
+Projeto Cidade Segura	342,15938
+Projeto Cidade Segura URL	16280
 Présentation du CID	13841
 RUBRIQUES CIDESSOUS	13390
 Rede Cidadã	12857
 Representative CIDs	13094
 SECÇÃO II REGISTO ELEITORAL DOS CIDADÃOS	11425
+SEGURANÇA E CIDADANIA DIGITAL	16325
 SMD OIC VITIB SA SIVAC CIDT	2342
 Serviço da Cidadania Necessidade	3048
 Solo Plano Diretor da Cidade	11898
@@ -104,3 +141,5 @@ State CID Yaba	8471
 Taxa de Serviços Casa Cidadão	1340,743,2330
 Trabalhadores Cidadania	10750
 Universidade da Cidade de Macau	6568
+Universitaire CIDTS	15685
+Validação de Dados de Cidadãos	16030

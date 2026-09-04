@@ -1,34 +1,55 @@
 ACRONYMES ET ABRÉVIATIONS AMTS AHPSR ANIMUSE	14622
+ADPME ACPCE Université Marien NGOUABI ANIRSJ	16047
+ALIMENTS DES ANIMAUX ET ZOOTECHNIE	16103
 ANI Last Updated	8210
 ANIAD	3494
-ANICNS	11892
+ANICC	15572
+ANICNS	11892,4546,3
+ANICiiS	15487
+ANIEN	16628
 ANIEP	14242
-ANIES	10991
+ANIES	10991,5635,17,97
+ANIES C’est	16643
 ANIESE TCHISSOLA PORFIRIO SILVESTRE	10751
 ANIJA COMMUNITY MEDICAL HEALTHCARE Data Processor	7167
 ANIMF	5835
 ANIMIS	13300
 ANIMIST	13300
 ANIMUSE	14622
-ANINF	1560,606,795,122,42,166,7,64,138,81,136,246,2166,28,622,23,16,1379,1638,2,1871,403,3205
+ANINF	764,796,606,795,122,42,166,7,64,138,81,136,246,2166,28,622,23,16,1379,1638,2,1871,403,3205,71,24,36,64,3,4,107,1,137,336,60,99,31,7,85,84,11,30
 ANINF Director General	3291
 ANINF Director General Alberto Mounguengui Moudoki	9837
 ANINF Tower	6779,23
+ANINF and ARCEP	15511,7
+ANINF and ARCEP. The Fiber Optic Commission	15511
+ANINF and CNAM-GS	160
 ANINF and CNAMGS	9837
+ANINF and MSPSSN	15411
 ANINF-ST Digital	3291
 ANINF-ST Partnership Gabon's National Agency for Digital	3291
+ANINF. ANINF	15514,4
+ANINF. Applying	15518
+ANINF. Venture	15447
+ANIP Agence Nationale	15583
 ANIP BJ	2693,2091,28,43
 ANIP Connexion	10821
 ANIP DG	3041
+ANIP GRM	15735
 ANIP's Director General	5782
 ANIP. Ce	3590
 ANIP. En	3590
 ANIP. L'enregistrement	10867
+ANIP.BJ	15781
+ANIRSJ	16047
 ANITRAC	11836
 ANIVERSARIANTES	10750
+ARCEP and ANINF	15511
+ARCEP and ANINF. Given	15447
 Accessibility Toolbar Keyboard Navigation Disable Animations	11539
 Africa Network for Animal Welfare	7167
+African Development Bank ANINF National Agency	15518
 AnIsible	14566
+Ange Anicet	15455
 Anibaba	7907
 Anibaba's MVP	7907
 Anibe Idajili	4794,9600
@@ -37,6 +58,8 @@ Anicet Compaoré	6497
 Anicet Compaoré. Pour	6497
 Anicet Georges Dologuele	4539
 Anicet MANIRAMBONA Célestin MUGISHA Clovis MUHIMPUNDU	13300
+Anicet MBADINGA MOULOUNGUI. MME	16381
+Anicet Rodrigue	15524
 Aniceto de Carvalho	9259
 Anicia Peters Chief Executive Officer	5036
 Aniel de Beer	10764
@@ -45,7 +68,7 @@ Anikó Szigetvári	14388
 Anil Bachoo	14837
 Anil Kumar Dip	14753
 Anil Seeruttun	8392
-Animal	1988,787,6292,2118,1198,677,325,1237,44,361,91
+Animal	1988,787,6292,2118,1198,677,325,1237,44,361,91,545
 Animal Arcade	4049
 Animal Bites	15247
 Animal Disease Act	11188
@@ -54,12 +77,14 @@ Animal Disease Notification and Investigation System	8183
 Animal Disease Surveillance Dashboard	7236
 Animal Health	13520,1146,152
 Animal Health Act	13403
+Animal Health Emergency Operations Center	15802
 Animal Health P30	1663
 Animal Health P8	5636
 Animal Health Regional Blood Safety Laboratories	4153
 Animal Health and Biosecurity	14818
 Animal Health and Biosecurity Endemic	14818
 Animal Health and Livestock	12194
+Animal Husbandry	15457
 Animal Identification Act	11188
 Animal Identification and Traceability System	11836
 Animal Rearing School	11857
@@ -69,19 +94,22 @@ Animal Welfare Honourable Members	14748
 Animals	11836
 Animals Electrical	1988
 Animas Centre for Coaching	12951
-Animateur	13781
-Animation	7106,3715,1042,1826,848
+Animateur	13781,2764
+Animation	7106,3715,1042,1826,848,1399,294
+Animation Arts and Digital Interior Design	16046
 Animation Culturelle	14721
 Animation Production	9781
+Animation Pédagogique	15591
 Animations	14847
 Animations Sign	11334
 Animations Turn	11334,3513
 Animaux	4420
-Animer	10965,2410
+Animer	10965,2410,3271
 Animista	10777
+Animiste	15498
 Animut N	12255
-Animé	8403
-Animée	7677,4402
+Animé	8403,7200,100,788
+Animée	7677,4402,3768
 Aninf	4043,3897,34,4117
 Aninternetserviceproviderwhoenables	972
 Anip. Des	7332
@@ -92,10 +120,13 @@ Anis Zwagui	1183
 Anisok	4209
 Anissa Kpakpabia	10764
 Anita	12227
+Anita Akumiah	16728,15
 Anita Anand	9275
 Anita Andanje Data Processor INST-7047132477D KAKAMEGA	7167
 Anita Anyango Namibia	13139
 Anita Houndenou	7168
+Anita NOLLET	16175
+Anita OYINI ABOUGHE KOULA	16381
 Anita Wreford	11006
 Anitha	4364
 Anitha Mzee	4364
@@ -105,6 +136,7 @@ Aniversário da Independência de São Tomé	6837
 Anivorano Est	14669
 Arena Animation International Programme	13078
 BIDABANGANYA Anicet N	13390
+Bank ANINF Agence Nationale des Infrastructures Numériques	15447
 Benguela ANITA RAIMUNDO	10751
 Benin During Minister Anita Anand	9319
 Bopa Animation	10821
@@ -114,28 +146,43 @@ CDSP Ill Beneficiaries Feature Animations Documentaries	9781
 CHARRETTE AVEC ANIMAL	13300
 CNAMGS and ANINF	6129
 Cameroun. Animée	3779
+Carl ANIAMBOSSOU	16545
+Carl Aniambossou	16545
 Chika Charles Aniekwe	13280
 Community Animal Health Workers	4202
 Conservation of Animal Genetic Resources	14818
 Conservation of Animal Genetic Resources Indigenous	14818
 D Animation	6832
 D.G. DE GANAD. SAN. ANIMAL	4209
-DES RESSOURCES ANIMALES ET HALIEUTIQUES	7670,651
+DES PECHES ET DES INDUSTRIES ANIMALES	15999
+DES RESSOURCES ANIMALES ET HALIEUTIQUES	7670,651,7355,441,170
 DES RESSOURCES ANIMALES ET HALIEUTIQUESLe Conseil	7670
 DG ANIP	3387
 Director General of ANINF	6779
 Director General of ANIP	1927
+Djamal Aniour	15933
 Dr. Folakemi Animashaun	9444
+Economie Numérique ANIES Agence Nationale	16626
+Economie Numérique Edgard Anicet MBOUMBOU MIYAKOU	15533
 Epidemiologist and Community Animal Health Workers	4202
+Etat ANIEN Agence Nationale	16626
 Ethiopia Animal Identification and Traceability System	8183
+Europe AM Aide-Mémoire ANINF National Agency	15511
 Evelyn Anite	320
+FCFA FONDATION-AFFORESTATION AND ANIMALS Siège	16177
 Facilities and Animal Welfare	14818
 Facilities and Animal Welfare Poorly	14818
 Fela Anikulapo-Kuti	9739
+Fisheries and Animal Industries	15802
 Fisheries and Animal Production	10964
 Gabon Digital. Both ANINF and World Bank	6779
 Game Hub Senegal and Anim’Lab	2544
+Garde des Sceaux Anicette NANDA OVIGA	15371
+Garde des Sceaux Edgard Anicet MBOUMBOU MIYAKOU	15464
+General Anil Chauhan	16331
+Ghana. Joyce Adwoa Animia Ocran	16163
 Global Affairs Canada The Honourable Anita	9275
+H.E. Mr. Parfait Anicent Mbay	16277
 Hon. Anil Kumar Bachoo	14773
 Honourable Anil Kumar BACHOO	14773
 Honourable Anita Anand	9275
@@ -144,26 +191,50 @@ Honourable Ms Anishta Babooram	14773
 IADSR Integrated Animal Disease Surveillance and Response	14666
 ILLUSTRATOR ANIMATOR	9781
 ILLUSTRATOR CEO CREATURES ANIMATION ANIMATOR	9781
+INDUSTRIES ANIMALES	15999
 INSEED and ANID	1635
 Imelda Anika Legal Director IKM Advocates	12301
-Industries Animales	10964
+Industries Animales	10964,4578,457
 Integrated Animal Disease Surveillance and Response	14666
 International Exhibition of Agriculture and Animal Resources	6280
+Live Animal Health Certificate	15478
+Live Animal Health Certificate Picture	15478
+Live Animal Import Permit	15478
 Livestock Animal	14818
 Luanda Luanda Aniversariantes	10751
+M Joseph ANINIYO	15685
+M. ANIELE	15615
+M. ANIZOCK	15901
+M. Anicet Francis LIBANGA	16381
+M. Carl ANIAMBOSSOU	16545
+MCDE and ANINF	15518
+MEN ANIBA Souleyman Ministère	15472
 MSMEs Fisheries and Animal Production	10964
+MSPSSN and ANINF	15411
 MW Anixas I and II	12399
 Madagascar. In Anivorano Est	14669
+Madame Anita AHOUANDJINOU Borgou Membre	16485
+Master PRO Agronomie Option Productions Animales	15674
 Mauritius Society for Animal Welfare	14748
 Mayowa Anibaba	7907
 Michel Anihibié	3350
 Minister of Agriculture and Animal Resources	14869
 Minister of National Infrastructure Hon. Anil Kumar	14753,88
+Ministère Des Ressources Animales Et Halieutiques	15936
+Ministère des Ressources Animales	15757,179
+Monsieur Anicet MBADINGA MOULOUNGUI. Directeur	16175
+Monsieur Anicet Serge ABESSOLO	16175
+Monsieur Anicet Serge ABESSOLO MBA	16099
+Monsieur Claude ANIGNIKIN Couffo Membre	16485
 Ms Anita Msumba	13280
 NDAYIRAGIJE Anicet	13390
+NDZANA Stanislas Anicet DEP	15580
 Nedu Ani	6211
 Nov-2025 ANID	1635
 OCCUPE DES ANIMAUX	13300
+Organização Mundial de Saúde Animal	15966
+PRODUCTIONS ANIMALES	15674,429
+Petits Animaux	16627
 Plant and Animal Diseases Control ARTICLE	14409
 Plant and Animal Diseases Control The Partner	14409
 Plant and Animal Health Crop Sector Healthy	14818
@@ -178,9 +249,13 @@ RDGE Marie Anitha JAOTODY	13938
 Research Animal Health Level	4153
 Ressources Animales	3396
 SANIDAD ANIMAL Y DESARROLLO CAPACITACIÓN INSTITUTO	4209
+SOUGOU Anistelle Cléa	16381
 Saúde Animal	11376
 Saúde Animal OMS Organização Mundial de Saúde	11376
+Saúde Animal ONU Organização	15966
 Secção Aniversariantes	10750
+Serge Anicet	15744
+Small and Medium Enterprises and Animal Husbandry	16649
 Strategic Plan for Surveillance and Animal Health	11417
 Surveillance Intégrée des Maladies Animales	14666
 U EAU ATFCfA ANIHC KU EYIKRÜT	14843

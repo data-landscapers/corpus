@@ -10,9 +10,13 @@ E1.1 Plano de Execução	11442
 EIXOS DE DESENVOLVIMENTO O Plano Estratégico	12777
 ENQUADRAMENTO AO PLANO DE DESENVOLVIMENTO NACIONAL	11397
 ENTIDADES SUJEITAS AO PLANO GERAL	11473
+Emanuel Antero Garcia da Veiga PLANO DIRECTOR	15380
 Enquadramento O Plano Estratégico	11379
 Entrega de Plano de Trabalho	11456
 Entregável Descrição Prazo Pagamento E1 Plano	11451
+Hierarquia O Plano Director Municipal	15380
+I Plano Nacional de Comunicação de Risco	15966
+III Plano de Ação Nacional	16181
 INE Plano de Acção Nacional de Educação Para	10766
 JOÃO MANUEL GONCALVES LOURENÇO. PLANO ESTRATÉGICO	10772
 MINSAP Ministério da Saúde Pública. PENSIS Plano	11543
@@ -22,67 +26,103 @@ Ministério da Economia da Plano	11549
 Ministério da Saúde de Angola. Plano Estratégico Nacional	10780
 O Plano Anual de Actividades Estatísticas	11526
 O Plano EAS	11413
-O Plano Estratégico	11442,2,1333
+O Plano Estratégico	11442,2,1333,2656
+O Plano Estratégico de Desenvolvimento Sustentável	15433
 O Plano Nacional de Desenvolvimento	11366,203
+O Plano Nacional de Promoção da Saúde	15966
 O Plano Setorial da Educação	11557
+O Plano de Acão da ENDE	15535
 O Plano de Acção	15
+O Plano de Ação da ENDE	15535
 O Plano de Desenvolvimento Nacional	1215
 O Plano de Trabalho	11898
 ORÇAMENTO PARA A IMPLEMENTAÇÃO DO PLANO	11413
+Objecto O Plano Director Municipal de São	15380
+PAA Plano Anual de Atividades PALOP Países	15535
 PAG Plano de Ação Global PAV Programa	11376
 PCAS Plano de Compromissos Ambientais	11390
 PEPI Plano de Envolvimento	11390
 PESOE Plano Económico	12787
 PGAS Plano de Gestão Ambiental	11390,23
 PLANO DE ACÇÃO VBG	11406
+PLANO DE ATIVIDADES PARA	15476
+PLANO DE AÇÃO DA ENDE	15535
+PLANO DE FINANCIAMENTO DA ENDE	15535
 PLANO DE GESTÃO E MONITORIZAÇÃO AMBIENTAL	11406
 PLANO NACIONAL DA ARQUITECTURA GLOBAL PARA	11371
 PLANO SETORIAL DA EDUCA	11523
 PLATAFORMA DE SERVIÇOS E PLANO	11555
 PNDS Plano Nacional de Desenvolvimento Sanitário PNUD	11376
 PSSO Plano de Saúde	11413
-Plano	13,1264,861,90,1990,1445,701,1302,3106,589,10,1,4,14,16,6,1,29,10,4,71,15,5,13,4,5,329
+Plano	13,1264,861,90,1990,1445,701,1302,3106,589,10,1,4,14,16,6,1,29,10,4,71,15,5,13,4,5,329,3482,11,144,237,194,90,125,140
 Plano Anual	2613,8839
 Plano Anual da Formação	11361
+Plano Anual de Aquisições	16056
+Plano Anual de Atividades	15535
 Plano Anual de Contratação	2365,248
 Plano Anual de Formação	11361
 Plano Brasileiro de Intelig	7548
 Plano Básico de Ciência	3519
 Plano Curricular	12019
+Plano DNTs	15966
+Plano Detalhado	15380,8
+Plano Detalhado Chã	15388
+Plano Detalhado de Calhau	15388
+Plano Detalhado de Juncalinho de Ribeira Brava São	15388
+Plano Detalhado de Nova Sintra	15388
+Plano Detalhado de Relva	15388
+Plano Detalhado de Rincão	15388
 Plano Director	8827,2616
+Plano Director Municipal	15380
 Plano Director Smart Rwanda	11461
 Plano Director de Formação	11444
 Plano Director de Recuperação	11396,1
+Plano Diretor	15892,167,134
 Plano EAS	11413
 Plano Económico	4129,8660,7
-Plano Estratégico	167,3439,1,849,6316,607,11,2,51,9,74,17,1234
+Plano Estratégico	167,3439,1,849,6316,607,11,2,51,9,74,17,1234,3147
 Plano Estratégico Existem	11379
 Plano Estratégico Nacional	7707
+Plano Estratégico Nacional da Pessoa Idosa	15966
 Plano Estratégico da Inspecção-Geral da Administração	11452
+Plano Estratégico da Pessoa Idosa	15966
 Plano Estratégico da Sociedade de Informação	2816
 Plano Estratégico da UEM	9694
 Plano Estratégico da WATRA	11531
 Plano Estratégico de Desenvolvimento PEDS Sustentável	11855
-Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081
+Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081,3511,15,35,6,3,149,240,59
+Plano Estratégico de Desenvolvimento Sustentável II	15684,5
+Plano Estratégico de Desenvolvimento Sustentável. Com	15526
 Plano Estratégico de Desenvolvimento da Polícia Nacional	11392
+Plano Estratégico de Mobilização de Apoio Climático	15962
 Plano Estratégico de Universalização	10772
 Plano Geral de Contabilidade	11473
 Plano Guiné-Bissau	11569
+Plano Multirriscos	15966
+Plano Multissetorial	15966
+Plano Multissetorial Integrado	15966
+Plano Multissetorial de Doenças Crónicas Não Transmissíveis	15966
+Plano Nacional	15962
+Plano Nacional RAM	15966
 Plano Nacional da Arquitectura Global	11371,8
 Plano Nacional de Ação	11376
 Plano Nacional de Banda	11569
 Plano Nacional de Banda Larga	11529
 Plano Nacional de Banda Larga da Nigéria	11569
-Plano Nacional de Capacitação	1948
-Plano Nacional de Cuidados	1948,9907
+Plano Nacional de Capacitação	1948,14014,60
+Plano Nacional de Comunicação de Risco	15966
+Plano Nacional de Cuidados	1948,9907,3839
 Plano Nacional de Desenvolvimento	438,10322,17,613,179
 Plano Nacional de Desenvolvimento Sanitário	10760,17,766,17
 Plano Nacional de Desenvolvimento TIC	11387
 Plano Nacional de Desenvolvimento de Angola	11455
 Plano Nacional de Digitalização Portuária	8729
+Plano Nacional de Educação Financeira	16579
+Plano Nacional de Formação Médica Graduada	16019
 Plano Nacional de Frequências	15,2851,8564
 Plano Nacional de Numera	11518
 Plano Nacional de Numeração	15,11415,1
+Plano Nacional de Promoção da Saúde	15966
 Plano Nacional de Registo Civil	11537
 Plano Oficial da Contas	11520
 Plano Operacional	12777
@@ -94,31 +134,44 @@ Plano Testes	12021
 Plano Trianal	11557
 Plano de Acompanhamento Familiar	11855
 Plano de Actividades	10757,2066
-Plano de Acção	4146,1058,1,6161,5,6,2,17,1,9,45,91,1257
+Plano de Acão	15535
+Plano de Acão Nacional de Género	15532
+Plano de Acão Regional Africano	15477
+Plano de Acção	4146,1058,1,6161,5,6,2,17,1,9,45,91,1257,2592
 Plano de Acção da Biodiversidade	11390
 Plano de Acção da ENIF	11426
 Plano de Acção da Sociedade da Informação	11396,1
+Plano de Acção de Governação Digital	16347
 Plano de Acção de Governação Electrónica	15
 Plano de Acção. Estes	12830
 Plano de Acção. Norma Ambiental	11542
 Plano de Apoio da China	11564
+Plano de Aquisição Anual	16056
 Plano de Atividades	1338,93,1,648,66,1,2316,1
 Plano de Atividades Anual Orçamentado	11557
-Plano de Ação	11376,161,10,8,14
+Plano de Ação	11376,161,10,8,14,3864,102,37,122,61,211
+Plano de Ação Continental	15694
+Plano de Ação DB	15476
 Plano de Ação Fases	11569
+Plano de Ação Global Estratégico Horizonte	15476
+Plano de Ação Nacional	16181
 Plano de Ação Nacional da RAM	11376
+Plano de Ação Nacional de Governação Aberta	15962
 Plano de Ação da Estratégia	2618
 Plano de Ação de Dakar	11564
 Plano de Capacitação	11442
+Plano de Cargos	15503,1,22
 Plano de Carreias	1268
-Plano de Carreiras	1265,683
+Plano de Carreiras	1265,683,14014
 Plano de Compromisso Ambiental	11406,136
 Plano de Conferência	11456
-Plano de Desenvolvimento	11569
+Plano de Desenvolvimento	11569,3957
 Plano de Desenvolvimento Estratégico	11372
 Plano de Desenvolvimento Institucional	11411
 Plano de Desenvolvimento Nacional	1215,2304,384,391,726,954,2334,952,1497,18,2,6,289,306,1,15,2,1,9,20,17,19,81
 Plano de Desenvolvimento Nacional-PDN	11387
+Plano de Desenvolvimento Sustentável	15532
+Plano de Desenvolvimento Urbano	15380
 Plano de Envolvimento	11406
 Plano de Evolução	11442
 Plano de Execução	11442
@@ -126,6 +179,7 @@ Plano de Expansão	11442
 Plano de Exploração	11413
 Plano de Financiamento	13
 Plano de Fomento	10758
+Plano de Formação	15535
 Plano de Gestão Ambiental	11406,136
 Plano de Infra-Estruturas de Telecomunicações	4218
 Plano de Integração E5 Em	11442
@@ -134,7 +188,9 @@ Plano de Mitigação de Riscos de VBG	11406
 Plano de Monitorização	11406
 Plano de Municipalização	6614
 Plano de Operação Base E6	11442
+Plano de Ordenamento da Orla Costeira	15388
 Plano de Preparação	11376
+Plano de Recuperação	15772
 Plano de Tarefas Essenciais	11365
 Plano de Trabalho	11448,8,442
 Plano de Trabalho Bienal	11455
@@ -144,10 +200,13 @@ Plano de Transição Digital da Administração Pública. OE6	11379
 Plano de Universalização	6819,147
 Plano de Zoneamento	11898
 Plano. Na	10772
+Plano. O GAO	15962
 Plano. Para	10772
-Planos	4209,1454,5749,1,28
+Planos	4209,1454,5749,1,28,4880
+Planos Anuais de Aquisições	16056
 Planos Cadastrais	11898
 Planos Cadastrais Método	11898
+Planos Educativos Individuais	15772
 Planos Nacionais de Desenvolvimento Sanitário	11543
 Planos de Acção de Reassentamento	11542
 Planos de Desenvolvimento	11362
@@ -161,7 +220,8 @@ Proyecto de Planos	4209
 Público-Privadas PSE Plano Sectorial da Educação PTF	11557
 Rosário. PLANO ESTRATÉGICO PARA A SOCIEDADE	12777
 Sanitário PND Plano Nacional de Desenvolvimento PPAVVD	11390
-Segundo Plano de Desenvolvimento Estratégico	5443
+Segundo Plano de Desenvolvimento Estratégico	5443,10776
 Solo Plano Diretor da Cidade	11898
+Século XXI PEDS Plano Estratégico de Desenvolvimento	15535
 TEMPLATE DO PLANO DE GESTÃO	11390
 Train-the-Trainer Plano de Onboarding	11442

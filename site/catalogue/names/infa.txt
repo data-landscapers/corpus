@@ -6,7 +6,10 @@ Centros Infantis Comunita	11387
 Comisario Principal Capitán Capitán Infantería Comandante	4209
 D.G. DE INFANCIA Y ADOLESCENCI	4209
 D.G. DE INFANCIA Y ADOLESCENCIA	4209
+DE LA PORNOGRAPHIE INFANTILE Quiconque	15643
 DELEGACIÓN DIRECTIVO ASUSTOS COORDINACION IGUALDAD INFANCIA	4209
+DIRECTIONS GENERALES Infanterie	15901
+Deaths Infant	15627
 Diagnostic Network Optimization Early Infant Diagnosis	4153
 Diagnóstico Precoce Infantil HIV Contém Dados	966
 Doença Infantil Entre	10760
@@ -16,16 +19,48 @@ ID for All An Infant Registration Bill	4553
 IMR Infant	12367
 IMR Infant Mortality Rate IMT International	2775
 INFANT AND CHILD MORTALITY	13454,1793
+INFANTERIE	15744
+INFANTERIE AEROPORTEE	15744
+INFANTERIE AEROPORTEE Lieutenant	15455
+INFANTERIE Arrêté	15744
+INFANTERIE B	15744
+INFANTERIE Bonaventure	15744
+INFANTERIE C	15744
+INFANTERIE CAB	15744
+INFANTERIE COMMANDEMENT DES ECOLES Commandant BOUMPOTOU	15744
+INFANTERIE Colonel OSSAKET	15744
+INFANTERIE Commandant OYENGA	15744
+INFANTERIE Ens	15744
+INFANTERIE GDR Enseignes	15744
+INFANTERIE Lieutenant AMEYA-NGUYA	15744
+INFANTERIE Lieutenant KEKOLO	15744
+INFANTERIE Lieutenant NYANGA-ELENGA	15744
+INFANTERIE Lieutenant POUBOU	15744
+INFANTERIE Lieutenant-colonel BEYA SABOUSSOUA	15744
+INFANTERIE Lieutenant-colonel KIHOULOU	15744
+INFANTERIE Lieutenants	15744
+INFANTERIE L’intéressé	15744
+INFANTERIE M. PENDZAMOYE TSOMBO	15744
+INFANTERIE MECANISEE	15744
+INFANTERIE MECANISEE Colonel MBAYA	15744
+INFANTERIE MOTORISEE Colonel AKOUYA	15744
+INFANTERIE NOMINATION Colonel OYOUA	15744
+INFANTERIE PRESIDENT DE LA REPUBLIQUE Lieutenant-colonel	15744
+INFANTERIE Sous-lieutenant ELENGA	15744
+INFANTERIE Sous-lieutenant NGOMA	15744
+INFANTERIE Sous-lieutenants	15744
 INFANTIL	4209
+INFANTILE	15475,1142
 INFARMED	10188
-INFAS	9717
+INFAS	9717,6219
 INFAS Man	10056
 INFAS de Man	10056
+INFASS	16099
 InFarm	14622
 Infallibly	12146
 Infalsifiable	10387
 Infancia VIH	1701
-Infant	10780,49,27,1282,13,216,46,226,16,17,291,1157,936,150
+Infant	10780,49,27,1282,13,216,46,226,16,17,291,1157,936,150,421
 Infant Care Support	13080
 Infant Life	13040
 Infant Mortality	12383
@@ -33,20 +68,31 @@ Infant Mortality Rate	12367,16,30,226,760,1657
 Infant Mortality Rate ASFR	12639
 Infant Mortality Rate and Neonatal	12138
 Infant Registration Bill	4534
+Infant Registration Month. Accordingly	15628
 Infant and Child	12367
 Infant and Child Mortality	15247
 Infant and Young Child Feeding	14067,1180
 Infant and Young Child Feeding Counselling	15247
 Infant and Young Child Feeding Practices	15247
 Infant.ID	2447
+Infanterie	15524,377
+Infanterie B	15901
+Infanterie EOA	15692
+Infanterie Enseigne	15901
+Infanterie Lieutenant MANGALA MOCKONDZI	15901
+Infanterie SECTION	15901
+Infanterie Sous-lieutenant BANOUANINA	15901
+Infanterie Sous-lieutenants	15901
 Infantil	4209
-Infantile	9711,4911
+Infantile	9711,4911,1063
+Infantiles	15423
 Infantry Division	4245
 Infants	4301,8082
 Infants and Children Associated With Maternal Supplement	11525
 KDHS Infant	12151
 Life Counts Infant Mortality Rate	12151
 MORTALIDADE NEONATAL E INFANTIL	10777
+MORTALITÉ INFANTILE ET INFANTO-JUVÉNILE Quotient	15557
 MORTALITÉ INFANTILE ET MORTALITÉ JUVÉNILE Mortalité	13300
 Mortalidade Infantil	11537
 Pornografia Infantil	11374
@@ -55,6 +101,7 @@ Primeira Infa	11387
 SAÚDE INFANTIL	10777
 TFR GFR CBR CDR Neonatal Infant	12413
 TRABALHO INFANTIL E PRIMEIRA INFÂNCIA	10777
+Taux de Mortalité Infantile Ratio de Mortalité Maternelle	15599
 Trabalho Infantil	10777
 Tratamento de Sintomas de Doenças Infantis Mais Frequentes	10777
 Trauma Trauma Trauma InfantilContém	966

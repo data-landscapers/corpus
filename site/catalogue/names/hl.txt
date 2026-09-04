@@ -1,6 +1,8 @@
 Berea and Hlotse Police Stations	12763
 Big Five Hlabisa	2626
 Buhleni and Hlane	12977
+CHAPITRE Hl DES REDEVANCES COMMUNALES SECTION	15999
+CHAPITRE Hl SANCTIONS PENALES	15999
 Communication HL7 Version	1009
 Cross-Community Cross-Community Patient HL7 Version	1009
 Cross-referencing for HL7v3	1009
@@ -15,8 +17,9 @@ HL7 CDA R2	1009
 HL7 CDA R2 Consent	1009
 HL7 CDA Release	1009
 HL7 Context Management	1009
-HL7 FHIR	1009,2376,5218,1428,157,740,2750
+HL7 FHIR	1009,2376,5218,1428,157,740,2750,2517
 HL7 FHIR Basic Patient Privacy Consent	1009
+HL7 FHIR Cameroon	16195
 HL7 FHIR IG Publisher	13471
 HL7 FHIR Implementation Guide	13471
 HL7 FHIR R4 Tracking	1009
@@ -35,8 +38,10 @@ HL7v3 Abstract Data Type Specification	1009
 HLEG’s Ethical Guidelines	11050
 HLO-2	6539
 HLO1 Objective	6539,5887
+HLOs. Despite the Bank	15663
 HLSC. The FSTC	14997
 High Resolution HLA Typing	14773
+Hl Ty	15363
 Hl.7 FHIRstandard Release	1009
 HlViCare	9781
 Hlabisa	11986

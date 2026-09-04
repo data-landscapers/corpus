@@ -5,6 +5,7 @@ BOZ TTC	12364
 Bank of Zambia ZIPSS Rules The TTC	12364
 Billing Billing TTC MT298 SMT	12364
 Billing TTC	12364
+Bossangoa TTCo	15661
 CRS TT Muchuru	12138
 CSD Collateral Setup Default TTC	12364
 CSD Transfer Default TTC	12364
@@ -12,14 +13,17 @@ Cash Reserve TTC	12364
 Default TTC	12364
 Digitization TT UNICEF Kenya	12138
 Director General TTCL Moremi Andrea Marwa	8214
+Désignation ETAT ARTF ACSI ANSSI TTF	16047
 ETA and TTOS	6867,1
+Encaissement TTC	16714
 English and Kiswahili TT Ministry	12138
 Ensino Secundário Província TT	10766
 Ensino Secundário TT	10766
 F CFA TTC	3044,145,5132
 F CFA TTC.Le	7670
-FCFA TTC	8577,2398
+FCFA TTC	8577,2398,4998
 FCFA TTC CTD Décision	10975
+I Tte Agreement	15399
 ILF Drawdown Default TTC	12364
 ILF Reversal Default TTC	12364
 ILFDD ILF Drawdown Default TTC	12364
@@ -32,18 +36,26 @@ Index ToC Theory of Change TTL Task	13861
 Komori Tts	8876
 LUSE TTC	12364
 LuSE TTC and VISA	12364
+MGNF Vente TTC	16714
 Message Priorities TTC Priority Default Range	12364
 Message Type TTC Types MT298 SMT	12364
 Nairobi TT Official	12138
+PED TTC	15615
+PFrogramme INDICATEUR TTAUX DE TRANSFORMATION LOCALE	15999
 Partnership TTOS Trusted Tour Operator Scheme	11986
+Primary Teacher Training Center TTCo Primary	15661
 RESMOV Reserve Operation Default TTC	12364
 RTGS Transaction Type Codes TTC Priority	12364
+Reference TSA Treasury Single Account TTCe	15661
 Reserve Operation Default TTC	12364
 Residence Visa TTOS Trusted Tour Operator	5533
+SSE STEP STG TFPs TTL UNHCR	16436
 Standard Gauge Railway. The TTCL-managed NICTBB	9149
 State Security Agency TTOS Trusted Tour	11218
 Sub-Paymaster General’s Account TTs Telegraphic Transfers	13420
+TA Technical Assistance TTL Task Team	15511
 TBE TC TLE TT ZIPs Gabinetes	10766
+TERE He TTS	15363
 TT Capital	12138
 TT Civil Registration Department and United Nations	12138
 TT Forms	12138
@@ -56,9 +68,11 @@ TT Pelowski	12138
 TT Plan International	12138
 TT Registration	12138
 TT UNICEF	12138
+TTC FCFA	16581
 TTC Pacs.010	12364
 TTC Teacher	14922
 TTC Type TTC Code Default Range	12364
+TTC de FCFA	16352
 TTCL Corporation	3954
 TTCL Dar	2868
 TTCL Dodoma Telephone House	2868
@@ -70,9 +84,14 @@ TTCL-to-expand-fibre-optic-cable-to-Burundi	13312,2
 TTCL’s Faiba Mlangoni Kwako	10746
 TTCL’s N-Card	12879
 TTCL’s National Internet Data Centre	10746
+TTCes	15661
+TTCos	15661
+TTCos and NTTC	15661
 TTCs. Energy	12411
 TTErS	14713
+TTL PSIPJ	16012
 TTL Tounwendé Alain Sawadogo. Foundation	1641
+TTNET	15471
 TTOS Visa Application System	11986
 TTOS and TES. Building	5533
 TTOs Technology Transfer Office TVET Technical	14747
@@ -84,6 +103,7 @@ TTTFP	12918,24
 TTaabbllee11	11152
 TTeelleeccoommmmuunniiccaattiioonnss	736
 TTeolewceor	4896
+TThe Risk-Based Approach	16212
 TThhee MMoobbiillee GGeennddeerr GGaapp RReeppoorrtt	11964
 TThheefoformrmuulalauuseseddisisggiviveennbbeeloloww	11152
 TTrans	1001
@@ -91,13 +111,24 @@ TTrans.pdf	1001
 Tanzania President Mwinyi Reviews TTCL’s Digital	10746
 Theory of Change TTC	12175
 Tt NO	14713
+Ttdhoitettloreaanvsooafttiihlc'aetebhs	15399
 Tte0lse&	10965
+Tteintes	15397
+Ttendre	15429
 Tthaistcishtaipctse	12151
+Tthheeiynchreaavseinpglnauymedbeinr	15713
+Tthhriesavtsi	15713
 TtmreeanttmaenndtSaunpdplSyuNpPpPlIy	11152
 Ttodeterminewhethertwoentitiesareconsideredsimilar	8606
+Ttoni	15429
+Ttop. Toutefois	15907
+Ttre I'infroclion	15429
+Ttribuiions	15429
+Ttribué	15397
 TtéAgiPeEd5e	10711
 Under TTOS	11218
 VISA TTC	12364
+Vente TTC	16714
 WB TTL	973
 ZECHL TTC	12364
 Zanzibar TTCL	6083

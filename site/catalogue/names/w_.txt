@@ -3,6 +3,7 @@ AMERICA M Mexico W	11964
 ASIA Indonesia W	11004,960
 Akinyi W. Ooko Ombaka	8898
 Anys W	8606
+Análise SWOT S Força W Fraqueza	15684
 B. W	5349
 Bangladesh W	11004,960
 Brunette W	1219
@@ -31,6 +32,7 @@ Guatemala LATIN W	11004,960
 H. L. Zhang and W. Y. Leong	6948
 Head for Addis Ababa Projects W	12195
 Hon. W. B. Mmolotsi	12607
+Horace W. Goldsmith Foundation	15487
 I. W. Parry	11140
 India W	11004,960
 Indonesia W M Pakistan W M	11964
@@ -50,6 +52,7 @@ M Mexico W	11964
 M Senegal W M Tanzania W	11964
 M Uganda W M Bangladesh W	11964
 M W Base	11004,960
+M W Capacité	16037
 M W Year Yearly Peak Demand	14745
 M. W	899,6987,717
 MTN Digital Infrastructure Project E2 W	4069
@@ -65,6 +68,8 @@ Mohammed W	766
 Ms. Catherine W. Mugwe	14505
 Mutale W	766,10014,101
 Mutale W. Challenges	10919
+N S E W	15593
+N S E W Reference	15593
 N. W. Ezechukwu	11994
 NLM W	14898
 NM M W Figure	1154
@@ -94,6 +99,7 @@ Samuel W. Ugwumba	6521
 Schedule. FILLEMON W. IMMANUEL MINISTER	13189
 Secretary for Trade and Industry Dr. W. T	13053
 Senegal W	11004,960
+Shawn W	15424
 Shiroro 1 Others W	12062
 Sri Lanka W	11004
 Stahl-Timmins W	7187
@@ -103,6 +109,7 @@ T. W	9759
 Tanzania W	11964
 Tara Nutley and Heidi W. Reynolds	14434
 Terefe W. Level	1219,11036
+Thomas W. Giambelluca. Spatial	16135
 Tseiblaagte A W. K. Rover Hall	13046
 U Gre W Figure	2776
 U Y W	9237
@@ -111,7 +118,11 @@ Uganda W	11004,960
 V R E T A W	11236
 Van Damme W. Community	12255
 W A SA NGU IE KADIOGO	10847
+W ACC BRAZZAVILLE CONTROLE	16552
 W Africa	2772,847
+W B L I Q	15608
+W BANQUE NATIONALE DE GUINEE SA	16623
+W BUREAU VERITAS BUREAU VERITAS	16623
 W Base Station	736
 W Cap. Exp	5655
 W Centre	13185
@@ -119,13 +130,22 @@ W DC	13387
 W Description	15129
 W Dete Solar Mini-Grid	13614
 W Digital X-ray	12678
+W E L	15608
+W E N	15608
+W ECOBANK GUINEE ECOBANK GUINEE	16623
 W EN	736
+W FCBB AD	16552
+W FIS BRAZZAVILLE INFORMATION	16552
 W Flex Slot Platinum Hot Plug	12681
+W GLOBAL OUTDOOR SYSTEMS GUINEE SARL	16623
 W Hardware IBM International Business Machines	13341
+W I C	15608
 W IPO Intellectual Property Statistics	12487
 W J BOSHOFF	11272
 W Kilowatt	3184,1,1340,6256,80,134,1432,2055
 W Kilowatt LACP Link Aggregation Control	13185
+W L A R	15608
+W L G	15608
 W M ASIA Indonesia W M	11004
 W M Bangladesh W M India	11004
 W M Guatemala LATIN W AMERICA	11964
@@ -134,16 +154,29 @@ W M Pakistan W M Philippines	11964
 W M Senegal W M Tanzania	11964
 W M Senegal W M Uganda	11004
 W M Uganda W M Bangladesh	11964
+W N A L	15608
 W N E O ST R	582
 W Non-specific	736
+W O F F I C	15608
 W O P F R W	14985
 W Objectif	13524
+W Paul Menzel	15907
 W Processor	12681
 W R F	14985
 W Rated Capacity	11953
 W SA NO TOTAL NO	2776
+W SGS MINERAL SERVICE GUINEE-SARL SGS	16623
+W SOC GUI DES ETS DUFOUR	16623
+W SOCIETE BCG SA SOC BCG	16623
+W SOCIETE ENDEAVOUR GUINEE SARLUNIPERS ENDEAVOUR	16623
+W SOCIETE FLUICONNECTO GUINEE SARLUNIPERS F	16623
+W SOCIETE WEILY KAKINBO GROUP SA	16623
+W SOGUIFRIP SARL SOGUIFRIP	16623
+W STAR OIL SA STAR OIL	16623
 W Signals Video	34
 W Software SGE Secrétariat Général	13341
+W TOP GUINEE SARL TOP GUINEE	16623
+W TWR BRAZZAVILLE TOUR	16552
 W UPS	9123
 W USB Type	13524
 W Uptime-certified	5793
@@ -180,6 +213,7 @@ W. P. Carey School of Business and ASU	13258
 W. Penalty	14843
 W. Puissance	13844
 W. R	8604
+W. Son	16621
 W. Venters	5700
 W. W. Norton	8380
 W. W. Powell	5349

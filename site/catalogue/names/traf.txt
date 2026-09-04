@@ -1,7 +1,9 @@
 AB Traffic	9781
 AIDS Malaria Pneumonia Tuberculosis Road Traffic	12151
+AIRES DE TRAFIC	15774,778
 AMENDMENT OF THE ROAD TRAFFIC ACT	6921
 AN. Traffic Management and Road Safety Unit	7845
+AU TRAFIC Lorsque	15643
 Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Accidents Road Traffic Accident Respiratory Infections	12151
 Administrative Adjudication of Road Traffic Offences	7755
@@ -11,6 +13,7 @@ Air Traffic Management System	261
 Anti-Human Trafficking Act	2726,5754,4923
 Anti-Human Trafficking Department Director Boris	8480
 Application Service Providers ATCOs Air Traffic	2775
+Assistant Director of Traffic Information Systems Fady	15992
 Awareness Against Human Trafficking	7167
 B Smart Traffic Project	9647
 BBS Traffic Fig. VI.7	13341
@@ -38,6 +41,7 @@ Combatting of Trafficking	14742
 Commercial Cargo and Mail Traffic	2775
 Commercial Passenger Traffic1	2775
 Communications Sector Drive Traffic	12395
+Congo and Gabon. Traffic	15553
 Container Freight Traffic	2775
 Courier Traffic	6671,3110
 D.G. DE TRAFICO RODADO Y SEGURIDAD	4209
@@ -47,6 +51,7 @@ DEL.REG. DE TRAFICO	4209
 DEL.REG.DE TRAFICO RODADO	4209
 DELEG. TRAFICO GESTIÓN DE GOBIERNOS GOBIERNOS	4209
 DOMESTIC MOBILE TRAFFIC	2776
+DOMESTIC MOBILE TRAFFIC Domestic Mobile Voice	16043
 Data Traffic	2776,3224,6395
 Data Traffic Market	6000
 Data Traffic NB	6000
@@ -60,6 +65,7 @@ Domestic Fixed Network Traffic	6671
 Domestic Fixed Voice Traffic	6671
 Domestic Fixed Voice Traffic Fixed	6671
 Domestic Mobile Off-Net Voice Traffic	2776
+Domestic Mobile SMS Traffic	16043
 Domestic Mobile Traffic	6671
 Domestic Mobile Voice Traffic	2776
 Domestic Mobile Voice and SMS Traffic	6671
@@ -82,7 +88,7 @@ Fixed Broadband Traffic The Total Fixed	2776
 Fixed International Voice Traffic	15136
 Fixed Internet Data Traffic Market	6085
 Fixed Internet Traffic	15136
-Fixed Off-Net Traffic	2776
+Fixed Off-Net Traffic	2776,13267
 Fixed Telephone Voice Traffic	15136
 Fixed Traffic	3862
 Fixed Voice Call Traffic	3862
@@ -163,7 +169,7 @@ Message Services Traffic	2775
 Metre Gauge Railway Traffic	2775
 Minutes Traffic Q3	2776
 Mkalipi. The Road Traffic Infringement Agency	7755
-Mobile Data Traffic	2776
+Mobile Data Traffic	2776,13267
 Mobile Data Traffic Eswatini Mobile	12395
 Mobile Data Traffic Figure	2776
 Mobile Data Traffic Recovery	12395
@@ -171,7 +177,7 @@ Mobile International Voice Traffic	15136
 Mobile International Voice Traffic Trends	15136
 Mobile Internet Traffic	2776
 Mobile Malawi Traffic Information System	13060
-Mobile Off-Net Traffic	2776
+Mobile Off-Net Traffic	2776,13267
 Mobile Off-Net Traffic Distribution	2776
 Mobile SMS Traffic	6000,671
 Mobile SMS Traffic International Incoming SMS	6671
@@ -189,8 +195,10 @@ Mobile Voice Traffic Minutes of Use	2776
 Mobile Voice Traffic Volume	15136
 Motor Traffic Act	3061
 Motor Traffic and Transport Department	9205,1876
+N OCT-24 NOV-24 DÉC-24 Trafic SMS	15707
 NATIONAL MOBILE TRAFFIC	11211,51
 NATIONAL TELEPHONE TRAFFIC	3862
+NATURE DU TRAFIC PLAFOND DE PRIX	15394
 NETWORK TRAFFIC	11211,51
 Namibia Traffic Information System	12476
 National Agency for Prohibition of Trafficking	11928
@@ -214,9 +222,10 @@ Off-Net Domestic Mobile Voice Traffic	2776
 Off-Net Domestic Voice Traffic	2776
 Off-Net Domestic Voice Traffic Mobile-to-Mobile Off-Net	2776
 Off-Net Traffic Distribution	2776
-Off-Net Voice Traffic	6671
+Off-Net Voice Traffic	6671,9372
 On-Net Domestic Mobile Voice Traffic	2776
-On-Net Voice Traffic	2776,3895
+On-Net Trafic SMS Off Net National	15707
+On-Net Voice Traffic	2776,3895,9372
 Out-bound Roaming Outgoing Voice Traffic	6671
 Outbound Roaming Traffic	6671
 Outgoing Fixed Voice Traffic	6671
@@ -287,6 +296,7 @@ SMS Traffic	2776,4170,5655,2535
 SMS Trafic	13414
 STATISTIQUES DE TRAFIC RELATIVES AUX SERVICES	13500
 Safety of Services Traffic and Road Safety	1988
+Show Traffic and Wait	15867
 Smart Traffic Management System	9394
 Smart Traffic andSmart Police	14729
 South African National Traffic Information System	12309
@@ -303,6 +313,10 @@ TRAFFIC ACCIDENTS ALONG THE GREAT EAST	13387
 TRAFFIC CASES	12920
 TRAFFIC DATA	3862
 TRAFFIC TELEMATICS	12949
+TRAFIC VOIX ET SMS	15707
+TRAFIC VOIX OFF-NET INTERNATIONAL	15707
+TRAFIC VOIX OFF-NET NATIONAL	15707
+TRAFIC VOIX ON-NET	15707
 TRAFIGO SARL	6597
 TRAFITECH	11062
 TRAFSCAN	4813
@@ -317,7 +331,7 @@ Telecommunications Traffic Monitoring	15120
 Telecommunications Traffic Monitoring Guideline	15120
 Telecommunications Traffic Monitoring Regulation	15120
 Telephone Call Traffic	2775
-Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124,1026,232,1146,339
+Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124,1026,232,1146,339,252,220,451
 Traffic Acci-	12151
 Traffic Acci- Kidney	12151
 Traffic Acci-385Heart	12151
@@ -343,6 +357,7 @@ Traffic Law Enforcement	11494
 Traffic Light Protocol	10721
 Traffic MTC	1013
 Traffic Management Centres	10603
+Traffic Management and Emergency	15659
 Traffic Management and Road Safety Unit	7845,6933,50
 Traffic Management for Protected Areas	1132
 Traffic Monitoring Dashboard Application	12395
@@ -366,10 +381,15 @@ Traffic and Usage	3990,5791
 Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30,118
 Trafficking Data	1243
 Trafficking In Persons	12373
-Trafic	9781,3543,90,86,86
+Traffrika	15830
+Trafic	9781,3543,90,86,86,1907,214
 Trafic International Entrant	11597
-Trafic SMS	13324
+Trafic SMS	13324,2383
+Trafic SMS Off Net International D’un	15707
 Trafic SMS Troisième	13586
+Trafic SMS Volume	15707
+Trafic Voix	15707
+Trafic Voix Volume	15707
 Trafics	13414
 Transit Traffic	2775
 VoIP Voice Traffic Trend	3862
@@ -380,6 +400,7 @@ Voice Traffic	2776,3895,8465
 Voice Traffic Fixed	2776
 Voice and Data Traffic	718
 Volume of BWA Traffic	2776
+Volume of International Traffic Sources	15424
 Volume of Internet Traffic	2776
 Volume of Traffic	2776
 Volumes of Mobile Voice and Mobile Data Traffic	2776

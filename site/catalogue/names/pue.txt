@@ -1,3 +1,4 @@
+AT&T MOBILITY PUERTO RICO INC	15471
 Average PUE	10157
 Clase Pueblo Adjunto	4209
 Committee PUE Power Usage Efficiency PURA	1264
@@ -11,6 +12,7 @@ FX Foreign Exchange PUE Power Usage	3184,1,1340,6470
 Haiti Jamaica Montserrat Nicaragua Puerto Rico	13042
 Manufacturer POP Point of Presence PUE Power	10781,1646,2055
 Manufacturer PoP Point of Presence PUE Power	10861
+Maria Rosa Puech and Rocio Schmunis	15959
 ONSA PUE SBG SGCGC SLA SOC	10157
 POTRAZ PPP PUE Q1 Q2 Q3	4528
 PPP Public-Private Partnership PUE Power Usage	12512
@@ -22,6 +24,7 @@ Parlamento Pueblo	4209
 Philippines Pitcairn Poland Portugal Puerto Rico	11470
 Presence EAC East African Community PUE	3184,1,1340,6470
 Prioritize PUE	12399
+Project Implementation Unit PUE Power Usage	15621
 Proyecto de Puesta	4209
 Pueblo	1701,2508,967,528
 Pueblo Adjunto	4209
@@ -32,7 +35,9 @@ Puentes	4209
 Puerperal	10780
 Puerperalna	10780
 Puerta	1701
-Puerto Rico	11609
+Puerto Rico	11609,3862
+Puerto Rico Saint Kitts and Nevis Saint	16631
+Puerto Rico Telephone Company	15471
 Puerto Seco de Ebebiyín	8554
 Puerto Seco de Ebibeyín	4209
 Puertos	4209

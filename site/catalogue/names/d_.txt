@@ -9,7 +9,9 @@ ANEXO D	11406,50
 ANNEX D	3861,3337,6767
 ANNEXE D PERSONNEL DE L’ENQUÊTE DÉMOGRAPHIQUE	13300
 ANNEXURE D	5533,6453
-APPENDIX D	11857,3292
+APPENDIX D	11857,3292,425
+ASTM D	15503
+Abdoul-Aziz Bio Sidi D. Bouko	16135
 Account Holder. D. Review of Pre-existing High	11233
 Act D	14790
 Act. Part D Insert	3714
@@ -26,8 +28,9 @@ Annex D	3861,3337,3516,3296,750,167
 Annex D. ECE	13990
 Annex D. Estimation Method	10714
 Annex D. Just	14010
-Annexe D	13300,394
+Annexe D	13300,394,1861,346
 Annexe D AGENTS DE DENOMBREMENT ET	13300
+Annexe D ANNEXE TEG	15901
 Annexe D NDUWAYEZU Esperance NSENGIYUMVA J	13300
 Annexe D NSABIMANA Odette SHUGUGU Richard	13300
 Annexe D Referentiel	14472
@@ -89,12 +92,19 @@ C- Sibling C- Smartphone D	582
 C. D	1248,7423,4953
 C. Legal Operational Policies D. Environmental	1264,5275
 CAPACITY D. Certificate	12693
+CFA. D- DIVERS	15757
+CFA. PRESIDENCE D	15999
+CHU. D	15711
 COMITE MEF D	10876
+COMMISSARIAT D	16100
 CONGO D. Policy Advice	1828
+CONGOLAIS D	15660
+COTE D' IVOIRE	15461
 CSP CSP CSP D C S	9123
 CSP CSP CSP D S	9123
 Cabo Verde D G A P	6530
 Cameroon Oluniyi D. Ajao	10244
+Cameroon. D. RISK TO DEVELOPMENT OUTCOME	15601
 Cash Transfer Beneficiaries D. Results Chain	10768
 Categoria D	12018
 Categoria D Fica	12018
@@ -102,6 +112,7 @@ Category D	11868
 Celador Comisario Grupo D Coordinador Grupo	4209
 Central African Rep. D	11867
 Chad D	11867
+China D the China Intemational Economic and Trade	15399
 Chiukepo Nyirenda D	13392
 Christopher D. Golden	14656
 Christopher D. Golden Abstract. Reliable	14656
@@ -113,6 +124,7 @@ Cobos Muñoz. D.. C. Abouzahr and D	12413
 Comisario Grupo D	4209
 Comissão Nacional de Proteção de Dados Av. D	3079
 Commissioner Lerato D. Mataboge	5092
+Communications D	15757,566
 Company. Part D Insert	3714
 Component D	13731
 Componente D	11416
@@ -131,15 +143,20 @@ D AGENT DE SANTÉ AGENT	13300
 D AMI	13300
 D AMODIAQUINE	13300
 D AND A HAULIERS LIMITED Data	7167
+D ANTIPARKINSONIENS	15930
+D ANTISPASMODIQUES	15930
 D AUTRE PARENT	13300
 D AUTRE X	13300
 D AUTRE X A. Souffrez-vous	13300
 D Animation	6832
+D Attomey General	15399
 D B B	12500
 D B M	14947
 D B MOR's Internal Audit Directorate	12500
 D B S	13300
+D BATCO ENGEENERING BATCO	16623
 D BEESLEY	11272
+D BUSINESS MERCANTILE SERVICES COMPANY LOGISTIQUE	16623
 D Barcode	14740,1
 D Boygah General Manager MSB	14736
 D Budgetary	961
@@ -148,10 +165,14 @@ D C P9-32-2	12500
 D CENTRE INDÉPENDANT DE TEST INSISTEZ	13300
 D CNPC NIGER	998
 D CODE APPROPRIÉ U ET SIGNEZ	13300
+D CONSELHO SUPERIOR DA MAGISTRATURA JUDICIAL	15404
 D Change Management XUA Cross-Enterprise User	1009
 D Clustering Figure8	8606
 D Combien	13300
+D Commission	15901
 D Committee	14011
+D Compte	15901
+D Conditions	15901
 D Convolutional Neural Network for Robust Hyperspectral	14769
 D Coordinador Regional Grupo D Delegado	4209
 D D CIT and VAT	12500
@@ -178,14 +199,16 @@ D Deput	13524
 D Description	15129
 D Diplomacy	3803
 D Diplomacy'. Benin's DPI	3803
+D Disponibilité	15493
 D Duplex I Simplex	736
 D During the Deployment	11006,1
 D DÉMOGRAPHIQUE ET DE SANTÉ	13300
 D E C E N T	14935
-D E C R E T	1231,13183,4
+D E C R E T	1231,13183,4,935,8,1,9,4,37,16,28,222,3
 D E C-	582
 D E ENCERCLEZ LE ACCORDÉ	13300
 D E L IV E R	14935
+D E M O C R	15372
 D E N T REPRESENTATIVE	11586
 D E- Desktop	582
 D E- Facetime F- Twitter E-	582
@@ -193,21 +216,25 @@ D E- Professional	582
 D ENCERCLEZ LE ACCORDÉ	13300
 D ENREGISTREZ TOUT CE QUI EST	13300
 D EST DU SECTEUR PUBLIC OU	13300
+D ETS	16623
 D Engage International AUC	961
 D Explanation	5533
 D F- Satellite	582
 D FILLE	13300
 D Figure	14674
+D Frais	15999
 D GOUVERNEMENT	13300
 D GovTech Maturity Index Low GovTech	13984
 D Gqibela	11285
 D H Cadastro	11527
 D Handheld D Vehicle Mounted Others	736
 D I G I T	11586
+D I V I S	15478
 D IE PARLEMENT van Suid-Afrika	11190
 D IFOMU	11573
 D IMPLANTS	13300
 D INCONNU	13300
+D INDEX SERVICE ORY AFFAIRS CA	15999
 D IO N S S	11522
 D IO N S S Article	11522
 D IO N S S Vu	11522
@@ -216,6 +243,7 @@ D Imininingwane	11573
 D Information Modeling	8604
 D Initiative	13461
 D J I B O U	13868
+D JUIL	15485
 D Jurisdiction	972
 D Line	11405
 D Low	13984
@@ -223,6 +251,8 @@ D Lupungela Acting Deputy Director-General	11261
 D MEDICAL CENTRE LIMITED Data Controller	7167
 D MENTIONNÉ. AGENT DE SANTÉ COMMUNAUTAIRE	13300
 D MENTIONNÉ. COMPRIMÉS COMPRIMÉS QUININE	13300
+D MENUISERIE-EBENISTERIE-ALUMINIUM MENEMA	16623
+D MOOLMAN MINING GUINEA MOOLMAN MINING	16623
 D Malawi	14674
 D Mdoda	11289
 D Minimal Focus	11867
@@ -231,13 +261,20 @@ D Mytton	14673
 D N D-	582
 D NE PEUT PAS TOMBER ENCEINT	13300
 D Nations Unies Convention	13442
+D Nombre	15493
 D O IT F	582
+D OIL SERVICES	16623
 D OU PRIVÉ	13300
 D P2-3-2	12500
 D P2-7-1	12500
+D PAPETERIE CENTRALE PAPETERIE CENTR	16623
 D PARENT	13300
+D PFR	15399
+D PRICE WATERHOUSE CONSEIL PWC	16623
+D Page	15936
 D Participate	961
-D Printing	958,13771
+D Performance	15493
+D Printing	958,13771,824
 D Private Company D Government Institution	736
 D Private Institution D Farming D	736
 D Programa	4209
@@ -254,14 +291,30 @@ D Region	13189
 D Right	13189
 D S T R E N	11586
 D S Through the GEF Small Grants	11586
+D SDS-2026-2030.pdf Author	15961
+D SIMFER SA SIMFER SA	16623
 D SM	582
+D SOC D'ETUDES ET DE TRAVAUX	16623
+D SOC GUINEENNE DE MECHES SOGUIME	16623
+D SOCIETE AFRICAINE DE COMMERCE CONSTRUCTION	16623
+D SOCIETE AT BAH BTP SARL	16623
+D SOCIETE AYILA-INTERNATIONAL-SARL AYILA-INTERNATIONAL-SARL	16623
+D SOCIETE CONAKRY TERMINAL SOC CONAKRY	16623
+D SOCIETE EKAP	16623
+D SOCIETE FLEXGUINEE SARL UNIP FLEXGUINEE	16623
+D SOCIETE PALMA GUINEE SA PALMA	16623
+D SOCIETE TAHUIGUI SARL TAHUIGUI	16623
+D STATUTORYAFFAIRS CARB INDEX SÉRVICE	15999
 D SVA E Broadcasting Reference	5679
 D Secretaría General	4209
 D Secure	5795,2682,1941
+D Services	15474
 D Spam Any	972
 D TABAC	13300
 D THE GOVERNMENT	4049,252,1051
 D TRADITIONNELLE	13300
+D TRUE CC	15999
+D TRUE COPY Prooramme LIBELLE OBJECTF	15999
 D Technologies	14190
 D Term	11177
 D The GTMI	10785
@@ -270,34 +323,45 @@ D The Network Access Support Project	182
 D The VAT	12500
 D Transparence	10975
 D UHLU LOKUHLOLA Ikhophi	11573
+D URL	16393
 D Unlawful	972
 D Unsatisfactory E Very	5679
-D Use	14674
+D Use	14674,1878
 D Visualization Dispute Resolution Digital	12211
+D Voie	15674
 D Vous	13300
 D While the African	961
 D Wireless Plus Limited Digital Address	3386
 D Woodington	11289
 D Yes N	10714
+D ZO U A K	15901
 D and Karvonen	2096
 D and McMurren	2096
 D and Trappmann	2096
 D da Lei	11532
+D du Sud	15493
+D exe 98-69 instituant-IANOR-FR.pdf	15347
 D of Section	11233
 D van Tonder	11289
 D' CODE	13300
 D' ENCERCLÉ NON ENCERCLÉ NON AMODIAQUINE	13300
+D- Amortissements	15999
 D- Browse	582
 D- C982A5F316060E452D52BFB41A75F	14932
+D- DGAE	16177
 D- Definitional	7548
 D- Deploy Strategic Deployment of Community Access	11857
 D- Documentation	7548
+D- EXONERATIONS	15534
 D- Establish	11857
+D- Exonérations	15534
 D- F Transparence	10975
 D- Learning D- IMO E- Snapchat	582
+D- MESURES RELATIVES A L’ACCOMPAGNEMENT FISCAL	15999
 D- Mobile	582
 D- No T C- Terrestrial	582
 D- Notebook	582
+D- PLATEFORMES DES MESSAGERIES	15999
 D- Parent	582
 D- Privacy	582
 D- Religious	582
@@ -305,10 +369,12 @@ D- Sur	582
 D- Transparence	10975
 D- Value-added	5864
 D. A	4676,3625,370,3698
-D. AU TITRE DU MINISTERE	7670
+D. ANALYSE DES EFFETS POTENTIELS	15542
+D. AU TITRE DU MINISTERE	7670,8006,266,345
 D. AU TITRE DU MINISTERE DES	8321
 D. Amaglobeli	1828,9312
-D. Availability	14821
+D. Analyse	15542
+D. Availability	14821,783
 D. Avison	5349
 D. B	8603,68,4307
 D. B. and Ermon	12006
@@ -318,6 +384,8 @@ D. Basic Literacy Sign Language Training	12977
 D. Bills	2626
 D. Business Planning Process	11469
 D. C	7886,3699
+D. C. C	16263
+D. CC	15602
 D. CHRONOGRAMME DES ACTIVITES RELATIVES	13478
 D. CONDITIONS D'ADHESION AU SYRAD	13838
 D. Cadre	14437
@@ -328,7 +396,7 @@ D. Chong	5700
 D. Coady	1828
 D. Commercial Relations	12979
 D. Compounding	14809
-D. Concept Description	12426,685
+D. Concept Description	12426,685,2402,1162
 D. Concept Description A US	12137
 D. Concept Description The Project Development	15097
 D. Conflict	7886
@@ -341,10 +409,12 @@ D. Cross-Border Data Transfers Requirement	13381
 D. Current	13040
 D. DATA REPORTING	11860
 D. DEVELOPMENT PARTNERS COORDINATION	11863,2075
+D. Dans	15901
 D. Deadline	13039
 D. Delivery Channel and Product Innovation	14897
 D. Deuff	5349
 D. Development Partners Coordination D.1	11863
+D. Digitalisation	16328
 D. Disbursement Linked Indicators and Verification Protocols	11905
 D. Documentation	7977
 D. Duty	7845
@@ -357,7 +427,11 @@ D. Eaves	5700
 D. Education Information Reporting	13310
 D. Elle	2603
 D. En	1701,902
-D. Environmental and Social	969,295,603,1737,2935,4229,196,416,37,143,1771,1,1605
+D. Ensure	15604
+D. Ensuring	15604
+D. Environmental	15743
+D. Environmental and Social	969,295,603,1737,2935,4229,196,416,37,143,1771,1,1605,554,24,3,35,68,37,1,2
+D. Environmental and Social Triggered	15553
 D. Error Handling and Logging	15161
 D. Esta	9176
 D. Estimating The Size of Fuel Subsidies	1828
@@ -373,6 +447,7 @@ D. Family	14031
 D. Filing of Tax Declarations	12500
 D. Fintech Trust and Safety Charter	4848
 D. Fostering	11140
+D. Freedom	15968
 D. G	8301
 D. G DE EDUCA. ESPECIAL	4209
 D. G DE ENSEÑANZA SECUNDARIA	4209
@@ -413,14 +488,17 @@ D. Howarth	11028
 D. Human	3583
 D. Human Capital Human	11140
 D. Humanitarian	3583
+D. I. F. Grimes	16135
 D. ICT	14853
 D. ICT EQUIPMENT AND SERVICES	14853
 D. INFORMATIONS GÉNÉRALES	2342
+D. Improve	15604
+D. Improving	15604
 D. Indemnity	14730
 D. Indicateurs	822
 D. Industrial	7845
 D. Interest	14717
-D. JUSTIFICATION OF OVERALL OUTCOME RATING	11924
+D. JUSTIFICATION OF OVERALL OUTCOME RATING	11924,3500,87,90,62,68,705
 D. K	8605
 D. Kaufmann	1264
 D. Kiron	4432
@@ -430,6 +508,7 @@ D. Lack	3583
 D. Lawless	5700
 D. Legal Framework	14742
 D. Legal Operational Policies	1284
+D. Lessons Learned and Reflected	15411
 D. Leviers	1218
 D. Load and Performance Testing	13185
 D. L’entreprise	12885
@@ -440,6 +519,8 @@ D. MINISTERE DE LA SANTELe Conseil	7670
 D. MOBILIERS ET EQUIPEMENTS	13478
 D. MONITORING AND EVALUATION	11863,2075
 D. Mavridis	11140
+D. Mise	15542
+D. Monitoring	15924
 D. Monitoring and Evaluation	11863,2075
 D. Multiphase Programmatic Approach	3604,2935,4878
 D. Mumby	5349
@@ -457,41 +538,49 @@ D. Notification Proposers	5773
 D. Notwithstanding	11233
 D. Objection	14809
 D. Offering	14843
+D. Original Project Description and Performance	15983
 D. Ossouna	1828
 D. Output Encoding	15161
 D. P	13532
 D. P. Gaonkar	11050
 D. P. I	5700
+D. PROCEDURES DE DIFFUSION ET D’ARCHIVAGE	15595
 D. PROJECT COST AND FINANCING ARRANGEMENTS	11863,2075
 D. Pajank	1828
 D. Pandey	6948
 D. Partenariat	8556
 D. Payment	7845
 D. Phokeer	14724
+D. Poda	15715
 D. Policy Advice	1828
 D. Policy Development	5676
 D. Policy Development Consumer	5676
+D. Poste	16552
 D. Prady	1828
 D. Preliminary Description Activities	13523
 D. Prihardini	11140
-D. Procurement	11525,440
+D. Prior	15553
+D. Procurement	11525,440,3407,39
+D. Procurement Procurement	15372
 D. Producer Price Index	14777
 D. Progress	14853
+D. Project Components	15743,401,240
+D. Project Components Component	15743
 D. Project Cost and Financing Arrangements	13938
 D. Project Cost and Financing Arrangements Financing	11863
-D. Project Description	1704,1752,7507,3613
+D. Project Description	1704,1752,7507,3613,938,1140
 D. Project Description Investment Project Financing	761
 D. Project Description This Project Paper	14553
 D. R	4676
 D. REAFFIRMED STANDARDS S	15027
 D. REVISED STANDARDS ENGINEERING AND URBAN	15027
-D. RISK TO DEVELOPMENT OUTCOME	11924
+D. RISK TO DEVELOPMENT OUTCOME	11924,3500,87,90,62,68,705
 D. Rapid Growth	11140
 D. Rationale	1264,13646
 D. Rationale for Additional Financing	13459
 D. Rationale for Bank Involvement	11417
 D. Rationale for Bank Involvement and Role of Partners	6539
-D. Rationale for Restructuring	14971
+D. Rationale for Restructuring	14971,831,167
 D. Rationale for World Bank Involvement and Role	3604
 D. Recent Successes	11140
 D. Recommendations	1828
@@ -502,29 +591,37 @@ D. Religion	7886
 D. Remittance	14717
 D. Response	14777
 D. Results	11549
-D. Results Chain	969,295,603,8901,61,135,416,180,295,1476,1,1578,27
+D. Results Chain	969,295,603,8901,61,135,416,180,295,1476,1,1578,27,554,24,3,35,68,37,1,2
+D. Results Chain E. Rationale for World	15518
 D. Results Chain Figure	13331
 D. Results Chain Note	10829
 D. Results Framework and M&E Capacity	11905
 D. Rework	15161
 D. Rights	3583
+D. Risques	16613
 D. Role of Ministries	11525
 D. S	1828,2848
 D. S. V	8605
+D. SOUS-SECTEUR TECHNOLOGIES DE L’INFORMATION ET	15542
 D. STATUS ON THE IMPLEMENTATION	12597
 D. SUBMISSION OF BIDS	14766
 D. Scope of Works	14927
 D. Section VI Due Diligence	11233
+D. Sector and Theme Codes E. Bank	16614
 D. Security Controls	14759
+D. Seidenfeld	15658
+D. Sims	15473
 D. Soares	2093
 D. Somaliland Subsidiary Agreement	14912
+D. Sous-secteur TECHNOLOGIES	15542
 D. South Africa	11233
+D. Streamline	15604
 D. Structural Reforms	13868
 D. Submission of Applications	1638
 D. Submission of Bids	14766
 D. Submission of Proposals	15080
 D. Support	14723
-D. Sustainability	10829,2466
+D. Sustainability	10829,2466,2463
 D. Sustentabilidade	11451
 D. TERMINAL STATION TECHNICAL PARAMETERS	14825
 D. THE RIGHT	14073
@@ -532,9 +629,12 @@ D. Talent	14819
 D. Tax Expenditures	10997
 D. Tax Policy Complexity	13624
 D. The Last Mile	11857
+D. Tobrome	15715
 D. Tourisme	13290
 D. Traitement	13375
 D. USING DIFFERENT SOFTWARE MODELS	14853
+D. Une	16393
+D. Update	15604
 D. Using	14853
 D. Variance Explanations and Way Forward Actions	12977
 D. W	8301,4032
@@ -542,26 +642,34 @@ D. Whitenack	11140
 D. Whittingtonb	12233
 D. You’re	7886
 D. and Akello	6436
+D. and B. Lanvin	15493
 D. and Banda	11994
 D. and Bester	6445
 D. and Jackson	12090
 D. and Kooijman	12333
 D. and Rao	2123,5099
 D...... Draft	13035
-DECRET D	233,1
+DE FOTJRN ITURIl D	15399
+DE GUINEE DECRET D	16733,1,1
+DECRET D	233,1,16403,96,1,1
 DIGITALIZATION LIFE CYCLE Deployment D	11007
 DOSSIER D	13524
+DSID D	15936
 DSRP D	2966
 DU D H	11527
 Daniel D. Daka Commissioner General DIRECTORS	13053
 Date Signature Summary Form D	14713
 Dd D Q A Mm S	163
 Department DDiplomatic Mission D Public Company	736
+DeÞnitions and Interpretation D	15901
 Digital Financial Services D. FINANCIAL ACCESS	14897
 Disability D- Glo I A-	582
 Disability Rights Watch Sub-Part D	14743
 Display Início Orgânica D G	6530
 Djibouti. D. Development Partners Coordination	13938
+Djie Sita D Antoinette Kiemde Traore	16384
+Domaine des SYSTEMES D	15542
+Dr. C. D. Pande	16331
 Dr. C. G. D. N. Chiwenga	1554
 Dr. D K Hurreeram	14736
 Dr. D. Mboweni	4263
@@ -570,7 +678,8 @@ Dr. ERNEST NSABIMANA D G	718
 Dr. Emmerson D. Mnangagwa	958
 Dugar D. Benefits of EMR	12379
 Débit A.G.C. D	13377
-Décret D	142,22,69,1,512
+Décision D	15421,1205
+Décret D	142,22,69,1,512,15870,14,4,11,1,5
 E G D	12674
 E I T D	11522
 E N D	12328,2634
@@ -584,7 +693,9 @@ E- Surfline B- Yes Desktop D-	582
 E. D	12333
 E. D. Mnangagwa PREFACE	13391
 E. D. Mnangagwa PRESIDENT	13320
+EMISs. D. Ensure	15604
 ESURES D' OMP N RIFoRME DEs	14479
+ET REGLEMENTAIRE D STATUTORYAFFAIRS CARD INDEX	15999
 ETSwitch. D. Implementation Progress Component	14010
 EU CSP D C S	9123
 EU CSP D S	9123
@@ -607,6 +718,7 @@ F- Busy D C- Yes Tablet	582
 F. D	5349,2781,541,2092,1164
 F. D. Davis	5349
 FOCUS D Digital	14897
+FRERES E D E F	16623
 Figure D	12062
 Friend D- Glo D	582
 G A B C D	236
@@ -615,15 +727,18 @@ G D P Public	11248
 G D P R	8436
 G D P R Article	8436
 G E N D E R	11586
+G Y A N D L	15478
 G- Digital I Terrestrial TV D	582
 GDPHQWH D UHVLGrQFLD VXSHULRU D YLQWH	11530
 GHz D PETROLEUM S.A ARCEP	998
 GOUVERNANCE ET SUIVI-ÉVALUATION DU SYSTÈME D	14483
 GOVERNMENT CENTRE PLACE D’ ARMES	14778
 GOVERNMENT OF THE D STA	4302
+GR D	15744
 Gabon D	11867
 Gambia D	11867
 Gathara D	10780
+Gaz Décision D	15421
 Geral de Política de Justiça D G	6530
 Gestão D G P J Direção	6530
 Global Standards and Frameworks Annexure D	11952
@@ -639,6 +754,7 @@ Grupo D Especialista Grupo D Inspector	4209
 Grupo D Interventor Grupo D Jefe	4209
 Guinea D	11867
 Guinea-Bissau D	11867
+Général Mamadi DOUMBOUYA DECRET D	16645,6
 H.E. Commissioner Lerato D. Mataboge	8192,4917
 H.E. Ms. Lerato D. Mataboge	7255
 HR D	1067
@@ -648,10 +764,12 @@ Hon. Col. Rtd. K. C. D	13591
 Hon. D. Tshere	12607
 Hon. Dr. D. Masondo	11289
 Honourable D. Garwe	13673
+Hornby D	15473
 Househelp D	582
 Hozumi D. PRISM	766,10115,715
 I C- Laptop D- Another	582
 I C- Viber D- I-message	582
+I D A D E S	15535
 I D D	582
 I D EML IANUERSI TFIOURS TNHAET	14565
 I D Ecosystem for Tunisia	12328
@@ -666,6 +784,8 @@ I Technical Contact Agent D Government	736
 I. D	11140
 ID4 D C	10812
 IFOMU D UKUSHINTSHWA KWEMIBANDELA Esimeni	11573
+IGRP WEB S E D U	15590
+INFORMATIQUE D	16100
 INFPP D	2966
 INTERGOVERNMENTAL AUTHORITY ON DEVELOPMENT D Regional	14434
 ISIQEPHU D	11573
@@ -681,6 +801,7 @@ Israelski D. Community	1219
 J. D	11927,406,134
 JHS D- Cognitive	582
 JUXSRV FRP D WHUUD	11527
+Jacqueline Patrícia D' Oliveira Nobre da Costa	16549
 Jee Servicio Grupo D	4209
 Jee de Servicio Grupo D	4209
 Jefe Sección D	4209
@@ -689,12 +810,17 @@ Jefe Servicio Grupo D	4209
 Jefe ServicioGrupo D	4209
 Jefe de Servicio Grupo D	4209
 John D. Salus	14394
+KOUROUMA DECRETS DECRET D	16645
+KP L D	15608
 Kaseje D	1219
 Kemilson D	2315,129
+Kimberly D. Johns	16626
+Kouilou D	16177
 Kouyaté Mohamed D	5816
 Kwaro D	771
 L D E C	14935
 LES PRINCIPAUX DEFIS DU SYSTEME D	13677
+LIVRES COMPTABLES ANNEXE D	15901
 Lee D	9739
 Lerato D. Mataboge	7136,190
 Liberia D	11867
@@ -702,9 +828,13 @@ Life Counts Acknowledgment PAUL D. MWANGEMI	12151
 Liliana D. Sousa	10763
 Lorenzo. A. D	2816
 Ludwick D	12379
+M E D E L	15722
 M E N D	12328
 M IN E D U C	14947
+M L D	15608
+M NOUVELLE SOCIETE INTERAFRICAINE D	16623
 M Series D	12339
+M TWY D	16552
 M. D	5349,7118
 M. D. Alhassan	5349
 M. D. Myers	5349
@@ -729,10 +859,12 @@ M2 D	12500
 M2 D A P8-28-2	12500
 M2 D D P9-32-1	12500
 MAI-NDOMBE D E M O C	11900
+MAJOR D	15744
 MAURITIUS D. Accessibility and Supporting Information	14777
 MESR D	2966
 MM Usuku D D	11573
 MMS B- Spouse D	582
+MOBILIERS D. Gains	15999
 Maheba D Primary School	1867
 Maheba D RHC	1867
 Malabo. Par le Décret D	234
@@ -749,7 +881,9 @@ Menu Display Início Orgânica D G	6530
 Mexico. D. Role of Ministries	11525
 Michael D. Francois and Chris George	2677
 Minda D	12379
+Mme Jannick Maggy D. MICKALA	16175
 ModDate D	1685
+Moderately Unsatisfactory D. Sector and Theme Codes	16614
 Monetary and Financial Sector Policies 13 D. Structural	13868
 Monitoring and Evaluation D. DPMO’s Strategic Plan	12977
 Mont D. Making	12231
@@ -763,21 +897,28 @@ Ms. B. D. Sookram	14832
 Muneene D	14666
 MÉNOPAUSE D DISSOLUTION DU MARIAGE	13300
 N D K	11586
+N D Z O U	15901
 N D- News H- Have	582
+N RECHÉMENTAIRE CERTIFIE D	15530
 NAT I O NAL E D	13841
 NATIONAL PLANNING Mainga D. Kabika Permanent	13399
+Nationwide D. Results Chain	15661
 Naylor D	14666
 Neighbour D	582
+Next Post DECRET D	16734,1
 Niger D	11867
 None G- None D- No F-	582
 Notarised Power of Attorney D. Submission of Bids	13185
 O D I V E R	11586
 O D Very High High Moderate	13053
 O E D	582
-O R D O N N	548
+O R D O N N	548,15230
 OFFICIAL USE ONLY FISCAL AFFAIRS D	12500
 OPPORTUNITY The D Deployment	11006
+ORANGE. D	15542
+OSS GBETO D NSOU AMPLIATIONS	15397
 OUEDRAOGO. D. MINISTERE DE LA CONSTRUCTION	8321
+OURNITURE D'INSTALLATION ET D EEN ERVICE	15399
 Oficial Grupo D Policía Judicial Grupo	4209
 Oicial Grupo D	4209
 Okunbor D	9739
@@ -786,16 +927,24 @@ Oluniyi D. Ajao Oluniyi D. Ajao	10244
 Onduleurs.pdf Annexe D	13694
 One. Daniel. D. Daka COMMISSIONER GENERAL	13053
 P D G	13685
+P P E N D	15414
+PA RT E D PA RT	15404
 PARENA PARESO Total Maputo D D	12201
 PART D	4896,637,5664,1,20,6,16,10,11,725
+PC ZMD2 D	15744
 PIM. D. Results Chain	10964
+PM DU I O D EC	15441
+PPAAO D	16627
 PPP D	15244
 PREFACE His Excellency President E D	13320
+PRESIDENCE D	15999
 PRESIDENGE D PROS ERRCY	10974
+PRODUITS DE TELECOMMUNICATIONS DECRET D	16733,1,1
 Package D	15164
 Package D T4	15164
 Packages A and D	15164
 Par Salif D. Cheickna	9028,1897,4362
+Par- D	15558
 Part C and Part D	11240
 Part D	3583,131,1182,6344,10,3580
 Part D Authority	11181
@@ -811,11 +960,14 @@ Ph. D	10
 Phillip D. Kargbo	14226
 Policía Judicial Grupo D	4209
 Policía Judicial Grupo D Servicio	4209
+Ponte D. Luis	15380
+Pool D	15744
 Practice D. Artificial Intelligence	11138
 Praveen D	1219
 President Adv. D. G. Boko	12607
 President E. D. Mnangagwa	958
 President Emmerson D. Mnangagwa's Call-to-Action	13369
+Previous Post DECRET D	16734
 Processes D. Education Information Reporting	13310
 Processo Eleitoral C N D H	6530
 Production Airtel A B C D	236
@@ -824,6 +976,7 @@ Project Beneficiaries D. Project Components III	13856
 Project. D. Alignment	11417
 Project. D. Results Chain	11855
 Proposal. D. SUBMISSION OF PROPOSALS	15080
+Q U E D E L	15722
 QHP D UHSDUWLomR GH GLUHLWRV	11527
 QLWLYDPHQWH D LQWHJUDomR	11530
 Quay D	14742
@@ -836,9 +989,12 @@ R. D	5349,2537,719
 R. D. S	11265
 RDGE Laté D. LAWSON ZANKLI	13885
 RESPIRATION RAPID...... D JAUNISSE	13300
+REVUE ET ANALYSE D O C	16195
 RFP Part D	11240
 RQVLGHUDQGR D SURSRVWD GR PLQLVWUR GD	11530
+Randal D. Djessou	16135
 Raymond Mugandani4 Menas Wuta2 Munyaradzi D	520
+Recital D	15901
 References Bawden D	9653
 Registrar of Political Parties. D. Right	1630
 Report PART D CONDITIONS OF TENDERING	11240
@@ -847,12 +1003,17 @@ Reporting Period. D. Reporting Financial Institutions	11233
 Republic of D	11867
 Republic of Sudan D	14897
 RoDUCTEURS INDEpENDANTS D	14479
+Robert D ZAN'fAN	15399
 Roos D	1219
+République du D	16177
 S C H E D U	13068
+S Pierre OBA D	16177
 S T A N D	15080
 S. D	13624
 S. D. Support	11585
 SECTION D	582,2193,11998
+SERVICES D G S	16623
+SGG PORTANT AMENDEMENT DU DECRET D	16637
 SOCIAL PROTECTION D	11156
 SSIN S NOR D PLATE AU	10847
 SSS BUTHELEZI D	1009
@@ -867,6 +1028,7 @@ Secretario Grupo D	4209
 Secretario Grupo D Servicio	4209
 Section D	582,636,2386,4241
 Section D. Human Resources	15164
+Section III D. Finally	15411
 Section IV. D. VII. RESULTS FRAMEWORK	1264
 Sella-Villa D	8776
 Series D	895
@@ -877,7 +1039,10 @@ Shauer D	10784
 Shri Parbhubhai Nagarbhai Vasava and Smt D	12568
 Sierra Leone. Group D	11867
 Signature By Destiny D. Jabula	6968
+Simonetti D	16463
 Singer D	12231
+Sommet A B C D WG584	15780
+Sommet D	15426
 Soti D	10881
 Specification Annexure D	11952
 Spennemann D	9739
@@ -887,20 +1052,25 @@ Strategic Objective D	14818
 Sub-Part D	7845,6872,10,16
 Sudanese Society for Information Technology. D. PROGRESS	14853
 Sèna D. B. de Sodji	2257,13,33,3,63,5,9,2,13,8,15,9,5,75,12,20,15,10,1,5,44,117,26,4,18,9,60,18,5,756,1447,94,263,332,125,1206,2483,1402,366
-Sèna D. B. de Sodji Lire	13626
+Sèna D. B. de Sodji Lire	13626,2532
 T D O C U M	15080
+T TWY D	16552
 T Y A N D	11586
 T. D	3782
 TE D	3604
+TWY D	16552
 Table D	7,11289
 Tadesse D	12255
 Teboho D. Lefela	9237
 Teboho D. Lefela1	9237
 Thomas D	12231
 U S D	4610
+U SOCIETE V D C TELECOM	16623
+U TWY D	16552
 U.S. Government CHARGE D' AFFAIR	4247
 UHF D PETROLEUM S.A ARCEP	998
 UNITED STATES OF AMERICA D	4202
+US D	15471
 Uganda Protection D. PRELIMINARY MATTERS	5113
 User I D C	9123
 VARIAÇÃO ANULA D CRESCIMENTO DE ACESSO	11531
@@ -909,11 +1079,13 @@ VHF D RAPPORT ANNUEL	998
 VHF D SONIDEP	998
 VHJXLQWHVHWDSDV D	11530
 VIH. D COLLECTE DE DBS U	13300
+VNVEISENCE D LA RÉPUBLIQUE DECRET Ne	15530
 Veuf N D	13442
 Victorien D. Kougblénou	2354
 Vitamin D	14818
 Volet D	12043
-Vu le Décret D	234
+Vu Le Décret D	16635
+Vu le Décret D	234,16382,19,2,8,6
 WB. D. Next Steps and Timeline for Future	14010
 WLQDGRV D VHU UHSRYRDGRV SDUD	11527
 Waltner-Toews D	14666
@@ -928,5 +1100,7 @@ Y Y Y Y MM D	11573
 Y Y Y YM M D	11573
 YYYY MM D D	11573
 YYYYMMD D Usuku YYYY MM DD	11573
+ZONES MILITAIRES DE DEFENSE D	15901
 Zakus D	12379
 Zhdanov D. Health	10780
+Zie Ibrahima Coulibaly Catherine D. Farvacque-Vitkovic	16614

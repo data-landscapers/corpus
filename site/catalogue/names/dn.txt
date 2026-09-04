@@ -1,6 +1,8 @@
 ACRONYMS CSO Civil Society Organization DNHA	12964
 AFRINIC DNS Support	14810
 African DNA	13407
+Afrique DNSI Direction Nationale des Systèmes	16626
+Agriculture DNM	16621
 Avis DNCMP J	10876
 BASCULE DNS SUR	14683
 Big Data Analytics DNS	958
@@ -15,13 +17,16 @@ Comptabilité Publique DNCMP Direction Nationale de Contrôle	10876
 Conferência Imprensa DNRE	12018
 D DNA	11301
 DAO DNCMP PRMP Annonce	10876
+DE DECLARATION PAPIER A LA DNI	16629
+DFC Cooperação Financeira Direta DNT	15966
 DFIL Disbursement and Financial Information Letter DNA	11380
+DN-HepB	15711
 DNA and GPS	10819
 DNAFD	13723
 DNAFLA	6959
 DNAICC	10750,2
 DNAICC Direcção Nacional	10765,10
-DNCMP	10876
+DNCMP	10876,5519
 DNCMP Ajustement du DAO Minimum	10876
 DNCMP Analyse	10876
 DNCMP Approuve	10876
@@ -43,31 +48,46 @@ DNCMP. Ce	10876
 DNCMP. Valide	10876
 DNCQF.POL05 Issue No	12574
 DND DENTAL LIMITED Data Controller INST-52616591004	7167
+DNDIXO	15604
 DNEA DNEG DNEJA DNEPEP DNES DNETP	10766
 DNEA MoE	13143
+DNEAS	15673,694
+DNEAS. Par	15673
 DNEMIS	7027,5034
 DNEMIS State Implementation Teams	12061
 DNES-MESCTI Como	11387
 DNFBPs	14016,782
 DNI Consortium	10735
+DNI Direction Nationale des Impôts	16614
 DNI Group	14366
 DNI Group CEO Dr Ryan Noach	10735
+DNI. Ce	16629
 DNI. Partnerships	14366
+DNICE	15983
+DNICE National Directorate of Industry	15983
+DNICE. Cabo Verde	15983
 DNIRN	6060,4705,10
 DNIRN Direcção Nacional de Identificação	10765,10
 DNIRN. Figure	10775
+DNIT Ccci	15399
+DNLPF	16702,4
+DNM Cameroon	15916
 DNMEAP	5329
 DNN FactCheck	8522
 DNN Media	8522
 DNN Media Foundation LTD	8522
-DNOCP	3118
+DNOCP	3118,12408,530
 DNPI Director General Maj. Gen. Elia	4635
+DNPIQ	15416
+DNPlo	15416
 DNRE Flyer Restituição IVA Desdobraveis Mod	12018
 DNRE National Directorate of State Revenue	11965
 DNREL	10753
 DNRN Direcção Nacional	10765,10
 DNRN National Directorate of Registries and Notary	4214
 DNRPC	1879,10536,1002,8,183
+DNRST	16627
+DNS Ecosystem Security	16545
 DNS Registrar	736
 DNS Security and Stability	6738
 DNS Technologies	6402
@@ -76,18 +96,24 @@ DNS Technologies' Africa	6402
 DNS and IXP	958,12337
 DNS-over-HTTPS	427,143,6,198,247,123,1523,667,1398,208,2598
 DNS-resolved	2145
+DNS. Bénin	16545
 DNS. Cependant	4210
+DNS. Des	16545
+DNS. L’ouverture	16545
 DNS. POTRAZ	578
+DNS. Si	16545
 DNS64	7010
 DNSAE	3868,1372,8566
 DNSAN	10763
+DNSCMT	16722
+DNSCMT T2	16722
 DNSI and DPRI	6593
 DNSI-CPS	9553
 DNSIS	13300
 DNSP Direcção Nacional de Saúde Pública CPD	11376
 DNSP East	11417
 DNSP and EPI	11401
-DNSSEC	1036,3160,14,9,2519,2771,1212,43,230,2301
+DNSSEC	1036,3160,14,9,2519,2771,1212,43,230,2301,2873,377
 DNSSEC Roadshow	4196
 DNSSEC Validation Across National Internet	4219
 DNSSI	1185,253
@@ -96,7 +122,9 @@ DNT Fund	13462
 DNT Fund Adjudication Committee. Mainstream Publishers	13462
 DNT Fund and AI Innovation Funding	13462
 DNT Fund. DNT Funding	13462
-DNTIEN	6858
+DNTIEN	6858,9873
+DNTs. Intervir	15966
+DNTs. ODS	15966
 DNUBR	2738
 DNV KENYA LIMITED Data Controller INST-786005C16BE	7167
 DNV KENYA LIMITED Data Processor INST-786005C16BE	7167
@@ -106,6 +134,8 @@ DPRI and DNSI	6593,8081
 Deferred Net DNS Participant	12364
 Denial of Service DNS Domain Name System	6946
 Digital Economy DNMAP National Directorate of Public	11863
+Direction Générale DNA	16621
+Direção Nacional da Modernização Administrativa DNMA	15532
 DnetvaenlodpSmkeilnlst and Skills	10157
 Dnigt	14566
 Dns.km	2815
@@ -114,40 +144,58 @@ ELUDEHCS DNOCES	14843
 ELUDEHCS DNOCES THIRD SCHEDULE	14843
 EPI The DNSP	11401
 EPI and DNSP	11401
+ESTRUTURANTES ADMINISTRATIVOS EST-ADM1 Equipa da DNMA	15532
+ETRE VALIDES PAR LA DNI	16629
 Editorial Board Chair of DNN	8522
+Estado A DNME	15572
 Etudes Universitaires Générales DNESRS Direction Nationale	12
 FIs and DNFBP	14016
 FIs and DNFBPs	14016
 Fisheries DNA Deoxyribonucleic	11188
 Fund the DNT Fund	13462
+GOV6 Não EST-ADM3 Equipa da DNMA	15532
 GSM Association GSMA DNSI GSMA Digital	14674
 GSMA DNSI	14674
+INSTITUTO NACIONAL DE PREVIDÊNCIA SOCIAL DNAP-DIRECÇÃO	16028
 Improved DNS	4219
+Internet da DNME	15572
 Intervenants Tâches Délai DNCMP Analyse	10876
 JAAH Investments and DN Invest	14366
+LA DNI S’ARRETE DE FONCTIONNER	16629
 La DNCMP	10876
+La DNEHPP	16722
+La DNI	16629
+La DNRST	16627
 Legal Notices Subscribe Home News DNA	7264
 Les DNA	3396
 Making DNA	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Methodology for Data Collection The DNSP	11417
 Ministères Montant Montant Montant DNA	3396
 Modèles-type DNCMP Plateforme SIGMaP	10876
+Météorologie DNPA	16621
+N'Zérékoré DNSHP T2	16722
 NGOs’ DNS	5822
 National DNS Forum	6738,4256
 News DNA	7264
 Novo DNA Profissional	7948
 Ouest CNT Conseil National de Transition DNAFLA	6959
+PIP Public Investment Program DNRE National	15924
+Plano DNTs	15966
 Public DNEMIS Portal	12061
 REPÚBLICA DE CABO VERDE DNRE	12021
 Senegal DND	3598
+Serveurs DNS	15512
 Service Beacon Identi- DNA DNA DNA	6946
 Site da DNRE	12018
+Strengthening DNS	16545
 Structure of DNSSI	1185
 System DNSSEC Domain Name System Security	13295
 TOMADY's DNA	14519
+Technologie. La DNRST	16627
 Telone Join ICANN and INTERPOL for DNS Security	6909
 Top Level Domain DNS Domain Name	13295
 Traitement des DNA	3396
 Transparency And Accountability DNEMIS URL	12061
+Utérin DNSP	15475
 WAT DNN FactCheck	8522
 Within the DNIRN	10775

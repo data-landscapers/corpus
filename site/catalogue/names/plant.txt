@@ -1,21 +1,28 @@
 African Plant Nutrition Institute Data Controller	7167
 African Plant Nutrition Institute Data Processor	7167
 Agriculture Regional Plant Protection Officer COMESA	12972
+Aluminium Foil Plant	16511
 Area Planted	2775
 BESS Recycling Plant Component	14080
 Bumbuna Hydroelectric Plant	10180
 CANNABIS PLANTS	14760
 CONTRAVENTIONS ROAD OFFENCES GANDIA PLANTS	14760
+Canals Solar Power Plant	15578
 Cane Planters and Millers Arbitration and Control	14847
 Case Study of Hwange Power Plant Power	1154
+Cement Plant Project	16275
+Condicionantes Especiais da Planta de Condicionantes	15380
 Conservation of Plant Genetic Resources	14818
 Costs of Transport of Canes for Small Planters	14753
 Crop and Plant Health	12194
 Dal Processing Plants	12979
 Device Assembly Plant	9336
+Drivers and Mobile Plant Operators	16266
+Drivers and Mobile Plant Operators Electrical and Electronic	16266
 Econet Willowvale Solar Plant	306
 Egbin Power Plant. Egbin	10157
 Eskom Plant Performance	11228
+Forestry and Fishery Workers Plant and Machine Operators	16266
 Gandia Plants Uprooted	14760
 Generation Plant Availability	14867
 Generation Plant Availability The Regulatory Authority	14867
@@ -51,6 +58,7 @@ MW Lower Maguduza Hydropower Plant	13123
 MW Mmadinare Solar Plant	12609
 MW Noor Chad Solar Plant	4934
 MW Solar PV Power Plants	13123
+MW Solar Power Plant	16468
 MW Tedzani Hydro Power Plant	13060
 MWp Danzi Solar Power Plant	10857
 MWp Mmadinare Solar PV Plant. Together	12604
@@ -58,8 +66,10 @@ MWp Solar Plant	12604
 Maguduza Hydro Plant	12956
 Maguga Hydro Plant	12956
 Maiduguri Emergency Power Plant	12062
+Mango Processing Plant	16256
 Manufacturing Plants	12436
 Maputo Thermal Power Plant. Revenue	12316
+Medicinal Plants	16466
 Megawatt State-Owned Power Plant Mr. Speaker	7695
 Montagne Piquant and Pointe Coton Desalination Plant	14794
 Mpatamanga Hydropower Plant	13060
@@ -76,17 +86,19 @@ PLANT AND EQUIPMENT COSTS	14736
 PLANT LTD Data Controller INST-5968341D599 NAIROBI	7167
 PLANTING SUSTAINABLE LAND MANAGEMENT COMMUNITY EMPOWERMENT	11586
 POWER PLANT AVAILABILITY INDEX	14867
-Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299
+Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299,854
 Plant Availability	14867
 Plant Availability Factor	12062
 Plant Availability Index	14867
 Plant Average Hourly Generation	12062
 Plant Capacity	14745
 Plant Conducted MW	14947
+Plant Expert	15478
 Plant Genetic Resources	14818
 Plant Genetic Resources for Food and Agriculture JE	11197
 Plant Health Act	13403
 Plant Health Bill	13387
+Plant Inspectors	15478
 Plant Nursery The Nursery	14746
 Plant Pathology Laboratory	14721
 Plant Protection	4811,453,53,458,129
@@ -94,7 +106,7 @@ Plant Protection Regulation	13060
 Plant Quarantine Services Laboratory	13320
 Plant Quarantine and Phytosanitary Service	13403
 Plant Quarantine and Phytosanitary Services Department	13403
-Plant Science	7759
+Plant Science	7759,8376
 Plant Strathmore	12256
 Plant Variety and Seeds Act	13403
 Plant and Animal Diseases Control ARTICLE	14409
@@ -107,22 +119,34 @@ Plant and Equipment IPSAS	14736
 Plant and Equipment Revenue	1944
 Plant and Equipment USD	1013,931
 Plant and Equipment and Inventories	15169
+Plant and Machine Operators	16266
+Plant95 Stimulantes	15999
 PlantVillage	13366
 PlantVillage Application	13366
 PlantVillage's Nuru	3859
 PlantVillage-style	6948
-Planta	4209,7692
+Planta	4209,7692,4424
 Planta Cadastral	11384
+Planta Legal	15388
+Planta de Con	15380
+Planta de Condicionantes	15380
 Planta de Conservación	4209
 Planta de Conservación de Alimentos	4209
+Planta de Enquadramento	15380
+Planta de Ordenamento	15380
+Planta de Ordenamento Geral	15380
+Planta de Ordenamento. Artigo	15380
 Plantaciones	4209
+Plantas Informativas. Artigo	15380
 Plantas de Tratamiento de Residuos	4209
-Plantation	11857
-Plantations	3396
+Plantation	11857,3858
+Plantation Ce	15715
+Plantations	3396,12603
 Planted Area	2775
+Planting	16464
 Planting Hope	8919
 Planting for Food and Jobs	789
-Plants	12062,2698
+Plants	12062,2698,1239
 Power Plant Availability	14867
 Power Plant Launch	13624
 Property and Plant Equipment	1154
@@ -135,17 +159,26 @@ Regional Plant Protection Officer IPPC	12972
 Regular Maintenance of Plants	14738
 Rehabilitation of Power Plants	13060
 Ruacana Hydro Power Plant	12399
+Rubber Plantation Company	16580
 Rukarara VI Hydropower Plant	15049
 Salima Solar Power Plant	13241
 Shema Power Plant	12358
 Sierra Leone. President Bio Plants Symbol	5390,965,827
 Simteckcard Plant Limited	3862
 Small Hydro and Wind Power Generating Plants	12256
+Solar PV Electricity Generation Plant	15702
+Solar Power Plants	16468
 Standard. The Plant Pathology Laboratory	14721
+Stationary Plant and Machine Operators	16266
 Tesla Cascading Hydro Plant	14745
+Tizi Ouzou Tractors' Assembly Plant. Engineers	16331
+Treatment Plant	15578
+Treatment Plant Household Drinking Water Connections	15578
 Trees Planted	6946
 Trees Planted Number of Trees Planted Staff	6946
+Valley Providing Treatment Plants Program	15578
+Valorisation des Plantes Médicinales de Dubréka	16627
 Wastewater Treatment Plant	14830
-Water Treatment Plant	718,14055
+Water Treatment Plant	718,14055,805
 Water Treatment Plants	718,11718
 Zimbabwe Company Coal Fired Power Plants-	1154

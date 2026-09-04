@@ -2,14 +2,17 @@ A1 A2 A3 A4 A5 Budget	10965
 A2 A3 A4 A5 Budget	10965
 ACK ST PAULS BUDUMA CDC Data	7167
 ACTIVITY Estimated Budget Released Expenditure	12962
+AGENTS PUBLICS EN MATIERE BUDGETAIRE	16047
 AI and Budgetary State Department	7548
+ANALYSE COMPARATIVE ET EVALUATION ECONOMIQUE BUDGETAIRE	16328
 ANNUAL BUDGET PERFORMANCE REPORT FOR FINANCIAL	12976
 ANNUAL PERFORMANCE REPORT AND BUDGET ESTIMATE	13131
 ANNUAL PERFORMANCE REPORT AND BUDGET ESTIMATES	13131
 APPROPRIATED RECURRENT BUDGET	13093
 APPs and Budget	11285
 AWPB Annual Work Plan and Budget BIF	1284
-AWPB Annual Work Plan and Budget CAR	10829
+AWPB Annual Work Plan and Budget BP	15515
+AWPB Annual Work Plan and Budget CAR	10829,4832
 Accountability and Budget Transparency	12176
 Accounting and Budgeting Division	14744
 Actions Annuel Budgétisé	13349
@@ -27,45 +30,62 @@ Adjusted Budget	750,540,494,1,2,7,3
 Adjustment Budget	11251
 Administrative Budget Measures	13122
 Africa. The Budapest Convention	13212
+Afrique Centrale BIP Budget	15501
 Agencies MFB Ministry of Finance and Budget MFD	3604
 Allocated Budget	1289,13646
 Annual Budget	12972,1764
+Annual Budget Funding Amount ADEOP	15796
 Annual Budget Q1	12241
 Annual Budgeted Plan of Actions	13349
 Annual Budgets of MDAs	11866
 Annual Work Plan PIU Management and Budget	2989
-Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007
-Annual Work Plans and Budgets	3562,7402,3948
+Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40
+Annual Work Plans and Budgets	3562,7402,3948,460,1282
 Annual Workplan and Budget	13459,971
 Approved Actual YTD YTD Budget YTD	6422
 Approved Budget	750,540,494,1,1,1,1,5,3,1
+Appuis Budgétaires PEF	15999
 Area of Project Name Project Description Budget	11986
+Avant-Projet du Budget	16032
 Axe Objectifs Actions Résultats Activités Budget	10965
 Axe Résultats Chronogramme Budget	10965
 B. SUMMARY OF RECURRENT BUDGET	12977
+B.- BUDGETS ANNEXES	16047
 BETWEEN ORIGINAL AND REVISED BUDGET Original	14736
 BN Budget National CDMT Cadre des Dépenses	10712
 BPP Budget	10157
-BUDGET	962,10003,2157,210,1421
+BUDESONIDE	15930
+BUDGET	962,10003,2157,210,1421,803,234,137
 BUDGET ADDRESS BY HONOURABLE DR. SITUMBEKO	13435
 BUDGET ALLOCATION	11285
 BUDGET ALLOCATION CONTEXT	1810
 BUDGET ANNUEL REVISE	3164,1,1,1,1,1,1,1,1
+BUDGET ARTICLE QUATRE-VINGT-SIXIÈME	15999
+BUDGET AUTONOME	16006
 BUDGET BY INSTITUTION	1756,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,3764,1,1,1,1,1,1,1,1
 BUDGET DE L'ETAT	1325,1,1,1,1,1,685,1,1,1,1,1,266,1869,1,1,1,1,1,770,2955
+BUDGET DE L’ETAT A. BUDGET GENERAL	16047
 BUDGET DE MISE EN	14488,1,1
 BUDGET DEFICIT	5655
-BUDGET ESTIMATES	12606
+BUDGET DETAILLE DU PSNSN	16195
+BUDGET ESTIMATES	12606,3321
 BUDGET ESTIMATES BOOK	13126
 BUDGET ET DE L'ECONOMIE NUMERIQUE	13524
 BUDGET EXECUTION Table	12962
+BUDGET Engagement	15712
+BUDGET GENERAL	16047
+BUDGET GENERAL SECTION	16047
 BUDGET GLOBAL	10712
 BUDGET MEASURES	14828,3
 BUDGET MEASURES ON HEALTH SECTOR	14773
 BUDGET MENAPLN	10847
+BUDGET Numéro	15712
 BUDGET PERFORMANCE	13122
 BUDGET PERFORMANCE Actual-	9437
 BUDGET POLICY STATEMENT Delivered	13122
+BUDGET PREPARATION INSTRUCTIONS	15790
+BUDGET PROGRAMME SUMMARY	15716
+BUDGET PROGRAMME SUMMARY PROGRAMME	15927
 BUDGET PROPOSALS Recurrent Budget	12602
 BUDGET REACTIONS	8723
 BUDGET Raccourcis Le Ministre Composition du Cabinet	1297
@@ -73,12 +93,15 @@ BUDGET SPEECH	12922,34,1872,3
 BUDGET SPEECH Ndaba Nkosinathi Gaolathe Minister	12588
 BUDGET STRATEGY	12922,34,167
 BUDGET UTILISATION RECURRENT BUDGET ESTIMATES	12602
+BUDGET VERT	15712
 BUDGET VOTE	11285
 BUDGET Wages and Salaries	13122
 BUDGET-CREDIBILITY FINDING	1794,1413,2813,1068
 BUDGET-EXTRACT	1601,1,1,1,1,1,8,1,1,1,1
 BUDGET-EXTRACT.md	1292,244,9,1,511,2313,50,762,2,1
+BUDGETAIRE Il	15405
 BUDGETAIRES PAR MINISTERE AU	3396
+BUDGETAIRES SECTION	16047
 BUDGETARY ALLOCATIONS The Department	3264
 BUDGETARY CONTROL Budgeting	9437
 BUDGETED	9437
@@ -86,7 +109,13 @@ BUDGETED FAVOURABLE-This	9437
 BUDGETED Favourable	9437
 BUDGETING	9437,1756
 BUDGETING AND BUDGETARY CONTROL	9437
+BUDGETS ANNEXES Article	16047
+BUDGETS ANNEXES ET DES COMPTES SPECIAUX	16047
+BUDGETS ANNEXES PREVISIONS REAJUSTEES	15426
+BUDGETS ANNEXES SECTION	16047
+BUDGÉTAIRE ET FINANCIER TITRE PREMIER DISPOSITIONS	15999
 Bank the Annual Work Plan and Budget	11417
+Banque Mondiale BND Budget National de Développement	16621
 Based Budgeting	13420
 Basic Education Budget	11274
 Benin Cuts Digital Budget	4159
@@ -97,6 +126,7 @@ Billion Budget for Digital Transition	4071
 Birr Budget for Upcoming	3211
 Body National Planning and Budgeting	13318
 Body REPUBLIC OF NAMIBIA BUDGET SPEECH	12984
+Brochures Contrats Statistiques Budget Dette	15449
 Budach	11156
 Budadiri County East	12095
 Budalangi	10313
@@ -105,6 +135,8 @@ Budapest	1000,2105,11830
 Budapest Convention	318,382,75,8,493,259,242,132,208,2466,1843,566,752,1872,1148,1,10,81,2356,1517,23,145,31,381
 Budapest Convention. Coordinated	1777
 Budapest and Malabo	1000
+Budapest. Question	15671
+Budapeste	16251
 Budapest’’. C’est	2514
 Budde	14897
 BuddeComm	6244
@@ -116,18 +148,24 @@ Budg. Act. Budg	13349
 Budg. Act. Budg. Act. Budg. Act	11907,1442
 Budg. Targ. Targ. Targ. Education	11907
 BudgIT	5155,190,6521,76,54
-Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15,228,7,333,1,8,50,70,26,31,84,49,64,1,2,79,7,62,193,4,1,9,4,6,309,5,34,15,5,1,5,17,54,2,25,13,2,27,1,23,20,137,26,2,3,7,14,8,27,28,18,9,31,6,23,6,8,5,1,24,3,3,10,18,4,1,2,63,5,10,6,11,30,56,1,9,15,112,30,1,2,210,34,27,128,10,44,15,3,2,11,6,57,1,1,132,29,7,84,3,5,3,40,7,19,10,6,6,1,8,5,2,16,23,11,28,50,1,18,15,12,133,178
+Budgei	15429
+Budgel	15429
+Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15,228,7,333,1,8,50,70,26,31,84,49,64,1,2,79,7,62,193,4,1,9,4,6,309,5,34,15,5,1,5,17,54,2,25,13,2,27,1,23,20,137,26,2,3,7,14,8,27,28,18,9,31,6,23,6,8,5,1,24,3,3,10,18,4,1,2,63,5,10,6,11,30,56,1,9,15,112,30,1,2,210,34,27,128,10,44,15,3,2,11,6,57,1,1,132,29,7,84,3,5,3,40,7,19,10,6,6,1,8,5,2,16,23,11,28,50,1,18,15,12,133,178,11,8,10,4,12,24,38,12,13,1,25,42,27,11,17,1,52,8,1,2,7,17,18,9,8,2,2,5,9,8,6,5,1,32,44,3,11,60,61,8,22,7,14,5,7,15,24,28,96,53,22,53,5,42,12,73,20,25,81,2,33,4,7,1,7,10,62,17
 Budget Actual	13093
 Budget Address	12369,1067
 Budget Allocation Reported Expenditure	3583
 Budget Allocation Reported Expenditure Legal	3583
 Budget Allocation Reported Expenditure Regional	3583
 Budget Allocations	3176
+Budget Analysts	16524
 Budget Annex	14773
 Budget Annexe MNDPT	14573
-Budget Annuel	3396,420,7060
+Budget Annuel	3396,420,7060,5279,78
 Budget Annuel REESS Rapport	10876
+Budget Approval and Submission SECTION FIVE	15790
+Budget Avenant	15426
 Budget BRB Burundi Backbone System CAPEX	13331
+Budget Bail	15426
 Budget Botswana	12589
 Budget Brief. UNICEF	13209
 Budget CAST	10847
@@ -135,6 +173,7 @@ Budget CHF	690,1
 Budget Citoyen	1272,781,1484,10404
 Budget Committee	13420,188
 Budget Committee of Parliament	12987
+Budget Committees	15790
 Budget Consolidation	6432
 Budget Constraints Local	13418
 Budget Consultation Approach Feedback	15004
@@ -144,6 +183,7 @@ Budget Consultation Workshop	15004
 Budget Consultations	15004
 Budget Consultations Report	15004
 Budget Controls	6432
+Budget Coordonnées	15712
 Budget Create	11857
 Budget Cut	13608
 Budget Cuts Mean for Kenyans	2428
@@ -174,25 +214,34 @@ Budget Framework Paper	14869
 Budget Funding	395
 Budget Funding US	395
 Budget GNU Government of National Unity MINCOMBUD	11986
-Budget Général	1270,12175,215
+Budget Guidelines	15790
+Budget Général	1270,12175,215,1815,524
 Budget Général MNDPT	14573
 Budget IATI	450
 Budget II	2428
+Budget Il	15668
 Budget Implementation Report	1273,1,1,270,1,10320
 Budget Increase	13608
+Budget Law	15604,428
 Budget Laws	1829
+Budget Le Ministre du Budget	16624
 Budget Literacy Is Not the Core Problem	8013
 Budget MINISTÈRES	10965
 Budget MIOS Minimum Information Interoperability Standards	5533
+Budget MMAISP Ministère	15474
 Budget Management	11231
+Budget Ministère	15712
 Budget Mobile	13395
 Budget Monitoring Committee	14835
 Budget Mr. Speaker Sir	13122
-Budget National	1281
+Budget National	1281,14117,1218
+Budget National CAME	15475
+Budget National de Développement	16645
 Budget National. Article	4420
 Budget National. PFC-MTFP	1281
 Budget Office	10681,1185
-Budget Ouvert	6500,250
+Budget Ouvert	6500,250,8962,743
+Budget Participatif	15712
 Budget Performance	2527,10061
 Budget Pitso	12584
 Budget Pitso Date	12584
@@ -201,28 +250,35 @@ Budget Policy Framework Paper Prepared	14986
 Budget Policy Paper	13318
 Budget Policy Statement	5108,9566
 Budget Preparation	15090
+Budget Preparation Guidelines	15790
+Budget Preparation Guidelines URL	15790
+Budget Preparation Guidelines v2.pdf	15790
 Budget Principaux Stratégique	10965
 Budget Prioritisation Framework	11193,31
 Budget Process	7831
 Budget Process Action Plans Quarterly	14935
 Budget Process National Treasury	11289
 Budget Process Review	11289
+Budget Programme	15804
 Budget Programming and Monitoring	13349
 Budget Programming and Monitoring Congo	11907
+Budget Projet de Gouvernance Numérique du Secteur Public	16328
 Budget Proposal	14212
 Budget Proposals	12588
 Budget Proposals for Organization	12580
 Budget Quote	11228
 Budget Reforms	13060
 Budget Release Request	12977
+Budget Releases. Cairo	15604
 Budget Reporting and Control Stores Accounts Payable	9437
 Budget Review	5199
 Budget Revised Budget Variances Increase	14736
+Budget Selection Franc CFA CFA	15372
 Budget Speech	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,742,221,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,1010,540,759,2154,4021,722,2,8,838,1306,3,8,7,14,26,20,8,1,2,4,8
 Budget Speech PDF	13436
 Budget Speech and National Budget Estimates	12956
 Budget Statement	970,776,2354,1,290,8560
-Budget Statement and Economic Policy	7695
+Budget Statement and Economic Policy	7695,8234
 Budget Statement and Economic Policy of Government	7695
 Budget Statement's Table	4389,3
 Budget Strategy Paper	4932,8753
@@ -258,6 +314,7 @@ Budget and Economic Planning	1284,1556,4015,6476
 Budget and Economic Planning Minister Abubakar Bagudu	7143
 Budget and Finance	13130,1006
 Budget and Finance Affairs Standing Committee	7091
+Budget and Financial Resources	15484
 Budget and GC	10721
 Budget and Instruction	11900
 Budget and Management	11855,7
@@ -265,7 +322,12 @@ Budget and National Planning	11866,279
 Budget and One Monitoring and Evaluation Framework	13166
 Budget and Spending	9354
 Budget and Spending Tier	10721
+Budget de Fonctionnement BID	15475
+Budget de I'ARPT La Direction Générale de I	16615
+Budget de I'Etat	15419
 Budget du Conseil	8891
+Budget du MGP	15908
+Budget du Ministère du Plan	16616
 Budget du Senegal	940
 Budget du Sénat	4363
 Budget for Central MDAs	13122
@@ -280,20 +342,26 @@ Budget-Tables	1672,1,963,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,728,465,1785,1,2,1,1,1,
 Budget-day	1746,1219,50,3415,157
 Budget-de-l'Etat	1776
 Budget-framework	13772
+Budget-programme	15848
 Budget. BeSafeMoris	14750
 Budget. Ce	7994
+Budget. Cette	16502
 Budget. Il	3638
+Budget. Ils	15474
+Budget. L'étude	15652
+Budget. La RCA	15474
 Budget. Lastly	13122
 Budget. Le PNUD	1684
 Budget. Le Président	14412
 Budget. Revenue Performance	13122
 Budget. Sectors	13722
 Budget. The Department	11224
+Budget. Un	16628
 Budget. WORLD	13122
 Budget.pdf	14828
 Budget.pdf ANNEX TO BUDGET SPEECH	14831
 Budget2024	12977
-Budgetary	789,151,2643,7176,76,2,1,74,56,902,16,1,1,1,249,15,1,9,177,1,11,1,135,1697
+Budgetary	789,151,2643,7176,76,2,1,74,56,902,16,1,1,1,249,15,1,9,177,1,11,1,135,1697,1531
 Budgetary Allocation	11860
 Budgetary Central Government	2775,11859
 Budgetary Control	9437
@@ -309,19 +377,28 @@ Budgeted Amount K23	13355
 Budgeted Expenditure	10870
 Budgeted K70	13355
 Budgeted Recurrent Cost	14736
-Budgeting	1867,1737,5833,1331,249,176,332,330
+Budgeting	1867,1737,5833,1331,249,176,332,330,3517,139,42,106,777
 Budgeting Process	12962
 Budgeting System The Government of Mozambique	4260
 Budgeting TOC Theory of Change GRPB Gender	11193
 Budgeting and Accounting System	13418
-Budgets	1382,9623,4159
+Budgeting for Compensation of Employees	15790
+Budgeting for Goods and Services	15790
+Budgeting for Recruitment and Replacement	15790
+Budgeting. Overall	15518
+Budgeting. Reliance	15411
+Budgeting. The PCU-ESPSP	15661
+Budgeting. The PISU	15658
+Budgets	1382,9623,4159,262,1188
 Budgets and Finance Arrangements	11193
 Budgets and Procurement Plans	11401
 Budgets of State	13948
 BudgiT	11866
 Budgit Foundation’s	10093
-Budgétaire	14431,106
-Budgétisation	10965,2376
+Budgétaire	14431,106,1005,457,329
+Budgétaires	16328
+Budgétisation	10965,2376,2083
+Budgétisation du PNDS	15685
 Budgétisées	12043
 Budhathoki	2096
 Budhathoki and Haythornthwaite	2096
@@ -329,18 +406,28 @@ Budžet	10780
 Business Budget Business	9067
 Business Plan and Budget for FY	15023
 C. Annual Work Plan and Budget	14912
+C0 Subvention du Budget Général FONDS SPECIAL	15999
 CABO VERDEAN BUDGET	4410
+CADRE D’INTERVENTION ET BUDGET	16195
+CADRE D’INTERVENTION ET BUDGET En	16195
 CEDEAO COMMUNITY MTEF COMMUNITY BUDGET	6422
+CFA. VI.1.1 Budget	15722
 CHAPITRE VI DES REGIMES BUDGETAIRE ET	14431
+CONTROL RISK Substantial Substantial Budgeting	15661
+COVID-19 Crisis Shifts Cybersecurity Priorities and Budgets	15491
+CRÉDITS DU BUDGET GÉNÉRAL ARTICLE	15999
 CTA Vehicle Charges The Budget for CTA	12971
+Cadre Budgétaire	15569,271
 Capital Budget	11136
 Cashflow Budget	11209
 Central African Republic Ministry of Finance and Budget	4127
+Chef de Service du Budget	16381
 Chief Budget Managers	14935
 Chinapiel Veerapattren Budget Speech	14829
 Citizens Budget	14212,414
 Citizens Budget Satisfaction Survey	11866
 Civil Society Budget Advocacy Group	11615
+Comité da Convenção de Budapeste	15881
 Commissioner for Budget and Economic Planning	12135
 Commissioner for Budget and Planning Mr Kingsley Anosike	5072
 Community Budget	6422
@@ -351,33 +438,61 @@ Conseiller Technique du Ministre du Budget	13891
 Consider the Budget Votes	11230
 Contribution Budgétaire	4155,1,1,1,1,1
 Controller of Budget	2742,2392,1454,208,2153,990,2315,2292
+Contrôle Budgétaire PORTEFEUILLE PUBLIC RECETTES DES	15449
+Contrôleur Budgétaire	16175
 Convenção de Budapest. Os	2816
+Convenção de Budapeste	16251
 Core Budget Execution Entities of FGS and Federal	15031
 Croissance Budget	10712
 Current Budget	2989
 Current Financial Year Budget	12962
 D Budgetary	961
+DAMAS Le Ministre du Budget	15533
+DE DIGITALISATION DE LA GESTION BUDGÉTAIRE	16646
+DE L’EQUILIBRE BUDGETAIRE GENERAL Article	16020
+DE L’EVALUATION DES RECETTES BUDGETAIRES Article	16020
+DE SUIVI DU BUDGET DE L’ETAT	16047
+DECLARATION SUR LES RISQUES BUDGETAIRES	15840
+DEPENSES BUDGET GENERAL	15999
+DEPENSES BUDGETAIRES	16047
+DEPENSES BUDGETAIRES Article	16047
+DEPENSES DES BUDGETS GENERAL ET ANNEXES	15426
+DES BUDGETS	16047
+DES BUDGETS ANNEXES ET DES COMPTES	16047
+DES CONDITIONS GENERALES DE L’EQUILIBRE BUDGETAIRE	16020
+DES CREDITS DU BUDGET DE L’ETAT	16020
+DES DEPENSES BUDGETAIRES CHAPITRE	16047
+DES RESSOURCES DU BUDGET GENERAL	15999
 DEVELOPMENT BUDGET	12597
 DEVELOPMENT BUDGET ESTIMATES	12606
 DIRECTION GENERALE DU BUDGET ET DES	14436
 DIRECTION GENERALE DU BUDGET Introduction Dans	2476
 DIRECTION GENERALE DU BUDGET RAPPORT	3396
 DISPOSITIONS BUDGETAIRES Article	13772
+DU BUDGET	15426,132,186,157,276,248
+DU BUDGET B	16425
 DU BUDGET DE L'ETAT	3396
 DU BUDGET DE LA MAIRIE	13292
-DU BUDGET DE L’ETAT	3396
+DU BUDGET DE L’ETAT	3396,12651
+DU BUDGET Décret	15426
+DU BUDGET ET	15901,199
 DU BUDGET ET DE L'ECONOMIE NUMERIQUE	13555
 DU BUDGET ET DE LA COOPERATION	13303
+DU BUDGET ET DE LA GEOLOGIE	15744
 DU BUDGET ET DE LA PLANIFICATION	13334
 DU BUDGET ET DE L’'ECONOMIE NUMERIQUE	13555
 DU BUDGET ET DE L’ECONOMIE NUMERIQUE	13555,12,20,1
 DU BUDGET ET DES FINANCES Section	13292
+DU BUDGET ET DU MATERIEL	16381
+DU BUDGET ET DU PORTEFEUILLE PUBLIC	15848,60,269,58,132,46,43
 DU BUDGET ET DU SECTEUR BANCAIRE	4645
+DU BUDGET GENERAL SECTION	16047
 Dates of Budget Consultation The FY	15004
 Dedicated Cloud Budget Lines	10157
 Delivering the Home Affairs Budget Vote Debate	11274
 Departments Affected By Supplementary Budget	2428
 Description BudgIT	5155,190
+Description of Risk S Budgeting	15518
 Despite Budget Constraints	965,3804,120,206,68,334,86
 Detailed Budget Estimates for FY2026	14986
 Developing ICT Budgeting and Emerging	15164
@@ -388,24 +503,40 @@ Development Budget. Grants	13122
 Development Budget. RECURRENT BUDGET	12597
 Direct Budget Support	5655
 Direct Budget Support The Federal Government	5655
+Directeur Général du Budget	15778
+Directeur Général du Budget Vice-président	16616
 Direction Generale du Budget	11794
 Direction Générale Budget	643
-Direction Générale du Budget	1306,724,531,1746
-Direction du Budget	1536
+Direction Générale du Budget	1306,724,531,1746,11054,26,325,85,139
+Direction Générale du Budget DGDDI	15840
+Direction du Budget	1536,14039
+Directions Générales Inspection Générale des Finances Budget	15449
 Director of Budget and Economic Affairs	11131,3
 Directorate of Budget	15004
 Directorate-General for Budget	10856
 Discipline Budgétaire	8750,3155
+Discipline Budgétaire Rapports	15722
 Discours du Budget	14800
 Distribution and Access Project. Budget	1538
+Document de Programmation Budgétaire Economique Pluriannuel	15712
+Domaine Indicateur Budgétaire	16328
 Domestic Revenue Mobilisation Strategy Annual Budget	3307
 Draft Budget and Related Policies	11251
+Du Cadre Budgétaire	15569
 Détail du Budget Général	1301,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,709,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2262,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 E.C. Budget Year Federal Government Budget	3201,1,1,1,1,1,1,1,1,1,3872,1,1,1,1,1,1,1,1
+ECONOMIQUE BUDGETAIRE ET SOCIAL DES MESURES	16328
 ECOWAS Community Budget	6422
+EQUILIBRE BUDGETAIRE Article	16047
+EQUILIBRE BUDGETAIRE CHAPITRE	16047
 ESMF Implementation Budget	1988
 ESMF Implementation Budget Activity	1988
+ESTIMATION BUDGETAIRE	15685
+ET DU BUDGET	16381
+ET DU BUDGET Arrêté	15455
 EU. Budget EUR	1084
+EVALUATION DES RECETTES BUDGETAIRES Article	16047
+EVALUATION DES RECETTES BUDGETAIRES CHAPITRE	16047
 EXECUTION BUDGETAIRE	2561
 EXECUTION DU BUDGET	998
 EXPENDITURE BUDGET PERFORMANCE	5655
@@ -419,8 +550,11 @@ Electricity and Energy Dept Budget Vote	11215
 Emerging Budget	7548
 Emerging Technologies Budgetary Service	7548
 Enacted Budget	6463,5751,1998,414
+Engagement Budgétaire	15569
+Engagement Budgétaire Article	15569
 Enhance Revenue and Budget Efficiency	2527
 Enquete Exploratoire Budjet-Consommation	13746
+Enquête Nationale Budget Temps	16246
 Environnementales DGB Direction Générale du Budget DG	10876
 Equatorial Guinea’s Ministry of Finance and Budget	57,284
 Estimated Budget	1988,11017,1852
@@ -430,20 +564,25 @@ Eswatini Budget	11131
 Executive Budget Proposal EFY	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Executive's Budget Proposal	6463,8163
 Executive’s Budget Proposal	14212
+Expenditure Budgeting	15790
 Extra Budgetary Units	14830
 Exécution Budgétaire	4420
 Exécution Budgétaire DLP	14573
 Exécution du Budget	998,9977
 Exécution du Budget du MCTIT Par Année	13500
 FCFA Digital Budget	5458
+FCFA. VI.1.1. Analyse Globale du Budget	15848
+FINANCES ET DU BUDGET CONTRAT	15426
 FINANCIAL YEAR BUDGET	13122
 FINANCIAL YEAR BUDGET REQUESTS	12597
 FINANCING PLAN AND BUDGET	13965,892
+FIXATION DES PLAFONDS DES BUDGETS ANNEXES	16047
 FY2017 Budget Proclamation	750,540
 FY2026 Budget Consultations	15004
 Federal Government Budget and Donor Agencies	11866
 Federal Ministry of Budget and Economic Planning	10063,93
-Finance and Budget	5787,30
+Finance and Budget	5787,30,10920
+Finance and Budget Committee	15886
 Finance and Budget Committees of Parliament	7695
 Finance and Budget Minister Essowe Georges Barcola	4395
 Finance and Budget Minister Georges Barcola	7426
@@ -462,12 +601,21 @@ Fiscal Year Budget	12714
 Fiscal Year Total Budget	13418
 Fiscal and Budget Decentralization	10775
 Five Star Hotel Project Budget	12962
+Fixed Budget	15411
+Fixed Budget FM Financial Management FY	15411
 Following Budget	14782,41
+Former Minister of Finance and Budget EQUATORIAL GUINEA	16631
 Fourth Quarter Federal Budget Vs Expenditure	1784,1,2,7,3
+Full Year Budget GoG IGF Funds	15716
+Funds GoC Budget Financiers IDA	15372
+GENERAL CONDITIONS FOR BUDGETARY AND FINANCIAL	15909
+GESTION BUDGÉTAIRE	15999
+GESTION DES BUDGETS	15537
 GOVERNMENT CAPITAL INVESTMENT PROGRAMME Budget	12962
 GPE Total Budget	13999
 GSM Buddie	12690
 GSM Buddie Student	12690
+GULATION BUDGETAIRE ET DE LA TRESORERIE	16047
 Gautam Budhnagar	11579
 Gender Responsive Budget Initiative of Rs	14742
 Gender Responsive Budgeting	11193
@@ -477,21 +625,27 @@ Gender-Responsive Budgeting. CHAPTER	13399
 Gender-Responsive Planning and Budgeting	12399
 General Budget	12201
 General Director of Budget	13314
+General Directorate of Budget and Public Finance	15447
 General State Budget	6694
+General State Budget. HEC	15393
+Gestion Budgétaire	16635,2
 GoK Budget B1- Value of NIF	7548
 Government Accounting and Budgeting System	2576
-Government Budget	12420
+Government Budget	12420,3612
 Government Budget Estimates	12970
 Government Budgets	7523
 Government Presents Budget Framework Centered	14873
 Government. Budget	4653
+Governorate Budget	15977
 Grants Budget	12977
+GÉNÉRALE DU BUDGET Directeurs Centraux des Affaires	16381
 HCP. Budget	8891
 Haseeb Budhani	5439
 Home Affairs Budget Vote Debate	3200,2996
 Home Affairs Dept Budget Vote	6196
+Homme Emile DOUMBA Le Ministre du Budget	15371
 Honourable Minister of Budget and National Planning	11129
-Household Budget Survey	9252,1884,4055
+Household Budget Survey	9252,1884,4055,327
 Housing Budget Shrinks	2428
 Hydrocarbures50 Le Budget	1594
 IBP International Budget Partnership	11887,266,1,9,178
@@ -503,9 +657,17 @@ ICT Sector Budget Allocation for FY24	1746
 ICT Sector Budget Slashed	2428
 ICT and Digital Economy Budget Policy Statement	5108
 IFMIS. Budget	13314
+IGF Budget	15712
 III.2.3 Direction Générale du Budget	10876
 IMPLEMENTATION OF BUDGET	14773
 INFORMATION AND COMMUNICATION TECHNOLOGY BUDGET MOTIVATION	12982
+INHERENT RISK H S Budgeting Elaboration	15659
+INHERENT RISK M M Budgeting Delay	15411
+IPF Investment Project Financing BSG Budget	15924
+IX. BUDGET PREVISIONNEL DU PMPP ET	16104
+IX.1.3. Budget du PNDS	15685
+IX.2.1. Budget	15685
+IX.2.2. Budget	15685
 Implementation Shall Define Budget Outcomes	8723
 Implementation of Budget Measures	14745,28
 Implementations of Budget Measures	14760
@@ -519,30 +681,42 @@ Integrated Household Budget Survey	11136
 Integrated System for Budgetary and Financial Management	11939
 Intergovernmental Budget and Economic Council	10122
 Intergovernmental Budget and Economic Council. Supporting	9939
-International Budget Partnership	6500,250,1263,1446,2407,2760
+International Budget Partnership	6500,250,1263,1446,2407,2760,1086,743
 International Budget Partnership's Zimbabwe	6463
 International Convention Centre Project Budget Government	12962
 Investissements du Budget	1682
 Item Estimated Budget Variance Variance	12971
+Jazz Budget	15471
 Joseph Budu	226
+Journaliste du Budget	15712
+Justice PTFs Budget SOS GIZ	15712
 Kenya Budget Speech	14932
 Kenya's Controller of Budget	6588
 L'EXECUTION DU BUDGET DE L'ETAT	10812
+LA DIRECTION GENERALE DU BUDGET	15761
+LA GESTION DES BUDGETS LA GESTION	15537
+LATION BUDGETAIRE	16047
 LETTRE DE CADRAGE BUDGETAIRE POUR L'EXERCICE	1866
 LG Total Budget Versus OSR	13418
 LG Total Budget Vs. OSR Collections	13418
 Lack of Budgeting	13532
-Le Budget	1281,5476,1349,6319
+Le Budget	1281,5476,1349,6319,2220
 Le Budget du BNM	14451
+Le Cadre Budgétaire	15569
 Le Document de Politique Budgétaire	3396
-Le Ministre du Budget	1231,3189
-Le Ministère du Budget	4420
+Le Ministre du Budget	1231,3189,12204
+Le Ministère du Budget	4420,12204,4
+Le Plan de Travail Budgétaire Annuel du SNIS	15530
+Le Système Intégré de Gestion Budgétaire	15650
 Legal Affairs and Budget	9341
 Legal Affairs and Budget Sosten Gwengwe	9220
 Les Dépenses Budgétaires	13772
 Les Recettes Budgétaires	13772
 Limited Budget	14835
 Local Authorities Budget Estimates for FY	14746
+Loi de Programmation Budgétaire MEPPSA	15673
+L’EQUILIBRE BUDGE	16047
+L’EQUILIBRE BUDGETAIRE	16047
 M ICT Budget	5715
 M- Budget	7548
 M-70M Budget	7548
@@ -556,10 +730,14 @@ MICDE Budget Treasury	7548
 MID-YEAR BUDGET PERFORMANCE	13055
 MID-YEAR BUDGET REVIEW REFORMS	13122
 MID-YEAR BUDGET REVIEW STATEMENT Presented	13055
+MINISTERE DES FINANCES ET DU BUDGET	15455,257,128
+MINISTERE DU BUDGET DIRECTION NATIONALE DES	16623
+MINISTRE DES FINANCESET DU BUDGET	16328
 MINISTRY’S RECURRENT BUDGET PERFORMANCE	12962
 MINISTRY’S RECURRENT BUDGET PERFORMANCE Estimated	12962
 MINISTÈRE DES FINANCES DU BUDGET ET	3715
 MINISTÈRE DU BUDGET	13908
+MODALITES RELATIVES A LA REGULATION BUDGETAIRE	16047
 MPSLS' Ministry of Budget	11905
 MTEF Medium-Term Expenditure WBI Women’s Budget	11193
 Malawi Budget Policy Statement	14674
@@ -586,29 +764,38 @@ Minister of Budget Robleh	13868
 Minister of Budget and Economic Planning	3054
 Minister of Budget and National Planning	2934
 Minister of Finance and Budget	11858
+Ministere Du Budget	15936
 Ministere des Finances du Budget	13771,25
 Ministeres. BUDGET ANNUEL REVISE	3165
-Ministre du Budget	4420,6485
+Ministre du Budget	4420,6485,4466,57,141,367,749
 Ministre du Budget. Article	4420
 Ministries and Other Extra- Budgetary Institutions	2775
 Ministries of Finance and Budget	3604
-Ministry of Budget	7143,4762,1963
+Ministry of Budget	7143,4762,1963,1579
 Ministry of Budget Responsible	11916
 Ministry of Budget and Economic Planning	7143,4326
 Ministry of Budget and National Planning	11129
 Ministry of Budget and Planning	5072
+Ministry of Budget. Risk Assessment and Mitigation Figure	15411
 Ministry of Finance Recurrent and Development Budget	12598
-Ministry of Finance and Budget	969,12,2623,8254
+Ministry of Finance and Budget	969,12,2623,8254,3800,3,90
+Ministry of Finance and Budget Key Dates Key	15619
+Ministry of Finance and Budget Management Information System	15658
 Ministry of Finance and Budget. The E-TAX	11858
+Ministry of Finance and Budget. Variation	16032
 Ministry of Finance's Programme-Based Budget	4491
 Ministry of Health Annual Budget Performance Report	12976
 Ministry's Budget Estimates	12602
 Ministry’s Budget Estimates and Capital Expenditure	14738,8
 Ministry’s Budget Process	12962
 Ministry’s Capital and Recurrent Budget Performance	12962
-Ministère du Budget	3024,1133,241,22,9423,65,524
+Ministère du Budget	3024,1133,241,22,9423,65,524,1504,429,263,13
+Ministère du Budget Guinée Author	16624
 MoF Budget Directorate	15004
 MoF's Budget Directorate	15004
+Modernisation Des Systèmes Budgétaires	15650
+Modernisation Des Systèmes Budgétaires URL	15650
+Moussa ADAMO Le Ministre du Budget	15560
 Mr. P. Budhoo Commanding Officer Special	14760
 Multi-Annual Budgeted Plan of Actions	13349
 N TRAINING MODE OF ASSUMPTION BUDGET	1988
@@ -662,6 +849,8 @@ Operating Expenditure Execution Description Budgeted	718
 Operational Budget and One Hundred and Fourty Million	12982
 Organic Budget Law	11866
 Organisation Budget	8726,408,140
+Orientation Budgétaire	15569,143
+Orientation Budgétaire Article	15569
 Original Budget Revised Budget Actual Received	14736
 Original Budget Revised Budget MUR MUR	14736
 Original Budget ZWL	13420
@@ -674,14 +863,24 @@ Overview of Somalia's Budgeting Landscape Somalia	15004
 PAENS. Rising Budget Allocation	5056
 PART DANS LE BUDGET GLOBAL AXE	10965
 PART IV BUDGET PREPARATION PROCESS	13318
+PENSES DU BUDGET GENERAL	16047
+PENSES DU BUDGET GENERAL Article	16047
 PGES Mesures du PGES Budget	14488,1,1
 PILLARS Budget Funding	395
+PLAFONDS DES DEPENSES DU BUDGET	16047
+PLAN D'ACTION BUDGETISE DE LA STRATEGIE	15479
+PRESENTATION DES BUDGETS ANNEXES ET DES	16047
+PRESENTATION DU BUDGET GENERAL PAR TITRE	16047
+PRESENTATION DU BUDGET GENERAL SECTION	16047
+PROBMIS SYDONIA Integrated Public Financial and Budget	15480
 PROCESSES Municipal Budgets	11231
 PROGRAMMATION BUDGETAIRE Accélération	10858
+PROGRAMME BASED BUDGET ESTIMATES	15716
 PROGRAMME RESOURCE CONSIDERATIONS Budget	11986
 PROPORTION DU STRATEGIQUES BUDGET PAR AXE	10965
 PROVINCIAL BUDGET ALLOCATION	11285
 PS Ministry of Budget	13896
+PTFs Budget GIZ Ministère	15712
 Parallel Budget Across	6588
 Parliament the Recurrent Budget Estimates	12602
 Parliament. These Budget Proposals	12580
@@ -689,7 +888,10 @@ Parliamentary Budget Office	6463
 Penn Wharton Budget Model	11140
 Percentage of Budget Executed	13005
 Performance-Based Budgeting	14748
+Plan de Travail Annuel Budgétisé PTF	15423
 Planning and Budgeting Committee	12956,6,8
+Plans de Travait Budgétaires Annuels	15530
+Policy Recommendations. Budget	15752
 Post Budget Seminar	11131
 Post Budget Seminar Hosted the Post Budget	11131
 Post Budget Seminar. CBE	11134
@@ -711,7 +913,8 @@ Program Based Budget Pilot	14626
 Program Based Budgeting	15090
 Program Based Budgets	13005
 Program-Based Budgeting	13060,1944
-Programme Based Budgeting	13685
+Programmation Budgétaire ESU	16365
+Programme Based Budgeting	13685,2105
 Programme-Based Budget	1514,694,2282,1
 Programme-Based Budget Estimates	1512,1,1,2969,7,1
 Project Activities Budget Funding US	395
@@ -720,6 +923,7 @@ Project Budget USD	14924
 Project Description Budget Allocation District Specific	11986
 Project Management and Citizen Engagement. Budget	4653
 Projet de Budget	13923
+Proposed Budget Reallocations Across Components	16187
 Proposed Capacity Building and Training Budget	12253
 Proposed Recurrent Budget	12606
 Proposed Revised Budget Post Restructuring	2989
@@ -729,17 +933,25 @@ Public Budget Preparation and Execution System	9489
 Public Information Budget	5244
 Publication of Budget	11866
 Q2 Estimated Budget Released Expenditure Commitm	12962
+QUILIBRE BUDGÉTAIRE GT-HUITIÈME.- Pour	15999
 Quarterly Economic and Budgetary Review Reports	10313
+RATIONS DE DEPENSES DU BUDGET GENERAL	16047
+RATIONS DE RECETTES BUDGETAIRES	16047
+RECETTES BUDGETAIRES TOTAL DEPENSES BUDGETAIRES	15999
+RECETTES NETTES BUDGET GENERAL	15999
 RECURRENT AND DEVELOPMENT BUDGET	12580
 RECURRENT AND DEVELOPMENT BUDGET REQUESTS	12580
 RECURRENT BUDGET	12970
 RECURRENT BUDGET AND EXPENDITURE REPORT	12975
 RECURRENT BUDGET ESTIMATES	12606
+RELEASED BUDGET	15927
 REPARTITION DU BUDGET PAR OBJECTIF Objectif	13306
+RESUME BUDGET DE L’ETAT RESSOURCES BUDGETAIRES	16047
 RRA BUDGET EXECUTION	14985
 RRA Budget	14985
 RRA Budget and Expenditure	14985
 RUBRIQUE EXECUTION BUDGET	998
+Ratio Budget Santé	15475
 Recurrent Budget	12598,8
 Recurrent Budget Book	6431
 Recurrent Budget Expenditure Summary	12962
@@ -749,6 +961,8 @@ Recurrent Budget for Organisation	12597,5
 Recurrent Budget for Organization	12580
 Recurrent Budget of P1	12598
 Recurrent and Development Budget	12580,17,1
+Regional Budget Hearings	15790
+Regional Integrated Budget	15790
 Regional State Budget	5655
 Regular Budget. Project Budget	14924
 Regulation and Standards Strategic Project Budget Funding	395
@@ -763,8 +977,12 @@ Revenue Management Budget	11939
 Revenue Mobilisation Budgetary	10759,78,1315,188
 Revised Budget	15023
 Revised Budget and Actual	14736
+Risques Budgétaires	15840
 RÉPARTITION DES DÉPENSES DU BUDGET	2476
 Règlement de Gestion des Budgets Publics	13334
+Réforme Budgétaire PF	15475
+Répartition du Budget	15685
+République de Guinée Ministère du Budget Direction Nationale	16629
 S M Budgeting	10829
 SEP Budget Table Budget Category	1778
 SFMIS Budget Preparation Module	15148
@@ -786,16 +1004,23 @@ South Africa. This Budget Vote	11272
 South Sudan National Budget Analysis Report	3583
 Stakeholder Engagement Budget	12990
 State Budget	5841,186,5509,319,84,16
+State Budget Allocations	16032
 State Budgets	11536
 State Security Agency Dept Budget Vote	11277
 States Budgets	14857
 Sub Department Amount Budgeted	14738
+Subvention du Budget Général	15999
 Supplementary Budget II	2428
 Supplementary Budget Proclamation No	1784,1,2,10
 Supplementary Budget ZWL	13420
 Supplementary Budget. Correspondence	13420
+Système Inter-Gouvernemental de Budgétisation	15650
+Système Intégré de Gestion Budgétaire	15650
+Système Intégré de Gestion des Operations Budgétaires	16032
 Système Statistique National Budget Etat	10874
+TAUX DE REALISATION DES ACTIVITES BUDGETISEES	15999
 TITRE DU BUDGET DE L'ETAT	3396
+TITRE VIII BUDGET ET RESSOURCES	15410
 Technologies Infrastructure Investment Budget	7548
 Technologies Infrastructure Readiness Budget Treasury	7548
 Telecom Budgets	10245
@@ -804,6 +1029,7 @@ Timeframes and Budgets Implementing	7548
 Training Budget Training Budget Item Number	12253
 Transmission Backbone Project. Budget	1539
 Transport and Communication Budget	12977
+Travail DIRECTION GENERALE DU BUDGET Octobre	15840
 Trillion Birr Budget	3176
 Trillion Birr Budget for Upcoming Ethiopian Fiscal	1798
 Trillion Birr Federal Budget	7091
@@ -814,12 +1040,15 @@ VII. BUDGET UTILISATION FOR FINANCIAL YEAR	12598
 VII. CADRE PROGRAMMATIQUE ET BUDGET VII.1	13306
 VII.2 RÉPARTITION DU BUDGET PAR AXE	13306
 VII.3 BUDGET DÉTAILLÉ Type Libellé Indicateurs	13306
+VIII. CARACTERISTIQUES DU BUDGET DE REALISATION	15624
 VIII. PROPOSED MINISTRY BUDGET FOR FINANCIAL	12598
 Vashish Kiranchand Sookrah Le Budget	7994
+Villes Budget	16627
 Volatility Budget	12241
 Women’s Budget Initiative	11193
 Women’s Budget Initiative Among	11193
 Work Plan and Budget BPO Build	1264
+World Bank Review Approach Budget	15518
 XII. BUDGET ESTIMATIF	14442
 YEAR BUDGET IMPLEMENTATION REVIEW	5655
 YTD YTD Budget YTD Actual Estimate	6422

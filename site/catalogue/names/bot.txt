@@ -2,6 +2,7 @@ A1 PEQUEÑAS FARMACIAS Y BOTIQUINES	4209
 AI Chat Bots	11231
 ALMASI BOTTLERS LIMITED Data Controller INST-574931AB321	7167
 ARSO President Botsile Kebapetse	14273
+ASPERB BAD BEAC BET BM BOT	15542
 Aayushya Ranjan SmartSwitch Botswana	2935
 Absa Bank Botswana	3951,5515
 Absa Bank Botswana Regional Head for Physical	9466
@@ -24,6 +25,7 @@ Angel Network Botswana BDC	12540
 Angel Network Botswana. Ponatshego	12540
 Angola and Botswana	12568
 Annual Report of Statistics Botswana	12551
+Applied Technical Schools BoTPT Boards of Trustees	15604
 Authors Ndekazi Botha The University of Zambia	12467
 B Africa Follow-Up Phase Botswana	12625
 BANK OF BOTSWANA	12537
@@ -38,6 +40,7 @@ BOT and FSDT	2858
 BOT. Pour le Port Autonome de Douala	5291
 BOTANICAL EXTRACTS EPZ LIMITED Data Processor	7167
 BOTHA BOTHE	12683
+BOTOKET POATY	15744
 BOTSAT-1	2553,1517,8,108,1142,116,1453
 BOTSAT-1 Launch Telecom Review Africa	2553
 BOTSWANA	12232
@@ -71,6 +74,7 @@ Bilateral Visits From Botswana	12617
 BoT Bill	2207
 BoT Governor Emmanuel Tutuba	8465
 BoT Wakati BoT	8615
+BoTPTs	15604
 BoTopho	12999
 Board of Directors of Statistics Botswana	12530
 Board of Statistics Botswana	12551
@@ -114,7 +118,10 @@ Botlhe Matlhodi	12611
 Botlokwa	11967
 Botnet	6946
 Botnet Attacks	3214
+Botnets	15759
 Botolo	6809
+Botou	15715
+Botou Tapoa Est	15715
 Bots Sociais	3519
 Botsalano	12552
 Botsalano Primary School	12625
@@ -122,7 +129,7 @@ Botshabelo	6832
 Botshabelo Infill and Metsimotlhabe Block	12605
 Botsuana	11437
 Botsuana. Cristina Caniço	8492
-Botswana	8,12,6,1,1,12,12,184,82,85,29,189,91,2,52,72,24,96,4,51,141,89,120,12,90,89,66,20,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,110,10,120,36,142,143,95,42,2,149,16,7,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,18,49,4,1,37,2,41,18,75,1,6,19,1,3,7,30,11,12,85,30,156,12,7,71,22,102,109,56,39,20,52,1,33,25,27,1,22,18,10,80,4,89,2,6,5,11,12,39,31,10,3,36,16,11,174,157,7,84,35,100,103,19,1,40,15,73,70,111,9,11,2,32,20,13,21,14,19,11,37,1,2,11,1,1,1,2,12,2,25,1,31,1,8,4,10,70,4,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,33,5,25,18,20,1,13,20,6,57,27,18,33,27,28,13,57,16,36,3,7,25,16,6,1,47,14,15,20,10,48,1,33,74,27,9,70,104,2,2,1,1,67,64,6,2,16,28,50,21,41,58,18,22,4,2,4,190,2,1,36,116,47,2,69,162,1,35,36,277,88,20,1,35,1,155,117,40,309,385,95,45,251,146,51,49,61,17,27,110,27,1,22,78,66,1,85,55,5,51,4,36,5,75,67,1,112,2,14,29,26,8,1,41,3,2,4,2,99,5,18,37,135,194,66,7,10,183,9,139,96,26,16,1,2,97,165,2,1,9,47,22,20,11,62,2,14,11,1,14,16,2,14,29,60,35,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,2,1,1,1,2,1,1,2,1,1,1,4,1,1,1,1,1,1,1,1,2,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,16,3,3,8,37,21,123,66,15,7,2,5,15,10,5,32,25,26,34,53,1,147,15,36,24,42,22,9,26,3,32,28,25,106,4,18,28,41,15,329,68,81,53,76,450,109,324,3
+Botswana	8,12,6,1,1,12,12,184,82,85,29,189,91,2,52,72,24,96,4,51,141,89,120,12,90,89,66,20,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,110,10,120,36,142,143,95,42,2,149,16,7,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,18,49,4,1,37,2,41,18,75,1,6,19,1,3,7,30,11,12,85,30,156,12,7,71,22,102,109,56,39,20,52,1,33,25,27,1,22,18,10,80,4,89,2,6,5,11,12,39,31,10,3,36,16,11,174,157,7,84,35,100,103,19,1,40,15,73,70,111,9,11,2,32,20,13,21,14,19,11,37,1,2,11,1,1,1,2,12,2,25,1,31,1,8,4,10,70,4,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,33,5,25,18,20,1,13,20,6,57,27,18,33,27,28,13,57,16,36,3,7,25,16,6,1,47,14,15,20,10,48,1,33,74,27,9,70,104,2,2,1,1,67,64,6,2,16,28,50,21,41,58,18,22,4,2,4,190,2,1,36,116,47,2,69,162,1,35,36,277,88,20,1,35,1,155,117,40,309,385,95,45,251,146,51,49,61,17,27,110,27,1,22,78,66,1,85,55,5,51,4,36,5,75,67,1,112,2,14,29,26,8,1,41,3,2,4,2,99,5,18,37,135,194,66,7,10,183,9,139,96,26,16,1,2,97,165,2,1,9,47,22,20,11,62,2,14,11,1,14,16,2,14,29,60,35,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,2,1,1,1,2,1,1,2,1,1,1,4,1,1,1,1,1,1,1,1,2,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,16,3,3,8,37,21,123,66,15,7,2,5,15,10,5,32,25,26,34,53,1,147,15,36,24,42,22,9,26,3,32,28,25,106,4,18,28,41,15,329,68,81,53,76,450,109,324,3,185,13,11,537
 Botswana Academy of Sciences	12544
 Botswana Accelerates Digital Transformation TechAfrica News	4070
 Botswana Accountancy College	4060,8538,14
@@ -137,6 +144,7 @@ Botswana BWA Finalised	13082
 Botswana Botswana	12594
 Botswana Brazil	10714
 Botswana Bureau of Standards	12526,13,31
+Botswana Burkina Faso Burundi Cabo Verde	15724
 Botswana Business Forum	6117
 Botswana By Lezeth Khoza	2936
 Botswana By Matshepo Sehloho	3688
@@ -448,7 +456,7 @@ Botswana’s Parliament	4583
 Bottines	13375
 Bottled	12383
 Bottleneck	12445
-Bottlenecks	10962,178
+Bottlenecks	10962,178,4464
 Bottlenecks Tier	15164
 Bottles	13385
 Bottom	2677,3755,5146,675
@@ -464,7 +472,7 @@ Bottom-Up Economic Transformation Agenda	3015,875,1220,1206,658,574,40,243,2801,
 Bottom-Up Economic Transformation Agenda. Isaboke	10796
 Bottom-Up Problem Framing	8013
 Bottom-fixed	14745
-Bottom-up	4259,7313,453
+Bottom-up	4259,7313,453,3504
 Bottom-up Economic	12151
 Bottom-up Economic Organization	6946
 Bottom-up Economic Transformation Agenda	10330
@@ -516,6 +524,7 @@ Digital and Innovation Hub Botswana International University	1554
 Districts of Boteti	12552
 D’ABENGOUROU ET DE DALOA Botro	2342
 ERNIE Bot	8460
+ESP. Bottom-up	15604
 EXECUTIVE SUMMARY Botswana	12536
 Earth. Botswana	6897
 Economic Category BeTA Bottom-up Economic Transformation	2775
@@ -542,6 +551,7 @@ Gaborone Botswana Fax	12642
 Gaborone. Botswana	5393,717
 Germany and Spain. In M. Botto-Tobar	7886
 Ghana and Botswana	6212,4919
+Ghana. Daniel Kwaku Botwe	15628
 Glance The Government of Botswana	12534
 Global Entrepreneurship Network Botswana	12540
 Global Expo Botswana	12625
@@ -565,10 +575,13 @@ India Association of Botswana	12617
 Inside Botswana	7046,4554
 Institutional Bottlenecks70	15164
 Inês Correia Botelho JE Leitor	4938
+Ioana Alexandra Botea ABBREVIATIONS AND ACRONYMS	15782
+Ioana Alexandra Botea Beneficiary Country	15782
 Ioana Botea	10985
 Ivoire Botswana Ghana Namibia	12278
 JICA Botswana	12620
 Jakkie Botha	11660
+Jardim Botânico Grandvaux Barbosa	15380
 Jerry Botha Clinic	11980
 KENNEDY RAMOKONE Botswana	7238
 Kamogelo Mowaneng. PIC PHATSIMO KAPENG Botswana	3761
@@ -583,8 +596,10 @@ Legal Aid Botswana	12566
 Lemohang Botsane	8700
 Liquid Enhances Botswana's Digital Infrastructure	6165
 Liquid Intelligent Technologies Botswana	6165
+M Dimitri BOTONGO MABEKI	15685
 MILLION TO THE REPUBLIC OF BOTSWANA	12560
 MORERI SEJAKGOMO Botswana	7236
+MOUDJIGUI. Confirmé M. NYAMANGOYE BOTOUNOU	16175
 MRA WhatsApp Bot and Employee Self-Service	13053
 MTN Business Botswana	3897
 Madagascar and Seychelles. Botswana and Zimbabwe	318
@@ -613,6 +628,7 @@ Mn. Bottom-line Performance Earnings Before Interest	3898
 Mobile Botswana Mascom Botswana Orange Botswana	1013
 Mobile Repairs Free State Botshabelo Mangaung	6832
 Money Botswana	5666
+Monique Mogue Kamga Ioana Alexandra Botea	15601
 Mozambique Zimbabwe Botswana South Africa North	9616
 Ms. Caroline Setshedi Botlhole Mmopi	12552
 Mukuru Botswana	10418
@@ -623,6 +639,8 @@ Nana Appiah Acquaye The Botswana Communications	6271
 National Assembly of Botswana	12617
 National Statistical System. The Botswana Data	12551
 Ndekazi Botha	12467
+Nigeria NGWANA ENTERPRISES Botswana Northern Innovation	15460
+Nigeria and Botswana	15471
 No.1 Amanfro Ashaley Botwe Street	3386
 Occupation Botswana	14098
 Ocean Bottom Cable	11405
@@ -664,6 +682,7 @@ Republic of Botswana and KP Group Sign MoU	12576,1
 Republic of Botswana. Annual	12575
 Republic of Botswana. Welcoming the President	12568
 Research ICT Solutions and Baker Botts	1364
+SAMBA BOTCHO	15455
 SSR Botanic Garden	14267
 STATISTICS BOTSWANA BOARD CHAIRPERSON	12551
 Samuel Adom Botchway	3287
@@ -712,6 +731,7 @@ University of Botswana	4060,10,1782,3856,1920,905,1,10,7,23,4,3,18,12,3,1686
 University of Botswana Cover	12533
 University of Botswana Enters VR Space	5852
 University of Botswana and Eswatini	11131,3
+Unlimited Botswana Telecommunications Corporation Limited	15471
 Urban Bottleneck	6876
 Using the Botswana Multi-Topic Household Survey	12541
 Village Digital Safety Botswana Initiative	11600

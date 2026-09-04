@@ -3,10 +3,11 @@ ABUS ET EXPLOITATION SEXUELLES	14490
 ACTIVITÉ SEXUELLE RÉCENTE	13300
 AVEC SEXE RÉSIDENCE	13300
 Abus Sexuel	14488,1,1
+Abus Sexuel EMSP Ecole Multinationale Supérieure	15746
 Abus Sexuels	14488
 Abus Sexuels EI	10876
 Abuse STI Sexually Transmitted Infection TWG	12939
-Abuso Sexual	11390,16,7
+Abuso Sexual	11390,16,7,4553
 Abuso Sexual EAS	11413
 Actividade Sexual Recente	10777
 Adolescent and Youth Sexual	10865
@@ -30,11 +31,14 @@ Availability of Sex-Disaggregated Data	12389
 Availability of Sex-Disaggregated Statistics	12389
 B RAP. SEXUELS PEU FRÉQUENTS	13300
 BIRTH PLACE OF BIRTH SEX VILLAGE	12410
+BOLETIM OFICIAL Sexta-feira	15433,71,185
 BRUT D'ADMISSION PAR SEXE	10847
 BRUT DE SCOLARISATION PAR SEXE Nombre	10847
 Body Sexta-feira	12823
+Burkinabè Sexe MORTALITÉ GÉNÉRALE Milieu	15557
 CE2 CM1 CM2 Total Sexe	10847
 CM1 CM2 Total Sexe	10847
+COMMUNE Sexe CP1 CP2 CE1 CE2	15639
 CORPS ET FONCTION IV.1.1 Public Sexe	10847
 CORPS ET FONCTION IV.1.2 Privé Sexe	10847
 CORPS ET FONCTION IV.1.4 Urbain Sexe	10847
@@ -103,18 +107,23 @@ GE AUX PREMIERS RAPPORTS SEXUELS	13300
 Gender Based Violence and Sexual Exploitation and Abuse	1988
 General and Sex-Disaggregated Statistics	12389
 Ghana. Sex	582
+Goal SEA Sexual Exploitation and Abuse SH	15661
 H Sexe	13442
 HABITUELS LIEN AVEC SEXE RÉSIDENCE	13300
 HIV and Sexually Transmitted Infections	14839
+HS Harcèlement Sexuel IST Infection Sexuellement	15746
 Harcèlement Sexuelles MECIE	14488,1,1
 Health and Rights STD Sexually Transmitted Disease	970
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
+Hygiène Publique MST Maladies Sexuellement Transmissibles	15746
 INFECTIONS SEXUELLEMENT TRANSMISSIBLES DÉCLARÉES Infections	13300
 Inactive Population Both Sexes	14815
 Industry and Sex	2775
 Infecciones de Transmisión Sexual	4209
 Infecciones de Transmisión Sexual KDI	1701
-Infections Sexuellement Transmissibles	13300
+Infection Sexuellement Transmissible	15423
+Infection Sexuellement Transmissible JNV	15685
+Infections Sexuellement Transmissibles	13300,3185
 Infecções Transmissíveis Sexualmente	10777
 Interpol International Child Sexual Exploitation Database	12628
 Interpretação Sexo	11421
@@ -138,6 +147,7 @@ MATANA MUSONGATI Urbain Sexe Masculin Féminin	13390
 Makamba Muramvya Muyinga Mwaro Sexe	13442
 Makamba Muramvya Muyinga Sexe	13442
 Makamba Muramvya Sexe	13442
+Maladie Sexuellement Transmissible MTA	15475
 Maladies Sexuellement Transmissibles	14488,1,1
 Maladies Sexuellement Transmissibles NA	13377
 Malawi. Int. Pers. Sexual and Reprod. Health	13040
@@ -202,6 +212,7 @@ Premarital Sex	15247
 Prevalence of Sexual Violence	15247
 Prevalência da Violência Sexual	10777
 Prevention of Sexual Exploitation	12729
+Prevention of Sexual Exploitation and Abuse PVS Performance	15966
 Primeira Experiência de Violência Sexual	10777
 Primeira Relação Sexual	10777
 Privé Sexe I.P. Total Travaillant	10847
@@ -214,6 +225,8 @@ RAPPORTS SEX. PEU FRÉQUENTS	13300
 RAPPORTS SEXUELS PAYANTS	13300
 REFUSE RAP. SEXUELS	13300
 REPÚBLICA DA GUINÉ-BISSAU BOLETIM OFICIAL Sexta-feira	11569
+RFP Request for Proposals SEA Sexual Exploitation	15518
+RPF Resettlement Policy Framework SEA Sexual	15621
 Recent Sexual Activity	15247
 Recovery and Human Development SRHR Sexual and Reproductive	970
 Region Physical Sexual Neglect Emotional Financial	12977
@@ -225,8 +238,10 @@ Review of Sexual and Gender-Based Violence Laws. Christine	8948
 Review the DHA Sexual Harassment Policy	11986
 Rights Sexual Exploitation and Abuse	4653
 Rural Sexe Age Total Nombre	10847
+Répression des Violences Sexuelles Faites	16478
 SDR Special Drawing Rights SEA Sexual	10829
 SEA Strategic Environmental Assessment SEAH Sexual	11863
+SECTION II DES INFRACTIONS SEXUEIIES ET	15429
 SEP Stakeholder Engagement Plan SH Sexual	1988
 SERAT Sexuality Education Review and Assessment Tool	12975
 SEX OF HOUSEHOLD HEAD	15244
@@ -245,11 +260,13 @@ SEXUELS DE RAPPORTS SEXUELS	13300
 SEXUELS RAPPORTS SEXUELS	13300
 SEXUELS SANS RISQUE AVEC LE MARI	13300
 SGBV Sexual and Gender-Based Violence SODV Sexual	12939
-SH Sexual Exploitation and Abuse	1867,1737,7164,792,3578
-SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132
+SH Sexual Exploitation and Abuse	1867,1737,7164,792,3578,377
+SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132,4434,401
 SH Sexual Harassment SME Small and Medium	1264
+SH Sexual Harassment SMP Security Management	15621
 SH Sexual Harassment STEP Systematic Tracking	10829
 Sale and Sexual Exploitation of Children	14742
+Santé Sexuelle	15685
 Satellite PMU and Contractor Sexual	1988
 Saúde Sexual	10777,2020
 Section Couture Menuiserie Soudure Total Sexe	13442
@@ -258,6 +275,7 @@ Self-reporting of Sexually Transmitted Infections	15247
 Sex District	12379
 Sex Femme	737
 Sex Male	14666
+Sex Male Female Total Marital	15574
 Sex Male Female Total Western Cape	11192
 Sex Physical Sexual Neglect Emotional Financial	12977
 Sex Ratio	958,8527,2666
@@ -282,12 +300,12 @@ Sex of Household Head The MPI	15244
 Sex of Respondents Male Female	12978
 Sex of Value MPI Value H	15244
 Sex-Disaggregated	12389
-Sex-disaggregated	4688,3189,4512
+Sex-disaggregated	4688,3189,4512,3755
 Sex-ratio	12413,2643
 Sexact	8606
 Sexe Femme	737
 Sexe Homme Femme Mixte Age Jeune	13390
-Sexe Masculin	737,12563,90
+Sexe Masculin	737,12563,90,2209
 Sexe Nationalité Effectif Pourcentage Homme Nationaux	10875
 Sexe Nombre	10847
 Sexe Numéro	13300
@@ -310,26 +328,30 @@ Sexo Total Província	4044
 Sexo Urbana Rural Homens Mulheres	4044
 Sexta	3906,2835,1853,665,1,1518,654,47,6,91,3687
 Sexta Edição	10752
-Sexta-feira	14,781,2071,8607,1301,11
+Sexta-feira	14,781,2071,8607,1301,11,2619
+Sextortion	16505
 Sexual	587,10163,26,53,1087,337,650,36,23,396,1780,68,41
 Sexual Abuse	13185,1895
 Sexual Behaviour	14067,1180
 Sexual Exploitation	9766,1010,2409,1895
 Sexual Exploitation Abuse and Sexual Harassment Action	14976
-Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290,433,25
+Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290,433,25,581
 Sexual Exploitation and Abuse Mitigation Plan	2889
 Sexual Exploitation and Abuse Politique Nationale de Santé	14622
 Sexual Exploitation and Abuse Risk Overview Index	15115
+Sexual Exploitation and Abuse SBD Standard Bidding	15659
 Sexual Exploitation and Abuse Specialist	11417
 Sexual Exploitation and Abuse The Project	1988
 Sexual Exploitation and Abuse and Sexual Harassment	1988,13150
 Sexual Exploitation and Abuse and Sexual Harassment Action	13331
 Sexual Extortion	12459
-Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25
+Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581
 Sexual Harassment Performance Declaration	13185
 Sexual Harassment Policy. The DHA	11986
-Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737,7956,3578
+Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737,7956,3578,377
 Sexual Harassment SIGAS Social Action Management	10768
+Sexual Harassment SMC School Management Committee	15661
+Sexual Harassment Stakeholders Engagement Plan Behavior	15658
 Sexual Health Today	5574,215
 Sexual Offences Act	1988,6960
 Sexual Offences and Domestic Violence Act	12939
@@ -364,8 +386,10 @@ Study Total Sex Rural	12431
 Study and Sex	2775
 Sud-Ouest Sexe	737
 Sud-Ouest Sexe du CM	737
+Sustainable Development Goal Sexual Exploitation and Abuse	15658
 Symptoms of Sexually Transmitted Infections and Prior HIV	15247
 Syndrome Immunodéficience Acquise Violences Sexuelles Basées	13442
+T Infection Sexuellement Transmissible	15711
 TRENDS COURSE REGISTRATION BY SEX POSTER	13095
 TYPE D'ECOLE ET SEXE III.4.1 Public	10847
 TYPE D'ECOLE ET SEXE III.4.2 Privé	10847

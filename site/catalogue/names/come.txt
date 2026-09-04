@@ -14,6 +14,7 @@ ANUAL CUOTA ANUAL COMERCIO Ficha	4209
 Actividade Comercial Externa	10757
 Actividade Comercial Província Total Nem Importador	10757
 Activity COMESA Clearing House Users Group	11131
+Acuerdo de Libre Comercio de Europa Central	15478
 Administrativo A2 Agregado Comercial A1 Cónsul	4209
 African Union and COMESA Election Observation Mission	10016
 Agregado Comercial	4209
@@ -52,6 +53,9 @@ CCCC COMESA	4583
 CMS Central Management System COMESA Common	13005
 CNRF CPMI CSD COMESA EAC EAPS	13468
 COMEDAF	13960
+COMEDEC	15936
+COMEG	15423
+COMENA	16103
 COMENTE Nome	11587
 COMERCIALES	4209
 COMERCIANTES DO MERCADO INFORMAL	8052
@@ -66,7 +70,7 @@ COMERCIO Certificado de Comercio Libreta	4209
 COMERCIO Ficha	4209
 COMES NEXT	10714
 COMES NEXT The ID4D Global	10714
-COMESA	26,1,1,844,331,501,63,3,44,100,283,94,421,63,962,11,12,93,33,53,589,10,45,1956,481,241,684,18,76,255,41,259,401,158,29,334,500,297,59,181,578,3,15,739,72,83,110,10,29,94,55,11,1,23,50,18,9,35,24,406,24,20,47,33,11,40,147,50,11,19,23,2,42,1,31,12,9,3,9,16,20,12,63,61,49,195,140,72,58,87,42,24,274,179,4,70,1,116,25,25,12
+COMESA	26,1,1,844,331,501,63,3,44,100,283,94,421,63,962,11,12,93,33,53,589,10,45,1956,481,241,684,18,76,255,41,259,401,158,29,334,500,297,59,181,578,3,15,739,72,83,110,10,29,94,55,11,1,23,50,18,9,35,24,406,24,20,47,33,11,40,147,50,11,19,23,2,42,1,31,12,9,3,9,16,20,12,63,61,49,195,140,72,58,87,42,24,274,179,4,70,1,116,25,25,12,1253,381
 COMESA AI	8995
 COMESA AUTHORITY OF THE HEADS	13440
 COMESA Ambassador Conrad Mederic	13440
@@ -86,7 +90,7 @@ COMESA Clearing House	2197,4
 COMESA Clearing House Bank Al-Maghrib SIMT	6938
 COMESA Committee of Governors Meeting	11131
 COMESA Committee of Governors of Central Banks	2276
-COMESA Common Market for Eastern and Southern Africa	11960,1428
+COMESA Common Market for Eastern and Southern Africa	11960,1428,3243
 COMESA Competition Authority	4583
 COMESA Competition Commission	9817
 COMESA Competition Regulations and Competition Rules	961
@@ -140,6 +144,8 @@ COMESA. Zimbabwe	3760,9683
 COMESAClearingHouse	9516
 COMESA’s Regional Payment and Settlement System	10372
 COSOMA and COMESA Virtual Trade Facilitation System	13053
+COVID-19. La Organización Mundial de Comercio	15478
+Certidão Comercial	15995
 Certidão Comercial Online	12021
 Certidão Comercial Online Manuais de Utilizador	12021
 Certificado de Comercio	4209
@@ -155,13 +161,15 @@ Come Honourable Speaker	11246
 Come and See Burundi	13341
 Comece	10777
 Comedians	11131
+Comentar	15564
+Comente	16262
 Comentários São Tomé	3530
 Comenzó	3179
-Comercial	37,5439,1092,3750,435,612
+Comercial	37,5439,1092,3750,435,612,4038
 Comercial A2 Agregado Comercial A3 Cónsul	4209
 Comercial A3 Agregado Militar A3 Consejero	4209
 Comercialización	4209
-Comercialização	2816,8716
+Comercialização	2816,8716,4240
 Comercialização Interna de Castanha de Caju	11532
 Comercialização Interna de Castanha de Caju. Comercialização	11532
 Comerciante	11438
@@ -169,12 +177,14 @@ Comerciantes	1701
 Comercio	4209,2632,3086,434,1660,2244
 Comercio Digital	10361
 Comercio Exterior	4209
+Comercio Internacional	15478
 Comercio Libreta	4209
 Comercio de Bioko Malabo	4209
+Comercio de Especies	15478
 Comercio. Esta	14265
 Comers	11986
 Comes	3188,1792,6984
-Comes Next	4625,7619,1010,315
+Comes Next	4625,7619,1010,315,2685
 Comes Next For Shaqodoon	15178
 Comes Next The FCCPC	7181
 Comes Next Would Tip the Balance	8464
@@ -183,6 +193,7 @@ Comet Plus	13461
 Comete	3519
 Cometidos	10747
 Começamos	10786
+Comité de Gestion COMEG	15423,262
 Commission COMFWB COMESA Federation of Women	12376
 Commission for Control of Insurance COMESA Common Market	14997
 Communities COMESA	961
@@ -194,6 +205,7 @@ Consultancy For The Development Of COMESA	11825
 Continental Africana de Libre Comercio APP	1701
 Contrato Comercial	11372
 Cybersecurity Incident Response Team COMESA Common	6539
+Cálculo Comercial	15772
 Cámara de Comercio	4209
 Cámara de Comercio Malabo	4209
 Cámaras de Comercio	1701,2508
@@ -214,8 +226,9 @@ December. COMESA	12192
 Descoberta Comercial	11405
 Directora General de Comercio	9927
 Direcção Comercial da INACEP	11518,1
-Direito Comercial	11358
+Direito Comercial	11358,4414
 Direção Comercial da INACEP	11527,42
+Direção Nacional da Industria Comercio	16056
 EAC and COMESA	12286,2190
 ECA and COMESA	1704
 East African Community and COMESA	12469
@@ -223,6 +236,9 @@ Econet’s Fintech Comeback Pays Off	3016
 El Comercio Electrónico	9927
 Emerging Technologies Consultancy. Feeds the COMESA Regional	7261
 Employment COMESA Media Awards	13563
+Empresas Comerciais	15391
+Empresas Comerciais. Artigo	15391
+Empresas Comerciais. CAPÍTULO IV Pessoal Artigo	15391
 Encuesta Sobre Márgenes Comerciales	4209
 Endangered Species of Wild Fauna and Flora COMESA	13042
 FACTORIAS Y COMERCIO EN GENERAL	4209
@@ -259,10 +275,12 @@ Mº de COMERCIO	4209
 News Online Platforms Employment COMESA Media	13563
 O Projeto de Desenvolvimento da Agricultura Comercial	10769
 O SEU NEGÓCIO COMEÇA AQUI	10773
+Océan Indien COMESA	15670
 Operation Come	899
 P. ON COMESA DIGITAL RETAIL PAYMENT	13440
 P502532 COMESA IPF	6539
 PESSOAS SINGULARES COM ACTIVIDADE COMERCIAL	11435
+POTENCIALIZAR O DESENVOLVIMENTO INDUSTRIAL E COMERCIAL	16487
 Partilhar Tweetar Partilhar Email Comentários	2315,3242
 Partilhar Tweetar Partilhar Email Comentários Duas	2444
 Partilhar Tweetar Partilhar Email Comentários São	5819
@@ -271,12 +289,14 @@ Política de Comercio	1701
 Processo de Constituição de Sociedades Comerciais	11365
 Protocolo Comercial	1701
 Proyecto de Estudio Zona Libre Comercio	4209
+Práticas Comerciais	15772
 Purpose COMESA Common Market for Eastern and Southern	2775
 ROW EAC COMESA	14985
 Real Authority Comes Into Question	8380
 Regional Food Balance Sheet COMESA Opens	7020
 Regional Integration COMESA	13563
-Registo Comercial	12021
+Registo Comercial	12021,3455,1011
+Rent Control Dilemma Comeback	15473
 S ENTIDADES EQUIPARADAS A SOCIEDADES COMERCIAIS	11435
 SADC and COMESA	7965,4997,358,192,1306
 SADC and COMESA Regional Member States	14729
@@ -299,8 +319,10 @@ Vice Chair of COMESA	3760,9683
 Views of What Comes Next	6947
 Views of What Comes Next International	6947
 Won't Let Us Come	12227
+Work Is Here. Now Comes the Hard	16266
 Yellow Card The COMESA Yellow	13563
 ZWS COMESA ADOPTIONS	13385
 Zambia and COMESA	13528
 Zambia and COMESA Team Leader Lana Zutelija	13642
 Zimbabwe. COMESA	13563
+Zona Franca Comercial de Cabo Verde	15526

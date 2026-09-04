@@ -1,4 +1,5 @@
-ACE Africa Coast	1000
+ACE Africa Coast	1000,14511
+ACRONYMS ARCEP Africa Coast	16144
 ACTION Coalition	1021
 ACTION Namibia Coalition	1016,5
 AI Skills Coalition	9106
@@ -6,14 +7,15 @@ ALLIANCE Coalition	10819
 AMAHORO COALITION LIMITED Data Controller INST-60349983692	7167
 AO01 AO02 Coastal	10763
 AO01 Coastal	10763
+ARAP Africa Coast	15424
 Abbreviations Term Description ACE Africa Coast	11552
 Acronyms ACE Africa Coast	11545
-Africa Coast	1264,1413,136,366,163,164,15,261,1363,99,437,395,612,641,2402,647,1122,45,7
+Africa Coast	1264,1413,136,366,163,164,15,261,1363,99,437,395,612,641,2402,647,1122,45,7,3872,87,72,9,552,482,15
 Africa DPI Private Sector Coalition	8654
 Africa DPI Private Sector Coalition. Let	8654
 Africa Green Compute Coalition	7836,3304
 Africa's East Coast	3890
-African Coast	7121
+African Coast	7121,8421
 Agadir and Taghazout Coasts	8891
 Animas Centre for Coaching	12951
 Annual Coal	11953
@@ -22,6 +24,7 @@ Atlantic Coasts of Africa	3782
 BKU and University of Cape Coast	455
 Build Stronger Coalitions and Regional Networks	6950
 COA Certificate of Airworthiness COHO Community Oral	2775
+COACH	16187
 COAFR	15001
 COAMANA MARKET LIMITED Data Controller INST-68828116AB8	7167
 COAST ACCIDENT AND GENERAL INVESTIGATION LIMITED	7167
@@ -33,7 +36,8 @@ COAXOL	7167
 CSP Coal	11953
 Calabar Coastal Road	12026
 Call for Facilitators and Group Coaches By Tilyenji	9198
-Cape Coast	7368,1016,727
+Cape Coast	7368,1016,727,6793,697
+Cape Coast for Municipal Assemblies	16524
 Cape Town West Coast Cape Winelands	8999
 Carrim and Transnational Coaches	10263
 Central Rift Coast Lower Eastern Mt	7869
@@ -61,15 +65,17 @@ Coal LPG Electricity	12233
 Coal Mine	12082
 Coal Nuclear Diesel	11953
 Coal Nuclear Sources	11953
+Coale-Demeny West	15627
 Coalición Democrática	9303
-Coalition	643,3484,130,190,795,1893,513,907,447,1434,61,322,33,1349,736,1737,668
+Coalition	643,3484,130,190,795,1893,513,907,447,1434,61,322,33,1349,736,1737,668,158,163,882
 Coalition Building GHAI and MHAZ	13608
 Coalition Nationale	11916
-Coalition for Digital Africa	4196,3050
+Coalition for Digital Africa	4196,3050,9299
 Coalition for Disaster Resilient Infrastructure	2787
 Coalition of Human Rights Defenders	15007
 Coalition of Patriots for Change	4127
 Coalition-building	10062
+Coalitions	15712
 Coamana	5875
 Coarse	15129
 Coarse Resolution Imagery Database	11334
@@ -123,11 +129,13 @@ EdTech Coalition	12175
 Eden Karoo Metros West Coast Team	8999
 Efficiency for Access Coalition	11923,268
 Egypt and Ivory Coast	9733,2
+Egypt’s National Coalition for Community Development Work61	15663
 Emerging Actors and Coalition Dynamics Alongside	10062
 European Coalition	3583
 Firm Ronald Coase	8380
 Freedom Online Coalition	9082
 Fuel Oil Coal Hydro Photovoltaic Wind	14745
+GROUPE INTERNATIONAL COACH ENSEIGNE	15780
 GSMA Handset Affordability Coalition	6593,7500,581
 GSMA and Handset Affordability Coalition Members Identify	14093,581
 GSMA’s Handset Affordability Coalition	6714
@@ -145,7 +153,7 @@ ITU's Partner2Connect Digital Coalition	2137,2383
 Indian Coast Guard Ship	13791
 Insights Coal-fired	11953
 Islamic Military Counter Terrorism Coalition	10701
-Ivory Coast	244,1,73,471,454,391,13,727,14,372,62,217,92,87,244,199,40,81,882,10,209,574,418,27,378,1143,2312,1164,9,7,22,13,585,17,3445
+Ivory Coast	244,1,73,471,454,391,13,727,14,372,62,217,92,87,244,199,40,81,882,10,209,574,418,27,378,1143,2312,1164,9,7,22,13,585,17,3445,463,93,859
 Ivory Coast Digital Crossroads	3218
 Ivory Coast Expands E-Justice Platform	5902
 Ivory Coast Eyes Huawei Partnership	6280
@@ -157,6 +165,7 @@ Ivory Coast and West Africa	3701
 Ivory Coast. Analysis	10937
 Justice Coalition	9682
 Justice Coalition Calls for Deceleration	9682
+K SOCIETE WEST COAST PETROLEUM SA	16623
 Kam’mwamba Coal-Fired Power Plant Project	13060
 KeepItOn Coalition	9701
 Kempinski Gold Coast Hotel	9729
@@ -176,7 +185,8 @@ NATIONAL COAST GUARD Cybercrime Unit GIPM	14760
 Nairobi North-eastern Coast Central Nyanza Western	9646
 NamRA Coastal Choir	13044
 National Action Coalition	10216
-National Coalition	7709
+National Coalition	7709,7954
+National Coalition for Community Development Work	15663
 National Coalition of Human Rights Defenders	15007
 National Coast Guard	12132,2174,432,4,3,15
 National Coast Guard Coxswain	7845
@@ -185,6 +195,7 @@ National Coast Guard and SAMU	14738
 National Coat of Arms	12891
 National Partnership Coalition	14021
 Net Rights Coalition	9416
+North Coast	15473
 Nuclear Coal	11953
 Overberg West Coast Metros Metros Boland	8999
 P2C Coalition	7139

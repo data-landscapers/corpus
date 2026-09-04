@@ -2,12 +2,13 @@ A- Reset Instructing Cote	10931
 AGEROUTE. ETAT DE COTE D’IVOIRE	2342
 ALLIED GOLD Corpora- ETAT DE COTE	2342
 AVIS DE DEMANDE DE COTATION OUVERTE	14502
-Accord de Cotonou	3045,10280
+Accord de Cotonou	3045,10280,2432,144
 Africa’s Startup Scene From Cotonou	10887
 Afrique Centrale CoPil Comité de Pilotage CoTec	11944
 Afrique. Cotonou	2915
 Air Cote	2342
-Appel de Cotonou	10821
+Appel de Cotonou	10821,4864
+Autonome de Cotonou	15583
 Autonomous Port of Cotonou	9043,232
 Avis de Demande de Cotations	13620
 Azalaï de Cotonou	3590
@@ -17,44 +18,63 @@ BARRICK GOLD COTE JUIN D’IVOIRE SARL	2342
 BSIC BENIN Azalaï Hôtel Cotonou BGFI	10821
 Base de Cotización	14265
 Benin Botswana Burundi Cote	1528
+Benin City Cotonou	16044
 Benin Cote Burkina Guinea Togo Senegal	10856
 BÉNIN BURKINA COTE GUINÉE-BISSAU MALI NIGER	4459
 Bénin Azalaï Hôtel Cotonou Azalaï Hôtel	10821
+Bénin COTO NOU	15399
+Bénin Cotonou	15398
+CERTIFIED TRUE COt	15999
 CHU-MEL de Cotonou	10867
+CIPROFLOXACINE CIPROFLOXACINE SULFAMIDES COTRIMOXAZOLE	15930
 CMCA Computer Misuse and Cybercrimes Act COTS	6432
 CNHU de Cotonou	10867
 COFINA COTE D’IVOIRE	11588
 COPIL Steering Committee COTECH Technical Committee	13731
+COTCO	15542
 COTD Saminirin ANDRIAMBELOSOA	13885
 COTE Constitutional Affairs Working Group	9227
-COTE D'IVOIRE	4459
+COTE D' IVOIRE	15461
+COTE D'IVOIRE	4459,11002,137
 COTE D'IVOIRE17	10190
+COTE D’IVOIRE	16175
 COTE Electoral Affairs Working Group	9227
 COTE's Electoral and Constitutional Affairs Working Groups	9227
 COTE-D’IVOIRE	10861
-COTECH	14562
-COTECNA Inspection SA	3045
+COTECH	14562,1543
+COTECNA Inspection SA	3045,12712
 COTES DU RHONE LIMITED Data Controller	7167
-COTEVAL	3396
+COTEVAL	3396,12275
+COTEVET	15735
 COTEX KENYA LIMITED Data Controller INST-885347CAFA9	7167
 COTEX KENYA LIMITED Data Processor INST-885347CAFA9	7167
-COTIX	7246
+COTISATION DE SECURITE SOCIALE	15999
+COTISATIONS SOCIALES ET AUTRES RECETTES Article	15426
+COTIX	7246,9299
+COTIX Update	16545
 COTIZACIONES SOCIALES	4209
-COTONOU	4209
+COTONOU	4209,11190,720,426
+COTONOU DECLARATION I. PREAMBLE	15939
 COTONOU Tél	10821
+COTRIMOXAZOLE	15930
 COTS Commercial	10765,10
 COTTS NON-WITHDRAWABLE DEPOSIT TAKING SACCO Data	7167
 COTVET	789,3337
+COtsAC. TITRE	15443
 CRYSTAL COTTAGE HOSPITAL	7167
 Cameroon Congo Rep. Cote	13314
 Cameroon and Cote	2388
 Chairman of Togo’s Cotton Company	5407,676
 Chu-Mel de Cotonou	7355
 CoTec	11944
+CoToNoU	15366
+CoTologue	15429
+Code Editor Cote	15622
 Compagnie de Gérance de Coton CONFEJES	13377
 Congo Ghana Cote	689
 Construction of Cote	14736
 Cost of Living and Adjustment COTE Certificate	12975
+Cotas	15396
 Cote D'Ivoire	1013,9906,690
 Cote D'Ivoire Report.pdf	10920
 Cote D'Or	14830
@@ -66,11 +86,12 @@ Cote-d’Ivoire	10861
 Cote-d’Ivoire and Senegal DATA HOSTING	10861
 Cotec Security Group Limited Data Controller	7167
 Cotec Security Group Limited Data Processor	7167
+Cotecna. Section	15439
 Cotillon	15129
 Cotillon and Mathis	15129
-Cotisation	15027
-Cotisations	737,1739,1360,584,8970,1637
-Cotisations Sociales	1594
+Cotisation	15027,1020
+Cotisations	737,1739,1360,584,8970,1637,1020
+Cotisations Sociales	1594,14453
 Cotizaciones	4209
 Cotizaciones Sociales	4209
 Cotización	4209
@@ -79,20 +100,31 @@ Cotización Patronal	4209
 Cotización Patronal INSESO	4209
 Cotización Patronal Personal Civil	4209
 Cotlear	11133
-Coton	13568
-Cotonou	54,573,1097,185,18,334,51,19,23,38,20,39,246,68,77,13,60,35,155,1,6,38,47,1,1,15,34,7,44,104,111,12,156,170,185,65,30,235,132,440,23,61,183,54,218,38,15,15,296,54,31,51,232,131,134,269,96,13,40,84,39,41,21,35,279,1,770,56,281,15,528,232,44,481,1,109,314,16,4,135,2,161,149,21,106,3,12,23,20,727,1722,158,1228,193,367,21
+Coton	13568,2431
+Cotonor.r. Bénin. ET LA BANQUE D'EXPORT-IMPORT	15399
+Cotonou	54,573,1097,185,18,334,51,19,23,38,20,39,246,68,77,13,60,35,155,1,6,38,47,1,1,15,34,7,44,104,111,12,156,170,185,65,30,235,132,440,23,61,183,54,218,38,15,15,296,54,31,51,232,131,134,269,96,13,40,84,39,41,21,35,279,1,770,56,281,15,528,232,44,481,1,109,314,16,4,135,2,161,149,21,106,3,12,23,20,727,1722,158,1228,193,367,21,77,29,1,1,16,2,6,5,2,7,14,5,32,36,36,26,1,66,94,33,16,50,5,21,28,17,3,17,1,25,116,32,16,16,29,28,98,60,3,81,12,12,6,12,13,37,10
 Cotonou AI Academy	15292
 Cotonou AI Academy. Dans	15292
-Cotonou Agreement	970,13658
+Cotonou Agreement	970,13658,878
 Cotonou Ai Academy	10542
+Cotonou Article	15654
 Cotonou Catholic Relief Services	10821
-Cotonou Declaration	6997
+Cotonou Declaration	6997,8942,205,99
+Cotonou Declaration URL	15939
 Cotonou Email	10821
 Cotonou Envoyer	3719
+Cotonou Fax N	15399
 Cotonou Grid Strengthening Activity	87
 Cotonou Internet Exchange	7246
+Cotonou Internet Exchange Point	16545
+Cotonou L'opérateur	15654
+Cotonou Roadmap	15939
 Cotonou Toutefois	2697
+Cotonou Vu	15654
 Cotonou and Abomey-Calavi	1970
+Cotonou-Bohicon	15399
+Cotonou-Parakou	15399
+Cotonou-Savè	15399
 Cotonou. ASIN’s Director General	3514
 Cotonou. Après	3361
 Cotonou. Au	2623
@@ -100,21 +132,27 @@ Cotonou. Autour	3591
 Cotonou. Blaise Ahouantchédé	2915
 Cotonou. Cela	15292
 Cotonou. Certaines	15271
+Cotonou. Ces	15592
 Cotonou. Cette	2635,4115,1446,3407
 Cotonou. Construire	2403
 Cotonou. Dans	4037
 Cotonou. En	3682
 Cotonou. Financé	3099
 Cotonou. Government	10823
+Cotonou. Il	15431
+Cotonou. Institué	15582
 Cotonou. L'occasion	6366
+Cotonou. L’objectif	16250
 Cotonou. L’ouverture	14711
 Cotonou. Mais	3361
 Cotonou. Nous	15292
 Cotonou. Par Arnaud DOUMANHOUN	8885
+Cotonou. Par Brunelle TCHOBO	16090
 Cotonou. Plus	6744
 Cotonou. Pour	2765
 Cotonou. Pour Jean-Claude Kassi Brou	3719
 Cotonou. Selon le Directeur Général	10824
+Cotonou. Toutefois	15429
 Cotonou. Vadim QUIRIN	3248
 CotreenZulu Project Accountant	13392
 Cottier	1243
@@ -126,17 +164,27 @@ Cotton Ginneries	12979
 Cotton K	9739
 Cotton Technical Assistance Programme	12979
 Cotton Tree	5390,965,827
+Cotton-Textile	16540
 Coty Souleïmane Diakité	3755,2389
 Coty Souleïmane Diakité. Cette	6144
 Cours Secondaire Notre Dame des Apôtres de Cotonou	10821
 Cours de Soutien de Cotonou	10821
+DE COTE D'IVOIR	15461
+DE COTE D'IVOIRE	15461
+DE COTE D'IVOIRE Union	15419
 Dem. Rep. Mauritania Cote	10819
 Demande de Cotation	9339,1636,3312,1
+Description The Cote	15622
 Diakité Coty Souleymane	6095,14
 Directeur Général du CHU-MEL de Cotonou Monsieur Sourou	10867
 Director General of La Poste de Cote	4686
 Dossier de Cotation	14502
-Déclaration de Cotonou	4037
+DÉCLARATION DE COTONOU	15938
+Déclaration de Cotonou	4037,11901
+Déclaration de Cotonou Publié	15938
+Déclaration de Cotonou URL	15938
+Déclaration de Cotonou. Afin	15938
+Déclaration de Cotonou. Ces	15938
 EN COURS COTE D'IVOIRE	10711
 ETAT DE COTE D'IVOIRE	2342
 ETAT DE COTE D’IVOIRE	2342
@@ -144,18 +192,23 @@ ETAT DE COTE D’IVOIRE COIC SA	2342
 ETAT DE COTE D’IVOIRE Conseil	2342
 ETAT DE COTE D’IVOIRE Navodaya DMCC	2342
 ETAT DE COTE D’IVOIRE SODEMI	2342
+Etat Cote	15624
 Etot.- Foità Cotonou	10813
 F Ptn COt	14479
 FASO COTON	2342
 FCFA SEUS COTE D’IVOIRE Limited	2342
+Faità Cotonou	15383
 Freetown’s Fallen Cotten Tree	5390,965,827
 GAPS Cote-d’Ivoire	10861
 GVA of Cote	10037
 Gambia Cote	418
 Ghana Cote Nigeria Bangladesh AFR	10985
 Government of Cote	246,92
+Grand Cotonou	15592
+Group of Countries Geographical Identifier Cote	16032
 Guinea Cote	10856
 Hospital Beds and Cots Available	2775
+Hôtel Golden Tulip Le Diplomate de Cotonou	16545
 Hôtel de Ville de Cotonou	15292
 INGRESO NATURALEZA DEL GASTO Cotizaciones	4209
 INVESTMENT COTE-D’IVOIRE SENEGAL	10861
@@ -163,6 +216,7 @@ Ibis Cotonou Communication	10821
 Ibis Hôtels Cotonou SPACETEL BENIN	10821
 Ibis Hôtels Cotonou Traitement	10821
 Ingelo Certification Scheme Cottage Factories	13072
+Internet de Cotonou	16545
 Isac A. YAÏ Cotonou	3105
 Janet Cotton Pr.Eng	7787
 K7I3NA COTE22D	4459
@@ -176,8 +230,10 @@ La Cote	14689
 La Cotonnière Industrielle du Cameroun	10841
 La Cotonnière Industrielle du Cameroun CNAR National	10841
 La Société de Développement du Coton	10841
+Land Cover Map The Cote	15622
 Le COTECH	14562
 Le Conseil Coton Anacarde Karité	10096
+Le Cotltrat	15399
 Le Palais des Congrès de Cotonou	2855
 Luis Cotinguiba	12142
 L’OR MAI RESSOURCES COTE D’IVOIRE SARL	2342
@@ -188,35 +244,52 @@ Mitchell Cotts Freight Kenya	15322
 Monitorização CoTéc Comité Técnico CONFEMEN Conferência	11557
 Montagne Piquant and Pointe Coton Desalination Plant	14794
 NSIA Banque Cote	9319
+Novotel Hotel de Cotonou	15921
 Novotel Orisha Cotonou	5981
 Novotel de Cotonou	6744,4077
-Orange Cote	1543
+ODD Port Autonome de Cotonou PAC Programme	15583
+Orange Cote	1543,13928
+Ouest Cotonou-Djougou	15399
+P COMPAGNIE DE TRADING GUINEE COTRAG	16623
+P'CERTIFIED TRUE COTY	15530
 PERSEUS COTE D’IVOIRE	2342
 PERSEUS MINING COTE D’IVOIRE	2342
 PERSEUS MINING COTE D’IVOIRE Gestion	2342
+Palais des Congrès de Cotonou	15583
 Pionniers de Cotonou AI Academy. Cette	15292
 Port Autonome de Cotonou	9275
 Port Autonome de Cotonou. Organisée	6300
 Port de Cotonou	3639
-Port of Cotonou	2392,8464
+Port of Cotonou	2392,8464,4546
 President of COTE	9227
+REPUBLIC OF COTE D’IVOIRE Tel	16219
 REPUBLIQUE DE COTE D'IVOIRE	10895,1,1,1,5,1,2
+REPUBLIQUE DE COTE D'IVOIRE ABONNEMENT	15598
+REPUBLIQUE DE COTE D’IVOIRE Union	15746
 RESSOURCES COTE D’IVOIRE SARL	2342
 ROT for Pointe Cotton Desalination Plant Community	14830
 RUBRIQUES BÉNIN BURKINA COTE D'IVOIRE GUINÉE-BISSAU	4459
 Regardez Cotonou	10542
+Regional Digital Transformation Summit of Cotonou	15939
 Republic of Cote	3780
 Republique de Cote	3780
 Repubtic of Cote	11517
 RÉPUBLIQUE DE COTE D'IVOIRE	10906
 SAMPLE KEY CHARACTERISTICS Nigeria Ghana Cote-d’Ivoire	10861
+SBEE Cotonou	16125
+SUD-EST Cotonou- Bohicon Via Adjohoun	15399
 Santé de Cotonou. Ces	7001
+Santé de Cotonou. Sont	16485
 Senegal Niger Guinea Rwanda Cote	10856
 Senegal Nigeria Cote Ghana	10861
+Sociedades Cotadas	15477
+Société de Développement du Coton	15542
 Sofitel Cotonou Ma	7057
 Sofitel Cotonou Marina Hotel	3526,622,219
 Sofitel Hôtel Ivoire de Cotonou. L'événement	2915
-TIC de Cote	10908
+TIC de Cote	10908,4511
 TRANSITION AND REPUBLIC OF COTE D’IVOIRE	3604
 Transformation Artisanale du Coton	3396
 Tribunal de Commerce de Cotonou	5478
+Unlimited Orange Cote	15471
+West and Central Africa Cotonou Declaration23	16144

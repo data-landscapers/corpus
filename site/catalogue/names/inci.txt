@@ -14,9 +14,11 @@ BOCRA's Cyber Incident Response Team	4709
 Bi-Monthly Incident-	6432
 Botswana Computer Security Incident Response	3887
 Botswana Computer Security Incident Response Team	3887,8738
+Burkina Faso's Computer Incident Response Team	15550
 CC Kenya Computer Incident Response Team	2775,4171,602
 CC National Kenya Computer Incident Response	6671
 CIRT Computer Incidence Response Team CISM	13346
+COMMUNIQUE INCIDENT SUR CABLE SOUS MARIN	16399
 CSIRT Computer Security Incident Response Team	6936
 CYBERSECURITY INCIDENT RESPONSE	10721
 Center Computer Security Incident Response Team	4653
@@ -29,11 +31,15 @@ Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79
 Computer Incident Response Team CMIL	14438
 Computer Incident Response Teams	11920
 Computer Security Incident Handling Guide	13381
-Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622,3000
+Computer Security Incident Response Center	15511
+Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622,3000,343,9,40,90
 Computer Security Incident Response Team CERT	1000
-Computer Security Incident Response Teams	5677,1259,1961,573,1219
+Computer Security Incident Response Team ESCP	16144
+Computer Security Incident Response Team-CSIRT	15504
+Computer Security Incident Response Teams	5677,1259,1961,573,1219,4799,656
 Comunicação de Incidentes de Segurança	3519
 Conclusion Incidence	13513
+Continuous Monitoring Feedback Loops Incident Reporting	16212
 Critical Network Incident	15081
 Cyber Crisis Incident Management	10721
 Cyber Crisis Management Incident Management	10721
@@ -65,6 +71,8 @@ Detection of Cybersecurity Incidents	4610
 Director General of Madagascar's Computer Incident Response	14639
 Directrizes de Reporte de Incidentes Tecnológicos	5169
 Disaster Management A. Emergency Fire Incidences	12977
+EC-Council University Intermediate Level Certified Incident	15662
+EMC Incidence	15720
 Environmental and Social Incident Reporting Toolkit	13392
 Establish National Incident Response Capacity Liberia	1777
 Establish National Incident Response Capacity Sustain	1777
@@ -78,14 +86,17 @@ Faster Incident Response SOC	13532
 Finance CFI Computer Incident Response Team	12444
 Forensics Investigation Incident	9123
 Forum for Incident Response and Security Teams	5780
-Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714
+Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714,2879,640
+GHG Forum of Incident Response and Security Teams	16144
 Gambia Computer Security Incident Response	1000
+Gestion des Incidents	15472
 Gestão de Incidentes	2784
 Government and Academic Computer Security Incident Response	2989
 Government-wide Computer Incident Response Team	12453,892
 Governmentwide Computer Incident Response Team	12453
 Growing Incidents of Foreign Malign Influence	6950
 Hour Cyber Incident Reporting for Telecom Operators	5308
+IMPOSITIONS AYANT UNE INCIDENCE SUR	16747
 INCIDENCE AND INTENSITY BY LOCALITIES	15244
 INCIDENCE OF POVERTY DISPARITIES ACROSS STATES	11998
 INCIDENT	14753
@@ -98,15 +109,19 @@ INCIDENTES EAS	11413
 INCITATIONS ET MECANISMES D’APPUI ARTICLE	13809
 INCITATIONS FISCALES ET SUBVENTIONS AUX STARTUPS	4567
 INCITATIONS POUR LES INVESTISSEURS	4567
+INCITATIVES A- MESURES RELATIVES	15999
+INCITER LA PARTICIPATION DU SECTEUR PRIVE	15801,236
 INCITING	11190
 INCITS	13005
 IRPS Incidência Sobre	12018
+IV INCITER LA PARTICIPATION DU SECTEUR	16037
+Identification des Incidents	15472
 Improved Incident Response Capabilities	5677
 Inadequate Incident Detection and Response Capabilities	5677
 Inciativas	11569
 Incidam	11901
 Incide	12018
-Incidence	737,10680,1529,94,285,1919
+Incidence	737,10680,1529,94,285,1919,480,1,176,427
 Incidence Rate	10780
 Incidence Response	10721
 Incidence Response CIRMR-IRP.S3	10721
@@ -115,8 +130,8 @@ Incidence and Intensity	15244
 Incidence and Intensity for Household	15244
 Incidence and Intensity for Households	15244
 Incidence of Abortion	13040
-Incidences	1988,9998,960,567
-Incident	1777,163,48,724,1175,723,522,1300,147,380,589,753,596,1824,115,1116,301,49,98,605,66,310,151,187,706,429,65,230,15
+Incidences	1988,9998,960,567,2388
+Incident	1777,163,48,724,1175,723,522,1300,147,380,589,753,596,1824,115,1116,301,49,98,605,66,310,151,187,706,429,65,230,15,471,509,226,344
 Incident Coordination Determining	775
 Incident Database	9968
 Incident Handling	14759
@@ -133,12 +148,12 @@ Incident Management Process The Cybersecurity Hub	8897
 Incident Management Service	11952
 Incident Management Service Provider	10721
 Incident Management Service Providers	10721
-Incident Management System	12729
+Incident Management System	12729,2775
 Incident Management Tier	10721
 Incident Management and Reporting Protocols	5132
 Incident Management and Response Plans	15054
 Incident Recovery Plan	10721
-Incident Reporting	1000,2651,3897
+Incident Reporting	1000,2651,3897,8664
 Incident Reporting Establish	1777
 Incident Reporting Forms Refer	775
 Incident Reporting Number	6936
@@ -146,7 +161,7 @@ Incident Reporting. Develop	1777
 Incident Reports Awareness	10721
 Incident Resolution Advising	775
 Incident Responders	1000
-Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954
+Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954,741
 Incident Response A. All Telecommunications Service	4610
 Incident Response GC-SCRM.S1	10721
 Incident Response Plan	10721
@@ -174,35 +189,44 @@ Incidental	962,11713,510
 Incidental Matters and Deregistration Part	3714
 Incidentally	3383,7909,692
 Incidentals	14736
+Incidente	15504
 Incidente Informático	10747
 Incidentes	4218,2752,3777,630,2935
-Incidentes Cibernéticos	2816,8715
+Incidentes Cibernéticos	2816,8715,4956
 Incidentes Cibernéticos de Nível Nacional	7736
 Incidentes Informáticos	10747,649,1
-Incidentes de Segurança Cibernética	3838,3132,3470
+Incidentes de Segurança Cibernética	3838,3132,3470,5460
 Incidentes de Segurança Cibernética Artigo	6970
 Incidentes de Segurança Cibernética Sectoriais	6970
-Incidentes de Segurança Informática	4218,5008
-Incidents	1777,161,1645,1950,2489,2741,274,102,701,3040,201
+Incidentes de Segurança Digital	15899
+Incidentes de Segurança Informática	4218,5008,6278
+Incidents	1777,161,1645,1950,2489,2741,274,102,701,3040,201,820,7,267
+Incidents Cybernétiques	16296
 Incidents Incident	15164
 Incidents Informatiques	2695
 Incidents Large-Scale Incidents Large-Scale Incidents	1777
-Incidência	11537,10
+Incidents de Paiement	15934
+Incidência	11537,10,3812,32,564,11
 Incidência Objectiva	744,10686
 Incidência Subjectiva	744
 Incinerated	15206
 Incinerators	1988
 Incinerators The Ministry	14746
 Incineração de Materiais Eleitorais	11561
+Incinérateurs	16681
 Incinérer	14488,1,1
 Incipiente	12142
-Incitation	10876,1068
-Inciter	998,7,5822,2064,4399
+Incitation	10876,1068,3598,46,740
+Incitations	15588
+Incite	15564
+Inciter	998,7,5822,2064,4399,2184,68,257,2,744
 Inciter la Définition	13433
-Incivisme	10858
+Incivisme	10858,4684,298
 Incoterms. Incidental	13185
 Interim Lesotho National Computer Security Incident	8230
 Intermediaries FIRST Forum of Incident Response and Security	1264
+Intermediate Level Certified Incident Handler	15662
+Intermediate Level GIAC Certified Incident Handler	15662
 JEFATURA TOTAL DIRECTIVO INCIDENTES Y INFRAESTRUCTURAS	4209
 KEY INCIDENTS AND CHALLENGES IDENTIFIED	10049
 La Centrale des Incidents de Paiement	11944
@@ -235,7 +259,7 @@ Namibia's National Cybersecurity Incident Response Team	9562
 Nasir Incident and Reinvigoration	3583
 National Computer Incident Response Team	2256
 National Computer Security Incident Response	5166
-National Computer Security Incident Response Team	6778,1795,324,6223
+National Computer Security Incident Response Team	6778,1795,324,6223,433
 National Cyber Incident Response Plan	318
 National Cyber Incident Response Team	13665
 National Cyber Incidents Mauritius	14752
@@ -283,9 +307,14 @@ SECÇÃO II Notificação de Incidentes de Segurança Cibernética	6970
 Safety Incident	1988
 Scotland. Incident Ready	3279
 Security Incident Management Maturity Model	7736,1734
+Security Incident Response Team Congo Telecom	15553
 Security Operations and Management Incident	9123
+Serious Incidents	16212
+Sim EST-ADM11 Computer Security Incident Report	15532
+Sistema de Gestão de Incidentes	15504
 Somalia Computer Incident Response Team	4810,528,332,6843
 South Africa's National Computer Security Incident	8897
+Système de Remontée des Incidents Environnementaux	15936
 TRAITEMENTS DES INCIDENTS DE SECURITE	10906
 Task Incident Response Unit	1777
 Technical Support and Incident	12917

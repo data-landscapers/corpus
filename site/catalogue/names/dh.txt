@@ -7,15 +7,17 @@ ADEEGSI DHEERAAD AH EE XOGTA SHAKHSIGA	15152
 Abbreviations ANC Antenatal Care DHIS District	771
 Abhu Dhabi	13122
 Abidjan and Abu Dhabi. Through	3280
+Abou Dhabi	15742
 Abu Dhab	6231
-Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587,534,542,2098,1,360
+Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587,534,542,2098,1,360,564,273,19,143
 Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Abu Dhabi BioBank and Abu Dhabi Health	15262
 Abu Dhabi Ces	10507
 Abu Dhabi Exports Office	2947
-Abu Dhabi Fund for Development	13868,962
+Abu Dhabi Fund for Development	13868,962,1746
 Abu Dhabi Global Market	14819
 Abu Dhabi Health Data Services	15259
+Abu Dhabi Ports Company P.J.S.C	16118
 Abu Dhabi Ports Company PJSC	14457
 Abu Dhabi Securities Exchange	14902,382
 Abu Dhabi Sustainability Week	4934,7869
@@ -23,13 +25,20 @@ Abu Dhabi Sustainability Week Summit	12026
 Abu Dhabi's International Holding Company	12069
 Abu Dhabi-based	1634,5,10066
 Abu Dhabi-based ADI Foundation	4611
+Abu Dhabi-based Global South Utilities	16576
 Abu Dhabi.Selon	8508
 Abu Dhabi’s ADQ	6231
+Abu Dhabi’s Falcon	15713
+Abu Dhabi’s Technology Innovation Institute	15713
 Académies DHIS2	13306
+Account DHS Demographic and Health Survey DP	15515
 Adedeji Dhikrullahi Olajide	9880
 Adeegsi Dheeraad	15152
+Africa. The DHIS2	16409
 All DHA	11986
 Angola The DHS Program ICF Rockville	10777
+Aouel Dhou El Hidja	15410,192
+Aouel Dhou El Kaâda	15608,139,15,171,362,27,22
 Approved DHA Bill	5533
 Arti Dhar	5367
 Assembly DHPT MoH	9855
@@ -38,7 +47,9 @@ Assumptions DHA	11986
 Auditor-General of South The DHA	11986
 Awareness DHA GBVF Plan DHA GBVF	11986
 BAAHIDA DHINACYADA KU TIIRSAN XOGAHA QOFKA	14930
+BONGOYE DHA MANOLET	15524
 Baahida Dhinacyada Ku	14930
+Badley Dhely	15744
 Bangiga Dhexe	14859
 Banki Dhexe	14859
 Bariga Dhexe	11136
@@ -59,14 +70,18 @@ CAPACITATION OF DHA Head	11986
 CHIS and DHIS2	12246
 CHIS. DHIS2	12246
 CONTRIBUTION TO THE NDP The DHA	11285
+CRVS CSI CSMF CURY D4H DHIS	15599
 CRVS Civil Registration and Vital Statistics DHIS2	12729
 Central Processing Unit DHIS District Health	34
 Chap Modeling Platform and DHIS2 Modeling App	11589,2224
 China The DHA	11986
 Civil Society Organization DHIS2	10776
 Cleveland Clinic Abu Dhabi	15262
+Clima CUS Cobertura Universal de Saúde DHIS2	15966
 Collective Model for Sustaining DHIS2 DHIS2	6153
 Commerce DHL	9720
+Communication Présidentielle Abu Dhabi	16118
+Community DHIS2	15960
 Community Health Centres DHU	11252
 Comoros DHIS2 Climate	13813
 Comoros Using DHIS2 Data	13805
@@ -199,6 +214,7 @@ DHARAMBEER GOKHOOL	14768,41,12,3,19
 DHA’s Bursary Policy	5533
 DHA’s Digital Transformation Strategy. Once	5533
 DHA’s Minister	11218
+DHCP Possession de VOIP	15512
 DHD Digital Health Division DPPD Department	12240
 DHD Profile	12240
 DHD-defined	12240
@@ -215,6 +231,7 @@ DHET’s National Skills Development Plan	6832
 DHICIDDA IYO CUSBOONEYSIINTA KAARKA AQOONSIGA	14930
 DHIIN DHIIN INVESTMENT SEZ LIMITED Data	7167
 DHIMA	396
+DHIMS2	15556,662
 DHINACYADA KU TIIRSAN	14930
 DHIOS	2477
 DHIRRE MEDICAL SERVICES LTD Data Controller	7167
@@ -222,8 +239,11 @@ DHIS District Health Information System	2775
 DHIS District Health Information System DHS	13681
 DHIS District Health Information System USAID	766
 DHIS and MAGPI	10919
-DHIS-2	1212,2990,147
-DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7,296,20,58,12,14,7,34,15,9,80,55,2,16,32,9,113,40,5,89,121,106,12,13,109,182,76,2,22,15,3,33,110,8,27,130,75,14,8,7,1,53,60,74,42,8,45,1,123,60,6,136,335,103,40,4,232,25,27,150,1,55,4,40
+DHIS-2	1212,2990,147,11138,112,86,799
+DHIS-2 District Health Information System	15479
+DHIS-2. Ce	15599
+DHIS-2. L’accent	15599
+DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7,296,20,58,12,14,7,34,15,9,80,55,2,16,32,9,113,40,5,89,121,106,12,13,109,182,76,2,22,15,3,33,110,8,27,130,75,14,8,7,1,53,60,74,42,8,45,1,123,60,6,136,335,103,40,4,232,25,27,150,1,55,4,40,275,115,9,86,27,12,177,35,23,1,51,184,14,15,14,62,21,35,36,17,13,32,268
 DHIS2 API	12754
 DHIS2 Aceda	11454
 DHIS2 Action VI.1.2 Actualiser	13306
@@ -236,14 +256,14 @@ DHIS2 Android	11912
 DHIS2 Android Capture	1018
 DHIS2 Android Capture. Main	1018
 DHIS2 Angola	11454
-DHIS2 Annual Conference	11589,1152,1064,1395
+DHIS2 Annual Conference	11589,1152,1064,1395,1100,92
 DHIS2 Capture	11970
 DHIS2 Climate	11589,1532,692
 DHIS2 Climate App	11589,2224
-DHIS2 Community URL	13805
+DHIS2 Community URL	13805,2495
 DHIS2 Contributing Partner	6153
 DHIS2 Contributing Partners	6153
-DHIS2 DHIS2	4349
+DHIS2 DHIS2	4349,11662
 DHIS2 Database Responsibility for Data Collection	11417
 DHIS2 District Health Information Software	14666,393
 DHIS2 District Health Information System	10829,52,679
@@ -258,24 +278,31 @@ DHIS2 Facilities	10881
 DHIS2 Frequency Every	11417
 DHIS2 GMAO	13306
 DHIS2 Go	13813
+DHIS2 Guinée	16722
 DHIS2 Home	10881
 DHIS2 Implementation	12198
 DHIS2 Incidence	4349
 DHIS2 Integration Digital	15200
 DHIS2 Integration. Background	15200
+DHIS2 Logiciel	15724
 DHIS2 National Directorate for Public Health	11417
+DHIS2 Navigating	16224
 DHIS2 RMNCH Dashboard	10833
 DHIS2 Remark	4349
 DHIS2 Résultat VI.2 Extension	13306
 DHIS2 Résultat X.2 Le SSE	13306
 DHIS2 SDG	6048
 DHIS2 Shared Services Fee	6153
+DHIS2 Support Ebola Outbreak Response URL	16409
+DHIS2 Surveillance Guinée Qualité	16722
 DHIS2 Surveillance Laboratoires Formation Taux	14622
 DHIS2 Technical Working Group	10928
 DHIS2 The Ministry of Health	13121
-DHIS2 Tracker	977,2408,7534,670,1165,1908
+DHIS2 Tracker	977,2408,7534,670,1165,1908,1349,184,214,45
+DHIS2 Tracker URL	16454
+DHIS2 Tracker. Un	16454
 DHIS2 Training and Implementation	6048
-DHIS2 URL	13763
+DHIS2 URL	13763,2248
 DHIS2 Un	13306
 DHIS2 User Story	12408
 DHIS2 WPP	4349
@@ -289,10 +316,14 @@ DHIS2 and Open Clinic	13312,2
 DHIS2 and REC-Maternity	10881
 DHIS2 and SOFIA	12196
 DHIS2 and VigiFlow	12623
+DHIS2 du Ministère	16195
 DHIS2 for Climate	11589,2224
-DHIS2 for Education	1947,2882,1219,979,5153,167,609,1092
+DHIS2 for EVD	16011
+DHIS2 for Education	1947,2882,1219,979,5153,167,609,1092,1912
 DHIS2 for Logistics	13763
 DHIS2-	10780
+DHIS2-AMU	16722
+DHIS2-DEMIS	15960
 DHIS2-Ed	4829,9219
 DHIS2-MTN	14622
 DHIS2-RTS	13763
@@ -302,19 +333,25 @@ DHIS2-based SIGE	1959
 DHIS2-certified	7921
 DHIS2-compliant	15200
 DHIS2-integrated	4430
+DHIS2-nationwide-rollout	15959
 DHIS2-related	1824
 DHIS2. All	10833
+DHIS2. Appuyer le Ministère	15724
 DHIS2. Após	12863
 DHIS2. Bien	13306
+DHIS2. Cet	15599
 DHIS2. DHIS2	1824
 DHIS2. Data	12141
+DHIS2. Domaine	15724
 DHIS2. Driven	11892
 DHIS2. Efforts	13858
 DHIS2. Evidence	3935
 DHIS2. Finalement	13306
+DHIS2. Fonte	15966
 DHIS2. HISP	14666
 DHIS2. Health	14923
 DHIS2. Home	3791
+DHIS2. La Cinquième	15599
 DHIS2. Liberia	4202
 DHIS2. Limited	14923
 DHIS2. MPME	641
@@ -326,7 +363,8 @@ DHIS2. Routine	13805
 DHIS2. Such	12246
 DHIS2. Temperature	11589
 DHIS2. Thanks	10928
-DHIS2. Une	13306
+DHIS2. Une	13306,2379
+DHIS2. Vaccination	16011
 DHIS2. Without	10881
 DHIS2.org Demo Community Developers	12408
 DHL Express SSA	9720
@@ -356,6 +394,7 @@ DHS Analysis Figure	12006
 DHS CERTIFICATION OF COMPLIANCE NO	2709
 DHS Demographic Health Survey DIU	13300
 DHS Demographic and Health Survey	12367
+DHS Demographic and Health Survey ECD Early	15604
 DHS Demographic and Health Surveys DRC Democratic	12006
 DHS II	970
 DHS Le Website du DHS Program	13300
@@ -377,7 +416,9 @@ DHUNPUTH Ram Rishisingh Engineer	14770
 DHY Technologie	10951
 DHandbook	5349
 DHermeneutics	5349
+DRC's DHIS2	16011
 DRC’s DH	14666
+DU TERRITOIRE Arrêté du Aouel Dhou	15594
 Daba-galka Dhawrsanaanta Xogta	15152
 Daba-galka Dhowrista	15152
 Dadweynaha Hay'adda Dhowrista Xogta Dadweynaha	15152
@@ -400,6 +441,7 @@ Dhaarta	14859,47
 Dhaarta Raisul-Wasaaraha	14859
 Dhaarta Xafiiska Xog-dhigista	14906
 Dhaay	15071
+Dhabi Ports Company	16118
 Dhacdo	15153
 Dhacdooyinkii	11136
 Dhagangelinta	15047
@@ -471,7 +513,8 @@ Dhinaca	11136,3794
 Dhinaca Adeeg-qaataha	14930
 Dhinaca Ku	14930
 Dhinaca Ku Tiirsan	14930
-Dhis2	766
+Dhiraagu	15471
+Dhis2	766,15761
 Dhisidda	15153
 Dhisidda Guddiga Farsamada	15047
 Dhismaha Hay’adda Qodobka Yaad	14906
@@ -480,8 +523,13 @@ Dhoihirdine Ahamada Bacar	3677
 Dholuo	899,3958,3193,1894,1219
 DhonmfJXM	6997
 Dhoobley	15097
-Dhou El Hidja	4421
-Dhou El Kaâda	4658
+Dhou EI Kaâda	15467
+Dhou El Hidja	4421,10939,34,16,22,2,22,11,127,8,5,1,82,42,15,20,96,22,45,3,10,142,63,1,22,59,33,32,27,22
+Dhou El Ka	15410
+Dhou El Kaada	15346,14,34,27
+Dhou El Kaada Chaoual	15394
+Dhou El Kaatl	15347
+Dhou El Kaâda	4658,10774,2,22,11,40,38,49,8,5,1,82,42,15,116,80,142,145,33,32,27,22
 Dhoulkamal	13744
 Dhowrista	15152
 Dhowrista Xogta	15152
@@ -506,6 +554,7 @@ Diiwaan-gelinta Dhimashada	15153
 Diiwaanka Dhimashada	15153
 Diiwaanka Hay'adda Dhowrista Xogta	15152
 Direction Generale des Ressources DHIS2	14442
+Direction Générale des Impôts DHIS District Health	15583
 Director-General of DHA	2681
 Disabilities Mainstreaming The DHA	5533
 Disability. The DHA	11986
@@ -513,13 +562,16 @@ District Health Information System DHRMD Department	12917
 District Health Office DHIS2 District Health	3791
 Doroh Mr. E. Dhenhere Dr	1554
 Dr. Dhirane Amritlal Shah Data Processor	7167
-Dubai and Abu Dhabi	11290,979,4
+Dubai and Abu Dhabi	11290,979,4,3773
 E. Dhenhere Dr Eng. L. Kunaka	1154
+EMIS. DHIS2	16356
 Edo State's DHIS2	7921
+Education DHIS2	15960
 Electronic Travel Authorisation DHA GBVF Plan	11986
 Email Print By Kwanele Dhladhla	12422
 Emerging DCDT DHET	6832
 Ethiopia The DHS Program ICF Rockville	14067
+F DELSEY HILLBLOM LENDE DHL	16623
 First Abu Dhabi Bank	12026
 Foreign Minister of Comoros H.E. Mr. Dhoihir	13744
 Form DHA-9 For Naturalized Citizens	2115
@@ -566,6 +618,7 @@ Implementing the DHA Counter Corruption Strategy	5533,6453
 Incident Response Team DGS DGS DHIS	12917
 Indicateur Masculin Féminin Ensemble DHS	13300
 Industrial Research Africa DHIF Digital Health	396
+Information Management DHIMS District Health Information	15556
 Information System DHMT District Health Management	3791
 Information System DHRA Directorate of Human Resources	34
 Jonathan Dharmapalan	3830
@@ -580,11 +633,11 @@ Land Reform and Rural Development The DHA	11986
 Landmark Dhawan	12297
 Lassaad Ben Dhiab	4650,13,348
 Last DHS	10812
-Le DHIS2	13306
+Le DHIS2	13306,2169,12,237
 Legal Officer Kishna Dhondee and Senior Executive	9612
 Legislative Mandates The DHA	5533
 Lesotho and Angola. The DHA	5533,6453
-Likes DHIS2 Community Innovations	15200
+Likes DHIS2 Community Innovations	15200,1192
 M DHIS2	4349
 M DHIS2 Spectrum DH	4349
 M. Dhoihirdine Ahamada Bacar	5814,7982
@@ -601,6 +654,7 @@ MTN and DHL	9720
 Malawi's DHIS1	12242
 Malawi's DHIS2-based	13121
 Malika Dhif	965,3924,206
+Management System DHS Demographic and Health Survey	15556
 Management and Workforce The DHIS2	1824
 Manya A. Dhis2	766
 Maroc. DHIS2	9557
@@ -620,6 +674,7 @@ Mr. Lassâad Ben Dhiab	2375,1485
 Ms. Sally Njiri RMNCAH MoH DHPT	9855
 Mustafa Sheikh Ahmed Dhuxulow. The EAC	5045
 Mzimba North DHO	3791
+Médecine Traditionnelle DHIS	15475
 NAM 1992 DHS v01 M	9485
 NAM 2000 DHS v01 M	9485
 NDHA and DHIS2	4301
@@ -636,6 +691,7 @@ OpenMRS and DHIS2	12141
 PJMF DHIA	392
 Paloma Candia and Ahmed Dhman	11071
 Parliament. The DHA	5533
+Peggy Dhalia	15780
 Perceptions and Representations of DH	14666
 Peters DH	3791
 Phetulo Dhlamini	14671
@@ -679,6 +735,7 @@ SA-SAMS. DH	11927
 SARKAALKA DHOWRISTA XOGTA	15152
 SARS and DHA	2681
 SHAHAADO-SIINTA DHINACYADA KU TIIRSAN	14930
+SIS and DHS2	15590
 SO.SM for DHIS2	4301
 SOO KOOBID FULINTA Dhaqaalaha Soomaaliya	11136
 SPEECH His Excellency Mr Dharambeer Gokhool	14772
@@ -691,6 +748,7 @@ Sarkaalka Dhowrista Xogta Sarkaalka Dhowrista	15152
 School Report Cards. The DHIS2 EMIS	1017
 Selon Dhoihirdine Ahamada Bacar	5833
 Senegal DHIS2	10881
+Serveurs DHCP	15512
 Service DHIS District Health Information System	396
 Sexual Harassment Policy. The DHA	11986
 Shabeellaha Dhexe	15085
@@ -709,10 +767,12 @@ Soomaaliya Dhibcaha Deyn Cafintii Diseembar	11136
 South Africa's The DHA	11986
 South Africa’s DHET	6832
 South DHA	11986
+Special Needs DHR Demographic and Health Report	15604
 Specific The DHA	11986
 Spectrum and DHIS2	4349
 State. The DHA	11218
 States DHIS2	1959
+Studies and Projects Division DHR	16041
 Submit RMNCH Data for DHIS2	10833
 Suivre le DHS Program	13300
 Supports DHIS2	725
@@ -723,7 +783,9 @@ Systems Edo State's DHIS2-based EMIS	11970
 TALLAABOOYINKA DHEERIGA AH EE ILAALINTA ADEEGGA	14930
 TECHNOLOGY CONFERENCE IN ABU DHABI	4827
 TVET Modernisation DHET	6832
+Talaat Dhurgham Village	15578
 Tallaabooyinka Dheeriga	14930
+Thomas DHELLO	15439
 Thon Dhiei Ngor	4042
 Through the DHA	5533
 Through the DHIS2-based EMIS	13045
@@ -735,6 +797,7 @@ UNICEF. On the DHIS2	10780
 US DHS	2954
 University of Oslo. DHIS2	1219
 Using DHIS2	11970,2953
+Using the DHIS2	16011
 Using the DHIS2 Platform	11912
 VAS Reports Assumptions DHA	11986
 VDPV DHA ONO EID EMR	4153
@@ -746,6 +809,7 @@ WAX-KA-BEDDEL IYO DHAQAN-GAL	15152
 Waajibka Wargelinta Dhalashada Ubadka	15153
 Waqtiga Diiwaan-gelinta Dhalashada	15153
 Warqadda Dhalasho	14906
+Web DHIS2	15685
 Weli Socda Dhammaan	14859
 Wellcome-funded DHIS2 for Climate	11589,2224
 Work-Integrated MICT SETA DHET	6832

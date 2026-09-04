@@ -1,18 +1,24 @@
+A1 Bulgaria	15471
+A1 Bulgaria EAD	15471
 A9coles.html Bulletin	13779
+ACI Radio ACI TV Bulletins	16092,1,37,97,148,111,41
 Abdikarin Ahmed Bulhan	15007
 Adeegyada Bulshada	15047
 Agriculture Performance Bulletin	14818
 Ajambo Buluma	3005
 Alister Bull and Paul Burkhardt	7343
 All Locations Harare Bulawayo Mutare Chikombedzi	12493
+Annual Bulletin for Pre-University Education	15604
 Annual Education Statistical Bulletins	12175
 Annual Statistical Bulletin	12175
+Aristide Bulakali	16531
 Aristide Bulakali. Au	14172
 Arrimaha Bulshada	14906,129
 Associação Black Bulls	12842
 Axel Voss and Bulgarian Socialist Kristian Vigenin	8014
 B. Bulane	12675
 BULA AFYA NURSING HOME LIMITED Data	7167
+BULA BULA	16381
 BULK REQUESTS FOR TRN	11298
 BULK STORAGE TERMINAL LIMITED Data Controller	7167
 BULKON LOGISTICS LIMITED Data Processor INST-7000000BFA2	7167
@@ -23,7 +29,7 @@ BULLA TAWAKAL HOSPITAL LIMITED Data Processor	7167
 BULLBIRD TRADING LIMITED Data Processor INST-561201E195D	7167
 BULLET	7785,366,716
 BULLETIN OFFICIEL	308,427
-BULLETIN OFFICIEL N	308
+BULLETIN OFFICIEL N	308,15577
 BULLETIN OFFICIEL Nº	735
 Bench Bulletin	14410,39
 Berne Union Bulletin	11310
@@ -37,6 +43,10 @@ Bula-Atumba	4044,6707
 Bula-Aumba	539
 Bulakat Transit Centre	9772,1
 Bulandzeni	12956
+Bulape	16011
+Bulape Ebola	16383
+Bulape Health Zone	16011
+Bulape and Mweka	16011
 Bulawayo	362,578,214,1833,290,108,1511,2100,18,22,1590,773,395,1817,180,702,12,5,801,50,36,4,57,46,105,10,36,12,4,4,10,14,585
 Bulawayo Camp Hospital. Currently the Medical Service	13361
 Bulawayo EWZL Owned Offices N	4896
@@ -60,14 +70,18 @@ Bulawayo-Victoria Falls Highway	8296
 Bulawayo. Digital Systems	9397
 Bulawayo. Tel	12515
 Bulawayo24	12501,9
+Bulbes	15999
 Bulck	11028
 Bulelani Jili	5716
 Bulelani Jongwe	8943
 Bulembu Ministries and SOS Children’s Village	13123
 Bulembu Ministries. The Office	12977
+Bulengo	15670
+Bulengo Rapport Annuel	15670
+Bulengo..........................65	15670
 Bulfone	4676
 Bulgari	8530
-Bulgaria	10351,434,61,159,558,46,3117,7
+Bulgaria	10351,434,61,159,558,46,3117,7,738
 Bulgaria ALEKSANDROVA	6613
 Bulgaria Burkina Faso Burundi Cabo Verde	11765
 Bulgaria Yes Digital Bulgaria	11529
@@ -79,6 +93,7 @@ Buliisa	6435
 Buliisa District	3005
 Bulikula	1766
 Bulilima and Matobo	12508
+Bulk Cargoes	15492
 Bulk Clearing System	6938
 Bulk Data Access	8817,3123
 Bulk Data Exchange for Evidence-based Policy	11222
@@ -87,11 +102,13 @@ Bulk Disbursements	12269
 Bulk Electricity Tariffs Regulatory Policy Framework	12320
 Bulk Electricity Trading	12062
 Bulk LPG	12256
+Bulk Minerals and Ores	16285
 Bulk Payment	6804
 Bulk SMS	13095
 Bulk SMS for Broadcasting Messages	12241,839,15
 Bulk Scanning of Beneficiary Files	6458
 Bulk Storage Terminal Ltd	12256
+Bulk Supply Point	16596
 Bulk TRN Requests the Enrolment	11298
 Bulk Works	11134
 Bulk-buying	8458
@@ -100,15 +117,20 @@ Bull World Health Organ	766,5,10009,101
 Bull&author	1219
 Bull&title	1219,42
 Bulldozers Water	12253
-Bulletin	17,291,261,166,263,865,562,351,585,535,780,2979,77,872,287,1874,10,101,288,474,306,1349,32,1212,125,4,214
+Bulletin	17,291,261,166,263,865,562,351,585,535,780,2979,77,872,287,1874,10,101,288,474,306,1349,32,1212,125,4,214,587,40,38,50,90,42,158,22,54,82,206,1,13,372,87
 Bulletin Board	13461,1
 Bulletin Board ESS External Sector Statistics	14777
 Bulletin EE JAMHUURIYADDA SOOMAALIYA Sanadka	14906
 Bulletin N	10979
-Bulletin Officiel	2425,1384,87,6108,4845
+Bulletin Officiel	2425,1384,87,6108,4845,594,39
 Bulletin Officiel du Burundi	13293,30,2,5
+Bulletin SNIS N	16722
+Bulletin Statistiques CCAA	15542
+Bulletin de Performance Sanitaire	16722
+Bulletin de Performance Sanitaire N	16722
+Bulletin des Statistique	15480
 Bulletin of Vital Statistics	10775
-Bulletins	8718,2158
+Bulletins	8718,2158,4482,1,33,4,8,29,7,10,27,26,1,22,6,22,135,5,11,67,140,43,64,3,34,33,33,16,81,28,43,86,173,72
 Bullion	10
 Bullion Volume	10
 Bullshit	5022
@@ -119,10 +141,11 @@ Bulshada. Guddi	14859
 Bulshadu	15047
 Bulshooyinka	15047
 Bulunga High	11134
-Bulungu	11460
+Bulungu	11460,4281
 Bulwer	11986
 CBN Bullion	10
 CIP Bulletin	12201
+CONOMIQUE ET STATISTIQUE D’AFRIQUE SUBSAHARIENNE BULLETIN	16250
 CYBER BULLETIN	13502
 Central Bank of Tunisia Bulletin No	9494
 Chikombedzi Bulawayo Tsholotsho Harare Mutare Harare	12493
@@ -131,12 +154,15 @@ Civil Registration Bulletin	10765,10
 Connectivity Challenges Bulilima and Matobo	12508
 Cyber Bullying and Cyber Stalking	12928
 DASHBOARD AND AUTHORISATION FOR BULK	11298
+DES BULLETINS DE VOTE Article	15727
+DITION Bulletin T2	16722
 DM Bulwer KZN O R Tambo	11986
 Darussalam Bulgaria Burkina Faso Cuba Libya	10764
 Daryeelka Bulshada	14906
 Data Bulletin	2668
 Datyeelka Bulshada	15047
 Deputy Minister of Health Mohamed Hassan Bullale	15119
+Development of Special Forecast Bulletins	15916
 Ebla Mohamed Bulle Data Processor INST-7783666D875	7167
 Economic Bulletin	12962
 Energy Sector Statistical Bulletin	13479
@@ -147,6 +173,8 @@ Evaluation. CBN Bullion	10
 Ferreira Bulha Inhambane Francisco Manuel Pagula	12201
 Food and Nutrition Bulletin	12255
 France Host the Bulk of Content	6542
+H Bulbes	15999
+H.E. Mr. Simon Bulupiy Galati	16164
 HIc Bulgaria Europe Eastern Europe Sofia	10840
 Harare Bulawayo	12511
 Harare Bulawayo Mutare Gweru Kwekwe Kadoma	9429
@@ -155,6 +183,9 @@ Harare and Bulawayo	3111,166,2822,7212,71,303
 Harare and Bulawayo. Law Society of Zimbabwe	14295
 Harare and Bulawayo. The Zimbabwean	6099
 Hydrologic Drought Bulletin	12957
+I BULLETIN TRIMESTRIEL D’INFORMATION I Page	16250
+ICT Indicators Quarterly Bulletin	15604
+IDS Bulletin	15658
 IMF's Dissemination Standards Bulletin Board	11554
 INDEX BULLETIN SECOND QUARTER	11152
 INDEX BULLETIN-SECOND QUARTER	11152
@@ -166,7 +197,9 @@ Kenneth Bullut	12256
 Kenya. Bull World Health Organ	10881
 Kigali Water for Bulk	718
 LPG Import and Bulk Storage Infrastructure	12256
+Le Bulletin de Performance Sanitaire	16722
 Liechtenstein San Marino Andorra Bulgaria Latvia	10764
+Maternal Mortality Bulletin Education Sector Plan	15604
 Maya Wang of Human Rights Watch. Bulletin	2518
 Mbaraki Bulk Terminal Limited	12256
 Metropolitan-Harare and Bulawayo	736
@@ -176,7 +209,10 @@ Mombasa Bulk Terminal Ltd	12256
 Moretele North Klipvoor Bulk Water Supply	11248
 Mowqifka Ururrada Bulshada Rayidka	15238
 NAMIBIA PRODUCER PRICE INDEX BULLETIN-SECOND QUARTER	11152
+NATIONAL ENERGY STATISTICAL BULLETIN Energy Commission	15740
 NCA Quarterly Statistical Bulletin	236,1627
+NURU SASU de Bulengo	15670
+National Energy Statistical Bulletin	15740
 OFFICIAL BULLETIN EE JAMHUURIYADDA SOOMAALIYA	14930
 OFFICIAL BULLETIN EE JAMHUURIYADDA SOOMAALIYA Sanadka	15152,1
 Office Bulawayo	4896
@@ -185,6 +221,7 @@ Official Bulletin	14880,27
 Orlando Mendes Megas Felix Bulutna Nan	11544
 PM Bulawayo Office Regional Office	12511
 Page Bulawayo High Court	13504
+Par Enock Bulonza	15699
 Patience Bulage	15064
 Petroleum Bulk Truck Belle Vue Harel	14738
 Petroleum Bulk Truck Transport	14738
@@ -197,9 +234,9 @@ Project Update. EDRMS Bulletin	12325
 Provincial Excluding Harare and Bulawayo	736
 Psychological Bulletin	8460
 Q Heal Bull	1219
-QUARTERLY STATISTICAL BULLETIN ON COMMUNICATIONS	2776
+QUARTERLY STATISTICAL BULLETIN ON COMMUNICATIONS	2776,13267
 Quarterly Debt Statistical Bulletin	13479
-Quarterly Statistical Bulletin	2776
+Quarterly Statistical Bulletin	2776,13267
 Quarterly Statistics Bulletin	13069
 REPUBLIC OF BULGARIA	13996
 References Bulawayo24	12501
@@ -217,11 +254,13 @@ Tablet Commitment Form Bulk Item Upload	12454
 Tanzan Health Res Bull	1261
 Tax Statistics Bulletin and Monthly Bulletins	13479
 TechAfrica News Today's Bulletin	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
+Telenor Bulgaria EAD	15471
 Territory Brunei Bulgaria Burkina Faso Burundi	11470
 Today's Bulletin	9899
 Tredgold Building Leopold Takawira Street Bulawayo	12511
 Undersecretary for Information Mawien Bulabek	5014
 United Republic of Tanzania. Bull World Health	771
+Unlimited Bulgarian Telecommunication Company EAD	15471
 Ururrada Bulshada Rayidka	15152
 Verena Bulk Water Project	11289
 World Bank's Bulletin Board	13082

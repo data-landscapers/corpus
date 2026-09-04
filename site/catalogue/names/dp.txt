@@ -3,11 +3,13 @@ AI and DPI	1481,99,738,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,
 AP-01 DP-15 WARDIP-2026 Crédit	5983
 API Application Programming Interface DPI Digital	13076
 APPOINTMENT NOTIFICATION FORM DP2 POTRAZ	1877
+ARTICLES THEMATIQUES Flash Infos Le DPPD-PAP	16378
 ASEAN and Africa for DPI	9431
 ATTRIBUTION AND DPI	10852
 AU Continental Data Policy Framework. DPC	1779
 AU DPF	14486
 Aadhaar DPI	1225
+Account DHS Demographic and Health Survey DP	15515
 Achieved DPME	11224
 Act DPO Data Protection Office GAI	14790
 Acteurs Secrétariat Exécutif DPD	14537
@@ -56,6 +58,7 @@ Angola's DPI	561,478
 Antenne Large NIG-ICO-AH7-ARCEP- NIGER Airlines DP24001E	998
 Appeals DPOs	13381
 Approche DPI	12043
+Aquaculture DPC	16621
 Asian National DPI Quasi-experimental and Network	10852
 Associate DPOs	11956
 Austrian DPA	8436
@@ -75,6 +78,7 @@ Biometric Update How DPI	4368
 Bm Decibel-milliwatts DPP Democratic Progressive Party	14674
 Borrower DPF2	10779
 Botswana's DPI	3114,168
+Bourses Couches DPI	16609
 Breach Notification Form DP3	1877
 Building Africa's First Regional DPI Ecosystem	12432,252
 Building Foundational DPI Focus Africa	9431
@@ -113,10 +117,12 @@ Consent DPI	10719
 Contas Nacionais DPA	10757
 Cooperation Framework CoK City of Kigali DP	14935
 Core DPI	11487
+Cybersecurity and AI for DPI Agencies	16144
 D Diplomacy'. Benin's DPI	3803
 DADF DOS DPSR	10858
 DBS DCNT DHS DIU DMPA-SC DP	10777
 DCMIs and DPMIs	11993
+DE4A DGDEN DPC DRC E&S EGDI	15553
 DE4A Digital Economy for Africa DPA Data	12663
 DGUF DI DLC DME DPSR DRI	10858
 DHD Digital Health Division DPPD Department	12240
@@ -124,16 +130,20 @@ DL Disbursement Letter DP Development Partner	11525
 DNSI and DPRI	6593
 DOS DPSR DERF DSF Programmation	10858
 DP Development Partner EDF European Development	970
+DP Development Partner EMONC Emergency Maternal	15556
+DP ENT SAS	16006
 DP Gachagua	7869
 DP J	10876
 DP Kindiki	14273
 DP Mise	10876
 DP Regulations	12232
 DP Rigathi Gachagua	7869
+DP Sous-lieutenants	15744
 DP WORLD	13868
 DP World	13868,608
 DP&publication	2096
 DP-law	4382,1807
+DP2 Douaouda Périmètre	15690
 DPA Blog	4583
 DPA Data Protection Authority DPEC Directorate	4214
 DPA Guidance	1742
@@ -154,7 +164,7 @@ DPA. The Commissioner	12232
 DPA. Transitional Provisions	1652
 DPAs. Countries	4583
 DPBEB	3396
-DPBEP	1866,1530,141,7175
+DPBEP	1866,1530,141,7175,5000,763
 DPC Authority	4126
 DPC Investment Portfolio Excellence Award	13688
 DPC-Banco Mundial-GFF and OMS	2228
@@ -175,16 +185,27 @@ DPDK Data Plane Development Kit DPM	13185
 DPDP Act	7981
 DPDP Act Jul	6499,44,465
 DPE du MEN	14472
+DPEIEFG	15632
+DPEPN	15411
+DPEPS	15639
+DPEPS. Au	15639
+DPEPS. Une	15639
 DPETV	3381
 DPEs and IFPs	2989
+DPF Actes	15901
 DPF Developing Policy Financing EFF Extended	11380
+DPF Development Policy Financing G2B Government-to-Business	15491
+DPF Décret	15901
 DPF III	12440
 DPF Implementation Framework	11134
+DPF ORGANES D’EXECUTIONS Sécurité	15901
 DPF Page	10779
+DPF STRUCTURES RATTACHEES A LA PRESIDENCE	16100
 DPF Steering Committee	11134
 DPF and PforR	11469
 DPF-supported	10779
 DPF-supported SOE	10779
+DPF1 PA1	15924
 DPF1 and DPF2	11905
 DPF1- PA7	10779
 DPF1-PA1	10779
@@ -205,6 +226,7 @@ DPF2-PA5	10779
 DPF2-PA6	10779
 DPF2-PA7	10779
 DPF2. PA6	10779
+DPF3 PA1 and PA2	15924
 DPF3-PA1a	10779
 DPF3-PA1b	10779
 DPF3-PA1c	10779
@@ -246,6 +268,7 @@ DPGs for DPI	13095
 DPGs for DPI. Rather	4430
 DPGs. But Africa	7921
 DPGs. Top	11922
+DPHQGHG	15604
 DPI ADP III	1439
 DPI ADP III. Moniepoint	2247
 DPI AI	7981
@@ -275,6 +298,7 @@ DPI Development Cycle	3735
 DPI Digital	11994,233
 DPI Digital Public Infrastructure	11965
 DPI Digital Public Infrastructure ESCP Environment	6539
+DPI Dossier Patient Informatisé DR Direction	15746
 DPI Electronic Immunization Register	5225
 DPI Enabling Environment	1508
 DPI Enabling Environment Bill	1508
@@ -317,6 +341,7 @@ DPI TECHNOLOGY	10719
 DPI Taylor Reynolds	6202
 DPI Technical Standard	3735
 DPI Technical Standard and National Digital Public	3735
+DPI URL	15449
 DPI Universal Safeguards	12257
 DPI With DPI	3070
 DPI and AI	6668
@@ -391,6 +416,7 @@ DPI.Africa	14259
 DPI4Africa	8654
 DPI4Africa and Board Member	7073,1581
 DPIA CHECKLIST	13381
+DPIA Data Protection Impact Assessment	15472
 DPIA EU FbF HiC HITL HOOTL	11156
 DPIA Electronic Know Your Customer NPS	12444
 DPIA Step	13381
@@ -414,6 +440,7 @@ DPM. Vous	14841
 DPME National Planning	11193
 DPME Programme Expenditure Sector Monitoring Services	11224
 DPME and DOW	11193
+DPMED	15416
 DPMIS	10122
 DPMIs	11993
 DPMIs. Prior	11993
@@ -421,6 +448,7 @@ DPM’s Office	12939,38
 DPO Contact Email	1877
 DPO DESIGNATION	1877
 DPO Designation	1877
+DPO Development Policy Operation E2C Energie	15969
 DPO Development Policy Operation ENAM National	969
 DPO GRANT	5655
 DPO Group	6105
@@ -447,6 +475,7 @@ DPOs. Conduct	12193
 DPP Administration	13122
 DPP Details	12058
 DPP Dialogue Public Privé	14437
+DPP Direction	15479
 DPP Fin	2966
 DPP Manifesto	13122,1552
 DPP Rec	2966
@@ -471,11 +500,15 @@ DPRG-03-2026-0153. URL	8812
 DPRG-04-2026-0254	8193
 DPRG-04-2026-0254. URL	8193
 DPRI and DNSI	6593,8081
+DPRQJ	15604
 DPRS Director	11860
+DPS Document de Politique Sectorielle FAI Fournisseurs	16327
 DPS Manica	2228
 DPS Manneh	4359
 DPS Nampula	2228
+DPS Popo	15424
 DPS Sofala	2228
+DPS.pdf	15592
 DPSA Department of Public Service and Administration BMCS	11986
 DPSA Determination and Directive	11196
 DPSA and DCDT. Milestones	11940
@@ -536,8 +569,10 @@ Democratic Accountability DPI	4424
 Democratic Project If DPI	4424
 Departamento Técnico Fiscal DPRF	11435
 Department of Human Resource Management and Development DPI	13005
+Deploying Offline-First DPI and AI for Universal Disability	16495
 Description DPF	763
 Designated Account DPI Development Committee Paper	3604
+Development Partner DPO Development Policy Operation	15515
 Development Policy Financing DPF Environmental and Social	11905
 Development of DPI	8546
 Digital Government Strategy and DPI	14674
@@ -548,16 +583,20 @@ Digital Public Infrastructure -DPI Report.pdf	5485
 Digital Public Infrastructure DPI Somali	5172
 Digital Public Infrastructure DPPA	5244
 Digital and Human Capital Reform DPF	763,418
+Direction Provinciale DPEPPNF	15639
 Directorate of Distance and E-Learning DP	12175
 Disabilities DML Desired Mastery Level DP	13990
+Disaster Risk DPF	15491
 Disease-2019 DPI Digital Public Infrastructure DPGA	12241,839,15
 Disinformation DPI	9937
+Distillate Oil DPG Déclaration de Politique Générale	15769
 DpZs98lQfP1oA8cXwp5OxA3Q2yZaYYJ	11977
 Dparent.parent&amp	5784,4,162,263
 Dpemf	10473
 Dpi Le Bénin	7392
 Dpi. Ainsi	7392
 Dpi. Avec	7392
+Dprotected	15725
 Dutch DPA	8436
 EAC DPI Acceleration Mechanism	8546
 EN COURS DPIP	2966
@@ -579,8 +618,10 @@ Eswatini's DPA	6792
 Eswatini. The DPMO	12939
 Ethiopia's DPI. Designed	8183
 Ethiopia’s DPI	10852
+Etudes Primaires DPPC Division	15541
 Evaluating DPI	10852
 Expanding the DPI Map	4863
+Explorations Diagnostiques DPP	15475
 Exporting DPI	9070
 F DP	10841
 FOCUS ON While DPI	10852
@@ -622,6 +663,7 @@ Governing DPI	5700
 Government. The DPO	14010
 Govt Cloud DPO NCRCSA CERT.MU ITSU	14752
 Grandes Contribuintes DPF	11435
+Growth DPF	15659
 Guidance and Ideas. Multistakeholder Governance for DPI	11006
 HRMIS DPI	3295
 Hand DPI	6665
@@ -653,12 +695,14 @@ India DPI Summit	7981
 India DPI and China	793
 India's DPI	2804,4095,252,830,1450
 India’s DPI	6386,306
+Information DPE Direction Préfectorale	16626
 Information Letter DPL Development Policy Loan	10768
 Infrastructure DPIA Data Protection Impact Assessment	7548
 Integral. DPI Roadmap Playbook	11006
 Integrate DPA	4126
 Integrity Policy DP Development Plan ELP	11250
 Intentional DPI Governance	5700
+Internet Africain DPS Déclaration de Politique Sectorielle	15592
 Interrogating DPI	5485
 Introduction DPI	4981
 Investigations Bureau DPO Data Protection Officer	6936
@@ -681,8 +725,10 @@ Land Reform DPME Department of Planning Monitoring	11224
 Le DPBEB	3396
 Le DPBEP	3396
 Le DPCS	5993
-Le DPI	13530
+Le DPI	13530,3079
 Le DPSE Hasina RAKOTOZAFIARISOA	14425
+Les DPEPPNF	15639
+Les DPEPS	15639
 M Inclusivity Pulse for DPI	13095
 MACRA. DPO	12166
 MALAWI DIGITAL READINESS ASSESSMENT DPI	12214
@@ -764,6 +810,7 @@ Overview of DPI Pilot Projects	10852
 PARIS21 DP22	7213
 PDPC-registered DPO	4982
 PIC DPSM FACEBOOK PAGE Government	8108
+PMS Public Managers Statute DPF Development	15924
 PROCESSING ACTIVITIES WHEN CONDUCTING A DPIA	13381
 PROVINCE CHEFS-LIEUX DPENA BOUCLE DU MOUHOUN	10847
 PSS Information Technology Specialist. DPWI Delegation	11285
@@ -775,6 +822,7 @@ Potential DPIs	3604
 Previous Article DPP	4775
 Privacy E ENS ArticleThe New DPO	6632
 Prospective DPBEP Document de Programmation Budgétaire	10712
+Protection Civile DPV	16621
 Prépare la DP	10876
 Publications Report Multistakeholder Governance for DPI	11006,1
 P’ of DPI	5700
@@ -805,6 +853,8 @@ SF SF SRH DADF DPSR DPSR	10858
 SLO.38 For DPI	11006
 SRM MOTOROLA DP2000e Portatif VHF	998
 SSA. DPI ADP III	347
+STATUTORY APFAIRS CARS INDER SERVICE DPIE-CERTIFIEE	15999
+Santé Publique DPMED	15475
 Savings and Credit Cooperatives DPP Director of Public	2775
 Scalable DPI	13005
 Scalable DPI Key Result Area	13005
@@ -813,6 +863,7 @@ Scalable DPI. Conclusion This Strategic Plan	13005
 Scaling DPI	1510
 Sec.48 of DPA	6432
 Second Angola Growth and Inclusion DPF Operation	11380
+Selon le DPS	15592
 Senegal's DPA	6792
 Sep DPOC	3583
 Setting the Standard for Regional DPI	12432,252
@@ -838,6 +889,7 @@ Suppose DPI	5700
 Sustainability-Linked Loan. The DPO	14195
 Sustainable DPI	8183
 Swedish DPA	8436
+Sécurité DPCO	15524
 Templates for DPIA	3861
 Testing DPI Digital Public Infrastructure	11952
 Trade and Investment Operation Name Angola DPF3	10779
@@ -870,7 +922,9 @@ Well-governed DPI	4981
 What's Driving the Spread of DPI	12227
 Whole-of-Government and DPI	12008
 Within DPI	6668
+World Bank DPF	15659
 World Bank DPI	2254,1574,1702
+World Bank IPF and DPO	15659
 X-Road DPI	10852
 X-Road-model DPI	3514
 Y Y Feature Authoritative Public DPI	10719

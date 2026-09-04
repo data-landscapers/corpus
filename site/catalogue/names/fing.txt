@@ -4,6 +4,7 @@ Automated Fingerprint Identification System	10812,1415,110
 Automated Fingerprints Identification System	12165
 Automatic Fingerprint Identification System	12378
 Biometric Fingerprint System	12984
+CDSB Fingerprints	16602
 Chief Fingerprint Officer	14407
 Child’s Fingerprints Collection	10765,10
 Child’s Fingerprints Collection Figure	10775
@@ -15,6 +16,7 @@ FingazLive SMS News	9253
 Finger	12360
 Finger Chops	14705
 Fingerprint	6512,4263,1272,2693
+Fingerprint Bureau	16602
 Fingerprint Identification System DDG	11986
 Fingerprint Purpose Limitation	6512
 Fingerprints	2115,977,660,1647,917,3284,302,873,1181,91,846
@@ -22,3 +24,4 @@ Fingers	10812
 Fingertips Series	10985
 Formats Fingerprint Data	13005
 N Latent Fingerprint Matching	12241
+Singles Fingerprint	16602
