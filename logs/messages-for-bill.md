@@ -14,6 +14,11 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-04 09:20 · build
+
+- **Stage 4: 24 units done, 8 left — CPV, GIN, BEN, COG, GAB, CMR, COD, BFA, about 960 sources.** You stopped the run at Egypt; the set difference resumes the next build exactly there. Commissioning the rest as its own job is yours to call.
+- **A filler batch from another session was running here at 06:27; I stopped it with the STOP switch to free the tree.** It was re-probing nine already-searched countries. Restart it when you want.
+
 ## 2026-09-01 14:05 · build
 
 - **The bulletin's 31 August to 1 September window holds one unsummarised item, a United Nations statistics page placed COM.** You said not to touch COM records, so the run left it unwritten and did not assemble: the bulletin keeps its current edition rather than publishing a gap. Everything else in the cycle ran. If the instruction meant the COM backfill rather than incidental COM sources, say so and the next run writes it.
