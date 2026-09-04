@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: GHA
-ledger_rows: 84
+ledger_rows: 93
 not_held: 9
-record: 6ef5a512adbb
+record: 2d79302627a2
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -73,6 +73,13 @@ The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content
 
 Beneath the licensing argument, the traffic that never leaves the country was counted. On 16 August the Accra exchange was reported [past 200 Gbps, against three exchanges that barely overlap: only 4 of 39 connected networks peer at all three, so most local traffic still transits abroad](https://tech.africa/accra-three-internet-exchanges/). The headline figure is the smaller finding. An exchange is worth the traffic it keeps local, and three partly-overlapping exchanges keep less of it than one would.
 <!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The transmission system failed nationally twice in three weeks. A major fault on the Akosombo-Volta line at about 4.30am on 20 August [tripped the Akosombo units and some thermal plants](https://www.graphic.com.gh/news/general-news/gridco-on-why-there-is-a-second-nationwide-electric-power-outage.html), three weeks after [a system disturbance at about 3.11am on 29 July had tripped generating plants simultaneously](https://gna.org.gh/2026/07/gridco-attributes-nationwide-power-outage-to-system-disturbance/). The operator opened a technical investigation into the first and said further measures were needed to strengthen reliability after the second; no interruption index is published for either.
+
+On 28 August the energy ministry [launched a GHS598 million project to connect 206 communities across all 18 districts of the Volta Region within six months](https://gna.org.gh/2026/08/government-launches-ghs598m-electrification-project-for-206-volta-communities/), part of a programme covering four regions this year and four more annually to 2030. It is the largest funded rural-electrification commitment the base holds, and it lands in the same month as the second national outage.
+<!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
@@ -117,6 +124,13 @@ The dominant operator opened a channel to the next cohort of providers instead. 
 
 Card acceptance widened from outside the domestic rails. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Ghana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Ghana.
 <!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+Two registries entered the base this month as standing descriptions rather than events. The revenue authority's own page sets out [the taxpayer identification number system it maintains under the 2016 revenue administration Act](https://gra.gov.gh/tin/), and the national digital address system's [official page records it live](https://www.ghanapostgps.com/). Neither carries an internal date, so both are dated to capture and neither reports a change: what moved is the base's own coverage, not the registries.
+
+Nothing published with either gives a register size, a coverage rate or a public-sector consumer, which is the figure each would need before it could be said to be working.
+<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
@@ -130,6 +144,16 @@ The finance ministry reported to Parliament that the customs valuation system ha
 The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
 
 Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+The police service's own page on its criminal data bureau entered the base this month, and what it establishes is where the paper stops: [the bureau at investigations headquarters receives fingerprints and crime details on forms sent in from police stations](https://police.gov.gh/en/index.php/criminal-data-service-bureau-cdsb/), including rural and district ones. The digitisation is at the centre and the stations feed it on paper.
+
+It is a standing description dated to capture rather than an event, and it sits against the interior ministry's own sector plan, which names limited logistics particularly in rural and border communities as the constraint on digitisation reaching those stations.
 <!-- /narrative -->
 
 ## Technology
