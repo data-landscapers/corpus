@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: CIV
-ledger_rows: 41
+ledger_rows: 43
 not_held: 10
-record: ca40fd99a63d
+record: 484f753e49dd
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -160,4 +160,12 @@ The cyber agency and a technology school validated curricula for two cyber-secur
 
 <!-- narrative: inclusion--include-access -->
 Access moved by putting the counter where people already are. The civil-registry agency [opened an office inside a Yopougon shopping centre on 14 August](https://www.oneci.ci/actualites/1787127124). It is one site, with no opening hours, service list or plan for further locations published.
+<!-- /narrative -->
+
+## Data
+
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+The national meteorological agency [signed a convention on 10 August with a private company combining artificial intelligence, satellite data, drones and georeferenced data to monitor farm holdings and anticipate weather-linked risk](https://sodexam.com/climat-et-agriculture-la-sodexam-et-jool-international-misent-sur-lintelligence-artificielle/). It is an agreement to develop solutions rather than a service: no product, value, timetable or user is named, and it is the second such convention the agency has signed this year.
 <!-- /narrative -->

@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-09-04
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 205
+sources_cited: 206
 sections_written: 37
 not_established: 0
 acquire_lines: 59
@@ -117,7 +117,7 @@ What may be hosted abroad is decided case by case: [personal data may leave the 
 
 Between a quarter and a third of Ivorians remain off the grid — [72.4% had access to electricity (2023)](https://data.worldbank.org/country/cote-divoire) — and the firms that are connected reported [around four electrical outages a month](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Cote-Divoire-2023.pdf) in the World Bank's 2023 enterprise survey. Access is nonetheless one of the faster-moving governance measures, [up 14.4 points over 2014-2023 to 56.2 out of 100 and 15th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ci.pdf) (2023), and [infrastructure as a whole is the second largest driver of the country's governance improvement, up 13.8 points to 59.3 and 11th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ci.pdf). Rural access [lags urban access by a wide margin](https://data.worldbank.org/country/cote-divoire) (2020).
 
-[Hydroelectricity supplies about 24% of generation (2023)](https://www.economie-ivoirienne.ci/en/node/176). Off-grid policy is the more developed part of the framework: the World Bank's RISE assessment records a [comprehensive off-grid regime, with the rural electrification programme PDER providing subsidies and provision for private participation in mini-grid and solar hybrid deployment](https://rise.esmap.org/analytics) (2024).
+[Hydroelectricity supplies about 24% of generation (2023)](https://www.economie-ivoirienne.ci/en/node/176). Off-grid policy is the more developed part of the framework: the World Bank's RISE assessment records a [comprehensive off-grid regime, with the rural electrification programme PDER providing subsidies and provision for private participation in mini-grid and solar hybrid deployment](https://rise.esmap.org/analytics) (2024). Coverage is near-universal on the ministry's own series and reliability is not: [8,690 localities were electrified at end-2024 against 3,887 in 2017, on a coverage rate of 94.3% and an access rate of 98.6%, while mean annual interruption time rose back to 26h13 in 2024 from 17h54 in 2021 against a 2030 target of under fifteen hours](https://www.economie-ivoirienne.ci/activites-sectorielles/electricite.html) (2024).
 
 What the grid means for hosting shows in how data centres are designed to survive it. The operating-phase environmental risks identified for the Grand-Bassam facility are [generator fuel and lubricant spills, wastewater, NOx and VOC emissions, and water consumption](https://www.raxiogroup.com/wp-content/uploads/2026/01/Cote-DIvoire-IVORY-COAST-ESIA-EXECUTIVE-SUMMARY.pdf) — the risk list of a building expected to run on its own generators.
 
