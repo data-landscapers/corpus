@@ -1,14 +1,14 @@
 ---
 title: Congo — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-09-04
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 113
+sources_cited: 116
 sections_written: 37
-not_established: 5
+not_established: 2
 acquire_lines: 35
 ---
 ## Governance
@@ -320,7 +320,7 @@ No national space agency, earth observation programme or geospatial data policy 
 ### US / hyperscaler activities
 <!-- geopol.usa -->
 
-The United States and the American platform companies held no recorded stake in Congo's digital infrastructure, financing or platform operations as at August 2026.
+The one realised American engagement is a cable, and it is Meta's. [The President activated Congo's connection to Meta's 2Africa submarine cable at Pointe-Noire, landed under the public-private Congo cable consortium, and commissioned the regulator's Tier 3+ data centre of 54 racks, connected to both WACS and 2Africa](https://postetelecom.gouv.cg/congo-numerique-denis-sassou-nguesso-active-la-connexion-du-pays-au-cable-a-fibre-optique-2-africa/). No signed memorandum with Meta was located, and no digital engagement with the State Department, USAID, the DFC, EXIM or the Brazzaville embassy is on the record.
 
 ### China activities
 <!-- geopol.china -->
@@ -351,9 +351,9 @@ Every European and multilateral commitment on the record apart from the African 
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
 
-No Gulf or Emirati investment, data-centre holding or vendor presence in Congo's digital sector is on the record as at August 2026.
+The Gulf relationship is a trade framework that names digital and delivers nothing yet. The [finance minister signed a Comprehensive Economic Partnership Agreement with the UAE foreign trade minister at Abu Dhabi on 12 April 2025, naming the digital economy among the free-trade area's priority sectors and undertaking to have the agreement ratified and made operational](https://www.aci.cg/congo-emirats-arabes-unis-un-accord-global-de-partenariat-economique-signe-entre-les-deux-pays/). No Gulf sovereign-fund or telecom investment, data-centre commitment or vendor presence follows from it on the record.
 
 ### India activities
 <!-- geopol.india -->
 
-No Indian state financing, vendor contract or infrastructure holding in Congo's digital sector is on the record as at August 2026.
+India's presence is one node and one acquisition, both fifteen years old. [India's own country brief records tele-education, telemedicine and a VVIP connectivity node set up in Brazzaville under the Pan-African e-Network Project, and Bharti Airtel's 2010 acquisition of Zain Communications Network, which established its Congolese telecom operations](https://www.mea.gov.in/Portal/ForeignRelation/India-RoC26.pdf). No line of credit, export-bank facility, information-technology services contract or capacity programme naming Congo is on the record, and the brief itself dates nothing digital after 2010.

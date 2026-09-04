@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: COG
-ledger_rows: 18
-not_held: 12
-record: 68edaecd05a4
+ledger_rows: 20
+not_held: 6
+record: 73a5cb383533
 ---
 
 # Congo: monthly update, August – September 2026
@@ -71,6 +71,11 @@ What the regulator does have is an enforcement record. It [dismantled a sixth SI
 One exchange went into use, in the narrow place where the state examines itself. The national transparency commission [opened the second round of its public-finance transparency-code evaluation entirely online, covering budget years 2023 to 2025](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/), focal-point training having completed in Brazzaville beforehand. No supplier, custodian or results-publication date is stated, and the platform is not publicly accessible on the record held.
 
 The larger exchange was contracted out. Customs-procedure digitalisation under the continental free-trade agreement [was awarded to a Nigerian firm on a 20-year concession valued at US$3.1bn, signed at Abuja](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160). No revenue share, data-ownership term or exit provision is published for a twenty-year hold over the state's customs data.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The credential layer moved on stock rather than on design: the government [announced 100,000 blank passports and a new payment mechanism, alongside 330,000 identity cards](https://starducongo.info/congo-passeports-le-gouvernement-annonce-100-000-passeports-vierges-et-un-nouveau-mecanisme-de-paiement/). The instrument behind the card is older — [Decret 2024-2692 of 21 November 2024 institutes the computerised national identity card](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117585/COG-117585.pdf) — and the unique identification number it rests on has been instituted since 2004. What the base still does not hold is an issuance series against those volumes.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
