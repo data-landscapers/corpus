@@ -1,14 +1,14 @@
 ---
 title: Benin — digital transformation and data governance status report
-compiled: 2026-08-20
+compiled: 2026-09-04
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 146
+sources_cited: 148
 sections_written: 37
-not_established: 2
+not_established: 0
 acquire_lines: 41
 ---
 ## Governance
@@ -385,9 +385,9 @@ Smaller European positions run through national development agencies rather than
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
 
-No Gulf state or Gulf-based operator held an established position in Benin's digital sector - infrastructure, operator holding, financing or agreement - as at August 2026.
+One Gulf instrument is held and it has no digital subject. A [UAE minister of state met President Talon in Cotonou on 22 March 2023 and signed a memorandum of understanding with the Beninese foreign minister to promote technical collaboration between the two foreign ministries](https://www.mofa.gov.ae/en/MediaHub/News/2023/3/22/22-03-2023-UAE-Benin). No Gulf infrastructure, operator holding, data-centre commitment or financing naming Benin is on the record.
 
 ### India activities
 <!-- geopol.india -->
 
-No Indian party held an established position in Benin's digital sector - infrastructure, platform deployment, financing or bilateral agreement - as at August 2026.
+India's position rests on a single day of signatures and nothing since. The [joint statement of President Kovind's state visit of 28 to 30 July 2019 records four signed instruments - cultural exchange, telemedicine and tele-education, visa exemption, and export-credit and investment-insurance cooperation - and a US$100 million Indian line of credit](https://www.mea.gov.in/bilateral-documents.htm?dtl%2F31693%2FIndia++Benin+Joint+Statement+during+State+Visit+of+President+to+Benin=). The telemedicine and tele-education memorandum is the digital limb; no infrastructure, platform deployment or later agreement is on the record, and nothing reports what was done under it.

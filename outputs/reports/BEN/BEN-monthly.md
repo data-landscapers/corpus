@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-04
+period: 2026-08-01 to 2026-09-04
 place: BEN
-ledger_rows: 17
-not_held: 5
-record: fab41307d1a0
+ledger_rows: 19
+not_held: 4
+record: d352b91d3106
 ---
 
 # Benin: monthly update, August – September 2026
@@ -31,6 +31,11 @@ Body-worn cameras have become standard kit for traffic police in the largest cit
 
 <!-- narrative: governance--gov-regional -->
 The cross-border digital identity work Benin does through Smart Africa moved from development into a running pilot: [an identity issued in one of Rwanda, Ghana or Benin is now being recognised in the other two](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty), with eighteen further countries said to be joining and no date given for any of them.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Benin's standards body is now inside the international system rather than beside it: the Agence Nationale de Normalisation [is recorded as a full member of ISO](https://www.iso.org/member/308845.html), having [launched the national NB conformity mark in April](https://anm.bj/fr/actualite/7503). Membership is a standing on paper; what the base does not hold is a standards catalogue, a certified-product count, or any ICT-specific Beninese standard.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
