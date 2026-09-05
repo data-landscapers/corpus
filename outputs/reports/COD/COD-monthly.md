@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: COD
-ledger_rows: 50
+ledger_rows: 55
 not_held: 6
-record: fd9c33427185
+record: df07e668e870
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -91,6 +91,12 @@ Deployment of the transformation project's fibre backbone was reported to the Co
 Coverage arrived from orbit before it arrived by fibre. An operator [commercially launched a satellite-to-mobile service on 14 August, the first African operator to take the technology out of testing](https://businessday.ng/technology/article/airtel-becomes-first-african-operator-to-commercially-deploy-starlink-mobile-starting-in-congo/): a compatible LTE Android handset with a clear view of the sky reaches messaging and SMS through satellites where there is no terrestrial network, with no dish, router or other equipment, and the [regulator has confirmed a phased rollout](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/). The service is stated as designed for light data, and the only access term published is a [free 30-day trial for customers who register through the operator's app](https://www.connectingafrica.com/connectivity/airtel-africa-starlink-launch-satellite-to-mobile-service-in-drc); no standing tariff, coverage map or subscriber figure is on the record.
 
 Starlink users in Kinshasa [face four to six months of possible slowdowns while the network is congested](https://www.talkafrica.co.ke/starlink-users-in-kinshasa-face-4-6-months-of-possible-slowdowns-amid-network-congestion/). No subscriber count, capacity figure or remediation date accompanies the notice.
+<!-- /narrative -->
+### Technical Capacity
+
+<!-- narrative: ict-infrastructure--infra-capacity -->
+
+Assembly capacity for digital hardware appears in this base for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to.
 <!-- /narrative -->
 
 ## DPI

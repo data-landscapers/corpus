@@ -1,12 +1,12 @@
 ---
 title: DR Congo — progress report, September 2025 – September 2026
-compiled: 2026-09-04
-period: 2025-09-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2025-09-01 to 2026-09-05
 place: COD
-ledger_rows: 142
+ledger_rows: 147
 not_held: 6
 indicators: 121
-record: 495ee4603bfd
+record: 262d0fb456e0
 ---
 
 # DR Congo: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-04.*
+*The period is 2025-09-01 to 2026-09-05.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -126,7 +126,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Sectoral management information systems | Tax | The finance inspectorate's [2026-2028 plan makes automated cross-checking of customs, tax, standards and freight records a pillar of systemic control](https://www.congoquotidien.com/2026/08/21/cloture-seminare-igf-plan-strategique/). <details><summary>Full record</summary>2026-08-20 - the plan was [disseminated to public administrations, making automated cross-checking of customs, tax, standards and freight-management records a pillar of systemic control](https://www.congoquotidien.com/2026/08/21/cloture-seminare-igf-plan-strategique/). The inspectorate states that [what limits it is the reliability of the data the administrations produce rather than the technology, and commits to help the revenue agencies improve it](https://deskeco.com/2026/08/18/digitalisation-de-controle-comment-ligf-compte-t-elle-remedier-la-question-de-fiabilite-et-qualite).<br><br>No platform, interface or timetable is named. The [worked example given is a consignment imported at US$10,000 and declared to customs at US$1,000](https://lepoint.cd/rdc-ligf-veut-croiser-les-donnees-de-la-douane-dgi-occ-et-ogefrem/), which is the case cross-checking would catch and which nothing on file shows being caught yet.</details> | Advanced |
 | Sectoral management information systems | Customs | [Electronic transmission of the documentary file between the single window and customs became compulsory in January 2026](https://fec-rdc.com/note-circulaire-interministerielle-relative-a-la-transmission-obligatoire-de-la-liasse-documentaire-du-systeme-informatique-du-guichet-unique-integral-du-commerce-exterieur-vers-le-systeme-informatiqu/). <details><summary>Full record</summary>[Transmission of the documentary file between the single window and the customs administration became compulsory and electronic in January 2026](https://fec-rdc.com/note-circulaire-interministerielle-relative-a-la-transmission-obligatoire-de-la-liasse-documentaire-du-systeme-informatique-du-guichet-unique-integral-du-commerce-exterieur-vers-le-systeme-informatiqu/), [after the Prime Minister launched digitalisation of the documentary file in December 2025](https://www.primature.gouv.cd/2025/12/29/lutte-contre-les-tracasseries-dans-limport-export-judith-suminwa-lance-la-digitalisation-de-la-liasse-documentaire-en-rdc/). [Customs run SYDONIA](https://douane.gouv.cd/dgda/outils-informatiques/sydonia/).<br><br>No declaration volume, clearance time or revenue figure from the system is held.</details> | Advanced |
 | Sectoral management information systems | Land |  | ***No evidence*** |
-| Other GovTech and e-Gov | e-government services | The [digital government platform's first-quarter 2026 target passed with neither launch nor delay announced](https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project). <details><summary>Full record</summary>A [functional digital government platform was targeted for March 2026](https://www.biometricupdate.com/202601/drc-envisages-a-functional-digital-government-platform-by-march), announced alongside an interbank payment platform, an online tax portal and a customs system. [No platform, revised date or announced delay is held](https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project), and none of the companion systems is established as live.<br><br>2026-06-24 - technical training closed for ministry staff on a [platform to authenticate documents against forgery for economic inspections](https://actualite.cd/2026/06/26/rdc-le-ministere-de-leconomie-nationale-mise-sur-le-numerique-pour-renforcer-la); training completion is the only milestone on file and whether the platform is in production is not established.</details> | Mixed, an economic-inspection authentication platform reached staff training while the digital government platform's own March 2026 target passed unannounced |
+| Other GovTech and e-Gov | e-government services | The [digital government platform's first-quarter 2026 target passed with neither launch nor delay announced](https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project). <details><summary>Full record</summary>A [functional digital government platform was targeted for March 2026](https://www.biometricupdate.com/202601/drc-envisages-a-functional-digital-government-platform-by-march), announced alongside an interbank payment platform, an online tax portal and a customs system. [No platform, revised date or announced delay is held](https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project), and none of the companion systems is established as live.<br><br>2026-06-24 - technical training closed for ministry staff on a [platform to authenticate documents against forgery for economic inspections](https://actualite.cd/2026/06/26/rdc-le-ministere-de-leconomie-nationale-mise-sur-le-numerique-pour-renforcer-la); training completion is the only milestone on file and whether the platform is in production is not established.</details> | Advanced |
 
 
 ## Digitalisation

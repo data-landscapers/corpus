@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: ZMB
-ledger_rows: 40
+ledger_rows: 45
 not_held: 46
-record: c43d241a2c95
+record: 18148e5b1fcd
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -199,4 +199,10 @@ Weather data for aviation is being examined rather than improved. The Civil Avia
 
 <!-- narrative: geopolitics--geopol-china -->
 A [seminar on China-Zambia artificial-intelligence cooperation](https://www.zambiamonitor.com/techbytes-china-reaffirms-support-for-zambias-digital-transformation/) covered localising artificial-intelligence solutions to Zambian conditions and partnering with universities on curricula, and a ministry director and the Chinese ambassador [discussed digital infrastructure, emerging technologies, skills and research](https://itweb.africa/article/zambia-china-deepen-digital-ties/o1Jr5qxPY8gqKdWL). No agreement, value, timetable or named institution follows from either.
+<!-- /narrative -->
+### India activities
+
+<!-- narrative: geopolitics--geopol-india -->
+
+India enters the record as a destination rather than a donor. Officials from the digital and ICT sector and line ministries [joined delegations from Ethiopia, Malawi, Rwanda and Sierra Leone and the African Union Commission on a south-south learning mission hosted by the United Nations Development Programme](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/), studying India's digital public infrastructure and the institutions that built it; [the state government of Karnataka received them in Bengaluru on 1 September](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/). No agreement, financing, technology transfer or follow-on commitment is named on either side.
 <!-- /narrative -->
