@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: NGA
-ledger_rows: 139
+ledger_rows: 142
 not_held: 8
-record: d9f1a79b3b84
+record: fa51fc592f61
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -277,6 +277,11 @@ Nothing moved on the identity gender gap, on rural access, or on the schools pro
 An inclusive-data initiative brought the national statistics office into a five-country programme.
 
 A state put a household survey at the centre of its budgeting. Katsina [launched six planning documents on 28 August, among them a General Household Survey Report and a State Statistical Yearbook covering poverty, employment, livelihoods, agriculture, education, healthcare, housing, water, sanitation and access to basic services across its 34 local government areas](https://www.vanguardngr.com/2026/08/radda-moves-katsina-to-data-driven-governance-targets-poverty-food-crisis/), the budget commissioner directing agencies to align their programmes to the new frameworks.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+The month's open-data movement is civil society's rather than government's. A civic-technology foundation [published a 2026-2030 strategy on 3 September to institutionalise participatory budgeting and subnational public-project tracking in 10 to 15 states, building on two existing platforms that let citizens monitor budget implementation and identify completed, delayed or abandoned public projects](https://nannews.ng/promad-unveils-5-year-strategy-to-scale-up-civic-tech-citizen-participation/). No budget, funder, delivery timetable or state is named.
 <!-- /narrative -->
 
 ## Geopolitics

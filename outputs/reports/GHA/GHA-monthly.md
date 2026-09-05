@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: GHA
-ledger_rows: 94
+ledger_rows: 99
 not_held: 9
-record: 8096fb0fa5ba
+record: ab3e3531ad0e
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -62,6 +62,12 @@ The same week the ministry took the governance argument outward and inward at on
 
 <!-- narrative: finance--finance-mou -->
 The country renewed the agreement under which several of its digital customs systems are financed. The [TradeMark Africa country programme memorandum was renewed on 14 August](https://thehighstreetjournal.com/ghana-trademark-africa-deal-targets-higher-exports-regional-market-access/), continuing trade-facilitation and continental-free-trade-readiness work, including digital customs systems at the Akanu-Noepe joint border post and support for more than 1,250 women and small-scale cross-border traders. No financing sum, term or workplan is stated — and the same border post is where a regional dialogue on identity-card and transit-system interoperability was held four days earlier.
+<!-- /narrative -->
+### New investments
+
+<!-- narrative: finance--finance-new -->
+
+Two new commitments enter the base this month, one domestic and one from a development partner. The government [put GH¢100 million, about US$8.88 million, behind the Ghana National Research Fund for 2026](https://shore.africa/2026/08/31/ghana-ai-research-fund/), separately from its US$250 million commitment to a national artificial-intelligence computing centre; no disbursement or call for proposals is reported against the allocation. The UN capital development fund [began a second phase with a Ghanaian microcredit company on a US$200,000 grant it expects to catalyse US$1 million in loans and savings](https://gna.org.gh/2026/09/uncdf-fido-begin-phase-two-partnership-to-expand-digital-finance-for-msmes/), after a first phase on US$30,000 that reached 470 enterprises across three regions and recorded 1,988 youth loans totalling GHS494,760.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -148,6 +154,12 @@ Two systems moved in opposite directions in the same week. The online passport a
 
 ## Digitalisation
 
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+
+Local government has gone in one month from a reform strategy's integration target to a signed programme covering every assembly in the country. The Office of the Head of the Local Government Service [signed a memorandum on 3 September with a Ghanaian networks company to turn all 261 metropolitan, municipal and district assemblies into what both parties call smart assemblies, spanning waste management, public safety, education, healthcare, environmental monitoring and citizen engagement](https://kumasimail.com/ohlgs-celltel-seal-deal-to-turn-261-assemblies-in-ghana-into-smart-communities/). No contract value, financing structure or timeline is stated, which is the whole of what would make it testable. Separately a governance organisation [launched a citizen-reporting platform in South Tongu District that routes service-delivery complaints to the assembly and keeps the reporting citizen informed until resolution](https://gna.org.gh/2026/09/ghana-governance-africa-launches-digital-platform-to-deepen-participation-in-local-governance/) - a civil-society instrument in one district, not an assembly system.
+<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
@@ -190,6 +202,12 @@ The education council completed a revised basic-education curriculum adding codi
 
 <!-- narrative: capacity--capacity-training -->
 Training capacity was the month's activity. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/).
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+
+The month's research capacity news is a funding gap stated by the minister who has to close it. Education Minister Haruna Iddrisu [said the US$30 million Chinese government grant for a University of Science and Technology at Damongo will not be enough to complete and equip it, putting the full cost at more than US$100 million](https://gna.org.gh/2026/09/govt-seeks-additional-funding-for-damongo-science-and-technology-university/); the university is intended as a centre for robotics, digital sciences and artificial intelligence in a region that currently has none. [The grant itself was disclosed at a working visit by the incoming Chinese ambassador](https://thevaultznews.com/2026/09/03/ghana-secures-30-million-grant-for-damongo-tech-university/), and neither account dates it beyond the previous year.
 <!-- /narrative -->
 
 ## Inclusion
