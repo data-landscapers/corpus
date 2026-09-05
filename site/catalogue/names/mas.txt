@@ -110,6 +110,8 @@ Chairman Clarence K. Massaquoi	8803
 Chairman Clarence Massaquoi	8955
 Chairman Massaquoi	8803,32
 Chief Financial Officer Master of Business Administration	11134
+Chief Justice George Mcheche Masaju	17618
+Chief Justice Masaju	17618
 Chief Thesele Maseribane	309
 Christian Care Masvingo	4528,7984
 Circuncisão Masculina	10777
@@ -117,6 +119,7 @@ City of Kigali and Districts Land Use Master	888
 Civil Registration Massification Campaign	10765
 Civil Registration Massification Campaign. Figure	10775
 Civil Registry Professionals Master Data Skills	17007
+Clarence K. Massaquoi	17709
 Clarence Massaquoi	7617
 Claver MASABO Dismas MBONICUYE Hermenegilde MUGISHO	13300
 Clear Infrastructure Master	16885
@@ -164,7 +167,7 @@ Departamento Pedro Cipriano Massiala Telefone	10766
 Departamento de Massificação	11382
 Department Master of Science	12407
 Deputy President Mashatile	11284
-Deputy President Paul Mashatile	2626,4354,4304,6
+Deputy President Paul Mashatile	2626,4354,4304,6,6430
 Deputy President Shipokosa Paulus Mashatile	11290
 Description MASSIF	1471
 Description MASSIF USD	1472
@@ -388,10 +391,12 @@ Knife Capital Fund III Mastercard Foundation	1134
 LISA BANGOMWE and Dionne Masango	13485
 LMIS Master Plan	13157
 LNMR Late Neonatal Mortality Rate MAS2	12413,2643
+LTA Acting Chairperson Massaquoi	17708
 LTA Board Chairman Clarence K. Massaquoi	9742
 LTA Board Chairman Clarence Massaquoi	7410
 LTA Board Chairperson Clarence K. Massaquoi	9088
 LTA Chairman Clarence Massaquoi	4817,3576,562
+LTA Chairman Hon. Clarence K. Massaquoi	17538
 LTA Chairperson Clarence Massaquoi	7230,386
 LTA Chairperson Hon. Clarence Massaquoi	17266
 Labour Courts and Masters' Offices	9894
@@ -556,11 +561,13 @@ Masafa	6019
 Masaiti	9986
 Masaiti District	3524
 Masaiti and Kafulafuta	5057
+Masaju	17618
+Masaju-Bagonza	17618
 Masaka	718,5593,3470,2577
-Masaka City	2928,495
+Masaka City	2928,495,14196
 Masaka Munyaga Mageregere Rubona Kabare R	12413
 Masaka and Wakiso	9781
-Masakhane	985,4089,1519,362,196,359,586,123,1403,307,1211,1070,4148
+Masakhane	985,4089,1519,362,196,359,586,123,1403,307,1211,1070,4148,1198
 Masakhane African Languages AI Hub	3344
 Masakhane African Languages Hub	3987,1611,5022
 Masakhane African Languages Hub and Google.org	9929,15
@@ -798,7 +805,7 @@ Massang	10823
 Massango Cambundi Catembo Quipungo Belize Amboim	10765
 Massano. Feeds the ENIF	4876
 Massano. KWiK	4876
-Massaquoi	4817,2593,206,777,427,15,120,133,268,409,4589,2791,121
+Massaquoi	4817,2593,206,777,427,15,120,133,268,409,4589,2791,121,442
 Massaquoi By Edwin N. Khakie Gbarnga	17145
 Massas	17100
 Massawa	6230,7730,48,111,29
@@ -831,7 +838,7 @@ Massive Budgetary Boost for Justice	17398
 Massive Capacity	5675
 Massive Economic Multiplier	9431
 Massive Internet Outage	2677
-Massive MIMO	3466,21,11797
+Massive MIMO	3466,21,10664,1133,2367
 Massive Machine Type Communications	5675
 Massive Online Open Validation and Evaluation of Large	13158
 Massive Open Online Courses	16942
@@ -848,7 +855,7 @@ Massoumbou	15542
 Massyla CisséDate de Deces	5022
 Mast Registration	17250
 Mastelic	11006
-Master	1000,219,609,265,639,6,563,97,316,715,1734,783,88,199,125,401,510,402,205,361,120,117,420,886,75,56,220,3,599,275,35,90,266,8,145,95,3,43,197,7,73,2,4,55,275,5,57,22,15,567,514,210,79,122,7,24,152,10,74,193,19,118,35,23,122,8,38,241,90,138,77,230,131,60,198,7,19,9,43,6,1,41,103,2,139,139,64,14
+Master	1000,219,609,265,639,6,563,97,316,715,1734,783,88,199,125,401,510,402,205,361,120,117,420,886,75,56,220,3,599,275,35,90,266,8,145,95,3,43,197,7,73,2,4,55,275,5,57,22,15,567,514,210,79,122,7,24,152,10,74,193,19,118,35,23,122,8,38,241,90,138,77,230,131,60,198,7,19,9,43,6,1,41,103,2,139,139,64,14,266
 Master AI Innovation Science Teachers	12512
 Master AI Junior	4833
 Master AI Teachers	4528
@@ -978,7 +985,7 @@ Master's Office. Citizens	5032
 Master'sitc	15552
 Master-Agents	15600
 Master. Concernant	1598
-MasterCard	10138,573,1166,78,383,3142
+MasterCard	10138,573,1166,78,383,3142,2057
 MasterCard Acquiring	11955
 MasterCard Acquiring Fees	11955
 MasterCard Clearing	11955
@@ -988,7 +995,7 @@ MasterCard POS	11955
 MasterCard and Visa	11955,4952
 MasterID	126
 Masterc	13390
-Mastercard	701,247,589,1052,210,50,28,133,101,1001,38,33,82,400,111,15,464,185,174,86,9,51,263,82,258,63,224,182,247,192,127,141,788,47,121,103,17,162,231,86,57,26,532,41,82,8,41,912,1162,45,270,3,1000,2,83,32,597,544,492,422,38,10,1936
+Mastercard	701,247,589,1052,210,50,28,133,101,1001,38,33,82,400,111,15,464,185,174,86,9,51,263,82,258,63,224,182,247,192,127,141,788,47,121,103,17,162,231,86,57,26,532,41,82,8,41,912,1162,45,270,3,1000,2,83,32,597,544,492,422,38,10,1936,263
 Mastercard Africa	13275
 Mastercard Asia	11310
 Mastercard Cartes	13390
@@ -1005,6 +1012,7 @@ Mastercard Foundation Momentum Cohort	11327
 Mastercard Foundation Phase II	13671
 Mastercard Foundation Programme Duration	11314
 Mastercard Foundation Scholar	432
+Mastercard Foundation Scholars Call for Applications	17735
 Mastercard Foundation Scholars Program	146,240,317,207
 Mastercard Foundation Scholars Program Alumni	13258
 Mastercard Foundation Symposium	40
@@ -1063,6 +1071,7 @@ Master’s Court	14742,105
 Master’s Degree	6946,3114,1071,3,1838
 Master’s Office	8779
 Master’s Office. Citizens	5017
+Master’s Students Awarded Scholarships Under the Africa	17735
 Master’s and Doctoral Degrees	11131,3
 Master’s of Business Administration	6946
 Masthead	1750,97,53,99

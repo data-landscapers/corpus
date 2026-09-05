@@ -274,7 +274,7 @@ Etat Direction du Portefeuille des Secteurs Primaires	2342
 Ethiopia's Deputy Prime Minister	5073
 Ethiopia's Prime Minister	5825
 Ethiopia. Primary	156
-Ethiopian Prime Minister Abiy Ahmed	14102
+Ethiopian Prime Minister Abiy Ahmed	14102,3454
 Ethiopia’s Prime Minister	11607
 Etudes Primaires	15376,367
 Etudes Primaires DPPC Division	15541
@@ -542,6 +542,7 @@ Minister Savannah Maziya and Prime Minister Russell	5799
 Minister of Finance Prime Minister Chairman	6938
 Minister of Primary and Secondary Education	4528,7984,798
 Minister of Primary and Secondary Education Zimbabwe Madame	13310
+Minister of State for Prime Minister and Cabinet Affairs	17548
 Ministries of Primary and Secondary Education	13310
 Ministry Vice Prime Minister Senior Chief	14738
 Ministry of Deputy Prime Minister	12970
@@ -953,7 +954,7 @@ Primature. Présidée	10944
 Primature. Prévue	7276
 Primature. Son	4871
 Primauté	15720
-Prime	3253,874,721,107,7370,33,2384,1,683,47,55,1901
+Prime	3253,874,721,107,7370,33,2384,1,683,47,55,1901,263
 Prime Activities	3513
 Prime Bidder	15154
 Prime Bidder. Bidders	15154
@@ -968,11 +969,12 @@ Prime Institute of Health Sciences	15251
 Prime Lending Rate	11289
 Prime Lending Rate Policy	11289
 Prime Ministe-	15473
-Prime Minister	27,285,406,65,186,56,259,4,2,538,5,95,435,4,208,56,52,128,49,289,104,28,14,20,121,49,47,63,25,8,74,178,174,87,232,162,40,160,27,12,34,92,29,36,15,53,63,26,143,73,247,240,141,225,107,732,13,322,378,162,1,3,165,431,1,102,5,162,70,122,275,271,172,362,429,244,102,19,49,24,50,21,177,21,157,177,28,30,90,215,25,20,40,130,76,30,21,26,31,46,2,27,13,24,57,203,10,4,9,8,5,16,76,108,9,22,3,2,4,28,1,5,23,31,22,5,54,1,234,87,22,434,37,37,86,17,9,70,6,1,130,73,326,53,2,2,4,2,9,4,2,6,2,1,7,8,6,5,14,12,3,20,11,2,2,2,16,1,12,5,18,10,40,31,22,30,1,28,14,29,115,6,12,238,5,6,8,22,4,35,13,5,30,3,54,524,58,16,21,8,262,41,26,35,108,90,55,199,190,40,110
+Prime Minister	27,285,406,65,186,56,259,4,2,538,5,95,435,4,208,56,52,128,49,289,104,28,14,20,121,49,47,63,25,8,74,178,174,87,232,162,40,160,27,12,34,92,29,36,15,53,63,26,143,73,247,240,141,225,107,732,13,322,378,162,1,3,165,431,1,102,5,162,70,122,275,271,172,362,429,244,102,19,49,24,50,21,177,21,157,177,28,30,90,215,25,20,40,130,76,30,21,26,31,46,2,27,13,24,57,203,10,4,9,8,5,16,76,108,9,22,3,2,4,28,1,5,23,31,22,5,54,1,234,87,22,434,37,37,86,17,9,70,6,1,130,73,326,53,2,2,4,2,9,4,2,6,2,1,7,8,6,5,14,12,3,20,11,2,2,2,16,1,12,5,18,10,40,31,22,30,1,28,14,29,115,6,12,238,5,6,8,22,4,35,13,5,30,3,54,524,58,16,21,8,262,41,26,35,108,90,55,199,190,40,110,203,24
 Prime Minister Abdi Farah Shirdoon HOL	2743
 Prime Minister Abdoulaye Maiga. All	3646
 Prime Minister Abdul Hamid Dabaiba	3073
 Prime Minister Abdulhamid Dbaiba	6433
+Prime Minister Abdulhamid Dbeibah	17548
 Prime Minister Abiy	14130,3
 Prime Minister Abiy Ahmed	2979,232,4676,2917,790,71,152,346,75,41,19,19,1717,26,6,17,38,9,3
 Prime Minister Abiy Ahmed and President Daniel	12825
@@ -1064,6 +1066,7 @@ Prime Minister Té	17209
 Prime Minister URL	14805
 Prime Minister Ulisses Correia	2807,4
 Prime Minister Xeer Ra'iisal Wasaare Lr	14930
+Prime Minister and CEO	17647
 Prime Minister and Cabinet	14434
 Prime Minister and Cabinet Office Mr. Bheki	12989
 Prime Minister and Committee Head Professor Kamil	9685
@@ -1087,6 +1090,7 @@ Prime Minister of Somalia	15057
 Prime Minister of Somalia Dr. Abdirashid Ali	15119
 Prime Minister of Somalia and Presidential Candidate	11150
 Prime Minister of Tunisia	16757
+Prime Minister's Advisory Commission	17620
 Prime Minister's Director General	6938
 Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,136,163,1510,127,584,21,4,4,5,23,1,14,15,3,19,9,6,126,760,200,251
 Prime Minister's Office Public Disclosure Authorized	12228

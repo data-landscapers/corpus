@@ -895,7 +895,7 @@ D C P2-3-1	12500
 D C P9-32-2	12500
 D Deployment C Development Digitalization	11006,1
 D E C E N T	14935
-D E C R E T	1231,13183,4,935,8,1,9,4,37,16,28,222,3
+D E C R E T	1231,13183,4,935,8,1,9,4,37,16,28,222,3,1854
 D E C-	582
 D E M O C R	15372
 D'ELIGIBILITE DES REFUGIES C	998
@@ -1178,6 +1178,7 @@ Moniepoint Group's Series C	2223
 Moniepoint Series C	2223
 Moniepoint's Series C	2247
 Monnaie C	10965
+Monsieur C. M. Patrick HINNOU	17584
 Monsieur Jean Baptiste On- C. En	15901
 Moove's Series C	9098
 Mossaoa C	1009

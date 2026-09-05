@@ -282,7 +282,7 @@ Administrateur de Mukaza	13405
 Administrateur de Ngozi de Butanyerera	13405
 Administrateur-Maire	5103
 Administrateurs	2342,24,5304,587,64,2171,2800,296,1866,222,260,6,345
-Administrateurs Délégués	3356
+Administrateurs Délégués	3356,14315
 Administrateurs Maires Délégués	15685
 Administratiewe Liggame	11255
 Administratif	7993,3604,1704,141,383,626,961,258,981
@@ -290,7 +290,7 @@ Administratif du Directeur Général	16175
 Administratif. Elle	15412
 Administratifs	2476,8345
 Administratio Publica	4432
-Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47,130,13,266,54,7,8,145,168,11,10,18,12,2,18,26,3,2,28,13,9,45,15,24,29,11,22,58,18,35,20,26,3,1,60,16,18,3,77,190,176,95,33,3,3,1,1,4,1,1,1,6,1,12,7,5,6,14,11,35,8,12,24,25,15,83,49,1,14,15,53,34,1,41,198,62,80,105,1,11,5,9,7,18,10,2,4,15,11,1,6,11,1,3,9,1,1,7,3,8,15,4,6,10,8,6,5,4,18,6,8,11,31,6,6,1,1,21,10,1,5,9,18,6,3,8,2,5,2,12,5,28,4,14,5,66,2,36,32,3,6,23,8,26,2,11,8,11,16,45,1,6,18,13,45,52,1,33,2,24,41,37,10,6,50,6,32,17,41,3,22,60,1,3,2,2,3,2,10,2,3,1,10,13,9,36,5,1,9,24,115,61,18,1,20,7,36,5,94,114,41,104,27,57,13,2,5,3,12,2,9,6,1,11,11
+Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47,130,13,266,54,7,8,145,168,11,10,18,12,2,18,26,3,2,28,13,9,45,15,24,29,11,22,58,18,35,20,26,3,1,60,16,18,3,77,190,176,95,33,3,3,1,1,4,1,1,1,6,1,12,7,5,6,14,11,35,8,12,24,25,15,83,49,1,14,15,53,34,1,41,198,62,80,105,1,11,5,9,7,18,10,2,4,15,11,1,6,11,1,3,9,1,1,7,3,8,15,4,6,10,8,6,5,4,18,6,8,11,31,6,6,1,1,21,10,1,5,9,18,6,3,8,2,5,2,12,5,28,4,14,5,66,2,36,32,3,6,23,8,26,2,11,8,11,16,45,1,6,18,13,45,52,1,33,2,24,41,37,10,6,50,6,32,17,41,3,22,60,1,3,2,2,3,2,10,2,3,1,10,13,9,36,5,1,9,24,115,61,18,1,20,7,36,5,94,114,41,104,27,57,13,2,5,3,12,2,9,6,1,11,11,61,82
 Administration 2018-2021	13341
 Administration A2B	14438
 Administration AERCO Adresse	16552
@@ -489,7 +489,7 @@ Administration du Secteur Ministériel	3396,73
 Administration du Secteur Ministériel CAST	10874
 Administration du Tchad	2863
 Administration du Territoir	15461
-Administration du Territoire	1967,377,412,553,1826,959,484,1324,91,624,950,70,31,486,227,166,374,2756,566,1172,46,13,79,27,526,139,65,219,4,83,25,4,1,5,7,8,36,4,1,16,9,12,2
+Administration du Territoire	1967,377,412,553,1826,959,484,1324,91,624,950,70,31,486,227,166,374,2756,566,1172,46,13,79,27,526,139,65,219,4,83,25,4,1,5,7,8,36,4,1,16,9,12,2,925
 Administration du Territoire Nombre	3396
 Administration du Territoire du Niger	1967
 Administration du Trésor Public	10981
@@ -831,6 +831,7 @@ Agencies MCSAR Ministry of Civil Service and Administrative	969
 Agency Administrative	2727
 Agency SAD Single Administrative Document SARS	16631
 Agenda de Transição Digital da Administração Pública	4606,35,664,5767,307,15,48,2,4,3,2862
+Agent Administratif Supérieur	17625
 Agregado Administrativo	4209
 Agregado Administrativo A1	4209
 Agregado Administrativo A2	4209
@@ -853,6 +854,7 @@ Application of Act PART II Administration of Act	12548
 Application of Tax Administration Act	12630
 Applications Administration	15674
 Assemblée Administration	9480
+Assignment Administration	17562
 Assistant Director for Administration	3088
 Assistante Administrative	15670
 Asst. Court Administrator Dept of Adm. Services	16943
@@ -1023,6 +1025,7 @@ Coimas Administrativas	11436
 Coinplexo Administrativo Clássicos de Ta	10770
 Collection of Administrative	16940
 Collection of Administrative Data	12344,1754,1519,1323
+College of Business Administration	17648
 Comissão Interministerial da Administração Pública	12783
 Comissão de Administração	11436
 Commandant OGANDAGA OGANDAGA Wilfried Gaël. ADMINISTRATION	16099
@@ -1053,7 +1056,7 @@ Conselho da Administração Geral Tributária	10786
 Conselho de Adminis	11518,3873
 Conselho de Administra	11518,3873
 Conselho de Administracao da NOSi	15899
-Conselho de Administração	13,154,1924,693,32,50,1281,103,1322,247,509,291,1117,1490,468,105,287,54,300,928,4,5,72,69,1281,9,1,1,4,16,5,5,1343,1208,42,43,27,252,334,919,24
+Conselho de Administração	13,154,1924,693,32,50,1281,103,1322,247,509,291,1117,1490,468,105,287,54,300,928,4,5,72,69,1281,9,1,1,4,16,5,5,1343,1208,42,43,27,252,334,919,24,638,43,2
 Conselho de Administração O Conselho de Administração	15503
 Conselho de Administração da AGT	10787
 Conselho de Administração da APD	167,577,8,9690
@@ -1182,7 +1185,7 @@ Departamento de Administração de Sistemas	11382
 Departamentos da Administração	11561
 Department of Administration	7167,5073,4723
 Department of Administrationshall	16833
-Department of Business Administration	6936
+Department of Business Administration	6936,10712
 Department of Finance and Administration	12345
 Department of Human Resources and Administration	16978
 Department of Land Administration	17055
@@ -1384,6 +1387,7 @@ FUNCIONAMENTO E GESTÃO DA ADMINISTRAÇÃO PÚBLICA	11397
 FUNCTIONS OF REGIONAL ADMINISTRATION	12970
 FY17 Public Administration	15702
 FY2026 the Administration	4830
+Faculty of Administrative and Financial Sciences	17648
 Fair Administration of Justice	14742
 Fair Administrative Action Act	2709
 Fair Administrative Actions Act	2709
@@ -1445,6 +1449,7 @@ General Administration Division	16963
 General Administration for Emergencies and Epidemic Control	7809
 General Administration of Justice	13363
 General Administration of Payment Systems	5864
+General Administration of Specialized Medical Councils	17562
 General Administration. Center	14854
 General Directorate of Administrative	477
 General Inspectorate of State Administration	11380
@@ -1588,7 +1593,7 @@ Instituto Politécnico de Administração	10614,1017
 Instituto Superior Técnico de Administração	11410
 Instituto Tecnológico de Modernização Administrativa	11542
 Instituto de Modernização Adminis-	11569
-Instituto de Modernização Administrativa	1767,814,1566,459,35,664,764,240,2285,1315,859,611,15,19,27,2,2,12,7,106,2631,113
+Instituto de Modernização Administrativa	1767,814,1566,459,35,664,764,240,2285,1315,859,611,15,19,27,2,2,12,7,106,2631,113,3241
 Instituto de Modernização Administrativa. OE5. Elaborar	11379
 Instituto de Modernização Administrativa. Sinopse	11444,19
 Integrated Administrative Management System	17364
@@ -1820,6 +1825,7 @@ Minister of Public Service and Administrative Reforms	9658
 Minister of State Administration	5417,4331
 Minister of State Administration and Public Service	5068
 Minister of State Modernization and Public Administration	3843
+Minister of State for Administrative Reform	17620
 Minister of Territorial Administration and Local Government	17245
 Minister of Territorial Administration and Mobility	16317
 Minister of Tinkhundla Administration and Development	9197,4010
@@ -1930,6 +1936,7 @@ National Administration and Internal Security	12310
 National Administrations	5675
 National Aeronautics and Space Administration	11342
 National Aeronautics and Space Administration NCCD National	17157
+National Agency for Food and Drug Administration	17652
 National Assembly Administration Act	7859
 National Contribution Administration. Work	14952
 National Data Administration	10350
@@ -2076,7 +2083,7 @@ Planned Actual Comments Administrative Division Morocco	17441
 Planning and Administration Prudence Kaoma. Ms Kaoma	10510
 Plano Estratégico da Inspecção-Geral da Administração	11452
 Plano de Transição Digital da Administração Pública. OE6	11379
-Plataforma de Interoperabilidade da Administração Pública	1770,9624,48,2,17,2853
+Plataforma de Interoperabilidade da Administração Pública	1770,9624,48,2,17,2853,3240
 Policy and Administration	4391,2
 Policy and Administration Packages	10997
 Policy and Administration ZiG258	4392
@@ -2389,6 +2396,7 @@ South African School Administration. Journal of Information	11927
 South African Tax Administration Act	11685
 South Ethiopia Regional Land Administration Bureau	12276
 South West African Administration	12367
+Spectrum Administration and Trading	17665
 Sr Land Administration Specialist. Borrower	12137
 Staffing. The MASFAMU Administrative and Finance Department	10768
 Standard Integrated Government Tax Administration System	12500,4511,303
@@ -2571,5 +2579,6 @@ ZAMBIA INTERGRATED LAND ADMINISTRATION SYSTEM	1222
 ZIPSS. A Security Administrator	12364
 Zambia Integrated Land Administration System	1222,27,625,1,10578,892,42
 Zimbabwe National Road Administration	8296
+Zimbabwe National Roads Administration	17687
 Zone Administration. Alternate Documents	14045
 la Administración General	16855

@@ -34,7 +34,7 @@ Absence of Restrictions Subject	12389
 Abstract Submission Deadline	13582
 Abu-Shanab and Subaih	8021
 Abuse and Harassment Subscriber Identity Module Tropical	1228
-Access Sub-Index	8135
+Access Sub-Index	7763,372
 Accountability. Section PART VI DATA SUBJECT	13319
 Achievement Status Surpassed Substantially	16436
 Achievements The Subsistence Allowance	14835
@@ -68,7 +68,7 @@ Africa. Subsequent	13974
 African Community EASSy Eastern Africa Submarine	6671
 African Region and Sub-regions	14860
 Afrique Sub-Saharienne	15500
-Afrique Sub-saharienne	15542
+Afrique Sub-saharienne	15542,2008
 Afrique Subsaharienne	9615,6065,32,538,205
 Afrique Subsaharienne ANPE	737
 Afrique Subsaharienne ANSSI	10874
@@ -363,6 +363,8 @@ Cooperation Deepening Agency SIM Subscriber Identity	12297
 Coordenador Técnico-adjunto SUBCOMISSÃO DE ADMINISTRAÇÃO	10757
 Coordinating Council Sub-Part B	14824
 Corporate Subscriptions	9253
+Corporate and Subnational	7763
+Corporate and Subnational Sukuk	7763
 Council Subject	14409
 Council of Ministers. SUB-SECTION	14024
 Country Region Sub-Region City EDGI Group	10840
@@ -480,6 +482,7 @@ Delivery of Digital Public Services Sub-Component	3604
 Delivery of Digital Public Services Subcomponent	3604
 Demand-Side End User Subsidy	12195
 Department Subsidize	17157
+Department of General Subjects	17648
 Deploying the Largest Subsea Fiber-Optic Cable System	2677
 Description African Development Under Subcomponent	3604
 Description Sub-Component	1024
@@ -778,6 +781,7 @@ Government. Subject	16832
 Govt Invites Public Submissions	7549
 Grantee Quarterly Report Submission	17274
 Grants and Subsidies	12971
+Greece-based Power Sub Link	17693
 Grievance Submission Form	1778
 Grievance Submission Time and Place	14113
 Group III and IV Hazardous Substances	3651
@@ -1041,6 +1045,7 @@ Method of Submittal Respond	12754
 Million Active Subscribers	9781
 Million FTTH Subscriptions Zerrouki	2790
 Million Fiber Subscribers	6083
+Million Subscribers After Four Years of Operations	17727
 Mining Sub-sector	16511
 Minister Subject	13287
 Ministry of Internal Affairs. Subsequently	16970
@@ -1290,6 +1295,7 @@ Postal and Courier Sub-sector	6946
 Postal and Courier Sub-sector The Authority	6946
 Postpaid Mobile Voice Subscriptions	3862
 Postpaid Voice Subscriptions- Mobile	3862
+Power Sub Link	17694
 Power of Attorney Sub-Merger Co	7198
 Powers of Authority Sub-Part B	14743
 Powers of Minister Sub-Part C	14743
@@ -1502,6 +1508,8 @@ STEP. Activities Substantial Ensure	10768
 STOCK-TAKING OF FUEL SUBSIDIES IN CONGO	1828
 SUB WEIGHT	11252
 SUB WEIGHT WEIGHT	11252
+SUB- Clean	7763
+SUB- Cocoa	7763
 SUB-CATEGORIA DA INTELIGÊNCIA ARTIFICIAL	2816
 SUB-CONTRACTORS	15149
 SUB-CONTRACTORS ARE INVOLVED	11240
@@ -1718,7 +1726,7 @@ Sub Procuradores Dra Andrade	10751
 Sub Sahara Africa	17011
 Sub Saharan	15411
 Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143,327,245,2445,424,33,11,410,1048,472
-Sub Saharan Africa Business	5411,2135,58,2857,146
+Sub Saharan Africa Business	5411,2135,58,2857,146,7098
 Sub Saharan Africa European Commission	1455
 Sub Saharan Africa STEM Science	16942
 Sub Saharan Africa. Namibia	12355
@@ -1852,7 +1860,7 @@ Sub-Sahara African	17011
 Sub-Sahara Afrika	615
 Sub-Saharan	26,1,1,90,60,58,380,11,63,137,219,317,49,416,314,633,733,1007,1956,122,867,3352,17,121,54,191,710,59,246,119,633,719,4,989,737,247,21,23,442,732,229
 Sub-Saharan Af-	2775
-Sub-Saharan Africa	21,5,1,1,53,1,2,44,58,40,10,6,42,8,52,19,14,25,51,46,29,43,36,3,11,10,52,106,54,4,49,50,14,9,91,19,75,89,3,18,15,84,31,1,1,32,37,79,284,116,44,33,100,1,353,141,61,67,31,66,5,33,186,119,1,159,201,59,187,5,632,11,37,49,94,58,23,5,76,59,17,32,7,35,39,20,43,91,110,87,28,216,5,28,57,110,55,2,57,18,11,189,135,153,12,16,50,8,94,15,13,66,55,120,112,2,17,270,83,16,13,113,5,80,3,30,24,35,55,15,108,61,78,13,22,18,3,15,25,63,36,109,168,198,412,25,11,40,237,224,43,16,1,87,19,48,182,382,174,11,34,18,65,61,49,5,13,38,3,7,17,10,5,71,18,14,5,7,1,8,18,1,13,104,14,1,4,9,46,105,80,37,51,104,9,240,60,1,2,1,10,7,16,1,5,36,4,1,29,161,4,1,16,28,1,5,4,17,15,23,28,3,33,3,10,5,4,21,9,10,1,3,68,20,53,64,5,60,135,118,34,29,75,62,1,86,49,5,5,44,2,17,293,57,4,185,120,81,10,131,64,206,71,23,27,23,2,2,44,203,20,57,43,26,40,75,188,46,39,80,20,2,1,1,3,32,3,48,57,3,41,29,34,159,59,7,145,9,116,176,80,138,134,22,12,54,66,7,14,33,15,43,50,1,80,8,42,13,4,64,10,13,92
+Sub-Saharan Africa	21,5,1,1,53,1,2,44,58,40,10,6,42,8,52,19,14,25,51,46,29,43,36,3,11,10,52,106,54,4,49,50,14,9,91,19,75,89,3,18,15,84,31,1,1,32,37,79,284,116,44,33,100,1,353,141,61,67,31,66,5,33,186,119,1,159,201,59,187,5,632,11,37,49,94,58,23,5,76,59,17,32,7,35,39,20,43,91,110,87,28,216,5,28,57,110,55,2,57,18,11,189,135,153,12,16,50,8,94,15,13,66,55,120,112,2,17,270,83,16,13,113,5,80,3,30,24,35,55,15,108,61,78,13,22,18,3,15,25,63,36,109,168,198,412,25,11,40,237,224,43,16,1,87,19,48,182,382,174,11,34,18,65,61,49,5,13,38,3,7,17,10,5,71,18,14,5,7,1,8,18,1,13,104,14,1,4,9,46,105,80,37,51,104,9,240,60,1,2,1,10,7,16,1,5,36,4,1,29,161,4,1,16,28,1,5,4,17,15,23,28,3,33,3,10,5,4,21,9,10,1,3,68,20,53,64,5,60,135,118,34,29,75,62,1,86,49,5,5,44,2,17,293,57,4,185,120,81,10,131,64,206,71,23,27,23,2,2,44,203,20,57,43,26,40,75,188,46,39,80,20,2,1,1,3,32,3,48,57,3,41,29,34,159,59,7,145,9,116,176,80,138,134,22,12,54,66,7,14,33,15,43,50,1,80,8,42,13,4,64,10,13,92,125,42
 Sub-Saharan Africa . Paris	11140
 Sub-Saharan Africa . Washington	11140
 Sub-Saharan Africa Adults	10977
@@ -1927,6 +1935,7 @@ Sub-Saharan Africa. Income Group	11881,1
 Sub-Saharan Africa. Inequality	1828
 Sub-Saharan Africa. Initiatives	9840
 Sub-Saharan Africa. Islamic Microfinance	14897
+Sub-Saharan Africa. Journal of African Development Studies	7763
 Sub-Saharan Africa. Journal of Development Effectiveness	12978
 Sub-Saharan Africa. Liquid Intelligent Technologies	684
 Sub-Saharan Africa. Liquid Telecom	453
@@ -1959,7 +1968,7 @@ Sub-Saharan Africa.5	13681
 Sub-Saharan Africa.80	10822
 Sub-Saharan Africa.pdf	5234
 Sub-Saharan Africa51	14997
-Sub-Saharan African	685,206,637,300,39,12,109,227,208,285,1114,37,291,295,588,559,6,111,884,241,589,2734,1,463,191,10,7,134,1,13,8,155,55,386,321,17,45,173,126,113,956,292,391,197,462,349,388,102,5,143,1222,56,10,3,153,353
+Sub-Saharan African	685,206,637,300,39,12,109,227,208,285,1114,37,291,295,588,559,6,111,884,241,589,2734,1,463,191,10,7,134,1,13,8,155,55,386,321,17,45,173,126,113,956,292,391,197,462,349,388,102,5,143,1222,56,10,3,153,353,210
 Sub-Saharan African Historically	12253
 Sub-Saharan African Historically Provide	1988
 Sub-Saharan African Historically Underserved Not Currently	1867
@@ -2202,13 +2211,13 @@ Subject Persons	3861
 Subject Persons This Policy	3861
 Subject. SAGE Publications	961
 Subjected	17236
-Subjecting	11147,1893
+Subjecting	11147,1893,4555
 Subjecting Controller	15484
 Subjectiva	11430
 Subjective Preferences	8460
 Subjectivity	8460
 Subjectivo de Aplicação	11430
-Subjects	3726,7852,615,104,651,1950,1954,89
+Subjects	3726,7852,615,104,651,1950,1954,89,794
 Subjects16	11215
 Sublime Côte	5931,715
 Sublime Seas	3292
@@ -2232,7 +2241,7 @@ Submarine Cable Licences	9109
 Submarine Cable Licensing	15120
 Submarine Cable Maintenance Authorities	3513
 Submarine Cable Manufacturers	5681
-Submarine Cable Map	2677,7414
+Submarine Cable Map	2677,7414,7603
 Submarine Cable Networks	2677,12836,40
 Submarine Cable Owners	3513
 Submarine Cable Project	13711
@@ -2303,7 +2312,7 @@ Submission of Rollout Plan	15081
 Submission of Rollout Plan Article	15081
 Submission of Written Comments Within	17212
 Submission-by-ACB-to-SAHRC data-centres July2026.pdf	10722
-Submissions	3005,302,1238,187,381,672,68,50,402,487,757,655,781,2246,388,428,491,923,121,1177,2453
+Submissions	3005,302,1238,187,381,672,68,50,402,487,757,655,781,2246,388,428,491,923,121,1177,2453,354
 Submissions Received	4732
 Submissão	414,10991,613,3
 Submissão Electrónica	11433
@@ -2330,6 +2339,7 @@ Submit Second Stage Combined Technical and Financial	15080
 Submit Tax Returns	12497
 Submit VAT	13249
 Submit Your Comments	5853
+Submit Your Vehicle Registration Number	17687
 Submit the Annual EconomicSurveys	16833
 Submit the DPIA	13381
 Submit the Dataset for Review	15714
@@ -2354,6 +2364,7 @@ Subnational Administrative Boundaries	15129
 Subnational Crop Production Dataset Access	13094
 Subnational Level	14141,1091
 Subnational Locations	14058
+Subnational Nigeria	17574
 Subnet Member Details	12283,3290
 Subnets	12283,3290
 Subordinate	6387,8460
@@ -2392,6 +2403,7 @@ Subregion	11894
 Subregion OSI HCI TII EGDI	10840
 Subregional	14098,2800
 Subregional Office for Central Africa	11736
+Subregional Office for West Africa	17594
 Subregional STAT	16898
 Subregionales	16898
 Subregión CEMAC	16898
@@ -2435,7 +2447,7 @@ Subscriber Voice	3862
 Subscriber Voice Data	3862
 SubscriberCount	10848
 SubscriberCountOrderOfMagnitude	10848
-Subscribers	774,446,306,864,338,221,579,334,561,789,179,1952,668,397,463,1213,331,441,786,60,149,6,119,419,295,1984,33,225,204,13,451,1635
+Subscribers	774,446,306,864,338,221,579,334,561,789,179,1952,668,397,463,1213,331,441,786,60,149,6,119,419,295,1461,523,33,225,204,13,451,1635,493
 Subscribers Actually Sit	6749
 Subscribers Added	14707
 Subscribers Landline	1013
@@ -2452,7 +2464,7 @@ Subscriber’s Designation User ID	12364
 Subscriber’s Designation User ID Reason for Revocation	12364
 Subscriber’s E-mail	12364
 Subscriber’s First	12364
-Subscription	236,182,164,427,935,832,861,77,2718,239,277,479,2352,701,241,1119,17,1196,408,490,1520,572
+Subscription	236,182,164,427,935,832,861,77,2718,239,277,479,2352,701,241,1119,17,1196,408,490,1520,572,1570,2
 Subscription API	6423
 Subscription Agreement	14546
 Subscription Broadcasting	6946
@@ -2588,6 +2600,7 @@ Subsidization	6748
 Subsidize	1885,10790,2048,274,2160
 Subsidized	12445,519,3920,273
 Subsidized Health Care Services	12373
+Subsidized Market Capture	17695
 Subsidizing	718,16257
 Subsidy	7648,4209,516,26,2478,70,1955,76
 Subsidy Assistance Programme	16902
@@ -2790,6 +2803,8 @@ Substations T&D	12358
 Substituer	8891
 Substituição	10758,626,41,42,434,3490,1,746
 Substituições	12018
+Substitut	17584
+Substitut du Procureur	17584
 Substitute	1988,9192
 Substitute Member	15393
 Substitute Member. Law	15393
@@ -2861,6 +2876,7 @@ Subventions Intérêts Investissement Personnel Recettes	7655
 Subventions and Personnel Emoluments	17105
 Subvenção	11557
 Subvenção da Formação	11361
+Subvenção-RSSH	17604
 Subvenções	11557
 Subyacente	16898
 Sudan's Business Environment Economy Sub-Sah. Sudan	14897
@@ -2888,7 +2904,9 @@ TV Subscriptions Technology FY	6946
 TWG for Sub-Component	16963
 TYPE OF SUBSIDIES Only	17043
 Taba Subsea Cable	16808
+Taba le Red Sea Subsea Festoon Cable	17694
 Table A.1. Subject	15658
+TanFiX Access Sub-index Usage Sub-index Upper	7763
 Tanzania Malawi Sub-	12214
 Tanzania Telecom Subscriptions Reach	5715
 Tanzania. Subject	934
@@ -2905,7 +2923,7 @@ TeleGeography Submarine Cable Map	4676
 TeleGeography’s Submarine Cable Map	5252
 Telecom Egypt and Alcatel Submarine Networks	3342
 Telecom Egypt and SubCom	3521
-Telecom Egypt’s Red Sea Subsea Festoon	16808
+Telecom Egypt’s Red Sea Subsea Festoon	16808,885
 Telecommunications Service Subscribers	12297
 Telecommunications Sub-Sector	236
 Telecommunications Sub-sector	6946
@@ -2963,7 +2981,7 @@ Unique Mobile BB Subscriptions	13314
 Unique Mobile Cell. Subscription	13314
 Unit Sub-Part B	14743
 Upstream Subsector Upstream Petroleum Operations	12256
-Usage Sub-Index	8135
+Usage Sub-Index	7763,372
 User and Subscriber Charter Regulations	11211
 User and Subscriber Service Charter	4732
 User and Subscriber Service Charter Amendment Regulations	11259

@@ -51,6 +51,7 @@ Kassala and White Nile	15024
 Kg Nil Nil Imported	6921
 Khartoum Northern River Nile Red Sea	14897
 Kosti White Nile	6947
+MBF NIL NIL NIL	7763
 Mestre Nilza Collinson. Na	2816
 Mgqibelo Gasela Nil Nil Nil	4896
 Moderate River Nile	15244
@@ -67,7 +68,7 @@ NIL ATM	16552
 NIL E-mail	17006
 NIL FGSL AD	17006
 NIL Longueur	16552
-NIL NIL	16552,454
+NIL NIL	7763,8789,454
 NIL NIL NIL	16552
 NIL NIL NIL NIL	16552
 NIL NIL NIL NIL NIL NIL	16552
@@ -79,6 +80,7 @@ NIL TWY M2	16552
 NIL TWY T	16552
 NIL Un	16552
 NIL Vert	16552
+NIL ZEEA INUKA PROGRAM	7763
 NIL Zone	16552
 NILALEG	9353
 NILALEG Project	9353
@@ -108,6 +110,7 @@ Nile Equatorial Lakes Subsidiary Action Programme	12358
 Nile Hotel	6121
 Nile Petroleum Corporation	3583
 Nile Post	3026,912
+Nile Post. AllAfrica	17683
 Nile Research Center	14897
 Nile River	3583,1212,10102,707,121
 Nile State	14955

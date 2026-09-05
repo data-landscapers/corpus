@@ -453,7 +453,7 @@ Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,
 Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007,6683
 Autorité de RégulatiDn des Communications Electroniques	37
 Autorité de Régulation des CCDB Marchés Publics	11905
-Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357,5620,103,21,59,414,29,28,155,218,42
+Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357,5620,103,21,59,414,29,28,155,218,42,1129
 Autorité de Régulation des Communications Electroniques	37,961,5243,4581,245,513,3835,59,38,142,673
 Autorité de Régulation des Communications Eléctroniques	969
 Autorité de Régulation des Jeux de Hasard	16323
@@ -531,6 +531,7 @@ Banque Centrale des Comoros	17235
 Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489
 Banque Mondiale Table des Matières Version	1187
 Banque Mondiale. Banque des Etats	11944
+Banque de Développement des Comores	17640
 Banque de Développement des Etats	11944,1385
 Banque de Technologies des Nations Unies	16627
 Banque des Dépôts du Trésor	3396
@@ -764,6 +765,7 @@ COLLECTE ET D’ANALYSE DES DONNEES	16662
 COLLECTIF DES ANCIEN Année	15439
 COLLECTIF DES ETUDIANTS FINALISTES PARAMILITAIRES SANS	15692
 COMESA. Des	13452
+COMITE DE COORDINATION DES ETUDES STATISTIQUES	17535
 COMITE DES ELEVES DE L’ECOLE NATIONALE	15942
 COMITÉS D’AUDIT ET DE GESTION DES	2342
 COMMANDEMENT DES ECOLES	15744
@@ -964,6 +966,7 @@ Centre des Urgences de Yaoundé	15599
 Centre des Urgences de Yaoundé Bloomberg Philanthropies Data	15599
 Centres Divisionnaires des Impôts	6163
 Centres de Collectes des Données	10812
+Centres de Promotion Sociale des Aveugles	17584
 Centres des Impôts de Fiscalité Locale	15999
 Centres des Impôts des Moyennes Entreprises	16020
 Cercle des Entrepreneurs du Bâtiment	15542
@@ -1043,6 +1046,7 @@ Classification Internationale des Marchés CITE	10874
 Classification des PME	13390
 Club des DSI	15512
 Club des Décideurs des Systèmes	5260
+Club des Jeunes Aveugles Réhabilités du Cameroun	17586
 Cluster des Télécommunications	7374
 Code Général des Collectivités Territoriales Décentralisées	10981,4488,726
 Code Général des Impôts	4420,147,1889,4256,266,2794,1577,184,264,202,21,308
@@ -1072,6 +1076,7 @@ Code des Postes. Art	15598
 Code des Postes. L'ASSEMBLEE NATIONALE ET	15598
 Code des Sociétés Privées	13334,253,1
 Code. LIVRE DEUXIEME LIVRE DES PROCEDURES	15999
+Codjo Raymond GODEMIN Cour Spéciale des Affaires	17584
 Cognisance des Banques BANCOBU BCB IBB ECOBANK	13390
 Cohésion Sociale des Régions du Nord du Golfe de Guinée	10876
 Collectif des Associations	13442
@@ -1094,6 +1099,8 @@ Comité Technique de Programmation des Activités Statistiques	16373
 Comité Technique de Suivi des Programmes Economiques	15601
 Comité Technique des Titres Miniers	16719
 Comité de Concertation des Partenaires Techniques	11944
+Comité de Coordination des Etudes Statistique. Toutefois	17535
+Comité de Coordination des Etudes Statistiques	17535
 Comité de Gestion des Etablissements Scolaires CE1	10847
 Comité de Gestion des Plaintes	14425
 Comité de Maîtrise des Risques	15569
@@ -1146,7 +1153,7 @@ Commission des TIC	10089
 Commission. CHAPITRE V DES OBLIGATIONS INCOMBANT	13709
 Commission. SECTION II DES SANCTIONS CIVILES	13709
 Communauté Economique Des Etats	15475
-Communauté Economique des Etats	37,15379,84,42,94,163,49,151,328,288,12
+Communauté Economique des Etats	37,15379,84,42,94,163,49,151,328,288,12,998
 Communauté Est Africaine Organisation des Nations Unies	13442
 Communauté Monétaire des Etats	15354
 Communauté des Etats	8515,4937
@@ -2453,6 +2460,7 @@ Directeur de Cellule de Suivi des Réformes	10712
 Directeur des Affaires Financières	16381
 Directeur des Affaires Juridiques	16381
 Directeur des Affoires	15438
+Directeur des Analyses	17584
 Directeur des Domaines	8269
 Directeur des Enquêtes	8269
 Directeur des Etudes	8269,7416
@@ -2465,6 +2473,7 @@ Directeur des Opérations	16099,76
 Directeur des Opérations de Kkiapay. En	2312
 Directeur des Opérations. Cette	2312
 Directeur des Organismes	16175
+Directeur des Postes	17625
 Directeur des Programmes	16175
 Directeur des Projets	15536
 Directeur des Relations	8269
@@ -2477,7 +2486,7 @@ Directeur des Services Informatiques. Il	15264
 Directeur des Soins de Santé Primaires	15685
 Directeur des Stages Professionnels	16175
 Directeur des Statistiques Démographiques	9277
-Directeur des Systèmes	748,3421,104,3904,2060,308,4719,573,99,6,697
+Directeur des Systèmes	748,3421,104,3904,2060,308,4719,573,99,6,697,986
 Directeur des Technologies	10925,4760
 Directeur du Bureau de Développement des Télécommunications	13482
 Directeur du Contrôle des Marchés	15412
@@ -2550,7 +2559,7 @@ Direction Nationale des Laboratoires	13617
 Direction Nationale des Mines	16719
 Direction Nationale des Technologies	16731
 Direction Régionale des Impôts	14580
-Direction des Affaires	9448,5089,1102
+Direction des Affaires	9448,5089,1102,1945,105
 Direction des Affaires Administratives	10975,3456,41,65,12,1220
 Direction des Affaires Administratives DGEC	10847
 Direction des Affaires Civile	7993
@@ -2752,6 +2761,7 @@ Développement des Artisans	13390
 Développement des Communes FAP	15475
 Développement des Communications Electroniques	15542
 Développement des Compétences	10944
+Développement des Exportations	17584
 Développement des Infrastructures	16485
 Développement des Infrastructures des Télécommunications	15399
 Développement des Minier de Côte	15936
@@ -3051,6 +3061,7 @@ Euromed des Conseils	8891
 Evaluation des Acquis Scolaires	15673
 Evaluation des Politiques	15678
 Evaluation des Politiques Publiques	4599,1146,9638,16
+Evaluation des Projets	17584
 Evidence Autorité de Régulation des Télécommunications	10911
 Evolution des DEEE	13324
 Evolution des Emplois	998
@@ -3630,7 +3641,7 @@ Identification des Incidents	15472
 Identification des ONG	16328
 Identification des OPP	998
 Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43,3375,74,395,720,185,119,46,363,29,926
-Identification des Personnes Physiques	14243,2408
+Identification des Personnes Physiques	14243,2408,1020
 Identification des Personnes Pour	15431
 Identification des Personnes. Article	15431
 Identification des Personnes. Il	15431
@@ -3718,7 +3729,7 @@ Instance Nationale des T	1818
 Instance Nationale des Telecommunications	1818
 Instance Nationale des Télécommunications	8138
 Instance de Protection des Donnees	4237
-Instance de Protection des Données	436,3430,4415,391,370,1198
+Instance de Protection des Données	436,3430,4415,391,370,1198,7374
 Institut Centrafricain des Statistiques	7675,7676,64,818,74,66,4,23,17,19
 Institut Centrafricaine des Etudes Economiques	10826
 Institut Malgache des Techniques de Planification	7725
@@ -3761,7 +3772,7 @@ International TABLE DES MATIERES	13375
 Internet Des Objets	13341
 Internet FDSP Fonds de Digitalisation des Services Publics	13341
 Internet des Objets	7283,8189,238,1738
-Internet. Des	4744
+Internet. Des	4744,12819
 Interopérabilité des SI v.0.2.2	16692
 Interopérabilité des Systèmes de Paiement Instantané	7283
 Interruption des Systèmes de Paiement	15901
@@ -4112,6 +4123,7 @@ La SOCIETE DES MINES DE FLO-	2342
 La SOCIETE DES MINES DE LA-	2342
 La SOCIETE DES MINES D’ITY	2342
 La SOCIÉTÉ DES MINES	2342
+La Société de Garantie des Comores	17640
 La Société de Gestion des Stocks	2342
 La Société des Postes	15493
 La Solution de Gestion des Dotations Voyages	17485
@@ -4299,6 +4311,7 @@ L’INSTAURATION CONTINUE DES MEILLEURES PRATIQUES	2342
 L’INSTAURATION L’ATTEINTE DES OBJECTIFS CLÉS	2342
 L’INTEGRITE ET LA DIGNITE DES INDIVIDUS	16617
 L’Inspection Générale des Services	16099
+L’Instance de Protection des Données	17614
 L’Instruction Générale des Opérations de Change	17485
 L’OFFICE NATIONAL DE CONTROLE DES AMENAGEMENTS	16287
 L’Observatoire des Marches des Services	13313
@@ -4489,6 +4502,7 @@ MINISTÈRE DES INFRASTRUCTURES ET DE L'EQUIPEMENT	4402,9506
 MINISTÈRE DES MINES ET DES RESSOURCES	16381
 MINISTÈRE DES RELATIONS EXTERIEURES	15999
 MINISTÈRE DES RHE	15670
+MINISTÈRE DES TRANSPORTS	17589
 MINPMEESA Ministère des Petites	10964
 MINPOSTEL Ministère des Postes	10965
 MINPOSTEL des PSF	10965
@@ -4572,6 +4586,7 @@ Madame le Ministre des Affaires Sociales	16012
 Madame le Ministre des Postes	10996
 Maintenance des Equipements Biomédicaux	15674
 Maintenance des Equipements Electroniques	15964
+Maison des Jeunes	17671
 Maison des Nations Unies	16292
 Maison des Services Publics	3604
 Maison des Services Publics MSP	3604
@@ -4724,7 +4739,7 @@ Mme OLIVEIRA FOUNZI Emmanuelle DIRECTION DES	16099
 Mobilisation des	3396
 Mobilisation des Partenariats Catégories	15851
 Mobilisation des Parties Prenantes	15908
-Mobilisation des Ressources	16485
+Mobilisation des Ressources	16485,1099
 Mobilisation des Ressources Internes	8557
 Mobilisation des Ressources Internes Mbps Mégabits	16626
 Modalité des Réunions	15848
@@ -5279,6 +5294,7 @@ Phase PGES CENTRE DE PERSONALISATION DES	14490
 Phase des Source Impact	14489,1
 Pierre MABIALA MINISTERE DES PETITES ET	15692
 Pierre OBA MINISTERE DES AFFAIRES FONCIERES	15744
+Pilotage des Projets	17584
 Pires Formes de Travail des Enfants	13442
 Place des Nations CH-1211 Geneva	10764,80,719
 Place des Nations CH-1211 Geneva E-mail	26,1,1
@@ -5363,6 +5379,7 @@ Pour le Ministère des Finances	5063
 Pourcentage des DMEG	3396
 Pourcentage des Harcèlement	14488
 Power State Owned Enterprise Société des Postes	15553
+Premier Ministre. TITRE II DES ENQUETES	17535
 Première Conférence des Commissaires	14412
 Principaux Pays de Provenance des Importations	13500
 Priorisation des FF	15673
@@ -5385,7 +5402,7 @@ Programme de Développement des Ressources Humaines PPEA	15475
 Programme de Développement des Services de Santé PEC	15423,262
 Programme de Vérification des Imp	15999
 Programme de Vérification des Importations	15999
-Programme des Nations	3850,757,1475,3212,1237,3166,97,1043,978,129,431,29,284,2
+Programme des Nations	3850,757,1475,3212,1237,3166,97,1043,978,129,431,29,284,2,870
 Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91,979,1433,99,107,34,825,92,8,75,5,31,821,1,247,2,59,65,486,144,163,3,26,13,788
 Programme des Nations-Unies	1684,9028,4958
 Programme des Reformes Economique	15659
@@ -5638,7 +5655,7 @@ Relance des Chaines de Valeurs	16175
 Remontée des Comité	11944
 Remplacement des Terminé	10975
 Renforcement des COGES Renforcement	15673
-Renforcement des Capacités	15631
+Renforcement des Capacités	15631,1953
 Renforcement des Capacités Louise BOUKANDOU MOUSSAVOU	15678,3,20
 Renforcement des Capacités Pr. Marcelle IBINGA	15778
 Renforcement des Capacités du Personnel	10975
@@ -5684,7 +5701,9 @@ Riviere des Anguilles	14746
 Rivière des Anguilles	14829
 Rivière des Anguilles Dam	14830
 Rodrigues. Des	6399
-Royaume des Pays-Bas	5531,187
+Royaume des Pays-Bas	5531,187,11971
+Royaume des Pays-Bas. Au-delà	17689
+Royaume des Pays-Bas. Une	17689
 Royaume du Maroc Administration des Douanes	17485
 Ruanda. Das Oberziel des Vorhabens	457
 Rue des Résidences	11080
@@ -5993,6 +6012,8 @@ Section des Comptes	13781
 Securite des Systemes	6969
 Selon le Ministre des Serviteurs du Peuple	5304
 Selon le Programme des Nations Unies	8891
+Service Central des Statistique	17535
+Service Central des Statistiques	17535
 Service Exécution des Projets	15678
 Service Mission Service des Etudes	14537
 Service Suivi-Évaluation des Politiques	15678
@@ -6066,6 +6087,7 @@ Société Nationale des Eaux du Bénin TCV	15475
 Société Nationale des Hydrocarbures	10997,4545
 Société Nationale des Pétroles du Congo	1828,1363,12986
 Société Nigérienne des Télécommunications	35,9531
+Société de Développement des Semences	17584
 Société de Développement des Vente	15936
 Société de Gestion des Déchets	16112
 Société de Gestion des Stations de Lavage SRD	13377
@@ -6158,6 +6180,7 @@ Suivi des Actions Gouvernementales	2951
 Suivi des Elèves	13860
 Suivi des Engagements Contractuels Dans	10975
 Suivi des FinTech	10237
+Suivi des Programmes	17584
 Suivi des Projets	14539
 Suivi des Projets Noah AGBAFFA-PADONOU	15616
 Suivi des Réformes	14462
@@ -6183,6 +6206,7 @@ Suspension des Réseaux	7455
 Syndicat National des Transporteurs	15542
 Syndicat des Travailleurs	11630
 Synergie des Missions	16210
+Synthèse des Performances	17584
 Systeme Informatise de Gestion des Affaires	17441
 Systeme de Gestion des Materiels	14442
 Systme Informatisk de Gestion des Affaires du MdJL	17441
@@ -6215,6 +6239,7 @@ Système de Gestion des Centres Hospitaliers	15936
 Système de Gestion des Congés	15936
 Système de Gestion des Flux	10921
 Système de Gestion des Impôts	3715
+Système de Gestion des Redevances Multimodales	17589
 Système de Gestion des Ressources Humaines du MESRS	15936
 Système de Gestion des Titres	10922
 Système de Remontée des Incidents Environnementaux	15936
@@ -6334,6 +6359,7 @@ TITRE III DES DOCUMENTS ELECTRONIQUES Chapitre	16148,1
 TITRE III DU REGISTRE DES BENEFICIAIRES	14418
 TITRE III PROTECTION DES MALADES ATTEINTS	15434
 TITRE III. DES OBLIGATIONS DU TITULAIRE	16203
+TITRE IV DES DISPOSITIONS DIVERSES ARTICLES	17535
 TITRE IV DES EQUIPEMENTS Aucun	15429
 TITRE IV DES MECANISMES DE REGULATION	15602
 TITRE IV. CONDITIONS D'EXERCICE DES SERVICES	14429
@@ -6408,6 +6434,7 @@ Tourisme ONATEL Office National des Télécommunications ONG	13341
 Traducteur-Interprète. AU CHAPITRE DES COMMUNICATIONS Sur	7843
 Traite des Personnes	13330,3155
 Traitement des DNA	3396
+Traitement des Informations	17584
 Transformation Digitale des Postes	14534
 Transformation des Entreprises	15936
 Transformation des Productions Agricoles	10964
@@ -6539,6 +6566,8 @@ Union des Personnes	13442
 Union des Personnes Handicapées	13442
 Union des Personnes Handicapées du Burundi	13442
 Union des Républiques Socialistes Soviétiques USA	13377
+Union des Sanduk	17640
+Union des Sanduk de Mohéli	17640
 Union des Villes	15712
 Union. La Banque Centrale des Etats	10888,4882,67
 Unions des Associations des Collectivités Territoriales	15936
@@ -6644,6 +6673,7 @@ Validation des Acquis	15568
 Vallee des Pretres	14830
 Vallée des Pretres Ministry of Local Government	14746
 Valorisation des Initiatives Entrepreneuriales	7106
+Valorisation des Innovations	17584
 Valorisation des Plantes Médicinales de Dubréka	16627
 Valorisation des Ressources Hydrauliques	16037
 Ventes des Tickets de LONA	13500

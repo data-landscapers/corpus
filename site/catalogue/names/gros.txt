@@ -64,6 +64,7 @@ F FIN DE GROSSESSE	13300
 FCFA Gross Domestic Product Gross Enrollment	11905
 FL Gross	17140
 FM Gender-Based Violence GBV Gross Domestic	11417
+FSPs Financial Service Providers GDP Gross	7763
 FT Full-time GDP Gross Domestic Product	14747
 Farmer Input Support Program GDP Gross	13345
 Faso GNI Gross National Income GRID	15621
@@ -143,7 +144,7 @@ Gros Petits Volaille	737
 Grosh	15601
 Grosjean J	14666
 Grosman	7966
-Gross	236,1881,595,63,2472,2301,297,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7
+Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404
 Gross Amount Accumulated	11955
 Gross Amount Impairment	11955
 Gross Annual N	10407
@@ -267,6 +268,7 @@ Grossman	13061
 Grossman-Kahn R	1219
 Grossman-Kahn&author	1219
 Grosso	10757,15,5331
+Grosss NPLs	7763
 Grosvenor Street	11224
 Growing Gross Profit	9735
 ICT Gross Domestic Product IDA Government	15424
@@ -337,6 +339,7 @@ RELATION TO MONTHLY GROSS NATIONAL INCOME	11262
 RTGS Real-Time Gross Settlement SDM Single	1264
 Ratios RCFIS Real Gross Domestic Product	17235
 Real Gross Domestic Product	14744
+Real Gross Domestic Products	17634
 Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359
 Real Time Gross Settlement Agency	14897
 Real Time Gross Settlement System	4517,2461,6490,1686,1690,34,260

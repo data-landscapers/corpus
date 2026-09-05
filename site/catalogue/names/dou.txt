@@ -5,7 +5,7 @@ ARTICLE DOUZIÈME	15999
 Adjudant-Chef NGAYILA DOUSSIN Georges Loic	16381
 Administration des Douanes	11139,2606,1733,521,2,1444,40
 Administration des Douänes	15999
-Alexandre Doumba	7399,8942
+Alexandre Doumba	7399,8942,1312
 Alto Douro	16229
 Aménagement de Douala	15542
 André Ullrich and Douglas A. Parry	4127
@@ -63,6 +63,7 @@ DOUANIER ET DE CHANGE Article	15584
 DOUANIERE	15999
 DOUANIERS DE LA PROMOTION	15901
 DOUANIÈRE ACCRA	10476
+DOUBOGAN	17584
 DOUGLAS KARIUKI MWANGI Data Controller INST-47437066C92	7167
 DOUHDG	15604
 DOUKORO	15780
@@ -87,7 +88,7 @@ Dou Al Kaada	8891
 DouIA1	5713
 DouIA2	5713
 Douadi Medjerab	15467
-Douala	103,200,36,1026,48,157,236,889,387,75,74,52,15,31,6,77,367,10,196,123,111,106,1165,209,125,274,21,281,255,283,651,739,1,27,1,298,358,164,438,1,1213,12,120,2,1,1,10,5,5,11,424,253,55,8,781,2963,62,32,25,2,75,88,67,109,59,7,30,14,25,93,27,18,1,84,201
+Douala	103,200,36,1026,48,157,236,889,387,75,74,52,15,31,6,77,367,10,196,123,111,106,1165,209,125,274,21,281,255,283,651,739,1,27,1,298,358,164,438,1,1213,12,120,2,1,1,10,5,5,11,424,253,55,8,781,2963,62,32,25,2,75,88,67,109,59,7,30,14,25,93,27,18,1,84,201,1089,37,73
 Douala Autre	15599
 Douala CAMTEL Bépanda	16214
 Douala Corridor	14913
@@ -104,7 +105,8 @@ Douala and Abidjan	2388
 Douala and Bafoussam	3335,2364
 Douala and Kribi	16298
 Douala and Maroua	10964
-Douala and Yaoundé	16050
+Douala and Odza	17558
+Douala and Yaoundé	16050,1508
 Douala-	15542
 Douala-Bangui	15542
 Douala-Bonaberi Port	4108
@@ -328,7 +330,7 @@ Jeannette DOUFOUNDOU	16175
 K Hotel de Douala	3779
 L'Organisation Mondiale des Douanes	15478
 L'administration des Douanes	4269
-L'atelier de Douala	9615
+L'atelier de Douala	9615,8083
 LEO Business Nearly Doubled	12870
 La Direction Générale des Douanes	16389
 La Douane	4269,11667
@@ -389,6 +391,7 @@ Mohamed Doufana	15690
 Mokhtar Doudou	15568
 Monsieur Abdoulaye Mohamed Doukouré	11725
 Monsieur Mamadi DOUMBOUYA	9637,1
+Monsieur Pacôme DOUKLOUI	17584
 Monsieur SAINCLAIR HENRI DOUNGO M MEYOULOU	16328
 Moussa DOUMBOUYA INS Assistant DG	16620
 Mr. Mark-Alexandre Doumba	4536

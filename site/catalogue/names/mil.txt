@@ -360,7 +360,7 @@ LE MILIEU DE RESIDENCE III.2.3 Public	10847
 LGA Local Government Authority MDGs Millennium	16852
 LRD Millions	17235
 La Milice	3406
-Last Mile	4238,6902,717,5069,16
+Last Mile	4238,6902,717,5069,16,692
 Last Mile Access Monitoring	12399
 Last Mile Connectivity	340,14334,223
 Last Mile Connectivity Project	10313,1901,248,2212
@@ -706,7 +706,7 @@ Milliers USD	16641
 Milliers XOF	2966
 Millimetre	11863
 Milliom	15023
-Million	813,127,30,808,210,59,89,432,116,91,1,2196,129,124,20,470,85,110,41,450,180,365,149,443,10,949,601,405,278,1175,354,547,6,275,37,100,124,10,142,12,15,19,9,356,223,233,477,214,81,356,178,5,9,4,3,90,131,17,23,198,182,25,89,18,60,80,1,246,19,277,84,127,219,252,1,1,16,95,15,105,141
+Million	813,127,30,808,210,59,89,432,116,91,1,2196,129,124,20,470,85,110,41,450,180,365,149,443,10,215,734,601,405,278,1175,354,547,6,275,37,100,124,10,142,12,15,19,9,356,223,233,477,214,81,356,178,5,9,4,3,90,131,17,23,198,182,25,89,18,60,80,1,246,19,277,84,127,219,252,1,1,16,95,15,105,141
 Million Active Subscribers	9781
 Million AfDB Support for E-Governance Upgrade	4181
 Million Allocated	15929
@@ -728,7 +728,7 @@ Million Coders Programme. Certified	15317
 Million Construction of New Renal Transplant Unit	14830
 Million Contract	6044
 Million Corruption Scheme By Fanuel Chinowaita	8639
-Million Customers	5752,6242
+Million Customers	5752,6242,5729
 Million Customers Author	7688
 Million Dalasi	16926
 Million Debt Financing for Tech Startups	8350
@@ -781,6 +781,7 @@ Million Monthly Active M-PESA Customers	12227
 Million Mozambique	6743
 Million Naira	4809
 Million Nigerians	7141,4716
+Million ODN	14151
 Million Oil Palm Development Finance Facility	7695
 Million PPP	4543,12583
 Million Pan-African Data Centre Build-Out Programme	595
@@ -799,9 +800,10 @@ Million Rwandan	15081
 Million Rwandans	12371
 Million SDG At Orange Corners Demo	15048
 Million Startup Hub Project	3054
+Million Subscribers After Four Years of Operations	17727
 Million TVET Investment	5583
 Million Tax Digitalization Contract	11001
-Million Technical Talent	5327,191,547,1523,422,617,355,135,757,141,118,24,3124
+Million Technical Talent	5327,191,547,1523,422,617,355,135,757,141,118,24,3124,4290,154
 Million Technical Talent Programme	10157
 Million Technical Talents	7172
 Million Telephone	14836
@@ -841,7 +843,7 @@ Million. Exports	12551
 Million. Unemployment Rate	12551
 Millionen Erwerbstätigen	11316
 Millionen Euro	11316
-Millions	419,550,259,36,20,420,124,39,424,16,35,379,55,113,152,415,106,21,14,7,913,276,682,1196,267,8,32,278,58,23,1100,57,581,147,394,66,277,802,7,61,83,51,1,11,156,5,136,38,107,108,35,12,283,47,3,60,33,302,88,24,14,243,163,119,160,220,1,58,43,90,155,109,6,75,147,78,460,23,131,203,27,39,21,141,52,39,262,22,2,35,3,68,37,1,2,82,39,201,161,149,105,256,21,227,20,27,204,82,127
+Millions	419,550,259,36,20,420,124,39,424,16,35,379,55,113,152,415,106,21,14,7,913,276,682,1196,267,8,32,278,58,23,426,674,57,581,147,394,66,277,802,7,61,83,51,1,11,156,5,136,38,107,108,35,12,283,47,3,60,33,302,88,24,14,243,163,119,160,220,1,58,43,90,155,109,6,75,147,78,460,23,131,203,27,39,21,141,52,39,262,22,2,35,3,68,37,1,2,82,39,201,161,149,105,256,21,227,20,27,204,82,127
 Millions Banks and SDIs	17362
 Millions Birr	5655
 Millions British Thermal Units-MMBTU-	7263
@@ -1160,6 +1162,7 @@ United States Dollars Thirteen Million Six	17011
 United States Dollars Thirty-six Million Five	17011
 United States Dollars Two Million	4896
 University of Stellenbosch Military Academy	8134
+Unlocking Last Mile Services	17634
 Unlocking Legal Identity for Millions	6972
 Upgrading of Piton Du Milieu Water Treatment	14830
 VEINTE MILLONES	16965

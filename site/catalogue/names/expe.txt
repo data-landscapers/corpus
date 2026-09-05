@@ -187,6 +187,7 @@ Common Expenditure	17209
 Common and Specialized Expenses Expenditures	17043
 Communications Expert	15221
 Communications Expert GBoS Existence	16927
+Communications and Advocacy Expert EAC Secretariat Arusha	17646
 Community Hospitals Life Expectancy	14773
 Company Resource Experience	11240
 Compensation of Ad Hoc Committee Fees and Expenses	14135
@@ -552,7 +553,8 @@ Expenses and Resource Demands	12376
 Expenses of Directors	585,8281
 Expensive	4150,6163,4710,457
 Expensive ICT	16884
-Experience	10,1209,24,21,1020,13,97,3,65,10,86,28,4,209,10,16,25,39,95,79,190,7,70,41,80,30,76,30,47,9,16,19,19,19,16,322,19,14,347,177,10,7,509,12,171,64,5,22,3,94,10,19,294,178,44,54,54,23,322,60,26,6,125,80,6,23,68,102,189,9,1,65,4,2,1,107,3,992,171,300,132,220,5,400,1226,168,134,121,165,70,38,28,32,272,9,61,14,13,54,143,249,43,250,8,53,185,92,6,43,232,2,261,1,48,80,287,194,301,542,62,74,56,27,164,107,72,460,216,636,40,126,46,141,83,103
+Experian and TransUnion. Yet	17739
+Experience	10,1209,24,21,1020,13,97,3,65,10,86,28,4,209,10,16,25,39,95,79,190,7,70,41,80,30,76,30,47,9,16,19,19,19,16,322,19,14,347,177,10,7,509,12,171,64,5,22,3,94,10,19,294,178,44,54,54,23,322,60,26,6,125,80,6,23,68,102,189,9,1,65,4,2,1,107,3,992,171,300,132,220,5,400,1226,168,134,121,165,70,38,28,32,272,9,61,14,13,54,143,249,43,250,8,53,185,92,6,43,232,2,261,1,48,80,287,194,301,542,62,74,56,27,164,107,72,460,216,636,40,126,46,141,83,103,98
 Experience And Competencies Experience	14486
 Experience Applicants	10060
 Experience Builder	5848
@@ -584,7 +586,7 @@ Experience of Tajikistan and Eswatini1 Tajikistan	12948
 Experienced	8978,5578,1157,1401
 Experienced Fresh Grad Manager	16266
 Experienced Fund Managers First-Time Fund Managers	4972
-Experiences	1000,219,3220,3447,2840,1201,304,612,197,951,1073,896,369,486
+Experiences	1000,219,3220,3447,2840,1201,304,612,197,951,1073,896,369,486,724
 Experiences of Young Women	10763
 Experiences&author	2096
 Experiencia	1701,10197
@@ -600,7 +602,7 @@ Experimental African News Innovation	13462
 Experimental Evidence	3604,7252,5410
 Experimental Use Spectrum	16839
 Experimentalist	7451
-Experimentation	15164
+Experimentation	15164,2569
 Experimenting	5869,5672
 Experiments	899,12562
 Experiência	10760,17,664,7,3,5,63,379,123,121,3968,211
@@ -668,7 +670,7 @@ Expertise	1988,354,1354,1128,3804,2246,482,652,157,279,2990,90,200,17,887,465,21
 Expertise Contact Details	6432
 Expertise Direction du Portefeuille du Secteur	2342
 Expertise FR	13325
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453,227,117,121,85,69,111,228,45,443,29,249,115,49,132,31
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453,227,117,121,85,69,111,228,45,443,29,249,115,49,132,31,345
 Expertise France Comores	3772
 Expertise France OS	16722
 Expertise France and CMM Oxford	1000
@@ -685,7 +687,7 @@ Expertise of Courts	12389
 Expertise of Specialized Courts	12389
 Expertises	15429
 Expertos UNCTAD	15478
-Experts	1968,583,41,111,105,59,91,28,77,303,212,54,494,109,293,84,78,24,62,19,37,33,50,35,43,9,114,29,122,49,55,14,126,86,186,17,141,81,8,120,73,93,116,145,74,9,156,111,21,78,8,71,50,24,8,5,122,7,39,548,239,204,144,15,117,84,180,26,245,77,364,1,11,327,53,43,61,13,125,209,92,166,60,48,7,15,295,39,786,83,6,184,285,970,50,472,98,295,12,15,10,14,299,292,81,83,154,172,55,101,163,31,57,76,248,38,75,4,244,162,70,63,94,130,17,91,4
+Experts	1968,583,41,111,105,59,91,28,77,303,212,54,494,109,293,84,78,24,62,19,37,33,50,35,43,9,114,29,122,49,55,14,126,86,186,17,141,81,8,120,73,93,116,145,74,9,156,111,21,78,8,71,50,24,8,5,122,7,39,548,239,204,144,15,117,84,180,26,245,77,364,1,11,327,53,43,61,13,125,209,92,166,60,48,7,15,295,39,786,83,6,184,285,970,50,472,98,295,12,15,10,14,299,292,81,83,154,172,55,101,163,31,57,76,248,38,75,4,244,162,70,63,94,130,17,91,4,373
 Experts Biometric Update	4865
 Experts Call for Accelerating Digital Transformation	15203
 Experts Call for Responsible AI Integration	10355
@@ -1341,6 +1343,7 @@ Trade Policy Expert	10819
 Trade and Market Expert	10634
 Training Expenses	17236
 Transformação Digital Experiência	11448
+Transforming Customer Experience and Service Quality Product	14151
 Transforming Onboarding Experiences While Reducing Friction	3279
 Travel Expenses	12977
 Tsrhpteehcet IGInnlndooebvxaal2t0io2n4 Expected	10969,915,1,466

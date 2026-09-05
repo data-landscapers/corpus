@@ -67,6 +67,7 @@ Administrateur Provisoire	15745
 Administrative Provisions Appointment of Director-General	587
 Adulte TOTAL Mixte Province Commune Homme	13390
 Advocacy PCQA Provincial Coordination	11192
+Africa Provide	17539
 Africa-Asia Fund Provides	9060
 Agency ISP Internet Service Provider ITU	16942
 Agency. PART IV GENERAL PROVISIONS	13305
@@ -189,6 +190,7 @@ COOPERATIVE A01 Province A02 Commune A03	13390
 COUNCIL OF MINISTERS REGULATION TO PROVIDE	13986
 CRM-RA.S6 Assessment Providers	10721
 CROP TYPE AND MAIN PROVIDED	17043
+CS da Província	17604
 CSA Cybersecurity Service Provider	4791
 CSD NUMBER MUST BE PROVIDED	11240
 CSIRT Nacional. SUBSECÇÃO VIII Provedor de Serviços	6970
@@ -205,6 +207,7 @@ Carteira de Projectos Provincial	10783
 Category Application Fee ICT Infrastructure Provider	17250
 Central Province	13455
 Central Province Broadcasting Studio	13336
+Centros de Saúde da Província	17604
 Certificate PDA Provincial Department of Agriculture PDIs	11261
 Certification Service Provider	12865
 Certification Service Providers	14253
@@ -613,6 +616,7 @@ FOREIGN CERTIFICATION SERVICE PROVIDERS	13071
 FORMACIÓN GENERAL DE PROVINCIAL PROVINCIAL PROVINCIAL	4209
 FREE STATE PROVINCE PROVINCIAL WEEK	11231
 FSP Financial Service Provider G2B Government-to-Business	16942
+FSPs Financial Service Providers GDP Gross	7763
 FSPs MINAGRI X Provide	15130
 FSPs X Provide	15130
 Facility Provider NGO Non-Governmental Organization NKCC	6946
@@ -632,7 +636,7 @@ Financial Provisioning	14830
 Financial Provisions	3887,9013
 Financial Service Provider	11130,2402,1365
 Financial Service Provider Cooperative Organisation SIDA	12297
-Financial Service Providers	11130,1167,755,480,406,1085,1919
+Financial Service Providers	7763,3367,1167,755,480,406,1085,1919
 Financial Service Providers EthSwitch	14032
 Financial Service Providers FSPs	13938
 Financial Service Providers Gender-based	13938
@@ -950,6 +954,7 @@ Landing Rights Authorization for Satellite Service Provider	10407
 Large Scale Network Savvy Content Providers	14864
 Laws of Zambia Provides	13346
 Le Gouverneur de Province	13292
+Le Proved du Haut-Katanga	17638
 Learning Provisioning	11986
 Leave Provisions	14761
 Legal Provision for Protection of Property Title	12389
@@ -1111,7 +1116,7 @@ Moxico Province Nami	11418
 Mpumalanga Province	11281
 Mpumalanga Province NDoH	11252
 Mpumalanga Provincial Government	11281
-Muchinga Province	6104,6327,936
+Muchinga Province	6104,6327,936,4319
 Muchinga Province Deputy Permanent Secretary Brian	6104
 Muchinga Province and Twatotela GCE	13477
 NBR X Provide	15130
@@ -1177,6 +1182,8 @@ Nigerian Tribune Provided	7179
 Nigeria’s Basic Health Care Provision Fund	4794
 Nkungu Butare Capital Province	12413
 No. of Provincial Administration Offices	12453,892
+Non-Bank Payments System Providers	7763
+Non-Bank Payments System Providers Usage	7763
 Non-Bank Remittance Service Providers	13388
 Non-Current Provisions	14736
 Non-Deposit Taking Financial Service Providers	15130
@@ -1548,7 +1555,7 @@ Proverbes	12099
 Provi	13390
 Provi-	13461
 Provid	12233
-Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14,130,32,1,18,61,9,154,10,5,30,2,8,3,2,5,8,34,7,4,2,3,43,102,73,37,13,4,2,6,11,2,14,10,2,22,80,71,104,232,57,24,1,4,37,33,8,402,7,25,100,35,25,48,77,10,5,7,4,4,37,1,16,30,9,5,18,16,8,1,13,12,11,7,32,36,1,22,10,14,10,18,22,19,12,3,80,32,66,88,17,33,73,37,14,109,12,214,21,17,235,41,584,5,9,1,1,7,1,2,3,1,5,4,2,6,23,8,6,3,2,1,12,8,4,9,6,5,4,36,7,81,15,2,23,1,17,39,59,41,62,9,27
+Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14,130,32,1,18,61,9,154,10,5,30,2,8,3,2,5,8,34,7,4,2,3,43,102,73,37,13,4,2,6,11,2,14,10,2,22,80,71,104,232,57,24,1,4,37,33,8,402,7,25,100,35,25,48,77,10,5,7,4,4,37,1,16,30,9,5,18,16,8,1,13,12,11,7,32,36,1,22,10,14,10,18,22,19,12,3,80,32,66,88,17,33,73,37,14,109,12,214,21,17,235,41,584,5,9,1,1,7,1,2,3,1,5,4,2,6,23,8,6,3,2,1,12,8,4,9,6,5,4,36,7,81,15,2,23,1,17,39,59,41,62,9,27,143
 Provide AI	14812,6
 Provide APIs	6423
 Provide ARCT	13314
@@ -2062,7 +2069,7 @@ Provocations	8460
 Provocoiion	15429
 Provost	6936
 Provost Facility Service Human Resources	17232
-Província	539,6202,4010,6,9,17,583,7,36,12,25,131
+Província	539,6202,4010,6,9,17,583,7,36,12,25,131,6027
 Província Angola Bengo Benguela Bié Cabinda	10766
 Província Aprovação Taxas	10766
 Província Cabinda	10777
@@ -2096,6 +2103,7 @@ Província da Lunda Norte	11460
 Província da Lunda-Norte	539
 Província de Cabinda	11427
 Província de Luanda	11394,52,3,128
+Província de Maputo	17604
 Províncias	10757,15,593,8,5,31,1375
 Províncias da Região Centro-Norte	11406
 Províncias da Região Leste	11406
@@ -2385,7 +2393,7 @@ TRANSITIONAL AND MISCELLANEOUS PROVISIONS	3714
 TRANSITIONAL AND MISCELLANEOUS PROVISIONS Conversion	3714
 TRANSITIONAL AND SAVING PROVISIONS	17250
 TRANSITIONAL AND SAVINGS PROVISIONS	17249
-TRANSITIONAL PROVISIONS	11181,3246,2823
+TRANSITIONAL PROVISIONS	11181,3246,2823,287
 TRANSITIONAL PROVISIONS AND TEMPORAL APPLICATION	3861
 TRUST SERVICE PROVIDERS	17534
 TVET Providers and Participation Around	13358

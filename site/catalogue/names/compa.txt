@@ -52,6 +52,7 @@ Acronyms and Abbreviations GAMCEL Gambia Cellular Company	16992
 Act GenCos Generation Companies GWh Gigawatt	12062
 Acting Director of Legal and Company Secretary Anthony	9093
 Acting Group Company Secretary MML Mokoka	10793
+Action Compact	17582
 Afatrading Company Limited Data Processor INST-1678087797A	7167
 Africa Broker'S Company Arriauz Services Sante	10821
 Africa Broker'S Company Traitement	10821
@@ -392,7 +393,7 @@ Compagnons de De Brazza	16039
 Companhia Santomense de Telecomunicações	2315
 Companhia São-tomense de Telecomunicações	5557
 Companhias	6970,8534
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235,89,25,3,64,298,175,1,209,447,662,118,92,161,11,291,260
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235,89,25,3,64,298,175,1,209,447,662,118,92,161,11,291,260,199
 Companies API Application Programming Interface	4214
 Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801,437,10,10,26,3,762,301,51,133,2,14,20,88,247,9,46,347,12,87,99,40,29,856,33,91,167,4,3,8,40,41,10,16,2,2145
 Companies Act Amendment	11250
@@ -455,7 +456,7 @@ Companies’ Register	3714
 Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359
 Companion Card	10418
 Companion Guide	11156
-Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,561,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73
+Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73
 Company Act	14891
 Company Address Changes	12041
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
@@ -577,7 +578,7 @@ Compaoré	4233,1
 Compara	16898
 Comparability	7204,6106,1854,2203
 Comparability and Integration	13310
-Comparable	2117,1597,4637,1048,4133,1287,1141
+Comparable	2117,1597,4637,1048,4133,1287,1141,1664
 Comparable Company Multiples	4896
 Comparable Estimates of Returns	16436
 Comparable West African	7777
@@ -638,10 +639,10 @@ Comparecencia	16986,236
 Comparecencia de Osa Nsue	17171
 Comparecencia de Simeón Oyono Esono	17305
 Comparecer	4147,11286
-Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73,624,40,17,165,26,141,56,191,13,23,24,133,234,1038,9,64,47,108,131,1,267
+Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73,624,40,17,165,26,141,56,191,13,23,24,133,234,1038,9,64,47,108,131,1,267,110,2
 Comparer	9278,6658
 Comparez	13300
-Comparing	236,530,5,1322,723,5053,114,477,1810,444,127,136,978,401,27,1035,114,92,1136,664,180,1346
+Comparing	236,530,5,1322,723,5053,114,477,1810,444,127,136,978,401,27,1035,114,92,1136,664,180,1346,673
 Comparing CRVS	12413,2643
 Comparing PoPIA	11896
 Comparing the Palmer	17157
@@ -879,7 +880,7 @@ Eswatini Electricity Company	11131,3,1254,6,575,2,6,61,16,69
 Eswatini Industrial Development Company	11131,3
 EthSwitch Share Company	12269
 Ethiopia Electric Power Company	12256
-Ethiopia. The Company	1517
+Ethiopia. The Company	1517,12634
 European Commission's Competition Compass	16521
 Evaluate Effectiveness of Tax Dialogues Comparison	17011
 Evaluation and Comparison of Bids	14766
@@ -978,7 +979,8 @@ Ghana Grid Company Limited	15740,164,640
 Ghana Grid Company Ltd	16586
 Ghana National Gas Company	15740,164
 Ghana Post Company Limited Size	15867
-Ghana Publishing Company and Commissioners for Oaths	11082
+Ghana Publishing Company and Commissioners for Oaths	11082,6467
+Ghana Publishing Company. The Authority	17549
 Ghana Publishing Company. The NSA	11082
 Ghana’s Partnership Compact	17196
 Global AI Governance Frameworks Comparative	16212
@@ -1024,6 +1026,7 @@ HISTORICAL FINANCIALS FOR THE COMPANY	4896
 HISTORICAL FINANCIALS FOR THE COMPANY ANNEXURE	4896
 HNSF BACKWARDS COMPATIBILITY Authenticate	1009
 Hajj Companions	10427
+Hangzhou Laison Technology Company Limited	17558
 Harbor Engineering Company	261
 Have the Company Name Approved	12389
 Health Compact	4301
@@ -1043,6 +1046,7 @@ IDA Disbursement Project Company	16144
 IDSR Using Individual Case Form Compared	11912
 III- PERSPECTIVA DO ESTUDO COMPARADO	3519
 III. NATIONAL ENERGY COMPACTS	13054
+INSURANCE Number of Insurance Companies	7763
 INTERNAL RELATIONS FOR CLOSELY HELD COMPANIES	3714
 INTERNATIONAL COMPARISON OF SOUTH AFRICA’S ICT	11211,51
 INTERNATIONAL INTEGRATION AND COMPARATIVE STANDARDS	3861
@@ -1445,6 +1449,7 @@ President Blaise Compaore	16256
 President Compaoré	16256
 President of Microsoft Frontier Company	7007
 Presidential Health Compact	1009
+Price Comparator Portal	7763
 Price Comparison	14783
 Principal Results and Comparison With Prior Work	10919
 Prisma Construction Company	5394
@@ -1477,6 +1482,7 @@ Public Electricity Production Company	11380
 Public Entity Companies and Intellectual Property Commission	11250
 Public Liability Company LGA P.O Ins	11129
 Public Sector Companies	15393
+Public Share Company	14151
 Public Venture Capital Company	11863
 Puerto Rico Telephone Company	15471
 Purpleline Solutions Limited Company	9728,114
@@ -1560,6 +1566,7 @@ SUCC CHINA HARBOUR ENGINERING COMPA	16623
 SUMMARY OF ESTIMATES COMPARATIVE BUDGET SUMMARY	13093
 SWITCHING COMPANIES	16878
 Safaricom ET.' Companion	1125
+Sarl Saouthern Cacao Company. Selon	17581
 Saudi Arabian Mining Company	4447
 Saudi Telcom Company	15471
 Saudi Telecom Company	15471
@@ -1695,7 +1702,7 @@ U COMPAGNIE DE BAUXITES ET D'ALUMINE	16623
 U.S. Company Astrophysics Inc	11112
 UMOA Companion	12065
 UN Global Compact SDG Innovation Accelerator	8035
-UN Global Digital Compact	1862,820,4865,1,373,3107,126
+UN Global Digital Compact	1862,820,4865,1,373,3107,126,6542
 UN Global Digital Compact Digital	7548
 UNDP Digital Compass	12214
 UNDP Digital Compass4	12214

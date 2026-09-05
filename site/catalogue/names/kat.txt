@@ -69,6 +69,7 @@ KT-1 Katsina NorthWest	11857
 KT-2 Katsina NorthWest	11857
 KT-3 Katsina NorthWest	11857
 KT-4 Katsina NorthWest	11857
+Kagera Kaskazini Pemba Kaskazini Unguja Katavi	7763
 Katakata	15848
 Katakwe	13387
 Katambi	6927,203
@@ -79,7 +80,8 @@ Katanga	9248,6916
 Katanga National	11916
 Katanga and Equateur	11900
 Katanomics	4844
-Katavi	2868,3860
+Katavi	2868,3860,1035
+Katavi Kigoma	7763
 KatcJNNROJ8T	14011
 Katchomoza Executive Director	13053
 Kate Bapela	9375
@@ -137,6 +139,7 @@ Katie Kelley	10611
 Katie Taga	10961
 Katika	2710,8,150,218,361,62,590,1916,4,308,298,625,599,562,204,2997,2651
 Katika Mwaka	2868,3151
+Katikati	17575
 Katima Mulilo	9872,2511,38,530,33,113,92,1193
 Katima Mulilo Border Post	12951,93
 Katima Mulilo Correctional Facility Katima Mulilo	12984
@@ -145,6 +148,7 @@ Katima Mulilo and Keetmanshoop	13097
 Katiola	8694,6929
 Katiola and Boundiali	5902
 Kational	11179
+Katishitike Emmanuel	17610
 Katiso Molefe and Carrim. Msibi and Sergeant Fannie	10263
 Katiso Mosoeunyane	12756
 Katithi Primary School	14546
@@ -173,14 +177,15 @@ Katrín Hjartar	16266
 Katsaitis	11050
 Katse	12619,105,18
 Katse Dam	11248
-Katsina	3718,2047,1106,690,3568,340,410,171,75,10,2778,384
+Katsina	3718,2047,1106,690,3568,340,410,171,75,10,2778,384,2422
 Katsina State	3718,2047,6360
 Katsina State Chapter	5765
 Katsina State Development Plan	12135
-Katsina State Government	12125
+Katsina State Government	12125,5594
 Katsina State Governor Malam Dikko Umaru	3718
 Katsina State Hub	3718
-Katsina State Investment Promotion Agency	12125
+Katsina State Investment Promotion Agency	12125,5594
+Katsina State. Jikamshi	17719
 KatsinaAugust	9876
 Kattah	16276
 Kattel	961,1132,3607

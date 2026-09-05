@@ -224,7 +224,7 @@ Applicant's Application	14460
 Applicant's Best Price Offer	8582
 Applicant's Identity	12496
 Applicant- Cabinet Secretary	14460
-Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51,386,575,125,157,179,137,11,25,29,175,61,411,1031,215,213,1,50,178,203,758,526,584,78,51,535
+Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51,386,575,125,157,179,137,11,25,29,175,61,411,1031,215,213,1,50,178,203,758,526,584,78,51,535,242
 Applicants Replacements The Nzika	13095
 Applicants. An Applicant	8582
 Applicants. E. Procedures for Evaluation of Applications	1638
@@ -307,7 +307,7 @@ Application Programme	11960
 Application Programme Interfaces	13346
 Application Programming	13461
 Application Programming Information APP Annual Performance	5533
-Application Programming Interface	1333,4332,1847,946,359,2316,1160,269,35,750,48,211,784,49,44,191,145,78,126,1522,399,5
+Application Programming Interface	1333,4332,1847,946,359,2316,1160,269,35,750,48,211,784,49,44,191,145,78,126,1522,399,5,608
 Application Programming Interface ASYCUDA Automated System	13042
 Application Programming Interface ATI	5244
 Application Programming Interface ATS Automated Transfer	15023
@@ -317,7 +317,7 @@ Application Programming Interface CA	14438
 Application Programming Interface CDO Chief Digital	12674
 Application Programming Interface CDSS Clinical Decision	9855
 Application Programming Interface. The Application	12419
-Application Programming Interfaces	1243,461,1948,435,1157,2275,4903,583,87,51,245,3561
+Application Programming Interfaces	1243,461,1948,435,1157,2275,244,4659,583,87,51,245,3561
 Application Providers	13295
 Application Re-application	2709
 Application Requirements	10407
@@ -520,7 +520,7 @@ Appliquer	8891,1985,2414,39,46,1104,993,70
 Appliquer la Jointure	13375
 Appliquée	14635,1026,158
 Applis	9993
-Apply	1204,681,789,1452,302,126,1111,11,196,496,64,351,153,612,427,5,255,371,466,576,362,711,239,57,123,9,7,96,95,457,50,488,14,3,244,358,420,195,178,687,14,542,247,516,29,1078,247,43
+Apply	1204,681,789,1452,302,126,1111,11,196,496,64,351,153,612,427,5,255,371,466,576,362,711,239,57,123,9,7,96,95,457,50,488,14,3,244,358,420,195,178,687,14,542,247,516,29,1078,247,43,380
 Apply AES-256	10721
 Apply AI	6477,8275
 Apply AI Strategy	6487,392
@@ -617,7 +617,7 @@ CONTENT AND APPLICATIONS	16884
 COST RISK Application	6432
 COURIER SERVICE APPLIED	1223
 CYBERCRIMINALITE ET DE LA BONNE APPLICATION	16617
-Call for Applications	10347
+Call for Applications	10347,7388
 Call for Applications Deadline	11345
 Call. Applications	16540
 Called the Zambia Emergency Bridge for Response Application	10374
@@ -720,6 +720,7 @@ Date of Application	12364
 De la Direction des Applications Météorologiques Article	15371
 Deadline for Submission of Applications	1638
 Dean Bennett Appleby	7198
+Dear Applicants and Stakeholders	17553
 Dec-2020 Restructuring Sequence.01 Not Applicable	15731
 Defines the Application Programming Interface	11269
 Defining Capabilities and Application Areas	11156
@@ -1030,6 +1031,7 @@ Margins ID Systems Applications	4677,31,2305
 Margins ID Systems Applications Limited	4677,114,12588
 Margins ID Systems Applications Ltd	4696,1,11
 Margins ID Systems Applications Ltd Jan	4696
+Mastercard Foundation Scholars Call for Applications	17735
 Message Structures Service Point Application Enterprise	21
 Meta and Apple	15984
 Meteorological Transportable Ground Application System	12545

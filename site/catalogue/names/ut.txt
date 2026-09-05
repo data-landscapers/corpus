@@ -276,6 +276,8 @@ National Utility	16978
 National Water Utility Company	15969
 Nia Wahyu Utami	10764
 Normal Manuais de Utilizador Formação Assinatura	12021
+Number of Individuals Utilizes Insurance Services	7763
+Number of Individuals Utilizes Insurance Services Usage	7763
 NÚMERO DE UTILIZADORES DE MOBILE MONEY	11531
 OCGT Utilisation	11228
 OUT-PATIENT DEPARTMENT SERVICES UTILIZATION	16971
@@ -526,13 +528,13 @@ University of Utah College of Law Research Paper	14932
 Ut. Computadores	15772
 Ut. Computadores2-	15772
 Ut.niversities	15713
-Utafiti	7218
+Utafiti	7218,10357
 Utah. En	8702
 Utalii	6019
 Utalii College	14546
 Utamaduni	5416,603
 Utamboni	4209
-Utambulisho	2868
+Utambulisho	2868,14707
 Utambuzi	2868,4053
 Utande	1817
 Utanga	14870,49,258
@@ -654,6 +656,7 @@ Utility Services Utility	9123
 Utility Strengthening Activity	87
 Utility-scale	11953
 Utility-specific	12399
+UtilityInnovation Group	17732
 Utilité	13390,3101,957
 Utilité Imikorere	1214
 Utilité Publique	1214,14787
@@ -674,7 +677,7 @@ Utilizadores de Internet	11569
 Utilizados	16898
 Utilizamos	9432,2133
 Utilizar	1701,2445,2316,4293,613,62,112,1232,2746,502,116,962
-Utilization	1219,648,1924,1454,7645,48,39,971,940,266,1722,67,17
+Utilization	1219,648,1924,1454,7645,48,39,971,203,737,266,1722,67,17
 Utilization Gap	6051
 Utilization Roadmap	16971
 Utilization and Access	16861

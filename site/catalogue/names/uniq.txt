@@ -90,7 +90,7 @@ Identifiant Unique du Patient	15936
 Identification Bancaire Unique	8556
 Identification Fiscal Unique	10821
 Identification National Unique	16482
-Identification Unique	3800,941,480,10332,86,181,698
+Identification Unique	3800,941,480,10332,86,181,698,1153
 Identification Unique Activation du NUI	14480
 Identification Unique Envoi Convertisseur Collecte Etat	14480
 Identification Unique des Citoyens	16641
@@ -185,7 +185,7 @@ Unique ID	7988,4349
 Unique ID Numbers	14434,455
 Unique IPs	1013,931
 Unique Identification	5700
-Unique Identification Authority of India	6371,1225
+Unique Identification Authority of India	6371,1225,10027
 Unique Identification Authority of India. Timeframe	7596
 Unique Identification Number	1828,953,1254,754,1167,280,4539,37,1047,287,1535
 Unique Identification Numbers	12241,839

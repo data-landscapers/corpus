@@ -26,8 +26,8 @@ BRA Benadir Regional Administration FMS Federal	14874
 BSDs for DTT FM Broadcasters FY	6946
 Balanza de Pagos BEAC FMI	16898
 Bank FM	15424
-Bawku FM	9111
-Bead FM	9111
+Bawku FM	9111,8472
+Bead FM	9111,8472
 Bi- FMoCDE	11857
 Body Tongogara FM	13542
 Brazzaville FMS	15659
@@ -96,7 +96,7 @@ Environnement FMM Directorate of Environment FMS FMU	15372
 Environnement Mondial FMI Fonds Monétaire International	10975
 Exchange Points FMCT	11857
 Execution MoI Medium Term FM8 Develop	12917
-Express FM	11614
+Express FM	11614,6002
 FCV FM GBV GDP GEMS GER	16436
 FGS MDAs and FMSs MDAs. SCOPE	15090
 FGS and FMS	11136,3868,86,58
@@ -220,6 +220,7 @@ FMI Los	16898
 FMI MHEP	16898
 FMI Pays	643
 FMI Rapport Pays	643
+FMI Son Excellence	17667
 FMI-África Central ANDA Archivo Nacional de Datos	16898
 FMI. Artículo	4209
 FMI. L'objectif	6146
@@ -374,7 +375,7 @@ N S Overall FM	10829
 NCC Dr. Olufemi Adeluyi FMoCDE	11857
 NIGCOMSAT FMW&H Aremu Ade A. Engr	11857
 Name Of Regions Authorised FM Stations	2776
-Nandom FM	9111
+Nandom FM	9111,8472
 National Planning FMHDSD Federal Ministry of Humanitarian	11857
 National and FMS	11136
 Nationwide FM D100	17250
@@ -505,7 +506,7 @@ Social Development FME Federal Ministry of Education	11857
 Social Framework FM Environmental and Social	13331
 Social Management Framework FM Financial Management	11525
 Social Standard FM Financial Management GBV	13332
-Somuaa FM	9111
+Somuaa FM	9111,8472
 Specifications for FMSs Civil Service	15031
 Staffing. The FM	15658
 Standards FDI Foreign Direct Investment FM	15491
@@ -541,7 +542,7 @@ Violence FM Financial Management GBV Gender-Based	10829,5555
 Violence FM Financial Management GBV Gender-based	15661
 Violence FMI Fonds Monétaire International GoB	10876
 WAITING FMAC Six Regulations	16853
-Wale FM	9111
+Wale FM	9111,8472
 Water Security Program. The FM	3604
 Water and Sanitation FM Frequency Modulation FSM	718
 West Coast Radio and Taxi FM	16926

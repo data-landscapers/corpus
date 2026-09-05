@@ -673,6 +673,7 @@ Health Sector ICT Policy and Strategy	4126
 Health and ICT	14879,1993
 Health and ICT Responsible Ministry	16872
 High-Performing and Sustainable ICT Portfolio	11230
+Higher Education and ICT	17655
 Highervalue ICT	10793
 Highest ICT	12383
 Hon. Minister of ICT	12423
@@ -750,11 +751,11 @@ ICT Asset Management Policy	15164
 ICT Assistant Executive Secretary	12972
 ICT Asso	4775
 ICT Association International Girls	12241
-ICT Association of Malawi	2231,33,1774,7591,612,818,21,15,17
+ICT Association of Malawi	2231,33,1774,7591,612,818,21,15,17,4591
 ICT Association of Uganda	4235
 ICT Association of Zambia	13347
 ICT Association of Zambia Act No	13347
-ICT Authority	899,1843,171,1624,1469,127,145,3,151,74,121,814,39,68,2,1214,314,777,25,2382,2179,84,21,234,42,3
+ICT Authority	899,1843,171,1624,1469,127,145,3,151,74,121,814,39,68,2,1214,314,777,25,2382,2179,84,21,234,42,3,2774
 ICT Authority Bill	8382
 ICT Authority CEO	5108
 ICT Authority Chairperson Tassarajen Pillay Chedumbrum	9949
@@ -781,7 +782,7 @@ ICT Business Resilience Subcommittee	11134
 ICT CFT	899,16064
 ICT CHAMBER	1204
 ICT COMPLAINTS AND CALL CENTRE HUMAN	11198
-ICT Cabinet Secretary Eliud Owalo	3983
+ICT Cabinet Secretary Eliud Owalo	3983,13724
 ICT Cabinet Secretary William Kabogo	8091,2714
 ICT Cabinet and Principal Secretaries	12149
 ICT Cadre	12674
@@ -1054,7 +1055,7 @@ ICT Media STRATEGIES	3658,217,2400,145
 ICT Media Strategies	3658,2617,145
 ICT Medias Strategies	3658,2617,145
 ICT Minimum	15164
-ICT Minister	1150,2498,641,246,1192,1662,6032,1264,1126,160,21,139,71,5,29,19
+ICT Minister	1150,2498,641,246,1192,1662,6032,1264,1126,160,21,139,71,5,29,19,1467
 ICT Minister Alongside	11135
 ICT Minister Amr Talaat	16046
 ICT Minister Benin	10819
@@ -1084,6 +1085,7 @@ ICT NA	15164
 ICT NITDA	11857
 ICT National Backbone Infrastructure	3050
 ICT National Director	761
+ICT National Summit	17704
 ICT Networks and Capacity Building	12917
 ICT News Digital	8343
 ICT OBJECTIVES	13042
@@ -1119,7 +1121,7 @@ ICT Policies	26,1,1,930,13893
 ICT Policy	958,200,7174,2794,403,1096,49,222,21,378,51,645,974,199,386,1300,22,4,7,1,86,5,212
 ICT Policy Development and Research	1608,1289,8333
 ICT Policy Development and Research Only	11230
-ICT Policy Forum	16802
+ICT Policy Forum	16802,851,81
 ICT Policy Guidelines	6946
 ICT Policy Making and Governance	9893
 ICT Policy National Broadband Strategy Singapore	11529
@@ -1366,6 +1368,7 @@ ICT and Communication	1814
 ICT and Communications Units	17441
 ICT and Cyber Crimes	2658
 ICT and Cyber Security	2586,5267
+ICT and Cybercrime	17571
 ICT and Cybersecurity	1243,3447,1846
 ICT and DHIS2	14923
 ICT and Digital	12376
@@ -1588,7 +1591,7 @@ ICTA and SM	14723
 ICTA-hosted PDF	11788
 ICTA. En	10030
 ICTACT Journal	9128
-ICTAM	2231,1807,737,6854,612,812,6,21,15,17
+ICTAM	2231,1807,737,6854,612,812,6,21,15,17,4591
 ICTAM Activities Planned for Q4	13080
 ICTAM Annual General Meeting	13080
 ICTAM Annual General Meeting and Innovation Awards	13095
@@ -2124,7 +2127,8 @@ National ICT Infrastructure Master Plan	2867
 National ICT Initiatives Support Program	2676
 National ICT Innovation Awards	5906,8468
 National ICT Innovation Awards Malawi	5906
-National ICT Innovation Hub	2676,2433,1756,787,1207,530,512,2973,1314
+National ICT Innovation Hub	2676,2433,1756,787,1207,530,512,2973,1314,3516
+National ICT Innovation Hubs	17704
 National ICT Master	12214
 National ICT Master The COVID-19	899
 National ICT Master and Strategic Plans	12917
@@ -2141,8 +2145,10 @@ National ICT Policy Collaboration	13346
 National ICT Policy Definitions Computer Incident	13346
 National ICT Policy Despite	13346
 National ICT Policy Establish	17011
+National ICT Policy Objectives	17538
 National ICT Policy Other Line Ministries	13346
 National ICT Policy Republic of Zambia National	13346
+National ICT Policy Targets	17538
 National ICT Policy The Zambian Government	13346
 National ICT Policy and Sectoral Strategy Saint	11529
 National ICT Policy and Strategy	3405,345,1090,10039,85,1
@@ -2268,6 +2274,7 @@ Plan ICT Information Communication Technology NDP	11986
 Plan III ICT Information Communication Technology	12240
 Planned Action Implementation ICT Agency	16885
 Planned Action The ICT Agency	16884
+Police ICT	17683
 Police Studies and ICT. So	14748
 Policies and Regulatory Frameworks for ICT Growth	13295
 Policy Ethiopia Yes National ICT Policy	11529
@@ -2447,6 +2454,7 @@ Rwandan Ministry of ICT and Innovation	3815
 Rwanda’s ICT	5418
 Rwanda’s ICT Sector Strategic Plan	8266
 Rwanda’s ICT and Innovation Minister	6178
+Rwanda’s ICT and Innovation Minister Paula Ingabire	17598
 Rwanda’s Minister of ICT and Innovation	7203
 Rwanda’s Ministry of ICT and Innovation	7203,1792
 Rwanda’s Ministry of ICT and Innovation. The Rwanda	6041

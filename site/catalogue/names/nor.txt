@@ -62,6 +62,7 @@ Alexandra Norris	10977,4866,1,821,380
 Alexandra Norris EXECUTIVE SUMMARY The Global	10977
 Alexandra Norris World Bank	15844
 Algerie du Nord	15907
+Alibori Sud-Borgou Nord-2KP	17584
 Ambassadors of Ireland and Norway	4888
 Americas Northern America Toronto Very High	10840
 Amostra Cuanza Norte	10777
@@ -71,6 +72,7 @@ Amérique du Nord	2732,951,5449,1073,5725,615
 Anglican Development Services North Rift Region	7167
 Arbollé Passoré Nord	15715
 Ashanti Western North Ahafo Bono Bono	582
+Ashanti and Northern	17684
 Asia and North America. Across	4972
 Assessments Libyan Dinars Middle East and North	16902
 Associate Jean-Yan Norbert Communcations Associate Sia	11332
@@ -196,6 +198,7 @@ Convergence That Matters for Broader North	5340
 Copperbelt North Western	12431
 Copperbelt and Northwestern Provinces	3524
 Corniche Nord Rue	16624
+Corée du Nord	17663
 Country Manager for North West Africa	7271
 County Urban Rural Total North Western	17043
 Cuando Cubango Cuanza Norte Cuanza Sul	10766
@@ -227,6 +230,7 @@ DELEGACION PROVIN. BIOKO NORTE.- Concepto	4209
 DES TMU DES REGIONS DU NORD-OUEST	16534
 DG North-West Africa	5760
 DRC Norfund	513
+Dans le Nord-Kivu	17638
 Data Normalization	17157
 Data Protection Act. Normative	1879
 Data Science Northwest Mafikeng Moses Kotane	6832
@@ -588,7 +592,7 @@ Luapula Northern	12431
 Luapula Northern REPUBLIC OF ZAMBIA Figure	12431
 Luapula Western Northern Eastern Male Western	12431
 Luke International Norway	12240
-Lunda Norte	9399,1358,3,5,1,9,1,1,639,2,3,416
+Lunda Norte	9399,1358,3,5,1,9,1,1,639,2,3,416,5703
 Lunda Norte Angola	9399
 Lunda Norte Lunda Sul	10766
 Lunda Norte Lunda Sul Malanje Moxico	10766
@@ -679,6 +683,7 @@ Moho Nord	15423
 Moldova Monaco Montenegro North Macedonia Ukraine	10764
 Monitorização Normativa	11448
 Monsieur Niniotar Nordine KAMBOU	16287
+Monsieur Norbert SAHGUI	17584
 Montserrado South Central Liberia North Central	17043
 Moretele North Klipvoor Bulk Water Supply	11248
 Morocco Middle East and North Africa	17490
@@ -851,7 +856,7 @@ Nord- Kivu	15670
 Nord- Oue3	15999
 Nord- Ouest	15999
 Nord-Est	15399,200,93,28,475,357
-Nord-Kivu	2628,2441,140,458,2221,4,863,3288,3627,750
+Nord-Kivu	2628,2441,140,458,2221,4,863,3288,3627,750,1218
 Nord-Ouest	3157,651,1549,472,5136,10,10,4414,143,57,86,35,279,169,27,339
 Nord-Ouest Ouest Sud Sud-Ouest Ensemble	15599
 Nord-Ouest Postes Transfo P	10975
@@ -1084,6 +1089,7 @@ North Caribbean Africa	10977
 North Caribbean Africa Saved	10977
 North Caribbean Africa Smartphone Feature	10977
 North Carolina	7479,2489,4415,303
+North Carolina-based UIG	17732
 North Carolina. The Ministerial	17428
 North Carolina. The U.S	14383
 North Center	10866
@@ -1103,6 +1109,7 @@ North East Main Sector	12445
 North East Region	2776
 North East Regions	16511
 North East and North West	11998
+North East and Northern Regions	17596
 North East and Upper East Regions	16575
 North East of Nigeria	11857
 North Eastern	7833,4423
@@ -1181,7 +1188,7 @@ North West Region	7336
 North West Region of Cameroon. India	16240
 North West UR	11296
 North West and Gauteng	11296
-North West and Mpumalanga	11248,46
+North West and Mpumalanga	11248,46,6407
 North West and North East	11998
 North West and Northern Cape	9684,1613
 North West and Northern Cape. Free Basic	11297
@@ -1272,13 +1279,13 @@ Northeastern Gabon Using the Population Density Gradient	16996
 Northeastern Lusaka	12369
 Northeastern State	3426,5815
 Northen and River Nile	14933
-Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934,322,107,116,219,13,77,38,186,169,29,29,141,106,314,112,707,120,78
+Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934,322,107,116,219,13,77,38,186,169,29,29,141,106,314,112,707,120,78,449
 Northern Africa	585,400,2172,1519,4190,641,1292,41,732,322,327,5066
 Northern Africa and Western Africa	585
 Northern Africa and Western Asia	10846
 Northern Africa. Five	7423
 Northern America and Europe	11572
-Northern Bahr	3583,7074,2619
+Northern Bahr	3583,7074,2619,4332
 Northern Bahr El Ghazal	3583
 Northern Bahr El Ghazal State	13276
 Northern Basement Transboundary Aquifer. Hydro Nova	15052
@@ -1309,6 +1316,7 @@ Northern Ethiopia	12188
 Northern Ethiopia European Commission	1066
 Northern Europe	12441
 Northern European	2910
+Northern Ghana	17596
 Northern Guéra Region	10841
 Northern Integrated Development Agency	12779
 Northern Ireland	6866,6056,118
@@ -1334,7 +1342,7 @@ Northern Province of Zaire	3980
 Northern Provinces of Mozambique	12220
 Northern Provincial ICT Unit	12880
 Northern Red Sea	14125
-Northern Region	2776,6151,3247,79,25,475
+Northern Region	2776,6151,3247,79,25,475,4931
 Northern Region Operational November P. O	3386
 Northern Region. Apart	13361
 Northern Region. The Chinese Government	13122
@@ -1473,6 +1481,7 @@ Pacific Central Caribbean North Africa	10977
 Pacific. and Statistics Norway	12413
 Passoré Nord	15715
 Pavani Rangachari Nor Haji Osman	11596
+Pemba North	7763
 Pemba North and South Regions and North Unguja	11133
 Per Nordlund	10785
 Performance Benchmarks Metric Normal Peak Conditions	11952
@@ -1667,6 +1676,7 @@ UMc Finland Europe Northern Europe Helsinki	10840
 UMc Ireland Europe Northern Europe Dublin	10840
 UNDP Cameroon Far North	10989
 UPC Renewables North Africa and CIO	5951
+Unguja North	7763
 Unilever and Novo Nordisk	7007
 United Kingdom of Great Britain and Northern Ireland	1243,5370,4251,290,1886,1753,713,219,855,848
 University of North Carolina	771,11371,113,1077,2326

@@ -77,6 +77,7 @@ Activity Description and Expected Outputs Activity	12008
 Adama OUEDRAOGO	7670
 Adama Ouedraogo	16436
 Adama Ouedraogo Vincent De Paul Mboutchouang	16436
+Adandé Olatundé Henri Joël OUESSOU	17584
 Addis Ababa CRRSA. Outreach	12267
 Addressing Rising Vulnerabilities. Regional Economic Outlook	11149
 Adrar Biskra Béchar Tamenghasset Ouargla	15690
@@ -115,7 +116,7 @@ Alassane OUATTARA. LOI	15598
 Alassane OUATTARA. LOIn	15598
 Alassane OUATTARA. ORDONNANCEn	15598
 Alassane OUEDRAOGO	7670
-Alassane Ouattara	6005,90,14,465,17,940,2858,519,8,17,1,10,5434
+Alassane Ouattara	6005,90,14,465,17,940,2858,519,8,17,1,10,5434,1258
 Alassane Ouattara Abidjan	10916
 Alassane Ouattara. Conduisant	3019
 Alassane Ouattara. Le SIFOR-CI	10936
@@ -161,6 +162,7 @@ Assessment of Outcomes	11956,4658
 Associates Out Stations Out Stations	736
 Association for Microfinance Institutions of Kenya. Out	12231
 Assureurs Non90 Oui Oui Non Non	11944
+Atacora Ouest	17584
 Ataraxis Global Outsourcing AI Readiness Index	7281
 Aucun Oui Non NSP	13390
 Audit Outcomes NEMISA	11230
@@ -252,7 +254,8 @@ Burundi Rolls Out Six-Pillar AI Strategy	5919
 Business Instances and Implementation Outlines	1009
 Business Outline	16468
 Business Outlook	17503
-Business Process Outsourcing	2428,4518,4917,1451,1131,229,2198
+Business Process Outsourcing	2428,4518,4917,1451,1131,229,2198,834
+Business Process Outsourcing. Kabogo	17706
 Bâtiment B Ou	9744
 Bénin. Ouvrant	15873
 C OU ANTIMOTILITÉ	13300
@@ -515,8 +518,10 @@ Distance FOADeL Formation Ouverte	15541
 Distribution of Courier Outlets	6000
 Distribution of Courier Outlets Operator Q3	6000
 Districts Imihigo Reports Output	14935
-Djibril Ouattara	4756,268,433,1,147,146,33,221,9,20,61,31,4,15,48,30,1,11,168,44,114,13,26,34,11,15,26,24,20,133,186,70,3,409,146,4,1,449,385,133,45,825,671,4129,2,2216
+Districts for Stronger Outbreak Preparedness	17735
+Djibril Ouattara	4756,268,433,1,147,146,33,221,9,20,61,31,4,15,48,30,1,11,168,44,114,13,26,34,11,15,26,24,20,133,186,70,3,409,146,4,1,449,385,133,45,825,671,4129,2,2216,1099
 Djibril Ouattara. C'est	14320
+Djibril Ouattara. L’annonce	17635
 Djibril Ouattara. Pour	6600
 Djibril Ouattara.Selon	7682,967
 Docteur Assane Ouangaré	15581
@@ -959,6 +964,7 @@ Inflation and Exchange Rate Outlook	13685
 Information Society Outcomes	5822
 Information Technology Outsourcing	7045
 Information and Dissemination Outcome Increased	17116
+Initiative Dimension Key Outcome	7763
 Initiatives and Key Target Outputs Strategic Objective	16858
 Innovation Djibril Ouattara	6662
 Innovation Inputs Innovation Outputs	12487
@@ -1359,6 +1365,7 @@ Monsieur Abdoul Rachid OUEDRAOGO	16117
 Monsieur Abdoulaye OUEDRAOGO	16287
 Monsieur Amadou Oury BAH	9637
 Monsieur Appolinaire GODOM OUALOU	16400
+Monsieur Armick Mêtounsè Charmant Rovinis OUIDODJICHE	17584
 Monsieur Arouna OUATTARA	16287
 Monsieur Arsène OUEDRAOGO	16287
 Monsieur Boubakar OUEDRAOGO	16287
@@ -1368,6 +1375,7 @@ Monsieur Halidou OUEDRAOGO	15942
 Monsieur Idrissa OUEDRAOGO	16287
 Monsieur Inoussa OUEDRAOGO	16287
 Monsieur Lassané OUEDRAOGO. CONSEIL DES MINISTRES	16287
+Monsieur Marcel OUNTIN Tribunal	17584
 Monsieur Max Arnold OUAKA BEDANG	16328
 Monsieur OUMAR Ouattara	16323
 Monsieur OUSSOUFA Abdou El Madjid	743
@@ -1380,6 +1388,7 @@ Monsieur Ousmane SANON	15942
 Monsieur Ousmane SONKO	3381
 Monsieur Ousséni ILLY	15942
 Monsieur Rasmane OUEDRAOGO	16287
+Monsieur Salim Oussène Sanka DANKORO	17584
 Monsieur Sassiémiké Ousmane SOULAMA	15942
 Monsieur Victorien Narcisse OUANGRAOUA	16287
 Monétaire Ouest Africain UNESCO	737
@@ -1766,7 +1775,7 @@ Ouaga Nord	15769
 Ouaga Sud-Est	16536
 OuagaLab	10834
 Ouagadougo	16256
-Ouagadougou	7,106,224,400,48,1016,117,156,303,226,129,251,2,131,65,164,9,57,17,41,164,7,18,8,88,125,48,66,203,203,151,1,131,53,10,3,31,25,66,11,1,584,18,7,19,7,18,59,83,3,27,52,31,301,1,183,43,102,4,33,8,8,258,96,112,337,3,1,26,13,35,316,100,145,1,145,37,223,1,180,13,119,1,43,43,127,420,19,55,59,446,27,119,98,454,267,9,4,3,6,24,2,4,7,3,1,4,2,4,238,529,1790,919,108,380,516,41,48,9,87,7,22,7,35,16,39,15,24,5,16,29,4,8,7,1,7,41,31,20,18,15,25,25,59,26,65,27,84,28,31,30,80,61,9,2,6,71,9,18,782
+Ouagadougou	7,106,224,400,48,1016,117,156,303,226,129,251,2,131,65,164,9,57,17,41,164,7,18,8,88,125,48,66,203,203,151,1,131,53,10,3,31,25,66,11,1,584,18,7,19,7,18,59,83,3,27,52,31,301,1,183,43,102,4,33,8,8,258,96,112,337,3,1,26,13,35,316,100,145,1,145,37,223,1,180,13,119,1,43,43,127,420,19,55,59,446,27,119,98,454,267,9,4,3,6,24,2,4,7,3,1,4,2,4,238,529,1790,919,108,380,516,41,48,9,87,7,22,7,35,16,39,15,24,5,16,29,4,8,7,1,7,41,31,20,18,15,25,25,59,26,65,27,84,28,31,30,80,61,9,2,6,71,9,18,782,277
 Ouagadougou Burkina Faso	15637
 Ouagadougou Conduite	9993
 Ouagadougou Connectivité	9993
@@ -1916,7 +1925,7 @@ Ouesso-Pokola-Enyellé-Bétou- Gouga	15558
 Ouesso. Arrêté	15660
 Ouesso. Article	16274,182
 Ouesso. Dans	15423
-Ouest	357,286,94,268,184,58,68,333,391,222,19,32,65,16,58,124,118,39,33,173,71,91,57,20,17,58,7,102,29,53,1,28,105,27,46,34,3,32,47,26,245,22,228,29,417,321,153,84,22,11,33,1,15,63,110,21,118,18,104,35,14,21,22,25,25,34,9,88,4,151,2,502,88,61,187,31,47,116,14,36,84,210,57,5,147,43,111,1,16,6,67,6,26,42,22,154,2,3,17,116,14,33,14,41,21,141,37,61,140,63,9,105,292,93,1,22,27,100,307,81,203,35,77,96,6,27,142,66,112,6,10,38,1,7,6,29,17,8,2,21,10,10,308,229,45,81,151,15,35,95,80,12,38,1368,40,86,58,2,97,625,11,2,79,269,126,12,503,19,8,37,13,23,2,21,18,3,12,34,13,28,9,7,22,14,4,37,9,2,5,19,1,8,50,27,22,1,14,3,31,25,43,2,15,8,4,61,78,9,13,4,14,9,2,19,21,26,29,9,27,36,15,22,14,38,4,2,4,63,50,11,1,75,5,1,6,6,2,28,9,3,320,322,1,57
+Ouest	357,286,94,268,184,58,68,333,391,222,19,32,65,16,58,124,118,39,33,173,71,91,57,20,17,58,7,102,29,53,1,28,105,27,46,34,3,32,47,26,245,22,228,29,417,321,153,84,22,11,33,1,15,63,110,21,118,18,104,35,14,21,22,25,25,34,9,88,4,151,2,502,88,61,187,31,47,116,14,36,84,210,57,5,147,43,111,1,16,6,67,6,26,42,22,154,2,3,17,116,14,33,14,41,21,141,37,61,140,63,9,105,292,93,1,22,27,100,307,81,203,35,77,96,6,27,142,66,112,6,10,38,1,7,6,29,17,8,2,21,10,10,308,229,45,81,151,15,35,95,80,12,38,1368,40,86,58,2,97,625,11,2,79,269,126,12,503,19,8,37,13,23,2,21,18,3,12,34,13,28,9,7,22,14,4,37,9,2,5,19,1,8,50,27,22,1,14,3,31,25,43,2,15,8,4,61,78,9,13,4,14,9,2,19,21,26,29,9,27,36,15,22,14,38,4,2,4,63,50,11,1,75,5,1,6,6,2,28,9,3,320,322,1,57,286,4
 Ouest Africaine	4459
 Ouest Africaine. Elle	16621
 Ouest Agenda Réunion	17324
@@ -1966,6 +1975,7 @@ Ouest Un	6200
 Ouest WARDIP	5983
 Ouest WURI Programme	16626
 Ouest WiMAX Interopérabilité	15493
+Ouest and Ministry of Finance	17657
 Ouest de Douala	15542
 Ouest du Mintp	2704
 Ouest du Tchad	14401
@@ -2066,7 +2076,7 @@ Oui. Gouvernement	13390
 Oui. Il	10030
 Oui. L’Inde	10030
 Oui. Plus	14547
-Ouidah	5896,82,4898,3369,1153,81,820,14,49
+Ouidah	5896,82,4898,3369,1153,81,820,14,49,1222
 Ouidah. Afin	16362
 Ouidah. Ce	16362
 Ouigou Tiendrébéogo	6497
@@ -2268,6 +2278,7 @@ Outcome Baseline Targets Description of Target Data	13005
 Outcome CRM-AR.S6	10721
 Outcome Data	16963
 Outcome Document and Chair’s Summary. Aug	5700
+Outcome Document. A Presidential and Business Leaders	17582
 Outcome Female Acres	15845
 Outcome Improved Indicators	17018
 Outcome Indicator	13938,997
@@ -2443,6 +2454,7 @@ Outlook WGI Worldwide Governance Indicators	11271
 Outlook With ASYCUDAWorld	13042
 Outlook XSS Cross-Site Scripting YEIB Youth	17235
 Outlook and Risks	15752
+Outlook for NFIF3 Remaining Implementation Period	7763
 Outlook for SDG	11572
 Outlook. The Outlook	12233
 Outp1u0t8rank Inp1u3t	12205
@@ -2511,7 +2523,7 @@ Outras Obrigações de Acesso	11430
 Outras Operações	15445
 Outras Responsabilidades	11430
 Outrc	15443
-Outre	12,723,263,233,35,413,582,51,139,460,55,172,208,50,373,566,67,911,11,88,700,1522,599,83,575,466,734,620,1,114,17,32,90,1,9,164,475,1678,1,41,56,77,1,251,110,5,481,110,4,7,124,62,739,8,25,18,6,2,6,6,2,8,1,12,1,5,13,8,6,8,4,7,10,17,8,6,3,17,1,11,14,1,3,4,6,7,55,3,17,13,17,2,7,3,35,2,94,38,7,91,48,38,63,1,114,8,57,16,18,19,192,42,2,4,818,1,3,4,5,4
+Outre	12,723,263,233,35,413,582,51,139,460,55,172,208,50,373,566,67,911,11,88,700,1522,599,83,575,466,734,620,1,114,17,32,90,1,9,164,475,1678,1,41,56,77,1,251,110,5,481,110,4,7,124,62,739,8,25,18,6,2,6,6,2,8,1,12,1,5,13,8,6,8,4,7,10,17,8,6,3,17,1,11,14,1,3,4,6,7,55,3,17,13,17,2,7,3,35,2,94,38,7,91,48,38,63,1,114,8,57,16,18,19,192,42,2,4,818,1,3,4,5,4,144
 Outre le Comité	15557
 Outre le Ministère	15423
 Outre le Registre Social Unique	16283
@@ -2643,9 +2655,10 @@ Ouèssè	10876
 Ouédraogo	2560,8,3026
 Ouéléni	10875
 Ouéléni Léraba Cascades	15715
-Ouémé	5478,1218,659,3512,4531,1,1086
+Ouémé	5478,1218,659,3512,4531,1,1086,1099
 Ouémé River	16442,1
 Ouémé River Basin	16135
+Ouémé-Atlantique-Littoral-Mono	17584
 Ouémé-plateau	10821
 Ouémé. L'activité	6696
 Ouéssa Ioba Sud-Ouest	15715
@@ -2785,7 +2798,7 @@ Position Out	13418
 Positive Outlook of Gambian Economy The Central	17216
 Postal and Courier Density Sector Outlets Q3	6000
 Potential Disparate Outcomes	11956
-Pour Djibril Ouattara	6223,1
+Pour Djibril Ouattara	6223,1,11411
 Pour Lakoun Ouattara	4814
 Pour Ouagadougou	9847
 Pour Oumouri Mmadi Hassani	12103
@@ -2818,6 +2831,7 @@ Prime Minister Amadou Oury Bah	4142
 Prime Minister Amadou Oury Bah. Managed	4116
 Prime Minister Ousmane Sonko	5553,3291,189
 Prime Minister Rimtalba Jean Emmanuel Ouédraogo	2560,8,917,1263,29,74,63
+Principal Secretary for Medical Services Dr Ouma	17567
 Priority Area and Expected Results Outcomes Strategic	14935
 Priority Outcomes Specific	396
 Priority Outcomes for Accelerating Human Capital	15059
@@ -2905,6 +2919,7 @@ Rapidly Detect Outbreaks	15959
 Rapports ATAB Outil de Mesure	13325
 Ratings Ratings Outcome Bank Performance Relevance	10779
 Ratings Summary Outcome	14948
+Raymond Ouma	17567
 Reassessment Outcomes Following	16253
 Recent Economic Developments and Outlook	11136,5860
 Recent Economic Developments and Outlook Box	11136

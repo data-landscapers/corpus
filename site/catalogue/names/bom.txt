@@ -35,6 +35,7 @@ BOMET Kenya	7167
 BOMET MUNICIPALITY Data Controller INST-518030225D2 BOMET	7167
 BOMET'S HEALTHCARE Data Controller INST-41179897DD5 UASIN	7167
 BOMS Beneficiary Operations Management System CBO	16384
+BOMStats	17668
 BoM Computer Emergency Response Team of Mauritius	14819
 BoM Settlement	12270
 BoM's RTGS	12270
@@ -43,6 +44,7 @@ BoM. Large	12270
 BoM. SIMO	12270
 BoM. SIMOrede	12270
 BoMRA	12606
+BoMstats	17668
 Bom Funcionamento da BDCM	11425
 Bom Governo	15391
 Bom Jesus	4044,7532,1
@@ -50,7 +52,7 @@ Boma Lathu	6592,5589
 Boma Lathu. Shadric Namalomba	6592
 Boma Yangu	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
 Bomachoge Chache	2668
-Bomalathu	230,1342,132,1368,19,3979,5229,815,1560,2115
+Bomalathu	230,1342,132,1368,19,3979,5229,815,1560,2115,923
 Bomalathu Data Exchange Platform	14674
 Bomalathu Platform	13114
 Bomas	9645

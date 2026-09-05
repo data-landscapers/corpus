@@ -157,6 +157,7 @@ Civil Service College Funded Training Courses	14835
 Clerk of Court	4896,11939
 Clerks of Courts	16943
 CoA Court of Accounts COFOG Classification	17458
+Codjo Raymond GODEMIN Cour Spéciale des Affaires	17584
 Collège Catholique Cours de Soutien	10821
 Commercial Code and Commercial Court Law	16876
 Commercial Court	12668,254,34,1262,100,2419,206
@@ -274,7 +275,7 @@ Courier Services	958,1298,1731,541,2143,5696,145
 Courier Services Private Bag CY419	4528,7984
 Courier Services. The Authority	9335
 Courier Traffic	6671,3110
-Courriel	5983,7377,1187,31,1146,179,5,626
+Courriel	5983,7377,1187,31,1146,179,5,626,1080
 Courriel de Validité	747
 Courrier	998,9026,852,2972,689,825,8,1,307,207,23,28,681
 Courrier Article	15371
@@ -360,7 +361,7 @@ Court of Accounts and Parliament	969
 Court of Accounts. Expected	15924
 Court of Accounts. Reclassified	16152
 Court of Accounts’ Execution Control	1284
-Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988,681,352,70,111,392,25,77,898,1176,190,2019
+Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988,681,352,70,111,392,25,77,898,1176,190,2019,662,2
 Court of Appeal Performance	12668
 Court of Appeal for East Africa	14409
 Court of Appeal of Kenya	13040
@@ -415,7 +416,7 @@ Courtier	15369
 Courtiers	13390
 Courtney	13405
 Courtney Rozen	14383
-Courts	958,1349,468,1086,857,1154,183,1812,513,396,202,421,733,79,564,204,844,51,7,1,455,9,43,84,195,309,63,434,474,461,333,571,391,1239,156,15,25,191,111
+Courts	958,1349,468,1086,857,1154,183,1812,513,396,202,421,733,79,564,204,844,51,7,1,455,9,43,84,195,309,63,434,474,461,333,571,391,1239,156,15,25,191,111,177,36
 Courts Act	7845,6875,10,12,67,19,3,12
 Courts Act. The Court of Rodrigues	14742
 Courts Defining the Red Lines	4583
@@ -500,6 +501,7 @@ Divisions REGIONAL Courts	12920
 Domestic Courier Operators	15136
 Dotation Cour	16047
 Dotation Haute Cour	16047
+Doxa Court Hotel	17596
 Dr. Yaouza Ouro-Sama. The Court	11704
 Draft Postal and Courier Services Policy	17105
 Duncan Mlanjira The High Court	13128
@@ -830,7 +832,7 @@ Magistrate Courts. The Supreme Court	16943
 Magistrate's Court	11628
 Magistrates Court	11628,739
 Magistrates Court Act	13311
-Magistrates' Courts	9894
+Magistrates' Courts	9894,7760
 Magistrates’ Courts Act	11181,9
 Maintenance and Children’s Court	12920
 Major MSc Computer Science Short Courses	12361
@@ -856,6 +858,10 @@ Ministry of ICT Postal and Courier Services	4528
 Mme Coura Tine	2441
 Mobile Money International Courier Transaction Counts	9781
 Modernize Postal and Courier Sector	7779
+Monsieur Camille Aristide FADE Cour	17584
+Monsieur Gbétondji Bienvenu DJOSSOU A la Cour	17584
+Monsieur Idossou Vignon Rodrigue SEDONOUGBO Cour	17584
+Monsieur Sossa Alain David AMOUSSOU Cour	17584
 Monthly and Probate Courts	16943
 Moot Court	11220,21
 Moroccan Courts of Commerce	17441
@@ -1037,6 +1043,7 @@ Republic of Sudan. The General Court	15198
 Revenue Courts	16943
 Reversal of Last Year's Court Ruling	12227
 Revising Court Magistrates	9314
+Revising Courts	17654
 Rodrigues. The District Courts	14742
 Rotterdam District Court	8904
 Royal Courts of Justice Rolls Building London	1829

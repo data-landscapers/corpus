@@ -523,7 +523,7 @@ Federation of Women Lawyers	13040
 Federation of Women Lawyers-Kenya	8948
 Female Lawyers Association Gambia GAF	16951
 Finance GIMPA Law School Dept. Faculty	10123
-Finance Law	3579,2080,634,476,655,3561,878,44,1961,1890,151,70,1015
+Finance Law	3579,2080,634,476,655,3561,878,44,1961,1890,151,70,1015,592
 Finance Law No	11900
 Financial Institutional Law	10779
 Financial Institutions Law	10779,357,3743
@@ -738,6 +738,7 @@ Labour Law National Forestry Reform Law	16843
 Labour Law. Figure	16921
 Labour Law. Participation	17114
 Labour Laws	12597
+Lagos State Electricity Law	17571,89
 Land Law No	16570
 Land Law Regulations	12137
 Land Law and Regulations	12137
@@ -756,6 +757,7 @@ Law Bookbinder Business Law Gaborone	12232
 Law CHAPITRE PREMIER	14870
 Law CHAPITRE V	14870
 Law Commission	13040
+Law Day	17618
 Law Definitions Authority Registration Data	12468
 Law Development Commission of Zimbabwe	13286,1,1,8,1,18,2
 Law El Nasser	15473
@@ -790,7 +792,7 @@ Law Ministry of Finance	12674
 Law Ministry of Justice MOPT	1777
 Law N	718,10108,85,68,1359,81,894,1634,76,11,115
 Law NSSL National Social Security Law	16843
-Law No	440,819,370,244,13,5,91,337,14,289,137,84,215,406,151,14,232,230,86,382,154,42,227,114,367,1011,406,56,391,746,1421,429,447,395,10,4,35,27,67,22,620,2,303,9,36,5,50,5,164,43,103,63,86,360,68,466,105,206,102,598,124,17,402,17,50,63,26,11,24,4,19,66,1,61,15,249,11,8,24,50,38,66,44,11,254,210,358,14,341,14,56,185,377
+Law No	440,819,370,244,13,5,91,337,14,289,137,84,215,406,151,14,232,230,86,382,154,42,227,114,367,1011,406,56,391,746,1421,429,447,395,10,4,35,27,67,22,620,2,303,9,36,5,50,5,164,43,103,63,86,360,68,466,105,206,102,598,124,17,402,17,50,63,26,11,24,4,19,66,1,61,15,249,11,8,24,50,38,66,44,11,254,210,358,14,341,14,56,185,377,113
 Law No.1	15492
 Law No.10	1259
 Law No.13	16902
@@ -829,7 +831,7 @@ Law Schools	8978
 Law Several	15473
 Law Society	4753,2525,5122,268,237,92
 Law Society of Eswatini	12473
-Law Society of Kenya	4801,1430,715,2699,398
+Law Society of Kenya	4801,1430,715,2699,398,7616
 Law Society of Lesotho	12661
 Law Society of Namibia	12905
 Law Society of Namibia. PIETER KRUGER	12951
@@ -919,6 +921,7 @@ Lawful Basis and Context of Processing	11956
 Lawful Basis for Processing	13381
 Lawful Basis for Processing Requirement	13381
 Lawful Disclosure and Access	3861
+Lawful Earnings	7763
 Lawful Use	15198
 Lawful and Irreversible Disposal	3861
 Lawfulness	1630,1500,731,8441,247,455,1520,383
@@ -1004,7 +1007,7 @@ Lawyer Osman Saleh	10334
 Lawyer Zimbabwean	4896
 Lawyer-to-population	14396
 Lawyeregypt	15473
-Lawyers	3437,1602,2340,47,1552,973,21,2014,1452,857,2558
+Lawyers	3437,1602,2340,47,1552,973,21,2014,1452,857,2558,760,2
 Lawyers Hub	6189,748,3882,3541
 Lawyers Hub Kenya	10819
 Lawyers Hub's Africa AI Governance Index	14680
@@ -1140,6 +1143,7 @@ National Forestry Reform Law	16843,297
 National Forestry Reform Law of Liberia	16843
 National Framework ESS and Requirements National Laws	1988
 National Healthcare Basis Law	10775
+National Intelligence Law	17695
 National Law	11905
 National Law No	14894
 National Law The National Registration Act	12217

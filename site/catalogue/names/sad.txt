@@ -282,9 +282,10 @@ SADC HT	13190
 SADC Harmonised Cybersecurity Legal and Regulatory Framework	26,1,1,934
 SADC Harmonised Data Protection Framework Assessment	962
 SADC Harmonised Data Protection Model Law	962
-SADC Heads of State and Government	12640
+SADC Heads of State and Government	12640,4932
 SADC High Level Ministerial Round Table	12918
 SADC High-Level Ministerial Roundtable Dialogue	13655
+SADC Higher Education Strategy	17572,5
 SADC Humanitarian Emergency Operations Centre	9761
 SADC Humanitarian and Emergency Operations Centre	9959
 SADC ICT	26,1,1
@@ -321,7 +322,7 @@ SADC Member States	318,644,389,2125,1906,4379,2634,245,31,247,11,13,20,106,587,1
 SADC Member States National Statistical Offices	14839
 SADC Member States. PART VI ENFORCEMENT	12929
 SADC Menu	12640
-SADC Ministers	26,1,1,6692,6222,20
+SADC Ministers	26,1,1,6692,6222,20,4610
 SADC Ministers of Foreign Affairs	9761,2879
 SADC Mobile Broadband Gap Analysis Guidelines	12918
 SADC Model Cyber Security Strategy	318
@@ -388,10 +389,11 @@ SADC Postal E-commerce and Trade Facilitation Guidelines	12918
 SADC Postal Strategy	12942,713
 SADC Principles and Guidelines	9761,2440
 SADC Programmes. In the ICT and Information Sectors	12918
-SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231,165,18,25,6,25,13,664,1156,322
+SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231,165,18,25,6,25,13,664,1156,322,2746
 SADC Protocol of Gender and Development. The Government	12939
 SADC Protocols	12942,20,1864
 SADC Public Lecture	12640
+SADC Qualifications Framework	17572
 SADC RIDMP Executive Summary.pdf	23
 SADC RIDMP ICT	1007
 SADC RISDP	12964
@@ -428,7 +430,7 @@ SADC SR-CIRT Task Force	5780
 SADC Samkeliso Shongwe	9236
 SADC Secondary Essay Competition	12975
 SADC Secondary School Essay Competition	12962
-SADC Secretariat	318,644,2514,618,1785,983,2899,312,96,2471,31,25,246,9,11,87,1218,63,509
+SADC Secretariat	318,644,2514,618,1785,983,2899,312,96,2471,31,25,246,9,11,87,1218,63,509,2738
 SADC Secretariat Contact	962
 SADC Secretariat Dear Sirs	962
 SADC Secretariat Director of Infrastructure Ms Mapolao	12918
@@ -439,6 +441,7 @@ SADC Seed Protocol	14818
 SADC Senior Legal Officials	14826
 SADC Senior Officials Standing Committee	12962
 SADC Seychelles	10421
+SADC Simplified Trade Regime	17622
 SADC Southern Africa Development SAFE Simple	12376
 SADC Southern African Development Community	12786
 SADC Southern African Development Community SASRA	2775
@@ -467,7 +470,9 @@ SADC Tribunal	961
 SADC Troika. Summit	12640
 SADC UMOA UMOA UMOA UMOA Namclear	6938
 SADC Universal Postal Service and Access Regulatory	12918
+SADC University of Transformation	17572,5
 SADC Validation Workshop. Secretariat	962
+SADC Vice Chancellors' Meeting	17572
 SADC Vision	1600,8161,198,210,152,2319,1015
 SADC WRC-27	8881
 SADC Women and Youth Empowerment	12918
@@ -608,7 +613,9 @@ Upper Saddle River	3782
 Voucher of Correction SAD503	13108
 WRC-27. As SADC	9292
 WTO and SADC	13320
+Wale Sadeeq	17634
 Walid SADI	16230,114
+Wits University SADC Vice-Chancellors	17577
 World Bank-funded SADC Regional Statistics Project	3476
 XOG-SIDAHA CUTUBKA SADDEXAAD	14930
 Y SOC SADIO ET FRERES SADIO	16623

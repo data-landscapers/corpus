@@ -529,7 +529,7 @@ External-Company-Registration-v 1 2-31-Mar-2026.pdf	12041
 Externalisation	10836,303,4496
 Externalisation Article	10836,4799
 Externalized	8460
-Externally	3255,2278,144,1932,412,3110,855,646,2290,1344,618,1
+Externally	3255,2278,144,1932,412,3110,855,646,1519,771,1344,618,1
 Externally-financed	1756,1,4,1,2,1376,4,1,2,3765,4,1,2
 Externallymaintained	8606
 Externe Conjointe	14622
@@ -631,7 +631,7 @@ Extraordinary Meeting Number	7912
 Extraordinary Meeting of GCC Ministerial Council Prime	16114
 Extraordinary SADC Summit	14721
 Extraordinary Session	14138,1503
-Extraordinary Summit	12640,1230,268
+Extraordinary Summit	12640,1230,268,3429
 Extrapolating	5820,5184,898,62
 Extrapolating Regressions	236
 Extrapolation	17140
@@ -874,7 +874,7 @@ Ministries and Other Extra-Budgetary Institutions	2775
 Ministro de Asuntos Exteriores	16871,190,244
 Ministro de Asuntos Exteriores de Nigeria	17175
 Ministro de Estado de Asuntos Exteriores	17175,50,80
-Ministry of External Affairs	4576,5173,3223,537,465,1410,73,780,19,21,54,909
+Ministry of External Affairs	4576,5173,3223,537,465,1410,73,780,19,21,54,909,302
 Ministry of External Affairs. The South African	6480
 Ministry of External Relations	4220,6555,66
 Ministry’s Agricultural and Animal Extension	17157
@@ -1018,6 +1018,7 @@ STATE AND GOVERNMENT AT THE EXTRAORDINARY	4114
 STRUCTURED EXTRACT	11572
 STRUCTURED EXTRACT of Guinea-Bissau	11563
 SWAZILAND GOVERNMENT GAZETTE EXTRAORDINARY VOL. LVI	12916
+SWIMS External Referral Portal	17741
 Safaricom Ethiopia’s Chief External Affairs Officer	15319
 Satellite Analysis Exposes Extreme Farmland	15229
 Score Extensive	11252

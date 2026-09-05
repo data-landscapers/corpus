@@ -142,7 +142,7 @@ Advanced Encryption Standard API Application Programming	11952
 Advanced GIS Training Programme	5805
 AfCFTA Digital Inclusion and Entrepreneurship Programme	7039,103,1893
 AfCFTA Startup Accelerator Partnership Program	10476
-AfCFTA Startup Partnership Program	10476
+AfCFTA Startup Partnership Program	10476,7077
 AfDB Implementation Progress and Results Report	13966
 AfDB Trade Finance Program	10718
 AfDB's Trade Finance Program	10718
@@ -154,7 +154,7 @@ Afreximbank Trade Finance and Trade Facilitation Program--to	10718
 Africa AI Accelerator Program	4126
 Africa AI Upskilling Programme	9633,1,966
 Africa AI Upskilling Programme. The University	10541
-Africa Acceleration Program	10476
+Africa Acceleration Program	10476,7077
 Africa Adaptation Acceleration Program	17257
 Africa Agriculture Acceleration Program	16144
 Africa Blue Economy Accelator Programme	11283,5088
@@ -249,7 +249,7 @@ Application Programme	11960
 Application Programme Interfaces	13346
 Application Programming	13461
 Application Programming Information APP Annual Performance	5533
-Application Programming Interface	1333,4332,1847,946,359,2316,1160,269,35,750,48,211,784,49,44,191,145,78,126,1522,399,5
+Application Programming Interface	1333,4332,1847,946,359,2316,1160,269,35,750,48,211,784,49,44,191,145,78,126,1522,399,5,608
 Application Programming Interface ASYCUDA Automated System	13042
 Application Programming Interface ATI	5244
 Application Programming Interface ATS Automated Transfer	15023
@@ -259,7 +259,7 @@ Application Programming Interface CA	14438
 Application Programming Interface CDO Chief Digital	12674
 Application Programming Interface CDSS Clinical Decision	9855
 Application Programming Interface. The Application	12419
-Application Programming Interfaces	1243,461,1948,435,1157,2275,4903,583,87,51,245,3561
+Application Programming Interfaces	1243,461,1948,435,1157,2275,244,4659,583,87,51,245,3561
 Apprenticeship Program	1204
 Apprenticeship Training Programme	16973
 Approach Programmable	11130
@@ -550,6 +550,7 @@ Challenges for Social Programm	12373
 Challenges for Social Protection Programmes	12923
 Champion of AI’ Programme. The Programme	14829
 Change Makers Programme	9103
+Change Programs	17735
 Chargé du Programme Sciences Humaines	16292
 Chargés de Programmes Genre	15383
 Chartered Bankers Program	17235
@@ -788,6 +789,7 @@ Define Program Objectives	12675
 Defines the Application Programming Interface	11269
 Degree Programs Diploma Programs Short-term Courses	17232
 Delivery Program for Results	10870
+Delivery of Financial Literacy Programmes	7763
 Demerger Plan. Progress	15983
 Democracy Advancement Program	17139
 Democratic Progressive Party	4790,8332,1552
@@ -925,6 +927,7 @@ Digital Skills Programs Led	14897
 Digital Skills Training Program	17190
 Digital Skills Training Programme	7182,5271,892
 Digital Skills and Literacy Programme	12453,892
+Digital Superhighway Programme	17706
 Digital Terrestrial Free-To-Air Television Programme Channel	236
 Digital Transformation Acceleration Program	6444,1140
 Digital Transformation Program	9756
@@ -1077,7 +1080,7 @@ EXIM Powers American AI Exports Program	11310
 EXIM's China and Transformational Exports Program	2158,1324,144
 Early Support Programme	14742
 Eastern Africa Regional Digital Integration Program	1264,16,10965,1630,135
-Eastern Africa Regional Statistics Program for Results	8527
+Eastern Africa Regional Statistics Program for Results	8527,9119
 Eastern Deanery AIDS Relief Program Data	7167
 Eastern and Southern Africa Multiphase Programmatic Approach	13058,1518,1121
 Eastern and Southern Africa Program	1039,731
@@ -1448,7 +1451,7 @@ Ghana Secondary Cities Support Programme	16163,361
 Ghana’s One Million Coders Programme	5298
 Girls and Learning Programme Component	13999
 Global AgriConnect Platform Advisory Program	11469
-Global Agriculture and Food Security Program	13083
+Global Agriculture and Food Security Program	13083,4530
 Global Challenge Programs	11417
 Global Cybercrime Programme	10848
 Global Disability Fund Programme	13219
@@ -1605,6 +1608,7 @@ ID PROGRAM Annex	12257
 ID PROGRAM Contents Overview	12257
 ID PROGRAM ENHANCED PROTECTION AND SOLUTIONS	12257
 ID PROGRAM Overview Refugees	12257
+ID Program	14151
 ID4D Assessment and Liberia Digital Programmatic Advisory	16949
 ID4D Program	10775
 IDA Program Financing	15693
@@ -1687,6 +1691,7 @@ Implementation Progress	2989,8976,543,472,47,365,618,1609,74,42,23,24,20,167,218
 Implementation Progress MU	14971
 Implementation Progress Notable	14916
 Implementation Progress Report	13966
+Implementation Progress Snapshot	7763
 Implementation Progress and Components	996
 Implementation Progress and Results Report	14132
 Implementation Status and Key Decisions Progress	11988
@@ -1697,6 +1702,7 @@ Implementation of The Capital Programme	12976
 Implementing Agency MI Program	15372
 Implementing Empowerment Programmes and Schemes	14835
 Improved Child Survival Program for IPF Human	11469
+Improvement Programme	17717
 Inadequate Technical Support for Digital Program Evaluations	12214
 Inclusao Program Page	11855
 Inclusion PISP Social and Productive Inclusion Program	16187
@@ -1731,6 +1737,8 @@ Innovation Programme	7548
 Innovation Start-Up Programme	14786
 Innovation Valorization Support Program	2544
 Innovation and Digital Acceleration Program	17458
+Innovative Policies and Programmes	7763
+Innovative Policies and Programmes BOT	7763
 Innovative Programme	12453,892
 Innovative SME Programmes	14752
 Input Subsidy Programme	12956
@@ -1785,6 +1793,7 @@ Intrants Programmes Extrants Effets	10712
 Introduction The Public Sector Investment Programme	14830
 Introduction The Social Cash Transfer Programme	12182
 Introduction of Formal Training and Study Programmes	13998
+Inuka Programme	7763
 Investment Program	17190
 Investment Program PRSP Poverty Reduction Strategy	16614
 Investment Programme ONSA Office	11857
@@ -2236,6 +2245,7 @@ NICHE Program	14546
 NICHE Program Review	14546
 NID Principles The National ID Program	12281
 NIGERIA Progress	11854
+NIL ZEEA INUKA PROGRAM	7763
 NOTATION DU PROGRAMME PAR LA MISSION	16105
 NSDS II WORK PROGRAMME	13965
 NTI and ESE. The AI Ambassadors Program	16123
@@ -2307,6 +2317,7 @@ National Emergency and Humanitarian Action Program	11900
 National Female Pre-Tech Training Programme	4126
 National Financial Education Program	11994
 National Financial Education Program. Successfully	17235
+National Financial Education Programme	7763
 National Food Security Programme	14254,564
 National General Education Progress Report	1358
 National Greenhouse Gas Inventories Programme	17140
@@ -2834,7 +2845,7 @@ Profile and Management Trainee Program	17235
 Profile and Management Trainee Program The CBL	17235
 Progr6s	15497
 ProgrFaomnateN	15694
-Program	602,367,235,80,78,342,120,43,47,340,37,43,143,73,162,69,185,39,548,51,117,131,184,145,120,237,79,71,705,47,126,17,87,103,102,413,49,202,40,253,96,6,133,142,217,92,72,287,618,443,84,57,211,482,505,486,2,3,7,5,39,3,6,1,27,14,93,1,21,148,2,137,123,22,52,56,35,295,8,4,38,1,10,7,16,26,6,17,6,157,25,5,5,28,174,124,22,129,3,312,49,31,273,1,130,26,32,221,15,164,84,542,30,27,71,177,61,23,2,21,18,4,49,2,3,96,29,26,187,181,25,23,20,42,34,16,22,2,15,258,3,19,47,65,43,197,52,7,262,191,26,27,22,23,6,11,68,17,18,25,10,8,28,24,26,22,69,13,25,94,12,35
+Program	602,367,235,80,78,342,120,43,47,340,37,43,143,73,162,69,185,39,548,51,117,131,184,145,120,237,79,71,705,47,126,17,87,103,102,413,49,202,40,253,96,6,133,142,217,92,72,287,618,443,84,57,211,482,505,486,2,3,7,5,39,3,6,1,27,14,93,1,21,148,2,137,123,22,52,56,35,295,8,4,38,1,10,7,16,26,6,17,6,157,25,5,5,28,174,124,22,129,3,312,49,31,273,1,130,26,32,221,15,164,84,542,30,27,71,177,61,23,2,21,18,4,49,2,3,96,29,26,187,181,25,23,20,42,34,16,22,2,15,258,3,19,47,65,43,197,52,7,262,191,26,27,22,23,6,11,68,17,18,25,10,8,28,24,26,22,69,13,25,94,12,35,108
 Program A. Actions Taken Under the Program	13756
 Program ANACM National Agency of Civil Aviation	13729
 Program Action Plan	11905,271,882,2974,1426
@@ -3058,7 +3069,7 @@ Programa De Las Naciones Unidas Para	16979
 Programa Democracia	12787
 Programa Detalhado	4455,647
 Programa Económico Regional	16898,189
-Programa Espacial Nacional	5405,1180,25,28,361,1544,2529,324,1,31,9,387,13,3426
+Programa Espacial Nacional	5405,1180,25,28,361,1544,2529,324,1,31,9,387,13,3426,2277
 Programa Especial de Protecção	539
 Programa Estadístico Nacional	16898
 Programa Estadístico STAT-CEMAC	16898
@@ -3240,7 +3251,7 @@ Programmation Financière	10874
 Programmation Militaire MM Mali-Mètre NSP Ne	6959
 Programmation des Ressources	14580
 Programmation du Développement	6578
-Programme	12,14,1,1,64,37,127,6,202,59,120,6,88,48,4,50,22,38,101,85,43,28,33,108,22,1,1,42,98,67,73,6,1,1,3,136,7,30,2,8,19,4,156,69,1,1,1,30,132,110,24,58,295,80,100,15,6,1,1,3,65,53,26,112,18,27,2,4,51,67,12,51,7,128,80,34,44,285,110,49,194,1,1,1,40,33,1,1,8,78,18,227,373,79,1,1,1,395,81,29,351,195,79,27,87,1,1,1,44,73,30,281,8,1,14,73,128,2,4,75,52,42,3,113,174,34,70,143,17,73,108,79,116,69,12,47,34,118,78,63,13,175,94,11,93,67,55,243,64,88,121,4,31,208,27,52,112,87,3,133,251,52,119,100,43,1,9,4,5,2,60,6,1,22,10,5,5,146,2,1,22,4,28,10,20,6,4,2,18,2,11,11,13,3,44,193,11,16,34,163,119,22,15,8,41,27,5,255,132,48,23,285,90,92,40,11,8,8,4,2,40,18,7,59,14,79,41,49,21,2,11,6,7,3,8,28,51,5,9,18,1,1,43,20,6,16,88,16,38,56,15,21,406,56,72,86,18,52,1,16,1,1,47,12,11,49,13,36,15,45,3,17,4,6,10,15,2,55,5,69,21,2,18,94,47,78,83,46,122,8,37,7,7,1,3,1,10,4,7,15,24,3,26,1,6,5,3,8,8,40,4,18,9,3,12,5,22,8,2,2,1,16,3,13,1,25,18,16,28,3,11,5,1,8,28,7,25,3,25,4,34,19,18,1,47,42,24,25,12,22,10,6,5,20,3,57,17,8,32,4,13,3,43,6,18,32,120,1,3,2,15,4,3,47,16,25,14,3,119,44,56,120,14,9,59,13,1,66,49,33,45,4,121,12,9,5
+Programme	12,14,1,1,64,37,127,6,202,59,120,6,88,48,4,50,22,38,101,85,43,28,33,108,22,1,1,42,98,67,73,6,1,1,3,136,7,30,2,8,19,4,156,69,1,1,1,30,132,110,24,58,295,80,100,15,6,1,1,3,65,53,26,112,18,27,2,4,51,67,12,51,7,128,80,34,44,285,110,49,194,1,1,1,40,33,1,1,8,78,18,227,373,79,1,1,1,395,81,29,351,195,79,27,87,1,1,1,44,73,30,281,8,1,14,73,128,2,4,75,52,42,3,113,174,34,70,143,17,73,108,79,116,69,12,47,34,118,78,63,13,175,94,11,93,67,55,243,64,88,121,4,31,208,27,52,112,87,3,133,251,52,119,100,43,1,9,4,5,2,60,6,1,22,10,5,5,146,2,1,22,4,28,10,20,6,4,2,18,2,11,11,13,3,44,193,11,16,34,163,119,22,15,8,41,27,5,255,132,48,23,285,90,92,40,11,8,8,4,2,40,18,7,59,14,79,41,49,21,2,11,6,7,3,8,28,51,5,9,18,1,1,43,20,6,16,88,16,38,56,15,21,406,56,72,86,18,52,1,16,1,1,47,12,11,49,13,36,15,45,3,17,4,6,10,15,2,55,5,69,21,2,18,94,47,78,83,46,122,8,37,7,7,1,3,1,10,4,7,15,24,3,26,1,6,5,3,8,8,40,4,18,9,3,12,5,22,8,2,2,1,16,3,13,1,25,18,16,28,3,11,5,1,8,28,7,25,3,25,4,34,19,18,1,47,42,24,25,12,22,10,6,5,20,3,57,17,8,32,4,13,3,43,6,18,32,120,1,3,2,15,4,3,47,16,25,14,3,119,44,56,120,14,9,59,13,1,66,49,33,45,4,121,12,9,5,66,87,64
 Programme ACCESS CAIDP	3340
 Programme AIA Appropriation In Aid AIDS	2775
 Programme Africain	15599
@@ -3487,7 +3498,7 @@ Programme de Développement Durable. Ce	15685
 Programme de Développement Local	15741
 Programme de Développement des Ressources Humaines PPEA	15475
 Programme de Développement des Services de Santé PEC	15423,262
-Programme de Filets de Protection Sociale Productifs	10869,5004
+Programme de Filets de Protection Sociale Productifs	10869,5004,1711
 Programme de Gouvernance Numérique du Secteur Public	16328
 Programme de Lutte	16627
 Programme de Mise	14529
@@ -3495,7 +3506,7 @@ Programme de Modernisation	557,14985
 Programme de Modernisation Urbaine	15542
 Programme de Performance Administratif	10975
 Programme de Pro-	2342
-Programme de Productivité	16627
+Programme de Productivité	16627,957
 Programme de Productivité Agricole	16627
 Programme de Promotion	15542
 Programme de Refondation	8387
@@ -3510,7 +3521,7 @@ Programme de Transport	15542
 Programme de Travail Trimestriel RESA	10874
 Programme de Vérification des Imp	15999
 Programme de Vérification des Importations	15999
-Programme des Nations	3850,757,1475,3212,1237,3166,97,1043,978,129,431,29,284,2
+Programme des Nations	3850,757,1475,3212,1237,3166,97,1043,978,129,431,29,284,2,870
 Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91,979,1433,99,107,34,825,92,8,75,5,31,821,1,247,2,59,65,486,144,163,3,26,13,788
 Programme des Nations-Unies	1684,9028,4958
 Programme des Reformes Economique	15659
@@ -3571,7 +3582,7 @@ Programmed	14997
 Programmer	1005,10857,831,308,374,1050,736,1167
 Programmer and Data Processor	17043,84
 Programmers	8025,3835,3730
-Programmes	735,235,244,1561,621,730,2706,114,1375,916,379,8,1198,54,258,5,85,6,1734,377,27,22,30,22,20,8,211,4,723,81,1,76,330,226,277,35,26,7,20,13,42,26,12,24,81,5,34,56,68,88,54,372,165,325,32,18
+Programmes	735,235,244,1561,621,730,2706,114,817,558,916,379,8,1198,54,258,5,85,6,1734,377,27,22,30,22,20,8,211,4,723,81,1,76,330,226,277,35,26,7,20,13,42,26,12,24,81,5,34,56,68,88,54,372,165,325,32,18,682
 Programmes Administration	11986
 Programmes Administration Générale	1598
 Programmes By Age	12151
@@ -3601,6 +3612,7 @@ Programmes de Dénationalisation	15399,1
 Programmes de Filets Sociaux de Sécurité.pdf	13714
 Programmes de Formation Avenue Abdoulaye FADIGA	10237
 Programmes du Ministère Améliorer	15999
+Programmes for Access	7763
 Programmes&publication year	1219
 Programmes. Original Development Objective	15990
 Programmes. Under the Governance Pillar	11791
@@ -3871,6 +3883,7 @@ Regional Fibre Connectivity Programme	12985
 Regional Indicative Strategic Programme	12975
 Regional Program	13938
 Regional Program Coordinator and Dean	14663
+Regional Programme Manager	17620
 Regional Programs	11839
 Regional Statistical Program	8532
 Regional Training Programme	5677
@@ -3933,6 +3946,7 @@ Rural Development Support Programme	10841
 Rural Electrification Programme	13123,351,948
 Rural Electrification Programme Fund	14422
 Rural Enterprises Programme	11032
+Rural Financial Education Programme	7763
 Rural Health Motivators Programme	12976
 Rural Sanitation Programme	12373
 Rural Trends Progress and Regional Patterns	4130
@@ -4127,8 +4141,9 @@ Smart Africa and EAC Digital Programs. Event	13457
 Smart Education and Smart Health Programmes	13685
 Smart Labs Programme	5444
 Smart Policing Programme	9394
-Social Assistance Programme	3602
+Social Assistance Programme	3602,4161
 Social Assistance Programmes	12373
+Social Assistance Programmes The Government	7763
 Social Assistance Programs	11998
 Social Assistance Programs and Delivery	16902
 Social Cash Transfer Caseload Programme	13399
@@ -4240,6 +4255,7 @@ Sudan Family Support Program Design and Performance	15064
 Sudan Family Support Program Experience	15064
 Sudanese Society for Information Technology. D. PROGRESS	14853
 Suivi CTGP Comité Technique de Gestion de Programme	10712
+Suivi des Programmes	17584
 Suivi du Programme de Reforme	14430
 Suivi. Chaque Comité Technique de Gestion de Programme	10712
 Suivre le DHS Program	13300
@@ -4496,7 +4512,7 @@ United Nations Development Program UNECA United	13005,3916
 United Nations Development Program UNICEF United	13332
 United Nations Development Program USAID	16975
 United Nations Development Program. Experts	3583
-United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43,207,64,6,138,8,482,3,105,14,64,15,6,66,186,14,46,13,30,37,29,1,28,12,9,203,106,48,58,4,62,321,85,130,27,24,281,240,57,26,27,6,9,15,75,6,24,12,2,9,15,41,3,13,58,14,15,4,58,48,1
+United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43,207,64,6,138,8,482,3,105,14,64,15,6,66,186,14,46,13,30,37,29,1,28,12,9,203,106,48,58,4,62,321,85,130,27,24,281,240,57,26,27,6,9,15,75,6,24,12,2,9,15,41,3,13,58,14,15,4,58,48,1,171,23,55,3,61
 United Nations Development Programme DPI Safeguards	11940
 United Nations Development Programme Equatorial Guinea	17101
 United Nations Development Programme GDP	17101

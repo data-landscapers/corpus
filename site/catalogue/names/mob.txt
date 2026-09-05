@@ -111,6 +111,7 @@ Asel Mobile. Ooredoo	1818
 Atribuição de Maritime Mobile Service Identity	11531
 Autentika Cabo Verde Mobile Digital Key	11875
 Authorisation ITU Mobile Alert Communication Management	1009
+Authorities MFIs Microfinance Institutions MNOs Mobile	7763
 Avenue Mob	3386
 Average Mobile	2776,12121
 Average Mobile Data Price	6946
@@ -347,6 +348,7 @@ Development Fund's Mobile Money	12376
 Development of Mobile Digital Wallet	12241
 Development of Mobile Digital Wallet Following	13080
 Diaspora Mobilisation Policy	11960
+Digital Financial Services Adoption Mobile	7763
 Digital Financial Services Mobile	15130
 Digital ID Mobile App Wallet	13080,15
 Digital ID Mobile Wallet	13095
@@ -438,6 +440,7 @@ Eswatini Mobile and Eswatini MTN. Payments	12976
 Eswatini Mobile and Jenny Internet	12395
 Eswatini's Mobile Government Initiative	13132
 Eswatini.net Eswatini Mobile MTN Real	12395
+Ethiopia’s Green Mobility Initiative	14151
 Evaluation of InfoDev’s Mobile Innovation Support	15411
 Every Mobile ID	14716
 Evidence-Based Analysis for Mobilizing Domestic Revenue. IMF	10997
@@ -461,6 +464,7 @@ Faiba Mobile	9940
 Fast Tracking Generation and Mobilizing the Private Sector	12399
 Fayda Mobile Application	12281
 Fex Delivery and Drive45 Mobility	14705
+Fiberization of Mobile Sites Within	14151
 Fibre Optique Chiffre Mobile	13324
 Fibre and Mobile Network Expansion Orange	1548
 Figure ES.1 Mobile	10977
@@ -540,7 +544,7 @@ GSMA Mobile Internet Skills Training Toolkit.45	11004
 GSMA Mobile Money	5820
 GSMA Mobile Money API	2633
 GSMA Mobile Money API Compliant	2633
-GSMA Mobile Money Certification	3463
+GSMA Mobile Money Certification	3463,10688
 GSMA Mobile Money Data	5232
 GSMA Mobile Money Deployment Tracker	10977,4541
 GSMA Mobile Money Program	66,306
@@ -921,7 +925,7 @@ MTN MOBILE MONEY	10821,1571
 MTN MOBILE MONEY Commune	10821
 MTN MoMo and Eswatini Mobile	3422
 MTN Mobile	12376
-MTN Mobile Money	1537,724,696,693,611,2735,166,537,1067,2057,709,4721,689
+MTN Mobile Money	1537,724,696,693,611,2735,166,537,1067,2057,709,4721,689,601
 MTN Mobile Money Company and Airtel Money	10299
 MTN Mobile Money Corporation	6601
 MTN Mobile Money General Manager	4261
@@ -1005,7 +1009,7 @@ Mobiil-ID F25	10714
 Mobil Banking	3715
 Mobil Component	17219
 Mobil Money	6045
-Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,24,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,140,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22,30,39,13,23,24,5,4,11,22,5,32,3,21,22,4,1,16,4,8,33,51,7,54,69,1,75,1,40,67,1,15,3,1,3,94,297,224,123,2,23,63,8,39,1,10,6,2,33,9,34,27,35,26,8,13,12,10,38,41,7,4,11,126
+Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,10,14,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,53,87,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22,30,39,13,23,24,5,4,11,22,5,32,3,21,22,4,1,16,4,8,33,51,7,54,69,1,75,1,40,67,1,15,3,1,3,94,297,224,123,2,23,63,8,39,1,10,6,2,33,9,34,27,35,26,8,13,12,10,38,41,7,4,11,126,163,11
 Mobile AI-Powered Diagnostics Equip	17157
 Mobile Access Centers	2868
 Mobile Accessibility	11952
@@ -1135,6 +1139,7 @@ Mobile Data and Broadband Services	6671
 Mobile Data and Broadband Subscriptions	6671
 Mobile Data and Broadband3 Services	6671
 Mobile Data and Fixed Broadband	11262
+Mobile Data and Mobile Voice	14151
 Mobile Data and Voice Low	12395
 Mobile Data and Voice Low Consumption Basket	12395
 Mobile Data for Humanitarian Action	6024
@@ -1209,7 +1214,7 @@ Mobile Institution Title	16189
 Mobile Intelligence Limited	3862
 Mobile International Voice Traffic	15136
 Mobile International Voice Traffic Trends	15136
-Mobile Internet	6000,11,3466,304,3514,49,1792,1827
+Mobile Internet	6000,11,3466,304,3514,49,1792,1827,742
 Mobile Internet Connectivity	11004
 Mobile Internet Connectivity SSA Factsheet	15447,33
 Mobile Internet Growth Projections	12035
@@ -1239,7 +1244,7 @@ Mobile Money	98,320,164,164,178,315,25,997,175,25,234,70,20,100,148,66,1,208,15,
 Mobile Money Accounts	16975
 Mobile Money Advocacy Group	10249
 Mobile Money Agent SIM Cards	15136
-Mobile Money Agents	12978
+Mobile Money Agents	7763,5215
 Mobile Money Agents Association of Ghana	3543
 Mobile Money Confirmez	16430
 Mobile Money Congo S.A	2436
@@ -1259,6 +1264,7 @@ Mobile Money Interoperability	8412,4078,4629
 Mobile Money Interoperability Ghana	4908
 Mobile Money KYC	14674
 Mobile Money Limited	8766
+Mobile Money Limited Ghana	17742
 Mobile Money Linked SIM Cards	15136
 Mobile Money Manager-Northern	8766
 Mobile Money Micro-transactions	14674
@@ -1297,6 +1303,7 @@ Mobile Money Transaction Levy Act	13496
 Mobile Money Transactions	13346
 Mobile Money Transfer Services	2743,3928
 Mobile Money War Goes Physical	6996
+Mobile Money Zambia	17742
 Mobile Money and Banki Pafupi Agents	12182
 Mobile Money and Financial Inclusion Report. Retrieved	12214
 Mobile Money and Financial Inclusion of Migrants	12297
@@ -1331,7 +1338,7 @@ Mobile Network Operator NCR	14948
 Mobile Network Operator SSA	1551
 Mobile Network Operator and Market Share	2776
 Mobile Network Operator and Market Share Mobile	2776
-Mobile Network Operators	479,103,136,240,852,528,438,236,850,1520,57,242,319,238,652,56,455,532,1177,136,1031,130,813,39,598,478,60,164,419,366,188,37,38,583,590,42,3,54,18,223,16,1736,17,79,7,8,122,145
+Mobile Network Operators	479,103,136,240,852,528,438,236,850,1520,57,242,319,238,652,56,455,532,1177,136,1031,130,813,39,598,478,60,164,419,366,188,37,38,583,590,42,3,54,18,223,16,1736,17,79,7,8,122,145,455
 Mobile Network Operators Fintech Companies Pension	12701
 Mobile Network Operators Fixed Network Operators	12395
 Mobile Network Operators Malawi National Social	10763
@@ -1492,7 +1499,7 @@ Mobile Virtual Network Operators NDS1	958
 Mobile Virtual US	736
 Mobile Virtual VAT	736
 Mobile Virtuol Network	15429
-Mobile Voice	2776,1086
+Mobile Voice	2776,1086,10289
 Mobile Voice Call Traffic	3862
 Mobile Voice Machine-to-Machine	2776
 Mobile Voice Minutes Others	6671
@@ -1517,7 +1524,7 @@ Mobile Weather Stations	17157
 Mobile Word Congress	5311
 Mobile Workforce Enablement	16923,1
 Mobile World Conference	5778
-Mobile World Congress	1634,515,373,575,37,1587,577,35,6,20,419,3751,3,4859
+Mobile World Congress	1634,515,373,575,37,1587,577,35,6,20,419,3751,3,4859,3260
 Mobile World Congress Barcelona	5390
 Mobile and Broadband Statistics and Analyses	14897
 Mobile and Digital Services	4207
@@ -1549,7 +1556,7 @@ Mobile-InternetConnectivity-SSA-Factsheet.pdf	15480
 Mobile-Optimised Checkout	4988
 Mobile-Regional	2534
 Mobile-Satellite Service	736
-Mobile-based	5911,3567,1462,1050,298
+Mobile-based	5911,1852,1715,1462,1050,298
 Mobile-based UNESCO	5908,442
 Mobile-broad	10844
 Mobile-broadband	10844,719,3908,163,1249
@@ -1604,14 +1611,14 @@ Mobilis	1886,266,2016,27,779,84,3770,2933,3710
 Mobilis and Djezzy	2152
 Mobilis and Ooredoo	8828
 Mobilisant	8891
-Mobilisation	1679,314,349,822,232,2987,1287,173,1204,1664,1,146,16,1,1,89,223,855,1305,85,43,37,912,63,1,1,132,313,446,161,38,3,90,51,14,8,37,14,51,189,10,122,36,277,63,339,217,384
+Mobilisation	1679,314,349,822,232,2987,1287,173,1204,1664,1,146,16,1,1,89,223,855,1305,85,43,37,912,63,1,1,132,313,446,161,38,3,90,51,14,8,37,14,51,189,10,122,36,277,63,339,217,384,191
 Mobilisation and Costing	16884
 Mobilisation and Registration Division Manager	8838
 Mobilisation and Research Promotion Partnerships RCZ	1554
 Mobilisation des	3396
 Mobilisation des Partenariats Catégories	15851
 Mobilisation des Parties Prenantes	15908
-Mobilisation des Ressources	16485
+Mobilisation des Ressources	16485,1099
 Mobilisation des Ressources Internes	8557
 Mobilisation des Ressources Internes Mbps Mégabits	16626
 Mobilise	940,874,5225,4149,1052,402,322,1854,2283
@@ -1694,6 +1701,7 @@ Mobutu	11864
 Mobutu. Lors	6390
 Modeling the Diffusion of Mobile Technologies. Saarbrücken	11310
 Moderate Mobile	11994
+Monsieur Moboladji Mouazim CHITOU	17584
 Monty Mobile	9610,1
 Monty Mobile BluePeak Private Capital Fund	9611
 Monty Mobile International	9610,1
@@ -2067,7 +2075,7 @@ System for Mobile Communication Association HEIS Hands-on	1264
 System for Mobile Communication IAP Internet Access	13295
 System for Mobile Communications Association GV-AP Virtual	15621
 System for Mobile Communications Association HBW Home-based	16876
-T2 Mobile	8929
+T2 Mobile	8929,8800
 TITULAIRES DE LICENCES DE TELEPHONIE MOBILE	15885
 TN Mobile	1013
 TN Mobile. Paratus	3459

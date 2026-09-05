@@ -168,6 +168,7 @@ Challenges and Digital Transformation The Department	11218
 Chefe de Departamento	4218,7164
 Chefe de Departamento de Estudos	11391
 Chefes de Departamento	11382,67
+Chemical Engineering Department	17648
 Child Online Protection Department	4583
 Children’s Department	12977
 China and India. The Department of Home Affairs	11236
@@ -367,12 +368,13 @@ Depart Form	11986
 Depart-	16836
 Departa	11561
 Departamento	1701,2508,7172,54,14,170,3884,1368,27,124,172
+Departamento Autónomo de Tecnologias de Informação	17604
 Departamento Especializado	10750
 Departamento Financeiro	15503
 Departamento Forestal Miriam Minerva ONDO MBANG	16875
 Departamento Governamental	11901,3532,139,117
 Departamento Governativo	11361
-Departamento Jurídico	11449
+Departamento Jurídico	11449,6121
 Departamento Minis	16898
 Departamento Ministerial	167,382,195,50,3352,1,71,6536,29,578,20,1,2,2,4,6,1,22,24,2,4,9,5380,17,43
 Departamento Ministerial Departamentos Ministeriales	16898
@@ -389,6 +391,7 @@ Departamento de Acreditação	11381
 Departamento de Administração	167,4051,7163,1,67
 Departamento de Administração de Sistemas	11382
 Departamento de Apoio	4218,7163,1
+Departamento de Aquisições PEDIDO DE MANIFESTAÇÃO	17604
 Departamento de Assessoria Técnico-Jurídico	167
 Departamento de Auditoria	167
 Departamento de Avaliação de Desempenho	167
@@ -568,7 +571,7 @@ Department of Boundary Management	17228
 Department of Budget and Development Planning	16963
 Department of Buildings	12253,724
 Department of Business	9128
-Department of Business Administration	6936
+Department of Business Administration	6936,10712
 Department of Business Development	12625
 Department of Business Information Systems	2093
 Department of Children Services	2775,6308
@@ -598,6 +601,7 @@ Department of Communications and Digital	10729
 Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230,350,63,32,57,2676
 Department of Communications. Accenture	428
 Department of Community Development	11133,5734,85
+Department of Community Health and Behavioral Sciences	17735
 Department of Computer Science	766,4647,3191,1779,953,919,106,660,1332
 Department of Computer Science Home Programmes BSc	12361
 Department of Computer Science and Information Technology	10323
@@ -669,7 +673,7 @@ Department of Economic and Social Affairs Statistics Custom	13824
 Department of Economic and Social Affairs TECHNICAL APPENDIX	14006
 Department of Economic and Social Affairs USD United	13388
 Department of Economic and Social Affairs.2	12376
-Department of Economics	5700,3649,185
+Department of Economics	5700,3649,185,8114
 Department of Economics and Social Affairs. World Health	12367
 Department of Education	7167,3080,92,841,953
 Department of Education Sector Planning	14922
@@ -705,9 +709,11 @@ Department of Gender Affairs Policy Development	12642
 Department of Gender and Family	12977
 Department of Gender and Family Issues	12939,38
 Department of General Education DVD	13956
+Department of General Subjects	17648
 Department of Geography	10812
 Department of Geology and Mines	2889
 Department of Geomatic Engineering	9561
+Department of Geomatics and Land Management	17735
 Department of Government	14719
 Department of Government Acquire	12253
 Department of Government Efficiency	10446
@@ -732,7 +738,7 @@ Department of Higher	11986
 Department of Higher Education Programmes	13310
 Department of Higher Education and Training	5533,50,1249,790,1506,237,1029,799,32,23,29,8,18,694
 Department of Higher Education and Training DTIC	6832
-Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42,821
+Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42,821,4872
 Department of Home Affairs Annual Report	11977
 Department of Home Affairs Privatte Bag X114	11986
 Department of Home Affairs Strategic Plan	2662,9315
@@ -740,6 +746,7 @@ Department of Home Affairs The DHA	5533
 Department of Home Affairs and Government Printing Works	4786
 Department of Home Affairs and National Treasury	11940
 Department of Home Affairs. Quarterly	5533
+Department of Home Affairs. SIU	17740
 Department of Home Affairs’ Trusted Employer Scheme	9250
 Department of Home Affair’s ID	14185
 Department of Human	12241
@@ -819,7 +826,7 @@ Department of National Children Services Department	12977
 Department of National Identity and Civil Registry	12663,98
 Department of National Meteorology	15916
 Department of National Parks and Wildlife	13403
-Department of National Registration	1778,89,121,1026,9392,4,39,968,8,183
+Department of National Registration	1778,89,121,1026,9392,4,39,968,8,183,4078
 Department of National Registration Passport and Citizenship	12415
 Department of Nursing Science	8604
 Department of Nursing and Reproductive Health	16922
@@ -880,7 +887,7 @@ Department of Shared Digital Services	1673,977,1422,1577
 Department of Small Business Development	8458
 Department of Small Business Development The Department	11343
 Department of Socia Development	2626
-Department of Social Development	2307,319,2007,34,126,2039,545,123,410,108,585,1286,1771,280,54,2199
+Department of Social Development	2307,319,2007,34,126,2039,545,123,410,108,585,1286,1771,280,54,2199,3546
 Department of Social Development Community Based Targeting	12697
 Department of Social Development Launch	11195
 Department of Social Science Education	6211
@@ -909,7 +916,7 @@ Department of Telecommunications and Digital Economy	11965
 Department of Telecommunications and Postal Services	396,6436,2065
 Department of Tertiary Education Programmes	13310
 Department of Tourism	1188,5679,1,3190,44,1134
-Department of Trade	4242,391,553,686,960,335,877,1085,806,1280,6,14,59
+Department of Trade	4242,391,553,686,960,335,877,1085,806,1280,6,14,59,6284
 Department of Trade and Industry	5808,375,5057
 Department of Traditional Affairs	11188
 Department of Transport	4554,1973,3797,1170,57,435
@@ -961,7 +968,7 @@ Departmental	1604,489,384,3188,5200,359,37,725,1546,1364,1962
 Departmental Advisory Committee	11986
 Departmental Advisory Committee DDG Deputy Director-General	11218
 Departmental Bid Committee	14756,22
-Departmental Committee	5108,5205
+Departmental Committee	5108,5205,7253
 Departmental Committee of Agriculture and Livestock	10313
 Departmental Council of M'Passa	6818
 Departmental Disciplinary Code and Procedures	5533,6453
@@ -1072,6 +1079,7 @@ Digital Development Department	1264
 Digital Health Department	12291
 Digital Knowledge Hub Department	10764,80,4627
 Digital Knowledge Hub Department Partnerships for Digital	11563
+Digital Marketing Department	17648
 Digital Transformation Directorate Department	12333
 Digitalisation Project The Department	12947
 Digitally Transformed Economy and Society The Department	11230
@@ -1140,6 +1148,7 @@ Energy and Mining Department Of Climate Change	13062
 Engineering Departments	14934
 Enhanced Department of Information Technology	12529
 Enterprises Department	10823
+Environmental Health Departments	17686
 Epidemiological Surveillance Department	12003
 Eritrean Customs Department	14076
 Essentially the Statistics and Data Processing Department	16833
@@ -1341,6 +1350,7 @@ Higher Education and Training DHS Department of Human	11261
 Home Affairs Department	4831,2573
 Home Department	12139
 Hospital TAMBO MEMORIAL HOSPITAL EMERGENCY DEPARTMENT	8603
+Human Development Department of JICA. Welcoming	17735
 Human Resource Department	12240,1237,1069
 Human Resource Management Department	17235
 Human Resource Management and Development DOI Department	12917
@@ -1378,9 +1388,10 @@ INEGE INEGE INEGE Departamentos Ministeriales	16898
 INNOVATION DEPARTMENT	12971
 INSTITUANT UN DEPARTEMENT EN CHARGE DES	10905
 INTERNATIONAL ECONOMICS RELATIONS DEPARTMENT	12127
+INTIC's Legal Department	17603
 ISB ICT Department	3583
 ITE&C Department	11156
-Immigration Department	1988,787,840,368,1900,4577,2943,857
+Immigration Department	1988,787,840,368,1900,4577,2943,857,3418
 Immigration and Nationality Department	14045
 Import Monitoring and Domestic Monitoring Department	1988
 In-Service Training Department	12975
@@ -1403,6 +1414,7 @@ Infrastructure and Energy Department	1257,6935,4712,205,1615
 Inland Revenue Department	13042,966,1006
 Innovation Science and Economic Department	10819
 Inspection and Follow-Up Department	3310
+Inspection and Follow-up Department	17548
 Inspectora General de Servicios Departamento de Estadísticas	16962
 Inspectorate Department	16843
 Institutional Restructuring of Department of E Government	12917
@@ -1567,6 +1579,7 @@ Ministry's Department of Physical Environment	16963
 Ministry's International Organizations Department	9358
 Ministry’s Education Support Services Department	8586
 Ministry’s Informatics and Documentation Department	17170
+Ministério da Saúde Departamento de Aquisições Av. Eduardo	17604
 Mission Contact Us Department of Computer Science	12361
 Mission and Mandate History Of the Bank Departments	12390
 MoE Planning Departments	15960
@@ -1630,6 +1643,7 @@ Niltional Department of Health	1009
 Norms Standards and Quality Department	11184
 Northern Cape Department of Education	10247
 November. The Department of Basic Education	10102
+O Departamento Autónomo de Tecnologias de Informação	17604
 O Departamento Financeiro	15503
 O Departamento Governativo	11361
 O Departamento Ministerial	10783
@@ -1794,6 +1808,7 @@ Regulatory Compliance Department of E Government Short	12917
 Regulatory Structure Board Members Management Departments	12515
 Report The Registrar General’s Department	14761
 Representatives DEPARTMENT OF HOME AFFAIRS	11986
+Representing the Department	17735
 Republic of South Africa. Department of Home Affairs	6512
 Republic of South Africa’s Department of Higher Education	6832
 Research Assessment DSI Department of Science and Innovation	5246
@@ -2095,7 +2110,7 @@ U.S. Department of State. Health	7187
 U.S. Department of State’s Bureau of International Narcotics	17330
 U.S. Department of War	5287
 U.S. Department ofState	4153
-U.S. State Department	4961,1968,1550,4666,1760
+U.S. State Department	4961,1968,1550,4666,1760,2652
 U.S. State Department’s Jeremy P. Lewin	17110
 U.S. Treasury Department	16984
 UGF DELEGATIONS DEPARTEMENTALES	15901
@@ -2169,6 +2184,7 @@ Welfare Departments	16867
 Western Cape Department of Economic Development and Tourism	11012
 Western Cape Department of Health	396,11584
 Western Cape Department of Infrastructure	8564
+Western Cape Departments of Health and Wellness	17741
 Western Cape Government Department of Infrastructure	11253
 Western Cape Mobility Department	11494
 WhatsApp Department Tags Agriculture	11283

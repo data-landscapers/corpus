@@ -27,7 +27,7 @@ Acquerir	3165,1,2
 Acquire	1204,2922,7160,924,43,719,323,1482,220,556,106,753
 Acquire National IDs Submitted	14518
 Acquire and Easy	16884
-Acquired	11,153,3,67,72,124,115,1,27,127,44,2,6,10,179,54,14,196,32,22,25,297,16,52,37,84,8,50,2,108,1,6,122,160,26,197,23,1,2,148,75,78,131,50,1,201,1,146,195,1,148,129,62,16,132,57,56,293,25,314,112,1,770,47,247,107,10,285,109,53,1,6,339,74,74,3,8,50,50,287,71,24,222,136,96,206,2,283,125,49,25,290,336,165,36,1320,3,13,23,32,50,129,125,1,1,2,1,2,3,5,1,1,1,3,1,1,1,1,246,163,6,3,493,4,843,1521,20,2,11,4,129,27,1,15,30
+Acquired	11,153,3,67,72,124,115,1,27,127,44,2,6,10,179,54,14,196,32,22,25,297,16,52,37,84,8,50,2,108,1,6,122,160,26,197,23,1,2,148,75,78,131,50,1,201,1,146,195,1,148,129,62,16,132,57,56,293,25,314,112,1,770,47,247,107,10,285,109,53,1,6,339,74,74,3,8,50,50,287,71,24,222,136,96,206,2,283,125,49,25,290,336,165,36,1320,3,13,23,32,50,129,125,1,1,2,1,2,3,5,1,1,1,3,1,1,1,1,246,163,6,3,493,4,843,1521,20,2,11,4,129,27,1,15,30,2866
 Acquired Immune Deficiency Syndrome ARV	16951
 Acquired Immune Deficiency Syndrome SDGs	17101
 Acquired Immuno-Deficiency Syndrome AM Amplitude Modulation	2775
@@ -180,7 +180,7 @@ Nana Appiah Acquaye Eswatini	7970
 Nana Appiah Acquaye Ethiopia	6756
 Nana Appiah Acquaye Helios Towers	5788
 Nana Appiah Acquaye Irembo	6117
-Nana Appiah Acquaye Kenya	7069
+Nana Appiah Acquaye Kenya	7069,10637
 Nana Appiah Acquaye MTN Benin	6210
 Nana Appiah Acquaye Ooredoo Algeria	4902
 Nana Appiah Acquaye Orange Burkina Faso	7024

@@ -30,7 +30,7 @@ Africa Commerce and Industry Summit	9333
 Africa. African Space Industry Annual Report	6467
 African Space Industry Annual Report	6467
 Africa’s Space Industry Makes Its Case	8275
-Agribusiness and Industry	9931,700,5601,876
+Agribusiness and Industry	9931,700,5601,876,576
 Agribusiness and Industry Ministry	9931
 Agriculture Industry	11000
 Agro Industrie du Congo	15848
@@ -477,7 +477,7 @@ Industria	1701,2508,2632,3086,434,1181,5356
 Industria Excelentísimo	1855
 Industria de Guinea Ecuatorial	17175
 Industriais	15772
-Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51,898,569,765,27,69,21,43,148,103,242,101,79,52,109,59,1083,17,28,96,15,89,40,110
+Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51,898,569,765,27,69,21,43,148,103,242,101,79,52,109,59,1083,17,28,96,15,89,40,110,374
 Industrial Accommodation	17114
 Industrial Applicability	12389
 Industrial Area Prison	9188
@@ -585,7 +585,7 @@ Industrial and Corporate Change	5700
 Industrial and Diversification Policy	17105
 Industrial and Innovation Zone	9444
 Industrial and Legal Metrology	1988
-Industrialisation	6946,1499,717,2143,181,329,2668,67,67
+Industrialisation	6946,1499,717,2143,181,329,2668,67,67,2965,1
 Industrialisation and Urbanisation. Digital	12941
 Industrialisation du Cameroun	15542
 Industrialisation. This Chair	11221
@@ -682,7 +682,7 @@ Industries Tell	15713
 Industries Transparency Initiative FDI Foreign Direct	16996
 Industries and Real Estate	2775
 Industries de Réseau AER Agence	10975
-Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14,87,50,31,26,58,84,61,31,37,65,35,116,124,2,17,14,3,37,55,80,42,70,22,51,194,39,86,135,138,94,267,16,50,5,41,49,48,12,12,6,100,2,517,62,101,34,76,542,318,212,25,14,73,2,21,15,27,40,21,6,34,10,8,59,19,6,19,107,1
+Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14,87,50,31,26,58,84,61,31,37,65,35,116,124,2,17,14,3,37,55,80,42,70,22,51,194,39,86,135,138,94,267,16,50,5,41,49,48,12,12,6,100,2,517,62,101,34,76,542,318,212,25,14,73,2,21,15,27,40,21,6,34,10,8,59,19,6,19,107,1,324
 Industry Actors Providers	17099
 Industry Advisory Boards	14566
 Industry Analysis	10718
@@ -786,7 +786,7 @@ Industry and Commerce	5360
 Industry and Commerce Minister Mangaliso Ndlovu	13601
 Industry and Commerce. Addressing	7436
 Industry and Commerce. Dematerialization	11939
-Industry and Competition	1009,606,2627,391,1232,967,1186,26,1676,215,1263,17,9,6,5,15,13,31,2167
+Industry and Competition	1009,606,2627,391,1232,967,1186,26,1676,215,1263,17,9,6,5,15,13,31,2167,4117
 Industry and Competition CARA Criminal Assets Recovery	11986
 Industry and Competition DSM	6832
 Industry and Competition Foreword	11198
@@ -794,6 +794,7 @@ Industry and Competition Minister Parks Tau	8044
 Industry and Competition Parks Tau	5621
 Industry and Competition Republic of South Africa Date	11250
 Industry and Competition. Restated	5186
+Industry and Competition. Steenhuisen	17578
 Industry and Competition. The Bill	5872
 Industry and CompetitionDr Mlungisi Cele	11221
 Industry and Cooperative Development	7167
@@ -848,7 +849,7 @@ Indutrie	10875
 Informal Industry	12445
 Information Industry Association	7209
 Information Technology Industry Council. Months	7209
-Information Technology Industry Development Agency	7397,824,1,1658,1282,576,1,3745,235,99,228,85,71,10
+Information Technology Industry Development Agency	7397,824,1,1658,1282,576,1,3745,235,99,228,85,71,10,1437,53,20
 Information Technology Industry Development Agency and EY	7045
 Information Technology Industry Development Agency and Heba	5607
 Infrastructure and Industrialization	10718
@@ -990,7 +991,7 @@ Minister of Industrial Development	14736,1520
 Minister of Industrial Development and Promotion	16275
 Minister of Industrialisation and Trade	3714
 Minister of Industrialization	13156
-Minister of Industry	7748,673,3605,1536,1249
+Minister of Industry	7748,673,3605,1536,1249,2841
 Minister of Industry H.E. Mr. Pacome Moubelet	16285
 Minister of Industry and Commerce	1554,1113,1861,960,7024,1014
 Minister of Labour and Industrial Relations	14267,507,19,48
@@ -1033,7 +1034,7 @@ Ministry of Industry and Trade	10663,887
 Ministry of Industry. ANM	16597
 Ministry of Labour and Industrial Relations	14770,4,56,17
 Ministry of Trade Industry and Employment	16967
-Ministry of Trade and Industries	10599
+Ministry of Trade and Industries	10599,6958
 Ministry of Trade and Industry	3583,4688,525,2236,790,503,335,323,70,901,54,117,822
 Ministry of Trade and Industry's Malawi National Single	14674
 Ministry of Trade and Industry. Private	5014
@@ -1215,7 +1216,9 @@ Sidvokodvo Industrial Estate.The	12922
 Sierra Leone Extractive Industries Technical Assistance	2889
 Simplified Licensing of Industrial Activity	11939
 Sistema Financiero INDUSTRIALIZACIÓN	1701
+Small Industrial Development Organization	7763
 Social Services MLIREC Ministry of Labour Industrial	12923
+Society SIDO Small Industries Development Organization	7763
 Somali Chamber of Commerce and Industry	10476,4759
 Somali Chamber of Commerce and Industry Upon	10476
 South Africa Industrial and Commercial Bank of China	378
@@ -1289,7 +1292,7 @@ Trade Industry Regional Integration and Employment	17105
 Trade Promotion Agencies and Industry Bodies	5247
 Trade Supports Local Industry The Ministry	17216
 Trade and Industrial Development	17139
-Trade and Industry	1988,1315,1944,5066,315,570,82,1096,163,512,292,44,16,76,475,319
+Trade and Industry	1988,1315,1944,5066,315,570,82,1096,163,512,292,44,16,76,475,319,3412
 Trade and Industry Executive Summary	5247
 Trade and Industry Ministers' Session	13562
 Trade and Industry Ministry of X Youth	12376

@@ -222,7 +222,7 @@ Kingdom of Swaziland	6539,6357,1,7,10
 Kingdom of Swaziland Report	12944
 Kingdom of Swaziland and Internet Society	12904
 Kingdom of Swaziland. ISBN	12914
-Komor Switch	5996,49,14,9,78,7596,59
+Komor Switch	5996,49,14,9,78,7596,59,3839
 Komor Switch Des	6146
 Kundai Ngwena and Swaraj Ram	1814
 LTA Unveils Sweeping Telecom Reforms	7410
@@ -457,7 +457,8 @@ SWIFT. Unlisted BICs	12364
 SWIFT.com. Une	15935
 SWIFTNG	7110
 SWIFTTALK Ltd	3862
-SWIMS	16600
+SWIMS	16600,1141
+SWIMS External Referral Portal	17741
 SWIO Region	13767
 SWIOCOF	13767
 SWIPSS	11130,1,1353,568
@@ -596,7 +597,7 @@ Swarray	12325
 Swart	8134
 Swartkop	13046
 Swaswa	10590
-Swati	1363,1522,330,432,1,537,350,137,194,19,49,187,653,25,474,547,1,209,13,221,209,214,115,1355,147,1,118,2295,579,126,40,10,8,455,20,15,1,3,1,32,4,104,7,9,21,68,2,23
+Swati	1363,1522,330,432,1,537,350,137,194,19,49,187,653,25,474,547,1,209,13,221,209,214,115,1355,147,1,118,2295,579,126,40,10,8,455,20,15,1,3,1,32,4,104,7,9,21,68,2,23,4454
 Swati Law	12944
 Swati Mehta	12227
 Swati Mehta Dhawan and Julie Zollmann	12227
@@ -678,6 +679,7 @@ Sweden Government	13896
 Sweden Reaffirm	17057
 Sweden Sverige	12142
 Sweden and Ericsson	6649
+Sweden and Germany. Africa CDC	17735
 Sweden and Iceland	12660
 Sweden and Mexico	16812
 Sweden for UNHCR	16580

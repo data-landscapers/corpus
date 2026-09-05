@@ -28,7 +28,7 @@ Limpopo Central Hospital Project Implementation Construction	11248
 Limpopo Department of Social Development	8018
 Limpopo Florah Magagane	11660
 Limpopo Gauteng Mpumala	11262
-Limpopo Mirror	13461
+Limpopo Mirror	13461,4278
 Limpopo Mokopane Waterberg District Data Science	6832
 Limpopo Mpumalanga Northern Cape North West	11198
 Limpopo Municipalities	7759
@@ -45,6 +45,7 @@ Limpopo and Eastern Cape	11192
 Limpopo and KwaZulu-Natal	11297
 Limpopo and Mpumalanga	9967,1278,27,25
 Limpopo and Northern Cape Departments of Health	11980
+Limpopo and Shashe	17679
 Limpopo's Department of Sport	8018
 Limpopo's Vhembe District Municipality	8029
 Limpopo. Consistent	7759

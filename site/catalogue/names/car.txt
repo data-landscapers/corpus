@@ -34,6 +34,7 @@ ALLIANCE HEALTH CARE LIMITED Data Processor	7167
 ALLTIME CARE GUIDE Data Controller INST-7543067CBEE	7167
 ALLTIME CARE GUIDE Data Processor INST-7543067CBEE	7167
 ALPHA JAY HEALTH CARE Data Controller	7167
+ALTERNATIVE SOLUTIONS TO FAILED NO CARD	17537
 ALTOS CARGOS DEL ESTADO	4209
 AM BCC BOMS CAR CERC CIFS	15658
 AMARAY DENTAL AND EYE CARE SPECIALISTS	7167
@@ -179,6 +180,7 @@ Audio By Carbonatix Africa Has	10555
 Audio By Carbonatix Economist and Professor of Finance	7697
 Audio By Carbonatix Ghana	7594,3443
 Audio By Carbonatix I. Introduction	11036
+Audio By Carbonatix The Africa Prosperity	17582
 Audio By Carbonatix The Director-General	8896,2143
 Audio By Carbonatix The Head of Internal	7699
 Audio By Carbonatix The National Identification	11020,1
@@ -439,6 +441,8 @@ CARD INDËX SERWICE COPIE CERTIFIEE CONFORME	15999
 CARD IS FOUND	12410
 CARD IUREX SERVICE GCORE CERTIFIEE CONFIRME	15530
 CARD NO. FULL NAME DATE	12410
+CARD PRESENT VERIFICATION RESULT	17537
+CARD PRESENT VERIFICATION RESULT Causes Solution	17537
 CARDIAC SERVICES	14773
 CARDINAL EMILE BIAYENDA	15780
 CARDINAL MAURICE OTUNGA TECHNICAL AND VOCATIONAL	7167
@@ -667,7 +671,7 @@ CaractËre	15394
 Caractère	13524,2361,58,352
 Caractère Administatif	13329
 Caractère Non Commercial	2342
-Caractère Personnel	234,202,112,683,94,474,216,1851,289,1924,2202,391,219,68,83,2603,2814,1059,15,177,68,158,681,24,4
+Caractère Personnel	234,202,112,683,94,474,216,1851,289,1924,2202,391,219,68,83,2603,2814,1059,15,177,68,158,681,24,4,969
 Caractère Personnel La Société de Gestion	16641
 Caractère Personnel République du Bénin Fraternité	10821
 Caractère Personnel Skip	6079
@@ -832,7 +836,9 @@ Card Issuance	4848
 Card Issuance Senior Citizens Documents Required	14741
 Card Not Present	12392
 Card Operations	15054
+Card PIN Verification	17537
 Card Point of Sale Switch	12343
+Card Present	17537
 Card Printing	17142
 Card Printing Facility	13005
 Card Production Centers	10812
@@ -1233,6 +1239,7 @@ Carolyn Chisadza	9349
 Carolyn Logan	7886
 Carolyn Makinson	13300
 Carolyne Kakemu	6946
+Carolyne Kubwa LSK President Charles	17659
 Carolyne Mwikali	9547
 Carolyne Mwikali Trust	9547
 Carolyne Nombo	10196
@@ -1271,7 +1278,7 @@ Carrier	5226,646,3251,323,1510,4536,1024,323,33
 Carrier Benchmarking How Infrastructure Choices Overcome	6051
 Carrier Grade NAT	7010
 Carrier Hotel	8542,8260
-Carrier Hôtel	8540
+Carrier Hôtel	8540,9113
 Carrier License Harmonized	13563
 Carrier NPS	6051
 Carrier Network	10588
@@ -1724,6 +1731,7 @@ Driver's Vocational Card Management System EMF	718
 Driver’s Vocational Card Management System	718
 Driving Licence Card Account	4554
 Dubai Cares	403
+Due Care	7763
 Dutch Dental Care Kenya	7167
 Dutch Identity Card	10714
 Duty Waiver and Cargo Tracking System	13053
@@ -1900,6 +1908,9 @@ Free Primary Health Care	16218
 Fresenius Medical Care	12972
 GENERAL ERCESISHATIF ET REGLEMENTAIRE YATFAIRS CARLINDEY	15999
 GEPE Irene Cristina Agostinho Neto Cardoso	10766
+GHANA CARD	17537
+GHANA CARD FOR ACCOUNTABLE	17537
+GHANA CARD FOR FINANCIAL	17537
 GOLD CARDS	8999
 GOODS WITH A CARD	10977
 GOVERNMENT WAIVES NATIONAL IDENTIFICATION CARD PROCESSING	12268
@@ -1917,11 +1928,16 @@ Geny Carole IGABOUYI	16175
 Georgia Gambian National ID Card Sep	10714
 Ghana CARES	1889,13740
 Ghana CARES. Ghana	789
-Ghana Card	84,895,1610,100,32,51,24,33,400,21,141,33,119,24,1,3,231,57,723,95,114,682,19,67,188,252,148,30,133,61,21,707,66,129,23,35,17,1,330,327,339,330,1145,574,407,198,1,97,23,4289,199,18,198,135,238,90,38,192,63
+Ghana Card	84,895,1610,100,32,51,24,33,400,21,141,33,119,24,1,3,231,57,723,95,114,682,19,67,188,252,148,30,133,61,21,707,66,129,23,35,17,1,330,327,339,330,1145,574,407,198,1,97,23,4289,199,18,198,135,238,90,38,192,63,936,12
+Ghana Card CAN	17537
+Ghana Card ID	17537
 Ghana Card Number	15647
-Ghana Card PIN	2589,13011,1001
+Ghana Card PIN	2589,13011,1001,936
 Ghana Card PIN Verification The TIN	16601
 Ghana Card Personal Identification Number	16601
+Ghana Card Pin	17537
+Ghana Card Pin Number	17537
+Ghana Card and Biometric	17537
 Ghana Card-related	9841,1179
 Ghana Card. Cybersecurity and Digital Identity Platforms	4791
 Ghana Card. Ends	4708
@@ -2123,6 +2139,7 @@ Intensive Care Unit	12976,2542
 Intensive Care Units	12922
 International Carbon Markets	13060
 International Card Schemes	12364
+International Carriers	17694
 International Transfers Card Mobile Money	5247
 Interventions Plus PHC Primary Health Care	17289
 Investigação A Carta Sanitária	16019
@@ -2266,6 +2283,7 @@ Maisha Identification Card	14460
 Maisha Identity Card	14460
 Maisha Namba Cards	14460
 Make Ghana Card Number Not Mandatory	15867
+Malawi Health Care Information System	17711
 Malawi National ID Card	12217
 Malawi. Caroline Mbugua	9820
 Maldives National Identity Card	10714
@@ -2408,6 +2426,7 @@ National Career Guidance Policy	11791
 National Citizen Identity Card for Civil Identification	10775
 National Citizens Identification Cards	17207
 National Council for Motherhood and Childhood Care	14853
+National Disability Cards	17586
 National Electronic Identity Card	1780
 National ID Card	1920,199,886,234,169,7306,98,1063,2,208,132,4668,38,26,34
 National ID Card Aug	10714
@@ -2429,7 +2448,7 @@ National Identification Card System	16983
 National Identification Card System. SECTION	16841
 National Identification Cards	3645,4118,1057,1701,1747
 National Identification Cards. Sesay	8820
-National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190
+National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158
 National Identity Card Act	1379,13336,1,24
 National Identity Card National ID System	10714
 National Identity Card No BRR Cabo	10714
@@ -2494,6 +2513,9 @@ Nigeria Primary Health Care Childhood Development	11469
 Nigeria Unveils ECOWAS ID Card	4102
 Nigeria’s Basic Health Care Provision Fund	4794
 Noella Grâce Cardinale	16100
+Non-Citizen Card	17537
+Non-Citizen Card and Biometric	17537
+Non-Citizen Card the AI	17537
 Non-Citizen Ghana Cards	15430
 Non-Citizen Identity Card	7317,7465
 Non-Gambian Identity Card	17379
@@ -2503,6 +2525,7 @@ North Caribbean Africa	10977
 North Caribbean Africa Saved	10977
 North Caribbean Africa Smartphone Feature	10977
 North Carolina	7479,2489,4415,303
+North Carolina-based UIG	17732
 North Carolina. The Ministerial	17428
 North Carolina. The U.S	14383
 Northeast Nigeria. CARE. Retrieved	3456
@@ -2549,6 +2572,7 @@ PARTIR DU CARNET DE SANTÉ	13300
 PAS DE CARTE DANS LA LANGUE	13300
 PBF. The World Bank CAR Health	10829
 PEERS ASPIRATIONAL PEERS CAR	16942
+PERFORM NO CARD PRESENT	17537
 PERSONAL IDENTIFICATION CARDS The Republic of Burundi	13388
 PERSONALISATION DES CARTES	14490
 PERSONALISATION DES CARTES APD	14490
@@ -3043,6 +3067,7 @@ VIP Car Pool	14753
 VISA and Master Card	12542
 VISA and Master Card. The ECZ	13477
 VOL CARGO	17006
+VOTRE CARTE DE VISITE DIGITALE PROFESSIONNELLE	17587
 VOYAGE A L’ETRANGER PAR CARTE	17385
 VRR Card Civil Registry	10714
 VRR India Card	10714

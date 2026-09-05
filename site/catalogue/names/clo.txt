@@ -146,7 +146,7 @@ CLOTHING INDUSTRY	16900
 CLOTURE ACTION Investigation Préparation	14424
 CLOTURE DES TRAVAUX	16233
 CLOUD	6477,3611,786,515
-CLOUD Act	4676,416,210,948,171,50,46,4,59,891,1433
+CLOUD Act	4676,416,210,948,171,50,46,4,59,891,1433,8791
 CLOUD Act-bound	5302
 CLOUD Act-bound AI	5302
 CLOUD BASED ON DATA CATEGORIZATION	6432
@@ -406,7 +406,7 @@ Clothing	13385,89,3461
 Clothing Factory	13361
 Cloture	14662
 Cloture du Projet de Preparation	14662
-Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85,165,16,255,19,53,165,200,497,511,229,52,49,6,21,9,60,78,68,63,30,106,378,26,56,14,41,20,14,223,208,7,178,392,163,39,1,51,462,24,39,34
+Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85,165,16,255,19,53,165,200,497,511,229,52,49,6,21,9,60,78,68,63,30,106,378,26,56,14,41,20,14,223,208,7,178,392,163,39,1,51,462,24,39,34,189
 Cloud Access	3861
 Cloud Act	6415,72,906
 Cloud Ad7o. CptloioundinAdGoopvteiornnmineGntovernment	10157
@@ -569,6 +569,7 @@ Cloud Traditional	9129
 Cloud Type	13062
 Cloud WAF	6432
 Cloud Working Groups. Principal Government Cloud	16924
+Cloud Workspace	14151
 Cloud World Forum	16923
 Cloud and AI	6834,3213
 Cloud and AI Development Act	6468,8,1,10,392,1467,558,1184,962
@@ -630,6 +631,7 @@ Cloudflare CDN	13074
 Cloudflare DNS-over-HTTPS	700
 Cloudflare DoH	1,16,718,2081,1045,3186,2435,2458
 Cloudflare Radar	9477,5689
+Cloudflare and CDN77	17723
 Cloudflare-type IPs	14455
 Cloudlogic	411
 Cloudmania	4119
@@ -717,6 +719,7 @@ Deployment Models Cloud	12302,4622
 Develop Cloud Storage	17116
 Development Objective Components Results Loan Closing	15731
 Dh100m Maroc Numeric Fund. Cloud	168
+Digital Infrastructure Data Center and Cloud Services	14151
 Director of Cloud Infrastructure	2103
 Director of Cloud Infrastructure and Offshoring	2103
 Disaster Recovery Cloud	9123
@@ -920,7 +923,7 @@ HIT Closes Technovation Expo	13688
 Head of State Brice Clotaire Oligui Nguema	3579
 Headgear. Clothing	16900
 House Approves Close	1798
-Huawei Cloud	376,2440,805,238,2794,1326,2819,63,2010,2842
+Huawei Cloud	376,2440,805,238,2794,1326,2819,63,2010,2842,1843
 Huawei Cloud FinTech Summit	6653
 Huawei Cloud Nigeria	12871
 Huawei Cloud SSA	376
@@ -1108,7 +1111,7 @@ National Data and Cloud Computing Policy	7510
 National Data and Cloud Policy	2526,8670,712,32
 National Data and Cloud Policy Implementation Plan	11230
 National Diaspora Merit Award Dinner and Closing	7895
-National Digital Cloud Policy	10158,152,2971
+National Digital Cloud Policy	10158,152,2971,4290
 National Government Cloud Workforce	16924
 National Partner Cloud	10798
 National Sovereign Cloud	5297,14,1356,3086,200,1088
@@ -1143,6 +1146,7 @@ Nov-2024 Operation Closing	17000
 Nov-2025 Operation Closing	16013
 Nov-2027 Operation Closing	17079
 OGNELET Clodia CEMIR Directeur Pays Adjoint	16012
+OSS Cloud	14151
 OVERVIEW OF CLOUD COMPUTING	6432
 OVERVIEW OF CLOUD COMPUTING Policy	6432
 Oct-2012 Expected Closing Date	17441
@@ -1353,6 +1357,7 @@ TRILLION Closing	11004
 Target Target Closing	15663
 Technologies Cloud	15936
 Techstars. Cloud9	9467
+TeleCloud and Private Cloud	14151
 Tender Closing Date	7987
 Test Reporting and Closure	5665
 Tf Approval Signing Effectiveness Net Closing	1228

@@ -52,6 +52,7 @@ Constituency and Wards	13367
 Construction of Psychiatric Ward	14830
 Consultores DA ARN WARDIP-C-003-2024	17219
 Continental Early Warning System	5825
+Contract Farming and Warehouse Receipt System	7763
 Convection Warning	14256
 Correlates of War	7662
 Creation of Data Warehouse	14790
@@ -165,6 +166,7 @@ Inside NamRA’s Tug of War Triumph	13044
 Inside NamRA’s Tug of War TriumphGrip	13044
 Inside the Warehouse	17048
 Integrated Public Alert and Warning System DSLAM	14723
+Ivoire Warns of Legal Action After Telecom	17726
 Ivoire Warren King	16158
 Jeff Merkley of Oregon and Raphael Warnock of Georgia	10446
 KACI Tug of War League	13044
@@ -214,6 +216,7 @@ Monitoring and Early Warning	17157
 Monitoring and Evaluation of WARDIP-SOP2 Liberia	17114
 Mr. Hamza Waraki	4925
 Mr. Mohammed Warsama	13899
+Mrs. Bekearedebo Augusta Warrens	17571
 Mrs. Bekearedebo Warrens	13281
 Mtandire Ward	12978
 Multi-Hazard Early Warning	12977
@@ -380,7 +383,7 @@ WARDIP	1175,2,1,1,1,1,1,82,1034,373,1688,76,927,33,5,350,233,286,79,74,101,387,1
 WARDIP Digital Transformation for Africa	1264
 WARDIP Guine-Bissau	11555
 WARDIP Guiné-Bissau	9846,7438
-WARDIP Guinée	16725
+WARDIP Guinée	16725,838
 WARDIP Project	4359,12679
 WARDIP Project Moderate	16926
 WARDIP SOP	1264,14880,955,15
@@ -458,7 +461,7 @@ WAREEJIN XOGTA MARKA AYSAN JIRIN ILAALIN	15152
 WAREEJINTA XOGTA	15152
 WARICALAN	6827
 WARMA	1988,11377
-WARNING	8294,1085,3085,8,930,15
+WARNING	8294,1085,3085,8,930,15,4268
 WARNS	3367
 WARRIORS	5733
 WHO’s Global Early Warning System	17157
@@ -531,8 +534,10 @@ Warehouse Construction Project Manager	17048
 Warehouse Fund	4896
 Warehouse Management	13042
 Warehouse P. O. Box	3386
-Warehouse Receipt System	5883,3707
+Warehouse Receipt System	5883,1880,1827
+Warehouse Receipt System Year Beneficiaries No	7763
 Warehouse Receipts Regulatory Board	12114
+Warehouses Number of Auctions	7763
 Warehousing	16900
 Warehousing and Finance	14760
 Warfare	2518
@@ -556,6 +561,7 @@ Warner J	5242
 Warning	3665,297,648,3404,1124,1984,298,783,1162,364,719,443,190,171,240,879,507,187,92
 Warning Africa Cannot Ignore	8497
 Warning Dissemination and Communication	16137
+Warning Doesn't Arrive	17596
 Warning Notices	5665
 Warning Score	10835,3,130,902,16,466,1,135
 Warning Signs	11887,1,1,264,1,9,178

@@ -54,6 +54,7 @@ Climate-Smart Demonstration Farms	14818
 Consultant Anis Mahfoud Consultant Farid Laaboudi	17441
 Contour Farming Implementation Build	17157
 Contract Farming	13122
+Contract Farming and Warehouse Receipt System	7763
 Corridor Dwellers and Generational Farm Workers	13024
 Costa Farid Michel Tavares Fadul	11544
 D Private Institution D Farming D	736
@@ -273,11 +274,12 @@ FarmerChat	5367,1784,3989
 Farmerline	4126,7014,5736
 Farmerline and Esoko. Innovative	961
 Farmerline’s Darli AI	11140
-Farmers	584,205,181,897,121,787,821,131,15,558,325,1489,785,49,783,308,496,15,133,32,739,136,42,150,1195,220,42,230,991,235,277,435,67,36,19,1022,155,112,61,81,37,133,1796,47,70
+Farmers	584,205,181,897,121,787,821,131,15,558,325,1489,785,49,783,32,276,496,15,133,32,739,136,42,150,1195,220,42,230,991,235,277,435,67,36,19,1022,155,112,61,81,37,133,1796,47,70
 Farmers Association	736
 Farmers Can Harvest More Without Using	6526
 Farmers Expand Output	8639
 Farmers Face Forced Relocation Zimbabwean	8943
+Farmers Groups	7763
 Farmers Input Support Programme	12366
 Farmers Payment Systems	6511
 Farmers Portal	14308
@@ -406,7 +408,7 @@ Karim Farhat	6562
 Kenya Farmers Association	14546
 Kenya. FarmBeats	411
 Kenya. Farmers	11836
-Kerewan and Farafenni	12085
+Kerewan and Farafenni	12085,5569
 Kerewan and Farafenni and Central River Region-North	11716
 Khuram Farooq	11545
 Know Your Farmer	14818
@@ -447,6 +449,7 @@ Minister of Agricultural and Farmer’s Welfare	17240
 Minister of Agriculture Farmers	11197
 Minister of Investment and Foreign Trade Mohamed Farid	8770
 Minister of Supply and Internal Trade Sherif Farouk	15811
+Ministry of Agriculture and Farmers Welfare	17623
 Ministry of Agriculture's Digital Farmer Registry System	2872
 Ministry of Environment and FAREI	11332
 Mobile-enabled Economic Identities for Smallholder Farmers	10819
@@ -535,6 +538,8 @@ Small Farming System Research SIDA	13377
 Smallholder Farmer Input Support Program	5765
 Smallholder Farmers	11140
 Smallholder Farmers Fertiliser Revolving Fund	4172
+Smallholder Farmers and Fishers	7763
+Smallholder Farmers and Fishers Initiatives	7763
 Soil Health Farms	14818
 Solar Farm ENERGY	12256
 Solar Farm REREC	12256

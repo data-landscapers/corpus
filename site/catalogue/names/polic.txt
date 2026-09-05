@@ -350,7 +350,7 @@ Bryan Burgess Senior Policy Specialist	7590
 Budget Policy	14674
 Budget Policy Framework Paper Prepared	14986
 Budget Policy Paper	13318
-Budget Policy Statement	5108,9566
+Budget Policy Statement	5108,9566,2925
 Budget Statement and Economic Policy	7695,8234
 Budget Statement and Economic Policy of Government	7695
 Build Compliance Policies	7518
@@ -365,6 +365,7 @@ Bureaux de Traitement des Informations Policières	15696
 Burkina Faso. Int J Health Policy	10881
 Burundi Police	1776
 Burundi’s National Gender Policy	13331
+Business and Policy Leaders’ Dialogue	17582
 Businesses Database National Broadband Policy	16883
 C. COMPLIANCE WITH BANK POLICIES	11863,2075
 C. Conclusion and Policy Recommendations	1828
@@ -869,7 +870,9 @@ Digital Policy Engagement	10370
 Digital Policy Engagement Roundtable	7101
 Digital Policy Engagement Series	3710,2970,3690
 Digital Policy Forum	12730
+Digital Policy Framework	17620
 Digital Policy Matrix	13875,147
+Digital Policy Roadmaps. Discussions	17620
 Digital Policy and Legal Landscape	12659
 Digital Policy and Regulation	13347
 Digital Policy and Regulatory Index	6593,188,80,7813
@@ -1078,7 +1081,7 @@ Enabiling Tax Policy Enabling Trade Policy	16876
 Enable Policy	1777
 Enabling Data Policy Framework Transversal Digital	961
 Enabling Digital Transformation Policies	11230
-Enabling Policy	1777,10667
+Enabling Policy	1777,5986,4681
 Enabling Policy and Regulations	377,642
 Enact National AI Policy Act	4528,7984
 Ending Child Marriage. Policy for Action	15604
@@ -1537,7 +1540,7 @@ ICT Policies	26,1,1,930,13893
 ICT Policy	958,200,7174,2794,403,1096,49,222,21,378,51,645,974,199,386,1300,22,4,7,1,86,5,212
 ICT Policy Development and Research	1608,1289,8333
 ICT Policy Development and Research Only	11230
-ICT Policy Forum	16802
+ICT Policy Forum	16802,851,81
 ICT Policy Guidelines	6946
 ICT Policy Making and Governance	9893
 ICT Policy National Broadband Strategy Singapore	11529
@@ -1734,6 +1737,8 @@ Innovation Policy	12512,1492,725
 Innovation Policy Platform	15474
 Innovation Unicorns Policy	4126
 Innovation and Electronic Policy Development	13902
+Innovative Policies and Programmes	7763
+Innovative Policies and Programmes BOT	7763
 Inside Kenya’s AI Policy	10246
 Inspector General of Police	4677,159,660,2975,611,2775,1031,693,3392,240,84
 Inspector General of Police Douglas Kanja	3320,8990,1954
@@ -1824,6 +1829,7 @@ Jinja Road Police Station. Kampala Metropolitan	15313
 Journal of Comparative Policy Analysis	2096
 Journal of Cyber Policy	2518
 Journal of Economic Policy Reform	5700
+Journal of Economic Policy and Research	7763
 Journal of European Public Policy	4676,6374,85
 Journal of Information Policy	3782,894,10804
 Journal of Law and Policy	1243
@@ -2103,7 +2109,7 @@ Malawi Budget Policy Statement	14674
 Malawi Digitalisation Policy	4609
 Malawi National Social Support Policy	12978
 Malawi Police	14190
-Malawi Police Service	8286,3888,779,107,20,15,27,115,1165
+Malawi Police Service	8286,3888,779,107,20,15,27,115,1165,3301
 Malawi Police Service Cybersecurity Unit	14190
 Malawi Police Service National Police Headquarters	12953
 Malawi Police Service and Bank of America	11089
@@ -2395,12 +2401,12 @@ National Data and Cloud Policy Implementation Plan	11230
 National Decentralisation Policy	3349,9621,1965
 National Decentralisation Policy This Policy	12964
 National Decentralisation Policy for Rwanda. MINALOC	14935
-National Decentralization Policy	13418,3619
+National Decentralization Policy	13418,3619,578
 National Decentralization Policy. Kigali	13418
 National Defence and Security Policy	12779
 National Development Strategy This Policy	3861
 National Digital Addressing Policy	3751,7963,5201
-National Digital Cloud Policy	10158,152,2971
+National Digital Cloud Policy	10158,152,2971,4290
 National Digital Connectivity Policy	2117
 National Digital Development Policy	1161,1178
 National Digital Economic Policy and Strategy	11857
@@ -2483,8 +2489,10 @@ National ICT Policy Collaboration	13346
 National ICT Policy Definitions Computer Incident	13346
 National ICT Policy Despite	13346
 National ICT Policy Establish	17011
+National ICT Policy Objectives	17538
 National ICT Policy Other Line Ministries	13346
 National ICT Policy Republic of Zambia National	13346
+National ICT Policy Targets	17538
 National ICT Policy The Zambian Government	13346
 National ICT Policy and Sectoral Strategy Saint	11529
 National ICT Policy and Strategy	3405,345,1090,10039,85,1
@@ -2525,7 +2533,7 @@ National Long-Term Finance Policy	13060
 National MSME Policy	13060
 National Medium-Term Development Policy Framework	15927
 National Medium-term Development Policy Framework	1779
-National Microfinance Policy	13060
+National Microfinance Policy	7763,5297
 National Migration Policy	10463,2134,1008,3269,476
 National Migration Policy and GCM	9838
 National Migration Policy of The Gambia	16874
@@ -3077,7 +3085,7 @@ Police General Headquarters	13361
 Police General Headquarters' Operations Department	13448
 Police General Headquarters. The Legal Services	13361
 Police HQ Banjul. Digitalisation	5496
-Police Headquarters	3817,1137,31,511,939,6328,1997,21
+Police Headquarters	3817,1137,31,511,939,6328,1997,21,2922
 Police Headquarters Police Information	14781
 Police Headquarters The Police Headquarters	14760
 Police Headquarters. Mr. Abraham Bitew	14126
@@ -3085,6 +3093,7 @@ Police Helicopter Squadron	14760,21
 Police Helicopter Squadron PIO	14760
 Police Hospital	11062
 Police Hotline	14760
+Police ICT	17683
 Police IT Unit	14729,31
 Police Information	14760
 Police Information Room	14847
@@ -3454,6 +3463,7 @@ Policy Key Action Areas The National	16975
 Policy Lab	12674
 Policy Layer	6442
 Policy Leaders	14819
+Policy Leaders Forum	17620
 Policy Lessons for Africa	6294
 Policy Level Inter-Ministerial Committee Meeting	16970
 Policy Linkages	5246
@@ -4034,6 +4044,7 @@ Required Institutional Framework for Policy Implementation	16883
 Research Policy Statement Technologies Technologies	7548
 Research and Innovation Policy	12675
 Research and Innovation Policy18	12675
+Research and Policy Specialist Kandyl Kotta	17733
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Policy	1988,11036,227
 Resettlement Policy Framework	10964,561,399,329,1078,1581,226,234,181,48,58,955
@@ -4351,6 +4362,7 @@ Stanford University’s Cyber Policy Center	6517
 Start-up Policy	2868,10049
 Start-ups and Entrepreneurship Development Policy	3714
 State Nutrition Policy	12135
+State Ownership Policy Document	17647
 State Shareholding Policy	17503
 State Social Protection Policy	12135
 State-owned Policy Bank	9566
@@ -4479,7 +4491,7 @@ Technology Policy Analyst	11827
 Technology Policy Commitments	1264
 Technology Scope This Policy	7548
 Technology and Digitalization Thematic Policy Statement	16951
-Technology and Innovation Policy	4528,3020,1977,3261
+Technology and Innovation Policy	4528,3020,1977,3261,4869
 Technology and Innovation Policy Instruments	16627
 Technology and Innovation Policy UB	12544
 Technology and Innovation Policy and Strategy	12786
@@ -4574,7 +4586,7 @@ Uchenna Allows Policemen	10034,231
 Uganda National Land Policy	1391
 Uganda Police	4753,5032
 Uganda Police Crime Report	4235,597
-Uganda Police Force	3087,536
+Uganda Police Force	3087,536,14060
 Uganda Police Force's Cyber Crimes Unit	12232
 Uganda Police National CCTV Network Expansion	315
 Uganda Police. Strategic	9781

@@ -141,7 +141,7 @@ Advance Africa’s Digital and AI Development Africa	7596
 Advance Clearance Article	15492
 Advance Climate-Resilient Housing	11285
 Advance Congo	5835
-Advance Decentralization	10346
+Advance Decentralization	10346,7269
 Advance Digital Economy	7044
 Advance Digital Inclusion	3102
 Advance Digital Inclusion Across Africa	10678
@@ -197,13 +197,14 @@ Advance Service Delivery While Safeguarding Human	12241,839
 Advance Sovereign AI and Cloud Solutions Across	10164
 Advance Teacher’s Certificate	14736
 Advance Telecom Infrastructure Advertisement Promote	4746
+Advance Transitional Justice	17735
 Advance Women's Digital Empowerment Hola	7990
 Advance Womens Digital Inclusion	9072
 Advance Women’s Financial Inclusion Bill	1479
 Advance the Economic Inclusion of Persons	12231
 Advance-fee	9616
 AdvanceVideo	10848
-Advanced	1248,438,307,782,610,713,1435,132,874,293,114,332,270,338,101,143,468,521,84,906,27,308,295,1,53,63,123,37,1,116,1,6,90,711,45,22,206,19,8,115,89,57,472,63,148,125,2,2,33,48,66,114,1,109,785,204,223,100,26,141,42,75,381,579,311,79,74,52,119,47,1,39,74,67,36,95,159,43
+Advanced	1248,438,307,782,610,713,1435,132,874,293,114,332,270,338,101,143,468,521,84,906,27,308,295,1,53,63,123,37,1,116,1,6,90,711,45,22,206,19,8,115,89,57,472,63,148,125,2,2,33,48,66,114,1,109,785,204,223,100,26,141,42,75,381,579,311,79,74,52,119,47,1,39,74,67,36,95,159,43,102
 Advanced AI	8670
 Advanced AI UpSkilling Project	4109
 Advanced Analytics Services	4130
@@ -309,7 +310,7 @@ Advances Total Assets	17235
 Advances and Facilities	17236
 Advances and Overdrafts	17236
 Advances and Overdrafts Million LYD	17236
-Advancing	1580,3860,3688,1636,227,14,129,133,319,334,251,126,102,36,106,22,31,135,313,734,898,116,207,980,996,166,118,24
+Advancing	1580,3860,3688,1636,227,14,129,133,319,334,251,126,102,36,106,22,31,135,313,734,898,116,207,980,996,166,118,24,257,1
 Advancing AI	2525,2209,8823
 Advancing AI for Higher Education and Public Sector	12723
 Advancing Accountability	8202,2954,5817
@@ -323,6 +324,7 @@ Advancing Africa’s Industrial Transformation	11221
 Advancing All Intelligence	6110,7063,438
 Advancing Ambition	10793
 Advancing Birth Registration	13681
+Advancing Clinical Trials and Epidemic Preparedness Research	17735
 Advancing Cloud and Data Infrastructure Markets	16144
 Advancing Data and Evidence	678
 Advancing Development	11294,47
@@ -349,6 +351,7 @@ Advancing GovTech Reforms	11867
 Advancing Governance and Institutional Reforms Building	17364
 Advancing Inclusion	10864,6515
 Advancing Inclusive Industrialisation	13673
+Advancing Inclusive and Customer-Centric Growth	14151
 Advancing Industrialisation	12640
 Advancing Innovative Methods	13058
 Advancing Land Tenure Reform	13703
@@ -373,6 +376,7 @@ Advancing Service Delivery	14773
 Advancing Social Justice	14039
 Advancing Strategic Mineral Investment Projects	13060
 Advancing Sustainable Development	11310
+Advancing Technological Adoption	17538
 Advancing Trust and Verification	14991
 Advancing U.S. Infrastructure Solutions	12937
 Advancing UHC	15725
@@ -468,7 +472,7 @@ Advertorial	1271
 Advertência	11443
 Advertências	2784
 Advice	1000,1318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,280,185,78,145,55,254,225,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,43,72,138,294,2932,1223,1104,1556,849,259,1573,60
-Advise	12359,2414,2060,33,145
+Advise	12359,2414,2060,33,145,526
 Advise Criteria	12376
 Advise MPTT	14879
 Advise Ministry of Technology and Science	12356
@@ -767,6 +771,7 @@ Communication and Advocacy Plan	15604
 Communication and Advocacy Project	16958
 Communications Advisor	4046,3944
 Communications and Advocacy Director	16921
+Communications and Advocacy Expert EAC Secretariat Arusha	17646
 Community-Level Advocacy	13608
 Comoros Advances Digital Identity Reform	5556
 CompTIA Advanced Level CompTIA Advanced Security	15662
@@ -1012,6 +1017,8 @@ H.E. Advocate Duma Gideon Boko	12568
 HICA’s Strategic Advisory Board	10659
 HIV Advocacy Diagnosis	15206
 HSDUs. Advocacy	15206
+Health Financing Advocacy	17569
+Health Promotion and Communication Adviser	17627
 Hernado Cáceres Adviser for Peace and Development Ramon	17101
 High-Level Advocacy and Political	13095
 High-level Advisory Body	1814
@@ -1070,6 +1077,7 @@ Innovation and Integrity Must Advance Together Despite	4848
 Innovation and Technology Advancement	16975
 Innovative Advanced Windwall Rooftop Technology	14745
 Insider Pro Advisors Support	7343
+Institute for Technical Advice and Support	17613
 Institution Names Principal PPP Advisory Specialist	17260
 Insurance Program Advisory	11469
 Integration Advanced	13042
@@ -1210,6 +1218,7 @@ National AI Advisory Expert Group	5227
 National Advanced School of Engineering	15480
 National Advisor	16946
 National Advisory	16863
+National Advisory Committee	17576
 National Advisory Council	12674,242,3971,290
 National Advisory Council for Persons	12916,61
 National Anti Corruption Advisory Council	11224
@@ -1326,6 +1335,7 @@ Presidential Diaspora Adviser	12085
 Presidential Economic Advisory Council	9400
 President’s Council of Advisors	17428
 President’s Youth Advisory Council	8195
+Prime Minister's Advisory Commission	17620
 Private Analysts and Policy Advocates	17149
 Procedures and Advance Rulings	12389
 Program Advisory	11469
@@ -1377,6 +1387,7 @@ Renewable Energy Resource Advisory Committee	14422
 Reporting Exchange Control Secretaries Advisor Broker	4896
 Republic of Congo Advances Electricity Market Reform	11936
 Republic of Congo's ARPCE Advances Technical and Regulatory	3696
+Research and Advisor	17735
 Research and Statistics Department Balance of Loans Advenced	17236
 Resident Adviser	16298
 Resident Advisor	12500,2277
@@ -1418,6 +1429,7 @@ Secretary-General’s Youth Advisory Board	9786
 Section Advance	15553
 Sectoral Distribution of Loans and Advances	17235
 Sectoral Distribution of Non-performing Loans and Advances	17235
+Securing the Nation Against Advanced Cryptographic Attacks	17736
 Security Advisory Services	11285
 Seizing the Agentic AI Advantage	16266
 Selection RAS Reimbursable Advisory Services RBF	15411
@@ -1427,7 +1439,7 @@ Senegal-based D.IA Advisory	6120
 Senegal’s ARTP Advances Digital Transformation	4803
 Senior Adviser	14773
 Senior Adviser Child Protection	12337
-Senior Advisor	27,4138,1585,527,4854,3,176,2700,7,13,89,15,2268,635,33,187
+Senior Advisor	27,4138,1585,527,4854,3,176,2700,7,13,89,15,2268,635,33,187,478
 Senior Advisor for Communication and Analysis	10451
 Senior Advocacy Manager	7073
 Senior Advocacy Officer for Africa	7073
@@ -1465,7 +1477,7 @@ South Africa and Past President of IASP Advisory	12786
 South Africa-based Fides Advisory Services	4672
 South African Institute for Advancement	9128
 South Africa’s ADvTECH	9868
-Special Adviser	3101,3386,384,8,972,1122,471,785,1739,2734
+Special Adviser	3101,3386,384,8,972,1122,471,785,1739,2734,2988
 Special Advisers	1014
 Special Advisor	6250,9620,294
 Special Advisors and Regional Governors Appointment Act	12905

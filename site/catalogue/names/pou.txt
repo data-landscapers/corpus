@@ -84,6 +84,7 @@ Algérie. Pour M. Ahmat Mbodou Mahamat	8851
 Ali AOUN Pour le Gouvernement du Royaume Hachémite	15732
 Alliance des Etats du Sahel. Pour	3592
 Alya LAHLOU Pour	17495
+Amadou Konia Camara. Pour	17597
 Anaden. Pour	2815
 Anicet Compaoré. Pour	6497
 Anip. Pour Judicaël Gbaguidi	7355
@@ -639,6 +640,8 @@ Livrables Echéance Pourcentage	12043
 Lots. Pour	13375
 Lucien POUNGUI	16381
 Ludovic Ngatsé. Pour Fatoumata Barry Marega	16416
+Lul Pout Riek	17627,61
+Lul Pout Riek and Kevin Irandagiye	17567
 LuxDev. Pour le BEN	16105
 Léraba Poura	10875
 L’ARE LISTES DES PROJETS POUR LESQUELS	15670
@@ -941,8 +944,9 @@ Pound	17104
 Pound Sterling	8443,2691,3651,238
 Pounds	11863
 Pounds Advanced	12917
-Pouni	10875
+Pouni	10875,6758
 Pouni Sanguié Centre-Ouest	15715
+Pouni. Agence	17633
 Pounthioun	16696
 Poupança Bankita	10775
 Poupette Sweezy Roy	16100
@@ -973,6 +977,7 @@ Pour Bange Bank Cameroun	3779
 Pour Bilango Kevin	16478
 Pour Blerta Cela	9055
 Pour Brut	10965
+Pour Chaima Abdourahim Saïd	17643
 Pour Charlemagne Yankoty	3682
 Pour Christian Katende	7676
 Pour Christian Kodia Ago	6558
@@ -982,7 +987,7 @@ Pour Congo Telecom	9818
 Pour Daddah Mekhala Mohamed	10402
 Pour Dakar	12519
 Pour Djibouti	7599,2932,3411,754
-Pour Djibril Ouattara	6223,1
+Pour Djibril Ouattara	6223,1,11411
 Pour Dongo Lorita	16478
 Pour Dr DJITTE	8312
 Pour Dr Jean Noël Bonkoungou	8098
@@ -993,6 +998,7 @@ Pour ENERKA	15670
 Pour Emery Assogba	4684
 Pour Emmanuel Diokh	2353
 Pour Emmanuel Girardeau	16324
+Pour Eméfa	17550
 Pour Fabrice Aka M'Vouti	8336
 Pour Fabrice G. Dako	6744
 Pour Fallone Medoume Yi-Wora	16007
@@ -1019,6 +1025,7 @@ Pour Ibrahima Diallo	9845
 Pour Ibrahima Kamagaté	9620
 Pour Idrissa Nassa	7280
 Pour Ies	10813
+Pour Ilyas Aden Idriss	17643
 Pour Internet	10226
 Pour Interpol	9132
 Pour Iro Adamou	6223
@@ -1031,6 +1038,7 @@ Pour Jean Donatien Tsokati	16289
 Pour Jean Luc Mastaki	3611
 Pour Jean Sansan Kambilé	6904
 Pour Jean-Jacques Kayembe	8524
+Pour John	17550
 Pour Jonas Mfouatie	5905
 Pour Julien Tessier	5712
 Pour Jumia	9848
@@ -1058,6 +1066,7 @@ Pour M. Samuel Nouetagni	14244
 Pour M. Traoré	6701
 Pour MTN Bénin	16090
 Pour Madagascar	3559,10782,257,15
+Pour Mahad Osman Abdi	17643
 Pour Mahamoudou Sana	3592
 Pour Maixent Bekangba	6116
 Pour Mamelasoa Ramiarinarivo	14604
@@ -1076,6 +1085,7 @@ Pour Mme Kano Yahanatou	10471
 Pour Mme Saada Abdillahi Miguil	7713
 Pour Moov Africa	3526,841
 Pour Moov Africa Gabon Telecom	11674
+Pour Moustapha Mahamoud Haibeh	17643
 Pour Naoufad Saandi	12079
 Pour Nathalia Dukhan	4334
 Pour Ned Nwoko	8984
@@ -1121,6 +1131,7 @@ Pour Wilfried Assandé	6237
 Pour Yamoussa Nana Camara	11749
 Pour Yves Benoit Andecko	7268
 Pour la BAD	3792,12076
+Pour la BCC	17640
 Pour la BCEAO	10711
 Pour la BEAC	8357
 Pour la Banque	9457,3918,2526,249
@@ -1128,6 +1139,7 @@ Pour la Banque Africaine	10965
 Pour la CDC-CI	4549
 Pour la CDHC	9512
 Pour la CEDEAO	9975
+Pour la CEEAC	17698
 Pour la Ceni	8233
 Pour la Commission	9512,324,139,319
 Pour la Côte	2911,465,10943
@@ -1142,7 +1154,7 @@ Pour la Plénière	16625
 Pour la Plénière La Secrétaire de Séance	16645
 Pour la Présidence	15569
 Pour la Présidente	15874
-Pour la RDC	6383,2062
+Pour la RDC	6383,2062,9246
 Pour la Représentante Résidente du PNUD	8895
 Pour la Roumanie	3630
 Pour la République du Congo	15426
@@ -1169,6 +1181,7 @@ Pour le Conseil Le Président DECIDE DECISION	15885
 Pour le Conseil des Ministres	3326,2741,8782
 Pour le Coordinateur	3967
 Pour le Coordonnateur	8524
+Pour le DGAT	17671
 Pour le Directeur	6456,1857,5217,2052
 Pour le Directeur Général	5206,10967,77
 Pour le Directeur Général du GIMAC	8328
@@ -1179,6 +1192,7 @@ Pour le Gouvernement	15542,170,20
 Pour le Gouverneur	10492
 Pour le Gouverneur Daniel Bumba	16311
 Pour le MEF	15901
+Pour le Mali	17666
 Pour le Maroc	6241,11233
 Pour le Minfi	2926
 Pour le Ministre	3191,978
@@ -1205,11 +1219,13 @@ Pour le Responsable	3989
 Pour le SOSUP	16196
 Pour le SSN	10874
 Pour le Secrétaire	8956,77
+Pour le Secrétaire Général	17671
 Pour le Service Internet	15710
 Pour le Service SMS	15710
 Pour le Service Voix	15710
 Pour le Sénégal	2353,5106,3592,461,175
 Pour le Togo	7582
+Pour le VPM Jean-Pierre Bemba	17589
 Pour-	13300
 Pour- Effectif	13300
 Pour... Lire	3526,841
@@ -1255,7 +1271,7 @@ Pourcentages	15670,129,450
 Pourgarantirlaséparationdestâchesauseindes	15525
 Pourledépôtlégoldesjournouxélectroniquesàchoqueporution	15397
 Pourqu'unconlroisoitvoloblementconcluporvoieélecironique	15429
-Pourquoi	747,2245,124,1906,32,105,514,370,340,494,778,20,218,326,459,41,2,1309,229,383,175,9,843,4,76,185,1456,234,857,68,134,158,423,28,287,13,78,42,228,424,118,47,28,71
+Pourquoi	747,2245,124,1906,32,105,514,370,340,494,778,20,218,326,459,41,2,1309,229,383,175,9,843,4,76,185,1456,234,857,68,134,158,423,28,287,13,78,42,228,424,118,47,28,71,1088
 Pourquoi la République du Burundi	13677
 Pourquoi le Togo	11689
 Pourrait	14425
@@ -1267,7 +1283,7 @@ Poursuite Antibio- Médica- Solution Remède Pourcent-	13300
 Poursuivant	2738,453,135,2530,211,1149,1065,2598,272,2423,2779,387
 Poursuivons la Marche	15848
 Poursuivre	2342,35,589,390,2904,694,1666,271,1102,718,1,146,2443,89,1089,1060,3,41,41,175,169,58,11,68,376,226,741
-Pourtant	2366,995,165,132,722,1738,99,24,16,343,1076,212,41,30,40,68,288,170,116,37,138,75,159,4,553,939,65,106,159,1198,38,1162,32,84,141,42,850,65,1,1,190,710,84,19,106,72,177,117,550,42,69,1,1,92,728,23
+Pourtant	2366,995,165,132,722,1738,99,24,16,343,1076,212,41,30,40,68,288,170,116,37,138,75,159,4,553,939,65,106,159,1198,38,1162,32,84,141,42,850,65,1,1,190,710,84,19,106,72,177,117,550,42,69,1,1,92,728,23,72
 Pourvoir	15542
 Pousadas	11458
 Pousser	16328
@@ -1404,7 +1420,9 @@ SI VOUS NE POUVEZ DÉTERMINER SI	13300
 SNIGS. Pour	15475
 SOCIÉTÉ POUR LE DÉVELOPPEMENT DES FORÊTS	2342
 SOCIÉTÉ POUR LE DÉVELOPPEMENT MINIER	2342
+SOGAK Pour	17640
 SOLIDARITE COMITE NATIONAL DU RASSEMBLEMENT POUR	16637
+SOLUTIONS DIGITALES POUR VOUS WEB365	17587
 SONATREL LA TRANSPARENCE POUR UN SECTEUR	10975
 SOURC E POUR LES BESOINS	16103
 SSN Pour	10874
@@ -1420,6 +1438,7 @@ Sale of Poultry	17043
 Score Effectif Pourcent- Pourcent- Pourcent- Score	13300
 Secteur Sous- Homme Effectif Total Pourcentage	10875
 Semana da Poupança	16579
+Serge Kimbila Pour	17638
 Services GBP Great British Pound GDP	1243
 Services. LA TRANSPARENCE POUR UN SECTEUR	10975
 Sexe Nationalité Effectif Pourcentage Homme Nationaux	10875
@@ -1509,6 +1528,7 @@ V.5 Pourcentage	10847
 VALEUR AJOUTÉE POUR UNE INDUSTRIE Article	15177
 VALUATION DES PRINCIPAUX RISQUES QUI POURRAIENT	14424
 VELOPPEMENT LOCAL Pour	15558
+VENEEM Pouni	17633
 VI. PRINCIPES DIRECTEURS POUR LA GESTION	15624
 VI. RESSOURCES ET RESPONSABILITÉS POUR METTRE	15746
 VI. SUIVI- EVALUATION Pour	12

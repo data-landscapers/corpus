@@ -69,7 +69,7 @@ All Namibians	12925
 Allexer Namundjembo The City of Windhoek	8676
 Amostra Namibe	10777
 Angola Ghana Kenya Mozambique Namibia Nigeria	5247
-Angola and Namibia	6618,3341,3196
+Angola and Namibia	6618,3341,3196,4428
 Anita Anyango Namibia	13139
 Anti-Corruption Commission of Namibia	3445
 Arab Member States Country Expert Name	2958
@@ -307,6 +307,7 @@ Counsel Oounsel LEGEN Extended Team Name	11525
 Country ICT Survey for Namibia. Sweden	12325
 Country Name	11129,1371,4080
 Country’s Name	11129
+Credit Guarantee Schemes Scheme Name Incumbent	7763
 Criteria for Street Naming	11129
 Cubango Namibe Huíla Cunene Sul	10760
 Cumulative Target Values Indicator Name Core	15411
@@ -395,9 +396,9 @@ Domains Names	15340
 Dorothy Cynthia Nampota	13477
 Dot.gov.lr Domain Name Policy	16975
 Download Namibia	12350
-Dr. Namalomba	13240
+Dr. Namalomba	13240,4472
 Dr. Namalomba. The Minister	13240
-Dr. Shadric Namalomba	13152,88
+Dr. Shadric Namalomba	13152,88,4472
 Dr. Shadric Namalomba. India and Malawi	13152
 Draft Interoperability Framework for Namibia	12961
 E Household NAME’s NAME	582
@@ -1091,7 +1092,7 @@ Namahounondougou	3338
 Namakuzu Shandavu and Rabecca Banda	1249
 Namakuzu Shandavu and Rabecca Banda. A Zambian	1249
 Namakwa	11343
-Namalomba	3933,857,1061,702,39,221,630,43,356,1374,1337,95,2504
+Namalomba	3933,857,1061,702,39,221,630,43,356,1374,1337,95,2504,4560
 Namanga	5883,8717
 Namanga Loitoktok Lunga Lunga Figure	12256
 Namanve	1150,3645,454
@@ -1102,7 +1103,7 @@ Namathisela	11573
 Namati	12300
 Namayingo District	3005
 Namazihana Bachoke Patrick	6620
-Namba	1921,4406,594,3669,1404
+Namba	1921,4406,594,3669,1404,5581
 Namba Has Started Plans	1644
 Namba and Indian Puttaswamy	9399
 Nambale	10313
@@ -1236,7 +1237,7 @@ Name2 Position3 Staff-month Rate4 Foreign Staff	13037
 NameDescriptionDuration gac Contains	3212,2216,578
 NameDescriptionDurationCookie PreferencesThis	3212,2216,578
 NameDescriptionDurationwordpress logged inUsed	3212,2216,578
-Named	776,22,728,92,177,1011,402,905,162,350,434,132,854,381,529,51,83,1986,1147,692,242,176,3832,740
+Named	776,22,728,92,177,1011,402,905,162,350,434,132,854,381,529,51,83,1986,1147,692,242,176,2819,1013,740
 Named ADVOCACY ANALYSIS	3572
 Named African	9611
 Named Best	2269
@@ -1814,7 +1815,7 @@ Namungo	9779
 Namwala District	12408
 Namwaste Management Facility	13189
 Namwater	12478
-Namíbia	2816,3982,3192,1447
+Namíbia	2816,3982,3192,1447,6104
 National AIDS Control Programme NAMS	16951
 National Archives of Namibia	12890
 National Broadband Policy of Namibia	1433

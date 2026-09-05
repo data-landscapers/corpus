@@ -29,7 +29,7 @@ DPCS SAS	5993
 DRS Haut Sassandra	15712
 DRSRS and France's DIGINOVE SAS	14605
 DSD and SASSA	2307
-DSD and Sassa	14193
+DSD and Sassa	14193,3546
 DTP MINING GUINEE SASU	16623
 Daniel Saslevski	11149
 Denis Christel SASSOU NGUESSO	15780
@@ -214,7 +214,7 @@ Sasai Fintech Burundi S.A	13452
 Sasha	6948
 Sashin Naidoo	11961
 Sasol	5621,5589
-Sassa	2752,752,418,3659,329,557,130,3063,2533
+Sassa	2752,752,418,3659,329,557,130,3063,2533,3546
 Sassa Act	3504
 Sassa Advocate Herman van Eeden	14193
 Sassa Gold Cards	7856
@@ -224,6 +224,7 @@ Sassa's Mankweng	11660
 Sassa's Social Relief of Distress	14193
 Sassa. Asked	11660
 Sassandra	15712
+Sassa’s Germiston	17739
 Sassou Nguesso	15553
 Sassoufit	9082
 Sastry	11135

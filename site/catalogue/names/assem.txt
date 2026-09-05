@@ -58,7 +58,7 @@ Assemble	1161,14552
 Assemble Diverse Expertise	12675
 Assemble Nationale	13329
 Assemble Populaire Communale	15555
-Assembled	6921,2478
+Assembled	6921,2478,8186
 Assemblee	15584
 Assembleia	6191,3608,978,736,31,25
 Assembleia Geral	11531,7,3853,1643,24
@@ -100,7 +100,7 @@ Assemblies Mr. Mustafa Yasin Sheikh	15120
 Assemblies of God Church Soweto A. Shipena	13046
 Assembling	14113
 Assembling Laptops and Tablets	13122
-Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135,283,8,245,346,17,751,76,195,310,3,13,7,6,5,15,56,17,279,290,78,153,435,87,113,221,27,312,269,95
+Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135,283,8,245,346,17,751,76,195,310,3,13,7,6,5,15,56,17,279,290,78,153,435,87,113,221,27,312,269,95,366
 Assembly ARTICLE	14409
 Assembly Act	12939
 Assembly Act. Accordingly	14072
@@ -138,7 +138,7 @@ Assembly1	12352
 Assemblé Générale	17485
 Assemblé Nationale	2342
 Assemblé Populaire CommunalePAPW Président	15555
-Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68,152,51,12,452,329,77,1255,1,76,49,15,106,4,168,24,2,1,9,53,9,96,404,60,43,19,5,4,7,31,42,7,130,49,163,186,323,12,3,10,4,26,4,17,2,1,3,7,15,1,9,10,19,14,26,10,26,17,11,5,1,12,20,25,5,6,5,5,4,6,12,19,2,3,5,12,23,11,7,7,150,23,8,26,21,27,17,21,15,17,60,33,1,52,21,15,8,55,13,100,10,6,13,68,44,1,8,8,81,18,733,6,14,7
+Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68,152,51,12,452,329,77,1255,1,76,49,15,106,4,168,24,2,1,9,53,9,96,404,60,43,19,5,4,7,31,42,7,130,49,163,186,323,12,3,10,4,26,4,17,2,1,3,7,15,1,9,10,19,14,26,10,26,17,11,5,1,12,20,25,5,6,5,5,4,6,12,19,2,3,5,12,23,11,7,7,150,23,8,26,21,27,17,21,15,17,60,33,1,52,21,15,8,55,13,100,10,6,13,68,44,1,8,8,81,18,733,6,14,7,92,16,63
 Assemblée Administration	9480
 Assemblée Chaque	15405
 Assemblée Générale	10821,154,4052,385,1227,846
@@ -162,7 +162,7 @@ Assemblée Législative de Transition	2575,1801,11416
 Assemblée Législative de Transition. FASO ARZEKA	15729
 Assemblée Législative du Peuple	16475
 Assemblée Mondiale	13728,1695
-Assemblée Nationale	12,130,1089,50,19,382,389,624,97,1571,204,2175,4079,2480,40,505,78,492,43,41,43,67,755,34,24,114,6,60,70,30,9,15,209,29,3,52,175,78,37,72,233,1,1
+Assemblée Nationale	12,130,1089,50,19,382,389,624,97,1571,204,2175,4079,2480,40,505,78,492,43,41,43,67,755,34,24,114,6,60,70,30,9,15,209,29,3,52,175,78,37,72,233,1,1,967
 Assemblée Nationale A LA UNE SOCIÉTÉ	16382
 Assemblée Nationale Cible	15936
 Assemblée Nationale Janvier	15712
@@ -308,7 +308,7 @@ GAMBIA AT THE NATIONAL ASSEMBLY	17228
 Gambia's National Assembly	3749
 Gambian National Assembly Members	16929
 Gender Mainstreaming and Public Assembly Policing	17105
-General Assembly	1237,880,454,1012,1950,144,4,1252,179,1509,2220,352,163,630,924,567,410,864,276,366,590,880,160
+General Assembly	1237,880,454,1012,1950,144,4,1252,179,1509,2220,352,163,630,924,567,410,864,276,366,590,880,160,662
 General Assembly Article	15027
 General Assembly Decisions Article	15027
 General Assembly Decisions Section	15027
@@ -380,7 +380,7 @@ Municipal Assemblies	16163,361
 Municipal Assemblies and Regional Co-ordinating Councils	16524
 Municipal Assembly	7368
 Municipal Assembly Staff	16163
-Municipal and District Assemblies	7457,1617,5139,1,71,1816,152,221,122
+Municipal and District Assemblies	7457,1617,5139,1,71,1816,152,221,122,1121
 Municipal and District Assemblies ML Machine Learning	4126
 Municipal and Metropolitan Assembly	11
 NA Honourable Ministers National Assembly Members	17124
@@ -400,7 +400,7 @@ NDICE ASSEMBLEIA NACIONAL O Presidente	15477
 NTIBARUTAYE Athanase Assemblée Nationale	13341
 Natiolial Assembly	11852
 National Assemblies	14409
-National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49,161,29,26,85,55,88,54,1,39,44,53,48,1,31,91,3,1,1,5,1,10,4,1,3,2,3,17,6,5,26,4,9,3,3,4,1,1,13,7,2,2,11,475,1496,3,19,9,7,9,1,1,2,9,19,11,18,7,154,72,31,20,119
+National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49,161,29,26,85,55,88,54,1,39,44,53,48,1,31,91,3,1,1,5,1,10,4,1,3,2,3,17,6,5,26,4,9,3,3,4,1,1,13,7,2,2,11,475,1496,3,19,9,7,9,1,1,2,9,19,11,18,7,154,72,31,20,119,219,5,73,11
 National Assembly Act	12652
 National Assembly Administration Act	7859
 National Assembly Allowances Act	14717
@@ -448,6 +448,7 @@ National Assembly Standing Orders	2742,7571
 National Assembly The Honourable Deputy Prime	10210,2482
 National Assembly Total Registered	12201
 National Assembly URL	17105,103
+National Assembly and Lagos State Government	17571
 National Assembly and Local Governance. Women	16951
 National Assembly and Ministry of Finance. All	14773
 National Assembly and Senate	1958
@@ -472,6 +473,7 @@ National Assembly's Defence	572
 National Assembly's ICT and Education Committee	3749
 National Assembly's Justice and Legal Affairs Committee	9545
 National Assembly's SIPOP	9134
+National Assembly's Select Committee	17655
 National Assembly. Access	14742
 National Assembly. Angola	10779
 National Assembly. Article	14127
@@ -593,6 +595,7 @@ Senhor Presidente da Assembleia Nacional Senhores Membros	15892
 Session of International Solar Alliance Assembly	16649
 Seventy-First World Health Assembly	396
 Seventy-first World Health Assembly	12255
+Smart Assemblies	17717
 Somduth Eighth National Assembly	14753
 Somduth MAURITIUS Eighth National Assembly	14841
 South Sudan’s National Legislative Assembly	4583

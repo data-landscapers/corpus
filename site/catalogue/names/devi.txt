@@ -49,7 +49,7 @@ Develop the Mobile Device Management	11986
 Developers of Fiscal Devices	13606
 Deviation	10870,365,751,1199,1361,534
 Deviations	9855,1142,2188,1895,176,407
-Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477,345,459
+Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477,345,459,2173
 Device Access	16799
 Device Access Fund	14966,53
 Device Access Management System	15019
@@ -66,10 +66,11 @@ Device Management System and Type Approval Regulations	16799
 Device Manufacturing	3487
 Device Penetration	3487
 Device Requirements Applicants	11347
+Device Sales	14151
 Device School Support System	11857
 Device V	5029
 Device VI	5029
-Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559,535,1117,2160,1,58,21,256
+Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559,535,1117,2160,1,58,21,256,333,166
 Devices Acquisition Type	16884
 Devices Devices	14723
 Devices For Primary Health Care	10776
@@ -95,6 +96,7 @@ Diagnostics and Devices The Malawi National Supply	13166
 Digital Devices	5871,6582
 Digital Infrastructure and Devices	11918
 Direct-to- Device	16144
+Driving Digital Inclusion Through Affordable Devices	14151
 ENABLED MEDICAL DEVICES ACKNOWLEDGEMENTS SAHPRA	3651
 ET D’IMPORTATION DES DEVISES BILLETS	17485
 East Africa Device Assembly Kenya Ltd	3975

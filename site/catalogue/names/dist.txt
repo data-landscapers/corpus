@@ -604,7 +604,7 @@ Distributors GoTV Kenya	6946
 Distributors Master Plans	12399
 Distributtiioonn	12256
 Distribué	9502,2522,3,2662,1200,514
-District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338,236,83,129,15,35
+District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338,236,83,129,15,35,447
 District Action Plan DEMISO	12175
 District Administration	13423
 District Administrations and Local Authorities	13472
@@ -637,7 +637,7 @@ District Commissioner	7503,5136,259,107,2050,2059
 District Commissioner Abdullahi Hasan	2743
 District Commissioner for Livingstone	13477
 District Commissioner's Office	127
-District Commissioners	8575
+District Commissioners	8575,9043
 District Commissioners and Town Chiefs	17114
 District Committees	16887
 District Council	1778,210,10229,314,574,1612,218
@@ -763,6 +763,7 @@ District Manager	11129
 District Mayor	12338
 District Medical Officers	3791
 District Municipality	8999,2987
+District National Registration Offices	17686
 District Number	16921
 District OSR	13418
 District Officers	7503,311
@@ -931,6 +932,7 @@ Districts de Côte	15712,224
 Districts de Madagascar	14622
 Districts de PGO	15712
 Districts de Toamasina	14622
+Districts for Stronger Outbreak Preparedness	17735
 Districts of Boteti	12552
 Districts of Huye	718
 Districts of Lesotho	12740
@@ -1139,8 +1141,9 @@ Gashenyi Kisaro Gicumbi District Karegamanzi Rubavu	12413
 Gatare. In Gasabo District	4941
 Gatenga Kanombe Rwamagana District Ruramira Mukura	12413
 Gatsibo District	15255
-Gender Distribution	14761,74
+Gender Distribution	7763,6998,74
 Gender Distribution Among Management Staff	12951
+Gender Distribution Gender	7763
 Gender Distribution Jun	15130
 Gender Distribution of RGD Staff Figure	14761
 General Assembly Distr	16958
@@ -1149,6 +1152,8 @@ Generate and Distribute Electricity	16978
 Generation and Management of OSR for Districts Legal	13418
 Geographic Distribution and National Resilience In Nigeria	10157
 Geographic Distribution of Businesses	12445
+Geographical Distribution of ATMs Region	7763
+Geographical Distribution of Bank Branches Regions	7763
 Geographical Distribution of Persons	12460
 Ghana Boundary Commission Distinguished Ladies and Gentlemen	16511
 Ghana's District Development Data Platform	1512
@@ -1317,6 +1322,7 @@ La Société de Distribution	2342
 Land Distribution for Housing	14874
 Land Processes Distributed Active Archive Center	11334
 Large Micro Utility Distribution License	16978
+Lavushimanda District National Registration Officer Kasapo	17686
 Le DIST	15653
 Least Cost Transmission and Distribution	14947
 Lembe District	11266,661
@@ -1426,7 +1432,7 @@ Mugesera Rurenge Nasho Karongi District Gitesi	12413
 Mulheres Distribuição	10777
 Mulobezi District Commissioner	2386
 Mungwi and Kaputa Districts	13477
-Municipal and District Assemblies	7457,1617,5139,1,71,1816,152,221,122
+Municipal and District Assemblies	7457,1617,5139,1,71,1816,152,221,122,1121
 Municipal and District Assemblies ML Machine Learning	4126
 Municipal and District Chief Executives	15927,669
 Municipal and District Councils	14721,25
@@ -1529,7 +1535,7 @@ Ondó Mikue Coordinador Distrital de Baney Ilmo	16920
 Operational Distribute	17157
 Operationalization of Districts Emergency Command Centre	14935
 Operations AI Artificial Intelligence DDM District	11986
-Optical Distribution Network	3487,5051,5613
+Optical Distribution Network	3487,5051
 Optimized Distribution Network	12358
 Ordinateur HD Hôpital de District HL7 Health	13306
 Organizing and Distributing Tax Information	1793,1413,3881
@@ -1752,6 +1758,7 @@ Solwezi District	13378
 Solwezi and Kalumbila Districts of Northwestern	1988
 Sonelgaz Distribution	3286
 Sous-Préfecture du District de NDANGUI	15973
+South Tongu District	17656
 Southern District of California	11342
 Southern Regional Electricity Distributor	13088
 Special COVID-19 Social Relief of Distress Grant	6832
@@ -1831,7 +1838,7 @@ Vicente Mbomio Molongua Inspector Distrital de Annobón	16920
 Vilanculos District	1228
 Virtual Distribution	10762
 WFP Distribution	17257
-Wakiso District	9696
+Wakiso District	9696,7987
 War and Civil Disturbance	704,1,430,406,1,683
 Western Area Urban District	8903
 Western Cape District West Coast Boland	8999

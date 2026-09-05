@@ -238,7 +238,7 @@ Education Minister Jarso M. Jallah	4554
 Edwards M	12255
 Elvis M. Binda	781
 Emily M	3654
-Emmanuel M. Tutuba	7763
+Emmanuel M. Tutuba Chairperson	7763
 Endriyas M	3791
 Eng. E. M. Kamusoko and Mr E	1554
 Ensemble M F	13442
@@ -595,6 +595,7 @@ M ICT Budget	5715
 M ID	5986
 M ID OF PERSON	582
 M IDA	1024,1102,12893
+M IDs	7763
 M IDsApril	2318,6
 M IFC	1416,103,2
 M IFC-arranged	1419
@@ -831,6 +832,7 @@ M Surface	16552,454
 M Sustainable Procurement	11469
 M Syndicated Debt Facility Norfund	929
 M System Strengthening	409
+M TASAF	7763
 M TRANSFORME	12031
 M TWY	16552,454
 M TWY B	16552,454
@@ -870,6 +872,7 @@ M UI GRAN. SUSP. BUV. COMP	15930
 M UI PDRE. SOL. INJ. COMP	15930
 M UNECA	289
 M USD	474,173,154,321,420,2919,7996,1275,1810
+M USD Delivering Strong and Sustainable Financial	14151
 M USD. Il	14472
 M USG	1167
 M Uganda W M Bangladesh W	11964
@@ -1010,7 +1013,7 @@ M. Abdellatif Arar	15933
 M. Abdellatif Cherif	15602
 M. Abdelmadjid Amouri	16230
 M. Abdelmadjid Recioui	15933
-M. Abdelmadjid Tebboune	6439,322,3037,814,3627,1459,156,127,83,60,209,124,20
+M. Abdelmadjid Tebboune	6439,322,3037,814,3627,1459,156,127,83,60,209,124,20,1152
 M. Abdelmaksoud Rachdi	8891
 M. Abdeltif LOUDYI	17483
 M. Abdelwahhab Zeini	15608
@@ -1031,7 +1034,7 @@ M. Abdirachid Idriss Nour	15304
 M. Abdoul Kader Moussa Garba	9567,101,486,393
 M. Abdoul Kadri Hama	14243
 M. Abdoulkader Kamil Mohamed	4774
-M. Abdoulkadri Hama	14242
+M. Abdoulkadri Hama	14242,3429
 M. Abdourazak	3941
 M. Abdul Sylla	16571
 M. Abdul-Rahman	6948
@@ -1049,7 +1052,7 @@ M. Adama Sawadogo Co-fondateur Maritimes A.Sawadogo	10812
 M. Adel Bentoumi	15675
 M. Adeyemi	11140
 M. Adji ALI. DIRECTION PROVINCIALE DES	16381
-M. Adji Ali Salatou	2327,1010,630,22,1385,8941
+M. Adji Ali Salatou	2327,1010,630,22,1385,8941,3358
 M. Adnan HOUDROUGE	16099
 M. Adoum Djimet Saboun	6125
 M. Adrien Wany N’KOGHE MBA	16175
@@ -1174,7 +1177,7 @@ M. Assan Césaire TSINGA	16099
 M. Assane Gueye	2441
 M. Assets	856
 M. Athoumani Abdou Mmadi	5814
-M. Attahirou Mahamadou Maidouka	8228
+M. Attahirou Mahamadou Maidouka	8228,9443
 M. Aubert NDILA	16175
 M. Aubin OKILI	16381
 M. Audace OLABA	16175
@@ -1358,6 +1361,7 @@ M. Chrysos ANDJEMBE OKOUMBA	16381
 M. Clotaire OBAME NZE	16381
 M. Clément MEGNE ME ZUE	16175
 M. Co-financiers	1405
+M. Codioro Moussa N’Guénore	17667
 M. Commits	400,1,321,1,228,1,609,1,2
 M. Composition of Steering Committee	14843
 M. Condé	16699
@@ -1576,6 +1580,7 @@ M. Fouad Belkessam	15432
 M. Fouad Boukhari	16344
 M. Fouzi Guerouaou	15930
 M. Francis AGNOUGA	16381
+M. Francis Gahizi	17667
 M. Francis MBOULOUNGOU	16381
 M. Franck DOUKAKA. MINISTERE DE L’INTERIEUR	16099
 M. Franck Eddy NDOUMBA. INSPECTION GENERALE	16381
@@ -1760,6 +1765,7 @@ M. Ibrahim Awadalla Federal Undersecretary and Acting	14898
 M. Ibrahim Iddi Ango	4657
 M. Ibrahim Idi Ango	4657
 M. Ibrahim Kalil Konaté	10933
+M. Ibrahim Manzo Diallo	17605,68
 M. Ibrahim Moussa Kouré	10154
 M. Ibrahim Slimani	16344
 M. Ibrahima KABA	16616
@@ -2142,6 +2148,7 @@ M. Magloire MENGANDE MESSILIE	15973
 M. Magnus Enzell	17448
 M. Magré	1876
 M. Mahamadou Aly Haidara	14290
+M. Mahamadou Seyni	17671
 M. Mahaman Elhadj Ousmane	4657
 M. Mahamane Alassane TOURE	15837
 M. Mahamane Lawali Roufai	7333
@@ -2151,7 +2158,7 @@ M. Mahdi Mahamoud Goudone	3795
 M. Mahdi Omar Farah	13900
 M. Mahmoud Gherissi	15456
 M. Mahmoud Mehadj	15930
-M. Maidouka	8228
+M. Maidouka	8228,9443
 M. Maixent NGOUNGA	16099
 M. Majeed	6948
 M. Maker Mwangu Famba Former Minister	11916
@@ -2266,6 +2273,7 @@ M. Mohamed Sikhé CAMARA	16746
 M. Mohamed Sikhé Camara	16723
 M. Mohamed Skoudarli	15456
 M. Mohamed Warsama Dirieh	13440
+M. Mohamed Yeslem Filali	17667
 M. Mohammed Eidha Almenhali	14457
 M. Mohammed-Larbi Deghdough	16344
 M. Mokdad Aggoun	15456
@@ -2938,6 +2946,7 @@ M. Youcef Mohamed Ali Sendid	16085
 M. Youcef Tahar-Taiba	15863
 M. Younes Bekkar	8891
 M. Younes Bensiahmed	15933
+M. Younes Zouhar. Cette	17667
 M. Youssouf Gorou Tchaby	6125
 M. Youth	12729
 M. Yoyi Bokete PROVED	11916
@@ -3042,6 +3051,7 @@ Mohamed M. Mohamed	5941
 Mohammed Fakih Ahmad M. Sheikh Mohammed	15943
 Mohammed Thabet M Audah	17070
 Monrovia. Minister of Posts and Telecommunications Sekou M	3008
+Monsieur C. M. Patrick HINNOU	17584
 Monsieur Ghislain Ledoux MBOUVIE EDOU. M	16175
 Monsieur M. SHEN Haixiong	15605
 Monsieur SAINCLAIR HENRI DOUNGO M MEYOULOU	16328

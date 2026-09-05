@@ -69,7 +69,7 @@ API-based	710,4138,1539,926,1119,3927,41,637,1753,207,717
 API-based EmaSwati	12444
 API-clean	13272
 API-dependency	7151
-API-driven	4973,1174,2285,4610,34,109,356,48,1163
+API-driven	4973,1174,2285,4610,34,109,356,48,1163,2787
 API-first	2522,2602
 API-integrated	10718
 API-integration	5230
@@ -290,6 +290,8 @@ Registry APIs	6423
 Regulated APIs	10719
 Requires APIs	12444
 SDK and API	7065
+SDMX APIs	17539
+SDMX-compliant APIs	17539
 SIM Swap and Number Verification APIs	6593
 Schools API	15630
 Secure APIs	14997
@@ -298,6 +300,7 @@ Service APIs The APIs	6423
 So the API	7885
 South Africa AI Artificial Intelligence API	5533
 Spécifications API	12043
+Standardized APIs	17539
 Standards Institute API Application Programming Interface	10765
 Storage APIs	13185
 Studies White Papers API Docs FAQ	12211

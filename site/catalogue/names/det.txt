@@ -290,6 +290,7 @@ Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1
 Details Aim A Feasibility Study	17028
 Details Application	8726
 Details Baseline Target Due	1818
+Details Beneficiaries	7763
 Details Guide	16212
 Details Hydro Methane Thermal Solar Peat	12358
 Details Location	9134,140
@@ -343,7 +344,7 @@ Detective Service	11188
 Detective Service Build	11188
 Detective Service Develop	11188
 Detective Services Develop Rural Safety Crime	11188
-Detectámos	8385
+Detectámos	8385,9185,32
 Detecção	539,2277
 Detecção Automática de Interacção Qui-Quadrado	11416
 Detecção de Dupla Inscrição	11425
@@ -419,7 +420,7 @@ Deterrence and Self-Enforcement	12948
 Deterrent	14932
 Detetar	11527
 Deteção	11376,4590
-Dette	4420,5005,1550,605,2192,1615,12,226,1,112,40,130,91,21,27,24,73,31,96,2,71,37
+Dette	4420,5005,1550,605,2192,1615,12,226,1,112,40,130,91,21,27,24,73,31,96,2,71,37,1203
 Dette Charles M’BA	15727
 Dette Directrice	16485
 Dette Madame Sarah KPENOU. Fait	16485
@@ -725,6 +726,7 @@ Radar Interference Detection	736
 Rapid Detection and Response	10776
 Rapidly Detect Outbreaks	15959
 Rapidly Detected And Responded To Responding	10776
+Receive Trip Details	17687
 Refer Document Purchaser's Detail Name	13548
 Refugee Status Determination	12658,2523
 Refugee Status Determination Officer	11177,41,768

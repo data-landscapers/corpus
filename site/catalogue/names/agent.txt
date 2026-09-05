@@ -33,6 +33,7 @@ Adjudant GANIYOU ETOUGHE NJIFAKOUO Abdel. Agent	16381
 Aduanero Agente Gendarme Marinero Soldado	4209
 Africa Building the Agentic Future	6441
 Agent	573,163,2453,192,324,1143,717,342,1075,1339,1954,97,396,68,20,20,1084,235,252,738,115,14,19,57,332,106,24,579,335,231,133,231,38,17,15,1,46,64,53,36,4,35,3,59,12,3,352,18,54,465,242
+Agent Administratif Supérieur	17625
 Agent Authority Act	14843
 Agent Banking	11469
 Agent Banking Advisory	11469
@@ -70,6 +71,7 @@ Agent-supported	7648
 Agent-to-agent	4265
 Agent. Creating	13333
 AgentTesla	9830
+Agentcy Labs	17695
 Agente	11582,3858,1415
 Agente Consular	4209
 Agente Criminoso	549
@@ -83,7 +85,7 @@ Agente Principal da Polícia Nacional	16290
 Agente Público	11452
 Agente de Desenvolvimento Comunitário	11390
 Agente de Registo	576
-Agentes	1701,1115,1393,7203,102,60,1203,3974,104
+Agentes	1701,1115,1393,7203,102,60,1203,3974,104,747
 Agentes Bancários	11438
 Agentes Pofivalentes de Saude	4260
 Agentes Registradores de Nombres de Dominio	16855
@@ -96,7 +98,7 @@ Agentes de IA	2816
 Agentes de Registo	576
 Agenti	10780
 Agentic	6603,1186,413,6550
-Agentic AI	2715,3687,918,14,691,119,6125,39,482,1422,597
+Agentic AI	2715,3687,918,14,691,119,6125,39,482,1422,597,730
 Agentic AI Cloud	12871
 Agentic AI Hackathon	5327
 Agentic AI Master Class Laboratory	13688
@@ -186,6 +188,7 @@ Entities and Agents	16832
 Espace Agent	16685
 Exa Agent	9605,670,4591,776
 Expand Agent Banking Services Agent	8184
+Expanding Agent and Branch Networks	7763
 Exports Clearing Agents Application Form CE	12454
 External Verification Agent	11560
 Flood Intelligence Agent	9561
@@ -236,7 +239,7 @@ Mme Wiltin Shirley DEMBA. Agents	16381
 Mobicash Agent	13418
 Mobile Agents Number of Mobile	15023
 Mobile Money Agent SIM Cards	15136
-Mobile Money Agents	12978
+Mobile Money Agents	7763,5215
 Mobile Money Agents Association of Ghana	3543
 Mobile Money and Banki Pafupi Agents	12182
 Monitoring System Installation of Agents for Backup-System	9123
@@ -249,6 +252,9 @@ Namibia Dollars Purpose of Commission of Agents	13037
 National Intelligence Agent	11179
 Network of Agricultural Extension Agents	12529
 Nominees of Tax Agents	14833
+Number of Bancassurance Agent Networks	7763
+Number of Bancassurance Agents	7763
+Number of Insurance Agents	7763
 Number of Registered Mobile Money Agents	6671
 OFFICIERS ET AGENTS	16636
 OLLOUMOU Ramadian. Agent	16381
@@ -295,6 +301,7 @@ Statistical Disruptor and National Change Agent	17116
 Statut des Agents Non Encadrés	14431
 Suivi Mairie de Dolisie Agent	16012
 Super Agent	1290
+Super Agentes M-Pesa	17602
 Super Agents	6276,422,237,3904,47,1342,750
 Supers Agents	13468
 Support Agents	15867

@@ -196,12 +196,13 @@ Civil Society Learning and Training Centre	12201
 Civil Society Legislative Advocacy Centre	10093,1773
 Civil Society Leveraging	899
 Civil Society MoFNP	12453
+Civil Society Mr. Knut Zuchan	17586
 Civil Society National EUR	15500
 Civil Society National Grant Préparation	15500
 Civil Society Organisation	12551
 Civil Society Organisation EIA Environmental Impact	16843
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538
+Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization	14742,118
 Civil Society Organization DHIS2	10776
@@ -417,6 +418,7 @@ Government And Civil Society	18
 Government And Civil Society. Flow Type	7589
 Government Ministries and Civil Society	16951
 Government and Civil Society	789
+Government and Society	14151
 Government and Society Approach	7548
 Government of Cape Verde’s Núcleo Operacional da Sociedade	181,1,8
 Governmental and Civil Society Organisations	11857
@@ -530,6 +532,7 @@ J SOCIETE THE MINING HOUSE SARL	16623
 JOUR DE STATUTS SOCIETE DES	15848
 Justice and Society	12227
 Justicia Sociedad Pacífica	1701
+K O Instituto Nacional de Fomento da Sociedade	17628
 K SOCIETE AMA EXPRESS SARL AMA	16623
 K SOCIETE BRUTE GUINEA SARLU BRUTE	16623
 K SOCIETE DE CONSTRUCTION DE BATIMENTS	16623
@@ -567,7 +570,7 @@ LacInternet Society Khachoum Al-Wadi	2384
 Lack of Civil Society Inclusion and Participation	12556
 Law Society	4753,2525,5122,268,237,92
 Law Society of Eswatini	12473
-Law Society of Kenya	4801,1430,715,2699,398
+Law Society of Kenya	4801,1430,715,2699,398,7616
 Law Society of Lesotho	12661
 Law Society of Namibia	12905
 Law Society of Namibia. PIETER KRUGER	12951
@@ -821,7 +824,7 @@ SOUS-TUTELLE SOCIETE EQUATORIALE DES MINES	16381
 Sacco Societies Regulatory Authority	6938
 Sacco Societies Regulatory Authority SBR Statistical	2775
 Sasa Lifestyle Technology Entertainment Society Fashion	9646
-Savings and Credit Cooperative Societies	940,11291
+Savings and Credit Cooperative Societies	940,6823,4468
 School Institution University of Zimbabwe Internet Society	1154
 Security Operation Center SWIFT Society for Worldwide	15023
 Secção da Sociedade da Informação. CAPÍTULO IV GESTÃO	11382
@@ -920,7 +923,7 @@ Societies	11156,1071,370,1273,3287
 Societies Act	13339
 Societies Registration Act	12533
 Societies and Education	6832
-Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22,85,5,16,698,73,28,143,129,4,145,77,221,303,290,91,327,306,473,272,980,101,141,522,195,173,279
+Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22,85,5,16,698,73,28,143,129,4,145,77,221,303,290,91,327,306,160,313,272,980,101,141,522,195,173,279,532
 Society Authority	15936
 Society COMGOV Government Communication CTI Centre	13312,2
 Society Division and Ms. Souhila Amazouz	1243
@@ -929,6 +932,7 @@ Society Library	11237,21,28
 Society Libyan Society for Remote Sensing and Geographic	16916
 Society Networks	13557
 Society Organization	16970
+Society SIDO Small Industries Development Organization	7763
 Society Yaounde	10971
 Society and Environment	15715
 Society and Space	12227
@@ -942,6 +946,7 @@ Society of Advocates of Namibia	12951
 Society of Archivists	12325
 Society of Exploration Geophysicists	11405
 Society of Innovative Educators TEVT	13956
+Society of Medical Doctors	17569
 Society of Photo-Optical Instrumentation Engineers	15129
 Society&volume	2096
 Society- Realizing	12962

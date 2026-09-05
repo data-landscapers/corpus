@@ -216,7 +216,7 @@ Forces Le Conseil	15405
 Forces Optimiser	15999
 Forces United Nations Integrated Transition Assistance	15342
 Forces de Defense Coordonner	15999
-Forces de Défense	643,4661,2070,2885,233,1105,1732,913,331,1912,150,2,8,6
+Forces de Défense	643,4661,2070,2885,233,1105,1732,913,331,1912,150,2,8,6,1020
 Forces de Défenses	15643
 Forces de Police	7940
 Forces de Police Nationale	16143
@@ -446,7 +446,7 @@ UN Legal Identity Task Force	12337
 UNDP and Tony Blair Institute Join Forces	4046
 UPDF Chief of Defence Forces	4351
 Uganda Peoples Defence Forces	4351
-Uganda Police Force	3087,536
+Uganda Police Force	3087,536,14060
 Uganda Police Force's Cyber Crimes Unit	12232
 Umbutfo Eswatini Defence Force	12922,34,167
 Union Socialiste des Forces Populaires	8891

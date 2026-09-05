@@ -382,7 +382,8 @@ ESTRUTURANTES ADMINISTRATIVOS EST-ADM1 Equipa da DNMA	15532
 EVIEWS Equation	236
 EYOS Equivalent Years of Schooling FCV Fragility	15661
 East Africa. Equally	4766
-Eastern Equatoria State	8213
+Eastern Equatoria	17676
+Eastern Equatoria State	8213,9463
 Easy Equities and Luno Global	9367
 Ecofinge and Equacom	6481
 Economic Context Equatorial Guinea	10841
@@ -485,7 +486,7 @@ Equality. Trend Measure Score	12488
 Equalization	12032
 Equalization of Opportunities for Persons	12175
 Equalization of Opportunities for Persons Living	16950
-Equally	970,1732,1240,426,222,654,119,255,615,406,307,1,331,193,39,38,328,146,418,32,22,228,59,197,421,112,105,67,770,7,320,39,314,88,16,35,704,234,149,40,606,37,270,2,101,46,128,92,397,262,226,181,34,38,78,12,26,62,37,88,7,213,131,5,412,829,133,32,1,31,11,43,26,47,96,95
+Equally	970,1732,1240,426,222,654,119,255,615,406,307,1,331,193,39,38,215,113,146,418,32,22,228,59,197,421,112,105,67,770,7,320,39,314,88,16,35,704,234,149,40,606,37,270,2,101,46,128,92,397,262,226,181,34,38,78,12,26,62,37,88,7,213,131,5,412,829,133,32,1,31,11,43,26,47,96,95
 Equateur	10400,5203,67
 Equateur DP	11906
 Equateur Telecom Congo	15455
@@ -880,7 +881,7 @@ Equitable Water Rationing	17157
 Equitable and Inclusive Economi	13391
 Equitable and Inclusive Quality Education	16852
 Equitel	6671
-Equities	6408,8615
+Equities	6408,1355,7260
 Equity	94,169,134,195,271,36,49,1,213,656,126,44,147,98,15,7,431,272,1499,1,54,15,195,118,37,1,5,13,306,44,35,204,629,402,64,214,38,183,58,418,57,69,19,85,320,38,141,434,236,149,222,88,113,42,7,30,70,123,91,337,26,128,477,36,125,6,4,9,158,3,137,23,47,231,101,234,9,39,39,10,192,3,11,105,24,37,69,161,333,9,16,385,9,633,121,8,588,122,5,61,26,12,63,26,99,338,144,121,252,839,36,8,82,9,145,3,6,11,41,39,39,1
 Equity Addition	1944
 Equity Affect the Legitimacy of Natural Resource Governance	11006
@@ -893,7 +894,7 @@ Equity Axis Econet	6011
 Equity Axis The O-Mari Effect	6996
 Equity BCDC	9822,789,1339,22,4606
 Equity BCDC Congo	11972
-Equity Bank	5783,1243,1912,1680,693,683,233,70,2693
+Equity Bank	5783,1243,1912,1680,693,683,233,70,2693,2609
 Equity Bank Congo	4286
 Equity Bank Kenya	8937,1
 Equity Bank Kenya and KCB Bank Kenya	8937,1,141
@@ -1295,6 +1296,7 @@ Maintenance and Support of Computer Equipment Within	12917
 Maintenance des Equipements Biomédicaux	15674
 Maintenance des Equipements Electroniques	15964
 Maintenance of Equipment	12606,2130
+Malawi Health Equity Network	17569,142
 Malaysia United Arab Emirates Oman Equatorial	16996
 Management Information System EQG Equatorial Guinea	16942
 Managing Director of Equinix West Africa	7234

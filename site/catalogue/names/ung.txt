@@ -11,6 +11,8 @@ Estado UNGE Universidad Nacional de Guinea Ecuatorial	16969
 ILUNGU LEPHALAMENDE UNGQONGQOSHE WEZOKUTHUTHA USUKU	11573
 Information Management UNGGIM	15129
 J.P. and Ungson	12090
+Kagera Kaskazini Pemba Kaskazini Unguja Katavi	7763
+Kigoma Kilimanjaro Kusini Pemba Kusini Unguja	7763
 Kilolo and Unguja South	6123
 Kusini-Kusini Unguja	2718
 Law Source UNGOLF	12406
@@ -47,8 +49,9 @@ Unguaranteed	1284,12047
 Unguaranteed Commercial Financing	1704,587,1271,11348,1744
 Unguaranteed Commercial Financing IDA Resources	13331,2813
 Unguaranteed Commercial Financing US	3604
-Unguja	3954,6243,1918
-Unguja South	6123
+Unguja	3954,3809,2434,1918
+Unguja North	7763
+Unguja South	6123,1640
 Unguja Zanzibar	11612
 Unguja and Mafia Islands	3954
 Unguja and Pemba	4526,2324,4283,604

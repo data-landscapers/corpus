@@ -48,7 +48,7 @@ Administrativos Corporaciones Locales de Sendai	16898
 Adoption of CORE-MIS	12335
 Advance Egypt’s Eastern Digital Corridor	16808
 Adwoa Wiafe Chief Corporate Services and Sustainability	5136
-AfCFTA Digital Trade Corridor	14311,58
+AfCFTA Digital Trade Corridor	14311,58,3184
 Affairs CORS Continually Operating Reference Stations	11261
 Afreximbank and Africa Finance Corporation	11608
 Africa COVID Corona Virus Disease CPI	15023
@@ -59,6 +59,7 @@ Africa Finance Corporation and Vision Invest	14684
 Africa Growth Corporation	10751
 Africa's Core Systems Complete	6593
 Africa-Asia Digital Corridor	5482
+African Banking Corporation Limited	17626
 African Banking Corporation of Zimbabwe Limited	12252
 African Digital Corridor	3553
 African Resources Corporation Ltd	3583
@@ -591,7 +592,7 @@ Core Policy Directives	11995
 Core Policy Objectives Developing	11265
 Core Predictable Country Presence	15966
 Core Principle Comprehensive	12457
-Core Principles	3861,8044,3092,1847
+Core Principles	3861,8044,3092,1847,694
 Core Principles for Systematically Important Payment Systems	16844
 Core Programs	17139
 Core REPORTING RESPONSIBILITY Functional Area	14434
@@ -683,7 +684,7 @@ Corisco Funcionamiento Grupos Parlamentarios	4209
 Corisco Kogo	4209
 Corisco. Corisco	4209
 Corn-	16836
-Corne	7157,1161,5590
+Corne	7157,1161,5590,3735
 Corned	13385
 Corneille	15786
 Cornel	10193
@@ -788,7 +789,7 @@ Corporate Bayobab Press28	11234
 Corporate Bodies	10822
 Corporate Bodies General Meeting Board Chairman	11955
 Corporate Bond	8186
-Corporate Bonds	14997
+Corporate Bonds	7763,7234
 Corporate Breakdown	16638
 Corporate Capital	8626
 Corporate Capture	194
@@ -799,7 +800,7 @@ Corporate Climate Responsibility Levy Offsetting	14828,3
 Corporate Commitments	11417
 Corporate Communication	6946,5987,27,216,7,5
 Corporate Communication and Liaison	11188
-Corporate Communications	6946,802,2984,1893,352,48,1449,2761
+Corporate Communications	6946,802,2984,1893,352,48,1449,2761,479
 Corporate Communications Baphalali Eswatini Red Cross	12977
 Corporate Communications Department of CBN	11975
 Corporate Communications Directorate	16586
@@ -943,6 +944,8 @@ Corporate and Institutional Venture	7548
 Corporate and Investment Banking	8974
 Corporate and Legal Services Lead	4763
 Corporate and NGO	13461
+Corporate and Subnational	7763
+Corporate and Subnational Sukuk	7763
 Corporate and Vocational Centre	6946
 Corporate-vendor	6131
 CorporateNews	2677,12933,199,18,114
@@ -1029,7 +1032,7 @@ Corrective and Structural Orders	3861
 Correctly	6764
 Correctness	5665,6376
 Correcção	11358
-Corredor	5542,5890,42
+Corredor	5542,5890,42,6106
 Corredor Oriental	4209
 Corredor de Transporte	4209
 Corregir	1701,15154
@@ -1095,14 +1098,14 @@ Corresponsal Informativo Servicio	4209
 Correto	12018
 Correção	794
 Corri	12233
-Corridor	1996,2390,6197,702,132,1772
+Corridor	1996,2390,6197,702,132,1772,4364
 Corridor Development Plans	13655
 Corridor Douala- N	15542
 Corridor Dwellers and Generational Farm Workers	13024
 Corridor LED Light Emitting Diode LIA	2775
 Corridor Member States	12942
 Corridor Trip Monitoring System	10324
-Corridor Vision AI	11733,2963
+Corridor Vision AI	11733,2963,3042
 Corridor de Lobito	13419
 Corridor-Vision AI	9821
 Corridors	7965,2891,293,2270
@@ -1128,7 +1131,7 @@ Corrupt	4590,6650,4661
 Corrupt Activities Act PSCBC Public Service	11197
 Corrupt Practice	15901
 Corrupt Practices Act	12932,1920
-Corruption	789,1039,1568,187,1085,383,298,184,1369,57,927,864,141,515,210,1143,78,139,251,647,7,1,23,81,39,127,40,9,139,6,155,11,408,28,8,28,17,184,167,6,29,55,32,10,20,20,201,699,1,25,38,1,1,252,758,158,3,51,173,51,448,224,250,84,7,9,14,39,57,71,38,83,198,45
+Corruption	789,1039,1568,187,1085,383,298,184,1369,57,927,864,141,515,210,1143,78,139,251,647,7,1,23,81,39,127,40,9,139,6,155,11,408,28,8,28,17,184,167,6,29,55,32,10,20,20,201,699,1,25,38,1,1,252,758,158,3,51,173,51,448,224,250,84,7,9,14,39,57,71,38,83,198,45,215
 Corruption Bribery	11874,8
 Corruption Case Tracker	17037
 Corruption Commission	970,12002,121,4221
@@ -1184,6 +1187,7 @@ Corus International URL	16557
 Corus. Ce	16557
 Corvus	1005,15547
 Corée	7655,9793
+Corée du Nord	17663
 Corée du Sud	765,1518,4272,1100,272,2361,3053,2133,19
 Corée du Sud. D’autres	8891
 Corée du Sud. L'accord	3076
@@ -1265,6 +1269,7 @@ Developing. Core	15164
 Development Corporation	8044
 Development Finance Corporation	560
 Development IFC International Finance Corporation IFR	13331
+Devrient Christoph Lang Spokesman Corporate Communications	17536
 Dibamba Power Development Corporation	15542
 Digital Africa Corridor	3527
 Digital India Corporation	15936
@@ -1274,7 +1279,7 @@ Digital Trade Corridor. Verbatim	7039
 Digital Trade Finance. Deutsche Bank Corporate	10718
 Dinar Corporate	14338
 Diplomatic Corp Our Development Partners	16984
-Diplomatic Corps	5328,2374,2257,4820,1496
+Diplomatic Corps	5328,2374,2257,4820,1496,1262
 Diplomatic Corps Representatives of UN ODET and ITU	10210
 Diplomatic Corps Senior Government Officials Members	12692
 Diplomatic Corps World Bank Representative Representatives	17124
@@ -1284,6 +1289,7 @@ Director Coreopsis	16275
 Director of Core and Services	2528
 Director of Corporate Affairs	7600,8746
 Director of Corporate Communications and Media Relations	8439
+Directorate of Corporate Planning and Strategy	17683
 Directorate of Corruption and Economic Crime	3887
 Distrito Urbano Cor da Placa	11373
 Domingos Correia	11566,389
@@ -1519,6 +1525,7 @@ Head of Corporate Affairs	7317,1885,1939
 Head of Corporate Affairs Williams Ampomah E	3571
 Head of Corporate Communications	7066
 Head of Corporate Communications Kayode Adegoke	1825
+Head of Marketing and Corporate Relations	17579
 Head of Operations for Corporate	6870
 Head of Payments for Corporate and Investment Banking	8026
 Headline Core Food Energy	13868
@@ -1530,6 +1537,7 @@ Hess Corporation	16942
 High Authority Against Corruption	11905
 Highway Spotlight Tracing Digital Corridors	4130
 Honorable Cornelia Kruah	17311
+Hosting the AfCFTA Digital Trade Corridor	17553
 Housing Finance Corporation STEM Science	17105
 IATA Corporate Communications Tel	10723
 IBM. ADVERTISEMENT Microsoft Corp	5364
@@ -1604,7 +1612,7 @@ International Medical Corps. Health	15160
 International Relations and Corporation	11280
 Internet Corporation for Assigned Names and Numbers	3503,3743,3573,360,4193,772,401
 Internet Corporation for Assigned Names and Numbers ICT	14879,1993
-Internet Corridor of Egypt	16808
+Internet Corridor of Egypt	16808,885
 Internet Service Provider Core Network	2913
 Investment Case and NHDP III. Core	10829
 Investment Corporation	147,144
@@ -1644,6 +1652,9 @@ KENET Core Data Survey	15164
 KENYA AFRICAN BANKING CORPORATION KCB STANBIC	17242
 KING CODE AND CORPORATE GOVERNANCE	4896
 KT Corp	1903
+KYC FACE VERIFICATIONS CORRECTLY	17537
+KYC FINGER VERIFICATIONS CORRECTLY	17537
+KYC VERIFICATIONS CORRECTLY	17537
 Katima Mulilo Correctional Facility Katima Mulilo	12984
 Kenya Broadcasting Corporation	4583,1733,3332
 Kenya Core	10100
@@ -1710,6 +1721,7 @@ Le Corps	13937
 Le Financial Corridor	4698
 Leadership Core	14935
 Lease Agreement. F.6 Corrupt	14778
+Legal Mandate and Core Functions	17538
 Les Cornmissaires	13334
 Lesotho Housing and Land Development Corporation	12645
 Lesotho National Development Corporation	11134,1540
@@ -1914,7 +1926,7 @@ National Oil Corporation	16863
 National Oil Corporation AFA Agriculture and Food	2775
 National Oil Corporation Universal Subsidies	16902
 National Operator. The Corporation	16835
-National Payments Corporation of India	6894,2048,2196,1262,752,1592
+National Payments Corporation of India	6894,2048,2196,1262,752,1592,2879
 National Payments Corporation of India. Today	14744
 National Petroleum Corporation Hospital Jama’at Izalatul	11129
 National Police's Career Police Corps	11868
@@ -2015,11 +2027,15 @@ Outer Islands Development Corporation Act	14732
 Outstanding Repair Works Under Corporate Social	14546
 Own Correspondent	6179
 P CHINA GEO ENGINEERING CORPORATION SAU	16623
+PADS Corporation	17589
+PADS Corporation. Kinshasa	17589
 PARAGRAPHE III DES CORRESPONDANCES POSTATES OU	15397
 PARTNERS AT CORE The Government	16973
 PASCO Corporation	13898
 PCK Postal Corporation of Kenya PEACE Pakistan	6671
 PELOUROS Corporativo	15476
+PERFORM FACE VERIFICATIONS CORRECTLY	17537
+PERFORM FINGER VERIFICATIONS CORRECTLY	17537
 PIC MORERI SEJAKGOMO Botswana Telecommunications Corporation	5062
 PKI Core	15080
 PMSM Commissioner of Police Foreword Core Values	14781
@@ -2513,6 +2529,7 @@ ZIMBABWE Corporate Profile The Research	1154,400
 ZRA Corporate Communications Manager	13402
 ZRA Corporate Communications Manager Oliver Nzala	13603
 ZSE and Lloyd Corporate Capital	8626
+ZTE Corp	17651
 ZTE Corporation	103,2,16,5215,1803,973,1420
 Zambia Airport Corporation Limited	12376
 Zambia Airport Corporation Limited. Available	12376

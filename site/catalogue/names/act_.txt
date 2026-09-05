@@ -178,6 +178,7 @@ Act SSR Strengthening of Relative Rights TARDI	11197
 Act STATS SA Statistics South Africa	11224
 Act Schools	11905
 Act Section	6946,7538
+Act Sema	7763
 Act Short	11178,373
 Act Supplementary Submission	4732
 Act TUP Temporary	11197
@@ -546,8 +547,8 @@ Bank Financial Institution Act	17138
 Bank Financial Institutions Holding Act	17257
 Bank Use Promotion Act	12490
 Bank of Botswana Act	5687,6841,9
-Bank of Ghana Act	7695
-Bank of Mauritius Act	7845,6868,1,1,4,1,7,1,2,14,33,32,10,9,3,3
+Bank of Ghana Act	7695,9841
+Bank of Mauritius Act	7845,6868,1,1,4,1,7,1,2,14,33,32,10,9,3,3,2834
 Bank of Namibia Act	12365,9,73,520,118
 Bank of Zambia Act	12364,941,98,163
 Bank of Zambia Act No	13346
@@ -555,7 +556,7 @@ Banking Act	5687,1251,907,139,2148,2358,38,70,690,271,139,1019,2,8,1,2,79,10,9,3
 Banking Act Through Urban Saving Schemes	12297
 Banking Act. Reinforced Steel Contractors Zimbabwe	13698
 Banking Institutions Act	3714,8651,9,73,458,38,24,118,121
-Banking and Financial Institutions Act	6921
+Banking and Financial Institutions Act	6921,842
 Banking and Financial Services Act	22,2705,10572,5,1,192,35,34
 Banks Act	14224
 Banks and Other Financial Institutions Act	11861,132
@@ -664,7 +665,7 @@ CHIPS Act	6468,4667
 CHIPS and Science Act	11135
 CIVIL STATUS ACT Act	14714,1
 CIVIL STATUS ACT PART	14714,1
-CLOUD Act	4676,416,210,948,171,50,46,4,59,891,1433
+CLOUD Act	4676,416,210,948,171,50,46,4,59,891,1433,8791
 CMA Act	14897
 CMA Act. CBOS	14897
 CMCA Computer Misuse and Cybercrimes Act COTS	6432
@@ -704,6 +705,7 @@ Capital Gains Tax Act	4896,7051
 Capital Gains Tax Act Description Date	4896
 Capital Gains Tax Act of Zimbabwe	4896
 Capital Markets Act	7204
+Capital Markets and Securities Act	7763
 Capital Transfer Tax Act	12629
 Captive Insurance Act	7845,6964,19,3,12
 Card Act	14714
@@ -751,7 +753,7 @@ Children's Act. The Births and Deaths Registration	12597
 Children's Act. Zanzibar	11133
 Children's Act. Zanzibar. Available	11133
 Children's Protection and Welfare Act	12929,48
-Children’s Act	11133,1416,766,1427,1,2131,77
+Children’s Act	11133,1416,766,1427,1,2131,77,790
 Children’s Act. PART VII	16887
 Children’s Amendment Act	16951
 Children’s Court Act	14742
@@ -1207,6 +1209,7 @@ Education Reform Act	17296
 Education and Training Act	6921
 Effective Date This Act	16835
 Egyptian Civil Registration Act	15462
+Elder Persons Affairs Act No	7763
 Elderly Affairs Act	11133
 Election Act	3758,13193,277
 Elections Act	1630,2128,5787,100,1470,1178,663
@@ -1228,7 +1231,7 @@ Electricity Regulation Amendment Act	11272
 Electricity Supply Act	12535,60
 Electronic Communication and Transaction Act No	12467
 Electronic Communication and Transactions Act No	13346,1
-Electronic Communications Act	11,225,160,191,1108,121,301,560,99,161,9,1637,149,328,748,64,61,250,284,72,347,5,15,462,32,356,71,1,22,130,109,72,12,62,347,527,650,810,228,249,144,6,15,24,24,3,3,643,518,504,19,229,1515,936,414,1169
+Electronic Communications Act	11,225,160,191,1108,121,301,560,99,161,9,1637,149,328,748,64,61,250,284,72,347,5,15,462,32,356,71,1,22,130,109,72,12,62,347,527,650,810,228,249,144,6,15,24,24,3,3,643,518,504,19,229,1515,936,414,1169,512
 Electronic Communications Act No	7827
 Electronic Communications Act. The Company	11230
 Electronic Communications Amendment Act	5872
@@ -1709,7 +1712,7 @@ Inthis Act	12938
 Introduction The Value Added Tax Act	14785
 Investment and Securities Act	2826,6209
 Investment and Special Economic Zones Act	6921
-Investments and Securities Act	2826,6404,2746
+Investments and Securities Act	2826,6404,2746,5714
 IoT Context The Issue of Consent. Act	8776
 IoT Ecosystems Act	8776
 IoT. Under the Nigeria Data Protection Act	6070
@@ -1749,6 +1752,7 @@ Kenya National Qualifications Framework Act. Clause	7832,2448
 Kenya National Qualifications Framework Act. ENACTED	7832
 Kenya Registration of Persons Act	4439
 Kenya Revenue Authority Act	10822,3593
+Kenya's Computer Misuse and Cybercrimes Act	17658
 Kenya's Data Protection Act	4223,5515,2562,2,133,1999,90
 Kenya's Data Protection Act No	1742
 Kenya's Digital Health Act	7707
@@ -1964,7 +1968,7 @@ Merchant Shipping Act	14717
 Metrology Act	13403
 Metrology Act No	1988
 Micro and Small Enterprises Act	7548
-Microfinance Act	6938,5293
+Microfinance Act	6938,825,4468
 Migrants and Internally Displaced Persons Act	12145
 Mineral Regulation Commission Act	13654
 Mineral and Petroleum Resources Development Act	6683,7990
@@ -1988,6 +1992,7 @@ Money Laundering and Proceeds of Crime Act	13311
 Morcellement Act	7845,6877,106,3
 Moroccan Act	25
 Motor Traffic Act	3061,13907
+Movable Property Act	7763
 Movable Property Security Interests Act	13333
 Municipal Electoral Act	5533,1374,3590,1489,68
 Municipal Finance Management Act	8022,3226,15,16,294,3424
@@ -2133,7 +2138,7 @@ National Identification and Registration Authority Act	3615
 National Identity Act	11986,677
 National Identity Card Act	1379,13336,1,24
 National Identity Cards Act	12648
-National Identity Management Act	7172
+National Identity Management Act	7172,10502
 National Identity Management Commission Act	6689,1751,1230
 National Identity Register Act	1263,6106,3453,4608
 National Information Technology Development Act	5665
@@ -2222,6 +2227,7 @@ Nigeria Tax Act. Interpretation	11976
 Nigeria Tax Administration Act	4602,3988,236,3150,46
 Nigeria's Data Protection Act	3554,4007
 Nigeria's Disability Act	11975
+Nigeria's National Identity Management Act	17660
 Nigeria's Startup Act	9602
 Nigeria's Tax Act	8464
 Nigeria. Nigeria Tax Administration Act	11976
@@ -2235,6 +2241,7 @@ Nigerian National Archives Act	11952
 Nigerian National Health Act	4301
 Nigeria’s Data Protection Act	7003,7393
 Nigeria’s Investment and Securities Act	4602
+Nigeria’s National Identity Management Act	17606
 Nigeria’s Startup Act	9958
 Non-Bank Financial Institutions Act	6940
 Non-Banking Financial Institutions Act	17108
@@ -2843,7 +2850,7 @@ Statistical Act	11860,2097,2982
 Statistical Service Act	15459,1080
 Statistical Service Act Privacy and Confidentiality	16603
 Statistical Service Act URL	16603
-Statistics Act	976,33,1351,415,6710,1693,23,36,52,562,1,485,30,163,21,49,39,67,62,119,12,3,4,1,55,1,68,274,38,43,1024,75,109,125,15,43,51,3,12,52,1939,33,54,6,189,33
+Statistics Act	976,33,1351,415,6710,1693,23,36,52,562,1,485,30,163,21,49,39,67,62,119,12,3,4,1,55,1,68,274,38,43,1024,75,109,125,15,43,51,3,12,52,1939,33,54,6,189,33,519
 Statistics Act 2000 All Amended Yr11.pdf Author	14719
 Statistics Act Cap	14410
 Statistics Act Commencement	14410
@@ -2976,6 +2983,7 @@ Transfer Duty Act No	13251
 Transition Act	11551,22
 Transkei I I Act No	11178
 Translate the Cybersecurity Act	6936
+Treaty Making and Ratification Act. The National	17566
 Trespassing Act	11188
 Tribal Land Act	3761
 Trust Fund for Specalised Medical Care Act	14721
@@ -3144,7 +3152,6 @@ Zambia’s Cyber Security Act No	9416
 Zanzibar Civil Status Registration Agency Act	11133
 Zanzibar Data Protection Act	11133
 Zanzibar Health Services Fund Act	11133
-Zanzibar the Microfinance Act No	7763
 Zimbabwe Companies’ Act	13385
 Zimbabwe Data Protection Act	958
 Zimbabwe Fencing Act. ZWS	13385

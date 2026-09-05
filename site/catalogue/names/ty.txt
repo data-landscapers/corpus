@@ -426,7 +426,7 @@ Security Testing Schedule Test Type Frequenc	11952
 Seismic Source Type	11405
 Select the TRN Tax Type	11298
 Selection Duplex Type TDD TDD TDD	736
-Service Type	17250
+Service Type	14151,3099
 Service Type Average Cost	15120
 Sex and Type of Offence	2775
 Signature Type of Radio System Position Held	736
@@ -634,6 +634,7 @@ Type Toilet Facility and Place of Residence	16921
 Type URL URL URL Gouvernance	748
 Type V	16900
 Type VSAT	5753
+Type Zinara	17687
 Type and Class	2775
 Type and Classification	2775
 Type and Nature	1988
@@ -768,7 +769,7 @@ Typical	5238,3885,2883,353,590,88,148,1489,323,167,176
 Typical Bills of Quantities Price Code	13385
 Typical Mediterranean Countries	17157
 Typical SaaS	16923,1
-Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132,259,461,353,680,22,47,171,33,2,147,980,491,479,62,1394,5,51,1,18,21,295
+Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132,259,461,353,680,22,47,171,33,2,147,980,491,479,62,1394,5,51,1,18,21,295,443
 Typing	12266
 Typist	13251
 Typographic	8604

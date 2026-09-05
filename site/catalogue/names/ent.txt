@@ -534,6 +534,7 @@ ENT G.AZETTE	11178
 ENT GAZETTE	11178
 ENT Hospital	14736,93
 ENTAIL	4154
+ENTC Group CEO Abderrahim Chikh and INATEL	17637
 ENTD. Duração	11569
 ENTD. GW	17093
 ENTD.GW	1381,864,77,29,5356,3862,1
@@ -717,7 +718,7 @@ Entering the Job Market	16198
 Enterobacteriaceae Part	11269
 Enterobacteriaceae. Applicable	11269
 Enterobacteriaceae. SANS	11269
-Enterprise	448,408,68,360,667,307,451,778,24,387,824,478,666,190,44,493,1815,195,238,127,156,31,82,636,743,1,176,161,22,158,197,530,61,17,400,7,13,86,323,144,643,514,149,100,73,50,233,136,155,93,94,568,492,598,627,77
+Enterprise	448,408,68,360,667,307,451,778,24,387,824,478,666,190,44,493,1815,195,238,127,156,31,82,636,743,1,176,161,22,158,197,530,61,17,400,7,13,86,323,144,643,514,82,67,100,73,50,233,136,155,93,94,568,492,598,627,77
 Enterprise AI	7005
 Enterprise AI Strategy	10343
 Enterprise AML	12297
@@ -761,6 +762,7 @@ Enterprise Data Inventory	12562
 Enterprise Design Quality Assurance and Results Division	10550
 Enterprise Development Fund	2775
 Enterprise Development and Capacity Building	11863
+Enterprise Email	14151
 Enterprise Enterprise	6593
 Enterprise Finance Gap	11944
 Enterprise Geographic Information System	3101
@@ -795,7 +797,7 @@ Enterprise Service Bus Farmer Input Support	12453
 Enterprise Services	3487
 Enterprise Services Bus	12419
 Enterprise Software Solutions	2258
-Enterprise Solutions	12395
+Enterprise Solutions	12395,1756
 Enterprise Somali National Bureau of Statistics Somali	11136
 Enterprise Sparx Enterprise	9124
 Enterprise Strategy Group	4434
@@ -983,7 +985,7 @@ Entity Framework and SQL	17437
 Entity ICT	6432
 Entity Lender FY	14546
 Entity Level Incompatibilities	12360
-Entity List	9015,1429
+Entity List	9015,1429,7251
 Entity Name	12400
 Entity Name Self-funded	11230
 Entity No. of Un-Utilized Services Kenya Forest	14546
@@ -996,6 +998,7 @@ Entity Type	11276,2057
 Entity for Public Sector Innovation	10785
 Entity's Legal Registration	12400
 Entity's Profile	12400
+Entity-listed	17695
 Entity-profile	6153
 Entity. ISRE	10793
 Entité	10876,1068,1498,1046,1,1,1446,267,1282
@@ -1054,7 +1057,7 @@ Entrave Est	14412
 Entraver	13719
 Entraînement	1231
 Entraîner	8876
-Entre	12,725,953,11,295,299,58,351,112,35,308,237,98,57,7,80,402,3,92,152,99,73,119,95,124,225,49,86,152,134,12,7,5,245,26,236,4,263,87,32,155,80,107,175,118,102,177,45,252,32,64,163,129,9,244,45,58,57,193,68,25,63,8,68,10,20,28,24,12,62,31,81,34,49,120,10,42,37,144,193,430,42,9,15,159,4,28,8,51,28,19,64,54,6,31,110,8,17,5,39,55,99,97,300,2,14,6,12,26,5,36,6,29,3,5,27,4,15,7,8,47,8,16,136,11,149,74,21,103,659,41,12,446,25,65,43,97,38,58,589,99,28,81,125,1,70,645,27,31,66,12,26,51,35,30,52,5,86,74,24,14,42,126,98,28,50,69,168,30,171,42,6,1,192,5,13,26,11,23,64,7,21,11,19,6,3,43,103,87,31,47,2,51,22,11,17,5
+Entre	12,725,953,11,295,299,58,351,112,35,308,237,98,57,7,80,402,3,92,152,99,73,119,95,124,225,49,86,152,134,12,7,5,245,26,236,4,263,87,32,155,80,107,175,118,102,177,45,252,32,64,163,129,9,244,45,58,57,193,68,25,63,8,68,10,20,28,24,12,62,31,81,34,49,120,10,42,37,144,193,430,42,9,15,159,4,28,8,51,28,19,64,54,6,31,110,8,17,5,39,55,99,97,300,2,14,6,12,26,5,36,6,29,3,5,27,4,15,7,8,47,8,16,136,11,149,74,21,103,659,41,12,446,25,65,43,97,38,58,589,99,28,81,125,1,70,645,27,31,66,12,26,51,35,30,52,5,86,74,24,14,42,126,98,28,50,69,168,30,171,42,6,1,192,5,13,26,11,23,64,7,21,11,19,6,3,43,103,87,31,47,2,51,22,11,17,5,106,16
 Entre La République du Congo	15426
 Entre La République du Congo ET	15426
 Entre La République du Congo Et	15426
@@ -1090,7 +1093,7 @@ Entrent-elles	10190
 Entreposage	8719,6992,225,313
 Entrepre-	14897,2045
 EntreprenHER	12613
-Entreprenariat	1247,461,6561,5056,521,1565,82,25,156
+Entreprenariat	1247,461,6561,5056,521,1565,82,25,156,1910
 Entreprenariat Agricole	15674
 Entreprenariat Numérique	15847
 Entreprenarium	15411
@@ -1707,6 +1710,7 @@ Malien. Entendre	6959
 Management System SOE State-Owned Enterprise UA	11863
 Managing Director of Belitra Enterprises Limited	6946
 Managing Urban Enterprises	7992
+Manuel Homem. Entretanto	17541
 Market Entry	16212,730
 Market Power SOE State-Owned Enterprises SSA	16942
 Markets and Finance for Digital Jobs and Entrepreneurship	16144
@@ -1796,7 +1800,7 @@ Moyenne Entreprise PNCP Programme National de Cuisson	16037
 Moyenne Entreprise PTF Partenaire Technique	11944
 Moyenne Entreprise Produit National Brut Programme	13290
 Moyennes Entreprise	16249
-Moyennes Entreprises	2312,421,1687,178,2508,549,3310,979,1446,382,711,66,867,58,26,33,9,11,27,8,124,135,107,45,13,93,39,105,236,156
+Moyennes Entreprises	2312,421,1687,178,2508,549,3310,979,1446,382,711,66,867,58,26,33,9,11,27,8,124,135,107,45,13,93,39,105,236,156,943
 Moyennes Entreprises ART Agence	15501
 Moyennes Entreprises Ivoiriennes	7891
 Moyennes Entreprises MSa Ministère	15479
@@ -1838,6 +1842,7 @@ National Enterprise Architecture- Arquitectura Nacional	11371
 National Enterprise Development Initiative	17228
 National Enterprise Service Bus	14965
 National Entities	17405
+National Entrepreneurship Development Fund	7763
 National Entrepreneurship Policy Private Sector	16861
 National Entrepreneurship Promotion Strategy	16861
 National Environment Agency NEDI National Enterprise	17105
@@ -1859,6 +1864,7 @@ Netherlands Enterprise Agency Prinses Beatrixlaan	13358
 Networking Services Enterprise	9455
 Nigeria Government Enterprise Architecture	5560,165,2698
 Nigeria NGWANA ENTERPRISES Botswana Northern Innovation	15460
+Nigeria. Entreprise	17697
 Nigeria’s Youth Enterprise	16949
 No. of Entrepreneur Support	14897
 Nombre Entier	747
@@ -2228,13 +2234,14 @@ Small and Medium Enterprises. Special	13122
 Small and Medium Scale Enterprises	8973
 Small and Medium Scale Enterprises Development Agency	12145
 Small and Medium Sized Enterprises	12210,2567
-Small and Medium-Sized Enterprises	1828,9152,4661
+Small and Medium-Sized Enterprises	1828,9152,4661,1974
 Small and Medium-Sized Enterprises State Parties	15641
 Small and Medium-Sized Enterprises and Clients	10718
 Small and Medium-sized Enterprise Africa MTO Money	12444
 Small and Medium-sized Enterprise SSS Securities Settlement	14997
 Small and Medium-sized Enterprises	7734,3298,962,406,2350,69,2123,159
 Small and Medium-sized Enterprises MSPLS Ministry of Public	13312,2
+Small and Medium-sized Enterprises NCFI National Council	7763
 Small and Medium-sized Enterprises Programme	10510
 Small and Medium-sized Entities International Standards	12969
 Small and Micro Enterprises	3238
@@ -2294,6 +2301,7 @@ State-Owned Enterprises Commission	4519,24,12583,20
 State-Owned Enterprises Commission Updates President Barrow	17124
 State-Owned Enterprises Reform	13685
 State-Owned Enterprises SONA State	11197
+State-Owned Enterprises Unit	17647
 State-Owned Enterprises and Government	13685
 State-Owned Enterprises and Parastatals	3025,836
 State-Owned Enterprises and Public-Private Partnerships	13685
@@ -2344,6 +2352,7 @@ TRANSMISSÕES DE DADOS ENTRE A DIRECÇÃOGERAL	17100
 TRES PETITES ENTREPRISES	16047
 TYPE D’ENTITE ENTITE	15936
 Target Women Entrepreneurs	12389
+TechForward Enterprise AI Finalist	17695
 Technology Enterprise User Trust	9129
 Technology Enterprise User Trust Financial	9129
 Technology Park SEDCO Small Enterprise Development	12970

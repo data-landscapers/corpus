@@ -132,7 +132,7 @@ British Colonial Period	14761
 British Columbia	8896,232
 Build Cross-Sector Collaboration Infrastructure Industry	11138
 Building Capacity Through Collaboration	4583
-Building Trust Through Collaboration and Cyber Resilience	14691,7
+Building Trust Through Collaboration and Cyber Resilience	14691,7,2875
 Bungoma North Technical and Vocational College Data	7167
 Bureau Collects	10822
 Burkina Faso B. PROCEDURES DE COLLECTE	15595
@@ -298,6 +298,7 @@ Civil Service College MYS Supporting Div	14781
 Civil Service College Mauritius	14738,23,74
 Civil Service College Mauritius Online Funded	14835
 Civil Service Training College	7182
+Climate Collaborative	17735
 Cllr. Jero Cole Bangalu	17350
 Cloud Collaboration Tools	13502
 CoLabs	11230
@@ -455,10 +456,10 @@ Collab Citizen	11251
 Collab Citizen App	11251
 Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77,40,83,1,98,79,208,43,290,15,222,1034,215,37,61,43,25,50,37,86,63,530,1,131,988,39,67,8,4,15,5,4,36,103,25,18,78
 Collaborates	12639
-Collaborateur	3879,11806,251
+Collaborateur	3879,11806,251,1648
 Collaborating	1243,850,185,497,829,1244,685,144,359,4805,1145,254,6,130,298,258,45,961,835,78,92,4,50,37,1178,763
 Collaborating To Transform And Improve Education	899
-Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86,216,28,65,25,211,7,1,27,49,28,231,106,183,60,6,437,88,8,12,17,98,55,10,44,39,6,61,9,55,3,51,26,16,3,78,222,105,46,111,109,11,124,88,2,54,54,98,240,196,35,257,12,31,11,13,4,20,12,36,105,22,19,103,58,130,25
+Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,12,214,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86,216,28,65,25,211,7,1,27,49,28,231,106,183,60,6,437,88,8,12,17,98,55,10,44,39,6,61,9,55,3,51,26,16,3,78,222,105,46,111,109,11,124,88,2,54,54,98,240,196,35,257,12,31,11,13,4,20,12,36,105,22,19,103,58,130,25
 Collaboration Action and Dialogue	13355
 Collaboration Adopting	13347
 Collaboration Age Group	582
@@ -546,7 +547,7 @@ Collation	16874
 Collation and Analysis of Sex Disaggregated Data	16951
 Colle	13375
 Colleague	13387
-Colleagues	6152,3706,595,803,2131,1307,2581
+Colleagues	6152,3706,595,803,2131,1307,2581,460
 CollecCteyimmédiate	15999
 Collecdvites Locales	16611
 Collect	940,60,988,3688,1275,597,3175,133,129,12,136,430,622,68,422,656,28,22,610,753,7,30,216,133,130,187,153,88,25,1120,34,54,26,4,60,32,114,23,55,61,70
@@ -584,7 +585,7 @@ Collectif	1930,1,1,1,1,1,1,1,72,1,1,1,1,958,1051,2,1805,6039,1522,368
 Collectif Anjouan	13797
 Collectif des Associations	13442
 Collectif des ONG	15712
-Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671,3659,272,187,141,377,62,240,1150,79,215
+Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671,3659,272,187,141,377,62,240,1150,79,215,561
 Collecting Children	12977
 Collecting Taxes	17011
 Collecting Taxes Indicators	16949
@@ -640,7 +641,7 @@ Collectionof	13392,3441
 Collections	3583,1,4313,10,807,3541,245,918,1567,275,1770,334
 Collections for FY	14985
 Collections for Public and Private Sectors	12000
-Collective	2096,529,2417,658,531,459,248,907,41,1006,2068,178,86,1715,1009,1394,131
+Collective	2096,529,2417,658,531,459,248,825,82,41,1006,2068,178,86,1715,1009,1394,131
 Collective Action	11138
 Collective Agency	17127
 Collective Agreement	13123
@@ -673,7 +674,7 @@ Collective Threshold Below	8283
 Collective X	6832,4114
 Collective X and Harambee	5551
 Collective. At Venture	12339
-Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330,518,255,98,253,137,240,84,23,4,15,382,55,117,36,881,181,71,167,49,51,516,1372,38,32,95,97,1,131
+Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330,518,255,98,253,137,240,84,23,4,15,382,55,117,36,466,415,181,71,167,49,51,516,1372,38,32,95,97,1,131
 Collectivites Decentralisees	16611
 Collectivites Locales	16611
 Collectivité	14414,30,1093,166,317,616
@@ -702,15 +703,17 @@ College Lanarkshire	16046
 College London	899
 College of Accounting	11027
 College of Built Environment	17347
+College of Business	17648
+College of Business Administration	17648
 College of Business and Economics	8142
 College of Business and Social Science	14126
 College of Computer Engineering	17347
-College of Computing and Information Sciences	5413
+College of Computing and Information Sciences	5413,12322
 College of Economic and Management Sciences	7278
 College of Economic and Management Sciences CRERC	7278
 College of Education	13972
 College of Energy and Petroleum Engineering	17347
-College of Engineering	5413
+College of Engineering	5413,12322
 College of Engineering and Technology	10001,3971,154
 College of Engineering and Technology. Accordingly	14126
 College of Health Sciences	12246
@@ -723,6 +726,7 @@ College of Marine Science and Technology CRA Criteria	13960
 College of Medicine	12965,75
 College of Medicine and Malawi SDNP	12965
 College of Military Engineering	17240
+College of Natural Sciences	17735
 College of Oyo	15513,40
 College of Physicians	16922
 College of Science	2958,11014
@@ -739,12 +743,13 @@ Colleta Ngwira	13215
 Colley	5365,6305
 Collez	4960,62,2035,402,182
 Collier	12369,417
+Collin Dubignon	17579
 Collin Mashile	10729
 Collin Nehemia	12478
 Collin-jehonia	12478
 Colline	13375
 Colline A04 Sous	13390
-Collines	715,1910,2853,5343,4577,1,960,124,47
+Collines	715,1910,2853,5343,4577,1,960,124,47,1054
 Collines RGPHAE	2624
 Collines. Au Burundi	13300
 Collines. En	13300
@@ -855,10 +860,12 @@ Colombo	9487
 Colomine	15542
 Colonel	587,4226,4855,5787,69,220
 Colonel ALLAKOUA	16100
+Colonel B. B	17614
 Colonel BOUSSOUGOU Louis Joseph	16381
 Colonel Bediani Belei	9042
 Colonel Brisset	16456
 Colonel Bédiani BELEI	8281,391
+Colonel Bédiani Béléi	17614
 Colonel DONANGUE ROUGOULA Frédé	16381
 Colonel Draper St	14746
 Colonel EDOUADOUA METOULOU Francklin	16381
@@ -1194,7 +1201,7 @@ Encourage International Collaboration Work	12675
 Eng. Coletha RUHAMYA CHAIRPERSON	14867
 Eng. Collins Mbulo	3524,5558
 Enhanced Collaboration	17116
-Enhanced Collateral Registry	14206,68,65,6
+Enhanced Collateral Registry	14206,68,65,6,3223
 Enhanced Collateral Registry System	14218,56,44,21,6
 Enhancing Collection of Revenue and Expenditure	3295
 Enhancing Collection of Revenue and Expenditure Management	3295,20
@@ -1332,6 +1339,7 @@ ICT Data Collected By ICASA	11262
 ICT Data Collection Unit	14888
 ID Data Collection	10765,10
 ID Data Collection Technological	10775
+IEC Chairman Joseph Colley	17654
 IFC Collaboration	3562,42,11333,1959
 IFC Collaboration Disbursement	1284,15638
 IFC Collaboration Joint Level Yes Complementary	15621,523
@@ -1360,6 +1368,7 @@ INFORMATION DISSEMINATION AND COLLABORATION	17157
 INIS Report Methodology for Data Collection INIS	11417
 IOMIT's SSR Medical College	14775
 IP Principais Colaboradores Internos	2816
+IPDCP Colonel B. B	17614
 IQS PRIMARY EDUCATION ISLAMIC INSTITUTES COLLEGES	14896
 ISPs Methodology for Data Collection Data	3604
 ITU Methodology for Data Collection Data	3604
@@ -1556,6 +1565,7 @@ Machakos Teachers Training College. Prof Bitok	12258
 Madagascar. Collège	14537
 Madam Victoria Y. Cole	16848
 Madam Victoria Y. Cole Forestry Development	16853
+Madame Ayaba Colette BESSAN Tribunal	17584
 Madame Mariétou TAMBA Collines Membre	16485
 Mai Nefhi College	10001
 Mai Nefhi College of Engineering and Technology	14117

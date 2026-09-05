@@ -59,6 +59,7 @@ African Partners Singapore Cooperation Enterprise	11822
 African Regional Cooperative Agreement for Research	5756
 African Union Data Policy Framework. Cooperation	5244
 African Union Mechanism for Police Cooperation	961
+African Union Mid-Year Coordination Summit	17582
 Afrique Centrale COOPEC Coopératives	10965
 Afrique Strategie de Coopération	15724
 Ag Director Pharmaceutical Services SRH Coordinator	14773
@@ -183,6 +184,7 @@ CLEAN COOKING AND HEATING	14947
 CLEAN COOKING AND HEATING Biomass	14947
 CODEC Eswatini Cooperative Development College COLA	12975
 COMESA COO Jonathan Pinifolo	3748
+COMITE DE COORDINATION DES ETUDES STATISTIQUES	17535
 COMSTECH Coordinator General Prof Dr Muhammad	15251
 CON Coordinating Minister of Health	4301
 COO Africa	7259
@@ -402,6 +404,8 @@ Comité de Coordenação de Tesouraria	15526
 Comité de Coordination Inter Agence CDMT	15423
 Comité de Coordination Le Comité de Coordination	15936
 Comité de Coordination National	15685
+Comité de Coordination des Etudes Statistique. Toutefois	17535
+Comité de Coordination des Etudes Statistiques	17535
 Comité de Pilotage. Le Comité Technique de Coordination	10712
 Comitês Nacionais de Coordenação	11044
 Commerce Platform for SMEs and Cooperatives	14750
@@ -522,7 +526,7 @@ Cooperation Division DEP	16041
 Cooperation Document URL	13983
 Cooperation Facility	838,13154
 Cooperation Fra	17101
-Cooperation Framework	4153,1,10,1386,5806,2621,12,970,80
+Cooperation Framework	4153,1,10,1386,5806,2621,12,970,80,2645
 Cooperation Framework CoK City of Kigali DP	14935
 Cooperation Framework Priorities	13977
 Cooperation Framework's Alignment	13977
@@ -536,6 +540,7 @@ Cooperation Fund	16144
 Cooperation Health Administration	10812
 Cooperation IFR Interim Financial Report IPF	1264
 Cooperation IGAD Convenes Third HDMI Project	14079
+Cooperation Learning Mission	17623
 Cooperation Levels of Assurance	10819
 Cooperation Measures	2230
 Cooperation Measuring	10764
@@ -545,6 +550,7 @@ Cooperation PART III	1333
 Cooperation Plan International	15661
 Cooperation Privacy Human	1243
 Cooperation Programme Training	12972
+Cooperation Protocol	17647
 Cooperation Regarding the Development	3760,9683
 Cooperation Strategy for WHO and Egypt	15725
 Cooperation The GCI	10764
@@ -598,6 +604,7 @@ Cooperative Societies Bill	9876
 Cooperative Societies and Federations	14793
 Cooperative Society	14793
 Cooperative Society Ltd. Mr. S Tengur	14736
+Cooperative Unions	7763
 Cooperative Verification Number	9876,6920
 Cooperatives	1867,121,787,9677,2341,1747,61,195
 Cooperatives Cabinet Secretary Wycliffe Oparanya	12268
@@ -631,7 +638,7 @@ Cooperação. Em	11423
 Coopiration	17441
 Coopé	16381
 Coopé-	13405
-Coopération	998,440,241,1016,44,124,237,281,15,15,115,841,53,475,328,37,1000,295,404,324,50,435,37,32,100,41,94,124,41,32,315,59,248,396,55,138,332,181,21,258,55,266,22,18,75,4,146,16,101,49,920,28,1328,1,2,31,7,36,13,15,37,3,115,8,129,542,28,270,894,43,14,5,7,1,41,26,12,2,23,19,15,14,8,17,7,24,139,40,13,98,32,16,52,6,13,26,31,20,132,7,39,8,192,10,38,20,41,46,1,15,3,352,15,334,78
+Coopération	998,440,241,1016,44,124,237,281,15,15,115,841,53,475,328,37,1000,295,404,324,50,435,37,32,100,41,94,124,41,32,315,59,248,396,55,138,332,181,21,258,55,266,22,18,75,4,146,16,101,49,920,28,1328,1,2,31,7,36,13,15,37,3,115,8,129,542,28,270,894,43,14,5,7,1,41,26,12,2,23,19,15,14,8,17,7,24,139,40,13,98,32,16,52,6,13,26,31,20,132,7,39,8,192,10,38,20,41,46,1,15,3,352,15,334,78,58
 Coopération ACSI Agence Congolaise des Systèmes	15493
 Coopération Africaine	8891
 Coopération Allemande	10371,341
@@ -827,7 +834,7 @@ Coordinating Unit PRMED Poverty Reduction	12962
 Coordinating and Advisory Public	6832
 Coordinating the Digital and Future Skills Programme	11230
 Coordinating the PC4IR Strategic Implementation Plan	11230
-Coordination	26,1,1,794,118,18,3,9,28,133,30,100,23,395,149,39,12,216,871,23,55,352,107,80,21,257,265,527,253,226,498,47,706,205,244,54,52,9,91,118,11,49,332,26,35,899,187,44,384,145,442,447,356,199,56,44,17,47,89,168,5,2,9,134,2,631,24,4,64,35,95,5,32,65,98,18,3,54,31,100,7,44,47,260,21,23,24,61,21,133,105,11,4,15,11,3,4,2,78,64,186,270,463,24,104,8,16,12,29,28,44,8,103,41,1,43,12,13,9,39,1,1,21,98,25,9,3,37,8,26,178,41,28,62,5,15,8,52,22,5,19,5,35,26,8,12,42,17,16,41,47,53,35,29,72,43,64,43,62,79,318,35,16,26,135,5,13,8,1,7,23,12,16,27,1,145,23,18
+Coordination	26,1,1,794,118,18,3,9,28,133,30,100,23,395,149,39,12,216,871,23,55,352,107,80,21,257,265,527,253,226,498,47,706,205,244,54,52,9,91,118,11,49,332,26,35,899,187,44,384,145,442,447,356,199,56,44,17,47,89,168,5,2,9,134,2,631,24,4,64,35,95,5,32,65,98,18,3,54,31,100,7,44,47,260,21,23,24,61,21,133,105,11,4,15,11,3,4,2,78,64,186,270,463,24,104,8,16,12,29,28,44,8,103,41,1,43,12,13,9,39,1,1,21,98,25,9,3,37,8,26,178,41,28,62,5,15,8,52,22,5,19,5,35,26,8,12,42,17,16,41,47,53,35,29,72,43,64,43,62,79,318,35,16,26,135,5,13,8,1,7,23,12,16,27,1,145,23,18,427,113
 Coordination Act	7548
 Coordination Agent for GPE	12175
 Coordination Breakdown	17139
@@ -957,7 +964,7 @@ Coordinoiion	15429
 Coordo	16012
 Coordonateur	13788,1670
 Coordonateur National N	13390
-Coordonnateur	4039,53,77,934,267,537,1818,544,119,119,17,478,1874,122,2592,324,511,1170,90,163,25,63,65,11,198,39,121,43,93,156
+Coordonnateur	4039,53,77,934,267,537,1818,544,119,119,17,478,1874,122,2592,324,511,1170,90,163,25,63,65,11,198,39,121,43,93,156,922
 Coordonnateur Général	14424
 Coordonnateur Général de PREA	14424
 Coordonnateur Général de PREA Balisama ANDRIANTSEHENO	14425
@@ -1202,6 +1209,7 @@ EU Cooperation Facility	9838
 EU Coordination	1063
 EU Head of Cooperation Mr. Maurizio Cian	13042
 EW4All Coordination Committee	17065
+Eastern Africa Regional Coordinating Centre	17688
 Eaton Towers CFO and COO	597
 Economic Cooperation	14434,1803,19
 Economic Cooperation Agreement	11925,997
@@ -1353,6 +1361,7 @@ GOUVERNANCE Coopération	2342
 GOVERNANCE AND COORDINATING STRUCTURES	940
 GPEI Coordinator	10776
 GPS Coordinates	17114
+Gartner Cool Vendor	17695
 Gender Coordination Network	13080,15
 General Cooperation Agreements	14935
 General Coordination Mr TCHANA Joseph Technical	10980
@@ -1602,7 +1611,7 @@ JICA Japan International Cooperation Agency Education	15604
 JICA Japan International Cooperation Agency MASFAMU	11380
 JUNDOOSINGH Lakshya Coordinator Ministry of Gender	14770
 Japan Bank for International Cooperation	144
-Japan International Cooperation Agency	207,691,232,399,688,1,408,99,329,414,1032,1837,1315,1251,1865,8,155,538,658,493,302,34,6,161,745,70,250,193,1344,252,966
+Japan International Cooperation Agency	207,691,232,399,688,1,408,99,329,414,1032,1837,1315,1251,1865,8,155,538,658,493,302,34,6,161,745,70,250,193,1344,252,966,792
 Japan International Cooperation Agency LNME	10776
 Japan International Cooperation Agency TA Networking	10780
 Japan International Cooperation Agency. Data	10780
@@ -1636,6 +1645,7 @@ Kenya and US Business Community Deepen Cooperation	10805
 Kenya's Cooperation Framework and Data Sharing Agreement	5352
 Kenya-US Health Cooperation Framework	4583
 Kenya’s National Computer and Cyber Crimes Coordination	8095
+Key Infrastructure SACCOS Savings and Credit Cooperative	7763
 Key Outcomes and Areas of Cooperation Discussions	13170
 Key Process Automated. Improve NSS Coordination	12551
 Kogi Moves To Digitise Cooperatives	16796
@@ -1793,6 +1803,7 @@ Modern Energy Cooking Services	11572
 Monitoring and Coordination Agency	14748
 Monsieur Hervé Coovi GUEDEGBE	16314
 Monsieur Hervé NDOBA COORDINATION	16328
+Monsieur Jules Coomlan YEHOUENOU	17584
 Monsieur le Coordonnateur	7977
 Monsieur le Coordonnateur du PRODIGY	14578
 Morocco The Systemic Risk Coordi-	6938
@@ -1824,6 +1835,7 @@ National Children’s Coordination Unit	11134
 National Clean Cooking Energy Strategy	10460
 National Clean Cooking Strategy	11936,4033
 National Computer and Cybercrime Coordination Committee	7481,3139
+National Computer and Cybercrimes Coordination Committee	17566,92
 National Cooperative	14847
 National Cooperative Digital Architecture Platform	9876
 National Cooperative Excellence Awards	14793
@@ -1994,6 +2006,8 @@ Paterson and Cooke	15952
 Patient Care Coordination	1009
 Patient Care Coordination Dispatch	1009
 Percy Chinyama National Coordinator ELECTRONIC GOVERNMENT	12453,892
+Permanent Coordination	17637
+Permanent Coordination Office	17639
 Personne Responsable Coordonne	10876
 Plan Policy Analysis and Coordination Public Key	12453
 Planned Action Type Coordination	16885
@@ -2202,8 +2216,9 @@ Roadmap for Europe-US Tech Cooperation	4617
 Robust AI Coordinate	4126
 Rome Quadripartite Cooperation Committee Minister of Health	5317
 Rubavu Transport Cooperative	718
-Rwanda Cooperation	10272,3010
+Rwanda Cooperation	10272,3010,4278
 Rwanda Cooperation Initiative	3256
+Rwanda Cooperation. Une	17560
 Rwanda Cooperatives Agency	12483
 Rwanda Institute for Cooperative	4941
 Rwanda Korea International Cooperation Agency	209
@@ -2256,7 +2271,7 @@ Satellite Imagery Cooperation MoU	15167
 Saving and Credit Cooperatives	15138
 Savings and Credit Cooperative Organisations	4801,5498
 Savings and Credit Cooperative Organizations	14640
-Savings and Credit Cooperative Societies	940,11291
+Savings and Credit Cooperative Societies	940,6823,4468
 Savings and Credit Cooperatives	940,1835,5233,7015,107
 Savings and Credit Cooperatives DPP Director of Public	2775
 School Coordinators	13477
@@ -2281,8 +2296,10 @@ Security Cyber Coordination Centre	5841
 Security and Cooperation Framework	11210
 Security and Investigative Cooperation Under	17213
 Selection of Manifestation Coordinator National Individuals	11855
+Selon Rwanda Cooperation	17560
 Senegal Korea International Cooperation Agency	86,612
 Senegal and Finland Expand Cooperation	5672
+Senior Research Coordinator	17656
 Sequoia Go All In Cookies	5322
 Service Centers Coordinators	16970
 Service Coopération Internationale	15701
@@ -2300,6 +2317,7 @@ Smart Zambia Institute National Coordinator PERCY	5483
 Smart Zambia Institute National Coordinator Percy	12416,1155
 Smart Zambia National Coordinator	5527,7936
 Smart Zambia National Coordinator Percy Chinyama	5522,3870
+Social Action Fund TCDC Tanzania Cooperative	7763
 Sociedades Cooperativas	4209
 Société Allemande de Coopération Internationale	15478
 Solutions Strengthening Regional Cooperation for Returns-	10864
@@ -2456,12 +2474,12 @@ UK Trade and Cooperation Agreement	1243
 UN Cooperation Framework	8754,8219
 UN Proposals. Digital Cooperation Organization	14932
 UN RESIDENT COORDINATOR PAYS COUTERSY CALL	12725
-UN Resident Coordinator	2545,3197,3012,4212,591,432,209,2723
+UN Resident Coordinator	2545,3197,3012,4212,591,432,209,2723,763
 UN Resident Coordinator Allow	12692
 UN Resident Coordinator Let	10210
 UN Resident Coordinator Office	15478
 UN Resident Coordinator and Ms. Alka Bhatia	14767
-UN Resident Coordinator's Office	7749,2193,4035,185,797,165
+UN Resident Coordinator's Office	7749,2193,4035,185,797,165,2560
 UN Resident Coordinator’s Office	10776
 UN Resident and Humanitarian Coordinator	13544
 UN Resident and Humanitarian Coordinator Mr. Edward	13544
@@ -2546,7 +2564,7 @@ Work Nigerian Telecommunications Limited Grammar Cooperative	11129
 World AI Cooperation Organisation	7979,229
 World AI Cooperation Organization	7962,666,262
 World Artificial Intelligence Cooperation	16514
-World Artificial Intelligence Cooperation Organisation	9938,601
+World Artificial Intelligence Cooperation Organisation	9938,601,7017
 World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147,2547
 World Bank and German Development Cooperation	13191
 World Bank’s Africa Regional Integration and Cooperation	1264

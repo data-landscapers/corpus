@@ -397,7 +397,7 @@ Create-thon	9641
 Created	395,941,244,2,497,2368,6423,1479,688,21,360,53,1180,346,405,684,180,966,134,104,35
 Created Fri	14105
 Creates	3495,7546,88,1117,198,2553
-Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18,144,21,11,11,22,79,2,3,62,41,232,278,114,1,44,80,55,84,46,39,23,90,6,30,36,4,33,21,25,85,111,10,75,175,5,25,13,10,327,17,14,12,120,514,13,44,330,125,73,19,79,49,6,23,84,61,25,25,50,2,165,247,13,49,45,83,112,1159,12,1,57,9,12,7,5,21,74,87,103
+Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18,144,21,11,11,22,79,2,3,62,41,232,278,114,1,44,80,55,84,46,39,23,90,6,30,36,4,33,21,25,85,111,10,75,175,5,25,13,10,327,17,14,12,120,514,13,44,103,227,125,73,19,79,49,6,23,84,61,25,25,50,2,165,247,13,49,45,83,112,1159,12,1,57,9,12,7,5,21,74,87,103
 Creating Africa’s Largest Standalone Data Centre	14673
 Creating Conducive Digital Economy Environment	1795,1413,3881
 Creating Digital Skills	1953
@@ -417,6 +417,7 @@ Creating Prosperity and Equal Opportunity For All	582
 Creating Prosperity and Equal Opportunity for All	789
 Creating Public	5700
 Creating Resilient and Inclusive Markets	12933
+Creating Shared	14151
 Creating Smarter Borders	7048
 Creating Social Impact	12210
 Creating Some Order	5700
@@ -426,7 +427,7 @@ Creating the Ghana Global AI Summit	4126
 Creating the National Payment Systems Advisory Committee	17188
 Creating the National Picture	4528,7984
 CreatingOneAfricanMarket	9034
-Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15,273,417,308,3,9,34,6,46,197,39,20,33,12,42,64,170,566,200,162,952,21,103,7,134,55,19,4,21,97,502,139,7,60,23,78,110,290,65,131,423,152,1,64,12,66,3,200,64,104
+Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15,273,417,308,3,9,34,6,46,197,39,20,33,12,42,64,170,566,200,162,952,21,103,7,134,55,19,4,21,97,502,139,7,60,23,78,110,290,65,131,423,152,1,64,12,66,3,200,64,104,249,2
 Creation Latest	10151
 Creation Model The Financial Stability	11134
 Creation Strategic Quadrants	14151
@@ -539,7 +540,8 @@ Credible	8987,4474
 Credible Elections	5390
 Credible Evidence Generation GHAI	13608
 Credisure	3922
-Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,322,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20,206,165,81,354,116,190,73,171,17,26,107,29,183,30,39,179,29,78,38,67,2,86,123,66,7,66,341,145,67,139,17,15,66,18,34,2,4,79,16,1,31,11,42,13,16,10,16,1,21,59,1,45,43,11,5,20,29,33,2
+Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,240,82,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20,206,165,81,354,116,190,73,171,17,26,107,29,183,30,39,179,29,78,38,67,2,86,123,66,7,66,341,145,67,139,17,15,66,18,34,2,4,79,16,1,31,11,42,13,16,10,16,1,21,59,1,45,43,11,5,20,29,33,2
+Credit Accounts	7763
 Credit Accumulation and Transfer	12574
 Credit Act NCC National Consumer Commission	11198
 Credit Advanced	17236
@@ -573,8 +575,10 @@ Credit Fraud Cyber and IS Fraud E-Money	17362
 Credit Growth	17235
 Credit Growth Differs	11105
 Credit Guarantee Mechanism for MSMEs	15179
-Credit Guarantee Scheme	12376
+Credit Guarantee Scheme	7763,4613
 Credit Guarantee Scheme Application System	11134
+Credit Guarantee Schemes	7763
+Credit Guarantee Schemes Scheme Name Incumbent	7763
 Credit Guarantee Vehicle	11236
 Credit IDA	1771
 Credit Informa- Financial Market Infrastructure	14897
@@ -591,6 +595,7 @@ Credit Institutions	11906
 Credit Institutions Service Providers	12444
 Credit Institutions and Financial Companies	3058
 Credit Institutions and Financial Companies Law	12294
+Credit Issued	7763
 Credit Line	17285
 Credit Line Arrangement	8891,8612
 Credit Line Arrangement-Press Release	17503
@@ -622,7 +627,8 @@ Credit Reference Bureaus	6940,3390,4693,2212
 Credit Reference Bureaus Association Uganda	8290
 Credit Reference Bureaux	6940
 Credit Reference Data	7763
-Credit Reference System	7763,6455,3017
+Credit Reference System	7763,6455,3017,340
+Credit Reference System The Bank of Tanzania	7763
 Credit Reference System The Credit Reference	17235
 Credit Reference X Bureau	1988
 Credit Registry	10609
@@ -638,6 +644,7 @@ Credit Risk Credit	11131,3
 Credit Risk Premium	14997
 Credit Risk of Lending	11310
 Credit Savings	418
+Credit Services	7763
 Credit Society Ltd Data Controller INST-4859217F76E	7167
 Credit Strand	418,522
 Credit Suisse	1829,12915
@@ -884,7 +891,7 @@ Examining the Job Creation and Workforce Potential of AI	7588
 Expand Business Credit Published	14218
 Expanding Electricity Access and Job Creation	17352
 Export Credit Guarantee Corporation and Homelink	6996
-Export Credit Guarantee Scheme	13123
+Export Credit Guarantee Scheme	7763,5360
 Export Credit Line for Banco de Desenvolvimento de Angola	144
 Export Credit and Investment Insurance	15457
 Export Credits	11155
@@ -907,8 +914,10 @@ Fairtrade Cooperative Credit Societies	14793
 Fast Content Creation E-Government Desktop Only	6051
 Feature Image Credits	4772
 Federal Urban Job Creation and Food Security	5655
+Fido Credit	17684
 Finance and Private Sector Development Unit Created	13084
 Financial Credit Terms Advanced	5247
+Financial Inclusion and Financial Depth Credit	7763
 Financial Services and Credit. Records	17165
 Fintech Credit Guarantee Window	4928
 First Creation	15372
@@ -1070,6 +1079,7 @@ Job Creation Egypt	16266
 Job Creation Strategy NPA National Pensions	12964
 Job Creation and Digital Entrepreneurship	16975
 Job Creation and Economic Growth	14745
+Job Creation and Income Opportunity Beyond	14151
 Job Creation and Skills Development	12210
 Job Creation. Eswatini	3373
 Jobs Created	12493
@@ -1083,6 +1093,7 @@ Kayi Lawson Credits	16313
 Kenya Cooperative Creameries Limited	12254
 Kenyan Creators Are Pushing Back	15328
 Kenya’s Content Creators Reject Tax Proposals	14932
+Key Infrastructure SACCOS Savings and Credit Cooperative	7763
 Kick-off for GCF-SAP CREWS Scaling Up Project	17065
 Knowledge Creation	899
 Kumasi Crescent	5678,1
@@ -1113,6 +1124,7 @@ Line of Credit of USD	15457
 Lines of Credit	2667,9258,1054,2405,853,19,19,966
 Loans and Credit Facilities	17236
 Loans and IDA Credits	15411
+Local Government Credit Beneficiaries	7763
 Local Value Creation Kenya	7548
 Logistics Creates Another Headache Jacqueléne Coetzer	9930
 M Credit Line for Sustainable Data Protection	12297
@@ -1134,6 +1146,7 @@ MOYA X Create	15130
 MSME Credit	940
 MSME Credit Guarantee Scheme	940
 MSME Line of Credit	17138,97
+MSMEs Credit Guarantee Scheme Bank of Tanzania	7763
 MUGABEKAZI Neema Crepine UWITONZE African YIBUKUWAYO	12445
 Madagascar Credit No	14498
 Maintaining Trust and Credibility Regular	14565
@@ -1157,6 +1170,8 @@ Monetary Credibility The Heritage Series	13532
 Moneyweb DATA SIGN IN SUBSCRIBE Create	7343
 Monitoring Creation	12253
 Monrovia. WB ID Credit Program	2604
+Monsieur Crespin Anselme NOUWAKPO	17584
+Monsieur Crespin GUIDI	17584
 Mortgage Secured Credit Credit Facility Unsecured	11198
 Ms Creed Chingwena	13310
 Multiple Credentials Multiple	12359
@@ -1362,7 +1377,7 @@ Savings Credit Insurance Remittances	418
 Savings and Credit Co-operatives	12409
 Savings and Credit Cooperative Organisations	4801,5498
 Savings and Credit Cooperative Organizations	14640
-Savings and Credit Cooperative Societies	940,11291
+Savings and Credit Cooperative Societies	940,6823,4468
 Savings and Credit Cooperatives	940,1835,5233,7015,107
 Savings and Credit Cooperatives DPP Director of Public	2775
 Scale-Up Window Credit	784,14182
@@ -1378,9 +1393,11 @@ Services Data-Driven Intelligent Policy Making Create	15713
 Settlement and Credit Reference Systems	16844
 Seychelles Credit Union	1892
 Shared Vision for Africa's Creative Future	14139
+Shareholder and Stakeholder Value Creation	14151
 Sig. Creative Services	16266
 Simple P2P Credit Push Transfer. Internal	12269
 Single Customer Credit Transfer	12364
+Smallholders’ Credit Guarantee Scheme Tanzania Agricultural	7763
 Smart Credentials Users	14752
 Social Twitter Facebook License Creative Commons	16466
 Somalia's Extended Credit Facility	15041
@@ -1428,6 +1445,7 @@ Technology Inter-Agency Committee Description Date Creation	2779
 Technology and Creative	567
 Technology and Innovation Create Innovation Fund	1161
 Terence Creamer	11904
+Test of Fiscal Credibility	17714
 Third Review Under the Extended Credit Facility	17257
 Third and Fourth Reviews Under the Extended Credit	15752
 Through the Africa Consumer Credit Academy	11809

@@ -811,7 +811,7 @@ Integrated Financial	12214
 Integrated Financial Man-	14897
 Integrated Financial Management	825,14072
 Integrated Financial Management Information	14935
-Integrated Financial Management Information System	34,132,370,748,828,2061,44,1027,4695,1195,40,1002,146,131,216,303,342,31,73,548,36,183,43,669,268,1693,91,365,104
+Integrated Financial Management Information System	34,132,370,748,828,2061,44,1027,4695,1195,40,1002,146,131,216,303,342,31,73,548,36,183,43,669,268,1693,91,365,104,129
 Integrated Financial Management Information System IGC	15023
 Integrated Financial Management Information System IGMS	5244
 Integrated Financial Management Information System IMF	12663
@@ -914,7 +914,7 @@ Integrated National Financing Strategy	15977
 Integrated National Framework	11272
 Integrated National Laboratory Network	4260
 Integrated National Registration Information	13425
-Integrated National Registration Information System	1867,12,109,303,1271,8794,50,29,14,4,892
+Integrated National Registration Information System	1867,12,109,303,1271,8794,50,29,14,4,892,4341
 Integrated National Registration and Identification System	13425
 Integrated National Systems	13143
 Integrated National Transparency Platform	3430,1
@@ -1063,7 +1063,7 @@ Integrated and Coordinated Approaches	11285
 Integrated and Equitable Social Protection	16867
 Integrated the Interior Ministry	1654
 Integrates	3042,5562,1148,2187,218,113,89,2591,47
-Integrating	1777,37,279,650,205,342,129,841,429,10,1653,187,409,600,634,941,5,424,157,57,121,954,15,9,132,159,92,17,152,422,22,18,26,103,167,65,6,9,144,16,17,12,240,45,287,26,15,299,307,15,1045,29,66,179,18,306,21,211,37,39,32,104,552,283,54,97,101,20,103,21,74,46,41,100,46
+Integrating	1777,37,279,650,205,342,129,841,429,10,1653,187,409,600,634,941,5,424,157,57,121,954,15,9,132,159,92,17,152,422,22,18,26,103,167,65,6,9,144,16,17,12,240,45,287,26,15,299,307,15,1045,29,66,179,18,306,21,211,37,39,32,104,552,283,54,97,101,20,103,21,74,46,41,100,46,236
 Integrating AI	4434,2514,6073,1544,555
 Integrating Africa	11149,134,556,2437
 Integrating Africa From Threads	11149
@@ -1100,7 +1100,7 @@ Integrating the Healthcare Enterprise	1009
 Integrating the National Identity	7201
 Integrating the System of Environmental-Economic Accounting	16996
 Integratinghetero-	8606
-Integration	432,1,373,21,182,252,563,123,1788,126,242,157,89,85,94,16,19,970,132,11,1,116,119,440,368,216,2,10,318,104,178,25,23,193,176,146,493,524,75,332,13,217,90,607,150,150,1,12,356,2,1,4,4,7,7,53,13,678,5,37,10,112,58,53,33,6,13,11,3,5,10,11,60,32,1,40,4,18,35,1,54,22,142,48,4,33,73,34,49,88,32,5,11,27,15,90,59,70,34,47,23,188,71,1,3,306,27,8,115,87,217,126,88,19,68,19,58,16,39,48,25,5,13,20,12,37,27,29,30,18,26,36,278,40,72,14,57,2,244,53,17,55,568,260,25,2,124,90,13,28,15,103,135,75
+Integration	432,1,373,21,182,252,563,123,1788,126,242,157,89,85,94,16,19,970,132,11,1,116,119,440,368,216,2,10,318,104,178,25,23,167,26,176,146,493,524,75,332,13,217,90,607,150,150,1,12,356,2,1,4,4,7,7,53,13,678,5,37,10,112,58,53,33,6,13,11,3,5,10,11,60,32,1,40,4,18,35,1,54,22,142,48,4,33,73,34,49,88,32,5,11,27,15,90,59,70,34,47,23,188,71,1,3,306,27,8,115,14,73,217,126,88,19,68,19,58,16,39,48,25,5,13,20,12,37,27,29,30,18,26,36,278,40,72,14,57,2,244,53,17,55,568,260,25,2,124,90,13,28,15,103,135,75,69
 Integration Advanced	13042
 Integration All African	6938
 Integration And Sharing	16884
@@ -1213,7 +1213,7 @@ Integridade da Informação	11393,5968
 Integridade da Rede	11430
 Integridade de Informação	17361
 Integritetsskydds	8436
-Integrity	718,240,196,400,76,1145,1086,1804,1281,1719,824,851,59,54,276,255,147,9,58,39,719,346,56,1,100,41,49,2,290,86,9,33,3,5,27,38,11,4,40,262,44,172,1,927,62,1,108,62,2,8,6,182,12,77,349,341,188,700,277,49,16,8,27,7,52,79,23,111
+Integrity	718,240,196,400,76,1145,1086,1804,1281,1719,824,851,59,54,276,255,147,9,58,39,719,346,56,1,100,41,49,2,290,86,9,33,3,5,27,38,11,4,40,262,44,172,1,927,62,1,108,62,2,8,6,182,12,77,349,341,188,700,277,49,16,8,27,7,52,79,23,111,468
 Integrity An Integrated	13347
 Integrity Awareness	12951
 Integrity Clause	14736
@@ -1272,6 +1272,7 @@ International Integrated Systems Inc	13132,1126
 International Law Integration and Treaty Compliance	3861
 Introdução O Sistema Integrado de Registo	11565
 Investment and Regional Integration	13673
+Isolation To Active Integration Opening	17586
 Jean-Christophe Maur Integrating Africa	11149
 Journal of Industrial Information Integration	8605
 Journal of Integrated Elementary Education	6948
@@ -1595,7 +1596,7 @@ Regional Digital Integration	2296
 Regional Digital Integration Program	16144,792
 Regional Digital Integration Project	1216,6751,3602,238,1803
 Regional Integrated Budget	15790
-Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,739,94,641,106,1379,67,226
+Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226
 Regional Integration And Employment	17038
 Regional Integration And Inclusion	10909
 Regional Integration Assistance Strategy	15511
@@ -1766,7 +1767,9 @@ Social Integration Division for Financial Year	14835
 Social Integration and Empowerment	14835
 Social Integration and Empowerment Act	14835,8
 Social Integration. Briefing the Secretary General	9469
+Social Protection Integration Social	7763
 Social Registry Management Integrated Information System	16867
+Social Work Integrated Management	17741
 Socio-Cultural Integration	11319
 Software Integration Tests	10721
 Sol Plaatje Municipality Integrated Bulk Supply	11248
@@ -1872,7 +1875,7 @@ Tinto's Student Integration Model	9128
 Trade Industry Regional Integration and Employment	17105
 Trade Regulatory Integration	1031,132,11511
 Trade and Market Integration	1264
-Trade and Regional Integration	11815
+Trade and Regional Integration	11815,5767,1
 Training and Integration	12499
 Training and Professional Integration	13816
 Transport Integrated	12208

@@ -61,7 +61,7 @@ AU TITRE DU MINISTERE DES AFFAIRES	7843
 AUTHOR AFFILIATIONS Joyce Koranteng-Acquah	12090
 Abbreviation Affiliation Role Development Data Group	15844
 Absa-Home Affairs	7639
-Academic Affairs	6936
+Academic Affairs	6936,10799
 Academic Affairs Hospitality Services Internal Audit	10123
 Accelerating Affordable Smartphone Ownership	13331
 Accelerating Smartphone Affordability	14674
@@ -82,7 +82,8 @@ Affaire Bachar	1943
 Affaire Dangnivo	7392,1
 Affaire Jabaroot	11835
 Affaire Martinez Zogo	10379,2,310,2792
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1,148,91,104,15,140,168,926,43,35,127,17,71,9,22,25,116,94,6,51,48,21,22,15,16,36,48,40,5,33,3,1,116,97,2,2,15,47,11,30,20,9,66,746,44,34
+Affaire Semlex	17590
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1,148,91,104,15,140,168,926,43,35,127,17,71,9,22,25,116,94,6,51,48,21,22,15,16,36,48,40,5,33,3,1,116,97,2,2,15,47,11,30,20,9,66,746,44,34,58,2,103
 Affaires Chiffre	15707
 Affaires Commerciales	16099
 Affaires Contentieuses ST	10975
@@ -166,7 +167,7 @@ Affectation Spéciale du Trésor CBC Conseil	15961
 Affectation Spéciale du Trésor CCI	10874
 Affectation Spéciale. GHAPIPRE PREMIER	15999
 Affectation des Terres	16001,98
-Affected	1778,50,160,1873,740,486,1611,37,1231,1251,1453,549,63,623,261,207,102,515,190,1285,650,1801,198,43,100
+Affected	1778,50,160,1873,740,486,1611,37,1231,1251,1453,549,63,623,261,207,102,515,190,1285,650,1801,198,43,100,292
 Affected Environment. The World Bank Group	10841
 Affected Locations	16308
 Affected Owners Association	16916
@@ -210,7 +211,7 @@ Affiliate Programme	12241
 Affiliate Researcher	7233
 Affiliate Training Technical	12241
 Affiliated	3503
-Affiliates	9111,6038
+Affiliates	9111,6038,2434
 Affiliates Rule	10444
 Affiliation	10875,4467
 Affiliation CERT-GH	775
@@ -243,6 +244,7 @@ Affirming the Government	15977
 Affixing of COCIS	16843
 Affluent	4563
 Afflux	10688,3800,1,1
+Affognon Thierry AHOVE	17584
 Affoires	15397
 Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42,55,52,4,10,137,16,105,9,9,246,391,2,30,1277,53,205,49,36,59,448,1270,142,1,2,80,273
 Affordability Affordability	11964
@@ -316,6 +318,7 @@ Affordable and Clean Energy	14080,1164,2016
 Affordable and Clean Energy Goal	11332
 Affordable and Clean Energy for All	15063
 Affordable and Contributing	8559
+Affordable and Demand-Driven Products Implementing	7763
 Affordable and Efficient Services	12327
 Affordable and Reliable Electricity	13868
 Affordances	8605
@@ -468,6 +471,7 @@ Civil Status Division Home Affairs222	14721
 Claire Morrison Minister of Home Affairs	10173
 Clean Cooking Solutions for Affordable Access Pillar	16188
 Co-CEO of Business and Commercial Affairs	10800
+Codjo Raymond GODEMIN Cour Spéciale des Affaires	17584
 Comité des Affaires Monétaires	7956,5496
 Commerce and Consumer Affairs	13382
 Commercial Affairs	17441
@@ -623,7 +627,7 @@ Department of Environmental Affairs S10 Review	12917
 Department of Foreign Affairs and Trade	11868
 Department of Foreign Affairs and Trade of Australia	15620
 Department of Gender Affairs Policy Development	12642
-Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42,821
+Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42,821,4872
 Department of Home Affairs Annual Report	11977
 Department of Home Affairs Privatte Bag X114	11986
 Department of Home Affairs Strategic Plan	2662,9315
@@ -631,6 +635,7 @@ Department of Home Affairs The DHA	5533
 Department of Home Affairs and Government Printing Works	4786
 Department of Home Affairs and National Treasury	11940
 Department of Home Affairs. Quarterly	5533
+Department of Home Affairs. SIU	17740
 Department of Home Affairs’ Trusted Employer Scheme	9250
 Department of Home Affair’s ID	14185
 Department of Internal Affairs	13947
@@ -685,7 +690,7 @@ Direction Départementales des Affaires Sociales	16012
 Direction Nationale des Affaires	13723
 Direction Nationale des Affaires Foncières	13723
 Direction Nationale des Affaires Politiques	2756
-Direction des Affaires	9448,5089,1102
+Direction des Affaires	9448,5089,1102,1945,105
 Direction des Affaires Administratives	10975,3456,41,65,12,1220
 Direction des Affaires Administratives DGEC	10847
 Direction des Affaires Civile	7993
@@ -734,6 +739,7 @@ Domaine Public MASAH Ministère des Affaires Sociales	15580
 Doudoubalala MINISTÈRE DES AFFAIRES MUSULMANES ET	4402
 Draft Home Affairs Bill	5533
 Draft Home Affairs Bill Reporting	11986
+Driving Digital Inclusion Through Affordable Devices	14151
 Droit des Affaires	15658
 Dutch Ministry of Foreign Affairs	12333,981
 Dutch Ministry of Foreign Affairs. Its Youth	13358
@@ -782,9 +788,11 @@ Education MoFEA Ministry of Finance and Economic Affairs	16927
 Egyptian Environmental Affairs	15473
 Egyptian Environmental Affairs Agency	15905
 Ekurhuleni Minister of Home Affairs	10058
+El Affroun	17581
 El Affroun Blida Superficie Nature	15690
 El Affroun. Wilaya de Annaba	15732
 El-Hadj Affissou Anonrin	4162
+Elder Persons Affairs Act No	7763
 Elderly Affairs Act	11133
 Emergency Response Ministry of Foreign Affairs	463
 Emerging Foreign Affairs	7548
@@ -794,6 +802,7 @@ Environmental Affairs	12972,121
 Environmental Affairs and Tourism and Others	6683
 Equity Affect the Legitimacy of Natural Resource Governance	11006
 Eswatini Ministry of Home Affairs Annual Report	1357
+Ethiopia's Director for IGAD Affairs	17696
 Ethiopia's Ministry of Foreign Affairs	14106
 European Affairs and Strategic Foresight	7722
 Exchequer Ministry of Foreign Affairs	7548
@@ -940,7 +949,7 @@ Health Platform Ministry of Foreign Affairs	186
 Henrietta Afful	14690
 Higher Learning Institutions. Affordability	12333
 Home Affair	3017
-Home Affairs	1,1008,182,187,238,1,1,370,319,45,189,73,138,81,71,1,38,257,25,210,529,292,137,50,85,26,218,11,3,361,49,1,129,207,58,111,370,52,55,17,26,33,132,540,404,73,140,25,70,119,492,308,94,405,14,179,334,82,18,7,204,163,115,12,991,20,16,6,28,2,16,10,4,2,2,3,655,9,37,467,59,2,10,127,217,42,62,12,42,71,19,37,40,46,56,1552
+Home Affairs	1,1008,182,187,238,1,1,370,319,45,189,73,138,81,71,1,38,257,25,210,529,292,137,50,85,26,218,11,3,361,49,1,129,207,58,111,370,52,55,17,26,33,132,540,404,73,140,25,70,119,492,308,94,405,14,179,334,82,18,7,204,163,115,12,991,20,16,6,28,2,16,10,4,2,2,3,655,9,37,467,59,2,10,127,217,42,62,12,42,71,19,37,40,46,56,1552,2893
 Home Affairs APP	5876
 Home Affairs Act	5533,6453
 Home Affairs Act Home Affairs Bill	11986
@@ -961,7 +970,7 @@ Home Affairs List	1988
 Home Affairs Minister	7331,174,2186,1573,1250
 Home Affairs Minister Dr Leon Schreiber	7639
 Home Affairs Minister Kazembe Kazembe	1191
-Home Affairs Minister Leon Schreiber	2352,1904,516,1300,1686,2427
+Home Affairs Minister Leon Schreiber	2352,1904,516,1300,1686,2427,7555
 Home Affairs Minister Patrobas Katambi	10460
 Home Affairs Ministry	12514,512
 Home Affairs MoJ Ministry of Justice MTAD	12939
@@ -1327,6 +1336,7 @@ Minister of State for Internal Affairs	14039
 Minister of State for Presidential Affairs	5994,10876,410,114
 Minister of State for Presidential Affairs Samuel A	7617,2788
 Minister of State for Presidential Affairs of Liberia. FTL	17173
+Minister of State for Prime Minister and Cabinet Affairs	17548
 Minister of State for Social Affairs	10768
 Minister of State for Women’s Affairs	17371
 Minister of Telecommunications and Digital Affairs	7290
@@ -1358,7 +1368,7 @@ Ministry of Digitalization and Digital Affairs	16144
 Ministry of EAC Affairs	13610
 Ministry of Economic Affairs and Communications	11135
 Ministry of Endowment and Religious Affairs	15059
-Ministry of External Affairs	4576,5173,3223,537,465,1410,73,780,19,21,54,909
+Ministry of External Affairs	4576,5173,3223,537,465,1410,73,780,19,21,54,909,302
 Ministry of External Affairs. The South African	6480
 Ministry of Finance and Economic Affairs	1277,3266,819,6814,802,75,27,1594,2193,7,10,3,9,19,7,5,24,1,14,1,97,1,39,1,21,20,101,70
 Ministry of Finance and Economic Affairs Financial of Malawi	14674
@@ -1372,7 +1382,7 @@ Ministry of Finance and Economic Affairs Responsible	16926
 Ministry of Finance and Economic Affairs and GRA	17064
 Ministry of Finance and Economic Affairs and These RBM	14674
 Ministry of Finance and Economic Affairs. Any	16966
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366
 Ministry of Foreign Affairs Minister of Foreign	17110
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Mr. Adelaid Ben	13744
@@ -1387,6 +1397,7 @@ Ministry of Foreign Affairs and International Cooperation	4849,5628,708,1153,634
 Ministry of Foreign Affairs and International Trade	395,5155,9186
 Ministry of Foreign Affairs and Regional Integration	15430
 Ministry of Foreign Affairs of Benin	15587
+Ministry of Foreign Affairs of Burkina Faso	17596
 Ministry of Foreign Affairs of Comoros	13791
 Ministry of Foreign Affairs of Democratic Republic of Congo	16237
 Ministry of Foreign Affairs of Denmark	16592
@@ -1456,7 +1467,7 @@ Ministry of Public Administration and Political Affairs	7182
 Ministry of Religious Affairs	14889
 Ministry of Religious Affairs and Endowments	14889
 Ministry of Religious Affairs and Wakfs	6938
-Ministry of Social Affairs	1828,9001,12,122,1,6,15,21,891,8,2,17,1388,2,2204,35,229,127,81,873,39,14,185,56
+Ministry of Social Affairs	1828,9001,12,122,1,6,15,21,891,8,2,17,1388,2,2204,35,229,127,81,873,39,14,185,56,429
 Ministry of Social Affairs Center	17157
 Ministry of Social Affairs Wives’ and Children’s Grant	16902
 Ministry of Social Affairs and CNAM-GS	15518
@@ -1498,6 +1509,9 @@ Monetary Affairs	4103,3684,1375
 Monetary Affairs Committee	7815,152,2293,202
 Monetary Affairs Committee Sub-Committees	11807
 Monitoring The Ministry of Home Affairs and Internal	1988
+Monsieur Adam DENDE AFFO	17584
+Monsieur Rodrigue Songe Ayobami Adéoyé AFFOGNON	17584
+Monsieur Sènan Gérard AFFEDJOU Tribunal	17584
 Morocco’s Ministry of Foreign Affairs	14234
 Mosebi and Home Affairs and Police Minister	11628
 My Home Affairs Online	10185
@@ -1599,6 +1613,7 @@ Policy Ministry of Foreign Affairs Ministry of Agriculture	17105
 Political Affairs	7182,270,6957,102,1732
 Political Affairs ARTICLE	14409
 Political Headwinds Affecting the NGFS	13532
+Political and Economic Affairs Office	17571
 Population Affected	1828
 Population and Housing Census Affar	14005
 Population and Housing Census for Affar Region	14005
@@ -1685,6 +1700,7 @@ SISLATIF ET REGLEMENTAIRE TATUTORY AFFAIRS CARD	15999
 SOCIETE AFFECTATION DE RESULTATS GROUP ENGINEERING	15786
 SOMMAIRE PARTIE OFFICIELLE MINISTERE DES AFFAIRES	15488,256
 SPF Affaires	13560
+SPLM Secretary for Political Affairs	17676
 STANDING COMMITTEE FOR REFUGEE AFFAIRS	11177
 STATUTORY AFFAI COPIE CERTIFIEE GONFORME	10974
 STATUTORY AFFAIRS CARD	15999
@@ -1707,6 +1723,7 @@ Secretary for External Affairs	12888
 Secretary for Foreign Affairs and International Trade	5148
 Secretary for Home Affairs	7845,6871,93
 Secretary for Home Affairs and Cultural Heritage	13397
+Secretary for Political Affairs	17676
 Secretary for Provincial Affairs	1154
 Secretary of Internal Affairs	13947
 Secretary of State for Foreign Affairs	8754
@@ -1761,7 +1778,7 @@ South African Institute of International Affairs	6387,2211
 South African J Int Aff	5242
 South Africa’s Department of Home Affairs	10185
 South Africa’s Minister of Home Affairs	5147
-South Sudan’s Ministry of Foreign Affairs	10599
+South Sudan’s Ministry of Foreign Affairs	10599,6958
 Soweto Regional Home Affairs Office	3435
 Sports Culture and Youth Affairs	13093
 Sri Lanka Connectivity Safety and Affordability Connectivity	11004

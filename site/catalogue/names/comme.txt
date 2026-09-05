@@ -96,6 +96,7 @@ Bank. Comments The Bank	17470
 Bank. Completion Measurement Comments All	17470
 Banque Commerciale du Burkina	11622
 Banque Commerciale du Burundi	13314,76
+Banque Fédérale de Commerce	17640
 Banque Marocaine du Commerce Ext-rieur	10718
 Banque Mondiale Comme	10876
 Banques Commerciales	13452,3189
@@ -318,7 +319,7 @@ Commendation The Omanhene	2824
 Commending	8667
 Commends	5825
 Commensurate	1828
-Comment	747,1130,111,379,391,274,73,143,217,297,46,921,164,129,7,130,121,393,473,277,410,56,70,360,13,23,300,20,39,155,130,99,417,210,91,177,59,201,73,156,9,28,78,439,195,158,11,94,21,50,133,10,109,10,15,136,56,40,518,10,84,115,13,910,247,103,226,60,30,416,140,601,136,13,379,111,52,54,3,129,151,4,53,39,41,34,162,20,219,79,39,69,51,45,74,14,27,83,16,240,1,300,138,1
+Comment	747,1130,111,379,391,274,73,143,217,297,46,921,164,129,7,130,121,393,473,277,410,56,70,360,13,23,300,20,39,155,130,99,417,210,91,177,59,201,73,156,9,28,78,439,195,158,11,94,21,50,133,10,109,10,15,136,56,40,518,10,84,115,13,910,247,103,226,60,30,416,140,601,136,13,379,111,52,54,3,129,151,4,53,39,41,34,162,20,219,79,39,69,51,45,74,14,27,83,16,240,1,300,138,1,290,49
 Comment Bédié	9620
 Comment CITADEL	2732
 Comment Dahouët-Monique	9620
@@ -428,7 +429,7 @@ Commenté	10966
 Commer	13053,272,3551
 Commerc	12256
 Commercant	16518
-Commerce	28,94,104,169,64,103,81,94,9,215,39,53,399,230,302,112,61,296,61,115,239,488,40,3,87,172,108,55,45,226,458,183,547,33,138,4,138,96,14,2,102,70,6,41,210,15,126,145,85,62,277,19,65,179,16,2,84,59,14,259,190,247,241,18,328,72,171,83,444,129,18,33,40,264,480,228,294,54,25,234,390,26,260,45,2,499,20,19,134,442,1,80,41,197,3,2,19,29,25,22,37,5,1,12,55,60,2,98,67,22,94,25,142,71,370,32,5,1,1,58,2,69,156,66,56,15,458,2,4,40,2,8,3,25,24,17,38,50,1,87,71,105,54,35,79,5,27,10,48,39,105,7,19,210,132,6,12,70,138,29,267,121,185,3,13,13,9,43
+Commerce	28,94,104,169,64,103,81,94,9,215,39,53,399,230,302,112,61,296,61,115,239,488,40,3,87,172,108,55,45,226,458,183,547,33,138,4,138,96,14,2,102,70,6,41,210,15,126,145,85,62,277,19,65,179,16,2,84,59,14,259,190,247,241,18,328,72,171,83,444,129,18,33,40,264,480,228,294,54,25,234,390,26,260,45,2,499,20,19,134,442,1,80,41,197,3,2,19,29,25,22,37,5,1,12,55,60,2,98,67,22,94,25,142,71,370,32,5,1,1,58,2,69,156,66,56,15,458,2,4,40,2,8,3,25,24,17,38,50,1,87,71,105,54,35,79,5,27,10,48,39,105,7,19,210,132,6,12,70,138,29,267,121,185,3,13,13,9,43,58
 Commerce Act	15936
 Commerce Advertisement Connect	5264
 Commerce Agriculture	10763
@@ -575,7 +576,7 @@ Commercial Law	6683,10112
 Commercial Law Wilmari Strachan Your Author	6683
 Commercial Lending	12389
 Commercial Licence	2913
-Commercial Loan	160,2,61,79,1,13,1,103,1,57,59,14,2,181,30,89,121,13,783,468,2214,10,5,1073,700,204,280,632,1707,2312,1762,550,1690,939,469
+Commercial Loan	160,2,61,79,1,13,1,103,1,57,59,14,2,181,30,89,121,13,783,468,2214,10,5,1073,700,204,280,632,1707,2312,1762,550,1690,610,329,469
 Commercial Maize Project’s Hamba Ubuye	13123
 Commercial Management System	15659,310
 Commercial Management System D&R Distribution and Retail	15969
@@ -661,6 +662,7 @@ CommerzVentures	606,532
 Commerzbank	10718
 Commerzbank AG	9796
 Commerçant	1806
+Commerçante	17550
 Commerçants	5929
 Communication Services Commercial	4972
 Company Commentary	9735
@@ -869,12 +871,12 @@ FONCTION DETAILLEE STATUT COMMENTAIRE STRUCTURE INTERVENANT	15936
 FOREWORD MINISTER OF COMMERCE AND INDUSTRY	17367
 FORMANT CODE DE COMMERCE	17439
 FORMANT CODE DE COMMERCE PROMULGUEE PAR	17439
-FORSETI COMMERCIAL	3437,3942,47
+FORSETI COMMERCIAL	3437,3942,47,10187,2
 Facebook CommentsFollow Us	6385
 Facilitate the Use of Electronic Transactions for Commercial	16832
 Facilitator of Electronic Government and Electronic Commerce	16861
 Faciliter le Commerce Electronique	17485
-Faculty of Commerce	13078
+Faculty of Commerce	13078,4570
 Faculty of Commerce Professor Suki Goodman	11027
 Faculty of Management and Commerce	9128
 Fanta CISSE M Commerce Secrétaire	16620
@@ -1162,8 +1164,9 @@ Ministre du Commerce	13329,514,1569,193,413
 Ministries of Commerce and Digital Economy	2545
 Ministries of Commerce and Industry	16843
 Ministry Of Commerce and Industry MINISTRY	14891
-Ministry of Commerce	183,436,1369,618,1989,652,3950,739,116,576,506,20,1202,20,36,32,512,21,36,38,261,2,89,76,1257,25,57,65,8,106,88,393,666,133,566,29,70,69,88,15,121
+Ministry of Commerce	183,436,1369,618,1989,652,3950,739,116,576,506,20,1202,20,36,32,512,21,36,38,261,2,89,76,1257,25,57,65,8,106,88,393,666,133,566,29,70,69,88,15,121,358,92
 Ministry of Commerce Industry and Trade	12349,744
+Ministry of Commerce Secretary-General Ali Abdou Daoud	17593
 Ministry of Commerce Trade Statistical Bulletin	13479
 Ministry of Commerce Trade and Industry Zambia Trade	12454
 Ministry of Commerce and Business Promotion	16972
@@ -1190,6 +1193,7 @@ Mobile Commerce Congo S.a	15848
 Mobile Network Operator MoCI Ministry of Commerce	16876
 Model of African Collaboration Commenting	17126
 Modèle Proposé Comme	13341
+Monsieur Sovidé GAHOU Tribunal de Commerce de Cotonou	17584
 Monsieur le Ministre du Commerce	16364
 Moroccan Courts of Commerce	17441
 Moyennes Entreprises RCCM Registre du Commerce	16249

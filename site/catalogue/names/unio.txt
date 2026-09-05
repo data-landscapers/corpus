@@ -35,6 +35,7 @@ Addis Ababa Ethiopia Cameroon Union	10764
 Addis Ababa Ethiopia Union	10844
 Administration EU European Union FCV Fragility	13312,2
 Africa AU African Union CSO Central	13310
+Africa CDC and African Union Commission	17567
 Africa Cameroon Senegal Zimbabwe Union	11563
 Africa Ethiopia International Telecommunication Union	10764
 Africa Telecommunications Union	961
@@ -48,12 +49,12 @@ African States EU European Union FOB	16935
 African States EU European Union FTA	1243
 African Telecommunication Union	13353
 African Telecommunication Union B BPO	14879
-African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441,289,302,1460,2784
+African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441,289,302,1460,2784,1492,171
 African Telecommunications Union AU African Union	14674
 African Telecommunications Union Secretariat	7562
 African Telecommunications Union Spectrum Assignment	7827,262
 African Telecommunications Union Spectrum Assignment Plan	7850,323
-African Union	26,1,1,143,54,335,2,191,7,139,59,3,1,76,40,83,14,29,39,21,13,320,174,8,35,40,397,208,107,111,5,105,29,23,199,36,15,73,421,1,14,6,47,99,111,13,94,77,58,20,3,49,5,245,1,102,35,20,188,5,6,5,297,8,83,27,40,2,8,50,60,33,5,18,22,23,319,43,53,125,38,14,18,23,90,45,36,27,37,7,14,17,8,55,89,62,20,64,23,100,18,125,5,59,42,4,21,41,31,14,20,2,54,7,9,13,54,143,8,88,40,8,82,14,15,59,19,2,7,14,113,17,13,11,50,3,29,6,93,158,141,69,99,426,68,49,9,17,59,17,144,70,140,9,4,10,124,3,2,169,39,46,2,21,35,96,88,13,206,79,163,2,99,3,18,12,243,40,3,2,9,28,16,17,55,12,6,57,60,105,12,53,11,81,2,1,27,108,9,30,24,42,55,77,15,40,41,28,35,5,9,23,69,25,6,23,147,9,126,2,34,1,10,3,18,119,79,9,51,8,5,28,35,22,1,242,5,4,17,57,59,3,7,20,3,149,56,59,3,98,22,3,5,85,14,17,17,120,10,44,43,203,6,40,2,35,54,1,34,64,10,13,37,18,34,103,43,13,50,16,71,260,10,21,9,39,36,33,13,57,3,88,219,79,107,98,45,12,11,28,35,222,290,49,13,14,9,2,10,30,1,12,9,3,3,9,6,1,59,1,7,61,19,11,93,31,47,31,5,1,104
+African Union	26,1,1,143,54,335,2,191,7,139,59,3,1,76,40,83,14,29,39,21,13,320,174,8,35,40,397,208,107,111,5,105,29,23,199,36,15,73,421,1,14,6,47,99,111,13,94,77,58,20,3,49,5,245,1,102,35,20,188,5,6,5,297,8,83,27,40,2,8,50,60,33,5,18,22,23,319,43,53,125,38,14,18,23,90,45,36,27,37,7,14,17,8,55,89,62,20,64,23,100,18,125,5,59,42,4,21,41,31,14,20,2,54,7,9,13,54,143,8,88,40,8,82,14,15,59,19,2,7,14,113,17,13,11,50,3,29,6,93,158,141,69,99,426,68,49,9,17,59,17,144,70,140,9,4,10,124,3,2,169,39,46,2,21,35,96,88,13,206,79,163,2,99,3,18,12,243,40,3,2,9,28,16,17,55,12,6,57,60,105,12,53,11,81,2,1,27,108,9,30,24,42,55,77,15,40,41,28,35,5,9,23,69,25,6,23,147,9,126,2,34,1,10,3,18,119,79,9,51,8,5,28,35,22,1,242,5,4,17,57,59,3,7,20,3,149,56,59,3,98,22,3,5,85,14,17,17,120,10,44,43,203,6,40,2,35,54,1,34,64,10,13,37,18,34,103,43,13,50,16,71,260,10,21,9,39,36,33,13,57,3,88,219,79,107,98,45,12,11,28,35,222,290,49,13,14,9,2,10,30,1,12,9,3,3,9,6,1,59,1,7,61,19,11,93,31,47,31,5,1,104,125,3,9,2,15,1,62,91
 African Union AI Policy Working Group	4528,7984
 African Union AI Strategy	4528,1261,1759,2389,779,1796
 African Union AU Strategy	1243
@@ -76,9 +77,10 @@ African Union CRPD	13033
 African Union Center of Excellence	15553
 African Union Central African Backbone Citizen	15553
 African Union Champion for AI and Digital Health	5966
+African Union Champion for Local Manufacturing of Health	17567
 African Union Charter	961
 African Union Child Online Safety	1597
-African Union Commission	578,383,116,84,82,21,13,180,357,868,207,169,929,116,20,664,305,152,58,739,209,417,123,207,139,119,71,203,264,1,156,1,476,320,415,32,415,407,153,307,673,134,769,81,573,198,38,20,10,5,86,46,331,17,23,149,509,138,18,134,58,25,11,202,514,693,213,212,15,334,25,85,48,51,13,30,64,54,9,55,18
+African Union Commission	578,383,116,84,82,21,13,180,357,868,207,169,929,116,20,664,305,152,58,739,209,417,123,207,139,119,71,203,264,1,156,1,476,320,415,32,415,407,153,307,673,134,769,81,573,198,38,20,10,5,86,46,331,17,23,149,509,138,18,134,58,25,11,202,514,693,213,212,15,334,25,85,48,51,13,30,64,54,9,55,18,385,25
 African Union Commission Andrew Dabalen	11839
 African Union Commission Department Tags	13109
 African Union Commission Digital Identity Platform	289
@@ -109,7 +111,7 @@ African Union Common Position	16874
 African Union Conference Center and Office Complex	6003
 African Union Congress Special Technical Committee	12092
 African Union Constitutive Act	17017
-African Union Continental AI Strategy	5042,1090,2169,32,1553,4933
+African Union Continental AI Strategy	5042,1090,2169,32,1553,4933,2877
 African Union Continental AI Strategy and Africa	9204
 African Union Continental AI Strategy.149 Focus	14674
 African Union Continental Artificial Intelligence	14128
@@ -132,6 +134,7 @@ African Union Data Policy Framework. Developed	5244
 African Union Data Protection Framework	5244
 African Union Decision N	16927
 African Union Development Agency	1243,571,1544,509,11,3070,847,4020,1151,1520
+African Union Development Agency-NEPAD	17583
 African Union Development Agency-New Partnership for Africa	5804
 African Union Development Agency. AI	6948
 African Union Digital Agriculture Strategy	9609
@@ -153,7 +156,8 @@ African Union Framework and Guidelines	9727,7397
 African Union Headquarters	11839,4532
 African Union Headquarters P.O. Box	4123
 African Union Headquaters P.O. Box	1243
-African Union Heads of State	13388
+African Union Heads of State	13388,4194
+African Union Heads of State Summit	17582
 African Union Heads of State. The AU	6369
 African Union Health Information Exchange	9969
 African Union High Level Panel	3691
@@ -165,8 +169,9 @@ African Union Lever	6948
 African Union Levy	14985,220
 African Union Mechanism for Police Cooperation	961
 African Union Member State	1243,11463
-African Union Member States	562,399,282,2340,3456,1708,3305,1071,1601,1632,730
+African Union Member States	562,399,282,2340,3456,1708,3305,1071,1601,1632,730,602
 African Union Member States and TICAD Co-organizers	12962
+African Union Mid-Year Coordination Summit	17582
 African Union Mission	14896
 African Union On Jun	14630
 African Union Organs	961
@@ -176,6 +181,7 @@ African Union Private Sector Forum Concluded	13899
 African Union Protocol	10841
 African Union Regional Media and Information Literacy	1814
 African Union Representatives	16371
+African Union Roadmap	17594
 African Union STI Strategy for Africa STISA-2024	5246
 African Union Solemn Declaration	16951
 African Union Special Envoy	560,5690
@@ -227,6 +233,7 @@ African Union's Digital Transformation Strategy	975,3136,8060,1141,1585,732
 African Union's Digital Transformation Strategy Digital	14897
 African Union's EMIS	12052,4304
 African Union's EMIS Norms and Standards	12052
+African Union's Huawei-equipped	17695
 African Union's Malabo	9399
 African Union's Malabo Convention	1777,1851,576,19,5393
 African Union's Malabo Convention and ECCAS	9616
@@ -260,7 +267,7 @@ African Union’s AI	12356
 African Union’s AI Agenda	4528
 African Union’s AI Strategy and UNESCO’s AI	12356
 African Union’s AI Working Group	15713
-African Union’s Agenda	970,844,2554,419,1174,1078,3636,144,3,388,1795,1737,77,692,334,1076,195
+African Union’s Agenda	970,844,2554,419,1174,1078,3636,144,3,388,1795,1737,77,692,334,1076,195,559
 African Union’s Commission	26,1,1
 African Union’s Conference for Finance and Economy Ministers	16863
 African Union’s Continental AI Strategy	5092,1318,380,1839,8463
@@ -273,6 +280,7 @@ African Union’s Digital Transformation Strat-	16942
 African Union’s Digital Transformation Strategy	2677,1837,76,186,1593,10606
 African Union’s Digital Transformation Strategy for Africa	5242,5577,4672
 African Union’s Malabo Convention	1243
+African Union’s Protocol	17583
 African Union’s Second Decade of Education for Africa	13310
 African Union’s Special Envoy	560
 African Union’s Vision for Migration	16874
@@ -333,6 +341,7 @@ Competition Space China European Union Data	9816
 Conference. The Union	7793,90,1,66
 Consensual Union	16921,29
 ConÞdentiality European Union	15901
+Cooperative Unions	7763
 Country The Union	13731
 Credit Union Cap	1020
 Credit Unions	7760,9344,131,82
@@ -609,6 +618,7 @@ Global Gateway The European Union	6552
 Global North. While the African Union	7233
 Gouvernement Ouvert Local Union des Villes	15712
 Government Hindi Teachers Union and Vani Printing	14736
+Government of Kenya and African Union	17567
 Grant Agreement EU European Union GET.invest	12962
 Gross Settlement Southern African Customs Union	11134
 Head of Information Society-African Union Commission	16849
@@ -660,7 +670,7 @@ International Communications Union’s Radiocommunication	5245
 International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451
 International Road Transport Union	13042
 International Road Transport Union IT Information	13042
-International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221,80,88,31,55,142,38,3,44,38,30,182,31,18,178,137,79,6,11,21,226,61,91,7,134,4,77,19,17,22,159,144,9,223,7,7,28,229,35,103,11,39,40,18,139,105,74,19,94,43,9,9,15,5,34,44,25,2,4,94,29,54,50,158,60,9,19,12,3,4,35,28,338,225,561,36,61,70,4,66,33,105,19,15,204,68,21
+International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221,80,88,31,55,142,38,3,44,38,30,182,31,18,178,137,79,6,11,21,226,61,91,7,134,4,77,19,17,22,159,144,9,223,7,7,28,229,35,103,11,39,40,18,139,105,74,19,94,43,9,9,15,5,34,44,25,2,4,94,29,54,50,158,60,9,19,12,3,4,35,28,338,225,561,36,61,70,4,66,33,105,19,15,204,68,21,131,141
 International Telecommunication Union Council	6007
 International Telecommunication Union ICT Development Index	11935
 International Telecommunication Union ITI Internet User	1009
@@ -935,7 +945,7 @@ UPU Universal Postal Union	11887,266,1,9,178
 USAF POTRAZ Building Union	11563
 Under the African Union's Digital Transformation Strategy	13109
 Under the Union Customs Code	11036
-Union	11,544,88,93,1,52,172,9,219,219,184,163,52,166,297,53,56,28,133,21,62,152,18,15,134,24,54,11,33,3,106,86,3,99,29,52,84,51,107,3,20,12,53,20,20,44,122,184,7,57,50,104,6,73,80,50,414,51,11,70,112,66,11,33,58,19,2,19,22,226,104,18,21,10,136,15,77,298,16,73,17,72,7,22,4,68,70,146,5,1,5,50,21,98,18,22,27,33,29,11,72,10,1,3,63,103,23,59,82,47,9,1,67,56,3,25,51,11,1,5,1,14,19,14,1,12,41,75,6,24,44,30,22,2,2,28,13,4,75,5,18,7,14,32,227,30,110,44,31,26,31,34,7,13,74,193,58,17,40,15,167,3,30,228,66,11,244,78,57,11,90,9,8,10,17,148,92,31,18,51,1,52,72,4,3,9,22,14,8,1,1,5,1,1,1,7,9,76,52,85,19,338,30,41,75,49,39,26,62,4,3,5,31,11,197,38,273,601,288,9,51,32,33,43,9,40,1,48,104,6,31,5,30,2,1,5,6,1,7,2,2,6,2,4,7,22,2,5,6,6,5,8,1,1,2,11,73,6,42,245,23,22,16,53,31,115,65,59,6,81,191,152,310,22,19,10,25,3,5,15,19,23,13,9,14,5,3,4,8,16,67,1,6,5,32,17,24,9,2,35,2,9,5,39,29,28,3,4,7,45,2,6,29,2,4,2,6,53,40,26,21,15,27,3,29,19,6,1,11,55,9,15,36,41,36,32,6,20,11,30,5,13,25,4,34,6,43,4,1,5,7,55,14,18,119,4,5,28,66,77,336,26,57,10,17,6
+Union	11,544,88,93,1,52,172,9,219,219,184,163,52,166,297,53,56,28,133,21,62,152,18,15,134,24,54,11,33,3,106,86,3,99,29,52,84,51,107,3,20,12,53,20,20,44,122,184,7,57,50,104,6,73,80,50,414,51,11,70,112,66,11,33,58,19,2,19,22,226,104,18,21,10,136,15,77,298,16,73,17,72,7,22,4,68,70,146,5,1,5,50,21,98,18,22,27,33,29,11,72,10,1,3,63,103,23,59,82,47,9,1,67,56,3,25,51,11,1,5,1,14,19,14,1,12,41,75,6,24,44,30,22,2,2,28,13,4,75,5,18,7,14,32,227,30,110,44,31,26,31,34,7,13,74,193,58,17,40,15,167,3,30,228,66,11,244,78,57,11,90,9,8,10,17,148,92,31,18,51,1,52,72,4,3,9,22,14,8,1,1,5,1,1,1,7,9,76,52,85,19,338,30,41,75,49,39,26,62,4,3,5,31,11,197,38,273,601,288,9,51,32,33,43,9,40,1,48,104,6,31,5,30,2,1,5,6,1,7,2,2,6,2,4,7,22,2,5,6,6,5,8,1,1,2,11,73,6,42,245,23,22,16,53,31,115,65,59,6,81,191,152,310,22,19,10,25,3,5,15,19,23,13,9,14,5,3,4,8,16,67,1,6,5,32,17,24,9,2,35,2,9,5,39,29,28,3,4,7,45,2,6,29,2,4,2,6,53,40,26,21,15,27,3,29,19,6,1,11,55,9,15,36,41,36,32,6,20,11,30,5,13,25,4,34,6,43,4,1,5,7,55,14,18,119,4,5,28,66,77,336,26,57,10,17,6,88,84,10,45
 Union ACE	16872
 Union AUC AU Commission AWPB Annual	1264
 Union Affairs	17438
@@ -1104,6 +1114,8 @@ Union des Personnes	13442
 Union des Personnes Handicapées	13442
 Union des Personnes Handicapées du Burundi	13442
 Union des Républiques Socialistes Soviétiques USA	13377
+Union des Sanduk	17640
+Union des Sanduk de Mohéli	17640
 Union des Villes	15712
 Union du Maghreb	17438
 Union du Maghreb Arabe	17485

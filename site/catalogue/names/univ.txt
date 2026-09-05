@@ -17,6 +17,7 @@ AP-HP. Sorbonne Université	16406
 APPLICATION FOR DESIGNATION AS UNIVERSAL SERVICE	22
 ARRUPE JESUIT UNIVERSITY	13368
 Aalto University	10510
+Abdulrahman University	17648
 Abreviaturas COU Curso de Orientación Universitaria EMIS	16864
 Abstract University	16366
 Abubakar Tafawa Balewa University	9653
@@ -86,9 +87,11 @@ Airport JKUAT Jomo Kenyatta University of Agriculture	2775
 Ajman University	9632
 Al Akhawayn University. Authorities	5360
 Al Ihsan University	17226
+Al-Azhar University	17648
 Al-Butana University	15249
 Al-Hikma University	17226
 Al-Neelain University	15249
+Alexandria University	17648
 All Universal Access	16872
 All. Integrated Planning for Universal Access	12233
 Alliance Sorbonne Université	16406
@@ -100,6 +103,7 @@ Ambo University	14140
 America Dollars USF Universal Service Fund	14674
 American International University West Africa	17226
 American University	7211
+American University School of International Service	17701
 American University of Central Africa	4209
 Amoud University	15123,68
 Amsterdam University Press	11135
@@ -117,6 +121,7 @@ Arrupe Jesuit University	4528,7984
 Artes da Universidade Eduardo Mondlane	3334
 Article Cairo University Launches Free Program	5322
 Artificial Intelligence Index Report. Stanford University	2816
+Artificial Intelligence University	17696
 Artificial Intelligence University Construction	7085
 Artificial Intelligence University Innovation Pod	5073,9011,604
 Ashesi University	4126,7518
@@ -423,6 +428,7 @@ Egypt Universal Health Insurance System	15481
 Egypt University of Informatics	1902,14144
 Egypt's Universal Health Insurance System	15481
 Egypt's University of In-formatics and British	4628
+Egypt-Japan University of Science and Technology	17735
 Egypt. The American University	15663
 Egyptian Russian University	15473
 Egypt’s Universal Health Insurance System	16079
@@ -633,7 +639,7 @@ Johns Hopkins University	10881,38,224,2311,2127
 Johns Hopkins University School of Advanced International	7358
 Johnson Cornell University	15512
 Joint University of Mauritius	14775
-Jomo Kenyatta University of Agriculture and Technology	6946,2390,1017,995
+Jomo Kenyatta University of Agriculture and Technology	6946,2390,1017,995,6387
 Jornadas Cientificas da Universidade de Santiago	16484
 Joseph the Ki-Zerbo University of Ouagadougou	10864
 Journal of Tianjin University Science and Technology	4127
@@ -727,17 +733,24 @@ MZUNI Mzuzu University	13095
 Maestro Universitario Porcentaje	16920
 Makerere Univ	9781
 Makerere Univ DICOM CNN	9781
-Makerere University	2222,843,680,1112,32,482,42,1180,353,1603,1380,540,674,686,3335,1952
+Makerere University	2222,843,680,1112,32,482,42,1180,353,1603,1380,540,674,686,3335,1952,619
+Makerere University AI Lab	17735
 Makerere University Business School	4028
 Makerere University ICT Strategic	15164
+Makerere University International Office	17735
 Makerere University Korea International Cooperation Agency	2222
-Makerere University School of Public Health	4674
+Makerere University Main Building	17735
+Makerere University School of Public Health	4674,13061
+Makerere University Welcomes	17735
+Makerere University and E-JUST	17735
+Makerere University and JICA	17735
+Makerere University and Japan	17735
 Makerere University’s Ocular	1363
 Malawi University	12241
 Malawi University of Business and Applied Sciences	401,11839,840,15,17,10
 Malawi University of Business and Applied Sciences MUST	12241,839,15
 Malawi University of Science	10227
-Malawi University of Science and Technology	2816,1742,1293,1563,4764,62,840,32,10,1280,913
+Malawi University of Science and Technology	2816,1742,1293,1563,4764,62,840,32,10,1280,913,2396
 Malawi University of Science and Technology MZUNI Mzuzu	12241,839,15
 Malawi University of Science and Technology NSW	13053
 Malawi University of Science and Technology.59	14674
@@ -771,7 +784,7 @@ Ministère Enseignement Supérieur Université Articles	15835
 Miss Universe	14771
 Mitchell. Rhodes University	10076
 Miva Open University and Abuja-based	8780
-Mogadishu University	14949
+Mogadishu University	14949,2695
 Mohammed VI Polytechnic University	1814,15697
 Moi University	899,3662,2385,7600
 Moi University and Jomo Kenyatta University of Agriculture	9334
@@ -1049,6 +1062,7 @@ Régionales des Universités	15568
 S Serviço de Acesso Universal	2866
 SADC Tourism UNIVISA	10324
 SADC Universal Postal Service and Access Regulatory	12918
+SADC University of Transformation	17572,5
 SDGs. Universities	4126
 SECUNDARIA UNIVERSITARIA E DOCENTE JUVENTUD DEPORTES	4209
 SERVICE UNIVERSEI Article	15429
@@ -1138,6 +1152,7 @@ Soroti University	9781
 South China University of Technology	8376
 South Eastern Kenya University	14663
 Southern Africa Nazarene University	12975
+Southern African Regional Universities Association	17577
 Southern Connecticut State University	8022
 St. Paul's University	15164
 Standard Operating Procedure UBR Universal Birth	13681
@@ -1152,7 +1167,7 @@ Stanford University’s HAI	15713
 Starz University	16975
 States' Ministries of Education and State Universal Basic	11860
 Statistique Université du Lac Tanganyika	13689
-Stellenbosch University	2093,7144,112,1380,552,55,593,1548,1297
+Stellenbosch University	2093,7144,112,1380,552,55,593,1548,1297,2961
 Stellenbosch University Business School	9349
 Stellenbosch University Sikhumbuzo Fakudze Head Legal	11134
 Stellenbosch University Zithulele Gina Director Human	11134
@@ -1172,7 +1187,7 @@ Supply UR University of Rwanda VPN Virtual	15164
 Support of Universal Health Coverage	14434
 Supporting Egypt's Universal Health Insurance System	16079
 Supporting Egypt’s Universal Health Insurance System	16079
-Supreme Council of Universities	16255
+Supreme Council of Universities	16255,1293
 Sustainability and Technology USAf Universities South Africa	5246
 Sustainable Development Goals USAF Universal Service	13346
 Sustainable Development Goals and Universal Health Coverage	16874
@@ -1359,7 +1374,7 @@ Universal	11,11,877,59,41,215,37,5,270,108,70,958,1199,905,767,66,534,1428,1044,
 Universal AI and DPI	10719
 Universal Acceptance	9355
 Universal Acceptance. Universal Acceptance	9355
-Universal Access	22,5327,1597,3461,2566,322,17,1567,105,165,834,867,22,4,7,83,9,456
+Universal Access	22,5327,1597,817,2644,2566,322,17,1567,105,165,834,867,22,4,7,83,9,456
 Universal Access Account	16835
 Universal Access Annual Work	16850
 Universal Access Contribution	15149
@@ -1454,7 +1469,7 @@ Universal Health Coverage WHO World Health	9855
 Universal Health Coverage World Bank Group	11468
 Universal Health Coverage and Health	15556
 Universal Health Coverage. Similarly	11536
-Universal Health Insurance	2419,5288,3426,4592,252,964,475
+Universal Health Insurance	2419,5288,56,3370,4592,252,964,475
 Universal Health Insurance Act	6921
 Universal Health Insurance Agency	15977
 Universal Health Insurance Authority	15725,246
@@ -1478,6 +1493,7 @@ Universal Mobile Telecommunications System	13301
 Universal Modelling Language	15129
 Universal Music Group	9739
 Universal Payments Interface	6899
+Universal Pension Scheme	7763
 Universal Pension Scheme A BLUEPRINT	11133
 Universal Period Review of Eswatini	13170
 Universal Periodic Review	3583,3366,2,4635,314,542,681,33,917,1058,837
@@ -1509,7 +1525,7 @@ Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 Universal Service Agency GIFEC	8025
 Universal Service Development Fund	9756,168,2111,4907
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723
 Universal Service Fund Ad	10856
 Universal Service Fund Agreement	13150
 Universal Service Fund Cell Tower Initiative	1572
@@ -1691,7 +1707,7 @@ Universitas Indonesia	226
 Universite	10492
 Universite Alassane Ouattara	16329
 Universite des Comores URL	13749
-Universities	520,441,816,315,426,257,183,1168,402,234,482,267,40,1281,104,236,376,543,289,180,560,8,41,846,786,240,302,2,208,304,6,369,9,14,121,37,99,163,242,55,323,15,4,6,303,13,52,128,175,19,295,261,163,21,69,34,44,159,108,1285,436,41,44,5,43,139,103,27,171
+Universities	520,441,816,315,426,257,183,1168,402,234,482,267,40,1281,104,236,376,543,289,180,560,8,41,846,786,240,302,2,208,304,6,369,9,14,121,37,99,163,242,55,323,15,4,6,303,13,52,128,175,19,295,261,163,21,69,34,44,159,108,1285,436,41,44,5,43,139,103,27,171,114,5,29,54,75
 Universities Act	7832,2448
 Universities All	958
 Universities Communities	7548
@@ -1705,13 +1721,14 @@ Universities and Private Sector Innovators Universities	16975
 Universities and Research	11863
 Universities and TVET	13991
 Universities of Cornell	11133,9
-University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340,23,1,234,117,21,103,418,12,102,37,17,174,5,1,5,31,116,39,17,44,266,194,61,111,6,114,28,58,19,163,154,185,850,173,77,81,59,90,18,38,42,216,93,51,100,21,1127,59,10,29,199,11,187,111
+University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340,23,1,234,117,21,103,418,12,102,37,17,174,5,1,5,31,116,39,17,44,266,194,61,111,6,114,28,58,19,163,154,185,850,173,77,81,59,90,18,38,42,216,93,51,100,21,1127,59,10,29,199,11,187,111,114,163
 University 21.pdf for Uganda	15164
 University ARTIFEX University of Romania Fotabe U	12467
 University Activities Planned for Q4	13080
 University Autonomy	17458
 University B	8022
 University Board	16970
+University Challenge	7763
 University College	11541
 University College Dublin	10335
 University College Hospital	14829
@@ -1759,6 +1776,7 @@ University Spin-offs	12389
 University Sports South Africa’s Team SA	432
 University Students	14721
 University Students and Postgraduate Scholars	17149
+University Symposium	17735
 University TVET	4126
 University Teaching Hospital	13040
 University Teaching Hospital Virology Laboratory	13454
@@ -1787,6 +1805,7 @@ University of Bath	6948,7897
 University of Batna	8606
 University of Belgrade	10780
 University of Birmingham	9145,5591
+University of Bisha	17648
 University of Blida	2124
 University of Bordeaux	766,8866,2371
 University of Botswana	4060,10,1782,3856,1920,905,1,10,7,23,4,3,18,12,3,1686
@@ -1801,6 +1820,7 @@ University of Buea	15480
 University of Buenos Aires	5682
 University of Bujumbura	13358
 University of Burundi	7955,5357,2
+University of Business and Technology	17648
 University of Cabo Verde	6037
 University of California	137,2057,1932,2820,1583,1130,80,2872,346,1943
 University of California Press. Beauchesne	7886
@@ -1838,6 +1858,7 @@ University of Education	9634,966
 University of Education The Gambia	17226
 University of Embu	7204
 University of Eswatini	4058,7073,3,1227,83,478,28,20,5,21,25,161
+University of Eswatini Computer Science Lecturer Lucky	17592
 University of Eswatini Editors	11131
 University of Eswatini Private Bag	12361
 University of Eswatini Sinaye Dlamini Head Information	11134
@@ -1850,7 +1871,7 @@ University of Fort Hare	9128,760,1393,1670
 University of Fort Hare Authors	9888
 University of Free State	520
 University of Geneva	11149,3859,573
-University of Ghana	905,1406,24,1791,633,98,32,404,613,107,100,280,14,186,166,339,157,80,952,78,867,80,832,191,48,2,172,28,3768,2452
+University of Ghana	905,1406,24,1791,633,98,32,404,613,107,100,280,14,186,166,339,157,80,952,78,867,80,832,191,48,2,172,28,3768,2452,909
 University of Ghana Business School	7154,452,3426,3742
 University of Ghana Korea International Cooperation Agency	905
 University of Ghana Rd	3386
@@ -1965,8 +1986,9 @@ University of Pavia of Italy and Research and Documentation	14047
 University of Pennsylvania	11140
 University of Pennsylvania Press	5242
 University of Pennsylvania's Wharton African Business Forum	7233
+University of Petra	17648
 University of Port Harcourt	8560,6143
-University of Pretoria	396,1601,1347,643,445,1166,2424,580,3,420,324,992,388,405,87,115,641,567,933,911,126
+University of Pretoria	396,1601,1347,643,445,1166,2424,580,3,420,324,992,388,405,87,115,641,567,933,911,126,3042
 University of Pretoria Department of Library Services	8022
 University of Pretoria Faculty of Health Sciences	8022
 University of Pretoria and ESCCOM	13227
@@ -1991,6 +2013,7 @@ University of Rwanda. A Cabinet	7906
 University of Rwanda’s EBMIS	14922
 University of Santo Tomas	8991
 University of Science	16915
+University of Science and Technology	17591,50
 University of Science and Technology Houari Boumediene	15679
 University of Science and Technology OMS Outage Management	12399
 University of Science and Technology of Algiers	15679
@@ -2020,6 +2043,7 @@ University of The Gambia and Mrs Mary P	7823
 University of The Gambia's Education Management Information	6048
 University of Tokyo	12376
 University of Toronto	5215,5918
+University of Transformation	17572
 University of Twente	12837
 University of Twente and ITC	15552
 University of Tübingen	4676
@@ -2059,13 +2083,15 @@ University-Industry Collaboration	12389
 University-industry R&D	10969,915,1,10,264,1,191,4,132
 University-linked	14819
 University. Columbia Institute for Tele-Information. Eco	2816
+University. Dr. Okano	17735
 University29	899
 University6	12413
 UniversityofPretoria	8603
 University’s Brikama Campus	17347
+University’s International Office	17735
 Università	8774
 Universitário. Fiscalização	10750
-Université	12,939,296,3155,205,1161,573,618,42,885,246,189,245,478,1150,65,93,140,1,83,245,2062,431,232,302,658,129,269,360,93,211,64,38,20,30,115,93,189,227,15,126
+Université	12,939,296,3155,205,1161,573,618,42,885,246,189,245,478,1150,65,93,140,1,83,245,2062,431,232,302,658,129,269,360,93,211,64,38,20,30,115,93,189,227,15,126,1099
 Université AUBE NOUVELLE	15494
 Université Abdelmalek Essaadi	17501
 Université Abdelmalek Essaâdi de Tétouan	8876
@@ -2112,7 +2138,7 @@ Université Mahatma Gandhi	16627
 Université Marien	15744
 Université Marien NGOUABI	15788,259
 Université Marien NGOUABI de Brazzaville	15685
-Université Marien Ngouabi	12036,3457,600
+Université Marien Ngouabi	12036,3457,600,1451
 Université Marien Ngouabi Accord	15580
 Université Marien-Ngouabi	1299,4004
 Université Mercure International	16627
@@ -2182,7 +2208,7 @@ Université de Cocody	8895
 Université de Cocody-Abidjan	12133
 Université de Dallas. Elle	10803
 Université de Datcha	8620
-Université de Diffa	10492
+Université de Diffa	10492,7180
 Université de Djibouti	4402,6129,3317
 Université de Djibouti UD	13848
 Université de Djibouti URL	13848
@@ -2211,7 +2237,7 @@ Université de Montpellier	13530
 Université de Nagasaki	15500
 Université de Nouakchott	1183
 Université de Nouakchott. Elle	1183
-Université de Parakou	7001,3820,4083,1377,78,126
+Université de Parakou	7001,3820,4083,1377,78,126,1099
 Université de Parakou Favorable	10821
 Université de Parakou Traitement	10821
 Université de Radiothérapie PVVIH	15475
@@ -2288,6 +2314,7 @@ Whenever the Universe	10862
 Williams V.S. Tubman University	17167
 Wits University	1195,1090,9,275,245,528,620,1012,459,257,114,88,77,77,17,39,145,256,323,24,7,568,84,16,226,6937
 Wits University AI	8272
+Wits University SADC Vice-Chancellors	17577
 Wits University School of Law. Founded	9889
 Wits University School of Statistics and Actuarial Science	5969
 Women University	4528,7984
@@ -2304,7 +2331,7 @@ Yale University Press	2518
 Yale University Press. Crum	11050
 Yalelo and Cavendish University	10510
 Yomi Arowosafe. Nigeria’s Universal Service Provision	2590
-York University	1246,258,3392,1649,6535,15
+York University	1246,258,3392,1649,6535,15,4501
 ZAR Universal Network	10457
 ZHSF’s Universal Health Insurance	11142
 ZICTA's Universal Access	13512
@@ -2317,7 +2344,7 @@ Zambia University College of Technology	3524
 Zambia University Teaching Hospital Virology Laboratory	13454
 Zambia University of Technology	13347
 Zamzam University	15233
-Zanzibar Universal Pension Scheme	11133,9
+Zanzibar Universal Pension Scheme	7763,3370,9
 Zayed University of AI	9929
 Zayed University of Artificial Intelligence	6411,3533
 Zhejiang University of Technology	9238

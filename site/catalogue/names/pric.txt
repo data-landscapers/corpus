@@ -39,6 +39,7 @@ Basic Prices Prices Adjusted	2775
 Benjamin Price	16916
 Best Price Offer	7368,7331
 Best Price Offers	7368
+Beyond Pricing Considerations	17695
 Bid Price	13185
 Bid Price Name of Bidder	13185
 Bid Prices	14766
@@ -282,6 +283,7 @@ Moderate Price-sensitive	11994
 Monthly International Crude Oil Prices	2775
 Mr. Christopher Price DFID	16853
 Multi-Year Price Determination	13054
+N COMMODITY REGIONS VOLUME HIGH PRICE	7763
 NAMIBIA PRODUCER PRICE INDEX BULLETIN-SECOND QUARTER	11152
 NCC Seeks Cost-Based Pricing Framework for Ducts	7110
 NORMAL CODES TARIFF PER TRANSACTION PRICING	16844
@@ -306,7 +308,7 @@ POST-PAID DATA PRICES	11211
 PPI Producer Price Index PSDS Public	14777
 PREPAID DATA PRICES	11211
 PRICAO	15671
-PRICE	11252,1143
+PRICE	7763,3489,1143
 PRICES	962,10249,1849
 PRICING METHOD	16844
 PRICING POLICY FOR THE PAYMENT	16844
@@ -329,6 +331,7 @@ Price Caps	16839
 Price Changes	2775
 Price Code	13385
 Price Code Gr	13385
+Price Comparator Portal	7763
 Price Comparison	14783
 Price Developments	13060,4044,153,60
 Price Developments Consumer	11131
@@ -511,6 +514,7 @@ Statistics South Africa. Producer Price Index	11258
 Strengthening Minigrid Pricing and Regulation Capacity	13810
 Subbase Price Code	13385
 TIME PRICE	16942
+TMX Volume and Prices TMX ONLINE COMMODITY	7763
 Target Completion Retail Price of Internet	15424
 Target Price	11857
 Target Price5	11857

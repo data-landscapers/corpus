@@ -4,7 +4,7 @@ ACCOMODATION UNIT	14773
 AI Delivery Unit	14674
 AI Infrastructure and Data Governance Unit	4528,7984
 AI Startup Unit	9030
-AI Unit	3556,1027,1203,971,487,996,2381,3719,226,186,34,4
+AI Unit	3556,1027,1203,971,487,996,2381,3719,226,186,34,4,2893
 AIDS UNIT	14773
 AIDS Unit	14742
 ALCOHOL AND TOBACCO CONTROL UNIT	14773
@@ -954,7 +954,7 @@ Sovereign AI Unit	11135
 Special Control Unit Against Money Laundering	11976
 Special Education Needs Unit	13016
 Special Gold Unit Fund	13420
-Special Investigating Unit	5147,386,2403,1429,529,500,885,707
+Special Investigating Unit	5147,386,2403,1429,529,500,885,707,5754
 Special Investigation Unit	9365
 Special Investigative Unit	5533
 Special Migrant Workers Unit	14742
@@ -976,6 +976,7 @@ Standards Development Unit	14736
 Standards and M&E Unit	12240
 State Addressing GIS Unit	11129
 State House Investors Protection Unit	6576
+State-Owned Enterprises Unit	17647
 States GPU Graphics Processing Unit GSM	15164
 Statistical System Coordination Unit	16863
 Statistics Unit Assistant Research Officer No	10980

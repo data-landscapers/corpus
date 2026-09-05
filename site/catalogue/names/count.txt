@@ -115,6 +115,7 @@ Appraisal Country Background	16614
 Arab Countries	2958
 Arab Member States Country Expert Name	2958
 Area and Country of Residence	2775
+Arilo Payam of Lafon County	17676
 Artificial Intelligence for Low Income Countries	11140
 Arts and Culture Arts and Culture and ICAO Country	11986
 Asian and Oceanic Countries	12383
@@ -248,7 +249,7 @@ COUNTING AND TABULATION OF RESULTS	12201
 COUNTING AND TABULATION OF RESULTS Counting	12201
 COUNTRIES	4883
 COUNTRIES IN SUPPORT OF CLEAN ENERGY	11572
-COUNTRY	573,655,9591,1044,677,16,1382,2555,416
+COUNTRY	573,655,9591,1044,677,16,1382,2555,416,628
 COUNTRY AND ENERGY SECTOR OVERVIEW	16966
 COUNTRY AND SECTOR OVERVIEW	12399,281
 COUNTRY AND STRATEGIC CONTEXT Country Strategy	13731
@@ -494,13 +495,14 @@ Counting Out	12201
 Counting President Bio Gains	8115
 Counting and Multidimensional Poverty Measurement	15244
 Countless	13963
-Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144
+Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144,160,17,89
 Countries Agree	14932
 Countries By Kennedy Komba	13468
 Countries Countries	6671
 Countries EDGI	10840
 Countries GSMA	10819
 Countries Initiative IMF International Monetary Fund	15244
+Countries Investing	17736
 Countries Missing Primary Text Algeria	7707
 Countries Project Definition Project Stage Project	10892
 Countries Rating Based	15713
@@ -516,7 +518,7 @@ Countries. Out	5508
 Countries. Washington	10997
 Countries’ Rating Based	15713
 Countrv. Postal	11180
-Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30
+Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,633,280,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30
 Country Access Rate	11136
 Country Analyses And Plans	899
 Country Analysis Brief	16964
@@ -573,7 +575,7 @@ Country Diagnostic for South Sudan	7644
 Country Diagnostic. World Bank	13314
 Country Diagnostics	15513,40
 Country Dialogues and Country Strategy Paper	7784
-Country Director	1228,686,2132,607,3721,418,1971,200,582,675,2236,120,848,49,7,121,96,739,560,445
+Country Director	1228,686,2132,607,3721,418,1971,200,582,675,2236,120,848,49,7,121,96,739,560,445,193
 Country Director Carlos Felipe Jaramillo	579
 Country Director Chon Gyong Shik	770
 Country Director Deputy Country Director	17001
@@ -614,6 +616,7 @@ Country Financial Accountability Assessment	15372
 Country Financing Parameters	15372
 Country Focus Report	8574
 Country Gender Data. Retrieved	16144
+Country Group	17695
 Country Growth	7655
 Country Head for Benin	3255
 Country Head for Zoho Nigeria	14199
@@ -1324,7 +1327,7 @@ Governor of Kisii County	6946
 Governor of Mombasa County	11504
 Grade Course Duration and Country	14835
 Grand Bassa Counties	16949,22,22
-Grand Bassa County	8101,1549,7297,23,1,40,88,15,25
+Grand Bassa County	8101,1549,7297,23,1,40,88,15,25,570
 Grand Bassa County Administration	17099
 Grand Bassa County. Key	16975
 Grand Bassa County. Scientific	17099,15
@@ -1344,6 +1347,7 @@ Green Country Label	14729
 Group Vice President Country Director Regional	16436
 Group of Countries Geographical Identifier Cote	16032
 Growth Total Count of Fraud	17362
+Guidance for Other Countries Considering Similar Offers	17695
 Guiding Principles for Country Implementation	16916
 Guinea-Bissau Country Economic Memorandum	11560
 Guinea-Bissau The Country Hydromet Diagnostics	11553
@@ -1548,6 +1552,7 @@ LLA Bong County Administrator Amelia D.C	17145
 LLDC Landlocked Developing Country ML Machine	13042
 LOW- AND MIDDLE-INCOME COUNTRIES	11004,960
 LTA. Country Code	16934
+Lafon County	17676
 Lamu County	10313
 Lamu County. Social Responsibility and Investment	6946
 Land Landlocked Developing Countries	10764
@@ -1806,6 +1811,7 @@ NEIGHBOURING COUNTRIES	11211,51
 NETWORK PERFORMANCE Countrywide	12358
 NIN Naira Value of Trades Counterparty Identity	4602
 NO. OF HEALTH CENTERS COUNTIES Counties	16935
+NOBODY COUNTS Approached	17585
 NRI Country NRI Environment Readiness Use	236
 NSDM Countrywide	14567
 NSDS STATUS OF COUNTRIES	13082

@@ -80,6 +80,7 @@ China Discuss University Cooperation	8610,233
 Civil Council Against All Forms of Discrimination	8811
 Clear and Consistent Digital Disclosures Uniform	13532
 Click Here Now To Discover	5574,215
+Climate-Related Financial Risk Management and Disclosure	7763
 Cocktail of Discrimination	10822
 Code and Disclaimer	17114
 Cofre Geral da Justiça Discurso de Sua Excia	10750
@@ -176,6 +177,7 @@ Designation of Sport Disciplines	14843
 Developing Countries. IMF Staff Discussion Note	10997
 Digital Economy. Discussions	17010
 Digital Identity. Use Case Discussion. Presented	10819
+Digital Policy Roadmaps. Discussions	17620
 DisCo	12062
 DisCo Energy Offtake Performance	12062
 DisCo Financed	12062
@@ -200,6 +202,7 @@ Disciplina	10760,17,602,4677
 Disciplina de Tecnologia	11555
 Disciplinary	5147,386,1844,3847,26,736,1301,677,796,732,1622
 Disciplinary Action	11218
+Disciplinary Code of Conduct	17676
 Disciplinary Committee	11986,1978
 Disciplinary Enquiries	11134
 Disciplinary Hearings	11218
@@ -219,7 +222,7 @@ Disciplined Forces	14742
 Disciplined Forces Service Commission	14742,6
 Disciplined Practice	11658
 Disciplines	14812,740
-Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91,220,62,641,309,268,569,81,74,57,171,75,593,55,171,1,57,563,201,275,105,120,7,194
+Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91,220,62,641,309,268,569,81,74,57,171,75,593,55,171,1,57,563,201,275,105,120,7,194,370
 Disclaimer ABOUT THE RESEARCH The Stanbic	5247
 Disclaimer APPENDICES Appendix	5247
 Disclaimer All	8376,3870
@@ -261,7 +264,7 @@ Disclosed Terms	12622,2256
 Disclosing	3,7365,3777,1087,1300,2069
 Disclosing Personal Data	15484
 Disclosing the Personal Data	15484
-Disclosure	3,8,15,561,196,429,121,655,721,17,1,388,599,68,79,26,789,568,174,282,1240,172,436,1555,2030,48,1,8,19,387,193,72,115,277,136,70,71,5,13,96,1,1,15,5,233,2,8,7,3,9,31,94,18,240,28,13,19,97,98,388,439,17,12,12,15,270,9,2,5,33,93,4,5,127,250,93,872,627,3,8,71,34,144
+Disclosure	3,8,15,561,196,429,121,655,721,17,1,388,599,68,79,26,789,568,174,282,1240,172,436,215,1340,2030,48,1,8,19,387,193,72,115,277,136,70,71,5,13,96,1,1,15,5,233,2,8,7,3,9,31,94,18,240,28,13,19,97,98,388,439,17,12,12,15,270,9,2,5,33,93,4,5,127,250,93,872,627,3,8,71,34,144
 Disclosure Authorized Public Disclosure Authorized	15731
 Disclosure Authorized Public Disclosure Authorized Document	15601
 Disclosure Authorized Public Disclosure Authorized Public	15731,282
@@ -353,15 +356,24 @@ Discover the WCO	13051
 Discover.151	13461
 Discover.183	13461
 Discover187	13461
+Discoverability	17539
 Discoveries	14422
 Discovering and Preserving Data	12090
-Discovery	1009,5423,66,432,75,50,2684,1492,3967,1870
+Discovery	1009,5423,66,432,75,50,2684,1492,3967,1870,631
 Discovery Alert	5247
-Discovery Bank	5533,58,1662,31
+Discovery Bank	5533,58,1662,31,10415
+Discovery Bank CEO Hylton Kallner	17699
 Discovery Engagements	16970
 Discovery Engine	6498
-Discovery Health	7167,7199
+Discovery Group	17699
+Discovery Group CEO Adrian Gore	17699
+Discovery Group. Discovery Group	17699
+Discovery Health	7167,7199,3333
+Discovery Insure	17699
+Discovery Invest	17699
+Discovery Life	17699
 Discovery Ltd and Others	961
+Discovery South Africa. The South African	17699
 Discovery and Descriptive Metadata Management	16947
 Discovery of Grounded Theory	5349
 Discovery of Grounded Theory. Strategies	5349
@@ -436,7 +448,7 @@ Discussion des Resultats	15907
 Discussion des Resultats L'analyse	15907
 Discussion of Key Findings	16971
 Discussion papers and Presentations	14932
-Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33,194,113,37,94,59,267,223,59,1,34,66,102,15,286,9,143,56,74,129,76,28,42,196,5,68,42,2,16,128,61,441,132,57,12,3,5,58,52,15,193,49,262,17,13,215,52,14,91,70,25,85,12,145,47,218,64,182,271,1,3,243
+Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33,194,113,37,94,59,267,223,59,1,34,66,102,15,286,9,143,56,74,129,76,28,42,196,5,68,42,2,16,128,61,441,132,57,12,3,5,58,52,15,193,49,262,17,13,215,52,14,91,70,25,85,12,145,47,218,64,182,271,1,3,243,36,26,12,2,86
 Discussão	15396,81,87
 Discussões	2816
 Discuter	13783,1887
@@ -515,6 +527,7 @@ ICPAR's IFRS Sustainability Disclosure Standards Rwandan	14997
 ICR00609 Public Disclosure Authorized Public Disclosure	16436
 ICT Ministers Discuss Data Centre Industry	16236
 ICTA Emerging Infrastructure Energy Source Disclosure	7548
+IFDC. Discussions	17613
 IFRS Sustainability Disclosure Standards Rwandan Adoption	14997
 IMF Staff Discussion Note	12948
 IMF Staff Discussion Note SDN	9739,1401
@@ -749,6 +762,7 @@ SERP and Discover	13461
 SH Action Plan Discrimination	1988
 SOCIAL INCLUSION AND PROTECTION AND DISCRIMINATION	16887
 SOURCES AND DISCLAIMER Under the Mission	16188
+SPLM Disciplinary Code of Conduct	17676
 STAKEHOLDER CONSULTATIONS AND INFORMATION DISCLOSURE	17114
 STAKEHOLDER ENGAGMENT AND PUBLIC DISCLOSURE	1988
 STATEMENTS AND FURTHER REQUIREMENTS Disclosure	3714

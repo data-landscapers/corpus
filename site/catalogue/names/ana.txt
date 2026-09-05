@@ -56,7 +56,7 @@ ANAFIC	16646,17,3,53,4,271
 ANAFIC Mr Sékou Mawa TOURE	16666
 ANAFIC. Un	16707
 ANAFOR	15542
-ANAGRASC	15676
+ANAGRASC	15676,1955
 ANAIM	16719
 ANAIP	113
 ANAIP Article	113
@@ -105,7 +105,7 @@ ANALYTICS LTD Data Controller INST-9946019CD55 NAIROBI	7167
 ANALYTICS LTD Data Processor INST-9946019CD55 NAIROBI	7167
 ANAM. L'introduction	15791
 ANAMEM	14662
-ANAMET	14401
+ANAMET	14401,3212
 ANAMEV	13791
 ANAMM	1808,626,6969
 ANAMSSA	13329
@@ -186,6 +186,7 @@ Ana Horigoshi Research Scientist	7590
 Ana Isabel Moreno Semedo	17411
 Ana Januário. Carlos Cavuquila	10752
 Ana Lina Teixeira Mascarenhas	11955
+Ana Mangana O Diário Económico	17570
 Ana Maria	10963,3613
 Ana Maria Carvalho	10763
 Ana Maria Munoz Boudet	10964
@@ -788,12 +789,14 @@ Diagnostic Analysed	14752
 Diarrhea Anaemia	12151
 Digital Analogue Proposed Frequency Band Proposed	736
 Digital Analysis and Regulation Platform	6342
+Digital Analytics and Monetisation	17714
 Digital Development Analyst	16942
 Digital Elements Analogue Elements	16885
 Digital Governance Analysis	1353
 Digital Health and Data Analytics Consultant Solicitation	12754
 Digital and Analogue Elements	16885
 Digitalisation Gap Analysis Assessment	10584
+Directeur des Analyses	17584
 Director Analista da Gartner	2816
 Director General of ANATS	5398
 Director Geral Analia Nunda Prata da Silva	10757
@@ -943,6 +946,7 @@ Geotechnical Analysis	11131
 Ghana A Xalam Analytics Country Report	3184
 Ghana-Centrafrique-Russie Anatomie-d-une-fuite	4127
 Gilliana Anacoura	7761
+Gilliana Anacoura The Commission of Inquiry	17678,43
 Global Lead for Tax Data Analytics	10335
 Goma Analyse	15670
 Google Ads and Google Analytics	3212,2216,578
@@ -1199,6 +1203,7 @@ Monetary Policy Forecasting and Analysis	11906
 Monitoring CDMAS Centralised Data Management Analytical	11224
 Monitoring and Impact Analysis	14839
 Monsieur Anatole Collinet MAKOSSO	15722
+Monsieur Victor ANANOUH	17584
 Mortality Data Analyst- RBC	15056
 Mouyondzi Anatole Collinet MAKOSSO Au	15558
 Mr. Aagon N. Yoko Analyst	17043,84
@@ -1485,7 +1490,7 @@ Situation Analysis and Alignment	17196
 Situation Analysis of AI Development	1814
 Situation Analysis of Startups	14897
 Situation Analysis.......14	13999
-Situational Analysis	4528,6660,1324,162,1,260,70,28,50,237,27,127,69,927,406,2135,353
+Situational Analysis	4528,6660,1324,162,1,260,70,28,50,237,27,127,69,927,406,2135,353,174
 Situational Analysis Lesotho	12674
 Situational Analysis Report	12598,389,4170
 Situational Analysis Zambia	13347
@@ -1510,7 +1515,7 @@ South Sudan National Budget Analysis Report	3583
 Staff F. Results Framework Analysis G	16614
 Staff IT Systems Analyst Computer Support	14835
 Stage Analytical	1243
-Stakeholder Analysis	12210,146,403,3037,1303
+Stakeholder Analysis	12210,146,403,3037,1303,439
 Stakeholder Analysis Background Stakeholder	12210
 Stakeholder Identification and Analysis	17114
 Stakeholders Analysis Effective	15845

@@ -143,7 +143,7 @@ Chilala	13477
 Chilamo Sinkala Social Safeguards Consultant	13392
 Chilanga	5522,8101
 Chilaule Angela da Silva Luis Rego Zauria	2989
-Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346,190,158,105,16,1,1,1,16,2,70,176,1,9,25,26,3,36,74,10,3,1,11,1,14,6,10,19,3,54,27,2,8,159,17,57,199,11,38,28,35,57,51,147,51,128,34,68,105,281,49,20,118,1,592,99,21,12,15,7,11,4,125,170,38,88,42,41,189,121,462,393,5,275,14,13,63,1,7,13,143,13,101,61,7,34
+Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346,190,158,105,16,1,1,1,16,2,70,176,1,9,25,26,3,36,74,10,3,1,11,1,14,6,10,19,3,54,27,2,8,159,17,57,199,11,38,28,35,57,51,147,51,128,34,68,105,281,49,20,118,1,592,99,21,12,15,7,11,4,125,170,38,88,42,41,189,121,462,393,5,275,14,13,63,1,7,13,143,13,101,61,7,34,411
 Child Act	3583,11669,352
 Child Allowance	14742,93
 Child Allowance of Rs	14742
@@ -406,7 +406,7 @@ Children. Improvement	11224
 Children. MoCDGEC	11133
 ChildrenFirst	13204
 Childrens	12977
-Children’s Act	11133,1416,766,1427,1,2131,77
+Children’s Act	11133,1416,766,1427,1,2131,77,790
 Children’s Act. PART VII	16887
 Children’s Amendment Act	16951
 Children’s Cancer Helpline	11350
@@ -847,6 +847,7 @@ One-Time Password OVC Orphans and Vulnerable Children	12663
 Online Child Exploitation	12984
 Online Child Protection Policy	11791
 Online Child Protection Policy Zimbabwe	5407,676
+Online Child Protection and Safety	17576
 Online Child Sexual Exploitation and Abuse	9843
 Online Child Sexual Exploitation and Abuse. UNICEF	7548
 Orphan Vulnerable Children Distribution of Social Assistance	12373

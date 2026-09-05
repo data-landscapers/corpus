@@ -300,6 +300,7 @@ Deed Number Stand Land Nemamwa	4896
 Deeds Registries Act and Alienation of Land Act	7278
 Definition Land	17140
 Demographics Education Employment Housing Land	12498
+Department of Geomatics and Land Management	17735
 Department of Land Administration	17055
 Department of Land Reform and Rural Development	2660,7016,1585,1607
 Department of Land Reform and Rural Development Physical	11261
@@ -324,6 +325,7 @@ Description Land	17140
 Desiree and Bruno Lanvin	15480
 Develop Liberia Land Information System URL	17055
 Development Language N	9124
+Devrient Christoph Lang Spokesman Corporate Communications	17536
 Dia Lanzamiento	758
 Digital Land Administration Platform	5733
 Digital Land Management and Identification System	12389
@@ -1261,7 +1263,7 @@ Langlotz	8603
 Langman	8960
 Lango Lippaye	16971
 Langseth	9129
-Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12,342,433,3,31,167,40,172,162,850,182,138,12,3,7,1,7,1,84,91,24,3,48,165,129,396,685,284,170,133,199
+Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12,342,433,3,31,167,40,172,162,850,182,138,12,3,7,1,7,1,84,91,24,3,48,165,129,396,685,284,170,133,199,218
 Language Academy	10451
 Language Amharic	14129
 Language Data Commons of Australia	7313
@@ -1351,7 +1353,7 @@ Large Landowning Class	15473
 Large Language Model	2871,780,877,1704,750,882,285,70,4293,4956
 Large Language Model MCTES	2816
 Large Language Model Meta AI	2816
-Large Language Models	2816,910,19,1770,717,47,1294,3497,1140,3503,499
+Large Language Models	2816,910,19,1770,717,47,1294,3497,1140,3503,499,1327
 Law Governing Contract and Language The Contract	13037
 Laws and Legislations of Land Administration	16916
 Le LaNSA	8303

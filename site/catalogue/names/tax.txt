@@ -229,6 +229,7 @@ Collected Tax	15492
 Collecting Taxes	17011
 Collecting Taxes Indicators	16949
 Collection and Recovery of Tax Division	12629
+Commissioner for Micro and Small Taxpayers	17547
 Commissioner for Micro and Small Taxpayers PUBLIC NOTICES	14591
 Commissioner of Domestic Taxes	5347
 Commissioner of Tax Gayathri Chetty	7163
@@ -469,7 +470,7 @@ Electronic Payment of Taxes	12389
 Electronic Rental Income Tax System	14515
 Electronic Tax Administration System	15148
 Electronic Tax Invoice	14454,72,7
-Electronic Tax Invoice Management System	4513,9831
+Electronic Tax Invoice Management System	4513,9831,3203
 Electronic Tax Invoicing System	4699
 Electronic Tax System	3735
 Employee Growth and Taxable Income Growth	14985
@@ -947,6 +948,8 @@ NTAA Nigeria Tax Administration Act	8590
 NamRA’s Tax Amnesty Programme. NamRA	12951
 Namibian Income Tax Number	12400
 National Citizenship and Tax Education Plan	10762
+National Development Plan. PAYING TAXES	17613,2
+National Development Tax	14151
 National Directorate for Taxes	16614
 National Directorate of Taxes	16614
 National Green Taxonomy	14744
@@ -1051,6 +1054,7 @@ Petroleum Profit Tax Act	11947
 Petroleum Profit Tax and Income Tax	11976
 Petroleum Profits Tax	11976
 Petroleum Profits Tax and Income Tax	11976
+Platinum Taxpayer Award	14151
 Points-Based Valuation System for Property Taxation	11133
 Policy-Brief--- Taxing-the-Digital-Economy-in-Kenya.pdf	14932
 Powers of Tax Tribunal	12629
@@ -1231,6 +1235,7 @@ Single Window TIN Taxpayer Identification Number	16631
 Single and Unique Taxpayer Identification	17011
 Sistema de Taxas	574
 Small Taxpayers PUBLIC NOTICES	14526
+Smart Goods and Services Tax	17607
 Société Nationale des Eaux du Bénin SONEB Taxe	15583
 Solidarity Income Tax	14717
 Somalia Income Tax Manual	15014
@@ -1363,6 +1368,7 @@ TAXPAYER’S PROFILE AND TAX STATUS	11240
 TAXPAYES TO FACE COURT OVER FAILURE	13603
 TBD Tax-to-GDP	789
 TIMS Tax Payer Portal	14932
+TIMS. Maintenance of Tax Compliance	17547
 TIN Tax Identification Number NPSS National	14897
 TITRE IV TAXE DE FORMATION PROFESSIONNELLE	15534
 TPIN File Returns Pay Taxes Online	12454
@@ -1537,7 +1543,7 @@ Tax ID. CHAPTER	11976
 Tax ID. Nigeria Tax Administration Act	11976
 Tax IDs	9956,2020
 Tax Identification	14897
-Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870
+Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664
 Tax Identification Numbers	9570,3430,1484,664
 Tax Incentive Returns	11976
 Tax Incentives	14024

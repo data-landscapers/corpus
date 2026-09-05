@@ -36,7 +36,7 @@ Africa Development Forum	11149
 Africa Development Forum Series The Africa	11149
 Africa Diaspora Forum	8458
 Africa Energy Forum	11137
-Africa Food Systems Forum	17139
+Africa Food Systems Forum	17139,459
 Africa Gender Statistics Forum	8427
 Africa Gender and Child Statistics Forum	8427
 Africa Innovation and Technology Forum	5715
@@ -61,7 +61,7 @@ African Internet Freedom Forum	10642
 African Internet Governance Forum	10707
 African News Innovation Forum	13461
 African Peer Review Forum of Heads of State	13673
-African Peering and Interconnection Forum	3470,6774,68,2808,1892
+African Peering and Interconnection Forum	3470,6774,68,2808,1892,2551
 African Sovereign Investors Forum	6580
 African Tax Administration Forum	573,388,1228,973,4076,454,1,1,770,698,3789,1486,495,2079
 African Tax Administration Forum Base Erosion	14932
@@ -240,9 +240,9 @@ Fintech Engagement Forum	4848,80
 Fintech Policy Forum	4848
 First Arab Regional Forum	8645
 First Global Forum	17105
-First National Forum	17101
+First National Forum	17101,543
 First Sudanese-Arab Smart Transport Forum	8133
-Forum	11,172,245,159,204,170,282,571,452,17,31,28,11,31,66,106,79,134,39,4,74,29,35,295,151,6,42,107,37,11,444,167,123,235,89,66,16,189,29,129,19,440,124,161,14,115,32,12,86,101,315,47,108,83,1,46,42,118,60,29,10,73,13,7,15,32,8,136,26,290,21,173,33,174,187,44,146,157,48,123,11,36,89,151,33,212,55,77,293,109,434,99,87,90,41,126,121,39,22,126,5,17,23,48,82,2,18,27,57,33,300,20,60,21,13,1,81,142,123,473,749,8,133,18,2,63,43,83,15,101,116,16,19,1,9,14,197,106,56,18,109,268,46,77,20,184,215,27,208,1,5,113,78,6,36,12,18,6,15,94,79,127,36,57,2,10,124,44,45,64,17,83,43,38,103,17,124,57,2,20,9,99,44,174,49
+Forum	11,172,245,159,204,170,282,571,452,17,31,28,11,31,66,106,79,134,39,4,74,29,35,295,151,6,42,107,37,11,444,167,123,235,89,66,16,189,29,129,19,440,124,161,14,115,32,12,86,101,315,47,108,83,1,46,42,118,60,29,10,73,13,7,15,32,8,136,26,290,21,173,33,174,187,44,146,157,48,123,11,36,89,151,33,212,55,77,293,109,434,99,87,90,41,126,121,39,22,126,5,17,23,48,82,2,18,27,57,33,300,20,60,21,13,1,81,142,123,473,749,8,133,18,2,63,43,83,15,101,116,16,19,1,9,14,197,106,56,18,109,268,46,77,20,184,215,27,208,1,5,113,78,6,36,12,18,6,15,94,79,127,36,57,2,10,124,44,45,64,17,83,43,38,103,17,124,57,2,20,9,99,44,174,49,296,23
 Forum Africain	2855,547,4441
 Forum Africain des Régulateurs des Services Publics	10975
 Forum Arabe des Régulateurs	10975
@@ -341,6 +341,7 @@ Good Governance Forum	3632
 Governance Forum	961
 Governors Forum Mr. Stanley Jegede Executive	11857
 Governors’ Forum	11129
+GreenShift Forum	17742
 Harare Forum for Africa	11302
 Health Development Partners Forum	12729
 Healthcare Providers CEO Forum	10696
@@ -355,7 +356,7 @@ Hosts Africa Innovation and Technology Forum	5715
 IBSA Dialogue Forum	11579
 ICT Directors Forum Teaching	15164
 ICT Forum	6628,5339
-ICT Policy Forum	16802
+ICT Policy Forum	16802,851,81
 IDEA Annual Digital Forum	8294
 IDEA Annual Digital Forum Outcome Report	7963
 II. The National Youth Council Forum	13053
@@ -459,6 +460,7 @@ Namibia-UAE Business Forum	5086
 National AI Forum	3366
 National AI Multi-Stakeholder Forum	4126
 National Community Radio Forum	13461
+National Cyber Security Forum	17644
 National Cybersecurity Forum	7538,692,343,127
 National DNS Forum	6738,4256
 National Data Producers Forum	15980
@@ -516,6 +518,7 @@ Partnerships AI Forums and Science	12356
 Pix Forum	5700,5306,1
 Pix Forum. Importantly	11007
 Police Forum CSC Community Service Centre	11188
+Policy Leaders Forum	17620
 Policy Makers Forum	17240
 Policymakers' Forum	13791
 Premier Forum	14696

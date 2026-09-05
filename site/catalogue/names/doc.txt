@@ -499,7 +499,7 @@ Doctype	1264,603,606,416,567,148,1049,1886,4229,649,143,345,19,1187,1442,23,562,
 Docum Nombre	3396
 Docum Specific Procurement Bidding Documents	17180,39
 Docume	17127
-Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314,44,6,12,22,12,29,12,62,143,102,3,21,4,10,16,136,47,42,52,50,21,279,9,4,4,35,2,163,225,12,13,14,3,28,7,29,12,9,70,12,199,40,8,10,3,29,7,3,17,7,23,34,35,53,276,7,29,74,2,18,19,28,51,8,33,11,27,4,80,5,38,51,53,53,7,76,47,64,1,100,166,60,125,17,9,6,2,7,81,121,15,5,9,52,175,2,13,2,23,10,31,32,111,1,43,78,89
+Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314,44,6,12,22,12,29,12,62,143,102,3,21,4,10,16,136,47,42,52,50,21,279,9,4,4,35,2,163,225,12,13,14,3,28,7,29,12,9,70,12,199,40,8,10,3,29,7,3,17,7,23,34,35,53,276,7,29,74,2,18,19,28,51,8,33,11,27,4,80,5,38,51,53,53,7,76,47,64,1,100,166,60,125,17,9,6,2,7,81,121,15,5,9,52,175,2,13,2,23,10,31,32,111,1,43,78,89,161
 Document ALL	13310
 Document Activity	16863
 Document Agenda Regional Strategic Meeting	17324
@@ -713,7 +713,7 @@ Documented Property Rights	17127
 Documented Security Controls	15149
 Documenter	747,14991,274
 Documenting	4863,2288,1562,3643,252,4541
-Documento	2431,385,7671,873,23,21,15,22,3,4,3,5,2,3,2,4,88,27,316,3,120,829,11,1354,1165,11,129,34,401,67,5,29,265,538,39,203,2
+Documento	2431,385,7671,873,23,21,15,22,3,4,3,5,2,3,2,4,88,27,316,3,120,829,11,1354,1165,11,129,34,401,67,5,29,265,538,39,203,2,501
 Documento Administrativo Elec	16855
 Documento Alfandegário	12018
 Documento Atraso	11532
@@ -1141,6 +1141,7 @@ Operational Documentation	5665
 Operations Manual PAD Project Appraisal Document	15663
 Original Document	14784
 Outcome Document and Chair’s Summary. Aug	5700
+Outcome Document. A Presidential and Business Leaders	17582
 Ownership Documents	2775
 PAD Project Appraisal Document PAP Project	16926
 PAD Project Appraisal Document PCN Project	17114
@@ -1388,6 +1389,7 @@ Sistema Nacional de Gestão Documental	2434
 Sistema de Emissão de Documentos	2688
 Sistema de Validação Electrónica de Documentos	11461
 Socialist Real Estate Registration and Documentation	16916
+Society of Medical Doctors	17569
 Solicitation Documents	14927
 Somali National Identification Document	15223
 South Africa's DocFox and MNDR	7015
@@ -1407,6 +1409,7 @@ Standardization. Documentation	16900
 Standards Department Document Classification	12360
 Standards Document Distribution	13308
 Standards and Creation of Compliance Department Documents	12360
+State Ownership Policy Document	17647
 Strategic Policy Documents and Reports	14745
 Strategy Document	10965
 Structure of PBB Documents	15790
@@ -1470,6 +1473,7 @@ UN Doc CEDAW	13040
 UN Doc CRC	13040
 UN Doc. CAT	13040
 UN General Assembly. Document	1237
+UNSD Document URL	17535
 UNV VNR WOBIPC Country Programme Document	16973
 UX Documentation	15936
 Un Documental	16898

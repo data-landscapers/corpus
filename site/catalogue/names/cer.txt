@@ -76,6 +76,7 @@ Application for Certificate	12342
 Application for Child's Current Birth Certificate	6783
 Application for Good Standing Certificate Enterprise Provide	12483
 Apply for Tax Compliance Certificate Import	12454
+Arabica Certified Coffee	7763
 Arc Flash Certification	15075
 Assessment and Certification Recognition of Prior Learning	17226
 Assigned Names and Numbers ICPAK Institute of Certified	6946
@@ -440,9 +441,9 @@ Certain Effects	7198
 Certain Financial Forecasts	7198
 Certain Residents of Namibia	12984
 Certain Responsible Parties	11255
-Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37
+Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157
 Certainly	11665,1796,16,818,2862
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893,16
 Certains Camerounais	3808
 Certains EMF	11944
 Certains SF	14598
@@ -525,7 +526,7 @@ Certificados de Título de Terra Formato	11898
 Certificados de Vida	16056
 Certificar	11376
 Certificar-se	15445
-Certificat	1706,1339,407,968,1111,686,4,1567,949,2139,2499,344,136,633,1,1,47,85,730,10,8,6,65,143,59,100,14,179,63,149,1,54,273,159,1,809,40
+Certificat	1706,1339,407,968,1111,686,4,1567,949,2139,2499,344,136,633,1,1,47,85,730,10,8,6,65,143,59,100,14,179,63,149,1,54,273,159,1,809,40,204
 Certificat Foncier	13375,1069
 Certificat Foncier Article	14444
 Certificat Foncier Figure	13375
@@ -694,7 +695,7 @@ Certifications Confirm	13185
 Certifications First	15484
 Certifications Internationales	6163
 Certifications Issued	4528,7984
-Certificats	5899,4977,2430,54,15,125,1037,1462,1449
+Certificats	5899,4977,2430,54,15,125,1037,1462,1449,241
 Certificats Annuels	15999
 Certificats Fonciers	13375
 Certificats Internationaux de Transhumance Nombre	3396
@@ -708,7 +709,7 @@ Certificação REMPE	12021
 Certificações	2816,8625,7,8,4020
 Certificot	15429
 Certificots	15429
-Certified	736,2978,220,5937,536,567,266,635,166,126,86,89,7,10,6,9,168,151,338,6,212,36,1,25,4,730,1036,37,281,263,1222
+Certified	736,2978,220,3829,2108,536,567,266,635,166,126,86,89,7,10,6,9,168,151,338,6,212,36,1,25,4,730,1036,37,281,263,1222
 Certified AI	14102
 Certified Accountants AEs Automated Check Processing	17235
 Certified Cloud Security Professional	15662
@@ -794,6 +795,7 @@ Citizenship Certificate	12337
 Citizenship Certificate and Old Namibian ID	12350
 Civil Registration Certificates	14889
 Civil Registry Certificate	14854
+Clean Certified	7763
 Climate Facility CE Citizen Engagement CERMI	15983
 Cloud Certification	16924
 CoO Electronic Certificate of Origin EU European	12951
@@ -1011,7 +1013,7 @@ GIEWS Country Cereal Balance Sheet	16464,708
 GLASS AND CERAMICS INDUSTRIES	16900
 GOPIE CERTIFIEE COMPORME ACSERTIFIED TRUE CO	15999
 GRM. A CERC	15518
-GSMA Mobile Money Certification	3463
+GSMA Mobile Money Certification	3463,10688
 Gambia Basic Education Certificate Examination	16852
 Gambian Birth Certificate	12085
 Gastos Ejercicios Cerrados	4209
@@ -1034,6 +1036,7 @@ Grand-Bassam. Certains	9054
 Groundbreaking Ceremony Held For Construction of Statistics	9322
 Guideline. Software Certification Renewal Software	5665
 Guidelines for Bodies Providing Halal Certification	16900
+Guinée. Certaines	17560
 HERZEGOVINA ASYCUDAWorld Launch Ceremony Complying	16631
 HUB COHORT GRADUATION CEREMONY Maseru	12694
 Halal Accreditation Body Accrediting Halal Certification	16900
@@ -1067,6 +1070,7 @@ III.3.2 Certificats	13306
 INDUSTRIA Certificado de Comercio Certificado de Comercio A3	4209
 INSD. Certaines	10874
 INSPECCION ANUAL INDUSTRIA Certificado de Actualización PE	4209
+INTIC's Digital Certification Systems Security	17603
 INTIC. Certified	12161
 IPM Certified	14818
 IPP Cerim	12399
@@ -1277,6 +1281,7 @@ Nomination du PDF du Certificat Foncier	13375
 Non-Citizen Birth Certificates	12496
 Non-Marriage Certificate Document Authentication	14137
 Number of Certificate of Naturalisation	12410
+Number of Certified Financial Educators	7763
 Number of Issued Certificates	12256
 O Certificado	10750,1,1560
 O Certificado de Avisadores Luminosos	15307
@@ -1449,6 +1454,7 @@ Risks of Falling Behind Certainly	7596
 Roaming Cero	3963,13426
 Roaming Cero CEMAC	17087
 Robert Kahn and Vinton Cerf	1036
+Robusta Certified	7763
 Rollout of Second Level Land Certification	13998
 Root Certificate Authority	11867
 Root Certification Authority	8440,1440,2985,1388,129
@@ -1502,6 +1508,7 @@ Security Emerging C- Certified	7548
 Security of Data Centres Certifications	6432
 Seed Certification and Tracking System	14002
 Seed Control and Certification Institute	13403
+Segurança de Sistemas de Certificação Digital	17570
 Sergent MAVOUNGOU Cerval. CABINET PRIVÉ	16381
 SeyID and CertExpress	1882
 Shortages of Birth Certificates and ID Papers	12514

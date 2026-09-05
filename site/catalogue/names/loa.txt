@@ -25,6 +25,7 @@ BU Chinese Loans	1089,60
 Balance of Loans Advanced	17236
 Bank Loan and Guarantee Agreements	11863
 Bank Nonperforming Loans	10718
+Banks Dec-23 Dec-24 Dec-25 Loan	7763
 Beneficiaries and Amount of Loan Scholarships	2775
 Beneficiaries and Amount of Loans Awarded	2775
 Bid Evaluation Report Loan	17180,39
@@ -53,12 +54,12 @@ Clients Additional Financing Loan Closing Date	11924
 Cognitive Load Theory	10940
 Collaborative Work of Loan Payment	226
 Combined Evaluation Loan	17180,39
-Commercial Loan	160,2,61,79,1,13,1,103,1,57,59,14,2,181,30,89,121,13,783,468,2214,10,5,1073,700,204,280,632,1707,2312,1762,550,1690,939,469
+Commercial Loan	160,2,61,79,1,13,1,103,1,57,59,14,2,181,30,89,121,13,783,468,2214,10,5,1073,700,204,280,632,1707,2312,1762,550,1690,610,329,469
 Commissioner for Refugees VSLA Village Savings and Loan	10841
 Competitive Bidding IL Investment Loan ISM	17441
 Components Results Disbursement Estimates Loan Closing	15731
 Components Results Loan Cancellations Reallocations	11924
-Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2604,220,114,122,462
+Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2156,448,220,114,122,462
 Concessional Loan Agreement	15399
 Concessional Loan Department The Export-Import	15399
 Concessional Loan Framework Agreement of Rwanda Smart	791
@@ -116,6 +117,7 @@ Feb-2019 Portal Additional Financing Loan Closing	11924
 Federal Home Loan Mortgage Corporation	10
 Fees Loan Category Loan Amount Legally	14206
 FinServ Loans Management System	11134
+Financial Inclusion and Non-Performing Loans	7763
 Financing Agreement for IBRD Loan	15511
 Financing Loan Closing Date Extension Financial	11924
 First AFD Sovereign Digital Loan	1043
@@ -307,7 +309,7 @@ Loandjili Pointe-Noire	16274,182
 Loandjili. Article	16274,182
 Loango	15379,313,52,36,68
 Loango. Date	15692
-Loans	2775,808,131,1258,1142,4732,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204,366,476,1397,68,192,1,205
+Loans	2775,808,131,1258,1142,1649,3083,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204,366,476,1397,68,192,1,205
 Loans Access	17043
 Loans Advanced	17236
 Loans Assets Deposits Loans	11960
@@ -372,7 +374,7 @@ Net Loans and Facilities	17236
 Net Loans and Overdrafts	17235
 Nigeria Education Loan Fund	2536
 Non- Performing Loans	17235
-Non-Performing Loans	11131,338,1487,2067,2213
+Non-Performing Loans	11131,338,1487,2067,2213,332
 Non-performing Loans	11134,6101,1,21
 Non-performing Loans Net of Provisions	17257
 Nonperforming Loans	1746,15757

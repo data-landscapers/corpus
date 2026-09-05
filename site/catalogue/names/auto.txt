@@ -3,6 +3,7 @@ A21 Principe Saudi Arabia Automated	10714
 A2Z AUTOGLASS LIMITED Data Controller INST-444100E41C1	7167
 ABBREVIATIONS AGO Automotive Gas Oil AI	718
 ABBREVIATIONS AND ACRONYMS ADF Automatic Document	34
+ABBREVIATIONS ATM Automated Teller Machine BOT	7763
 ABIS Automated Biometric Identification System AfCFTA	13080
 ABIS Automatic Biometric Identification System AfDB	15518
 ABREVIATIONS AND ACRONYMS AEOI Automatic Exchange	17011
@@ -192,7 +193,7 @@ Automate EMIS	13310
 Automate GAC	17364
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390
 Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
@@ -324,7 +325,7 @@ Automating Data Capture KINGDOM	16631
 Automating Data Capture The Eswatini Revenue	16631
 Automating Inequality	11156
 Automating for End-to-End Claims Processing Whitepaper	9237
-Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603,740,60,493,185,126,56,60,697,29,380,430
+Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603,740,60,493,185,126,56,60,697,29,380,430,98
 Automation Framework Implement	11952
 Automation Human-on-the-loop	10726
 Automation NV of Belgium	3561
@@ -650,7 +651,7 @@ Autorité de Régulation Multisectorielle de Djibouti	4402,9451
 Autorité de Régulation Postes	16615
 Autorité de Régulation de Communication Electronique	1935,76,2005
 Autorité de Régulation des CCDB Marchés Publics	11905
-Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357,5620,103,21,59,414,29,28,155,218,42
+Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357,5620,103,21,59,414,29,28,155,218,42,1129
 Autorité de Régulation des Communications Electroniques	37,961,5243,4581,245,513,3835,59,38,142,673
 Autorité de Régulation des Communications Eléctroniques	969
 Autorité de Régulation des Jeux de Hasard	16323
@@ -1220,6 +1221,7 @@ Rivera Golf. Autour	7214
 Roadmap for Negotiated Autonomy	5141
 Robotic Process Automation	7334,1903
 Robotics and Automation Laboratory	9225
+Rockwell Automation	17624
 Romaric ENKORO AUTORITE DE REGULATION	16381
 République du Congo DES PEUPLES AUTOCHTONES	15439
 Réseau Africain des Autorités de Protection des Données	3356

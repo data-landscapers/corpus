@@ -180,7 +180,7 @@ Clinical Sciences	1154
 Co-Production of Science and Social Order	8380
 Cogent Social Sciences	1248,7423,6452
 College of Business and Social Science	14126
-College of Computing and Information Sciences	5413
+College of Computing and Information Sciences	5413,12322
 College of Economic and Management Sciences	7278
 College of Economic and Management Sciences CRERC	7278
 College of Health Sciences	12246
@@ -189,6 +189,7 @@ College of Human Sciences	8021
 College of Human Sciences Research Ethics Review	8021
 College of Marine Science	13978
 College of Marine Science and Technology CRA Criteria	13960
+College of Natural Sciences	17735
 College of Science	2958,11014
 College of Science and Technology	431,287,3133,11313
 Collège des Sciences	8891
@@ -302,6 +303,7 @@ Department Bachelor of Computer Science Bachelor of Software	12407
 Department Master of Science	12407
 Department for Science	3654,7481
 Department of Atmospheric Science	15715
+Department of Community Health and Behavioral Sciences	17735
 Department of Computer Science	766,4647,3191,1779,953,919,106,660,1332
 Department of Computer Science Home Programmes BSc	12361
 Department of Computer Science and Information Technology	10323
@@ -332,6 +334,7 @@ Diagnostic Study of Higher Education and Scientific Research	11552
 Digital Economy NACOSTI National Commission for Science	7548
 Digital Health Data Science	10060
 Digital Journal of Computer Science and Technology	9128
+Digital Sciences and Artificial Intelligence	17591
 Digital and Science	1465
 Digital and Science Policy	13170
 Director General of Higher Education and Scientific Research	13816
@@ -359,6 +362,7 @@ Education and Scientific Research	17458
 Education and Scientific Research Ministry of Public Health	14576
 Education and Scientific Research MoHP Ministry of Health	15604
 Education and Scientific Research PESTEL Political	11552
+Egypt-Japan University of Science and Technology	17735
 Electrical Engineering and Computer Sciences	8529
 Electrical Sciences and Technology	13952
 Electronic Journals and Scientific Databases In Ministry	12325
@@ -395,6 +399,7 @@ FACULTE DE LETTRES ET DES SCIENCES	15674
 FEMALE STUDENTS AT SCHOOL OF SCIENCE	12358
 FORENSIC SCIENCE SERVICES	12984
 Faculties of Computing and Information Sciences	16046
+Faculty of Administrative and Financial Sciences	17648
 Faculty of Business and Economic Sciences	13401
 Faculty of Computational Science and Informatics	10384
 Faculty of Computational Sciences	6936
@@ -489,7 +494,7 @@ Humanit Soc Sci Commun	16325
 Humanities Social Scien1c5e	1154
 Humanities and Social Science Research Ethics Committee	8022
 Humanities and Social Sciences	1599,10726
-Humanities and Social Sciences Communications	9128,2012,16
+Humanities and Social Sciences Communications	7763,1365,2012,16
 Hydrological Sciences Journal	16135
 IASP International Association of Science Parks	12786
 IASP International Association of Science Parks ICAO	2775
@@ -636,7 +641,7 @@ Malawi College of Health Sciences	12253
 Malawi University of Business and Applied Sciences	401,11839,840,15,17,10
 Malawi University of Business and Applied Sciences MUST	12241,839,15
 Malawi University of Science	10227
-Malawi University of Science and Technology	2816,1742,1293,1563,4764,62,840,32,10,1280,913
+Malawi University of Science and Technology	2816,1742,1293,1563,4764,62,840,32,10,1280,913,2396
 Malawi University of Science and Technology MZUNI Mzuzu	12241,839,15
 Malawi University of Science and Technology NSW	13053
 Malawi University of Science and Technology.59	14674
@@ -687,6 +692,7 @@ Military Science	11131,3
 Minerals Technology and Space Science	1154
 Minister for Science	5413
 Minister of Higher Education Research Science	17423
+Minister of Higher Education and Scientific Research	17548
 Minister of National Education and Scientific Research	13816
 Minister of Science	5249,4185,1455,164,73,155
 Minister of Sciences and Culture	14865
@@ -716,7 +722,7 @@ Ministry of Science and Technology and Higher Education	12786
 Ministry of Sciences	12786
 Ministry of Sciences and Technology	14853
 Ministry of Sciences and Technology. XII. BUILDING	14853
-Ministry of Technology and Science	1965,2601,651,984,1060,171,347,99,85,1119,619,514,1914,227,97,891,1,1,1,83,49,42,15,71,56,695
+Ministry of Technology and Science	1965,2601,651,984,1060,171,347,99,85,1119,619,514,1914,227,97,891,1,1,1,83,49,42,15,71,56,695,3263
 Ministry of Technology and Science Brilliant Habeenzu	9392
 Ministry of Technology and Science M&E	12356
 Ministry of Technology and Science MoFNP Ministry of Finance	13345
@@ -779,7 +785,7 @@ National Institute of Science	4353
 National Integrated Research and Science Program	17157
 National Open Science	5246
 National Open Science Policy	7498
-National Science	9525,2100,1492
+National Science	9525,2100,1492,4538
 National Science and Technology Advisory Board	13952
 National Science and Technology Commission	14123
 National Science and Technology Council	1554,12398
@@ -923,7 +929,7 @@ Rise Science	8764
 Rocket-Powered Data Science	1243
 Royal Science	12361,83,527
 Royal Science Technology Park	12348,13,589,20,7
-Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214,763,3,11,19,459,18,4,22,5,50,79,68,68
+Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214,763,3,11,19,459,18,4,22,5,50,79,68,68,4356
 Royal Science and Technology Park National Data	12944
 Royal Science and Technology Park and UNDP Eswatini	4866
 Royal Science and Technology Park-Business Incubator	12401
@@ -1014,7 +1020,7 @@ SciPap	7886
 SciPy. Stats	17157
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69
 Science Academy	4353
 Science Advances	15342,1121
 Science And Technology	899
@@ -1074,7 +1080,7 @@ Science and Research’s Mission	14747
 Science and Resources	11135
 Science and Scientific Researchers	14073,1895
 Science and Social Science	16942
-Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33,163,12,16,38,41,120,20,723,334,69,54,333,33,44,320,224,11,1478,35,40,40,6,145,78,134,17,81
+Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33,163,12,16,38,41,120,20,723,334,69,54,333,33,44,320,224,11,1478,35,40,40,6,145,78,134,17,81,118,25,20,64
 Science and Technology Accelerator-Systems	9697
 Science and Technology Act	5036
 Science and Technology Bindura Nickel Corporation Civil	1554
@@ -1095,7 +1101,9 @@ Science and Technology Education Directorate	16852
 Science and Technology Education Institutions	13952
 Science and Technology Government Paper	12529
 Science and Technology In Phase II	899
+Science and Technology MSMEs Micro	7763
 Science and Technology Minister Prof Adolf Mkenda	10196
+Science and Technology Minister Zanetor Agyeman-Rawlings	17546
 Science and Technology MoHSW Ministry of Health and Social	16852
 Science and Technology MoPS Ministry of Public	16927
 Science and Technology National Development Strategy	1554
@@ -1128,7 +1136,7 @@ ScienceBlog	5224,28
 ScienceDirect	7759,413,13,57,363,627,5,5197
 ScienceDirect and Wiley	8605
 ScienceandResearch	14747
-Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729,742,966,41,310,1679,122,145,37,9,475,35,266,110,831
+Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729,742,966,41,310,1679,122,145,37,9,475,35,266,110,831,147
 Sciences Agronomiques	15529
 Sciences Biomédicales	16195
 Sciences CBE College of Business and Economics COMSAT	13960
@@ -1360,6 +1368,7 @@ Universal Journal of Computer Sciences and Communications	9129
 University of Applied Science	17226,197
 University of Applied Science Engineering and Technology	16973
 University of Cambridge’s Centre for Science and Policy	1246
+University of Eswatini Computer Science Lecturer Lucky	17592
 University of Health Sciences	15100
 University of Health and Allied Sciences	9420,10,106
 University of Manchester Institute of Science and Technology	6946
@@ -1371,6 +1380,7 @@ University of Rwanda College of Science and Technology	15019
 University of Rwanda's College of Science and Technology	3697
 University of Rwanda's School of Science and Technology	12358
 University of Science	16915
+University of Science and Technology	17591,50
 University of Science and Technology Houari Boumediene	15679
 University of Science and Technology OMS Outage Management	12399
 University of Science and Technology of Algiers	15679

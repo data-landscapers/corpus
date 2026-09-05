@@ -96,7 +96,7 @@ Annual Program of Work	13392
 Annual Work Plan	2989,1411,7841,474,365,15,2035,1840,15
 Annual Work Plan PIU Management and Budget	2989
 Annual Work Plan Review	14546
-Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40,1265,10,13
+Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40,1265,10,13,666
 Annual Work Plan and Budget CAGD Comptroller	16949
 Annual Work Plans	10963,2042,984,3127
 Annual Work Plans and Budgets	3562,7402,3948,460,1282,204,38,26,14
@@ -245,6 +245,7 @@ Clinical Social Worker Year U.S. Government	4153
 Closing. Work Package	8546
 Cloud Security Working Group Cloud Architecture	16924
 Cloud Working Groups. Principal Government Cloud	16924
+Cloud Workspace	14151
 Co Production Workshop	13201
 Co-Creation Workshops	17196
 Co-Creation Workshops and Validation	17196
@@ -403,6 +404,7 @@ Digital Rights Judges Workshop	10211
 Digital Rights and Literacy Workshops	8311
 Digital Services Taxes Work	14932
 Digital Skills Program Design Workshop and Interactive	17070
+Digital Skills Workshop Series	17592
 Digital Trade Regulators' Working Group	9035
 Digital Transformation Working Group	17070
 Digital Transformation Working Group Nicolas M	17070
@@ -630,6 +632,7 @@ HOUSEHOLD MEMBER WORK TO RAISE LIVESTOCK	17043
 HPC Workshops	9475
 Handicraft and Printing Workers	16266
 Hands-On Workshops	12675
+Harmonisation Workshop	17627
 Health AI Governance Workshop	9784
 Health Extension Workers	1219,11027,9,1868
 Health Financing Technical Working Group	13166,3805
@@ -676,6 +679,7 @@ ICTD Working Paper	1589,10573,786
 ID Working Group	10765
 IDT4M Annual Work Plan	12241
 IGAD Convenes Regional Validation Workshop	14079
+IGAD Executive Secretary Workneh Gebeyehu	17696
 IGAD-EAC-World Bank Joint Workshop	3238
 IGAD-RAD Expert Technical Working Group and Steering	14434
 IIPP Working Paper Series	5700
@@ -840,6 +844,7 @@ MV Stringing Works	16978
 MWEITI Annual Work Plan	12932
 Macassar Wastewater Treatment Works Water	11248
 Machinery and Related Trades Workers Numerical and Material	16266
+Macroeconomic Data and Assumptions Validation Workshop	17595
 Macroeconomic Technical Working Group	17317
 Major Works13	15513
 Make It Work. Pretoria	6832
@@ -1301,6 +1306,7 @@ Smart Zambia Institute. Working Together	13450
 Social Protection Sector Working Group	15138
 Social Work	10826,1029,5259
 Social Work Activities	2775
+Social Work Integrated Management	17741
 Social Work and MSC	14736
 Social Work. I. Promotions	12977
 Social Worker	11180,675,1122
@@ -1612,7 +1618,7 @@ Worker Livelihoods	226
 Worker OHS	17114
 Worker Programs	12255
 Worker Tvpe	4301
-Workers	226,1762,1803,469,268,809,1611,154,990,799,2089,1273,259,1436,618,431,88,326,193,662,577,43,114,114
+Workers	226,1762,1803,469,268,809,1611,154,990,799,2089,1273,259,1436,618,431,88,326,193,662,577,43,114,114,606
 Workers Baseline Actual	17000
 Workers Compensation Fund Control Board	1988
 Workers Compensation Services	13060
@@ -1667,7 +1673,7 @@ Workforce and Labor Law Adaptation	12675
 Workforce-training	5773
 Workforces and Skills	16924
 Workineh Diribsa	14102
-Working	40,604,74,243,402,217,287,12,61,1285,370,300,232,721,434,45,186,277,546,134,72,23,269,346,140,411,145,553,20,156,54,5,1,153,284,19,364,451,124,804,1,99,6,172,7,66,6,75,60,185,319,76,18,46,227,14,28,1,109,66,45,3,111,71,257,4,35,51,58,15,28,34,153,10,75,23,114,43,1,39,46,20,71,30,343,581,40,6,105,177,157,53,92,88,54,75,172,1116,2,10,10,9,52,49,44,84,56,100,148,32,1
+Working	40,604,74,243,402,217,287,12,61,1285,370,300,232,721,434,45,186,277,546,134,72,23,269,346,140,411,145,553,20,156,54,5,1,153,284,19,364,451,124,804,1,99,6,172,7,66,6,75,60,185,319,76,18,46,227,14,28,1,109,66,45,3,111,71,257,4,35,51,58,15,28,34,153,10,75,23,114,43,1,39,46,20,71,30,343,581,40,6,105,177,157,53,92,88,54,75,172,1116,2,10,10,9,52,49,44,84,56,100,148,32,1,282
 Working Better Together	970,14526,4
 Working Capital	11240,3909
 Working Capital Statement	5538
@@ -1735,6 +1741,7 @@ Workmen	12383
 Workmen's Compensation Regulations	12737
 Workmen’s Class	14745
 Workmen’s Group	14760
+Workneh	17696
 Workonline Communications	3386
 Workplace	582,4951,6453,343,574,574,1265,19,1437,916
 Workplace Excellence	14761
@@ -1818,7 +1825,7 @@ Workshops and Conferences	12356
 Workshops and Seminars	12675
 Workshops and Training	14987
 Workshops and Training and School Grants	14987
-Workspace	1363,11668,3892
+Workspace	1363,11668,1120,2772
 Workspace. Under Google	1267
 Workstation	34
 Workstations	11860

@@ -286,7 +286,8 @@ Incorporating GATT and GATS General Exception	1243
 Indicators AfDB3 Gates IsDB5 AFD6 EU7	11469
 Information Gathering	13381,3718
 Integrated Payment Gateway	8458
-International Gateway	3487
+International Gateway	3487,14236
+International Gateway Following	14151
 International Gateway License	762
 International Gateway Monitoring System	5244,9110
 International Gateway Monitoring System IIC	5244

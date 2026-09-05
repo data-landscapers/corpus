@@ -486,7 +486,7 @@ Criminalité	8891
 Criminalité Transnationale Organisée	13330
 Criminalité Transnationale Organisée Convention	13442
 Criminalizing	11860
-Criminals	4127,2638,1169,990,160,532,148,33,601,1253,190,268,932,1334
+Criminals	4127,2638,1169,990,160,532,148,33,601,1253,190,268,932,1334,3198
 Criminosos	2816
 Criou	2816
 Crioulo	11525
@@ -593,7 +593,7 @@ Criterion	3321,4227,9376
 Criterion How It’s Proven	15080
 Criterios	414,1287,15154
 Criterios Determinantes	16855
-Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,827,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103
+Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103
 Critical Areas Seed Distribution Orange Alert	17157
 Critical Assessment Information	13477
 Critical Bank	11134
@@ -698,7 +698,7 @@ Criticality	5665,3458
 Criticality Impact Impact Level Score Criteria	5665
 Critically	1582,1743,66,147,113,608,669,398,1186,320,116,199,95,413,311,354,34,977,1802,5,2,438,1959,32,1773,924,170
 Critico	9434
-Critics	2336,179,3,364,611,2718,174,86,316,360,162,329,73,572,552,6,102,12,476,248,383,70,15,187,81,187,1089,1770,2012
+Critics	2336,179,3,364,611,2718,174,86,316,360,162,329,73,572,552,6,102,12,476,248,383,70,15,187,81,187,1089,1770,2012,2145
 Critique	7112,4978
 Critique N	15525
 Critique of Human-Centred AI	11028
@@ -718,7 +718,7 @@ Critères CAD	13635
 Critères Catégorie I II III Compétence	15780
 Critères Coefficient	16322
 Critères D'éligibilité	16438
-Critérios	11373,36,7,726,3947,49
+Critérios	11373,36,7,726,3947,49,1466
 Critérios de Avaliação	11456
 Critérios de Avaliação Geral	11390,16
 Critérios de Avaliação de Impactes Ambientais	11406
@@ -988,6 +988,7 @@ Have Committed Crimes	2775
 Hawks and Crime Intelligence	5323
 Hazard Analysis and Critical Control Point	16900
 Hazard Analysis and Critical Control Points	16900
+Head of Financial Crime Operations	17579
 Health As Most Critical Sectors of Any	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Hold Middle East Crisis Summit	3437,3942,47
 Housing. Criminal	10979

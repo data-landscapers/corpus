@@ -158,7 +158,7 @@ Embassies	13122,551,1102,54
 Embassies and High Commissions	16921
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Kingdom	13358
@@ -180,7 +180,7 @@ Embassy of India Algiers INDIA-ALGERIA RELATIONS Diplomatic	16331
 Embassy of India Harare Press Release Embassy	13509
 Embassy of Ireland	9861
 Embassy of Italy	10592
-Embassy of Japan	7300,105,965,2406
+Embassy of Japan	7300,105,965,2406,6959
 Embassy of Netherlands	14897
 Embassy of Portugal	5404
 Embassy of Rwanda	14918
@@ -278,7 +278,7 @@ Future of Embedded Finance	14819
 G-4 Promote Inclusive Data Use and Embed	17116
 Gabonese Embassy	16285
 Gambian Embassy	16874
-German Embassy	3697,3028,2903,79,404,2,3465,2458,186
+German Embassy	3697,3028,2903,79,404,2,3465,2458,186,1364
 German Embassy Chargé	13426
 German Embassy Nairobi	4890
 German Embassy Representative Mr. Ulrich Thueer	7362
@@ -325,6 +325,7 @@ Liberia’s Embassy	16870
 Licensing. Embed	1777
 LinkedIn Embedded Content	965,3804,120,206,68,334,86
 M. EMBONGO	15615
+MINAS. And the German Embassy	17586
 MODIFICACIÓN DE UNA EMPRESA EMBAJADA	16859
 MWEA Data Processor INST-59724551F3D EMBU Kenya	7167
 Mba Ada Embaixador Extraordinário	11393
@@ -413,7 +414,7 @@ U.S. Embassy and Starlink	4340,5
 U.S. Embassy's Facilitation Role Chargé	4352
 U.S. Virtual Embassy	13754
 UAE Embassy	4952,9182
-US Embassy	2740,2408,289,189,864,418,2068,253,4172
+US Embassy	2740,2408,289,189,864,418,2068,253,4172,4168
 US Embassy Bangui	4345
 US Embassy Benin	87
 US Embassy Calls for Stronger Efforts	10405

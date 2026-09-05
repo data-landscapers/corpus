@@ -59,7 +59,7 @@ FRAUD TYPES	17362
 FRAUDE AUX CARTES BANCAIRES Arllcle	15429
 FRAUDE INFORMATIQUE	16617
 Financial Fraud	6426,8271
-Fraud	26,556,2519,1747,399,79,207,728,126,172,603,11,305,40,88,322,8,418,357,364,722,978,363,15,44,1,91,551,1,64,71,10,216,95,687,201,292,1283,282,330,39,142,106,2,1274,133,294
+Fraud	26,556,2519,1747,399,79,207,728,126,172,603,11,305,40,88,322,8,418,357,364,722,978,363,15,44,1,91,551,1,64,71,10,216,95,687,201,292,1283,282,330,39,142,106,2,1274,133,294,377
 Fraud A- Deposit	582
 Fraud Across Banks and SDIs Staff Involvement	17362
 Fraud Any	14493
@@ -169,6 +169,7 @@ Security and Fraud	12182
 September. Fraud	9210
 Sim Swap- Related Fraud	17362
 Southern Africa Fraud Prevention Services	11940
+Southern African Fraud Prevention Service	17739
 Strategy Fraud Prevention Strategy	11986
 Survey Reveals Consumer Digital Fraud	15042
 Swap Related Fraud Others	17362

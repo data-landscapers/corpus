@@ -214,6 +214,7 @@ CHAPITRE IIl DE LA PROTECTION DES	15485
 CHAPITRE PREMIER INDEPENDANCE PROTESSIONNETTE Arlicle	15561
 CHAPTER FIVE CONSUMER EMPOWERMENT AND PROTECTION	6946
 CHAPTER FOUR Data Protection Officer First	15484
+CHAPTER FOUR FINANCIAL CONSUMER PROTECTION	7763
 CHAPTER IX PROTECTION OF CRITICAL DATABASES	11179
 CHAPTER VI1 CONSUMER PROTECTION Scope	11179
 CHARGE DE LA PROTECTION DE L’ENFANCE	16099,76
@@ -634,7 +635,7 @@ Data Protection Article	11956
 Data Protection Audit	1014
 Data Protection Authorities	961,1,2639,17,60,905,2056,155,5508,2132,2583
 Data Protection Authorities. The African Union	5084
-Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117,442,82,3,56,121,103,12,45,5,1293,233,5,311,921,742,40,91
+Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117,442,82,3,56,121,103,12,45,5,1293,233,5,311,921,742,40,91,648
 Data Protection Authority Article	14907
 Data Protection Authority Department of Lands and Surveys	16926
 Data Protection Authority I-39	10785
@@ -877,6 +878,8 @@ Deposit Protection Fund	11131,3,6004
 Deposit Protection Fund CBE Greening	11134
 Deposit Protection Fund CEO Uganda Microfinance	6938
 Deposit Protection Fund Progress	11134
+Depositors Protection	7763
+Depositors Protection Deposit	7763
 Deputy Data Protection Commissioner Ms Misozi	13430
 Deputy Data Protection Commissioners	13321
 Description Cyberspace Protection	1758,1383,3772
@@ -1297,7 +1300,7 @@ Infrastructure Protection	2677
 Infrastructure Protection Plan	3604
 Infrastructure Protection Policy	17260
 Instance de Protection des Donnees	4237
-Instance de Protection des Données	436,3430,4415,391,370,1198
+Instance de Protection des Données	436,3430,4415,391,370,1198,7374
 Institute for Biodiversity and Protected Areas	11586
 Institute of Biodiversity and Protected Areas	11589
 Instituto de Protección Social	16918
@@ -1314,7 +1317,7 @@ Inter-Agency Social Protection Assessments	16902
 Interesses Legalmente Protegidos	11388
 Interim Personal Data Protection Guidelines	13995,2954
 Internally Displaced Person Inter-Agency Social Protection	16902
-International Cable Protection Committee	2677,836,1163,2523,36,7885,1979,15
+International Cable Protection Committee	2677,836,1163,2523,36,7885,1979,15,580
 International Data Protection Day	12395
 International Plant Protection Convention	13320,3954
 Internet Protection Society	9082
@@ -1419,6 +1422,7 @@ Lei de Protecção de Informações Pessoais	3519
 Lei de Protecção de Redes	4146,6625
 Lei de Proteção	12820
 Lei de Proteção de Dados	2690
+Lei de Proteção de Dados Pessoais	17670
 Lei de Proteção de Dados Pessoais de Portugal	15509
 Level of Protection	12185
 Leverage Social Protection	12761
@@ -1440,6 +1444,7 @@ L’Autorité Nationale de Protection des Données	16641
 L’Autorité de Protection	1231,15386
 L’Autorité de Protection des Données	10821
 L’Autorité de Protection des Données Personnelles	8746
+L’Instance de Protection des Données	17614
 L’Office National de Protection des Réfugiés	13360
 M Credit Line for Sustainable Data Protection	12297
 MAC. The Data Protection Officer	5244
@@ -1535,6 +1540,7 @@ National Child Online Protection Policy	3778,4272
 National Child Online Protection Strategy	4583,8975
 National Child Protection	12977
 National Child Protection Strategy and Action Plan	17228
+National Civil Protection Agency	17613
 National Civil Protection Commission	10763,5
 National Civil Protection Commission National Civil	10763
 National Civil Protection System	11553
@@ -1646,6 +1652,7 @@ Offsite Data Protection	15274
 Oficial de Protecção Social	12142
 Online Child Protection Policy	11791
 Online Child Protection Policy Zimbabwe	5407,676
+Online Child Protection and Safety	17576
 Online Consumer Protection	15641
 Online Consumer Protection Provisions	12389
 Online Copyright Protection Act	10139
@@ -1922,7 +1929,7 @@ Programa deFortalecimento da Protecção Social	7882
 Programas de Protecção Social	7882
 Programme Protection	15428
 Programme SOCIAL PROTECTION POLICY	12923
-Programme de Filets de Protection Sociale Productifs	10869,5004
+Programme de Filets de Protection Sociale Productifs	10869,5004,1711
 Project Environmental Protection Agency	17114
 Project Implementation Unit Personal Protective Equipment	15601
 Projecto de Lei de Alteração da Lei da Protecção de Dados	6847
@@ -2009,7 +2016,7 @@ Protected Forest Areas Network	17114
 Protected Wells	12383
 Protecteur	10826
 Protecteur du Citoyen	10826
-Protecting	571,1417,330,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,40,38,69,141,37,21,171,109,185,78,45,100,55,254,159,66,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,9,34,80,2,128,202,92,576,76,16,169,776,64,30,229,246,122,234,196,547,366,62,54,23,543,114,44,4,495,318,549,781,430,240,64,6,1,84,68,209,557,1253,69,311
+Protecting	571,1417,330,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,40,38,69,141,37,21,171,109,185,78,45,100,55,254,159,66,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,9,34,80,2,128,202,92,576,76,16,169,776,64,30,229,246,122,234,196,547,366,62,54,23,543,114,44,4,495,318,549,781,430,240,64,6,1,84,68,209,557,1253,69,311,290
 Protecting Africa	10169
 Protecting Americans’ Data	11154
 Protecting Authentication Tools	15198
@@ -2039,7 +2046,7 @@ Protecting the Internet	14723
 Protecting the Poor and Vulnerable	10779
 Protecting the Work Force Child Labour and Minimum	1988
 Protectio	12977
-Protection	34,3,127,70,314,95,140,187,261,12,53,91,390,51,9,81,49,1,46,48,282,239,82,127,216,173,173,42,15,17,176,62,48,40,81,26,5,4,173,83,2,247,153,55,231,401,31,117,18,34,261,147,19,74,272,35,56,233,96,88,140,8,9,93,1,42,213,91,255,184,73,40,72,61,107,67,289,114,179,16,114,27,151,81,432,239,61,180,102,132,44,162,69,66,32,49,68,60,2,14,1,1,1,3,13,10,56,24,19,5,7,164,12,5,5,16,13,279,176,120,92,13,16,1,1,1,11,44,99,100,2,8,1,9,47,31,53,8,31,7,1,11,1,7,29,30,69,61,102,240,11,62,13,120,109,94,1,10,20,10,8,11,17,8,18,39,32,92,194,9,4,68,35,197,89,28,34,21,45,120,12,2,10,7,8,10,4,25,1,1,3,44,37,1,19,26,2,52,46,7,1,2,2,1,2,1,6,1,8,9,8,51,5,20,1,2,14,9,4,15,56,14,57,11,88,11,23,11,21,66,93,26,9,53,1,5,38,2,14,5,13,36,13,29,1,13,37,8,18,25,39,6,1,14,84,15,3,37,4,12,32,3,7,25,79,38,44,166,32,253,27,9,1,9,7,62,27,25,83,2,8,32,2,10,3,13,16,26,21,194,86,17,250,7
+Protection	34,3,127,70,314,95,140,187,261,12,53,91,390,51,9,81,49,1,46,48,282,239,82,127,216,173,173,42,15,17,176,62,48,40,81,26,5,4,173,83,2,247,153,55,231,401,31,117,18,34,261,147,19,74,272,35,56,233,96,88,140,8,9,93,1,42,213,91,255,184,31,42,40,72,61,107,67,289,114,179,16,114,27,151,81,432,239,61,180,102,132,44,162,69,66,32,49,68,60,2,14,1,1,1,3,13,10,56,24,19,5,7,164,12,5,5,16,13,279,176,120,92,13,16,1,1,1,11,44,99,100,2,8,1,9,47,31,53,8,31,7,1,11,1,7,29,30,69,61,102,240,11,62,13,120,109,94,1,10,20,10,8,11,17,8,18,39,32,92,194,9,4,68,35,197,89,28,34,21,45,120,12,2,10,7,8,10,4,25,1,1,3,44,37,1,19,26,2,52,46,7,1,2,2,1,2,1,6,1,8,9,8,51,5,20,1,2,14,9,4,15,56,14,57,11,88,11,23,11,21,66,93,26,9,53,1,5,38,2,14,5,13,36,13,29,1,13,37,8,18,25,39,6,1,14,84,15,3,37,4,12,32,3,7,25,79,38,44,166,32,253,27,9,1,9,7,62,27,25,83,2,8,32,2,10,3,13,16,26,21,194,86,17,250,7,67
 Protection Act	9251,1879,822,258,4,298
 Protection Act EAC East African Community	12663
 Protection ActData	7270
@@ -2342,6 +2349,7 @@ Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,1
 Public Protection	5626
 Public Protection and Disaster Relief	11857
 Public Protector	3264,7130,885,3078
+Public Protector and Parliament	17739
 Public Protector's Section	10394
 Public Protector. Consolidated	11986
 Public Safety and Community Protection	14566
@@ -2598,6 +2606,7 @@ Social Protection Fund The Cabinet Secretary	14493
 Social Protection Honourable Speaker	17105
 Social Protection ID Program	15415
 Social Protection Implementation Plan	16867
+Social Protection Integration Social	7763
 Social Protection Is the Right Vehicle	17311
 Social Protection Law	2508,14434,54
 Social Protection Levy Rate Company Names	17105
@@ -2848,6 +2857,7 @@ Uneven Enforcement of Data Protection Laws Ugandas	5603
 Unit PPE Personal Protective Equipment SCT	13332
 Unit PPE Personal Protective Equipment SEA	17114
 United Nations Guidelines for Consumer Protection. Web	16872
+Unité de Protection	17664
 Universal Social Protection	1445,3
 Université Protestante de Lubumbashi	16051
 Université Protestante de Lubumbashi URL	16051

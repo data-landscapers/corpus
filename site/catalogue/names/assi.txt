@@ -109,6 +109,7 @@ Assigning	961,200,5432,4536,2
 Assigning and Maintaining Addresses for Objects	13221
 Assigning the Appropriate Risk Classification	17114
 Assignment	427,3251,4150,718,577,2734,12,72,35,32,635,5,245,138,6,46,102,1565,393,40,718,1072,15
+Assignment Administration	17562
 Assignment Assuming	13031
 Assignment The Consultant	13037
 Assignment Title	9603,1,6889,762
@@ -125,7 +126,7 @@ Assignments of Engineering Designs and Contract Supervision	15411
 Assignolion	15429
 Assigui	16177
 Assih	8262
-Assim	15,399,125,2277,302,216,812,1065,3308,740,886,627,5,593,1,8,8,3,6,1,24,1,14,10,10,62,1,1,3,4,1,2,2,5,6,4,9,6,3,4,7,1,444,3337,1,21,8,3,1,11,37,8,2,26,27,1,5,17,6,3,29,8,117,5,78,120,20,210,16,81,106,51,644,80,11,36,39
+Assim	15,399,125,2277,302,216,812,1065,3308,740,886,627,5,593,1,8,8,3,6,1,24,1,14,10,10,62,1,1,3,4,1,2,2,5,6,4,9,6,3,4,7,1,444,3337,1,21,8,3,1,11,37,8,2,26,27,1,5,17,6,3,29,8,117,5,78,120,20,210,16,81,106,51,644,80,11,36,39,355
 Assimi Goïta	8401,175
 Assimi Tairou	7355
 Assimilation System GMMR Great Man-Made River	17157
@@ -216,7 +217,7 @@ Assistance UGPE Special Projects Management Unit	16187
 Assistance and Cooperation	17249
 Assistance des Nations Unies	15478
 Assistances Techniques	16646
-Assistant	12151,344,198,26,1847,190,660,16,172,81,59,192,351,108,704,230
+Assistant	12151,344,198,26,1847,190,660,16,172,81,59,192,351,108,704,230,318
 Assistant AFMCG	15372
 Assistant Accountant	12972,5
 Assistant Attorney General for National Security John	11342
@@ -321,6 +322,7 @@ Assistant Registrar-General of Births and Deaths	13285
 Assistant Registrar-Generals	14761
 Assistant Registration Officers	14788
 Assistant Research Officer No	10980
+Assistant Resident City Commissioner for Nyendo Mukungwe	17619
 Assistant Secretary	7430,8825
 Assistant Secretary Garcia	7430
 Assistant Secretary General	14835
@@ -477,6 +479,7 @@ Consultant Mathais Gogohounga Senior Program Assistant	15424
 Consulting Assignments	15411
 Consulting Assignments Contract Title	11525
 Contacts Assistance	13360
+Contractors Assistance Fund	7763
 Contribution of Food Assistance	17323,1
 Convention Assistance	15901
 Cooperation and Mutual Assistance	14476
@@ -793,6 +796,7 @@ Miss SAMBAT Patricia Marie Desiree Assistant	14770
 Mission of ASSIMPER Article	15027
 Mme Assia Benchabla-Queiroz	10515
 Mobile Assistant	14125
+Monsieur Sèmiou ASSIRI	17584
 Moov Interactive Assistant	11674
 Moussa DOUMBOUYA INS Assistant DG	16620
 Mr. Farhan M. S. DAWOO Assistant	14745
@@ -1010,8 +1014,9 @@ Social Assistance Grants for Empowerment	3005,567
 Social Assistance MIS and Linking Social Protection	10822
 Social Assistance NSDP National Strategic Development	12663
 Social Assistance PER	15663
-Social Assistance Programme	3602
+Social Assistance Programme	3602,4161
 Social Assistance Programmes	12373
+Social Assistance Programmes The Government	7763
 Social Assistance Programs	11998
 Social Assistance Programs and Delivery	16902
 Social Assistance Sector	16952

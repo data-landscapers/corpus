@@ -444,7 +444,7 @@ Egovernment Survey	11379,4153
 Egoïsme	6959
 Egtech	12478
 EgypWĕV	15604
-Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472,291,107,193,5,435,108,68,10,178,6,20,129,135,17,11,3,16,147,2,44,57,11,32,4,91,89,63,24,64,10,51,31,36,2,9,2,11,8,24,3,85,5,1,17,7,22,7,1,19,30,1,3,1,1,6,69,20,4,9,42,18,18,21,15,17,13,6,17,10,36,6,3,30,52,14,13,44,10,24,19,11,49,1,29,121,6,8,10,7,23,70,218,2,132,22,193,85,216,20
+Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472,291,107,193,5,435,108,68,10,178,6,20,129,135,17,11,3,16,147,2,44,57,11,32,4,91,89,63,24,64,10,51,31,36,2,9,2,11,8,24,3,85,5,1,17,7,22,7,1,19,30,1,3,1,1,6,69,20,4,9,42,18,18,21,15,17,13,6,17,10,36,6,3,30,52,14,13,44,10,24,19,11,49,1,29,121,6,8,10,7,23,70,218,2,132,22,193,85,216,20,78,92,1,44,2,7,20,13
 Egypt AI	15713
 Egypt AI Rating	15713
 Egypt Action Details Provide	15713
@@ -479,6 +479,7 @@ Egypt Egypt ACH System CCAA	6938
 Egypt Eritrea Ethiopia Kenya Rwanda S	14897
 Egypt Ethiopia Ghana Kenya Nigeria Senegal	11004
 Egypt Ethiopia Kenya Nigeria Rwanda Senegal	11964
+Egypt Explores Major Data Centre and AI	17722
 Egypt Financial Services Project	15473
 Egypt Financial Supervisory Authority	15473
 Egypt GDP	15713
@@ -603,6 +604,8 @@ Egypt and Impact	12339
 Egypt and India	9332
 Egypt and Iraq Explore Enhanced Cooperation	11738
 Egypt and Ivory Coast	9733,2
+Egypt and Japan	17735
+Egypt and Japan. Dr. Okano	17735
 Egypt and Jordan	3521,3252,9054,219
 Egypt and Kenya	1038,3934,242,2725
 Egypt and Kenya. Zambia	13346
@@ -615,7 +618,7 @@ Egypt and Orange Egypt	2968,1227
 Egypt and Rockville	15725
 Egypt and Rwanda	3280
 Egypt and SAP Deepen Ties	5607
-Egypt and South Africa	949,4674,4586,1648
+Egypt and South Africa	949,4674,4586,1648,5787
 Egypt and Sudan	16916
 Egypt and Switzerland	14101
 Egypt and Tanzania	7506
@@ -634,6 +637,7 @@ Egypt's First Updated Nationally Determined Contributions	15604
 Egypt's House of Representatives	2848
 Egypt's ICT	7397
 Egypt's Interior Ministry	5019
+Egypt's Karnak and Nigeria's Atlas	17556
 Egypt's Minister of Planning	9298
 Egypt's Minister of Supply and Internal Trade Sherif	9625
 Egypt's Ministry of Finance	9298
@@ -644,11 +648,14 @@ Egypt's National Telecom Regulatory Authority	9523
 Egypt's National Telecommunication Institute	14688
 Egypt's Nawy	4883
 Egypt's Offshoring Sector Generates	11162
+Egypt's PDPL	17695
 Egypt's Personal Data Protection Centre	6792
 Egypt's Personal Data Protection Law	9829
+Egypt's SIEM	17695
 Egypt's Second National Financial Inclusion Strategy	9624
 Egypt's Sovereign Sustainable Financing Framework	15609
 Egypt's Startup Charter	9598
+Egypt's Strategic Importance Egypt	17695
 Egypt's TKP GM	15663
 Egypt's Unified National Registry	11133
 Egypt's Universal Health Insurance System	15481
@@ -658,6 +665,7 @@ Egypt's Vision	9598,900,5185,204
 Egypt--	7548
 Egypt-1.pdf	15725
 Egypt-Iraq MoU	11738
+Egypt-Japan University of Science and Technology	17735
 Egypt-jumps-19-positions-in-Global-Knowledge-Index-2021	15604
 Egypt-sees--drop-in-marriages	15958
 Egypt. AI	15713
@@ -726,7 +734,7 @@ EgyptGenomeProject	15725
 EgyptWide for Human Rights	11079
 Egypte	8237,2738,2722,851,71,1125,1734
 Egypte L’Égypte	11761
-Egyptian	1213,46,543,603,1046,74,433,163,203,133,11,160,34,221,91,45,14,309,265,262,448,211,150,260,77,30,380,81,10,19,1,540,3,141,1,485,64,562,139,62,60,5,3,189,35,1,1,728,244,1,279,83,543,35,481,18,100,2349,236,469,69,11,11,8,27,59,26,59,1,49,1,3,1,7,89,73,18,21,32,19,15,2,46,6,3,82,71,10,43,11,49,165,10
+Egyptian	1213,46,543,603,1046,74,433,163,203,133,11,160,34,221,91,45,14,309,265,262,448,211,150,260,77,30,380,81,10,19,1,540,3,141,1,485,64,562,139,62,60,5,3,189,35,1,1,728,244,1,279,83,543,35,481,18,100,2349,236,469,69,11,11,8,27,59,26,59,1,49,1,3,1,7,89,73,18,21,32,19,15,2,46,6,3,82,71,10,43,11,49,165,10,1158,1,28,18,7,20
 Egyptian AI	15713,418,81
 Egyptian AI Governance Framework	16212
 Egyptian AI Law	16212
@@ -867,6 +875,7 @@ Egypt’s Governance Philosophy	16212
 Egypt’s HHs. TKP	15663
 Egypt’s Hybrid AI Governance Model	16212
 Egypt’s ICT	4628,11418
+Egypt’s Mediterranean	17693
 Egypt’s Ministry of Communication and Information Technology	11922
 Egypt’s Ministry of Endowments	15473
 Egypt’s Narrative for Economic Development	15887,90,72
@@ -1036,7 +1045,7 @@ International Classification of Health Interventions. Egypt	15725
 International Cooperation Egypt	15714
 International Cooperation and Egyptian Expatriates	9299
 International Development Agency GoE Government of Egypt	15473
-Internet Corridor of Egypt	16808
+Internet Corridor of Egypt	16808,885
 Islamic and Egyptian	15473
 JC and EGCSE	12975
 Jane Egerton-Idehen	12078
@@ -1201,6 +1210,7 @@ Results Report Supporting Egypt’s Universal Health	16079
 Revista Real EG	3494,9024
 Rights Organizations Condemn Spate of Egyptian Journalist	15926
 Roseau High EGDI H1	10840
+Rouge. Telecom Egypt	17694
 Rural Egypt	15473
 Rwanda and Egypt	7203
 Rwanda and Egypt Deepen AI Cooperation	7203
@@ -1258,6 +1268,7 @@ Supporting Egypt’s Universal Health Insurance System	16079
 Sutherland Egypt	11162
 Sutherland Egypt Concentrix Egypt President Amr	11162
 Sydney Very High EGDI VH	10840
+System de Telecom Egypt. Il	17694
 T-I20-1 STEM Program Egypt	15713
 T-I21-A1 AI Qualification and Certification System Egypt	15713
 T-I21-A2 AI Talent Management The Egyptian	15713
@@ -1277,7 +1288,7 @@ Tech-I4-A1 Establish Strategic Partnerships Egypt	15713
 Tech-I4-A2 Develop Shared Resources Framework Egypt	15713
 Tech-I4-A3 Upgrade R&D Facilities Egypt	15713
 Technical Education Egypt	15604
-Telecom Egypt	511,1132,313,329,9,15,11,85,164,108,137,154,374,179,18,320,189,147,55,218,491,15,4,15,337,360,114,242,17,15,24,145,11,245,323,24,7,568,3036,5010,138,1,199,18,78,36,105,762
+Telecom Egypt	511,1132,313,329,9,15,11,85,164,108,137,154,374,179,18,320,189,147,55,218,491,15,4,15,337,360,114,242,17,15,24,145,11,245,323,24,7,568,3036,5010,138,1,199,18,78,36,105,762,885,1,8,20
 Telecom Egypt Announces the Launch	15610
 Telecom Egypt Expands	15827
 Telecom Egypt Grants Preliminary Approval	15809
@@ -1294,8 +1305,9 @@ Telecom Egypt and Zain Omantel International	3342
 Telecom Egypt's Regional Data Center Hub	7425
 Telecom Egypt's Regional Data Hub	1956
 Telecom Egypt. Telecom Egypt	10461
+Telecom Egypt’s MD and CEO Tamer	17693
 Telecom Egypt’s Red Sea	16808
-Telecom Egypt’s Red Sea Subsea Festoon	16808
+Telecom Egypt’s Red Sea Subsea Festoon	16808,885
 Telecom Egypt’s Taba	15827
 Telecommunication of EG Mr. Rufino Ovono Ondo	17240
 Telecoms Telecom Egypt	10461

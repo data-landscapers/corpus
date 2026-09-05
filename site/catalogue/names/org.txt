@@ -57,7 +57,7 @@ African Insurance Organisation	6938
 African Insurance Organization	14997
 African Intellectual Property Organisation	7452
 African Intellectual Property Organization	10358,1192,3930
-African Organisation for Standardisation	10336,3889,48,1587,1508
+African Organisation for Standardisation	10336,3889,48,1587,1508,317
 African Organization for Standardization	14736,391
 African Organization of Russophonie	4127
 African Petroleum Producers Organization	14202
@@ -69,6 +69,7 @@ African Union Organs	961
 Afrique ONG Organisation	15474
 Afrique du Droit des Affaires ONG Organisation Non	10876
 Against Children WHO World Health Organization	12939
+Agile Regulatory Organization	17538
 Agriculture Organization GC Governance Commission GOL	16970
 Aligning the Organisation	13532
 Alliance for International Science Organisations	14758
@@ -203,7 +204,7 @@ Civil Social Organisation	15004
 Civil Society Organisation	12551
 Civil Society Organisation EIA Environmental Impact	16843
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538
+Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization	14742,118
 Civil Society Organization DHIS2	10776
@@ -553,6 +554,7 @@ HUMAN RESOURCE AND ORGANIZATIONAL CAPACITY09	13053
 Head Organizational Unit	16858
 Head of Organisational Development and Learning	12951
 Health Excellence NGO Non-Governmental Organisation ADB	396
+Health Insurance Organization	17648
 Health Maintenance Organisations	9444
 Health Organisation	16902
 Health Organisation VMS Vehicle Management System	11192
@@ -578,6 +580,7 @@ Human Resources and ICT Organisation25 Figure	15164
 Hydromet Diagnostics CSO Civil Society Organization	11553
 Hygiene WASH World Health Organization	11417
 Hygiene WHO World Health Organization	15138
+Hôtel Radisson Blu Abidjan Airport. Organisée	17635
 I Organisation	16613
 I. CADRE ORGANISATIONNEL DES ENQUETES ET	15595
 I. ORGANISATION DE LA GESTION	15595
@@ -1109,7 +1112,7 @@ Organigramme du Mécanisme de Gestion des Plaintes	15746
 Organique	16635
 Organisaon	9128,6530
 Organisaonal	9129
-Organisation	236,407,94,28,1,232,11,176,2,27,18,443,4,7,572,84,35,72,4,12,160,29,263,31,97,351,319,75,337,43,397,117,203,767,3,187,274,99,238,20,647,191,7,228,51,56,234,1,131,216,64,214,3,119,12,69,173,65,172,1,211,66,103,3,214,277,33,258,73,36,70,170,69,108,1,6,9,5,17,16,1,1,35,2,8,1,22,31,6,148,147,246,27,18,71,219,11,64,40,71,62,262,126,104,1,4,319,380,5,24,11,49,15,13,50,45,74,1,47,9,33,4,34,13,32,20,3,11,6,25,75,96,429,17,30,18,34,13,85,40,82,9,7,103,164,7,68,194,50,6,20,10,1,28,12,35,9,5,2,15,11,7,5,30,26,12,3,11,1,4,36,14,9,3,31,20,3,5,4,3,11,8,11,10,2,8,20,48,3,50,3,16,16,3,25,51,6,3,16,62,4,18,54,20,10,25,33,59,5,1,34,3,16,72,1,31,14,19,7,20,32,39,4,1,14,1,15,23,33,7,33,96,36,63,172,250,76,8,8,36,23
+Organisation	236,407,94,28,1,232,11,176,2,27,18,443,4,7,572,84,35,72,4,12,160,29,263,31,97,351,319,75,337,43,397,117,203,767,3,187,274,99,238,20,647,191,7,228,51,56,234,1,131,216,64,214,3,119,12,69,173,65,172,1,211,66,103,3,214,277,33,258,73,36,70,170,69,108,1,6,9,5,17,16,1,1,35,2,8,1,22,31,6,148,147,246,27,18,71,219,11,64,40,71,62,262,126,104,1,4,319,380,5,24,11,49,15,13,50,45,74,1,47,9,33,4,34,13,32,20,3,11,6,25,75,96,429,17,30,18,34,13,85,40,82,9,7,103,164,7,68,194,50,6,20,10,1,28,12,35,9,5,2,15,11,7,5,30,26,12,3,11,1,4,36,14,9,3,31,20,3,5,4,3,11,8,11,10,2,8,20,48,3,50,3,16,16,3,25,51,6,3,16,62,4,18,54,20,10,25,33,59,5,1,34,3,16,72,1,31,14,19,7,20,32,39,4,1,14,1,15,23,33,7,33,96,36,63,172,250,76,8,8,36,23,161
 Organisation Administrative	15936
 Organisation Africaine	16972
 Organisation Art	16879
@@ -1230,7 +1233,7 @@ Organisational Values	12642
 Organisationdelasécuritédusystèmed'information	15525
 Organisationnel	9406
 Organisationnels	748
-Organisations	34,361,603,245,443,253,1,153,1037,1128,1301,106,200,633,134,51,44,118,101,109,297,399,195,75,6,256,97,57,126,28,49,8,63,180,278,247,258,141,15,47,141,139,11,46,124,483,5,97,42,247,6,95,453,174,12,4,210,35,776,56,3,341,12,143,21,82,60,15,453,62,132,68,17,123,74,97,50,597,40,51,22,99,90,27,10,2,43,14,16,48,3,438,315,15,1,4,20,10,207,81,8
+Organisations	34,361,603,245,443,253,1,153,1037,1128,1301,106,200,633,134,51,44,118,101,109,297,399,195,75,6,256,97,57,126,28,49,8,63,180,278,247,258,141,15,47,141,139,11,46,124,483,5,97,42,247,6,95,453,174,12,4,210,35,776,56,3,341,12,143,21,82,60,15,453,62,132,68,17,123,74,97,50,597,40,51,22,99,90,27,10,2,43,14,16,48,3,438,315,15,1,4,20,10,207,81,8,771
 Organisations Addresses Contact	17099,15
 Organisations FDI Foreign Direct Investment GDP	12376
 Organisations Internationale	13341
@@ -1299,7 +1302,7 @@ Organismos Públicos	16893
 Organismos Regionales	4209
 Organismos de Normalização Sectorial	11381
 Organisé	3107,189,381,599,681,1787,1594,107,597,376,197,750,166,84,28,178,175,91,512,53,416,1621,86,2,22,115,418,364,1355,43,275,4,14,14,144,107,18,7
-Organisée	1287,3457,1112,303,346,354,219,314,926,35,972,343,44,582,219,1163,1952,189,1456,449,152,262,108,48,274
+Organisée	1287,3457,1112,303,346,354,219,314,926,35,972,343,44,582,219,1163,1952,189,1456,449,152,262,108,48,274,979
 Organisées	8523,2353,4846
 Organiz	15772
 Organizacional	11371,198,4203
@@ -1762,6 +1765,7 @@ Shaqodoon Organization	15178
 Shared Services Fee. Organizations	6153
 Sharing NHI Organisation	1009
 Signatory Organizations	11079
+Small Industrial Development Organization	7763
 Social Economy Organisations	10980
 Social Economy Organisations and Craftspeople	10980
 Social Protection Nongovernmental Organization OHADA PACAD	15658
@@ -1770,6 +1774,7 @@ Sociales Organisation Non Gouvernementale Plan	14423
 Sociedade Civil Organizada Sociedade de Cabo da Guiné-Bissau	11569
 Sociedade Civil Organizada X X	11569
 Society Organization	16970
+Society SIDO Small Industries Development Organization	7763
 Sociologue des Organisations	8269
 Société Camerounaise de Santé Numérique Organisation	16195
 Software Testing Organisation	5665
@@ -1789,6 +1794,7 @@ Standards GAMS ISO Adopted International Organization	16900
 Standards GAMS OIML Adopted International Organization	16900
 Standards International Organisation for Alignment	961
 Standards Organisation	15034
+Standards Organisation of Nigeria	17652
 Standards Organization IT Information Technology ITIL	12917
 Standards Organization of Nigeria	12026
 State Organ	15340
@@ -1942,7 +1948,7 @@ Word Trade Organization	11154
 Workers Organisation Workers Organisation	1988
 World AI Cooperation Organisation	7979,229
 World AI Cooperation Organization	7962,666,262
-World Artificial Intelligence Cooperation Organisation	9938,601
+World Artificial Intelligence Cooperation Organisation	9938,601,7017
 World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147,2547
 World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1,135
 World Bank Group. World Health Organization	12240

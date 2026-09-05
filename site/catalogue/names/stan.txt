@@ -59,7 +59,7 @@ Africa's Standing	10848
 Africa. Standard Bank	6870
 Africa. The Standard	8131
 African Export-Import Bank and South Africa’s Standard	10026
-African Organisation for Standardisation	10336,3889,48,1587,1508
+African Organisation for Standardisation	10336,3889,48,1587,1508,317
 African Organization for Standardization	14736,391
 African Regional Standards	14736
 African Revenue Service SCRA Standing Committee	5533
@@ -705,6 +705,7 @@ IMF Data Standards Initiative	11973
 IMF Data Standards Initiatives	11554,4197
 IMF Special Data Dissemination Standard	14828,3
 IMF's Dissemination Standards Bulletin Board	11554
+IMF’s Special Data Dissemination Standard	17657,11
 INDIVIDUAL RIGHTS AND LEGAL STANDING	3861
 INFORMATION AND PROCEDURAL STANDARDS	12389
 INFORMATION COMMUNICATION TECHNOLOGY STANDARDS	13308
@@ -976,7 +977,7 @@ Meet ECE Standards	13355
 Meet Testing Standards	5665
 Member Standing Committee	12955
 Message Service ESWASA Eswatini Standards Authority	12395
-Metadata Standards	12360,4587
+Metadata Standards	12360,4587,592
 Metadata Standards for Open Data	15714
 Might Also Like How Standard	9868
 Minimum Cyber Security Standards for Public Institutions	14921
@@ -1093,6 +1094,7 @@ National Standardised Price List	13685
 National Standardization Strategy	17368
 National Standardized Tests	15688
 National Standards	16900
+National Standards Bodies	17685
 National Standards Bureau	1000
 National Standards Council	14273
 National Teachers' Standards	14971
@@ -1137,7 +1139,7 @@ OPERATIONAL AND CYBERSECURITY STANDARDS WITHIN NATIONAL	13206
 OVERVIEW OF OPEN BANKING STANDARDS	13092
 OWASP Application Security Verification Standard	5665,9496
 OWASP Security Standards	11952
-Observance of Standards and Codes	14734,43,2664
+Observance of Standards and Codes	14734,43,2664,216,11
 Observance of Standards and Codes SDDS Special Data	14777
 Office of Health Standards Compliance	396
 Office of Professional Standards	12951
@@ -1219,6 +1221,7 @@ Procedures Operationnelles Standardisees du COUSP	14662
 Procédure Opérationnelle Standard	15828
 Procédures Opérationnelles Standard	15643
 Product Liability Standards	12675
+Professional Ethics and Standards	7763
 Professional Standard Board	16852
 Professional Standards	13053
 Professional Standards Unit	16874
@@ -1334,7 +1337,7 @@ Ruwa Stands Pension Owned Vacant Residential	4896
 Rwanda Bureau of Standards	14863
 Rwanda Standard Board	9123,5740
 Rwanda Standards	9123
-Rwanda Standards Board	1534,7589,5824,180,733
+Rwanda Standards Board	1534,7589,5824,180,733,1825
 Rwanda Standards Board Bank of Kigali Plc	12358
 Rwanda Standards Board. Receptacles	9123
 Révision Codex STAN	16103
@@ -1803,8 +1806,9 @@ Standardization of ICT	14525
 Standardization of Mobile Money Cash-Out Fees	17235
 Standardization. Documentation	16900
 Standardize	2724,2953,5472,1210,1,39,1592,1006,93,154,360,121,1639
-Standardized	970,2891,399,2172,719,397,3171,44,373,721,499,310,376,343,1270,241,101,132,349,1414,50,215
+Standardized	970,2891,399,2172,719,397,3171,44,373,721,499,310,376,343,1270,241,101,132,349,1414,50,215,382
 Standardized AI Number	7548
+Standardized APIs	17539
 Standardized Backward and Forward	15372
 Standardized Data Element Definitions	12360
 Standardized Data Formats	5665
@@ -1828,7 +1832,7 @@ Standardized Templates	12356
 Standardized Toolkits	12053
 Standardizes	14950
 Standardizing	12255,104,618,4464
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221,209,7,48,1,246,2,76,53,80,18,69,46,68,96,236,190,43,147,41,275,36,224,205,211,9,11,13,15,8,16,15,10,29,257,133,90
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221,209,7,48,1,246,2,76,53,80,18,69,46,68,96,236,190,43,147,41,275,36,224,205,211,9,11,13,15,8,16,15,10,29,257,133,90,81,146
 Standards Act	1988,5560,3721,1257,369,508,1019
 Standards Act. Draft Standard No. and Edition	11269
 Standards Act. Standard No	11269
@@ -1898,6 +1902,7 @@ Standards Manual	11132
 Standards OASIS Web Services Notification Family	1009
 Standards OIT	15901
 Standards Organisation	15034
+Standards Organisation of Nigeria	17652
 Standards Organization IT Information Technology ITIL	12917
 Standards Organization of Nigeria	12026
 Standards Pathway	12457
@@ -1971,11 +1976,11 @@ Standby Letters of Credit	14546
 Standby Servers	15478
 Standby UPS	9123
 Standfirst	786
-Standing	749,496,375,1,7,482,11,358,1,474,382,395,130,52,872,2428,917,973,2127,3,3896
+Standing	749,496,375,1,7,482,11,358,1,474,382,395,130,52,872,2428,917,973,2127,3,3896,2448
 Standing About-Us	1246
 Standing Advisory Committee	11250
 Standing Cabinet Committee	10246
-Standing Committee	5533,4136,1508,41,12,55,4,999,37,1577,234
+Standing Committee	5533,4136,1508,41,12,55,4,999,37,1577,234,3459
 Standing Committee for Refugee Affairs	11177
 Standing Committee of Senior Officials	9761
 Standing Credit Facility	17138,97
@@ -2024,6 +2029,7 @@ Stanford's Digital Economy Lab	12082
 Stanford’s AI Index	15713
 Stanger	11986
 Stanger Building Construction	11986
+Stanis Bujakera Tshiamala	17590
 Stanislas	15780,397
 Stanislas Envoli	6989
 Stanislas Lepage	2758
@@ -2069,6 +2075,7 @@ Strategy NIST U.S. National Institute of Standards	1777
 Strategy Paper PSB Professional Standard Board	16852
 Street Naming And Numbering Standards	12149
 Strengthening Rwanda Industrial Standardisation ICT Capacity	1534
+Strengthening the Adoption of Data and Metadata Standards	17539
 Structure of Standards Council	14736
 Sub-Saharan Africa. Standing	1396
 Support Organization ESS Environmental and Social Standards	15621
@@ -2198,7 +2205,7 @@ ZIMBABWE GOVERNMENT ICT SPECIFICATIONS STANDARDS	2779
 ZWS STANDARDS	13385
 ZWS STANDARDS ZWS Directive	13385
 Zambia Bureau of Standard Codes	1988
-Zambia Bureau of Standards	1988,11358,41,16,302
+Zambia Bureau of Standards	1988,11358,41,16,302,3980
 Zambia Bureau of Standards Shall	13347
 Zambia Compulsory Standards Agency	1988,11415
 Zambia Standard Lesotho Bank	12252

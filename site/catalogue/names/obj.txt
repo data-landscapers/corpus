@@ -667,6 +667,7 @@ National Dialogue. II. Project Development Objectives	17441
 National Digital Market OBJECTIVE	15679
 National Gender Machinery. Objective	16951
 National ICT Objectives	12529
+National ICT Policy Objectives	17538
 National Incident Response Unit. Strategic Objective	1777
 National Objectives and Directive Principles of State Policy	3005
 National Policy Objectives Economic	10856
@@ -855,7 +856,7 @@ Object of Fund Subject	13470
 Object-based	15129
 Object.assign	17188
 Object.do	15631,43,327
-Objectif	12,223,408,103,2,574,1,1,740,1,1,195,19,686,67,50,279,308,409,1,81,235,171,451,87,15,2435,170,66,31,154,1,292,247,179,1512,440,64,1,105,41,18,89,27,57,90,805,99,1282,16,49,43,80,52,858,2,63,1,40,8,2,1,34,48,801,32,17,2,19,49,13,13,12,3,41,46,50,2,16,8,20,3,30,49,96,17,38,71,125,133,217,75,24,23
+Objectif	12,223,408,103,2,574,1,1,740,1,1,195,19,686,67,50,279,308,409,1,81,235,171,451,87,15,2435,170,66,31,154,1,292,247,179,1512,440,64,1,105,41,18,89,27,57,90,805,99,1282,16,49,43,80,52,858,2,63,1,40,8,2,1,34,48,801,32,17,2,19,49,13,13,12,3,41,46,50,2,16,8,20,3,30,49,96,17,38,71,125,133,217,75,24,23,968
 Objectif Assurer	10876
 Objectif Cette	10711
 Objectif Garantir	14537
@@ -1003,7 +1004,7 @@ Objective of SEP This SEP	12990
 Objective of Zero-Rated Access	6748
 Objective. Disponível	2816
 Objective4	1000
-Objectives	21,558,3,376,197,54,11,8,1,53,2,494,107,103,105,183,672,730,36,145,28,280,35,15,43,89,83,178,522,220,313,1083,530,260,221,69,193,1,108,637,361,1,308,166,1,284,435,397,45,10,1,3,5,28,7,376,70,85,70,431,1,8,80,38,17,13,138,5,59,30,89,27,57,95,50,116,1,11,213,9,62,2,6,64,286,90,226,206,98,3,2,8,35,4,14,10,56,44,100,185,1,24,7,8,198,19,60,19,16,93,22,4,7,2,5,13,14,2,20,113,25,4,287,58,189,22,16,56,83,49,300,74,217,164,14,24,17,180,10,5,8,5,11,9,2,1,1,28,1,5,1,1,11,9,7,1,9,51,32,56,15,2,33,8,78,15,114
+Objectives	21,558,3,376,197,54,11,8,1,53,2,494,107,103,105,183,672,730,36,145,28,280,35,15,43,89,83,178,522,220,313,1083,530,260,221,69,193,1,108,637,361,1,308,166,1,284,435,397,45,10,1,3,5,28,7,376,70,85,70,431,1,8,80,38,17,13,138,5,59,30,89,27,57,95,50,116,1,11,213,9,62,2,6,64,286,90,226,206,98,3,2,8,35,4,14,10,56,44,100,185,1,24,7,8,198,19,60,19,16,93,22,4,7,2,5,13,14,2,20,113,25,4,287,58,189,22,16,56,83,49,300,74,217,164,14,24,17,180,10,5,8,5,11,9,2,1,1,28,1,5,1,1,11,9,7,1,9,51,32,56,15,2,33,8,78,15,114,175
 Objectives Article	14907
 Objectives BS	1885
 Objectives Based	16863
@@ -1012,6 +1013,7 @@ Objectives Contribute	10854
 Objectives Despite	12229
 Objectives Established	11891
 Objectives Ethiopia	12224
+Objectives Facilitating	17539
 Objectives Flagship Projects Intermediate KPIs	12210
 Objectives Flagship Projects Intermediate KPIs Outcomes	12210
 Objectives Flagship Projects Intermediate Outcomes KPIs	12210
@@ -1517,7 +1519,7 @@ Strategic Goals and Strategic Objectives	17116
 Strategic Goals and Strategic Objectives Strategic Goal	13359
 Strategic Investment and Partnerships Objective	4528
 Strategic National Objectives	7672
-Strategic Objective	1777,6976,3603,649,986,827,593,302,1145,69,16,42,26,105
+Strategic Objective	1777,5986,990,3603,649,986,827,593,302,1145,69,16,42,26,105,422
 Strategic Objective B	14818
 Strategic Objective Build	15713
 Strategic Objective C	14818
@@ -1531,6 +1533,7 @@ Strategic Objective H	14818
 Strategic Objective Implementation Plans	13991
 Strategic Objective Implementation Plans The Ethiopian	13991
 Strategic Objective J	14818
+Strategic Objective NFIF3	7763
 Strategic Objective SOU	12759
 Strategic Objective Strengthen	15713
 Strategic Objective To Enhance	13005

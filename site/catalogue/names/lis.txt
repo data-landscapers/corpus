@@ -16,6 +16,7 @@ ARSEL LISTE DES SIGLES LA TRANSPARENCE	10975
 AVOIR LISTÉ LES VOIR CODES SI	13300
 Access Control List	14921
 Acronym List	16876
+Activate Requirements Lists	17564
 Activity Coverage and Listing of Business Enterprises	12445
 Administrative Cadre Staff List Domestic Abuse	14742
 Administrative Reforms List	14770
@@ -26,6 +27,7 @@ Annexe H Liste	14472
 Annexe I Liste	14472
 Appendix A Appendices List of Approved Abbreviations	11129
 Appendix B. List	14883
+Approved Supplier List	14151
 Attendance Listing LIBERIAN DELEGATION Position	16857
 Attendee List	8764
 Bank of Mauritius. List of Licensees. Available	14819
@@ -76,7 +78,7 @@ Contact List	12484
 Contactos TACs Lista Contactos Tecnicos de Apoio	12018
 Contacts List Name Position Ministry	10812
 Content Table List	13729
-Contents LIST OF ACRONYMS	12962
+Contents LIST OF ACRONYMS	7763,5199
 Contents LIST OF TABLES	17127
 Contents List	15220
 Contents List of Acronyms	12175,1815,10
@@ -144,7 +146,7 @@ Earth. For... UK Travel Site Lists	5390,965,827
 Electricité Liste	10975
 Elfatih Contents List	14958
 Eligibility of Listing	7198
-Entity List	9015,1429
+Entity List	9015,1429,7251
 Entry Stop List Means	11986
 Enumeration Questionnaire. The Listing Questionnaire	16921
 Essential Medicines List	16922
@@ -300,7 +302,7 @@ LIST OF ABBREVIATIONS BWA Broadband Wireless	2776
 LIST OF ABBREVIATIONS GAMS Gambian Standard	16900
 LIST OF ABBREVIATIONS ICT Information Communications	1000
 LIST OF ABBREVIATIONS Term Definition AI	12675
-LIST OF ACRONYMS	6000,671,5315,991,2579,1330,481
+LIST OF ACRONYMS	6000,671,1092,4223,991,2579,1330,481
 LIST OF ACRONYMS AAITG	16951
 LIST OF ACRONYMS ACAT Africa Cooperative	12970
 LIST OF ACRONYMS ACHPR African Charter	12201
@@ -327,7 +329,8 @@ LIST OF ANNEXES Annex	16843
 LIST OF APPENDICES Appendix	4153
 LIST OF AUTHORS AND CONTRIBUTORS	9855
 LIST OF AUTHORS AND CONTRIBUTORS LIST	9855
-LIST OF CHARTS Chart	17235
+LIST OF CHARTS	7763
+LIST OF CHARTS Chart	7763,9472
 LIST OF CHARTS NAMIBIA PRODUCER PRICE	11152
 LIST OF CONTRIBUTORS S. Name Expertise	9855
 LIST OF COUNTRIES WHICH HAVE SIGNED	4867
@@ -354,10 +357,10 @@ LIST OF REFERENCES	12902
 LIST OF REGULATED MACHINERY Regulated	14814
 LIST OF REPORT WRITERS AND CONTRIBUTORS	17127
 LIST OF STANDARDS APPROVED	15027
-LIST OF TABLES	718,4815,5659,26,10,2416,1129,84,279,1785,90,103
+LIST OF TABLES	718,4815,2230,3429,26,10,2416,1129,84,279,1785,90,103
 LIST OF TABLES AND FIGURES Table	11261,5665
 LIST OF TABLES LIST OF FIGURES	11986
-LIST OF TABLES Table	718,2058,3895,4481,66,1541,164,28,19,7,28,1768,783,18,1347,90,32,56,15,35,86,132
+LIST OF TABLES Table	718,2058,3895,1092,3389,66,1541,164,28,19,7,28,1768,783,18,1347,90,32,56,15,35,86,132
 LISTA DAS INSTITUIÇÕES DE ENSINO SUPERIOR	11391
 LISTA DAS SIGLAS E ACRÓNIMOS	11523
 LISTA DE ABREVIATURAS E SIGLAS	10777
@@ -681,11 +684,12 @@ Liste des Titres	15670
 Liste des Titres de Productions	15670
 Listed	850,2961,452,1756,3105,1669,1736,2070
 Listed Chinese AI	8890
-Listen	1038,5017,300,374,708,654,327,693,1616,1609,2175
+Listen	1038,5017,300,374,708,654,327,693,1616,1609,2175,3072
 Listen Jevans Nyabiage Published	10026
 ListenShareMoreCourts	6055
 ListenShareMoreHow	7437
 Listened	14897
+Listeners	17617
 Listenership	8999
 Listening	7320,270,3546,2471,331,736,2296
 Listening. Adapting. Translating	6041
@@ -741,6 +745,7 @@ Migration Projection LISGIS	16935
 Ministry of Public Service and Administrative Reforms List	14770
 Mme Paule LISSENGUET YAPA. DIRECTION GENERALE	16381
 Model List	10776
+Monsieur Onézime Anselme Lisboa CODJIA	17584
 Ms. Lisa Simrique Sing	14767
 Ms. Senator Lisa Cummins	13042
 NATIONAL COMMUNICATIONS AUTHORITY LIST OF AUTHORISED	3386
@@ -822,6 +827,7 @@ Projet Lisungi. Droit	15965
 Projet SNC2630.pdf Listed	7439
 Proposed Listing of Econet InfraCo	4896
 Province Name of Head of List	12201
+Public Listing and Capital Market Leadership Marking	14151
 Public Service and Administrative Reforms List	14770
 Publication of Marketplace Listing Process	11995
 Pujehun District List of Female MPs	5390,965,827

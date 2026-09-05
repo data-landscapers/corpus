@@ -410,6 +410,7 @@ FOUR PHASES	11156
 FOURTH PHASE OF THE CENTRAL AFRICAN	15511
 FY25. Phase	1704
 Family Medicine Physicians	16922
+Fatwell Jacob Phiri	17710
 Feature Phone	582,2194
 Feature Phone Smartphone	582
 Feature Phones	6671,275,2835,6262
@@ -462,6 +463,7 @@ Gatekeeping Phase	16212
 General Departments for Physical Planning	15473
 General Directorate of Pharmacy and Health Care Organization	10829
 George Muthuri Pharmacy Practice PPB	9855
+Ghana Phone	17536
 Ghana. Mobile Phone	582
 Ghanaian PhD	10143
 Giga Global School Connectivity Initiative Phase	502
@@ -559,7 +561,7 @@ ITU Giga Phase	502
 ITWeb China EXIMBANK Phase IV	4207
 IV- Phase	16085
 IXP. Phase II	16854
-Identification des Personnes Physiques	14243,2408
+Identification des Personnes Physiques	14243,2408,1020
 Iletha Phini	11573
 Imithetho Kazwelonke Yezokuthutha Ezihamba Phansi	11573
 Imperial PhD	14706
@@ -736,6 +738,7 @@ MPI Electronic Master Patient Index PHISCs	396
 MPSS Minimum Physical Security Standards MTDP	5533
 MRV4Tanzania Inception Phase	8561
 MRV4Tanzania Inception Phase UNDP	8561
+MSMEs. The Phase	17684
 MSP Modules de Sécurité Physique HSM Hardware	15472
 MSc and PhD Scholarship Call	12361
 MTN Ghana Backs Phased SIM Re-Registration	5524
@@ -834,6 +837,8 @@ Mogalakwena. Phase	11248
 Monitoring Locations Incident Response Processes Physical	6432
 Monitoring Phase	17157
 Monrovia Liberia Phone	17364
+Monsieur Euloge Philibert Mahutin Comlan QUENUM	17584
+Monsieur Philippe DAHOUI	17584
 Montserrado and Phebe	16971
 Morocco and Philippines	6692
 Mozambique. Phone	12207
@@ -841,6 +846,7 @@ Mr. Dawit Phillipos	14081
 Mr. Elhanan Owureku Asare and Mr. Philip	11699
 Mr. Gilbert A. Phiri SC	13466
 Mr. Philemon Machaine	13610
+Mr. Philip Gamey	17553
 Mr. Philip Kwaw Sebuabe	8697
 Mr. Philippe Branchat	14021
 Mr. Phineas Sithole	13397
@@ -1030,6 +1036,7 @@ PHASED IMPLEMENTATION SCHEDULE AND MILESTONES	3861
 PHASED MIGRATION TIMELINE	6432
 PHASES OF IMPLEMENTATION FRAMEWORK	961
 PHASOAC	16250
+PHATHISANI MOYO	17728
 PHATSIMO KAPENG AAAS Energy	3708
 PHB Banque des Etats	11944
 PHB Development	11944
@@ -1254,7 +1261,7 @@ Pharmacy and Poisons Act	2709,7145,1
 Pharmacy and Poisons Board	2709,1444,5701,1,1309,104,317,558
 Pharmexcil	16331
 Phasage	12043
-Phase	51,3,1,3,1,1,46,16,4,1,35,19,1,3,5,3,1,6,8,20,1,15,1,2,10,3,26,14,2,1,9,4,1,20,2,3,16,2,2,1,32,25,1,38,43,4,45,1,1,1,45,37,9,1,1,3,3,5,30,1,26,77,13,1,52,41,60,2,8,36,14,70,65,63,47,25,42,58,21,154,32,17,26,10,54,1,42,21,10,33,4,82,92,139,43,1,134,37,21,164,99,155,46,75,156,14,19,41,30,25,33,363,21,10,64,102,82,666,20,300,59,36,251,5,48,36,44,101,105,143,48,21,1,34,13,62,38,4,132,16,130,257,10,97,126,272,26,197,49,325,12,43,332,42,55,251,251,86,32,32,56,81,10,271,273,273,125,22,376,160,221,47,127,104,6,54,94,10,17,134,2,1,2,73,11,16,9,3,84,2,7,76,135,238,67,6,53,22,2,40,26,37,132,20,34,26,14,22,34,33,1,29,69,1,18,1,35,27,2,47,9,1,8,2,4,74,228,48,9,6,13,47,5,16,2,20,1,14,4,28,23,65,116,1,9,54,23,20,66,9,19,87,103,200,14,74,127,179,108,59,5,1,1,56,20,8,2,23,22,50,3,63,1,4,11,21,45,10,1,18,24,17,7,32,32,25,12,37,51,5,7,275,39,19,17,34,30,1,41,30,9,17,12,101,13,23,90,57,2,70,72,30,6,59,32,36,132,86,12,1,91,80,7,7,26,1,68,120,11,4,3,2,9,70,11,7,3,3,7,64,31,37,33,1,96,22,3,44
+Phase	51,3,1,3,1,1,46,16,4,1,35,19,1,3,5,3,1,6,8,20,1,15,1,2,10,3,26,14,2,1,9,4,1,20,2,3,16,2,2,1,32,25,1,38,43,4,45,1,1,1,45,37,9,1,1,3,3,5,30,1,26,77,13,1,52,41,60,2,8,36,14,70,65,63,47,25,42,58,21,154,32,17,26,10,54,1,42,21,10,33,4,82,92,139,43,1,134,37,21,164,99,155,46,75,156,14,19,41,30,25,33,363,21,10,64,102,82,666,20,300,59,36,251,5,48,36,44,101,105,143,48,21,1,34,13,62,38,4,132,16,130,257,10,97,126,272,26,197,49,325,12,43,332,42,55,251,251,86,32,32,56,81,10,271,273,273,125,22,376,160,221,47,127,104,6,54,94,10,17,134,2,1,2,73,11,16,9,3,84,2,7,76,135,238,67,6,53,22,2,40,26,37,132,20,34,26,14,22,34,33,1,29,69,1,18,1,35,27,2,47,9,1,8,2,4,74,228,48,9,6,13,47,5,16,2,20,1,14,4,28,23,65,116,1,9,54,23,20,66,9,19,87,103,200,14,74,127,179,108,59,5,1,1,56,20,8,2,23,22,50,3,63,1,4,11,21,45,10,1,18,24,17,7,32,32,25,12,37,51,5,7,275,39,19,17,34,30,1,41,30,9,17,12,101,13,23,90,57,2,70,72,30,6,59,32,36,132,86,12,1,91,80,7,7,26,1,68,120,11,4,3,2,9,70,11,7,3,3,7,64,31,37,33,1,96,22,3,44,248,96,4,32
 Phase Action Responsable Constitution Création	10876
 Phase Apparition Création	14488,1,1
 Phase Approval FY Indicative	1264
@@ -1285,7 +1292,7 @@ Phase I of Malawi National Fibre Backbone	127
 Phase I of Operation Vulindlela	11236
 Phase I of Smart Zambia National ICT	59
 Phase I. Representatives	7963
-Phase II	109,84,1,289,416,62,98,95,260,118,22,260,432,4,1471,964,991,179,38,136,1515,165,254,203,433,1048,1194,13,277,18,714,28,364,357,448,63,118,153,138,235,272,527,264,58,97,100,426,466,242,125,270,329,10,20,12,26,94,130,69
+Phase II	109,84,1,289,416,62,98,95,260,118,22,260,432,4,1471,964,991,179,38,136,1515,165,254,203,433,1048,1194,13,277,18,714,28,364,357,448,63,118,153,138,235,272,527,264,58,97,100,426,466,242,125,270,329,10,20,12,26,94,130,69,248
 Phase II African Development Bank	803
 Phase II Bill	1501
 Phase II Contract	8166
@@ -1414,7 +1421,7 @@ Phasing Out the Past	6051
 Phasing Policies and Strategies	16858
 Phasing and Rollout of NSDS III	17116
 Phasing and Rollout of NSDS III NSDS III	17116
-Phathisani Moyo	2910,350,44,26,199,368,187,111,740,214,240,4,68,1155,668,98,195,446,10
+Phathisani Moyo	2910,350,44,26,199,368,187,111,740,214,240,4,68,1155,668,98,195,446,10,9695
 Phathiswa Magopeni-Press Council	10729
 Phathwa	11551
 Phatudi Kgomo	10102
@@ -1448,6 +1455,7 @@ Philadelphia	5242,4946
 Philadelphia Google Scholar Wang F	9739
 Philanda Christiaan	12920
 Philani Godfrey Mavundla	9968
+Philani Mpanza	17592
 Philanthropic	6668,1942
 Philanthropic Aren't	38
 Philanthropic Development Harmonized	7548
@@ -1461,6 +1469,7 @@ Philemon BP	13453
 Philemon YANG	15378
 Philip	4432,5307
 Philip AKuai	7249
+Philip Abdallah Omoromoi	17676
 Philip Amoateng	10249
 Philip Bangura	9765
 Philip Besiimire	5715,4963
@@ -1482,7 +1491,7 @@ Philip Riches KC	1829
 Philip Sauerbaum	961
 Philip T. Singbah	17306
 Philip Thigo	5239,3022
-Philip Twum	7579
+Philip Twum	7579,10105
 Philip. Disrupt Africa’s African Tech Startups	9739
 Philipos Petros Gile	12231
 Philipp	6985
@@ -1584,10 +1593,10 @@ Philémond	15615
 Phindile Baleni	11940
 Phiona Nyamutoro	6435
 Phionah Natukunda	3726
-Phiri	5595,437,479,298,1766,368,4222
+Phiri	5595,437,479,298,1766,368,4222,4545
 Phiri Cawe South Africa	5600
 Phiri Mambo	8377
-Phishing	1686,1130,2861,2345,1111,664,1356,1306,218,251,574,1368
+Phishing	1686,1130,2861,2345,1111,664,1356,1306,218,251,574,649,719
 Phishing Article	14870
 Phishing Attack for Financial Institution	13532
 Phishing Toute	14870
@@ -1604,7 +1613,7 @@ Pholile Shakantu	13170
 Pholosong	11986
 Phomane	3183
 Phomolong	8597
-Phone	582,193,488,515,530,468,1146,120,108,289,355,289,596,914,253,773,267,68,173,203,1663,819,44,121,56,3,565,278,73,4,8,182,156,57,44,57,116,468,139,198,80,153,52,660,67,254,134,3,1,50,329,102,205,250,30,623,223,202,68,18,214,9,6,131,185
+Phone	582,193,488,515,530,468,1146,120,108,289,355,289,596,914,253,773,267,68,173,203,1663,819,44,121,56,3,565,278,73,4,8,182,156,57,44,57,116,468,139,198,80,153,52,660,67,254,134,3,1,50,329,102,205,250,30,623,223,202,68,18,214,9,6,131,185,106
 Phone Application for Weather Information	16947
 Phone Calls	14515
 Phone Home	4842
@@ -1683,7 +1692,7 @@ Phyllis Kyomuhendo	5875
 Phyllis Migwi	11777
 Phyllis Wakiaga	9930
 Phyneche Sagesse	16100
-Physical	21,715,487,591,174,3677,14,21,563,803,405,77,1425,10,140,939,533,126,54,1,218,186,8,81,20,21,553,3,86,4,85,144,29,39,49,27,131,1,407,67,4,34,64,43,105,276,1,76,486,522,183,13,137,42,83,23,31,106,42,136,30,39,733,351,377,6,22,88,126,25,302
+Physical	21,715,487,591,174,3677,14,21,563,803,405,77,1425,10,140,939,533,126,54,1,218,186,8,81,20,21,553,3,86,4,85,144,29,39,49,27,131,1,407,67,4,34,64,43,105,276,1,76,486,127,395,183,13,137,42,83,23,31,106,42,136,30,39,733,351,377,6,22,88,126,25,302
 Physical Access Management	10721
 Physical Accessibility	13938
 Physical Address	736,1141,10523,631,6
@@ -1938,6 +1947,7 @@ SONNES PHYSIQUES EN REPUBLIQUE DE GUINEE	16651
 SPIDER Phase-out Support	944
 SPLK Substation Phase	12358
 SPORTS ET DE L'EDUCATION PHYSIQUE	15999
+STEPS FOR PHYSICAL INSPECTION	17537
 STIAS Photograph	4448
 SUPPORT OF THE THIRD PHASE	15372
 Safari. Mobile Phones	13037
@@ -2067,6 +2077,7 @@ Themba Busika Financial Stability Phetsile Khumalo	11131,3
 Theme Communicate Phone	8603
 Theme Phase	16858
 Third Phase	2195,13177
+Throughout Phase	17552
 Thuraya Satellite Phone and BrainSAT Satellite Services	6980
 Thuraya Satellite Phones and BrainSAT Satellite Services	11290
 Thutha Ezihamba Phansi	11551
@@ -2110,7 +2121,7 @@ UVI54410 Pharmaceutical	11258
 UVRE DE LA PHASE PILOTE MINISTERE	15639
 UVRE DES ACTIVITES DE LA PHASE	15639
 Under Digital Malawi Phase	1704
-Under Phase	13504
+Under Phase	13504,4180
 Under Phase II	6946
 UniPods. Phase	1564
 Union. Phase	12971

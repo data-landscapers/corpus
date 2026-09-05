@@ -71,7 +71,7 @@ Free Movement of Labour The EAC Partner	12164
 Free Movement of People	12227,4647
 Free Movement of People Across Africa	12227
 Free Movement of People and Goods	16874
-Free Movement of Persons	961,6491,2865,3722,370,2465
+Free Movement of Persons	961,6491,2865,3722,370,2465,709
 Free Movement of Persons and Transhumance	10317,3722
 Free Movement of Such Data	14434
 Free Movement of Workers	12164
@@ -125,6 +125,7 @@ Mongo-Kamba Movis	15379
 Mov. Avg	1828
 Movable	14345,368,149,135,2238
 Movable Property	12598,701,1698,17
+Movable Property Act	7763
 Movable Property Registry System	14761
 Movable Property Security Interests Act	13333
 Movable and Immovable Property Database	14713
@@ -132,6 +133,8 @@ Move Africa Gabon Télécom	2263
 Move Beyond Laws	5910,491
 Move Document COVID-19	17323,1
 Move Elsewhere	16902
+Move Freely	17582,1
+Move Freely. Pay Seamlessly. Trade More	17582
 Move MFDP	17260
 Move Towards	16867
 Move and Wider Society	12227
@@ -258,6 +261,7 @@ Strategic Move National Talent Development	4528
 Structural Transformation and Moving	13320
 Structural Transformation and Moving the Economy	13320
 Sudan People's Liberation Movement	3583
+Sudan People’s Liberation Movement	17676
 Technology Gabon Moves	9837
 Telkom SA Movitel Mozambique TN Mobile	1013
 Temporary Movement of Natural Persons for Business Purposes	12389

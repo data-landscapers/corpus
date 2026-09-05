@@ -210,11 +210,11 @@ African Statistical Report	10776
 African Tech Ecosystem Report	8898
 African Tech Start-ups Funding Report	5214
 African Tech Startups Funding Report	4883,1,7492
-African Trade Report	7408,3310
+African Trade Report	7408,3310,6904
 Africa’s Investment Report. Retrieved	16942
 Age of AI. Human Development Report	6948
 Aggregate Reports	13910
-Agnes Boye-Doe Reporter	10112,410,619
+Agnes Boye-Doe Reporter	10112,410,619,6450
 Ahead Ahead Annual Integrated Report	11134
 Air Conditioning International Financial Reporting Standards	11134
 Airtel Africa Reports Robust Q1 Growth	7663
@@ -254,7 +254,7 @@ Annual Economic Review Survey and Report MFDP	17116
 Annual Education Census Report	12956
 Annual Education Report	10748
 Annual Education Sector Performance Reports	12175
-Annual Financial Inclusion Report	8135
+Annual Financial Inclusion Report	7763,372
 Annual Financial Report and Policy Statement	17138
 Annual Financial Sector Development Report. Non-Bank	17138
 Annual Fiscal Performance Report	15031
@@ -1029,6 +1029,7 @@ FINANCE REPORT Current Year Personnel	11131
 FINANCE REPORT Finance Report	11131
 FINANCE REPORT Liabilities Currency	11131
 FINANCIAL AUDIT REPORT ON THE CONSOLIDATED	13126
+FINANCIAL INCLUSION REPORT	7763
 FINANCIAL INFORMATION Report	11198
 FINANCIAL REPORT	12977
 FINANCIAL REPORT A. Summary of Recurrent Expenditure	12977
@@ -1205,6 +1206,7 @@ GBoS Reports	16927
 GEM Report Country Profiles. Egypt. Inclusion	15604
 GEM Report Fellowship Programme	899
 GII Report	11863
+GNA Reporter	17684
 GO Report	3972
 GOVERNMENT OF KENYA REPORT	14546
 GOVERNMENT PERFORMANCE REPORT FOR THE PERIOD	12950
@@ -1227,6 +1229,7 @@ Gap Analysis Report	1900
 Gap Report	11004
 Gartner Report	7548
 Gazette Notice. REPORT ON EFFECTIVENESS	14546
+Geita Annual Financial Inclusion Report	7763
 Gender Gap Report	11004
 Gender Gap Report Burundi	13358
 Gender Inequality Index. Human Development Reports	15725
@@ -1255,6 +1258,7 @@ Global Cybersecurity Index Report. Geneva	6936
 Global Digital Reports	2504,1,1413,1,1,6939,1143,439,2579,2060
 Global Education Monitoring Report	13477,461,1226,1745
 Global Education Monitoring Report. Paris	6832
+Global Financial Development Report	7763
 Global Financial Stability Report	11140
 Global Funding Report	4972
 Global Funding Report Africa	4972
@@ -1388,9 +1392,10 @@ IITPSA-ICT-Skills-Survey-and-Research- Report.pdf InnoGlobal	6832
 IMF Country Report	10997,4755
 IMF Country Report No	969,859,2,9275,2519,244,866,43,252,12,432,279,1505,246
 IMF High-Level Summary Technical Assistance Report	1698
-IMF Report	10779
+IMF Report	10779,6889
 IMF Staff Country Reports Volume	13624
 IMF Technical Assistance Report No	16955
+IMF’s Report	17657
 IMPLEMENTATION COMPLETION AND RESULTS REPORT	13722,1163,63,563
 IMPLEMENTATION COMPLETION AND RESULTS REPORT D4740-GM	16952
 IMPLEMENTATION COMPLETION AND RESULTS REPORT IDA	13836
@@ -1816,6 +1821,7 @@ Microsoft Copilot and Google Gemini. Data Reportal	6232
 Microsoft’s Digital Defense Report	8711
 Microsoft’s Global AI Diffusion Report	10620
 Mid Year Public Debt Report	483
+Mid-Term Evaluation Report	17575
 Mid-Year Assessment Report of Parliament	11230
 Mid-Year Data Report	8955
 Mid-Year Global Update Report	9857
@@ -1907,6 +1913,7 @@ NDP's Annual Progress Report	16951
 NERC QUARTERLY REPORTS	12062
 NESA Quality Audit Report	14922
 NETWORK PERFORMANCE REPORT POLICY	3862
+NFIF3 Mid-Term Evaluation Report	17575
 NHSJS Reports	9739
 NIBSS Fraud Report	11138
 NIP Update Report	14774
@@ -2474,7 +2481,7 @@ Related Data Found Publications and Reports	11935
 Related Report	1250
 Remuneration Report	7204
 Repor	16944
-Report	171,55,10,23,320,3,4,198,115,41,21,1,257,18,6,7,14,290,74,58,18,73,32,9,20,106,44,303,16,27,8,131,22,232,48,250,26,111,294,92,35,95,36,46,152,60,5,150,155,3,72,262,34,23,100,85,22,13,76,272,119,235,77,5,203,30,318,1,148,28,24,9,69,78,83,123,38,114,32,173,47,254,96,25,204,123,36,50,348,151,121,105,177,9,128,42,61,77,165,59,8,302,22,11,277,14,93,1,61,95,38,39,40,36,255,42,1,1,10,1,46,7,11,1,29,8,59,26,22,32,11,103,3,22,39,2,14,7,6,26,9,6,20,1,3,43,137,77,4,2,11,9,81,148,54,2,5,1,6,36,13,6,31,1,8,20,4,10,10,130,13,24,1,25,9,4,6,7,13,1,10,2,48,15,6,3,2,9,31,21,15,9,3,11,9,1,8,1,8,47,169,5,64,10,139,6,12,15,19,7,5,11,2,8,5,28,35,14,26,31,7,4,104,3,58,23,1,1,2,1,16,14,1,35,6,5,28,23,9,3,6,11,21,19,11,43,40,33,5,143,50,23,25,72,18,14,2,17,7,7,99,155,159,111,7,23,90,57,11,2,2,4,3,1,2,10,3,12,4,9,7,25,1,16,8,1,14,30,5,4,35,3,19,11,1,27,4,37,29,57,9,34,1,80,128,43,9,23,27,6,11,2,20,1,36,33,26,12,42,48,14,176,4,64,30,48,97,43,106,91,52,164,26,28,21,157,11,15,3,2,9,4,7,2,42,15,5,3,18,2,1,7,18,41,6,56,15,5,17,3,1,27,13,39,16,1,24,25,4,3,25,6,1,43,37,37,26,3
+Report	171,55,10,23,320,3,4,198,115,41,21,1,257,18,6,7,14,290,74,58,18,73,32,9,20,106,44,303,16,27,8,131,22,232,48,250,26,111,294,92,35,95,36,46,152,60,5,150,155,3,72,262,34,23,100,85,22,13,76,272,119,235,77,5,203,30,318,1,148,28,24,9,69,78,83,123,38,114,32,173,47,254,96,25,190,14,123,36,50,348,151,121,105,177,9,128,42,61,77,165,59,8,302,22,11,277,14,93,1,61,95,38,39,40,36,255,42,1,1,10,1,46,7,11,1,29,8,59,26,22,32,11,103,3,22,39,2,14,7,6,26,9,6,20,1,3,43,137,77,4,2,11,9,81,148,54,2,5,1,6,36,13,6,31,1,8,20,4,10,10,130,13,24,1,25,9,4,6,7,13,1,10,2,48,15,6,3,2,9,31,21,15,9,3,11,9,1,8,1,8,47,169,5,64,10,139,6,12,15,19,7,5,11,2,8,5,28,35,14,26,31,7,4,104,3,58,23,1,1,2,1,16,14,1,35,6,5,28,23,9,3,6,11,21,19,11,43,40,33,5,143,50,23,25,72,18,14,2,17,7,7,99,155,159,111,7,23,90,57,11,2,2,4,3,1,2,10,3,12,4,9,7,25,1,16,8,1,14,30,5,4,35,3,19,11,1,27,4,37,29,57,9,34,1,80,128,43,9,23,27,6,11,2,20,1,36,33,26,12,42,48,14,176,4,64,30,48,97,43,106,91,52,164,26,28,21,157,11,15,3,2,9,4,7,2,42,15,5,3,18,2,1,7,18,41,6,56,15,5,17,3,1,27,13,39,16,1,24,25,4,3,25,6,1,43,37,37,26,3
 Report ACCOUNTABILITY Code of Conduct	1988
 Report About CBE Performance Highlights Governor	11131
 Report Access The Nigerian Innovation Hub	12053
@@ -2691,6 +2698,7 @@ Reported. A Pre	11233
 Reported. Unless the Reporting Financial Institution	11233
 Reportedly	16996
 Reporter	3154,2579,1000,1914,1049,323,610,1,1592,298,145,10,2090
+Reporter DJIBOUTI	17593
 Reporter Ethiopia	5248,970
 Reporter Lesotho	14198
 Reporter Magazine	12260
@@ -2829,7 +2837,7 @@ Reporting. The FM	15658,3
 Reporting. Under	8670
 Reportingguidelinesforclinicaltrialreports	8301
 ReportlngStatus of lnstitution	11180
-Reports	579,204,6,181,249,24,334,109,38,56,94,13,27,74,336,43,4,106,362,337,379,49,131,18,108,174,92,87,27,60,28,199,483,591,28,657,663,223,25,254,96,107,830,118,78,401,155,379,239,397,61,408,59,401,108,289,277,8,3,104,16,7,28,41,139,13,18,144,3,133,36,113,76,155,78,233,149,66,1016,30,135,151,1,23,12,33,78,35,27,9,29,34,59,334,38,11,5,40,143,2,336,48,97,265,191,243,68,16,24,10,50,88,15,129,151
+Reports	579,204,6,181,249,24,334,109,38,56,94,13,27,74,336,43,4,106,362,337,379,49,131,18,108,174,92,87,27,60,28,199,483,591,28,657,663,223,25,254,96,107,830,118,78,401,155,379,239,397,61,408,59,401,108,289,277,8,3,104,16,7,28,41,139,13,18,144,3,133,36,113,76,155,78,233,149,66,1016,30,135,151,1,23,12,33,78,35,27,9,29,34,59,334,38,11,5,40,143,2,336,48,97,265,191,243,68,16,24,10,50,88,15,129,151,163
 Reports Baseline	970
 Reports COERCION	2859
 Reports Education Sector Plan for Egypt Education	15604
@@ -2977,6 +2985,7 @@ STABILITY REPORT	6938
 STAFF REPORT	13741,127,1161,444,1736,48,246
 STAFF REPORTER The Ministry of Justice	13014
 STANFORD UNIVERSITY. Artificial Intelligence Index Report	2816
+STAR REPORTER	17658,30
 STATISTICAL REPORT BIRTH REGISTRATION Copyright	15628
 STATISTICAL YEARBOOK ON SMESEHs ANALYSIS REPORT	10980
 STATISTICS REPORTING FORM	14528
@@ -2987,7 +2996,6 @@ SUDAN FAMILY SUPPORT PROJECT Report	14948
 SUDAN PAYMENT INFRASTRUCTURE ASSESSMENT REPORT	14909
 SURVEY REPORT Author	1938
 Sahara Reporters	7458
-Salaam. Reports	7763
 Salary Review Report	13123
 Salary Survey Report and Revised Compensation Policy	15023
 Sample Form of Evaluation Report	11525

@@ -28,6 +28,7 @@ Department of Social Welfare and Royal Eswatini Police	12977
 Directives Royales	2696
 Director Mr Roy Chimanikire Nil Nil	4896
 Discours Royal	8891,8601
+Décret Royal	17535
 Econet InfraCo Mr Roy Chimanikire Cleopas	4896
 Emergency Services Eswatini Royal Police Services	11131
 Eswatini Royal Insurance Corporation	11134
@@ -162,7 +163,7 @@ Royal Palace Hotel de Bujumbura	13689
 Royal Road	14738,109
 Royal Science	12361,83,527
 Royal Science Technology Park	12348,13,589,20,7
-Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214,763,3,11,19,459,18,4,22,5,50,79,68,68
+Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214,763,3,11,19,459,18,4,22,5,50,79,68,68,4356
 Royal Science and Technology Park National Data	12944
 Royal Science and Technology Park and UNDP Eswatini	4866
 Royal Science and Technology Park-Business Incubator	12401
@@ -190,7 +191,9 @@ Royaume HachÈmite de Jordanie	15410
 Royaume de Bahreïn	8239
 Royaume de Belgique	13547,13,1982,1205
 Royaume de Norvège	10712
-Royaume des Pays-Bas	5531,187
+Royaume des Pays-Bas	5531,187,11971
+Royaume des Pays-Bas. Au-delà	17689
+Royaume des Pays-Bas. Une	17689
 Royaume du Maroc	308,121,118,3,18,20,850,4307,233,1926,333,154,282,218,1821,1030,96,2820,1149,1633,3,9,12,1,6,12,29,14
 Royaume du Maroc Administration des Douanes	17485
 Royaume du Maroc URL	17449
@@ -239,4 +242,5 @@ Up Tishen Ganesh Hurree Ramnarain Roy	14745
 Vision Royale	17512
 Volonté Royale	17469
 Volonté Royale. Cette	17469
+Vu le Décret Royal	17535
 Zambia Royd Malisase The University of Zambia	12467

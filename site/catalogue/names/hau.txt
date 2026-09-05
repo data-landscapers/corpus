@@ -34,6 +34,7 @@ DRS Haut	15712
 DRS Haut Sassandra	15712
 DRSP Haute Matsiatra	14568
 Dandé Houet Hauts-Bassins	15715
+Dans le Haut-Uele	17638
 Directeur Provincial Haut Ogooué	16175
 Djigouèra Kénédougou Hauts-Bassins	15715
 Dotation Haute	16047
@@ -123,7 +124,7 @@ Haut-	15848
 Haut- Commissariat des Nations Unies	15724
 Haut-Canada	15670
 Haut-Commissaire	3520,2919,11050
-Haut-Commissariat	4585,1,2,890,941,765,1453,254,515,6442,153,493,256,30,668,26,15,3,34,2,1
+Haut-Commissariat	4585,1,2,890,941,765,1453,254,515,6442,153,493,256,30,668,26,15,3,34,2,1,100
 Haut-Commissariat Na	10826
 Haut-Commissariat des Nations	13300
 Haut-Commissariat des Nations Unies	8891,1983,39,4580,570,187,496
@@ -132,7 +133,7 @@ Haut-Commissariat. Cette	16001
 Haut-Congo	11934,4036
 Haut-Conseil	15673
 Haut-Conseil. Il	15673
-Haut-Katanga	1867,8057,1958,36,3752,387,365
+Haut-Katanga	1867,8057,1958,36,3752,387,365,1216
 Haut-Katanga. Répondant	16420
 Haut-Lomami	8834,4585,2251
 Haut-Mbomou	15620,38,180
@@ -141,7 +142,7 @@ Haut-Ogooué	6818,4262,4848
 Haut-Ogooué. Dans	11322
 Haut-Oubangui	15658
 Haut-Sassandra	15711,1
-Haut-Uele	10625,5045
+Haut-Uele	10625,5045,1968
 Haut-Uélé	15670
 Haut-commissaire	4955,2076,21,1585,7211
 Haut-commissariat	4955,10893
@@ -269,10 +270,11 @@ La Haute Cour du Territoire	13483
 La Stratégie Nationale du Haut-Débit	13853
 Le Haut	15454
 Le Haut Conseil	6761,1407,7435
-Le Haut-Commissariat	7655,2957,5882
+Le Haut-Commissariat	7655,2957,5882,1135
 Le Haut-Commissariat des Nations	2448
 Le Haut-commissariat	7185
 Le Parc Très Haut	15706
+Le Proved du Haut-Katanga	17638
 Les Moyen Haute	15493
 Libreville le Haut-Commissaire	16282
 Long Haute	15493

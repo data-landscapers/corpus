@@ -61,12 +61,15 @@ KYC Aug	10582
 KYC Cost Compression	12122
 KYC Education Credit	12214
 KYC External Dispute Resolution P2P Person-to-Person	12444
+KYC FACE VERIFICATIONS CORRECTLY	17537
+KYC FINGER VERIFICATIONS CORRECTLY	17537
 KYC Fraud Detection	4848
 KYC Given	11130
 KYC Improved All	14997
 KYC KIFC	14997
 KYC KYC	11960
 KYC Know	11994,1748
+KYC Know Your Customer	7763
 KYC Know Your Customer LMP Labor	15518
 KYC Know Your Customer LTE Long	16942
 KYC Know Your Customer MICS Multiple	15415
@@ -79,6 +82,7 @@ KYC Procedures. A Day Two Process	11233
 KYC Service	12274
 KYC System	3117
 KYC Utilities	10819
+KYC VERIFICATIONS CORRECTLY	17537
 KYC and AML	10718,412,731,2328,808
 KYC and Aadhaar	7981
 KYC and Anti-Money Laundering	11976

@@ -438,6 +438,7 @@ Financial Lending Conditions Index	17317
 Financial Reporting Standard IPPs Independent Power	12399
 Financial Stability Framework Index	6938
 Financial Stability Index	6938
+Financial System Stability Index	7763
 Firearm Index	14760
 First Quarter African Prepaid Pricing Index	236
 Flood Index and Pastoral Index	14254
@@ -523,7 +524,7 @@ Global Competitiveness Index GDP Gross Domestic	15491
 Global Computing Power Index Assessment	15713
 Global Crypto Adoption Index	6679,2551,479
 Global Cyber Security Index	14897,100,1644
-Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14
+Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58
 Global Cybersecurity Index Report. Geneva	6936
 Global Cybersecurity Index. Experts	2703
 Global Cybersecurity Index. Link	16942
@@ -779,7 +780,7 @@ Indecent	587,16252
 Indecis Q56 Pensez-vous	13390
 Indecis Q57 Pensez-vous	13390
 Indecisive	10841
-Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220
+Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2
 Indeed NBR	15023
 Indefeasible Right of Use	7014,5239
 Indefeasible Rights of Use	4676,10289
@@ -814,7 +815,7 @@ Indepay	11994
 Indepay Introduces Zero-Fee Digital Payments Platform	11994
 Independamment	15584
 Independant Power Producer MEFP Ministère	15769
-Independence	718,502,2166,116,359,1035,2216,62,277,1202,929,731,27,35,756,1196,62,564,6,336,19,163,471,493,105,231,85,1394,29,558,18,55,69,256,123
+Independence	718,502,2166,116,359,1035,2216,62,277,1202,929,731,27,35,756,1196,62,564,6,336,19,163,471,493,105,231,85,1394,29,558,18,55,69,256,123,254
 Independence AC	13298
 Independence Anniversary	13024
 Independence Anniversary. Awoonor	5277
@@ -842,7 +843,7 @@ Independence of Data Collection	14828,3
 Independencia	16898
 Independencia Energética	17399
 Independency	16863
-Independent	2423,286,2044,240,463,209,11,711,45,31,353,169,162,26,132,132,529,17,105,213,164,163,208,30,257,276,74,127,60,59,543,51,27,453,213,1,9,115,3,22,24,116,12,277,106,13,123,30,48,7,88,95,261,144,52,501,42,192,174,1619,40,29,514,1170,7,3,5,54,41,75,77
+Independent	2423,286,2044,240,463,209,11,711,45,31,353,169,162,26,132,132,529,17,105,213,164,163,208,30,257,276,74,127,60,59,543,51,27,453,213,1,9,115,3,22,24,116,12,277,106,13,123,30,48,7,88,95,261,144,52,501,42,192,174,1619,40,29,514,1170,7,3,5,54,41,75,77,623
 Independent Administrator	170
 Independent Advisory Board of Experts	4528,7984
 Independent Appeal Committee	15126
@@ -878,7 +879,7 @@ Independent Commission for Peace and National Cohesion	7452
 Independent Commissions	13381,10,110
 Independent Commissions and Traditional	13533
 Independent Communications Authority of SA	5175,437,4517
-Independent Communications Authority of South Africa	926,31,738,115,2,757,368,7,2,1296,490,328,132,406,19,191,64,118,193,284,424,160,372,404,1,22,130,109,41,31,12,62,163,203,67,173,76,412,430,777,659,16,9,10,5,27,705,2271,30,187,238
+Independent Communications Authority of South Africa	926,31,738,115,2,757,368,7,2,1296,490,328,132,406,19,191,64,118,193,284,424,160,372,404,1,22,130,109,41,31,12,62,163,203,67,173,76,412,430,777,659,16,9,10,5,27,705,2271,30,187,238,3031
 Independent Communications Authority of South Africa Act	5872,1956,3407
 Independent Communications Authority of South Africa ICT	6832
 Independent Communications Authority of SouthAfrica	12325
@@ -940,7 +941,7 @@ Independent Monitoring Mechanism	14743
 Independent Monitoring Mechanism PART II	14743
 Independent Monitoring and Evaluation Framework	11857
 Independent National Commission	14862,2081,27,326
-Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317,558,735
+Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317,558,735,5766
 Independent News	2885,1650,350,49,187,653,25,474,547,1,222,5934
 Independent News Business Desk	11048
 Independent News Eswatini	2885,1650,350,49,187,653,25,474,547,1,222
@@ -1012,7 +1013,7 @@ Indetermin	10847
 Indeterminé BOUCLE DU MOUHOUN	10847
 Indeterminé Total Région	10847
 Indeterminé ZOUNDWEOGO	10847
-Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,1229,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111,7,203,43,427,25,108,323,247,247,21,71,38,38,242,285,16,182,492,45,21,7,2,86,60,60,346
+Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,101,1128,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111,7,203,43,427,25,108,323,247,247,21,71,38,38,242,285,16,182,492,45,21,7,2,86,60,60,346
 Index A. REQUEST FOR PROPOSAL FORM	12400
 Index All Students	13556
 Index Country Policy and Institutional Assessment	643
@@ -1254,6 +1255,7 @@ Notre Dame Global Adaptation Index.16 Rising	13331
 Notre Dame Global Adaptation Initiative Index	11965,1146,4146
 Notre Dame Global Adaptation Initiative's Index	6539
 Notre Dame Global Adaptation Initiative’ Index	17458
+NÃO COMPROVADO DE FORMA INDEPENDENTE	17541
 O GovTech Maturity Index	11569
 OECD Digital Government Index	15713
 OECD Digital Services Trade Restrictiveness Index	1031
@@ -1448,6 +1450,7 @@ SUDAN MULTIDIMENSIONAL POVERTY INDEX	15244
 SWIFT Infrastructure Strengthened and Independently Assured	11134
 Safety Index	14742
 Saint Lucia Global Cybersecurity Index	10764
+Salieu Njie The Independent Electoral	17654
 Samoa Global Cybersecurity Index	10764
 Saudi Arabia Global Cybersecurity Index	10764
 School Attendance Gender Parity Index	13399
@@ -1529,8 +1532,8 @@ TRANSMISSION SYSTEM AVAILABILITY INDEX	14867
 TV EGDI E-Government Development Index EIGRP	16942
 Table Index Table	11955
 Tajikistan Global Cybersecurity Index	10764
-Tanzania Financial Inclusion Index	7763
-Tanzania’s Financial Inclusion Index	8135
+Tanzania Financial Inclusion Index	7763,9812
+Tanzania’s Financial Inclusion Index	7763,372
 Teacher Professional Development Index	13392
 Teacher Proficiency Development Index	13477
 Technical Note. Multidimensional Poverty Index	15244
@@ -1645,6 +1648,8 @@ WIPO Global Innovation Index	1394,1,1,1,724,1
 WSIS Implementation Maturity Index	7172
 Washington. Indeed	8014
 Wealth Index	15247
+Weather Index Insurance	7763
+Weather Index Insurance Welfare	7763
 Weighted Mean Vegetation Health Index	11762,1988
 Weighted Mean Vegetation Health Index Agricultural	11762,1988
 Wellness Index	9045

@@ -94,7 +94,7 @@ Nva. Ant	4209
 Nvedja	4209
 Nviayong	4209
 Nviayong Kogo	4209
-Nvidia	3554,42,838,499,283,148,382,26,460,35,144,152,40,187,89,15,280,35,128,452,999,239,142,115,345,375,1046,85,605,370,1351,1212
+Nvidia	3554,42,838,499,283,148,382,26,460,35,144,152,40,187,89,15,280,35,128,452,999,239,142,115,345,375,1046,85,605,370,1351,1212,3022
 Nvidia B300 GPUs	5482
 Nvidia Blackwell	9629
 Nvidia Blueprints	6593
@@ -105,6 +105,7 @@ Nvidia GPUs. Smith	5161
 Nvidia H100 GPUs	4425
 Nvidia H100 and H200	7789
 Nvidia H100s	4425
+Nvidia and AMD	17695
 Nvidia and Cassava Technologies	5364
 Nvidia and Lloyds Capital	5798
 Nvidia and Nexus Core Systems	10136

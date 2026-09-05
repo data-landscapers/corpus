@@ -304,7 +304,7 @@ IA. Investir	2816
 IA. Isso	3519
 IA. L'IA	13476
 IA. L'enjeu	10205
-IA. L'objectif	5786
+IA. L'objectif	5786,11857
 IA. L'organisation	9167
 IA. L'étude	9541,2564
 IA. Le Dr Kais Hammami	13728
@@ -349,6 +349,7 @@ IA. Segundo	2816
 IA. Selon	6863,2431,4289
 IA. Sem	3519
 IA. Ses	3465
+IA. Si Djibouti	17738
 IA. Sur	15680
 IA. S’exprimant	7124
 IA. Tabela	2816
@@ -695,7 +696,7 @@ US CIA IaaS Centre	16923,1
 Uma IA	9558
 Under IAFS	16256
 Under IAFS-II	16256
-Une IA	3465,528,840,196,3190,7709
+Une IA	3465,528,840,196,3190,7709,1715
 Union IaaS Infrastructure	11196
 United States. IAFOR Journal of Psychology	2518
 Unlimited IAM	15471

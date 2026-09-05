@@ -486,7 +486,7 @@ Forecasts for LTE	236
 Forefront	17106,81,79
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
@@ -535,9 +535,11 @@ Foreign Currency Bank Account Restrictions	12389
 Foreign Currency Dealers78 Structure of Financial Sector	15023
 Foreign Currency FIRR Financial Internal Rate	11863
 Foreign Currency Holdings	2775
+Foreign Currency Regulations	7763
 Foreign Currency Revaluation Losses	17236
 Foreign Currency-Backed	12882
 Foreign Digital Services Guinea	6342
+Foreign Diplomats	17537
 Foreign Direct Investment	377,2494,991,462,204,1355,126,3752,1549,1066,299,310,138,409,1212,75,288,1865,3,21,130
 Foreign Direct Investment Agreements	12512
 Foreign Direct Investment Equatorial Guinea	16972
@@ -548,6 +550,7 @@ Foreign Direct Investment and Development	11310
 Foreign Direct Investment. Agriculture	17216
 Foreign Direct Investment. Local	17139
 Foreign Direct Investments	17011
+Foreign Directors	17537
 Foreign ESIM	6891
 Foreign ESIMS	6891
 Foreign ESIMs	6891
@@ -618,6 +621,8 @@ Foreign Ministry	14853,2172
 Foreign Ministry Asks Diplomatic Missions for Staff	10496
 Foreign Ministry and Chinese Ambassador	4630,50,637
 Foreign Missions	12496,4105,424
+Foreign National	17537
+Foreign National Permanently Resident	17537
 Foreign National Services	12227
 Foreign Nationals	12342,682
 Foreign Nationals Committed	2775
@@ -1199,7 +1204,7 @@ Ministry of Agriculture and Forestry	1161,10237
 Ministry of Education FOREWORD The Rwanda Education	12411
 Ministry of Environment and Forestry	3583,9106
 Ministry of Foreign	4126,7834
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366
 Ministry of Foreign Affairs Minister of Foreign	17110
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Mr. Adelaid Ben	13744
@@ -1214,6 +1219,7 @@ Ministry of Foreign Affairs and International Cooperation	4849,5628,708,1153,634
 Ministry of Foreign Affairs and International Trade	395,5155,9186
 Ministry of Foreign Affairs and Regional Integration	15430
 Ministry of Foreign Affairs of Benin	15587
+Ministry of Foreign Affairs of Burkina Faso	17596
 Ministry of Foreign Affairs of Comoros	13791
 Ministry of Foreign Affairs of Democratic Republic of Congo	16237
 Ministry of Foreign Affairs of Denmark	16592
@@ -1507,7 +1513,7 @@ Somalia Foreign Ministers	3637
 Soundness Indicators Foreign Exchange FS Gross	17235
 South African Forestry Company Limited	2626
 South African Statistics Council Foreword	11237
-South Sudan’s Ministry of Foreign Affairs	10599
+South Sudan’s Ministry of Foreign Affairs	10599,6958
 Speech Foreign Minister of Burundi	14724
 Spokesperson Sudan Under Secretary for Foreign Assistance	15092
 Sr. Forestry Development Authority	16853
@@ -1607,6 +1613,8 @@ Urban Flash Flood Forecasting System	14103
 V FOREWORD African	961
 V Foreword	14033
 VALORISATION DES RESSOURCES FORESTIÈRES LIGNEUSES ET	15999
+VERIFICATION PROCEDURES FOR FOREIGN DIPLOMATS	17537
+VERIFICATION PROCEDURES FOR FOREIGN NON-RESIDENTS	17537
 VII Foreword	16935
 VII Foreword VIII Executive Summary IX	13991
 VIII Foreword The Socioeconomic Statistical Bulletin	16935

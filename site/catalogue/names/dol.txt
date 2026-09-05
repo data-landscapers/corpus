@@ -39,8 +39,10 @@ Dola TAPSOBA	7670
 DolanSBCarnahanEShearerJCBeylerianENThompsonJGilbertSSet	8376
 Dolcants	9781
 Dolele Sylla	13861,3015
-Dolinveste	9399,591
+Dolinveste	9399,591,7551
 Dolinveste Lda	9399,591
+Dolinveste. Manuel Homem	17541
+Dolinveste. Segundo	17541
 Dolisie	2738,1063,11571,18,33,3,29,58,40,5,101,26,101,13,49,117,47,35,53,77,236
 Dolisie BM	16012
 Dolisie BM Equipe	16012
@@ -194,7 +196,7 @@ US Dollar Exchange Rate Variability	17235
 US Dollar and British Pound	17316
 US Dollar. Interest	11134
 US Dollar. Powering	8265
-US Dollars	1944,1188,2442,215,3880,84,207,138,2040,118,157,543,2100,1807,372,22
+US Dollars	1944,1188,2442,215,3880,84,207,138,2040,118,157,543,2100,1807,372,22,369
 US Dollars Goals Strategic Goal Description	17116
 US Dollars Three Hundred and Ninety Thousand	17099
 US Dollars and South African Rand	11134
@@ -208,6 +210,7 @@ USD United States Dollar USET University	17105
 USD United States Dollar VSLAS Village	17235
 USD United States Dollar VoIP Voice-over-Internet	12395
 USD United States Dollar WEO World	15023
+USD. The US Dollar	17626
 Union USD United States Dollar WACREN	11552
 United Dollars	736
 United States Dollar	4653,243,5869,10,2278,132,753,611,73,163,2193

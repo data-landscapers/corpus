@@ -61,8 +61,9 @@ Crypto. PIC	3289
 Cryptoactif	11944
 Cryptoasset Prudential	14844
 Cryptoassets	11821
-Cryptocurrencies	3057,1070,2811,1652,1116
+Cryptocurrencies	3057,1070,2811,825,827,1116
 Cryptocurrencies Taxed	14932
+Cryptocurrencies The Bank	7763
 Cryptocurrencies and Blockchain Technologies	16872
 Cryptocurrency	958,982,438,1313,436,721,5145,2416,4566
 Cryptocurrency How the CAR	4127
@@ -119,6 +120,7 @@ Prudential Treatment of Cryptoasset Exposures	14844
 Relativistic Cryptography	9698
 Reporting Crypto-Asset Service Providers	14828,3
 SERVICES DE CRYPTOLOGIE	15643
+Securing the Nation Against Advanced Cryptographic Attacks	17736
 Services de Cryptologie	15643
 South African Crypto Asset Service Provider	8840
 Strategies for Cryptography New Attacks. Skyrocketing Costs	3279

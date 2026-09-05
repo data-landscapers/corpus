@@ -44,6 +44,7 @@ BILLS REPORT STAGE The Geological and Minerals	13387
 Background The Liberia Institute of Statistics and Geo-	17127
 Based Violence GMIS Geological and Mineral Information	2889
 Bay Shoprite Thembalethu George Shoprite Vredenburg	8999
+Benjamin Rosman and George Konidaris	17700
 Biblioteca Geológica	1701
 Biological Diversity GIS Geographic Information System	15129
 BoFiNet Chief Executive Officer Dr Geoffrey	10050
@@ -61,6 +62,7 @@ Central Africa. Geography	11887
 Central Bank of Georgia	9709
 Centro de Documentación Geológica	1701
 Centro de Geodados	6610
+Chief Justice George Mcheche Masaju	17618
 Chris Hani Baragwanath Academic Hospital George	11248
 Christian Georges	16413
 Communication World Geodetic System Management	1009
@@ -92,6 +94,7 @@ De Duvidosa Segurança Geotécnica	15380
 Department of Geography	10812
 Department of Geology and Mines	2889
 Department of Geomatic Engineering	9561
+Department of Geomatics and Land Management	17735
 Desenho Geométrico	15772
 Development Despite New Geological Risks	5407,676
 Didier Georges	16005
@@ -271,7 +274,7 @@ Geografia	414,15358,1331
 Geografia da Conectividade Até	9559
 Geografia1	15772
 Geografía	16875,94
-Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214,145,605,666,415,48,75,168,101,7,234,318,854,38,215,18,128,26
+Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214,145,605,666,415,48,75,168,101,7,234,318,854,38,215,18,128,26,412
 Geographic Agent	12297
 Geographic Approach	11252
 Geographic Approach The EMR	11252
@@ -316,12 +319,15 @@ Geographic information system	5785
 GeographicReference	4856
 Geographical	10829,304,2,720,296,176,6,80,210,723,603,903,204,286,262,1263,11,64,5,210
 Geographical Constituency	14852
-Geographical Coverage	11955
+Geographical Coverage	7763,4192
 Geographical Coverage ATM	11955
+Geographical Coverage Delivery	7763
 Geographical Coverage of Terminals	11955
 Geographical Coverage of Terminals ISLANDS OF CV	11955
 Geographical Discrimination	226
 Geographical Disparities	15604
+Geographical Distribution of ATMs Region	7763
+Geographical Distribution of Bank Branches Regions	7763
 Geographical Distribution of Persons	12460
 Geographical Identifier	14456,510,836
 Geographical Identifier Ethiopia	14038
@@ -411,6 +417,8 @@ George Gor and Kofi Yeboah	8511
 George Gorekwang	12868
 George Guvamatanga	9904
 George Hotel	13043,154
+George Iwa	17557
+George Jobe	17569,142
 George Kaiga and Paul Nyokech	14640
 George Karippacheril	11156
 George Kieru	9545
@@ -446,6 +454,7 @@ George and Bennett	7451
 George and Gregory Cathbat	10412
 George and Janade du Plessis	7611
 George and Lefevre	9128
+George-Ramsey Benamba	17684
 Georgeline GUETOMBO	16175
 Georges	6731,8724,325,121,1041
 Georges Bernard MBAMI NDJAMBO	16175
@@ -815,7 +824,7 @@ Security and Climate Contexts Geopolitical	15604
 Segurança Geotécnica	15380
 Selon le Geo Factbook	11010
 Sen. George Akume	2934,9374
-Senator George Akume	2382,1321,399,3459,1420
+Senator George Akume	2382,1321,399,3459,1420,8590
 Service Description Under GEOGLAM	13094
 Servicio Geológico Nacional	9303
 Servicos Provinciais de Geografia	427

@@ -25,7 +25,7 @@ ATU Administrative Council	6488,1395,1,54
 ATU's Administrative Council. Looking	9756
 AU Executive Council	961,853,1348,961,611,3354,104,1430,2205,1236,417,648
 AU Executive Council Ninth Ordinary Council	16874
-AU Peace and Security Council	4535,12788,1
+AU Peace and Security Council	4535,12788,1,232
 About the Legal Practice Council	7278
 About the Research Council of Zimbabwe	1154,400
 Abuja Municipal Area Council	7235
@@ -264,7 +264,7 @@ Coordination Council	11006,5909
 Corporate Council	3093,4
 Cost Sources Technologies Council	7548
 CounCil of Ministers	11517
-Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60,107,1,11,1,10,3,51,1,99,8,179,146,15,44,8,7,468,3,76,27,71,212,75,13,12,127,40,29,34,50,1,4,16,1,2,4,26,5,1,20,12,20,9,4,8,50,100,4,6,228,128,538,149,152,319,281,41,4,5,24,9,2,40,31,17,44,33,87,38,180,81,3,7,55
+Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,162,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60,107,1,11,1,10,3,51,1,99,8,179,146,15,44,8,7,468,3,76,27,71,212,75,13,12,127,40,29,34,50,1,4,16,1,2,4,26,5,1,20,12,20,9,4,8,50,100,4,6,228,128,538,149,152,319,281,41,4,5,24,9,2,40,31,17,44,33,87,38,180,81,3,7,55,45
 Council ARTICLE	14409
 Council Act OAG Office	6432
 Council Administrations	15721
@@ -297,6 +297,7 @@ Council Management System Modernization	11231
 Council Meeting	9761,5033
 Council Member Mr. S Purdasseea Council	14736
 Council Ministers	4929
+Council NFIF National Financial Inclusion Framework	7763
 Council National AI	12356
 Council OHADA Organisation	15661
 Council Office BSTP Cameroon Bank for Small	10980
@@ -622,7 +623,7 @@ Examinations Council of Zambia Act No	13477
 Examinations Council of Zambia By Beulah Mofya	13477
 Examinations Council of Zambia Prof. Frank Tailoka	13477
 Examinations Council of Zambia. Candidates	13477
-Executive Council	961,282,4798,642,4225,274,103,848,1995,596,70
+Executive Council	961,282,4798,642,4225,274,103,848,1995,596,70,2762
 Executive Council Meeting	14794
 Executive Council of ASCON	7329
 Executive Council. H.E. Simeón Oyono Esono	8192
@@ -643,6 +644,7 @@ Federal Negarit Gazette. The Council	14122
 Filling of Council	12531
 Financial Inclusion Council	14040
 Financial Industry Cyber Council	4073
+Financial Literacy The National Council for Financial	7763
 Financial Market Council	6938
 Financial Reporting Council	9508,5339
 Financial Reporting Council of Nigeria	11866
@@ -676,6 +678,7 @@ Gabonese People The ITU Council	16802
 Gambia Banjul City Council Basse Area	16973
 Gambia College Council	16852
 Gender-Based Violence SSC Sector Skills Council	15604
+General Administration of Specialized Medical Councils	17562
 General Council	1243,4490,7652
 General Fund The Council	14735
 Ghana Medical and Dental Council	15927
@@ -983,7 +986,7 @@ Muslim Family Council	14714,1
 Mwandi Town Council	2386
 Même le National Wage Consultative Council	14841
 NAS Council	11129
-NATIONAL COUNCIL FOR FINANCIAL INCLUSION	7763
+NATIONAL COUNCIL FOR FINANCIAL INCLUSION ANNUAL	7763
 NATIONAL COUNCIL OF PERSONS WITH DISABILITIES	15036
 NATIONAL DATA GOVERNANCE COUNCIL	3861
 NATIONAL DISABILITY COUNCIL ACT	13033
@@ -1028,7 +1031,7 @@ National Children’s Council	14742,32
 National Communication Council	10370
 National Competitiveness Council	17139
 National Construction Council	1988
-National Council	1988,1640,498,3316,217,1289,1202,453,1257,144,304,19,29,626,66,48,405,520,580,696
+National Council	1988,1640,498,3316,217,104,1185,1202,453,1257,144,304,19,29,626,66,48,405,520,580,696
 National Council Industry Act	12253
 National Council for AI	15713
 National Council for Artificial Intelligence	6997,4138,4578,1,155,333,10
@@ -1044,7 +1047,8 @@ National Council for Construction Act No	1988
 National Council for Curriculum and Assessment	7492,8670
 National Council for Economic and Social Development	16958
 National Council for Emergency Relief and Rehabilitation	15621,696,67
-National Council for Financial Inclusion	7763,372
+National Council for Financial Inclusion	7763,372,9440
+National Council for Financial Inclusion Bank of Tanzania	7763
 National Council for Food Security	16384
 National Council for Higher Education	15164
 National Council for Human Rights	17441
@@ -1109,8 +1113,9 @@ National Disability Council Act	13033
 National Disability Council of Namibia PWD	13033
 National Disaster Risk Reduction and Management Council	14738
 National Economic Council	3456,3654,1097,1462,1457,828,5262
-National Economic Development Labour Council	11280
+National Economic Development Labour Council	11280,6440
 National Economic Development and Labour Council	6832
+National Economic Empowerment Council	7763
 National Electronic Government Council	12360
 National Emergency Response Council	13038
 National Employment Council	10963,1
@@ -1193,7 +1198,7 @@ Negarit Gazette. The Council	1964
 Niger's Council of Ministers	4394
 Nigeria's Federal Executive Council	12078
 Nigeria. Local Government Councils	11129
-Nigerian Export Promotion Council	10157,1869
+Nigerian Export Promotion Council	10157,1869,5626
 Nigeria’s Federal Executive Council	2472
 Nigerien Council of Ministers	4440
 Nkhotakota District Council	8575
@@ -1408,6 +1413,7 @@ Sioma Town Council	2386
 Skills Council	14997
 Skills Council Report and Ejo Heza	14997
 Skills Council Sector AR	14997
+Small and Medium-sized Enterprises NCFI National Council	7763
 Smart Africa Council of African Regulators	3549
 Smart Africa Education Council	4126
 Smart Africa SDG5 Global Council	7687
@@ -1437,6 +1443,7 @@ Spanish National Research Council MOU	1554
 Speaker of Nakisunga Subcounty Council	8352
 Special Council	15393
 Special Councils	15393
+Specialized Medical Councils	17562
 Staff Council	4553
 Stakeholder Engagement The Research Council of Zimbabwe	1154
 Standards Council	12526,2195,15,70
@@ -1499,7 +1506,7 @@ Supreme Council for Planning and Urban Development	15473
 Supreme Council for Planning and Urban Only	15473
 Supreme Council for Research Ethics Committee	15725
 Supreme Council of Digital Society	16212
-Supreme Council of Universities	16255
+Supreme Council of Universities	16255,1293
 Supreme Judicial Council	9064,6329,1871
 TABLINGS National Assembly and National Council of Provinces	11285,4
 TCRA Consumer Consultative Council	9970

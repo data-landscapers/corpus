@@ -146,7 +146,7 @@ Accord. Nous	15399
 Accord. Signé	15399
 Accordance	11853,3725,1230
 Accorder	7917,974,1985,2414,11,480,3667
-Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25,223,14,32,71,22,9,39,92,61,102,161,12,4,1,20,6,87,10,11,365,21,238,22,8,91,1,35,16,1,35,15,119,103,15,60,167,104,89,51,781,111,297,8,6,14,4,8,1,1,10,26,4,17,15,20,33,93,36,17,55,23,52,17,26,111
+Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25,223,14,32,71,22,9,39,92,61,102,161,12,4,1,20,6,87,10,11,52,313,21,238,22,8,91,1,35,16,1,35,15,119,103,15,60,167,104,89,51,781,111,297,8,6,14,4,8,1,1,10,26,4,17,15,20,33,93,36,17,55,23,52,17,26,111,144
 Accordingly--	17250
 Accords	2465,2896,1536,3929,50,47,599,1779,540,1261,24,268,5,30,27,124,23,2,394,296,342
 Accords Internatio	16645,6
@@ -162,7 +162,7 @@ Accouchement Accouchement Paludisme Paludisme	15599
 Accouchements	13300,3422
 Accoucheuse	13300
 Accoucheuses AFGRAD	13377
-Account	940,280,64,544,39,1716,638,1466,1590,1846,43,1797,1,13,161,95,722,1,20,367,141,849,1213,182,57,82,54,1,101,107,34,34,201,861,616,13,228,39,92,3,1,37,45
+Account	940,280,64,544,39,1716,638,1466,1590,486,1360,43,1797,1,13,161,95,722,1,20,367,141,849,1213,182,57,82,54,1,101,107,34,34,201,861,616,13,228,39,92,3,1,37,45
 Account Aggregator	3391,4590
 Account Balance Account Employee Salary	12360
 Account Balance CBR Central Bank Rate	11271
@@ -192,7 +192,7 @@ Account No	17334
 Account Number	4896,7504
 Account Number Type	11685
 Account Number UNIQUE Reference Number	12364
-Account Opening	14055
+Account Opening	14055,3482
 Account Ownership	1828
 Account Ownership1	1828
 Account PPDPA Public Procurement and Disposal of Public	13420
@@ -213,7 +213,7 @@ Account-to-Account and Wallet-to-Wallet	8708
 Account-to-Wallet	8708
 Account-to-account	8432
 Accountabilities	12359,2680
-Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23,56,32,7,43,55,26,4,3,2,16,68,6,295,335,6,4,16,1,1,1,7,11,49,52,131,14,1,4,5,13,9,29,88,39,11,1,3,97,35,12,12,40,123,252,19,23,3,32,263,54,24,4,32,11,82,85,48,54,567,206,7,83,22,19,550,1,542,3,184,81,117,817,25,1,37,1,25,19,7,3,7,265,30
+Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23,56,32,7,43,55,26,4,3,2,16,68,6,295,335,6,4,16,1,1,1,7,11,49,52,131,14,1,4,5,13,9,29,88,39,11,1,3,97,35,12,12,40,123,252,19,23,3,32,263,54,24,4,32,11,82,85,48,54,567,206,7,83,22,19,550,1,542,3,184,81,117,817,25,1,37,1,25,19,7,3,7,265,30,438
 Accountability Accountability	4563,9961,1321
 Accountability Article	15027
 Accountability Assessment Central African Backbone Program	15372
@@ -271,7 +271,7 @@ Accountability and Service	17106,81,79
 Accountability and Social Protection Press Release No	14642
 Accountability and Stewardship	15034
 Accountability and Sustainability	11867
-Accountability and Transparency	12500,918,1308
+Accountability and Transparency	12500,918,1308,2832
 Accountability and Transparency Accountability	12500
 Accountability and Transparency P9-29. Internal	12500
 Accountability and Transparency Social	12964
@@ -280,6 +280,7 @@ Accountability. Section PART VI DATA SUBJECT	13319
 Accountable	6792,4027,460,729,351,2207,369,229,1952
 Accountable Governance and Peacebuilding Green	16973
 Accountable Governance for Basic Service Delivery	2112
+Accountable Institutions	17537
 Accountable Owner	16924
 Accountable Public Institutions	11469
 Accountable and Capable State Institutions	14935
@@ -308,7 +309,7 @@ Accountants Transaction Date	4896
 Accountants and Auditors Act	3714
 Accountants’ and Auditors’ Act	3714
 Accountants’ and Auditors’ Regulatory Authority of Namibia	3714
-Accounting	22,1806,39,1737,110,1182,2044,1081,649,53,514,255,843,433,44,17,41,264,64,327,288,42,2,554,163,325,71,51,164,146,130,145,18,1042,109,402,195,39,107,35,105,3,240,243,122,612,29,42,62
+Accounting	22,1806,39,1737,110,1182,2044,1081,649,53,514,255,843,433,44,17,41,264,64,327,288,42,2,554,163,325,71,51,164,146,130,145,18,527,515,109,402,195,39,107,35,105,3,240,243,122,612,29,42,62
 Accounting Authority	7622,3576,52,2170
 Accounting Bureau	14952
 Accounting Delay	15411
@@ -358,9 +359,12 @@ Accounting and Financial Reporting System Standards System	11955
 Accounting and Payment	13042
 Accounting and Pedagogy STG System Transformation Grant	13990
 Accounting and Reporting	16944
-Accounts	7,4,576,2464,836,1853,5458,35,231,491,246,168,157,4,5,359,68,8,2,65,250,52,16,16,161,890,153,19,150,253,105,238,879,657,11,349
+Accounts	7,4,576,2464,836,1853,2023,3435,35,231,491,246,168,157,4,5,359,68,8,2,65,250,52,16,16,161,890,153,19,150,253,105,238,879,657,11,349
+Accounts Amount Accounts Amount Accounts	7763
+Accounts Amount Change Change	7763
 Accounts CS-DRM Commonwealth Secretariat Debt Reducing	16876
 Accounts Held	11233
+Accounts Mainland Zanzibar Total Mainland Zanzibar	7763
 Accounts Outcome	14997
 Accounts Overdrawn	17236
 Accounts Payables Balances Further	14546
@@ -395,6 +399,7 @@ Advisory Counsel Sindi Manyatsi Financial Accounting	11131,3
 AfDB African Development Bank AM Accountability	15659
 AfDB's Unit of Account	13966
 Africa ALHA Agricultural Land Holdings Account	11261
+Africa. Accordingly	14151
 African Union Data Policy Framework. Accordingly	5244
 Agency and Accountability. Iswe Foundation	8628
 Aggregation of Entity Accounts	11233
@@ -463,6 +468,7 @@ Bank Accounts	940,1336,14702,33
 Bank Accounts Survey	12297
 Bank Accounts United Bank of Africa	16978
 Banking Accounting	12231
+Banks and SACCOs Dec-23 Dec-24 Dec-25 Account	7763
 Bank’s Accountability Mechanism	1284,583,4672,4229,4370,1811
 Barriers To Account Ownership Saving	1828
 Basic Accounting System	12868
@@ -544,6 +550,7 @@ Cet Accord	13301
 Challenge CODAN MCA-COD-ENV- Conforme Account	998
 Chamber of Accounts	15984
 Change Accounting Period and Update Contact Details	14533
+Change Change Accounts	7763
 Change of Accounting Period	14533
 Chansa School Accounting Officer	13392
 Charge for Monthly Account Statement	13304
@@ -562,6 +569,7 @@ Chief Accountant and RAPID-CI PCU	3604
 Chief Executive Officer and Accounting Authority	11198
 Chief Executive and Accounting Officer	11976
 Child Rights and Design Accountability	15332
+Citizen Revenue Accountability Statement	17599
 Citizen Voices for Accountability	11866
 Civil Registration DA Designated Account DE4A	15518
 Clearing Account Regional Energy Regulators Association	12969
@@ -623,6 +631,7 @@ Create An Individual Account	13333
 Create An Institution Account	13333
 Create New Account	13333
 Create Transparency and Accountability	12419
+Credit Accounts	7763
 Crunchbase Global Funding Report. Accordingly	4972
 Culture of Accountability and Transparency	17011
 Current Account	2775,14221,239,22
@@ -801,6 +810,7 @@ GARANTIES ET AVALS ACCORDES PAR L’ETAT	16047
 GDP Account	14997
 GDP National Accounts	14997
 GDPU and The National Treasury Directorate of Accounting	14546
+GHANA CARD FOR ACCOUNTABLE	17537
 GOVERNANCE REFORM AND ACCOUNTABILITY	16949
 GOVERNMENT ACCOUNTS OF THE KINGDOM	13126
 GRANT THORNTON Chartered Accountants	13053
@@ -1014,6 +1024,7 @@ Metrics and Accountability	3861
 Metrics and Accountability Outcome	3861
 Millennium Challenge Account	12376,269
 Million Citizens Own Active Transactional Accounts	16145
+Mina Accouche	17612
 Ministries and Departments Accounting Officers	14828,3
 Ministries and Fund Accounts	13420
 Ministries' Accounting Finance Reform	11906
@@ -1025,6 +1036,7 @@ Money Accounts	1828
 Monitoring and Accountability	12675,330,1813
 Monitoring and Accountability Weak	14818
 Mpfaraleni Maseanoka Accounting Officer	11238
+Ms Jenifer Vel. Accompanying the Absa Bank	17579
 Multi-Billion Birr Accounting Failure	7909
 Multi-Stakeholder Accountability	6748
 My Account	11877
@@ -1083,6 +1095,7 @@ Non-Resident Nigerian Investment Account	2841
 Non-Resident Ordinary Account	2841
 Noncommunicable Diseases NHA National Health Accounts	12729
 Ntuli The Accounting Officer	11238
+Number of Accounts	7763
 Number of Active Taxpayer Accounts	12951
 Number of Low Cost Bank Accounts	940
 Number of Mobile Payment Accounts	6938
@@ -1125,6 +1138,7 @@ PLUS QUALIFIÉEE AUTRE PERSONNE ACCOUCHEUSE TRADITIONNELLE	13300
 PLUS QUALIFIÉEE. AUTRE PERSONNE ACCOUCHEUSE TRADITIONNELLE	13300
 POPULAIRE CONVENTIONS ET ACCORDS INTERNATIONAUX	15360,34,16,22,24,11,40,87,8,6
 POUR ACCORD POUR VISA LE CHEF	13524
+PR-COM Andrea Alton Senior Account Manager	17536
 PRINCIPLE OF ACCOUNTABILITY Organizations	14434
 PROFIL ET COMPETENCES COMMUNICATION ET ACCOMPAGNEMENT	16646
 Pandemic Accord	17289
@@ -1309,6 +1323,7 @@ SNA System of National Accounts	14777
 SNA93 National Accounts	11906
 SPECIAL ACCOUNTABILITY MECHANISM	17388
 Safety Accountability	10837,1052,263,11,177,1
+Saving Accounts and Amounts	7763
 Savings Account	7653,187,58,726,4680
 School Accounting Regulations and Procedures	12975
 School of Accountancy	9237
@@ -1463,6 +1478,7 @@ Uniform System of Accounts	16978
 Unit NTA National Transfer Accounts PEPFAR	12962
 Unit of Account	6422,5441,2075,3297
 Unit of Account UGPE Unidade de Gestão de Projetos	11863
+United Nations System of National Accounts	17668
 Units of Accoun	600
 Units of Account	6422
 Universal Access Account	16835

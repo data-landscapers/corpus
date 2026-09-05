@@ -130,7 +130,7 @@ Diplomates539 Magistrats926 Personnel	1594
 Diplomatic	2667,7829,1668,54,1827,33,857,300,222,1380,302,101
 Diplomatic Allies Prosperity Project	15002
 Diplomatic Corp Our Development Partners	16984
-Diplomatic Corps	5328,2374,2257,4820,1496
+Diplomatic Corps	5328,2374,2257,4820,1496,1262
 Diplomatic Corps Representatives of UN ODET and ITU	10210
 Diplomatic Corps Senior Government Officials Members	12692
 Diplomatic Corps World Bank Representative Representatives	17124
@@ -206,6 +206,7 @@ European Framework for Science Diplomacy	11210
 Excellencies Heads of Diplomatic Missions	12668
 Exemption of Visa Diplomatic and Official	13744
 Flanders Diplomatic Representative	13156
+Foreign Diplomats	17537
 Foreign Ministry Asks Diplomatic Missions for Staff	10496
 Gabonese Diplomats	16285
 General Meteorology. Diploma	14738
@@ -341,6 +342,7 @@ UMA DIPLOMACIA AO SERVIÇO DOS SUPREMOS	16487
 UMA DIPLOMACIA QUE PRIORIZE OS SUPREMOS	16487
 UN Diplomat	16970
 UNESCO's Jun-2025 Tech Diplomacy Forum	5239
+VERIFICATION PROCEDURES FOR FOREIGN DIPLOMATS	17537
 Venâncio de Moura Diplomatic Academy	10776
 Verifying the Authenticity of Diplomas	16949
 Visa Waiver Agreement for Diplomatic and Official Passport	16331

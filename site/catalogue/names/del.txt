@@ -371,7 +371,7 @@ Delayed Transfer of Funds	14546
 Delayed Trials	12977
 Delayed U.S	6790
 Delaying	1867,11757
-Delays	27,1527,2050,1244,3948,182,1073,273,444,61,147,160,389,26,323,7,103,2,190,96,56,18,10,33,573,13,30,37,12,26,28,101,323,336,70,322,725,12,26,141,208,52,94,140,3,1223,5,54,28,145,1,32,7,95,9,104,3
+Delays	27,1527,2050,1244,3948,182,1073,273,444,61,147,160,389,26,323,7,103,2,190,96,56,18,10,33,573,13,30,37,12,26,28,101,323,336,70,322,725,12,26,141,208,52,94,140,3,1223,5,54,28,145,1,32,7,95,9,104,3,368
 Delays of Tribunal de Contas	10768
 Delbari	7759
 Delbert S. Deemie Tel Nº	17068
@@ -478,7 +478,7 @@ Delgado Jesus. Discussions	6007
 Delgado Teixeira A Proposta de Lei da Cibersegurança	9258
 Delgado Valige Tauabo Nampula Eduardo Mariano	12201
 Delgro	163
-Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163,217,16,203,287,548,362,187,395,1,182,47,92,468,478,391,237,219,488,73,3,16,19,2,8,46,318,591,1
+Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163,217,16,203,287,548,362,187,395,1,182,47,92,468,478,391,237,219,488,73,3,16,19,2,8,46,318,591,1,382
 Delhi Bilateral Agreements	16331
 Delhi Declaration	7548
 Delhi Indian	5044
@@ -680,6 +680,10 @@ Delivery of Digital Public Services Sub-Component	3604
 Delivery of Digital Public Services Subcomponent	3604
 Delivery of Documents	14718
 Delivery of Equipment	16963
+Delivery of Financial Literacy	7763
+Delivery of Financial Literacy Gender	7763
+Delivery of Financial Literacy Gender FSP Individual	7763
+Delivery of Financial Literacy Programmes	7763
 Delivery of Grades	13392
 Delivery of Health Care	16941
 Delivery of ICT Equipment	17328
@@ -789,6 +793,7 @@ Distinguidos Delegados	16865
 Distinguished Delegates	12688,14,58
 District Registration Office Delayed	12216
 Diversified Service Delivery Platforms	15977
+Djibouti's Minister Delegate	17644
 Djibouti. The Ministry Delegate	9996
 Door Delivery Made Simple View	16604
 Door Delivery Pickup Station Order	9984
@@ -910,6 +915,7 @@ General Delegation for Large-Scale Public Works	11905
 General Delegation for National Security	303,36,2018,73,89,5070,3373,4609
 General Delegation of National Security	10962
 Generic Service Delivery Charters for Level	13473
+Geographical Coverage Delivery	7763
 German Group Deltec	5101,850
 GhanaPostGPS With Mijo Ride And Delivery	15867
 Global Delivery Unit	6133
@@ -1076,6 +1082,7 @@ Lékié Divisional Delegation of State Property	10987
 M Financial Reporting Delays	15659
 M P160865 Better Education Service Delivery	11469
 M PRESIDENGE DELAF	15999
+M USD Delivering Strong and Sustainable Financial	14151
 M. DELANGO	15744
 MANDATES AND DHA OUTCOMES VISION Deliver	5533
 MINISTERE DELEGUE CHARGE DE L'ECONOMIE NUMERIQUE	13846
@@ -1112,7 +1119,7 @@ Min Delegate Amal El Fellah Seghrouchni	3892
 Minimum Service Delivery Standards	13474,172,42
 Minimum Service Delivery Standards Framework	13685
 Mining Code. Delivery	2889
-Minister Delegate	2577,1376,17,171,188,1031,944,620,2119,2815,4473,1172,8
+Minister Delegate	2577,1376,17,171,188,1031,944,620,2119,2815,4473,1172,8,133
 Minister Delegate Amal El Fallah Seghrouchni	5608
 Minister Delegate Bêbgnasgnan Stella Eldine KABRE	16256
 Minister Delegate Safia Mohamed Ali Gadileh	7022
@@ -1129,7 +1136,7 @@ Ministro Delegado Gran Maestro	4209
 Ministro Delegado Senador	4209
 Ministro Delegado Servicio	4209
 Ministro Delegado de Interior	17222
-Ministry Delegate	3613,2590,819,206
+Ministry Delegate	3613,2590,819,206,10416
 Minlsttes Deleg.ues	15584
 Minor Delays	16188
 Mme Delphine	16093

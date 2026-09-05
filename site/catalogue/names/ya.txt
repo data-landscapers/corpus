@@ -171,7 +171,7 @@ District de Yamba	15615
 District de Yaya	15615
 Djilali Yahmi	15608
 Dongning Yang	6777
-Douala and Yaoundé	16050
+Douala and Yaoundé	16050,1508
 Doula and Yaounde	10964
 Dr. Ally Yahaya Simba	15120
 Dr. Habib Yaya Bappah	16243
@@ -345,6 +345,7 @@ MU IGAZETI YA LETA GAZETTE	14870
 MUHTASARI WA MAKADIRIO YA MAPATO NA	6019
 MUYOBOZI IREMBO W'UMUDUGUDU YARAGIKEMUYE TUBARIZWAMO CYANE	12328
 MW. Also Yahoo Finance	594
+Maame Yaa Owusu-Amoah	17684
 Madame Aïssatou Yaya Diallo	11725
 Madame Judith Yah	16062
 Madame Monique Bassenewindé YARGA	16287
@@ -358,7 +359,7 @@ Maire de Yamoussoukro	5221
 Maize Eddoes Sweet Potatoes Yams Southeastern	17043
 Malawi. Yasushi	14374
 Mali Ya	6068
-Mali Ya Wakazi	6045,14,9,78,7655
+Mali Ya Wakazi	6045,14,9,78,7655,3839
 Mali Ya Wakazi L'argent	6146
 Mali Ya Wakazi and Komor Switch	6146
 Mamadou Yaya BARRY	11019
@@ -404,14 +405,21 @@ Mohamed YaÔchi	15410
 Moment CEO Joel Yarbrough	9097
 Monique Yarga	6889
 Monsieur Antoine YAMEOGO	16115
+Monsieur Didier YAYI	17584
+Monsieur Isaac GUERA YAROU	17584
+Monsieur Ismaïl YASSO Au	17584
 Monsieur Karim Soulé OROU YARGNON Membre	16485
+Monsieur Kotè Pascal Hermann Yannick MENSAH	17584
 Monsieur Luc Yannick Andréas RANDRIAMAROLAZA	14613
 Monsieur Michel Yaovi GALLEY	16314
+Monsieur Termyl YAHOUEDEOU	17584
 Monsieur YAMBOUKA WAMATA Messieurs	16328
 Monsieur YAMEOGO	16115
+Monsieur Yacine AKADIRI	17584
 Monsieur Yacouba BILA	15676
 Monsieur Yacouba COMPAORE	16287
 Monsieur Yaya SOURA	16287
+Monsieur Yazizou IDRISSOU	17584
 Moses Yama	17151
 Mougran Yalla Hub	14897
 Mr. Jean Marius Yao	17078
@@ -608,6 +616,7 @@ Universitaire de Yaoundé	15357
 University of Yaounde	15480
 University of Yaoundé II	4991
 Université de Yaoundé	15357,838
+Vertiv. Nxtra Chief Executive Yash Issur	17732
 Ville de Yaoundé	16534
 Wamata Yambouka	10877
 Wango Fidèle Yaméogo	8061
@@ -863,6 +872,8 @@ Yannick Isasi	7783
 Yannick Isasi Ndelo	7892
 Yannick Isasi.Il	7813
 Yannick Lionel MOUSSAVOU	16099
+Yannick Olelo	17589
+Yannick Olelo. SYGREM	17589
 Yannick Sukakumu	10506,1408
 Yannis Arvanitis	11545,5925
 Yanos Adotévi	5260
@@ -875,15 +886,16 @@ Yao Gnona Afangbedji	16201
 Yao Hua Ho	14723
 Yaouba Abdoulaye	3078
 Yaound	10841
-Yaounde	103,2216,200,559,155,102,885,148,335,996,1239,3432,592,9,14,435,4060,94,488,75,451
+Yaounde	103,2216,200,559,155,102,885,148,335,996,1239,3432,592,9,14,435,4060,94,488,75,451,998
 Yaounde Bangui BAS-UELE HAUT-UELE NORD-UBANGI CAMEROON	11900
 Yaounde IV	15574
 Yaounde International Handicraft Centre	10980
 Yaounde and Douala	103,15471
 Yaounde-based	10962
 Yaounde. Figure3.11	15574
+Yaounde. Rather	17586
 Yaounde. The General Manager of CAMTEL	4192
-Yaoundé	302,1,8,28,1026,581,411,27,129,182,10,80,32,46,69,150,25,50,37,36,10,89,259,70,131,314,68,22,45,31,64,22,107,61,45,125,10,36,326,226,46,42,192,128,145,191,54,30,12,6,138,145,2,69,64,20,31,74,58,220,192,439,370,188,280,239,240,125,147,334,404,120,8,200,114,21,2,143,167,33,117,8,112,4,5,3,2,4,1,10,4,361,318,844,966,145,61,518,42,114,994,16,63,6,1,37,5,16,29,12,57,2,149,11,39,17,4,95,18,17,48,7,39,17,89,17,27,18,1,8,12,5,30,170,1,5,52,2,6,11,7,11,11,36,143,234,14,409
+Yaoundé	302,1,8,28,1026,581,411,27,129,182,10,80,32,46,69,150,25,50,37,36,10,89,259,70,131,314,68,22,45,31,64,22,107,61,45,125,10,36,326,226,46,42,192,128,145,191,54,30,12,6,138,145,2,69,64,20,31,74,58,220,192,439,370,188,280,239,240,125,147,334,404,120,8,200,114,21,2,143,167,33,117,8,112,4,5,3,2,4,1,10,4,361,318,844,966,145,61,518,42,114,994,16,63,6,1,37,5,16,29,12,57,2,149,11,39,17,4,95,18,17,48,7,39,17,89,17,27,18,1,8,12,5,30,170,1,5,52,2,6,11,7,11,11,36,143,234,14,409,177
 Yaoundé Autoroute Port de Kribi	15542
 Yaoundé Cameroon Senegal Union	10764
 Yaoundé Cameroon Union	10844
@@ -930,6 +942,7 @@ Yaoundé. C’était	2932
 Yaoundé. Dans	16174
 Yaoundé. Des	8906
 Yaoundé. E-mail	16213
+Yaoundé. Held	17586
 Yaoundé. Housed	3730
 Yaoundé. Il	2513
 Yaoundé. Informal	15480
@@ -995,6 +1008,7 @@ Yas Togo	5807,4396
 Yas Togo and Moov Africa Togo	8621
 Yas and Airtel	6083
 Yas for Kenya	7229,1797
+Yas. Rapporté	17550
 Yaseen	15244
 Yaseen TOTAL Aldiain	15244
 Yash Pharmaceuticals	13561

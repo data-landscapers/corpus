@@ -3,7 +3,7 @@ ADRAR CHLEF LAGHOUAT OUM EL BOUAGHI	15456
 AFRICLOUD Opens Its Lagos Region	9496
 AI for Economic Growth and Modernisation Objective Lagging	12512
 AMS-IX Lagos. Monthly	6892
-Abuja and Lagos	9117,1980
+Abuja and Lagos	9117,1980,6509
 Abuja and Lagos. High	12308
 Accra and Lagos	12122
 Across Lagos	10704
@@ -33,6 +33,7 @@ DIG KPS Mr. Eliud Lagat	14467
 Dabengwa Sifiso Lagos DC	6410
 Dangote’s Lagos	5765
 Data Transmission Lags	16520
+Deputy Governor of Lagos State	17660
 EARNabler’s Victory Oyare Matthew Refunds Lagosian	10034,231
 Enfant Lagune CHUD	15475
 Equinix LG3 Lagos New Data Centre	2155
@@ -82,7 +83,7 @@ Lago Dilolo Moxico-Leste	6595
 Lagodinsky	8014
 Lagoon	8610,233
 Lagoon Water Quality Index	14748
-Lagos	388,59,124,68,217,143,39,69,29,84,143,201,117,124,7,8,201,113,21,122,52,26,26,36,45,69,4,1,27,27,2,3,10,72,148,2,107,72,5,1,18,7,28,36,10,22,18,4,2,29,1,26,165,36,30,26,7,50,21,6,26,16,25,67,37,2,5,5,45,15,1,61,14,56,2,171,48,41,100,132,91,11,38,2,157,3,13,118,54,27,53,64,20,10,61,55,12,3,23,14,29,21,19,248,1,146,49,35,63,11,83,79,5,10,135,26,2,36,16,24,6,56,16,8,34,61,27,68,14,118,51,41,1,17,43,25,16,63,48,36,25,2,35,5,31,5,31,6,2,27,26,1,21,27,3,28,15,42,73,16,9,104,6,21,186,12,56,41,13,6,7,124,5,57,42,8,25,16,8,1,81,4,7,28,81,56,51,95,30,2,23,187,156,8,19,12,21,30,6,8,5,24,14,51,40,75,24,1,98,13,29,10,15,4,34,22,8,14,9,30,1,54,52,137,96,21,22,19,3,118,2,46,49,32,6,29,115,71,50,18,131,27,11,56,1,2,55,5,78,161,2,25,2,9,11,14,142,14,19,9,122,17,11,8,101,51,158,36,6,6,16,67,22,7,1,5,17,2,4,22,2,8,14,3,179,101,29,141,368,401,917,183,9,7,525,384,127,118,442,561,8,233,1,78
+Lagos	388,59,124,68,217,143,39,69,29,84,143,201,117,124,7,8,201,113,21,122,52,26,26,36,45,69,4,1,27,27,2,3,10,72,148,2,107,72,5,1,18,7,28,36,10,22,18,4,2,29,1,26,165,36,30,26,7,50,21,6,26,16,25,67,37,2,5,5,45,15,1,61,14,56,2,171,48,41,100,132,91,11,38,2,157,3,13,118,54,27,53,64,20,10,61,55,12,3,23,14,29,21,19,248,1,146,49,35,63,11,83,79,5,10,135,26,2,36,16,24,6,56,16,8,34,61,27,68,14,118,51,41,1,17,43,25,16,63,48,36,25,2,35,5,31,5,31,6,2,27,26,1,21,27,3,28,15,42,73,16,9,104,6,21,186,12,56,41,13,6,7,124,5,57,42,8,25,16,8,1,81,4,7,28,81,56,51,95,30,2,23,187,156,8,19,12,21,30,6,8,5,24,14,51,40,75,24,1,98,13,29,10,15,4,34,22,8,14,9,30,1,54,52,137,96,21,22,19,3,118,2,46,49,32,6,29,115,71,50,18,131,27,11,56,1,2,55,5,78,161,2,25,2,9,11,14,142,14,19,9,122,17,11,8,101,51,158,36,6,6,16,67,22,7,1,5,17,2,4,22,2,8,14,3,179,101,29,141,368,401,917,183,9,7,525,384,127,118,442,561,8,233,1,78,706,35,54,14,16,35,7
 Lagos Avenue Not Limited Operational	3386
 Lagos Based Doctor Uncovers The Hidden	5574,215
 Lagos Business School	8764
@@ -113,15 +114,17 @@ Lagos Real Estate Development Pipeline Report	8045
 Lagos Region	4130
 Lagos Sheraton Hotel	11129
 Lagos Smart Health Information Platform	9444,2524
-Lagos State	2445,1417,2012,29,473,416,772,2470,123,1157,543,1014
+Lagos State	2445,1417,2012,29,473,416,772,2470,123,1157,543,1014,4700
 Lagos State AIDS Control Agency	9444
 Lagos State Blood Transfusion Service	9444
 Lagos State Deputy Governor	2825
 Lagos State Deputy Governor Dr. Kadri	12871
 Lagos State Director	10704
 Lagos State Domestic and Sexual Violence	2445
+Lagos State Electricity Law	17571,89
 Lagos State Employment Trust Fund	9549
-Lagos State Government	2563,538,6016,327,96,2428,913
+Lagos State Government	2563,538,6016,327,96,2428,913,4779
+Lagos State Governor	17690
 Lagos State Health Insurance Scheme	11968
 Lagos State Internal Revenue Service	9972
 Lagos State Judiciary	8978
@@ -217,6 +220,7 @@ MainOne's Lagos Cable Landing Station	7329
 Marco Lagae Novković	13257
 Mr. Eliud Lagat	14505
 Nairobi and Lagos	388
+National Assembly and Lagos State Government	17571
 News LAGOS	1812
 Nigeria Lagos	12232
 Nigeria. Lagos	6791
@@ -236,6 +240,7 @@ Public Lagos	8408
 RTC Lagos and AGRHYMET	16947
 Rack Centre Lagos	7329
 Regional Collaboration Lagging Indicators	4528
+Representing Lagos State Governor Babajide Sanwo-Olu	17571
 SARL LAGUIPRES	16623
 SERVICES LAGUIPRES SARL	16623
 SHIP and Lagos BioShield	9444

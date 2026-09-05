@@ -30,6 +30,7 @@ D.G. TELECOMU. Y NUEVAS TECN	4209
 DADOS Instituto Nacional de Tecnologias de Informação	2437
 DAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO	11396
 DE BANDA LARGA POR TECNOLOGIA	11531
+Departamento Autónomo de Tecnologias de Informação	17604
 Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 Dependência Primária de Tecnologias	10777
 Desarrollo Sostenible Sistema Tecno-Económico Eje III	1701
@@ -57,7 +58,7 @@ Especificacao Tecnica Gerador Ficheiro XML XSD.pdf	12018
 Finanças. O Instituto Nacional de Tecnologias de Informação	2784
 Fomentar Eventos de Tecnologia	15689
 Fortalecimento da Infra-estrutura Tecnológica	2816
-Fórum Internacional de Tecnologias de Informação	6617,2
+Fórum Internacional de Tecnologias de Informação	6617,2,11009
 Gabinete Técnico Gabinete de Tecnologia	16321
 Gabinete de Tecnologia	11435
 Gabinete de Tecnologias de Informação	167,10586,19,639,38
@@ -84,7 +85,7 @@ Inovação Tecnológica	2295,823,1100,2367,4796
 Inovação Tecnológica de Angola	11443
 Instituto Nacional de Tecnologia da Informação	11394,1416
 Instituto Nacional de Tecnologia de Informação	12294
-Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,3103,1006,899,100,703,649,8,2,7,1,1,3,14,13,1343
+Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,3103,1006,899,100,703,649,8,2,7,1,1,3,14,13,1343,3387,100
 Instituto Nacional de Tecnologías	3029
 Instituto Superior Politécnico de Tecnologia	11632
 Instituto Tecnológico	11552,3,11,3,5516
@@ -111,6 +112,7 @@ Nuevas Tecnologías	163,3016,13676,43,67,124,300
 Nuevas Tecnologías de Información	8083
 Nuevas Tecnologías. Artículo	16855
 Nuevas Tecnologías. El Ministerio	16965
+O Departamento Autónomo de Tecnologias de Informação	17604
 O Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 O Fórum Internacional de Tecnologias de Informação	6585,34
 O Gabinete de Tecnologias de Informação	167,11282
@@ -189,7 +191,8 @@ TRANSPORTE GENERAL DE DELEGACIÓN NUEVAS TECNOL	4209
 Tecn. Multimédia	15772
 Tecnavia SA	16957,118
 Tecnavia's Telecom Engineer Pierre Harris Koumda	11966
-Tecno	10209,3054,1130,258
+Tecno	10209,3054,1130,258,2905
+Tecno Pop	17730
 Tecnologia	1265,1208,343,703,1501,552,1323,31,2508,7,1313,23,358,247,3,1,1,4,19,1,2,44,61,51,63,387,123,14,630,44,12,2690,162,78,52,405,22,74,617,161
 Tecnologia EUA	2816
 Tecnologia Editores	15564
@@ -222,7 +225,7 @@ Tecnologias da Informação-CNTI	11371
 Tecnologias de Comunicação	15772
 Tecnologias de DNE FECAD	15694
 Tecnologias de Identificação	12810
-Tecnologias de Informação	13,2,415,146,219,397,23,1080,116,23,147,32,88,28,55,32,5,316,382,387,240,1,71,1187,137,412,20,5,1,557,48,10,15,7,23,158,97,31,44,148,122,5,491,209,214,41,343,284,31,22,61,158,137,21,1,436,392,54,26,324,124,140,18,8,292,86,159,13,28,13,1,2,5,3,4,3,3,2,2,1,5,26,7,6,77,13,11,41,48,78,115,141,53,38,41,677,17,18,14,2516,52,85,1,27,5,63,450,282,1,16,4,710
+Tecnologias de Informação	13,2,415,146,219,397,23,1080,116,23,147,32,88,28,55,32,5,316,382,387,240,1,71,1187,137,412,20,5,1,557,48,10,15,7,23,158,97,31,44,148,122,5,491,209,214,41,343,284,31,22,61,158,137,21,1,436,392,54,26,324,124,140,18,8,292,86,159,13,28,13,1,2,5,3,4,3,3,2,2,1,5,26,7,6,77,13,11,41,48,78,115,141,53,38,41,677,17,18,14,2516,52,85,1,27,5,63,450,282,1,16,4,710,505,30,10,48
 Tecnologias de Informação da Administração Central	10754
 Tecnologias de Informação da Polícia Nacional	11392
 Tecnologias de Informação. Artigo	167

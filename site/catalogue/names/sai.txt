@@ -182,7 +182,7 @@ PAGE DE SAISIE DU PAIEMENT Dans	16629
 Paroisse Saint Antoine de Padoue de Mugera	13405
 Paroisse Saint Irène	15426
 Pierre and Miquelon Saint Vincent	13042
-Port Said	1213,1096,4322,3747,5095,338,130,17,121
+Port Said	1213,1096,4322,3747,5095,338,130,17,121,1614
 Port Said City	16046
 Port Said Governorate	15811
 Port Said URL	15811
@@ -261,6 +261,7 @@ Said Ally Mohamed	10196
 Said Belout	15690
 Said Eng. Kipkemoi Kibias	14615
 Said Fundi Tshazibana	7205
+Said Gonani	17711
 Said H.E. AU Commissioner for Infrastructure and Energy	14724
 Said K	15411
 Said Mohamed Ali Said	13790
@@ -269,6 +270,7 @@ Said Mouinou Ahamada	8360
 Said Mouinou Ahamada. Ce	7991
 Said Mouinou Ahamada. Selon	8360
 Said Mr. Baraka Matinde	7225
+Said Petersen	17569
 Said Shawul Lom	4635
 Said Soraga. Under	10392
 Said Soule and Secretary General of Ministry of Youth	13791
@@ -345,7 +347,7 @@ Saint-Denis	8273,7056
 Saint-Esprit	15786
 Saint-Esprit. Siège	15744
 Saint-Kizito	13442
-Saint-Louis	58,5617,1879
+Saint-Louis	58,5617,1879,10088
 Saint-Marin	6613
 Saint-Michelle	15455
 Saint-Paul	15333
@@ -398,6 +400,7 @@ Thomas Nicephore Fylla De Saint Eudes	16275
 U AUTRE X NE SAIT PAS	13300
 Université Saint Charles Lwanga	16250
 VOIR L'EMBALLAGE. NE SAIT PAS	13300
+What’s Being Said	17690
 William Said	12227
 Yassin Saine Njie Team Member Operations	16922
 Z NE SAIT PAS	13300

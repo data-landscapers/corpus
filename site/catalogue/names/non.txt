@@ -284,6 +284,7 @@ Farming None Adamawa North East	11857
 Favorable Non	15908
 Feb-23 Food Non-food	10763
 Finalisé Problématique des Non	10975
+Financial Inclusion and Non-Performing Loans	7763
 Financial Management for Non-Financial Managers. Four	12970
 Financial and Non-bank Financial Institutions	11861
 Financing Plan None Key Parties Involved	1818
@@ -440,6 +441,7 @@ Member Ms. Odete Sons Non-Executive Board	11131
 Mid-Term Review Net Enrollment Ratio Non-Governmental	16436
 MoTWI None Establish	16927
 Moderate Non Conformance Minor Non Conformance	11134
+Monsieur Nonvidé Rodrigue MICHOWADOU Au	17584
 Mouvement des Non-Alignés	15942
 Moyennes Entreprises ONG Organisation Non Gouvernementale	10965
 Mozambique. Nonetheless	12161
@@ -523,6 +525,7 @@ NON' OUI	13300
 NON- BANK REMITTANCE SERVICE PROVIDERS CONTEXT	13388
 NON-BANK	418
 NON-BANK FINANCIAL INSTITUTIONS DMDTI	17235
+NON-BANK PAYMENT ACCESS POINTS	7763
 NON-BANK REMITTANCE SERVICE PROVIDERS Non-bank RSPs	13388
 NON-COMMUNICABLE DISEASE	14773
 NON-COMMUNICABLE DISEASES AND NUTRITION Rwanda	14935
@@ -722,12 +725,17 @@ Non-Bank Financial Intermediation	6938
 Non-Bank Financial Sector Developments	17104,213
 Non-Bank Financial Stress Test	17104,213
 Non-Bank Lending Bill	12598
+Non-Bank Payments System Providers	7763
+Non-Bank Payments System Providers Usage	7763
 Non-Bank Remittance Service Providers	13388
 Non-Banking Financial Institutions Act	17108
 Non-BanksThe SARB	5691
 Non-Beneficiary	12978
 Non-CO2 Emissions	17140
 Non-Citizen Birth Certificates	12496
+Non-Citizen Card	17537
+Non-Citizen Card and Biometric	17537
+Non-Citizen Card the AI	17537
 Non-Citizen Ghana Cards	15430
 Non-Citizen Identity Card	7317,7465
 Non-Citizens	7845,6998
@@ -850,6 +858,7 @@ Non-Individual Register	6121,8363
 Non-Individual Registry	11759
 Non-Individual Registry Begins FY2026	11759
 Non-Intelligence	9855
+Non-Interest Banking Business	7763
 Non-Interest Revenues	17236
 Non-Interference	3861
 Non-Ionizing Radiation Protection	12949
@@ -878,7 +887,7 @@ Non-Oil Revenue	10997
 Non-Paris Club	13868
 Non-Partisan	17139
 Non-Payment of Successful Grant Applicants	2307
-Non-Performing Loans	11131,338,1487,2067,2213
+Non-Performing Loans	11131,338,1487,2067,2213,332
 Non-Permanent	17114
 Non-Permanent Member	12640
 Non-Personal Data	7548
@@ -966,7 +975,7 @@ Non-application of Act	13311
 Non-attendance	1638,9543
 Non-availability	11129
 Non-availability of ICT	13314
-Non-bank	3964,1691,258,1025,5436,2460,75
+Non-bank	3964,1691,258,1025,825,4611,2460,75
 Non-banks	3318,8642,2937,1979
 Non-binding	3861,361,44,62,30,6823,6069
 Non-budgeted	11549
@@ -1002,7 +1011,7 @@ Non-consulting	15372,146
 Non-consulting Service Contracts	15411
 Non-contact	10812
 Non-contradictory	14908
-Non-contributory	14942,1090
+Non-contributory	7763,7179,1090
 Non-controlling	4896,5897
 Non-conventional	17157
 Non-critical	6432
@@ -1014,6 +1023,7 @@ Non-current	4896,5897,338,3,821,490,608,1683
 Non-current Liabilities	13053
 Non-custodial	8840,1813
 Non-deductibility	17250
+Non-deposit	7763
 Non-derivative	1154,11899
 Non-derogation	17250
 Non-destructive	13385
@@ -1142,6 +1152,7 @@ Non-renonciation Ministère	15901
 Non-repayable	12923
 Non-repudiation	5665,6694,4519
 Non-resident	3161,4625,4190,5132
+Non-resident Ghanaians	17537
 Non-resident Non-resident	3161
 Non-residential	16978
 Non-residents	12676
@@ -1244,11 +1255,11 @@ None. Ecobank	15474
 None. Interoperability	12269
 None. MOCAF	15474
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115
 Nongo	8022
 Nongo Conteya	16662
 Nongobzanga Zongo	3668,543,85,2472
-Nongolougo Soro	16537
+Nongolougo Soro	16537,1098,1
 Nongoma	2626
 Nongovernmental Organization NIR National Identifi	16876
 Nongr-Massom	16097
@@ -1483,6 +1494,7 @@ Sector Formal Size Sector Size Non	12445
 Sectoral Distribution of Non-performing Loans and Advances	17235
 Securities and Non- Banking Financial Authorities	14819
 Service Non-durable Tertiaire	16708
+Shareholders and Non- Residents	17537
 Shelter and Non-Food Items	1828,9036
 Shopping None Direct	15372
 Simple Non	15599
@@ -1550,6 +1562,7 @@ Université Nongo de Conakry	16641,21
 Unlocking Innovation Through Non-Government Ecosystems	11940
 Upgrading Construction Non-	11986
 Urban Rural Total None	16950
+VERIFICATION PROCEDURES FOR FOREIGN NON-RESIDENTS	17537
 VIH DE LA MÈRE OUI NON	13300
 VOIR CODES NE SI NON	13300
 Variable Valeur Erreur Non- Pondéré Effet	13300

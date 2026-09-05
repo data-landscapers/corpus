@@ -177,7 +177,7 @@ Co-locating Compute	10157
 Code of Practice for Interactive Computer Service Platforms	5215
 Cognitive Computing	12512
 College of Computer Engineering	17347
-College of Computing and Information Sciences	5413
+College of Computing and Information Sciences	5413,12322
 Communication and Innovation Search Page Content Computer	14846
 Communications Authority of Kenya's National Kenya Computer	6803
 Competitive Marketplace for Compute	6445
@@ -336,6 +336,7 @@ Computer Lab	12971
 Computer Laboratory	1246,12929
 Computer Law	1243,6779,754,461
 Computer Literacy	21
+Computer Literacy Test	17565
 Computer Misuse	3983,2966,2196,3087,3081
 Computer Misuse Act	3005,2417,1527,5151,132,3081
 Computer Misuse Act. NITA-U ED	3275
@@ -478,6 +479,7 @@ Computingthecorrelationbetweenageandweightyields	8606
 Computitional Center for IOT Project Expansion	7085
 Comunicação da Adopção da Computação	11377
 Concurrency and Computation	8605
+Conhecimento Básico de Redes de Computadores	17604
 Connectivity Cloud Computing Adoption and Data Localization	12214
 Constellating Compute	9816
 Construction of Computer Laboratories	12962
@@ -680,6 +682,7 @@ Journal of Organizational Computing and Electronic Commerce	4432,917
 Journal of Parallel and Distributed Computing	8605
 K COMPUTER INFORMATION SYSTEMS GUINEE SA	16623
 Kenya's Compute Access	7548
+Kenya's Computer Misuse and Cybercrimes Act	17658
 Kenya. Computer Misuse and Cybercrimes Act	6432
 Kenya’s Computer Misuse and Cybercrime Act. Kennedy	8095
 Kenya’s Computer Misuse and Cybercrimes Act	8095
@@ -765,6 +768,7 @@ National Computer Systems Company	15679
 National Computer and Cyber Crimes Co-ordination Committee	11115
 National Computer and Cybercrime Coordination Committee	7481,3139
 National Computer and Cybercrimes Co-ordination Committee	6787,5445
+National Computer and Cybercrimes Coordination Committee	17566,92
 National Data Centers and HighPerformance Computing	16212
 National Data Park and Compute Infrastructure	10157
 National Data and Cloud Computing Policy	7510
@@ -799,6 +803,7 @@ Operação de Plataformas de Computação	2816
 Organization of Data Center and Cloud Computing Services	14944
 Os Operadores de Plataformas de Computação	6970
 Parliament Computerisation	5631
+Passing the Computer Literacy Test	17565
 Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
 Performance Computing	12210
@@ -825,7 +830,7 @@ Química Computacional. Trabalhos	2741
 R Foundation for Statistical Computing	12003
 REview. Comput Inf Nurs	1219
 Recognized Cloud Computing Service Models and Deployment	16923
-Redes de Computadores	12019
+Redes de Computadores	12019,5585
 Registry CAPI Computer-Assisted Personal Interviews CHPS	15628
 Regulamento da Computação	12808
 Regulamento de Computação	12808
@@ -893,6 +898,7 @@ UNESWA Computer Science Department Deadline	12361
 Uganda Computer Emergency Response Team	9695
 United Nations International Computing Centre	9147,3933,15
 Universal Journal of Computer Sciences and Communications	9129
+University of Eswatini Computer Science Lecturer Lucky	17592
 University of Oxford's Department of Computer Science	8529
 Unlimited Open Computer Network	15471
 Usage of Cloud Computing Services	11196

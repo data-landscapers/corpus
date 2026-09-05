@@ -152,7 +152,7 @@ Annual Procurement Plan. The Procurement	16970
 Annual Work Plan	2989,1411,7841,474,365,15,2035,1840,15
 Annual Work Plan PIU Management and Budget	2989
 Annual Work Plan Review	14546
-Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40,1265,10,13
+Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40,1265,10,13,666
 Annual Work Plan and Budget CAGD Comptroller	16949
 Anti-corruption Action Plan	15372
 Application du Plan de Trésorerie Article	4420
@@ -1564,6 +1564,7 @@ National Development Plan of Burundi	13349
 National Development Plan of Zambia	12376
 National Development Plan. CHAPTER	14874
 National Development Plan. Nandi-Ndaitwah	7126
+National Development Plan. PAYING TAXES	17613,2
 National Development Plan. Recommendations	1809
 National Development Plan. The Salary Review	12972
 National Development Strategy and National Development Plan	12962
@@ -2460,7 +2461,7 @@ Risk Management and Disaster Recovery Plan Risk	13420
 Risk Management and Disaster Recovery Plan Twelve	13420
 Road Safety Master Plan	12275
 Roadmap Plan	5245
-Roadmap and Action Plan	11552,2778
+Roadmap and Action Plan	11552,2778,3292
 Rural Development Sector Plan RLCC Regional	11261
 Rural Electrification Plan	2391,9997
 Rural Energy Master Plan	13614
@@ -2517,7 +2518,7 @@ SRTATEGIQUES DU PLAN D’ACTIONS	998
 STAKEHOLDER ENGAGEMENT PLAN	12990,3936
 STAP Short Term Action Plan for Infrastructure	13295
 STRATEGIC DIRECTION This Plan	12453,892
-STRATEGIC PLAN	11261,2243,1438,1941
+STRATEGIC PLAN	11261,2243,1438,1941,655
 STRATEGIC PLAN AND ANNUAL PERFORMANCE PLAN	11285
 STRATEGIC PLAN MATRIX	12973
 STRATEGIC PLAN POLICY FRAMEWORK	16033
@@ -2663,11 +2664,12 @@ Strategic Management Framework. The Strategic Plan	13532
 Strategic Mapping of Plan Outcomes	11857
 Strategic Organisation Structure Plan	6946
 Strategic Organisational Plan OAI	17101
-Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29,186,46,70,18,73,192,22,4,28,2,35,38,15,13,124,133,112,27,28,467,12,20,698,25,6,21,79,74,51,38,14,127,309,7,31,3,4,86,429,665,160,25,1,1,11,26,21,25,5,12,153,19,78,22,38,69,34
+Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29,186,46,70,18,73,192,22,4,28,2,35,38,15,13,124,133,112,27,28,467,12,20,698,25,6,21,79,74,51,38,14,127,309,7,31,3,4,86,429,665,160,25,1,1,11,26,21,25,5,12,153,19,78,22,38,69,34,140
 Strategic Plan Based	16883
 Strategic Plan Code Of Ethics NDS2	12515
 Strategic Plan Committee	1131
 Strategic Plan Communicati	16943
+Strategic Plan Costing	17538
 Strategic Plan Development	10776,2196
 Strategic Plan Formulation	13005
 Strategic Plan Framework	14729

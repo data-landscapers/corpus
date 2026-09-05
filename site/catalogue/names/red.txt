@@ -82,10 +82,12 @@ Communication Redundancy Time Bound Measurable Target	1000
 Communications Redundancy	1000
 Community Disaster Risk Reduction Committees	12977
 Community Poverty Reduction Fund	12970
+Complaints Handling and Redress Mechanisms	7763
 Comprehensive Disaster Risk Reduction	14746
 Conferência Anual da Rede Africana de Engenharia	11411
 Congo Telecom. Redundancy	15513
 Congolese Red Cross	16011
+Conhecimento Básico de Redes de Computadores	17604
 Conselho de Redacção	12311
 Construção de Redes de Informação	3519
 Consumer Redress and Remedies	17243
@@ -491,6 +493,7 @@ PRSP Poverty Reduction Strategy Paper PSDS	16861
 PRSP Poverty Reduction Strategy Paper RFQ	11525
 Paesi Emergenti CPRF Community Poverty Reduction	12970
 Par Redaction	15953,107,99,93,30,36,23,165,3
+Par Redaction LIBREVILLE	17653
 Participatory Performance Monitoring PRSP Poverty Reduction	16852
 Partnership for Education GRM Grievance Redress Mechanism	11560
 Partnership for Education Grievance Redress Mechanism Human	16436
@@ -662,7 +665,7 @@ Red Palm Oil Unhealthy Food Group	17127
 Red Pepper	226
 Red Postal Mundial	1701
 Red Pública de Tele	16855
-Red Sea	1393,348,634,302,2,96,582,226,538,434,252,1786,552,83,2010,1480,553,2594,3,11,36,34,59,31,4,31,6,22,57,694,44,48,10,71,13,29,27,111,28,10,229,131,6,53,278,105,762
+Red Sea	1393,348,634,302,2,96,582,226,538,434,252,1786,552,83,2010,1480,553,2594,3,11,36,34,59,31,4,31,6,22,57,694,44,48,10,71,13,29,27,111,28,10,229,131,6,53,278,105,762,885
 Red Sea Cables Have Been Damaged	2677
 Red Sea Incident Shows	2677
 Red Sea Internet Gateway URL	14159
@@ -695,6 +698,7 @@ Red de Observación Meteorológica	1701
 Red de Telecomunicaciones	16855
 Red de Transporte de Guinea Ecuatorial	1701
 Red-Teaming	7548
+Red2Med	17693,1
 RedHat	12868
 RedHat Enterprise Linux	12868
 RedPepper	9696
@@ -831,7 +835,7 @@ Redes Sociales	16965
 Redes Sociales de Internet	16965
 Redes Sociales. Hoy	16965
 Redes de Banda Larga	11397
-Redes de Computadores	12019
+Redes de Computadores	12019,5585
 Redes de Comunicación	16855
 Redes de Comunicación. EXPOSICIÓN DE MOTIVOS	16855
 Redes de Comunicación. Pág	16855
@@ -943,7 +947,7 @@ Reduce the Digital	16884
 Reduce the NCR	14897
 Reduce the Risk of Occupational Exposure	11218
 Reduce the Urban-Rural Digital	4126
-Reduced	208,187,504,41,30,858,160,440,660,810,541,457,350,1,32,396,439,19,299,755,17,344,158,266,158,993,659,541,92,364,40,337,25,3,14,699,90,188,35,1,3,144,2,25,35,79,40,230,86,150,35,40,15,38,52,233,263,23,1025,32,136,38,50,12,132,349,40,35,106,301,281,195,195,253,1,38,20,100,83,16,15,207
+Reduced	208,187,504,41,30,858,160,440,660,810,541,457,350,1,32,396,439,19,299,755,17,344,158,57,209,158,993,659,541,92,364,40,337,25,3,14,699,90,188,35,1,3,144,2,25,35,79,40,230,86,150,35,40,15,38,52,233,263,23,1025,32,136,38,50,12,132,349,40,35,106,301,281,195,195,253,1,38,20,100,83,16,15,207
 Reduced Affordability of Digital Goods and Services	14932
 Reduced CO₂	15775
 Reduced Coping Strategies	12978,4307
@@ -1104,6 +1108,7 @@ Swedish Red Cross	15125
 Swiss Red Cross	15125
 Sylvanus Redwood-Sawyer	4114
 System DRR Disaster Risk Reduction NMHS	13729
+Système de Gestion des Redevances Multimodales	17589
 TABLE DES MATIERES COMITE DE REDACTION	16195
 TAXES ET REDEVANCES A PERCEVOIR	7470
 TAXES FAIT GENERATEUR ET REDEVANCES	15584
@@ -1111,13 +1116,14 @@ TBD Reduce NPA	17260
 TRÁFEGO NACIONAL IXP E REDES	11397
 TUY TX Red	10847
 TX Red	10847
+Taba le Red Sea Subsea Festoon Cable	17694
 Table of Contents Tarrif Reductions	12625
 Tariff Reduction	4243
 Tariff Reductions Set	12625
 Team Red	11153
 Technical Redundancy	15424
 Telecom Egypt’s Red Sea	16808
-Telecom Egypt’s Red Sea Subsea Festoon	16808
+Telecom Egypt’s Red Sea Subsea Festoon	16808,885
 Telefonia Móvel Banda Larga Subscrições da Rede	11418
 Telefonía de Red Fija	16855
 Transforming Onboarding Experiences While Reducing Friction	3279

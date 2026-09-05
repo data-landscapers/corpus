@@ -20,7 +20,7 @@ Absence of National Open Data Portal. Actual	13970
 Absent Open-Source Policy Frameworks	7921
 Accelerate Open Banking Implementation Ensure	4848
 Access Technical Services Open Access Metro	11243
-Account Opening	14055
+Account Opening	14055,3482
 Acronyms AmeliCA Open Knowledge for Latin America	5246
 Act. DEFINITION OF OPEN DATA	11854
 Action VI.1.3 Intégrer OpenRBF	13306
@@ -84,6 +84,7 @@ Building Open Digital States	4430,245
 Building Open Digital States Country Case	4675
 Building Open-Source	12104
 Bureau OSS Open-Source Software PDU Presidential	12241,839,15
+Bureau of Public Procurement’s Nigeria Open	17718
 Burkina Open Data Initiative	8678
 Burkina Open Initiative	10817
 Burundi.58 Open Clinic	13314
@@ -319,6 +320,7 @@ Health Ministry's OpenClinic	3646
 Heather Openshaw	10028
 High Open	10768
 Homes SLBC Staff Accused of Assaulting Open	8271
+Horn of Africa. Opening	17696
 Hugging Face. OpenAI	8014
 Human Open	12241
 Humanitarian OpenStreetMap Team	9104
@@ -366,6 +368,7 @@ Interoperability and Open Standards AI	7548
 Introduction Open	15714
 Introduction Open Government Data	12932
 Irewole and Isokan. Opening of Pool	10049
+Isolation To Active Integration Opening	17586
 Issued Opening	17180,39
 Ivoire's Open Data	11867
 JAMA Netw. Open	11585
@@ -685,8 +688,9 @@ Open Data Officers	15714
 Open Data Oui	748
 Open Data PRIVACY Social Media	9937
 Open Data Parlementaire Accueil Open Data	9480
-Open Data Platform	3310,1717,6527,3377,1807
+Open Data Platform	3310,1717,6527,3377,1807,930
 Open Data Platform Continues	17291,31,79
+Open Data Platforms	17539
 Open Data Policies	12675
 Open Data Policies Guidelines	12675
 Open Data Policy	170,991,3171,251,7,7264,708,46,324,1797,985,332,156,10,727
@@ -755,6 +759,7 @@ Open Data. Généralisation	9406
 Open Data. Il	747,1
 Open Data. Ils	748
 Open Data. In Nigeria	11854
+Open Data. JEL	17539
 Open Data. Le Code du Numérique	15575
 Open Data. Le ROD	747
 Open Data. Les Experts	16377
@@ -857,10 +862,10 @@ Open Heritage	7313
 Open Hours	15721
 Open Hub	5939
 Open Hub Chief Executive Officer David	5939
-Open In Whatsapp	9047,1173
+Open In Whatsapp	9047,1173,7354
 Open In Whatsapp YOU MIGHT	9750,247,623
 Open Infrastructure	12389
-Open Innovation	7268
+Open Innovation	7268,10385
 Open Innovation Challenges. Smart Industry and Digital	14752
 Open Innovation. Cette	7268
 Open International	9604,3413
@@ -927,7 +932,8 @@ Open Science Steering	5246
 Open Science for South Africa	5246
 Open Science. Disclaimer	8130
 Open Science. Open	7498
-Open Secrets	7910,6763
+Open Secret	17739
+Open Secrets	7910,6763,3066
 Open Sectors	8726,408,140
 Open Service	6985
 Open Shift	15583
@@ -1042,7 +1048,7 @@ Open-loop	15027
 Open-source	1261,1464,927,973,1075,637,814,1339,1598,1676,996,282,38,315,1193,2351,115
 Open-source Software	13042
 Open-source Ticket Request System	13185
-Open-weight	5682
+Open-weight	5682,12013
 Open.Enabel	13374
 Open.Enabel Accueil	13374
 Open20	16212
@@ -1192,7 +1198,7 @@ Opendata	747,1,439
 Opendefinition.org	5246
 Opened	3313,1561,6082,224,6342
 OpenedTenders.do	17037
-Opening	1244,221,523,1348,993,92,255,38,288,239,179,143,355,95,84,641,10,179,44,167,17,274,188,33,52,79,93,89,87,293,547,192,14,111,131,31,24,29,116,385,711,142,17,157,205,86,28,321,316,277,18,127,259,10,84,421,11,45,304,104,44,289,111,7,123,27,30,1,230,352,13,26,6,391,231,26,105,255,410,309,49,249,105,51,86,12,171,42,88
+Opening	1244,221,523,1348,993,92,255,38,288,239,179,143,355,95,84,641,10,179,44,167,17,274,188,33,52,79,93,89,87,293,547,192,14,111,131,31,24,29,116,385,711,142,17,157,205,86,28,321,316,277,18,127,259,10,84,421,11,45,304,104,44,289,111,7,123,27,30,1,230,352,13,26,6,391,231,26,105,255,410,309,49,249,105,51,86,12,171,42,88,255
 Opening Balance	15023
 Opening Ceremony	15748
 Opening Date	4896
@@ -1357,6 +1363,7 @@ SAGE Open	5349
 SAGE Open Med	8376
 SARB Opens National System	5691
 SARB. Open Cities Lab	11222
+SDMX-native Open Data Platforms	17539
 SHOULD APPLY Open	13168
 SIECM OpenCRVS	14540
 SIECM- OpenCRVS	14539

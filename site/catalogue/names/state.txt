@@ -81,7 +81,7 @@ AfricaNenda. State of Inclusive Instant Payment Systems	11138
 African Development Bank Fragile States Facility	13966
 African Development Community SEPs State Enterprises	13295
 African Heads of State	3987,1747,144,10801
-African Heads of State and Government	3987,6832,6468
+African Heads of State and Government	3987,6832,6468,280
 African Heads of State. The African	4426
 African Island State	10348
 African Island States Climate Commission	10348,72
@@ -99,10 +99,11 @@ African States GoL Government of Liberia ICT	1777
 African States In US Health Funding	10602
 African States. The UNDP Human Development	16951
 African Union Assembly of Heads of State and Government	4583,2559
-African Union Heads of State	13388
+African Union Heads of State	13388,4194
+African Union Heads of State Summit	17582
 African Union Heads of State. The AU	6369
 African Union Member State	1243,11463
-African Union Member States	562,399,282,2340,3456,1708,3305,1071,1601,1632,730
+African Union Member States	562,399,282,2340,3456,1708,3305,1071,1601,1632,730,602
 African Union Member States and TICAD Co-organizers	12962
 African Union Summit of Heads of States	16927
 African Union and Member States	1814
@@ -163,7 +164,7 @@ Any Partner State	14409
 Appropriation Statement	1607,1,1,1,1,1,1,9617
 Arab Emirates United Kingdom United States	10764
 Arab Member States Country Expert Name	2958
-Arab States	6946,3818,799,2098,4,237,1218,72,52,227,1431
+Arab States	6946,3818,799,2098,4,237,1218,72,52,227,1431,718
 Arab States ASP	14836
 Arab States Algeria Global Cybersecurity Index	10764
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
@@ -171,7 +172,7 @@ Arab States Asia-Pacific Indonesia India International	11563
 Arab States Egypt International Telecommunication Union	10764
 Arab States In the Arab States	15471
 Arab States Mauritius	6946
-Arab States Region	15120
+Arab States Region	15120,2500
 Arab States Relative	15471
 Arab States T5 Building Yemen T4	10764
 Arab States Towards Reversing Discrimination	16951
@@ -261,7 +262,7 @@ Bosun Tijani and US Deputy Secretary of State	2284
 Botswana Request. State	5692
 Botswana's Minister for State Presidency Moeti Mohwasa	4083
 Britain's Superfast Broadband Future United States	11529
-Budget Policy Statement	5108,9566
+Budget Policy Statement	5108,9566,2925
 Budget Statement	970,776,2354,1,290,8560
 Budget Statement and Economic Policy	7695,8234
 Budget Statement and Economic Policy of Government	7695
@@ -383,6 +384,7 @@ China-Arab States Summit. Visits	15272
 China. The United States	10068
 Chinese State-owned	3583
 Citing the State of Inclusive Instant Payment Systems	4282
+Citizen Revenue Accountability Statement	17599
 Citizen. State Dept	2457
 Citizen. The State Department	2457
 City Local Area State City Government	11129
@@ -519,6 +521,7 @@ Deputy Assistant Secretary of State for African Affairs	7344
 Deputy Chief State Advocate	13466
 Deputy Chief State Counsel Prisca Wambui	14631
 Deputy Governor of Kano State	10597
+Deputy Governor of Lagos State	17660
 Deputy Minister of State	5883
 Deputy Secretary of State Christopher Landau	17237
 Deputy Secretary of State Christopher Landau and AUC	4787
@@ -632,7 +635,7 @@ East and Southeast Sennar State	14955
 Eastern Cape Free State Gauteng KwaZulu-	1013
 Eastern Cape Free State Gauteng KwaZulu-Natal	11198
 Eastern Cape Free State Western Cape	11211
-Eastern Equatoria State	8213
+Eastern Equatoria State	8213,9463
 Eastern and Southern Africa States	14819
 Ecofin Agency Tanzania’s State Telecom Targets	6083
 Econet InfraCo Pre-Listing Statement	4896
@@ -844,7 +847,7 @@ Fragile States Fase	11569
 Fragile States Index	11545,5407
 Framework for Bilateral AI States	7548
 Fraud Driven From Within the State	9517
-Free State	1960,4306,327,1045,1361,585,383,723,490,8,4,6,13,37,4,10,10,1,12,1,8,2,1,363,230,14,76,6,2687
+Free State	1960,4306,327,1045,1361,585,383,723,490,8,4,6,13,37,4,10,10,1,12,1,8,2,1,363,230,14,76,6,2687,3028
 Free State Department of Health	11273,707
 Free State Dept of Health	11273
 Free State Facilities	11980
@@ -934,7 +937,7 @@ Geneva. U.S. Department of State	10841
 Geographic Coverage IGAD Member States	14079
 Gezira State	14945,10
 Ghandoor. The State Minister	8613
-Ghazal State	3583,9693
+Ghazal State	3583,9693,4332
 Ghazal State and South Sudan	13276
 Global Anti-Scam Alliance’s State of Scams	8711
 Global Partnerships and State-Owned Enterprises Governance	5185,1,1,11
@@ -974,7 +977,7 @@ HISTORICAL FINANCIAL STATEMENTS	4896
 HRVP Josep Borell's Statement.pdf	12201
 Haryana State	3791
 Head of Service of Rivers State	7659
-Head of State	1644,265,1862,449,342,1425,501,36,1722,259,1,2481,144,414,415,1584,367,37,461,333,119,596,164,249,163,149,665,25,86,14,3,484
+Head of State	1644,265,1862,449,342,1425,501,36,1722,259,1,2481,144,414,415,1584,367,37,461,333,119,596,164,249,163,149,665,25,86,14,3,484,219
 Head of State Brice Clotaire Oligui Nguema	3579
 Head of State and Head of Government	14101
 Head of State and Minister	6806
@@ -982,7 +985,7 @@ Head of State's Office	16996
 Head of State. Article	13948
 Head of State. Priority	3891
 Head of State. The Simandou Academy	4036
-Heads of State	1264,440,5808,4814,201,1882,191,857,1222,248,24,487,21
+Heads of State	1264,440,5808,4814,201,1882,191,857,1222,248,24,487,21,123
 Heads of State and Government	3583,3869,2309,408,339,311,1821,800,561,723,121
 Heads of State and Government Summit	13673
 Heads of State and Government and High Representatives	17323,1
@@ -1144,10 +1147,11 @@ Kassala State	14955,78,89
 Katsina State	3718,2047,6360
 Katsina State Chapter	5765
 Katsina State Development Plan	12135
-Katsina State Government	12125
+Katsina State Government	12125,5594
 Katsina State Governor Malam Dikko Umaru	3718
 Katsina State Hub	3718
-Katsina State Investment Promotion Agency	12125
+Katsina State Investment Promotion Agency	12125,5594
+Katsina State. Jikamshi	17719
 Katutura State Hospital and Police Mortuary	12947
 Kenya AI Statement of Principles Draft	7548
 Kenya Request. State	5692
@@ -1188,15 +1192,17 @@ LISTING STATEMENT FOR ECONET INFRACO	4896
 LITIGATION STATEMENT	4896
 LITIGATION STATEMENT SHAREHOLDERS	4896
 LUPANE STATE UNIVERSITY	13368
-Lagos State	2445,1417,2012,29,473,416,772,2470,123,1157,543,1014
+Lagos State	2445,1417,2012,29,473,416,772,2470,123,1157,543,1014,4700
 Lagos State AIDS Control Agency	9444
 Lagos State Blood Transfusion Service	9444
 Lagos State Deputy Governor	2825
 Lagos State Deputy Governor Dr. Kadri	12871
 Lagos State Director	10704
 Lagos State Domestic and Sexual Violence	2445
+Lagos State Electricity Law	17571,89
 Lagos State Employment Trust Fund	9549
-Lagos State Government	2563,538,6016,327,96,2428,913
+Lagos State Government	2563,538,6016,327,96,2428,913,4779
+Lagos State Governor	17690
 Lagos State Health Insurance Scheme	11968
 Lagos State Internal Revenue Service	9972
 Lagos State Judiciary	8978
@@ -1323,7 +1329,7 @@ Medium-Term Budget Policy Statement	4667,6563
 Meetings Minister of State for External Affairs	17241
 Megawatt State-Owned Power Plant Mr. Speaker	7695
 Meintjies United States. Street	13462
-Member State	7,20,943,273,564,1776,2094,800,11,964,341,91,66,242,154,1415,198,210,607,43,90,608,187,256,334,610,9,475,175,1179,621,11,267,84,214,280,22,602,331,64
+Member State	7,20,943,273,564,1776,2094,800,11,964,341,91,66,242,154,1415,198,210,607,43,90,608,187,256,334,610,9,475,175,1179,621,11,267,84,214,280,22,602,331,64,450
 Member State Questionnaire	11569
 Member State of SADC	958
 Member State. AVERAGE Organize	5677
@@ -1331,7 +1337,7 @@ Member State. Article	15374
 Member State. Medium	15725
 Member State. Section	28
 Member State. This Supplementary Act	11517,3846
-Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26,26,29,14,5,83,30,30,43,54,40,158,13,39,18,7,213,94,1,7,13,89,65,38,116,216,11,104,28,135,72,12,100,6,38,10,60,86,21,195,2,191,160,82,92,75,71,37,59,7,157,47,68,29,62,51
+Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26,26,29,14,5,83,30,30,43,54,40,158,13,39,18,7,213,94,1,7,13,89,65,38,116,216,11,104,28,135,72,12,100,6,38,10,60,86,21,195,2,191,160,82,92,75,71,37,59,7,157,47,68,29,62,51,122,41,94
 Member States Agriculture	6422
 Member States Approved	10819
 Member States Benin Cabo Verde Côte	16243
@@ -1408,9 +1414,11 @@ Minister of State Reform of Portugal. The Delegation	6552
 Minister of State Samuel A. Stevquoah	7720
 Minister of State and Chief of Staff	1767
 Minister of State for AI	2958,3645
+Minister of State for Administrative Reform	17620
 Minister of State for Agriculture	16331
 Minister of State for Agriculture and Food Security	9876,6920
 Minister of State for Commerce	16331
+Minister of State for Digital Economy and Artificial	17620
 Minister of State for Disability Affairs	4133
 Minister of State for Economic Coordination José de Lima	4876
 Minister of State for Economy and Finance	2369
@@ -1445,6 +1453,7 @@ Minister of State for Planning	8969
 Minister of State for Presidential Affairs	5994,10876,410,114
 Minister of State for Presidential Affairs Samuel A	7617,2788
 Minister of State for Presidential Affairs of Liberia. FTL	17173
+Minister of State for Prime Minister and Cabinet Affairs	17548
 Minister of State for Public Sector Reforms	8367,2,2
 Minister of State for Science	13744
 Minister of State for Social Action	10763
@@ -1530,6 +1539,7 @@ Nation Address SSA State Security Agency	5533
 National Addressing Council. The State Department	14631
 National Agency for State Digitalization	6228,10451
 National Agency for State Information System	13861
+National Assembly and Lagos State Government	17571
 National Budget Policy Statement	5851
 National Budget Speech and Statement	4100,293
 National Budget Statement	4101,288,1,2
@@ -1701,9 +1711,9 @@ Parliament. Next Order. QUESTIONS AND STATEMENTS	10313
 Parliament. State Minister for Works Mr. Free	12319
 Part Three Form of State Governance	16847
 Participating States	10864
-Partner State	6921,627,267,2661,1472,216,1239,848,158
+Partner State	6921,627,267,2661,1472,216,1239,848,158,3237
 Partner State. ARTICLE	14409
-Partner States	7548,267,152,2293,1546,1,141,216,1239,160,47,641,158,503,309
+Partner States	7548,267,152,2293,1546,1,141,216,1239,160,47,641,158,503,309,2424,1
 Partner States ARTICLE	14409
 Partner States C2- Volume	7548
 Partner States CHAPTER	14409
@@ -1881,6 +1891,7 @@ Representative of State	11860
 Representative of State NUT	11860
 Representing Akwa Ibom State Governor	9115
 Representing Katsina State Governor Dikko Radda	5765
+Representing Lagos State Governor Babajide Sanwo-Olu	17571
 Republic and Head of State	15670,849,283
 Republic of Ghana Statement	15629
 Republic of Rwanda. This Statement	14869
@@ -1908,7 +1919,7 @@ Rural Women and Development Thematic Policy Statement	16951
 Ruto State Visit. Part	1435
 Ruweng Administrative Area of Unity State	3583
 Rwanda and Partner States	14947
-SADC Heads of State and Government	12640
+SADC Heads of State and Government	12640,4932
 SADC Member States	318,644,389,2125,1906,4379,2634,245,31,247,11,13,20,106,587,1190
 SADC Member States National Statistical Offices	14839
 SADC Member States. PART VI ENFORCEMENT	12929
@@ -2179,7 +2190,7 @@ Staff Statement	17326
 Standards Council of MSB STATEMENT OF MEMBERS	14736
 StatEduc	1017,930,12,1007,3082,2339,3809
 StatEduc2	15639
-State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137,100,7,5,7,17,33,21,56,41,24,37,31,1,56,2,2,3,2,22,1,10,5,5,1,19,14,10,3,3,1,20,10,8,4,6,16,18,12,4,83,8,6,8,1,14,11,3,13,4,22,5,21,41,1,7,35,1,12,1,4,14,4,23,3,28,29,3,28,61,1,3,4,6,5,1,20,41,22,10,59,51,45,74,1,1,1,6,3,4,6,8,9,1,6,15,8,3,15,2,3,51,7,20,36,12,19,58,91,11,7,1,1,1,8,6,2,1,2,1,1,3,5,13,13,29,1,5,4,12,17,32,6,12,23,11,37,20,5,73,15,208,6,43,18,9,10,2,14,5,8,34,5,66,50,61,106,6,35,69,69,4,42,42,28,7,72,1,1,31,7,4,3,2,1,4,1,2,3,9,1,5,3,17,6,4,31,19,1,12,2,7,2,1,7,2,1,2,5,6,3,3,15,21,14,1,14,11,49,29,23,43,23,1,51,1,6,22,38,92,4,2,32,19,54,10,16,7,4,8,19,7,48,4,1,33,32,5,38,40,2,37,151,22,8,38,55,1,16,65,30,32,36,67,86,225,59,70,18,93,3,3,3,4,4,4,12,11,12,30,7,1,18,7,2,5,2,12,2,45,1,77,32,30,71,61,5,2,35,7,40,20,40,32,33
+State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137,100,7,5,7,17,33,21,56,41,24,37,31,1,56,2,2,3,2,22,1,10,5,5,1,19,14,10,3,3,1,20,10,8,4,6,16,18,12,4,83,8,6,8,1,14,11,3,13,4,22,5,21,41,1,7,35,1,12,1,4,14,4,23,3,28,29,3,28,61,1,3,4,6,5,1,20,41,22,10,59,51,45,74,1,1,1,6,3,4,6,8,9,1,6,15,8,3,15,2,3,51,7,20,36,12,19,58,91,11,7,1,1,1,8,6,2,1,2,1,1,3,5,13,13,29,1,5,4,12,17,32,6,12,23,11,37,20,5,73,15,208,6,43,18,9,10,2,14,5,8,34,5,66,50,61,106,6,35,69,69,4,42,42,28,7,72,1,1,31,7,4,3,2,1,4,1,2,3,9,1,5,3,17,6,4,31,19,1,12,2,7,2,1,7,2,1,2,5,6,3,3,15,21,14,1,14,11,49,29,23,43,23,1,51,1,6,22,38,92,4,2,32,19,54,10,16,7,4,8,19,7,48,4,1,33,32,5,38,40,2,37,151,22,8,38,55,1,16,65,30,32,36,67,86,225,59,70,18,93,3,3,3,4,4,4,12,11,12,30,7,1,18,7,2,5,2,12,2,45,1,77,32,30,71,61,5,2,35,7,40,20,40,32,33,62,84,7,3,9,10
 State AI Observatory	11135
 State Abbreviation International	11129
 State Accessibility	14958
@@ -2378,7 +2389,7 @@ State High Court	11956,1992
 State High Courts	13948
 State Hospital	12367
 State Hospital KOES	13046
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245
 State House Cabinet	5318
 State House Construction	5658
 State House Entebbe	6248,15,8099
@@ -2508,8 +2519,9 @@ State Owned Enterprises and CEOs	12557
 State Owned Entities	12956
 State Owned-Enterprises	17105
 State Owned-Enterprises Honourable Speaker	17105
+State Ownership Policy Document	17647
 State PART II	12629,1
-State Parties	1243,5796,2129,87,1221,717,1008,326,513,1098,604,899,1310
+State Parties	1243,5796,2129,87,1221,717,1008,326,513,1098,604,899,1310,602
 State Parties Self-Assessment Annual Reporting	11417
 State Parties. Article	15641
 State Parties. PART IX TRANSPARENCY Article	15641
@@ -2716,7 +2728,7 @@ State of Nation Address Date	12566
 State of Open Data	1814
 State of Origin	11861
 State of Oromia	13948
-State of Palestine	2958,7806,421,2721
+State of Palestine	2958,7806,421,2721,3714
 State of Palestine Global Cybersecurity Index	10764
 State of Passwordless Identity Assurance	9902
 State of Play	3391
@@ -2770,6 +2782,7 @@ State-Owned Enterprises Commission	4519,24,12583,20
 State-Owned Enterprises Commission Updates President Barrow	17124
 State-Owned Enterprises Reform	13685
 State-Owned Enterprises SONA State	11197
+State-Owned Enterprises Unit	17647
 State-Owned Enterprises and Government	13685
 State-Owned Enterprises and Parastatals	3025,836
 State-Owned Enterprises and Public-Private Partnerships	13685
@@ -3122,7 +3135,7 @@ U.S. Department of State’s Bureau of International Narcotics	17330
 U.S. Dept of State	4472
 U.S. Secretary of State	6534
 U.S. Secretary of State Marco Rubio	4426,1124
-U.S. State Department	4961,1968,1550,4666,1760
+U.S. State Department	4961,1968,1550,4666,1760,2652
 U.S. State Department’s Jeremy P. Lewin	17110
 U.S. States	560
 UAE Minister of State	6717,6799
@@ -3209,7 +3222,7 @@ United Nations. State Minister Bereket Feshatsion	14121
 United State	14030
 United State Agency for International Development and United	17289
 United State of America N	12151
-United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15,60,122,103,2,3,1,5,4,24,97,181,1
+United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15,60,122,103,2,3,1,5,4,24,97,181,1,140,12,16
 United States African Network	13331
 United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599,1175,43,59,8,6,11,10,1
 United States Agency for International Development Angola	10780

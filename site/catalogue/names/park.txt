@@ -79,7 +79,7 @@ Dr. Sinmyung Park	8661,134
 ECOBLOX and Digital Parks Africa Launch Africa	11502
 ENPCT National Company of Science and Technology Parks	4214
 Eco Park	6891,7564
-Eco Point Office Park	6891,7564
+Eco Point Office Park	6891,7564,3269
 Eco Point Office Park Eco Park	11259,3
 Econet Park	4896,642
 Egypt's East Cairo Logistics Park Data	8045
@@ -285,7 +285,7 @@ Rhino Park Hospital	12947
 Riverside Office Park	6907
 Royal Eswatini Technology Park	12962
 Royal Science Technology Park	12348,13,589,20,7
-Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214,763,3,11,19,459,18,4,22,5,50,79,68,68
+Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214,763,3,11,19,459,18,4,22,5,50,79,68,68,4356
 Royal Science and Technology Park National Data	12944
 Royal Science and Technology Park and UNDP Eswatini	4866
 Royal Science and Technology Park-Business Incubator	12401

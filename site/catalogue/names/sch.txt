@@ -112,6 +112,7 @@ Amendment of Fifth Schedule	13351
 Amendment of Schedule	5687,8580
 Amendment of Schedules	12630
 Amendment of Third Schedule	13252
+American University School of International Service	17701
 Andela and Moringa Schools	12239
 Andrew Gilhooly and Kristyn Schrader-King	10977
 Animal Rearing School	11857
@@ -416,8 +417,10 @@ County Schools	16935
 County Schools Classrooms Enrollment Teacher6	16935
 County and Level County School Level ECE	16935
 Create Safe and Inclusive School Environment	15693
-Credit Guarantee Scheme	12376
+Credit Guarantee Scheme	7763,4613
 Credit Guarantee Scheme Application System	11134
+Credit Guarantee Schemes	7763
+Credit Guarantee Schemes Scheme Name Incumbent	7763
 Crop Insurance Schemes	17157
 Crop Insurance Schemes Raise	17157
 Cross-border Data Transfer Schedule	11956
@@ -655,7 +658,7 @@ Exhibitions and Tourism Scheme. Through MEETS	5533
 Existence of Specialized Schools Inclusive	13016
 Expanding and Reforming Primary School Improvement Grants	12175
 Export Cover Guarentee Scheme	11134
-Export Credit Guarantee Scheme	13123
+Export Credit Guarantee Scheme	7763,5360
 Express Penalty Scheme	3572
 Ezulwini Catholic Primary School	11134
 F. Schneider. Shedding Light	13624
@@ -923,7 +926,7 @@ Higher School of Economics	5881
 Holberton School	7403
 Holt School	753
 Home Affairs Minister Dr Leon Schreiber	7639
-Home Affairs Minister Leon Schreiber	2352,1904,516,1300,1686,2427
+Home Affairs Minister Leon Schreiber	2352,1904,516,1300,1686,2427,7555
 Home Ownership Scheme and Home Loan Payment	14742
 Home Ownership and Home Loan Payment Schemes	14761
 Home Schemes	14748
@@ -1227,6 +1230,7 @@ MM Shah Junior School	10313
 MPME Schéma	11944
 MSB Defined Benefits Pension Contribution Scheme	14736
 MSME Credit Guarantee Scheme	940
+MSMEs Credit Guarantee Scheme Bank of Tanzania	7763
 MSc and PhD Scholarship Call	12361
 MTN Bright Scholarship	8813
 MTN Ghana's Employee Share Option Scheme	10793
@@ -1245,7 +1249,7 @@ Main Activity Main Institutions Primary School	11857
 Maintenance of School	15661
 Makakung Primary School	7671
 Makerere University Business School	4028
-Makerere University School of Public Health	4674
+Makerere University School of Public Health	4674,13061
 Makueni Boys High School	10313
 Malawi Longitudinal School Survey Baseline Report	12175
 Malawi Longitudinal School Survey. Draft	12175
@@ -1281,8 +1285,10 @@ Maryward Primary School Construction	11131
 Master Urban Planning Scheme of Greater	10930
 Master Urban Planning Scheme of Greater Abidjan	10930
 Mastercard Foundation Scholar	432
+Mastercard Foundation Scholars Call for Applications	17735
 Mastercard Foundation Scholars Program	146,240,317,207
 Mastercard Foundation Scholars Program Alumni	13258
+Master’s Students Awarded Scholarships Under the Africa	17735
 MathSciNet Google Scholar Gera S	9739
 Mathangathi Primary School	14546
 Matsetsa High School	12977
@@ -1401,6 +1407,7 @@ NOTARY PUBLIC THIRD SCHEDULE Regulation	14880
 NOTWITHSTANDING SCHEDULE A Functions and Structure	16835
 NOYB Honorary Chair Max Schrems	8773
 NSEPCRET Scheme	14745
+NSSF Hifadhi Scheme	17575
 NUMBER OF SCHOOLS CONNECTED	11211
 NYU School of Law	225,1598
 NYU School of Law. New York Uni-	961
@@ -1556,7 +1563,8 @@ Paul Schonborn	14661
 Payment of School Fees Deposits	12977
 Pearson. Schwab	6832
 Pension Scheme	7695
-Pension Schemes	2775,12248
+Pension Schemes	2775,4988,7260
+Pension Schemes No	7763
 Performance Dashboard Schedule	14723
 Periodic Review Schedules	3861
 Personal Data. Sections and Description Schedule	15553
@@ -1766,6 +1774,7 @@ S. L. Schneberger	12467
 S0261143000003402 Article Google Scholar Daba Finance	9739
 SAA. Section I.B.1 of Schedule	1264
 SADC Secondary School Essay Competition	12962
+SANVN Viwanda Scheme	7763
 SCA Schutz JA	2307
 SCHEDULE	22,950,2742,1018,955,1220,15,276,3981,1,2,87,687,570,373,136,11,143,109,54,144,260,651,23,19,44,35,187,3,10,2,10,28,10,113,21,75,710,447,691,101,313,1
 SCHEDULE A.1	11269
@@ -1984,7 +1993,7 @@ Schema Introspection	6423
 Schema Isomorphism Conflicts	12360
 Schematic	8604,2215
 Schematic Structure	14935
-Scheme	736,4160,1517,533,602,3271,82,347,41,568,129,14,269,1,852,441,1116,57,6,65,11,1,9,1,2,4,162,1259,449,191,89
+Scheme	736,4160,1517,533,602,215,3056,82,347,41,568,129,14,269,1,852,441,1116,57,6,65,11,1,9,1,2,4,162,1259,449,191,89
 Scheme A Scheme	10819
 Scheme Act	7845
 Scheme Authority	10819
@@ -2094,7 +2103,7 @@ Schonwetter	1243
 Schoo	11180
 SchooiPhases	11180
 SchooiSpecialisation Indicates	11180
-School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56,437,73,54,187,33,12,66,43,26,23,13,286,3,6,300,25,26,57,2,80,102,115,476,24,392,50,7,41,1,45,92,13,4,34,28,66
+School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56,437,73,54,187,33,12,66,43,26,23,13,286,3,6,300,25,26,57,2,80,102,115,476,24,392,50,7,41,1,45,92,13,4,34,28,66,502
 School A Matutura New Primary School	13046
 School About Message	12407
 School Accounting Regulations and Procedures	12975
@@ -2291,7 +2300,7 @@ School of Medicine and Allied Health Sciences	16922,183
 School of Medicine and Health Sciences	14663
 School of Natural and Applied Sciences	12407
 School of Postgraduate Studies and Research	15123
-School of Public Health	4260,6569,1196
+School of Public Health	4260,6569,1196,5710
 School of Science Launches AI and Digital Trust	14555
 School of Science and Technology	13158
 School of Social Sciences and Humanities	12178
@@ -2313,6 +2322,7 @@ School-level	15604
 School-level Barriers	899
 School-linked	13681
 School-to-Work	11271,310
+School. As Claire	17735
 SchoolAp	11918
 SchoolNet	5871,8120
 SchoolNet Namibia	12325
@@ -2322,7 +2332,7 @@ SchoolPay Uganda	12873
 Schoolap	16819
 Schooling	11916,24,2956,348,360,57,775,760
 Schooling Access Health Services Child Nutrition	15244
-Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112,616,3,45,11,2,6,3,248,5,16,3,15,39,76,16,66,15,315,65,108,36,25,83,72,138,19,133,54,207,7,213,55,35,107,99,473,166,15,2,43,26,136,422,38,60,26,57,82,217,202,274,239,129,48,34,56,21,297,115,62
+Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112,616,3,45,11,2,6,3,248,5,16,3,15,39,76,16,66,15,315,65,108,36,25,83,72,138,19,133,54,207,7,213,55,35,107,99,473,166,15,2,43,26,136,422,38,60,26,57,82,217,202,274,239,129,48,34,56,21,297,115,62,272
 Schools API	15630
 Schools Based Community	16963
 Schools Central	11857
@@ -2358,7 +2368,7 @@ Schools’ Curriculum	11129
 Schopman	8604
 Schott	15518
 Schram MSc	15552
-Schreiber	2541,73,219,110,282,210,821,516,14,361,179,746,52,131,1076,73,235,119,379,130,291,46,453,193,441,204,278,12,434,645,722,86,44,217
+Schreiber	2541,73,219,110,282,210,821,516,14,361,179,746,52,131,1076,73,235,119,379,130,291,46,453,193,441,204,278,12,434,645,722,86,44,217,5407
 Schreiber's April-2025	4783
 Schreiber. Once	9895
 Schreiber. Schreiber	8137
@@ -2508,6 +2518,7 @@ Sixth and Seventh Schedules	7845
 Sizani Combined Primary School	11266
 Skill School for Apparel Manufacturingʼ	12979
 Small Scale Enterprise Loan Guarantee Scheme	13123
+Smallholders’ Credit Guarantee Scheme Tanzania Agricultural	7763
 Smart Device Access Scheme Manual	13331
 Smart Green School	6211
 Smart Green Schools	8973,1335
@@ -2647,6 +2658,7 @@ Third and Fourth Schedules. Conditions	736
 Thirty-Ninth Schedule	13495
 Thirty-Sixth Schedule	13495
 Thomas Schaef	6013
+Through School Connect	17709
 Time Additional Notes Schedule Demo About	12211
 Time Division Duplex FourTh Schedule	736
 Time Schedule	15080,2019
@@ -2706,6 +2718,7 @@ Unemployment Relief Scheme	7859
 Unfinished N288m Lagos School Project. Guess	7176
 Unit Trust Schemes	14717
 Universal Coverage Scheme	9804
+Universal Pension Scheme	7763
 Universal Pension Scheme A BLUEPRINT	11133
 Universities and Gambian Secondary Schools	1000
 University Students and Postgraduate Scholars	17149
@@ -2755,6 +2768,7 @@ WikiChallenge for African Schools	17167
 Willoughby Government School	14792
 Windhoek Zoning Scheme	13189
 Windows Scheduled Task	10617
+Wits Business School	17572,5
 Wits School of Law	5892
 Wits University School of Law. Founded	9889
 Wits University School of Statistics and Actuarial Science	5969
@@ -2783,7 +2797,7 @@ Zalapango-Mburura Day Secondary School	13392
 Zambia Credit Guarantee Scheme	12376
 Zambia's Oldest Scheme. Applied Economics and Finance	13332
 Zambia’s School Feeding Programme	10510
-Zanzibar Universal Pension Scheme	11133,9
+Zanzibar Universal Pension Scheme	7763,3370,9
 Zarapango Mburuma Day Secondary School	13392
 Zigudu Primary School	11281
 Zimbabwe's Climate-Smart Annual School Census	12504
