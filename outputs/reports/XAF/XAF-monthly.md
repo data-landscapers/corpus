@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: XAF
-ledger_rows: 87
+ledger_rows: 94
 not_held: 3
-record: 90380b39331b
+record: ad51bfddd2cb
 ---
 
 # Africa: monthly update, August – September 2026
@@ -141,6 +141,12 @@ The United States' America First Global Health Strategy data-sharing programme d
 
 <!-- narrative: coordination--geopol-china -->
 China's engagement with the continental telecoms body deepened around a memorandum whose own text is not held. The African Telecommunications Union names a [2025 memorandum with the China Academy of Information and Communications Technology as the foundation for its Secretary-General's participation in an Advanced Seminar on African Digital Development, which opened in Hangzhou on 24 August](https://www.linkedin.com/posts/african-telecommunications-union-atu_the-advanced-seminar-on-african-digital-development-activity-7497568544029728768-a-Hc); the memorandum is known only from the union's own social-media account, with no signing date, term or work programme held. Four days later, the [China-Africa Digital Technology Cooperation Center was formally inaugurated at Hangzhou on 28 August](https://www.chinanews.com.cn/sh/2026/08-29/10686400.shtml) as a standing platform for market-entry services, industry matchmaking and training, drawing officials from 18 African countries and the ATU, UNDP, UNICEF and Smart Africa; a same-day matchmaking session produced cooperation intentions in digital infrastructure, AI, cybersecurity and digital skills. This is one centre against [an announcement that had promised application-cooperation centres with the African Union and 5,000 training places over five years](https://www.globaltimes.cn/page/202608/1368309.shtml); no budget, term or figure for the matchmaking intentions is published, and no African Union instrument establishing the centre is held.
+<!-- /narrative -->
+### India activities
+
+<!-- narrative: coordination--geopol-india -->
+
+India enters this record for the first time, and as a conversation rather than a commitment. Its external affairs ministry [received an official delegation from Ethiopia, Sierra Leone, Malawi, Zambia, Rwanda and the African Union Commission on using digital public infrastructure to promote development, improve governance, widen inclusion and strengthen the delivery of citizen services](https://www.newdelhitimes.com/india-discusses-digital-public-infrastructure-with-african-delegation/), on a visit coordinated by the United Nations Development Programme's India office. No agreement, financing, technology transfer or follow-on process is named, so what the base holds is the fact of the meeting and the six states that sent people to it.
 <!-- /narrative -->
 
 ## Capacity and inclusion

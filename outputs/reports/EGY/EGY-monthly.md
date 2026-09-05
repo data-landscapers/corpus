@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: EGY
-ledger_rows: 70
+ledger_rows: 75
 not_held: 54
-record: b46f85404d5a
+record: 87fbf3fd9287
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -159,6 +159,12 @@ Egypt [led the continent in the first half of 2026 with US$327m raised, US$183m 
 
 <!-- narrative: capacity--capacity-training -->
 The state's university artificial-intelligence programme closed its fourth round on 4 August with 1,090 students and 445 projects, taking the cumulative total since 2022 to 2,710 students ([round account](https://gate.ahram.org.eg/News/5882834.aspx)). A tripartite agreement added mentoring and real healthcare datasets to student projects, with no data-governance arrangement stated for the patient-derived data.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+
+The month's research contribution is an outside assessment of a question the state has not published one on. A peer-reviewed study [assessed administrative readiness and institutional capacity for governing artificial-intelligence-driven digital transformation in the public health system](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1883794/full), written by authors at Egyptian, Saudi and Jordanian institutions. The base holds no state readiness assessment of the same question against which to read it.
 <!-- /narrative -->
 
 ## Inclusion
