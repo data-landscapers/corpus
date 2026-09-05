@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: UGA
-ledger_rows: 68
+ledger_rows: 73
 not_held: 17
-record: 78979fdc49e1
+record: f82e4d326e20
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -92,6 +92,12 @@ The criminal investigations directorate [told a parliamentary committee inspecti
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+The month's exchange story is a border system working for someone else. The revenue authority, with its Kenyan counterpart, [continues to enforce a US-dollar e-Permit charge on imports bound for South Sudan, levied before any tax assessment is issued, on behalf of a UK-registered firm the United States sanctioned in May over the diversion of public resources and foreign assistance](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern); the firm's staff are deployed at border points under South Sudan Revenue Authority cover, and the Tanzanian and Rwandan authorities have publicly dissociated themselves from the arrangement. The revenue authority is not recorded as answering the account, and no agreement or legal basis for the Ugandan side is published.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -121,6 +127,12 @@ A parliamentary committee found the expressway concession still running on cash.
 The alien register issued its first cards. The identity authority [began issuing Alien ID cards to legally resident foreigners, having enrolled 1,875 since registration opened on 10 June, with the US$100 card required for SIM registration, banking and business access but conferring no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals). About 2m registered foreigners are in scope and roughly 1.95m of them are refugees or asylum-seekers, so ten weeks of enrolment has reached under a tenth of a percent of the population the fee falls on. No waiver, instalment route or alternative for a resident who cannot pay is published, which leaves the card a precondition for a bank account and a SIM with no stated way round it.
 
 The business register meanwhile [opened its financial-year stakeholder engagements](https://ursb.go.ug/2026/08/26/non-individual-registry-begins-fy2026-27-stakeholder-engagements/). No registration volume, turnaround time or service change is stated with them.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+
+A health surveillance pilot moved to the stage where the model's answer is visible to the person making the decision. An artificial-intelligence febrile-illness workflow built into the community health information system [recorded high agreement with village health teams' unaided judgments in a first phase and has entered a three-month second phase in which workers see the model's interpretation, across four districts](https://iafrica.com/ugandan-ai-health-pilot-records-high-agreement-with-community-workers-now-enters-the-harder-phase/). No agreement percentage, sample size or case count has been published, so the headline finding cannot be checked; the first phase itself logged low testing volumes, inconsistent commodity availability, device underperformance, unreliable connectivity and supervision gaps.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -166,6 +178,12 @@ The state ICT institute reports [48,448 people trained in the financial year: 36
 The IT authority [invited expressions of interest for consultancy services to develop a National Digital Skills and Competence Framework](https://www.nita.go.ug/sites/default/files/2026-08/REOI%20-%20Digital%20Skills%20Framework_0.pdf). Nothing is yet awarded, and no scope value or delivery date is stated.
 
 An operator's programme published a cohort figure on 31 August. It [graduated 503 young people at the National ICT Innovation Hub from a hybrid course in information and communication technology, digital marketing, e-commerce, cybersecurity and artificial intelligence, taking its cumulative total to 1,191](https://techafricanews.com/2026/08/31/mtn-uganda-graduates-503-youth-digital-skills/). The counts are the operator's own, and no employment outcome, start year or cost per participant is published.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+
+Academic research capacity enters this record for the first time, and as a conversation. The national university and Japan's international cooperation agency [explored strengthening academic, research and innovation collaboration between Uganda, Japan and other African countries, with a focus on artificial intelligence, aerospace engineering, materials and remote sensing, food value chains, energy, water and climate change](https://news.mak.ac.ug/2026/09/jica-makerere-university-explore-new-frontiers-in-ai-and-research-collaboration/). No agreement, funding, programme or timetable is named on either side.
 <!-- /narrative -->
 
 ## Inclusion

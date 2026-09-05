@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: ETH
-ledger_rows: 31
+ledger_rows: 34
 not_held: 5
-record: 88e66adb7461
+record: 4fbfa67f5c15
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -124,4 +124,13 @@ Against it the FY2026/27 federal budget [carries *Artificial Intelligence Univer
 
 <!-- narrative: inclusion--include-access -->
 The month's movement on access is participation rather than service. The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up. Nothing moved this month on digital access to public services, on refugee inclusion or on device affordability.
+<!-- /narrative -->
+
+## Geopolitics
+
+### India activities
+
+<!-- narrative: geopolitics--geopol-india -->
+
+India enters the record as a destination rather than a donor. Senior officials from the digital and ICT sector and line ministries [joined delegations from four other African states and the African Union Commission on a south-south learning mission hosted by the United Nations Development Programme](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/), studying India's digital public infrastructure and the institutions that built it; [the state government of Karnataka received them in Bengaluru on 1 September](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/). No agreement, financing, technology transfer or follow-on commitment is named on either side.
 <!-- /narrative -->

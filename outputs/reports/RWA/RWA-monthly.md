@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: RWA
-ledger_rows: 36
+ledger_rows: 42
 not_held: 8
-record: f1894a6fede6
+record: 79ca253a7c01
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -115,6 +115,12 @@ Business registration moved entirely online in January. The Office of the Regist
 
 The civil register acquired an outside account of what it now carries. Case studies published on 13 August [describe civil registration as digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services, on a network of thousands of registration points that replaced a centralised, travel-dependent process](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure); the same account puts [about 85% of public services digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure). The figures are those of the advocacy organisation that has worked on the system since 2016, and no government statement of them is held.
 <!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+
+The e-government platform's own numbers reached the record this month through an account of other governments coming to study it. [Two hundred and forty-eight public services from close to 50 institutions are online, birth, celibacy and marriage certificates issued through the platform rose from 683,560 in 2020 to 1,977,628 in 2024, and the share processed in under an hour went from 61 per cent to 70 per cent over the same period](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/). The figures are the operator's own and the most recent year is 2024; nothing for 2025 or 2026 is published.
+<!-- /narrative -->
 
 ## Digitalisation
 
@@ -172,4 +178,13 @@ The seventh demographic and health survey, collected between June and November 2
 
 <!-- narrative: data--data-satellite -->
 A [national satellite data programme launched with a commercial imagery provider on 10 August](https://itweb.africa/article/planet-and-the-government-of-rwanda-launch-first-of-its-kind-national-satellite-data-program-in-africa/nWJadMbNDxlMbjO1), giving government agencies, public universities, selected startups and development partners access to near-daily imagery for agriculture and food-security monitoring, forest health, urban planning and disaster response, managed by the space agency. It was announced jointly by vendor and government, and no cost, term, data-licence arrangement, contract or appropriation is held.
+<!-- /narrative -->
+
+## Geopolitics
+
+### India activities
+
+<!-- narrative: geopolitics--geopol-india -->
+
+India enters the record as a destination rather than a donor. Senior officials from the digital and ICT sector and line ministries [joined delegations from four other African states and the African Union Commission on a south-south learning mission hosted by the United Nations Development Programme](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/), studying India's digital public infrastructure and the institutions that built it; [the state government of Karnataka received them in Bengaluru on 1 September](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/). No agreement, financing, technology transfer or follow-on commitment is named on either side.
 <!-- /narrative -->
