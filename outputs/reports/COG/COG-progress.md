@@ -1,12 +1,12 @@
 ---
 title: Congo — progress report, September 2025 – September 2026
-compiled: 2026-09-04
-period: 2025-09-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2025-09-01 to 2026-09-05
 place: COG
-ledger_rows: 116
+ledger_rows: 118
 not_held: 6
 indicators: 121
-record: b3853338ca00
+record: 0d3d5aa723ca
 ---
 
 # Congo: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-04.*
+*The period is 2025-09-01 to 2026-09-05.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -171,7 +171,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
 | Access to services | Citizen feedback portals |  | ***No evidence*** |
-| Access to services | Citizen participation in policy |  | ***No evidence*** |
+| Access to services | Citizen participation in policy | A citizen watch of 75 observers [reported the polling-day telecommunications shutdown at the March 2026 presidential election](https://lasemaineafricaine.info/association-avenir-nepad-congo-un-rapport-appelle-a-renforcer-la-transparence-du-processus-electoral/), the base's only independent monitoring of it. <details><summary>Full record</summary>A Congolese association presented a citizen-monitoring report on the March 2026 presidential election in Brazzaville on 25 July 2026, built on 75 citizen observers deployed across several departments using field observation, interviews, social-media analysis and official documents. It named the polling-day telecommunications shutdown among its main findings, alongside difficulties with the reliability of the electoral rolls, questions over the equity of media coverage and the circulation of false information on social networks, while concluding the election was broadly calm ([report](https://lasemaineafricaine.info/association-avenir-nepad-congo-un-rapport-appelle-a-renforcer-la-transparence-du-processus-electoral/)).<br><br>The same association ran a third public session on social media and disinformation on 11 August 2026 at a francophone digital campus of the national university ([session](https://lasemaineafricaine.info/medias-sociaux-appel-a-la-vigilance-face-a-la-multiplication-des-contenus-trompeurs-2/)).<br><br>Both are civil-society work financed by a foreign embassy's media and information-integrity fund. No official response to the shutdown finding is on the record, and no duration, scope or legal basis for the shutdown itself is published.</details> | Advanced |
 | Access to services | Gender equity |  | ***No evidence*** |
 | Access to services | Inclusion of persons with disabilities |  | ***No evidence*** |
 | Access to services | Inclusion of refugees and IDPs |  | ***No evidence*** |

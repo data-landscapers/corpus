@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: XWA
-ledger_rows: 24
+ledger_rows: 26
 not_held: 1
-record: 0d64a647676a
+record: 08c849fb11b3
 ---
 
 # West Africa: monthly update, August – September 2026

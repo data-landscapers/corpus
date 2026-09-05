@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: MLI
-ledger_rows: 26
+ledger_rows: 27
 not_held: 4
-record: 25c9058c6284
+record: 2ba8c8e434fd
 ---
 
 # Mali: monthly update, August – September 2026

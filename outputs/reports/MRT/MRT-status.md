@@ -1,6 +1,6 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-09-04
+compiled: 2026-09-05
 place: MRT
 region: XWA
 built_by: STATUS-INIT
@@ -323,7 +323,7 @@ Neither the United States government nor any global cloud provider had an establ
 ### China activities
 <!-- geopol.china -->
 
-China's one substantial intervention in Mauritania's digital estate builds surveillance capacity for the police: a 2021 grant agreement worth [MRU 629.4 million, about US$15 million at the time](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm), drawn from an Economic and Technical Cooperation Agreement, funding an Urban Security and Monitoring System for the General Directorate of National Security in Nouakchott. The design runs to 316 surveillance cameras extensible to 1,000 observation points, a two-storey unified command centre, three regional security service buildings and 34 police observation posts — a state-security build, not a service-delivery one, and separate in kind from the connectivity and public-administration work European lenders have paid for.
+China's one substantial intervention in Mauritania's digital estate builds surveillance capacity for the police: a 2021 grant agreement worth [MRU 629.4 million, about US$15 million at the time](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm), drawn from an Economic and Technical Cooperation Agreement, funding an Urban Security and Monitoring System for the General Directorate of National Security in Nouakchott. [The design runs to 316 surveillance cameras extensible to 1,000 observation points, a two-storey unified command centre, three regional security service buildings and 34 police observation posts](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm) — a state-security build, not a service-delivery one, and separate in kind from the connectivity and public-administration work European lenders have paid for.
 
 <!-- derived -->
 Chinese public money accounts for one of the eleven external financing commitments on the record for Mauritania's digital estate, against three apiece from the World Bank and the European Investment Bank. On count of commitments, China is a minor financier of the sector and a singular one in what it has chosen to fund.

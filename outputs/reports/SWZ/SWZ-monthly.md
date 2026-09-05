@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: SWZ
-ledger_rows: 31
+ledger_rows: 32
 not_held: 4
-record: 445d77bc0099
+record: b6de464c4107
 ---
 
 # Eswatini: monthly update, August – September 2026

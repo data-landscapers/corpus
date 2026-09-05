@@ -1,6 +1,6 @@
 ---
 title: Chad — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-09-05
 place: TCD
 region: XCA
 built_by: STATUS-INIT
@@ -85,7 +85,7 @@ The agreement that plainly binds is the oldest of them: Chad and China signed a 
 <!-- derived -->
 Chinese state finance accounts for roughly three-fifths of the money committed to Chad's digital estate — about USD 243 million of the USD 410 million on record (2026), against USD 139 million from the World Bank across three projects and USD 27 million from the African Development Bank across two. Eight commitments make up that record, running from 2017 to 2029. About USD 349 million is in active implementation (2026), USD 48 million has closed, and USD 13 million sits at identification stage, unapproved. Connectivity takes the bulk of it; most of the money is concessional, but the largest single line is debt.
 
-That concentration is one project: China Eximbank's [government concessional loan for the ICT Modernization Project](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/), RMB 1.316 billion or CFA 111.4 billion — about USD 189 million at signature — signed on 26 June 2019 and approved unanimously by Parliament on 30 April 2020. It runs 20 years at 2 per cent with a five-year grace period, collateralised against a minimum cash balance in an escrow account. A separate RMB 170 million Chinese grant, about USD 28 million, followed in 2019, both financing one engineering and construction contract with Huawei. The project was originally to complete on 31 October 2021.
+That concentration is one project: China Eximbank's [government concessional loan for the ICT Modernization Project](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/), RMB 1.316 billion or CFA 111.4 billion — about USD 189 million at signature — signed on 26 June 2019 and approved unanimously by Parliament on 30 April 2020. [It runs 20 years at 2 per cent with a five-year grace period, collateralised against a minimum cash balance in an escrow account](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/). A separate RMB 170 million Chinese grant, about USD 28 million, followed in 2019, both financing one engineering and construction contract with Huawei. The project was originally to complete on 31 October 2021.
 
 The [World Bank's Chad Digital Transformation Project](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) is an SDR 69.5 million IDA grant, about USD 92 million, running 2024 to 2029 across infrastructure, digital government and financial services. Two earlier operations have closed: a [USD 12 million statistical development project](https://projects.worldbank.org/en/projects-operations/project-detail/P159434) (2017 to 2022) and a [USD 35 million revenue-administration digitalisation project](https://projects.worldbank.org/en/projects-operations/project-detail/P164529) (2018 to 2023).
 

@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: GAB
-ledger_rows: 31
+ledger_rows: 33
 not_held: 19
-record: 63484493b261
+record: 4b5f7250b4a7
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -36,6 +36,12 @@ An earlier instrument reached the base this month and it is the furthest-going m
 The primary text of the social-media ordinance arrived, and it settles a conflation the base had carried. [Ordonnance n 0011/PR/2026](https://journal-officiel.ga/22404-0011-pr-2026-/), signed on 26 February 2026 and published in Journal Officiel n 110 of 8 April 2026, is the instrument the base had recorded twice â€” once as an ordinance whose text was not held and once as a bill reported second-hand to be awaiting promulgation. It runs to fifty-five articles in eleven chapters: digital majority is fixed at sixteen and account creation below it barred; editors must block publication, sharing and social-interaction functions for accounts identified as under-sixteen without recorded parental consent, disable by default any function letting unidentified persons contact a minor, filter algorithmic recommendation of violent, sexual or psychologically harmful AI content to minor accounts, and report quarterly to the competent authority; age-verification systems sit under a Haute Autorite de la Communication reference framework and a technical audit; and the refere numerique caps any temporary suspension of access to a platform at seventy-two hours. The twelve-month compliance clock runs from publication, to 8 April 2027.
 
 Gabon also [brought non-resident digital platforms within Value Added Tax and the Contribution Speciale de Solidarite](https://kongossanews.info/taxation-gafam-tva-numerique-gabon/) through its 2026 supplementary finance law, reaching foreign streaming and platform services. No registration threshold, collection mechanism or first receipt is on file.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+
+Two outward moves in the same week, one to learn and one to be heard. An interior, security and decentralisation ministry delegation [spent nearly two weeks in Rwanda on digital transformation and e-governance, artificial intelligence and digital policy, civil-registration and identification digitisation, cybersecurity, data protection, interconnection of public systems and decentralised service digitisation](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/) - the longest and widest-ranging of eight delegations the host received that week. Separately the digital economy minister [presented the country's candidacy for the International Telecommunication Union Council in Nassau on 3 September, under the slogan Shaping the Digital Future](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/). Neither carries an agreement, an adoption decision or a campaign platform beyond the slogan.
 <!-- /narrative -->
 ### Standards
 

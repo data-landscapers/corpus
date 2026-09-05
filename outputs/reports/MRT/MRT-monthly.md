@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: MRT
-ledger_rows: 13
+ledger_rows: 15
 not_held: 4
-record: 7a07a941c290
+record: 144618773950
 ---
 
 # Mauritania: monthly update, August – September 2026
@@ -26,6 +26,12 @@ Infrastructure moved on two fronts: [a commercial 5G network launched at Nouakch
 
 <!-- narrative: governance--gov-policy -->
 The road transport regulator [gave ride-hailing companies operating through digital applications 15 days to bring their authorisations into line with the law, warning that failure within the deadline could bring legal proceedings including suspension of the activity, with no further notice or warning required](https://lequotidien.mr/?p=40128&lang=fr). The communique sets the warning against growing use of digital platforms for transport services; no operator is named and no count of non-compliant authorisations is given.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+
+The state asked for outside help with the numbers behind its own borrowing. The finance minister [received an International Monetary Fund technical assistance mission on public finance statistics and state-owned enterprise debt, working on compilation in line with the 2014 government finance statistics manual and reviewing progress on the collection, reliability and consolidation of state-enterprise financial data](https://ami.mr/fr/archives/301765). No baseline, target or publication commitment is stated for that data, so what is currently held about state-enterprise debt stays unknown.
 <!-- /narrative -->
 
 ## ICT Infrastructure

@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: BEN
-ledger_rows: 19
+ledger_rows: 23
 not_held: 4
-record: d352b91d3106
+record: d38ef90deb35
 ---
 
 # Benin: monthly update, August – September 2026
@@ -77,6 +77,12 @@ A second kind of data exchange entered the record in August, and it is regional 
 
 <!-- narrative: dpi--dpi-id -->
 The identity agency wants to analyse what it holds. It [opened a tender for the architecture of a business-intelligence environment over its national identity data](https://www.ungm.org/Public/Notice/312907). Analytics over a population register raises the question of what the analysis is for and who may run it; the tender notice in the record held does not answer either, and no purpose limitation is stated.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+
+One commune is now completely mapped, and the map shows who the register cannot see. Parakou [became the first commune with complete cadastral coverage, 196,474 parcels across about 56,390 hectares, presented to a Netherlands embassy delegation on 1 September, with more than 11,500 cadastral registration certificates distributed door to door](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/). The ownership breakdown is the part worth carrying: [38 per cent of registered parcels are in men's ownership against 7 per cent women's and 3 per cent collectivites, and the owners of 21 per cent cannot be identified at all, with no parcel recorded as contested](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/).
 <!-- /narrative -->
 ### Sectoral management information systems
 

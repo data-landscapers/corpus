@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: BDI
-ledger_rows: 30
+ledger_rows: 31
 not_held: 15
-record: c69db697ff00
+record: ded4055509d9
 ---
 
 # Burundi: monthly update, August – September 2026
@@ -72,6 +72,12 @@ It is being built onto a base that already reaches most children: [84% of under-
 Three payment rails moved. The national instant payment system, launched publicly in April, [had 17 of 78 licensed institutions live by 4 August, five commercial banks and ten microfinance institutions among them](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank). The central bank [acceded to the pan-African payment and settlement system, with four domestic banks authorised to participate](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/), and [told the regional governors it expects to join the East African cross-border payment network by December 2026](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616).
 
 At the counter, none of that reaches the constraint. Traders at Karusi [report that electronic invoicing machines stop with every power cut](https://abpinfo.bi/2026/08/20/les-coupures-delectricite-compliquent-la-facturation-electronique-des-commercants-a-karusi/), which is the same limit the regulator names for network quality.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+
+The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this base holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
 <!-- /narrative -->
 ### Sectoral management information systems
 

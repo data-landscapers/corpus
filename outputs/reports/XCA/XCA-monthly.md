@@ -1,11 +1,11 @@
 ---
 title: Central Africa — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: XCA
-ledger_rows: 8
+ledger_rows: 9
 not_held: 0
-record: b3933b61a2fa
+record: 94157e465ca5
 ---
 
 # Central Africa: monthly update, August – September 2026

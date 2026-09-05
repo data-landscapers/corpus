@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: MUS
-ledger_rows: 34
+ledger_rows: 35
 not_held: 7
-record: a22040afed0b
+record: 6b9f36fc2877
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -146,6 +146,15 @@ The incumbent operator set out what sits behind its own platform. Its chief exec
 
 <!-- narrative: capacity--capacity-training -->
 The incumbent operator opened a national cybersecurity and artificial-intelligence awareness programme for secondary students with the education ministry, [starting on 13 August at the Mahatma Gandhi Institute with about 500 Grade 10 to Grade 12 students drawn from all four education zones](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), and free ten-hour AWS training on offer alongside. A [companion account of the same workshop](https://lexpress.mu/node/561500) describes its content as online risk and responsible use of new technologies. It is an operator-run programme rather than a curriculum change, and no full-year target, budget or evaluation is stated.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+
+The central bank opened its own statistics rather than waiting for the statutory framework to be rewritten. It [launched a central statistical database on 3 September, developed with the International Monetary Fund and the African Development Bank, opening statistical information to businesses, researchers, policymakers and citizens](https://gis.govmu.org/gis/?page_id=4008); the prime minister said a standards and codes report had underscored the need to strengthen statistical capacity and modernise dissemination, and that the statistics statute and the central bank statute are being reviewed. No series list, update cadence, licence or machine-readable access route is stated for the portal.
 <!-- /narrative -->
 
 ## Geopolitics

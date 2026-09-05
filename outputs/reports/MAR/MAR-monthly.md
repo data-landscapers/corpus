@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: MAR
-ledger_rows: 32
+ledger_rows: 33
 not_held: 15
-record: 9aa493df5215
+record: 3ba1c6d1b562
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -138,6 +138,15 @@ The institutional side did move. Four public-interest institutes [were establish
 
 <!-- narrative: technology--tech-industry -->
 The industry and trade ministry [added video games to the innovation funding programme](https://en.7news.ma/morocco-adds-video-games-to-innovation-funding-programme/), so companies in the sector can now apply for government funding to develop and test new games. No allocation, ceiling or first award has been published.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+
+A national survey put a number on the gap between owning a phone and being online. Preliminary results of the third national disability survey [put prevalence at 8.7 per cent of the population, up from 6.8 per cent in 2014, across 20,412 households, with the employment rate among people with disabilities at 12.7 per cent - 23 per cent of men and 4 per cent of women - and only 20 per cent reporting internet access despite most owning mobile phones](https://en.hespress.com/144841-morocco-disability-rate-rises-to-8-7-as-access-gaps-persist.html). Officials caution that the 1.9-point rise partly reflects broader detection rather than an equivalent rise in disability. The base holds no accessibility standard, audit or enforcement mechanism to read the access figure against.
 <!-- /narrative -->
 
 ## Data
