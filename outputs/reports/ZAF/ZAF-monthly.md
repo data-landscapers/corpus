@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: ZAF
-ledger_rows: 122
+ledger_rows: 129
 not_held: 23
-record: c86f06c53890
+record: ef9d779b4209
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -46,6 +46,12 @@ The data-protection statute has been enforceable since 2021 and operates as an a
 
 
 The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+
+Regional cooperation moved from documents to a stated test this month. The higher education minister [told a regional vice-chancellors' meeting in Johannesburg on 31 August that the region must build its own computing capability, trusted datasets, African-language technologies and cybersecurity rather than rent intelligence from others](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela), setting agreement on a regional higher education data system among five immediate priorities. The test he named is the useful part: by the June 2027 ministers' meeting the region should be able to point to students and academics who have moved and to data being shared, not to completed documents. [The meeting's own message was the same](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html) - build the practical systems that let qualifications, research and skills cross borders. No design, host, funding or data scope is stated for the data system.
 <!-- /narrative -->
 ### Standards
 
