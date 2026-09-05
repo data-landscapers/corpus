@@ -1,6 +1,6 @@
 ---
 title: Sao Tome and Principe — digital transformation and data governance status report
-compiled: 2026-09-04
+compiled: 2026-09-05
 place: STP
 region: XWA
 built_by: STATUS-INIT
@@ -176,7 +176,7 @@ Government payments have barely moved: [civil service salaries are distributed t
 ### Registries
 <!-- dpi.registry -->
 
-The electoral roll used for the 2026 elections was [the first ever derived automatically from civil-registry data rather than from a separate enrolment exercise](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/), and it inherited the registry's own omissions: 1,860 people of voting age were missing from the July 2026 lists through a process failure. The roll stood at 146,510 electors at the end of July 2026, against 142,191 at the presidential poll of 19 July, with a public inspection and update window running 1-8 August 2026.
+The electoral roll used for the 2026 elections was [the first ever derived automatically from civil-registry data rather than from a separate enrolment exercise](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/), and it inherited the registry's own omissions: 1,860 people of voting age were missing from the July 2026 lists through a process failure. [The roll stood at 146,510 electors at the end of July 2026, against 142,191 at the presidential poll of 19 July, with a public inspection and update window running 1-8 August 2026](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/).
 
 <!-- derived -->
 The roll grew by 4,319 electors between the 19 July 2026 presidential poll and the end of that month, a rise of about 3.0 per cent.

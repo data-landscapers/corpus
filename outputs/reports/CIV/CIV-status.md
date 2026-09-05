@@ -1,6 +1,6 @@
 ---
 title: Cote d'Ivoire — digital transformation and data governance status report
-compiled: 2026-09-04
+compiled: 2026-09-05
 place: CIV
 region: XWA
 built_by: STATUS-INIT
@@ -185,7 +185,7 @@ The state pays and collects on its own rail. [A presidential decree of 8 May 202
 
 The electoral roll sits outside the state's identity infrastructure: [the Independent Electoral Commission maintains its own biometric voter database, consultable only through its own website and SMS service, and has noted that it still relies on paper civil-status records rather than an automated feed](https://cei.ci/point-de-presse-relatif-a-larret-de-la-liste-electorale-definitive-2025/). [Registration covers roughly half the voting-age population](https://www.idea.int/data-tools/data/country?country=55&database_theme=293).
 
-[There is no single nationwide digital address register](https://www.economie-ivoirienne.ci/en/node/362). The Abidjan District Addressing Project has made standardised street names, building numbers and postal codes operational in several communes covering roughly 400,000 occupation units, a national digital address code was approved by the Council of Ministers in February 2025, extension is under way to Yamoussoukro, Korhogo and Daloa, and the database is shared with the tax authority, the statistics institute and utility operators.
+[There is no single nationwide digital address register](https://www.economie-ivoirienne.ci/en/node/362). [The Abidjan District Addressing Project has made standardised street names, building numbers and postal codes operational in several communes covering roughly 400,000 occupation units, a national digital address code was approved by the Council of Ministers in February 2025, extension is under way to Yamoussoukro, Korhogo and Daloa, and the database is shared with the tax authority, the statistics institute and utility operators](https://www.economie-ivoirienne.ci/en/node/362).
 
 Land is two registers at two speeds. [Urban land runs on SIGFU, which centralises applications, parcel history and cadastral data under a unique parcel identifier and has used electronic signature for title deeds since January 2024, with coverage still short of nationwide](https://www.capital-foncier.com/en/blog/sigfu-and-idufci-how-cadastral-digitalization-is-transforming-ivorian-land-management). Rural land is at the beginning: [the first electronic rural land certificates were signed in March 2026, in the Moronou region](https://www.abidjaneconomie.net/2026/03/15/dematerialisation-du-foncier-rural-les-premiers-certificats-fonciers-electroniques-signes-dans-le-moronou/).
 
