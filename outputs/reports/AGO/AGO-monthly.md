@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: AGO
-ledger_rows: 39
+ledger_rows: 43
 not_held: 7
-record: 38061cecc6cc
+record: e298ce1be085
 ---
 
 # Angola: monthly update, August – September 2026
@@ -141,6 +141,15 @@ Sub-national digitalisation in this window is policing infrastructure. The inter
 What is being replicated is visible in the standard build. Cabinda became the fifth province to get a centre when the interior minister [inaugurated it on 9 December 2025 with a 24-hour command and video-surveillance room answering the 111 emergency number, 184 cameras carrying facial recognition, number-plate reading and protection of designated strategic state sites, and 180 staff](https://cabinda.gov.ao/web/noticias/cisp-or-centro-integrado-de-seguranca-publica-de-cabinda-inaugurado-pelo-ministro-do-interior). No data-protection basis, retention rule or supervisory authority is named for any of that estate, and the data-protection agency's own organic law was [still out to consultancy in April](https://c2a.portais.gov.ao/uploads/Td_Rs_Consultoria_para_Elaboracao_da_Lei_Organica_da_Agencia_de_Proteccao_de_Dados_5a7f75b595.pdf).
 
 Benguela's provincial water utility [begins installing prepaid smart meters on 7 September, targeting 25,000 to 26,000 by March 2027 on a stated USD 23 million budget drawn from a USD 191.3 million rehabilitation project across five municipalities, starting with 500 units at Restinga and using 266 technicians](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html). It follows [a USD 15 million registration exercise that produced a 70,000-client database, replacing estimate-based billing against arrears stated above 10 billion kwanzas](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html).
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+
+Money reached artificial intelligence in the administration for the first time this month, ahead of any policy saying what it is for. A presidential order of 27 August [authorised six million United States dollars for the acquisition and implementation of an artificial-intelligence platform for the public administration and opened a public tender for it](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/). What the platform is to do, which bodies would use it and on what data are not stated, and the base holds no national instrument on artificial intelligence in government against which to read the spend.
 <!-- /narrative -->
 
 ## Capacity
