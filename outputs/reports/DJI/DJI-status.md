@@ -1,12 +1,12 @@
 ---
 title: Djibouti — digital transformation and data governance status report
-compiled: 2026-09-04
+compiled: 2026-09-05
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 188
+sources_cited: 189
 sections_written: 37
 not_established: 0
 acquire_lines: 21
@@ -284,7 +284,7 @@ The governance measures behind all of this move in opposite directions. [Rural M
 ### AI
 <!-- tech.ai -->
 
-No Djiboutian law addresses artificial intelligence directly, on the [telecommunications regulator's own account](https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/), and the national strategy meant to set the direction was [still unadopted at the end of August 2026](https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/), scheduled for presentation at the country's first national AI forum in early September.
+No Djiboutian law addresses artificial intelligence directly, on the [telecommunications regulator's own account](https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/), and the national strategy meant to set the direction had its [main lines presented on 3 September 2026 at the country's first national AI forum, covering 2026 to 2030 around six priorities - data and AI governance, cybersecurity, training, research, innovation and inclusion - with tools working in Somali, Afar and Arabic named as the means of limiting a new digital divide](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-se-dote-d-une-strategie-d-ia-sur-fond-de-preparation-encore-limitee). No text is published.
 
 Drafting ran through 2026 with [UN-ESCWA](https://www.unescwa.org/news/developing-national-artificial-intelligence-strategy-djibouti) and [UNESCO](https://www.unesco.org/fr/articles/djibouti-sengage-dans-lelaboration-dune-strategie-nationale-en-matiere-dia-alignee-aux-directives) support, public institutions being consulted at a workshop in Djibouti on 22 January 2026. The week of bilateral meetings that preceded it [found uneven awareness of AI across institutions, uneven capacity to act on it, and resistance among some of those consulted](https://www.unesco.org/fr/articles/djibouti-sengage-dans-lelaboration-dune-strategie-nationale-en-matiere-dia-alignee-aux-directives).
 

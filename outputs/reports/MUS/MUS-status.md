@@ -1,12 +1,12 @@
 ---
 title: Mauritius — digital transformation and data governance status report
-compiled: 2026-09-02
+compiled: 2026-09-05
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 108
+sources_cited: 109
 sections_written: 37
 not_established: 2
 acquire_lines: 29
@@ -284,6 +284,8 @@ The divide that remains legible is geographic. [The Rodrigues Regional Assembly 
 <!-- data.statistics -->
 
 Mauritius's statistical system ranks third in Africa and is losing ground: [capacity scored 78.1 out of 100 in 2023, down 11.4 points since 2014](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mu.pdf), one of the country's sharpest losses of administrative capability over the decade. The World Bank's Statistical Performance Indicators put the weakness in the inputs rather than the output: [data use scores above 89% while data sources — the censuses, surveys and administrative and geospatial data the system runs on — score only 50-69%](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023), with services, products and infrastructure sitting between the two at 70-89%.
+
+Dissemination has moved where compilation has not: the country [adopted the enhanced tier of the IMF's data dissemination standard in March 2026, the first African country to join it, having graduated to the standard itself in February 2012, and the central bank launched a central statistical database on 3 September 2026, built with the IMF and the African Development Bank](https://gis.govmu.org/gis/?page_id=4008); the statistics statute and the central bank statute are being reviewed to strengthen the framework and reinforce central bank independence, on the prime minister's account. No series list, update cadence or licence is stated for the database.
 
 The census record itself is complete: [a population census, an agricultural census and a business census have all been run within the past ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The survey programme around them is lopsided — [three or more household surveys and three or more labour force surveys over that decade and one health survey, but no agricultural survey and no business survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators). Administrative sources carry more of the load than that gap suggests: [aggregate vital statistics are compiled centrally in electronic form every month](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/Country%20Report%20-%20Mauritius_Eng_0.pdf), whether or not the civil status office that recorded the entry kept it on paper (2012); [schools, zones and the ministry enter enrolment, attendance and performance directly into a national OpenEMIS deployment](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/); and [the Bank of Mauritius reports MauCAS transaction volumes and values at least annually](https://www.bom.mu/sites/default/files/bom_ar_2024_final.pdf).
 
