@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: TGO
-ledger_rows: 23
+ledger_rows: 29
 not_held: 39
-record: 982868972323
+record: d3232e3fa4aa
 ---
 
 # Togo: monthly update, August – September 2026
@@ -70,6 +70,12 @@ The team is at least visibly operating: it [issued a high-severity alert on an a
 <!-- narrative: dpi--dpi-exchange -->
 The tax authority closed the paper route into the land record. From 17 August 2026 [digital submission of land parcel plans is mandatory through its single land window, ending paper filing by surveyors registered with the professional order](https://www.otr.tg/index.php/fr/blog/avis-communiques/1611-communique-n-005-2026-otr-cg-ci-dccf-relatif-aux-depots-des-dossiers-de-plans-parcellaires-en-ligne.html). No fallback channel, fee schedule, submission volume or data-protection basis for the cadastral record is stated — and the country's own national interoperability and data-exchange framework remains ***Not held***, so this is a single authority's window rather than a piece of a shared layer.
 <!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+
+Enrolment is now going to people rather than waiting for them. The national documentation directorate [has spent about a year sending mobile identity-card teams to large public gatherings, handling every step of an application on site, currently at a trade fair in Lome](https://togo-today.com/carte-didentite-la-direction-generale-de-la-documentation-nationale-veut-se-rapprocher-des-populations/), with the stated aim of shortening processing times and putting a card in the hands of the majority of Togolese by 2028. No count of cards issued through the mobile teams is published, so the register's own figure - more than six million unique identification numbers at the end of 2025 - remains the only measure of how far the effort has got.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -110,6 +116,12 @@ Togo's agricultural digital work is now being copied. Chad [drew on the Togolese
 
 ## Technology
 
+### AI
+
+<!-- narrative: technology--tech-ai -->
+
+The month's only artificial-intelligence movement is a procurement. The United Nations Development Programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running from September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349), with submissions closing on 14 September. Which region the note is to cover, who it is written for and what standing it will have once written are not stated.
+<!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->

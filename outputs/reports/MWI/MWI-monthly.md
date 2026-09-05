@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: MWI
-ledger_rows: 42
-not_held: 39
-record: 76c939c932c4
+ledger_rows: 49
+not_held: 38
+record: c0c0184b410b
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -33,6 +33,12 @@ The revenue authority launched a five-year Corporate Strategic Plan in Blantyre 
 
 <!-- narrative: governance--gov-legislate -->
 Two instruments, one passed and one only intended. Parliament [passed the Financial Crimes (Amendment) Bill in the week to 6 August](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/), which awaits assent; the bill text is not held, so what it changes for digital finance cannot be read off the record. Separately the minister [stated an intention to legislate on artificial intelligence](https://times.mw/government-eyes-ai-laws-amid-push-for-innovation/), with no draft, scope or timetable behind the statement.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+
+A gap the base has carried since April closed this month, though not by the route that would have settled it. The United States embassy [said Malawian biological specimens will be shared with Washington only during public health emergencies and outbreaks and that no personally identifiable information passes under the agreements](https://mwnation.com/us-insists-specimen-data-wont-be-shared/), dating the specimen-sharing agreement to 11 February 2026 inside a five-year health package valued at US$936 million. Malawi must supply requested specimens within seven days and gets priority access to any resulting diagnostics, vaccines or therapeutics only after meeting its own domestic needs - a clause Malawian health advocates call a major limitation. The instrument's own text remains withheld and in litigation, so what is now on the record is the shape of the deal and both governments' account of it, not its terms.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -186,4 +192,10 @@ The statistical office and the communications regulator [put a Fourth National I
 
 <!-- narrative: geopolitics--geopol-eu -->
 The European Union [launched a EUR 143 million annual action plan for Malawi on 21 August](https://www.eeas.europa.eu/delegations/malawi/european-union-launches-new-eur143-million-annual-action-plan-aap-2026-malawi_en), four months after the [fourth partnership dialogue covered new gateway investments](https://www.eeas.europa.eu/delegations/malawi/malawi-and-european-union-hold-partnership-dialogue-1_en). Neither account states a digital or data-governance component of its own, so what the money buys in this sector is not knowable from the record - which is a different problem from the money not existing.
+<!-- /narrative -->
+### India activities
+
+<!-- narrative: geopolitics--geopol-india -->
+
+India enters the record as a destination rather than a donor. Officials from the digital and ICT sector and line ministries [joined delegations from Ethiopia, Rwanda, Sierra Leone and Zambia and the African Union Commission on a south-south learning mission hosted by the United Nations Development Programme](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/), studying India's digital public infrastructure and the institutions that built it; [the state government of Karnataka received them in Bengaluru on 1 September](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/). No agreement, financing, technology transfer or follow-on commitment is named on either side.
 <!-- /narrative -->
