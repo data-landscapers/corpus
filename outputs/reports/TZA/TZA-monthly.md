@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: TZA
-ledger_rows: 62
+ledger_rows: 65
 not_held: 13
-record: bbf6f513a227
+record: d95c47f4d51e
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -177,6 +177,12 @@ At an international AI meeting on 18 July the ICT minister stated that a [nation
 Twelve days later, at a training event on 30 July, an archives officer said [government is still drafting AI guidelines](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292); an [external policy outlook published the same day placed Tanzania among states still developing a strategy](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/).
 
 Three deployments were reported. A cardiac institute stated on 16 July that its [digital patient tracking system is in use for medical-camp follow-up](https://www.thecitizen.co.tz/tanzania/news/national/jkci-s-digital-patient-tracking-system-sets-new-standard-for-follow-up-healthcare-in-tanzania-5528476), alongside AI-enabled echocardiography and contactless vital-signs monitoring, with no patient volumes or procurement route. A peer-reviewed study published 3 August reported a ports enquiry chatbot at [95.1% weighted task success with fifteen domain experts](https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3), with no production deployment. At the agricultural exhibition on 4 August a university showed [a medicine-authenticity lookup at development stage and a voice-driven mobile-money service for blind users in testing](https://www.thecitizen.co.tz/tanzania/news/national/ardhi-university-unveils-ai-solutions-to-fight-counterfeit-drugs-expand-financial-access-5546322); both are student prototypes, self-reported, with no institutional partner, regulator or funder named.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+
+The sector has multiplied and says it cannot scale. A United Nations capital development fund [counts 171 active fintech companies in 2026 against 33 in 2021, alongside more than 70 per cent of adults holding a mobile money account and 6.4 billion digital payment transactions in 2024](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-fintechs-banks-told-to-rethink-partnerships-5583302), and founders told a Dar es Salaam session that partnerships with banks and mobile operators remain the main barrier - banks assessing early-stage firms through a static lens, the core processing layer commoditised as institutions build in house, limited patient capital, talent shortages, regulatory and tax uncertainty and the cost of acquiring customers. The stated ambition is to be a leading African fintech market by 2031, with no intermediate target on file.
 <!-- /narrative -->
 ### Innovation ecosystem
 

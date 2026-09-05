@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: NER
-ledger_rows: 19
+ledger_rows: 22
 not_held: 4
-record: c332004cffbf
+record: 45214a0267e9
 ---
 
 # Niger: monthly update, August – September 2026
@@ -36,6 +36,12 @@ On 30 July a Nigerien technical mission led by the interior ministry's secretary
 
 <!-- narrative: governance--gov-standards -->
 The regulator's quality-of-service thresholds are not held. Its 2021 annual report [names the decision that sets them and what it does, but not its threshold values](https://arcep.ne/wp-content/uploads/2024/05/Rapportannuel2021ARCEPNIGER_11.08.2022.pdf), and the regulator's own site does not surface the 2026 formal notices either. The standard the operators are being measured against cannot be read off the record, and neither, therefore, can the finding that they failed it.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+
+A state observatory monitored the country's media and platforms through a security incident and then told the media owners what it found. The national communication observatory [monitored traditional media, online media and the main publicly accessible digital platforms from 28 August to 1 September and presented its conclusions in Niamey on 2 September, reporting exceptional information intensity in the hours after shots and explosions were reported near an air base at the international airport, the effects of an information vacuum, divergence in how the facts were characterised, and social networks accelerating both information and disinformation with old images and out-of-context video circulated](https://www.lesahel.org/rencontre-entre-le-ministre-charge-de-la-communication-le-president-de-lonc-et-les-promoteurs-de-medias-lonc-devoile-les-conclusions-dun-monitoring-realise-a-la-suit/). Its president said the meeting was not a trial of the media. The monitoring report itself is not published, so what was measured, over what sample and under what legal basis is not established.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -104,6 +110,12 @@ The [Council of Ministers of 21 August 2026 took decisions on research and innov
 
 ## Inclusion
 
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+
+A national digital-skills caravan reached the country's far east. About sixty young people [took part over two days in the university's computer room at Diffa, on training covering digital tools, occupations and opportunities](https://anp.ne/diffa-le-niger-digital-day-renforce-les-competences-numeriques-des-jeunes/). It is one stage of a caravan for which no national total, stage list, curriculum or funder is published.
+<!-- /narrative -->
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->

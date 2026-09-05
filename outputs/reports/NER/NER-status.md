@@ -1,6 +1,6 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-09-04
+compiled: 2026-09-05
 place: NER
 region: XWA
 built_by: STATUS-INIT
@@ -157,7 +157,7 @@ Trade is the exception. Niger's [National Single Window, operational since April
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-[Mass enrolment for the CNIB-AES biometric national identity card began on 25 April 2026 at Niamey's Yantala commissariat](https://www.lesahel.org/carte-nationale-didentite-biometrique-aes-lancement-de-lenrolement-de-masse-sous-le-signe-de-la-souverainete-numerique/), rolling out across the capital's twenty commissariats before extending to the interior, after President Tiani enrolled as the first holder on 27 March. The card is mandatory from age 15, valid for five years, captures fingerprint, facial, voice and iris biometrics, and costs 4,500 CFA francs, or 9,000 for express processing. [About 13 million Nigeriens aged 14 and over are legally required to hold a national identity card, a number officials place far above the number who actually hold one (August 2026)](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/).
+[Mass enrolment for the CNIB-AES biometric national identity card began on 25 April 2026 at Niamey's Yantala commissariat](https://www.lesahel.org/carte-nationale-didentite-biometrique-aes-lancement-de-lenrolement-de-masse-sous-le-signe-de-la-souverainete-numerique/), rolling out across the capital's twenty commissariats before extending to the interior, after President Tiani enrolled as the first holder on 27 March. [The card is mandatory from age 15, valid for five years, captures fingerprint, facial, voice and iris biometrics, and costs 4,500 CFA francs, or 9,000 for express processing](https://www.lesahel.org/carte-nationale-didentite-biometrique-aes-lancement-de-lenrolement-de-masse-sous-le-signe-de-la-souverainete-numerique/). [About 13 million Nigeriens aged 14 and over are legally required to hold a national identity card, a number officials place far above the number who actually hold one (August 2026)](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/).
 
 <!-- derived -->
 Two foundational-identity tracks are running at once: a sovereignty-branded AES card and passport built with a Libyan vendor, and a World Bank programme piloting the open-source MOSIP platform with an Indian supplier.

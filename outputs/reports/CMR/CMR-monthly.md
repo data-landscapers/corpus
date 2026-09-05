@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: CMR
-ledger_rows: 29
+ledger_rows: 33
 not_held: 5
-record: 122d56d581ae
+record: 59c25e1214d9
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -22,10 +22,22 @@ Payments are opening at the edges rather than the middle. [Less than 1% of regio
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+
+The state has commissioned a plan to digitise the system through which it buys everything else. A six-month assignment to produce a national master plan for the public-procurement information system [went to a consulting grouping for FCFA 241.36 million including tax, funded under a development bank public finance governance project, to audit existing systems, analyse information exchange between actors and propose digitisation scenarios and an implementation programme](https://www.camerounlink.com/news/cameroon/2026/9/2/le-cameroun-prepare-un-plan-directeur-pour-numeriser-ses-marches-publics-156516/). It builds on an e-procurement system already in place, which an interministerial review recommended accelerating in June 2025 and for which no throughput or adoption figure is published, against [8,143 programmed contracts worth FCFA 1,745.9 billion recorded by the ministry for 2025](https://www.camerounlink.com/news/cameroon/2026/9/2/le-cameroun-prepare-un-plan-directeur-pour-numeriser-ses-marches-publics-156516/).
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
 The one legislative act in the window changes the regulator rather than the rules it applies. A finance ministry order [moved the telecoms regulator from the third to the second category of public establishments, on its average realised budget across the 2022, 2023 and 2024 financial years](https://art.cm/fr/article/lart-accede-a-la-2e-categorie-des-etablissements-publics-la-performance-institutionnelle). The category governs institutional standing and pay structure, so what moved is the regulator's own position in the state rather than any power it holds over the sector. Neither the order text nor the budget figures behind it are published.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+
+The region began drafting the rules for moving data across its own borders, in this country's second city. Experts from Central African member states [met in Douala from 31 August to 4 September to assess national readiness and agree the pillars of a regional framework on cross-border data governance, with technical and financial support from the German development agency, a continental development agency, the Economic Commission for Africa and the African Union Commission](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/). Pillars are all that is agreed: no draft text, adoption route or timetable is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -123,6 +135,15 @@ A domestically built platform for creating online shops was [profiled on 26 Augu
 
 <!-- narrative: capacity--capacity-training -->
 Training moved as a building rather than as a cohort. Stakeholders [met on 20 August on a public-service digital training campus and its learning platform](https://globalinfosnews.com/smart-campus-lms-formation-4-0-la-mutation-numerique-des-agents-publics-camerounais-est-en-marche/). No site, budget, curriculum or intake is published, so what the base holds is an intention with a meeting behind it.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+
+The entitlements behind disability inclusion were set out in public, and the online harms alongside them. The social affairs ministry [described National Disability Cards issued through the ministry and its regional delegations, carrying income-tax and salary-tax exemption under the 2026 finance law and, under a joint ministerial decision, a 50 per cent higher-education fee waiver and free school enrolment for children living with disabilities](https://mail.cameroon-tribune.cm/article.html/80235/en.html/details_2); the same session heard that unguided adoption of short-video platforms exposes disabled users to targeted cyberbullying, hate speech and algorithmically reinforced stereotypes. No card count or take-up figure is published.
 <!-- /narrative -->
 
 ## Data

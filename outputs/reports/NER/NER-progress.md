@@ -1,12 +1,12 @@
 ---
 title: Niger — progress report, September 2025 – September 2026
-compiled: 2026-09-04
-period: 2025-09-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2025-09-01 to 2026-09-05
 place: NER
-ledger_rows: 75
+ledger_rows: 78
 not_held: 4
 indicators: 121
-record: 8e00185fe694
+record: 237aa4d7291c
 ---
 
 # Niger: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-04.*
+*The period is 2025-09-01 to 2026-09-05.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -69,7 +69,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Connectivity | Mobile penetration |  | ***No evidence*** |
+| Connectivity | Mobile penetration | The regulator [launched a campaign on 27 July 2026 to verify mobile coverage and the voice and data service map](https://www.lesahel.org/lair-du-temps-le-reseau-mobile-mauvaise-qualite-et-desarroi-des-usagers/), against months of user complaints about service quality. <details><summary>Full record</summary>The electronic communications and post regulator launched a campaign on 27 July 2026 to verify mobile network coverage and the voice and data service map; a press account reports that users have faced poor quality for several months, with interrupted calls and correspondents shown as unavailable or engaged, and that the regulator's expert findings are awaited ([campaign](https://www.lesahel.org/lair-du-temps-le-reseau-mobile-mauvaise-qualite-et-desarroi-des-usagers/)).<br><br>The campaign's results are not published, so the base holds the complaint and the promise of a measurement but no measurement, and no quality-of-service obligation, target or penalty is on file.</details> | Advanced |
 | Connectivity | Internet usage |  | ***No evidence*** |
 | Connectivity | Mobile affordability |  | ***No evidence*** |
 | Connectivity | National fibre backbone | [1,031 km on five cross-border axes](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/) were provisionally accepted in November 2025, above a [2,275 km domestic backbone](https://china.aiddata.org/projects/58683/) completed in 2017. <details><summary>Full record</summary>The trans-Sahara acceptance covers five axes to Algeria, Chad, Nigeria, Benin and Burkina Faso plus an 88 km loop to the national data centre, under a project launched in 2017 with works from 2021 and financed at about EUR 43m through a concessional window and national counterpart funds ([acceptance](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/), [reception](https://anp.ne/niger-reception-provisoire-des-troncons-du-projet-de-la-dorsale-transsaharienne-a-fibre-optique/), [financing](https://www.afdb.org/fr/news-and-events/press-releases/le-niger-franchit-une-etape-majeure-vers-la-connectivite-haut-debit-avec-la-reception-de-plus-de-1-000-kilometres-de-fibre-optique-88765)).<br><br>The domestic backbone runs 2,275 km across three sections, built under a concessional loan of RMB 623.7m signed in January 2014 and completed in the first quarter of 2017, aimed at raising national broadband coverage from 54 to 72 per cent ([loan](https://china.aiddata.org/projects/58683/), [backbone](https://china.aiddata.org/projects/58683/)). Repayment responsibility was assigned to the incumbent, whose legal relationship to the loan is unresolved in the source.</details> | Advanced |

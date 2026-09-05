@@ -1,11 +1,11 @@
 ---
 title: Seychelles — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: SYC
-ledger_rows: 11
+ledger_rows: 13
 not_held: 6
-record: 6e53f71fba80
+record: 472b3a0da748
 ---
 
 # Seychelles: monthly update, August – September 2026
@@ -26,6 +26,12 @@ The rest is institutional. The national science, technology and innovation insti
 
 <!-- narrative: governance--gov-policy -->
 Cabinet approved measures to operationalise the Multidimensional Vulnerability Index on 22 July 2026, naming "enhanced data and institutional capacity" and alignment of planning and budgeting frameworks as the instruments, with no implementation detail yet given. [President Herminie restated a "fully digitalised e-government by 2030" target on 4 August](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles), while receiving Malta's first High Commissioner's credentials and naming bilateral technical cooperation as the route under discussion. On 10 August the institution meant to carry that work was described as back in place: [the National Institute for Science, Technology and Innovation has been reinstated, its Secretariat sitting under the Office of the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) after five years in which it was closed and its functions folded into a ministry division. Its Secretary of State puts its near-term focus on technological innovation in government procedures and on accelerating the digitalisation of public-service delivery. No commencement notice for the NISTI Act 2025 is on record, so the body is described as functioning without the statute behind it being shown to be in force.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+
+The information commission's visible work is inducting the officers other public bodies must appoint. It [held the second of its two annual induction sessions for newly appointed information officers, led by its chief executive and a senior information analyst](https://nation.sc/articles/32125/information-commission-trains-newly-appointed-ios). The enforcement half of its mandate still shows no case: it has been the designated data-protection authority since December 2023, an enforcement-capacity gap was documented in November 2025, and no audit, investigation or fine against any controller has been reported. No count of officers inducted or bodies covered is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
