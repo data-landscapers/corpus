@@ -1,15 +1,15 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c01f2718357f
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b9a5df02b81f
 ---
 
 # Other GovTech and e-Gov: monthly update, August 2026
 
-*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -236,6 +236,10 @@ The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-u
 At state level a second donor took the policy layer rather than the platform: on 16 August [the UK opened a digital policy and regulatory reform project with Ekiti State](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/), to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework. Its value and duration are not published.
 
 Two more federal fronts opened in the same week. The communications ministry [launched services.gov.ng as a single point of access to services previously spread across agency websites and offices](https://techafricanews.com/2026/08/18/nigeria-launches-centralised-gateway-portal-for-government-services/) — business registration, trade permits, identity verification, regulatory licensing and empowerment programmes — framed partly as a defence against fraudulent look-alike sites. No service count, transaction volume, cost or build attribution is published, and nothing states how it relates to the single sign-on portal soft-launched three weeks earlier. And on 19 August the IT development agency and the Hajj commission [agreed to digitise pilgrimage operations end to end, from registration and payment verification to flight manifests, logistics and pilgrim tracking](https://techafricanews.com/2026/08/19/nitda-and-nahcon-partner-to-fully-digitise-nigerias-hajj-operations/), the commission disclosing that its ICT function runs on two developers. It is an agreement to work together: no scope document, budget, timetable or procurement follows it.
+
+## Rwanda
+
+The e-government platform's own numbers reached the record this month through an account of other governments coming to study it. [Two hundred and forty-eight public services from close to 50 institutions are online, birth, celibacy and marriage certificates issued through the platform rose from 683,560 in 2020 to 1,977,628 in 2024, and the share processed in under an hour went from 61 per cent to 70 per cent over the same period](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/). The figures are the operator's own and the most recent year is 2024; nothing for 2025 or 2026 is published.
 
 ## Sao Tome and Principe
 

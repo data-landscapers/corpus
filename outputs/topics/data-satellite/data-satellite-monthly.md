@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: data.satellite
 places: BDI; COM; COG; CIV; COD; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; ZMB
-record: b8420e82a35e
+record: b058e210e894
 ---
 
 # Use of satellite data: monthly update, August 2026

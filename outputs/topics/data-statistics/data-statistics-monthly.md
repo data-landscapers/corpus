@@ -1,15 +1,15 @@
 ---
 title: National statistics — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: data.statistics
-places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SYC; ZAF; UGA; ZWE
-record: ebf9cadb0dc6
+places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; UGA; ZWE
+record: c769abffa5da
 ---
 
 # National statistics: monthly update, August 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -89,6 +89,10 @@ The statistics institute runs a [microdata archive under its own domain holding 
 
 The fifth general population and housing census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803). No methodology note, response rate or dissemination calendar accompanies the presentation, so what the base holds is that the results exist rather than what they say.
 
+## Mauritius
+
+The central bank opened its own statistics rather than waiting for the statutory framework to be rewritten. It [launched a central statistical database on 3 September, developed with the International Monetary Fund and the African Development Bank, opening statistical information to businesses, researchers, policymakers and citizens](https://gis.govmu.org/gis/?page_id=4008); the prime minister said a standards and codes report had underscored the need to strengthen statistical capacity and modernise dissemination, and that the statistics statute and the central bank statute are being reviewed. No series list, update cadence, licence or machine-readable access route is stated for the portal.
+
 ## Mozambique
 
 The statistics institute opened enumerator training on 27 July for a census pilot running 1-15 August, testing procedures for a 2027 census it states will be the first run entirely in digital format ([training account](https://jornalnoticias.co.mz/destaque/mais-de-200-jovens-recebem-formacao-para-o-censo-piloto/)).
@@ -108,6 +112,10 @@ A state put a household survey at the centre of its budgeting. Katsina [launched
 ## Rwanda
 
 The seventh demographic and health survey, collected between June and November 2025, [reached its final report in August 2026](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf) — 690 pages, almost entirely tables by design. The release notice in January had pointed to a signed press release rather than the report ([notice](https://statistics.gov.rw/node/805)), so the substantive document only entered the record this month. It joins a foreign private capital census of [424 enterprises at an 89.6 per cent response rate](https://statistics.gov.rw/data-sources/censuses/Foreign-Private-Capital-Census/foreign-private-capital-census-2025), reported in February.
+
+## Senegal
+
+An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them.
 
 ## Seychelles
 

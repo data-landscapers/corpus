@@ -1,15 +1,15 @@
 ---
 title: Rural digital data capture — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SLE; TGO; ZMB; ZWE
-record: f70825ce11de
+places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TGO; ZMB; ZWE
+record: 410fa775e220
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -62,6 +62,10 @@ The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/i
 ## Nigeria
 
 The communications minister told the President on 4 August that [deployment of about 3,700 towers begins around October](https://www.vanguardngr.com/2026/08/fg-to-rollout-90000km-fibre-optic-network-tijani/), reaching more than 20 million people in communities with no telecoms service and with the capital stated as raised — no funding source, operator or contract is named. The baseline against which it is measured is [23% of rural communities connected to 57% urban](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/).
+
+## Senegal
+
+The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/dematerialisation-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national dematerialisation platform. No centre count, connectivity rate or remediation budget is published against the diagnosis.
 
 ## Sierra Leone
 

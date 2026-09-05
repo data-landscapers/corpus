@@ -1,17 +1,15 @@
 ---
 title: New investments — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: finance.new
-places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
-record: 00a4c91036fa
+places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
+record: 4fe5f54abfb2
 ---
 
 # New investments: monthly update, August 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
 
@@ -56,6 +54,10 @@ A domestic internet provider put [E570,000 into free wireless access across the 
 ## Ethiopia
 
 The month's finance entry is an allegation rather than a commitment. Corruption allegations against a donor-funded digital project [were raised in the German federal parliament](https://afdbundestag.de/betruegereien-in-der-entwicklungshilfe-muessen-konsequent-aufgeklaert-werden/). No project name, amount, Ethiopian response or investigation outcome is on the record held, so what the base carries is that the question has been asked in a donor's own legislature.
+
+## Ghana
+
+Two new commitments enter the base this month, one domestic and one from a development partner. The government [put GH¢100 million, about US$8.88 million, behind the Ghana National Research Fund for 2026](https://shore.africa/2026/08/31/ghana-ai-research-fund/), separately from its US$250 million commitment to a national artificial-intelligence computing centre; no disbursement or call for proposals is reported against the allocation. The UN capital development fund [began a second phase with a Ghanaian microcredit company on a US$200,000 grant it expects to catalyse US$1 million in loans and savings](https://gna.org.gh/2026/09/uncdf-fido-begin-phase-two-partnership-to-expand-digital-finance-for-msmes/), after a first phase on US$30,000 that reached 470 enterprises across three regions and recorded 1,988 youth loans totalling GHS494,760.
 
 ## Kenya
 

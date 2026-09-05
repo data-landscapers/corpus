@@ -1,15 +1,15 @@
 ---
 title: Access to services — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: include.access
-places: DZA; AGO; BWA; BDI; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 57413ee63162
+places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
+record: 30924e2c3457
 ---
 
 # Access to services: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,10 @@ The Ministry of Youth and Gender Affairs [describes the Department of Gender Aff
 ## Burundi
 
 A rural community digital hub [opened at Shombo](https://www.linkedin.com/posts/eddy-kubwimana_internet4all-shombo-internet4all-activity-7497195156408954880-fCPP). It is a single site reported by its own organisers; no programme, national count, funding line or usage figure stands behind it.
+
+## Cameroon
+
+The entitlements behind disability inclusion were set out in public, and the online harms alongside them. The social affairs ministry [described National Disability Cards issued through the ministry and its regional delegations, carrying income-tax and salary-tax exemption under the 2026 finance law and, under a joint ministerial decision, a 50 per cent higher-education fee waiver and free school enrolment for children living with disabilities](https://mail.cameroon-tribune.cm/article.html/80235/en.html/details_2); the same session heard that unguided adoption of short-video platforms exposes disabled users to targeted cyberbullying, hate speech and algorithmically reinforced stereotypes. No card count or take-up figure is published.
 
 ## Central African Republic
 
@@ -99,6 +103,10 @@ The first usable figure for how many Malawians are online came from the operator
 
 The month's one measure of what connectivity costs a Malian is a comparison with the neighbour. About [1.5GB of mobile data in Bamako buys what 25GB buys in Dakar](https://theafricantribune.info/malis-telecom-costs-surge-while-senegal-thrives-in-data-affordability/) — a ratio of roughly 25 to 1, which critics attribute to weak market oversight by the regulator, the duopoly of the two incumbent operators, and the years since a new operator licence was issued. It is a press comparison rather than a regulator or operator tariff series, and neither the basket nor the date of the prices compared is stated; taken at its own weight it still sits awkwardly against the digital-sovereignty case the same month's fora were built around.
 
+## Morocco
+
+A national survey put a number on the gap between owning a phone and being online. Preliminary results of the third national disability survey [put prevalence at 8.7 per cent of the population, up from 6.8 per cent in 2014, across 20,412 households, with the employment rate among people with disabilities at 12.7 per cent - 23 per cent of men and 4 per cent of women - and only 20 per cent reporting internet access despite most owning mobile phones](https://en.hespress.com/144841-morocco-disability-rate-rises-to-8-7-as-access-gaps-persist.html). Officials caution that the 1.9-point rise partly reflects broader detection rather than an equivalent rise in disability. The base holds no accessibility standard, audit or enforcement mechanism to read the access figure against.
+
 ## Mozambique
 
 The central bank's Financial Inclusion Report 2025, reported on 24 July, counted 482,359 financial access points, up 36% on 2024, of which 446,604 were non-bank agents against 315,005 the year before, while automated teller machines fell from 1,391 to 1,383 and card terminals from 35,486 to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). [Mobile money reached 1,313 accounts per thousand adults against 337 bank accounts, and the national Financial Inclusion Index held flat at 36.4 points](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/). [Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/).
@@ -117,6 +125,10 @@ Education added a channel built for the same margins. The education ministry and
 
 
 What that looks like in one region was put to the parliamentary ICT committee on 11 August: [21 of Kavango West's 188 schools have workable connectivity, leaving 55,002 learners without digital teaching tools](https://www.nampa.org/text/22988531), and health officials told the same committee that clinics there still struggle with unreliable mobile coverage. The figures are the regional education director's own, and they sit against a target of full telecommunications coverage by 2030.
+
+## Niger
+
+A national digital-skills caravan reached the country's far east. About sixty young people [took part over two days in the university's computer room at Diffa, on training covering digital tools, occupations and opportunities](https://anp.ne/diffa-le-niger-digital-day-renforce-les-competences-numeriques-des-jeunes/). It is one stage of a caravan for which no national total, stage list, curriculum or funder is published.
 
 ## Nigeria
 
@@ -150,6 +162,10 @@ One cooperation arrangement addressed a group the grants system serves and the d
 The state's own IT agency was told why it cannot deliver. The Public Service Commission's investigation of government IT procurement over 2020 to 2025 found [86% of managing-director roles held on an acting or interim basis, board tenures too short for strategic continuity, and irregular expenditure above R2bn across four audited years read as control failure through absent deterrence](https://www.itweb.co.za/article/sita-prioritises-exec-placements-as-it-looks-to-revival/Kjlyr7wBrQ4vk6am); the agency told Parliament in August it is finalising executive recruitment, naming no appointment or date, while some of the hundred-plus departments it carries look elsewhere.
 
 The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
+
+## South Sudan
+
+Access got dearer and the machinery for questioning it got weaker, in the same week. A published account reports [internet subscription tariffs rising by approximately 15 per cent across both operators](https://www.radiotamazuj.org/en/news/article/opinion-internet-tariffs-has-ateny-wek-failed-or-joined-in-eating) at a time the writer describes the economy as already struggling - an opinion column is the whole of the evidence, with no tariff schedule or regulator approval on file. Separately the state's own human rights commission [rated the country weak on transparency and participation and very weak on accountability, said access to public information remained limited, and heard that the body responsible for access to information lacks the staff and capacity to enforce the law](https://www.radiotamazuj.org/en/news/article/rights-officials-accuse-government-of-treating-civil-society-as-enemies).
 
 ## Tanzania
 

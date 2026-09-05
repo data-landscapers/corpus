@@ -1,15 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: gov.discourse
-places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; UGA; ZMB
-record: d014fe81712f
+places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; UGA; ZMB
+record: a247b6af439f
 ---
 
 # Public debate and participation in policymaking: monthly update, August 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -114,6 +114,10 @@ Simplification is law and is not yet practice. A member's written question to th
 ## Namibia
 
 The dominant mobile operator [publicly rejected customer claims that it takes data](https://www.namibian.com.na/we-dont-steal-your-data-mtc/), its data adviser telling a trade-fair discussion on 30 August 2026 that billing is consumption-based, attributing rapid depletion to video streaming and hotspot sharing, and distinguishing consumption from bundle expiry. The operator said it is building a control letting customers opt in or out of airtime being spent on data once a bundle runs out; no implementation date was given. It is the one argument in this section held with a company rather than a ministry, and the only one that produced a stated product change.
+
+## Niger
+
+A state observatory monitored the country's media and platforms through a security incident and then told the media owners what it found. The national communication observatory [monitored traditional media, online media and the main publicly accessible digital platforms from 28 August to 1 September and presented its conclusions in Niamey on 2 September, reporting exceptional information intensity in the hours after shots and explosions were reported near an air base at the international airport, the effects of an information vacuum, divergence in how the facts were characterised, and social networks accelerating both information and disinformation with old images and out-of-context video circulated](https://www.lesahel.org/rencontre-entre-le-ministre-charge-de-la-communication-le-president-de-lonc-et-les-promoteurs-de-medias-lonc-devoile-les-conclusions-dun-monitoring-realise-a-la-suit/). Its president said the meeting was not a trial of the media. The monitoring report itself is not published, so what was measured, over what sample and under what legal basis is not established.
 
 ## Nigeria
 

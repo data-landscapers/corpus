@@ -1,21 +1,25 @@
 ---
 title: Strategies, plans and policies — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: gov.policy
-places: BFA; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 722948f5e854
+places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 187cc686f50a
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Burkina Faso
 
 Policy work this month was procedural rather than substantive. The digital transition ministry [held a CASEM session on what it contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). The plan text, the digital component, any budget line and any target are all unpublished, so what the record holds is that the process is running and not what it is expected to produce.
+
+## Cameroon
+
+The state has commissioned a plan to digitise the system through which it buys everything else. A six-month assignment to produce a national master plan for the public-procurement information system [went to a consulting grouping for FCFA 241.36 million including tax, funded under a development bank public finance governance project, to audit existing systems, analyse information exchange between actors and propose digitisation scenarios and an implementation programme](https://www.camerounlink.com/news/cameroon/2026/9/2/le-cameroun-prepare-un-plan-directeur-pour-numeriser-ses-marches-publics-156516/). It builds on an e-procurement system already in place, which an interministerial review recommended accelerating in June 2025 and for which no throughput or adoption figure is published, against [8,143 programmed contracts worth FCFA 1,745.9 billion recorded by the ministry for 2025](https://www.camerounlink.com/news/cameroon/2026/9/2/le-cameroun-prepare-un-plan-directeur-pour-numeriser-ses-marches-publics-156516/).
 
 ## Cape Verde
 

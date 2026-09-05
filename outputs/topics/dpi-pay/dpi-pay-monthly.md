@@ -1,15 +1,15 @@
 ---
 title: Digital Payments and Fintech — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: dpi.pay
-places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bac5529af563
+places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 38a60b996a3e
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -189,6 +189,10 @@ The withdrawn credit product came back on 24 August. The dominant operator [resu
 Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
 
 The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
+
+## Senegal
+
+The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/).
 
 ## Sierra Leone
 

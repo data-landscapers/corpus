@@ -1,15 +1,15 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: digital.localgov
-places: AGO; BFA; BDI; MWI; MLI; NAM; NGA; RWA; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: 66f7149bf148
+places: AGO; BFA; BDI; GHA; MWI; MLI; NAM; NGA; RWA; ZAF; SDN; TZA; TGO; ZMB; ZWE
+record: 915f1001fa98
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ Citizen service centres stand at [two pilot sites under construction, with archi
 ## Burundi
 
 Local government gained equipment rather than systems. A development agency [handed laptops, uninterruptible power supplies, printers and photocopiers to provincial governors and communal administrators, alongside vehicles](https://lerenouveau.bi/le-pnud-octroie-un-don-destine-aux-gouverneurs-de-province-et-administrateurs-communaux/). It is the most direct addition to the ICT equipment held by Burundian local government offices this ledger records, and it is a donation: no count of offices reached, no maintenance arrangement and no connectivity provision accompanies it.
+
+## Ghana
+
+Local government has gone in one month from a reform strategy's integration target to a signed programme covering every assembly in the country. The Office of the Head of the Local Government Service [signed a memorandum on 3 September with a Ghanaian networks company to turn all 261 metropolitan, municipal and district assemblies into what both parties call smart assemblies, spanning waste management, public safety, education, healthcare, environmental monitoring and citizen engagement](https://kumasimail.com/ohlgs-celltel-seal-deal-to-turn-261-assemblies-in-ghana-into-smart-communities/). No contract value, financing structure or timeline is stated, which is the whole of what would make it testable. Separately a governance organisation [launched a citizen-reporting platform in South Tongu District that routes service-delivery complaints to the assembly and keeps the reporting citizen informed until resolution](https://gna.org.gh/2026/09/ghana-governance-africa-launches-digital-platform-to-deepen-participation-in-local-governance/) - a civil-society instrument in one district, not an assembly system.
 
 ## Malawi
 

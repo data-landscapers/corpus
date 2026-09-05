@@ -1,17 +1,15 @@
 ---
 title: Literacy — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: capacity.literacy
 places: AGO; COD; GHA; KEN; LBR; MOZ; RWA; SEN; TZA; TGO; ZMB
-record: 20a89650aaa4
+record: 8fb5454876ef
 ---
 
 # Literacy: monthly update, August 2026
 
 *11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 

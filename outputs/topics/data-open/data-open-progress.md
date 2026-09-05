@@ -1,13 +1,13 @@
 ---
-title: Open data — progress report, 2025-09-01 to 2026-09-04
-compiled: 2026-09-04
-period: 2025-09-01 to 2026-09-04
+title: Open data — progress report, 2025-09-01 to 2026-09-05
+compiled: 2026-09-05
+period: 2025-09-01 to 2026-09-05
 subject: data.open
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 42298f6c21be
+record: 49e8de85ac6e
 ---
 
-# Open data: progress report, 2025-09-01 to 2026-09-04
+# Open data: progress report, 2025-09-01 to 2026-09-05
 
 *45 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

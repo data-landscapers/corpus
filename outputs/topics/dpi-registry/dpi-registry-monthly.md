@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: dpi.registry
-places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ae768d13ff01
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 694d98b0e4b1
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -29,9 +29,21 @@ Field enrolment for the single social register [opened in a pilot phase at Sumbe
 
 The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind.
 
+## Benin
+
+One commune is now completely mapped, and the map shows who the register cannot see. Parakou [became the first commune with complete cadastral coverage, 196,474 parcels across about 56,390 hectares, presented to a Netherlands embassy delegation on 1 September, with more than 11,500 cadastral registration certificates distributed door to door](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/). The ownership breakdown is the part worth carrying: [38 per cent of registered parcels are in men's ownership against 7 per cent women's and 3 per cent collectivites, and the owners of 21 per cent cannot be identified at all, with no parcel recorded as contested](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/).
+
 ## Botswana
 
 The vital-statistics report [describes the births and deaths registration system as partially automated and decentralised](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf) â€” a description of the system rather than a change to it. Separately, government [committed in Parliament on 19 August to an electoral-reform package including electronic voter registration](https://allafrica.com/stories/202608190305.html), with no bill, supplier, cost or date attached.
+
+## Burkina Faso
+
+Civil registration is being digitised one commune at a time, and the training is the visible part. Delegated officers and transcribing agents in Pouni [were trained over 72 hours from 31 August to 2 September on smartphone configuration and real-time entry of births, marriages and deaths at central and secondary registration offices](https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/), funded under a regional local-governance project in the 2026 budget year. Thirty communes hold fully digitised registers; no count of officers trained or acts entered through the platform is published.
+
+## Burundi
+
+The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this base holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
 
 ## Cameroon
 

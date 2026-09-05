@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 9154b37851fe
+places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MRT; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: 807ec50c24b8
 ---
 
 # Standards: monthly update, August 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -81,6 +81,10 @@ On 2 August the Municipal Guard's Investigation and Information Gathering Office
 ## Malawi
 
 On 3 August the copyright society's blank media levy distribution was reported to rest on records submitted by licensed disc-burning centres rather than on digital consumption, with a proposal to key distribution to digital consumption voted down at an annual general meeting.
+
+## Mauritania
+
+The state asked for outside help with the numbers behind its own borrowing. The finance minister [received an International Monetary Fund technical assistance mission on public finance statistics and state-owned enterprise debt, working on compilation in line with the 2014 government finance statistics manual and reviewing progress on the collection, reliability and consolidation of state-enterprise financial data](https://ami.mr/fr/archives/301765). No baseline, target or publication commitment is stated for that data, so what is currently held about state-enterprise debt stays unknown.
 
 ## Mauritius
 

@@ -1,15 +1,15 @@
 ---
 title: Data Exchange — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: dpi.exchange
-places: DZA; AGO; BEN; CMR; TCD; COG; CIV; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB
-record: 87ef2a5d2426
+places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 49172b1c6a5e
 ---
 
 # Data Exchange: monthly update, August 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The public-administration digital infrastructure contract [entered execution on 
 The exchange [recorded more than 138 million requests in total](https://statistiques.xroad.bj/), 32.7m in the preceding thirty days, across 73 members, 176 information systems and 512 services.
 
 A second kind of data exchange entered the record in August, and it is regional rather than national. The BIC-UEMOA credit information bureau held its first Cotonou data forum on 23 July, [reported on 13 August](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux), with the finance ministry framing data quality as the route to cutting credit-approval turnaround to 48 hours. The bureau spans all eight union states with 321 data providers, about 48 million contracts and more than 20 million active borrowers. The figures are the operator's own and union-wide; nothing Benin-specific — coverage, dispute rate or the data-protection basis for the file — is held.
+
+## Burkina Faso
+
+Two states that share a river proposed sharing the data that would stop it drowning people. Burkinabe and Ghanaian officials [proposed a formal reservoir release protocol built on real-time data sharing and pre-agreed spill thresholds, and heard the Burkinabe power utility's chief hydrologist disclose that letters seeking closer coordination with the Ghanaian river authority, sent as far back as October 2025, had gone unanswered](https://gna.org.gh/2026/09/ghana-burkina-faso-flood-management-whats-av-stec-project-role/). Working groups mapped why warnings fail on the shared river: messages move too slowly, district assemblies lack transport and fuel, agencies holding forecast data do not always talk to disaster responders, and repeated false alarms have bred complacency. The proposal is a research project's rather than either government's, and nothing is signed.
 
 ## Cameroon
 
@@ -50,6 +54,10 @@ The larger exchange was contracted out. Customs-procedure digitalisation under t
 The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published. Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated.
 
 The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
+
+## Djibouti
+
+Customs has begun preparing to put trade procedures on one platform. The administration [set out an electronic single-window project at a preparatory workshop on 1 September, saying it goes beyond strengthening the declaration system customs currently uses and would shorten processing times, increase transparency and make operations more predictable for traders](https://www.dawan.africa/news/djibouti-plans-electronic-single-window-to-streamline-trade), working with the commerce ministry, the continental free trade secretariat and a Korean agency that has done the same in three other African countries. No design, budget, procurement or timetable is published, and no baseline clearance time exists to measure the shortening against.
 
 ## DR Congo
 
@@ -167,6 +175,10 @@ Two exchanges were arranged this month and neither states what happens to the da
 
 A third exchange was put out for comment rather than arranged. The revenue service [published a consultation paper proposing a five-corner digital VAT model — electronic invoicing, an interoperability framework and electronic reporting — moving toward VAT auto-assessment, with a phased rollout from 2026/27 and feedback due 16 October](https://www.sars.gov.za/vat-modernisation-consultation-paper-august-2026/). It is the one of the three that will reach every registered business, and it is the one still open to be argued with; no cost to business, exemption threshold or accreditation regime for service providers is stated.
 
+## South Sudan
+
+The only description the base holds of how import revenue is actually collected is an account of a sanctioned contractor collecting it. A UK-registered firm [manages national revenue through a US-dollar e-Permit charge levied on imports before any tax assessment is issued, enforced at all border points by the Ugandan and Kenyan revenue authorities alongside the firm's own staff deployed under national revenue authority cover](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern), and collection has continued since the United States sanctioned the firm on 12 May over the diversion of public resources and foreign assistance. The Tanzanian and Rwandan revenue authorities have publicly dissociated themselves. No contract, legal instrument or revenue figure is published, and no national authority is recorded as answering the account.
+
 ## Sudan
 
 [The National Investment Authority said on 4 August 2026](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) that a fully electronic single window for investment would operate only once all investment-related entities are linked electronically, with no list, sequence or date given — a precondition stated while the Authority is itself still building its first website.
@@ -187,8 +199,16 @@ The tax authority closed the paper route into the land record. From 17 August 20
 
 The customs estate opened a build rather than a service. The customs administration [began the execution phase of an integrated electronic rules-of-origin system financed by a bilateral partner, with technical preparation running to 18 September 2026](https://www.lapresse.tn/2026/08/18/douane-ce-nouveau-systeme-electronique-tuniso-coreen-va-changer-la-gestion-des-regles-dorigine/). The dated stage is the preparation, not the go-live: no operating date, trader-facing interface or cost is published.
 
+## Uganda
+
+The month's exchange story is a border system working for someone else. The revenue authority, with its Kenyan counterpart, [continues to enforce a US-dollar e-Permit charge on imports bound for South Sudan, levied before any tax assessment is issued, on behalf of a UK-registered firm the United States sanctioned in May over the diversion of public resources and foreign assistance](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern); the firm's staff are deployed at border points under South Sudan Revenue Authority cover, and the Tanzanian and Rwandan authorities have publicly dissociated themselves from the arrangement. The revenue authority is not recorded as answering the account, and no agreement or legal basis for the Ugandan side is published.
+
 ## Zambia
 
 The government service bus, the central integration layer, onboarded eight of 116 local authorities from June 2026 and now carries more than 400 government services with over K8.8 billion collected cumulatively across the service bus, payment gateway, national portal and payment platform ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/); [Accountant General's office](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
 
 A register of a different kind opened alongside it. Zambia [launched a fully digital National Carbon Registry on 7 August](https://unepccc.org/zambia-launches-national-carbon-registry/), embedded in the national measurement, reporting and verification system and interoperable with Article 6 of the Paris Agreement, developed under a donor programme with a UN climate centre, a consulting group and a green growth institute. No public access, transaction count, custodian ministry or disclosure rule for its holdings is stated — which for a registry whose purpose is to make carbon claims checkable is the question it exists to answer.
+
+## Zimbabwe
+
+Customs data crossed a border on paper this month, in the form of an agreement to stop it having to. Customs administrations from five countries [adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria ending 26 August, to exchange trade information before consignments reach the border so that documentation and risk assessment happen earlier](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on a link this country already runs with Zambia. Data standards, interoperability, cybersecurity, legal authority and information quality are all recorded as unresolved, and no corridor or target crossing time is named.

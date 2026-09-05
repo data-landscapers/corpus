@@ -1,15 +1,15 @@
 ---
 title: Data protection — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: gov.protect
-places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
-record: 51ea19edd8aa
+places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
+record: 1e3a3663ddb2
 ---
 
 # Data protection: monthly update, August 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -90,6 +90,10 @@ A gap the regulator does not cover was named at the internet governance forum, w
 
 The data-protection statute exists. The Personal Information Act [was signed into force on 19 August alongside the cybercrime law](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees). What follows a signature is the part the base cannot yet see: no commencement date, supervisory authority, appointment or implementing regulation is held.
 
+## Malawi
+
+A gap the base has carried since April closed this month, though not by the route that would have settled it. The United States embassy [said Malawian biological specimens will be shared with Washington only during public health emergencies and outbreaks and that no personally identifiable information passes under the agreements](https://mwnation.com/us-insists-specimen-data-wont-be-shared/), dating the specimen-sharing agreement to 11 February 2026 inside a five-year health package valued at US$936 million. Malawi must supply requested specimens within seven days and gets priority access to any resulting diagnostics, vaccines or therapeutics only after meeting its own domestic needs - a clause Malawian health advocates call a major limitation. The instrument's own text remains withheld and in litigation, so what is now on the record is the shape of the deal and both governments' account of it, not its terms.
+
 ## Mali
 
 On 3 August the [data-protection authority opened its second 2026 session](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) with more than 1,000 files before it over ten days — authorisations, declarations, video-surveillance oversight, formal notices and direct sanction procedures — its president grounding the sanctions in Loi n2013-015 as amended.
@@ -130,6 +134,10 @@ A further agreement between the two jurisdictions on [exchanging information to 
 ## Senegal
 
 The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008.
+
+## Seychelles
+
+The information commission's visible work is inducting the officers other public bodies must appoint. It [held the second of its two annual induction sessions for newly appointed information officers, led by its chief executive and a senior information analyst](https://nation.sc/articles/32125/information-commission-trains-newly-appointed-ios). The enforcement half of its mandate still shows no case: it has been the designated data-protection authority since December 2023, an enforcement-capacity gap was documented in November 2025, and no audit, investigation or fine against any controller has been reported. No count of officers inducted or bodies covered is published.
 
 ## Sierra Leone
 

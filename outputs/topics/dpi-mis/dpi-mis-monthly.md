@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: f181c5f8ca3a
+places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0476ab826cdc
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -178,6 +178,10 @@ The modules for a [National Malaria Data Repository were approved](https://www.t
 ## Tunisia
 
 The health estate reported volume and the education estate reported failure. [120,000 remote examinations were carried out across 26 hospitals](https://www.lapresse.tn/2026/08/25/hopital-numerique-120-000-examens-a-distance-realises-dans-26-hopitaux/), with no period, denominator or specialty breakdown stated. The education ministry's school-life platform, launched at the start of the month, was within three weeks [reported failing during the enrolment period](https://www.lapresse.tn/2026/08/26/viescolaire-education-tn-pourquoi-linscription-en-ligne-vire-au-parcours-du-combattant/), with no service-availability figure, incident account or fallback route published.
+
+## Uganda
+
+A health surveillance pilot moved to the stage where the model's answer is visible to the person making the decision. An artificial-intelligence febrile-illness workflow built into the community health information system [recorded high agreement with village health teams' unaided judgments in a first phase and has entered a three-month second phase in which workers see the model's interpretation, across four districts](https://iafrica.com/ugandan-ai-health-pilot-records-high-agreement-with-community-workers-now-enters-the-harder-phase/). No agreement percentage, sample size or case count has been published, so the headline finding cannot be checked; the first phase itself logged low testing volumes, inconsistent commodity availability, device underperformance, unreliable connectivity and supervision gaps.
 
 ## Zambia
 

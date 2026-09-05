@@ -1,13 +1,13 @@
 ---
-title: Rural digital data capture — progress report, 2025-09-01 to 2026-09-04
-compiled: 2026-09-04
-period: 2025-09-01 to 2026-09-04
+title: Rural digital data capture — progress report, 2025-09-01 to 2026-09-05
+compiled: 2026-09-05
+period: 2025-09-01 to 2026-09-05
 subject: digital.rural
 places: DZA; BWA; BDI; CAF; COM; CIV; DJI; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; ZMB; ZWE
-record: b9452ed3ec77
+record: 267f7181ee3c
 ---
 
-# Rural digital data capture: progress report, 2025-09-01 to 2026-09-04
+# Rural digital data capture: progress report, 2025-09-01 to 2026-09-05
 
 *35 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

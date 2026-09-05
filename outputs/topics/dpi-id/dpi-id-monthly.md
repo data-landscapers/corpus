@@ -1,15 +1,15 @@
 ---
 title: Digital Identity and CRVS — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 51e9c4b4ed0f
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 471df5263641
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -216,6 +216,10 @@ The identity register is the most heavily integrated rail the base holds anywher
 
 
 The budget behind it was set out to Parliament on 19 August: the home affairs ministry [put the identifier's rollout among its 2026/27 priorities under the national blueprint, alongside new district registration offices and a headquarters at Dodoma](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). No cost line or timetable accompanies the priority.
+
+## Togo
+
+Enrolment is now going to people rather than waiting for them. The national documentation directorate [has spent about a year sending mobile identity-card teams to large public gatherings, handling every step of an application on site, currently at a trade fair in Lome](https://togo-today.com/carte-didentite-la-direction-generale-de-la-documentation-nationale-veut-se-rapprocher-des-populations/), with the stated aim of shortening processing times and putting a card in the hands of the majority of Togolese by 2028. No count of cards issued through the mobile teams is published, so the register's own figure - more than six million unique identification numbers at the end of 2025 - remains the only measure of how far the effort has got.
 
 ## Tunisia
 

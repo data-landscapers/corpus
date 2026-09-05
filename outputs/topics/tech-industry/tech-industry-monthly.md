@@ -1,17 +1,21 @@
 ---
 title: ICT Industry — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: tech.industry
-places: BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; SDN; TGO; ZMB; ZWE
-record: fd579e7602b2
+places: DZA; BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
+record: f0e781d346fb
 ---
 
 # ICT Industry: monthly update, August 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+The state's electronics industry began selling digital infrastructure rather than devices. Its electronics firm, in a consortium with two other companies, [signed a protocol with the coordination of a Congolese new-city expansion project for digital technologies, electronic payment systems, digital equipment and associated services, with knowledge transfer and a centre for innovation covering payment systems, cybersecurity and applied artificial intelligence](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/), signed before this country's ambassador. No amount is stated by any party, so what is recorded is the direction of travel rather than a commitment: the firm had previously exported only payment terminals into the same market.
 
 ## Botswana
 
@@ -65,6 +69,10 @@ Platform transport worked the other end of the same problem — getting drivers 
 ## Sudan
 
 Domestic production is a licensable activity and nothing establishes that it is an occupied one. The regulator's licensing framework includes [a technical support licence category explicitly for basic infrastructure manufacturing](https://tpra.gov.sd/?page_id=4475). No register of holders of that category, and no production or employment figure, was located.
+
+## Tanzania
+
+The sector has multiplied and says it cannot scale. A United Nations capital development fund [counts 171 active fintech companies in 2026 against 33 in 2021, alongside more than 70 per cent of adults holding a mobile money account and 6.4 billion digital payment transactions in 2024](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-fintechs-banks-told-to-rethink-partnerships-5583302), and founders told a Dar es Salaam session that partnerships with banks and mobile operators remain the main barrier - banks assessing early-stage firms through a static lens, the core processing layer commoditised as institutions build in house, limited patient capital, talent shortages, regulatory and tax uncertainty and the cost of acquiring customers. The stated ambition is to be a leading African fintech market by 2031, with no intermediate target on file.
 
 ## Togo
 

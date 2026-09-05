@@ -1,15 +1,15 @@
 ---
 title: Regional collaboration — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; COG; CIV; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; SSD; TZA; TGO; TUN; ZWE
-record: 6d116ace3c09
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; ZWE
+record: 837c5d19e4d8
 ---
 
 # Regional collaboration: monthly update, August 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -37,6 +37,10 @@ The region's answer to a network that keeps being attacked is another country's 
 
 Two regional processes opened and neither has a text. A technical team [agreed on 3 August, during the continental free-trade secretariat's mission to Bujumbura, to produce a country profile and an implementation roadmap](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/), and [consultation was held in Bujumbura on a memorandum for cross-border health-security cooperation with the regional authority](https://igad.int/igad-and-burundi-push-for-stronger-regional-health-security-through-cross-border-cooperation/). Neither carries a signature, a date or a funding line.
 
+## Cameroon
+
+The region began drafting the rules for moving data across its own borders, in this country's second city. Experts from Central African member states [met in Douala from 31 August to 4 September to assess national readiness and agree the pillars of a regional framework on cross-border data governance, with technical and financial support from the German development agency, a continental development agency, the Economic Commission for Africa and the African Union Commission](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/). Pillars are all that is agreed: no draft text, adoption route or timetable is published.
+
 ## Chad
 
 The telecommunications minister [received an Azerbaijani delegation in N'Djamena to explore e-government cooperation](https://www.digitalbusiness.africa/e-gov-lazerbaidjan-propose-son-expertise-aux-administrations-tchadiennes/). Nothing is agreed, and no memorandum, scope or value is on file.
@@ -60,6 +64,10 @@ The King was [elected Chairperson of the SADC Organ on Politics, Defence and Sec
 ## Ethiopia
 
 The regional transit corridor moved from agreement to build. Ethio telecom [entered active deployment of the Horizon Fiber Initiative, with end-to-end solution architecture finalised and site-material procurement complete](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/), on a multi-terabit terrestrial route linking Djibouti's subsea landings through Ethiopia and Sudan to Jeddah. No route length, capacity, cost, in-service date or transit-revenue projection is published, so the regional-hub claim rests on the geography alone — and one of the four territories the route crosses is at war.
+
+## Gabon
+
+Two outward moves in the same week, one to learn and one to be heard. An interior, security and decentralisation ministry delegation [spent nearly two weeks in Rwanda on digital transformation and e-governance, artificial intelligence and digital policy, civil-registration and identification digitisation, cybersecurity, data protection, interconnection of public systems and decentralised service digitisation](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/) - the longest and widest-ranging of eight delegations the host received that week. Separately the digital economy minister [presented the country's candidacy for the International Telecommunication Union Council in Nassau on 3 September, under the slogan Shaping the Digital Future](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/). Neither carries an agreement, an adoption decision or a campaign platform beyond the slogan.
 
 ## Gambia
 
@@ -155,6 +163,10 @@ Regional health data gained an institutional seat. The health minister [attended
 ## Somalia
 
 Accession to the continental free-trade area reached its last procedural step: the [instrument of ratification is to be deposited in September 2026](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/), with a first shipment named as the test that follows it. No implementation roadmap, tariff schedule or customs-systems requirement is published alongside it.
+
+## South Africa
+
+Regional cooperation moved from documents to a stated test this month. The higher education minister [told a regional vice-chancellors' meeting in Johannesburg on 31 August that the region must build its own computing capability, trusted datasets, African-language technologies and cybersecurity rather than rent intelligence from others](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela), setting agreement on a regional higher education data system among five immediate priorities. The test he named is the useful part: by the June 2027 ministers' meeting the region should be able to point to students and academics who have moved and to data being shared, not to completed documents. [The meeting's own message was the same](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html) - build the practical systems that let qualifications, research and skills cross borders. No design, host, funding or data scope is stated for the data system.
 
 ## South Sudan
 

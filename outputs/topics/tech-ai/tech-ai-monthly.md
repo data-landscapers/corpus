@@ -1,15 +1,15 @@
 ---
 title: AI — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: tech.ai
-places: DZA; BEN; BFA; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: f80e49961bcd
+places: DZA; AGO; BEN; BFA; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0ce490632e0b
 ---
 
 # AI: monthly update, August 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,10 @@ On 25 July the Higher Education Minister announced that from the 2026–2027 aca
 The strategy itself moved in August rather than July. A [joint inter-ministerial roadmap was agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), reported on 12 August by the higher education minister, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline. The strategy text is still not published and the ethical-AI law has not moved.
 
 Three external events are dated in the month and moved nothing. The Post and Telecommunications Minister told the inaugural [UN Global Dialogue on AI Governance](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) in Geneva on 6 July that global governance should move from principles to technology transfer and capacity building. Smart Africa's chief executive met him on [13 July](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration; no agreement or commitment is reported. Algérie Télécom received a [WSIS Forum certificate of appreciation](https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC) on 9 July. The award is a certificate of appreciation; the ministry described it as confirmation of Algeria's standing.
+
+## Angola
+
+Money reached artificial intelligence in the administration for the first time this month, ahead of any policy saying what it is for. A presidential order of 27 August [authorised six million United States dollars for the acquisition and implementation of an artificial-intelligence platform for the public administration and opened a public tender for it](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/). What the platform is to do, which bodies would use it and on what data are not stated, and the base holds no national instrument on artificial intelligence in government against which to read the spend.
 
 ## Benin
 
@@ -217,6 +221,10 @@ At an international AI meeting on 18 July the ICT minister stated that a [nation
 Twelve days later, at a training event on 30 July, an archives officer said [government is still drafting AI guidelines](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292); an [external policy outlook published the same day placed Tanzania among states still developing a strategy](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/).
 
 Three deployments were reported. A cardiac institute stated on 16 July that its [digital patient tracking system is in use for medical-camp follow-up](https://www.thecitizen.co.tz/tanzania/news/national/jkci-s-digital-patient-tracking-system-sets-new-standard-for-follow-up-healthcare-in-tanzania-5528476), alongside AI-enabled echocardiography and contactless vital-signs monitoring, with no patient volumes or procurement route. A peer-reviewed study published 3 August reported a ports enquiry chatbot at [95.1% weighted task success with fifteen domain experts](https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3), with no production deployment. At the agricultural exhibition on 4 August a university showed [a medicine-authenticity lookup at development stage and a voice-driven mobile-money service for blind users in testing](https://www.thecitizen.co.tz/tanzania/news/national/ardhi-university-unveils-ai-solutions-to-fight-counterfeit-drugs-expand-financial-access-5546322); both are student prototypes, self-reported, with no institutional partner, regulator or funder named.
+
+## Togo
+
+The month's only artificial-intelligence movement is a procurement. The United Nations Development Programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running from September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349), with submissions closing on 14 September. Which region the note is to cover, who it is written for and what standing it will have once written are not stated.
 
 ## Tunisia
 

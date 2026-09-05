@@ -1,15 +1,15 @@
 ---
 title: Open data — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: data.open
-places: BEN; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MAR; NAM; TZA; TUN; ZWE
-record: ba1b79a78901
+places: BEN; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MAR; NAM; NGA; TZA; TUN; ZWE
+record: 1bc1ee8697a0
 ---
 
 # Open data: monthly update, August 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -69,6 +69,10 @@ The environment ministry put a data platform where the country has no open-data 
 
 
 A second dataset arrived from outside government altogether. A privately built application [launched nationwide on 14 August taking public reports of more than thirty kinds of infrastructure and service-delivery fault onto a mapped national dataset, with automatic facial and licence-plate redaction](https://www.we.com.na/local-news-we/citymender-namibia-partners-with-windhoek-express-to-build-a-smarter-namibia-nmh015440-4-19157). It is privately held: no user count, arrangement with any authority, or licence for the data is stated, which is the difference between a dataset and an open one.
+
+## Nigeria
+
+The month's open-data movement is civil society's rather than government's. A civic-technology foundation [published a 2026-2030 strategy on 3 September to institutionalise participatory budgeting and subnational public-project tracking in 10 to 15 states, building on two existing platforms that let citizens monitor budget implementation and identify completed, delayed or abandoned public projects](https://nannews.ng/promad-unveils-5-year-strategy-to-scale-up-civic-tech-citizen-participation/). No budget, funder, delivery timetable or state is named.
 
 ## Tanzania
 

@@ -1,21 +1,23 @@
 ---
 title: Technical Capacity — monthly update, August 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 subject: infra.capacity
-places: BDI; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF
-record: e4098439b59d
+places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF
+record: a2b1c503a80c
 ---
 
 # Technical Capacity: monthly update, August 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Burundi
 
 The revenue authority's own platform went into production. From 4 August [all new taxpayer registration applications are made exclusively online, with three routes for natural persons, legal persons and cooperatives and a biometric appointment step for fingerprints and photograph](https://obr.bi/index.php/e-kori). It is a government system entering service rather than a procurement notice, which is the rarer of the two on this ledger, and no uptime, throughput or fallback for an applicant who cannot use it is stated.
+
+## DR Congo
+
+Assembly capacity for digital hardware appears in this base for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to.
 
 ## Ghana
 
