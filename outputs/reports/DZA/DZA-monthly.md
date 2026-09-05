@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: DZA
-ledger_rows: 32
+ledger_rows: 34
 not_held: 7
-record: 2799ef391512
+record: b307916de0ab
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -114,6 +114,12 @@ On 25 July the Higher Education Minister announced that from the 2026–2027 aca
 The strategy itself moved in August rather than July. A [joint inter-ministerial roadmap was agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), reported on 12 August by the higher education minister, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline. The strategy text is still not published and the ethical-AI law has not moved.
 
 Three external events are dated in the month and moved nothing. The Post and Telecommunications Minister told the inaugural [UN Global Dialogue on AI Governance](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) in Geneva on 6 July that global governance should move from principles to technology transfer and capacity building. Smart Africa's chief executive met him on [13 July](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration; no agreement or commitment is reported. Algérie Télécom received a [WSIS Forum certificate of appreciation](https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC) on 9 July. The award is a certificate of appreciation; the ministry described it as confirmation of Algeria's standing.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+
+The state's electronics industry began selling digital infrastructure rather than devices. Its electronics firm, in a consortium with two other companies, [signed a protocol with the coordination of a Congolese new-city expansion project for digital technologies, electronic payment systems, digital equipment and associated services, with knowledge transfer and a centre for innovation covering payment systems, cybersecurity and applied artificial intelligence](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/), signed before this country's ambassador. No amount is stated by any party, so what is recorded is the direction of travel rather than a commitment: the firm had previously exported only payment terminals into the same market.
 <!-- /narrative -->
 ### Innovation ecosystem
 

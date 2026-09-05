@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: SLE
-ledger_rows: 31
+ledger_rows: 33
 not_held: 11
-record: a97aba57d69e
+record: 91a9ae96333a
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -164,4 +164,13 @@ The cost of the handset is being financed rather than reduced. An operator and a
 
 <!-- narrative: data--data-satellite -->
 DSTI announced on 4 August that it is [developing a national base map with the Ministry of Lands, with JICA support and Japanese technical direction, phase one covering Western Area Urban District](https://owlpress-sl.com/dsti-leads-digital-mapping-system-sierra-leone-moves-develop-national-base-map/). No cost, timetable, hosting arrangement or data licence is stated.
+<!-- /narrative -->
+
+## Geopolitics
+
+### India activities
+
+<!-- narrative: geopolitics--geopol-india -->
+
+India enters this record as a destination. Senior officials from the digital and ICT sector and line ministries [joined delegations from four other African states and the African Union Commission on a south-south learning mission hosted by the United Nations Development Programme, studying India's digital public infrastructure and the institutions that built it](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/), with [the state government of Karnataka receiving them in Bengaluru on 1 September](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/). No agreement, financing, technology transfer or follow-on commitment is named on either side.
 <!-- /narrative -->

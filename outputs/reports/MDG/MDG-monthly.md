@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: MDG
-ledger_rows: 24
+ledger_rows: 25
 not_held: 5
-record: 6d75e90f1963
+record: 5791b924629e
 ---
 
 # Madagascar: monthly update, August – September 2026

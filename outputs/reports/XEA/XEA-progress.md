@@ -1,20 +1,20 @@
 ---
 title: East Africa — progress report, September 2025 – September 2026
-compiled: 2026-09-03
-period: 2025-09-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2025-09-01 to 2026-09-05
 place: XEA
-ledger_rows: 45
+ledger_rows: 48
 not_held: 0
-record: 60d0e90b8e93
+record: a60b82dd73ef
 ---
 
 # East Africa: progress report, September 2025 – September 2026
 
-*Compiled 2026-09-03 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-09-05 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 45 bodies, instruments and systems on this place's ledger, 32 changed position between 2025-09-01 and 2026-09-03, 3 did not, 10 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 48 bodies, instruments and systems on this place's ledger, 32 changed position between 2025-09-01 and 2026-09-05, 3 did not, 13 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 96 sources for this place in the window — 27 in the earlier half (2025-09 to 2026-02), 69 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 99 sources for this place in the window — 27 in the earlier half (2025-09 to 2026-02), 72 in the later (2026-03 to 2026-09). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ Two things did move outside the institutional track. A [regional cybersecurity e
 
 ### Regional collaboration
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | COMESA IDEA programme (Integrated Digital Economy Africa) | US$2.48bn facility approved June 2024; governance body met twice previously | [The Project Steering Committee — a regional economic community, not a member state, holding policy and oversight authority over a dozen countries' digital foundations — met for only the third time since approval, reviewing progress, conducting risk analysis and approving the way forward for 2026, spanning digital foundations, trusted data platforms and applications from social protection to financial services. Separately, COMESA launched its inaugural IDEA Annual Digital Forum in Lusaka on 27 July 2026, which closed with a Strategic Action Plan for harmonised policies, standards and interoperability frameworks; Zambia's host government used the forum to criticise the region's own instrument of choice, arguing partnerships should be judged by outcomes rather than the number of MoUs signed, and Angola's own delegation put its cybersecurity law back at the diagnostic stage at the same forum](https://www.comesa.int/consultancy-for-the-development-of-comesa-digital-information-knowledge-collaboration-platform/) | Advanced |
 | EAC Cross-Border Payment System Masterplan | Masterplan published March 2025, approved by the Monetary Affairs Committee at its 28th Ordinary Meeting, 14 May 2025; a five-year strategic framework, no implementation body yet | [Three Technical Working Groups inaugurated at a first joint meeting in Mombasa, 18-22 August 2026, chaired by the Bank of Uganda with the National Bank of Rwanda as rapporteur, bringing together every partner state's central bank plus the World Bank, GIZ, FSD Network and TradeMark Africa; the TWGs considered a Monitoring and Reporting Framework aligned to G20 cross-border payment targets, a Regional Cooperative Oversight Framework and a Mutual Recognition Framework proposing regional passporting for licensed payment service providers. Separately, the first cross-border instant-payment corridor under the masterplan advanced at a Zanzibar technical meeting, 7-11 July 2026, building on an inaugural Kigali meeting of November 2025 — integrating Tanzania's TIPS with Rwanda's RSwitch, initially person-to-person only, under the EAC's variable-geometry principle (Rwanda and Tanzania only so far), no launch date set](https://www.eac.int/documents?controller=download&file=6b370efc-190f-41cb-a4c2-2ca8ac0666e1&name=EAC+PAYMENT+SYSTEMS+MASTERPLAN.pdf&task=download.file) | Advanced |
@@ -46,10 +46,11 @@ Two things did move outside the institutional track. A [regional cybersecurity e
 | EAC currency convertibility and repatriation framework (2014 MoU) and the East African Payment System | MoU on ease of currency convertibility signed May 2014; the East African Payment System, developed the same year, links the Ugandan, Kenyan, Tanzanian and Rwandan RTGS systems | [EAC central bank governors conceded that implementation of the convertibility and repatriation framework remains uneven and repatriation arrangements are operationally inefficient, agreeing a Banking & Currency Technical Working Group workshop and a joint MAC sub-committee meeting, both by December 2026, the Bank of Tanzania leading (referencing its own 2019 diagnostic study of cash-handling costs, idle currency stock and settlement gaps). EAPS itself stays lightly used and mostly Kenyan-shilling denominated, with Burundi due to join by December 2026](https://www.theeastafrican.co.ke/tea/business-tech/the-cost-of-currency-convertibility-deadlock-in-east-africa-5562354) | No change |
 | EAC Protocol on Regional Digital Integration | Not held | [Before partner-state legislatures: Burundi's communications minister told senators in January 2025 that adopting the protocol is crucial to the country's ICT infrastructure (2025-01)](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/) | ***Baseline not held*** |
 | Harmonisation of cybersecurity legal frameworks | No account held | [A commissioned comparative study and recommendations to harmonise cybersecurity, cybercrime, data protection, digital identity, e-commerce and digital-authentication law across member states](https://igad.int/wp-content/uploads/2024/05/ToR-for-Harmonization-of-Cybersecurity-Legal-Frameworks-in-IGAD-Member-States-1.pdf) | ***Baseline not held*** |
+| Regional education conference on measurable learning outcomes | Did not exist | [The second regional education conference brought governments, regional institutions, development partners, researchers and practitioners together on the future of education in the region, with a continental education association pressing for measurable learning outcomes and putting the question as what actually changes on the ground because of the commitments made](https://adeanet.org/en/news/adea-pushes-measurable-learning-outcomes-second-eac-regional-education-conference) | ***Baseline not held*** |
 
 ### Public debate and participation in policymaking
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | Independent research on the distributional effects of regional DPI | Scattered academic work with no regional forum | [A standing body of critical work: a public dialogue series interrogating digital public infrastructure in East Africa, a feminist analysis of identity, payment and exchange systems across three countries, and field research on identity-required mobile money (2026-03)](https://cipesa.org/2026/03/cipesa-public-dialogue-series-interrogating-digital-public-infrastructure-in-east-africa/) | Advanced |
 | Regional AI-sovereignty and digital-market discourse | Did not exist | [A Rwandan analyst argued East Africa has built an AI application economy and mistaken it for an AI industry — most local startups do not own the intelligence in their products, so engineering, demand and citizens' data generate infrastructure value that accrues elsewhere; he named financing regional GPU infrastructure and hosting African models as the real agenda, while disclosing his own company sells into that answer. The region's own private-sector body, asked separately what blocks a unified EAC digital market, named divergent tax policy, divergent data-protection frameworks, uneven cybersecurity readiness and digital-skills and infrastructure capacity — a diagnosis of rules, not of build, matching the continental-layer finding that governance rather than technology is the binding constraint](https://www.ktpress.rw/2026/08/east-africas-ai-industry-has-a-hidden-dependency/) | Advanced |
@@ -62,7 +63,7 @@ The EAC's own organs carried most of the period's institutional movement: a new 
 
 ### Data protection
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | EAC cross-border Data Protection Authorities coordination body | Did not exist | [The EAC created a body letting its eight member-state data-protection authorities share knowledge, align practices and co-investigate, described by an EAC advisor at the ID4Africa 2026 AGM alongside a World Bank session setting out a cross-border 'trust formula' for digital ID and DPI; no charter, meeting record or output is held](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | Advanced |
 | EAC single digital market — cross-border data-flow and protection rules | Validated at a Dar es Salaam workshop, 25 June 2026 | [Regional rules on cross-border data flows and personal data protection cleared official-level approval on 24 July 2026 and still have to go to the EAC's decision-making organs before any partner state adopts them; no adoption date is published](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html) | Advanced |
@@ -71,11 +72,12 @@ The EAC's own organs carried most of the period's institutional movement: a new 
 
 ### AI
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | COMESA regional AI and digital-inclusion strategy | Did not exist | [COMESA is drafting two regional instruments at once, an AI strategy and a digital-inclusion strategy, and consulted on both in Kigali after similar engagements in Kenya and Zambia; neither strategy, nor an action plan or supporting regulatory framework, has a published date, drafter or adoption route](https://www.comesa.int/consultations-held-to-shape-regional-artificial-intelligence-digital-inclusion-strategies-in-comesa/) | Advanced |
 | EAC Regional AI Policy Roadmap / AI-sovereignty bloc | Did not exist | [The 4th EAC Regional Science, Technology and Innovation Conference in Kigali explored a regional AI Policy Roadmap across the eight-member bloc, framed by Rwanda's ICT minister around East Africa 'leading as a unified bloc' so that data 'stays in our hands' and AI-generated value accrues to East Africans; no roadmap text, timetable or adoption route is published](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/) | Advanced |
 | East African AI Policy Outlook Report (CIPIT) | Baseline not held | [CIPIT's four-country baseline, deliberately without a ranking, splits its sample two ways: Kenya and Rwanda have adopted national AI instruments and are building coordination around them, while Tanzania and Uganda are still developing strategies off existing digital and data-protection frameworks](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/) | ***Baseline not held*** |
+| Horn of Africa regional artificial-intelligence framework | Did not exist | [The regional development authority opened a two-day consultation in Addis Ababa on 4 and 5 September 2026 to develop a common regional framework and strategy for artificial intelligence. Its executive secretary put data sovereignty and accountability at the centre, arguing that territorial sovereignty in the digital era increasingly depends on states' ability to control, manage and responsibly use their own data, and set three priorities: directing investment where socioeconomic impact is greatest, closing gaps in digital infrastructure, policy and human skills, and building regional synergies through policy harmonisation and cross-border initiatives. He insisted the framework be owned by member states rather than treated as a secretariat project; the consultation is examining member states' differing readiness](https://www.fanamc.com/english/igad-moves-to-forge-regional-ai-framework-to-drive-integration-development/) | ***Baseline not held*** |
 
 <!-- narrative: instruments -->
 Two data-protection tracks moved in different directions: the EAC's cross-border DPA coordination body and its single-digital-market data rules both advanced procedurally, while the one long-standing instrument on this section — IGAD's 2021 health-data framework — recorded no change, and a civil-society report on surveillance and spyware use against the region's own civil society carries no government response to weigh against it. AI instruments are earlier-stage across the board: COMESA and the EAC are each drafting a regional AI framework in parallel, neither yet a text, and CIPIT's own four-country baseline finds only Kenya and Rwanda with adopted national AI instruments to build on.
@@ -85,7 +87,7 @@ Two data-protection tracks moved in different directions: the EAC's cross-border
 
 ### Connectivity
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | AfPIF 2026 (Kigali) inland-connectivity agenda | Did not exist (this edition) | [Africa's peering forum put landlocked markets at the centre of its 2026 edition, framed around inland East and Central African markets with no direct access to submarine cable landing stations, and what stronger interconnection, carrier-neutral data centres and local content delivery can do about their cost and resilience](https://taarifa.rw/2026/08/13/african-peering-interconnection-forum-afpif-convenes-amid-push-for-inland-connectivity/) | Advanced |
 | DARE1 subsea cable extension (Djibouti Telecom) | DARE1 in service connecting Djibouti to earlier landing points | [Djibouti Telecom extended the DARE1 subsea cable to connect East and Southern Africa, adding a route from Kenya to South Africa of about 3,200 to 3,500 km on a system operational since 2021 at 36 Tbps; commercial terms are not stated](https://subtelforum.com/dare1-subsea-cable-expansion-to-boost-internet-capacity) | Advanced |
@@ -96,26 +98,26 @@ Two data-protection tracks moved in different directions: the EAC's cross-border
 
 ### Data Storage
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | East African data-centre market | Not held in the base | [Assessed in a regional market brief prepared for donor and investment-facility partners (2025-05)](https://cms.d4dhub.eu/assets/East-Africa-Data-Center-Markets-Brief.pdf) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | IGAD regional cybersecurity exercise | Not held | [Run across the bloc, with one national computer emergency response team singled out for its performance (2026-07)](https://www.lanation.dj/lanc-distinguee-lors-de-lexercice-regional-de-cybersecurite/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | EAC labour mobility and electronic visa charges | Free movement within the bloc, electronic visa portals in use | [A USD 50 fee imposed on citizens of Kenya, Uganda, Rwanda and the Democratic Republic of Congo through the electronic visa portal (2026-07)](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/) | Regressed |
 | EAC travel-document and passport harmonisation (NCIP national-ID travel, EAC e-Passport) | Since January 2014, national identity cards of Uganda, Rwanda and Kenya have been recognised as a valid travel document alongside national and EAC passports under the Northern Corridor Integration Projects, allowing citizens to cross the three borders and remain up to six months without further documentation | [Somalia, a full EAC member since March 2024, was cleared to adopt and print the EAC e-Passport in February 2026. South Sudan's civil-registry directorate said in July 2026 it will introduce the EAC passport under the Community agreement alongside a new ten-year national booklet — an announced intention requiring the passport act to be amended and approval from the Council of Ministers and the Transitional National Legislative Assembly, with no legislative timetable given](https://citizenshiprightsafrica.org/the-experience-of-cross-border-travel-using-national-id/) | Advanced |
 
 ### Digital Payments and Fintech
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | COMESA Digital Retail Payments Platform | Did not exist | [The 21-nation COMESA bloc launched a digital payment system to settle trade in local currencies rather than in US dollars; adoption figures and participating banks are not stated](https://techcabal.com/2025/10/10/comesa-payment-system-trade-local-currencies/) | Advanced |
 | SCRYPT stablecoin settlement network (four East African markets) | Did not exist | [SCRYPT expanded its stablecoin settlement network across four East African markets, including Uganda; scale, volume and regulatory basis are not stated in the report](https://techafricanews.com/2026/07/16/scrypt-expands-stablecoin-settlement-network-across-four-east-african-markets/) | Advanced |
@@ -124,27 +126,28 @@ Two data-protection tracks moved in different directions: the EAC's cross-border
 
 ### Sectoral management information systems
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | IMPULSE study — newborn-data electronic health information systems | Baseline not held | [The IMPULSE study examined the functionalities of electronic routine health information systems related to newborn data across Uganda, Ethiopia, Tanzania and the Central African Republic; findings are the study's own and no follow-up policy response is on file](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | EU-EAC DEEP programme (digital-trade and DPI technical-assistance tenders) | GIZ tendered technical assistance for digital public infrastructure projects in the EAC, 31 July 2026 | [Under the EU-EAC DEEP programme, GIZ separately tendered an e-commerce business-development consultancy (7 August) and a Tanzania/Uganda/Kenya-facing DPI consulting engagement (5 August); each is a procurement notice rather than a project, so the programme is at the pipeline-preparation stage across digital ID, data exchange, payments and e-government, with no budget, duration or award stated for any of the three tenders](https://www.giz.de/en/7000019659-eu-eac-deep-e-commerce-business-development-consultancy) | Advanced |
 | GovTech Maturity Index 2025 — East African benchmarking (World Bank) | Baseline not held | [The World Bank's 2025 GovTech Maturity Index placed Tanzania in Group A ('Extensive') alongside Kenya, Rwanda, Uganda and Egypt, the index now weighting interoperability and adoption over launched portals — working as peer pressure across East Africa's digital states](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success) | ***Baseline not held*** |
 
 ### National statistics
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | EAC/IGAD statistical harmonisation (SDMX) | EAC Secretariat convened a technical working session to harmonise SDMX data-structure definitions for CPI and merchandise-trade statistics, 31 July 2026 | [IGAD separately convened a capacity-building programme to strengthen regional statistical systems through SDMX; both harmonisation strands aim at consumer-price and trade statistics being comparable and exchangeable across member states, with no completion date or adoption instrument stated for either](https://igad.int/igad-convenes-capacity-building-programme-to-strengthen-regional-statistical-systems-through-sdmx/) | Advanced |
 | EACO Regional Communications Sector Statistics Report | Baseline not held | [EACO's first regulator-submitted dataset covering all seven member states records 334.69 million active mobile subscriptions in 2025 and mobile money value up 19.6% across the five reporting countries; DRC and South Sudan reported no transaction values at all, and every mobile-money figure is presented in US dollars though EACO's own stated methodology is local currency, with no exchange rate, conversion date or basis given](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf) | Advanced |
+| User satisfaction survey on regional statistics | Did not exist | [The community secretariat opened an online user satisfaction survey on regional statistics on 3 September 2026, run under an eastern Africa regional statistics programme for results. It asks users across the partner states about the quality, relevance, reliability, timeliness, accessibility and usefulness of regional statistics and about barriers to access, and is addressed to national statistics offices, central banks, regional bodies, the private sector, academia, development partners, civil society, media and independent researchers; the findings are to guide statistical products and dissemination](https://www.eac.int/press-releases/3590-eac-calls-for-public-participation-in-shaping-better-regional-statistics) | ***Baseline not held*** |
 
 ### Use of satellite data
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | East African regional communications satellite (NCIP feasibility study) | East African countries, including Uganda, announced plans to launch a regional satellite under the Northern Corridor Integration Projects (NCIP), reported 4 May 2026 | [Uganda, Kenya, Rwanda and South Sudan opened a dedicated 'East African Development Bank-NCIP' account at Standard Chartered Bank Uganda to fund a feasibility study for a jointly owned regional communications satellite, with partner states given until 30 September 2026 to deposit their contributions; the roadmap and budget are approved at the April 2026 Nairobi NCIP meeting, but neither the study's cost nor per-country contributions is disclosed, so whether the deadline is demanding or trivial is unestablished](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/) | Advanced |
 
@@ -156,13 +159,13 @@ Physical connectivity is where the region's own operators moved fastest and furt
 
 ### Training and skills
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | EAC AI Alliance and AI-in-education harmonisation | EAC AI Alliance launched March 2026 with an invitation to universities to join a regional network | [In April 2026 partner states agreed to work toward harmonising AI-related curricula, developing regional certification and accreditation frameworks, and strengthening TVET for an AI-driven economy. UNESCO, GIZ and the Inter-University Council for East Africa convened an AI-in-education pre-conference workshop in Nairobi on 25 August, ahead of the 2nd EAC Regional Education Conference (25-28 August, nearly 200 presentations across nine sub-themes), whose communique sets the EAC Secretariat to lead monitoring through an accountability framework of measurable regional and country-owned targets to 2028, with peer review through existing EAC mechanisms and a 3rd conference hosted by Uganda in 2028. The work runs through a donor-convened alliance and a university council rather than through the Secretariat's own organs, where the Community's other digital instruments tend to stall](https://www.eac.int/press-releases/138-education,-science-technology-news/3586-preliminary-communiqu%C3%A9-the-2nd-east-african-community-eac-regional-education-conference,-2026) | Advanced |
 
 ### Digital divides
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | Regional digital access gap | Not held | [Both regional bodies state that gaps in internet access, digital awareness and technological inclusion continue to threaten a connected regional market (2026-05)](https://www.burunditimes.com/digital-divide-persists-as-east-africa-expands-regional-tech-integration/) | ***Baseline not held*** |
 
@@ -174,7 +177,7 @@ The AI-in-education workstream is the ledger's clearest case of an East African 
 
 ### New investments
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-03 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-05 | Movement |
 |---|---|---|---|
 | Eastern Africa Regional Digital Integration Project (EARDIP, World Bank) | World Bank project approved 18 May 2023 (P176181), a second phase (SOP-II, P180931) approved December 2023 | [Three years and US$162 million into the region's flagship digital-integration project, the Implementation Status Report records that not one of the governance instruments it was meant to produce exists. Delivered: a Kenya-South Sudan connectivity MoU and an IGAD information-sharing framework. Not delivered: South Sudan's CSIRT, cloud guidelines in either state, any e-commerce strategy, an EAC cross-border data-transfer mechanism, and US$0 of private investment mobilised — against which the World Bank's own rating was upgraded in the same report](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Stalled |
 | East Africa data-centre and connectivity financing (EIB/AXIAN, RMB/Wingu Africa) | Baseline not held | [Rand Merchant Bank backed a Wingu Africa data-centre expansion across Ethiopia, Djibouti and Tanzania; the European Investment Bank granted AXIAN Telecom financing for 4G/5G rollout reaching Tanzania (and Madagascar); AXIAN separately pledged 4G expansion investment under the Partner2Connect initiative reaching Tanzania (and Comoros and Madagascar). Deal values and completion dates for the XEA-relevant legs specifically are not broken out in the reports held](https://www.biometricupdate.com/202506/60m-to-speed-up-digital-connectivity-infrastructure-in-ethiopia-djibouti-tanzania) | ***Baseline not held*** |
