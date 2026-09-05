@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: BFA
-ledger_rows: 26
+ledger_rows: 30
 not_held: 8
-record: b0c890776c60
+record: 2925128fdbd4
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -81,6 +81,12 @@ Alongside the build, the state published a count of what it has tested. [205 sta
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+Two states that share a river proposed sharing the data that would stop it drowning people. Burkinabe and Ghanaian officials [proposed a formal reservoir release protocol built on real-time data sharing and pre-agreed spill thresholds, and heard the Burkinabe power utility's chief hydrologist disclose that letters seeking closer coordination with the Ghanaian river authority, sent as far back as October 2025, had gone unanswered](https://gna.org.gh/2026/09/ghana-burkina-faso-flood-management-whats-av-stec-project-role/). Working groups mapped why warnings fail on the shared river: messages move too slowly, district assemblies lack transport and fuel, agencies holding forecast data do not always talk to disaster responders, and repeated false alarms have bred complacency. The proposal is a research project's rather than either government's, and nothing is signed.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -90,6 +96,12 @@ The Sahel alliance's shared credential reached another town. Enrolment for the c
 
 <!-- narrative: dpi--dpi-pay -->
 The regional instant-payment rail moved its deadlines rather than its coverage: the central bank [extended connection to 30 September 2026 for banks and payment institutions and 30 June 2027 for microfinance](https://techafricanews.com/2026/07/13/burkina-faso-targets-1000-white-zones-in-2026-connectivity-drive/), with 80 institutions connected union-wide at 24 June and 74 more in test.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+
+Civil registration is being digitised one commune at a time, and the training is the visible part. Delegated officers and transcribing agents in Pouni [were trained over 72 hours from 31 August to 2 September on smartphone configuration and real-time entry of births, marriages and deaths at central and secondary registration offices](https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/), funded under a regional local-governance project in the 2026 budget year. Thirty communes hold fully digitised registers; no count of officers trained or acts entered through the platform is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

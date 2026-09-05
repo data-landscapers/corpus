@@ -1,12 +1,12 @@
 ---
 title: Senegal — progress report, September 2025 – September 2026
-compiled: 2026-09-04
-period: 2025-09-01 to 2026-09-04
+compiled: 2026-09-05
+period: 2025-09-01 to 2026-09-05
 place: SEN
-ledger_rows: 127
+ledger_rows: 130
 not_held: 14
 indicators: 121
-record: a44f46593f39
+record: 014b8d034b34
 ---
 
 # Senegal: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-04.*
+*The period is 2025-09-01 to 2026-09-05.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -182,7 +182,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| National statistics | National strategy for development of statistics |  | ***No evidence*** |
+| National statistics | National strategy for development of statistics | An [IMF standards and codes report](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/) found the statistical system reliable but running at two speeds, and its recommendations were accepted under the 2024-2028 statistical strategy. <details><summary>Full record</summary>The report found macroeconomic statistics generally reliable while the system runs at two speeds: it credited the statistics agency, the regional central bank and the finance ministry, and found sector-specific statistical agencies constrained by staffing and finance ([report](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/)).<br><br>It recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication, broader public-debt reporting covering accounts payable and pension obligations, and steps toward the enhanced data dissemination standard; the country has subscribed to the general standard since November 2017 and the authorities accepted the recommendations under the 2024-2028 strategy ([report](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/)).<br><br>Acceptance is recorded and delivery is not: no dated commitment, committee, instrument or reporting change is published against any recommendation.</details> | Advanced |
 | National statistics | Censuses and surveys | The national statistics agency hosted the [first second-phase peer exchange of an inclusive-data initiative](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) in Dakar. <details><summary>Full record</summary>The exchange was hosted in July 2026; the base holds a month-precision date and the exact dates are not published ([exchange](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm)).<br><br>The same agency used a graduation ceremony the following month to press ministries to recruit statisticians into sectoral services, so it is convening internationally on inclusive data while stating a staffing problem at home.</details> | Advanced |
 | National statistics | Statistics from administrative data |  | ***No evidence*** |
 | Open data | Use of open data |  | ***No evidence*** |

@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: SEN
-ledger_rows: 33
+ledger_rows: 36
 not_held: 14
-record: 40378a91041f
+record: b26bb4ed7770
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -89,6 +89,12 @@ Consolidated agency data at 17 July records [437 of 629 civil-status centres ful
 
 Deployment moved again in August, and the agency put a frame around it. At African Civil Registration Day in Kaolack on 10 August it [launched phase four of its remediation plan and put deployment at 74% of centres, up from 70% five days earlier, with the citizen request platform live in 189 communes](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), phase four extending to Kaffrine and Tambacounda; its director-general described civil registration as an instrument of sovereignty.
 <!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+
+The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/).
+<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
@@ -107,6 +113,15 @@ The higher-education, research and innovation ministry [reported a further step 
 The month's clearest movement is a removal rather than an addition. The tax authority [withdrew the paper fiscal stamp on 20 July, making the digital service the sole recognised channel nationwide](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique), with QR-coded stamps bought and received remotely. Unused paper stamps were exchangeable until 15 August and no offline or assisted route is stated. Eight days later the [free electronic stamp service was suspended by its provider, citing an administrative decision outside its control, with refunds promised within 72 hours and users stating they now pay additional fees for an identical service](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/) — the first consumer-cost consequence of state-platform exclusivity the base holds, and it is not stated whether the decision was addressed to that provider or to the distribution channel generally. Separately the state procurement platform is [operating and named by the procurement regulator as intended to capture the procedures of a thousand administrations](https://arcop.sn/2026/07/30/encadre-appel-une-plateforme-strategique-a-proteger/), with its protection a stated priority alongside critical state digital infrastructure; no count of administrations onboarded, procurement volume, availability record or security accreditation is given.
 
 Parliament's own systems entered the record for the first time, and only as a purchase order: on 5 August the United Nations development programme [opened a tender to supply IT equipment for the National Assembly's SIPOP system](https://www.developmentaid.org/tenders/view/1695673/acquisition-dequipements-informatiques-sipop). What that system does, what it costs and when it runs are all absent from the notice, which is the whole of what the base holds on it.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+
+The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/dematerialisation-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national dematerialisation platform. No centre count, connectivity rate or remediation budget is published against the diagnosis.
 <!-- /narrative -->
 
 ## Technology
@@ -148,6 +163,15 @@ The flagship access programme is under investigation. The National Assembly [vot
 
 <!-- narrative: inclusion--include-divides -->
 The month's one inclusion measure came from the despatch box rather than a survey. Debating the critical-infrastructure bill, the telecommunications minister [told parliament that 40% of Senegalese still have no access to connectivity](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html), citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not held, no definition of access accompanies the figure, and it is two years old at the point of its citation.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+
+An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them.
 <!-- /narrative -->
 
 ## Geopolitics

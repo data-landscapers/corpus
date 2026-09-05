@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: SSD
-ledger_rows: 16
-not_held: 12
-record: 105f6c9f204b
+ledger_rows: 20
+not_held: 13
+record: 09f49155ca6a
 ---
 
 # South Sudan: monthly update, August – September 2026
@@ -52,6 +52,12 @@ Regionally, East African states [opened a joint bank account to fund a feasibili
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+The only description the base holds of how import revenue is actually collected is an account of a sanctioned contractor collecting it. A UK-registered firm [manages national revenue through a US-dollar e-Permit charge levied on imports before any tax assessment is issued, enforced at all border points by the Ugandan and Kenyan revenue authorities alongside the firm's own staff deployed under national revenue authority cover](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern), and collection has continued since the United States sanctioned the firm on 12 May over the diversion of public resources and foreign assistance. The Tanzanian and Rwandan revenue authorities have publicly dissociated themselves. No contract, legal instrument or revenue figure is published, and no national authority is recorded as answering the account.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -82,6 +88,15 @@ On 5 August the education ministry [launched an Education in Emergencies Managem
 
 <!-- narrative: capacity--capacity-training -->
 Two private training deliverables closed the month. A mobile operator's money arm [graduated 1,225 entrepreneurs from a digital-finance skills programme on 24 August](https://techafricanews.com/2026/08/24/mtn-momo-equips-1225-entrepreneurs-digital-finance-skills/), and the same operator [opened an ICT hub at Aweil in Northern Bahr el Ghazal](https://techafricanews.com/2026/08/31/mtn-south-sudan-launches-aweil-ict-hub-to-boost-digital-skills-and-youth-innovation/). Both are the operator's own programmes and its own figures; no state training line stands beside them on this ledger.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+
+Access got dearer and the machinery for questioning it got weaker, in the same week. A published account reports [internet subscription tariffs rising by approximately 15 per cent across both operators](https://www.radiotamazuj.org/en/news/article/opinion-internet-tariffs-has-ateny-wek-failed-or-joined-in-eating) at a time the writer describes the economy as already struggling - an opinion column is the whole of the evidence, with no tariff schedule or regulator approval on file. Separately the state's own human rights commission [rated the country weak on transparency and participation and very weak on accountability, said access to public information remained limited, and heard that the body responsible for access to information lacks the staff and capacity to enforce the law](https://www.radiotamazuj.org/en/news/article/rights-officials-accuse-government-of-treating-civil-society-as-enemies).
 <!-- /narrative -->
 
 ## Geopolitics

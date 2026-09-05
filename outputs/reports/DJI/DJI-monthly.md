@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: DJI
-ledger_rows: 11
+ledger_rows: 13
 not_held: 11
-record: 47412f001f57
+record: b05d560ec93e
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -40,6 +40,12 @@ On 29 July the new communications minister [received Japan's ambassador and the 
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+Customs has begun preparing to put trade procedures on one platform. The administration [set out an electronic single-window project at a preparatory workshop on 1 September, saying it goes beyond strengthening the declaration system customs currently uses and would shorten processing times, increase transparency and make operations more predictable for traders](https://www.dawan.africa/news/djibouti-plans-electronic-single-window-to-streamline-trade), working with the commerce ministry, the continental free trade secretariat and a Korean agency that has done the same in three other African countries. No design, budget, procurement or timetable is published, and no baseline clearance time exists to measure the shortening against.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->

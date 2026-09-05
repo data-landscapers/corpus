@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-05
+period: 2026-08-01 to 2026-09-05
 place: ZWE
-ledger_rows: 47
+ledger_rows: 51
 not_held: 7
-record: 13411cb3e2ed
+record: aed3066838e0
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -102,6 +102,12 @@ The national incident response team is named in the ICT ministry's own priority 
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+Customs data crossed a border on paper this month, in the form of an agreement to stop it having to. Customs administrations from five countries [adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria ending 26 August, to exchange trade information before consignments reach the border so that documentation and risk assessment happen earlier](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on a link this country already runs with Zambia. Data standards, interoperability, cybersecurity, legal authority and information quality are all recorded as unresolved, and no corridor or target crossing time is named.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
