@@ -16,11 +16,14 @@ Novel Oral Polio Vaccine Type	10776
 Novel Oral Poliovirus Type	16971
 OPV Oral Polio Vaccine PENTA Pentavalent	16971
 Oral Polio Vaccine	16971,1656,657
-Polio	4153,64,132,6427,2387,137,1322
+POLIO	19555
+Polio	4153,64,132,6427,2387,137,1322,4922
+Polio AFP	19544
 Polio Cases	4153,14,35,58,1092
 Polio Cases-	4301
 Polio Eradication	11417
 Polio Eradication Initiative	15725
+Polio Eradication Program	19555
 Polio Outbreak	10776
 Polio Response and Supplemental Immunization Activities	16971
 Polio Vaccine	19284

@@ -88,7 +88,7 @@ Administration. Pour	17896
 Affaires Coutumières Shabani Lukoo Pour	5123
 Afrique Centrale. Pour	15443
 Afrique. POUR LA REPUBLIQUE DU BURUNDI	13433
-Afrique. Pour	4029,2545,2944,7109
+Afrique. Pour	4029,2545,2944,7109,2795
 Afrique. Pourtant	15500
 Agadez. Pour	14243
 Agence Congolaise Pour la Création des Entreprises	16249
@@ -150,7 +150,7 @@ Bande Passante Internationale Pour	998
 Banque Centrale du Congo. Le Ministre du Pouvoir	15569
 Banque Mondiale. Pour	13442,5782
 Banque de France LA TRANSPARENCE POUR UN	10975
-Banque. Pour	15901
+Banque. Pour	15901,3535
 Billion Egyptian Pounds	15578
 Billion Egyptian Pounds Total Number of Job	15578
 Boucle du Mouhoun. Pour	737
@@ -492,6 +492,7 @@ Emmanuel POUPET Vu	16177
 Eneo LA TRANSPARENCE POUR UN SECTEUR	10975
 Ensemble Pourcentage	13300
 Ensemble Pourcentage Effectif	13300
+Entrepreneur Pour Plus	19372
 Environnemental Pour	8891
 Ernest Kounga Guemto. Pour Lorine Buna	3194
 Est LA TRANSPARENCE POUR UN SECTEUR	10975
@@ -506,6 +507,7 @@ Etats. Pour	2400
 European Union Pour	16843
 Evaluation Pour	15848
 Evelyne Tchitchelle. Pour	3552
+Ex.76.06 Pour	19436
 Excellent. Pour	15512
 Extranet du GIM Pour	10711
 F CFA Pour	19232
@@ -619,6 +621,7 @@ Hjort and Poulson	12006
 Homme Pourcentage	13300
 Hommes Pourcentage	13300
 Hors Afrique. Pour	16323
+Housing of Poultry Housing of Livestock	19554
 Houwiyeti. Pour	17999
 Hundred Thousand Egyptian Pounds	15484
 I. Poursuite	5928
@@ -778,6 +781,7 @@ LISTES DES PROJETS POUR LESQUELS L’ARE	15670
 LIVESTOCK AND POULTRY OWNED BY HOUSEHOLDS	17043
 LJ Pour	15397
 LOGEMENT NON TROUVÉ L'ENQUÊTÉ POUR	13300
+LOGEMENTS POUR LES MÉNAGES RÉSIDENTS	19412
 LOI DE FINANCES POUR L’ANNEE	16047
 LOI DE FINANCES POUR L’ANNÉE	17972
 LOI DE FINANCES POUR L’ANNÉE TABLE	17972
@@ -1187,7 +1191,7 @@ Pouch	17320
 Pouchers	10434
 Pouco	18763
 Poucos	11394,7369
-Poudre	259,17755
+Poudre	259,17755,1422
 Poudriere Street	14847
 Poudrière	15615
 Poudrière Antenne	16552
@@ -1205,6 +1209,7 @@ Poulsen J	15474
 Poultry	7845,5540,3515,143
 Poultry India Expo	16331
 Poultry Indigenous Chicken	17043
+Poultry Milking	19554
 Poultry Number	17043
 Poultry Percent of Holdings	17043
 Poultry Type Total Agricultural Holdings	17043
@@ -1233,6 +1238,7 @@ Pour Ahmed Bacar	13802
 Pour Ahmed Karifa Diawara	6080
 Pour Aimé Kouassi	10389
 Pour Ajouter	13375
+Pour Alexandre Arrobbio	19397
 Pour Alphonse Balibié Bayala	2856
 Pour Alphonse Kadjo	6084
 Pour Alpin VERLET	19282
@@ -1258,6 +1264,7 @@ Pour Christian Kodia Ago	6558
 Pour Clotaire Allogo Ondo	11674
 Pour Comores Telecom	13785
 Pour Congo Telecom	9818
+Pour Contreseing	19377
 Pour Daddah Mekhala Mohamed	10402
 Pour Dakar	12519
 Pour David Akwei	19315
@@ -1612,13 +1619,13 @@ Pourrait	14425
 Pourriel	15584
 Pourriez-vous	13300
 Poursoutenircetteambition	15525
-Poursuite	2342,6549,1821,146,117,2325,90,2152,457,376,339,1128,171,2,276,697,233
+Poursuite	2342,6549,1821,146,117,2325,90,2152,457,376,339,1128,171,2,276,697,233,215
 Poursuite Antibio- Médica- Solution Remède Pourcent-	13300
 Poursuite de UNICEF	17946
 Poursuites Trésor	17982
-Poursuivant	2738,453,135,2530,211,1149,1065,2598,272,2423,2779,387,1197,319,684
+Poursuivant	2738,453,135,2530,211,1149,1065,2598,272,2423,2779,387,1197,319,684,510
 Poursuivons la Marche	15848
-Poursuivre	2342,35,589,390,2904,694,1666,271,1102,718,1,146,2443,89,1089,1060,3,41,41,175,169,58,11,68,376,226,741,376,39,9,10,19,82,122,38,741,46,58
+Poursuivre	2342,35,589,390,2904,694,1666,271,1102,718,1,146,2443,89,1089,1060,3,41,41,175,169,58,11,68,376,226,741,376,39,9,10,19,82,122,38,741,46,58,448
 Poursuivre le PNUD	17882
 Pourtant	2366,995,165,132,722,1738,99,24,16,343,1076,212,41,30,40,68,288,170,116,37,138,75,159,4,553,939,65,106,159,1198,38,1162,32,84,141,42,850,65,1,1,190,710,84,19,106,72,177,117,550,42,69,1,1,92,728,23,72,281,6,26,8,348,104,610,71,198
 Pourvoir	15542,2303
@@ -1882,6 +1889,8 @@ TIC. Pour	13290,2646
 TIQUES POUR LE PROGRES AU CONGO	16100
 TITRE IV L'ENSEIGNEMENT POUR ADULTES Art	15360
 TPE. Pour	15483
+TRADUCTION FRANÇAISE POUR INFORMATION	19447
+TRADUCTION FRANÇAISE POUR INFORMATION Sommaire Lois	19436
 TRAITEMENT POUR LES ENFANTS	13300
 TVA. Pour le RMA	18322
 TYPE OF POULTRY	17043

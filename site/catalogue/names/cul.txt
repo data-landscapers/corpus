@@ -94,6 +94,7 @@ Centros Culturales de G.E	4209
 Centros Culturales de Guinea Ecuatorial	4209
 Chef de Section Culture	17982
 China Machinery Engineering CULTURELLE	16039
+China-Tanzania Year of Tourism and Culture	19522
 Chintima EVENTS Culture Celebration and Community Service	13477
 Comissão de Cultura	539
 Commission Nationale du Patrimoine Culturel	13908
@@ -159,7 +160,7 @@ Cultura UNICEF GEN Fundo	11557
 Cultura de Cibersegurança	4146,14799,1
 Cultura de Cibersegurança Com	18788
 Culturais	11547,15
-Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309,360,128
+Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309,360,128,236,22
 Cultural Activities	16275
 Cultural Affairs	16872,103,18,44
 Cultural Affairs and Tourism	3239,13722
@@ -236,7 +237,7 @@ Culturally	17114
 Culturally Develop	4126
 Culturally Grounded Misogyny Detection Framework	7790
 Culturas Autóctonas	4209
-Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92,32,127,92,102,11,14,115,16
+Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92,32,127,92,102,11,14,115,16,153,1,64
 Culture AI	2958
 Culture Any Arab	2958
 Culture Applications	2958
@@ -259,6 +260,7 @@ Culture Enquêtes CamerPressAgency Vérifie Vidéos CAMER	9916
 Culture Enthropy Score Culture Health Score	13053
 Culture Environmental	2958
 Culture Exchange	6963
+Culture Heritage	19519
 Culture Human	2958
 Culture Il	15493,222
 Culture India and Sierra Leone	18563
@@ -318,6 +320,7 @@ Culture and Sciences. The Minister	15172
 Culture and Society	1200
 Culture and Sports	5511
 Culture and Sports ARTICLE	14409
+Culture and Sports BASATA	19519
 Culture and Sports The Partner States	14409
 Culture and Talent	12315
 Culture and Tourism	10451,4428,356,1740,36
@@ -348,6 +351,7 @@ Culturelles	17458,652,1256
 Culturels Convention	13442
 Culturels Protocole	13442
 Cultures	2958,10432,2546,423,1540,46,69,974
+Culverts	19585
 Currently Relevant Local Communities Cultural Heritage	13332,2289,1301
 Cyber Culture and Society	15480
 Cybersecurity Culture	1777
@@ -391,6 +395,8 @@ Drought-Resistant Crop Cultivation	17157
 D’Animation Culturelle	14774
 E NVIRONNEMENTAL ET CULTUREL CABINET	16175
 ECHANGES CULTURELS	16274,182
+ENTREPRENEURSHIP CULTURE Finding	19534
+ENTREPRENEURSHIP CULTURE Need Actions Actors Best	19534
 ENVIRONNEMENTAL ET CULTUREL Article	15703
 ENVIRONNEMENTAL ET CULTUREL Vu le Décret	17982
 EPISTEMIC CULTURES IN TRANSLATIONAL RESEARCH Collaboration	12090
@@ -406,7 +412,7 @@ El Renacimiento Cultural	16898
 El Renacimiento Cultural Africano	16898
 Encargado de Culto	6841
 Enhancing Digital Literacy Fostering Cultural Integration	12214
-Entrepreneurship Culture	16876
+Entrepreneurship Culture	16876,2658
 Ewe and Dagbani. Culture	5935
 Export and Transfer of Ownership of Cultural Property	14409
 FACILITATION INTERNAL EFFICIENCY CULTURE TRANSFORMATION	16968
@@ -455,6 +461,7 @@ Innovation Culture	14566
 Innovation Culture AI for All Governance Adoption	14566
 Inside Bayobab’s Culture of Recognition Corporate Bayobab	11234
 Institut Master Culture	17829
+Institut National des Grandes Cultures	19402,52
 Institutionalize Data Use Culture	15960
 Int J Cult Stud	9739
 Intangible Cultural Heritage	14073,669,1226,2002,887,73
@@ -483,6 +490,7 @@ Lehakoe Recreational and Cultural Centre	2849
 Liberian Culture	16970
 Libya Drought-Resistant Crop Cultivation	17157
 Lifestyle Actualités Culture En	8755
+Literature Culture Dating	19572,17
 Livestock and Marine Resources MoCKD Ministry of Culture	17157
 Local Communities Cultural Heritage Relevant Financial	1284
 Local Services Railway Stations Cultural Services	15578
@@ -637,7 +645,7 @@ Scientific and Cultural Organisation US United States	14747
 Scientific and Cultural Organisation USD United States	14674
 Scientific and Cultural Organisation UoM	14775
 Scientific and Cultural Organisation WEF World Economic	1814
-Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571,578,119,275,193,382,109,153,141,495,36,71,35,51,17,104,321,143,271,489,14,355,552,1061,111,37
+Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571,578,119,275,193,382,109,153,141,495,36,71,35,51,17,104,321,143,271,489,14,355,552,1061,111,37,486
 Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,135
 Scientific and Cultural Organization UNFPA United Nations	15604,3020
 Scientific and Cultural Organization UNHCR United Nations	17157,1754
@@ -669,7 +677,7 @@ Social Cultural Rights	3583
 Social and Cultural Development	14742,2216
 Social and Cultural Professionals	16266
 Social and Cultural Professionals Legal	16266
-Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162,568,364,983,983,36,960
+Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162,568,364,983,983,36,960,601
 Social and Cultural Rights CMO	14742
 Social and Cultural Rights ICT Information and Communication	17114
 Social and Cultural Rights IEC	16951
@@ -695,6 +703,7 @@ Surface Recession Cultivation Other Sprinkler Manual	17043
 T-I18. Senior AI Experts Cultivation and Attraction	15713
 Talent Cultivation and Research Excellence	4528
 Tangible Cultural Heritage. Excavation	18374
+Tanzanian Cultivating	19534
 Tax Compliance Culture	17011
 Tech IA Sport Culture	16242
 Tech IA Sport Culture Aucun	16242

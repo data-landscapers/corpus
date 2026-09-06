@@ -22,6 +22,7 @@ AFRINIC Members and Stakeholders Survey Published	10225
 AGISSEMENTS ILLICIT ES SUR LES RÉSEAUX	13719
 AGRNTS DE SURFACE ET PRODUITS D’ENTRETIEN	16103
 AI. E-I17-5 Design and Implement AI Surveys	15713
+AIDS Indicators Monitoring Survey	19519
 AJ PLASTIC SURGERY LIMITED Data Processor	7167
 AMRTP Household Survey	17870
 ANALYSE SUR LES ENTREPRISES	13390
@@ -80,10 +81,11 @@ Afrique. Sur	5766
 Afrobarometer Survey	17870
 AfterAccess Survey	322
 Age of Surveillance Capitalism	571,390,3465,3954,80
+Agricultural Sample Survey	19554
 Agricultural Survey	17165,201,1109,95
 Agricultural Surveys and Statistics	15648
 Agriculture Household Survey	14997
-Agriculture Integrated Survey	18525,42
+Agriculture Integrated Survey	18525,42,952
 Agriculture Soil Surveyor SADC Secretariat	12972
 Aid Workers and Contractors Surge	10025
 Aidwashing Surveillance	12227
@@ -96,13 +98,17 @@ Animal Disease Surveillance Dashboard	7236
 Annobón Bioko-Norte Bioko-Sur Centro Sur Djibloho	16920
 Annobón Bioko-Norte Bioko-Sur Centro Sur Kie-Ntem	16864
 Annobón. En Centro Sur	16864
+Annual Agricultural Sample Survey	19554
 Annual Agricultural Survey	17165,1360,42,3
 Annual Agriculture Production Survey	17127
-Annual Agriculture Survey	12962,4081,323
+Annual Agriculture Sample Survey	19554
+Annual Agriculture Survey	12962,4081,323,2153
 Annual Agriculture Survey Final Report URL	17043
 Annual Business Survey	11423
 Annual Citizens' Satisfaction Survey Reports	11866
 Annual Company Surveys	12962
+Annual Construction Industry Survey	19519
+Annual Construction Industry Survey Conducted	19519
 Annual Core Data Survey Report 2022 2023.pdf	15164
 Annual Core Data and Working Environments Survey	15164
 Annual Economic Prospect Survey	18577
@@ -112,10 +118,15 @@ Annual National Surveys The AISIO	12512
 Annual School Survey	12788
 Annual Survey	14836
 Annual Survey of Employment and Earnings	14832
+Annual Surveys of Industrial Production	19519
+Annual TSMP Timely Surveys Gaps Enterprise	19519
 Annual Users' DECM and Surveys	17441
 Anti-Crime Surveillance Export-Import Bank of China	645
 Antimicrobial Testing Leadership and Surveillance	14622
 Appendix A Survey Instrument Purpose and Scope	15164
+Architects and Quantity Surveyors Registration Act	19585
+Architects and Quantity Surveyors Registration Board	19585
+Architects and Quantity Surveyors Registration Board BOT	19585
 Artificial Intelligence Needs Assessment Survey	1814
 Association de SURVEILLANCE Prévention	17833
 Associação de Surdos	15694
@@ -160,7 +171,8 @@ Banque Mondiale. Sur	17902
 Banque du Surendettement	15901
 Baraka. Sur	8752
 Bariatric Surgeries	14773
-Baseline Survey	17180
+Baseline Survey	17180,2361
+Baseline Surveys and Evaluation Reports of Under Five	19541
 Basic Characteristics of Survey Respondents	15247
 Basic Surgical Skills Course	16922
 Bceao PARTAGEZ CET ARTICLE SUR	2828
@@ -179,6 +191,7 @@ Border Control and Surveillance	9399,591,7551
 Botswana Multi Topic Household Survey	12600
 Botswana Multi-Topic Household Survey	12541,57,2
 Broadcasting Baseline Survey	6946
+Budget Survey HIV Human Immunodeficiency Virus	19531
 Built Beneath the Surface	3292,1688,360,1433
 Burkina Faso World Bank Enterprise Survey	10862
 Burkina Faso. Sur	643,6184
@@ -244,12 +257,16 @@ CYBERSECURITY SKILLS GAP SURVEY Compiled	1940
 CYBERSECURITY SKILLS GAP SURVEY The CSIR	1940
 Cabling of Surface Type	14778
 Cadastral Survey Act	14722
+Calendar ARC Annual Survey of Industrial Production	19519
 Cameroon Household Survey	10985
 Cameroun. Le Business Climate Survey	15542
 Cardiac Surgery	14773
 Care Unit IDSR Integrated Disease Surveillance	17289
 Cased-based Surveillance	396
+Catch Assessment Survey	19519
+Census Surveys	19555
 Census and Survey Processing System	10777,4934,1210,1522
+Census of Industrial Production and Hotel Statistics Survey	19557
 Censuses and Surveys	12962
 Central African Republic Yearly Survey PCU	18887
 Central Bank's Business Sentiment Survey	17421
@@ -303,16 +320,42 @@ Conduct Annual Agriculture Production Survey LISGIS	17116
 Conduct Annual Needs Assessment Survey	11866
 Conduct Comprehensive and Nutrition Food Security Survey	17116
 Conduct Customer Satisfaction Survey	14781,2197
+Conduct Economic Survey	19519
+Conduct Employment and Earnings Survey	19519
 Conduct Expenditure Tracking Survey LISGIS	17116
 Conduct Forestry and Logging Survey MOA	17116
 Conduct Gender Surveys	17116
+Conduct Informal Cross Border Survey	19519
+Conduct Integrated Household Budget Survey	19519
+Conduct Integrated Labour Force Survey	19519
 Conduct Labor Force Survey	17116
+Conduct Large-scale Farms Agriculture Survey	19519
 Conduct Multiple Indicators Survey	17116
 Conduct National Forest Inventory Survey LISGIS	17116
+Conduct National Manpower Survey	19519
 Conduct Non-standard Units Measurement Survey LISGIS	17116
+Conduct Small and Medium Enterprise Survey	19519
 Conduct Socio-economic Survey	17116
+Conduct the HIV Indicators Monitoring Survey	19519
+Conduct the Informal Cross Border Survey	19519
+Conduct the Informal Sector Survey	19519
+Conduct the National Manpower Survey	19519
+Conduct the National Nutrition Survey	19519
+Conducting Employment and Earnings Survey	19519
+Conducting HIV Indicators Monitoring Survey	19519
+Conducting Informal Cross Border Survey	19519
+Conducting Informal Sector Survey	19519
+Conducting Integrated Labour Force Survey	19519
+Conducting Large-scale Farms Agriculture Survey NBS	19519
+Conducting National Manpower Survey	19519
+Conducting National Nutrition Survey	19519
 Conducting Phases Demographic Survey	16863
+Conducting Small and Medium Enterprise Survey	19519
+Conducting Socio-economic Survey	19519
+Conducting Socio-economic Survey. Strategic Objective	19519
 Conducting Survey Survey Statistics	16863
+Conducting Surveys of Industrial Production	19519
+Conducting of Informal Sector Survey	19519
 Conducting the Survey	16863
 Conducting the Survey ICT Use Survey Statistics	16863
 Conducting the Survey Internal Trade and Statistics	16863
@@ -472,10 +515,11 @@ Demand Side Financial Inclusion Survey	18770
 Demand-Side Survey	18847
 Demographic Health Survey	10812,1516,4598,25,45
 Demographic Health Surveys	10777
-Demographic and Health Survey	6946,2539,280,3158,41,361,58,298,440,21,752,1982,75,165,173,580,235,189,182,115,647,47
+Demographic and Health Survey	6946,2539,280,3158,41,361,58,298,440,21,752,1982,75,165,173,580,235,189,182,115,647,47,235,36
 Demographic and Health Survey DHS	16951
 Demographic and Health Survey ECOWAS	16951
 Demographic and Health Survey EMIS Education Management	13681
+Demographic and Health Survey FAO Food and Agriculture	19555
 Demographic and Health Survey Freetown	18590
 Demographic and Health Survey Summary Report	14142
 Demographic and Health Survey UPR	17101
@@ -512,6 +556,7 @@ Disease Surveillance	16971
 Disease Surveillance Enhancements	16971
 Disease Surveillance Network Insure	17157
 Disease Surveillance Systems Enhancement Project RIP	11380
+Distribution of Surveyed Respondents	19555
 District Health Survey-II	970
 District Surveillance Officers	16971
 Documentation of Surveys and Censuses of Cabo Verde	16189
@@ -570,10 +615,11 @@ ET SERVITUDE SUR	15429
 ETS Third Survey	10980
 EXONÉRATION DE LA TAXE SUR	15177
 EXPOSITION AUX MESSAGES SUR LA PLANIFICATION	13300
+Earnings Survey EES Enterprise Statistics EntStat	19519
 Earth's Land Surface Areas CHIRPS Climate	17157
 Economic Prospect Survey	18577
 Economic Prospect Survey The Macro Fiscal	18577
-Economic Survey	2775,3896,275,602,4590,2447,3122
+Economic Survey	2775,3896,275,602,4590,2447,3122,1812,35
 Economic Survey Consistency	2775
 Economic Survey Report	2775,9363
 Economic- Survey.pdf	7548
@@ -590,6 +636,8 @@ Electronic Government Survey	18767,5
 Electronic Integrated Disease Surveillance and Response	4202
 Electronic Surveillance Training	16971
 Emploi Sur	17844
+Employment and Earning Survey	19557
+Employment and Earnings Survey	19519,38
 Employment and Informal Sector Survey	10980,4594
 Employment and Informal Sector Survey EIN	15574
 Empowerment and Nutrition Survey	17165
@@ -616,7 +664,7 @@ Enterprise Surveys. Cooperatives	10862,7976
 Enterprise Surveys. Excluded	11881
 Environment GEOSPATIAL PRIORITIZATION SURVEY KEY FINDINGS	18476
 Environment Survey Statistics	16863
-Environmental Surveillance	16971
+Environmental Surveillance	16971,2573
 Epidemiological Monitoring Survey	14622
 Epidemiological Surveillance Department	12003
 Eritrea Household Income and Expenditure Survey	6106
@@ -639,6 +687,7 @@ Etudes Stratégiques RAPPORT-DIAGNOSTIC SUR LA MATURITE	15512
 European Investment Bank Sur	15901
 Evaluation MICS Multiple Indicator Cluster Survey	15556
 Event-Based Surveillance	14963,2135
+Event-Based Surveillance EDPs Extremely Dangerous Pathogens	19544
 Every Adolescent Survives	18441
 Exchange Control Regulations. The Financial Surveillance	8840
 Executive Opinion Survey	11895,264,46,150
@@ -649,6 +698,7 @@ Expenditure and Consumption Survey HKP Haya Karima	15604
 Exploratory TFGBV Study of Survivor Narratives	17771
 Export of Digital Surveillance Technologies	2518
 External Attack Surface Management	17156
+Extractive Industries Transparency GST Geological Survey	19519
 FAS Financial Access Survey FTTH Fiber-to-the-Home	16942
 FBS Indicators Economic Survey	2775
 FCFA HT SUR LES AUTRES GUICHETS	17833
@@ -736,6 +786,7 @@ Fourth National ICT Survey	10412
 Fourth Round Eritrea Population and Health Survey	6106
 Freedom House AI Surveillance Index	121,138,83,133
 Frequency Survey	14896
+Frequency of Conducting Surveys	19519
 Future National Surveys	3641
 G 3 GB Monthly Surf	718
 G Surfez	19232
@@ -798,6 +849,7 @@ Global Maritime Distress and Surveillance System	18309
 Global Network of Yellow Fever Surveillance Laboratories	17289
 Global School-based Student Health Survey	14622
 Global Shared Services Survey Report	15518
+Global Surface Water Explorer	19555
 Global Survey	11140
 Goals SCORE Survey	15556
 Gobierno Provincial de Bioko Sur Luba	4209
@@ -815,11 +867,13 @@ Grenadines Suriname Trinidad and Tobago Turks and Caicos	13042,3589
 Grenadines Suriname Venezuela T3 Establishing Chile	10764
 Gross Operating Surplus	236
 Ground and Surface Water	1988
+Growth Surge	19610
 Guinea Safe City Urban Surveillance and Security	2159
 Guinée Forestière. Sur	16641
 Gupta and Surbhi	8021
 GÉNÉRALITÉS SUR L’UTILISATION DE LA MAIN-D’ŒUVRE	14424
 H6B OPERATIONS SUR TITRES ET OPERATIONS	18032
+HBS Household Budget Survey HLO High-Level	19455
 HCI Survival	14897
 HEPATITIS B SURFACE ANTIGEN	16892
 HIV Surveillance	396
@@ -851,8 +905,10 @@ High-Frequency Phone Survey of Households	14897
 High-Frequency Phone Survey of Households. World Bank	13332
 High-Frequency Survey	14896,1
 Hodh Ech Gharbi. Sur	17931
+Hotel Statistics Survey	19557
 Household Baseline Survey SSN Social Safety	14897
-Household Budget Survey	9252,1884,4055,327,2957
+Household Budget Survey	9252,1884,4055,327,2957,980,76
+Household Budget Surveys	19555
 Household Energy Survey	11136
 Household Expenditure Survey	16902
 Household Income and Expenditure Survey	31,11824,470,614,1186,2751,240,141
@@ -864,8 +920,10 @@ Household Survey Commissioned	17870
 Household Survey Programme	11289
 Household Survey Programme Redesign	11341
 Household Surveys	970,2671
+Household Surveys Gaps	19519
 Household Surveys and Censuses	11237
 HouseholdExpenditure Survey Results	16833
+Households and Budget and Integrated Labour Force Surveys	19542
 Housing Survey PIM Public Investment Management	18488
 Housing Survey Preparation	1788,1417,3881
 I- INTRODUCTION Sur	18310
@@ -893,6 +951,7 @@ ID4D-Findex Survey Data	15513,40,2317
 ID4D-Findex Survey Data The ID4D	10714
 ID4D-Findex Survey Influence	15474
 ID4D-Findex Survey. GSMA Intelligence	15493
+IDSR Integrated Disease Surveillance and Response	19544
 IDSR Integrated Disease Surveillance and Response LMIC	14666
 IEC's Voter Participation Survey	10453
 IFPRI. Forsa Pilot Evaluation Baseline Survey	15663
@@ -913,6 +972,7 @@ III.4.2. Surveillance	13452
 IITPSA ICT Skills Survey and Research Report	6832
 IITPSA ICT Skills Survey and Research Report34	6832
 ILAP Poverty Assessment Survey	11525
+ILFS Integrated Labor Force Survey IMF	19519
 IMF Financial Access Survey	1828,11486,2166
 IMPLEMENTATION OF MULTIDIMENTIONAL POVERTY SURVEY	15244
 IMPOSITIONS AYANT UNE INCIDENCE SUR	16747
@@ -972,7 +1032,7 @@ IV. SUR LA CONSTITUTIONNALITE DES ARTICLES	15439
 IV. SUR LA RECEVABILITE	16247
 IV. SUR LE FOND Considérant	15615
 IV. Sur	16177
-Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79,114
+Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79,114,775
 Ikoyi and Surulere	7256
 Il- TAXE D’INSPECTION SANITAIRE VETERINAIRE SUR	15999
 Il. SUR LA REGULARITE	15439
@@ -980,6 +1040,8 @@ ImMpôt Sur	15999
 Immunization ES Environmental Surveillance EmONC Emergency	12729
 Impact Indicator Survey	14622
 Impact Survey	13332
+Implementation of Household Budget Survey	19519
+Implementation of National Panel Survey	19519
 Implementation of Sudan Multidimensional Poverty Survey	15244
 Implementing Real-time Disease Surveillance	11912
 Improved Child Survival Program for IPF Human	11469
@@ -990,15 +1052,18 @@ Incendie Surfacturation Mauvaise	15670
 Income and Expenditure Survey	12972
 Indicator Cluster Survey	18637
 Indicator Cluster Survey MASRN Ministry of Social	15415
+Indicator Cluster Survey MIS Management Information	19455
 Indicator Health Survey	11417
 Indicator Survey Reports	970
 Indicator-Based Surveillance	14963
 Individuals Survey	7521,6154
 Individuals Survey Report	13675
+Industrial Production CSPro Census and Survey Processing	19557
 Industries Survey and Census Bureau	16863
 Industry Trends and Audience Survey	6946
 Informal Cross-Border Trade Survey	15929
 Informal Economy Survey	13479
+Informal Sector Survey	19519
 Information Needs Survey	13532
 Initial Surname	12364
 Inquiry Survey	13461
@@ -1011,9 +1076,11 @@ Integrated Business Enterprise Survey	12445
 Integrated Business Enterprise Survey ISIC	12445
 Integrated Business Establishment Survey	236,15693
 Integrated Customer Satisfaction Survey	11986
-Integrated Disease Surveillance and Response	4260,5110,2047,586,2663,297,195,801,52,911,49,318
+Integrated Disease Surveillance	19544
+Integrated Disease Surveillance and Response	4260,5110,2047,586,2663,297,195,801,52,911,49,318,2255
 Integrated Disease Surveillance and Response IFR Interim	16922
-Integrated Household Budget Survey	11136
+Integrated Enterprise Survey for URT	19519
+Integrated Household Budget Survey	11136,8383,83
 Integrated Household Living Conditions Survey	3013,9345,45,2735
 Integrated Household Living Conditions Surveys	13418
 Integrated Household Survey	12964,3180,723,77,7
@@ -1021,6 +1088,9 @@ Integrated Household Survey ICT Information	16927
 Integrated Household Survey IMF	16951
 Integrated Household Surveys Comprehensive	18607
 Integrated Households Living Conditions Survey EICV	12445
+Integrated Labour Force Survey	19519,12,82
+Integrated Labour Force Survey ILO International	19531
+Integrated Labour Force Surveys	19519
 Integrated National Digital Mortality Surveillance	9370
 Integrated System for Survey Analysis	16921
 Integration of Surveillance	4349
@@ -1048,6 +1118,8 @@ Juridique Sur	18423
 KENET Core Data Survey	15164
 KENYA HOUSING SURVEY FACT SHEET Mobile	12251
 KENYA HOUSING SURVEY Mobile Phone Ownership	12251
+KEY AFP SURVEILLANCE PERFORMANCE INDICATORS	19544
+KEY AFP SURVEILLANCE PERFORMANCE INDICATORS Tanzania	19544
 KM Survey	16927
 KNBS Economic Survey	7548
 KNBS Economic Surveys	7548
@@ -1097,12 +1169,12 @@ LOI SUR LA MONNAIE ELECTRONIQUE ET	14417
 LSMS Surveys	11136
 LST Land Surface Temperature	12931
 La Surveillance des Systèmes de Paiement	13468
-Labor Force Survey	11271,3726,27,2479
+Labor Force Survey	11271,3726,27,2479,2110
 Labour Force Survey	6652,845,959,3626,247,605,43,369,3528,231,11,1359
 Labour Force Survey Annual Report	12329
 Labour Force Survey NISR	12445
 Labour Force Survey Report	1867
-Labour Force Surveys	13479
+Labour Force Surveys	13479,6134
 Labourforce Survey Annual Report	14935
 Land Bureaus. Survey	18293
 Land Cover Earth Cover Earth Surface	18904
@@ -1113,6 +1185,7 @@ Land Surveyor	11129,3593
 Land Surveyors Act	14722
 Lands and Surveys ECOWAN ECOWAS Wide Area	16926
 Lansana Sambou ANACIM Chief Surface Meteorological	18309
+Large-scale Farms Agriculture Survey	19519
 Launch Smart Surveillance Infrastructure	8520
 Le Surveillant	13468
 Legalising Surveillance and Interception of Communication	13313
@@ -1192,6 +1265,7 @@ MODULE SUR LA VIOLENCE DOMESTIQUE SEULEMENT	13300
 MODULE SUR LES VIOLENCES	13300
 MODULE SUR LES VIOLENCES SEULEMENT	13300
 MONDIALE SUR LE MAROC Rapport	7655
+MPANGILIO WA VIFUNGU Kifungu Jina SURA	19535
 MS Surveillance	15720
 MSG CPP. Sur	15907
 MSME Surveys. Formal	940
@@ -1203,9 +1277,12 @@ MUR MUR Surplus	14736
 Macroprudential Surveillance Tools	11134
 Madagascar Suriname Cameroon Malawi Tajikistan Central	11005
 Madagascar. Sur	8657
+Magereza Sura	19517
 Main School Survey and Teacher Questionnaire	18460
 Make Sure	8629
 Make Sure It Benefits Humanity	15713
+Malaria Indicator Survey	19519
+Malaria Indicator Surveys	19544
 Malaria Indicators Survey	16971
 Malawi Demographic Health Survey	12978,133
 Malawi Demographic and Health Survey. Prepared	13203
@@ -1223,6 +1300,7 @@ Maternal and Neonatal Death Surveillance and Review	16971
 Maternal and Perinatal Death Surveillance Response	1212
 Maternal and Perinatal Death Surveillance and Response	13166
 Maurice. Sur	8699
+Mawaziri Sura	19565
 Maxillofacial Surgeons	16922
 Members and Stakeholders Survey	10225
 Mid-term Survey	13332
@@ -1251,7 +1329,7 @@ Multiple Health Indicators Survey	10776
 Multiple Health Indicators Survey INALUD	10776
 Multiple Indication Cluster Survey	14905
 Multiple Indicator Cluster Sur	17869
-Multiple Indicator Cluster Survey	10829,1087,259,551,236,719,896,1084,149,626,560,853,336,452,647
+Multiple Indicator Cluster Survey	10829,1087,259,551,236,719,896,1084,149,626,560,853,336,452,647,171
 Multiple Indicator Cluster Survey MIP-1	12175
 Multiple Indicator Cluster Survey MNO Mobile	17105
 Multiple Indicator Cluster Survey Ministry of Primary	16436
@@ -1286,6 +1364,7 @@ NOUS SUR FACEBOOK Apbinfo Articles Récents	9810
 NOUS SUR TWITTER Tweets	9810
 NRA Trains Surveyors	18588
 NSES National Socio-Economic Survey	14976
+NSS National Panel Survey OCGS Non-State	19519
 NTEM CENTRO SUR WELE-NZAS	4209
 NUMERIQUE ET DES POSTES RAPPORT-DIAGNOSTIC SUR	15512
 Namibia Demographic Health Survey	12946
@@ -1309,6 +1388,8 @@ National Demographic Health Survey	12421
 National Demographic and Health Survey	10780
 National Digital Sector Assessment Survey	14010
 National Drug Use Prevalence Survey	19108
+National Economic Survey	19542
+National Economic Survey Report	19602
 National Epidemiological Surveillance Department	12003
 National Financial Inclusion Survey	11131
 National Food Security Survey	17285
@@ -1327,6 +1408,8 @@ National Invasive Alien Plant Survey	11334
 National Invasive Alien Plant Survey Project	11334
 National Labor Force Survey	16921
 National Literacy Survey	13960
+National Nutrition Survey	19519,12
+National Panel Survey	19519,95
 National Poverty Rate. Survey	10768
 National Sentinel Surveillance	16951
 National Socio-Economic Survey	14983
@@ -1350,6 +1433,7 @@ Nigeria Living Standards Survey	11988
 Nigeria Muhammad Surajo Ibrahim	9653
 Nigeria Survey	4848,6290
 Nigeria. Sur	7531
+Non-conduct of Baseline Survey for People Aged Five	19541
 Nutrition Survey Reports	970
 Nutritional Surveillance	17962
 O SURGIMENTO DE NOVAS OPORTUNIDADES	16487
@@ -1357,6 +1441,7 @@ O Surgimento	2816
 OBLIGATOIRE ET A L’UTILISATION DES SURPLUS	16020
 OBS Open Budget Survey OSR Own-Source	18577
 OBS Open Budget Survey PAC Public	18488
+OCGS and PMO Enterprise Surveys Gaps	19519
 ODCs Other Depository Corporations Survey ODPP	2775
 OGR. Sur	13375
 OPERATIONS SUR TITRES	17833
@@ -1431,11 +1516,13 @@ Performs First Penile Prosthesis Surgery Libya	2837,989,15,690,99,50,66,65,38,41
 Pesticide Residue Monitoring and Health Surveillance	14818
 Pharmacovigilance and Post-Market Surveillance	9855
 Phone Surveys	19237
+Picha. SURA YA TANO UCHAGUZI WA	19535
 Planning Survey and Issues Report	1867
 Planning and Development IHS Integrated Household Survey	12964
 Plastic Surgery	14773
 Pointe- Noire. Sur	16012
 Pointe-Noire. Sur	18900
+Polisi Wasaidizi Sura	19517
 Politics of Surveillance	2518
 Politics of Survival	9399
 Population Estimation Survey for Somalia	32
@@ -1444,6 +1531,7 @@ Population and Health Survey	14023
 Population and Health Survey. Government-wide IFMIS	13966
 Portal for Domestic Violence Survivors Last	2445
 Porto-Novo. Sur	5899
+Positioning System HBS Household Budget Survey	19519
 Post Enumeration Surveys	11421
 Post-Enumeration Survey	12383
 Post-Harvest Survey	13455
@@ -1536,6 +1624,8 @@ RQVLGHUDQGR D SURSRVWD GR PLQLVWUR GD	11530
 RTI Activates Ebola Surveillance and Response System	16383
 RWANDA DEMOGRAPHIC AND HEALTH SURVEY	15247
 RWANDA INTEGRATED BUSINESS ENTERPRISE SURVEY REPORT	12445
+Rais Sura	19535
+Rais. SURA YA NNE UCHAGUZI WA	19535
 Raise Survey	14622
 Rapid MSDI Readiness Assessment Survey	18476
 Rapid Risk Assessment and Enhanced Surveillance	10776
@@ -1551,6 +1641,8 @@ Real-time Surveillance	17884
 Recent Survey	14897
 Recommandations Sur	15493
 Recurring Surveys	15760
+Reduce Enterprise Surveys Gaps and Increase	19519
+Reduce Household Surveys Gaps and Increase	19519
 Reduced Surface Water Flow	17157
 Refugee Survey Quarterly	12227
 Regional Disease Surveillance System Enhancement	10829
@@ -1631,6 +1723,9 @@ STANDALONE SURVEY PUBLICATION	4848
 STAR-UEMOA. Sur	10711
 STATISTIQUES GLOBALES SUR LES FORMALITÉS D’ENTREPRISES	16249
 STATISTIQUES SUR L’HABITAT ET SUR	19350
+STEP SURVEY	19544
+STEP Survey	19544
+STEPs Survey	19519
 STP 2025 WBES v01 M Title World Bank Enterprise Survey	18838
 STRENGTHEN AMR SURVEILLANCE	13252
 SUDAN MULTIDIMENSIONAL POVERTY SURVEY	15244
@@ -1688,6 +1783,37 @@ SUR PLACE	13468
 SUR Proposition	13937
 SUR Proposition du Ministre	13825,9,89
 SUR SUPPLÉMENTAIRES	13300
+SURA YA KUMI KUFUTWA KWA SHERIA	19535
+SURA YA KUMI MATUKIO YALIYOVUTA HISIA	19517
+SURA YA KUMI NA MOJA HITIMISHO	19517
+SURA YA KWANZA	19517
+SURA YA KWANZA MAJUKUMU NA VIPAUMBELE	19565
+SURA YA KWANZA USULI	19517
+SURA YA NANE	19517
+SURA YA NANE KUPINGA MATOKEO YA	19535
+SURA YA NANE NGUVU KAZI YA	19517
+SURA YA NNE	19517
+SURA YA NNE MWELEKEO WA HALI	19517
+SURA YA PILI	19517,48
+SURA YA PILI HALI YA UHALIFU	19517
+SURA YA PILI MAPITIO YA UTEKELEZAJI	19565
+SURA YA PILI UANDIKISHAJI WA WAPIGA	19535
+SURA YA SABA	19517
+SURA YA SABA MAKOSA NA ADHABU	19535
+SURA YA SABA UHUSIANO KATI YA	19517
+SURA YA SITA	19517
+SURA YA SITA TAARIFA YA WAFUNGWA	19517
+SURA YA SITA UCHAGUZI	19535
+SURA YA TANO	19517
+SURA YA TANO OFISI YA TAIFA	19517
+SURA YA TANO UCHAGUZI WA MADIWANI	19535
+SURA YA TATU	19517,48
+SURA YA TATU UCHAGUZI WA RAIS	19535
+SURA YA TATU USALAMA BARABARANI	19517
+SURA YA TATU UTEKELEZAJI WA MAKUJUMU	19565
+SURA YA TISA	19517
+SURA YA TISA MASHARTI YA JUMLA	19535
+SURA YA TISA MKAKATI WA KUKABILIANA	19517
 SURCHARGE WILL APPLY IN ORDER	13122
 SURDR	15473
 SURE TF	11310
@@ -1763,10 +1889,14 @@ SURYODIPURO	6613
 SYSTEM OF REGULAR POPULATION-BASED HEALTH SURVEYS	16892
 Safaricom Ethiopia Surpasses	17727
 Salary Survey Report and Revised Compensation Policy	15023
+Sample Survey	19554
+Sample Surveys	19542
+Sample Surveys Sample	19542
 Sample and Survey Characteristics Household	18441
-Sampling Survey	15843,1,2681
+Sampling Survey	15843,1,2681,1088
 Samuel Mungadze Surging	10739
 Santé Point Prévalence Survey Protection	14622
+Satelite Survey and Drone Mapping	19592
 Satisfaction Survey	17149
 Seasonal Agricultural Survey	12445
 Seasonal Agriculture Survey	12445
@@ -1833,12 +1963,16 @@ Standardised Surveys. GESIS Survey Guidelines. Mannheim	8376
 State Digital Surveillance Risk Landscape	9399
 State Sponsor of Terrorism List Poverty Survey	14897
 State Surveyor-General	11129
+Statistics AfCS Agriculture Integrated Survey AGRI	19519
 Statistics South Africa’s General Household Survey	11195,67
+Statistics Survey Reports	19541
+Statistics TDHS Tanzania Demographic and Health Survey	19544
 Stats SA General Household Survey	11211
 Stats SA's General Household Survey	6832
 Strategic Plan for Surveillance and Animal Health	11417
 Strategy PHS Populations and Housing Survey PIM	18577
 Strengthen Surveillance of Climate-Sensitive Diseases	13121
+Strengthening Crop Forecast Surveys	19519
 Strengthening Surveillance and Laboratory Capacity	15959
 Strengthening Survey EIF Enhanced Integrated Framework	17105
 Structured Dialogue Have Your Say Survey	17403
@@ -1995,6 +2129,7 @@ Surport RAIC	18442
 Surprisingly	4439,5991,1909,3134
 Surrender	762,1965,1531,8107,9,36,483,178,14,222,14,245,5315,2
 Surrender of Individual License	762
+Surrender of Lease Documents	19602
 Surrendered	2775
 Surrounding	12202
 Surrounding Environment and Mapping	15081
@@ -2007,8 +2142,9 @@ Suru-Léré	7355,3512
 Surulere	3580,843,178,453,820,1232,177,3448,1237
 Surv Compagnon	14622
 Surv Companion	11459
+Survbeject	19525
 Surveillanc	4301
-Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214,113,1031,40,502,652,71,48,219,21,88,136,16,210,233,1,1,63,1,1,47,85,151,1,145,504,49,15,21,75,11,1,29,61,27,12,1,120,91,23,424,234,105,170,30,36,13,112,714,19,29,28,11,18,191,21,172,20,33,587
+Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214,113,1031,40,502,652,71,48,219,21,88,136,16,210,233,1,1,63,1,1,47,85,151,1,145,504,49,15,21,75,11,1,29,61,27,12,1,120,91,23,424,234,105,170,30,36,13,112,714,19,29,28,11,18,191,21,172,20,33,587,575,19
 Surveillance Achieve	14190
 Surveillance Architecture	9399
 Surveillance By Evin McMullen Age Verification	9328
@@ -2051,10 +2187,12 @@ Surveillance-f	4301
 Surveillant	15595,3631
 Surveiller	7977,2998,957,1369,1124,112,4824
 Surveillonce L'Autorilé	15429
-Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40,127,3,2,4,55,63,38,253,345,70,7,67,52,61,24,17,18,4,27,10,27,19,59,20,8,1,18,6,91,1,50,150,216,88,37,268,108,114,448,319,277,46,100,1,54,85,35,100,27,140,10,70,167,62,80,3,18,139,130,1,57,29,454,242,39,193,5,4,9,16,30,5,36,80,2,8,63,33,16,120,4,77,82,376,22,3,76,268,98,150,34,50,42,3,145,9,101,13,43,18,115,223,74
+Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40,127,3,2,4,55,63,38,253,345,70,7,67,52,61,24,17,18,4,27,10,27,19,59,20,8,1,18,6,91,1,50,150,216,88,37,268,108,114,448,319,277,46,100,1,54,85,35,100,27,140,10,70,167,62,80,3,18,139,130,1,57,29,454,242,39,193,5,4,9,16,30,5,36,80,2,8,63,33,16,120,4,77,82,376,22,3,76,268,98,150,34,50,42,3,145,9,101,13,43,18,115,223,74,208,1,34,59
 Survey 0.pdf	7548
 Survey 0.pdf SUMMARY OF ICT INDICATORS	6671
+Survey ASLMs Agriculture Sector Lead Ministries	19554
 Survey ASSL Audit Service Sierra Leone	18577
+Survey Acquired Immune Deficiency Syndrome AIDS	19519
 Survey And Instrument Design	12409
 Survey Appeals	18881
 Survey Assessed	14212
@@ -2073,6 +2211,7 @@ Survey Design	17149
 Survey Design and Methodology The Liberia	17043
 Survey Details Estimated Completion Time	9478
 Survey Division of Acts	14722
+Survey Error	19613
 Survey Findings	2775
 Survey Fund the Mineral Survey Fund	6921
 Survey Government-E	17053
@@ -2080,6 +2219,7 @@ Survey IC Intermediate Consumption ICOR Incremental	236
 Survey ICR Implementation Completion and Results Report	18765
 Survey ID	15620,1746
 Survey KNBS Kenya National Bureau of Statistics	12151
+Survey LANs Local Area Networks LGAs	19519
 Survey LULC Land Use Land Cover	17157
 Survey Locations	12328
 Survey MIS Malaria Indicator Survey MoA	16927
@@ -2089,7 +2229,7 @@ Survey Methodology and Cartography	12768
 Survey Methodology for Data Collection Survey Responsibility	16949
 Survey MoFEA Ministry of Finance and Economic Affairs	16896
 Survey Monitoring and Evaluation	11237
-Survey Objectives	2775,10679,613,1180,3213
+Survey Objectives	2775,10679,613,1180,3213,1094
 Survey Objectives Build	12498
 Survey Percentage	10964
 Survey Processing System DQr Data Quality	15711
@@ -2107,7 +2247,7 @@ Survey Results Number	15713
 Survey Reveals Consumer Digital Fraud	15042
 Survey SEND	14896
 Survey Solution	737,11414
-Survey Solutions	16898
+Survey Solutions	16898,2657
 Survey Statistics	16863
 Survey Topline Findings	12409
 Survey Topline Findings Awareness	12409
@@ -2140,6 +2280,7 @@ Survey of Well-Being	16032
 Survey of Women Trained	17116
 Survey-weighted	10714
 Survey. EICV5	12413
+Survey. Expected	19519
 Survey. Ictam General Secretary Exile Njoka	2264
 Survey. Overall	12409
 Survey. Wiley Interdisciplinary Reviews	11265
@@ -2158,8 +2299,10 @@ Surveyor General’s Department	13213
 Surveyor-General	11129,1382,811,76
 Surveyor-General's Office	13251
 Surveyors	18293
-Surveys	236,182,552,1126,2106,1708,629,4175,127,1033,90,11,31,206,125,994,1109,1113,160,18,413,799,156,15,327,429,606,58,680
+Surveys	236,182,552,1126,2106,1708,629,4175,127,1033,90,11,31,206,125,994,1109,1113,160,18,413,799,156,15,327,429,606,58,680,305,15,21,2
 Surveys Departments	13251
+Surveys Four	19534
+Surveys Gaps	19519
 Surveys Mobile Network Operator Ministry of Finance	15553
 Surveys Moustiquaires Imprégnées	14622
 Surveys Periodic Survey Reports	17011
@@ -2197,6 +2340,7 @@ Suryadi and Nurhattati	8021
 Suryahadi	12978
 Surélévation-Addition	14489
 SurélévationAddition	14488,1,1
+System EES Employment and Earnings Survey GDP	19557
 Système de Vidéo Surveillance	3356
 SÉLECTIONNÉE POUR RÉPONDRE AUX QUESTIONS SUR	13300
 SÉMINAIRE SUR L’AMÉLIORATION DES STATISTIQUES SUR	15670
@@ -2223,6 +2367,8 @@ TAXE SUR LES TRANSACTIONS ELECTRONIQUES Section	17972
 TAXE SUR LES TRANSFERTS DE FONDS	16047
 TAXES SUR LE CHIFFRE D’AFFAIRES TITRE	16020
 TAXES SUR LE PERMIS DE CONSTRUIRE	16047
+TDHS Tanzania Demographic and Health Survey	19531
+TDHS-MIS The School Malaria Parasitological Survey	19544
 TEXTUAL ANALYSIS OF QUARTERLY SURVEY	13532
 TIME OF SURVEY	582
 TION DU FORUM NATIONAL SUR L’EDUCATION	17817
@@ -2236,8 +2382,17 @@ TRAVAILLÉ SUR	13300
 TRIPLÉS SUR DES LIGNES SÉPARÉES. S'IL	13300
 TRS Survey Questionnaire Print Preview LIBERIA	17367
 TYPE DE DECLARATION Sur	15599
+TZA-NBS-2025-V01 Integrated Labour Force Survey	19613
+TZA-NBS-2025-v01 Title Integrated Labour Force Survey	19613
 Take the Survey All	17646
 Takrem Ferdous Surid	10852
+Tanzania Demographic Health Survey	19544
+Tanzania Demographic and Health Survey	19519,25
+Tanzania Economic Survey	19531
+Tanzania HIV Impact Survey	19519,25
+Tanzania HIV Impact Survey TIC Tanzania	19531
+Tanzania Mainland Household Budget Survey	19555
+Tanzania National Nutrition Survey	19520
 Tax Inspector Survey	18318
 Taxpayer Perception Survey	13053
 Taxpayer Satisfaction Survey Questionnaire	12500
@@ -2248,9 +2403,11 @@ Team DHS Demographic and Health Survey DHSE	18478
 Team Lead Surveillance	14662
 Tech Services Surge	12262
 Technical Appendix UNITED NATIONS E-GOVERNMENT SURVEY	14006
+Technical Education and Labour Market Survey Project	19565
 Technical Surveyors and Survey Technician Act	12912
 Telecel. Sur	5071
 Telegram. Sur	10389
+Tenure Rights Annual Agricultural Sample Survey	19554
 Through the Evidence-Based FinScope Survey	418
 Time Use Survey	17116
 Timing Survey	10714
@@ -2302,6 +2459,7 @@ USSD III. Sur	16177
 Uganda National Household Survey	9024
 Uganda National Household Survey The Uganda	9024
 Understanding Surveillance Trends	2549
+Undertaking Annual Survey of Industrial Production NBS	19519
 Unemployment Survey and Census Conduct the Hotels Bureau	16863
 Unis. Sur	11014
 United Nations E-Government Survey	1912,8928,1493,1673,1405,1474,1882,5
@@ -2317,12 +2475,15 @@ User Satisfaction Survey	5679,11470,497
 User Satisfaction Surveys	17149
 User Survey	13532
 Using the Botswana Multi-Topic Household Survey	12541
+Utangulizi Sura	19517
+Uwaziri Sura	19565
 V. RESULTAT DU FORUM NATIONAL SUR	14442
 V. SUR LA RECEVABILITE DU MEMOIRE	16247
 V3A PRODUITS SUR OPERATIONS AVEC	18032
 V5D Commissions V5F PRODUITS SUR IMMOBILISATIONS	18032
 V5G PRODUITS SUR CREDIT-BAIL ET OPERATIONS	17833
 V5N PRODUITS SUR OPERATIONS DE V5P	18032
+VACCINE PREVENTABLE DESEASE SURVILLANCE	19544
 VALEUR AJOUTÉE SUR LES BIENS ET	15177
 VALEUR SUR CREANCES ET DU HORS	17833
 VASCULAR SURGERY	14773
@@ -2366,6 +2527,7 @@ WAR Surgery Damage	15206
 WB Enterprise Surveys Benin	1400
 WELE-NZAS NTEM BIOKO SUR BIOKO NORTE	4209
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209
+WEN Tanzania Gender and Environment Survey	19614
 WMO Hydrology Survey	18787
 War Surgery Protocols Radiology	15206
 Web-Based Survey	10919
@@ -2395,6 +2557,7 @@ X SOCIETE DE SURVEILLANCE KANAZAWAN-SARL SSK	16623
 X United Nations E-Government Surveys	10840
 X01 EXCEDENT DES REPRISES SUR	17833
 X83 PROFITS SUR EXERCICES ANTERIEURS	17833
+YALIYOMO SURA YA KWANZA	19565
 Year Surveillance	4153,49,15,43,41,48
 Year U.S. Government New Federal Surveillance	4301
 Year U.S. Government Surveillance	5352

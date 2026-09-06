@@ -37,6 +37,7 @@ Certificado de Comercio Certificado de Comercio Libreta	4209
 Comercio Libreta	4209
 Commune de Libreville. Au	15727
 Communique-Final-22-mai-2026-final-1.pdf Libreville	16381
+Conference Hall and Library	19585
 Conseil des Ministres Libreville	16381
 Contact Us Libraries About Us	14721
 Continental Africana de Libre Comercio APP	1701
@@ -81,7 +82,9 @@ HIT Library and Information Services	13633
 Head of Library Services	2775
 Health Info Libr J	771
 House of Commons Library. Clark	5675
+ICT Labs and Digital Libraries	19532
 ICT Teacher and Library	18617
+ICT and Library	19585
 INTERIOR LOCALES LIBRE MUNICIPALES URBANOS SERVICIOS	4209
 Incident Response Team DLMS Digital Library	15164
 Incubator Libreville Incubator Port Gentil Incubator	15411
@@ -110,6 +113,7 @@ LIBREVILLE	1575,2634,3579,152,212,150,459,1,656,213,95,110,92,557,1,3846,1728,99
 LSE Library	14706
 Law Library	11235,2126
 Le RIC de Libreville	16037
+Libr. Rev	19555
 Libra Esterlina	18829,31,20
 Libralian	13532
 Libraport	16714
@@ -123,6 +127,7 @@ Libraries Only	12199
 Libraries Private Sector	17018
 Library	396,852,580,2,6192,3107,2,9,467,990,456,424,55,1632,703,985,20,139,1196
 Library Books	12597
+Library Books Module Agency	19584
 Library Cataloguing	14898,2043
 Library Corner	16852
 Library Environment Feedback	13532
@@ -130,6 +135,7 @@ Library Freedom Project	8022
 Library HTML	1828
 Library Hi Tech	8022
 Library Hi Tech News	8022
+Library Information Management System Mwanza Urban	19584
 Library Management	2948,834,4240
 Library Management System	5250,7347
 Library Management System P2	5635
@@ -140,7 +146,7 @@ Library Quarterly	8022
 Library Review	12325
 Library Science	8022
 Library Service	7548
-Library Services	11237,21,28
+Library Services	11237,21,28,8279
 Library Services Results	13532
 Library Services and Programmes	12597
 Library Table	18460
@@ -291,6 +297,7 @@ Ville LibrevillePays GABON Tel	15368
 Virtual Tape Libraries	13185
 Virtual Tape Library	13185
 WebRadio Newsletter Library	17221
+Weights and Measures Library Information Management System	19584
 WhatsApp WebTV WebRadio Newsletter Library	11548,4277,769,580,206,983
 Wiley Online Library	5349,3255
 World Bank Microdata Library	10714,4906
@@ -301,5 +308,5 @@ Zambia Library Service	13392
 Zimbabwe University Libraries Consortium	13633
 Zimbabwe. Library Philosophy and Practice	1248
 Zone de Libre En	3396
-Zone de Libre-Echange Continentale Africaine	15500
+Zone de Libre-Echange Continentale Africaine	15500,3899
 Zone de Libre-Échange Continentale Africaine	18988

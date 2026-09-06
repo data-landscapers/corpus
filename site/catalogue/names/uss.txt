@@ -52,6 +52,7 @@ USSD III. Sur	16177
 USSD Instant	6938
 USSD Needs	11133
 USSD Reporting Lenovo	3003,962
+USSD Short Codes	19534
 USSD Unstructured Supplementary Service Data UxD	396
 USSD and APIs	14997
 USSD and QR	3977
@@ -82,3 +83,4 @@ Ussel	8606
 Usseletal	8606
 Ussene Isse	6474,1530,4796
 Ussumane Camará	11544
+VAS SMS and USSD	19534

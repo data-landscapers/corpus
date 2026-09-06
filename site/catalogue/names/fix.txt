@@ -1,7 +1,11 @@
 ACESSO A BANDA LARGA FIXA	18791
+ARPU Voix Fixe	19440
+Abonnement Data Fixe	19440
+Abonnement Téléphonie Fixe	19440
 Abonnements Internet Fixe	16326
 Abonnées Fixes	18122
 Abonnés Tel. Fixe	419
+Administration MOA Fixation	19482
 Africa Americas Arab States Fixed	11563
 Africa Fixed-broadband	15471
 Application Fixed Wireless Access Maximum	736
@@ -42,6 +46,7 @@ DE LA FIXATION DES PLAFONDS DES	15426
 DECISION ON AUTHORISING FIXED BROADBAND INTERNET	2913
 DIGITAL INFRASTUCTURE Malawi Fixed Wireless and Fiber	12937
 Dans le FIXANT LES REGLES SPECIFIQUES APPLICA-	17812
+Data Fixe	19440
 Development of Fixed Broadband Networks	15471
 Dig Once Policy P-5 Fixed Internet	11857
 Digitalisation of Fixed Penalty Notice	14830
@@ -156,7 +161,7 @@ Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505,3440,55
 Fixe Taux	998
 Fixe. En	18122
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23,374,94
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23,374,94,340
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -230,6 +235,7 @@ Fixed Line D100	17250
 Fixed Line Data Subscriptions	2776
 Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
+Fixed Line Next-Generation Network Standard	19510
 Fixed Line Operators	18887
 Fixed Line Revenue	11211,51
 Fixed Line Subscriptions	6671
@@ -264,6 +270,7 @@ Fixed Penalty Notice GBV	14760
 Fixed Penalty Notices	14267
 Fixed Q3	2776
 Fixed Radio	736
+Fixed S	19532
 Fixed Satellite Service	2913
 Fixed Service	3898,2202
 Fixed Service Offices	8999
@@ -366,10 +373,10 @@ Fixed-wired	12395
 Fixed-wireless	1818,5080,5497
 FixedBB	11563
 Fixedsales	12769
-Fixer	7920,971,1985,2425,40,378,62,62,1631,462,609,1277
-Fixes	998
+Fixer	7920,971,1985,2425,40,378,62,62,1631,462,609,1277,1552,127
+Fixes	998,18442
 Fixes L’évolution	998
-Fixing	9683,26,2629,118,6100
+Fixing	9683,26,2629,118,6100,1029
 Fixing Date	16219
 Fixing Ghana	3691
 Fixing Land Records Is Central	12456
@@ -464,6 +471,7 @@ MTN Fixed	14897
 MTN’s Fixed Data	2776
 Main Fixed Telephone Lines	12395
 Market Fixing	5700
+Mbps Fixed	19532
 Mbps. Fixed	1818
 Minor Bug Fix Minor UI Improvements	15867
 Mn Fixed	3898,2202
@@ -491,6 +499,7 @@ NON FIXE	13300
 National Fixed Asset Management Policy	9004
 National Fixed Asset Register. Consolidated	9004
 National Fixed Voice Traffic	15136
+Net Acquisition of Nonfinancial Assets Fixed	19602
 Network Operator Fixed Network Operator Q3	2776
 Nigeria’s Wholesale Fixed Broadband Market Assessment	10958
 Non-Protected Fixed Links	6946
@@ -525,6 +534,8 @@ Plan Environmental and Social Management Framework Fixed	15372
 Portant Fixation des Conditions	13313
 Public. FIXANT L’ORGANISATION ET LES MODALITÉS	17812
 Purpose of Chapter Part B Fixed	11181
+Pénétration Data Fixe	19440
+Pénétration Téléphonie Fixe	19440
 Quarter-on-Quarter Fixed Broadband	2776
 Quarterly Domestic Fixed Voice Traffic	6671
 Quarterly Variation Fixed	6671
@@ -572,6 +583,7 @@ Terrestrial Fixed Wireless Technology	15136
 There’s No Fix for Weeks After FIJ	10034,231
 Thousand Fixed Line Subscriptions Devices and Terminals	9781
 TradeSmart Fixed Income EMS Cyber Heroines	7156
+Trafic Fixe National	19440
 Trend of Fixed Broadband	15136
 Trend of Fixed Broadband Subscriptions	15136
 Tráfego Internacional Fixo A Companhia	18791

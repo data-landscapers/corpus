@@ -67,6 +67,7 @@ European Union Gross Domestic Product DST	14932
 Evolution of Gross Tertiary Enrolment Ratio	14775
 F FIN DE GROSSESSE	13300
 FCFA Gross Domestic Product Gross Enrollment	11905
+FGM Female Genital Mutilation GDP Gross	19531
 FL Gross	17140
 FM Gender-Based Violence GBV Gross Domestic	11417
 FSPs Financial Service Providers GDP Gross	7763
@@ -115,6 +116,7 @@ GDP. Gross	17990
 GER Gross Enrollment Rate Telecommunications Inc	16942
 GER Gross Enrolment Rate	14916
 GER Gross Enrolment Ratio GGR Gross	14747
+GER Gross Enrolment Ratio GIS Geographical	19542
 GER Gross Enrolment Ratio GNLSA Gambia	16852
 GERD Gross Expenditure	12786
 GHG Gender-Based Violence GIZ Gross Domestic	10964
@@ -145,6 +147,7 @@ Gender Based Violence GDP Gross Domestic	970,12362
 Gender-Based Violence GDP Gross Domestic Product	16896,1881,32
 Gender-Based Violence Gross Domestic Product Geo-Enabling	15658
 Gender-Based Violence Gross Domestic Product Government	1228
+General Control of Public Services GDP Gross	19455
 General Government Gross Debt	14777,827
 Global Challenge Program GDP Gross Domestic	19245
 Global Competitiveness Index GDP Gross Domestic	15491
@@ -163,7 +166,7 @@ Gros Petits Volaille	737
 Grosh	15601
 Grosjean J	14666
 Grosman	7966
-Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28
+Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28,751
 Gross Amount Accumulated	11955
 Gross Amount Impairment	11955
 Gross Annual N	10407
@@ -182,7 +185,7 @@ Gross Completion Rate	18460
 Gross Disorderly Conduct A Member	13387
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6,210,56,8,25
 Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
@@ -192,6 +195,7 @@ Gross Domestic Product GEA	12175
 Gross Domestic Product GEMS Geo-Enabling	11560
 Gross Domestic Product GER Gross Enrollment	18765
 Gross Domestic Product GER Gross Enrolment	15604
+Gross Domestic Product GEWE Gender Equality	19519
 Gross Domestic Product GFCF Gross Fixed	16996
 Gross Domestic Product GFPA	16951
 Gross Domestic Product GFS	14857
@@ -205,6 +209,7 @@ Gross Domestic Product GSMA Global System	12395
 Gross Domestic Product Growth	19038
 Gross Domestic Product HVI	17101
 Gross Domestic Product Harare Institute of Technology	4528
+Gross Domestic Product ISIC Rev.4 International	19557
 Gross Domestic Product ITA	13053
 Gross Domestic Product IXP Internet Exchange	14897
 Gross Domestic Product Know-Your-Customer Mobile	11130
@@ -215,6 +220,7 @@ Gross Domestic Product and Gross National Income	2775
 Gross Domestic Product of Mauritius	14729
 Gross Domestic Products	11289,1662
 Gross Early Childhood Education Figure	12431
+Gross Electricity Demand	19596
 Gross Emissions	15983
 Gross Enrollment Rate	12411,4531,516
 Gross Enrollment Rate GHG Greenhouse Gas	17458
@@ -223,9 +229,10 @@ Gross Enrollment Ratio Central African	13314
 Gross Enrolment Rate	12175,24,2717,1936,1608
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
-Gross Enrolment Ratio	13991,756,857,2856
+Gross Enrolment Ratio	13991,756,857,2856,1082
 Gross Enrolment Ratio GoSE Government	13960
 Gross Enrolment Ratio for Basic and Secondary Education	14958
+Gross Enrolment Ratios	19542
 Gross Expenditure	12786
 Gross External Reserves	18455
 Gross Fixed Capital Fomation	18483
@@ -322,6 +329,7 @@ Intermediate Gross Value Added Gross	236
 Intermediate Gross Value Gross Operating Provider	236
 Investigation GDP Gross Domestic Product GNI	10765,10
 Investment FX Foreign Exchange GDP Gross	10781,80,1566,2055
+Investment ICT Gross Domestic Product ICTC	19534
 KSh Gross	2775
 KSh Gross Fixed Capital Formation	2775
 Kenya's Gross Domestic Product	7204
@@ -367,7 +375,10 @@ Petit Gros	18418
 Pharmacies de Gros du District PNDRH	14442
 Present Value GDP Gross Domestic Product	19239
 Primary Gross Enrollment Ratio	14897
+Primary Gross Enrolment Ratio	19542
 Primary Gross School	16942
+Primary Schools Gross Enrolment Ratio	19542
+Primary and Lower Secondary Gross Enrolment Ratios	19542
 Private Sector GDP Gross Domestic Product	13295
 Processing System GDP Gross Domestic Product	15244
 Product GER Gross Enrolment Ratio GPI	14896
@@ -388,7 +399,7 @@ Rate GER Gross Enrolment Rate GIR	18460
 Ratios RCFIS Real Gross Domestic Product	17235
 Real Gross Domestic Product	14744,3698
 Real Gross Domestic Products	17634
-Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359
+Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359,2266
 Real Time Gross Settlement Agency	14897
 Real Time Gross Settlement System	4517,2461,6490,1686,1690,34,260
 Real Time Gross Settlement USSD Unstructured	14897
@@ -430,6 +441,7 @@ System GDP Gross Domestic Product GEMS	10829
 System GNDI Gross National Disposable Income	2775
 Système de Gros Montants Automatisé	969,14505,460,1008
 Système de Règlement de Gros Montants	13468
+Système de Virements de Gros Montant Tunisien	19501
 Système des Gros Montants Automatisé	10724
 TELECOMMUNICATIONS SECTOR TO GROSS DOMESTIC PRODUCT	236
 TRÈS GROS	13300
@@ -442,6 +454,7 @@ Trans-European Automated Real-time Gross Settlement Express	16219
 USD GROSS DOMESTIC PRODUCT PER CAPITA	17101
 Understanding Gross Domestic Production	18483
 Union GDP Gross Domestic Product ICT	12951
+United Nations GDP Gross Domestic Product	19554
 VENTE EN GROS DE Bamako	17819
 Verified Gross Revenue GMD	17250
 Violence Financial Management Gender-Based Violence Gross	16436

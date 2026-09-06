@@ -156,6 +156,8 @@ Eko Link Suite	11129
 Empowerment Suite	15204
 Enquête de Suivi	18291
 Enseignement Suite	17916
+Enterprise Resource Management Suite	19584
+Enterprise Resource Management Suite Payroll Module	19584
 Entreprenariat des Jeunes. Suite	18116
 Entretien Suivez Le Grand Entretien Avec	5022
 Etat de Suisse	17824
@@ -446,12 +448,13 @@ Suitability and Legal and Compliance. Specific	7763
 Suitable	1814,14,10847,362,348,3531,8,175
 Suitable IP	12949
 Suitable Strategies The North West and North	11998
-Suite	998,2356,27,3573,716,1416,1691,352,451,34,247,1282,157,75,87,257,348,75,275,66,5,1,1,89,668,227,4,15,7,42,57,40,46,39,75,166,47,200,307,101,1,7,86,209,525,396,1,21,32,105,29,137,2,139,2,616,93,90,103,46,31
+Suite	998,2356,27,3573,716,1416,1691,352,451,34,247,1282,157,75,87,257,348,75,275,66,5,1,1,89,668,227,4,15,7,42,57,40,46,39,75,166,47,200,307,101,1,7,86,209,525,396,1,21,32,105,29,137,2,139,2,616,93,90,103,46,31,77,1
 Suite Besoins	13300
 Suite Caractéristique Urbain Ménages Ensemble Urbain	13300
 Suite Caractéristique Violence Violence Violence Violence	13300
 Suite Couverture	13300
 Suite DTC-HepB-Hib Polio1 Pneumocoque Rotavirus Enfants	13300
+Suite ERMS Facility Financial Accounting and Reporting	19584
 Suite FEMMES HOMMES Caractéristique Pourcentage de Effectif	13300
 Suite FEMMES HOMMES Caractéristiques Pourcentage de Effectif	13300
 Suite Hommes Femmes Caractéristique Personne	13300
@@ -560,7 +563,7 @@ Suivi. Chaque Comité Technique de Gestion de Programme	10712
 Suivie	15936,1977
 Suivoni	15429
 Suivra	2835
-Suivre	1317,724,2277,3337,1751,885,585,89,979,1357,63,338,16,1,769,1,1,47,727,278,72,78,20,136,13,47,91,121,250,1454,11,10,37,223,64,35,93,5,73,1,845,141
+Suivre	1317,724,2277,3337,1751,885,585,89,979,1357,63,338,16,1,769,1,1,47,727,278,72,78,20,136,13,47,91,121,250,1454,11,10,37,223,64,35,93,5,73,1,845,141,31,73,6,29
 Suivre Apprenants	16595
 Suivre le DHS Program	13300
 Suiza	16875,275
@@ -574,6 +577,7 @@ TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
 TENEUR SUIT	13828,18
 TOUS LES IMPOTS AUXQUELS JE SUIS	16629
 Tableaux de Bord de Suivi des Indicateurs	10712
+Tanzania Posts Corporation Oracle E-Business Suite	19584
 Tax. JE SUIS ALLE AU BOUT	16629
 Tchad Suivi des Indicateurs du PND Tchad Connexion2030	19043
 Technique de Suivi Le Comité Technique de Suivi	13341

@@ -16,6 +16,7 @@ B Lender	6724
 BANK LENDING AND IMPLEMENTATION SUPPORT	11924,3500,87,90,62,68,705,516,897,13,100,803,60
 BDI Lieutenant ONDONGO LENDOUMA	15744
 BOMBOMA Lenga CCH	19251
+Bank Based Lending Model	19585
 Bank Country and Lending Groups.9	11004
 Bank Lending and Implementation Support	16614,2140
 Boost Business Lending	14274
@@ -140,6 +141,7 @@ Lending	5267,215,632,466,3609,2512,2118,78,100,375,332,1400,131,127,79,287
 Lending AMP Annual Maintenance Program CAS	16614
 Lending Agreement	15399
 Lending Agreement. Any	15399
+Lending Business MTN	19622
 Lending Deposit Lending-deposit	14997
 Lending Instrument	15372
 Lending Margin	16219
@@ -152,7 +154,7 @@ Lending Service Providers	14897
 Lending-as-a-Service	5482
 Lene and Lopez	12413
 Lengau	9126,1680,83
-Lengo	3447
+Lengo	3447,16070,48,12,13,2
 Lengo la Serikali	1921
 Length	747,11343,299,10,2337,9,728,105,1036,352,1590
 Length Decimal Classwords Text	12360
@@ -199,6 +201,7 @@ Mr. Lene Sebgo	16256
 Ms. Leni Sharon Pamela	3307
 NC Lenmed Kathu Private Hospital John	11986
 Nadège LENDOYE KOUELE	16381
+Nchi. Lengo	19565
 Net Lending	16876,359,1861
 No. To Whom Lent Amount Outstanding	14546
 Non-Bank Lending Bill	12598
@@ -210,6 +213,8 @@ Number Length	16934
 Number Length Service Provider Service Code	16934
 Number and Length of Liquidation and Reorganization	12389
 Nyaruguru Lengthy	12328
+OUT. Lengo	19565
+Oldoinyo Lengai	19520
 Olumide Babalola Esq V. Soko Lending	11993
 Open Government Lens	4981,12056
 Overnight Deposit and Lending Facilities	14744
@@ -260,10 +265,12 @@ Syndicated Lending	11310
 Séverin Patrick LENDOYE	16381
 Trade Lenda	16816,1
 Trade Lenda and AirSmat	16816
+Transmission Line Route Length	19596
 Trend of Financial Inclusion and Lending Interest Rates	7763
 USSD Reporting Lenovo	3003,962
 Unconfirmed Lending and Repayments The International Bank	14546
 Village Capital. Trade Lenda	16817
+Wapelelezi. Lengo	19517
 World Bank Country and Lending Groups	10785,219
 Yuta Leng	4592
 Zimbabwe Commemorates Gilrs In ICT Lenovo	5562

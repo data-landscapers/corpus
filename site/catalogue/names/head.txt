@@ -100,6 +100,7 @@ Bisheck Simpokolo Deputy Head	13392
 BoG Head of Fintechs and Innovation	7162
 BoG's Head of Fintech and Innovation	9075
 Board Secretariat Mandla Luphondvo Head Strategy	11131
+Body Bank of Tanzania Head Office	19608
 Bolaji O. Kazeem Head	11928
 Bridget Udoo Tarker For Head	18260
 Broadcasting Headlines UCC Suspends Song Over	9781
@@ -203,7 +204,7 @@ Description Head	18530
 Development Unit Police Headquarters	14760
 Digital Economy East African Community Headquarters	9707
 Digital Transformation Agenda The Head of Civil	10156
-Digital Transformation East African Community Headquarters	15221
+Digital Transformation East African Community Headquarters	15221,4373
 Director and Head of Regulatory	14357
 Director of Department and Head of Section	15031
 Director of ICT and Head	18152
@@ -214,6 +215,7 @@ Disempowerment Headcount Ratio	17127
 Disempowerment Headcount Ratio The Disempowerment Headcount	17127
 Disempowerment Headcount Ratio for Liberia	17127
 District Headquarter Towns	18485
+Dodoma TTCL Head Office	19625
 Dr. Joseph Emeshili Head	5680
 Dr. Mohamed Emad Abdul Khaliq Head	2958
 E-Government Technology Unit Head	2779
@@ -257,6 +259,7 @@ Energy African Union Headquaters P.O. Box	961
 Energy Centre Head PMukoma	11953
 Eritrean Police Headquarters	14126
 Esteemed Excellencies Heads of Participating Delegations	15026
+Esukuta Primary School Headteacher	19618
 Eswatini Revenue Service Headquarters	13182
 Ethiopia Cooperation Head Roberto Schiliro	12183
 Event Multimedia African Union Headquarters P.O	16849
@@ -275,6 +278,7 @@ Fifteen Heads	12970
 Film and Cinema Key Headlines	9781
 Financing Head of Public Finance Sector	15604
 Fink. Oracle Group Eswatini Head of People	13233
+Fish Head	19602
 Food Headline	17909,81
 Force Headquarters Abuja	8471
 Founding and Headline Sponsor	3797
@@ -327,7 +331,8 @@ HOH Male Headed HOH Women Men	17127
 HOUSEHOLD HEAD DID NOT ALLOW HIM	17127
 HOUSEHOLD HEAD ON LINE	17127
 HR Human Resource HQ Headquarters ICT	13310
-HS Heading	6921
+HS Heading	6921,12681
+HS Headings	19602
 Harare Office Head Office	12511
 Hardship Head of Division	15901
 Head AI	12675
@@ -351,7 +356,7 @@ Head Nomcebo Hadebe	4173
 Head Nurse	11892,436
 Head Nurses	11892
 Head Of Government Ministry of Digital Transition	1885
-Head Office	1263,1045,468,610,5454,159,1219,991,71,675,31,419,542,24,11,62,311,1391,101,103,152,297,975,504,271,1386,10,31
+Head Office	1263,1045,468,610,5454,159,1219,991,71,675,31,419,542,24,11,62,311,1391,101,103,152,297,975,504,271,1386,10,31,979
 Head Office AXIAN Telecom	14445
 Head Office Auxiliary	14835
 Head Office Bank Square	13532
@@ -368,7 +373,7 @@ Head PDU	13473
 Head Payment and Cash Management	4695
 Head Police Attendant	14760
 Head Quarter	17285
-Head Quarters	11131,724,1115,362
+Head Quarters	11131,724,1115,362,6209
 Head Registrar	14891
 Head Risk	11131,3
 Head Strategy	11131
@@ -435,6 +440,7 @@ Head of Data Science Program and Research Scientist	11143
 Head of Defence Health	16277
 Head of Department	9561,1568,2430
 Head of Department Ernest Mohlahlo	11273
+Head of Department and Unit	19585
 Head of Department of Infrastructure Chantal Smith. Minister	8564
 Head of Departments	12699,271
 Head of Digital Business	15042
@@ -476,9 +482,11 @@ Head of Grants and Research	5946
 Head of Group Talent Management	11131,3
 Head of Growth	9790,5029
 Head of Health	12338
-Head of ICT	2872,6108,3384
+Head of ICT	2872,6108,3384,7212
 Head of ICT Department	14428
+Head of ICT Departments	19513
 Head of ICT Ministry of Interior	16888
+Head of ICT No Head Does	19576
 Head of ICT Regulation	5469
 Head of IP and Technology and Partner	12170
 Head of IT INSTITUTION MCTD MCTD MCTD	2989
@@ -488,6 +496,7 @@ Head of Information Society-African Union Commission	16849
 Head of Information Technology	6653
 Head of Infrastructure and Payments	10117
 Head of Institute for Social Studies	16902
+Head of Institution	19513
 Head of Institution Profile Data	14501
 Head of Internal Affairs	7114,492
 Head of International Affairs	15222
@@ -558,6 +567,7 @@ Head of Research	12461,1910
 Head of Research and Innovation	13581
 Head of Resources	4690
 Head of Revenue	5124
+Head of School	19595
 Head of Schools Services	11860
 Head of Science	11299
 Head of Secretariat	12910
@@ -639,8 +649,9 @@ Headmistress of Wesley Girls Basic School	8384
 Headoffice Road	4896
 Headphones and Screen Reader	6946
 Headquarter	6946,11514
+Headquarter and District Offices	19541
 Headquartered	620,2980,1030,47,45,2752,1624,463,2905,171,972,138,8,6,1,3,47,2,1199,186,11,52,743,509,28,496,348,81,811,83,228,98,404
-Headquarters	587,958,127,1,1,792,183,1,1919,1853,1030,1528,214,1582,358,330,878,158,97,339,34,6,196,138,51,1061,141,31,166,1085,988,81,1228,55,398,7,96
+Headquarters	587,958,127,1,1,792,183,1,1919,1853,1030,1528,214,1582,358,330,878,158,97,339,34,6,196,138,51,1061,141,31,166,1085,988,81,1228,55,398,7,96,873,14
 Headquarters Abuko Station	14260
 Headquarters Address	16219
 Headquarters Agreement	14409,3733,55
@@ -661,7 +672,7 @@ Headquarters. Geneva	13300
 Headquarters. Global Center for Adaptation	17257
 Headquarters. Ms. Nicole Fragano	17257
 Headrick	2096
-Heads	7692,2,2126,1461,1007,71,338,1,279,355,1436,94,742,1346,1,198,536,779,820
+Heads	7692,2,2126,1461,1007,71,338,1,279,355,1436,94,742,1346,1,198,536,779,820,301
 Heads and Directors	17099
 Heads for Strengthening Civil Registration Across Sierra	18519
 Heads of Agencies	16511
@@ -697,6 +708,7 @@ Heads of National	11184
 Heads of National Central Bureaus	10398
 Heads of National Statistical Offices	14839
 Heads of Planning	12359
+Heads of Procurement	19585
 Heads of Provincial	11184
 Heads of Regulators Roundtable	8117,124,1426
 Heads of Regulatory Authorities	7884
@@ -929,6 +941,7 @@ Quarterly Head ICT	13005
 Quarterly Head of Civ	13005
 RAJAONA Faniry UGD Head of Product Management	14539
 RBC Heads	12413,2643
+RC and PUNO Heads' Op-Eds	19571
 RDB The Head Office of RDB	14862
 RELATIONSHIP TO HH HEAD. LIST	17127
 Rancard Solutions Head of Corporate Services	236
@@ -1009,6 +1022,8 @@ Summit of SADC Heads of State and Government	10321,2319
 Survey Topline Findings REGISTERED OFFICES Head	12409
 Swiss Confederation and Head	18546
 System Program HQ Head Quarters HRMIS	12917
+TANESCO Head Office Monitoring and Evaluation Manager	19603
+TARURA Headquarters Building	19585
 TAX REVENUE PERFORMANCE BY TAX HEADS	14985
 TH COMESA HEADS OF STATE	13673
 TH ORDINARY SUMMIT OF SADC HEADS	12640

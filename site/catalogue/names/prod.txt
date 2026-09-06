@@ -41,6 +41,7 @@ AUTRES PRODUITS D’EXPLOITATION BANCAIRE	17841
 AUTRES PRODUITS FIANCIE	15999
 AUTRES PRODUITS FINANCIERS NET AUTRES CHARGES	18032
 AUTRES PRODUITS FINANCIERS W4A NETS	18032
+AZIMUT PV PROD	19476
 Abbreviations CPC Central Product Classification HS	11258
 Accelerate Agricultural Productivity Project	19214,65
 Acceleration Project Product	18359
@@ -61,7 +62,7 @@ African Petroleum Producers Organization	14202
 Afrique Centrale PIB Produit Intérieur Brut	16037
 Agreement. The World Bank Adaptive and Productive	15658
 Agricultural Machinery Production	13122
-Agricultural Productivity	17157
+Agricultural Productivity	17157,2372
 Agricultural Productivity Program for Southern Africa	18910
 Agricultural Productivity and Commercialization	13053
 Agricultural and Forestry Production	17114
@@ -76,6 +77,7 @@ Annual Agriculture Production Survey	17127
 Annual Fish Production	16935
 Annual Gross Domestic Product	13479,169
 Annual Production Accounts	2775
+Annual Surveys of Industrial Production	19519
 Anomaly Hotspots of Agricultural Production	16291
 Apple Products	12395,6049
 Application Fees for Products Registration	18541
@@ -83,6 +85,7 @@ Application Forms for Products	18541
 Applications and Products	7751
 Approval of Products and Services	12395
 Approval of Products and Services Section	12395
+Aquaponic Fertilizer Production System. Ubunifu	19565
 Areas Production	17114
 Arellano Director Ejecutivo Adjunto PRODEGE D	16864
 Armonizado de Precios de Producción Industrial	16898
@@ -129,6 +132,7 @@ Biosciences Production	15674
 Board GDP Gross Domestic Product GIS	16935
 Board Gross Domestic Product Greenhouse Gas	11136
 Body Satellite Imagery Products	14256
+Body The Tanzania Productive Social Safety	19586
 Body The World Bank Productive Safety	14015
 Boijonell Prod	5440,11502
 Boost Agricultural Productivity	12511
@@ -171,16 +175,23 @@ CPC Central Product	2775
 CROP BY AGRICULTURAL YEAR PRODUCTION USED	17043
 CROP PRODUCTION AND TYPE OF CROP	17043
 CRVSID-Namibia.pdf PRODUCED BY UNICEF	12337
+Calendar ARC Annual Survey of Industrial Production	19519
 Cape Town. Produced	6436
 Capital Markets Products and Services	940
 Capital Project Product	16187
 Card Production Centers	10812
 Card Production Centers CPF Code of Persons	10812
 Card Production Centers. Once the CNIB	10812
+Cash Crop Production	19554
+Cash Transfers The Productive Social Safety	19531
 Cassava Production Forecast. Annex	15838
 Cassava Production Forecast. Data	15838
+Category Crop Production Yield Production Yield	19554
 Cedi GDP Gross Domestic Product GSMA	14674
 Cement Production and Utilization	2775
+Census of Industrial Production	19519,38
+Census of Industrial Production and Hotel Statistics Survey	19557
+Census of Industry Production	19557
 Centrais CENTRAIS PRODUÇÃO BRUTA	18793
 Central African Republic Adaptive and Productive Social	15658
 Central African Republic Cassava Production Forecast	15838
@@ -195,6 +206,10 @@ Centro de Produção	438,6303,4031,3
 Centro de Produção de Bilhete de Identidade	10772,6561
 Centros Produtores	18793
 Cereal and Other Produce Regulatory Authority	12114
+Cereals And Other Produce Board Level	19584
+Cereals Production	19554
+Cereals and Other Produce Board	19584
+Cereals and Other Produce Regulatory Authority	19602
 Certificación de Productos	4209,12772
 Certificación de Productos URL	16981
 Certified Scrum Product Owner DR Disaster	18531
@@ -230,6 +245,9 @@ Compilation of Services Producer Price Index	14777
 Compost Production	17157
 Computer Produit Intérieur Brut Petite	13290
 Conduct Annual Agriculture Production Survey LISGIS	17116
+Conduct Census of Industrial Production	19519
+Conducting Census of Industrial Production	19519
+Conducting Surveys of Industrial Production	19519
 Conflict and Violence GDP Gross Domestic Product	11545
 Conflict-Affected States Gross Domestic Product Government	16902
 Consolidated Productive Package	12832
@@ -250,10 +268,12 @@ Country Product Line Team Leader	1284,15638
 Coverage Geographic Coverage National Coverage Producers	15844
 Creation With New Financial Product Business	10151
 Credit Products and Services	6940
-Crop Production	13368,31,3644,114,1747
+Crop Production	13368,31,3644,114,1747,650
 Crop Production Activities	17043
 Crop Production Activities Agricultural	17043
 Crop Production Planted Area	17043
+Crop Production Yield	19554
+Crop Production Yield Production Yield Production	19554
 Crop Production and Plant Health Drought	17157
 Crop Production and Type of Crop Activity	17043
 Crop Productivity	11140
@@ -263,6 +283,7 @@ D. Delivery Channel and Product Innovation	14897
 D. Producer Price Index	14777
 D.G. PRODUC	4209
 D.G. PRODUCC. REPOBLACION FOREST. GANAD	4209
+DATA PRODUCTION TO ENHANCE POLICY	19519
 DATA SHEET BASIC DATA Product Information	15731
 DATA SHEET BASIC INFORMATION Product Information	15601,62,2186
 DATA SHEET Product Information Operation ID	13742
@@ -279,6 +300,7 @@ DDI Document ID DDI-LBR-LISGIS-WEN-2024-v01 Producers	17165
 DDI Document ID DDI-SLE-StatsSL-AAS-2023-v03 Producers Date	18525
 DDI Document ID DDI-SLE-StatsSL-AAS-2024-v01 Producers Date	18567
 DDI Document ID DDI-SLE-StatsSL-WEN-2024-v02 Producers	18570
+DDI Document ID DDI-TZA-NBS-ILFS-2025-V1.0 Producers Name	19613
 DE L'INJONCTION DE PRODUIRE Art.129	15643
 DE LA PRODUCTION	10813
 DE L’AGREMENT DU PRODUIT INDUSTRIEL MINISTERE	15558
@@ -309,7 +331,7 @@ Data Exchange for Open Access Data Products	11222
 Data Operation ID Product Operation Acronym	18374
 Data Producers	16863
 Data Product	4214
-Data Production	17116
+Data Production	17116,2403
 Data Production Ecosystem Moving	17116
 Data Production Order Power of Access	18675
 Data Production and Management	17116
@@ -377,12 +399,14 @@ Domestic Product FSI Intergovernmental Action Group	17235
 Domestic Product G2B Government	13345
 Domestic Product GBV Gender-Based Violence IIAG	17139
 Domestic Product GDPR General Data Protection	10781,80,1566,2055
+Domestic Product GEPF GEPF Retirement and Benefits	19531
 Domestic Product GFCF Gross Fixed Capital	2775
 Domestic Product GHG Green House Gases	11863,3084
 Domestic Product GHG Greenhouse Gas GIS	15659
 Domestic Product GHG Greenhouse Gas GNI	6539
 Domestic Product GIPE Government Investment	6946
 Domestic Product GIZ German Development Agency	10841
+Domestic Product GM Grievance Mechanism GoT	19455
 Domestic Product GNI Gross National Income	11271,7554
 Domestic Product GPO Global Professional Organization	15023
 Domestic Product GPS Global Positioning System	16867
@@ -430,6 +454,7 @@ Economic Indicators Productions	12395
 Edikan Ikpeme Product Manager and Growth Expert	10834
 Education PIB Produit Intérieur Brut PISE	12
 Education Product	15693
+Education and Skills for Productive Job	19565
 Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Electricity Production Statistics	13479
 Elevage FPSO Floating Production Storage and Offloading	17907
@@ -444,11 +469,13 @@ Encuesta Nacional de Precios de Productos Agrícolas de GE	16898
 Energies Renouvelables Productique Mécanique Informatique	15674
 Energy Produced Annually	12399
 Energy Production	1154
+English The Tanzania Productive Social Safety	19586
 Enhance the Productivity of Indigenous Livestock	1154
 Enhanced Production	13053
 Enhancing Commodity Production for Import Substitution	14818
 Enhancing the Productive Capacity	16861
 Entreprise ELECTRILAC SAS Production	15670
+Equipment Production ICT	19532
 Equity and Productive Resilience Program	18301
 Escolha de Produtos	19014
 Estimated Production of Selected Agricultural Commodities	2775
@@ -473,6 +500,7 @@ FACTOR CURRENT IMPACT Product	11994
 FCFA Gross Domestic Product Gross Enrollment	11905
 FCFA de Production	2342
 FCFA. III.4. ANALYSE DE LA PRODUCTION	18291
+FINANCE AND PLANNING Metadata Producer Date	19613
 FORESTRY PRODUCTS BY TYPE OF PRODUCTS	17043
 FSPs Products	13938
 FT Full-time GDP Gross Domestic Product	14747
@@ -508,6 +536,7 @@ Formation PIB Produit Intérieur Brut PIDES	18286
 Fornecimento de Factores de Produção de Dados	3519
 Four Production Sharing Contracts	17139
 Freight CIP Census of Industrial Production CIPI	2775
+Fruits and Vegetables Production	19554
 Fuel Products	1828,15277
 Fuel Products Price Structure	1828
 Fund Gross Domestic Product Geographic Information	13290
@@ -546,6 +575,7 @@ Gender-Based Violence Gross Domestic Product Government	1228
 General Assembly of Rwanda Association of Petroleum Product	15027
 Generic Products	18541
 Geography of Innovation and Production	14723
+Get Microdata Reference ID TZA-NBS-2025-v01 Producer	19613
 Ghana Productive Safety Net Project	15878
 Glass Products	13474
 Global Flood Product	10763
@@ -556,7 +586,7 @@ Google’s Products	1363
 Government Development Index Gross Domestic Product	15480
 Grain Production Forecast	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Grants for Productive	11855
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6,210,56,8,25
 Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
@@ -566,6 +596,7 @@ Gross Domestic Product GEA	12175
 Gross Domestic Product GEMS Geo-Enabling	11560
 Gross Domestic Product GER Gross Enrollment	18765
 Gross Domestic Product GER Gross Enrolment	15604
+Gross Domestic Product GEWE Gender Equality	19519
 Gross Domestic Product GFCF Gross Fixed	16996
 Gross Domestic Product GFPA	16951
 Gross Domestic Product GFS	14857
@@ -579,6 +610,7 @@ Gross Domestic Product GSMA Global System	12395
 Gross Domestic Product Growth	19038
 Gross Domestic Product HVI	17101
 Gross Domestic Product Harare Institute of Technology	4528
+Gross Domestic Product ISIC Rev.4 International	19557
 Gross Domestic Product ITA	13053
 Gross Domestic Product IXP Internet Exchange	14897
 Gross Domestic Product Know-Your-Customer Mobile	11130
@@ -621,6 +653,7 @@ Homeopathic Products	18541
 Honey Production	13455
 Huawei Wireless FDD Product Line James	8379
 Human Development Product	11986
+Human Immunodeficiency Virus HPPI Harmonized Producer	19519
 Hyde and Prodelin Idirect X7 Bande C	998
 Hydrocarbures SPES Société de Production	15769
 Hídricos Producción	16898
@@ -669,6 +702,7 @@ Identification and Production	12327
 Identify Usage Patterns of Statistical Products	17149
 Illegal Product	14113
 Immobilisations Non Produites	15999
+Import Duties for Fish and Fishery Products S	19602
 Imported Quantities of Excisable Products and Petroleum	14985
 Importé Produits	16708
 Improve the Productivity of Small-scale Farmers	1867
@@ -705,6 +739,7 @@ Indice Global Energie Produits	16708
 Indice des Prix de Production	17842
 Indigenous Energy Production	12256
 Indonesia and Kenya FACTOR CURRENT IMPACT Product	11994
+Industrial Production CSPro Census and Survey Processing	19557
 Industrial Production Census Results ANNEX	16833
 Industrial Production Index	8532
 Industrial Relations and Productivity. Stakeholders	6652
@@ -730,6 +765,7 @@ Internet du Projet PREA PREA PRODIGY PRODIGY	14425
 Internet of Things for Productive Enterprises	14811
 Introduce Regular Thematic Briefs and Dashboards Produce	17149
 Investigation GDP Gross Domestic Product GNI	10765,10
+Investment ICT Gross Domestic Product ICTC	19534
 Investment Productivity Term	16942
 Investment-Driven and Productivity-Based Growth Strategy	14748
 Irvine's Real-Time Precipitation Product Featured Front	12957
@@ -740,7 +776,7 @@ JUSTICE PRODUCTEURS OFFICIELS DE PREUVES	3381
 Jardins Zoologiques Produit	15999
 Joburg Fresh Produce Market Agriculture	11248
 Jorge Eduardo Avalos Team Member Productive	18809
-Journal of Cleaner Production	11006
+Journal of Cleaner Production	11006,8549
 Journal of Productivity Analysis	1828
 Kankan Produits	16708
 Kati PRODUITS PHARMACEURTIQUES. Sananfara	17819
@@ -800,6 +836,7 @@ Livestock Production	2775,10699
 Livestock Production Challenges Drought	17157
 Livestock Productivity	11469
 Livestock Products and Livestock Slaughtered	2775
+Livestock Uses Storage of Aquaculture Products	19554
 Livestock and Poultry Production	17043
 Livestock and Poultry Production8 Livestock	17043
 Livestock and Product Export Permit	1988
@@ -846,10 +883,11 @@ Medium- Productivity Capacity	16942
 Medium- Productivity Investment	16942
 Memorandum Item Gross Domestic Product Millions	18823
 Mercado Relevante de Produtos	11430,1
-Metadata Production	15024,819,822,380,880,600,42,271
+Metadata Production	15024,819,822,380,880,600,42,271,775
 Microdata Identification Version Coverage Producers	15844
+Microdata Identification Version Scope Coverage Producers	19613
 Mines SECTION CONTROLE DE PRODUITS SOUS	17899
-Minimum Viable Product	10970,1521,4764
+Minimum Viable Product	10970,1521,4764,2279
 Minimum Viable Product Activités	19221
 Minister of Defense and Military Production Mohamed Zaki	15656
 Ministry of Defense and Military Production	15473
@@ -927,6 +965,7 @@ Office des Produits	8237
 Official Launch and Product Demonstration	3895
 Offsite Business Continuity Production Centre. F	12597
 Oil Exploration and Production Sharing Agreements	3583
+Oil Seeds and Nuts Production	19554
 Onderstepoort Biological Products	11197
 Opening Doors for Zimbabwe’s Gold Producers	8639
 Opens Bigger Market for Ghana’s Women Producers	7523
@@ -967,6 +1006,7 @@ PBC PME PREA PRODIGY RGPD SAMIFIN	14549
 PDO Project Development Objective PI Productive	16187
 PEI Productive Economic Inclusion PIU Project	16952
 PERCENTAGE OF HOLDINGS PRODUCING CHARCOAL	17043
+PERMIT AND LICENCE OF PRODUCER	19602
 PETROLEUM PRODUCTS	14528
 PFNL Produit	15961
 PFNL Produtos Florestais Não-Lenhosos	18760
@@ -997,6 +1037,7 @@ PROCESSED CROP PRODUCTS Crop	17043
 PROCESSED PRODUCT	17043
 PROCESSED PRODUCTS LAAS-2024	17043
 PROD EGE UNESCO	16898
+PROD-ProtectionSociale-Bulletin-FR.pdf	19413,42
 PRODA	13860,78
 PRODAFFE	17845
 PRODAP	18384
@@ -1062,7 +1103,7 @@ PRODUCT	11269,7214
 PRODUCT INNOVATION Assess	16942
 PRODUCTEURS La Communauté	17983
 PRODUCTIFS	16194
-PRODUCTION	2342,13328,947,426
+PRODUCTION	2342,13328,947,426,2501
 PRODUCTION AND YIELD OF CROPS CULTIVATED	17043
 PRODUCTION Art	19241
 PRODUCTION BY CROP CATEGORY	17043
@@ -1217,7 +1258,7 @@ Producción Industrial IPPI	16898
 Producción Programas RTVGE	4209
 Producción de Documentales Cinematográficos	4209
 Producción de Estadísticas de Seguridad	17259
-Produce	1000,1775,1753,1895,3665,1100,672,652,181,344,696,192,95,95,703,47,848,1147,7,40,64,145,33,8
+Produce	1000,1775,1753,1895,3665,1100,672,652,181,344,696,192,95,95,703,47,848,1147,7,40,64,145,33,8,2362
 Produce Marketing Organization and Société Coopérative	10841
 Produce Two Next-generation Communication Satellites Chindeu	12066
 Produce the Integrated Drought M	17157
@@ -1230,6 +1271,7 @@ Producer Accuracy	17140
 Producer BCSTP Banco Central de São Tomé	18851
 Producer Committee	16927
 Producer Kenya Electricity Generating Company EPRA	12256
+Producer OFFICE OF THE CHIEF GOVERNMENT	19613
 Producer Price Index	2775,8377,106,1704,1815,2372,1326
 Producer Price Index Public Sector Debt	14777
 Producer Price Index Recommendations	14777
@@ -1241,19 +1283,20 @@ Producer Prices Index	2775
 Producer Responsibility Statutory	1988
 Producer-To-Consumer Platforms	14818
 Producer-To-Consumer Platforms Small	14818
-Producers	10481,381,1537,503,182,675,1059,39,167,596,223,3,819,262,118,120,80,680,600,42,3,75,79,114,55
+Producers	10481,381,1537,503,182,675,1059,39,167,596,223,3,819,262,118,120,80,680,600,42,3,75,79,114,55,633,87
 Producers Funding Agency	15024,819,822,380,120,201,559,600,42,3
+Producers Name Affiliation Role Prime Minister	19613
 Producers Price	18442
 Producers Satisfaction Survey	17149
 Producers and Investors	12277
 Produces	11860,3029
 Producida	16898
-Producing	3513,2142,2471,1077,1573,1086,403,682,561,430,2895,30
+Producing	3513,2142,2471,1077,1573,1086,403,682,561,430,2895,30,2656,15
 Producing Consumer Price Indices	11258
 Producing Reliable Data	17921
 Producir	1701,15197
 Producirá	16855
-Product	236,764,284,544,881,66,974,685,414,1549,1443,58,746,802,409,863,420,96,24,11,303,383,39,303,369,456,150,93,20,76,268,247,62,410,449,100,30,7,446,222,1141,35,18,4,22,448,500,439,232,37,22,187
+Product	236,764,284,544,881,66,974,685,414,1549,1443,58,746,802,409,863,420,96,24,11,303,383,39,303,369,456,150,93,20,76,268,247,62,410,449,100,30,7,446,222,1141,35,18,4,22,448,500,439,232,37,22,187,747,17,51
 Product Appraisal and Project Papers	10985
 Product Certification	16900
 Product Certification Mark Scheme	14736
@@ -1307,6 +1350,7 @@ Product and Market-Level Constraints Compared	17870
 Product and Marketing	7420
 Product and Nature	1828
 Product and Service Development	17962
+Product and Services	19571
 Producteur	747,9864,364,4757
 Producteur Indépendant	16037
 Producteurs	3396,9994,2409,2538
@@ -1316,7 +1360,7 @@ Producteursacheteurs	15936
 Productif	9824
 Productifs	16194,2915
 Productifs du Tchad	18990
-Production	26,2,615,94,46,222,178,180,316,309,88,266,396,37,621,318,1943,2013,61,538,854,1,313,588,456,377,16,1,94,6,154,2,48,2,28,62,613,1,10,21,37,33,57,47,61,8,1,44,1,9,19,23,95,4,41,14,3,46,28,142,19,271,9,2,32,25,198,115,1,10,48,16,15,43,41,34,24,92,30,79,48,25,46,102,161,292,12,4,2,38,20,54,85,94,1,230,80,91,175,73,6,2,100,5,6,16,36,31,12,3,12,28,7,9,31,3,15,34,77,39,10,88,25,12,26,27,21,128,20,10,14,30,118,14,30,74,127,9,93,5,3,117,4,20,72,108,71,2,41,345,82,233,11,13,1,2,24,26,37,14,1,32,35,50,106,67,43,7,3,2,25,6,15,146,5,16,52,46,155,150,4,3,12,16,11,26,9,50,4,171,3,5,29,100
+Production	26,2,615,94,46,222,178,180,316,309,88,266,396,37,621,318,1943,2013,61,538,854,1,313,588,456,377,16,1,94,6,154,2,48,2,28,62,613,1,10,21,37,33,57,47,61,8,1,44,1,9,19,23,95,4,41,14,3,46,28,142,19,271,9,2,32,25,198,115,1,10,48,16,15,43,41,34,24,92,30,79,48,25,46,102,161,292,12,4,2,38,20,54,85,94,1,230,80,91,175,73,6,2,100,5,6,16,36,31,12,3,12,28,7,9,31,3,15,34,77,39,10,88,25,12,26,27,21,128,20,10,14,30,118,14,30,74,127,9,93,5,3,117,4,20,72,108,71,2,41,345,82,233,11,13,1,2,24,26,37,14,1,32,35,50,106,67,43,7,3,2,25,6,15,146,5,16,52,46,155,150,4,3,12,16,11,26,9,50,4,171,3,5,29,100,61,97,24,22
 Production AFSSEF Accès des Femmes Sénégalaises	18286
 Production Activities	17043
 Production Activities Crop	17043
@@ -1336,6 +1380,7 @@ Production Data	18706
 Production ENEO	10975
 Production Electricit	14479
 Production Electricit6	14479
+Production Environments	19584
 Production GLCEP Geospatial Least Cost Electrification	12399
 Production Grant	14742
 Production Hazardous Waste and Materials Land Acquisition	17114
@@ -1373,6 +1418,8 @@ Production Total Tonne Pesca Artesanal	18757
 Production Transport Distribution Hors-réseau Cuisson	18967
 Production Unit AV Informal Production Unit	10980
 Production Végétale	19366
+Production Yield	19554
+Production Yield Maize	19554
 Production and Average	2775
 Production and Distribution of Educational Materials	10776
 Production and Fiduciary NA	16032
@@ -1382,6 +1429,10 @@ Production and Marketing. Tourism and Manufacturing Sector	13122
 Production and Specialized Services	16266
 Production and Stockpiling of Bacteriological	18914
 Production and Trade	1988
+Production and Yield of Pulses	19554
+Production and Yield of Selected Cereal Crops	19554
+Production and Yield of Selected Oil Seed and Nut	19554
+Production and Yield of Selected Roots and Tubers	19554
 Production de CETUD	18291
 Production de Comptes	18291
 Production de DGPPE	18291
@@ -1411,11 +1462,17 @@ Production du DSDS	18291
 Production du DSECN	18291
 Production du Rapport	18291
 Production of Compressed Earth Blocks	16900
+Production of Dairy Products Meat Production	19554
 Production of Data	5700
 Production of Documents and Evidence	18556
 Production of Economic Survey	2775
 Production of FSS	18488
+Production of Selected Cash Crops	19554
 Production of Selected Commodities	2775
+Production of Selected Fruits	19554
+Production of Selected Fruits In Tanzania	19554
+Production of Selected Vegetables	19554
+Production of Selected Vegetables In Tanzania	19554
 Production of Statistical Products Encouragingly	17116
 Production of Street Name Signage	11129
 Production-like	11952
@@ -1425,7 +1482,7 @@ Productions Animales	18304
 Productions Site	15936
 Productions Vivrières	15712,45,179
 Productique	15674
-Productive	1282,1430,552,3315,3056,72,1256,1,505,103,283,378,125,11,595,14,417,215,2403,371,773,947,197
+Productive	1282,1430,552,3315,3056,72,1256,1,505,103,283,378,125,11,595,14,417,215,2403,371,773,947,197,1230,55
 Productive Adulthood	15059
 Productive Cash Transfer Program RA3	16032
 Productive Cash Transfers Program	16032
@@ -1437,9 +1494,11 @@ Productive Grant Agreements	16384
 Productive Grants	10964
 Productive Grants Manual	16384
 Productive Inclusion	10763,12,620,460,69,4676
+Productive Inclusion Measures Productive	19531
 Productive Inclusion Measures and Adaptive Social Protection	18301
 Productive Inclusion Project	15990
 Productive Inclusion Specialist	11855
+Productive Jobs FDCs Folk Development Colleges	19565
 Productive Net	10985,4616
 Productive Population	15059
 Productive Population URL	15059
@@ -1450,10 +1509,15 @@ Productive Safety Net Program	12158,1857,23,515
 Productive Safety Net Program. Ascertaining	14122
 Productive Safety Net Programme	7819,4410,2025
 Productive Safety Net Project	14092
+Productive Sector	19519
+Productive Sectors Development	19511
 Productive Social Action Program	12220,561
 Productive Social Safety Net	3604,7529
+Productive Social Safety Net III	19586,2
+Productive Social Safety Net Program	19602
 Productive Social Safety Net Project	16032,162
 Productive Social Safety Net and Youth Empowerment	18584
+Productive Social Safety Nets	19531
 Productive Social Safety Nets and Youth Employment	18573
 Productive Use Program	12399
 Productive Uses	17157
@@ -1501,7 +1565,7 @@ Producto Interior Bruto PM	1701
 Producto Interno Bruto	1701
 Productor	1701
 Productos	1701,2508
-Products	1525,463,787,736,2262,659,1607,1816,986,350,769,487,64,784,90,301,1174,730,545,364,344,18,39,143,1440,192,690
+Products	1525,463,787,736,2262,659,1607,1816,986,350,769,487,64,784,90,301,1174,730,545,364,344,18,39,143,1440,192,690,36,118
 Products FISIM Services Industry Agriculture	18483
 Products Intended for Human Consumption	11269
 Products Market	2775
@@ -1519,10 +1583,10 @@ Products of India	18810
 Products. Guided	17567
 Produire	747,2649,1406,419,2756,2881,16,1,100,1068,1258,74,77,16,106,103,132,728,5,1124,46,136,151,118,382,147,13,1183,2,1,57,81,186,121,1,11,686
 Produire CPS SS DS PF Etat	17845
-Produit	643,6129,116,1433,570,385,2668,2230,1280,266,12,267,26,601,2,857,370,443,55,404,493,41
+Produit	643,6129,116,1433,570,385,2668,2230,1280,266,12,267,26,601,2,857,370,443,55,404,493,41,78
 Produit Interieur Brut	16394
 Produit Intérieur	18757
-Produit Intérieur Brut	13324,1309,909,1085,44,1274,33
+Produit Intérieur Brut	13324,1309,909,1085,44,1274,33,1433
 Produit Intérieur Brut PASEC	15673
 Produit Intérieur Brut PIP	15423,52,210
 Produit Intérieur Brut PME	17824
@@ -1635,6 +1699,7 @@ Quarterly Business Survey and Manufacturing Producers’ Price	18475
 Quarterly Gross Domestic Product	2775,8359,1828,517
 Quarterly Index of Industrial Production	13479
 Quarterly Producer Price Index	2775
+Quarterly Production Index of Manufacturing Industries	19519
 R SOCIETE INTERNATIONALE DE PRODUCTION ET	16623
 RAJAONA Faniry UGD Head of Product Management	14539
 RAKOTOZAFY Liva UGD Product Owner	14539
@@ -1661,7 +1726,10 @@ Reach Significant Export Volumes of ICT Products	15679
 Real Gross Domestic Product	14744,3698
 Real Gross Domestic Products	17634
 Real Product Usage Participants	18039
+Rebase Producer Price Index	19519
 Rebased Gross Domestic Product	18483,5
+Rebased and Harmonized Producer Price Index	19519
+Rebasing of Producer Price Index	19519
 Recorded Marketed Agricultural Production	2775
 Recorded Sale of Government Forest Products	2775
 Recorded Sale of Produce	2775
@@ -1698,6 +1766,7 @@ Revised Project and Product Management Policy	15023
 Rice Paddy Production	2775
 Rice Production	2775
 Risk Mitigation Independent Power Producer Procurement	11228
+Roots and Tubers Production	19554
 Rubber and Plastic Products	13068
 Rural Development and Food Production Minister Bruno	6280
 Rwanda Association of Petroleum Product Importers	15027
@@ -1737,6 +1806,7 @@ Samsung Products	12395
 Scheme EPP Emergency Power Producers EPRA	2775
 Schéma Directeur de Production	17894,209
 Sciences des Productions Animales	19366
+Second Education and Skills for Productive Jobs	19587,1
 Secrétariat Permanent du PRODESS	17845
 Sector Produtivo Pede Arquitectura Financeira Mais	8003
 Sectoral Allocation of AI-Enabled Productivity Gains	2957
@@ -1746,6 +1816,7 @@ Senior Vice President and Head of Products and Solutions	8477
 Senior Vice-President and Head of Products	6986
 Service Central de Production	7993,1675,8528
 Service PaaS Product	15472
+Service Pension Fund PSSN Productive Social	19531
 Service Production	15366
 Service du Budget Production SDFC	10975
 Services Producer Price Index	14777
@@ -1788,11 +1859,14 @@ Statistical Products	13359
 Statistics Production	13359
 Statistics South Africa. Producer Price Index	11258
 Statistique IPP Independent Power Producer GRT	10975
+Statutory Corporations PPI Producer Price Index	19519
 Storage of Products	14113
+Storing Plant Protection Products Storing	19554
 Stoves IPP Independent Power Producer JADF	14947
 Strategies for Building and Managing Produced	16996
 Strengthen Organisational Culture Staff Productivity Level	13053
 Strengthening Product	14997
+Strengthening Production	19519
 Strengthening Program Operation Acronym Productive Social	16032
 Subnational Crop Production Dataset Access	13094
 Sudan Family Support Project Product	14948
@@ -1825,6 +1899,13 @@ TYPE OF FRUITS CROPS PRODUCED Region	17043
 TYPE OF VEGETABLE CROPS PRODUCED Region	17043
 TaRMS Production	12491
 Tags With Product You Purchase	19296,14
+Tanzania Biotech Product Limited ERMS	19584
+Tanzania Crop Holding Category Production Cotton	19554
+Tanzania Mainland and Zanzibar Productive Sector Social	19519
+Tanzania Production	19554
+Tanzania Productive Social Safety Net	19586
+Tanzania Productive Social Safety Net III	19586,1,1
+Tanzania's Productive Social Safety Net III	19588
 Target Product Profile	12678
 Target Segments and Main Products	17870
 Tariff and Pricing Mechanism of Products and Services	18444
@@ -1864,9 +1945,12 @@ UTILISATION DU PRODUIT DU PRET ET	15901
 Under the National Enhanced Agriculture Productivity Scheme	13685
 Under the Risk Mitigation Independent Power Producer	11248
 Understanding Gross Domestic Production	18483
+Undertake Annual Industrial Production	19519
+Undertaking Annual Survey of Industrial Production NBS	19519
 UniPod Prototype and Product Development Programme	17370
 Unified Platform Product Line	15308
 Union GDP Gross Domestic Product ICT	12951
+United Nations GDP Gross Domestic Product	19554
 Unités de Production	18286
 Upgrading of Production Facilities	13474
 Usage of Financial Services and Products	2775
@@ -1914,6 +1998,7 @@ W52 D'EXPLOITATION W53 PRODUITS DIVERS	18032
 Waste Production	12445
 Water Production and D50	17250
 Water Production. Water Supply	18947
+Water Productivity	19454
 Webinaire PRODIGY	14480
 West Africa Agricultural Productivity Programme	12090
 Wheat Production	13474,3683

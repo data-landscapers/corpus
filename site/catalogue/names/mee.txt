@@ -42,8 +42,8 @@ Annexes Meeting	5678
 Annual Africa CRVS Expert Meeting	7861
 Annual Africa Group of Experts Meeting	7861
 Annual Expert Group Meeting for African Registrars	7879
-Annual Expert Group Meeting for Registrar Generals	11480,584,1156,458,3717
-Annual General Meeting	1554,164,4573,913,108,1259,211,176,846,347,2908,2706
+Annual Expert Group Meeting for Registrar Generals	11480,584,1156,458,3717,2220
+Annual General Meeting	1554,164,4573,913,108,1259,211,176,846,347,2908,2706,3769
 Annual General Meeting FOREIGN RESEARCHERS COMMITTEE	1554
 Annual General Meeting Fig	1554
 Annual General Meeting The RCZ	1554
@@ -51,7 +51,7 @@ Annual General Meeting and Commissioners’ Forum	12969
 Annual General Meeting for ID4Africa--a	12227
 Annual General Meeting of WATRA	5681
 Annual General Meeting. Safaricom Foundation	7204
-Annual General Meetings	13477
+Annual General Meetings	13477,6108
 Annual General Member Meeting	585,8281
 Annual General Members Meeting	585,8281
 Annual General Members' Meeting	8866,639,3
@@ -101,7 +101,7 @@ Board and Committee Meetings	1554
 Board of Governors Meeting	11283
 Board. Meeting-support	11801
 Board. Section SOA.12. Meetings	16833
-Body Annual Expert Group Meeting for Registrar	12064,697,459,458,977
+Body Annual Expert Group Meeting for Registrar	12064,697,459,458,977,4960
 Boletim Estatístico MEES	18781
 Bureau of Statistics and Census Administration Meeting	16863
 Business Eswatini Pivotal Power Meeting	5015
@@ -198,6 +198,7 @@ EGYPT LEGAL TECH MEETING	16363
 ESP Meetings Workshops Progress	15604
 EU-AU Ministerial Meeting	11210
 EXTRAORDINARY GENERAL MEETING	4896,2302
+East African Community Pre-Budget Consultations Meeting	19602
 Eau. MEEH	13743
 Editors Guild Annual General Meeting	8687
 Education and All and Meeting Basic Learning Needs	15604
@@ -227,6 +228,7 @@ Fifth DMAP Technical Committee Meeting	13114
 Fifth Meeting	16857
 Final Highlights of Cabinet Meeting	14774
 Final Highlights of Cabinet Meeting Friday 17.07.2026.pdf	14839
+Finance Meets Technological Innovation URL	19390
 Finance's Extraordinary General Meeting	9825,1
 First Draft Report The Inception Meeting	962
 First India-Equatorial Guinea Joint Commission Meeting	17240
@@ -254,7 +256,7 @@ GENERAL MEETING AND THE MERGER	7198
 GENERAL MEMBERS’ MEETINGS APPOINTMENT OF DIRECTORS	585
 GRA Commissioner of Customs Meets UNCTAD Officials	17063
 General Assembly Meeting	17241
-General Meeting	585,8281,671,2418
+General Meeting	585,8281,671,2418,7630
 General Meeting of Shareholders	11955
 General Meetings	4896
 General Members' Meeting	8866
@@ -262,7 +264,7 @@ General Members' Meetings Rationale This Article	8866
 Global Consultation Meeting	396
 Global Fund Board Meeting	14869
 Good Meets	11252
-Google Meet	2413,12484,740,784,842
+Google Meet	2413,12484,740,784,842,2302
 Google Meet L'Institut Centrafricain des Statistiques	16421
 Government of Lesotho Annual Expert Group Meeting	12761
 Government of Mauritius. The Meeting	318
@@ -351,6 +353,8 @@ MEETING	17216
 MEETING OF THE REGIONAL TECHNICAL IMPLEMENTATION	12649
 MEETINGS AND COMMITTEES OF LOCAL COUNCILS	18467
 MEETINGS AND PROCEEDINGS	18556
+MEETINGS AND PROCEEkDmINGS OF LOCAL GOVERNMENT	19525
+MEETINGS AND PyRbeOCEEDINGS OF LOCAL GOVERNkMmaENT	19525
 MEETS	5533,3717
 MEEUD	16898
 MEEUD Falta	16898
@@ -409,13 +413,14 @@ Meet the Investors	12376
 Meet the Law Commission	18305
 Meet the New Grantees Improving Peering and Interconnection	14468
 Meet the Organizing Team Builders	18039
+Meet the Set Target	19541
 Meet the Toshikas	12376
 Meet the Toshikas Initiative	12376
 Meet the Toshikas Programme	12376
 Meet-Me-Rooms	1245,1350
 MeetKai Launch Sovereign AI Infrastructure Pilot	6678
 MeetKai Zambia	6593,7500
-Meeting	396,189,1193,36,854,915,58,73,77,428,32,645,655,128,914,549,202,6,39,270,118,10,28,64,492,114,74,44,42,221,133,1409,421,27,280,4,81,266,314,5,117,18,312,146,153,11,17,322,60,15,76,334,145,78,41,895,175,15,8,46,3,1,32,19,77,10,95,1,74,18,222,82,180,675,564,14,6,107,1,7,149,108,16,53,13,7,422,479,84,127,5,59,48,8,109,56,136,50,330
+Meeting	396,189,1193,36,854,915,58,73,77,428,32,645,655,128,914,549,202,6,39,270,118,10,28,64,492,114,74,44,42,221,133,1409,421,27,280,4,81,266,314,5,117,18,312,146,153,11,17,322,60,15,76,334,145,78,41,895,175,15,8,46,3,1,32,19,77,10,95,1,74,18,222,82,180,675,564,14,6,107,1,7,149,108,16,53,13,7,422,479,84,127,5,59,48,8,109,56,136,50,330,289,29,39
 Meeting Africa’s Growing Compliance Needs	4791
 Meeting Date	14758
 Meeting Frequency E SW A T	12969
@@ -451,7 +456,7 @@ Meeting. Global Money Week Fair Hosted	11131
 Meeting. Hon. Members	13387
 Meeting. Save	585,8281
 Meeting. Where the Directors	585
-Meetings	11,574,2,385,582,434,970,545,10,201,173,371,553,453,53,216,242,129,1042,2017,287,1881,774,185,120,320,1,4,11,98,1,16,62,165,11,1,16,61,145,165,174,9,96,119,263,461,1,83,101,127,15,114,490,32,39,864,555,6,14,2,11,24,39,25,20,97,31,15,127,1089,133,2,1,1,38,51,45,1,309
+Meetings	11,574,2,385,582,434,970,545,10,201,173,371,553,453,53,216,242,129,1042,2017,287,1881,774,185,120,320,1,4,11,98,1,16,62,165,11,1,16,61,145,165,174,9,96,119,263,461,1,83,101,127,15,114,490,32,39,864,555,6,14,2,11,24,39,25,20,97,31,15,127,1089,133,2,1,1,38,51,45,1,309,614
 Meetings Bi-monthly Progress Reports Bi-monthly MPCC	11131
 Meetings Board	6946
 Meetings Engageme	16963
@@ -467,14 +472,18 @@ Meetings Update	11131
 Meetings and Conferences	12975
 Meetings and Events	18846
 Meetings and Proceedings of Board	3887,8643
+Meetings and Proceedings of Township Authorities	19525
+Meetings and Procefetdings of District Councils	19525
 Meetings and Resolutions	9915,77
 Meetings of Board	3887,8648,2184,24,25,56,3616
 Meetings of Board. Disclosure	18440
-Meetings of Committee	783
+Meetings of Committee	783,18732
 Meetings of Council	11178,1741,1800,16,3700
 Meetings of Council and Subordinate Authorities	12531
 Meetings of Finance Committee	18467
 Meetings of NSC	12895
+Meetings of Village Government Organs	19525
+Meetings of Village Government Organs Meetings	19525
 Meetings of WG2	5680
 Meetings of WG2 WG2	5680
 MeetingsThe Board	14449
@@ -545,6 +554,7 @@ POLICY COMMITTEE MINUTES OF MEETING NO.98	17317
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS' MEETINGS	8866
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS’ MEETINGS	585
 Parliament and Meetings	18436
+Parovisions Regarding Meetings No Frequency	19525
 Partner Meetings Across Four Markets	9811
 Patriarchy Meets Broken Infrastructure	4794
 PayInc Head of TCIB Meera Sunker	12469
@@ -577,6 +587,8 @@ Project Management Second Technical Committee Meeting	12241
 Project Teams Meetings Meetings Meetings Meetings	11131
 Projet MeetDocs	16195
 Promise Meets Practical Limits	9456
+Provipsaions Regarding Meetingso	19525
+Provisions Regarding Meetings	19525
 Public Finance Review Meeting	2392
 Public Policy Meeting	585,8281
 Public Policy Meetings	585,8281,747
@@ -656,6 +668,7 @@ Spring Meetings	10964
 Stakeholders Engagement Meeting	13571
 Stakeholders’ Meeting	12361,2457
 Standards Council Meetings Finance Committee HR	14736
+Startup Ecosystem. High-level Ministerial Breakfast Meeting	19534
 Statelessness Regional Strategic Meeting Publish	17323,1
 Statutory Constituency Meeting	17235
 Steering Committee Meeting	11670,2409,355

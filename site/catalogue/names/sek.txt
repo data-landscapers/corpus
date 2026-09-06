@@ -18,6 +18,7 @@ Hon. Sekou Kromah	17070
 Hon. Sekou M. Kromah	5244
 Hon. Sekou M. Kromah Minister of Posts	5244
 Imran Sekalala	3726
+Kidijitali Katika Sekta	19597
 Kidijitali Sekta	14263
 Lawrence Sekimpi	11022
 Limpopo’s Sekhukhune	7500
@@ -28,6 +29,7 @@ M SEK	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,212,1,1,1,1,396,1,684
 M SEK. Co-financed	719
 M SEK. SEK	92,1,56,65,308,2,1,195,224,212,1,2,397,1,684
 M. Sekele. Il	16567
+MAPITIO YA SHERIA ZA SEKTA YA	19592
 Madame Fadinatou OROU SEKO Membres	16485
 Michael Sekhubede	12478
 Middelburg Ms G Sekhu	11986
@@ -48,6 +50,7 @@ Mr. Kabelo Sekonyela	12711
 Mr. Sekou Abou Kamara	16853
 Ms. Sekai Nzenza	13562
 Ms. Sekhantšo	12662
+Muhtasari Sekta	19593
 NPA Managing Director Sekou A.M. Dukuly	7722
 Old Sekgoma Memorial Hospital	12606
 Post and Telecommunications Minister Sekou M. Kromah	17084
@@ -66,6 +69,7 @@ Sekakangwe	12552
 Sekalala	9784
 Sekamaneng	5744
 Seke Katsamudanga	1154
+Sekei July-September	19585
 Sekelduin Substation	13200
 Sekere Verantwoordelike Partye	11255
 Sekgalagadi and Sesarwa	12556
@@ -78,7 +82,12 @@ Sekhukhune	7377
 Sekimpi	11022
 Sekirite	14742
 Sekoma and Grootlaagte	12552
-Sekondari	6019
+Sekondari	6019,13498,48,3
+Sekondari Igogwe Manispaa	19598
+Sekondari Kwenjugo	19568
+Sekondari Nchini	19565
+Sekondari Nyerere	19517
+Sekondari. Elimu	19517
 Sekondi	2776,610
 Sekondi Near MA Primary JSS	3386
 Sekondi- Takoradi	789
@@ -90,8 +99,10 @@ Sekou Keita	5994,11076
 Sekou Kromah. Un	10604
 Sekou Soumahoro	10940
 Sekouba SAMAKE	17845
-Sekta	2868,3151
-Sekta Binafsi	6019
+Sekretarieti	19565
+Sekta	2868,3151,13542,4,15,12,1,27
+Sekta Binafsi	6019,13546,27
+Sekta Binafsi Katika Elimu	19565
 Sektors	696,205
 Sekuru Mhlanga	11656
 Sekuruwe	11248
@@ -101,6 +112,8 @@ Steve Sekele	15913,654
 Substation The Sekelduin Substation	13200
 Tanzania. Sekta	6019
 Thursday. Ms. Sekhantšo	12662
+USHIRIKI WA SEKTA BINAFSI	19592
+USIMAMIZI NA URATIBU WA SEKTA YA	19592
 Uganda. Commit-orig SEK	94
 V Sekelduin	12399
 Victoria Sekandi	9781

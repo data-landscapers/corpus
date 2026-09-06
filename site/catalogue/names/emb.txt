@@ -32,6 +32,7 @@ Camp des Embrevades	14746
 Canciller Secretario Delegado Regional Ministerio Embajador	4209
 Carestía de Vida Administrativo Embajada A2 Agente	4209
 Centro. Embora	11569
+Chinese Embassies Chinese Consulates General Chinese	19522
 Chinese Embassy	5991,15,7168,4249,1041,91
 Chinese Embassy Stages Welcome For Returning	17423
 Classification Emballage	14423
@@ -162,12 +163,12 @@ Embargoed	11192,66,38,681
 Embark	13295,1702
 Embarking	7835,295,10324
 Embarks	12639
-Embassies	13122,551,1102,54,3766
+Embassies	13122,551,1102,54,3766,924
 Embassies and High Commissions	16921
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
 Embassies of Qatar and Switzerland	18215
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158,170,93,50,119,104,229
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158,170,93,50,119,104,229,391
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Bamako	17883
@@ -200,19 +201,19 @@ Embassy of Rwanda	14918
 Embassy of Sierra Leone	3950
 Embassy of Sudan	15251
 Embassy of Sweden	377,2870,8945,309,4448
-Embassy of Switzerland	15222
+Embassy of Switzerland	15222,4312
 Embassy of Zambia	4365
 Embassy's Economic Section	10177
 Embassy. Approximately	16275
 Embassy. Similarly	16275
-Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247,716,1007,8,389,30,512,651,18
+Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247,716,1007,8,389,30,512,651,18,967
 Embed AI	4126,402,2304,116,190,13,397,203,3405,1356,2054
 Embed Accountability and Monitoring	11285
 Embed MPI	15244
 Embed S-MPI	15244
 Embed Ubuntu	4528
 Embed Video	6387
-Embedded	2477,2371,3191,565,2580,769,261,230,2011,364,319,2112
+Embedded	2477,2371,3191,565,2580,769,261,230,2011,364,319,2112,2282
 Embedded Autonomy	5700
 Embedded Chip Tech	13005
 Embedded Content Matters Consider	6542
@@ -246,8 +247,10 @@ Emblème	15901
 Embodied	5487
 Embolie Hémorragie	17843
 Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7,4778,673,73,1667,2,17,2,3,4,6,7
+Emboreet	19585
 Embosi Primary	12977
 Emboss	14741
+Embosser Braille	19565
 Emboîtant	1748
 Embrace	5244,7733,2020,2142
 Embrace Distributed Renewable Energy and Clean Cooking	12717,3471
@@ -255,7 +258,7 @@ Embrace Gender Diversity	2668
 Embrace Good Governance	11131
 Embrace Innovation and Modern Technology Parliament	6077
 Embrace LC I Elections Campaigning LC	4175
-Embracing	1777,4805,696,3959,703,1065,341,1398,4300
+Embracing	1777,4805,696,3959,703,1065,341,1398,4300,350
 Embracing AI	6948,4317
 Embracing AI Opportunity	6849
 Embracing Applications of AI	12675
@@ -267,6 +270,7 @@ Embracing the Power	12962
 Embracing the Power of Inclusive Data Towards	12962
 Embu. Plans	14546
 Embutidos	4209
+Empowering Innovation and Embracing Emerging Technologies	19532
 Encarregado de Negócios da Embaixada	16134
 Eritrean Embassies	14045
 Eritrean Embassy	14030,15
@@ -276,6 +280,7 @@ Ethics and Embed Ubuntu	12512
 Ethiopian Embassies and Consulates	12250
 Ethiopian Embassy	10516,1148,562
 Events EMBASSY OF THE PEOPLE'S REPUBLIC	16929
+Everest D Braille Embosser	19565
 Excelência Senhor Embaixador	10753
 Export Customer Embedded Generation Distributor Embedded	12399
 FIA Embraces Inter-Agency	17037
@@ -355,6 +360,7 @@ NCA EMBARKS ON MAJOR STEPS	18649
 NETO NA EMBAIXADA DE STP EM	6837
 NEWS RESOURCES OVERSEAS MISSIONS Chinese Embassies	18790
 Nairobi Embassy	10521
+National Embedded Systems Laboratories	19532
 Netherlands Embassy	9546
 Newsletter ZIMSTAT Embarks	12499
 Nigeria U.S. Embassy Abuja Federal Ministry	4302
@@ -366,7 +372,9 @@ Online Embedded Generation	12969
 Organization of SIM Cards and Embedded SIM	14944
 PALOP. Embora	2816
 PILLAR III EMBRACE DRE FOR AFFORDABLE	18537
+PROJECT National Embedded Systems Laboratories NAME	19532
 Para Embaixadas	18798,55
+Potential Through Digital Transformation Embarking	19582
 President Embaló	17023
 President Umaro Sissoco Embaló	11579
 President of Guinea-Bissau Umaro Sissoco Embaló	17023

@@ -137,6 +137,7 @@ Centre de Données Intégré National VI.3.3 Initiative	13341
 Centre de Données Intégré National de Niveau IV	13341
 Centre de Traitement des Données	4280,13619
 Centres de Collectes des Données	10812
+Characteristics of Blood Donors During the Year	19544
 Chargeur Automatisé de Données	13783
 Charles Donald Rodney Loizeau of La Misere	19049
 Chef de Service du Traitement des Données	9277
@@ -325,6 +326,7 @@ Diffusion des Données. Cet	16233
 Dimension Données	1984
 Directive. DONE AT ABUJA	15374
 Director Donor Unit Stronger	16963
+Distribution of Level of Skill and Capacity Don't	19555
 District de Dongou	15615
 Distrital de Akonibe Ilmo. Sr. Don Antimo	16920
 Distrital de Mbini Ilmo. Sr. Don Cayetano	16920
@@ -361,7 +363,7 @@ Don Tapscott	1243,4920
 Don Tomás Osa Nsefumu Inspector Distrital	16920
 Don Wanyama	12108,2272
 Don Webster	13975
-Don't	5247,553,458,174,722,290,707,407,1111,84,207,2518,1028,1658,410,2121,746,494
+Don't	5247,553,458,174,722,290,707,407,1111,84,207,2518,1028,1658,410,2121,746,494,597,23
 Don't Know	12383
 DonConsultingServices	12478
 Dona Augusta	18793
@@ -424,6 +426,7 @@ Dongou	15465,59,91,752,89
 Dongre	771
 Donholm	12227
 DoniLab	18064
+Donia Zeghidi	19434
 Donilab SECTEUR PRIVÉ Sotelma	17856
 Donka	16722
 DonkeyahAllumee	16691
@@ -446,7 +449,7 @@ Donneés	18757
 Donny-28	12478
 Donnée	436,795,12146,1985,237,44,974,1205,6,283,646
 Donnée C’est	19226
-Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251,126,1356,25,52,37,8,11,9,10,26,241,18,31,651,44,17,57,85,36,25,179,49,403,38,10,67,3,33,9,1,4,6,3,5,5,2,42,38,3,12,4,25,11,1,34,3,18,19,5,8,1,43,32,49,53,35,2,74,25,111,1,2,176,129,160,1,19,111,701,32,8,6,20,249,56,3,1,3,2,1,2,10,1,1,1,23,18,14,14,32,38,13,81,9,20,13,24,143,26,4,3,3,2,13,81,339,196,131,36,28,65,4,4,5,2,2,20,40,5,37,16
+Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251,126,1356,25,52,37,8,11,9,10,26,241,18,31,651,44,17,57,85,36,25,179,49,403,38,10,67,3,33,9,1,4,6,3,5,5,2,42,38,3,12,4,25,11,1,34,3,18,19,5,8,1,43,32,49,53,35,2,74,25,111,1,2,176,129,160,1,19,111,701,32,8,6,20,249,56,3,1,3,2,1,2,10,1,1,1,23,18,14,14,32,38,13,81,9,20,13,24,143,26,4,3,3,2,13,81,339,196,131,36,28,65,4,4,5,2,2,20,40,5,37,16,38,44
 Données Annexe	16569
 Données Banque Mondiale	11944,4682
 Données DEEG Périodique DEEG	18286
@@ -494,7 +497,7 @@ Données. Par	747
 DonnéesFiables	13904
 DonnéesSpatiales	16102
 Donohoe	7397,5441
-Donor	40,650,1,2892,1064,2300,1,661,1790,1430,395,263,368,8,143,169,1174,589,62,546,342,98,178,178,30,1480,123,1502,346,88
+Donor	40,650,1,2892,1064,2300,1,661,1790,1430,395,263,368,8,143,169,1174,589,62,546,342,98,178,178,30,1480,123,1502,346,88,608
 Donor Agencies	12917
 Donor Aid	11134
 Donor Alignment	10829
@@ -519,12 +522,15 @@ Donor-Funded Project Module	16949
 Donor-Specific Initiatives	15845
 Donor-driven	13358
 Donor-funded	6153,8769,64,178
-Donors	789,2815,878,2,1336,412,715,1,199,332,169,1035,3172,342,1115,2,802,735,72,11,188,8,212,176,141,1193,118,48,256,711,630,622
+Donors	789,2815,878,2,1336,412,715,1,199,332,169,1035,3172,342,1115,2,802,735,72,11,188,8,212,176,141,1193,118,48,256,711,630,622,334
 Donors Can Support Dual-Track PFM	7648
 Donors Conference	16649,1367
 Donors Eswatini Mobile	12444
 Donors Potential	12444
+Donors Support Build Operate Transfer	19532
 Donors Support Civil Society	6948
+Donors Support Contact Person	19532
+Donors Support Email	19532
 Donors UNDP	16943
 Donors and Funders. The Central Bureau of Statistics	14860
 Donors' Support	18577
@@ -548,7 +554,7 @@ Dont US	16012
 Donzi	13683
 Donzo	9943
 Donzo Euphemia Swen Monmia Maway T	17235
-Don’t	582,455,224,425,252,2,4,722,44,8,24,55,23,242,23,1,361,62,249,225,78,38,201,64,23,126,348,229,20,137,169,200,95,97,115,92,99,46,23,133,93,107,15,71,23,138,24,9,204,250,15,46,466,109,664,1326,838,100,190,3,136,281,1091,1017,3403,192,22,1294,140
+Don’t	582,455,224,425,252,2,4,722,44,8,24,55,23,242,23,1,361,62,249,225,78,38,201,64,23,126,348,229,20,137,169,200,95,97,115,92,99,46,23,133,93,107,15,71,23,138,24,9,204,250,15,46,466,109,664,1326,838,100,190,3,136,281,1091,1017,3403,192,22,1294,140,1012
 Don’t Automatic Scheduled Upon	1686
 Don’t Call	7777
 Don’t Fence Me	1243
@@ -586,6 +592,7 @@ EVALUATION DE LA QUALITE DES DONNEES	18014
 Easier Said Than Done	5366
 Echange de Données Informatisé	17445
 Echange de Données Informatisées	14411,2206
+Echange des Données	19501
 Ecobank Gambia Donates Refurbished ICT Lab	17056
 Economic Program Supported... Japan Donates USD	5101,850
 Elon Musk and US President Donald Trump	5808
@@ -615,6 +622,7 @@ FAO's IDEA Platform Contact Donald Chidoori	12507
 FC Kallon Manager Foday Daboh Donates	7814
 FORMALITES PREALABLES AU TRAITEMENT DES DONNEES	17831
 FORMALITES PREALABLES AUX TRAITEMENTS DES DONNEES	10825
+Facilitating Other Don't	19555
 Federal Government Budget and Donor Agencies	11866
 Federal Negarit Gazeta. Done	13958
 Federal Negarit Gazette. Done	7538
@@ -700,6 +708,7 @@ Insights for Donors	6947
 Inspector Distrital de Evinayong Ilmo. Sr. Don	16920
 Inspector Distrital de Mongomo Ilmo. Sr. Don	16920
 Inspector Distrital de Riaba Ilmo. Sr. Don	16920
+Instance Nationale de Protection des Données	19370
 Instance de Protection des Donnees	4237
 Instance de Protection des Données	436,3430,4415,391,370,1198,7374,1627,4,94,26
 Interconnexion des Bases de Données	15738
@@ -998,6 +1007,7 @@ Stratégie Nationale de Gouvernance des Données du Tchad	19139
 Stratégie Nationale des Données du Sénégal	18306
 Sud- Ouest Dont	15999
 Synthèse des Données	17899
+System D-FUNDS MIS Donor Fund Management	19533
 Système Général de Diffusion des Don	15479
 Système Général de Diffusion des Données	3024,7850
 Système Général de Diffusion des Données SE	18291

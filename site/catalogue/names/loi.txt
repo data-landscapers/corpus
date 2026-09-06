@@ -61,6 +61,7 @@ Cas de Changement de Loi	15901
 Cette Loi	7680,7871,1064
 Challenge OSIANE. Loin	12036
 Chambre Basse le Projet de Loi de Finances Initiale	14530
+Chapitre II Loi	19369
 Chapitre XXII. Lois	13377
 Charles Donald Rodney Loizeau of La Misere	19049
 Collectivités Territoriales. Vu la Loi N	17817
@@ -174,13 +175,14 @@ LOI DE FINANCES POUR L’ANNÉE	17972
 LOI DE FINANCES POUR L’ANNÉE TABLE	17972
 LOI DONT LA TENEUR SUIT	18101
 LOI Loi	15612
-LOI N	1272,9540,13,69,2429,7,210,167,2,699,3,2,4,2,6,925,14,1,5,43,23,33,115,463,1392,4,368,2,9,3,3,1,4,8,20,171,87,308,780,1,5,15,2,21,34
+LOI N	1272,9540,13,69,2429,7,210,167,2,699,3,2,4,2,6,925,14,1,5,43,23,33,115,463,1392,4,368,2,9,3,3,1,4,8,20,171,87,308,780,1,5,15,2,21,34,84
 LOI N'24Û00tr PORTANT PROTECTION DES DONNEES	15636
 LOI Nº	14870
 LOI ORDINAIRE L	16636
 LOI ORGANIQUE N	18101
 LOI PORTANT INSTITUTION DU NUMERO D’IDENTIFICATION	17814
 LOI Portant Organisation	19205
+LOI RELATIVE AU SYSYTEME STATISTIQUE TUNISIEN	19368
 LOI RÉGISSANT LA BANQUE NATIONALE	15102
 LOI RÉGISSANT LES RELATIONS ENTRE L’AD-	17812
 LOI STATISTIQUE ET DECRETS D'APPLICATION	19205
@@ -258,7 +260,7 @@ Loi Un	7767
 Loi Vu le Décret N	17817
 Loi de Fi	15999
 Loi de Finance	10711,7279
-Loi de Finances	1266,3,32,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,215,399,39,53,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,97,147,5977,431,2797,686,25,65,1,70,950,116,314,48,281,318,799,397,30,100
+Loi de Finances	1266,3,32,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,215,399,39,53,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,97,147,5977,431,2797,686,25,65,1,70,950,116,314,48,281,318,799,397,30,100,1459
 Loi de Finances Initiale	3396,11152,71
 Loi de Finances Initiale. En	14548,71
 Loi de Finances MCC Millennium Challenge Corporation	15583
@@ -300,6 +302,7 @@ Loi. Lorsque	16616
 Loi. Mention	16636
 Loi. Par	14539,1,3317
 Loi.15.07.2016.html LOI MODIFIANT ET COMPLETANT	15413
+Loiborsoit	19585
 Loic Jordan	15524
 Loic Ntoutoume	2263,914,12711
 Loick Geordel	16413
@@ -308,6 +311,7 @@ Loide Emvula	13108
 Loide Heita Amakali	6676,2046
 Loide Monteiro	5509
 Lois Décrets Arrêtés Circulaires	15449
+Lois Page	19436
 Lois Spéciales	17822
 Lois de Finance MRO Ancienne Ouguiya	17907
 Lois de Finances	969,2427,1024,11420,488,309,1378,952,21
@@ -427,6 +431,8 @@ Rapport Général du Projet de Loi de Finances	4249
 Rechercher Loi	4420
 Revu la Loi	13323,1538,2,239,24
 Revu la Loi Organique	14862
+République Kaïs Saïed Loi	19447
+République Mohamed Béji Caïd Essebsi Loi	19378
 République de Cameroun. Loi	16195
 République du Bénin Référence Loi N	10876
 République du Bénin Références Loi N	10876
@@ -445,9 +451,11 @@ Selom Komi KLASSOU LOI W	19209
 Selon la Loi	13375
 Selon la Loi N	17830
 Services Vu la Loi	17827
+Sidi Bouzid. Loi	19447
 Solidarité LOI	16616
 Solidarité LOI ORDINAIRE L	16636
 Solidarité Loi N	16615
+Sommaire Lois Loi	19447
 Son Excellence Monsieur Samuel Vu la Loi	17841
 Sources de Vu la Loi N	17817
 Statistique LOPM Loi	6959
@@ -458,6 +466,7 @@ TEXTES LÉGISLATIFS ET RÉGLEMENTAIRES LOI N	18427
 TEXTES REGLEMENTAIRES Lois	13427,233
 TITRE POSTHUME Vu la Loi	17841
 TOGO La LOI N	19223
+TRADUCTION FRANÇAISE POUR INFORMATION Sommaire Lois	19436
 Travail PRESIDENCE DE LA REPUBLIQUE LOI	15351,151
 Trovoil ASSEMBLEE NATIONALE LOI	15399
 Un Peuple-Un But-Une Foi Loi	18288
@@ -481,3 +490,4 @@ Vu la Loi N	7470,10342,2,3,2,22,48,1012
 Vu la Loi Organique	2625,10705,1101,430,1,1,1040
 Vu la Loi des Finances N	7470
 Vula Loi	14458
+Zine El Abidine Ben Ali LOI	19369

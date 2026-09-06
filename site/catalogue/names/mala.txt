@@ -84,7 +84,7 @@ Artificial Intelligence Malawi	13095
 Asignaciones Globales MALABO LUBA ANTONIO	4209
 Associated MET Office CMA de MALABO Airport	17006
 Association of Obstetrics and Gynecologist of Malawi	13040
-Assurance Maladie	643,5486,3706,3935,520,332,739,50,17,90,418,96,1838,12,13,28,106,1192,43,20,32,2
+Assurance Maladie	643,5486,3706,3935,520,332,739,50,17,90,418,96,1838,12,13,28,106,1192,43,20,32,2,95
 Assurance Maladie ANGC	15475
 Assurance Maladie CAS CCSC CNI CERTES	17882
 Assurance Maladie Généralisée	1961
@@ -161,6 +161,7 @@ Buy Malawi Strategy	13060,62
 Bwaila Hospital. UNDP Malawi	13215
 CAISSE NATIONALE D’ASSURANCE MALADIE ET	16175
 CARTE D'ASSURANCE MALADIE	13300
+CARTOGRAPHIE DE LA COUVERTURE MALADIE EN	19413
 CATEGORIA AYUNTAMIENTOS DE MALABO Y BATA	4209
 CEIR Airtel Malawi	14190
 CERT Malawi Computer Emergency Response Team	12240
@@ -188,6 +189,7 @@ Care-seeking During Fever Malaria Diagnosis Usage	18441
 Catedral de Malabo Evinayong	4209
 Causeries Maladies	19226
 Centenary Bank Malawi and Ecobank Malawi Limited	13053
+Centre PMC Perennial Malaria Chemoprevention PMTCT	19544
 Centro Cultural Ecuatoguineano de Malabo	17349
 Chaggas Maladie	15712
 Chair of African Leaders Malaria Alliance	12606
@@ -217,6 +219,7 @@ Commission. La Commission Malagasy	14412
 Commodities Commodity Malaria Commodities	4202
 Communications Minister Solly Malatsi	4554,2271,271,992,85,2839
 Communications Minister Solly Malatsi’s	6183
+Community Case Management for Malaria	19544
 Complementing Malawi	14674
 Completed Malawi's Digital Readiness Assessment	12241
 Composition La Commission Malagasy	14412
@@ -537,6 +540,7 @@ Indicators MACRA Malawi Communications Regulatory Authority	12240
 Indonesia Malaysia	2775
 Indonesia and Malaysia	17235
 Indonesia and Malaysia. The Agency	12982
+Indoor Residual Spraying EMC End Malaria	19544
 Infections and RUTF Malaria	4217
 Inmueble Malabo	4209
 Innovation Ecosystem RATING OPPORTUNISTIC STAGE Malawi	12214
@@ -561,6 +565,7 @@ Katsina State Governor Malam Dikko Umaru	3718
 Kenya Lesotho Libéria Madagascar Malawi Mali	15724
 Kenya. Because Malabo	17745
 Kgwarishi Malatji	8161
+Kupanga Eneo la Malale	19592
 LA MALADIE ET DE GESTION DES	13306
 LES EMPLOYÉS EN VERSION MALAGASY FITSIPI-PITONDRAN-TENAN’NY	14490
 LOOKING AHEAD This Malabo Declaration	17318
@@ -619,10 +624,13 @@ MALAGAY DE L’INFORMATIQUE ET DES LIBERTES	14537
 MALAKAL AND RENK	18629
 MALANDA	16177
 MALANDA BIKOYI MOUKINI NGONDO	15780
-MALARIA	13374,80
+MALARIA	13374,80,6090
 MALARIA ACT	18943
 MALARIA ACT Repeal of Malaria Act	18943
-MALARIA INCIDENCE	16892
+MALARIA INCIDENCE	16892,2652
+MALARIA MORTALITY RATE	19544
+MALARIA PREVALENCE AMONG PREGNANT WOMEN	19544
+MALARIA PREVALENCE AMONG PREGNANT WOMEN Pregnant	19544
 MALARIA PREVENTION	11586
 MALAWI	5098,2133,2320,1451,1173,57,890,34,84
 MALAWI BUREAU OF STANDARDS MDAs	12253
@@ -812,6 +820,7 @@ Malak	15992
 Malakal	7495,11164,6
 Malakal PoC	9772,1
 Malakal and Aweil West	18665
+Malalamiko	19535
 Malam Bacai Sanhá	11520
 Malam Bacai Sanhá. REGULAMENTO DE FISCALIZAÇÃO	11520
 Malam Bacai Sanhá. REGULAMENTO DE OFERTA	11520
@@ -838,7 +847,7 @@ Malanza	18797,74
 Malapit	17127
 Malar J	10881
 Malari	4260
-Malaria	21,750,592,625,240,1925,14,93,41,48,5620,811,621,16,182,552,187,83,185,17,540,291,351,741,660,205,314,1127,83,6,1,29,25,153,108,1221,149,657,71
+Malaria	21,750,592,625,240,1925,14,93,41,48,5620,811,621,16,182,552,187,83,185,17,540,291,351,741,660,205,314,1127,83,6,1,29,25,153,108,1221,149,657,71,189
 Malaria Act	18943
 Malaria Cancer Tuberculosis HIV	12138
 Malaria Cases Averted	18162
@@ -855,11 +864,14 @@ Malaria Deaths	4153,14,35,15,132,1003
 Malaria Elimination Acceleration	4260
 Malaria HCT HIV Counseling and Testing HIV	16971
 Malaria Indicator	970
+Malaria Indicator Survey	19519
+Malaria Indicator Surveys	19544
 Malaria Indicators Survey	16971
 Malaria Initiative	7418
 Malaria Malaria	16971
 Malaria National Diagnostic Capacity Assessment Report	17289
 Malaria Prediction-Based Early Warning System	19355
+Malaria Prevalence	19544
 Malaria Risk Mapping	19284
 Malaria Stratification	19355
 Malaria TB and HIV	14546
@@ -867,9 +879,11 @@ Malaria Total Total Cost	4301
 Malaria Vaccine Scale-up Application	16971
 Malaria Vaccines	16971
 Malaria and Cancer	12151
+Malaria and Diarrhea	19544
 Malaria and HIV	13122
 Malaria and Tuberculosis	11897
 Malaria and Tuberculosis. After Angola	10776
+Malaria and Urinary Tract Infections	19544
 Malaria. Children	16971
 Malarija	10780
 Malariya Pi	13374,186
@@ -889,7 +903,7 @@ Malauli	9376
 Malava	6192
 Malava MP Malulu Injendi	2515
 Malavu Data Controller INST-4423414DDF0 NAIROBI Kenya	7167
-Malawi	62,36,56,76,6,13,13,56,22,61,1,1,43,37,118,9,91,23,42,33,26,94,43,51,22,3,10,106,18,71,5,2,82,20,11,1,12,13,45,17,14,75,14,8,11,20,39,24,37,2,9,7,117,4,56,26,63,3,284,54,6,103,20,94,25,3,45,44,24,38,5,3,47,3,38,3,1,3,50,3,6,1,31,8,3,5,13,3,1,70,1,3,5,9,56,11,6,177,18,46,111,24,139,20,35,59,5,6,43,29,69,22,22,97,8,29,21,84,4,49,140,188,5,25,26,22,11,133,1,14,41,57,24,116,32,25,13,120,23,6,63,10,62,51,15,13,32,36,5,9,5,5,42,1,72,24,5,105,29,20,27,28,34,16,29,47,20,20,169,7,7,1,18,17,53,19,64,36,6,42,30,1,4,7,39,6,52,1,59,10,6,28,38,6,2,7,2,4,10,2,1,36,14,62,8,95,29,81,36,14,30,1,14,24,21,73,6,41,1,1,1,29,43,1,22,16,14,17,21,130,19,115,1,28,16,14,62,1,316,7,113,35,116,44,73,290,135,1,43,11,23,44,1,1,4,121,8,202,84,1,8,10,67,24,13,1,61,126,86,41,38,2,18,96,68,116,43,5,69,70,50,70,18,23,4,1,21,50,3,6,37,69,18,9,14,98,7,22,15,16,43,11,129,85,152,3,37,8,95,19,124,15,13,3,1,2,29,1,5,70,87,60,3,9,1,9,3,2,4,2,1,1,2,3,1,5,7,3,4,3,6,3,1,2,1,15,2,6,1,1,10,1,8,2,15,8,5,8,10,6,18,8,11,1,16,16,30,73,169,14,217,3,7,2,1,2,3,2,1,8,1,14,1,8,1,10,1,1,8,2,1,13,1,1,1,2,2,3,5,8,4,1,1,2,18,2,1,2,3,1,3,1,13,2,2,1,1,1,4,6,4,6,3,3,8,1,3,1,12,1,1,1,1,5,1,1,3,2,1,2,4,6,4,3,1,1,3,4,1,1,2,2,3,1,11,8,6,5,3,4,6,5,2,12,1,8,3,1,1,38,33,19,14,19,5,18,19,5,3,16,41,22,38,25,6,73,25,2,50,79,211,95,68,23,1,69,32,39,16,28,21,7,272,152,197,292,156,47,140,350,768,12,1,15,19,373,346,23,4,53,1,42,38,7,2,31,2,88,37,52,97,104,19,45,10,5,120,142,312,134
+Malawi	62,36,56,76,6,13,13,56,22,61,1,1,43,37,118,9,91,23,42,33,26,94,43,51,22,3,10,106,18,71,5,2,82,20,11,1,12,13,45,17,14,75,14,8,11,20,39,24,37,2,9,7,117,4,56,26,63,3,284,54,6,103,20,94,25,3,45,44,24,38,5,3,47,3,38,3,1,3,50,3,6,1,31,8,3,5,13,3,1,70,1,3,5,9,56,11,6,177,18,46,111,24,139,20,35,59,5,6,43,29,69,22,22,97,8,29,21,84,4,49,140,188,5,25,26,22,11,133,1,14,41,57,24,116,32,25,13,120,23,6,63,10,62,51,15,13,32,36,5,9,5,5,42,1,72,24,5,105,29,20,27,28,34,16,29,47,20,20,169,7,7,1,18,17,53,19,64,36,6,42,30,1,4,7,39,6,52,1,59,10,6,28,38,6,2,7,2,4,10,2,1,36,14,62,8,95,29,81,36,14,30,1,14,24,21,73,6,41,1,1,1,29,43,1,22,16,14,17,21,130,19,115,1,28,16,14,62,1,316,7,113,35,116,44,73,290,135,1,43,11,23,44,1,1,4,121,8,202,84,1,8,10,67,24,13,1,61,126,86,41,38,2,18,96,68,116,43,5,69,70,50,70,18,23,4,1,21,50,3,6,37,69,18,9,14,98,7,22,15,16,43,11,129,85,152,3,37,8,95,19,124,15,13,3,1,2,29,1,5,70,87,60,3,9,1,9,3,2,4,2,1,1,2,3,1,5,7,3,4,3,6,3,1,2,1,15,2,6,1,1,10,1,8,2,15,8,5,8,10,6,18,8,11,1,16,16,30,73,169,14,217,3,7,2,1,2,3,2,1,8,1,14,1,8,1,10,1,1,8,2,1,13,1,1,1,2,2,3,5,8,4,1,1,2,18,2,1,2,3,1,3,1,13,2,2,1,1,1,4,6,4,6,3,3,8,1,3,1,12,1,1,1,1,5,1,1,3,2,1,2,4,6,4,3,1,1,3,4,1,1,2,2,3,1,11,8,6,5,3,4,6,5,2,12,1,8,3,1,1,38,33,19,14,19,5,18,19,5,3,16,41,22,38,25,6,73,25,2,50,79,211,95,68,23,1,69,32,39,16,28,21,7,272,152,197,292,156,47,140,350,768,12,1,15,19,373,346,23,4,53,1,42,38,7,2,31,2,88,37,52,97,104,19,45,10,5,120,142,312,134,607,15,55,1,14
 Malawi AFR LI	17743
 Malawi Acceleration Plan	14674
 Malawi Acceleration Project	10411,1842,774,1647
@@ -1244,7 +1258,7 @@ Malawi and Certificates of Marriage Registration. Through	12291
 Malawi and FAO	13144
 Malawi and Kenya	17047
 Malawi and Maldives	17196
-Malawi and Mozambique	9959,1196,1349,505
+Malawi and Mozambique	9959,1196,1349,505,6510
 Malawi and NRB	13095
 Malawi and Rwanda	11133
 Malawi and Sri Lanka	13160
@@ -1542,6 +1556,7 @@ Malaŵi Vision	12987
 Malaŵi's OGP	12987
 Malaŵi. Colleen Zamba SECRETARY	12987
 Malaŵi. Currently	12987
+Malik and Malaak	19602
 Malnutrition Maladies	15599
 Managing Director of Airtel Malawi	9820
 Manaouda Malachie	3658,2617,145,2216
@@ -1586,12 +1601,14 @@ Mongomeyen Malabo	4209
 Mongomo and Malabo	16996
 Monitoring and Evaluation MGDS Malawi Growth and Development	12917
 Moxico and Malanje	10776
+Mozambiq Ugandan Malawi Belgium China Jumla	19517
 Mozambique Guinea Zambia Tanzania Uganda Malawi	12278
 Mozambique and Malawi	12979
 Mozambique- Malawi Interconnector	13060
 Mpox and Malaria	19284
 Mr. Malang Bass	16914
 Mr. Stephen Mjuweni. UNDP Malawi Principal	13001
+Mto Malagarasi	19592
 Multi-Donor Trust Fund. The Malawi Food	13083
 Multiple Indicator Cluster Survey and Malaria Indicator	16867
 Mweemba Malambo	13328
@@ -1660,6 +1677,7 @@ Nyasa Times The Malawi Communications Regulatory	13216
 Nzika App. The Malawi Digital ID	13080
 Nzika Application Malawi	13080
 O Adv Moses Malakate E-mail	6512
+OPD Attendance OPD Malaria Cases Malaria	19544
 Observations Maladies	19226
 Old Mutual UNDP Malawi Quarterly Progress	12241
 Old Mutual’s Malawi	14346
@@ -1717,6 +1735,7 @@ President of Malawiʼs	12979
 President’s Malaria Initiative	17883
 Press Trust Malawi and Africa Fortesa Limited	13122
 Prevailing Reserve Bank of Malawi Base Lending	13185
+Prevention of Malaria	19544
 Previous Article Malawi	3933
 Private Public Percent Malaria Household Availability	18441
 Processor INST-204893EEBCA NAIROBI Malaysia	7167
@@ -1860,7 +1879,9 @@ Survey MIS Malaria Indicator Survey MoA	16927
 Sustainable Development Goals and Malawi Vision	13095
 Systems RATING OPPORTUNISTIC STAGE Malawi	12214
 T Maladie Non Transmissible	15711
+TANZANIA YALENGA KUTOKOMEZA MALARIA IFIKAPO	19561
 TB. Malaria	4349
+TDHS-MIS The School Malaria Parasitological Survey	19544
 TEG Campus Malabo	16942
 TII Africa Malawi Middle EGDI M-OSI	10840
 TITRE III PROTECTION DES MALADES ATTEINTS	15434
@@ -1872,6 +1893,7 @@ TWR MALABO TOUR MALABO TOWER	17006
 Takulandirani Malawi International Tourism Expo	13060
 Taldar. In Malawi	7291
 Tanzania Malawi Sub-	12214
+Tanzania. Malaria Investments	19529
 Teachers Council of Malawi	13070
 Tech Malawian Fintech PayChangu Targets SME	5940
 Tech Pearl Malawi	12241
@@ -1898,16 +1920,18 @@ Transformation for Malawi	12214,27,854
 Transformation for Malawi All	13080
 Transforming Education Summit National Consultations Malawi	12175
 Transforming Education Summit. National Consultations Malawi	12175
+Trend of Malaria Incidence	19544
 Tribunal Malagasy. L'interdiction	14417
 Tropical Medicine and Goodbye Malaria. Zzapp	18776
 Tsinda Malariya	13513
 Tsisnda Malariya	13513
 Tuberculose Maladies	15599
-Tuberculosis and Malaria	392,545,11442,1075,1469,802,108,1063,26,200
+Tuberculosis and Malaria	392,545,11442,1075,1469,802,108,1063,26,200,2480
 Tuberculosis and Malaria GHG Greenhouse Gas GLF	16896
 Tuberculosis and Malaria GHG Greenhouse Gas GoTG	16922
 Tuberculosis and Malaria TPMA Third Party Monitoring	11560
 Turbogas de Malabo	17309
+U.S. President’s Malaria Initiative	19529
 UAE and Malawi	12983
 UCHI Malawi Voice Data Commons	13095
 UDI Malawi	13209
@@ -1951,6 +1975,8 @@ University of Malawi. Email	12278
 University of Malawi. Handover	12241
 Unlocking Malawi's Foundational Learning Data	13209
 Updated NDC of Malawi	12261
+Upper Malaria	19544
+Upper Respiratory Infections and Malaria	19544
 VII. The Malawi Investment and Trade Forum	13053
 Vaomiera Malagasy	14412
 Vice President of Malawi	12979

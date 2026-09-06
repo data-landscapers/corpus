@@ -121,6 +121,8 @@ ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL	18985
 ESTIMATED RESIDENT POPULATION	18989
 ESTIMATED TIME INPUTS FOR KEY EXPERTS	3678
 ESTIMATES	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,963,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12281
+ESTIMATES OF GOVERNMENT REVENUE	19602
+ESTIMATES OF GOVERNMENT REVENUE AND EXPENDITURE	19602
 ESTIMATES OF REVENUE	13093
 ESTIMATES OF SAMPLING ERRORS	15247
 ESTIMATES REMARKS	16885
@@ -148,7 +150,7 @@ Estimación	16875,23
 Estimación FCFA Franco	16969
 Estimados	16865
 Estimant	8518
-Estimate	511,325,836,1,976,1,1699,1299,1,1999,1475,2125,890,257,636,300,1493,587,60,1540,32,56,136,131,1619
+Estimate	511,325,836,1,976,1,1699,1299,1,1999,1475,2125,890,257,636,300,1493,587,60,1540,32,56,136,131,1619,590
 Estimate Application	14267
 Estimate Contract	12389
 Estimate Partner Role First	15411
@@ -165,6 +167,7 @@ Estimated Amount US	13017
 Estimated Annual Gross Revenue	10738
 Estimated Annual Renewal Fee KES	10738
 Estimated Appraisal Date	2291,10121,14,406,1183,2640
+Estimated Appraisal Date Estimated Approval	19407
 Estimated Appraisal Date Estimated Board Date	14553,3821
 Estimated Appraisal Date Financing Instrument Digital	3456
 Estimated Approval	16655
@@ -237,9 +240,10 @@ Estimated. PalmPay	605
 Estimated. Round	713
 Estimated. TLcom	529
 Estimated. ZAF	1057
-Estimates	236,346,387,185,89,21,250,314,380,296,1,270,188,1,1,219,1,733,1,1,340,230,1,34,100,281,175,1105,646,716,62,585,954,1565,4,63,63,2,13,2,119,15,138,391,48,13,390,183,245,24,14,139,457,587,858,256,62,15,15,2,3,54,33,98,224,229,18,62,51,316,916,160,84,47,13,95,22,246,240,380,195,147,1,46,375,6
+Estimates	236,346,387,185,89,21,250,314,380,296,1,270,188,1,1,219,1,733,1,1,340,230,1,34,100,281,175,1105,646,716,62,585,954,1565,4,63,63,2,13,2,119,15,138,391,48,13,390,183,245,24,14,139,457,587,858,256,62,15,15,2,3,54,33,98,224,229,18,62,51,316,916,160,84,47,13,95,22,246,240,380,195,147,1,46,375,6,623,10,4
 Estimates Carbon Tax Volume Specific	17105
 Estimates Climate-induced	13331
+Estimates Figure No.2	19602
 Estimates No Disbursements Arrangements No DDO	16187
 Estimates Standard Error Coefficient of Variation	14815
 Estimates Yes Loan Cancellations Yes Development	2473
@@ -247,16 +251,18 @@ Estimates for Expenditure	14809
 Estimates for Financial Year	12598
 Estimates of Contribution of ICT	236
 Estimates of Expenditure	4101
+Estimates of Government Revenue and Expenditure	19541
 Estimates of National Expenditure	5198,3748,2272,12
 Estimates of National Expenditure Framework	11285
 Estimates of Revenue and Expenditure	13436,1190
 Estimates of SOEs	1284
 Estimates of Sampling Error	18525,42
 Estimates of Sampling Error Estimates	15843,1,821,380,880
+Estimates of Sampling Error The ILFS	19613
 Estimates of Sampling Errors	13454
 Estimates2024-2025FINALSB3july-compressed.pdf	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Estimatif des Equipements Informatiques	13694
-Estimating	3791,7696,519,393,1062,2143,111,1281,1322,603
+Estimating	3791,7696,519,393,1062,2143,111,1281,1322,603,634
 Estimating Digital Infrastructure Investment Needs	10856,284
 Estimating Economic Characteristics	19237
 Estimating Sharp Bounds	18318
@@ -483,6 +489,7 @@ Situação Económica Estimativas	18768
 Skills Needed Resource Estimate First	13331
 Skills Needed Resources Estimate First	11905
 Socios Costes Estimativos	16898
+Spectrum Estimate	19544
 State Age Pension Estimate	14340
 Stochastic Frontier Model Estimates 19 BOX	10997
 Stochastic Frontier Model Estimates Variables Model	10997

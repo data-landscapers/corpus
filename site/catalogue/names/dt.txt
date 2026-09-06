@@ -35,8 +35,10 @@ DNPD National Directorate of Development Planning DTT	17870
 DRC Democratic Republic of Congo DTS Digital	13312,2
 DSL Digital Subscriber Line DTH Direct-To-Home	6671
 DT Global	1813
+DT HT	19373
 DT Institute	15342
 DT SACCOs	2775
+DT TTC	19486
 DT&author	2096
 DT-Global	12183
 DT-RGPH-4	16155
@@ -50,6 +52,7 @@ DTAA. Subsequently	14839
 DTAAs	13060,1759,178
 DTAAs. Well	14997
 DTB and Safaricom	7265
+DTBI Domestic Direct Investment EISOs Dar	19534
 DTC II	6725
 DTC Nigeria Hosting	12053
 DTC Onboarding Workshop	18330,175
@@ -86,9 +89,13 @@ DTMFis	5222
 DTMFs	12490,2533
 DTOS Ltd	14445
 DTP Annex	5487
+DTP HepB-Hib	19544
 DTP MINING GUINEE SASU	16623
+DTP Vaccine	19544
+DTP-HepB-Hib	19544
 DTP-HepB-Hib-IPV	17044
 DTP-Hib-IPV	17044
+DTP3 DISTRICT COVERAGE	19544
 DTPCV3&YEAR	19284
 DTRA and WHO	16971
 DTRECTTVE NO. CBUE-GOV	17030
@@ -187,6 +194,7 @@ Mamadou KASSOGUE ADC DTTA BAGAYOKO ADC	17841
 Management and Financial Analysis System DTT Digital	16942
 Manual for DTUs	16046
 Mechanism DTS Digital Transformation Strategy E-Commerce	1243
+Milliard de DT	19406
 National Indicator Data Set Systems DTPS	396
 Offre DTI	18118
 Operation Meta- Dta Data Governance Data	15034
@@ -224,6 +232,7 @@ Technology and Innovation DTT Digital Terrestrial Television	18454
 Unit DR Disaster Recovery DTLT Desktop	13185
 VACCIN DTCoq	13300
 VACCIN POLIO INJECTABLE VPI ROUTINE DTCoq-HEP.B-HIB	13300
+VACCINATED AND UNDER-VACCINATED STATUS DTP VACCINE	19544
 VDPV1 DA DHIS2 DTC-HepB-Hib	14622
 WASH SNFI Nutrition DTM Methodology	9772
 WB DT	13831

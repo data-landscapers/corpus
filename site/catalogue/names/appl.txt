@@ -8,6 +8,7 @@ A2.5.2.1.1 Appliquer	17983
 ACCORDANCE WITH APPLICABLE LEGISLATION	11240
 ACRONYMS AND ABBREVIATIONS API Application Programming	17149
 ACRONYMS APP Computer Applications EGD Electronic	13345
+ACT APPLIES	19602
 ADDITIONAL DETAILS AS PER APPLICATION PLEASE	14754
 AI Application for Healthcare The Government of Rwanda	4167
 AI Applying AI	14566
@@ -108,6 +109,7 @@ ARTICLES OF CONVENTIONS APPLICABLE TO RECOGNIZED	16830
 ASP Application Service Providers ATU African	6946
 ATM Application Programming Interface AU Autonomous	17870
 AVAILABLE NA NOT APPLICABLE	16892
+Abbreviation Description OAS Online Application System	19584
 About CALS The Centre for Applied Legal	9889
 Academics Library Calendar Apply for Admissions Human	17232
 Accessible Rich Internet Applications	11975
@@ -122,6 +124,7 @@ Added Tax Application	14533
 Additional Financing Sequence.02 Not Applicable	15731
 Adminis- Détection Application	15583
 Adopted Smart Applications	16885
+Adoption and Application	19474
 Adoption and Application of Standards	12895
 Adult Learning Application	899
 Advanced Encryption Standard API Application Programming	11952
@@ -201,6 +204,7 @@ Applicable Laws	3972,182,13,35,15,43,41,48,1003
 Applicable Laws and Regulations	9855
 Applicable Laws and Regulations Digital	9855
 Applicable NARYSEC National Rural	11261
+Applicable NBS National Bureau of Statistics NER	19542
 Applicable NDP National Development	12923
 Applicable National Policies	18370
 Applicable Not Applicable Not Applicable	14783
@@ -248,13 +252,17 @@ Applicants. E. Procedures for Evaluation of Applications	1638
 Applicant’s Signature	14754
 Applicati	15580
 Applicatifs Promotion des TICs	10812
-Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246,32,171,56,83,193,7,106,9,9,13,4,3,44,21,10,15,44,28,47,148,60,3,2,32,5,9,51,3,48,31,19,87,48,20,9,112
+Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246,32,171,56,83,193,7,106,9,9,13,4,3,44,21,10,15,44,28,47,148,60,3,2,32,5,9,51,3,48,31,19,87,48,20,9,112,146,1,1,2,3,1,7,1,1,1,1,1,2,3,13,12,6,11,9,18
+Application Acquisition	19575
+Application Acquisition Standards	19575
 Application Application	11
+Application Architects	19513
 Application Architecture	9124,5841
 Application Architecture Principles	14441
 Application Article	15778
 Application Attacks DDOS Total Cyber Advisories	6671
 Application Autant	14463
+Application Availability and Performance	19575
 Application Backup Solutions	16927
 Application Building Blocks	14965
 Application Contrôle Citoyen	15712
@@ -263,8 +271,11 @@ Application Cyber Security Authority	587
 Application Data Classification Primary Data Location	6432
 Application Deadline	9198,5,106,800,5074
 Application Deadline Submission Deadline	9309
-Application Developers	4528,7984
+Application Design and Development	19510
+Application Developers	4528,7984,7001
 Application Developers and Independent Software Vendors	12359
+Application Development	19575
+Application Development Standards	19575
 Application Duration of License	17250
 Application Facilities	16077
 Application Fee	10738,4467
@@ -289,6 +300,9 @@ Application GIDOCEP	10975
 Application Hosting Platforms	11956
 Application ID	1920
 Application Import Permit	14113
+Application Installation and Application Acceptance Support	19575
+Application Insufficient Coding High	19533
+Application Integration	19510,66
 Application Integration N	9124
 Application Integration Services	12359
 Application Layer	1009
@@ -308,6 +322,9 @@ Application Number of Issues Raised Number of Issues	13053
 Application ODK COLLECT. Figure	13375
 Application Objects	12549
 Application ObservationsHépatite BSortie	19226
+Application Operations	19575
+Application Operations and Maintenance Standards	19575
+Application PART I PRELIMINARY PROVISIONS	19527
 Application PART II	1474,13406
 Application PART II OFFICE	13321
 Application PART II UNIVERSAL ACCESS	22
@@ -316,6 +333,7 @@ Application Performance	11952
 Application Performance Monitoring ARIA Accessible Rich	11952
 Application Personal Interface DEO District Education	18460
 Application Platform	12969
+Application Poor Fair Good Very	19576
 Application Portfolio	14965
 Application Portfolio Management Template	9124
 Application Process	12374,31,270
@@ -329,7 +347,7 @@ Application Programme	11960
 Application Programme Interfaces	13346
 Application Programming	13461
 Application Programming Information APP Annual Performance	5533
-Application Programming Interface	1333,4332,1847,946,359,2316,1160,269,35,750,48,211,784,49,44,191,145,78,126,1522,399,5,608,974,246
+Application Programming Interface	1333,4332,1847,946,359,2316,1160,269,35,750,48,211,784,49,44,191,145,78,126,1522,399,5,608,974,246,756
 Application Programming Interface ASYCUDA Automated System	13042
 Application Programming Interface ATI	5244
 Application Programming Interface ATS Automated Transfer	15023
@@ -339,9 +357,11 @@ Application Programming Interface CA	14438
 Application Programming Interface CDO Chief Digital	12674
 Application Programming Interface CDSS Clinical Decision	9855
 Application Programming Interface. The Application	12419
-Application Programming Interfaces	1243,461,1948,435,1157,2275,244,4659,583,87,51,245,3561
+Application Programming Interfaces	1243,461,1948,435,1157,2275,244,4659,583,87,51,245,3561,2570
+Application Programming Interfaces APIs Advanced Release	19519
 Application Providers	13295
 Application Re-application	2709
+Application Reliable	19533
 Application Requirements	10407
 Application Requirements Applicants	9198
 Application Requirements Interested	9203
@@ -365,7 +385,12 @@ Application Submission	5665
 Application Submission Letter	1638
 Application Submission Letter and Forms ELI	1638
 Application Submission Timeframe	14113
+Application Submitted	19541
 Application Support Analysts	6832
+Application Systems Change Management	19584
+Application Systems and Database Management	19584
+Application Testing	19575
+Application Testing. Ensure	19575
 Application These Regulations	14427,27,426
 Application This Act	13566,841
 Application Track Existing Application	18540
@@ -379,8 +404,10 @@ Application and Definitions	3714
 Application and Digital Channel Security	15054
 Application and Integration Fabric	14308
 Application and Interpretation	16851
+Application and Issuance System PAMIS Postgraduate	19584
 Application and Licence Fees	12542
 Application and Number of Copies	1638
+Application and System User Access Controls	19584
 Application and Target Audience	11952
 Application and Technology Architecture BU Business Unit	12359
 Application de Traitement	16518
@@ -405,10 +432,12 @@ Application for Permit for Standards Mark	18600
 Application for Registration	12138,4817
 Application for Registration Form	16955
 Application for Registration of Birth	12367
+Application for Research	19584
 Application for Short Code	17250
 Application for South Sudan National ID Card	18595
 Application for Special	736
 Application for Startup Ecosystem Builder Designation	14024
+Application for Taxpayer Identification Number	19527
 Application for Type Acceptance	18609
 Application for Type Acceptance. Any	18609
 Application for Type Approval	14883,2367
@@ -440,6 +469,7 @@ Application of Information	12325
 Application of International Law	1814
 Application of Items	3714
 Application of Law	16832
+Application of Laws	19525
 Application of Machine Learning	2816
 Application of Machine Learning and Deep Learning T	11265
 Application of Machine Learning and Deep Learning Techniques	11265
@@ -471,6 +501,7 @@ Application. If the Minister	16832
 Application. In the Written Address	18154
 Application. PART II DATA PROTECTION AUTHORITY	13319
 Application. PART II Data Protection Authority	972
+Application. PART II REGISTRATION OF PERSONS	19508
 Application. PART II Registration and Licensing	13606
 Application. SECTION	12145
 Application. The Procuring Entity	1638
@@ -479,7 +510,7 @@ Application. This Law	16832
 Application.pdf United Nations Population Fund Liberia	17068
 ApplicationForms	1638
 ApplicationMobile	8028
-Applications	34,8,540,154,902,359,118,310,1053,312,71,667,307,31,495,172,899,316,182,438,151,25,4,427,202,173,187,69,92,336,95,7,2,65,31,57,184,264,136,44,139,61,14,24,95,58,37,60,75,45,419,18,170,6,41,133,210,335,10,53,64,68,307,6,145,30,61,72,276,11,9,118,7,72,29,99,1,9,35,376,261,135,328,96,19,10,157,15,35,62,48,14,24,44,34,153,188,115,249,9,7,383,437,76,5,211,3,1,3,4,24,17,1,15,49,14,431,60,428,20,137,66,174,18,20,2,5,161,110,192,198,206,175
+Applications	34,8,540,154,902,359,118,310,1053,312,71,667,307,31,495,172,899,316,182,438,151,25,4,427,202,173,187,69,92,336,95,7,2,65,31,57,184,264,136,44,139,61,14,24,95,58,37,60,75,45,419,18,170,6,41,133,210,335,10,53,64,68,307,6,145,30,61,72,276,11,9,118,7,72,29,99,1,9,35,376,261,135,328,96,19,10,157,15,35,62,48,14,24,44,34,153,188,115,249,9,7,383,437,76,5,211,3,1,3,4,24,17,1,15,49,14,431,60,428,20,137,66,174,18,20,2,5,161,110,192,198,206,175,142,9,7,51,1
 Applications Administration	15674
 Applications All ICT	16883
 Applications Center	14471
@@ -495,10 +526,12 @@ Applications Invited for SheConnects Digital Accelerator	9072
 Applications License Process Description	15283
 Applications Mobile	9993
 Applications Mobile Burkina Faso	9993
+Applications Not Generate Generates	19576
 Applications Now Open Applications	17370
 Applications Open	12603,474,4962
 Applications Open for Grants of Up	965,3924,206
 Applications Opening Soon Based	14999
+Applications Processed Death Timely Processed Applications	19541
 Applications Review	13037
 Applications Review and Development	12961
 Applications Tableau	17836
@@ -542,6 +575,7 @@ Applied Earth Observations and Remote Sensing	12837,1932,360
 Applied Economics	18318
 Applied Economics Letters	7886
 Applied Economics. Bergeron	12369
+Applied Energy	19555
 Applied Health Informatics	766
 Applied Innovation Center	7537,8176,279,54,209
 Applied Innovation Center Projects	15713
@@ -573,7 +607,7 @@ Appliquée	14635,1026,158,2474
 Appliquée de Yaoundé MICS	17842
 Appliquées	18953
 Applis	9993
-Apply	1204,681,789,1452,302,126,1111,11,196,496,64,351,153,612,427,5,255,371,466,576,362,711,239,57,123,9,7,96,95,457,50,488,14,3,244,358,420,195,178,687,14,542,247,516,29,1078,247,43,380,333,169,266,69,201,360
+Apply	1204,681,789,1452,302,126,1111,11,196,496,64,351,153,612,427,5,255,371,466,576,362,711,239,57,123,9,7,96,95,457,50,488,14,3,244,358,420,195,178,687,14,542,247,516,29,1078,247,43,380,333,169,266,69,201,360,640
 Apply AES-256	10721
 Apply AI	6477,8275
 Apply AI Strategy	6487,392
@@ -623,6 +657,8 @@ Applying the Toolkit	11156
 Applying the UTAUT2	1248
 Approved Total Applications	14746
 Area AML Anti-Money Laundering API Application	12663
+Area Applied	19554
+Area and Percentage Applied	19554
 Article Applicable	18985
 Artificial Intelligence and Its Applications	14951
 Attributes Symbol Example Application Name N	9124
@@ -655,6 +691,9 @@ Benin Tax Application Base Current	10856
 Biochar Application Build	17157
 Biologie Moléculaire Appliquée	17829
 Biologie Médicale Appliquée Master Gestion des Ressources	17829
+Birth Applications	19541
+Birth Percentage Applications Applications	19541
+Birth Registration Applications	19541
 Body Business Call for Applications	11314
 Body NATIONAL ASSEMBLY INVITATION FOR APPLICATIONS	13096
 Botswana. Apply Now	12603
@@ -666,6 +705,7 @@ Bureau Guinéen de Géologie Appliquée	16627
 Business Applications	6832
 Business Event Customer Applies for ID	9124
 Business License Application	18935
+Business Support Applications	19575
 Business and Applied Sciences	12241
 C. Preparation of Applications	1638
 CACP Application	12454
@@ -685,7 +725,9 @@ CONSTITUTIONAL CHALLENGES AND SUPREMACY CLAUSE APPLICATION	3861
 CONTENT AND APPLICATIONS	16884
 COST RISK Application	6432
 COURIER SERVICE APPLIED	1223
+CRB Student Application and Admission	19584
 CSCom Maintenance Applicative	17882
+CURRENT STATE AND APPLICATION OF BIG	19555
 CYBERCRIMINALITE ET DE LA BONNE APPLICATION	16617
 Call for Applications	10347,7388
 Call for Applications Deadline	11345
@@ -799,6 +841,9 @@ De la Direction des Applications Météorologiques Article	15371
 Deadline for Submission of Applications	1638
 Dean Bennett Appleby	7198
 Dear Applicants and Stakeholders	17553
+Death Applications Timely Processing	19541
+Death Percenta Applications Applications	19541
+Death Registration Applications	19541
 Dec-2020 Restructuring Sequence.01 Not Applicable	15731
 Dec-2020 Restructuring Sequence.02 Not Applicable	17962
 Deemed Applied	18600
@@ -807,6 +852,7 @@ Defining Capabilities and Application Areas	11156
 Defining Objectives and Areas of Application	2958
 Definition Applicants	11986
 Delivery and Empowerment Application	12507
+Demand-driven Death Application and Registration	19541
 Department. Application	13559
 Deploy RNEP-GB Applications and Services	11552
 Design Applications	11250
@@ -840,8 +886,10 @@ Does POPIA Apply	2724
 Download Application Form The InfoHighway	14725
 Download Information Leaflet Download Application Form	14807
 Download the SeyID Application. Once the ID	19041
+Duplication and Fragmentation of Application Systems	19584
 Dynamic Application Testing	11952
 D’ETUDE ET D’EXPERTISE APPLICABLES AUX SERVICES	17899
+E- Applications	19576
 E-Health Application Bandwidth	21
 E-Lafia Application	18105
 E-Learning Services Financial Systems Mobile Applications	21
@@ -935,6 +983,7 @@ Fixed Fixed Application Fixed Wireless Access	736
 Fixed and Mobile Network Facilities. Application	15205
 Force and Application	18602
 Foundational and Applied Research Excellence	4528,7984
+Framework and Applications Guiding Frameworks	19555
 G Fifth Generation ASPs Application Service	6671
 GATEWAY Program Application Portal	11347
 GEL APPL.cutanée PATCH PATCH COMP. COMP	15930
@@ -943,6 +992,8 @@ GENERALAND TRANSITIONAL PROVISIONS Application	19173
 GENERAUX APPLICABLES AUX FOURNISSEURS DES ACTIVITES	15584
 GIAC Web Application Penetration Tester	15662
 GOVERNING REFUGEES AND APPLICANTS FOR REFUGEE	14926
+GOVERNMENT AUTHORITY ACRONYM Application Computer	19575
+GOVERNMENT AUTHORITY Apply	19575
 Gambia Immigration Department Applicants	12085
 Gambia Immigration Department Application	12085
 Gazette. Application	12666
@@ -955,6 +1006,7 @@ Genomic Applications	10188
 Ghana Opens Applications for Mobile Broadband	7401
 Ghana's NCA Receives Four Applications	14699
 Ghana. Int J Telemed Appl	1219,11027
+Git and Junit. Designing Applications	19533
 Glob Implement Res Appl	8376
 Google Africa Applied AI Lab	6930,1269,499,1421
 Google Play Store and Apple App Store	2885,11812
@@ -963,16 +1015,21 @@ Google Play and Apple App	4292
 Google Play and Apple Store	12580
 Google Wallet and Apple Pay	12000
 Google's Africa Applied AI Lab	2209
-Government Application Architecture	14965
-Government Applications	11854,3518,146,3369
+Government Application Architecture	14965,4610
+Government Applications	11854,3518,146,3369,688
 Government Applications All	11854
+Government Applications Document Number	19575
 Government Applications ICTs	11857
+Government Applications Page	19575
+Government Applications and Guidelines for Development	19575
 Government ICT Applications	12917
 Government Information Systems and Applications	13308
 Government Systems and Applications	13308
 Government WHO CAN APPLY The AI	10347
 Gross Settlement SAP System Application Product	13420
 Growth. Applied	12233
+Guidelines for Application Operation Support	19575
+Guidelines for Applications Maintenance Support	19575
 Guidelines for Mobile Application Development	11004
 Géomatique Appliquée	19366
 HELB Bursary Applicants	2775
@@ -988,6 +1045,7 @@ ICAO Applets for MRTDs	13005
 ICT Applications	11552,1662
 ICT Applications and Cyber	26
 ICT Applications and Cybersecurity	28
+ICT Support Applications	19575
 IGP INSTITUT NATIONAL SCIENCE APPLIQUEES	18170
 III. SCOPE OF APPLICATION	12779
 III. SECURE APPLICATION SOFTWARE DEVELOPMENT	15161
@@ -1037,10 +1095,13 @@ Institut Pédagogique Appliquée I.T.S	13377
 Institut de Pédagogie Appliquée	13364
 Institut des Sciences Appliquées	17829,27
 Institute of Applied Sciences Ruhengeri	17761
+Institutions. Off-the-shelf Applications	19575
 Integrated Application	13666
 Integrated Registration Application	12241,839
 Integrated State Accounting Application	17870
 Integrated Tax Application and Preparation System	15629
+Integration of Application	19576
+Integration of Application Systems	19584
 Intelligence. Applied	16261
 Interactive Application	11952
 Interface Applicatif de Programmation	13306
@@ -1155,7 +1216,7 @@ Mobile Application Development	13037,319,1595
 Mobile Application Safety	19007
 Mobile Application Security	10721
 Mobile Application for Community Health Practitioners	18158
-Mobile Applications	11952,4,961,2366
+Mobile Applications	11952,4,961,2366,4250
 Mobile Applications. Eswatini	13052
 Mobile Burkina Faso Applis Artificial Intelligence	9993
 Mobile and Legacy Applications Government	11872,3
@@ -1180,6 +1241,7 @@ NFM Scholarship Applicants	2775
 NGO's Application Method	15282
 NON-RESPECT DES DISPOSITIONS APPLICABLES	15394
 NON-RESPECT DES DISPOSITIONS APPLICABLES En	15394
+NaPA National Payment Application NGO Non-Governmental	19544
 Nairobi JR Application No	14460
 Named the Provincial Disaster Management Application System	7574
 National Backbone Operator Licence Application Duration	17250
@@ -1200,12 +1262,15 @@ Notification. Applicants	19237
 Nov-2024 Restructuring Sequence.01 Not Applicable	11924
 NowCasting Satellite Application Facility	15907
 Nowcasting Satellite Application Facility	11191
+Number of Returned Birth Registration Applications	19541
+Number of Returned Death Registration Applications	19541
 Number of Tax Refund Applications Processed	12951
 Nzika Application Malawi	13080
 Nzika Mobile Application	12241,839,15
 OBJECTIVES AND APPLICATION	1220
 OBJECTS AND APPLICATION CHAPTER I1 MAXIMISING	11179
 OBJECTS AND APPLICATION Definitions	11179
+ODI ODI Program of Applied Technologies	19521
 OFFENCES AND PENALTIES OF GENERAL APPLICATION	11976
 OPPORTUNITÉS DE DÉVELOPPEMENT ET APPLICATIONS DES	16621
 ORACLE Application Software Security Directives	15161
@@ -1218,9 +1283,11 @@ Oct-2028. Proposed Deadline for Withdrawal Applications	11965
 Office Application Programming Interface African Union	4528
 Offset of Overpaid Taxes Application Form	14533
 Online Application	2307
+Online Application System	19584
 Online Passport Application	4566
 Online Passport Application System	4566
 Online Passport Application and Payment System	4566
+Online Work Permit Application and Issuance System	19584
 Open Web Application Security Project	8439,798,8665
 Open Worldwide Application Security Project	7283,3982,1772
 Open-Source Application for Sharing	12090
@@ -1233,6 +1300,7 @@ Oracle and Apple	9016
 Orange Application Kimashi Application	18105
 Organize and Apply System of Tripartite Risk Mitigation	16876
 Outcome of Loan Applications	12445
+Outsourced Application	19575
 PART APPLIES	3714
 PART APPLIES Political	3714
 PART III APPLICATION PROCESS FOR AUTHORISATION	12374
@@ -1281,6 +1349,7 @@ Phyto Apple	15936
 Pilot Applications	6432
 Plan and Budget API Application Programming Interface	16949
 Plan de Supervision des Applications	17902
+Planning and Justifying the Application Requirements	19575
 PlantVillage Application	13366
 Point Application	21
 Policy Application	899,2962
@@ -1306,6 +1375,9 @@ Priority Applications and Impact Areas The Indaba	13101
 Privacy Design Guidelines for Mobile Application Development	11004,960
 Pro Travaux Publics Appliquée	17829
 Process Visa Application	9124
+Processed Death Registration Applications	19541
+Processing Birth Applications	19541
+Processing of Death Applications	19541
 Procurement Applicable Procurement Regulations	11525
 Procurement General Applicable	15372
 Programme Terra Bénin. IV.1.2.1.2 Application S’applique	10876
@@ -1328,6 +1400,7 @@ Purpose and Application of Regulations	14647
 Purpose-Built Backup Appliances	13185
 Qualifications Applicants	10060
 Qualified Applicants	7368
+Quality Application	19575
 R Mobile W3C Mobile Web Application	18774
 RADIODETERMINATION APPLICATIONS SCOPE	12949
 RAILWAY APPLICATIONS RAILWAY APPLICATIONS SCOPE	12949
@@ -1351,6 +1424,8 @@ Reference. Applicable	11269
 Reflections Applying	7313
 Refrigerating Appliance	14814
 Refrigerating Appliances	14814
+Region Registration Applicants Targets	19541
+Registered Applicants Dodoma	19541
 Registration Application	12654
 Registration Requirements Applicants	15058
 Regulations Respecting the Application	13461
@@ -1388,6 +1463,7 @@ SATELLITE STATION APPLICATION FORM	736
 SCOPE AND APPLICABILITY	12338
 SCOPE OF APPLICATION	14434
 SCOPE OF APPLICATION These Guidelines	10407
+SCOPE OF THE APPLICABILITY OF IFRSs	19514
 SERVICES AND APPLICATIONS	16041
 SERVICES ET APPLICATIONS	16195,1687
 SERVICES ET APPLICATIONS Objectif	16195
@@ -1420,6 +1496,8 @@ Scope and Applicability These Guidelines	15058
 Scope and Applicability This Directive	17030
 Scope and Application	5244,6949
 Scope and Application Parts I and IV	10157
+Scope of Applicability of IFRSs	19514
+Scope of Applicability of IPSASs and IFRSs	19514
 Scope of Application	27,1611,1320,1652,5245,1999,139,153,39,431,314,378,647,6,163,942,575
 Scope of Application Applies	10908
 Scope of Application CHAPTER	12616
@@ -1459,6 +1537,7 @@ Shared Services Applications Development	12917
 Sharing With Fee Class Application Fee	736
 Should Apply	9198,111,2018,6712
 Signing and Provisional Application	18985
+Single Window Applications and Sectorial Portals. Figure	19533
 Skills Application	899
 Smart Applications International	10696
 Smart Cities and Town Applications	16885
@@ -1482,12 +1561,19 @@ Stream Applied Subjects	18461
 Subjects Applied Subjects Everyday Subjects Choice	18461
 Submission of Application	14113,4352
 Submission of Promotional Tariff Applications	14754
+Submitted Applications for Birth Registration	19541
+Submitted Applications for Births Registration	19541
+Submitted Applications for Death Registration	19541
+Submitted Applications for Deaths Registration	19541
 Successful Applicants	8582
 Sudan API Application Programming Interface ARPU	14897
 Suit Applications	16970
+Support Software Application	19533
 Support for Apple	10032
 Supporting Smart Applications	16885
+Supporting Software Application Government	19533
 Supremacy Clause Application	3861
+System API Application Programming Interface CAS	19533
 System Application Products Ltd	18154
 System Lifecycle Application The FAIR Pillars	14565
 System and Application Hardening	15054
@@ -1514,6 +1600,7 @@ TRANSPORT AND TRAFFIC TELEMATICS APPLICATIONS TRANSPORT	12949
 TTOS Visa Application System	11986
 TYPE OF APPLICATION	2709
 TYPE OF LICENSE BEING APPLIED	16878
+Tanzania Area Area Planted Area Applied	19554
 Target Deduplication Appliance	13185
 Target Deduplication Disk Appliance Minimum Requirements	13185
 Tariff Application	16978
@@ -1538,6 +1625,10 @@ Theoretical and Applied Climatology. Published	12611
 Through Applications	16885
 Tik Tok Mobile Applications	12395
 Time of Application	12364
+Timely Applications Timely Delayed Processed Processed	19541
+Timely Processing of Birth Application	19541
+Timely Processing of Birth Registration Applications	19541
+Timely Processing of Death Application	19541
 Token Certificate Applications	12364
 Token Certificate Applications Access	12364
 Tracks Apply Now View Schedule Event	18039
@@ -1560,6 +1651,8 @@ US APPLY NOW APPLY NOW	13666
 USERS HIGH-SPEED NETWORKS APPLICATIONS SERVICES	16883
 USSD Applications	18485
 USSD Code Application for Premium Rate Number	17250
+Under-utilisation of Application Systems	19584
+Under-utilisation of Application Systems Sn Entity Name	19584
 Unified MESOB Application	14133
 Universal Applicability This Policy	3861
 University of Applied Science	17226,197
@@ -1578,6 +1671,7 @@ Virtual ID Application Requirements	19041
 Visa Application System	11986
 Visa Application. LAND	12333
 Vision Apply AI	14674
+Visited Regions Region No. of Applications Applications	19541
 WAF Web Application Firewall XML	6432
 WCO Data Model Application	13051
 WEB APPLICATION USER MANUAL SHALL	14816

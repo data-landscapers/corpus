@@ -38,6 +38,7 @@ Aboubakri Diaw	11808
 About the DE4A Diagnostic Process	12659
 Access Diagnostic Tool	13344
 Acknowledgements The Digital Economy for Sudan Diagnostic	14897
+Acute Diarrhea	19544
 Adama B. DIAKITE M. Karim	17845
 Adama DIAKITE	17829
 Adama DIARRA Secrétaire	17819
@@ -210,6 +211,7 @@ COOPERACIÓN INTERNACIONAL Y DIASPORA Servicio	4209
 COUNTRY HYDROMET DIAGNOSTICS	18309,269,209
 COUNTRY HYDROMET DIAGNOSTICS Element	18578
 COUNTRY HYDROMET DIAGNOSTICS Informing	14448
+COVERAGE OF HIV EARLY INFANT DIAGNOSIS	19544
 CREDD Diagnostic du Secteur Privé	17870
 CRIANÇAS ABRE DIA	10752
 Cabinets PUBLIQUE ET DU DIALOGUE SOCIAL	18032
@@ -356,6 +358,7 @@ DIABIGU	17828
 DIACC	5878,772
 DIAFARABE DIAK	17828
 DIAFOUNOU GORY	17828
+DIAGNOSED DISEASES	19544
 DIAGNOSTIC	16942
 DIAGNOSTIC ASSESSMENT FOR THE REPUBLIC	14897
 DIAGNOSTIC ASSESSMENT OF GHANA’S AI ECOSYSTEM	4126
@@ -369,6 +372,7 @@ DIAGNOSTIC DU SYSTÈME STATISTIQUE NATIONAL FIN	16620
 DIAGNOSTIC FINDING	6832
 DIAGNOSTIC FINDINGS	16942,928
 DIAGNOSTIC INTRODUCTION EQUATORIAL GUINEA	16942
+DIAGNOSTIC SERVICES	19544
 DIAGNOSTIC STRATEGIQUE	10913,4935
 DIAGNOSTIC STRATEGIQUE DE L’ADMINISTRATION I PUBLIQUE	15722
 DIAGNOSTIC STRATEGIQUE II.1 Diagnostic	15848
@@ -410,6 +414,7 @@ DIAMOND JUNIOR SCHOOL LIMITED Data Processor	7167
 DIAMOND SPARKLE LIMITED Data Processor INST-944004C2DDB	7167
 DIAMOND TRUST BANCASSURANCE INTERMEDIARY LIMITED Data	7167
 DIAMOND TRUST BANK KENYA LIMITED Data	7167
+DIAMOND TRUST BANK TANZANIA PLC	19592
 DIAMONDS REFINED RECOVERY CENTER LTD Data	7167
 DIAMOU	17828
 DIAMOUNTENE Adama UP	17845
@@ -507,8 +512,10 @@ Diabetes Compass	13160
 Diabetes Compass Project Health	13160
 Diabetes Every	12151
 Diabetes Kidney	12151
+Diabetes Mellitus	19544
 Diabetes Respiratory	12151
 Diabetes2	12151
+Diabetic Retinopathy	19565
 Diabo	10875,4840
 Diabo Gourma Est	15715
 Diabète	737,12563,2411,2586
@@ -523,9 +530,9 @@ Diagn	3791
 Diagnose	6832,6524,3793
 Diagnoses Table	15411
 Diagnosing Readiness Gaps and Country Archetypes	2957
-Diagnosis	9075,4863,1268
+Diagnosis	9075,4863,1268,4338
 Diagnosis Approach	10881,4700
-Diagnostic	1155,597,987,996,467,12,2618,1134,925,1297,523,108,22,290,9,438,430,35,198,158,901,12,2,71,91,1073,348,130,388,78,8,11,38,162,10,483,614,123,904,24,26,401,22,5,130,124,36,602,5,5,19
+Diagnostic	1155,597,987,996,467,12,2618,1134,925,1297,523,108,22,290,9,438,430,35,198,158,901,12,2,71,91,1073,348,130,388,78,8,11,38,162,10,483,614,123,904,24,26,401,22,5,130,124,36,602,5,5,19,165
 Diagnostic 2021.pdf	18614
 Diagnostic AIGF Ivorian Frequency Management Agency	17862
 Diagnostic Accuracy	4528,7984
@@ -558,7 +565,7 @@ Diagnostic Review of Sudan's Electricity Sector	14877
 Diagnostic Study	14012
 Diagnostic Study Report	13938
 Diagnostic Study of Higher Education and Scientific Research	11552
-Diagnostic Toolkit	16876
+Diagnostic Toolkit	16876,2658
 Diagnostic Tools Inclusion Design Ecosystem Stakeholder	13005
 Diagnostic Vignettes	7966
 Diagnostic and Interventional Radiology	718
@@ -576,7 +583,7 @@ Diagnostic-pays	7655
 DiagnosticReport	13471
 Diagnostico	966
 Diagnostico de COVID-19	2816
-Diagnostics	3651,551,5227,1347,215,3575,1108,2635,936
+Diagnostics	3651,551,5227,1347,215,3575,1108,2635,936,299
 Diagnostics and Devices The Malawi National Supply	13166
 Diagnostique	16328
 Diagnostiquer	19221
@@ -661,6 +668,7 @@ Dialogues	3596,7268
 Dials	19237
 Dialysis	12421
 Dialysis Centres	13122
+Dialysis Machines	19544
 Diam Sa-	18077
 Diama	17969,421
 Diama Djigui	7896,6
@@ -752,6 +760,8 @@ Diarreias	966
 Diarreicas Agudas	4209
 Diarrhea	10780,49,1322
 Diarrhea Anaemia	12151
+Diarrhea With No Dehydration	19544
+Diarrhea With Some Dehydration	19544
 Diarrhea and Care-seeking Behaviour	15247
 Diarrhea-causing	18442
 Diarrheal	10768,1645,2643
@@ -768,7 +778,7 @@ Dias Afrinet	11412
 Dias Santos	11955
 Dias de Ativismo	18820
 Diasonama	10032,196
-Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262,171,140,105,388,55,667,351,1264,21,117,365,154,100,282,493,12,1063,64,149,148,9,34,148,54,611,13
+Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262,171,140,105,388,55,667,351,1264,21,117,365,154,100,282,493,12,1063,64,149,148,9,34,148,54,611,13,386
 Diaspora AI Advisory Group	4528
 Diaspora Advanced Health Programme	7895
 Diaspora Advertisement Airtel Africa Foundation	5802
@@ -987,6 +997,7 @@ G SOCIETE DIAN TRANSPORT SARL UNIP	16623
 G-I2. Global and Regional AI Dialogues Global	15713
 G. Tax Administration Diagnostics and Recent Tax	13624
 GJR Diagnostic	7655
+GLOBAL DIALOGUE ON ARTIFICIAL INTELLIGENCE GOVERNANCE	19609
 GOUAN DIAK	17828
 GUIROU Zoumana DIARRA Drissa DIOUARA ARTICLE	17812
 Gambia Diagnostic	3781
@@ -1131,6 +1142,7 @@ India-Africa Defence Dialogue	16164,113,964,979
 Indian Community and Diaspora	15119
 Indian Diaspora	16275,2682
 Indian Diaspora and Annexure	13744
+Infant Diagnosis FP Family Planning GePG	19544
 Infections Diabetes	12151
 Inovação Diagnóstica	16019
 Inspecteur de Police Fatoumata DIARRA	17819
@@ -1324,6 +1336,7 @@ Makan DIARRA TRAORE Secrétaire	18003
 Makhtar Diop Ousmane Diagana Country Director	17849
 Malaria Cases Diagnosed and Treated	16935
 Malaria National Diagnostic Capacity Assessment Report	17289
+Malaria and Diarrhea	19544
 Malawi. Partnership Dialogue	13156
 Mali Digital Economy Diagnostic	17870
 Mali Digital Economy Diagnostic ACKNOWLEDGMENTS	17870
@@ -1503,6 +1516,7 @@ Monsieur Alou DIARRA	17991,12
 Monsieur Aly N’Tji DIARRA	18032
 Monsieur Amadou Diarra YALCOUYE	18032
 Monsieur Badara Aliou DIAKITE	18032
+Monsieur Bassirou Diomaye Diakhar FAYE	19405
 Monsieur Boubacar Sidiki DIABATE Président du Conseil	17841
 Monsieur Boubacar Sidiki DIARRAH	17817
 Monsieur Boubou Gouro DIALL	17829
@@ -1610,7 +1624,7 @@ Namibia Diamond Trading Company	13108
 National Data Strategy. DIAL	2118
 National Diagnostic	16971
 National Diagnostics Division	17365
-National Dialogue	9227,1997,3524,192,2501,1014
+National Dialogue	9227,1997,3524,192,2501,1014,1083
 National Dialogue Committee	9545,1570
 National Dialogue Conference	14160
 National Dialogue Forum	16958
@@ -1619,6 +1633,7 @@ National Diaspora Directorate	16874
 National Diaspora Merit Award Dinner and Closing	7895
 National Economic Dialogue	16970
 National Policy Dialogue	17021
+National Strategy for Promoting Diaspora Engagement	19565
 National and Inclusive Dialogue	10300
 National and Inclusive Political Dialogue. Chemane	10139
 Nautilus Diaz Primary School Hall	13046
@@ -1694,7 +1709,7 @@ Par M. DIALLO	10565
 Par Mamadou Yaya Diallo	16686
 Parental Dialogue	6122
 Part III. Dialing Plan	16934
-Partnership Dialogue	13156,14,358,5257
+Partnership Dialogue	13156,14,358,5257,753
 Partnership Dialogue Facility FL Foyer Lumineux	10975
 Patient Data Management and Diagnostic Support	15977
 Paul D DIARRA Secrétaire	17899
@@ -1759,6 +1774,7 @@ Rabiatou Serah DIALLO CES Présidente	16620
 Racky Dia Camara	16626
 Rafa Mady DIANGO Secrétaire	18032
 Range of Skin Disease and Diagnostic Rate Study	16329
+Rank Diagnosis	19544
 Rapid Diagnostic	2659,1555
 Rapid Diagnostic Copyright	4214
 Rapid Diagnostic Test	1824
@@ -1893,9 +1909,14 @@ Sénégal Le Datacenter de Diamniadio	18295
 Sénégal. Dia	7106
 Sénégalais Ibrahim Dia	11652
 TADAT Tax Administration Diagnostic Assessment Tool	12948,913,576
+TANZANIA The Partnership Dialogue	19538
 TIC. O Dia	16305
 TITLE Diagnosis	15206
 TONNERRE Dias	18757
+TOP TEN LEADING ADMISSION DIAGNOSES	19544
+TOP TEN LEADING ADMISSION DIAGNOSES Table	19544
+TOP TEN LEADING OUTPATIENT DIAGNOSES	19544
+TOP TEN LEADING OUTPATIENT DIAGNOSES Table	19544
 Table of Contents COUNTRY HYDROMET DIAGNOSTICS	18309,269,209
 Talent Retention and Diaspora Engagement Zimbabwe	4528,7984
 Tamsir Boubacar DIABATE	17819

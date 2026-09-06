@@ -2,6 +2,7 @@ AA KENYA PLC Data Processor INST-2067513A5DB	7167
 ABSA BANK KENYA PLC Data Controller	7167
 ABSA BANK KENYA PLC Data Processor	7167
 AEDC Abuja Electricity Distribution Plc ATC&C	12062,6124,31
+AKIBA COMMERCIAL BANK PLC	19592
 AURORA ALLIANCE PLC Data Controller INST-767765F81B7	7167
 AURORA ALLIANCE PLC Data Processor INST-767765F81B7	7167
 AUTO SPRINGS EAST AFRICA PLC Data	7167
@@ -42,6 +43,9 @@ CEO of Websprix IT Solutions PLC	12272
 CEVA INTERFREIGHT KENYA PLC Data Controller	7167
 CIMERWA PLC	14997
 CORNERSTONE ENTERPRISES PLC Data Controller INST-81759804D7E	7167
+CRDB BANK PLC Zilizokopeshwa	19592
+CRDB Bank PLC	19534
+CRDB Bank Plc	19585
 CROWN PAINTS KENYA PLC Data Controller	7167
 CWG Plc	6056
 Clydestone Ghana PLC	8514
@@ -50,6 +54,8 @@ Company PLC of Hungary	9399
 Credit Bank Plc Data Controller INST-5006303240E	7167
 Credit Bank Plc Data Processor INST-5006303240E	7167
 Crown Paints Kenya PLC	6946
+DCB COMMERCIAL BANK PLC	19592
+DIAMOND TRUST BANK TANZANIA PLC	19592
 Dec-2025 MTN Rwandacell Plc	15136
 Description MTN Nigeria Communications PLC	925
 Description Vodacom Tanzania PLC	4521
@@ -96,7 +102,9 @@ Kepha Muiruri Safaricom Plc	8451
 Key Development Compagnie Générale de Banque Plc	12358
 Liquid Telecommunications Financing PLC	618,3
 London- and Johannesburg-listed Ninety One Plc	9060
+MAENDELEO BANK PLC	19592
 MINES PLC The Minister of Mines and Minerals	13387
+MKOMBOZI COMMERCIAL BANK PLC	19592
 MNOs Safaricom PLC	6946
 MTN Nigeria Communications PLC	925,9868
 MTN Nigeria Communications Plc	8408
@@ -111,6 +119,7 @@ MTN Rwandacell Plc License	718
 MTN Rwandacell Plc Liquid Telecom Ltd	15136
 MTN Rwandacell Plc and Airtel Rwanda Ltd	15136
 MTN Rwandacell Plc. Overall	15136
+MUCOBA BANK PLC	19592
 Mahwi Grain Millers Plc	14997
 Malawi Standard Chartered Bank Zambia Plc	12252
 Malawi TNM Plc	12315
@@ -118,6 +127,7 @@ Management PLC	3939
 Min Read Airtel Malawi Plc and TNM	7525
 Mopani Copper Mines Plc	13387
 Mopani Copper Mines Plc. Madam Speaker	13387
+NMB BANK PLC	19592
 National ID Program and Africom Technologies PLC	7037
 Nigeria Inter-Bank Settlement System Plc	8292,2846
 Nigeria's Africa Prudential Plc	9368
@@ -166,6 +176,7 @@ Scancom PLC H1	8607
 Scancom PLC and MMFL	8607
 Scancom PLC and Mobile Money Fintech LTD	10793
 Scancom PLC's H1	7491
+TANZANIA COMMERCIAL BANK PLC	19592
 TNM Plc	12315
 TRANSNATIONAL CORPORATION OF NIGERIA PLC NSoouterc	11884
 Telekom Networks Malawi PLC	10131

@@ -113,6 +113,7 @@ Asset-Based and PAYGO Finance	12297
 Assistant Director Payment Systems Development	12364
 Atakpamé PAYS	19253
 Aug-2025 PayLogic	6059
+Australian Sugar Milling Council Levy Payer	19555
 Authority TIPS Tanzania Instant Payment System	7763
 Authorized G2P Payment Arrangements	15519
 Automated Payment	11955
@@ -155,6 +156,7 @@ BUY NOW PAY LATER	4824
 Balance of Pay-	2775
 Balance of Payment	13122,3982,213
 Balance of Payment BR	14857
+Balance of Payment and Tourism	19526
 Balance of Payments	2775,1132,2102,5122,1791,34,167,356,389,3281,60,26,22,60,9,95,82,406,81,833
 Balance of Payments Developments	17104,213
 Balance of Payments Eswatini	11134
@@ -176,6 +178,7 @@ Bank of South Sudan's Department of National Payment	10186
 Bank of Tanzania’s National Payment Systems Annual	8888
 Bank of Zambia Retail Payment Clearing Systems	6938
 Bank. GOVERNANCE Sipho Skosana Balance of Payments	11131
+Bank. PART III PAYMENT SYSTEM	19509
 Base Pay	11131
 Based Payment Services	5687
 Basic Payroll	16970
@@ -295,6 +298,8 @@ Common Payment System	19214
 Comoros Deploys Digital Payment Switch	2421
 Comoros' National Payment Switch	3473
 Compagnie Pays de Prix	13414
+Companies Not Paying Service Levy	19585
+Companies Not Paying Service Levy S	19585
 Compensation Payment	17114
 Compensation and Benefits Pay-scales	11134
 Conforme Pays-Bas	998
@@ -503,6 +508,7 @@ Electronic Payment Directive	14014
 Electronic Payment Directive. The Federal Government	14014
 Electronic Payment Forum and Exhibition	4680,13064
 Electronic Payment Forum and Exhibition URL	17744
+Electronic Payment Gateway HBF Government of Tanzania	19585
 Electronic Payment Management System	12270
 Electronic Payment Platform	18767
 Electronic Payment Service Provider	10418
@@ -511,7 +517,7 @@ Electronic Payment Services Citation	5687
 Electronic Payment Services Provider	5687
 Electronic Payment Services Regulations	5687
 Electronic Payment Switch	16876
-Electronic Payment System	11134
+Electronic Payment System	11134,8451
 Electronic Payment Technology and Tax Compliance	18318
 Electronic Payment Terminal. SECTION	15566
 Electronic Payment and Settlement System	12286
@@ -540,6 +546,7 @@ Enhanced Payment System	16944
 Enhancing Cross-Border Payments	13388
 Enhancing Retail Digital Cross-border Payments for Africa	2777
 Enhancing Trade Facilitation and Digital Payments	13042
+Enterprise Resource Management Suite Payroll Module	19584
 Entrepreneurship Activity NPS National Payment System	14897
 Environnemental Pays	17873
 Equal Pay and Employment Opportunities	12389
@@ -593,6 +600,7 @@ External Payment Arrears	13474
 F. Balance of Payments Statistics	14777
 F. Payments	12500
 FACT SHEET Namibia's Instant Payment Solution	12477
+FEE PAYABLE BY A COMPANY	19602
 FEES AND OTHER PAYMENTS	16843
 FGS Pay and Grading	15031
 FINALITY AND IRREVOCABILITY OF PAYMENT SECTION	12484
@@ -627,7 +635,7 @@ Feasibility Study for Social Safety Net Payment	16194
 Federal Parliament of Somalia Passes the National Payment	15021
 Federal Pay Officer	18260
 Fee Payments	10664
-Fees Payable	12365,9
+Fees Payable	12365,9,7228
 Fermé Notice Type Pays Membre	16662
 Fetan Pay. Having	11620
 File Online Payment Receipt	14675
@@ -638,6 +646,7 @@ FinTech Companies and Payment Service Providers RMAFC	9750
 FinTech Happy Pay	3111
 FinTech and Digital Payments	6938
 FinTech and Digital Payments In the UMOA	6938
+Finality of Payment and Netting Arrangements	19509
 Finance E ENS ArticleThird-party Payment Providers	6998
 Financial Services Act and National Payment Systems	14844
 Financial Stability Payments	11134
@@ -696,6 +705,7 @@ Government Digital Payments	12321,2225
 Government Digital Payments Platform	14546
 Government Digital Payments Taskforce	12321
 Government Digital Payments Unit	12321,2225
+Government Electronic Payment Gateway	19533,51,1
 Government Electronic Payment Gateway ZamPortal and ZamPay	7191
 Government Enabling Services Payment Gateway BNR	12359
 Government Paying Accounts	13420
@@ -817,9 +827,10 @@ Interbank Society and Payment Systems	11941
 Interbank and Payment System Company	15453
 Interest Payment Date	15399
 Interest Payment Frequency	15905
+Interest Payments	19602
 Interface BOP Balance of Payment CPI Consumer	17149
 Interim Payment Certificate	14546
-Interim Payment Certificates	14546
+Interim Payment Certificates	14546,5039
 International IDLO du Royaume des Pays-Bas	18224
 International Trade and Balance of Payments	2775
 Interoperability of Payment Systems	12389
@@ -926,6 +937,7 @@ MIS and Payment Gateway	12335
 MOFEA Payroll	16858
 MONDIALE NOM DU PAYS	16194
 MULTILATERAL PAYMENT PLATFORMS CONTEXT Cross-border	13388
+MWAUWASA HR and Payroll Processes	19584
 Machine Modules. This Payments Switch	11131
 Madame Anne-Marie KONAN PAYNE	15712
 Make Payment	11877
@@ -1014,6 +1026,7 @@ NIBSS Instant Payment	4848,4904,1386,862
 NIBSS Instant Payments	3391,1465,5863
 NIBSS Payment	12000
 NIBSS Unveils the National Payment Stack	4972
+NIDA and Payroll Systems	19585
 NIGERIA REMITA ONAFRIQ PAY-IN	17242
 NO. PAYMENT TYPES	16844
 NO. TURNOVER TAX PAYABLE TAX PAYABLE	6921
@@ -1027,6 +1040,7 @@ NPLs Non-Performing Loans NPS National Payment	15023
 NPS Payment Trends Table	13076
 NTR Payment Mobile App	18588
 NUMBER OF PAY TV SUBSCRIBERS	11211,51
+NaPA National Payment Application NGO Non-Governmental	19544
 Naira Payment Solution	2287
 Naira Wallet Payments	4901
 Namibia National Payment System Vision and Strategy	13076
@@ -1095,7 +1109,7 @@ National Payment System. PART III	12365
 National Payment System. Such	13206
 National Payment System. The Committee	11289
 National Payment Systems	3964,3014,4982,430,100,898,1431,15
-National Payment Systems Act	958,2099,970,2204,765,5368,126,633,165,1,114,129,34,918,244,2,79,25,9,1,785,2833,490
+National Payment Systems Act	958,2099,970,2204,765,5368,126,633,165,1,114,129,34,918,244,2,79,25,9,1,785,2833,490,557,37
 National Payment Systems Act No	13347
 National Payment Systems Act Number	12364
 National Payment Systems Act The National	13289
@@ -1125,6 +1139,7 @@ National Payments Corporation of India. Today	14744
 National Payments Council	3391,9923
 National Payments Digital Financial Policy	958
 National Payments Directorate	7178,14
+National Payments Gateway	19532
 National Payments Infrastructure	11985
 National Payments STAKEHOLDER RESPONSIBILITY	16926
 National Payments Strategy	7753
@@ -1176,6 +1191,7 @@ Nigeria’s Instant Payments	4357
 Nigeria’s National Payment Stack	4972
 Nigeria’s Payments System Vision	11138
 Nimba Pay	7730
+No. Year Loan Name of Loan Payment	19585
 Noki Pay	11911
 Non-Bank Payments System Providers	7763
 Non-Bank Payments System Providers Usage	7763
@@ -1212,17 +1228,20 @@ Open Digital Payment Ecosystems	1019
 Operations of Electronic Payment	16878
 Opinion PROCESSING OF PAYMENTS OF SUBVENTED	18576
 Opportunity Palestine Partnership Payment Platform Policy	5322
+Order of Government. THE NATIONAL PAYMENT SYSTEMS	19509
 Organisation des Pays	3045,12712
 Organisation des Pays Exportateurs de Pétrole	18988
 Organismes des Pays	15666
 Oui Non Burundi Pays	13390
 Outside of Paystack	13273
+Overdrawing of Deposit Funds and Payment Without Quoting	19585
 Oversight of Payment	13468
 Ozow's Pay	8432
 Ozow. The Payments Ecosystem Modernisation	5691
 P. ON COMESA DIGITAL RETAIL PAYMENT	13440
 P2G Energy Access Payments	12444
 P2G Payments	11130
+PAC Public Accounts Committee PMG Paymaster	19585
 PACAD. Payment	15658
 PAFEN Pays	13567
 PAN Payments Association of Namibia PSM Act	13076
@@ -1233,6 +1252,7 @@ PAPSS Pan African Payment and Settlement System	13388
 PAPSS Pan-African Payment	11002,6240,1247
 PAPSS Pan-African Payment and Settlement System RPA	10718
 PART II. REGULATORY REQUIREMENTS FOR PAYMENT	16878
+PART IX PAYMENT AND RECOVERY	19527
 PART V COMPLIANCE REQUIREMENTS FOR PAYMENT	12374
 PART V DESIGNATION OF PAYMENT SYSTEMS	12938
 PART V SPECIFIC REQUIREMENTS FOR PAYMENT	12365,720
@@ -1260,6 +1280,7 @@ PAYGo Pay-as-you-go	18620
 PAYGo Pay-as-you-go PIB Produit	18316
 PAYMENT	12374,603
 PAYMENT ACCEPTANCE POINTS	15023
+PAYMENT AND RECOVERY OF TAX	19527
 PAYMENT AND SETTLEMENT SYSTEM QUARTER ENDED	12364
 PAYMENT ARRANGEMENTS Payments	17287
 PAYMENT INFRASTRUCTURE The DRC	11960
@@ -1279,7 +1300,7 @@ PAYMENT SERVICE PROVIDERS IN NAMIBIA	13085
 PAYMENT SERVICES	7391,7337
 PAYMENT STREAM RTGS POS ATMS MOBILE	6978
 PAYMENT STREAM SECOND QUARTER ENDING	4517
-PAYMENT SYSTEM	13206,1817
+PAYMENT SYSTEM	13206,1817,4486
 PAYMENT SYSTEM DEVELOPMENT	15023
 PAYMENT SYSTEM MANAGEMENT ACT	12943
 PAYMENT SYSTEM OPERATOR	12374
@@ -1350,6 +1371,7 @@ Pan-African Payments and Settlement System	9930
 Pan-African Payments and Settlements System	16497
 Panorama du Pays	15680
 Part B Payment	11181
+Part. PART IV PAYMENT INSTRUMENTS	19509
 Partial Payments. If the Borrower	16219
 Participation Fee Required Payment	13621
 Partner States. Payment	3238
@@ -1405,7 +1427,10 @@ Pay and Boxer	611
 Pay and Checkers	6996
 Pay and Grade	15029
 Pay and Resignation Officers	14745
+Pay for Inputs Animal Feed Seeds Processed	19554
+Pay for Inputs Seeds Processed Holdings Consumption	19554
 Pay for Performance for Improved Health	15977
+Pay for Results	19519
 Pay for Transfer	12333
 Pay-As-You Earned	17105
 Pay-As-You-Go	6671,275,5453,281,6583
@@ -1440,7 +1465,7 @@ PayLogic Launches National Payment Switch	3495
 PayLogic SA	3830
 PayLogic's Expanding Footprint	3495
 PayMoney	18152
-PayPal	2589,3761,18,840,1943,345,83,2495,285,1093
+PayPal	2589,3761,18,840,1943,345,83,2495,285,1093,5994
 PayPal Details Vaughan O'Grady Category	6350
 PayPal Ventures	11300
 PayPal and M	6350
@@ -1492,7 +1517,7 @@ Payeur Général	17899
 Payeur Général du Trésor	17899
 Payez	5959
 Payhippo	10284
-Paying	6796,1815,2365,898,5,2,465,154,2485,1567,337,228,39,95,619
+Paying	6796,1815,2365,898,5,2,465,154,2485,1567,337,228,39,95,619,1715
 Paying Customers Article	12616
 Paying Taxes	12376,5733
 Paying Taxes Score	18109
@@ -1505,9 +1530,10 @@ Payload the Beninese	8713
 Paylog	11939
 Paylogic	11955
 Paymaster	13533
-Paymaster General	6921,2571
+Paymaster General	6921,2571,10092,1,17
+Paymaster General and Accounting Officers	19585
 Paymaster's Office	13533
-Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,98,214,44,22,44,135,13,153,1,38,12,37,332,305,2,12,86,1,4,16,10,14,8,33,170,3,55,1,65,23,1,5,1,9,15,11,2,3,4,38,7,36,181,241,26,93,11,11,24,8,100,103,43,1,1,24,25,13,25,32,22,92,419,29,123,256,29,5,31,4,84,128,43,11,50,4,37,15,9,15,39,22,78,26,97,5,247,106,88,63,29,1,4,238,76,167,109,299,77,213,1,35,7,93,22,11,97,6,24,105,6,1,117,361,96,25,57,198,197,18,129,2,12,11,70,13,20,185,126,67,30,1,46,206,47,81
+Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,98,214,44,22,44,135,13,153,1,38,12,37,332,305,2,12,86,1,4,16,10,14,8,33,170,3,55,1,65,23,1,5,1,9,15,11,2,3,4,38,7,36,181,241,26,93,11,11,24,8,100,103,43,1,1,24,25,13,25,32,22,92,419,29,123,256,29,5,31,4,84,128,43,11,50,4,37,15,9,15,39,22,78,26,97,5,247,106,88,63,29,1,4,238,76,167,109,299,77,213,1,35,7,93,22,11,97,6,24,105,6,1,117,361,96,25,57,198,197,18,129,2,12,11,70,13,20,185,126,67,30,1,46,206,47,81,150,12,3,2,53
 Payment A. Ceiling For Services	13037
 Payment Access Devices	4517,2461
 Payment Access Points	4517,2461
@@ -1534,7 +1560,9 @@ Payment Dates. The Payment Dates	16219
 Payment Ecosystem Modernisation	8571
 Payment Establishment	10942
 Payment Facility	14729
-Payment Gateway	4609,1930,5796,24,558,535,3426
+Payment Gateway	4609,1930,5796,24,558,535,3426,2706
+Payment Gateway GePG Government of Tanzania Health	19584
+Payment Gateway HIDU High Dependency Unit	19544
 Payment Gateway Integration	12711
 Payment Gateway Operators	7909
 Payment IBRD	10768
@@ -1551,6 +1579,7 @@ Payment Instructions Submitted	12364
 Payment Instructions and Account Transfers	12484
 Payment Instrument Issuer	14014
 Payment Instrument Issuers	7909,4360,1745,18
+Payment Instruments	19509
 Payment Instruments Subscribers Figure	15023
 Payment Integration Pay	12211
 Payment Interchange Technology	12490
@@ -1675,6 +1704,8 @@ Payment Terminal Service Aggregator	3491
 Payment Terminal Service Providers	3491,3207,237
 Payment Terms and Method	13621
 Payment Type	13621
+Payment Vouchers	19585
+Payment Vouchers and Imprest	19585
 Payment Workﬂow Implementation Payments Gateways Integration	13395
 Payment and Pension Increases	14828
 Payment and Settlement System	10718,1282,214
@@ -1693,10 +1724,13 @@ Payment of Avoidable Commitment Fees	14546
 Payment of Bills	17243
 Payment of Capital Assets	11224
 Payment of Guaranteed Loan	14546
+Payment of Health Facilities	19585
 Payment of Incorporation Fees Available Through Online	12389
 Payment of Interest. The Borrower	16219
+Payment of Interim Certificates TZS	19585
 Payment of Invoices	12358
 Payment of Lumpsum and Monthly Arrears Review	14546
+Payment of Penalties and Interests Due	19585
 Payment of Salary Review	14546
 Payment of School Fees Deposits	12977
 Payment of Tax	12629,4479
@@ -1715,7 +1749,7 @@ PaymentSecurity	9452,39
 PaymentSystems	9516,2698
 Paymentology	5795
 Paymentology Enters the Middle East’s Digital Payments	7156
-Payments	573,581,37,52,209,501,377,605,147,79,157,73,192,131,452,211,346,125,48,25,67,136,131,42,92,144,146,12,172,505,567,3,218,65,170,186,24,88,208,31,179,21,1,123,345,130,866,23,287,107,145,537,137,24,48,229,725,85,15,30,1,22,206,38,7,62,14,8,21,25,3,52,10,46,11,17,148,160,79,61,1,60,16,55,39,38,103,26,106,57,533,536,53,185,35,15,63,88,12,83,50,72,170,108,39,139,136,1082,8,1,38,55,33,19,112,93,671,198,5,89,246,4,25,36,47,105,226,98,252
+Payments	573,581,37,52,209,501,377,605,147,79,157,73,192,131,452,211,346,125,48,25,67,136,131,42,92,144,146,12,172,505,567,3,218,65,170,186,24,88,208,31,179,21,1,123,345,130,866,23,287,107,145,537,137,24,48,229,725,85,15,30,1,22,206,38,7,62,14,8,21,25,3,52,10,46,11,17,148,160,79,61,1,60,16,55,39,38,103,26,106,57,533,536,53,185,35,15,63,88,12,83,50,72,170,108,39,139,136,1082,8,1,38,55,33,19,112,93,671,198,5,89,246,4,25,36,47,105,226,98,252,348,17
 Payments ARTICLE	12771
 Payments Across Eastern Africa	3238
 Payments Africa	47,332
@@ -1732,6 +1766,7 @@ Payments Directive Interpretation Note	12390
 Payments Ecosystem	6413
 Payments Ecosystem Modernisation	4824,584,1264,581,1347,2636
 Payments End Game	5863
+Payments Executed Through Cash Instead of Banking	19585
 Payments First	6998
 Payments Gateway	16878
 Payments Governance	12444
@@ -1819,6 +1854,7 @@ Payroll	7648,3137,27,484,2,999,825,1063,361,1073,1224,15,1642,77,660
 Payroll Account	16978
 Payroll Act	16874
 Payroll Corporate	11955
+Payroll Data	19585
 Payroll Discussion Annual	18577
 Payroll Ghosts and Duplicated Salaries Mr Mabiala	9517
 Payroll Investments Asset Management and Insurance	9437
@@ -1873,6 +1909,7 @@ Pays de I'Emprunteur	15399
 Pays du Sahel	8891
 Pays du Voisinage Sud	17474
 Pays-Bas	5718,181,714,2278,4434,2257,1866,977,563
+Pays-Bas. Atelier	19402
 Pays-Bas. La Convention Apostille	9086
 Pays-bas	16249
 Pays. Article	15382
@@ -1917,6 +1954,7 @@ Peach Payments' Mauritius	6215
 Penalty Payments	12333
 Pending Accounts Payable	14546
 Performance Assessment Report Template I. Payment	12500
+Permanent Secretary and Paymaster General	19602
 Person Payments	11867
 Person-to-Merchant Payments Are the Harder	10277
 Personal Income Tax Payment	16949
@@ -1998,6 +2036,7 @@ Regional Payments Framework Gateway	745
 Regional and Global Payments Evolution	13076
 Register of Payment Service Providers	13566
 Registry Online Payment	13333
+Regular Payment of Tax	19527
 Regulating Competing Payment Networks	5700
 Regulation of Payment System for Member	11550
 Regulatory Payment Framework	13052
@@ -2102,6 +2141,7 @@ Single Payments Network	6677
 Single Point of Payment	12389
 Single State Payments Reference	10762
 Single TRN Requests for PAYE	11298
+Single Window Payment System. The Government	19602
 Skosana Balance of Payments	11134
 Skosana PayInc PayShap South African Reserve	6286
 So Policymakers Should Pay Close Attention	1243
@@ -2156,6 +2196,7 @@ Sudan's National Payment Switch	9451
 Sudan's National Payment System Director	3679
 Superficie du Pays	18757
 Supervision Payment	11131,3
+Supply and Payroll	19584
 Support Banking Department Payment Systems Services	17235
 Support for Digital Payments	603
 Supporting Diverse Payment Needs Across Markets	8477
@@ -2180,6 +2221,7 @@ TANQR Pay Number	6453
 TAT SYNOPTIQUE DE L'ACTIVITÉ PAR PAYS	4459
 TATS MEMBRES DE L’UEMOA PAYS INITIATIVES	10711
 TAX LIABILITY AND PAYMENT Part	11181
+TAX PAYERS AND TAX CONSULTANTS	19527
 TCIB Cross-Border Payment Scheme	5263
 TCIB Payment	12836,311
 TH CYCLE OF LEAP PAYMENTS URL	15859
@@ -2195,7 +2237,7 @@ TUDES DANS LE PAYS	18143,27
 TYPES OF ELECTRONIC PAYMENT SERVICES	12542
 Take Or Pay	2342
 Take and Pay	2342
-Tanzania Instant Payment System	269,14,238,990,4466,839,376,943,330,1812,7298
+Tanzania Instant Payment System	269,14,238,990,4466,839,376,943,330,1812,7298,2027
 Tanzania Instant Payment System Phase	1511
 Tanzania Instant Payment System Proof of Concept	14282
 Tanzania Instant Payments System	2857,10531
@@ -2204,7 +2246,7 @@ Tanzania’s Instant Payment System	7178
 Tap N Pay	9533
 Tax OTTs Over-the-Top Technologies PAYE Pay	12395
 Tax Online for Domestic Tax Payments	12453,892
-Tax Payer Identification Number	22
+Tax Payer Identification Number	22,19496
 Tax Payer Portal	14750
 Tax Payment Mini App	8102
 Tax Payment Solutions	12711

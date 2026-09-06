@@ -208,7 +208,9 @@ CONSUMER-CREDIT MARKET Credit	11198
 CONTROLE DES ETABLISEMENTS DE CREDIT	17443
 CONTROLE DES ETABLISEMENTS DE CREDIT Article	17443
 CONTROLE DES ETABLISEMENTS DE CREDIT Pour	17443
+CPF Country Partnership Framework CRES Center	19455
 CPO Credit Reference System CRS Credit	17235
+CRE Civil Society Organizations CSOs Department	19519
 CRE Venture Capital	9616
 CRE Venture Capital Fund III	1050
 CRE Venture Capital and Janngo Capital	1138
@@ -264,6 +266,7 @@ CREATIVE MESH INTERNATIONAL LTD Data Processor	7167
 CREATIVES	15999
 CREAW	14460
 CRECT-WATRA	5677
+CRED. D. Guha-Sapir	19520
 CREDAF	15625,1,1098,1148
 CREDAF URL	16724
 CREDD	16852,990,3,27,142
@@ -328,6 +331,7 @@ CRENI	14622,4604
 CREOLINK	15542
 CREOP-Jeunes	9270
 CREPTIE SOLUTIONS LIMITED Data Processor INST-7341460E371	7167
+CRES and CGPS	19455
 CRESCENT INSURANCE BROKERS LIMITED Data Controller	7167
 CRESCENT INSURANCE BROKERS LIMITED Data Processor	7167
 CRESCIMENTO ANUAL	11531
@@ -421,7 +425,7 @@ Crear Infraestructuras	16865
 Crear Un	16865
 Crear Unidades de Negocio	1701
 Creat Educ	17773
-Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1153,133,1,635,193,44,10,44,4,6,80,51,4,40,3,10,114,2,7,56,40,29,10,579,3,6,43,46,12,22,49,152,6,17,4,27,5,82,17,11,8,12,29,14,25,64,4,39,12,112,5,13,61,7,2,8,8,144,16,98,58,200,15,4,6,39,345,164,123,33,442,100,35,50,4,19,49,67,22,6,61,18,16,34,18,32,37,86,9,1,31,3,283,26,7,33,40,51,109,132,94,38,211,24,388,233,19,9,2,3,6,12,37,6,12,3,1,8,12,3,9,21,22,50,46,25,18,103,63,1,46,500,14,154,1,441,17,22,3,15,18,9,231,90,26
+Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1153,133,1,635,193,44,10,44,4,6,80,51,4,40,3,10,114,2,7,56,40,29,10,579,3,6,43,46,12,22,49,152,6,17,4,27,5,82,17,11,8,12,29,14,25,64,4,39,12,112,5,13,61,7,2,8,8,144,16,98,58,200,15,4,6,39,345,164,123,33,442,100,35,50,4,19,49,67,22,6,61,18,16,34,18,32,37,86,9,1,31,3,283,26,7,33,40,51,109,132,94,38,211,24,388,233,19,9,2,3,6,12,37,6,12,3,1,8,12,3,9,21,22,50,46,25,18,103,63,1,46,500,14,154,1,441,17,22,3,15,18,9,231,90,26,608,12,1,2,41
 Create AI	12675
 Create AI Act	2816
 Create AI Special Economic Zones	12210
@@ -454,10 +458,10 @@ Create the National Committee for Statistics	16863
 Create the National Research and Innovation Institute	14747
 Create-Thon	9641
 Create-thon	9641
-Created	395,941,244,2,497,2368,6423,1479,688,21,360,53,1180,346,405,684,180,966,134,104,35,365,168,271,179,12,482,260,42
+Created	395,941,244,2,497,2368,6423,1479,688,21,360,53,1180,346,405,684,180,966,134,104,35,365,168,271,179,12,482,260,42,197
 Created Fri	14105
 Creates	3495,7546,88,1117,198,2553,3678,562
-Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18,144,21,11,11,22,79,2,3,62,41,232,278,114,1,44,80,55,84,46,39,23,90,6,30,36,4,33,21,25,85,111,10,75,175,5,25,13,10,327,17,14,12,120,514,13,44,103,227,125,73,19,79,49,6,23,84,61,25,25,50,2,165,247,13,49,45,83,112,1159,12,1,57,9,12,7,5,21,74,87,103,602,8,662,75,33,46,60,24,134,103
+Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18,144,21,11,11,22,79,2,3,62,41,232,278,114,1,44,80,55,84,46,39,23,90,6,30,36,4,33,21,25,85,111,10,75,175,5,25,13,10,327,17,14,12,120,514,13,44,103,227,125,73,19,79,49,6,23,84,61,25,25,50,2,165,247,13,49,45,83,112,1159,12,1,57,9,12,7,5,21,74,87,103,602,8,662,75,33,46,60,24,134,103,390,122,13,2,21
 Creating Africa’s Largest Standalone Data Centre	14673
 Creating Conducive Digital Economy Environment	1795,1413,3881
 Creating Digital Skills	1953
@@ -491,7 +495,7 @@ Creating the Ghana Global AI Summit	4126
 Creating the National Payment Systems Advisory Committee	17188
 Creating the National Picture	4528,7984
 CreatingOneAfricanMarket	9034
-Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15,273,417,308,3,9,34,6,46,197,39,20,33,12,42,64,170,566,200,162,952,21,103,7,134,55,19,4,21,97,502,139,7,60,23,78,110,290,65,131,423,152,1,64,12,66,3,200,64,104,249,2,269,409,156,18,303,53,127,292,3,80
+Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15,273,417,308,3,9,34,6,46,197,39,20,33,12,42,64,170,566,200,162,952,21,103,7,134,55,19,4,21,97,502,139,7,60,23,78,110,290,65,131,423,152,1,64,12,66,3,200,64,104,249,2,269,409,156,18,303,53,127,292,3,80,199,8
 Creation Latest	10151
 Creation Model The Financial Stability	11134
 Creation Strategic Quadrants	14151
@@ -509,6 +513,7 @@ Creation of Intelligent	14729
 Creation of Jobs	19284
 Creation of Knowledge Sharing Platforms	15845
 Creation of Liberia Electricity Regulato	16851
+Creation of OCDS	19539
 Creation of Opportunities for Youth and Women	18689
 Creation of Registry Shops	10775
 Creation of Route Redundancy	11857
@@ -568,7 +573,7 @@ Creative Digital Solutions	9533
 Creative Director	4896
 Creative Economy Talent Exposition	14226
 Creative Economy. The Treasury	7831
-Creative Europe	970
+Creative Europe	970,18426
 Creative Hub Africa	18487,36
 Creative Hub Africa and E-Women Innovation Hub	18487
 Creative Industries	602,14858
@@ -579,12 +584,15 @@ Creative Series	8943
 Creative Services	16266
 Creative Studio	14999
 Creative and Cultural Industries	13487
+Creative and Heritage	19519
 Creatives	1564
 Creatives Win Millions... Africa Told	4942,664,283,454,183
 Creatives and Diaspora	8149
-Creativity	12175
+Creativity	12175,7401
 Creativity and Change	8021
 Creativity and Innovation Skills	12914
+Creativity and Innovative	19576
+Creativity and Innovative Solution	19576
 Creator	6351,3621,1980
 Creator Rewards Programme	7602
 Creators	1363,729,6057,1823,820
@@ -613,7 +621,7 @@ Credibility	1988,6033,3895,330,2300,350
 Credibility and Quality	13359
 Credibility and Reliability Achievements	16944
 CredibilityCredibility	7278
-Credible	8987,4474
+Credible	8987,4474,6124
 Credible Elections	5390
 Credible Evidence Generation GHAI	13608
 Credible Knowledge Foundations	18461
@@ -657,7 +665,7 @@ Credit Growth Differs	11105
 Credit Guarantee Mechanism for MSMEs	15179
 Credit Guarantee Scheme	7763,4613
 Credit Guarantee Scheme Application System	11134
-Credit Guarantee Schemes	7763
+Credit Guarantee Schemes	7763,11839
 Credit Guarantee Schemes Scheme Name Incumbent	7763
 Credit Guarantee Vehicle	11236
 Credit IDA	1771
@@ -665,6 +673,7 @@ Credit Informa- Financial Market Infrastructure	14897
 Credit Information	12389,5720
 Credit Information Bureau India Ltd	18543
 Credit Information Coverage	12389
+Credit Information Reference Bureau-CIRB	19592
 Credit Information Sharing Association of Kenya	7167
 Credit Information System	11755,7170
 Credit Information System Law	14997
@@ -760,7 +769,7 @@ Creditinfo	12104
 Creditinfo Central Africa	16075
 Creditinfo Central Africa Par Décision	15950
 Creditinfo West Africa	9800
-Creditor	13868,845,3196,81,566
+Creditor	13868,845,3196,81,566,1046
 Creditor Representation	12389
 Creditor's Rights	12389
 Creditors	1828,703,9858,1296,183,3104,1584
@@ -778,6 +787,7 @@ Creemers	11154
 Creer	15584,2261
 Creeunxt	15493
 Crefdl	16087
+Cregnatneirzfaotrioangricultural	19519
 Crei Networks	3862
 Crelicam	12517
 Cremers	11156
@@ -865,6 +875,7 @@ DIRECT CREDITS	16844
 DISPOSITIONS RELATIVES A LA CREATION DES	15419
 DJ ON A CREDIT	13836,25
 DK Createch	15708
+DOCUMENT CONTROL Creation of Document	19533
 DOCUMENT FOR A PROPOSED CREDIT	19239
 DOCUMENT ON A PROPOSED CREDIT	989,9975,891,1477,2040,143,106,122,641,565,1344,8
 DOCUMENT ON PROPOSED CREDITS	1264,17981
@@ -1062,6 +1073,8 @@ Funding Flows Favour Adoption Over Creation	7921
 Funds Credit Bureau World Bank International	12701
 Future Plans CREWS	11191
 G- Creating	582
+GA Creation	19576
+GA Creation of Document	19575
 GCF-SAP CREWS Scaling Up Framework for Early	17065
 GDP Creative	11884,321,146
 GENERAL INFORMATION National Credit Regulator	11198
@@ -1189,6 +1202,7 @@ Innovation and Creativity Displays	7572
 Innovation and Creativity Promotion	11250
 Input Tax Credit	12630
 Insolvency and Creditors' Rights	17441
+Insolvency and Trusteeship Agency SACCOS Savings and Credit	19531
 Integrated Company Creation Journey	12259
 Intelligence for Driving Transformation and Creating	6948
 International Development Agency Credits and Grants	17180
@@ -1205,7 +1219,7 @@ JOB CREATION	13474
 JOB CREATION POTENTIAL IN DIGITAL HEALTH	19284
 JOURS A PARTIR DU CREDIT SUR	17833
 Japan Credit Rating Agency	7785,4024
-Job Creation	4535,6940,316,454,88,342,385,414,13,198,1775,271,1244
+Job Creation	4535,6940,316,454,88,342,385,414,13,198,1775,271,1244,2557
 Job Creation And Employment	11245
 Job Creation Bust	14673
 Job Creation Egypt	16266
@@ -1217,6 +1231,7 @@ Job Creation and Skills Development	12210
 Job Creation. Eswatini	3373
 Jobs Created	12493
 Jobs Job Creation Public Private Partnerships	15424
+Joint Crediting Mechanism	19489
 J’AI UN CREDIT DE TVA POUR	16629
 KB Created	14087,4995
 KYC Education Credit	12214
@@ -1527,6 +1542,7 @@ Reduction of Credit	15802
 Region Regional Institution Credit Grant SML	16144
 Regional Patterns of Content Creation	226
 Regional Public Credit Registry	15447
+Registrar. Creation	19524
 Registre CRENI	19226
 Registry. CREATING A CLIENT ACCOUNT	13333
 Registry. To Create	13333
@@ -1562,13 +1578,14 @@ SMEs Job Opportunities Created	15268
 SO-2- Create	13991
 SPECIFIC ACTION Create	1161
 SUR LE CREDIT Article	15903
+Salama Creek	19592
 Sandy's Creation Resort	13623
 Saving and Credit Cooperatives	15138
 Savings Credit Insurance Remittances	418
 Savings and Credit Co-operatives	12409
 Savings and Credit Cooperative Organisations	4801,5498
 Savings and Credit Cooperative Organizations	14640
-Savings and Credit Cooperative Societies	940,6823,4468
+Savings and Credit Cooperative Societies	940,6823,4468,7300
 Savings and Credit Cooperatives	940,1835,5233,7015,107
 Savings and Credit Cooperatives DPP Director of Public	2775
 Scale-Up Window Credit	784,14182
@@ -1738,7 +1755,7 @@ World Bank Group Job Creation Strategy	11486
 World Bank IDA Credit World Bank	15386
 World Bank's ID Credit Program	2252,352
 World Bank. CREWS Central Africa	16137
-XML JSON Created	15024,820,1201
+XML JSON Created	15024,820,1201,2568
 Xavier Creach	12811
 Xavier Crespin	16454
 YAKUBU GOWON CRESCENT	16243,1693

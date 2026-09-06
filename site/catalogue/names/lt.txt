@@ -85,6 +85,7 @@ ARC Resources Ltd	3583
 ARCHMAN HOLDINGS LTD Data Processor INST-943095BFF4E	7167
 ARGENT CYBER X AFRICA LTD Data	7167
 ARMAAN LTD Data Controller INST-284135866B1 NAIROBI	7167
+ARPU LTE-TDD	19440
 ARTLINE CREATIONS LTD Data Controller INST-113186F3EE4	7167
 ARWOS CAPITAL LTD Data Controller INST-1146225DE26	7167
 ARWOS CAPITAL LTD Data Processor INST-1146225DE26	7167
@@ -127,6 +128,7 @@ Agro-Chemical and Food Co. Ltd	14546
 Agro-Chemical and Food Company Ltd	14546
 Ahadi Wireless Ltd	6671
 Ainabkoi Farmers Sacco Society LTD Data	7167
+Air Tanzania Company Ltd	19584
 Airport Terminal Operations Ltd	10045,4708
 Airports of Mauritius Co Ltd	14830
 Airtel Networks Ltd	3862,3084
@@ -154,6 +156,8 @@ Arif Investment Ltd	3862
 Arif Investment Nig Ltd	3862
 Arif Investment Nigeria Ltd	3862
 Arinifu Technologies LTD Data Controller INST-104373E0867	7167
+Arusha Meat Company LTD	19585
+Arusha Meat Company Ltd	19585
 Ascend Digital Solutions Ltd	4326
 Aso Motel Kaduna Ltd	18154
 Aso Motel Ltd	18154
@@ -419,6 +423,7 @@ Colourprint Ltd. Nairobi	14409
 Combined Auto Services Ltd Data Controller	7167
 Comium Gambia Ltd	16886
 Communications and Technology and Google Cloud EMEA Ltd	5799
+Company LTD	19585
 Compea LTD Data Controller INST-454616C800D NAIROBI	7167
 Compea LTD Data Processor INST-454616C800D NAIROBI	7167
 Concepts Ltd	718
@@ -785,6 +790,7 @@ Ivanhoe Mines Ltd. Initial	15952
 JEDCO Juba Electricity Distribution Company Ltd	18620
 JUMO World Ltd	294
 JUZA AI LTD	8209
+JV Biotech Enterprises Co Ltd	19534
 Jadon Webtech Pvt Ltd Go	18810
 Jamii Telecommunications Ltd	3625,3046,159,116
 Juniper Solutions Ltd	3862
@@ -814,6 +820,7 @@ L MANAGEMENT LTD Data Controller INST-971303AEBD1	7167
 L RUSSKY ALUMINY LTD RUSSKY ALUMINY	16623
 LDC Least Develop Country LTE Long	16883
 LEOGC LTD	18523
+LGAs Local Government Authorities LTPP Long	19520
 LISGIS LTA	17260
 LRD Liberian Dollars LTA Liberia Telecommunications	16876
 LRPS Ltd	15296
@@ -925,11 +932,13 @@ LTD Data Processor INST-584549FAC38 NAIROBI Kenya	7167
 LTD Data Processor INST-6141722351B NAKURU Kenya	7167
 LTD Data Processor INST-944724CBB35 NANDI Kenya	7167
 LTD FSCA	8354
+LTD Limited	19590
 LTD PROPOSED AMENDED CONSTITUTION	8866
 LTD SAU GEM INTELLIGENCE COMPANY LTD	16623
 LTD Y WI- Mongomo	4209
 LTD Y WI- Mongomo FI	4209
 LTD. Data Controller INST-5146773CC00 NAIROBI Kenya	7167
+LTDPP	19520
 LTE Android	9997,35
 LTE Evolution	15474
 LTE LTE-Advanced	17743
@@ -949,7 +958,7 @@ LTE-4G. Señoras	16865
 LTE-Advanced and WiMAX	15471
 LTE-FDD	16942
 LTE-M	11016
-LTE-TDD	16942
+LTE-TDD	16942,2498
 LTE-capable	5341
 LTE-covered	17723
 LTE. The Meaningful	17743
@@ -1032,6 +1041,7 @@ Lt. General Cyier	18735
 LtLuSPRHtxA	5363
 Ltd Act	396
 Ltd Airtel Rwanda Ltd Jun-19 Jun-20	718
+Ltd BOOST Annual Performance Agreement BoT	19585
 Ltd Bundle Validity Bundle Name MBs	718
 Ltd Central Bank of Nigeria	6938
 Ltd Cession Masvingo	4896
@@ -1048,6 +1058,7 @@ Ltd Namclear	6938
 Ltd POPIA Five Years Later	7055
 Ltd Telkom Kenya Ltd Target	6946
 Ltd Total Outgoing SMS	15136
+Ltd Using ERMS Rubikon ERP	19584
 Ltd and Another	2307
 Ltd and Azam Media Rwanda Ltd	15136
 Ltd and Comsoft	2735
@@ -1137,6 +1148,7 @@ MobileMoney Fintech Ltd	5709,2316,788
 MobileMoney Ltd	5709
 Modou Njie and Chief of Defence Staff Lt	17241
 Mombasa Bulk Terminal Ltd	12256
+Moody's Investors Service and Fitch Ratings Ltd	19602
 MoveOn Telecoms Ltd	6394
 MtM LTE and Wireless Internet	11259
 Multi Dimensions Technology Ltd	3862
@@ -1207,6 +1219,7 @@ Perle Logistic Ltd	14753
 Perle Logistics Ltd	14753
 Perle Logistics Ltd. and Perle de La Savanne	14753
 Permanent Secretary Lt. Gen. Joseph Musanyufu	9386
+Pesalink Tanzania Ltd	19534
 Petroleum Gas LTE Long Term Evolution	718
 Plascon-Evans Paints Ltd	2307
 Platinum Index Data Comm Ltd	3862
@@ -1353,6 +1366,7 @@ Stream Networks Ltd	3862
 StreamNetworks Ltd	3862
 Suburban Broadband Ltd	3862
 Suburban Ltd	3862
+Supply Company Ltd ETDCO	19584
 Surface Wilmar Private Ltd	13562
 Surfspot Communications Ltd	3862
 Swifftalk Ltd	3862
@@ -1371,6 +1385,8 @@ THISDAY NEWSPAPERS LTD	2355,176,4,1,56,3,339,96,901,1006,1761,673
 TIKTOK PTE. LTD	13462
 TIKTOK PTE. LTD..........................................21	13462
 TNSP Ltd	15136
+Tanga Economic Corridor Ltd	19585
+Tanzania Electric Supply Co. Ltd. Integrated	19584
 Taprap Nig Ltd	3862
 Taprap Nigeria Ltd	3862
 Technation Logistics Ltd	4690
@@ -1413,9 +1429,12 @@ UAF. The LTA	16850
 UMOJA ONE LTD Data Processor INST-8500724A072	7167
 UMTS and LTE	2776,13267
 UNICEF and Barnksforte Technologies Ltd	18266
+Ubungo Plaza Ltd Using ERMS	19584
 Uchumi Supermarket Ltd	14997
 Uchumi Supermarkets Ltd	14546
 Under LTA Regulations	1910
+Unga Ltd July-June	19585
+Unga Ltd Ngarenaro	19592
 Union IXP Internet Exchange Point LTE	13295
 Unique Global Telecommunication Ltd	3862
 United Nations Economic and Social Council LT-LEDS	17101

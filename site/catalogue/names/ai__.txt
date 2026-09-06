@@ -43,7 +43,7 @@ AI . Yup	8629
 AI A Digital Learning Platform	14752
 AI A1- Cross-sectoral AI and Year	7548
 AI A1-Teacher AI	7548
-AI AI	1814,697,1615,3422,3179,1483,1781
+AI AI	1814,697,1615,3422,3179,1483,1781,5530
 AI AI Policy Data	9937
 AI AI Scientific Committee	11135
 AI AIP	13462
@@ -486,7 +486,7 @@ AI Innovation Mainstream Publishers	13462
 AI Innovation Package	1814
 AI Innovation Start-Up Programme	14829
 AI Innovation and Technological Solutions Working Group	8645
-AI Institute	5297,7638,113,956,1709
+AI Institute	5297,7638,113,956,1709,3808
 AI Institute Africa	5411
 AI Institute of South Africa	6886,702
 AI Institute of South Africa Rwanda Ministry	11135
@@ -509,6 +509,7 @@ AI KES	7548
 AI Kenya	7548
 AI Kenya Bureau of Standards	7548
 AI Kill Switch Act	8014
+AI Knowledge Hub	19583
 AI LLMs	13461
 AI LLMs. The Big	13461
 AI Lab	11061,3
@@ -533,6 +534,7 @@ AI List of Abbreviations AI Artiﬁcial Intelligence	1204
 AI Literacy	7548,912,3896,640
 AI Literacy Capacitation Initiative	13182
 AI Literacy Is Now	6948
+AI Literacy Really Means for Building	19595
 AI Literates	12512
 AI Localisation	18523
 AI MACs	17116
@@ -577,6 +579,7 @@ AI Oasis Assistant	17303
 AI Objective	15845,2039
 AI Objectives Flagship Projects Intermediate KPIs	12210
 AI Objectives Flagship Projects Intermediate Outcomes	12210
+AI Observatory Blog	19595
 AI Office	4126,1820,2026,42,515,1,161,1,2358,1625,2077,3028
 AI Office NCRCSA Digital	14752
 AI Office. Citizen Data Hub	14752
@@ -618,7 +621,7 @@ AI Plus	10525
 AI Policies	16212
 AI Policy	3385,741,2497,489,4118,35,1091,2110,4
 AI Policy Corner	10246
-AI Policy Framework	8705
+AI Policy Framework	8705,10904
 AI Policy Framework of South Africa	5363
 AI Policy Is Not the Same	8091
 AI Policy Lab	7112
@@ -831,6 +834,7 @@ AI Talent Readiness Index for Africa	14674
 AI Talent and Capacity Development	4528,7984
 AI Talent and Capacity Development AI Infrastructure	4528,7984
 AI Talent and Capacity Development Zimbabwe	4528,7984
+AI Tanzania	19583
 AI Taskforce	14674
 AI Teacher Capacity Development Programme	8586
 AI Teacher Coach and AI Student Tutor	19128
@@ -849,6 +853,7 @@ AI Tell-Us-Once	14752
 AI The African	4883
 AI The Brussels Effect	17780
 AI The South African Reserve Bank	8664
+AI Thought Leadership Blog What Will	19595
 AI Throughout	9169
 AI TikTok	8431
 AI Tokens	2092
@@ -1011,7 +1016,7 @@ AI and ML	1940,1664,522
 AI and ML Guidance	11265
 AI and ML Outcome Strategic	11237
 AI and MSMEs	7548
-AI and Machine Learning	11268,4445
+AI and Machine Learning	11268,4445,3808
 AI and Ministry	7548
 AI and Music GEMA SACEM Goldmedia.pdf. Accessed	9739
 AI and National	7548
@@ -1361,6 +1366,7 @@ Abbreviations AACB AFI AI AML AML	11134
 Abbreviations AI Arti	18564
 Abdellahi El Moustapha AI Engineer AI	18039
 Abiy’s Vision for AI	11665
+About AI Introduction	19595
 About Presight AI Presight AI	18303
 Absa's AI	10534
 Abstract AI	7451
@@ -1378,6 +1384,7 @@ Accessibility Ensure AI	14566
 Accountability Ensure AI	14566
 Accra AI Community Centre	2209,4721,31,1737,1421
 Achieving AI	2958
+Acronyms AI Artificial Intelligent AI4D Artificial	19521
 Acronyms AfCFTA AI AI4D AISIO API	4528
 Act AI Artificial Intelligence BPO Business	14729
 Action Description Objective International AI	15713
@@ -1466,7 +1473,7 @@ Africa. Social and Cultural Studies of Robots and AI	2816
 Africa. The AI	1814
 Africa. Through the EU's AI Factories	9632
 Africa. While African AI	4253
-African AI	1363,451,278,117,179,1010,461,267,127,5,124,43,19,245,45,149,81,78,53,207,117,94,38,341,22,127,190,19,17,65,45,33,183,74,47,76,18,144,3,42,75,79,74,285,38,25,96,167,136,88,28,38,23,33,24,95,47,204,92,193,282,36,467,20,97,205,133,42,576,106,153,141,236,7,18,854,2356,98,23,1,633,600,632,226,773,221,916
+African AI	1363,451,278,117,179,1010,461,267,127,5,124,43,19,245,45,149,81,78,53,207,117,94,38,341,22,127,190,19,17,65,45,33,183,74,47,76,18,144,3,42,75,79,74,285,38,25,96,167,136,88,28,38,23,33,24,95,47,204,92,193,282,36,467,20,97,205,133,42,576,106,153,141,236,7,18,854,2356,98,23,1,633,600,632,226,773,221,916,933
 African AI By Sibahle Malinga	10638
 African AI Compute Grid	6690
 African AI Ecosystem Acquired	6953
@@ -1860,6 +1867,7 @@ Communication Minister Launches Public Sector AI	16288
 Communications LLC Hardin AI Trufo Inc	8530
 Community AI	6948
 Community AI Councils	4528,7984
+Community of Interest Blog AI	19595
 Comparative AI Strategy References	4528,7984
 Competency Framework for AI Literacy	6948
 Competition Authority Responsible AI	7548
@@ -2193,6 +2201,7 @@ Edition While the Egyptian AI	15713
 Editors Raise Alarm Over AI Misuse	8687
 EduSphere AI	13233
 Education Advanced AI	15713
+Education Community of Interest Event As AI	19595
 Education Integrate AI	12512
 Education and AI Literacy Mission Integrate AI	4528
 Education and Awareness Promote AI	12675
@@ -2868,7 +2877,9 @@ Implement Regulatory Oversight AI	12675
 Implement Ubuntu-based AI Ethics Framework	4528
 Implement Ubuntu-based AI Ethics Pillar	12512
 Implement the EU’s AI Act	11140
+Implementation of AI	19521
 Implementation of AI Strategy	1814
+Implementation of Ai	19521
 Implementation of Strategy The Continental AI	1814
 Implementing AI	7751,4924,5209
 Implications for Kenya’s Evolving AI Ecosystem	10246
@@ -3257,6 +3268,7 @@ Microsoft’s AI Skilling Initiative	5327
 Microsoft’s AI for Good Lab	8680,1940
 Microsoft’s Global AI Diffusion Report	10620
 Microsoft’s In-House AI Family	6498
+Million Tanzania AI Loan Opens Door	19622
 Mind Legal Ashby Inc AI	8530
 Minimal Risk AI	16212
 Minimising AI	1814,12860
@@ -3425,6 +3437,7 @@ National AI Strategy Committee	9511
 National AI Strategy Date	6440
 National AI Strategy Ecosystem Category	4528
 National AI Strategy Ecosystem Category Entities	12512
+National AI Strategy Framework	19609
 National AI Strategy Kenya	12210
 National AI Strategy National AI Strategy	11135
 National AI Strategy National Strategy for AI	11135
@@ -3484,6 +3497,7 @@ National Digital Transformation Strategy and National AI	14674
 National Digital Transformation and AI Strategies	13080
 National Digital Transformation and AI Strategy	12241
 National Geospatial Development Agency AI Artificial	4214
+National Guidelines for AI	19609
 National Guidelines for Generative AI	16202
 National Guidelines for Trusted and Responsible AI	16202
 National Guidelines for Trustworthy and Responsible AI	16212
@@ -3647,6 +3661,7 @@ Pillars AI Adoption and Service Transformation AI	4528
 Pionniers de Cotonou AI Academy. Cette	15292
 Planetary AI Collective	14673
 Playbook for Governments Procuring AI and GenAI	2816
+Policy Framework for AI	19521
 Policy Implementation Approach African Union AI	7548
 Policy Kenya's AI	7548
 Policy National AI Strategy National AI	11135
@@ -3676,6 +3691,7 @@ Presight AI	18303
 Previous AI	7972
 Previous AI Coding Tools Promise Speed	3279
 Principles and CoC for AI	11154
+Priorities and AI Governance Approach Tanzania	19609
 Prioritize AI	16212
 Prioritize Ethical AI Development Implement	12675
 Priority National AI	7548
@@ -3920,6 +3936,7 @@ Saly AI	10684
 Sample AI Governance Assessment Template	6442
 Sankara AI Network	9993
 Sankara AI Network Samsung Sécurité Semaine	9993
+Saratani AI	19534
 Sarvam and Adalat AI	5682
 Satellite Data and AI for Economic Development and Climate	942
 Sation of AI	11050
@@ -4155,8 +4172,9 @@ Taiwan Mobile's AI	10380
 Taking the AI Office	8692
 Talking AI	11050,85
 Tanzania AI	11061,3
+Tanzania AI Lab	19521
 Tanzania and Uganda. The EAC AI Alliance	9707
-Tanzania’s AI	3366
+Tanzania’s AI	3366,16256
 Tarbell Center for AI Journalism	5257
 Task the Responsible AI Authority	4126
 Taxonomy for AI	11156
@@ -4371,12 +4389,14 @@ Utilization of AI	17884
 Utilize AI	12356,319
 Utilizing AI	11265,6619
 Uzazi Salama AI	8883
+VIFUPISHO AI Artificial Intelligence AJDP African	19565
 VISION FOR RESPONSIBLE AI AND REGIONAL	14566
 Vambo AI	5875
 Vecteezy.com AI Ethics Guidelines for Mauritian HEIs	14812
 Velocity AI	7451
 Verbal-deductive AI	7573
 Vertex AI	1636
+Vertex AI de Google Cloud	19432
 Vibrant AI Ecosystem	12356
 Video AI	13529
 Vigilate AI	7076

@@ -206,6 +206,7 @@ ET DES MICRO-DONNEES ITEGEKO INOMERO	13303
 EXPENDITURE SUMMARY ITEM ESTIMATED BUDGET RELEASED	12971
 Economic Item and Funding	1512,1,695
 Economic Item and Funding Entity	15716,211
+Effective ITGCs	19584
 Efficiency and Equity of Domestic Financing The ITAP	11907
 Electromagnetic Interference ITE	9123
 Eligibility and Qualifications ITB	13185
@@ -355,6 +356,7 @@ ITALIE	643
 ITANZE AMABWIRIZA RUSANGE AKURIKIRA	14919
 ITAP. Malawi National Planning Commission	12175
 ITAS Integrated Tax Administration System	14929
+ITAS Integrated Tax Administration System Document	19533
 ITAS Integrated Tax Administration System LC	18488,12
 ITAS User Manual	10419
 ITAS for Namibia	12397
@@ -411,6 +413,7 @@ ITEC Programme. So	12979
 ITEC and Africa Scholarship Scheme	17241
 ITEC and ICCR	11579
 ITEC-Defence	18016
+ITECEQ	19478
 ITECH	17234
 ITEDGENEWS&utm medium	7139
 ITEGEKO N	14870,23
@@ -434,6 +437,7 @@ ITEs EN HFO REFORME DE I.A	14479
 ITF263	12509
 ITG and Financial Grant	14742
 ITGC CACQE LABO Les Moulins du Sahel	16103
+ITGCs	19584
 ITGOV	7371
 ITGOV Nigeria	7371
 ITGov	9237
@@ -464,6 +468,7 @@ ITIE. Leur	16618
 ITIL Norme	15512
 ITIL and COBIT Vendor Management	6432
 ITIL and Cloud Computing	12693
+ITIL for ICT	19575
 ITI’s Mahara-Tech Platform	16046
 ITL Information Technology Laboratory GoA Government	10765,10
 ITLOS	14742,1769
@@ -474,6 +479,7 @@ ITMA. Sublinha-se	11569
 ITMOs	7456,259,1678,3664
 ITMOs. The Zambia Carbon Registry	9393
 ITN Distribution Total Total Cost	4202
+ITN Insecticide Treated Net JEE Joint	19544
 ITN Table	18627
 ITNETUSERP2DJI	13930
 ITNETUSERP2DJI Published	13930
@@ -965,6 +971,7 @@ Itabi Betel	13300
 Itad and Steward Redqueen	12006
 Itad. Copyright	12006
 Itakpe	15297
+Italagwe Madamu	19592
 Italia	3238,5536,8101,1927
 Italia CORINTO	6613
 Italia Matlala Executive Group Head	5247
@@ -1001,18 +1008,19 @@ Italian-supported	7068
 Italians	16916
 Italic	7763
 Italicized	10840,1054
-Italie	1247,1201,4165,444,1258,576,2053,4556,39,185,451,74,1199,400,98,134,908
+Italie	1247,1201,4165,444,1258,576,2053,4556,39,185,451,74,1199,400,98,134,908,439,42
 Italie PMA Pays Moins Avancés PME	18286
 Italie. Entre	5916
 Italie. Etant	15500
 Italie. Monsieur Hamidou DIPAMA	15649
 Italienne	16249
-Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292,167,295,16,229,103,314,215,29,15,125,89,65,564,143,58,70,11,463,523,586,223,71,42,21,102,704,37,288,12,45,193,927
+Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292,167,295,16,229,103,314,215,29,15,125,89,65,564,143,58,70,11,463,523,586,223,71,42,21,102,704,37,288,12,45,193,927,289,4,64
 Italy Boosts Eswatini's Green Future	17048
 Italy Boosts Eswatini's Green Future Projects	13207
 Italy Claudia Robbiati	10784
 Italy Claudia Robbiati Doctors	10784
 Italy EUR HI	17743
+Italy Egypt	19534
 Italy Fabio Manenti Authors Claudia Robbiati	10784
 Italy Global Cybersecurity Index	10764
 Italy Identification Document Jun	10714
@@ -1041,6 +1049,7 @@ Italy’s Mattei Plan for Africa. Kenya	16803
 Italy’s Ministry of Enterprises and Made	5095
 Italy’s Todini Construction	5775
 Itamara Otton	4136
+Itambalila	19592
 Itana	3006,5458,1405
 Itana Choplife	9869
 Itangaza	14861
@@ -1095,7 +1104,7 @@ ItemExtent	3714
 Itemid	432,1,8966,2926,20,1526,2610,556,399,684,871,56,158
 Itemised	16839
 Itemized	16839
-Items	1212,44,737,782,939,718,464,3512,715,658,1012,336,824,2,31,387,604,76,132,1581,314,436,1384,35,301,1668
+Items	1212,44,737,782,939,718,464,3512,715,658,1012,336,824,2,31,387,604,76,132,1581,314,436,1384,35,301,1668,628,12,41
 Items Constituting the Liabilities Item	17236
 Items Delivered Countrywide	9781
 Items Domestic Delivered Countrywide Couriers	9781
@@ -1115,16 +1124,26 @@ Iteration	4126
 Iterations	1009
 Iterative	4300,1400,1848,1982,1476
 Iterative Adaptation	11006
+Iterative Beneficiary Monitoring	19455
 Iterative Development	2674
 Iterative HNSF Development FIGURE	1009
 Iterative Improvements	11216
 Iterative Input	12356
+Itete	19592
 Itezhi-Tezhi	13387
 Ithabeleng Qhasho ARTIFICIAL	17784
 Ithenda	11573
 Ithete	13041
+Ithibati	19565
 Ithiel Batumike	16504
 Itibari	7482
+Itigi DC	19584,1
+Itigi DC DC	19585
+Itigi DC System	19585
+Itigi DC TAUSI Revenue	19585
+Itilima DC	19584,1
+Itilima DC DC	19585
+Itilima DC Health	19585
 Itinerancia Cero	17087
 Itinerário da Missão	17147
 Itinerário da Missão Conforme	17147
@@ -1161,6 +1180,7 @@ Itsme	2390,524,103,443,7254
 Itsoseng Upgrading	11986
 Itumanaho	1214,13648,8,23
 Itumanaho. Communication. Ingingo	1214
+Itumbili	19585
 Itumeleng Clinic	11980
 Itumeleng Garebatshabe	14247
 Itumeleng Mokhachane	12709
@@ -1195,6 +1215,7 @@ KANGA ITOUA	15395
 Kaneshie TSC. As ITAS	16254
 Kenya and Italy	16803
 Khadijatu Barrie and Edison Yap. ITC	18487
+Kilolo Itobo	19592
 Kimwarer and Itare Dams Loan Projects	14546
 Kleos Advisory and ITFA	10718
 Knowledge Transfer Programme. The ITU	5428
@@ -1202,6 +1223,7 @@ Kristof Ithana	7743
 Kwilu and Ituri. Component	11923
 LABO ITGC Les Moulins du Sahel MI	16103
 LEGISLATIVE PROPOSAL ITSELF	6476
+LGA Items	19585
 LLDCs. ITU	10844,7279
 Laboratory Items	14736
 Labour Official Use Only Item Expected	12253
@@ -1235,6 +1257,7 @@ MAURITAS Accreditation Laboratory Items	14736
 MCHE de Itsibou	15799
 MEMORANDUM ITEMS IN PUBLIC	2775
 MOUCKAULHO ITSISSA	16100
+MSD No LGA Items	19585
 MSMEs The ITU	10764
 MVP Itérer Lancement Objectifs	19221
 MW ITURI P	15670
@@ -1264,12 +1287,14 @@ Memorandum Items Total Debt Stock	17235
 Memorandum Items Total Expenditure	17235
 Memorandum Items Total Revenue	17235
 Mer ITIE Initiative	17907
+Miji Itakayoandaliwa Mipango Kabambe Na. Halmashauri	19592
 Mineset le Président du Comité National ITIE	17838
 Minimum ITIL	13037
 Minimum ITSM	15164
 Ministre Bruno Jean Richard ITOUA	2738
 Ministre ITOUA	2738
 Ministry of ITCI	14750,22
+Miradi Itakayotekelezwa	19590
 Misalignment of IT-business	2093
 Mme ITIMBOU MOUELONGO	15780
 Mme ITOUA	15744,157
@@ -1313,6 +1338,7 @@ OASIS Standard ITI TF-2b	1009
 OKTO Technologies and IT6	3690
 OLDEST ITEM IN THE BATCH	411
 OMBOLA ITOUA	15524
+Objective IA Internal Audit IBM Iterative	19455
 Official Use Only Item Anticipated Proposed	12253
 Official Use Only Item Expected Environmental	12253
 Once the IT3	11276
@@ -1458,6 +1484,7 @@ Tax Administration System ITAS Integrated Tax	17105
 Tax Periods. ITEM CATEGORY VAT RETURNS	12509
 Tax Registration Menu Items	14533
 Technologie de Itumanaho	1214
+Technology General Controls ITGCs Judiciary of Tanzania	19584
 Technology ILO International Labour Organisation ITCZ	17114
 Technology ITRS International Transactions Reporting System	2775
 Technology ITU	12759
@@ -1497,6 +1524,7 @@ Under the ITU	15120
 Union ITUC International Trade Union Confederation	10835,3,130,902,16,466,1,135
 Union Portugal Brazil Spain Italy CORE	11586
 United Kingdom and Italy	9815
+United Nations. ITC	19582
 University of Palermo Italy	13773
 University of Pavia of Italy and Research and Documentation	14047
 University of Twente and ITC	15552
@@ -1511,6 +1539,7 @@ W3 I-43 ITU Global Cybersecurity Index	10785
 WRC-27 Agenda Items	5680,3612
 WSIS ITU	14750
 WTO and ITU	14879
+Wageni Tukio China Italia Taaria	19517
 WanyLab CACQE LABO ITGC Les Moulins	16103
 WanyLab CTIAA CACQE LABO ITGC	16103
 WanyLab DGSN Castel El Djazaïr ITGC	16103

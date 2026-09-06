@@ -29,6 +29,7 @@ Autorisation Générale Sont	16615
 Autorité Sons	15429
 Azélik SONICHAR Société Nigérienne de Charbon	18103
 BIF. Son	5673
+Banque Mondiale. Son	19375
 Beau Songes	14830
 Beaux Songes Link Road	14742
 Bhojpuri Folk Song	14742
@@ -56,6 +57,7 @@ COMMANDEMENT Sont	15901
 CRCC LECACT SONELGAZ	16103
 Caractéristique Con- Avaient Sont Chaque Une	13300
 Cem Sonel	5029
+Centre Active Songwe Songwe Mkwajuni Songwe	19541
 Chairperson Ms. Odete Sons Ms. Nomusa	11131
 Chief Executive Officer of Sonatel Group and Chairman	4114
 China’s National TV. Sonko	17423
@@ -92,7 +94,9 @@ Description Sonatel Group	1143,405
 Description Sont	13452
 Dick Sono	9236
 Director General of Sonatel Group and Chairman	18527
+Districts Songwe	19541
 Djibouti. Son	9821
+Dodoma and Songwe	19541
 Doter la SONARA	15542
 Dr. Roger MBOUMBA MBINA Sont	15973
 Dé SON N AMPLIATIONS	15400
@@ -127,6 +131,7 @@ FJ and Sonatel	2600
 FMI Son Excellence	17667
 Facility SONEDE National Company	13729
 Fatma Haruna Songoro	9491
+Female Total Male Female Songwe	19542
 Fiber Sonic Limited	5212
 Finances. Sont	16020
 Fournisseurs des Services de Radiodiffusion Sonore	13301
@@ -138,6 +143,7 @@ GROUPEMENTS DE GENDARMERIE Sont	15901
 Gabon. Sont	114
 Gambia Songhai Initiative	17228
 Gambia Songhai Initiative GSRB Gambia Strategic	17105
+Geita Songwe	19542
 Gestion Sanitaires SONEB	15475
 Gino and Sonia	3383
 Great Wizoo. Son	16820
@@ -215,6 +221,7 @@ Mariental B Sonop Primary School	13046
 Marouan Maalouf Charlie Foyet Sonkeng Barbara	15601
 Masayoshi Son	12376
 Massock- Song	10975
+Maungoni Songwe Kuchoma Moto Tabora Gari	19517
 Maureen Songne	4127
 Mauritanienne. Son	17894
 Member Ms. Odete Sons Non-Executive Board	11131
@@ -224,6 +231,7 @@ Million Song Dataset and GTZAN Genre Collection	17773
 Minister Ousmane Sonko	5907
 Ministre Son Excellence Madame O'Neige N'Sele	16426
 Mobilité and Sonatel	7324
+Momba Songwe Mbozi	19541
 Monsieur Expédit SONOUNAMETO Membre	16485
 Monsieur Ousmane SONKO	3381
 Monsieur Rodrigue Songe Ayobami Adéoyé AFFOGNON	17584
@@ -244,6 +252,7 @@ National Federation of Workers of Sonelgaz Group Companies	16279
 National Song	16256
 Ne Sont	17812
 Ni la Sonelec	11729
+Njombe Tanga Kusini Pemba Morogoro Songwe	19542
 Nrupesh Soni	7628
 OGM Son	1984
 OGP. Son	18394
@@ -302,8 +311,14 @@ QUELS SONT	18015
 QUELS SONT LES ENSEIGNEMENTS TIRÉS POUR	18015
 QUELS SONT LES INDICATEURS GÉNÉRÉS	16026,1905
 QUI ME SONT DÉVOLUS PAR	15603
+RAS Songwe	19585
+RITA Offices. Dodoma and Songwe	19541
 Ramaphosa's SONA	5032
+Registrar for Officers for Songwe	19541
+Registration Officer Songwe Ileje	19541
+Registration Officer Sonwe	19541
 Registre Sont	735
+Registre. Sont	19385
 Restaurant de Song	10975
 Rurale SONABEL Société Nationale	15769
 RÉPARTITION DES SONDÉS AYANT ENTENDU PARLER	18105
@@ -380,7 +395,7 @@ SONDZO	16100
 SONDÉS	18105
 SONEB	7212,8371,2001
 SONEB Traitement	10821
-SONEDE	5101,850,7801
+SONEDE	5101,850,7801,5660,71,18
 SONEL	10975
 SONEL. Mise	15542
 SONELEC	3868,9867,17,41,17
@@ -431,6 +446,8 @@ SONY ALIBER	17828
 SONY TAF ACIRGA	17828
 Sabas SONOU AGOSSOU	11863
 Sabas SONOU AGOSSOU Environmental and Social Category	11863
+Salaam Songwe	19541
+Salaam and Songwe	19541
 Santé de Cotonou. Sont	16485
 School B Sonderwater	13046
 Secrétaire REPUBLIQUE SON EXCELLENCE MONSIEUR	17861
@@ -442,6 +459,8 @@ Sesame Songwe	7763
 Seyaka Sonko	16888
 Simiyu Singida Songwe Tabora Tanga CFE	7763
 Sinais Sonoros Especiais	15307
+Singida Songwe	19517
+Singida Uvuvi Haramu Songwe Kupatikana	19517
 Snehal Soneji	13752
 SoNA-in-Numbers	11245
 Société Nationale des Eaux du Bénin SONEB Taxe	15583
@@ -457,7 +476,7 @@ Son Eminence le Cardinal Pietro Parolin	13405
 Son Environnement	13749
 Son Ex-	13405
 Son Excel-	13341,64
-Son Excellence	2738,453,114,21,55,565,2121,3019,2511,433,1375,523,1920,572,267,980,280,7,76,42,9,35,35,5,35,36,11,1029,1,10,21,22
+Son Excellence	2738,453,114,21,55,565,2121,3019,2511,433,1375,523,1920,572,267,980,280,7,76,42,9,35,35,5,35,36,11,1029,1,10,21,22,84,88
 Son Excellence Abdoulkader Kamil Mohamed	13941
 Son Excellence Aimé Molendo Sakombi	16108
 Son Excellence Alassane OUATTARA	16351
@@ -636,12 +655,14 @@ Sondeos	16898
 Sonderinitiative	2143
 Sonderinitiative Ausbildung	457
 Sondes	16103
+Sondes Zarrouki	19490
 Sondos Samir	16266
 Sondu-Ndhiwa	12256
 Sondzela Sikhulume	12439,561
 Sondzela Sikhulume Programme	12956
 Sondägê	15999
 Soneb	10287
+Sonede	19416
 Sonefficacitéestsuspendueauxrésultatsdupartage.Art.179	19212
 Sonelec	11729,2090
 Sonelec. Mais	13819
@@ -660,12 +681,26 @@ Song X.-P	16463
 Song&Haw	8606
 Song-Loulou	15542
 SongGen	17773
-Songa	13433
+Songa	13433,6152
 Songa Chris Musonera	8758
 Songa Energy	13433
 Songa Energy Burundi	13433
+Songambele	19592
 Songcondvongcondvo Wemaswati House	13100
-Songea	6019
+Songea	6019,13498,15
+Songea Commercial Complex	19592
+Songea DC	19585
+Songea DC DC	19585
+Songea DC Portal	19585
+Songea DC Primary	19585
+Songea DC Secondary	19585
+Songea DC Unqualified Compliant	19585
+Songea MC	19584,1
+Songea MC MC	19585
+Songea MC Msalala	19592
+Songea MC Secondary	19585
+Songea MC Unqualified Compliant	19585
+Songea Water Supply and Sanitation Authority	19584
 Songeziwe Mbalo	8924
 Songhai	16973
 Songhai Initiative. Women	16973
@@ -678,14 +713,30 @@ Songololo. Une	16420
 Songon	2342,13281
 Songoy	17830
 Songs	14774,2999
-Songwe	6816,947
+Songwe	6816,947,11754,14,10,1,2,13,8,20,5,2
 Songwe Bridge	12985
+Songwe DC	19584,1,7
+Songwe DC DC	19585
+Songwe DC Unqualified Compliant	19585
+Songwe Dar	19541
+Songwe Education and Inadequate	19585
 Songwe Hydro	13060
+Songwe Ileje	19541
+Songwe Kagera Dodoma Salaam Visited Regions	19541
+Songwe RS	19585
 Songwe Rare Earth Mining	13060
+Songwe Regional Secretariat Regional Secretariat	19585
+Songwe Regional Unqualified Compliant	19585
+Songwe Songwe Mkwajuni	19541
+Songwe Songwe Momba	19541
+Songwe Tunduma TC Mruki	19592
+Songwe and Dar	19541
+Songwe and Dodoma	19541
 Soni Ali Ber. Réunis-	18077
 Sonia	10963,1,3524,1,1
 Sonia Araujo	12701,1149
 Sonia Arenaza Chipa	12048
+Sonia Dahmani	19490
 Sonia Doriane	15901
 Sonia Elks. From the Thomson Reuters Foundation	12336
 Sonia Essobmadje	19143
@@ -755,6 +806,7 @@ Très Haut Patronage de Son Excellence le Professeur	15668
 Très Haute Clairvoyance de Son Excellence Pr	15668
 Très Haute Présidence de Son Excellence Brice	16099
 Très Hautes Instructions de Son Excellence Monsieur	16099
+Tunduma Songwe	19592
 Turning SoNA	5008
 Télécommunications. Son	16583
 Térabits. Son	15640
@@ -763,11 +815,13 @@ Unité Primaire de Sondage	17945
 Unité Secondaire de Sondage	17945
 Unités Primaires de Sondage	13300
 Université Général Lansana Conté de Sonfonia	16641,46,25
+Upper Sec. Sec Songwe	19542
 V Songloulou	10975
 VHF D SONIDEP	998
 VIH Sont	13300
 Vera Songwe	12122
 Vera Songwe Nathan M. Belete Director	17849
+Vwawa Songwe	19592
 W. Son	16621
 Wilson Sonsini Goodrich	8773
 Yunsang Song	10785

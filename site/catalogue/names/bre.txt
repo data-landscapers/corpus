@@ -1,5 +1,6 @@
 ABBREVIATIONS BReST Building Resilience	16867
 AIC BETHLEHEM HOUSE OF BREAD DISPENSARY-	7167
+ATC Arusha Technical College BRELA Business	19565
 Accidental and Internal Breaches	6727
 Alleged Data Breach	5732
 Amara Brewah	3986,1404,459,12673,46
@@ -26,8 +27,13 @@ BREEDING PRACTICES Breeding	17043
 BREEZE VALLEY MEDICAL CENTER Data Processor	7167
 BREFOL	13938
 BREFONS	13881
-BRELA	5883,1880,3880
+BRELA	5883,1880,3880,7876,15,42,8,1,7,9,1
+BRELA Assessment and Billing System	19584
 BRELA Online Services	5883
+BRELA and TIC	19531
+BRELA and Zanzibar Business and Property Registration Agency	19584
+BRELA's Online Registration System	19584
+BRELLA	19565
 BREMAR ENTERPRISES LIMITED Data Processor INST-782864AEEDF	7167
 BRENT SHAMU	13594
 BREST	16867
@@ -115,7 +121,7 @@ Breakdowns	11138
 Breakeven	9735
 Breakeven Simulator Select	10738
 Breakfast	9031
-Breaking	2355,62,114,4,1,56,3,167,172,14,82,901,1006,1486,275,673,2654,252,437,249,220,690,1588,1524,930,1034,1203,309
+Breaking	2355,62,114,4,1,56,3,167,172,14,82,901,1006,1486,275,673,2654,252,437,249,220,690,1588,1524,930,1034,1203,309,1094
 Breaking Down Africa's Digital Borders	8111
 Breaking Down the Barriers	10841
 Breaking Down the Costs	2515
@@ -133,6 +139,7 @@ Breast Cancer Examinations	15247
 Breast Clinic	14773
 Breast Clinic Ltd Data Controller INST-108077E589F	7167
 Breast Clinic Ltd Data Processor INST-108077E589F	7167
+Breastfed	19544
 Breastfeeding	8437,10514
 Breath of Life	19284
 Breathe	771
@@ -158,7 +165,8 @@ Brehima Secrétaire	18003
 Breiman	18318,919
 Brel Farnèle	16177
 Brel Odet	16100
-Brela	6816
+Brela	6816,12805
+Brela and Costech	19621
 Brell Djibrill	16177
 Brell Gervais	15524
 Brelotte BA	4114,14413
@@ -251,7 +259,7 @@ Continued Breastfeeding and Bottle Feeding	15247
 Coordination Breakdown	17139
 Core Analysis How Trust Breaks Down	11138
 Corporate Breakdown	16638
-Cost Breakdown	11924
+Cost Breakdown	11924,7660
 Country Bread	17043
 Custom Breakdown	15619
 Cyber Systems Financial Breakdown	10738
@@ -278,12 +286,14 @@ Dated Brent	3583
 Debt Breakdown	12339
 Deeds Training Ms Brenda Ndala	13213
 Destinée Brejat Linda	15524
+Development Entrepreneurs BRELA Arusha Technical College	19534
 Digital Dollar Cost Breakdown	9570
 Digital Infrastructure Breakdown Malawi	12941
 Digital Transformation and Entrepreneurship Breakfast	14252
 Director-General Amara Brewah	3986
 District Data Early Initiation of Breastfeeding IYCF	18441
 Drought-Adapted Breed Introduction MoALMR	17157
+EARLY INITIATION OF BREASTFEEDING	19544
 ECZ Hosts Media Breakfast Meeting	13477
 EFFECT OF THE BREACH REMEDIAL ACTIONS	2709
 Early Initiation of Breastfeeding	15247
@@ -426,11 +436,15 @@ Secção Breves	10750
 Senegal ID System Breach	5146
 Shelby Brewster Date	6948
 Solar PV MSB Namibia Breweries Limited	12399
+Startup Ecosystem. High-level Ministerial Breakfast Meeting	19534
 Support Breast Cancer Screening Senegalese Fintech	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
+Syndrome BoT Bank of Tanzania BRELA Business	19531
 Sénégal En Bref	18295
 THISDAYLIVE Breaking	2355,176,4,1,56,3,339,96,901,1006,1761,673
+TRA and BRELA	19534,50
 TRS Work Breakdown Structure	17367
 Take Short Breaks	13477
+Tanzania. BRELA Tunisia Startup	19534
 Technology Africa Finance Corporation Breaks	9796
 Telecomunicaciones Vida Brecha	16898
 Thomas Brennan	13267
@@ -445,3 +459,4 @@ WC Cape Town MM Karl Bremer	11986
 William Brederode	2677
 Work Breakdown Structure	12448
 Year Macro Retail Breakout	7446
+ZALIRI BRELA Zanzibar	19519

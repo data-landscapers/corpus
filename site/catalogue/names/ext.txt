@@ -136,7 +136,7 @@ Commerce Extérieur H	13341
 Commerce extérieur Vers	5452
 Commission. Extraterritorial	4366
 Committee BISE Bureau for Innovation Scouting and Extension	14747
-Common External Tariff	1828,11735,61,3387,1274
+Common External Tariff	1828,11735,61,3387,1274,1317
 Communication and External Relations Department	2807,7908,2714,4511,126,796
 Community Health Extension Worker	771
 Community Health Extension Workers	4217,13945
@@ -238,11 +238,13 @@ Doctors Extend Observation of Jewel Howard-Taylor	10405
 Document Enterprise Document Data Element Extraction	1009
 Domain Name System Security Extensions	1036,3174,6554,2531,2258,992,2229
 Domestic Pools Surpass External Flows	5913
+Domestic and External Debt	19602
 Donativos Externos Dbs	18822
 Dotación Especial Funcionamiento Ser. Exterior	4209
 Drivers of External Debt Dynamics	13868
 Duration of Extension	12364
-EAC Common External Tariff	7548,5809
+E2. Repayment of External Loan	19602
+EAC Common External Tariff	7548,5809,6245
 EAC’s Common External Tariff	10313
 EBRD Extends	7229,1797
 ECF Extended Credit Facility ECOWAS Economic	11549
@@ -266,6 +268,7 @@ EXTENDED CREDIT FACILITY ARRANGEMENT	15752,1457
 EXTENDED FUND FACILITY	17909,81
 EXTENSION	16249
 EXTENSION AND AUGMENTATION OF THE ARRANGEMENT	18823
+EXTENSION DE L'INFRASTRUCTURE SERVEURS ET	19486
 EXTENSION DE LA COUVERTURE RÉSEAU INTERNET	19221
 EXTENSION DU POSTE D'INTERCONNEXION	10975
 EXTENSION OF THE ARRANGEMENT	17209
@@ -279,6 +282,7 @@ EXTERNAL AND INTERNAL TRANSFERS	12962
 EXTERNAL COMPANIES PART	3714
 EXTERNAL DEBT SUSTAINABILITY ASSESSMENT	13868
 EXTERNAL ENVIRONMENT ANALYSIS	5533,6453
+EXTERNAL ENVIRONMENT Opportunities Challenges	19520
 EXTERNAL GUIDE	11298
 EXTERNAL GUIDE TAX REFERENCE NUMBER	11298
 EXTERNAL RELATIONS	17235
@@ -304,9 +308,10 @@ EXTRAORDINARY GENERAL MEETING	4896,2302
 EXTRAORDINARY LESOTHO REVENUE AUTHORITY ACT NO	12644
 EXTRAORDINARY THE GOVERNMENT OF THE REPUBLIC	14647
 EXTÉRIEURES	15999
-East African Community Common External Tariff	6921
+East African Community Common External Tariff	6921,12681
 Ebene Food and Agricultural Research and Extension Institute	14847
 Economic Governance and Extractive Sector Support Project	7160
+Ecosystem Extent	19555
 Effects and Externalities of Smart Governance	5349
 El Ministerio de Asuntos Exteriores	16871
 El Ministro de Estado de Asuntos Exteriores	17305
@@ -330,14 +335,15 @@ Estado de Asuntos Exteriores	17225
 Estadísticas de Comercio Exterior	16898
 Ethio Telecom Extends Digital Access	8539
 Europe Extreme	9608,208
-European External Action Service	4127,2820,4962,1348
+European External Action Service	4127,2820,4962,1348,6281
 European Union External Action Service	11155
 Evaton Ext	1009
+Event-Based Surveillance EDPs Extremely Dangerous Pathogens	19544
 Evolution of Strategic Reciprocity External	5141
 Exames da Avaliação Externa	15772
 Exploitation du Guichet Unique du Commerce Exté-	11923
 Extant	16942
-Extend	1828,2298,2706,716,3585,16,757,450,2245,73,60,43,170,50,483,459,1931,687
+Extend	1828,2298,2706,716,3585,16,757,450,2245,73,60,43,170,50,483,459,1931,687,898
 Extend ESPSP	15661
 Extend Google Cloud	4434
 Extend Its Super-App Ecosystem	5397
@@ -347,7 +353,7 @@ Extended	209,2268,2802,2428,265,50,1717,2861,585,1630,184,474,1653,250
 Extended Abstracts	8460
 Extended Arrangement	15473,2436,81
 Extended Cash and Debt Management Committee	18488,88
-Extended Continental Shelf	14742,103
+Extended Continental Shelf	14742,103,4747
 Extended Credit Facility	1828,1755,544,7409,13,10,617,879,1974,12,711,38,1159,260,26,22,69,13,25,545,81,498,335,28
 Extended Credit Facility Arrangement	13741
 Extended Credit Facility Arrangement and Approves US	15752
@@ -374,6 +380,7 @@ Extended Reality	6832,716
 Extended Regular Cash Transfer	11988
 Extended Relative	17127
 Extended Second National Strategy	18475
+Extended Skolashipu. Katika	19565
 Extended Team Name Title Organization Location	16896
 Extended Term Consultant for Poverty	10763
 Extended UTAUT Model	5349
@@ -404,7 +411,7 @@ Extensible Markup Language	12360
 Extensible Messaging and Presence Protocol	18774
 Extensible Project Management Sparx Enterprise	9124
 Extensible Stylesheet Language	12360
-Extension	938,184,112,50,583,359,943,692,147,1350,1533,1594,40,158,1474,780,38,165,40,48,61,635,41,583,81,88,205,34,21,65,80,1,183,5,5,36,81,126,84,348,531,136,75,3,25,57,61,68,155,370,2,68,13,23,112,56,53,213,25,158,127,6,515,29,94,243,40,236,351,9,15,22,16,9,6,166,14,10,188,25,1,448,60,101,16,46,160,73,63
+Extension	938,184,112,50,583,359,943,692,147,1350,1533,1594,40,158,1474,780,38,165,40,48,61,635,41,583,81,88,205,34,21,65,80,1,183,5,5,36,81,126,84,348,531,136,75,3,25,57,61,68,155,370,2,68,13,23,112,56,53,213,25,158,127,6,515,29,94,243,40,236,351,9,15,22,16,9,6,166,14,10,188,25,1,448,60,101,16,46,160,73,63,190,12,41
 Extension Africa	5267
 Extension Couverture	3537
 Extension DSTV Digital Satellite Television EDI	13295
@@ -415,6 +422,7 @@ Extension Methodology and Systems	13060
 Extension Officer	1988
 Extension Officers	12977
 Extension Project	17274
+Extension Services and Marketing	19533
 Extension Subsidize	17157
 Extension and Augmentation	18823
 Extension and Nutrition	12194
@@ -444,7 +452,7 @@ Extensions	7588,4776,821,190,3170,1771
 Extensions ISO	12360
 Extensions of Man	8380
 Extensions of Time	13185
-Extensive	969,1712,11,1640,231,189,1680,2028,663,1662,56,347,704,322,27,117,550,960,283,335,374,62,6,215,101,167,13,1536,154,1773,98
+Extensive	969,1712,11,1640,231,189,1680,2028,663,1662,56,347,704,322,27,117,550,960,283,335,374,62,6,215,101,167,13,1536,154,1773,98,534
 Extensive Agreements	12241
 Extensive Beneficial ID	12214
 Extensive CAUTIOUS	12241
@@ -461,8 +469,12 @@ Extensão	15694,3080
 Extensão da Central Eléctrica	16132
 Extensão da Central Eléctrica da Palmeira	16132
 Extensão de Fronteiras Division	18757
-Extent	970,1018,1799,7764,503,2659,2119,1277,420,75
+Extent	970,1018,1799,7764,503,2659,2119,1277,420,75,951
 Extent Databases Contain Sufficient Information	11233
+Extent of Delay	19541
+Extent of Delay Maximum	19541
+Extent of Identification	19541
+Extent of Registration	19541
 Exterieur	18757
 Exterieure	18063
 Exterior	4209,7152,75,457,3599,3265,11
@@ -470,7 +482,7 @@ Exterior Gateway Protocol	14864
 Exterior Nº Categoría de Funcionario Público Monto	4209
 Exteriores	4209,12696
 Externa	10757,8041,55
-External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7,32,10,39,24,10,253,284,52,95,1,30,260,96,47,107,4,175,54,233,9,33,327,1,15,2,36,92,147,37,207,291,583,35,120,100,167,208,146,35,66,39,3,940,232,10,5,15,15,22,24,25,19,10,18,15,88,6,33,11,86,268,406,81,16,32,66,384,12,4,131,188,28,36,64,34,252
+External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7,32,10,39,24,10,253,284,52,95,1,30,260,96,47,107,4,175,54,233,9,33,327,1,15,2,36,92,147,37,207,291,583,35,120,100,167,208,146,35,66,39,3,940,232,10,5,15,15,22,24,25,19,10,18,15,88,6,33,11,86,268,406,81,16,32,66,384,12,4,131,188,28,36,64,34,252,218,120
 External API	11952
 External Advisor	16955
 External Advisory Committee	16212
@@ -506,7 +518,9 @@ External Audits	10819
 External Audits Application Process for Potential Trust	10819
 External Balance Assessment	17503
 External Birth Certificates	12496
+External Borrowing	19602
 External Borrowing Plan	12127,5082
+External Borrowings	19602
 External Causes	12413
 External Communications	14830
 External Communications Division	14847
@@ -520,13 +534,14 @@ External Context Externally	16985
 External Contributions	16851
 External Cooperation Unit	10530
 External Data Sources DIMAMO Operational Database	8604
-External Debt	2775,12002,2458,1616
+External Debt	2775,12002,2458,1616,751
 External Debt Development	17235
 External Debt Development Similarly	17235
 External Debt Equity Owner	15149
 External Debt Internal Debt	16996
 External Debt Ser-	2775
 External Debt Service	16944
+External Debt Services	19602
 External Debt Sustainability Framework	13868
 External Dependencies	10721
 External Development World Bank	6832
@@ -540,6 +555,7 @@ External Environment Scanning Forces	13005
 External Environment and Material Trends	3410
 External Equity	15149
 External Evaluation JEE Lower-Middle-Income Country LMIC	11417
+External Evaluation JKCI Jakaya Kikwete Cardiac	19544
 External Examinations	13477
 External Expert Augmentation	14965
 External Factors I. Socio-economic	14965
@@ -552,10 +568,12 @@ External Financing of Projects	14830
 External Framework	13957
 External Funding	6422
 External Guide	11276
+External ICT Security Assessment	19541
 External Infrastructure	15662
 External Laboratories	7988
 External MLT	13868
 External Networks	34,14887,31
+External Non-concessional Loans	19602
 External Oversight	18577
 External Oversight ASSL	18488
 External PPG	13868
@@ -604,12 +622,15 @@ External Trade Exports	18823
 External Trade Ministry	14853
 External Trade Statistics	16833,316
 External TradeStatistics	16833
+External Tradteo	19526
 External Travel	12976,146
 External Vendor	10616,1
 External Verification Agent	11560
+External and Domestic Borrowing	19602
 External-Company-Registration-v 1 2-31-Mar-2026.pdf	12041
 Externalisation	10836,303,4496
 Externalisation Article	10836,4799
+Externalities	19519
 Externalização	18761
 Externalized	8460
 Externally	3255,2278,144,1932,412,3110,855,646,1519,771,1344,618,1,1938
@@ -649,7 +670,7 @@ Extra-Ministerial Departments	11991
 Extra-Ministerial Departments and Agencies	7973,949,59,1175
 Extra-Ordinary Session	18455
 Extra-Plmonar Notificados	18768
-Extra-budgetary	13122
+Extra-budgetary	13122,6480
 Extra-territorial	1243
 Extrabudgetary Units	14634
 Extracción	16969
@@ -663,15 +684,16 @@ Extractação	15358
 Extracted	966,360,1,2,1,686,1,2,1,2136,1,2,1,1503,750,2427,3647,3228,130,520,646,356
 Extracteur	17812
 Extracting	961,1855,4166
-Extraction	235,530,1,243,178,18,13,775,1866,254,1420,16,999,1280,778,2215,331,2238,1739,243,1528,239,1,672,166,895,115
+Extraction	235,530,1,243,178,18,13,775,1866,254,1420,16,999,1280,778,2215,331,2238,1739,243,1528,239,1,672,166,895,115,423,191
 Extraction Has	10078
 Extraction Is Immediate	4258
 Extraction Preserved	4258
 Extraction and Coding Process Case	7151
-Extractive	170,10593,3979,2295,198,674,81
+Extractive	170,10593,3979,2295,198,674,81,1612
 Extractive Industries	10960
 Extractive Industries Revenue Act	18450
 Extractive Industries Sector	789
+Extractive Industries Transparency GST Geological Survey	19519
 Extractive Industries Transparency Initiative	170,2719,694,544,6746,2187,3783,153,1309,134
 Extractive Industries and Revenue Act	18466
 Extractives	10856,613,2265,1638,330
@@ -811,6 +833,7 @@ FINANCIAMIENTO EXTERNO NETO	4209
 FOURTH REVIEW UNDER THE EXTENDED CREDIT	15029
 FURTHER EXTENSION FOR SUBMISSION OF INCOME	13142
 Fares Establishment of Social Unit Extension of Natural	15578
+Feature Extraction	19555
 Fifth Reviews Under the Arrangements Under the Extended	17990
 Fifth Reviews of Mauritania’s Extended Credit Facility	17990
 Figure O.3 Africa’s Extra- and Intraregional Exports	11149
@@ -851,6 +874,7 @@ Gestão Extracto	15404
 Ghana’s Extended Credit Facility	7695
 Google Extended	13461
 Governance ETL Extract	11250
+Government Authority EML Extra Mural Labour	19590
 Government Extends Deadline for Obtaining National Identity	1655
 Government Gazette Extraordinary	12909,219
 Government. FOR EXTERNAL USE GLOSSARY AfDB	12717
@@ -936,7 +960,7 @@ Inversión Extranjera Directa INAP	1701
 Investissement Extérieur	13325
 JUCE Single External Trade System	15491
 Join the Extractive Industries Transparency Initiative	3583
-Joint External Evaluation	10776,641,1312,1291,3237
+Joint External Evaluation	10776,641,1312,1291,3237,2287
 Joint External Evaluation JICA	10776
 Joint External Evaluation of International Health Regulation	11912
 Joint External Evaluation of Togo’s International	19284
@@ -949,6 +973,8 @@ Junior Secondary External and Junior Secondary School	13477
 Justice Extraction	15583
 KIGALI CHANNELS BPR EXTENDED NETWORK	11002
 KYC External Dispute Resolution P2P Person-to-Person	12444
+Kagera Extent of Delay	19541
+Kagera Salaam Visited Regions Extent of Delay	19541
 Kasaï Oriental EXTENSION DU RESEAU Tableau	15670
 Katima Mulilo Extension	13189
 Kenya External Quality Assessment Scheme	4153
@@ -1058,6 +1084,7 @@ National External Quality Assessment	4217
 National External Quality Assurance Laboratory	4301
 Nationale Nationale Extérieure	17882
 Net Borrowing External	14546
+Net External Debt Increase	19602
 Network Project of Ministry of External Affairs	18016
 Network of Agricultural Extension Agents	12529
 Niger Extrait	18252
@@ -1177,6 +1204,7 @@ Recommended Extraction Option	18531
 Recording of Domestic and External Debt	16944
 Recruitment of External	18887
 Recursos Externos	4209
+Refrigerator External Thermometer	19585
 Register EDCMC Extended Debt and Cash Management	18488
 Register External	12041
 Registrar External	10765
@@ -1190,6 +1218,7 @@ Relações Externas	15391
 Remaining Extent of Portion	1009
 Remark Extended	13477
 Renewal and Extension	17249
+Repayment of External Loan	19602
 Requests for Extension and Augmentation	18823
 Reservas Externas Artigo	18800
 Resolución Extrajudicial	16855
@@ -1205,6 +1234,9 @@ Reunião Plenária Extraordinária	6847,1462,1490
 Rise of Extractive Practices	3810
 Role of Research and Extension	11140
 S S Registrar External	10775
+SAMIA Extended DS	19565
+SAMIA Extended Skolashipu	19565
+SAMIA Scholarship Extended	19565
 SECTOR EXTERIOR	16969
 SEGURIDAD EXTRANJERÍA Y INFORMAC. CRIMINALISTIC INSULAR	4209
 SERVICES EXTERIEURS SECRETARIAT GENERAL	16175
@@ -1223,6 +1255,7 @@ STRUCTURED EXTRACT of Guinea-Bissau	11563
 SWAZILAND GOVERNMENT GAZETTE EXTRAORDINARY VOL. LVI	12916
 SWIMS External Referral Portal	17741
 Safaricom Ethiopia’s Chief External Affairs Officer	15319
+Samia Scholarship Extended	19565
 Satellite Analysis Exposes Extreme Farmland	15229
 Score Extensive	11252
 Second Review Under the Extended Credit Facility	18823
@@ -1258,6 +1291,7 @@ Somalia's Extended Credit Facility	15041
 Spatial Extent	17157
 Spectral Feature Extraction Frameworks	14769
 Stand Extension	4896
+Standard Gauge Railway SSE Samia Extended	19565
 Standards Bulletin Board ESS External Sector	14777
 Statistique du Commerce Extérieur	17842
 Strategy for External Action	11536
@@ -1274,11 +1308,13 @@ TMC0001682 External ToR.pdf Requirements	13575,1
 TNT Extraction Application	15583
 TOGO EXTENDED NETWORK	11002
 TPME Extension	19221
+TSA Board and Management Extend Courtesy Visit	19534
 TVA. Extrant	17872
 Tarif Extérieur Com	15999
 Tarif Extérieur Commun	10712
 Task Extraction	16266
 Team Affiliation External Rapporteurs Cllr. Kanio	17260
+Tech Health In-Depth Extractive Gas Mining	19572,17
 Territorial Application and Extraterritorial Reach	3861
 Third Review Under the Extended Credit Facility	17257
 Third and Fourth Reviews Under the Extended Credit	15752

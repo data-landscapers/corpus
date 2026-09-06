@@ -144,6 +144,7 @@ Digital Experience Question Response Type Purpose	16963
 Digital Trade. Typically	1243
 Director of Tymstar Motors Limited	6946
 Discussion Activity Type	17099
+Distribution Of Facilities Beds By Type	19544
 Distribution of Types of TV Services	2776
 Document Feeder Type Autoload Cables Included	34
 Document Type	4342,7842,1485
@@ -189,6 +190,7 @@ Fermé Notice Type Pays Membre	16662
 File Type	8831
 Final Type Approval	18609
 Finance and Budget Type Role Country Line	18359
+Financial Grant Type Approved Budget Actual	19585
 Financing Type Constraints P180987 Additional Financing	1284
 Financing Type Constraints P181161 Second	16922
 Financing Type Urgent Need	16896
@@ -255,15 +257,20 @@ Interactionnel TYPE DE SERVICE Service SemiTransactionnel	15936
 Investor Type	4972
 Item Type	10878
 Item Type Article Elements ID	10878
+JORT Type	19400
 JavaScript and TypeScript	11922
 Joint Typology	10726
 Jun-2026. Review Type	16398
 KSh Million Type of Asset	2775
 Kuni Tyessi	8421
+LES LOGEMENTS SELON LE TYPE	19412
 LES TYPES DE AUTRE PERSONNEL AUTRE	13300
+LGA Type Classrooms Teachers Dormitories Toilet	19585
 LIBERIA ELECTRICI TY CORPORATI	16851
 LIVESTOCK TYPE Livestock	17043
 Language English Type Legal Notice Original	14435,93
+Language Type	19542
+Language Type Kiswahili and English	19542
 Letter Type	11276
 Licence Type	736
 Licence Type Revenue	17250
@@ -303,6 +310,10 @@ Mr. Viraj Tyagi	13854
 Muramvya. Type	13300
 Muramvya. Types	13300
 N DATA COMMUNiTiES USE CASE Typically	961
+N Name of LGA Type of School	19585
+N Name of School Type	19585
+N Type of Fees for Service Fees	19602
+N Types	19602
 NAME OWNER RENTED TYPE ADDRESS	4896
 NAME OWNER RENTED TYPE ADDRESS N	4896
 NAME OWNER RENTED TYPE LAND USE	4896
@@ -318,6 +329,7 @@ National Readiness Synthesis and Typologies	15164
 National Roads Administration Type Role Parastatal	4653
 Near Normal Typical	17157
 No. Institution Data Engagement Type	17099
+No. Name of LGA Type of Requirement Available	19585
 No. Type of Television Services Total No	18444
 No. of No. Type of Television Service	236
 Nombre Type	737
@@ -368,6 +380,7 @@ Participant Type	12364
 Payment Type	13621
 Pays Type	13804,2,4531
 Percentage Contribution Type of Asset	2775
+Percentage of Types of Data Sources Commonly Used	19555
 Performance Test Types Implement	11952
 Permit Type	16843
 Phillip Moris Project Type	12977
@@ -439,6 +452,7 @@ SELLING HARVEST BY TYPE OF SPECIES	17043
 SERVICE TYPE	16884
 SN Types of Training No	14738
 SN Types of Training No. of Officers Trained	14746
+SOC Type	19584
 SOCIETE TYPE DE DEMANDE REFERENCE	18322
 SOMELEC. Type	1993
 SPECIFICATIONS AND TYPE APPROVALS	18602
@@ -448,6 +462,7 @@ STATISTIQUES DES AUTRES TYPES DE FORMALITÉS	16249
 SURGERY BY TYPE	16892
 SWIFT Message Type	18976
 Salmonella Typhimurium	16103
+Schools Type	19585
 Scope NA Type Nominal	7221
 Scope NA Type Nominal Refers	7221
 Scope Payment Type Nature of Transactions Payment	6938
@@ -538,6 +553,7 @@ TYPE D'ENDROIT. HÔPITAL DE RÉFÉRENCE SI	13300
 TYPE DE CONTROLE DOSSIERS PROGRAMMES DOSSIERS	19250
 TYPE DE DECLARATION Sur	15599
 TYPE DE LA D'INSECTICIDE	13300
+TYPE DE LOGEMENTS PAR MILIEU TYPE	19412
 TYPE DE PARTIES PRENANTES Autorités	14425
 TYPE DE PARTIES PRENANTES Organismes	14425
 TYPE DE PARTIES PRENANTES PARTIES PRENANTES	14425
@@ -588,6 +604,7 @@ TYPES OF BUILDING Places	11129
 TYPES OF COMPLIANCE ASSESSMENTS	13381
 TYPES OF CROSS BORDER TRANSFER Transfer	13376
 TYPES OF ELECTRONIC PAYMENT SERVICES	12542
+TYPES OF M&E REPORTS	19520
 TYPES OF TRANSACTIONS	16844
 TYPES WIDELY USED	1939
 TYPOGRAPHICAL ERRORS	14670
@@ -735,6 +752,7 @@ Type and Nature	1988
 Type and Net Revenue Effect	13624
 Type and Objects of Company Rationale This Article	8866
 Type and Ownership	2775
+Type and Place of Residence	19542
 Type and Volume of Mobile Money Transactions	17870
 Type de DMD	13524
 Type de JORD	13835
@@ -754,6 +772,8 @@ Type of Building for Foreign Firms	12389
 Type of Business	1877
 Type of Cases	12977
 Type of Cash Crops Produced	17043
+Type of Crop Holding Category Area Banana	19554
+Type of Crop Holding Category Area Tomatoes	19554
 Type of Disability	2775
 Type of Disability and Sex	2775
 Type of Disease and Livestock Type	17043
@@ -761,6 +781,7 @@ Type of Disease and Poultry Type	17043
 Type of Documents	12550
 Type of Entity	12400
 Type of Equipment FY	6946
+Type of Facility	19544
 Type of Fruits Crops Produced	17043
 Type of Fund Manager	4972
 Type of Funding	14924
@@ -776,12 +797,14 @@ Type of Investment Figure	14830
 Type of Investment Infrastructure Works	14830
 Type of Labor	17043
 Type of Labor Used	17043
+Type of Language and Sex	19542
 Type of Legumes	17043
 Type of Lightening	16921
 Type of Lightning Use	16921
 Type of Lights Used	16921
 Type of Livestock	17043
 Type of Livestock LAAS-2024	17043
+Type of Machinery and Equipment Used	19554
 Type of Migration	15247
 Type of National Awards Conferred	14760
 Type of National Identification	12383
@@ -817,6 +840,7 @@ Type of Toilet Facility for Household	16921,193
 Type of Toilet Facility for Household About	16921,193
 Type of Use	17149
 Type of Use Respondents	17149
+Type of Use of ICT Equipment	19542
 Type of Vegetable Crops Produced	17043
 Type-1	13185
 Type-2	196,66,102,498,605,698,14587,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
@@ -827,7 +851,7 @@ Type-approval	16810,74,366
 TypeORM	17902
 TypeScript	5513,6409,322
 TypeScript and Python	13272
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108,136,545,120,121
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108,136,545,120,121,166,12,24,41
 Types Effectif Pourcentage	10875
 Types Gouvernance	14424
 Types Installed ENERGY MIX Generation	12358
@@ -836,6 +860,7 @@ Types Plaintes	14425
 Types Un	15908
 Types and Conditions of Licences	18602
 Types of AI Machine Learning	4528
+Types of Audit Opinions	19585
 Types of Benefits Rwanda Realized	12457
 Types of Businesses	12342
 Types of Company Information Available Online	12389
@@ -850,6 +875,7 @@ Types of Incompatibilities Semantic	12360
 Types of Licences	16835
 Types of Licenses	15484,1367
 Types of Losses and Eligible Persons	17114
+Types of M&E	19520
 Types of Misconduct Addressed	11218
 Types of Movable Assets	12389
 Types of Official Statistics Used	17149
@@ -918,3 +944,4 @@ Y6fu Tyw5Gc9m5dmiPkV Ms2YdiAozb8slwOrSoF0	18179
 Year Number of Type Approved Equipment Average	12395
 Zimbabwe Health Facility Type Code System	6666
 Zimbabwe Health Facility Type Value Set	6666
+Zone Tyaret	19439

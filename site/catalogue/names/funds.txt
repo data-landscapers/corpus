@@ -16,17 +16,20 @@ Autonomous Funds and Services	11939
 Availability of Funds	2307,10698
 Availability of Funds Reports Minutes Annually Under	13005
 Bangladesh and Madagascar Challenge Funds	11142
+Bank SN Funds	19585
 Bank-managed Trust Funds	4840
 Basket Funds	15601
 Board. Financial Provisions Funds	587
 Borrowed Funds	7198
+Borrowed Funds Not Refunded	19585
 Borrower. FundsChain	19284
 Budget Preparation Module and Electronic Funds Transfer	16949
 CFAF Funds Account	15372
+CHF Matching Funds TZS	19585
 CONSOLIDATED AND DEVELOMENT FUNDS ESTIMATES	12612
 COVID-19 Regular Funds	15500
 Climate Change Funds CDMA Code Division	2775
-Climate Investment Funds	17998,68
+Climate Investment Funds	17998,68,1358,1
 Collective Investment Schemes and Closed-end Funds	14844
 Commissions and Funds	13420
 Commission’s Internally Generated Funds	10629
@@ -57,10 +60,13 @@ Description Effectiveness Trust Funds	10829
 Description Effectiveness Trust Funds GA	10829
 Description Effectiveness Trust Funds The Grant	13332
 Description Funds	18294,6
+Disabilities Funds Management	19585
 Disbursement and Financial Information Letter. Funds	16949
 Disbursement and Flow of Funds Arrangements	15658
 Disbursement of Funds	2775
+Disbursement of Loan Funds	19585
 Disbursements of Grant Funds	19214
+Diversion of Funds and Unapproved Reallocation of TZS	19585
 Document Management System EFT Electronic Funds	16876
 Donor Funds	11218
 Donor Funds Received	11218,6
@@ -89,9 +95,10 @@ Founder Retail Investor Company Shareholders’ Funds	12882
 Full Year Budget GoG IGF Funds	15716
 Fund of Funds	14024
 Funding Funds	12379
-Funds	236,351,10,214,409,254,164,169,60,402,756,862,513,253,319,938,1037,251,79,261,10,1074,312,561,239,431,603,61,135,266,42,192,61,332,108,217,71,111,1,11,7,175,93,10,228,5,6,23,48,6,28,180,110,17,2,18,88,103,4,497,386,12,27,44,82,19,5,236,53,34,44,114,260,32,39,62,38,7,35,108,141,252,798,34,230,289,704,261,93,2,1,169,251,2,97,176,12,64
+Funds	236,351,10,214,409,254,164,169,60,402,756,862,513,253,319,938,1037,251,79,261,10,1074,312,561,239,431,603,61,135,266,42,192,61,332,108,217,71,111,1,11,7,175,93,10,228,5,6,23,48,6,28,180,110,17,2,18,88,103,4,497,386,12,27,44,82,19,5,236,53,34,44,114,260,32,39,62,38,7,35,108,141,252,798,34,230,289,704,261,93,2,1,169,251,2,97,176,12,64,279,3,66
 Funds Abuse	12978
 Funds Accounts	13420
+Funds Allocated for Drugs and Medical Supplies Diverted	19585
 Funds Available	18125
 Funds Available of Budget Available	18125
 Funds Chain	6539
@@ -110,6 +117,7 @@ Funds GoC Budget Financiers IDA	15372
 Funds Government of Japan UNDP Funding Window	16973
 Funds IBRD IDA Grants Net	4653,11379
 Funds Insurance Companies Fund of Funds Sovereign	4972
+Funds Judicial Service Commission	19576
 Funds LBR Liberia Business Registry LITAS	17011
 Funds MCS	18984
 Funds Managed	11469
@@ -123,7 +131,7 @@ Funds of Agency	12899
 Funds of Authority	3746,141,8648,804,32,5069,26
 Funds of Authority. Accounts	18440
 Funds of Board	13470
-Funds of Bureau	18893
+Funds of Bureau	18893,633
 Funds of Commission	18438
 Funds of Commission. Accounts	18438
 Funds of Companies Office	13311
@@ -152,7 +160,9 @@ IMF Internally Generated Funds	789
 Impact Area Final Budget Funds Available	18125
 Impact For Official Use Only Funds	19284
 Implication Funds	13420
+Improved Community Health Funds	19531
 Incoming Funds	16751
+Ineligible Transfers and Utilisation of Own-Source Funds	19585
 Instant Funds Transfer	15057
 Intelligence Unit Electronic Funds Transfer Financial	11130
 Internally Generated Funds	15716,74,55,318,361,399
@@ -168,6 +178,8 @@ Leverage Global Climate Funds	17260
 Lotto Funds	14829
 Low Absorption of Project Funds	14546
 Low Absorption of Project Funds The Republic	14546
+Low Utilisation Rate of Project Funds	19585
+Low Utilisation Rate of Project Funds S	19585
 Low-value Cross-border Electronic Funds Transfers	11131
 M Funds Flow	15659
 MCF Africa Growth Fund of Funds	909
@@ -185,11 +197,13 @@ National Fund of Funds	3953
 Net Source of Funds Total Disbursed Remaining	1284,15638
 Ngwempisi and Hosea Tinkhundla Centres. Funds	12970
 Nigeria Police Cybercrime Unit Recovers Funds	2269
-Non-World Bank Group Financing Trust Funds	10829,2282,221,1644,685,723,291,247
+Non-World Bank Group Financing Trust Funds	10829,2282,221,1644,685,723,291,247,2485
+Overdrawing of Deposit Funds and Payment Without Quoting	19585
 PART FIVE STARTUP FUND OF FUNDS	14024
 PART IV--FINANCIAL PROVISIONS Funds	14594
 Pension Funds	2775,2197,6283,1853,4395
 Pension Funds Act	3714,7541
+Persistent Under-Release of Funds	19585
 Pooled Funds	6947
 Private Equity Funds	14024
 Program NDTS RAPID-CI Sources of Additional Funds	3604
@@ -200,6 +214,7 @@ Protection of Funds	8354,4035
 Protection of Investment Transfer of Funds	18463
 REQUEST FOR RETURN OF FUNDS MT101	16844
 RETURN OF FUNDS VARIOUS GMD	16844
+Railway Funds	19602
 Reallocation of Funds	16187
 Reallocation of Funds Across Disbursement Categories	4653
 Reallocation of Funds Across Subcomponents	4653
@@ -208,6 +223,7 @@ Regular Funds	15500
 Regular Funds Expension	15500
 Regulation of Pension Funds	13474
 Reimbursements Funds	1867
+Released Funds Unreleased Year	19541
 Requests for Rollover of Funds	11250
 Retention Funds	4389
 Road Maintenance Funds	2775
@@ -219,6 +235,7 @@ Seedstars Africa Ventures and Taru Capital. Funds	810
 Setting Aside Campaign Funds	15393
 Seychelles Electronic Funds Transfer	1892
 Slow Absorption of Grant Funds The Project	14546
+Small Enterprise Assistance Funds	19390
 Social Development Funds	16963
 Social Funds	11857
 Sources and Uses of Funds	15372,3515
@@ -232,6 +249,7 @@ Special Funds NRF	14830
 Special Funds Rs	14830
 Special Funds Rs Million	14830
 Special Funds and State-Owned Enterprises	14830
+Spend Carryover Funds	19585
 Staff Funds Financial Year Accounts	18435
 Startup Fund of Funds	14024
 Statement of Sources and Uses of Funds	11855
@@ -244,6 +262,7 @@ Summary of Income Received Source of Funds Contributing	17260
 Surplus Funds	18596
 Technical New Funds Nigeria Funding Nigeria	4301
 Treasury Funds	13122
+Trend of Share of Source of Funds	19544
 Trust Funds	11417,488,483,1627,922,253,471,322,3301
 Trust Funds I. STRATEGIC CONTEXT A	15743
 U.S. Government. Funds	4153
@@ -257,6 +276,7 @@ United Nation Children's Funds. VUP	12403
 Universal Access Funds	17059,201
 Universal Service Funds	5033,1306,369,12223
 Universal Service and Access Funds	9759
+Unutilised Development Project Funds TZS	19585
 Uses of Funds	15372,3515
 Using Universal Service Funds	5675
 Utilization of Borrowed Funds	14546

@@ -10,6 +10,7 @@ ANC and ANSIE	4255
 ANC and CHWs	12328
 ANC and EPI	771
 ANC-led	7532,3740
+ANC. Policy	19544
 ANCA-CERT	6450
 ANCAR	18309
 ANCC Agence	17881
@@ -62,6 +63,7 @@ ASSOCIATION DES ANCIENS ELEVES	16456
 ASSOCIATION DES ANCIENS ETUDIANTS CONGOLAIS	16456
 Abbreviations ANC	12246
 Abbreviations ANC Antenatal Care DHIS District	771
+Acetic Acid ANC Antenatal Care FANC	19544
 Additional Financing AM Accountability Mechanism ANC	15138
 Afrique ANCD	17824
 Agriculture Anchored	16861
@@ -92,7 +94,7 @@ Anchoria Advisory Services	11127
 Anchoring	10834,2171,4865,1061
 Anchors	4590,648
 Ancia MOMBO	16175
-Ancien	737,6217,680,870,4796,457,1731,2324,49,1365,140
+Ancien	737,6217,680,870,4796,457,1731,2324,49,1365,140,70
 Ancien Ambassadeur	17861
 Ancien Cas ARV	19226
 Ancien Charte	17861
@@ -157,6 +159,7 @@ COLLECTIF DES ANCIEN Année	15439
 Carlyle Group and Anchorage Capital Group	9016
 Central Bank of Nigeria’s Anchor Borrowers’ Programme	14706
 Cercle de Gao ANCAWAD	17828
+Coverage ANC	19544
 DEFENSE ET DES ANCIENS COMBATTANTS Vu	17899
 DEG Anchor Investment	460,161,208,605,716
 DES ANCIENS L’ETAT	18032
@@ -209,11 +212,15 @@ Overarching Methodology Anchoring Grounded the Blueprint	14752
 PReSTrack Point-of-Service Solution for ANC	18478
 Panama Yes Plan Nacional de Banda Ancha	11529
 Per-césarienne Statut Nouvelle Ancienne Avec	19226
+Percentage Of Anc First Visit	19544
+Plus Visit Coverage And Anc	19544
+Pregnant Women Attending Anc	19544
 R2. Ancrer	15474
 RED NACIONAL DE BANDA ANCHA SÚPER	16865
 Ringfenced Anchor Capacity Funding	10157
 SHIANEE CALCUTTEEA CHETAN ANCHARAZ Partner Associate	12232
 SIPAO. Ancien	17848
+SN Region ANC	19544
 Services ANC Antenatal Care IPT Intermittent	16971
 Servicios de Banda Ancha	9543
 SociedadEstrategia Nacional de Banda Ancha Cyprus	11529
@@ -225,4 +232,5 @@ Tanzania National Business Council. Anchored	1388
 Trade Anchored	16861
 Trend of ANC	16971
 Vinaye Ancharaz. Organised	14811
+Visits and ANC Visit	19544
 Whether ANCS	1989

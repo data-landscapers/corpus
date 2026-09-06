@@ -151,6 +151,8 @@ Capacity Development and Employment Services Board	12329
 Capital Employed	7009
 Capital and Women and Girls' Empowerment	10829
 Censo de Empresas	9441,7457
+Center EASTC Economic Statistics EconStat Employment	19519
+Center-East and Center-West. Employment	19455
 Centre Population Coverage and Empowerment KRA	6946
 Centro de Empreendedorismo	10349
 Centro de Formalização de Empresas	17036,130
@@ -159,6 +161,7 @@ Centros de Emprego	16022
 Chad Livelihoods Program Sector of Employment Agriculture	10841
 Chamber Employees	18596
 Chapitre VI. Emploi	13377
+Child Employment	19531
 Child Online Safety and Empowerment Policy	8050,3350,3932
 Christian Fellowship. Employee Assistance Services	11131
 Citizen Economic Empowerment Act No	13346
@@ -193,6 +196,9 @@ Concessões Empresariais	12789
 Concluding Strategies for FDP Economic Empowerment	10841
 Conclusions The Women’s Empowerment and Nutrition	17127
 Conditions of Employment	12951
+Conduct Employment and Earnings Survey	19519
+Conducted for Newly Recruited Employees	19585
+Conducting Employment and Earnings Survey	19519
 Confederation of IGAD Employers	14039
 Congo Skills Development for Employability Project	15553
 Connectivity Empower the Department of E-Government	14674
@@ -217,6 +223,7 @@ Criação de Empresa	12021,3455
 Cuentas CONCEPTO PROM. EMPRES. EXTERIOR PROVINCIAL	4209
 Cultivateur Eleveur Artisan Employé de Employé	10847
 Culture Drivers Employee Voice Personal Development	11131
+Cutting Costs and Empowering Businesses	19582
 Cybersecurity Education and Employer Organizations Continued	1777
 Cybersecurity Education and Employer Organizations. Promote	1777
 Cúpula Empresarial	3093
@@ -347,6 +354,8 @@ EMPLOYERS DETAILS Company Trade Name	13037
 EMPLOYEUR	13300
 EMPLOYMENT	2775
 EMPLOYMENT AND LABOUR MIGRATION. Theme	14039
+EMPLOYMENT AND PERSONS WITH DISABILITY GOVERNMENT	19531
+EMPLOYMENT AND PERSONS WITH DISABILITY NATIONAL	19531
 EMPLOYMENT BY INTERNET ACCESS PROVIDERS	6000
 EMPLOYMENT BY MOBILE NETWORK OPERATORS	6000
 EMPLOYMENT CHARACTERISTICS	15085
@@ -412,6 +421,7 @@ Economic Empowerment	1824,951,9016,1262,1782,12,1202
 Economic Empowerment Agency ZSSF Zanzibar Social	7763
 Economic Empowerment BMA Border Management Authority	5533
 Economic Empowerment Commission Zambia Development X	12376
+Economic Empowerment Council POPI National	19534
 Economic Empowerment Project Development Objective	18624
 Economic Empowerment Support Program for Poor and Vulnerable	16384,129
 Economic Empowerment of Persons	4133
@@ -424,6 +434,7 @@ Economic Inclusion and Empowerment Services Pilot. DLI	15663
 Economique Emplois	17824
 Ecossistema de Empresas	15684,5
 Education Education Nor Employment	17503
+Education Empowerment	19532
 Effectif Total des Emplois Il	17945
 Effective Leave and Attendance Management Employees	13477
 Egyptian Women Empowerment and Human Capital	15663
@@ -449,7 +460,7 @@ Emphasis of Matter	14546
 Emphasis of Matter and Report	14546
 Emphasis of Matters	15169
 Emphasise	1243,9890
-Emphasises	3892,8439,2833
+Emphasises	3892,8439,2833,4407
 Emphasises ICT	15164
 Emphasising	7365,608,1602,595,1786,3265,2455
 Emphasize	10841,4156,1950
@@ -532,12 +543,12 @@ Employabilité	8269,622,2034,999,5660
 Employabilité des Jeunes	15500
 Employabilité des Jeunes du Mali Comme	7634
 Employable Skills for Youth	12412
-Employed	1988,5210,3806,267,25,1001,2518,2106,29
+Employed	1988,5210,3806,267,25,1001,2518,2106,29,2607,56
 Employed Both Sexes	14832
-Employed Person	16921
+Employed Person	16921,2636
 Employed Person Employed	16921
 Employed Persons	13310
-Employed Population	12600,4321,193
+Employed Population	12600,4321,193,2499
 Employed Self-Employed Men Employed	11004
 Employed Unemployed Outside Labour Force Male	14815
 Employed Women Employed	11004
@@ -550,6 +561,7 @@ Employee Awards	12951
 Employee Benefits	16978
 Employee Benefits IPSAS	14736
 Employee Benefits Wages and Salaries	16978
+Employee Birthdates	19585
 Employee Compensation	16978
 Employee Costs	12971,4007
 Employee Demographics Gender Distribution	14744
@@ -586,12 +598,15 @@ Employee Wellness Programme	11986
 Employee Wellness Programme The Employee Wellness	11131
 Employee Wellness and Welfare	6946
 Employee1	2775
-Employees	34,2,546,1406,1726,371,811,137,806,477,1650,1540,1215,255,155,93,56,16,285,187,106,7,213,159,76,17,251,711,6,106,112,1034,121,49,10,15,21,33,13,169,343,152,1393,70,30,129,43,78,1222,84,384,54
+Employees	34,2,546,1406,1726,371,811,137,806,477,1650,1540,1215,255,155,93,56,16,285,187,106,7,213,159,76,17,251,711,6,106,112,1034,121,49,10,15,21,33,13,169,343,152,1393,70,30,129,43,78,1222,84,384,54,549
 Employees ARTICLE	14409
 Employees Capital	236
+Employees Employees	19531
 Employees Employers Own	14832
 Employees Goods	14746
 Employees Income Table	14815
+Employees Receiving Net Salaries Below Authorised	19585
+Employees SPOC Government	19576
 Employees Status Regularization Project	16985
 Employees Suppliers	7204
 Employees The Court	14409
@@ -602,7 +617,7 @@ Employees of Companies Tribunal	3714
 Employees of Service Providers	10721
 Employees. SCR	18947
 Employees’ Lodging Accommodation	14742
-Employer	6832,4408,1366,431,16,474,1190,49,49,17,3,162,208,1682,293,919
+Employer	6832,4408,1366,431,16,474,1190,49,49,17,3,162,208,1682,293,919,1486
 Employer Incentives	12675
 Employer Organizations. Private Sector	1777
 Employer Pay Principle	14742
@@ -611,11 +626,13 @@ Employer Relief Scheme	11940
 Employer Vacancy	13037
 Employer-of-record	10319
 Employer-reported	6832
-Employers	5172,379,424,857,2052,222,909,964,276,41,483,448,218,516,76,344,96,749,136,214,166,285,3516
+Employers	5172,379,424,857,2052,222,909,964,276,41,483,448,218,516,76,344,96,749,136,214,166,285,3516,1059
 Employers Association	15027
 Employers Consultative Association of Malawi	13157
+Employers Employers	19531
 Employers Have Skin	10015
 Employers and Workers	12164
+Employers' Associations Employer	19531
 Employers’ and Inter-Professional Union of Congo	15553
 Employer’s Association	15027
 Employer’s Representative	11134
@@ -624,14 +641,15 @@ Employeu	737
 Employeur	13300,3317
 Employeurs	10711,4316,658
 Employeurs Article	15361
-Employing	4432,6701,1243,5473
+Employing	4432,6701,1243,5473,1685
 Employing Authorities	18576
 Employing WGA	14965
 Employingawell-definedsetofrelevantattributesoffersa	8606
-Employment	236,222,124,207,181,161,23,130,656,48,787,276,1401,76,368,238,670,196,593,59,180,18,698,297,614,608,1506,190,78,15,107,1,15,1,231,13,38,9,18,7,276,9,5,205,114,71,22,91,143,21,44,31,1,8,48,4,6,4,10,36,67,40,45,3,42,19,14,228,20,38,21,276,37,19,85,55,20,150,167,287,189,143,328,5,2,1,69,4,13,4,60,1,68,20,29,10,61,120,39,274,86,54,3,18,52,114,56,243,54,62,389,194,15,9,20,64,22,19,4,42,61,40,10,99,4,59,192,459,9,133,331,8,408,37,63
+Employment	236,222,124,207,181,161,23,130,656,48,787,276,1401,76,368,238,670,196,593,59,180,18,698,297,614,608,1506,190,78,15,107,1,15,1,231,13,38,9,18,7,276,9,5,205,114,71,22,91,143,21,44,31,1,8,48,4,6,4,10,36,67,40,45,3,42,19,14,228,20,38,21,276,37,19,85,55,20,150,167,287,189,143,328,5,2,1,69,4,13,4,60,1,68,20,29,10,61,120,39,274,86,54,3,18,52,114,56,243,54,62,389,194,15,9,20,64,22,19,4,42,61,40,10,99,4,59,192,459,9,133,331,8,408,37,63,504,64,5,10,23,56
 Employment Act	5616,223,813,3661,2626,37,1570
 Employment Act. This Kenyan	5839
 Employment Agency	4126
+Employment Agency and Self- Employment	19455
 Employment Both Sexes	14815
 Employment Breakdown Revenue	12395
 Employment Bureaux	14935
@@ -648,7 +666,7 @@ Employment Department	18950,90
 Employment Division	14770
 Employment Division Work Permit Unit	14847
 Employment Effects of Advances	17870
-Employment Employed	14832
+Employment Employed	14832,4781
 Employment Employment	10841,6151,4
 Employment Equity	5533,5712
 Employment Equity Act	11182,804
@@ -715,6 +733,8 @@ Employment Services Amendment Act	11280
 Employment Services Amendment Bill	11280
 Employment Services Board	11280
 Employment Services Board. The Bill	11280
+Employment Size	19557
+Employment Status Table	19557
 Employment Status of Nigerian Refugees	10841
 Employment Training	18577
 Employment Treat	12253
@@ -724,8 +744,11 @@ Employment Unemployment Potential Labour Force	14815
 Employment Youth NEET	15244
 Employment and Career Path Planning for France	8125
 Employment and Diaspora	16631
+Employment and Disabilities	19584
+Employment and Earning Survey	19557
 Employment and Earnings	18475
 Employment and Earnings Inquiry	13479
+Employment and Earnings Survey	19519,38
 Employment and Entrepreneurial Team	13358
 Employment and Governance Project	13331
 Employment and Higher Education Opportunities	15474,19
@@ -739,11 +762,15 @@ Employment and Labour Migration Ministerial Communiqué	14039
 Employment and Labour Policy NEP National Education	12964
 Employment and Labour Relations	4126
 Employment and Labour Relations Act	12566,31
-Employment and Labour Relations Act No	12597
+Employment and Labour Relations Act No	12597,6934
 Employment and Labour Relations Council	12597
 Employment and Livelihoods	14742
 Employment and Occupation	16972
+Employment and Persons	19531,3
+Employment and Persons PSSF	19541
+Employment and Poverty Alleviation	19531
 Employment and Professional Training Centers	11855
+Employment and Relations Government	19613
 Employment and Skills	3604
 Employment and Skills Executive Summary	12329
 Employment and Social Development Canada	11156
@@ -787,7 +814,7 @@ Empoderamento da Mulher. Segundo	17374
 Empoderamiento	16898
 Empoderando Comunidades	5020
 Empoderar	1701
-Empower	395,504,41,510,1689,987,40,1078,1192,3425,1279,97,760,935,32,6,1596,252,129,30,56,123,1716,14,65,188
+Empower	395,504,41,510,1689,987,40,1078,1192,3425,1279,97,760,935,32,6,1596,252,129,30,56,123,1716,14,65,188,2381
 Empower Africa	1717,603,1219,1420,19,1100,180
 Empower Africa. Accessed	12376
 Empower African SMEs	10151
@@ -833,10 +860,11 @@ Empowered Upper MiddleIncome Society	4528
 Empowered Upper-Middle-Income Society	13391
 Empowered Women	13938
 Empowered Women In Mourouk Valley	11332
-Empowering	395,16,559,3058,1081,1839,1042,1542,1551,151,338,804,131,509,81,217,1424,8,72,79,38,62,37,1881,36,12,10,566,331,423,165,521
+Empowering	395,16,559,3058,1081,1839,1042,1542,1551,151,338,804,131,509,81,217,1424,8,72,79,38,62,37,1881,36,12,10,566,331,423,165,521,553,2
 Empowering Africa	6948,3128
 Empowering African	8150
 Empowering Africa’s Future	5789,4927
+Empowering Citizens	19532
 Empowering Communities	6947
 Empowering Communities Through Digital Literacy	13030
 Empowering Communities and Achieving Gender Equality	18125
@@ -859,12 +887,17 @@ Empowering FinTech Innovation	6653
 Empowering Fisherwomen	11332
 Empowering Governments	17084
 Empowering Health	10630
-Empowering Individuals	4800
+Empowering Homes	19532
+Empowering Homes NAME	19532
+Empowering Implement	19534
+Empowering Individuals	4800,14732
+Empowering Innovation and Embracing Emerging Technologies	19532
 Empowering Learning Through Technology	18515
 Empowering Learning and Careers	17088
 Empowering Liberia Through Digital Transformation	16975
 Empowering Liberians	17260
 Empowering Lubombo	9305
+Empowering NAME Citizens	19532
 Empowering PROCASEF	18293
 Empowering PSNP	12229
 Empowering People	1467
@@ -879,6 +912,7 @@ Empowering Startups	12495
 Empowering Startups and Technopreneurs	14752
 Empowering Students With Digital Skills and Innovation	8824
 Empowering Tanzania	6022
+Empowering Tanzania's Digital Transformation	19532
 Empowering Taxpayers Through Education Recognizing	12439
 Empowering Voices	14464
 Empowering Women	9201,4130,2142
@@ -889,6 +923,7 @@ Empowering the Human Element	17116
 Empowering the Next Generation of Trainers	9360
 Empowering the SIngle	11154
 Empowering the Youth	13242
+EmpoweringTanzania's DigitalTransformation	19532
 Empoweringlearnerswithpersonalisedlearn-	8602
 Empowerment	940,308,2239,1041,2418,2504,1748,271,1043,130,320,8,325,123,56,1361,826,1200,11,255,40,716,629
 Empowerment AI4AI	14566
@@ -1059,7 +1094,7 @@ Empruntcur	15399
 Empruntcur ET LA BANQUE D'EXPORT-IMPORT	15399
 Emprunter	13390,2009
 Emprunteul	15399
-Emprunteur	5983,3356,4051,165,12,63,657,1,135,65,1,1,8,66,835,502,22,2271
+Emprunteur	5983,3356,4051,165,12,63,657,1,135,65,1,1,8,66,835,502,22,2271,1247
 Emprunteur ARTICLE	15901
 Emprunteur DSI	15901
 Emprunteur I'exécution	15399
@@ -1183,8 +1218,8 @@ Gender Empowerment	18468
 Gender Empowerment Act	18468
 Gender Empowerment Act PART VI-	18468
 Gender Equality and Employment Promotion	16942
-Gender Equality and Women Empowerment	11986,1699,3266,1537
-Gender Equality and Women's Empowerment	18558
+Gender Equality and Women Empowerment	11986,1699,3266,1537,1083
+Gender Equality and Women's Empowerment	18558,961
 Gender Equality and Women’s Empowerment	11193,1784,3974,1549,12,65
 Gender Equality and Women’s Empowerment Act	18512,25,12,34
 Gender Equality and Women’s Empowerment Promotion	11863
@@ -1227,6 +1262,7 @@ Guiché Unico Para Empresa Constituição	18833
 Guiché Unico de Empresas Online	10753
 Gás Empresas	15504
 H10 Emprunts	18032
+HCMIS System and Inaccurate Supply and Sanitation Employee	19584
 HEALTH GOVERNMENT AGRICULTURE EMPOYMENT OR ONLINE	11004
 Halima Hussein Women Empowerment Activist	12287
 Harambee Youth Employment Accelerator	6832
@@ -1290,6 +1326,8 @@ Industry and Employment Formulation	16926
 Industry and Employment NaNA National Nutrition Agency	16926
 Indépendant Employeur Salarié	13442
 Infomal Empresa	10757
+Informal Employment Child Labour	19613
+Informal Employment Enterprises	19613
 Informal Sector Employment	17311
 Informal Sector Employment Project	17000
 Informação Empresarial Simplificada	11423
@@ -1316,6 +1354,7 @@ K EMPLOYEUR	13300
 KEY PRINCIPLES Emphasising	1243
 Kenya Youth Employment Programme	1236
 Key Terms The Women’s Empowerment and Nutrition	17127
+Keywords Employment Unemployment Labour Force Participation	19613
 Kikuyu Constituency Economic Empowerment Programme	10313
 Knowledge Empowerment	9237
 L41 PROVISIONS REGLEMENTEES L10 EMPRUNTS ET	17833
@@ -1374,6 +1413,7 @@ MOR Employee Performance Management Directive	12500
 MRA WhatsApp Bot and Employee Self-Service	13053
 MSMEs Empowerment	7763
 MTN Ghana's Employee Share Option Scheme	10793
+Machinga Empowerment Fund	19602
 Madagascar Youth Employment Rate	14576
 Male Female Both Sexes Employer	14815
 Mali Social Protection and Employment Project	17906
@@ -1423,6 +1463,7 @@ Ministry of Trade Industry and Employment	16967
 Ministry of Trade and Employment	16926
 Ministry of Youth Empowerment	17934
 Ministry. Employees	34
+Model Integration G2B Employees	19576
 Modificación de Empresas	16859
 Monitoring of Employee Attendance	14761
 Monitoring of Employment	10963,1
@@ -1434,8 +1475,11 @@ Mwananchi Empowerment Fund	7763
 My5G Empresarial	7667
 Mº TRABAJO Y FOMENTO DE EMPLEO	4209
 Médias Empresas	2816,8610,593,2294
+N Entity Employees	19585
+N Entity Employees S	19585
 NA Employment	15604
 NA NA Employment	15604
+NAME Empowering Individuals	19532
 NAMIBIA INTEGRATED EMPLOYMENT INFORMATION	13037
 NAMIBIA INTEGRATED EMPLOYMENT INFORMATION SYSTEM	13037
 NATIONAL EMPOWERMENT AUTHORITY Sub-Part	14743
@@ -1453,7 +1497,8 @@ National Action Plan for Youth Employment	10963,1
 National Action Plan for Youth PBC Employment	10964
 National Commission for Foreigners’ Employment	11900
 National Consortium of Employers	16958
-National Economic Empowerment Council	7763
+National Economic Empowerment Act No	19531
+National Economic Empowerment Council	7763,11771
 National Economic Empowerment Fund	12978
 National Economic Empowerment Fund NRB National	13005
 National Employment Action Plan	16861
@@ -1480,6 +1525,7 @@ National Parental Empowerment Programmes	14742
 National Policy Framework for Women’s Empowerment and Gender	11193
 National Policy for Economic Empowerment of Citizens	5883
 National Treasury. Emphasis of Matter	14546
+National Youth Economic Empowerment Programme	19602
 National Youth Empowerment Strategy	13685
 Nationwide Human Capital and Women and Girls’ Empowerment	10829
 Nature of Incidents Employees	11131
@@ -1543,6 +1589,7 @@ POSTAL SERVICE SECTOR BLACK ECONOMIC EMPOWERMENT	11211,51
 POSTAL SERVICE SECTOR EMPLOYMENT	11211,51
 POVERTY AND ECONOMIC EMPOWERMENT	13399
 PRETS OU EMPRUNTS EN DEVISES P1G	18032
+PROJECT Empowering Tanzania's Digital Transformation	19532
 PROMOCION DE EMPRESAS E INDUSTRIAS	4209
 PROMOCION EMPRESARIAL E INDUSTRIA Servicio	4209
 PROMOCIÓN DE EMPRESAS E INDUSTRIAS	4209
@@ -1624,6 +1671,7 @@ Proyecto de Empadronamiento Municipal de Guinea Ecuatorial	4209
 Proyecto de Empoderamiento de Jóvenes	4209
 Proyecto de Emprendeduría	4209
 Pró Empresa	15526
+Public Employee Performance Management Information System	19584
 Public Employment Programmes	8817,3123
 Public Employment Service	148
 Public Employment Services Conducted	13037
@@ -1666,6 +1714,7 @@ Regulating Employment of Public ICT Workers	16885
 Relations and Employment Creation MLR Ministry of Land	12923
 Republic of Congo EMP Project	15372
 Resolution BROAD-BASED BLACK ECONOMIC EMPOWERMENT	11986
+Resources Employed for Identification	19541
 Responsável Máximo da Empresa	18775
 Responsável Máximo da Empresa Constata-se	18775
 Resultados Definitivos Empresa Pública	10757
@@ -1679,6 +1728,7 @@ SADC Women and Youth Empowerment	12918
 SAGEA Employer Benchmark Survey	6832
 SAPS and EMPD	11277
 SATION DES EMPLOIS Article	16047
+SBR Employees	19557
 SECTION FICHIER NATIONAL AUTOMATISE DES EMPREINTES	17899
 SECURITE EMP	15744
 SECÇÃO Número de Empresas Porcentagem	18775
@@ -1692,6 +1742,7 @@ Salaries and Employee Benefits	16978
 Salaries and Other Employee Benefits	16978
 Search AYVAYV MEDIA EMPIRE	18555
 Search AYVAYV MEDIA EMPIRE AYVAYV MEDIA	18555
+Secretariat of Employment	19541
 Secretaries and Employees	15393
 Sector Employment	13399,3492
 Sector Empresarial	12789,2602
@@ -1787,6 +1838,7 @@ Sustainable Employment	13474
 Swedish Employment Setvices	148
 Swedish Public Employment	148
 Swedish Public Employment Service	148
+System EES Employment and Earnings Survey GDP	19557
 São Tomé and Príncipe Youth Employment Opportunities	18809
 TABLEAU DES EMPLOIS ET RESSOURCES BAOBAB	18032
 TAREFAS DA EMPRESA	16321
@@ -1876,7 +1928,7 @@ WOMEN’S EMPOWERMENT Thematic Policy Statement	16951
 Wage Employees Self-employed	2775
 Wage Employment	2775
 Women Development and Empowerment	16861
-Women Economic Empowerment	12409
+Women Economic Empowerment	12409,7125
 Women Economic Empowerment Study World Bank	15604
 Women Employed	11004
 Women Employed Women Unemployed	11004
@@ -1891,12 +1943,15 @@ Women and Youth Empowerment	14818,2321
 Women and Youth Empowerment Women	14818
 Women's Economic Empowerment	14125
 Women's Empowerment	10763
+Women's Empowerment GGStat Good Governance Statistics	19519
 Women's Empowerment Just	12336
 Women's Empowerment Principles	14990
 Women's Empowerment and Gender Equality	14122
 Women's Empowerment and Nutrition	17165,201,1204
+Women's Empowerment and Nutrition Module	19614
 Women's Empowerment and Nutrition Survey	18570
 Womens Empowerment Metric for National Statistical Systems	18570
+Women’s Economic Empowerment Academy for Women Entrepreneurs	19529
 Women’s Empowerment	11193
 Women’s Empowerment Metric for National Statistical System	17127
 Women’s Empowerment Metric for National Statistical Systems	17127

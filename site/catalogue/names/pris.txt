@@ -132,7 +132,7 @@ Priscilla Owusuaa Opoku and Kim Sarup	2714
 Priscilla Sadomba Head Investor Relations and Communications	13634
 Priscille Nziuki	14666
 Prisco Voice Vox Limited Vulcable WhaiNot	8530
-Prise	1933,76,2012,546,2392,2539,626,752,2424,41,183,959,54,85,480,288,4,19,10,119,26,117,27,12,8,14,102,60,25,3,7,104,38,237,22,276,21,844,358,2,27,10,63,158,188,15,6,7,623,284,15
+Prise	1933,76,2012,546,2392,2539,626,752,2424,41,183,959,54,85,480,288,4,19,10,119,26,117,27,12,8,14,102,60,25,3,7,104,38,237,22,276,21,844,358,2,27,10,63,158,188,15,6,7,623,284,15,195
 Prise Effective du Pouvoir	16635,10,6
 Prise En Charge PEV	15423,262
 Prise de Décision	9276,7124
@@ -158,13 +158,14 @@ Prison Officers Training	15845
 Prison Records Unavailable	14045
 Prison Regulations	14742
 Prison Service	972,13858,2000
-Prison Services	14830,3647
+Prison Services	14830,3647,1042
 Prison Standing Orders	14742
 Prison Voie	15599
 Prisoner	15926
 Prisoners	14742,2216
 Prisonniers	10826
-Prisons	2775,92,515,201,304,1767,7351,1737,1103,1260,1329
+Prisons	2775,92,515,201,304,1767,7351,1737,1103,1260,1329,1085
+Prisons Force	19519
 Prisons Ordinance Act	18477
 Prisons P. O. Box HP1576	2776
 Prisons Regulations	14742
@@ -200,7 +201,9 @@ Sim EST-TEC9 Sistema de Informação Prisional SPD10	15532
 Sistema Prisional	16487
 Suleja Prison	10560
 Support Prison Court	18477
+System PIMIS Prisons Inmates Management Information	19590
 Tania Priscilla Begazo Gomez	961
+Tanzania Prisons Services Yes Capacity	19519
 Training of Police and Prison Officers	14742
 Treatment of Prisoners	12984,1758,3192,578
 Treatment of Prisoners of War	14742

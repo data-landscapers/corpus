@@ -1,3 +1,5 @@
+A. PART VI AMENDMENT	19518
+A. PART VII AMENDMENT	19518
 A. Recommended Amendments	14777
 ABC Attribute-Based Credential ANSI American National	10765
 ACLR Amendment Act	12912
@@ -40,7 +42,15 @@ AMELIORATION DU RESEAU ET REGULATION	15999
 AMELIORATIONS A VENIR Budget	18317
 AMELIORER LA VISIBILITE	17873
 AMELSTAR MEDICAL CENTRE Data Controller INST-1220615886B	7167
+AMEN MIS	19455
+AMEN PCTs	19455
+AMEN PCTs. Low	19455
 AMEN Program	1954
+AMEN SOCIAL	19495
+AMEN Social	19455
+AMEN Social PCT	19455
+AMEN Social Program Multidimensional Services	19455
+AMEN-registered	19455
 AMENAGEMENT ET	15999
 AMENAGEMENTS URBAINS	15542
 AMENDED	16833
@@ -53,7 +63,7 @@ AMENDEMENT	15732
 AMENDEMENT DES STATUTS ET DU RÈGLEMENT	15027
 AMENDES FISCALES Art	16328
 AMENDES POUR RETARD	16747
-AMENDMENT	2677,1184,521,1305,1704,441,2481,94,3042,224,788,23,289,48,206,2361,1530,116
+AMENDMENT	2677,1184,521,1305,1704,441,2481,94,3042,224,788,23,289,48,206,2361,1530,116,494,6,6
 AMENDMENT ARTICLE	12527
 AMENDMENT BILL	4633,1239,5407,775
 AMENDMENT OF ARTICLES OF ASSOCIATION	4896
@@ -74,7 +84,7 @@ AMENDMENT OF THE ROAD TRAFFIC ACT	6921
 AMENDMENT PROCEDURES AND CONSTITUTIONAL REQUIREMENTS	3861
 AMENDMENT T IIERETO	16851
 AMENDMENT THERETO	16851
-AMENDMENTS	16878,2336
+AMENDMENTS	16878,2336,304
 AMENDMENTS BROUGHT THROUGH THE FINANCE	14773
 AMENDMENTS SECTION	12484
 AMENDMENTS TO REVISED ANNUAL PERFORMANCE PLAN	11986
@@ -82,6 +92,7 @@ AMENDMENTS TO STRATEGIC PLAN OUTCOME INDICATORS	5533
 AMENDMENTS TO THE CONSTITUTION OF ZAMBIA	13472
 AMENDMENTS The Central Bank of Liberia	16878
 AMENU	6613
+AMEN’s TCTs	19455
 AMERICA	71,70,62,1,68,8,1,84,1,7,1,113,1,3,174,203,3,4,231,6,374,3,5,12,664,1,19,10,1849,153,1150,7610,6252
 AMERICA Committed	17417
 AMERICA Crosswalk	2198
@@ -152,18 +163,20 @@ Ameacas	2228
 Ameaça	11365,71
 Ameaça Cibernética	6970,4466
 Ameaças	5663,5906,5524,1701,151
-Amebainisha	11627
+Amebainisha	11627,7942,8
 Amecc	5530,26,8264
 Amede ES. Barriers	12379
 Amedy Pereira	18842
 Amedé Blaise	15615
 Amedée Sedar	15524
+Ameeleza	19581
 Ameer	17097
 Ameer Meea Minister of Industry	14753,88
-Amefafanua	1859,8567
+Amefafanua	1859,8567,9143,12
 Amegbor	11169
 Amegbor. Where Amegbor	11169
 Ameh Ochojila	10270
+Ameipongeza	19581
 Ameitaka TTCL	11612
 Amekudzi	15715
 Amel Belaliet	15410
@@ -183,11 +196,13 @@ Amember	18886
 Amembershall	972,12498
 Amen Bank and Attijari Bank Tunisia	10692
 Amen Program	1954
+Amen Social	19413,23
+Amen Social. Effectifs	19413
 Amenable	11956
 Amenazas	1701,15197
 Amenazas Amenazas Debilidades	1701
 Amenazas Oportunidades Fortalezas	1701
-Amend	899,4345,1707,5724,1,1530,545,184,538,1403,32,249,813,1264
+Amend	899,4345,1707,5724,1,1530,545,184,538,1403,32,249,813,1264,368
 Amend BOM Act	14777
 Amend Chapter	16851
 Amend ICT Act	14723
@@ -220,7 +235,7 @@ Amend the Regulations	6512
 Amend the Statistics Act	14777
 Amend the Uganda Communications Act	6949
 Amende	10842,5486
-Amended	585,5006,5618,60,588,205,32,535,47,229,381,1,28,2,68,583,441,1,303,1,1,1,4,10,150,682,1271,10,4,53,43,1211,729,9,2,291
+Amended	585,5006,5618,60,588,205,32,535,47,229,381,1,28,2,68,583,441,1,303,1,1,1,4,10,150,682,1271,10,4,53,43,1211,729,9,2,291,340,2
 Amended A.16	12887
 Amended Broad-Based Black Economic Empowerment	11235
 Amended Finance Law	16994
@@ -254,7 +269,7 @@ Amending Law No	16902
 Amending the Duration	14647
 Amending the Law	11906
 Amendmen	10713
-Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7,160,54,34,62,3,23,14,63,22,34,33,10,14,17,27,19,9,16,69,1,10,164,18,26,75,22,7,11,52,31,97,43,56,1,4,65,16,13,23,19,4,1,1,1,3,37,18,8,2,11,41,41,14,275,165,154,142,1,12,39,23,163,67,1,21,6,3,3,3,23,19,12,16,18,2,4,39,139,4,286,50,30,321,76,248,65,435,294,1,18,22,27,43,8,157,49,93,138,197,160,21,670,14,1,11,79,15,46,6,275,9,2,18,6,25,88,3,85,62,33,31
+Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7,160,54,34,62,3,23,14,63,22,34,33,10,14,17,27,19,9,16,69,1,10,164,18,26,75,22,7,11,52,31,97,43,56,1,4,65,16,13,23,19,4,1,1,1,3,37,18,8,2,11,41,41,14,275,165,154,142,1,12,39,23,163,67,1,21,6,3,3,3,23,19,12,16,18,2,4,39,139,4,286,50,30,321,76,248,65,435,294,1,18,22,27,43,8,157,49,93,138,197,160,21,670,14,1,11,79,15,46,6,275,9,2,18,6,25,88,3,85,62,33,31,273,6,4,6,6,45
 Amendment Act	3383,2489,1079,3206,1042,1,786,68,178,821,1683,2215
 Amendment Any	15641
 Amendment Bill	2626,2007,107
@@ -297,6 +312,7 @@ Amendment of Identification Regulations	6512,5535
 Amendment of Identification Regulations POPIA	6512
 Amendment of Identification Regulations Publish	6512
 Amendment of Identification Regulations The Regulations	6512
+Amendment of Income Tax Law	19602
 Amendment of Licence	18602
 Amendment of Licence Conditions	17249
 Amendment of Licence Conditions PUBLIC UTILITIES REGULATORY	17249
@@ -305,6 +321,7 @@ Amendment of License Conditions	762
 Amendment of National Disability Council Act	13033
 Amendment of Ninth Schedule	18541
 Amendment of PIN Without Obligation	14533
+Amendment of Part II	19518
 Amendment of Part II of Act No	18450
 Amendment of Part V of Act No	18451
 Amendment of Prequalification Document	1638
@@ -315,14 +332,15 @@ Amendment of S.I. No	1844
 Amendment of Schedule	5687,8580,4183
 Amendment of Schedules	12630
 Amendment of Sec	12208
-Amendment of Second Schedule	18541
+Amendment of Second Schedule	18541,987
 Amendment of Section	18450,91
 Amendment of Standing Orders	18436
 Amendment of Tax Procedures Code Act	14484
-Amendment of Third Schedule	13252,5289
+Amendment of The Vocational Education And Training	19534
+Amendment of Third Schedule	13252,5289,977
 Amendment of Utilisation	12058
 Amendment-branch	15261
-Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502,195,352,464,203,48,132,147,724,490,190,6,24,8,105,48,271,275,11,417,730,208,4,5,36,127,1122,303,595,150
+Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502,195,352,464,203,48,132,147,724,490,190,6,24,8,105,48,271,275,11,417,730,208,4,5,36,127,1122,303,595,150,274,72,58
 Amendments and Repealers	14647
 Amends	12058,1096
 Amends Ghana Revenue Authority Act	15459
@@ -334,7 +352,7 @@ Amenities	12389
 Amenities Fund	13420
 Amenorreia	10777
 Amenya	7750
-Ameongeza	3086,4763,3778
+Ameongeza	3086,4763,3778,7941,13
 Amer Al-Shidhani	8592
 Amer Saddek	15410
 Amer Yusuf	15064
@@ -359,6 +377,7 @@ America Middle East Asia Africa Pacific	10977
 America REPORT	7138
 America San Jose Very High EGDI	10840
 America San Salvador High EGDI H2	10840
+America South America Oceania ABOUT CHINA	19522
 America Tegucigalpa Middle EGDI MH	10840
 America USDA United States Department of Agriculture	17157
 America USSD Unstructured Supplementary Service Data	12512
@@ -376,7 +395,7 @@ America-to-Europe	11863
 America. Financial	17780
 America. Yet Nigeria	6266
 Americains	18757
-American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12,124,76,149,188,398,206,136,28,100,307,23,372,25,595,1134,9,215,202,778,176,473,357,693,126,83,2,103,319,346,249,82,358,33
+American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12,124,76,149,188,398,206,136,28,100,307,23,372,25,595,1134,9,215,202,778,176,473,357,693,126,83,2,103,319,346,249,82,358,33,210,40,21
 American AI	5216,41,516,1017,277,142,805,333,148,15,505,248,366,801,97,1213,6040
 American AI Exports Program	5216,41,516,1017,277,142,1286,2032,783
 American AI Exports Program. Applicants	7067
@@ -393,7 +412,8 @@ American Behavioral Scientist	2096,9994
 American Big Tech	5366
 American Big Tech. Well	6517
 American Chamber	15473
-American Chamber of Commerce	7537,159,84,3025,3444,1728
+American Chamber of Commerce	7537,159,84,3025,3444,1728,3503
+American Chamber of Commerce Tunisia	19480
 American College of Radiology	11156
 American Corner	6695,2926,1488,2615
 American Corner Maseru	6695
@@ -462,6 +482,7 @@ American and Chinese	8014,481,768
 American and European AI	14829
 American and Kenyan	7750
 American and Senegalese	10177
+American and Tunisian	19480
 American-British	1741
 American-Ivoirian	7430
 American-based	3708
@@ -516,12 +537,15 @@ America’s Most Wired Cities	14723
 America’s Paciﬁc Century. Foreign Policy. Council	11154
 Amerika Ellen Maduhu Wizara	7935
 Amerley Nuno-Amarteifio	11775
-Amesema	2710,376,1013,265,1052,599,587,23,686,1152,152,761,1050,130,1056,15,2590,46
+Amesema	2710,376,1013,265,1052,599,587,23,686,1152,152,761,1050,130,1056,15,2590,46,5305,1
+Amesema Bunge	19577
+Amesema Bw. Kanyusi	19617
+Amesema Mradi	19569
 Amesema Serikali	6602
 Amesema TTCL	11612
 Amesema Tanzania	14217
 Amesema Tume	3447
-Amesisitiza	7849,3763
+Amesisitiza	7849,3763,7958
 Ameta-analysis. British Journal of Educational Technology	8602
 Ametaja	7311,538,766,1811
 Ametolea	8463
@@ -534,7 +558,7 @@ Amex Clearing	11955
 Ameya Naik	6668
 Ameya-3-620x349.png	6668
 Ameya-bw-110x110.png	6668
-Ameyasema	11627
+Ameyasema	11627,7953,37
 Ameyataja	4099
 Ameyaw	10112
 Amezitaja	6015
@@ -552,6 +576,7 @@ Asia and South Americans	12246
 Asian and South American	1219
 Association of American Geographers	3782,894
 Association of Women Farmers AMEP	18770
+Attijari and Amen Banks	19390
 Authority. Amendment	736
 B SOCIETE AMENAGEMENT BATIMENT CONSTRUCTION GUINEE	16623
 B. Amended	14717
@@ -618,7 +643,7 @@ Companies Act Amendment	11250
 Computing Weights for American National Election Study	15244
 Connecting America	11529
 Conselho de Gestão da AMECON	8003
-Consequential Amendments	3714
+Consequential Amendments	3714,15801,8
 Consider Latin America	2830
 Consolidated and Amended Version	14719
 Constitution Amendment Bill No	12556
@@ -724,6 +749,7 @@ Europe and South America	2320
 European and American	5482,381
 European and South American	11863
 Europeans and Americans	12151
+Expanding FA for AMEN	19455
 External Company Name and Amendments	12041
 FACILITATE THE AMENDMENT OF THE LOCAL	13387
 FONCTIONS SUPPORTS Ame lnorer	15999
@@ -745,6 +771,7 @@ Franck Amedée	15744
 Fraqueza Oportunidade Ameaça	11569
 Full Text of America First Global Health	3974
 Further Amend the New Executive Law	16833
+G. Ameeleza	19581
 GAMS ASTM Adopted American Society for Testing	16900
 GAZETTE SI Amendment	19031
 GOGEDES and AME	16436
@@ -778,6 +805,7 @@ Hadandawa and Beni Amer	15342
 Helms Amendment	4153,14,35,15,43,41,48,1003,1182
 Henrietta Brobbey Ameyaw	13681
 High EGDI M-OSI H-HcI H-TII Americas	10840
+Household Amenities	19613
 Housing and Community Amenities	14830
 Human Rights and Disinformation Amendment Act	10729
 IHS Towers and American Tower Corporation	4896
@@ -887,6 +915,7 @@ MDAs. Amendment	18450
 MENSAVI Kwami Amenyaglo ADC	19251
 MENTAL HEALTH CARE ACT Amendment	18943
 MFMA Amendment Bill	11236
+MISCELLANEOUS AMENDMENTS	19518
 MISCELLANEOUS AMENDMENTS ACT	18943
 MOROCCO Amending and Extending the Agreement	1234
 MOTIONS AND AMENDMENTS THERETO	18436
@@ -908,6 +937,8 @@ Means of Amending and Discharging	14647
 Medical Services Amendment Act	10071
 Melle Amel Salhi	15360
 Mhe. Makinda. Amesema	11627
+Mhe. Ndejembi. Amebainisha	19569
+Mhe.Kikwete. Ametahadharisha	19577
 Middle EGDI M-OSI H-HcI H-TII Americas	10840
 Middle East Americans	18879
 Middle East and Americans Others	16921
@@ -918,13 +949,15 @@ Middle East and North America	2769
 Middle Eastern and South American	8603
 Minister Ameer Meea	14811
 Minister.’’. Amendment	11199
+Minor Amendments	19602
 Miscellaneous Amendment Act No	12227
-Miscellaneous Amendments	11134,1005,2271,474
+Miscellaneous Amendments	11134,1005,2271,474,4634,13,10
 Miscellaneous Amendments Act	18943
 Miscellaneous Amendments Bill	12139
 Miscellaneous Amendments Law	14884
 Miskeen Amer Omran N Saad Fathi	17403
 Mme COSTODES AMENDJET	16381
+Mohamed Ame Makame	19615
 Mohamed Amer	6653
 Mohammed Ameur	15933
 Money Bills Amendment Procedure and Related Matters	11230,59
@@ -988,21 +1021,31 @@ Organisation of American States	3874
 Organization of American States	10764,371
 Outer Spacev. American Economic Review	13624
 Oversight BASIC AMENITIES	15206
+PART II AMENDMENT OF THE ADVOCATES	19518
 PART II AMENDMENT OF THE BANK	6921
+PART III AMENDMENT OF THE BIRTHS	19518
 PART III AMENDMENT OF THE ELECTRONIC	6921
 PART IV AMENDMENT OF THE BANK	6921
+PART IV AMENDMENT OF THE BUSINESS	19518
 PART IV AMENDMENT OF THE EXCISE	6921
 PART IX AMENDMENT OF THE FAIR	6921
 PART IX AMENDMENT OF THE INCOME	6921
+PART IX AMENDMENT OF THE MAGISTRATES	19518
+PART V AMENDMENT OF THE CIVIL	19518
 PART V AMENDMENT OF THE EXPORT	6921
+PART VI AMENDMENT OF THE COMPANIES	19518
 PART VI AMENDMENT OF THE EXCISE	6921
 PART VI AMENDMENT OF THE FAIR	6921
+PART VII AMENDMENT OF THE ENVIRONMENTAL	19518
 PART VII AMENDMENT OF THE GAMING	6921
 PART VIII AMENDMENT OF THE EXPORT	6921
 PART VIII AMENDMENT OF THE IMPORTS	6921
+PART VIII AMENDMENT OF THE LAND	19518
 PART X AMENDMENT OF THE GAMING	6921
+PART X AMENDMENT OF THE NATIONAL	19518
 PART XI AMENDMENT OF THE INCOME	6921
 PART XI AMENDMENT OF THE LAND	6921
+PART XI AMENDMENT OF THE TOURISM	19518
 PART XII AMENDMENT OF THE INVESTMENT	6921
 PART XII AMENDMENT OF THE LOCAL	6921
 PART XIII AMENDMENT OF THE LOCAL	6921
@@ -1036,7 +1079,10 @@ Pan American Health Organization. Electronic Immunization	8376
 Parliament Technologies. Data Governance Amendment Within	7548
 Parliament. Amendments	18473
 Parliament.’’. Amendment	11201
+Part IV. Amendment	19518
+Part XII Consequential Amendments	19509
 Part. Amendment of Schedule	18541
+Parts. PART II AMENDMENT	19518
 Patrick Amedée FANGUINOVENY	16175
 Personal Explanation MOTIONS AND AMENDMENTS THERETO	18436
 Police Amendment Bill	3746
@@ -1050,8 +1096,8 @@ Projet Amecc I Vers	5530
 Promote American and Kenyan	4153
 Promulgation of Amendment Act	12912
 Proposed Amended Constitution	8866
-Proposed Amendment	4732,9932
-Proposed Amendments	4732
+Proposed Amendment	4732,9932,4938
+Proposed Amendments	4732,14870
 Proposed Amendments.56	4732
 Proposed Legislative Amendments The Regulator	14357
 Protecting Americans’ Data	11154
@@ -1071,8 +1117,10 @@ Regulations Amendment	5687
 Regulations. Amendments	11685
 Regulations. C.307 Amendment	5687
 Reject Amended Upheld Page	10819
+Remarks Amendments	19602
 Repeal and Amendment of Acts	16835
 Repeal and Amendment of Acts Schedule B	16835
+Repeal of Schedules. PART XII AMENDMENT	19518
 Replaces ZWS B7 and B8 Amended	13385
 Replaces ZWS C16 Amended	13385
 Replaces ZWS CA3 Amended	13385
@@ -1113,11 +1161,13 @@ Sales Receipt Amendment	18450
 Sanitation and Social Amenities	13685
 Sayed Muhammad Aadil Ameer Meea	14811
 Schedule Amendment	11551,6990
+Second Schedule. Amendment	19540
 Second and Third Amendment	5533,6453
 Second and Third Amendments	11218
+Second and Third Schedules. PART XII AMENDMENT	19518
 Seconding of Motions and Amendments	18436
 Sendwave. What Amegbor	11169
-Serikali. Amesema	9376
+Serikali. Amesema	9376,10201
 Services Ameliorations	18317
 Services. American University International Law Review	1243
 Shallouf Ibtisam Hussien Ben Amer	17403
@@ -1139,6 +1189,7 @@ South American	9832
 South East Asia and South America	4676
 Special Economic Zones Amendment Bill and Technopolis	6161
 Springer Nature America	12712
+Startup America	19534
 States of America	4302,9160
 States of America USAID United States International	12970
 States of America Uruguay Uzbekistan Vanuatu Vatican	11470,7872
@@ -1197,7 +1248,7 @@ United Nations Economic Commission for Latin America	11572
 United State of America N	12151
 United States American	16978
 United States and American	7430
-United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1,421,547,312,51,17,102,989,143,175,332,29,290,66,22,20,132,661,109,54,486,115,379,300,128
+United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1,421,547,312,51,17,102,989,143,175,332,29,290,66,22,20,132,661,109,54,486,115,379,300,128,260
 United States of America Data Controller INST-449650E1463	7167
 United States of America Data Processor INST-449650E1463	7167
 United States of America Email	13042
@@ -1205,6 +1256,7 @@ United States of America Facsimile	19214
 United States of America Japan International Scene	2775
 United States of America USAID United States	12962
 United States of America and Europe. Ngamita	2549
+United States of America and Israel	19602
 United States of America. A Panel Discussion	14779
 United States of America. Abu Dabi Fund	17105
 United States of America. Email	13382

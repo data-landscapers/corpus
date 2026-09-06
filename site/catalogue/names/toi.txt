@@ -16,6 +16,7 @@ ENFANT A UTILISÉ TOILETTES OU LATRIN	13300
 Facilities Toilet	14778
 Hangar Toit	737
 Immeuble Toilette Bamako	17817
+LGA Type Classrooms Teachers Dormitories Toilet	19585
 Mbaé Toimimou	13817
 Merry Toi-Milonon	5516
 Mon Toit	15936
@@ -31,16 +32,18 @@ Sao Toime and Principe's Minister of Infrastructure	18759
 Separate Toilets	14778
 Soundi Abdou Toilib	3753
 TOI Massabalo SCH	19251
+TOILETTE ET SALLE DE BAIN OU	19412
 TOILETTES	13300
 TOIRE	15558
 TOIRE DU MULTI-COUNTRY HIV	17812
+TOITS PAR MILIEU MATÉRIAUX DE CONSTRUCTION	19412
 TYPE DE TOILETTES	13300
 Toidentifythe	8606
 Toiion	15429
 Toiions	15429
 Toiisliques	15561
 Toile. Une	5022
-Toilet	1988,12754
+Toilet	1988,12754,4843
 Toilet for Staff	14778
 Toiletries	8115
 Toilets	14738

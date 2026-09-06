@@ -27,6 +27,7 @@ Body IFC	16776
 Bureau of Urban IFI	17260
 Burundi Seeks IFC Support for Digital Projects	2383
 CBL and IFMIS. Concurrently	17011
+CHF Improved Community Health Fund IFTIMIS	19585
 CIV. No IFC	856
 CPDIF.' IFC	685
 CPF ECD FCV FY IDA IFC	11468
@@ -92,6 +93,7 @@ First IFR	12595
 Fonds Européen de Développement IFORD	18291
 Fonds Monétaire International IFORD	17842
 Fragmented IFMIS	12214
+Full IFRSs	19514
 G Capital and IFC	9079
 GCR GRF IFC IGAD ILO INSTAD	13938
 GDP.168 The IFC	14674
@@ -99,12 +101,14 @@ GIT IFRS for SMEs ISAs LPG MNRE	12969
 GOL IFMIS	16970
 GRS Grievance Redress Service IFR Interim	18301
 GWAN ICT IFMIS INRIS ISMS ISP	12453
+Gairo DC Dispensaries Shortage Ifakara TC	19585
 Gambia. Supports IFMIS	166
 General IFC Inquiries	16776
 Global Director Ede Jorge Ijjasz-Vasquez Iffath	15731
 Glossary of Terms Abbreviation Expansion IFMIS Integrated	12917
 GoM and IFIs	17870
 Google and IFC	16942,928,1061
+Government Authority IFM RITA Online Service	19541
 Government Procurement Media Center IFMIS News	12322
 Group IFC International Finance Corporation IPF	6539
 Guinea Ecuatorial IFN Inventario Nacional Forestal	16875
@@ -132,6 +136,8 @@ IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16,466
 IFAD International Fund for Agricultural Development ILO	10841
 IFAD LOAN NO	14546
 IFAD and AgDevCo Ventures Limited	17679
+IFAD and UNDP	19571
+IFAD and WFP	19555
 IFAD and World Bank	9650
 IFADEM	18942
 IFADEM Initiative Francophone	15541
@@ -275,6 +281,7 @@ IFETRES Lz	15530
 IFFOU	15711
 IFFs. Following	9162
 IFHREC	9128
+IFHV Human Immunodeficiency Virus INGOs Information	19520
 IFI Eradication	15901
 IFI Institution	16626
 IFI International Financial Institution IMF International	970,16900
@@ -292,6 +299,7 @@ IFIs and UN	13624
 IFIs. The EIB	789
 IFM Julius Nyerere de Bamako	8577
 IFM Quality Services Pty Ltd	14736
+IFM and CBE	19541
 IFM de Bougouni	8577
 IFM de Kangaba	8577
 IFM de Kati	8577
@@ -299,7 +307,7 @@ IFM de Niono	8577
 IFM de Sikasso	8577
 IFM de Ségou. Le Secrétaire	8577
 IFM-EFEP de Bamako	8577
-IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22,351,38,30,1,199,282,1411,14,4,7,2,57,7,21,41,68,59,1,175,50,54,129,812,129,12,29,47,1,84,162,142
+IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22,351,38,30,1,199,282,1411,14,4,7,2,57,7,21,41,68,59,1,175,50,54,129,812,129,12,29,47,1,84,162,142,619
 IFMIS Academy About Academy Training Schedule	12322
 IFMIS Accounting Module Operationalized	18359
 IFMIS Comments	17079
@@ -358,6 +366,7 @@ IFPs and Núcleos Pedagógicos Complete	2989
 IFR Interim	18777
 IFR Interim Financial Report IMF International	15661
 IFR Interim Financial Report INRIS Integrated	1867
+IFR Interim Financial Report INS National	19455
 IFR Interim Financial Report IPF Investment	10768,4891
 IFR The World Bank CAR	15661
 IFR-26	11579
@@ -374,9 +383,12 @@ IFRS Instant Payment System Capital Account	17235
 IFRS S1	9103
 IFRS S1 and S2	9103,5920
 IFRS Sustainability Disclosure Standards Rwandan Adoption	14997
+IFRS for SMEs	19514
+IFRS for SMEs AND FRSME IN TANZANIA	19514
 IFRS9	11131
-IFRSs	1154,1897,10002,2116
+IFRSs	1154,1897,10002,2116,4345
 IFRSs and IPSASs	3051
+IFRSs for SMEs	19514
 IFRs Interim Financial Reports IMF International	13332
 IFRs M	3604
 IFRs PIU	10829
@@ -389,6 +401,7 @@ IFSA Integrated Fiduciary Systems Assessment INPPLC	17458
 IFSC and BPO	12529
 IFSS INSTITUT DE FORMATION EN SCIENCES	18170
 IFT The National Instant Payment System	2358
+IFTIMIS	19585
 IFU ID	10812
 IFU Identifiant Fiscal Unique IMSP Institut	15583
 IFU Investment Committee	84
@@ -406,12 +419,25 @@ IFs. Seules	13390
 IFs. Tableau	13390
 IGM IFR IPF MAHSRN M&E MEPCI	15658
 IMF IFS	49,129,1,152,5,47,1,66,5,1,1,1,45,1,94,16,1,1,1,55,20,1,1,1,1,106,21,1,1,1,1,1,58,14,1,1,1,1,139,8,1,1,79,140,62,1,1,69,1,1,14,1,1,1,1,1,1,103,1,1,1,543,1,1,1,47,16,1,76,1,2186,1,1,1,51
+IPSASs and IFRS for SMEs. The NBAA Governing	19514
+IPSASs and IFRSs for SMEs and Technical Pronouncement No	19514
 ISIFUNGO IFOMU	11573
 ISIQEPHU C IFOMU	11573
 Identity for Development IDN ID Number IFMIS	12663
 Ifahsa	17524
 Ifahsa Pumped Hydropower Storage Project	17524
 Ifakara	5783,1467
+Ifakara Health	19521
+Ifakara Health Institute	19519
+Ifakara Health Using	19521
+Ifakara Morogoro	19592
+Ifakara TC	19584,1
+Ifakara TC Health	19585
+Ifakara TC Ifakara TC Special Unit	19585
+Ifakara TC Primary	19585
+Ifakara TC Secondary	19585
+Ifakara TC TC	19585
+Ifakara TC Ultrasound	19585
 Ifakara. Michael Joseph	7250
 Ifanadiana	14662
 Ifanga	15102
@@ -445,18 +471,22 @@ Ifrah F Ahmed	5947
 Ifsuch	12959
 Ifthisoverallscoreexceedsasetthreshold	8606
 Iftikhar Malik	12328
+Ifuatayo	19565
+Ifuwa	19592
 Ify Ogo	10819
 Improving IFR	12195
 Inclusion IFU	896
 Inclusive Education IFMIS	12175
 Indice de Développement Humain IFRISSE	15720
 Indice de Développement des TIC IFRI Institut de Formation	15583
+Information Communication Technology IHI Ifakara Health	19521
 Information Communications Technology IFMIS	16872
 Information and Communication Technology IFMIS	5244
 Infrastructure Fund. IFISA	11248
 Inquiries and Comments About IFC	16776
 Institution of Distance Leaning IFMS Integrated Financial	12975
 Integrated Disease Surveillance and Response IFR Interim	16922
+Integrated Financial Management Information System IFMIS	19584
 Interim Unaudited IFR	3604
 International Accounting Standard Board IFRS	11955
 International Day of Peace IFIMS Internal Financial	16970
@@ -493,6 +523,7 @@ Mauritius’ IFC	14819
 Merging IFC-based BIM	8604
 Messagerie IFB	15474
 Ministry of Internal Affairs IFMIS	16872
+Mji Ifakara	19592
 Monetary Fund IFC International Finance Corporation	15659
 Mrs. Ijeoma Iwugo Ifudu	11129
 Nnenna Ifeanyi-Ajufo	3058
@@ -537,9 +568,12 @@ RoC. The IFC	15659
 Roll-out of IFMIS	18359
 Rwanda Financial ICPAR's IFRS Sustainability	14997
 SAP IFMIS	12176
+SCOPE OF THE APPLICABILITY OF IFRSs	19514
 SEKVICE IFIÉE CONFORME	15999
 SIGFP BI IFMIS	5866
 SSA. IFC	623
+Scope of Applicability of IFRSs	19514
+Scope of Applicability of IPSASs and IFRSs	19514
 Service IDA International Development Association IFC	17099
 Service IFR Interim Financial Report MAHGC	18198
 Sierra Leone. IFC	1521
@@ -557,6 +591,7 @@ Substantial. The IFSA	11905
 Support for IFMIS	16949
 Supports IFMIS	536
 Survey and IFMIS	7548
+TANZANIA YALENGA KUTOKOMEZA MALARIA IFIKAPO	19561
 Technology IDA International Development Association IFRs	17862
 Technology IDs Identifications IFMIS Integrated Financial	17011
 Technology IFC International Finance Corporation MFI	13347

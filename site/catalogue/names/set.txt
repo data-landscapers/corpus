@@ -102,8 +102,9 @@ Conducive Setting for Innovators	15460
 Consent Decrees and Settlement Authority	3861
 Constitution. Set-up	18595
 Context Setting	17364
-Cookie Settings	3907,2274
+Cookie Settings	3907,2274,13414
 Cookie Settings Accept All CookiesManage	3907
+Cookie Settings Accept All Manage	19595
 Cookie SettingsREJECT ALLACCEPT ALLManage	6181
 Councils and Settlement Councils	12771
 Covid-19 SETIC	9799
@@ -160,6 +161,7 @@ Economic Space Setting	14829
 Effectiveness SETIC-PIU SETIC-PIU	13331
 Electronic Payment and Settlement System	12286
 Em Setembro	2729,12719,2093
+English Kiswahili Reset All Settings Inflation	19614
 English and Setswana	12529
 Environmental and Social Project Settings	18374
 Establish Monitoring Set	1777
@@ -217,10 +219,19 @@ High Resolution Settlement Layer	1013
 High-Quality Sectoral Arabic Data Sets	15713
 High-Quality Sectoral Arabic Data Sets Code	15713
 High-Quality Sectoral Localized Data Sets	15713
-Housing and Human Settlements Development	6123
+Housing Dev Ministry of Lands and Human Settlements	19519
+Housing and Human Settlements	19602
+Housing and Human Settlements Development	6123,13419,43,14,2
+Housing and Human Settlements Development Level	19584
+Housing and Human Settlements Development MoF Ministry	19585
+Housing and Human Settlements Development NIC National	19541
+Housing and Human Settlements Development TZS	19585
+Housing and Human Settlements Development and LGAs	19585
+Housing and Human Settlements Developments	19585
 Housing and Settlement	1131,1644
 Human Settlement	12006
 Human Settlements	11285
+Human Settlements Development	19542,42
 Human Settlements Entities	11285
 Human Settlements Programme	16916
 Human Settlements Programme UNHCR United Nations	10759,78,1052,451
@@ -331,6 +342,7 @@ Management System and Settlement Distribution Smart Vehicle	4126
 Map Informal Settlements	14769
 Mauritius Automated Clearing and Settlement System	6938
 Medical Language Models for Resource-Constrained Settings	13158
+Meet the Set Target	19541
 Meheba Refuge Settlement Kalumbila District	1988
 Meheba Refugee Settlement	1778,89,121
 Meheba Refugee Settlement. Component	1988
@@ -344,6 +356,9 @@ Minister of Human Settlements and Another	14673
 Minister of Water and Human Settlement	12607
 Ministry and SETIC	13314
 Ministry of Human Settlements	11285
+Ministry of Lands Housing and Human Yes Settlements	19519
+Ministry of Lands and Human Settlement Development	19585
+Ministry of Lands and Human Settlements Development RUWASA	19519
 MoYPICT Short High SETIC	13314
 MoYPICT Short High Set	13314
 Modernization of Refugee and Host Community Settlement Areas	1867
@@ -457,7 +472,7 @@ REAS OU SETORES REGISTOS LEGAIS RELATIVOS	15694
 RSE. Set	14997
 RTGS Real-Time Gross Settlement SDM Single	1264
 RTGS Settlement	12490
-Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359
+Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359,2266
 Real Time Gross Settlement Agency	14897
 Real Time Gross Settlement System	4517,2461,6490,1686,1690,34,260
 Real Time Gross Settlement USSD Unstructured	14897
@@ -591,12 +606,14 @@ Set E1	8606
 Set E2	8606
 Set En	8606
 Set Goals	12675
+Set Identification Target Covers	19541
 Set Issuance Targets	12882
 Set Key Performance Indicators	15034
 Set Lead	14997
 Set Offer Amounts	12882
 Set Out	6947,5814
 Set Systems Ltd	15901
+Set Targets	19541
 Set Up	1204
 Set for November Launch	2510
 Set of Documents	12389
@@ -636,6 +653,7 @@ Seth Garz	10977
 Seth Kevin	15524
 Seth Macheli	12757
 Sethibe	4432
+Sethroelndgst.hening	19554
 Sethuraman	9237
 Setic	5905
 Setif	4902
@@ -679,7 +697,7 @@ Setsetse	9466
 Setshwane	12625
 Setswana	8108,2698,374,51,1325,85,4944
 Settat	3375,14066
-Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859,285,263,201
+Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859,285,263,201,754,22
 Setting Aside Campaign Funds	15393
 Setting Deprivation Cut-offs for Each Indicator	15244
 Setting Zone Setting Gender Mt Kenya	7869
@@ -691,7 +709,7 @@ Setting-up	11863,4038,984
 Settings	7266,1900,1022,660,30
 Settings Sitemap	12339
 Settle	9328,5699,1899
-Settled	3676,1220,722
+Settled	3676,1220,722,13906
 Settled Object	8380
 Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119,914,129,2,104,63,29,1917,35,9,143,110,109,1210,3,1,93
 Settlement Account	12364,2182
@@ -798,6 +816,7 @@ United Nations Human Settlements Programme. HS	16916
 Unlimited SETAR	15471
 Unplanned Urban Settlements	13474
 Unprioritized Settlement of Payments	14546
+Unrealistic of Target Setting	19541
 Updated Set of Principles	3583
 Updated Shared Value Sets	1009
 Upgrading Informal Settlements	11285

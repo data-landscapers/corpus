@@ -57,6 +57,8 @@ DBK Development Bank of Kenya DCS Depository	2775
 DE DEPOUILLEMENT	17861
 DECLARATIONS DEPOSEES EN CENTRE. EST-CE NORMAL	16629
 DELEG. NAC. DE DEPORTE MILITAR.- Concepto	4209
+DEPONENT	19526
+DEPONENT Declared	19526
 DEPORT. DEPORT. Cuentas CONCEPTO	4209
 DEPORTEES RAISE QUESTIONS ABOUT LIBERIA MIGRATION	10581
 DEPORTIVAS A IDIOMAS REGIONAL DISTRITALES INSULAR	4209
@@ -110,7 +112,8 @@ Deportes de Guinea Ecuatorial	17215
 Deportes. Excelentísimo	6841
 Deporting	11986
 Deportiva Militar	4209
-Deposit	5679,2084,3254,938,1522,55,1014,477,2213,267
+Deposit	5679,2084,3254,938,1522,55,1014,477,2213,267,2021,40
+Deposit Account	19585
 Deposit Advances	17235
 Deposit Category Balance	14546
 Deposit FLP	17006
@@ -147,7 +150,7 @@ Deposit-taking Microfinance	15023
 Deposit-taking Microfinance Institutions	15023
 Deposit-taking Savings and Credit Cooperatives	6938
 Depositar	12774
-Deposited	15492
+Deposited	15492,4093
 Deposition	5246
 Deposito	18757
 Depositor	15023,1,819,1,2,819,380
@@ -155,6 +158,7 @@ Depositor Name Development Research Group	15844
 Depositors	9441
 Depositors Protection	7763
 Depositors Protection Deposit	7763
+Depositors Register	19585
 Depository	10,10783,4204,366
 Depository Account	11233
 Depository Accounts	11233
@@ -200,6 +204,7 @@ IVA. Depois	12018
 Immigration and Deportation Act	1867,121,11364,51
 Immigration and Deportation Act No	1988
 Individual Deposits	17236
+Inland Container Depots	19585
 Instalaciones Deportivas	4209
 Instruments UMOA UMOA Central Depository	6938
 Insured Deposits	7763
@@ -209,6 +214,7 @@ Jun-25 Core FSIs for Deposit Takers Regulatory	17257
 Kenya Deposit Insurance Corporation	6938
 LES DEPOTS DU TRESOR A L’INSTI	16047
 LES DEPOTS DU TRESOR A L’INSTITUT	16047
+LIEU DE DEPOT DU DOSSIER	19504
 LIEU DE DEPOTS DES PRODUITS	14488,1,1
 LYD. Deposits	17236
 Lending Deposit Lending-deposit	14997
@@ -226,6 +232,8 @@ Mauritius Deposit Insurance Scheme	14744
 Microfinance Deposit-Taking Institutions	17235
 Mining of Mineral Deposits	7759
 Ministério da Justiça. Depois	12863
+Miscellaneous Deposit Account	19585
+Miscellaneous Deposit Accounts TZS	19585
 Mme Emerand OLOLO. CAISSE DE DEPOTS	16381
 Monitoring and Supervision of County Depots	16971
 Morris Depot	13361
@@ -241,6 +249,7 @@ OVERSIGHT OF ZAMBIA’S REGULATED NON DEPOSIT	13532
 Oficial Grupo E Responsable Deporte Militar	4209
 One-Third Deposit Paid	12977
 Operations Centre Deposit Protection Fund Digital	11134
+Overdrawing of Deposit Funds and Payment Without Quoting	19585
 Overnight Deposit and Lending Facilities	14744
 POSITION OF DEPONENT	12374
 Payment of School Fees Deposits	12977
@@ -258,6 +267,7 @@ Responsable Deporte Militar	4209
 Review of Detention and Deportation Policy	11986
 SECTION II DU DEPOT PAR	15397
 SECUNDARIA UNIVERSITARIA E DOCENTE JUVENTUD DEPORTES	4209
+SGR Stations and Inland Container Depots	19585
 SIGNATURE OF DEPONENT	12374
 Saving Deposits	17236
 Savings Deposits	17236
@@ -266,6 +276,7 @@ Sierra Leone Deposits Instruments of Ratification	18492
 Specialised Deposit-Taking Institutions	15600,1762
 Standing Deposit Facility	17138,97,82
 Standing Deposit Facility and Standing Credit Facility	19098
+Students' Loans Board Inland Container Depots	19585
 Subscriber Line DT SACCOs Deposit Taking	2775
 Sudan Deposits Its Country Signing Certificate	15104
 Só Depois Avançar O Banco Mundial	9558

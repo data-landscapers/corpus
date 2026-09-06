@@ -19,6 +19,7 @@ Format XML	14483
 IEC Secure XML	12360
 ISO XML Data Transformation Xpath W3C	12360
 Introduction The XMUVI	11258
+JSON and XML	19533
 MARKING. The PDF's XMP	5598
 MS Cross-Enterprise Document Sharing XML XPID	1009
 Markup Language XML Stratégie Nationale	15583
@@ -127,7 +128,7 @@ XML Document	12360
 XML Enterprise User Authentication EMR European	1009
 XML Extensible Markup Language XPID XAD-PI	1009
 XML HTTP	1009
-XML JSON Created	15024,820,1201
+XML JSON Created	15024,820,1201,2568
 XML MARC	10878
 XML Mapping	8606
 XML Messaging Document Reliable	1009
@@ -150,6 +151,7 @@ XML Variable XML	12360
 XML XSD actualizado.pdf Gerador XML XSD Modelo	12018
 XML and Documents	1009
 XML and Kotlin	3851
+XML for Web Technologies	19533
 XML-REG	8606
 XML-REGapproachusesanefficientmappingschema	8606
 XML-based	12000

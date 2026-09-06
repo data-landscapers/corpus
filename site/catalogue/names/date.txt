@@ -88,6 +88,7 @@ BAOBAB MALI Date	18032
 BAOBAB MALI Date D'arrêté	18032
 BCPFS BCPFS BCPFS Due Date Operations	16032
 BCPFS Due Date	16032
+BIENS ET TRAVAUX NOTE D'INFORMATION Date	19441
 BORDEREAU DES PRIX Date	13524
 Bank Approval Date	13830,20,120
 Bank Approval Date Closing Date	14888,2072
@@ -181,6 +182,7 @@ Code Date Issued Licensee Description Non-Compliance	16978
 Collection Date	3861
 Comité de Pilotage du PRODESS. Items Détails Date	17845
 Commencement Date	12629
+Commencement Date for Implementation	19602
 Commencement Dates and Effective Periods	3861
 Comment Signature Date and Time	12364
 Comoros Date	4868
@@ -311,6 +313,7 @@ DIRECTOR GENERAL HEALTH DATE	1009
 DISBURSEMENTS Operation Dates	2473,2180,13706,925
 DOCUMENT AFRICA TWICT Date	15372
 DOCUMENT APPROVAL Date	14441
+DOCUMENT CONTROL Version Name Comment Date	19575,1
 DOCUMENT HISTORY Version Revision Date Revision	14441
 DOCUMENTAIR E DATE DE REALISATI	16103
 DOCUMENTAIRE THEME PROPOSE PAR DATE	16103
@@ -334,6 +337,7 @@ Date CFA	15372
 Date Claim Received Name of Person Receiving	16926
 Date Closing Period Month	6579,349
 Date Commune Nasandratrony	14425
+Date Completed	19541
 Date Completion Date	14746
 Date Completion Date Head	14746
 Date Component	13392,5495
@@ -396,8 +400,8 @@ Date Participants Topics Discussed Conclusions	16926
 Date Passed	11976
 Date Posted	5213
 Date Posted Zambia	5501
-Date Practice Area	13111,2402,37,1104
-Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264,50,716,23,937,1,36,743,361,1,20,1781,477
+Date Practice Area	13111,2402,37,1104,2753
+Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264,50,716,23,937,1,36,743,361,1,20,1781,477,474
 Date Price ZWG USD Equivalent Premium	4896
 Date Project	11869
 Date Prénom Age Sexe AE	19226
@@ -442,6 +446,7 @@ Date de Versement	15901
 Date de Versement Prévue	15901
 Date de Versement Prévue. Le TEG	15901
 Date des Dernières Règles DHIS2	19226
+Date du JORT	19384,1,2,6,5,2
 Date of Adjustment	13185
 Date of Application	12364
 Date of Assent	2726,1,1160,8637,7,1,3,11,3,13,67,1,669,6,13,3,1,17,11,1,1,19,32,93,1,987
@@ -453,7 +458,7 @@ Date of Birth DD MM YYYY Gender	14740
 Date of Birth. Once	18470
 Date of Board Approval	14888
 Date of Catastrophe Board Decision Date	13868
-Date of Commencement	3887,8636,1,1,1,2,2,1,1,3,11,2,1,13,67,1,5926
+Date of Commencement	3887,8636,1,1,1,2,2,1,1,3,11,2,1,13,67,1,5926,956
 Date of Commencement Act No	18434
 Date of Completion	1778
 Date of Consultations Venue	16926
@@ -478,7 +483,7 @@ Date- End Date	11863,2075
 Date-window	6292
 Date. Il	747
 Date.now	17188
-Dated	329,113,304,288,160,13,25,9,102,70,157,146,158,1,236,225,194,31,135,6,79,224,302,91,200,102,202,211,108,181,438,7,30,136,315,249,53,62,462,246,299,49,144,29,24,7,1,2382,146,568,924,427,556,408,46,49,578,148,1409,1550,2291,544,21,49
+Dated	329,113,304,288,160,13,25,9,102,70,157,146,158,1,236,225,194,31,135,6,79,224,302,91,200,102,202,211,108,181,438,7,30,136,315,249,53,62,462,246,299,49,144,29,24,7,1,2382,146,568,924,427,556,408,46,49,578,148,1409,1550,2291,544,21,49,481,34
 Dated Brent	3583
 Dated'entréeenvigueur	15525
 Dateline	2228,924,6616,948
@@ -504,6 +509,7 @@ Dates of Consultations	1778
 Dates of Data Collection	15620,223,1,2,819,380,880
 Dates of Data Collection Data Collection	18838
 Dates of Data Collection Mode	10862,4162,2141,201,1159,42,3
+Dates of Data Collection Start End Cycle	19613
 Dates of Statutory Board and Board Committee Meetings	12951
 Datetime	12360
 Deadline Date	13575,5289
@@ -583,6 +589,7 @@ Equipement Date	18402,1
 Eritrea Closing Date and Time	14131
 Establishing Cut-off Date	17114
 Estimated Appraisal Date	2291,10121,14,406,1183,2640
+Estimated Appraisal Date Estimated Approval	19407
 Estimated Appraisal Date Estimated Board Date	14553,3821
 Estimated Appraisal Date Financing Instrument Digital	3456
 Estimated Approval Date	11863,549,14,1512,1159,1578
@@ -612,6 +619,7 @@ EÆÎ.IZDIE Date	13524
 FCFA HT. Date	17833
 FDA Board of Directors Date	16857
 FINAL VISIT DAY MONTH DATE	582
+FINANCE AND PLANNING Metadata Producer Date	19613
 FINANCING and KEY DATES	15377
 FM Action Plan Responsible Due Date	11855
 FORM CONTACT INFORMATION Date	34
@@ -734,7 +742,7 @@ Jun-2025 Revised Closing Date	18473
 Jun-2026 Actual Date	16436
 KEY DATES	12327,1395,2237,31,3093
 KEY DATES AFpINp roTAvaBlLE DAT	15601
-KEY DATES Approval	15704,33
+KEY DATES Approval	15704,33,3744
 KEY DATES Approval Effectiveness MTR Review	15663,2186
 KEY DATES Concept Review	13742
 KEY DATES Dec	18534
@@ -753,7 +761,7 @@ KEZA Faith Non-Executive Director Date of Appointment	15023
 KINGDOM OF ESWATINI Date	12930
 KNPHI LIMS Tender Closing Date	7988
 Kenneth Sackey. Dateline	5932
-Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1,118,61,258,25,165,101,159,7
+Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1,118,61,258,25,165,101,159,7,232
 Key Dates Approval	14948
 Key Dates Guarantee Key Dates Approval	15905
 Key Events Planned Date Actual Date	15731
@@ -855,6 +863,7 @@ Mozambique Publication Date	14324
 Ms. F. DlaminiKunene Deputy Governor Date	11134
 Multilateral Treaties Date of Accession	14742
 N Company Name Date of Contact Details	3386
+N Name of Date	19585
 NA ADD Due Date	17470
 NA DGCL Due Date	17505
 NA Date	11863
@@ -1098,6 +1107,7 @@ Review Date	9855
 Revised Closing Date	12980
 Revised Plan Date	13017,2787,348,1028,39
 Revision Date Subject	5678
+Role Signature Date Approved	19575,1
 Rwanda Approval Date	14966
 RÉFÉRENCES DE LA RÉUNION Date	13390
 Rádio Televisão Cabo-verdiana PUBLISH DATE	12011
@@ -1191,6 +1201,7 @@ THEME PROPOSE PAR DATE D’EXAMEN INTITULE	16103
 THEME PROPOSE PAR DATE D’EXAMEN REF	16103
 TITLE Date	18930
 TITLE OF TRAINING LOCATION TRAINER DATE	17099
+TND TTC Date	19441
 TOBATELA MABELE YA Brazzaville. Date	15439
 TRANSMISSION SHEET Date Author HISTORICAL	5679
 TRANSMISSION SHEET HISTORICAL Date Author Description	5678
@@ -1231,7 +1242,7 @@ VISITE FINALE DATE JOUR MOIS NOM	13300
 VISITE FINALE DATE JOUR NOM	13300
 Vacoas Start Date	14746
 Version Changes Date V	14784
-Version Date	13084,675,1265,819,1,2,819,380,880,600,42
+Version Date	13084,675,1265,819,1,2,819,380,880,600,42,1046
 Version Date Author Remarks	12360
 Version Date of Publication Date of Last Update	15714
 Version Version Date	15620,3025,79

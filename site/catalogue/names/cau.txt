@@ -10,9 +10,11 @@ Angola and Sao Tome and Principe Worldwide Caution	18842,37
 Arrondissement CAU	19201
 Association Marcher Courir Pour la Cause	15724
 Ati CAU	19201
+BROAD GROUP CATEGORIES OF CAUSES	19544
 Bardaï CAU de Faya Borkou	19201
 Birth Death Marriage Divorces Cause	15056
 Blackouts Causes	12358
+Broad Group Categories of Causes of Death	19544
 Business Enterprise Managers Major Causes of Skill	12445
 CARD PRESENT VERIFICATION RESULT Causes Solution	17537
 CAU Education	17367
@@ -28,7 +30,7 @@ CAUSES AND SOLUTIONS TO FAILED FACE	17537
 CAUSES AND SOLUTIONS TO FAILED SINGLE	17537
 CAUSES AND SOLUTIONS TO FAILED VERIFICATION	17537
 CAUSES DE MORTALITÉ MATERNELLE	17843
-CAUSES OF DEATH	13644
+CAUSES OF DEATH	13644,5900
 CAUTELAR CAPÍTULO I DE LAS INFRACCIONES	16855
 CAUTION	927,9348
 CAUTION ON TWO CAPITAL FIGURES	5912
@@ -43,6 +45,7 @@ CAUTIOUS Likelihood	13080
 CAUX DE L’EAU	17812
 CERTIFICATION AND REPORTING OF CAUSES	16892
 COMPLETENESS OF CAUSE-OF-DEATH DATA	16892
+COMPLETENESS OF MEDICAL CERTIFICATION OF CAUSES	19544
 CRVS Caucus	13608
 Categorias Especialidades RAP Total Caué Cantagalo	18768
 Caucus Meeting for African Governors	12962
@@ -70,6 +73,7 @@ Causas de Morte Mortalidade Contém	966
 Causation	17139
 Causatives	18099
 Cause	1988,8775,43,611,721,13,187,75,546,649,1448,543,1261,6,26,222,785,413,231
+Cause Effect	19604
 Cause Of Action	14675
 Cause of Cause of Death N	12151
 Cause of Death	12151,16
@@ -94,7 +98,7 @@ Causes Of Registered Death With Special	12151
 Causes Of Registered Deaths	12151
 Causes Preminule	10780
 Causes and Solutions	10
-Causes of Death	12138,13,793,151
+Causes of Death	12138,13,793,151,6449
 Causes of Death CR	12338
 Causes of Death From Foreign Deaths Registration	12151
 Causes of Registered Death With Special Programmes	12151
@@ -147,6 +151,7 @@ Extensive CAUTIOUS	12241
 External Causes	12413
 FAIBLESSES DU SSN ET PRINCIPALES CAUSES	17842
 FINGER VERIFICATION RESULT Causes Solution	17537
+Fading Causes Listen Now	19604
 Farcha CAU	19201
 Faya CAU de Massenya Chari-Baguirmi	19201
 Fintech Cauridor and BnB Move	9920
@@ -166,17 +171,22 @@ ICD-10 International Classification of Causes of Deaths	12413
 Implementation of Medical Certification of Cause of Death	12338
 Injuries External Causes	15056
 International Medical Certificate of Cause of Death	12413
+Investigate the Cause of Nationwide Blackout	19607
 Judicial Review Cause Number	13040
 Juiz da Causa	549
 Kanem CAU de Sarh Moyen-Chari	19201
 Klémat CAU	19201
 LAND REGISTRATION ACT CAUTION Title	18881
+LEADING CAUSES OF DEATH	19544
+LEADING CAUSES OF DEATH FOR ALL	19544
+LEADING CAUSES OF DEATH FOR UNDER-FIVE	19544
 Lac CAU de Laï Tandjilé	19201
 Laï CAU de Moussoro	19201
 Leading CauseS of Registered Deaths for Neonates	12151
 Leading Causes Of Registered Deaths	12151
 Leading Causes Of Registered Deaths Among	12151
 Leading Causes of Death	13644
+Leading Causes of Death for Under-Five Children	19544
 Leading Causes of Medically Certified Registered Death	12151
 Leading Causes of Medically Certified Registered Deaths	12151
 Leading Causes of Registered Deaths Among Children	12151
@@ -187,6 +197,8 @@ Logone Occidental CAU de Doba Logone Oriental	19201
 Logone Oriental CAU de Bongor Mayo Kebbi	19201
 MAIN CAUSES OF... HSDU Hospital Rural	15206
 MAIN CAUSES OF... HSDU Rural	15206
+MCCD Medical Certification of Cause of Death ICD-10	19544
+MCCD Medical Certification of Cause of Death MDA	19544
 MCCD Medical Certification of Cause of Death NCD	12151
 MINIMAL TO CAUTIOUS	12241
 MINIMAL TO CAUTIOUS Likelihood	13080
@@ -263,6 +275,9 @@ Ten Leading Causes of Registered Deaths Among	12151
 Ten Leading Medically Certified Causes	12151
 Ten Leading Medically Certified Causes of Registered	12151
 Top Five Causes of Under Five Mortality	16971
+Top Ten Causes Of Outpatient Attendance	19544
+Top Ten Leading Causes Of Admission	19544
+Top Ten Leading Opd Causes	19544
 Underlying Cause of Death	12151
 Urbain Rural Total Caution	13390
 VERIFICATION RESULT Causes Solution	17537

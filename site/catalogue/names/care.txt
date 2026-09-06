@@ -19,6 +19,9 @@ AMARAY DENTAL AND EYE CARE SPECIALISTS	7167
 AME CAMEN CAR CARE CERC CFAF	16436
 ANALYSE CARE LA TRANSFORMATION NUMÉRIQUE DOIT	8637
 ANTENATAL CARE	16892,79
+ANTENATAL CARE INTERVENTIONS	19544
+ANTENATAL CARE INTERVENTIONS Figure	19544
+ANTENATAL CARE SERVICES	19544
 ARABIAN DENTAL CARE LIMITED Data Controller	7167
 ARAREST HEALTH CARE LIMITED Data Controller	7167
 ARID CARE HOSPITAL LIMITED Data Controller	7167
@@ -28,6 +31,7 @@ Abortion Care CCS Country Cooperation Strategy	17289
 Abortion and Postabortion Care	13040
 Absence of Prevention and Community-Based Care	6534
 Accessing Health Care	15247
+Acetic Acid ANC Antenatal Care FANC	19544
 Act Demands Careful Handling of Documents	16921
 Act. Health Care Agency	19059
 Advance Public Relations and Customer Care	16978
@@ -49,11 +53,12 @@ Annual Eswatini Careers Fair	11134
 Annual Global Represent. Carestia de Vida	4209
 Annual Quality of Quality of Care Checklist MOH	16922
 Antenal Care	10829
-Antenatal Care	2775,10202,1090,2884,20
+Antenatal Care	2775,10202,1090,2884,20,2573
 Antenatal Care Antenatal	16971
 Antenatal Care CBHI Community-Based Health Insurance	15138
 Antenatal Care Coverage and Content	13454,1793
 Antenatal Care HIV	18441
+Antenatal Care Visits	19544
 Apply Online Careers IDF-Application Contact AI	12495
 Approved Maintenance Organizations ANC Ante-Natal Care	2775
 Authentication of Health Care Information	1009
@@ -132,6 +137,7 @@ CIT Career Launch	15814
 CIT Career Launch Initiative	15814
 COMPREHENSIVE CARDIOVASCULAR CARE CENTER LTD Data	7167
 CORAL DENTAL CARE LIMITED Data Processor	7167
+COVERAGE OF EARLY ANTENATAL CARE ATTENDANCE	19544
 CROSS-BORDER HEALTH CARE	14434
 CROWN POINT DENTAL CARE Data Controller	7167
 CURATRIX HEALTH CARE CENTRE LTD Data	7167
@@ -182,7 +188,8 @@ CarePay Ltd. Data Controller INST-9782911BBB8 NAIROBI	7167
 CarePay Ltd. Data Processor INST-9782911BBB8 NAIROBI	7167
 Carece	11520,3872
 Carecem	15912,1188
-Careem	14897
+Careem	14897,4497
+Careem's Super App	19394
 Career	6946,2,105,2051,1672,538,33
 Career Café	16198
 Career Card Logo	12215
@@ -305,8 +312,11 @@ ECCED Early Childhood Care Education and Development	12975
 EDEN CARE PROACTIVE LIMITED Data Controller	7167
 EDEN CARE PROACTIVE LIMITED Data Processor	7167
 ENACTED Health Care Agency	19059
+ENHANCEMENT OF CONTINUUM OF CARE	19544
 ENSURE PROVISION OF QUALITY CARE	14546
 EUR34.3M. Care Pay	186
+EXPENDITURE BY HEALTH CARE FUNCTIONS	19544
+EXPENDITURE BY HEALTH CARE PROVIDERS	19544
 Early Childhood Care	12914
 Early Childhood Care Development and Education	18259
 Early Childhood Care and Development	13123
@@ -337,6 +347,7 @@ FUND FOR SPECIALISED MEDICAL CARE ACT	14773
 Farming Health Care Centre	11857
 Fever and Care-seeking Behaviour	15247
 Finance Management PHC Primary Health Care	17105
+Focused Antenatal Care PPFP Post-Partum Family	19544
 Foster Care	6222
 Foster Care Campaign	12977
 Foster Care Grant	7910,1089,2856
@@ -355,14 +366,17 @@ Ghana CARES. Ghana	789
 Ghana's Free Primary Health Care	16218
 Gig and Career Support Participants	11347
 Google Career Certificate	1363,1981,3586
+GotHOMIS and AFYA Care	19544
 Graduate School of Health Care Sciences	16329
 Grey and Ruby Care	8438
 Guidelines and Customer Care Standards	6946
 HEALTH AND CHILD CARE	13420
 HEALTH CARE	14723,2160,1
 HEALTH CARE AGENCY	19059
+HEALTH CARE FINANCING	19544
 HEALTH CARE Improving	14723
 HEALTH CARE LIMITED Data Controller INST-12794625BFC	7167
+HEALTH CARE TECHNICAL SERVICES	19544
 HEALTH CARE TECHNOLOGY	16900
 HIV Prevention Care and Support	16951
 HIV and AIDS Care	16971
@@ -390,6 +404,7 @@ Health Care Standards	12606
 Health Care Support Fund	3583
 Health Care System	10780
 Health Care URL	14120
+Health Care Workers	19544
 Health Extension Program and Primary Health Care	14033
 Health Information Technology Systems and Quality of Care	10784
 Health Insurance Fund Care Pay Mobile	186
@@ -403,6 +418,7 @@ Home-Based Care	11134
 Human Rights Implications of Health Care Digitalisation	2615
 Hyper Care	5715
 ICOPE Integrated Care for Older People PHC	14773
+ICU Intensive Care Unit PHEOC Public	19544
 IMAM and Maternity Care Guidelines	16951
 IMPROVING HEALTH CARE DELIVERY THROUGH BROADBAND	16884
 INTEGRATED CARE FOR OLDER PEOPLE	14773
@@ -426,7 +442,7 @@ Intelligence Antenatal Care Antiretroviral Therapy	4153
 Intensive Care	14829
 Intensive Care Services	14773
 Intensive Care Unit	12976,2542
-Intensive Care Units	12922
+Intensive Care Units	12922,6622
 Interventions Plus PHC Primary Health Care	17289
 Ivyline Care Foundation	7172
 J. Nehru Day Care Centre for Immunosuppressed	14774
@@ -447,9 +463,11 @@ MENTAL HEALTH CARE ACT Amendment	18943
 MTN Yello Care	12996
 Mahama Cares	15798
 Malawi Health Care Information System	17711
+Management Information System HCWs Health Care	19544
 Materials Energy Health Care Utilities Hardware	4972
 Maternal Care	14067
 Maternal Health Care	13474,1773
+Mchafukoge and Mburahati Health Care Facilities	19541
 Medical Care	1824
 Meeting Waterford KaMhlaba Career Fair Governor	11131
 Mental Health Care Act	11177,877,2689,4200
@@ -467,6 +485,7 @@ Ministry of Health and Child Care. People	9429
 Mobile Care Services Discovery	1009
 Mobile Care Services IETF RFC7159	1009
 Mobile Care Services and Health Services. HL7	1009
+Mobile Medical Units for Emergency Care and Resuscitation	19407
 Ms. Careen Prevost	16631
 Munuki Primary Health Care Centre	18697
 NATIONAL CAREER GUIDANCE POLICY Cabinet	11791
@@ -492,12 +511,14 @@ Neighbourhood Care Point Strategic Plan	12977
 Neighbourhood Care Points	12914,48,15
 Neonatal Intensive Care Services	14773
 Neonatal Intensive Care Unit	16922
+Neonatal Intensive Care Units	19544
 Neonatology Intensive Care Unit	16922
 Nigeria Primary Health Care Childhood Development	11469
 Nigeria’s Basic Health Care Provision Fund	4794
 None Eye Care	1009
 Northeast Nigeria. CARE. Retrieved	3456
 Number of Grants Care Dependency Grant	8999
+Number of Recruited Health Care Workers	19544
 Nurturing Care For Early Childhood Development	10768
 Obstetric Care	15206
 Obstetric Care HSDUs	15206
@@ -578,6 +599,7 @@ Residential Child Care Facility	12977
 Risks Grow With Home-Based Care	3279
 SHOULD WE CARE ABOUT	11730
 SIGIPES I and II Career	15480
+STATE OF EMERGENCY AND CRITICAL CARE	19544
 Safer Births Bundle of Care	7895
 Scope Implementation Guidelines Education Care	2958
 Seamless Continuity of Care	41
@@ -639,6 +661,7 @@ W. P. Carey School of Business and ASU	13258
 Waterford Career Fair Description The Bank	11134
 Welfare Officers and Health Care	14742
 Wellness Care	8438
+Workers ICU Intensive Care Unit ICT	19544
 World Bank’s Primary Health Care Performance	17869
 Zimbabwe's Ministry of Health and Child Care	12508
 Zimbabwean Ministry of Health and Child Care	12508

@@ -9,6 +9,7 @@ Angola HEPRR Project	11417
 Antigénio Central da Hepatite B Antirretroviral Bacille	10777
 Antigénio de Superfície da Hepatite B Haemophilus Influenzae	10777
 Core HEPS	9911
+DTP HepB-Hib	19544
 Decilitro Sistema de Posicionamento Global Hepatite B	10777
 Digitalizing HEP	12246
 Diphtérie-Tétanos-coqueluche HepB	13300
@@ -51,8 +52,10 @@ Hepatite B	10777
 Hepatite B Para	10777
 Hepatitis	1701,2508,6567,4,6182
 Hepatitis A Hepatitis B Encephalitis Fasciolosis	15725
-Hepatitis B	11417,996,1707,1605,1210,109,2240
+Hepatitis B	11417,996,1707,1605,1210,109,2240,277
+Hepatitis B Virus	19544
 Hepatitis C	12413,2329,314,921
+Hepatitis C Virus	19544
 Hepatitis PHC	10776
 Hepatitis Virales	4209
 Hepatitis and Addictology	14839
@@ -68,7 +71,11 @@ Project Components Parent Project IDA HEPRTF	16922
 Republic of Zambia HEPRR Health Emergency Preparedness	1867
 Resilience HEPRR Human Immunodeficiency Virus HIV	11417
 Restructuring AF HSTRF HEPR TF Restructuring	19284
+STIs and Hepatitis Control Strategy	19544
+STIs and Viral Hepatitis	19544
+Scale-Up Hepatitis B and C Screening and Treatment	19544
 South Sudan. Adjusted HEPS	10793
 TAB DTC HepB Hib1-VAR	14622
+VIRAL HEPATITIS INFECTIONS	19544
 Viral Hepatitis	12421,2013
 Vírus da Hepatite B Vírus da Imunodeficiência Humana	10777

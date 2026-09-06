@@ -29,6 +29,9 @@ ANTARC LIMITED Data Processor INST-20455608284 NAIROBI	7167
 ANTEL	15471
 ANTELOPE	15480
 ANTENATAL CARE	16892,79
+ANTENATAL CARE INTERVENTIONS	19544
+ANTENATAL CARE INTERVENTIONS Figure	19544
+ANTENATAL CARE SERVICES	19544
 ANTENNE SPECIALE DIRECTION GENERALE Antenne Régionale	14450
 ANTENNES REGIONNALES	14450
 ANTERIEURS IMPOTS SUR LES T82 EXCEDENTS	18032
@@ -132,8 +135,10 @@ AUTRES ANTIBIOTIQUES ET ANTIBACTERIENS ACIDE FUSIDIQUE	15930
 AUTRES CAS D’EXIGIBILITE ANTICIPEE PREVUS PAR	15901
 Abbreviations ANC Antenatal Care DHIS District	771
 Acessado O Antagonista	2816
+Acetic Acid ANC Antenatal Care FANC	19544
 Achada Santo António	11955
 Achada Santo António. As Jornadas Portuárias	16193
+Acquired Immune Deficiency Syndrome AMR Antimicrobial	19544
 Act0326.pdf THE ANTI-MONEY LAUNDERING	14809
 Acting Director of Legal and Company Secretary Anthony	9093
 Action Anticipatoire	16291
@@ -210,12 +215,13 @@ Antelomita	14479
 Antena	5557,5220
 Antena Nacional	12201
 Antenal Care	10829
-Antenatal	10881,2095,2230,205,1511,947,758
-Antenatal Care	2775,10202,1090,2884,20
+Antenatal	10881,2095,2230,205,1511,947,758,917
+Antenatal Care	2775,10202,1090,2884,20,2573
 Antenatal Care Antenatal	16971
 Antenatal Care CBHI Community-Based Health Insurance	15138
 Antenatal Care Coverage and Content	13454,1793
 Antenatal Care HIV	18441
+Antenatal Care Visits	19544
 Antenatal Coverage	18627
 Anteneh	3791,4096
 Anteneh Aklilu	12273
@@ -282,6 +288,7 @@ Anthony Mwila Procurement Specialist	13392
 Anthony Ngororano	7555,170
 Anthony Noto	9930
 Anthony Ohemeng-Boamah	16688
+Anthony Peter Mavunde	19543
 Anthony Same	2388,73,975,222,25,15,3,2453,121,145
 Anthony Same Expands African Datacenter Network	6154
 Anthony Samuel Dieuveil	15692
@@ -290,6 +297,7 @@ Anthony Simpasa	10718
 Anthony Voscarides	2986
 Anthony and Mende	10742
 Anthony. The Consequences of Modernity. Cambridge	11138
+Anthrax	19520
 Anthropic	1636,207,973,1660,229,267,57,19,238,1,77,54,180,573,96,220,180,123,217,53,52,25,14,58,404,606,186,89,16,20,66,48,47,11,57,29,9,18,48,27,137,142,94,329,16,208,105,280,244,82,523,2411,1225,423,2693,1066
 Anthropic CEO Dario Amodei	9592
 Anthropic Claude	5226,85
@@ -475,7 +483,7 @@ Anti-Terrorism Centre	1988
 Anti-Terrorism Law	15007
 Anti-Terrorism and Non-Proliferation Act	2726,10771,69
 Anti-Terrorism and Non-Proliferation Act No	13403
-Anti-Trafficking	2106
+Anti-Trafficking	2106,17425
 Anti-Tubercolosis Dispensary of Luanda	10784
 Anti-Virus	16970,210
 Anti-cancer	12979
@@ -584,7 +592,7 @@ Antimicrobiens Règlement Sanitaire International Strengthen	14622
 Antiquated	17139
 Antiquities Law No	15473
 Antiretroviral	4301,8078,2363,464
-Antiretroviral Therapy	4349
+Antiretroviral Therapy	4349,15195
 Antiretroviral Therapy CBS	10776
 Antiretroviral Therapy CCM Country Coordinating Mechanism	12729
 Antiretroviral Therapy CDC Centers for Disease Control	12379
@@ -758,7 +766,7 @@ BUREAU INDEPENDANT ANTI-CORRUPTION PLAN DU RAPPORT	14450
 Banco de Cabo Verde António Carlos Moreira	11955
 Bank's Anti-Corruption Guidelines	13185
 Bank’s Anti Corruption Guidelines	15080
-Bank’s Anti-Corruption Guidelines	15080,2100
+Bank’s Anti-Corruption Guidelines	15080,2100,2406
 Bank’s Anti-Money Laundering and Counter-Terrorism Financing	11134
 Bank’s Anti-corruption Guidelines	17180
 Baseline Standards for Automated Anti-Money Laundering	5369
@@ -801,6 +809,7 @@ CONFORME Antananarivo	14458
 CONSEQUENCES DE L’EXIGIBILITE ANTICIPEE	15901
 CONSTRUCTION MOTOROLA Antenne	998
 CONTRE LES ANTIVALEURS	15660
+COVERAGE OF EARLY ANTENATAL CARE ATTENDANCE	19544
 Cameroon's ANTIC	4523
 Camp Militaire Antenne	16552
 Canadian Anti-Monopoly Project	6445,1026
@@ -866,6 +875,7 @@ DES PRATIQUES ANTICONCUR-	17828
 DHA Chief Executive Officer Anthony Lenaiyara	10331
 DISSOLUTION ANTICIPÉE	15488
 DJAA Koffi Antoine FAITS MARQUANTS Adm	2342
+DODOMA Mhandisi Anthony Sanga	19592
 Daniel Gilles Antonio	17584
 Daouda Aba FANE ANTIM	17845
 Date de Remboursement Anticipé	15901
@@ -992,6 +1002,7 @@ Fiscalía Titular de Antidrogas	4209
 Flaccid Paralysis AMR Antimicrobial Resistance ART	12729
 Flexible Anti-Smuggling Team GDP	13053
 Flexible Anti-Smuggling Teams	13053
+Focused Antenatal Care PPFP Post-Partum Family	19544
 Fodé DIALLO ANTIM	17882
 Foreign Minister Mr. Artur Antonio da Silva	11579
 Founder Anthony Same	6154
@@ -1091,6 +1102,7 @@ KECOBO. The Anti-Counterfeit Act	10041
 KYC and Anti-Money Laundering	11976
 Kakamega Forest and Roan Antelope	3898
 Kassia Antoine	17503
+Katibu Mkuu Mhandisi Anthony Sanga	19592
 Kenya Anti-Corruption Commission	12227
 Kenya Copyright Board and Anti-Counterfeit Authority	10041
 Kenya's AntuGrow	9929
@@ -1167,6 +1179,7 @@ Meio de Achada Santo António	15470
 Mensah Anthony Seddoh Team Member	19284
 Mestre Valinho António	2816
 Mfilou Antenne	16552
+Mhandisi Anthony Damian Sanga	19592
 Michael Anthony Roscitt	12176
 Michel Antoine Hebert	12315
 Michel Antoine Hebert Chief Executive Officer	12315
@@ -1206,6 +1219,7 @@ Mr. Antoine Sebera	15019
 Mr. Odur Anthony	3005
 Mr. Opeka Anthony Sebit	18696
 Mário António	10614
+NAIBU WAZIRI Eng. ANTHONY SANGA Bi	19592
 NAP Policy Areas and Envisaged Reforms Anti-Corruption	12987
 NATIONAL ANTHEM PRAYER	13387
 NATIONAL ANTHEM PRAYER BUDGET ADDRESS BUDGET	13436
@@ -1419,6 +1433,7 @@ Sr. António Mustafa Djaló	17147
 Standard Bank Anti-Financial Crime Conference	3439
 Station Name Latitude Longitude Altitude Antenna	736
 Steeven Chris Antonio	15901
+Stefan Anton Messerer Begins Role	19622
 Strategic Bloc Effect and Anticipated Reservations	17745
 Strengthen Anti-Corruption Strategies	9397
 Strengthening the Liberia Anti-Corruption Commission	17257

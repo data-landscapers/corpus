@@ -36,6 +36,7 @@ AMAN Consumer Finance	10800
 AMAN Super App	10800
 AMANA	18122
 AMANA Adjana Essomanam SCH	19251
+AMANA BANK LIMITED	19592
 AMANA INSURANCE BROKERS LIMITED Data Controller	7167
 AMANA Kalabina SCH	19251
 AMANA Lalagnidou SCH	19251
@@ -67,6 +68,7 @@ AWS Amazon Web Services BGP Border	13185
 AWS and Amazon Sustainability Data Initiative	10794
 Abdelkader AMARA Président du Conseil Economique	8891
 Abdelrahman Amassib	15342
+Abeid Amani Karume	19590
 Abeid Amani Karume International Airport	12115
 Abou-Bakar TRAORE Amadou Toumani TOURE	17817
 Act111 and Amandla.Mobi112	4732
@@ -229,7 +231,8 @@ Amal Nabil Faltas Bastorous	15473
 Amala KEITA	17828
 Amalayisense	11573
 Amalgamated Telecom Holdings Kiribati	15471
-Amali	18304
+Amali	18304,1238,23
+Amali. Serikali	19542,23
 AmaliTech	4126
 Amalunga	11551
 Amalungiselelo	11573
@@ -266,11 +269,13 @@ Amane Joseph	18665
 Amanfi	8732
 Amanfro	3386
 Amanhã	9236
-Amani	8884,1213
+Amani	8884,1213,9493
 Amani Abou Harb	15473
 Amani Ben Nkissa	9597
 Amani Haque	10977
+Amani Imetayarishwa	19517
 Amani J	18665
+Amani Nje	19590
 Amani Siyam	771
 Amani. Over	8884
 Amankpunato	6211
@@ -397,7 +402,7 @@ Amazon Simple Queue Service	10794
 Amazon Simple Storage Service	9123,1671
 Amazon Web	1245
 Amazon Web Service	17870
-Amazon Web Services	1729,114,314,659,168,202,46,209,21,21,71,368,204,899,4,55,77,464,75,137,96,34,299,145,60,6,190,124,88,177,10,13,37,57,36,109,49,181,238,15,341,557,60,162,928,4,95,1,66,32,189,402,156,4,337,533,278,164,252,910,1119,1655,877,1,1045
+Amazon Web Services	1729,114,314,659,168,202,46,209,21,21,71,368,204,899,4,55,77,464,75,137,96,34,299,145,60,6,190,124,88,177,10,13,37,57,36,109,49,181,238,15,341,557,60,162,928,4,95,1,66,32,189,402,156,4,337,533,278,164,252,910,1119,1655,877,1,1045,1421,214
 Amazon Web Services Inc	5837
 Amazon Web Services South Africa	7210
 Amazon Web Services and Canal Plus	3264
@@ -441,6 +446,7 @@ B1.lºacek3.Pº.antres Alcides Amarante Presidente FIRMA	15694
 BAKAYOKO Amadou	2342
 BAR AMAN DOUG OU	17828
 Bilhete Amarelo	10772
+Body Amazon Selects	19604
 Brig. General Amadou Aiddili	18220
 Business Amazon Web Services AWS	10236
 Bénin Djabirou AMADOU Directeur Adjoint de Cabinet	10708
@@ -584,6 +590,7 @@ Kenya. Amazon's Project Kuiper	6745
 Kijiji Cha Amani	8201
 Koris Maboya Amaré	18238
 Kouami AMADOSDJOKO	19218
+Kuhamasisha Amani	19590
 L AFRICAN MARITIME AGENCIES SA AMA-GUINEE	16623
 LE PREMIER MINISTRE Amadou CHEIFFOU Pour	18094
 Le Capitaine Amadou KONARE	17828
@@ -729,6 +736,7 @@ Par Amadou MBODJI	1755
 Partner Principal Associate Senior Associate Aman	12232
 Partners LLP Aman	12232
 Patricia Amand	4814,1141
+Porte-parole du Gouvernement Amadou Moustapha Njekk SARRE	19405
 PostgreSQL and Amazon Web Services	7977
 Pour Amadou Konia Camara	9542
 PowerCom CEO Beatus Amadhila	3475

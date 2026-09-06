@@ -181,6 +181,7 @@ Economic Zones	15492
 Economic Zones SIGASPE Integrated Administrative and Salary	18931
 Edith Ghislaine Sèlomè ZODEHOUGAN BATCHO	17584
 Educational Zones. Initially	14771
+Electrification Zone Bir Zar- Tataouine Electrification	19439
 Elhad Zoubert	13788
 Elizabete ZONGO	8321
 Ema Lydie ZOUNGRANA	7670
@@ -212,9 +213,11 @@ F CFA Zone	16047
 FINTECH Par Dr ZOGO	16446
 Faculdade de Direito de Bissau Bissau Zona-V Public	11552
 Faladié Zone I.J.A	17841
+Fathi Zouhair Nouri	19457
 Fatimata ZOUNGRANA	4551,1913
 Fatma Zohra Rouat	15410
 Fatma Zohra ZEROUATI	15432
+Fethi Zouhaier NOURI	19419
 Fevereiro Bissau Zona-V Public	11552
 Fleurhoff Mall Client Connect Zone	10639
 Flood Risk Zonation	17157
@@ -291,7 +294,8 @@ Integrated Provincial Special Economic Zones Framework	13685
 Inter-Tropical Convergence Zone	16956
 Interaction Of the Inter- Tropical Convergence Zone	17114
 Intertropical Convergence Zone	18787
-Investment and Special Economic Zones Act	6921
+Investment and Special Economic Zone Act	19602
+Investment and Special Economic Zones Act	6921,12681
 Investment of Arab and Foreign Funds and Free Zones	15473
 Isigungu Sokulawulwa Kwezinto Zokuthutha Umphakathi	11573
 Jardins Zoologique	15999
@@ -322,6 +326,7 @@ Kotokoli Zongo	19281
 Kotoku Zonal Council	16276
 LA REHABILITATION DES ZONES ECONOMIQUEMENT SINISTREES	15999
 LALA Arson Zo Ny Aina MEF	14539
+LE GOUVERNEUR FETHI ZOUHAIR NOURI	19399
 LHT-02-2015-0010 Zondi	8022
 LUTTE CONTRE LES ZOONOSES	15999
 La Consommation Dans La Zone UEMOA	17945
@@ -332,6 +337,7 @@ Lagos Local Zone	10505
 Lagos State’s Lekki Free Zone	3006,6863
 Land Use Planning and Zoning	17260
 Landing Zone	14950
+Le Gouverneur Fethi Zouheir NOURI Annexe	19468
 Ley de Zonas Económicas Especiales. Corría	17089
 Liberia Special Economic Zones Authority	11746
 Liberian. Dehpue Y. Zou	17070
@@ -339,6 +345,8 @@ Liberia’s Exclusive Economic Zone	17099,15
 Libreville Special Economic Zone. ST Digital	7093
 Licence Ressources Halieutiques Licence Zootechnie Licence	17829
 Lieutenant-colonel MADOUGOU Zongo Amane	19251
+Life Zone Metals	19529
+Life Zone Metals and TechMet	19529
 Likoma Zomba City Lilongwe City	13080
 Livelihood Zones	18706
 Livelihood Zones of Angola	10763
@@ -403,6 +411,7 @@ Ministre Aurelie ADAM SOULE ZOUMAROU	15517,48
 Ministres Aurelie ADAM SOULE ZOUMAROU	15517
 Ministry of Public Works Zoning	17011
 Misrata Free Zone	5592
+Mitaa SEZ Special Economic Zone SGR	19565
 Mme Ariane Carmela ZONG NTOUTOUME	16175
 Mme Aurélie Adam Soulé Zoumarou	2694
 Mme Awa Zoure	10812
@@ -534,7 +543,9 @@ SEZ Special Economic Zone SSA Sub-Saharan	10781,1646,2055
 SEZs Special Economic Zones SITA State	11196
 SO UROU ZON DOM A SA	10847
 SPECIAL ECONOMIC ZONES ACT	6921
+SPECIALIZED AND ZONAL REFERRAL HOSPITALS	19544
 SSA Eq. Guinea CEMACNational Zone Gender	16996
+Saharan Africa. Life Zone Metals Project	19529
 Saint-Régis Zoumiri	2000
 Sakinatou ZOUNDI Minute.bf	16353
 Salah Zouari	8954,5312
@@ -743,6 +754,7 @@ Zoe Cordelia Lu and Michael Ehst	12540
 Zoe Titus	1010
 Zoe-Gbao	16921
 Zoey Soh	1903
+Zoezi	19592,28
 Zofoa Njoya Sake	10988
 Zogbodomey	17584
 Zogona	16026
@@ -809,8 +821,12 @@ Zonal Director	11129
 Zonal Education Departments	12198,1850
 Zonal Education Management Information Systems Officers	12175
 Zonal Health Departments	12255
+Zonal Hospital Grand Total Hospital Hospital	19544
+Zonal Hospital and Regional Referral Hospital	19544
 Zonal Manager	11129
 Zonal Managers	11129
+Zonal Referral Hospital	19544
+Zonal Referral Hospitals	19544
 Zonal Surveillance Officers	16971
 Zonal Tillage Ridge Till	17043
 Zonale	14488,1,1
@@ -853,6 +869,7 @@ Zone Franche de Nouadhibou CAB Cabinet CCR-AOS	17873
 Zone FrancheAPI	19209
 Zone Industrielle Sud Boulaos	13946
 Zone Monétaire	8556
+Zone No	19585
 Zone Nord du Sénégal	18324
 Zone Nyakabiga	8853
 Zone PNUD Gouvernance	18105
@@ -863,13 +880,14 @@ Zone Sylvopastorale	18304
 Zone Sylvopastorale. Centre de Suivi Ecologique	18304
 Zone Sylvopastorale. Cette	18304
 Zone System Name Responsible Institution Geographic	6938
+Zone Tyaret	19439
 Zone UEMOA	1412,15537
 Zone de Dénombrement	737
 Zone de Kouroumari	17841
 Zone de Kouroumari Office du Niger	17841
 Zone de Ké-Macina Office du Niger	17841
 Zone de Libre En	3396
-Zone de Libre-Echange Continentale Africaine	15500
+Zone de Libre-Echange Continentale Africaine	15500,3899
 Zone de Libre-Échange Continentale Africaine	18988
 Zone de Solidarité Prioritaire	16627
 Zone de Suru-Léré	16485
@@ -896,8 +914,9 @@ Zones of Eritrea	14007
 Zones of Integral Tourism Development	15570
 Zones of Integral Tourism Developments	15570
 Zongo	9993,5722
+Zongomela	19592
 Zongotolo	7470
-Zoning	9123,2086,5740
+Zoning	9123,2086,5740,2571
 Zoning Plan	12389
 Zoning Regulations	12389
 Zoning and Land Use	12389

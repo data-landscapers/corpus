@@ -14,6 +14,7 @@ Agence Judiciaire	15936
 Anip. Pour Judicaël Gbaguidi	7355
 Ano Judicial	5272,5480
 Antécédents Judiciaires	16143
+Appeal Judgment	19562
 Appointment of Judges	13501,447
 Arab Network of Judicial Inspection Services	13865
 Autoridad Judicial	163,16692
@@ -138,9 +139,11 @@ FLDLV TXH JUDYLWDP QR HVSDoR	11527
 Federal Judge William Alsup	8494
 Federal Judicial Administration Council	13948
 Financial Gaps The Judiciary	16943
+First Instance Judgment	19562
 Fonds de Solidarité des Cadres Judiciaires	13390
 Foreign Judgments	17745
 Frente Judicial	10751
+Funds Judicial Service Commission	19576
 Félix-Antoine TSHISEKEDI TSHILOMBO Judith Suminwa Tuluka	16370
 Garantias Judiciais	11436
 Geral de Justiça P J Polícia Judiciária	6530
@@ -171,6 +174,7 @@ Insolvency Judgments	12389
 Inspection Générale des Services Judiciaires	15783
 Inspectorate General of Judicial Services	10990
 Inspeção Judicial	2054
+Institute of Judicial Administration Level	19584
 Instituto de Práctica Judicial	4209
 Instituto de Prácticas Judiciales	4209
 International Association of Women Judges	2626
@@ -211,7 +215,7 @@ Jude Nwauzor	8291
 Jude Padayachy	19177
 Jude Scheguel	16100
 Judes Bertrand MEKAME MBA	16099,76
-Judge	3,780,1136,388,1407,2094,375,1269,393,1964,2237,413,84,125,836,177,728,304,1,1,4,8,1,14,1,66,584,1446,389,1206,23,424,37,25
+Judge	3,780,1136,388,1407,2094,375,1269,393,1964,2237,413,84,125,836,177,728,304,1,1,4,8,1,14,1,66,584,1446,389,1206,23,424,37,25,575
 Judge Allen-Yaman	7587
 Judge Brian Spilg	10955
 Judge Details Judges	14675
@@ -359,7 +363,7 @@ Judicial. Artículo	16855
 JudicialService Commission	16943
 Judiciales	16855
 Judiciaries	16705,1066
-Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86,252,2,24,26,25,96,36,166,50,54,102,1,2,444,326,272,48,158,41,37,17,58,373,567,1013,85,8,7,53,46,44,4,34,10,86,25,138,43,177,839,10,10,42,76,2,117,382,37,4,1
+Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86,252,2,24,26,25,96,36,166,50,54,102,1,2,444,326,272,48,158,41,37,17,58,373,567,1013,85,8,7,53,46,44,4,34,10,86,25,138,43,177,839,10,10,42,76,2,117,382,37,4,1,381,22,43,18
 Judiciary Automation Project	6946
 Judiciary Branch	16943
 Judiciary Branch of Liberia	17256
@@ -375,6 +379,7 @@ Judiciary Judiciary Expectations	16943
 Judiciary LAN	6946
 Judiciary LAN The Authority	6946
 Judiciary Law	16943
+Judiciary Level	19576
 Judiciary Location of Courts	14847
 Judiciary Police	18797
 Judiciary President Boakai	17398
@@ -397,6 +402,7 @@ Judiciary The Judiciary	13346,3597
 Judiciary Virtual Legal Aid	15713
 Judiciary Yearbook	16943
 Judiciary and Correctional Services	13097
+Judiciary and EASTC. Evidence	19519
 Judiciary and Executive	17011
 Judiciary and Law	12395
 Judiciary and Legal Professionals	17934
@@ -412,11 +418,13 @@ Judiciary of Liberia	16943
 Judiciary of Namibia	13504
 Judiciary of Seychelles	9679,9458,1
 Judiciary of South Sudan	18598,17,9,7,83
-Judiciary of Tanzania	8616
+Judiciary of Tanzania	8616,10903,22,43
+Judiciary of Tanzania Level	19584
 Judiciary. All	13504
 Judiciary. Cumulatively	13504
 Judiciary. I. Abolition	16958
 Judiciary. Limited	16943
+Judiciary. Local Area Networks	19519
 Judiciary. Physical Address	12920
 Judiciary. Potential	12188
 Judiciary. Specifically	16943
@@ -666,6 +674,7 @@ Sécurité DIVISION DES ANTECEDENTS JUDICIAIRES Commissaires	17899
 Sólo la Autoridad Judicial	16855
 TEAM LEADER Ms. Judith Kilobi	12323
 Technical University of Munich. Prof Jude Osakwe	12926
+Technology General Controls ITGCs Judiciary of Tanzania	19584
 Technology JSC Judicial Service Commission LIMS	13420
 Tenure of Office of Judges	14409
 Tenure of Office of Judges ARTICLE	14409

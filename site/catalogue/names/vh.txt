@@ -5,6 +5,7 @@ BB401 Antenne VHF Tour Antenne	16552
 Band VHF Alarm	6946
 Barbuda High EGDI M-OSI H-HcI VH-TII	10840
 Deported VHF	16552
+Dollar VGT Vulnerable Groups Transfers VHCT	19531
 Duplex VHF Fixed D10	17250
 E OMNI VHF NIG-MOT-DM4-ARCEP- Conforme	998
 EGDI M-OSI H-HcI VH-TII Europe Antigua	10840
@@ -38,6 +39,7 @@ SECTION VH DE L’EMISSION ET	15999
 SRM MOTOROLA DP2000e Portatif VHF	998
 Sentinel-1 VV and VH	16024
 Seychelles High EGDI M-OSI H-HcI VH-TII	10840
+Strengthen STI and VH Service Integration	19544
 Sydney Very High EGDI VH	10840
 TRO UNICEF USAID VHB VIH VOP	10777
 Tetrapol IDR Tetrapol Handheld Whip VHF	998
@@ -50,6 +52,7 @@ VH-TII Africa	10840
 VH-TII Africa Iran	10840
 VH-TII Americas Dominica High EGDI M-OSI	10840
 VH-TII Americas Monaco High EGDI M-OSI	10840
+VH. Special	19544
 VHF D RAPPORT ANNUEL	998
 VHF D SONIDEP	998
 VHF Fixed	17250

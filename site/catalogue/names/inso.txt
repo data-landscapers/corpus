@@ -17,7 +17,7 @@ INSOLVENCY PROCEEDINGS	12389
 INTEROPERABILITY IN INSOLVENCY PROCEEDINGS	12389
 InSouth Africanhighereducation	8602
 Insofar	11182,5745
-Insolvency	9508,1786,986,84,265,24,913,1881,33
+Insolvency	9508,1786,986,84,265,24,913,1881,33,4061
 Insolvency Act	3714,5792,2,1771,1085,947,5572
 Insolvency Act. PART X	14728
 Insolvency Act. Savings	3714
@@ -36,9 +36,14 @@ Insolvency Regulations OHADA	16972
 Insolvency Regulations São Tomé and Príncipe	18797
 Insolvency Risks. Supply Chain	11131
 Insolvency and Creditors' Rights	17441
+Insolvency and NSA's Trusteeship Agency	19519
 Insolvency and Receivership	6121
 Insolvency and Restructuring Law	16876
-Insolvency and Trusteeship Agency	4553,6038
+Insolvency and Trusteeship Agency	4553,6038,8928,12,10
+Insolvency and Trusteeship Agency RS Regional Secretariat	19519
+Insolvency and Trusteeship Agency SACCOS Savings and Credit	19531
+Insolvency and Trusteeship Agency U5BRI Under-5 Birth	19544
+Insolvency and Yes Enhanced	19519
 Insolvent Participant	12364
 Insolvent Participant All	12364
 Insolvência	11383
@@ -57,5 +62,8 @@ Public Registry of Insolvency Practitioners	12389
 Publication of Register of Insolvency Practitioners	12389
 REGISTRY OF INSOLVENCY PRACTITIONERS	12389
 Register of Insolvency Practitioners	12389
+Registration Insolvency Trust Agency Level	19584
+Registration Insolvency and Trusteeship Agency	19541
+Registration Insolvency and Trusteeship Agency TCRA TPA	19541
 Resolving Insolvency	18109
 Termination for Insolvency	13185

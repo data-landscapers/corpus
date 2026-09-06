@@ -164,6 +164,8 @@ Armée Assimi GOITA Secrétariats	17899
 Arouna KAMISSOKO Secrétaire	18003
 Arouna KONE Secrétaire	17899
 Arouna TOGOLA Secrétaire	17819
+Arusha Regional Secretariat	19585
+Arusha Regional Secretariat Regional Secretariat	19585
 Asesor S.E. Canciller Secretario Jefe de Estado	4209
 Assa BAH Secrétaire	17861
 Assa TRAORE Secrétaire	17829
@@ -320,6 +322,7 @@ Cabinet Secretary for Public Service	7480,3635
 Cabinet Secretary for Roads and Transport	9646
 Cabinet Secretary for Roads and Transport. Agreement	14476
 Cabinet Secretary for The National Treasury and Economic	10313
+Cabinet Secretary of Finance	19602
 Cabinet Secretary-MICDE	7548
 Cabinet Secretary. Dated	14575
 Cabinet Secretary. Likuyani MP Innocent Mugabe	14270
@@ -358,7 +361,9 @@ Cheick KONE Secrétaire	17819
 Cheick TALL Secrétaire	17819
 Chiacka DEMBE Secrétaire	17833
 Chiaka TRAORE Secrétaire	17819
-Chief Secretary	1817,962,1749,3891,156,3724,213,610,55,325
+Chief Secretary	1817,962,1749,3891,156,3724,213,610,55,325,6100
+Chief Secretary Service Access	19584
+Chief Secretary and Treasury Registrar	19585
 Chief Secretary. The National Steering Committee	12978
 Chief of Mission Cabinet Secretary United Nations	4153
 Chief of Mission Principal Secretary	4154
@@ -378,6 +383,7 @@ Commission. The Secretariat	16830
 Commissioner Babucarr Cham and Permanent Secretary	17335
 Commissioner Judith Mbabazi and Executive Secretary	12372
 Commission’s Secretariat	13504
+Committee REDMAC Regional Secretariat RS Southern	19520
 Committee Secretariat	10313,972
 Committee Secretary	10569,716,4
 Committee Secretary Mr. Vincent Quatre and Assistant	18981
@@ -397,8 +403,11 @@ Company Secretary Nationality	4896
 Company Secretary The CIPC	11250
 Company Secretary. CIRCULAR TO ECONET WIRELESS	4896
 Complaints Unit Assistant Permanent Secretary	14746
+Compliant Compliant Secretariat	19585
+Compliant Secretariat	19585
 Composition du Secrétariat Exécutif	14537
 Composition du Secrétariat Exécutif Fonction Secrétaire	14537
+Concessions Permanent Secretary Email	19532
 Conference Secretariat	17260
 Conference Secretariat and Organizing Committee	17260
 Confidential Secretary	14835
@@ -489,14 +498,15 @@ Deputy Executive Secretaries of SADC	9761
 Deputy Executive Secretary	1032,5115,12445
 Deputy Executive Secretary- EASTECO	18705
 Deputy Financial Secretary	18500,59
-Deputy Permanent Secretaries	14745,2206
-Deputy Permanent Secretary	4677,276,734,2927,1849,212,1888,364,24,1447,338,2,4,3,1,89,2001,78
+Deputy Permanent Secretaries	14745,2206,2651
+Deputy Permanent Secretary	4677,276,734,2927,1849,212,1888,364,24,1447,338,2,4,3,1,89,2001,78,2630
 Deputy Permanent Secretary Deputy Permanent Secretary	14835
 Deputy Permanent Secretary of Administration	13392
 Deputy Permanent Secretary of MOTIE	4359
 Deputy Permanent Secretary of MOTIE DPS Jammeh	17038
 Deputy Press Secretary	18637
 Deputy Principal Financial Secretary	18500
+Deputy Principal Secretaries	19616
 Deputy Secretaries General	14409
 Deputy Secretaries General ARTICLE	14409
 Deputy Secretary	7432,20,4405,1647,138
@@ -528,13 +538,16 @@ Director-General's Secretariat	7368
 Directors and Secretary	13053
 Disclosure of Official Secrecy Regulations No	18463
 Discours du Secrétaire Exécutif	16746
+District Administrative Secretary	19541
 District Education Board Secretariats	13636
 District Education Board Secretaries	13477
 District Education Boards Secretaries	13392
 District Social Cash Transfer Program Secretariat	12978
+Divisional Secretary	19525
 Django KANOUTE Secrétaire	18032
 Djibril SAMAKE Fousseyni TRAORE Secrétaire	18032
 Djénéba Secrétaire	17841
+Dodoma Regional Secretariat Regional Secretariat	19585
 Doh Lancine SORO Maimouna BALLO Secrétaire	17899
 Dolisie Secrétaire Général Personnel	16012
 Doreen Bogdan-MartinITU Secretary-General	18349
@@ -544,10 +557,12 @@ Dr. Kelvin Mambwe Permanent Secretary	13392
 Dr. Martin Rushwaya Chief Secretary	2779
 Dr. Rahma Mahfoudh the Executive Secretary	11133
 Dr. Samson Mndolo Secretary for Health	12240
+Dr. Seif A. Shekalaghe PERMANENT SECRETARY	19544
 Drissa BAGAYOKO Secrétaire	17982,21
 Drissa DIARRA Secrétaire	18003
 Drissa SANGARE Secrétaire	17899
 Drissa TRAORE Police Kadiatou FOFANA Secrétaire	17819
+Drodivisional Secretary	19525
 Du Secrétariat	15414
 Du Secrétariat Exécutif	17812
 Duties of Executive Secretary	18438
@@ -558,7 +573,7 @@ Développement Secrétaire	17899
 Développement. Le Secrétariat	15383
 EAC Deputy Secretary General	7815,152,5643,41,1570,2424
 EAC Deputy Secretary General for Customs	6096,746
-EAC Secretariat	3238,500,941,2499,370,2159,553,1547,141,216,1446,641,158,812,2425,1043,16
+EAC Secretariat	3238,500,941,2499,370,2159,553,1547,141,216,1446,641,158,812,2425,1043,16,877,12
 EAC Secretariat Arusha	7967,3840,1803
 EAC Secretariat P. O. Box	14409
 EAC Secretariat and Bank of Uganda	10186
@@ -607,10 +622,12 @@ Eswatini's Grand Plan. Principal Secretary	12989
 Et le Secrétaire Général Adjoint du Ministère	18224
 Etat Chargé du Secrétariat	10821
 Etat Secrétaire Général	10821
+Ethics Secretariat	19519
 Eugène Falikou YOMALO MFPREMA Secrétaire	16620
 Eugénio Adolfo Alves da Silva. SECRETÁRIA	11391
 European Commission and ACP Secretariat	26,1,1
 Evaluation Secrétaire	17827
+Everyer Divisional Secretary	19525
 Excellency Deputy Secretary-General	15026
 Excellency Secretary-General	15026
 Excma. Sra. Secretaria de Estado	17192
@@ -712,7 +729,7 @@ Free Trade Area Secretariat	9154
 Freetown. The Permanent Secretary	18517
 Frontières Secretariat Général du Gouvernement Conditions	10821
 Functional Secretariat	16848
-Fund Secretariat	12552,910,3377
+Fund Secretariat	12552,910,3377,2732
 Fund's Secretariat	12552
 Fórum de Macau. O Secretário-Geral	17337
 G. CONTACT DETAILS First Transfer Secretaries	4896
@@ -731,6 +748,7 @@ Gabinete de Secretariado	15503
 Gaming Permanent Secretary	6938
 Gaoussou DEMBELE Secrétaire	17841
 Gaoussou Maïmouna DIORO KOUYATE Secrétaire	17819
+Geita Regional Secretariat Regional Secretariat	19585
 Gender Secretariat	18912
 General Jurisdicción Militar Secretario General Ministerio	4209
 General Manager and Secretariat	3513
@@ -855,6 +873,7 @@ Informatique SECRETARIAT Secrétaire	17982
 Informatique Secrétaire	17982
 Ingénieur des Secrétaires Constructions	17982
 Inkhundla Secretary	12970
+Insolvency and Trusteeship Agency RS Regional Secretariat	19519
 Inspecteur de Police Aïssata CISSE Secrétaire	17819
 Inspecteur de Police Secrétaire	17819
 Inspecteur de Secrétaire	17819
@@ -876,6 +895,9 @@ International Secretariat	17893
 International Secretariat’s Validation	17893
 Internet Governance Secretariat	8038
 Intérprete Traductor Bilingüe Secretario Particular	4209
+Investment RS Regional Secretariats RSs Regional	19585
+Iringa Regional Secretariat	19585
+Iringa Regional Secretariat Regional Secretariat	19585
 Issa SANGARE Secrétaire	17899
 Issa SOGOBA Secrétaire	17982
 Issiaka MAÏGA Secrétaire	17833
@@ -890,6 +912,7 @@ Jesús Nkara Owono Nse Secretario de Estado	16864
 Job KEITA Secrétaire	18032
 John OMO Secretary General	10235
 John OMO Secretary General Attachment	6488,586
+Joint SDG Fund Secretariat	19571
 Joint Secretariat	18529
 Joint Secretary	2667,7082,8909
 Judicial Commissions Secretariat JCS Justice	12920
@@ -908,6 +931,8 @@ KUPPET Nyamira Executive Secretary George Ayieko	8383
 Kadia BAMBA Secrétaire	17841
 Kadiata Mamoudou KABA MTP Secrétaire	16620
 Kadiatou SANOGO Secrétaire	17833
+Kagera Regional Secretariat	19585
+Kagera Regional Secretariat Regional Secretariat	19585
 Kalidou SANGARE Secrétaire	17899
 Kana DIARRA Secrétaire	17833
 Kangwa SECRETARY TO THE CABINET	13345
@@ -915,6 +940,8 @@ Kangwa SECRETARY TO THE CABINET ACKNOWLEDGEMENT	12453
 Karnataka Chief Secretary Dr Shalini Rajneesh	17565
 Kassoum KEÏTA Secrétaire	17841
 Kassoum SOGOBA DIARRA Secrétaire	17833
+Katavi Regional Secretariat	19585
+Katavi Regional Secretariat Regional Secretariat	19585
 Kenya Accountants and Secretaries National Examination Board	14546
 Kenya Cabinet Secretary for East African Community	17645
 Kenya Digital Economy Cabinet Secretary William	4030
@@ -935,6 +962,9 @@ Kenya’s Interior Cabinet Secretary	2447
 Kenya’s Prime Cabinet Secretary and Cabinet Secretary	14230
 Kenya’s Principal Secretary	9938,6865
 Kenya’s Tourism Cabinet Secretary and Tanzania’s Natural	14600
+Kigoma Regional Secretariat	19585
+Kigoma Regional Secretariat Regional Secretariat	19585
+Kilimanjaro Regional Regional Secretariat	19585
 Kolbi Secrétaire	18032
 Konza Technopolis. Principal Secretary	10667
 Koro DAOU Secrétaire	17833
@@ -950,6 +980,7 @@ LE SECRETARIAT GENERAL COMPREND	18143,27
 LE SECRÉTAIRE GÉNÉRAL DE LA ZLECAf	10476
 LE SECRÉTARIAT DE LA ZLECAf ET	10476
 LEAP Management Secretariat	16253
+LGAs and Regional Secretariats	19585
 LOCALE SECRETARIAT GENERAL	16099
 LTA's Revenue Secrecy Raises Transparency Questions	8955
 La Secretaría Técnica	163,16692
@@ -1017,6 +1048,7 @@ Liberia Licensing Department Secretariat	16853
 Liberia OGP Secretariat.16 Key	17037
 Liberia VPA Secretariat	16853
 Lidi SAMAKE Secrétaire	18032
+Lindi Regional Secretariat Regional Secretariat	19585
 Live Commonwealth Secretariat Meridian System	14546
 Local Government Education Secretary	11860
 Lok Sabha Secretariat	18691
@@ -1051,6 +1083,7 @@ MHTEISTD Acting Permanent Secretary Professor Norman	13671
 MICDE Secretariat	7548,2698
 MICDE Secretariat Sector MDAs Regulatory Private	7548
 MICDE Secretariat and Technical Working Groups	7548
+MICIT Permanent Secretary Ministry of Information	19532
 MICSTI Principal Secretary Kanono Ramashamole	7161
 MICSTI's Principal Secretary	12696
 MINISTRY of Information and Media Permanent Secretary Thabo	13680
@@ -1087,12 +1120,18 @@ Mamani NASSIRE Secrétariats	18032
 Mamaya SAMAKE Secrétaire	18032
 Mamoudou FAÏNKE Secrétaire	17841
 Management Secretariat	11129
+Manyara Regional Assistant Administrative Secretary	19618
+Manyara Regional Secretariat	19585
+Manyara Regional Secretariat Regional Secretariat	19585
+Mara Regional Secretariat Regional Secretariat	19585
 Mariam FANE Secrétaire	17899
 Mariam SANGARE Secrétaire	18003
 Mariam Secrétaire	18003
 Mariama TRAORE Secrétaire	18003
 Masa Secretario General Ilmo. Sr. D	16864
 Massiré de Police Djénèba DANTE SAMPY Secrétaire	17819
+Mbeya Regional Secretariat Regional Secretariat	19585
+Mbeya Regional Unqualified Compliant Compliant Secretariat	19585
 Member Dr. Foday Joof Secretary Report	17104
 Member Secretariat	11129
 Mesa Secretario de Mesa	4209
@@ -1152,6 +1191,7 @@ Monsieur le Secrétaire Général des Nations Unies	17474
 Monsieur le Secrétaire Permanent	13364
 Mopti. Secrétaire	17833
 Morimousso TOUNKARA Tiedjan MARIKO Secrétaire	18003
+Morogoro Regional Regional Secretariat	19585
 Moualaye KEITA Secrétaire	18003
 Moulaye Ismaël ASCOFARE Secrétaire	17982
 Moulaye SOUNKORO Secrétaire	17833
@@ -1168,6 +1208,7 @@ Moyo. The Principal Secretary	13124
 Mr. Ashraf Kariem Acting Secretary	11224
 Mr. Charles K. Miller VPA Secretariat	16853
 Mr. Daniel D. Wleh VPA Secretariat	16853
+Mr. Mohammed K. Abdulla Permanent Secretary	19532
 Mr. Nick B. Goll VPA Secretariat	16853
 Mr. Toolsy GARBURRUN Deputy Permanent Secretary	14745
 Mrs. Amie B NJIE Permanent Secretary	16885
@@ -1179,9 +1220,11 @@ Mrs. Zeenat Guness-Goolbar Permanent Secretary Ministry	14745
 Ms. Linda Moyo and Principal Secretary	13214
 Ms. R. Paulus Secretary	13031
 Ms. Ssemuwemba. The Deputy Secretary General	7967
+Mtwara Regional Secretariat Regional Secretariat	19585
 Muchinga Province Deputy Permanent Secretary Brian	6104
 Multi-Agency Secretariat	6946
 Muraleedharan and Secretary	17241
+Mwanza Regional Secretariat Regional Secretariat	19585
 N. Secretary	14843
 NADF Executive Secretary	8659
 NAS National AIDS Secretariat CHC Community	14773
@@ -1246,6 +1289,7 @@ Nawa DAMEY MSPC Secrétaire	16620
 Next Secretary-General Election Looms	10405
 Niama DIABATE Secrétaire	17828
 Nigeria Secretary	7561
+Njombe Regional Secretariat Regional Secretariat	19585
 Noriana Muneku Permanent Secretary	13392
 North-Western Province Permanent Secretary Colonel Grandson	7130
 November. INTERPOL Secretary General Valdecy Urquiza	17023
@@ -1268,6 +1312,7 @@ O Secretário de Estado	11519,1
 O Secretário de Estado da Economia Digital	3527
 O Secretário de Estado da Saúde	5020
 OACPS Secretariat	12675
+OATH OF SECRECY	19526
 OGP Liberia Secretariat	17037
 OGP Nigeria Secretariat. Report	11866
 OGP Secretariat	11866,1140,4031,1188
@@ -1360,13 +1405,13 @@ Perfect Forward Secrecy	11952
 Permanent Secretariat	6361,5539,2779,1705,1741
 Permanent Secretariat for Innovation and Forecasting	7361
 Permanent Secretariat of CNR	11900
-Permanent Secretaries	1014,974,5985,1008,688,1921,863,642,237,13,1064,364,357,1722,99,137,700
+Permanent Secretaries	1014,974,5985,1008,688,1921,863,642,237,13,1064,364,357,1722,99,137,700,1731,66
 Permanent Secretaries Committee	16885
 Permanent Secretaries and Accounting Officers. The Committee	16885
 Permanent Secretaries and Equivalent Grades	2779
 Permanent Secretaries and Heads of Agencies	13005
 Permanent Secretaries. CHAPTER FIVE	13399
-Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165,40,3,13,44,19,7,4,31,99,43,16,126,6,132,192,50,547,8,39,38,187,5,21,8,43,6,388
+Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165,40,3,13,44,19,7,4,31,99,43,16,126,6,132,192,50,547,8,39,38,187,5,21,8,43,6,388,608,6,7,12,15,7,6,13,22,5
 Permanent Secretary Ally Senga Gugu	5697
 Permanent Secretary Attention	12927
 Permanent Secretary Dr Amina Zawedde	5658
@@ -1384,6 +1429,7 @@ Permanent Secretary Ministry of Industry	14770
 Permanent Secretary Ministry of Technology and Science	9082
 Permanent Secretary Professor Albert Malama	6170
 Permanent Secretary Professor Fanuel Tagwira	13671
+Permanent Secretary Ps	19532
 Permanent Secretary RBC	12338
 Permanent Secretary Secretary Ministry of Justice	9082
 Permanent Secretary Vision Mission Roles	14746
@@ -1391,6 +1437,7 @@ Permanent Secretary and Chief Medical Officer	18532
 Permanent Secretary and Chief Medical Officer Establish	18532
 Permanent Secretary and Chief Medical Officer Policy	18532
 Permanent Secretary and Head	17292
+Permanent Secretary and Paymaster General	19602
 Permanent Secretary for Administration	13578
 Permanent Secretary for Education Services	13477
 Permanent Secretary for ICT	4528,5545,2439
@@ -1408,6 +1455,7 @@ Permanent Secretary-Administration	13378,14
 Permanent Secretary-CRIAR	1778
 Permanent Secretary-Education Services	13378
 Permanent Secretary-Internal Affairs	18449
+Permanent Secretary-Treasury	19584
 Permanent Secretary. Guidelines	34
 Permanent Secretary. Once	13662
 Permanent Technical Secretary Pr. Sena Yawo	6048
@@ -1456,11 +1504,11 @@ Primer Secretario A1	4209
 Primer Secretario A2	4209
 Primer Secretario A3	4209
 Principal Deputy Financial Secretary	18500
-Principal Secretaries	5536,5763,1000,113,560,4,1623
+Principal Secretaries	5536,5763,1000,113,560,4,1623,5017
 Principal Secretaries for Interior	6787
 Principal Secretaries for Internal Security	17745
 Principal Secretaries for Reforms	10736
-Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9,21,82,14,259,9,1,1,17,7,7,29,138,16,26,36,5,24,4,49,3,18,26,13,2,8,102,644,537,3,12,27,44,68,33,5,42,4,2652,1601,20,25,22,166
+Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9,21,82,14,259,9,1,1,17,7,7,29,138,16,26,36,5,24,4,49,3,18,26,13,2,8,102,644,537,3,12,27,44,68,33,5,42,4,2652,1601,20,25,22,166,485
 Principal Secretary Allain Volcere	18964
 Principal Secretary Dr.Bonface Makokha	14523
 Principal Secretary John Tanui	10668
@@ -1481,6 +1529,7 @@ Principal Secretary Pankaj Kumar Pandey	17565
 Principal Secretary Patrick Machika	10130,2956
 Principal Secretary Ref	14501
 Principal Secretary State Department for ICT	7548
+Principal Secretary and Deputy Principal Secretary	19616
 Principal Secretary for Basic Education	2925
 Principal Secretary for Broadcasting and Telecommunication	14521
 Principal Secretary for Broadcasting and Telecommunications	6316,1945,2278,760
@@ -1512,6 +1561,7 @@ Principal Secretary. Mr Isaboke	6946
 Principle of Statistical Secrecy	16189
 Procurement ST-RSU Technical Secretary	16384
 Procurement Strategy for Development PS Permanent Secretary	13331
+Prof. Abel N. Makubi Permanent Secretary	19521
 Professional Secrecy and Rules of Procedure	11517
 Progrès MINISTERE DES ENSEIGNEMENTS SECONDAIRES SECRETARIAT	18099
 Progrès SECRETARIAT GENERAL DU GOU	15354
@@ -1530,13 +1580,17 @@ Public Health State Secretary	11401
 Public Sector Reform Secretariat	8367,1363
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
 Public Sector Reforms Secretariat	8371
+Public Service Recruitment Secretariat Level	19584
 Publicity Secretary	7329
+Pwani Regional Secretariat Regional Secretariat	19585
+Pwani Regional Unqualified Compliant Compliant Secretariat	19585
 Qualité Secrétaire	17827
 R.D.L-Ramsooroop Acting Deputy Permanent Secretary	14742
 RAL SECRÉTARIAT GEANOMINISTRATIVES S AFFAIR S	15441
 RCZ Board and Secretariat	1554
 RCZ Secretariat	1554
 REBUGHIE- SECRETARIAT GENERAL	15530
+REGIONAL SECRETARIATS AND LOCAL GOVERNMENT AUTHORITIES	19585
 RELATED Representing the Secretary	4102
 REPUBLIC SECRETARIAISENERAL SERVICE OÙ FICHIERAEGISLATIF	15999
 REPUBLIC SECRETARIAT GENE SERVICE	15999
@@ -1551,12 +1605,18 @@ Rapport du Secrétaire	17323,1
 Rasel KONE Secrétaire	18032
 Rassemblement Secrétaire	17828
 Ra’eesa Pather and Cheriese Dilrajh for Open Secrets	7910
+Recruitment and Good Governance Secretariat	19519
 Refugee Affairs Secretariat	12227
 Refugee Secretariat	12227
 Region and The Secretariat	16867
 Regional Durable Solutions Secretariat	12227
 Regional Governors Permanent Secretaries	17124
+Regional Regional Secretariat	19585
+Regional Secretariat	19520,65
 Regional Secretariat Director	13124
+Regional Secretariats	19520,11,54
+Regional Secretariats and LGAs	19585
+Regional Secretariats and Local Government Authorities	19585,17
 Registrar and Secretary	14227
 Regulations The Cabinet Secretary	14449
 Relationship Between the Secretariat	14409
@@ -1578,7 +1638,10 @@ Roka Botey Secretario de Estado Encargado de Enseñanza	16920
 Rokiatou Founè SACKO N’Tobougoui. Secrétaire	17833
 Rosário Teixeira de Alva Sequeira Bragança. SECRETÁRIO	11391
 Rukwa Regional Secretariat	12114
+Rukwa Regional Secretariat Regional Secretariat	19585
 Rules The Cabinet Secretary	14407
+Ruvuma Regional Secretariat Regional Secretariat	19585
+Ruvuma Regional Unqualified Compliant Compliant Secretariat	19585
 Rwanda Internet Governance Forum Secretariat	8343
 Région de Mopti. Secrétaire	17841
 Révocoiion du Secrétoire	15429
@@ -1677,6 +1740,7 @@ SECRETARL	15999
 SECRETARTAT GENERAL	15999
 SECRETARY	585,6638,1643,7975
 SECRETARY OF THE BANK	7464,1268
+SECRETARY PRIME MINISTER'S OFFICE	19520
 SECRETARY Senior Official for Foreign Assistance	4154
 SECRETARY TO THE TREASURY	12964
 SECRETARY TO TREASURY-CHIUNDA The Government of Malawi	13127
@@ -1734,6 +1798,7 @@ Saadou NIMAGA MMG Secrétaire	16620
 Sadio KONE Secrétaire	17819
 Safiatou DIALLO Secrétaire	17899
 Said Soule and Secretary General of Ministry of Youth	13791
+Salaam Regional Secretariat	19585
 Salif BAGAYOKO Secrétaire	17833
 Salifou COULIBALY Secrétaire	18003
 Salimatou SAMAKE Secrétaire	18032
@@ -1748,6 +1813,7 @@ Saran KONE Secrétaire	18032
 Saúde Secretário de Estado da Saúde	5020
 Schedule. ESTHER N. KAAPANDA SECRETARY	13096
 Scheme NCBS National Capacity Building Secretariat	14997
+Seamless Regional Secretariats	19576
 Second Draft and Secretariat	962
 Second Secretary	13042,3233
 Secre	18297
@@ -1761,6 +1827,7 @@ Secrecy and Eavesdropping	15340
 Secrecy of Information	18600
 Secrecy of Postal	15340
 Secrel	15429
+Secrertt	19525
 Secret	1187,2674,2571,4404,1150,1337,1089,690,261,66,165,41,2193,291,191,908
 Secret Data	6432
 Secret Detention	17950
@@ -1835,7 +1902,7 @@ Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
-Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88,231,3,3,3,28,49,11,13,7,5,58,170,187,255,4,20,14,16,80,121,1,15,77,326,5,133,3,26,2,2,5,59,22,25,70,259,160,23,95
+Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88,231,3,3,3,28,49,11,13,7,5,58,170,187,255,4,20,14,16,80,121,1,15,77,326,5,133,3,26,2,2,5,59,22,25,70,259,160,23,95,334,66
 Secretariat ARTICLE	14409
 Secretariat African Financial Stablity Committee	6938
 Secretariat Arusha	11806,1845
@@ -1859,6 +1926,7 @@ Secretariat Operations Per	17260
 Secretariat Permanent	16144
 Secretariat Processes	10822
 Secretariat Technique	15743
+Secretariat Unqualified Compliant	19585
 Secretariat Upon	14409
 Secretariat and ADI Foundation	7522
 Secretariat and Community	10694
@@ -1876,6 +1944,8 @@ Secretariat of Committee	13403
 Secretariat of Committee Constitution	13403
 Secretariat of District Development Coordinating Committee	13318
 Secretariat of District Land Commission	18465
+Secretariat of Employment	19541
+Secretariat of Ethics of Public Officials	19541
 Secretariat of National Development Coordinating Committee	13318
 Secretariat of Provincial Development Coordinating Committee	13318
 Secretariat-led	17696
@@ -1889,6 +1959,7 @@ Secretariat. The SWG Secretariat	14935
 Secretariat. The Trustees	14464
 Secretariate	14850
 Secretariats	15796
+Secretariats SEQUIP Secondary Education Quality Improvement	19585
 Secretaries	4896,9850,3723,31
 Secretaries and Administrative Assistant Training	13095
 Secretaries and Employees	15393
@@ -1975,7 +2046,7 @@ Secretarios Técnicos	4209
 Secretarios de Estado	1855,4986
 Secretarios de Estado. En	6841
 Secretarios de Mesa	4209
-Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86,82,109,1,16,227,6,11,5,91,47,5,27,16,31,62,92,6,18,11,2,14,7,4,2,26,21,11,14,55,32,138,767,13,27,54,52,161,6,13,8,13,12,6,4,41,5,4,7,8,184,28,285,53,66,796,76,499,3,3,79,6,236,385,243,231,160,29,229,3,3,5,18,2,1,1,1,7,66,22,133,197,268
+Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86,82,109,1,16,227,6,11,5,91,47,5,27,16,31,62,92,6,18,11,2,14,7,4,2,26,21,11,14,55,32,138,767,13,27,54,52,161,6,13,8,13,12,6,4,41,5,4,7,8,184,28,285,53,66,796,76,499,3,3,79,6,236,385,243,231,160,29,229,3,3,5,18,2,1,1,1,7,66,22,133,197,268,357,1,6,1
 Secretary Absent	17317
 Secretary Administration	12433,2034
 Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198
@@ -2179,7 +2250,7 @@ SecréIoire	15429
 SecréToire	15429
 Secréloire Générol	10813
 Secréloriot	15429
-Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100,525,1614,2,83,30,183,84,21,65,126,16,525,6,106,2,298,467,46,66,4,12,56,81,33,83,42,17,19,6,16,2,141,8,111,52,27,42,7,2,110,198,108,23,37,16,3,13,24,1,16,722,23,113,228,5,2,8,1,1,4,8,4,3,13,21,17,50,3,8,22,9,12,29,62,7,4,14,46,23,63,35,11,25,5,12,42,19,2,1,9,17,497,66,44,19,15,97,87,31
+Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100,525,1614,2,83,30,183,84,21,65,126,16,525,6,106,2,298,467,46,66,4,12,56,81,33,83,42,17,19,6,16,2,141,8,111,52,27,42,7,2,110,198,108,23,37,16,3,13,24,1,16,722,23,113,228,5,2,8,1,1,4,8,4,3,13,21,17,50,3,8,22,9,12,29,62,7,4,14,46,23,63,35,11,25,5,12,42,19,2,1,9,17,497,66,44,19,15,97,87,31,120
 Secrétaire Adjoint du Conseil des Ministres	16175
 Secrétaire Cénéral	15416
 Secrétaire Dans	13405
@@ -2385,6 +2456,7 @@ Seydou BARRY Secrétaire	17841
 Seydou Bari SIDIBE MEEF Secrétaire	16620
 Seydou SANGARE DOUCOURE Secrétaire	17899
 Seydou Secrétaire	17833
+Shinyanga Regional Regional Secretariat	19585
 Shri Pabitra Margherita. Principal Secretary Kanono	3363
 Siaka SANGARE GUINDO Secrétaire	17899
 Sid Ali Zerrouki. Pour le Secrétaire	4226
@@ -2395,6 +2467,8 @@ Siga Diadié TRAORE Secrétaire	17829
 Signature Kanono Ramashamole Principal Secretary Ministry	12674
 Signed Abdoulie Jallow Permanent Secretary Ministry	16944
 Silica Technology Under Secretary for Economic Affairs	6849
+Simiyu Regional Secretariat Regional Secretariat	19585
+Singida Regional Secretariat Regional Secretariat	19585
 Siré BAH Secrétaire	17833
 Smart Africa Secretariat	603,358,303,2610,4371,1647,1,180,746,1547,4313
 Smart Africa Secretariat RFP	4050
@@ -2406,6 +2480,7 @@ Social Protection Fund The Cabinet Secretary	14493
 Social Protection Secretariat	16952
 Solicitor General and Secretary for Justice	12888,13,2,3,2,179
 Solicitor General and Secretary for Justice Gertrude Hiwa	13177
+Songwe Regional Secretariat Regional Secretariat	19585
 Souhoudou SIDIBE Secrétaire	17841
 Souleymane BORE Secrétaire	17833
 Souleymane DRAME Secrétaire	17982
@@ -2425,7 +2500,7 @@ State Secrecy	12201
 State Secretariat Conference Hall	16796
 State Secretariat for Economic Affairs	11997
 State Secretariat. Gregory	11310
-State Secretary	7794
+State Secretary	7794,11749
 State Secretary Willemijn Aerdts	8904
 State Secretary von Geyr	7794
 State of Cabo Verde Secretaries Gilda Maria	11955
@@ -2458,8 +2533,10 @@ THER SECRETARHAT GENERAL	15999
 THIRD SCHEDULE Oath of Secrecy	587
 TIC Secrétariat Permanent Assuré	17824
 TWG Secretariat	14889
+Tabora Regional Secretariat Regional Secretariat	19585
 Tags Deputy Secretary of State Equatorial Guinea	17237
 TaiwanICDF Deputy Secretary General Peifen Hsieh	15002
+Tanga Regional Secretariat Regional Secretariat	19585
 Tanui. The Principal Secretary	9938
 Tanzania Cooperative Permanent Secretary	6938
 Tanzania’s Private Secretaries	5822
@@ -2557,6 +2634,7 @@ UNSGSA Secretariat Inclusive Finance for Development Bill	1486
 US Deputy Secretary of State Kurt Campbell	2284
 US Secretary of State	4426
 US Secretary of State Mike Pompeo	2117
+US Under Secretary of Commerce	19534
 Uganda Editors Guild Secretary Sylvia Nankya	8687
 Um Secretariado Executivo	11561
 Un Secretaire	13292
@@ -2616,6 +2694,9 @@ WIPO Secretariat	11883
 WTO Secretariat	16996
 Wanted Notices The Executive Secretary of Héritiers	11868
 War and Economic Crimes Court Secretariat	17139
+Ward Secretaries	19525
+Ward Secretary	19525
+Ward Secretary Divisional	19525
 Web. Le Secrétaire	13884
 X Private Secretary	13097
 XKXL. Secrétaire	17819

@@ -90,6 +90,7 @@ Caderno de Recenseamento	11528
 Cartographie du Recensement Général de DSDS	18291
 Cash Receipts and Payments	16978
 Category of Complaints Received	12062,6124,31
+Chemba DC Recognized Loans Receivables	19585
 Child Health Services Recent	10776
 Cinquième Recensement	15720
 Cinquième Recensement Général	9553,6004,2389
@@ -126,6 +127,7 @@ Court Cases Number of Cases Received	11131
 Customs Regime Receipts	15066
 Cyber Vulnerabilities Recent	2117
 D. Recent Successes	11140
+D1. Receipts	19602
 DAS DESPESAS E RECEITAS ARTIGO	17100
 DE CÔTE D'IVOIRE Newsletter Recevez	3675
 DE LA DEMOGRAPHIE RECENSEMENT GÉNÉRAL DES	10875
@@ -183,6 +185,7 @@ Division du Recensement Economique	17446
 Do If You Receive	13108
 Document De Projet Cinquième Recensement Général	17945
 Domestic Economic Development Recent	12962
+Domestic Receipts	19602
 Donativos. V. Receitas Correntes	18798
 Donor Funds Received	11218,6
 Dotation de Fonctionnement Recette	15670
@@ -194,6 +197,7 @@ Déclarations de Recettes	17872
 Département du Recensement	14244
 Dépôt Retrait Envoyer Recevoir Paiement Autre	13390
 E INFRACÇÕES DE RECENSEAMENTO ARTIGO	11528
+E1. Receipts	19602
 EFEITOS DA NÃO TRANSFERÊNCIA DE RECEITAS	17100
 EIXOS ESTRATÉGICOS E OBJETIVOS OPERACIONAIS Recenseamento	11526
 EM RECEITAS	18791
@@ -223,6 +227,7 @@ Electronic General Receipts	15066
 Electronic Warehouse Receipts	14997
 Email Zimbabwe’s Recent Inter-Regional CyberDrill Targeted	6909
 Embajada A1 Recepcionista Embajada A2 Recepcionista	4209
+Employees Receiving Net Salaries Below Authorised	19585
 Empresarial RGA Recenseamento Geral da Agricultura RGD	15535
 Enquiries Handled Category Total Received Resolved	6946
 Ensino Técnico-Profissional Recenseamento Geral da População	10766
@@ -258,6 +263,7 @@ Fiscal Receipt	13606
 Fiscal Receipts	13606
 Fontes de Receitas	11443
 Foreign Affairs Receives Phone Call	16114
+Foreign Receipts	19602
 Free Duty Receipts	15066
 Fusepay Receives Final Approval	19021
 G. Tax Administration Diagnostics and Recent Tax	13624
@@ -322,6 +328,7 @@ Interior Minister Receives Update	15211
 International Journal of Recent Technology and Engineering	9128
 Introduction Recent	10718
 Invoice Receipt GRN Goods Received	13420
+Issuing Guarantees and Receiving Grants	19519
 Iº Recenseamento	18775
 Iº Recenseamento Empresarial	18775
 Joint Board and Receiver Statement	9914
@@ -342,7 +349,7 @@ Le Bureau de Coordination du Troisième Recensement Géné	18926
 Le Deuxième Recensement Général	13806
 Le Recen-	15423
 Le Recensement	737,17107
-Le Recensement Général	15848,2038,59,204
+Le Recensement Général	15848,2038,59,204,1264
 Le Recensement Général National	14862
 Les Recettes Budgétaires	13772
 Les Receveurs	17872
@@ -428,6 +435,7 @@ Orçamento I.2.1.1. Receitas Fiscais	18853
 Outras Receitas	18798,55
 Outras Receitas Fiscais	18798,55
 Outras Receitas Patrimonial	18798,55
+Outstanding Loan Receivables Between the Loan Register	19585
 Overview Education Return Receipts	16554
 P Autres Recettes Non Réparties Quote-part	15999
 PAFEN. Recent	6057
@@ -460,6 +468,7 @@ Programme National de Recensement Administratif	2756
 Progress Completion Measurement Receive	19242
 Progress and Way Forward Recently	3735
 Prohibition of Receiving Donations	15393
+Proportion of Pregnant Women Receiving Fefol Supplementation	19544
 Príncipe CNPD RECEBEU A AGÊNCIA NACIONAL	3079
 Public Debt Statements and The Receiver of Revenue	14546
 Publicidade de Recenseamento	11528
@@ -630,7 +639,7 @@ Receive Trip Details	17687
 Receive With Confidence	12745
 Receive and Register	17099,15
 Receive- Type	998
-Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9,1170,1231,10,457,1709,12,32,13,154,207,523,7
+Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9,1170,1231,10,457,1709,12,32,13,154,207,523,7,1739
 Received Date	11276
 Received Feedback	9772
 Received Finalized Stock	12500
@@ -644,8 +653,9 @@ Receiver of Duties and Fees	14761
 Receiver of Revenue	14546
 Receiver-authored	9507
 Receiver-consent	9612
-Receivers	18556
+Receivers	18556,971
 Receivers of Revenue	13420
+Receivership	19509
 Receives	16942,425,1870
 Receives Briefing	15070
 Receives First Reading	17208
@@ -698,7 +708,7 @@ Recensement des Propriétaires des Propriétés	13689
 Recensements	10875,6603,691,784
 Recensements DI Division Informatique	18169
 Recenser	10876,3697,3299,1349,141
-Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270,207,41,64,30,15,146,52,48,107,175,18,312,1,120,303,207,116,193,42,28,8,350,8,39,71
+Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270,207,41,64,30,15,146,52,48,107,175,18,312,1,120,303,207,116,193,42,28,8,350,8,39,71,165
 Recent AI Factories and Gigafactories	6879
 Recent AU African Position	1814
 Recent Actions	18931
@@ -774,6 +784,8 @@ Receptionist	12379,2366,90
 Receptorium	14805
 Recepção	11372,66,3906,48,3359,30
 Recepção de Ordens de Pagamento	10755,631
+Recertification	19455
+Recertified	19455
 Recessed	14778
 Recessionary Economic Conditions Like	11198
 Recessions	11469
@@ -782,7 +794,7 @@ Recette Générale du District	17872
 Recette de Bouar	16328
 Recette de MONGOUMBA	16328
 Recette du Centre des Impôts	16020
-Recettes	1594,454,294,134,920,141,101,131,67,572,12,1,223,813,5255,274,2447,67,272,1677,221,68,198,63,48,280,1,16,1110,410,35,46,27,14,77,1146,41,41
+Recettes	1594,454,294,134,920,141,101,131,67,572,12,1,223,813,5255,274,2447,67,272,1677,221,68,198,63,48,280,1,16,1110,410,35,46,27,14,77,1146,41,41,145
 Recettes Courantes	4420
 Recettes Diverses	17972
 Recettes Exceptionnelles	15670
@@ -807,7 +819,7 @@ Receveurs des Finances	17485
 Receveurs des Impôts	17872
 Recevez	8755,1536,3277,2590,141,63
 Recevez-vous	7830,5560
-Recevoir	10876,1056,1428,15,15,1147,333,853,16,169,707,1207,1399
+Recevoir	10876,1056,1428,15,15,1147,333,853,16,169,707,1207,1399,153,92
 Recovery of Accounts Receivable	13420
 Recovery of Accounts Receivable Finding	13420
 Refugee Reception Office	11177
@@ -816,6 +828,7 @@ Refugee Reception Offices	11177
 Regime Transitório As Recebedorias	15380
 Regional Context Recent	12210
 Registration Confirmation Receipt	10765
+Repayment Records and Actual Bank Receipts	19585
 Report of EMIS Receiving Committee	14855
 Republic Day Reception	18810
 Republic. Recent	14752
@@ -908,6 +921,8 @@ Trade and Other Receivables Accounts	14736
 Transferring and Receiving Parties	12302
 Transfers Received	17870
 Transferência de Receitas	15380
+Trend of Adolescents Received Family Planning Methods	19544
+Trend of Received	19585
 Troisième Recensement	19043
 Troisième Recensement Général	13890,17,5271
 Troisième Recensement National	16620
@@ -933,6 +948,7 @@ VIRUNGA ENERGIES SAU. RECEPTION ET TRAITEMENT	15670
 VWAP and Recent Trading Prices	4896
 Videos Recentes	11587,5447,244,47,35,1,51
 WINDING-UP AND RECEIVERSHIP OF SYSTEM OPERATOR	14728,2
+Warehouse Receipt	19602
 Warehouse Receipt System	5883,1880,1827
 Warehouse Receipt System Year Beneficiaries No	7763
 Warehouse Receipts Regulatory Board	12114

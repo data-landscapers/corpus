@@ -125,16 +125,20 @@ Rehabilitati	15578
 Rehabilitating	17260
 Rehabilitating the Blantyre Airport	12985
 Rehabilitation	1284,1,582,121,1515,80,8003,643,4,188,541,15,8,69,6,414,2044,60,31,50,2,9,61,12,102,60,64,467,451,227,25,18,103,1110,173,20,48,673
+Rehabilitation Centers	19519
 Rehabilitation Centre	13046
+Rehabilitation Circle	19590
 Rehabilitation Classroom	15604
 Rehabilitation Services	13361,672
 Rehabilitation Youth Centre	14742
-Rehabilitation and Expansion Project	2305
+Rehabilitation and Expansion	19565
+Rehabilitation and Expansion Project	2305,17260
 Rehabilitation and Extension	16696
 Rehabilitation and Re-integration N	12984
 Rehabilitation and Social Reintegration Policy. Government	13123
 Rehabilitation for Victims of Violence and Torture	11079
 Rehabilitation of Djiri	15969
+Rehabilitation of Folk Development College	19565
 Rehabilitation of Internal Works	11134
 Rehabilitation of Kaphatenga-Dwangwa Road	13122
 Rehabilitation of M5 Road	13122
@@ -145,6 +149,7 @@ Rehabilitation of Nsipe-Liwonde-Zomba Road	13122
 Rehabilitation of Potable Water Supply Facilities	18543
 Rehabilitation of Power Plants	13060
 Rehabilitation of SETIC	1284
+Rehabilitation of Schools and Colleges	19565
 Rehabilitation of Substance Abusers	14847
 Rehabilitation of Urban Roads	3583
 Rehabilitation of WASH	1988

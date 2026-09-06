@@ -13,7 +13,7 @@ AVANDA Fund of Funds and South Africa	12376
 About the Global Fund The Global Fund	3385,9117
 About the OPEC Fund The OPEC Fund	18561
 Abu Dhabi Development Fund	18988
-Abu Dhabi Fund for Development	13868,962,1746,2412
+Abu Dhabi Fund for Development	13868,962,1746,2412,614
 Acceleration Fund CEO Sérgio Pimenta. Development	9802
 Access Fund	1214,14930
 Access Fund ZICTA Zambia Information and Communication	13346
@@ -24,7 +24,7 @@ Accumulated Fund	13420
 Acre Fund	133,4039
 Act. Fund	12145
 Action Fund	7763
-Adaptation Fund	11332,1266,4559,248
+Adaptation Fund	11332,1266,4559,248,2197
 Adaptation Fund Climate Innovation Accelerator	17955,18
 Adjustment Fund	7785,4024
 Administration of Universal Service Fund	15261
@@ -88,6 +88,7 @@ Aga Khan Fund	7145
 Aga Khan Fund for Economic Development	7145
 Agri-Innovation Fund	14818
 Agric Infrastructure Fund	5267
+Agriculture Development Fund	19602
 Agriculture Revolving Fund	12956
 Aguka Fund	14997
 Airtel Nzeru Fund Tech Scholarship	10227,5088
@@ -119,7 +120,7 @@ Arab Fund for Economic and Social Development	13868
 Arab Monetary Fund	982,933,257,12572
 Area IMF International Monetary Fund AI	11994
 Arts and Development Fund	14546
-Asia Infrastructure Fund	1145,7916,2
+Asia Infrastructure Fund	1145,7916,2,10547
 Asia Infrastructure Fund and Ninety One	14404
 Asia Infrastructure Fund. Operates DCs	7259
 Assetless Companies Fund	18556
@@ -141,6 +142,7 @@ BIIGLC TIDE Africa Fund	296
 BKC Aguka Fund. Asset	14997
 BNR MPFSS Compensation Fund	14997
 BOI-iDICE Debt Fund	8350
+BOT Fund	19534
 BOTSWANA TECH FUND LAUNCHES TARGETED	5879
 Bank Electronic Fund Transfer	14674
 Bank Fund	4896
@@ -200,11 +202,14 @@ CBE Retirement Fund Membership Statistics Membership	11131,3
 CFA du Pandemic Fund	8636
 CFE Contingency Fund for Emergencies CID11	15966
 CGIAR Trust Fund	12837
+CHF Improved Community Health Fund IFTIMIS	19585
+CHF Improved Community Health Fund ILFS	19531
 CHILD WELFARE FUND	13420
 CHILDREN ON THE STREETS FUND	13420
 CHILDREN'S FUND FOR A SUDAN PRIMARY	14936,1
 CIS Fund Administrator	14997
-CNSS National Social Security Fund	13861,5423
+CNRPS National Pension and Social Insurance Fund	19455
+CNSS National Social Security Fund	13861,5423,171
 COMMUNITY HEALTH PROMOTION FUND Data Controller	7167
 CONCESSIONAL FINANCE A European Fund for Sustainable	1818
 CONSOLIDATED FUND SERVICES	14546
@@ -226,7 +231,7 @@ Car Loan Scheme Fund Financial Statements	6946
 Cascador Catalytic Fund	9919
 Cascador’s Catalytic Fund	14705
 Cash Management Committee EFT Electronic Fund	18577
-Catalyst Fund	4972,2607,1569
+Catalyst Fund	4972,2607,1569,10386
 Catalytic Fund	3385,9117
 Cathay AfricInvest Innovation Fund	510,95,7,319,14
 Cathay Africinvest Innovation Fund	612
@@ -255,6 +260,7 @@ Children's Fund UNWOMEN United Nations Entity	13312,2
 Children's Investment Fund Foundation	14123
 Childrens’ Fund UTGFS Safety Net Management	17906
 Children’s Emergency Fund Unstructured Supplementary Service	15553
+Children’s Emergency Fund VPDs Vaccine Preventable	19544
 Children’s Fund UNU-WIDER United Nations University	10759,78,1503
 Children’s Fund UPE Universal Primary Education	18765
 Children’s Fund URP Regional Office	11525
@@ -265,7 +271,7 @@ Children’s Fund WFP World Food Programme	18911
 Children’s Investment Fund Foundation	1824
 China’s Global Development and South-South Cooperation Fund	10623
 Civil Service Housing Loan Fund	13420
-Clean Technology Fund	17524
+Clean Technology Fund	17524,1901,56
 Climate Change Fund	5247
 Climate Fund Energy	7548
 Climate Fund and Global Environment Facility	16975
@@ -278,12 +284,15 @@ Commodities Fund Data Controller INST-6094611D08F NAIROBI	7167
 Common Development Fund	13418,1517
 Communal Land Development Fund	13024
 Communal Land Development Fund. The Fund	13024
+Community Banks WCF Workers Compensation Fund	19531
 Community Development Fund	13123
 Community Development Fund. GoSL Document Adopting	18439
 Community Development Special Fund	12962
 Community Development Special Fund CLEAR AA	12962
+Community Health Fund	19531,54
 Community Poverty Reduction Fund	12970
 Community Recovery Fund	13420
+Community-Based Organizations CHF Community Health Fund	19531
 Comoros Pension Fund	13742
 Compensation Assistance Fund	11900
 Compensation Fund	14997,1905
@@ -293,7 +302,8 @@ Concessions and Fund Orders	13122
 Conduct Global Fund	16971
 Conflict-Affected Situations GCF Green Climate Fund	17962
 Consolidated Energy Fund	14422
-Consolidated Fund	3,2733,2898,1120,167,924,554,331,311,2090,3,1517,1,709,1061,102,189,22,74,21,13,2265,1358,34,76,367,153
+Consolidated Fund	3,2733,2898,1120,167,924,554,331,311,2090,3,1517,1,709,1061,102,189,22,74,21,13,2265,1358,34,76,367,153,422,67,17
+Consolidated Fund Due	19585
 Consolidated Fund IMF Securities Account	11131,3
 Consolidated Fund Services	14546
 Consolidated Fund Special Funds State-Owned Enterprises	14830
@@ -321,6 +331,7 @@ Convergence Partners Digital Infrastructure Fund LP	820,43,83
 Cooperation Fund	16144
 Copyright Fund	8958
 Correspondence Colleges Guarantee Fund	13287
+Cost Sharing Fund Management Directives	19585
 Countries Initiative IMF International Monetary Fund	15244
 County Development Fund	16850
 County Forestry Development Fund	16843
@@ -407,7 +418,9 @@ Digital Talent Retention Fund	5244
 Digital Trade Fund	19067
 Director External Fund and Credit Management Directorate	12195
 Director Universal Service Fund	6946
-Disability Fund	13470,3635
+Disabilities Fund	19585
+Disabilities Fund for Financial Year	19585
+Disability Fund	13470,3635,2480
 Disability Fund Part VII	13470
 Disability Public Fund	12661
 Disability Trust Fund	13122
@@ -481,6 +494,7 @@ Electronic Credit Fund Transfer	15453
 Electronic Fund Transfer	6453,5502,6621
 Electronic Fund Transfer Transactions	11955
 Electronic Fund Transfers	5247,7039,920
+Emergency Fund WCF Workers Compensation Fund	19541
 Emergency Response Fund CFR Case	18668
 Emergency Solar Access Fund	15194
 Emerging Africa Infrastructure Fund	829,398,207,4722,2907
@@ -526,14 +540,18 @@ European African Fund European African Fund	695
 European Competitiveness Fund	6468
 European Development Fund	26,1,1,11508,6386
 European Fund for Sustainable	15901
+European Fund for Sustainable Development	19396
 European Fund for Sustainable Development Plus	4475,175,13,436,13408,169
 European Fund for Sustainable Development Plus EIB	970
 European Investment Fund	6879,12106
+European Union Emergency Trust Fund EUTF	19519
+European Union Trust Fund	19519
 Evaluation MDTF Multi-Donor Trust Fund MFD-e	16384
 Evolution II Fund USD	513
 Expenditure Financing Fund	13093
 Experienced Fund Managers First-Time Fund Managers	4972
-Export Development Fund	8770
+Export Adjustment Scheme Fund	19534
+Export Development Fund	8770,10764
 Extended Credit Facility and Extended Fund Facility	17990
 Extended Fund Facility	10779,4694,2436,81,1108
 Extended Fund Facility Arrangement and Fourth Review	17990
@@ -576,6 +594,7 @@ Fiscal Transparency Innovation Fund Section	11005
 Fisheries Development Fund	18984,1
 Food and Nutrition. United Nations Children’s Fund	17127
 Forest Climate Facility Trust Fund Commercial	15983
+Forest Fund TAKUKURU Taasisi	19590
 Founders Fund	6231
 Free-standing Single Purpose Trust Fund	14015
 Frequency Accounts Broadcast Competition Fund Strategy	6946
@@ -593,6 +612,7 @@ Fund Adaptation and Development Resilience	970
 Fund Administrator	18445
 Fund Advisor	909
 Fund Agreement	7845
+Fund Allocated	19541
 Fund Annual	22,7526
 Fund Article	1214
 Fund Authority	15473
@@ -607,6 +627,7 @@ Fund Definitions	11198
 Fund Department Department Resource	6946
 Fund EBC Elections and Boundaries Commission ECC	12970
 Fund EEAS European External Action Service	970
+Fund Executed	19541
 Fund Export Credit Guarantee Scheme Enterprise	11131
 Fund FDI Financial Services Regulatory Authority	12444
 Fund Facility	11380
@@ -615,6 +636,7 @@ Fund Female Education Excellence	5163
 Fund Flows Diagram IDA Account	3604
 Fund Flows M Risk	3604
 Fund Funding Gaming GCC GITEX Google	5322
+Fund GN Government Notice HBS Household	19531
 Fund Gross Domestic Product Geographic Information	13290
 Fund HIV Human Immunodeficiency Virus HLO2	19284
 Fund Head	11321
@@ -627,13 +649,14 @@ Fund ISMS Information Security Management System	15023
 Fund IT Information Technology KfW German	18293
 Fund IV	10165
 Fund Integrated Food Security Phase Classification	11136
+Fund LGAs Local Government Authorities LGLB	19585
 Fund LIBERIA	17257
 Fund Legend	16902
 Fund Leverage Ratio	4528,7984
 Fund MDAs Ministries	13060
 Fund MTRI Information Technology MTRS Large	12500
 Fund Maladies Tropicales Négligées Maladies Tropicales	14622
-Fund Manager	22,3692,5936,7189
+Fund Manager	22,3692,5936,7189,2746
 Fund Manager Experience	4972
 Fund Manager Experience Africa-focused VC	4972
 Fund Manager. Fund	16839
@@ -641,6 +664,7 @@ Fund Managers	11131,3,1844,3861
 Fund Managers and NGOs	6947
 Fund Manger	14024
 Fund Mugabe Way Wireless Pvt Ltd	4896
+Fund NIDA National Identification Authority NISS	19531
 Fund Overview	12017
 Fund PART IV	13339
 Fund Performance	4528,7984
@@ -649,13 +673,16 @@ Fund Project	10477
 Fund Provision of ICT	11857
 Fund RDFC Regional Development Fund Committee	12970
 Fund RDT Regional Development Team RISDP	12962
-Fund Secretariat	12552,910,3377
+Fund Releases TZS	19585
+Fund S	19585
+Fund Secretariat	12552,910,3377,2732
 Fund Size	7763
 Fund Social Safety Nets United Nations	16902
 Fund Society	7548
 Fund The Fund	7538,5882,1920
 Fund The Global Fund	11560
 Fund Transfer	14674
+Fund Transfer Process	19584
 Fund UEMOA West African Economic and Monetary	11552
 Fund UHC Universal	18668
 Fund UNICEF United Nation Children’s Fund	16927
@@ -669,6 +696,7 @@ Fund WACS West Africa Cable System	17862
 Fund WHO World Health Organization Table	18951
 Fund Water	16436
 Fund Worth	12376
+Fund and Agency	19545
 Fund and Tanzania Rural Roads Agency	6921
 Fund and Uses	18601,1
 Fund for Access and Universal Electronic Communications	4798
@@ -717,14 +745,17 @@ Future Generations Fund	14381
 GCF Green Climate Fund GIS Geographic	17260
 GCF Green Climate Fund ID Identity	11586
 GDP. The Mohammed VI Investment Fund	17503
+GEPF Retirement Benefits Fund	19531
 GEWEL World Bank Executed Trust Fund	13332
 GFATM Global Fund	16896
 GFF Trust Fund	10829
 GIFEC Ghana Investment Fund for Electronic Communications	582,3544
+GIIG Africa Fund	19534
 GLOBAL FUND	14546
 GREEN CLIMATE FUND GRANT	17962
 GSMA AgriTech Innovation Fund	10856
 GSMA Digital Inclusion Fund	6748
+GSMA Innovation Fund	19534
 Gender Development Fund	12946
 General Fund	14735,1,7,25,56
 General Fund Revaluation Reserve Total MUR	14736
@@ -746,7 +777,7 @@ Girls’ Scholarship Trust Fund	16951
 Global Biodiversity Fund	17101
 Global Disability Fund Programme	13219
 Global Environment Fund Trustee	15500
-Global Fund	392,170,375,97,1644,707,817,580,359,24,988,381,2695,200,1400,99,324,334,3,169,139,107,375,123,454,166,332,613,75,165,36,203,227,150,177,625,108,178,885,26,5,44,77,57,17,167,80,1310,58,325
+Global Fund	392,170,375,97,1644,707,817,580,359,24,988,381,2695,200,1400,99,324,334,3,169,139,107,375,123,454,166,332,613,75,165,36,203,227,150,177,625,108,178,885,26,5,44,77,57,17,167,80,1310,58,325,540
 Global Fund Board Meeting	14869
 Global Fund Data Science Catalytic Fund	392
 Global Fund Digital Health Impact Accelerator	937
@@ -781,7 +812,7 @@ Governance The Universal Service Fund	5168
 Government Affirmative Action Fund	2775
 Government Affirmative Action Fund NFM	2775
 Government Agency Malawi Pension Fund Pension	13053
-Government Consolidated Fund	11131
+Government Consolidated Fund	11131,8471
 Government Employee Mutual Savings Fund	13420
 Government Institutions Pension Fund	12466
 Government Local Fund	16852,44,421
@@ -812,11 +843,13 @@ Guarantee and Subsidy Fund	15473
 Guarantee and Subsidy Fund IDA Industrial Development	15473
 Guardian’s Fund	3714,9706
 Guinea-Bissau. The Least Developed Countries Fund	17369
+HESLB Health Basket Fund ICDs Human	19585
 HH Innovation Fund	13347
 HNSF. For the NHI Fund	1009
 HRD Fund	16861
 HalinaYermolenko The International Monetary Fund	13532
 Head of Marriage Support Fund	16902
+Health Basket Fund	19585
 Health Care Support Fund	3583
 Health Catalytic Fund	11589,5533
 Health Development Fund	970
@@ -841,7 +874,7 @@ Human Resources and Universal Access Fund	12646
 Human-Wildlife Conflict Relief Fund	13474
 Humanitarian Fund	15474
 Humanitarian and Emergency Fund	3583
-Hustle Fund	2212,1883
+Hustle Fund	2212,1883,15439
 Hustler Fund	1746,1029,1208,2131,479,1117,2620
 Hustler Fund CEO Henry Tanui	10330
 Hustler Fund Chief Executive Officer Henry	7710
@@ -900,6 +933,7 @@ Impact Innovation Fund	14381
 Impact Innovation Fund. JPY-	4500
 Implement the Off-Grid Solar Fund	12563
 Implication The Fund	13420
+Improved Community Health Fund	19585
 Improvement Project Economic Development Cooperation Fund	850
 Inclusion The Universal Access and Service Fund	12552
 Income Identification Document International Monetary Fund	12701
@@ -929,7 +963,7 @@ Infrastructure Fund. IFISA	11248
 Inhlanyelo Fund	12956
 Initiative Framework WEF Women Empowerment Fund	11193
 Injaro Ghana Venture Capital Fund	1047
-Innovation Fund	7548,1216,3911,2805,3052
+Innovation Fund	7548,1216,3911,2805,3052,1002
 Innovation Fund Manager	4528,7984
 Innovation Fund NRF National Research Fund	7548
 Innovation Support Fund	11723
@@ -940,6 +974,7 @@ Institution IMF International Monetary Fund KPIs	17260
 Instteimrnaatteiosnal Monetary Fund	12205
 Insurance Compensation Fund	14997
 Insurance Fund	12151
+Insurance Fund NIDA National Identification Authority	19585
 Insurance Fund UNISA The University of South	11250
 Insurance SHIF Social Health Insurance Fund	2775
 Insurance and Social Security Fund	15518
@@ -951,11 +986,12 @@ International Cooperation and Development Fund	15002
 International Financial Institutions Green Climate Fund	11332
 International Fund For Agricultural Development	13122
 International Fund for Agricultural Development	7030,203,951,1342,1315,191,1095,795,34,912,806,984,1495,4,209,1159,42
+International Fund for Agriculture	19602
 International Fund for Agriculture Development Tree Crops	17274
 International Fund for Public	13461
 International Fund for Public Interest Media	13461
 International Fund of Agricultural Development	17870
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26,247,147
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26,247,147,357
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund BURUNDI SELECTED ISSUES	13624
 International Monetary Fund Code	11895
@@ -967,6 +1003,7 @@ International Monetary Fund Executive Board	3583
 International Monetary Fund IMF Country Report	13741,127,909,252,723,1457,48,69,177,406
 International Monetary Fund IMF Sixth and Final	13532
 International Monetary Fund IMR	16951
+International Monetary Fund IOT Input Output	19519
 International Monetary Fund IP Internet Protocol	12663
 International Monetary Fund IPC	14857
 International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451
@@ -1001,6 +1038,7 @@ Internationale Zusammenarbeit GLF Government Local Fund	17105
 Introduction The Universal Access and Service Fund	718
 Inuka Fund	7763
 Investment Fuzé DA Seed Fund Investment	6155
+Irregular Use of Commercial Bank Accounts for Fund	19585
 JICA and United Nations Children’s Fund	18559
 JIDIIYA FUND	17932,11
 Janngo Capital Startup Fund	1061
@@ -1013,8 +1051,11 @@ Joining the United Nations Health4Life Fund	14773
 Joint Fund	17101
 Joint Fund The Government of Equatorial Guinea	17101
 Joint Investment Fund	11185
-Joint SDG Fund	11982,2763,1232
+Joint SDG Fund	11982,2763,1232,3594
+Joint SDG Fund Account	19571
 Joint SDG Fund Project	14745
+Joint SDG Fund Secretariat	19571
+Joint SDG Fund. PUNOs	19571
 Journalism Fund SA	13461
 Jul-2028 Responsible Agency Road Fund	1228
 Jun-2026 African Development Fund	18862
@@ -1038,6 +1079,7 @@ Kuwait Fund for Arab Economic Development	13868
 Kuwaiti Fund	17105
 Kuwaiti Fund For Increased Funding	17320
 L. CSR Fund	14717
+LAPF Pensions Fund	19531
 LG Capacity Development Fund	14935
 LMFCF. Fund	947
 LP. Ventures Platform Fund	912
@@ -1045,6 +1087,7 @@ LPs. In Fund II	7482
 Labor Organization IMF International Monetary Fund	16996
 Labour Organisation IMF International Monetary Fund	2775
 Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1,135
+Labour Organization LAPF LAPF Pensions Fund	19531
 Lacuna Fund	12210
 Lagos State Employment Trust Fund	9549
 Land Acquisition and Development Fund	13179
@@ -1076,6 +1119,7 @@ Lightrock Africa Fund II	4450
 Lisk’s EMpower Fund	11117
 Livable Planet Fund	2391,15133
 Loan Guarantee Fund	12297
+Local Authorities Provident Fund	19585
 Local Authority Superannuation Fund	12964
 Local Government Equalisation Fund	13387
 Local Innovation Fund	4126
@@ -1092,6 +1136,7 @@ M Pan-African Fund	912
 M. Fund	946,114
 MACRA Universal Service Fund	14674
 MACRA's Universal Service Fund	7201
+MAGIC Fund	19534
 MCF Africa Growth Fund of Funds	909
 MENA Transition Fund	165
 MIGA’s SURE Trust Fund	11310
@@ -1103,6 +1148,7 @@ MUGOVE FUND Co-investment	4528
 MUGOVE National AI NZWISIO AI FUND	12512
 MUNAFA Fund	18455
 MVA Fund	13097
+Machinga Empowerment Fund	19602
 Maintenance Levy Fund RRI Rapid Results	2775
 Malagasy Skills Fund	14576
 Malawi Social Protection Multi-Donor Trust Fund	12181,930
@@ -1125,6 +1171,7 @@ Middle East. The International Monetary Fund	17316
 Middle Income Country Technical Assistance Fund	19027
 Mineral Development Fund	7695
 Mineral Income Investment Fund	10069
+Mineral Research Fund	19602
 Minerals Development Fund	16511
 Minerals Development Fund Ladies and Gentlemen	16511
 Mineworkers Provident Fund	12597
@@ -1158,7 +1205,7 @@ Multi-Donor Trust Fund	10714,811,1255,552,127,2161,778,703,748,452
 Multi-Donor Trust Fund. The Malawi Food	13083
 Multi-Partner Governance Trust Fund for Libya	16902
 Multi-Partner Trust Fund	14622
-Multi-Partner Trust Fund Office	11356
+Multi-Partner Trust Fund Office	11356,8215
 Multi-donor Trust Fund	16384
 Multi-donor Trust Fund MICS Multiple Indicator	16922
 Multi-donor Trust Fund. The ASA	18293
@@ -1210,12 +1257,18 @@ National Entrepreneurship Development Fund	7763
 National Environment and Climate Change Fund	14738,4
 National Fund	7548,7053,1435,891
 National Fund for Persons	12916,3971
+National Fund for Retirement and Social Security	19392
+National Fund for Science and Technology NFAST	19565
 National Fund for Sustainable Development	12137
 National Fund for Tourism	18823
 National Fund of Funds	3953
 National Government Affirmative Action Fund Support	2775
 National Government Constituencies Development Fund	6627,1942
-National Health Insurance Fund	396,2379,5442,166,2750,1094,4669,974,64
+National Health Insurance Fund	396,2379,5442,166,2750,1094,4669,974,64,1597,10,44
+National Health Insurance Fund Act	19585
+National Health Insurance Fund Act Cap	19531
+National Health Insurance Fund Using ERMS	19584
+National Health Insurance Fund. Minister of Communication	19392
 National Health Insurance and Social Guarantee Fund	9837
 National Health Insurance and Social Welfare Fund	15411
 National Health Solidarity Fund	17934
@@ -1251,9 +1304,12 @@ National Road Fund Act	13403
 National Roads Fund	17139
 National Skills Fund	6832,4471
 National Social Insurance Fund	15883
-National Social Security Fund	3661,1334,9,3719,1590,509,1,1164,4195,2749,353
+National Social Security Fund	3661,1334,9,3719,1590,509,1,1164,4195,2749,353,108,139,59
 National Social Security Fund Act	10822
+National Social Security Fund Act Cap	19531
 National Social Security Fund Annual Membership	2775
+National Social Security Fund Prime Minister	19541
+National Social Security Fund SAGE	19584
 National Social Security and Insurance Trust Fund	18463
 National Solidarity Fund	6458,4527,3282,2228,1806
 National Solidarity and Social Welfare Fund	13726
@@ -1266,12 +1322,15 @@ National Sustainable Development Fund	2473
 National Toll Fund Regulation	14546
 National Training Fund	13217
 National Transformation Fund	18823
+National Water Fund	19602
+National Water Fund Level	19584
 National Youth Fund	13217
 Nations Children's Fund An Operational Guide	13681
 Nations Children's Fund WHR IDA Window	11924
 Nations Children's Fund ZIMASSET Zimbabwe Agenda	13359
 Nations Children’s Fund The National Registration	13005
 Nations Children’s Fund UNODC United Nation	11586
+Nations Children’s Fund USAID United States	19455
 Nations Children’s Fund USD United States	18931
 Nations Children’s Fund USSD Unstructured Supplementary	11133
 Nations Children’s Fund VAT Value-added Tax	15661
@@ -1318,7 +1377,7 @@ OGP Multi-Donor Trust Fund	11007
 OPEC Fund	12724,5329,508
 OPEC Fund Development Forum	3084
 OPEC Fund President Abdulhamid Alkhalifa	18561
-OPEC Fund for International Development	12127,795,34,4149,1456
+OPEC Fund for International Development	12127,795,34,4149,1456,1041
 OPEC Fund for International Development Search	18561
 OPEC Fund for International Development and Spain	13868
 OPERATIONAL FUND	16978
@@ -1330,6 +1389,7 @@ Obligation of Guarantee Fund Beneficiaries	14024
 OeEB. Fund	1162
 Office Bearers Pension Fund Act	13096
 Office GCF Green Climate Fund KPI	14745
+Officer TASAF Tanzania Social Action Fund	19531
 Older Persons Fund	13420
 Omidyar Network Fund	7112
 Operational Fund	16978
@@ -1346,17 +1406,21 @@ PART THREE FUND ESTABLISHEMENT	7538
 PART VII Assistance Fund for Persons	13470
 PARTECH AFRICA VENTURE CAPITAL FUND	188
 PARTECH AFRICA VENTURE CAPITAL FUND II	855
+PPF PPF Pensions Fund PSPF Public	19531
+PPF Pensions Fund	19531
 PROTECTION MULTI-DONOR TRUST FUND TO BURKINA	16384
 PROTECTION SYSTEM MULTI DONOR TRUST FUND	12780,1
+PSSSF- Pension Fund	19585
 PURA. The Fund Board	16886
 Pacific States. The Janngo Start-Up Fund	9462
 Page and Development Fund	13024
 Pan-African Fund	912
 Pan-African Tech VC Fund	818
-Pandemic Fund	8636,30,5956,341,195
+Pandemic Fund	8636,30,5956,341,195,4249
 Pandemic Fund Governing Board	15158
 Pandemic Fund National Steering Committee	12623
 Pandemic Fund Project	10477
+Pandemic Fund. Component	19407
 Partech Africa Fund	188
 Partech Africa Fund I	855
 Partech Africa Fund II	818,47,30,160
@@ -1380,15 +1444,18 @@ Petroleum Fund	12674
 Phalala Fund	12976,147
 Pig Levy Fund	13420
 Planned Action Fund	16884
+Plot Development Revolving Fund	19592
 Police Trust Fund	18228
 Policyholders Protection Fund	12598
 Political Parties Financial Support Fund	19101
 Pool Fund	16971
+Pool Fund Facility	19519
 Population Fund UNHCR United Nations High	14896,708,121
 Population Fund UNSCR United Nations Security	18624
 Portable Retirement Gratuity Fund	14748,80
 Portable Retirement Gratuity Fund. Pourtant	14841
 Post-Settlement Support Fund	12373
+Poverty Monitoring Pool Fund. Statistical	19519
 Preparedness and Response Multi-Donor Trust Fund HSTRF	19284
 Price Stabilisation Fund of Rs	14829
 Price Stabilization Fund	13122,3780
@@ -1406,12 +1473,16 @@ Program UNFPA United Nations Population Fund	12241,839,15
 Program UNICEF United Nations Children’s Fund	16942
 Programme UNICEF UN Children's Emergency Fund	15415
 Programme United Nations Population Fund United	16973
-Project Development Fund	14830
+Project Development Fund	14830,4567
 Project Economic Development Cooperation Fund	1082
 Project Resources Basket Fund UNDP Focal	12241
 Public Officers’ Defined Contribution Pension Fund	12701
 Public Service Pension Fund	4896,8068,6
-Public Service Pensions Fund	12972
+Public Service Pensions Fund	12972,6559
+Public Service Social Security Fund	19531,10,44
+Public Service Social Security Fund Act	19531,54
+Public Service Social Security Fund Document	19533
+Public Service Social Security Fund TCB	19541
 Public Service Training Centres Amenities Fund	13420
 Public and Private Sector Insurance Fund	15519
 Publish What You Fund	6982
@@ -1431,6 +1502,7 @@ RURA and Universal Access Fund	718
 RURAL ELECTRIFICATION FUND	13339
 Railway Development Fund	10313
 Railway Development Fund. Hon. Temporary Speaker	10313
+Railway Fund	19602
 Rapid Social Response Trust Fund	11924
 Real Estate Technology and Sustainability Fund	4972
 Real Estate and Housing Fund	15924
@@ -1473,16 +1545,21 @@ Rhodes Nyanga Estate Fund	3025
 Rise Fund II Aurora S.à	914,1,1,1,1,1,1,1,1,1,1303
 Road Accident Fund	5969,3707,426,707,203,251,2,1603,606
 Road Accident Fund The RAF	10102,707
-Road Fund	1228,7068,8843,121
+Road Fund	1228,7068,8843,121,2325,17
 Road Fund Administration	13122
 Road Fund Administration Fellow Collection of Toll	13053
 Road Fund Board	6921
+Road Fund Fund	19585
 Road Fund License Application	18935
 Road Fund Type Implementing Agency Implementing	1228
+Road Fund Unit	19585
 Road Fund Year	17260
 Road Maintenance Trust Fund	7695
 Roads Authority Fund	13123
+Roads Fund	19585
 Roads Fund Administration	12241,819,62
+Roads Fund Board	19585
+Roads Fund Board Level	19584
 Roads Fund and ANE	1228
 Rural Development Fund	12956,167
 Rural Electrification Access Fund	12394,562
@@ -1490,8 +1567,10 @@ Rural Electrification Fund	3025,10314,112,163
 Rural Electrification Fund URL	13451
 Rural Electrification Fund. Complementing	14080
 Rural Electrification Programme Fund	14422
+Rural Energy Fund	19602
 Rural Microcredit Fund	13312,2
 Rural Telecommunications Fund	13951
+Rushwa TASAF Tanzania Social Action Fund	19590
 Rwanda Green Fund	14997
 Rwanda Innovation Fund	7497,4366
 Rwanda's Universal Access and Service Fund	563
@@ -1505,6 +1584,7 @@ SANEF Concept Note Journalism Fund SA	13461
 SARB Retirement Fund	14224
 SASPP Multi Donor Trust Fund	18301
 SASPP Multi-Donor Trust Fund	17849,452
+SDG Fund	19571
 SDG Joint Fund	17101
 SDG Trust Fund	15500
 SDG's Fund	17964
@@ -1527,11 +1607,13 @@ Salto Fund	11863
 Salto Fund II OUTPUT INDICATOR	11863
 Salto Fund OUTPUT INDICATOR	11863
 Salto Fund. G. Risk Management	11863
+Samia Commercialization Fund	19565
+Sanofi Global Health Unit Impact Fund	19534
 Sanofi Global Health Unit’s Impact Fund	4324
 Saudi Arabia’s Public Investment Fund	16996
 Saudi Fund	13093
 Saudi Fund and Kuwait Fund	13122
-Saudi Fund for Development	12922,34,1874,4117
+Saudi Fund for Development	12922,34,1874,4117,655
 Savannah Fund	681
 Savannah Fund II	681
 Savannah Fund II LP	681
@@ -1542,6 +1624,8 @@ School Services Fund	13287,133
 Secretary of Kuria West Constituency Development Fund	6946
 Sector Deepening GCF Green Climate Fund	7548
 Security Fund	7763
+Security Fund R.E Revised Edition RITA	19531
+Security Fund ZBC MZaendziibaar Broadcasting Cooperation	19519
 Security Peace Fund	6422
 Seed Investment Fund	1204
 Seed-to-Growth Tech Fund SSA Proparco	4516
@@ -1549,6 +1633,7 @@ SeedFund The Digital Africa Seed Fund	3036
 Selected Issues Papers. International Monetary Fund	1828
 Service Fund	958,12337,1602,1975,103
 Service Fund UN United Nations UNDP	6539
+Service Pension Fund PSSN Productive Social	19531
 Services MDTF Multi-Donor Trust Fund MIS	13332
 Services Multi-Donor Trust Fund	10714
 Services Strengthening Project GFATM Global Fund	16922
@@ -1568,6 +1653,7 @@ Skills Fund	16187
 Skills Fund. Under	16187
 Small Business Impact Fund	16315
 Small Business Recovery Fund	3705
+Small Enterprises Loan Fund JEEVA	19584
 Small Farmers Welfare Fund	14818
 Small Farmers Welfare Fund Act	7845,6983,3
 Smallholder Farmers Fertiliser Revolving Fund	4172
@@ -1587,7 +1673,10 @@ Social Protection Fund	14493,2612,123
 Social Protection Fund The Cabinet Secretary	14493
 Social Risk Classification Road Fund	1228
 Social Security Fund	16902,334
+Social Security Fund NSSP National Social	19531
 Social Security Fund NTSA National Transport	2775
+Social Security Fund RFB Roads Fund	19585
+Social Security Fund TZS	19585
 Social Solidarity Fund	16902
 Social Solidarity Fund Basic Pension Benefit	16902
 Social Support Fund	973,9795
@@ -1605,11 +1694,13 @@ Sources of Fund Specific Source FY2024 Cost	16943
 Sourcing of Fund	11129
 South African Small and Medium Enterprise Fund	13271
 South Korea's Economic Development Cooperation Fund	9647
+South Korea’s Economic Development Cooperation Fund	19622
 South-South Cooperation Assistance Fund	13309
 South-South Fund	17234
 Southern Africa. The Botswana Tech Fund	5989
 Sovereign Fund Backs ZiG All Hands	5562
 Sovereign Fund Backs ZiG LinkedIn Targets	3016
+Sovereign Fund of Egypt	19394
 Sovereign Wealth Fund	4535,7671,781,881,3128
 Sovereign Wealth Fund Act	13685
 Sovereign Wealth Fund Paradox	4535
@@ -1669,7 +1760,9 @@ Sustainable Development Goals Perfonnance Fund	4349
 Sustainable Livelihood Fund	13420
 Sustainable Livelihoods Fund	13420
 Swiss Investment Fund for Emerging Markets	945,1,1,611,1
+System D-FUNDS MIS Donor Fund Management	19533
 System IMF International Monetary Fund ITAS	18577
+System NSSF National Social Security Fund	19590
 Systems Multi-Donor Trust Fund FGPCD Djibouti	13836
 TF Trust Fund UN United Nations	16384
 TIDE Africa Fund	212,242
@@ -1687,7 +1780,10 @@ TOWF. The Fund	10296
 TRUST FUND GRANT	17849,916
 TRUST FUND TO THE REPUBLIC	13332
 Taiwan International Cooperation and Development Fund	12972
-Tanzania Social Action Fund	136,10997,9
+Tanzania NMB National Health Insurance Fund	19541
+Tanzania Roads Fund and World Bank’s Tanzania	19595
+Tanzania Social Action Fund	136,10997,9,8389,55,2,14
+Tanzania Social Action Fund Level	19584
 Tanzania Social Action Fund TZS Tanzania	11133
 Tanzania Universal Communications Service and Access Fund	14674
 Taxi Operators Welfare Fund	10296
@@ -1768,6 +1864,7 @@ UN Trust Fund for Human Security	17964
 UN-India Development Partnership Fund	12736
 UNCDF United Nations Capital Development Fund	11960
 UNDER THE EXTENDED FUND FACILITY	15473
+UNDP Multi-Partner Trust Fund Office	19571
 UNDP Peacebuilding Fund	12732
 UNDP-GEF Least Developed Countries Fund	11553
 UNFPA United Nations Population Fund UNICEF	12962,13
@@ -1813,7 +1910,8 @@ United Nations Capital Development Fund	273,92,12,287,215,235,371,1176,1579,5541
 United Nations Capital Development Fund United	12376
 United Nations Central Emergency Resoponse Fund	13003
 United Nations Children Fund	15604
-United Nations Children's Fund	2239,937,407,1517,4361,400,11,1068,23,609,333,10,9,127,10,77,30,72,97,390,727,121,106,386,75,835,197,168,389,729,1841
+United Nations Children's Fund	2239,937,407,1517,4361,400,11,1068,23,609,333,10,9,127,10,77,30,72,97,390,727,121,106,386,75,835,197,168,389,729,1841,1241
+United Nations Children's Fund UNISFA United	19590
 United Nations Children's Fund UNSDCF United	12962
 United Nations Children's Fund UPi	16951
 United Nations Children's Fund USD	18770
@@ -1821,7 +1919,7 @@ United Nations Children's Fund VDC Village	16952
 United Nations Children's Fund WASH	12175
 United Nations Children's Fund WCARO	10940
 United Nations Childrenʼs Fund	16876
-United Nations Children’s Fund	969,292,4541,4232,231,358,91,54,61,135,169,392,888,510,345,64,1290,434,191,271,83,57,1284,10,6,1578,229,480
+United Nations Children’s Fund	969,292,4541,4232,231,358,91,54,61,135,169,392,888,510,345,64,1290,434,191,271,83,57,1284,10,6,1578,229,480,210
 United Nations Children’s Fund Digital Education	13991
 United Nations Children’s Fund OMT	17101
 United Nations Children’s Fund USR Unified	10964
@@ -1834,7 +1932,7 @@ United Nations International Children's Emergency Fund	12947,28,1467,3382,280,67
 United Nations International Children’s Emergency Fund	1824,8952,4777
 United Nations International Children’s Fund	1261
 United Nations Peacebuilding Fund	18730,138,5
-United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262,167,169,190,7,16,78,7,438,582,75,754,143,17,669,1138,58,30,7,47,2,61,48,478,203,646,77,6,94,331
+United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262,167,169,190,7,16,78,7,438,582,75,754,143,17,669,1138,58,30,7,47,2,61,48,478,203,646,77,6,94,331,591
 United Nations Population Fund Country	15039
 United Nations Population Fund UNICEF	16951
 United Nations Population Fund UNICEF United	11586
@@ -1866,6 +1964,11 @@ Universal Access and Service Fund and SmartBots Programme	9562
 Universal Access and Service Fund. Botswana	9562
 Universal Access and Universal Access Fund Measurable	16872
 Universal Communications Service Access Fund	5788,4221
+Universal Communications Service Access Fund Level	19584
+Universal Communications Service Access Fund Project	19532
+Universal Communications Service Access Fund Selected	19532
+Universal Communications Service Access Fund Tanzania	19532
+Universal Health Fund	19602
 Universal Health Insurance Fund	6921,5066
 Universal Medical Insurance Fund	1828
 Universal Service Access Fund	3264,7966,2967
@@ -1930,6 +2033,7 @@ Vision Fund	9284
 Voucher Programs Fund	17157
 Vulnerable Groups Fund	11998
 WAEMU Activates Financial Stability Fund	5407,676
+WB Fund	19613
 Warehouse Fund	4896
 Wealth Fund Development Finance Institutions Corporate	4972
 West Africa Project IFAD International Fund	17043
@@ -1940,8 +2044,12 @@ Women Enterprise Development Fund Bill	3583
 Women Enterprise Fund	2775,808,8411,4957,277
 Women Enterprise Fund Manager	17069
 Women’s Development Fund	13420
+Workers Compensation Fund	19519,12
 Workers Compensation Fund Control Board	1988
-Workers' Compensation Fund	13060
+Workers Compensation Fund Level	19584
+Workers Compensation Fund UDART	19584
+Workers Compensation Fund WCF Weights and Measures	19584
+Workers' Compensation Fund	13060,6471
 Workers' Compensation Fund Control Board	13465
 Worker’s Compensation Fund	12964
 World Bank Fund	5216
@@ -1956,8 +2064,9 @@ World Wildlife Fund	10718
 Written By Codevelop Fund Fostering	12366
 YEI Trust Fund	16627
 YEI Trust Fund Mots-clés	16627
+YOUTH AND PERSONS WITH DISABILITY FUND	19585
 Young Innovators Financing Fund	2131
-Youth Development Fund	12613
+Youth Development Fund	12613,6921
 Youth Development and Employment Creation Fund	13420
 Youth Economic Initiative Support Fund	19234
 Youth Employment Fund	16580

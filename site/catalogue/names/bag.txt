@@ -30,8 +30,14 @@ BAgoyi	5349
 BOMDA BAGNA Badjibassa SCH	19251
 Bag Person Shopping Adult Clothing Pants	6517
 Bagadadji	18390
-Bagamoyo	8888
+Bagamoyo	8888,10644,33
+Bagamoyo DC	19585
+Bagamoyo DC DC	19585
+Bagamoyo DC Inadequate Utilisation and Management	19585
+Bagamoyo DC Mwambao Special Unit	19585
+Bagamoyo DC Unqualified Compliant	19585
 Bagamoyo Super Highway	14600
+Bagamoyo and Kwala Industrial Park	19532
 Bagaré	10875
 Bagaré Passoré Nord	15715
 Bagasse	14745
@@ -109,6 +115,7 @@ Horn of Africa. Paulius Bagdonas	13880
 Innocent Bagamba Muhizi	3243,5572
 Innocent Bagamba Mulhizi	8449
 KOUMANTIGA Bagoulouna ADJ	19251
+Korogwe TC Bagamoyo	19585
 Lassine BAGAYOKO	18003
 Laure Valérie BAGWENDY	16381
 Le Colonel Issa BAGAYOKO	17982
@@ -133,10 +140,12 @@ Monsieur Bagora BADO	16287
 Moses Bagyendera	1824
 Mouhoun Balé Bagassi	10875
 Moussa Baghdadi	15467
-Mr. Kenneth Bagarukayo	6786
+Mr. Kenneth Bagarukayo	6786,12808
+Mr. Sosthenes Bagumhe	19521
 Mzuzu Private Bag	12178
 M’Bang Adomngar Degallois Kassoum BAGAYOGO Ousmane	17812
 NATIONAL REGISTRATION MR M. BAGAISAMANG	12607
+Na Benchine Bago Serikali	19605
 National Assembly Private Bag	13097
 Nigerians. Sen. Bagudu	18225
 Officine BAGA	17819
@@ -180,3 +189,4 @@ Taïrou Bagbiegue	19268
 Team Building and Sand Bagging	14738
 University of Eswatini Private Bag	12361
 Youssouf BAGAYOKO Trésorier	17829
+Zanzibar and Bagamoyo	19520

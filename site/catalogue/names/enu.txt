@@ -6,7 +6,9 @@ A08. ENUMERATOR	17127
 A09. ENUMERATOR	17127
 Aba Abuja Benin Eko Enugu Ibadan	18186
 Abuja Benin Eko Enugu Ibadan Ikeja	12062,6124,31
+Africa EA Enumeration Area EAC East	19542
 Annual SG2 SO2 Enumerator	17116
+Business Register and Inventory of Enumeration Areas	19519
 C05 C05. ENUMERATOR	17127
 C06. ENUMERATOR	17127
 C07. ENUMERATOR	17127
@@ -21,8 +23,10 @@ Commission EAs Enumeration Areas EBK Engineers	2775
 DES CON ENUS PUBLICS CHAPITRE	15584
 DIGITAL MAIN ENUMERATION	18464
 DIGITAL MAIN ENUMERATION Population Size	18464
+DQAF East Africa Community EAC Enumeration	19519
 Data Collected Enumerators	12498
 Data Management Enumerators	18460
+Development Goals TOE Training of Enumerators TOT	19554
 EA Enumeration Area Figure	582
 ENUMERATION AREA	18464
 ENUMERATION AREA NUMBER	582
@@ -61,13 +65,13 @@ Enumeration Area	11136,1267,4518,122,1421
 Enumeration Area ECCAS	15574
 Enumeration Area Geographical	582
 Enumeration Area GoL Government of Liberia GPS	16921
-Enumeration Areas	6106,8754,714,1347,206,158,1179,61,42
+Enumeration Areas	6106,8754,714,1347,206,158,1179,61,42,952,94
 Enumeration Areas EMIS	14857
 Enumeration Areas. EAC	12403
 Enumeration Questionnaire	16921
 Enumeration Questionnaire. The Listing Questionnaire	16921
 Enumerator	582,12750,3817
-Enumerators	6947,8627,1347,206,38,1361,44
+Enumerators	6947,8627,1347,206,38,1361,44,972
 Enumeração	11901,869
 Enumeração Para	15912
 Enumeração São	15391
@@ -82,6 +86,7 @@ Gambia EA Enumeration Area FCS Food	17285
 HOUSING AND POPULATION CENSUS ENUMERATION SUCCESSFULLY	12749
 ID CODE ENUMERATOR	17127
 Interview. Enumerators	17165,1405
+Inventory of Enumeration Areas	19519
 Kwara and Enugu	11469
 National Enumeration Area Map	18464
 National Enumeration Area Map BUILDING FRAME	18464
@@ -91,4 +96,6 @@ Region Enumerated Empty	15574
 Selection of Enumeration Areas	17285
 Supervisors and Enumerators	18464
 Séverin ENUM Le Minislre de I'Economie	15438
+Training of Enumerators	19613
+Update the Enumeration Areas	19519
 ZISPIS Enumerator	13332

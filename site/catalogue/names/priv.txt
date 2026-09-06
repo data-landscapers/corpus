@@ -162,6 +162,7 @@ Citizen Privacy	16975
 Civil Society and Private Sector	18370
 Clinicas Privadas	18757
 Cliniques Privées	17882,875
+Close Privacy Overview	19595
 Clínicas Privadas	16962
 Clínicas Privadas Edición	16962
 Clínicas Privadas En	16962
@@ -278,7 +279,7 @@ Data Privacy and Protection Act	10202
 Data Privacy and Protection All	11995
 Data Privacy and Protection ODPC	2668
 Data Privacy and Rights	720
-Data Privacy and Security	12356
+Data Privacy and Security	12356,7215
 Data Privacy and Security Baselines Minimum	3861
 Data Privacy and Security Establish Open Data	15713
 Data Privacy and Targeted Advertising	9855
@@ -414,6 +415,7 @@ Ensure Data Privacy and Security Infrastructure Initiative	15713
 Ensure Data Security and Privacy	11952
 Enterprise Privileged User	10617
 Enterprise Privileged Users	10616,1
+Entreprise Privée	19413
 Equity of Basic Education Project PCE Private	19245
 Eritel Private Cloud	14327
 Eritel Private Cloud Services	14327
@@ -429,6 +431,7 @@ Ethical and Privacy Concerns	12356
 Ethics and Data Privacy	12675
 Example of Private Mail Bag	11129
 Example of Public and Private Sectors Data Use	14790
+Excessive Privileges Assigned	19584
 Excluding Agriculture and Private	11296
 Expand Private Sector Cooperation Across Key	18759
 Expand Private-Sector Role	11613
@@ -476,6 +479,7 @@ Fourth Schedule. Conditions for Private Radio Transceiver	736
 Froelich Dante Prividal	15615
 Future of Data Privacy	12189
 Future of Privacy Forum	5463
+G Portable Private Network MEC	19394
 G SHAPOORJI PALLONJI AND COMPANY PRIVATE	16623
 G and Fiber Ensure Data Privacy and Security	15713
 G06 Privacy	9237
@@ -514,6 +518,8 @@ Google Privacy Policy and Terms of Service	17028
 GovLink Private	2362,225,502,4294,1
 Governing Bodies of Private Schools	11860
 Government Development Partners Private Sector Central	16973
+Government FBOs Private Parastatal Figure	19544
+Government Motor Vehicles Using Private Plate	19585
 Government Private Cloud	11940
 Government and Private	11857,829,5855
 Government and Private Member’s Bills	18436
@@ -547,6 +553,7 @@ IFC Private	11469
 IFC Private Sector Diagnostic and Jobs Diagnostics	19245
 IFs Publiques Privée S	13390
 IFs Total Publiques Privées S	13390
+IGN FI Legal Notice Privacy Policy	19616
 II.2 Privé	10847
 II.2 Privé Nombre de Groupes Nombre de Groupes	10847
 III.2.2 Privé	10847
@@ -696,6 +703,7 @@ Liste des Grandes Ecoles Privées	18170
 Liste des Universités Privées	18170
 Litoral Wele Nzas Nacional Público Privado	16864
 Local Privado	549
+Local Privé	19413
 Los Ficheros Privados	16855
 Love Street Private Bag	12927
 L’EXPLOITATION DES SERVICES PRIVES	17899
@@ -708,6 +716,7 @@ MANUELS ELEVES VII.4.2 Privé Lecture Calcul	10847
 MARADI UPEN UNIVERSITÉ PRIVÉE L'ELITE	18170
 MAÎTRE VI.2.2 Privé Nbre	10847
 MDAs Private	958
+MDAs and Private Sector	19519
 MFD and Private Capital Mobilized	15983
 MI Private Public Partnership	18887
 MICDE Secretariat Sector MDAs Regulatory Private	7548
@@ -729,6 +738,7 @@ Malawi Public Private Commission	14674
 Malawi Public Private Partnership Commission	14674
 Mali’s Private Sector Diagnostic. Digitization	17870
 Mali’s Private Sector Diagnostic. Malian	17870
+Management Private Sector	19520
 Matikoxikaya. Private Bag X833	11260
 Mauritania Second Private Sector	763,418
 Maximize Private	11469
@@ -891,7 +901,7 @@ PRIVADO E COOPERATIVO	14
 PRIVADO E COOPERATIVO Artigo	14
 PRIVADO Para	11366
 PRIVAT	1000
-PRIVATE	1000,939
+PRIVATE	1000,939,17595
 PRIVATE AND PUBLIC	2775
 PRIVATE BAG	3161
 PRIVATE CAPITAL MOBILIZED	12717
@@ -1033,7 +1043,7 @@ Priv. Invest	13868
 Priva	14790
 Privacidade	2816,4154,1517,2906,1,42,20,113,7227,10
 Privacidade de Dados	2816
-Privacy	21,375,186,379,1,242,39,90,247,359,1,174,249,155,440,100,593,1,209,181,382,15,144,7,173,27,454,3,238,193,238,239,150,127,10,190,160,1,134,70,58,96,71,800,108,153,7,11,135,311,29,369,284,44,308,159,12,17,354,123,275,43,1,10,37,7,29,282,3,7,16,53,191,552,4,38,1,144,4,42,25,36,26,30,26,26,537,570,188,29,270,486,7,83,13,12,17,155,21,48,103,28,10,34,199,247,61,46,111,614,599,97,60,259,236,251,191,100,404,157,307,141
+Privacy	21,375,186,379,1,242,39,90,247,359,1,174,249,155,440,100,593,1,209,181,382,15,144,7,173,27,454,3,238,193,238,239,150,127,10,190,160,1,134,70,58,96,71,800,108,153,7,11,135,311,29,369,284,44,308,159,12,17,354,123,275,43,1,10,37,7,29,282,3,7,16,53,191,552,4,38,1,144,4,42,25,36,26,30,26,26,537,570,188,29,270,486,7,83,13,12,17,155,21,48,103,28,10,34,199,247,61,46,111,614,599,97,60,259,236,251,191,100,404,157,307,141,530
 Privacy Act	3005,11436
 Privacy Article	11956
 Privacy Champions	11956
@@ -1155,8 +1165,10 @@ Privados. Na	17034
 Privados. Segundo	3246
 Privant	15592
 Privat Darelh	16100
-Private	25,35,246,12,77,341,53,110,59,12,30,154,7,67,33,3,20,270,150,73,37,289,27,3,102,11,4,68,6,38,65,20,74,20,25,48,44,18,36,8,5,50,3,41,1,3,50,41,11,18,4,70,1,8,154,17,88,18,88,38,27,4,88,56,19,119,54,10,14,69,15,126,37,21,38,234,8,89,1,38,16,41,78,22,23,100,55,65,76,29,32,52,123,73,29,32,106,45,58,2,43,10,91,181,78,116,183,19,70,19,69,109,5,33,71,1,32,34,83,7,1,15,9,34,62,108,40,145,1,11,137,178,361,113,104,359,103,17,442,76,210,96,13,132,185,7,22,165,16,46,10,195,543,16,33,10,19,15,8,37,60,67,101,4,2,1,4,35,6,15,52,23,25,60,112,1,55,28,56,249,3,3,6,10,26,47,1,7,11,5,10,39,10,160,6,9,4,26,45,12,31,14,14,2,9,2,4,10,16,12,33,9,4,21,83,2,66,45,1,214,2,16,60,4,151,63,110,15,1,2,1,6,11,15,3,9,30,73,9,42,149,24,183,11,59,10,43,17,71,442,44,1,157,6,13,3,7,23,2,13,61,2,8,18,2,15,1,24,14,30,32,7,19,11,102,28,176,23,9,52,23,13,13,7,73,51,109,12,98,321,44,24,368,74,158,11,9,7,9,4,11,9,4,11,28,6,3,11,4,3,9,12,3,4,2,3,3,18,108,10,24,1,10,60,27,21,3,107,136,268,99,115,95,53,14,158,53,1,82,1,34,56,5,137,121,2,28,26,36,22,41,35,176
+Private	25,35,246,12,77,341,53,110,59,12,30,154,7,67,33,3,20,270,150,73,37,289,27,3,102,11,4,68,6,38,65,20,74,20,25,48,44,18,36,8,5,50,3,41,1,3,50,41,11,18,4,70,1,8,154,17,88,18,88,38,27,4,88,56,19,119,54,10,14,69,15,126,37,21,38,234,8,89,1,38,16,41,78,22,23,100,55,65,76,29,32,52,123,73,29,32,106,45,58,2,43,10,91,181,78,116,183,19,70,19,69,109,5,33,71,1,32,34,83,7,1,15,9,34,62,108,40,145,1,11,137,178,361,113,104,359,103,17,442,76,210,96,13,132,185,7,22,165,16,46,10,195,543,16,33,10,19,15,8,37,60,67,101,4,2,1,4,35,6,15,52,23,25,60,112,1,55,28,56,249,3,3,6,10,26,47,1,7,11,5,10,39,10,160,6,9,4,26,45,12,31,14,14,2,9,2,4,10,16,12,33,9,4,21,83,2,66,45,1,214,2,16,60,4,151,63,110,15,1,2,1,6,11,15,3,9,30,73,9,42,149,24,183,11,59,10,43,17,71,442,44,1,157,6,13,3,7,23,2,13,61,2,8,18,2,15,1,24,14,30,32,7,19,11,102,28,176,23,9,52,23,13,13,7,73,51,109,12,98,321,44,24,368,74,158,11,9,7,9,4,11,9,4,11,28,6,3,11,4,3,9,12,3,4,2,3,3,18,108,10,24,1,10,60,27,21,3,107,136,268,99,115,95,53,14,158,53,1,82,1,34,56,5,137,121,2,28,26,36,22,41,35,176,358,1,7,4,10,3,11,27,3
 Private Account	9400
+Private Alliance for Disaster	19520
+Private Alliance for Disaster Resilient Societies	19520
 Private Analysts and Policy Advocates	17149
 Private Bag	573,1327,10642,33,25,42,278,33,28,72,28,15,93
 Private Bag B318	12291,714
@@ -1178,13 +1190,13 @@ Private Business Corporations	13437
 Private Business Corporations Act	13311,87
 Private Capital	7523,5194,3427,44
 Private Capital Enabled	11469,7382
-Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561,378,704,1,2,308,63,112,43,467,21,1684,492,394,39
+Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561,378,704,1,2,308,63,112,43,467,21,1684,492,394,39,123
 Private Capital Mobilization	1264,14254
 Private Capital Mobilization PDO Project Development	6539,10560
 Private Capital Mobilization Scheme	4500
 Private Capital Mobilized	12563,3625
 Private Capital Mobilized US	12399
-Private Cloud	14327
+Private Cloud	14327,5219
 Private Cloud Gold Tier	14327
 Private Cloud Platinum Tier	14327
 Private Cloud Services	14327
@@ -1225,6 +1237,7 @@ Private Fintech Innovation Fund	14819
 Private Fintech Innovation Fund Establish	14819
 Private GOK	6432
 Private Government Cloud	17870
+Private Health Facilities	19544
 Private Health Institutions	14773
 Private Health Institutions Act	7845
 Private Health Institutions Act SECOND SCHEDULE	7845
@@ -1251,6 +1264,7 @@ Private Insensitive Data	11995
 Private Institution	736
 Private Institutions and NGOs	1261
 Private Institutions of Higher Education	16800,1829
+Private Insurance	19531
 Private Investment	12356,4904,649,81
 Private Investment Registration Certificate	18797
 Private Investment. Nigeria	11469
@@ -1306,6 +1320,7 @@ Private Partnership	12240,820,1669,90,345,980,982,1651
 Private Partnership PPSD Project Procurement Strategy	1264
 Private Partnership QA Quality	15164
 Private Partnership QER DRAFT Resettlement Action	15424
+Private Partnership REA Rural Energy Agency	19590
 Private Partnerships	11310,930,820,287,2630
 Private Partnerships QMD Quality Management Directorate	12240
 Private Partnerships R&D Research and Development SDG	13346
@@ -1343,7 +1358,7 @@ Private Rulings	12629
 Private School Theo Katjimune Primary School	13046
 Private Schools	12975
 Private Secondary Education Authority	14847
-Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435,66,13,16,1,1,1,35,16,55,158,1,9,77,51,6,43,1,11,1,3,10,78,9,35,24,163,242,29,16,2,154,4,173,50,14,29,30,151,422,418,368,96,6,118,7,123,3,343,131,241,1008,4,4,11,4,75,12,12,124,17,23,18,78,1,24,485,701,63,68,42,86,540
+Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435,66,13,16,1,1,1,35,16,55,158,1,9,77,51,6,43,1,11,1,3,10,78,9,35,24,163,242,29,16,2,154,4,173,50,14,29,30,151,422,418,368,96,6,118,7,123,3,343,131,241,1008,4,4,11,4,75,12,12,124,17,23,18,78,1,24,485,701,63,68,42,86,540,274,1,11
 Private Sector AI	7548
 Private Sector Academia and Research Institutions Private	14565
 Private Sector Adoption and KPI Monitoring Design	4126
@@ -1406,6 +1421,7 @@ Private Sector Foreign	16996
 Private Sector Foreign Investment and Investor Perceptions	13532
 Private Sector Forum	10864
 Private Sector Foundation	12661
+Private Sector Foundation TTC Tanzania Revenue	19534
 Private Sector Funding	16852
 Private Sector GDP	958
 Private Sector GDP Gross Domestic Product	13295
@@ -1462,7 +1478,7 @@ Private Sector Stake	13388
 Private Sector Support Operations	10980
 Private Sector THEMATIC AREA	12453
 Private Sector The Private Review Law	14997
-Private Sector The Private Sector	1000
+Private Sector The Private Sector	1000,18520
 Private Sector Units	15175
 Private Sector Venture Capital and Private Equity	12210
 Private Sector and Academia	13080
@@ -1504,6 +1520,7 @@ Private Telecom Operators	15553
 Private Telecommunications	15340
 Private Telecommunications Network	736
 Private Telecommunications Networks	13951
+Private Total Health Clinics	19544
 Private Universities	18629
 Private University Ogun Spends N1bn	10034,231
 Private University of Angola	10776
@@ -1567,7 +1584,7 @@ Privi Makhan	17800
 Privi Makhan.Speaking	11266
 Privilege	11813,2904,385,371,2963,23
 Privilege Motions	18436
-Privileged	2727,3705,4185,2735
+Privileged	2727,3705,4185,2735,6232
 Privileged Access Management	10616,1,614
 Privileged Communications	16840
 Privileged Identity Management	10721
@@ -1676,9 +1693,9 @@ Public Private Infrastructure Advisory UN United	14897
 Public Private Innovation	7548
 Public Private Office	7548
 Public Private Participation and Civil Society	16915
-Public Private Partnership	1264,3037,732,6191,65,485,86,737,1949,333,493,52,6,43,77,1302,20,91,142,1348,32,312,90,45,1,175
+Public Private Partnership	1264,3037,732,6191,65,485,86,737,1949,333,493,52,6,43,77,1302,20,91,142,1348,32,312,90,45,1,175,426,51
 Public Private Partnership Achievements	16944
-Public Private Partnership Act	5793,9037,3616,17,15
+Public Private Partnership Act	5793,9037,3616,17,15,1107
 Public Private Partnership Act No.14	13346
 Public Private Partnership Commission	1572,60,2011,35,6733,1842,46,760,1,54,71,1210
 Public Private Partnership Commission Country	13185
@@ -1690,6 +1707,7 @@ Public Private Partnership Law	14947
 Public Private Partnership PPPFA Preferential Procurement	11224
 Public Private Partnership PTA	958
 Public Private Partnership QoS	18485
+Public Private Partnership Regulations	19585
 Public Private Partnership Selection	5903
 Public Private Partnership Unit	18463
 Public Private Partnerships	21,937,10266,1109,120,111,496,235,50,1201,440,386,1551,1562,402
@@ -1732,6 +1750,7 @@ Public and Private Sector Financing Needs	18795
 Public and Private Sector Insurance Fund	15519
 Public and Private Sector Leaders As the Ministry	18551
 Public and Private Sectors	12000,4966,1571
+Public and Private Sectors. Data Appraisal	19613
 Public and Private State	10819
 Public and Private Telecommunication Licensees	736
 Public and Private Universities	2775
@@ -1747,6 +1766,7 @@ Público RAC Privado RAC Nacional Nacional	16920
 Público RAD Privado RAD Nacional Nacional	16864,56
 Público-Privada Privada	10766
 Q AUTRE SECTEUR MÉDICAL PRIVÉ R	13300
+Q1 1698210303.pdf Public Private Partnership	19534
 Q1 Private Business Sentiment Survey	17317
 QES QLFS QES Coverage Private	11296
 Quadro Privativo de Pessoal Técnico da Ins	15359
@@ -1791,6 +1811,7 @@ Respecting Privacy	10341
 Responsibility MICTPCS RBZ Ministry of Trade Private	958
 Revise Private	4653
 Rich Allela for Privacy International Weitzberg	12227
+Rights and Privileges	19531
 Rise of Private	16812
 Risk Mitigation Facility for Private Sector Participation	15983
 Role of Private Sector	14897
@@ -2036,6 +2057,7 @@ Vuka Africa Ltd Privacy	4235
 WBG Privacy Notice. Please	17338
 WI PRIVE Article	18901
 Warwyck Private Bank	10637
+Weak Authentication Controls Over Privileged User	19584
 Welwitschia Private Hospital	12947
 What's Next for Privacy Law	11896
 WhatsApp Privacy Policy	5113

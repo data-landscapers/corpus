@@ -47,6 +47,7 @@ Algérie Assure	15568
 Annual SG1 SO2 Quality Assurance	17116
 Annual SG2 SO3 Quality Assurance Statistical	17116
 Assessing the Levels of Assurance	10775
+Assessment DQA Data Quality Assurance Framework	19519
 Assessment and Quality Assurance Officer	12984
 Assignment Assuming	13031
 Assuch	8602
@@ -70,14 +71,17 @@ Assumiremos	15476
 Assumiu-se	11569
 Assumption	7845,14,3317,687,803,835,158,1066,699,1716,1319,98
 Assumption Island	18957
-Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284,887,1029,41,12,1182,778
+Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284,887,1029,41,12,1182,778,632
+Assumptions Administrativ Increased Annual TSMP Reduced	19519
 Assumptions All	11986
 Assumptions Availability	11986
 Assumptions CCSS	11986
 Assumptions DHA	11986
+Assumptions Enterprise Increased	19519
 Assumptions GSMA Intelligence	14674
 Assumptions NA Disaggregation	11986
 Assumptions Network	11986
+Assumptions Physical	19519
 Assumptions Promote	13938
 Assumptions Q1	11986
 Assumptions Q2	11986
@@ -112,7 +116,7 @@ Assuntos Sociais Estratégia	18783
 Assunção	15433,589
 Assur	11289
 Assura	17829
-Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5,805,568,405,389,35,49,52,1085,232,836,40,50,26,137,151,604,144,380,358,338,4,6,236,52,165,29,616,295,17,7,65
+Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5,805,568,405,389,35,49,52,1085,232,836,40,50,26,137,151,604,144,380,358,338,4,6,236,52,165,29,616,295,17,7,65,198
 Assurance AI	7548
 Assurance Authority	16852,374
 Assurance Authority NAT National Assessment Test	16852
@@ -129,7 +133,8 @@ Assurance Internal Audit Activities	11134
 Assurance Islamique	4402
 Assurance Lab National Blood	4153
 Assurance Levels	7008
-Assurance Maladie	643,5486,3706,3935,520,332,739,50,17,90,418,96,1838,12,13,28,106,1192,43,20,32,2
+Assurance Maghrebia	19390
+Assurance Maladie	643,5486,3706,3935,520,332,739,50,17,90,418,96,1838,12,13,28,106,1192,43,20,32,2,95
 Assurance Maladie ANGC	15475
 Assurance Maladie CAS CCSC CNI CERTES	17882
 Assurance Maladie Généralisée	1961
@@ -169,6 +174,8 @@ Assurance of Planning	11857
 Assurance-	11944
 Assurance-maladie	10824
 Assurances	235,6648,4082,174,2238,1400,672,25,109,91,123,104,98,176,442,6,18,807,37,348,230,119,1082,20
+Assurances Maghrebia	19390
+Assurances Maghribia	19390
 Assurances Maritimes	19366
 Assurances de Côte	15712
 Assurances de Droit National Africaines	11944
@@ -179,7 +186,7 @@ Assure	11944,2593,1031,15,265,1003,973,1460,78
 Assured	16927
 Assured Future	13688
 Assurent	1187
-Assurer	12,130,856,294,765,909,205,1,209,15,6,601,17,350,851,2756,410,169,335,746,1,1074,114,32,16,2,89,1,966,111,1247,11,40,34,15,24,214,90,1,32,30,28,29,586,1,25,30,3,5,1,1,47,36,899,2,14,54,26,15,41,15,27,1,3,3,37,2,8,4,14,1,46,14,2,47,53,7,28,2,30,31,13,25,114,54,123,42,44,121,80,4,1,1,5,15,5,24,792,37,325,12,6,2,1,1,6,11,3,6,1,9,3,13,3,1,43,1,37,117,3,2,192,5,4,13,76,489,13,5,86,24,38,171,5,17,117,2
+Assurer	12,130,856,294,765,909,205,1,209,15,6,601,17,350,851,2756,410,169,335,746,1,1074,114,32,16,2,89,1,966,111,1247,11,40,34,15,24,214,90,1,32,30,28,29,586,1,25,30,3,5,1,1,47,36,899,2,14,54,26,15,41,15,27,1,3,3,37,2,8,4,14,1,46,14,2,47,53,7,28,2,30,31,13,25,114,54,123,42,44,121,80,4,1,1,5,15,5,24,792,37,325,12,6,2,1,1,6,11,3,6,1,9,3,13,3,1,43,1,37,117,3,2,192,5,4,13,76,489,13,5,86,24,38,171,5,17,117,2,6,9,16,13,95
 Assurer Ministère De La Santé	15936
 Assurer Résultat	17842
 Assurer la CT	17845
@@ -368,6 +375,7 @@ Insurance and Assurance	940
 Internetwork System Specialisation Assurance	6832
 J SAHAM ASSURANCES GUINEE SA SAHAM	16623
 KD STA Procramme LIBELLE Assurer	15999
+Kenya. Assurer	19402
 Key Assumptions	18293
 Key Assumptions Objectives Component	18293
 Know Your Customer LoA Level of Assurance	12663
@@ -399,6 +407,7 @@ MW MIGA Assurance	18316
 Macroeconomic Assumptions	13122
 Macroeconomic Data and Assumptions	17595
 Macroeconomic Data and Assumptions Validation Workshop	17595
+Macroeconomic Targets and Assumptions	19602
 Mali Assurer	17845
 Management Approach Material Matters Assurance Finance	11131
 Manager for Information System Quality Assurance	7155
@@ -456,9 +465,10 @@ QUALITY ASSURANCE	9855,4554
 QUALITY ASSURANCE Standard Digital	9855
 QUALITY ASSURANCE UNIT	14736
 QUALITY ASSURANCE UNIT The Mauritius Standards	14736
-Quality Assurance	899,6367,63,4528,3,96,400,44,212,305,58,62,344,1028,333,70,268,81,3,19,577,411,265,431,29,31,44,97,46,43,128,1196,62,21
+Quality Assurance	899,6367,63,4528,3,96,400,44,212,305,58,62,344,1028,333,70,268,81,3,19,577,411,265,431,29,31,44,97,46,43,128,1196,62,21,978
 Quality Assurance Agency for Higher Education	14787
 Quality Assurance Authority	14747,21,2458
+Quality Assurance Compliance Guidelines	19575
 Quality Assurance Establish	16963
 Quality Assurance Framework	9855,5905,1161,1824
 Quality Assurance Frameworks	18745
@@ -470,6 +480,7 @@ Quality Assurance Office	8957
 Quality Assurance Officer	12726
 Quality Assurance PERSAL Personnel and Salary System	11192
 Quality Assurance Peer Review	11134
+Quality Assurance Plan	19584
 Quality Assurance Quality Audits	16963
 Quality Assurance Review	15688
 Quality Assurance SDG Sustainable Development Goals	12917
@@ -561,6 +572,7 @@ Strengthen Telecom Revenue Assurance	17268
 Strengthen Telecom Revenue Assurance The Gambia	17268
 Strengthen Telecom Revenue Assurance URL	17268
 Strengthen the Assurances of Integrity	14777
+Strengthening School Quality Assuarance	19565
 Summary of Assurance of Integrity Assessment	14777
 Supplies Authority KEMSA Quality Assurance Laboratory	4153
 Sustainability Assurance	2518
@@ -585,6 +597,7 @@ UK Quality Assurance Agency	14747
 UPA Assurer	15999
 Underlying Assumptions	15604,2258
 United Assurance	6946
+United Nations' National Quality Assurance Framework	19519
 Upper Egypt Governorates of Assuit	15604
 V. Assurer	16037
 VALORISATION DES Assurer	15999

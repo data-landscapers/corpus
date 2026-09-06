@@ -28,10 +28,12 @@ ARRANGEMENT OF CLAUSES Clauses PART I--PRELIMINARY	14594
 ARRANGEMENT OF PARAGRAPHS PARAGRAPH	12575
 ARRANGEMENT OF PARTS	18597
 ARRANGEMENT OF REGULATIONS PART	12575
+ARRANGEMENT OF REGULATIONS PART I PRELIMINARY	19564
 ARRANGEMENT OF REGULATIONS REGULATION	12624,411
 ARRANGEMENT OF REGULATIONS REGULATION PART	17243,6,1
 ARRANGEMENT OF REGULATIONS REGULATION Preliminary	5687
 ARRANGEMENT OF REGULATIONS Regulation	22,12388
+ARRANGEMENT OF REGULATIONS Regulation Title	19528
 ARRANGEMENT OF REGULATIONS Regulations	13307
 ARRANGEMENT OF SECTIONS	2726,8463,1701,5,1824,2117,552,1208,338,125
 ARRANGEMENT OF SECTIONS Assented Jul	17388
@@ -39,7 +41,7 @@ ARRANGEMENT OF SECTIONS CHAPTER	12919
 ARRANGEMENT OF SECTIONS CHAPTER I PRELIMINARY	18598,77
 ARRANGEMENT OF SECTIONS Committee Stage Jul	17388
 ARRANGEMENT OF SECTIONS PART	1333,11197,2,3,27,68,308,401,32,1343,3749,93,330,2,32,23,218,12
-ARRANGEMENT OF SECTIONS PART I PRELIMINARY	13305,14,2,1,30
+ARRANGEMENT OF SECTIONS PART I PRELIMINARY	13305,14,2,1,30,6156,1
 ARRANGEMENT OF SECTIONS PART I Preliminary	736,236,12587
 ARRANGEMENT OF SECTIONS Preliminary Section	587
 ARRANGEMENT OF SECTIONS SECTION	11976,548
@@ -50,6 +52,7 @@ ARRANGEMENT OF SECTIONS SECTIONS PART	18925
 ARRANGEMENT OF SECTIONS Section	1220,657,11408,113,1315,3,4,2,87,12,22,1996
 ARRANGEMENT OF SECTIONS Section Application	11
 ARRANGEMENT OF SECTIONS Section PART	783,691,1253,10676,203,1109,12,1,2,2,11,25,56,2063,1551
+ARRANGEMENT OF SECTIONS Section Title PART	19518
 ARRANGEMENT OF SECTIONS Section. PART	18459,8,1
 ARRANGEMENT OF SECTIONS Sections	11179
 ARRANGEMENT OF SECTIONS Sections CHAPTER	11181,9
@@ -154,6 +157,7 @@ Afrique AFD Agence Française de Développement ARREC	18103
 Agrément Arrêté	15660
 Ahmed ADLI MINISTERE DES FINANCES ArrÍtÈ	15394
 Aimé Ange Wilfrid BININGA Arrêté	15455
+Alexandre Arrobbio	19424
 Alternate Procurement Arrangements	1284,9545,135,891,1476,1,2221,68,1301
 Alternative Procurement Arrangements	1867,1022,673,42,7164,649,143,345,3032,201,520,3,322,161,2054,611,436,39
 Amadou Toumani TOURE ARRETE	17817
@@ -182,11 +186,13 @@ Arrangement of Paragraphs PART I PRELIMINARY	13085,121
 Arrangement of Parts Part III	512
 Arrangement of Public Business	18436
 Arrangement of Regulations	1020
-Arrangement of Sections	5872,12722,299,41
+Arrangement of Section Section Title	19524
+Arrangement of Sections	5872,12722,299,41,581
 Arrangement of Sections CHAPTER	18600
 Arrangement of Sections PART I PRELIMINARY	12894
 Arrangement of Sections Part	12643
 Arrangement of Sections Section	14484
+Arrangement of Sections Section Title	19527
 Arrangements	1867,908,829,6553,611,61,135,561,26,304,1476,1,1385,127,283,284,142,105,1,2,351,602,216,106,178,1084,161,11,67
 Arrangements A. Financial Envelope and Knowledge	11469
 Arrangements Additional Financing Loan Closing Date	11924
@@ -206,7 +212,7 @@ Array	6423
 Array of Independent Disks RAIN Redundant Array	13185
 Arrea	12151
 Arrear Payments Twenty-seven	13420
-Arrears	1284,544,9169,1979,77,1493,2424,8,1845
+Arrears	1284,544,9169,1979,77,1493,2424,8,1845,762
 Arrears Clearance Negotiation Committee	18500
 Arrears Clearance Strategy and Principles	18500
 Arrears Clearance and Debt Resolution	13685
@@ -219,6 +225,7 @@ Arrears Pensions and Gratuity	14774
 Arrears Recovery Unit	14761
 Arrears Report	12976
 Arrears Report Table	12976
+Arrears TZS	19585
 Arrears of Community Levy Proceeds	6422
 Arrears of Contribution	6422
 Arrecadar	15391,521,2861
@@ -327,10 +334,10 @@ ArrÍtÈ	15360,34,16
 Arréte-Royai	13292
 Arrêt	10875,5740
 Arrêt du Conseil Constitutionnel	18310
-Arrête	6589,757,7086,963,31,6,7,16,10,23,36,34,44,13,45,32,52,3,33,68,15,70,106,46,15,71,6,53,5,39,70,23,46,12,31,1650
-Arrêtent	7346,8080,6,23,1,11,91,44,13,75,2,40,15,20,96,67,3,10,96,132,59,33,81,23
-Arrêter	10876
-Arrêté	1272,166,153,351,400,1262,798,256,1931,757,124,1214,207,1196,725,29,2604,463,15,501,7,13,25,19,1,1,905,11,5,15,6,7,16,1,18,14,30,6,27,4,3,11,11,22,6,7,43,2,10,15,5,2,40,12,3,20,13,6,62,15,38,32,3,7,20,76,46,15,71,6,26,27,5,28,11,48,6,16,23,46,12,31,156,4,19,1181,1,10,1,1,4,8,3,1,7,9,15,23,10,94,12,103,3,48,147,6,891,28
+Arrête	6589,757,7086,963,31,6,7,16,10,23,36,34,44,13,45,32,52,3,33,68,15,70,106,46,15,71,6,53,5,39,70,23,46,12,31,1650,1341
+Arrêtent	7346,8080,6,23,1,11,91,44,13,75,2,40,15,20,96,67,3,10,96,132,59,33,81,23,3128
+Arrêter	10876,8498
+Arrêté	1272,166,153,351,400,1262,798,256,1931,757,124,1214,207,1196,725,29,2604,463,15,501,7,13,25,19,1,1,905,11,5,15,6,7,16,1,18,14,30,6,27,4,3,11,11,22,6,7,43,2,10,15,5,2,40,12,3,20,13,6,62,15,38,32,3,7,20,76,46,15,71,6,26,27,5,28,11,48,6,16,23,46,12,31,156,4,19,1181,1,10,1,1,4,8,3,1,7,9,15,23,10,94,12,103,3,48,147,6,891,28,195,11,48,11
 Arrêté AJ	16611
 Arrêté Interministériel	17899
 Arrêté Ministeriel N	15963,240
@@ -398,6 +405,7 @@ CREDIT FACILITY ARRANGEMENT	18823
 CREDIT FACILITY ARRANGEMENT AND REQUEST	15029,2228
 CSS Arrêté	15580
 CULTURE ET DES ARTS Arrêté	15943,142
+CYBERCRIMES ACT Arrangement of Sections	19523
 Cabo Verde Arranca Hoje	15824
 Calixte NGANONGO FIXATION DE REDEVANCE Arrêté	15426
 Cash Flow and Arrears	12922,34
@@ -450,6 +458,7 @@ DEFENSE NATIONALE Arrêté	15594,153
 DEFENSE NATIONALE Arrêtés	15602,328
 DEFINE INSTITUTIONAL ARRANGEMENTS	16867
 DES ENERGIES RENOUVELABLES Arrêté	15432
+DES MINES ET DE L'ENERGIE Arrêté	19447
 DES START-UP ET DES MICRO-ENTREPRISES Arrêté	16085
 DES TECHNOLOGIES ET DU NUMERIQUE Arrêté	15467
 DES TELECOMMUNICATIONS Arrêté	16344
@@ -530,7 +539,7 @@ Enhance Key Sectors Under the ARREST Agenda	16975
 Es ARRttREs DE PA	14479
 Esteban Ortiz-Ospina and Pablo ArriagadaGuyana	12265
 Estimates No Disbursements Arrangements No DDO	16187
-Etat. Arrête	15439
+Etat. Arrête	15439,3997
 Evaluation Arrangements	10964,4832,2402
 Existing National Roaming Data Rate Arrangements	17212
 Expenditure Arrears	1828
@@ -562,6 +571,7 @@ Facture Normalisée DEF Arrêté	15963
 Facture Normalisée DEF Arrêté Ministériel N	15963
 Federation of Nigeria Arrangement of Sections	11853
 Fifth Reviews Under the Arrangements Under the Extended	17990
+Finality of Payment and Netting Arrangements	19509
 Financial Management Arrangements	11855,50
 Financial Management Arrangements. The Director of Finance	1867
 Financial Management and Disbursements Arrangements	15658
@@ -683,7 +693,7 @@ Institutional Arrangements for Fintech Regulation	11140
 Institutional Arrangements for Procurement	15518
 Institutional Arrangements. Responsibility	4653
 Institutional Infrastructure and Arrangements Established	11265
-Institutional and Implementation Arrangements	1284,10681,2611
+Institutional and Implementation Arrangements	1284,10681,2611,4879
 Insérer Images Arrêté	15426
 Inter-Institutional Arrangements	11250
 Interim Arrangement	14874
@@ -734,11 +744,13 @@ L’ENSEIGNEMENT PROFESSIONNELS Arrêté	15602
 M ARR	819
 M'Sila Bordj Bou Arréridj Boumerdès Souk	15690
 M. Abdul Mohymen Arrgaii	18216
+M. Arrobbio. Ces	19397
 M. BIYOHO Arrête	15660
 M. El Hafnaoui Brahmi. Arrêtés	15930
 MALI ARRETE N	17812,5,2,9
 MALI ARRETES ARTICLE	17819
 MANAGEMENT AND COORDINATION ARRANGEMENTS	15556
+MANAGEMENT AND IMPLEMENTATION ARRANGEMENTS	19519
 MARINE MARCHANDE Arrêté	15455,160,798
 MATERIALS USED IN INDUSTRIES ARRÊTÉ MINISTÉRIEL	15177
 MAURITANIA FIFTH REVIEWS UNDER THE ARRANGEMENTS	17990
@@ -752,7 +764,7 @@ MINISTERE DE LA DEFENSE NATIONALE Arrêté	16344
 MINISTERE DE LA DEFENSE NATIONALE Arrêtés	15930
 MINISTERE DE LA JUSTICE Arrêté	15608,563
 MINISTERE DES FINANCES ArrÍtÈ	15394
-MINISTERE DES FINANCES Arrêté	15432,24,291,424
+MINISTERE DES FINANCES Arrêté	15432,24,291,424,3276
 MINISTERE DES HYDROCARBURES AGREMENT Arrêté	16456
 MINISTERE DES RESSOURCES EN EAU Arrêté	15456
 MINISTERE DES TRANSPORTS ArrÍtÈ	15394
@@ -765,10 +777,12 @@ MSDI APPROACH INSTITUTIONAL ARRANGEMENTS	18476
 Macroeconomic Impacts of Government Domestic Arrears	1828
 Madame DIAKITE Bintou ARRETE	17819
 Mali Région Cercle Arrondissement Type	17993,96
+Management Arrangements The RC	19571
 Mandated Lead Arranger	398
 Maria Dolores Arribas-Banos	13459
 Materials Transfer Arrangements	4049
 Media Release President Barrow Arrives	17347
+Ministère des Finances Arrêté	19436
 Mme Loli Arribas-Banos	13737
 Mobile Phones Man Arrested for Allegedly Impersonating	3955
 Modalities No Disbursements Arrangements No DDO	4653
@@ -806,6 +820,7 @@ No.18 ARRANGEMENT OF SECTIONS PART	12531
 Noticias Arrancamos	16897
 Number of International Visitor Arrivals	2775
 Number of Monthly International Visitor Arrivals	2775
+O Arrangement of Sections	19525
 O2I ARRANGEMENT OF SECTIONS PART I-	18457
 OMBUDSMAN ARRANGEMENT OF SECTIONS SECTION PART	12892
 Official Use Only C. Implementation Arrangements	11469
@@ -817,6 +832,7 @@ PART VII-PROCEDURES AND ARRANGEMENTS FOR ELECTIONS	18459
 PAYMENT ARRANGEMENTS Payments	17287
 PERFORMANCE UNDER THE ECF ARRANGEMENT	18823
 PERFORMANCE UNDER THE ECF ARRANGEMENT 8 POLICY	18823
+PERSONAL DATA PROTECTION ACT ARRANGEMENT	19530
 PERSPECTIVE MEASURES TO ARREST DOWNTURNS	10
 PGES DATA CENTER PRINCIPAL Arrangement	14489
 PGES DATA CENTER SECONDAIRE Arrangement	14488
@@ -843,6 +859,7 @@ Pierre OBA Arrêté	15692,485
 Pierre OBA Sommets Latitudes Longitudes Arrêté	16177
 Pierre OBA Sommets Longitudes Latitudes Arrêté	16177
 Pointe-Noire. Arrêté	15395
+Pour Alexandre Arrobbio	19397
 Pre Arrival Processing of Express	15478
 Preparedness Strategy and Arrangements	18198
 President Boakai's ARREST Agenda for Inclusive Development	4840
@@ -917,6 +934,7 @@ STRUCTURES OPERATIONNELLES Arrêté	15524
 SUMMARY OF KEY INSTITUTIONAL ARRANGEMENTS	14879
 SUSPENSION DE DIRIGEANT Arrêté	16413
 Safety Nets Project Project Institutional Arrangements	15658
+Samia Infrastructure Bond Financing Arrangement	19585
 Sanitation and Tourism AAID ARREST Agenda for Inclusive	17043
 Santé Actes Réglementaires Arrêté	17852
 Schedule of Disbursements Under ECF Arrangement	18823
@@ -941,8 +959,11 @@ Strategic Plan Implementation Arrangements	13005
 Strategic Plan Implementation Arrangements The National	13005
 Subsequent Arrests	14190
 Summary of Key Institutional Arrangements	14879
+Summary of Unpaid Arrears and Claims	19585
+Summary of Unpaid Arrears and Claims S	19585
 Supervision and Oversight of Global Stablecoin Arrangements	14844
 Supplier Finance Arrangements	13053
+TANZANIA ARRANGEMENT OF SECTIONS	19516
 TELECOMMUNICATIONS Arrêté	16230
 TEXTES GENERAUX MINISTERE DES HYDROCARBURES Arrêté	15615
 THIRD REVIEW UNDER THE ARRANGEMENT UNDER	17909

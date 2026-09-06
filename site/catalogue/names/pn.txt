@@ -157,6 +157,7 @@ Le PNDS	15423,262
 Le PNE	15799
 Le PNF	10876
 Le PNF II	14598
+Le PNS	19406
 Le PNUD	1684,9281,2618,34,917,119,890,240,182,513,91,1112,499,99
 Le PNUD Gabon	15928
 Le Pnud	13697,2830
@@ -208,6 +209,7 @@ OSC PACS PCIME PDDSS PMA PNUD	17882
 OSEP PADCI PND PRIME SONAPIE SNDI	15936
 OSL Operations Support and Logistics PCV Pneumococcal	18668
 Objectif PND	19221
+Objectifs du PNS	19406
 Office of National Identification PNDES National Plan	10812
 Opérationnalisation du PNDS	17843
 Orientations Stratégiques du PNDS	16722
@@ -452,6 +454,7 @@ PNRD de Djibouti	3024
 PNRSIT	15474,117
 PNRSIT Plan	15474
 PNS CD	15474
+PNS Cette	19406
 PNS Conformément	15423
 PNS Politique	15724,2119
 PNS Pédagogie Numérique	13341
@@ -567,7 +570,7 @@ Pneumo	10780,6155
 Pneumococcal Conjugate Vaccine	14742
 Pneumococcal Vaccine PHC	19284
 Pneumocoque	13300
-Pneumonia	12138,13,4784,1822
+Pneumonia	12138,13,4784,1822,787
 Pneumonia Respiratory	12151
 Pneumonia Road Traffic	12151
 Pneumonie	18757
@@ -619,6 +622,7 @@ Sante du Burundi PNDIS The CNSI	13312,2
 Selon le PNDS	15724
 Selon le PNUD	19220
 Senegal’s PNBSF	18301
+Severe and Non-Severe Pneumonia	19544
 Sida PNLT Programme	19350
 Sida PNP	13377
 Sida PNRCCH	15475
@@ -634,6 +638,7 @@ Statistique PNC	16365
 Statistique PNPE Protection	17845
 Suite DTC-HepB-Hib Polio1 Pneumocoque Rotavirus Enfants	13300
 Suède Photo PNUD-RDC Dans	15783
+System PNR Passenger Name Record PPP	19590
 TA for PNDS and RBF	15411
 Talatona PNUD Angola	10782
 Tchad Suivi des Indicateurs du PND Tchad Connexion2030	19043

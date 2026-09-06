@@ -254,7 +254,7 @@ Palacio de Justicia de Bata Malabo	4209
 Palacio de Justicia de Malabo	4209
 Palacios-Pacheco	9128
 Palaearctic and Nearctic	17114
-Palais	2808,34,203,630,124,1024,134,148,990,67,1171,222,170,544,618,1126,905,131,987,43,1326,343,72,668,66,934,96,173,26,190,28,98,76,148,39,19,1443,569,7,2,1,9
+Palais	2808,34,203,630,124,1024,134,148,990,67,1171,222,170,544,618,1126,905,131,987,43,1326,343,72,668,66,934,96,173,26,190,28,98,76,148,39,19,1443,569,7,2,1,9,993
 Palais Audience	4899
 Palais Moyennes Entreprises	18032
 Palais Ntare Rushatsi Le Chef	13405
@@ -285,7 +285,7 @@ Palais des Gouverneurs	6292
 Palais des Nations	2262,7479,3301,2089,347,1149,4,1431
 Palais des Sports de Treichville LES PLUS LUS	8755,4813
 Palais du DEPAR TEMENTALES Peuple	15488
-Palais du Gouvernement	9498,98,4605
+Palais du Gouvernement	9498,98,4605,5203
 Palais du Peuple	2738,240,213,135,44,2697,4589,3166,90,784,792,2156,119
 Palais du Peuple. Entreprises	10531
 Palakiyem Assih	8262,2502
@@ -311,7 +311,7 @@ Palermo Protocol and International Labour Organization	16874
 Palesa	12679
 Palesa Mucivame	13233
 Palesa and Lethabo	12679
-Palestina	18793
+Palestina	18793,772
 Palestine	1741,3144,49,187,1152,547,1825,1527,557,112,260,84,424,3862,1970,37,265,156,447,565
 Palestine ARB UMI	17743
 Palestine Monetary Authority	940
@@ -334,6 +334,7 @@ Palestra	6568
 Palestrina	18099
 Palette	10848
 Palexpo	7174,146
+Palexpo High-level Governmental Plenary Segment	19609
 Palexpo Monsieur le Secrétaire Général	18070
 Paleyes	11156
 Palgrave	8022,3006

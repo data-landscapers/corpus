@@ -258,7 +258,7 @@ Educare Organization South Sudan	18719
 Education Attainment of Household Head Sudan	15244
 Effect of Loss of South Sudan Nationality	18598
 Egypt Sudan Pakistan India Nepal Myanmar	418
-Egypt and Sudan	16916
+Egypt and Sudan	16916,2511
 Embassy of Sudan	15251
 Emedia and Sud Communication	18358
 Emergency Response Rooms and Sudanese NGOs	15016
@@ -275,7 +275,7 @@ Ethiopia Djibouti Kenya Uganda South Sudan	14896
 Ethiopia Sudan	11572
 Ethiopia and South Sudan	11135,871
 Ethiopia and Sudan	11149,7477
-Europe du Sud	6080
+Europe du Sud	6080,13342,55,7
 European Union's EDF Programme for Sudan	14855
 Executive Summary South Sudan	18607,9
 Executive Summary Sudan	14877
@@ -584,7 +584,7 @@ Register of South Sudan Nationals The Directorate	18598
 Reliability of Sudanese	14905
 Report Sudan Civil Registration	14905
 Republic Sudan	14897
-Republic of South Sudan	1216,890,1401,76,1,149,309,555,43,1552,1775,3839,1,357,1446,41,219,169,873,309,2336,89,948,1,2,1,1,1,1,1,2,1,1,2,3,3,3,2,4,1,1,1,12,19,4,6,8,8,5,1,2,11,3,16,9,9,1,2,4,13
+Republic of South Sudan	1216,890,1401,76,1,149,309,555,43,1552,1775,3839,1,357,1446,41,219,169,873,309,2336,89,948,1,2,1,1,1,1,1,2,1,1,2,3,3,3,2,4,1,1,1,12,19,4,6,8,8,5,1,2,11,3,16,9,9,1,2,4,13,835
 Republic of South Sudan Postal Address	18688
 Republic of South Sudan South Sudan Poverty	3583
 Republic of South Sudan. Established	18746
@@ -866,6 +866,7 @@ South Sudan Targets Rural Connectivity	4544
 South Sudan Tax	5347
 South Sudan The African Union Pan-African	18685
 South Sudan Tri-Ocean	3583
+South Sudan UNMIT United Nations Intergrated	19590
 South Sudan URL	18702
 South Sudan Uganda	11572
 South Sudan Universities	18621
@@ -1524,10 +1525,12 @@ Sudanhorizon The National Investment Authority	17564
 Sudanhorizon The Secretary-General	8972
 Sudanhorizon The Sudanese Minister of Digital Transformation	14271
 Sudanhorizon The Tax Chamber	15188
-Sudani	1887,2751,10259,57,330
+Sudani	1887,2751,10259,57,330,4306
 Sudani Company	15068
+Sudani Kusini	19590
 Sudani Startups Secure Over	15048
 Sudani Sudani	15284
+Sudani Wizi	19517
 Sudani and Sudatel	4638
 Sudani and Zain	14897
 Sudani. Illustrates	3040

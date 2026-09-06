@@ -19,10 +19,12 @@ Autocheck Vehicle Examination Station	14753
 Autres RMA Examen	19226
 AÑO QUE SE EXAMINA	3179
 BECE Exam	18461
+Bank of Commerce NIDA National Examinations Council	19541
 Bar Examination	12972
 Basic Education Certificate Examination	18461,51,66
 Basic Education Certificate Examinations	18455
 Basic Education Certification Examination BED	15796
+Beds ICU NICU Examinati	19544
 Bennett S. Examining	3791
 Botswana Examinations Council	12574
 Breast Cancer Examinations	15247
@@ -45,6 +47,7 @@ Circular BECE Basic Education Certificate Examination	18512
 Ciências Exactas	11472
 Classification Definition Examples Residency Security Level	5244
 Confidential Attributes Symbol Example Process Name	9124
+Country Case Studies Examining	19555
 Curriculum and National Examination	13956
 DELIVERY CHAIN PHASE Provide Manage EXAMPLE	11156
 DES EXAMENS ET CONCOURS	16099
@@ -54,6 +57,7 @@ Decentralized Manner. Example	16867
 Deeds Examination and Registration	13251
 Departamento de Ciências Exatas	18796
 Digitize National Exams	4670
+Diploma Examination Certificates	19584
 Directeur des Examens	16485
 Direction Générale des Examens	10847
 Direction Nationale des Examens	18911
@@ -114,7 +118,7 @@ Exact Rockefeller	521
 Exact SIFEM	945
 Exactement	8848
 Exactitud	16875,23
-Exactitude	14437,100,2099,1192,2,12,59,114
+Exactitude	14437,100,2099,1192,2,12,59,114,1459
 Exactly	4641,207,2430,2769,1218
 Exactly the Block	1866
 Exactos	15385,3370
@@ -144,7 +148,7 @@ Exames Efectuados	18768
 Exames da Avaliação Externa	15772
 Examina	18802
 Examinar	1701,9748,3942,3397,12
-Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536,1396,298,1664,361
+Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536,1396,298,1664,361,659,1
 Examination B.Sc. Bachelor of Science CAP Common	18578
 Examination BoG Board of Governors CAPI Computer	18460
 Examination Centre	13477
@@ -172,7 +176,7 @@ Examinations Council of Zambia Prof. Frank Tailoka	13477
 Examinations Council of Zambia. Candidates	13477
 Examinations Grade	11220
 Examinations and Examination Materials Section	13477
-Examine	5677,6317,451,2420,132,345,262,1545
+Examine	5677,6317,451,2420,132,345,262,1545,2435
 Examine NGSO	5680
 Examined	1958,7781
 Examiner	747,8144,1985,2592,64,311,694,37,981,115,178,60,28,3427
@@ -180,7 +184,7 @@ Examiners	13532
 Examiners of Deeds	13251
 Examines	1004,7601,3609,4925
 Examinez	747,12721,4844
-Examining	226,1460,832,2158,3083,3269,107,21,55,1128,30,943,2,1547,4,132,2046
+Examining	226,1460,832,2158,3083,3269,107,21,55,1128,30,943,2,1547,4,132,2046,2512,20
 Examining Bodies	7832
 Examining Brazil	5366
 Examining Budget Implementation	17634
@@ -194,7 +198,7 @@ Examining the Linkages Between Digitalisation	5349
 Examining the Mediating Role of ICT Regulatory Environment	5349
 Examinons	17856
 Examiné	8735,1,150,1075,3339,2984
-Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11,288,39,17,10,182,265,75,84,95,118,1,821,202,178,94,1,17,7,375,386,384
+Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11,288,39,17,10,182,265,75,84,95,118,1,821,202,178,94,1,17,7,375,386,384,1092
 Example A County Public Service Board	14524
 Example Afya Nzuri National Hospital	14524
 Example Approach	17157
@@ -236,10 +240,11 @@ Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
 Example. The Kenya Social Security Agency	14524
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485,700,23,5,4,48,15,3,21,48,26,31,46,2,24,17,103,610,14,314,289,400,44,306
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485,700,23,5,4,48,15,3,21,48,26,31,46,2,24,17,103,610,14,314,289,400,44,306,297,21
 Examples Keywords Base Map Base Maps	18904
 Examples for Section	8530
 Examples of Bid	14778
+Examples of Big Data	19519
 Examples of Data	14434
 Examples of Digital Businesses	14897
 Examples of G2P	11130
@@ -248,6 +253,7 @@ Examples of Notable Enforcement	11896
 Examples of OpenEMIS Deployment Specific	13143
 Examples of PIPs	12374
 Examples of RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
+Examples of Sectorial	19533
 Examples of Successful African	10856
 Examples.xlsx Manuel Open Data	747
 Exams	15604
@@ -266,6 +272,7 @@ External Examinations	13477
 FAIS REGULATORY EXAMINATIONS	8354
 FDI Examples	10856
 FIGURE A.3 GENERIC EXAMPLE	1009
+Factsheet&lang exact	19586
 First School Leaving Certificate Examination. Walter	2319
 Forensic Examiner	15662
 Formação Ciências Exatas	12019
@@ -349,11 +356,12 @@ National Center for Examination Education Evaluation	15604
 National Centre for Examinations and Educational Evaluation	15604
 National Examination	12151
 National Examination Council of Tanzania	10196
+National Examination Council of Tanzania ERMS	19584
 National Examination Results	18447
 National Examination and School Inspection Authority	14922
 National Examinations	13310
 National Examinations Council	18219
-National Examinations Council of Tanzania	10196,479
+National Examinations Council of Tanzania	10196,479,8866,43
 National Examinations. The Secondary	13310
 National Exams	14969
 National Primary School Examination	18461
@@ -366,6 +374,7 @@ Officer. Example	14524
 Oio Quinara Tombali Example Sra. Celina	11515
 Online Examination System	13991
 OpenEMIS Exams	12974
+Operational Feasibility Examines	19575
 P177022&lang exact	15621
 PROGRAMMES MEDIA CURRICULUM School Examination Analysis	18536
 PROTECTION CAN LEAD TO HARM Examples	11156

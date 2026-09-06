@@ -20,6 +20,7 @@ ANID Etapes	19221
 ANNEXE Etablissements	16344
 ANTIM Etat	17845
 APPLICABLES AUX ETABLISSEMENTS DE PAIEMENT Article	15443
+AUX ETABLISSEMENTS DE PAIEMENT N	19468
 Abdelmadjid TEBBOUNE. ETAT ANNEXE En	15690
 Accréditation des Etablissements de Santé	8237,9645
 Acheter des DSGHP ETAT	17845
@@ -311,7 +312,7 @@ Etablissements Hospitaliers Prives ES	14442
 Etablissements MINISTERE DE LA COMMUNICATION	17899
 Etablissements Missions	17446
 Etablissements Privés	17829
-Etablissements Publics	13329,496,606,951,36,94,131,356,612,19,7,1174,1,5,12,16,29
+Etablissements Publics	13329,496,606,951,36,94,131,356,612,19,7,1174,1,5,12,16,29,1494
 Etablissements Publics Administratifs	13923,4432
 Etablissements Publics Caisse Nationale de Solidarité	17895
 Etablissements Publics Nationaux	2808,15009,128
@@ -455,6 +456,7 @@ Etat Elle	13445
 Etat Email	15722
 Etat Emmanuel ISSOZE NGONDET	15375
 Etat En	1876,466
+Etat Encouragement	19436
 Etat Equato	17006
 Etat FFOM	15512
 Etat FINANCEMENT DU PROJET D’APPUI	17829
@@ -556,6 +558,7 @@ Etat TITRE VIII	19260
 Etat Taux	10858
 Etat Tchad Connexion	18988
 Etat Titre	16047
+Etat Tunisien. Art	19380
 Etat URL	15523
 Etat Version Date	14438
 Etat Vu	15558,619
@@ -628,8 +631,8 @@ Etat. Alors	6889
 Etat. Améliorer	15722
 Etat. Antananarivo	14408,4
 Etat. Après	7843,394,1050,55,8607,42,56
-Etat. Arrête	15439
-Etat. Art	436,14996,2,22,51,87,728,2887
+Etat. Arrête	15439,3997
+Etat. Art	436,14996,2,22,51,87,728,2887,177
 Etat. Art.59- Montant	14412
 Etat. Art.60- Publicité	14412
 Etat. Article	17,96,672,446,7959,1635,2467,418,9,712,922,26,26,15,6,5,8,16,10,23,36,79,12,45,118,2,6,6,482,182,1361,8,4,2,43,12,14,103,93,23,192,949
@@ -648,7 +651,7 @@ Etat. CHAPITRE V	18119,1099
 Etat. CHAPITRE VI	19209,51
 Etat. CHAPTER VI	14863
 Etat. Caractère	18003
-Etat. Ce	14417,1305
+Etat. Ce	14417,1305,3655
 Etat. Cela	6889
 Etat. Cependant	15715
 Etat. Certaines	15673
@@ -697,7 +700,7 @@ Etat. ISLAMIQUE POUR LE DEVELOPPEMENT	17829
 Etat. IV.1.1.8.5 Cas	10876
 Etat. IV.4	15722
 Etat. IX. AU TITRE DU MINISTERE	18238
-Etat. Il	2342,10950,2113,27,110,27,34,100,19,643,5,1629,97,38,748,359,121
+Etat. Il	2342,10950,2113,27,110,27,34,100,19,643,5,1629,97,38,748,359,121,13
 Etat. Il. Recettes	15999
 Etat. Ils	113,1463,1469,7428,5230,54,23,267,2244
 Etat. Intégrité	13719
@@ -765,6 +768,7 @@ Etat. Sa	15722,2566
 Etat. Section	113,13179,1120,1022,2663
 Etat. Selon	18096
 Etat. Si	15727
+Etat. Situation	19375
 Etat. Snedai Côte	1576
 Etat. Sont	14444,3652
 Etat. Sur	4812
@@ -775,7 +779,7 @@ Etat. Tableau	15639
 Etat. Titre III	15603
 Etat. Toute	14861,4357
 Etat. Toutefois	14417,1038,272,59,3455
-Etat. Tunis	7767
+Etat. Tunis	7767,11601,1,2,7,20,38,11
 Etat. URL	15757,566
 Etat. Un	15727
 Etat. Un Decret du Premier Ministre	15584
@@ -961,7 +965,7 @@ Le Marché Commun des Etats	13468
 Leadership DRH-SSDS Etat Activité	17845
 Les Etablissements	17812
 Les Etablissements Royal Food	15426
-Les Etablissements de Crédit	13838
+Les Etablissements de Crédit	13838,5663
 Les Etablissements de Paiement	13390
 Les Etablissements de Paiements	13390
 Les Etat	15488

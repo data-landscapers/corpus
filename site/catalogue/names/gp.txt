@@ -6,6 +6,7 @@ Abonnés GPRS	19338
 Access GPU	13272
 Accra P.O Box GP	3386
 African-researcher GPU	4425
+Age University and Other Population NER GPI	19542
 Aide-budgétaire GPE	15673
 Aide-projet GPE	15673
 Avail GPU	15713
@@ -55,6 +56,8 @@ Explore GPU Insights Reviews	9629
 FLN Foundational Literacy and Numeracy GPE Global	17196
 FS Xhariep DM Zastron GP City	11986
 Facility GII Gender Inequality Index GPN	10829
+Female GPI Both Male Female GPI	19542
+Female GPI Total Sexes Sexes Sexes	19542
 Financements GPE	15673
 Fonds GPE	15673
 Free State GP Gauteng IDP Integrated	11192
@@ -158,6 +161,7 @@ GPE Secretariat	11916,6648
 GPE Secretariat Country Team Lead	11916
 GPE System Capacity Grant	14000
 GPE System Transformation Grant	14000
+GPE Teacher Support Programme	19565
 GPE Total Budget	13999
 GPE US	15661
 GPE and World Bank	12175
@@ -175,9 +179,16 @@ GPEKIX	14131
 GPF Gambia Police Force MOJ Ministry	1000
 GPF IBB	13390
 GPF Strategic Plan	17105
+GPFGID-V	19585
+GPI Both Male Female GPI	19542
+GPI Both Male Female GPI Sexes	19542
+GPI Both Male Female GPI Tanzania	19542
+GPI Both Sexes Male Female GPI	19542
 GPI Gender Parity Index	14916
 GPI Gender Parity Index HDI Human	15604
 GPI Gender Parity Index ICT Information	13990
+GPI and Five- Year Age Groups	19542
+GPI and Five-Year Age Groups	19542
 GPL WING WAH	7263
 GPL. Ce	15542
 GPL. En	15542
@@ -201,9 +212,11 @@ GPRS-based	15372,3415
 GPS Benefits	16604
 GPS Coordinates	17114
 GPS Global Positioning System ISO International	18904
+GPS Global Positioning System NA	19542
 GPS HepB HbsAg Hib IC IDS	10777
 GPS Pour	6959
 GPS Services Minor Improvement UI Update	15867
+GPS and Satellite Images	19555
 GPS de Navigation	15999
 GPS the DRC and Namibia	9399
 GPS-based	17906
@@ -214,7 +227,8 @@ GPS. Despite	19140
 GPS. Este	17147
 GPS. L’inscription	13375
 GPS. L’utilisation	1984
-GPSDD	1218,7123,3986
+GPSA NIRC Billing of Research Consultancy	19584
+GPSDD	1218,7123,3986,7192
 GPSDO	16213
 GPSNP	15878
 GPT Cameroon	3235,7765
@@ -273,7 +287,9 @@ GPW13	10776,3846,1103
 GPW14	15725,1564
 GPX Egypt	3859
 GPX India	3782
+GPower	19525
 GPrescription	13495
+GPresiding	19525
 GPzU4Pspi-XOmJU13LvOUUPxtfTuRXcZMBw7lxkQRyY	7313
 Gabinete Jurídico GPCGC	11435
 Gambia National Petroleum Company GPA Gambia	17105
@@ -290,9 +306,11 @@ GoG Government of Gabon GPN General Procurement	15518
 Gov GPT	3465
 Government of Egypt GPE Global Partnership for Education	15604
 Government of Malawi GPE	12175
+Government of United Republic of Tanzania GPS Global	19519
 Gpacitd	14479
 Gpddrive	18440,5
 Gpipheeracratiolohcmidises.epsApageeyrafrefibeoelcemdti	15399
+Green Power Company- GPC	19476
 Greenhouse Gas GPE Global Partnership for Education	15661
 Grievance Redress Mechanism GPE Internally Displaced	11905
 Guinea-Bissau How the GPE-financed	17185
@@ -302,6 +320,7 @@ IBRD Fund for Innovative GPG Solutions	11417,971
 ICT GP-3	15164
 IDA and GPE	11905,6860
 Indicates the GP-2	15164
+Information System GPI Gender Parity Index	19542
 Internationale Zusammenarbeit GPAI Global Partnership	15583
 Internationale Zusammenarbeit GPL Gaz	18316
 Introducing GPTs. Available	13461
@@ -317,7 +336,11 @@ L’utilisation du GPL	16037
 M. Norrsken22 GP Lexi Novitske	1139
 ML GPU-ACCELERATED SERVER PLATFORM	13621
 Maldives. GPE	17196
+Male Female GPI Both Male	19542
+Male Female GPI Both Male Female	19542
+Male Female GPI Sexes	19542
 Member States GPW14	15725
+Microsoft Azure OpenAI GPT	19394
 Midterm GP	16079
 Modern GPS	15473
 Monitoring and Supervision GHG Green-House-Gas GPE Global	11560
@@ -351,10 +374,14 @@ Optional GPU	13185
 P. O. BOX GP	3386
 P176932 GPN Date	17219
 P177478 GPN Date	17180
+PHCs Region Net Enrolment Ratio GPI	19542
 PROJET DE GPRORAMME DU CTN	16103
+Population NER GPI Population NER GPI	19542
+Population NER GPI Tanzania	19542
 Ports Authority GPPA Gambia Public Procurement	17105
 Previous GPE Programmes	14000
 Prioritization of GPW14	15725
+Procurement Services Agency GPSA Human Capital	19584
 Product GER Gross Enrolment Ratio GPI	14896
 Product GPN Gross National Income GRM	11855
 Product Green House Gases GPN Deutsche	10964
@@ -369,10 +396,15 @@ Republic of Chad GPRS General Packet Radio	18887
 RoC. GPE	11905
 SIGE. Os GPEs	10766
 STG-GEA du GPE	11916
+School GER GPI GER GPI	19542
+Secondary School GER GPI GER GPI	19542
 Secretariado da GPE	16268
 Selwyn Market Street P.O. Box GP	3386
 Sep GPOC	3583
 Service-Wise GPT	2347
+Sex and GPI	19542
+Sexes GPI Both Sexes GPI	19542
+Sexes Male Female GPI	19542
 Standard GPAI	16212
 State of Eritrea GPE Global Partnership for Education	13990
 States GPU Graphics Processing Unit GSM	15164
@@ -380,6 +412,7 @@ Stratos Lab’s GPU	11502
 Sufficient GPU	15713
 T4 Abonnés GPRS	19338
 TPE GPRS	10711
+Tanzania Zanzibar Both Sexes GPI	19542
 Thorpe Road P.O.Box GP	17536
 Togo GPRS General	19350
 Tracking GPS	14622
@@ -394,3 +427,4 @@ WHO’s GPW14	15725
 WLAN and GPS Technology	18444
 Whereas the GPAI Code of Practice	11050
 World Bank’s GPN	10964
+Zanzibar Group Both Male Female GPI	19542

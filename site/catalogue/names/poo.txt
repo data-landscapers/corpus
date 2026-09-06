@@ -4,6 +4,7 @@ A1- Pooled	7548
 ACTIVITES DANS LE POOL CENTRE	15670
 ACTIVITES DANS LE POOL EST	15670
 ACTIVITES DANS LES POOLS O3 ACTIVITES	15670
+AREA Poor Fair Good Very	19576
 Acceptable Borderline Poor	17285
 Administrateur des Ressources Humaines POOL SECRETARIAT Chef	17827
 Africa Power Pool EEP Ethiopian Electric	12233
@@ -12,6 +13,7 @@ African Pooled Procurement Mechanism. Backfill	5141
 African Power Pool SCADA Supervisory Control	12399
 African Power Pool WARDIP West African	18504
 App Pool	10617
+Application Poor Fair Good Very	19576
 Assist the Poor	100,8647,2230,4065
 Assist the Poor Carte Nationale	17870
 Available Pool Move	14659
@@ -80,6 +82,7 @@ Kalumbila District Council Poor	1988
 Le Pool	10975,6852
 Le Pool Centre	15670
 Le Pool Energétique	15542
+Legislative Poopwers	19525
 Les Experts du Pool	15670
 Litter Pools	17140
 M. NKOULA MPOLO Département du Pool	15615
@@ -126,6 +129,7 @@ PRESENTATION DU POOL EST	15670
 Percentage of Multidimensional Poor Per State	11998
 Percentage of Poor Covered	10985
 Percentage of Poor Covered Figure	10985
+Perform ICT Poor Fair Good Very	19576
 Plateau Makabana LÉKOUMOU Djoué POOL	15372
 Plateaux and Pool	11905,3754
 Police Car Pool	14753
@@ -149,9 +153,11 @@ Pool D	15744
 Pool Energétique	15542
 Pool Est	15670
 Pool Fund	16971
+Pool Fund Facility	19519
 Pool Plateaux	16249
 Pool Resources and Infrastructure	12675
 Pool Sud	15739
+Pool Talent	19406
 Pool WASSCE West African Senior School	16876
 Pool de Secrétaire	17827
 Pool des Transports Publics de Voyageurs	6901
@@ -181,6 +187,7 @@ Poor Collaboration and Institutional Fragmentation	6936
 Poor Collaboration and Institutional Fragmentation Challenge	6936
 Poor Credit Makes	17260
 Poor Design	13387
+Poor Fair Good Very	19576
 Poor Households	11924
 Poor ICT Infrastructure	12917
 Poor International	14558
@@ -198,7 +205,7 @@ Poor Tracking and Communication Mechanisms. . Participants	4439
 Poor Undecided	17149
 Poor User Interface	13987
 Poor Vulnerable Other Poor Vulnerable	10763
-Poor and Vulnerable Households	16384
+Poor and Vulnerable Households	16384,3071
 Poor-quality	7836,1845,3851
 Poorer	10977,2647
 Poorest	10977,8,894,3536,189,59,80,1207,1491,796
@@ -211,8 +218,9 @@ Poorest Second Middle Fourth Ritchest	11879
 Poorest Second Middle Fourth Ritchest None	11879
 Poorest Wealth	11879
 Poorest. Even	11469
-Poorly	3133,450,3590,5232,2282,173,854,1443,380
+Poorly	3133,450,3590,5232,2282,173,854,1443,380,1870,114,63
 Poor’s and Fitch	13532
+Poverty Monitoring Pool Fund. Statistical	19519
 Poverty Poor	15604
 Power Pool	12233,166,1034,4670,213,221
 Power Pool WASH Water	17260
@@ -245,6 +253,7 @@ Southern African Power Pool. Every	10169
 Standard and Poor	14897
 Supply Chain Insecurity and Poor Verification of Imported	6936
 Swimming Pool Attendant	14760
+Ten Best Performing Councils and Poorest Performing	19544
 Thematic Trainer Pool	17287
 Thematic Trainer Pool and Deployment Plan	17287
 Thematic Trainer Pool. The Consultant	17287

@@ -26,6 +26,7 @@ Assembly's Third Ordinary Session	3749
 Assemblée Générale Ordinaire	18429
 Assemblées Générales Ordinaires	17485
 Assisted Medical Treatment Orders	13420
+Attestation Ord. No	19524
 Authority Orders	17243
 Automated National Standing Orders	18158
 B. Order State	5692
@@ -151,6 +152,7 @@ Estado de Direito. A Ordem	11436
 Estatuto da Ordem Profissional	15477
 European Investigation Order	10088
 European Production Order	10088
+Executive Agencies Order	19585
 Executive Order	2766,4,1092,585,685,84,557,1023,652,46,1736,524,373,1008,19,703,138,2046,5,555,2392,44,102,118,23,70,44,386,720
 Executive Order IN-4 Establish CNI Database	11857
 Executive Order Legal Notice No	1131
@@ -186,6 +188,7 @@ Guidelines and Orders	12062,6124,31
 Général de Division Abdoulaye MAIGA ORDONNANCE N	18003
 HABITAÇÃO E ORDENAMENTO DO TERRITÓRIO	15380
 HEREBY ORDERS AS FOLLOWS Article	16547
+High Court Ord. No	19524
 House of Parliament. Next Order. Disclaimer	10313
 House of Parliament. Next Order. PAPERS Hon	10313
 I-5 ORDONNANCE N	17815
@@ -212,6 +215,7 @@ Interim Orders The Court	14409
 Interlocutory Order. No Quorate Board of Directors	1919
 Interministerial Order No	10937,8297
 Internet Possession Ordinateurs	7829
+Interpretation Ord. No	19524
 Issuance of Executive Order	11857
 Issue Directions and Orders	17243
 JETÉ AUX ORDURES	13300
@@ -246,6 +250,8 @@ Legislative Orders	14884
 Les Ordres	17991
 Ley de Orden Público	4209
 Ligne Fixe Téléphone Mobile Ordinateur	15498
+Local Government Ordinance	19525
+Local Ord. No. Government Authorities	19525
 Local Purchase Order	12231
 MACRA Orders Airtel Malawi and TNM	7411
 MALI ORDONNANCE N	17899
@@ -278,7 +284,10 @@ Municipal Ordinance	12890
 Mº de CATASTRO Y ORDENACION DE TIERRAS	4209
 NOMINATION DANS LES ORDRES NATIONAUX Décret	16413
 NOTICE TO COMPLY WITH COURT ORDER	12924
-National Assembly Standing Orders	2742,7571
+Nation Order	19543
+Nation Order' Mon	19543
+Nation Order' Skip	19543
+National Assembly Standing Orders	2742,7571,9289
 National Assembly of Zambia Standing Orders	13387
 National Cybersecurity Agency Order	6787,36,4641
 National Flag. An Order	14861
@@ -320,6 +329,7 @@ ORDER PAPER	13131
 ORDER WITH ME’ OPERATORS INSIDE	13044
 ORDER. Order	13285
 ORDERS	15177
+ORDERS OF COURT	19524
 ORDERS SUBJECT MATTER MEMBERS	18436
 ORDERS TO PROTECT COMPLAINANTS FROM HARMFUL	11190
 ORDINAIRE DU COLLEGE DES CHEFS D’ETAT	18032
@@ -349,6 +359,8 @@ Octava Sesión Ordinaria	14215
 Officine de ORDONNANCES-ARRETES Pharmacie	17819
 Officine de ORDONNE	17819
 Oficial de Comunicación B1 Ordenanza A2 Ordenanza	4209
+Ord. No	19524
+Ord. Nos	19524
 Orda Africa	5690
 Ordalie Ilona Venise	16177
 Ordem	966,3181,1022,6189,2,21,54,1,98,6,361,3458,37,44,37,1626,1669,53
@@ -418,11 +430,15 @@ Ordens	10755,631,4054
 Ordens Executivas de Trump	2816
 Ordens Profissionais	11383
 Ordens de Transferência	10755
-Order	3,23,935,253,630,75,807,1,43,235,709,11,75,87,726,283,1400,127,499,526,46,1154,240,95,64,183,247,836,47,46,369,66,165,1,124,3,47,9,274,190,21,182,7,13,48,137,261,136,72,1,3,11,2,1,13,13,54,1,263,215,205,74,31,108,65,893,19,211,1,4,23,67,32,20,1,8,48,184,75,216,1204,239,42,105,10,13,237,37,838,36,32,250,1,14,6,2,73,24,42,15,330,5,101,70
+Order	3,23,935,253,630,75,807,1,43,235,709,11,75,87,726,283,1400,127,499,526,46,1154,240,95,64,183,247,836,47,46,369,66,165,1,124,3,47,9,274,190,21,182,7,13,48,137,261,136,72,1,3,11,2,1,13,13,54,1,263,215,205,74,31,108,65,893,19,211,1,4,23,67,32,20,1,8,48,184,75,216,1204,239,42,105,10,13,237,37,838,36,32,250,1,14,6,2,73,24,42,15,330,5,101,70,406,1,1,58,17
 Order Article	1214
 Order Balance	11131,3
 Order Book	18436
 Order Census The Cabinet Secretary	14410
+Order D	19585
+Order D.37	19585
+Order E.23	19585
+Order G.1	19585
 Order General	11131
 Order Honourable Members	14748
 Order Indonesia	11028
@@ -445,7 +461,11 @@ Order of Accountants and Auditors of Mozambique	6626
 Order of Architects	11941
 Order of Business	18436
 Order of Engineers	11941
+Order of Government	19518
+Order of Government GOVERNMENT NOTICE No	19564
 Order of Government Part THE FINANCE ACT	6921
+Order of Government. CHAPTER	19530
+Order of Government. THE NATIONAL PAYMENT SYSTEMS	19509
 Order of Magnitude	4126
 Order of National Independence	17240
 Order of Perpetual	8648
@@ -462,7 +482,7 @@ Orderlies for Mankayane	12977
 Orderly	14919
 Orderly Settlement	13474
 Orderly and Regular Migration	9838,4201,2835,418
-Orders	573,2588,146,273,281,749,4886,239,672,783,872,876,653,1151,127,10,28,486,2793,31,218,1,120
+Orders	573,2588,146,273,281,749,4886,239,672,783,872,876,653,1151,127,10,28,486,2793,31,218,1,120,970,59
 Orders Electricity Market	12062
 Orders First Schedule NATIONAL ASSEMBLY ADMINISTRATION	19161
 Orders ORDERS	18436
@@ -474,7 +494,7 @@ Orders and Regulations	10406
 Orders and Rules	16872
 Ordinaire	15660,32
 Ordinaire du Conseil	17986
-Ordinance	11955,935,1848,8,1178,690,1256,248,501
+Ordinance	11955,935,1848,8,1178,690,1256,248,501,905,1
 Ordinance Law No	11906
 Ordinance N	10979
 Ordinance No	2759,280,7149,7782
@@ -486,7 +506,7 @@ Ordinances	1891
 Ordinaria	16855
 Ordinarily	9507,1472,2060,69,4268
 Ordinario	16871
-Ordinary	1554,1071,4573,349,584,773,602,457,1001,833,459,77,69,908,1525,188,3076
+Ordinary	1554,1071,4573,349,584,773,602,457,1001,833,459,77,69,908,1525,188,3076,1415,11
 Ordinary Bill	11247
 Ordinary Bills	5872
 Ordinary Currently	16837
@@ -509,7 +529,7 @@ Ordinary Summit	3738,3714,2872,1840,476
 Ordinary Summit of Heads of State and Government	10169,4676
 Ordinary Summit of SADC Heads of State and Government	10169
 Ordinary-High Level	11956
-Ordinateur	10546,2744,16,35,34,1048,1214,2377,190,108,1038
+Ordinateur	10546,2744,16,35,34,1048,1214,2377,190,108,1038,67
 Ordinateur GUECE Guichet Unique	13341
 Ordinateur HD Hôpital de District HL7 Health	13306
 Ordinateur Téléphone	16644
@@ -545,7 +565,8 @@ Ordonnateurs	10876,4693
 Ordonne	15405
 Ordonner	17006
 Ordonriance	15584
-Ordre	436,301,1629,4090,555,659,173,393,1,562,425,63,55,138,1356,39,683,1732,44,71,1024,15,93,824,81,1,141,19,32,134,230,48,438,51,99,850,334,22,16,25,17,50,33,9,56,54,18,24,26,1,72,82,71,521,85
+Ordre	436,301,1629,4090,555,659,173,393,1,562,425,63,55,138,1356,39,683,1732,44,71,1024,15,93,824,81,1,141,19,32,134,230,48,438,51,99,850,334,22,16,25,17,50,33,9,56,54,18,24,26,1,72,82,71,521,85,443,31,8
+Ordre Centrale	19439
 Ordre Digital	557
 Ordre Intérieur	13334
 Ordre Intérieur Article	15027
@@ -615,13 +636,14 @@ Ordre du Mono. Art	19209
 Ordre du Mérite	17841,275
 Ordre du Mérite Agricole	17841
 Ordre du National LISTE DES TABLEAUX ET	15512
-Ordres	3396,7579,4567,143,27,85,2044,20,38,83,21,29
+Ordres	3396,7579,4567,143,27,85,2044,20,38,83,21,29,1469
 Ordres Délai	3396
 Ordres Nationaux	17812,29
 Ordres Produire	3396
 Ordres des PS Assurance	17882
 Ordures	18312
 P Public Order	13093
+PART VIII ORDERS OF COURT	19524
 PIU Ministry of Security and Public Order	15553
 PM Order	13418
 PREMIERE SESSION ORDINAIRE	16620
@@ -643,6 +665,7 @@ Planta de Ordenamento	15380
 Planta de Ordenamento Geral	15380
 Planta de Ordenamento. Artigo	15380
 Pointe-Noire. NOMINATION DANS LES ORDRES NATIONAUX	15780
+Police General Orders	19517
 Police Standing Orders	14760
 Police Standing Orders Volume	13361
 Polícia da Ordem Pública	11540
@@ -718,6 +741,7 @@ Remedial Orders and Compliance Mechanisms	3861
 Remuneration Order	13037
 Remuneration Orders	14742
 Repeals Kenya Nuclear Electricity Board Order	14422
+Repeals the Land Registry Ordinance	19524
 Report and Order Nos	4676
 Reports Ministry of Security and Public Order Relevant	15553
 Republic Order	18660
@@ -774,10 +798,10 @@ Social Order	14748
 Solidarité LOI ORDINAIRE L	16636
 South West Ordinance	12367
 Speaker’s Suspension Order Sparks Controversy	8352
-Standing Order	2367,2741,374,1762,8,3061,2425,10,371,7,261,953,501,2367,1228
+Standing Order	2367,2741,374,1762,8,3061,2425,10,371,7,261,953,501,2367,1228,1149
 Standing Order No	3746,9002,639,1355,3694
 Standing Order SO	14760
-Standing Orders	5273,5040,843,2231,204,1157,3410,278,31
+Standing Orders	5273,5040,843,2231,204,1157,3410,278,31,1118
 Standing Orders Committee	14748,3688
 Standing Orders Public Business	18436
 Standing Orders. Functions	18466
@@ -811,6 +835,7 @@ Transferts Monetaires Ordinaires	10963,1,21
 Transports des Ordres	17841
 Travail ORDONNANCE N	15419
 Tribunal's Suspension Orders	3700
+Trusts Ord. No	19524
 Twenty-third Ordinary Session	13370
 Twentythird Ordinary Session	4867
 U.S. Executive Order	6936
@@ -838,5 +863,6 @@ Vu la Déclaration du Conseil des Ordres Nationaux	17812
 WCO Members. Bookshop Order WCO	13051
 WEST AFRICAN STATES SIXTY-SIXTH ORDINARY SESSION	15374
 WRONG PAYMENT ORDERS VARIOUS GMD	16844
+Water Ordinance	19524
 World Order	4253
 XVII Sessão Ordinária	12842

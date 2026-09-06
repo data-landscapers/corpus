@@ -65,6 +65,7 @@ Ali Bongo Ondimba Visited New Delhi	16285
 Alibaba and Visa	11994
 Antares Vision	17039
 Antares Vision Group	17039
+Antenatal Care Visits	19544
 Applied Data Science and Data Visualization	14555
 Approve Payment System Vision	10767
 Astère NDUWAMUNGU Administrator Visitez	13630
@@ -153,6 +154,7 @@ CS Murkomen Visits NRB Offices	14518
 CSV Visibility	15232,3848
 Cameroon's Vision	10985
 Cameroun Vision	10975
+Cancer Prevention Program VIA Visual Inspection	19544
 Capacity Stakeholder Consultation VISION AND STRATEGIC	396
 Card and Visa	11955
 Catégorie Ecocash Lumicash Mobile App Visa	13390
@@ -171,7 +173,7 @@ Comment Visite	18409
 Commercial Visits	16275
 Commissioner for Refugees VAS Visa Adjudication System	5533
 Communication Vision	15034
-Communication and Visibility	4167
+Communication and Visibility	4167,15404
 Communications and Visibility	17922
 Communications and Visibility Officer	16371
 Communications and Visibility Strategy	7609
@@ -226,7 +228,7 @@ Departing Visitors	2775
 Description The GDD Visibility Tech Sprint	2203
 Description Visa	1174,1073
 Description Visa Inc	407
-Development Vision	10195
+Development Vision	10195,9408
 Diagrama da Visão Estratégica	11379
 Digital Economy Development Strategy Vision	3096
 Digital Ethiopia Vision	14151
@@ -251,7 +253,7 @@ Domaines Axes Gouvernance Vision Données	15583
 Décisions Visites	13300
 E VISTA BANK GUINEE SA VISTA	16623
 E-SIM Visiteurs	7620
-EAC Vision	12280,2666,3759
+EAC Vision	12280,2666,3759,814
 EAC. Visa-free	12164
 EAST AFRICA TOURIST VISA FEE COLLECTION	14546
 ECOWAS Vision	1264,3474,841,1873,1080,662,1314,3847,1789,995
@@ -263,6 +265,8 @@ ESCCOM. Visit	8916
 ESSP Vision Statement	14922
 East Africa Tourist Visa Fee Collection	14546
 East Africa Vision	12413
+East African Community Vision	19542,60
+East African Vision	19519
 Ecobank and Visa	6355
 Economie Numérique Vision	17824
 Education Vision	13956
@@ -305,6 +309,7 @@ Formulação da Visão	15535,3259
 Foster Investment and Growth Djibouti Vision	13868
 Foundation and Visibility	6442
 Founder and Director of Abroadscope and Visas Abroad	10173
+Four Visited Regions	19541
 Frais de Visas	15999
 Francisca da Caridade Felix Chitanga Visoki	10780
 Front-end Dashboards for Visualization	13395
@@ -334,7 +339,9 @@ Goals of Vision	10964,21
 Golden Visa	14828,3
 Golden Visa Scheme A Golden Visa	14828,3
 Gouvernance Financière Visite	19305
-Government Vision	3891
+Government Architecture Vision	19510
+Government Vision	3891,15685
+Government Vision Architecture	19576
 Government of Liberia. GoL. Liberia National Vision	16872
 Government's Vision	14615
 Government. Vision	14464
@@ -429,6 +436,7 @@ Justice PRESIDENCE DE LA REPUBLIQUE VISA	17826
 Justice Sector Reform. Visit	18477
 K.C.D. Mohadi's Visit	3760,9683
 KAZOZA VISION FINANCE SOLIDEK FSTE	13390
+Kagera Salaam Visited Regions Extent of Delay	19541
 KeNIC Visit	6946
 Kenya Visi	6432
 Kenya Vision	359,540,6047,602,283,3943,377,41,2113
@@ -555,7 +563,7 @@ National Civil Registration and Vistal Statistics System	12138
 National Development Plan IV and Uganda's Vision	4217
 National Development Plan IV and Vision	4217
 National Development Plan Vision	11193
-National Development Vision	5883,2393,2315,7143
+National Development Vision	5883,2393,2315,7143,1797,72
 National Development Vision Plan	5883
 National Development Visions	16858
 National Development Zimbabwe Vision	12512
@@ -601,6 +609,7 @@ Number of Visitors	2775
 O Visites	15999
 O6 DIRECTION TECHNIQUE VISITES D’INSPECTION ET	15670
 OAG VALUES OAG VISION	13420
+OBJECTIFS VISES PAR LA MISE EN	19501
 OBJECTIVES VISION	12552
 OBJETIVOS E VISÃO DO SEN	15535
 OCEANO ATLÂNTICO MAIO BOA VISTA SAL	16325
@@ -645,16 +654,19 @@ Payment System Vision	7928
 Payments System Vision	4848,1568,283,1,2870,585,498,66,419
 Peek Vision	10846
 Peer Learning Visit Hosted	11131
+People's Republic of China IPC Visas English	19522
 People-Centred Vision	9582
+Percentage Of Anc First Visit	19544
 Permanent Secretary Vision Mission Roles	14746
 Persons With Visual Impairment	12977
 Piwowar and Vision	12090
 Plan VUP Vision Umurenge Programme	14942
 Planned Site Visits	15905
 Planned Visit	14545
+Plus Visit Coverage And Anc	19544
 Police Visibility	15845
 Police Vision	14760
-Policy Vision	13320,3563
+Policy Vision	13320,3563,2628
 Policy Vision and Aspirations	13982
 Policy and Payment System Vision	12000
 Policy and Strategic Vision	15372
@@ -701,6 +713,7 @@ Rail Vision	4065
 Realização de Visitas	10783
 Recent Visits From India	2667
 Refugees VFS Visa Facilitation Services	11218
+Region District Registration Centre Visited Operation	19541
 Region Visit Region	12211
 Registered Motor Vehicles For Visitors	12454
 Relationship Between Vision	15604
@@ -765,6 +778,7 @@ Sierra Leone. VISION	18444
 Simandou Vision	5089
 Simplified Visa Regime	12389
 Site Visit	13527,1239,314
+Site Visit Appendix	19585
 Site Visits	17367
 Site Visits The TWG	17367
 Situation Before the Learning Visit The TCM	13070
@@ -778,9 +792,11 @@ Somalia's Centennial Vision	15004
 Somalia's National Transformation Plan and Centennial Vision	15029
 Somalia. High Level Visits	15119
 Sommaire VISAS	10966
+Songwe Kagera Dodoma Salaam Visited Regions	19541
 South African Health Vision	396
 South African National Development Plan Vision	396
 South Sudan Vision	18612
+Southern African Development Community Vision	19542
 Southern African Development Community. Vision	9959
 Special Issues Descriptive Papers Visualisations About	12486
 Spinning Enhanced Visible and Infrared Imager	15907
@@ -804,6 +820,7 @@ Strategic Plan Vision Mission Overall Outcome	17364
 Strategic Vision	10819,1638,644,2372,131,75,533
 Strategic Vision The Ministry of Gender and Children	18512
 Strategic Vision for Education	15604
+Strategy Vision	19576
 Strategy Vision and Objectives Digital Government Platform	12359
 Streamlined Visa Processes	12376
 Strengthening Destination Marketing and Visibility	14829
@@ -824,13 +841,18 @@ TIME OF VISIT	582
 TRANSFORMATEUR Viser	17896
 TRIBUNAL DE CONTAS VISA	11473
 TRV Temporary Residence Visa PPP Public-Private	11986
+TSA Board and Management Extend Courtesy Visit	19534
+TSA. Distinguished Visit	19534
+TSMP Vision	19519
 TTOS Visa Application System	11986
-Tanzania Development Vision	1261,4907,409,938,248,2336,4300,2378
-Tanzania Vision	10040
-Tanzania's Development Vision	6927
+Tanzania Development Vision	1261,4907,409,938,248,2336,4300,2378,2734,8,1,22,60,7
+Tanzania National Development Vision	19532
+Tanzania Vision	10040,9504
+Tanzania Zanzibar Development Vision	19542
+Tanzania's Development Vision	6927,12604,81
 Tanzania's National Development Vision	11625
-Tanzania’s Development Vision	9897,4375
-Tanzania’s Vision	3632
+Tanzania’s Development Vision	9897,4375,5272
+Tanzania’s Vision	3632,15954
 Team Concludes Strategic Visit	4271
 Tech Behind the Vision	10983
 Tech Visa Plans	2610
@@ -918,12 +940,13 @@ VISAT	14856
 VISAs	12734
 VISIBILITÉ ET COMMUNICATION	19150
 VISIBLE POLICING SOUTH AFRICAN POLICE SERVICE	11188
-VISION	718,912,3615,288,5325,102,1026,337,35,553,9,32,1,9,7,3,505,55,472,499,26,223,195,609,27,612,425,21,242,1,1,57,26,3,1129,22,184,163,420,361
+VISION	718,912,3615,288,5325,102,1026,337,35,553,9,32,1,9,7,3,505,55,472,499,26,223,195,609,27,612,425,21,242,1,1,57,26,3,1129,22,184,163,420,361,270,11,13
 VISION AND ATLAS III.1 Power	11366
 VISION AND MISSION	2776,11947,50,192,1920
 VISION AND MISSION OUR VISION	14773
 VISION AND MISSION STATEMENT	16872
 VISION AND MISSION STATEMENTS	14879
+VISION AND MISSION TSMP II	19519
 VISION AND MISSION Vision	2776,13267
 VISION AND OBJECTIVES OF THE MONITORING	16041
 VISION AND STRATEGIC OBJECTIVES	14752
@@ -983,6 +1006,8 @@ VISITES D’INSPECTION DE ROUTINE BAILLEURS	15670
 VISITES HEURE	13300
 VISITEZ AUSSI CES SITES	17587
 VISITEZ LE SITE INTERNET DE L’ACPCE	16249
+VISITS COVERAGE BY REGIONS	19544
+VISITS COVERAGE BY REGIONS Table	19544
 VISITS RESULT CODES	582
 VISITS TO PLACES OF DETENTION	13097
 VISON	17235
@@ -1111,6 +1136,7 @@ VisasNews Take The Accès Maroc	14234
 VisasNews and Action-Visas	14234
 VisasUpdate.com	14235
 VisasUpdate.com Editorial Team The Problem	14235
+Visasi	19517
 Visasupdate and Action-Visas	14235
 Viscosidade	15503
 ViseUnepersonneoUUncorpsexpressémentnommé	15397
@@ -1118,6 +1144,7 @@ Visee	15584
 Viser	18105,1115
 Viseu	17103
 Visham Khoosy	11819
+Vishawishi	19535
 Vishikwambi	6019
 Vishing	6261,3355
 Visi Perezida	14862,1,164
@@ -1126,7 +1153,7 @@ Visi Perezida Ingingo	15027
 Visi Perezida. Ishobora	15027
 Visi-Perezida	14862
 Visibilidade	18801
-Visibility	3787,1726,462,412,1187,1961,946,717,758,961,2110
+Visibility	3787,1726,462,412,1187,1961,946,717,758,961,2110,4531
 Visibility Can	8644
 Visibility DigiAfricaLab	10725
 Visibility and Communication Officer Email	13614
@@ -1145,7 +1172,7 @@ Visio	18194
 Visioconférence	15637,784
 Visioconférence Dr Adama B. DIAKITE Conseil	17845
 Visioconférence Microsoft Teams	16377
-Vision	21,215,159,1,144,400,18,3,9,28,156,50,14,13,26,5,176,116,148,112,71,17,194,207,140,252,62,18,4,172,47,15,37,1,7,44,143,153,67,10,12,26,174,63,67,2,1,19,59,40,15,1,1,10,4,59,98,26,15,30,5,15,18,25,4,31,6,48,2,77,92,4,4,27,105,27,65,14,1,49,27,29,31,12,7,54,9,18,40,66,1,131,1,2,1,1,97,9,19,15,8,19,7,145,1,59,33,73,52,54,82,138,43,21,41,3,74,52,25,1,99,19,58,49,20,31,59,38,9,112,91,25,10,9,63,27,69,99,17,1,26,178,10,85,26,1,167,85,128,77,28,2,1,36,112,33,59,14,53,70,5,65,131,4,55,32,50,136,6,133,13,137,157,51,6,66,56,179,83,6,116,8,51,198,55,94,18,91,85,10,202,110,36,16,39,1,43,8,10,155,1,7,11,69,6,26,368,24,14,198,37,49,4,27,23,49,10,11,111,35,43,3,65,4,1,1,10,19,2,28,4,9,4,12,4,25,9,45,1,13,3,14,7,5,3,7,55,36,32,32,53,2,18,123,9,3,3,4,2,11,7,5,22,3,1,1,2,1,1,5,3,1,1,14,4,28,1,17,25,1,20,33,3,16,71,70,5,25,5,7,9,2,2,1,1,12,30,1,1,14,1,12,11,4,1,8,34,11,1,14,1,1,14,7,6,1,1,10,1,1,55,14,1,7,10,35,1,10,7,177,3,3,27,24,19,27,26,450,1,22,81,77,33,19,49,1,5,7,2,7,1,1,14,18,2,9,6,23,38,3,16,3,8,5,4,26,10,3,8,3,1,18,32,26,13,94,8,47,62,176,32,25,13,7,1,21,19,1,26,6,6,24,20,39,7,44,3,3,2,3,44,27,37,103,74,95,64,85,12,61,38,39,26,115,75,1,7,6,7,34,177,6,2,1,2,11,9,2,1,25,4,9,3,24,20,4,3,7,11,92,13,15,23,10,111,104,99,75,46,69,93,24,54,12,6,1,1,1,11,4,7,6,6,3,12,52,117,14,28,64,117,5,6,9,13,3,2,81,44,5,31,1,43,35,21,89,72,49,90,4,14,30,15,32,18,10,34,18,1,18,142,29,41,41,15,13,6
+Vision	21,215,159,1,144,400,18,3,9,28,156,50,14,13,26,5,176,116,148,112,71,17,194,207,140,252,62,18,4,172,47,15,37,1,7,44,143,153,67,10,12,26,174,63,67,2,1,19,59,40,15,1,1,10,4,59,98,26,15,30,5,15,18,25,4,31,6,48,2,77,92,4,4,27,105,27,65,14,1,49,27,29,31,12,7,54,9,18,40,66,1,131,1,2,1,1,97,9,19,15,8,19,7,145,1,59,33,73,52,54,82,138,43,21,41,3,74,52,25,1,99,19,58,49,20,31,59,38,9,112,91,25,10,9,63,27,69,99,17,1,26,178,10,85,26,1,167,85,128,77,28,2,1,36,112,33,59,14,53,70,5,65,131,4,55,32,50,136,6,133,13,137,157,51,6,66,56,179,83,6,116,8,51,198,55,94,18,91,85,10,202,110,36,16,39,1,43,8,10,155,1,7,11,69,6,26,368,24,14,198,37,49,4,27,23,49,10,11,111,35,43,3,65,4,1,1,10,19,2,28,4,9,4,12,4,25,9,45,1,13,3,14,7,5,3,7,55,36,32,32,53,2,18,123,9,3,3,4,2,11,7,5,22,3,1,1,2,1,1,5,3,1,1,14,4,28,1,17,25,1,20,33,3,16,71,70,5,25,5,7,9,2,2,1,1,12,30,1,1,14,1,12,11,4,1,8,34,11,1,14,1,1,14,7,6,1,1,10,1,1,55,14,1,7,10,35,1,10,7,177,3,3,27,24,19,27,26,450,1,22,81,77,33,19,49,1,5,7,2,7,1,1,14,18,2,9,6,23,38,3,16,3,8,5,4,26,10,3,8,3,1,18,32,26,13,94,8,47,62,176,32,25,13,7,1,21,19,1,26,6,6,24,20,39,7,44,3,3,2,3,44,27,37,103,74,95,64,85,12,61,38,39,26,115,75,1,7,6,7,34,177,6,2,1,2,11,9,2,1,25,4,9,3,24,20,4,3,7,11,92,13,15,23,10,111,104,99,75,46,69,93,24,54,12,6,1,1,1,11,4,7,6,6,3,12,52,117,14,28,64,117,5,6,9,13,3,2,81,44,5,31,1,43,35,21,89,72,49,90,4,14,30,15,32,18,10,34,18,1,18,142,29,41,41,15,13,6,145,8,1,11,7,4,36,1,5,19,9,3,7
 Vision 2050	2998,400
 Vision A Clientele	1282
 Vision Accelerate	1885
@@ -1175,9 +1202,11 @@ Vision Djibouti	3970,597,252,1384,1025,228,259,1,6125,25,28,1,19,24,3,755,3067
 Vision Doing	12280
 Vision Drawing	16884
 Vision D’ici	18121
+Vision Effective	19520
 Vision Empowering	19042
 Vision En	11944,5935,104
 Vision Ensure	1000
+Vision Establish	19531
 Vision Existing Foundation Vision	4528
 Vision For Seychelles	18903
 Vision Fostering	9146
@@ -1320,7 +1349,7 @@ Visions	6971,5117,2859,18
 Visions AlgeriaAngolaBenin Those Who Want	9989
 Visions and Values	11028
 Visionware. São	15899
-Visit	718,1397,4,385,1,1255,158,1,28,1443,965,284,536,7,187,1039,603,520,142,520,666,297,129,13,339,365,207,124,107,1,24,35,544,399,89,44,732,133,332,684,121,282,415,660,145,69,138,729,167,166,9,72,59,569
+Visit	718,1397,4,385,1,1255,158,1,28,1443,965,284,536,7,187,1039,603,520,142,520,666,297,129,13,339,365,207,124,107,1,24,35,544,399,89,44,732,133,332,684,121,282,415,660,145,69,138,729,167,166,9,72,59,569,486
 Visit ACERD	11923
 Visit AFRAA	10723
 Visit Buchanan City	17099
@@ -1369,8 +1398,21 @@ Visite du Marché	16012
 Visite du Ministre	18111
 Visite du Pape Léon XIV	15854
 Visite-nos	18793
-Visited	3245,11,1686,664,283,454,183,8443
+Visited	3245,11,1686,664,283,454,183,8443,4572
+Visited District	19541
+Visited District Region District	19541
 Visited Egyptian Knowledge Bank Cabinet	9332
+Visited Region Region Age Category Average	19541
+Visited Regions	19541
+Visited Regions Dar	19541
+Visited Regions District	19541
+Visited Regions Kagera	19541
+Visited Regions Percentage	19541
+Visited Regions Region No. of Applications Applications	19541
+Visited Regions Region Submitted Birth Returned	19541
+Visited Regions Region Submitted Death Returned	19541
+Visited Regions.......37 Table	19541
+Visited Registration Centres	19541
 Visites	12043,1257,1322,1226,53,98,1843,171,105,204,75,829
 Visitez	16339
 Visiting	736,1252,4641,9973
@@ -1388,7 +1430,9 @@ Visitor's Visa Business	11986
 Visitors	1154,1621,4666,2871,1674,424
 Visits	1778,3755,6046,407,1058,517,1299,412,892,73,19,21,8,46,808,101,1,775,147,57,158,313,166,427
 Visits Review	13332
+Visits and ANC Visit	19544
 Visité	10711
+Visiwa Vidogo	19592
 Visiwani	2868
 Visión	1701,15724
 Visoki	10780
@@ -1402,11 +1446,14 @@ Vista Group Chairman Simon Tiemtoré	18507
 Vista Group and EIB	18507
 Vista Gui	18507
 Vistas	16893
+Visteon	19438
+Visteon Corporation	19438
+Visteon Tunisia	19438
 Visto	11530,488,3340,1,21,1513,1857,2,1,19,1,122,1
 Vistoria	11445,13
 Vistoriar	15526
 Vistorias	2437
-Visual	1988,1873,5206,61,3125,724,1611,439,156,1369,312,142,93,15,1329
+Visual	1988,1873,5206,61,3125,724,1611,439,156,1369,312,142,93,15,1329,1122
 Visual Auditiva Motora Intelectual Visual	16864
 Visual Auditiva Motora Visual	16920
 Visual Cognition Lab	7151
@@ -1489,6 +1536,8 @@ Year Vision	11718
 Zambia AI Strategy and Vision	12356
 Zambia's Vision	7779,5568,1,314
 Zambia’s Vision	12356,118
+Zanzibar Development Vision	19519
+Zanzibar. Readymade Visualization	19624
 Zanzibar’s Development Vision	11142
 Zimbabwe National Vision	958
 Zimbabwe Vision	4528

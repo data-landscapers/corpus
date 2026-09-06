@@ -121,12 +121,16 @@ Air Seychelles	18957
 Air Seychelles Category-D VIP	18964
 Air Seychelles and Emirates	19125
 Air Tanzania	18360
+Air Tanzania Company Limited	19584
+Air Tanzania Company Limited Level	19584
+Air Tanzania Company Ltd	19584
 Air Temperature	17001
 Air Traffic	261
 Air Traffic Control Tower	14830
 Air Traffic Management System	261
 Air Transport	7452,3271,2337
 Air Transport Agreement	9275
+Air Transport Agreements	19602
 Air Transport Markets	18555
 Air Transport Pilot License BEC Broad	2775
 Air Transport Services	18555
@@ -152,7 +156,7 @@ Airbus Defence and Space	2242,3163,16,17,735
 Airbus Defence and Space President Alain Fauré	5438
 Airbus. ANGEO-1	5438
 Aircra	14760
-Aircraft	736,16270
+Aircraft	736,16270,2512
 Aircraft Equipment	14008,831,2133
 Aircraft Movements	2775
 Aircraft Protocol	14008,831
@@ -219,7 +223,7 @@ Airports of Mauritius	10045
 Airports of Mauritius Co Ltd	14830
 Airspace	16552,454
 Airstrip	14742
-Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29,44,41,51,7,531,13,2,407,31,755,17,18,42,27,82,13,19,116,42,125,33,262,167,198,77,36,46,20,23,17,10,484,48,156,358,333,525,262,466,692,32,3,1,10,24,40,6,196,34
+Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29,44,41,51,7,531,13,2,407,31,755,17,18,42,27,82,13,19,116,42,125,33,262,167,198,77,36,46,20,23,17,10,484,48,156,358,333,525,262,466,692,32,3,1,10,24,40,6,196,34,284
 Airtel AI Spam Alert Service. Airtel	2558
 Airtel Africa	701,23,62,105,628,502,112,196,143,86,239,214,354,85,116,122,71,108,76,499,55,84,315,110,1133,107,1,19,23,50,11,117,202,39,143,81,163,196,354,18,279,107,82,596,144,1126,35,52,128,16,261,831,3039,13,135,167,2135,923
 Airtel Africa CEO	5802
@@ -478,7 +482,7 @@ Bharti Airtel Telecom	18957
 Bharti Airtel's Airtel Chad	10841
 Bilateral Air Service Agreements	13123
 Bilateral Air Services Agreement	8006,10951
-Bilateral Air Services Agreements	14935
+Bilateral Air Services Agreements	14935,4667
 Biometric Strict Air-gapped Sovereign	5244
 Bissau Airport	11553
 Bissau International Airport	11575
@@ -533,6 +537,7 @@ Class Air Mail	11851
 Comment Royal Air Maroc	8797
 Communications Authority. Airtel	8872
 Compagnie Air Côte	2342
+Comprehensive Air Transport Agreement	19396
 Concrete AST EX AIR AFRIQUE	16552
 Congo Airtel	9997
 Contact Us National Communications Authority Airport	9109
@@ -589,6 +594,7 @@ Freight and Mail for Air Transport	18555
 Frogfoot Air	10735,524
 Fully Air Conditioned Rooms	14778
 G and MTN AirFibre	10793
+G.3 Bastola Air Gun Rifle AK	19517
 GBON Surface and Upper Air	18787
 GBON Upper Air Station	16947
 GLO MTN EMTS AIRTEL SMILE IHS	3862
@@ -603,6 +609,7 @@ Globacom and Airtel Africa	7560
 Grand Bel Air	14830
 Greenfield Airport	5247
 H SOCIETE BEL AIR MINING SA	16623
+Handling System AMIS Airport Management Information	19533
 Harare International Airport	4298
 Hargeisa HOL Airstrike	3637
 Harper Airstrip	16947
@@ -620,7 +627,9 @@ Includes AirQo	676
 India's Airtel	2133,1433
 Indicator for Monitoring Budget Air Pollution	1988
 Information des Aires Protégées	18306
-International Air Transport Association	9895,465,363,2319,81,1286
+Int Airports China	19532
+International Air Transport Association	9895,465,363,2319,81,1286,5175
+International Air Transport Guidelines	19602
 International Airport	5147
 International Airport Hospital	11986
 International Airport. Schreiber	8137
@@ -633,6 +642,7 @@ Investisseur Air	4567
 Investisseurs Air	4567
 Involving Ethiopian Airlines Flight ET	16961
 Iran Air	15676
+JOT Kilimanjaro Airports Development Company Limited	19584
 James Spriggs Payne Airfield	16947
 Jomo Kenyatta International Airport	2775,2632,676
 Joyce Onyeagoro Airtel Uganda	7389
@@ -651,6 +661,8 @@ Kenya Airways and Qatar Airways	14668
 Kenya. For Airtel	8872
 Kenyatta International Airport	359
 Kigali International Airport	5469,9669
+Kilimanjaro Airports Development Company Level	19584
+Kilimanjaro Airports Development Company Limited	19584
 King Air	16528
 King Air Industria	6486,857,930,642,5758
 King Shaka International Airport and Lanseria International	9895
@@ -715,6 +727,7 @@ Medical Air Gokwe	4896
 Meteorological Service for International Air Navigation	14732
 Mfuwe International Airport	5247
 Min Read Airtel Malawi Plc and TNM	7525
+Mining Corporation TAA Tanzania Airports Authority	19584
 Minister. Air	16970
 Misrata Air Force Base	11131,3
 Mobile Subscriptions Airtel Networks Kenya Limited	6946
@@ -729,6 +742,8 @@ Moov Africa Gabon Telecom and Airtel Gabon	3963
 Moov Africa and Airtel	6857
 Morgan Air Cargo	6946
 Moshoeshoe I International Airport	12710,32
+Msalato International Airport	19602
+Mseto Airwing Special Unit	19585
 My Airtel	4657
 Mzuzu Airport	13060,62
 NAF Airstrikes Cripple Terrorist Camp	4738
@@ -868,7 +883,8 @@ Tambo International Airport and Cape Town	8137
 Tambo International Airport. Home Affairs	10173
 Tambo International Airport. Media	9076,159
 Tambo and Cape Town International Airports	11236
-Tanzania Airports Authority	5883
+Tanzania Airport Authorities Level	19584
+Tanzania Airports Authority	5883,13701
 Tapeta Airstrip	16947
 Tassili Airlines Révision	16103
 TechCabal Financial Intelligence Airtel Africa Revenue	8727

@@ -1,6 +1,7 @@
 A- Renewable Energy Percentage	7548
 A- Renewable Energy Sourcing Criterion A1-	7548
 A. Renewable Energy Support and Access Accelerator	12595
+A. The Use of Clean and Renewable Energy	19602
 A1.1.1.1 Renforcer	10858
 A2.4.1.1.1 Renforcer	17983
 A3.2.2.7.NA A3.2.2.7.NA A3.2.2.7.NA Renforcer	10858
@@ -27,6 +28,7 @@ AUTONOMISATION ECONOMIQUE DES FEMMES Renforcer	15999
 AUTRES DEMANDES DE RENOUVELLEMENT	998
 AUTRES DEMANDES DE RENOUVELLEMENT PERMISSIONNAIRE REFERENCE	998
 Abstract Renewable	12178
+Accumulated Land Rent Liabilities of TZS	19585
 Action IX.1.2 Renforcer	13306
 Action Renforcement	10858
 Activités A3O2R2.1 Renforcement	15580
@@ -346,6 +348,7 @@ FRELIMO PODEMOS RENAMO MDM	12201
 FRELIMO RENAMO PODEMOS M R PAHUMO	12201
 FRELIMO and RENAMO	12201
 FY17 Renewable Energy Solar	15702
+Facility Rental	19584
 Federal Government’s Renewed Hope Agenda	5765
 Federal Government’s Renewed Hope Smallholder Support	5765
 Federal Republic ofNigeria's Health Sector Renewal	4301
@@ -609,6 +612,9 @@ LISTE DES PERSONNES RENCONTRÉES LORS	18015
 LMS and RENU-	15164
 La Renaissance	15603,2380
 La Société Renco Gestion Immobilière	15426
+Land Rent	19585
+Land Rent S	19585
+Land Rent..................................35 Table	19585
 Large Scale Renewable Energy and Power Infrastructure	12576,1
 Laura Rennie	14472
 Le Béninois René Fadonougbo	8016
@@ -648,6 +654,7 @@ MW. PILLAR II ADOPT DISTRIBUTED RENEWABLE	18795
 MYHYDRO RENEWABLES SARLU	15670
 Madagascar. Renforcer	14662
 Madeleine Orlane RENGUILA IKANA	16231
+Magic Rentrée	19418
 Mailbox Rental	12395
 Mali PM Rendre	17845
 Mali Telecoms Licence Renewal	1440
@@ -737,6 +744,7 @@ OS.1.1. Renforcer	15722
 OS1.I1 Renforcer	17860
 OS2- Renforcer	15848
 OSC. Renforcement	13325
+Occupancy Purchased Rented	19554
 Odile Renaud-Basso	4663
 Old Rent	15473
 Online Design Renewals	11250
@@ -1086,7 +1094,7 @@ Renew In-Law’s Family’s Passports. He Makes	7176
 Renew Licences Online Renew	18935
 Renew Passport	11877
 Renew Vehicle License	18935
-Renewable	428,290,71,181,848,10,132,2568,368,10,341,553,991,567,44,144,2,2765,913,346,291,90,303,5,138,113,621,677,268,2,402,535,10,36,876,249,775,33,143,111,7,1201,801
+Renewable	428,290,71,181,848,10,132,2568,368,10,341,553,991,567,44,144,2,2765,913,346,291,90,303,5,138,113,621,677,268,2,402,535,10,36,876,249,775,33,143,111,7,1201,801,222
 Renewable Capacity Statistics	11140
 Renewable Energ	16851
 Renewable Energies	16900
@@ -1174,7 +1182,7 @@ RenewableEnergy	13647
 Renewables	11228,344,620,64,5,2484,202,513,1800
 Renewables Contributor	17260
 Renewables-based	11572
-Renewal	736,26,724,264,127,850,1134,26,1778,767,1175,4348,409,265,45,331,37,29,250,50,653,398,305,46,120,284,28,764,882,399,1212,79,342
+Renewal	736,26,724,264,127,850,1134,26,1778,767,1175,4348,409,265,45,331,37,29,250,50,653,398,305,46,120,284,28,764,882,399,1212,79,342,626
 Renewal A Licence	5665
 Renewal Annual	736
 Renewal First	12364
@@ -1190,6 +1198,7 @@ Renewal of Card	16088
 Renewal of Contracts	12972
 Renewal of Driving License	12333
 Renewal of EU	9067
+Renewal of Identity	19528
 Renewal of Jicense Section	16851
 Renewal of Licence D5	17250
 Renewal of Licence PART C	17250
@@ -1225,7 +1234,7 @@ Renforccment	10712
 Renforce	10876,2801
 Renforcemen	18316
 Renforcemenit	15999
-Renforcement	643,355,249,649,446,97,389,47,91,415,15,141,67,409,2,4,1446,129,241,547,196,381,310,286,714,308,116,198,65,450,59,772,238,237,146,16,2,4,95,10,959,99,68,1179,11,5,19,16,34,58,89,155,12,48,52,52,584,25,22,16,1,1,132,174,585,43,31,13,6,5,14,7,42,38,3,2,38,26,1,23,12,27,8,2,2,8,6,8,23,30,49,53,35,25,28,23,13,1,11,158,5,5,43,34,45,1,6,44,87,17,47,91,1,7,13,5,35,33,8,3,723,192,196,6,1,1,1,15,12,7,3,3,16,6,39,27,5,5,30,2,27,35,23,3,2,16,1,65,5,57,37,5,6,9,16,2,15,7,54,2,1,9,4,510,16,18,7,98,50,35,66,5,18,11,38,3,4,59,6
+Renforcement	643,355,249,649,446,97,389,47,91,415,15,141,67,409,2,4,1446,129,241,547,196,381,310,286,714,308,116,198,65,450,59,772,238,237,146,16,2,4,95,10,959,99,68,1179,11,5,19,16,34,58,89,155,12,48,52,52,584,25,22,16,1,1,132,174,585,43,31,13,6,5,14,7,42,38,3,2,38,26,1,23,12,27,8,2,2,8,6,8,23,30,49,53,35,25,28,23,13,1,11,158,5,5,43,34,45,1,6,44,87,17,47,91,1,7,13,5,35,33,8,3,723,192,196,6,1,1,1,15,12,7,3,3,16,6,39,27,5,5,30,2,27,35,23,3,2,16,1,65,5,57,37,5,6,9,16,2,15,7,54,2,1,9,4,510,16,18,7,98,50,35,66,5,18,11,38,3,4,59,6,37,30,9,36
 Renforcement Combler	998
 Renforcement Démocratique	19271
 Renforcement Innovation	18426
@@ -1276,7 +1285,7 @@ Renforcement du Système	17983
 Renforcement du Système Educatif	11916
 Renforcement du Système de Protection Social Réalisé Réalisé	16012
 Renforcement du Système de Santé	16224,1658
-Renforcer	643,355,1567,70,331,150,230,10,40,742,1239,823,689,70,265,431,167,98,147,489,335,3,187,460,127,851,189,4,5,100,41,16,2,89,10,164,805,83,1263,11,40,23,26,43,35,167,42,41,19,14,52,91,395,136,54,4,5,1,1,5,42,2,1,7,26,7,42,40,728,84,19,3,4,12,30,26,12,3,41,25,24,35,4,10,2,14,63,47,40,13,35,2,4,47,10,13,14,11,68,46,141,36,42,91,160,5,15,5,6,18,37,15,3,723,394,3,8,3,4,12,1,6,3,3,1,13,2,15,2,13,14,1,37,30,19,24,7,14,26,19,44,3,122,6,9,10,3,100,465,42,16,25,21,2,16,44,100,71,29,31,10,21,29,8
+Renforcer	643,355,1567,70,331,150,230,10,40,742,1239,823,689,70,265,431,167,98,147,489,335,3,187,460,127,851,189,4,5,100,41,16,2,89,10,164,805,83,1263,11,40,23,26,43,35,167,42,41,19,14,52,91,395,136,54,4,5,1,1,5,42,2,1,7,26,7,42,40,728,84,19,3,4,12,30,26,12,3,41,25,24,35,4,10,2,14,63,47,40,13,35,2,4,47,10,13,14,11,68,46,141,36,42,91,160,5,15,5,6,18,37,15,3,723,394,3,8,3,4,12,1,6,3,3,1,13,2,15,2,13,14,1,37,30,19,24,7,14,26,19,44,3,122,6,9,10,3,100,465,42,16,25,21,2,16,44,100,71,29,31,10,21,29,8,31,26,95
 Renforcer PROGRAMME	10712
 Renforcer la ANSD	18291
 Renforcer la Arrêtés	17842
@@ -1376,7 +1385,7 @@ Rentabilidade	18793
 Rentabilité	17640,190,233
 Rentabilizar	1701
 Rentabilização	11396,1
-Rental	418,1526,11038,1796,695,1641
+Rental	418,1526,11038,1796,695,1641,2471
 Rental Compliance	17105
 Rental Compliance System	17216
 Rental Income Tax	15014
@@ -1432,6 +1441,7 @@ Rural and Renewable Energy Agency of Liberia	17257
 Rural and Renewable Energy Consultant Sylvain Henri	12195
 Réformes Rentabilité	18316
 Région Analamanga Commune Antananarivo Renivohitra	14489,1
+République Renouvellement	19436
 République du Congo. R5. Renforcer	15493
 Résultat I.5 Rendre	13306
 S and Renault	2096

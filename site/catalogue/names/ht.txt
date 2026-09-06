@@ -10,6 +10,7 @@ Clients HT	15670
 Core EP3 XML HTML Citation Export	10878
 Criptografia HTTPS	794
 DISTRIBUTION D’ÉNERGIE Postes HTA	16714
+DT HT	19373
 Distributeurs Automatiques de FCFA HT POUR	17833
 Distributeurs Automatiques de HT	17833
 Données des Réseaux Electriques Longueur de Ligne HTA	16714
@@ -17,6 +18,8 @@ E-alert HT	17833
 ECHANTILLON DES POSTE HTA	10975
 EUR-Lex HTML	6476
 Economic Development Board of Madagascar HTTPS	14438
+Euro HT	19441
+Euro HTVA	19441
 F CFA HT	5826
 F HT	17833
 F HT PAR Encaissement	17833
@@ -113,6 +116,7 @@ Human Capital Development HTS HIV Testing	12976
 Hôpital Général HTA	15423
 Implement HTTPS	14441
 Incidence of HT	18963
+JavaScript and HTMLetc	19533
 KB HTML	6477
 LEX.AO HTML	4218
 Le Africana HT	17833
@@ -143,6 +147,9 @@ SC0502 HTML	6477
 Scdnario Optimiste HT	14479
 Sexe Diabète HTA Noma N	19226
 Soutirage Clients HT	10975
+TND HT Montant TTC	19441
+TND HT Offres	19441
+TND HTVA	19441
 TRANCHES FRAIS HT TRANCHES FRAIS HT	17833
 TRANCHES FRAIS TRANCHES FRAIS HT HT	17833
 Transport HT	15542

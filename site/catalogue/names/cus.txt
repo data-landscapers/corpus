@@ -213,14 +213,15 @@ Custo-eficácia	11547
 Custodial	8840
 Custodial Account	11233
 Custodian	1214,11496,1835,299,153
+Custodian of Enemy Property	19524
 Custodians	4583,8299,25,2127
 Custodianship	18904
-Custody	9437,1739,3399,3981
+Custody	9437,1739,3399,3981,952
 Custody and Convicted Prisoners	13948
 Custody and Guardianship	12977
 Custody and Guardianship Cases	12977
 Custody and Guardianship The Office	12977
-Custom	9393,1477,1082,356,366,270,1026,1522,127,491,528,1135
+Custom	9393,1477,1082,356,366,270,1026,1522,127,491,528,1135,1829
 Custom API	6423
 Custom Breakdown	15619
 Custom Content	12675
@@ -250,16 +251,17 @@ Customary Marriage	12226
 Customary Mechanisms for Dispute Resolution	18631
 Customary Practice	12226
 Customary Practices	12226
+Customary Right of Occupancy Granted Right	19554
 Customary Right of Use Certificate	10930
 Customary Rights	17114
 Customary Tenure Convention Regulation	1988
-Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,321,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,190,288,235,49,111,33,30,68,32,26,19,88,285,78,107,113,1129,9,9,18,45,1,215,97,487,463,31,403
+Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,321,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,190,288,235,49,111,33,30,68,32,26,19,88,285,78,107,113,1129,9,9,18,45,1,215,97,487,463,31,403,826
 Customer API	14438
 Customer Acceptance Form Tabulated	9124
 Customer Acceptance Policy	13961
 Customer Account Report	12364
 Customer Account and User Profile	12654
-Customer Average Interruption Duration Index	12256,2611
+Customer Average Interruption Duration Index	12256,2611,4729
 Customer Base Growth Target Ethio	3487
 Customer Base Ingestion PB	8999
 Customer Care	6946
@@ -299,6 +301,7 @@ Customer Experience and Service Quality Assessment	15120
 Customer Facing Applications	10721
 Customer Feedback and Complaint Management	9855
 Customer Focus	12606,2229
+Customer Focus The NSS	19519
 Customer Fulfilment Specialist	6946
 Customer ISPs	14864
 Customer Interruption Duration Total Number of Customer	14867
@@ -358,10 +361,11 @@ Customer-owned	9123
 Customer. Article	14867
 Customer. The Customer	9123
 CustomerSatisfactionandSurvey	4554
-Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,878,193,293,230,130,26,107,39,124,178,129,1206,29,16,27,11,34,1,193,39,95,359,16,103,973,292
+Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,878,193,293,230,130,26,107,39,124,178,129,1206,29,16,27,11,34,1,193,39,95,359,16,103,973,292,602
 Customers Are Transferring Their Own Funds	6362
 Customers CHAPTER	12616
 Customers Complaints	17235
+Customers Connected	19596
 Customers IOS ILS	11953
 Customers IT Infrastructure Resources Management	9123
 Customers Increase	12256
@@ -380,7 +384,7 @@ Customers. Network and Infrastructure Security Cloud	9123
 Customers’ Deposits	17236
 Customisation	8606,3380,6591
 Customise	19060
-Customised	899,8556
+Customised	899,8556,10065
 Customised Sierra Leone Cash Forecasting and Analytical	18488
 Customised XML Pivot	8606
 Customizable	12246
@@ -503,6 +507,7 @@ Customs Procedures and Automation	12654
 Customs Procedures and Automation ASYCUDAWorld Registration	12654
 Customs Process Modernization ASYCUDAWorld	16631
 Customs Process ModernizationNEW	16631
+Customs Processing Fees	19602
 Customs Publication Type	15065
 Customs Reforms	7695
 Customs Regime Receipts	15066
@@ -649,10 +654,10 @@ Domestic and WTO Hierarchy of Customs Valuation Ghana	11036
 Double Monetisation of Existing Customers	6362
 Duration of Customer Interruptions	14867
 EAC Cus-	13357
-EAC Customs Management Act	13357
+EAC Customs Management Act	13357,6245
 EAC Customs Un-	13357
 EAC Customs Union	961,12396,294
-EAC Customs Union Protocol	13357
+EAC Customs Union Protocol	13357,6245
 EAC Deputy Secretary General for Customs	6096,746
 EAC Trade and Customs	7548
 ECOWAS Customs Union	7452
@@ -665,6 +670,8 @@ EU Union Customs Code	15478
 EXISTING CUSTOMERS UNDERTAKING A TRANSACTION	17537
 East Africa Community Customs Management Act	14454
 East Africa's Single Customs Territory. Côte	4149
+East African Community Customs Management	19602
+East African Community Customs Management Act	19527,75
 East African Customs Union	14409
 Eastern and Southern Africa World Customs Organisation	12454
 Ecobank. Customers	9449
@@ -675,6 +682,7 @@ Electronic Know Your Customer	8971,4105,1886,3511
 Electronic Know Your Customer-eKYC	9069
 Elevate Customer Satisfaction and Experience	3487
 Eligible Customer Regulations EEDC Enugu Electricity	12062,6124,31
+Eligible Customers	19596
 Emerging EAC Trade and Customs Committee C1-	7548
 Empowered Customers	1019
 Enabling Customs	15478
@@ -723,6 +731,7 @@ Fully Integrated CAMBODIA Customs System	16631
 Fursad Cusub	15168
 G Customers	8127
 GAINDE Customs System	7512
+GOVERNMENT AUTHORITY System Custodian	19575
 GPU Customs	7548
 GRA Commissioner of Customs Meets UNCTAD Officials	17063
 GRA and Senegal Customs Adopt Three-Month	17063,138
@@ -811,7 +820,7 @@ Know Your Customer-KYC	13522
 Know Your Customers	17235
 Know-Your Customer System	4894
 Know-Your- Customer	1704
-Korea Customs Service	13044
+Korea Customs Service	13044,6556
 Kosovo Customs	15478
 LRA Customs	16882
 LRC. Customs	17011
@@ -836,6 +845,7 @@ Maintain and Establish Customer Records	18599
 Majesty's Revenue and Customs	17367
 Majesty’s Revenue and Customs	16923
 Mandatory Crediting of Customer Accounts	12579
+Marketing and Advertising Customer	19532
 Mauritius Customs	14789
 Mauritius Customs News	14789
 Mauritius Customs URL	14789
@@ -1004,6 +1014,10 @@ System Migration and Customization Eswatini	13042
 System for Custom Data CBG Central Bank	16927
 System for Customs Data BCC Budget Call	18488
 Systems and Customer Relationship Management	14524
+TRA's Tanzania Customs Integrated System	19584
+Tanzania Customs	19600
+Tanzania Customs Integrated System	19584
+Tanzania Customs Integrated System TARI Tanzania	19584
 Tax CSD Customs Services Department DTD	14985
 Tax and Customs	12162,277,517,1941,2071,43
 Tax and Customs Administrations Expertise France	648
@@ -1048,6 +1062,7 @@ Vanuatu Customs	13042
 Verify Customer's Identity	18599
 Vice President and Head of Customer Unit West	4906
 Virtual Assets Customer-permissioned	12444
+Viwango. Customers	19611
 WCO Smart Customs Portal	14789
 WCO Smart Customs Project	14789
 WCO Trade Tools International Standards for Customs	13051

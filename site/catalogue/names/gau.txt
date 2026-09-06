@@ -28,6 +28,7 @@ Gaudillat	16144
 Gaudine Hornella	15615
 Gauge	9123,5613
 Gauge Railway	2775
+Gauge Railway SOC Service Organization Controls	19584
 Gauge Rainfall	17157
 Gauge Reader	14745
 Gauging	10784,6365
@@ -117,6 +118,7 @@ North West and Gauteng	11296
 P. Gaudillat	3604,2935,12706
 Police Gaudens SEGBO	15918
 Post-2026 Gautrain Rapid Rail Link System	11248
+Program SGR Standard Gauge Railway SPV	19585
 Province Eastern Cape Free State Gauteng	8999
 Public Service Commission and Gauteng Provincial Government	4896
 RD Gauld	766
@@ -130,7 +132,9 @@ Sergent OBIANG ELLA Gauthier Severin	16099
 South Africa. Gauteng	11192
 South African Child Gauge	11977
 South West Gauteng College	6961
-Standard Gauge Railway	2775,6717,1100,1734,2274,3209
+Standard Gauge Railway	2775,6717,1100,1734,2274,3209,1776,17
+Standard Gauge Railway SHIMA Shirika la Magereza	19590
+Standard Gauge Railway SSE Samia Extended	19565
 Standard Gauge Railway Traffic	2775
 Standard Gauge Railway. The TTCL-managed NICTBB	9149
 Track gauge in the United States	4259

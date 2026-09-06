@@ -6,6 +6,7 @@ APL Adaptable Program Loan ARAP Abbreviated	15511,2351
 APL Adaptable Program Loan ART Agence	18887
 ARTICLE II THE LOAN Section	16219
 ARTICLE III CONVERSION OF LOAN TERMS	16219
+Absence of Approved Loan Management Guideline	19585
 Adamfo Loan	8732
 Adaptable Program Loan	1264,15350,2273
 Adaptable Program Loan Project Financing Data	15372
@@ -36,11 +37,13 @@ Beneficiaries and Amount of Loans Awarded	2775
 Bid Evaluation Report Loan	17180,39
 Bilateral Loans The Public Debt Management	14546
 Blueberry and Lemon Loaf Cake	11122
+BoT Loan	19585
 Borrower ADB Loan Project Instrument Special	11863
 Boston University Chinese Loans	1150
 Brazzaville and Loandjili	11924
 Bridge Loan and Hustler Groups	10330
 Bridge Loans	10330
+Butiama DC Loans	19585
 CA Staff Loan Scheme	6946
 COMSIP Savings and Loans Groups	12978
 COMSIP Village Savings and Loans	12978
@@ -49,6 +52,7 @@ Capital Total Loans	17235
 Car Loan	14736
 Car Loan Scheme Fund Financial Statements	6946
 Car Loans	14736
+Chemba DC Recognized Loans Receivables	19585
 CitiTrust Savings and Loans	9650
 Civil Servants Revolving Loan Scheme	16858
 Civil Servants Revolving Loan Scheme Study	16858
@@ -64,7 +68,7 @@ Commissioner for Refugees VSLA Village Savings and Loan	10841
 Competitive Bidding IL Investment Loan ISM	17441
 Components Results Disbursement Estimates Loan Closing	15731
 Components Results Loan Cancellations Reallocations	11924
-Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2156,448,220,114,122,462,645
+Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2156,448,220,114,122,462,645,1590
 Concessional Loan Agreement	15399
 Concessional Loan Department The Export-Import	15399
 Concessional Loan Framework Agreement of Rwanda Smart	791
@@ -76,10 +80,12 @@ Contributor TS Imagine Adds Loans Trading	7156
 Conversion of Loan Terms	16219
 Corporate Loan	11863
 Cost of Load	11953
+Council Inaccurate Reporting of Loan Recovery	19585
 Covenant Loan	15372
 Credit Market Loans	14997
 Credit and Loans	12297
 D. Load and Performance Testing	13185
+D2. Repayment of Domestic Loan	19602
 D9690 Loan No	17334
 DEG Loan	344
 DOCUMENT ON A PROPOSED LOAN	6539,4878,4136
@@ -99,14 +105,19 @@ Digital AgTech Loan Kenya DFC	622
 Digital Agricultural Supply Chain Loan DFC	461
 Digital Payments Infrastructure Loan Belgian Investment	1419
 Digital SME Invoice Financing Loan DFC	1062
+Disburse Loans Outside TPLMIS	19585
 Disbursed Loan Balance	16219
 Disbursement EPTC Loan Agreement	6539
+Disbursement of Loan Funds	19585
 Distribution Transformers Loading	12358
 Distribution of Loan	17235
 Distribution of Loans Advanced	17236
+District Loans Verification Committees	19585
 District de Loango	15615
+Domestic Loans	19602
 Dormant Loans	14546
 E-Commerce Platform Loan DFC	1437
+E2. Repayment of External Loan	19602
 EBRD Loan	1818,1
 EBRD Loan. The EFSD	1818
 EMATA Digital Loans To Smallholder Dairy	834
@@ -119,6 +130,7 @@ Equipment Detail Qty Load	13185
 Estimates Yes Loan Cancellations Yes Development	2473
 Europe CAS Adaptable Program Loan C&MA	15424
 Evangelidis Loannis Pavlos	3772
+External Non-concessional Loans	19602
 Extract Transform and Load3	18470
 FOREIGN LOANS	13093
 Feb-2019 Portal Additional Financing Loan Closing	11924
@@ -152,7 +164,8 @@ Government Concc3sional Loan Agreement	15399
 Government Concessional Loan Agreement	15399
 Government Concessional Loan Agreernent	15399
 Government of Eswatini Loans	11131,3
-Grants and Loans	14830
+Grants and Concessional Loans	19602
+Grants and Loans	14830,4689
 Gross Loans	11131,3892,2212,22
 Gross Loans Profitability	11131
 Growth Development Policy Loan	11924
@@ -165,7 +178,11 @@ HVAC Load	13185
 Ha Hectares HELB Higher Education Loans	2775
 High LoA	10819
 High LoA. Within SATA	10819
+High Volume of Overdue Loans	19585
 Higher Education Loans Board	1838,10474
+Higher Education Students Loans	19565
+Higher Education Students Loans Board Level	19584
+Higher Education Students' Loans Board	19541,44
 Higher Education Students' Loans and Grants Board	13030
 Higher Education Students’ Loans Board	3460
 Higher Loans Board	12149
@@ -205,14 +222,17 @@ Intraday Loan Credit	12364
 Intraday Loan Facility	12364
 Investment Loan	17441
 Investments Loans	17236
-Issuance and Management of Loans	5883
+Issuance and Management of Loans	5883,13702
 Jun-2029. Loan IDA-E4720	14956
 KIND LOAN FOR AGRICULTURAL PURPOSES Access	17043
 KOE Loan Agreement	6539
 KOE Loan Agreement and Financing Agreement	6539
 Key Criteria for LOA Selection	4301
+Kibiti DC Inaccurate Reporting of Loan Recovery	19585
 Kimwarer and Itare Dams Loan Projects	14546
+Kinondoni MC GePG Loan	19585
 Know Your Customer LoA Level of Assurance	12663
+Kondoa TC Inconsistencies of Loans Records	19585
 LA Loan Agreement LCDE La Congolaise	15969
 LOAD SHEDDING	11262
 LOADSHEDDING	11211
@@ -231,17 +251,19 @@ LOATEKOMBO ASSOCIA TION CULTURELLE	16274,182
 Legal Covenants Clients Additional Financing Loan	11924
 Lender Concessional Loan Dept	15399
 Lesotho Loan No	12700
-Like Loading	7471,52
+Like Loading	7471,52,12081
 Liquid ECG Infraco Broadband Loan	1126
 Liquid Intelligent Technologies Term Loan	1524
 Liquid Telecom South Africa Term Loan	686
 LoA High	10819
 LoA. Further	10819
 Load Balancers	10617
+Load Balancing	19533
 Load Demand Forecast	14957
 Load Demand Forecast Review	14957
 Load Demand and Energy Forecast	14957
 Load Factor	12062
+Load Forecast and Generation Requirements	19596
 Load GIS Geographic Information System ISO	18531
 Load Grand	13185
 Load Management Unused	9123
@@ -261,6 +283,7 @@ Loaded Pictures. Interview	10977
 Loaded Pictures. Patricia Anne Janer and Ryan	10977
 Loader	12970
 Loading	1988,3097,3519,2,434,3295,547,812,1798,1351,1266,397
+Loading Comments... Write	19604
 Loading Dock	9123
 Loading Sequence	12360
 Loads	1988,13039
@@ -281,14 +304,17 @@ Loan Agreement. The Commitment Charge	16219
 Loan Agreement. The Implementing Agency	15518
 Loan Agreement. The Project	15411
 Loan Agreement. The UGP	17441
+Loan Agreements	19425,56
 Loan Agreements. The Procurement Strategy for Development	10768
 Loan Allocated	15411
 Loan Authorization Act	483
 Loan Authorization Bills	12987
+Loan Beneficiary Accounts TZS17	19585
 Loan Cancellations	11965
 Loan Cancellations No Components Yes Procurement	19284
 Loan Cancellations No Development Objective	15969,2390
 Loan Cancellations No Legal Operational	16187
+Loan Cleanup Pushed Banks Into the Red	19622
 Loan Closing Date	1228,56,14317,62,1233,26,927,13
 Loan Closing Date Extension	2473,9451,41,1896,4101,863,459
 Loan Closing Date Extension Loan Cancellations	16032
@@ -296,6 +322,7 @@ Loan Closing Date Extension No Components	15969
 Loan Collateral. Despite	18825
 Loan Currency	11863,4356
 Loan Distribution	17235
+Loan Files	19585
 Loan Guarantee Fund	12297
 Loan Guarantee Scheme	11134
 Loan IBRD	15511
@@ -304,6 +331,7 @@ Loan IBRD-86290	15377
 Loan IBRD-91320	15481
 Loan ID	14546
 Loan Installments	15260
+Loan Name of PD Women Youth	19585
 Loan No	9603,1,3581
 Loan Number	1770,144,13749
 Loan Number Date	14132
@@ -313,6 +341,9 @@ Loan Payments	12389
 Loan Percentage of Expenditures	15553
 Loan Product Information Revised EA Category	15424
 Loan Products Provided	2775
+Loan Recovery	19585
+Loan Reports Inconsistency	19585
+Loan Reports Reporting Inconsistencies Between TPLMIS	19585
 Loan Tenor and Grace Period	16219
 Loan To Cost	15149
 Loan for Renewable Energy	12985
@@ -322,9 +353,10 @@ Loan. The Borrower	16219
 Loandjili	15379,11,33,16,85,91,165,185,82,227,182
 Loandjili Pointe-Noire	16274,182
 Loandjili. Article	16274,182
+Loaned	19585
 Loango	15379,313,52,36,68
 Loango. Date	15692
-Loans	2775,808,131,1258,1142,1649,3083,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204,366,476,1397,68,192,1,205
+Loans	2775,808,131,1258,1142,1649,3083,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204,366,476,1397,68,192,1,205,2079,65,17,6
 Loans Access	17043
 Loans Advanced	17236
 Loans Assets Deposits Loans	11960
@@ -335,6 +367,7 @@ Loans Equity	390
 Loans Financial	15578
 Loans Financial Inclusion Services Paving and Stabilizing	15578
 Loans Financial Inclusion Services Road Paving	15578
+Loans Register	19585
 Loans Sources	17257
 Loans System ICR	18825
 Loans and Advances Sector Shares1	2775
@@ -350,6 +383,10 @@ Loans and International Development Association	2889,12664,105
 Loans and Overdrafts	17235
 Loans of Commercial Banks	17235
 Loayza Cortez	12195
+Local Government Loans Board	19519,66
+Local Government Loans Board LGTI Local	19585
+Local Government Loans. LGAs	19534
+Local Government Unqualified Compliant Compliant Loans	19585
 Local Loan Support Fund	14546
 Low LoA	10819
 M Data Centre Loan DFC	462
@@ -362,9 +399,12 @@ M. Loan	147
 MATERIAL BORROWINGS AND LOANS RECEIVABLE	4896
 MILLION IBRD LOAN	15511
 MRTG Loading	12283,3290
+Makambako TC Loan	19585
 Management of Loans	5883
+Mandatory Loan Allocation Ratios	19585
 Manual Load Reduction	11953
 Marga de Loayza	10765,10,8004
+Mbeya CC Loans	19585
 Mechanism APL Adaptable Program Loan AReg4DT	1264
 Medicines Wellness Coverage Providers Loading	9429
 Medium Enterprises Small Scale Enterprise Loan	11131
@@ -372,6 +412,7 @@ Megawatt IT Load	1245
 Megawatts of IT Load. Finally	1245
 Micro Finance Loans	15578
 Million Loan Agreements	14871
+Million Tanzania AI Loan Opens Door	19622
 Minimum Loan Size	12389
 Mobile Telephone Networks Holdings Limited Loan	10793
 Morocco Growth and Jobs Development Policy Loan	14627
@@ -379,6 +420,7 @@ Multilateral Loans	7548
 Murabaha Loans	17236
 Murabaha. Balance of Loans and Credit Facilities Granted	17236
 Mâ Loango Moé Poaty Face	16274,182
+N LGA Compactor Truck Skip Loader	19585
 NAME OF LOAN APP	8732
 NFM Loan Applicants	2775
 NPL Non-Performing Loans NEET	11271
@@ -390,6 +432,7 @@ Net Loans	17235
 Net Loans and Facilities	17236
 Net Loans and Overdrafts	17235
 Nigeria Education Loan Fund	2536
+No. Year Loan Name of Loan Payment	19585
 Non- Performing Loans	17235
 Non-Performing Loans	11131,338,1487,2067,2213,332
 Non-performing Loans	11134,6101,1,21
@@ -405,6 +448,9 @@ Orange Mali S.A. Telecom Infrastructure Loan	2214
 Original Loan Currency	16219
 Original Revised Proposed Proposed Loan Closing	19284
 Outcome of Loan Applications	12445
+Outstanding KKK Loan	19585
+Outstanding Loan Receivables Between the Loan Register	19585
+Outstanding Loans	19585
 Outstanding Purchases and Loans	13868
 Overnight Loan Facility	12364
 Overnight Loans	12364
@@ -419,11 +465,13 @@ Perfoming Loan Ratio NPL	15023
 Performing Loan Ratio NPL	15023
 Performing Loan U-SACCO	14997
 Personal Loan	10330
+Pilot LGAs Loan Issued	19585
 Plaine Corail Airport TOTAL LOANS	14830
 Port Authority NPA Non-Performing Loans NPLS	17235
 Posts External Loans	11251
 Procurement. The Loan Agreement	15663
 Program Loan ARPCE Agence de Régulation des Postes	15372
+Program TPLMIS Ten Percent Loan Management	19585
 Project Finance Loan	13938
 Project Loan	15619,1019,542,1293
 Proposed Loan	15411,107,141
@@ -438,6 +486,8 @@ Recent Bulletins Loading	17136
 Regions Sandy Loamy Clay Don't Know	17043
 Regulation Agency APL Adaptable Program Loan	18754
 Related Content Loading	17178,153,1195
+Repayment of Domestic Loan	19602
+Repayment of External Loan	19602
 Republic of Cabo Verde Loan No	8166
 Research and Statistics Department Balance of Loans Advenced	17236
 Residual Load	11953
@@ -449,10 +499,12 @@ Rural Telecom Tower Expansion Loan Belgian	1420
 Rwanda Loans	12445
 SCALE-UP WINDOW-SHORTER MATURITY LOAN	11905
 SDR Million Percent Quota RCF Loans	13868
+SECOND ADDITIONAL LOAN	19455
 SLG Savings and Loans Group SSSP Shock-Sensitive	12964
 SONNA Loading SONNA	15060
 SOP1 Loan	17219
 SYSTEM LOADING' Kalola	15289
+Salaam CC Discrepancies Between TPLMIS Loan	19585
 Samurai Loan	14195
 Saving Internal Loaning Community	13390
 Savings and Loan Association Regional Vice President	18104
@@ -475,6 +527,7 @@ Shorter Maturity Loan	15983
 Shorter Maturity Loan SOE State-Owned Enterprise	15983
 Sidian Bank Kenya Convertible Loan for Digital	380
 Sikapa Loan	8732
+Small Enterprises Loan Fund JEEVA	19584
 Small Scale Enterprise Loan Guarantee Scheme	13123
 Smart Woman Loan and VSLA Loan	13938
 Social Loan	2214
@@ -487,15 +540,19 @@ Student Loan Funds	14966
 Student Loans	15019
 Student Revolving Loan Scheme	17347
 Students Loan Scheme	18471
+Students' Loans Board Inland Container Depots	19585
 Students’ Revolving Loan Scheme	17228
 Subsidiary Loan Agreement	14546
 Sustainability Linked Loan	6100
 Sustainability-Linked Loan	1416,13226
 Sustainability-Linked Loan. The DPO	14195
+System INEC Higher Education Students' Loans	19541
 System Load	11953
 System Load Residual Load Capacity GW	11953
+TPLMS Inconsistency of Loans Database	19585
 Technical Assistance Loan	17441
 Telecommunication Union LoA Letter of Agreement MACRA	12241,839,15
+Ten Percent Loan Management Information System	19585
 Togocom Telecom Expansion Loan IFC	1523
 Twelve Megawatts of IT Load	1245
 Twenty-Four Megawatts of IT Load. Campus	1245
@@ -505,6 +562,8 @@ Undisbursed Loan Balance	16219
 United States Dollar Village Savings and Loans	13938
 Universal Service Fund and CA Staff Loan	6946
 Unreconciled Loan Balances Between Commonwealth Secretariat	14546
+Unrecovered Matured and Overdue Loans	19585
+Unrecovered Matured and Overdue Loans S	19585
 Unwithdrawn Loan Balance	1914
 Use Only Loan	17000
 Utilize Drawn Down Loan Proceeds	14546
@@ -520,6 +579,10 @@ Village Savings and Loans Association WFP World	16384
 Village Savings and Loans Associations	11900
 Vêr Resultados Loading	16028
 WARCIP Adaptable Program Loan	15424
+WEZESHA Portal and Manual Loan Register Inconsistency	19585
+WEZESHA Portal and Manual Loan Register Records	19585
+Wezesha Portal and Loan Register Records Inconsistency	19585
+Wezesha Portal and Manual Loan Register Deficiencies	19585
 Women Nominal Value of Loans	940
 World Bank Finance and Loan Department and FM	15518
 Youth Enterprise Development Fund Loan Disbursement	2775

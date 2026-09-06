@@ -1,6 +1,7 @@
 A.G. Fed	18154
 ADDIS ABABA THE FEDERAL DEMOCRATIC REPUBLIC	13965
 AI. The US Federal Trade Commission	12210
+AINA YA MATUMIZI FEDHA ZINAZOOMBWA	19592
 APPROPRIATE The Federal Republic of Nigeria	4301
 Abdelaziz Fedali	15943
 Abuja Federal Government	10063
@@ -21,6 +22,7 @@ American Enterprise Fellow Ryan Fedasiuk	5257
 Aqalka Baarlamaanka Federaalka Jamhuuriyadda Federaalka	14859
 Aqalka Dawladaha Federaalka	14859
 Arab Federation for Digital Economy	16622
+Ardhi Na. Halmashauri Mkopo Fedha Kiasi	19592
 Argentina Yes Plan Federal De Internet	11529
 Arrimaha Maaliyadda Sharci Baarlammaanka Federaalku	14859
 Association of Heads of Federal Establishments	18260
@@ -218,7 +220,7 @@ FEDERATION Article	13948
 FEDERATION DES ORGANISATIONS DE DEVELOPPEMENT	15780
 FEDERATION OF SAINT KITTS	13996
 FEDEX Federal	19350
-FEDHA	6019
+FEDHA	6019,13571
 FEDHA WA	6019
 FEDHASA	5533
 FEDMU	11866
@@ -532,7 +534,7 @@ Federal Republic Government of Ni2eria Fundina	4301
 Federal Republic Government of Niaeria Funding	4301
 Federal Republic of Approval Date	15190
 Federal Republic of Artificial Intelligence	12512
-Federal Republic of Germany	11285,1757,80,3794,512,158,1557
+Federal Republic of Germany	11285,1757,80,3794,512,158,1557,400
 Federal Republic of Germany. The EAC AI	18705
 Federal Republic of Germany. This Strategic Plan	16943
 Federal Republic of Nigeria	473,70,96,1270,622,1770,1,164,2573,409,4,42,1154,1012,389,108,140,424,408,26,314,382,2,72,29,2,20,17,33,119,367,2615,1745,1282,19,17,23,50,260
@@ -553,7 +555,7 @@ Federal Republic of Nigeria. Nigeria	3226
 Federal Republic of Nigeria. PREAMBLE	9660
 Federal Republic of Nigeria. The Kingdom of Eswatini	12962
 Federal Republic of Region	15097
-Federal Republic of Somalia	109,303,345,459,526,1844,4381,702,1807,660,670,1,685,948,10,160,41,219,1004,5,3,9,5,11,3,2,53,13,9,6,13,24,30,10,1,49,9,19,42,31,14,41,2370,1043,16
+Federal Republic of Somalia	109,303,345,459,526,1844,4381,702,1807,660,670,1,685,948,10,160,41,219,1004,5,3,9,5,11,3,2,53,13,9,6,13,24,30,10,1,49,9,19,42,31,14,41,2370,1043,16,889
 Federal Republic of Somalia Contents I. Introduction	15014
 Federal Republic of Somalia Count Percent Somali	15085
 Federal Republic of Somalia Implementing Agency	14976
@@ -698,7 +700,9 @@ Federico Abaga Ondo	9303,7724,144
 Federico Barreras	16773
 Federico Callioni	11572
 Fedex	562,17304
-Fedha	2868,3147,4
+Fedha	2868,3147,4,13498,48,25,2,6,16
+Fedha Kiasi	19592
+Fedha Na. Halmashauri Mkopo Fedha Kiasi	19592
 Feditorial	1903
 Fednow	5124
 Fedoma	12993
@@ -741,6 +745,7 @@ Gobannimada Jamhuuriyadda Federaalka Soomaaliya	14859
 Golaha Shacabka Federaalka	14859
 Golaha Wasiirrada Federaalka	14859
 Goleyaasha Baarlamaanka Federaalka	14859
+Governance TFF Tanzania Football Federation TFRS1	19585
 Government of Nigeria. Federal Audit Service Commission	11866
 Governo Federal	11521,7246,5
 Guddiga Xuduuddaha Federaalka. Qodobka	14859
@@ -751,6 +756,7 @@ HRH. Federal Republic ofNigeria	4301
 HUURIYADDA FEDERAALKA SOOMAALIYA	15047
 Haddii Baarlamaanka Federaalka	14859
 Haddii Baarlamaanku Federaalka	14859
+Halmashauri Zilizokopeshwa Fedha Kwa Ajili	19592
 Hassan Federal Minister of Post	14879
 Head of Civil Service of The Federation	2934
 Heer Federaal	14859
@@ -817,14 +823,17 @@ Jumhuuriyadda Federaalka Soomaaliya	15152
 Jumuuriyadda Federaalka Soomaaliya	15152
 Jun-2021 TO THE FEDERAL REPUBLIC	14971
 KPMG's Federal Tax Legislative and Regulatory Services	16561
+KWA MWAKA WA FEDHA	19565
 KWA MWAKA WA FEDHA WA	6019
 Ka Noqoshada Axdiga Federaalka	14859
 Ka Noqoshada Axdiga Federaalka Axdiga Federaalka	14859
 Kazakhstan Russian Federation Uzbekistan T1 Role-modelling	10764
 Kenya Healthcare Federation Chairperson	12314
 Key Indicators Report Federal Democratic Republic	14067
+Kilichopokelewa Fedha Kilichotumika Fedha Matumizi Mishaha	19592
 Kingsley Samuel The Federal Government	8627
 Ku-simaha Madaxweynaha Jamhuuriyadda Federaalka	14859
+Kujaribu Kujipatia Fedha Kwa Njia Ya	19517
 LGA and Federal Medical	11857
 Laws of The Federation of Nigeria	11853
 Le FEDD	15500,3720
@@ -837,11 +846,14 @@ M Federal Negarit Gazette No.30	12226
 M Federal Negarit Gazette No.41	7538
 M. Ibrahim Awadalla Federal Undersecretary and Acting	14898
 MADAXWEYNAHA JAMHUURIYADDA FEDERAALKA EE SOOMAALIYA Qodobka	14859
+MAKISIO YA MATUMIZI FEDHA ZINAZOOMBWA	19592
 MATUMIZI KWA MWAKA WA FEDHA	2868
 MATUMIZI YA FEDHA KWA MWAKA	2868
 MATUMIZI YA FEDHA KWA MWAKA WA	6019
+MATUMIZI YA FEDHA YA WIZARA YA	19590
 MDAs. The Four Federal Member States	15090
 MRA Urges Federal Government	18211
+MWAKA WA FEDHA	19590
 Maamus-Ka-qaadista Madaxweynaha Jamhuuriyadda Federaalka	14859
 Mabaadi’da Federaalka	14859
 Madaxa Jamhuuriyadda Federaalka	14859
@@ -855,6 +867,8 @@ Madaxweynaha Jamhuuriyadda Federaalku	14859
 Madaxweynennimada Jamhuuriyadda Federaalka Soomaaliya	14859
 Madaxweyninimada Jamhuuriyadda Federaalka	14859
 Madaxweynuhu Jamhuuriyadda Federaalka Soomaaliya	14859
+Maendeleo Fedha	19592
+Maendeleo. Fedha	19590
 Magaalo-madaxda Janhuuriyadda Federaalka Soomaaliyo	14859
 Magacaabidda Guddiyada Madaxbannan Heer Federaal	14859
 Magacaabidda Guddiyada Madaxbannan Heer Federaal Haddii	14859
@@ -884,6 +898,7 @@ Muwaadiniinta Jamhuuriyadda Federaalka Soomaaliya	14906
 NA MATUMIZI YA FEDHA KWA MWAKA	6019
 NHIA. Federal Republic of Nigeria	4301
 NRS Sensitises Federal MDAs On REV360	18260
+Na. Halmashauri Mkopo Fedha Kiasi	19592
 National Federation for Cinema and Audiovisual of Mali	18016
 National Federation of Artisans of Mali	17870
 National Federation of Workers of Sonelgaz Group Companies	16279
@@ -1012,6 +1027,7 @@ Suggidda Amniga Jamhuuriyadda Federaalka	14859
 Supreme Federal	13948
 Sénégal FED	18291
 Taliyeyaasha Ciidammada Heer Federaal	14859
+Tanzania Football Federation	19602
 Tanzania Private Sector Federation	9452
 Taux de Remploi FEDD	15901
 Technology Roadmap Federal Ministry for Economic Affairs	11135
@@ -1028,6 +1044,7 @@ U.S. Government Federal Republic Federal Republic	4301
 U.S. Government For the Federal Republic	4302
 U.S. Government and Federal Republic of Nigeria	4301
 U.S. Government and The Federal Republic ofNigeria	4302
+UAE Federation of Chambers of Commerce and Industry	19543
 US Federal Communications Commission	6246
 US Federal Government	14744
 US Federal Reserve	7579,5383
@@ -1038,6 +1055,7 @@ Universidade Federal de Pelotas. Membro	17020
 Universidade Federal de Santa Carolina	2816
 Universidade Federal de Santa Catarina	2816
 Universidade Federal de São Paulo	12246
+Utakatishaji Fedha	19517
 Vision of NPRRI The Federal Government of Somalia	14874
 Voice of Nigeria Federal Government of Nigeria United	11129
 Voluntary National Review FEDE	17101
@@ -1058,6 +1076,7 @@ Xukuumadda Jamhuuriyadda Federaalka Soomaaliya	14930
 Xukuumaddaha Federaalka	14859
 Xukuumaddu Federaalka Soomaaliya	14859
 Xukuumaddu Federaalku	14859
+YA FEDHA KWA MWAKA	19590
 Year U.S. Government Federal Republic Existing	4301
 Year U.S. Government Federal Republic Federal	4301
 Year U.S. Government New Federal Surveillance	4301

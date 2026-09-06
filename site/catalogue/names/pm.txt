@@ -31,12 +31,14 @@ Caractéristiques du PMU	15542
 Catégorie PME	17913
 Catégorie des PME	17898
 Catégorie des PME ARTICLE	17898
+Centre PMC Perennial Malaria Chemoprevention PMTCT	19544
 Centre des Incubateurs des PME	18105
 Charte des PME	18257
 Chief Government Statistician PMT Proxy	11133
 Children PAC Policy Analysis and Coordination PMEC	13346
 Classification des PME	13390
 Company PMS Premium Motor Spirit	12256
+Concessions PMG Email	19532
 Consolidated Revenue Fund-Main PMG Account	13420
 Coordination PKI Public Key Infrastructure PMEC	13345
 DD Objectif de Développement Durable Pma Paquet	15711
@@ -62,6 +64,7 @@ Development System PM&E Planning	11224
 Digital Government Transformation Strategy Initiated PMO	14750
 Direct PMU	17116
 Disabilities PMU Project Management Unit PSC-LED	11863
+Disability PMO Prime Minister's Office PO	19531
 Disbursement Modalities Upon PMU	17116
 Distribution Unit PMC Preventive Maintenance Compliance	13185
 Don BM PM	19241
@@ -82,6 +85,7 @@ Financement des PME	6827
 Formation ONG Organisation Non Gouvernementale PME	12
 Fuel Smuggling Libyan PM Calls for Charges	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Fédération Camerounaise des PME	15542
+General PMO-RALG Prime Minister's Office	19585
 Ghana Ministry of Education PMDV Dashboard	15630
 Government PM9 Establish	12917
 Government Stack for Government. Implemented PMO	14750
@@ -127,12 +131,14 @@ MDAs Moderate Induct PMO	16858
 ME PM	18322
 MPME ODD ONPR OPS PAIFAR-B PME	13390
 Mali PM Rendre	17845
+Management Information System PMO-LYED Prime Minister	19584
 Management Office PMS Performance Management System	16852
 Management PforR Program-for-Results PMT Program Management	17458
 Management Unit PMC Project Management Consultants	1988
 Ministry. The PMS	16852
 Ministère des PME	10823,162
 Mixte PME	13390
+MoFP and PMO	19519
 MoHAIS PMU	1988
 MoHAIS and PMU	1988
 MoHAIS. The PMU	1867
@@ -140,6 +146,7 @@ Monitoring and Reporting MoHAIS PMU	1988
 Mozambique PM Maria Benvinda Levy	12838
 N PHI N PHIIS PHC PMTCT	4153
 NEGP PAC PKI PMEC PSMD SADC	12453
+NSSF National Insurance Corporation PMO-LYEPD National	19541
 NUST OGMS PMU PRAZ RCCC RCZ	1554
 Nation Address PMO Project Management Office	11986
 National PMU	1867,121
@@ -148,19 +155,24 @@ Network Use Policy PMU	13956
 Nombre de PME	13390
 Norwegian PM	16114
 Número de PMEs	18801
+OCGS and PMO Enterprise Surveys Gaps	19519
 ONG PMI	15712
 OSC PACS PCIME PDDSS PMA PNUD	17882
 Objectif du PMPP	14425
+Objective Indicator PMT Proxy Means Test	19455
 Objective PIM Project Implementation Manual PMU	1867
 Over PM Modi Video Row	9404
 PAC PMO PMPP PNUD PREA PRODIGY	14425
+PAC Public Accounts Committee PMG Paymaster	19585
 PARTICULATE MATTER PMRA	12253
 PBC PME PREA PRODIGY RGPD SAMIFIN	14549
 PC PIB PME PNB PNUD PNDTIC	13290
+PCT Pharmacy Council's of Tanzania PMIS Professional	19584
 PDO PFM PIM PISU PIU PMT	15658
 PDO PMT PIM PIU PPE PWP	15601
 PE Private Equity PMS Portfolio Management	14997
 PEA Public Elections Act PMO Project	18531
+PFM Public Finance Management PMO	19531
 PHARMACY AND MEDICINE REGULATORY AUTHORITY PMT	12253
 PIB PME PNG POE PPP PPTE	15542
 PIB PRODUIT INTERIEUR BRUT PME	18143
@@ -468,14 +480,28 @@ PMMFTPS	15512
 PMO India	2787
 PMO L C S S	15164
 PMO MOFEA Rationalized	16858
+PMO Management	19520
 PMO PGE-R	14529
 PMO Project Management Office POA Point	11857
 PMO Public Service Pension Policy and Reform	16858
+PMO- RALG	19584,1,17
+PMO- RALG. Delayed	19585
 PMO-LER	7763,9812
-PMO-LYED	7763
-PMO-RALG	17575
+PMO-LYED	7763,11768,53
+PMO-LYEPD	19541
+PMO-RALG	17575,2009,1,10,23
+PMO-RALG Directives	19585
+PMO-RALG Entities	19585
 PMO-RALG In Zanzibar	7763
+PMO-RALG Institutes	19585
+PMO-RALG Ministry	19585
+PMO-RALG and LGA	19584
+PMO-RALG and MoF	19585
+PMO-RALG and TANESCO. Billing	19585
+PMO-RALG. Failure	19585
+PMO-RALG. Taken	19595
 PMO. CSR Unit	16858
+PMO. The PMO	19520
 PMOEthiopia	5871
 PMOLER	7763
 PMP N	10876
@@ -485,6 +511,8 @@ PMP Strategy	9739
 PMPP WEDAF 26-09-2025 clean	15954
 PMR Mobile	6946
 PMR Private Mobile Radio PRN Premium	6946
+PMS Card System	19584
+PMS Chip Coin System	19584
 PMS Cycle Figure	16858
 PMS ME ETE GROUPE	13555
 PMS Pouvoir	15493
@@ -511,10 +539,11 @@ PMT SWIFT9	16032
 PMT-based	11133,4530
 PMT. Given	16960
 PMT. PDO	15663
-PMTCT	4153,107,41,48,8405,223,186,1760,283,1745,20,1191,495
+PMTCT	4153,107,41,48,8405,223,186,1760,283,1745,20,1191,495,887
 PMTCT ART Coverage	18627
 PMTCT Antiretroviral	15206
 PMTCT Coverage	14742
+PMTCT MC Cohort	19544
 PMTCT Prevention	18668
 PMTCT and TB	14923
 PMTI PREhlMlNARY	16836
@@ -564,6 +593,7 @@ Personnel Management Office PMTCT	16951
 Plan Emergence Madagascar PME	14472
 Pm Où D	17945
 PmImrianpiaaédrsaioobFIMIo	15694
+Pmart	19525
 Pmax'-40	14825
 Pmax'-43	14825
 Pmax-40	14825
@@ -586,8 +616,10 @@ Protection des Mineurs PMPP	14488,1,1
 Quick Win Department of E Government PM2	12917
 RCCG PMG Executive NOTE	11129
 Recalibrating the PMT	10985
+Reduction of Poverty PMO Prime Minister's Office	19520
 Removal Process Responsibility The Satellite PMU	1988
 Representative Hails PM Abiy’s Vision	11665
+Review of Disaster Management Strategy At the PMO	19520
 Revised Implementation Arrangements PM MFBPE SETIC	1284
 Revised PMT	15663
 Rwanda PMT Proxy Means Test	14942
@@ -621,6 +653,7 @@ Says Deputy PM Addis Ababa	8920
 Secrétariat du PME	15673
 Senegal PMC	16772
 Service PMO Project Management Office RACI	12359
+Sida. PMO	19520
 So PMG	6868
 Social PGMO Procedimentos de Gestão de Mão-de-Obra PMO	11413
 Social Solidarity Pension PMT	15663
@@ -647,6 +680,7 @@ Tripoli-based PM Abdel Hamid Aldabaiba	1868
 Tropical Diseases PBF Performance-Based Financing PMTCT	16971
 Une PME	13390
 Unit PMT Proxy Means Test POM	18809
+Unqualified Compliant Compliant PMO-RALG	19585
 VAM NDVI NGO NRT NUPRP PMT	10763
 VENTILATION DES PLAINTES DES PME	13390
 VHF PMR Fixed	6946

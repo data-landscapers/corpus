@@ -2,6 +2,7 @@ A. Community Disaster Response Programme and Refresher	14738
 APPLIANCES Refrigerator	14814
 ASSOCIATION OF HEATING REFRIGERATION AND AIR	7167
 ApS ProponAI QuantumWave Refreshworks RegioVision SN	8530
+Blood Bank Refrigerators	19585
 H.S. Codes Refrigerator	14814
 MINIMUM ENERGY PERFORMANCE STANDARDS FOR REFRIGERATING	14814
 Meteorological Observers Refresher Training	13062
@@ -11,7 +12,7 @@ REC Effective Refractive Error Coverage EVD	17289
 REFRAM	18044
 REFRIGERATING APPLIANCES	14814
 Refractories	13385,3515
-Refrain	6949,2711,2593,132,4729,836
+Refrain	6949,2711,2593,132,4729,836,1652
 Refraining	15393
 Reframe	8013
 Reframed	9075
@@ -35,7 +36,8 @@ Refrigerating Appliance	14814
 Refrigerating Appliances	14814
 Refrigeration	9123,7337
 Refrigeration Technology	13385
-Refrigerator	12383,20,2411,760
+Refrigerator	12383,20,2411,760,4011
+Refrigerator External Thermometer	19585
 Refrigerator-Freezer	14814
 Refrigerators	18795
 Refroidisseur	17817

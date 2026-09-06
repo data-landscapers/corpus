@@ -20,6 +20,7 @@ Clean Cooking	12399,164,3474,151,778,1829
 Clean Cooking Alliance	11572,6965
 Clean Cooking Delivery Unit	18537
 Clean Cooking Delivery Unit CLSG Cote	18537
+Clean Cooking Energy Project President Dr	19602
 Clean Cooking Solutions for Affordable Access Pillar	16188
 Clean Cooking Strategy	18537
 Clean Cooking Technologies	14947
@@ -35,12 +36,14 @@ Cook Islands Fiji Kiribati Lao People	13042
 Cook Stoves	12358
 Cooke	9311
 Cookie	1231,4553,5450
+Cookie Duration Description	19595
 Cookie Policy	3212,2216,578,3247,1981
 Cookie Policy and Privacy Policy	3212,2216,578
 Cookie Policy. Accept	12202
 Cookie Preferences Manage	17388
-Cookie Settings	3907,2274
+Cookie Settings	3907,2274,13414
 Cookie Settings Accept All CookiesManage	3907
+Cookie Settings Accept All Manage	19595
 Cookie SettingsREJECT ALLACCEPT ALLManage	6181
 CookieDurationDescription fbp3	3907
 CookieDurationDescription ga2	3907
@@ -74,7 +77,7 @@ Embrace Distributed Renewable Energy and Clean Cooking	12717,3471
 Essential Cookies Always	17388
 Functional Cookies	17388
 GDPR Cookie Compliance	3907
-GDPR Cookie Consent	3907,2274
+GDPR Cookie Consent	3907,2274,13414
 GoR Government of Rwanda ICS Improved Cook	14947
 Government of Sierra Leone ICS Improved Cookstove	18537
 Health Services Overcowding Electircity Cooking Fuel	15244
@@ -90,7 +93,7 @@ Modern Energy Cooking Services	11572
 National Action Plan and Clean and Modern Cooking	18795
 National Action Plan for Clean Cooking	18795
 National Clean Cooking Energy Strategy	10460
-National Clean Cooking Strategy	11936,4033,2568
+National Clean Cooking Strategy	11936,4033,2568,1065
 Necessary Cookies	11956
 Nick Cook and Lauren Cassells	12048
 Number of Clean Cooking Connections	12399

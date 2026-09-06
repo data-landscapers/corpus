@@ -126,6 +126,7 @@ Minister for State President Mr. Moeti Mohwasa	12572
 Ministry of Communications and Information Technology. MoE	15604
 Ministry of Education and Technical Education. MoETE	15604
 Ministry of Energy MoECC	18485
+Ministry of Energy and MoEST	19585
 Ministry of Innovation and Technology. MoE	13991
 Ministry of International Cooperation MOE	14857
 Ministry of National Defense MoE	16975
@@ -162,7 +163,9 @@ MoED Ministry of Energy and Dams	18614,6
 MoEHRD	19118
 MoEMW	15011
 MoES and NIRA	13681
-MoEST	13209
+MoEST	13209,6310,15
+MoEST African	19534
+MoEST Programme	19534
 MoEST and MoGCDSW	13209
 MoET EMIS Unit	13016
 MoET Establish	17157
@@ -216,6 +219,7 @@ Moen A. One Digital Health	14666
 Moeng College	12618
 Moeti	9129
 Moeti Mohwasa	12591
+Moez Ayari	19372
 Moez Ben Hassine	18063
 Moez Kamoun	6175
 Monitoring Learning Achievement MOE Ministry of Education	13960

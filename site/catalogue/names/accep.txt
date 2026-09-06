@@ -1,6 +1,6 @@
 ACCEPT	5715
 ACCEPT ALL	6181
-ACCEPT Powered	6181
+ACCEPT Powered	6181,13414
 ACCEPT THE LOWEST	18965
 ACCEPTANCE OF BID CONDITIONS AND BIDDER’S	11209
 ACCEPTE	13300
@@ -8,8 +8,9 @@ ACCEPTED FOR CONSIDERATION	11240
 ACCEPTÉ	13300
 APPROBATION DE CESSION DE PARTS ACCEPTATION	16413
 AUP Acceptable Use Policy BYOD Bring	15164
-Accept	961,4361,581,2300,3049,1933,1842,1436,369,1122
-Accept All	3907
+Absence of Formal User Acceptance Testing	19584
+Accept	961,4361,581,2300,3049,1933,1842,1436,369,1122,1571
+Accept All	3907,15688
 Accept All CookiesReject Non-Essential Cookies Cookie	12336
 Accept Any Bid	13185,1581
 Accept Any Proposal	15080
@@ -28,13 +29,14 @@ Acceptable	34,5645,552,2070,2639,312,1726,1669,249,189,576,1224
 Acceptable Amorti Total Motos	19250
 Acceptable Borderline Poor	17285
 Acceptable Documents for Registration Register	12202
+Acceptable ICT	19576
 Acceptable Meets	11252
 Acceptable Statistics	13310
 Acceptable Use	15164
 Acceptable Use Policies	15164
 Acceptable Use Policy	15164
 Acceptable Use Policy DGE	13956
-Acceptance	3,2945,766,5523,2624,503,553,13,107,34,114,888,1133,1633,61,2025
+Acceptance	3,2945,766,5523,2624,503,553,13,107,34,114,888,1133,1633,61,2025,650
 Acceptance Certificate	19131
 Acceptance Criteria	5665
 Acceptance Reports	12400
@@ -48,6 +50,7 @@ Acceptance of Digital Signature Certificate	18883
 Acceptance of Judgments	14409
 Acceptance of Licensed Payment Instruments. All Public	14014
 Acceptance of Payments	14014
+Acceptance of Procured Goods Without Prior Inspection	19585
 Acceptance of Request for Proposal	12400
 Acceptance of WTO	13042
 Acceptation	4459,8901,4736
@@ -76,12 +79,14 @@ Acceptée DECLA-0006	998
 Acceptée DECLA-0012	998
 Account UAT User Acceptance Testing VSAN	18577
 Appendix B User Acceptance MINISTRY	34
+Application Installation and Application Acceptance Support	19575
 Application for Type Acceptance	18609
 Application for Type Acceptance. Any	18609
 BID ACCEPTANCE All Bids	11240
 Bidder the Letter of Acceptance	13185,1895
 CHAPTER IV E-GOVERNMENT SERVICES Acceptance	11179
 COMMUNICATION TECHNOLOGY UNIT USER ACCEPTANCE FORM	34
+COVERAGE OF NEW ACCEPTORS FOR MODERN	19544
 CSI Acceptable	17285
 CULTIVING NEW Validé Acceptée FRONTIER	998
 Cadastre Accepted Payments	12511
@@ -91,7 +96,9 @@ Conditions Accept Cookies	17432
 Conduct User Acceptance Testing	18470
 Cookie Policy. Accept	12202
 Cookie Settings Accept All CookiesManage	3907
+Cookie Settings Accept All Manage	19595
 Cookies Accept Only Essential Cookies	11291,7101
+Coverage of New Acceptors for Modern Family Planning	19544
 Cultural Organization UTAUT Unified Theory of Acceptance	14666
 Customer Acceptance Form Tabulated	9124
 Customer Acceptance Policy	13961
@@ -107,10 +114,12 @@ Final User Acceptability Testing Completed	16853
 GDP Signal Strong High and Acceptable Moderate	11134
 Generally Accepted Accounting Practice	13420
 Generally Accepted Privacy Principles	8022
+Goods Inspection and Acceptance Committees	19585
 Governance-Mediated Technology Acceptance	5349
 ICT Acceptable Use Guidelines and Procedures	12453,892
 Impact and Community Acceptance CAD4TB	19062
 Indicator Proportion Acceptable Use Policy	15164
+Inspection and Acceptance Committee	19585
 Integrative Model Explaining Community Acceptance	11006
 July2025 Accepted	8603
 Karanja S. Acceptability	1219
@@ -149,6 +158,7 @@ Scope and Acceptance	15198
 South Africa. Accepted	9129
 Stakeholder Engagement and Acceptance	15096
 Statistiques Acceptables	17830
+System Acceptance Testing Report	19575
 Systems Specialist. Once the User Acceptance Testing	18470
 TAM Technology Acceptance Model UG PDSS	14666
 TELEPHONE ACCEPTABLE USE STANDARDS GUIDELINES	34
@@ -159,6 +169,7 @@ Technology Acceptance Model and Internet Self-Efficacy	11927
 Terms of Use Accept	11291,7101
 Test and Acceptance	16876
 Trade-Offs Founders Accept	7798
+Trend Coverage of Family Planning New Acceptors	19544
 Type Acceptance	18609
 UNION TO ACCEPT FLEGT	16843
 Unified Theory of Acceptance and Use of Technology	5349,5570,3747
@@ -166,8 +177,9 @@ Universal Acceptance	9355
 Universal Acceptance. Universal Acceptance	9355
 User Acceptance	34,15056,1758
 User Acceptance Test	13185,3668
-User Acceptance Testing	9680,694,760,107,1796,929,219,576,329,1510
+User Acceptance Testing	9680,694,760,107,1796,929,219,576,329,1510,2984
 User Acceptance Testing RAASA Refugee Appeals	11986
+User Acceptance Testing Report	19575
 User Acceptance Testing UN United Nations	11192
 User Acceptance Testing UN-IGIF United Nations	11261
 User Acceptance Testing VSAN Virtual Storage	18488

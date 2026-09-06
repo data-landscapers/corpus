@@ -74,7 +74,7 @@ Directeur du Centre de Prospective	13728
 Director of Prosecutions Yasser Hussein	15992
 Director of Prospero88	12376
 Director of Public Prosecution	12936
-Director of Public Prosecutions	783,1944,48,939,3995,1479,1375,901,211,158,486,118,231,224,574,724,217,139,181,1,14,6,61,21,17,2898
+Director of Public Prosecutions	783,1944,48,939,3995,1479,1375,901,211,158,486,118,231,224,574,724,217,139,181,1,14,6,61,21,17,2898,1773,7,2
 Director of Public Prosecutions Chambers	11131,3
 Director of Public Prosecutions DFSC	14742
 Director of Public Prosecutions. Further	14742
@@ -160,7 +160,10 @@ National Prosecuting Authorities	12972
 National Prosecuting Authority	7505,3224,550,562,1597,247,4055
 National Prosecuting Authority Act	11190
 National Prosecution Authority	972,12494
+National Prosecution Service Level	19584
 National Prosecution Unit	12459
+National Prosecutions Service	19523
+National Prosecutions Services	19519
 National Public Prosecution Authority	12333
 Nationale Prospective	17983
 Number of Prospectuses Lodged	11250
@@ -390,6 +393,7 @@ Public Prosecution and MCIT	15992
 Public Prosecution. Can	9723
 Public Prosecution. NTRA	11079
 Public Prosecution. The NTRA	9723
+Public Prosecutions	19525
 Public Prosecutions Division	587
 Public Prosecutions FSU Family Support Unit	18477
 Public Prosecutor	10814,1387,1303,1889,599
@@ -400,6 +404,7 @@ Public Prosecutors	13963
 Public Prosecutors Office	12201
 Public Prosecutor’s Office	1829,8245,8723
 Public Prosecutor’s OfÞce	15901
+Regional Prosecution Officer	19518
 Resilient and Prosperous Zambia	13477
 Revolution for Prosperity	12669
 Robust Comparisons and Future Prospects	15244

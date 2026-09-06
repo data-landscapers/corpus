@@ -155,6 +155,7 @@ Complements the OpenClinic HMIS	7132
 Completion and Opening	13123
 Comprehensive Review. Open Journal of Social	13418
 Computational Fluid Dynamics OpenFOAM Free CFD	9475
+Confirm Cancel Open	19543
 Congo Open Data Initiative	15553
 Connectivity Seleção Baseada Open	17219
 Connectivity Solicitação de Cot Open	17219
@@ -372,6 +373,7 @@ Implement the Open Finance	14997
 Implement the Open Finance Outcome	14997
 Implementation Posterior Open	17219
 Implementation of Open	15130
+Improper Management of Open Space	19585
 Include Open Data Framework and Data	4126
 Inclusive Development and Innovation Open Data Objectives	170
 India's Modular Open Source Identity Platform	2804
@@ -450,9 +452,11 @@ Medical Record FOSS Free and Open	396
 Metadata Standards for Open Data	15714
 Method Opening	18887
 MetroFibre Go30 Openserve Promotion	11259
+Microsoft Azure OpenAI GPT	19394
 Microsoft Morocco NEWS Nvidia Oman OpenAI	5322
 Microsoft Open Education	4126
 Microsoft and OpenAI	13461
+Million Tanzania AI Loan Opens Door	19622
 Miva Open University and Abuja-based	8780
 Mobile Money Open APIs	16809
 Modular Open	19243,5
@@ -499,6 +503,7 @@ National System of Innovation OA Open Access	5246
 Nationale Open Data	17879
 Nationale Open Data Quick Win	17860
 Nationwide Monthly Egypt Open Data License	15714
+NeST Open Contracting Data Portal	19539
 Network APIs Commercial Open Gateway APIs	6593
 Neutrality Open	10819
 Nigeria Customs Service Opens INTERPOL Data	8167
@@ -532,7 +537,7 @@ ONU Nations Unies OpenRAN Réseau	16626
 OPEN ACCESS MODEL	11857
 OPEN BANKING	16942
 OPEN BANKING STANDARDS	13092
-OPEN DATA	1243,5180,10516
+OPEN DATA	1243,5180,10516,2433
 OPEN DATA AND REGULATION All	12419
 OPEN DATA FRAMEWORK NATIONAL SECURE AI	14566
 OPEN DATA LICENCE	14726
@@ -586,7 +591,7 @@ Open APIs	7596,4763,955
 Open APIs and Protocols	3861
 Open Academy	17856
 Open Academy Né	17856
-Open Access	3378,1760,108,1,2484,552,153,692,1,108,502,1045,370,80,623,89,60,249,452,2416,249,139,1506,756,7,55,1,34,602,282,42,91,358
+Open Access	3378,1760,108,1,2484,552,153,692,1,108,502,1045,370,80,623,89,60,249,452,2416,249,139,1506,756,7,55,1,34,602,282,42,91,358,291
 Open Access Article	12178
 Open Access Article Publishing Charges	5246
 Open Access Data Centres	892,661,292,505,222,33,432,150,321,351,70,262,834,136,39,870,510,486,263,1262,261,765,260,287,341,738,601,2560
@@ -663,10 +668,10 @@ Open Competitive Bidding International	11863
 Open Completeness	9124
 Open Consultation	6190
 Open Contracting	12308,4729
-Open Contracting Data Standard	17037
+Open Contracting Data Standard	17037,2502
 Open Contracting Data Standard29	1984
 Open Contracting Data Standards	11867,1120
-Open Contracting Partnership	2364,14673
+Open Contracting Partnership	2364,14673,2502
 Open Contracting and Beneficial Ownership Transparency	12176
 Open Contracting for Infrastructure Data Standard	3969,5463
 Open Cosmos	9816
@@ -811,6 +816,7 @@ Open Data and Reuse	3861,1383
 Open Data for Social Impact Challenge	11239
 Open Data. Actions	16924
 Open Data. Allocation	9406
+Open Data. Art	19389
 Open Data. Ce Comité	9406
 Open Data. Ces	1984,13728
 Open Data. Des	15575
@@ -927,7 +933,7 @@ Open Group Architecture Framework	21,12338,222
 Open Group Architecture Framework UML	11184
 Open Gym	14835
 Open Gym and Health Track Other Projects	14830
-Open Health Information Exchange	12141,440,6703
+Open Health Information Exchange	12141,440,6703,271
 Open Health Information Mediator	19284
 Open Health News	10881
 Open Healthcare Network	11922
@@ -966,6 +972,7 @@ Open Letter	2777,3636,4615
 Open MIND	19146
 Open MIND. Published	15163
 Open MPI	11471
+Open Market	19501
 Open Markets Committee FRW Rwandan Franc	15023
 Open Medical Record System	8605
 Open Membership	3503
@@ -1055,6 +1062,7 @@ Open Sources Epidemiological Monitoring Survey Fonctions	14622
 Open Space	11129,1917
 Open Space Dagbolu III	10049
 Open Space Okarundu Street Wanaheda Soweto	13046
+Open Spaces	19585
 Open Standard	18439
 Open Street Map	1984,10993,2470,2455,1335
 Open Systems Interconnection	13073,1791
@@ -1123,6 +1131,7 @@ Open-Source Guide	14352,1
 Open-Source Innovation Malawi	13095
 Open-Source Innovation UNIMA Joins OSEE	13080
 Open-Source MUBAS	12241
+Open-Source Operating Systems	19533
 Open-Source Policy WEAKNESSES	14729
 Open-Source Program Offices	13080
 Open-Source Programme Offices	13080
@@ -1132,6 +1141,7 @@ Open-Source-First Government Policies	7921
 Open-Weight Model	7548
 Open-Weight Model Adoption	7334
 Open-access	14621,1154,1039,2073
+Open-access of Remotely	19454
 Open-code	7596
 Open-days	16943
 Open-end	13385
@@ -1140,7 +1150,7 @@ Open-ended Ad Hoc Intergovernmental Committee of Experts	2117
 Open-ended Closedended	10764
 Open-ended Working Group	10840
 Open-loop	15027
-Open-source	1261,1464,927,973,1075,637,814,1339,1598,1676,996,282,38,315,1193,2351,115
+Open-source	1261,1464,927,973,1075,637,814,1339,1598,1676,996,282,38,315,1193,2351,115,2501
 Open-source Software	13042
 Open-source Ticket Request System	13185
 Open-weight	5682,12013
@@ -1200,6 +1210,7 @@ OpenAN	2511
 OpenAPI	6423,1125,4404,5950
 OpenAPI Version	6423
 OpenAPI-compliant	6423
+OpenAerialMap	19555
 OpenAgriNet	14081
 OpenAgriNet for AI Enabled Digital Farmer Services	1492
 OpenAi	2816
@@ -1223,6 +1234,7 @@ OpenClinic HealthCenter Edition	13306
 OpenClinics	12379
 OpenCode	1219
 OpenCommit	11922
+OpenDNSsec	19533
 OpenData	8527,10720
 OpenData Charter	18439
 OpenData Madagascar	9482
@@ -1245,7 +1257,7 @@ OpenG2P	6692,4441
 OpenGov	1218,16642,19
 OpenGovPartnership	8013
 OpenHEXA	18137
-OpenHIE	12141,2,7141
+OpenHIE	12141,2,7141,271
 OpenHIE Laboratory Information Systems	16238
 OpenHIM	12207
 OpenHIM Platform	12458
@@ -1264,6 +1276,7 @@ OpenMRS Electronic Medical Records	18478
 OpenMRS and DHIS2	12141
 OpenMRS-based	766,12394
 OpenMRS. Among	12379
+OpenMap	19521
 OpenOffice	747
 OpenPRH	1284
 OpenRBF	13306
@@ -1278,13 +1291,13 @@ OpenSRP Android FHIR SDK	13160
 OpenSSF	11922
 OpenSSF Scorecard	11922
 OpenSSH	991
-OpenSSL	10775
+OpenSSL	10775,8758
 OpenShift	13185
 OpenSi	2312
 OpenSource GIS	11941
 OpenStack	2617,10568
 OpenStack and Huawei FusionSphere	9455
-OpenStreetMap	1828,5485,1590,663,1852,1009,1055,423,1437
+OpenStreetMap	1828,5485,1590,663,1852,1009,1055,423,1437,4213
 OpenStreetMap Com	11418
 OpenStreetMap Current Health	12006
 OpenStreetMap&author	2096
@@ -1311,6 +1324,7 @@ Opening Date Component	15372
 Opening Date and Time	12686
 Opening Doors for Zimbabwe’s Gold Producers	8639
 Opening Establish	14819
+Opening Excellencies	19609
 Opening Hours	16982
 Opening Hours Mon	13249
 Opening Keynote	6936
@@ -1342,7 +1356,7 @@ Openness Openness	10775
 Openness and Interoperability	15629
 Openness and Non-Discrimination Nigeria	10157
 Openness and Transparency	8603
-Opens	2313,54,620,16,13,949,1060,183,195,79,80,589,758,335,8,60,159,52,208,552,153,594
+Opens	2313,54,620,16,13,949,1060,183,195,79,80,589,758,335,8,60,159,52,208,552,153,594,10574
 Opens Application for Nigerians	8350
 Opens Bigger Market for Ghana’s Women Producers	7523
 Opens Orange Sierra Leone Data Centre	4114
@@ -1558,6 +1572,8 @@ TOGAF The Open Group Architecture Framework	15512,3019
 TRADE OPENNESS Surveyed	5247
 TRANSPARENCY AND ACCOUNTABILITY Open	1243
 Table AS. The Open Systems Interconnection	1009
+Tanzania Data Open Skies Fellows	19521
+Tanzania Open	19521
 Team OPD Open Patient Department RHIS	3791
 Tech Orange Sierra Leone Opens	4140
 Technological Sovereignty and Open Source Technological	2958
@@ -1585,6 +1601,7 @@ Unlimited Open Computer Network	15471
 Upskilling and Community Development Open	16939
 Use of Open APIs All	6432
 Use of Open Standards Contracts	6432
+Use of Open-Source Office	19533
 V4020 Posterior Open	17219
 V4730 Post Open	17180
 Validation and Testing of Open-Ended Outputs	3651

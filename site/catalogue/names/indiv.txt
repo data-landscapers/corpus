@@ -74,7 +74,7 @@ EMPLOYMENT IN PUBLIC ADMINISTRATION Individual	11182
 ET ECONOMIQUES DES REPONDANTS INDIVIDUELS ELIGIBLES	18204
 Emissão da Licença Individual	11520
 Empower Individuals	10865
-Empowering Individuals	4800
+Empowering Individuals	4800,14732
 Enabled Medical Devices. Individuals	3651
 Enables Individuals	12241,839
 Enhance the Individual Consult Consultant	17180
@@ -144,13 +144,14 @@ Indicator Goalpost IDI2023 IDI2024 Change Individuals	17743
 Indivi	13390
 Individu	7977,5738,703
 Individuais	11514
-Individual	22,508,52,91,1,62,172,6,1,1,1,1,1,1,1,1,1,855,162,48,108,679,185,199,424,278,588,1216,354,1128,4,397,292,309,134,341,499,469,538,200,188,235,59,69,82,1,38,26,101,9,44,94,22,227,24,216,92,119,12,245,45,69,12,24,12,18,32,96,230,178,131,4,11,216,22,128,298,265,89,297,24,295,9,23,21,51,116,48,17,9,1,61,429,4,1,100,984,255,38,26,192,35,31,75,5,325,96,502,287,6,7,381,373,8
+Individual	22,508,52,91,1,62,172,6,1,1,1,1,1,1,1,1,1,855,162,48,108,679,185,199,424,278,588,1216,354,1128,4,397,292,309,134,341,499,469,538,200,188,235,59,69,82,1,38,26,101,9,44,94,22,227,24,216,92,119,12,245,45,69,12,24,12,18,32,96,230,178,131,4,11,216,22,128,298,265,89,297,24,295,9,23,21,51,116,48,17,9,1,61,429,4,1,100,984,255,38,26,192,35,31,75,5,325,96,502,287,6,7,381,373,8,281,76
 Individual Account	11233,2100
 Individual Accounts	11233
 Individual Accounts. A	11233
 Individual Address	11129
 Individual Adopt	14674
 Individual All Approaches	17180
+Individual Audit	19585
 Individual Authentication Timestamp Total Web Authentication	11955
 Individual Beneficiaries	11233
 Individual Business Profit Tax	12500
@@ -223,7 +224,9 @@ Individualisation	15394,549,352
 Individuality	13310
 Individually	5469,2127,450,1082,271,1739
 Individually Issued Laissez-Passer	9399
-Individuals	582,666,16,366,485,660,183,646,257,792,147,599,140,12,8,1261,12,1,107,225,56,1,95,35,196,338,50,91,1507,82,459,22,216,97,311,44,10,44,25,119,1,115,50,1,146,6,573,116,23,28,3,37,99,41,125,6,11,29,76,3,241,174,1231,336,218,14,57,19,40,51,3,85,11,65,133,100,14,98,131,45,35,51,13,40,6,16,465,68,48,176,397,34,9,8,32,10,14,15,41,103,15,13,22,8,79,12,4,37,87,82,161,124,134,1,245,60,3,31,287,182,551,8,3
+Individuals	582,666,16,366,485,660,183,646,257,792,147,599,140,12,8,1261,12,1,107,225,56,1,95,35,196,338,50,91,1507,82,459,22,216,97,311,44,10,44,25,119,1,115,50,1,146,6,573,116,23,28,3,37,99,41,125,6,11,29,76,3,241,174,1231,336,218,14,57,19,40,51,3,85,11,65,133,100,14,98,131,45,35,51,13,40,6,16,465,68,48,176,397,34,9,8,32,10,14,15,41,103,15,13,22,8,79,12,4,37,87,82,161,124,134,1,245,60,3,31,287,182,551,8,3,294,71
+Individuals Aged	19542
+Individuals Aged Four Years and Above	19542
 Individuals Companies and Institutions	17236
 Individuals Computer Usage	12251
 Individuals Connected	14819
@@ -251,7 +254,7 @@ Individuel Etablissement Babacar Mbengue	18322
 Individuelle	15901,2421
 Individuelle Collective Propriétaire Prêt	737
 Individuo	15470
-Individus	13390,325,710,3655
+Individus	13390,325,710,3655,1337
 Individus Associations Ménages	13390
 Individus Et Perspectives	8891
 Indivíduo	10766
@@ -265,12 +268,14 @@ Interest Relief for Individuals	14717
 Internet Individuals	12344,4596,937
 January. Individuals	13273
 Kits Individuais	11962
+LES INDIVIDUS	19417
 LIBERDADES E GARANTIAS INDIVIDUAIS Artigo	15344
 LIST OF ALL INDIVIDUALS WHO NORMALLY	17127
 Large Taxpayers Office and High-Net-Worth Individuals	13624
 Legal Action Against Individuals Behind Disinformation	15217
 Licenças Individuais	11520
 List of Individuals and Organizations Included	7151
+Local Community and Individual Families Communities	19520
 Lower Value Pre-existing Individual Accounts	11233
 L’INTEGRITE ET LA DIGNITE DES INDIVIDUS	16617
 L’UIT SUR LES INDIVIDUELS CODE Indicateur	18204
@@ -288,6 +293,7 @@ Mobile Fixed Mobile Fixed Individ- Individu-	17743
 Moderate Individuals	16926
 Moderate National Individuals	11855
 NA Individuals	15617,2261
+NAME Empowering Individuals	19532
 NEVER REPLACE AN INDIVIDUAL WITH ANOTHER	17127
 NRS. Individual P2P	9956
 NRS. Individuals	9570

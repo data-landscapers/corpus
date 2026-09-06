@@ -15,16 +15,19 @@ CRS TT Muchuru	12138
 CSD Collateral Setup Default TTC	12364
 CSD Transfer Default TTC	12364
 Cash Reserve TTC	12364
+DT TTC	19486
 Default TTC	12364
 Digitization TT UNICEF Kenya	12138
 Director General TTCL Moremi Andrea Marwa	8214
 Dividend ToC Theory of Change TTL Task	16952
+Dodoma TTCL Head Office	19625
 Désignation ETAT ARTF ACSI ANSSI TTF	16047
 ETA and TTOS	6867,1
 Encaissement TTC	16714
 English and Kiswahili TT Ministry	12138
 Ensino Secundário Província TT	10766
 Ensino Secundário TT	10766
+Euro TTC	19441
 F CFA TTC	3044,145,5132,9711,1302
 F CFA TTC.Le	7670
 FCFA TTC	8577,2398,4998,1860
@@ -42,10 +45,12 @@ INVTRANTYPEFORTTC Class of TTCs	12364
 INVTTCPARTTYPE The TTC	12364
 Impact TND Tunisian Dinar TT Tunisie	1818
 Index ToC Theory of Change TTL Task	13861
+Institutions TTCL	19576
 Komori Tts	8876
 LUSE TTC	12364
 LuSE TTC and VISA	12364
 MGNF Vente TTC	16714
+MMDP Morbidity Management and Disability Prevention TT	19544
 Message Priorities TTC Priority Default Range	12364
 Message Type TTC Types MT298 SMT	12364
 Mn FCFA TTC	19221
@@ -56,6 +61,7 @@ PFrogramme INDICATEUR TTAUX DE TRANSFORMATION LOCALE	15999
 Partnership TTOS Trusted Tour Operator Scheme	11986
 Preventive Treatment TTM Trained Traditional Midwives	16971
 Primary Teacher Training Center TTCo Primary	15661
+Private Sector Foundation TTC Tanzania Revenue	19534
 RESMOV Reserve Operation Default TTC	12364
 RTGS Transaction Type Codes TTC Priority	12364
 Reference TSA Treasury Single Account TTCe	15661
@@ -71,6 +77,11 @@ Sub-Paymaster General’s Account TTs Telegraphic Transfers	13420
 TA Technical Assistance TTL Task Team	15511
 TBE TC TLE TT ZIPs Gabinetes	10766
 TERE He TTS	15363
+TND HT Montant TTC	19441
+TND TTC	19441
+TND TTC Date	19441
+TND TTC Offres	19441
+TND TTC Prix	19441
 TT Capital	12138
 TT Civil Registration Department and United Nations	12138
 TT Forms	12138
@@ -83,6 +94,7 @@ TT Pelowski	12138
 TT Plan International	12138
 TT Registration	12138
 TT UNICEF	12138
+TTB NCAA	19519
 TTC FCFA	16581
 TTC Pacs.010	12364
 TTC Teacher	14922
@@ -94,6 +106,8 @@ TTCL Dar	2868
 TTCL Dodoma Telephone House	2868
 TTCL Managing Director Moremi Marwa	6083
 TTCL Mkoa	7849
+TTCL Telephone House Mbeya	19625
+TTCL Weights and Measures Agency	19584
 TTCL Zanzibar Manager Nasra Mugheiry	10746
 TTCL and Huawei Tanzania	1122
 TTCL-to-expand-fibre-optic-cable-to-Burundi	13312,2
@@ -109,6 +123,7 @@ TTL Contact	18374
 TTL PSIPJ	16012
 TTL Tounwendé Alain Sawadogo. Foundation	1641
 TTL and Senior Digital Specialist	18635
+TTLCL	19532
 TTNET	15471
 TTOS Visa Application System	11986
 TTOS and TES. Building	5533
@@ -123,6 +138,7 @@ TTT Principio	16898
 TTTFP	12918,24
 TTU and UNESCO. State of Broadband Report	17870
 TTaabbllee11	11152
+TTeaB	19584
 TTeelleeccoommmmuunniiccaattiioonnss	736
 TTeolewceor	4896
 TThe Risk-Based Approach	16212
@@ -149,6 +165,8 @@ Ttre I'infroclion	15429
 Ttribuiions	15429
 Ttribué	15397
 Ttroisième Stratégie Nationale de Développement	18291
+Ttshe	19525
+Ttshis	19525
 TtéAgiPeEd5e	10711
 Under TTOS	11218
 VISA TTC	12364

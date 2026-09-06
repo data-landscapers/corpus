@@ -95,11 +95,17 @@ Daily Nation and The Standard	6231
 Daily Nation. Birth	12138
 Daily Nation. The SHA	6231
 Daily Nations. Digital IDs	12138
-Daily News	4553,1144,228,3534
+Daily News	4553,1144,228,3534,10093,21,14
+Daily News ARUSHA	19603
 Daily News CAPE TOWN	3954
-Daily News DAR ES SALAAM	5771
-Daily News DODOMA	5855,268,178
+Daily News DAR ES SALAAM	5771,13808
+Daily News DODOMA	5855,268,178,13311
+Daily News DOODOMA	19589
 Daily News Egypt	3451,12022
+Daily News KIBAHA	19566
+Daily News MANYARA	19618
+Daily News MINISTER of State	19572
+Daily News Reporter	19579,39
 Daily News TANZANIA	6728
 Daily News. AllAfrica	17576
 Daily News. Tanzania	5697
@@ -203,6 +209,7 @@ People Daily Digital Fresh	8383
 People’s Daily Overseas Edition	8460
 Peter Lowe DAI DAI International Partners	16853
 Prices and In-bundle Rates for Standard Daily Data	11259
+Production of Dairy Products Meat Production	19554
 Quarterly Daily	11952
 RESPONSE OPTIONS Daily	17127
 RPS Mandatory Daily	11952

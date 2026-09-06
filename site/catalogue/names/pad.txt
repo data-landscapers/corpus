@@ -3,6 +3,7 @@ AF’s PAD	15511
 ANAKPA Tchaa Padayodi ADC	19251
 ANIMAO Padakem CCH	19251
 Agency PAD Project Appraisal Document PAT	15518
+Agricultural Paddy	19554
 Agriculture PADEC Projet	18286
 Appraisal Document PAD PDO Project Development	11855
 Assist PAD	16853
@@ -33,6 +34,7 @@ Grégoire de Padirac	3036
 Guy Stéphane PADZYS	16381
 Honourable Renganaden Padayachy	14744
 Honourable Renganaden Padayachy Minister of Finance	14744
+Households Paddy Sorghum	19554
 I.3.2.2. PADCI	15936
 I.3.2.2. PADCI Le Projet	15936
 INES Padre Sialo	4209
@@ -51,6 +53,7 @@ M. Padanam Patoki. Cette	19305
 MINEPAT MIS MTR NGO NPF PAD	15601
 MTR Mid-Term-Review PAD Project Appraisal Document	13861
 MTR NER NGO NLAS NPV PAD	16436
+Maize Paddy	19554
 Me Jean-Bernard Padaré	19147
 Member Mr. Mervyn Padayachy	19000
 Mil Sorgho Riz Paddy Maïs Souchet	737
@@ -196,7 +199,7 @@ Padanam Patoki	19305
 Padayachee	3854
 Padded	4479,263
 Padding	1207
-Paddy	7409
+Paddy	7409,12145
 Paddy Cassava Corn	17043
 Pademba Road Maximum Security Prison	18477
 Padiament PART III	18457

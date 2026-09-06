@@ -84,6 +84,7 @@ Data Ownership and Exit Strategy	11995
 Description China Eximbank	1150
 Development Partners Existence	16927
 Digitalização Exige Mais Segurança E Maior	12841
+Disaster Exists	19576
 Discapacidad Existencia	16898
 Districts Existence	13005
 Do You Prove You Exist	7644
@@ -102,6 +103,7 @@ EXIGENCES MINIMALES	15943
 EXIGENCES OPERATIONNELLES Art	15863
 EXIGEZ LA FACTURE ELECTRONIQUE CERTIFIEE	14469
 EXIGEZ VOTRE FACTURE ELECTRONIQUE CERTIFIEE	7346
+EXIM BANK TANZANIA LIMITED	19592
 EXIM Bank	3486,300,5734,3442,161,438,2695
 EXIM Bank USA	10933
 EXIM Bank of China Amélioration	19221
@@ -114,20 +116,24 @@ EXIM Greenlights Digital Transformation Project	3441
 EXIM Powers American AI Exports Program	11310
 EXIM's Board of Directors	3626
 EXIM's China and Transformational Exports Program	2158,1324,144
+EXIM-Tanzania Memorandum of Understanding	19529
 EXIM. First Street	11310
 EXIM.GOV	14890
 EXIMBANK	15399,3534
 EXIMBANK China	18988
 EXIMBANK Inde	18103
 EXIMBANK de Chine	15399
+EXIM’s Congressional	19529
 EXIST IN NIGERIA	11998
 EXISTANTS	17812
 EXISTENCE D'UNE CONNEXION INTERNET AU SEIN	18169
+EXISTENCE D'UNE CUISINE	19412
 EXISTENCE DE DIFFICULTES D'ORDRE INSTITUTIONNEL JURIDIQUE	18169
 EXISTENCE DE PROJETS STATISTIQUES Q4.1 Votre	18169
 EXISTENCE DES TEXTES REGLEMENTAIRES ET LEGISLATIFS	18169
 EXISTING CUSTOMERS UNDERTAKING A TRANSACTION	17537
 EXISTING NATIONAL ROAMING ARRANGEMENTS	17212
+EXISTING TITLES	19524
 EXISTÊNCIA DE DISPUTAS	17541
 EXIT OFFER	4896
 EXIT OFFER ACCEPT THE EXIT OFFER	4896
@@ -147,9 +153,9 @@ Evaluate Existing Ecosystem	18495
 Exige	3048,5779,3292
 Exigem	2816,8716
 Exigence	15555
-Exigences	10836,129,557,45,476,2437,622,75,232,20,35,8,53,110,308,160,192,1517,7,27,12,457,22,997,29
+Exigences	10836,129,557,45,476,2437,622,75,232,20,35,8,53,110,308,160,192,1517,7,27,12,457,22,997,29,111
 Exigences Opérationnelles du Prestataire	17902
-Exigences Techniques	19334
+Exigences Techniques	19334,145
 Exigences Techniques Technologies	17902
 Exigences de Sécurité	15472
 Exigences du Système	17902
@@ -197,7 +203,7 @@ Existe	966,735,247,6000,55,2749,8,17,594,8,190,449,101,3413,495,848,99,119,1690,
 Existe-t-il	747,4533,1400,8991,2761
 Existem	1215,50,1551,7961,760,19,6,7,449,124,3303,31,2065,1238,22
 Existen	1701
-Existence	1000,187,492,1717,391,339,2833,1477,2275,1,146,16,1082,4,295,134,111,881,61,1046,1,1,239,131,304,329,49,38,93,51,1,10,173,28,690,15,222,22,133,824,3,37,49,238,117,5,14,173,34,385
+Existence	1000,187,492,1717,391,339,2833,1477,2275,1,146,16,1082,4,295,134,111,881,61,1046,1,1,239,131,304,329,49,38,93,51,1,10,173,28,690,15,222,22,133,824,3,37,49,238,117,5,14,173,34,385,622,1
 Existence and Enforcement	12214
 Existence and Enforcement of Laws	12214
 Existence de Coopération Sud-Sud	10874
@@ -216,9 +222,12 @@ Existence du Non Non Oui	17845
 Existence du Non Non Oui Oui Oui	17845
 Existence du Schéma Evaluer le Schéma Directeur du Système	17845
 Existence of Act	11553,2895,3861,269,209
+Existence of Districts	19541
 Existence of Environmental Fiscal Instruments	12389
+Existence of Manual Birth Register	19541
 Existence of Procedure	12389
 Existence of Specialized Schools Inclusive	13016
+Existence of Statistics Units	19519
 Existence of Strategic	11553,6756,269,209
 Existenceofmedical-deviceorSoft-	8301
 Existencia	1701,15197
@@ -228,7 +237,7 @@ Existent	17441
 Existentes	16898
 Existiam	18802
 Existindo	18896
-Existing	27,881,50,3,200,67,33,553,4,49,121,274,71,144,275,196,482,174,257,292,49,58,172,221,36,511,44,8,802,378,400,1,107,162,38,53,175,83,97,3,1,11,148,194,61,206,111,18,302,2,122,60,101,240,759,49,221,58,200,122,80,104,42,66,32,145,11,112,4,2,3,2,125,11,22,26,159,70,302,12,33,94,55,51,101,9,36,9,42,36,62,17,552,131,200,19,17,13,3,11,37,67,219,257,87,596,197,10,3,3,61,20,20,12,50,42,90,9,106,98,69,4,58,7,38,83,60,52,499,54,577,59,37,3,76,96,43,55,38,7,3,397,213,608,78,8,261,106,54,252
+Existing	27,881,50,3,200,67,33,553,4,49,121,274,71,144,275,196,482,174,257,292,49,58,172,221,36,511,44,8,802,378,400,1,107,162,38,53,175,83,97,3,1,11,148,194,61,206,111,18,302,2,122,60,101,240,759,49,221,58,200,122,80,104,42,66,32,145,11,112,4,2,3,2,125,11,22,26,159,70,302,12,33,94,55,51,101,9,36,9,42,36,62,17,552,131,200,19,17,13,3,11,37,67,219,257,87,596,197,10,3,3,61,20,20,12,50,42,90,9,106,98,69,4,58,7,38,83,60,52,499,54,577,59,37,3,76,96,43,55,38,7,3,397,213,608,78,8,261,106,54,252,218,64,56
 Existing AI	1814
 Existing Account Harmonization	14055
 Existing Activity	15969
@@ -241,8 +250,10 @@ Existing Businesses	12022
 Existing CFMs	9331
 Existing Challenges	13418
 Existing Challenges Despite	13418
+Existing Core Competence	19532
 Existing Curricula	6948
 Existing Customers Also Affected	4601
+Existing Data Can Be Leveraged	19555
 Existing ESF	15138
 Existing Educational TV	15604
 Existing Eritrean	14072
@@ -298,9 +309,11 @@ Existing Systems Agencies	12157
 Existing Systems and Their Role	16600
 Existing Transmission Lines	12358
 Existing VAT	13172
+Existing of ICT	19576
 Existing of Telegram	12246
 Existir	549
-Exists	12214,3631
+Exists	12214,3631,3731
+Exists and Exists and Exists	19576
 Existência	549,10818,6,15,42,90,49,329,3,3634,159,3059,28,13
 Existência de Câmaras de Videovigilância	794
 Existência de Regulamentações	11898
@@ -349,6 +362,7 @@ Exits Regain Momentum Exit	4972
 Exits Regained Momentum	4972
 Exits West Africa	4972
 FIEES Existence	18077
+FIRST REGISTRATION OF EXISTING TITLES	19524
 FORCES FAIBLESSES Existence	18291
 FTES Existing	4260
 FTEs Existing	4260,41,1051
@@ -377,6 +391,7 @@ HINa EXIMBaNK	15399
 HRH Funded Government of Uganda Existing	4217
 Hungary's EXIM Bank	9399
 IC-1 Internet Existence	15164
+ICT Strategy Exists	19576
 III.V Existing	1597
 INDICATEUR EXIGENCES MINIMALES Taux	16295
 INSERT Existing	5352
@@ -412,6 +427,7 @@ MICS Existencia	16898
 MPOX Existence	14488
 MTND Responsibility for Data Collection PCU. Existing	3604
 Mali du PRODESS Existence	17845
+Management Exists	19576
 Mandatory Exit Clause The Contract	6432
 Marco Nacional de Garantía de Calidad Existencia	16898
 Meaning Progress Exists	12241

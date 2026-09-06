@@ -196,6 +196,8 @@ ESPIG Date	13732
 ESPIG Education Sector Program Implementation Grant	13990,926
 ESPIG40	11916
 ESPINA	17726
+ESPJ II	19565
+ESPJ-II	19587,1
 ESPK KAYA	15550
 ESPPPAB	15580
 ESPPPAB Enquête	15580
@@ -234,12 +236,14 @@ Ensino Especial	10766
 Entregáveis Esperados	11441
 Entregáveis Esperados O Especialista	11441
 Eric NDIKUMANA Jeanette NDONKEYE Esperance	13300
-Espace	1247,5136,2335,5001,1913,80,196,28,494,1021,10,1,29,388,202,37,206,100,549
+Espace	1247,5136,2335,5001,1913,80,196,28,494,1021,10,1,29,388,202,37,206,100,549,399,21
 Espace AES	4124
 Espace Agent	16685
 Espace CEDEAO	18286
+Espace Citoyen	19431
 Espace JEKAD	6810
 Espace Latrille Event	4183
+Espace Média	19372
 Espace Numérique	15568
 Espace Numérique de Travail	17824
 Espace Numérique de Travail GED	17824
@@ -253,6 +257,7 @@ Espace des Métiers	14721
 Espacement	13300,4543
 Espaces	3044,7832,4692,2550,1248
 Espaces Amis	18265
+Espaces Citoyens	19472
 Espaces Fluviaux	16001,98
 Espaces Numériques de Travail	17824
 Espaces Sénégal Services	7641,217,9784,653,22,113
@@ -261,7 +266,7 @@ Espacial	1215
 Espacio	16875
 Espacios	1701
 Espacios Comunes	16855
-Espagne	2851,2200,1562,777,1501,436,6173,39,3,143,942,821,425,207,34,874
+Espagne	2851,2200,1562,777,1501,436,6173,39,3,143,942,821,425,207,34,874,434
 Espagne Formation	18105
 Espagne. Le Président du Conseil	9086
 Espagnol	17006,2360
@@ -287,7 +292,7 @@ España	8372,2492,665,291,4760,325,37,448,690
 España CABRERA BRASERO	6613
 España PINTO LOMEÑA	6613
 España. Madrid	17390
-Español	11765,571,4535,467
+Español	11765,571,4535,467,2184
 Especiais	8166,3697,3663,3272,55
 Especial	12675,2758,818,669,1841
 Especial Artigo	18750,11
@@ -473,6 +478,7 @@ MANAGEMENT ESPJ	18170
 MON ESPACE PERSO La Direction	18424
 MSF Espagne Norsat LNB	998
 MSF Espagne UBIQUITI NANOSTATION M2	998
+Management Information System ESPJ Education and Skills	19565
 Manuel Espírito Santo Pinto da Costa. Decreto	18753
 Materials Modeling ABINIT Quantam Espresso OpenMX	9475
 Mecanismo Especial de Devolução	11138

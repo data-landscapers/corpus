@@ -13,6 +13,7 @@ Adjudant-chef Major KOMBILA	16175
 Adjudant-chef Major Yannick MAMBENDA-MOUPENDE	16099
 Africa and Global Majority	4253
 Age of Majority Act	11176
+Ajali Vifo Majeruhi Kawaida	19517
 Ambassadeur de Sa Majesté le Roi	8391
 Amina Majukumu	2868
 Analysis of Major Changes	14835
@@ -21,6 +22,7 @@ Announces Major Advances	15103
 Anticipated Major	12358
 Arnaud Perrin-André and Majda Lahlou Kassi	5749
 Article VIII Force Majeure	13031
+Atef Majdoub	19397
 Authority of His Majesty the King Price	12722
 Authority of His Majesty the King. Price	12653,13
 Background and Major Components	18543
@@ -151,12 +153,14 @@ Invitation of His Majesty	12972
 Irene Chisulo Majiga	14190
 Islamic Perspectives and Muslim Majority Country Practices	16902
 Jabulani Majozi	11303
+Jeshi la Polisi Majukumu	19517
 Judiciary4. His Majesty's Correctional Services5. Commission	12936
 K Majali	11289
 Kassim Majaliwa	2718,367
-Kassim Majaliwa Majaliwa	13405
+Kassim Majaliwa Majaliwa	13405,6115
 Kassim Majaliwa Majaliwa L	13405
 Kassim Majaliwa Majaliwa Le Président Ndayishi-	13405
+Kawaida Majumbani Vilabuni Wivu	19517
 Kazi Majuu	5160
 Kenya. Major	1171
 Khartoum. Major ISPs	1887
@@ -171,6 +175,7 @@ Location Project Sponsor and Major Shareholders of Project	16776
 L’ETAT MAJOR DE L’ARMEE DE L’AIR	17982
 L’ETAT MAJOR GENERAL DES ARMEES	17982
 M Major MNOs MTN	10822
+M. Majdoub	19397
 M. Majeed	6948
 MACS. Major Progress Digital Governance	17139
 MAGHREB UNION His Majesty Hassan II	17438
@@ -203,7 +208,13 @@ MAJOR LEADERS OPERATING IN THE DIGITAL	15679
 MAJOR RISKS TO the DRMS IMPLEMENTATION	17011
 MAJORITE PRESI- DENTIELLE	16177
 MAJORITE PRESIDEN-	16177
+MAJUKUMU NA VIPAUMBELE VYA WIZARA	19565
+MAJUKUMU YA BARAZA YA ARDHI NA	19570
+MAJUKUMU YA WIZARA	19592
 MAJUSCULES	4960,62,2035
+MAWILI NA KUSABABISHA VIFO NA MAJERUHI	19517
+Magereza Major Gen. Suleiman Mungiya Mzee	19517
+Main Market Majengo	19585
 Maj Gen	14563
 Maj Gen Castino	4836
 Maj Gen Costa	4836
@@ -226,6 +237,7 @@ Majadiliano	6015
 Majaha M	12255
 Majak Bol	3736
 Majak D'Agot	18666
+Majalada Yaliyopokelewa	19517
 Majalis	16852
 Majalis Derived	16852
 Majaliss	17454
@@ -233,9 +245,18 @@ Majaliwa	3085
 Majaliwa. Waziri	3085
 Majanga	2868,9359
 Majara	10292,3906
+Majarida	19565
 Majda Lahlou Kassi	2528,15
 Majda Lahlou-Kassi	4906
+Majedwali	19517
+Majedwali Jedwali	19565
+Majedwali Jedwali Na	19517
+Majengo	19517,73,2
+Majengo Tarafa	19517
 Majengo. Description	15670
+Majeruhi	19517
+Majeruhi Januari-Desemba	19517
+Majeruhi Watuhumiwa Migogoro Mkoa Me Ke	19517
 Majes-	17367
 Majesties	10169,2753,34,56
 Majesties. Iphalamende	12955
@@ -267,16 +288,22 @@ Majesté le Roi	8891
 Majeur	15640
 Majeure	15901
 Majeurs Atelier	13689
+Maji Nyakanasi Tamau	19592
 Maji Technologies	12036
+Maji-IS	19584
+Maji-IS Enhancement	19584
 Majid	5349
 Majida Idris	15252
 Majidhusain	10197
+Majimbo	19542
 Majina	7250
+Majira	19517
 Majmundar	2096
+Majojoro	19592
 Majok Guandong Thiep's X	3583
 Majoka	11133,9
 Majokdit2024	17608
-Major	320,579,41,614,434,584,1222,65,213,375,162,44,122,197,34,19,175,47,38,160,182,650,215,101,317,105,37,281,215,69,428,557,1137,139,890,54,7,12,15,104,20,25,126,64,1,28,47,586,137,216,21,1,1,17,3,57,69,10,6,18,104,80,104,244,11,97,70,501,49,71,271,428,178,129,2,23,122,68,58,33,25,83,42,166,2,73,26,7,68,214,246,277,46,318,209,28,36,50,3,21,109,9,25,18,103,181,17,411,147,109,176,77,100,51,34,19,275
+Major	320,579,41,614,434,584,1222,65,213,375,162,44,122,197,34,19,175,47,38,160,182,650,215,101,317,105,37,281,215,69,428,557,1137,139,890,54,7,12,15,104,20,25,126,64,1,28,47,586,137,216,21,1,1,17,3,57,69,10,6,18,104,80,104,244,11,97,70,501,49,71,271,428,178,129,2,23,122,68,58,33,25,83,42,166,2,73,26,7,68,214,246,277,46,318,209,28,36,50,3,21,109,9,25,18,103,181,17,411,147,109,176,77,100,51,34,19,275,663
 Major AI	4030
 Major AKOUANGO LOUMBA	16175
 Major Abdoulaye SACKO Mle	17828
@@ -414,9 +441,10 @@ Majozi	1289
 Majozi Sithole and Martin Dlamini	11131
 Majuba	11215,13
 Majuca	17209,117
-Majukumu	6019
+Majukumu	6019,13498,24,24,27,27
 Majumder M	17773
 Majumder and Tripathi	17773
+Majumuisho	19535
 Majune	2989
 Majuro	13042
 Majwaneng	12618
@@ -430,10 +458,12 @@ Maréchal de Logis Chef Major TOULEKIMA NKOUOMI	16381
 Mhe. Kassim Majaliwa	1921
 Michael Ekumfi District Assembly Launches Major	16076
 Minister of Labour and Home Affairs Major General	8165
+Mkuranga DC Majengo	19592
 Mr. Mark Majodina	14471
 Mr. Ramadhan Majeed Mogga Keri	18696
 Ms. Maja Gavrilovic	16867
 Mykolas Majauskas	9658
+NA MAJERUHI	19517
 NCA EMBARKS ON MAJOR STEPS	18649
 NDAYAHOZE Triphine BARANYIZIGIYE Majoric NDORERE J	13300
 NSS. Major	16927
@@ -480,6 +510,7 @@ SODE SPFP Majoritaire SPFP	2342
 SOETOR Kodjo MAJ	19251
 SPFP Majoritaire Agence Nationale	2342
 SPFP Majoritaire INFORMATIONS GÉNÉRALES	2342
+SURA YA KWANZA MAJUKUMU NA VIPAUMBELE	19565
 Sa Majesté	8891,8565
 Sa Majesté Ambassadeur du Royaume du Maroc	8891
 Sa Majesté Emmanuel Mvom Abolo	8737
@@ -490,6 +521,7 @@ Sa Majesté le Roi du Qatar	13405,1
 Sa Majesté le Sultan de N’Djaména	18987
 Sabelo Majola	13047,1211
 Sceau de Sa Majesté Hassan II	17535
+School Majani	19584
 Second Deputy Majority Whip	8896
 Sectors Major Sector FY17	16436
 Sekou Ibn Majey Kamara	17070
@@ -506,6 +538,7 @@ Serigne Abdou Aziz Mbacké Majalis	8031
 Serigne Abdou Aziz Mbacké Majalis. Selon	8031
 Shreyasee Majumder	9921
 Simon Majur Pabek	2023
+Sita Majumuisho	19535
 Social Protection Themes Major Theme	15601
 Son Excellence Kassim Majaliwa Majali- Dans	13405
 Sous la Haute Impulsion de Votre Majesté	8891
@@ -516,7 +549,9 @@ Sugarland Beach Next NRA Uncovers Major	5939
 T-I20-2 AI Joint Majors AI	15713
 TAT MAJOR PARTICULIER	17972
 TCHADE Pouyemindeou MAJ	19251
+Taifa. MAJUKUMU YA WIZARA	19592
 Tamasauskas Associate Partner Gorazd Majstorovikj Senior	14621
+Teknolojia Majukumu	19565
 Tendlovu Yemhlaba. Your Majesty	12955
 Themes Major Theme	15424,239,2186,13
 Themes Major Theme Theme	15731
@@ -531,10 +566,12 @@ UVRE DES RESULTATS MAJEURS DES PROGRAMMES	3396
 Under the High Patronage of His Majesty King	2577
 United Kingdom's His Majesty's Revenue	17367
 United Kingdom’s His Majesty’s Revenue and Customs	12951,4250
+Vifo Majeruhi Januari-Desemba	19517
 Vision de Sa Majesté le Roi	17499
 Vodacom Secures Majority Control of Safaricom	2302
 Votre Majesté	8891
 WAZIRI MKUU MAJALIWA	1921
+Wapima Ardhi. Majukumu	19592
 Waziri Mkuu Majaliwa	1921
 XI. RISQUES MAJEURS ET LES MESURES	15624
 YELE Tchaa Sizing MAJ	19251

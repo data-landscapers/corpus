@@ -260,7 +260,7 @@ Centro Preescolar Memu	4209
 Cessation of Membership	11851
 Chairman Saïd Toorbuth Member Ishwar Anoopum	14744
 Chairman and Board Members	18592
-Chairman and Members	17347,1194
+Chairman and Members	17347,1194,984
 Chairman and Members of HEC	15393
 Chairman of Rwanda Medical and Dental Council. Members	15056
 Chairmen and Ranking Members	7695
@@ -364,6 +364,7 @@ Delegation of Membership Suspension and Termination Powers	8866
 Delivery Unit Members	11857
 Departments Achieved Presidential Hotline Members	11224
 Deputy Governor and Members	15102
+Deputy Speaker and Member of Parliament for Babati Rural	19602
 Develop Legal and Members Regulatory Frameworks	961
 Diallo Team Member Michel Rogy Procurement	15424
 Dicko Team Member Maiada Mahmoud Abdel	15663
@@ -422,7 +423,7 @@ ESSAMY NGATSE Membre Placide MOUDOUDOU Membre	15615,632
 ESTATUTO REMUNERATÓRIO DOS MEMBROS DO CONSELHO	752
 EU FLEGTVoluntary Partnership Agreement AIDE MEMOIRE	16853
 EU Member	14883
-EU Member States	644,145,181,8582,538,1120,16,767,208,1259,423,745,2003,1541,286,327
+EU Member States	644,145,181,8582,538,1120,16,767,208,1259,423,745,2003,1541,286,327,611,142
 EU Member States Ambassadors	13170
 EU Member States. Special	10090
 EU and Member States	970,10566,7104
@@ -430,6 +431,7 @@ EU and Member States1	970
 EWG Chairman. Members	13990
 EX-OFFICIO MEMBER	12951
 EX-OFFICIO MEMBER Sam	12951
+EXIM-Tanzania Memorandum of Understanding	19529
 EXPLANATORY MEMORANDUM PFM E-CITIZEN REGULATIONS	14599
 EXPLANATORY MEMORANDUM This Act	11976
 EXTRACTS FROM THE MEMORANDUM AND ARTICLES	4896
@@ -518,9 +520,11 @@ Federal Member States' Ministries of Education	14916
 Federal Member States. Sectors	14925
 Felix Lawson Team Member Disbursement	19284
 Fermé Notice Type Pays Membre	16662
+Finance MoU Memorandum of Understanding MUSE Centralised	19585
 Finances MEMBRES DU COMITÉ TECHNIQUE Président	10712
 Finances MEMP Ministère	15479
 Finances Membres	10712
+Financial Memoranda	19525
 Fintech Department. Members	17104
 Fire Safety and Fire Risk Management for Members	14761
 First Member for Savanne	14753
@@ -629,6 +633,7 @@ Honourable Chair and Members	12971
 Honourable Member	6196
 Honourable Members	3264,2888,1543,3520,41,19,2,1329,350,15,11,2,40,98,1626,2480,119,1108
 Honourable Members of Both Houses Of Parliament	12955
+Honourable Members of Parliament	19602
 Honourable Mosa ChabaneHonourable Members	6196
 Honourable Speaker Honourable Members	13024
 Honourable Speaker Honourable Members My	3264
@@ -638,7 +643,7 @@ Hotspot Operators Mao Warns DP Members	4608
 House of Representatives and Member	15336
 House. Hon. Government Members	13387
 House. Hon. Members	13387
-Household Member Roster	17127
+Household Member Roster	17127,2486
 Household Member Roster B00	17127
 Household Members	17043,71
 Household Members Number Name Relationship	17114
@@ -746,6 +751,7 @@ Kigali Genocide Memorial and AVEGA	12358
 Kigali Memorial Site	718
 Kouessi AKOSSOU Ouémé Membre	16485
 Kpango Team Member Operations No Sariette	19284
+Kupunguza Umaskini Zanzibar NPS NSAs Memorandum	19519
 KwaZulu-Natal. Members	5621
 LECTRONIQUE DANS LES ETATS MEMBRES	11522
 LEG Members	15604
@@ -785,6 +791,8 @@ Lieutenant-colonel BIGNAN Essizewa Memadema	19251
 Lieutenant-colonel Demba N’DAW Membre	17982
 Lilongwe Msinja South Constituency Member of Parliament	7486
 List of TRS Technical Working Group Members	17367
+Local Government Financial Memoranda	19525
+Local Government Financial Memorandum	19525,60
 Loving Memory Rosemary Koech	10694
 Lugongolweni Member of Parliament	13072
 Lunga Lunga Member of Parliament Mangale Chiforomodo	8214
@@ -884,6 +892,7 @@ MOU Memorandum of Understanding MTFF	11863
 MOU Memorandum of Understanding MTR Midterm Review	15511
 MOZAMBIQUE Preamble This Memorandum of Understanding	4260
 MP Member of Parliament MSWGCA Ministry of Social	18504
+MP Member of Parliament NBS National Bureau	19531
 MPC Members	17104
 MPC Members Present Name Role Mr	17317
 MPCC Member Dr. Phil Mnisi	11131
@@ -999,7 +1008,7 @@ Member State. For São Tomé and Príncipe	18985
 Member State. Medium	15725
 Member State. Section	28
 Member State. This Supplementary Act	11517,3846
-Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26,26,29,14,5,83,30,30,43,54,40,158,13,39,18,7,213,94,1,7,13,89,65,38,116,216,11,104,28,135,72,12,100,6,38,10,60,86,21,195,2,191,160,82,92,75,71,37,59,7,157,47,68,29,62,51,122,41,94,55,132,47,14,155,214,44,106,37,15,48,166,64,11,102,11,5,13,3,55,150,50,180
+Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26,26,29,14,5,83,30,30,43,54,40,158,13,39,18,7,213,94,1,7,13,89,65,38,116,216,11,104,28,135,72,12,100,6,38,10,60,86,21,195,2,191,160,82,92,75,71,37,59,7,157,47,68,29,62,51,122,41,94,55,132,47,14,155,214,44,106,37,15,48,166,64,11,102,11,5,13,3,55,150,50,180,31,31,111
 Member States Agriculture	6422
 Member States Approved	10819
 Member States Benin Cabo Verde Côte	16243
@@ -1082,19 +1091,27 @@ Member for Wuli East	5273
 Member for Wusakile	13387
 Member of HEC	15393
 Member of MNE Group	3161
-Member of Parliament	3229,1354,174,3456,155,177,1768,2328,4,603,46,93,33,52,19,2840,2105,23,82,22
+Member of Parliament	3229,1354,174,3456,155,177,1768,2328,4,603,46,93,33,52,19,2840,2105,23,82,22,962,77
 Member of Parliament Fadiel Adams. Take	10263
 Member of Parliament MPox Monkey Pox MPCU	12970
 Member of Parliament Minister of Trade	11250
+Member of Parliament and Minister for Finance	19602
 Member of Parliament for Arusha Urban	7360
 Member of Parliament for Chilubi. Mr Speaker	13387
 Member of Parliament for Dagoretti South. Eng. Tanui	5108
 Member of Parliament for Harare East Constituency	13493
+Member of Parliament for Ilala Constituency	19602
+Member of Parliament for Iramba West	19602
+Member of Parliament for Isimani Constituency	19602
+Member of Parliament for Jang'ombe Constituency	19602
 Member of Parliament for Kamfinsa	13387
+Member of Parliament for Kavuu Constituency	19602
 Member of Parliament for Kibamba	8884
 Member of Parliament for Kilifi North	10313
+Member of Parliament for Maswa West Constituency	19602
 Member of Parliament for Maun West	7671
 Member of Parliament for Molepolole South	12573
+Member of Parliament for Special Seats	19602
 Member of Parliament for Tano North	8368
 Member of Parliament for Tlokweng Mr Phenyo Segokgo	12619
 Member of Parliament. Payments	13420
@@ -1110,7 +1127,7 @@ Member-only	3513
 Member. Hon. Members	10313
 Member. Mr Kafwaya	13387
 Member. The Board	585
-Members	573,12,2,374,170,91,21,395,988,101,15,195,7,2,12,68,477,10,70,117,14,147,667,233,39,880,67,26,229,122,488,71,148,115,1,127,38,21,232,26,73,26,47,32,127,271,45,3,154,252,64,247,134,463,177,2,137,116,198,99,152,103,62,55,346,43,227,85,3,123,8,7,9,4,4,14,49,4,161,29,153,97,5,11,43,94,109,31,56,56,89,123,18,81,14,119,1,5,1,9,7,24,202,16,45,17,52,28,66,38,77,54,17,28,55,83,235,243,17,31,28,45,9,49,22,1,56,10,24,169,13,71,101,71,71,6,6,5,19,7,19,12,52,1,1,25,18,90,24,2,4,75,29,113,69,80,18,73,22,68,470,235,272,292,7,17,20,28,57,12,33,87,15,5,76,28,89,30,20,100,182,97,35,5,584,50,16,2,25,2,1,1,2,126,1,1,27,264,5,57,20,15,22,166,169
+Members	573,12,2,374,170,91,21,395,988,101,15,195,7,2,12,68,477,10,70,117,14,147,667,233,39,880,67,26,229,122,488,71,148,115,1,127,38,21,232,26,73,26,47,32,127,271,45,3,154,252,64,247,134,463,177,2,137,116,198,99,152,103,62,55,346,43,227,85,3,123,8,7,9,4,4,14,49,4,161,29,153,97,5,11,43,94,109,31,56,56,89,123,18,81,14,119,1,5,1,9,7,24,202,16,45,17,52,28,66,38,77,54,17,28,55,83,235,243,17,31,28,45,9,49,22,1,56,10,24,169,13,71,101,71,71,6,6,5,19,7,19,12,52,1,1,25,18,90,24,2,4,75,29,113,69,80,18,73,22,68,470,235,272,292,7,17,20,28,57,12,33,87,15,5,76,28,89,30,20,100,182,97,35,5,584,50,16,2,25,2,1,1,2,126,1,1,27,264,5,57,20,15,22,166,169,183,17
 Members Framework B Design of Monitoring for High-level	961
 Members Meetings	3714
 Members Ms. Irene Croise	18979
@@ -1130,7 +1147,7 @@ Members of Local Councils. Officers and Personnel	15393
 Members of MIPA	14833
 Members of Ntlo	12580
 Members of OAPI	16972
-Members of Parliament	1222,749,771,1034,1567,168,9,613,918,1349,561,8,127,25,106,73,41,55,1735,3,36,162,1169,12,67,8,3,144,254,59,5,43,34,118,70,63,6,33,71,117,614,256,270,24,200,49,2995,420,22,1,8,47,8,19,150
+Members of Parliament	1222,749,771,1034,1567,168,9,613,918,1349,561,8,127,25,106,73,41,55,1735,3,36,162,1169,12,67,8,3,144,254,59,5,43,34,118,70,63,6,33,71,117,614,256,270,24,200,49,2995,420,22,1,8,47,8,19,150,834,17
 Members of Parliament and Constituent	12641
 Members of Parliament of Malawi	12979
 Members of Parliament of Mali	18016
@@ -1173,12 +1190,13 @@ Membership of Professional Associations	13037
 Membership of SADC	19185
 Memberships	3503,2277,1224
 Membrana Hialina	16962
-Membre	3368,7343,398,2281,52,364,1633,19,30,144,545,110,198,108,1236,132,21,110,1097
+Membre	3368,7343,398,2281,52,364,1633,19,30,144,545,110,198,108,1236,132,21,110,1097,184
 Membre Considérant	15439,738
 Membre Delphine EMMANUEL ADOUKI Membre Jean	15420
 Membre FED	643
 Membre Jacques BOMBETE Membre Delphine EMMANUEL	15420
 Membre Nadia Josiane Laure MACOSSO Membre	15615,632
+Membre Permanent	19373
 Membre Représentant la Présidence	16175
 Membre Représentant le Ministère des Transports	16175
 Membre Vu	16177
@@ -1189,7 +1207,7 @@ Membre du G5 Sahel Câbles	17860
 Membre du Panel des Sages	18310
 Membre. Article2	13588
 Membre. Elle	15724
-Membres	643,540,7708,1950,35,99,2350,1212,98,392,325,14,10,7,17,16,13,3,6,98,149,39,61,116,35,181,78,149,272,29,843,26,298,5,7,5,3,1,26,15,7,1,150,295,102,791
+Membres	643,540,7708,1950,35,99,2350,1212,98,392,325,14,10,7,17,16,13,3,6,98,149,39,61,116,35,181,78,149,272,29,843,26,298,5,7,5,3,1,26,15,7,1,150,295,102,791,148
 Membres Actifs	16214
 Membres Afrique du Sud Algérie Angola Bénin	15724
 Membres Art	18327
@@ -1222,7 +1240,7 @@ Memoires and Implementation Status Reports	16436
 Memon	8603
 Memoranda	7548,3022,966,5413
 Memoranda of Incorporation	3714
-Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,215,801,28,1290,894,641,580,4,511,25,138,82,68,158,68,1425,124,635,797,229,418,425,1000,98,261,115,32,453,1
+Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,215,801,28,1290,894,641,580,4,511,25,138,82,68,158,68,1425,124,635,797,229,418,425,1000,98,261,115,32,453,1,521
 Memoranda of Understanding ND-GAIN Notre Dame Global	18293
 Memoranda of Understanding. BOS	12706
 Memorando	10751,2049,10,36,4188
@@ -1246,7 +1264,7 @@ Memorandum Of Understanding	11923,6547
 Memorandum Opinion	13461
 Memorandum and Article of Association	14880
 Memorandum and Articles	3714,549,8079
-Memorandum and Articles of Association	972,2742,1182,7446
+Memorandum and Articles of Association	972,2742,1182,7446,7243
 Memorandum and Articles of Association of Econet	4896
 Memorandum and Articles of Association of Econet InfraCo	4896
 Memorandum and Articles of Association. ANNEXURE D3	4896
@@ -1261,7 +1279,8 @@ Memorandum of Incorporation the Registrar	3714
 Memorandum of Objects	6231
 Memorandum of Objects and Reasons	410
 Memorandum of The Commission	12395
-Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205,119,24,31,43,25,64,163,80,151,139,23,116,38,33,31,21,1,15,4,20,26,57,3,154,60,33,7,5,33,27,67,1,12,37,22,1,25,103,122,9,98,76,58,109,25,1,46,29,32,6,49,13,35,3,56,16,4,37,93,40,142,67,129,83,54,2,1,26,2,4,15,1,16,30,6,19,26,6,66,28,43,66,10,11,47,68,4,80,11,257,71,168,36,8,18,83,226,9,374,216,5,4,65,26,26,22,3,16,7,41,26,18,23,32,7,1,31,7,47,10,55,7,75,203,109,55,163,56,189,48,17,23,8,7,2,46,27,167,30,32,3,17,21,4,1,43,114,52,36,64,176,1,48,21,4,1,18,10
+Memorandum of Understand	19519
+Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205,119,24,31,43,25,64,163,80,151,139,23,116,38,33,31,21,1,15,4,20,26,57,3,154,60,33,7,5,33,27,67,1,12,37,22,1,25,103,122,9,98,76,58,109,25,1,46,29,32,6,49,13,35,3,56,16,4,37,93,40,142,67,129,83,54,2,1,26,2,4,15,1,16,30,6,19,26,6,66,28,43,66,10,11,47,68,4,80,11,257,71,168,36,8,18,83,226,9,374,216,5,4,65,26,26,22,3,16,7,41,26,18,23,32,7,1,31,7,47,10,55,7,75,203,109,55,163,56,189,48,17,23,8,7,2,46,27,167,30,32,3,17,21,4,1,43,114,52,36,64,176,1,48,21,4,1,18,10,230,123,66
 Memorandum of Understanding Artefact	2450
 Memorandum of Understanding M.Sc. Master of Science NAPs	18578
 Memorandum of Understanding MPOX	10776
@@ -1274,14 +1293,16 @@ Memorandum of Understanding Signing Ceremony Under	14890
 Memorandum of Understanding URL	19112
 Memorandum of Understanding and Commercial Terms Agreement	6664,6524
 Memorandum of Understanding for Cooperation	18857
+Memorandum of Understanding. IP	19396
 Memorandum of Understanding. PIC. Business Botswana Business	2360
 Memorandum of Understandings	15447,216,1189
 Memorandums of Agreement	12597
-Memorandums of Understanding	4030,2904,2497,1703,1224,6598
+Memorandums of Understanding	4030,2904,2497,1703,1224,6598,563
 Memorandums of Understanding Three MoUs	11134
 Memorial Agostinho Neto	10752
 Memorial Secondary School	18583
 Memorial University of Newfoundland	16467
+Memorials	19524
 Memories	10776
 Memorizing	4439
 Memory	5793,3682,2477,138,591,504,1589
@@ -1470,6 +1491,7 @@ PCU. Membership	18504
 PDC Participation Observing Member	15276
 PDC Participation Observing Member Sitemap	11493,5940,1926
 PDC Participation Participating Member Observing Member	16597
+PEERS AND MEMBERS	19625
 POLICE MEMOS	18486
 PORTANT NOMINATION DE MEMBRES	18032
 PORTANT NOMINATION DES MEMBRES	17841,20
@@ -1803,6 +1825,7 @@ UPND Members. Madam First Deputy Speaker	13387
 URGED Member States	13440
 URGED the Member States	13440
 US Memorandum of Agreement	4049
+USE BY ALL MEMBERS	19542
 Union Member State	16843
 Union Member States	16843
 United Nations Member States	12453,695,197,1397,705,1438

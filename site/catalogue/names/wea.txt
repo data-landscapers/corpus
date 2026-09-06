@@ -12,6 +12,7 @@ Another Term of Lost Wealth	11105
 Area Education Wealth Quintile National	18441
 Area Education Wealth Quintile National Information	18441
 Area Education Wealth Quintile National Percentage	18441
+Area Observed Weakness Indicator Asset Risk	19585
 Area Wealth	18441
 Area Wealth Quintile Mother's Education National	18441
 Area Wealth Quintile Natio	18441
@@ -74,6 +75,7 @@ Executive Summary Executive Summary Weather and Climate	11553
 FM Weak	3604
 Farmer Security and Enforcement Weak	14818
 Final Report A4.2. Asset Wealth Index	12006
+Financial and Governance Weaknesses Noted	19585
 Forecasts ECMWF-IFS European Centre for Medium-Range Weather	18578
 Free Disposal of Wealth and Natural Resources	14742
 GDP Weaknesses	11895,264
@@ -83,6 +85,7 @@ GIMAC. Weak	15447
 Gebro and Joyclyn Wea	6166
 Gender Inequity Governance Weakness Women	12457
 GoShop and Weast Energie	11923
+Governance Weak	19585
 Governance Weaknesses	17364
 Graca Machel Trust Women Creating Wealth	1857
 Graça Machel Trust's Women Creating Wealth	1857
@@ -99,6 +102,7 @@ Income Group Wealthiest Income Group Poorest	10829
 Jabel Mara Weast JabelMara Central	15244
 KEY WEAKNESSES	15447,33
 Key Weakness	7707
+Key Weakness Status Idle LGA Identified	19585
 Key Weaknesses	15447,33
 Landscape Weaknesses	16923
 Lesotho Climate and Weather Enhancement Initiative	12728
@@ -114,7 +118,10 @@ Monitoring and Accountability Weak	14818
 Monthly Weather Review	15907
 Mr. Kaman Weah	17090
 Mrs. Julie T.B. Weah Foundation for Community	16853
+N LGA Name Remark Weaknesses	19585
 NSO No Weaknesses	13005
+Name Key Weaknesses Identified Dodoma CC	19585
+Name of LGA-Football Club Weakness	19585
 National Meteorological Services NWP Numerical Weather	18578
 National Petroleum Wealth Fund	3583
 Non-Proliferation of Weapons of Mass Destruction	2626
@@ -158,6 +165,7 @@ Residence Wealth Quintile Woman's Education Age	18441
 Residence Wealth Quintile Woman's Education Percentage	18441
 SA Weather Service	3290
 SEVERE WEATHER FORECASTING DEMONSTRATION	12649
+SLAs. Weak	19584
 SWOT ANALYSIS STRENGTHS WEAKNESSES	4126
 SWOT Analysis WEAKNESSES OPPORTUNITY THREAT	14835
 Sector High Weak	11916
@@ -196,6 +204,8 @@ Substantial. Weak	1264,14254,141
 Summary of Emergent Strengths and Weaknesses	12759
 Supporting Inclusive Wealth Creation	12941
 System ECMWF European Centre for Medium-Range Weather	18578
+Systemic Weaknesses	19585
+Tanzanite Kwaraa Stadium Area Observed Weakness	19585
 Tools and Weapons	1038
 Toxin Weapons	18914
 Under the World Meteorological Organization Severe Weather	15916
@@ -207,6 +217,7 @@ WAFS Significant Weather	18128
 WEAK PROVENANCE	1960
 WEAK READINESS	11156
 WEAKEST LINK	12050
+WEAKNESS	19519
 WEAKNESSES	12973,1756,718,33
 WEAMU	16144
 WEATHER FORECAST	18309
@@ -221,18 +232,23 @@ Weah FCI Green Advocates Mr. Edward	16857
 Weak AI	7548,10336
 Weak Accountability and Transparency	6936
 Weak Areas	18628
+Weak Authentication Controls Over Privileged User	19584
 Weak BSC	16863
+Weak Controls Over Database Access Authorisation	19584
+Weak Controls Over Emergency System Changes	19584
 Weak Coordination	17139
 Weak Coordination Digital	5975
 Weak DJIBOUTI	13868
 Weak Data Integration and Monitoring Systems	15845
 Weak Data Reliability and Gaps	17364
+Weak Database Backup and Recovery Controls	19584
 Weak Debt Management Liberia	17364
 Weak EMIS	11916
 Weak Enforcement and Institutional Capacity	11400
 Weak Fixed Asset Controls	9650
 Weak GDPR	8436
 Weak Government	18458
+Weak ICT Governance Due	19584
 Weak IP	15480
 Weak Implementation	17139
 Weak Improve M&E Deepen	15845
@@ -247,8 +263,10 @@ Weak Legal and Regulatory Environment	16876
 Weak Management Information Systems	14860
 Weak Maritime Security	15845
 Weak Monitoring	17139
+Weak Monitoring and Oversight of ICT Vendor Performance	19584
 Weak PFM	10829,6029
 Weak Rule of Law	17260
+Weak Security Log Review and Monitoring Controls	19584
 Weak Teacher Management Information Systems	14057
 Weak Weak	11156
 Weak Weak Weak Weak	13868
@@ -258,11 +276,14 @@ Weaker	11136,4028
 Weaker-than-expected	17257
 Weaker-than-expected Artificial Intelligence	13685
 Weakest	15164
-Weakness	5134,543,692,4769,123,2400,1273,2077,1143,888
-Weaknesses	766,2396,964,88,314,3020,3853,124,338,53,243,1,44,308,399,62,32,307,2,1232,314,63,488,62,83,240,49,132,351,530,5,64,16,29,13,26,185,61,32,555,465,166,10,309
+Weakness	5134,543,692,4769,123,2400,1273,2077,1143,888,477
+Weakness Noted	19585
+Weaknesses	766,2396,964,88,314,3020,3853,124,338,53,243,1,44,308,399,62,32,307,2,1232,314,63,488,62,83,240,49,132,351,530,5,64,16,29,13,26,185,61,32,555,465,166,10,309,725,1,64,1
 Weaknesses AI	4528
 Weaknesses Experienced	5533,6453
+Weaknesses Identified	19585
 Weaknesses Indicator	12351
+Weaknesses Noted	19585
 Weaknesses Opportunities Threats	17364
 Weaknesses Strengths Weaknesses Zimbabwe's Strengths for AI	12512
 Weaknesses Strengths Zimbabwe’s Strengths for AI	4528
@@ -323,6 +344,7 @@ Weather and Climate	10584
 Weather and Climate Information Services	13201
 Weather and Climate Services	17922
 Weatherbed	17780
+Weatherill	19520
 Weatherman	9736
 Weaving	17585
 West African Sahel. Weather and Climate Extremes	16135

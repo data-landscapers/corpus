@@ -100,7 +100,7 @@ Angola’s Workforce	10776
 Anne Audrey MAEVA BEMANANJARA Working	17101
 Annual Core Data and Working Environments Survey	15164
 Annual Program of Work	13392
-Annual Work Plan	2989,1411,7841,474,365,15,2035,1840,15,1320,4
+Annual Work Plan	2989,1411,7841,474,365,15,2035,1840,15,1320,4,1210
 Annual Work Plan PIU Management and Budget	2989
 Annual Work Plan Review	14546
 Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40,1265,10,13,666,1008,12
@@ -116,6 +116,7 @@ Anticipatory Action Review Workshop Official Launch	13080
 Apply for Work Permit View Requirements	18540
 Approach That Works	5700
 Approval of Ghana’s Tech4Ed Workplan	17196
+Approving TSMP II Annual Work Plan	19519
 Arab AI Working Group	3160
 Arab League’s AI Working Group	15713
 Architecture Working Group	16924
@@ -275,6 +276,7 @@ Commission Staff Working Document	6477,2590,9918
 Commission for Works of Public Interest	15511
 CommunicationsCommunity Development Workers	11215
 Community Animal Health Workers	4202
+Community Banks WCF Workers Compensation Fund	19531
 Community Development Worker Ms Devoline Koopman	11287
 Community Engagement Technical Working Group	18665
 Community Health Extension Worker	771
@@ -285,7 +287,7 @@ Community Health Worker COPIL National Health	10829
 Community Health Worker CoD	12338
 Community Health Worker Integration Roadmap	18532
 Community Health Worker Programs Maturity Toolkit	12255
-Community Health Workers	4260,41,1051,2214,3959,61,3377,870,144,994,997,564
+Community Health Workers	4260,41,1051,2214,3959,61,3377,870,144,994,997,564,1023
 Community Health Workers The Federal Government	18158
 Community Health Workers Year	4202,147
 Community Health Workers and Health Workers	18474
@@ -435,7 +437,7 @@ Digital Services Taxes Work	14932
 Digital Skills Program Design Workshop and Interactive	17070
 Digital Skills Workshop Series	17592
 Digital Trade Regulators' Working Group	9035
-Digital Transformation Working Group	17070
+Digital Transformation Working Group	17070,2464
 Digital Transformation Working Group Nicolas M	17070
 Digital Work Environment Project	19245
 Digital Work Environment Project25	19245
@@ -488,6 +490,7 @@ Earthworks Civils Works Complete Foundation	11134
 Ease of Access Working Group	6867,1
 East Africa Regional Data Governance Workshop	13944
 Economic Affairs Ministry of Works	17105
+Education Infrastructure and Public Works	19585
 Education Pre-Conference Workshop	11307,2871
 Education Sector Working Group	17196
 Education Sector Working Group Stakeholders	12175,1815
@@ -503,6 +506,7 @@ Electrical Works Electrical	12253
 Electrical Works for E-Health Region	14817
 Electrical and Plumbing Works	14738
 Email Support MT Workers No Comments	5482
+Emergency Fund WCF Workers Compensation Fund	19541
 Emergency Urban Labor Intensive Works Program	16614
 Emergency Urban Labor-Intensive Public Works Program	16614
 Emerging Countries Working Group	14077
@@ -576,6 +580,8 @@ Foreign Workers	11218
 Forest Governance Workshop	16853
 Forestry and Fishery Workers	16266
 Forestry and Fishery Workers Plant and Machine Operators	16266
+Formation of Big Data Technical Working Group	19519
+Formulate Big Data Technical Working Group	19519
 Foundation's Young Africa Works	13258
 Fourteen Consumer Rights The Working	5676
 Fourteenth General Programme of Work	15725
@@ -631,6 +637,7 @@ General Work Visa Percentage	11986
 General Worker	14745,90
 General Workers	14773
 General and Keyboard Clerks Handicraft and Printing Workers	16266
+Generation of Skilled Agricultural Workforce Engagement	19532
 Ghana Community Networks Policy Dialogue and Workshop	8247
 Ghana Tajikistan Workplan	17196
 Ghost’ Workers	4640
@@ -681,6 +688,7 @@ Handicraft and Printing Workers	16266
 Hands-On Workshops	12675
 Harmonisation Workshop	17627
 Health AI Governance Workshop	9784
+Health Care Workers	19544
 Health Extension Workers	1219,11027,9,1868
 Health Financing Technical Working Group	13166,3805
 Health Ministry of Public Works	1228
@@ -714,6 +722,7 @@ HoS Inaugurates Technical Working Committee	10156
 Hon. Commissioner of Works Land	11129
 Hon. Minister for Public Works and Transport	13126
 Hosted AFI Working Groups	11131
+Hours Worked	19613
 Human Capital and Workforce	12240
 Human Capital and Workforce Innovation	18480
 Human Health and Social Work	15085,3398,5
@@ -728,6 +737,7 @@ Humanitarian Action Working Group	15115
 Hydro Meteorological Working Group	14949
 I WORK REMOTELY DUE	1940
 ICPC Working Groups	3513
+ICT Technical Working Group	19544
 ICT Workshops	13361
 ICT and Workshop	6946
 ICTD Working Paper	1589,10573,786
@@ -747,6 +757,8 @@ IMF Working Paper No WP	13868
 IMF Working Paper No. WP	1828
 IMF Working Paper WP	1828,9028,141,143,2484
 IMF Working Papers	1828
+IMPLEMENTATION FRAME WORK Implementation	19519
+IMPLEMENTATION OF THE WORKPLACE PROGRAMME	19544
 INCLUDED IN WORKS CONTRACTS	15411
 INCLUDING THE WORKFORCE The AI	9106
 INDIA IS COMMITTED TO WORKING CLOSELY	12568
@@ -771,6 +783,7 @@ India. IMF Working Paper	13624
 Industry Working Group	13314
 Industry Working Group. Ensure	13314
 Information Disclosure Relevant Labor and Working Conditions	1284,9545,135,2367,1,2221,68,1301
+Infrastructura Ministry for Work	19519
 Infrastructure Donors Working Group	15659
 Infrastructure Working	14879,1993
 Infrastructure and Energy for AI-Enabled Work	16050
@@ -840,6 +853,7 @@ Key Healthcare Workforce	14829
 Kick-off Workshop	18330,175
 Knowledge Worker Productivity and Quality. Harvard Business	16266
 LESSONS LEARNED What Worked	12064,1156
+LGAs and Working Groups	19519
 LINK NOT WORKING	5247
 LIVING AND WORKING IN SEYCHELLES All	19040
 LMITS and Rights and Boundaries Work	15570
@@ -904,6 +918,7 @@ MICDE Establish Technical Working	7548
 MICDE Secretariat and Technical Working Groups	7548
 MICDE Sector Working Group Report	7548
 MINISTRY OF PUBLIC WORKS	13126
+MINISTRY OF WORKS	19511
 MOPWT Ministry of Public Works and Transport MP	12970
 MPDI Working Groups	6938
 MSR Kick-off Workshop	13191
@@ -975,6 +990,7 @@ Min of Works Cons	16858
 Minimum Workstation Configuration Requirements	12364
 Mining Sector Working Group	13060
 Minister for Transport and Public Works	14673
+Minister for Works	19511
 Minister of Infrastructure and Public Works	16649
 Minister of Local Government and Public Works	13673
 Minister of Local Government and Public Works Daniel	13646
@@ -1001,11 +1017,13 @@ Ministry of Public Works and Transport	12962,10,5,116,3779
 Ministry of Transport FMW&H Federal Ministry of Works	11857
 Ministry of Transport Works and Infrastructure	16967
 Ministry of Transport and Public Works	2736,10386,1552
-Ministry of Works	3061,3150,1484,4162,238,224,657,3911,28
+Ministry of Works	3061,3150,1484,4162,238,224,657,3911,28,2670
+Ministry of Works Guide for Road Signing	19585
+Ministry of Works Level	19584
 Ministry of Works and Housing	11129,4716
 Ministry of Works and Public Assets	18504
 Ministry of Works and Public Assets MWR	18485
-Ministry of Works and Transport	11681,414,224
+Ministry of Works and Transport	11681,414,224,7200
 Ministry of Works and Transport. Despite ASYCUDAWorld	16631
 MoPWNR Minister of Public Works and Natural Resource	18754
 Mobile Governance Initiative Workshop	14258
@@ -1016,6 +1034,9 @@ Monthly Payments Working Group	12335
 Monthly Rate Working Months Total Cost	13031
 Moving Works Activity	16863
 Multi-Stakeholder Workshop	1554
+Multi-Year Suspension of Construction Works	19585
+Multi-Year Suspension of Construction Works S	19585
+Multi-Year Suspension of Construction Works TZS	19585
 MultiStakeholder Convening Workshop	1554
 Multidisciplinary Working Group	18309
 Multidisciplinary Working Group GTS	18309
@@ -1049,6 +1070,8 @@ NTFC Strategic Induction and Roadmap Workshop	8845
 Namibian AI Working Group	13048
 Namibian. Work	13104
 National Agency for Large-Scale Works and Infrastructures	15411
+National Average Workload	19541
+National Average Workload Annual Average Availabl	19541
 National Bridging Workshop	12729,3237
 National Capacity-Building Workshop	7814
 National Coalition for Community Development Work	15663
@@ -1113,6 +1136,8 @@ No. Work	17470
 No. of Public Sector Workers Trained	15716
 Novissi NOVISSI WORKS	19237
 Number Master Leather Worker	14760
+Number of Health Workers	19544
+Number of Recruited Health Care Workers	19544
 Number of Working	12356
 Nurses and Midwives Skilled Workforce	18532
 OECD Development Co-operation Working Paper	16949
@@ -1127,6 +1152,8 @@ Official One. CESifo Working Paper	13624
 Official Use Only Work	12253
 Official Use Only Workers' Code of Conduct	12253
 Online Renewals Work	17142
+Online Work Permit Application and Issuance System	19584
+Online Work Permit System	19533
 Online and Workflow	18488
 Online. Workshop Report	12325
 Open Bids Electronically and Virtual Workspace	12389
@@ -1166,6 +1193,7 @@ Passports and Work Permits Issued	2775
 Payment Workﬂow Implementation Payments Gateways Integration	13395
 Payments Work and How They Have	5124
 Peer Review Workshop	13310
+Per Workload Deaths Annum Day National	19541
 Performance-Based Workforce Management System	16985
 Personal Care Workers	16266
 Personal Care Workers Personal Service Workers	16266
@@ -1183,6 +1211,7 @@ Policy Research Working Paper No. WPS	15473
 Policy Research Working Paper WPS	18104
 Policy Unpacking Workshop	11611
 Policy Workshops	7963
+Population Groups Working Age Population	19542
 Population Head Work	15244
 Positive Workplace Institutions	13477
 Posts and Telecommunications MPW Ministry of Public Works	17260
@@ -1197,6 +1226,7 @@ Presidential Working Party	12312,2189
 Primary Supply Workers	1988
 Principal Results and Comparison With Prior Work	10919
 Printing Works MIOS Minimum Information Security	11986
+Processing Workflow	19584
 Procurement Labor-Intensive Public Works	15601
 Procurement Regulations. Workload	10964
 Productive Workforce	16922
@@ -1314,6 +1344,7 @@ Residential Workshop	6077
 Resilience Workshop	13880
 Resist the Exploitation of Digital Gig Workers	226
 Revenue Impact of Tax Reforms. IMF Working	10997
+Review Annual Work Plan	19519
 Revisiting the Tax Tipping Point. IMF Working	10997
 Rights of All Migrant Workers	10841
 Rights of All Migrant Workers and Members	10841,924,2986,138,1985
@@ -1339,6 +1370,7 @@ SCOPE OF WORK AND TASKS Step	19086
 SCOPE OF WORK Section	13037
 SCOPE OF WORKS	18543
 SDMX and Data Modelling Workshop	13157
+SECTOR WORKING GROUPS Sector Working Groups	19519
 SECURITY Structured Categorization Fees for Work Permit	18541
 SEP Labor and Working Conditions Site	17114
 SGCI Dissemination Workshop	1554
@@ -1372,13 +1404,14 @@ Sector IT Working Group	12359
 Sector IT Working Group. Accountabilities	12359
 Sector Stakeholder Workshop	15659
 Sector Working Group	12175,184,2576
+Sector Working Group Committee. These Committees	19519
 Sector Working Group IT Committee	12359
 Sector Working Group Project Steering	12359
 Sector Working Group QoS Quality of Service	18777
 Sector Working Group SSP Sector Strategic	14942
 Sector Working Group Secretariat	14935
 Sector Working Group TaRL	12175
-Sector Working Groups	789,11570,603,456,5189
+Sector Working Groups	789,11570,603,456,5189,912
 Sector and Technical Working Groups	15138
 Sectoral Working Group	12210
 Sectoral Working Groups	18529
@@ -1386,6 +1419,7 @@ Secure Work Permits Get	18540
 Securing Works	14738
 Security Working Group	16924
 Security and Privacy Workshops	9616
+Selected Groups Working Age Population	19542
 Senators' Workshop	13212
 Senior Social Workers	12977
 Sensitisation Workshop	8278
@@ -1408,6 +1442,7 @@ Skilled Health Workforce	16971
 Skilled Workforce	12240,6292
 Skills and Workforce Gaps Kenya's AI	7548
 Skills and Workforce Transitions	14566
+Slow Progress of Construction Works	19585
 Smart Africa Data Protection Working Group	961,9858
 Smart Africa Digital Identity Working Group	10819
 Smart Africa Working Group	10819
@@ -1431,6 +1466,7 @@ Social Workers Year U.S. Government	4217
 Social Workers and DCS	12977
 Social Workers. Table	12977
 Soft Skills Co Working Funding Prototyping	12376
+Solicitor General OWAIS Online Work Permit	19584
 Somalia Submarine Cable Landing Technical Working	6788
 Somalia Submarine Cable Technical Working Group	15216
 Somalia. Scope of Work	15183
@@ -1501,11 +1537,13 @@ TOOLKIT WORKFLOW	11156
 TR Treasury Regulations WCF Workman’s Compensation	11198
 TRS Technical Working Group	17367
 TRS Work Breakdown Structure	17367
+TSMP II No Working Institutions	19519
 TWG Structures Working Groups	12356
 TWG Technical Working Group	14916
 TWG Technical Working Group UN United	6947
 TWG Technical Working Group UNDP United	18531
 Talent Development and Workforce	14819
+Tanzania Statistical System TWGs Technical Working	19519
 Tax Administration Reforms. IMF Working Paper	10997
 Teacher Workforce and Continuous Professional Development	14251
 Team Work	14934
@@ -1526,7 +1564,7 @@ Technical Working Group WTO-TFA	17367
 Technical Working Group Workshop	15216
 Technical Working Group and Board	16970
 Technical Working Group. The Steering Committee	12936
-Technical Working Groups	1965,2563,3020,4259,141,227,65,68,48,97,59,111,354,368,18,273,1028,155,116,62,517,4,1453,153
+Technical Working Groups	1965,2563,3020,4259,141,227,65,68,48,97,59,111,354,368,18,273,1028,155,116,62,517,4,1453,153,2395
 Technical Working Groups. Customer Focus	2775
 Technical Working Groups. GBoS	16927
 Technical Working Sessions Technical	7548
@@ -1551,6 +1589,8 @@ Trades Workers Food Preparation Assistants Food	16266
 Trained Community Health Workers	13387
 Training Plan for Contractor Workers Type of Training	12253
 Training Workshop	14140,2656
+Training and Workshops	19571
+Training of Technical Working	19519
 Training of Village Health Workers and Civil Registration	12761
 Transitional Stabilization Programme TWG Thematic Working	13359
 Transport and Public Works	13060
@@ -1580,10 +1620,11 @@ Urban Development and Public PW Works MRLs	2775
 Urban Living Lab Way of Working	11007
 Urban Living Lab Way of Working Handbook	11007
 Use Case Workshop	3969
+Use Table SWGs Sector Working Groups	19519
 VHW Village Health Workers VIP Very	12663
 VI.G Health Workers	10812
 VSWIFT Legal Technical Working Group	13042
-Validation Workshop	962,3161,5632,88,3220,20,374,23,416,825,98,145,3531
+Validation Workshop	962,3161,5632,88,3220,20,374,23,416,825,98,145,3531,1083
 Validation Workshop Report	962
 Validation Workshop. Plus	962
 Validation Workshops	16975,164
@@ -1742,7 +1783,7 @@ Work4Youth	11581
 Workarounds	12490
 Workbooks	11241
 Workday	6432,3337
-Worked	5231,3359,3663,2413,1854,401,29,453,1040
+Worked	5231,3359,3663,2413,1854,401,29,453,1040,1172
 Worked Number Percent Number Percent Liberia	16921
 Worker	1219,6329,4705
 Worker Information	11939
@@ -1753,12 +1794,18 @@ Worker Programs	12255
 Worker Tvpe	4301
 Workers	226,1762,1803,469,268,809,1611,154,990,799,2089,1273,259,1436,618,431,88,326,193,662,577,43,114,114,606,654,423
 Workers Baseline Actual	17000
+Workers Compensation Act Cap	19531
+Workers Compensation Fund	19519,12
 Workers Compensation Fund Control Board	1988
+Workers Compensation Fund Level	19584
+Workers Compensation Fund UDART	19584
+Workers Compensation Fund WCF Weights and Measures	19584
 Workers Compensation Services	13060
 Workers Compensation This Act	1988
 Workers Education Sector Plan for Egypt Education	15604
 Workers Food Preparation Assistants	16266
 Workers Grievance Mechanism	17114
+Workers ICU Intensive Care Unit ICT	19544
 Workers Numerical and Material Recording	16266
 Workers Organisation Workers Organisation	1988
 Workers Refuse Workers and Other Elementary Workers	16266
@@ -1766,10 +1813,12 @@ Workers Rights Act	14742
 Workers Trained Figure	10976
 Workers Work	14997
 Workers' Code of Conduct Increased	12253
-Workers' Compensation Fund	13060
+Workers' Compensation Fund	13060,6471
 Workers' Compensation Fund Control Board	13465
 Workers' Grievance Mechanism	17099
 Workers' Rights Act	7845,6897,99
+Workers' Unions	19531
+Workers’ Compensation Self-service	19533
 Workers’ Grievance Redress Mechanism	17099
 Workers’ Rights	14742
 Workers’ Rights Act	14742,1,98
@@ -1783,7 +1832,7 @@ Workflow and Algorithm Services Digital Health Applications	396
 Workflow of RCI Birth Registration Process	10765,10
 Workforce	21,6582,229,716,203,2437,576,16,196,155,3,1,739,7,1,464,10,595,212,311,1299,46,178,1945,28,265,1265,542
 Workforce Capacity	17116
-Workforce Development	6948,6132,1739,785
+Workforce Development	6948,6132,1739,785,3928
 Workforce Development Agency	12329
 Workforce Development FSI	14819
 Workforce Development and Lifelong Learning Zimbabwe	4528,7984
@@ -1807,10 +1856,13 @@ Workforce and Labor Law Adaptation	12675
 Workforce-training	5773
 Workforces and Skills	16924
 Workineh Diribsa	14102
-Working	40,604,74,243,402,217,287,12,61,1285,370,300,232,721,434,45,186,277,546,134,72,23,269,346,140,411,145,553,20,156,54,5,1,153,284,19,364,451,124,804,1,99,6,172,7,66,6,75,60,185,319,76,18,46,227,14,28,1,109,66,45,3,111,71,257,4,35,51,58,15,28,34,153,10,75,23,114,43,1,39,46,20,71,30,343,581,40,6,105,177,157,53,92,88,54,75,172,1116,2,10,10,9,52,49,44,84,56,100,148,32,1,282,442,36,83,28,151,67,31,6,79,25,236,47,34
+Working	40,604,74,243,402,217,287,12,61,1285,370,300,232,721,434,45,186,277,546,134,72,23,269,346,140,411,145,553,20,156,54,5,1,153,284,19,364,451,124,804,1,99,6,172,7,66,6,75,60,185,319,76,18,46,227,14,28,1,109,66,45,3,111,71,257,4,35,51,58,15,28,34,153,10,75,23,114,43,1,39,46,20,71,30,343,581,40,6,105,177,157,53,92,88,54,75,172,1116,2,10,10,9,52,49,44,84,56,100,148,32,1,282,442,36,83,28,151,67,31,6,79,25,236,47,34,534
 Working Better Together	970,14526,4
 Working Capital	11240,3909
 Working Capital Statement	5538
+Working Children	19613
+Working Children Children	19613
+Working Children Coverage Geographic Coverage	19613
 Working Conditions of Migrant Workers	14742
 Working Days	762,12321
 Working Definitions	12360
@@ -1840,6 +1892,7 @@ Working Groups Specifications Document Interoperability	1009
 Working Groups. BOS	12706
 Working Hours	12211,4678,362,239
 Working Household Member Price Fluctuations	16902
+Working Institutions	19519
 Working Marriage Other Female Primary	15604
 Working Month	13037
 Working Paper	1243,585,3872,5063,78,156,1009,152,69,51,207,847,2010,316,5,1289,1366
@@ -1862,7 +1915,7 @@ Working Visit	11284
 Working Working Group	12512
 Working Working Working Working Working Working	12512
 Working and Educators	14566
-Working-age	8459,2812
+Working-age	8459,2812,8260
 Working-paper-5-Wala-Mohammed-FULL-REPORT-Jan-2025.pdf	15342
 WorkingFromHome	15478
 Workload	771,8357,2081
@@ -1870,6 +1923,7 @@ Workload Classification Framework A2- Framework	7548
 Workload Discovery	6432
 Workload Indicators of Staffing Need	14662
 Workload Staffing Indicator Needs	14622
+Workload of Single Staff	19541
 Workloads	6432,705,3020,459,1
 Workloads Requirements	10616
 Workmen	12383
@@ -1896,7 +1950,7 @@ Workplan Co-Creation Building	17196
 Workplan Design	17196
 Workplan and Budget	17281
 Workplan and Timeline	3058
-Works	22,12,616,988,350,901,1033,512,94,1668,1755,3180,9,385,225,107,6,42,117,73,66,215,136,233,217,8,1576,192,28,251,2,61,76,216,39,107,35,106,145,97,795,167,9,285,23,39,1312,12,344
+Works	22,12,616,988,350,901,1033,512,94,1668,1755,3180,9,385,225,107,6,42,117,73,66,215,136,233,217,8,1576,192,28,251,2,61,76,216,39,107,35,106,145,97,795,167,9,285,23,39,1312,12,344,632,15,51
 Works All	15518
 Works At FSU	14746
 Works Chairperson	17260
@@ -1928,7 +1982,7 @@ Works and Non-Consulting Services	13185
 Works and Non-Consulting Services and Consulting Services	13017
 Works and Transport. H.E. Dr Thani	5086
 Worksheet	11007
-Workshop	570,984,1262,1274,758,1483,46,2860,851,286,445,310,11,40,238,113,367,7,49,1,25,261,558,173,24,637,28,72,43,15,97,50,576,9,2,233,335,27,96,640,541,466,100,84,69,162,13,31,79,1099,123,195
+Workshop	570,984,1262,1274,758,1483,46,2860,851,286,445,310,11,40,238,113,367,7,49,1,25,261,558,173,24,637,28,72,43,15,97,50,576,9,2,233,335,27,96,640,541,466,100,84,69,162,13,31,79,1099,123,195,701
 Workshop Activities	14964
 Workshop Duration	14090
 Workshop Final de Disseinação	17071

@@ -21,6 +21,7 @@ AUDIA CHESEREM KIRWA Data Processor INST-41629510D2C	7167
 AVANT-PROPOS Ana Fonseca Cheffe de Mission OIM	18265
 Abdallah Souleymane CHEIKH-SIDIA J	17972
 Abdourahamane Cheikh Ali	4729
+Abir Chemli	19472,20
 Actuarial Sciences Pure and Applied Chemistry Pure	12407
 Adama CHERIF	16708
 Adième ONGOÏBA Chef	17841
@@ -277,6 +278,7 @@ Capitaine de Vaisseaux Cheikh Lahmoud Hemetti Commandant	17895
 Care Checklist	16922
 Central CHE-Djibloho	4209
 Central de Incidentes de Cheques CPMI	17032
+Centre PMC Perennial Malaria Chemoprevention PMTCT	19544
 Certified Accountants AEs Automated Check Processing	17235
 Chairman Cherno M. Jallow	9315
 Chargé des Chercheur	17827
@@ -341,7 +343,7 @@ Checkers and Checkers Hyper and Checkers LiquorShop	9763
 Checking	8348,1081,1508,1145,285,515,2279,331,163,1188
 Checking Mobile Money	3150
 Checking Starlink	8131
-Checklist	2674,3758,1116,3459,979,556,494,2900,2607
+Checklist	2674,3758,1116,3459,979,556,494,2900,2607,1032
 Checklist Connect Communicate Combine Collaborate Contain	8603
 Checklist Connect Communicate Combine Collaborate Repository	8603
 Checklist ESMP	14576
@@ -521,7 +523,7 @@ Chef du Département du Protocole	16175
 Chef du Gou	16381
 Chef du Gouver	16381
 Chef du Gouverne	16381
-Chef du Gouvernement	17,531,1200,947,43,307,62,66,125,559,545,198,1145,2492,654,252,144,55,295,1,927,248,82,1,2,5,1,1,9,67,599,2306,22,504,2,2,2,13,13,14,1,4,20,17,38,72,23,271,442,1,26,3,2,5,14,2,1,5,4,9,10,1,2,5,5,20,28,18,18,17,19,27,6,8,1,5,16,44,5,5,3,20,2,19,5,9,21,21,123,72,28,19,60,19,19,38,19,7,49,27,13,2,26,23,40,19,108,30,4,13,84,17,3,11,34,2,13,13,5,750,3,12,9,587,36,219,638,58,20,19
+Chef du Gouvernement	17,531,1200,947,43,307,62,66,125,559,545,198,1145,2492,654,252,144,55,295,1,927,248,82,1,2,5,1,1,9,67,599,2306,22,504,2,2,2,13,13,14,1,4,20,17,38,72,23,271,442,1,26,3,2,5,14,2,1,5,4,9,10,1,2,5,5,20,28,18,18,17,19,27,6,8,1,5,16,44,5,5,3,20,2,19,5,9,21,21,123,72,28,19,60,19,19,38,19,7,49,27,13,2,26,23,40,19,108,30,4,13,84,17,3,11,34,2,13,13,5,750,3,12,9,587,36,219,638,58,20,19,311,4,1,1,1,13
 Chef du Gouvernement AVANT-PROPOS Le Gouvernement du Niger	18100
 Chef du Gouvernement Alain-Claude BILIE-BY-NZE Le Ministre	1231,14366
 Chef du Gouvernement Anatole Collinet MAKOSSO	15722
@@ -606,7 +608,7 @@ Cheffe de Coopération	16455
 Cheffe de Mission OIM-Burkina	15649
 Cheffe de Projet FRIT	16747
 Cheffe de Service de Passation des Marchés	16373
-Cheffe du Gouvernement	16018
+Cheffe du Gouvernement	16018,3429
 Cheffe du Gouvernement Page	16365
 Chefferie	8673,5752,2060,1692
 Chefferie Coutumière	19251
@@ -725,6 +727,7 @@ Cheikh Zouaoui Mustapha	16171
 Cheikh-Anta-Diop de Dakar	18372
 Cheikhna LAM Email	18302
 Cheikhou AIDARA Publié	7640
+Chekeni Mwasonga Primary	19585
 Chekidine Said Madi	3772,2033
 Chelangat M	7187
 Chelete Monyane	12753
@@ -739,9 +742,14 @@ Chema-Chema	12567
 Chemak Nedjemeddine	15602
 Chemane	4180,2151,204,243,2448,913,2,159,1,1038,439,323,685
 Chemane. O PCA	12808
-Chemba	2868
+Chemba	2868,16673,51
+Chemba DC	19584,1
+Chemba DC DC	19585
+Chemba DC Recognized Loans Receivables	19585
+Chemba DC TAUSI Revenue	19585
 Chembo Sumbwe	6484
-Chemical	1988,787,1112,8502,996,587,846,209,1873,96
+Chemchem	19592
+Chemical	1988,787,1112,8502,996,587,846,209,1873,96,2606
 Chemical Engineering	14147
 Chemical Engineering Department	17648
 Chemical Entity	18541
@@ -772,8 +780,10 @@ Chemin de Fer Congo Océan CHU	15423,262
 Cheminement	18316
 Chemins	17853
 Chemise	17859
+Chemist Laboratory and Export Consignment Permit	19584
 Chemistry	7759,4648,671,894,3465,1024,145,23
 Chemistry RSB	15027
+Chemka	19592
 Chemonics International	15473
 Chemonics. Literacy Std	12175
 Chemouni	12333,1085
@@ -828,7 +838,7 @@ Cheptel. RGP	18100
 Chepurai Lomor	3005
 Chepyuk Health Centre Data Controller INST-14227872BCF	7167
 Chepyuk Health Centre Data Processor INST-14227872BCF	7167
-Cheque	8412,2343,631,614,1532,1196,295,2339,1100,299,37,55
+Cheque	8412,2343,631,614,1532,1196,295,2339,1100,299,37,55,656
 Cheque Clearing	11955
 Cheque Clearing The Cheque Clearing	11955
 Cheque Clearing Transactions	11955
@@ -897,7 +907,7 @@ Chest Unit	14773
 Chesta Dispensary Data Controller INST-145727A6EF4 WEST	7167
 Cheswill Johnson	2626
 Chetak	14760
-Cheti	6625
+Cheti	6625,12940
 Chetty	2948
 Cheung	2518,5992,619,1856,4616
 Chevalier	16536,1305,58
@@ -922,7 +932,9 @@ Chez Airtel Niger	4657
 Chez Dr Borlli Michel Jonas Somé	8721
 Chez Hodi	14683
 Chez Les Enfants	17945
+Chez Ooredoo	19432
 Chez Sahal Tech	16386
+Chief Government Chemist Laboratory Agency	19519
 China Chengxin International Credit Rating Co	7785,4024
 Christopher Chepken	8764
 Chrystold Chetty	18950
@@ -1032,11 +1044,13 @@ Décentralisation Chers	9637
 Décision des Chefs	19216
 Déclaration Solennelle des Chefs	18286
 Déclaration des Chefs	15423,262
+Décret-loi du Chef du Gouvernement	19384,1,1
 Département du Chef	17469
 Développement Le Chef	13405
 EDITO Chers	15797
 EME SESSION COLLEGE DES CHEFS D’ETAT	18032
 EN CHEF ADJOINT A L’INSPECTION DES	17841
+EPIDEMIOLOGICAL COVERAGE OF PREVENTIVE CHEMOTHERAPY	19544
 EPS Application Checklist	12542
 ES CHEFS D'ETAT ET LES AGENTS	15397
 ET DBS CHEZ LES ENFANT ENFANTS	13300
@@ -1056,6 +1070,7 @@ Effectifs des Chercheurs	18286
 El Abiodh Sidi Cheikh	15767
 El Jeilani Ould Cheikh Mohamed Etablissements	17895
 Electrical and Chemical	9475
+Electronic Cheques	19509
 Electronic Cheques Clear-	14897
 Electronic Cheques Clearinghouse	14897
 Elimination of Cheques	11130
@@ -1070,6 +1085,7 @@ Enseignant Chercheur	2966
 Enseignants- Chercheurs	17899
 Environmental Protection Chen Jining	15272
 Environmental and Social Screening Process and Checklists	1988
+Epidemiological Coverage of Preventive Chemotherapy	19544
 Eskinder Mesfin Cherinet	4766
 Estado CHEFIA DO GOVERNO	16290
 Esther-Grace KOUMBA DIALLO SOULOUNGANGA. Chef	16381
@@ -1105,14 +1121,22 @@ Free Medical Check-ups	14760
 Free Medical Checkups	14760
 Fusepay Ushers Out Paper Cheques	4056
 Félix Tshisekedi. Pour le Chef	16431
+GEOGRAPHICAL COVERAGE OF PREVENTIVE CHEMOTHERAPY	19544
+GOVERNMENT CAPABILITY MATURITY ASSESSMENT CHECKLIST	19576
+GOVERNMENT CAPABILITY MATURITY ASSESSMENT CHECKLIST S	19576
+Gaming Board of Tanzania GBT Government Chemist	19584
 Gardien Chef de Division Services	17982
 Gatekeeping The National Reality Check Platform	13649
+Geographical Coverage of Preventive Chemotherapy	19544
 Gerald HATLER DUE Chef	16620
 Gestão da Chefi	15404
 Ghana. Selon Dr Cheick Oumar Traoré	17935
 Google Cheslyn Jacobs GOTyme Bank PayInc	5544
 Gosec Security Checker	11922
 Gov.cv. O Chefe	5154
+Government Capability Framework Assessment Checklist	19576
+Government Chemist Laboratory Agency	19520
+Government Chemist Laboratory Authority Level	19584
 Grace Che	10962
 Guangzhe Chen ICR Main Contributor Soukeyna	17962
 Guy Berger and Pria Chetty. Supported	6436
@@ -1142,6 +1166,7 @@ I- Chef de Cabinet	17827
 ICP-OES Spectrometry. The Chemical Technology	14736
 ICR Ousmane Diagana Cheick Fantamady	15601
 ICT Authority Chairperson Tassarajen Pillay Chedumbrum	9949
+IGO. Chen	19555
 INFORMATION AND DOCUMENTATION CHECKLIST	14880
 INFRASTRUCTURE Civic Checks	10835,3,130,902,16,466,1,135
 INSAE. Le Chef du Service	15479
@@ -1212,11 +1237,13 @@ Labiodh Sidi Cheikh	15933
 Lala Aicha CHERIF Equipe	16708
 Laurent MARIKO République Chef	17982
 Le CHESD	10656
-Le Chef	17,291,427,2334,749,2249,1266,592,344,2664,2359,113,2051,11,2,314,392,206,46,2,60,33,136,798,13,430,79,54,102,186,19,47,14,2,1,9,574,7,8,226
+Le Chef	17,291,427,2334,749,2249,1266,592,344,2664,2359,113,2051,11,2,314,392,206,46,2,60,33,136,798,13,430,79,54,102,186,19,47,14,2,1,9,574,7,8,226,178
 Le Chef de Cabinet du Premier Vice- Président	13290
 Le Chef du Bureau	17827
 Le Chef du Centre de Document Planification Formation	17845
-Le Chef du Gouvernement	10565,3076,1706,1189,1864,2,1
+Le Chef du Gouvernement	10565,3076,1706,1189,1864,2,1,981,1,1,1,2
+Le Chef du Gouvernement Elyes Fakhfakh	19386
+Le Chef du Gouvernement Youssef Chahed	19380
 Le Chef du Gouvernement du Burundi	13638
 Le Chef du Secrétariat	17899
 Le Chef du Service	17899
@@ -1328,6 +1355,7 @@ MengChang Chen	14723
 Mental Health Commission and Dangerous Chemicals Control	14773
 Message du Premier Ministre Chers	15624
 Messieurs Chers	18987
+Michket Slama Khaldi Vu La Cheffe	19436,11,48
 Micro- CHE	6832
 Mines Chef de Section SECTION CADASTRE	17982
 Mines DIVISION DE LA BALISTIQUE Chef	17899
@@ -1479,6 +1507,7 @@ Ould Souleymane Cheikh Sidiya	18057
 Ousmane Diagana Cheick Fantamady Kante Trina	16436
 P TROP CHER	13300
 PAR CHEQUE Changement	17833
+PCT Preventive Chemotherapy LF Lymphatic Filariasis	19544
 PECG2 Charlotte CHEUMANI	11863
 PEP Checks	11240
 PIN Checker	14533
@@ -1504,6 +1533,7 @@ Pape Cheikh Diallo	4960,62,2035
 Par Cheikh Saadbou	14384
 Par Salif D. Cheickna	9028,1897,4362
 Para Chemane	12809,31
+Part. PART V ELECTRONIC CHEQUES	19509
 Pay and Checkers	6996
 Paystack Checkout and Zap	6848
 Phase Out of Cheques	13532
@@ -1518,6 +1548,7 @@ Postnatal Health Check for Newborns	15247
 Postnatal Health Checks for Mothers and Newborns	15247
 Pour le Chef	16427
 President Mohamed Ould Cheikh El Ghazouani	2154,1201
+Preventive Chemotherapy	19544
 Pria Chetty	27,6409,667
 Pria Chetty Research ICT Africa	6512
 Principal Investigator and Executive Director Pria Chetty	13747
@@ -1553,6 +1584,7 @@ Readiness Checklist	16963
 Readiness Checklist Table	16963
 Reality Check	12017
 Reality Check Platform	12512
+Registration Officers Chemba	19541
 Registration of Chemical Substances	18541
 Registres Le Chef CIREF Responsable	14423
 Republic of Niger. Senior Bureau Official Checker	18209
@@ -1638,6 +1670,7 @@ Sidi Chegou	3551
 Sidi Cheikh	1183
 Single Online Platform for Due Diligence Checking	12389
 Sistema de Compensação de Cheques	11465
+Slim Chaker Le Chef du Gouvernement Habib	19377
 Soil Chemistry	14818
 Sommet des Chefs	2387,13289,423
 Son Excellence M. Mohamed Ould Cheikh	18040
@@ -1661,6 +1694,7 @@ TECHNIQUE ET SCIENTIFIQUE Chef de Section Commissaires	17899
 TELECOMMUNICATION Chef de Division Commissaires	17899
 TERMINÉE OBSERVATIONS DU CHEF D'ÉQUIPE OBSERVATIONS	13300
 TEST DU VIH CHEZ LES ENFANTS	13300
+TRACKING PERFORMANCE OF PREVENTIVE CHEMOTHERAPY	19544
 TRANSPARENCY Institutional Checks	10759,78,1052,451
 TSAKALA Rosny CEFA Dolisie Chef	16012
 Tanzania. Chen	3062

@@ -175,6 +175,7 @@ DISTRICT Long FS Busamed Bram Fischer	11986
 DJF FISCAL YEAR	13938
 DOMICILE FISCAL EN ALGERIE	15534
 DOSSIER FISCAL	15797
+DROMAS Deep Sea Fishing Authority DSFA	19584
 DU LIVRE DES PROCÉDURES FISCALES	16328
 DU LIVRE DES PROCÉDURES FISCALES Réforme	16328
 DU REGIME FISCAL	15584
@@ -182,6 +183,9 @@ DU REGISTRE D'IDENTIFICATION FISCALE	13293
 Dairying and Fisheries and Shri Dilip Gosh	16649
 Decentralization Implementation Fiscal Decentralization	17139
 Declarações Entregues Consulta Situação Fiscal DCI	12018
+Deep Sea Fishing Authority	19584
+Deep Sea Fishing Authority Level	19584
+Deep-Sea Fishing	19584
 Departamento Técnico Fiscal DPRF	11435
 Departamento de Procedimentos Fiscais DSF	11435
 Departamento de Procedimentos Fiscais DTF	11435
@@ -246,11 +250,11 @@ Education Health Other FISIM All In-	2775
 El Fiscal General	4209
 El Ministerio Fiscal	16855
 Electronic Fiscal	13053
-Electronic Fiscal Device	13606,3405
-Electronic Fiscal Device Management System	7746
+Electronic Fiscal Device	13606,3405,2591
+Electronic Fiscal Device Management System	7746,11856
 Electronic Fiscal Device Management System EPZ	13053
 Electronic Fiscal Device System EMDE Emerging	17011
-Electronic Fiscal Devices	4699,287,261,7701,4063
+Electronic Fiscal Devices	4699,287,261,7701,4063,2591
 Electronic Fiscal Devices. Unlike	6469
 Electronic Fiscal Receipting and Invoicing System	2744,5002
 Electronic Fiscal System	11976
@@ -312,7 +316,7 @@ FISCAL TITULAR DE INVESTIGACIONES ADMVAS	4209
 FISCAL TITULAR DE JURIDICCION MILITAR	4209
 FISCAL TITULAR DE MEDIO AMBIENTE	4209
 FISCAL TITULAR DEL TRIBUNAL DE CUENTAS	4209
-FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8,324,129,11,12,32,16,26,36,68,284,45
+FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8,324,129,11,12,32,16,26,36,68,284,45,171
 FISCAL YEAR Agricultural	13122
 FISCAL YEAR Despite	14985
 FISCAL YEAR ENDED	18661
@@ -443,6 +447,7 @@ Fiscal Devolution	13474
 Fiscal Discipline	13060
 Fiscal Electronic Device	8368,177,8563
 Fiscal Electronic Devices	7695,673
+Fiscal Framework Statement	19585
 Fiscal Fuel Devices	13606
 Fiscal Gains	1828
 Fiscal General	16871
@@ -506,7 +511,8 @@ Fiscal Review The Minister of Finance	11131
 Fiscal Risk	18500,77
 Fiscal Risk After Cabinet	18500
 Fiscal Risk Division	18500
-Fiscal Risk Statement	18577
+Fiscal Risk Statement	18577,1025
+Fiscal Risk Statement. VIII. ACKNOWLEDGEMENT	19602
 Fiscal Risk and Contingency Liability	18488
 Fiscal Risk and Contingent Liability	18488,89
 Fiscal Risks The Government	11134
@@ -555,7 +561,7 @@ Fiscal Year Total Budget	13418
 Fiscal Year. Liberia	16144
 Fiscal Year. Sierra Leone	16144
 Fiscal Year. WAEMU	16144
-Fiscal Years	11310
+Fiscal Years	11310,8219
 Fiscal and Budget Decentralization	10775
 Fiscal and Economic Policy	10932
 Fiscal and Educational Resources Project	18851
@@ -563,6 +569,7 @@ Fiscal and Financial Decentralisation Policy	14935
 Fiscal and Financial Decentralization Policy	13418
 Fiscal and Local Governance Expert	17011
 Fiscal and Procurement Documents. The Accountable Entity	19214
+Fiscal and Public Sector	19526
 Fiscal and Real Sectors	18488
 Fiscal de Instrucción	4209
 Fiscal-Poli-	14932
@@ -638,6 +645,7 @@ Fish Bladder Processing	18450
 Fish Crustaceans Clams	17043
 Fish Farming	11857
 Fish Handling	14818
+Fish Head	19602
 Fish Per	18450
 Fish Ponds and Water Breeding Facilities and D10	17105
 Fish Processing	18450,91
@@ -651,10 +659,10 @@ Fishbein	5349
 Fishbowl Challenge	9427
 Fishenden	5700
 Fishenden and Thompson	5700
-Fisher	2566,8353,21,195,7850
+Fisher	2566,8353,21,195,7850,617
 Fisherfolk	17099,15
 Fisherfolk Association Big Fanti Town Fisherfolk	17099
-Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230,553,119,141,74,81,87,1111,69,32,71,612,43,1361,90,45,153,86,224,834,142,128,232,190
+Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230,553,119,141,74,81,87,1111,69,32,71,612,43,1361,90,45,153,86,224,834,142,128,232,190,534,36
 Fisheries Act	13403,1415
 Fisheries Act No.22	1988
 Fisheries DNA Deoxyribonucleic	11188
@@ -671,6 +679,7 @@ Fisheries Protection	18450
 Fisheries Protection Per	18450
 Fisheries Protection and Statistics and Research	18450,91
 Fisheries Regulation	19049
+Fisheries Regulations	19602
 Fisheries SDG	13824
 Fisheries Sector	17105
 Fisheries Sector. Main Outcomes	14818
@@ -707,7 +716,7 @@ Fisheries and Water Resources Honourable Speaker	17105
 Fisheries and Water Resources Thematic Policy Statement	16951
 Fisheries. Certainly	17157
 Fishers	17099,1886
-Fishery	15085
+Fishery	15085,4434
 Fishery Committee	11536,7449
 Fishery Partnership Agreement	18813
 Fishing	789,1986,2906,2164,2918,1094,24,1179,1758,56,17,481,1528,143,56,785,421,153,25,314,188
@@ -836,6 +845,7 @@ Impact of Fiscal Policy	10985
 Impact of Key Fiscal Measures Introduced	1830
 Impactful Reforms and Fiscal Consolidation	13122
 Implementation Plan Documents and Fiscal Accountability Plan	19214
+Import Duties for Fish and Fishery Products S	19602
 Impôt BIC IRVM Total Recettes Fiscales	2342
 Incentivos Fiscales	1701
 Include FISIM	14777
@@ -886,7 +896,7 @@ Le Civisme Fiscal	19215,41,36,11,20
 Le FIS	10643
 Le Forum des Administrations Fiscales Africaines	15797
 Ley de Tasas Fiscales	4209
-Livestock and Fisheries	11897
+Livestock and Fisheries	11897,7636
 Livestock and Fisheries Development	7167
 Livre de Procédures Fiscales	15419
 Livre des Procédures Fiscales	14169,1830,329,1512,1525
@@ -961,7 +971,7 @@ Ministry of Fisheries and Livestock	1988,11415,52
 Ministry of Fisheries and Marine Resources Protection	18504
 Ministry of Fisheries and Maritime Economy	18305
 Ministry of Fisheries and Water Resources	16967,138
-Ministry of Livestock and Fisheries	3583
+Ministry of Livestock and Fisheries	3583,15936,65
 Ministry of Livestock and Fisheries.357	3583
 Mission Fiscale des Régimes	15797
 Mobilizing Domestic Revenue for Fiscal Sustainability	11710
@@ -1013,6 +1023,7 @@ PROBLÉMATIQUE DE DÉVELOPPEMENT DE L’ADMINISTRATION FISCALE	10712
 PROCÉDURES FISCALES TITRE	16020
 PROIBIÇÃO DE APLICAÇÃO DE ISENÇÕES FISCAIS	17100
 PROMOUVOIR LE CIVISME FISCAL ET RENFORCER	17901
+PROPOSED FISHERIES	19602
 PRÉVISION DES RECETTES FISCALES INTÉRIEURES	10712
 PRÉVISION DES RECETTES FISCALES INTÉRIEURES PAR	10712
 PRÉVISION GLOBALE DES RECETTES FISCALES INTÉRIEURES	10712
@@ -1048,6 +1059,7 @@ Project Approval Fiscal Year CLIENTS Borrower	16436
 Promote Sustainable Agribusiness and Fisheries	11536
 Promotion Du Civisme Fiscal de La Direction	15625,1
 Proparco's FISEA	930
+Property Registration ZAFICO Zanzibar Fisheries Company	19519
 Propiedad Secretario Fiscalía Corte Suprema Secretario	4209
 Provincial Secretario Fiscalía Corte Suprema Secretario	4209
 Public Finance Fiscal	11134
@@ -1132,6 +1144,7 @@ SIGLES ET ABRÉVIATIONS AF Administration Fiscale	10712
 SOE Related Fiscal Management Project	15983
 SPORT FISHING PERIOD CATEGORY FEES	18450
 SSA Non-Oil MENA LMICs Djibouti Fiscal	13868
+STAMICO State Mining Corporation FETA Fisheries	19519
 STP Fiscal Sustainability	18851
 STRATÉGIQUE DE L'ADMINISTRATION FISCALE	10712
 SUPERVISÃO E FISCALIZAÇÃO ARTIGO	3519
@@ -1139,6 +1152,7 @@ SUPERVISÃO E FISCALIZAÇÃO DA ATUALIZAÇÃO	11561
 SUPERVISÃO E FISCALIZAÇÃO NO TERRENO	11561
 SUSTAINABLE FISHERIES PARTNERSHIP AGREEMENT BETWEEN	14447
 Santé Fiscalité	19221
+Sea Fisheries Authority BPRA Zanzibar Business	19519
 Second Fiscal Management and Inclusive Growth Development	11905
 Second Fiscal Management and Resilient Growth Development	13756
 Second Kenya Fiscal Sustainability and Resilient	14642
@@ -1190,6 +1204,7 @@ Strengthening the Fiscal Credibility	18825
 Supplementary Environmental Fiscal Measures	12389
 Sustainable Fisheries Partnership Agreement	18785,200,207
 Sustainable Fisheries Partnership Agreements	14628,4357
+System FFARS Fertiliser Information System FIS	19584
 São Tomé and Príncipe Fiscal Sustainability	18851
 São Tomé and Príncipe’s Ministry of Fisheries	18985
 TEXTES FISCAUX NON CODIFIES	16020
@@ -1250,6 +1265,7 @@ WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,
 WB Fiscal Year Annual	15658
 WB Fiscal Year Annual Cumulative	15553
 Wallace Cosgrow MINISTER FOR FISHERIES	19049
+Water Reservors Fish Ponds	19554
 Waters Interiors and Fisheries	4214
 Women Fishers and Traders Buchanan Central Market	17099
 World Bank STP Fiscal Sustainability	18851

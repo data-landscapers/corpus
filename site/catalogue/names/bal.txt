@@ -98,7 +98,7 @@ Balaka and Dowa	13199
 Balaka and Lilongwe	13122
 Balakissa FANE Secrétaires	17829
 Balan	18318,578
-Balance	7,1863,905,2912,208,1043,717,1236,1902,187,151,3,232,158,431,297,107,141,175,94,208,1479,90,20,28,142,160,684,1318,241,10,60,294,314,89,109,48,157,71,466
+Balance	7,1863,905,2912,208,1043,717,1236,1902,187,151,3,232,158,431,297,107,141,175,94,208,1479,90,20,28,142,160,684,1318,241,10,60,294,314,89,109,48,157,71,466,845
 Balance B	13053
 Balance Benefits and Risks	12675
 Balance Capacity Utilization Rate	17503
@@ -133,6 +133,7 @@ Balance of Murabaha and Social Advances Item	17236
 Balance of Pay-	2775
 Balance of Payment	13122,3982,213
 Balance of Payment BR	14857
+Balance of Payment and Tourism	19526
 Balance of Payments	2775,1132,2102,5122,1791,34,167,356,389,3281,60,26,22,60,9,95,82,406,81,833
 Balance of Payments Developments	17104,213
 Balance of Payments Eswatini	11134
@@ -250,7 +251,8 @@ Ballell	961
 Ballet	11180
 Ballet Nacional CEIBA	4209
 Ballobh	10
-Balloon	16947
+Balloon	16947,2655
+Balloon Delete	19602
 Balloon-powered	3782
 Balloons	16947
 Ballot	7833
@@ -269,7 +271,8 @@ Baloeri	17271
 Balogun	14218
 Baloon	10611
 Baloosoft	18575
-Balozi	7935
+Balozi	7935,11655
+Balozi Dkt. Moses Kusiluka. Akizungumza	19605
 Balsam	8605
 Balsingh	2329,15866
 Baltasar Mansogo	17061
@@ -427,7 +430,7 @@ Jonedie Balotinelle	15558
 Julio Mamadou Balde. Guinea-Bissau	3506
 Justin BALLAY-MEGOT Considérant	15439
 Justin Omer Balima. Il	3055
-Jyoti Ball	5837,1530
+Jyoti Ball	5837,1530,12237
 KENYA'S ENERGY BALANCE	12256
 KOSSI LES BALE	10847
 KOUDJOWOU Balakiyem Atana SCH	19251
@@ -466,6 +469,7 @@ Lieutenant-colonel KEBINA Balakiyem	19251
 Life Balance	14761
 Like Bala	5267
 Load Balancers	10617
+Load Balancing	19533
 Long Outstanding and Unsupported Accounts Payable Balance	14546
 Lt. Gen. Chol Thon J Balok	18691
 M. BALANDZA	15901
@@ -490,6 +494,7 @@ Melchiory Baltazary	1261
 Merchandise Trade Balance	15023,2212
 Meridian System Balances and Summary Statement of Public	14546
 Mhe. Balozi Dkt. Batilda Burian	11643
+Mheshimiwa Balozi	19592
 Mheshimiwa Balozi Dkt. Emmanuel John Nchimbi	6019
 Mheshimiwa Balozi Mbelwa Kairuki	6019
 Michel BALAMOU Directeur	16708
@@ -550,7 +555,7 @@ Organization FBS Food Balance Sheet FCM	2775
 Ouri Balé Boucle du Mouhoun	15715
 Ousmane BALLO	8577
 Outstanding Balance	15905
-Overall Balance	12922,34,167,4112
+Overall Balance	12922,34,167,4112,2367
 Overall Balance Organization	17235
 PALI Balakimbiyou	19251
 Par Gloire Balolage Un	16393
@@ -601,7 +606,7 @@ Selected Balance Sheet Indicators	17235
 Selector Macro Indicators Net Balances QSBOE	13532
 Server Load Balancer	13185
 Shri Sanjeev Kumar Balyan	18563
-Shyamala Balu FOR OFFICIAL USE ONLY	13860
+Shyamala Balu FOR OFFICIAL USE ONLY	13860,5595
 Shyamala Balu Report	15983
 Sibongile Baloyi	10729
 Siby Balé Boucle du Mouhoun	15715
@@ -654,6 +659,7 @@ Unité UNITE D’INTERVENTIONS BALISTIQUES Commissaires	17899
 Unlimited Aggregated Limit Account Balance	5687
 Unreconciled Loan Balances Between Commonwealth Secretariat	14546
 Unremitted Third-Party Balances	14546
+Unspent Balances Remitted	19585
 Unsupported Balances	14546
 Unsupported Cash and Cash Equivalent Balance	14546
 Unwithdrawn Credit Balance	14430

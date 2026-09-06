@@ -37,6 +37,7 @@ F SOC HAMANA IMPORT EXPORT SARL	16623
 F SOC INDUSTRIELLE ET COMMERCE SICOM	16623
 Faster Incident Response SOC	13532
 G SOC GENERALE GUINEE SGG	16623
+Gauge Railway SOC Service Organization Controls	19584
 Guidalia SRL Civitas Digitale Soc. Coop	8530
 Health Soc Care Community	1219
 Humanit Soc Sci Commun	16325
@@ -99,6 +100,7 @@ SOC N2	18395
 SOC N3	18395
 SOC REF	17140
 SOC State Owned Company SOE State	11250
+SOC Type	19584
 SOC and CERT	1264
 SOC and CSIRT	1432,657,2321,9
 SOC and CSIRT Cabo Verde	3843

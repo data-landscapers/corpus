@@ -205,6 +205,7 @@ Auto-transcribe	8603
 Auto-update Today	18203
 Auto-école	15936
 Auto-évaluation des Fonctions Publiques	7725
+Auto24	19534
 AutoAudit	17235
 AutoAudit and Issue Tracker	17235
 AutoAudit and Issue Tracker. AutoAudit	17235
@@ -232,14 +233,14 @@ Automatability Assessment	16266
 Automatability Index	16266
 Automatable	16266
 Automatable'. Technical	16266
-Automate	8817,1904,1219,2094,743,188,32,7,86,2274,1211
+Automate	8817,1904,1219,2094,743,188,32,7,86,2274,1211,1009
 Automate AEO Accreditation	16968
 Automate AEO Accreditation Relaunch the Authorized Economic	16968
 Automate EMIS	13310
 Automate GAC	17364
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14,694,407
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14,694,407,536,94
 Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
@@ -317,7 +318,7 @@ Automated System for Customs Data BMS	13053
 Automated System for Customs Data Sydonia World	16942
 Automated System for Customs Data Why ASYPM	13042
 Automated System for Relief Emergency Consignments	13042
-Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90
+Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90,2558
 Automated Teller Machine ATS Automated Transfer	13312,2
 Automated Teller Machine B2B Business	16876
 Automated Teller Machine Coronavirus Disease Digital	940
@@ -337,6 +338,7 @@ Automated Vehicle Tracking	3862
 Automated Voter Registration	12054
 Automated Weather Station	18787
 Automated Weather System	15097
+Automated Wheel Chair	19565
 Automates	13678,3807
 Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152,203
 Automatic Agro-Meteorological Stations	12728
@@ -350,6 +352,7 @@ Automatic Exchange of Information	11685,3143,3,2180
 Automatic Exchange of Information BRS AEOI	11685
 Automatic Fee Waiver	5574
 Automatic Fingerprint Identification System	12378
+Automatic Immigration Initially	19532
 Automatic Input Tax Schedule for Fiscal Tax	12509
 Automatic Meter Reading	8428
 Automatic Number Plate Recognition	10603
@@ -378,13 +381,14 @@ Automating Data Capture KINGDOM	16631
 Automating Data Capture The Eswatini Revenue	16631
 Automating Inequality	11156
 Automating for End-to-End Claims Processing Whitepaper	9237
-Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603,740,60,493,185,126,56,60,697,29,380,430,98,746,24,268
+Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603,740,60,493,185,126,56,60,697,29,380,430,98,746,24,268,956,8,35
 Automation Framework Implement	11952
 Automation Human-on-the-loop	10726
 Automation NV of Belgium	3561
 Automation NV. Built	3576
 Automation PAPUA NEW GUINEA	16631
 Automation Regional Support Centre CBRA Cross-Border	13042
+Automation Status Report	19541
 Automation and AI	14997
 Automation and Administrative Development	7203
 Automation and Control	9123
@@ -618,7 +622,7 @@ Autoriié Toute	15429
 Autorilé	15397,32
 Autorilé' Arllcle	15429
 Autorilé. Ceite	15429
-Autorisation	37,3344,4940,2500,15,40,2557,154,1,221,603,76,1,1,47,333,23,502,4,27,13,25,15,45,34,11,15,10,21,20,25,32,52,36,121,35,63,101,48,1,28,26,46,363,3,2,19,804,60,319,4,10,13,126,70,54,241
+Autorisation	37,3344,4940,2500,15,40,2557,154,1,221,603,76,1,1,47,333,23,502,4,27,13,25,15,45,34,11,15,10,21,20,25,32,52,36,121,35,63,101,48,1,28,26,46,363,3,2,19,804,60,319,4,10,13,126,70,54,241,1054,113
 Autorisation Environnementale	15901
 Autorisation Exclusive	2342
 Autorisation Exclusive Ce	2342
@@ -1057,6 +1061,7 @@ Designada Autoridade Reguladora	4274
 Detecção Automática de Interacção Qui-Quadrado	11416
 Development Bank AfDB Automotive Gas Oil	12256
 Development of Automation Boiler	11134
+Development of Autonomous Farming	19532
 Diffusion Industrielle Automobile	17817
 Digital Autonomy and Ownership	4430
 Digital Forms Document Upload Workflow Automation	12211
@@ -1160,6 +1165,7 @@ Gestão Autorizando	16290
 Ghana Automotive Manufacturing Development Programme	17108
 Glossary AI Artificial Intelligence ASN Autonomous	10781,3701
 Glossary Autonomous	15415
+Government Autonomous	19576
 Government Systems Automation	958
 Government of Cameroon's Caisse Autonome	303,36,7250
 Guichet Automatique Bancaire	11944
@@ -1307,6 +1313,7 @@ Malawi PROJECT DONORS Contents ABIS Automated	13095
 Mali Autorité Malienne de Régulation des Télécommunications	17856
 Mali Digital Economy Diagnostic Autonomous System	17870
 Mali's Autorite de Protection des Donnees	4177
+Manually Automated Automated Automated	19576
 Mauritius Automated Clearing and Settlement System	6938
 Mauritius Central Automated Switch	1386,13345
 Mauritius Central Automated Switch The Mauritius	14731
@@ -1349,6 +1356,7 @@ OP Operational Technology PABX Private Automatic	6946
 OPTIQUE ARTP AUTORITE DE REGULATION DES	18105
 OPÉRATIONS AUTORISÉES Article	10836,4799
 OPÉRATIONS AUTORISÉES ET INTERDITES AUX PRESTATAIRES	10836,4799
+ORODHA YA VIFUPISHO AFIS Automated Fingerprint	19590
 OS Operating System PABX Private Automated	34
 Objective of Automation	12041
 Offer End-to-End Automated Processes	14965
@@ -1369,6 +1377,8 @@ PEUPLES AUTOCHTONES	16177
 PLATEFORME NUMÉRIQUE DE GESTION DES AUTORISATIONS	13353
 POS RGTS SACU SACCOs WB Automatic	12701
 PRACTICES BY MOGO AUTO LIMITED Hon	10313
+PROCESS AUTOMATION	19584
+PROCESS AUTOMATION...............20 CHAPTER	19584
 PRODUITS AUTO	17833
 PROMOTION DES PEUPLES AUTOCHTONES	15524,91,752
 PROMOTION DES PEUPLES AUTOCHTONES Acte	15848
@@ -1413,7 +1423,7 @@ Presidente da Autoridade Nacional de Proteção de Dados	18806
 Primeiro Ministro Autorizando	16290
 Princípio de Dados Autoritativos	12774
 Princípio de Dados Autoritários	12774
-Process Automation	13418,5407
+Process Automation	13418,5407,759
 Process Autonomy	8283
 Process Autonomy. Stage	8283
 Processo Automático	11566
@@ -1441,6 +1451,7 @@ Raciocínio Automático	2816
 Rapidly Developing Thunderstorms. Auto-update. View Today	14256
 Recenseamento Eleitoral Automático	18859
 Region Autonomia	18777
+Regions Implementing Verbal Autopsy	19544
 Registo Automóvel	10751,1418,3826,492
 Regulations On Net Metering and Autonomous Generation	14947
 Renovação da Autorização	794
@@ -1460,6 +1471,7 @@ Revenu Maximum Autorisé SAIFI	18322
 Revenu Maximum Autorisé de Senelec	18322
 Revenue Automation The Commission	9939
 Revenus Maximum Autorisé	18322
+Revision VA Verbal Autopsy	19544
 Revogação da Autorização	794,9961
 Risk of Automation for Jobs	961
 Rivera Golf. Autour	7214
@@ -1536,6 +1548,7 @@ Subject Contract Duration Automatic Renewal Service	5676
 Sustainability and Autonomy Closely	6947
 Swaziland Automated Electronic Clear-	6938
 Swaziland Automated Electronic Clearing House	12484
+System ATM Automated Teller Machine BAKWATA	19590
 System CCV Computer Coded Verbal Autopsy	12413
 System VA Verbal Autopsy IV	15056
 Système Automatisé SYDONIA de Mesure de Performance	15478
@@ -1586,6 +1599,7 @@ Update of Company Information Fully Automated	12389
 Use Cases Automated	14566
 VA Verbal Autopsy	12413
 VAR Autorégression	7655
+VERBAL AUTOPSY IMPLEMENTATION	19544
 Valuation Automated	12211
 Variações Auto	2816
 Verbal Autopsy	12151,187,75,58,534,90,1961

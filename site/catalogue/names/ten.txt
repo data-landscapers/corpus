@@ -188,7 +188,7 @@ Land Tenure Livestock Labor Use Women	17366
 Land Tenure Regularisation	12451
 Land Tenure Regularisation Programme	12333
 Land Tenure Regularization	14876
-Land Tenure Security	15473
+Land Tenure Security	15473,4081
 Land Tenure and Development Technical Committee	18293
 Land Tenure and Property Registration	15473
 Land Tenure and Property Registration Main	15473
@@ -202,6 +202,7 @@ License Tenure	10407
 Lignes de Haute Tension	19221
 Link Tender	10102,707
 Loan Tenor and Grace Period	16219
+Local Government Authorities' Tender Boards	19585
 M. Jean Ignace TENDELET	15685
 M. TENGO Alain Brice. DÉPARTEMENT COMMUNICATION	16381
 MAIN SCOPE OF THE TENDER	13618
@@ -361,6 +362,7 @@ TENURE IN CAMEROON The Ministry of State	10987
 TENURE OF OFFICE	14753
 TENURE RIGHTS OVER AGRICULTURAL LAND OUT	17043
 TENURE SECURITY	3861
+TENet	19519
 TOUTE TENTATIVE DE MONNAYAGE DU NIF	15970
 TYPOLOGIES OF LAND TENURE SITUATIONS	15473
 Tableau C.10 Tendance	13300
@@ -379,12 +381,12 @@ Tenaha	18065
 Tenancy	4896,7507
 Tenancy and Asset Utilisation	4896
 Tenancy and Commercial Division	4896
-Tenant	737,1220,1234,627,7311,815,2834,645,50,15,111,86,47,280,350,123,629,831,341,640
+Tenant	737,1220,1234,627,7311,815,2834,645,50,15,111,86,47,280,350,123,629,831,341,640,530
 Tenant Biometric ID Platform Transforms Healthcare	11987
 Tenant Cluster Nutanix NX3360-G7	13185
 Tenant Households Preferred Dwelling Units for Buying	2775
 Tenant. The Tenant	14778
-Tenants	5200,9578,2138,198
+Tenants	5200,9578,2138,198,2470
 Tenants and Leaseholders	17114
 Tence	15397,2
 Tence. L'Autorité	15429
@@ -399,7 +401,8 @@ Tendai S. Samusodza	8130
 Tendai S. Samusodza Department of Information Technology	8130
 Tendai Sauta Jul	2888,32,354,504,1444,877,6,100,680,129,293,115
 Tendance	8891,4409,4178,365,443,26
-Tendances	13290,10,1188,1,1,1446,386,299,1222,24,29,226,190
+Tendance Radio	19417
+Tendances	13290,10,1188,1,1,1446,386,299,1222,24,29,226,190,1128
 Tendances Agriculture	14488,1,1
 Tendances du Rapport	13300
 Tendances du Rapport de Mortalité	13300
@@ -486,7 +489,7 @@ Tenie Chiefdom	18511
 Teniendo	1701,15154,43,178
 Teniente General	4209
 Tenier	17845
-Tenir	1005,2391,1626,2955,2899,2414,11,74,434,728,490,445,70,1919,361,23,11,26,16,306,87,11
+Tenir	1005,2391,1626,2955,2899,2414,11,74,434,728,490,445,70,1919,361,23,11,26,16,306,87,11,1072
 Tenke Fungurume Mining	6843
 Tenkodogo	3396,7462,17,4762
 Tenkodogo Boulgou Centre-Est	15715
@@ -535,9 +538,12 @@ Tenu Awoonor	3304,1973
 Tenue	9668,1206,3663,85,271,536,514,64,198,90,419,1131,66,336,972,32
 Tenue Annuaire Interventions	13714
 Tenue du RSPM Le RSPM	19235
-Tenure	11,576,633,2641,26,6520,785,272,387,105,189,385,1,4,11,3,94,8,10,239,439,32,32,1007,83,980,1363,51,240,38,1128,142,5,19,7,1,103,591
+Tenuraenoiaf	19525
+Tenure	11,576,633,2641,26,6520,785,272,387,105,189,385,1,4,11,3,94,8,10,239,439,32,32,1007,83,980,1363,51,240,38,1128,142,5,19,7,1,103,591,364,1,4
 Tenure Improvement Project	18293,61
 Tenure Reform	12912
+Tenure Rights	19554
+Tenure Rights Annual Agricultural Sample Survey	19554
 Tenure Security	3861,10137
 Tenure Security for Communal Landholdings and People	13998
 Tenure Status About	12383

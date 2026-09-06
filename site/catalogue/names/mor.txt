@@ -27,6 +27,7 @@ Analyzing Mortality and Causes of Death	12413
 Andela and Moringa Schools	12239
 Andries Moreteledi Tlhabane	2626
 Arabia Sudan Morocco Turkey QatMaradagascar Indonesia	14897
+Ardhi Morogoro	19592
 Area Child Mortality Disparities Under-5 Mortality	18441
 Association Moroccan Internet Society	17448
 Associação Cabo- Verdiana MORABI de Auto-Promoção da Mulher	11855
@@ -140,6 +141,7 @@ EU and Morocco. The Digital Dialogue	17511
 Early Childhood Mortality	14067
 Early Childhood Mortality Rates	12655
 Education Morale HCJRPTDJ	15848
+Edward Moringe	19565
 Egypt Lebanon Jordan Morocco TIMMS	15604
 Egypt Morocco Tunisia OECD	15604
 Egypt Nigeria Uganda Kenya Morocco Tunisia	4972
@@ -224,6 +226,8 @@ IV.3.2. Mortalité	15685
 IV.3.3. Mortalité	15685
 IV.5.1. Morbidité	15685
 Idarati X.0 Morocco	5004
+Ifakara Morogoro	19592
+Ilala Cannabis Temeke Resin Kinondoni Morphine	19517
 Improving Mortality	12367
 Improving Mortality Statistics	12413
 Incubator Mauritius MCISE Morocco MEST Ghana	15460
@@ -235,6 +239,7 @@ Infant Mortality Rate	12367,16,30,226,760,1657
 Infant Mortality Rate ASFR	12639
 Infant Mortality Rate IOM	16951
 Infant Mortality Rate and Neonatal	12138
+Infant Mortality Ratio	19544
 Infant and Child Mortality	15247
 Information Statistique Taux Brut de Mortalité Taux	15599
 Inscription of Privileges and Mortgages Act	14843
@@ -298,6 +303,7 @@ Libyan Moroccan Business Council Libyan Export	5592
 Life Counts Infant Mortality Rate	12151
 Limogeage de Mory Condé	10610
 Lindi Morwaeng Location	12619
+Lindi and Morogoro	19544
 Luzia Moreira Direcção de Estudos	18760
 M. Arsel MORO NGUI	16099,76
 M. G. Morris	5349
@@ -306,6 +312,7 @@ M. Jeff Morgan Gwenael N’DOUTOUME-BIE	16175
 M. MORANGA	15660
 M. MOROSSA	15901
 M. Morgan BIGNOUMBA. MM	16381
+MALARIA MORTALITY RATE	19544
 MARI Moringa AI Kenya LDRI	12210
 MATERNAL MORTALITY RATIO	16892,79
 MDAP MCTD MoRENet MTC MTL MTR	4653
@@ -314,6 +321,7 @@ MHz. Morocco	8828
 MI Mortalité	17843
 MIJ Mortalité	17843
 MM Mortalité	17843
+MMDP Morbidity Management and Disability Prevention TT	19544
 MMR Maternal Mortality Ratio MNOs Mobile	2775
 MNN Mortalité	17843
 MOR Employee Performance Management Directive	12500
@@ -341,6 +349,7 @@ MORALE RESIDENTE BENEFICIAIRE DU PLAN D’ACTIONNARIAT	17485
 MORALES	15643,974
 MORALES Article	17841
 MORANGA	15524,220
+MORBIDITY MANAGEMENT AND DISABILITY PREVENTION SERVICES	19544
 MORERI SEJAKGOMO Botswana	7236
 MORERI SEJAKGOMO Orange Money	5795
 MORERI SEJAKGOMO The Independent Electoral Commission	6782
@@ -370,6 +379,7 @@ MOROCCO Public Investment	17503
 MOROCCO Revenue	17503
 MOROCCO Social Spending	17503
 MOROCCO Text Table	17503
+MOROGORO KUFANYA KITENDO KINACHOUMIZA HISIA ZA	19517
 MORONI	13766
 MORONI Page	13712
 MORONOU	15711
@@ -577,7 +587,7 @@ Moroccan Tech SMEs	1885
 Moroccan and Senegalese	1729
 Moroccan-law	3321
 Moroccans	168,389,3252,304,2339,2358,1,5394,3236,17,29,47
-Morocco	25,143,122,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6,120,3,6,15,417,21,16,114,12,57,78,3,10,3,1,2,5,23,5,13,218,1,9,47,11,18,26,13,61,2,11,1,135,48,834,17,74,530,188,11,15,29,1,158,234,31,193,146,414,49,11,82,51,1197,9,2,90,121,116,299,3,7,10,1,8,3,2,15,3,13,2,6,8,5,145,26,48,119,8,64,245,105,25,183,41,712
+Morocco	25,143,122,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6,120,3,6,15,417,21,16,114,12,57,78,3,10,3,1,2,5,23,5,13,218,1,9,47,11,18,26,13,61,2,11,1,135,48,834,17,74,530,188,11,15,29,1,158,234,31,193,146,414,49,11,82,51,1197,9,2,90,121,116,299,3,7,10,1,8,3,2,15,3,13,2,6,8,5,145,26,48,119,8,64,245,105,25,183,41,712,145,37,138
 Morocco 84 X. Revenue Impact of Recent Tax	17503
 Morocco AI	6792,3212
 Morocco ARB LMI	17743
@@ -688,6 +698,7 @@ Morocco. EAI	16467
 Morocco. IXAfrica	6266
 Morocco. Members	17467
 Morocco. Morocco	17441
+Morocco. Non-communicable	19407
 Morocco. Once	14234,1
 Morocco. PR26	17503
 Morocco. Partners	3272
@@ -706,8 +717,44 @@ Morocco’s Ministry of Foreign Affairs	14234
 Morocco’s National Financial Inclusion Strategy	5921
 Morocco’s National Telecommunications Regulatory Agency	9868
 Morocco’s PFM	17503
-Morogoro	2868,2915,232,15,698,88,434,513,3876,1333
+Morogoro	2868,2915,232,15,698,88,434,513,3876,1333,6545,3,21,1,2,13,8,25,2,10
 Morogoro Amesema	6602
+Morogoro Amri	19592
+Morogoro DC	19585,7
+Morogoro DC DC	19585
+Morogoro DC Dispensaries	19585
+Morogoro DC Education	19585
+Morogoro DC Health Centres	19585
+Morogoro DC Primary	19585
+Morogoro DC Secondary	19585
+Morogoro DC Unqualified Compliant	19585
+Morogoro Isonda	19592
+Morogoro Libobe	19592
+Morogoro MC	19585,7
+Morogoro MC Bombambili	19592
+Morogoro MC Dispensaries	19585
+Morogoro MC Education	19585
+Morogoro MC Health Centres	19585
+Morogoro MC MC	19585
+Morogoro MC Unqualified Compliant	19585
+Morogoro Mbozi DC Jumla	19592
+Morogoro Mtwara	19517
+Morogoro Na Kuiba Mtwara Wizi Wa	19517
+Morogoro Pombe	19517
+Morogoro Pwani	19542
+Morogoro RS	19585
+Morogoro RS S	19585
+Morogoro Regional Regional Secretariat	19585
+Morogoro Regional Unqualified Compliant	19585
+Morogoro Under-collection	19585
+Morogoro Water Supply HCMIS and Sanitation Authority	19584
+Morogoro Water Supply and Sanitation Authority	19584
+Morogoro Water Supply and Sanitation Authority Level	19584
+Morogoro and Ruvuma	19618
+Morogoro. Hadi	19590
+Morogoro. Katika	19590
+Morogoro. Tume	19592
+Morogoro. Ufuatiliaji	19592
 Moroke	9439
 Moroke Sekoboto	2767,82,35
 Moroke Sekoboto THE Office	9439
@@ -771,10 +818,11 @@ Mortalidade Neo Natal	11537
 Mortalidade Perinatal	10777
 Mortalidade Relacionada	10777
 Mortalidades	11537
-Mortality	10780,805,566,187,29,16,30,58,492,1079,1014,669,1171,26,74,252,1379
+Mortality	10780,805,566,187,29,16,30,58,492,1079,1014,669,1171,26,74,252,1379,914,3
 Mortality Assessment Survey	12413
 Mortality Data Analyst- RBC	15056
 Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1,135
+Mortality Male Life Expectancy	19544
 Mortality Mortality	12655
 Mortality Rate	4167,35,15,43,1092,5428
 Mortality Statistics	15056
@@ -805,13 +853,14 @@ Mortgage and Registration Act. Priority	18881
 Mortgage and Registration Office	18881
 Mortgaged	14713,2208,29
 Mortgagees	10
-Mortgages	11198,3449,826
+Mortgages	11198,3449,826,4051
 Mortgages and Security Interests	14647
 Mortgate	14713
 Mortinaissance	15599,1037
 Mortinatalité Taux	15599
 Mortis Causa	16838
 Mortos	11537
+Mortuary Project	19585
 Morupule	12604,5
 Morupule B	12604,5
 Morupule B Power Station	12604
@@ -851,7 +900,7 @@ Nationale MOR.pdf	8891
 Nelson Moreira	17315
 Nelson Morreira	11544
 Neonatal Mortality	12151,6011
-Neonatal Mortality Rate	4349,8018,46,2643
+Neonatal Mortality Rate	4349,8018,46,2643,4488
 News Culture Moroccan Filmmaker and Rapper	5407,676
 News Moris	14801
 News Moris Editor Severe Yellow Alert	14801
@@ -861,6 +910,7 @@ Nigeria and Morocco	6937
 Nigeria and Morocco. South Africa	6938
 Nigeria. Morocco	1436
 Nita Morgan	7253
+Njombe Tanga Kusini Pemba Morogoro Songwe	19542
 Nombre Mortalité Mortalité Mortalité	13300
 Nompilo Morafo	8579,6739,430
 O Fundo Morabeza	3709
@@ -921,6 +971,7 @@ Prosperous Morocco	7655
 Q1 Mortgage Secured Credit Credit Facility	11198
 QTV's This Morning	17357
 Quelimane and Morrumbala	12201
+RAS Morogoro	19585
 ROAD TRAFFIC MORTALITY RATE	16892
 Rafael Marques De Morais	9399
 Rafael Marques de Morais	9399
@@ -954,6 +1005,7 @@ SUICIDE MORTALITY RATE	16892
 Salaam. Moraes	2816
 Samba Moriba	18547
 Scaling MoRENet's International Bandwidth	3840
+Sch. Mortgages	19524
 Second Mortality Assessment Survey MCCoD Medical	12413,2643
 Securing Morocco	17503
 Security Interests and Mortgages	14647
@@ -993,6 +1045,7 @@ Tableau C.19 Mortalité	18312
 Tableau C.9 Mortalité	13300
 Tableaux C.4-C.6. Mortalité	13300
 Tamkeen Center Morocco TED Hub Ghana	15460
+Tanzania Mortgage Refinance Company	19592
 Taqa Morocco	17502
 Taux Brut de Mortalité TBR	13377
 Taux Brute de Mortalité	18757
@@ -1012,6 +1065,7 @@ Tomo Morimoto	10829
 Top Five Causes of Under Five Mortality	16971
 Toward Inclusive Development In Morocco	8891
 Transcription and Mortgage Act	14713,9,121
+Trend of Fertility and Mortality Rate	19544
 Trends In Pregnancy Related Mortality	14067
 Trial Moroccan	5407,676
 Trial Moroccan Filmmaker and Rapper El Mahdi	5407,676
@@ -1039,6 +1093,7 @@ Unité de Gestion du Projet Moroni	3715
 V2 and V1. Morocco and Egypt	10840,1054
 VC Fund Managers Morocco Beltone Venture	4972
 VISION OF THE DIGITAL MOROCCO	1885
+VYUO VYA ARDHI TABORA NA MOROGORO	19592
 Vertiv Africa MD Wojtek Piorko and Morocco	8245
 Vicente A. Garcia Moreno	14897
 Vicente Garcia Moreno	15064

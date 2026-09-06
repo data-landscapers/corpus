@@ -43,13 +43,14 @@ AVADA GROUP LIMITED Data Controller INST-6229969CEC4	7167
 AVADA GROUP LIMITED Data Processor INST-6229969CEC4	7167
 AVADAR SIH Dossier	17882
 AVAGRAND HEALTHCARE LIMITED Data Controller INST-746513F798F	7167
-AVAILABILITY	14723,2160,160,114
+AVAILABILITY	14723,2160,160,114,2387
 AVAILABILITY AND RELIABILITY OF DIGITAL SERVICES	12389
 AVAILABILITY Available	15206
 AVAILABILITY Copies	5538
 AVAILABILITY Everyone	14723
 AVAILABILITY OF BROADBAND SERVICE	16884
 AVAILABILITY OF SCHOOL EQUIPMENT	11918
+AVAILABILITY OF VERTICAL PROGRAM COMMODITIES	19544
 AVAILABLE	13980,2912
 AVAILABLE ADDITIONAL SPECTRUM FOR IMT	14825
 AVAILABLE BUT ARE REGISTERED	11240
@@ -235,6 +236,7 @@ AVI Procédure L’ANDF	10876
 AVIACION CIVIL E INFRAESTRUCTURAS AEROPORTUARIAS	4209
 AVIAN COURT LIMITED Data Controller INST-53751652AF4	7167
 AVIAN COURT LIMITED Data Processor INST-53751652AF4	7167
+AVIATION ACT	19518
 AVIC International Holding Corporation	258
 AVID Information Technology	14358
 AVID PROPERTY LIMITED Data Processor INST-6517218293B	7167
@@ -312,6 +314,7 @@ African Development Bank Group Avenue Joseph	10718
 African Union Commission. Available	11909
 Afrique Avec	2880
 Afrique de Formation des Avocats Francophones	10821
+Afrique du Nord Avec	19484
 Afrique. Avec	7293,8493,841,838
 Agile Methodology. Available	11216
 Agrément. AVIS A L’AUTORITE COMPETENTE Dans	15670
@@ -344,6 +347,7 @@ Anthony Albanese. Avinash Ramtohul	4850
 Anti Rétro Viraux AVC	15423,262
 Antibioticos Avaliação	966
 Análise da Avaliação	11557
+Application Availability and Performance	19575
 Après Komor Switch Avant Komor Switch	6146
 Area and Average Yield of Coffee	2775
 Area and Average Yield of Tea	2775
@@ -354,6 +358,7 @@ Assemblée de I.Union des Comores. Avenue	13781
 Assumptions Availability	11986
 Assuring Sustainable Water Availability and Safe Sanitation	8012,3,3268,7267
 Atlantic Council. Available	2518
+Audit Range Region Average Weight	19541
 Austria. Available	10775
 Autoregressive Moving Average	236
 Autoridade Geral de Regulação Avenida	18753
@@ -367,8 +372,10 @@ Avail	958,12337,3589,1486
 Avail GPU	15713
 Avail GPU Resources	15713
 Avail Supply Side	15130
+Availa	19585
+Availa Shortage Facility Villages	19585
 Availabiliry Period	15399
-Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95,156,32,5,53,111,105,3,45,37,106,147,331,36,411,27,324,41,77,4,9,14,42,178,6,15,42,41,343,14,355,904,20,1,1,1,6,31,1,18,29,40,146,82,1110,21,97,9,1,52,146,8,221
+Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95,156,32,5,53,111,105,3,45,37,106,147,331,36,411,27,324,41,77,4,9,14,42,178,6,15,42,41,343,14,355,904,20,1,1,1,6,31,1,18,29,40,146,82,1110,21,97,9,1,52,146,8,221,605,4,6,1,1,11,12,32
 Availability All	9123
 Availability Date	17257
 Availability Date Disbursement	17257
@@ -385,6 +392,7 @@ Availability The Nigerian Tax ID Portal	18183
 Availability Tier	15149
 Availability Zone	12849
 Availability Zones	1206,1,1,11641
+Availability and Accessibility of Big Data	19555
 Availability and Back	6432
 Availability and Eligibility	12389
 Availability and Performance	11995
@@ -392,6 +400,7 @@ Availability of Application Forms	12970
 Availability of Broadband Service	16884
 Availability of CB	16858
 Availability of Central E-Procurement Platform	12389
+Availability of Centre Smartphones Kagera Bukoba DC	19541
 Availability of City Data	18476
 Availability of Digital Cadastral Plans	12389
 Availability of Digital Financial	14897
@@ -411,9 +420,11 @@ Availability of Funds	2307,10698
 Availability of Funds Reports Minutes Annually Under	13005
 Availability of General Company Information	12389
 Availability of Geospatial Software and Hardware	18476
+Availability of Government Internet Bandwidth	19532
 Availability of Green Technology Identifier	12389
 Availability of High-Speed Broadband Networks	17870
-Availability of ICT	14836
+Availability of Human Resource for Health	19544
+Availability of ICT	14836,4740
 Availability of ICT Teacher	18617
 Availability of Incubators	12389
 Availability of Information	12389
@@ -426,12 +437,17 @@ Availability of Legitimate	12389
 Availability of License of Rights Database	12389
 Availability of ML Systems Supercomputing	15713
 Availability of NBN Data Centre	16923
+Availability of National Backbone Facilities	19532
+Availability of National Backbone Facilities Social	19532
+Availability of Not Available	19576
 Availability of Office	14778
 Availability of Official	12389
 Availability of Online Platform for IP Holders	12389
 Availability of Open Banking	14819
 Availability of PPE	12253
+Availability of Power Plants	19596
 Availability of Professional	13037
+Availability of Project Cost	19532
 Availability of Public Consultations	12389
 Availability of Regulatory Sandboxes	12389
 Availability of Science and Technology Parks	12389
@@ -442,6 +458,7 @@ Availability of Short Message Service	13037
 Availability of Simplified Registration	12389
 Availability of Simplified and Enhanced CDD Measures	12389
 Availability of Skilled	13005
+Availability of Smartphones	19541
 Availability of Software and IT Staff	13042
 Availability of South-South	14860
 Availability of Spatial Plans and Zoning Requirements	12389
@@ -452,28 +469,39 @@ Availability of Tax Guidance	12389
 Availability of Tax Incentives	12389
 Availability of Technology Transfer Offices	12389
 Availabiliÿ	15399
-Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,4,203,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1,217,2,17,130,704,411,83,7,7,50,29,67,70,8,131,136,327,23,4,32,109,242,408,127,436,3,9,18,20,27,29,33,146,52,30,87,232,149,163,14,78,9,138,77,31,76,25,152,70,76,252,39,24,306,8
+Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,4,203,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1,217,2,17,130,704,411,83,7,7,50,29,67,70,8,131,136,327,23,4,32,109,242,408,127,436,3,9,18,20,27,29,33,146,52,30,87,232,149,163,14,78,9,138,77,31,76,25,152,70,76,252,39,24,306,8,275,12,15,28,1
+Available Available	19576
 Available Bandwidth Capacity	6946
+Available Beds IPD Genera	19544
 Available Career Pathways Applicants	11314
 Available Crosas	12090
 Available Data Portals Explore	18747
+Available Dedicated	19576
+Available Deficit	19585
+Available Dodoma Kondoa Kondoa	19541
 Available Financial Audits	11863
 Available Financing	18851
 Available Generation Capacity	12062,6124,31
+Available Innovation Centres	19534
 Available International Bandwidth	6671
 Available Materials Main	16839
 Available Not Available	11953
 Available Nulty	12090
 Available Partially	15206
 Available Pool Move	14659
+Available Registration Officers	19541
 Available Services	11493
 Available Skill Tracks Participants	11347
+Available Staff17 Job Description Kinondoni	19541
+Available Staff17 Job Description Mbozi	19541
 Available Units	13930
 Available and Affordable	13295
+Available and Available	19576
 Available and Aﬀordable	958
 Available3 Available11	12138
 AvailableAvailable	15206
 Availibility	14897
+Availing	19519
 Aval Pétrolier	15580,457,2285
 Avalia	11569
 Avaliacao	2228
@@ -539,7 +567,7 @@ Avancés	16626
 Avani Hotel	10151
 Avani Lesotho Hotel	5741
 Avani Victoria Falls Resort	13477
-Avant	113,323,310,1,38,401,3,42,56,697,393,76,61,349,235,584,259,221,671,221,206,20,236,551,28,14,37,89,6,142,444,127,23,136,7,149,105,88,34,74,84,1,20,38,12,86,255,1,103,263,732,12,93,7,568,385,36,19,182,48,31,60,85,134,11,33,6,1,89,704,76,39,2,203,1303,1,7,6,17,14,4,34,2,13,38,14,3,7,16,50,6,6,17,160,2,72,382,21,228,12,1,19,15,16,13,1,1,80,292,57,404,27,2,9,1,4,33,1,15,1,16,29,4,2,7,22,4,7,35,1,39,2,4,6,3,2,4,32,1,34,33,6,2,16,2,38,50,13,71,7,28,95,6,10,16,32,2,18,195,144,2,15,21,74,50,1,10,1,1,7,111,696,28,14,65,92,95,64,15,12,1,2,15,1,9,2,3,38,46,19,39,16,2,54,24,2,18,24,26,1,10,78,30,2,7,15,15,570,19,71,39,24,158,4,1,7,5,1,7,11,61,16,39
+Avant	113,323,310,1,38,401,3,42,56,697,393,76,61,349,235,584,259,221,671,221,206,20,236,551,28,14,37,89,6,142,444,127,23,136,7,149,105,88,34,74,84,1,20,38,12,86,255,1,103,263,732,12,93,7,568,385,36,19,182,48,31,60,85,134,11,33,6,1,89,704,76,39,2,203,1303,1,7,6,17,14,4,34,2,13,38,14,3,7,16,50,6,6,17,160,2,72,382,21,228,12,1,19,15,16,13,1,1,80,292,57,404,27,2,9,1,4,33,1,15,1,16,29,4,2,7,22,4,7,35,1,39,2,4,6,3,2,4,32,1,34,33,6,2,16,2,38,50,13,71,7,28,95,6,10,16,32,2,18,195,144,2,15,21,74,50,1,10,1,1,7,111,696,28,14,65,92,95,64,15,12,1,2,15,1,9,2,3,38,46,19,39,16,2,54,24,2,18,24,26,1,10,78,30,2,7,15,15,570,19,71,39,24,158,4,1,7,5,1,7,11,61,16,39,9
 Avant Après	15555
 Avant DHIS2	18928
 Avant Komor Switch	6146
@@ -843,6 +871,7 @@ Avec Komor Switch Transferts	6146
 Avec KomoraLink	5996
 Avec LANAYA	5707
 Avec Lanaya	5722
+Avec MEDUSA	19422
 Avec MIA	11674
 Avec MYONECI	2758
 Avec MaDigiPaie	4208
@@ -894,6 +923,7 @@ Avec le SNISI	18093
 Avec le Système	13892
 AvecarsdieomnyofofthSeciAeIntsitfircateRgesye	15713
 Avedsetfiirc-siêenscoizainchoog	15694
+Avehicles	19525
 Aveiñ-Nkum	4209
 Avelle	15524
 Aven Marcel Ledira	15692
@@ -919,7 +949,7 @@ Avenne Roi Baudouin	15584
 Aventure	5812
 AventureCloudz	6010
 Aventuri	3192
-Avenue	4153,3045,3931,51,2120,60,17,155,249,1645,244,248,1861,517,910,153
+Avenue	4153,3045,3931,51,2120,60,17,155,249,1645,244,248,1861,517,910,153,9
 Avenue Abdoulaye FADIGA BP	17024
 Avenue Al Arz	2599
 Avenue Appia CH-1211 Geneva	16892
@@ -936,6 +966,7 @@ Avenue Félix Eboué	15558,102,188
 Avenue Félix Eboué Immeuble	16100,77
 Avenue Félix Eboué M. EWENGUE	15488
 Avenue Issa Beri	18265
+Avenue Jugurtha	19502
 Avenue Large	15555
 Avenue MIMIRWA	13567
 Avenue MUMIRWA	13555
@@ -946,6 +977,7 @@ Avenue Mama Fousséni	19260
 Avenue Marly	14746
 Avenue Mehdi Ben Barka	17490
 Avenue Mob	3386
+Avenue Mohamed V Tunis Tél	19372
 Avenue Pascal ZAGRÉ	10874,1,4682
 Avenue Patrice Lumumba	17485,2
 Avenue Prosper Gandzion	7668
@@ -970,7 +1002,7 @@ Avenue du Mali BP	17841
 Avenue du Mali Hamdallaye ACI	17993,68,28
 Avenues	1161,9680,119
 Averag	17043
-Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487,227,82,26,45,32,84,11,1,1,9,23,63,54,78,136,196,44,119,8,7,1,31,53,28,119,14,170,16,45,5,85,16,18,92,113,71,33,30,6,2,62,44,2,52,170,129
+Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487,227,82,26,45,32,84,11,1,1,9,23,63,54,78,136,196,44,119,8,7,1,31,53,28,119,14,170,16,45,5,85,16,18,92,113,71,33,30,6,2,62,44,2,52,170,129,236,14,7
 Average Annual Growth Rates	18464
 Average Annual Increase	16921
 Average Annual Inter-Censal Growth Rates	18464
@@ -1064,6 +1096,7 @@ Average Producer Prices of Selected Products	2775
 Average Quantity	17043
 Average Retail Market Prices of Selected Food	2775
 Average Rev Gr	15149
+Average Revenu	19440
 Average Revenue	14897
 Average Revenue Per User	3898,2102,11,89,9607,2737
 Average Revenue Per User CDMA	6000
@@ -1107,6 +1140,7 @@ Averbamentos	15396,3439
 Averbug D	10780
 Averiguar	167
 Averiguação	15433,3317
+Averning	19525
 Averroès Africa	1428
 Averti Paterne	15455
 Avertissemeni	15429
@@ -1161,6 +1195,7 @@ Aviatrade Business Congo Airlines	15615
 Aviação	17220
 Aviação Civil Internacional	15477
 Avicultura Tradicional Familiar	4209
+Avicène-immeuble Safir-4000-Sousse Sousse	19476
 Aviga	15780
 Avima	15558
 Avinash Naidoo	10193
@@ -1222,6 +1257,8 @@ Avloh	17584
 Avoa Olivier	3698
 Avocado	15027
 Avocado Butter	15027
+Avocado Oranges	19554
+Avocado and Orange	19554
 Avocat	2792,8950,3663,265,2191
 Avocat du Peuple	18427
 Avocate	2546
@@ -1267,7 +1304,7 @@ Avr. Nouveau	8673,10601
 Avr.-Décision	19251
 Avr.-Décret	19235,16
 Avr.-Loi	19251
-Avril	747,1,457,779,164,548,36,845,843,1334,76,65,34,1691,35,1522,1698,46,1,53,2326,11,1,1,154,221,115,614,7,237,793,24,191,15,27,27,146,318,91,12,3,60,249,2,10,10,11,57,6,795,1,330,8,19,22,56,69,1,62,28,13,1,52,51,1,67,1,19,12,2,36,26,371,162,286,21,6,3,9,7,2,59,4,7
+Avril	747,1,457,779,164,548,36,845,843,1334,76,65,34,1691,35,1522,1698,46,1,53,2326,11,1,1,154,221,115,614,7,237,793,24,191,15,27,27,146,318,91,12,3,60,249,2,10,10,11,57,6,795,1,330,8,19,22,56,69,1,62,28,13,1,52,51,1,67,1,19,12,2,36,26,371,162,286,21,6,3,9,7,2,59,4,7,65,68
 Avril CPS	18077
 Avril Kaplan The World Bank CAR	10829
 Avril de Bétou	15965
@@ -1291,8 +1328,10 @@ BAD Banco Africano de Desenvolvimento ACP Avaliação	18783
 BAI04 Managed Availability ITGov	9237
 BANCO DE MOÇAMBIQUE Aviso	6462,6391
 BCEAO Avenue Abdoulaye Fadiga BP	10711
+BED AVAILABILITY IN HEALTHCARE INSTITUTIONS	19544
 BNA’s Avisos No	10779
 Baines Avenue	4896
+Banana Large Scale Avocado	19554
 Bank of Mauritius. List of Licensees. Available	14819
 Banque Centrale de Djibouti Avenue St. Laurent	13863
 Benin I2 AVfi	15399
@@ -1300,9 +1339,11 @@ Benjamin Avornyotse	8767
 Best Available Techniques and Best Environmental Practices	14774
 Biermann Avenue Rosebank	10793
 Bilateral Agreements. Available	14819
+Bilele Available Kyerwa DC Kyerwa Available	19541
 Billion Average	12252,895
 Billion Internet Economy Future. Available	18931
 Birth Certificates Available Fees	14045
+Birth and Death Records and Availability of RITAs District	19541
 Blended Average	14707
 Blended Finance. Available	17870
 Bloomberg. Zambia Dedollarization Plan. Available	12376
@@ -1345,6 +1386,8 @@ CHARRETTE AVEC PETITE CITERNE	13300
 CLIQUE AQUI Averbamentos Indeterminado Actos	18835
 CMA Available	17006
 CNS. Avec	17842
+COMPARAISON AVEC LA SITUATION	19412
+COMPARAISON AVEC LES SITUATIONS DEPUIS	19412
 CONDOM UTILISÉ AVEC	13300
 CONGO TELECOM S.A.U Avec	15615
 CONTENU Avant-propos	18171
@@ -1392,7 +1435,7 @@ China’s Internet Development. CNNIC. Available	8460
 Chrisanthi Avgerou and Carla Bonina	226
 Civic Watch Cameroun. Avant	6680
 Civil Aviation	12825,2124,1188,1584,1319
-Civil Aviation Act	736,12667
+Civil Aviation Act	736,12667,6115
 Civil Aviation Authority	11,11542,842
 Civil Aviation Authority CAK Communications Authority	2775
 Civil Aviation Authority of Zimbabwe	1554
@@ -1460,7 +1503,7 @@ Critérios de Avaliação Geral	11390,16
 Critérios de Avaliação de Impactes Ambientais	11406
 Current Avg. Income Average	17239
 Custom Risk Management Availability	12389
-Customer Average Interruption Duration Index	12256,2611
+Customer Average Interruption Duration Index	12256,2611,4729
 Customs Data AVR Audio Visual Royalty	18931
 Célibataire Aveugle	13442
 D Avis	18322
@@ -1560,6 +1603,7 @@ Directeur Général. Avec	2342
 Direction Générale des Impots Avant	15625,1
 Director of Civil Aviation	14714,1
 Directorate of Civil Aviation	6946
+Disaster Not Not Available	19576
 Dispute Avoidance	16144
 Dispute Avoidance and Dispute Settlement	1243
 Disputes Avoidance	11134
@@ -1651,6 +1695,7 @@ Escola de Formação de Professores Ensino Geral Avaliação	10766
 Escuela de Aviación Civil	4209
 Eskom’s Energy Availability Factor	11228
 Essential Medicines Available	2775
+Establishment of National Civil Aviation Security Committee	19518
 Estados Unidos da América Sim Avançado Sim	2816
 Estadística MAC Ministerio de Aviación Civil MAGBMA	16898
 Estatística Avenida Comandante Gika	10766
@@ -1679,6 +1724,7 @@ FY28 FY29 FY30 Average US	17364
 Facebook.265 Average	13461
 Farquhar Avenue	14847
 Fase de Avaliação Global da Reforma Educativa Formação	10766
+Feedback Not Available	19576
 Feliciano Obiang AVA	7703
 Figures. Available	14819
 Files Avec	11499
@@ -1734,6 +1780,7 @@ Global Average and Nigeria	11138
 Global Aviation Community	12942
 Global Aviation Safety Plan	12942
 Global Entrepreneurship Monitor. Available	12376
+Global Resources Are Available	19555
 Global Transmission System Availability Index	14867
 Gombe UAC SARL Coin Avenue	10400
 Good Nature Agro. Available	12376
@@ -1768,6 +1815,7 @@ HUBS IDENTIFIED IS MADE AVAILABLE	15460
 Haile Selassie Avenue	12282,1073,10,112
 Harambee Ave. P.O. Box	12322
 Harvard University Press. Available	12090
+Hazina Avenue P.O.Box	19602
 Health Resources Availability Mapping System	10829
 Health Resources and Services Availability Monitoring	15206
 Heuwel Avenue	6907
@@ -1780,6 +1828,7 @@ Hospital Beds and Cots Available	2775
 Hotspot WiFi Avenida Digital-	17219
 Hours Average	16631
 Household Size and Average Area Per Person	2775
+Households Avocado	19554
 Huawei Marine Networks Successfully Deliver Avassa	13711
 I. Avaliação	11440
 I.SERVICES FINANCIER DIGITAUX I01 Avez-vous	13390
@@ -1810,6 +1859,7 @@ INFRASTRUCTURE Average	16942
 INSISTEZ POUR SAVOIR PRÉCISÉMENT AVEC QUOI	13300
 INTEGRATION DES AVANTAGES FISCAUX ET DOUANIERS	16047
 INTERETS DES PRETS ET AVANCES N	15999
+INTERNET IS GENERALLY AVAILABLE	19542
 INTRODUCTION Avec	6146
 ISF Aveugle	13442
 ITIE Avril	16618
@@ -1844,6 +1894,7 @@ Innovation. Par Jean Materne Zambo Avez-vous	10691
 Inquêrito Ligeiro de Avaliação da Pobreza	11525
 Inside Capital. Available	12376
 Insights Annual Average EAF	11953
+Institutional Availability of Number of Districts	19541
 Institutions Widely Available	18477
 Instrumentos de Avaliação da Prontidão	11394
 Integrity and Availability	8897
@@ -1855,8 +1906,8 @@ International Average Calling Time	15136
 International Civil Aviation	14409,323
 International Civil Aviation Air Services Agreement	11185
 International Civil Aviation Authority	4102
-International Civil Aviation Organisation	1688,1,11200,545,5,728,242,323
-International Civil Aviation Organization	320,2650,1866,744,1715,75,3353,1263,178,53,1165,1358,364,326,1517,1181
+International Civil Aviation Organisation	1688,1,11200,545,5,728,242,323,4786
+International Civil Aviation Organization	320,2650,1866,744,1715,75,3353,1263,178,53,1165,1358,364,326,1517,1181,1390
 International Civil Aviation Organization ICDC Industrial	2775
 International Civil Aviation Organization ICT Information	13005,5926
 International Civil Aviation Organization IQA	18309
@@ -1928,6 +1979,7 @@ LISEZ AU PASSÉ VIVANT AVEC UN	13300
 LITE DES SIGLES ET ABRÉVIATIONS AVEC	13390
 LLDCs Averages	10844,7279
 LO GI TRAN S Avis	18322
+LOGEMENTS AVEC DES NON RÉSIDENTS	19412
 LRD Average	17043
 Labor. Available	11909
 Lack of Available Power Shared	11857
@@ -2082,6 +2134,7 @@ My Sol. Available	12376
 Mº AVIACIÓN CIVIL E INFRAESTRUCTURAS AEROPORTUARIAS	4209
 Mº de AVIACION CIVIL E INFRAESTRUCTURAS AEROPORTUARIAS	4209
 N I V EL SA Avis	18322
+N Medical Equipment Required Available Shortage	19585
 N'IMPORTE QUEL ENDROIT AVEC N'IMPORTE QUEL	13300
 NA Availability	11986
 NA Average	15617
@@ -2108,10 +2161,14 @@ Nation. Avenue Roi Baudouin. Kinshasa	15584
 Nation. Avoir	18393
 National Agency for Civil Aviation and Meteorology	13729,23,61,4496,83
 National Agency for Civil Aviation and Meteorology ANAMS	18309
-National Average	16921,193
+National Average	16921,193,2430
 National Average Call Duration	15136
 National Average Calling Time	15136
+National Average Workload	19541
+National Average Workload Annual Average Availabl	19541
+National Civil Aviation Security Committee	19518
 National Civil Aviation and Meteorological Agency	13813
+National Strategy for Improving Availability of Forex	19602
 Naturalisation AVANCEMENT ECOLE Décret	16100
 Nettoyage du Avant	14490
 Network Availability	21,18423
@@ -2122,6 +2179,7 @@ Nigeria Nepal São Tomé Zimbabwe Average	11572
 Nigeria. Available	3456,12165
 Ninth Avenue New York	7198
 Nkrumah Avenue	3386
+No. Name of LGA Type of Requirement Available	19585
 No.8 Nelson Mandela Avenue South Legon	2308
 Nombre de Avant	14490
 Non I03 Avez-vous	13390
@@ -2170,6 +2228,8 @@ OpenAI and Reddit Partnership. Available	13461
 OpenAI.2024. Overview. Available	13461
 Operations Management Framework. Available	11216
 Opportunities Available Applications	9198
+Opportunities for Investor Availability of Land	19532
+Opportunities for Investor Availability of Land No ICT	19532
 Orange Liberia. Avoids	704
 Order. Available	16872
 Ordre des Avocats	1231
@@ -2190,6 +2250,7 @@ Oxford Policy Management. Available	11133,9
 Oxford University Press. Available	12090
 P O Avez-vous	13300
 P2P Average Value of Mobile Money	9781
+PART II ESTABLISHMENT OF CIVIL AVIATION	19518
 PARTIE NON OFFICIELLE Avis	15598
 PARTIR DE N'IMPORTE QUEL ENDROIT AVEC	13300
 PAS AVEC PAS AVEC PAS AVEC	13300
@@ -2275,6 +2336,7 @@ Professeur Nicaise Manfoumbi. Avec	15733
 Professores SNA Sistema Nacional de Avaliação ST	11557
 Program ANACM National Agency of Civil Aviation	13729
 Program SAIDI System Average Interruption Duration	19239
+Program of Improving Availability of Textbooks	19565
 Programa Nacional de Avaliação da Conformidade	11381
 Programa de Avaliação da Conformidade	12829
 Programas de Avaliação da Conformidade	12782
@@ -2348,6 +2410,7 @@ RFP. Availability of Professional	13037
 RL Avis	18322
 ROBERT MUGABE AVENUE WINDHOEK YOURS FAITHFULLY	12400
 Raisons Pertinence Avec	15936
+Range Region Average Weight	19541
 Rate Available	16960
 Realização de Avaliação da Implementação da ENDE	18794
 Recherche Scientifique Avancée Développement	19039
@@ -2396,7 +2459,9 @@ Revenue Variance and RCA Analysis Average SADC	12969
 Revenues AVERAGE FUNDING ALLOCATION	15460
 Richards Bay and Maputo. Aviation	12956
 Risk Dimension Key Issues Water Availability	17157
+Risk-sensitive Budget Review. Available	19520
 RoJETs D'ENERGtEs RENouvELABLES CoLLABoRATtoN AVEC	14479
+Road Map for Improving the Availability	19520
 Robert Mugabe Avenue	12400
 Robert Mugabe Avenue Windhoek NAMIBIA RE	12400
 Rogério Lucas Zandamela. Aviso	12853
@@ -2436,6 +2501,7 @@ SSA Average	12385
 SSN. Avec	17945
 STA R O I L Avis	18322
 STAR-UEMOA Avec	10711
+STE SOMABE Avenue Ahmed Aloulou	19476
 STIGMATISATION ENVERS LES PERSONNES VIVANT AVEC	13300
 STQC. Digital Service Standards. Available	11216
 STRATEGIE LARGE BANDE Avec	13301
@@ -2443,6 +2509,7 @@ SUR LES PERSONNES S VIVANTES AVEC	17946
 SY Avis	18322
 SYDONIAWorld. Avec	15549
 Safia Mohamed Ali Gadileh. Avant	17763
+Salaam Ubungo Mburahati Available Ilala Mchafukoge	19541
 Samba Diouf. Avec	10258
 Samora Machel Ave	13685
 Samora Machel Ave Harare	12511
@@ -2465,7 +2532,7 @@ Senelec. Les Avenants	18322
 Senior AVP Service Delivery	11162
 Serment Avont	15429
 Serments Avonl	15429
-Service Availability	17139
+Service Availability	17139,2437
 Service Availability Any	15081
 Service Availability Perception	5676
 Service Availability Readiness Assessment	766,12210,3995
@@ -2501,6 +2568,7 @@ Speaker. MEASURES TO AVERT ROAD	13387
 Spectrum MHz of Blocks Available Block	736
 Spectrum Management. Available	16872
 Springer Verlag. Available	12090
+Staff Available	19541
 Stanis Bujakera Tshiamala. Avant	17779
 Starlink Availability Map	1695
 Starlink Available	6629
@@ -2518,12 +2586,12 @@ Sugestões Metodológicas Indicadores de Avaliação	15564
 Swift. Avec	13452
 System Availability	11952
 System Average Duration Index	12358
-System Average Interruption Duration Index	12256,102,2509,792
+System Average Interruption Duration Index	12256,102,2509,792,3937
 System Average Interruption Duration Index SAIFI	12358
 System Average Interruption Duration Index SAR	18322
 System Average Interruption Duration Index SEA	15659
 System Average Interruption Duration Index System	12969
-System Average Interruption Frequency Index	12256,2611
+System Average Interruption Frequency Index	12256,2611,4729
 System Average Interruption Frequency Index SAIDI	18322
 System Average Interruption Frequency Index SS	12358
 Système de Comptage Avancé	1993
@@ -2562,12 +2630,14 @@ TRANSMISSION SYSTEM AVAILABILITY INDEX	14867
 TRANSPORTS. Avant	15542
 TWG Automated Meter Reading Average Service	12969
 Tanzania Civil Aviation Authority	5883
+Tanzania Civil Aviation HCMIS	19584
 Target Completion Average	15424
 Tariff Average No. of Beneficiaries	12256
 Tax Year'. Available	11133
 Tchad Avec	19029
 Tchimbamba Aviation	15465,991
 Tech Diplomacy and Avenues for Digital Development	5239
+Technical and Increase Timely Availability	19519
 Techniques de Productions Avicoles	19366
 Tel- Aviv	4209
 Telecel. Avec	9279
@@ -2594,6 +2664,7 @@ Transparency and Availability of Information	12389
 Travel Documents Types Available	14045
 Trésor. Avec Fouta	8799
 Tunisie Avec Qantev	2407,41,490,2760,1057
+Tunisie. Avec	19413
 Turismo de Aventura	16022
 Turkey. Available	11133
 Turnkey. Avec	4716
@@ -2613,6 +2684,8 @@ UNE CEREMONIE ORGANISEE AVEC RIGUEUR PROTOCOLAIRE	16155
 USD Availability	10244
 USD Avg	13868
 USE OF ARTIFICIAL INTELLIGENCE Consistency and Avoidance	14565
+Uganda Avenues	19592
+Ultra-sound Required Available	19585
 Union Européenne Avec	15542
 Union Monétaire Ouest Africaine. Avenue Abdoulaye	15635
 Union Monétaire Ouest Africaine. DECIDE Avenue	15508
@@ -2666,6 +2739,7 @@ Vice-Reitor da Universidade de Aveiro	11566
 Video Tutorials Available	18540
 View Comments AVIS AUX OPÉRATEURS	19256,67
 Virunga Energies. Available	12006
+Visited Region Region Age Category Average	19541
 Vitalite Zambia. Available	12376
 Voice and Vision Features. Available	13461
 Volume Weighted Average Price	4896

@@ -95,7 +95,7 @@ Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
 Demba Kasaï Oriental Nkenakuna Kasaï Oriental	15670
 Demonstração da Orientação	11430
 Description Baseline Original End Target Revised	18825
-Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7
+Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232
 Didier Bompangue. Originally	14666
 Direction des Orientations	15936
 Diário Económico Original	8407,300,1648,115,1121,131
@@ -166,6 +166,7 @@ III.4. Orientations	15848
 IX. ORIENTATIONS STRATEGIQUES	15423
 IZAZOVI I MOGUĆNOSTI ORIGINALNI RAD ORIGINAL	10780
 Indicator Name Unit of Measure Baseline Original	15424,177,62
+Induction and Orientation Programme	19585
 Industrie Animales de Accueil Orientation	17841
 Information and National Orientation Minister Mohammed Idris	17792
 Issue and Revision Record Revision Date Originator	16628
@@ -227,7 +228,7 @@ Mme ANDEME ALASSANE Zalika Oriane DIRECTION	16099
 Mme Zalika Oriane ANDEME ALASSANE	16175
 Mobile Originated and Mobile Terminated	17212
 Mobility Orientation	13633
-Moyen Orient	17478,1494
+Moyen Orient	17478,1494,433
 Moyen Orient Le Gabon	2938
 Moyen Orient Robotique	2448,490,3817
 Moyen- Orient	7655
@@ -362,7 +363,7 @@ Oriente Medio	16979
 Orienter	13390,2000,280,481,1694
 Orientou	10751
 Orienté	15989
-Orig. Closing	11375,1683,2101,322,256,2396
+Orig. Closing	11375,1683,2101,322,256,2396,1348
 Origanummajorana L	16103
 Origem	2138,1283,8110,7303
 Origin	1,21,69,19,5,27,6,16,68,1,1,174,289,49,219,54,112,24,28,84,18,1,8,1,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,4,99,41,51,135,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,72,6,1,4,1,2,12,7,6,1,1,1,3,13,39,23,30,30,1,1,1,1,1,1,1,15,21,14,1,11,3,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,13,1,170,9,1,226,159,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,13,95,360,1,16,4,1,2,17,1,1,1,1,1,1,1,2,35,118,10,46,28,196,33,37,116,42,6,19,2,133,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,75,53,1,1,1,1,1,1,1,23,120,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,49,1,11,1,4,1,1,1,23,1,1,1,64,2,2,2,21,1,47,12,37,4,31,88,40,120,206,68,207,127,54,32,48,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,160,189,42,23,11,33,34,440,326,4,1,2,27,40,103,78,110,89,661,166,18,1,106,174,69,82,15,8,47,6,93,70,39,10,28,11,24,2,44,3,3,3,52,1,21,1,1,19,24,35,84,11,294,143,540,76,592,190,5,4,44,1,7,8,1,1,1,1,1,1,85,2,11,408,699,629,9,512,416,1048,37,1708,463
@@ -375,7 +376,7 @@ Origin of Software	3787
 Origin1	2775
 Originaire du Maroc	16825
 Originaire du Togo	14712
-Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21,227,95,182,41,33,222,282,75,120,407,16,12,52,1,36,336,610,56,36,135,306,386,409,3,38,9
+Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21,227,95,182,41,33,222,282,75,120,407,16,12,52,1,36,336,610,56,36,135,306,386,409,3,38,9,197,43
 Original AF Target	15663
 Original Actual Sector Code	16614
 Original Allocation	14971
@@ -489,11 +490,13 @@ Origins and Purpose	12025
 Origins of State Capacity	13624
 Oriji	18154
 Orik Capital	17205
+Orikine	19592
 Orile Iganmu PHC	11968
 Orinasa	14438,1,24,25,1,1,44,82
 Orinasa L'administration	14463
 Orinasa Mpanao	14488,1,1
 Orinasa. L'EDBM	14644
+Oringa	19592
 Orinko	16037
 Orinode	11497
 Orion Consortium	4447
@@ -556,7 +559,7 @@ Results Indicator Baseline Original Revised	15663
 Revised Indicator Original Target Page	15138
 Rodrigo Orihuela and Donal Griffin	7343
 Route Orientation	17860
-Rules of Origin	9242,4321,575,1503,3426
+Rules of Origin	9242,4321,575,1503,3426,535
 Rules of Origin State Parties	15641
 Rules of Origin The EU	14628
 Rules of Origin for Enhanced Intra-African Trade	10841
@@ -580,6 +583,7 @@ Service Oriented Architecture	11371
 Services Oriented Architecture	11371
 Serviços Orientados	11394
 Ses Hautes Orientations	8891
+Six Orientations Stratégiques	19406
 Social Orientation Law No	18370
 Social Risk Rating Moderate Moderate Original	15138
 Social SOGI Sexual Orientation and Gender Identity	11413

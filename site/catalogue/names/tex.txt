@@ -1,7 +1,7 @@
 A. Context Text Figure	13624
 A. Introduction Text Figure	13624
 ASSEMBLEE LEGISLATIVE DE TRANSITION TEXTE ISSU	1801,13991
-AU TITRE DES TEXTES LEGISLATIFS ET	8269,10070,61,12
+AU TITRE DES TEXTES LEGISLATIFS ET	8269,10070,61,12,993
 AU TITRE DES TEXTES LÉGISLATIFS ET	18402,1
 Accessibility Tools Increase Text Decrease Text	12322
 Add Your Heading Text Here Does	16889,228,39,95
@@ -130,6 +130,7 @@ Polícia Nacional. Texto Portaria Conjunta	15705
 Preparation Text	1243
 Principaux Textes Appliqués Ordonnance Ministérielle	13499
 Privatiser la Nouvelle Société Textile du Tchad	18988
+Program of Improving Availability of Textbooks	19565
 Progrès Hors Texte Prix	16047
 Provisional Rules of Origin for Textiles and Apparel	19067
 Président du Faso. Texte	7670
@@ -206,6 +207,7 @@ TEXTILE Gestion Patrimoniale	2342
 TEXTO	11473
 TEXTS BEING EQUALLY AUTHENTIC	11517,3846
 TEXTUAL ANALYSIS OF QUARTERLY SURVEY	13532
+Tanzania Textbook Supply Chain	19565
 Tchadien Texte	18884
 TechCabal. Text-to-speech	11163
 Tex Law Rev	5242
@@ -220,6 +222,7 @@ Texplast Industries Limited Generation	12256
 Texstyle Expo	16331
 Text Books	13991
 Text Figure	13624,3585,700,81,833
+Text Size Normal Large Larger Language	19614
 Text Sizing Scalable	11952
 Text Table	1828,2,11794,244,3341,48,246,406,81,833
 Text for Adherence	12143
@@ -232,10 +235,10 @@ Textbook Ratio SQARM School Quality Assurance	18460
 Textbook-to-pupil	12199
 Textbooks	899,11006,506,711,270,1350,154,708
 Textbox	14666
-Texte	3189,2957,2505,2249,2,19,218,4333,108,1858,1446
+Texte	3189,2957,2505,2249,2,19,218,4333,108,1858,1446,498,3
 Texte Données	1984
 Texte TXT	1984
-Textes	7439,1554,487,2563,2380,991,35,146,19,106,223,352,321,1,3,127,704,421,111,135,181
+Textes	7439,1554,487,2563,2380,991,35,146,19,106,223,352,321,1,3,127,704,421,111,135,181,1085
 Textes Appel	18079
 Textes Internationaux	15542
 Textes Légaux Relatifs	13302
@@ -244,12 +247,14 @@ Textes de Références	18427
 Textform	8546
 Textil	1701
 Textil-Ropa-Calzado	1701
-Textile	10841,34,2510,1163,71,2281,1415
+Textile	10841,34,2510,1163,71,2281,1415,1287
 Textile Development Company39F	10841
 Textile FX	9285
 Textile Institute	14736
 Textile and Apparel Sector Thematic Working Group	12703
 Textiles	4209,9176,320,1322,1873,1721
+Textiles Reduced	19532
+Textiles and Apparel Value Chains Edible Oil	19602
 Textiles and Leather	10841
 Texting	10977
 Texto	6298,1785,289,182,511,237,2083,45,2751,2714,50,20,16,5,3,33,5,4,18,2,22,3,13,39,22,11,14,47,1,1,1,2,2,15,2,8,28,11,8,8,10,21,3,6,14,10,4,12,3,30,148,1204
@@ -265,6 +270,7 @@ Texture Geometric	17140
 Texture Well	17140
 Textured	15027
 Type of Text IP-related Laws Subject Matter	16839
+Télécharger Le Texte	19400
 Union des Comores. Textes	13716
 University of Texas	8022
 Université du Texas	10803

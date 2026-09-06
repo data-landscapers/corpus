@@ -9,6 +9,7 @@ ABOGADO DEL ESTADO	4209
 ABSOLUTE ESTATES LTD Data Processor INST-32335969E61	7167
 ACTUALIZAÇÃO DA REDE PRIVATIVA DO ESTADO	11397
 AFROSAI-E and INTOSAI Establish	17364
+AG. Establishment	19525
 AGRICULTURAL INFORMATION SYSTEM Establishment	14575
 AI Establish National AI Council	12512
 AI Standards and Establish	14566
@@ -98,6 +99,7 @@ Autoridade Estatística	11537
 Autoridade Estatística A Autoridade Estatística	11516
 Autoridade Estatística Nacional	11449
 Availability of Establishment	18476
+Awareness CIPA Census of Establishment COE Consumer	19519
 Awudome Estate	3386
 AÇÕES ATIVIDADES ESTADO Gráfico	15535
 B Establish	961
@@ -254,7 +256,9 @@ Comunidad de Vecino. Esta	16898
 Comércio. O Chefe de Estado	5053
 ConCourt Establishing	12591
 Concorrentes. Estas	18753
+Conduct Census of Establishments	19519
 Conduct National Establishment Census LISGIS	17116
+Conducting Census of Establishments	19519
 Conectividade. Esta	11441
 Conferencia Episcopal de Guinea Ecuatorial. Esta	16897
 Conferencia de Jefes de Estado	4209
@@ -439,12 +443,13 @@ ESTABLISHING THE GENERAL FRAMEWORK FOR FINANCIAL	15566
 ESTABLISHING THE LAS The LAS	16843
 ESTABLISHING THE MANAGEMENT OBJECTIVES	17157
 ESTABLISHING THE NATIONAL IDENTIFICATION CARD SYSTEM	16841
-ESTABLISHMENT	14410,2477,2286,12
+ESTABLISHMENT	14410,2477,2286,12,340
 ESTABLISHMENT ANALYSIS BOOKLET	15085
 ESTABLISHMENT AND ADMINISTRATION	14449
 ESTABLISHMENT AND ADMINISTRATION OF THE INTEGRATED	14575
 ESTABLISHMENT AND ADMINSTRATION OF THE INTEGRATED	14575
 ESTABLISHMENT AND LEGAL STATUS ARTICLE	19185
+ESTABLISHMENT AND OPERATIONS	19564
 ESTABLISHMENT AND PRINCIPLES OF THE COMMUNITY	14409
 ESTABLISHMENT AND REGULATION OF POPULATION REGISTER	12984
 ESTABLISHMENT CENSUS GENDER	6911
@@ -460,8 +465,10 @@ ESTABLISHMENT OF OFFICE OF OMBUDSMAN Establishment	18434
 ESTABLISHMENT OF PROSECUTION UNIT AND PROCEDURAL	12459
 ESTABLISHMENT OF STANDARDS	18600
 ESTABLISHMENT OF STATISTICS SIERRA LEONE	18435
+ESTABLISHMENT OF TAX OMBUDSMAN	19527
 ESTABLISHMENT OF THE ADVISORY COUNCIL	16887
 ESTABLISHMENT OF THE AFRICAN FINANCIAL STABILITY	6938
+ESTABLISHMENT OF THE AUTHORITY	19515
 ESTABLISHMENT OF THE CENTRE	14575
 ESTABLISHMENT OF THE DIGITAL HEALTH AGENCY	14449
 ESTABLISHMENT OF THE LICENSED DATA CENTRE	15149
@@ -606,7 +613,7 @@ Establecimiento	1701,15154,43,91,62,38,82,54
 Establecimiento Permanente	16855
 Establecimientos	16898
 Establecimientos Turísticos	4209
-Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21,33,2,1,17,8,15,20,25,9,4,51,4,51,11,100,1,11,148,83,18,29,13,28,75,215,15,4,6,26,11,24,37,43,220,23,234,49,4,31,127,57,228,7,25,37,63,35,73,49,15,9,4,26,3,32,6,1,60,10,8,25,13,8,4,11,7,32,30,7,96,17,17,80,32,66,131,7,208,25,12,120,94,21,17,211,386,259,2,6,7,3,1,1,10,4,5,36,7,11,1,12,3,5,4,1,8,3,8,4,8,2,26,6,1,25,25,31,6,9,2,23,18,23,11,69,36,68,3,27,140,161,175,14,66,355,49,16,76,24,2,4,1,3,1,48,2,1,32,11,53,257,18,28,18,251,34,5,3
+Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21,33,2,1,17,8,15,20,25,9,4,51,4,51,11,100,1,11,148,83,18,29,13,28,75,215,15,4,6,26,11,24,37,43,220,23,234,49,4,31,127,57,228,7,25,37,63,35,73,49,15,9,4,26,3,32,6,1,60,10,8,25,13,8,4,11,7,32,30,7,96,17,17,80,32,66,131,7,208,25,12,120,94,21,17,211,386,259,2,6,7,3,1,1,10,4,5,36,7,11,1,12,3,5,4,1,8,3,8,4,8,2,26,6,1,25,25,31,6,9,2,23,18,23,11,69,36,68,3,27,140,161,175,14,66,355,49,16,76,24,2,4,1,3,1,48,2,1,32,11,53,257,18,28,18,251,34,5,3,277,1,11,1,2,8,33,9,18
 Establish A Comprehensive Data Governance Framework	15713
 Establish AI	4528,3020,4662,302,3201
 Establish AI Centers of Excellence	4528,7984
@@ -758,6 +765,7 @@ Establish and National	7548
 Establish and Nationwid X X X X	15845
 Establish and Operate	13078
 Establish and Promote the Maintain And Enhance the Dedicated	1777
+Establish and Research	19520
 Establish the AI	1814
 Establish the Commission	14865
 Establish the Connection	14524
@@ -786,8 +794,9 @@ Establish the South African	396
 Establish the TRS Data Dictionary	17367
 Establish the Zanzibar Civil Registration Agency	11133
 Establish-	11976
-Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33,174,56,68,101,5,164,618,294,27,40,56,52,30,38,119,98,55,242,34,48,559,12,54,335,264,378,105,119,118,11,54,95,7,61,37,6,143,108,144,50,47,326,126,640,20,12,1,64,17,5,4,18,3,192,69,107,65,529,13,507,34,122,13,99,2,250
+Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33,174,56,68,101,5,164,618,294,27,40,56,52,30,38,119,98,55,242,34,48,559,12,54,335,264,378,105,119,118,11,54,95,7,61,37,6,143,108,144,50,47,326,126,640,20,12,1,64,17,5,4,18,3,192,69,107,65,529,13,507,34,122,13,99,2,250,587
 Established Businesses Seeking Capital for Expansion	12495
+Established DRM Centre	19520
 Established Digital	14897
 Established Emerging Systems Emerging Developing Developing	15164
 Established Herotel	8134
@@ -796,6 +805,7 @@ Established ICT Supported Remote Working Conditions	16885
 Established Institutional Framework	1000
 Established Level	17364
 Established MOU	16971
+Established Planning	19555
 Established Policy Priorities The National Digital	1161
 Established Regulatory Database Management System	16978
 Established Uses of PeaceTech	8202
@@ -815,7 +825,7 @@ Establishes the APDP	3713
 Establishes the Axiz	5965
 Establishes the EPA	17114
 Establishes the Office	12302
-Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3,109,19,4,22,69,133,15,25,11,1,238,4,60,59,34,10,15,90,66,62,45,18,12,7,117,321,35,48,22,53,260,190,7,118,108,49,29,9,16,41,36,6,19,9,19,14,1,13,30,6,16,10,37,68,20,42,7,115,107,31,23,71,60,26,25,30,4,50,192,26,669,152,91,20,4,5,12,1,30,1,47,12,21,69,27,24,41,100,3,145,106,373,486,86,21,10,25,17,2,1,32,29,14,9,68,1,105,35,86,39,35,23,229,8,39
+Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3,109,19,4,22,69,133,15,25,11,1,238,4,60,59,34,10,15,90,66,62,45,18,12,7,117,321,35,48,22,53,260,190,7,118,108,49,29,9,16,41,36,6,19,9,19,14,1,13,30,6,16,10,37,68,20,42,7,115,107,31,23,71,60,26,25,30,4,50,192,26,669,152,91,20,4,5,12,1,30,1,47,12,21,69,27,24,41,100,3,145,106,373,486,86,21,10,25,17,2,1,32,29,14,9,68,1,105,35,86,39,35,23,229,8,39,171,64,3,12,21,20
 Establishing AI	4609
 Establishing Belarus Kyrgyzstan T2 Advancing Azerbaijan	10764
 Establishing CAPs	12973
@@ -825,8 +835,10 @@ Establishing Cut-off Date	17114
 Establishing Cybercrime Complaint Center	1000
 Establishing Ethical and Regulatory Frameworks	12356
 Establishing Extraordinary Courts	16847
+Establishing ICT Community Centres for Wards	19532
 Establishing ICT Ecosystem	16752
 Establishing Independent Audit	16843
+Establishing Innovation Hub Tanzania	19534
 Establishing Instituion	12146
 Establishing Instituion The Council of Ministers	12146
 Establishing KPIs	12008
@@ -868,8 +880,9 @@ Establishing the National Information Center	14853
 Establishing the National Research and Education Network	16872
 Establishing the Office	17037
 Establishing the Somali National Meteorological Agency	15037
+Establishing the Startup Policy	19534
 Establishing the ZDSR	11142
-Establishment	11,370,14,1,191,353,21,170,89,8,15,21,290,183,77,174,1449,146,131,147,26,315,199,127,82,43,362,229,431,2,2,454,795,10,441,47,112,10,284,130,126,593,989,185,302,564,47,365,46,2,4,279,53,69,265,55,10,8,52,10,211,43,1,61,87,30,93,16,3,4,7,55,46,1,1,6,10,13,27,61,127,5,1,4,1,1,4,1,2,8,34,12,9,16,18,19,13,43,15,94,98,1,7,10,12,5,41,18,22,58,145,343,3,3,1,35,19,14,103,282,1,12,27,44,31,51,19,5,2,46,95,1,7,11,12,77,4,13,13,9,2,16,5,14,6,33,32,20,68,17,18,129,91,119,119,23,3,54,1,54,47,319,133,20,204,262,137,1,7,5,2,34,3,15,13,7,2,2,1,9,11,4,42,3,15,10,34,44,58,23,187,74,172,2,269,22,52,4,339,58,11,82,5,1,4,5,3,10,1,7,41,12,55,2,1,1,1,1,3,281,2,46,16,32,3,78,1,97,12,72,39,41
+Establishment	11,370,14,1,191,353,21,170,89,8,15,21,290,183,77,174,1449,146,131,147,26,315,199,127,82,43,362,229,431,2,2,454,795,10,441,47,112,10,284,130,126,593,989,185,302,564,47,365,46,2,4,279,53,69,265,55,10,8,52,10,211,43,1,61,87,30,93,16,3,4,7,55,46,1,1,6,10,13,27,61,127,5,1,4,1,1,4,1,2,8,34,12,9,16,18,19,13,43,15,94,98,1,7,10,12,5,41,18,22,58,145,343,3,3,1,35,19,14,103,282,1,12,27,44,31,51,19,5,2,46,95,1,7,11,12,77,4,13,13,9,2,16,5,14,6,33,32,20,68,17,18,129,91,119,119,23,3,54,1,54,47,319,133,20,204,262,137,1,7,5,2,34,3,15,13,7,2,2,1,9,11,4,42,3,15,10,34,44,58,23,187,74,172,2,269,22,52,4,339,58,11,82,5,1,4,5,3,10,1,7,41,12,55,2,1,1,1,1,3,281,2,46,16,32,3,78,1,97,12,72,39,41,190,1,3,2,4,1,1,6,1,23,7
 Establishment ARTICLE	14409
 Establishment Agreement of Afreximbank	7785
 Establishment Births	19245
@@ -881,6 +894,7 @@ Establishment Committee	18467
 Establishment Department	18293
 Establishment Documents	14524
 Establishment G-O1 Robust	15713
+Establishment ICT Management Unit	19515
 Establishment Law	14874
 Establishment Law No.2	14874
 Establishment Marriage Grant	16902
@@ -900,16 +914,18 @@ Establishment and Functions of Statistics Botswana	12530
 Establishment and Implementation of Standards	12900
 Establishment and Maintenance of Users	12364
 Establishment and Mandate	11995
+Establishment and Proceedings	19585
 Establishment and Regulation of Population Register N	12984
 Establishment and Strength	14760
 Establishment and Supervision	18601,1
 Establishment and Unit	12240
+Establishment of Additional Source of Revenue	19602
 Establishment of Agency	12899
 Establishment of Anti Nationwide X X X	15845
 Establishment of Appeals Tribunal	12959
 Establishment of Assistance Fund for Persons	13470
-Establishment of Authority	12535,2208
-Establishment of Board	3887,9012,5564
+Establishment of Authority	12535,2208,4772
+Establishment of Board	3887,9012,5564,1052,15
 Establishment of Board of Trustees	18601,1
 Establishment of Botswana Bureau of Standards	12526
 Establishment of Bureau	18893
@@ -921,6 +937,7 @@ Establishment of Civil Registration Offices	12064
 Establishment of Com	18438
 Establishment of Commission	12546,5892
 Establishment of Commission Establishment of Commission	12546
+Establishment of Committee	19518
 Establishment of Communities of Practice	15845
 Establishment of Council	11178,1741,1800,16
 Establishment of Councils	12531
@@ -933,6 +950,7 @@ Establishment of Digital Services Authority	12562
 Establishment of Egypt University of Informatics	15713
 Establishment of Empowerment Unit	14743
 Establishment of Federal School of Statistics	11851
+Establishment of Government Cyber Security Strategy	19533
 Establishment of Grassroots Innovation	11183
 Establishment of Harmonized Policies	26,1,1
 Establishment of ICT Infrastructure	13956
@@ -958,8 +976,10 @@ Establishment of NAS Fund	11129
 Establishment of NREN South Sudan	6928
 Establishment of Namibian Standards Institution	12895
 Establishment of National	3887
+Establishment of National Advocates Committee	19518
 Establishment of National Bureau of Standards	18600
 Establishment of National CIRT	318
+Establishment of National Civil Aviation Security Committee	19518
 Establishment of National Civil Registration Authority	18440
 Establishment of National Cybersecurity Authority	3887
 Establishment of National Cybersecurity Committee	783
@@ -977,7 +997,10 @@ Establishment of OSBPs	13053
 Establishment of Office	14727
 Establishment of Office Sub-Part B	14727
 Establishment of Office of Data Protection Commissioner	13321
+Establishment of Personal Data Protection Commission	19530
 Establishment of Refugee Committee	12888
+Establishment of Regional Advocates Committees	19518
+Establishment of Required Special Purpose Vehicles	19585
 Establishment of Reserves Accounts	12364
 Establishment of Reserves Accounts The Participants	12364
 Establishment of Resolution Fund The Bank	13566
@@ -992,18 +1015,25 @@ Establishment of Statistics Council Tenure	11178
 Establishment of Statistics Sierra Leone Statistics Sierra	18435
 Establishment of Subordinate Authorities	12531
 Establishment of Tax Tribunal	12629
+Establishment of Technical Committee	19516,10
 Establishment of Tema Industrial Park	16511
 Establishment of The Financial Inclusion Observatory	10775
 Establishment of The Gambia Crunmisdon for Refugees	16836
+Establishment of Township Authorities	19525
 Establishment of Unified Business Board	18556
 Establishment of Unique Identifiers and Data Integration	15034
+Establishment of Village Authorities	19525
+Establishment of Village Authorities Go	19525
+Establishment of Ward Development Committee	19525
 Establishment of Zambia Cyber Security Agency	2727
 Establishment of Zambia Cyber Security Agency Functions	2727
 Establishment of Zimbabwe National Statistics Agency	13317
 Establishment ofNational Cyber Secudty Eund. PART	18457
-Establishments	7659,3472,3592,113,249
+Establishments	7659,3472,3592,113,249,4472
 Establishments Establishment Type Count Percentage Formal	15085
 Establishments GOAL TO ACHIEVE	15679
+Establishmret	19525
+Establisrthomf	19525
 Estache	11310
 Estache and Wren-Lewis	11310
 Estacionamento	9403
@@ -1330,12 +1360,13 @@ Estas	163,1102,436,247,106,762,1330,1316,2717,648,23,1316,591,15,5,3,264,326,1,6
 Estas Conservatórias	11537
 Estassujetti	15999
 Estat	18749
-Estate	12676,4574,1219
+Estate	12676,4574,1219,1055
 Estate Administrators	4896
 Estate Administrators Dr Douglas Mboweni No	4896
 Estate Administrators Full Circular	4896
 Estate Communicating Clearly Enough	6632
 Estate Duty Act	11181
+Estate Duty Commissioners	19524
 Estate Intel	6471,1574
 Estate Intel Lagos Real Estate Development	8045
 Estate Officer	18469
@@ -1636,6 +1667,7 @@ Inteligência Artificial. Estas	3519
 Interoperabilidade Organizacional Esta	18774
 Interpretation PART II ESTABLISHMENT OF NATIONAL	12938
 Interpretation. PART II ESTABLISHMENT	12894
+Interpretation. PART II ESTABLISHMENT AND OPERATIONS	19564
 Interpretation. PART II ESTABLISHMENT OF NATIONAL	12916
 Intervenção. Esta Intervenção	11569
 Introduction Characteristics of Establishment	15085
@@ -1672,6 +1704,7 @@ Kenya Industrial Estates	2775
 Kenya Space Policy Establish	1131
 Key Objectives and Actions Establish	1777
 Kilometers Establishment	15578
+Kiwanja Na.300 Regent Estate	19592
 Km Establishment	15578
 Kontaktu. Esta	17111
 Ksh Sources LEAD Establish	7548
@@ -1685,6 +1718,7 @@ LEI QUE ESTABELECE O REGIME JURÍDICO	12784
 LEY DE PRESUPUESTOS GENERALES DEL ESTADO	4209
 LMS Established	16253
 LOCAL DO ESTADO	11371
+LOCAL GOVERNMENT AUTHORITIES AG. of O Establishment	19525
 La Estrategia Nacional de Desarrollo Estadístico	16898
 La Jornada Africana de Estadística	16898
 La Política Nacional de Difusión Estadística	16898
@@ -1704,6 +1738,7 @@ Ley Estadística	16898
 Licenciamento de Centros de Dados. Estas	12808
 Licensing Office Establishment Proclamation	13954
 Litoral Wele Nzas Nacional Anuario Estadístico	16864
+Liwale DC Nalulelo Established	19585
 Loans and Financial Inclusion Services Establishment	15578
 Local Data Centres Establish	12675
 Localidade Latitude Longitude Altitude Estado	17147
@@ -1781,6 +1816,7 @@ Montante Estado Antiga	17147
 Mswati III. Establishes	968
 Média Esta	2816
 NACOSTI Establish	7548
+NAME Establishing ICT Community Centres for Wards	19532
 NATUREZA Estado	15450
 NBR FSPs X Establish Payments Association	15130
 NBR X Establish	15130
@@ -1808,8 +1844,8 @@ Nova Iorque. Esta	11387
 Noção Por Sistema Estatístico Nacional	11516
 Nsue Mengue Secretario de Estado Encargado de Juventud	16920
 Number of Established Positions	12976
-Number of Establishment	13037
-Number of Establishments	15085
+Number of Establishment	13037,6520
+Number of Establishments	15085,4472
 Nyari Estate Limited	14546
 Nº Localidade Latitude Longitude Altitude Estado	17147
 Número de Estabelecimentos	18775
@@ -1890,10 +1926,12 @@ P.1.1 O Estado	11376
 P13 Establish Establish	11857
 PART I U ESTABUSHMENTOF THE GAMBIA	16836
 PART II ESTABLISHMENT	12894
+PART II ESTABLISHMENT OF CIVIL AVIATION	19518
 PART II ESTABLISHMENT OF THE GAMBIA	16836
 PART II-- ESTABLISHMENT AND ADMINISTRATION	14594
 PART III ELECTRONIC GOVERNMENT DIVISION Establishment	13322
 PART III- ESTABLISHMENT OF CENTRAL SUBSCRIBER	18452
+PART IV ESTABLISHMENT OF TAX OMBUDSMAN1	19527
 PART THREE FUND ESTABLISHEMENT	7538
 PART V Administration Establishment	13606
 PART V--COUNTY STATISTICS OFFICE Establishment	14594
@@ -1946,6 +1984,7 @@ Payroll Management and Establishment Control System	12453,892
 Payroll Management and Establishment Control System PSMD	13345
 Pequeno Estado Insular	16019,468,2296
 Pequenos Estados Insulares	15966,25,1195,1597
+Percentage Distribution of Establishments	19557
 Percentage of Establish	7548
 Percentage of Real Estate Firms	2775
 Permanent Establishment	17258
@@ -1989,6 +2028,7 @@ Pre-clearance Establishment	13403
 Preference Framework Agreement Establishment	13621
 Prefácio O Instituto Nacional de Estatística	11446,131
 Prepare and Publish Awareness Raising Materials. Establish	1777
+Price Index CPI Central Register of Establishments	19519
 Price Negotiation Committee Established	12912
 Principais Conclusões Estações Meteorológicas	17147
 Principais Elementos Estatísticos Unidades	18793
@@ -1999,6 +2039,7 @@ Private Fintech Innovation Fund Establish	14819
 Private Ownership and Establishment	14008,28,385,2551,1825
 Private Ownership and Establishment Law No	16972
 Private Sector Service Providers Establish	16872
+Probate and Administration of Estates Act	19524
 Processing Plant and Establishment	18541
 Producción de Estadísticas de Seguridad	17259
 Produtores de Estatísticas Oficiais	15450,85
@@ -2020,6 +2061,7 @@ Programas Estadísticos	16962
 Programme and IGAD Establish IGAD Technical Coordination	14511
 Project Implementation Services For Establishing Data	4576
 Project Manager Beatriz Lanza. Establishes ENTD.GW	1381
+Project Objectives Establishing	19532
 Project for Establishing	698
 Project for Supporting the Establishment	1529
 Projecto WARDIP Guiné-Bissau Estado. O Artigo	11542
@@ -2047,6 +2089,7 @@ REAS SECTORES ESTADÍSTICOS Estadísticas Demográficas	16898
 REDEFINIR OS OBJETIVOS E ESTABELECER	16487
 REDEFINIÇÃO DO PAPEL DO ESTADO	11397
 REFUGEES AND TO ESTABLISH THE LIBERIA	16830
+REGIONAL PHEOC ESTABLISHMENT STATUS IN TANZANIA	19544
 RELATING TO ESTABLISHMENT OF OVAMBANDERU COMMUNITY	13189
 RIGHT OF ESTABLISHMENT AND RESIDENCE	14409
 RIGHT OF ESTABLISHMENT AND RESIDENCE ARTICLE	14409
@@ -2090,8 +2133,11 @@ Recommendations Establish	11142
 Rede de Estado	12021
 Reforma de Estado	1268
 Reforço da Capacidade Estatística	11423
+Regent Estate	19592
 Regime Estatisticos	12021
 Regime Estatísticos	12021
+Region Number of Establishments Difference Percent Change	19557
+Regional PHEOC Establishment	19544
 Registro Estatal	1701
 Región Provincia Anuario Estadístico	16864
 Regiões Administrativas. Estas	16487
@@ -2248,6 +2294,7 @@ Socialist Real Estate Registration	16916
 Socialist Real Estate Registration and Documentation	16916
 Socialist Real Estate Registry	16916
 Sociedade Ministro de Estado	2581
+Soft Infrastructure Establishment	19533
 Somali Business Establishment Census	15085
 Somali Integrated Business Establishment Survey	15085
 Somalia Business Establishment	15085
@@ -2273,6 +2320,7 @@ Strategic Objectives Establish Sectoral Data Spaces	14566
 Strategy and Establish	396
 Streamlined Resident Permit Process Establish	18540
 Strengthen Establish AI Ethics Hubs	4126
+Strengthen and Establish	19555
 Sub-Comités Estadísticos Sectoriales	16898
 Sub-Comités Sectoriales Estadísticos	16898
 Sub-Comités Sectoriales Estadísticos Celebración	16898
@@ -2346,6 +2394,7 @@ Utilizadores de Estatísticas Oficiais	15535,3259
 VPA IMPLEMENTATION STRUCTURE ESTABLISHED JIC	16848
 VPA Implementation Structures Established Completed Pending	16853
 Verifica.ao. Estamos	17541
+Vision Establish	19531
 WIL Establish	6832
 Windbreak Establishment MoALMR	17157
 XX. Receita Financeira Esta	18798

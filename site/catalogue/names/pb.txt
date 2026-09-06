@@ -1,3 +1,4 @@
+AF2 PBC5	19455
 Achievement of PBC	15659
 Achievement of PBCs	15659
 Actual PBA	579
@@ -78,7 +79,9 @@ PB Object Storage	3487
 PB Paid Direct	8999
 PB SCHEDULE	14727
 PB&publication	2096
+PB. Broadband	19556
 PB. Data	10793
+PB. Upenyo	19593
 PB.pdf	8683
 PBA for UA	809
 PBAT Act	14742
@@ -93,6 +96,7 @@ PBB-MLGRD .pdf	1514
 PBB-MOCD.pdf	4491
 PBB. Recommendations	16944
 PBBAs	13185
+PBC ALLOCATION PER COMPONENT AND FINANCING	19455
 PBC Allocation	15659,3625
 PBC Allocation The World Bank	19284
 PBC Baseline End Target	1284
@@ -124,18 +128,24 @@ PBC PME PREA PRODIGY RGPD SAMIFIN	14549
 PBC Performance Based Condition PCE Private	15659
 PBC UHIS UHIS	16079
 PBC and Project Expenditure Composition Project	15659
+PBC and Sub-PBC	19455
 PBC of PASEL Component	15969
 PBC-associated Disbursement Category	15802
 PBC-based	15659
 PBC-based. Achievement of PBC	15659
 PBC-linked	15802
 PBC1.1d-1-4	13392
+PBC10	19455
+PBC11	19455
+PBC12	19455
 PBC2B. Textbooks	13392
+PBC6 This PBC	19455
 PBCs I. STRATEGIC CONTEXT A. Country	19239
 PBCs PTS	19284
 PBCs. Activity	6539
 PBCs. All	15802
 PBCs. Every	15659
+PBCs. Sub-PBC10	19455
 PBCsis	13392
 PBF Grants	16896
 PBF Manual	10829
@@ -208,6 +218,7 @@ RESULT FRAME TBL PD O Indicator Name PBC	10829,135,4589,1343,26
 Rationale for PBCs	6539
 Re-affirm the PBB	16944
 Redesign the PBF	10829
+Revised PBCs	19455
 SAFE and PBOC	5863
 SO NSO PBO	11863
 SPDI and PBO	16970
@@ -224,6 +235,7 @@ TMS and PBF	7759
 Targeted Free Healthcare Policy. PBF	10829
 Targeted Free Healthcare and PBF	10829
 Through the PBO the Ministry	16970
+Training PA Paris Alignment PBC Performance-Based	19455
 Tropical Diseases PBF Performance-Based Financing PMTCT	16971
 Verification Protocol PBC	15659
 ZEEP PBCs	13392

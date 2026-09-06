@@ -16,11 +16,12 @@ Aménagement du Territoire PAE Plans	17885
 Analysis of Integrated Prepaid Tariff Plans	11259
 Annual Action Plans	789,12128,2018,62,848
 Annual Capacity Building Plans	17505
-Annual Development Plans	7548
+Annual Development Plans	7548,11971
 Annual Investment Plans	16994
 Annual Investment Plans. PBGs	5620
 Annual Operational Plans	16857
-Annual Procurement Plans	13127,5373
+Annual Plans	19519
+Annual Procurement Plans	13127,5373,1085
 Annual Work Plans	10963,2042,984,3127
 Annual Work Plans and Budgets	3562,7402,3948,460,1282,204,38,26,14
 Approved Budgets and Strategic Plans	18500
@@ -37,12 +38,15 @@ Broadcasting Plans	6946
 Budget Process Action Plans Quarterly	14935
 Budgets and Procurement Plans	11401
 Business Continuity Plans	12538
+Business Continuity Plans. Lack	19584
+Business Continuity and Disaster Recovery Plans	19584
 Business Plans	16851
 CRVS and BR Improvement Plans	16860
 Cameroon Unveils Plans for National Artificial Intelligence	2303
 Central Africa. The Implementation Plans	11420
 Chad Plans	5006
 Challenges and Future Plans The Lesotho	12726
+Change Management Plans	19584
 Chiefdom Development Plans	12970
 China’s Guodong Plans	10632
 Climate Adaptation Plans	1867
@@ -108,8 +112,15 @@ FUTURE PLANS	13095
 Family Support Plans	16187
 Fibre Plans	11259
 Financing Agreements. Procurement Plans	16144
+Findings and Future Plans	19519
 First Penile Prosthesis Surgery Libya Plans	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+First and Second Five Year Development Plans	19519
 First and Second Five-Year Development Plans	17157
+Five Year Development Plans	19520
+Five Year National Development Plans	19520
+Five Year National Development Plans. Ministry	19520
+Five Years Development Plans	19519
+Five Years National Development Plans	19520
 Framework for Strategic Plans and Annual Performance Plans	5533
 Future Plans	12241,839,15,2665
 Future Plans CREWS	11191
@@ -183,6 +194,7 @@ National Adaptation Plans	13144
 National Adaptation Plans NDCs Nationally Determined	18578
 National Contingency Plans	3887,14900
 National Development Plans	1814,53,6546,2718,3,1265,497,25,25,16,11,3901,77
+National Development Plans and Projects Management System	19603
 National Development Plans. Government	12453,892
 National Development Plans. Hesselmark and Miller	12325
 National Development Plans. ICTs	12453,892
@@ -199,6 +211,7 @@ Open Government Plans	14965
 Open Government Plans. Figure	14965
 Operating Plans	16839
 Operational Plans	12500
+PLANS AND BOUNDARIES	19524
 PLANS D’ACTION L’élaboration	18291
 PLANS NATIONAUX DE DEVELOPPEMENT NUMERIQUE	13482
 Paper PUR Plans Urbains de Réference	16614
@@ -208,12 +221,14 @@ Performance Plans	11986
 Physical Development Plans	13060
 Physical and Land Use Plans	7548
 Planning Plans	10930
-Plans	396,119,373,82,674,895,4,229,113,176,156,18,161,103,55,91,256,171,164,3,735,130,184,77,234,132,1409,58,288,239,134,121,58,386,699,283,187,720,33,73,41,95,292,27,2,94,30,139,59,26,26,607,357,19,92,31,20,23,523,238,150,132,91,420,584,85,750,22,77,2,69,49,87,34,10,24,197,56,104,56,136,27,299,6,7,224,3,110,40,90,4,34,225,448,34,33,3,100,187,117,5,48,31,130,76,126,74,212,228
+Plans	396,119,373,82,674,895,4,229,113,176,156,18,161,103,55,91,256,171,164,3,735,130,184,77,234,132,1409,58,288,239,134,121,58,386,699,283,187,720,33,73,41,95,292,27,2,94,30,139,59,26,26,607,357,19,92,31,20,23,523,238,150,132,91,420,584,85,750,22,77,2,69,49,87,34,10,24,197,56,104,56,136,27,299,6,7,224,3,110,40,90,4,34,225,448,34,33,3,100,187,117,5,48,31,130,76,126,74,212,228,303,5
+Plans CFAF	19622
 Plans ESS Environmental and Social Standard FAO	18293
 Plans Fonciers Ruraux	10876
 Plans Locaux	14598
 Plans Maîtres Souverains	15287
 Plans Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+Plans Nationaux Informatiques	19482
 Plans Nationaux de Contingence	14662
 Plans Stratégiques Nationaux	14622
 Plans VOIP Return	15926
@@ -253,9 +268,10 @@ Provincial Growths Development Plans	11289
 Provision Regional Development Plans	16916
 Publication of Procurement Plans	12389
 RAP Resettlement Action Plans RPF Resettlement	16614
+RITA's Annual Implementation Plans	19541
 Radio Frequency Assignment Plans	8235
 Radio Frequency Spectrum Assignment Plans	7980,109
-Recovery Plans	4610
+Recovery Plans	4610,14974
 Redundancy and Continuity Plans	34
 Regional Adaptation Plans	11103
 Regional Development Plans Comments	16994
@@ -289,8 +305,9 @@ Sector Plans and Budgets	16858
 Sector Policies and Plans	14877
 Sector Reform and Strategic Investment Plans	18477
 Sector Skills Plans	12934
-Sector Statistics Plans	1188
+Sector Statistics Plans	1188,18331
 Sector Strategic Plans	1261,11152,2533,110
+Sector Strategic Plans for Statistics	19519
 Sectoral Development Plans	14860
 Service Plans	6892
 Seventh National Development Plans. This Policy	13346
@@ -312,6 +329,7 @@ Testing Plans	12538
 Third Generation National Urban Plans	16916
 Through County Integrated Development Plans	7548
 Tinkhundla Development Plans	12970
+Togo Advances Plans	19622
 Togo Plans Prepaid Cards	7871
 Training and Awareness Plans	12538
 Transaction and Plans	7198

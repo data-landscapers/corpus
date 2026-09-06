@@ -30,7 +30,8 @@ Agência Angola Press Impressão	11479
 Airwing. Improving	9644
 Ali Kamil. Improving	11655
 Annual Improvements	13053
-Areas for Improvement	12356,55
+Ardhi University No Improve	19519
+Areas for Improvement	12356,55,7109
 Authority Improve Agricultural MoA and BSC	16863
 B. Improve	15604
 B. Improved Bandwidth and Service Delivery	16975
@@ -52,9 +53,12 @@ Broadband for Improving Government Services	16884
 Broadband for Improving Government Services D1	16884
 Broadband for Improving Government Services No Parameter	16884
 Burundi’s Efforts To Improve Remittance Inflows...........6	13388
-Business Process Improvement	16923
+Business Process Improvement	16923,2692
 C.A.C.’’. Imprimé	15395
 CAPACITY IMPROVED Public Administration	16848
+CHF Improved Community Health Fund IFTIMIS	19585
+CHF Improved Community Health Fund ILFS	19531
+CHF Improvement	19585
 CIRCONSTANCES IMPREVISIBLES	16747
 CMA FSPs X Improve CRB	15130
 CNI Collecte des Justificatifs Impression Carnets Remise	14480
@@ -111,6 +115,7 @@ Continuous Quality Improvement Social Health Authority	4153
 County Improved Un-Improved Total Number	16921
 Court Performance Improvement Plan	17441
 Coverage Improving	17239
+Crime Statistics Management Improving CSMIS	19519
 Crimes Cibernéticos A Imprensa Nacional de Moçambique	7047
 D. Improve	15604
 D. Improving	15604
@@ -139,6 +144,7 @@ Develop and Improve Statistical Operations Strategy	16863
 Developing Long Term Finance and Improving	12701
 Developing and Improving Digital Infrastructure	14151
 Development Agency VIP Ventilated Improved Toilets	12970
+Development Improvement	19519
 Development of Improved	10856
 Digital Businesses Improve	14897
 Digital Confidence Improve	14819
@@ -149,6 +155,7 @@ Domain-Wise Implementation Status and Improvement Road Map	1824
 DÉPENSES ACCIDENTELLES ET IMPRÉVISIBLES ENF ONOTIONNEMENT	15999
 Dépenses Imprévues	4420
 E-Government for Improving Public Service Delivery	5349
+E-Learning Improved Digital Citizenship Awareness Effective	19532
 E. Users’ Suggestions for Improvement	14777
 E.6 Improving Government Services. Within	14723
 ECOWAS Ministers To Improve West Africa	5579
@@ -165,10 +172,12 @@ Education Access and Quality Improvement Project	15550
 Education and Training Sector Improvement Programme	12325
 Education and Training Skills Improvement Programme	12934
 Effectiveness for Improved Public Services	3604
+Efficiency and Governance Improvement Program	19425,56
 Efficient Case Management for Improved Access	16943
 Empower and Improve the Life of Women	16916
 Enabling Environment Improvement	15511
 Energy Efficiency Improvements	1818
+Energy Sector Improvement Project	19424
 Enfants LIRE Learning Improvment for Results	18171
 Enhance Improve	11198
 Enhancing Government Effectiveness for Improved Public	3604
@@ -199,6 +208,7 @@ Geospatial Infrastructure Improved	18293
 Ghana Statistical Service HISWAP Harmonising and Improving	15628
 Global Alliance for Improved Nutrition. I-CAN	15725
 GoR Government of Rwanda ICS Improved Cook	14947
+Governance Improvement Program	19424,1,56
 Government Services Center Improvement	15578
 Government of Sierra Leone ICS Improved Cookstove	18537
 Greater Banjul Area Electricity Improvement Project	16929
@@ -243,6 +253,7 @@ IMPROVE REMITTANCE INFLOWS	13388
 IMPROVE THE ENVIRONMENT FOR HEALTH INFORMATION	15556
 IMPROVEMENT IN GRA DIGITAL SERVICES	14216
 IMPROVEMENT IN THE CAPACITY	16885
+IMPROVEMENT OF REFERRAL CHAIN	19544
 IMPROVEMENT PROJET	18293
 IMPROVEMENTS IN CAPACITY FOR BROADBAND	16884
 IMPROVEMENTS TO COST OF COMMUNICATION Overall	12395
@@ -261,6 +272,7 @@ IMPROVING THE INSTITUTIONAL CAPACITY FOR E-GOVERNMENT	16885
 IMPROVING THE WELL-BEING AND QUALITY	17105
 IMPROVING VOLUNTARY COMPLIANCE	12951
 IMPRÉGNÉE MOUSTIQUAIRE IMPRÉGNÉE LA MARQUE	13300
+INTERNAL ENVIRONMENT Strengths Areas for Improvement	19520
 INTERNET CONNECTION WILL IMPROVE SERVICE DELIVERY-COMMS	12656
 INTERVENTION MARKET DEVELOPMENT Improve	16942
 Impact Assessment ESIP Energy Services Improvement	15515
@@ -286,6 +298,7 @@ Impresso	18778
 Impressão	4044,2922,3783,614,58,58,4846
 Impressões	11480,3912,128
 Imprest Petty Cash	16978
+Imprests	19585
 Impri-	18332
 Imprimante	14423,57
 Imprimantes	10821,2520,4945,11,867
@@ -309,13 +322,15 @@ Imprisonment	13381,1817,1653
 Imprivata	6651
 Impro	16436
 Improbable	12367
-Improper	1988,1726,10720,647,1845,23,165,1260,85
-Improve	395,394,110,101,161,43,573,46,5,57,354,207,31,412,250,475,226,286,175,1232,143,1156,108,708,103,1321,1649,41,3,10,44,10,12,51,68,4,21,2,17,127,3,54,10,38,232,389,48,1,10,25,23,7,15,20,132,37,20,19,13,2,11,1,74,14,27,20,23,54,45,54,42,47,52,13,22,195,9,3,1,28,11,2,54,6,43,15,126,74,15,2,2,6,11,14,2,12,153,219,93,44,1,41,26,2,53,8,1,73,582,19,49,11,17,22,4,13,28,1,16,39,5,13,5,24,1,25,11,7,12,20,93,18,56,80,203,33,11,22,40,37,14,15,39,3,2,50,1,11,12,108,22,60,50,63,147,66,183,138,278,9,2,9,4,20,25,1,1,4,15,1,8,16,1,3,25,4,11,7,68,10,5,15,11,12,18,39,64,25,79,3,502,1,234,197,4,4,50,11,99,18,3,14,60,206,25,126,3,9,16,93,207,35
+Improper	1988,1726,10720,647,1845,23,165,1260,85,1126
+Improper Management of Open Space	19585
+Improve	395,394,110,101,161,43,573,46,5,57,354,207,31,412,250,475,226,286,175,1232,143,1156,108,708,103,1321,1649,41,3,10,44,10,12,51,68,4,21,2,17,127,3,54,10,38,232,389,48,1,10,25,23,7,15,20,132,37,20,19,13,2,11,1,74,14,27,20,23,54,45,54,42,47,52,13,22,195,9,3,1,28,11,2,54,6,43,15,126,74,15,2,2,6,11,14,2,12,153,219,93,44,1,41,26,2,53,8,1,73,582,19,49,11,17,22,4,13,28,1,16,39,5,13,5,24,1,25,11,7,12,20,93,18,56,80,203,33,11,22,40,37,14,15,39,3,2,50,1,11,12,108,22,60,50,63,147,66,183,138,278,9,2,9,4,20,25,1,1,4,15,1,8,16,1,3,25,4,11,7,68,10,5,15,11,12,18,39,64,25,79,3,502,1,234,197,4,4,50,11,99,18,3,14,60,206,25,126,3,9,16,93,207,35,123,112,12,1,12,3,8,27,2
 Improve Access	182,12278,92,2277,1358
 Improve Accessibility of MFS	14777
 Improve Accessibility of Schools	11918
 Improve Assembly	11857
 Improve Brand Courier Service Youth	6946
+Improve Business Environment	19602
 Improve Business Processes	12551
 Improve CSAT	5226
 Improve Climate Risk Monitoring	11103
@@ -338,6 +353,7 @@ Improve Documentation of Pregnancy Outcomes	10881
 Improve Domestic Diagnostic and Treatment Capacity	10829
 Improve Efficiency	12227
 Improve Efficiency and Innovation	12419
+Improve Electricity Sector Governance and Transparency DLI	19481
 Improve Emergency Response and Property Tax Collection	17357
 Improve Employee Knowledge and Skills SO7	13053
 Improve Enabling Factors	12356
@@ -393,7 +409,9 @@ Improve Public Service Delivery	6170
 Improve Public Service Delivery Lithuania Launches	3907
 Improve Quality	17116
 Improve Quality of Education	17870
+Improve Quality of Life Increase Efficiency and Transparency	19532
 Improve Quality of Service	5676
+Improve Quality of Service and Quality of Life	19532
 Improve Rainwater Harvesting and Replace	17157
 Improve Refugees	13938
 Improve Revenue NRA	18577
@@ -424,7 +442,7 @@ Improve Welfare System Efficiency Mauritius	6458
 Improve of Local Government	17260
 Improve the AML	17870
 Improve the Business Climate	7160,4630
-Improve the Business Environment	15604
+Improve the Business Environment	15604,3998
 Improve the Data Warehouse Facilities	17011
 Improve the Data Warehouse Facilities Integration	17011
 Improve the Efficiency of Public Expenditures	17470
@@ -444,13 +462,15 @@ Improve the Return Filing Process	17011
 Improve the Return Filing Process Streamlining	17011
 Improve the Somalia	14965
 Improve the Tax Disputes Resolution Mechanism Revision	17011
-Improved	31,2,362,504,41,21,9,185,33,16,60,603,121,489,512,99,297,217,2,236,688,487,130,102,286,131,11,4,55,317,20,361,107,14,26,294,73,602,78,137,948,518,226,484,611,183,28,19,13,36,27,14,110,24,127,3,2,59,1,2,17,15,85,102,3,48,57,35,77,226,3,31,8,3,16,41,21,8,12,58,77,34,33,3,22,20,16,54,35,2,43,18,32,3,43,13,40,42,21,8,63,68,50,118,14,26,2,4,37,37,7,11,103,22,125,35,20,22,5,26,105,9,129,17,7,19,164,47,23,53,9,115,22,366,22,41,61,28,19,49,6,18,30,35,6,70,9,25,13,12,38,12,13,24,5,56,43,10,16,208,39,80,20,2,40,51,54,1,4,50,12,18,17,2,105,34,23,87,21,285,12,107,178,17,129,92,6,18,8,1,11,26,1,3,1,8,4,3,1,9,14,2,5,19,4,15,75,13,15,28,15,7,19,52,22,3,104,77,17,81,204,140,75,13,154,168,12,65,71,15,2,20,12,33,6,19,30,176,11,12,48,424,35
-Improved Access	10776
+Improved	31,2,362,504,41,21,9,185,33,16,60,603,121,489,512,99,297,217,2,236,688,487,130,102,286,131,11,4,55,317,20,361,107,14,26,294,73,602,78,137,948,518,226,484,611,183,28,19,13,36,27,14,110,24,127,3,2,59,1,2,17,15,85,102,3,48,57,35,77,226,3,31,8,3,16,41,21,8,12,58,77,34,33,3,22,20,16,54,35,2,43,18,32,3,43,13,40,42,21,8,63,68,50,118,14,26,2,4,37,37,7,11,103,22,125,35,20,22,5,26,105,9,129,17,7,19,164,47,23,53,9,115,22,366,22,41,61,28,19,49,6,18,30,35,6,70,9,25,13,12,38,12,13,24,5,56,43,10,16,208,39,80,20,2,40,51,54,1,4,50,12,18,17,2,105,34,23,87,21,285,12,107,178,17,129,92,6,18,8,1,11,26,1,3,1,8,4,3,1,9,14,2,5,19,4,15,75,13,15,28,15,7,19,52,22,3,104,77,17,81,204,140,75,13,154,168,12,65,71,15,2,20,12,33,6,19,30,176,11,12,48,424,35,171,26,38,1,12,1
+Improved Access	10776,8756
 Improved Access To Quality Essential Health	10776
 Improved Administration of Criminal Justice	16943
 Improved Administration of Criminal Justice Criminal	16943
 Improved Allocated	17958
 Improved Analytics and Reporting	13037
+Improved Annual TSMP Increase Timely	19519
+Improved Awareness	19541
 Improved Banking Environment R1	16876
 Improved Capacity	18825
 Improved Capacity of BCSTP	18825
@@ -461,6 +481,8 @@ Improved Child Survival Program for IPF Human	11469
 Improved Citizen Experience	14655
 Improved Collaboration GEA	14441
 Improved Communication	13005
+Improved Community Health Fund	19585
+Improved Community Health Funds	19531
 Improved Compliance	14761,2183
 Improved Constitutional Rights Litigation Complete	16943
 Improved Constitutional Rights Litigation Jury	16943
@@ -472,6 +494,7 @@ Improved Customer	13037
 Improved Customer Service	14985
 Improved Cybersecurity	6432
 Improved DNS	4219
+Improved DRM	19520
 Improved Data Quality	17116
 Improved Datacenter	10550
 Improved Debt	14997
@@ -506,6 +529,7 @@ Improved Indicators	17018
 Improved Infrastructure for Cloud	15713
 Improved Institutional Structure and Capacity	11965
 Improved International	12971
+Improved Internet-connected	19533
 Improved Investment Climate for Private Sector Led	15513,40
 Improved Land	17011
 Improved Learning Environments	12175
@@ -514,6 +538,7 @@ Improved Livelihoods and Financial Capability	940
 Improved Local Economic Development	13418
 Improved MTN Airtel	6051
 Improved Maps and Spatial Data Infrastructure	16511
+Improved PCT	19455
 Improved PENTA3	10776
 Improved PFM	18458
 Improved Power Transmission and Distribution Network	12358
@@ -538,7 +563,7 @@ Improved User Experience	14761
 Improved Water Sources	16614
 Improved-Learning-Project-P168786.pdf. Accessed	17870
 Improveme	15578
-Improvement	8,710,71,151,321,2242,2919,326,4014,73,3,130,163,3,59,332,25,307,6,7,16,11,8,233,13,104,97,1,135,213,320,1717,6,834,83,1187,28,9,42,84,103,327,29,414,25,195,201,164,31
+Improvement	8,710,71,151,321,2242,2919,326,4014,73,3,130,163,3,59,332,25,307,6,7,16,11,8,233,13,104,97,1,135,213,320,1717,6,834,83,1187,28,9,42,84,103,327,29,414,25,195,201,164,31,981,38,66
 Improvement Betterment	15473
 Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
 Improvement Committees	17441
@@ -569,8 +594,8 @@ Improvement of Secondary Schools Project	12962
 Improvements	1212,616,39,900,3284,1712,702,2671,82,735,82,140,133,87,647,289,1442,149,1,736,2,316,459,448,65,62,732,361,197,187,89,188,60
 Improvements To Cost	12395
 Improves	699,708,3838,5884,811,306,45,746,277,1287,396,1918,2240
-Improving	395,323,48,5,18,181,185,88,21,564,39,18,1004,375,235,105,164,533,48,32,51,812,3,112,174,144,374,678,478,157,399,840,449,76,109,200,22,259,41,769,251,1,32,17,12,15,25,79,5,15,149,2,5,6,46,10,20,19,11,41,128,52,103,290,5,6,24,8,1,10,70,8,149,33,16,25,3,8,5,22,12,30,32,4,25,18,37,22,25,42,92,238,79,51,8,5,2,76,7,42,210,2,34,44,232,61,182,1,70,683,53,49,29,25,42,16,25,37,1,1,23,25,30,49,94,44,178,69,13,56,38,35,51,55,4,34,28,18,158,23,45,42,21,285,119,202,214,20,12,1,11,26,13,7,1,8,9,3,8,4,19,2,15,75,28,24,11,8,39,40,3,17,1,174,10,17,12,400,263,160,12,153,29,77,43,9,8,16,125,156,87,240,1,35
-Improving Access	10347,2082,100,145,297,3216,249,535,359
+Improving	395,323,48,5,18,181,185,88,21,564,39,18,1004,375,235,105,164,533,48,32,51,812,3,112,174,144,374,678,478,157,399,840,449,76,109,200,22,259,41,769,251,1,32,17,12,15,25,79,5,15,149,2,5,6,46,10,20,19,11,41,128,52,103,290,5,6,24,8,1,10,70,8,149,33,16,25,3,8,5,22,12,30,32,4,25,18,37,22,25,42,92,238,79,51,8,5,2,76,7,42,210,2,34,44,232,61,182,1,70,683,53,49,29,25,42,16,25,37,1,1,23,25,30,49,94,44,178,69,13,56,38,35,51,55,4,34,28,18,158,23,45,42,21,285,119,202,214,20,12,1,11,26,13,7,1,8,9,3,8,4,19,2,15,75,28,24,11,8,39,40,3,17,1,174,10,17,12,400,263,160,12,153,29,77,43,9,8,16,125,156,87,240,1,35,235,36,16
+Improving Access	10347,2082,100,145,297,3216,249,535,359,2212
 Improving Accessibility	14773
 Improving African	9642
 Improving BHI Care Delivery	18694
@@ -605,6 +630,7 @@ Improving Human Capital Endowments	13331
 Improving IFR	12195
 Improving Infrastructure	11289
 Improving Internet Access	16963
+Improving Land Statistics	19555
 Improving Learning Outcomes	899
 Improving Lives	15493
 Improving Lives. OECD Publishing	13312,2,2160,19
@@ -663,6 +689,7 @@ Improving the Delivery	16922
 Improving the Detection	11417
 Improving the Digital Innovation Ecosystem	845
 Improving the Foundations for Private Sector Growth	15983
+Improving the Identification	19541
 Improving the Institutional	16885
 Improving the Institutional Capacity	16885
 Improving the Operational Performance	15659
@@ -688,12 +715,14 @@ Industrialize Africa and Improve the Quality	14871,2
 Infrastructure Improvement	11231
 Inline With The Strategic Plan Improved	12515
 Insecticide MIILDA Moustiquaire Imprégnée	13300
+Insecurity Improved	19519
 Instagram Impressions	8999
 Integrated Financial Mgmt. Improved	1284
 Integrated Public Investment Management Framework Improving	14830
 Intelwatch. Partilhar Edição Impressa Assinar Newsletter	9990
 International Labor Organization Improve	18104
 International Maize and Wheat Improvement Centre	12090
+Investor Improve Quality of Service and Quality of Life	19532
 Issuance. STRATEGIC OUTCOME Improved	13005
 Iterative Improvements	11216
 J. Improving	11585
@@ -717,6 +746,7 @@ Lesotho. Improving	12663
 Liberia Urban Rural Improved	16921
 Liberia Urban Rural Improved Un-improved FINAL	16921
 Limited Improved	12214
+Limited Improvement	19519
 Local Government Management Improvement Model MAT	11224
 Logistics and Transport Systems Improvement Program	7426
 MCH Modules Improved	2477
@@ -777,6 +807,7 @@ NSDI Improved	18293
 Nassah Imprimerie Officielle	15432
 National Assembly. THIS PRINTED IMPRESSION	16836
 National Education and Training Improvement Programme	12914
+National Strategy for Improving Availability of Forex	19602
 Needs Improvement	11131,3
 Needs Improvement and Poor Performer	11131
 Nigeria FDI Improving	4525
@@ -793,6 +824,7 @@ Operation Phase Improved	12253
 Outcome Improved Indicators	17018
 Outcomes Improve	15619
 Outcomes Improved Hydo-Meteorological Early Warning Services	17962
+Outstanding Imprest Beyond Authorised Period TZS	19585
 P NOUVELLE IMPRIMERIE DU KALOUM IMPRIMERIE	16623
 PASEB Bissau City Power Supply Improvement	11549
 PCA da Imprensa Nacional de Cabo Verde	6571
@@ -809,6 +841,7 @@ PRINTED IMPRESSION	18450,15
 Participants Improved	6946
 Pastoral Food and Livelihood Improvement Project	14122
 Pay for Performance for Improved Health	15977
+Payment Vouchers and Imprest	19585
 Penalty for Improper Use of Ltd	18556
 Pending Improve Internet	16872
 Percentage Change Improvement	11134
@@ -826,8 +859,10 @@ Priority Priority Priority IMPROVING SERVICE DELIVERY	14760
 Productivity and Quality Improvements	14738
 Professional Standards and Continuous Improvement	3861
 Program Improve	17364
+Program of Improving Availability of Textbooks	19565
 Programme for Improved Quality and Standards	16852
 Programme for Improving the Quality of Primary Education	19093
+Project Benefit Improve	19532
 Project Development Objective Improved	1988
 Project Harmonizing and Improving Statistics	16927
 Projet-Learning Improvment for Results	18171
@@ -836,6 +871,7 @@ Provisórias Improvisadas Angola	10766
 Quality Assurance and Continuous Improvement	9855,7432
 Quality Assurance and Continuous Improvement. The Consultant	17287
 Quality Improvement Plan	19284
+Quality Improvement and Dissemination	19519
 Quality and Expanded Infrastructure for Improved Access	16943
 Quick UX Improvements	17149
 R12. Improve	13314
@@ -853,6 +889,7 @@ Rationale Improving	10779
 Reclaiming Data for Improved City Governance	5700
 Recommendations Improve	16876
 Recommendations and Action for Improvement	12367
+Reduced Digital Divide Improved Access	19532
 Registration General UI Improvement Minor	15867
 Releasing Data for Improved Governance	11854
 Renewable Energy and Improved Utility Performance Project	15983,71
@@ -865,6 +902,7 @@ Revenue Improvement Program RNT Rede Nacional	11380
 Revenue Ratio Improve	16968
 Review and Improve Core Digital Platform Enablers	16876
 Rising Investor Confidence and Improved Business Climate	13123
+Road Map for Improving the Availability	19520
 Rural Development Areas. Improve Agricultural Services	12945
 Rural Slowing Improvement Not Classified Market	12352
 SALA IMPROVISADA	10766
@@ -890,16 +928,21 @@ School Open-source Feedback and Improvement App	12196
 School Support Programme School Improvement	16852
 Schools Infrastructure Improvement. The Ministry	12950
 Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1,135
+Secondary Education Quality Improvement Program	19585
+Secondary Education Quality Improvement Programme	19565
 Secondary School Education Improvement Programme	18564
+Secretariats SEQUIP Secondary Education Quality Improvement	19585
 Senegal Cadastre and Land Tenure Improvement Project	18294
 Service Delivery Improvement	11231
 Service Delivery Improvement Plan	11218,6
 Service Improvements	14137
+Services Improved	19533,8
 Services Improvement Project	10822
 Shadowing and Improved PTS	2477
 Short Improve	13314
 Sierra Leone Secondary Education Improvement Programme	18490,67
 Significant Improvements Needed	13381
+Simiyu Business Environment Improvements	19602
 Sirari Corridor Accessibility and Road Safety Improvement	14546
 Slowing Improvement	11887,1,1,264,1,9,178
 Slowing Improvement Human Development	12341
@@ -933,6 +976,7 @@ TECHNICIANS UNDERGO TRAINING TO IMPROVE PROJECT	12733
 TREND Increasing Improvement Slowing Improvement Warning	10759
 TREND Increasing Improvement Warning Signs Slowing	10837,1503
 TV Improving	6593
+Tanzania. Project Benefit Radical Improvement	19532
 Tariff Rate THIS PRINTED IMPRESSION	18541
 Taxation for Improved Efficiency	14932
 Taxpayer Compliance Improvement Plan	13053
@@ -947,6 +991,7 @@ Top Secret That Will Improve	5574,215
 Towards Improved Performance	1161
 Trade Economic Improves	10856
 TransUnion Zambia. Household Incomes Improved	8482
+Transformation of Tanga City Improving	19521
 Transformer-LSTM Improve Maize-Yield Estimation	13162
 Transport Improve	5245,5611
 Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1,135
@@ -994,3 +1039,4 @@ World Bank’s Nigeria Electricity and Gas Improvement	11469
 Year Improved Capacity	18792
 Youth Employment Programs Improve Labor Market	15550
 Zambia’s Customer Satisfaction Improves	8677
+Zanzibar Improved Seeds Traditional Seeds Improved	19554

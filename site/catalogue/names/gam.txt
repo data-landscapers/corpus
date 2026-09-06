@@ -257,11 +257,13 @@ GAMCEL	4527,2668,9691,40,56
 GAMCEL The Gambia Cellular Company Limited	17105
 GAMCEL. Deployment	7195
 GAMCHIX	16545
+GAMCO	19476
 GAME CHANGER IN THE CRIME	11928
 GAMEFIO Yawo SCH	19251
 GAMING TECHNICIAN	14843
 GAMIRSAL	17105
-GAMIS	9492
+GAMIS	9492,10092,1
+GAMIS S	19584,1
 GAMMA	3356
 GAMNSR	16867
 GAMPOST	7475
@@ -299,6 +301,7 @@ GAMTEL and SYSROAD Sign	4543
 GAMTEL's Board of Directors	4543,12603
 GAMTEL’s Board of Directors	17126
 GANKAMA GAMBOU	15524
+GBT Gaming License and Sticker Increase	19584
 GBoS Gambia Bureau of Statistics GBV Gender-Based	16952
 GBoS Gambia Bureau of Statistics GDP Gross	16867
 GCCI Gambia Chamber of Commerce and Industry GIEPA	16926
@@ -933,10 +936,15 @@ Gamification	12675,2322
 Gamified	14997
 Gamina	2342
 Gaming	4150,3368,1,1372,1102,1870,292,240,2448,3476
+Gaming Board of Tanzania	19602
+Gaming Board of Tanzania ERMS	19584
+Gaming Board of Tanzania GBT Government Chemist	19584
+Gaming Board of Tanzania Level	19584
 Gaming Cap	6921
 Gaming House	14828
 Gaming House A	14809
 Gaming Industry	14748
+Gaming Level	19576
 Gaming Machine	14830
 Gaming Permanent Secretary	6938
 Gamkallé	18159
@@ -1271,6 +1279,7 @@ STATISTICAL SYSTEM OF THE GAMBIA Nov	17086
 STATISTICAL SYSTEM OF THE GAMBIA URL	17086
 STOP-AMDR Project The Gambia Benchmarks Makerere	17735
 Sabelo Gama	3964,63
+Salaam Metropolitan Development Program GAMIS Facility	19585
 Scope and Coverage Scope The Gambia Government	16923
 Scope of Policy The Gambia Government Cloud	16924
 Senegal and Gambia	18392

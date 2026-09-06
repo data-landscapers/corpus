@@ -167,7 +167,7 @@ Diplomatic Links Visits	18957
 Disbursement Linked Indicator	17470
 Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
-Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260
+Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260,239,74
 Disbursement Linked Indicators DLI	11905
 Disbursement Linked Indicators. Beyond	16922
 Disbursement Linked Result	17470
@@ -237,9 +237,9 @@ Facebook Twitter LinkedIn Le Ministre Secrétaire	19281
 Facebook Twitter LinkedIn Le Togo	19267
 Facebook Twitter LinkedIn Lomé	19306,20
 Facebook Twitter LinkedIn Pinterest Kofi Yeboah	10123
-Facebook Twitter LinkedIn Pinterest Messenger Messenger	3954,1817,84,268,178,427
+Facebook Twitter LinkedIn Pinterest Messenger Messenger	3954,1817,84,268,178,427,12844,7,10,29
 Facebook Twitter LinkedIn Pinterest Sambaza	6327
-Facebook Twitter LinkedIn Pinterest WhatsApp	3954,1817,84,268,178,427
+Facebook Twitter LinkedIn Pinterest WhatsApp	3954,1817,84,268,178,427,12844,7,10,29
 Facebook Twitter LinkedIn Pinterest WhatsApp Telegram	6327
 Facebook Twitter LinkedIn Telegram	17106,81
 Facebook Twitter LinkedIn WhatsApp Email Copier	18428
@@ -262,6 +262,7 @@ Fixed Line D100	17250
 Fixed Line Data Subscriptions	2776
 Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
+Fixed Line Next-Generation Network Standard	19510
 Fixed Line Operators	18887
 Fixed Line Revenue	11211,51
 Fixed Line Subscriptions	6671
@@ -341,12 +342,15 @@ IMPORTANT LINKS Office of The President Judiciary	16866,7,15,210
 INTEGRATING AFRICA Figure O.1 Trade-Growth Line	11149
 ISA. Lines	18016
 Idriss Linge	2461,1964,11458
+Impact Linked Finance for Climate Change	19534
 Implementação da Linha Verde Nacional de Denúncias Contra	12798
 India Line of Credit	14745
 India's Lines of Credit	3363
 Indonesia’s LinkAja	11994
+Industry Linkages	19534
 Information Linden	9128
 Information and Resources COUNTRY LINKS	14058
+Infrastructural Linkages	19519
 Inside Politics Linda Mwananchi	9940
 Instagram and LinkedIn	10464
 Institut de Linguistique	15661
@@ -371,13 +375,16 @@ Kabwe. Lines of Credit	13561
 Kash System Linking Banks and Telecoms Sees	14969
 Kathy Lindert	16867
 Kenya. Link	16942
+Kigoma Magendo Kilimanjaro Nyara Lindi Rushwa	19517
 Kilimanjaro Lindi	7763
+Kutishia Kuua Lindi Unyang'anyi Mara Wa	19517
 L. and Lin	8460
 LCK Freedom Foundation Executive Director Linda	8513
 LGAs. Link NSR	11998
 LIND ST	16841
 LINDA YOCKA	16425
 LINDI	9590
+LINDI TAARIFA YA MAFURIKO Mnamo	19517
 LINE SERVICE LINE ELIGIBLE FOR PROMOTION	14754
 LINGADOO Jacques Desire Laval Manager	14770
 LINGUA Africa	9929,15,676
@@ -389,6 +396,7 @@ LINHA DO TEMPO DO PROCESSO	18781
 LINK NOT WORKING	5247
 LINK REQUESTS	11240
 LINK-1.0-http--link	15593
+LINKAGES	19544
 LINKING SPECTRUM TO BROADER ECONOMIC TRANSFORMATION	5245
 LINKING THE E-GOVT-2024 TO ICT4D PLAN	16885
 LINKS	16580
@@ -463,12 +471,30 @@ Linden	9128
 Linders	5700
 Lindert	10985,171,5746,40,2295
 Lindgren	2093,6190,320
-Lindi	2868,3860,1035,1827
+Lindi	2868,3860,1035,1827,9927,2,1,21,1,2,13,8,25,2
 Lindi Arusha	7763
+Lindi Cyclone	19520
+Lindi Jumbo	19572,17,29
 Lindi Jumbo and Epanko	10592
+Lindi Lindi MC Shinyanga Mjini	19592
+Lindi MC	19585,7
+Lindi MC MC	19585
+Lindi MC and Shinyanga MC	19585
 Lindi Ma	7763
+Lindi Mara	19517
 Lindi Morwaeng Location	12619
+Lindi Mpwapwa Ngukumo	19592
+Lindi RS	19585
+Lindi Region	19542
+Lindi Regional Secretariat Regional Secretariat	19585
+Lindi Regional Unqualified Compliant	19585
+Lindi Singida	19542
+Lindi Singida Mara Mtwara Kagera Geita	19542
+Lindi Water Supply and Sanitation Authority	19584
+Lindi and Morogoro	19544
 Lindi and Mtwara	9590
+Lindi and Zanzibar	19534
+Lindi- Mtwara	19592
 Lindis Oma	12033
 Lindiwe Msoni Stores Officer	13392
 Lindley	12227
@@ -480,7 +506,7 @@ Lindsey Schutters	3435,3661,207
 Lindsköld	8603
 Lindstrand	16484
 Line AFRALTI African Advanced Level Telecommunications	12395
-Line Back	3954,1817,84,268,178,427
+Line Back	3954,1817,84,268,178,427,12844,7,10,29
 Line Barracks	14760,21
 Line Description of Goods Country of Delivery Quantity	13185
 Line Description of Goods Delivery Date Quantity	13185
@@ -514,7 +540,7 @@ Line of Credit of USD	15457
 Line-rate	11209
 Line-side	9123
 Lineage Non-quantitative	18904
-Linear	10840,355,41,688,95,3110
+Linear	10840,355,41,688,95,3110,4412,3
 Linear Meter for Right of Way	11857
 Lineas de Interconexxion	4209
 Linece	8467
@@ -612,7 +638,7 @@ LinkLegacyShareLinkDialog. Please	15261
 LinkTender	12868
 LinkWise	7716
 LinkWise Group US	7456
-Linkage	4528,3380,696,2974,934,2082,2522,1359
+Linkage	4528,3380,696,2974,934,2082,2522,1359,1096
 Linkage Project AfCTA African Continental Free	14997
 Linkage and No Inference	7081
 Linkage of Community	12151
@@ -621,12 +647,13 @@ Linkage of SWG	14935
 Linkages	970,184,110,9700,1194,17,54,231,203,301,41,676,257,791,206,195,423,110,2220,578,9,590
 Linkages Between ICT Access	5349
 Linkages and Collaborations	12921
+Linkages and Transport TANROADS	19519
 LinkdeIn Partager	16362
 Linked	51,3,1,1,1,1,1,19,1,27,16,4,55,1,1,6,1,4,34,1,9,6,1,1,1,10,3,40,3,13,1,21,1,4,17,1,1,58,1,38,24,68,2,417,25,4538,2418,2352,1683,413,58,2142,4313
 Linked Indicators and Verification Protocols	11905
 Linked SIM Cards	15136
 Linked SIM Cards- MTN	15136
-LinkedIn	1154,398,2,373,165,58,84,270,1,314,175,43,179,1,9,20,204,15,56,280,27,17,22,40,11,1,1,333,176,85,160,47,29,32,213,127,50,84,28,79,136,14,85,1,80,93,274,92,109,98,68,72,74,97,152,177,28,213,92,102,51,55,41,2,46,38,172,29,60,7,21,71,39,152,58,75,139,55,19,121,1,58,58,103,220,63,133,619,67,74,15,281,17,81,3,117,55,27,68,88,40,375,49,24,188,36,206,140,125,9,51,16,123,31,9,31,169,27,10,458,144,118,3,59,54,252,124,57,67,494,272,94,12,90,156,88,56,123,6,5,264,445,1,192,86,68,276,26,330,25,115,36,6,125,79,100,2,72,118,7,100,99,397,7,31,48,13,6,7,70,101,127,217,285,12,3,56,59
+LinkedIn	1154,398,2,373,165,58,84,270,1,314,175,43,179,1,9,20,204,15,56,280,27,17,22,40,11,1,1,333,176,85,160,47,29,32,213,127,50,84,28,79,136,14,85,1,80,93,274,92,109,98,68,72,74,97,152,177,28,213,92,102,51,55,41,2,46,38,172,29,60,7,21,71,39,152,58,75,139,55,19,121,1,58,58,103,220,63,133,619,67,74,15,281,17,81,3,117,55,27,68,88,40,375,49,24,188,36,206,140,125,9,51,16,123,31,9,31,169,27,10,458,144,118,3,59,54,252,124,57,67,494,272,94,12,90,156,88,56,123,6,5,264,445,1,192,86,68,276,26,330,25,115,36,6,125,79,100,2,72,118,7,100,99,397,7,31,48,13,6,7,70,101,127,217,285,12,3,56,59,361,22
 LinkedIn A la Direction	16403
 LinkedIn Ads ID	3907
 LinkedIn Compartilhar	11587,5447,291,35,1,51
@@ -668,7 +695,7 @@ Linkedin Introduces	10015
 Linkedin Mail Report The Cost of Candidacy	10315
 Linkedin Print Telegram Brandon Wanguep	10983
 Linkedin Telegram X TRENDSNAFRICAAFRICAN NEWS PORTAL	3768
-Linking	226,732,2297,1495,1970,179,987,297,421,524,581,95,1275,75,2,42,26,34,28,736,119,156,30,924,80,350,225,75,328,414,95,71,350,221,13,372,1040,7,104,623,1025
+Linking	226,732,2297,1495,1970,179,987,297,421,524,581,95,1275,75,2,42,26,34,28,736,119,156,30,924,80,350,225,75,328,414,95,71,350,221,13,372,1040,7,104,623,1025,911
 Linking Birth Registration	12057
 Linking CRVS	12761
 Linking CRVS and EIR	977
@@ -718,6 +745,7 @@ Linux Opera Opera	18432
 Linux Servers	10617
 Linux Site	11471
 Linux VPS	2674
+Linux and Ubuntu	19533
 Linyati and Kabbe South	12982
 Linyon Demokratik Seselwa	6379,12723
 Linåker	2096
@@ -757,6 +785,10 @@ May. Linking	8479
 Media Line	10555
 Media Line Africa	10555
 Mental Health Information Line	11350
+Metro Link City Company Limited	19585
+Metro Link City Company Limited and Dar	19585
+Metro Link Limited and Trans Dar Limited	19585
+Metro Link Limited for Phase II	19585
 Metropolitan University’s Lincoln Alexander School of Law	6521
 Microsoft CISCO LinkedIn GSMA Course	13095
 Microsoft and LinkedIn	16266
@@ -769,6 +801,7 @@ Missing Link	10726,1501
 Mithika Linturi and Justin Muturi	9645
 Mkt. Church Ch. Company Coy Line	11129
 Mme Linda Joëlle BADINGA EGOMBENGANI MINISTERE	16381
+Mme Lingyuan Yang	19493
 Mme Marie Line MILEBOU	16175
 Mme NGEH FEJOI Linda M.NTAMACKThéodore	16195
 Mobile Link	16189
@@ -806,6 +839,7 @@ National Leased Lines	17870
 National Leased Lines Wholesale Rates Reduction	12395
 National Poverty Line	10985,2347
 Nduduzo Fakudze and Lindani	13245
+News Digital Namibia Links Rural Electrification	19622
 News NITDA Calls for Stronger Diaspora Links	9957
 Ngwempisi Constituency E. Restoring Family Links	12977
 Non-Protected Fixed Links	6946
@@ -875,6 +909,7 @@ Quick Links Ministry of Health Smart	14950
 R&D And Farming Community Linkages	14818
 R&D and Farming Community Linkages	14818
 R&D and Farming Community Linkages Stronger	14818
+RAS Lindi	19585
 RCZ Line Minister	1154
 RELATED LINK	17043
 RELATED LINK The LAAS-2024	17043
@@ -890,6 +925,7 @@ Reference Lindgren2024	8283
 Reference Lintvedt2022	8436
 Regional Trade Link	17260
 Regional Value Chains Industrial Link	11149
+Regions of Lindi	19544
 Registration Link Contributions ATU-R	10235
 Registration Linked	12406
 Regulatory Authority Quick Links Staff Mail	12322
@@ -923,6 +959,8 @@ SUPPORT LINGUISTIQUE DES ADRESSES	17902
 SUR LES RÉSEAUX Facebook X LinkedIn	2442
 SUSE Linux	7224
 SWALIM Builds IMC-Puntland and Line Ministry Staff	15015
+Salaam Lindi	19542
+Salaam NA NA NA NA Lindi	19542
 Sambaza Facebook Twitter LinkedIn Pinterest WhatsApp	6327
 Sanitation Project Health Drainage Links Home	15578
 Sarl Line	17581
@@ -931,6 +969,7 @@ Science and Linguistics	16942
 Seal Final Link With Multi Lateral	2677
 Second Labone Link	3386
 Secretary Xu Lin and Pakistan's Hon. Chief	17793
+Sector Linkages Governance Sector Climate Change	19519
 Sectoral Fault Lines	16266
 Security Useful Links	16243
 Senate President Lindiwe Dlamini	12473
@@ -989,6 +1028,7 @@ TELEPHONE LINES Fixed	14853
 TRAVERS UN LINGE	13300
 TRI-Ns. E. Disbursement Linked Indicators and Verification	17458
 Tableau-de-bord 2020-T4.pdf Lindert	19237
+Tabora Mtwara Lindi Simiyu	19542
 Taiwanese Minister of Foreign Affairs Lin Chia-lung	15002
 Taylor-series Linearization	11296
 Team Procurement No Jesus Alberto Lino	18809
@@ -1023,6 +1063,7 @@ Top Link Bar Prime Minister's Office	14721
 Transfer DLI Disbursement Linked Indicator ESMAP	15663
 Transmission Line	12358,6020,861
 Transmission Line Projects	12358
+Transmission Line Route Length	19596
 Transmission Lines Project	3760,9683
 Transmission Lines Project Cabinet	3760,9683
 Transmission Lines Project. Page	3760
@@ -1075,6 +1116,8 @@ X.2020.1755030 Lindgren	8603
 Xuan Li and Edward Lindquist	17870
 Y SOCIETE BLUE LINE GUINEE SA	16623
 Y. S. Lincoln	5349
+Y.K City Link Limited	19585
+Y.K City Link Limited for Phase II	19585
 YEARS BID SUBMISSION LINK REQUESTS	11240
 YouTube LinkedIn WhatsApp Facebook X	5050,494,389,353,79,194,162,177,2871
 YouTube Share. Facebook Twitter LinkedIn WhatsApp	6721,177

@@ -41,7 +41,7 @@ Campaigning Period and Electoral Silence Article	15393
 Change Accounting Period and Update Contact Details	14533
 Change of Accounting Period	14533
 Clarification Period	13621
-Closing Period	3604,8320,64,240,39,293,498,2101,985,292,1526,171,849
+Closing Period	3604,8320,64,240,39,293,498,2101,985,292,1526,171,849,499
 Closing Period Apr	1264
 Closing Period Beneficiaries	16032
 Closing Period Building Policy and Financing Pathways	16144
@@ -114,7 +114,7 @@ Declaração Periódica de Rendimento	12018
 Declaração Periódica de Rendimentos	12018
 Declaração Universal Periódico	10750
 Defect Liability Period. EEC	13054
-Defects Liability Period	18543
+Defects Liability Period	18543,1041
 Delivery Period	18965
 Development Programme UPR Universal Periodic Review	970
 Digitality and Peripherality	226
@@ -151,6 +151,7 @@ Foreign Private Capital Census Period	15107
 Fourth Periodic National Report	14031
 Fourth Periodic Report	14031
 Fourth Universal Periodic Review	15131,77,1
+Français Periodicité	19409,61
 Full Council Meetings Period Meetings First	1154
 GHANA TYPE CANOE PERIOD FEES ROYALTIES	18450
 GOVERNMENT PERFORMANCE REPORT FOR THE PERIOD	12950
@@ -166,9 +167,11 @@ IMPLEMENTATION PERIOD If You Receive	13108
 Impact Assessment Period	16861
 Impact Assessment Periods	16861
 Implementation Period	18531,76
+Inadequate Periodic Review of User Access Rights	19584
 Indicator Name Baseline Closing Period	11924,6038
 Informações de Perigo	15388
 Instalações Inteligentes Period	18864
+Institutionalize Periodic Updates	19557
 Interest Period	15399,820
 Interim Period	3583
 Interruptions Number Portability Cooling-off Period Fair	5676
@@ -249,12 +252,14 @@ Operación Periodicidad Responsable EF Estadística Sí	16898
 Operación Periodicidad Responsable EF Estadística Valor	16898
 Outcomes Baseline Period	11905
 Outlook for NFIF3 Remaining Implementation Period	7763
+Outstanding Imprest Beyond Authorised Period TZS	19585
 PART XIV- ELECTION CAMPAIGN PERIOD	18459
 PBC Name Baseline Closing Period	10870,5209,915,964
 PCU. Periodic	17962
 PDO Outcomes Baseline Closing Period Strengthen	11417
 PDO Outcomes Baseline Period	1264,603,1737,7164,4890,3,483,805,2296,39
 PELAGICS PERIOD FEES	18450
+PERIAPICAL XRAY	19544
 PERIMETRE	17846
 PERINDOPRIL	15930
 PERIOD	11259,696,440,1490
@@ -298,7 +303,7 @@ Perinatal Health Monitoring Module	11589
 Perinatal Mortality	15247
 Perini	11156
 Periocidade Anual	18757
-Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101,688,11,18,2,86,29,130,32,40,39,16,1,78,48,943,154,8,437,80,1,207,45,8,39
+Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101,688,11,18,2,86,29,130,32,40,39,16,1,78,48,943,154,8,437,80,1,207,45,8,39,257,44
 Period AAID Milestones	17139
 Period Average	18823
 Period Average Exchange Rate	17235
@@ -340,7 +345,7 @@ Period of Institutional Challenge and Reflection	17116
 Period of Registration	12226
 Period of Validity of Bids	13185,1581
 Period of Validity of Proposals	15080
-Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74,332,93,534,186,10,186,50,30,7,95,35,494,3,1197,5,4,57,27,60,353,1006,161,511
+Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74,332,93,534,186,10,186,50,30,7,95,35,494,3,1197,5,4,57,27,60,353,1006,161,511,533,9
 Periodic Activity	17099
 Periodic Audits	11995
 Periodic Audits and Inspections Periodic	5665
@@ -350,8 +355,9 @@ Periodic Data Transfer Description	18531
 Periodic Data Transfer and Field Verification	18531
 Periodic Data Transfer and Field Verification Description	18531
 Periodic Focus Group Discussions	1778
-Periodic Intensification of Routine Immunization	16971
+Periodic Intensification of Routine Immunization	16971,2573
 Periodic M&E	12175
+Periodic Maintenance	19585
 Periodic Progress Reports	17287
 Periodic Publication of Utilization Reports	5245
 Periodic Reassessment	3861
@@ -425,6 +431,7 @@ RESULTS Baseline Closing Period Dec	18851
 RIABA PERIFERIA	4209
 Rating Periodicity	14777
 Reference Period Cassava	17043
+Refuse-collections Agents LGA Ward Contract Period	19585
 Registrar General’s Department French Colonial Period	14761
 Related Grace Period	12389
 Related Service Period	13185

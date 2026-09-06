@@ -304,6 +304,7 @@ Represent Diplomáticas Pedido de Restituição	12018
 Rescue and Restructuring Procedures	18556
 Reserve Bank of India Imposes Restrictions	11310
 Rest Essence	9427
+Rest House	19590
 Rest Service	11952
 Rest of APAC	6477
 Rest of APAC Europe Rest of World	6477
@@ -341,7 +342,7 @@ Restaurant Saveurs D’Ebène	14835
 Restaurant de Song	10975
 Restaurants	11955,3030,567,222,225,553,383,71,939,69,1277
 Restaurar	18760
-Restauration	969,1660,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,7255,1510,297,1753,660
+Restauration	969,1660,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,7255,1510,297,1753,660,679
 Restauração	11447,7310,18
 Restaurer	6959,8779
 Reste	2561,835,1437,207,654,136,1283,161,2561,370,149,93,118,243,68,204,36,383,10,139,25,2490,333,108,851,463,173,474,157,821,220,1266
@@ -391,7 +392,7 @@ Restoring Sound Macroeconomic Fundamentals	14748
 Restoring UPS	18531
 Restoring and Upgrading Judicial Pay Addressing	17398
 Restraining	13385
-Restraint	12629
+Restraint	12629,6898
 Restreint Large	737
 Restrepo	11265
 Restricciones	1701,15154
@@ -413,7 +414,7 @@ Restricted Products	14113
 Restricted Strictly Financial	11952
 Restricted Tendering and Single-Source Procurement	7695
 Restricting	5363,1202,183,1519,748,954,2706,786,3634,62
-Restriction	1187,1522,5136,1278,2054,1710,3,4,428,244,844,25,159,125,1884,229,282,857,488,97,40,1,7,277,12
+Restriction	1187,1522,5136,1278,2054,1710,3,4,428,244,844,25,159,125,1884,229,282,857,488,97,40,1,7,277,12,622,1,10
 Restriction of Processing	12185
 Restrictions	573,163,225,282,21,20,583,121,1616,110,1951,897,2119,442,732,866,47,61,135,2,213,238,143,345,4,84,54,154,52,41,8,87,134,12,395,8,71,28,253,15,6,1,2,17,1,191,258,170,602,23,98,68,168,27,39,126,327,124,68,37,3,483,408,63,224,83,14,6,30,142,1084,176,182,241,89,99,232,22,6,39
 Restrictions Barrister Manga	10370
@@ -432,7 +433,7 @@ Restructuration Program	10775
 Restructuration Recettes	15999
 Restructuration des Quartiers Précaires	15659
 Restructuration. Suite	15766
-Restructure	958,11495,842,123,1529
+Restructure	958,11495,842,123,1529,4508
 Restructure the HR	17364
 Restructured SDR	16187
 Restructurer	4004,11734,1710
@@ -443,6 +444,7 @@ Restructuring Date	12980
 Restructuring History	12724
 Restructuring History Level	16638
 Restructuring Implementation Start Date Operation Closing	16032,2327
+Restructuring Information System Architecture	19575
 Restructuring Level	6833,11071
 Restructuring No	13850
 Restructuring Of E-Transform Ghana	10856

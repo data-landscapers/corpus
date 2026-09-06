@@ -97,7 +97,9 @@ DETALLE DE LOS SALARIOS DE FUNCIONARIOS	4209
 DG Functional	5533
 DG NIDA. Functions	12338
 DIGITALIZATION OFFICE FUNCTION	14921
+DISTRIBUTION OF FUNCTIONAL HEALTH FACILITIES	19544
 DUTIES AND FUNCTIONS OF THE OMBUDSMAN	12892
+Data Discrepancies and Inadequate Functionality	19585
 Delegation of Functions. Cooperation. Joint Committees	18467
 Department's Regulatory Functions	13951
 Department's Regulatory Functions The Department	13951
@@ -109,12 +111,14 @@ Digital Health Governance Structures and Functions1	12240
 Direção Funcional	15476
 Direções Funcionais	15476
 Disability Data Must Capture Functional Severity	13016
+Distribution Of Functional Health Facilities	19544
 District Council Chairman. Functions	18467
 District Functioning	13418
 Diversas Funcionalidades Sistemas de Permissão Online	11898
 Domínio Funcional	10777
 Dotación Especial Funcionamiento Ser. Exterior	4209
 E FUNCTIONINGmobile	582
+EXPENDITURE BY HEALTH CARE FUNCTIONS	19544
 Earth Observation Satellite FUNCTIONS	1131
 Educational Qualification Functional	11129
 Educational Qualification Functional Title Secondary Address	11129
@@ -147,9 +151,11 @@ FUNCTIONAL REQUIREMENTS SPECIFICATION	11209
 FUNCTIONAL REQUIREMENTS SPECIFICATION SECTION	11209
 FUNCTIONAL SHIFT DUE TO AI	11156
 FUNCTIONAL SHIFT DUE TO AI Systems	11156
+FUNCTIONALITY	19584
 FUNCTIONALITY Sub-Saharan	11964
 FUNCTIONINGmobile Does	582
 FUNCTIONS	3861,8462,639,1541,2332,400
+FUNCTIONS AND DUTIES OF LOCAL G	19525
 FUNCTIONS AND MANAGEMENT OF THE AUTHORITY	12894
 FUNCTIONS AND POWERS OF THE AUTHORITY	18608
 FUNCTIONS AND POWERS OF THE BANK	12938
@@ -158,12 +164,14 @@ FUNCTIONS OF LOCAL COUNCILS AND COUNCILLORS	18467
 FUNCTIONS OF REGIONAL ADMINISTRATION	12970
 FUNCTIONS OF STATISTICS SIERRA LEONE Committees	18435
 FUNCTIONS OF THE AUTHORITY	18466
+FUNCTIONS OF THE CENTRAL	19525
 FUNCTIONS OF THE COMMISSION	16830
 FUNCTIONS OF THE CORPORATION	19173
 FUNCTIONS OF THE DEPARTMENT OF STATE	16839
 FUNCTIONS OF THE DEPARTMENT OFSTATE	16839
 FUNCTIONS OF THE MINISTER	16839
 FUNCTIONS OF THE MINISTRY	16839
+FUNCTIONS TO BE PERFORMED	19525
 FUNCTl0NS	16836
 Features CRPRS Modules Comparison Benefits Functionalities	12211
 Financial Function Management	9124
@@ -212,14 +220,15 @@ Funcionários Públicos	2816
 Funcionários da Administração Pública	11413
 Función Pública	758,1097,2354,2632,2683,2219,5155,44,3,183
 Función Pública. Artículo	4209
-Function	4528,1859,4747,852,370,156,460,1462,396,66,1293
+Function	4528,1859,4747,852,370,156,460,1462,396,66,1293,3355
 Function Current Operations Gaps Identified Provision	16943
 Function Full	16189
+Function Health Facilities Government Parastatal FBO	19544
 Function Rs Million Description Estimates	14830
 Function Total PSIP	14830
 Function of Zimbabwe Electoral Commission	13501
 Function-specific	6432
-Functional	582,179,393,2753,1626,417,231,251,1116,3271,314,76,7,24,29,528,141,48,228,146,148,246,251,48,1628,217,24,13,92,574,304,947,40,58,20,8,980,488,32
+Functional	582,179,393,2753,1626,417,231,251,1116,3271,314,76,7,24,29,528,141,48,228,146,148,246,251,48,1628,217,24,13,92,574,304,947,40,58,20,8,980,488,32,1042,27,28,20
 Functional AI	15713
 Functional AI Exchequer	7548
 Functional Architecture	17116
@@ -244,7 +253,7 @@ Functional Evaluation	11240
 Functional Evaluation Criteria	11209
 Functional FMIS Expert	15090
 Functional Functional Always	5050,272,222,389,353,79,194,162,177,2871,3594
-Functional Functional Functional	6181
+Functional Functional Functional	6181,13414
 Functional Guarantees	13185
 Functional Human Resources Mgmt	1284
 Functional ID	10765,10
@@ -277,7 +286,7 @@ Functional and Economic Classification	13093
 Functional and Non Functional Requirements Section	13037
 Functional and Working Environment	18612
 Functionalities	10878,1891
-Functionality	3972,2460,834,3455,488,43,734,14,490,695,2021,3323
+Functionality	3972,2460,834,3455,488,43,734,14,490,695,2021,3323,1055
 Functionality Evaluation Bid	11209
 Functionality Functionality	15206
 Functionality SIMOrede	12270
@@ -287,7 +296,7 @@ Functionality XX Partially	15206
 Functioning	771,7050,4070,25,1100,29,286,665,1905,942,66,110,375,1322,269
 Functioning AI	15713
 Functioning Economic Zones and Policy Incentives Focus	12376
-Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598,387,1,8,96,20,169,40,68,85,187,6,15,2,91,4,1,1,6,2,8,13,214,1,5,6,1,15,38,15,1,2,349,40,205,385,458,1,5,7,27,44,82,19,5,2,46,72,13,11,25,22,34,26,46,69,375,119,19,318,1039,4,4,20,9,15,88,260,8,1195,19,6,2,1,1,89,40,4,286,2,46,227,53
+Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598,387,1,8,96,20,169,40,68,85,187,6,15,2,91,4,1,1,6,2,8,13,214,1,5,6,1,15,38,15,1,2,349,40,205,385,458,1,5,7,27,44,82,19,5,2,46,72,13,11,25,22,34,26,46,69,375,119,19,318,1039,4,4,20,9,15,88,260,8,1195,19,6,2,1,1,89,40,4,286,2,46,227,53,302,9,1,49
 Functions Core	14746
 Functions NCoE	11860
 Functions Pursuant	17235
@@ -299,34 +308,41 @@ Functions and Accessibility	14647
 Functions and Duties	16835
 Functions and Duties CHAPTER III NATIONALITY	18598
 Functions and Duties The Directorate	18598
+Functions and Duties of District Copuncils	19525
+Functions and Duties of Dproistrict Councils	19525
 Functions and Duties of LTA Regarding Competition	16835
+Functions and Duties of Township Authorities	19525
+Functions and Duties of TownshipoAuthorities	19525
 Functions and Institutions for Effective Service Delivery	15658
 Functions and Operation	16835
+Functions and Performance of COSTECH	19565
 Functions and Powers	18457,144,1,3
 Functions and Powers of Agency PART IV BOARD	12899
+Functions and Powers of Authority	19515
 Functions and Powers of Commissioner	14727
 Functions and Powers of Information Commissioner	16840
 Functions and Responsibilities	18481
 Functions of Agency	2727,8737,1841,12
-Functions of Authority	12535,27,777,32,1372
+Functions of Authority	12535,27,777,32,1372,4772
 Functions of Authority Licensing	11179
 Functions of Authority Part	11179
 Functions of Authority The Authority	14743
 Functions of Authority. PART IV	18440
 Functions of Bank	13566
-Functions of Board	13305,34,32,99,1249,3721,5,448
-Functions of Bureau	18893
+Functions of Board	13305,34,32,99,1249,3721,5,448,622,15
+Functions of Board.serv	19526
+Functions of Bureau	18893,623,10
 Functions of Business and Intellectual Property Authority	3714
 Functions of CERT-MU	783
 Functions of CERT-MU PART VII	783
 Functions of Chief Executive Officer	18893
 Functions of Cluster Advisory Group PART III	13318
-Functions of Commission	12546,2,381,5530
+Functions of Commission	12546,2,381,5530,1071
 Functions of Commission PART III	12546
 Functions of Commission PART III RIGHT	13352
 Functions of Commissioner	14727
 Functions of Commissioner The Commissioner	14727
-Functions of Committee	783,12620,5033
+Functions of Committee	783,12620,5033,1128
 Functions of Committee PART III	3887
 Functions of Committee for Spatial Data PART X	12899
 Functions of Companies Tribunal	3714
@@ -341,6 +357,7 @@ Functions of Data Protection Authority	972,12347
 Functions of Data Protection Authority. PART III	972
 Functions of Defence Forces	13501
 Functions of Defence Forces Subject	13501
+Functions of Director General	19515
 Functions of District Development Coordinating Committee	13318
 Functions of Division	13322
 Functions of Division Electronic Government	13322
@@ -366,13 +383,20 @@ Functions of Registrar	12524,763
 Functions of Registrar The Registrar	12897
 Functions of Statistics Botswana	12530
 Functions of Town Clerk	12531
+Functions of Village Government Organs	19525
+Functions of Village Government Orgatneds	19525
 Functions of Ward Committees. PART XVIII	18467
+Functions of Ward Development Committee	19525
 Functions of Zimbabwe Human Rights Commission	13501
+Functions. Aof Statistician General	19526
 Fund. Board of Trustees. Functions of Board. Fund	18445
 GENERAL HEALTH AND FUNCTIONING	11192
+GOVERNMENT AUTHORITIES of OA Basic Functions	19525
 GRPWeb Direção Funcional	15476
 Gastos de Funcionamiento	4209
 Gastos de Funcionamiento Proyecto de Atún	4209
+General Functions	19525
+General Funcytbioe	19525
 Goods. Required Functional Guarantee Value of Functional	13185
 Governance Framework. Key Functions	16212
 Governance Functions	13418
@@ -397,6 +421,7 @@ Integrated Functional Adult Education	13991
 Internal Audit Function	1154,13948
 Internal Audit Function The Internal Audit	1554
 International Classification of Functioning	15663,1287
+Interpretations. PART II POWERS AND FUNCTIONS	19509
 Java. Functional	13042
 KEY FUNCTIONS OF THE FINANCE DEPARTMENT	9437
 Key Capitals Supporting the Financial Stability Function	11134
@@ -406,6 +431,7 @@ Key Functions and Activities NOSi	11891
 Key Functions and Objectives	15120
 L Gastos de Funcionamiento	4209
 LGA Functionary	12064
+LOCAL GOVERNMENT AUTHORITIES Basic Functions AG	19525
 La Función Pública	17128
 Land Functionalities Overview Comprehensive	12211
 Legal Mandate and Core Functions	17538
@@ -431,6 +457,7 @@ Mobilidade Funcional	17178
 Modo de Funcionamento	11381
 Mugisha Functional Support	8723
 Mº FUNCIÓN PUBLICA	4209
+N Functions	19526
 NAVIGATION About GICTA Leadership Functions Resource	16866
 NCA Regulatory Functions MOPT NCC Strategy	1777
 NCC Functional Q1	1777
@@ -469,7 +496,10 @@ PART HT FUNCTIONS	16841
 PART III DUTIES AND FUNCTIONS	12892
 PART III FUNCTIONS AND ADMINISTRATION	18434
 PART TWO POWERS AND FUNCTIONS	14024
+PART V FUNCTIONS AND DUTIES	19525
+PART VIII1 AG. of O FUNCTIONS	19525
 POWERS AND FUNCTIONS OF THE AUTHORITY	18934
+POWERS AND FUNCTIONS OF THE BANK	19509
 PRACTITIONER’S FUNCTIONS AND TERMS OF APPOINTMENT	3714
 PRESCRIBE THE POWERS AND FUNCTIONS	11976
 Partially Functional	17139
@@ -494,6 +524,7 @@ REPÚBLICA DE CABO VERDE II. Funcionalidades	12021
 RLRC. Functions	12338
 ROLE AND FUNCTIONS	14773
 ROLE AND FUNCTIONS The Ministry of Health	14773
+Regional Distribution Of Functional Health Facilities	19544
 Regras de Funcionamento	11368
 Regulamento de Funcionamento	11443
 Research Control and Coordination Committee Functions	1154
@@ -531,6 +562,7 @@ Statistical Regulatory Functions	13993
 Strengthen the QA Function	17364
 Supabase Edge Functions	5513
 Systems Administration and Management Functions Required	13185
+T FUNCTIONS WHICH DISTRICT	19525
 TECHNICAL WORKING GROUP FUNCTIONAL RESPONSIBILITY Composed	14434
 TIME AND FUNCTIONALITY OF PROCESSES	12389
 Technical Functional	11986

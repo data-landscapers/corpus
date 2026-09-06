@@ -96,7 +96,7 @@ ET INFORMATIQUE ESTEL-CATEF ECOLE SUPÉRIEURE PRIVÉE	18170
 ETUDES COMMERCIALES ET FINANCIERES HEGEPRINE ECOLE	18170
 ETUDES MÉDICALES EMIG ECOLE DES MINES	18170
 Ecolabelling	13385
-Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33,433,230,129,105,29
+Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33,433,230,129,105,29,138,59
 Ecole Article	17982
 Ecole Expert Génie Informatique Licence Générale	17829
 Ecole Formation Cours Autres	737
@@ -105,7 +105,7 @@ Ecole L’ETAT	17861
 Ecole Militaire Interarmées	18987
 Ecole Multinationale Supérieure des Postes	3604
 Ecole National	13301,3064
-Ecole Nationale	969,13479,187,731,162,408,1888,18,307,142,27,6,38,625,218
+Ecole Nationale	969,13479,187,731,162,408,1888,18,307,142,27,6,38,625,218,163,20,54,40
 Ecole Nationale Supérieure Polytechnique	15357
 Ecole Nationale Supérieure de Statistique	17842
 Ecole Nationale Supérieure des Postes	10948
@@ -170,6 +170,8 @@ Ecoles NB Salles Total CENTRE-NORD	10847
 Ecoles NB Salles Urbain	10847
 Ecoles Normale des Instituteurs	11905
 Ecoles Normales de Formation des Professeurs	19249
+Ecoles Numériques	19505
+Ecoles Numériques URL	19505
 Ecoles Primaires	15528
 Ecoles de Statistiques Africaines CAPI Computer Assisted	15479
 Ecoles par Lot Fourniture	13694
@@ -280,4 +282,5 @@ Urbanisme Transition Ecologique	15936
 V.INFRASTRUCTURES SCOLAIRES V.1 REPARTITION DES ECOLES	10847
 VI.2 ECOLES DISPOSANT DE LOGEMENTS	10847
 VI.2 Ecoles	10847
+WikiChallenge Ecoles	19505
 Zone Sylvopastorale. Centre de Suivi Ecologique	18304

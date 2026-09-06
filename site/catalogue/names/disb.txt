@@ -41,6 +41,7 @@ DA Designated Account DFIL Disbursement and Financial	10768
 DA. Disbursements	10768
 DE4A Digital Economy for Africa DFIL Disbursement	1264
 DFIL Disbursement and Financial Information Letter DGID	18293
+DFIL Disbursement and Financial Information Letter DGSDS	19455
 DFIL Disbursement and Financial Information Letter DLI	17458
 DFIL Disbursement and Financial Information Letter DNA	11380
 DGIS Cape Verdean Escudo Disbursement and Financial	11855
@@ -63,7 +64,8 @@ Description Disbursement Trust Funds	10829
 Direct Disbursement	17116
 Disband AI	12675
 Disburscnrcnt	15399
-Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20,472,98,6,257,39,173,540,78,768,7,35,29,69,490,500,10,75,118,265,57,128,54,74,65,103,127,47,915,85,770,13,96,175,692
+Disburse Loans Outside TPLMIS	19585
+Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20,472,98,6,257,39,173,540,78,768,7,35,29,69,490,500,10,75,118,265,57,128,54,74,65,103,127,47,915,85,770,13,96,175,692,656
 Disbursed AUD	249
 Disbursed CAD	2167
 Disbursed COFN-C2470 Closed	17505
@@ -93,6 +95,7 @@ Disbursed P166601 IDA-63670 Effective USD	18473
 Disbursed P167478 IDA-D4840 Effective USD	16638
 Disbursed P174620 IDA-D9950 Effective USD	15619
 Disbursed TF-B2030 Closed	17904
+Disbursed TF-C7856	19481
 Disbursed The World Bank Senegal Digital	18359
 Disbursed US	2473,14295
 Disbursed USD	85,297,515,231
@@ -132,7 +135,7 @@ Disbursement Letterâ	18887
 Disbursement Linked Indicator	17470
 Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
-Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260
+Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260,239,74
 Disbursement Linked Indicators DLI	11905
 Disbursement Linked Indicators. Beyond	16922
 Disbursement Linked Result	17470
@@ -161,6 +164,7 @@ Disbursement and Flow of Fund Arrangements	15661
 Disbursement and Flow of Funds Arrangements	15658
 Disbursement of Funds	2775
 Disbursement of Grant	19214
+Disbursement of Loan Funds	19585
 Disbursement of NGAAF	2775
 Disbursement of US	17139
 Disbursement-Linked Indicators	15693,945,1732
@@ -170,7 +174,7 @@ Disbursement-linked	15693
 Disbursement-linked Indicators	11855
 Disbursement. Current	15969
 Disbursement. Unless	19214
-Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15,164,258,17,8,70,95,101,131,28,3,4,35
+Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15,164,258,17,8,70,95,101,131,28,3,4,35,197
 Disbursements Arrangements	1228,56,2320,8361,4931,26
 Disbursements Arrangements No Additional Regional	16032
 Disbursements Arrangements No DDO No Additional	18359
@@ -183,7 +187,7 @@ Disbursements for Reimbursable Costs Annex VI	19214
 Disbursements for Reimbursable Costs. Unless	19214
 Disbursements of Grant	19214
 Disbursements of Grant Funds	19214
-Disbursing	13164,3950
+Disbursing	13164,3950,2471
 E. Disbursement Linked Indicators and Verification Protocols	17458
 ECOWAS Disbursement and Financial Information Letter EDGE	3604
 Estimated Disbursements	15372

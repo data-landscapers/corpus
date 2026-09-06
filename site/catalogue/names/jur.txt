@@ -198,7 +198,7 @@ Juridiction des Comptes	10981
 Juridictionnelles	17972
 Juridictions	15727,908,1552
 Juridictions Administratives	15727
-Juridique	1218,29,3816,40,4303,1302,968,2861,3293,30,13,550,943
+Juridique	1218,29,3816,40,4303,1302,968,2861,3293,30,13,550,943,40
 Juridique Infrastructures Numériques Appui	17860
 Juridique PMA Pays	17873
 Juridique Sur	18423
@@ -214,7 +214,7 @@ Jurisdicción Militar	4209
 Jurisdicción Militar Inspector Regional Ministerio Jefe	4209
 Jurisdicción Militar Servicio	4209
 Jurisdicción Ordinaria	16855
-Jurisdiction	26,757,189,2815,74,815,220,406,1130,148,4599,2,683,112,326,87,539,1020,461,13,298,39,1,87,3639,70,364
+Jurisdiction	26,757,189,2815,74,815,220,406,1130,148,4599,2,683,112,326,87,539,1020,461,13,298,39,1,87,3639,70,364,603
 Jurisdiction CHAPTER	11190
 Jurisdiction Notwithstanding	14720
 Jurisdiction Over Insolvency Proceedings	12389

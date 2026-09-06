@@ -1,6 +1,9 @@
+Agency WMA Weights and Measures Agency	19584
 BASIC SYSTEMS WMO REGIONAL ASSOCIATION	12649
 Bank WFP World Food Program WMO	17157
+Body WMTH	19580,1,2,8,15,14
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
+Entity Non-Automated Processes Implication WMA Electricity	19584
 Environment Programme WMO World Meteorological Organization	11553
 Ethiopian Meteorological Institute and President of WMO RA-I	16371
 Focal Point for WMO	18787
@@ -10,6 +13,7 @@ Libya National Meteorological Service WMO Member	16956
 OGC WMS Interface Standard	18904
 Quality Monitoring System WIGOS WMO Integrated	18578
 Reference ID SDN 2025 WMS-R4 v01 M DOI	15024
+Ruvu Basin Water Board WMA-MIS WRBWB	19584
 SDN 2025 WMS-R4 v01 M Title Welfare Monitoring Survey Round	15024
 SDN 2025 WMS-R4 v01 M. Downloaded	15024
 Severe Weather Forecasting Programme The WMO	11191
@@ -20,6 +24,8 @@ Utility Regulatory Authority WMA Wastewater Management	14745
 WB World Bank WDQMS WMO Data	18578
 WM66E	15999
 WMA Act	14745
+WMA-MIS	19584
+WMC URL	19475
 WMC World Meteorological Centres NWP Numerical	11553
 WMO 36 Annex	13729
 WMO A Compendium of Topics	18309
@@ -78,6 +84,7 @@ WMP Waste Management Plan ZDA Zambia	1988
 WMS TITAN O IL Avis	18322
 WMS TITAN OIL SA	18322
 WMS Web Map Service	18904
+WMTH Dar-es-salaam Mwenyekiti	19581
 WMoonrledtaInrtyeFlleucntdual Property Organization	11884,321
 Weather Prediction WIGOS WMO Global Observing	11553
 Wma Description	15129

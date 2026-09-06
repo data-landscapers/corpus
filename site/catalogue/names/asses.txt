@@ -47,6 +47,7 @@ ASSESSMENT MISSION	15118
 ASSESSMENT OF EACH PILLAR’S STRENGTHS	15447,33
 ASSESSMENT OF ENABLING FACTORS BURUNDI URL	13349
 ASSESSMENT OF ENABLING FACTORS1 BURUNDI	13349
+ASSESSMENT OF GAPS AND OPPORTUNITIES	19555
 ASSESSMENT OF READINESS FOR DIGITAL SKILLS	11918
 ASSESSMENT OF SOVEREIGNTY EFFECTIVENESS The Contracting	3787
 ASSESSMENT OF THE CAPACITY OF LOCAL	18612
@@ -62,6 +63,7 @@ About the Artificial Intelligence Landscape Assessment	13661
 About the Digital Readiness Assessment	12214
 About the Digital Readiness Assessment MALAWI DIGITAL	12214
 About the Digital Readiness Assessment The UNDP	12981
+Absence of Formal IT Risk Assessment Processes	19584
 Accessible Education Assessments	13143
 Accountability Assessment Central African Backbone Program	15372
 Accreditation-Based Conformity Assessment System	13320
@@ -101,7 +103,7 @@ Artificial Intelligence Readiness Assessment Report	12994
 Artificial Intelligence Readiness Assessment Report. UNESCO	2816
 Arusha. The Association for Educational Assessment	10675
 Asses	16863,294
-Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67,13,52,1,450,83,253,102,56,62,133,34,42,267,131,55,54,983,162,5,13,8,1,41,21,4,12,5,43,7,81,15,35,8,98,5,107,1003,106,19,36,430,79,197
+Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67,13,52,1,450,83,253,102,56,62,133,34,42,267,131,55,54,983,162,5,13,8,1,41,21,4,12,5,43,7,81,15,35,8,98,5,107,1003,106,19,36,430,79,197,338,9
 Assess AI	1814
 Assess Compliance	10721
 Assess Conduct	17157
@@ -133,7 +135,7 @@ Assessed Variables	15164
 Assessed Variables Binary	15164
 Assessed Variables Code Name FS-1	15164
 Assesses	1381,335,10498,4678,273,1405
-Assessing	1219,1597,132,315,864,49,672,15,2075,340,481,1370,74,34,379,143,1004,17,76,25,104,210,368,15,277,63,79,249,9,42,36,52,2450,61,101,83,262,105,33,175,945,267,144,88,15,2,33,624,7,511,317,159,5,389
+Assessing	1219,1597,132,315,864,49,672,15,2075,340,481,1370,74,34,379,143,1004,17,76,25,104,210,368,15,277,63,79,249,9,42,36,52,2450,61,101,83,262,105,33,175,945,267,144,88,15,2,33,624,7,511,317,159,5,389,394
 Assessing AI's Implications for Development	5598
 Assessing China	4676,566
 Assessing Crop Yield Variability Using Meteorological	12614
@@ -144,6 +146,7 @@ Assessing ICT	15164
 Assessing Legal Standards	11662
 Assessing Risk Vaccin	14622
 Assessing Rwanda	12385
+Assessing Seismic Hazard	19520
 Assessing System Integration and Coverage	13005
 Assessing Take-up Prerequisites	16885
 Assessing the Antecedents	5349
@@ -158,7 +161,7 @@ Assessing the Impact of ICT Integration Policy	899
 Assessing the Levels of Assurance	10775
 Assessing the Macroeconomic Productivity Gains	11140
 Assessing the Program	18370
-Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204,123,2,21,12,11,27,4,3,4,26,50,9,391,123,19,146,518,68,64,6,48,35,3,11,12,14,12,50,26,57,84,36,172,43,9,49,45,35,51,17,37,1,2,2,481,470,229,5,4,1,8,35,6,20,5,16,4,2,19,2,18,8,15,6,82,5,10,2,23,18,23,55,82,50,502,249,252,78,19,21,24,116,84,113,62,350,47
+Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204,123,2,21,12,11,27,4,3,4,26,50,9,391,123,19,146,518,68,64,6,48,35,3,11,12,14,12,50,26,57,84,36,172,43,9,49,45,35,51,17,37,1,2,2,481,470,229,5,4,1,8,35,6,20,5,16,4,2,19,2,18,8,15,6,82,5,10,2,23,18,23,55,82,50,502,249,252,78,19,21,24,116,84,113,62,350,47,235,8,28,9,12,8,1
 Assessment Agility	13477
 Assessment Approach and Coverage	17116
 Assessment Area Findings Legal and Regulatory Kenya	12210
@@ -174,6 +177,7 @@ Assessment Council of Lesotho Bill	12748
 Assessment Criteria The Department	11005
 Assessment DE4A Digital Economy for Africa DFS	18777
 Assessment DGFP General Directorate of Civil Service	969
+Assessment DQA Data Quality Assurance Framework	19519
 Assessment Design	15164
 Assessment Design and Framework	15164
 Assessment EI Environmental Impact License EIP	16843
@@ -184,7 +188,7 @@ Assessment Enabling Variables PILAR No. ENABLING	18476
 Assessment Environmental	15138
 Assessment European Union Forecast-based Financing	11156
 Assessment Format	16963
-Assessment Framework	1161,6387,5762,2163
+Assessment Framework	1161,6387,5762,2163,4046
 Assessment Framework A. Rating Criteria Naymote	17139
 Assessment Framework Information	16863
 Assessment Framework NCPSLU National Center for Planning	15473
@@ -212,7 +216,7 @@ Assessment Procedure	1824
 Assessment Process	15034
 Assessment Recommended	14888,2072
 Assessment Regulations	1988
-Assessment Report	962,199,9560,1332,941,1441,339,2177
+Assessment Report	962,199,9560,1332,941,1441,339,2177,2604
 Assessment Report Pursuant	14435
 Assessment Report Tier	10721
 Assessment Reports	10721,4053
@@ -277,9 +281,12 @@ Assessment of Environment	18578
 Assessment of Eswatini's E-Commerce Readiness	12395
 Assessment of Existing Policy and Legal Framework	11905
 Assessment of Existing Voter Registration Hardware	18531
+Assessment of Gaps and Opportunities	19555
 Assessment of Goals Compatibility	15845
 Assessment of Household Vulnerability and Food Insecurity	13060
+Assessment of ICT	19584
 Assessment of Indicators Using Health Facility Data	10881
+Assessment of Interest and Penalties	19527
 Assessment of Land Governance	15473
 Assessment of Learning	13477,3375
 Assessment of Maize Production Dynamics. Além	2816
@@ -332,6 +339,7 @@ Association of Education Assessment	13477
 Assurance Authority NAT National Assessment Test	16852
 Assurance Review TASS Performance Assessment Report	12500
 Attachment III. Performance Assessment Report	12500
+Audit Assessment Criteria	19541
 Audits and Assessments	6432
 Authorized ASSESSMENT OF LAND GOVERNANCE	15473
 Auto Assessment Waiting Room	8784
@@ -344,6 +352,7 @@ BCM Maturity Assessment	11131
 BENCHMARKING AND E-READINESS ASSESSMENTS	12529
 BEST PRACTICES FOR FLOOD RISK ASSESSMENT	17157
 BETA MOTOR VALUERS AND ASSESSORS LIMITED	7167
+BRELA Assessment and Billing System	19584
 BSC and Assessment Assessment	16863
 Background Assessing	12255
 Bank ESIA Environmental and Social Impact Assessment	17862
@@ -387,6 +396,7 @@ CONFORMITY ASSESSMENT OFFICE	14736
 CONTEXT ASSESSMENT Laws	12333
 COSLID INSURANCE ASSESSORS Data Controller INST-66043486708	7167
 COUNTIES SHOULD DO NOW Assess	9939
+COUNTRY HEALTH RISK PROFILE ASSESSMENT	19544
 COURT AND APPOINTMNENT OF ASSESSORS	13189
 COVERT RISK ASSESSORS LTD Data Processor	7167
 CRAFIC AUTO ASSESSORS	7167
@@ -401,6 +411,7 @@ Capacity Assessment Framework	15713
 Capacity-Building Needs Assessment	17369
 Care Performance Initiative Assessment Awa Diallo	17869
 Case Assessment	17099
+Catch Assessment Survey	19519
 Category Partial Assessment	15424,2538
 Category Site Assessment for Petroleum Retail Station	17250
 Central African Republic Poverty Assessment	15661
@@ -452,6 +463,8 @@ Conduct National Risk Assessment	1000
 Conduct National Risk Assessment Risk	1000
 Conduct Regulatory Impact Assessment	16978
 Conduct Training Needs Assessment	13005
+Conduct the Tanzania Service Provision Assessment	19519
+Conducting Tanzania Service Provision Assessment	19519
 Conducts Assessment Audit	18482
 Conformance Assessment and Conformance Certification	1009
 Conformity Assessment	7548,5772,905,511,1124,352
@@ -469,6 +482,7 @@ Continental Assessment Framework for Africa	13477
 Continental Assessment Standards for Africa	13477
 Core Stablecoin Principles and African Market Assessment	12048
 Council MAPS Method of Assessing Procurement Systems	18577
+Councils During CCHP First Assessment	19544
 Country Assessment Country	13344
 Country Assessment Mission	6858,9872
 Country Diagnostic Cameroon Digital Economy Assessment	15480
@@ -552,7 +566,8 @@ Data Protection Impact Assessments. The DPA	1652
 Data Protection Impact Assessments. Training	5385
 Data Protection Officer Assessment	11956
 Data Protection Officer's Assessment Schedule	11956
-Data Quality Assessment Framework	12902,1875
+Data Quality Assessment	19519
+Data Quality Assessment Framework	12902,1875,4742
 Data Quality Assessment Framework DSBB Dissemination	14777
 Data Quality Assessment Framework EAs	14857
 Data Quality Assessment Report	12944
@@ -620,6 +635,7 @@ Disability Medical Assessment and Categorization Guidelines	12231
 Disaster Assessments	14818
 Disaster Assessments Post-shock	14818
 Disaster Risk Assessment and Early Warning Systems	14818
+Disaster Risks Capacity Needs Assessment for Tanzania	19520
 District Performance Assessment Tool	1512
 Division of Environmental Impact Assessments	18370
 Does HIS Maturity Assessment Help	18628
@@ -697,7 +713,7 @@ Environmental Assessment Security Management Plan Traffic	17114
 Environmental Assessment and Management. A. The Constitution	18370
 Environmental Assessment and OP	16614
 Environmental Assessments and Audits	17114
-Environmental Impact Assessment	1988,3867,5276,3611,1163,938,314
+Environmental Impact Assessment	1988,3867,5276,3611,1163,938,314,2428
 Environmental Impact Assessment Clearance	15081
 Environmental Impact Assessment Division	18370
 Environmental Impact Assessment Division DGAS	18370
@@ -706,6 +722,7 @@ Environmental Impact Assessment EPA Environmental Protection	17139
 Environmental Impact Assessment Regulations	1988
 Environmental Impact Assessment Regulations SI	1988
 Environmental Impact Assessment Regulations SI No	1988
+Environmental Impact Assessment Review	19555
 Environmental Impact Assessments	1988,787,2843,9329,2167
 Environmental and Social Assessment	3604,8259,5251,1256
 Environmental and Social Assessment The Environmental Impact	1988
@@ -745,6 +762,7 @@ Evaluation CADD Agence Nationale for Assessment Use	17845
 Executive Board Assessment	17503
 Executive Board. Executive Board Assessment Djibouti	13868
 External Balance Assessment	17503
+External ICT Security Assessment	19541
 External Sector Assessment	17257
 F4. Site Assessment and Approval Fees Application	17250
 FDA Environmental Impact Assessment Division	16843
@@ -759,6 +777,7 @@ FSAP Financial Sector Assessment Program FSC	15023
 Feasibility Assessment	18488
 Feb Partial Assessment	17962
 Fiduciary Assessment	11905,3610
+Fifth Assessment Report	19520
 Final Assessment	11956,5007
 Finalize GBV Assessment and Action Plan Develop	2989
 Finalize GBV Assessment and Action Plan Update	2989
@@ -793,6 +812,8 @@ Future Society. AI Readiness Assessment	5701
 GDA Data Assessment Framework	1161
 GENERAL ASSESSMENT OF THE ELECTION Based	10049
 GENERAL ASSESSMENT PROCEDURE	13381
+GOVERNMENT CAPABILITY MATURITY ASSESSMENT CHECKLIST	19576
+GOVERNMENT CAPABILITY MATURITY ASSESSMENT CHECKLIST S	19576
 GREEN ASSESSMENT	1818
 GREEN ASSESSMENT SUMMARY	1818
 GREEN ASSESSMENT SUMMARY ANNEX	1818
@@ -813,6 +834,7 @@ Global Educational Assessment Conference	13477
 Go Assessed	11156
 Governance and Institutional Assessment	12008
 Government Assessing	6946
+Government Capability Framework Assessment Checklist	19576
 Government Digital Performance Assessment for Zambia S	12453,892
 Government MALAWI DIGITAL READINESS ASSESSMENT	12214
 Government Readiness Assessment	12961
@@ -846,6 +868,7 @@ Human Rights Impact Assessments for AI	6132
 I-I10-A1 Computing Power Needs Assessment	15713
 IAEA Standards for Assessment Bodies	13477
 ICAO Augmented Data Availability Assessment Mission	14167
+ICT Compliance Assessment Results	19584
 ICT Infrastructure Assessment	12961
 ICT Policy for Lesotho and Situational Assessment Report	12674
 ICT4D-2013 Action Plan Impact Assessment	16861
@@ -878,6 +901,7 @@ INTERPOL’s Africa Cyberthreat Assessment	8777
 INTERPOL’s African Cyberthreat Assessment Report	8777
 IPCC Sixth Assessment Report	13094
 IPCC Sixth Assessment Report. Retrieved	16942
+IPCC's Fifth Assessment Report	19520
 IR Readiness Assessment	12935
 IR Readiness Assessment Framework	12935
 ISC Assessment of ZamStats	2240
@@ -891,6 +915,7 @@ IV. SOCIAL ASSISTANCE SYSTEM ASSESSMENT	16902
 IV. SOCIAL ASSISTANCE SYSTEM ASSESSMENT Delivery	16902
 IV. Sovereign Risk and Debt Sustainability Assessment	17503
 Ideal Clinic Assessment	11980
+Identified Assessment	19541
 Impact Assessment	6476,470,602,5127,656,1340,164,1377,649,253
 Impact Assessment ESIP Energy Services Improvement	15515
 Impact Assessment Framework	12214
@@ -901,6 +926,7 @@ Impact Assessment Report	6477
 Impact Assessment Reported	6432
 Impact Assessment and Asset Inventory	17114
 Impact Assessment and Mitigation Measures	17114
+Impact Assessment of School Re-Entry Policies	19565
 Impact Assessment. Energy	12233
 Impact Assessment. World Bank	13314,2160,19
 Impact Assessments	961,5988,9263
@@ -909,6 +935,7 @@ Implementation Assessment	16971
 Implementation Unit Post-Disaster Needs Assessment Project	1228
 Implementation of PIMA Assessment	18488
 Implementation of Pace Assessment Current	17139
+Inadequate Feasibility Assessment and Stakeholder Engagement	19585
 Income. Assesses	17165,1405
 Independent Assessment	14774
 Independent Assessment of AML	14774
@@ -1073,8 +1100,11 @@ Market Level Assessment	15474
 Market Level Assessment. International Trade Center	15474
 Materiality Assessment	12967
 Mathematics Assessment	16436
+Maturity Assessment	19576
 Maturity Assessment Important	18628
+Maturity Assessment The ICT Maturity	19576
 Maturity Assessment Workshop	1824
+Maturity Assessment and Grading	19576
 Medical Guidelines for Disability Assessment	14774
 Methodology and Assessment Framework	15164
 Methodology for Assessing Procurement	9399
@@ -1117,6 +1147,7 @@ National AI Readiness Assessment	3712
 National AI Readiness Assessment Committee	10183
 National AIDS Spending Assessment	15500
 National Artificial Intelligence Readiness Assessment	10183
+National Assesment Framework	19565
 National Assessment Test	12196,4656
 National Assessment and Technology Transfer Centre	13217
 National Assessments	17028
@@ -1295,6 +1326,8 @@ Performance Assessment Report Template Indicators Sources	12500
 Performance Assessment Report. Warwick	10997
 Performance Assessment Tool MTEF Medium Term	11224
 Performance Monitoring and Assessment. Article	14867
+Performance of ICT Domains Across Assessed Entities	19584
+Performance of Security Assessment	19533
 Person GRM Integrated Fiduciary Systems Assessment	11905
 Personal Information Impact Assessment	11896
 Pillar Assessment	19328
@@ -1373,6 +1406,7 @@ RECOMMENDATIONS FOR FLOOD RISK ASSESSMENT METHODOLOGY	17157
 RF-EMF Exposure Assess-	6946
 RISK ASSESSMENT	12973
 RISK ASSESSMENT AND SCORING METHOD	11156
+RISK ASSESSMENT High Risk	19534
 RNSI2020 AssessmentToolkit Vx	15472
 Rainforest Nations Land Use Assessment Application	17140
 Raise Assessments Beyond the Statutory Limit	14828,3
@@ -1408,6 +1442,7 @@ References IOM. Multi-Sector Needs Assessment	15116
 Reforms The Country Policy and Institutional Assessment	18488
 Regional Economic Impact Assessment	2677
 Regional Risk and Resilience Assessment	16384
+Registers for Assess RITA Allocation of Issuance Database	19541
 Regular Conduct of Debt Sustainability Assessment	18488
 Regular Risk Assessments	12356
 Regularly Assessed	14777
@@ -1429,9 +1464,11 @@ Responsibility for Data National Learning Assessment Unit	11905
 Retrospective Risk Assessment	7548
 Return Tax Assessment Audit and Review Tax	15175
 Revenue Assessed	13053
+Review Data Quality Assessment Framework	19519
+Review Data Quality Assessment Framework NBS	19519
 Review and Needs Assessment	17017
 Risk Asses	9123
-Risk Assessment	10721,435,983,163,1079,1540,2193
+Risk Assessment	10721,435,983,163,1079,1540,2193,2420
 Risk Assessment And Due Diligence South	6998
 Risk Assessment CRM-RA.S1	10721
 Risk Assessment Committee	14738
@@ -1470,6 +1507,7 @@ SERAT Sexuality Education Review and Assessment Tool	12975
 SOUTH SUDAN Digital Economy Assessment	18616
 STAFF ASSESSMENT AND PRIORITY RECOMMENDATIONS Approved	14777
 STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS	17019,1966
+STAKEHOLDER'S STATISTICAL ASSESSMENT MATRIX SECTOR	19519
 STATEMENT To Efficiently Conduct Educational Assessments	13477
 STP Digital Economy Assessment	18777
 STRATEGIC ASSESSMENT AND FOCUS AREAS	16968
@@ -1517,11 +1555,13 @@ Site Assessment for Construction Permitting	17250
 Site-Specific Environmental and Social Impact Assessments	17114
 Situational Assessment Report	12674
 Skills Assessment	14997,3721
+Skills and Capacity Assessment	19555
 Sn Components No Standards Assessment	13310
 Social Assessment	2473,2180,7567,3967,2172
-Social Impact Assessment	10829,3919,2366
+Social Impact Assessment	10829,3919,2366,2341
 Social Impact Assessment EPA Environmental Protection	17114
 Social Impact Assessment ESMAP Energy Sector	15983
+Social Impact Assessment SSDPC Strategic Social	19455
 Social Impact Assessments ESMF Environmental and Social	18293
 Social Impact Local Assessment	1988
 Social Protection Assessment Resource Kit for Systems	10991
@@ -1535,9 +1575,11 @@ South Sudan Digital Economy Assessment URL	18616
 South Sudan Digital Economy Assessment. Washington	18616
 Sovereignty Assessments	17695
 Specific Assessments	11145,1,1
+Staff Assessment	19584
 Staff Assessment Report	17317
 Staff Assessment and Economic Outlook	17104,213
 Staff Assessment and Outlook	17104,213
+Stakeholder's Statistical Assessment Matrix	19519
 Stakeholders’ Assessment	5579
 Standard Assessment and Evaluation	13392
 Standard Guide for Assessing Spoilage of Hemp Seed	11269
@@ -1548,6 +1590,7 @@ Startup Compliance Readiness Assessment	7519
 States EIA Environmental Impact Assessment ESIA	17260
 States EIA Environmental Impact Assessment ESMF	16926
 States ESSAF Environmental and Social Impact Assessment	15424
+Statistical Capacity Assessment	19519
 Statistics CFSAM Crop and Food Supply Assessment	15118
 Statistics Office DQAF Data Quality Assessment	13310
 Stay of Assessment	14828,3
@@ -1580,6 +1623,7 @@ Summary of TADAT Performance Assessment	12500
 Surgical Infrastructure Assessment	16971
 Survey Assessed	14212
 Sustainable Banking Assessment	10718
+Sustainable Development Data Gaps Assessment	19519
 Sustainable Impact Assessment	1243
 Systems Diagnostic Assessment Project	11986
 São Tomé and Príncipe Digital Economy Assessment	18777
@@ -1587,12 +1631,16 @@ TADAT Assessment	17011
 TADAT Assessor Field Guide	13624
 TADAT Secretariat. Performance Assessment Report	12500
 TADAT Tax Administration Diagnostic Assessment Tool	12948,913,576
+TANZANIA STARTUP ECOSYSTEM RISK ASSESSMENT	19534
 TF Risk Assessment Report	14774
 TH GLOBAL EDUCATIONAL ASSESSMENT CONFERENCE Inside	13477
 TRA Threat and Risk Assessment TRV Temporary	5533
 TRAINING CALL DETAIL INDIVIDUAL ASSESSMENT CALLS	19237
 TYPES OF COMPLIANCE ASSESSMENTS	13381
 Talent Gap Assessment	2680
+Tanzania National Education Assessment Framework	19565
+Tanzania Service Provision Assessment	19519
+Tanzania Service Provision Assessment-TSPA	19519
 Targeting Assessment	15663
 Task Assessment Criteria Purpose Write	16963
 Tax Administration Diagnostic Assessment Tool	10519,465,1516,448,1489,1596,916,952
@@ -1609,6 +1657,7 @@ Technical Assessment Mission	5950
 Technical Assessment and Infrastructure Readiness	13042
 Technical Assessment. The Technical Assessment	15518
 Technical Conformity Assessment	16212
+Technical Feasibility Assesses	19575
 Telecom Market Assessment	14010
 Terrorism Financing National Risk Assessment	11277
 Terrorist Financing National Risk Assessment Guidance	12297
@@ -1676,6 +1725,8 @@ Virtual Assessment	13381
 Voluntary Assessment	13381
 Vulnerability Assessment	1000,14662,1495
 Vulnerability Assessment Framework and Checklist	1000
+Vulnerability Assessment Report	19520
+Vulnerability Assessment Report. Prime Minister's Office	19520
 Vulnerability Assessment Vulnerability	1000
 Vulnerability Assessment and Analysis	12977
 Vulnerability Assessment and Management Conduct	15149

@@ -35,6 +35,9 @@ ATELIERS FORMATION INTERNE FORMATION A L'ETRANGER	15670
 AU NIVEAU DE L’EDUCATION NON FORMELLE	18171
 AUTRES FORMES PARTICULIERES D'ACCES ET D'INTERCONNEXION	15429
 Abandoned Funds Submission Form	5687
+Absence of Formal IT Risk Assessment Processes	19584
+Absence of Formal User Acceptance Testing	19584
+Absence of Formal User Account Management Procedures	19584
 Abuja Former Vice President and African Democratic	9400
 Academic Year Format	15630
 Access Beneficial Owner Register Form	11276
@@ -51,6 +54,7 @@ Address Form	11129
 Address Formats	11129
 Administration Management OASIS Portable Document Format	1009
 Administration du Centre Africain de Formation	16523
+Adobe Portable Document Format	19545
 Affordability Formal	11994
 Africa Former Safaricom	7284
 African Fibre Networks Formerly Dark Fibre	6000
@@ -64,6 +68,7 @@ Agriculture Centre de Formation	17978
 Agência Guineense De Emprego E Formação	17308
 Ale Format	3972
 Alertas Formação	12021
+Annuel Format	19409
 Application Form	1638,4794,8432,2091,1640
 Application Form Web Services IATA CXML	12454
 Application Form for Approval of Binding Corporate Rules	12302
@@ -94,6 +99,7 @@ B. Annual Tax Declaration Forms	16955
 B. Antitrust Formation	5773
 B. REQUEST FOR PROPOSAL REGISTRATION FORM	12400
 B. Tender Registration Form	12400
+B. The Formalisation of Informal Sector	19602
 B5es-europeus-e-os-desafios-da-era-digital Formação	16142
 BCR APPLICATION FORMS	12302
 BECLOMETASONE FLUTICASONE FLUTICASONE FUMARATE DE FORMOTEROL	15930
@@ -263,6 +269,7 @@ Completed TIN Forms	16601
 Compliance Percentage Formula	13381
 Componente de Formação Específica Opção	15564
 Componente de Formação Geral	16325
+Comprehensive Review of Forms	19565
 Conditions of Contract and Contract Forms	13185,342,1553
 Consent Form	16189
 Consulta Informações Online Formação	12021
@@ -623,6 +630,7 @@ Form Annual Audit Certificate	12364
 Form B	5687,12772
 Form B1	12138,13
 Form B1 Kenya Vital Statistics Report	12151
+Form B2	19541
 Form BDA1	12151
 Form BDA2	12151
 Form BI-1620	2115
@@ -636,6 +644,7 @@ Form CC8	12342
 Form D	18459
 Form D1	12138,13
 Form D2	12138,13
+Form D3	19541
 Form DHA-9 For Naturalized Citizens	2115
 Form DP1	1877
 Form DP1. Licences	6181
@@ -654,14 +663,15 @@ Form FIN-3	13037
 Form FIN-4	13037
 Form FIN-5	13037
 Form Factor Section VII	13185
-Form Four	10650
+Form Five and Six	19542
+Form Four	10650,8892,17
 Form H	18541
 Form HMIS	2709
 Form IA	13307,177
 Form IB	13307
 Form II	22,13285,109,68,54
 Form III	13307
-Form IV	13307
+Form IV	13307,6235
 Form J	12349,900,5292
 Form K	18541
 Form L	18541
@@ -790,7 +800,7 @@ Formación de Formadores	17409
 Formación de Recursos Humanos	4209
 Formadora	17308
 Formadores	15359
-Formal	418,522,21,48,815,269,682,808,131,718,96,585,815,286,618,116,199,131,270,215,134,124,1,160,110,84,252,501,93,15,379,1177,147,23,1,12,1,3,153,5,18,24,116,578,31,89,220,32,51,49,10,27,26,36,67,583,219,17,148,955,343,220,88,45,34,178,30,39,62,671,401,69,234,115,74,59,3,15,2,23,110,621,423,143,28,6,295,166
+Formal	418,522,21,48,815,269,682,808,131,718,96,585,815,286,618,116,199,131,270,215,134,124,1,160,110,84,252,501,93,15,379,1177,147,23,1,12,1,3,153,5,18,24,116,578,31,89,220,32,51,49,10,27,26,36,67,583,219,17,148,955,343,220,88,45,34,178,30,39,62,671,401,69,234,115,74,59,3,15,2,23,110,621,423,143,28,6,295,166,587,1,12,53
 Formal AI-specific	8301
 Formal Account Ownership	11138
 Formal Amendment Pathways	3861
@@ -821,6 +831,7 @@ Formal Hearing of Complaints	17243
 Formal Hearings and Arbitration	17243
 Formal Homens Informal Mulheres Quadro	10757
 Formal ICT Benchmarking	12529
+Formal ICT Incident Management Procedure	19584
 Formal ICT-related	15164
 Formal Inclusion	12409
 Formal Inclusion Gender Gap	2775
@@ -834,10 +845,13 @@ Formal Informal Microesta Total Agriculture	15085
 Formal Informal Mining and Quarrying Manufacturing Utilities	12445
 Formal Informal Rwandan	12445
 Formal Informal Small	12445
+Formal Maintenance Plan for Public Property	19585
 Formal Manufacturing Informal Graph	12445
 Formal Micro	12445
 Formal Opening Session	16545
 Formal Pay	12445
+Formal Public Asset Maintenance Plan	19585
+Formal Public Asset Maintenance Plan S	19585
 Formal Recognition	16076
 Formal Savings and Credit	12460
 Formal Sector Enterprise Surveys	17503
@@ -847,10 +861,12 @@ Formal Sector Informal Sector Graph	12445
 Formal Sector Performance	12445
 Formal Sector Sample and Estimation	12445
 Formal Sector Social Health Insurance Programme	12004
+Formal Sign-off	19584
 Formal Structure	5349
 Formal Tenders	11251
 Formal Trading Spaces	13474
 Formal Training	12389
+Formal and Approved Change Management Procedure	19584
 Formal and Informal Financial Services. Findex	17870
 Formal and Informal Maintained	15023
 Formalidade	10757
@@ -882,18 +898,18 @@ Formalités Administratives	17461
 Formaliza	4557
 Formalizacao de Emprego CIA Confidencialidade	11555
 Formalizar	11376,7418
-Formalization	12031
+Formalization	12031,7571
 Formalization Program	15473
 Formalization and Social Protection	14039
 Formalization of Egypt’s Urban Informal Real Estate	15473
 Formalização	11901
 Formalização da Atribuição	16138
 Formalização da Economia	11426
-Formalize	6948,7829,242,1932,60,1467
+Formalize	6948,7829,242,1932,60,1467,1076
 Formalize Agreements	12675
 Formalize Tax Dialogue Program Integration	17011
 Formalized	12457,5852
-Formalizing	7278,3512,4690,3071
+Formalizing	7278,3512,4690,3071,1003
 Formally	418,4547,2742,3300,1402,983,1426,2298,144,483
 Formally Revised Actual Achieved	15663
 Formally Revised Target	15601
@@ -933,7 +949,7 @@ Formatação	18801
 Formateur	18249
 Formateurs	19221
 Formateurs Formats	19221
-Formation	28,207,408,105,960,634,624,154,276,318,174,514,1269,990,166,358,32,417,21,72,42,74,135,291,185,301,136,111,268,543,1,897,110,53,1,69,31,49,155,418,33,277,9,2,26,575,13,376,11,11,357,3,10,1,5,35,34,58,9,57,118,72,13,8,150,12,22,6,381,142,1,1,37,26,1,1,47,824,8,2,5,40,6,2,23,25,3,4,9,1,4,3,4,12,17,12,27,17,10,4,40,11,20,3,12,27,3,46,16,71,15,73,25,4,2,34,11,8,27,51,77,20,1,9,43,2,78,53,12,37,3,18,34,27,23,11,32,15,12,23,5,1,28,45,7,12,113,124,120,359,6,136,239,6,1,6,5,1,3,1,7,3,4,3,10,8,1,6,11,3,39,4,1,3,23,6,4,60,35,4,18,1,5,13,3,17,5,27,116,5,5,10,4,2,7,3,17,7,66,144,41,287,42,2,14,181,11,53,22,1,9,2,29,8,74,28,6
+Formation	28,207,408,105,960,634,624,154,276,318,174,514,1269,990,166,358,32,417,21,72,42,74,135,291,185,301,136,111,268,543,1,897,110,53,1,69,31,49,155,418,33,277,9,2,26,575,13,376,11,11,357,3,10,1,5,35,34,58,9,57,118,72,13,8,150,12,22,6,381,142,1,1,37,26,1,1,47,824,8,2,5,40,6,2,23,25,3,4,9,1,4,3,4,12,17,12,27,17,10,4,40,11,20,3,12,27,3,46,16,71,15,73,25,4,2,34,11,8,27,51,77,20,1,9,43,2,78,53,12,37,3,18,34,27,23,11,32,15,12,23,5,1,28,45,7,12,113,124,120,359,6,136,239,6,1,6,5,1,3,1,7,3,4,3,10,8,1,6,11,3,39,4,1,3,23,6,4,60,35,4,18,1,5,13,3,17,5,27,116,5,5,10,4,2,7,3,17,7,66,144,41,287,42,2,14,181,11,53,22,1,9,2,29,8,74,28,6,22,17,30,1,46,94
 Formation Ahmadou Abdoulaye DIALLO Professionnelle	17817
 Formation Amadou Toumani TOURE Professionnelle	17817
 Formation Article	15371,5
@@ -1006,6 +1022,7 @@ Formation des Formateurs	13390,4859
 Formation des INSTAT	17842
 Formation des Responsables du Mécanisme	14425
 Formation des Travailleurs Sociaux	17812
+Formation of Big Data Technical Working Group	19519
 Formation-Emploi	15447
 Formation. Ces	13341
 Formation. Cette	16196
@@ -1059,12 +1076,12 @@ Formações	11444
 Formbook	9830
 Formc de I'Avis Juridique Destinatairc	15399
 Forme	10836,39,647,2002,1870,164,37,40,25,241,42,157,149,25,21,27,103,31,180,849,338,90
-Formed	3840,6553,1949,2411,88
+Formed	3840,6553,1949,2411,88,4735
 Formed Police Units	16277
 Formel Informel	10875
 Formelle	10875
 Formellement	10965
-Former	1867,121,978,415,1249,50,153,200,284,185,6,460,789,77,569,574,744,164,863,259,437,198,216,18,89,1078,40,143,148,916,16,35,206,234,113,749,851,48,41,90,39,64,46,26,4,160,78,61,94,83,58,260,31,966,78,124,27,106,98,1,22,72,16,1,103,6,9,18,102,458,18,40,46,238,47,87,1
+Former	1867,121,978,415,1249,50,153,200,284,185,6,460,789,77,569,574,744,164,863,259,437,198,216,18,89,1078,40,143,148,916,16,35,206,234,113,749,851,48,41,90,39,64,46,26,4,160,78,61,94,83,58,260,31,966,78,124,27,106,98,1,22,72,16,1,103,6,9,18,102,458,18,40,46,238,47,87,1,13
 Former AFRINIC Director	14240
 Former Attorney General and National Assembly Speaker	10042
 Former CEO of The Innovation Hub	12786
@@ -1137,7 +1154,7 @@ Forming General Committees and Sub-Committees Article	15393
 Formnlairc	15399
 Formoliiés	15429
 Formolités	15429
-Forms	1988,721,1550,637,2990,954,805,1167,317,102,319,426,199,75,32,60,17,15,150,1,23,81,269,1,76,30,306,41,4,62,1004,344,314,1875,1512,76,338,364
+Forms	1988,721,1550,637,2990,954,805,1167,317,102,319,426,199,75,32,60,17,15,150,1,23,81,269,1,76,30,306,41,4,62,1004,344,314,1875,1512,76,338,364,273,9,48
 Forms Annexure	13071
 Forms BI-9 and BI-309	2115
 Forms Designer	12359
@@ -1190,15 +1207,18 @@ Formulam	2816
 Formulamos	10752
 Formular	1701,1818,7855,4076,27,49,3274
 Formularios	12169
-Formulate	396,562,856,56,10486,43,49,514,348,681,790,37,71,824,1006,114,39,12,60,26,144,121,1241,758
+Formulate	396,562,856,56,10486,43,49,514,348,681,790,37,71,824,1006,114,39,12,60,26,144,121,1241,758,285,1
+Formulate Big Data Technical Working Group	19519
 Formulate EMIS	13310
 Formulated At Mbuluzi Basin	12970
 Formulating	14674,2159
+Formulating Telemedicine Protocols	19532
 Formulation	1000,554,5405,3753,1541,734,108,417,1114,309,645,727,576,4,212,15,146,600,19,104,310,923
 Formulation Domestication Monitoring	961
 Formulation and Implementation	16926
 Formulation and Planning	1988
 Formulation of Actionable Recommendations	14928
+Formulation of Criteria for Data Sharing and Exchange	19533
 Formulation of DGS	12917
 Formulation of Development Goals	15845
 Formulation of Programmes	16887
@@ -1214,7 +1234,7 @@ Formule Nombre	10876
 Formule Nombres de CEC	10876
 Formule Un	10876
 Formulent	10876,3661
-Formuler	1702,4999,6589,491,1761,13,1086,1183,1073
+Formuler	1702,4999,6589,491,1761,13,1086,1183,1073,477
 Formules	747
 Formulário	11461,3927,3391,66
 Formulário NIF MOD	12018
@@ -1263,6 +1283,7 @@ Human Capital Formation	10768
 I Ciclo da Formação Profissional Básica	11419
 IA Formation	19349
 ICT Formal	15164
+ICT Services Obtained Without Formal Contractual	19584
 ICT. Former Education Minister Mamadou Alpha	3900
 IDSR Using Individual Case Form Compared	11912
 IDSR Weekly Reporting Form	16922
@@ -1273,6 +1294,7 @@ IFAL Instituto de Formação da Administração Local IPP	11390
 IFEC INSTITUT DE FORMATION EN FINANCE	18170
 IFSS INSTITUT DE FORMATION EN SCIENCES	18170
 II FORMAT FOR COMMENTING	236
+II. LES FORMULES ADMINISTRATIVES	19436
 III Compliance Formats	5132
 III.2. Formalité	16249
 III.2.5.6. Formation	15685
@@ -1398,7 +1420,7 @@ LES SERVICES CHARGÉS DES FORMALITÉS	17898
 LEVEL FORM	13356
 LIST OF ABBREVIATIONS Abbreviation Full Form	6936
 LISTE DES FORMATIONS SANITAIRES AYANT PARTICIPE	15475
-La Formation	15936
+La Formation	15936,3546
 La Formation Page	15936
 La Formation Professionnelle	15936
 Lancement Formations	13689
@@ -1443,6 +1465,7 @@ MODALITES DE FORMATION	17829
 MODELO DE FORMULÁRIO PARA APRESENTAÇÃO	11390
 MOUSSOUMOU Goldy RGB Responsable Ingénierie de Formation	16012
 MSME Surveys. Formal	940
+MTN Forms UAE-Backed Venture	19622
 MVP of Mida Forms	7907
 Machine Readable Format	12389
 Machine-Readable Formats Prioritise	17149
@@ -1603,6 +1626,7 @@ Pre-owned Formalise	14674
 Preescolar FTP Formación Técnica	16920
 Prescribed Forms	13307,91
 Pretas Formato da Placa	11373
+Prevention of Worst Forms	19531
 Price Adjustment Formula	13185
 Price Schedule Form Annex VI	14131
 Price Schedule Forms	13185,1895
@@ -1807,6 +1831,7 @@ TYPES DE FORMATION	15670
 Tablet Commitment Form Bulk Item Upload	12454
 Takaful and Karama Program. Formally Revised Actual	15663
 Taller de Formación	8378
+Tanzania Forms	19607
 Target Formally Revised	15424
 Target Formally Revised Actual Achieved	15424,177
 Target Formally Revised Target Actual Achieved	15601
@@ -1867,7 +1892,7 @@ Work Schedule of Form TECH-8	13037
 Workshop de Formação	8000
 World Bank's Formal Publishing Program. Finally	10977
 World Bank. Can Enhancing the Benefits of Formalization	10856
-Worst Forms of Child Labour	14742,2132
+Worst Forms of Child Labour	14742,2132,2657
 Worst Forms of Child Labour Convention	14011
 Wrong Form Over	6315
 X Action V.1.1 Former	13306

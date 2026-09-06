@@ -25,14 +25,18 @@ Annually PRISONS Percentage	15845
 Ansiedade Depressão Percentagem	18762
 Appetite Percentage System Uptime Target Actual	13053
 Area Education Wealth Quintile National Percentage	18441
+Area Irrigated and Percentage of Planted Area Irrigated	19554
 Area Wealth Quintile National Percentage	18441
+Area and Percentage Applied	19554
 Assembly Disclosure of Public Records Public Perception	10759
 Asymmetric Perception Dynamics	11138
 Baseline Target Percentage	18458
+Birth Percentage Applications Applications	19541
 Bureau of Percentage Activity	16863
 Business Enterprise Perception	12445
 CITIZEN ENGAGEMENT AND PUBLIC PERCEPTION	17139
 CITIZEN ENGAGEMENT AND PUBLIC PERCEPTION Development	17139
+Caesarean Section Percentage	19544
 Candidate Name Number of Votes Percentage	12201
 Capacity Percentage Technology	12358
 Care-seeking During Fever Percentage	18441
@@ -72,7 +76,9 @@ Counts Percentages Same	12413,2643
 Current Perceptions Among Senior Practitioners Seventy-two	11138
 Data Governance Act. Country Percentage	11922
 Davis FD. Perceived	10919,3747
+Death Percenta Applications Applications	19541
 Definition Percentage	11986
+Dependency Range Percentage No of Councils	19585
 Derick Percy Marimba	19049
 Desagregações Percentagem	18762
 Description Percentage	3604,7813,488,3756
@@ -96,9 +102,11 @@ Ephraim Percy Kenyanito	17745
 Establishments Establishment Type Count Percentage Formal	15085
 Evaluate Perceptions of Data Quality	17149
 Female Description Percentage	15661
+Female Percentage Under	19544
 Final Budget and Actual Percentage Variance FY	16978
 Financial Management Public Perception of Easiness	10759,78,1315,188
 Financial Statements Percentage	13420
+Financial Years Registration Target Percentage of Decline	19541
 Findings Number Percentage Number Percentage Number	3051
 Firms' Perceptions	12389
 Firms’ Perceptions	12389
@@ -114,6 +122,7 @@ Gifted Students’ Perceptions of Course Quality	961
 Health Provision Public Perception of Social Protection	10759
 Health Quality Public Perception of Female Leadership	12488
 Heifers Other Percentage	17043
+Heights of Roman Africa Perched	19622
 ICTA and PMO Percentage	14723
 ID Registration Experiences and Perceptions	4439
 IDPs PIU Percentage	10964
@@ -134,6 +143,7 @@ International Trade Percentage	11882
 Ipsos Perils of Perception Index	14673
 JUSTICE Public Perception of Easiness	10835,3,130,902,16,466,1,135
 Joyce Onyeagoro Percy Chinyama	6484
+Key Massage Percentage	19554
 Key Messages Percentage	18441
 LCA CONSUMER PERCEPTION SURVEY	11744
 LEVEL AGE RANGE POPULATION PERCENTAGE Pre-primary	17870
@@ -179,6 +189,10 @@ Nenhum Total Percentagem Percentagem	18762
 Net Percentage Balance	17317
 Nigeria Percentage	11004,960
 Number Percentage	15601
+Number Percentage Adult Literacy Rate	19542
+Number and Percentage Distribution of Persons	19557
+Number and Percentage Distribution of Persons Engaged	19557
+Number and Percentage of Agricultural Households	19554
 Number of Percentages	12413
 Numbers Percentages	15056
 Numbers Percentages Community Health	15056
@@ -237,7 +251,7 @@ PercentBaseline GDP GrowthNew GDP Growth	13624
 PercentPaanegorecmeoanflt3iae-gsme	10763
 Percenta-	10777
 PercentaPgeercoefnmtaognethosf	10763
-Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85,180,23,33,31,3,4,35,21,27,16,2,39,1,2,2,53,9,10,2,108,56,4,22,42,8,36,19,47,65,43,73,176,195,7,67,178,9,4,25,1,4,9,7,7,1,10,11,7,16,6,11,7,25,36,17,31,30,91,4,112,106,33,2,238,127,8,26,54,4,44,98,19,10,168,8,41,4,1,4,82,2,21,65,3,2,90,3,56,71,8,8,17,5,25,8,62,95,263,4,35
+Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85,180,23,33,31,3,4,35,21,27,16,2,39,1,2,2,53,9,10,2,108,56,4,22,42,8,36,19,47,65,43,73,176,195,7,67,178,9,4,25,1,4,9,7,7,1,10,11,7,16,6,11,7,25,36,17,31,30,91,4,112,106,33,2,238,127,8,26,54,4,44,98,19,10,168,8,41,4,1,4,82,2,21,65,3,2,90,3,56,71,8,8,17,5,25,8,62,95,263,4,35,123,74,39,21,1,2
 Percentage Addressed	3051
 Percentage Age	15085
 Percentage Agriculture	2775
@@ -261,21 +275,33 @@ Percentage Contributions	18483
 Percentage Coverage	16921
 Percentage DROs	13005
 Percentage Deviation	11259
-Percentage Distribution	2775,14146,193
+Percentage Distribution	2775,14146,193,2428,15
 Percentage Distribution Agricultural Households	16921
 Percentage Distribution of Agricultural Households	16921
 Percentage Distribution of Average Household Size	16921,193
 Percentage Distribution of BEP	2775
+Percentage Distribution of Crop Harvest Uses for Banana	19554
+Percentage Distribution of Crop Harvest Uses for Carrots	19554
+Percentage Distribution of Crop Harvest Uses for Cash	19554
+Percentage Distribution of Crop Harvest Uses for Cereals	19554
+Percentage Distribution of Crop Harvest Uses for Pulses	19554
+Percentage Distribution of Crop Harvest Uses for Selected	19554
 Percentage Distribution of Dwelling Unit	2775
+Percentage Distribution of Establishments	19557
 Percentage Distribution of Households	16921
 Percentage Distribution of Households Engaged	16921
+Percentage Distribution of Households Used Seeds	19554
 Percentage Distribution of Land Parcels	2775
 Percentage Distribution of Other Nationals	16921
 Percentage Distribution of Persons	16921
 Percentage Distribution of Persons With Some Form	16921
+Percentage Distribution of Population Aged	19542
+Percentage Distribution of Population Aged Five Years	19542
+Percentage Distribution of Population Aged Four Years	19542
 Percentage Distribution of Residential Properties	2775
 Percentage E’000 Change Improvement	11131
 Percentage Female Male	14775
+Percentage II	19519
 Percentage Increase	16921
 Percentage Industrial	12256
 Percentage Industry	2775
@@ -283,6 +309,10 @@ Percentage MTN	2776
 Percentage Managers	18309
 Percentage Market	6671
 Percentage Number Male Female Total Top	14773
+Percentage Of All Via Positive Clients	19544
+Percentage Of Anc First Visit	19544
+Percentage Of Women Aged	19544
+Percentage Of Women Delivered	19544
 Percentage Omission	16921
 Percentage Percentage	582,11297,3722
 Percentage PhD	14775
@@ -293,7 +323,9 @@ Percentage Sex Ratio	16921
 Percentage Share of Agricultural Households	16921
 Percentage South-South	3862
 Percentage Top Performer	11131
+Percentage Uptake of IPTp2 And IPTp3 Doses	19544
 Percentage Variance FY	16978
+Percentage Variation	19544
 Percentage of AAP Proportion of AAP Input	15845
 Percentage of ADL	16994
 Percentage of AI	7548
@@ -301,21 +333,28 @@ Percentage of AI Current	7548
 Percentage of API	13005
 Percentage of ASP	18982
 Percentage of Active Social Accountability Committees	15663
+Percentage of Adolescent Deliveries	19544
 Percentage of African	8898
 Percentage of Allocated Intergovernmental Transfers	14935
 Percentage of Average	15845
 Percentage of Banks	10779
+Percentage of Birth Projection Birth Registered Certificates	19541
 Percentage of Budget Executed	13005
 Percentage of Cases With Laboratory Results	11912
-Percentage of Children	16935
+Percentage of Children	16935,2609
 Percentage of Citizens	14935
 Percentage of Community Facilitator	16994
+Percentage of Completeness of Health Facilities	19544
 Percentage of Count of LIs	15845
 Percentage of Credit Allocated Expenditures	10964,4408
 Percentage of Credit Allocated Grant Allocated Expenditures	18887
+Percentage of Cumulative Birth Registration Targets	19541
 Percentage of DIDIMACs	14935
 Percentage of DROs	13005
+Percentage of Death Registration	19541
+Percentage of Delivery	19544
 Percentage of Demand for Family Planning Satisfied	18441
+Percentage of EMR	19544
 Percentage of Essential	2775
 Percentage of Establish	7548
 Percentage of Expenditures	14987,424,247,1278,1026
@@ -323,7 +362,7 @@ Percentage of Financial	14997
 Percentage of Financial Institutions	2775
 Percentage of Financing Expenditures	11525
 Percentage of GBON	18309,478
-Percentage of GDP	14896,515,3414
+Percentage of GDP	14896,515,3414,777
 Percentage of GNI Eswatini	12395
 Percentage of Grade	16436
 Percentage of Health Spending	15411
@@ -336,8 +375,10 @@ Percentage of Housing Developers	2775
 Percentage of Immediately Notifiable Diseases Entered	11912
 Percentage of Income	16975
 Percentage of Information	14935
+Percentage of Institutional Delivery	19544
 Percentage of Internet	11857
 Percentage of LED	14935
+Percentage of LGAs	19520
 Percentage of Livestock Holdings Purchasing Feed	17043
 Percentage of Local Economic Development	14935
 Percentage of Local Government Capacity Development Strategy	14935
@@ -345,6 +386,7 @@ Percentage of M	14997
 Percentage of MDAs	18529
 Percentage of MFI	14997
 Percentage of MM	10856
+Percentage of Male Sexually	19544
 Percentage of Market Share of Service Deployment	3862
 Percentage of Mauritian	14723
 Percentage of Moisture	1988
@@ -353,13 +395,14 @@ Percentage of N	11905
 Percentage of NA	17441
 Percentage of NDFSPs	14997
 Percentage of NIP	15514
+Percentage of New-born	19544
 Percentage of Participating	17505
 Percentage of Participating Municipalities	17505
 Percentage of Percentage	11525
 Percentage of Permanent Post Offices	12395
 Percentage of Poor Covered	10985
 Percentage of Poor Covered Figure	10985
-Percentage of Population	10765,10
+Percentage of Population	10765,10,8767
 Percentage of Postal Service Points	12395
 Percentage of Poultry Holdings Experiencing Animal Diseases	17043
 Percentage of Primary	14935
@@ -368,6 +411,7 @@ Percentage of Project-supported	11417
 Percentage of Public Health Emergency Operations Centers	11417
 Percentage of Real Estate Firms	2775
 Percentage of Regional	14997
+Percentage of Registration Target90	19541
 Percentage of Report	16863
 Percentage of Rwf	14997
 Percentage of SACCO	14997
@@ -380,8 +424,10 @@ Percentage of Tax Arrears Collected Target Actual	13053
 Percentage of Tax Refund Applications Processed	12951
 Percentage of Technologies	7548
 Percentage of Tekavoul	17904
+Percentage of Timeliness of Health Facilities	19544
 Percentage of Total Trade	16935
 Percentage of Turnover	14985
+Percentage of Types of Data Sources Commonly Used	19555
 Percentage of UNFPA	15039
 Percentage of Unsentenced	15845
 Percentage of Weekly	14997
@@ -397,7 +443,7 @@ Percentagem da População Coberta	11418
 Percentagem de Coinfetados	18768
 Percentagem de Percentagem	10760
 Percentagens	10777
-Percentages	7151,1285,1336,1232,328,632,126,111,212,2643,108,410,30,55,1384,114,79,1247
+Percentages	7151,1285,1336,1232,328,632,126,111,212,2643,108,410,30,55,1384,114,79,1247,1036
 Percentages GDP	18483
 Percentages of Registered	12413
 Percentile Median	4972
@@ -496,14 +542,17 @@ RIGHTS Public Perception of Health Provision	10835,3,130,902,16,466,1,135
 Records Public Perception of Accountability Anti-Corruption	10837
 Reform Plan Percentage of Risk Within Risk	13053
 Refugees Percentage	15845
+Region No. of Death No. of Timely Percentage	19541
 Region Percentage	17043
 Regions Annually Percentage	15845
+Registe Percen	19541
 Registo Civil Percentagem	10777
 Research Champions NUST’s Prof Percy Chimwamurombe	12357
 Residence Wealth Quintile Woman's Education Percentage	18441
 Responsibility for Data Collection The MOH Percentage	11417
 Responsibility for Data The MOH. Collection Percentage	11417
 Risk Acceptance Opportunity Perception Cultural Support	16876
+Rural Percentage Population	19542
 Rural Total Percentage	16935
 S Percentage	10763
 SADC DATA-ONLY MOBILE-BROADBAND BASKET PERCENTAGE	11211
@@ -558,6 +607,12 @@ USAGE Percentage	16942
 Understanding the Customers’ Perception	226
 Unit of Measure Baseline Percentage	15601
 Unit of Measure Baseline Percentage Percentage	15601
+Urban Percentage of Number of Persons Number	19542
+Urban Percentage of Residence	19542
+Urban Percentage of Residence Number of Persons Number	19542
+Urban Percentage of Residence Persons	19542
+Urban Percentage of Residence Persons Number	19542
+Urban Percentage of Tanzania	19542
 Urban and Rural Percentage	16916
 Urbano Rural Total Percentagem Casamento	18762
 Usage Percentage	940
@@ -566,6 +621,7 @@ User Perceptions and Use	12379
 VIH Percentagem	10760
 Variable Factors Frequency Percentage Cumulative	9129
 Visas for Visitors Percentage	11986
+Visited Regions Percentage	19541
 Voices.’ Community Priorities and Perceptions	6947
 WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1,135
 Wasting Percentage	18441
@@ -578,3 +634,4 @@ XVIII. Ponto Percentual	18798
 Year Percentage	11395,529,4155
 Yearly Research Firm Once Percentage	10964
 Zambia Percentage	13332
+Zanzibar Number Percentage Number Percentage Indicator	19542

@@ -8,7 +8,9 @@ Agence Nationale des Plantes Médicinales	17458
 Agricultural Area and Planted Area	17043
 Agriculture Regional Plant Protection Officer COMESA	12972
 Aluminium Foil Plant	16511
+Area Irrigated and Percentage of Planted Area Irrigated	19554
 Area Planted	2775
+Availability of Power Plants	19596
 BESS Recycling Plant Component	14080
 Beneficiaries Plantation	16996
 Bitterballs Cucumber Egg Plant Okra Pepper	17043
@@ -42,6 +44,7 @@ Econet Willowvale Solar Plant	306
 Egbin Power Plant. Egbin	10157
 Eskom Plant Performance	11228
 FLOATING SOLAR POWER PLANT	18947
+Fertilizer Mainland Tanzania Planted	19554
 Fiamah Treatment Plant and Redemption Street Bridge	16971
 Fish Processing Plant	18450,91
 Forest Plantation	17140
@@ -57,6 +60,7 @@ Gold Mining and Processing Plant	13060
 Government Forest Plantation Stocking	2775
 HDA. Outside Plant Cabling Infrastructure	9123
 Hydro Power Plant HV	12358
+Hydropower Plant	19565
 Hydropower Plants	12062
 IPPC International Plant Protection Convention IRU	13042
 IPPs Power Plants	12358
@@ -72,6 +76,7 @@ Karuma Hydropower Plant	4795
 Kenya Plant Health Inspectorate Service	10313
 Kenya Plant Health Inspectorate Services	10313
 Kenya Plant Inspectorate Services	10313
+Kibena Tea Plantation	19585
 LA DIGUE DESALINATION PLANT	18947
 LARGE HYDROPOWER PLANTS Angola	11366
 LNG Power Plant	14667
@@ -94,6 +99,7 @@ MW Tedzani Hydro Power Plant	13060
 MWp Danzi Solar Power Plant	10857
 MWp Mmadinare Solar PV Plant. Together	12604
 MWp Solar Plant	12604
+Machine-Powered Equipment- Land Preparation and Planting	19554
 Maguduza Hydro Plant	12956
 Maguga Hydro Plant	12956
 Maiduguri Emergency Power Plant	12062,6124,31
@@ -128,7 +134,7 @@ PLANTED AREA	17043
 PLANTING SUSTAINABLE LAND MANAGEMENT COMMUNITY EMPOWERMENT	11586
 POWER PLANT AVAILABILITY INDEX	14867
 Payments Guidelines for Plantation Forests Stakeholder	16853
-Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299,854,917,78,179,1029,31,326
+Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299,854,917,78,179,1029,31,326,1059
 Plant Availability	14867
 Plant Availability Factor	12062,6124,31
 Plant Availability Index	14867
@@ -193,7 +199,7 @@ Plantation Forests Define GoL	16848
 Plantations	3396,12603,997
 Plantations Shifting Cultivation Annual	17140
 Planted	17043
-Planted Area	2775,14268
+Planted Area	2775,14268,2511
 Plantes Biotechnologies	19366
 Planting	16464,579
 Planting Guides	17274
@@ -209,11 +215,12 @@ Plantons	17982
 Plantons Chauffeurs Contractuel	17982
 Plantons Militaire	17899
 Plantons. Article	17899
-Plants	12062,2698,1239,1106,52,427,602,31
+Plants	12062,2698,1239,1106,52,427,602,31,1385
 Plants de Secrétaire	17833
 Post Planting	18525,42
 Power Plant Availability	14867
 Power Plant Launch	13624
+Power Plants Utilization	19596
 Processing Plant and Establishment	18541
 Processing Plants	18450
 Property and Plant Equipment	1154
@@ -233,10 +240,12 @@ Rubber Plantation Company	16580
 Rubber Planters Association	16833
 Rubber Planters Association of Liberia	17140
 Rukarara VI Hydropower Plant	15049
+Rusumo Power Plant. Pia	19590
 SEWERAGE TREATMENT PLANT LICENCE FEES Category	17250
 Salima Solar Power Plant	13241
 Sewerage Treatment Plant Operator Licence D20	17250
 Shema Power Plant	12358
+Sidi Bouzid II Solar Plant	19488,1
 Sierra Leone. President Bio Plants Symbol	5390,965,827
 Simteckcard Plant Limited	3862
 Small Hydro and Wind Power Generating Plants	12256
@@ -244,8 +253,11 @@ Solar PV Electricity Generation Plant	15702
 Solar Power Plants	16468
 Standard. The Plant Pathology Laboratory	14721
 Stationary Plant and Machine Operators	16266
+Storing Plant Protection Products Storing	19554
 Sumqayit Wastewater Treatment Plant Project	18561
 Support Libya’s National Plant Biotechnology Research	17157
+Tanzania Area Area Planted	19554
+Tanzania Area Area Planted Area Applied	19554
 Terracing of Sloped Lands Plant	17157
 Tesla Cascading Hydro Plant	14745
 Thermal Plant Phase	18977

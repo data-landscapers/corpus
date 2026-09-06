@@ -95,8 +95,16 @@ Ouagadougou. Placée	3592
 Ouagadougou. Placées	3927
 Ouganda. Placée	15942
 PAGIR. Placée	15908
+PHC Place of Population	19542
+PHC Place of Residence	19542
+PHC Place of Residence Literacy	19542
+PHC Place of Residence Population	19542
+PHC Place of Residence Pre	19542
+PHC Place of Residence Pre-Primary Primary Lower	19542
+PHC. Place of Residence Attendance Status Tanzania	19542
 PLACE	15574,2259
 PLACE DU POINT D’ECHANGE INTERNET	17832
+PLACE DU SGMT	19501
 PLACE LTD Data Processor INST-9941250204F	7167
 PLACEMENT ET ASSIMILES	17841
 PLACEMENTS A L’ETRANGER	17485
@@ -112,7 +120,7 @@ Placa	11373
 Placa de Publicidade	2866
 Placas	11373
 Placas Toponímicas	11373
-Place	8,11,9,2,9,38,41,47,13,123,283,32,11,63,55,4,78,131,88,366,239,337,154,95,105,2000,173,405,36,43,156,190,65,70,60,136,3,242,62,257,354,130,426,121,85,408,122,341,319,15,1,81,31,125,95,44,42,5,54,23,10,7,4,32,8,11,15,48,1,5,62,9,1,34,12,39,39,63,1,129,13,3,2,1,19,3,1,26,11,36,22,5,1,53,17,1,67,11,21,24,15,41,3,38,41,52,1,3,40,7,45,5,55,7,8,57,4,18,77,23,72,59,18,157,39,87,21,207,121,43,34,5,6,7,2,10,41,221,242,115,250,27,85,29,6,1,36,122,161,226,11,323,1,1,1,1,1,1,1,1,1,5,466,38,208,329,120,433,32,48,86,29,191,69,239,381,330,131,164,101,110,1,3,2,1,5,15,16,8,7,9,4,27,51,14,2,13,21,97,40,19,46,312,52,446,24,25,5,2,391,10,1,115,39,181,209,172,63,143
+Place	8,11,9,2,9,38,41,47,13,123,283,32,11,63,55,4,78,131,88,366,239,337,154,95,105,2000,173,405,36,43,156,190,65,70,60,136,3,242,62,257,354,130,426,121,85,408,122,341,319,15,1,81,31,125,95,44,42,5,54,23,10,7,4,32,8,11,15,48,1,5,62,9,1,34,12,39,39,63,1,129,13,3,2,1,19,3,1,26,11,36,22,5,1,53,17,1,67,11,21,24,15,41,3,38,41,52,1,3,40,7,45,5,55,7,8,57,4,18,77,23,72,59,18,157,39,87,21,207,121,43,34,5,6,7,2,10,41,221,242,115,250,27,85,29,6,1,36,122,161,226,11,323,1,1,1,1,1,1,1,1,1,5,466,38,208,329,120,433,32,48,86,29,191,69,239,381,330,131,164,101,110,1,3,2,1,5,15,16,8,7,9,4,27,51,14,2,13,21,97,40,19,46,312,52,446,24,25,5,2,391,10,1,115,39,181,209,172,63,143,179
 Place An Advert	9253
 Place An ICT	958
 Place At Any Table	8644
@@ -146,15 +154,21 @@ Place of Incorporation Company Registration Number	12364
 Place of Locality	16921
 Place of Occurrence	2775,9376,75,446
 Place of Occurrence and Sex of Decedent	12672
+Place of Population	19542
 Place of Registration of Adoption	12226
 Place of Registration of Birth	12226
 Place of Registration of Death	12226
 Place of Registration of Divorce	12226
 Place of Registration of Marriage	12226
-Place of Residence	16921,193,13
+Place of Residence	16921,193,13,2415
 Place of Residence Kerosine Palm	16921
+Place of Residence Population	19542
+Place of Residence Pre	19542
+Place of Residence Pre-Primary Primary Lower Secondary	19542
 Place of Residence Urban Place of Residence Rural	10829
-Place of Residence and Sex	16921
+Place of Residence and Region	19542
+Place of Residence and Region Primary NERs	19542
+Place of Residence and Sex	16921,2621
 Place of Residence and Sex of Household Head	16921
 Place of Residence and Sex of Household Head Male	16921
 Place of Usual Residence	13644
@@ -212,10 +226,11 @@ SUR PLACE	13468
 SURVEILLANCE SUR PLACE OU SUR SITE	13468
 Sabané. Placée	8656
 Safe Place	16244
+School Attendance Status and Place of Residence	19542
 Secteur Bancaire Place	3715
 Semawata Place	13313
 Service. Placé	16381
-Sex and Place of Residence	16921
+Sex and Place of Residence	16921,2621
 Sex and Place of Residence Urban Rural	16921
 Signature Placeholder	16212
 Suecia BARBOU DES PLACES	6613
@@ -230,8 +245,10 @@ Third Schedule. Time and Place of Supply Time	17108
 Tonkpi. Placée	9717
 Training and Placement Scheme	14742
 Type Toilet Facility and Place of Residence	16921
+Type and Place of Residence	19542
 Type of Toilet Facility and Place of Residence	16921
 Type of Toilet Facility and Place of Residence Urban	16921
+Urban Place of Residence Primary School Lower	19542
 VII. MISE EN PLACE DU MÉCANISME	16104
 VII.Glossary of Terms A Accelerator- Places	16872
 VISITS TO PLACES OF DETENTION	13097

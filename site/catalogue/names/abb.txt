@@ -10,7 +10,7 @@ ABBREVIATION	12358
 ABBREVIATION AND ACRONYMS ADF African Development	11863
 ABBREVIATION AND DEFINITION AHSPR Annual Health	16971
 ABBREVIATION ROAR	17101
-ABBREVIATIONS	718,222,878,2396,3334,215,2092,938,391,8,36,1719,2000,594,1374
+ABBREVIATIONS	718,222,878,2396,3334,215,2092,938,391,8,36,1719,2000,594,1374,2670
 ABBREVIATIONS ABS Agricultural Bank of Sudan CBoS	15118
 ABBREVIATIONS ACRONYMS	11192
 ABBREVIATIONS ADB African Development Bank AfCFTA	11271
@@ -32,10 +32,13 @@ ABBREVIATIONS AND ACRONYMS ADF ADFI ADDS	13938
 ABBREVIATIONS AND ACRONYMS ADF Automatic Document	34
 ABBREVIATIONS AND ACRONYMS ADSL Asymmetric Digital	18887
 ABBREVIATIONS AND ACRONYMS AF Additional Financing	11417,507,4972,2388
+ABBREVIATIONS AND ACRONYMS AF1 First Additional	19455
 ABBREVIATIONS AND ACRONYMS AFD Agence Francaise	15969
 ABBREVIATIONS AND ACRONYMS AFD French Development	15659
 ABBREVIATIONS AND ACRONYMS AGER Autoridade Geral	18851
+ABBREVIATIONS AND ACRONYMS AHSPP Annual Health	19544
 ABBREVIATIONS AND ACRONYMS AI Artificial Intelligence	17114
+ABBREVIATIONS AND ACRONYMS AIDS Acquired Immunodeficiency	19531
 ABBREVIATIONS AND ACRONYMS AMA Administrative Master	17962
 ABBREVIATIONS AND ACRONYMS ANE CERC CERC	1228
 ABBREVIATIONS AND ACRONYMS ANSSI National Cybersecurity	16384
@@ -86,6 +89,8 @@ ACRONYMS AND ABBREVIATIONS SECTION	15790
 ACRONYMS Abbreviation Full	11261
 AHMAT ABDERAHIM ABBO	18926
 AI List of Abbreviations AI Artiﬁcial Intelligence	1204
+AIDS LIST OF ABBREVIATIONS ARISE CBOs	19520
+ALAT ABBREVIATIONS AMCL APA Association of Local	19585
 APL Adaptable Program Loan ARAP Abbreviated	15511,2351
 ARAP Abbreviated Action Plan AU African	18754
 Aanchal Anand ABBREVIATIONS AND ACRONYMS AFD	18293
@@ -105,11 +110,13 @@ Abbott M2000 RT	13617
 Abbreviared-Report-Version.pdf	14997
 Abbreviated Resettlement Action Plan	15511
 Abbreviated Resettlement Action Plan AID Country	15424
-Abbreviation	1261,9601,1496,3262,1545,201,1159,42,3,75,79
+Abbreviation	1261,9601,1496,3262,1545,201,1159,42,3,75,79,889
 Abbreviation ABE Accelerated Basic Education	14916
 Abbreviation Affiliation Role Development Data Group	15844
+Abbreviation Affiliation Role NATIONAL BUREAU	19613
 Abbreviation Definition AGR Annual Growth Rate	11228
 Abbreviation Description NPA National Prosecuting Authority	11250
+Abbreviation Description OAS Online Application System	19584
 Abbreviation Expansion PPP Public Private Partnerships	12917
 Abbreviation Full	11261,3529
 Abbreviation Full Wording CCS Collective Sudan	6947
@@ -130,6 +137,7 @@ Abbreviations ASCENT Accelerating Sustainable	12233
 Abbreviations AU African Union	12786
 Abbreviations Acronym Description AELP African Exchanges	14997
 Abbreviations And Acronyms	958
+Abbreviations And Acronyms CGD Citizen-Generated Data	19555
 Abbreviations Article	12616
 Abbreviations BOCRA	12538
 Abbreviations BTS Base	12911
@@ -164,7 +172,10 @@ Abbé Venant Mpozako	13405
 Abdallah Wahib Jabbour ABBREVIATIONS AND ACRONYMS	15511
 Abdatt Abba Bouhoubeini	17895
 Abdo Said Abdo. ABBREVIATIONS AND ACRONYMS	13860
-Acronyms and Abbreviations	970,5862,114,4304,901,523,304,368,1509,204,388,33,1495,17,124,144
+Acronym And Abbreviations	19557
+Acronyms Abbreviation Explanation AMHS Aeronautical Message	19533
+Acronyms and Abbreviations	970,5862,114,4304,901,523,304,368,1509,204,388,33,1495,17,124,144,2294
+Acronyms and Abbreviations AASS Annual Agriculture Sample	19554
 Acronyms and Abbreviations ACP Africa	970
 Acronyms and Abbreviations AIR Annual Implementation Report	15604
 Acronyms and Abbreviations AOP Annual Operating Plan	17441
@@ -206,6 +217,7 @@ Contents Abbreviations	4127,7425,1396
 Contents Abbreviations and Acronyms	13359
 Contents List of Abbreviations Table of Contents I	17745
 DGEC-EPPNF DGENF DGESS DTICE ABBREVIATIONS	15743
+Data Collectors Name Affiliation Abbreviation NATIONAL	19613
 Digital Economy Abbreviation	13084,675,2084,1,2,819,380,880
 Digital Lilangeni Design Paper List of Abbreviations	11130
 Digital Nation. ABBREVIATIONS AI Artificial	16915
@@ -248,6 +260,7 @@ III ACRONYMS AND ABBREVIATIONS	16041
 III. ACRONYMS AND ABBREVIATIONS	12939
 III. ACRONYMS AND ABBREVIATIONS CP Child	12939
 IV Abbreviations and Acronyms ANC Antenatal Care	16935
+IV LIST OF ABBREVIATIONS	19520
 Indira Bongisa Lekezwa ABBREVIATIONS AND ACRONYMS	14976
 Ioana Alexandra Botea ABBREVIATIONS AND ACRONYMS	15782
 J. Abbott	11140
@@ -260,11 +273,12 @@ Khadidja ABBAD	15507
 Kicukiro Abbarci Petroleum Marketing Jabana	718
 Kinondoni MP Tarimba Abbas	5977
 LIST OF ABBREVIATED TERMS Alternative Dispute	11956
-LIST OF ABBREVIATIONS	1000,3126,88,7004,6,3499,934,1243,1887
+LIST OF ABBREVIATIONS	1000,3126,88,7004,6,3499,934,1243,1887,797
 LIST OF ABBREVIATIONS AND ACRONYMS	14985,2058
 LIST OF ABBREVIATIONS AND ACRONYMS AEO	14985
 LIST OF ABBREVIATIONS AND ACRONYMS ARREST	17043
 LIST OF ABBREVIATIONS AU	12403
+LIST OF ABBREVIATIONS Abbreviation Description Afya	19584
 LIST OF ABBREVIATIONS Abbreviation Full Form	6936
 LIST OF ABBREVIATIONS AfCFTA Africa Continental	4126
 LIST OF ABBREVIATIONS BWA Broadband Wireless	2776
@@ -321,6 +335,7 @@ Monsalve Montiel ABBREVIATIONS AND ACRONYMS ADECOS	10768
 Monsieur Ahmat Abderahim Abbo	18926
 Morten Larsen ABBREVIATIONS AND ACRONYMS	2889
 Mr. Suleiman Abboud	16946
+NAOT-AR06-05C-2024 CAP LIST OF ABBREVIATIONS	19541
 NBR National Bank of Rwanda List of Abbreviations	15023
 Natalija Gelvanovska-Garcia. ABBREVIATIONS AND ACRONYMS	11965
 Natasha De Andrade Falcao ABBREVIATIONS	18765
@@ -362,6 +377,7 @@ Single Window Abbreviations PGA Partner Government	16631
 Skikda Sidi Bel Abbès Annaba Guelma	16085
 Somalia. Mohamed Abbi Hassan General Director	14896
 Sparkle Haskoning ABB AFR-IX Mercury Engineering	10861
+Sponsor Name Abbreviation Role Government	19613
 State Abbreviation International	11129
 Sétif Sidi Bel Abbès Annaba Guelma	15690
 TABLE OF CONTENTS ABBREVIATION AND DEFINITION	16971
@@ -381,9 +397,12 @@ Table of Contents Acronyms and Abbreviations	6832
 Table of Contents List of Abbreviations and Acronyms	19042
 Tajudeen Abbas	18244,17
 Tanya Savrimootoo ABBREVIATIONS AND ACRONYMS AFD	15661
+Tanzania Acronym And Abbreviations CIP Census	19557
 Thomas Bossuroy ABBREVIATIONS AND ACRONYMS ANSD	18301
 Translated Document ABBREVIATIONS AND ACRONYMS AAI	13731
 User Contents List of Abbreviations	14745
+V LIST OF ABBREVIATIONS AND ACRONYMS	19541
+XI ABBREVIATIONS AND ACRONYMS	19544
 Xavier Decoster ABBREVIATIONS AND ACRONYMS AI	19245
 Yahya ABBE	17871
 Yoonyoung Cho ABBREVIATIONS AND ACRONYMS	15138

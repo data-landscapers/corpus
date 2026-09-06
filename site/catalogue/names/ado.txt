@@ -22,6 +22,9 @@ ADOKI Akila-Esso ADJ	19251
 ADOKO Atiyodi SCH	19251
 ADOKOUM Manah Animdeou SCH	19251
 ADOLESCENT BIRTH RATE	16892
+ADOLESCENT REPRODUCTIVE HEALTH	19544
+ADOLESCENTS FAMILY PLANNING COVERAGE	19544
+ADOLESCENTS FAMILY PLANNING COVERAGE Adolescents	19544
 ADOM Baoubadi SGT	19251
 ADOM Essotolom Pyabalo SGT	19251
 ADOM Komla Tchindo ADJ	19251
@@ -113,6 +116,7 @@ Adobe Flash	15161
 Adobe Illustrator	1984
 Adobe InDesign	1940,837,3151,508,1918,2568
 Adobe Photoshop	1984
+Adobe Portable Document Format	19545
 Adobe Reader	12018,242
 Adobe Stock	10764,799,776,4657,747,1097
 Adobe Suite and Canva	14999
@@ -123,11 +127,12 @@ Adocumented	5113
 Adogbénou Anié Est-Mono1	19350
 Adohoun	16362
 Adolescence	18441
-Adolescent	771,10058,134,1,453,721,13,889,434,3477,1490,496
+Adolescent	771,10058,134,1,453,721,13,889,434,3477,1490,496,594,13
 Adolescent Age	16971
 Adolescent Birth	18441
 Adolescent Birth Rate CBR Crude Birth	16950
 Adolescent Boys	18441
+Adolescent Development Health Services	19544
 Adolescent Girls	18441
 Adolescent Girls Advisory Panel	9861
 Adolescent Girls Advisory Panel and Fanell Decontee	9861
@@ -148,6 +153,8 @@ Adolescent Pregnancy	12151,889
 Adolescent Psychiatry	8604
 Adolescent Reproductive Health	16951
 Adolescent Reproductive Health Adolescents	16951
+Adolescent Sexual Reproductive Health	19544
+Adolescent and Youth Friendly Reproductive Health	19544
 Adolescent and Youth Programme Analyst	12776
 Adolescent and Youth Sexual	10865
 Adolescent-Responsive Action and Population Data	9766
@@ -155,8 +162,9 @@ Adolescente	14622,1072
 Adolescente Soins de Santé Primaires Strategic Tool	14622
 Adolescentes	10777,649,7336
 Adolescentes. Os	18762
-Adolescents	899,9930,2211,260,3422,152,1438,58,71
+Adolescents	899,9930,2211,260,3422,152,1438,58,71,1090,13
 Adolescents Achieving	18441
+Adolescents Family Planning Coverage	19544
 Adolescents SNIS	15685
 Adolescents The Adolescent Population	18441
 Adolescência	10777
@@ -196,7 +204,7 @@ Adonis MBATOUNG	16175
 Adonisi and Others	14673
 Adopción	1701,15197
 Adopon	9129
-Adopt	958,3,39,9,239,529,37,645,1124,291,340,1030,433,675,80,10,390,104,12,1,2,597,61,312,1208,16,1270,360,229,136,16,154,547,49,35,23,22,241,101,71,45,119,31,81,302,318,18,1,17,347,190,123,158,525,77,26,4,37,47,14,10,58,50,133,17,17,80,203,174,92,226,21,228,24,362,289,9,12,40,3,12,36,21,21,97,25,18,78,25,36,399,175,435,218,6,2,6,83,175,90,46,51,252,25
+Adopt	958,3,39,9,239,529,37,645,1124,291,340,1030,433,675,80,10,390,104,12,1,2,597,61,312,1208,16,1270,360,229,136,16,154,547,49,35,23,22,241,101,71,45,119,31,81,302,318,18,1,17,347,190,123,158,525,77,26,4,37,47,14,10,58,50,133,17,17,80,203,174,92,226,21,228,24,362,289,9,12,40,3,12,36,21,21,97,25,18,78,25,36,399,175,435,218,6,2,6,83,175,90,46,51,252,25,283
 Adopt AI	12356,2456
 Adopt AI Governance Frameworks Ahead of Regulatory	11138
 Adopt Cloud	13987
@@ -237,7 +245,7 @@ Adopted Q2	1777
 Adopted Smart Applications	16885
 Adopted the National QA and Patient Safety Strategic	12729
 Adopter	998,6285,716,892,650,1333,2,1068,1346,11,89,43,376,614,2,104,943,111,41,114,61,2,135,609,81,1198,39,9,22,89,116,81,111,15,10,1,2,648,254,140
-Adopting	1000,777,247,72,3149,288,387,1758,81,262,1108,1022,690,355,22,529,208,5,26,215,5,8,119,62,919,32,522,70,843,37,179,167,80,269,40,1280,39,4,8,2,37,1,36,154,43,100,73,420,143,877,181,31
+Adopting	1000,777,247,72,3149,288,387,1758,81,262,1108,1022,690,355,22,529,208,5,26,215,5,8,119,62,919,32,522,70,843,37,179,167,80,269,40,1280,39,4,8,2,37,1,36,154,43,100,73,420,143,877,181,31,538
 Adopting AI	4126,4869,5791
 Adopting Best Practices	12376
 Adopting Cloud Services	6432
@@ -253,10 +261,11 @@ Adopting the EMIS Norms and Standards	13310
 Adopting the Norms and Standards	13310
 Adopting the Scheme	16908
 Adoptingaprivacy-by-designstrategywould	8606
-Adoption	21,622,100,1034,211,354,237,369,212,2,68,319,55,183,12,60,267,304,98,145,189,370,9,4,41,63,326,2,5,406,344,181,315,210,13,4,305,88,25,82,366,1,104,4,110,827,62,108,951,191,2,310,4,16,101,29,15,18,40,63,29,132,2,627,90,49,58,30,171,23,22,4,51,72,1,18,11,18,28,99,82,135,258,121,182,16,25,1,9,92,9,71,148,789,87,2,10,17,157,13,16,67,178,45,14,108,208,39,63,19,60,30,38,38,2,74,23,2,9,30,49,53,16,19,2,23,8,68,165,17,263,135,19,5,13,60,8,110,16,5,30,1,39,1,18,24,138,12,123,78,77,109,26,313,18,10,2,10,12,2,11,32,86,35,50,6,5,170,25,33,6,52,78,52,366,105,55,1,125,32,20,4,115
+Adoption	21,622,100,1034,211,354,237,369,212,2,68,319,55,183,12,60,267,304,98,145,189,370,9,4,41,63,326,2,5,406,344,181,315,210,13,4,305,88,25,82,366,1,104,4,110,827,62,108,951,191,2,310,4,16,101,29,15,18,40,63,29,132,2,627,90,49,58,30,171,23,22,4,51,72,1,18,11,18,28,99,82,135,258,121,182,16,25,1,9,92,9,71,148,789,87,2,10,17,157,13,16,67,178,45,14,108,208,39,63,19,60,30,38,38,2,74,23,2,9,30,49,53,16,19,2,23,8,68,165,17,263,135,19,5,13,60,8,110,16,5,30,1,39,1,18,24,138,12,123,78,77,109,26,313,18,10,2,10,12,2,11,32,86,35,50,6,5,170,25,33,6,52,78,52,366,105,55,1,125,32,20,4,115,172,23,29
 Adoption A2-Data Localisation Rates	7548
 Adoption Act	18440
 Adoption Act Chapter	12449
+Adoption Cameroon	19622
 Adoption Certificates Unavailable	14045
 Adoption Cost	16884
 Adoption Gaps	12214
@@ -277,6 +286,7 @@ Adoption SIM	14897
 Adoption Still Falls Short	5232,265
 Adoption Support Bill	1097
 Adoption Without Execution	7707
+Adoption and Application	19474
 Adoption and Application of Standards	12895
 Adoption and Development of Statistics Plans	17116
 Adoption and Opportunities for Reform	17745
@@ -322,6 +332,7 @@ Adoption of Sector Platforms	17884
 Adoption of Sudan's Resolution	15032
 Adoption of Sustainability Policy	10718
 Adoption of Technology and Data Systems	15845
+Adoption-Related Challenges Respondents	19555
 Adoption. Caribou Publishing	11007
 Adoption. Multistakeholder Governance for DPI	11006
 Adoptionof	8602
@@ -332,7 +343,7 @@ Adoptons	3719,11308,383,424,3
 Adopts	2606,16189
 Adopts AI Governance Framework The National	16202
 Adopts AI Governance Framework URL	16202
-Adopté	3946,5335,2445,1615,1043,1079,2379,1378
+Adopté	3946,5335,2445,1615,1043,1079,2379,1378,230
 Adoptée	2950,1779,6359,2202,2198,707,537,1386,1170
 Adoptés	19260
 Adopção	2816,8544,7421,15,173
@@ -454,6 +465,7 @@ Convention de Hanoï. Adoptée	14403
 Corporate AI Adoption Excellence Award	17784
 County Youth and Adolescent Network Data Controller	7167
 County Youth and Adolescent Network Data Processor	7167
+Critical Challenges Impeding Big Data Adoption	19555
 Culture of Customer Experience Adopt Legal and Excellence	6946
 D.G. DE INFANCIA Y ADOLESCENCI	4209
 D.G. DE INFANCIA Y ADOLESCENCIA	4209
@@ -518,6 +530,7 @@ Efficiency Measures Adopted	10864
 Egypt Adonijah Ndege	3737
 Emerging Technologies Adoption Regulations	7548
 Emerging Technologies. Adopt	7548
+Enhanced Technology Adoption	19532
 Environmental and Social Responsibility Adopt	17011
 Esso-Wavana Ahmed Adoyi	8719
 Ethical AI Adoption Framework	14812
@@ -739,6 +752,7 @@ NATIONALE A DELIBERE ET ADOPTE	15643,2458
 NCA Director General Napoleon Adok Gai	2302
 NCC Adopted Q4	1777
 NCC MOPT Adopted Roadmap Q3	1777
+NEONATAL CHILD AND ADOLESCENT HEALTH	19544
 NTIRABAMPA Adonis Représentant du Secrétaire Permanent	13341
 NUMERIQUE Maître Ado Patricia Marlène MATISSA	15488
 Nacional Adolfo Edjang Nsok Nsomo	4209
@@ -748,6 +762,7 @@ National Roadmap for Somalia's Adoption of ONA	14979
 National Total of Adolescents Presenting	2775
 Nationwide Validation of Adoption and Impact	13095
 Natural Farming Zones Adoption	14818
+Neonatal Child and Adolescent Health	19544
 Note Adopted	13370
 Number of Adolescents	2775
 OMS Adoptée	16195
@@ -773,6 +788,7 @@ PS-4 Transparent Adopt	11857
 Par Hervé Adou	10266
 Pascal Adongo Ogola	15129
 Pending Adopt	16872
+Percentage of Adolescent Deliveries	19544
 Pillars AI Adoption and Service Transformation AI	4528
 Place of Registration of Adoption	12226
 Plan for National Large-Scale NCC Ministry of Adopted	1777
@@ -780,10 +796,12 @@ Pointe-Noire MAITRE ADO PATRICIA MARLENE MATISSA	16100
 Poor Project High Adopt	16884
 Pour M. Adoua	7374
 Pour M. Guy Adoua	7374
+Pregnant Adolescent Women Attending	19544
 Prime Minister. ADOPTE	14862
 Prioritized Adoption	7548
 Private Sector Adoption and KPI Monitoring Design	4126
 Private Sector Service Providers Adopt	16872
+Prof. Adolf F. Mkenda	19565
 Promote AI Adoption	4126
 Promote Responsible AI Adoption Outcome Indicators	12356
 Proyecto de Asistencia Adopción de Menores	4209
@@ -866,10 +884,12 @@ Supporting Digital Adoption	18350,9
 Sustainability Adoption	14818
 TECHNOLOGY ADOPTION	6000
 Tanzanie. Adoni Conrad Quenum Edité	8096
+Tech Partnership and Adoption Framework	19565
 Technology Adoption Barriers	17139
 Tourism ASRH Adolescent Sexual and Reproductive Health	17289
 Training Institutions Information System Adopt	12453
 Transport. III ADOPTER LES SOLUTIONS ERD	16037
+Trend of Adolescents Received Family Planning Methods	19544
 Trustworthy AI Adoption	1204
 U.N. Adopts Landmark NTD Resolution	965,3924,206
 UAM. Adoption	18121
@@ -896,6 +916,7 @@ World Bank Digital Adoption Index	12659
 X X Adopting	236
 Yanos Adotévi	5260
 Year for AI Adoption	4126
+Years Of Age And Adolescents	19544
 Youssouf Ismael Adolphe	13757
 ZWS ARS ISO ADOPTIONS	13385
 ZWS COMESA ADOPTIONS	13385

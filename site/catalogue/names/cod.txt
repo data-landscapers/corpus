@@ -57,6 +57,7 @@ Angolan Criminal Code	3722
 Any Code of Practice	14727
 Appeals. PART VIII CODE OF CONDUCT	13319
 Applicant Code	12367
+Application Insufficient Coding High	19533
 Application for Short Code	17250
 Application of Code of Practice	14594
 Approved Codes of Conduct	13381
@@ -269,6 +270,7 @@ Civil Code of Seychelles Act	18883,35,219,1
 Civil Code. MINALOC	12413
 Civil Code. Yet	15473
 Civil Procedural Code	12161
+Civil Procedure Code	19524
 Civil Processual Code	12201
 Civil Registration Code	10765,10,1392,6610
 Civil Registration Code of Mozambique	12167
@@ -317,6 +319,7 @@ Code Date Issued Licensee Description Non-Compliance	16978
 Code Descri	11180
 Code DescriDtion	11180
 Code Description	11180
+Code Description Indicators	19519
 Code Description Non-Compliance Action	16978
 Code Description Page27of35	11180
 Code Description Table	11180
@@ -376,7 +379,7 @@ Code Owner N	9124
 Code PAP	15908
 Code Penal	13292
 Code Postal	17902
-Code Pénal	743,488,10349,2297,984,1,487,2,113,96,83,84,890,1205,6,396
+Code Pénal	743,488,10349,2297,984,1,487,2,113,96,83,84,890,1205,6,396,1144
 Code Pénal. Art	15643
 Code Pénal. Art.87	15643
 Code Pénal. Article	1231,14366,130
@@ -410,7 +413,7 @@ Code and Continuity	12131
 Code and Disclaimer	17114
 Code de Bonne Gouvernance	18988
 Code de Bonnes Pratiques des Statistiques Européennes	17474
-Code de Commerce	13828,889,3100,1099
+Code de Commerce	13828,889,3100,1099,585
 Code de Conduite	14431,57,1,1
 Code de Douanes	4567
 Code de Déontologie	14537,1094,47,100
@@ -792,6 +795,7 @@ Coding4Girls	2989,1664
 Codinger	7053
 Codirecteur	14712
 Codjo Raymond GODEMIN Cour Spéciale des Affaires	17584
+Codm. Nmittees of Township Authorities	19525
 Codou Jabang. The Commission	17335
 Codre	15429
 Codsadaha	15153
@@ -1029,7 +1033,7 @@ Finance Code	15023
 Finances Charge du Budget CODIORO MOUSSA N'GUENOR	17901
 Fiscal Benefit Code	18797
 Fiscal Benefits and Incentives Code	18797
-Forestry Code	10841
+Forestry Code	10841,8781
 French Civil Code	14761,712
 French Code	15901
 G and Fiber Code Action Description Objective	15713
@@ -1073,6 +1077,12 @@ Grid Code. Article	14867
 Guidance for Design Price Code	13385
 Guidelines and Code	7548
 Guidelines and Code of Technology	7548
+Guidelines for Source Code Access Controls	19575
+Guidelines for Source Code Documentation	19575
+Guidelines for Source Code Maintenance	19575
+Guidelines for Source Code Management	19575
+Guidelines for Source Code Repository Systems	19575
+Guidelines for Source Code Storage and Version Control	19575
 Guinea-Bissau Copyright Code	11550
 H-index Weaknesses Rank Code	12205
 H. S. Codes	18450
@@ -1083,10 +1093,11 @@ H.S. Codes Refrigerator	14814
 HF CPE-COD-ENV- Conforme CODAN	998
 HIT Can Code	13688
 HS CODE	18577
-HS Code	6921
+HS Code	6921,12681
 HS Code Description Industrial Development Levy	6921
 HS Code Description Rate	13122
 HS Code1604.1but	18541
+HS Codes	19602
 HSC Health Safety Code ICT Information	9855
 HTTP CODE	12478
 Harmonised Commodity Description and Coding System	11258,5585,265
@@ -1196,6 +1207,7 @@ LIBERIAN CODE OF-LAWS REVISED	16833
 LIBERIAN COMMERCIAL CODE	14647
 LIEU CODE D’ACCOUCHEMENT	13300
 LINKS TO SECTORAL DAC CODES	970
+LIPA NAMBA and QR Codes	19602
 LMIS- Adopted the Automated Therapeutic Coding System	16971
 LOW CODES TARIFF PER TRANSACTION PRICING	16844
 LTA. Country Code	16934
@@ -1404,7 +1416,7 @@ PROJECT NAME AND SAP CODE	11863,2075
 PROV NET Code	18032
 PUBLICS. Code	17812
 Parliamentary Service Code of Conduct	19161
-Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699,224,22,56,5,27,76,1,711,1,145,224,162,1442,1115,648,288,2,32,253,192
+Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699,224,22,56,5,27,76,1,711,1,145,224,162,1442,1115,648,288,2,32,253,192,160
 Penal Code Act	1535,3887,7981
 Penal Code Cap	11857,596,892
 Penal Code Chapter	1988
@@ -1455,7 +1467,7 @@ Public Procurement and Public Service Delegation Code	19365
 Publicity Code	12294
 Purpose and Scope This Code of Conduct	6432
 QR CODE	13123,2502
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27,131,261,3,537,214,471,56,226,22,1014,344,1562,54
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27,131,261,3,537,214,471,56,226,22,1014,344,1562,54,172
 QR Code Awareness	19007
 QR Code Communautaire. URL	19190
 QR Code GIMACPAY	4208
@@ -1475,6 +1487,7 @@ QUESTIONS ET FILTRES CODES ALLEZ	13300
 QUESTIONS ET FILTRES CODES PASSER	13300
 QUESTIONS ET FILTRES CODES PASSEZ	13300
 Qr Code	7269
+Quick Response Code	19431
 Quick Response Code Indonesian Standard	11994
 R NA Codes	16103
 R3 Modernisation du Code du Travail	19221
@@ -1581,6 +1594,7 @@ Senior AI Expert Cultivation and Attraction Code	15713
 Service Code	16934
 Service Code Allocations	16934
 Service Code Allocations Service Code Service	16934
+Service RFP Source Code Management SaaS	19575
 Sewers Price Code	13385
 Seychelles Code of Civil Procedure	18883
 Seychelles Penal Code. Protection	19173
@@ -1686,6 +1700,7 @@ UN Supplier Code of Conduct. III. Content	17068
 URGENT CODES TARIFF PER TRANSACTION PRICING	16844
 USSD Code	12465
 USSD Code Application for Premium Rate Number	17250
+USSD Short Codes	19534
 UTILISEZ LES CODES LETTRES	13300
 Un Code	13784
 Un QR Code	16545
@@ -1701,6 +1716,7 @@ Urban Planning and Urban Land Code	10930
 Urban Ref. Code	11180
 V du Code	17443
 V-24 du Code	14483
+VAS SMS Short Code	19534
 VAT Code	15924
 VIOLENCES BASÉES SUR LE GENRE CODES	13300
 VISITS RESULT CODES	582
@@ -1715,7 +1731,7 @@ Valves Price Code	13385
 Victims Under Ethiopia’s Criminal Procedure Code	11607
 Voluntary Code of Conduct	16212
 Voluntary Codes	16212
-Vu le Code	13293,1190,60
+Vu le Code	13293,1190,60,4841,1,1
 Vu le Code Général des Impôts	14463
 VÉRIFIEZ LE CODE	13300
 WAPP Regional Grid Code	18537

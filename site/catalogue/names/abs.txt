@@ -9,6 +9,7 @@ ABSA BANCASSURANCE INTERMEDIARY LIMITED Data Controller	7167
 ABSA BANK	18489
 ABSA BANK KENYA PLC Data Controller	7167
 ABSA BANK KENYA PLC Data Processor	7167
+ABSA BANK TANZANIA LIMITED	19592
 ABSA Bank Limited	7198,5054
 ABSA LIFE ASSURANCE KENYA LIMITED Data	7167
 ABSA SECURITIES LIMITED Data Controller INST-8613087D7B3	7167
@@ -84,7 +85,7 @@ Absa-led	1951
 Absar	7106
 Absa’s Managing Director	10051
 Absa’s R31.4	10217
-Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263,543,282,20,9,83,15,3,50,884,5,19,79,40,244,293,87,368,124,21,24,224,42,36,27,12,62,132,264,36,44,1,6,62,14,24,3,90,39,189,7,28,101,291,69,211,314,5,15,1,802,97,3,11,14,3,9,19,242,28,115,5,6,22,51,245,1,326,25,21
+Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263,543,282,20,9,83,15,3,50,884,5,19,79,40,244,293,87,368,124,21,24,224,42,36,27,12,62,132,264,36,44,1,6,62,14,24,3,90,39,189,7,28,101,291,69,211,314,5,15,1,802,97,3,11,14,3,9,19,242,28,115,5,6,22,51,245,1,326,25,21,531,2,10,3,50,1
 Absence Forces Delay In Kidnapping Trial	7312
 Absence de Attente	10975
 Absence de Brand	16641
@@ -94,6 +95,7 @@ Absence de Souveraineté	10874
 Absence of Additional Government Licenses	12389
 Absence of Additional Restrictions	12389
 Absence of Additional Taxes	12389
+Absence of Approved Loan Management Guideline	19585
 Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Armed Conflict1	11889
@@ -112,6 +114,9 @@ Absence of Forced Migration Trend Bouncing Back	11870
 Absence of Forced Migration and Laws	12153
 Absence of Forced Migration. Trend Bouncing Back	12353
 Absence of Forced Migration1	11870
+Absence of Formal IT Risk Assessment Processes	19584
+Absence of Formal User Acceptance Testing	19584
+Absence of Formal User Account Management Procedures	19584
 Absence of Fossil Fuel Subsidy	12389
 Absence of General Directorate	14860
 Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
@@ -119,6 +124,7 @@ Absence of Independent Oversight	6512
 Absence of Labor Market Tests for Foreign Contractual	12389
 Absence of Limits	12389
 Absence of Local Tax Presence Requirements	12389
+Absence of Maintenance	19585
 Absence of Mandatory Use of Certified Operators	12389
 Absence of Members	18436
 Absence of National Open Data Portal. Actual	13970
@@ -135,6 +141,8 @@ Absence of Recognition	12246
 Absence of Restriction	12389
 Absence of Restrictions	12389
 Absence of Restrictions Subject	12389
+Absence of Tanzania Severe	19534
+Absence of Tanzania Startup Policy	19534
 Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absences	1988,8888,4151
@@ -146,6 +154,7 @@ Absentee Land Lords	12912
 Absentee Voting Article	15393
 Absenteeism	969
 Absentéisme	737
+Absequent	19525
 Absher	10714
 Absolu Relatif	16714
 Absolument	7830
@@ -167,7 +176,7 @@ Abstention	12201,3526,520
 Abstentions	6613
 Abster-se	10755,675,98
 Abstinence	13300
-Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019,397,201,445,327,50,17,683,287,887,628,112,12,1,872,318,321
+Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019,397,201,445,327,50,17,683,287,887,628,112,12,1,872,318,321,261,68
 Abstract ABSTRACT	17750
 Abstract ABSTRACT Tourism	17751
 Abstract AI	7451
@@ -225,12 +234,14 @@ Abstract.pdf	18627
 AbstractMobile	4439
 Abstraction	8603,8554
 Abstraction Level Incompatibilities	12360
+Abstracts	19519
 Abstêm-se	18753
 Absu-Cep Absu-Cep Traitement	10821
 Academic Year Education Statistics Annual Abstract	13994
 Annual Abstract	13991
 Annual Statistical Abstract	16833
 Annual Statistical Abstract and County Statistical	2775
+Annual Statistical Abstracts	19519
 Annual Volume of Water Abstracted	2775
 Anti-Corruption Mechanisms Absence of Corruption	10837
 Avertissement Absence	10876
@@ -284,6 +295,7 @@ Equatorial Guinea. Absence	16942
 Extended Abstracts	8460
 FDRE Ministry of Education Statistics Annual Abstract	13991
 Federated Repository of Academic Theses and Abstracts	18206
+Financial Absence	19585
 Financial Management Absence of Human Trafficking	10759
 Firm Level Technology Absorption Index	17870,1061
 Firm-Level Technology Absorption Index	17870

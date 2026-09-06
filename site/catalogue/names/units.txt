@@ -5,6 +5,7 @@ Admin. Units	12302
 Administrative Public Institutional Units	14634
 Administrative Unit Secondary Sampling Units	15244
 Administrative Units	15244,229
+Administrative Units Population Distribution Reports	19542
 Administrative Units and Levels	15473
 Agency Sector IT Units	1000
 Ambulance Units	15578
@@ -45,6 +46,7 @@ EMIS Units	15960
 Economic Farming Units	12912
 Equip Statistical Units	16863
 Establishing Computer Security Response Units	1000
+Existence of Statistics Units	19519
 Extension of Resuscitation Units	14773
 Extra Budgetary Units	14830
 Extrabudgetary Units	14634
@@ -85,7 +87,7 @@ Industrial and Commercial Public Institutional Units	14634
 Informal Production Units	10980
 Integrated Citizen Service Units	10765,10
 Integrated SEN Units	14742
-Intensive Care Units	12922
+Intensive Care Units	12922,6622
 Internal Audit Units	15147
 International System of Units	1988,11961,787
 International System of Units Act	14736
@@ -99,11 +101,13 @@ Measurement Units and Measurement Standards	13320
 Millions British Thermal Units-MMBTU-	7263
 Ministerial SERVICOM Units of MDAs	18205
 Ministerial and Parastatal SERVICOM Units	18205
+Mobile Medical Units for Emergency Care and Resuscitation	19407
 Mobile Training Units	7021
 Moughataa and Health Basic Units	17869
 N Item Fee Units	13498
 N.B. Administrative Units	15244
 NAS Secretariat and County Addressing Units	12149
+Neonatal Intensive Care Units	19544
 Network Towers Establishment of Social Housing Units	15578
 Nkula A Units	13241
 Number of Blood Units Collected	2775
@@ -132,9 +136,11 @@ Project Delivery Units	11857
 Project Implementation Units	11469,726,637,627,2685,782,179,757,1422
 Project Management Units	1867
 Project and Communications Units	16943
+Proportional of Blood Units Discarded Due	19544
 Protection of Officers. Departments. Units	18466
 Providing Primary Healthcare Units	15578
 Registration Units	10765
+Residential Units	19585
 Residential Units Urban Old Rent Rent	15473
 Result Delivery Units	11857
 Road Twenty-foot Equivalent Units	2775
@@ -157,8 +163,8 @@ Social Living Development Housing Units	14753
 Software Development and Data Science Units	18481
 Special Care Baby Units	18478
 Specialised Units	15796
-Statistical Units	16863
-Statistics Units	14777,2339
+Statistical Units	16863,2656
+Statistics Units	14777,2339,2403
 Statistics and Census and Statistical Units	16863
 Statistics and Data Processing Units	16833
 Stock Theft Units	11188
@@ -173,9 +179,11 @@ Tertiary Sampling Units	15244
 Treatment Units	10784
 Twenty-foot Equivalent Units	9436
 UNITS	14760,18,2193
+UNITS COLLECTED	19544
+UNITS DISCARDED	19544
 UnitSpect	736
 UnitSpectrumCharg	736
-Units	1000,7999,2130,59,663,664,447,171,1615,12,34,36,414,180,49,372,1018,10,97,1,209,1285,1
+Units	1000,7999,2130,59,663,664,447,171,1615,12,34,36,414,180,49,372,1018,10,97,1,209,1285,1,1053
 Units LPG	12515
 Units Number of ICT	12453
 Units Room Conditioner	12253

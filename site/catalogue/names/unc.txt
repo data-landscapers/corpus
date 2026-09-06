@@ -9,6 +9,7 @@ Africa Uncensored	6231
 Africa. Trade and UNCTAD	14674
 Afrique Centrale UNCDF United Nations Capital	10965
 BC. UNCHR	12328
+Bariadi District Education and Unconfirmed	19585
 CEDAW UNCAC	3583
 CITES Secretariat and UNCTAD	15478
 CITES Secretariat and UNCTAD’s ASYCUDA	15478
@@ -42,6 +43,7 @@ Dimo Calovski. UNCTAD	18949
 Dormant and Unclaimed Funds	7391
 EF-RF Lands Uncertainty	17140
 ER-RF lands uncertainties	17140
+Entity Descriptions Uncompleted	19585
 Equivalent Unit UN United Nations UNCTAD	16631
 Estimation of Uncertainty	17140
 Ethiopia. UNCDF	8671
@@ -87,11 +89,13 @@ Postpaid Uncapped Internet Vodacom Uncapped	12769
 Prepaid Uncapped Internet Vodacom Business Prepaid	12769
 Present for Facebook and Instagram. Unclear for Google	8436
 Production Planning Uncoordinated	14818
+Profitability Remains Unclear	19622
 Provision of Conditional and Unconditional Cash Transfers	15663
 Public Notice Uncategorized Voter Registration Tags	12465
 ROSCA SDGs SME SSA TRB UNCITRAL	15480
 Refugee Research. UNCHR Evaluation and Policy Analysis	12227
 Regional Coordinator of UNCTAD	16503
+Reported Uncollected	19585
 Revenue Integrated Payment System UNCTAD	236
 Road Transport Electronic Pre-Declaration UNCTAD United	13042
 Seychelles UNCCD	19086
@@ -136,7 +140,7 @@ UNCCD FP	19086
 UNCCD PRAIS	17157
 UNCCD Strategic Objective	17157
 UNCCD and OSS	19086
-UNCDF	377,17,546,79,1078,167,397,1566,13,4431,1110,930,254,2,389,417,171,16,271,18,20,64,43,68,497,314,91,1,41,652,66,819,2026,733,49,419,351
+UNCDF	377,17,546,79,1078,167,397,1566,13,4431,1110,930,254,2,389,417,171,16,271,18,20,64,43,68,497,314,91,1,41,652,66,819,2026,733,49,419,351,1031,37
 UNCDF Annual Report	8671
 UNCDF Better Than Cash Alliance	213
 UNCDF Connect Rural Uganda	394
@@ -253,7 +257,7 @@ Uncategorized Minister of Education Engages Press	17214
 Uncategorized Strengthening Teaching	17163
 Uncensored Headcount Ratio	15244
 Uncensored Headcount Ratios	15244
-Uncertain	10793
+Uncertain	10793,8792
 Uncertain Times	6938
 Uncertainties	12400,4740,730
 Uncertainty	1161,6283,857,822,894,702,430,7,115,685,245,184,668,479,1204,868,1536,603
@@ -277,15 +281,23 @@ Unclassified	13624
 Unclear	7548,888,2383,337,1058,243,2466,74,167,309,45,1519
 Unclear Accountability Explicit	10908
 Unclear Adequate	10908
+Unclear Roles and Responsibilities	19584
 Unclear. Facebook and Instagram	8436
 Uncleared Cargo List	11036
 Uncoated	11269
 Uncollectable	12500
+Uncollected	19585
+Uncollected Business License Fees	19585
+Uncollected Business License Fees S	19585
 Uncollected ID	10962
+Uncollected Revenue	19585
+Uncollected Service Levy	19585
+Uncollected Service Levy No. of Uncollecte No	19585
 Uncollectible	13053
 Uncomfortable Truth	8050
 Uncommenced	11135,2431
-Unconditional	10829,566,460,133,170,282,2495,158,1907
+Uncompleted	19585
+Unconditional	10829,566,460,133,170,282,2495,158,1907,2532
 Unconditional Cash Transfer and Agricultural Outcomes	10985
 Unconditional Cash Transfers Support SSN Targeting	15663
 Unconditional Cash Transfers and Agricultural Outcomes	15601
@@ -296,7 +308,7 @@ Unconfirmed Loan Balances Appendix	14546
 Unconnected	13331,130
 Unconsommoleurdeloprotectionqueluiossurentlesdisposiiions	15429
 Unconstrained3	17127
-Uncontrolled	16885,375
+Uncontrolled	16885,375,2325
 Unconvicted	14742
 Uncoordinated	14923,735
 Uncovering Digital Deserts	11424

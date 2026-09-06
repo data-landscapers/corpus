@@ -1,5 +1,6 @@
 ACVG Taux	15999
 AI Actually Taught Us	6603
+APPROCHE GÉOGRAPHIQUE ET TERRITORIALE DU TAUX	19413
 ASBC. Taux	3396
 AUX TAUX ET AUX MODALITES	16047
 Abed Tau	10605
@@ -22,7 +23,13 @@ Assurer le Taux de SLIS	17845
 Assurés Taux	15685
 B. Taux	15999
 BENCHMARK RÉGIONAL SUR LE TAUX	18105
+Babati DC TAUSI Revenue	19585
+Babati TC TAUSI Revenue	19585
+Bahi DC TAUSI Revenue	19585
+Bariadi DC TAUSI Revenue	19585
+Bariadi TC TAUSI Revenue	19585
 Brut de Natalité Taux de Fécondité	15599
+Busega DC TAUSI Revenue	19585
 CEO Serame Taukobong	9445
 CM2 Taux	10847
 CNDIFE Taux	17845
@@ -30,6 +37,7 @@ CT Taux	10858
 CTD Taux	15999
 Caractéristique Effectif de Nombre de Taux de Effectif	13300
 Caractéristique Taux de Taux	13300
+Chemba DC TAUSI Revenue	19585
 Communication du Taux Effectif Global	15901
 Couleur Naturelle Améliorée RVB Taux de Precipitation	18203
 DAT Taux DAT	17833
@@ -62,6 +70,7 @@ Electrification Taux Acces TE	15670
 Elombi and Minister Parks Tau	7785
 Emprunteur le Taux Variable	15901
 Enfants Taux	14423
+Equipement Taux	19417
 Etablissement de Microfinance. Taux	11944
 Etat Taux	10858
 Evolution des Taux	17843
@@ -79,10 +88,16 @@ Finance Inclusive TEG Taux Effectif Global	10965
 Fixe Taux	998
 Fécondité Général Tribunal de Grande Instance Taux	15599
 GLOSSAIRE Taux Net	18171
+GOTHOMIS and TAUSI	19585
+Gairo DC TAUSI Revenue	19585
 Gendarmerie Nationale Taux	15999
 Global Taux	10965
 Gouvernement du Burundi Taux	13433
+Government Consultations Taught Us About	19595
 Gwiji for Women and Tausi App	8209
+Hai DC TAUSI Revenue	19585
+Hanang' DC TAUSI Revenue	19585
+Handeni TC TAUSI Revenue	19585
 Honourable Limpho Tau	12762
 I Taux	17945
 I. LES PRINCIPAUX CHIFFRES I.3 TAUX	10847
@@ -118,10 +133,15 @@ Information Statistique Taux Brut de Mortalité Taux	15599
 Infrastructures Taux	17845
 Internet Fixe Taux	998
 Internet Mobile Taux	998
+Itigi DC TAUSI Revenue	19585
 Jour Ouvré le Taux Variable	15901
+Kaliua DC TAUSI Revenue	19585
 Kendall Tau	15244
 Kendall's Tau	15244
+Kigamboni MC TAUSI Revenue	19585
+Kiteto DC TAUSI	19585
 Klerksdorp and Taung	7626
+Kondoa DC TAUSI	19585
 LA GROSSESSE Taux	13300
 LANCES TAUX D'ENGAGEMENT DOSSIERS NOTIFIES TAUX	19250
 LF Taux	15999
@@ -143,16 +163,20 @@ MOBILISATION BES RECETTES FISCALES Taux	15999
 MORTALITÉ PÉRINATALE Taux	13300
 MVA. Taux	17513
 Mali Taux	17978
+Manyoni DC TAUSI Maswa DC TAUSI	19585
 Martha Taukuheke Nambahu	12478
+Mbulu TC TAUSI Meatu DC TAUSI	19585
 Minister Parks Tau	4242
 Minister of Trade and Industry Parks Tau	4242
 Ministère Taux	15999
+Mlele DC TAUSI Mpanda DC TAUSI	19585
 Montant Montant Taux Reste	3396
 Montant Taux	3396
 Montant Taux Montant Taux Montant Taux	2966
 Mortinatalité Taux	15599
 Mr. Parks Tau	11250
 Mr. Taur Matan Ruak	16631
+Mtwara DC TAUSI Mvomero DC TAUSI	19585
 N Taux	15999
 ND Taux de Rapport	17845
 Naissances Taux	13442
@@ -160,6 +184,7 @@ Niger. Taux	18103
 Nombre de Taux Effectif Global	11944
 Ntate Tau	10210
 Nthabi Tau	10481
+Nyangw'hale DC TAUSI Rorya DC TAUSI	19585
 OBJECTIFS SPECIFIQUES Ind.1.1.1.1. Taux	15722
 OPERATIONS DE CREDIT Taux	17833
 OSC Ind.4.1.1. Taux	15722
@@ -201,9 +226,11 @@ SISo. Taux	17845
 SND30 Taux	15999
 SRMNIANutrition Taux	14622
 SU1 Taux	7655
+Salaam CC TAUSI Revenue	19585
 Secrétariat Disponibilité Taux	17983
 Serame Taukobong	4520,4265
 Sexe Taux	18014
+Shinyanga MC TAUSI Singida DC TAUSI	19585
 Si le Taux Ecran	15901
 South Africans. Honourable Mr. Parks Tau	11250
 Suite Taux	13300
@@ -214,9 +241,12 @@ T0 Taux	18317
 TAP Taux	17885
 TAUCKOORY Sudess Coordinator Ministry of Gender	14770
 TAUREAUX	13300
-TAUSI	11639
+TAUSI	11639,7945,1,17
 TAUX Article	15999
+TAUX DE BRANCHEMENT	19412
+TAUX DE BRANCHEMENT DES LOGEMENTS AUX	19412
 TAUX DE COUVERTURE DU TEST	13300
+TAUX DE COUVERTURE SOCIALE EFFECTIVE SELON	19413
 TAUX DE CPN4	17843
 TAUX DE FÉCONDITÉ DÉSIRÉE Naissances	13300
 TAUX DE LETALITE DES ACCIDENTS	15999
@@ -241,6 +271,7 @@ TNR Taux	19350
 TNS Taux	17885
 TRANCHE A TAUX FIXE	15901
 TRANCHE A TAUX VARIABLE	15901
+Tarime DC TAUSI Uvinza DC TAUSI	19585
 Taubyte	6010
 Taught Programmes	14775
 Taukobong	8785,660

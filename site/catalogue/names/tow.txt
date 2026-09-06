@@ -47,6 +47,7 @@ Atlas Towers	3862
 Aus Town Council	13189
 B. Initiate Steps Toward Full SDDS	14777
 BSE Limited Phiroze Jeejeebhoy Towers	12576
+Bariadi Town Education and Inadequate	19585
 Barnersville Township	16921
 Barriers Towards Adoption of E-Government Services	5349
 Benson Kipngetich Towet Data Processor INST-893823CC3C4	7167
@@ -95,7 +96,7 @@ Cape Town Division Library of Parliament	11237,21,28
 Cape Town Eskom	9769
 Cape Town Film Studio	14673
 Cape Town First	9759
-Cape Town Global Action Plan for Sustainable	18475
+Cape Town Global Action Plan for Sustainable	18475,1044
 Cape Town International Airport	8915,980
 Cape Town International Convention Centre	8564,191,2257,2556,2590
 Cape Town Internet Exchange	1820,7797
@@ -152,6 +153,8 @@ City of Cape Town Water Desalination Feasibility	11248
 City of Joburg and City of Cape Town	1912
 Civic Day Series and Presidential Townhall	18582
 Clock Tower K’la Uganda	3021
+Codm. Nmittees of Township Authorities	19525
+Committees of Township Authorities Powrnemr	19525
 Communication Towers	13479
 Communication Towers Installed	13479
 Communication Towers Project	193
@@ -162,6 +165,7 @@ Community Town Hall	13046
 Company Helios Towers	16776
 Composition of Town	18465
 Composition of Township	13189
+Composition of Township Authorities	19525
 Congo Town	3071,1201,10,3,1190,2140,76,6583,3091
 Congo Town Township	16921
 Constituency Office Ongwediva Town Council	13046
@@ -215,6 +219,7 @@ Embracing the Power of Inclusive Data Towards	12962
 Engineering Services Project Description Helios Towers	16776
 Epukiro Town Council	13189
 Esengo Towers	12032
+Establishment of Township Authorities	19525
 FINDINGS Progress Towards Achieving Project Development	18635
 Farm Arandis Townlands No	13189
 Farm Katima Mulilo Townlands No	13189
@@ -228,7 +233,10 @@ Floor Livingstone Towers Glyn Jones Road	12253
 Floor Sicom Tower	14847
 Foreign Investment Policies Towards Foreign Direct	14421
 Free Town	18454
+Functions and Duties of Township Authorities	19525
+Functions and Duties of TownshipoAuthorities	19525
 Functions of Town Clerk	12531
+G A Township Authority	19525
 G Tower	17151
 G Tower URL	17151
 GCB Tower	3386
@@ -294,6 +302,7 @@ INT Towers Nigeria	45
 IPT Powertech for Telecom Tower Energy	344
 IRIPHABLIKHI YOMZANTSI-AFRIKA Cape Town	11182
 ITWeb Security Summit Cape Town	5806
+IXP for Dodoma Town	19625
 Immeuble DIKIN TOWER	16441
 Immeuble Dikin Tower	16441
 Immigration Scalabrini Centre of Cape Town	11986
@@ -302,6 +311,7 @@ Indus Towers Ltd	4896
 Indus Towers' African	7942
 Installation Installation of Mobile Phone Network Towers	15578
 Intercity Courier Towers Traffic	9781
+Investment STCDA Stone Town Conservation Development	19519
 Invite the City of Cape Town	11285
 J4U Town	4732
 JHB2 and Cape Town CPT1	596
@@ -364,6 +374,7 @@ Mamelodi Township	7759
 Management of Kalumbila Town Council	1988
 Managing Director de Helios Towers RDC	6843
 Maralal Town	10313
+Meetings and Proceedings of Township Authorities	19525
 Merry Town	14847
 Milestones Towards Improvement of KVSR	12151
 Ministerial Town Hall Meetings	17105
@@ -404,6 +415,7 @@ Nakuru Town East	10313
 Nalolo Town Council	2386
 Name of Township	13189
 Nana Appiah Acquaye Helios Towers	5788
+Nanyamba Town Council	19585
 Narrative Towards	14511
 Nasir Town	3583
 NatCA Tower	11754
@@ -553,11 +565,15 @@ TOWN HEAD	18459
 TOWN OR V ILLAGE AREA LAND	18465
 TOWN OR VILLAGE AREA LAND COMMITTEE	18465
 TOWNS	18887
+TOWNSHIP AUTHORITY	19525
+TPRB Town Planners Registration Board TRC	19584
 TWR MALABO TOUR MALABO TOWER	17006
 Tambo International Airport and Cape Town	8137
 Tambo and Cape Town International Airports	11236
+Tanzania.pdf TCRA Towards	19534
 Targeting Rural Towers	5715
 Tax Authority Tower	14952
+Technology Towards Connected Government	19533
 Tekkie Town	6368
 Telecom Tower Facilities Provider	14010
 Telecom Tower Infrastructure	1417
@@ -673,6 +689,7 @@ Town Chief	17099,15
 Town Chiefs	17099,15
 Town Clerk	1988,6044,4499
 Town Council	11171
+Town Councils	19585
 Town Councils and Town Boards	12970
 Town Criers	18569
 Town Foreman of Helao Nafidi Town Council	13003
@@ -683,6 +700,9 @@ Town Hall Meeting	18665
 Town Hall Meetings Regular Meetings Meetings	11131
 Town Hall Meetings Town	12210
 Town Management Information System	16885
+Town Planner Registration Board	19584
+Town Planners Registration Board	19584
+Town Planners Registration Board Level	19584
 Town Planning	11129
 Town Planning Authority	11129
 Town Planning Schemes for Cairo Conceived	15473
@@ -692,6 +712,7 @@ Town and Country Planning Act	1988,10659,2101
 Town and Country Planning Act Met Prior	18488
 Town and Country Planning Board	14738,8
 Town and Country Planning Department	11
+Town and District District Steering Committee Governmental	19520
 Town of Residence	15721
 Townhall	11131
 Townhalls and Feedback	11131
@@ -700,7 +721,12 @@ Towns and Villages	18534
 Townsend	5200,3101,1668
 Townsend B	5242
 Townsend’s Data Center Cost Index	6266
-Township	4896,7473,820,1177,2555
+Township	4896,7473,820,1177,2555,2604
+Township Authorities	19525
+Township Authorities Power	19525
+Township Authority	19525
+Township Executive Officer	19525
+Township Executive Ofuficceer	19525
 Townships Act	12531
 Trust Towers	12511
 U Town	4732
@@ -750,3 +776,4 @@ YesNo Town of Residence	15721
 Youth Town Hall	8101
 ZUBAH TOWN ROBBERY CASE MOVES FORWARD	10581
 Zambia. IHS Towers	1550
+Zanzibar Stone Town	19519

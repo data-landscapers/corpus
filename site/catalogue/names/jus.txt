@@ -109,7 +109,7 @@ Catholic Commission for Justice	2993
 Center for Human Rights and Global Justice	1823
 Centre for Social Justice	11866
 Chapitre XIX. Justice	13377
-Chief Justice	587,3127,5264,336,3268,78,1,7,235,17,432,132,17,3,62,114,742,320,87,402,1712,675,36,783,1,29,10,76,161,229
+Chief Justice	587,3127,5264,336,3268,78,1,7,235,17,432,132,17,3,62,114,742,320,87,402,1712,675,36,783,1,29,10,76,161,229,575
 Chief Justice CLE Continuing Legal Education	16943
 Chief Justice David Maraga	9645
 Chief Justice Gaolapelwe Ketlogetswe	12582
@@ -131,6 +131,7 @@ Chief Justice and Superior Judges	17228
 Chief Justice of Liberia	16943
 Chief Justice of Nigeria	8978,3085
 Chief Justice of South Sudan	18714
+Chief Justice of Tanzania	19602
 Chief Justice. The Criminal Procedure Law	16943
 Chief Justice. The District Court	14742
 Chief Justice.11 LACC’s Executive Chairperson	17037
@@ -179,9 +180,12 @@ Court Of Justice Clarifies When Courts	6632
 Court of Justice	1807,4615,659,1355,311,26,3,2325,4800,1879,656,549
 Crianças O Ministério da Justiça	10750
 Crime Prevention and Criminal Justice	2117
+Crime and Criminal Justice	19517
+Crime and Justice	19526
 Criminal Justice	11857
 Criminal Justice Administration	14012
 Criminal Justice Miscellaneous Provisions Act	11857
+Criminal Justice Single Window System	19589
 Criminal Justice System	11270
 Critical Justice Health	1777
 Culture MINIJUST Ministry of Justice MINUBUMWE Ministry	14935
@@ -271,7 +275,7 @@ EU Court of Justice	11154
 EU Engr. Jusu Wendell Holmes Arch	17260
 EU-US Justice and Home Affairs	10088
 EXPANDING ACCESS TO JUSTICE	11586
-East African Court of Justice	961,2622,9730,1096
+East African Court of Justice	961,2622,9730,1096,5153
 Economie ADJOINT DE LA JUSTICE MILITAIRE	17861
 Edition of Candonga de Justiça Birth	17369
 Efficiency of Justice	17441
@@ -599,7 +603,7 @@ Justella O. Elle	6877
 Justement	2443,4384,2021,5640,1,1
 Justi	18111
 Justi-	539
-Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21,379,50,15,27,17,49,17,156,11,26,35,4,12,22,79,28,4,30,28,40,63,37,5,26,55,36,154,83,179,107,94,3,6,5,6,8,11,13,20,66,86,194,32,1,8,23,18,54,137,24,51,54,131,9,19,10,5,10,3,8,5,13,10,7,3,2,2,4,1,6,18,3,2,31,20,7,20,15,2,2,33,38,1,5,22,5,9,5,10,30,26,9,1,55,88,29,34,48,24,46,28,74,26,7,21,14,36,42,5,11,69,29,6,19,2,1,18,4,80,6,1,1,4,2,10,2,1,5,1,8,34,33,116,52,58,8,7,15,45,19,64,4,34,18,53,120,111,7,13,13,5,105,6,193,34,6,6,9,3,2,4,1,11,2,38,2,2,31,8,3,1,3,3,11,15,13,12,29,5,40,1,12,13,3,5,1,4,9,75,1,23,24,17,3,18,1,1,17,1,21,67,33,19,21,10,138,16,83,15,152,24,21,27,19,16,4,19,109,37,36,4,12,9,1,2,20,10,20,79
+Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21,379,50,15,27,17,49,17,156,11,26,35,4,12,22,79,28,4,30,28,40,63,37,5,26,55,36,154,83,179,107,94,3,6,5,6,8,11,13,20,66,86,194,32,1,8,23,18,54,137,24,51,54,131,9,19,10,5,10,3,8,5,13,10,7,3,2,2,4,1,6,18,3,2,31,20,7,20,15,2,2,33,38,1,5,22,5,9,5,10,30,26,9,1,55,88,29,34,48,24,46,28,74,26,7,21,14,36,42,5,11,69,29,6,19,2,1,18,4,80,6,1,1,4,2,10,2,1,5,1,8,34,33,116,52,58,8,7,15,45,19,64,4,34,18,53,120,111,7,13,13,5,105,6,193,34,6,6,9,3,2,4,1,11,2,38,2,2,31,8,3,1,3,3,11,15,13,12,29,5,40,1,12,13,3,5,1,4,9,75,1,23,24,17,3,18,1,1,17,1,21,67,33,19,21,10,138,16,83,15,152,24,21,27,19,16,4,19,109,37,36,4,12,9,1,2,20,10,20,79,35,78
 Justice A-Regulatory Sandbox A1-Legal	7548
 Justice A. Alagoa	7600
 Justice AJS	18286
@@ -1176,7 +1180,7 @@ Ministry of Justice On Jan	14009
 Ministry of Justice Private	17011
 Ministry of Justice Proposed Data Protection Agency	1161
 Ministry of Justice URL	14009
-Ministry of Justice and Constitutional Affairs	2757,826,1014,486,24,2340,2739,1,2286,463,3,17,6,10,5,20,96,5522,16,24,44
+Ministry of Justice and Constitutional Affairs	2757,826,1014,486,24,2340,2739,1,2286,463,3,17,6,10,5,20,96,5522,16,24,44,842
 Ministry of Justice and Constitutional Affairs. My	12936
 Ministry of Justice and Constitutional Affairs. The Unit	12459
 Ministry of Justice and Constitutional Affairs. Under	9242
@@ -1250,6 +1254,7 @@ NSHIMIRIMANA Aline JUSENGA Eric NTAKIRUTIMANA Evariste	13300
 Nacional de Administração da Justiça Edição Nº	10750
 National Assembly Mr Justin Muturi	11115
 National Assembly's Justice and Legal Affairs Committee	9545
+National Criminal Justice Policy	19589
 National Justice Conference	15231
 National Justice Sector Transformation Roadmap	14012
 Ndola Teaching Hospital Dr. Justo Banda	7384
@@ -1301,6 +1306,7 @@ Peter S. Shivute CHIEF JUSTICE OFFICE	12920
 Philomena Mwilu and Justices Lenaola	9645
 Physicians for Social Justice	14394
 Pierre MABIALA MINISTERE DE LA JUSTICE	16367
+Planning and Justifying the Application Requirements	19575
 Platform Ministry of Justice Responsible	16926
 Police and Criminal Justice Bill	14748
 Policia Nacional O Ministério da Justiça	10750

@@ -118,6 +118,7 @@ Duration Automated Scans Monthly	11952
 DÉPENSES ADMISSIBLES INFÉRIEURES AU MONTANT	15901
 Définition Cible Montant	16328
 Désignation Montant	10876
+Désignations Montant Ressources	19436
 Désignations Montants	17485
 E-Government Monthly Government	12253
 E-Government Monthly Monitoring	12253
@@ -283,6 +284,7 @@ MONTH	582,5826,10635,84
 MONTH Men	17043
 MONTH OF RELEASE	12944
 MONTH PRECISION	2475
+MONTH ULTIMATUM ON PERSONAL DATA	19567
 MONTH VALIDITY	11211
 MONTHLY	13236
 MONTHLY COSTS	16942
@@ -291,7 +293,7 @@ MONTHLY GNI P.C. IN RANDS	11262
 MONTHLY HIGH AND LOW SHARE PRICES	4896
 MONTHLY RETURN	16878
 MONTHLY RETURN Financial Institution	16878
-MONTHS	418,1520,9314
+MONTHS	418,1520,9314,8292
 MONTHS APPOINTMENT OF PUBLIC HEALTH NGO	11252
 MONTHS All	11252
 MONTHS ENDED	4896
@@ -371,12 +373,14 @@ Montagne Cimetière and L’Union	14835
 Montagne Longue	14753
 Montagne Piquant and Pointe Coton Desalination Plant	14794
 Montan	13325
+Montan Mathew	19568
 Montane	16996
-Montant	737,1319,1340,1063,3426,2515,119,339,18,99,2400,15,134,208,5,746,5,1,1,49,1,854,5,181,59,51,109,67,19,16,32,10,56,13,35,158,25,19,14,32,27,6,206,213,738,348,9,18,22,31,33,67,19,89,48,116,31,3,27,642,233,29,41,59
+Montant	737,1319,1340,1063,3426,2515,119,339,18,99,2400,15,134,208,5,746,5,1,1,49,1,854,5,181,59,51,109,67,19,16,32,10,56,13,35,158,25,19,14,32,27,6,206,213,738,348,9,18,22,31,33,67,19,89,48,116,31,3,27,642,233,29,41,59,86
 Montant Age	13390
 Montant Blocage	18322
 Montant Cas de Remboursement Anticipé	15901
 Montant Contre-valeur de DH	17485
+Montant Hors Taxes	19441
 Montant Indicatif	643
 Montant Maximum	15901
 Montant Montant Taux Reste	3396
@@ -407,6 +411,7 @@ Montasser Kamal	12327
 Monte Alen National	16996
 Monte Café	18842
 Monte Carlo	8018,3210
+Monte Carlo. Idt ISO	19474
 Monte Duba	3179,1030
 Monte João Teves	15380
 Monte Mário	18793
@@ -433,7 +438,7 @@ Montesquieu	8993,4274
 Montesquiou	11133,9
 Montfort	19284
 Montgomery	5349,11650
-Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,220,5,34,89,38,1,15,30,60,60,417,54,6,425,58,665,808,379,52,311,234,44,19,47,108,249,269,167,63,43,16,6,79,17,374,35,399,54,48,344,4,1,4,175,258,25,70,355,7
+Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,220,5,34,89,38,1,15,30,60,60,417,54,6,425,58,665,808,379,52,311,234,44,19,47,108,249,269,167,63,43,16,6,79,17,374,35,399,54,48,344,4,1,4,175,258,25,70,355,7,295
 Month Above	12233
 Month Arrangement	18488
 Month Avg Resolution	9772
@@ -554,7 +559,7 @@ Monthly& Quarterly Expenditure Reports	16944
 MonthlyStatistical Bulletin	16833
 MonthlylyLLPPGGCCoonnssuummppttiion	12256
 Monthlyy PPeettrroolleeuummDdemand	12256
-Months	2775,903,876,661,1217,10,494,62,909,2,42,2206,655,938,119,139,49,299,33,55,4,35,25,409,53,67,46,102,277,509,575,485,98,123,208,340,412,759,186,78,22,246,601,250,469
+Months	2775,903,876,661,1217,10,494,62,909,2,42,2206,655,938,119,139,49,299,33,55,4,35,25,409,53,67,46,102,277,509,575,485,98,123,208,340,412,759,186,78,22,246,601,250,469,721,41
 Months Average	3583
 Months Average Available Capacity	12062,6124,31
 Months Average Hourly Generation	12062,6124,31
@@ -563,11 +568,13 @@ Months EURIBOR	11863
 Months Fully Immunized	16935
 Months Gross	11131
 Months Harry Gwala	11252
+Months Inadequate	19585
 Months Integration	11869
 Months Interoperable	11869
 Months Mangaung	11252
 Months Nkangala	11252
 Months Perpetrated	15247
+Months Proportion of HEI	19544
 Months Rotavirus	14742
 Months Sekhukhune	11252
 Months Training and Hand Over	11869
@@ -586,6 +593,7 @@ Montorsi	6832
 Montoya	5349
 Montoya-Restrepo	8021
 Montpellier	10231,909,2704,2515
+Montplaisir	19441,15
 Montran	12364
 Montre	18312
 Montreal	1219,6151,101,2822,4811,2766
@@ -762,13 +770,16 @@ South Central and Montserrado	17127
 South Eastern A and Montserrado	17127
 Southeastern A and Montserrado	17043
 Southeastern B and Montserrado	17043
+Staff Ratio Month Ratio Births and Per	19541
 Système de Gros Montants Automatisé	969,14505,460,1008
 Système de Règlement de Gros Montants	13468
+Système de Virements de Gros Montant Tunisien	19501
 Système des Gros Montants Automatisé	10724
 Sénégal Communiqués-29 MONTHS.MAY	18393
 Sénégal Montant	10519,7827
 T Montentienrera	15999
 TAs NRIS Monthly CRVS	13005
+TND HT Montant TTC	19441
 TOT AL Montant	13390
 TURKMENISTAN UZBEKISTAN CAPE VERDE MONTSERRAT BAHRAIN	13661
 Taux Montant	3396
@@ -779,6 +790,7 @@ TechPark CV President Carlos Monteiro	2860
 Technical Mandatory Monthly	11952
 Third Member for Port-Louis North and Montagne Longue	14753
 Transaction Monthly P50	5687
+Tunisie Montant du Contrat	19441
 Turkménistan Montant	18346
 USD Montant	14539
 Univ. Montpellier	16359

@@ -104,6 +104,8 @@ Context of Artificial Intelligence Refers	2958
 Continuous Operating Reference Stations	18293
 Continuous Operation Reference System. Despite	13645
 Continuously Operating GNSS Reference Stations	12457
+Continuously Operating Reference Stations	19592
+Continuously Operating Reference Stations- CORS	19592
 Continuously Operating Reference Stations. Despite	18534
 Contract. The Terms of Reference	13031
 Core References	4528,7984
@@ -111,6 +113,7 @@ Country Briefs Reference Date	19054
 Country Legislative Reference	3161
 Covenant Date Due Agreement Reference Covenants	18887
 Covenant Date Due Agreement Reference Section	18887
+Credit Information Reference Bureau-CIRB	19592
 Credit Reference	18474
 Credit Reference Bureau	4439,7555,415,2588,26
 Credit Reference Bureau Coverage	15023
@@ -150,6 +153,7 @@ Deborah Retief Referral Hospital	12639
 Decreased Reference	5679
 Department of Refer	11986
 Description Reference Quantification	16328
+Details Refer	19541
 Develop Terms of Reference	12917
 Deﬁnitions Adequacy Requirements Refers	12674
 Diagnostic Reference	17990
@@ -158,6 +162,7 @@ Digital Literacy Refers	13347
 Directorate of Elections and Referenda	12905
 Direitos Humanos. Referiu	5721
 Discrimination Refers	2958
+District Hospitals Regional Referral Hospitals Document	19576
 Documentation Quick Reference Section Purpose Link	12499
 Documento de Referência Nacional A Carta Sanitária	16019
 Documents Reference Documents Browse	16830
@@ -225,8 +230,11 @@ Geodetic Reference Frame Spatial	18904
 Geographic Reference	4102,2689,439
 Geographic Reference Kenya	6791
 Get Microdata Reference ID COG 2024 FINDEX v02 M DOI	15844
+Get Microdata Reference ID TZA-NBS-2025-v01 Producer	19613
 Global Framework of Reference	11879,1435,677,1456,27,19,1470,907
 Global Geodetic Reference Framework	18904
+Government Reference Model	19510
+Government Security Architecture Reference Framework	19513
 Grant Reference	19214
 Grant Reference. The Government	19214
 Grid Cell Reference	13298
@@ -243,6 +251,7 @@ IDA-E338-MW TERMS OF REFERENCE FOR PROVISION	3678
 IFB Reference No	14817
 IHE Profile IHE Profile Descriotion Referenced	1009
 II. TERMS OF REFERENCE Hiring Office	17068
+IMPROVEMENT OF REFERRAL CHAIN	19544
 INCENTIVES NOTES Documents Referenced	11857
 INDIVIDUAL CONSULTANTS Activity Reference No	17180
 INFRASTRUCTURE NOTES Documents Referenced	11857
@@ -260,6 +269,7 @@ Initial Proposals Reference	13037
 Initiative TOR Terms of Reference RCICT Republican	17196
 Institutes of Health. References Alsmadi	8604
 Institution TERMS OF REFERENCE Legal	17394
+Integrated Sample Referral System	19544
 Integrated Sample Referral System Framework	17365
 Integrated Specimen RefeITal System and Diagnostic Network	4153
 Inter-Agency Standing Committee Reference Group	18301
@@ -338,6 +348,7 @@ N S E W Reference	15593
 N STANDARD TITLE REFEREN CE NUMBER	15027
 N STANDARD TITLE REFERENCE NUMBER AGRICULTURE	15027
 N STANDARD TITLE REFERENCE NUMBER EDITION	15027
+NAOT-AR06-05C-2024 REFERENCES	19541
 NISR References	12413
 NON CONSULTING SERVICES Activity Reference No	17219
 NOTICE INVITING BIDS RFQ Reference No	18543
@@ -373,6 +384,7 @@ Oferta de Referência	11430
 Ofertas de Referência	11430
 Official Use Only References Afrobarometer	10985
 OpenEHR Reference Model	1009
+Operating Procedures References	19616
 Os Termos de Referência	10769
 Output Centre of Excellence Central Bank of Reference	11134
 P505094 RFB Reference No	13527
@@ -430,13 +442,14 @@ REFERENCE GUIDE STRATEGY DESCRIPTION	6432
 REFERENCE GUIDE TO INTEGRATE DATA PROVISIONS	1243
 REFERENCE Implementation	11869
 REFERENCE MARCHE	16666
+REFERENCE NO	19562
 REFERENCE NUMBER	962
 REFERENCE PERIOD Tables	17043
 REFERENCE POPULATION AND ESTIMATION DOMAINS	17127
 REFERENCE STRUCTURE DES PRIX Rubriques Super	18322
 REFERENCE Technologie	18322
 REFERENCE. PALUDISME GRAVE	13300
-REFERENCES	10,951,282,1275,1133,3287,610,2307,859,66,39,373,4,32,34,595,383,93,175,431,1128,375,159,122,67,63,105,101,188,327,9,102,352,905,9,919,576,29,149,163,123,21
+REFERENCES	10,951,282,1275,1133,3287,610,2307,859,66,39,373,4,32,34,595,383,93,175,431,1128,375,159,122,67,63,105,101,188,327,9,102,352,905,9,919,576,29,149,163,123,21,588,1,14,7,14
 REFERENCES ARCEP	15447
 REFERENCES ART	15480
 REFERENCES Aaronson	1243
@@ -444,9 +457,12 @@ REFERENCES Abbas	15473
 REFERENCES Acemoglu	16266
 REFERENCES Adu	6938
 REFERENCES AfCFTA	10819
+REFERENCES AfDB Regulatory Sandbox Report	19534
 REFERENCES African Development Bank	961,15981
+REFERENCES African Union	19520
 REFERENCES Al-Barouni	17157
 REFERENCES Alkire	15244
+REFERENCES Australian Bureau of Statistics	19555
 REFERENCES Avis	10821
 REFERENCES Azimut	14935
 REFERENCES BIBLIOGRAPHIQUES	15595,600
@@ -458,6 +474,7 @@ REFERENCES Délibération	10821
 REFERENCES GNIAP	16951
 REFERENCES Government of Malawi	12240
 REFERENCES International Pharmaceutical Federation	9855
+REFERENCES LEGISLATIVES ET	19504
 REFERENCES Plainte	10821
 REFERENCES Policy	13418
 REFERENCES SL Regulation	18446
@@ -466,6 +483,7 @@ REFERENCIAL ESTRATÉGICO	11397
 REFERENCIAL ESTRATÉGICO Figura	11397
 REFERENDAIRES Article	15727
 REFERRAL HOSPITAL Data Controller INST-3686438BC5D MOMBASA	7167
+REFERRALS	19544
 REFERRED TO IN PARAGRAPH	14816
 REFERÊNCIA AMBIENTAL E SOCIAL	11390
 REFERÊNCIA Aquisição de Serviços	12021
@@ -556,8 +574,9 @@ RELATIONS Procurement Reference	13037
 RENOUVELLEMENT PERMISSIONNAIRE REFERENCE DECISION DATE	998
 REPUBLIQUE DE CÔTE D'IVOIRE REFERENTIEL GENERAL	10906
 RGI Resource Governance Index RIO Reference	16942
+RRH Regional Referral Hospital DH District	19544
 Recommended Guide for Quick Reference	15014
-Refer	34,2741,1086,111,154,2096,610,2167,125,1295,198,168,8,51,18,19,96,232,15,16,18,40,565,123,165,208,5,49,86,1,537,16,367,1014,463,159,73,1813,172,1009
+Refer	34,2741,1086,111,154,2096,610,2167,125,1295,198,168,8,51,18,19,96,232,15,16,18,40,565,123,165,208,5,49,86,1,537,16,367,1014,463,159,73,1813,172,1009,1418,44
 Refer ANSI	9123
 Refer Clause	18543
 Refer Document Purchaser's Detail Name	13548
@@ -565,7 +584,7 @@ Refer Document. Interested	13548
 Refere	10755,726,5880
 Refere-se	4274,4553,1939,11,628,164,7206,16
 Referenc	17140
-Reference	4,104,8,43,14,58,8,66,18,2,1,1,1,1,93,1,8,11,2,1,113,31,2,148,38,2,1,1,1,14,1,187,2,8,7,1,26,5,2,128,40,14,22,4,33,2,67,4,4,1,1,1,3,1,4,8,13,5,2,1,5,3,188,38,4,2,12,12,1,19,4,12,5,9,125,54,16,39,40,1,1,2,3,35,72,3,1,12,4,188,4,112,71,1,1,1,6,1,115,46,116,4,224,151,120,71,171,133,21,51,27,31,76,28,29,134,62,7,316,13,903,1,325,1,1,1,1,1,1,43,79,222,30,80,205,31,70,61,330,110,196,152,37,380,551,76,294,104,1989,44,10,44,21,136,1,278,41,564,3,150,172,16,32,105,22,37,48,26,222,7,337,348,309,244,37,98,7,236,93,84,263,80,198,73,36,21,56,24,180,129,51,154,16,194,244,340,287,4,40,1,58,64,108,1,12,13,48,23,6,526,127,100,205,331,1,121,276,5,21,296
+Reference	4,104,8,43,14,58,8,66,18,2,1,1,1,1,93,1,8,11,2,1,113,31,2,148,38,2,1,1,1,14,1,187,2,8,7,1,26,5,2,128,40,14,22,4,33,2,67,4,4,1,1,1,3,1,4,8,13,5,2,1,5,3,188,38,4,2,12,12,1,19,4,12,5,9,125,54,16,39,40,1,1,2,3,35,72,3,1,12,4,188,4,112,71,1,1,1,6,1,115,46,116,4,224,151,120,71,171,133,21,51,27,31,76,28,29,134,62,7,316,13,903,1,325,1,1,1,1,1,1,43,79,222,30,80,205,31,70,61,330,110,196,152,37,380,551,76,294,104,1989,44,10,44,21,136,1,278,41,564,3,150,172,16,32,105,22,37,48,26,222,7,337,348,309,244,37,98,7,236,93,84,263,80,198,73,36,21,56,24,180,129,51,154,16,194,244,340,287,4,40,1,58,64,108,1,12,13,48,23,6,526,127,100,205,331,1,121,276,5,21,296,248,47
 Reference 2021.p	6832
 Reference 2021.pdf	6832
 Reference Access Offer SCAC State Corporations	6946
@@ -580,6 +599,7 @@ Reference Amirkhani and Barshooi2022	8283
 Reference Angwin	8436
 Reference Ansari	8283
 Reference Anđelković2017	2117
+Reference Architecture Framework	19513
 Reference Ausloos	8436
 Reference Belli2021b	2117
 Reference Bengio	8283
@@ -720,6 +740,7 @@ Reference Ndzendze2021	2117
 Reference Nemroff2018	2117
 Reference Ngqakamba2021	2117
 Reference No	9603,1,456,1730,6785
+Reference No. CD.151	19585
 Reference Norris	8436
 Reference Norval	8436
 Reference Number	9134,2142,3487,233
@@ -823,7 +844,7 @@ Referenced	8014,8829
 Referenced Assessment DE Distance Education EIT	13960
 Referenced IDA	579
 Referenced Standards Mobile Cross- Mobile Cross-Enterprise	1009
-References	3,393,370,5,261,187,24,18,172,391,4,265,684,171,650,184,9,641,7,89,148,185,55,120,96,110,107,249,20,57,25,80,662,103,402,240,649,465,75,252,501,108,522,429,575,71,7,24,16,38,66,12,9,1,98,28,3,4,2,7,7,22,17,63,1,12,12,204,58,27,24,283,30,9,17,55,5,11,9,10,33,32,53,8,31,32,13,4,2,9,4,9,74,4,4,63,13,99,22,129,285,30,333,1,2,45,23,242,89,278,479,196,103,50,25,52,9,16,159,49,115,203,26,7,124,121,176,6,53,175,700,8,33,26,14,34,25,21,22,3,106,13,17,92,8,612,15,551,121,64,351,108,135,23
+References	3,393,370,5,261,187,24,18,172,391,4,265,684,171,650,184,9,641,7,89,148,185,55,120,96,110,107,249,20,57,25,80,662,103,402,240,649,465,75,252,501,108,522,429,575,71,7,24,16,38,66,12,9,1,98,28,3,4,2,7,7,22,17,63,1,12,12,204,58,27,24,283,30,9,17,55,5,11,9,10,33,32,53,8,31,32,13,4,2,9,4,9,74,4,4,63,13,99,22,129,285,30,333,1,2,45,23,242,89,278,479,196,103,50,25,52,9,16,159,49,115,203,26,7,124,121,176,6,53,175,700,8,33,26,14,34,25,21,22,3,106,13,17,92,8,612,15,551,121,64,351,108,135,23,305
 References AARP	11028
 References ACE	11909
 References ADB	10718,592
@@ -875,6 +896,7 @@ References Bulawayo24	12501
 References CAPMAS	15604
 References Calvo Buendia	15129
 References Collinson	7836
+References Contact Carré Daumesnil	19616
 References Department of Higher Education and Training	9128
 References Department of Refugees Services	12227
 References Eskom Holdings SOC Limited	11953
@@ -887,6 +909,7 @@ References IOM. Multi-Sector Needs Assessment	15116
 References Kanyinga	12227
 References Khatri	11585
 References Macdonald	12227
+References Ministry of Finance and Economic Planning	19542
 References Munz	11156
 References Nesta. Testing Innovation	11007
 References OGP	11006
@@ -940,7 +963,7 @@ Referrals	13097,364,4664
 Referrals SPRINT	18470
 Referred	3583,7548,154,4,697
 Referring	1815,6402,939,457,110,1475,1388,2256,407,224,1101,2353
-Refers	1867,845,63,1,2120,1683,642,1384,523,1637,10,5,13,457,607,65,229,248,524,458,4,1494,36,509,49,1399,88,15,36,146,100,486,733
+Refers	1867,845,63,1,2120,1683,642,1384,523,1637,10,5,13,457,607,65,229,248,524,458,4,1494,36,509,49,1399,88,15,36,146,100,486,733,1043,1,11,44
 Refers Agreements and Bills	14122
 Referéndum	16903
 Referência	744,50,172,3109,143,7185,16,32,69,4361,2893
@@ -953,6 +976,7 @@ Refetched	9253
 Reform Area Reference Base	18795
 Regional Referral	12976
 Regional Referral Hospital	1261
+Regional Referral Hospitals	19544,40
 Regulation of Referendum and Election Processes Election	15393
 Republic of Guinea- Bissau GOODS Activity Reference	17219
 Republic of Guinea-Bissau Reference Date	17172
@@ -961,12 +985,16 @@ Resolved Referred	12977
 Roles and REFERENCES AND ACRONYMS Methodology of Data	14434
 SADC Mediation Reference Group	12640
 SAP018 Reference No. EPA	17255
+SC Terms of Reference	19571
 SCHEDULE IV REFERENCE RATE TERMS Part	16219
 SDGs. Reference	1030
+SERVICE UTILIZATION IN REGIONAL REFERRAL HOSPITALS	19544
 SERVICES Activity Reference No	17180
 SETTLEMENT AND CREDIT REFERENCE SYSTEMS	16844
 SGG PORTANT ADOPTION DU REFERENTIEL	16733,1,1
 SOCIETE TYPE DE DEMANDE REFERENCE	18322
+SPECIALIZED AND ZONAL REFERRAL HOSPITALS	19544
+SPECIALIZED SERVICES IN REGIONAL REFERRAL HOSPITAL	19544
 SS SEA Referral Decision Tree Flowchart	18665
 SSA Sub-Saharan Africa TOR Terms of Reference	18293
 SSO Single Sign-On ToR Terms of Reference	15164
@@ -999,6 +1027,7 @@ Sources and References	2958
 South UTM Reference Longitude Latitude Antenna	736
 States Reference	15143
 Submitting Entity Reference	11276
+Super Regional Referral	19544
 TAX REFERENCE NUMBER	11298
 TB Referee	19226
 TERMES DE REFERENCE	16747
@@ -1021,6 +1050,8 @@ TOR Terms of Reference UNDP United Nations	1867
 TRENDS IN IDENTIFICATION FOR DEVELOPMENT REFERENCES	10714
 TRN Tax Reference Number VAT	11298
 TYPE APPROVAL FEES Refer	14883
+Tanzania Persons Engaged Refers	19557
+Tanzania. References	19555
 Tax Reference Number	11276,22
 Tax Reference Number Request	11298
 Tax Reference Number Request Dashboard	11298
@@ -1029,7 +1060,9 @@ Tax Reference Number and Year of Assessment. Click	11276
 Technical Assistance TOR Terms of Reference UNDP	18777
 Technical Assistance ToR Terms of Reference TSO	15659
 Technical Assistance ToR Terms of Reference USAID	15515
+Technical Reference Model	19513
 Telecommunication Companies TOR Terms of Reference TRIPS	236
+Telemedicine Referral System	19532
 Temperature Ice Point Reference	14736
 Temperature and Precipitation. Reference Guide	17257
 Termes de Reference	14540
@@ -1038,7 +1071,7 @@ Termo de Referência. Versão	11463
 Termos de Referência	414,2402,5658,2916,50,1,1,14,105,7304
 Termos de Referência. Luanda	11463
 Termos de Referências	16110
-Terms of Reference	170,792,299,3,107,723,18,8,869,350,476,288,550,1140,1153,1600,40,1017,1,8,116,332,19,33,307,301,56,94,137,262,481,51,24,30,2,49,100,39,563,65,1,19,13,42,9,77,86,57,33,7,14,6,355,69,114,1,32,314,75,134,109,193,312,74,108,7,38,108,10,30,23,40,40,581,165,524,107,233,116,14,65,40,31,15,2,141,137,64,1037,82,88,421,4
+Terms of Reference	170,792,299,3,107,723,18,8,869,350,476,288,550,1140,1153,1600,40,1017,1,8,116,332,19,33,307,301,56,94,137,262,481,51,24,30,2,49,100,39,563,65,1,19,13,42,9,77,86,57,33,7,14,6,355,69,114,1,32,314,75,134,109,193,312,74,108,7,38,108,10,30,23,40,40,581,165,524,107,233,116,14,65,40,31,15,2,141,137,64,1037,82,88,421,4,494
 Terms of Reference Annex	13031
 Terms of Reference Annex B	13037
 Terms of Reference Feasibility Study for Hydrogen Power	14947
@@ -1099,3 +1132,6 @@ X. References Aguinis	6832
 XI. REFERENCES XI. REFERENCES X. REFERENCES	13341
 XVII. Taxa de Juro de Referência	18798
 ZIPSS. Refer	12364
+Zonal Hospital and Regional Referral Hospital	19544
+Zonal Referral Hospital	19544
+Zonal Referral Hospitals	19544

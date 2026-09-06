@@ -25,7 +25,7 @@ DEVELOPMENT UNIT Internal Audit Squad CENTRAL	14760
 Description Digital Square	154
 Description USAID and PEPFAR-funded Digital Square	730
 Digital Public Squares	11586
-Digital Square	154
+Digital Square	154,19393
 Digital Square Tanzania	730
 Digital Square Tanzania PEPFAR Strengthening Capacity	730
 Direcção de Conservação SQA	18760
@@ -34,6 +34,7 @@ Elepo Square	10049
 Enabling the SQA	18950
 Encroachers and Squatters	17114
 Engineer Squadron	14760
+Enhancing the GOTHOMIS Immunization Module Digital Square	19547
 Entity Framework and SQL	17437
 Environment Windows Sql Server	9124
 Fix SQL	11922

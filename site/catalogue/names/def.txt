@@ -30,7 +30,9 @@ AU... Defence	17423
 Abbreviation Definition AGR Annual Growth Rate	11228
 Abdelmadjid TEBBOUNE. MINISTERE DE LA DEFENSE	15602
 Abreviaturas Aband. Aprov. Compart. Definit	10766
+Acquired Immune Deficiency Syndrome AMR Antimicrobial	19544
 Acquired Immune Deficiency Syndrome ARV	16951
+Acquired Immune Deficiency Syndrome CIMA Alliance	19520
 Acquired Immune Deficiency Syndrome SDGs	17101
 Acronym Definition Acronym Definition ETA Electronic	11986
 Acronym Definition Acronym Definition PI Performance	11986
@@ -67,8 +69,10 @@ Associação Cabo-verdiana de Deficientes	15694
 Associação Nacional de Defesa	11516
 Associações de Defesa	17178
 Authoritative Definitions	3861
+Available Deficit	19585
 Average Default Rates	10718
 Average Default Tarrifs Average	2776
+Awareness Deficits Low	19555
 Aïn Defla	15467,476
 Aïn Defla Centre	16085
 Aïn Defla Relizane Décret	15690
@@ -87,6 +91,7 @@ Botswana Defence Force	3887,8719
 Box A. Key Concepts and Definitions Data	4214
 Broadband Definition	11857,5027
 Broadband Definition and Target	16883
+Budget Deficit Financing	19602
 Budget Deficit and Financing	17105
 Building Layered Defenses For Africa	16813
 Burkina Faso. RESULTATS DEFINITIFS DU RGE	10875
@@ -161,7 +166,9 @@ Collective Defence Primary	11138
 Comissão de Defesa	9258
 Commerce and Defence	10445
 Compendium of Concepts and Definitions	13359
-Concepts and Definitions	11258,38,1135,275,2330
+Concept and Definition	19536
+Concepts and Definitions	11258,38,1135,275,2330,4506
+Concepts and Definitions Attendance	19542
 Consejo Nacional Fiscalía Defensor	4209
 Conselho Administrativo de Defesa Econômica	8760
 Conselho Superior de Defesa	18751
@@ -392,6 +399,7 @@ Default User	13868
 Default and Recovery Statistics	11310
 Default2	14726
 Defaulter List	18543
+Defaulters	19585
 Defaulting Party	12400
 Defaults	10718,1258
 Defaux	18985
@@ -405,7 +413,7 @@ Defect Management	5665
 Defective	14422,1152
 Defective Commodities	12900
 Defects	13385,1148,1368
-Defects Liability Period	18543
+Defects Liability Period	18543,1041
 Defeito	11461
 Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85,665,396,25,2017,483,93,461,66,179,91,343,14,20,3,461
 Defence AI Innovation Hub	4528,7984
@@ -502,18 +510,18 @@ Defense and Security Wings	12453
 Defense and Security Wings EGD	12453
 Defense and Sustainability	8275
 Defense des Utilisateurs des Technologies Numériques	7920
-Defenses	6202
+Defenses	6202,13420
 Defensibility	13279
 Defensive	10088,2254
 Defensive Driving	6946
 Defensive Name	12342
 Defensor	4209,12646,103
-Defer	11156
+Defer	11156,8419
 Deferimento	11435
 Deferrable	17157
 Deferral	12548,804
 Deferrals	11955,1426
-Deferred	4896,2325,3572,1162,45,490,563
+Deferred	4896,2325,3572,1162,45,490,563,6522
 Deferred Drawdown	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778,2323
 Deferred Fines	12920
 Deferred Net DNS Participant	12364
@@ -529,7 +537,7 @@ Defficiency	6729
 Defi Media	6993
 Defiba Ka Ouagadou- Tangali	18077
 Deficiencia	10777
-Deficiencies	2093,9308,800
+Deficiencies	2093,9308,800,7383,1
 Deficiency	2093
 Deficiency Syndrome ANFEU Adult and Non-Formal Education	16852
 Deficiency Syndrome ARI Acute Respiratory Infection	16971
@@ -539,8 +547,9 @@ Deficiente	15694,3069,31
 Deficientes	15694
 Deficientes Mo	12201
 Deficientes Visuais de Cabo Verde	15694
-Deficit	5655,9081,958,742,669,155,104
+Deficit	5655,9081,958,742,669,155,104,2238
 Deficit Financing	13474
+Deficit School	19585
 Deficit of Males	18464
 Deficits	961,10584,647
 Deficiência	10754,23,644,1399,2874,1484,1597,95
@@ -553,7 +562,7 @@ Deficiência PNC Plano Nacional de Cuidados ANEXO	15694
 Deficiência. Esta	17178
 Defilement	15845
 Defin-	8602
-Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1,60,10,108,37,96,31,3,306,10,110,387,79,23,109,645,28,78,24,130,21,26,17,34,5,674,439,171,51,221,179,283
+Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1,60,10,108,37,96,31,3,306,10,110,387,79,23,109,645,28,78,24,130,21,26,17,34,5,674,439,171,51,221,179,283,306,55
 Define Campaign Objectives	12675
 Define Core Principles	12675
 Define Enterprise Architecture	12359
@@ -576,13 +585,15 @@ Define the Define the Cybersecurity Implement	1777
 Define the ICT	13295
 Define the IT Strategy	12359
 Define-se	15445
-Defined	1824,272,3148,306,882,234,2462,1640,1089,374,24,134,651,270,4,554,1129,37,679,1171,51,7,215,1490
+Defined	1824,272,3148,306,882,234,2462,1640,1089,374,24,134,651,270,4,554,1129,37,679,1171,51,7,215,1490,929,8
 Defined At Level	15034
 Defined Benefit Pension Plan Provision	14736
 Defined Benefit Schemes	14546
 Defined Broadband Capacity Target	16883
 Defined Contribution Pension Scheme	14828,15
+Defined Data Backup and Recovery Objectives	19584
 Defined Milestones and Timelines	12356
+Defined Realistic	19576
 Defined Standards	12419
 Defines	396,2662,7850,314,47,1658,258,200,1392,257,726,1354,1681
 Defines the Application Programming Interface	11269
@@ -683,7 +694,7 @@ Definition of GOS	236
 Definition of ICT	236,11699
 Definition of Inability	18556
 Definition of Income and Financial Support	2307
-Definition of Key Terms	4610,12433
+Definition of Key Terms	4610,12433,2493
 Definition of Key Terms Empowerment Score	17127
 Definition of MTF	11136
 Definition of Organization	13986
@@ -706,6 +717,7 @@ Definition of Terms Article	12616
 Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3,307,213,130,35,49,6,3,23,14,5,3,112,29,10,132,8,38,119,11,142,125,578,613,10,1,8,35,38,10,223,586,2,868,276,15,80,1,229
 Definitions Annex V	19214
 Definitions Article	14870,37,1
+Definitions Artificial	19521
 Definitions Artificial Intelligence	13347
 Definitions Asbestos Asbestos	1988
 Definitions Business Term	15034
@@ -860,6 +872,7 @@ FONCTIONNAIRE DE DEFENSE Colonel Sadio CAMARA	17861
 FONCTIONNAIRES DE DEFENSE	17899
 FRAMEWORK Definition	11906
 FREL. Deforestation	17140
+FUNDING OF TSMP BUDGET DEFICIT List	19519
 Facture Normalisée DEF Arrêté	15963
 Facture Normalisée DEF Arrêté Ministériel N	15963
 Files Defense	17069
@@ -955,6 +968,7 @@ IV.8. RELEVER LE DEFI DE REVOLUTION	18291
 Immune Deficiency Syndrome AMICAALL Alliance of Municipal	12970
 Implementation Shall Define Budget Outcomes	8723
 Implicit Price Deflator Table	19038
+Inadequate Definition of Service Levels	19584
 Index Definition	17140
 India Africa Defence Ministers Meet	18857
 India-Africa Defence Dialogue	16164,113,964,979
@@ -1008,6 +1022,7 @@ LEGISLATION REFERENCED IN LIBERIAN LEGALITY DEFINITION	16843
 LES DEFIS DE MISE EN	18100
 LES DEFIS MAJEURS A RELEVER ET	13290
 LES PRINCIPAUX DEFIS DU SYSTEME D	13677
+LGRCIS Defaulters	19585
 LIST OF ABBREVIATIONS Term Definition AI	12675
 LIST OF ACRONYMS Acronym Definition ABIS	5533
 LIST OF ACRONYMS Acronym Definition Acronym	11986
@@ -1027,6 +1042,7 @@ L’examen du DEF	18014
 MALES VS FEMALES DEFINITIONS Adult	12409
 MAPA DE LA DEFORESTACIÓN Y DEGRADACIÓN	16875
 MARGE D'INTERET DEFICITAIRE TOTAL PRODUITS D'INTERETS	18032
+MATURITY LEVEL SCORED MARKS DEFINITION	19576
 MBITO DE APLICACIÓN Y DEFINICIONES Artículo	16855,110
 ME2 Define	12917
 METHODS AND DEFINITIONS	19099
@@ -1091,7 +1107,7 @@ Ministries of Defense	15473
 Ministro da Defesa	18895,1
 Ministro da Defesa Nacional	4147,11257
 Ministry Of Defense Unveils Information Systems	5270
-Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469,984,284,17,645,1475,138,136,551,224,157,47,280,12
+Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469,984,284,17,645,1475,138,136,551,224,157,47,280,12,1031
 Ministry of Defence Ministry	17105
 Ministry of Defence Ministry of Agriculture	17105
 Ministry of Defence and Security	2736
@@ -1329,6 +1345,7 @@ Strategic Defence Architecture	17792
 Strengthen Defence And Military Cooperation	18173
 Subiect Data Definitions Authorisation	1009
 Summary Definition	12444
+Survey Acquired Immune Deficiency Syndrome AIDS	19519
 Sustainable Development Goals. DEFINITIONS Completeness	13644
 TABLE OF CONTENTS ABBREVIATION AND DEFINITION	16971
 TABLE OF CONTENTS DEFINITION OF TERMS	14524
@@ -1342,10 +1359,13 @@ TITLE SERVICE DEFINITIONS Tertiary	15206
 TITRE I DEFINITIONS Article	15410
 TITRE PREMIER DEFINITION ET CHAMPS D'APPLICATION	14408
 TRADE POLiCY Defining	961
+TSMP II Deficit	19519
 TTC Type TTC Code Default Range	12364
 Tables des Matières DEFINITIONS	18105
 Tackle Civil Identification Deficit	12817
+Tanzania Peoples Defense Force	19585
 Tanzania People’s Defence Force	2867
+Tanzania Term Definition Administrative	19557
 Targets and Definitions	16886
 Targets and Definitions Notwithstanding	16886
 Tax Enhancements and Resolution of Defects	14533
@@ -1354,6 +1374,7 @@ Taxpayers Regarding Deferred VAT	13108
 Tech Somalia Strengthens Cyber Defenses	5338
 TechTalkThursday Why Data Refinement Could Define	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
 Temporary Residence Definition	11986
+Term Definition	19557
 Term Definition Quarantine Period	14659
 Term Definitions Data Owner A Data	15034
 Termination for Default	13185
@@ -1371,6 +1392,7 @@ US Department of Defence	9015
 Uganda Peoples Defence Forces	4351
 Ultra High Definition	12982
 Umbutfo Eswatini Defence Force	12922,34,167
+Unrecovered Defaulters	19585
 V. Defined	3058
 VI. DEFINIÇÕES Sem	4146
 VIII. SUR LES RESULTATS DEFINITIFS	16247
@@ -1395,6 +1417,7 @@ Web Subject Data Definitions Personnel White	1009
 Web. Subject Data Definitions RFC1510	1009
 Website Defacement	12928
 West Africa Digital Rights Defenders Coalition	9082
+Wezesha Portal and Manual Loan Register Deficiencies	19585
 Whole-of-Society KEY POLICY DEFINITIONS Broadcasting	18454
 Working Definitions	12360
 World Bank Group DEFINITIONS	12717

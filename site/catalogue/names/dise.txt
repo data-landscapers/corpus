@@ -14,6 +14,7 @@ Africa Centres for Disease Control	5213
 Africa Centres for Disease Control and Prevention	4782,1790,222,203,2721,2922,2036,2891,60,108
 African Centres for Disease Control and Prevention	9969
 Africa’s Center for Disease Control In Burundi	10865
+Against Children NTDs Neglected Tropical Diseases	19544
 Agricultural Inputs Programme CDC Centre for Disease	13080
 Animal Disease Act	11188
 Animal Disease Notification Information System	14002
@@ -35,9 +36,12 @@ CDC United States Centers for Disease Control	13300
 CENTRE FOR HEART DISEASES AND DIABETES	7167
 CENTRE FOR RHEUMATIC DISEASES Data Controller	7167
 CFA Franc COVID-19 Coronavirus Disease CPF	15731
+CHRONIC NON-COMMUNICABLE DISEASES	19544
+COMMUNICABLE DISEASES	19544
 COMMUNICABLE DISEASES CONTROL UNIT	14773
+COMMUNICABLE DISEASES Communicable	19544
 COVID-19 Corona Virus Diseases	13359
-COVID-19 Coronavirus Disease	10829,442,109,2040,2091,1411,1379,476,32,475
+COVID-19 Coronavirus Disease	10829,442,109,2040,2091,1411,1379,476,32,475,171
 COVID-19 Coronavirus Disease CPF Country Partnership	15491
 CPSD Coronavirus Disease	13331
 CSD International Statistical Classification of Diseases	1009
@@ -76,16 +80,21 @@ Component COVID-19 Coronavirus Disease	16896
 Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Corona Virus Disease	12175
+Corona Virus Disease-19	19531
+Corona Virus Disease-19 FBO Faith-Based Organization	19531
 Coronavirus Disease	2775,4057,3931,2569,3104,2848
 Coronavirus Disease CPF Country Partnership Framework	18293
 Country Disease Outlook	19284
 Crop Disease	18904
 Culture Sensitive Mental Health Support Disease	15713
 DA DISEEMBAR	15047
+DIAGNOSED DISEASES	19544
 DISE Dispositif	15961
 DISEASE MANAGEMENT PREVENTION AND PROMOTION SURVEILLANCE	2709
+DISEASES	19544
 DISEASES BY TYPE OF DISEASE	17043
 DISEASES IN HOUSEHOLDS	15574
+DISEASES YEAR	19544
 DISEC	15845
 DISEMPOWERMENT HEADCOUNT RATIO	17127
 DISER	15685
@@ -97,7 +106,7 @@ DiSEP	18286
 Diarrheal Disease	15247
 Diarrhoeal Disease	13454
 Directorate of Disease Surveillance	11912
-Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185,276
+Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185,276,640
 Disease Annual Epidemiology	16922
 Disease Annual Epidemiology Electronic	16922
 Disease Annual Epidemiology Epidemiology and Health	16922
@@ -131,6 +140,7 @@ Disease The Borrower	1988
 Disease-2019 DPI Digital Public Infrastructure DPGA	12241,839,15
 Disease-specific	771,9198
 Diseases	4674,7477,1378,3406,36,143,1569,416
+Diseases Among Five Years And Above	19544
 Diseases Arrest	12151
 Diseases Cancer	12151
 Diseases Cardio Pul-	12151
@@ -141,7 +151,8 @@ Diseases Kenya Vital Statistics Report	12151
 Diseases NCM National Coordinating Mechanism	12970
 Diseases NDHS National Digital Health Strategy	18478
 Diseases Table	12151
-Disemba	2868,3151
+Diseases WHO World Health Organization EXECUTIVE	19544
+Disemba	2868,3151,13498,46,2
 Disempowered	17127
 Disempowerment Headcount Ratio	17127
 Disempowerment Headcount Ratio The Disempowerment Headcount	17127
@@ -156,6 +167,9 @@ Diseño de Respuesta Reglas	16875
 Dutch Disease	1828
 ECOWAS Regional Centre for Surveillance and Disease Control	17688
 EDC Epidemiology and Disease Control EFSTH Edward	16922
+EMERGING AND RE-EMERGING DISEASES	19544
+EMERGING AND RE-EMERGING DISEASES. Emerging	19544
+EXPENDITURES BY DISEASES	19544
 Ebola Virus Disease	10829,1083,4047,52,861,49,14,25,1,1497
 Ebola Virus Disease FCTC Framework Convention	17289
 Electronic Integrated Disease Surveillance and Response	4202
@@ -185,6 +199,7 @@ Heart Diseases	12151
 Human Disease-Corona Virus Insecurity Hh Member	16902
 IADSR Integrated Animal Disease Surveillance and Response	14666
 ICD11 International Classification of Diseases	15966
+IDSR Integrated Disease Surveillance and Response	19544
 IDSR Integrated Disease Surveillance and Response LMIC	14666
 Immediately Notifiable Diseases	11912
 Implementación Oficina Técnica de Diseño de Proyectos	4209
@@ -203,9 +218,10 @@ Infectious Disease Unit	13122
 Infectious Diseases	10919
 Integrated Animal Disease Surveillance and Response	14666
 Integrated Disease Notification System. Diarrhoea	12976
-Integrated Disease Surveillance and Response	4260,5110,2047,586,2663,297,195,801,52,911,49,318
+Integrated Disease Surveillance	19544
+Integrated Disease Surveillance and Response	4260,5110,2047,586,2663,297,195,801,52,911,49,318,2255
 Integrated Disease Surveillance and Response IFR Interim	16922
-International Classification of Diseases	11969,444,316,2327,406,263,382,2521
+International Classification of Diseases	11969,444,316,2327,406,263,382,2521,916
 International Classification of Diseases KFH	12338
 International Classification of Diseases-10	15411
 International Coding of Diseases	15590
@@ -234,14 +250,21 @@ Medecine DISE Direction des Infrastructures Sanitaires	13306
 MoH All Disease Outbreak Module Artificial	4153
 Mombasa. The Africa Centres for Disease Control	17688
 Movement Control System COVID-19 Coronavirus Disease	11986
+Msamaha Disemba	19517
 Mycobacterial Diseases	12678
 NCD Non-Communicable Disease NDC Nationally Determined	11560
 NCD Non-communicable Diseases NCDI Non-communicable Diseases	17289
 NCDC National Centre for Disease Control NCDs	16941
+NCDs Non-Communicable Diseases RMNCAH Reproductive	19544
+NEGLECTED TROPICAL DISEASES	19544
 NON-COMMUNICABLE DISEASE	14773
+NON-COMMUNICABLE DISEASES	19544
 NON-COMMUNICABLE DISEASES AND NUTRITION Rwanda	14935
 NON-COMMUNICABLE DISEASES Thematic Policy Statement	16951
+NOTIFIABLE DISEASES	19544
+NOTIFIABLE DISEASES Epidemiology and Diseases	19544
 NPHIL's Department of Infectious Disease Epidemiology	16971
+NTDCP Neglected Tropical Diseases Control Programme	19544
 National Action Plan for Rare Diseases	10188
 National Center for Disease Control	17157
 National Center for Diseases Control NCDC	16863
@@ -253,10 +276,12 @@ Neglected Tropical Diseases PHC Primary Health	12729
 Nigeria Centre for Disease Control	9969,4927
 Nigeria Centre for Disease Control and Prevention	3721
 Non Communicable Diseases	12970,1803
+Non Infectious GIT Diseases	19544
 Non- Communicable Diseases	14773
 Non-Communicable Disease	14742
 Non-Communicable Diseases	12729,193,54,498,1247,21,31,283,3571
 Non-Communicable Diseases NAPHS	10776
+Non-Infectious GIT Diseases	19544
 Non-communicable Diseases	12606
 Noncommunicable Disease Risk Factors	18627
 Noncommunicable Diseases	13163,3778
@@ -268,6 +293,7 @@ PEN Plus Package of Essential Noncommunicable Diseases	17289
 PPR Brucellosis Anthrax New Castle Disease	17043
 Package of Essential Noncommunicable Diseases Interventions	17289
 Partners Centre for Disease Control	12291
+Peptic Ulcers Other Non-Infectious GIT Diseases	19544
 Percentage of Immediately Notifiable Diseases Entered	11912
 Percentage of Poultry Holdings Experiencing Animal Diseases	17043
 Plan for Neglected Tropical Diseases	10780
@@ -285,6 +311,7 @@ Rare Disease Cures Accelerator	10188
 Rare Disease Diagnosis	10188
 Rare Disease Patient Card	10188
 Rare Diseases	10188
+Rate CTX Cotrimoxazole COVID-19 Coronavirus Disease	19544
 Regional Disease Surveillance System Enhancement	10829
 Regional Disease Surveillance Systems Enhancement	11417
 Regional Disease Surveillance Systems Enhancement Program	11560,4399
@@ -311,6 +338,7 @@ Strengthen Integrated Pest and Disease Management	14818
 Strengthen Surveillance of Climate-Sensitive Diseases	13121
 TB Drug-Resistant Tuberculosis EDCU Epidemiology and Disease	12976
 Togo's Directorate of Non-Communicable Diseases	19355
+Top Ten Leading OPD Diseases Among	19544
 Transmitted Diseases UTG University of The Gambia	16926
 Tropical Disease CAD	12678
 Tropical Diseases	10780
@@ -320,7 +348,7 @@ Tropical Neglected Disease Response	10776
 Type of Disease and Livestock Type	17043
 Type of Disease and Poultry Type	17043
 U.S. Centers for Disease Control	12334
-U.S. Centers for Disease Control and Prevention	10641,5742,588,394,1332
+U.S. Centers for Disease Control and Prevention	10641,5742,588,394,1332,832
 UN-led Sudan Health Cluster. Disease	14959
 US Center for Disease Control	16971
 US Centers for Disease Control and Prevention	1824,14598

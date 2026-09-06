@@ -25,6 +25,7 @@ Blockchain for Refugees	12227
 Board Ghana Refugee Objective	15845
 Board Ghana Refugee Programme	15845
 Body Refugees and Returnees Service	14118
+Borrowed Funds Not Refunded	19585
 Bosnian-Herzegovinian and Syrian Refugees	12227
 Breeding Practices Among Nigerian Refugees Within	10841
 Bugesera Refugees Community	12328
@@ -246,6 +247,7 @@ Immigration and Refugee Protection. Home Affairs	9968
 Immigration and Refugees Bill	11986
 Immigration and Refugees Protection	5533,6453
 Improve Refugees	13938
+Inadequate Management of Outsourced Agents for Refusal Fee	19585
 Income Source Among Nigerian Refugees	10841
 Indicator Name Refugee	15601
 Indicator Name Unit of Measure Baseline Refugees	15601
@@ -376,6 +378,7 @@ Opportunities for Refugee Engagement Equatorial Guinea	10841
 Ouvrier Refus Autres	13390
 Overview of Refugee Status Determination	12227
 PART VII- REFUGEE	16836
+PART X REMISSION AND REFUND	19527
 PARTVII REFUGEE STAWS	16836
 PRIVATE SECTOR FOR REFUGEES	10841
 PS4R Private Sector for Refugees REC Regional	10841
@@ -404,7 +407,7 @@ R Refugee Board Objective	15845
 RDP Reconstruction and Development Programme RRO Refugee	11218
 RECOGNITION OF REFUGEES	16830
 REFUERZO DE LAS CAPACIDADES INSTITUCIONALES SOSTENIBLES	16898
-REFUGEE	16830
+REFUGEE	16830,2698
 REFUGEE APPEALS AUTHORITY	11177
 REFUGEE MANAGEMENT	12947
 REFUGEE OR AFTER REFUSAL OF RECOGNITION	16830
@@ -434,6 +437,7 @@ REFUSÉ	13300
 REFUSÉ DE RÉPONDRE	13300
 REGISTERED REFUGEES IN HODH CHARGUI	17971
 REMIS Refugee Education Management Information System	18911
+REMISSION AND REFUND OF TAX	19527
 RENFORCEMENT DE L’INCLUSION DES REFUGIES	19252,21
 RESIDENCE IN LIBERIA OF RECOGNIZED REFUGEES	16830
 RESPECT OF ILLEGAL ENTRY BY REFUGEES	16830
@@ -680,7 +684,7 @@ Refus Q65 Avez-vous	13390
 Refus Total Boucle du Mouhoun	10875
 Refus Un	1005
 Refus de Répondre	13390
-Refusal	3714,1845,1362,5417,210,523,1378,418,3,41,8,1270,1480,769,21,8,89,332,477
+Refusal	3714,1845,1362,5417,210,523,1378,418,3,41,8,1270,1480,769,21,8,89,332,477,147,15,58
 Refusal of Approval. Revocation	13951
 Refusal of Assignments	13951
 Refusant	3157,13246
@@ -690,6 +694,9 @@ Refuse Management	2775
 Refuse Registration	12185
 Refuse Workers and Other Elementary	16266
 Refuse des Une	13300
+Refuse-Collections Agents TZS	19585
+Refuse-collections Agents	19585
+Refuse-collections Agents LGA Ward Contract Period	19585
 Refused	5247,5467,6413,1858
 Refused Don’t	5247
 Refused FIN51	10714
@@ -793,6 +800,7 @@ United Nations High Commissioner for Refugee	16830
 United Nations High Commissioner for Refugees	1867,2260,3692,1797,1125,27,73,336,87,641,19,62,159,82,375,56,121,32,77,22,238,83,361,504,655,123,96,38,31,81,222,259,57,3,775,394,327,692,20,1,255,312,475
 United Nations High Commissioner for Refugees Integration	12227
 United Nations High Commissioner for Refugees Stories	10841
+United Nations High Commissioner for Refugees UNICEF	19590
 United Nations High Commissioner for Refugees Uganda	6493
 United Nations High Commissionner for Refugees	11944
 United Nations Refugee Agency	4439,7788

@@ -81,6 +81,7 @@ All District Hospitals MoH	18478
 Amr Hosny	12948
 Angl. CAC AUD NNPC Hosp. JIBWIS	11129
 Antiguo Hospital	4209
+Aného Hosts Fifth International History Festival	19622
 Apollo Hospitals Professor Jean-Rosaire Ibara	16275
 Application Hosting Platforms	11956
 Arthur Davison Children’s Hospital and Kitwe Teaching	7384
@@ -144,7 +145,8 @@ Barriers for Refugees and Host Communities GSMA Mobile	18715
 Basse District Hospital	16896,26
 Batista de Sousa Hospital. GOV Websites Management	11939
 Belhar Regional Hospital Concept	11248
-Benjamin Mkapa Hospital	8614
+Benjamin Mkapa Hospital	8614,10970
+Benjamin Mkapa Hospital Level	19584
 Bernadet Hoswold	15786
 Bet-el Church Hostel Hall	13046
 Beta Care Hospital	7167
@@ -274,6 +276,7 @@ Chitungwiza and Parirenyatwa Hospitals	13420
 Chris Hani Baragwanath Academic Hospital George	11248
 Chris Hani Baragwanath Hospital	8603
 Chris Hani Baragwanath Hospital Raheema Moosa	11986
+City Council Hospital	19585
 Climate Data Hosted	11283
 Close the Continent’s Investment Gap Gambia Hosts	17069
 Cloud Computing Hosted	14789
@@ -298,12 +301,14 @@ Control of Private Hospitals	1009
 Copy of Hospital Register	11282
 Cote-d’Ivoire and Senegal DATA HOSTING	10861
 Cottolengo Mission Hospital	7167
+Council Hospital	19585
 Craniofacial Hospital	19058
 Current Hosting	7548
 Cybil Portal Hosting	17028
 D-4 Promote Local Hosting of Nigerian Websites	11857
 D. G. COORD. HOSP Y ENFERM	4209
 DAR AL FOUAD HOSPITAL LIMITED Data	7167
+DC Kyerwa Kyerwa District Hospital	19541
 DEANESH HOSPITAL LIMITED Data Controller INST-3428009C40A	7167
 DELEGACIÓN HOSPITAL SANITARIOS SANITARIA	4209
 DELIGHTS SUN HOSPITAL LIMITED Data Controller	7167
@@ -346,13 +351,14 @@ Directorate of Hospital and Ambulance	18532
 Directorate of Hospitals and Directorate of Primary Health	18532
 Displaced and Host Communities Project	11469
 District Councils and Central Hospitals	12240
-District Hospital	3386,8952,41,6905
+District Hospital	3386,8952,41,6905,260
 District Hospital Health Center	12379
 District Hospital Health Center EMR Only	12379
 District Hospital Health Center Short	12379
 District Hospital Health Center Very	12379
-District Hospitals	1261,11077,41,743,1620,31,3705
+District Hospitals	1261,11077,41,743,1620,31,3705,1066
 District Hospitals Figure	18478
+District Hospitals Regional Referral Hospitals Document	19576
 Domain Hosting	12769
 Dr. Hossam Abdel Ghaffar	17562
 Draft Order Gazetting the Host Country Agreement	10313
@@ -451,6 +457,7 @@ HOSPIT. Y BIENESTAR SANITARIAS Y PLAN	4209
 HOSPITAL ADMINISTRATION UNIT	14773
 HOSPITAL ADMISSION	16892
 HOSPITAL AND SPECIALISED SERVICES	14773
+HOSPITAL BEDS AND EQUIPMENT	19544
 HOSPITAL BEDS PER	16892
 HOSPITAL DEATHS BY MAJOR DIAGNOSTIC CATEGORY	16892
 HOSPITAL Data Controller INST-7088756E6A2 LAIKIPIA Kenya	7167
@@ -491,7 +498,8 @@ Hospice KOUMONDJI	2623
 Hospitais	11537,5556,7,1657
 Hospitais Amigos	15966
 Hospitais Regionais	16019
-Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283,415,160,1496,62,972,693,141,183
+Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283,415,160,1496,62,972,693,141,183,456,134,3,41
+Hospital Active Dodoma Makole Makole Health	19541
 Hospital Adamawa North East	11857
 Hospital Ayres Menezes- HAM	18757
 Hospital Ayres de Menezes	18768
@@ -502,6 +510,7 @@ Hospital Caterers	12976
 Hospital Central de Maputo	2816,7372
 Hospital Central de Quelimane	12821
 Hospital Chemical	9123
+Hospital DDH Designated District Hospital HC	19544
 Hospital Data Management	12207
 Hospital Data Management Module for Births Registration	12186
 Hospital Director of Queen Elizabeth Central	13040
@@ -589,6 +598,7 @@ Hospital-wide HMIS	2709
 Hospitalar	5020,12080
 Hospitales	4209,12753
 Hospitales Públicos	17282
+Hospitali	19590,2
 Hospitalidad	16898
 Hospitalier	15555,2327
 Hospitalier Laboratoires Système	17845
@@ -614,13 +624,15 @@ Hospitalization Rates and Hospital Capacity Specijalnosti	10780
 Hospitalizations	10780
 Hospitalized	16902
 Hospitalized After Rwanda’s Crackdown	5889
+Hospitalized In Year	19544
 Hospitalized Jewel Howard-Taylor	10405
-Hospitals	1824,3561,315,966,1939,564,937,598,1153,99,24,937,503,1146,1986,334,65,1419,171,41
+Hospitals	1824,3561,315,966,1939,564,937,598,1153,99,24,937,503,1146,1986,334,65,1419,171,41,959
 Hospitals Clinics Laboratories Other Major	8605
 Hospitals District	15056
 Hospitals General	11857
 Hospitals Must Rethink Cyber	3279
 Hospitals Step	12328
+Hospitals TBC	19576
 Hospitals and Clinics	8677
 Hospitals and Community Centers	18712
 Hospitals and Community Reproductive Health Clinics	16951
@@ -654,6 +666,7 @@ Host ECOWAS Youth Development Centre Liberia	16961
 Host First National Digital Public Infrastructure	4808
 Host Global ATI Conference	18442
 Host Government	13610
+Host Government Agreement	19527
 Host IASB	11955
 Host Ideathon	12241
 Host Intrusion Detection Systems	1000
@@ -685,8 +698,9 @@ Hostel	11180
 Hostel Staff Table	11180
 HostelMate	7968
 Hostelería	16898
+Hosteli	19565
 Hostile Rhetoric Against	3245
-Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649,99,717,396,259,20,237,150,9,2,215,329,159,40,31,322,480,352,306,118,432
+Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649,99,717,396,259,20,237,150,9,2,215,329,159,40,31,322,480,352,306,118,432,3809
 Hosting ACIX	6238
 Hosting African	3436
 Hosting CPL-26	7884
@@ -739,6 +753,7 @@ Information Hospitalier SIMR	14442
 Information Hospitalier SIS Système	13306
 Information Hospitaliers	16441,1441
 Information Hospitalière	18297
+Integrated Hospital Management Information System	19584
 Integrated Population of Refugees and Host Communities	12297
 Interconnection and Local Hosting	14879
 Internal Security MORHCSA Modernization of Refugee and Host	1867
@@ -780,9 +795,11 @@ King Faisal Hospital LPF	12338
 King Faisal Hospital Rwanda	7764
 Kitwe Teaching Hospital and Arthur Davison Children	7383,1
 Klipfontein Hospital Concept	11248
+Kondoa District Hospital	19541
 Ksh.507 Million for Hospitality and Hired Cars	6588
 Kufra General Hospital	16956
 Kuruman Hospital	11986
+Kyerwa District Hospital	19541
 LESOTHO HOSTED HEADS OF INTELLECTUAL PROPERTY	12744
 LRA Hosts First Digital Symposium	17258
 La Digue Hospital. Amongst	18937
@@ -793,6 +810,7 @@ Letaba Hospital	11986
 Letaba Hospital and Tshwane District Hospital. Quarterly	11986
 Letlhakeng and Gumare Level I Primary Hospitals	12606
 Letsholathebe Memorial Hospital	12607,32
+Level National Hospitals Level	19576
 Libya Herald Latest Al-Hadba Al-Khadra Hospital	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Libya Policy Al-Hadba Al-Khadra Hospital Performs	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Libya’s Apollonia Al-Hadba Al-Khadra Hospital	4811,964,129
@@ -824,6 +842,7 @@ Majesty King Mswati III. Hosted	11131
 Major Hospital Local Govts	11857
 Major Hospitals Medical	11857
 Major and District Hospitals	16951
+Male and Female Council Hospital	19585
 Mamelodi Day Hospital	11986
 Mamode Hossen Essack	19049
 Mamohato Memorial Hospital	11628
@@ -860,6 +879,7 @@ Ministry of Energy. Connaught Hospital	18582
 Mission Hospitals	12606
 Mitigation Measures Zambia Refugee and Host Community	1988
 Mkhari Academic Hospital Health Construction	11248
+Mnazi Mmoja Hospital and Kimara Health Centre	19541
 Model Projects Construction of Hospitals	12606
 Modernization of Refugee and Host Community Settlement Areas	1867
 Moi Teaching and Referral Hospital	6516
@@ -867,11 +887,16 @@ Moorfields Eye Hospital Abu Dhabi	15262
 Moshupa Primary Hospital	12606
 Mpilo Hospital	13397
 Mpilo Hospital. Digital	13397
+Mtwara DC Municipal Hospital Late	19585
+Muhimbili National Hospital	19584
+Muhimbili National Hospital Level	19584
+Muhimbili National Hospital-MLOGANZILA	19584
 Multispecialty Hospital Rwanda	4167
 Municipal Hospitals	10775
 Municipality Social Club Hall Hosiana Church	13046
 Muriranja's Hospital	6378
 Muriranjas Hospital	6396,9
+Mwambani Hospital	19541
 Mwanawasa General Hospital	34
 Mzimpofu Hostel	13123
 Mzuzu Central Hospital	13122
@@ -885,6 +910,8 @@ NHIF National Hospital Insurance Fund NIA	2775
 NW Bojanala DM Tshilidzini Hospital	11986
 Nairobi Hospital	6274
 National Directorate of Hospitals	11417
+National Hospital	19544
+National Hospital EMD Emergency Medicine Department	19544
 National Hospital Insurance	12151
 National Hospital Insurance Fund	2515,7798,16,2,491
 National Hospital Insurance Fund Act	10822
@@ -892,6 +919,8 @@ National Minimum Standard Operating Procedures for Hostels	13247
 National Petroleum Corporation Hospital Jama’at Izalatul	11129
 National Police Service Level Four Hospital	12310
 National Referral Hospital. OBJECTIVES AND FUNCTIONS	12962
+National Specialized Hospitals	19544
+National and National Specialized Hospital	19544
 Ndera Neuro-Psychiatric Hospital	12338
 Ndola Teaching Hospital	5984,1399,1
 Ndola Teaching Hospital Dr. Justo Banda	7384
@@ -939,6 +968,7 @@ Petty-trade Hospital Primary	11857
 Piggs Peak Government Hospital	12470
 Piggs Peak Government Hospital. Through the Ministry	13145
 Pigg’s Peak Government Hospital and Good Shepherd	12956
+Pits Other Houses and Hostels	19585
 Police Hospital	11062
 Post Budget Seminar Hosted the Post Budget	11131
 Pr. Steeve MINTO’O ROGOMBE Centre Hospitalier	15973
@@ -976,6 +1006,7 @@ REG Hosts Eastern Africa Power Pool	15255
 REGIONAL HOSPITAL	18493,15,6,7,45
 RFM Hospital	13207
 RH Piet Retief Private Hospital	11986
+RRH Regional Referral Hospital DH District	19544
 Rakops Hospital	12607
 Rakops Primary Hospital	12639
 Raleigh Fitkin Memorial Hospital	7030
@@ -995,9 +1026,10 @@ Refugees and Host Community of Meheba Refugee Settlement	1778
 Refugees and Hosts	13938
 Regime Normativo de Hospedagem	11448
 Regional Hospital	14773
-Regional Hospitals	14742,31,817
+Regional Hospitals	14742,31,817,3954
 Regional Hosting Hub Development The Federal	10157
 Regional Referral Hospital	1261
+Regional Referral Hospitals	19544,40
 Reglamento Interno Hospitalario	4209
 Reliance for Refugees and Host Communities	12297
 Reparación Lavandería de Hospitales	4209
@@ -1017,9 +1049,13 @@ Réforme Hospitalière	15472,15
 S.A. Hossain	8022
 SAJ Hospital	14773
 SBEH Subramania Bharati Eye Hospital HIV	14773
+SERVICE UTILIZATION IN REGIONAL REFERRAL HOSPITALS	19544
 SIH Hospital Information System	3604
 SIMS Hospital	19058
+SPECIALIZED AND ZONAL REFERRAL HOSPITALS	19544
+SPECIALIZED SERVICES IN REGIONAL REFERRAL HOSPITAL	19544
 SSRN Hospital	14829,1
+Salaam Ilala Mchafukoge Mnazi Mmoja Hospital	19541
 Salima District Hospital	13160
 Santa Rita Vieira Regional Hospital	15590
 Santé CHUK Centre Hospitalo-Universitaire de Kamenge CIM	13306
@@ -1068,6 +1104,7 @@ Support Persons of Concern and Host Communities	18542
 Support Unit Camp Hospital	13361
 Supporting Core Hospital Services	16224
 Swakopmund Central Hospital	12947
+System BMH Benjamin Mkapa Hospital KCMC	19544
 Système de Gestion des Centres Hospitaliers	15936
 TOTOS SPECIALIST HOSPITAL LIMITED Data	7167
 TOURISM AND HOSPITALITY INDUSTRY	13420
@@ -1102,6 +1139,7 @@ US CDC and Bundung Hospital	4338
 Unitas Hospital and Another	2307
 University College Hospital	14829
 University Hospital of Geneva	15581
+University Hospitals	19407
 University Teaching Hospital	13040
 University Teaching Hospital Virology Laboratory	13454
 University Teaching Hospitals	13430
@@ -1121,6 +1159,7 @@ WFP. Refugees and Host Communities	12297
 WHR Window for Host Communities and Refugees	18625
 WINDOW FOR HOST COMMUNITIES	11905,2191,1647
 Walvis Bay State Hospital	12947
+Ward Hospital Status Kagera Bukoba DC	19541
 Welwitschia Private Hospital	12947
 Windhoek Central Hospital	12947
 Windhoek District Hospital	12421
@@ -1152,3 +1191,7 @@ Zambia Zambia Refugee and Host Communities Project	1867
 Zappie Host	3859
 Zayed Hospital	15262
 Zimbabwe. Hosted	4528,7984
+Zonal Hospital Grand Total Hospital Hospital	19544
+Zonal Hospital and Regional Referral Hospital	19544
+Zonal Referral Hospital	19544
+Zonal Referral Hospitals	19544

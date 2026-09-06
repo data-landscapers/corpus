@@ -3,7 +3,7 @@ A. Macijauskienė	12675
 ABBREVIATIONS ATM Automated Teller Machine BOT	7763
 AI Automated Teller Machines ATMs Automated	17235
 AI MACs	17116
-AI and Machine Learning	11268,4445
+AI and Machine Learning	11268,4445,3808
 ALICE MUKULU Data Processor INST-978524CB3ED MACHAKOS	7167
 AMUSEMENT MACHINE OPERATOR	14843
 AMUSEMENT MACHINE TECHNICIAN AND OTHER EMPLOYEES	14843
@@ -25,6 +25,7 @@ Advogados de Macau	6568
 Aet Dany Judicaël Mangbele Mackola Articles	16227
 Africa Macroeconomic Performance and Outlook Report	8574
 Agricultural Machinery Production	13122
+Agricultural Machinery and Equipment	19554
 Ali Macalin	9242
 Aliel Machado	8760
 All MACRA	14190
@@ -33,8 +34,11 @@ All MACs and SOEs	16872,103
 Alternative Machine-Learning Algorithm	18318
 Ambiente Macroeconómico Internacional Acentua-se	11396
 Ambiente Macroeconómico Nacional	11396
+Anaesthetic Machine	19585
+Anaesthetics Machine	19585
 Analyse Macro-Economique	18015
 Analyse Macroéconomiques	16381
+Anesthetic Machine	19585
 Annual MACs	17139
 Apple MacBook	8289
 Application of Machine Learning	2816
@@ -51,7 +55,7 @@ Association for Computing Machinery	2093,6671,364,109,502,951,445,955,5690
 Association for Computing Machinery. Crossref Google Scholar	8460
 Aucune MACROLIAS DEMANDE REJETEE	998
 Authority MACs Ministries	16876
-Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90
+Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90,2558
 Automated Teller Machine ATS Automated Transfer	13312,2
 Automated Teller Machine B2B Business	16876
 Automated Teller Machine Coronavirus Disease Digital	940
@@ -149,6 +153,7 @@ Corporation Numerical Machining Complex	14546
 Counter Financing of Terrorism Automatic Teller Machine	12701
 Culture Minister Mr. Macdonald Rakgare	12617
 Cyber and Data Protection Act. Machengete	13494
+DC Anaesthetic Machine	19585
 DEPÔTS TITRE VI SURVEILLANCE MACROPRUDENTIELLE	17443
 DESCRIPTION RATING MITIGATION MEASURE RISK MACROECONOMIC	11863
 DETERMINED BY RELEVANT MACS	14879
@@ -162,6 +167,7 @@ Dedicated MACs	17116
 Delayed Commissioning of Digital Weighing Machines Review	14546
 Denis Franconio Mac. Cette	14341
 Departments and Agencies ML Machine Learning MoH	12240
+Dialysis Machines	19544
 Digital Development and Macroeconomics	537,21
 Digital Economy Ecosystem Macroeconomic Enabling Environment	16876
 Digital Economy ML Machine Learning NC4	6432
@@ -191,6 +197,7 @@ EBM Electronic Billings Machine EGDI E-Government	13341
 ECA's Mactar Seck. Pillars	1714
 ECHANGEUR MAC GUINEA Antenna	17006
 ECOWAS Macroeconomic Convergence	17235
+EFD Machines	19602
 EPC Josina Machel	12148
 Economic Prospect Survey The Macro Fiscal	18577
 Edson Macuácua	12792
@@ -266,6 +273,7 @@ Governance High High High Macroeconomic Substantial	15619,1019
 Government and MACRA	14674
 Governo da RAE de Macau Saltar	6568,10769
 Graca Machel Trust Women Creating Wealth	1857
+Grass Cutting Machine Skip	19585
 Graça Machel Trust	11138
 Graça Machel Trust's Women Creating Wealth	1857
 Growing Concern for Macrofinancial Stability	11140
@@ -341,6 +349,8 @@ K L2 MAC	11209
 Kashe Macizai	3395
 Kericho and Machakos	12151
 Kernel-based Virtual Machine	13037
+Kilimanjaro Machine Tools Company ERP	19584
+Kisarawe DC X-ray Machine	19585
 Knitting Machine	12383
 Know-Your-Customer M2M Machine	13346
 LILONGWE WATER BOARD MACRA	12253
@@ -391,6 +401,7 @@ MACHINE TO MACHINE	6000
 MACHINE-GENERATED SUMMARY	8807
 MACHINE-TO-MACHINE	11211,51
 MACHINERY-OF-GOVERNMENT CHANGE IN FY2026 MOVES	1285,1,1837,1,1260,1
+MACHINES RADIOTHERAPY MACHINE	19544
 MACKANGA Ludovic	16381
 MACODA	12241,752,102
 MACP MOSIP	7065
@@ -464,6 +475,7 @@ MEDIUM TERM MACROECONOMIC AND FISCAL	17105
 MEDIUM TERM MACROECONOMIC AND FISCAL OUTLOOK	17105
 MEYA Macaire CEFA Dolisie Adjoint	16012
 MFPD Macro Fiscal Policy Division MoPED	18488
+MIR Machine Learning ML Ministry of Health	19521
 MIT Media Lab Macro Connections Group	16626
 ML Machine Learning MICDE Ministry of Information	7548
 ML Machine Learning MOOC Massive Open	1204
@@ -539,11 +551,13 @@ Machengete	2987,16,10491,14,167
 Machengete Says Africa Adopts Five Digital	5562
 Machenje Border Post	12984
 Machetes	4209
-Machi	2718,150,2548,603,1231,599,2770
+Machi	2718,150,2548,603,1231,599,2770,8916,30,15,1,2,9,1
+Machi. Hivyo	19565
+Machi. Kupitia	19592
 Machika	6598,443,190,5844
-Machine	958,3,853,962,182,904,264,1021,553,300,671,275,1076,582,1633,489,513,615,604,937,32,577,875,1993,28,34,1,1377,6,167,752,113
+Machine	958,3,853,962,182,904,264,1021,553,300,671,275,1076,582,1633,489,513,615,604,937,32,577,875,1993,28,34,1,1377,6,167,752,113,171
 Machine Intelligence APET African High-Level Panel	1814
-Machine Learning	1243,14,1559,168,620,47,877,716,125,910,270,283,502,214,1058,271,1844,419,125,945,30,116,63,93,163,346,56,18,251,1,9,1307,127,474,319,37,96,1400,44,95,728,55,280,924
+Machine Learning	1243,14,1559,168,620,47,877,716,125,910,270,283,502,214,1058,271,1844,419,125,945,30,116,63,93,163,346,56,18,251,1,9,1307,127,474,319,37,96,1400,44,95,728,55,280,924,323
 Machine Learning AIX Advanced Interactive	13185
 Machine Learning Approaches	11265
 Machine Learning Basics	11265
@@ -566,6 +580,7 @@ Machine Learning and Robotics Enthusiast	13074
 Machine Learning and Society	8380
 Machine Learning for Environmental Monitoring	18318
 Machine Learning for Sustainable Mining Practices	1554
+Machine Learning. Cette	19471
 Machine M3 Extended Broad Money Supply	2775
 Machine MAC	16872
 Machine MAN	14879
@@ -583,6 +598,10 @@ Machine Subscriptions	2776,1086,3084
 Machine Subscriptions Mobile Network Q3	2776
 Machine' Exploits Spotted	3279
 Machine- Decoupled	12214
+Machine-Powered Equipment-	19554
+Machine-Powered Equipment- Crop Maintenance	19554
+Machine-Powered Equipment- General Farm Use	19554
+Machine-Powered Equipment- Land Preparation and Planting	19554
 Machine-Readable	12360
 Machine-Readable Formats Prioritise	17149
 Machine-Readable Refugees	12227
@@ -602,14 +621,20 @@ Machine-verified	1807
 MachineLearning	16553
 Machineries	12979
 Machinery	1988,11,11334,1481,2137,27,18,109,130
+Machinery and Equipment	19554
+Machinery and Equipment Agricultural Large Scale Farms	19554
+Machinery and Equipment Other Crop Uses	19554
 Machinery and Related Trades	16266
 Machinery and Related Trades Workers Numerical and Material	16266
-Machines	7337,1184,311,4700,41,1919,555,56
+Machines	7337,1184,311,4700,41,1919,555,56,3482
 Machines Virtuelles	18319
+Machines and Point of Sale	19602
 Machines-outils	16047
 MachinetoMachine	10407
-Machinga	12241,1,838,15,35,10
+Machinga	12241,1,838,15,35,10,6462
+Machinga Complex	19585
 Machinga District	10412
+Machinga Empowerment Fund	19602
 Machinga Zomba Blantyre Lilongwe Salima Mulanje	13080
 Machinga. Phase	13099
 Machingauta	2093
@@ -617,6 +642,7 @@ Machinjiri	12242
 Machipanda	10083
 Machiri	13434,5,260
 Machiya Tower	3524
+Macho	19565
 Machogu	2666
 Machokole	4364
 Machonchoryo	1261
@@ -666,6 +692,7 @@ Macro Stress Testing Framework	11134
 Macro and Micro Correlates of World Bank Project	1264
 Macro-Economic Environment	16951
 Macro-Economic Protection Awareness	12395
+Macro-Economic Sector and Environment and Climate Change	19519
 Macro-Economic Situation	14000
 Macro-Economic Stability	13474
 Macro-Financial Environment External Environment Global	11134
@@ -680,7 +707,7 @@ Macro-economic Co-ordination Within the Community	14409
 Macro-economic Co-ordination Within the Community ARTICLE	14409
 Macro-objetivos	11569
 Macroeconom	970
-Macroeconomic	969,295,554,10,39,845,892,2935,54,300,3875,61,113,22,185,246,22,51,1,56,35,295,50,420,4,171,462,369,1,292,61,909,183,119,14,27,39,21,556,51,15,2,37,1,2,372,260,91,14,460,38,26,27,24,165,97,50,819,94,95,8,382,94,110,61,297,39
+Macroeconomic	969,295,554,10,39,845,892,2935,54,300,3875,61,113,22,185,246,22,51,1,56,35,295,50,420,4,171,462,369,1,292,61,909,183,119,14,27,39,21,556,51,15,2,37,1,2,372,260,91,14,460,38,26,27,24,165,97,50,819,94,95,8,382,94,110,61,297,39,112,136,70
 Macroeconomic Analysis and Research Unit	12962
 Macroeconomic Angola	11417
 Macroeconomic Assumptions	13122
@@ -721,6 +748,7 @@ Macroeconomic Stability and Financial Re-engagement	970
 Macroeconomic Stability and Financial Sector Deepening	13685
 Macroeconomic Stabilization Program	10779
 Macroeconomic Substantial	11905,3285,471
+Macroeconomic Targets and Assumptions	19602
 Macroeconomic Technical Working Group	17317
 Macroeconomic and Financial Overview	14744
 Macroeconomic and Financial Policy	12584
@@ -799,6 +827,7 @@ Mphumakudze and Macudvulwini	13012
 Mr. Ben MacWilliams	16954
 Mr. MacWilliam	16954
 Mr. Mactar Seck	15931
+Mr. Mactar Seck of ECA	19578
 Mr. Patrick Machika	13214
 Mr. Philemon Machaine	13610
 Mr. Raymond Machingura	13562
@@ -841,6 +870,7 @@ Ntcheu DHO Stephen Macheso	12141
 O Gabinete de Informação de Macau	11683
 OVERVIEW OF MACROECONOMIC DEVELOPMENTS	5655
 OVERVIEW OF MACROECONOMIC DEVELOPMENTS Ethiopia	5655
+Office of Solicitor General. Macro- TMX	19519
 Official Use Only Activity Main Machines	12253
 Official Use Only Macroeconomic	17470
 On-going All MACs	16872
@@ -848,7 +878,7 @@ Osvaldo Machatine	12790
 P. and Macdonald	12090
 PMEs A DSPDP de Macau	6568
 POLICY DISCUSSIONS A. Addressing Macroeconomic Imbalances	18823
-POS Machines	11955
+POS Machines	11955,7630
 POTRAZ Director General Gift Machengete	13508
 POTRAZ Director-General Dr Gift Kalisto Machengete	10168
 POTRAZ Director-General Dr Gift Machengete	8705
@@ -867,6 +897,7 @@ Partners MACROECONOMIC FRAMEWORK Implement	11906
 Partners MACROECONOMIC FRAMEWORK World Bank Implement	11906
 Patrick Machika	6598,633,5844
 Patrick Machika PRINCIPAL SECRETARY NATIONAL REGISTRATION	13105
+Pedal Washer Machine	19565
 Peter Macdonald	14932
 Plant and Machine Operators	16266
 Política Macroeconómica	1701
@@ -956,12 +987,14 @@ Statistics Development ATM Automatic Teller Machine	15415
 Statistiques Macroéconomiques	17945
 Steering Committee Chairperson and MACRA Acting Director	13107
 Stephen Macheso	12141
+Storage of Aquaculture-Related Machinery and Equipment	19554
+Storing Crop-Related Machinery and Equipment	19554
 Strategic Planning and Macro-Fiscal Framework	18488,12,77
 Strategic Planning and Macro-Fiscal Framework The Ministry	18500
 Strategies for Macro-Economic Stability	13474
 Strengthen Budgetary Credibility. The Macro	18825
 Strong Macro Frameworks Finally	9331
-Substantial Macroeconomic	1284,3404,1891,1298,4111,1932,1817,276,2120,222,454,173
+Substantial Macroeconomic	1284,3404,1891,1298,4111,1932,1817,276,2120,222,454,173,499
 Substantial Macroeconomic Moderate Moderate Moderate Sector	17505,845
 Substantial. Macroeconomic	12176,4773
 Substantial.’ Macroeconomic	10829
@@ -969,6 +1002,7 @@ Summit Co-Chair MacDella Cooper	7720
 Support Vector Machines	2816
 Susan Wangui Macharia	15059
 Sustain Macroeconomic Stability	18500,77
+System ATM Automated Teller Machine BAKWATA	19590
 Sá Machado	18783
 THIERNO CAMARA BAMBA NDIAYE MACIRÉ DOUCOURE	17931
 Taita-Taveta Kitui Machakos Makueni Region Central	7869
@@ -988,6 +1022,7 @@ Tin Kam Ho. Machine Learning Made	14769
 Trabajos de Seguimiento Coyuntura Macro Comité de Datos	4209
 Train MACs	16848,268
 Training of MACs	16848,5
+Type of Machinery and Equipment Used	19554
 Types of AI Machine Learning	4528
 UNICEF Guinée Mott MacDonald Limited	16628
 Under Secretary Macanjana C. Motsa	13223
@@ -1008,6 +1043,8 @@ Wayback Machine	2815,9035,40,115,206,49,16,88,23,8,27,24,3098
 Whilst MACRA	14674
 Wood Mackenzie	12233
 World Bank. Macroeconomic Development	12376
+X- RAY MACHINE	19544
+X-ray Machines	19585
 Xaqa Helidda Macluumaadka	14859
 Year Macro Retail Breakout	7446
 Zealand Nigeria North Macedonia Panama	10764

@@ -64,6 +64,7 @@ County-level Focal Officers	17114
 County-level Focal Persons	17114
 Creation of Sectoral Focal Points	1000
 Customer Focus	12606,2229
+Customer Focus The NSS	19519
 D Minimal Focus	11867
 D4D Hub. Focuses	1063
 DESIGNATION DE POINTS FOCAUX	15744
@@ -79,6 +80,8 @@ Diversity Focus	4972
 Diversity Focus Figure	4972
 Dr. Fock	13488
 ECOWAS National Focal Points	10508
+EISOs Sector Focus	19534
+EM-DAT Disaster Risk Reduction Focal Points	19520
 Emerging Technologies Focal Points	7548
 Environmental Focal Points	16614
 Environmental Protection and Green Development Focuses	3487
@@ -89,11 +92,12 @@ FGD Focus Group Discussion	18620
 FGD Focus Group Discussion FPI European	970
 FGD Focus Group Discussion GBA Greater	16926
 FGD Focus Group Discussion ID Identification	12328
-FOCAC	791,297,61,1880,570,2392,12,787,3204,621,430,273,246,54,1644,3608,59,1550,311,54,114,282
+FOCAC	791,297,61,1880,570,2392,12,787,3204,621,430,273,246,54,1644,3608,59,1550,311,54,114,282,282
 FOCAC Beijing Summit	18790
 FOCAC Summit	13262,5528
 FOCAC ZTE	4907
 FOCAC-Plano de Ação	18958
+FOCAC-related	19522
 FOCAC.org	1088,61
 FOCU B	14897
 FOCUS	11180,2352,1365,2973,143,918
@@ -135,7 +139,7 @@ Focilitotion de I'occès	15429
 Foco O CING	15910
 Focos	18768
 Focos de Paludismo	18768
-Focus	212,14,161,120,105,12,285,225,427,206,47,14,274,318,98,246,1077,687,567,150,192,3,236,823,94,345,9,12,46,146,25,467,29,79,80,545,229,286,552,645,734,22,163,31,93,2,7,2,74,253,304,84,6,3,75,45,12,216,17,2,64,79,23,28,17,68,39,124,324,96,217,2,76,295,253,50,3,227,207,45,96,56,52,49,22,7,21,155,69,119,14,26,255,62,188,2,50,431,14,54,116,394,150,52,2,16,1,20,5,171,10,8,103,435,50,125,14,94,87,58,338,26,70,1,6,424,19
+Focus	212,14,161,120,105,12,285,225,427,206,47,14,274,318,98,246,1077,687,567,150,192,3,236,823,94,345,9,12,46,146,25,467,29,79,80,545,229,286,552,645,734,22,163,31,93,2,7,2,74,253,304,84,6,3,75,45,12,216,17,2,64,79,23,28,17,68,39,124,324,96,217,2,76,295,253,50,3,227,207,45,96,56,52,49,22,7,21,155,69,119,14,26,255,62,188,2,50,431,14,54,116,394,150,52,2,16,1,20,5,171,10,8,103,435,50,125,14,94,87,58,338,26,70,1,6,424,19,513
 Focus Africaguinee.com Créé	11724
 Focus Area	10964,170,771,1206,1345,1145,57,778,486,27,1507
 Focus Area Collaboration Key Enablers Challenges	14566
@@ -147,13 +151,14 @@ Focus Areas DEI Diversity	12493
 Focus Areas The Focus Areas	1814
 Focus Areas. Strengthening of Legal	18456
 Focus Countries	2192
+Focus Diplomatic History Diplomatic Figures	19522
 Focus Discussion Groups	1778
 Focus Economics. Note	13532
 Focus Eritrea	13979
 Focus Group	1778,5542,4907,4887
 Focus Group Discussion	899,7433,3910,86,650,5634
 Focus Group Discussion KICTANet	9547
-Focus Group Discussions	12210
+Focus Group Discussions	12210,7324
 Focus Groupe	16196,186
 Focus Groupe Media Accueil	16382
 Focus Groupe Media URL	16382
@@ -174,10 +179,11 @@ Focus. Celui-ci	8891
 Focus. Washington	18301
 FocusEconomics	13532
 FocusEconomics FocusEconomics	13532
-Focused	1284,3158,83,3,227,3572,1674,994,1342,90,85,802,17,144,57,124,1341,514,1496,132,2106
+Focused	1284,3158,83,3,227,3572,1674,994,1342,90,85,802,17,144,57,124,1341,514,1496,132,2106,337
+Focused Antenatal Care PPFP Post-Partum Family	19544
 Focused Investigative Task Teams	12956
-Focuses	626,7979,3609,2598,2345,1372
-Focusing	432,1122,1831,1047,540,270,125,333,1771,701,204,2465,1026,1715,84,885,201,213,482,1495,18,197,212,515
+Focuses	626,7979,3609,2598,2345,1372,1042
+Focusing	432,1122,1831,1047,540,270,125,333,1771,701,204,2465,1026,1715,84,885,201,213,482,1495,18,197,212,515,1660
 Focusing Resources for Effective School Health	14851
 Focusing South Africa Search Results	13462
 Focuson	16833
@@ -301,6 +307,7 @@ N FOCUS RECOMMENDED INITIATIVES TIMELINE RESPONSIBLE	11857
 N. FOCUS AREA RECOMMENDED INITIATIVES PS-1	11857
 N. FOCUS AREA RECOMMENDED INITIATIVES Timeline	11857
 NDAs. Focusing	8130
+NDMS. The Disaster Focal Points	19520
 NIJIMBERE Samson Point Focal TIC Ministère	13341
 NPC Focal Person	12051
 NTARABAGANYI Pierre Point Focal TIC Channel	13341

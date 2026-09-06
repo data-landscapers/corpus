@@ -44,6 +44,7 @@ COMP. ENROB. SIROP GLES. PDRE. SUSP	15930
 COMP. ENROB. SUSP.BUV. COMP. SEC	15930
 CPN Enregistrer	19226
 Centro Nacional Enrique Matala Matomba de Ekuku	4209
+Chapter Three School Enrolment and Attainment Key	19542
 Code des Enregistrées	18013
 Completion Net Enrollment Ratio	16436
 Comprehensive Mass Enrollment	16983
@@ -95,7 +96,7 @@ EnRépubliquetogolaise	19212
 Enreg	15999
 Enregistr	17438
 Enregistre	10876,5032
-Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91,849,186,143,3,13,11,31,110,46,48,4,116,31,50,6,15,12,2,20,594,18,273,11,2,14,7,22
+Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91,849,186,143,3,13,11,31,110,46,48,4,116,31,50,6,15,12,2,20,594,18,273,11,2,14,7,22,153
 Enregistrement Cadastral	10876
 Enregistrement Cadastral CEDEAO Communauté	10876
 Enregistrement Communal	10876
@@ -111,7 +112,7 @@ Enregistrement des Faits	9637,1
 Enregistrement des Graphique	13300
 Enregistrement des Institutions	17830
 Enregistrement des OID	16115
-Enregistrer	747,258,5949,963,2959,2499,2659,60,653,1555,130,794,35
+Enregistrer	747,258,5949,963,2959,2499,2659,60,653,1555,130,794,35,125
 Enregistrer Cocher	19226
 Enregistrer Cocher Ecrire Indiquer Noter	19226
 Enregistrer Enregistrer	19226
@@ -128,7 +129,7 @@ Enregistrerlesinformationssurleresponsabledetraitement	16034
 Enregistrez	747,15882
 Enregistrée	15780
 Enric Aguilar	16135
-Enrich	12493,479,4185
+Enrich	12493,479,4185,2377
 Enriched	160,152,240,14,17,171,19,220,197,9,2,15,61,301
 Enriches	4429,2636
 Enriching Voyage	2367
@@ -166,7 +167,7 @@ Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollment of Liberians	16993
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638,241,1007,75,49,1467,17,14,437
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638,241,1007,75,49,1467,17,14,437,631
 Enrolment Confirmation	16902
 Enrolment Education	12356
 Enrolment Infrastructure	11774
@@ -176,6 +177,7 @@ Enrolment Ratio OSM	13960
 Enrolment School-aged	15604
 Enrolment and Class Sizes	18512
 Enrolment and Completion	13991
+Enrolment and Graduate Trend	19544
 Enrolment of Female Learners	2775
 Enrolment of International Students	14775
 Enrolment of Learners	2775
@@ -207,6 +209,7 @@ Fokontany Enregistrement	14480,8,1,1
 GER Gross Enrollment Rate Telecommunications Inc	16942
 GER Gross Enrolment Rate	14916
 GER Gross Enrolment Ratio GGR Gross	14747
+GER Gross Enrolment Ratio GIS Geographical	19542
 GER Gross Enrolment Ratio GNLSA Gambia	16852
 GOZEM CONGO. Enregistrée	15780
 Gender Public and Private School Pupil Enrolment	18460
@@ -224,9 +227,10 @@ Gross Enrollment Ratio Central African	13314
 Gross Enrolment Rate	12175,24,2717,1936,1608
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
-Gross Enrolment Ratio	13991,756,857,2856
+Gross Enrolment Ratio	13991,756,857,2856,1082
 Gross Enrolment Ratio GoSE Government	13960
 Gross Enrolment Ratio for Basic and Secondary Education	14958
+Gross Enrolment Ratios	19542
 Gross Tertiary Enrolment Ratio	14775
 Gross Tertiary Enrolment Ratio HEC	14775
 Gross Tertiary Enrolment Ratio The Gross	14775
@@ -251,6 +255,7 @@ L’onglet Enregistrer	13375
 M. Enrique DUMAIRE	16175
 MASS ENROLMENT	1920
 MASS ENROLMENT AND RENEWAL EXERCISE	1920
+Mainland Tanzania. Net Enrolment Rate	19542
 Mali Enregistrement	18076
 Mandatory Enrollment of All Citizens and Foreign Residents	16983
 Mandatory Enrolment	16983
@@ -269,29 +274,48 @@ Neither Enrolled	15244
 Net Enrollment Rate	12411
 Net Enrollment Rates	12411
 Net Enrollment Ratio	16436
-Net Enrolment Rate	12175,24,4653
+Net Enrolment Rate	12175,24,4653,2690
+Net Enrolment Rate OCGS Office	19542
+Net Enrolment Rates	19542
 Net Enrolment Rates NESIP	12175
-Net Enrolment Ratio	12175,1816
+Net Enrolment Rates for Persons Aged	19542
+Net Enrolment Ratio	12175,1816,5551
 Net Tertiary Enrolment Rate OU	14775
 Nigerian Government Intensifies National Identity Enrolment	7141,3
 Non-Citizens Enrolled	16374
 Normal Enregistrer	19226
 Noter Enregistrer	19226
+Number of HEI Enrolled	19544
 O COMBATE AO ENRIQUECIMENTO ILÍCITO	16487
 OBJET DE LA REQUETE Enregistrement	10821
 PAYMENT NEEDS AND ENROLLMENT NOTIFICATION ADMINISTRATION	19237
 PDO Outcomes Enrollment and Empanelment	16079
 PERSONNEL PERSONNE ET ENREGISTREZ TOUT ACCOUCHEUSE	13300
 PFPP Enregistrer Noter	19226
+PHCs Region Net Enrolment Ratio GPI	19542
 PILIER III ADOPTER LES SOLUTIONS ENRD	18316
 PRELIMINARIES Enrolled	16841
 Phase Préparatoire Enregistrement	14489
 Platform Enrolment	4528,7984
+Population and Net Enrolment Rates	19542
 Pre-Primary Education Enrollment Rates	12411
+Pre-Primary Enrolment Ratio	19542
+Pre-Primary Enrolment Ratio Pre-primary	19542
+Pre-Primary Net Enrolment Rate	19542
+Pre-Primary and Net Enrolment Rate	19542
 Pre-enrollment and Enrollment	6343
 Primary Education Enrollment Rates	12411
 Primary Gross Enrollment Ratio	14897
+Primary Gross Enrolment Ratio	19542
+Primary Net Enrolment Rate	19542
+Primary Net Enrolment Rates	19542
+Primary School Net Enrolment Rate	19542
+Primary School Net Enrolment Rate Figure	19542
+Primary School Net Enrolment Rates	19542
+Primary School Net Enrolment Ratio	19542
+Primary Schools Gross Enrolment Ratio	19542
 Primary and Junior School Enrolment	2775
+Primary and Lower Secondary Gross Enrolment Ratios	19542
 Product GER Gross Enrolment Ratio GPI	14896
 Promotion des EnR	16621,1695
 Provide. Enrolled	19237
@@ -301,6 +325,7 @@ Pupil Enrolment and Number of Teachers	2775
 Pupils Enrolment	18460
 Q.159 ET ENREGISTRER LE NUMÉRO	13300
 Rate GER Gross Enrolment Rate GIR	18460
+Region Net Enrolment Rates	19542
 Registre du Courrier Enregistrement	10975
 Research Network GER Gross Enrollment Rate	13991
 Responsables Coût Phase Préparatoire Enregistrement	14490
@@ -314,17 +339,23 @@ SOCIAL STATISTICS Student Enrolments	13479
 SOEURS ENREGISTRÉS	13300
 STEM Education and Enrolment	11140
 Saisines Enregistrées Dossiers	10975
-School Enrolment	15796
+School Enrolment	15796,3746
+School Enrolment Rates	19542
+School Enrolment School	19542
+School Enrolment and Attainment	19542
+School Enrolment and Attainment Appendix	19542
 School Enrolment and Attendance	14851
 School Level Enrolment Trend	18460
 Schools Enrolment Distribution Boys Girls	18460
 Schools Enrolment Distribution Figure	18460
 Secondary Education Enrollment Rates	12411
 Secondary Gross Enrollment Ratio	14897
+Secondary Net Enrolment Rate	19542
 Secondary Net Enrolment Ratio	13991
 Sectors Enrolled	12551
 Services. Enrolment	12359
 State Enrolled Community Health Nurse Midwives	17105
+Strengthening Pre-Primary Enrolment	19542
 T Enrolment	14729
 TAPE ACTION ENREGISTREMENT ET EXAMEN PRELIMINAIRE	14424
 TITRE VI ENREGISTREMENT	15999
@@ -338,9 +369,12 @@ Target Biometric ID Enrolled	17139
 Teacher Trainees Enrolment	2775
 Tertiary Enrolment Ratio	14775
 Training NER Net Enrolment Rate NGO	15604
+TreeCity Enrgy B8	19476
 TÉ ENREGISTRÉE COMME AYANT	13300
 TÉ ENREGISTRÉE. JOUR MOIS ANNÉE BCG	13300
 UCP Enregistre	15908
 UPDATE OF MASS ENROLMENT EXERCISE	1920
 University Enrolment1	2775
 Ward Enrollment Exercise	4291
+Year and Net Enrolment Rate	19542
+Years and Net Enrolment Rate	19542

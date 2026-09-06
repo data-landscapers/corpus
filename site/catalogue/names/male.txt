@@ -7,6 +7,7 @@ Africa and Havana’s Malecón	5407,676
 Age Female Male Sex Ratio	12151
 Age Group Male Female J S	18443
 Age Group of Police Officers Male Female	14760
+Age Groups Male Female	19542
 Age Male Female Total Kenya	12151
 Age Males Females	18441
 Akech Tong Malek	17557
@@ -31,6 +32,7 @@ Deficit of Males	18464
 Designation Male Female Sum	18578
 Direct Male Beneficiaries	15663
 District Female Male	12413
+Dkt. John Samwel Malecela Mkoani Dodoma	19617
 Dr. Jarso Maley Jallah	17173
 ECOWAS Male	16935
 EU Male	16935
@@ -49,7 +51,10 @@ Expatriate Male Expatriate Female	3862
 Expected Males	12151
 FEMALE MALE Banks	15130
 FEMALE MALE UNKNOWN GENDER Figure	16935
+Female Both Male Female Sexes Sexes	19542
 Female Both Male Sexes Male Sexes	12151
+Female Both Sexes Male Female	19542
+Female GPI Both Male Female GPI	19542
 Female Male	11581,832,2643,1846
 Female Male All Agriculture	10841
 Female Male All Working	10841
@@ -64,13 +69,24 @@ Female Male Regional	18441
 Female Male Senior Secondary	18441
 Female Male Total Agriculture	11581
 Female Male Total Guinea-Bissau	11581
+Female Male Total Literate Total Literate	19542
 Female Male Unknown Total Female Male	16935
 Female Male Workforce	14761
+Female Sexes Male Sexes Male Sexes	19542
+Female Total Female Total Male Female	19542
+Female Total Male Female	19542
+Female Total Male Female Kaskazini Pemba	19542
+Female Total Male Female Songwe	19542
+Female Total Male Female Total Male	19542
 Female and Male	8604
 Females102.7 Males Births	15056
 Forensic Science Laboratory Cadre Male Female	14742
 Freetown Male Correctional Centre	18477
 GDP. Male LFP	17458
+GPI Both Male Female GPI	19542
+GPI Both Male Female GPI Sexes	19542
+GPI Both Male Female GPI Tanzania	19542
+GPI Both Sexes Male Female GPI	19542
 Gambia Male	16935
 Garang Malek and Ruey Guandong	3583
 Garang Mayom Kuoc Malek	3583
@@ -83,6 +99,7 @@ Gender of Household Head Male	17127
 Gender of Household Head Male Head	17127
 Ghana Ethiopia Egypt Male	11004
 Ghana Male	16935
+Group Both Sexes Male Female	19542
 Guinea Bissau Male	16935
 Guinea Male	16935
 HOH Male Headed HOH Women Men	17127
@@ -129,11 +146,13 @@ Male Academic	9128
 Male Annually	15845
 Male Attending	12431
 Male Basic Phone Feature Phone Smartphone	582
+Male Both Sexes Male Both Sexes	19542
 Male Circumcision	15247
 Male Circumcision Status	15247
 Male Country Of Birth Male Female	12151
+Male Dodoma Male Female	19557
 Male Estimates Standard Error Coefficient of Variation	14832
-Male Female	6000,4980,975,196,258,1,3,18,14,650,1720,241,188,330,53,98,1151,45,14,300
+Male Female	6000,4980,975,196,258,1,3,18,14,650,1720,241,188,330,53,98,1151,45,14,300,2307
 Male Female All	12413
 Male Female Both Sexes	14815
 Male Female Both Sexes Applied	14815
@@ -147,6 +166,9 @@ Male Female Diploma	12431
 Male Female FINAL RESULTS	16921
 Male Female Figure	1154,10038,5684
 Male Female Formal Sector Industry	12445
+Male Female GPI Both Male	19542
+Male Female GPI Both Male Female	19542
+Male Female GPI Sexes	19542
 Male Female Male	418
 Male Female Male Female	10765
 Male Female Male Female Health	15056
@@ -157,10 +179,12 @@ Male Female Rank Cause	15056
 Male Female Recruitment	14760
 Male Female Rural Urban	12431
 Male Female Table	11192,7251
+Male Female Tanzania	19542
 Male Female Total Did	16950
 Male Female Total Literate	16950
-Male Female Total Male Female	11192,3704,2054
+Male Female Total Male Female	11192,3704,2054,2592,15
 Male Female Total Male Female Bomi	16935
+Male Female Total Male Female Tanzania	19542
 Male Female Total Manufacturing	236
 Male Female Total Manufacturing Electricity	12445
 Male Female Total Micro	12445
@@ -174,9 +198,14 @@ Male Female Urban Rural	940,15981
 Male Female Western Cape	11192
 Male Female White Paper	11986
 Male Female Zambia Rural Urban	12431
+Male Geita	19542
 Male Headed Female Headed Figure	17127
 Male Internet	15617,1323
 Male Leader	17099
+Male Literate Female Literate	19542
+Male Mainland Tanzania Primary School	19542
+Male Male	19542
+Male Male Age Group Both Sexes	19542
 Male Medical Ward	18937
 Male NA NA	16260,988,4
 Male NA NA NA	16260,988
@@ -187,8 +216,12 @@ Male Population	9485,2910
 Male Preference	16266
 Male Primary	15604
 Male Quarterly	15845
+Male Total Literate Total Total Literate	19542
+Male Total Male Female Total Female	19542
+Male Ward	19585
 Male Young	14897
 Male and Female	12253
+Male and Female Council Hospital	19585
 Male-dominated Sectors	10964
 Male-headed	17285,1158
 Malebona Mathulise	12712
@@ -202,13 +235,14 @@ Maleh	15129
 Malehloa Maphenchane	12712
 Malehloa Molato	9440,3279,30,8
 Maleika Heenaye Mamode Khan	14812
+Malek Ezzahi	19392
 Malek Wahib Benhammou	15360
 Malem Hod-	18304
 Malem Hodar	18304
 Malem Niani	18304
-Malengo	7763
+Malengo	7763,11827,2
 Maleoatle Chele	12697
-Males	958,8527,1646,787,233,258,4,564,1919,160,607,1310,1470,184,362
+Males	958,8527,1646,787,233,258,4,564,1919,160,607,1310,1470,184,362,542,13,11,2
 Males Female Rank Cause	12413
 Males Females	18441
 Maletela Tuoane-Nkhasi	12328
@@ -220,13 +254,16 @@ Manufacturing Male Female Total Water	12445
 Marceau MALEKOU	16099
 Mheshimiwa Anne Kilango Malecela Mbunge	2868
 Minister of Education Dr. Jarso Maley Jallah	17214
+Mjini Magharibi Total Male Female	19542
 Mobile Phone Ownership National Male Female	12251
+Mortality Male Life Expectancy	19544
 Mr. MALENGA Papy	16495
 Ms Lahlane Malema	2626
 Ms Malebogo Selemogo	10358
 Ms Malehloa Celina Molato	12706
 Muchinga Northern Eastern Western Copperbelt Male	12431
 N Operators Nigerian Male Nigerian Female	3862
+NA MALENGO YA MWAKA	19592
 NA Male	12344,3273,1323,937,1
 NA Male Internet	12344,5533,1
 NER Male	13991
@@ -245,9 +282,12 @@ Nigerian Male Nigerian Female Expatriate Male	3862
 Nigerian Nigerian Male	3862
 Nigerian Nigerian Male Nigerian Nigerian Female	3862
 Number Percent Number Male	16950
+PHC Age Both Sexes Male Female	19542
+PHC. Region Both Sexes Male Female	19542
 PHC. Region Total Male Headed Female	18443
 Percentage Female Male	14775
 Percentage Number Male Female Total Top	14773
+Percentage of Male Sexually	19544
 Permanent Contract Executive Female Male	12969
 Pinkie J Malebe SADCAS Technical Manager	13068
 Place of Residence and Sex of Household Head Male	16921
@@ -263,8 +303,11 @@ Region Urban Region Rural Gender Male	12399
 Religious Affiliation and Sex Male Percent Female	16921
 River Gee Grand Kru Male Female	16921
 Roberta Malee Bassett and Paul Seaden	6832
+Rural Urban Both Sexes Male	19542
+Rural Urban Both Sexes Male Female	19542
 Rural Urban Male Total Female	12431
 Rural Urban Total Male Female	12431
+Selected Age Group Both Sexes Male	19544
 Senegal Male	16935
 Sex Liberia Male Female	16921
 Sex Male	14666,2284
@@ -291,8 +334,19 @@ Sex and County Total Urban Rural Male	16921
 Sex and Ethnic Affiliation Total Male Female	16921
 Sex of Household Head Male	15244
 Sex of Respondents Male Female	12978
+Sexes Male Female	19542
+Sexes Male Female Both Sexes Male	19542
+Sexes Male Female Figure	19542
+Sexes Male Female GER	19542
+Sexes Male Female GPI	19542
+Sexes Male Female Sexes Male Female	19542
+Sexes Male Female Teenagers	19542
+Sexes Male Female Total Total Literate	19542
 Sierra Leone Male	16935
 Size Band Male Female Total Micro	12445
+Tanzania Male Total Male Female	19542
+Tanzania Zanzibar Both Sexes Male Female	19542
+Tanzania Zanzibar Total Male Female	19542
 Temporary Permanent Outsourced Female Male Domestic	15136
 Temporary Permanent Outsourced Total Female Male	15136
 Thembi Malena Kumapley The World Bank	17962
@@ -300,7 +354,11 @@ Togo Male	16935
 Type of Residence and County Male Female	16921
 Uneducated Primary Secondary Higher Male Female	15574
 Universe Male	17165,1405
+University and Other Related Male Mjini Magharibi	19542
+University and Other Related Tanzania Male	19542
 Unknown Total Female Male Unknown	16935
+Upper Secondary University and Other Related Male	19542
+Urban Both Male Female Both Male	19542
 Urban Number Total Male Female Rural	12431
 Urban Rural Male Female Azerbaijan UMIC	16996
 Urban Rural Male Female HIGHLIGHTS	16921
@@ -312,3 +370,4 @@ Year Male Female Male Female	14815
 Year-2024 No. County Male Female	16970
 Youth Male	12328
 Zambia Rural Urban Total Male Female	12431
+Zanzibar Group Both Male Female GPI	19542

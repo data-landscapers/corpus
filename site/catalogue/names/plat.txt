@@ -87,6 +87,7 @@ Beijing Declaration and Platform of Action	11193
 Beijing Platform	16951
 Beijing Platform for Action	11193,3379,170,2209
 Beijing Platform of Action	16951
+Blue Tourism Digital Platform Project Description	19532
 Body Mbaza Platform	15079
 Bomalathu Data Exchange Platform	14674
 Bomalathu Platform	13114
@@ -230,6 +231,7 @@ Data Interoperability Platform Date	15028
 Data Middle Platform	5349
 Data Platform	5452
 Data Portability and Platform Competition	961
+Data Sharing Exchange Platform	19533
 Data Sharing Platform	3815,8604,2310
 Data Sharing Platform InfoHighway	14725
 Data Sharing Platform URL	14725
@@ -446,6 +448,7 @@ Fintech Platform Convergence Partners	53
 Fintech Platform Expansion	1091
 First Kurdish Conversational AI Platform	5322
 Flot Platform	5939
+Flutter for Mobile Platform	19533
 Fogaan-Dersi Platform	14987
 Fonction Plateforme	15936
 Food Security and Nutrition Coordination Platform Adequate	17285
@@ -457,6 +460,7 @@ Fully Digital Platform for Pharmaceutical Imports	5076
 Fully Functional GISPIS Platform	16600
 Functions of E-tax Platform	12676
 Fusepay Launches Payments Platform	4095
+Future Internet Collaboration Platform for Safe	19555
 Future of National Information Platform for Nutrition	13578
 G2C and G2B Platforms	14897
 G2G Platforms	14897
@@ -498,6 +502,8 @@ GovStack Digital Platform Security Framework	6423
 Governance of Digital Platforms	6436,1273,9308,1
 Government Data Platforms	14674
 Government Digital Payments Platform	14546
+Government Mobile Platform	19533
+Government Motor Vehicles Using Private Plate	19585
 Government Platform	15051,1834
 Government Platform EA Enterprise Architecture EAF	12359
 Government Procurement and Tenders Platform	17143
@@ -651,6 +657,7 @@ Launch the Meta Platform Support Programme	13461
 Launching the GeoSpatial Platform	16946
 Laye Kourwéogo Plateau-Central	15715
 Lead for Safety Evals Platform	9592
+Learning Platforms	19533
 Les Plateformes	1231
 Let’s Make Platform Capitalism More Accountable	226
 Leverage Online Platforms	12675
@@ -769,6 +776,7 @@ National Electronic Communications Aggregation Platform	15979
 National Electronic Licensing System Platform	6757,8072
 National Food Security and Nutrition Coordination Platform	17285
 National Health Information Exchange Platform. Over	12004
+National Identification Platform	19533
 National Information Platform	14818
 National Information Platform Agricultural	14818
 National Information Platform for Nutrition	13578
@@ -777,15 +785,18 @@ National Interoperability Platform	5514,661,13109
 National Logistics Management Information Services Platform	2709
 National One Health Platform	14818
 National Platform	12732,1944
+National Platform for Disaster Management	19520
 National Reality Check Platform	4528,2265,6856
 National Reality Check Platform and Information	6793,6856
 National Spatial Platforms	12389
+National Stakeholders Platform for Disaster Management	19520
 National Telehealth Platform	16218
 National Transparency Platform	3430,1
 National Transparency Platform Modules	3430
+National Ventures Database Platform	19579
 Nat’l Platform for Citizen Particip I-30	10785
 Needed Platform-led	11138
-Neighbourhood Investment Platform	854,964,1,2831,13
+Neighbourhood Investment Platform	854,964,1,2831,13,14825,1
 Nelago Indongo. A Plataforma de Apoio	11437
 Network and MoMo Platform CapEx	924
 News Online Platforms	13563
@@ -1068,7 +1079,7 @@ Plateaux-Ouest	6134
 Plateaux-Ouest. Dans	6134
 Plateaux. Au	15722
 Plateaux. En	15423
-Plateforme	235,311,685,1145,36,499,470,338,879,391,7,25,202,90,158,613,314,490,187,208,394,996,82,136,158,975,41,201,78,477,2,4,61,46,31,615,99,1586,76,386,45,9,165,517,20,56,954,19,56,15,31,98,8,128,53,35,277,35,11,12,81,12,66,99,5,38,9,36,9,835,384,15,22,59,22,10,42,40,163,11,62,6,9,91,31,793,84
+Plateforme	235,311,685,1145,36,499,470,338,879,391,7,25,202,90,158,613,314,490,187,208,394,996,82,136,158,975,41,201,78,477,2,4,61,46,31,615,99,1586,76,386,45,9,165,517,20,56,954,19,56,15,31,98,8,128,53,35,277,35,11,12,81,12,66,99,5,38,9,36,9,835,384,15,22,59,22,10,42,40,163,11,62,6,9,91,31,793,84,70
 Plateforme Centralisée de Collecte	16662
 Plateforme DÛNÎA	16192
 Plateforme E-Administration	235
@@ -1085,7 +1096,7 @@ Plateforme Interopérable du Système	10888
 Plateforme Interopérable du Système de Paiement Instantané	3390,9,4741,176,2572,911,3971,64,3,353,69,1796,91,72
 Plateforme Multisectorielle de Sécurité Alimentaire	15500
 Plateforme NADA	10874
-Plateforme Nationale	16139,502,1500
+Plateforme Nationale	16139,502,1500,1351
 Plateforme Nationale De Paiement	15583
 Plateforme Nationale Open Data Open Government	17860
 Plateforme Nationale de Contrôle des Réseaux Mobiles	4802
@@ -1133,7 +1144,7 @@ Plateformes X du Groupe SONATEL	7634
 Plateux	15553
 Platfonn	4301
 PlatforMuse	9739
-Platform	34,146,267,146,365,1519,45,187,239,500,183,605,24,1089,351,15,43,35,684,170,101,44,939,215,20,209,261,37,255,395,780,290,424,97,15,112,7,108,94,83,62,1,114,84,75,151,243,28,61,49,240,18,43,57,608,218,29,81,37,129,227,303,113,223,219,128,111,146,51,143,24,49,55,29,198,141,306,267,367,24,5,219,114,1,2,73,18,1,124,38,87,22,116,338,462,100,414,526
+Platform	34,146,267,146,365,1519,45,187,239,500,183,605,24,1089,351,15,43,35,684,170,101,44,939,215,20,209,261,37,255,395,780,290,424,97,15,112,7,108,94,83,62,1,114,84,75,151,243,28,61,49,240,18,43,57,608,218,29,81,37,129,227,303,113,223,219,128,111,146,51,143,24,49,55,29,198,141,306,267,367,24,5,219,114,1,2,73,18,1,124,38,87,22,116,338,462,100,414,526,331
 Platform APC Article Processing Charge ARC	5246
 Platform ASYSW ASYCUDA-based Electronic Single Window	13042
 Platform Accountability Fellowship	10571
@@ -1142,6 +1153,7 @@ Platform Administrator. The Platform Administrator	18470
 Platform Africa	7367
 Platform Assessment Framework	5700
 Platform Bill	372
+Platform Dependence	19575
 Platform Digital Infrastructure for Social Science	8436
 Platform Economy	226,3261,11289
 Platform Economy Convention	6612,1,489
@@ -1170,6 +1182,7 @@ Platform Ministry of Justice Responsible	16926
 Platform Onboarding	4528,7984
 Platform Operators	12161
 Platform Owners	14932
+Platform Platform	19576
 Platform Promote	16926
 Platform Purpose ANTILOPE Payroll	15480
 Platform Revolution	10819
@@ -1216,7 +1229,7 @@ Platform-Led Finance SECTION VIII	11138
 Platform-Led Finance Trust Architecture	11138
 Platform-Led Finance. Lagos	11138
 Platform-To-Business	9177
-Platform-as-a-Service	2257,64,1938,4864,5204
+Platform-as-a-Service	2257,64,1938,4864,5204,5206
 Platform-based Business Model	226
 Platform-funded	7602
 Platform-led	8292,2846
@@ -1225,7 +1238,7 @@ Platform-related	15342
 Platform. Taken	13462
 PlatformDIGITAL	3848
 Platforma DHIS2	10780
-Platforms	395,37,1,528,1717,1836,211,206,310,199,1033,195,434,688,156,37,30,423,456,206,184,279,9,46,32,207,101,122,110,383,457,105,758,323,80,623,34,16,4,71,376,43,1105,108,223,38,512,33,1405,132,606,247,292,288
+Platforms	395,37,1,528,1717,1836,211,206,310,199,1033,195,434,688,156,37,30,423,456,206,184,279,9,46,32,207,101,122,110,383,457,105,758,323,80,623,34,16,4,71,376,43,1105,108,223,38,512,33,1405,132,606,247,292,288,1070
 Platforms Digital Skills	12971
 Platforms Frequency Thresholds and Classes SPI	17157
 Platforms Governance Action Plan Objective	17018
@@ -1355,7 +1368,7 @@ Self-Care Platform	9540
 Self-service Platforms Provide	13606
 Senegal Launches New Platform	2356
 Senegalese National Interoperability Platform	8608
-Service Platform	18688
+Service Platform	18688,825
 Service Platform for Regulatory Payments and Services	18688
 Service Platform for Regulatory Payments and Services URL	18688
 Services Platform	5014,7957
@@ -1397,6 +1410,7 @@ TEST PLATES	16935
 TITRE II LA PLATE-FORME NUMERIQUE	16322
 TRB Receives QoS Monitoring Platforms	4562
 TV Platform OF The Year	17069
+Tanzania Disaster Management Council and National Platform	19520
 Task Management and Sharing Platform	14327
 Tax Administration Forum. Platform Sector Type	13314
 Tax Platform	12676
@@ -1405,11 +1419,13 @@ Teacher Development Data Platformand	13392
 Tech Crunch and Tech Cabal. Ventures Platform	13256
 Tech Senegal Launches New Platform	2356
 Technology Platform	12419
+Technology and Innovation Platform	19565
+Technology and Innovation Platform TCU Tanzania Commission	19565
 Technotrend Platforms Nigeria Limited	3862
 Telangana’s Integrated Platform	11156
 Tenant Biometric ID Platform Transforms Healthcare	11987
 Theory of Digital Platform Market Power	5700
-Threat Intelligence Platforms	11231
+Threat Intelligence Platforms	11231,8302
 Threat Intelligence Platforms. CRM-SAIS	10721
 Threat Intelligence Platforms. Membership	10721
 Threat Intelligence Sharing Platform	14829
@@ -1456,7 +1472,7 @@ Using the DHIS2 Platform	11912
 Utilisation des Plateformes Cloud	15479
 V- Plate-forme	15747
 Venture Platform	13256,3518
-Ventures Platform	816,96,1321,6465,358,411,28,424,1256,1164,917,1448,2070
+Ventures Platform	816,96,1321,6465,358,411,28,424,1256,1164,917,1448,2070,2760
 Ventures Platform Closes Pan-African Fund II	13256
 Ventures Platform Final	13256
 Ventures Platform Fund IV	816

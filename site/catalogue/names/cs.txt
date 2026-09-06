@@ -55,6 +55,7 @@ CPF Country Partnership Framework CSF Climate	11549
 CPS Country Partnership Strategy CSIRT Computer	17862
 CPU Central Processing Unit CSA Cloud	11952
 CR Civil Registry CSU Cadastro Social	10765,10
+CRE Civil Society Organizations CSOs Department	19519
 CRVS CSB CSU CTC CV	14622
 CRVS CSI CSMF CURY D4H DHIS	15599
 CRVS Civil Registration and Vital Statistics CSOs	12241,839,15
@@ -356,6 +357,7 @@ CSM TECH LIMITED Data Processor INST-966462BF204	7167
 CSM Tech Limited. Key	10411
 CSM.S1	10721
 CSM.S2	10721
+CSMIS	19517,2
 CSMlGAA-IGE	15397
 CSO CSO	16848
 CSO CSOC DPF ECGS ERM EXCO	11131
@@ -561,6 +563,7 @@ CSU. OBJECTIF SPECIFIQUE	16195
 CSU. Résolution AFR	16195
 CSV UTF-8	747
 CSV Visibility	15232,3848
+CSV and Excel	19539
 CSV and XML	14790
 CSV-load	103,3,85,1,36,1,9,62,3,13,1,2,101,1,56,21,53,2,27,1
 CSV. Crosswalk	4466
@@ -648,12 +651,14 @@ Continuous Professional Development CSE	12175
 Continuous Professional Development CSL	6832
 Contractor CSM Tech Limited	10411
 Contre la Pauvreté CSU Couverture Sanitaire Universelle	17907
+Controller and Auditor General CSR Community Health	19585
 Coordinating Team CSOs Civil Society Organization	16921
 Corporate Income Tax CSP	13053
 Corporate Results Indicator CSO Civil Society	15138
 Corporate Strategic Plan CSR	13053
 Corruption Perceptions Index CSC County Service	17139
 Country Cooperation Strategy CSO	10776
+Crime Statistics Management Improving CSMIS	19519
 Cross-Border Data Flow CSPs	6432
 Cs High	12253
 Cs Meeting Room Research	12253
@@ -810,6 +815,7 @@ ISPs CSA	6936
 Implementar CSIRT RTPE	1431,1
 Improve CSAT	5226
 Including CSOs	12333
+Industrial Production CSPro Census and Survey Processing	19557
 Information CSI Comité de Sécurité	15472
 Information Officer CSC Common Services Centers	14965
 Information des Dotations CSB	14568
@@ -987,6 +993,7 @@ Resilience Building CSO Civil Society Organisation	970
 Resilience and Fragility Assessment CSO Civil Society	11863
 Restitution of Land Rights CSI Committee for Spatial	11261
 Revenue and Tax Policy Division’s CSP	17011
+Review of CSR	19585
 Row's CSV	12416
 Rwanda’s CSD	14997
 Référence S CSM 117252 Date	16395
@@ -1038,6 +1045,7 @@ System Program CSO Civil Society Organization	17011
 Systems Perspective of CSRP and Sector	16858
 Sécurité Alimentaire CSE	18291
 Sécurité Alimentaire CSET Centre Supérieur	17907
+T326 CSX	19517
 TECH5 CSO Rob Haslam	1836
 TIMELINES CSP Accreditation Process	6432
 TREASURY CSD	11240

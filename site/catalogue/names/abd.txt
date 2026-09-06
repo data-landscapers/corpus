@@ -47,6 +47,7 @@ Abdalla	14897
 Abdalla ELTAGAZ Ahmed AL SHAQROUNI Jaefar	17403
 Abdalla Hamdok	14897
 Abdalla Ibrahim	158
+Abdalla Khamis Abdalla	19542
 Abdalla Osman	15125
 Abdalla Saeed	14902
 Abdalla Sharif Ali	15007
@@ -164,8 +165,10 @@ Abdelkader Safou	15410
 Abdelkader Ziane Berroudja	15863
 Abdelkarim Foutat	8891
 Abdelkarim Foutat Commission	8891
+Abdelkarim Saoud	19416
 Abdelkerim Issa Orozi Batil	2314
 Abdelkerim Kormé Wachi	19116
+Abdelkhalek BOUJNAH	19373
 Abdelkrim BOUZRED	15747,20,163,3,297,114
 Abdelkrim BOUZRED Arrêtent	16344
 Abdelkrim BOUZRED Arrêté	15943
@@ -522,6 +525,7 @@ Abdul Rashid Thomas	17790
 Abdul Sylla	9186
 Abdul Wahab ADO Prenant	1957
 Abdul-Hakeem Ajijola	10689
+Abdul-Majid Jecha Ramadhan	19542
 Abdul-Salam	5349
 Abdul-Samad	9129
 AbdulHakim Ajijola Head of Sub-Saharan Africa	11857
@@ -686,9 +690,12 @@ Brigadier General Abdel Salam Belghoul	16127
 Brigadier General Abdeslam Belghoul	5270
 Buah Saidy Chairman Dr. Abdoulie Sireh	17317
 Burkina Faso. Abdoulaye BALBONE Fatimata ZOUNGRANA	4745
-Bw. Mohammed Khamis Abdulla	1859,6004
+Bw. Abdulla	19583
+Bw. Hamad Abdallah Hamad	19592
+Bw. Mohammed Khamis Abdulla	1859,6004,11720,23
 C09965 Hindou Abderrahmane Jiddou	1183
 C11055 Lativa Sid'Ahmed Abdellahi	1183
+CEBOT. Bw. Abdulla	19583
 CEO Abdi Mohamed	8041
 CHEF DE Général de Division Abdoulaye MAIGA	17899
 COBJ Abdoulaye KONATE	13885
@@ -867,6 +874,7 @@ Fily Sissoko IBRAHIM Abdourazak	13756
 Finance Minister Abdelkrim Bouzred	6204
 Finances Maman Laouali Abdou Rafa	18271
 Finances Monsieur Mamane Laouali Abdou Rafa	18229
+Firas Ben Abdeltif	19428
 Foreign Affairs Minister Abdoulaye Diop	2426
 Foreign Minister Dr. Badr Abdelatty	14657
 Foreign Minister Mr. Abdoulaye Diop	18016
@@ -924,7 +932,7 @@ H.E. Mohamud Abdirahman Sheikh Farah	15141
 H.E. Mr. Abdoulaye Diop	18016
 H.E. Mr. Hassan Abdalla	4401,12189
 H.E. Ziad Abdelwaret Elhajjaji	17620
-H.H. Sheikh Abdullah	12983
+H.H. Sheikh Abdullah	12983,6560
 HASSEYE Abdoulaye CNDIFE Administrateur	17845
 HAULKHORY Abdool Izaddin Assistant Chief	14770
 HE. Abdulswamad Shariff Nassir	11504
@@ -960,6 +968,7 @@ Hon. Abdihakim Hassan Ashkir	14991
 Hon. Abdul S. Murray Conteh	18519
 Hon. Hamse Abdi Barre	14978
 Hon. Hamza Abdi Barre	15235
+Hon. Hemed Suleiman Abdulla	19616
 Hon. Khalif Abdi Omar Minister of Commerce	14891
 Honorable Minister of Interior Abdoulie Sanyang	4696
 Hossam Abdel Ghaffar	9471
@@ -1022,7 +1031,7 @@ Kenya Jabril Ibrahim Abdulle	10184
 Ketema Lemma Abdi	12255
 Khadar Mowlid Abdi	15123
 Khadidja Hassana Abdoulaye	5671
-Khalifa Abdulrahman Al Marzouqi	12983
+Khalifa Abdulrahman Al Marzouqi	12983,6560
 Khalifa Abdurahman Hawwa Barkah Zeelawi Shaha	17403
 Khalifa Al Abdulsalam Assistant Professor	2958
 Khasida Abdul	12227
@@ -1047,6 +1056,7 @@ Le Commissaire Général de Police Ayouba Abdourahamane	6094
 Le Général Assoumane Abdou Harouna	18166
 Le Général de Brigade Abdourahamane TIANI	1967
 Le Secrétaire Général du Gouvernement ABDOU DANGALADIMA	18115,1
+Lebanese Prime Minister H.H. Sheikh Abdullah	19543
 Liban Abdiwali Sheikh Ali	11596
 Liban Abdullahi Hussein	15007
 Libya Policy Abdelbaset Al-Baour	5904
@@ -1206,10 +1216,11 @@ Maître Abdoulaye Kouyaté	16639
 Md Abdullah Omar and Kazuo Inaba	1828
 Mehdi Abderraouf Ben Merouane	16344
 Mestre Catija Issumalgy Abdula	2816
-Mheshimiwa Hemed Suleiman Abdulla	6019
+Mheshimiwa Hemed Suleiman Abdulla	6019,13573
 Minister Abdelmadjid Abderahim	6929
 Minister Abdoulaye	3078
 Minister Mohamed Abdel Latif	15994
+Minister News Abdullah	19543
 Minister for Energy and Water Resources Abdilahi Bidhan	15119
 Minister of Health and Population Dr. Khaled Abdel	17562
 Minister of Interior Abdoulie Sanyang	4697
@@ -1288,6 +1299,7 @@ Mohand Oussaid Abdelhamid	15456
 Monsieur Abdel Hamit FADOUL ABDOULAYE	17625
 Monsieur Abdelaye KEITA	8237
 Monsieur Abdelmadjid Tebboune	15568
+Monsieur Abdelmoumen Souyeh. MINISTERE DES FINANCES	19436
 Monsieur Abdon Marius MIKPON'AI	10867
 Monsieur Abdou GNING	8269
 Monsieur Abdou Karim DIALLO	8269
@@ -1378,6 +1390,7 @@ Mr. Hassan Abdullah	7535
 Mr. Kashifu Inuwa Abdullahi	2933
 Mr. Mahamadou Abdoulaye Diallo	16649
 Mr. Mohamed Abdel Latif	15994
+Mr. Mohammed K. Abdulla Permanent Secretary	19532
 Mr. Tidjani Idrissa Abdoulkadri	18220
 Mr. YAOUBA ABDOULAYE Minister Delegate	16033
 Ms Lindiwe Sisulu and Sheikh Abdullah	11185
@@ -1520,6 +1533,7 @@ Salim Abdoulatuf	3868
 Salimo Abdula	10141
 Samar Abd El-Khalek	15473
 Samer Abdeljaber	16902
+Samir Abdelhafidh	19428,22
 Sanitation and Environment HE Colonel Maizama Abdoulaye	18220
 Second Deputy Prime Minister Jibril Abdirashid	9242
 Secteur Bancaire M. IBRAHIM MOHAMED Abdourazak	1961
@@ -1543,6 +1557,7 @@ Shawqi Abdel Azim	10334
 Sheikh Abdallah Baraj Rual	18666
 Sheikh Abdullah	11185,1798
 Sheikh Abdullah Al Nahyan	11185
+Sheikh Abdullah and Dr Samia Hassan	19543
 Sidi Abdallah-Rahmania	5952
 Sidi Abdellah	5870,1161,2672,5987,243,411,133
 Sidi Abdellah. Lors	15981
@@ -1571,6 +1586,7 @@ State Lawsuits Authority. Counselor Abdel Naser	14373
 State Minister for Finance Mohamed Nour Abdeldaim	9489,1,966
 State Minister of Commerce and Industry Abdisalam Sharif	15119
 State Minister of Finance Mohamed Nour Abdel	8923
+Statistician Janti Bamiye Procurement Officer Abdulla	19519
 Statistician Mr. Abdul S. Bakar	18460
 Statut Ahmadou Abdoulaye DIALLO	17817
 Statut Général de Division Abdoulaye MAIGA	18032

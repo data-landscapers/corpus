@@ -17,13 +17,15 @@ Africa Happily Authenticated	3470
 Article Authentic	18985
 Audit Trail and Node Authentication	1009
 Audit Trail and Node Authentication Clinical Context	1009
+Authemnetication	19526
 Authen	8603
 Authentic	14713,2130,595
 Authentic Texts This Protocol	15641
-Authenticate	16983
+Authenticate	16983,2593
 Authenticated	6423,4707,1081,4632
+Authenticated Authenticate Authenticat	19576
 Authenticates NIRA Authenticates	15061
-Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298,136,290,64
+Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298,136,290,64,288
 Authentication Article	14911
 Authentication Authentication	12364
 Authentication Code and QR Code	13606
@@ -124,7 +126,7 @@ Kerberos Network Authentication Service	1009
 Lagos Happily Authenticated	3929
 Moniepoint Happily Authenticated	2310
 Multi Factor Authentication	10721
-Multi-Factor Authentication	4610,1183,4928,510,764,1042,1509,3200
+Multi-Factor Authentication	4610,1183,4928,510,764,1042,1509,3200,1859
 Multi-factor Authentication	12302,904
 Multifactor Authentication	11216
 NIMC Authentication App	18259
@@ -169,4 +171,5 @@ Two-Factor Authentication	19007,39
 Uganda's AKIBA Happily Authenticated	5743
 VERIFICATION OF INFORMATION AND AUTHENTICATION	12959
 Verifying the Authenticity of Diplomas	16949
+Weak Authentication Controls Over Privileged User	19584
 XML Enterprise User Authentication EMR European	1009

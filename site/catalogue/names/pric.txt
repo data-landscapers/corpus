@@ -89,7 +89,7 @@ Constant Prices GDP	18483
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250,257,33,8,223
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250,257,33,8,223,813
 Consumer Price Index CSD Central Securities	15023
 Consumer Price Index Manual	11258
 Consumer Price Index Recommendations	14777
@@ -169,6 +169,7 @@ Evaluated Bid Prices	13185
 Evolution of International Crude Oil Prices Figure	12256
 Excellence Consumer Price Index Consumer Protection	11134
 Exit Offer Price of US	4896
+Expanded Harmonized Consumer Price Index	19519
 Export and Import Price Index Manual	11258
 Export and Import Price Indices	2775
 FAO All Rice Price Index	17421
@@ -213,10 +214,11 @@ Greenhouse Gas Emissions Accounting and Shadow Price	15983
 Guidance for Design Price Code	13385
 Guidelines and Performance. The Somalia ICT Price	15120
 H.E. Rose Pola Pricemou	16679
+HCPI Harmonized Consumer Price Index HIV	19519
 HRH Price Lonkhokhela	12969
 Harmful Operations. CHAPTER IX PRICING	18602
 Harmonised Consumer Price Index	12962
-Harmonized Consumer Price Index	12962
+Harmonized Consumer Price Index	12962,6557
 ICT Price Basket	11262,137
 ICT Price Basket Analysis	15120
 ICT Price Basket Indicators	15120
@@ -249,10 +251,12 @@ Internet Prices Slashed	4070
 Jet A1 Retail Price	718
 Key Agricultural Commodities and Prices	17274
 Kigali Public Pump Price	718
+LABOUR AND PRICE STATISTICS SECTION NATIONAL	19613
 LISGIS Administered Versus Market Prices Administered	17235
 LISGIS Outlook Domestic Price Development Liberia	17235
 LIST OF CHARTS NAMIBIA PRODUCER PRICE	11152
 LOW CODES TARIFF PER TRANSACTION PRICING	16844
+Labour and Price Statistics Manager National Bureau	19613
 Land Price of Land	15473
 Land Purchase Price	15149
 Latest Pricey Export	3256
@@ -348,7 +352,7 @@ Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Potential Impact of LTA Price Order	16876
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1,231,14,700,110,312
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1,231,14,700,110,312,274,7
 Price Adjustment Formula	13185
 Price Analysis and Monitoring Division	14839
 Price Caps	16839
@@ -365,9 +369,11 @@ Price Eswatini Electronic Communications Services of Data	12395
 Price Flat Rate	9409
 Price Floor of Le	18444
 Price Index	2775,8377
+Price Index CPI Central Register of Establishments	19519
 Price Index CRDP Comprehensive Rural Development	11261
 Price Index CSO Civil Society Organizations	17149
 Price Index Figures	18442
+Price Index ICT Information Communication Technology	19519
 Price Index MAURITIUS	14777
 Price Index PPL Private Pilot License	2775
 Price Information Capital Revenue	3583
@@ -502,6 +508,9 @@ Real Time Energy Prices	15620
 Real Time Food Prices	15620
 Real Time Food Prices Country	15620
 Real Time Prices ML	16133
+Rebase Producer Price Index	19519
+Rebased and Harmonized Producer Price Index	19519
+Rebasing of Producer Price Index	19519
 Remittance Prices	5255
 Republic OFFICIAL GAZETTE Price EGP	15492
 Request for Proposal Prices	12400
@@ -556,6 +565,7 @@ Standard Price	11259
 Statistics Consumer Price Index Dimensions	14777
 Statistics Price Index	2775
 Statistics South Africa. Producer Price Index	11258
+Statutory Corporations PPI Producer Price Index	19519
 Strengthening Minigrid Pricing and Regulation Capacity	13810
 Subbase Price Code	13385
 TIME PRICE	16942

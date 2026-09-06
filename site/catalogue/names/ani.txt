@@ -91,7 +91,7 @@ Anil Bachoo	14837
 Anil Kumar Dip	14753
 Anil Seeruttun	8392
 Animais	16138
-Animal	1988,787,6292,2118,1198,677,325,1237,44,361,91,545,1237,143,114,1470
+Animal	1988,787,6292,2118,1198,677,325,1237,44,361,91,545,1237,143,114,1470,893
 Animal Arcade	4049
 Animal Bites	15247
 Animal Disease Act	11188
@@ -112,6 +112,7 @@ Animal Husbandry	15457
 Animal Identification Act	11188
 Animal Identification and Traceability System	11836
 Animal Inventory and Herd	17043
+Animal Powered	19554
 Animal Production	17157
 Animal Production Construct	17157
 Animal Rearing School	11857
@@ -300,11 +301,13 @@ Number of Domestic Animals and Poultry	16935
 OCCUPE DES ANIMAUX	13300
 OWNERSHIP AND REASONS FOR KEEPING ANIMALS	17043
 Organização Mundial de Saúde Animal	15966
+Others Animal Feed School Consumption	19554
 Ownership and Reasons for Keeping Animals	17043
 PERCENTAGE OF LIVESTOCK HOLDINGS EXPERIENCING ANIMAL	17043
 PERCENTAGE OF POULTRY HOLDINGS EXPERIENCING ANIMAL	17043
 PIEs Comments ANID	19242
 PRODUCTIONS ANIMALES	15674,429
+Pay for Inputs Animal Feed Seeds Processed	19554
 Percentage of Poultry Holdings Experiencing Animal Diseases	17043
 Petits Animaux	16627
 Plant and Animal Diseases Control ARTICLE	14409

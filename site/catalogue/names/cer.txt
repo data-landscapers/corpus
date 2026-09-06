@@ -58,6 +58,7 @@ Address CERT-GH	775
 Administration Certif	17860
 Administration Certification	17860
 Adoption Certificates Unavailable	14045
+Advance Single Instalment Tax Certificate	19602
 Advance Teacher’s Certificate	14736
 Advanced Certificate	6832,6119
 Advanced Level Certified Penetration Testing Professional	15662
@@ -73,6 +74,7 @@ Africa-BB-Maps II. CEREMONIES D’OUVERTURE	13482
 Afrique CERT	17824
 Afrique Centrale CEPD Certificat	19350
 Afrique Centrale CER	17830
+Agence Nationale de Certification	19419
 Agence Nigérienne de Certification Electronique	18151
 Agricultural Certificate Morcellement Scheme	7845
 Agência Reguladora de Certificação de Carga	8052
@@ -91,6 +93,9 @@ Application for Certified Copies	18541
 Application for Child's Current Birth Certificate	6783
 Application for Good Standing Certificate Enterprise Provide	12483
 Apply for Tax Compliance Certificate Import	12454
+Approval Certificate	19602
+Approval and Issuance of Certificates	19541
+Approval and Issuance of Certificates Once	19541
 Arabica Certified Coffee	7763
 Arc Flash Certification	15075
 Assessment and Certification Recognition of Prior Learning	17226
@@ -137,6 +142,7 @@ BHI Boma Health Initiative CERF Central	18668
 BID DOCUMENTATION. B-BBEE CERTIFICATE	11240
 BIOMETRIC STANDARDS AND DEVICE CERTIFICATION	12047
 BIRTH CERTIFICATION RECOMMENDATIONS Incentives for Reduce	12328
+BIRTH REGISTRATION COVERAGE AND CERTIFICATIONS	19544
 BVR Biometric Voter Registration CGEIT Certified	18531
 Baccalaureat Board. Certified Tier III	16062
 Bachelor of Education BECE Basic Education Certificate	18460
@@ -149,16 +155,21 @@ Basic Education Certificate Examination	18461,51,66
 Basic Education Certificate Examinations	18455
 Basic Education Certification Examination BED	15796
 Bata and Malabo. Certain	16972
-Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340
+Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340,731,35
 Birth Certificate Access Changes Lives	12227
 Birth Certificate No	14713
 Birth Certificate Number	13477
 Birth Certificate Online	6783
-Birth Certificates	445,3812,6518,1516,37,9,159,603
+Birth Certificate Processing	19541
+Birth Certificates	445,3812,6518,1516,37,9,159,603,6442
 Birth Certificates Available Fees	14045
+Birth Certificates Population Projection	19541
 Birth Certificates and Identity Documents	12972
 Birth Certification	16860
 Birth Certification Center	16860
+Birth Registered Citizens Certificate	19541
+Birth Registration Certificate	19541
+Birth Registration Coverage and Certifications for Children	19544
 Birth Registration and Birth Certificates Currently	12328
 Birth Registration and Certificates Figure	10765
 Birth Registration and Certificates for Children Under Age	10765,10
@@ -167,6 +178,7 @@ Birth Registration and Certification Every	16860
 Birth Registration and Certification Process	16860
 Birth Registration and Certification Process for Child	16860
 Birth and Death Certificate Registration Requirements	12496
+Birth and Death Certificates	19541
 Birth and Death Registration and Certification Policy	16860
 Birth and Death Registration and Certification Policy URL	16860
 Blue Oasis Certificate	14736
@@ -358,6 +370,7 @@ CERTIFICATE OF ORIGIN ISSUED UNDER	14816
 CERTIFICATES	13071
 CERTIFICATES BY RECOGNITION AUTHORITY	16832
 CERTIFICATES OF ORIGIN UNDER	14816
+CERTIFICATES OF TITLE	19524
 CERTIFICATES RECEIVED FROM THE PARLIAMENTARY LEGAL	13526
 CERTIFICATION	12413,798,751,1094,614
 CERTIFICATION AND REPORTING OF CAUSES	16892
@@ -378,7 +391,7 @@ CERTIFICATION REQUIREMENTS FOR DOCUMENTS FILED	12041
 CERTIFICATIONS AND INVESTMENT	1940
 CERTIFICATS QUALIFIES Article	15362
 CERTIFIE COP ERTIFIED TR	10974
-CERTIFIED	15999
+CERTIFIED	15999,3557
 CERTIFIED COPY Baker Birikujja	5113
 CERTIFIED TR CORME	15999
 CERTIFIED TRUE	10974
@@ -404,6 +417,7 @@ CERTIFIEr	18154
 CERTIFIFN TRIF FfiDY	15999
 CERTIFlI	15999
 CERTINUM	6810,209,1727,1452
+CERTIPORT	19462
 CERTMU	4850
 CERTS	5677
 CERTs	1000,228,36,1552,2716,145,749,3190,347,213,588,84,1384,1648,999,4024
@@ -430,6 +444,7 @@ COMERCIO Certificado de Comercio C2 COMERCIO Certificado	4209
 COMERCIO Certificado de Comercio Libreta	4209
 COMESA Electronic Certificate of Origin	13563
 COMMENCEMENT OF CERTAIN PROVISIONS OF ELECTRONIC	13189
+COMPLETENESS OF MEDICAL CERTIFICATION OF CAUSES	19544
 CONDITIONS DE RETRAIT D’UN CERTIFICAT D’INVESTISSEMENT	17898
 CONFORME CERTIFIED TRUE COPY	15999
 CONFORME CERTIFIED TRUE COPY SECTION	10974
@@ -528,13 +543,17 @@ Cercle des Entrepreneurs du Bâtiment	15542
 Cercle. LE PRÉSIDENT DE LA RÉPUBLIQUE	17812
 Cercles	17817,20,24
 Cereais	12018,5082
-Cereal	12265,2853,1346,579,129,1511,371
+Cereal	12265,2853,1346,579,129,1511,371,530
 Cereal Growers Association Data Processor INST-6608837F224	7167
 Cereal and Other Produce Regulatory Authority	12114
 Cereales	4209
-Cereals	13385,1642,1873,143,1177
+Cereals	13385,1642,1873,143,1177,1334,48
+Cereals And Other Produce Board Level	19584
 Cereals Exports	11258
 Cereals Imports	11258
+Cereals Production	19554
+Cereals and Other Produce Board	19584
+Cereals and Other Produce Regulatory Authority	19602
 Cereals and Sugar Finance Corporation	14546
 Cerebral Palsy and Hydrocephalus	12373
 Cerebral Vascu- Complications	12151
@@ -571,7 +590,7 @@ Cert-MU Computer Emergency Response Team	14729
 CertExpress	1012,872
 CertExpress CertExpress	1882
 CertSearch	13634
-Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091,172,69,318,450,106,122,18,21,49,36,38,69,560,35,1721,113,23,68,636,3,1235,4,29,4,264,730,571
+Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091,172,69,318,450,106,122,18,21,49,36,38,69,560,35,1721,113,23,68,636,3,1235,4,29,4,264,730,571,1083,15
 Certain AI	11135
 Certain Activities The Consultant	13037
 Certain Bodies Article	15393
@@ -583,7 +602,7 @@ Certain Limited Companies	18556
 Certain MDAs	17870
 Certain Residents of Namibia	12984
 Certain Responsible Parties	11255
-Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157,164,24,37,18,406,15,915
+Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157,164,24,37,18,406,15,915,196
 Certainly	11665,1796,16,818,2862
 Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893,16,213,41,26,15,3,8,16,1,9,4,8,2,203,6,38,61,61,20,6,46,57,488,344
 Certains Camerounais	3808
@@ -623,7 +642,7 @@ Certidões	11452,449,3457
 Certidões Cadastrais	11384
 Certidões São	11528
 Certif	17860
-Certifi	13042,2338,12,711,752,21
+Certifi	13042,2338,12,711,752,21,2709
 Certifica	18896
 Certificaciones de Pagos	4209
 Certificación	16981
@@ -698,7 +717,7 @@ Certificat de Nationalité. Il	3045,12712
 Certificat de Nationalité. Par	3045,12712
 Certificat du NPI	1706
 Certificat du Numéro Personnel	5738
-Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298,91,319,3,19,23,688,112,175,37,38,138,67,92,19,108,43,200,13,66,33,26,6,25,16,107,102,12,12,166,21,453,186,136,273,167,1,1,12,11,28,18,1,106,524,328,1089,28,248,426,925,119,16,4,320,123
+Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298,91,319,3,19,23,688,112,175,37,38,138,67,92,19,108,43,200,13,66,33,26,6,25,16,107,102,12,12,166,21,453,186,136,273,167,1,1,12,11,28,18,1,106,524,328,1089,28,248,426,925,119,16,4,320,123,483,1,2
 Certificate Authentication Services	14137
 Certificate Authorities	11130,3950
 Certificate Authority	5533,58,6395,2452,1
@@ -708,6 +727,7 @@ Certificate Awarding Ceremony	13197
 Certificate BOT Build	16843
 Certificate DFI	11153
 Certificate Delivery System	2819,1272,10887,13
+Certificate Error Correction. Increases	19584
 Certificate Expires	13068
 Certificate FCTA Federal Capital Territory Administration	11857
 Certificate Final.pdf	7210
@@ -743,7 +763,7 @@ Certificate of Bona	12693
 Certificate of Cohabitation	12333
 Certificate of Competency	736,7903
 Certificate of Completion	17235
-Certificate of Compliance	14883
+Certificate of Compliance	14883,4719
 Certificate of Conduct	13096
 Certificate of Death	14045,4873
 Certificate of Deposits	17235
@@ -755,7 +775,7 @@ Certificate of Full Identity	12333
 Certificate of Genocide Survivors	12333
 Certificate of Grant	18541
 Certificate of Incentives	18463
-Certificate of Incorporation	736,1252,3550,365,1465,4981,900
+Certificate of Incorporation	736,1252,3550,365,1465,4981,900,6353
 Certificate of Incorporation Certificate CM1	12342
 Certificate of Incorporation Number	1877
 Certificate of Incorporation Valid Tax Clearance Certificate	12693
@@ -791,7 +811,7 @@ CertificateKenya.jpg	12138
 Certificated	4896
 Certificated Shareholders	4896
 Certificated Shareholders and Dematerialised Shareholders	4896
-Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108,132,43,100,254,112,90,382,945,467,126,1817,442,874,447
+Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108,132,43,100,254,112,90,382,945,467,126,1817,442,874,447,946
 Certificates and Determinations. Any	16219
 Certificates of Achievement and Diploma	17235
 Certificates of Competency	8639
@@ -807,8 +827,9 @@ Certificates of Participation	14835
 Certificates of Recognition and Merit	7702
 Certificates of Registered Title	12605
 Certificates of Registration	9646,511,4579
+Certificates of Right of Occupancy	19585
 Certificates. Revocation	13951
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26,215,116,202,19,4,93,241,106,23,5,119,15,36,26,22,40,13,19
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26,215,116,202,19,4,93,241,106,23,5,119,15,36,26,22,40,13,19,307,13,43
 Certification Authorities	9880
 Certification Authority	1009,10175,1650,1176,730,1,11
 Certification Authority and Digital Trust Centre	2692
@@ -922,8 +943,9 @@ Certified Server Security Specialist	17334
 Certified Threat Intelligence Managers	10689
 Certified Tier	3534
 Certified Training	13037
+Certified. Document Number	19574
 Certifier	10906,1245
-Certifié	6456,8867,925
+Certifié	6456,8867,925,3199
 Certifié IFDD	7999
 Certifié Ministère	3396
 Certifié Tier IV	4422
@@ -997,6 +1019,7 @@ Conformance Assessment and Conformance Certification	1009
 Conseil de Cercle	17812,49
 Conseillers de Cercle	17861
 Constituency Sectorial CERTS	775
+Construction Plots Without Right of Occupancy Certificates	19585
 Contabilistas Certificados de Cabo Verde	15477
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
@@ -1035,6 +1058,7 @@ DE CONTROLE ET DE CERTIFICATION DES	10904,5829,1,1
 DE L'ADAPTATION DE CERTAINES SANCTIONS LIEES	15643
 DE RENOUVELLEMENT DU CERTIFICAT D’ENREGISTREMENT	15885
 DEATH CERTIFICATE QUALITY ASSESSMENT TOOL	12413
+DEATH CERTIFICATES	19541
 DES DISPOSITIONS RELATIVES A LA CERTIFICATION	18106
 DES FACTURES ELECTRONIQUES CERTIFIEES LE MINISTRE	14469
 DFI Certificate	11153
@@ -1059,13 +1083,15 @@ Death Certificate	12217,74,348,4221,1950
 Death Certificate Form	14045
 Death Certificate Issuing Authority	14045
 Death Certificate No	14713
-Death Certificates	11282,1009,205
+Death Certificate Processing	19541
+Death Certificates	11282,1009,205,7045
 Death Certificates Available Fees	14045
 Death Certificates Personal	12496
 Death Certification	16860
 Death Registration and Certification	16860
 Death Registration and Certification Process	16860
 Deaths Reported and Certificated	16860
+Declaration Certificate	19602
 Declaration and Certification	17250
 Decree Absolute Certificate	12639
 Demonstrated Global Capacity Certificate	10975
@@ -1091,6 +1117,7 @@ Digital Signature Certificate A Certifying Authority	18883
 Digital Signature Certificates	18883
 Digitalizing Birth Certificates	10989
 Dignitaries and High-Level Ceremony	18737
+Diploma Examination Certificates	19584
 Diploma and Certificate	14775
 Dipo Ceremony	17773
 Director Cereals and Other Produce Regulatory Authority	5883
@@ -1156,6 +1183,7 @@ Entidades Certificadoras	8309
 Entornos Cerrados de Comunicación	16855
 Environmental and Social Management Plan CERC Contingent	17114
 Equipment Certification	16835
+Equity CERC Contingent Emergency Response Component	19455
 Equity Interest Type and Self Certification	11685
 Eritrean Secondary Education Certificate Examinations GER	13960
 Establish Certification	1000
@@ -1253,6 +1281,7 @@ HERZEGOVINA ASYCUDAWorld Launch Ceremony Complying	16631
 HUB COHORT GRADUATION CEREMONY Maseru	12694
 Halal Accreditation Body Accrediting Halal Certification	16900
 Handover Ceremony	5991
+Handwritten Birth Issued Certificates	19541
 Hazardous Goods Certification	17142
 Heads of School Certificate Examination Centres and Heads	13477
 Health Clearance Certificate	1988
@@ -1289,6 +1318,7 @@ IPM Certified	14818
 IPP Cerim	12399
 ISACA Intermediate Level Offensive Security Certified	15662
 ISO Certification	14738
+ISSN.0330.7921 Certifié	19436
 ISSUED THE CERTIFICATE	11240
 IX. RESULTATS DU CERTIFICAT D'ETUDES PRIMAIRES	10847
 Identificação Certifica	16290
@@ -1296,6 +1326,7 @@ Implementation of Medical Certification of Cause of Death	12338
 Import Duty Exemption Certificate	11866
 Imprimir Certidões	12862
 Incwala Ceremonies	12977
+Indicators Of Reproductive Health For Cervical	19544
 Induction Ceremony	16970
 Infosec Institute Certified Penetration Tester	15662
 Ingelo Certification Scheme Cottage Factories	13072
@@ -1318,7 +1349,7 @@ Integration of Independent Certification Schemes	16843
 Intelligence BEC Basic Education Certi	18564
 Interim Digital Registration Certificate Understanding	13095
 Interim Payment Certificate	14546
-Interim Payment Certificates	14546
+Interim Payment Certificates	14546,5039
 Intermediate Level Certified	15662
 Intermediate Level Certified Forensic Examiner	15662
 Intermediate Level Certified Incident Handler	15662
@@ -1341,6 +1372,7 @@ International Standards Certificates. All	6432
 Investment Certificate	14828,3
 Investment Certificate SSDS Sector Strategy	16927
 Irembo. Abridged Birth Certificate	12328
+Issuance of Birth and Death Certificates	19541
 Issuance of Company Certificate of Incorporation	14891
 Issuance of Foreigner Certificate	12227
 Issuance of Tax Compliance Certificate	18608
@@ -1419,6 +1451,8 @@ M Certificates	12457
 MACF. Certains	8891
 MACRA and CERT	12214
 MAIN FACTORS AFFECTING CEREAL PRODUCTION	15118
+MCCD Medical Certification of Cause of Death ICD-10	19544
+MCCD Medical Certification of Cause of Death MDA	19544
 MCCD Medical Certification of Cause of Death NCD	12151
 MNIS Certification Authority System	14740
 MODÈLE DE CERTIFICAT DE L’EMPRUNTEUR	15901
@@ -1518,6 +1552,7 @@ Nokia and Cerillion	2235
 Nomination du PDF du Certificat Foncier	13375
 Non-Citizen Birth Certificates	12496
 Non-Marriage Certificate Document Authentication	14137
+Non-issuance of Certificates	19541
 Number of Certificate of Naturalisation	12410
 Number of Certified Financial Educators	7763
 Number of Cervical	18627
@@ -1534,6 +1569,7 @@ OEM CERTIFICATION Comply Not Comply	11209
 OFFICIAL COMMISSIONING CEREMONY OF THE JULIUS	17347
 OPIE CERTIFIEE CONFORME	15999
 Objectifs du CERT	11139
+Objection Certificate	19565
 Obtention des Certificats	15542
 Odoo Gold Certified Partner	9533
 Offensive Security Certified Expert	15662
@@ -1563,6 +1599,7 @@ Ouest CER Concessions	18316
 Ouest CEREEC Centre	18103
 Overview Certification	12041
 PARCOURS CERTIFIANT EN FINANCE DIGITALE	10237
+PART V CERTIFICATES OF TITLE	19524
 PART VII. RECOGNITION OF CERTIFICATION AUTHORITIES	16832
 PART VIII. CERTIFICATION AUTHORITY DISCLOSURE RECORDS	16832
 PCI DSS Certified	12285
@@ -1597,10 +1634,13 @@ Paula Maria Cerutti	15601
 Paula Maria Cerutti ICR Main Contributor	15601
 Paula Maria Cerutti Jesse Jon Gerome	15601
 Payment for Certificate	12226
+Payment of Interim Certificates TZS	19585
 Pedido Certidão Comercial	12021
 Pedido de Certidão Certidão de Registo	18834
 Pedidos de Certidões	18835
 People TRANCRAA Transformation of Certain Rural Areas	11197
+Percentage Distribution of Crop Harvest Uses for Cereals	19554
+Percentage of Birth Projection Birth Registered Certificates	19541
 Permits and Certifications ARTICLE	15484
 Permits and Registration Certificates	12062,6124,31
 Personal Interviews CERC Contingent Emergency Response	18777
@@ -1626,10 +1666,12 @@ Private Investment Registration Certificate	18797
 Prize Giving Ceremony	14745
 Proactive Activities CERT-GH	775
 Procedural Certainty	12389
+Processing and Issuance of Birth and Death Certificates	19541
 Product Certification	16900
 Product Certification Mark Scheme	14736
 Product Certification and Management Systems Certification	14736
 Product Mark Certification Scheme	14736
+Production and Yield of Selected Cereal Crops	19554
 Professional Bar of Certified Auditors and Accountants	11955
 Professional Certificate	10133
 Professional Certifications	12389
@@ -1735,6 +1777,7 @@ RELAÇÃO A ACIDENTE VASCULAR CEREBRAL	18875
 REPUBLIC A1ﬂAT OENERAŸ COIE CERTIFIBE	15999
 RESEAU MONDIAL DE CERTIFICATION SANITAIRE NUMERIQUE	16195
 RESULTATS AU CERTIFICAT D'ETUDE PRIMAIRE SESSION	10847
+RHCA Reproductive Health for Cancer CECAP Cervical	19544
 RME CERTIFIED TRUE CôPY	15999
 RP. Certains	18942
 RWANDA LAUNCHED ELECTRONIC LAND REGISTRATION CERTIFICATE	12451
@@ -1749,10 +1792,14 @@ Recognition of Certain Marriages Act The Registrar	12959
 Regime de Prescrição de Certos Bens Abandonados	11404
 Region Crop Categories Total Holdings Cereals	17043
 Regional CERT Communication Framework	15120
+Registering and Issuing Birth and Death Certificates	19541
+Registering and Issuing Birth and Death Certificates RITA	19541
 Registrar of Marriages Ends Manual Printing of Certificates	12290
 Registrar's Certificates and Special Licenses	12290
 Registrar's Certificates and Special Licenses. The Office	12290
 Registration Certificate	11250,1787
+Registration Death and Issuance Deaths Certificates	19541
+Registration Guidelines for Birth and Death Certificates	19541
 Registration and CertificatiCoonm	736
 Registration and Certification	736,11631
 Registration and Certification Fees	16860
@@ -1760,6 +1807,7 @@ Registration and Certification Fees Death	16860
 Registration and Certification System	9370
 Registration and Certification of Death	16860
 Registration and Emission Class Certification	736
+Registration and Issuance of Birth and Death Certificates	19541
 Registration. Birth Certificate	12188
 Regularization of Status of Certain Residents of Namibia	12337
 Regulation of Certifying Authorities	18883
@@ -1769,6 +1817,8 @@ Renewable Energy Certificates	12604
 Renewal of Radio Dealer Certificate	736
 Renouvellement du Certificat	18360
 Republique de Guinee. Le CER	16612
+Request for Registration and Certification	19541
+Request of Registration and Certification	19541
 Requirements for Bodies Providing Halal Certification	16900
 Revamped Certification Authority Platform The Government	14752
 Review Frequency Cybersecurity CERT-MU	14566
@@ -1832,6 +1882,7 @@ School Certificate Ordinary Level	13477
 School Certificate Ordinary Level Examination	13477
 School Reports and Attendance Certificates for BEAM	13420
 Second Convocation Ceremony	17347
+Secure Certificates of Right of Occupancy	19585
 Securitized Certificate	18474
 Security Certifications	6432
 Security Emerging C- Certified	7548
@@ -1910,13 +1961,14 @@ TISLATIF ET STATUTORY AF CERTIFIE CERTIFIED	15999
 TRANSITIONAL PERIOD FOR CERTAIN STATE PARTIES	1243
 TYPE OF CEREALS	17043
 Talent Management and Certification Programs	15713
+Tanzania Official Seed Certification Institute Level	19584
 Targeted Review for Q2 Targeted Life Certifications	8999
-Tax Clearance Certificate	5247,4532,285,343,221,1869,12,346,6110
+Tax Clearance Certificate	5247,4532,285,343,221,1869,12,346,6110,637
 Tax Clearance Certificate August TAX Newsletter	12855
 Tax Clearance Certificate Fee	18541
 Tax Clearance Certificate Under	12855
 Tax Clearance Certificate and SSNIT	7368
-Tax Clearance Certificates	9779,2673,57,346
+Tax Clearance Certificates	9779,2673,57,346,6747
 Tax Clearance Certificates Issued Table	13053
 Tax Clearance Certificates Tax Clearance Certificates	13053
 Tax Compliance Certificate	10064,2233,2118
@@ -1925,6 +1977,7 @@ Tax Compliance Certiﬁcate	2709
 Tax Residence Certificate	14828,3
 Tax Residence Certificate Fee	14828,3
 Taxa de Certidão de Quitação	11532
+Taxpayer Identification Number Certificate	19527
 Teacher’s Certificate	14736
 Technical Certification	5466
 Technical Conformity Certificate	16212
@@ -1937,6 +1990,7 @@ Testing and Certification	17433
 Tier III Certification of Constructed Facility	4083,12697
 Tier III Certified	10956
 Time Zone CERT-GH	775
+Timeliness of Birth Registration and Certification	19544
 Tié-Tié. Certaines	15390
 Togo CAS Country Assistance Strategy CERT	17862
 Togo CERSA Centre	19220
@@ -2018,5 +2072,7 @@ Workshops and Certification Programs	12675
 World Bank. The CERP	18198
 World Teachers Day Celebration and Awards Ceremony	12950
 Y INSTALACIONES Y FRONTERAS CIUDADANA CEREMONIAS	4209
+Years Screened For Cervical Cancer	19544
 York-based Cerberus Capital Management	4676
+ZARI Cereals	19519
 Zambia Certifies	12472

@@ -27,6 +27,7 @@ Broadband Devices	16883,1,1601
 COMPTES EN DEVISES OU EN DIRHAMS	17485
 Centralized User and Device Management	12241
 Compute Unified Device Architecture	9475
+Computer Servecs Devices	19532
 Confiscates Starlink Devices Kordofan	4245
 Content Development and Provision of Devices for Learners	6946
 Contraceptive Device JKIA Jomo Kenyatta International	2775
@@ -50,8 +51,9 @@ Destructive Devices Or Ammunition	16935
 Develop the Bring Your Own Device	11986
 Develop the Mobile Device Management	11986
 Developers of Fiscal Devices	13606
-Deviation	10870,365,751,1199,1361,534
-Deviations	9855,1142,2188,1895,176,407,2862,42
+Deviated	19585
+Deviation	10870,365,751,1199,1361,534,4505
+Deviations	9855,1142,2188,1895,176,407,2862,42,1046
 Deviations of Fiscal Outturns	18823
 Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477,345,459,2173,1024
 Device Access	16799
@@ -82,6 +84,7 @@ Devices Devices	14723
 Devices For Primary Health Care	10776
 Devices Manuals	13185
 Devices Q3	11857
+Devices Responsible Sector	19532
 Devices Sector	899
 Devices and Terminals	2776
 Devices and Terminals No Category of Q2	2776
@@ -108,11 +111,11 @@ ENABLED MEDICAL DEVICES ACKNOWLEDGEMENTS SAHPRA	3651
 ET D’IMPORTATION DES DEVISES BILLETS	17485
 East Africa Device Assembly Kenya Ltd	3975
 Electronic Devices	1988
-Electronic Fiscal Device	13606,3405
-Electronic Fiscal Device Management System	7746
+Electronic Fiscal Device	13606,3405,2591
+Electronic Fiscal Device Management System	7746,11856
 Electronic Fiscal Device Management System EPZ	13053
 Electronic Fiscal Device System EMDE Emerging	17011
-Electronic Fiscal Devices	4699,287,261,7701,4063
+Electronic Fiscal Devices	4699,287,261,7701,4063,2591
 Electronic Fiscal Devices. Unlike	6469
 Electronic Invoice Devices	14952
 Enabled Medical Devices	3651,4650
@@ -149,11 +152,13 @@ GSMA Device Registry	16799
 GUIDELINE ON REGULATION OF MEDICAL DEVICE	11268
 Geeta Devi Somaroo	14769
 Generative Artificial Intelligence-enabled Medical Device	3651
+Government CMMI Bring Your Own Device	19576
 Guias Locais. Devido	11421,25,131
 Gunputh Lutchumun Mrs. K Devi Gunputh	14736
 H. Devine	11140
 Homens Devido	10777
 ICT Devices	13295
+ICT Hardware Telecom Manufacturing Software Devices	19532
 Illegal Devices	26
 Import Radiation Devices	718
 Indicators Activities Corrective Action Deviation	5245
@@ -176,6 +181,7 @@ Medical Device Committee	3651
 Medical Device Regulators Forum	8301
 Medical Device Software	11268
 Medical Devices	3651,9655,5235
+Medical Devices Authority	19534
 Medical Devices.https	8301
 Ministry of Health and Wellness. Mrs. K Devi	14736
 Misheeta Devi Gungah Basant Rai Government	14745
@@ -201,6 +207,7 @@ NON-SPECIFIC SHORT-RANGE DEVICES SCOPE	12949
 NUMBER OF LTE DEVICES	11211,51
 NUNDLOLL Bhamila Devi Manager Human	14770
 National Aggregate Deviation	13058
+Network Device Configuration Management	19584
 No. of Devices and Terminals	2776
 Number of Assistive Devices Distributed	12977
 Number of Fuel Fiscal Device Interruptions	13606
@@ -223,6 +230,7 @@ Percentage Deviation	11259
 Pharmaceuticals and Medical Devices Management and Services	14033
 Photographic Enforcement Device PHS	14760
 Pierrick Devidal	15220
+Pioneering Local Manufacturing of ICT Smart Devices	19532
 Possession of Devices and Computer Data Unauthorised Access	18675
 Power Device External	34
 President Smt. Pratibha Devi Singh Patil	18957
@@ -245,6 +253,7 @@ Retail Fuel Price Deviation	1828
 Root Cause Analysis of Deviations Table	5245
 SEAL CREATION DEVICES	17534
 SUBRON-TOOFANNY Hansha Devi ASA	14770
+Sales and Internet Devices Manager	19611
 Seal Creation Devices	17534
 Short Range Radio Devices	14883
 Short Range and Utrawide Band Devices	736

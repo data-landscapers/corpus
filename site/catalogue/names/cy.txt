@@ -279,6 +279,8 @@ CYBERCRIME	14022
 CYBERCRIME ACT	12928
 CYBERCRIME BILL	12459
 CYBERCRIMES	11190
+CYBERCRIMES ACT	19523
+CYBERCRIMES ACT Arrangement of Sections	19523
 CYBERCRIMES AND COMPUTER MISUSE ACT Obligations	18675
 CYBERCRIMES AND OTHER RELATED CRIMES	19034
 CYBERCRIMES AND OTHER RELATED CRIMES ACT	18920
@@ -507,7 +509,7 @@ Cybastion. Il	10258
 Cybaston	16961
 Cybaston Institute of Technology	16961
 Cybemtalking	18457
-Cyber	395,388,175,3,11,28,284,162,494,290,108,103,141,145,458,105,79,263,65,376,11,42,642,42,182,115,135,589,769,203,143,434,91,67,10,79,395,618,127,180,669,27,207,6,217,95,538,15,85,15,369,650,80,98,214,9,12,111,95,8,85,122,282,14,1,107,2,15,90,21,64,20,41,15,1,121,62,189,161,124,372,179,136,53,8,112,6,294,468,369,242,398,211,32,1,477,2,209,443,441,218,7,4,217,17,87,27,216
+Cyber	395,388,175,3,11,28,284,162,494,290,108,103,141,145,458,105,79,263,65,376,11,42,642,42,182,115,135,589,769,203,143,434,91,67,10,79,395,618,127,180,669,27,207,6,217,95,538,15,85,15,369,650,80,98,214,9,12,111,95,8,85,122,282,14,1,107,2,15,90,21,64,20,41,15,1,121,62,189,161,124,372,179,136,53,8,112,6,294,468,369,242,398,211,32,1,477,2,209,443,441,218,7,4,217,17,87,27,216,143,130,81
 Cyber Academy	14966,53
 Cyber Academy TORs	15019
 Cyber Academy and Innovation Center. Key	15019
@@ -543,7 +545,7 @@ Cyber Crime Prevention	14884
 Cyber Crime Unit	7777
 Cyber Crime and Cyber Security Act	13322
 Cyber Crime and Data Protection Bills	13090
-Cyber Crimes Act	2726,1,4856,74,1759,800,1475,438,103,1276,729
+Cyber Crimes Act	2726,1,4856,74,1759,800,1475,438,103,1276,729,5286
 Cyber Crimes Act No	2746,2880,1682,275,74,6580
 Cyber Crimes Act and Cyber Security Act	8418
 Cyber Crimes Bill	18903
@@ -633,7 +635,7 @@ Cyber Secuity and Crihe Act	18457
 Cyber Secuity and Crime Act	18457
 Cyber Securily and Crirne Acl	18457
 Cyber Securit	18457
-Cyber Security	318,640,285,1065,419,13,1147,879,400,131,31,1618,907,1482,1484,412,317,281,96,408,26,554,58,82,11,121,1476,83,2117,1596,446
+Cyber Security	318,640,285,1065,419,13,1147,879,400,131,31,1618,907,1482,1484,412,317,281,96,408,26,554,58,82,11,121,1476,83,2117,1596,446,630
 Cyber Security Act	2726,1,13,2426,162,1049,401,805,2434,199,1475,438,85,18,354,331,649,1632
 Cyber Security Act MoI Quick Win	12917
 Cyber Security Act No	2727,19,2880,1682
@@ -672,6 +674,7 @@ Cyber Security Data	9937
 Cyber Security Days Algiers	6630
 Cyber Security DirectorGeneral	2727
 Cyber Security Duration	17232
+Cyber Security Ecosystem Technology Roadmap	19533
 Cyber Security Expert	15019
 Cyber Security Framework	11231
 Cyber Security Fund	5841,1129
@@ -681,6 +684,7 @@ Cyber Security Incident Reporting Team	12364
 Cyber Security Incident Response Guide	12364
 Cyber Security Incident Response Team	11955,471,905
 Cyber Security Incidents CHAPTER VI OFFENCES	18675
+Cyber Security Incidents. Document Number	19533
 Cyber Security Indicators	318
 Cyber Security Initiatives Cyber	11131
 Cyber Security Interception	2727
@@ -813,6 +817,7 @@ Cyber-Security	13474
 Cyber-Sécurité	3321
 Cyber-attacks	3383,8603
 Cyber-bullying	13508
+Cyber-crimes	19509
 Cyber-criminality	14482
 Cyber-facilitated	9616
 Cyber-harcèlement Article	14870
@@ -980,7 +985,7 @@ Cybersanté	17882
 Cyberse	19365
 Cybersecurit	6432,9413
 Cybersecurite	10494,5090
-Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18,42,189,277,138,163,20,3,20,47,78,31,91,35,66,41,3,72,255,22,5,35,76,12,75,98,11,20,282,17,68,660,42,10,18,33,36,17,25,37,24,24,35,82,5,27,334,124,125,253,226,97,39,71,93,2,31,221,47,2,55
+Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18,42,189,277,138,163,20,3,20,47,78,31,91,35,66,41,3,72,255,22,5,35,76,12,75,98,11,20,282,17,68,660,42,10,18,33,36,17,25,37,24,24,35,82,5,27,334,124,125,253,226,97,39,71,93,2,31,221,47,2,55,558
 Cybersecurity Academy	14674
 Cybersecurity Academy for Juniors and Youth	16046
 Cybersecurity Act	587,574,616,2110,239,360,680,480,673,1,616,4,2142,122,524,111,3,426,108,1838,18,330,996,699,1459,220
@@ -1087,6 +1092,7 @@ Cybersecurity Index	6946,4623,1745
 Cybersecurity Infrastructure	14249
 Cybersecurity Initiatives	1777
 Cybersecurity Initiatives. Foreign Affairs	1777
+Cybersecurity Innovation Hub	19532
 Cybersecurity Inspection and Evaluation	7538
 Cybersecurity Is Everyones Responsibility	15046
 Cybersecurity Landscape	6671
@@ -1326,7 +1332,7 @@ Cybil Portal	17028
 Cybil Portal Hosting	17028
 Cybre Crime Act	13403
 Cybre Security Act Act No	13403
-Cycle	747,1,1236,1005,7828,1566,1059,1318,279,375,445,102,289,284,309,555,414,171,116,72,290,451,338,112
+Cycle	747,1,1236,1005,7828,1566,1059,1318,279,375,445,102,289,284,309,555,414,171,116,72,290,451,338,112,26
 Cycle Moyen	18099
 Cycle Preparation FY12 FY13 FY14	15601
 Cycle Supérieur	17812
@@ -1355,6 +1361,7 @@ Cyclone Fytia	14569
 Cyclone Gezani	14569
 Cyclone IDAI	2667
 Cyclone Idai	940,12480
+Cyclone Jobo	19520
 Cyclone Kenneth	13787,6
 Cyclone Moçambique Telecom	1228
 Cyclones	14553
@@ -1476,6 +1483,7 @@ Data Protection and Cybersecurity Advisor	6096
 Data Protection and Cybersecurity Office	4126
 Data Protection and Cybersecurity Officer	4126
 Data Youth Authority Protection and Cybersecurity	4126
+Dates of Data Collection Start End Cycle	19613
 Deep Fakes Amid Lack of Cyber Law	12687
 Defending Today's Workforce Against Cyber Threats	3279
 Defense Command and Control Centre for Cybersecurity	1000
@@ -1530,6 +1538,7 @@ Draft National Cybersecurity Strategy	1777
 Draft Sector-specific Cybersecurity Regulations. Develop	1777
 Duty Cycle	34,12915
 Découvrir Cyber	14683
+E-Government Cyber-Security Ecosystem	19533
 E-Payment Transfer Cycle	12182
 E. Cybersecurity Oversight	16975
 EAC Legal Framework for Cyber Laws	13357
@@ -1602,6 +1611,7 @@ Establish the National Cybersecurity Council	1777
 Establishing Cybercrime Complaint Center	1000
 Establishing Police Cybercrime Response Unit	1000
 Establishment of Cybersecurity Multisectoral Committee	3887
+Establishment of Government Cyber Security Strategy	19533
 Establishment of National Cybersecurity Authority	3887
 Establishment of National Cybersecurity Committee	783
 Establishment of Zambia Cyber Security Agency	2727
@@ -1667,6 +1677,7 @@ Functions of Cyber Security and Monitoring of Interceptions	972
 Fundamentals of Cybersecurity for Media Practitioners	10383
 G Frameworks and Cyber Security Capacity	721
 G Frameworks and Cybersecurity Capacity	721
+G Security and Cyber Cooperation	19529
 GALERIE CYBERSÉCURITÉ ET SANTÉ NUMÉRIQUE	7805
 GCI Global Cybersecurity Index GDP Gross	6946
 GENERA L PROVISIONS ANO POLI CY	16851
@@ -1732,7 +1743,9 @@ Google Cybercrime	6070
 Google Cyril Ramaphosa Elon Musk Icasa	5933
 Google News President Cyril Ramaphosa	7079
 Governance and Institutional Capacity for Cybersecurity	16144
+Government Cyber-Security Ecosystem	19533
 Government Cybersecurity Enhancement	1000
+Government Cybersecurity Strategy	19533
 Government Data and Cybersecurity Center	15002
 Government’s Cyberstrategy	15372
 Govt. To Strengthen Cyber Security Capacity	12129
@@ -1766,6 +1779,7 @@ Hungary Global Cybersecurity Index	10764
 Hype Cycle	2816
 Hype Cycle for Artificial Intelligence	2816
 Hype Cycle for Artificial Intelligence. Gartner. Disponível	2816
+Hype Cycle for Emerging Technologies	19555
 I Cycle of Secondary Education	10775
 IATI. Cybersecurity	1567
 ICASA Approves Transfer of Cybertek Telecom Licences	17724
@@ -1830,6 +1844,7 @@ Incidents Cybernétiques	16296
 Inclusion and Cybersecurity	9075
 Incorporate Cybersecurity LTA	1777
 Incorporate Cybersecurity Requirements	1777
+Increase Cyber Security	19533
 Independence of Cyberspace	2117
 Indian Cyber Crime Coordination Centre	9208
 Indonesia Global Cybersecurity Index	10764
@@ -1889,6 +1904,7 @@ Kenya Cyber Resilience	4471,297
 Kenya Cyber Resilience Project	4470
 Kenya Cyberspace Portal	2447
 Kenya National Cybersecurity Strategy	12232
+Kenya Pushes for Closer Cybersecurity Cooperation	19622
 Kenya and UK Review Cybersecurity Partnership	10587
 Kenya's Computer Misuse and Cybercrimes Act	17658
 Kenya's Cyber Threat Trajectory	17745
@@ -1954,7 +1970,9 @@ Licensing of Cybersecurity Service Providers Licensing	587
 Liechtenstein Global Cybersecurity Index	10764
 Lieutenant General Achol Cyier Rehan	9771
 Life Cycle	11216,1748
+Life Cycle Methodology SDD Service Level	19575
 Limit Cyber Impact How Cloud Security	3279
+Lindi Cyclone	19520
 Link Between Psychological Safety and Cyber	13532
 Local Market for Cybersecurity Skills	1777
 Loi 2010012 cybersecurite cybercriminalite.pdf	15480
@@ -2263,6 +2281,7 @@ Navigating Data Protection and Cybercrime Legislation	17745
 NetAssist Cybersecurity Provider Malaysia	4924
 Networking and Cybersecurity Education	8560
 Networks and Cybersecurity	15718
+News Digital Sierra Leone Expands Cyber	19622
 NexSky Building Cybercity	14817
 Niger Global Cybersecurity Index	10764
 Nigeria Police Cybercrime Unit Recovers Funds	2269
@@ -2320,6 +2339,7 @@ PREVENTION OF CYBERCRIMES Section	14870
 PROCEDURE PENALE EN MATIERE DE CYBERCRIMINALITE	13719
 PROGRESS REPORT SECOND CYCLE OF DATA	16188
 PROGRESS TO-DATE ON CYBERSECURITY AND RISK	11231
+PROJECT Cybersecurity Innovation Hub	19532
 PROMOTION DE LA CYBERSECURITE	15488
 PROVISIONS APPLICABLE TO CYBER SECURITY COMMITTEE	972
 PRÉVENTION DE LA CYBERCRIMINALITÉ Section	14870
@@ -2575,6 +2595,8 @@ Suriname Global Cybersecurity Index	10764
 Sweden Global Cybersecurity Index	10764
 Syrian Arab Republic Global Cybersecurity Index	10764
 System Corporate Social Investment Cyber Security	11134
+System Maintenance Cycle	19575
+System Maintenance Cycle Stage	19575
 Systems Development and Cybersecurity	8409
 Sécurité Cybernétique	9979
 Sénateur Cyriaque Nshimirimana	13405
@@ -2625,6 +2647,7 @@ Translate the Cybersecurity Act	6936
 Tripoli and Cyrenaica	16916
 Tropical Cyclone	1228,9963
 Tropical Cyclone Committee	13767
+Tropical Cyclone Jobo	19520
 Tropical Cyclone Jude and Chido. Predictive Analysis	13080
 Tropical Cyclones Jude and Chido	13095
 Tropical Cyclones Jude and Chido. Regional Influence	13095
@@ -2636,7 +2659,7 @@ Two-Phase Model of National Cybersecurity Governance Key	1777
 Türkiye Global Cybersecurity Index	10764
 U.S.-based Cybastion	6073
 U.S.-based CyberinnoShield Foundation	16505
-UAE Cybersecurity Council	15876
+UAE Cybersecurity Council	15876,3518
 UAE. Cybersecurity	5727
 UK National Cyber Security Centre	10540
 UK National Cyber Security Centre’s Cyber	6936

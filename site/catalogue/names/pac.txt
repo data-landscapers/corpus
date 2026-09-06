@@ -198,6 +198,7 @@ III.2.13 PACS	13306
 III.2.13 PACS Un	13306
 IPN and NamClear Sign Pact	6988
 ISO Accelerator Pack	15934
+Implementation Status of LAAC and PAC Directives	19585
 Implementation of Pace Assessment Current	17139
 Implementation of Package C	15164
 India's Special Economic Package of USD	19166
@@ -224,6 +225,7 @@ Kenya Refugee Statistics Package. Nairobi	12297
 Kenya Statistics Package	12227
 LA REPUBLIQUE DU TCHAD PACTE NATIONAL	18967
 LA RÉPUBLIQUE DU BENIN Le Pacte	15801
+LAAC and PAC	19585
 LE PACTE NATIONAL ENERGETIQUE OU COMPACT	15799
 LES PACKAGES	17833
 Latin America Middle East Africa Pacific	10977
@@ -289,11 +291,14 @@ Organizational Development Package	13051
 Oui Oui PACS	13306
 Outer Delivery Package	9855
 PABX Packages	12769
+PAC Directives	19585
+PAC Directives Enforcement Framework	19585
 PAC Guidelines	13040
 PAC LR-MFDP-488111-GO-RFQ	17180
 PAC PGMO PREA PRODIGY SST UGP	14424
 PAC PMO PMPP PNUD PREA PRODIGY	14425
 PAC Partial Activation of Contract PCC Partial	12062,6124,31
+PAC Public Accounts Committee PMG Paymaster	19585
 PAC Report	18488
 PAC Research	9672
 PAC Secre	17180
@@ -472,7 +477,7 @@ Pacs.028	15935
 Pacs.029	12364
 Pact. Objective Actions Strengthen	18795
 PactDigital	7251
-Pacte	2266,48,3259,1107,444,119,241,600,2281,135,1482,1343,108,302,204,271,269,131,43,843,43,40,23,71,128,164,72,226,60,92,76,98,859,8,103,335,84,5,282,51,23,61,2,1,9,530,25,21,228,44
+Pacte	2266,48,3259,1107,444,119,241,600,2281,135,1482,1343,108,302,204,271,269,131,43,843,43,40,23,71,128,164,72,226,60,92,76,98,859,8,103,335,84,5,282,51,23,61,2,1,9,530,25,21,228,44,137
 Pacte Accès	18316
 Pacte Au	16037
 Pacte Civil de Solidarité Prise	17882
@@ -550,6 +555,7 @@ Préambule Le Pacte	17894,422,651
 REMISE DES PACKS AUX PARTENAIRES L’Observatoire	16250
 REPUBLIQUE DU SENEGAL SENEGAL Le Pacte	18316
 Ratification du Pacte International	13330
+Register SPSS Statistical Package for Social Sciences	19557
 Republic of Chad GPRS General Packet Radio	18887
 Respect du Pacte	18988
 Responsibility for Data MEPPSA Collection Essential Packages	11905
@@ -572,6 +578,7 @@ Serge Pacôme	16100,77
 Service Benefit Package	15977
 Several Pacific	8945
 Sierra Leone Digital Pact	3089
+Slow Pace and Infrastructure Assets Projects	19585
 Smartphone East Asia and Pacific Europe and Central	10977
 Social Protection Nongovernmental Organization OHADA PACAD	15658
 Sociedade Pacífica	17178
@@ -583,6 +590,7 @@ Special Economic Package' of USD	19060
 Spss Statistical Package	16249
 Startup Pact and Trade Desk	2871
 Statistical Package	7759,10684
+Statistical Package for Social Sciences	19613
 Statistical Package for Social Sciences SSN	10874
 Suivi du Pacte	13433
 Super User Free Mobile Data Package	14823
@@ -606,6 +614,7 @@ Triad of Tech Sovereignty and Europe's Package	6545
 Türkiye Uzbekistan Pacific Africa	11135
 UE Pacte	643
 UN Pact	4940
+Uanagenzi Pacha	19565
 Uganda and Pacific	9788
 Un PACS	13306
 Un Pacte	19216

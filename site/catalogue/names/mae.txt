@@ -33,6 +33,7 @@ IPS International Postal System MAE Ministère	17881
 ISM M&E MADER MAEFP MCTES MDA	1228
 Inajih Maelainie	8891
 Jumuiya Maendeleo Kusini	6019
+Kukuza Maendeleo	19565
 LABOGENIE MAETUR MAGZI MATGENIE MINAT MINDCAF	15542
 La MAETUR	15542
 Leading Mr Maele	12599
@@ -55,6 +56,7 @@ MAEFP	1228,11565
 MAEIRCD	13405
 MAEIRCD-MAGAZINE	13405
 MAEIRCD-MAGAZINE No7	13405
+MAENDELEO BANK PLC	19592
 MAEP Ministère	15580
 MAEP-DNAMR	9553
 MAERAH	7670
@@ -62,19 +64,36 @@ MAERSA	18286,20
 MAESE	18310
 MAETGT	15455
 MAETUR	15542
+MIRADI YA MAENDELEO	19592
+Maduhuli Maelezo Makadirio	19565
 Maecenas	9049
 Maeda J	14666
 Maefcateotrmu	15399
 Maekawa	16996
 Maele	12599
-Maelekezo	2868,3151
+Maelekezo	2868,3151,13516
 Maelesi Nyangu	15833
-Maelezo	8615
+Maelezo	8615,10920
+Maelezo Makadirio	19565
 Maendel	6019
-Maendeleo	2868,641,2510,583,319,390,538,14,1,547,965,2251
+Maendeleo	2868,641,2510,583,319,390,538,14,1,547,965,2251,7890,25,23,5,7,13,2,6,19
+Maendeleo Endelevu	19592
+Maendeleo Fedha	19592
+Maendeleo Geresho la Mradi Jina la Mradi Makadirio	19565
+Maendeleo JUMLA YA MATUMIZI YA KAWAIDA	19592
 Maendeleo Kusini	2868
-Maendeleo. Kati	6019
-Maeneo	2868,3151
+Maendeleo Maelezo Makadirio	19565
+Maendeleo Makadirio	19565
+Maendeleo Zilizopokelewa	19592
+Maendeleo. Fedha	19590
+Maendeleo. Kati	6019,13546,25,2
+Maendeleo. Kwa	19590
+Maeneo	2868,3151,13516,55,2
+Maeneo Chakavu	19592
+Maeneo Chakavu Mijini	19592
+Maeneo Chakavu Yaliyoainishwa Kwa Ajili	19592
+Maeneo Maalum	19592
+Maeneo Yaliyoiva Kuendelezwa Kimji Na. Mkoa	19592
 Maer Neto	5587
 Maersk	9832
 Maersk and CMA CGM	6593
@@ -94,6 +113,10 @@ Maestría	16864
 Maeve de France and Martin Noblecourt of CartONG	2678
 Ministro Delegado Gran Maestro	4209
 Ms. Eric Maeda	17735
+NA MIRADI YA MAENDELEO	19592
+NYUMBA NA MAENDELEO YA MAKAZI HOTUBA	19592
+NYUMBA NA MAENDELEO YA MAKAZI MHE	19592
+Ndani Maendeleo Nje Jumla	19592
 Plan Maestro	1701
 Plan Maestro de Desarrollo de Servicio Postal	1701
 Plan Maestro de Informatización	16930
@@ -105,8 +128,12 @@ SANITAR. PROFESORES MAESTROS ASIMILADOS MEDIOS Importe	4209
 SENUM SA MAERSA	18306
 SG du MAERSA MAERSA	18306
 Shirika la Maendeleo la Ufaransa	2868,3151
+Shirika la Maendeleo la Ujerumani	19590
 Statistique MAEFCE Ministère des Affaires	15580
 Statistiques MAEC Ministère des Affaires	15479
+Taasisi Maelezo Makadirio	19565
+UPANGAJI MIJI NA MAENDELEO YA MAKAZI	19592
+Upangaji. Maeneo	19592
 William Maema Senior Partner IKM Advocates	12301
 Wizara. Maelekezo	2868
 Y MAERSK GUINEE SA MAERSK GUINEE	16623

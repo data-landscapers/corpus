@@ -9,20 +9,20 @@ Abhu Dhabi	13122
 Abidjan and Abu Dhabi. Through	3280
 Abou Dhabi	15742
 Abu Dhab	6231
-Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587,534,542,2098,1,360,564,273,19,143,1198,319,525,247,209,197,51,12,1
+Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587,534,542,2098,1,360,564,273,19,143,1198,319,525,247,209,197,51,12,1,374
 Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Abu Dhabi BioBank and Abu Dhabi Health	15262
 Abu Dhabi Ces	10507
 Abu Dhabi Development Fund	18988
 Abu Dhabi Exports Office	2947
-Abu Dhabi Fund for Development	13868,962,1746,2412
+Abu Dhabi Fund for Development	13868,962,1746,2412,614
 Abu Dhabi Global Market	14819
 Abu Dhabi Global Water Platform	18550
 Abu Dhabi Health Data Services	15259
 Abu Dhabi National Oil Company	17459
 Abu Dhabi Ports Company P.J.S.C	16118
 Abu Dhabi Ports Company PJSC	14457
-Abu Dhabi Securities Exchange	14902,382
+Abu Dhabi Securities Exchange	14902,382,4162
 Abu Dhabi Sustainability Week	4934,7869
 Abu Dhabi Sustainability Week Summit	12026
 Abu Dhabi's International Holding Company	12069
@@ -84,6 +84,7 @@ CAPACITATION OF DHA Head	11986
 CHIS and DHIS2	12246
 CHIS. DHIS2	12246
 CONTRIBUTION TO THE NDP The DHA	11285
+COSTECH Tanzania Commission for Science and Technology DHS	19555
 CRVS CSI CSMF CURY D4H DHIS	15599
 CRVS Civil Registration and Vital Statistics DHIS2	12729
 Cascading DHIS2	16909
@@ -270,7 +271,7 @@ DHIS-2	1212,2990,147,11138,112,86,799,487,874
 DHIS-2 District Health Information System	15479
 DHIS-2. Ce	15599
 DHIS-2. L’accent	15599
-DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7,296,20,58,12,14,7,34,15,9,80,55,2,16,32,9,113,40,5,89,121,106,12,13,109,182,76,2,22,15,3,33,110,8,27,130,75,14,8,7,1,53,60,74,42,8,45,1,123,60,6,136,335,103,40,4,232,25,27,150,1,55,4,40,275,115,9,86,27,12,177,35,23,1,51,184,14,15,14,62,21,35,36,17,13,32,268,174,3,10,2,11,5,14,1,29,8,89,26,7,15,131,42,556,25,12,39,25,22,137,20,12,121,20,3,10,6,232,3,13,20,92,11,11,15,28,44,2,15,81,11,53,187,111,58,70,1
+DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7,296,20,58,12,14,7,34,15,9,80,55,2,16,32,9,113,40,5,89,121,106,12,13,109,182,76,2,22,15,3,33,110,8,27,130,75,14,8,7,1,53,60,74,42,8,45,1,123,60,6,136,335,103,40,4,232,25,27,150,1,55,4,40,275,115,9,86,27,12,177,35,23,1,51,184,14,15,14,62,21,35,36,17,13,32,268,174,3,10,2,11,5,14,1,29,8,89,26,7,15,131,42,556,25,12,39,25,22,137,20,12,121,20,3,10,6,232,3,13,20,92,11,11,15,28,44,2,15,81,11,53,187,111,58,70,1,189,17,62
 DHIS2 API	12754
 DHIS2 Aceda	11454
 DHIS2 Action VI.1.2 Actualiser	13306
@@ -291,6 +292,7 @@ DHIS2 Axe	17845
 DHIS2 CPS	17845
 DHIS2 CPS CPS	17845
 DHIS2 Capture	11970
+DHIS2 Challenges	19544
 DHIS2 Chap Modeling Platform	17122
 DHIS2 Climate	11589,1532,692,3309,1600,633
 DHIS2 Climate App	11589,2224,3309,1600,633
@@ -307,7 +309,7 @@ DHIS2 DSGHP	17845
 DHIS2 Dans	19226
 DHIS2 Data Service	18478
 DHIS2 Database Responsibility for Data Collection	11417
-DHIS2 District Health Information Software	14666,393,3609
+DHIS2 District Health Information Software	14666,393,3609,876
 DHIS2 District Health Information System	10829,52,679
 DHIS2 District Heath Information Software	13341
 DHIS2 Documentation Skip	12408
@@ -318,11 +320,13 @@ DHIS2 ETAT	17845
 DHIS2 Electronic Immunization Registry	977
 DHIS2 Ethiopia	2463
 DHIS2 Facilities	10881
+DHIS2 Figure	19544
 DHIS2 Frequency Every	11417
 DHIS2 GMAO	13306
 DHIS2 Gestion	17882
 DHIS2 Go	13813
 DHIS2 Guinée	16722
+DHIS2 HMIS Data and Public Data Portal	19623
 DHIS2 Home	10881
 DHIS2 Implementation	12198
 DHIS2 Incidence	4349
@@ -340,6 +344,7 @@ DHIS2 Orienter	17845
 DHIS2 PS-SNISS	17845
 DHIS2 PTF PM Sous-total	17845
 DHIS2 RMNCH Dashboard	10833
+DHIS2 Regional	19544
 DHIS2 Remark	4349
 DHIS2 Résultat VI.2 Extension	13306
 DHIS2 Résultat X.2 Le SSE	13306
@@ -352,6 +357,7 @@ DHIS2 Support Ebola Outbreak Response URL	16409
 DHIS2 Surveillance Guinée Qualité	16722
 DHIS2 Surveillance Laboratoires Formation Taux	14622
 DHIS2 TRACKER	18766
+DHIS2 Table	19544
 DHIS2 Technical Working Group	10928
 DHIS2 The Boma Health Initiative	18694
 DHIS2 The Ministry of Health	13121
@@ -384,6 +390,8 @@ DHIS2 for Logistics	13763
 DHIS2-	10780
 DHIS2-AMU	16722
 DHIS2-DEMIS	15960
+DHIS2-ETL	19544
+DHIS2-ETL Figure	19544
 DHIS2-Ed	4829,9219
 DHIS2-MTN	14622
 DHIS2-RTS	13763
@@ -563,8 +571,9 @@ Dhalasho	15153
 Dhallaanka	14859
 Dhallinyarada	14859
 Dhaman	11310
-Dhamana	11310
+Dhamana	11310,8225
 Dhamini Sacco Society Ltd Data Controller	7167
+Dhamira	19598
 Dhammaan	14859,47,247
 Dhammaan Hay’adaha	14906
 Dhammaan Xog-dhawreyaasha	15152
@@ -590,6 +599,7 @@ Dhaqangelinta Dastuurka	14859
 Dhaqangelinta Xuquuqda Asaasiga	14859
 Dhaqanka	14859
 Dhar El Mehraz	17501
+Dhara Kuu Iringa Kughushi Kagera Kuharibu	19517
 Dharam Gokhool	5786
 Dharambeer Gokhool	14566,186
 Dharm Singh Jat	12926
@@ -706,6 +716,7 @@ HIS. DHIS2	14923
 HISP WCA. Through the DHIS2 Climate	19355
 HISP and DHIS2	8680
 HIc Bangladesh Asia Southern Asia Dhaka	10840
+HMIS DHIS2	19544
 HMIS. DHIS2	10829
 HSSP III Joint Annual Review and DHD	12240
 Hamdallaye. The DHY Technologie	10951
@@ -755,6 +766,8 @@ Keeps DHIS2	6153
 Khairunissa Dhala	12227
 Khasnadda Dhexe	14859
 Kulani Dhumazi	8784
+Kuwania Makosa Dhidi	19517
+Kuwania Mali Makosa Dhidi	19517
 LIBERTES CSU COUVERTURE SANITAIRE UNIVERSELLE DHIS2	18105
 Lakshmi Dhikta	13040
 Lala Wadaagi Karo Dhinacyada Ku Tiirsan	14930
@@ -775,6 +788,7 @@ M DHIS2 Spectrum DH	4349
 M. Cheikh Ould Dhib	18071
 M. Dhoihirdine Ahamada Bacar	5814,7982
 M. Kenya DHIS2	150
+M. Lassâad Ben Dhiab PDG de Tunisie	19404
 MAGPI and DHIS2	10919
 MAIN THREATS CONFRONTING THE DHA	5533,6453
 MANDATE AND DHA OUTCOMES	11986
@@ -784,6 +798,7 @@ MANDATES AND DHA OUTCOMES VISION Deliver	5533
 MISSION The DHA	5533
 MOH and DHA	12255
 MTN and DHL	9720
+Makosa Dhidi	19517
 Malawi's DHIS1	12242
 Malawi's DHIS2-based	13121
 Malika Dhif	965,3924,206
@@ -813,6 +828,7 @@ Mr. Emmanuel Dhenhere	1554
 Mr. Lassâad Ben Dhiab	2375,1485
 Ms. Sally Njiri RMNCAH MoH DHPT	9855
 Mustafa Sheikh Ahmed Dhuxulow. The EAC	5045
+Mwaka Makosa Dhidi	19517
 Mzimba North DHO	3791
 Médecine Traditionnelle DHIS	15475
 NAM 1992 DHS v01 M	9485
@@ -867,6 +883,7 @@ Qorshe-howleedka Dhameystiran	15047
 REC-Maternity and DHIS-2	10881
 REC-Maternity and DHIS2	10881
 REECHAYE Dheerendra Chief Executive	14770
+RRH Regional Referral Hospital DH District	19544
 RRT de DHIS2	19354
 RUKHSADDA DHOWRISTA XOGTA	15152
 Recherchez DHS Program	13300
@@ -890,7 +907,9 @@ SA-SAMS. As DH	11927
 SA-SAMS. DH	11927
 SARKAALKA DHOWRISTA XOGTA	15152
 SARS and DHA	2681
+SEHEMU YA TATU PINGAMIZI DHIDI YA	19535
 SELON LE TARIF DHL	17833
+SERIKALI MAPAMBANO DHIDI YA UGONJWA WA	19561
 SHAHAADO-SIINTA DHINACYADA KU TIIRSAN	14930
 SIS and DHS2	15590
 SO.SM for DHIS2	4301
@@ -949,6 +968,8 @@ TECHNOLOGY CONFERENCE IN ABU DHABI	4827
 TVET Modernisation DHET	6832
 Talaat Dhurgham Village	15578
 Tallaabooyinka Dheeriga	14930
+Tanzania DHAMIRA Weledi Kufanya	19517
+Tanzania DHIMA Kutoa	19517
 Team DHS Demographic and Health Survey DHSE	18478
 Thomas DHELLO	15439
 Thon Dhiei Ngor	4042

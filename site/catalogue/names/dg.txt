@@ -104,6 +104,7 @@ DE LA DGSN	15999
 DE4A DGDEN DPC DRC E&S EGDI	15553
 DFF Direct Facility Financing DGMP General	10829
 DFIL Disbursement and Financial Information Letter DGID	18293
+DFIL Disbursement and Financial Information Letter DGSDS	19455
 DG ANIP	3387
 DG ARCT. Ce	13341
 DG ARTPC	10474
@@ -293,6 +294,7 @@ DGCIL. Bissau	17111
 DGCIS Development Partnership	2667
 DGCL Due Date	17505
 DGCM and GAF AG	10873
+DGCMDOA M-	19585
 DGCMEF Direction	15961
 DGCMP	11905,4462
 DGCMP-DIA	15908
@@ -622,6 +624,7 @@ DGS. Specific	12917
 DGSC General Directorate of Civil Security	13729
 DGSCN	19216,7
 DGSCN Direction	19216
+DGSDS	19455
 DGSEE	15518
 DGSHP	17845,37,39,25,130
 DGSHP Activité	17845
@@ -756,7 +759,7 @@ Direction Générale des Douanes DGEP	10874
 Direction Générale du Budget DGDDI	15840
 Direction Générale du Budget DGI DNA Direction	17842
 Direction des Affaires Administratives DGEC	10847
-Director General DG	12338
+Director General DG	12338,7194
 Directorate of Water Resources Management and Planning DGS	18309
 Diretor Geral da DGRN	2688
 Direção de Tecnologia da Informação. DGRN	18946
@@ -886,7 +889,7 @@ La DGEFC	10876
 La DGENNTI	15701
 La DGESS	15595,44
 La DGFD	10876
-La DGI	10519,339,3311,1456,1,110,61,139,1936,29,122
+La DGI	10519,339,3311,1456,1,110,61,139,1936,29,122,1436
 La DGI ENGAGE LA VALIDATION	5814
 La DGI Mali	18023
 La DGID	7346,156,10822

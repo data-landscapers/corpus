@@ -9,6 +9,7 @@ Agriculture Fishing Mining Public	11874
 Agriculture and Mining Concession	16853
 Alpha Centauri Mining	16285
 Artisanal Mining Programme	13460
+Artisanal and Small-Scale Mining	19584
 Ashapura Mining	16649
 B SOCIETE PETROL AND MINING INVEST	16623
 B SOCIETE SEKE GOLD MINING SA	16623
@@ -19,6 +20,7 @@ Baobab Mining and Chemicals Corporation	18378
 Bea Mineral Mining Company	16970
 Bea Mountain Mining Corporation	16970
 Bea Mountain Mining Site	17140
+Big Data and Data Mining	19533
 Bitcoin. Mining	9367
 Burundi Mining Authority and IBI Sign Comprehensive	13666
 Burundi Mining Bureau	13666
@@ -39,6 +41,7 @@ Data Mining and Knowledge Discovery	11156,109
 Deepening China-Africa Mining Cooperation	13666
 Delta Mining Limited	13362
 Delta Mining Limited and Mopani Copper Mines	13387
+Department of Mining	19519
 Deploy Digital Identity Against Illegal Mining	7513
 Description Mining	17140
 Directorate-General of Mining Cadastre	10873
@@ -50,6 +53,7 @@ Energy and Mining	6490,6108,381,144
 Energy and Mining Department Of Climate Change	13062
 Eritrean National Mining Corporation	14008
 F SOC GUINEENNE MINING CONSTRUCTION GMC-SARL	16623
+Finance Agro Energy Mining Transport Tech	19622
 Finances MiniTPT Mininfo MiniTPT Mininfo	13290
 Forestry Mining and Quarrying	2775
 Formal Informal Mining and Quarrying Manufacturing Utilities	12445
@@ -134,9 +138,11 @@ Minerals and Mining Policy	16511
 MiniTPT MiniTPT Radiodiffusion Mininfo Mininfo	13290
 Mininfo ARCT ARCT ARCT ARCT Proposition	13290
 Mininfo De Août	13290
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4,51,94,100,1181,19,226,389,96,15,128,1,95,22,107,1103,16,99
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4,51,94,100,1181,19,226,389,96,15,128,1,95,22,107,1103,16,99,937,7,6,25,28,17
 Mining AI	4528,7984
+Mining Act	19524,61
 Mining CEOs	7751
+Mining Cadastral Portal	19533
 Mining Cadastre	10873
 Mining Cadastre Department	10873
 Mining Cadastre General Directorate	10873
@@ -148,11 +154,15 @@ Mining City Radio	9111,8472
 Mining Code	2889,10735,3095,1174
 Mining Code. Delivery	2889
 Mining Code. Mauritania	17893
+Mining Commission	19584
+Mining Commission Level	19584
+Mining Commission MUSE Inventory Module	19584
 Mining Companies	13060,3887
 Mining Concessions	16848
 Mining Concessions Guideline	16848
 Mining Cooperation Agreement	13666
 Mining Cooperation Agreement URL	13666
+Mining Corporation TAA Tanzania Airports Authority	19584
 Mining Development Agreement	13122
 Mining Development Agreements for Kasiya Graphite and Rutile	13060
 Mining Engineering	14147
@@ -171,7 +181,7 @@ Mining Output	17235
 Mining Qualifications Authority NDFSS	6832
 Mining Revenue and Inclusive Development	1828
 Mining Royalties	14985
-Mining Sector	2775,9581,704,625,3326
+Mining Sector	2775,9581,704,625,3326,2591
 Mining Sector Governance Support	2889
 Mining Sector No Interventions Activities	17011
 Mining Sector Optimization and Transformation Zimbabwe	4528,7984
@@ -184,6 +194,7 @@ Mining VP Mohadi Launches National Child	2987,16
 Mining World	7253
 Mining and Agriculture	4528,7984
 Mining and Energy	14089
+Mining and Local Governments Data and REPOA Portals	19519
 Mining and Manufacturing	4528,8501,31,62
 Mining and Manufacturing Utilities	12445
 Mining and Manufacturing. The Plan	13122
@@ -239,8 +250,10 @@ PERSEUS MINING YAOURE Gestion	2342
 PROSPECTING AND MINING	13189
 Persus Mining	2342
 Persus Mining FIMBIASSO	2342
+Policy Finance Agro Energy Mining Transport	19622
 Power and Mining Ministry	14853
 Prospecting and Mining	13189
+Public Policy Finance Agro Energy Mining	19622
 PwC Smart Mining	7751
 Q SOCIETE GUITER MINING-SA GUITER MINING-SA	16623
 RURA and MININFRA	14947
@@ -254,6 +267,8 @@ SARL MACI MINING	16623
 SECURITY MINING SAR	16623
 SEKE GOLD MINING SA	16623
 SOCIETE MINING LOGISTIQUE TRANSIT	16623
+STAMICO State Mining Corporation FETA Fisheries	19519
+STAMICO State Mining Corporation TaFF Tanzania	19590
 Sangha Mining Exploitation Sas	15558
 Saudi Arabian Mining Company	4447
 Sierra Leone Mining and Maritime Development Company	18586
@@ -267,13 +282,17 @@ Songwe Rare Earth Mining	13060
 South African Mining	7751
 Special Mining Reserve	16972
 State Department for Mining	14546
+State Mining Corporation	19584
+State Mining Corporation Level	19584
 Strategic Outlook for Mining Technology Governance Looking	10069
 Support Artisanal and Small-scale Mining Formalisation	13938
 Supporting Artisanal and Small-scale Mining	13060
 T ALLIANCE MINING COMMODITES GUINEE	16623
 T TOP GUINEA MINING SARL TGM	16623
+TAFICO Mining for Industry	19519
 TI Postes Radiodiffusion MiniCommerce MiniTPT Mininfo	13290
 Tanzania Mining Summit	10592
+Tech Health In-Depth Extractive Gas Mining	19572,17
 Teloua Safeguarding Uranium Mining Company	18238
 Tenke Fungurume Mining	6843
 Text-and-Data Mining	7548
@@ -284,4 +303,5 @@ Uis Tin Mining Site	13189
 Yaouré Mining	2342
 Year Quar- Agriculture Mining	2775
 Z SOCIETE DTP MINING GUINEE SASU	16623
+ZCC Ministry for Mining	19519
 Zijin Mining Group. Working	16812

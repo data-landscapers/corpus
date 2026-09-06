@@ -12,6 +12,7 @@ Agences MDNAC Ministère	13341
 Agencies MDAs	14965
 Agencies MDFT Multi-Disciplinary Facilitation Team M&E	16952
 Agencies MDI Management Development Institute MICS	17105
+Agencies. In the MDAs	19519
 Agency MDM Master Data Management M&E	12917
 Alignment of MDA	958
 All MDAs	10157,1834,1390
@@ -88,7 +89,7 @@ Engage MDAs	14525
 Entreprise MdC Inclus	14488,1,1
 Equinix South Africa MD Sandile Dube	11844
 Equity MD	14990
-Evaluation MDAs Ministries	3604,9727,5146
+Evaluation MDAs Ministries	3604,9727,5146,1054
 Evaluation MDCEST Ministry of Community Development	18301
 Evaluation MDM Master Data Management SITA	396
 Evaluation MDTF Multi-Donor Trust Fund MFD-e	16384
@@ -124,7 +125,8 @@ Google Africa MD Alex Okosi	6961
 Google’s MD for Africa Alex Okosi	3619
 Gouvernance Locale MDN Ministère	15479
 Government Areas MDAs Ministries	11857
-Government MDAs	11854,1063,15,190,5355
+Government MDAs	11854,1063,15,190,5355,1042
+Government MDAs and LGAs	19533
 Groups MDH Misinformation	15342
 Guide MDG Millennium Development Goals MLA	13960
 Guide the MDAs	12917
@@ -167,6 +169,7 @@ Kasaye MD	3791
 Kenya School of Government MDAC Ministries	7548
 Key Performance Indicator MDAs Ministries	4126
 Know Your Customer MDA Ministry Department	14965
+Kombo Mdachi Kombo	19542
 LGA Local Government Authority MDGs Millennium	16852
 LMIS Logistics Management Information System MDA	12729
 Land Information Management Systems MDA Ministries	13420
@@ -184,7 +187,9 @@ MACRA Malawi Communications Regulatory Authority MDA	14674
 MALAWI BUREAU OF STANDARDS MDAs	12253
 MAM Mission Aide Memoires MDAs Ministries	17114
 MAP Meter Assets Provider MDA Ministries	12062,6124,31
+MAPS Marrakech Action Plan for Statistics MDAs	19519
 MB Megabyte MDAs Ministries	18931
+MCCD Medical Certification of Cause of Death MDA	19544
 MD Anne Kinuthia-Otieno	8623
 MD Ashfakul Karim Kausik	6948
 MD Briefing	3398
@@ -228,6 +233,11 @@ MDA Naira	2287
 MDA Non-Tax Revenue	15790
 MDA Transactions Upon	11861
 MDA and State	14860
+MDA'S and NSAs Strategic	19519
+MDA's and DQA	19519
+MDA's and NSA	19519
+MDA's and NSA's Components and Objectives Interventions	19519
+MDA's and NSAs	19519
 MDA. Backbone	9123
 MDA. Cette	13341
 MDA. En	15474
@@ -261,6 +271,8 @@ MDAs Chief Executive Officers	11951
 MDAs Conduct	12917
 MDAs Convert	15090
 MDAs Cross	18576
+MDAs DRM	19520
+MDAs DRR	19520
 MDAs Department of E Government	12917
 MDAs Department of E- E Government	12917
 MDAs Distribute	9123
@@ -270,8 +282,9 @@ MDAs Lilongwe	13185
 MDAs MDAs	10157,713,991
 MDAs MEPSIR MFD MICS MNO MoF	15553
 MDAs Malawi’s National ID	13080
+MDAs Management	19520
 MDAs Methodology for Data Collection Data	3604
-MDAs Ministries	970,1805,8770,315,3069,2023,1625,200
+MDAs Ministries	970,1805,8770,315,3069,2023,1625,200,743,37
 MDAs MoI Short Term I3 Establish	12917
 MDAs Moderate Induct PMO	16858
 MDAs My	1161
@@ -284,6 +297,8 @@ MDAs Private	958
 MDAs Public Service Annual Emerging Technologies	7548
 MDAs Quick Win Department of E Government	12917
 MDAs REQUIRED TO OBTAIN DATA	13381
+MDAs Recovery Framework	19520
+MDAs Resilient Societies	19520
 MDAs Specific Objectives	1000
 MDAs Sub-Total	12917
 MDAs System	12241
@@ -291,15 +306,23 @@ MDAs The Department of E-Government	12240
 MDAs The Quality Assurance and Improvement Programme	18577
 MDAs Under Output	13080
 MDAs Universities	6936
+MDAs and Component	19519
 MDAs and District	12917
 MDAs and Districts. Priority	13080
 MDAs and GSS	18529
 MDAs and HDAs. The IDA	9123
 MDAs and Inter-Governmental	12145
 MDAs and LCs Public Investment	18488
+MDAs and LGAs	19519,14
 MDAs and Local Councils	18529
 MDAs and Local Government	12917
+MDAs and Local Government Authorities	19519
+MDAs and NSAs	19519
+MDAs and NSAs Strategic	19519
+MDAs and NSAs Zanzibar	19519
+MDAs and Non-State Actors	19519
 MDAs and Parliamentary	13005
+MDAs and Private Sector	19519
 MDAs and Public Institutions	12917
 MDAs and SVAs	18576
 MDAs and States	14860
@@ -320,6 +343,7 @@ MDAs. Critical	9123
 MDAs. Develop	12917
 MDAs. During FY	18577
 MDAs. Earlier	7973
+MDAs. Enhanced	19519
 MDAs. Exact	15553
 MDAs. Finally	16927
 MDAs. Financial Reporting	18577
@@ -398,6 +422,7 @@ MDGLAAT	15399
 MDGs Millennium Development Goals MFIS Ministry	11855
 MDGs Millennium Development Goals MoFEA Ministry	16915
 MDGs Summit	14723
+MDH Non-	19519
 MDH-Scoping-Study Full-report.pdf	15342
 MDI Road	17232
 MDI Road Universal Access and Service Policy	16886
@@ -470,6 +495,7 @@ MICTPCS MDAs All Sectors	958
 MICTPCS MDAs Development	958
 MainOne MDX-i	856
 MainOne’s MDXi Lekki	4191
+Mainland and Tanzania Zanzibar. MDAs NBS	19519
 Malawi College of Distance of Education MDAs	13053
 Malawi Communications Regulatory Authority MDAT	12175
 Malawi Communications Regulatory Authority MDAs Ministries	12241,839,15
@@ -555,10 +581,12 @@ Nigeria. MDAs	10157
 Nigeria. These MDAs	11942
 Non-Tax Revenue Portal Across Different MDAs	8669
 Number of MDA	1284
-Number of MDAs	11866,1229,2621,2813
+Number of MDAs	11866,1229,2621,2813,990
 Number of MDAs Malaw	12917
 Number of MDAs Nation	12917
 Number of MDAs' Annual Budgets	11866
+OCGS MDAs	19519
+OCGS and MDAs	19519
 Once MdJL UGP Strategic	17441
 Oracle Kenya MD	7069
 Ordre Publique MDN Ministère	15580
@@ -599,6 +627,7 @@ SCH MDAC	17841
 SDN MDG SOM COM Low	6593
 SECURION MDM ISO	16103
 SECURION MDM SONELGAZ	16103
+STH Soil-Transmitted Helminths SCH Schistosomiasis MDA	19544
 Safaricom. Lipa Mdogo Mdogo	11994
 Sahel Adaptive Social Protection MDTF	16435
 Salome Chapeyama Mdala	9516
@@ -607,7 +636,7 @@ Secretary-General of MdJL	17441
 Sector MDAs	7548
 Seeks Full Adoption Across MDAs	8632
 Select MDAs	6539
-Selected MDAs	16858
+Selected MDAs	16858,2661
 Selon le MDENI	13909
 Services M&E Monitoring and Evaluation MDAs Ministries	16860
 Services MDTF Multi-Donor Trust Fund MIS	13332
@@ -629,6 +658,7 @@ Systems MDAs Ministries	18488,12
 Systme Informatisk de Gestion des Affaires du MdJL	17441
 T-Connect MD Advocate Phelane Phomane	4656
 TB MDR Multi-drug-resistant	19350
+Tabora Makambako TC Mdenga	19592
 Tax Administration System MDA Ministries	1284
 Tebukhosi Mdziniso	13245
 Telecom Egypt’s MD and CEO Tamer	17693

@@ -14,6 +14,7 @@ AFFORDABLE AND CLEAN ENERGY INDICATORS REPORT	15063
 AI Ecosystem Outcome Indicators	12356
 AI Indicator	1204
 AI. Indicators	15164
+AIDS Indicators Monitoring Survey	19519
 ALIGNMENT INDICATOR	11863,2075
 AMENDMENTS TO STRATEGIC PLAN OUTCOME INDICATORS	5533
 ANNEX I METRIC OF KEY INDICATORS	12399
@@ -72,6 +73,7 @@ Appendix A Indicator Definitions Domain	15164
 Application Processing Indicator	11986
 Applied Drought Monitoring Indicators for Libya Different	17157
 Area Details Indices Targets	11857
+Area Observed Weakness Indicator Asset Risk	19585
 Assessment Schedule Workload Staffing Indicator Needs	14622
 Assessment of Indicators Using Health Facility Data	10881
 Assessments Indicators Rating Performance	18754
@@ -187,6 +189,7 @@ Classement Indice	16641
 Classement Indice Mondial	16641
 Climate Indices	17157
 Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1,179,258,25,425,7
+Code Description Indicators	19519
 Code Heading Implementor Partner Indicator Baseline	16927
 Code Indicateur Valeur de Valeur Source de Responsable	17983
 Code Indicator	12355,132
@@ -216,6 +219,8 @@ Composite Indicator Index and Threshold Tables Final	13868
 Conakry Indices	16708
 Concepts Et Indicateurs Courantes Utilises Dans	17945
 Conduct Multiple Indicators Survey	17116
+Conduct the HIV Indicators Monitoring Survey	19519
+Conducting HIV Indicators Monitoring Survey	19519
 Consolidated Indicative Costs	17116
 Consolidated Indicators	11986
 Consommation IHPI Indice	18169
@@ -280,6 +285,7 @@ Data Indicators	17441
 Data and Indicators	17236
 Delivery Enhanced Output Indicator	14935
 Delivery Linked Indicators	19284
+Demographic Indicators	19544
 Departments and Agencies MICS Multiple Indicator Cluster	16927
 Des Indicateurs	17945
 Des Rapports Sur Les Indicateurs Anthropométrique	17945
@@ -308,7 +314,7 @@ Disbursed-Linked Indicators	17458
 Disbursement Linked Indicator	17470
 Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
-Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260
+Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260,239,74
 Disbursement Linked Indicators DLI	11905
 Disbursement Linked Indicators. Beyond	16922
 Disbursement-Linked Indicators	15693,945,1732
@@ -424,6 +430,7 @@ Financial Inclusion Measurement Indicators	18770
 Financial Sector Indicators	17909,81
 Financial Soundness Indicators	13868,909,2458,22,246,1320
 Financial Soundness Indicators for Banks	17236
+Financing IRI Intermediate Results Indicator ISR	19455
 Follow-up Indicator Outcome Entity Conduct	16863
 Follow-up Indicator Outcome Entity Series	16863
 Follow-up Indicator Outcome Objective	16863
@@ -473,6 +480,9 @@ HEADLINE LABOUR FORCE INDICATORS BMTHS	12600
 HEALTH SECTOR INDICATORS7	16971
 HIV Indicators	18441
 HP Hewlett-packard ICA Indice	19350
+HRH INDICATORS	19544
+HUMAN RESOURCE FOR HEALTH INDICATORS	19544
+Health Coverage Indicators	19544
 Health Status Indicators	14898,3729
 Health Systems Indicators	18627
 High-Impact Indicators	15244
@@ -600,7 +610,7 @@ INDICATOR DESCRIPTION RMF	11863,2075
 INDICATOR Government	12453
 INDICATOR ICT	12453
 INDICATOR Proportion of Management Information Systems	12453
-INDICATORS	12399,2845,309,424
+INDICATORS	12399,2845,309,424,3567
 INDICATORS ANALYSIS ACTIONS	15553
 INDICATORS AND COMPONENTS VALUES	12389
 INDICATORS AND COMPONENTS VALUES Cost	12389
@@ -611,6 +621,7 @@ INDICATORS AND COMPONENTS VALUES Time	12389
 INDICATORS AND ICT STATUS IN ZIMBABWE	13295
 INDICATORS AND TARGETS	15716
 INDICATORS AND TARGETS Baseline Latest	15716
+INDICATORS FOR TRACKING PERFORMANCES	19544
 INDICATORS OF DIGITAL TRADE INTEGRATION	13985
 INDICATORS OF FIXED AND MOBILE	14853
 INDICATORS OF PERFORMANCE	10
@@ -660,7 +671,12 @@ Identify Indicators Planning Evaluation Monitoring	13991
 Illustrative Indicators Awareness	6936
 Immigration and Refugee Protection Indicator	11986
 Impact Indicator Survey	14622
+Impact Indicators	19520
 Impact Indicators Beneficiaries	18480
+Impact Indicators I	19520
+Impact Indicators IV	19520
+Impact Indicators VII	19520
+Impact Indicators X	19520
 Implement Monitoring Framework Key Performance Indicators	12508
 Implementation Indicator Implementation Timeframe	17011
 Implications for Use of Cassava Indicators Given	17043
@@ -717,7 +733,7 @@ Indicate the ISO	16843
 Indicate the Liberian	16843
 Indicated	15518
 Indicateirs PS	17845
-Indicates	7221,3559,4111,273,1993
+Indicates	7221,3559,4111,273,1993,2419
 Indicates the GP-2	15164
 Indicates the HR-3 ICT	15164
 Indicateur	748,574,1,1,740,1,1,2013,1,4811,4409,90,1232,852,19,213,1,621,224,454,442,14,394,8,81,38,308,74,623
@@ -832,7 +848,7 @@ Indicateurs-et-Projetcions	15398
 Indicatif	643,15258,651,454
 Indicatif. Fait	15901
 Indicatifs	15901
-Indicating	16900
+Indicating	16900,2684
 Indication	14893,470,10,563,700,463,1413,83
 Indications	15373,94
 Indications Géographiques Protégées	15936
@@ -867,7 +883,7 @@ Indicativos de Fraquezas	11569
 Indicativos de Oportunidades	11569
 Indicator	958,246,24,639,909,3763,132,257,18,276,326,215,2996,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15,583,8,835,124,38,62,59,103,5,80,167,13,23,71,35,48,92,32,288,19,11,144,427,229,20,29,50,54,120,11,13,95,1,3,202,302,126,89,4,44,119,225,135,27,242,150,78,302
 Indicator Adults	15480
-Indicator Baseline	940,17814
+Indicator Baseline	940,17814,790
 Indicator Baseline Intermediate Targets End Target	12675
 Indicator Baseline Target Data Source Frequency	13991
 Indicator Baseline Value Revised	18754
@@ -878,6 +894,7 @@ Indicator Calculation Drought Threshold SPI Standardized	17157
 Indicator Capital Adequacy Liquidity Ratio Credit	11134
 Indicator Cluster Survey	18637
 Indicator Cluster Survey MASRN Ministry of Social	15415
+Indicator Cluster Survey MIS Management Information	19455
 Indicator Current	12399,6396
 Indicator Current Share Renewable Energy	12399
 Indicator Dec-24r Dec-25 Gross Assets	17235
@@ -913,6 +930,7 @@ Indicator Indicator Capability Source Scoring Logic	15164
 Indicator Indicator Capability Source Variables Scoring	15164
 Indicator Indicator Definition Years	236
 Indicator Innovation Capacity	15480
+Indicator Investment Very	19585
 Indicator LFP Labor Force Participation M&E	17458
 Indicator Level Baseline Target Achieved	16436
 Indicator Level Status Rationale	19284
@@ -1014,7 +1032,8 @@ Indicator-Level Contributions	15244
 Indicator-Level Responses	10785
 Indicator-level	17127
 IndicatorIds	16144
-Indicators	789,172,9,30,144,674,1786,697,2370,77,595,205,3232,49,134,1,307,119,27,155,323,256,205,156,89,74,420,205,12,2,757,27,631,23,63,40,80,92,7,86,44,80,3,95,30,39,69,183,77,161,243,292,178,24,205,18,15,8,37,54,182,23,261,429,92,44,103,16,333,2,13,56,99,17,79,93,70
+Indicators	789,172,9,30,144,674,1786,697,2370,77,595,205,3232,49,134,1,307,119,27,155,323,256,205,156,89,74,420,205,12,2,757,27,631,23,63,40,80,92,7,86,44,80,3,95,30,39,69,183,77,161,243,292,178,24,205,18,15,8,37,54,182,23,261,429,92,44,103,16,333,2,13,56,99,17,79,93,70,657
+Indicators A1	19555
 Indicators AI	15713
 Indicators Absolute Relative	15244
 Indicators Activities Corrective Action Deviation	5245
@@ -1039,6 +1058,7 @@ Indicators Matrix Table	16943
 Indicators Memorandum	11134
 Indicators NPV Net Present Value ODA	18777
 Indicators Name Measured	13392
+Indicators Of Reproductive Health For Cervical	19544
 Indicators Outcome	14935
 Indicators PCE	3604
 Indicators Page	17962
@@ -1175,7 +1195,7 @@ Intermediate Outcome Indicator	16614,2140
 Intermediate Result IRI Intermediate Results Indicator	16952
 Intermediate Result Indicators Number	1867
 Intermediate Results Indicator	1284,10640,3677
-Intermediate Results Indicators	1284,583,845,892,1049,35,1891,349,949,2891,102,525,22,438,50,19,41,6,17,240,39,173,284,303,31,273,639,1010,37,14,107,21,265,94,35,66,39,1,2,2,72,2,276,19,47,65,43,249,202,67,191,26,27,3,42,6,79,17,374,35,399,54,4,171,217,4,1,4,175,258,25,165,101,159,3,4,35
+Intermediate Results Indicators	1284,583,845,892,1049,35,1891,349,949,2891,102,525,22,438,50,19,41,6,17,240,39,173,284,303,31,273,639,1010,37,14,107,21,265,94,35,66,39,1,2,2,72,2,276,19,47,65,43,249,202,67,191,26,27,3,42,6,79,17,374,35,399,54,4,171,217,4,1,4,175,258,25,165,101,159,3,4,35,171,26
 Intermediate Results Indicators Component	15411,1511,1903
 Intermediate Results Indicators Definition	15553
 Intermediate Results Indicators FY Indicator Name	11525
@@ -1194,9 +1214,14 @@ Irembo Reports Output Indicator	14935
 Ivoire Ghana Mali Sénégal Togo Indicateur	16626
 JEE Indicator R5.3	11417
 Job Description KPIs Key Performance Indicators	12917
+KEY AFP SURVEILLANCE PERFORMANCE INDICATORS	19544
+KEY AFP SURVEILLANCE PERFORMANCE INDICATORS Tanzania	19544
+KEY INDICATORS	19544
+KEY INDICATORS AND STATUS OF IMMUNIZATION	19544
 KEY INDICATORS ON UPTAKE OF ICTs	12251
-KEY PERFORMANCE INDICATORS	6100,8885
+KEY PERFORMANCE INDICATORS	6100,8885,4559
 KEY PERFORMANCE INDICATORS AND DATA COLLECTION	16041
+KEY PERFORMANCE INDICATORS AND TARGETS	19544
 KG Kindergarten KPI Key Performance Indicator	15604
 KPAVODE Ingrid DOCUMENT DES PRINCIPAUX INDICATEURS	16084
 KPI Key Performance Indicator	14916,2062
@@ -1224,10 +1249,11 @@ Key Fiscal Indicators	18851
 Key Health Indicators	10829
 Key Income Statement Indicators	17235
 Key Indicator	9772
-Key Indicators	12675,2260,1679,1248,892
+Key Indicators	12675,2260,1679,1248,892,788,2,69
 Key Indicators Data Collection Tools Frequency	16975
 Key Indicators Report Ethiopian Statistical Service	14067
 Key Indicators Report Federal Democratic Republic	14067
+Key Indicators Tanzania Mainland Tanzania Tanzania	19542
 Key Indicators and Results	17143
 Key Indicators for Measuring Information Society	2775
 Key Indicators. Addis Ababa and Rockville	14067
@@ -1241,7 +1267,7 @@ Key Performance Indicator MDAs Ministries	4126
 Key Performance Indicator MFSA Microfinance South	11198
 Key Performance Indicator Ministry	10157
 Key Performance Indicator OECD	16968
-Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68,40,123,301,29,48,632,306,795,32,1,48,30,25,63,49,115,455,192,1062,93,12,48,1175,31,227,32,4,599,72
+Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68,40,123,301,29,48,632,306,795,32,1,48,30,25,63,49,115,455,192,1062,93,12,48,1175,31,227,32,4,599,72,368
 Key Performance Indicators Implementation	10157
 Key Performance Indicators Improve	12359
 Key Performance Indicators LEC Liberia Electricity	17260
@@ -1276,6 +1302,7 @@ LOGIQUE D’INTERVENTION INDICATEURS SOURCE DE VERIFICATION	15722
 LRD Value USD Vol Indicator LRD	17235
 LST Indices Low	17157
 Labor Intensive Public Works Outcome Indicators	15601
+Labour Market Indicators	19519
 Lagging Indicators	4528,7984
 Le Programme Indicatif Multi-Annuel	643
 Leading Economic Indicators	2775
@@ -1324,6 +1351,8 @@ Main Indicators Report	14903
 Main Socio-economic Development Indictors And ICT	958
 Malaria Control Programme PI Performance Indicators	15556
 Malaria Indicator	970
+Malaria Indicator Survey	19519
+Malaria Indicator Surveys	19544
 Malaria Indicators Survey	16971
 Mali. Indicateur	17856
 Management Act PI Performance Indicator Acronym	5533
@@ -1377,7 +1406,7 @@ Multiple Health Indicators Survey INALUD	10776
 Multiple Indication Cluster Survey	14905
 Multiple Indicator	16863
 Multiple Indicator Cluster Sur	17869
-Multiple Indicator Cluster Survey	10829,1087,259,551,236,719,896,1084,149,626,560,853,336,452,647
+Multiple Indicator Cluster Survey	10829,1087,259,551,236,719,896,1084,149,626,560,853,336,452,647,171
 Multiple Indicator Cluster Survey MIP-1	12175
 Multiple Indicator Cluster Survey MNO Mobile	17105
 Multiple Indicator Cluster Survey Ministry of Primary	16436
@@ -1394,10 +1423,11 @@ Multiple Indicators Cluster Survey MMR	16951
 Multiple Indicators and Cluster Survey	15542
 Multiple Indicators and Health Survey	10765,10
 MÉTHODOLOGIES ET INDICATEURS	17945
-N INDICATOR	12453
+N INDICATOR	12453,7091
 N INDICATOR NATIONAL BASELINE TARGET	12453
 N INDICATOR NATIONAL TARGET BASELINE BASELINE	13345
 N INDICATOR NATIONAL TARGET CURRENT	13345
+N Indicator Category	19532
 N.º INDICADORES Angola	4044,7377
 NAIC Success Indicator ZCHPC	4528
 NAMIBIA'S INSTANT PAYMENT NAMIBIA AS INDICATED	12400
@@ -1431,8 +1461,10 @@ Niveau Description Actions Indicateurs Objectivement VériÞ	15848
 Niveau Indicateurs	11944
 No. Activities Implementation Indicator Implementation	17011
 No. Activities Indicator Implementation Timeframe	17011
+No. INDICATORS	19544
 No. Indicates the DS-3	15164
 No. Key Area Details Indices Targets	11857
+No. Key Selected Indicators End of HSSP	19544
 No. Output Indicator Baseline Annual Activities	12358
 No. PDO Indicator End Target	17849
 Nom de Publication Indicateurs Structure Indice	18077
@@ -1468,6 +1500,7 @@ Objectifs Indicateurs Responsables Sources de Coûts	17845
 Objectifs Résultats Indicateurs	17842
 Objective Activities Responsible Outputs Indicators	12356
 Objective Activities Responsible Outputs Indicators Entities	12356
+Objective Indicator PMT Proxy Means Test	19455
 Objectives and Results Indicators	11855
 Official Use Only Indicator Intervention	11469
 Official Use Only Indicator Name	17000,1792
@@ -1511,7 +1544,7 @@ PDO Indicator	3604,11820,1190,1235,905,491
 PDO Indicator Baseline	15511
 PDO Indicator Indicator	15601
 PDO Indicator Split	15601
-PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258,159,3,4,35
+PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258,159,3,4,35,197
 PDO Indicators Beneficiaries of SSN	11924
 PDO Indicators Definition	15553
 PDO Indicators Direct	13917
@@ -1545,6 +1578,7 @@ PDO-level Results Indicator	16922
 PDO-level and Intermediate Indicators	1228
 PERFORMANCE INDICATORS	3898,255
 PERFORMANCE INDICATORS AND TARGETS	5533,6453
+PERFORMANCE INDICATORS FOR THE DRM MONITORING	19520
 PERFORMANCE METRICS AND GOVERNANCE MATURITY INDICATORS	3861
 PEV Indicateurs	14622
 PFrogramme INDICATEUR TTAUX DE TRANSFORMATION LOCALE	15999
@@ -1597,7 +1631,7 @@ Performance Indicator Responsible Person REA	1988
 Performance Indicator Responsible Person Safety	1988
 Performance Indicator Responsible Person Soil	1988
 Performance Indicator Unit of Measure Data	12917
-Performance Indicators	11866,309,181,990,644,10,985,2154,96
+Performance Indicators	11866,309,181,990,644,10,985,2154,96,2284
 Performance Indicators Performance	12356
 Performance Indicators Project	15478
 Performance Indicators Selected	12175
@@ -1658,7 +1692,7 @@ Programme LIBELLE OBJECTF INDICATEUR	15999
 Programme Pluriannuel Indicatif	18095
 Progress Indicators	15901
 Project Development Indicators	11924
-Project Development Objective Indicators	1228,56
+Project Development Objective Indicators	1228,56,18171
 Project Development Objective Indicators PBC Baseline	13331
 Project Development Objective Indicators RESULT FRAME T BL	11855
 Project Development Objective Indicators RESULT FRAME TBL PD	10964,4589
@@ -1813,10 +1847,11 @@ République du Congo Indicateur Pourcentage	15724
 République du Congo Indicateurs	15724
 République du Congo. Indicateurs	15848
 Résultats Indicateurs	17842
-SADC Regional Indicative Strategic Development Plan	970,12517
+SADC Regional Indicative Strategic Development Plan	970,12517,6032
 SADC-RTGS Main Indicators	12252,584,311
 SADC-RTGS Settlement Statistics and Indicators	12252,584,311
-SDG Indicator	14935,995,3381
+SDG Indicator	14935,995,3381,244
+SDG Indicator Big	19555
 SDG Indicator Gaps	13359
 SECURITE SOCIALE INDICATEUR Proportion	15999
 SEP. Several Key Performance Indicators	16926
@@ -1912,6 +1947,7 @@ Stillbirth Indicators	10878
 Strategic Indicative Development Plan	13731
 Strategic Intervention Strategic Intervention Indicators Mid	11986
 Strategic Key Performance Indicators	11131,3
+Strategic Objectives Output Indicators Outcome	19520
 Strategic Objectives and Actions Indicators	1777
 Strategic Risk Indices	5141
 Strategy Expected Outcome Key Performance Indicators	7548
@@ -1929,6 +1965,8 @@ Success Indicators and Performance Metrics	6442
 Sugestões Metodológicas Indicadores de Avaliação	15564
 Suivi des Indicateurs ODD	19043
 Summary Indicator Table	18937
+Summary of Indicators	19544
+Summary of Key Indicators	19544
 Summary of Relative Contributions of Indicators	15244
 Summary of Relevant Core Indicators for FCL Qualification	17503
 Summary of Weights for Core and Non-Core Indices	2775
@@ -2117,4 +2155,5 @@ Year Value Indicator Name Regional	6928
 ZIMBABWE Multi-Annual Indicative Programme	970
 Zambia Indicator Unit	5247
 Zambia. PDO Level Indicators The PDO	13332
+Zanzibar Number Percentage Number Percentage Indicator	19542
 Zimbabwe National Indicative Programme	970

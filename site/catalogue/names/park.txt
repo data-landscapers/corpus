@@ -29,6 +29,7 @@ B. Park	11140
 BOMAYANGU PARKROAD HOMEOWNERS ASSOCIATION Data Processor	7167
 BRISTOL PARK HOSPITAL LIMITED Data Controller	7167
 BRISTOL PARK HOSPITAL LIMITED Data Processor	7167
+Bagamoyo and Kwala Industrial Park	19532
 Baird Parker	11269
 Bank-sponsored Cabo Verde Tech Park Phase	11863
 Bank’s Cabo Verde Technology Park Phase	11863
@@ -69,12 +70,13 @@ Daran Park	10764
 Data Park	11863
 Department of National Parks and Wildlife	13403
 Deputy Minister Parker	17233
+Development of ICT Technology Parks	19532
 Diaz and Cerim Wind Parks US	12399
 Digital Industrial Park	8973
 Digital Industrial Park and Learning Centre	8973,1335
 Digital Parks Africa	2539,33,8919,11
 Digital Technologies Park	808
-Digital Technology Park	808
+Digital Technology Park	808,18724
 Digital Technology Park Project	44
 Digital Technology Park Project African Development	44
 Disabled Parking	19090
@@ -106,6 +108,7 @@ Explorer Business Park	14564
 FMC F and Sapo National Park	17114
 Floor MGC Park	12652
 Gaborone International Finance Park P.O. Box	5241
+Gbpsi Industrial Park Tanzania	19532
 Ghana Kyongsig Park	9729
 Ghana's Agility Logistics Park Data Centre	8045
 Gola Forest National Park. Established	17114
@@ -131,8 +134,8 @@ IA A Declaração de Bletchley Park	2816
 IASP International Association of Science Parks	12786
 IASP International Association of Science Parks ICAO	2775
 ICT Park	14010,16
-ICT Parks	6015
-ICT Technology Parks	958
+ICT Parks	6015,13576
+ICT Technology Parks	958,18574
 III. STI Park Ecosystem	12786
 India Tiranga Park	18378
 India's Software Technology Parks	8206
@@ -154,6 +157,8 @@ Kempton Park	8597
 KenGen Green Energy Park	1245,394,82,1,5418
 KenGen Green Energy Park Olkaria	1721
 KenGen Smart Industrial Park	1245
+Kissama National Park	19622
+Kissama Park	19622
 Kitchen YES NO Parking	14778
 Kruger National Park	9691,1536
 Kruger Park	11227
@@ -167,6 +172,7 @@ Lucine Munkyung Park	16876,194
 Lynnwood Bridge Office Park	11198
 MENLO PARK PRETORIA	3161
 MGC Office Park Corner Pope John	10060
+MICIT Serengeti National Park	19532
 MW Regional Solar Park	17105
 MWp SCATEC Solar Park	18795
 MWp Santo Amaro Sul Solar Park	18795
@@ -188,6 +194,7 @@ Mindelo Technology Park	2860,5
 Minister Parks Tau	4242
 Minister of Trade and Industry Parks Tau	4242
 Minneapolis Park S	17773
+Mirerani International Mixed-Use Business Park and Tanzanite	19585
 Mole National Park	16511
 Mount Coffee Solar Park	6523
 Mount Pleasant Business Park Leghar Ethio	11563,6180
@@ -200,6 +207,7 @@ Mungo Park Memorial Obelisk	17105
 Munkyung Park	16144
 NCC Digital Industrial Park and NCC Learning	9117
 NCC Leases Digital Industrial Park	8973
+NPK Parking Management System	19584
 NYUNGWE National Park	718
 National Company of Parks	12819
 National Company of Science and Technology Parks	12786
@@ -223,6 +231,7 @@ Operationalization the Technology Park Infrastructure	11863
 PARKED	6580
 PARKING SAFETY MANAGEMENT	17006
 PPP-managed Park	11863
+PROJECT Development of ICT NAME Technology Parks	19532
 Parioli Office Park	11265
 Park Avenue	11372
 Park C	5242
@@ -267,7 +276,7 @@ Parking of Renganaden Seeneevassen Building	14738
 Parkinson	1988
 Parklands	6946
 Parklands Data Centre	11243
-Parks	17140
+Parks	17140,2444
 Parks Tau	11198
 Parktel	8161
 Peace Parks	411
@@ -317,7 +326,8 @@ Science and Technology Park	4561
 Science and Technology Parks National Corporation	12786
 Senegal Connect Park	18340
 Senegal Technology Park	11863
-Serengeti National Park	1132
+Serengeti National Park	1132,18400
+Serengeti National Park and Ngorongoro Crater	19519
 Sir Seewoosagur Ramgoolam Memorial Park	14267
 Smart Car Park Management Solution	14753
 Snake Parks	2775
@@ -332,6 +342,8 @@ Special Economic Zones and Industrial Parks	14947
 Statistics Mauritius National Parks and Conservation Service	11332
 Sénégal Connect Park	18319
 TO7 Technology Park	1969
+Tanzania National Parks	19584
+Tanzania National Parks Authority Level	19584
 Taï National Park and Cavally Classified Forest	17114
 Tech Park	2811,1388,7664,46,3775,278,29,228
 Tech Park Agency	11863
@@ -348,7 +360,7 @@ Technology Park Phase II	11863
 Technology Park SEDCO Small Enterprise Development	12970
 Technology Park Services	11863
 Technology Park. Brief	8166
-Technology Parks	8910,4385
+Technology Parks	8910,4385,6237
 Technology and Innovation Parks	12786
 Technology and Innovation Parks for Sustainable Development	12786
 Tema Integrated Industrial Parks Limited	16511

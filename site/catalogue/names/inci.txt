@@ -70,6 +70,7 @@ Cyber Security Incident Reporting Team	12364
 Cyber Security Incident Response Guide	12364
 Cyber Security Incident Response Team	11955,471,905
 Cyber Security Incidents CHAPTER VI OFFENCES	18675
+Cyber Security Incidents. Document Number	19533
 Cybersecurity Incident	4610
 Cybersecurity Incident Reporting	587
 Cybersecurity Incident Reporting Duty	587
@@ -111,6 +112,7 @@ FORMULÁRIO INCIDENTES	11413
 Faster Incident Response SOC	13532
 Finance CFI Computer Incident Response Team	12444
 Forensics Investigation Incident	9123
+Formal ICT Incident Management Procedure	19584
 Forum for Incident Response and Security Teams	5780
 Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714,2879,640,792
 GESTION DES INCIDENTS DE PAIEMENT	17833
@@ -126,6 +128,8 @@ Governmentwide Computer Incident Response Team	12453
 Growing Incidents of Foreign Malign Influence	6950
 Hour Cyber Incident Reporting for Telecom Operators	5308
 Human Immunodeficiency Virus IMS Incident Management	16971
+ICT Incident Management	19584
+ICT Security Incident Management	19513,63
 IMPOSITIONS AYANT UNE INCIDENCE SUR	16747
 INCIDENCE	16892
 INCIDENCE AND INTENSITY BY LOCALITIES	15244
@@ -158,13 +162,16 @@ IRPS Incidência Sobre	12018
 IV INCITER LA PARTICIPATION DU SECTEUR	16037
 IV. Inciter	17894
 Identification des Incidents	15472
+Ilemela MC Construction of Incinerator	19585
 Improved Incident Response Capabilities	5677
 Inadequate Incident Detection and Response Capabilities	5677
+Inadequate Monitoring of Incident Resolution Timelines	19584
 Inciativas	11569
 Incibadora InoDevGB	17036
 Incidam	11901
 Incide	12018
-Incidence	737,10680,1529,94,285,1919,480,1,120,56,427,1539,78,682,340,383
+Incidenc	19544
+Incidence	737,10680,1529,94,285,1919,480,1,120,56,427,1539,78,682,340,383,194
 Incidence Rate	10780
 Incidence Response	10721
 Incidence Response CIRMR-IRP.S3	10721
@@ -176,13 +183,13 @@ Incidence of Abortion	13040
 Incidence of HT	18963
 Incidence of Vaccine-Preventable Diseases	18627
 Incidences	1988,9998,960,567,2388
-Incident	1777,163,48,724,1175,723,522,1300,147,380,589,753,596,1824,115,1116,301,49,98,605,66,310,151,187,706,429,65,230,15,471,509,226,344,1119,63,779
+Incident	1777,163,48,724,1175,723,522,1300,147,380,589,753,596,1824,115,1116,301,49,98,605,66,310,151,187,706,429,65,230,15,471,509,226,344,1119,63,779,901,8
 Incident Coordination Determining	775
 Incident Database	9968
 Incident Handling	14759
 Incident Handling Report	10721
 Incident Involving Ethiopian Airlines Flight ET	16961
-Incident Management	9123,1598,2196
+Incident Management	9123,1598,2196,6667
 Incident Management Framework	5677
 Incident Management Framework CIRMR-IRP.S2	10721
 Incident Management Mechanisms	5677
@@ -205,6 +212,7 @@ Incident Reporting	1000,2651,3897,8664
 Incident Reporting Establish	1777
 Incident Reporting Forms Refer	775
 Incident Reporting Number	6936
+Incident Reporting System	19533
 Incident Reporting. Develop	1777
 Incident Reports Awareness	10721
 Incident Resolution Advising	775
@@ -233,6 +241,7 @@ Incident Response and System Recovery Mechanism	4610
 Incident Response and System Recovery Mechanism A	4610
 Incident Response the NCC	1777
 Incident Triage Investigating	775
+Incident and Problem Management	19575
 Incidental	962,11713,510
 Incidental Matters and Deregistration Part	3714
 Incidentally	3383,7909,692,4868
@@ -269,7 +278,8 @@ Incidência de Paludismo	18768
 Incidência- Taxas-Notas Taxa Doméstico	17100
 Incinerated	15206
 Incineration	19284
-Incinerator	18737
+Incinerator	18737,848
+Incinerator Coverage	19544
 Incinerators	1988
 Incinerators The Ministry	14746
 Incineração de Materiais Eleitorais	11561
@@ -288,6 +298,7 @@ Incivisme	10858,4684,298
 Incoterms. Incidental	13185
 Indicative Incident Environmental Social Occupational Health	17114
 Indústria Extrativa Incidência- Taxas-Notas Taxa Queima	17100
+Infrastructures Incinerator	19585
 Interim Lesotho National Computer Security Incident	8230
 Intermediaries FIRST Forum of Incident Response and Security	1264
 Intermediate Level Certified Incident Handler	15662
@@ -305,7 +316,7 @@ Lesotho Communications Sector Computer Security Incident	12759
 Lixo Incidência- Taxas-Notas	17100
 Location of Incident	17114
 Lubrificantes Incidência- Taxas-Notas Taxa Gasolina	17100
-MALARIA INCIDENCE	16892
+MALARIA INCIDENCE	16892,2652
 MALI Probabilité Incidence	18063
 MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO	18920,5
 MATTERS INCIDENTAL THERETO. ENACTED	18918
@@ -418,6 +429,7 @@ South Africa's National Computer Security Incident	8897
 South Sudan Computer Incident Response Team	18649,18
 Système de Remontée des Incidents Environnementaux	15936
 TABELA ACTUALIZADA DE CÓDIGOS DE INCIDÊNCIA	18845
+TB Incidence	19544
 THEREWITH OR INCIDENTAL THERETO	19059
 TRAITEMENTS DES INCIDENTS DE SECURITE	10906
 Task Incident Response Unit	1777
@@ -431,6 +443,7 @@ Togo Incitation	19221
 Transportation and Incidental Services	13185
 Tratamento de Incidentes Informáticos	10747,649
 Tratamento de Incidentes de Seguranca Cibernetica	570
+Trend of Malaria Incidence	19544
 Types of Incidents and Level of Support All	775
 Valor Base Incidência	12018
 Zambia Computer Incidence Response Team	13347

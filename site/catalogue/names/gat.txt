@@ -31,7 +31,7 @@ BHCPF Gateways	18162
 Background Global Gateway Forum The Global	11226
 Bank Indonesia. National Payment Gateway	11994
 Bill Gates	1038,223,907,648,840,1125,2785,31,4703,1969,3491
-Bill and Melinda Gates Foundation	562,476,786,1033,1582,6756,980,1948
+Bill and Melinda Gates Foundation	562,476,786,1033,1582,6756,980,1948,5432
 Bill&Melinda Gates Foundation	15581
 BoFiNet Entrusts P100M Internet Gateway Upgrade	2735
 Border Gateway Protocol	7246,7618,1681
@@ -52,6 +52,7 @@ Church of God Gatithini	7167
 Claver Gatete	8754
 Connectivity Channel Gateway Payment Originator Date	12364
 Corporate Appointments Tech Gateways HR	10068
+Council and Fountain Gate FC	19585
 Customs Exit Officers and Port Gate Officers	17367
 D4D Hub and Global Gateway. Benin	1779
 DRIVER'S ORIGIN GATE MUST	5240
@@ -91,8 +92,12 @@ EU-Nigeria Digital Package and Global Gateway Strategy	10573
 EU-Nigeria Global Gateway	14027
 EU’s Global Gateway	5099,3176,2317,3059,3780,1076
 EU’s Global Gateway. The AMSAF	18392
+East Africa Digital Gateway	19532
+East Africa's Digital Gateway	19532
 Economic Gateways	17260
+EdTech Hub and The Gates Foundation	19595
 Editorial Team The Satellite Gateway	5976
+Electronic Payment Gateway HBF Government of Tanzania	19585
 Elijah Gatchang	18665
 Energy Agency IGTVS International Gateway Traffic	718
 Engineer Thomas Gatkuoth	18642
@@ -122,6 +127,7 @@ Fiscal Device API Gateway Requirements Specifications	13606
 Fondation Gates	3099,1,15037,970
 Fondation Gates. Figure	14622
 Founder of Phoenix Analytics Ms. Susan Gatura	14555
+Fountain Gate FC	19585
 Fuel Fiscal Device Gateway API	13606
 GACUTI Nolasque NISHIMAGIZWE Florence GATAVU Eliane	13300
 GATEKEEPERS PART V	6520
@@ -204,7 +210,7 @@ Gates-funded	3853,1378
 Gates-funded DG	1368
 Gates-supported	16815
 GatesFoundation	9516
-Gateway	1215,46,26,1143,1844,2319,298,55,1512,3769,132,5,689,208,216,374,433,1763,838,365,586,649,267,469
+Gateway	1215,46,26,1143,1844,2319,298,55,1512,3769,132,5,689,208,216,374,433,1763,838,365,586,649,267,469,311
 Gateway Capital	1429
 Gateway D100	17250
 Gateway Decision Points	18557
@@ -230,7 +236,7 @@ Gateway. Employee	12359
 Gateways	3641,221,1832,7601,17,2,74
 Gathara D	10780
 Gathecha	10043
-Gather	110,789,9737,2039,857,1224,329,159,1452,347,56,15,252,1088,22,19
+Gather	110,789,9737,2039,857,1224,329,159,1452,347,56,15,252,1088,22,19,1080
 Gathered	16860
 Gathering	395,2708,9253,4619
 Gathii	11033
@@ -258,7 +264,7 @@ Gatundu South MP Kagombe	9940
 Gatwe	13683
 Gatwech Simon	18665
 General Art. XIV GATS	11154
-Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814,1113,40,253,82,169,109,543
+Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814,1113,40,253,82,169,109,543,94,116,44
 Global Gateway Africa-Europe Investment Package	11288
 Global Gateway Afrique-Europe	1189
 Global Gateway Communication	11155
@@ -285,11 +291,13 @@ Global Gateway. Overall	11226
 Global Gathering	12088
 Global Leaders Gather for India’s AI Summit	5044
 Gov SMS Gateway	5652,6960
+Government Electronic Payment Gateway	19533,51,1
 Government Electronic Payment Gateway ZamPortal and ZamPay	7191
 Government Enabling Services Payment Gateway BNR	12359
 Government Gateway	12359
 Government Payment Gateway	13346
 Government Payment Gateway. Stakeholders	13336
+Government SMS Gateway	19533
 Hon. Angeline Gata	11656
 I-Grow Gate World Limited	3862
 I. API Gateway	15161
@@ -346,6 +354,7 @@ MELINDA GATES FOUNDATION	16991
 MENA. Gates Foundation	290
 MESOB Bridge API Gateway	12215
 METHODS FOR GATHERING AND ASSESSING INFORMATION	16843
+MIGA ATIA Gateway	19532
 MIS and Payment Gateway	12335
 MPTF Gateway ID	14925
 MSME Digital Gateway	11032
@@ -377,6 +386,7 @@ NIYONAMBAZA Solange GATABAZI Olivier France NIYONGIRA	12445
 NPG National Payment Gateway CDF Congolese	11994
 National Call Center Mobile Gateway Enabalers	14965
 National Payment Gateway	1995,2771,7228,2038,2846
+National Payments Gateway	19532
 Network APIs Commercial Open Gateway APIs	6593
 Nicholas Gates	6468
 Number of Gateways	3862
@@ -393,11 +403,14 @@ Operator B2. International Gateway Operators Licence	17250
 PM Gati Shakti	19133
 POS Gateway	16878
 PRIMES Interoperability Gateway	12173,84
+PROJECT Regional Digital Gateway	19532
 PSF’s MSME Financing Gateway	14997
 PSPs. In the Payment Gateway	12335
 Pa-Peter Flomk of Iron Gate Community	17145
 Pay Strand PnP Cape Gate PnP	8999
-Payment Gateway	4609,1930,5796,24,558,535,3426
+Payment Gateway	4609,1930,5796,24,558,535,3426,2706
+Payment Gateway GePG Government of Tanzania Health	19584
+Payment Gateway HIDU High Dependency Unit	19544
 Payment Gateway Integration	12711
 Payment Gateway Operators	7909
 Payment Workﬂow Implementation Payments Gateways Integration	13395
@@ -420,9 +433,11 @@ RESTful. API Gateway	12419
 RURA BNR Notification Gateway RISA RISA	12359
 Record Gateway	4275
 Red Sea Internet Gateway URL	14159
+Regional Digital Gateway	19532
 Regional Payments Framework Gateway	745
 Reliance Foundation and Gates Foundation	9072
 Requirement Gathering	12917
+Requirement Gathering Standards	19575
 Requirements Gathering	12400,4668
 Rukomo Butaro Gatunda Karangazi Butaro Nyange	12413
 Rulindo Gatsibo Nyaruguru Gakenke Nyamasheke Burera	15056
@@ -451,6 +466,7 @@ Super Gateway	13295
 Supervisory Committee for Gateway Services	4654
 Sydney Gata	12501
 System Analysis and Requirements Gathering	13037
+Tanzania Revenue Gateway	19584
 Telecommunication Undersecretary Thomas Gatkuoth Nyak	3132
 Telecommunications Licence International Gateway Services	736
 Telecommunications Under-Secretary Engineer Thomas Gatkuoth	3728
@@ -470,6 +486,7 @@ UNICEF. Gates	7566
 USSD Gateways	18485
 Undersecretary Eng. Thomas Gatkuoth	18635
 Undersecretary for Telecommunications Thomas Gatkuoth Nyak	4299
+WORLD’S BIGGEST GATHERING OF YOUTH	19604
 Werda Gate	12933
 West Africa Digital Gateway The Lomé	19259
 World Bank Financial Support Gates Foundation	15844

@@ -40,18 +40,27 @@ AfricInvest Financial Sector Holding	177
 Africa ALHA Agricultural Land Holdings Account	11261
 Africa Data Centres Holdings Limited	462,133
 Africa Data Hub Holding	11331
+Africa Data Hub Holding Li	19622
 Africa Data Hub Holding Limited	10793,696,9
 Africa. In SCHUFA Holding AG	8747
 African Intellectual Property Right Holders	19067
 Africell Holding	83,208
 Africell Holding Limited	291,1260
 Agou Holding	813
-Agricultural Holdings	17043
+Agricultural Holdings	17043,2511
 Agricultural Land Holdings Account	11197
 Al Mansour Holding	12790
 Al Mansour Holding Maputo	12790
 Al Mansour Holding of Qatar	13410
 Ali Addeh and Holl Holl	13938
+All Holdings	19554
+All Holdings Groundnuts	19554
+All Holdings Mainland Tanzania	19554
+All Holdings Mainland Tanzania Zanzibar	19554
+All Holdings Sorghum	19554
+All Holdings Sweet	19554
+All Holdings Zanzibar	19554
+All Holdings Zanzibar Tanzania	19554
 Allison Holland	15029
 Amalgamated Telecom Holdings Kiribati	15471
 Angaza Holy Family Community	7167
@@ -63,6 +72,7 @@ Arena Holdings RFI1	13461
 Arena Holdings WS2	13461
 Arena Holdings and Mail	13461
 Arx Holdings Limited	4896
+Asilimia Sold Unprocessed Holdings Consumption Given	19554
 Authorization Holder	10407
 Availability of Online Platform for IP Holders	12389
 Axian Telecom Holding	2139,97
@@ -137,6 +147,7 @@ DPPI Hold	18532
 DR. ROOCHI HOLISTIC HEALTH Data Controller	7167
 DRC and Trident Digital Tech Holdings Ltd	2385
 DYMA HOLDINGS LTD Data Processor INST-186148CCF10	7167
+Data Holders	19555
 Debenture Holders’ Representative	14828,3
 Debt and Holdings	4620
 Declaration of Public Holiday	17216
@@ -287,9 +298,11 @@ Holder's Signature	13307
 Holders	1926,1426,362,3654,3039,710,968,132,3256,11,1359
 Holders of Category	11960
 Holders of Certificates of Registration	8831
-Holding	226,1913,819,3522,123,1640,880,1591,417,87,92,550,181,317,31,142,116,1787,589,388,62,1079,491,84,358,409
+Holding	226,1913,819,3522,123,1640,880,1591,417,87,92,550,181,317,31,142,116,1787,589,388,62,1079,491,84,358,409,1660,31
 Holding Account	10313
 Holding Back Ghana's Digital Economy	7606,1469
+Holding Category Mainland Tanzania	19554
+Holding Category Mainland Tanzania Area	19554
 Holding Companies Consolidated Income	12483
 Holding Company for Communications	4746
 Holding Equatorial Guinea	16942,30
@@ -314,7 +327,8 @@ Hole-in-the-Wall Learning Stations	16277
 Holiday	17025
 Holiday Inn Harare	11611
 Holiday Inn Hotel	3021
-Holili	14600
+Holili	14600,4992
+Holili Wilaya	19592
 Holistic	7548,1055,6319,843
 Holistic Approach	14889
 Holistic Approach and Vision	958
@@ -324,6 +338,7 @@ Holistically	7751,6991
 Holistik Analisis Nexus	8022
 Holl-Moni	15744
 Holla Tags Limited	3862
+Holland	19590
 Hollandaise	15395
 Hollard	1058
 Hollard Insurance	2151
@@ -428,6 +443,9 @@ Merger for U.S. Holders	7198
 Merit HoldCo	610,75
 Ministry of Information Holds Pre-Legislative Session	18508
 Misused of Diplomatic Pouch MOI Holds	17320
+Mkulazi Holding Company Level	19584
+Mkulazi Holding Company Limited	19584
+Mkulazi Holding Company Limited Flexcube	19584
 Mobile Telephone Networks Holdings Limited Loan	10793
 Mogadishu HOL	6788
 Mogadishu HOL Egyptian Troops	3637
@@ -476,6 +494,7 @@ PETROCI HOLDING	2342
 PROMASIDOR HOLDINGS Consumer	11885
 Paratus Group Holdings	16797
 Parent and Holdings	7198
+Pay for Inputs Seeds Processed Holdings Consumption	19554
 Percentage of Holdings	17043
 Percentage of Livestock Holdings Purchasing Feed	17043
 Percentage of Poultry Holdings Experiencing Animal Diseases	17043
@@ -488,6 +507,7 @@ Prime Minister Abdi Farah Shirdoon HOL	2743
 Principal Account Holders	15790
 Private Network Licence Holders	958
 Programme To Hold Its Maiden Regional	10909
+Projects Eurus Energy Holdings Corporation	19489
 Protectionism Will Hold Back Europe’s Innovation	6582
 Providing Holistic Care	10829
 Providing Holistic Support	10829
@@ -514,6 +534,8 @@ Resource Holder	3503
 Resource Holder Support	3503
 Resource Holders	3503
 Royal Bafokeng Holdings	1403,26
+Ruhuhu Holding Company Limited	19585
+Ruhuhu Holding Unqualified Compliant Compliant Company	19585
 Ruzizi III Holding Power Company Limited	3093
 SA HOLDING	17126
 SAGEA. Holler	6832
@@ -537,6 +559,7 @@ Sirius International Holding	4611
 Size and Spatial Distribution of Agricultural Holdings	17043
 Smartmatic International Holding BV-	11115
 Sofico Holdings. Cet	13284
+Sold Unprocessed Holdings Consumption Given	19554
 Somali HOL Somali	3463
 Somali Minnesotans HOL Eight	3610
 Somalia HOL	2743
@@ -555,6 +578,11 @@ TRANSACTIONS WITH EQUITY HOLDERS	11955
 TWY Holding	17006
 Tamela Holdings Proprietary Limited First Floor	10793
 Tamela Holdings Proprietary Limited Joint	10793
+Tanzania All Holdings	19554
+Tanzania Area Holding Category Total Area	19554
+Tanzania Crop Holding Category Production Cotton	19554
+Tanzania Holding Tanzania Mainland Tanzania Zanzibar	19554
+Tanzania Tanzania Mainland Tanzania Zanzibar Holding	19554
 Tax Policy Forum Holding	17011
 Teachers’ Diploma Primary Holistic Education Programme	14742
 Telecomm Holdings Limited	14674
@@ -571,7 +599,10 @@ Trident Digital Tech Holdings Ltd	2398,300,419,3218,3642,365
 Tyme Group Holdings	611
 Tyme Group Holdings PTE	611
 Tyme Group Holdings. Excluding F336101	611
+Type of Crop Holding Category Area Banana	19554
+Type of Crop Holding Category Area Tomatoes	19554
 UNITEL International Holdings	18754
+US Hold Talks	19622
 Universal Telecom's Bayan Jamali and Holiness Mosarwa	5295
 VAT Registration Threshold Holder of Pleasure Craft	14757
 VI. The Holes	7777
@@ -596,5 +627,6 @@ ZESA Holdings	12508,1177
 ZESCO Limited and KS Eco Solutions Holdings	13647
 Zambia Consolidated Copper Mines-Investment Holdings	13387
 Zambia Consolidated Copper MinesInvestments Holdings Plc	13387
+Zanzibar All Holdings	19554
 Zimbabwe FDH Financial Holdings	12252
 Zimbabwe’s MSME’s ZB Financial Holdings	6011,985

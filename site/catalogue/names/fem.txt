@@ -17,6 +17,7 @@ Activités Rémunératrices des Femmes	6827
 Age Female Male Sex Ratio	12151
 Age Group Male Female J S	18443
 Age Group of Police Officers Male Female	14760
+Age Groups Male Female	19542
 Age Male Female Total Kenya	12151
 Age Males Females	18441
 Agenda Femmes	18254
@@ -200,10 +201,11 @@ FEMNET	18286
 FEMTO-ST	3465
 FEMUA	3675,2330,9,9626
 FEMoUS	14124
+FGM Female Genital Mutilation GDP Gross	19531
 FemCode Africa	16942
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8,172,110,143,3,4,35
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8,172,110,143,3,4,35,258,15
 Female Across	12409
 Female Address	17099,15
 Female Agripreneurs	5923,191,295,107,247,33,469
@@ -216,7 +218,11 @@ Female Attorney-General and Minister Parliament Approves Dr	18442
 Female Basic Phone Smartphone Feature Phone	582
 Female Beneficiaries Ratio	15578
 Female Both Country Of Death	12151
+Female Both Male Female Sexes Sexes	19542
 Female Both Male Sexes Male Sexes	12151
+Female Both Rural Female Both Urban	19542
+Female Both Sexes	19542
+Female Both Sexes Male Female	19542
 Female Both Sexes N	12151
 Female Business Only Personal Only	582
 Female CLAS	17000
@@ -236,6 +242,8 @@ Female Financial Inclusion	12122
 Female Founder	4972
 Female Frequency Annual Data	15661
 Female Frequency Annual Project	15661
+Female GPI Both Male Female GPI	19542
+Female GPI Total Sexes Sexes Sexes	19542
 Female Genital Mutilation	9766,7185,1490,17
 Female Genital Mutilation FPOS	14857
 Female Genital Mutilation and Cutting	12188
@@ -256,6 +264,7 @@ Female Labour Force	14815
 Female Lawyers Association Gambia GAF	16951
 Female Lengthy	12328
 Female Liberia	16921
+Female Life Expectancy	19544
 Female Male	11581,832,2643,1846
 Female Male All Agriculture	10841
 Female Male All Working	10841
@@ -270,6 +279,7 @@ Female Male Regional	18441
 Female Male Senior Secondary	18441
 Female Male Total Agriculture	11581
 Female Male Total Guinea-Bissau	11581
+Female Male Total Literate Total Literate	19542
 Female Male Unknown Total Female Male	16935
 Female Male Workforce	14761
 Female NA NA	16260,988,4
@@ -281,6 +291,7 @@ Female No Level Completed	12431
 Female Number	10964
 Female Only	16144
 Female Only Founder	4972
+Female Percentage Under	19544
 Female Please	17099,15
 Female Population	9485,2910
 Female Prison Officers	14742
@@ -290,10 +301,19 @@ Female Quarterly MINTER Number	15845
 Female Replacing	12328
 Female Resolved	13332
 Female Selecting	5679
+Female Sexes Male Sexes Male Sexes	19542
 Female Social	17099
+Female Table	19542
 Female Takaful	15663
+Female Tanzania	19542
+Female Total Female Total Male Female	19542
+Female Total Male Female	19542
+Female Total Male Female Kaskazini Pemba	19542
+Female Total Male Female Songwe	19542
+Female Total Male Female Total Male	19542
 Female Total Percent Liberia	16921
 Female Unadjusted	12413
+Female Ward	19585
 Female Workers	17870
 Female and Male	8604
 Female-	3583
@@ -311,9 +331,11 @@ Female. Proportion	12383
 Female7	18490
 FemaleMale Age	15721
 FemaleMale Phone Number	15721
-Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152,472,1945,548,59,1308,2,1654,362,295
+Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152,472,1945,548,59,1308,2,1654,362,295,258,2
 Females Board Composition Summary Gender Distribution	11131
 Females Chair	17099
+Females ND	19544
+Females ND ND ND	19544
 Females102.7 Males Births	15056
 Female’s Life	15725
 Fembo	18154
@@ -445,6 +467,10 @@ Forum des Femmes Parlementaires de Centrafrique	15686
 Fund Female Education Excellence	5163
 GENDER-BASED VIOLENCE AND FEMICIDE	11986
 GNAGNA Femmes	10847
+GPI Both Male Female GPI	19542
+GPI Both Male Female GPI Sexes	19542
+GPI Both Male Female GPI Tanzania	19542
+GPI Both Sexes Male Female GPI	19542
 GRAND TOTAL Female	13025
 Gender Direct Female Total TKP	15663
 Gender Female	9129
@@ -456,6 +482,7 @@ Genre Femme	16249
 Ghana Female	11004
 Grande Cantagalo Masculino Feminino Total Masculino	18802
 Graphique Femme Homme	13300
+Group Both Sexes Male Female	19542
 HAUTS-BASSINS HOUET Femmes	10847
 HOMMES ET FEMMES Prévalence du VIH	13300
 HOMMES FEMMES MENAGE S	13390
@@ -568,7 +595,8 @@ Madam Femi	18582
 Main Economic Activity Male Female	12445
 Major Group Male Female Total Number	15056
 Male Country Of Birth Male Female	12151
-Male Female	6000,4980,975,196,258,1,3,18,14,650,1720,241,188,330,53,98,1151,45,14,300
+Male Dodoma Male Female	19557
+Male Female	6000,4980,975,196,258,1,3,18,14,650,1720,241,188,330,53,98,1151,45,14,300,2307
 Male Female All	12413
 Male Female Both Sexes	14815
 Male Female Both Sexes Applied	14815
@@ -582,6 +610,9 @@ Male Female Diploma	12431
 Male Female FINAL RESULTS	16921
 Male Female Figure	1154,10038,5684
 Male Female Formal Sector Industry	12445
+Male Female GPI Both Male	19542
+Male Female GPI Both Male Female	19542
+Male Female GPI Sexes	19542
 Male Female Male	418
 Male Female Male Female	10765
 Male Female Male Female Health	15056
@@ -592,10 +623,12 @@ Male Female Rank Cause	15056
 Male Female Recruitment	14760
 Male Female Rural Urban	12431
 Male Female Table	11192,7251
+Male Female Tanzania	19542
 Male Female Total Did	16950
 Male Female Total Literate	16950
-Male Female Total Male Female	11192,3704,2054
+Male Female Total Male Female	11192,3704,2054,2592,15
 Male Female Total Male Female Bomi	16935
+Male Female Total Male Female Tanzania	19542
 Male Female Total Manufacturing	236
 Male Female Total Manufacturing Electricity	12445
 Male Female Total Micro	12445
@@ -610,8 +643,11 @@ Male Female Western Cape	11192
 Male Female White Paper	11986
 Male Female Zambia Rural Urban	12431
 Male Headed Female Headed Figure	17127
+Male Literate Female Literate	19542
 Male Number Female	18309
+Male Total Male Female Total Female	19542
 Male and Female	12253
+Male and Female Council Hospital	19585
 Males Female Rank Cause	12413
 Males Females	18441
 Mali FEMAPH	17946
@@ -637,6 +673,7 @@ Menage Homm Femm Homm Femm Homm	13390
 Menage Homme Femme Homme Femme Homme	13390
 Menage Pro Co Homme Femme Homme	13390
 Milieu de Résidence. Répondants Hommes Femmes Zones	13390
+Mjini Magharibi Total Male Female	19542
 Mobile Phone Ownership National Male Female	12251
 Monitoring Femmes-Médias	18286
 Moyenne Femmes	13300
@@ -695,6 +732,9 @@ PARTICIPATION DES FEMMES ET DES HOMMES	13300
 PARTIR DE LA LISTE DES FEMMES	13300
 PASSORE Femmes	10847
 PBC Female	16079
+PHC Age Both Sexes Male Female	19542
+PHC Age Group Both Total Female	19542
+PHC. Region Both Sexes Male Female	19542
 PHC. Region Total Male Headed Female	18443
 PLATEAU CENTRAL GANZOURGOU Femmes	10847
 PME Femmes	13390
@@ -751,8 +791,10 @@ Représentantes des Femmes	13290
 Revise Females	16187
 River Gee Grand Kru Male Female	16921
 Rural Female	12399
+Rural Female Urban Female Total Sexes	19542
 Rural Hommes Femmes Guinée D'accord	16644
 Rural Total Homme Femme	13442
+Rural Urban Both Sexes Male Female	19542
 Rural Urban Male Total Female	12431
 Rural Urban Total Male Female	12431
 Région Femmes	10847
@@ -774,6 +816,7 @@ SUD-OUEST BOUGOURIBA Femmes	10847
 SYFEE L’Association des Femmes	10975
 Santé des Femmes	13442
 Selon ONU Femmes	13531
+Sex Females	19555
 Sex Femme	737
 Sex Liberia Male Female	16921
 Sex Male Female Total Marital	15574
@@ -800,6 +843,14 @@ Sex of Household Head Female-headed	15244
 Sex of Respondents Male Female	12978
 Sexe Femme	737
 Sexe Homme Femme Mixte Age Jeune	13390
+Sexes Male Female	19542
+Sexes Male Female Both Sexes Male	19542
+Sexes Male Female Figure	19542
+Sexes Male Female GER	19542
+Sexes Male Female GPI	19542
+Sexes Male Female Sexes Male Female	19542
+Sexes Male Female Teenagers	19542
+Sexes Male Female Total Total Literate	19542
 Sexo Masculino Feminino	10777
 Size Band Male Female Total Micro	12445
 Social Femme	17845
@@ -825,6 +876,10 @@ TOT Homm Femm S	13390
 TOUTES LES FEMMES	13300
 TUY Femmes	10847
 Tackle and Prevent Female Circumcision	18624
+Tanzania Female Both Sexes Tanzania Zanzibar	19542
+Tanzania Male Total Male Female	19542
+Tanzania Zanzibar Both Sexes Male Female	19542
+Tanzania Zanzibar Total Male Female	19542
 Taux Femmes-années	13300
 Temporary Permanent Outsourced Female Male Domestic	15136
 Temporary Permanent Outsourced Total Female Male	15136
@@ -841,6 +896,7 @@ Unité des Femmes	16039
 Unknown Total Female Male Unknown	16935
 Urbain Rural Hommes Femmes Guinée	16644
 Urbain Total Homme Femme	13442
+Urban Both Male Female Both Male	19542
 Urban Number Total Male Female Rural	12431
 Urban Rural Male Female Azerbaijan UMIC	16996
 Urban Rural Male Female HIGHLIGHTS	16921
@@ -870,4 +926,5 @@ ZIRO Femmes	10847
 ZONDOMA Femmes	10847
 ZOUNDWEOGO Femmes	10847
 Zambia Rural Urban Total Male Female	12431
+Zanzibar Group Both Male Female GPI	19542
 Zinder Niamey Ensemble Raison Homme Femme	18204

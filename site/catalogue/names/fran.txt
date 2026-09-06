@@ -64,7 +64,7 @@ Ambassade de France	1679,8348,3415,319,1,37,3745,1,779,38,626
 Ambassades France	16722
 Ambassadeur de France	1955,14771
 Ambassador of France	1229
-Ambassadrice de France	6514,11810,57
+Ambassadrice de France	6514,11810,57,1041
 Among Francophone Africa	12339
 Andrew Franky Jean Laurette of C	19049
 Angelo Donou Francis Tasha Venayen Harouna	16436
@@ -111,6 +111,7 @@ Budget Selection Franc CFA CFA	15372
 Burundi Franc	13312,2
 Burundi Francs	13452
 Burundian Franc DRM Domestic Resource Mobilization	1284
+Bw. Frank Kanyusi	19563,54
 C. Di Francescomarino	9237
 CCFA Franc BCEAO	11563
 CEO Max Francisco	2923
@@ -230,6 +231,7 @@ Emery Franck KOUMBA	16175
 Emmanuel Franck	15524
 Employment and Career Path Planning for France	8125
 En France	10532,960,3803,2587,409
+English Français Contact IGN FI Identity	19616
 English Français Español	17338
 English Français EspañolРусскийعربي无障碍关怀版	18756
 English Français Português Search	18147
@@ -255,7 +257,7 @@ European Union and France's Ministry for Europe	15866
 Even France	6825
 Examinations Council of Zambia Prof. Frank Tailoka	13477
 Excellency Mr Daniel Francisco Chapo	12640
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453,227,117,121,85,69,111,228,45,443,29,249,115,49,132,31,345,397,305,1,662
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453,227,117,121,85,69,111,228,45,443,29,249,115,49,132,31,345,397,305,1,662,488
 Expertise France Comores	3772
 Expertise France OS	16722
 Expertise France and CMM Oxford	1000
@@ -321,7 +323,7 @@ Franc Rwandais	15023
 Franca	18802
 Franca Environmental Specialist Yes Nadia Henriqueta	18809
 Francaise Internationale	18797
-France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,29,15,290,59,274,116,44,38,19,3,16,33,4,153,33,32,110,226,78,15,45,2,1,19,3,4,18,21,3,11,29,16,5,12,56,21,21,11,1,135,41,35,69,3,29,9,101,9,82,11,1,33,76,3,23,21,174,47,95,227,23,10,41,212,309,184,52,43,33,8,6,3,9,2,22,28,1,50,78,28,21,2,8,10,68,32,2,75,1,6,6,2,7,1,13,26,7,3,19,2,1,22,2,327,69,64,40,45,16,22,114,85,11,25,74
+France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,29,15,290,59,274,116,44,38,19,3,16,33,4,153,33,32,110,226,78,15,45,2,1,19,3,4,18,21,3,11,29,16,5,12,56,21,21,11,1,135,41,35,69,3,29,9,101,9,82,11,1,33,76,3,23,21,174,47,95,227,23,10,41,212,309,184,52,43,33,8,6,3,9,2,22,28,1,50,78,28,21,2,8,10,68,32,2,75,1,6,6,2,7,1,13,26,7,3,19,2,1,22,2,327,69,64,40,45,16,22,114,85,11,25,74,107,43,8,57,4,64,14
 France AI	17884
 France Afrique Média	18232
 France Arrondissement	15455
@@ -496,6 +498,7 @@ Francisco Elá Ngomo Nchama	6841
 Francisco Fortunato Pires. Promulgada	18749
 Francisco Gomes Wambar	17008
 Francisco Herman	15524
+Francisco Javier Puig Saura	19422
 Francisco José da Cruz	8630
 Francisco José da Cruz DR Luanda	8630
 Francisco Machado	16193
@@ -700,7 +703,7 @@ Franziska Jahn	1824
 Franzsen	8602
 Franzy KOUYA	16175
 França	2315,129,372,714,1862,13,152,15,247,5553,57,132,3819,314,1584,1501,17,6
-Français	1955,777,4210,2397,318,1309,799,278,1512,8,4,720,1,223,53,119,789,16,97,14,4,171,127,651,65,389,332,676,91,95,684,482
+Français	1955,777,4210,2397,318,1309,799,278,1512,8,4,720,1,223,53,119,789,16,97,14,4,171,127,651,65,389,332,676,91,95,684,482,13,143
 Français Ce	16309
 Français Contact Us Home About Us	13309
 Français DGHER	13377
@@ -708,6 +711,7 @@ Français Devise MGA	14683
 Français Home	13309
 Français Langue	18014
 Français Le Registre Social National	17904
+Français Periodicité	19409,61
 Français de Dévelopment AfDB African Development Bank	17105
 Français. Pour	1955
 Française	16249
@@ -910,6 +914,7 @@ M. Yann Franck KOUBDJE	15973
 MADALENA FRANCISCO ISSENGUELE	10751
 MAGANGA Jean François	16381
 MBA RENDJOGO Francklyn	16381
+MOF The France	19534
 MRCG National Coordinator Dr Francis Sowa	11634
 Madalena Francisco. Frustrated	8882
 Madame Francine INARUKUNDO	13552,36
@@ -1132,6 +1137,8 @@ Sénégal- France	18331
 TIENDREBEOGO François	737
 TRADUCTION FRAN	15360,34,16
 TRADUCTION FRANÇAISE	4658,10774,24,11,40,27,60,8,6,82,42,15,20,96,67,3,10,142,86,59,33,59,22
+TRADUCTION FRANÇAISE POUR INFORMATION	19447
+TRADUCTION FRANÇAISE POUR INFORMATION Sommaire Lois	19436
 Tax and Customs Administrations Expertise France	648
 Team France Export	13260
 Tech France and Senegal Strengthen Ties	2544

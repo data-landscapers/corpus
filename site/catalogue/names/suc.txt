@@ -1,5 +1,6 @@
 ADMINISTRATEUR REPRESENTANT LA SOCIETE SUCRIERE	8321
 AGER Realiza Com Sucesso	8487
+Academic Success	19532
 Act. Such Regulations	16833
 Additional Software Requirements Such	5665
 Africa Top Success	1591
@@ -39,6 +40,7 @@ Charging Entities. Such	15600
 Clerk of Parliament. Such	18436
 Collaborative Success Story Delivering	18526
 Collateral Registry. Such Users	13333
+Community Development Departments. Such	19585
 Compagnie Sucrière du Tchad	10841
 Compagnie sucri	10841
 Company. Such	4896
@@ -48,7 +50,7 @@ Constitution. Such	8866
 Constitutional Council. Succès Masra	10841
 Continent. Such	1814
 Core Internal Systems Every Successful	12493
-Critical Success	16884
+Critical Success	16884,2649
 Critical Success Factors	899,4347,5942,1729,557,3046,364
 Critical Success Factors and Challenges	14750
 Critical Success Factors and KPI’s Matrix	18485
@@ -119,6 +121,7 @@ Handover Success Rate	18444
 High Court. Such	13504
 Huawei Marine Networks Successfully Deliver Avassa	13711
 ICT Agency. Such	16885
+ICT. Success of ICT	19576
 ID. Such	4439
 IDPs. Such	14874
 IDs. Such	6512
@@ -169,6 +172,8 @@ Mr. Succeed Mubanga	13455
 Métrica de Sucesso	18788,157
 N BOUYGUES TRAVAUX PUBLICS SUCC BOUYGUES	16623
 N COLAS AFRIQUE SUCCURSALE COLAS AFRIQUE	16623
+N CRITICAL SUCCESS FACTORS REQUIREMENTS	19533
+N CRITICAL SUCCESS FACTORS REQUIREMENTS Government	19533
 N SCHNEIDER ELECTRIC GMBH SUCC SCHNEIDER	16623
 NAIC Success Indicator ZCHPC	4528
 NCA. Such	14883
@@ -272,7 +277,7 @@ Succeed	42,373,10549,5122
 Succeed Appendix	12921
 Succeed In Google Discover	13461
 Succeeding	16198
-Success	36,360,375,1053,718,958,136,80,434,292,86,16,46,446,456,741,168,385,393,41,117,259,135,20,187,52,23,279,378,6,161,5,307,6,106,459,39,723,740,493,275,369,85,68,508,338,1263,45,84,414,389,51,1444,116,988,335,28,17,353,413
+Success	36,360,375,1053,718,958,136,80,434,292,86,16,46,446,456,741,168,385,393,41,117,259,135,20,187,52,23,279,378,6,161,5,307,6,106,459,39,723,740,493,275,369,85,68,508,338,1263,45,84,414,389,51,1444,116,988,335,28,17,353,413,233,24
 Success Criteria	12400
 Success Factors	1777
 Success Factors Challenges Phased	13395
@@ -284,16 +289,19 @@ Success Indicators and Performance Metrics	6442
 Success Looks	12701
 Success Metrics and Coordination	4528,7984
 Success Metrics and Evaluation Framework	4528,7984
+Success Rate	19544
 Success Stories	15460
 Success Stories Explore	12495
+Success Story Grew Beyond Expectations	19538
 Success Story. African Development Bank	11909
 Success Story1	16922
 Successes	11909
-Successful	21,375,544,18,290,13,443,389,2339,103,599,542,146,915,362,449,288,699,47,88,308,151,625,234,205,629,184,22,168,13,21,675,89,341,41,24,570,125,529,54,507,436,102,29,206,7,32,76,56,1,242,146,86,320,616,332,44,59,21,15,103,253,379,700,83,2,26,18,72,240
+Successful	21,375,544,18,290,13,443,389,2339,103,599,542,146,915,362,449,288,699,47,88,308,151,625,234,205,629,184,22,168,13,21,675,89,341,41,24,570,125,529,54,507,436,102,29,206,7,32,76,56,1,242,146,86,320,616,332,44,59,21,15,103,253,379,700,83,2,26,18,72,240,634,21,13
 Successful AI	13656,1156
 Successful Adoption of Government Cloud	16924
 Successful Applicants	8582
 Successful Bidders	19025
+Successful Big Data	19555
 Successful CREWS Project Improves Meteorological Service	16698
 Successful Digital Transformation	18767,5
 Successful Energy Transformation	11936
@@ -364,6 +372,7 @@ Triggers of Success	8029
 UPS-D. Such	9123
 United Nations Development Programme. Such	8184
 Universal Service Funding. Such	14723
+University-Affiliated Hubs. Such	19555
 V SUCCURSALES	17356
 VE TICARET SUCC CONAKRY IL TEKNO	16623
 Validated Through Pilot Success	12432,252

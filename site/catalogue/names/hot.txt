@@ -17,6 +17,7 @@ African Princess Hotel	16889,188,174
 Afrin Hotel	12186
 Al Salam Rotana Hotel	8613,5581
 Alisa Hotel	5219,10761
+Allowance Hotels	19532
 Amadou Hott the Bank's Vice President for Power	14871
 Amaryllis Hotel	16789
 Anomaly Hotspots of Agricultural Production	16291
@@ -46,6 +47,7 @@ Cabo Verde Hotel and Tourism School	11855
 Capital Hotel	10049,3167
 Carrey Hotel	14358
 Carrier Hotel	8542,8260
+Census of Industrial Production and Hotel Statistics Survey	19557
 Chinhoyi University of Technology Hotel	1554
 City Hill Hotel	13689
 Climate and Poverty Hotspots	10763
@@ -63,6 +65,7 @@ DROUGHT VULN4ERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
 DROUGHT VULNERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
 Dallas Premiere Hotel Data Controller INST-9474530047C	7167
 Departments Achieved Presidential Hotline Members	11224
+Dodoma City Hotel	19585
 Dominic Edem Hotor	9232
 Doxa Court Hotel	17596
 D’UN HOTEL A LOULOUNI	17817
@@ -84,8 +87,10 @@ Five Star Hotel	12962
 Five Star Hotel Grey	12962
 Five Star Hotel Project Budget	12962
 Five Star Hotel Project The Five	12962
+Five- Star International Tourist Hotel	19585
 Flow Hotel	6174
 Font ResizerAa Hot News Business	9868
+Food Programme HOTUBA YA WAZIRI WA	19590
 Four Points By Sheraton Hotel	5371
 Gadileh Resort Hotel	4774
 Garden Court Hotel	13465
@@ -102,7 +107,8 @@ HOTEL ANDA CHINA Antenna	17006
 HOTEL BAMY Antenna	17006
 HOTEL RESTAURANT PETIT BATEAU	16623
 HOTL ICRC LMIC MLOp OCHA OCR	11156
-HOTUBA	6020,1
+HOTUBA	6020,1,13569
+HOTUBA YA WAZIRI WA MAMBO YA	19590
 HOTUBA YA WAZIRI WA MAWASILIANO NA	2868,3151
 HUB International Hotel	14082
 Happy Valley Hotel	12437,529,56,107,75,48
@@ -119,7 +125,7 @@ Hot FM and News Diggers	10216
 Hot-rolled	15027
 Hot-standby	14921
 HotPotatoes	15564
-Hotel	6927,505,413,3284,1833,91,1722,829,2937
+Hotel	6927,505,413,3284,1833,91,1722,829,2937,1061
 Hotel Africana	11759
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
 Hotel Anda China	7704,9518
@@ -136,6 +142,7 @@ Hotel Occupancy	2775
 Hotel Pestana	18810,36
 Hotel Sofitel Malabo	4209
 Hotel Sofitel Presidencial de Malabo Malabo	4209
+Hotel Statistics Survey	19557
 Hotel Tourism Statistics Section	12962
 Hotel Verde	10392
 Hotel and Casino	12989
@@ -168,8 +175,8 @@ Hotspot Mapping	17157
 Hotspot Operators Mao Warns DP Members	4608
 Hotspot Provider	17250
 Hotspot WiFi Avenida Digital-	17219
-Hotspots	10763
-Hotuba	2868,3151
+Hotspots	10763,8771
+Hotuba	2868,3151,13571,2
 Hotéis	11416,42,7299
 Hotêl Président de Yamoussoukro	2342
 Hunger Hotspots	3583
@@ -192,6 +199,7 @@ Kempinski Hotel Gold Coast City	17582
 Kigali Marriott Hotel	9760,35,517,2058
 Labadi Beach Hotel	5946,4761
 Lagos Sheraton Hotel	11129
+Lease Agreement for Dodoma City Hotel	19585
 Ledger Plazza Hotel	4327
 Leisure Lodge Hotel	18488
 Lieu Itsandra Beach Hotel	13799
@@ -216,6 +224,7 @@ Mountain View Hotel. Maziya	14258
 Mpilo Boutique Hotel	7898,633,9253
 Mövenpick Hotel and Residences. Looking	6946
 NCG Hotline	14760
+NYUMBA NA MAENDELEO YA MAKAZI HOTUBA	19592
 Nakuru Hotel	14523
 National Anti-Corruption Hotline	7936,3407
 National Anti-Corruption Hotline. Once	5533
@@ -299,3 +308,5 @@ W Flex Slot Platinum Hot Plug	12681
 Whistleblower Hotline. Report	13044
 Wholesale Retail Hotels	11874
 Wi-Fi Hotspots	1236
+Wizara. Hotuba	19592
+World Bank Tanzania Hotline	19586

@@ -42,6 +42,8 @@ Guy Romain	15744,356
 H.E. Romuald Wadagni	7452
 HIc Italy Europe Southern Europe Roma	10840
 Hall A Stella Maris Roman Catholic	13046
+Heights of Roman Africa Djemila	19622
+Heights of Roman Africa Perched	19622
 Helder Romano Vieira	4984
 Helder Romano Vieira. Safim	4984
 Hon. Georges Romain and Hon. Valdana Sultan	18981
@@ -115,7 +117,7 @@ Romain Didace	15615
 Romain Hubert	15615
 Romain Ravet	16087
 Romaine	15744
-Roman	3391,7738
+Roman	3391,7738,8493
 Roman Catholic Hall	13046
 Roman Dutch	12939
 Roman Proskalovich	11819,214
@@ -143,7 +145,14 @@ Romaric Ollo Hien	18147
 Romaric Sawadogo	2983
 Romaric YENDJI	16099
 Romario Arnat	12478
-Rombo	5783
+Rombo	5783,13809
+Rombo DC	19585
+Rombo DC Ambulance	19585
+Rombo DC DC	19585
+Rombo DC Primary	19585
+Rombo DC S	19585
+Rombo DC Secondary	19585
+Rombo Masekini	19585
 Rombur National Teachers Training Institute	18643
 Rome Business School. Elle	7496
 Rome G20 Declaration	11154
@@ -154,6 +163,7 @@ Rome and Geneva	10841
 Rome and Geneva. Technical Report	10841
 Rome. En	16323
 Rome. FSC	10841
+Rome. Faulkner	19555
 Rome. Rud	13624
 Rome. WFP	10841
 Romedenne M	1219

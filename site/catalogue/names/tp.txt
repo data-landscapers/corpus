@@ -5,6 +5,8 @@ Annualised TPV	7663
 Any TPD	6790
 Any U.S. TPDs	6790
 Aquisição de TPA	11438
+Authority ACT TPSF Vocational	19519
+Authority TPSF Tanzania Investment Center TRA	19534
 B TPC	736
 Bancário de TPA	11438
 Bassa TP	15542
@@ -18,6 +20,7 @@ Contrato de Aceitação TPA	11438
 Crédito TPA	17032
 DFS and TPC Mandatory No Pt	736
 Development of TPDI-based	13392
+Disburse Loans Outside TPLMIS	19585
 Douanier Automatisé TPE Terminal	17881
 EME IMF TPN TOTAL FinTech Bénin	4459
 GIZ and Swiss TPH	10970
@@ -29,9 +32,12 @@ Information TPE	17824
 J'invite le Pool TPV	6901
 Le Président du TPI de Yaoundé-Centre Administratif	15599
 Le TPIg	13300
+Loan Reports Reporting Inconsistencies Between TPLMIS	19585
 MHz Implants TPC	736
 MP Both Indoor and Outdoor DFS and TPC	736
 MPTIEIER TPIIE PA	15999
+Mawasiliano TPS	19517
+Mercantile Exchange TPA Tanzania Ports Authority	19584
 Ministry of Public Health TPF	16041
 Nombre de TPE	11944
 OI TI QO QE TP TG	16325
@@ -40,15 +46,21 @@ PF Nutritionnel CPN TPI MID CPoN	19226
 PME TPE Enquêtes	643
 Partnership The TPD	6790
 Pax Silica TPDs	6790
+Persons Management Information System TPA Tanzania	19590
+Polisi TPF	19517
+Ports Authority TPF Tanzania Police Force	19590
 Primary TPT	14896
+Program TPLMIS Ten Percent Loan Management	19585
 Purchaser TPIN and Invoice Number Format Errors	12420
 RENFORCEMENT DES CAPACITÉS Formation des TPME	18013
+Registration Insolvency and Trusteeship Agency TCRA TPA	19541
 Répartition des TPPE	17978
 SIB du TPN	10711
 SOSUCAM SOWEDA TDR TPE UE	15542
 SSN TPPE UNSDCF UPA UPSE VBG	17978
 SSS Single Source Selection TPI Court	17441
 SZL TPS USSD ZAR Digital Lilangeni	11130
+Salaam CC Discrepancies Between TPLMIS Loan	19585
 Secondary TPT	14896
 Services Agreement TPP Trans-Pacific Partnership UK	1243
 Sources TPRA CBS Calculations	14897
@@ -58,6 +70,7 @@ TMN TPD TPI U5MR VIH VS	15599
 TOR Terms of Reference TPTTP Taking Parliament	11197
 TP-HIMO	13442,198
 TP.1 Economic and Social Commission for Western Asia	13906
+TPA Penalty	19584
 TPA and Infrasat	778
 TPA. Houve	9501
 TPAD Capacity	899
@@ -67,6 +80,7 @@ TPC and DFS4	736
 TPD Rotary Kiln	16275
 TPD de Ngaoundéré. Jugement	15599
 TPD. None	6790
+TPDC Business	19519
 TPDI TESS	13392
 TPDI Training	13392
 TPDI-based	13378,14
@@ -96,6 +110,10 @@ TPIg1	13300
 TPIg2	13300
 TPIg3	13300
 TPIs and CdAs	17441
+TPLMIS	19585
+TPLMIS System	19585
+TPLMS	19585
+TPLMS Inconsistency of Loans Database	19585
 TPME Activités	19221
 TPME Extension	19221
 TPME P8 Augmentation	19221
@@ -111,8 +129,10 @@ TPRA Celebrates International Girls	14951
 TPRA Company Sudatel Canar Zain	14897
 TPRA Director Outputs	15282
 TPRA URL	14944,338
+TPRB Town Planners Registration Board TRC	19584
 TPRC49	1264
 TPS Taxe Professionnelle Synthétique TVA Taxe	10712
+TPSF The Kigali	19534
 TPT Apparition	13290
 TPT Teacher Proficiency Testing TSS Technical	14896
 TPU Taxe	19350

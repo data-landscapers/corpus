@@ -28,9 +28,9 @@ Baabi'in Waxaa	15153
 Baabi’in Sharcigan	15047
 Baacil Institute for Research and Development	15146
 Baacil Institute for Research and Development Keywords	15146
-Baada	7250
-Baadaye	7250
-Baadhi	7250
+Baada	7250,12267,18
+Baadaye	7250,12347
+Baadhi	7250,12267,73,2
 Baadjie	7759
 Baadytech	16628
 Baafi	7457
@@ -105,6 +105,7 @@ Habraaca Sharci-dejinta Baarlamaanka Qodobka	14859
 Haddii Baarlamaanka Federaalka	14859
 Haddii Baarlamaanku Federaalka	14859
 Kaabilo Baama	16951
+Mahakama. Baadhi	19517
 Mann Ki Baat	18016
 Margo Baars	18665
 Mr. Desmond Baateng	3833
@@ -112,6 +113,7 @@ Mr. Kwame Baafour Osei Akoto Senior	5680
 NC Francis Baard Northdale Hospital	11986
 NC Medi-Clinic Kimberley Frances Baard	11986
 Natiijada Baarista	15152
+Nyuma Baada	19517
 Prof. Antwi Baafi	9534
 Prof. Joseph Antwi Baafi	9534
 Provincial Minister of Finance Deidre Baartman	8564
@@ -122,7 +124,9 @@ Sarah Baartman	11343
 Sharci Baarlamaank Federaalku	14859
 Shirkadaha Baarista	15152
 Shuruudaha Xubinnimada Baarlamaanka Federaalka	14859
+Utangulizi Baada	19517
 Waaxda Baarista	15152
+Wakati Wa Kupiga Kura Na Baada	19517
 Xilgudashada Baarlamaanka Federaalka	14859
 Xilka Guddoomiyaha Baarlamaanka	14859
 Xilka Xubnaha Baarlamaanka Federaalka	14859

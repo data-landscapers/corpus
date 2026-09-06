@@ -100,11 +100,13 @@ Applications Conference	8604
 Appointment and Confirmation	3861
 Arab Civil Status Conference	10521
 Armed Conflict	10835,3,130,902,16,466,1,135,2254
+Armed Conflict International Non-Governmental Organizations	19520
 Armed Conflict Location	15715
 Armed Conflict Location and Event Data	16359
 Armed Conflict1	12353
 Art.36.- Conflits	14412
 Article V Confidentiality and Ownership of Documents	13031
+Arusha International Conference Centre	19584
 Audio and Video Conferencing Platform	14327
 Australasian Conference	5349
 Authority LNIC Liberia National Infrastructure Conference	17260
@@ -166,6 +168,7 @@ CHARGE DU CONFLIT HOMME-FAUNE Le Conseil	16099,76
 CHEFS D’ETAT CONFEDERATION DES ETATS	18032
 CHI Conference	4439,4021
 CIAN Confidencialidade	11555
+CIES Annual Conference	19595
 CIMA Conférence Interafricaine des Marchés	18931
 CMI TaxCapDev Conference	18318
 CNUCED Conférence des Nations Unies	15583,2298
@@ -318,12 +321,13 @@ Confemen PIET	18942
 Confer	7548
 Confere	12119,6634
 Conferen	6612
-Conference	325,246,583,942,1487,746,361,137,853,808,50,408,847,91,54,12,1117,170,668,153,85,692,3,130,166,1,5,16,40,14,75,575,10,16,367,99,1,135,438,116,11,424,196,487,91,16,180,274,53,34,183,39,448,126,111,10,401,151,530,120,24,189,17,103,385,61,603,135,245,16,226,54
+Conference	325,246,583,942,1487,746,361,137,853,808,50,408,847,91,54,12,1117,170,668,153,85,692,3,130,166,1,5,16,40,14,75,575,10,16,367,99,1,135,438,116,11,424,196,487,91,16,180,274,53,34,183,39,448,126,111,10,401,151,530,120,24,189,17,103,385,61,603,135,245,16,226,54,544
 Conference Agenda	17260
 Conference Center	16929
 Conference Committee	17260
 Conference Communiqué	17260
 Conference Hall Superstructure Construction	11134
+Conference Hall and Library	19585
 Conference Leadership	4528,7984
 Conference Page	13332
 Conference Preparatory Committee	6488,1074
@@ -435,7 +439,7 @@ Confiabilidad	1701
 Confiabilidade da Infraestrutura Banco	11898
 Confiamos	16969
 Confiance	6959,1378,548,164,1663,5000,2468,139
-Confiance Numérique	1247,2129
+Confiance Numérique	1247,2129,16030
 Confiance Numérique Capacité	16641
 Confiance Numérique Compétences	17860
 Confiance Numérique Compétences Numériques Gouvernance	17860
@@ -481,8 +485,9 @@ Confidential Secretary	14835
 Confidential Supported	9124
 Confidential Thank	4130
 Confidentialite	15584
-Confidentiality	11,225,725,258,419,1137,728,211,147,26,85,182,13,35,15,43,41,48,1003,313,1883,582,734,33,1653,429,199,778,229,117,36,21,41,135,108,252,12,52,13,65,5,55,88,125,644,270,191,19,15,270,8,1,2,2,11,81,38,5,13,39,136,25,22,24,23,1454,236,3,21,15,43,6,172,15,98,31,1197,103,53,79,7,211,32,267
+Confidentiality	11,225,725,258,419,1137,728,211,147,26,85,182,13,35,15,43,41,48,1003,313,1883,582,734,33,1653,429,199,778,229,117,36,21,41,135,108,252,12,52,13,65,5,55,88,125,644,270,191,19,15,270,8,1,2,2,11,81,38,5,13,39,136,25,22,24,23,1454,236,3,21,15,43,6,172,15,98,31,1197,103,53,79,7,211,32,267,317,1,3,14,9,22,55
 Confidentiality Access	17165,201,1159,42,3
+Confidentiality Act No	19527
 Confidentiality Citation	15024
 Confidentiality Confidential	17114
 Confidentiality Guidelines	18745
@@ -492,6 +497,7 @@ Confidentiality Obligations	18556
 Confidentiality PART III	12549
 Confidentiality Regulations	17191
 Confidentiality Security Transparency Transfer Accoutability	1243
+Confidentiality Statement	19613
 Confidentiality Status Details	17212
 Confidentiality The Consultants	13037
 Confidentiality The Permanent Secretary	14722
@@ -532,7 +538,7 @@ Config.R	16875
 Configs	10848
 Configurable	6985,6052,2117
 Configurar	10783
-Configuration	977,2863,4111,1286,1896,819,448,785,105,934,201,338,709,21,1430,1,978
+Configuration	977,2863,4111,1286,1896,819,448,785,105,934,201,338,709,21,1430,1,978,1682
 Configuration Certificate	18661
 Configuration Documentation	5665
 Configuration Files Overview	5665
@@ -556,6 +562,7 @@ Configurer Java	17871
 Configuring	11995
 Confira	18799
 Confirm	11002,274,601,109,171,145,883,1249,1680,753,375
+Confirm Cancel Open	19543
 Confirm Delete	11276
 Confirm Fully Operational Government Digital Agency	12214
 Confirm the Kenyan	12302
@@ -570,6 +577,8 @@ Confirmation	2342,326,3764,522,360,1796,88,1523,44,10,48,13,1032,116,201,26,331,
 Confirmation Hearing of LRA Commissioner General James	17258
 Confirmation and Approval of Records	12226
 Confirmation of Birth	11282
+Confirmation of Identity Tshs	19528
+Confirmation of Identity US	19528
 Confirmations	12972,448
 Confirmação	11582,5565
 Confirmação da Disponibilidade de Fundos	10755
@@ -643,7 +652,7 @@ Conflict-of-Interest Regulations	14195,447
 Conflict-phase	8201
 Conflict-related	3583,15100
 Conflict-sensitive	18531
-Conflicting	3714,733,8590,2127
+Conflicting	3714,733,8590,2127,4355
 Conflictos	16855
 Conflicts	4381,3167,2004,407,2031,243,127,411,540,1425,171,2457
 Conflicts of Interest	5349,5679,899,1454
@@ -659,7 +668,7 @@ Conflits	14488,1,1,537,881,91,329,419,1135,1338
 Confluent	4434
 Conform	14723
 Conform and Bear Distinctive Mark	18600
-Conformance	1009,174,4482,3444,2748
+Conformance	1009,174,4482,3444,2748,7718
 Conformance Assessment and Conformance Certification	1009
 Conformance and Testing	13250
 Conformation	12629
@@ -697,7 +706,7 @@ Conformité Visibilité Sécurité	14622
 Conformité Vérification	19189
 Conforms	5665
 ConformÈment	15394
-Conformément	17,291,427,50,213,187,2,1155,214,394,376,1037,57,1,262,1070,206,136,1809,89,894,4,396,55,632,397,450,55,99,969,65,34,1247,152,26,239,2,1,71,28,18,7,9,9,509,64,25,33,5,1,1,47,12,109,235,134,334,36,2,27,3,3,7,40,14,14,17,45,11,14,5,27,34,10,1,19,20,2,12,23,50,66,22,23,35,18,59,1,26,70,86,27,33,11,21,16,8,4,5,16,76,21,15,5,73,79,3,10,121,705,9,73,80,202,3,19,2,12,6,8,15,1,31,70,80,24,18,11,5,1,47,58,64,6,1,24,64,43,501,36,40,44,97,69,2,1,1,21,11,8,35
+Conformément	17,291,427,50,213,187,2,1155,214,394,376,1037,57,1,262,1070,206,136,1809,89,894,4,396,55,632,397,450,55,99,969,65,34,1247,152,26,239,2,1,71,28,18,7,9,9,509,64,25,33,5,1,1,47,12,109,235,134,334,36,2,27,3,3,7,40,14,14,17,45,11,14,5,27,34,10,1,19,20,2,12,23,50,66,22,23,35,18,59,1,26,70,86,27,33,11,21,16,8,4,5,16,76,21,15,5,73,79,3,10,121,705,9,73,80,202,3,19,2,12,6,8,15,1,31,70,80,24,18,11,5,1,47,58,64,6,1,24,64,43,501,36,40,44,97,69,2,1,1,21,11,8,35,93,86
 Conformérnent	15399
 Confort	14479,3354
 Confort Clients	14479
@@ -881,6 +890,7 @@ Demographic and Health Surveys World Conference	13300
 Denúncia CASO AFRICA GROWTH CORPORATION CONFERÊNCIA	10751
 Desempenho de Receitas Conforme	18853
 Development Conference	6946
+Development of Configurable	19533
 Dever de Confidencialidade	6462
 Digital Confidence Improve	14819
 Digital Economy Conference	7874
@@ -1023,7 +1033,7 @@ German Confederation of Raiffeisen Cooperatives	11134
 Gestion des Confidentiel N	15583
 Global AI Conferences	15713
 Global Africa Women's Sustainability Conference	13673
-Global Conference	6950,10339
+Global Conference	6950,10339,2266
 Global Data Festival and Kenya Space Conference	6729
 Global Digital Collaboration Conference	13080,15
 Global Digital Compact Conference	13095
@@ -1066,6 +1076,7 @@ Host Global ATI Conference	18442
 Host the National Infrastructure Conference	17260
 Human Resources for Health Conference	7321
 Human-Wildlife Conflict Relief Fund	13474
+Humphrey Alumni Conference	19529
 I Conferencia Económica Nacional. Estas	16898
 IAEA Conference	13477
 IAEA General Conference	718
@@ -1332,6 +1343,7 @@ National Water Conference	17157
 Nations Conference	10841,128,2073
 Network Conference	11135
 Network Confidentiality and Security	5677
+Network Device Configuration Management	19584
 NewSpace Africa Conference	15167
 Next Conference Centre	9146
 Nigeria Computer Society International Conference	8424
@@ -1513,6 +1525,7 @@ Regime de Confidencialidade	4147
 Region AFRICA Conflicts	18358
 Regional Conference	9660,637,6720,1
 Regional Education Conference	14251,3394
+Regional Thematic Conference	19519
 Regional Workers' Confederation	14044
 Registration Confirmation Receipt	10765
 Regular Conferences	17260
@@ -1677,6 +1690,7 @@ TIFIEE CONFORME	15999
 TOUTES MÉTHODES CONFONDUES PAR WILAYA	17843
 TRN Confirmation	11298
 Tanzania Annual ICT Conference	4714
+Tanzania Episcopal Conference TEHAMA Teknolojia	19590
 Tanzania's Conference of Financial Institutions	1644
 Tchad. Depuis la Conférence	11760
 TechLaw Conference	4897
@@ -1752,6 +1766,7 @@ Vote of Confidence Adding	2757
 WAVE Conformité WCAG	15936
 WB Tax Conference	18318
 WTO Ministerial Conference	5571,10663
+Web Conferencing	19533
 West African Conference	17011
 West African Postal Conference	10509
 Women Absence of Armed Conflict Absence of Forced	10759

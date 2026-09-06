@@ -51,7 +51,7 @@ CAPESA	16898
 CAPESA INEGE	16898
 CAPESA Informes	16898
 CAPESA Número	16898
-CAPEX	241,477,2769,117,258,288,41,462,1140,639,1691,1,1,305,1329,2098,98,88,726,562,1499,644,79,106,57,321,617,222,90,220,684,639,736
+CAPEX	241,477,2769,117,258,288,41,462,1140,639,1691,1,1,305,1329,2098,98,88,726,562,1499,644,79,106,57,321,617,222,90,220,684,639,736,201
 CAPEX AND OPEX	718
 CAPEX Capital	12911
 CAPEX Capital Expenditure CAR Central African	18931
@@ -113,7 +113,7 @@ Cape Town Division Library of Parliament	11237,21,28
 Cape Town Eskom	9769
 Cape Town Film Studio	14673
 Cape Town First	9759
-Cape Town Global Action Plan for Sustainable	18475
+Cape Town Global Action Plan for Sustainable	18475,1044
 Cape Town International Airport	8915,980
 Cape Town International Convention Centre	8564,191,2257,2556,2590
 Cape Town Internet Exchange	1820,7797
@@ -218,7 +218,7 @@ Capetonians	12072,2601
 Capetown	7774,1354
 Capetown and Johannesburg	12362
 Capeverdean Educational System	11939
-Capex	78,1,3095,1830,2747,372,285,377,2008,2140
+Capex	78,1,3095,1830,2747,372,285,377,2008,2140,6513
 Capex of R2.9	10793
 Capex of R3.1	10793
 Capex of R3.3	10793

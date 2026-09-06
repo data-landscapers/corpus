@@ -20,6 +20,8 @@ Annual Report. Washington	5700
 Anticipated Waste Generation	1988
 Application of Eminent Domain Principles. Washington	15473
 Arab Republic of Egypt. Washington	15725
+Ardhi Wasaidizi	19570,22
+Ardhi. Washirika	19592
 Article IV. Washington DC	16942
 Asbestos Hazardous Waste Material	1988
 Asbestos Waste	1988
@@ -41,7 +43,7 @@ Booker Washington Institute	17266,443
 Boost Growth and Job Creation. Washington	18809
 Boost Growth and Reduce Poverty. Washington	10841
 Bridging the Productivity Divide. Washington	14576
-Brooks Washington	7259
+Brooks Washington	7259,12351
 Brussels and Washington	6231
 Building Resilience of Communities WASHINGTON	14960
 Burundi Digital Economy Assessment. Washington	13312,2
@@ -102,6 +104,7 @@ Digital Economy. Washington	10977,4866,1,821,380,880
 Digital Finance and Financial Inclusion. Washington	7763
 Digital Transformation Case Study Washington	13847
 Digital Transformation Toolkit. Washington	12255
+Disposal of Solid Waste	19585
 Distribution List Waste	1988
 Djibouti FOR IMMEDIATE RELEASE Washington	13868
 Do About It. Washington	10985
@@ -142,6 +145,7 @@ Energy Corridor WASCAL West African Science	15769
 Energy Transportation Waste Management Safety	18476
 Energy for Economic Growth. Washington	16384
 Environment Housing Economy Energy Transportation Waste	18476
+Environment and Waste Management	19585
 Environmental and Pharmaceutical Waste Management	9855
 Environmental and Social Risk and Impacts of Hazardous Waste	1988
 Environmental and Social Risk and Impacts of Waste	1988
@@ -241,6 +245,7 @@ Jolly Joe Wasswa	8285
 Jolly Wasambo	11283,5088,1551
 KOKOU Assenam Wassirma SCH	19251
 Ka-qaybgalka Wasiirrada	14859
+Kabidhi Wasii Mkuu	19563,54
 Kenya Solar Waste Collective	12191
 L Street Northwest Washington	42
 L'intégration WASH	16722
@@ -301,10 +306,13 @@ PREVALENCE OF WASTING IN CHILDREN UNDER	16892
 PS4R Country Assessment Diagnostic Framework. Washington	10841
 Pass WASSCE for UNIV Despite	18461
 Peace and Security WASSCE West Africa Senior	18512
+Pedal Washer Machine	19565
 Period FY20-25. Washington	15983
 Physical Environment Waste Management	1988
 Place Washington	18433
 Poliomielite Inactivada The Washington Group	10777
+Polisi Wasaidizi	19590
+Polisi Wasaidizi Sura	19517
 Polokwane Regional Wastewater Treatment Programme	11248
 Pool WASSCE West African Senior School	16876
 Population Division WASH Water Sanitation and Hygiene	14896
@@ -353,9 +361,9 @@ Service Commission WASH Water	18460
 Shariah-based Washington DC	12297
 Shuruudaha Xubinnimada Golaha Wasiirrada	14859
 Sierra Leone Water Security and WASH Access	18498
-Solid Waste	17260
+Solid Waste	17260,2325
 Solid Waste Generation and Collection	2775
-Solid Waste Management	1988,15272,674,542
+Solid Waste Management	1988,15272,674,542,1109
 Solid Waste Management Division	14770
 Solid Waste Management High-level	5948
 Solid Waste Management and Climate Change	14267,475,4,24,4,19,37,17
@@ -410,6 +418,7 @@ Utility Regulatory Authority WMA Wastewater Management	14745
 VI.2 DISPOSAL OF WASTEWATER FROM HOUSEHOLDS	15574
 VOCTIM Vocational and Commercial Training Institute WASH	12970
 Vaccine-Preventable Disease WASH Water	17289
+WA WASHITIRI WA VIPINDI V	19591
 WASAARADDA ARRIMAHA GUDAHA	14930
 WASAC	718,8405,3280,42
 WASAC Water and Sanitation Corporation Limited EXECUTIVE	14947
@@ -435,7 +444,7 @@ WASH-FIT	17289
 WASH. Component	1778
 WASH. Following the World Bank's Environmental Health	1988
 WASHFIT	14622
-WASHINGTON	1579,447,1695,488,51,2807,785,1142,1719,1143,2236,511,39,1412,5,142,234,8,909,1,171,710,264,318,146,314
+WASHINGTON	1579,447,1695,488,51,2807,785,1142,1719,1143,2236,511,39,1412,5,142,234,8,909,1,171,710,264,318,146,314,311
 WASPAN	6296,1173,91,40,176,887
 WASSA	17819
 WASSCE	7171,5025,4656,24,561,1018,6,51,52,14
@@ -487,6 +496,7 @@ Wasaaraddiisa	14859
 Wasaaraddu	14906
 Wasaatadda Arrimaha Gudaha	15047
 Wasaatadda Waxbatashada	15047
+Wasaidizi	19517
 Wasaradda Garsoorka	15047
 Waseem	7790
 Waseem Shahzad	15251
@@ -495,10 +505,10 @@ Wash Basin	14738
 Wash-	14932,4305
 Washable	1988
 Washili	4386
-Washing	1210
+Washing	1210,18375
 Washing Machine	12383
 Washing-	19237
-Washington	969,292,3,315,141,108,330,126,1,189,107,167,38,3,4,153,45,260,190,15,26,4,118,49,129,371,1,10,3,93,6,69,5,86,13,8,170,52,5,60,301,9,40,57,7,14,1,2,48,3,8,18,15,45,64,74,110,142,8,16,57,35,35,20,37,101,40,109,33,48,35,90,64,162,208,107,32,9,236,24,11,221,154,4,67,95,107,491,131,16,15,182,10,86,74,29,13,17,94,10,2,581,37,14,75,5,93,206,30,20,355,1,1,154,3,111,1,4,45,2,3,7,5,5,27,29,122,1,12,1,8,12,17,76,43,1,2,4,9,7,115,39,107,128,7,2,18,168,134,5,2,28,3,6,6,264,39,28,42,31,18,188,7,42,76,141,38,102,8,92,250,10,12,2,12,5,1,99,193,117,127,113,36,413,218,38,88,3,120,15,20,74,23,109,286,15,8,26,1,6,11,2,18,7,35,51,17,37,1,2,2,52,10,1,25,1,118,5,41,121,96,11,31,26,95,265,65,250,26,20,20,7,6,41,114,99,26,2,20,69,13,66,98,21,33,12,126,107,60,7,1,26,10,3,81,73,41,174,23,17,21,71,97,113,82,77,30,14,28,36,27,17,283,23,2,6
+Washington	969,292,3,315,141,108,330,126,1,189,107,167,38,3,4,153,45,260,190,15,26,4,118,49,129,371,1,10,3,93,6,69,5,86,13,8,170,52,5,60,301,9,40,57,7,14,1,2,48,3,8,18,15,45,64,74,110,142,8,16,57,35,35,20,37,101,40,109,33,48,35,90,64,162,208,107,32,9,236,24,11,221,154,4,67,95,107,491,131,16,15,182,10,86,74,29,13,17,94,10,2,581,37,14,75,5,93,206,30,20,355,1,1,154,3,111,1,4,45,2,3,7,5,5,27,29,122,1,12,1,8,12,17,76,43,1,2,4,9,7,115,39,107,128,7,2,18,168,134,5,2,28,3,6,6,264,39,28,42,31,18,188,7,42,76,141,38,102,8,92,250,10,12,2,12,5,1,99,193,117,127,113,36,413,218,38,88,3,120,15,20,74,23,109,286,15,8,26,1,6,11,2,18,7,35,51,17,37,1,2,2,52,10,1,25,1,118,5,41,121,96,11,31,26,95,265,65,250,26,20,20,7,6,41,114,99,26,2,20,69,13,66,98,21,33,12,126,107,60,7,1,26,10,3,81,73,41,174,23,17,21,71,97,113,82,77,30,14,28,36,27,17,283,23,2,6,342
 Washington Charles Tembo	4365
 Washington College of Law	9632
 Washington D.C	1722,1876,4254,4379,3193,69,888,245,473,15,301
@@ -516,6 +526,7 @@ Washington Panel	19284
 Washington Post	18777
 Washington Published	10445
 Washington Quarterly	4676
+Washington Riadh Ammari	19424
 Washington Une	8755
 Washington and Abidjan	7344
 Washington and African	4961,589
@@ -540,8 +551,11 @@ Washington. Translating U.S. AI	6790
 Washingtons	11692
 Washington’s America First Global Health Strategy	10602
 Washinton	18077
-Washirika	2868,194,2957
+Washirika	2868,194,2957,13573
 Washitse	13300
+Washtakiwa	19517
+Wasichana	19565
+Wasifu Pango la Ardhi Sanduku La Maoni	19570
 Wasiir	14859
 Wasiir Dawlaha	14859
 Wasiir Dawlo	14859
@@ -580,7 +594,7 @@ Wassim AlJuneidi	10764
 Wassimagnon	10944
 Wassu Gambia Kafo	10314
 Wassu Stone Circle	17105
-Waste	1988,4844,89,25,4317,600,328,62,664,468,1361,201,80,179,205,250,1213,225,15,43,952,261,875
+Waste	1988,4844,89,25,4317,600,328,62,664,468,1361,201,80,179,205,250,1213,225,15,43,952,261,875,310,30
 Waste Audit	1988
 Waste Best Practice Manual	2989
 Waste Best Practice Procedure Manual Sign	2989
@@ -606,7 +620,7 @@ Waste Management Ministry of Local Annual	17260
 Waste Management Plan	1988,15126
 Waste Management Regulations	12191
 Waste Management The Government of Zimbabwe	13295
-Waste Management and Circular Economy	14818
+Waste Management and Circular Economy	14818,4716
 Waste Management and Circular Economy Livestock	14818
 Waste Management and Circular Economy Uncontrolled	14818
 Waste Management and Green Economy	12253
@@ -646,6 +660,7 @@ Waswahili	10313
 Water Sector Wastewater Sector Board Mauritius	14745
 Water Waste	15206
 Water and Wastewater Sector	14745
+Wathamini Wasaidizi	19592
 Wave One. Washington DC	12297
 West and Central Africa. Wash-	16942
 Will Washington	10444

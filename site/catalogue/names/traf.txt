@@ -183,6 +183,7 @@ Market Share of International Mobile Voice Traffic	15136
 Market Share of International SMS Traffic	15136
 Market Share of National SMS Traffic	15136
 Market Share of National SMS Traffic- Q4	15136
+Mawasiliano TIPMIS Trafficking	19590
 Message Service Traffic	2775
 Message Services Traffic	2775
 Metre Gauge Railway Traffic	2775
@@ -301,13 +302,14 @@ Registration Road Traffic	12151
 Regulatory Fees Our Telecommunications Traffic Monitoring	15120
 Reported Road Traffic Accidents	2775
 Reported Road Traffic Accidents and Persons Killed	2775
-Road Traffic	1988,5857,4306,2116,507,65,6,2921
+Road Traffic	1988,5857,4306,2116,507,65,6,2921,1819
 Road Traffic Accident	12151
-Road Traffic Accidents	12151,802
-Road Traffic Act	7845,320,5238,864,486,75,3
+Road Traffic Accidents	12151,802,6591
+Road Traffic Act	7845,320,5238,864,486,75,3,4771
 Road Traffic Diarrhea Accidents	12151
 Road Traffic Directorate	13122
 Road Traffic Infringement Agency	7755
+Road Traffic Regulations	19602
 Road Traffic Rules	13387
 Road Traffic Safety Services Directorate	13060
 Road Traffic Sepsis	12151
@@ -428,17 +430,19 @@ Trafficking Data	1243
 Trafficking Drug Trafficking Cyber Espionage Economic	18675
 Trafficking In Persons	12373
 Traffrika	15830
-Trafic	9781,3543,90,86,86,1907,214,2116,12,31,1472
-Trafic Data	17866
+Trafic	9781,3543,90,86,86,1907,214,2116,12,31,1472,102
+Trafic Data	17866,1574
+Trafic Fixe National	19440
 Trafic International Entrant	11597
 Trafic International Entrant Volumétrie	17866
+Trafic Mobile National	19440
 Trafic Off	17866
 Trafic SMS	13324,2383,2159
 Trafic SMS Off Net International D’un	15707
 Trafic SMS Troisième	13586
 Trafic SMS Volume	15707
 Trafic SR	17866
-Trafic Voix	15707
+Trafic Voix	15707,3733
 Trafic Voix Volume	15707
 Trafics	13414
 Transit Traffic	2775

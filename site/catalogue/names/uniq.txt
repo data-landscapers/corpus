@@ -106,6 +106,7 @@ Identifiant Patient Unique LIMS Laboratory Information	13306
 Identifiant Social Unique	10544
 Identifiant Unique	10978,4440
 Identifiant Unique National	18238
+Identifiant Unique de Santé	19492
 Identifiant Unique du Citoyen	10812
 Identifiant Unique du Foncier de Côte	10937
 Identifiant Unique du Patient	15936
@@ -257,7 +258,7 @@ Unique Participation File	4620
 Unique Partnership KOAFEC	16784
 Unique Person ID	11270
 Unique Personal Identification Number	1958,1856,10647
-Unique Personal Identifier	1354,391,2,700,478,2374,975,4542,1335,14,135,23,83,1275,797,25,138
+Unique Personal Identifier	1354,391,2,700,478,2374,975,4542,1335,14,135,23,83,1275,797,25,138,4918
 Unique Personal Identifiers	12138
 Unique Policy Areas Informing	16884
 Unique Registry	11133

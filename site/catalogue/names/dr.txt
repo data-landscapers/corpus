@@ -63,6 +63,7 @@ Adverse Drug Reaction	9855
 Adverse Drug Reactions	14037
 Adverse The DRC	11994
 Advocacy for Domestic Drivers of Growth	10
+Advocate DRM	19520
 Affairs Draft Home Affairs Home Affairs	11986
 Affairs Home Affairs Bill Draft Home	11986
 Affairs Preface Drawing	16927
@@ -71,6 +72,7 @@ Affordability Drivers Index Alt-net	18485
 Africa DRC Chad Cameroon Kenya Angola	15372
 Africa Dreieckskooperation	1423
 Africa Film Drama Arts	10481
+Africa Regional DRR Strategy	19520
 Africa The DRC	10228
 Africa's Drylands URL	18197
 Africa. Drawing	7117,708
@@ -126,6 +128,11 @@ Association Malienne des Droits	17829
 Association. Drawn	13385
 Associations de Défense des Droits	18101
 Assurances de Droit National Africaines	11944
+Attending Drop Completed Never	19542
+Attending Drop Out Complete Never Attend	19542
+Attending Drop Out Completed Never	19542
+Attending Drop Out Completed Never Attended	19542
+Attending Dropout Completion Never Attended School	19542
 Authority of HIS EXCELLENCY JOHN DRAMANI	7695
 Automated Driver License and Vehicle Registration	17142
 Automated Driver License and Vehicle Registration System	17142
@@ -141,6 +148,9 @@ B Droits	15901
 B New DRC Sports Field Open	13046
 B- Driving D- Sibling D	582
 B. Driving Digital Inclusion	16975
+BCP and DRP	19584
+BCP and DRP. Insufficient	19584
+BCP and DRP. Non-compliance	19584
 BSS38. The DRC	13388
 BaaS and DRaaS	13169
 Back Calculate Capital Drag	12882
@@ -319,6 +329,7 @@ Congo DRC	1828
 Congo Droit	14210
 Congo Launches National Drive for Secure Digital	3313
 Congo and DRC	6373,9180
+Congo- DRC	19592
 Connectivity Drive	7251
 Conseil National Des Droits De L'Homme	8891
 Conseil National des Droits	15467,381,88
@@ -431,6 +442,7 @@ DITION DES JOURNÉES DU DROIT	3675
 DLEAG Drug Law Enforcement Agency	17105
 DNP DRH INSTAT	17946
 DONNANT DROIT AUX TARIFS PRÉFÉRENTIELS DANS	19256
+DPs DRR	19520
 DR&publication	2096
 DR-INSD	10874,5087
 DR-TB Drug Resistant Tuberculosis EPI Expanded	12729
@@ -780,17 +792,24 @@ DRIVING INNOVATION AND PRIVATE SECTOR GROWTH	14752
 DRIVING INNOVATION AND SUPPORTING THE FINTECH	15023
 DRK Foundation	4972
 DRLSO	10975
+DRM DRR	19520
+DRM Disaster Risk Management DU Delivery	19455
 DRM Domestic Revenue Mobilization	14929
 DRM Domestic Revenue Mobilization E&S Environmental	15661
 DRM Domestic Revenue Mobilization ODA Official	18851
 DRM High Council and Permanent Secretariat	18198
 DRM Project Data	12208
 DRM Strategy	17011
+DRM TWG	19520
 DRM Training Course	15031
 DRM and CCA	10348
 DRM and HRM	15090
 DRM and PPDA Strategies	12176
+DRM and Research	19520
 DRM. Agriculture Sector	17011
+DRM. Among	19520
+DRM. DRM	19520
+DRM. Despite	19520
 DRMIS	12241,839,15
 DRMIS Dashboard	13080
 DRMIS Dashboard Development of Malawi Election Monitoring	12241
@@ -868,6 +887,8 @@ DROITS ET TAXES SE PAIENT EXCLUSIVEMENT	15970
 DROITS HUMAINS	15439
 DROITS HUMAINS ET DE LA PROMOTION	15455
 DROITS INTELLECTUELS	16747
+DROMAS	19584
+DROMAS Deep Sea Fishing Authority DSFA	19584
 DRONE ET AUTRES VEHICULES AERIENS	17982
 DRONES CIVILS	18003
 DRONO	10975
@@ -926,6 +947,7 @@ DRPSIAP-KAYES	17978
 DRPSIAP-Ménaka	17978
 DRPSIAP. Conformément	17842
 DRR Banque DGI	11934
+DRR DRR	19520
 DRR and DRM	12977
 DRS Directions	19216
 DRS Electronic Deeds Registration System ESTA	11261
@@ -1041,6 +1063,7 @@ Decadal Index of Drought Stress	17157
 Declare Drought Levels	17157
 Defensive Driving	6946
 Deferred Drawdown	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778,2323
+Demand DRC Democratic Republic of Congo EAC	19590
 Demand Driver Recommendations	18485
 Demand Drivers	11857
 Demand Drivers D1	11857
@@ -1058,6 +1081,7 @@ Description Supports the DRC	1771
 Design and Plan the Decree Drafting Program	19214
 Despite the DRC	11918
 Develop DRM Enabling Tax Policies and Legal	17011
+Develop DRR	19520
 Develop the Nimba Dry Port	17260
 Developed Draft National Artificial Intelligence Policy	11230
 Developed the Draft National Artificial Intelligence	11230
@@ -1093,6 +1117,7 @@ Direction des Ressources Humaines DRS	19226
 Directional Drilling	11405
 Director General DRDLR Department of Rural Development	11224
 Director for Priority Crime Investigation DRDLR Department	11188
+Disaster Management Framework DRM Disaster Management	19520
 Disaster Recovery DRP Disaster Recovery Plan	6432
 Disbursement Linked Indicator DREEC	18370
 Discours du Ministre des Droits	13442
@@ -1177,6 +1202,7 @@ Draft Data Management Policy	14198,268,4
 Draft Data Protection And Right	18508
 Draft Data Protection Bill	512,455,194,11307
 Draft Data Protection Regulations	7364
+Draft Death Notification Module	19541
 Draft Digital Agriculture Strategy	13083
 Draft Digital Economy and Innovation Development Fund	8364
 Draft Digital Services Bill	4252
@@ -1363,7 +1389,7 @@ Drainage	1988,354,14558,143,114
 Drainage Network Map	17157
 Drainage Systems	13385,3772
 Drained	1988
-Drains	14746
+Drains	14746,4839
 Drains Infrastructure Construction Ltd	7845
 Drains and Remedial Works	14738
 Drainworks	14830
@@ -1408,7 +1434,7 @@ Drawing Rights SEA Sexual Exploitation and Abuse	1264
 Drawing Rights SLAPIS Sirba River Basin	18198
 Drawing Rights Sexual Exploitation	1228
 Drawing Up Detailed Plans	15388
-Drawings	12253,932
+Drawings	12253,932,6400
 Drawn	5237,7139
 Draws	2024,4784
 Draâ El Mizan	15467
@@ -1446,7 +1472,7 @@ Dreyer NA	10780
 Drezner	7731
 Drible	9620
 Drible Tour	9620
-Dried	11269,2031,1436,291,1873
+Dried	11269,2031,1436,291,1873,2702
 Dried Blood Spot	16922
 Driefontein	1009
 Dries	12521
@@ -1467,6 +1493,7 @@ Drinking Water Project	2667
 Drinking Water Purification Stations	15578
 Drinking Water Sanitation Cooking Fuel School	15244
 Drinking Water Sources	15247
+Drinks Heritage Music Business Economy Finance	19572,17
 Drip Irrigation Subsidy Program Broadcast	17157
 Driscoll	12006
 Driss Belfadla	8891
@@ -1488,7 +1515,7 @@ Drissa TOGOLA Vice-président	17819
 Drissa TRAORE	18003
 Drissa TRAORE Police Kadiatou FOFANA Secrétaire	17819
 Drissa Youssouf KONE	18032
-Drive	767,596,2498,1672,96,2866,504,1522,254,354,108,64,677,8,9,215,146,88,172,679,1428,29,66,147,32,3532
+Drive	767,596,2498,1672,96,2866,504,1522,254,354,108,64,677,8,9,215,146,88,172,679,1428,29,66,147,32,3532,1042
 Drive Agricultural Transformation Bong County	17306
 Drive Agricultural Transformation URL	17306
 Drive Big Tech Data Protection Accountability	9817
@@ -1633,6 +1660,7 @@ Driving the Investment Cloud	6791
 Driving the Next Phase of Digital Government	14525
 Driving-digital-transformation-of-the-economy-in-Malawi.pdf	14674
 Driving... Germany Arrests Genocide Suspect	4942,664,283,454,183
+Drodivisional Secretary	19525
 Drogas	10750
 Drogba Jaurès	6810
 Drogues	19250,41
@@ -1641,7 +1669,7 @@ Droii	15429
 Droiis	15429
 Droil	15429
 Droils	15429
-Droit	1231,3336,5049,1196,24,40,2449,68,49,82,186,15,687,241,208,32,469,20,12,32,3,38,7,14,8,51,22,16,14,36,35,4,2,39,186,32,3,7,22,3,31,48,183,65,68,83,169,26,10,96,693,379,12,30,18,93,147,146,67,68,2,1,814,33,41,75
+Droit	1231,3336,5049,1196,24,40,2449,68,49,82,186,15,687,241,208,32,469,20,12,32,3,38,7,14,8,51,22,16,14,36,35,4,2,39,186,32,3,7,22,3,31,48,183,65,68,83,169,26,10,96,693,379,12,30,18,93,147,146,67,68,2,1,814,33,41,75,25
 Droit Afrique	17942
 Droit Afrique-France	3121
 Droit Articles	16328
@@ -1710,19 +1738,22 @@ Drones US Navy	9629
 Drones and Geospatial Mapping	7016
 Drop Call Rate	18444
 Drop Charges Against Jobarteh	17069
+Drop Drop Total Total Attending Drop	19542
 Drop Multiplexer AWI Asset Wealth Index	12006
+Drop Out	19542
+Drop Out Drop Out Completed	19542
 Drop-In-Centre	14742
 Drop-in-Centre	14742
-Drop-out	13332,3618
+Drop-out	13332,3618,2592
 Drop-out Completed Never	16921
 Drop-out Rates Access	18512
 DropByDrop	6746
 DropByDrop Water Systems	6746
 Dropbox	7147,1976,1598,4791,3714
-Dropout	6832,5343,24,1111,1612,739
+Dropout	6832,5343,24,1111,1612,739,3881
 Dropout Rate	12199
 Dropout Rates	12411,988
-Dropped	536,3639,3292,3312,638,1014,2243,989,369,47,881
+Dropped	536,3639,3292,3312,638,1014,2243,989,369,47,881,2582
 Dropped Completion Measurement	17470
 Dropped Completion Measurement Strengthen	17470
 Dropped Out	11180,5741
@@ -1731,7 +1762,7 @@ Dropped. Page	16032
 Dropping	10284
 Drossos Consultant Washington	11525
 Droti B	14666
-Drought	5947,4816,373,1052,194,1,118,593,913,436,1215,1499,100,1388,79,180
+Drought	5947,4816,373,1052,194,1,118,593,913,436,1215,1499,100,1388,79,180,616
 Drought Alert	17157
 Drought Characterization and Monitoring	17157
 Drought Class	17157
@@ -1802,7 +1833,7 @@ Drought-induced	17157
 Drought-stressed	17157
 Drought. USAID. Page	15658
 Drought.gov	17157
-Droughts	3604,7159,654,1194,720,3565,26,235,1136,8
+Droughts	3604,7159,654,1194,720,3565,26,235,1136,8,1219
 Droughts Detecting Drought Events Reported	10763
 Droughts. Retrieved	10763
 Droughts’ Probability and Historical Impact Risk Index	18301
@@ -1817,6 +1848,7 @@ Drug Administration	4202,15,1135
 Drug Authority FRW Rwandan Francs FY	14985
 Drug Cases	14760
 Drug Control Act	17105
+Drug Control and Enforcement Authority Level	19584
 Drug Demand Reduction	14742
 Drug Destruction Le8 Per Kilo	18541
 Drug Enforcement Agency	3887,8679
@@ -1840,6 +1872,7 @@ Drug and HIV. This Council	14742
 Drug-Type Weight	14760
 Drugi	10780
 Drugs	9213,5529,2363,1436
+Drugs Control Authority	19519
 Drugs Lab	17105
 Drugs Medicines	12976
 Drugs Revolving Fund	16971
@@ -1856,7 +1889,7 @@ Drury P	1261
 Dry Bean Grand Bassa Context Roads	17140
 Dry Bulk Import Volumes	17909
 Dry Middleveld	12977
-Dry Port	15492,1768
+Dry Port	15492,1768,2325
 Dry Ports	6422,6496
 Dry Season	14745
 Dry-land Agricultural Research. Technical	18220
@@ -1930,6 +1963,7 @@ Equatorial Guinea Driver Area Impact Primary	16996
 Equatorial Guinea. DREAMS HUB Research and Innovation	16942
 Escaping Capability Traps Through Problem Driven	11006
 Establish Drought Early Warning System	17157
+Established DRM Centre	19520
 Eswatini Driver's License	12404
 Etat de Droit	18310
 Etat de Droit Pluraliste	18310
@@ -1977,6 +2011,7 @@ First Drawdown	15399
 First National Cyber Drill	12625
 FirstBank DRC	3849,437,7674
 Five Foundational Enablers Driving the AI Readiness	2957
+Flood and Drought	19520
 Flood and Drought Risk FY17	17962
 Food and Drinks Consumed	17127,38,1405
 Food and Drug Quality Control Laboratory	16922
@@ -1997,6 +2032,7 @@ French Development Agency. DRC	6073
 Frogfoot and Vox. Masimong Group Holdings and Draper	14366
 Fund CSC Civil Service Commission DREAMS	12970
 Funding Drought Continues West Africa	12221
+Funds Allocated for Drugs and Medical Supplies Diverted	19585
 Fédération Internationale des Droits	15848
 GA208 Drissa	17841
 GB SAS Drives	9475
@@ -2091,6 +2127,7 @@ IDMP Integrated Drought Management Plan IOM	17157
 IGAD Executive Secretary Dr.Workeneh Gebeyehu	14434
 IGITAL IDENTITY DRIVERS DON’T Regulatory	1939
 II NATIONAL STRATEGY FOR DROUGHT MANAGEMENT	17157
+II. Droit	19400
 III NATIONAL STRATEGY FOR DROUGHT MANAGEMENT	17157
 ILF Drawdown Default TTC	12364
 ILFDD ILF Drawdown Default TTC	12364
@@ -2121,6 +2158,7 @@ Implement the Integrated Drought Management Strategy	17157
 Implementation Unit Results-Based Financing Special Drawing	4653
 Improve Passenger Experience and Simplify Driver Work	3907
 Improve the Overall Governance Framework for DRM	17011
+Improved DRM	19520
 Increasing DRM	15924
 Independence Drive	12214,839
 India and DRC	16237
@@ -2135,6 +2173,7 @@ Informatique DIVISION DES DRONES Chef de Division	17899
 Infrastructure Development Agriculture Drone Spray	13474
 Infrastructures DRH-SSDS PTF Activité	17845
 Initial Draft Posted	12058
+Inject Drugs RCCE Risk Communication and Community	19544
 Installing Household Drinking Water Connections Achieving	15578
 Institut National des Droits	16641
 Institut Supérieur des Techniques Licence Droit Privé	17829
@@ -2145,6 +2184,7 @@ Integrated Drought Management Plan	17157
 Integrated Drought Management Plan The IDMP	17157
 Integrated Drought Management Plans	17157
 Integrated Drought Management Programme	17157
+Integrating DRR	19520
 Integration DOA Digital Object Architecture DRC	718
 Intelligence for Driving Transformation and Creating	6948
 International Computer Driver's License	14010
@@ -2177,6 +2217,7 @@ Jozef Drgona	7065
 Juan Edjang Ndong Lead Driver Abiba	17101
 Jul-2021 Dropped Completion Measurement The Ministry	17505
 KEY DRIVERS OF USAGE OF FINANCIAL	940
+KWA NCHI YA DRC KUKABILI	19561
 Kabaya Muringa Minazi Muyongwe Rutare DRC	12413
 Kadoma Draft	4528,7984,1031
 Kanda DRHA	17841
@@ -2191,6 +2232,7 @@ Key Drivers	16861
 Key Drivers of Multidimensional Poverty Across States	15244
 Korean Ministry of Food and Drug Safety. Guidelines	3651
 Krijn Driessen	9561
+Kusini Pemba Region. Dropout	19542
 Kwacha-US Dollar Exchange Rate During Droughts	12376
 L Droits	15999
 L ORE SEARCH DRILLING GUINEE SARL	16623
@@ -2199,6 +2241,8 @@ L214 Droits	15999
 LA JUSTICE ET DES DROITS	18227
 LA JUSTICE ET DES DROITS HUMAINS	15676,266
 LDA Land Drainage Authority LEO Low	14828,3
+LGAs DRM	19520
+LGAs of DRR	19520
 LIBELLE DE LA RECETTE Droits	15999
 LIMITES DU DROIT DE CONTROLE Article	15999
 LISTE DES PRODUITS SOUMIS AUX DROITS	15999
@@ -2273,6 +2317,8 @@ M. Drissa KONE LCL AA NIOUMANTA	17841
 M. Mohamed Elamine Dridi	15602
 MAJOR RISKS TO the DRMS IMPLEMENTATION	17011
 MARKET DRIVEN INVESTMENT	5245
+MDAs DRM	19520
+MDAs DRR	19520
 METE DIREC DREEC	18370
 METHODS AND APPROACHES DEVELOPING THE DRMS	17011
 MINTTICS. Draft	2411
@@ -2310,8 +2356,9 @@ Market Driven	13320
 Market Driven Investment The Commission	5245
 Martins Drift	5250,7348,20,10
 Masimong Group Holdings and Draper Gain International	10735
-Mass Drug Administration	10776
+Mass Drug Administration	10776,8768
 Mass Drug Administration MESCTI	10776
+Mass Drug Administration MOI Muhimbili Orthopaedic	19544
 Mass Drug Administration MPDSR Maternal and Perinatal	12729
 Master Droit	15674
 Matérielles DRH Direction des Resssources Humaines EiE	15541
@@ -2431,6 +2478,7 @@ National Strategy for Drought Management and Mitigation	17157
 Nationale des Droits	10826,2955,4041
 Neither the DRPP Scheme Rulebook	9516
 NetOne Takes Clean-Up Drive Nationwide	8639
+Never Attended. Dropout Rate	19542
 News Infrastructures Dondo Dry Port	5407,676
 Next-Generation Drought Index	18301
 Niger DRM and Urban Development Project	18198
@@ -2492,11 +2540,13 @@ PAYMENT INFRASTRUCTURE The DRC	11960
 PEDRO VERONA RO DRIGUES PIRES Assinada	15359
 PEDRO VERONA RO DRIGUES PIRES Referendado	15358,1
 PEDRO VERONA RO DRIGUES PIRES. Referendado	15359
+PERFORMANCE INDICATORS FOR THE DRM MONITORING	19520
 PERSONNEL ET EXCEPTIONS A CES DROITS	16617
 PILLAR III EMBRACE DRE FOR AFFORDABLE	18537
 PLANNING PURPOSE AND PROCESS Drought	17157
 PMU Drilling	1988
 POLITICAL ECONOMY The DRC	11960
+POPULATION AFFECTED BY DROUGHT UNDER PRESENT	19520
 PORTANT FIXATION DES TAUX DES DROITS	7470
 PPP Strategic Partnership for Smart Driving Licences	11789
 PRESIDENT DROUPADI MURMU Posted	12568
@@ -2537,6 +2587,7 @@ Pilier III DRE	18967
 Plan for DRMS	17011
 Planning and Economic Development Dr.Acen	4217
 Planning and Housing DRM Focal Points Ministry	18198
+Policy DRR Development Partners DRRFPs Disaster	19520
 Policy Operation DRP Commercial Direction	19239
 Policy Pathways and Priority Initiatives Drawing	4848
 Posts Draft Budget and Related Policies	11251
@@ -2642,6 +2693,7 @@ Replaced Dropped	16032
 Replacement of Definitive Driving License	12333
 Reports the DRC	5093
 Republic. The Draft Law	15102
+Research DRM. for DRM	19520
 Reserve Bank Special Drawing Rights Small	11134
 Resilience How FDA's Draft Guidance Shapes	3279
 Results DRA	12214
@@ -2651,8 +2703,10 @@ Reviews the DRC's PPP	3367
 Revised White Draft Citizenship	11986
 Revised Zero Draft	11135
 Rise Driving	5913
+Risk Management DRRM Disaster Risk Reduction	19520
 Risk and Resilience Assessment Special Drawing Rights	16436
 Route Dragage	18796
+Rural Drop Out Completed Urban Attending	19542
 Rwanda Draft Data Protection Law	12333
 Rwanda Draft Protection Law	12333
 Rwanda Food and Drug Authority	718
@@ -2713,15 +2767,18 @@ Sanitation Drinking	15244
 Sanitation Project Health Drainage Links Home	15578
 Santé DRFMT	15475
 Santé DRPSIAP	17842
+Satelite Survey and Drone Mapping	19592
 Satellite PMU and Drainage	1988
 Saúde Primários. DRS Direção Regional de Saúde	11543
 School B DRC School Project	13046
 School Drive	12977
 School Drive REGION NUMBER OF CHILDREN	12977
+School Dropout Rate for Persons Aged	19542
 Second Draft	14466,4
 Second Draft IMT Roadmap	7824
 Second Draft National Radio Frequency Plan	11259,3
 Second Draft and Secretariat	962
+Sector DRM	19520
 Sedecal Dragon	12678
 Sensitivity. Adaptative Capacity Drought	17157
 Serious Drought	1988
@@ -2808,7 +2865,7 @@ TYPE DE SERVICE FRAIS DROITS D’ETUDE	17899
 Tabling of Home Affairs Bill Draft Home	11986
 Tanzania DRC Uganda Burundi Muhanga Kirehe	15056
 Tanzania and DRC	14445
-Tanzania. Drawing	17751
+Tanzania. Drawing	17751,1804
 Task Teams Driving the Pilot The MzansiXchange	11222
 Tax ICDL International Computer Driving CMM	14897
 Tech and DreamDevs	8001
@@ -2865,6 +2922,8 @@ Uber Drivers	8436
 Uganda's National Drug Authority	4217
 Underdeveloped Distribution Brain Drain	14997
 Underlying Drivers	16885
+Understanding the Problem of School Dropouts	19565
+Undisposed Expired Medical Drugs TZS	19585
 Unit DCP Drought Contingency Plan DEM	17157
 United Nations Climate Change Conference DRE	11572
 United Nations SUGGESTED APPROACH TO DRAFTING	3161
@@ -2920,7 +2979,7 @@ What's Driving the Spread of DPI	12227
 Widespread Weakness Driven	13532
 Wilson Drive	4896
 Windhoek DRE Distributed Renewable Energy ECB	12399
-Wingu Drive	14100
+Wingu Drive	14100,5460
 Wingu Drive and Wingu Security	5629
 Within the DRC	12006
 Women Centre A DRC Women Centre	13046
@@ -2936,3 +2995,4 @@ XXXII. NUMERIQUE LIBELLE DES DROITS	15584
 Youth Empowerment Programme Against Drugs	14742
 ZESA Launches Drone Pilot Training Programme	3003
 ZS Draft	13705
+Zanzibar Food and Drug Agency	19519

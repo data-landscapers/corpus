@@ -97,8 +97,10 @@ FTTx Fibre	15493,2961
 FiBure	14479
 Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164,1432,117,415,583,13,269,143,979,230,1465,51,257
 Fiber And Transmission Network	14151
+Fiber Backbone	19532
 Fiber Backbone Deployment	1264
 Fiber Backbone Energy Efficiency Improvements	1264
+Fiber Backbone and Access Network Expansion	19529
 Fiber Breakdowns	12945
 Fiber Cable	18485
 Fiber Channel	11209
@@ -138,7 +140,7 @@ Fiber-channel HBA	17334
 Fiber-optic	3604,13371
 Fiber-to-Home	15905
 Fiber-to-the Home	15136
-Fiber-to-the-Home	7110,6108,1918,769
+Fiber-to-the-Home	7110,6108,1918,769,3627
 Fiber-to-the-Room	6317
 Fiber-to-the-home	5909
 FiberCo and TowerCo	2673
@@ -168,7 +170,7 @@ Fibra	3179,8217,122,1,12,3836
 Fibra Empresarial	18830
 Fibrage	19221
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987,302,55,107,43,202,83,170,90,69,178,497,159,314,259,819,407,191,2,68,649
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987,302,55,107,43,202,83,170,90,69,178,497,159,314,259,819,407,191,2,68,649,336,161
 Fibre Backhaul	15081
 Fibre Backhaul Sharing	15081
 Fibre Broadband	5112,13994
@@ -262,6 +264,7 @@ Government of Sierra Leone Fiber Cable Assets	18485
 Guinea and Sierra Leone Link National Fibre	3089
 HNN Fibre	18105
 HPE Fibre Channel Storage Specialist	17334
+High National ICT Fiber Backbone	19532
 Home FttO Fibre	2775
 Horizon Fiber	3788,1104,6,20,1,56,2713,2895,3332,6,3,227
 Horizon Fiber Initiative	4918,17,5648,3332,6,230,944

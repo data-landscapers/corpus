@@ -76,7 +76,7 @@ Doseline Kiguru	12227
 Doses	11401,3359
 Doshi	2518
 Dossa AMOUSSOU	19310
-Dossier	766,1035,318,2223,1411,3958,467,643,55,99,957,1443,92,57,247,383,334,1,1,47,85,826,94,13,116,41,173,51,386,116,143,166,561,153,24,15,25,9,348,20,192,24,129,50,35,38,741
+Dossier	766,1035,318,2223,1411,3958,467,643,55,99,957,1443,92,57,247,383,334,1,1,47,85,826,94,13,116,41,173,51,386,116,143,166,561,153,24,15,25,9,348,20,192,24,129,50,35,38,741,330
 Dossier ASHFAR Il	15670
 Dossier ASHFAR POWER SARL	15670
 Dossier Administratif	15614
@@ -87,6 +87,7 @@ Dossier Fiscal	15614
 Dossier Médical	15936,259,2920
 Dossier Médical Electronique	16195
 Dossier Médical Electronique Implémentation	16195
+Dossier Médical Informatisé	19407,96
 Dossier Médical Personnel	18105
 Dossier N	14488,1,1
 Dossier Patient	15936,2361
@@ -140,6 +141,7 @@ JJ Dossen Hospital	17289
 Jornal Dossier	12844
 Kolwezi. Dossier	15670
 LANCES TAUX D'ENGAGEMENT DOSSIERS NOTIFIES TAUX	19250
+LIEU DE DEPOT DU DOSSIER	19504
 Le Commissaire des ImpôtsPeter Dossou KPONOR Veuillez	19323
 Le Dossier	5983,7484,57,106,872,2079,1513,153
 Le Dossier de Demande de Propositions	5983,7572
@@ -159,6 +161,7 @@ Muanda. Dossier	15670
 OCRC Dossier	10821
 Offres Le Dossier	13524
 Pathak. Launch of ICRISAT's Niger Dossier	18197
+Percentage Uptake of IPTp2 And IPTp3 Doses	19544
 Peter Dossou KPONOR	16701
 Postes Consulaires Dossier	3381
 Pour Mme Charlotte DOSSOU	16267

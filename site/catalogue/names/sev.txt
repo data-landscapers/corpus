@@ -4,6 +4,7 @@ AI Skills Seventy	7564
 AI. Several	9786
 ASYCUDAWorld. Several	15478
 Abbreviations HP Health Post SAM Severe	17869
+Absence of Tanzania Severe	19534
 Additional Secretary Shri Sevala Naik Mude	17240
 Address Severe AI Risks	4583
 Administrative Measures and Policy Reforms Several	14985
@@ -26,7 +27,8 @@ Body Severe	12806
 Broaden Market Opportunities for Channel Partners Several	9830
 Business Owner Severe	17114
 Business Recorder Several	2743
-CHAPTER SEVEN	3862,11934,49,1166,2174
+CHAPTER SEVEN	3862,11934,49,1166,2174,335,24,41
+CHAPTER SEVEN HUMAN RESOURCES MANAGEMENT	19585
 CHAPTER SEVEN INSTITUTIONAL CAPACITY	6946
 CHAPTER SEVEN MISCELLANEOUS PROVISIONS	12185
 CHAPTER SEVEN SECTORAL COMMITTEES ARTICLE	14409
@@ -63,7 +65,9 @@ Desktop Study Several	12253
 Development of Likelihood and Severity Scales	17114
 Digital Asset Custodian. Several Nigerian and Africa-serving	12882
 Digital Health Activity. Several	1824
+Disabilities. Several LGAs	19585
 Disability Data Must Capture Functional Severity	13016
+Domain Areas Seven	19576
 Drought Severity Index PET Potential Evapotranspiration	17157
 ERA5 Very Severe Dehydration Standardized	17157
 Eight Hundred and Seventy-Two Thousand	12606
@@ -126,6 +130,7 @@ Lessons for Policymakers and Practitioners Several	4430
 Level Seven HIS Health Normative Standards	1009
 Lezin Severin	16100
 Life Counts CHAPTER SEVEN Conclusion and Recommendations	12151
+Likelihood Severity Risk High Level	19534
 Likelihood and Severity	17114
 Likelihood and Severity Matrix	17114
 Likelihood and Severity Matrix Severity Low	17114
@@ -152,6 +157,7 @@ Nine Hundred and Seventy Three Million	12597
 Nine Hundred and Seventy-Seven Thousand	12597
 Nine Hundred and Seventy-Six Thousand	12606
 Nine Hundred and Seventy-Three Million	12597
+Non Severe	19544
 October. Several	11714
 Oflocée Severine	16100
 P0301.4 Seven	11192
@@ -210,6 +216,7 @@ Seven African	9263,5481
 Seven Billion	12606
 Seven Constituent Guidelines	5676
 Seven Countries	13148
+Seven Domain	19576
 Seven Hundred Seventy Million	12606
 Seven Hundred and Fifty-Four Thousand	3862
 Seven Hundred and Fourty-Eight Million	12602
@@ -278,7 +285,7 @@ Severability PART V GENERAL PROVISIONS	13352
 Severability and Savings Provisions	3861
 Severability. PART IV	18438
 Severability. Third	18438
-Several	1219,65,270,25,156,43,36,10,4,39,40,2,84,120,207,217,8,296,28,20,100,76,111,116,72,73,77,66,3,21,187,83,29,80,456,409,15,109,98,44,51,50,27,3,82,80,196,72,25,180,331,1,19,1,35,13,107,152,114,179,60,58,201,162,66,44,3,20,51,210,44,38,1,96,69,59,8,28,24,209,71,73,9,94,74,1,45,63,265,143,2,6,41,42,49,55,78,20,36,37,60,28,41,8,72,42,206,25,38,10,58,13,17,27,4,19,33,75,112,105,2,51,28,157,46,4,8,70,6,67,18,42,1,36,1,114,2,1,1,3,57,29,12,130,170,24,18,73,40,6,23,99,2,45,1,13,12,2,22,3,56,19,9,22,12,101,33,4,3,23,5,4,4,13,4,22,2,1,1,68,3,5,4,39,19,18,17,23,13,9,64,72,52,11,27,216,29,2,23,71,81,189,2,17,13,1,2,2,69,243,144,63,70,53,19,115,172,10,37,97,200,25,7,50,13,2,10,25,27,35,42,11,7,2,28,7,3,30,1,31,76,17,32,42,60,69,49,82,23,13,13,7,38,35,48,3,17,37,1,11,132,122,36,89,95,292,80,84,31,23,145,54,8,6,17,12,6,19,1,20,7,11,36,15,32,71,43,128,4,78,91,12,33,36,74,2,4,161,90,64,170,5,192,145,32,5,8,60,6,19,2,14,110,85,22,124,24,288,20,19,41
+Several	1219,65,270,25,156,43,36,10,4,39,40,2,84,120,207,217,8,296,28,20,100,76,111,116,72,73,77,66,3,21,187,83,29,80,456,409,15,109,98,44,51,50,27,3,82,80,196,72,25,180,331,1,19,1,35,13,107,152,114,179,60,58,201,162,66,44,3,20,51,210,44,38,1,96,69,59,8,28,24,209,71,73,9,94,74,1,45,63,265,143,2,6,41,42,49,55,78,20,36,37,60,28,41,8,72,42,206,25,38,10,58,13,17,27,4,19,33,75,112,105,2,51,28,157,46,4,8,70,6,67,18,42,1,36,1,114,2,1,1,3,57,29,12,130,170,24,18,73,40,6,23,99,2,45,1,13,12,2,22,3,56,19,9,22,12,101,33,4,3,23,5,4,4,13,4,22,2,1,1,68,3,5,4,39,19,18,17,23,13,9,64,72,52,11,27,216,29,2,23,71,81,189,2,17,13,1,2,2,69,243,144,63,70,53,19,115,172,10,37,97,200,25,7,50,13,2,10,25,27,35,42,11,7,2,28,7,3,30,1,31,76,17,32,42,60,69,49,82,23,13,13,7,38,35,48,3,17,37,1,11,132,122,36,89,95,292,80,84,31,23,145,54,8,6,17,12,6,19,1,20,7,11,36,15,32,71,43,128,4,78,91,12,33,36,74,2,4,161,90,64,170,5,192,145,32,5,8,60,6,19,2,14,110,85,22,124,24,288,20,19,41,234,25,1
 Several Africa-	12376
 Several African	961,2637,770,1971,242,4359,1292
 Several African AI	6410
@@ -314,9 +321,9 @@ Several of Liberia	16876
 Severalmethods	8606
 Severalsimilaritymeasures	8606
 Severalstudiesaddressduplicatedetectioninmulti-sourcedata	8606
-Severe	5247,1940,3531,62,49,366,225,342,471,45,135,88,331,114,368,436,17,361,928,188,1658,212,25,18,100,28,840,184,132
+Severe	5247,1940,3531,62,49,366,225,342,471,45,135,88,331,114,368,436,17,361,928,188,1658,212,25,18,100,28,840,184,132,1079,24
 Severe A2F	15480
-Severe Acute Malnutrition	15206
+Severe Acute Malnutrition	15206,4314
 Severe Constraints	12389
 Severe Dehydration	17157
 Severe Disabilities	2775
@@ -336,6 +343,9 @@ Severe Weather Forecasting Programme	11191,362,4946,2135
 Severe Weather Forecasting Programme TCP	18578
 Severe Weather Forecasting Programme The WMO	11191
 Severe Yellow Alert Triggered After Electricity	14801
+Severe and Mild	19544
+Severe and Non-Severe	19544
+Severe and Non-Severe Pneumonia	19544
 Severely	15164,2096
 Severely Dry Crop	17157
 Severely Poor	15244

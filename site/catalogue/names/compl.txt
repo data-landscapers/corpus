@@ -27,6 +27,7 @@ Acting Director of Regulation and Compliance	6689,1057,4005
 Action Complaint File Date	14675
 Actos Complementares	4274
 Adlegal International Limited. The Complainant	5113
+Administrative Central Government. Completion	19585
 Administrative Complaints	12185
 Advanced Compliance Program	6543
 Affairs Dispute Resolution Lodge A Complaint	12515
@@ -47,11 +48,22 @@ Anqa Compliance Data Controller INST-451049C3699 NAIROBI	7167
 Anqa Compliance Data Processor INST-451049C3699 NAIROBI	7167
 Anti-Corruption Bureau Complaints	12241
 Apply for Tax Compliance Certificate Import	12454
+Arusha CC Compliant	19585
+Arusha DC Unqualified Compliant	19585
+Arusha Meat Unqualified Compliant	19585
 Asignación Gastos de Complem	4209
 Assess Compliance	10721
 Assess the Complaint	17099,15
 Assisted Compliers	12439
 Atlas of Economic Complexity	4970,12026
+Attending Completed Never	19542
+Attending Completed Never Total Attending Never	19542
+Attending Drop Completed Never	19542
+Attending Drop Out Complete Never Attend	19542
+Attending Drop Out Completed Never	19542
+Attending Drop Out Completed Never Attended	19542
+Attending Dropout Completion Never Attended School	19542
+Attending Out Completed Never	19542
 Au MODIFIANT ET COMPLETANT LA LOI	13781
 Audit Trails Complete	12211
 Audit and Compliance	17260
@@ -74,19 +86,27 @@ BA. Compliance	14843
 BBBEE Compliance Performance Information	11218
 BEPS. Completion	17011
 BIDDER’S RELEVANT EXPERIENCE Comply Partially Comply	11209
+BIRTH REGISTRATION COMPLETENESS RATE	19544
 BOT Financial Complaints Quality	7763
 BRIGHT SPOT BURIED IN COMPLEXITY	12050
 BUREAU COMPLIANCE EXECUTIVE LEGAL ADVISORY	11198
+Babati DC Unqualified Compliant	19585
+Babati TC Unqualified Compliant	19585
 Back- Comply Advantage	14997
+Bagamoyo DC Unqualified Compliant	19585
+Bahi DC Unqualified Compliant	19585
 Bandra Kurla Complex	12576
 Bank Completed Completion Measurement Trainings	17470
 Bank In Progress Completion Measurement Focal	17470
 Bank Not Yet Due Completion Measurement	17470
 Bank. Completion Measurement Comments All	17470
+Bariadi DC Unqualified Compliant Compliant	19585
+Bariadi TC Unqualified Compliant	19585
 Begin Mandatory Data Protection Compliance Inspections	13695
 Beneficiam da Profilaxia Completa	18768
 Beyond Compliance	12969
 Bidding Forms Price and Completion Schedule	13185
+Biharamulo DC Unqualified Compliant	19585
 Birth Complica-	12151
 Birth Registration Completeness	12151,1493
 Birth Registration Completeness Between	12151
@@ -100,10 +120,26 @@ Border Compliance Import	18109
 Bosnia and Herzegovina Complying	16631
 Broadcast Compliance	6946
 Broadcasting Complaints Commission	13267,194
+Buchosa DC Unqualified Compliant	19585
+Budget Compliance	19585
+Budget Unqualified Compliant	19585
+Budget Unqualified Compliant Compliant	19585
+Buhigwe DC Unqualified Compliant Compliant	19585
 Build Compliance Policies	7518
+Bukoba Complex	19592
+Bukoba DC Unqualified Compliant	19585
+Bukoba MC Unqualified Compliant	19585
+Bukombe DC Unqualified Compliant	19585
+Bumbuli DC Unqualified Compliant	19585
+Bunda DC Unqualified Compliant Compliant	19585
+Bunda TC Unqualified Compliant	19585
 Bureau of Completed and Career BSC	16863
+Busega DC Unqualified Compliant	19585
 Business Analyst Mandatory Requirement Compliant	13037
 Business Category. FI's Compliance Officers	11861
+Business Complex	19585
+Busokelo DC Unqualified Compliant	19585
+Butiama DC Unqualified Compliant	19585
 C. COMPLIANCE WITH BANK POLICIES	11863,2075
 C. Complaint Monitoring	5676
 C. Complaint Monitoring Consumer	5676
@@ -136,7 +172,7 @@ COMPLAINT FORM TYPE OF COMPLAINT	2709
 COMPLAINT NO. PDPO	5113
 COMPLAINT Name of Regional Assembly	15721
 COMPLAINT The Commission	13178
-COMPLAINTS	14753,2490
+COMPLAINTS	14753,2490,2315
 COMPLAINTS ABOUT THE TENDERING PROCESS	11240
 COMPLAINTS HANDLING	718
 COMPLAINTS HANDLING FRAMEWORK	17243
@@ -153,6 +189,7 @@ COMPLETED IN HOUSEHOLD	582
 COMPLETED THE DOCUMENT Place	13185
 COMPLETED THE FORM This Beneficial Ownership	13185
 COMPLETENESS OF CAUSE-OF-DEATH DATA	16892
+COMPLETENESS OF MEDICAL CERTIFICATION OF CAUSES	19544
 COMPLETENESS OF REGISTRATION	15056
 COMPLETING THE RFP	13618
 COMPLETING THIS QUESTIONNAIRE	17149
@@ -164,7 +201,7 @@ COMPLETION RATE Cargo Tracking Upgrade	13053
 COMPLEX	10852
 COMPLEXITE SECTEURS CAS D'USAGE	15583
 COMPLEXITÉ SECTEUR CAS D'USAGE	15583
-COMPLIANCE	5665,6321,1067,3825
+COMPLIANCE	5665,6321,1067,3825,2706
 COMPLIANCE AND ENFORCEMENT	718
 COMPLIANCE AUDIT	15152
 COMPLIANCE CHECKLIST	12302
@@ -217,9 +254,12 @@ Cerebral Vascu- Complications	12151
 Certidão Narrativa Completa	10749,7
 Certidão Narrativa Completa de Nascimento	18752
 Certificate of Completion	17235
-Certificate of Compliance	14883
+Certificate of Compliance	14883,4719
 Certification and Compliance	11995
+Chalinze DC Unqualified Compliant	19585
+Chamwino DC Unqualified Compliant Compliant	19585
 Change IDA-D7870 Complied	19284
+Chato DC Unqualified Compliant	19585
 Check Compliance of Documents	12389
 Chief Information Officer PCC Practical Completion	11261
 Chief Risk and Compliance Officer	7606
@@ -244,16 +284,17 @@ Complainants	1807,1500,655,12881,46,37,173,18,39,95
 Complainants The Complainants	3307
 Complainants. The Respondent’s Privacy Policy	3307
 Complaining	8460,9639
-Complaint	1778,1337,1998,563,3,13,1056,2361,208,419,1270,175,775,210,136,246,1428,699,159,84,137,608,369,810,45,39,173,15,129,1195,66,421
+Complaint	1778,1337,1998,563,3,13,1056,2361,208,419,1270,175,775,210,136,246,1428,699,159,84,137,608,369,810,45,39,173,15,129,1195,66,421,633
 Complaint Call	15721
 Complaint Channels	3861
 Complaint Committee	1778
 Complaint Concerning Violation	5113
 Complaint Filing	16949
-Complaint Handling	7538
-Complaint Handling Mechanism	18925
+Complaint Handling	7538,12020
+Complaint Handling Mechanism	18925,633
 Complaint Handling Process Flow Chart Received	16889
 Complaint Handling Unit	18925
+Complaint Handling and Resolution Procedures	19558
 Complaint Intake Process	17099
 Complaint Lodged	13178
 Complaint Management System	13095
@@ -273,7 +314,7 @@ Complaint Tool	8529
 Complaint Type	13097
 Complaint Unit CEET Compagnie Energie Electrique	12062,6124,31
 Complaint-Stage Determination	17243
-Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,1514,969,18,1321,61,131,2,2,234,26,193,108,117,213,6,44,55,5,220,68,398,42,226,10,1,48,119,224,10,235,869,293,2,50,100,27,116,115,26,176,71,107,35,105,1,2,483,695,1,2,1,24,29,26,2,19,6,51,99,15,129,6,2,1208,3,3,137,369,202,72,39
+Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,1514,969,18,1321,61,131,2,2,234,26,193,108,117,213,6,44,55,5,220,68,398,42,226,10,1,48,119,224,10,235,869,293,2,50,100,27,116,115,26,176,71,107,35,105,1,2,483,695,1,2,1,24,29,26,2,19,6,51,99,15,129,6,2,1208,3,3,137,369,202,72,39,246,28
 Complaints ARTICLE	15484
 Complaints Article	14907
 Complaints Commission	14742
@@ -307,6 +348,7 @@ Complaints Page	13332
 Complaints Phone Number	6946
 Complaints Procedure. Court Statistics	13251
 Complaints Received	11134,928,6124,31
+Complaints Register Controller and Auditor General	19541
 Complaints Register Requirements	17099
 Complaints Relating	12201
 Complaints Review Committee	18696
@@ -316,6 +358,7 @@ Complaints and Appeals	12201
 Complaints and Appeals Module	8616
 Complaints and Consumer Interface Records	17243
 Complaints and Dispute Handling The Authority	12256
+Complaints and Dispute Resolution	19596
 Complaints and Feedback Mechanisms	6947
 Complaints and Investigations	4583,12660,6
 Complaints and Investigations PART VII	17243
@@ -364,6 +407,7 @@ Complementary and Interim	12337
 Complemented	13874,32
 Complementing	3398,398,327,316,144,659,221,51,213,1861,713,137,724,454,1225,23,271,61,52,84,136,118,451,204,357,407,55,3,17,400,205,391,697,224,118,23,286,1549,2,260,25,29,1400,436
 Complementing Africa	7518
+Complementing FDES	19555
 Complementing Malawi	14674
 Complementing Ryakitimbo	12088
 Complementing VAT	10997
@@ -386,7 +430,7 @@ Completa	18768
 Completa Representantes	8003
 Completar	1701
 Completação de Registos de Nascimentos	11537
-Complete	395,1079,514,131,305,49,1,36,158,321,2687,756,400,1156,612,1747,428,230,125,3,16,87,40,663,1,46,209,16,24,92,22,7,8,3,26,6,49,9,138,81,355,39,87,28,64,136,7,476,802,53,55,101,514,321,46,871,212,5,24,4,24,50,16,9,36,128,57,450,659,235,501,45,148
+Complete	395,1079,514,131,305,49,1,36,158,321,2687,756,400,1156,612,1747,428,230,125,3,16,87,40,663,1,46,209,16,24,92,22,7,8,3,26,6,49,9,138,81,355,39,87,28,64,136,7,476,802,53,55,101,514,321,46,871,212,5,24,4,24,50,16,9,36,128,57,450,659,235,501,45,148,341,1
 Complete All	11854
 Complete BER	12195
 Complete BESS	12399
@@ -416,14 +460,19 @@ Complete the Audit	12389
 Complete the IPv6	958
 Complete the Reforms	13005
 Complete the Zimbabwe	12399
-Completed	80,1,2,201,190,54,362,1822,63,3804,619,301,49,3281,25,377,636,119,379,9,17,151,175,12,233,9,3,3,105,450,478,887,88,34,1581,243,10,10,58,29,21,40,128,41,55,197,1041,15,12
+Completed	80,1,2,201,190,54,362,1822,63,3804,619,301,49,3281,25,377,636,119,379,9,17,151,175,12,233,9,3,3,105,450,478,887,88,34,1581,243,10,10,58,29,21,40,128,41,55,197,1041,15,12,1042,43
 Completed Activities	17011
 Completed Application Form	9198,1209
 Completed CC1	12342
 Completed Communication Activities Media TV	8999
 Completed Completed	2989,12030,1834
 Completed Completed Delayed Delayed	2989
+Completed Completed Lower Lower Sec Completed	19542
+Completed Completed Simiyu	19542
+Completed Completed Simiyu Primary	19542
+Completed Completed Upper Geita	19542
 Completed Completion Measurement Ministerial	17470
+Completed Council	19585
 Completed Currently	12431
 Completed Data	16853
 Completed Dec	255
@@ -434,27 +483,45 @@ Completed Form	12542
 Completed Form C	12542
 Completed IFR RAPID-CI PCU	3604
 Completed In-Service Short Trainings First Quarter	12972
+Completed Infrastructure	19585
 Completed Interventions	17139
 Completed LiberTrace	16853
+Completed Lower Completed	19542
+Completed Lower Sec	19542
+Completed Lower Sec Lower Sec	19542
+Completed Lower Secondary	19542
+Completed Lower Secondary Education	19542
 Completed Malawi's Digital Readiness Assessment	12241
 Completed Mar	356
+Completed Never Total Attending Completed Never	19542
 Completed Nov	15021
+Completed Persons Upper Sec Persons Completed	19542
 Completed Planned July August On-going TBC	8999
 Completed Point	15593
-Completed Primary Education	12383
+Completed Primary	19542
+Completed Primary Completed Primary Completed Primary	19542
+Completed Primary Education	12383,7159
 Completed Programs Sierra Leone Innovates	18480
+Completed Projects Council	19585
 Completed Referrals	9772
 Completed Research Paper	11879
+Completed Sec Upper Sec	19542
+Completed Secondary	19542
 Completed Secondary Education	12383
 Completed TIN Forms	16601
+Completed TZS	19585
 Completed Tertiary Education	12383
 Completed Updated	16853
+Completed Upper Completed	19542
+Completed Upper Sec	19542
+Completed Upper Secondary	19542
+Completed Upper Secondary Education	19542
 Completed Waybill	16843
 Completed Z204	11986
 Completed. Completion Measurement	13058
 Completed. Decision	16853
 Completed. NLAF	14971
-Completely	6432,4380,440
+Completely	6432,4380,440,8333
 Completely Ban Cross-Border Data Transfers	7173
 Completelyx Partially	10812
 Completeness	170,3691,1804,5216,1122,135,13,34,182,46,73,939,1498,133,1156,680,30,218,254,1135
@@ -462,10 +529,14 @@ Completeness Number	12413
 Completeness Rate	12367
 Completeness and Consistency	3861
 Completeness and Timeliness of Weekly Reports	11912
+Completeness of Birth Registration	19544
 Completeness of DDPs	8436
+Completeness of Death Registration	19544
+Completeness of MCCD	19544
 Completeness of Registration	12151,262,1231
-Completing	3604,7530,349,264,1678,1151,1085,150,2298,1136
-Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91,162,295,2,66,21,127,125,82,1278,44,1,206,1,489,13,177,3,111,94,132,108,95,470,234,5,73,74,11,90,15,23,57,13,51,262,210,756,266,69
+Completing	3604,7530,349,264,1678,1151,1085,150,2298,1136,289
+Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91,162,295,2,66,21,127,125,82,1278,44,1,206,1,489,13,177,3,111,94,132,108,95,470,234,5,73,74,11,90,15,23,57,13,51,262,210,756,266,69,762
+Completion Administrative	19585
 Completion Audit Report	17114
 Completion Comments	15424
 Completion Date	1988,2908,9850,2368,2100
@@ -477,7 +548,10 @@ Completion Date. Section	19214
 Completion Date. Unless the Parties	19214
 Completion Date. Upon MCC	19214
 Completion Gross	16436
+Completion Healthcare Infrastructures	19585
 Completion Indicator Name Unit of Measure Baseline	15424,87
+Completion Infrastructure	19585
+Completion Infrastructures	19585
 Completion Measurement	17505
 Completion Measurement PforR Program	19242
 Completion Net Enrollment Ratio	16436
@@ -497,10 +571,13 @@ Completion Rates	12199
 Completion Rates Completion	18512
 Completion Report	11863,4356
 Completion Report. The Borrower	16219
+Completion Reports	19584
 Completion Result	16436
 Completion Result Month	11924,4512,1526
 Completion Schedule	13185
 Completion Yes Page	15601
+Completion and Healthcare	19585
+Completion and Healthcare Infrastructures	19585
 Completion and Opening	13123
 Completion and Results Report M&E Monitoring and Evaluation	13836
 Completion of Consultation Process	17196
@@ -511,12 +588,18 @@ Completion of FDA HQ	16848
 Completion of MOUs	17011
 Completion of NR8	12216
 Completion of PIT	17011
+Completion of Roof Structure and Covering	19585
 Completion of Stakeholders’ Co	17196
+Completion. Infrastructures	19585
+Completion. Ngomeni Primary School	19585
+Completion. and Healthcare	19585
 Completou	10777
 Completude de Registo	11537
 Completó Secundaria	16920
-Complex	571,40,350,200,1787,1029,1699,3407,1758,176,116,23,120,287,353,529,1561,1467,372,1223,71,18
+Complex	571,40,350,200,1787,1029,1699,3407,1758,176,116,23,120,287,353,529,1561,1467,372,1223,71,18,2398
 Complex Business-To-Business Services	5349
+Complex Company Limited	19585
+Complex Company Limited MLHHSD Ministry of Land	19585
 Complex Complex	12214
 Complex Emergencies. Shabaka Working Paper. Accessed	6947
 Complex Financial Interdependencies	9511
@@ -554,7 +637,7 @@ Complexo Laboratorial de Saúde Digital	12846
 Complexo. Depois	11435
 Complian	6432
 Complianc	6432
-Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51,152,1,2,48,31,3,7,39,7,2,30,35,65,26,11,32,14,1,45,23,3,109,215,187,549,419,204,4,3,21,23,38,23,2,29,59,62,15,129,6,73,212,212,732,4,18,17,26,227,123,32,51,9,188
+Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51,152,1,2,48,31,3,7,39,7,2,30,35,65,26,11,32,14,1,45,23,3,109,215,187,549,419,204,4,3,21,23,38,23,2,29,59,62,15,129,6,73,212,212,732,4,18,17,26,227,123,32,51,9,188,354,49,8
 Compliance Adherence	13042
 Compliance Advisor Ombudsman	11007
 Compliance Agreement	14828,3
@@ -576,7 +659,7 @@ Compliance Challenges Faced	12189
 Compliance Check	17367
 Compliance Checklist	2668,11856
 Compliance Checks	7055
-Compliance Clauses	6432
+Compliance Clauses	6432,13152
 Compliance Clustering Program	17011
 Compliance Clustering System	17011
 Compliance Committee	17235
@@ -606,7 +689,7 @@ Compliance Improvement Plan	12439,2546,1983
 Compliance Improvement Plans	16968
 Compliance Laws and Regulations	11250
 Compliance Layer	16212
-Compliance Level	6946
+Compliance Level	6946,12638
 Compliance Level Monitoring Category Core Requirements	11952
 Compliance Levels	6946
 Compliance Management	10721,2230
@@ -666,6 +749,7 @@ Compliance Todos	15966
 Compliance Triangle	16968
 Compliance Triangle Simplify	16968
 Compliance Unit	16971
+Compliance With E-Government Laws and Standards	19584
 Compliance Workforce Digital	18478
 Compliance Working Group	16924
 Compliance Zandile Mabundza Financial Surveillance Zodwa	11131,3
@@ -693,11 +777,20 @@ Compliance for Digital Platforms The FCCPC	11313
 Compliance of Management	10812
 Compliance-as-a-Service	4848,63,17
 Compliance-related	4848,6308,3663
+Compliance. Full	19536
 Compliance. Notwithstanding	14528
 ComplianceDr Bosun TijaniNigeriaRead	2809
-Compliant	8670,3072,472,823,5,339,487,1129
+Compliant	8670,3072,472,823,5,339,487,1129,4579,9
+Compliant Agency	19585
+Compliant Compliant	19585
+Compliant Compliant Compliant	19585
+Compliant Compliant Secretariat	19585
+Compliant Government Training Institute	19585
 Compliant Nigerian Naira	2372
+Compliant Secretariat	19585
 Compliant Standards ISIS	34
+Compliant Unqualified Compliant	19585
+Compliant Unqualified Compliant Compliant	19585
 Complicated	12403,3070,7
 Complicating	6787,3710,6879
 Complication	19226
@@ -708,7 +801,7 @@ Complicité	6959
 Complied	11965,7319
 Complies	12359
 Complimentary	4743,4288,2835
-Comply	2724,1137,2562,9,3975,802,26,619,98,301,136,538,393,61,1105,394,154,47,1131,902,135,962
+Comply	2724,1137,2562,9,3975,802,26,619,98,301,136,538,393,61,1105,394,154,47,1131,902,135,962,1365
 Comply Not Comply Substantiate	11209
 Comply Quest	6511
 Complying	7914,523,2753,684,7,304,55,2692,1699
@@ -718,7 +811,7 @@ Complète	6146,10182
 Complémentaires	13390
 Complémentaires Assurances	13390
 Complétant le Code de Commerce	4567
-Compléter	3356,12749,158,65,1544,1116,233
+Compléter	3356,12749,158,65,1544,1116,233,245
 Complétez	14480
 Complétion	19221
 Complétude	13300,2299,1123
@@ -768,6 +861,7 @@ Cybersecurity Cognitive Computing Expert Systems Compliance	4528
 Cybersecurity Compliance	718
 Cybersecurity Risk Management and Compliance Framework	5947,9224
 D. Tax Policy Complexity	13624
+DEATH REGISTRATION COMPLETENESS RATE	19544
 DES PEINES COMPLEMENTAIRES	15397
 DES PEINES COMPLEMENTAIRES Article	17826
 DES PEINES COMPLEMENTAIRES TITRE III	17841
@@ -782,6 +876,7 @@ DUTY TO COMPLY	6907
 Dadaab Refugee Complex	12227
 Dadaab Refugee Complex and Nairobi	12227
 Dadaab Refugee Complex. The Kenyan	12227
+Dar Rapid Transit Unqualified Compliant	19585
 Data Center Certification Compliance	12214
 Data Completeness	18628
 Data Compliance	16212
@@ -807,6 +902,7 @@ Data Sovereignty Compliance Framework	11995
 Data Sovereignty Compliance Mechanisms	11995
 Datacentre Relocation Successfully Completed	11134
 Dataset Completion	4528,7984
+Date Completed	19541
 Date Completion Date	14746
 Date Completion Date Head	14746
 Date Investigation Completed Resolution	17114
@@ -850,10 +946,14 @@ Disconnection Complaint Resolution Time... Order Completion	5168
 Dispute Resolution Consumer Complaints	11861
 Distribution Unit PMC Preventive Maintenance Compliance	13185
 Distribution of Complaint Returns	17235
+Distribution of Entities Across ICT Compliance Level	19584
 Division of Complementary Medicines	16971
 Documentary Compliance	18109
 Documentary Compliance Import	18109
 Documentation Compliant	13037
+Dodoma Mtumba Complex	19585
+Dodoma Regional Unqualified Compliant Compliant	19585
+Drop Out Drop Out Completed	19542
 Drop-out Completed Never	16921
 Dropped Completion Measurement	17470
 Dropped Completion Measurement Strengthen	17470
@@ -913,6 +1013,7 @@ Enforcement and Compliance Procedure Handbook	16853
 Enforcement and Compliance The Information Commission	19057
 Enforcing Compliance	14932
 Enhance AML-CFT Compliance	940
+Enhance Coverage and Completeness	19557
 Enhance Voluntary Tax Compliance and Strengthen Enforcement	17011
 Enhanced Compliance	13037
 Enhanced Tax Compliance	14985
@@ -924,6 +1025,10 @@ Enrollment and Completion	13991
 Enrolment and Completion	13991
 Enseignement Général CES Complexe	18171
 Ensure Compliance and Monitoring	12675
+Entity Compliant Procurement	19585
+Entity Overall Compliance Level Dar	19584
+Entity Overall Compliance Level Mbeya University	19584
+Entity Overall Compliance Level Prime Minister	19584
 Environmental and Planning Compliance	15081
 Ericsson and MTN Complete MoMo Cloud Migration	10666
 Eritel Internet Complaint Hub	14326
@@ -1014,6 +1119,7 @@ GRM Complaints	13332
 GRM. Complainants	17114
 GSMA Mobile Money API Compliant	2633
 Gauteng. Complaints Commission of South	13462
+Geita Regional Unqualified Compliant Compliant Unqualified	19585
 General Complaints	6946
 General Complaints Handling Process	17099
 General NDP Act Compliance Measures	11956
@@ -1058,8 +1164,11 @@ Heart Dis- Complications	12151
 Heavily Indebted Poor Countries Completion Point	14976,214
 Helwan Iron and Steel Complex	15473
 High Committee for Complaints	15492
+High Compliance Cost	19534
 High. POLICY COMPLIANCE	14937
-Highest Level of Education Completed	16921
+Higher Compliance	19534
+Highest Level of Education Completed	16921,2621
+Hombolo Local Unqualified Compliant	19585
 Home Compliance	8464
 Honourable Minister Federal Secretariat Complex Phase	5903,12310
 Hosting Location Compliance	6432
@@ -1089,7 +1198,10 @@ ICR00764 IMPLEMENTATION COMPLETION AND RESULTS REPORT	18825
 ICT COMPLAINTS AND CALL CENTRE HUMAN	11198
 ICT Completed	6133
 ICT Complex	5416
+ICT Compliance Assessment Results	19584
 ICT Ministry Staff Complete Digital Training	18720
+ICT Security Compliance and Audit	19576
+ICT Security Compliance and Audit From the Government	19513
 ICTs. Complementary	13512
 ID CODE NAME MAKE A COMPLETE	17127
 ID General Security Requirement Description Compliant	13037
@@ -1162,6 +1274,8 @@ Introduction of Complementary Foods	15247
 Introdução de Alimentos Complementares	10777
 Investigation of Complaints	17243
 Investment and Compliance	16947
+Iringa Commecial Complex	19592
+Iringa Commercial Complex	19592
 Isolation of Sensitive Workloads Compliance	6432
 Issuance of Tax Compliance Certificate	18608
 Ivanhoe Mines Announces Completion of Hydropower Ramp-Up	15952
@@ -1181,11 +1295,38 @@ Justice Complex	18477
 KEY COMPLIANCE REQUIREMENTS	13037
 KEY ONGOING COMPLIANCE REQUIREMENTS	12542
 KRA Tax Compliance Certificate	12323,2180
+Kakonko DC Compliant Conclusion	19585
+Kalambo DC Unqualified Compliant	19585
+Kaliua DC Unqualified Compliant	19585
 Kamoa-Kakula Copper Complex	15952
+Karagwe DC Unqualified Compliant Compliant Unqualified	19585
+Karatu DC Unqualified Compliant	19585
+Kashozi Commercial Complex	19592
+Kasulu DC Qualified Compliant	19585
+Kasulu TC Unqualified Compliant	19585
 Key Activities Completed Honourable Chairperson	12962
 Key Compliance Requirements	12961
+Kibaha DC Unqualified Compliant	19585
+Kibaha MC Unqualified Compliant	19585
+Kibiti DC Unqualified Compliant	19585
+Kibondo DC Unqualified Compliant	19585
+Kigamboni MC Unqualified Compliant	19585
+Kigoma DC Unqualified Compliant	19585
+Kilindi DC Unqualified Compliant	19585
+Kilolo DC Unqualified Compliant	19585
+Kilosa DC Unqualified Compliant	19585
+Kilwa DC Unqualified Compliant	19585
+Kinondoni MC Unqualified Compliant	19585
+Kisarawe DC Unqualified Compliant	19585
+Kishapu DC Unqualified Compliant Compliant Unqualified	19585
+Kiteto DC Unqualified Compliant	19585
 Km. Completion	12922
+Kondoa DC Unqualified Compliant	19585
+Kondoa TC Unqualified Compliant	19585
+Kongwa DC Unqualified Compliant	19585
 Konza Complex	1733
+Korogwe DC Unqualified Compliant Compliant	19585
+Korogwe TC Unqualified Compliant	19585
 LEGAL AUDIT AND COMPLIANCE DIRECTIVE	3861
 LISTE DES CAS D’USAGES COMPLEXITE SECTEURS	15583
 LISTE EST COMPLÈTE	13300
@@ -1207,8 +1348,10 @@ Level Completed Figure	12431
 Level of Education Completed	16921
 Licence Fee Annual Compliance Burn KES	10738
 Licensing and Compliance Division	14455
+Lindi Regional Unqualified Compliant	19585
 List of Related Services and Completion Schedule	13185
 List of Related Services and Completion Schedule Service	13185
+Local Government Unqualified Compliant Compliant Loans	19585
 Location Data Residency Compliance	6432
 Lodge Complaints	17243
 Lodge Complaints Online	16949
@@ -1218,6 +1361,7 @@ Log of Complaints	6946
 Loi.15.07.2016.html LOI MODIFIANT ET COMPLETANT	15413
 Long Term Training Completions Masters Bachelors	12972
 Long-Term Training Completions	12972
+Low Birth Weight and Prematurity Complication	19544
 Low Completion	17139
 Low Compliance	14932
 Low Implementation Completion	11873
@@ -1230,26 +1374,46 @@ MOH Completes EMS Digital Training	17346
 MOH Performance Management and Compliance System	16971
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
 MOR's Compliance Strategy	12500
+Machinga Complex	19585
 Madagascar Nears Completion of Sweeping Cybersecurity Reform	14639
 Malawi Basement Complex'. Rock	12253
 Manager of Compliance	12162
 Managing Editor of Salone Compass Newspaper. Complainant	18592
 Mandatory Compliance	16212
 Mandatory Documents Mandatory Requirement Compliant	13037
+Manyara Regional Unqualified Compliant	19585
+Mara Regional Unqualified Compliant	19585
+Masasi Commercial Complex	19592
 Mathematics Algorithm and Complexity Data Collection	15789
 Mbabane Government Hospital Emergency and Referral Complex	12962
+Mbeya Regional Unqualified Compliant Compliant Secretariat	19585
+Mbozi DC Compliant Conclusion	19585
+Mbulu DC Unqualified Compliant Compliant	19585
+Mbulu TC Unqualified Compliant	19585
+Meatu DC Unqualified Compliant	19585
 Meeting Africa’s Growing Compliance Needs	4791
 Megawatt Complex	12515
 Meios Complementares de Alojamento Turístico	11458
 Merger Is Not Completed	7198
+Meru DC Unqualified Compliant	19585
 Midlands Multipurpose Complex The ULGSB	14738
 Minimum Compliance Checklist PDF File	15207
 Minimum Emission Standard Compliance	11228
 Minister for Transport Launches Passenger Complaints Portal	16215
 Ministerial Complex	4272
 Ministry of Finance and Ministry of Commerce Compliance	11134
+Missenyi DC Unqualified Compliant	19585
+Misungwi DC Unqualified Compliant Compliant	19585
+Mkalama DC Unqualified Compliant	19585
+Mkinga DC Unqualified Compliant Compliant	19585
+Mkuranga DC Unqualified Compliant	19585
+Mkwakwani Commercial Complex	19592
+Mlele DC Unqualified Compliant	19585
+Mlimba DC Unqualified Compliant	19585
 MoL Completed and Incentives Bureau	16863
 Mobile Handset Complaints	11642
+Momba DC Qualified Compliant	19585
+Monduli DC Unqualified Compliant	19585
 Monitoring Compliance	12597
 Monitoring and Compliance	236
 Monitoring and Compliance Architecture	3861
@@ -1257,8 +1421,27 @@ Monitoring and Compliance. Establish	1777
 Monitoring and Compliance. The Inspection Department	14014
 Monitoring and Continuous Compliance	5665
 Monitoring of Compliance	13462
+Morogoro DC Unqualified Compliant	19585
+Morogoro MC Unqualified Compliant	19585
+Morogoro Regional Unqualified Compliant	19585
+Moshi DC Unqualified Compliant	19585
+Moshi MC Unqualified Compliant	19585
 Mount Coffee Hydropower Complex	6523
+Mpanda DC Unqualified Compliant	19585
+Mpanda MC Unqualified Compliant	19585
+Mpimbwe DC Unqualified Compliant Compliant Unqualified	19585
+Mpwapwa DC Unqualified Compliant Compliant Unqualified	19585
+Msalala DC Unqualified Compliant	19585
+Mtama DC Unqualified Compliant	19585
+Mtwara DC Unqualified Compliant Compliant	19585
+Mtwara MC Unqualified Compliant	19585
+Mtwara Regional Unqualified Compliant	19585
+Mufindi DC Unqualified Compliant	19585
+Muheza DC Completion	19585
 Must Complete and Submit IT3	11276
+Mwanza City Commercial Complex	19585
+Mwanza City Commercial Complex Company	19585
+Mwanza Regional Unqualified Compliant	19585
 NA B.2. Compliance	13938
 NATURE OF THE COMPLAINT	2709
 NCC Completed	11857
@@ -1271,6 +1454,7 @@ NDP Act Compliance Audit Returns Schedule	11956
 NOTICE TO COMPLY WITH COURT ORDER	12924
 NRB Completes Phase One of National Birth	12291
 NRIS Compliance	13005
+Name Of Project Reasons for Not Completing	19585
 Name Request From Start Date Completion	14746
 Narrativa Completa	18834
 National Addressing and GIS Program Complete the National	16975
@@ -1287,6 +1471,7 @@ Neither Somewhat Completely	12214
 NiMet Completes Installation Of The Revolutionary	11966
 Nigeria Evidence Of Compliance Data Protection	10721
 Nigeria's Economic Complexity Index	10157
+Njombe Regional Unqualified Compliant Compliant	19585
 No. Category Steps Completed No	16853
 Non Compliance	18649
 Non Compliant	13381
@@ -1301,6 +1486,7 @@ OBTAIN A TAX COMPLIANCE	11240
 OEC Observatory for Economic Complexity	11887,266,1,9,178
 OEM CERTIFICATION Comply Not Comply	11209
 OP-ED BY DATA COMMISSIONER Strengthening Compliance	2668
+OPD Complex	19585
 ORDERS TO PROTECT COMPLAINANTS FROM HARMFUL	11190
 OWASP Compliance Security	5665
 Observatory of Economic Complexity	2889,11500,2607
@@ -1326,6 +1512,8 @@ Orden Asignación Compl. Combustible Teléfono Prima	4209
 Orden Total General Cantidad Asignación Compl	4209
 Overall COMPLIANCE Policy Does	11855
 Overall Compliance	13381
+Overall Compliance Level for Each Entity Entity	19584
+Overall ICT Compliance Level	19584
 Overall Substantial COMPLIANCE Policy Does	11380
 Oversight Phase Compliance	16212
 Oversight and Compliance	11995
@@ -1336,6 +1524,7 @@ PART F PFMA COMPLIANCE REPORT	11250
 PART FIVE ADMINISTRATIVE MEASURES AND COMPLIANT	7538
 PART V COMPLIANCE REQUIREMENTS FOR PAYMENT	12374
 PART VI COMPLIANCE REQUIREMENTS FOR PAYMENT	12365,720
+PART VII INVESTIGATION OF COMPLAINTS	19530
 PARTIELLEMENT COMPLÉTÉ	13300
 PCR Project Completion Report PDMS-CV Public	11863
 PERSON DESIGNATED TO COMPLETE	17114
@@ -1362,7 +1551,7 @@ Pacote Regulatório Completo	11448
 Page I. DESCRIPTION COMPLÈTE DU PROJET	18118
 Paludisme Complication	15599
 Paquet Complémentaire	15423,262
-Partially Compliant	13381
+Partially Compliant	13381,6195
 Partners Enforcement and Compliance	13051
 Passenger Complaints Portal	16215
 Pending Complete	16872
@@ -1370,10 +1559,17 @@ Pending JIC Complaint	16853
 Percentage Assessment Completed	17139
 Percentage Completion of DGTS Pillars	14750
 Percentage Completion of DGTS Recommendations	14750
+Percentage of Completeness of Health Facilities	19544
 Performance Measurement and Compliance Article	12616
 Performance Pillar Interventions Completed Ongoing	17139
 Performance and Compliance. The Project	13392
 Periodic Compliance Audits	15120
+Persons Completed	19542
+Persons Completed Persons Lower Sec Persons	19542
+Persons Katavi Completed Primary Completed	19542
+Persons Number of Number of Completed Number of Persons	19542
+Persons Number of Number of Completed Number of Tanzania	19542
+Persons Number of Persons Number of Completed Number	19542
 Phase Timeline Complexity Level Risk Level	6432
 Points Scored Compliance	13381
 Police IPCB Independent Police Complaints Board	18477
@@ -1386,6 +1582,7 @@ Postal and Courier Compliance	6946
 Practical Compliance Steps for Financial Institutions	9750
 Practice GRC Governance Risk and Compliance HIPO	11250
 Preliminary Assessment of Complaints	17243
+President's Unqualified Compliant Compliant Officer	19585
 Prestações Complementares	15486,818
 Price and Completion Schedule	13185
 Pricing Requirements Completion	7266
@@ -1431,7 +1628,9 @@ Provide Accurate and Complete Information	17249
 Príncipe ICR Implementation Completion and Results Report	18754
 Purpose Question Response Type Complete	16963
 Purpose of Compliance Notices	17249
+Pwani Regional Unqualified Compliant Compliant Secretariat	19585
 QUE MODIFIEE ET COMPLETEE A CE	14862
+Quality Assurance Compliance Guidelines	19575
 Quality Control Completed	12151
 Quality School Education GCR Gross Completion	18460
 Quality of Service Network Compliance Article	12616
@@ -1509,8 +1708,16 @@ Risk and Compliance ICT Information Communication Technology	12359
 Risk and Compliance Management Department	11131
 Risk and Compliance Office	11134
 Road Safety and Compliance	10852
+Rorya DC Compliant	19585
+Ruangwa DC Unqualified Compliant Compliant	19585
+Rufiji DC Unqualified Compliant	19585
+Ruhuhu Holding Unqualified Compliant Compliant Company	19585
+Rukwa Regional Unqualified Compliant	19585
 Rules and Complementary Instructions	12364
+Rungwe DC Unqualified Compliant	19585
+Rural Drop Out Completed Urban Attending	19542
 Rural Electrification Fund. Complementing	14080
+Ruvuma Regional Unqualified Compliant Compliant Secretariat	19585
 Rwanda Completes Its Fourth Universal Periodic	15131
 Région Compl. Promp. Signal	16722
 S Regulatory Compliance Audit	4301
@@ -1540,12 +1747,14 @@ SURVEILLANCE OF PUBLIC HEALTH THREATS Completeness	16892
 SWALIM Completes Cultivable Areas Analysis for Somalia	15129
 Safeguard and Fiduciary Compliance	16614
 Safeguards and Compliance	8546
+Same DC Unqualified Compliant	19585
 Satisfactory. Compliance	15983
 Scale Cloud-Native Compliance Platform	14700
 School Questionnaire Completion	18460
 Schools Complementing Routine Civil Registration Systems	13681
 Scope of Compliance Status Assessment	17249
 Screening and Processing Complaints	17099,15
+Secretariat Unqualified Compliant	19585
 Section Max Points Points Scored Compliance	13381
 Section SOA.19. Completion of Organizational Structure	16833
 Section V COMPLIANCE SHEET PROCUREMENT REFERENCE	14778
@@ -1558,25 +1767,41 @@ Security and Compliance	3787,1353,6076
 Security and Compliance Proactive	9123
 Security and Compliance Secure	12211
 Seeking Complementarity	17884
+Sengerema DC Unqualified Compliant	19585
 Sensitive Complaints	16926
 Septicémie Complications	17843
+Serengeti DC Unqualified Compliant	19585
 Service of Complaints	17243
 Service of Compliance Notices and Directives	17249
 Sexual Harassment Compliance Team STD Sexually	16926
 Seychelles News Agency. Complementary	1884
 Shehu Shagari Complex	1014
+Shinyanga DC Unqualified Compliant Compliant	19585
+Shinyanga MC Unqualified Compliant	19585
 Showcase Technology Driving Tax Compliance and Payment	17258
 Sierra Leone and Complete Article IV Mission	18488
 Signature.................................. Completion	1988
 Signed Contract Contract Completion	17180,39
 Signing and Compliance	18904
+Siha DC Unqualified Compliant Compliant	19585
+Sikonge DC Unqualified Compliant Compliant	19585
+Simanjiro DC Unqualified Compliant	19585
+Simiyu Regional Unqualified Compliant	19585
 Simple Transfer Gets Complicated	7460
 Simplify Compliance	12022
+Singida DC Unqualified Compliant	19585
+Singida MC Unqualified Compliant Compliant Unqualified	19585
+Singida Regional Unqualified Compliant	19585
 Slow Adoption and Compliance	11400
 SmartX Treasury System and Fortress Compliance Platform	17467
 Social Safety Net ICR Implementation Completion	16952
 Social Systems Ministry of Completion NA Economy	10870
 Solving Complex Problems. Harvard University	11007
+Songea Commercial Complex	19592
+Songea DC Unqualified Compliant	19585
+Songea MC Unqualified Compliant	19585
+Songwe DC Unqualified Compliant	19585
+Songwe Regional Unqualified Compliant	19585
 Sound and Consistent Regulatory Compliance Practices	11131
 SpaceX Complete Starlink Mobile Testing	5562
 Spectrum Monitoring and Compliance	18444
@@ -1594,6 +1819,7 @@ Statement of Compliance The Contract MUST	6432
 Statement of Compliance and Basis of Preparation	18444
 Statistical Auditing for Compliance	14857
 Staying Ahead of Cloud Compliance	18651
+Stop Business Complex TZS	19585
 Strategic Programmes Scorecard VOLUNTARY COMPLIANCE TRADE	16968
 Streamlined Compliance Gap Analysis	12189
 Strengthen Voluntary Tax Compliance	17011
@@ -1608,6 +1834,8 @@ Substantially Complete	11005
 Substantially Compliant	13381
 Sudan Following Cybercrime Complaint	10213
 Suitability and Legal and Compliance. Specific	7763
+Sumbawanga DC Unqualified Compliant Compliant Unqualified	19585
+Sumbawanga MC Unqualified Compliant	19585
 Summary Rating Status Completed Ongoing	17139
 Summary Statistics of AAID Pillars Rating Completed	17139
 Supervision and Compliance	3861
@@ -1638,6 +1866,12 @@ Tableau C.17 Complétude	18312
 Tableau C.3 Complétude	13300
 Tableau C.6 Complétude	18312
 Tableau C.8 Complétude	18312
+Tabora Commercial Complex	19592
+Tabora MC Unqualified Compliant	19585
+Tabora Regional Unqualified Compliant Compliant	19585
+Tanga Regional Unqualified Compliant	19585
+Tanzania Completed Primary Completed Persons Persons	19542
+Tanzania Rural Unqualified Compliant	19585
 Target Completion	15424,3330
 Target Completion Average	15424
 Target Completion Page	15424
@@ -1682,6 +1916,7 @@ Taxpayer COMPLIED	6921
 Taxpayer Categories Completion	17011
 Taxpayer Compliance Improvement Plan	13053
 Taxpayer Compliance and Administrative Efficiency	12948
+Teachers Service Unqualified Compliant Compliant Commission	19585
 TechCabal Tool Kenya VASP Compliance	10738
 Technical Compliance	12597
 Technical Compliance Re-Rating	5130
@@ -1697,6 +1932,7 @@ Timelines for Complaints Handling	17243
 Timelines for Complaints Handling The Authority	17243
 Timeliness of Registration and Registration Completeness	12672
 Togo Complétion	19221
+Tous des Comploteurs	19490
 Traditional and Complementary Medicine	13166
 Training Completion Certificates	12400
 Transboundary Forest Complex	17114
@@ -1707,8 +1943,13 @@ Trust Service Provider Complaint Rejected Complaint	10819
 UNECA Comprehensive CRVS Assessment Complementing the ID4D	13005
 US Foreign Account Tax Compliance Act	11685
 USE COMPLEXITY	6432
+Ujiji MC Unqualified Compliant	19585
 Unified Government Complaints System	9414
 Union Completed	12657
+Unqualified Compliant	19585
+Unqualified Compliant Compliant	19585
+Unqualified Compliant Compliant PMO-RALG	19585
+Upper Completed Upper Upper Sec Completed	19542
 Urgence Complets	15711
 Urgence Complets TB Tuberculose ViH Virus	15711
 Use Transparency Data Quality Compliance Security	15034
@@ -1736,6 +1977,7 @@ Withdrawal of Complaints	17243
 Woman Superintendent of Police STATEMENT OF COMPLIANCE	14760
 Wood- Complete	16853
 Working Group Cloud Compliance Working Group	16924
+World Bank Implementation Completion and Results	19519
 World Bank Implementation Completion and Results Report	978,14408
 World Bank's Implementation Completion and Results Report	15377
 X Chief Complaints Investigator	13097
@@ -1745,6 +1987,9 @@ X Snr Complaints Investigator	13097
 XVI. Compliance	6612
 Year Completion	19249
 Yearly In Progress Completion Measurement IGF	17470
+Years and Above Completed Primary	19542
+Years and Above Completed Primary Education	19542
+Years and Above Completed Upper Secondary	19542
 Yes. POLICY COMPLIANCE	11965,3225
 Yet Due Completion Measurement Assessment	17470
 Yet Due Completion Measurement Fiduciary	17470
