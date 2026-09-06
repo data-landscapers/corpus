@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 05-09-2026 at 22:16 — Covering sources published on 5 and 6 September 2026
 window_start: 2026-09-05
 window_end: 2026-09-06
-items: 14
+items: 15
 collected_to: 2026-09-05 22:16
 compiled: 2026-09-05 22:16
 ---
@@ -97,6 +97,14 @@ The same workshop's other conclusion was that the state lacks a common direction
 </div>
 
 ### Legislation and regulation
+
+<div class="bulletin-item" data-places="TUN" markdown="1">
+
+**[مقترح قانون عدد 017 / 2024 يتعلق بتنقيح واتمام المرسوم عدد 54 لسنة 2022 المتعلق بمكافحة الجرائم المتصلة بأنظمة المعلومات والاتصال](https://www.arp.tn/loi/project/4139)** — Assemblée des Représentants du Peuple (ARP), 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
+
+Parliament's own case file for the bill amending Tunisia's 2022 cyber-offences decree-law puts dates on a revision that has been called a priority: deposited on 20 February 2024, referred to committee on 10 April 2025, carrying 38 sponsors, and still unvoted. The amendments themselves are not published on the page, so what the bill would change remains unstated.
+
+</div>
 
 <div class="bulletin-item" data-places="MDG" markdown="1">
 
