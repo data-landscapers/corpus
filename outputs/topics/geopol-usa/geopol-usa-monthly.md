@@ -3,13 +3,13 @@ title: US / hyperscaler activities — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: geopol.usa
-places: DJI; EGY; KEN; LSO; MUS; NGA; SEN; UGA; ZWE
-record: 44ccd157c59b
+places: DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; UGA; ZWE
+record: daf1768461d7
 ---
 
 # US / hyperscaler activities: monthly update, August 2026
 
-*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -36,6 +36,10 @@ The summit's other announcements differ in kind. The [Amazon memorandum was exec
 ## Nigeria
 
 The month's hyperscaler activity is a renewal rather than a new commitment. Google [gave students at accredited Nigerian universities, polytechnics and colleges of education twelve months of its AI Plus plan free, a subscription it prices at ₦92,400 (US$68.56)](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/), the second consecutive year of the offer and one of 27 Sub-Saharan rollouts, with eligibility verified through a third-party enrolment-checking platform. No cohort figure is published for Nigeria, and the take-up of the equivalent 2025 offer is not stated, so the programme's reach is unmeasured at both ends.
+
+## Sao Tome and Principe
+
+The United States mission [marked fifty years of diplomatic relations at a reception on 20 August 2026](https://ao.usembassy.gov/united-states-celebrates-250-years-of-independence-and-50-years-of-diplomatic-relations-with-sao-tome-and-principe/), at which the charge d'affaires met the foreign minister and the delegation visited the country's coastguard headquarters and maritime operations control centre, described as ongoing cooperation on maritime security. The release names the arrival of Starlink satellite internet among recent initiatives. The standing bilateral position is unchanged: [there is no bilateral investment treaty and no taxation treaty with the United States, and the development finance corporation is authorised to operate in the country but has run no programmes there](https://www.state.gov/reports/2025-investment-climate-statements/sao-tome-and-principe).
 
 ## Senegal
 

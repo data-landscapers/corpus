@@ -3,13 +3,13 @@ title: Training and skills — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: capacity.training
-places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 6b3c9a5b05ef
+places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: c751e32fdbfb
 ---
 
 # Training and skills: monthly update, August 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -152,6 +152,10 @@ A [diaspora health-workforce registry is described as newly launched](https://fm
 The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
 
 Where training did continue it went to the top of the system rather than the bottom. The United Nations development programme's quarterly account of 1 August records [artificial-intelligence trust-and-safety training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf). Participant numbers, curriculum and cost are not stated, and the funder's own newsletter is the only account of it held.
+
+## Sao Tome and Principe
+
+The national university [graduated at least 94 students on 24 August 2026, 79 of them women](https://rstp.st/2026/08/24/ustp-gradua-pelo-menos-94-estudantes-com-apelo-a-maior-responsabilidade-e-integridade/), across courses it lists as agronomy, languages, law, public relations, public administration, tourism and technologies. The source gives no breakdown by course, so how many are computing or telecommunications graduates is unstated, and [no official publication counts graduates by field of study, ICT graduate destinations or the size of the national ICT professional workforce](https://www.ine.st/phocadownload/userupload/Documentos/STPemNumeros/STPemNumeros%20%202017.pdf). It is the largest single addition to the graduate stock reported in this window, against [a domestic information and communication sector of six enterprises employing 209 people](https://www.ine.st/images/Imagens/RE/Relatorio%20%20RE2020_final_v06_Final_decinel_25-10-2021_revisadoFinal.pdf).
 
 ## Senegal
 

@@ -3,13 +3,13 @@ title: Access to services — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: include.access
-places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: 223e3643a9ee
+places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
+record: 5041cee7dab8
 ---
 
 # Access to services: monthly update, August 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -139,6 +139,10 @@ A [digital self-care platform went live for University of Lagos students](https:
 Away from the campuses, German cooperation [opened a tender on 4 August for the IT equipment of rural job centres in Ogun and Plateau States](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/), under a youth-employment project. A procurement notice fixes the equipment stage and nothing else: how many centres, at what cost, and when they open are all unstated.
 
 The accessibility requirement is not reaching the platforms it binds. [None of eight public websites audited in May 2026, among them the admissions board, the identity commission, the revenue service and the disability commission itself, had implemented baseline accessibility features; an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the technology agency's website guidelines and 14 sites unusable for people with disabilities; and the Nigeria Web Design Standards, launched in July 2025 with a toolkit promised within eight to ten weeks, had published none by August 2026 with no evidence of Federal Executive Council approval or of implementation](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/). The commission's own estimate is [35 million Nigerians with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
+
+## Sao Tome and Principe
+
+Two communities turned resident-identified priorities into completed works in six and a half months through pilot participatory budgeting exercises: [a paved stretch of the Estrada da Oficina in Alges, Cantagalo district, and a new water capture and distribution system with a decanting process at Ribeira Palma Praia, Lemba district](https://www.cascais.pt/noticia/orcamento-participativo-transforma-sao-tome-e-principe). The project was a partnership between two civil-society organisations and the two district councils, with support from a Portuguese municipality and the European Union, and residents took part at every stage from identifying the problem to delivering the investment. The publisher is the partner municipality rather than a Sao Tomean body, and the source describes pilot experiences rather than a national participatory budgeting system.
 
 ## Senegal
 

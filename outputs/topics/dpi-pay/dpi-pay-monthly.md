@@ -3,13 +3,13 @@ title: Digital Payments and Fintech — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.pay
-places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 61ed6263e54b
+places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 77439a9fabaf
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -195,6 +195,10 @@ One private figure crossed a round number. A digital bank [passed 30 million reg
 Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
 
 The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
+
+## Sao Tome and Principe
+
+The central bank [refreshed its payment-system statistics on 28 August 2026](https://www.bcstp.st/Banco-Central?x=wOgqPO8BlRrdHdPOd1%2BEuA%3D%3D&z=UaqDemAwZxwMBbembGGx9g%3D%3D), recording the internet banking series from 2014 and the interbank clearing series from 2013 as last published that day, and the payment-card operations series from 2011 as last published on 3 July. Its [payment systems report, which sets out developments in the national payment system and the most important clearing and settlement events](https://bcstp.st/Banco-Central?x=1TO4%2Bebti5rf2nJ1j8MKBg%3D%3D&z=C2im%2BH0SvXYxbX7SU4Hq3A%3D%3D), was last published on 17 April 2026. The instrument set behind the series has not changed - debit cards on a single domestic network, cheques and bank transfers - and no mobile money or wallet product appears anywhere in it.
 
 ## Senegal
 

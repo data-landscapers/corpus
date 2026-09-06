@@ -3,13 +3,13 @@ title: Standards — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 04146f9693dc
+places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: 7b3f951376c9
 ---
 
 # Standards: monthly update, August 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -111,6 +111,10 @@ The standards move of the month is aimed at the innovation estate rather than at
 ## Rwanda
 
 The [government-wide enterprise architecture framework, version 2.1, is in force to govern ICT architecture standards](https://risa.prod.risa.rw/fileadmin/user_upload/RISA/Publications/1.Guidelines/GOR_s_Enterprise_Architecture_Framework.pdf) and is now held in excerpt. It is distinct from the interoperability framework named in earlier academic work, for which the base still holds no separate instrument.
+
+## Sao Tome and Principe
+
+[BGFI Bank Sao Tome became the first bank in the country certified to ISO 9001:2015](https://www.telanon.info/economia/2026/08/03/53828/bgfi-bank-e-o-primeiro-banco-do-pais-certificado-pela-iso-90012015/), the certificate presented at a ceremony marking 55 years of its group in the presence of members of the government, the central bank and the diplomatic corps. The national quality body, an autonomous institute under the finance ministry, is [the country's correspondent member of the international standards organisation](https://www.iso.org/member/7310132.html) - the membership category for states without a fully developed national standards activity. A single private certification is the whole of the month's adoption record, and no public body is recorded as certified to any international standard.
 
 ## Senegal
 
