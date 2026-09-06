@@ -1,6 +1,10 @@
 A. Every	17127
 A. Every Council	6921
 A. QUALITY OF MONITORING AND EVALUATION	15424,87,90,62,68,1221,897,13
+A3.1.1 Evaluer	18286
+A3.2.1 Evaluer	18286
+A4.3.1 Evaluer	18286
+A4.4.2 Evaluer	18286
 ACCESSIBLE TO CITIZENS. Even	7362
 ACDT's Evelyn Kwarteng	2589
 ADMISSABILITY AND EVIDENTIARY WEIGHT OF ELECTRONIC	28
@@ -103,7 +107,7 @@ B. Evaluation	822
 B. Evaluations	16328
 B. Every	17127
 B. Results Monitoring and Evaluation	11525,3847,39,2030,17
-B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288
+B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288,1155,94,95,8
 B2- Evidence	7548
 BABINGUI Aurelien Evariste AFD Développement	16012
 BAFANDZA Lucile Evelyne UGP Informaticien	16012
@@ -158,6 +162,7 @@ C. Every	17127
 C. Monitoring and Evaluation	16975
 CA Evolution	17866
 CADRE DE SUIVI ET EVALUATION	16195
+CALL TO EVERY PARTNER Success	18263
 CAR’s Joint External Evaluation	10829
 CGE Commission for Gender Evaluation Equality PPPFA	11193
 CHALLENGES IN EVALUATING DPI	10852
@@ -174,6 +179,7 @@ CONGO FLOOD EVENTS	1828
 CONSTITUTIONAL EVOLUTION	3861
 CONSULTATiVE AND EViDENCE-BASED REGULATiONS	961
 COUNTRY LOCAL DPI USE-CASE EVALUATION APPROACH	10852
+CP Cours Préparatoire DECCS Direction des Evaluations	18171
 CUCI Impact Evaluation. Executive Summary	12978
 CUCI Process Evaluation	12978
 Caixa Vinti4. Evite	15445
@@ -264,6 +270,7 @@ D. Monitoring and Evaluation	11863,2075
 D2.2. Event	14020
 DATA AND EVIDENCE DRIVE POLICY	16892
 DCI AI Hub’s Global Evidence Review	11156
+DE COMMUNICATION ET DE SUIVI- EVALUATION	18100
 DE LA TARIFICATION EVOLUTION DE L’APPROVISIONNEMENT	15670
 DE SUIVI ET EVALUATION	15423
 DE SUIVI EVALUATION	10965,6880
@@ -323,6 +330,7 @@ Digital ID Solution Evaluation	1582
 Digital Products Everyday	4166
 Dimension Definition Suggested Indicators Evaluation Level	17157
 Direct Evolution	998
+Direction des Evaluations	18171
 Director General Princess Eva Cooper	17139
 Director of Monitoring and Evaluation Division	12978
 Disabilities Every	16887
@@ -400,6 +408,7 @@ EVALUATION DES PROGRES DANS LA MISE	17845
 EVALUATION DES RECETTES BUDGETAIRES Article	16047
 EVALUATION DES RECETTES BUDGETAIRES CHAPITRE	16047
 EVALUATION DES RESSOURCES ET DES CHARGES	16047
+EVALUATION FINANCIÈRE DU PLAN D'ACTIONS	18105
 EVALUATION FRAMEWORK	16041,1219
 EVALUATION FRAMEWORK The Monitoring and Evaluation	14935
 EVALUATION MATRIX	6432
@@ -419,6 +428,7 @@ EVC Plus. Through	6078
 EVC Tunji Bello	7181
 EVDO-CDMA	14856
 EVEIL DE MBAMA	15692
+EVENEMENTS DE LA COMMUNAUTE NDEKKI	18324
 EVENT	7785,366,716,6732
 EVENT DATE IS NOT THE PUBLICATION	8043
 EVENT Mogadishu	15170
@@ -439,6 +449,7 @@ EVERYBODY KNOWS	17585
 EVERYDAY BUSINESS IN ZAMBIA	13532
 EVERYDAY EVERYDAY ESSENTIALS ESSENTIALS Illustrative Use	14566
 EVERYONE ENJOYS SECURE LAND RIGHTS LAND	16916
+EVIAM	18104
 EVIDENCE	11156
 EVIDENCE AND FINDINGS	10852
 EVIDENCE AND VALUE FOR GOVERNMENT COLLABORATION	11006
@@ -451,7 +462,9 @@ EVIDENCE SYNTHESIS AND POLICY TRANSLATION	10852
 EVIDENCE-BASED POLICY IMPERATIVE	3861
 EVIDENTIARY SPINE FOR DIGITAL-BY-DEFAULT EXCLUSION	4793
 EVIDs	11115
-EVIEWS	236
+EVIEW	18291
+EVIEWS	236,17933
+EVIEWS CS-PRO STAT EXCEL R	18169
 EVIEWS Equation	236
 EVINAYONG CIUDAD	4209
 EVINAYONG PERIFERIA	4209
@@ -550,6 +563,7 @@ Ethiopian Birr EU European Union EV	12233
 Ethiopia’s EVIDENCE AND FINDINGS The Ethiopia	10852
 Europe T5 Building Vatican T4 Evolving	10764
 European Investment Bank. Every	11356
+EvIdenceAct	18154
 Eva Clemente Miranda	761
 Eva Kirch	765
 EvaSys	10919
@@ -559,7 +573,7 @@ Evaluación	1701,2508,12666,18,5,395,28
 Evaluación Técnica	16875
 Evaluación de Aprendizaje	4209
 Evaluar	1701,15197
-Evaluate	899,915,174,2622,1055,11,2870,577,2008,85,739,238,163,27,16,275,1,378,328,1143,253,41,129,50,247,968,621,106,8,4,12,48,7,131,8,210,328
+Evaluate	899,915,174,2622,1055,11,2870,577,2008,85,739,238,163,27,16,275,1,378,328,1143,253,41,129,50,247,968,621,106,8,4,12,48,7,131,8,210,328,614,61
 Evaluate Effectiveness of Tax Dialogues Comparison	17011
 Evaluate Identify	1000
 Evaluate Perceptions of Data Quality	17149
@@ -591,12 +605,12 @@ Evaluating the Conduct and Practice of Digital Lending	12227
 Evaluating the Impact of Digital Wallet Savings	17574
 Evaluating the Impact of Generative AI	11140
 Evaluating the Transitions	17870
-Evaluation	10,1,225,160,341,11,41,211,264,385,129,89,121,354,352,195,69,31,407,730,134,523,882,816,887,180,42,173,27,447,64,135,166,804,63,29,395,828,42,66,47,5,84,42,124,57,5,31,24,319,11,7,206,133,32,9,6,35,2,82,48,37,71,110,3,53,5,257,1,242,59,2,39,20,45,103,116,5,25,1,9,2,47,2,60,16,56,111,213,10,80,52,1,434,13,34,16,1,1,52,32,48,130,60,7,78,25,63,12,22,15,46,58,106,122,6,21,16,2,12,49,2,40,4,24,28,13,12,9,25,30,21,33,9,21,4,98,3,60,25,33,139,30,9,69,5,12,79,75,13,224,6,1,52,173,5,5,21,18,19,22,8,12,22,16,67,48,23,10,8,138,163,76,4,289,9,6,2,1,16,6,3,2,1,3,6,19,5,109,62,10
+Evaluation	10,1,225,160,341,11,41,211,264,385,129,89,121,354,352,195,69,31,407,730,134,523,882,816,887,180,42,173,27,447,64,135,166,804,63,29,395,828,42,66,47,5,84,42,124,57,5,31,24,319,11,7,206,133,32,9,6,35,2,82,48,37,71,110,3,53,5,257,1,242,59,2,39,20,45,103,116,5,25,1,9,2,47,2,60,16,56,111,213,10,80,52,1,434,13,34,16,1,1,52,32,48,130,60,7,78,25,63,12,22,15,46,58,106,122,6,21,16,2,12,49,2,40,4,24,28,13,12,9,25,30,21,33,9,21,4,98,3,60,25,33,139,30,9,69,5,12,79,75,13,224,6,1,52,173,5,5,21,18,19,22,8,12,22,16,67,48,23,10,8,138,163,76,4,289,9,6,2,1,16,6,3,2,1,3,6,19,5,109,62,10,18,93,88,4,1,1,4,5,3,11,2,10,3,70,2,1,9
 Evaluation AI	17884
 Evaluation Application	15192
 Evaluation Approach	12759
 Evaluation Area Criteria Description Weight Score	13031
-Evaluation Arrangements	10964,4832
+Evaluation Arrangements	10964,4832,2402
 Evaluation Assessment	12389
 Evaluation CADD Agence Nationale for Assessment Use	17845
 Evaluation Collection Specialist	16144
@@ -613,6 +627,7 @@ Evaluation Dashboard and KPIs	16600
 Evaluation Definition	11986
 Evaluation Description	11855
 Evaluation Division	16422,541
+Evaluation Environnementale	18104
 Evaluation Evaluation	7548
 Evaluation Forum	11193
 Evaluation Framework	6512,6405,88,78,1914,1988,131
@@ -636,7 +651,9 @@ Evaluation Long Term Department of E Government	12917
 Evaluation MASFAMU Ministry of Social Action	10768
 Evaluation MCC Millennium Challenge Corporation MICT	12962
 Evaluation MCNHRP Maternal and Child Nutrition and Health	16896
+Evaluation MCTDAT Ministry of Local Governments	18293
 Evaluation MDAs Ministries	3604,9727
+Evaluation MDCEST Ministry of Community Development	18301
 Evaluation MDM Master Data Management SITA	396
 Evaluation MDTF Multi-Donor Trust Fund MFD-e	16384
 Evaluation MEETS Meetings	5533
@@ -717,12 +734,15 @@ Evaluation des Chercheur	17827
 Evaluation des DNAT	17842
 Evaluation des Hôpitaux	17841
 Evaluation des Hôpitaux Result CCDSES Agence Nationale	17845
+Evaluation des Ministères	18291
 Evaluation des Normes	17830
 Evaluation des Normes du SIGE GTGEAP	17830
 Evaluation des Politiques	15678
 Evaluation des Politiques Publiques	4599,1146,9638,16
 Evaluation des Projets	17584
 Evaluation du Plan	10963,1,6863
+Evaluation du Potential Fiscal du Secteur Informel	18318
+Evaluation du Projet	18135
 Evaluation du Projet Comp	13737
 Evaluation of Bids	13185
 Evaluation of Bids Bids	14778
@@ -756,7 +776,7 @@ Evaluation.pdf A BLUEPRINT FOR CREATING	11133
 Evaluation.pdf Revolutionary Government of Zanzibar	11133
 EvaluationMetricsComputation Require	8606
 Evaluationofreal-	8606
-Evaluations	1131,7245,1812,3144,1806,520,187,3,88,1007,214,825
+Evaluations	1131,7245,1812,3144,1806,520,187,3,88,1007,214,825,122
 Evaluations Planification	17982
 Evaluations Scale Pilot	12356
 Evaluations and Lessons Learned	13989
@@ -764,7 +784,7 @@ Evaluations de Planification	17982
 Evaluative Chain	10726
 Evaluator Description MCC	15570
 Evalue	15568
-Evaluer	11944,1357,40,34,39,1160,1274,426,182,164,21,1183,11,1,9,27,10,19,17
+Evaluer	11944,1357,40,34,39,1160,1274,426,182,164,21,1183,11,1,9,27,10,19,17,373,6
 Evaluer le Schéma Directeur du Système CPS Etat	17845
 Evaluierungs-	384
 Evan Jones	10946
@@ -815,6 +835,7 @@ Evariste Rodrigue	16100
 Evariste YODA	3592,1125
 Evaristo Chilingue	6474
 Evaristus Njong	3090
+Evasion	18318
 Evasion of Tax	17108
 Evasion of Tax Miscellaneous Provisions	17108
 Evaton Ext	1009
@@ -831,6 +852,7 @@ Evelyn Nafula Ouma	3726
 Evelyn Ugbe	8662
 Evelyne Berthe	15744
 Evelyne Elsa Kaboré	10413
+Evelyne Guèye	18366
 Evelyne Madozein	15474
 Evelyne NIJIMBERE Odeline SABIYUMVA Paul NIMBONA	13300
 Evelyne Tchichelle	5021
@@ -948,7 +970,7 @@ EverseTech’s AI-as-a-Service	5368
 Everseen	4434
 Evert Bopp	7151
 Evert Vorster	12478
-Every	1,2,392,341,8,8,10,4,17,431,29,18,3,69,7,2,170,24,94,74,37,7,36,26,67,43,45,22,93,9,620,255,38,15,11,49,120,4,76,66,35,31,255,3,12,35,11,20,188,41,128,53,1,1,1,1,1,123,18,118,64,46,59,22,49,141,131,81,112,120,8,69,31,16,145,38,125,144,43,11,54,5,108,136,14,21,24,30,42,115,3,6,3,23,9,4,27,14,8,28,34,21,13,5,14,32,60,38,21,22,18,16,65,28,2,21,13,25,7,79,55,38,5,104,36,115,2,9,12,10,14,87,40,39,41,6,56,12,11,3,12,4,3,2,30,17,31,7,1,3,10,12,12,29,8,31,1,15,85,102,43,53,70,18,10,22,27,2,28,21,4,4,56,29,1,64,60,9,10,4,3,4,66,23,19,15,3,4,2,68,44,11,11,41,8,8,14,4,23,14,11,32,57,34,100,91,15,43,40,10,15,40,2,11,39,14,17,137,35,25,33,39,7,28,14,57,9,32,70,83,61,8,8,46,44,190,44,51,31,30,10,26,11,11,5,146,63,60,5,3,24,11,16,20,2,4,6,13,11,6,29,45,18,40,6,139,7,49,88,46,43,69,56,7,47,2,47,19,1,10,20,14,18,27,6,80,34,32,9,8,19,25,19,5,13,13,9,21,52,9,4,101,2,72,34,7,9,239,4,2,5,5,3,3,8,42,45,10,23,3,2,25,9,47,48,14,1,35,59,5,2,7,16,1,5,60,5,80,9,3,4,7,11,25,12,70,4,27,48,267,51,51,8,14,69,7,81,7,129,16,26,2,1,5,7,5,14,52,14,59,28,5,48,4,62,1,1,1,2,1,1,2,5,1,2,5,1,4,2,1,9,8,8,4,34,3,5,5,5,19,7,11,1,2,10,6,41,7,19,18,34,24,58,76,7,11,7,49,1,12,49,5,20,22,53,54,33,12,112,57,545,107,45,201,17,197,4,11,5,37,3,2,5,1,1,1,17,24,3,29,6,4,47,75,53,13,22,97,10,7,120,71,144,89,69,5,36,6,160,19
+Every	1,2,392,341,8,8,10,4,17,431,29,18,3,69,7,2,170,24,94,74,37,7,36,26,67,43,45,22,93,9,620,255,38,15,11,49,120,4,76,66,35,31,255,3,12,35,11,20,188,41,128,53,1,1,1,1,1,123,18,118,64,46,59,22,49,141,131,81,112,120,8,69,31,16,145,38,125,144,43,11,54,5,108,136,14,21,24,30,42,115,3,6,3,23,9,4,27,14,8,28,34,21,13,5,14,32,60,38,21,22,18,16,65,28,2,21,13,25,7,79,55,38,5,104,36,115,2,9,12,10,14,87,40,39,41,6,56,12,11,3,12,4,3,2,30,17,31,7,1,3,10,12,12,29,8,31,1,15,85,102,43,53,70,18,10,22,27,2,28,21,4,4,56,29,1,64,60,9,10,4,3,4,66,23,19,15,3,4,2,68,44,11,11,41,8,8,14,4,23,14,11,32,57,34,100,91,15,43,40,10,15,40,2,11,39,14,17,137,35,25,33,39,7,28,14,57,9,32,70,83,61,8,8,46,44,190,44,51,31,30,10,26,11,11,5,146,63,60,5,3,24,11,16,20,2,4,6,13,11,6,29,45,18,40,6,139,7,49,88,46,43,69,56,7,47,2,47,19,1,10,20,14,18,27,6,80,34,32,9,8,19,25,19,5,13,13,9,21,52,9,4,101,2,72,34,7,9,239,4,2,5,5,3,3,8,42,45,10,23,3,2,25,9,47,48,14,1,35,59,5,2,7,16,1,5,60,5,80,9,3,4,7,11,25,12,70,4,27,48,267,51,51,8,14,69,7,81,7,129,16,26,2,1,5,7,5,14,52,14,59,28,5,48,4,62,1,1,1,2,1,1,2,5,1,2,5,1,4,2,1,9,8,8,4,34,3,5,5,5,19,7,11,1,2,10,6,41,7,19,18,34,24,58,76,7,11,7,49,1,12,49,5,20,22,53,54,33,12,112,57,545,107,45,201,17,197,4,11,5,37,3,2,5,1,1,1,17,24,3,29,6,4,47,75,53,13,22,97,10,7,120,71,144,89,69,5,36,6,160,19,185,65,18,43
 Every AI	6214,306,1606,518,2666
 Every AI-related	3175
 Every African	6997,924
@@ -1020,7 +1042,7 @@ Everyday	9007,3875
 Everyday Essentials and Public Services Digital Government	14566
 Everyday Life. New York	8460
 Everyday People	5975
-Everyone	1750,557,743,1750,1803,345,37,379,107,11,295,248,13,427,85,1505,22,779,274,88,638,345,45,90,343,601,181,487,1051,341,1500,32
+Everyone	1750,557,743,1750,1803,345,37,379,107,11,295,248,13,427,85,1505,22,779,274,88,638,345,45,90,343,601,181,487,1051,341,1500,32,1304
 Everyone Counts	13367
 Everyone Else’s Problem	11006,1
 Everyone's Biometric Data On Feb	4997
@@ -1043,8 +1065,8 @@ Evidemment	11700
 Eviden	3700
 Eviden Information Technology	3700
 Evidenc	6432
-Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,115,123,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306,66,32,11,201,82,28,9,8,32,38,12,2,183,35,5,14,1,7,25,19,72,5,26,10,75,15,8,16,1,3,4,10,111,22,11,202,10,21,3,26,11,94,113,19,24,76,1,9,1,1,13,1,4,17,15,2,32,80,117,46,25,330,567,101,27,40,1,11,49,116,5,26,13,104,54,29,16,26,19,328,7,35,68,37,3,2,481,42,601,55,1,9,9,81,7,47,22,19,159,575,9,10,80,92
-Evidence Act	587,11067,199
+Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,115,123,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306,66,32,11,201,82,28,9,8,32,38,12,2,183,35,5,14,1,7,25,19,72,5,26,10,75,15,8,16,1,3,4,10,111,22,11,202,10,21,3,26,11,94,113,19,24,76,1,9,1,1,13,1,4,17,15,2,32,80,117,46,25,330,567,101,27,40,1,11,49,116,5,26,13,104,54,29,16,26,19,328,7,35,68,37,3,2,481,42,601,55,1,9,9,81,7,47,22,19,159,575,9,10,80,92,142,5,200,9,52
+Evidence Act	587,11067,199,6301
 Evidence Act Demystified With Recent	11654
 Evidence Act and Civil Procedure Act	14850
 Evidence Action Plan	10911
@@ -1132,6 +1154,7 @@ Evidence-informed	14922
 Evidence. International Development	15661
 Evidence. Studies	16922
 Evidence28	899
+EvidenceAct	18154
 Evidences the Baladna	5128
 Evidenciar	12796
 Evidencing	15492
@@ -1158,7 +1181,7 @@ Evironnementale	17845
 Evita Oma	3494,13681
 Evitar	1701,9734,6,101
 Evite	12169,3276
-Eviter	2697,11791,1,1,1052
+Eviter	2697,11791,1,1,1052,2755
 Evitez	12068
 Evocando	15477
 Evode	15255
@@ -1174,7 +1197,7 @@ Evolución de Repitientes de Escuelas Primarias	16920
 Evolución de Temperatura	16969
 Evoluer	17879
 Evolutif	15989
-Evolution	419,318,261,820,10,514,1983,134,217,1064,1219,831,1101,868,1085,12,2,107,10,10,170,408,693,157,899,2,10,66,24,4,34,134,91,321,481,9,1,1,75,250,81,25,135,164,227,8,20,5,62,41,9,31,47,15,77,86,151,38,212,78,1,37,343,6,125,63,33,66,115,627,117,6,1,12,3,14,11,71,78,20,1
+Evolution	419,318,261,820,10,514,1983,134,217,1064,1219,831,1101,868,1085,12,2,107,10,10,170,408,693,157,899,2,10,66,24,4,34,134,91,321,481,9,1,1,75,250,81,25,135,164,227,8,20,5,62,41,9,31,47,15,77,86,151,38,212,78,1,37,343,6,125,63,33,66,115,627,117,6,1,12,3,14,11,71,78,20,1,26,8,11,1,20,26,1,1,33,82,15,5,16,96
 Evolution Annuelle	15848
 Evolution Base Tarifaire SONATREL	10975
 Evolution Base Tarifaire SONATREL Evolution	10975
@@ -1188,14 +1211,24 @@ Evolution des DEEE	13324
 Evolution des Emplois	998
 Evolution des Emplois BANDE PASSANTE INTERNATIONALE	998
 Evolution des Investissements	998
+Evolution des Jardins	18171
+Evolution des Salles	18171
 Evolution des Taux	17843
 Evolution du Climat. GTP	16621
 Evolution du NDVI	17001
 Evolution du Parc	998
 Evolution du Parc Abonnés Internet Mobile	998
 Evolution du Parc Abonnés Internet Mobile L’augmentation	998
+Evolution du RMA	18322
 Evolution du Score	15474
-Evolution du Taux	998,9977,2415
+Evolution du TBS	18286
+Evolution du Taux	998,9977,2415,4781
+Evolution du Taux Brut	18171
+Evolution du Taux Brut de Préscolarisation	18171
+Evolution du Taux Brut de Scolarisation	18171
+Evolution du Taux Net	18171
+Evolution du Taux Net de Scolarisation	18171
+Evolution du Taux de Transition	18171
 Evolution du Trafic	13414
 Evolution du Trafic SMS	13324
 Evolution of AWI	12006
@@ -1273,7 +1306,7 @@ Executive Summary of Bid Evaluation Report Supply	14783
 Existence du Schéma Evaluer le Schéma Directeur du Système	17845
 Existing Forms of Safety Evidence	8301
 Experience of Sierra Leone and Senegal Evidence	12948
-Experimental Evidence	3604,7252,5410
+Experimental Evidence	3604,7252,5410,2052
 Expert Evidence	17243
 External Evaluation JEE Lower-Middle-Income Country LMIC	11417
 F Every	17127
@@ -1403,6 +1436,7 @@ I Every	17127
 I. EVALUATION OF FINANCIAL PART	15080
 I. Evaluation of Financial Parts of Bids	13185
 I. Every	17127
+I. Evolution	18418
 I.2- EVOLUTION DES INDICATEURS AU PREMIER	14548,71
 I.2. Evolution	13452
 I.3. Evolution	13452
@@ -1416,8 +1450,9 @@ IFPRI. Forsa Pilot Evaluation Baseline Survey	15663
 IFPRI. Impact Evaluation Report of Egypt’s Forsa	15663
 IFPRI. Impact Evaluation Study for Egypt’s Takaful	15663
 IHME Institute for Health Metrics and Evaluation	11887,266,1,9,178
-II. Evolution	13848
+II. Evolution	13848,4570
 II.6 Evaluation	15848
+III. Evolution	18418
 III.5. Evolution	13452
 IKOGHOU Frédéric Evrard Yeno	16381
 IM-managed Event Gateway	6423
@@ -1430,6 +1465,7 @@ INFRATEL Chief Executive Officer Dr Evans	14333
 INTERNATIONAL EVIDENCE	16991
 IV. EVALUATION DES IMPORTANCES DES IMPACTS	14489
 IV.1. Evaluation	17844
+IX. RESULTATS DES EVALUATIONS ET DES	18171
 Iciar Evaluation Title	13858
 Identify Indicators Planning Evaluation Monitoring	13991
 Illegal Land Eviction and Invasion	11188
@@ -1457,6 +1493,7 @@ Increased Prices of Goods and Services Evidence	14932
 Independent Evaluation	16921
 Independent Evaluation Board	13226
 Independent Evaluation Group	10779,531,2540,1038,2008
+Independent Evaluation Mechanism	18305
 Independent Evaluation Office BSG Budget Support	11863
 Independent Evaluation and Verification Panels	1988
 Independent Monitoring and Evaluation Framework	11857
@@ -1514,9 +1551,9 @@ Judge Eva Mappy Morgan	14318
 June. Everyone	8571
 K. Promotional Events	12977
 KENYA Even	899
-KEY DATES Key Events	13058,2101
+KEY DATES Key Events	13058,2101,2974
 KEY DATES Key Events Jun	6928
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1
 KEY DATES Key Events Planned Date	11924,6038
 KEY DATES Key Revisions Key Events	16436
 KT PRESS Every	8644
@@ -1537,7 +1574,7 @@ Kirsi Sayouba Evrad OUEDRAOGO	8321
 Kleeme Director of Monitoring and Evaluation	17260
 Knowledge Transfer Every	718
 Korea-Tanzania Healthcare Innovation Event	14398
-LLDCs. Evolution of ICT	10844
+LLDCs. Evolution of ICT	10844,7279
 LTE Evolution	15474
 LTE Long Term Evolution Figure	582
 LTE Long Term Evolution MB Megabytes	6671
@@ -1711,7 +1748,7 @@ Monitoring Vital Events Using Information Technology	10822
 Monitoring and Evalaution Officers	17116
 Monitoring and Evaluating	11006
 Monitoring and Evaluating Long-Term Impact	16963
-Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59,162,1,106,133,3,35,18,7,1,27,32,23,260,12,13,1,1,12,95,89,86,56,306,496,400,35,14,1,60,175,18,54,128,52,90,39,3,48,37,17,55,3,185,68,218,249,178,238,8,3,21,1,11,6,20,2,27,1,11,8,4,10,26,57,31,17,80,37,131,3,74,465
+Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59,162,1,106,133,3,35,18,7,1,27,32,23,260,12,13,1,1,12,95,89,86,56,306,496,400,35,14,1,60,175,18,54,128,52,90,39,3,48,37,17,55,3,185,68,218,249,178,238,8,3,21,1,11,6,20,2,27,1,11,8,4,10,26,57,31,17,80,37,131,3,74,465,453
 Monitoring and Evaluation A Monitoring and Evaluation	12453,892
 Monitoring and Evaluation Arrangements	16858
 Monitoring and Evaluation Association SCM Supply Chain	11224
@@ -1894,6 +1931,7 @@ ONC. Evoquant	17673
 OS2.I2 Evoluer	17860
 Objectives and Technological Evolution	13042
 Officer CMED Central Monitoring and Evaluation Division	12240
+Official Use Only Key Events	18350
 Official Use Only Key Events Planned	7877
 OfflineEventAttendanceMode Event	10244
 Ojukwu EV	17773
@@ -2005,6 +2043,7 @@ Proposal. G. EVALUATION OF TECHNICAL PART	15080
 Proposal. J. EVALUATION OF COMBINED TECHNICAL	15080
 Proposed Preliminary Eviden-	8301
 Provide Evidence	14828,3
+Provider M&EMonitoring and Evaluation MDAMinistries	18359
 Provincial Monitoring and Evaluation	13423
 Proyecto de Celebración de Eventos Tecnológicos	4209
 Proyecto de Evaluación	4209
@@ -2094,7 +2133,7 @@ STI Parks Evaluating	12786
 STRATEGY MONITORING AND EVALUATION	16968
 STRUCTURE AND EVOLUTION	14903
 SUBSEQUENT EVENTS	11955
-SUIVI ET EVALUATION	15722,126,347,425,1253
+SUIVI ET EVALUATION	15722,126,347,425,1253,232
 SUIVI ET EVALUATION ET FINANCEMENT	15501
 SUIVI ET EVALUATION VII.1 Suivi VII.1.1	15848
 SUMMURY OF EVENTS Project Consultancy	12693
@@ -2119,6 +2158,7 @@ Selection and Evaluation	9123
 Self-Reporting Evidence Portal	2445
 Sensitisation And Awareness Event Abuja	10909
 Serious Adverse Events	8831
+Service M&E Monitoring and Evaluation MEWSP Ministry	18104
 Services Built Around Life Events Government	14752
 Services M&E Monitoring and Evaluation MDAs Ministries	16860
 Set Clear Eligibility and Evaluation Criteria	12675
@@ -2132,6 +2172,7 @@ Small and Medium Enterprises. Even	7710
 Smart Africa and EAC Digital Programs. Event	13457
 Smart ID Card. Every	10185
 Social Evaluation	1284
+Social Management Framework EVIAM Household Survey	18104
 Social Media Regulation and Online Censorship Even	5215
 Social Specialist Evelyne Huguette Madozein Team	15601
 Solomon Islands Timor-Leste T4 Evolving Cambodia	10764
@@ -2166,10 +2207,14 @@ Strengthening Evidence of Competition Enablers	2199
 Strengthening System-Level Monitoring and Evaluation	14971
 Strengths Key Evidence Strengths	12210
 Studies and Evaluations	7313
+Studies and Impact Evaluation	18104
 Sub-Saharan Africa. Even	11140
 Substantial. Even	15553
 Success Metrics and Evaluation Framework	4528,7984
-Suivi Evaluation	10876,6951,34
+Suivez-Nous Departments Actualités Agenda Evènements	18409
+Suivi Eval	18291
+Suivi Evaluation	10876,6951,34,430
+Suivi Evaluation CETUD	18291
 Suivi Evaluation Gesellschaft	14425
 Suivi Evaluation. Article	14431
 Suivi- Evaluation	17899
@@ -2233,6 +2278,7 @@ Towards Evidence-based ICT Policy and Regulation Volume	16872
 Trace Sea Event	13042
 Track Every School And Learner	12061
 Tracks Apply Now View Schedule Event	18039
+Transcorp Event Center	18162
 Transfer EGDI E-Government Development Index EVC	16876
 Tribunal de Contas. Every	1339
 Trust Event Details	10707

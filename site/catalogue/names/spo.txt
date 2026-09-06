@@ -13,7 +13,7 @@ Age Spouse	14828
 Amaury Sport Organisation	8186
 Any Spouse	15247
 Arts and Development Funds Review of Sports	14546
-Association Sportive	10975
+Association Sportive	10975,7124
 Association Sportive Ball	17982
 Atlantis Sports Club Narraville Community Hall	13046
 Audi SQ5 Sportback	11036
@@ -50,6 +50,8 @@ DE L'ACCES AUX SPORTS ET AUX	15364
 DE LOISIRS ET DE SPORT Art	15732
 DECATHLON SPORTS KENYA LIMITED Data Controller	7167
 DES SPORTS	16099,76,206
+DES SPORTS ET DE LA CULTURE	18143,27
+DES SPORTS MP	18143,27
 DOMESTIC AND COMMERCIAL EQUIPMENT. ENTERTAINMENT. SPORTS	16900
 Data Sponsor	15034
 Department’s Renewable Energy Hub and Spokes Flagship	11281
@@ -58,6 +60,7 @@ Deputy Minister of Sports	13591
 Designation of Sport Disciplines	14843
 Devoluciones IVA Sportado	4209
 Devrient Christoph Lang Spokesman Corporate Communications	17536
+Direction des Sports	18143,27
 Direction du Sport	17899
 Dried Blood Spot	16922
 Développement du Sport	17991
@@ -96,6 +99,7 @@ Hospital Rundu Chiefs Sports Club Zealous	13046
 Houria MEDDAHI. MINISTERE DES SPORTS Arrêté	16230,114
 Household Categorization Spot Checks	16867
 ID. Spotlight	10977
+INSTITUT PRIVE DES ARTS ET SPORT	18170
 Information Exchange Sponsoring Office IA US	17880
 Intending Spouses	15056
 JEUNESSE ET DES SPORTS	15558
@@ -107,7 +111,7 @@ Kassala. The Ministry of Youth and Sports	15033
 Key Stakeholders Sponsor	10892
 Kigali Seals Landmark Rwf1 Billion-a-Year Sponsorship	3256
 L'ARTISANAT MINISTERE DES SPORTS	16344
-LA JEUNESSE ET DES SPORTS	15848
+LA JEUNESSE ET DES SPORTS	15848,2303
 Lead Financial Advisor Sponsoring Brokers	4896
 Limpopo's Department of Sport	8018
 Local Partners and Ministry of Youth and Sports	15033
@@ -165,6 +169,7 @@ Ministry of Youths and Sports MTEF Medium Term	16852
 Ministère Délégué En Charge Des Sports	15936
 Ministère des Sports	3396,12540
 Musique Théâtre Sports Arts	16092,1,37,97,148,111,41
+NDVI SPOT-VEGETATION	18304
 NIMC’s Spokesman	5321
 Nagalingum Minister of Youth and Sports Hon. Muhammad	14841
 National Sports Complex	14736,57
@@ -185,6 +190,10 @@ Official Spokesman's Platform Today	14914
 Ombudsperson for Sports	14742
 OpinionBI and Data AnalyticsData ManagementSITE SPONSOR	6107
 Orphans Twins Sponsored	16902
+PRIVE DE FORMATION DE SPORT ET	18170
+PRIVE DES SPORTS	18170
+PROGRAMMES D’EDUCATION PHYSIQUE ET SPORTIVE	18099
+PROGRAMMES D’EDUCATION PHYSIQUE ET SPORTIVE SECOND	18099
 PROSPER Sponsored	16853
 Palais des Sports de Treichville LES PLUS LUS	8755,4813
 Partnerships for Sport	13474
@@ -228,7 +237,7 @@ SPORTS AND VOCATIONAL TRAINING Data Controller	7167
 SPORTS ArrÍtÈ	15410
 SPORTS Arrêté	15602,6
 SPORTS ET DE L'EDUCATION PHYSIQUE	15999
-SPOT-VEGETATION	16026,1905
+SPOT-VEGETATION	16026,1905,373
 SPOT-VEGETATION de ESA. Ces	16411
 SPOT6	16359
 SPOTLIGHT	11902
@@ -293,7 +302,7 @@ Spoornet	15542
 Sporadic	15473
 Sporadic Registration	12333
 Sporrong	8606
-Sport	940,2456,1499,65,62,64,263,384,1324,1548,648,740,1142,45,35,1252,581,262,177,198,937,207,1025,82,1231,732
+Sport	940,2456,1499,65,62,64,263,384,1324,1548,648,740,1142,45,35,1252,581,262,177,198,937,207,1025,82,1231,732,420,30,82
 Sport By Naison Bangure Jun	6244,1
 Sport Club	11131,1711
 Sport Development	13474
@@ -312,8 +321,11 @@ SportTech	2715
 Sportal WhatsApp Loading	9736
 Sporting	14843
 Sporting and Recreational Activities	6946
+Sportive	18099
+Sportive I Instituteur IA Instituteur Adjoint	18171
 Sportive LOS	15673
-Sports	1594,326,955,2161,697,281,1656,173,135,28,220,11,32,52,313,84,166,7,765,48,289,32,380,1500,712,44,13,298,22,16,34,62,111,30,43,20,31,36,97,236,81,9,746,202,82,5,591,46,2,106,96,44,222,175,170,94,260,102,123,7,14,1,95,22,93,41,28,93,201,13,19,4,294,26,99,31,44,8,26,20,26,16
+Sportives	18099
+Sports	1594,326,955,2161,697,281,1656,173,135,28,220,11,32,52,313,84,166,7,765,48,289,32,380,1500,712,44,13,298,22,16,34,62,111,30,43,20,31,36,97,236,81,9,746,202,82,5,591,46,2,106,96,44,222,175,170,94,260,102,123,7,14,1,95,22,93,41,28,93,201,13,19,4,294,26,99,31,44,8,26,20,26,16,82,8,14,36,11,27,26,14,20,14,61,2,1
 Sports Academy	10399
 Sports Act	14742,101
 Sports Arbitration Tribunal	14742
@@ -376,7 +388,12 @@ State Department for Sports	6588,7958
 State Sponsor	14897
 State Sponsor of Terrorism List Poverty Survey	14897
 Système Intégré de Gestions du Ministère des Sports	15936
+T TRAN SPO RT PAR R	18322
 TOPIC SPOTLIGHT	11424
+TRA N SPO RT SU N	18322
+TRAN SPO RT ARO N	18322
+TRAN SPO RT KEU R MAALO	18322
+TRAN SPO RT PAR R OUTE	18322
 Talanta Sport City Project	14546
 Tankele Sports Ground	2669
 Tech IA Sport Culture	16242

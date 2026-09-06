@@ -239,6 +239,7 @@ Improved Maps and Spatial Data Infrastructure	16511
 Include Satellite Maps Include Live Support	15867
 Indicative Mapping of DigiComp	14897
 Infrastructure Map	15129
+Ingénieur des Travaux Statistiques MAPS	18291
 Inhambane and Maputo Province	12201
 Innovation Ecosystem Mapping	16973
 Innovations Ecosystem Mapping Technical Working Group	16973
@@ -290,7 +291,7 @@ M. Jessee Stanley MAPELA KOUMICKY	16175
 M. Thérence NZANGA MAPANGOU	16175
 MANDATORY DATA MAPPING REQUIREMENTS	13004
 MAP AND IDENTIFY POOR HOUSEHOLDS	11133
-MAP Meter Assets Provider MDA Ministries	12062
+MAP Meter Assets Provider MDA Ministries	12062,6124,31
 MAP OF RWANDA	15247
 MAP-AI	17771
 MAP-MALI	17812
@@ -373,6 +374,7 @@ Map of Rwanda	15056
 Map of West African	18091
 Map of Zambia	1988
 Map of Zimbabwe	13688
+Map. Plusieurs	18118
 MapAfrica	7784
 MapAfrica Platform	7784
 MapBiomas	16582
@@ -456,7 +458,7 @@ Maposte.ci	15936
 Mapou Record Centre	14746
 Mapou Records Centre Ministry of Labour	14746
 Mapped	6580,4214,6611
-Mapping	1009,819,268,2030,476,74,569,357,821,409,71,645,753,290,122,524,72,879,631,33,4,45,63,86,85,19,2,390,462,289,36,120,928,610,1043,95,124,32,57,131,242,45,148,43,649,276,529,343,32,129
+Mapping	1009,819,268,2030,476,74,569,357,821,409,71,645,753,290,122,524,72,879,631,33,4,45,63,86,85,19,2,390,462,289,36,120,928,610,1043,95,124,32,57,131,242,45,148,43,649,276,529,343,32,129,384,16
 Mapping AI Infrastructure Investment and Compute Governance	14673
 Mapping Accountability	5215
 Mapping African Digital Infrastructures	990,1
@@ -510,6 +512,7 @@ Mappingchinesemedicalentitiestothe	8606
 Mappingrelationaldatabasetofull-textXMLfor	8606
 Mappingresponsiblelearninganalytics	8602
 Mappr	9112
+Maproom	18131,178
 Maps Cadastral Services	12511
 Maps Cadastral Services Geodetic Services Land	12511
 Maps Comprehensive	1363
@@ -523,7 +526,7 @@ Mapulanga	2948
 Mapunda M. Tanzania	1261
 Mapunda&volume	1261
 Mapungubwe	17679
-Maputo	12,562,572,81,1,298,201,13,89,399,206,167,30,3,33,117,32,173,69,349,82,44,630,17,34,291,1,452,1,71,57,27,59,215,166,109,294,109,396,73,17,191,28,4,22,369,513,96,225,43,168,1,173,22,294,53,211,260,1,1,124,47,34,2,8,4,302,211,124,56,6,81,277,48,58,217,133,380,1,99,159,21,5,69,68,17,161,201,8,38,15,5,1,3,27,40,363,31,112,1,2,3,3,1,3,4,6,2,1,1,5,1,2,3,1,6,3,4,5,2,2,4,5,2,1,89,27,470,291,1202,538,27,1133,971,66
+Maputo	12,562,572,81,1,298,201,13,89,399,206,167,30,3,33,117,32,173,69,349,82,44,630,17,34,291,1,452,1,71,57,27,59,215,166,109,294,109,396,73,17,191,28,4,22,369,513,96,225,43,168,1,173,22,294,53,211,260,1,1,124,47,34,2,8,4,302,211,124,56,6,81,277,48,58,217,133,380,1,99,159,21,5,69,68,17,161,201,8,38,15,5,1,3,27,40,363,31,112,1,2,3,3,1,3,4,6,2,1,1,5,1,2,3,1,6,3,4,5,2,2,4,5,2,1,89,27,470,291,1202,538,27,1133,971,66,616,19,22
 Maputo Along	9446
 Maputo Caixa Postal	2474
 Maputo Cidade	12147
@@ -599,6 +602,7 @@ National Broadband Mapping System	12263
 National Broadband Mapping Systems	14035
 National Cyber Mapping	1000
 Natural. Ponds Map	15129
+NiMet's Maproom	18131
 Niassa and Maputo City	12201
 Niger River. Mapping	17405
 Nkurenkuru Community Hall Maporeza No.1 KHOMAS	13046

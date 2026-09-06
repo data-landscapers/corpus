@@ -1,3 +1,7 @@
+A1.3.6. Etablir	18286
+A3.3.1 Etablir	18286
+A5.1.3. Etablir	18286
+A9clamations Clients Etablissements Assujettis Contr	18292
 ABBAS MAHAMAT TOLLI Banque des Etats	11944
 ABS-SR ETAT	17845
 ACTEURS NON ETATIQUES Chapitre	15612
@@ -21,9 +25,10 @@ Acheter des DSGHP ETAT	17845
 Acronym Definition Acronym Definition ETA Electronic	11986
 Action V.5.1 Etablir	13306
 Activités Responsables ETAT	17845
+Afrique ETATS-NATIONS HACKERS ETATIQUES Vol	18317
 Agence des Etats Unis	14442
 Alliance des Etats du Sa-	6959
-Alliance des Etats du Sahel	3993,66,2900,711,567,7439,441
+Alliance des Etats du Sahel	3993,66,2900,711,567,7439,441,2039,21,35
 Alliance des Etats du Sahel. Pour	3592
 Alvin Etang Ndip	15064
 Ambassade des Etats-Unis	13724,4093
@@ -41,10 +46,11 @@ BCEAO Banque Centrale des Etats	11944
 BEAC BANQUE DES ETATS DE L'AFRIQUE	15935
 BEI Etat du Cameroun	15542
 BILAN Etablissement	17841
-Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489,1557,26
+Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489,1557,26,339,37,73,98
+Banque Centrale des Etats de I'Afrique de I'Ouest	18292,22
 Banque Mondiale. Banque des Etats	11944
 Banque de Développement des Etats	11944,1385
-Banque des Etats	969,330,4441,155,1368,3702,979,3410,85,3,1,31,8,1,10,49,38,354,1,66,46,223,97
+Banque des Etats	969,330,4441,155,1368,3702,979,3410,85,3,1,31,8,1,10,49,38,354,1,66,46,223,97,2022
 Banque des Etats de Article	15439
 Budget ETAT	10847
 Budget Etat	10874
@@ -52,6 +58,7 @@ CADD ETAT	17845
 CAMTEL Etat du Cameroun	15542
 CARACTERISTIQUES ET ETAT DES LOCAUX	10847
 CDPFIS ETAT	17845
+CEDEAO COMMUNAUTÉ ECONOMIQUE DES ETATS	18143,27
 CEMAC Etat	11944
 CFA Pourcentage ETAT PTF CT Axe	17842
 CHEFS D’ETAT CONFEDERATION DES ETATS	18032
@@ -88,17 +95,18 @@ Comité de Gestion des Etablissements Scolaires CE1	10847
 Commerce des Etats-Unis	15901
 Commission. Les Etats	14849
 Communauté Economique Des Etats	15475
-Communauté Economique des Etats	37,15379,84,42,94,163,49,151,328,288,12,998,203,2
+Communauté Economique des Etats	37,15379,84,42,94,163,49,151,328,288,12,998,203,2,270,16,194,12,41
 Communauté Monétaire des Etats	15354
 Communauté des Etats	8515,4937
 Communauté. La Communauté des Etats	13452
 Communautés des Etats Indépendants CELAB	13377
 Communiquer Implémenter Mesurer Ajuster Etat Final	748
+Compagnie Commune de Réassurance des Etats Membres	18182
 Conduire des DSGHP ETAT	17845
-Confédération des Etats	18003,29
+Confédération des Etats	18003,29,195
 Confédération des Etats du Amadou KEITA Sahel	18003
 Confédération des Etats du Collège des Chefs	18032
-Confédération des Etats du Sahel	1967,1,1427,739,2567,182,76,594,117,1138,479,55,6334,266,175,170,1716,29
+Confédération des Etats du Sahel	1967,1,1427,739,2567,182,76,594,117,1138,479,55,6334,266,175,170,1716,29,195
 Confédération des Etats du Sahel Ordonnance	18003
 Confédération des Etats du Sahel. Au	1968
 Confédération des Etats du Sahel. Il	7670
@@ -120,6 +128,7 @@ DE LA RELATION ENTRE UN ETABLISSEMENT	14417
 DE LA SNDS IV. ETAT	15381
 DES CAPACITES D'ACCUEIL DANS LES ETABLISSEMENTS	15674
 DES CAPACITÉS D'ACCUEIL DANS LES ETABLISSEMENTS	15674
+DES CLIENTS DES ETABLISSEMENTS ASSUJETTIS AU	18292
 DES ETABLISSEMENTS ASSUJETTIS Article	15482
 DES ETABLISSEMENTS DE LOI N	17861
 DES ETABLISSEMENTS DE PAIEMENT ET	17858
@@ -129,6 +138,7 @@ DES ETATS ARABES Article	15410
 DES ETATS DE L’AFRIQUE DE L’OUEST	17816
 DES ETATS DE MINISTÈRE DE L’EDUCATION	17830
 DES ETATS DU SAHEL	18003
+DES ETATS MEMBRES DE L'UNION ECONOMIQUE	18314
 DES FOYERS ENRÔLEMENT BIOMÉTRIQUE ETAT CIVIL	14480
 DESIGNATION ETAT ADEN ARPCE ARTF ANSSI	16047
 DESIGNATION ETAT FIGA FONEA ACPE FNH	16047
@@ -194,8 +204,10 @@ ETABLISSEMENTS D’ENSEIGNEMENT SUPERIEUR Version	15568
 ETABLISSEMENTS FINANCIERS ET AUTRES ASSUJETTIS Chapitre	15594
 ETABLISSEMENTS PUBLICS EN FONCTIONNEMENT APPUI AU	15999
 ETAEG1	14897
+ETAFAT	18410
 ETAMBA	15692
 ETAMSYLATE FACTEURS SANGUINS IMMUNOGLOBULINE HUMAINE ANTI	15930
+ETAPES ACTIVITES PERIODE Novembre	18143
 ETAPES PRETRAITEMENT ACTIVITES Emballage	14423
 ETAPS de Sampaka	4209
 ETARIALOENERAL	15999
@@ -216,9 +228,11 @@ ETAT DE COTE D’IVOIRE SODEMI	2342
 ETAT DE L'ENCOURS DES CREDITS DES	18032
 ETAT DE LA SANTE	15685
 ETAT DE MISE EN	3396
-ETAT DE PREPARATION DU PAYS	13717
+ETAT DE PREPARATION DU PAYS	13717,4388
 ETAT DE SANTÉ ET DÉTERMINANTS	17843
 ETAT DES BAOBAB DIMF CREDITS EN	18032
+ETAT DES CAPACITES ET BESOINS POUR	18286
+ETAT DES DISPARITES DE GENRE DANS	18286
 ETAT DES INFORMATIONS BAOBAB MALI ANNEXES	18032
 ETAT DES LIEUX DE L'INCLUSION FINANCIÈRE	5928
 ETAT DES LIEUX DES PLAINTES O2	15670
@@ -230,10 +244,12 @@ ETAT DES VALEURS IMMOBILISEES DIMF	18032
 ETAT DETAILLE DES TAXES DEDUCTIBLES Cette	6954
 ETAT DU PARC AUTOMOBILE DE L’APDP	10821
 ETAT DU SECTEUR DE L'ÉNERGIE	15769
+ETAT DU SYSTEME STATISTIQUE NATIONAL EN	18169
 ETAT D’ACTIVITE ET REPARTITION SPATIALE DES	10875
 ETAT D’EXECUTION DU PLAN STRATEGIQUE AU	17872
 ETAT ET	15397
 ETAT PTF CT Total Axe	17842
+ETAT Programme	18286
 ETAT SYNOPTIQUE DE LA SITUATION DES	4459
 ETAT-MAJOR	15744,157
 ETAT-MAJOR Arrêté	15901
@@ -243,11 +259,14 @@ ETAT-MAJOR Maréchal	15692
 ETAT-MAJOR SECTION	15744
 ETATIQUES	10965
 ETATS DE L’AFRIQUE DE L’OUEST	17828
+ETATS DE L’AFRIQUE DE L’OUEST CNIL	18105
 ETATS DU SAHEL	18003,29
+ETAX Etax	18424
 ETUDE ET ETAT DES TRAVAUX	14488,1,1
 Economique des Etats	15395,57
 Education des Etats	11905
 El Jeilani Ould Cheikh Mohamed Etablissements	17895
+Electricité USD Dollar des Etats-Unis	18103
 Electrification Rurale AES Alliance des Etats du Sahel	15769
 Elimination Etape	14423
 Emploi EMF Etablissement de Micro Finance ECAM	10965
@@ -256,12 +275,12 @@ Es RENoUvEtABLES PROJETS D'ENERGIES RENOWELABLES ETAT	14479
 Et Les Etablissements Royal Food	15426
 Eta Epsilon Lambda	16961
 Etabli	15569
-Etablir	747,258,7886,2015,59,2325,11,5,108,305,769,1,1,982,21,49,41,41,88,73,585,249,1216,1,9,1,26
+Etablir	747,258,7886,2015,59,2325,11,5,108,305,769,1,1,982,21,49,41,41,88,73,585,249,1216,1,9,1,26,227,203
 Etabliruncadredegestionpourengager	15525
 Etablis-	15426,2386
 Etablisse-	17812
-Etablissement	737,2913,112,7074,11,28,90,557,45,377,1346,85,77,260,113,598,926,5,8,38,56,81,10,47,8,33,39,64,48,463,95,292,849,327,7,1,1,14,6,17,14,2,21,6,131,61
-Etablissement Public	7993,3604,1704,524,606,951,35,2394,33
+Etablissement	737,2913,112,7074,11,28,90,557,45,377,1346,85,77,260,113,598,926,5,8,38,56,81,10,47,8,33,39,64,48,463,95,292,849,327,7,1,1,14,6,17,14,2,21,6,131,61,2,4,22,48
+Etablissement Public	7993,3604,1704,524,606,951,35,2394,33,261,46,18,22,36,11
 Etablissement Public Administratif	10975,1268,1480,2914
 Etablissement Public National	14451
 Etablissement Specialise FSP	14442
@@ -271,7 +290,9 @@ Etablissement de Microfinance. Taux	11944
 Etablissement des Statistiques	15599
 Etablissement. Dans	13843
 Etablissement. L'Agence Nationale	13825
-Etablissements	10836,731,377,1508,16,357,617,992,117,17,1,66,2,6,86,207,6,57,118,496,836,36,327,9,3,4,54,17,83,21,29
+Etablissements	10836,731,377,1508,16,357,617,992,117,17,1,66,2,6,86,207,6,57,118,496,836,36,327,9,3,4,54,17,83,21,29,69
+Etablissements Classés	18293
+Etablissements Classés DEEG	18291
 Etablissements Classés DG	16621
 Etablissements Emetteurs de Monnaie Electronique	13452
 Etablissements F.A.C	13377
@@ -287,10 +308,11 @@ Etablissements MINISTERE DE LA COMMUNICATION	17899
 Etablissements Missions	17446
 Etablissements Privés	17829
 Etablissements Publics	13329,496,606,951,36,94,131,356,612,19,7,1174,1,5,12,16,29
-Etablissements Publics Administratifs	13923
+Etablissements Publics Administratifs	13923,4432
 Etablissements Publics Caisse Nationale de Solidarité	17895
 Etablissements Publics Nationaux	2808,15009,128
 Etablissements Publics Office National des Musées Directeur	17895
+Etablissements Publics de Sante	18297
 Etablissements Royal Food	15426
 Etablissements Royal Food’s	15426
 Etablissements Royal Food’s. Article	15426
@@ -305,7 +327,8 @@ Etablissements de Santé	17861
 Etabllssements Publics	16611
 Etage	13467,88,3192
 Etage Partie	15555
-Etaient	6300,7274,2676,1595
+Etage Tél	18315
+Etaient	6300,7274,2676,1595,477
 Etait-il	9731
 Etalement	18032
 Etalon	7670,3205
@@ -316,17 +339,19 @@ Etambar	17819
 Etamen	11642
 Etamen Ala El Akhar	11642
 Etanislas Ngodi	17545
-Etant	10826,139,2425,1060,973,70,99,79,14,222,421,298,1197,43
+Etant	10826,139,2425,1060,973,70,99,79,14,222,421,298,1197,43,237,183,5,92
 Etapa	12142
 Etapa Para A UEM	8827
 Etapas	11406,492,3666
 Etapas da Triagem Ambiental	11406
 Etape	747,12628,1048,1,1,63,1,1,1090,1954,310
 Etape Description Réception Enregistrement	15908
-Etapes	13513,910,1247,238,720,906
+Etapes	13513,910,1247,238,720,906,781
 Etapes Actions	15908
 Etapes Délais	15908
 Etapes du Règlement	14424
+Etat ADL	18291
+Etat AFIS Automated Fingerprint Identification System	18290
 Etat AMPLIATIONS	16080
 Etat ANIEN Agence Nationale	16626
 Etat ATS Automated Transfer System CBD	13836
@@ -343,6 +368,8 @@ Etat Article	13330,2239,608,1652,32,142
 Etat Au	17824
 Etat Aurelie	15525
 Etat Azali Assoumani. Plusieurs	13790
+Etat Bailleurs	18291
+Etat Bailleurs Valeur	18291
 Etat Bamako	17899
 Etat Bien	15690
 Etat Blaise LOUEMBE	15371
@@ -355,15 +382,18 @@ Etat COMMUNIQUE DE PRESSE N	13329,116
 Etat CPS	17842,235
 Etat CT PTF Résultats	17842
 Etat CT Privé PTF Ensemble	17946
+Etat CYBER SECURITE OFFENSIVE	18317
 Etat Centrafricain	10826,4525,292
 Etat Cependant	13530
 Etat Chargé	15366
 Etat Chargé de I'Economie	15400
 Etat Chargé du Secrétariat	10821
 Etat Cible	15936
-Etat Civil	5135,2858,1675,1144,108,18,2354,542,409,188,109,882,108,30,25,14,204,133,170,423,4,118,803,368,20,3,37,18
+Etat Civil	5135,2858,1675,1144,108,18,2354,542,409,188,109,882,108,30,25,14,204,133,170,423,4,118,803,368,20,3,37,18,338,52
 Etat Civil Article	15560
 Etat Civil BUCREP Bureau Central des Recensements	15501
+Etat Civil CNI Carte Nationale	18290
+Etat Civil CNS	18291
 Etat Civil Chimène NDONKEP	15599
 Etat Civil DGTD	15639
 Etat Civil Division	15599
@@ -372,6 +402,8 @@ Etat Civil Fonctionnalités	15936
 Etat Civil Les Centres	15599
 Etat Civil Malagasy	14420
 Etat Civil Missions	17446
+Etat Civil RAVEC Recensement Administratif	18290
+Etat Civil RNPP Registre National des Personnes	18290
 Etat Civil Résultat	3396
 Etat Civil URL	17900
 Etat Civil du Cameroun	15599
@@ -379,6 +411,7 @@ Etat Civil du Ministère	16616
 Etat Civil. Article	15560
 Etat Civil. Ce	15560
 Etat Civil. Conformément	15599
+Etat Civil. En	18238
 Etat Civil. Ils	15560
 Etat Civil. Le Responsable du Centre	17900
 Etat Civil. L’Assemblée Nationale	17900
@@ -387,11 +420,14 @@ Etat Civil. Selon	9567
 Etat Civil. Si	17900
 Etat Collectivit APE Promoteur Plan BF	10847
 Etat Collectivité APE Promoteur Plan BF	10847
+Etat Comme	18291
 Etat Contrôle	15624
 Etat Cote	15624
+Etat Cour de Cas	18111
 Etat D6ji	14479
 Etat DBDR	16365
 Etat DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
+Etat DS	18111
 Etat Denis SASSOU-NGUESSO	15423
 Etat Depuis	15722
 Etat Direction du Portefeuille des Secteurs Primaires	2342
@@ -425,6 +461,7 @@ Etat IGF Inspection	18015
 Etat IHH Indice de Herfindahl-Hirschman IMF Institution	16626
 Etat II.5.1 Objectif	15722
 Etat IMC Trop	13300
+Etat IMF Institution de Micro Finances INPS	18286
 Etat INFORMATIONS GÉNÉRALES	2342
 Etat Il	16627
 Etat Jérôme NIYONZIMA	13445
@@ -437,6 +474,7 @@ Etat Le Plan	15722
 Etat Le Président	17829
 Etat L’Administration	15722
 Etat L’Etat	15426
+Etat Macky Sall	18308
 Etat Malagasy	14438,1,196
 Etat Malagasy. Elle	14479
 Etat Malagasy. L'enrôlement	14579
@@ -454,6 +492,7 @@ Etat Octroyer	14479
 Etat Optimiser	15999
 Etat Oued Goussine Ifelain Ilmathen Tala	15690
 Etat P	15624
+Etat PAJEF Programme	18286
 Etat PNDES Plan	16620
 Etat Page	16365
 Etat Part PFP	2342
@@ -482,6 +521,7 @@ Etat Seul	1291,1,1,1,1,1,761,1,1,1,1,1,982,145,1181,1,1,1,1,1,8,1443
 Etat Société Nationale	15936
 Etat Son Excellence Décret	17861
 Etat Son Excellence Monsieur Bah N’DAW	17861
+Etat Souverain	18310
 Etat Stratégie Nationale	15624
 Etat Structures	10858
 Etat TIONS ENTRE L’ADMINISTRATION ET	17812
@@ -495,12 +535,15 @@ Etat XXVI	3396
 Etat Zone	16047
 Etat de Côte	1301,1041,411,12956,659,47
 Etat de Djoué-Léfini	16367
+Etat de Droit	18310
+Etat de Droit Pluraliste	18310
 Etat de Loi	17833,199
 Etat de Madagascar En	14635
 Etat de Préparation	15575,105
 Etat de Préparation du Bénin	15575
 Etat de Subvention-Etat	2342
 Etat de Suisse	17824
+Etat de Sénégal	18286
 Etat des Lieux	15968
 Etat du Burkina	1967
 Etat du Burkina Faso	15792
@@ -514,25 +557,31 @@ Etat du Cameroun Etat du Cameroun Etats du Cameroun	15542
 Etat du Congo X X X X	15673
 Etat du Dans	13405
 Etat du Kouilou	16367
+Etat du Koweit. AU TITRE DU MINISTERE	18116
 Etat du Mali	1967,15855
 Etat du Mali. Article	18003
 Etat du Mouvement	2377
-Etat du Niger	1967
+Etat du Niger	1967,16133,22,28,72,5,11,37
 Etat du Président	15722
 Etat du Qatar	13405
-Etat du Senegal	5022
-Etat du Sénégal	7501,3638
+Etat du Senegal	5022,13274
+Etat du Sénégal	7501,3638,7147,2,2,5,27,2,71
+Etat du Sénégal. Cette	18295
 Etat du Vatican	13405
 Etat' Fait	15399
+Etat''. Cette	18216
 Etat-	15722,2095,165
 Etat- ABROGATION DE DISPOSITIONS DU DECRET	17817
+Etat- Commune	18096
 Etat- RESA	969
 Etat-CIPREL	2342
-Etat-Civil	16593
+Etat-Civil	16593,1715
 Etat-La Poste Burkina Faso	4399
 Etat-Major	17817
+Etat-Major Particulier du Président	18216
 Etat-Major des Forces Armées	16370
 Etat-Opérateur	998
+Etat-PTF	18166
 Etat-Partie	15495
 Etat-civil	16543,1301
 Etat-civil. L'atelier	16543
@@ -542,6 +591,8 @@ Etat-major Décret	17982
 Etat-major Particulier du Président	17982
 Etat-major de Groupement	17982
 Etat-major de Normalisation	17982
+Etat-région	18096
+Etat-secteur	18400,2,1
 Etat. Ainsi	113,672,1016,9024,4540,177
 Etat. Alors	6889
 Etat. Améliorer	15722
@@ -551,9 +602,10 @@ Etat. Arrête	15439
 Etat. Art	436,14996,2,22,51,87,728
 Etat. Art.59- Montant	14412
 Etat. Art.60- Publicité	14412
-Etat. Article	17,96,672,446,7959,1635,2467,418,9,712,922,26,26,15,6,5,8,16,10,23,36,79,12,45,118,2,6,6,482,182,1361,8,4,2,43,12,14,103
-Etat. Au	2342,3168,1786,4301,2634,1491
+Etat. Article	17,96,672,446,7959,1635,2467,418,9,712,922,26,26,15,6,5,8,16,10,23,36,79,12,45,118,2,6,6,482,182,1361,8,4,2,43,12,14,103,93,23,192
+Etat. Au	2342,3168,1786,4301,2634,1491,2560
 Etat. Aussi	7553
+Etat. Avec	18291
 Etat. B- Des	16020
 Etat. B. Au	16047
 Etat. B2G Payeurs Entreprise	10711
@@ -562,6 +614,7 @@ Etat. Bref	13377
 Etat. C'est	3591
 Etat. CHAPITRE	15598,2301
 Etat. CHAPITRE III	15584,2227,10
+Etat. CHAPITRE V	18119
 Etat. CHAPTER VI	14863
 Etat. Caractère	18003
 Etat. Ce	14417,1305
@@ -571,7 +624,7 @@ Etat. Certaines	15673
 Etat. Ces	2342,2437,3542,5131,2090
 Etat. Cesadministrationssontdénommées	15525
 Etat. Cet	15712
-Etat. Cette	2738,3329,1357,6009,1048,1019
+Etat. Cette	2738,3329,1357,6009,1048,1019,2729
 Etat. Chapitre	15594,9,1013
 Etat. Chapitre II	15597
 Etat. Chapitre IV	15778
@@ -579,7 +632,7 @@ Etat. Conakry	16612
 Etat. Créée	2342
 Etat. C’est	4779
 Etat. DES PARTIS POLITIQUES ET	15405
-Etat. Dans	2342,12231,863
+Etat. Dans	2342,12231,863,2660,190
 Etat. Depuis	15542
 Etat. Dispositions	14488,1,1
 Etat. Donc	6889
@@ -591,12 +644,12 @@ Etat. D’autres	17824
 Etat. Economie	13464
 Etat. Edition	16047
 Etat. Effectif	2342
-Etat. Elle	2342,8313,261,2489,1007,964,204,23,70,49,7,1711
+Etat. Elle	2342,8313,261,2489,1007,964,204,23,70,49,7,1711,656,226
 Etat. Elles	4383,11397,391
-Etat. En	2808,1937,3492,2729,173,4464,82,27,308,1979
+Etat. En	2808,1937,3492,2729,173,4464,82,27,308,1979,106,193
 Etat. Est	13330
 Etat. F. CADRE INSTITUTIONNEL DE MISE	17842
-Etat. Fait	435,1,112,14828,3,41,44,1,23,110,14,168,68,172,27,224,185
+Etat. Fait	435,1,112,14828,3,41,44,1,23,110,14,168,68,172,27,224,185,1641,9,221,5
 Etat. Fournisseur	16615
 Etat. Graphique	2342
 Etat. Grâce	12
@@ -610,26 +663,30 @@ Etat. II. COMMUNICATIONS ORALES II.1	15942
 Etat. ISLAMIQUE POUR LE DEVELOPPEMENT	17829
 Etat. IV.1.1.8.5 Cas	10876
 Etat. IV.4	15722
-Etat. Il	2342,10950,2113,27,110,27,34,100,19,643,5,1629
+Etat. IX. AU TITRE DU MINISTERE	18238
+Etat. Il	2342,10950,2113,27,110,27,34,100,19,643,5,1629,97,38
 Etat. Il. Recettes	15999
-Etat. Ils	113,1463,1469,7428,5230,54,23,267
+Etat. Ils	113,1463,1469,7428,5230,54,23,267,2244
 Etat. Intégrité	13719
 Etat. Je	7424
 Etat. L'adoption	16117
 Etat. L'attestation	15933
 Etat. L'autorité	15767
 Etat. L'avenir	15596
+Etat. L'efficience	18117
 Etat. L'on	3993
 Etat. La Banque	15594
 Etat. Le Conseil	16117
 Etat. Le Conseil des Ministres	2342
 Etat. Le Gouverneur	15727
 Etat. Le Premier	15488
+Etat. Le Président du Conseil	18101
 Etat. Le Tout	15596
 Etat. LesprincipesdirecteursetrèglesdelaPSSIE	15525
 Etat. Leurs	16047
 Etat. Lorsque	15405
 Etat. L’APDPVP	1231
+Etat. L’ARCEP	18122
 Etat. L’Etat	13292
 Etat. L’adoption	8321
 Etat. L’allocation	16085
@@ -645,11 +702,13 @@ Etat. Mesdames	16620
 Etat. Modernisation	15936
 Etat. Moi	2514
 Etat. Monsieur le Délégué	2513
+Etat. Nonobstant	18096
 Etat. Notons	5471
 Etat. Néanmoins	15500
+Etat. OS-4.1	18319
 Etat. PP-G N	8321
 Etat. Palais	15584
-Etat. Par	15542,161
+Etat. Par	15542,161,2619
 Etat. Paragraphe	13330,2239
 Etat. Parce	6889
 Etat. Parmi	737
@@ -667,11 +726,13 @@ Etat. Rahila Tagou	7348
 Etat. S	15542
 Etat. SECTION	16047
 Etat. SECTION II	17874
-Etat. Sa	15722
-Etat. Section	113,13179,1120,1022
+Etat. SOURCE ET CRÉDITS	18308
+Etat. Sa	15722,2566
+Etat. Section	113,13179,1120,1022,2663
+Etat. Selon	18096
 Etat. Si	15727
 Etat. Snedai Côte	1576
-Etat. Sont	14444
+Etat. Sont	14444,3652
 Etat. Sur	4812
 Etat. TITRE	15405
 Etat. TITRE IV	15703
@@ -701,9 +762,10 @@ EtatCivil	13761
 EtatPM.asp	15614
 Etataux	15624
 EtatdepositionnerlaPSSIE	15525
+Etatet le Ministère	18100
 Etatetdes	15525
 Etatpermettrad'améliorerleurniveaudematuritéenmatière	15525
-Etats	643,94,494,736,475,117,49,200,237,214,97,109,112,15,92,35,318,422,977,597,34,96,293,159,116,228,320,75,316,402,165,79,417,75,479,55,895,90,44,32,70,238,125,13,26,13,604,30,27,18,133,244,124,1222,74,41,304,19,214,359,111,38,9,390,503,2,3,5,33,10,5,13,3,16,10,2,1,9,10,5,3,6,7,5,8,34,38,4,31,20,8,28,2,3,9,27,32,13,10,3,22,5,37,3,11,53,41,57,48,37,1,32,22,35,3,73,9,11,52,1,5,7,78,12,26,164,2,4,6,494,203,31,84,1,3,28,154,187,4,3,9,1,1,1,25,7,3,4,12,3,60,4,29,13,64,8,14
+Etats	643,94,494,736,475,117,49,200,237,214,97,109,112,15,92,35,318,422,977,597,34,96,293,159,116,228,320,75,316,402,165,79,417,75,479,55,895,90,44,32,70,238,125,13,26,13,604,30,27,18,133,244,124,1222,74,41,304,19,214,359,111,38,9,390,503,2,3,5,33,10,5,13,3,16,10,2,1,9,10,5,3,6,7,5,8,34,38,4,31,20,8,28,2,3,9,27,32,13,10,3,22,5,37,3,11,53,41,57,48,37,1,32,22,35,3,73,9,11,52,1,5,7,78,12,26,164,2,4,6,494,203,31,84,1,3,28,154,187,4,3,9,1,1,1,25,7,3,4,12,3,60,4,29,13,64,8,14,23,5,11,3,32,26,4,105,24,4,8,1,4,2,3,45,11,1
 Etats Arabes	15410
 Etats BAMAKO SISE A ACI	17817
 Etats Convention	15488
@@ -713,6 +775,7 @@ Etats Généraux du Numérique	15901
 Etats Généraux. POINT DE SITUATION DES	15673
 Etats Généraux. Specifically	11905
 Etats Généraux. Toutefois	15673
+Etats Islamiques	18204
 Etats Membres	15500,401,294,1678
 Etats Membres. Ils	13324
 Etats Notons	10849
@@ -720,14 +783,14 @@ Etats Parties	15488
 Etats Parties. Article	15792
 Etats Pays	17945
 Etats Proportion	15999
-Etats Unis	15542,2365,10
+Etats Unis	15542,2365,10,199
 Etats Vu	15488
 Etats Vu la Loi	17899
 Etats de I'Afiique Centrale	15443
 Etats du Sahel	6959,711,10333
 Etats- STATUANT EN CONSEIL DES MINISTRES	17817
 Etats-Membres	13325
-Etats-Unis	2413,395,657,3798,4865,1596,1686,29,36,67,359,6,288,54,1,73,44,1450,24
+Etats-Unis	2413,395,657,3798,4865,1596,1686,29,36,67,359,6,288,54,1,73,44,1450,24,519
 Etats-Unis Article	17817
 Etats-Unis URL	13724
 Etats-Unis. Faut-il	10437
@@ -741,6 +804,7 @@ Etats-unis	4327
 Etats. Article	13709
 Etats. Ce	2738
 Etats. Il	8733,6835
+Etats. La Mission	18310
 Etats. Pour	2400
 EtatsUnis	15542
 Etatàtraversunenvironnement	15624
@@ -758,6 +822,7 @@ FORMATION HABILITEES DE CERTAINS ETABLISSEMENTS PUBLICS	17829
 FOSA Action V.5.3 Etablir des PPP	13306
 FOSA Etablir des PPP	13306
 Financement Etat	3396,7451
+Finances des Etats	18181
 Financières BEAC Banque des Etats	11944
 G ETABLISSEMENTS DIOMANDE	16623
 G.M.T. SECR ETARY	16851
@@ -801,6 +866,7 @@ Identification Unique Envoi Convertisseur Collecte Etat	14480
 Ikey. A Etapa	12142
 Implementation of Electronic Travel ETA	11986
 Inclusion Financière Banque des Etats	11944
+Individuel Etablissement Babacar Mbengue	18322
 Information Etablissement Public	17845
 Information Etablissement Public Pharmacie	17845
 Infrastructures CPS Etat Doter	17845
@@ -836,10 +902,11 @@ Les Etats Généraux	15673
 Les Etats Membres D’AFRISTAT	17945
 Les Etats Membres des Nations Unies	16627
 Les Etats Parties	15488
-Les Etats-Unis	3486,10238
+Les Etats-Unis	3486,10238,4636
 Ligue des Etats	15410
 Ligue des Etats Arabes	15410
 L’Alliance des Etats du Sahel	6959
+L’HORODATAGE ETAU RECOMMANDE ELECTRO NIQUE	18106
 M ETABLISSEMENTS MAMADOU DIAN DIALLO ETS	16623
 MADO DSGHP ETAT	17845
 MALI ANNONCES ET COMMUNICATIONS ETAT	17841
@@ -870,15 +937,20 @@ NATIONAUX FACTURATION A L'INSTITUTION Autres Etats	18032
 NUMERO ETAX	16629
 Na Etapa	12142
 National Etalons	13949
+National du Niger CEDEAO Communauté Economique des Etats	18103
 Nomenclature des Activités des Etats Membres	17945
 Nomenclature des Produits des Etats Membres	17945
 Non Application Mobile Etablissements Oui Oui	11944
 Numérique des Etablissements	17824
 Néant SUCCURSALE Néant ETABLISSEMENTS DE PAIEMENT	17356
+OBJECTIFS STRATEGIQUES Total Etat Bailleurs	18291
+OBJECTIFS STRATEGIQUES Total Etat Bailleurs P2	18291
 OBLIGATIONS DES ETABLISSEMENTS ASSUJETTIS EN MATIERE	15482
 ONS ANEH Etat	17845
 ONS CPS Etat	17845
 OPERATIONS EFFECTUEES PAR LES ETABLISSEMENTS	17443
+OS.1. Etablir	18121
+OS1 Etablir	18121
 Organisation Etant	15495
 Organiser des CNDIFE ETAT	17845
 Organiser des CPS SS DS PF Etat	17845
@@ -888,6 +960,7 @@ Ouest CEDEAO Communauté Economique des Etats	15583
 PAIEMENT DANS LES ETATS MEMBRES	15508
 PGES DATA CENTER PRINCIPAL Etape	14489
 PHB Banque des Etats	11944
+PI-SPI-Participants Etape	18328
 PNCSN Partenaire ETAT	17882
 PORTANT ETAT CIVIL EN REPUBLIQUE	16636
 PRESIDENCY O ETARIALG	15999
@@ -897,6 +970,9 @@ PTF ETAT	17882
 PTF Etat	17845
 PTF Proportion des Etat	17845
 Paiement Etablissements de Paiement	13452
+Parlement. Etant	18286
+Piliers Etat Bailleurs	18291
+Politique Genre du Comité Inter Etats de Lutte	18100
 Primera Etapa	16893
 Primera Etapa de Ejecución	16893
 Produire CPS SS DS PF Etat	17845
@@ -909,14 +985,18 @@ R1H Etablissements	18032
 R4. Etablir	15493
 RECOMMANDATIONS ET ETAPES SUIVANTES	15493
 RECOMMANDATIONS ET PROCHAINES ETAPES	15493
+REGION Etablissements	18171
 RELATION ENTRE UN ETABLISSEMENT DE MONNAIE	14417
 RELATIONS ENTRE LES ETABLISSEMENTS DE CREDIT	17443
 RELATIVE AUX ETABLISSEMENTS DE CREDIT ET	17443
 RESOLUTION DES DIFFICULTES DES ETABLISSEMENTS	17443
 RH Etat	17845
+Rapport sur etat de la statistique du SSN 2024.pdf	18169
+Rapport sur etat de la statistique du SSN 2024.pdf Author	18169
 Ratio Etablissements	17824
 Recherche Scientifique Etablissements Publics Université	17895
 Renforcer le DRH-SSDS Etat	17845
+Republique des Etats Rica	18296
 Rio Tinto Alcan Etat du Cameroun	15542
 Réaliser CPS SS DS PF Etat	17845
 Réforme du Système Educatif Etablissements Publics Institut	17895
@@ -926,11 +1006,13 @@ SANOU DES ETATS DU SAHEL	18003
 SECTION II ETAT DES LIEUX DES	15542
 SERVICE DU FICH ETARIAY G IERLEG	15999
 SI ETAT CIVIL Authentification	3381
+SI Etat	18319
 SIGNED-Cyber-Crime.pdf COMMUNAUTE ECONOMIQUE DES ETATS	15374
 SIMR DSGHP ETAT	17845
 SIREE Etat	17845
 SIS Etat	17845
 SISo Etat	17845
+SNEEG. Etant	18286
 SOUFRANCE Etat	18032
 SRIF Banque des Etats	11944
 SRIF. Banque des Etats	11944
@@ -939,6 +1021,7 @@ Saû DOn BANQUE DES ETATS	15999
 Segunda Etapa	16893
 Sinohydro Corp. Etat du Cameroun	15542
 Somme ETAT CT PRIVE PTF	17946
+Sources Etat PNUD Union Européenne FNUAP	18169
 Statistique BEAC Banque des Etats	15501
 Statut Effectif Pourcentage Rural Etablissement	10875
 Statut Général des Etablissements	10975
@@ -951,6 +1034,7 @@ TBD Etat du Cameroun	15542
 TITRE V CONTROLE DES ETABLISEMENTS	17443
 TITRE VI ETABLISSEMENTS PUBLICS D'EDUCATION ET	15360
 TITRE VII RELATIONS ENTRE LES ETABLISSEMENTS	17443
+TRAITEMENT DES RECLAMATIONS PAR LES ETABLISSEMENTS	18292
 TRAITEMENT Etablissement	14423
 TRANSPORTS ET AMENAGEMENTS URBAINS ETAT CTD	15542
 Technique Participants Etaient	17845
@@ -964,7 +1048,7 @@ UIT. Etant	13324
 URBAINS ETAT CTD PRIVE	15542
 USAID Agence des Etats-Unis	16626
 Un Etat	1990,3073,10659
-Union. La Banque Centrale des Etats	10888,4882,67
+Union. La Banque Centrale des Etats	10888,4882,67,2381
 Urbain Rural Total Etablissement	10875
 V ETABLISSEMENTS SOW AMADOU BHOYE	16623
 V. ETAT DE MISE EN	15639

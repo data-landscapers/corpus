@@ -29,6 +29,7 @@ Assessments. Washington	11136
 Awoodaha Wasaaradda Si	14906
 Awoodaha Wasiirka Wasiirku	15153
 Batiche Wassila	15602
+Biomedical Waste	18370
 Biomedical Waste Management Plan	11924
 Boards Waste	9123
 Body Washington	12800
@@ -60,7 +61,7 @@ Citizen Service Centers. Washington	15518
 City of Johannesburg Alternative Waste Treatment Technology	11248
 Climate-Resilient WASH Infrastructure Component	13787
 Commissioner for Refugees WASH Water	1867
-Comptes WASH	14622
+Comptes WASH	14622,3547
 Conditioners and Washing Machines	14736
 Connecticut Avenue NW Washington	42
 Construction Waste Construction	12253
@@ -74,7 +75,7 @@ Cultural Organization WASH United Nations High	11905
 DTM SNFI WASH Biometric	9772
 DTM SNFI WASH Nutrition	9772
 DTM WASH Other Nutrition SNFI	9772
-Data for Better Lives. Washington	1264,5275,5340
+Data for Better Lives. Washington	1264,5275,5340,6422
 Dateline WASHINGTON	2026
 De Wasseige	16875
 Department Waste Support	17157
@@ -146,6 +147,7 @@ FCCPC. WASPAN	7469
 FRUITLESS AND WASTEFUL	11218,6
 FY21. Washington	10964
 Financial Vulnerabilities and Risks . Washington	11140
+Focus. Washington	18301
 Food Loss and Waste Reduction	14818
 Food Loss and Waste Reduction Around	14818
 Food Wastage	14835
@@ -225,6 +227,7 @@ Ka-qaybgalka Wasiirrada	14859
 Kenya Solar Waste Collective	12191
 L Street Northwest Washington	42
 L'intégration WASH	16722
+Land Policies for Growth and Poverty Reduction. Washington	18293
 Lanseria Wastewater Treatment Works PPP Project	11248
 Latest Headlines WASPAN Appeals Judgement Upholding	7776
 Learning Poverty Brief Washington	15743
@@ -240,6 +243,7 @@ Mandela Washington Fellowship	12962
 Mauritanie. Washington	17896
 Mauritius Wastewater Master Plan-	14745
 May. Washington	11310
+Mazhar Waseem	18318
 Medical Waste Management Plan	13938,1038
 Micro1-3 Small4-30 Medium31-100 WASAC	12445
 Ministry of Environment and Solid Waste Management	14738
@@ -247,10 +251,11 @@ Mission Cell and Wastewater Sector	14745
 Modern VAT. Washington	16949
 Modes of Waste Disposal	12445
 Monetary Union WASREB Water Services Regulatory	2775
+Monitoring of Healthcare Waste Management	18370
 Monze District. Final Report. Lusaka and Washington	13332
 Municipal Solid Waste	12233
 NCC. WASPAN	7560
-NW Washington	3456,4199,3308,2148,412,190,840,23,937,1141,21
+NW Washington	3456,4199,3308,2148,412,190,840,23,937,1141,21,1699
 NW Washington DC	10976,898,472
 Nairobi and Washington DC. Get	17576,107
 National Radioactive Waste Disposal Institute	11272
@@ -260,6 +265,7 @@ National Solid Waste Management Policy	17139
 National WASH Commission	17260
 Nations Children’s Fund WASH Water	11560,6289
 Nations. Washington DC	16996
+Niger. Washington	18104
 Nigeria Digital Economy Diagnostic Report. Washington	11879
 Nigeria WASHINGTON	11476
 Non-Hazardous Waste	1988
@@ -272,11 +278,14 @@ PREVALENCE OF WASTING IN CHILDREN UNDER	16892
 PS4R Country Assessment Diagnostic Framework. Washington	10841
 Period FY20-25. Washington	15983
 Physical Environment Waste Management	1988
+Place Washington	18433
 Poliomielite Inactivada The Washington Group	10777
 Polokwane Regional Wastewater Treatment Programme	11248
 Pool WASSCE West African Senior School	16876
 Population Division WASH Water Sanitation and Hygiene	14896
+Pour Dr Wassila Mamadou Thiaw	18360
 Pour Washington	11014
+Poverty Assessment. Washington	18104
 Poverty and Equity Assessment. Washington	14576
 Power Pool WASH Water	17260
 Prevent Gender Based Violence. Washington	10964
@@ -393,7 +402,7 @@ WASH-FIT	17289
 WASH. Component	1778
 WASH. Following the World Bank's Environmental Health	1988
 WASHFIT	14622
-WASHINGTON	1579,447,1695,488,51,2807,785,1142,1719,1143,2236,511,39,1412,5,142,234,8,909,1,171
+WASHINGTON	1579,447,1695,488,51,2807,785,1142,1719,1143,2236,511,39,1412,5,142,234,8,909,1,171,710
 WASPAN	6296,1173,91,40,176,887
 WASSA	17819
 WASSCE	7171,5025,4656,24,561
@@ -447,7 +456,7 @@ Washable	1988
 Washili	4386
 Washing	1210
 Washing Machine	12383
-Washington	969,292,3,315,141,108,330,126,1,189,107,167,38,3,4,153,45,260,190,15,26,4,118,49,129,371,1,10,3,93,6,69,5,86,13,8,170,52,5,60,301,9,40,57,7,14,1,2,48,3,8,18,15,45,64,74,110,142,8,16,57,35,35,20,37,101,40,109,33,48,35,90,64,162,208,107,32,9,236,24,11,221,154,4,67,95,107,491,131,16,15,182,10,86,74,29,13,17,94,10,2,581,37,14,75,5,93,206,30,20,355,1,1,154,3,111,1,4,45,2,3,7,5,5,27,29,122,1,12,1,8,12,17,76,43,1,2,4,9,7,115,39,107,128,7,2,18,168,134,5,2,28,3,6,6,264,39,28,42,31,18,188,7,42,76,141,38,102,8,92,250,10,12,2,12,5,1,99,193,117,127,113,36,413,218,38,88,3,120,15,20,74,23,109,286,15,8,26,1,6,11,2,18,7,35,51,17,37,1,2,2,52,10,1,25,1,118,5,41,121,96,11,31,26,95,265,65,250,26,20,20,7,6,41,114,99,26,2,20,69,13,66,98,21,33,12,126,107,60,7,1,26,10,3,81,73
+Washington	969,292,3,315,141,108,330,126,1,189,107,167,38,3,4,153,45,260,190,15,26,4,118,49,129,371,1,10,3,93,6,69,5,86,13,8,170,52,5,60,301,9,40,57,7,14,1,2,48,3,8,18,15,45,64,74,110,142,8,16,57,35,35,20,37,101,40,109,33,48,35,90,64,162,208,107,32,9,236,24,11,221,154,4,67,95,107,491,131,16,15,182,10,86,74,29,13,17,94,10,2,581,37,14,75,5,93,206,30,20,355,1,1,154,3,111,1,4,45,2,3,7,5,5,27,29,122,1,12,1,8,12,17,76,43,1,2,4,9,7,115,39,107,128,7,2,18,168,134,5,2,28,3,6,6,264,39,28,42,31,18,188,7,42,76,141,38,102,8,92,250,10,12,2,12,5,1,99,193,117,127,113,36,413,218,38,88,3,120,15,20,74,23,109,286,15,8,26,1,6,11,2,18,7,35,51,17,37,1,2,2,52,10,1,25,1,118,5,41,121,96,11,31,26,95,265,65,250,26,20,20,7,6,41,114,99,26,2,20,69,13,66,98,21,33,12,126,107,60,7,1,26,10,3,81,73,41,174,23,17,21,71
 Washington Charles Tembo	4365
 Washington College of Law	9632
 Washington D.C	1722,1876,4254,4379,3193,69,888,245,473,15,301
@@ -527,7 +536,7 @@ Wassim AlJuneidi	10764
 Wassimagnon	10944
 Wassu Gambia Kafo	10314
 Wassu Stone Circle	17105
-Waste	1988,4844,89,25,4317,600,328,62,664,468,1361,201,80,179,205,250,1213,225,15,43
+Waste	1988,4844,89,25,4317,600,328,62,664,468,1361,201,80,179,205,250,1213,225,15,43,952,261
 Waste Audit	1988
 Waste Best Practice Manual	2989
 Waste Best Practice Procedure Manual Sign	2989

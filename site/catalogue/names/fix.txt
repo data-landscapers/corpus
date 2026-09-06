@@ -1,4 +1,5 @@
 Abonnements Internet Fixe	16326
+Abonnées Fixes	18122
 Abonnés Tel. Fixe	419
 Africa Americas Arab States Fixed	11563
 Africa Fixed-broadband	15471
@@ -136,16 +137,17 @@ Fix Is Five Months Overdue	10672
 Fix Jdid	2405
 Fix Leadership Before Chasing	4942,664,283,454,183
 Fix SQL	11922
-Fixant	9080,1895,3488
+Fixant	9080,1895,3488,3631
 Fixar	11430,4659
 Fixate	7751
 Fixating	9759
-Fixation	13291,84,58,1961,32,266,193,58,104,248,72,58
+Fixation	13291,84,58,1961,32,266,193,58,104,248,72,58,1671
 Fixation des Conditions	13313
 Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1
+Fixe. En	18122
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -331,7 +333,7 @@ Fixed-Wired Telephone Subscriptions	12395
 Fixed-Wireless Broadband Subscriptions	12395
 Fixed-Wireless Telephone Subscriptions	12395
 Fixed-Wireless-Internet-Works.jpg	7110
-Fixed-broad	10844
+Fixed-broad	10844,7279
 Fixed-broadband	6648,298,3898,719,2535,799,574
 Fixed-broadband Entry-level	17743
 Fixed-broadband Internet	11563,402,5778
@@ -339,7 +341,7 @@ Fixed-effect	10881
 Fixed-effects	10852
 Fixed-line	1013,1763,1783,6652,1184,2441,61
 Fixed-speed	11085
-Fixed-tele	10844
+Fixed-tele	10844,7279
 Fixed-telephone	718,6228,3898,1489,11,3273,1323,937,1
 Fixed-term	10776,358,162
 Fixed-to-mobile	16839
@@ -409,6 +411,7 @@ Internet Fixe Graphique	998
 Internet Fixe Parc	998
 Internet Fixe RAPPORT ANNUEL	998
 Internet Fixe Taux	998
+Internet Fixed-broad	18123
 Internet Fixo	11531
 Internet and Broadband Fixed Broadband	12395
 Internet. F Fixed Wireless	16872
@@ -420,7 +423,7 @@ J MÉTHODE DES JOURS FIXES	13300
 Jour de Fixation	15901
 KSh Gross Fixed Capital Formation	2775
 Kingdom of Eswatini. Fixed Network Operators	12395
-Kyrgyzstan. Fixed	10844
+Kyrgyzstan. Fixed	10844,7279
 Land Disputes Ease As Govt Fixes	5070,1633
 Land Mobile Networks Fixed Networks	6946
 Landlocked Developing Countries Fixed	10844
@@ -472,6 +475,7 @@ Only One Cable-laying Ship Can Fix	2677
 Operator Fixed Broadband Operators Q3	2776
 Operator Telecel’s Fixed Data	2776
 Orange Records Highest Fixed Broadband Complaint	11642
+Ordinateurs Fixes	18297
 Originating Fixed	3862
 Outgoing Fixed	3862
 Outgoing Fixed International	3862
@@ -482,6 +486,7 @@ Outgoing and Incoming Fixed Voice Traffic- Q4	15136
 P-5 Fixed Internet	11857
 P-RM Fixant	17812
 PAPSS CANNOT FIX Weak	9593
+PARC INTERNET FIXE	18122
 PART III Light Licence for Broadband Fixed	736
 PORTANT ABROGATION PARTIELLE DU FIXANT	17899
 PORTANT FIXATION DES TAUX DES DROITS	7470
@@ -501,6 +506,7 @@ Rural Fixed Broadband Wireless Access Systems	736
 SADC FIXED-BROADBAND AFFORDABILITY	11262
 SADC FIXED-BROADBAND BASKET	11211
 SAMU Niger MOTOROLA Base Fixe VHF	998
+SDF Sans Domicile Fixe SCA Stratégie	18286
 SEZ Special Economic Zone FBB Fixed	3184,1,1340,6470
 SGG FIXANT LES TARIFS DES ACTES	16635
 SMS AMERICAN TOWERS Fixe	998
@@ -535,7 +541,7 @@ UHF Fixed	17250
 UHF Television Fixed Links	17250
 UTILIZADORES DE SERVIÇO DE INTERNET FIXO	11531
 Usage Basket Fixed Broadband	12395
-Uzbekistan. Fixed-broadband	10844
+Uzbekistan. Fixed-broadband	10844,7279
 VDSL and Fixed Wireless Access	1818
 VHF Fixed	17250
 VHF PMR Fixed	6946

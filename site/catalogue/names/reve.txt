@@ -274,7 +274,7 @@ FNRH Fonds National des Revenus des Hydrocarbures. GED	18015
 FRACTION DU REVENU IMPOSABLE EN DINARS	15534
 Faible Revenu	15399
 Federal Government Tax Revenue	5655
-Federal Inland Revenue Service	2593,2036,2060,3001,282,2909
+Federal Inland Revenue Service	2593,2036,2060,3001,282,2909,5379
 Federal Inland Revenue Service. Rwanda	5684
 Federation Account Revenue Allocation	2531
 Finance and Revenue Statements	13420
@@ -398,13 +398,14 @@ Integration of Forest Products Revenue Management Systems	11639
 Intelligence Agencies and Revenue Agencies	789
 Interest Revenues	17236
 Internal Revenue Service	6524,1,5451
-Internally Generated Revenue	11981
+Internally Generated Revenue	11981,6149
 International Trade. Non-Tax Revenue	13122
 Investment and Revenue	2775
 Ivorian Revenue Authority	9162
 Jerry Siakor IMPORTANT REVENUE NOTICE	17258
 Joint Revenue	11976
-Joint Revenue Board	4602,7374
+Joint Revenue Board	4602,7374,6207,47,10
+Joint Revenue Board Establishment Act	18260
 Joint Revenue Tax	11947
 Jonathan Revell	14700
 Jonglei State. South Sudan Revenue Authority	3583
@@ -607,12 +608,12 @@ Ngài Ndikuriyo Reverien	8062
 Ngài Ndikuriyo Reverien.Phát	8062
 Niger Customs Director General Customs Revenue	16631
 Niger Customs Revenue Scorecard	16631
-Nigeria Revenue Service	4602,749,2058,39,46,252,40,1037,3,287,117,460,64,201,1,199,417,1404,46,859
+Nigeria Revenue Service	4602,749,2058,39,46,252,40,1037,3,287,117,460,64,201,1,199,417,1404,46,859,5359,20
 Nigeria Revenue Service Act	11976
 Nigeria Revenue Service Bill	11947
-Nigeria Revenue Service Establishment Act	8590
+Nigeria Revenue Service Establishment Act	8590,9670
 Nigeria Revenue Service Information Circular No	9570
-Nigerian Revenue Service	4629,2865
+Nigerian Revenue Service	4629,2865,10689
 Niveau de Revenu	13390
 Non Revenue Water	15659
 Non Tax Revenue	5655
@@ -660,6 +661,7 @@ PART X- Revenues of Councils	12531
 PARTENAIRE N'A PAS DE REVENUS	13300
 PERCENTAGE CONTRIBUTION OF TOTAL REVENUE COLLECTION	14985
 PIT Revenue	10997
+PLUS UN REVE	18317
 POSTAL SECTOR REVENUE	11211,51
 PPE Revenue Net Profit Assets Liabilities	1944
 PROPOSED REVENUE MEASURES	17105
@@ -774,7 +776,7 @@ Revelación	16855,110
 Revelations	2742,1342
 Revelação	6970,3807
 Revelou	5542,1624
-Revenant	3591,3625,132,26,1144,1300,6183,98,70,212,364
+Revenant	3591,3625,132,26,1144,1300,6183,98,70,212,364,1421
 Revenda	11520
 Revendiquée	11499
 Revenez	3297
@@ -783,10 +785,12 @@ Revenge Pornography	12459
 Revenir	7078
 Revenons	3157
 Revente	998,15617
-Revenu	737,1207,532,11296,1600,83,252,292,1486,460,27
+Revenu	737,1207,532,11296,1600,83,252,292,1486,460,27,344
 Revenu Avoirs Inchangé Augmenté Diminué Inchangé	737
 Revenu Maximum	10975
-Revenu Maximum Autorisé	10975
+Revenu Maximum Autorisé	10975,7347
+Revenu Maximum Autorisé SAIFI	18322
+Revenu Maximum Autorisé de Senelec	18322
 Revenu Moyen Par Abonné	998
 Revenu National	10965
 Revenu National Brut SIGI	15848
@@ -795,7 +799,7 @@ Revenu des Personnes Physiques	6954,9045
 Revenu des Personnes Physiques IS Impôt	10712
 Revenu des Personnes Physiques Impôts	16328
 Revenu des Valeurs Mobilières	2342
-Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97
+Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31
 Revenue Accounting	12491
 Revenue Accounts	17030
 Revenue Administration	1155,673,9312,1360,448,676,3344
@@ -840,6 +844,8 @@ Revenue Collected	12976,77
 Revenue Collection	9437,1813,812,991
 Revenue Collection Figure	13053
 Revenue Collection Integrated	12211
+Revenue Collection Performance	18217
+Revenue Collection Performance of DisCos	18186
 Revenue Collection Target Actual	13053
 Revenue Collection The Department	14761
 Revenue Collection Tools Full System Walkthrough	12211
@@ -971,7 +977,7 @@ Revenue for The Three Sectors	11262
 Revenue-Sharing Regulations	16970
 Revenue-based	1828,5970,7407
 Revenue-generating ICT	15164
-Revenues	573,145,295,931,1639,624,2739,592,3444,154,727,92,278,820,571,244,142,886,69,32,476,1763,673,81
+Revenues	573,145,295,931,1639,624,2739,592,3444,154,727,92,278,820,571,244,142,886,69,32,476,1763,673,81,319
 Revenues AVERAGE FUNDING ALLOCATION	15460
 Revenues Net Profit Assets Liabilities Shareholders	1944
 Revenues Output	14935
@@ -980,9 +986,11 @@ Revenues and Expenses	14032
 Revenues of Councils	12531
 Revenues. Projected	13868
 Revenues. Tax	17503
-Revenus	7655,7879,80,385,48,297,1141,355,132,11,80
+Revenus	7655,7879,80,385,48,297,1141,355,132,11,80,253,6
 Revenus AE Agence	15746
 Revenus Fonciers	15797
+Revenus M	18322
+Revenus Maximum Autorisé	18322
 Revenus Non Salariaux	2476
 Revenus Salariaux	2476
 Revenñus	15999
@@ -994,6 +1002,7 @@ Reversals	11955
 Reverse	789,2794,543,5729,1162,1280,113,220,677
 Reverse Low Libido	5574,215
 Reverse Osmosis	14794
+Reverse the Suspension of Civil Society Organisations URL	18167
 Reverse-Scored	17869
 Reverse-scored	17869
 Reverses	3965,1438,1506
@@ -1062,7 +1071,7 @@ South Sudan Revenue Authority271	3583
 South Sudan’s National Revenue Authority	4668
 Southern Africa Bridging the Digital Divide Reverse	12937
 Standard Bank African Markets Revealed Report	5247
-State Internal Revenue Service	11976
+State Internal Revenue Service	11976,6179
 State Internal State Internal Revenue Service	11976
 State Joint Revenue Committee	11976
 State Revenue Authority	3583

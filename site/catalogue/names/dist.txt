@@ -5,7 +5,7 @@ ACTIVITÉS RÉALISÉES DISTRIBUTION Au	16714
 AD disturbances	17140
 ADSL Distributeurs	17899
 ADVANCE UNEDITED VERSION Distr	14751
-AEDC Abuja Electricity Distribution Plc ATC&C	12062
+AEDC Abuja Electricity Distribution Plc ATC&C	12062,6124,31
 AFRICAN TECHIS CHARTINGITS OWN DISTINCTCOURSE	10954
 AIDS DSSC District Social Support Committee	12964
 ANNUAL REPORT Gender Distribution of Foreign Researcher	1554
@@ -131,7 +131,7 @@ CRI Disability-Adjusted Life Years DALYs District	11417
 CVI DU DISTRICT DE BAMAKO. Premier	17812
 CVI du District de Décret	17812
 Cabeceras de Distritos	4209
-Cadastral Zone A00 Central Business District	12062
+Cadastral Zone A00 Central Business District	12062,6124,31
 Cadastre du District	17817
 Caillasse Carrière Ambatomaro Distance	14489,1
 Camara Pelayo Coordinador Distrital de Bata Ilmo	16920
@@ -176,9 +176,11 @@ City of Cape Town District	8999
 City of Kigali and Districts Land Use Master	888
 Climate Kalumbila District	1988
 CoK District Sector Cell Total Rural	13418
-Collection Loss BEDC Benin Electricity Distribution	12062
+Collection Loss BEDC Benin Electricity Distribution	12062,6124,31
 Comité Technique de Santé de District DGCE	15720
 Commercial Management System D&R Distribution and Retail	15969
+Communal District	18118
+Communal District of Niamey	18118
 Commune Ankazoambo District Ambositra Commune Antoetra	14425
 Commune Antanimandry District Antsirabe II	14425
 Commune I du District	17817
@@ -380,7 +382,7 @@ Directorate of Distance and E-Learning DP	12175
 Disabilities Distr	17296
 Dispositif District	14625
 Dist. Pros Unit	14781
-Distance	737,1251,2104,2379,2652,543,522,526,1204,1,25,146,85,74,84,50,20,897,90,134,904,347,9,297,163,3,294,202,193,1163,58,39,757
+Distance	737,1251,2104,2379,2652,543,522,526,1204,1,25,146,85,74,84,50,20,897,90,134,904,347,9,297,163,3,294,202,193,1163,58,39,757,168,191,118
 Distance Côte	15936
 Distance Education	14775,857
 Distance Education FT	14775
@@ -391,6 +393,7 @@ Distance LUX-DEV	15639
 Distance Learning	16852,90
 Distance Learning Centers	2989
 Distance Learning PAGE Programme for Accelerated Growth	16852
+Distance Licence	18121
 Distance Maximum Page	13390
 Distance Minimum Distance Moyenne Distance Médiane	13390
 Distance Operators FMoP Licensees	11857
@@ -415,6 +418,7 @@ Distinction	9124,3321,591,4996
 Distinctions	17812
 Distinctive Characteristics Generative	14565
 Distingue	16962
+Distinguer	18099
 Distinguida	16894
 Distinguido Auditorio	16865
 Distinguidos Delegados	16865
@@ -429,7 +433,7 @@ Distinguished Delegates	12688,14,58
 Distinguished Digital Finance Lecture	10144
 Distinguished Directors	15026
 Distinguished Guests	2526,7643,2491,392,4067,109,119
-Distinguished Ladies and Gentlemen	15026,1485,613,223
+Distinguished Ladies and Gentlemen	15026,1485,613,223,815
 Distinguished Members	11356
 Distinguished Participants	13118
 Distinguished Personalities	17347
@@ -443,7 +447,7 @@ Distinguées	16491
 Distingués	16620,30,824,596
 Distorted	7151
 Distorting	10954,2507
-Distortions	11955
+Distortions	11955,6208
 Distortions Displacement	14897
 Distortive Impact of Digital Taxation	14932
 Distr	13440,2
@@ -502,7 +506,8 @@ Distributedrepresentations	8606
 Distributelow	16883
 Distributeur	9568,1954,2259,1661,1,604
 Distributeur Automatique de Billets GABAC Groupe	11944
-Distributeurs	10836,139,4446,121,93,412,1770,16,66
+Distributeurs	10836,139,4446,121,93,412,1770,16,66,423
+Distributeurs Africains	18322
 Distributeurs Automatiques	17833
 Distributeurs Automatiques de Billets	17833
 Distributeurs Automatiques de Billets Consultation	17833
@@ -512,7 +517,7 @@ Distributeurs Automatiques de HT	17833
 Distributeurs Automatiques de VISA	17833
 Distributi Volume of Value of Product	16878
 Distributing	8647,4861,1414
-Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91,218,1,68,32,4,26,66,15,28,2,9,77,84,84,30,38,26,132,134,283,102,5,132,2,68,14,15,16,30,47,84,30,79,133,374,100,3,20,1,2,25,51,56,13
+Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91,218,1,68,32,4,26,66,15,28,2,9,77,84,84,30,38,26,132,134,283,102,5,132,2,68,14,15,16,30,47,84,30,79,133,374,100,3,20,1,2,25,51,56,13,265,7,2,9,25,33
 Distribution Agency Agreement	11215
 Distribution Agency Agreements	11236
 Distribution Annex	12978
@@ -521,7 +526,7 @@ Distribution Aérienne BT Km	10975
 Distribution BT	15542
 Distribution Characteristics	17157
 Distribution Characteristics BWh	17157
-Distribution Companies EA Electricity Act ECR	12062
+Distribution Companies EA Electricity Act ECR	12062,6124,31
 Distribution Copy	14931
 Distribution Dispatch Center	1538,1
 Distribution Facilities	16978
@@ -544,13 +549,14 @@ Distribution Objectifs	10975
 Distribution Operator of Cabo Verde	15983
 Distribution Page	12358
 Distribution Plan Updates	12358
-Distribution Plc EKEDP Eko Electricity Distribution	12062
-Distribution Plc PP Percentage	12062
+Distribution Plc EKEDP Eko Electricity Distribution	12062,6124,31
+Distribution Plc PP Percentage	12062,6124,31
 Distribution Projet	15799
 Distribution Publique	10975
 Distribution Register ZRCP	1988
 Distribution SGP	10975
 Distribution SRC	10975
+Distribution Sector Recovery Program	18186
 Distribution Standards	15659
 Distribution System	14867
 Distribution System Benchmarks	14867
@@ -654,7 +660,7 @@ Distributors GoTV Kenya	6946
 Distributors Master Plans	12399
 Distributtiioonn	12256
 Distribué	9502,2522,3,2662,1200,514
-District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338,236,83,129,15,35,447,223,10,8,8,16,11
+District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338,236,83,129,15,35,447,223,10,8,8,16,11,365,133
 District Action Plan DEMISO	12175
 District Administration	13423
 District Administrations and Local Authorities	13472
@@ -894,6 +900,7 @@ District de Bokoma	15615
 District de Bouanéla	15615
 District de Boundji	15615
 District de Bétou	15615
+District de Diofior	18412
 District de Divenié	15615
 District de Djambala	15615
 District de Dongou	15615
@@ -924,6 +931,7 @@ District de Lékana	15615
 District de Mabombo	15615
 District de Madingo-Kayes	15615
 District de Madingou	15615
+District de Mainé	18105
 District de Makabana	15615
 District de Makotimpoko	15615
 District de Makoua	15615
@@ -968,7 +976,7 @@ District de Zanaga	15615
 District des Montagnes	2342
 District of Bamako	17906,160
 District of Birth	12496
-District of Columbia	5692
+District of Columbia	5692,12586
 District of Massachusetts	17773
 District of Nyaruguru	13418
 District of Rwanda. Figure	12328
@@ -983,7 +991,7 @@ District. En	17845
 District. Sous	17861
 District. Un	17861
 District14 CHAPTER	15085
-Districts	718,2090,578,405,1279,3929,2130,214,832,45,21,87,85,592,75,60,145,62,14,31,6,20,54,152,998,247,56,10,12,109,199,322,108,27,12,22,507,274,306,34,229,3,140,606
+Districts	718,2090,578,405,1279,3929,2130,214,832,45,21,87,85,592,75,60,145,62,14,31,6,20,54,152,998,247,56,10,12,109,199,322,108,27,12,22,507,274,306,34,229,3,140,606,452
 Districts And Areas In Which Registration	12138
 Districts DRSP	14442
 Districts Every	396
@@ -992,6 +1000,7 @@ Districts Health Information Software	14442
 Districts Huawei	1122
 Districts Imihigo Reports Output	14935
 Districts Narrowing	15056
+Districts Sanitaires	18105,192
 Districts Strategic Interventions	14935
 Districts and CoK	14935
 Districts de Côte	15712,224
@@ -1116,6 +1125,7 @@ ELEVES SELON LA DISTANCE PARCOURUE V.5.5	10847
 EMR District Hospital	12379
 ENDE Empresa Nacional de Distribuição de Electricidade	11380
 ENERGÍAS TRANSPORTE DISTRIBUC. REG. INS ULAR	4209
+ENSP FAO FH DISTRICT HEALTH INFORMATION	18105
 ENSURING DATA DISTRIBUTION	14004
 EPA and District Camp	15845
 ES District	13418
@@ -1128,7 +1138,7 @@ Ehlanzeni District Municipality	11343
 Ekumfi District Assembly	16076
 Ekumfi District Assembly Launches Major Business	16076
 Ekumfi District Assembly URL	16076
-Electric Plc JED Jos Electricity Distribution	12062
+Electric Plc JED Jos Electricity Distribution	12062,6124,31
 Electric Power Generation and Distribution Company	15480
 Electricity Distributer Organize	12399
 Electricity Distribution	12358
@@ -1232,6 +1242,7 @@ Gicumbi District	718,11695,21,2821
 Gicumbi District Experience	12328
 Gisagara Districts. Inspections	718
 Global Maritime Distress Safety System	14732
+Global Maritime Distress and Surveillance System	18309
 Goat Productivity Project Lupane District	1554
 Gobierno Adjunto Delegado Provincial Delegado Distrital	4209
 Gold Customers Active Black Customers DISTRICT	8999
@@ -1273,6 +1284,7 @@ Horizontal Distribution Area HP-UX Hewlett Packard	13185
 Hospital Distrital de Micomiseng	4209
 Hospital Distrital de Micomiseng Micomiseng	4209
 Hospitals District	15056
+Human Resource Shortages and Distribution	18370
 Humansdorp District Hospital Co-location PPP	11248
 Hurungwe District	13614
 Huye District National	12413
@@ -1280,11 +1292,12 @@ Huye Rusizi District	15056
 Hydrobox Kenya Ltd Distribution and Supply	12256
 HÔPITAL DE DISTRICT	13300
 Hôpital de District	17882
-Hôpitaux de District	17882
+Hôpital du District	18105
+Hôpitaux de District	17882,223
 Hôpitaux de District Valeurs	13325
 Hôpitaux de Districts	15685
 Hôpitaux de Référence de District	15685
-IBEDC Ibadan Electricity Distribution Plc IEDN	12062
+IBEDC Ibadan Electricity Distribution Plc IEDN	12062,6124,31
 ICT Enabled Distance Learning Project	581
 ICT-Based Distance Learning Project	580
 IDA Horizontal Distribution Area	9123
@@ -1305,14 +1318,15 @@ Implication The District Office	13420
 Importing Export Transmission Distribution	12399
 Improved Power Transmission and Distribution Network	12358
 Inauguration of Rubavu Electricity Distribution Network	12429
-Income Distribution	10985,5876
+Income Distribution	10985,5876,1457
 Independent Electricity Distribution Network	12062
-Independent Electricity Distribution Network IE Ikeja	12062
+Independent Electricity Distribution Network IE Ikeja	12062,6124,31
 Industry Education Health Other Services Distribution	12445
 Ines Bikurga Distrito de Evinayong Evinayong	4209
 Information Management DHIMS District Health Information	15556
 Information System DHMT District Health Management	3791
 Input Distribution	9123
+Insecticide-Treated Nets Distribution	18162
 Insiza District	13451
 Inspecciones Distritales	16864,56
 Inspector Distrital de Evinayong Ilmo. Sr. Don	16920
@@ -1340,7 +1354,7 @@ Juana Nsee Mitogo Coordinador Distrital de Akúrenam	16920
 Judicial Districts	17441
 Juez Distrito	4209
 Juez de Distrito	4209
-KEDCO Kano Electricity Distribution Plc	12062
+KEDCO Kano Electricity Distribution Plc	12062,6124,31
 KIDAL ET DISTRICT DE BAMAKO. STRUCTURES	17812
 Kabompo District	13392
 Kadjebi District Assembly	7457
@@ -1408,6 +1422,7 @@ Lembe District	11266,661
 Lembe District Municipality	11266
 Leonor Nko Mba Coordinador Distrital de Mikomiseng	16920
 Leopoldo Asumu Elá Avomo Coordinadora Distrital	16920
+Les Districts Sanitaires	18105
 Lesotho Metropolitan Fiber Distribution Network	2416
 Lesotho’s Mafeteng District	4636
 Letaba Hospital and Tshwane District Hospital. Quarterly	11986
@@ -1525,6 +1540,7 @@ Mwandi District	13387
 Mwinilunga District	13477
 MzansiXchange. Distributed Technical CapacityA	11222
 Mzimba District	12174
+Médecin Chef du District de Kaolack	18412
 N'30. Fuxingmennei Street. Xicheng District. Beijing	15399
 NACIONAL DE ALIMENT. BACHILLER. POLITECNICO DISTRITAL	4209
 NASA EOSDIS Land Processes Distributed	13624
@@ -1672,7 +1688,7 @@ Phalombe District	12241
 Pharmacies de Gros du District PNDRH	14442
 Philippine Long Distance Telephone	15471
 Planification DHIS2 District Health Information Software	13306
-Plc KAEDC Kaduna Electricity Distribution Plc	12062
+Plc KAEDC Kaduna Electricity Distribution Plc	12062,6124,31
 Pnge Kayonza District Ile Bugarura Bwira	12413
 Policy and Regulation Department Central Business District	11861
 Polling Districts	13598
@@ -1682,6 +1698,7 @@ Post Restante Special Delivery Service District	11129
 Postal and DISTRIBUTED BY VERITAS	13443
 Postcode. District	11129
 Power DER Distributed Energy Resources DFFE	11228
+Power Distribution Network Project	18220
 Power Distribution Unit	14921
 Power Distribution Units	9123
 Power Transmission and Distribution Network Issue	14947
@@ -1949,7 +1966,7 @@ Wire Distribution System	15515
 World Cup Distribution Through Orange Deal	3437,3942,47
 Xicheng District	15399
 YELLO DISTRIBUTION Traitement	10821
-Yola Electricity Distribution Plc	12062
+Yola Electricity Distribution Plc	12062,6124,31
 ZIMBABWE DISTRIBUTED BY VERITAS	13470
 Zakat Beneficiaries and Rules of Distribution	16902
 Zero Trust Strategy for Google Distributed Cloud	4434

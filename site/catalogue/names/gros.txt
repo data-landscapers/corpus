@@ -71,7 +71,7 @@ FT Full-time GDP Gross Domestic Product	14747
 Farmer Input Support Program GDP Gross	13345
 Faso GNI Gross National Income GRID	15621
 Federal Member State GDP Gross Domestic	14896
-Financial Management GDP Gross Domestic Product	15663
+Financial Management GDP Gross Domestic Product	15663,2630
 Financial Management Gender-Based Violence Gross Domestic	15601
 Financial Management Information System GDP Gross	11271
 Financial Management Unit Gross Domestic Product	15372
@@ -100,6 +100,7 @@ GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GEI Global	17870
 GDP Gross Domestic Product GIS Geographic	17149
 GDP Gross Domestic Product GIZ Gesellschaft	12923
+GDP Gross Domestic Product GRID Green	18301
 GDP Gross Domestic Product GRM Grievance	11525
 GDP Gross Domestic Product GTS Sector	13731
 GDP Gross Domestic Product GoG Government	15511
@@ -146,6 +147,10 @@ Government GDP Gross	16885
 Green Climate Fund GDP Gross Domestic	11549
 Green Energy Interface GNI Gross National	16876
 Gros Cailloux. Figure	14745
+Gros Gros	18418
+Gros Moyen	18418
+Gros Moyen Petit Gros	18418
+Gros Petit	18418
 Gros Petits Volaille	737
 Grosh	15601
 Grosjean J	14666
@@ -167,7 +172,7 @@ Gross Capital Provider Buildings Equipment Office	236
 Gross Disorderly Conduct A Member	13387
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
 Gross Domestic Product GDPR	5244
@@ -179,6 +184,7 @@ Gross Domestic Product GFCF Gross Fixed	16996
 Gross Domestic Product GFPA	16951
 Gross Domestic Product GFS	14857
 Gross Domestic Product GHG Greenhouse Gas	16949
+Gross Domestic Product GIEC	18309
 Gross Domestic Product GII Global Innovation	12376
 Gross Domestic Product GIS	958
 Gross Domestic Product GSM	14879,1993
@@ -224,7 +230,7 @@ Gross Loans Profitability	11131
 Gross National	14997,1945
 Gross National Disposable Income	2775
 Gross National Happiness Pillars	14965
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202
 Gross National Income GRM Government of Burundi	13331
 Gross National Income GoKE Government	6539
 Gross National Income HEI Higher Education	11552
@@ -266,7 +272,7 @@ Grosse	15698,937
 Grosses	16047,297,1538
 Grosses Réparations	15999
 Grosses Réparations du Matériel	15999
-Grossesse	737,12563
+Grossesse	737,12563,5012
 Grossesses	1005,12295
 Grosseur	13300
 Grossly	10727
@@ -302,11 +308,13 @@ Liberia GRR Gross Reproduction Rate	16950
 Liberia’s Gross	17235
 MILLION Gross Telecom S Revenue	9781
 Maladie Grossesse Mariage Refus	18014
+Management GDP Gross Domestic Product GERME	18104
 Management GDP Gross Domestic Product GoM	17862
 Markets and Developing Economies GDP Gross Domestic	17011
 Memorandum Items Gross International Reserves	17235
 Monthly Gross National Income	11262
 Months Gross	11131
+Moyen Gros	18418
 NBE's Real-Time Gross Settlement	12269
 Namibia’s Gross Domestic Product	13159
 National Government Gross Receipts	2775
@@ -317,6 +325,7 @@ Net Amount Gross Amount Impairment	11955
 Network Anti-Money Laundering and Combating the GVA Gross	12444
 Network Gross Domestic Product Global Facility	10763
 Nicolás Grossman and Leah Junck	7211
+Niger GNI Gross National Income GRM	18198
 Nigeria's Gross Domestic Product	8466
 Nigerian Gross Domestic Products	3862
 Nigerian Gross Domestic Products Q4	3862
@@ -328,6 +337,7 @@ PALUDISME PENDANT LA GROSSESSE Traitement Préventif	13300
 PLUS GROS QUE PLUS GROS QUE	13300
 Person GDP Gross Domestic Product GDPR	12663
 Person GDP Gross Domestic Product GEI	16876
+Petit Gros	18418
 Pharmacies de Gros du District PNDRH	14442
 Primary Gross Enrollment Ratio	14897
 Primary Gross School	16942

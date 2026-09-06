@@ -37,6 +37,7 @@ Biannual CNII IP Communication Infrastructure	10721
 Biométrique Electronique CNIBE	15555
 Bloomberg TV Africa and CNBC Africa	2320,1219,1420,19,1100,180
 Brahima GORO CNDIFE	17845
+Budget CNOU	18121
 Bureau du CNPA	13781
 CAIDP CEPICI CICG CNDigit CNDSI CNDJ	15936
 CAMU and CNSS	11987
@@ -64,7 +65,7 @@ CN Mozambique	9441
 CN TIPPEE	15411
 CN TIPPEE National Commission	15411
 CN TIPPEE Submitted	15411
-CN-ITIE	17838
+CN-ITIE	17838,485,4
 CN-ITIE. Article	17838
 CN-MAEP	15936
 CN-REDD	16875
@@ -126,6 +127,7 @@ CNBC-TV18	4576
 CNBC-only	7785
 CNC CNSI Commission Economique	13290
 CNC Conseil National du Crédit CNEF Comité	10965
+CNC N	18306
 CNC ShopBot	8895
 CNC Stratégique	10965
 CNC-Togo	15298
@@ -136,6 +138,7 @@ CNC. OLIGUI NGUEMA	16037
 CNCERT	8277
 CNCFE	15526
 CNCP National Commission for Public Procurement CNRST	17458
+CNCR National Rural Consultation and Cooperation Council	18293
 CNCREE-SSDSPF	17845
 CNCRPP	17859
 CNCSNPFTE	3396
@@ -161,6 +164,7 @@ CNDIFE Rapports	17845
 CNDIFE Taux	17845
 CNDIFE de Washington Groupe	17946
 CNDJ Dématérialisation	15936
+CNDN and HCNSS-OH	18370
 CNDP-TICE Fin	2966
 CNDP. Contrairement	11742
 CNDP. Il	8993
@@ -213,6 +217,7 @@ CNECI Article	14431
 CNECI. Article	14431
 CNECI. Dans	14549
 CNECI. Il	14431
+CNEDD	18198
 CNEDOGE	1382,264,939,87,1537,2398,10298,37,48,315,43,39,5
 CNEDOGE DG Teodomiro Monsuy Eyi	2683
 CNEDOGE Director General Teodomiro Monsuy Eyi	2683
@@ -245,6 +250,7 @@ CNERIB Réunion	16103
 CNERIB Révision Réunion	16103
 CNERTP	15416
 CNES Airbus	15473
+CNES Centre National	18103
 CNESRS	1183
 CNEST	11963,3487,85
 CNEST Contraordenações	15450
@@ -265,6 +271,7 @@ CNHU-HKM	16485
 CNHUB	15774
 CNI Artigo	15392
 CNI Biométrique Malagasy	14480
+CNI CEDEAO	18289
 CNI CMDCV Assinatura Digital Desenvolvedores	16027
 CNI Clôture Enrôlement Colisage	14480
 CNI Collecte des Justificatifs Impression Carnets Remise	14480
@@ -277,12 +284,15 @@ CNI Preparation	11876
 CNI. A National CNI Protection Plan	14674
 CNI. Article	17899
 CNI. Artigo	15392
-CNI. Ce	2513
+CNI. Ce	2513,15777
 CNI. Décret	17870
-CNI. Elle	17899
+CNI. Elle	17899,391
 CNI. J’apprécie	2513
+CNI. Lorsque	18290
 CNI. Para	7466
 CNI. SECTION	17899
+CNI. Théoriquement	18290
+CNI. Tout	18290
 CNIA. Artigo	12823
 CNIA. CONSELHO DE MINISTROS Decreto	12823
 CNIAF	16047
@@ -370,6 +380,8 @@ CNOSC	16641
 CNOSCG	16641
 CNOU National Center for Emergency Operations CREDD	17962
 CNOU and CTA	17962
+CNOU. A1OS1-A3 Renforcement	18121
+CNOU. Mesure	18121
 CNP-NZ	2377
 CNP-PPP	15936
 CNPA Le Conseil	13784
@@ -389,6 +401,7 @@ CNPA. Section IV	13781
 CNPA. Toutefois	13781
 CNPA.11	13781
 CNPAV	17590
+CNPC NP	18238
 CNPC. Objet	15848
 CNPCNP La SORAZ	3395,3488
 CNPD Comissão Nacional de Proteção de Dados Pedidos	3079
@@ -421,18 +434,24 @@ CNR ARTIGO	11365
 CNR Commission Nationale	15990
 CNR DAF DCT DTP Electricité	17866
 CNR. Up	11900
+CNRA Conseil National de Régulation	18310
 CNRA Date	2342
 CNRA Recherche	2342
-CNRCEP	998,6239,862,1466
+CNRCEP	998,6239,862,1466,8557
+CNRCEP. Il	18122
 CNRCT	15936
 CNREDC	17851
 CNRES	10948
 CNRF CPMI CSD COMESA EAC EAPS	13468
+CNRF National Land Reform Commission	18293
 CNRKR	13442
 CNRPS	10544,7072
 CNRPT	16615,11
+CNRRPD	18363
 CNRSIT	15591
 CNRST	12,725,1959,279,4695,9788,372
+CNRTP	18122
+CNRV. Ce	18310
 CNR’s Secretariat	11900
 CNS Conseil	15961,659
 CNS INSTAT	17842
@@ -440,12 +459,14 @@ CNS LAW ADVOCATES LLP Data Controller	7167
 CNS LAW ADVOCATES LLP Data Processor	7167
 CNS Maintenance	16552
 CNS Matriz de Progresso	15966
+CNS S	18291
 CNS. Article	17828
 CNS. Au	16620
 CNS. Avec	17842
 CNS. Ce	17842
 CNS. II- TRAVAUX Le Maître	16620
 CNS. Un	16620
+CNS. Une	18291
 CNSA. Faculty of ZASDIP	8161
 CNSA. Ganief Manuel	8161
 CNSC ET D’AUTRES PROGRAMMES RÉGIONAUX ET	16621
@@ -515,7 +536,7 @@ CNTSCI Mobile	15936
 CNTTDT	16942
 CNTTDT Commission	16942
 CNU-DCl	15429
-CNUCC	14450
+CNUCC	14450,3877
 CNUCC Convention Cadre des Nations Unies	17907
 CNUCED	5077,5744,2924,67,1662,4,15,90,1043,1255,134,62
 CNUCED CNUCED	15493
@@ -604,6 +625,7 @@ Comité Local de Coordination CNDH	15848
 Comité de Pilotage du CNPEEG	15383
 Committee for Refugee Assistance CNARR National Commission	10841
 Common Interoperability Framework CNAM-GS National Health	15518
+Compagnie Electrique Sénégalaise CNH	18322
 Composition du CNDigit	15936
 Composition du CNDigit Actuel	15936
 Composition du CNDigit Actuel Entité	15936
@@ -638,12 +660,15 @@ Directeur Général du CNRD	15685
 Directeur du CNDIFE	18077
 Director General de CNIAPGE	16945,35
 Directores Generales de CNEDOGE	16905
+Disaster Risk Management CNEDD National Framework	18198
 Données Intégré National CNDSP Comité National	13341
 Doter le CNDIFE de CNDIFE	17845
 Déconce MSAHRN Survey CNAM	17845
+Démographie CNEC Centre National	18290
 Développement CNLC Commission Nationale	15479
 ET DES ATTRIBUTIONS DU CNECI Article	14431
 ET DU CONTROLE DU CNECI Section	14431
+ETATS DE L’AFRIQUE DE L’OUEST CNIL	18105
 Eau CNR DTP Electricité	17866
 Eau CNSMHC Cadre National	17873
 Economie Solidaire Nord CNOS Communauté MSHP	17845
@@ -657,6 +682,8 @@ Emergency Response Component CNDRA Centre for National	17114
 Enfant CNPE	17842
 Entreprise du CNP	10367
 Estratégia de Comunicação da CNPD	1338
+Etat Civil CNI Carte Nationale	18290
+Etat Civil CNS	18291
 Etat Réponse CNFA	998
 Ex CNC	10965
 Executive Order IN-4 Establish CNI Database	11857
@@ -677,6 +704,7 @@ HASSEYE Abdoulaye CNDIFE Administrateur	17845
 HRMS. While CNIAPGE	16942
 Henri Sebgo du CNP-NZ	2377
 Homme CNP	15848
+Hygiene and Safety Committees CNDN	18370
 I.3.1. Organes I.3.1.1. CNDigit Le Comité	15936
 I.3.1.1. CNDigit	15936
 I.3.1.2. CNDSI	15936
@@ -691,6 +719,7 @@ INAP and CNIAPGE	16942
 INAP and CNIAPGE. Re-evaluate	16942
 INEGE CNE	16898
 ITB and CNRC. Under	4542
+Indice CNUCED	18319
 Industrie CAQCE Lab CNT NA ISO	16103
 Industrie CNI	13377
 Industrie CNS	10874
@@ -712,7 +741,7 @@ LIENS ENTRE LE CNSC ET	16621
 LIST OF ACRONYMS CNE National Election	11586
 La CNAM	15936
 La CNC	17863
-La CNDH	16287,1775
+La CNDH	16287,1775,38
 La CNDP	547,3,18,20,596,1415,6394,5299,39,3149
 La CNDPC	9836
 La CNI	15936,1963
@@ -739,6 +768,7 @@ Le CNN	15584
 Le CNP	15594
 Le CNPA	13781
 Le CNPA. Article	13781
+Le CNRA	18310
 Le CNRPT	16615
 Le CNS	16620,1208,14,2
 Le CNSC	16621
@@ -763,6 +793,7 @@ Main Street Cnr Sandkraal Rd and Ngcakani	8999
 Maintenance CNS	16552
 Makerere Univ DICOM CNN	9781
 Malmi CN	17773
+Malnutrition CNEC	18291
 Mamadou COULIBALY CNDIFE	17845
 Matoto La CNSS	16656
 Matters for Investment The CNC	15298
@@ -779,6 +810,7 @@ Moussa SANGARE CNE EMGA TRAORE LCL	17841
 Métodos de Autenticação The CNI	11872
 Naboudiemé DIATRE CNE AT MALLE CNE	17841
 Nairobi. CNC	8342
+National Agricultural Insurance Fund of Senegal CNCR	18309
 National CNI Protection Plan	14674
 National CNRE Centre National des Ressources	17873
 National Department of Health Civitas Building Cnr	396
@@ -816,8 +848,10 @@ P6 CNAFGE Notas de Organismos Internacionales	9543
 PAN- CNIG GIIG Objectif	17983
 PIU CN TIPPEE	15411
 PIU CN-TIPPEE	15411
+Parlementaires CNCAS Caisse Nationale de Crédit Agricole	18286
 Per CNBC Africa	1712
 Permanent Secretariat of CNR	11900
+Personnel Interview CNSP Conseil National	18204
 Portail du CNDJ	15936
 Pour le CNT	6959
 Presidente Interino da CNE	11561
@@ -872,6 +906,7 @@ Réadaptation de Gitega CNAR	13442
 S4 DESIR CNE EMGA	17841
 SETIC and CNSI	13312,2
 SGBS du CNTS Action IV.3.3 Interfacer le SGBS	13306
+SMIT du CNHU de Fann	18321
 SNIAC O CNI	7466
 SRIF. Le CNSMO	11944
 SS.DSPF ANTIM CNESS ANTIM Conseiller Technique	17882
@@ -879,7 +914,9 @@ SSONIG2PTEECDII CNRA ADCI INIE CI-ENGINEERING ANADER	2342
 ST- CNS	17842
 STRATÉGIES DE FINANCEMENT DU CNSC	16621
 Sadio CHEICK CNE EMGA	17841
+Sahel CNAAS	18309
 Sahel CNAQ Cadre	15961
+Sahel CNDH	18100
 Sante du Burundi PNDIS The CNSI	13312,2
 Saúde CNS Contas Nacionais de Saúde COP26	15966
 Secretariado Executivo da CNE	11561
@@ -889,6 +926,7 @@ Secretário Executivo Adjunto da CNE	11561
 Secretário Executivo da CNE	11561
 Secrétaire Général du CNEF. Le CNSMO	11944
 Secrétaire Général du CNPA	13781
+Secrétaire Permanent du CNSP Col. Sahabi Sani	18216
 Secrétariat CNIG	17983
 Secrétariat CNIG Disponibilité	17983
 Secrétariat Général du CNIG	15555
@@ -913,13 +951,16 @@ Standard Bank Surpasses CNY	8026
 States CNE	12201
 Statistique CNDIFE	17842
 Statistique CNS	17842
+Statistique CNS Conseil National	18169
 Statistiques CNS	17842
 Suivi-Évaluation du Plan CNSMHC	17873
 Surpassing CNY	8026
 Symphony Walk Town Cntr Cnr Govan	8999
 System CEB Central Electricity Board CNIS	14745
+Sénégal CMS Crédit Mutuel du Sénégal CNCR	18286
 Titulares O CNI	15392
 Toponymie. La CNT	17876
+Transformation. Le CNN	18334
 UMR CNRS	14666
 UNHCR and CNR	11900
 USAGERS DES SECTEURS PRIORITAIRES DU CNSC	16621

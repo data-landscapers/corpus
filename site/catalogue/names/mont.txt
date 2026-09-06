@@ -4,6 +4,8 @@ Activity1 Months2	13037
 Advertised Within Six Months and Filled Within	11218
 Advisor Estimated Monthly Operations Expenses	10738
 African Development Bank Group Carlos Monteiro	2865
+Afrique Montant	18346
+Air Dynamics Solutions. Communiqués-16 MONTHS.SEPTEMBER	18320
 Alberto Montanari	16135
 Alexandre Dias Monteiro. ANEXO	15503
 Alexandre Monteiro	11962,4093
@@ -58,12 +60,14 @@ Central Liberia North Western Montserrado	17127
 Centre Spatial Universitaire de Montpellier	13844
 Centre de Gestion des Monts Nimba	16627
 Charge for Monthly Account Statement	13304
-Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102
+Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1
 Closing Period Month	6579,349
 Closing Period Result Month	4653,11316,63,155
 Closing Period Value Month	10870,1101,257,39,173,3639,915,85,879
+Closing PeriodIndicator Name Result Month	18359
 Code LIBELLES Montants	18032
 Collective Capital Injected Every Month	7446
+Communiqués-17 MONTHS.SEPTEMBER	18320
 Completion Result Month	11924,4512,1526
 Compulsory Retirement MONTH RECRUITMENT	12970
 Conceptos LEY MONTO Var	4209
@@ -179,8 +183,10 @@ Gazetted Monthly Basic Minimum Wages1 for Agricultural	2775
 Gender Monthly	12253
 Global Drought Observatory Monthly Aridity Index	17157
 Golden Month	17167
+Gouvernement Communiqués-01 MONTHS.JUNE	18393
 Grand Bassa Margibi Gbarpolu Montserrado Rivercess	16921
 Grand Bassa Montserrado Montserrado LAAS-2024	17043
+Grande Mosquée de Dakar Communiqués-28 MONTHS.MAY	18393
 Grenada Guyana Haiti Jamaica Montserrat Nicaragua	16631
 Gross Official Reserves and Months of Import Cover	12962
 Groupe Scolaire Du Mont Kigali	4941
@@ -248,7 +254,7 @@ MEPA Monthly	12253
 MINFI Montée	10975
 MONEY AWAY MONTHLY	10977
 MONTANI CAZABAT	6613
-MONTANT	3868,6844,5287,1834
+MONTANT	3868,6844,5287,1834,371
 MONTANT Assurance	17833
 MONTANT DE L’HYPOTHEQUE CONSTITUE	13375
 MONTANT DES DEPOTS ET ENCOURS DES	13390
@@ -284,6 +290,10 @@ MONTHS Province District Clinics Community Health	11252
 MONTHS Set	11252
 MONTHS Supply-chain	1938
 MONTHS Table of Contents	11252
+MONTHS.APRIL	18386
+MONTHS.JULY	18386,26
+MONTHS.JUNE	18412
+MONTHS.MAY	18320,73
 MONTO Var	4209
 MONTRE	13300
 MONTREZ DES MODÈLES COURANTS AMPOULES	13300
@@ -342,8 +352,9 @@ Montagne Longue	14753
 Montagne Piquant and Pointe Coton Desalination Plant	14794
 Montan	13325
 Montane	16996
-Montant	737,1319,1340,1063,3426,2515,119,339,18,99,2400,15,134,208,5,746,5,1,1,49,1,854,5,181,59,51,109,67,19,16,32,10,56,13,35,158,25,19,14,32,27,6,206,213,738,348,9,18,22,31,33,67,19
+Montant	737,1319,1340,1063,3426,2515,119,339,18,99,2400,15,134,208,5,746,5,1,1,49,1,854,5,181,59,51,109,67,19,16,32,10,56,13,35,158,25,19,14,32,27,6,206,213,738,348,9,18,22,31,33,67,19,89,48,116,31,3,27
 Montant Age	13390
+Montant Blocage	18322
 Montant Cas de Remboursement Anticipé	15901
 Montant Contre-valeur de DH	17485
 Montant Indicatif	643
@@ -399,7 +410,7 @@ Montesanti S	3791
 Montesquieu	8993,4274
 Montesquiou	11133,9
 Montgomery	5349,11650
-Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,220,5,34,89,38,1,15,30,60,60,417,54,6,425,58,665,808,379,52,311,234,44,19,47,108,249,269,167,63,43,16,6,79,17,374,35,399,54,48
+Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,220,5,34,89,38,1,15,30,60,60,417,54,6,425,58,665,808,379,52,311,234,44,19,47,108,249,269,167,63,43,16,6,79,17,374,35,399,54,48,344,4,1,4
 Month Above	12233
 Month Avg Resolution	9772
 Month Balance	16935
@@ -428,7 +439,7 @@ Month-on-Month	13685
 Month-on-month	13052
 Month-precision	3755,7217
 Month-to-Month Fibre-to-the-Home Tariff Plans	11259
-Monthly	236,346,154,950,302,1001,122,861,260,758,331,140,971,107,389,252,368,114,1166,1154,899,337,10,31,598,12,83,1,2,1,8,12,32,245,3,117,16,16,285,208,79,28,48,251,88,87,127,163,329,675,42,13,8,61,102,91,39,35,307,7,35,40,21,30,16,1,92,1,86,344,689,15,5,73,9,28,8,128,6,9,13,13,17
+Monthly	236,346,154,950,302,1001,122,861,260,758,331,140,971,107,389,252,368,114,1166,1154,899,337,10,31,598,12,83,1,2,1,8,12,32,245,3,117,16,16,285,208,79,28,48,251,88,87,127,163,329,675,42,13,8,61,102,91,39,35,307,7,35,40,21,30,16,1,92,1,86,344,689,15,5,73,9,28,8,128,6,9,13,13,17,1080,72
 Monthly 10000 RWF	718
 Monthly 21000 RWF	718
 Monthly 30000	718
@@ -441,6 +452,7 @@ Monthly Average Temperature Forecasts First	14955
 Monthly Bed Occupancy Rates	2775
 Monthly Broadband Internet	14836
 Monthly Brochures	958
+Monthly Bulletin12	18309
 Monthly CAIDI	12256
 Monthly CSG	14782
 Monthly Documenting	1988
@@ -513,10 +525,10 @@ Monthly& Quarterly Expenditure Reports	16944
 MonthlyStatistical Bulletin	16833
 MonthlylyLLPPGGCCoonnssuummppttiion	12256
 Monthlyy PPeettrroolleeuummDdemand	12256
-Months	2775,903,876,661,1217,10,494,62,909,2,42,2206,655,938,119,139,49,299,33,55,4,35,25,409,53,67,46,102,277,509,575,485,98,123,208,340,412,759,186,78,22,246
+Months	2775,903,876,661,1217,10,494,62,909,2,42,2206,655,938,119,139,49,299,33,55,4,35,25,409,53,67,46,102,277,509,575,485,98,123,208,340,412,759,186,78,22,246,601,250
 Months Average	3583
-Months Average Available Capacity	12062
-Months Average Hourly Generation	12062
+Months Average Available Capacity	12062,6124,31
+Months Average Hourly Generation	12062,6124,31
 Months Blockchain	11869
 Months EURIBOR	11863
 Months Fully Immunized	16935
@@ -546,11 +558,12 @@ Montoya	5349
 Montoya-Restrepo	8021
 Montpellier	10231,909,2704,2515
 Montran	12364
+Montre	18312
 Montreal	1219,6151,101,2822,4811,2766
 Montreal AI Ethics Institute	10246
-Montreal Protocol	13624,643
+Montreal Protocol	13624,643,3851
 Montrer	13329
-Montréal	10821,5095
+Montréal	10821,5095,2202
 Monts Misseke	15848
 Monts Misséké	15848
 Monts Nimba	16627
@@ -589,6 +602,7 @@ Monty Mobile Monty Mobile	9610
 Monty Mobile's African	9610
 Monté Anne Rouge	16213
 Montée	8891,8991
+Montées-	18291
 Monténégrine	16249
 Monténégro	6613,5025
 Moyen-Orient Montant	10519
@@ -619,6 +633,7 @@ Number of Inspection E-Government Monthly	12253
 Number of Monthly International Visitor Arrivals	2775
 O Ministro Alexandre Monteiro	11962
 OCTOYES AINSI QUE LE MONTANT ET	13390
+OPERATEURS MONTANT	18122,200
 ORDENS DE PAGAMENTO E MONTANTES TRANSFERIDOS	10755
 Ole Hanseth and Eric Monteiro	7151
 Online Market Development and Integration Baseline Month	6928
@@ -717,7 +732,8 @@ Southeastern B and Montserrado	17043
 Système de Gros Montants Automatisé	969,14505,460,1008
 Système de Règlement de Gros Montants	13468
 Système des Gros Montants Automatisé	10724
-Sénégal Montant	10519
+Sénégal Communiqués-29 MONTHS.MAY	18393
+Sénégal Montant	10519,7827
 T Montentienrera	15999
 TAs NRIS Monthly CRVS	13005
 TOT AL Montant	13390
@@ -729,6 +745,7 @@ TechPark CV President Carlos Monteiro	2860
 Technical Mandatory Monthly	11952
 Third Member for Port-Louis North and Montagne Longue	14753
 Transaction Monthly P50	5687
+Turkménistan Montant	18346
 USD Montant	14539
 Univ. Montpellier	16359
 University of Montreal	1219

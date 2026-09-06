@@ -72,7 +72,7 @@ Achard F	16463
 Acharya	8283
 Acharya S	12379
 Achas Autorizo	11569
-Achat	737,912,2810,4868,1514,34,100,2415,43,1055,1,1,1180,4,50,42,233,38,115,562,771,348,40,159
+Achat	737,912,2810,4868,1514,34,100,2415,43,1055,1,1,1180,4,50,42,233,38,115,562,771,348,40,159,290
 Achat Euros Gratuit	17833
 Achat Terminal de Paiement	17833
 Achat Une	10876
@@ -95,14 +95,14 @@ Acheampong	7491,67
 Acheleur	13524
 Acheminement	10876,4518,491,58,352
 Achetaur	13524
-Acheter	3164,3,595,9628,4455
+Acheter	3164,3,595,9628,4455,359
 Acheter des DSGHP ETAT	17845
-Acheteur	5983,7541,31,75,868,2114,1302,123
+Acheteur	5983,7541,31,75,868,2114,1302,123,157
 Acheteur Sous	13524
 Acheteur. Pour	13524
 Achetez	18054
 Achevement	13669
-Achever	15542
+Achever	15542,2747
 Achevé	16152
 Achi Joseph	10270
 Achi Uno	6211
@@ -143,7 +143,7 @@ Achieved Integration Our Integration	12761
 Achieved Level	11131
 Achieved No. Target	16978
 Achieved Page	16436
-Achievement	1264,1725,2544,1299,4386,768,370,318,718,793,561,213,413,529,243,292,824
+Achievement	1264,1725,2544,1299,4386,768,370,318,718,793,561,213,413,529,243,292,824,1033
 Achievement Comment Building	17849
 Achievement Fiber Optic Network Installation Installation	15578
 Achievement MNRE Ministry of Natural Resources and Energy	12970
@@ -179,19 +179,21 @@ Achievements and Challenges Part II	14835
 Achievements and Progress Part III Financial Performance	14761
 Achievements of NPS Vision	13076
 Achievers	7167
-Achieving	396,832,36,513,1477,64,867,247,257,553,4,31,273,150,989,249,59,280,271,203,295,295,262,342,175,117,524,574,125,359,37,114,15,19,2,125,6,3,9,74,245,104,337,9,46,22,247,24,103,39,14,267,261,23,41,309,218,149,187,21,115,219,290,33,128,70,3,5,29,37,56,5,43,10,65,59,64,10,114,360,428,622,21,177,31,1,1,50,7,1,28,47,239,3,168,10,290,142,13
+Achieving	396,832,36,513,1477,64,867,247,257,553,4,31,273,150,989,249,59,280,271,203,295,295,262,342,175,117,524,574,125,359,37,114,15,19,2,125,6,3,9,74,245,104,337,9,46,22,247,24,103,39,14,267,261,23,41,309,218,149,187,21,115,219,290,33,128,70,3,5,29,37,56,5,43,10,65,59,64,10,114,360,428,622,21,177,31,1,1,50,7,1,28,47,239,3,168,10,290,142,13,422
 Achieving AI	2958
 Achieving B-BBEE Level	7210
 Achieving Botswana's National Vision and Aspirations	12536
 Achieving Digital Inclusion Goals	2677
 Achieving Excellence	14738
 Achieving ISO	2350,11284
+Achieving Impacts	18125
+Achieving Impacts Humanitarian	18125
 Achieving Interoperability	6177
 Achieving Learning	14566
 Achieving Namibia's NDP6	12466
 Achieving SDGs	13989
 Achieving Semantic Interoperability	12360
-Achieving UMC	10844
+Achieving UMC	10844,7279
 Achieving and Measuring Change	11006
 Achieving the COP28	11572
 Achieving the Management Objective	17883
@@ -214,8 +216,11 @@ Acholi	2928,1929,32,5055
 Achraf Tarsim	17518
 Achuthan	6529
 Achwa	10975
-Achèvement	2342,8475,30,2586,2845,1232,397,6
+Achèvement	2342,8475,30,2586,2845,1232,397,6,258
 Achèvement Garçons Filles G	10847
+Achèvement Primaire	18171
+Achèvement Primaire TBA Taux Brut	18171
+Achèvement TAP Taux	18171
 Achèvement TBFS	737
 Achèvement du Projet	2342
 Acronyms ACH Automated Clearing House ACE	16876
@@ -260,6 +265,7 @@ Central Banks ACH ARREST Agenda for Inclusive	17235
 Certificate of Achievement	17235
 Certificates of Achievement and Diploma	17235
 Chargé de Service Achat	16381
+Chukwudi Achife Chief Press Secretary	18240
 Col. Abena Nyarkoaa Acheampong	6936
 Comité Local des Achats	14622
 Comments Achieved. Integrated	17470
@@ -291,6 +297,7 @@ Dollars Achat	17833
 ESSP. Achieving	14922
 Economie Numérique Acheteur	13567
 Egypt Egypt ACH System CCAA	6938
+Empowering Communities and Achieving Gender Equality	18125
 Eric Achille MBENDJE	16175
 Establishments GOAL TO ACHIEVE	15679
 Eswatini. Achieving	12911
@@ -373,6 +380,7 @@ Low IGF Achieve Increase Enhance	15845
 Lt. Gen. Achol	9122,464,185
 Lt. Gen. Achol Cyier Rehan	9122,464
 M. Djelloul Youcef Achira	15467
+M. Mamane Achoura	18149
 MAIN RESULTS ACHIEVED BY COMPONENT Component	15601
 MAJOR ACHIEVEMENTS	14773
 MAJOR ACHIEVEMENTS AS PER PREVIOUS STRATEGIC	12973
@@ -425,6 +433,7 @@ Official Use Only Comments Achieved. Training	17470
 On-going Achieve	16872
 Ouganda Fleuve Achwa	10975
 Oum Acheyich	17951
+Outcomes and Achievements	18125
 Overview Achieving the Digital Addressing Policy	16915
 PART II ACHIEVEMENTS BY HEALTH SERVICES	14773
 PBC-based. Achievement of PBC	15659

@@ -49,6 +49,7 @@ Oracle WebLogic Server	3279,85
 PC. Server	34
 Perso Server	4924
 Provider Security Server	11952
+RPKI Enabled HUBSIX Route Servers Autonomous	18420
 Regular Reboot of Serves Scheduled	9123
 Reporting Server	13037
 Reserve Parts for Servers	9123
@@ -97,7 +98,7 @@ Servest	10279
 Serveur	15548,7,4,111,2153
 Serveur Un	15512
 Serveur Vocal Interactif	14488,1,1
-Serveurs	9049,4475,1013,146,941
+Serveurs	9049,4475,1013,146,941,2673
 Serveurs DHCP	15512
 Serveurs DNS	15512
 Serveurs NAS C'est	15512

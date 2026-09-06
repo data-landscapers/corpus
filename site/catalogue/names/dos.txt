@@ -1,6 +1,9 @@
+AGADEZ DIFFA DOSSO MARADI TAHOUA TILLABERI	18204
 AVADAR SIH Dossier	17882
 Abdoul Moumouni Mahamane ONEP Dosso	10154
 Administrateur Chargés des Dossiers	17982
+Agadez Diffa Dosso Maradi Tahoua Tillaberi	18204
+Agadez Diffa Dosso Maradi Tahoua Tillabéri	18204
 Arman Doskaliev	10714
 Attente Dossier	10975
 Ayi Renaud Dossavi	11758
@@ -17,6 +20,7 @@ CONTRÔLE DES OPÉRATEURS TRAITEMENT DE DOSSIERS	15670
 Constituer le Dossier des Ouvrages Exécutés	17846
 Constructeur le Dossier de Projet	17846
 Contenu du Dossier	13524
+Coupe du Sultan de Dosso	18267
 DCCF RELATIF AUX DÉPÔTS DES DOSSIERS	9976
 DENOMINATION COMMUNE INTERNATIONALE FORME DOSAGE CRITERES	15930
 DES OPERATEURS AYANT DEPOSE UN DOSSIER	15670
@@ -24,6 +28,7 @@ DMI Dossier Médical Informatisé DODS Direction	13306
 DOSAGE CRITERES DE DISPENSATION	15930
 DOSAGE CRITERES DE DISPENSATION CODE DCI	15930
 DOSAGE CRITERES DE DISPENSATION DENOMINATION COMMUNE	15930
+DOSCE	18143,27
 DOSCIENTOS CUARENTA MIL	4209
 DOSCIENTOS MIL	4209
 DOSCIENTOS SETENTA MIL	4209
@@ -44,8 +49,11 @@ DOSSIER SPÉCIAL	10819
 DOSSIER Uber	9961
 DOSSIERS A FOURNIR	16646
 DOSSIERS D'APPEL D'OFFRES	15850
+DOSSO	18122,21,27,1
 DOSSO Adama	2342
+DOSSO Garçons	18171
 DOSSO Lanciné PMI	2342
+DOSSO Préscolaire	18171
 DOSSOU. DIRECTION DES ETUDES ET	16381
 DOSTS	16195
 DOSTS Bureau National	15599
@@ -62,18 +70,25 @@ Dose Percent of IPT	16971
 Doseline Kiguru	12227
 Doses	11401,3359
 Doshi	2518
-Dossier	766,1035,318,2223,1411,3958,467,643,55,99,957,1443,92,57,247,383,334,1,1,47,85,826,94,13,116,41,173,51,386,116,143,166,561,153,24,15,25,9,348,20
+Dossier	766,1035,318,2223,1411,3958,467,643,55,99,957,1443,92,57,247,383,334,1,1,47,85,826,94,13,116,41,173,51,386,116,143,166,561,153,24,15,25,9,348,20,192,24,129,50,35,38
 Dossier ASHFAR Il	15670
 Dossier ASHFAR POWER SARL	15670
 Dossier Administratif	15614
+Dossier Electronique	18105
+Dossier Electronique du Patient	18105
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
 Dossier Fiscal	15614
 Dossier Médical	15936,259
 Dossier Médical Electronique	16195
 Dossier Médical Electronique Implémentation	16195
+Dossier Médical Personnel	18105
 Dossier N	14488,1,1
-Dossier Patient	15936
-Dossier Patient Informatisé	15936,370,135
+Dossier Patient	15936,2361
+Dossier Patient Informatisé	15936,370,135,1878
+Dossier Patient Partagé	18297
+Dossier Patient Partagé Définition	18297
+Dossier Rural. Article	18094
+Dossier Rural. CHAPITRE IV	18094
 Dossier Tout	13524
 Dossier Type	13771
 Dossier de Consultation	9339,4948,1
@@ -83,25 +98,34 @@ Dossier de Projet	17846
 Dossier de Projet Définitif	17846
 Dossier des Ouvrages Exécutés	17846
 Dossier du Lot	13375
-Dossiers	8943,537,1396,99,586,482,1317,2310,41,1295,966,10,31
+Dossiers	8943,537,1396,99,586,482,1317,2310,41,1295,966,10,31,81,228
 Dossiers Journées du Droit	3675
 Dossiers Noirs Des Lions	4960,62,2035
 Dossiers Prestations	3675
 Dossiers UK Actualités Têtes	13419
 Dossiers UK PLUS LUS Economies Africaines	13419
-Dosso	998,2969,72,5629,486,393,1050,6343
+Dosso	998,2969,72,5629,486,393,1050,6343,164,1,13,4,3,18,8,8,6,4,1,21,13,16,30,6,9,2,16
+Dosso Union	18105
+Dosso and Diffa	18220
+Dosso. Ainsi	18204
 Dosso. Au	998
+Dosso. Selon	18204
+Dosso. Toutes	18151
 Dossou	766
 Dossou Louis	6252
 Dossou Patrice Ahouansou	15008
 Dossou Vincent Sodjinou	6206
+Du Dossier Rural Article	18094
 DÉLAI DE TRAITEMENT DES DOSSIERS D’INVESTISSEMENT	17898
 El Hadji Dossolo Traoré	8576
 Etrangers Dossier	3381
 Every Dose	15160
 Examen des Dossiers Programme Résultats	3396
+FRAIS D'ETUDE DE DOSSIERS	18122
 Francisca Dossou Adikpéto	2412
 GDS Orion Licence Dossier	10975
+Gouvernorat de Dosso	18116
+ICRISAT's Niger Dossier	18197
 II. SUR L’EXAMEN DES DOSSIERS	16177
 INSTRUCTION POUR LE DOSAGE POIDS	13300
 INTERNATIONALE FORME DOSAGE CRITERES DE DISPENSATION	15930
@@ -109,7 +133,7 @@ Industrie Dossiers	17982
 JJ Dossen Hospital	17289
 Jornal Dossier	12844
 Kolwezi. Dossier	15670
-Le Dossier	5983,7484,57,106,872,2079
+Le Dossier	5983,7484,57,106,872,2079,1513,153
 Le Dossier de Demande de Propositions	5983,7572
 Les Dossiers	1649,9227
 Léonard Dossou	2915
@@ -126,6 +150,7 @@ Moïse Dossoumou	5546
 Muanda. Dossier	15670
 OCRC Dossier	10821
 Offres Le Dossier	13524
+Pathak. Launch of ICRISAT's Niger Dossier	18197
 Peter Dossou KPONOR	16701
 Postes Consulaires Dossier	3381
 Pour Mme Charlotte DOSSOU	16267
@@ -144,8 +169,13 @@ Susan Dossi	14190
 Système Intégré de Gestion des Dossiers Judiciaires	17978
 Sébastiano J. DOSSOU YOVO Séwakounou KOKODE	15475
 TRAITEMENT DES DOSSIERS PAR SEGMENT O1	15670
+Tournoi de Maracaña Dosso	18267
 UNITES RECUS DOSSIERS ECARTS Pourcentage TRAITES	10975
-Université de Dosso	3356
+UNIVERSITÉ DE DOSSO	18170
+Université de Dosso	3356,14787,136
+Université de Dosso Administrateur	18279
+Université de Dosso URL	18279
+Université de Dosso. Conçu	18279
 VII. FRAIS D’INTRUCTION DES DOSSIERS D’AGREMENTS	16047
 Vincent Dossou SODJINOU	15724
 Zéro Dose	14622

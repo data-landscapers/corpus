@@ -169,6 +169,8 @@ Chainama Hospital	34
 Chaine	10975,2439,2306
 Chaine HIFI	18014
 Chaine WhatsApp	15712
+Chaines	18286
+Chainette	18099
 Chains	226,10615,1153
 Chains Project Bill	8399
 Chains and Market Differentiation	14818
@@ -177,7 +179,7 @@ Chainsaw	16843,5
 Chainsaw Milling Market	16853
 Chainsaw Regulation	16843
 Chainsaw Regulations	16843
-Chair	318,244,23,941,209,95,287,420,131,596,249,27,43,520,425,463,254,57,303,660,673,204,36,274,96,1000,97,337,85,440,138,409,259,376,442,3,49,32,57,5,201,429,88,364,153,468,62,307,38,49,25,65,12,53,150,526,166,31,200,78,11,88,188,26,658,39,1096,5,4,10,48,55,47,20,51,17,104,26,22,69,41,136,152,90,164,81
+Chair	318,244,23,941,209,95,287,420,131,596,249,27,43,520,425,463,254,57,303,660,673,204,36,274,96,1000,97,337,85,440,138,409,259,376,442,3,49,32,57,5,201,429,88,364,153,468,62,307,38,49,25,65,12,53,150,526,166,31,200,78,11,88,188,26,658,39,1096,5,4,10,48,55,47,20,51,17,104,26,22,69,41,136,152,90,164,81,359
 Chair Mosotho Moepya	10497
 Chair Mr Alex Shimuafeni	12706
 Chair PeeringDB Outreach Committee	16545
@@ -208,7 +210,7 @@ Chaire UNESCO ACCES-TIC	8906
 Chaired	6938,2405,2995,75,629,1986,28,74,168,323,212,737
 Chairing	21,7171,5339,2633,714,918
 Chairlady	17099
-Chairman	736,395,98,1342,127,139,313,564,327,222,427,6,102,98,253,509,107,139,57,5,4,329,134,103,216,194,71,93,88,6,248,212,60,24,225,65,49,107,94,178,11,110,76,172,104,16,59,53,35,19,32,109,96,178,214,130,169,108,97,59,217,20,128,3,432,13,3,2,3,34,423,60,31,22,34,34,19,49,11,2,4,3,95,21,87,1,81,56,114,211,80,38,2,6,101,3,118,14,6,11,148,118,239,30,508,169,19,91,182,1,153,112,205,190,29,136,77,62,19,80,11,186,216,35,291,63,174,350,34,2,12,123,8,78,43,5,65,4,17,45,5,51,26,41,10,3,7,23,37,65,117,56,120
+Chairman	736,395,98,1342,127,139,313,564,327,222,427,6,102,98,253,509,107,139,57,5,4,329,134,103,216,194,71,93,88,6,248,212,60,24,225,65,49,107,94,178,11,110,76,172,104,16,59,53,35,19,32,109,96,178,214,130,169,108,97,59,217,20,128,3,432,13,3,2,3,34,423,60,31,22,34,34,19,49,11,2,4,3,95,21,87,1,81,56,114,211,80,38,2,6,101,3,118,14,6,11,148,118,239,30,508,169,19,91,182,1,153,112,205,190,29,136,77,62,19,80,11,186,216,35,291,63,174,350,34,2,12,123,8,78,43,5,65,4,17,45,5,51,26,41,10,3,7,23,37,65,117,56,120,378,70,9,9
 Chairman Adilson	6624
 Chairman Air Cdre. Dr. Eng. E	1554
 Chairman Ali Saad Al-Kahtani	13432
@@ -301,7 +303,7 @@ Chairmen and Secretaries	10049
 Chairmen of State Universal Education Boards	11860
 Chairpernon	16836
 Chairpersen	16836
-Chairperson	7,578,133,65,157,32,4,155,23,44,47,143,390,60,32,30,20,416,290,101,683,173,1,130,147,26,72,108,461,204,535,183,129,246,711,286,116,8,602,1,278,18,122,410,44,64,11,370,95,106,15,44,88,100,8,19,304,85,30,1,91,97,220,144,140,23,93,630,16,14,3,5,10,8,1,16,13,4,1,13,161,342,34,20,89,97,261,108,97,18,1,15,6,77,11,3,2,4,12,14,18,9,54,144,5,15,31,89,13,18,36,1,22,2,1,172,13,10,11,32,21,11,37,9,21,91,47,47,18,143,322,129,9,133,1,12,27,37,7,101,123,2,2,1,13,1,7,1,9,14,1,43,13,19,7,2,10,1,17,27,116,4,54,21,129,80,82,814,623,6,3,2,9,1,36,40,41,102,104,3,431,137,271
+Chairperson	7,578,133,65,157,32,4,155,23,44,47,143,390,60,32,30,20,416,290,101,683,173,1,130,147,26,72,108,461,204,535,183,129,246,711,286,116,8,602,1,278,18,122,410,44,64,11,370,95,106,15,44,88,100,8,19,304,85,30,1,91,97,220,144,140,23,93,630,16,14,3,5,10,8,1,16,13,4,1,13,161,342,34,20,89,97,261,108,97,18,1,15,6,77,11,3,2,4,12,14,18,9,54,144,5,15,31,89,13,18,36,1,22,2,1,172,13,10,11,32,21,11,37,9,21,91,47,47,18,143,322,129,9,133,1,12,27,37,7,101,123,2,2,1,13,1,7,1,9,14,1,43,13,19,7,2,10,1,17,27,116,4,54,21,129,80,82,814,623,6,3,2,9,1,36,40,41,102,104,3,431,137,271,182
 Chairperson Beyond	12969
 Chairperson Board of Trustees	6536
 Chairperson Committee	14664
@@ -382,6 +384,7 @@ Chairwoman of ARE’s Board of Directors	15670
 Chairwoman of Portugal's ANACOM and Co-Chair	7199
 Chair’s Statements	5044
 Chaise	10847
+Chaises	18286
 Charles Chaitezvi Team Leader- EDF	13563
 Chenai Chair	3987,13883
 Chief Electoral Commissioner and Chairman	14351
@@ -400,12 +403,15 @@ Co-Founder and Chair of Google DeepMind	17428
 Co-Founder and Executive Chairman of Cassava Technologies	1636
 Coconut Value Chain	17101
 Cold Chain	16971
+Cold Chain Data Exchange	18281
 Cold Chain Equipment	14546
 Cold Chain Management	9855
+Colonel Major IDRISSA Chaibou Directeur Général	18122
 Colonel Major Idrissa Chaibou	2801
 Colonel-major Idrissa Chaibou	4813
 ComCom Chairman Meets	14621
 Commissioner Michael McGrath and Chairperson Haksoo Ko	9067
+Commissioner for Finance and Chairman	18155
 Commissions and Chairpersons	5302
 Committee APC Chairman Yansaneh Backs PPRC	7934
 Committee Chair	7452
@@ -429,7 +435,7 @@ Corporate Bodies General Meeting Board Chairman	11955
 Court of Cassation and Chairman	11641
 Cross-Border Banking Supervision Chaired	6938
 Cybersecurity Supply Chain Risk Management	6936
-D. Results Chain	969,295,603,8901,61,135,416,180,295,1476,1,1578,27,554,24,3,35,68,37,1,2,1288
+D. Results Chain	969,295,603,8901,61,135,416,180,295,1476,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8
 D. Results Chain E. Rationale for World	15518
 D. Results Chain Figure	13331
 D. Results Chain Note	10829
@@ -502,7 +508,7 @@ Eurico Wongo Gungula. This UNESCO Chair	11478
 Evaluative Chain	10726
 Excellency the Esteemed Conference Chairman	15026
 Exec Chairman Mohamed Mekouar	3473
-Executive Chairman	2827,668,3619,1474,3388,62,2635,2880,99
+Executive Chairman	2827,668,3619,1474,3388,62,2635,2880,99,503,85
 Executive Chairman Chairman	11976
 Executive Chairman of Celltel Networks Limited	17717
 Executive Chairman of DS Tech Namibia	17796
@@ -559,6 +565,7 @@ Global Health Supply Chain	1261
 Global Value Chains	10856
 Glossary Chain	11286
 Godfrey Gomwe Chairman	4896
+Gombe State Vice Chairperson	18139
 Governance Chairman's Review	12551
 Government Ministère de Chairs the Local Education Group	11916
 Governor and Chairman	11134,5970,213
@@ -604,6 +611,7 @@ IEC Chairman Joseph Colley	17654
 IEC Chairperson	12756
 IGAD Chairperson	14511
 IHS Towers Chairman and Chief Executive Officer	9639
+INDICATEURS DE PERFORMANCE CHAINE DES RESULTATS	18291
 INTIC Chairman	10141,1960
 INTIC Chairman H.E. Prof. Dr	6377
 INTIC Chairman Lourino Chemane	4180
@@ -612,6 +620,7 @@ IPv6. The Chairman	5904
 ISACA Kampala Vice President and Conference Chairperson	10416
 ISN Board Chairman Engr. Hanson Johnson	12053
 Ibeju-Lekki Chairman Hon. Abdullahi Sesan Olowa	9444
+Ibro Chaibou	18161
 Iddi Isabirye Deputy Chairperson Parliamentary Committee	3050
 Idrissa Chaibou	4059,754
 Ignace GATARE Chairperson	718
@@ -653,6 +662,7 @@ LACC Chairperson Launches New Online Application	17037
 LACC’s Executive Chairperson	17037
 LC3 CHAIRPERSON	7772
 LES CHAINES DE VALEUR DURABLES DES	15613
+LGA Cold Chain Officer	18281
 LGAs Chairpersons	16951
 LLA Chairman Kpakio	9651
 LLA Chairman Samuel F. Kpakio and Commissioner	9651
@@ -771,6 +781,7 @@ National Supply Chain Strategy	10829,1777
 Nationwide D. Results Chain	15661
 NdhloVvuice Chairperson Prof. I. D.T. Mpofu	1154
 Ndhlovu Chairperson Commissioner N. Matshe	1154
+Niger. Colonel Major IDRISSA Chaibou	18122
 Nigeria Supply Chain Finance PASA	11469
 Nigeria Takes Over ATU Chairmanship	8241
 Nigeria's Digital Value Chain Infrastructure for Boosting	4452,1352,1046
@@ -856,8 +867,10 @@ Republic of Uganda and Chairperson	13673
 Republic of Zimbabwe and Outgoing Chairperson	9761
 Republic of Zimbabwe and Outgoing Chairperson of SADC	12640
 Republic of Zimbabwe and Vice Chairperson	13440
-Results Chain	11924,3500,87,90,62,68,705,516,897,13,100
+Result Chain E. Rationale for World Bank	18293
+Results Chain	11924,3500,87,90,62,68,705,516,897,13,100,331
 Results Chain Component	15411
+Results Chain Note	18104
 Results Chain RESULTS CHAIN	15138
 Revenue Administration Primary Value Chain COMPLIANCE	16968
 SADC Chair	10324
@@ -911,6 +924,7 @@ Supply Chain	10721,413,1021,1011,3991
 Supply Chain Analysis for Plastic Pellets	14793
 Supply Chain Audit	4153,14,35,15,43,41,48,1003
 Supply Chain Conducting Unit	10829
+Supply Chain Digitalization	18162
 Supply Chain Insecurity and Poor Verification of Imported	6936
 Supply Chain Management	4349,2917,3922,62,2,1354,370,113,674
 Supply Chain Management Division	1264
@@ -948,6 +962,7 @@ Telcom Consumer Compliance Supply Chain Services	6946
 Terms of Reference. The Chairperson	14736
 Theory of Change and Results Chain KEY CHALLENGES	13331
 Trade and Investment of Nigeria and Chair	7039
+Transformation of Value Chains	18359
 Transforming High- Potential Resilient Value Chains	8434
 Transforming High-Potential Resilient Value Chains	6754
 Transforming High-Potential Resilient Value Chains Project	8399
@@ -970,6 +985,7 @@ Under Chairman Brendan Carr	10444
 United Republic of Tanzania. The Chairperson	13610
 University of Cape Town SARChI Chair	3654
 University of Cape Town’s IP Chair	6041
+Unlock Healthcare Value Chain	18253
 Upper East Regional Chairman	3691
 VII- ELECTION OF THE NEW CHAIR	7452
 Vice Chair	3513,5132,4686,3907
@@ -982,6 +998,7 @@ Vice Chairman for Administration	17190
 Vice Chairman for Culture and Traditional Affairs	16970
 Vice Chairman for Peace	16970
 Vice Chairman for Peace and Reconciliation. The United	16970
+Vice Chairman of Rashmi Metaliks Group	18221
 Vice Chairperson	972,7894,918,2762,99,673,53,69,30,1392,410,1558
 Vice Chairperson and Deputy Governor	15023
 Vice Chairperson of RCZ	1554
@@ -992,6 +1009,7 @@ WORLD Honourable House Chairperson	11277
 Warren Dlamini Supply Chain Mayibongwe Nkambule	11134
 Warren Dlamini Supply Chain Nondumiso Dlamini	11131
 Water Supply Value Chain	13474
+Water Valorization Project for Value Chain Development	18309
 Windhoek. Board Chairperson Tulimevava Mufeti	6784
 Working Group Chaired	6938
 Works Chairperson	17260

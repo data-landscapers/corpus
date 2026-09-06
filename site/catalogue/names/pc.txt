@@ -15,6 +15,7 @@ Any PC	12364
 Appliances PCIe Peripheral Component Interconnect Express	13185
 Atmospheric Administration PC Personal Computer PR	11553
 Bank of Sierra Leone and PCL International Ltd	2112
+Boubacar CAMARA PCS-Jengu Tabax M	18310
 Boys. This PC	13990
 Branch Exchange PAYG Pay-As-You-Go PCK Postal	6946
 Branch Exchange PC Personal Computer PDF	34
@@ -120,9 +121,11 @@ OSC PACS PCIME PDDSS PMA PNUD	17882
 OSI Online Service Index PCT Patent	12674
 Occupational Health and Safety PCB Polychlorinated Biphenyls	17114
 Once the PCU	15372
+Open No PCH AS3856 Autonomous	18420
+Open Yes PCH AS42 Autonomous	18420
 Où PCD	17945
 P SOCIETE PCI SARLUNIPERS PCI SARLU	16623
-PAC Partial Activation of Contract PCC Partial	12062
+PAC Partial Activation of Contract PCC Partial	12062,6124,31
 PAD Project Appraisal Document PCN Project	17114
 PBC Performance Based Condition PCE Private	15659
 PBF Performance-based Financing PCU Project Coordination	11560
@@ -133,6 +136,7 @@ PC Hill	766
 PC Network Engineering Information	6832
 PC PIB PME PNB PNUD PNDTIC	13290
 PC Personal	16883
+PC Sécurité	18118
 PC Windows	15129
 PC Yes Ethernet	34
 PC ZMD Le Premier	15744
@@ -163,6 +167,7 @@ PC4IR Report	11265
 PC4IR Strategic Implementation Plan	11230
 PC4IR Strategic Implementation Plan. Programme	11230
 PCA Paquet	17843
+PCA Principal Component Analysis PDO Project	18104
 PCA Principal Component Analysis RCT Randomised	12006
 PCA da AGT	6309,4477
 PCA da ARME	16134
@@ -173,7 +178,7 @@ PCA da Imprensa Nacional de Cabo Verde	6571
 PCA da UNITEL	4248
 PCA de CI-ENGINEERING	2342
 PCA du ARSEL LA TRANSPARENCE POUR UN	10975
-PCA-based	9349
+PCA-based	9349,8755
 PCACs	9850,6
 PCAS Plano de Compromissos Ambientais	11390
 PCB-containing	17114
@@ -188,7 +193,7 @@ PCDFs	1988
 PCE No Implementation Schedule No Risks	15969
 PCE No Procurement No Results	2473
 PCE No Procurement No Risks	16187
-PCE No Risks No Legal Covenants	16032
+PCE No Risks No Legal Covenants	16032,2327
 PCE Per	11380
 PCE Private Capital Enabling PCM	6539
 PCE Private Capital Enabling PCM Private	3604
@@ -197,6 +202,7 @@ PCE for Phase	3604
 PCE. PCM	3604
 PCE. The Program	3604
 PCEA Nyamachaki Comprehensive School	12312
+PCF Bienvenue	18424
 PCGE 2023 FINAL.pdf	3667,1345
 PCH AS3856	14810,1234,507
 PCH AS42	14810,1234,507
@@ -211,7 +217,7 @@ PCI-DSS	3395,394,1876,1273,345,3438,1234
 PCI-DSS-v4 0 1.pdf	6471
 PCI. L’utilisation du Modèle	14622
 PCIDSS	16997
-PCIME	15595,125,4,2119,39
+PCIME	15595,125,4,2119,39,355
 PCIME Prise	17843
 PCIe Gen	13185
 PCIe Gen5	12681
@@ -322,6 +328,7 @@ Pen Interview PCMA Publicity	11192
 Performance Based Grant PCR	12175
 Performance PCA	15423
 Personal Computer PCI	11955
+Platform for Agricultural Risk Management PCE	18309
 Policy PBC Performance-based Condition PCU Project	15515
 Potential PCE	3604
 Procurement. Full-time PCU	16896,26
@@ -332,6 +339,7 @@ Project Coordination Unit PCU	15372
 Project Management and E&S Compliance PCN Approval	14080
 Project PCE Emerging Comoros Plan PCN	13731
 Project Primary and Secondary PCU	15661
+Promotion du Genre PCLCP	18100
 Proportion de PCD	3396
 Quarterly Financial Information PCU System Description	11525
 Quarterly Management Information PCU	11525
@@ -347,6 +355,7 @@ Robust PC-B System Grande Comore	13795
 Rural Community-Driven Development Project. The PCU	11525
 Rx4 PC5-4800B-R Smart Kit	11209
 SA PCCI	16623
+Senegal COVID-19 Response Project PCU	18370
 Staff PCU	15372
 Strengthening of PCU Procurement	15372
 Supply Pce des Jeux POLICE RESEARCH	14760

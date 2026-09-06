@@ -100,6 +100,7 @@ Patient Identifier HL7v3	1009
 RFC5646 HL7 CDA R2 ISO	1009
 RFC5646 HL7 CDA R2 ISO2260 PDF	1009
 Reference Hlase2018	2117
+SN HLM	18412
 Senior Management Stakeholder Manager Ms. Hleliwe	12969
 Sipho Hlazo	13328
 South HL7 Africa HNSF International Statistical	1009

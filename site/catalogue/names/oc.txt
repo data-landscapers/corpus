@@ -4,6 +4,8 @@ ABBREVIATIONS AND ACRONYMS EMAR Ocean School	16187
 ADJIBI Claude Edgard Octobre	10876
 ALPHA OCEANEERING LIMITED Data Controller INST-82212241418	7167
 AMEH OCHOJILA	10270
+ANP- Octobre	18150
+ANP-063 Octobre	18148
 AREA OCCUPIED BY BUILDING	11129
 ART Anti-Retroviral Therapy BOR Bed Occupancy	12976
 ATB Oct	5247
@@ -38,7 +40,8 @@ Autorité OCTOBRE	17829
 Av. Jan-Sep Av. Oct-Dec Goods	17209
 B OC	14546
 BANCO DA AFRICA OCIDENTAL	17356
-BANCO DA AFRICA OCIDENTAL BDU CORIS	11588
+BANCO DA AFRICA OCIDENTAL BDU CORIS	11588,6682
+BANCO DA AFRICA OCIDENTAL MTN Cell	18313
 BASE-T OCP3 Adapter for HPE	12681
 BFT Oct	1041
 BNR MPFSS Occupational	14997
@@ -67,10 +70,11 @@ Cape Town Yumnaa Ocks	8022
 Caroline Ochieng	11572
 Cases Action Steps Impact Diversity and Occupational	14997
 Celebration Oct	17056
+Centre de Recherches Océanographiques de Dakar Thiaroye CSA	18291
 Centros de Educación Ocupacional	4209
 Centros de Formación Ocupacional	4209
 Certificate of Occupancy	11129
-Certificates of Occupancy	11981
+Certificates of Occupancy	11981,6149
 Character-level OCR	16836
 ChatGPT Affect Occupations and Industries	16266
 Chaximbe OCM	10780
@@ -269,11 +273,12 @@ Juillet Août Septembre Octobre Novembre Décembre	15670
 Juin Juil Août Sep Oct Nov	15670
 Juin Juillet Aout Septembre Octobre Novembre	13452
 Jul Aug Sep Oct Nov	13095
-Jul Aug Sep Oct Nov Dec	11953,1142,3840,974
+Jul Aug Sep Oct Nov Dec	11953,1142,3840,974,209
 Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23	3583
 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23	11953
 Jul-24 Aug-24 Sep-24 Oct-24 Nov	12256
 Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24	11953,303
+Jul-25 Aug-25 Sept-25 Oct-25 Nov-25 Dec-25	18217
 Jun Jul Aug Sep Oct	11953,2943
 Jun Jul Aug Sep Oct Nov	11953
 Jun’22 Nov’22 Sep’23 Aug’24 Oct’25 ATB	5247
@@ -285,6 +290,7 @@ La Octava Sesión Ordinaria	14215
 Large Ocean State	10348,4400
 Large Ocean State. Indeed	14748
 Latin America and Oceania	4734
+Les OCT	18310
 Licence de Production Concession de Production OCTROI DES	15670
 Local News On Oct	13959
 Logone Occidental	2266,48,70,1204,745,235,171,806,299,245
@@ -325,6 +331,7 @@ Month Occurrence	16935
 Month Occurrence Time	16935
 Monthly Bed Occupancy Rates	2775
 Monthly Room Occupancy Rates	2775
+Mr. Ochefu John Iduh	18260
 Mwafwe River Occupation	1988
 Médétonhou Octave Jocelyn GBAGUIDI	17584
 Mónica Ocomo Nguema	6841
@@ -341,9 +348,11 @@ Namibia Standard Classification of Occupations	13037
 National List of Occupations	6832
 National Occupational Safety and Health Policy	12597
 National Occupational Skills Standards	1818
+National Oceanic and Atmospheric Administration NWP	18309
 National Oceanique and Atmospherique Administration	15907
 National Strategic Plan for Tuberculosis OCHA	10776
 National Youth Development Agency OHS Occupational	11198
+Nationale OCHA Humanitaire	18105
 Nações Unidas OCDE	2816
 Neoma Africa Fund III. Octotel	448
 Nombre de Permis de Transport Octroyé	13500
@@ -456,6 +465,7 @@ OCRC Classé	10821
 OCRC Dossier	10821
 OCRC Extorsion	10821
 OCRC Règlement	10821
+OCRTIS	18148
 OCRed	10550
 OCSEA	9843,3260
 OCSLA	5533
@@ -470,7 +480,8 @@ OCT-24 NOV-24 DÉC-24 Par	15706
 OCT-DEC	17164
 OCT-NOV	13418
 OCTAVIC-BENIN Traitement	10821
-OCTOBRE	436,10440,21,4453,55,84,79,317,1929,5,9,1,3,9,20,121,21
+OCTOBRE	436,10440,21,4453,55,84,79,317,1929,5,9,1,3,9,20,121,21,153,176
+OCTOGONE SENEGAL S.A.U	18322
 OCTOYES AINSI QUE LE MONTANT ET	13390
 OCTROI DE LABEL	15588
 OCTROI DE LICENCE L’INSTAT	18086
@@ -487,7 +498,7 @@ OSI H-HcI M-TII Oceania Iraq Middle	10840
 Obtain Building and Occupancy Permits	12389
 Oc2t-02241	12256
 Ocana Team Member Laurent Basencon Team	15424
-Occasion	3861,10608
+Occasion	3861,10608,3629
 Occasion of Swearingin	10819
 Occasional	9123
 Occasionally	11909,283,2972
@@ -500,10 +511,11 @@ Occidental	16894,505
 Occidental Kisangani DEMBA Centrale	15670
 Occidentaux	2514
 Occup Sous- Sous- Chômeu Taux TF	737
-Occupancy	9155,3272,344,206
+Occupancy	9155,3272,344,206,5316
 Occupancy Permit	12389
+Occupant	18286
 Occupati	14742
-Occupation	1988,2908,6322,1008,1074,99,1089,1,1,507,476,69,724,669,164,15
+Occupation	1988,2908,6322,1008,1074,99,1089,1,1,507,476,69,724,669,164,15,1090,89,19
 Occupation Apr-Jun	11296
 Occupation Botswana	14098
 Occupation Business Address Mr Mgqibelo Gasela	4896
@@ -515,9 +527,10 @@ Occupation Percentage	12006
 Occupation Permit	14828
 Occupation Permits	14828
 Occupation des Terres	15715
+Occupation du Sol	18339
 Occupation du SolRGPH Recensement Général	15555
 Occupation of Project	17114
-Occupational	1988,1468,3376,114,4194,58,1055,1132,138,1053,143,17,79,182,208,454,1241,26,188
+Occupational	1988,1468,3376,114,4194,58,1055,1132,138,1053,143,17,79,182,208,454,1241,26,188,1260
 Occupational Bands	11218
 Occupational Category	7151
 Occupational Health	1988,11090,1658,2378
@@ -653,10 +666,10 @@ Oct-2018. Project Development Objective	13970
 Oct-2019	15959,1903
 Oct-2019 Portal Safeguard Policies Triggered	11924
 Oct-2019 Restructuring Sequence.03 Not Applicable	11924
-Oct-2020	14885,63,787,278,909,927,13
+Oct-2020	14885,63,787,278,909,927,13,271
 Oct-2020 Effectiveness	14948
 Oct-2020 INTERNATIONAL DEVELOPMENT ASSOCIATION	14430
-Oct-2020 Mid-Term Review No	16013
+Oct-2020 Mid-Term Review No	16013,2120
 Oct-2020 Moderately Satisfactory Moderately Satisfactory	15731
 Oct-2020 RESTRUCTURING	17849
 Oct-2020 Satisfactory Moderately Satisfactory	11924
@@ -671,33 +684,39 @@ Oct-2022 Moderately Satisfactory Moderately Satisfactory	11924
 Oct-2022 Operation Closing	17505
 Oct-2022 Restructuring Level	17904,54
 Oct-2022. Total Project Cost	13850
-Oct-2023	11375,2455,31,2777,356
+Oct-2023	11375,2455,31,2777,356,1356,9
 Oct-2023 Mid-Term Review No	16994
+Oct-2023 Operation Closing	18350
 Oct-2023 Progress	1284
 Oct-2023 Restructuring Level	17958
 Oct-2023 Rev. Closing	11395
-Oct-2024	1343,571,4,794,3867,4796,20,529,3557,598,915,6,470,434
+Oct-2024	1343,571,4,794,3867,4796,20,529,3557,598,915,6,470,434,455
 Oct-2024 Jun	16994
 Oct-2024 Mid-Term Review No	2712,9212
-Oct-2024 Operation Closing	17958
+Oct-2024 Operation Closing	17958,175
 Oct-2024 Participatory Budgeting	16994
 Oct-2024 People	16994
 Oct-2024 Year	16994
-Oct-2025	2253,2435,2240,949,3592,798,760,31,1898,31,30,14,128,810,953
+Oct-2025	2253,2435,2240,949,3592,798,760,31,1898,31,30,14,128,810,953,1428,5,4
 Oct-2025 BRIDGE Nigeria Practice Area	3456
 Oct-2025 Bank	3604
 Oct-2025 Effectiveness	4688,3189
 Oct-2025 Estimated Date of Approval	13523
+Oct-2025 For Official Use Only	18350
 Oct-2025 No Actual	6928
 Oct-2025 Operation Closing	15159
+Oct-2025 People	18350,9
+Oct-2025 Sidi Ould Tah	18147
+Oct-2025 The World Bank Senegal Digital	18359
 Oct-2025 Yes Jun	15969
 Oct-2025. Key	15017
 Oct-2025. Practice Area	11965
 Oct-2025. Projected Date for Full Disbursement	11965
 Oct-2025. Proposed Closing	11965
 Oct-2025. Revised Closing	11965
-Oct-2026	11469
+Oct-2026	11469,6664
 Oct-2026 Borrower	16293
+Oct-2026. IDA-D6560	18133
 Oct-2027 Operation Closing	15737
 Oct-2028 Bank	1867
 Oct-2028. Proposed Deadline for Withdrawal Applications	11965
@@ -742,7 +761,7 @@ October127. Provincial	12201
 October29	12201
 October5	13392
 OctoberAugust	2820
-Octobre	436,311,251,7,743,236,769,922,29,81,3685,185,1100,2071,15,33,1,1,46,26,973,1393,11,16,49,92,86,121,736,12,42,1014,2,104,86,27,3,9,126,18,5,12,4,174,95,37,8,156,261,1,24,6,11,52,725,35,3,336,28,35,6,7,56,33
+Octobre	436,311,251,7,743,236,769,922,29,81,3685,185,1100,2071,15,33,1,1,46,26,973,1393,11,16,49,92,86,121,736,12,42,1014,2,104,86,27,3,9,126,18,5,12,4,174,95,37,8,156,261,1,24,6,11,52,725,35,3,336,28,35,6,7,56,33,157,13,2,44,28,82,18,11,5
 Octobre N	10876
 Octobre Rose	14622
 Octobre Yaound	10975
@@ -750,7 +769,7 @@ Octobre du PTA	10876
 Octodev	12478
 Octotel	448
 Octoverse	990,10932
-Octroi	6221,7080,1801,327,2056,334
+Octroi	6221,7080,1801,327,2056,334,303
 Octroi de Licence L’INSBU	13393
 Octroie	13846
 Octroyer	13290,11,113,305,1823,2303
@@ -766,7 +785,7 @@ Ocupación Hotelera	16898
 Ocupação	9403,1374
 Ocupação Sistema Online	11898
 Océan	10975,2815,1028,1359
-Océan Atlantique	8891,6532,2420
+Océan Atlantique	8891,6532,2420,443
 Océan I'indien	13790
 Océan Indien	6883,6841,16,882,207
 Océan Indien COMESA	15670
@@ -815,6 +834,7 @@ Present Value OHS Occupational Health and Safety	10829
 Princípios da OCDE	5663
 Programa Apoyo Formación Profesional Ocupacional	4209
 Programme National de Santé Oculaire	17845
+Programme National des Soins Oculaires	18105
 Prohibición de Comunicaciones Comerciales Ocultas	16855
 Province of Occurrence	13644
 Proyecto de Formación Ocupacional	4209
@@ -861,6 +881,7 @@ Sep-20 Oct-20 Nov-20 Dec-20 Jan-21 Feb-21	16902
 Serious Incidents Environmental Social Occupational Health	17114
 Sex Occupation Profess	16935
 Short-term Occupational Health and Safety Courses	12972
+Simeon Fongang Atmospheric and Ocean Physics Laboratory	18309
 Single Occupancy	9031
 Sistema Ocidental	2816
 South Africa's National List of Occupations	6832
@@ -905,6 +926,8 @@ Unlawful Occupation of Land Act	11188
 Update OCGS	11133
 Update the Occupation	14997
 Very Rarely Rarely Occasionall	17114
+Weather Forecasting OCB	18309
+Webiniare Octobre	18324
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073,6265
 West Indian Ocean Cable Company Ltd	284,216
 West Indian Ocean Cable Company. Earlier	2677
@@ -913,6 +936,7 @@ Western Indian Ocean Route	13773
 Western Indian Ocean Route. Operational Protection	13773
 X. Ochoa	9128
 Year No Oct	15969
+Year Occupancy	18354
 Year Oct	12267
 Yumnaa Ocks	8022
 Yumnaa Ocks Department of Library and Information Science	8022

@@ -25,6 +25,7 @@ Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,
 Academics Library Calendar Apply for Admissions Human	17232
 Accelerate Human Capital for Youth	11879
 Accelerate of Human Capital Development Indicator Name	12440
+Achieving Impacts Humanitarian	18125
 Acquired Immunodeficiency Syndrome HR Human Resources	11560
 Action Humanitaire	3351,45,8509,11,8,3550,257,281,1833
 Action Humanitaire CDMT Cadrage de Dépense	17907
@@ -158,7 +159,7 @@ Capacity Development and Change Management Improved Human	12453
 Capacity and Human Capital Development	7547,1,7116
 Capacity and Human Capital Development Policy Objective	7548
 Capacity and Human Capital Development Policy Statement	7548
-Capital Humain	10965,5186,470,1203,159
+Capital Humain	10965,5186,470,1203,159,417,2,1
 Capital Humain Dans	17824
 Capital Humain Pilier Nature	17983
 Capital Humain. Chacun	17983
@@ -199,7 +200,8 @@ College of Human Sciences Research Ethics Review	8021
 Combat Human Trafficking	14959
 Comisión Derechos Humanos	4209
 Comissão de Direitos Humanos	11436
-Commission Nationale des Droits Humains	3396
+Commission Nationale des Droits Humains	3396,14705
+Commission Nationale des Droits Humains CONGAFEN	18100
 Commissioner for Human Development and Social Affairs	14325
 Commissioner for Human Rights	17934
 Communication Technology INHCR Independent Human Rights	16943
@@ -246,8 +248,10 @@ DES DROITS HUMAINS ET	15524,91,233,519
 DES DROITS HUMAINS PARTIE NON OFFICIELLE	15786
 DES RESSOURCES HUMAINES	15429,670,282
 DES RESSOURCES HUMAINES DIRECTIONS DEPARTEMENTALES DETACHES	16100
+DES SCIENCES HUMAINES FLSH FACULTÉ DES	18143,27
 DEVELOPING COMPETENT AND ADEQUATE HUMAN RESOURCE	14004
 DEVELOPING HUMAN RESOURCE THAT CAN LEAD	14004
+DEVELOPPEMENT HUMAIN GLOBAL ALLIANCE FOR VACCINATION	18105
 DH Ressources Humaines	1536
 DIRECTION CENTRALE DES RESSOURCES HUMAINES	16175
 DIRECTION DES RESSOURCES HUMAINES	998
@@ -310,7 +314,7 @@ Directeur des Ressources Humaines	15412,763,1670
 Directeur du Capital Humain	16175
 Direction Centrale des Ressources Humaines	15678
 Direction DGRHAS Générale des Ressources Humaines	11905
-Direction des Ressources Humaines	14424,988,157,142,2119
+Direction des Ressources Humaines	14424,988,157,142,2119,313,26,1
 Direction des Ressources Humaines DSCVM	10874
 Direction des Ressources Humaines DSI	14472
 Direction des Ressources Humaines Plan Stratégique National	17882
@@ -318,7 +322,8 @@ Direction des Ressources Humaines du Ministère	15936
 Direction des Ressources Humaines du Secteur Santé	17882
 Direction des Ressources Humalnes	15400
 Directions Centrales de Ressources Humaines	15631
-Directions des Ressources Humaines	8227
+Directions des Ressources Humaines	8227,10002
+Directions des Ressources Humaines des Ministères	18229
 Director General of Human Resource Management	4640
 Director Human	11131
 Director Human Capital	11131
@@ -374,13 +379,15 @@ Division Human Resource Management and Development	12920
 Domaine Actions Clés Ressources Humaines Développement	14622
 Dr. Humphrey Mwavali Digital Health Expert	9855
 Dra. Ana Celeste Cardoso Direitos Humanos	10750
-Droits Humains	3396,1707,5964,915,2430,1168,268,522,11,1569
+Droits Humains	3396,1707,5964,915,2430,1168,268,522,11,1569,336
 Du Service des Ressources Humaines	15371
-Développement Humain	643,10322,4577,143,2157
+Développement Humain	643,10322,4577,143,2157,327,117
 Développement Humain Burundi	13325
 Développement Humain IF Institution Financière IFC	11944
 Développement Humain Inclusif Objectif	643
-Développement des Ressources Humaines	13290,1332
+Développement Humain SDDCI	18100
+Développement RNDH Rapport National de Développement Humain	18169
+Développement des Ressources Humaines	13290,1332,3483
 E DOS DIREITOS HUMANOS APOSTA NA	10752
 E HUMANOS NECESSÁRIOS PARA IMPLEMENTAÇÃO	3519
 E UNITED NATIONS HUMAN SETTLEMENTS PROGRAMME	16916
@@ -392,6 +399,7 @@ ECHO European Civil Protection and Humanitarian Aid	17906
 ECV Capital Humano	15476
 EDGI On-line Service Infrastructure Human Capital	16876
 EDUCAÇÃO E DESENVOLVIMENTO HUMANO	12777
+ENVIRONNEMENTET URGENCES HUMANITAIRES	18100
 ET DE L’ACTION HUMANITAIRE	15488
 ET DE L’ACTION HUMANITAIRE Société	15488
 ET DES RESSOURCES HUMAINES DETACHES OU	15901
@@ -454,6 +462,7 @@ Experiência Humana	2816
 Exploitation and Harassment SIG-HR Integrated Human Resource	11863
 Export of Human	395
 Extending the Human-Centred Framework	10726
+FG Flags Off One Humanitarian	18215
 FOREWORD BY THE RESIDENT AND HUMANITARIAN	14959
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1,135
 Faculty of Human Sciences	8021
@@ -461,6 +470,7 @@ Faculty of Humanities	13078
 Fax Email Address Human Resources Manager	14746
 Federal Ministry of Health and Human Services	11596,3327
 Federal Ministry of Health and Human Services. Somalia	11596
+Fight Against Human Trafficking	18125
 Final Human Determination	16212
 Financial Management Absence of Human Trafficking	10759
 First Humanitarian Cash Transfer	16942
@@ -501,6 +511,7 @@ Gender Inequality Index. Human Development Reports	15725
 Gender and Human’s Rights	16951
 Gender and Human’s Rights Thematic Policy Statement	16951
 General Programme of Work HPV Human Papillomavirus	12729
+Gestion Centralisée des Ressources Humaines	18291
 Gestion Electronique Administrative des Ressources Humaines	17824
 Gestion Licence Pro Gestion des Ressources Humaines	17829
 Gestion des Ressources Humaines	1281,9540,2480,1236
@@ -630,6 +641,7 @@ HUMANCENTEREDNESS	16212
 HUMANITAIRE	15744
 HUMANITAIRE Acte	16413
 HUMANITAIRE Actes	15744
+HUMANITAIRE EN FAVEUR DES RÉFUGIÉS ET	18363
 HUMANITAIRES Chapitre	15612
 HUMANITARIAN CRISES DEEPEN IN THE CAR	4127
 HUMANOS	10750,1,1,1
@@ -670,6 +682,7 @@ High-Level Humanitarian Conference	14075
 Higher Education Institution HR Human Resources	13312,2
 Higher Education and Training DHS Department of Human	11261
 Honourable Minister for Humanitarian Affairs and Poverty	11998
+Honourable Minister of Humanitarian Affairs and Poverty	18215
 Housing and Human Settlements Development	6123
 HuMENA for Human Rights and Civic Engagment	15926
 Hubert Humphrey	13358
@@ -690,8 +703,8 @@ Humaines Licence Journalisme	17829
 Humaines Licence Management Licence Finances Comptabilité	17829
 Humaines Système	15674
 Humaines de Helios Towers Congo	16002
-Humains	4325
-Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,170,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40,112,136,7,18,23,6,253,24,1,10,10,89,165,1,44,1,28,8,12,80,18,4,24,17,25,23,1,42,13,12,217,162,5,26,34,30,19,48,27,15,2,14,22,75,87,18,19,292,57,267,48,8,217,189,31,124,29,72,76,10,88,11,28,17,39,23,1,21,105,53,26,102,252,161,34,580,143,359,52,5,1,19,2,53,15,1,6,22,2,2,21,22,96,25,121,70,34,67,10,64,67,46,12,143,161,16
+Humains	4325,13961
+Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,170,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40,112,136,7,18,23,6,253,24,1,10,10,89,165,1,44,1,28,8,12,80,18,4,24,17,25,23,1,42,13,12,217,162,5,26,34,30,19,48,27,15,2,14,22,75,87,18,19,292,57,267,48,8,217,189,31,124,29,72,76,10,88,11,28,17,39,23,1,21,105,53,26,102,252,161,34,580,143,359,52,5,1,19,2,53,15,1,6,22,2,2,21,22,96,25,121,70,34,67,10,64,67,46,12,143,161,16,248,95,8
 Human A.i Co-evolution	12478
 Human AI	10726
 Human AI Capabilities and Development AI Adoption	10726
@@ -702,13 +715,14 @@ Human Behavior	8460,668
 Human Behavior and Emerging Technologies	1248,4452,2322
 Human Behaviour Reports	12090
 Human Beings Especially Children and Women	16874
+Human Body	18099
 Human Capabilities	10726
 Human Capacity	1161,9839,4718,1,1541
 Human Capacity Development	1554,12402,42,749
 Human Capacity Establish	16872
 Human Capacity Gaps	17260
 Human Capacity and Skills	16975
-Human Capital	969,3559,2409,3831,363,3,131,204,455,31,265,105,31,2210,186,145,107,134,41,301,38,161,533,664,66,9,165,23,731
+Human Capital	969,3559,2409,3831,363,3,131,204,455,31,265,105,31,2210,186,145,107,134,41,301,38,161,533,664,66,9,165,23,731,431
 Human Capital Agenda	15059
 Human Capital Country Brief Burkina Faso	15743
 Human Capital Delivery Model	15059
@@ -727,7 +741,7 @@ Human Capital Development and Special Programmes	7480
 Human Capital Education Innovation Science	12512
 Human Capital Formation	10768
 Human Capital Government	16996
-Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412
+Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234
 Human Capital Index Australia	15634
 Human Capital Index Hands-on Expanded Implementation	15553
 Human Capital Index Report	15447
@@ -772,6 +786,7 @@ Human Capital and Workforce	12240
 Human Capital. Paris	15447,33
 Human Computer Interaction	12926
 Human Cost of Being Invisible Yet	12057
+Human Decisions and Machine Predictions	18318
 Human Development	643,1,10115,78,1,126,4,568,334,16,1,1,1,16,247,1,1,9,177,1,11,980,660,109,2142,1693
 Human Development Access	11536
 Human Development Cash Transfer	14553
@@ -896,7 +911,7 @@ Human Resource Information System UBR Universal	16971
 Human Resource Internal Audit Compliance Management	6946
 Human Resource Key Activities	12977
 Human Resource Key Activities A. Employee	12977
-Human Resource Management	395,6551,1027,1151,2126,1720,1087,997,1888,293
+Human Resource Management	395,6551,1027,1151,2126,1720,1087,997,1888,293,1135
 Human Resource Management CIASA Credit Information	14897
 Human Resource Management Circular	11986
 Human Resource Management Department	17235
@@ -921,6 +936,7 @@ Human Resource Policies and Procedures	6946
 Human Resource Policies and Procedures Manual for Public	14546
 Human Resource Policy	10721
 Human Resource Section	12977
+Human Resource Shortages and Distribution	18370
 Human Resource Strategic Plan	17011
 Human Resource Unit	12970
 Human Resource and Administration	1778,210,10206,1362
@@ -939,7 +955,7 @@ Human Resources Capacity for Universal Health Coverage	11417
 Human Resources Committee	1154,400,5650,5765
 Human Resources Committee The Finance	1554
 Human Resources Committee Total Number	1554
-Human Resources Department	13504
+Human Resources Department	13504,4866
 Human Resources Department TRAINING PROGRAMS	12970
 Human Resources Departments	13533
 Human Resources Development	12008
@@ -1000,6 +1016,7 @@ Human Resources for Health SAHPRA South African	396
 Human Resources for Health Strategic Plan	12976
 Human Resources for Health Strategy	13163
 Human Resources for Health The Human Resource	12976
+Human Resources for Health and Community Health Delivery	18158
 Human Right	14781
 Human Right and Public Responsibility	11285
 Human Rights	1814,704,97,343,47,578,1,396,3986,977,1832,44,3,313,19,178,204,373,77,224,4,13,157,291,261,3,33,9,20,39,57,26,190,50,5,106,1072,196,105,112,172,1364,421,27,8,345
@@ -1177,9 +1194,9 @@ Humanising Big Tech Accountability	9817
 Humanising Tech Accountability	9817
 Humanit	9739
 Humanit Soc Sci Commun	16325
-Humanitaire	2342
+Humanitaire	2342,15762
 Humanitaires	17882
-Humanitarian	1887,629,1067,1095,129,18,17,2105,257,1863,699,1063,12,515,240,398,55,139,39,70,21,1073,1505,219,66,56,105,1431,129,968
+Humanitarian	1887,629,1067,1095,129,18,17,2105,257,1863,699,1063,12,515,240,398,55,139,39,70,21,1073,1505,219,66,56,105,1431,129,968,234,21,90,5
 Humanitarian Action	1828,9328,749,19,303,3115,389,1565
 Humanitarian Action Using Machine Learning	2816
 Humanitarian Action Working Group	15115
@@ -1187,6 +1204,7 @@ Humanitarian Action and Relations	17934
 Humanitarian Action and Solidarity	11907
 Humanitarian Affairs	970,3184,11,2,6659,1319,2947,2018
 Humanitarian Affairs Minister Peter Mayen	3583
+Humanitarian Affairs and Poverty Reduction	18269
 Humanitarian Affairs and Social Development Department	12977
 Humanitarian Aid	12227,1334
 Humanitarian Aid Amid	15248
@@ -1279,7 +1297,9 @@ ICT COMPLAINTS AND CALL CENTRE HUMAN	11198
 ICT Human Resources Innovation	16872
 IDA Human Capital Index IDP International	10964
 IDA The World Bank Guinea-Bissau Human	11560
+IDH Indice de Développement Humain IGE Inspection	18286
 IDH Indice de Développement Humain IMROP Institut	17907
+IDH Indice de Développement Humain IOV Indicateur	18103
 IFC. Digital Finance for Refugees. Journal of Humanitarian	12297
 II. RESSOURCES HUMAINES	15475
 III.1. STATISTIQUES DES RESSOURCE HUMAINES ET	13500
@@ -1339,6 +1359,7 @@ Institute for Human Development	15220
 Institute of Human Resource Management	6946,3097
 Institute of Human Virology	15321
 Institute of Human Virology Nigeria	15321
+Institutional Capacity and Human Resource Gaps	18198
 Institutional Strengthening and Human Capital	14818
 Institutional Strengthening and Human Capital Outdated	14818
 Institutional and Human Capacity Development	13095,903
@@ -1352,6 +1373,7 @@ Integrate Humanitarian	11285
 Integrated Financial Management System and Human Resources	12325
 Integrated Human Resources Information System	12421
 Integrated Human Resources Management Information System	11965
+Integrated Human Resources Management Program	18305
 Integrated Human Resources Management System	13314,4556
 Integrated System for Human Resources Management of Civil	10812
 Intended for Human Consumption. Covers	11269
@@ -1384,15 +1406,18 @@ Julia Ines Esono Esomoyo Human Resources	17101
 Justice and Human Rights	10775
 Justice and Human Rights Nicolau Sozinho	3980
 KURREEMBUKUS Bilall Ally Ag Human	14770
+Kaduna State Ministry of Humanitarian Affairs	18215
 Kenya Human Rights Commission	10330,492
 Khazar J Humanit Soc Sci	9739
 KnowBe4. The KnowBe4 Africa Human Risk	3253
 LA DIRECTION DES RESSOURCES HUMAINES Etat	16714
 LA JUSTICE ET DES DROITS HUMAINS	15676,266
+LETTRES ET DES SCIENCES HUMAINES FST	18143,27
 LOC. Humanitarian Aids	16649
 LTO Human Resources MOF Integrated Financial	12500
-La Direction des Ressources Humaines	2342,13594
-La Gestion des Ressources Humaines	14537
+La Commission Nationale des Droits Humains	18100
+La Direction des Ressources Humaines	2342,13594,2169,64
+La Gestion des Ressources Humaines	14537,3568
 Labour Environment Infrastructure Rural Economy Human	10837,1315,188
 Labour Force Reskilling and Human Capacity Development	12935
 Lack of Human Capital	14729
@@ -1424,6 +1449,7 @@ Lonely and Tired HIV Human Immune Deficiency	12970
 L’ACTION HUMANITAIRE	15426,29
 L’ACTION HUMANITAIRE AUTORISATION DE CRÉATION ET	15426
 L’ACTION HUMANITAIRE Décret	15455
+L’Indice de Développement Humain	18105
 M Nigeria Human Capital Opportunities for Prosperity	11469
 MALAWI DIGITAL READINESS ASSESSMENT Human Rights	12214
 MDM and Partido Humanit	12201
@@ -1463,8 +1489,8 @@ Minister of Human Settlements and Another	14673
 Minister of Humanitarian Action	10864
 Minister of Humanitarian Affairs	15658
 Minister of Humanitarian Affairs and Disaster Management	7141
-Minister of Humanitarian Affairs and Poverty Reduction	3018
-Minister of Justice and Human Rights	2349,9230
+Minister of Humanitarian Affairs and Poverty Reduction	3018,15225
+Minister of Justice and Human Rights	2349,9230,6654
 Minister of Public Service and Human Resource Development	4640
 Minister of State for Humanitarian Affairs and Poverty	2381
 Minister of Water and Human Settlement	12607
@@ -1478,8 +1504,10 @@ Ministry of Human Resources and Social Development	15039
 Ministry of Human Resources and Social Welfare	15036
 Ministry of Human Resources and Social Welfare and National	15036
 Ministry of Human Settlements	11285
-Ministry of Humanitarian Action	10841,4817,73
-Ministry of Humanitarian Affairs	12020
+Ministry of Humanitarian Action	10841,4817,73,2394
+Ministry of Humanitarian Action and Disaster Management	18104,21,73
+Ministry of Humanitarian Action and Disaster Management MEF	18198
+Ministry of Humanitarian Affairs	12020,6178,9
 Ministry of Humanitarian Affairs and Disaster Management	3583,11291,304
 Ministry of Justice and Human Rights	1344,9421,10,811,5421,362
 Ministry of Labour and Human Welfare	13989
@@ -1487,6 +1515,7 @@ Ministry of Public Service and Human Resource Development	4640,2171
 Ministry of Social and Humanitarian Affairs	11905
 Ministry of Women and Human Rights Development	14874
 Ministry's Human Resource Information System	6432
+Ministry's One Humanitarian	18269
 Ministry’s Human Resource Management	12962
 Ministère des Ressources Humaines	15361
 Miss DEELAWOL Amina Bibi Senior Human	14770
@@ -1535,6 +1564,7 @@ National Plan of Action for Human and Drug Trafficking	16951
 National Planning FMHDSD Federal Ministry of Humanitarian	11857
 National Religious Leaders Forum. A Human	2626
 National Summary of Human Resources for Health	4217
+Nationale OCHA Humanitaire	18105
 Nations Human Development Index	11964
 Nations Human Settlements Programme Cable Cable.co.uk	10835,3,130,902,16,466,1,135
 Nationwide Human Capital and Women and Girls’ Empowerment	10829
@@ -1592,6 +1622,7 @@ Partnership for Education Grievance Redress Mechanism Human	16436
 Patrik Hummel	680
 Património Mundial da Humanidade.O	7882
 Penda Health’s Human Resources	11578
+Penitentiary Administration and Human Rights Department	18125
 Perda da Conexão Humana	2816
 Person Human	14742
 Personne Humaine	13325,4,2,10,101,230
@@ -1604,6 +1635,7 @@ Priority Outcomes for Accelerating Human Capital	15059
 Procuradora-Geral Adjunta de Humanos	10750
 Procurement System and Human Resource Management Information	15518
 Product Graduate Trainee Human Capital HRH	11134
+Productivity and Selection of Human Capital	18318
 Products Intended for Human Consumption	11269
 Prof. Humphrey Danso	9534
 Professional Services Human Resources	16266
@@ -1648,7 +1680,7 @@ RASSOOLKHAN Hemwantee Senior Human Resource	14770
 REC Humanitarian	13042
 RECURSOS HUMANOS	2816,8575,140
 RECURSOS HUMANOS Formação	10752
-RESSOURCES HUMAINES	16195,1687
+RESSOURCES HUMAINES	16195,1687,240,21,27
 RESSOURCES HUMAINES Capitaine	16100
 RESSOURCES HUMAINES En	17845
 RESSOURCES HUMAINES Objectif	16195
@@ -1708,7 +1740,7 @@ Resources Assistant Manager Human Resources Human	14835
 Resources Humaines	14748
 Respect for Human Dignity	2958
 Respect for Human Rights	12333
-Ressources Humaines	2342,2881,5752,2326,13,128,1107,73,1009,37,507,20,170,251,96,2,740,389,2,19,2,16
+Ressources Humaines	2342,2881,5752,2326,13,128,1107,73,1009,37,507,20,170,251,96,2,740,389,2,19,2,16,287,128
 Ressources Humaines Civiles	15425
 Ressources Humaines Il	14549
 Ressources Humaines L’amélioration	17882
@@ -1756,6 +1788,8 @@ STATE-OF-THE-ART INFO-STRUCTURE HUMAN CAPITAL	14752
 SUMMARIES OF SELECTED HUMAN RIGHTS CASES	13097
 SYSTEM FOR HUMAN CAPITAL AND RESILIENCE	10768
 Sahel Document Food Security and Humanitarian Implications	17323,1
+Samuel Anyanwu Minister of Humanitarian Affairs and Poverty	18243
+Samuel Anyanwu The Honourable Minister of Humanitarian	18269
 Sango. Humanitarian	16358
 Saúde Humana	6970,5853
 School of Humanities and Social Sciences	10780
@@ -1860,7 +1894,7 @@ System for Human Capital and Resilience	10768
 System for Human Capital and Resilience Project	10768
 Système Intégré de Gestion des Ressources Humaines	8009,218,7511,198,549
 Système de Gestion des Ressources Humaines du MESRS	15936
-Sécurité Humaine	6578
+Sécurité Humaine	6578,11582,89
 TBD Social Recovery and Human Development	970
 TSM E CAPITAL HUMANO	11406
 Technical Assistance Human Resources	14879
@@ -1868,6 +1902,7 @@ Technical Human Capital	12453
 Technical Working Group HAC Humanitarian Aid	6947
 Temperature and Relative Humidity Control All Tier	9123
 Through Hormuud’s Humanitarian Portal	6723
+Time and Human Resource Costs	18318
 Toxics and Human Rights	14742
 Training Centre for Women’s Empowerment. Human	17934
 Training and Human Resources	12325
@@ -1931,6 +1966,7 @@ United Nations Development Programme’s Human Development	15621
 United Nations High Commissioner for Human Rights	3583,3368,1853,2352,1575,2020,591,1616,15,961
 United Nations Human	11004,1197
 United Nations Human Development Index	15411,291
+United Nations Human Development Index. Poor	18104
 United Nations Human Development Reports	15661
 United Nations Human Rights Commission	6776,5425
 United Nations Human Rights Committee	12201
@@ -1954,6 +1990,7 @@ Universal Declaration of Human Rights. All	16958
 Universal Declaration of Human Rights. Retrieved	10819
 Universal Declaration of Human Rights. UN	15604
 University of Ghana’s Human-Computer Interaction Lab	14352
+Urgences Humanitaires	18100
 VII.4 Indice du Capital Humain	13341
 Valeur Ajoutée Virus Immunodéficience Humaine	13442
 Valeurs Humanitaires	16621
@@ -1962,6 +1999,7 @@ Valores Humanos	16965
 Valorisation du Capital Humain	16175
 Very Intense Humidity	17157
 Virus HRD Human Resource Development HRH	12976
+Virus Immunodéficience Humaine VRD	18118
 Vírus da Hepatite B Vírus da Imunodeficiência Humana	10777
 Vítimas de Tráfico de Seres Humanos	10750
 WEF Global Human Capital Report 2017.pdf. Accessed	17870

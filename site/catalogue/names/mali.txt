@@ -4,8 +4,9 @@ ACTIVITÉS OPÉRATIONNELLES Le Gouvernement du Mali	17848
 ADSL de Moov Africa Malitel	7728
 AES. Modibo FOFANA Mali24	17666
 AFCIA Mali	17955,18
-AFG BANK BCI MALI BDM BIM	11588
+AFG BANK BCI MALI BDM BIM	11588,6682
 AFRICA MALI ACCESS LIMITED Data Processor	7167
+AFRO Mali	18105
 AGETIC. Mali	17824
 ALPHA TELECOMMUNICATION MALI-SA	18032
 AMKENI MALINDI YOUTH GROUP Data Controller	7167
@@ -59,7 +60,7 @@ Association des Jeunes Policières du Mali	17819
 Association des Maliens	17861
 Association des Municipalités du Mali	17827,249
 Association des Sociétés Informatiques du Mali	17870
-Au Mali	5324,1635,661,10046,158,6,15,37,63,38,81
+Au Mali	5324,1635,661,10046,158,6,15,37,63,38,81,227
 Augustin KIBASSA MALIBA	7470,8298
 Augustin Kibassa Maliba	2398,167,37,191,93,218,6,398,226,13,1201,145,322,315,170,483,1805,335,162,217,157,234,284,144,37,64,2123,90,3733,455,355
 Augustin Kibassa Maliba. CP	8902
@@ -73,6 +74,7 @@ Autorités du Mali	12
 Avant Mali Ya Wakazi	6146
 Avec Mali Ya Wakazi	6146
 Avenue Malick Sy	11745
+Avenue Malick Sy Avenue BP	18433
 Avenue du Mali	17978,99
 Avenue du Mali BP	17841
 Avenue du Mali Hamdallaye ACI	17993,68,28
@@ -84,7 +86,7 @@ BAOBAB MALI Date	18032
 BAOBAB MALI Date D'arrêté	18032
 BAOBAB MALI P	18032
 BCI Mali	5324
-BMS BNDA BSIC MALI CORIS BANK	11588
+BMS BNDA BSIC MALI CORIS BANK	11588,6682
 BSIC- Mali	17841
 BURKINA FASO REPUBLIQUE DU MALI REPUBLIQUE	1967
 Backbone Networks Mali	17870
@@ -114,7 +116,7 @@ Bureau Mali Résumé	6959
 Bureau Mali Suivant	6959
 Bureau Malien du Droit	17870
 Burkina Faso Chad Mali Niger	18063
-Burkina Faso and Mali	16178,1
+Burkina Faso and Mali	16178,1,1946
 Burkina Faso and Niger. Mali	9552
 Burkina Mali	17870
 Buyu and Malindi	12115
@@ -279,7 +281,13 @@ Economie Numérique Introduction Le Gouvernement du Mali	17824
 Economie Numérique Mali	17824
 Economist Abraham Maliet	3323
 Education Nationale du Mali	17830
+El Hadji Malick CISSE	18418
+El Hadji Malick GAKOU	18310
+El Hadji Malick GAKOU GP M	18310
+El Hadji Malick SY de Tivaouane. Concernant	18412
 El Malick Ndiaye	10512
+Electricite du Mali Mauritania	18374
+Elhadji Malick Ndoye	18309
 Employabilité des Jeunes du Mali Comme	7634
 Energie du Mali	18014
 Enoch Malisa	6286
@@ -489,7 +497,7 @@ MALI Annexe II. Matrice	18063
 MALI Appendice I. Lettre	18063
 MALI Article	17819,8,1,1,4,8,20,13,25,83,21,29
 MALI B	17833
-MALI BAOBAB COFINA NIGER	11588
+MALI BAOBAB COFINA NIGER	11588,6682
 MALI BAY	17828
 MALI BILAN DEC	17833
 MALI BILAN ETAT	17841
@@ -629,6 +637,7 @@ MALI X	17833
 MALI'S JIGISÉMÉJIRI PROJECT	17906
 MALI-METEO	17820
 MALICIOUS COMMUNICATIONS	11190
+MALICOUNDA POWE R	18322
 MALIEN	18032
 MALIENNE DE RÉGULATION DES	18032
 MALIENNE DE RÉGULATION DES TÉLÉCOMMUNICATIONS	18032
@@ -686,6 +695,7 @@ Mali CREI	2234
 Mali Ces	17856
 Mali Cette	17824,199
 Mali Chapitre	17837
+Mali Charger	18177
 Mali Comprendre	17856
 Mali Conserver	17983
 Mali Contents Malian	17950
@@ -855,7 +865,7 @@ Mali Ya Wakazi	6045,14,9,78,7655,3839
 Mali Ya Wakazi L'argent	6146
 Mali Ya Wakazi and Komor Switch	6146
 Mali Year	17870
-Mali and Burkina Faso	17870
+Mali and Burkina Faso	17870,339
 Mali and Burkina Faso. Digital	17870
 Mali and Burkina Faso. Supports	625
 Mali and Chad	3255
@@ -863,7 +873,7 @@ Mali and Global Frontier	17870
 Mali and Liberia. Like	9869
 Mali and Mauritania	17940
 Mali and Mauritania. Mobile	15550
-Mali and Niger	1634,1,682,1608,1655,4380
+Mali and Niger	1634,1,682,1608,1655,4380,8414
 Mali and Niger. Coastal	18091
 Mali and Niger. Led	17759
 Mali and Nigeria	7958
@@ -974,6 +984,7 @@ Mali. Initiative	17824
 Mali. KHI-DEUX N	17978,99
 Mali. L'enquête	10554
 Mali. Le Gouvernement du Mali	17882
+Mali. Le Ministre	18156
 Mali. L’Union Africaine	17872
 Mali. L’en-	18077
 Mali. L’objectif	2514,4445
@@ -1033,7 +1044,7 @@ MaliRen. The GoM	17870
 MaliSolidaire	17933
 MaliTel Chambre de Commerce	17856
 Malia Mazouz	15410
-Malian	2426,171,1049,177,390,318,327,1,1589,2839,56,210,394,586,653,1,7,6675,1,13,23,3,12,22,7,12,9,27,18,50
+Malian	2426,171,1049,177,390,318,327,1,1589,2839,56,210,394,586,653,1,7,6675,1,13,23,3,12,22,7,12,9,27,18,50,59
 Malian Agency for Investment Promotion	17870
 Malian Armed Forces	17906
 Malian Authorities	18063
@@ -1058,7 +1069,8 @@ Malian Solidarity Bank and National Agricultural	17906
 Malian Telecommunications Regulatory Authority	17870
 Malian Transmission and Broadcasting Corporation	17870
 Malian Treasury	17870
-Malians	3646,6301,7923,13
+Malians	3646,6301,7923,13,242
+Malians and Nigerians	18125
 Maliba	2407,41,490,2760,202,855,3206
 Malibongwe	11967
 Malicious	15518
@@ -1069,6 +1081,7 @@ Malick DIALLO	17812
 Malick Lingani	10817
 Malick Ndiaye	3658,2617,145
 Malick Saine	9312
+Malick Sow	18428
 Malick Yissibé KONE	18093
 Malicounda	8270
 Maliden Kura	7843
@@ -1158,7 +1171,7 @@ Mali’’. C’est	17946
 Mapping of Inclusive Malian Fintech Firms	17870
 Maryla Maliszewska	6948,3893,308
 Mauritania Tunisie Mali Sénégal Rang Position	17860
-Mauritania and Mali	17870,187
+Mauritania and Mali	17870,187,252
 Mauritania and Mali URL	18057
 Maître Malick COULIBALY	17841
 Maître Malick COULIBALY Article	17841
@@ -1293,6 +1306,7 @@ Projection du Mali	6959
 Projet Mali Numérique URL	17834
 Projet Mali Numérique. Bamako	17834
 Promotion des Investissements du Mali	17817
+Public Disclosure Republic of Mali	18374
 Publique Identifiant de Santé du Mali Laboratoire National	17882
 RAMU Par Malijet	17923
 RECOMMANDATIONS GÉNÉRALES AU GOUVERNEMENT DU MALI	17830
@@ -1313,6 +1327,7 @@ Radio Amani FM Malinde	10097
 Ramata SISSOKO Orpailleurs du Mali	17828
 Reduce Malians	17883
 Regard des Malien.ne.s	6959
+Regarding Malian	18125
 Regulatory Constraints Mali	17870
 Relance Durable du Mali	17870
 Related Posts Digital Mali	9993
@@ -1429,6 +1444,7 @@ UEMOA. Les INS du Mali	16250
 UN Human Mali	17950
 UNHCR Mali	18080
 UNICEF Environnement Numérique de Santé du Mali	17882
+UNIVERSITE ALBARA IBN MALIK AL ANSARI	18170
 Ulanga Mali. Ces	13777
 Un Mali	17842,14
 Un.e Malien.ne	6959

@@ -12,15 +12,19 @@ Burkina IHPC Indice	15961
 CARLOS IHANJICA	10751
 CHAPITRE IHI DE L'IMPOT GENERAL SYNTHETIQUE	15999
 CORE COMPONENTS Components IHE Definition	1009
+Caractère Administratif IHPC Indice Harmonisé des Prix	18169
 Chahid Abdelhafid Ihaddaden	16477
 Chahid Abdelhafid Ihaddadene	15981
 Chikwe Ihekweazu Directeur	15724
 Communication IHR	17289
+Consommation IHPI Indice	18169
+DE LA SANTE IHESP INTITUT PRIVE	18170
 DFIs. IHS Towers	90
 Definitive Proxy Statement of IHS Holding Limited	7198
 Documents IHPC Indice Harmonisé des Prix	15479
 Education and Communication IHS	16951
 Egbin 1 Kainji 1 Ihovbor 2 Jebba 1 Delta 1 Zungeru 1	12062
+Egbin 1 Kainji 1 Zungeru 1 Jebba 1 Ihovbor 2 Delta 1	18217
 Enhanced IHR	12729
 Etat IHH Indice de Herfindahl-Hirschman IMF Institution	16626
 Full IHS Takeover	9117
@@ -70,6 +74,7 @@ IHR Number	15725
 IHR States Parties Self Assessment Annual	17289
 IHR. Count	16892
 IHRDA	10070
+IHRIS Management En	18297
 IHS Brazil and IHS Colombia	9330
 IHS Cameroon	5824
 IHS Cameroon and State-owned	11728
@@ -138,8 +143,9 @@ Ihererekanya	15102
 Ihikiro	13313
 Ihindurwa	15102
 Ihorombe. L’usage	14622
-Ihovbor 1	12062
-Ihovbor 2	12062
+Ihovbor 1	12062,6124,31
+Ihovbor 2	12062,6124,31
+Ihovbor 2 Others W	18186
 Ihovbor 2 and Ikeja 1	12062
 Ihre Anmeldedaten	13014
 Ihre Daten	13014
@@ -166,6 +172,7 @@ Name and Address. IHS Holding Limited	7198
 National IHR Authority	17289
 National IHR Focal Point	16892,397
 Nigerian IHS	10740
+PAF of Ihovbor 2	18186
 Planning and Development IHS Integrated Household Survey	12964
 Q1 Ihovbor 2	12062
 R5.2bn IHS Towers SA	926
@@ -181,3 +188,4 @@ System Management IHP	766
 TITRE IHI	14483
 UPDATE ON THE IHS TRANSACTION Following	10793
 Zambia. IHS Towers	1550
+Zungeru 1 Egbin 1 Kainji 1 Jebba 1 Ihovbor 2 Delta 1	18217

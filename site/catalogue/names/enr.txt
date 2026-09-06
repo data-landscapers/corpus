@@ -83,10 +83,11 @@ ENROLLMENT	12146
 Education Education Enrolment Education Completion Human	10837,1315,188
 Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Education Lower Basic Gross Enrolment Ratio	16973
+EnDev Energising Development EnR	18316
 Enreg	15999
 Enregistr	17438
 Enregistre	10876,5032
-Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91,849,186,143,3,13,11,31,110,46,48,4
+Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91,849,186,143,3,13,11,31,110,46,48,4,116,31,50,6,15,12,2,20
 Enregistrement Cadastral	10876
 Enregistrement Cadastral CEDEAO Communauté	10876
 Enregistrement Communal	10876
@@ -102,7 +103,7 @@ Enregistrement des Faits	9637,1
 Enregistrement des Graphique	13300
 Enregistrement des Institutions	17830
 Enregistrement des OID	16115
-Enregistrer	747,258,5949,963,2959,2499,2659,60,653
+Enregistrer	747,258,5949,963,2959,2499,2659,60,653,1555,130
 Enregistrer Figure	13375
 Enregistrer. Si	13375
 Enregistrerlesinformationssurleresponsabledetraitement	16034
@@ -162,9 +163,10 @@ Enrolment of Students	12411,2364
 Enrolments	16253
 Enrprr.utteur	15399
 Enrprtrlttcttr	15399
-Enrôlement	1187,1278,2276,1353,8386,99,835,928
+Enrôlement	1187,1278,2276,1353,8386,99,835,928,2090
 Enrôlement Scan	14480
 Enrôlement du Président	3337,4,1472,2351
+Enrôler	18432
 Entreprise Enregistrement	14488,1,1
 Entreprise Phase Préparatoire Enregistrement	14488
 Estimated Enrolment	14775
@@ -207,6 +209,7 @@ Health Sciences’ Students Enrolment	2775
 Higher Education Enrolment	12199
 IDENTITY ENROLMENT AND BIOMETRIC CAPTURE	12047
 INJ. COMP. ENROB	15930
+IPP EnR	18316
 Impression de Carte Périmètre Enrôlement Périmètre IDMS	14480
 Initiative GER Gross Enrollment Rate GHG	15661
 JE SOUHAITE ENREGISTRER MON COMPTE MAIS	16629
@@ -247,6 +250,7 @@ O COMBATE AO ENRIQUECIMENTO ILÍCITO	16487
 OBJET DE LA REQUETE Enregistrement	10821
 PDO Outcomes Enrollment and Empanelment	16079
 PERSONNEL PERSONNE ET ENREGISTREZ TOUT ACCOUCHEUSE	13300
+PILIER III ADOPTER LES SOLUTIONS ENRD	18316
 PRELIMINARIES Enrolled	16841
 Phase Préparatoire Enregistrement	14489
 Platform Enrolment	4528,7984
@@ -256,7 +260,7 @@ Primary Education Enrollment Rates	12411
 Primary Gross Enrollment Ratio	14897
 Primary and Junior School Enrolment	2775
 Product GER Gross Enrolment Ratio GPI	14896
-Promotion des EnR	16621
+Promotion des EnR	16621,1695
 Public Services for Women Education Enrolment Public	10759
 Pupil Enrolment and Number of Teachers	2775
 Q.159 ET ENREGISTRER LE NUMÉRO	13300

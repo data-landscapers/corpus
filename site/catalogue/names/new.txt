@@ -53,7 +53,7 @@ Ayang Macdonald Categories Biometrics News	2318,6,103,20,94,25,48,44,120,42,105,
 BBC News	2677,4675,2327,1143,1405,2951
 BBC News Arabic and Patricia Whitehorne	15252
 BBC News Features SAADAAL	15178
-BCEAO NEWS	15834
+BCEAO NEWS	15834,2543,12
 Back HOME REPORTS ABOUT CONTACT NEWSLETTER	12441
 Back News Details	16114
 Bankable Africa and Africa Digital News	6138
@@ -72,6 +72,7 @@ Boost Digital Transformation TechAfrica News	5755
 Boosting Digital Inclusion TechAfrica News	2999
 Botswana Accelerates Digital Transformation TechAfrica News	4070
 Botswana Daily News	5634,4729,2247
+Breaking News English	18099
 Build Future Tech Talent News Services	8610
 Burkina Music News News	9993
 Business News	4873,1448
@@ -89,6 +90,7 @@ CALLS NEWS ONLINE LEARNING ONLINE SERVICES	11964
 CBC News	645
 CENTRE TO FIGHT FAKE NEWS	17277
 CENTRE TO FIGHT FAKE NEWS URL	17277
+CGIAR System News	18336
 CLOSE Online Special City News Entrepreneurship	9878
 COOPSTAT NEWS	11423
 COOPSTAT NEWS N.º	11423
@@ -123,6 +125,7 @@ Communique Wagon NEWSLETTER From Keetmanshoop	13108
 Communique Wagon NEWSLETTER NamRA Backs Small	13044
 Company News Kaspersky	9769
 Comprehensive Emergency Obstetric Newborn Care	4301
+Comprehensive Emergency Obstetric and Newborn Care	18370
 Connecting Africa Insights NewsletterSign Me Up	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 Contact Newsletters Actualités Têtes	13419
 Context News	12227
@@ -195,7 +198,7 @@ Electricity Control Board Spark Newsletter	12399
 EmONC Emergency Obstetric and Newborn Care EPI	17289
 Emergence of New-Collar Skills	6948
 Emergency Obstetric and Newborn Care	17289
-Emirates News Agency	9098
+Emirates News Agency	9098,9092
 Emirates News Agency HARARE	13692
 Emirates News Agency SAKAÏ	16576
 Emirates News Agency URL	16576
@@ -371,7 +374,7 @@ Latest Biometrics News	2390,1902,563,470,255,313,73,322,83,128,44,465,56,47,32
 Latest Biometrics News Foundational ID	9801,26
 Latest Biometrics News OfDIA	10293
 Latest Eswatini Parliament News Piggs Peak	12989
-Latest News	4112,756,916,4,17,145,14,249,543,115,166,32,67,1280,481,1632,1497,352,1473,949,384,630,4,58,95,152,79,5
+Latest News	4112,756,916,4,17,145,14,249,543,115,166,32,67,1280,481,1632,1497,352,1473,949,384,630,4,58,95,152,79,5,2056
 Latest News Inside Politics	9940
 Latest News Latest	12454
 Latest News News	12322
@@ -488,7 +491,7 @@ New-York. Auparavant	16250
 New-born	970,11280
 New.pdf	14830
 NewClimate Institute	8891
-NewDealTechnologique	2442
+NewDealTechnologique	2442,15933,1,12,31
 NewExecutive Lawof	16833
 NewFederal Republic Government of Nigeria Funding	4301
 NewFi	1284,15638
@@ -496,6 +499,7 @@ NewFin	14040
 NewFin1	10963,1,891
 NewFin1 Total Project Cost	13332,2289
 NewFin1 Total Project Cost Total Financing	15553
+NewFin1 WB Fiscal Year	18104,197
 NewFinEn	10963,1,891,3698
 NewFinEnh1 World Bank Group Financing International	13332,2181,37,71
 NewModels	14932
@@ -509,7 +513,7 @@ NewZimbabwe.com	3352,2381,2686,557
 NewZimbabwe.com Date	13675
 NewZimbabwe.com Facebook Instagram Youtube Sign	5733
 Newbold	236
-Newborn	771,106,3276,107,5928,577,10,1,641,829,194,289,745,537,138,1266,1874
+Newborn	771,106,3276,107,5928,577,10,1,641,829,194,289,745,537,138,1266,1874,873
 Newborn and Child Health	200,453
 Newborn and Child Health Services	14033
 Newborns	15725
@@ -524,7 +528,7 @@ Newfel Ferroudj	15410
 Newgry Money Tree	8732
 Newhouse	10763
 Newlegislations- Regulations-	16883
-Newly	718,510,2321,55,1049,7207,1117,441,520,1042,43,1121,816
+Newly	718,510,2321,55,1049,7207,1117,441,520,1042,43,1121,816,1399
 Newly Licenced	15023
 Newly Registered Firms	12389
 Newly Registered Road Motor Vehicles and Motorcycles	2775
@@ -783,7 +787,7 @@ NewslettersDM ConnectDM ShopCorruption Watch DM	3435,807,2854,207
 Newsmada	7982,6695,5
 Newsmada URL	14677
 Newsmada Written	14597,23,41
-Newspaper	11178,5665,256,15
+Newspaper	11178,5665,256,15,1244
 Newspaper Circulation and Online Newspaper Readership	2775
 Newspaper Proprietors' Association of Nigeria	11313
 Newspaper Proprietors’ Association of Nigeria	7179,2,4111
@@ -955,6 +959,8 @@ TechAfrica News Today's Bulletin	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20
 TechAfrica News. EP.06	2459
 TechAfrica News. Intelsat	2810
 TechCrunch and Africa Private Equity News	711
+Technologique NewDeal	18319
+Technologique NewDeal Dans	18319
 Telecommunication Union Newsletter	9109
 Telecommunications and ICT Sector TechAfrica News	6547
 Telegram NEWS Oborevwori	9960
@@ -992,7 +998,7 @@ WAPIS Newsletter 16 FR.pdf NUMÉRO	17848
 WCO News Magazine	13051
 WebRadio Newsletter Library	17221
 Weekly Newspapers1	2775
-WhatsApp WebTV WebRadio Newsletter Library	11548,4277,769,580,206
+WhatsApp WebTV WebRadio Newsletter Library	11548,4277,769,580,206,983
 Whistler Newspaper	4102
 Wingu News Over	14026
 World Bank Support TechAfrica News	3663

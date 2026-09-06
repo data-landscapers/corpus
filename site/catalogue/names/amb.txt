@@ -9,6 +9,7 @@ AMBAND LIMITED Data Controller INST-8349966FA21 NAIROBI	7167
 AMBAND LIMITED Data Processor INST-8349966FA21 NAIROBI	7167
 AMBARKA HASSANE	6613
 AMBAS	2914,1153
+AMBASSADE DU ROYAUME DU MAROC Attente	18322
 AMBASSADOR	3972,77,1303
 AMBASSADORS	14434
 AMBASSADORS IGAD REGIONAL STEERING COMMITTEE IGAD	14434
@@ -36,6 +37,7 @@ AMBROSE OLALE OKOYO Data Processor INST-691145E31A3	7167
 AMBUSH CAPITAL LIMITED Data Controller INST-444525CFDE3	7167
 ANÁLISE COMPARATIVA ENTRE A ESTRUTURA AMBIENTAL	11390
 ASPECTOS AMBIENTAIS E SOCIAIS DO PROJECTO	11390
+Acting High Commissioner Ambassador Ubong Akpan	18221
 Addis Ababa Othow and British Ambassador	14228
 Advancing Ambition	10793
 Africa. The AMB	13124
@@ -63,9 +65,9 @@ Ambasade	14861
 Ambasaderi	14861
 Ambassa	16381
 Ambassad	737
-Ambassade	2801,685,2774,4830,2315,331,1663,271,303,482,189,841,332,31,13,26,39
+Ambassade	2801,685,2774,4830,2315,331,1663,271,303,482,189,841,332,31,13,26,39,175
 Ambassade de Chine	13736
-Ambassade de France	1679,8348,3415,319,1,37,3745,1
+Ambassade de France	1679,8348,3415,319,1,37,3745,1,779,38
 Ambassade des Etats-Unis	13724,4093
 Ambassade des Pays-Bas	5899,3967,5716
 Ambassade du Burkina Faso	8321,9670
@@ -79,11 +81,12 @@ Ambassade du Royaume de Belgique	13560
 Ambassade du Royaume des Pays-Bas	5899,10745
 Ambassade du Royaume du Maroc	7904,8810
 Ambassade du Togo	15674
-Ambassades	737,14681,164,130,903,21,1225
+Ambassades	737,14681,164,130,903,21,1225,240
 Ambassades Article	17861
 Ambassades France	16722
 Ambassades de Bamako	17907
-Ambassadeur	1955,2214,1576,2933,1416,996,2315,805,1430,143,190,126,76,75,400,1162,29,7,13,38,48,83
+Ambassadeur	1955,2214,1576,2933,1416,996,2315,805,1430,143,190,126,76,75,400,1162,29,7,13,38,48,83,71,195,116
+Ambassadeur Bankole ADEOYE	18310
 Ambassadeur Ces	17861
 Ambassadeur Edouard Au	13405
 Ambassadeur Evelyne Butoyi. Dans	13638
@@ -100,7 +103,7 @@ Ambassadeur du Niger	8808
 Ambassadeur du Royaume de Belgique	17926
 Ambassadeur du Rwanda	14861
 Ambassadeur du Sénégal	11024
-Ambassadeurs	3396,6242,451,5614,1771,387,88
+Ambassadeurs	3396,6242,451,5614,1771,387,88,361
 Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468,778,626,332,80,22,600,590,142,442,393,964,613,82,671,152,143
 Ambassador A.R. Chimbindi	5148
 Ambassador Abbas	10427
@@ -205,6 +208,7 @@ Ambassador of India	13509,1610
 Ambassador of India Mr. Bramha Kumar	13509
 Ambassador of Iraq	11738
 Ambassador of Japan	12620,191,151
+Ambassador of Niger	18197
 Ambassador of Rwanda	14861
 Ambassador of Senegal	6869
 Ambassador of Sweden	13156,1937
@@ -222,7 +226,7 @@ Ambassadors of Ireland and Norway	4888
 Ambassadrice	3486,7439,4379,1227
 Ambassadrice Jessica Davis Ba	10925
 Ambassadrice Mme Cynthia Kierscht	15304
-Ambassadrice de France	6514
+Ambassadrice de France	6514,11810,57
 Ambassadrice des Usa	10925
 Ambassadrices. Ces	17881
 Ambata Platform Trust Data Controller INST-66786452C5E	7167
@@ -235,7 +239,7 @@ Ambatomaro	14489,1
 Ambatovy	14548,71
 Ambazonia	2319
 Amber Ijebor	11017
-Amber PAF	12062
+Amber PAF	12062,6124,31
 Amber Rosier	6277,10125
 Amber Sinha	12139
 Ambiance	1005
@@ -380,6 +384,7 @@ Ciências Ambientais	9694
 Colombia Ambassador	6963
 Colombia's Ambassador	6963
 Colombian Ambassador	6963
+Commission Electorale des Ambassades	18101
 Commune Ankazoambo District Ambositra Commune Antoetra	14425
 Complexity and Ambiguity	7444,4512
 Comércio Ambulante	9403

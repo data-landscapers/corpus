@@ -3,6 +3,7 @@ AI Readiness Press	8091
 AI. Princeton University Press. Geradin	17780
 AI. Princeton University Press. Stamboliev	17780
 ALECSO Press All	2958
+APS Réinstallation EGC COMMUNIQUE DE PRESSE	18371,12
 ASSEMBLY PRESS	11,576
 AUC Press	15473
 Academic Press	8130,4167
@@ -22,6 +23,8 @@ Agence Ivoirienne de Presse	15936
 Agence Maghreb Arabe Presse	308
 Agence Maghreb Arabe Presse Chapitre	308
 Agence Malienne de Presse	17915
+Agence Nigérienne de Presse	18242,25
+Agence Nigérienne de Presse URL	18166,11,74,3,1
 Agence Togolaise de Presse	8718
 Agence Togolaise de Presse. Tous	8718
 Agence de Presse XINHUA	15605
@@ -41,6 +44,7 @@ Angola Press Agency	10767
 Angola Press Agency. All	10767
 Anthem Press	5700
 ArticleRegulatory Pressure Is Increasing. Many Organisations	6632
+Assainissement du Millénaire PRESS	18291
 Assistants de Presse	17899
 Associated Press	9399,4062,4313
 Associated Press430	13461
@@ -89,12 +93,13 @@ Centralise Records Pressed	9517
 Centre de Presse	17887,5,11
 Chadian Press and Publishing Agency	5407
 Chicago Business Press. Ashton	6832
+Chukwudi Achife Chief Press Secretary	18240
 City Press	13461
 Columbia University Press	3782,11691
 Comments PRESS RELEASE	17064
 Communication Press	13929
 Communication and Innovation PRESS NOTICE EARLY MARKET	14756
-Communiqués de Presse	8718
+Communiqués de Presse	8718,9669
 Competing Development Pressures	17139
 Consultation Press	16942
 Contact the Press Council	10735,2132,1,1,3923,1,1,1
@@ -111,8 +116,10 @@ Cyberspace. University Press	5242
 DAC Presse	2507
 DE LA PRESSE CHAPITRE	13781
 DE PRESSE	15397
+DE PRESSE Chapitre	18288
 DE PRESSE ECRITE ET NUMERIQUES Directeur	16175
 DE TA PRESSE ET DE I.'INFORMATION	15397
+DEVELOPMENT Press Release	18130
 Deal PRESS-CHN-MOZ-2022-001. Crosswalk	2161
 Decent Jobs PRESS RELEASE	14092
 Deep Learning. MIT Press. Governo de Moçambique	2816
@@ -172,6 +179,7 @@ Green Press Initiative	10977
 Groupe PressTal	9890
 Guillermo Cano World Press Freedom Prize	14073
 HZK Presse	1943,8342,824,2666,19,8
+Haiba Director Press and Public Relations	18130
 Harvard Business School Press	9237
 Harvard University Press	226,3556,1918
 Harvard University Press. Available	12090
@@ -208,6 +216,7 @@ KT Press	3256,159,11749
 KT Press Staff Writer	3245,11,5222
 Kenya. Ohio University Press	12227
 Kit de Presse	8718
+L'Agence Nigérienne de Presse	18258
 LIBERIA FACES PRESSURE OVER PAY	10581
 La Presse	2405,5468,157,108,852,8
 La Presse de Tunisie	7032
@@ -234,6 +243,7 @@ Media Contact GSMA Press Office	11003
 Media Contacts GSMA Press Office	14093
 Media and Press Freedom Dimension	17745
 Minister of Education Engages Press	17214
+Ministry's Head of Press and Public Relations	18221
 Mme Louise BOUKANDOU Agence Gabonaise de Presse	15973
 Mobile Telecommunications Limited NAMPA Namibia Press	12973
 Monetary Policy Committee Press	17285
@@ -252,6 +262,7 @@ News and Press Releases	1962,15312,30
 Nigerian Press Organisation	7179,2,4111,21
 ORGANES DE PRESSE Artlcle	15397
 Ohio University Press	9739
+Online Press	18309
 Oxford University Press	2096,422,2724,107,351,3699,1364,2629,3466,915,7
 Oxford University Press USA-OSO. Brattberg	17780
 Oxford University Press. Alkire	15244
@@ -297,16 +308,18 @@ Peace and Prosperity for All Press Releases ECOWAS	16243
 Penguin Press. United Nations	11154
 People PRESS RELEASE	12747
 Pluto Press. Navarro	11050
+Point de Presse du Ministre	18200
 Police Press	14781
+Politics Laws Economy Society Safety Press	18358
 Polity Press	11138
 Porto-Novo Press	8713
 Post Press Releases and Statements	11251
 Power. MIT Press	2096
 Presidential Press Secretary	17391
-Press	53,31,5,54,1,2,62,3,29,1,22,1,1,21,3,1,3,1,2,34,17,7,1,21,4,1,4,1,1,1,1,2,1,7,48,54,5,3,1,1,2,1,5,1,1,8,65,1,1,1,9,12,2,7,9,1,1,14,21,1,1,1,9,3,10,4,1,3,1,1,1,2,1,1,11,9,80,22,2,13,6,1,2,2,26,2,2,1,1,2,1,9,1,1,1,2,1,1,1,12,1,2,1,1,1,4,7,5,10,84,2,11,28,9,31,2,1,5,3,1,2,2,1,1,3,5,3,1,1,9,2,86,153,1,24,12,75,4,1,1,13,6,4,3,1,3,1,6,1,16,75,231,255,19,5,1,48,6,3,4,2,2,6,1,1,2,7,280,5,904,964,54,3,8,13,26,4,11,1,5,98,78,112,1246,688,694,111,16,100,21,1001,257,83,41,31,659,849,115,41,60,228,55,30,5,4,11,136,19,166,11,565,175,66,139,76,37,37,579,9,72,71,148,1,70,132,383,903,523,79,11,282,76,76,961,157,125,7,50,214,423
+Press	53,31,5,54,1,2,62,3,29,1,22,1,1,21,3,1,3,1,2,34,17,7,1,21,4,1,4,1,1,1,1,2,1,7,48,54,5,3,1,1,2,1,5,1,1,8,65,1,1,1,9,12,2,7,9,1,1,14,21,1,1,1,9,3,10,4,1,3,1,1,1,2,1,1,11,9,80,22,2,13,6,1,2,2,26,2,2,1,1,2,1,9,1,1,1,2,1,1,1,12,1,2,1,1,1,4,7,5,10,84,2,11,28,9,31,2,1,5,3,1,2,2,1,1,3,5,3,1,1,9,2,86,153,1,24,12,75,4,1,1,13,6,4,3,1,3,1,6,1,16,75,231,255,19,5,1,48,6,3,4,2,2,6,1,1,2,7,280,5,904,964,54,3,8,13,26,4,11,1,5,98,78,112,1246,688,694,111,16,100,21,1001,257,83,41,31,659,849,115,41,60,228,55,30,5,4,11,136,19,166,11,565,175,66,139,76,37,37,579,9,72,71,148,1,70,132,383,903,523,79,11,282,76,76,961,157,125,7,50,214,423,303,24,44,87
 Press Association	16958
 Press Briefings	16961,64
-Press Code	13461
+Press Code	13461,4897
 Press Code of Ethics and Conduct	8917
 Press Conference and Documentaries	17105
 Press Corner	11155
@@ -352,6 +365,7 @@ Press Releases LAA Addresses Runway	16961
 Press Releases Liberia and Seychelles Forge	17025
 Press Releases President Bola Ahmed Tinubu	6871
 Press Releases Registries Global Benchmark	3907
+Press Releases THE SPEECH WAS DELIVERED	18263
 Press Releases Today	12026
 Press Review	9398
 Press Room	4286,702,2407,25,24,3711,139,47,3344,1068,58,181,54,85,105,19
@@ -372,22 +386,27 @@ Press and Media Law	12124
 Press and Meta	13462
 Press and Public Affairs	16961
 Press and Public Affairs Unit	16970
-Press and Public Relations	7659,4402
+Press and Public Relations	7659,4402,6145,13,40
 Press and Publications Act	15342
 Press-Code Eng.pdf	13461
 Press-release-Norfund-Baobab.pdf	709
 Press14	11234
 Press23	11234
+PressAfrik	18394
 PressPM	12075
 PressRelease	2677,12933,115,84,18,114
 PressRelease.aspx	226
 PressReleasePage.aspx	4807,1579,4749
 PressReleseDetailm.aspx	6386
-Presse	2514,3727,2376,191,1724,1,2978,228,42,18,1598,539,111,574,1220,1,209
+Presse	2514,3727,2376,191,1724,1,2978,228,42,18,1598,539,111,574,1220,1,209,237,39
 Presse Archive	15936
+Presse Article	18288
 Presse Ecrite	8808
+Presse JO	18288
 Presse Privée du Mali	16250
+Presse URL	18288
 Presse du Tchad	8224
+PresseAssociations	18365
 Pressed	12514
 Pressemitteilungen-Details 452032-2.html	248
 Pressemitteilungen-Details 545536-2.html	344
@@ -398,7 +417,7 @@ Presses	16047,1770
 Pressing	10718
 Pressing Needs of Sudanese Journalists	15342
 Pression	643,362,9707,5929
-Pressions	14450
+Pressions	14450,3862
 Pressreader	13116,56
 Pressupostos	549,10234,4597,642
 Pressure	5287,3002,710,954,3432,147,822,382,196,315,1653,257
@@ -412,12 +431,14 @@ Pressões	11396
 Princeton University Press	226,1870,2580,1024,12080
 Princeton University Press. Available	12090
 Princeton University Press. Bates	7886
+Print Press	18309
 Projects and Women Support. Press	12297
 Provide Biometric Data Press Release	11079
 Publication Media Events Calendar Press Statements	12390
 RELATIONS PRESS OFFICER	11554
 REPERTOIRE DES ORGANES DE PRESSE ET	13324
 RSF World Press Freedom Index	14114
+RSF World Press Freedom Index URL	18358
 Regulate Technology. Oxford University Press	5242
 Relations Presses	15639
 Relations Presses DFA	15639
@@ -431,8 +452,9 @@ Régissant la Presse	13313
 SECTION III DES MESSAGERIES DE PRESSE	15397
 SEMENTS D’UN PRESSING MODERNE A BA-	17817
 SIGNED RDHS PRESS RELEASE ENGLISH VERSION	15067
+SUPERIEURE DES METIERS DE LA PRESSE	18170
 Sam Altman’s OpenAI. Penguin Press. Heermann	11050
-Sayana Press	10777
+Sayana Press	10777,7535
 Scholars’ Press. ISBN-13	11310
 Sectoral Recovery and Cost Pressures Economic	13532
 Security Agency Press Statement	9067

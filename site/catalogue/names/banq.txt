@@ -1,13 +1,14 @@
 A.S. Kemba Banque	1996,2390
 ABBAS MAHAMAT TOLLI Banque des Etats	11944
 AFD BANQUE AFRICAINE DE DEVELOPPEMENT	14425
-AFG BANK AFRIKA BANQUE BANQUE ATLANTIQUE	11588
-AFRIKA BANQUE BGFIBANK BIMAO BNDE BOA	11588
+AFG BANK AFRIKA BANQUE BANQUE ATLANTIQUE	11588,6682
+AFRIKA BANQUE BGFIBANK BIMAO BNDE BOA	11588,6682
 ANNONCES ET COMMUNICATIONS BANQUE D’ALGERIE Situation	15456
 AUPRES DES BANQUES ET INSTITUTIONS FINANCIERES	15970
 Actualités Services NSIA Banque CI	8755
 Africaine de Développement BM Banque	16037
 Afrika Banque	5324
+Afrique BID Banque Islamique de Développement BOS	18286
 Afrique Centrale BM Banque	15474
 Alger. La Banque	15594
 Algérie. La Banque	15594
@@ -22,15 +23,19 @@ Atlantique Banque	3361
 Automatiques de Banques	17833
 B Demande de Versement Banque	15901
 B. Aux Banques	13390
-BAD Banque	15474,487,665
+B. FREE Banque du Trésor de Côte	18313
+BAD Banque	15474,487,665,1690
 BAD Banque Africaine de Développement BAD Banque	16037
 BAD Banque Africaine de Développement CAS Charte	15580
+BAD UEMOA UNICEF Banque	18169
+BADEA Banque Arabe	18286
 BAM Bank Al-Maghrib BM Banque	7655
 BANQTECH LIMITED Data Controller INST-4346752E5D7 NAIROBI	7167
 BANQUE A DESTINATION D’UN GUICHET	17485
 BANQUE ACHETEES A LA CLIENTELE	17485
 BANQUE AFRICAINE DE DEVELOPPEMENT	1189
 BANQUE AFRICAINE DE DEVELOPPEMENT REPUBLIQUE GABONAISE	15500
+BANQUE ATLANTIQUE	18122
 BANQUE ATLANTIQUE BENIN Traitement	10821
 BANQUE ATLANTIQUE COTE D'IVOIRE	17356
 BANQUE ATLANTIQUE ET NITA RENFORCENT L’INTEROPÉRABILITÉ	6883
@@ -40,7 +45,7 @@ BANQUE CENTRALE DE DJIBOUTI	13863
 BANQUE CENTRALE DE DJIBOUTI URL	13838
 BANQUE CENTRALE DE MAURITANIE	17867
 BANQUE CENTRALE DU CONGO LE GOUVERNEUR	15903
-BANQUE COMMERCIALE DU BURKINA BANQUE	11588
+BANQUE COMMERCIALE DU BURKINA BANQUE	11588,6682
 BANQUE DE LA REPUBLIQUE DU BURUNDI	13467
 BANQUE DES ETATS DE L’AFRIQUE CENTRALE	11944
 BANQUE D’ALGERIE Règlement	15747,116
@@ -66,10 +71,11 @@ BCRG Banque Centrale	16626
 BDEAC. PPP PPP EXIMBANK Chine Banque	15542
 BEAC BANQUE DES ETATS DE L'AFRIQUE	15935
 BEAC Banque	15474
+BEI Banque	18316
 BF Banque	15715
 BI Business Intelligence BM Banque Mondiale	10712
 BID Banque Islamique de Développement CAMEC Centrale	17843
-BM Banque	18015
+BM Banque	18015,301
 BNI BOA AFRIKA BANQUE BRIDGE BANK	18017
 BORDEREAU D’ACHAT DE BILLETS DE BANQUE	17485
 BPMC Banque Populaire Maroco-Centrafricaine BSE Bus	15474
@@ -79,15 +85,17 @@ Backbone National Banque Mondiale Réalisation	18007
 Bank Banque Maghrébine	17909
 Banqu.e Mondiale	15542
 Banquc Centrale	15443
-Banque	556,9,78,94,10,18,424,96,364,30,294,430,4,34,123,32,59,40,44,203,24,117,15,161,37,6,14,46,8,36,80,104,48,12,30,4,35,66,4,3,3,21,130,42,49,2,64,24,81,117,38,23,16,166,105,44,3,9,4,9,132,83,97,66,193,11,29,81,2,258,9,104,28,13,18,11,47,4,43,12,9,1,2,2,34,12,16,8,1,66,12,274,140,18,199,50,1,55,5,66,121,110,1,16,66,1,63,238,51,2,32,5,15,55,7,89,11,54,36,20,30,16,2,71,6,26,42,12,18,53,79,27,28,84,3,1,23,33,172,5,77,8,36,1,91,4,278,4,99,1,1,59,2,86,32,55,7,137,65,23,36,68,74,232,9,41,22,59,86,102,6,36,32,46,11,4,3,31,58,11,106,4,15,7,31,1,1,1,40,19,8,21,10,21,84,81,110,251,45,47,196,4,104,30,76,6,6,7,69,1190,12,11,4,2,3,7,34,2,13,21,8,8,1,5,9,10,15,1,49,5,2,7,18,3,3,10,2,1,11,6,45,11,2,14,1,2,17,60,20,31,40,21,4,15,39,20,12,348,1,62,66,7,1,1,12,35,7,9,1,1,44,5,1,8,1,1,14,6,1,3,3,1,19,1,9,9,3,3,1,2,37,49,391,258,39,24,1,11,8,12,19,1,18,3,4,7,35,13,25,11,3,2,39,17,13,8,7,5,5,22,3,7,2,22,1,19,19,22,8,4,9,22,13,5,23,10,7,15,13,2,2,10,4,3,4,4,10,37,23,2,8,2,21,24,1,12,25,14,6,5,3,1,15,1,10,9,19,20,17,33,3,3,17,1,16,5,9,26,4,1,5,4,23,15,2,4,9,10,5,20,80,7,31,35,2,1,5,1,1,18,25,2,5,3,19,1,1,7,12,2,2,4,16,2,72,177,239,146,4,63,37,33,42,75,5,31,20,84,26,3,24,5,8,1,3,12,1,9,3,11,1,12,2,3,9,34,3,7,45,6,16,22,22,4,10,13
+Banque	556,9,78,94,10,18,424,96,364,30,294,430,4,34,123,32,59,40,44,203,24,117,15,161,37,6,14,46,8,36,80,104,48,12,30,4,35,66,4,3,3,21,130,42,49,2,64,24,81,117,38,23,16,166,105,44,3,9,4,9,132,83,97,66,193,11,29,81,2,258,9,104,28,13,18,11,47,4,43,12,9,1,2,2,34,12,16,8,1,66,12,274,140,18,199,50,1,55,5,66,121,110,1,16,66,1,63,238,51,2,32,5,15,55,7,89,11,54,36,20,30,16,2,71,6,26,42,12,18,53,79,27,28,84,3,1,23,33,172,5,77,8,36,1,91,4,278,4,99,1,1,59,2,86,32,55,7,137,65,23,36,68,74,232,9,41,22,59,86,102,6,36,32,46,11,4,3,31,58,11,106,4,15,7,31,1,1,1,40,19,8,21,10,21,84,81,110,251,45,47,196,4,104,30,76,6,6,7,69,1190,12,11,4,2,3,7,34,2,13,21,8,8,1,5,9,10,15,1,49,5,2,7,18,3,3,10,2,1,11,6,45,11,2,14,1,2,17,60,20,31,40,21,4,15,39,20,12,348,1,62,66,7,1,1,12,35,7,9,1,1,44,5,1,8,1,1,14,6,1,3,3,1,19,1,9,9,3,3,1,2,37,49,391,258,39,24,1,11,8,12,19,1,18,3,4,7,35,13,25,11,3,2,39,17,13,8,7,5,5,22,3,7,2,22,1,19,19,22,8,4,9,22,13,5,23,10,7,15,13,2,2,10,4,3,4,4,10,37,23,2,8,2,21,24,1,12,25,14,6,5,3,1,15,1,10,9,19,20,17,33,3,3,17,1,16,5,9,26,4,1,5,4,23,15,2,4,9,10,5,20,80,7,31,35,2,1,5,1,1,18,25,2,5,3,19,1,1,7,12,2,2,4,16,2,72,177,239,146,4,63,37,33,42,75,5,31,20,84,26,3,24,5,8,1,3,12,1,9,3,11,1,12,2,3,9,34,3,7,45,6,16,22,22,4,10,13,15,30,59,2,16,10,9,18,2,5,11,19,5,21,4,8,15,14,37,7,3,2,1,7,15
 Banque Africaine	13433,991,3041,362
-Banque Africaine de Développement	1218,1296,80,366,64,943,22,3117,177,1273,1936,2941,197,992,852,19,49,40,217,8,570,44,220,97,1118
+Banque Africaine de Déve-	18322
+Banque Africaine de Développement	1218,1296,80,366,64,943,22,3117,177,1273,1936,2941,197,992,852,19,49,40,217,8,570,44,220,97,1118,262,46,5,41,16,96
 Banque Africaine de Développement BADEA	15475
-Banque Africaine de Développement BCEAO	10874
+Banque Africaine de Développement BCEAO	10874,7417
 Banque Africaine de Développement BCEAO Banque Centrale	10876
 Banque Africaine de Développement BCRG Banque Centrale	16621
 Banque Africaine de Développement BIT	15848
 Banque Africaine de Développement BM Banque Mondiale	10975
+Banque Africaine de Développement BNEE	18118
 Banque Africaine de Développement CAP	17830
 Banque Africaine de Développement. Ces	13708
 Banque Africaine de Développement. En	15668
@@ -111,7 +119,7 @@ Banque Cen	16250
 Banque Cen-	10237
 Banque Centralc	15443
 Banque Centralc. Article	15443
-Banque Centrale	2623,142,476,120,29,376,693,1281,305,101,237,559,341,637,396,703,887,331,474,13,112,38,14,34,20,23,16,541,277,145,130,1316,62,16,244,116,719,372,433,90,1,39,26,75,52,199,3,66,31,86,239,104,83,167,3,1,7,17,104,636,276,159,41,198,8
+Banque Centrale	2623,142,476,120,29,376,693,1281,305,101,237,559,341,637,396,703,887,331,474,13,112,38,14,34,20,23,16,541,277,145,130,1316,62,16,244,116,719,372,433,90,1,39,26,75,52,199,3,66,31,86,239,104,83,167,3,1,7,17,104,636,276,159,41,198,8,155,96,56
 Banque Centrale Article	16613,1203
 Banque Centrale GRATUIT GRATUIT	17833
 Banque Centrale I. Organisation	16613
@@ -122,6 +130,7 @@ Banque Centrale de Djibouti Avenue St. Laurent	13863
 Banque Centrale de Djibouti. Ce	13838
 Banque Centrale de Djibouti. Dirigée	3024
 Banque Centrale de Madagascar	14411
+Banque Centrale de Maurice	18389
 Banque Centrale de Mauritanie	9656,8188,3,10,1,9,14,17,74,101
 Banque Centrale de Mauritanie Article	17858
 Banque Centrale de Mauritanie BPO Business Process	17907
@@ -135,17 +144,21 @@ Banque Centrale de Mauritanie. L'établissement	17857
 Banque Centrale de Mauritanie. La Banque Centrale	17857
 Banque Centrale de Mauritanie. Section	17857
 Banque Centrale de Mauritanie. Tout	17857
+Banque Centrale de São Tomé-et-Príncipe	18389
 Banque Centrale de Tunisie	11614,179,2439
 Banque Centrale des Comores	1854,606,3585,14,87,7566,45,44
 Banque Centrale des Comores DEVELOPMENT OBJECTIVE Original	13742
 Banque Centrale des Comores Fixe	13712
 Banque Centrale des Comores. Il	13801
 Banque Centrale des Comoros	17235
-Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489,1557,26
+Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489,1557,26,339,37,73,98
+Banque Centrale des Etats de I'Afrique de I'Ouest	18292,22
 Banque Centrale du Congo	5836,207,3254,2651,12,13,279,3206,445,429
 Banque Centrale du Congo URL	15527
 Banque Centrale du Congo. Il	15670
 Banque Centrale du Congo. Le Ministre du Pouvoir	15569
+Banque Centrale du Liberia	18389
+Banque Centrale du Mozambique	18389
 Banque Centrale. Article	10836,4516,156,127,299,679,1203
 Banque Centrale. Au	13468
 Banque Centrale. CHAPITRE III RELATIONS	17816
@@ -153,7 +166,7 @@ Banque Centrale. CHAPITRE VI	15635
 Banque Centrale. Ce	16613
 Banque Centrale. Ces	16613
 Banque Centrale. Cette	11614,330,5872
-Banque Centrale. En	15508
+Banque Centrale. En	15508,2766
 Banque Centrale. II.1.3.4. Pension	13452
 Banque Centrale. Il	10836,1108,1524,2167,2181
 Banque Centrale. Ils	10836,4516,283
@@ -179,7 +192,7 @@ Banque Compte	10876
 Banque Congolaise	1828
 Banque Connaissance	13390
 Banque Contrat de Subvention	15901
-Banque Européenne	7668,5765
+Banque Européenne	7668,5765,4992
 Banque Fédérale de Commerce	17640
 Banque GIM-UEMOA Groupement Interbancaire Monétique	4459
 Banque GRATUIT Centrale GRATUIT	17833
@@ -189,6 +202,7 @@ Banque Internationale	15847,297
 Banque Internationale du Cameroun	10965
 Banque Islamique de Développement	2342,466,349,2213,4902,3546,2844,5,1162
 Banque Islamique de Développement BIDC	15475
+Banque Islamique de Développement ENSTAT	18169
 Banque La Banque	15901
 Banque L’Emprunteur	15901
 Banque Malienne de Solidarité	17906
@@ -197,15 +211,17 @@ Banque Marocaine du Commerce Ext-rieur	10718
 Banque Misr	3451,12068,144,329
 Banque Mondia le Fond Mondia	13325
 Banque Mondial	15592
-Banque Mondiale	737,6,4,1,1245,815,349,213,955,1658,85,78,319,140,1018,845,88,335,395,11,109,262,732,311,1,109,37,18,99,969,38,1308,10,6,19,16,70,31,10,103,182,67,2,12,606,1,50,13,1,1,5,3,4,47,73,2,774,1,59,38,4,42,15,18,10,83,2,3,12,27,3,54,30,8,41,3,1,21,28,7,28,63,33,42,245,9,37,180,81,1,1,13,3,2,35,41,1101,1,3,2,7,9,11,4,4,3,15,63,3,59,8
+Banque Mondiale	737,6,4,1,1245,815,349,213,955,1658,85,78,319,140,1018,845,88,335,395,11,109,262,732,311,1,109,37,18,99,969,38,1308,10,6,19,16,70,31,10,103,182,67,2,12,606,1,50,13,1,1,5,3,4,47,73,2,774,1,59,38,4,42,15,18,10,83,2,3,12,27,3,54,30,8,41,3,1,21,28,7,28,63,33,42,245,9,37,180,81,1,1,13,3,2,35,41,1101,1,3,2,7,9,11,4,4,3,15,63,3,59,8,88,2,19,19,2,24,1,24,92,15,5,18
 Banque Mondiale BN	15475
 Banque Mondiale BND Budget National de Développement	16621
+Banque Mondiale BNSP	18291
 Banque Mondiale CE1	15673
 Banque Mondiale COMPOSANTE	14480
 Banque Mondiale CapEd	14472
 Banque Mondiale Comme	10876
 Banque Mondiale Continuité	16627
 Banque Mondiale DGFCE Direction Générale des Financements	18015
+Banque Mondiale DUE	18306
 Banque Mondiale FOURNITURES WARDIP Conception	18007
 Banque Mondiale Recrutement	18007
 Banque Mondiale Représentant	14425
@@ -228,6 +244,7 @@ Banque Mondiale. L’Enquête	17945
 Banque Mondiale. Offre	15685
 Banque Mondiale. Opérationnel	6146
 Banque Mondiale. Pour	13442
+Banque Mondiale. Selon	18150
 Banque Mondiale. Souvent	16627
 Banque Mondiale. Sur	17902
 Banque Mondiale. de Réflexion	17829
@@ -277,7 +294,7 @@ Banque de Sierra Leone	10447
 Banque de Technologies des Nations Unies	16627
 Banque de Technologies. Ce	16627
 Banque des Dépôts du Trésor	3396
-Banque des Etats	969,330,4441,155,1368,3702,979,3410,85,3,1,31,8,1,10,49,38,354,1,66,46,223,97
+Banque des Etats	969,330,4441,155,1368,3702,979,3410,85,3,1,31,8,1,10,49,38,354,1,66,46,223,97,2022
 Banque des Etats de Article	15439
 Banque des Règlements	13838
 Banque des Règlements Internationaux	11799,1653,16,2040
@@ -307,10 +324,10 @@ Banque. Rapport Doing Business	15583
 Banque. Recommandations	16012
 Banque. Sincèrement	15399
 BanqueiiMondiale	14488
-Banques	235,2388,5705,2216,421,2347,2,61,15,78,943,47,91,850,184,91,38,446,387,64,4,4,868,206,126,165,50,31
+Banques	235,2388,5705,2216,421,2347,2,61,15,78,943,47,91,850,184,91,38,446,387,64,4,4,868,206,126,165,50,31,106
 Banques Article	14429
 Banques Billet	17640
-Banques Centrales	13452,16,3077,1288
+Banques Centrales	13452,16,3077,1288,556
 Banques Commerciales	13452,3189
 Banques Commerciales. II.1.3.2. Vente	13452
 Banques Commerciales. II.1.3.5. Apport	13452
@@ -332,6 +349,7 @@ Burundi Education and Research Network CBA Banque	13331
 Business-to-consumer Business-to-government BIC-UEMOA Banque	17870
 C BANQUE INTER POUR LE COMMERCE	16623
 CBAO BANQUE BENIN Traitement	10821
+CEDEAO BANQUE MONDIALE COMMUNAUTE ECONOMIQUE DES	18105
 CEMAC La Banque	10724
 CEMAC. La Banque	5353
 CIPRES. Banque des Etats	11944
@@ -358,6 +376,7 @@ Conditions Pr-éfércnticlles La Banquc	15399
 Contrôle. Lorsque la Banque Centrale du Congo	15903
 Cotonor.r. Bénin. ET LA BANQUE D'EXPORT-IMPORT	15399
 Court Haute Banque	15493
+DE BANQUE ET DE RECYCLAGE IPHEC	18170
 DE LA BANQUE CENTRALE Section	17816
 DE LA BANQUE MONDIALE NOM	16194
 DENOMINATION NUMEROS D'INSCRIPTION BANQUES	17356
@@ -385,6 +404,7 @@ Economie Agriculture Artisanat Banque	16092,1,37,97,148,111,41
 Economie Gabonaise BANQUE AFRICAINE DE DEVELOPPEMENT	15500
 Empruntcur ET LA BANQUE D'EXPORT-IMPORT	15399
 Energie BAD Banque Africaine de Développement CBE	15769
+Energie BM Banque Mondiale BT Basse	18103
 Engagements la Banque	15901
 Equity Banque Commerciale du Congo	12252
 Etat. La Banque	15594
@@ -403,6 +423,7 @@ G La Banque	13467
 GIZ de MPLCI Banque	15712
 GSM. Banque des Etats	11944
 Global Partners Banque	15901
+Gouverneurs de Banques Centrales	18389
 Governor of Banque de France	14744
 Groupe Banque	16037,1481
 Groupe Banque Centrale Populaire	8891
@@ -454,9 +475,10 @@ La BANQUE EUROPÉENNE D’INVESTISSEMENT	15901
 La Banquc	15399
 La Banque	1218,1521,520,1308,736,21,379,294,71,16,743,248,127,453,75,197,139,251,20,20,316,605,644,169,135,101,188,361,57,576,217,1649,77,15,85,125,1722,75,19,14,87,86,35,148,38,174,17,275,178,836,4,255,256
 La Banque Africaine	13433
+La Banque Africaine de Développement	18322
 La Banque Agricole	7106
 La Banque Ccntrale	15443
-La Banque Centrale	6146,2410,1923,357,686,1930,16,395,684,372,433,91,65,127,299,325,354,1203
+La Banque Centrale	6146,2410,1923,357,686,1930,16,395,684,372,433,91,65,127,299,325,354,1203,402
 La Banque Centrale En	13838
 La Banque Centrale de Mauritanie	17857,1,9
 La Banque Centrale des Etats	8316,9500
@@ -481,7 +503,8 @@ L’utilisation la Banque Mondiale	10711
 M NSIA BANQUE NSIA BANQUE	16623
 MA BANQUE N’EST PAS DANS	16629
 MALI ET LA BANQUE ISLAMIQUE	17829
-MANSA BANK NSIA BANQUE ORABANK ORANGE	11588
+MANSA BANK NSIA BANQUE ORABANK ORANGE	11588,6682
+MANSABANK-DJOGA NA Orange Banque	18313
 MISSIONS ET FONCTIONS DE LA BANQUE	17816
 Maroc Jordanie Koweït Tunisie Royaume-Uni Banque	7655
 Mauritanie BAD Banque Africaine de Développement BCM	17907
@@ -491,7 +514,7 @@ Montant du Remboursement Anticipé Si la Banque	15901
 Monétaire Ouest Africaine La Banque Centrale	10888,4882,2285
 Moyens de Paiement EMF Etablissement de Microfinance Banque	11944
 Ménage Coopérat Opérateu Banques Autre Marché	737
-NSIA BANQUE ORABANK UBA MOOV MONEY	11588
+NSIA BANQUE ORABANK UBA MOOV MONEY	11588,6682
 NSIA Banque	3766,6578
 NSIA Banque CI	8755
 NSIA Banque CI Signs Strategic Partnership	5163
@@ -500,6 +523,9 @@ NSIA Banque Côte	5163,3592,520
 NSIA Banque Togo	3766
 NSIA Banque. Annoncé	3766
 National Bank of Egypt and Banque Misr	4324,5779
+Nationale Banque	18105
+Non Non Banque	18316
+Non Non Non Banque	18316
 Nsia Banque Bénin Traitement	10821
 Numérique BAD Banque Africaine de Développement BCEAO	15583
 O La Banque Centrale de Mauritanie	17858
@@ -525,6 +551,7 @@ Pour la Banque	9457,3918,2526,249
 Pour la Banque Africaine	10965
 Principe and Banque Centrale du Congo	6938
 Pro Assurance- Banque	17829
+Production des Banques de Données Economiques	18291
 Projet Banque Mondiale	16628
 Projet WARDIP Banque Mondiale Sélection Fondée	18007
 Projet. La Banque Européenne	15901
@@ -570,8 +597,10 @@ Solidarité des Marchés du Bénin BCEAO Banque Centrale	4459
 Source. Banque	16626
 Stan- Banque	15901
 Statistique BAD Banque Africaine de Développement BCEAO	15479
+Statistique BAD Banque Africaine de Développement BID	18169
 Statistique BEAC Banque des Etats	15501
 StatutsBCEAO2010 0.pdf STATUTS DE LA BANQUE CENTRALE	17816
+Sécurité de Proximité BAD Banque Africaine de Développement	18286
 TIC. La Banque Asiatique de Développement	13290
 TITRE VI CONTROLE DES BANQUES	15594
 TRANSMETTRE A LA BANQUE ET MODALITÉS	15901
@@ -588,7 +617,7 @@ UVRE MODALITÉS DE FINANCEMENT Banque	15673
 Uemoa. La Banque	6888
 Union des Banques Arabes	10718
 Union. La Banque Centrale	10836,4799
-Union. La Banque Centrale des Etats	10888,4882,67
+Union. La Banque Centrale des Etats	10888,4882,67,2381
 Unis USAID Banque Afraicai	13325
 Unis. Banque	7655
 V1F Banque	18032

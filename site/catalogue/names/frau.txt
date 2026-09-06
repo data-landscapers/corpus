@@ -9,6 +9,7 @@ CONTENT SECURITY INFORMATION FRAUD NO COVERAGE	11004
 CONTENT SECURTIY TRUST FRAUD NO COVERAGE	11964
 CUSTOMER FRAUD AWARENESS CAMPAIGN	14099
 Central Industry Fraud Desk	4848
+Certificate Fraud	18206
 Cheque Fraud	17362
 Citizen Fraud Probe	5558
 Civil Registry Identity Fraud	4531
@@ -60,6 +61,7 @@ FRAUDE AUX CARTES BANCAIRES Arllcle	15429
 FRAUDE INFORMATIQUE	16617
 FRAUDE SUR LES POIDS ET MESURES	17825
 FRAUDULEUX	17841
+Fight Against Fraud and Corruption PforR	18370
 Financial Fraud	6426,8271
 Fraud	26,556,2519,1747,399,79,207,728,126,172,603,11,305,40,88,322,8,418,357,364,722,978,363,15,44,1,91,551,1,64,71,10,216,95,687,201,292,1283,282,330,39,142,106,2,1274,133,294,377
 Fraud A- Deposit	582
@@ -70,6 +72,7 @@ Fraud Credit Fraud Identity Theft	17362
 Fraud Cyber and IS Fraud E-Money Fraud	17362
 Fraud Detection	15054
 Fraud Detection May Be Flagging the Wrong	5820
+Fraud Detection Under Limited State Capacity	18318
 Fraud Driven From Within the State	9517
 Fraud E-Money Fraud Forgery and Alteration of Document	17362
 Fraud Forensics	10848
@@ -98,7 +101,7 @@ Fraud Smart Water Management	4126
 Fraud The Rising Threat of Fake Business	3279
 Fraud Types	17362
 Fraud and Cash Suppression Across Banks and SDIs	17362
-Fraud and Corruption	1638,9612,736,1199,342,1239,314,2100
+Fraud and Corruption	1638,9612,736,1199,342,1239,314,2100,1125
 Fraud and Corruption Bank	13185
 Fraud and Corruption Clauses	13332
 Fraud and Corruption PART	13185,1895
@@ -110,7 +113,7 @@ Fraud and Dishonesty	14760
 Fraud and High Costs of Service Delivery	11940
 Fraud-as-a-service	16813
 FraudGPT	2816
-Fraude	2465,8393,18,1167,4285,280,357
+Fraude	2465,8393,18,1167,4285,280,357,1302,50,10
 Fraudes	10975,6385,1
 Frauds	17362
 Frauds Trends Report	6643
@@ -156,7 +159,7 @@ POS Others Cheque Fraud Cyber	17362
 PSPs Reported Fraud	17362
 PSPs Sector Count of Fraud Cases Reported	17362
 Preventing and Combating Fraud	15658
-Preventing and Combating Fraud and Corruption	1264,1625,715,2299,636,4229,61,135,453,108,330,50,19,1407,1,2040,39,107,35,105,1,2,483,792,13,231
+Preventing and Combating Fraud and Corruption	1264,1625,715,2299,636,4229,61,135,453,108,330,50,19,1407,1,2040,39,107,35,105,1,2,483,792,13,231,1018
 Prevenção de Fraude	11386
 R2 Mandatory Fraud Intelligence Sharing	11138
 RELEVANT LANGUAGE ME SECURITY FRAUD	11004

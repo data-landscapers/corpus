@@ -9,7 +9,7 @@ AfCFTA. Honourable Prudence Sebahizi	15127
 Agriculture Honourable Speaker	17105
 Alternate Directors Hon. Daniel Kipkogei Rono	6946
 Ambassador Rao Hongwei	791
-Americas Brazil Barbados Chile Honduras União	10844
+Americas Brazil Barbados Chile Honduras União	10844,7279
 Animal Welfare Honourable Members	14748
 Anse Etoile. Hon. Romain	6379
 Arab Republic of Egypt Right Honourable Russell	13440
@@ -217,6 +217,7 @@ HON. SENATOR S. MOTSAMAI	12748
 HON. SPEAKER	13591
 HON. STANLEY MUTUMBA SIMATAA	12913
 HON. T. MURWIRA	13526
+HON.JUSTICE EMEKA NWITE JUDGE SUIT	18154
 HONORIFIQUE	17841,20,38,83,21,29
 HONORIFIQUE A TITRE ETRANGER du Décret N	17817
 HONOURABLE CHIEF JUSTICE SAKOANE PETER SAKOANE	12668
@@ -294,8 +295,10 @@ Hon'ble Vice President of India	13562,4454
 Hon'ble Vice-President of India	13744
 Hon. A.J. Masuka	11791
 Hon. A.J. Masuka. The Principles	11791
+Hon. Abbas Tajudeen	18174
 Hon. Abdihakim Hassan Ashkir	14991
 Hon. Adan Mohamed Nur	14978
+Hon. Adegboyega Nasiru Isiaka	18174
 Hon. Aden B. Duale	14471
 Hon. Aden Bare Duale	14471
 Hon. Aden Duale	4165,10306
@@ -491,6 +494,7 @@ Hon. Julius Rutto	10313
 Hon. July Moyo	13562
 Hon. Justice A.L. Allagoa	6296
 Hon. Justice Christopher S. Mushabati	13472
+Hon. Justice J.A. Aina	18154
 Hon. Justice Kudirat Motonmori Olatokunbo Kekere-	8978
 Hon. Justice Kudirat Motonmori Olatokunbo Kekere-Ekun	8978
 Hon. Justice Martha K. Koome	9546
@@ -638,6 +642,7 @@ Hon. Mohammed Ali Nasser	17183
 Hon. Mohwasa	12585
 Hon. Mondli Gungubele	4952
 Hon. Moses Wetang’ula	10313
+Hon. Moussa Bocar Thiam	18303
 Hon. Mpundu	13387
 Hon. Mrs Jyoti Jeetun Minister	14819
 Hon. Mulambo Haimbe	13528
@@ -852,12 +857,12 @@ Hongrie	6613
 HongyuYang Sr.EducationSpecialist	13392
 Honiara Meeting26	11439
 Honnah	7721,2685
-Honneur	15901,283,1717,81,9
+Honneur	15901,283,1717,81,9,196,51
 Honneur Fraternité Justice	1702
 Honneur des Eaux	16099
 Honneur du Travail	15999
 Honnêtement	11745
-Honnêteté	15933
+Honnêteté	15933,2358
 Hono-	13405
 Honomoana	1766
 Honor	1885,7197,4181,57,3535,156
@@ -905,6 +910,7 @@ Honorable Selibe Mochoborane	12729
 Honorable Syakalima	13477
 Honorable Tatenda Mavetera	13421
 Honorable Thambo Gina	3373
+Honorables	18188
 Honorables Conseillers	16642
 Honorables Députés	2695,1668
 Honorables Mesdames	17492
@@ -943,7 +949,7 @@ Honour Sie-A-Nyene Gyapay Yuoh Chief	16943
 Honour and Reputation	13948
 Honour of Gen Moses Ali IGCP	6077
 Honour the Acting President	1222
-Honourable	6316,1477,157,3327,720,965,62,73
+Honourable	6316,1477,157,3327,720,965,62,73,5057
 Honourable Alagie Mbow	16914
 Honourable Almameh Gibba	16914
 Honourable Ambassador Dr F.M. Shava	13688
@@ -979,7 +985,7 @@ Honourable Commissioner Selma Sassi-Safer	8485
 Honourable Commissioner Solomon Ayele Dersso	8485
 Honourable Committee	12580
 Honourable Councillors	13118
-Honourable Court	14460
+Honourable Court	14460,3694
 Honourable D. Garwe	13673
 Honourable David Tshere	10151
 Honourable David Tshere M.P	12625
@@ -1035,15 +1041,16 @@ Honourable Member	6196
 Honourable Members	3264,2888,1543,3520,41,19,2,1329,350,15,11,2,40,98,1626,2480,119
 Honourable Members of Both Houses Of Parliament	12955
 Honourable Mercy Dinha	13671
-Honourable Minister	5086,2208,590,3245,728,124,748,2007,37,62,2079
+Honourable Minister	5086,2208,590,3245,728,124,748,2007,37,62,2079,1216,28,55,2,10,44
 Honourable Minister Dr J. Muswere	13615
-Honourable Minister Federal Secretariat Complex Phase	5903
+Honourable Minister Federal Secretariat Complex Phase	5903,12310
 Honourable Minister Mr. Ndaba N	12551
 Honourable Minister Ramaotwana Nelson Ramaotwana	12602
 Honourable Minister Sawymynaden	318
 Honourable Minister Tatenda A. Mavetera	4528,7984,1031
 Honourable Minister The Honourable Soomilduth BHOLAH	14736
 Honourable Minister and Chief Negotiator for Nigeria	12026
+Honourable Minister for Budget and Economic Planning	18225
 Honourable Minister for Communication	9422
 Honourable Minister for Economic Planning	12962
 Honourable Minister for Education	11860
@@ -1053,30 +1060,34 @@ Honourable Minister for MEPD	12962
 Honourable Minister of Budget and National Planning	11129
 Honourable Minister of Communication Technology	11129
 Honourable Minister of Communication and Digital Economy	11857
-Honourable Minister of Communications	5067,998,1760,59,2249,25,971,728
+Honourable Minister of Communications	5067,998,1760,59,2249,25,971,728,6356
 Honourable Minister of Communications and Digital Economy	11857
 Honourable Minister of Defence	7847
 Honourable Minister of Economic Planning and Development	12962
-Honourable Minister of Education	11860,201
+Honourable Minister of Education	11860,201,6145,13,40
 Honourable Minister of Energy and Public Utilities	14745
 Honourable Minister of FCT	11129
 Honourable Minister of Finance	7452,1215,2462,2,1929
 Honourable Minister of Finance Statistics Botswana Private	12551
-Honourable Minister of Finance and Coordinating Minister	2527,3849
+Honourable Minister of Finance and Coordinating Minister	2527,3849,11787,77
 Honourable Minister of Health	12729
 Honourable Minister of Higher Education	17347
 Honourable Minister of Higher and Tertiary Education	13671
 Honourable Minister of Homeland Security	13007
 Honourable Minister of Housing and Urban Development	13022
+Honourable Minister of Humanitarian Affairs and Poverty	18215
 Honourable Minister of Industry	7039,103
 Honourable Minister of Information	10210
-Honourable Minister of Information and National Orientation	11292
+Honourable Minister of Information and National Orientation	11292,6948
 Honourable Minister of Power	11129
 Honourable Minister of Social Integration	14835
+Honourable Minister of State	18215
+Honourable Minister of State for Defence H.E. Dr	18173
 Honourable Minister of State for Education	11860
-Honourable Minister of State for Health and Social Welfare	7895,4109
+Honourable Minister of State for Health and Social Welfare	7895,4109,6154,4,1
 Honourable Minister. Considering	11857
 Honourable Ministers	1014,8747,408,2491,295,355
+Honourable Ministers of Budget and Economic Planning	18263
 Honourable Moeti Caesar Mohwasa	12585
 Honourable Mosa ChabaneHonourable Members	6196
 Honourable Mr Justice CLEVER GARIKAI TSIKWA	13504
@@ -1407,7 +1418,8 @@ Right Honourable the Prime Minister	12660
 Right Honourable the Prime Minister The Honourable	10210
 Rt. Hon. Abuk Payiti Ayik	9585
 Rt. Hon. Alban Sumana Kingsford Bagbin	5935
-Rt. Hon. Benjamin Kalu	15336
+Rt. Hon. Benjamin Kalu	15336,2871
+Rt. Hon. Benjamin Kalu's Vision Realized	18207
 Rt. Hon. Benjamin Okezie Kalu	15336
 Rt. Hon. Eng. Asiimwe Jonard	11848
 Rt. Hon. Justine Kasule Lumumba	7389,2392
@@ -1430,6 +1442,8 @@ SPEAKER The Hon. Dithapelo L. Keorapetse	12607
 SPECIFIED STATE CORPORATIONS Hon. Emmanuel Wangwe	10313
 STATE HON. SAMUEL NARTEY GEORGE	4126
 Salience Consulting Hon. Clarence C. Massaquoi	17070
+Samuel Anyanwu Honourable Minister of Education	18206
+Samuel Anyanwu The Honourable Minister of Humanitarian	18269
 Sansan Honkounne KAMBOU	16250
 Santiago de Chile Chile Honduras Unión Internacional	10764
 Science and Research Hon. Sayed Muhammad Aadil	14753,88
@@ -1452,6 +1466,8 @@ Speaker of Parliament Hon. Segepoh Solomon Thomas	11651
 Special Envoy of Hon’ble Prime Minister of India	16285,955
 Special Guest of Honour	6376
 Sr. Honorato Evita Oma	17128
+Stakeholder Engagement Workshop. The Honourable Minister	18269
+State Actors Co-Chair and Honourable Minister of Budget	18225
 State Owned-Enterprises Honourable Speaker	17105
 Strategy. Hon. Felix C. Mutati	13347
 Supreme Court of Kenya Hon. Justice Martha	9546
@@ -1460,12 +1476,13 @@ TRADE AND INDUSTRY HONOURABLE DR. THABISO	12660
 Technical Sessions Honoraria	17260
 Technology National Guidance. Hon. Alioni Yorke	9781
 Tegucigalpa Honduras Courriel	17856
-Tegucigalpa Honduras Email	10764,80
+Tegucigalpa Honduras Email	10764,80,7279
 Thursday. Hon. Owen Baya	10313
 Thursday. Hon. Speaker	10313
 Tourism and Culture Honourable Speaker	17105
 Trade Hon. Selma Ashipala-Musavyi	5086
 Transport Hon. Mrs Marie Arianne Navarre-Marie	14753
+UAE. Hon. Moussa Bocar Thiam	18303
 UCC E.D Hon Nyombi Thembo	9781
 UCC E.D Hon. Nyombi Thembo	9781
 UCC ED Hon. Nyombi Thembo	9781

@@ -101,6 +101,7 @@ Average Interruption Frequency Index Eswatini National	12969
 Average Interruption Frequency Index SNER Stratégie	15769
 Average Monthly Registration Frequently Asked Questions	12202
 Average System Interruption Frequency Index	14867
+B. FREE Banque du Trésor de Côte	18313
 B. Freedom	15968
 B. ON THE COMESA FREE TRADE	13440
 B. RIGHT TO FREEDOM OF OPINION	14073,3897
@@ -200,7 +201,7 @@ Cyclone Freddy	996,232,3425,8326,3794
 Cyclone Freddy. A Report	13095
 Cyclone Freddy. COMPONENTS Current Component Name	4653
 Cyr Freddy	15524
-D Freedom of Expression and Belief D1	17967
+D Freedom of Expression and Belief D1	17967,217
 D'après King Umurundi Freedom	5866
 D. Freedom	15968
 DA COSTA FREITAS	6613
@@ -261,7 +262,7 @@ Duties and Freedoms	14742
 Duty Free	11955
 Duty Free Privilege for Designated Startup Ecosystem	14024
 Duty Free Privilege for Designated Startups	14024
-Duty Free Tariff Preference	18016
+Duty Free Tariff Preference	18016,204
 Duty Free Trade	12389
 Dynamic Frequency Selection	12949
 Dynamics and Fate of Media and Free Expression Rights	9660
@@ -432,6 +433,7 @@ Frederic Lambert	12948
 Frederic Musisi	6262
 Frederic Nze	10543
 Fredericks Langman	8960
+Frederico	18318
 Frederico Antunes de Carvalho Sarah Kleinmann Karen	6832
 Frederico Carvalho	11918
 Frederico Gil Sander	10763
@@ -590,13 +592,13 @@ Free. Required Documents	12349
 FreeAlaa	15926
 FreeBalance. Critics	4640
 FreeID	9488
-Freedom	226,735,3792,462,461,190,966,1400,422,368,134,504,277,80,117,82,380,130,489,59,626,301,26,98,8,56,502,422,3,145,9,269,209,794,265,335,21,137,426,917,4,40,29,211,169,638,33,3
+Freedom	226,735,3792,462,461,190,966,1400,422,368,134,504,277,80,117,82,380,130,489,59,626,301,26,98,8,56,502,422,3,145,9,269,209,794,265,335,21,137,426,917,4,40,29,211,169,638,33,3,214
 Freedom C Onuoha	9616
 Freedom Day	2626,2174
 Freedom Day and Freedom Month	2626
 Freedom House	2117,3098,1617,117,2,1281,790,60,74,2535,177,465,43,2966,158
 Freedom House AI Surveillance Index	121,138,83,133
-Freedom House Freedom	17967
+Freedom House Freedom	17967,217
 Freedom House HEI Health Effects Institute	10759,78,1052,451
 Freedom House Report	14190
 Freedom House Score	10908
@@ -626,11 +628,12 @@ Freedom of Expression and Content Moderation	7709
 Freedom of Expression and Digital Participation	3861
 Freedom of Expression and Media Institutions Elections	12201
 Freedom of Expression and Opinion	6949,2
-Freedom of Information	769,1595,2880,1707,5374,4516,177
-Freedom of Information Act	5244,448,81,1178,2194,927,1781,1,139,1323,1094,156,160,26,38,2050,3,10,122,164
+Freedom of Information	769,1595,2880,1707,5374,4516,177,1136,57
+Freedom of Information Act	5244,448,81,1178,2194,927,1781,1,139,1323,1094,156,160,26,38,2050,3,10,122,164,1015,57
 Freedom of Information Act URL	11853
 Freedom of Information Act of Liberia Verifier	16843
 Freedom of Information Act. Citizens	5244
+Freedom of Information Act. Counsel	18154
 Freedom of Information Act. Page	16985
 Freedom of Information Act. Section	16840
 Freedom of Information Act.Regulatory Control	16843
@@ -690,7 +693,7 @@ Freeport of Monrovia URL	17367
 Freeport of Monrovia. LIBERIA TIME RELEASE STUDY	17367
 Freeport of Monrovia. Once	17367
 Frees	6432
-Freetown	2395,983,517,219,26,49,430,280,491,291,168,90,124,292,548,279,571,24,37,150,305,341,511,119,413,112,201,362,331,949,26,17,2700,1125,668,57,42,396,1209,243
+Freetown	2395,983,517,219,26,49,430,280,491,291,168,90,124,292,548,279,571,24,37,150,305,341,511,119,413,112,201,362,331,949,26,17,2700,1125,668,57,42,396,1209,243,321
 Freetown Among Top	5390,965,827
 Freetown Bonded Warehouses Breaking	5939
 Freetown Flot CEO David Kpakima	5939
@@ -739,7 +742,7 @@ Frejus Thoto	10852
 Freleases	4861,929,900
 Frelick	12227
 Frelimo	5815,6333,53
-French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102
+French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25
 French AI	10527
 French African	17773
 French Agency for Development	11380,5931
@@ -753,7 +756,7 @@ French Code	15901
 French Colony	16256
 French Consultations	13579
 French Contracting	9134
-French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19,1944,1151,499,35,48,58,2,196,1,111,8,1872,21
+French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19,1944,1151,499,35,48,58,2,196,1,111,8,1872,21,423,8,8
 French Development Agency and African Development Bank	14997
 French Development Agency and UNICEF	15601
 French Development Agency. DRC	6073
@@ -773,9 +776,12 @@ French Indian Ocean	15331
 French Language. Equip	12972
 French MEAE	15866
 French Manufacturers	12066
+French Meteorology University	18309
 French Minister	2794
 French Ministry for Europe and Foreign Affairs	10275
 French Mistral	11050
+French NGO ACTED	18125
+French Navy	18309
 French ONPRA	13669
 French President Emmanuel Macron	4259,770,972,307,2039,1928,796,3534
 French Publish Date	13669
@@ -794,7 +800,7 @@ French and Arabic	2975,10769,30,3078,1041
 French and Arabic. Civil	17893
 French and British	16916
 French and Creole	14742
-French and English	7193,2423,628,2731
+French and English	7193,2423,628,2731,5150
 French and English. FinTechFlutterwaveSenegalDigital	3260
 French and English. Intervention Area I7	14818
 French and European	17883
@@ -807,6 +813,7 @@ French and Moroccan	10929
 French and Portuguese	1243
 French and Sango	4886,549
 French and Spanish	6612
+French and Wolof	18309
 French original	11868
 French-	3150
 French-Italian	12078
@@ -833,7 +840,7 @@ Frenel	8604
 Frenemy	4676
 Frenk J	14666
 Frennie Shivambu	3922
-Frente	10764,80,6118,200,143,551
+Frente	10764,80,6118,200,143,551,267
 Frente Judicial	10751
 Frente Patri	9399
 Frente Politica	10751
@@ -931,7 +938,7 @@ Frequency of Publication	17149
 Frequency of Release of Official Statistics	17149
 Frequency of Report	13005
 Frequency of Review	11956
-Frequent	8436,1520,873,12,627,57,24,437,247,712,3,385,85,1324,422,495,186,1077,1,204,133,359
+Frequent	8436,1520,873,12,627,57,24,437,247,712,3,385,85,1324,422,495,186,1077,1,204,133,359,506
 Frequent Terms	13532
 Frequent Traveller Express Pass	17687
 Frequentemente	11376,193
@@ -1004,7 +1011,7 @@ Ghanaian and French	789
 Ghana’s Free Zones	7695
 Given the Freeport	17367
 Global Aid Freeze Tracker	6337
-Global Freedom Score	17967
+Global Freedom Score	17967,217
 Global Freedom Score18	15926
 GoI's Duty Free Tariff Preference	13744
 GoIʼs Duty Free Tariff Preference	12979
@@ -1057,6 +1064,7 @@ Instant and Frequent Tracking	16032
 Instant and Frequent Tracking Technical Working Group	16032
 Insurance and Freight	7740
 Insurance and Freight CEPS Customs	236
+Intensity Duration Frequency	18309
 Interest Payment Frequency	15905
 Intermediate Frequency	736
 Intermitente Preventivo Taxa Líquida de Frequência Escolar	10777
@@ -1102,6 +1110,7 @@ Labor Free	17043
 Lagos State’s Lekki Free Zone	3006,6863
 Land Locked Developing Country Freedom House	9477
 Landinfo Country of Origin Information Centre Fredrik	14905
+Langue French Emplacement Période	18193
 Latitude Tx of Earth Location Freq Freq	736
 Legal Reserves Free Reserves Other Reserves	11955
 Legal Services Division Division Frequency Department	6946
@@ -1153,6 +1162,7 @@ Make Model Operation Frequency Range	736
 Malagasy Data and Freedom Committee	14430
 Mali’s World Press Freedom Ranking	17950
 Mandate Audit Frequency	12675
+Mandatory Implementation of Free Governor Control	18186
 Manica Frelimo	12201
 Manica Frelimo Sofala Frelimo Inhambane Frelimo	12201
 Maputo Province Frelimo	12201
@@ -1223,6 +1233,7 @@ Naturalidade Concelho Freguesia Dados	16325
 Next Generation Radio Frequency Spectrum	5872
 Niassa Frelimo	12201
 Niassa Mandates Mandates Frelimo	12201
+Niger Not Free	18184
 Nigeria African Continental Free Trade Area	8421
 Nigeria Freedom of Information Act	11854
 Nigerian Communications Commission NFMC National Frequency	11857
@@ -1327,6 +1338,7 @@ RIGHT TO DATA PORTABILITY AND FREE	14434
 RIGHTS Personal Liberties Freedom of Expression	10759
 RISA-EA Team Frequency Quarterly	12359
 RSF World Press Freedom Index	14114
+RSF World Press Freedom Index URL	18358
 RSU. Frequency Quarterly Data	15658
 Radio Communications and Frequency Spectrum	6946,8315
 Radio FREQUENCE MENYA BUJUMBURA ARCT	13414
@@ -1446,8 +1458,9 @@ Super User Free Mobile Data Package	14823
 Supermercado FRESMART EXPRESS Cedida	11432
 Susan Fred Rumisha	771
 System Average Interruption Frequency Index	12256,2611
+System Average Interruption Frequency Index SAIDI	18322
 System Average Interruption Frequency Index SS	12358
-System Frequency	12062
+System Frequency	12062,6124,31
 System That Freezes Before Completion	14235
 TC Freddy	1228
 TC Freddy. The GRADE	1228

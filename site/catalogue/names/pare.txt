@@ -6,7 +6,7 @@ Ackson Phiri Parent Teacher Committee Chair	13392
 Ackson Tembo Parent Teacher	13392
 Ackson Tembo Parent Teacher Committee Vice	13392
 Artful Parent	5224
-Association des Parents	10847
+Association des Parents	10847,7341
 Associations des Parents	8555
 Astack Phiri Parent Teacher Committee	13392
 Atelier Partage Parents	14742
@@ -104,10 +104,12 @@ Parent Ministry	13420,1316,25
 Parent Ministry Finding	13420
 Parent Ministry Terms of Office	14736
 Parent Parties	7198
-Parent Project	11965,5941
+Parent Project	11965,5941,468
 Parent Project Design and Scope C. Project	13860
 Parent Project Status and Results	15138
 Parent Project and UGPE	11965
+Parent Project. In Mauritania and Senegal	18374
+Parent Project. Use of Common Approach	18374
 Parent Project’s End Target	15511
 Parent Support Agreement	7198
 Parent Teacher Association	11860,5103
@@ -131,7 +133,7 @@ Parental Empowerment and Engagement	899
 Parenteral	15206
 Parenting	2757,12078
 Parenting URSB	2757
-Parents	899,262,416,343,2468,1011,600,1474,1665,656,359,675,151,201,680,45,72,190,50,74,47,29,16,19,38,366,310,171,13,381,267,530,177,97,87,96,5,664,279,646,323,275,220,229,406
+Parents	899,262,416,343,2468,1011,600,1474,1665,656,359,675,151,201,680,45,72,190,50,74,47,29,16,19,38,366,310,171,13,381,267,530,177,97,87,96,5,664,279,646,323,275,220,229,406,143
 Parents Paires	13442
 Parents and Caregivers	899,7151
 Parents and Caregivers Focus Group Discussion	899
@@ -164,5 +166,6 @@ T PARENT	13300
 Through Special PAREC Operation	13681
 Ultimate Parent Entity	3161
 Under Parent ZEEP	13392
+Under the Parent Project	18374
 VOIE PAREE	13375
 Wenceslas Médard PARE	8321

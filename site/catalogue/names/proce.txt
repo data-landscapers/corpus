@@ -505,6 +505,7 @@ Assessment of Case Management Processes	16943
 Asset Payment Processor Virtual Asset Investment	10738
 Assignment of Proceeds Agreements	13122
 Attributes Standardisation Process	8606
+Audit Process	18318
 Authentication Procedure	14850
 Automated Check Processing and Automated Clearing House	17235
 Automated Cheque Processing	16844
@@ -785,6 +786,7 @@ Bakisa Vocational Training Centre Data Processor	7167
 Baluba Limited Data Processor INST-51079986546 MERU	7167
 Bandari Dispensary Data Processor INST-40822487397 KILIFI	7167
 Bandari Maritime Academy Data Processor INST-313944219ED	7167
+Bank Procedure	18370
 Banki Kuu SACCO Ltd Data Processor	7167
 Banque Centrale de Mauritanie BPO Business Process	17907
 Barbados. Business Process Realignment	13042
@@ -795,6 +797,7 @@ Basis for Commencement of Formal Insolvency Proceedings	12389
 Batian Registrars LLP Data Processor INST-14915972070	7167
 Benjamin Kahura Kamau Data Processor INST-9107896F0D4	7167
 Benson Kipngetich Towet Data Processor INST-893823CC3C4	7167
+Best Interests Procedure	18125
 Betachem Data Processor INST-4863935A432 NAIROBI Kenya	7167
 Beth Wairimu Maingi Data Processor INST-560750CB16D	7167
 Beth Wanjiku Chira Data Processor INST-2158780A190	7167
@@ -1279,6 +1282,7 @@ Challenge Process and Data Operational Operational	9237
 Chance Find Procedure	1988
 Chance Find Procedures	1988
 Chance Find Process	17114
+Chance Finds Procedures	18374
 Chapter VI Operational Procedures	14865
 Charles Muriithi Mbathi Data Processor INST-3722983B140	7167
 Charles Waithaka Kanyi Data Processor INST-274144700E9	7167
@@ -1307,6 +1311,7 @@ Chuka Technical and Vocational College Data Processor	7167
 Citadel Valuers Limited Data Processor INST-36029396413	7167
 Citizen Standard of Procedure	12157
 Civil Procedural Code	12161
+Civil Procedure	18154
 Civil Procedure Act	14460
 Civil Procedure Law	16943,353
 Civil Procedure Rules	11
@@ -1501,6 +1506,7 @@ DAXTRA SYSTEM LIMITED Data Processor INST-5864135AB0F	7167
 DAYLIFF FOREX BUREAU LIMITED Data Processor	7167
 DAYLIPA FINANCING LIMITED Data Processor INST-996975D70AE	7167
 DAYTONS VALUERS LIMITED Data Processor INST-639800AFA75	7167
+DE LA PROCEDURE A SUIVRE DEVANT	18106
 DE LA PROCEDURE DEVANT LES JURIDICTIONS	13293
 DE LA PROCEDURE D’ATTRIBUTION DU NUMERO	17814
 DE LA PROCEDURE ET DES MOYENS	15643
@@ -1925,6 +1931,7 @@ E BARMAO AND ADVOCATES Data Processor	7167
 E GN ET DES PROCEDURES	15744
 E&M CREATIVE AGENCY LIMITED Data Processor	7167
 E&M TECHNOLOGY HOUSE LTD Data Processor	7167
+E&S Procedures	18370
 E-Payments System SCTP's E-Payment Process	12182
 E. DATA PROCESSING	11860
 E. Timing of Review and Additional Procedures Applicable	11233
@@ -2007,6 +2014,8 @@ EOC Standard Operating Procedures and Anticipatory Action	13095
 ESIA Scoping Process	17114
 ESIA Scoping Process Step	17114
 ESRIN ANALYTICS AND PROCESSING PLATFORM	17405
+ESSA Process and Methodology	18370
+ESSA Process and Methodology This ESSA	18370
 EST UNE PROCEDURE GRATUITE	15970
 ESTABLECEN LOS PROCEDIMIENTOS PARA EL PASAPORTE	16905
 ESTABLISHMENT OF PROSECUTION UNIT AND PROCEDURAL	12459
@@ -2036,7 +2045,7 @@ Election Process	8866,1048
 Election Process The Elections and Boundaries	13248
 Election Process and Election Guidelines	8866
 Electoral Process	11909,506
-Electoral Process A1	17967
+Electoral Process A1	17967,217
 Electoral Process Act	12415,890
 Electoral Process Act No	8513
 Electoral Process Voter Registration Regulations	13538
@@ -2109,6 +2118,7 @@ Finance Processus	13341
 Finance and Tax Compliance Processes	8670
 Finances. Processus	10693
 Financial Procedures Manual	15372
+Financial and Accounting Procedures	18104
 Financial and Accounting Procedures Law	14865
 Fiscal Transparency Review Process and Criteria	11005
 Five Pillars of Zambia's Digitalisation Process	13347
@@ -2302,6 +2312,7 @@ Internal Liquidity Adequacy Assessment Process	15023,2480
 Internal Process	12552
 Internal Processes Perspective SO5	13053
 Internal Processes and Governance and Result-driven People	12951
+International Card Processing Services	18313
 IremboGov. PROCEDURE FOR REGISTERING CHILD ADOPTION	12338
 Issuance of Automated Tracking License Process Description	15283
 JAMES ASSOCIATES ADVOCATES LLP Data Processor	7167
@@ -2334,6 +2345,7 @@ Key Processes and Steps	16867
 Khartoum Process Thematic Meeting	12257
 Kimberley Process	2889
 Kisumu County Data Processor INST-175606322DE KISUMU	7167
+L'EAU DES PROCEDES INDUSTRIELS ET	18170
 LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16,466,1,135
 LAWFUL BASIS FOR PROCESSING PERSONAL DATA	13381
 LCA Consumer Protection Guidelines and Procedure	12690
@@ -2393,9 +2405,10 @@ LIVESTOCK AND AQUACULTURE DEVELOPMENT Data Processor	7167
 LMP Labor Management Procedure LV Low	15515
 LMP Labor Management Procedure M&E Monitoring	15491
 LMP Labor Management Procedures LV Low	11549,4110
-LMP Labor Management Procedures M&E Monitoring	13331
+LMP Labor Management Procedures M&E Monitoring	13331,4962,8
 LOCAL DEVELOPMENT PLANNING PROCESS	16970
 LOCAL DEVELOPMENT PLANNING PROCESS The Ministry	16970
+LOGICIEL DE REDACTION DE PROCEDURES	18114
 LOGISTICS LIMITED Data Processor INST-4049944A523 NAIROBI	7167
 LPF. PROCEDURE FOR THE REGISTRATION	12338
 LPF. PROCEDURES FOR REGISTRATION OF DIVORCE	12338
@@ -2408,7 +2421,7 @@ LTD Data Processor INST-584549FAC38 NAIROBI Kenya	7167
 LTD Data Processor INST-6141722351B NAKURU Kenya	7167
 LTD Data Processor INST-944724CBB35 NANDI Kenya	7167
 Labor Management Procedure	3456,9876,3617
-Labor Management Procedures	761,1106,121,1616,7225,135,2147,220,1222,23,336,64,162,380,35,108,483,782
+Labor Management Procedures	761,1106,121,1616,7225,135,2147,220,1222,23,336,64,162,380,35,108,483,782,1448
 Labour Management Procedure	12253,1079
 Labour Management Procedures	1988,10265,4846,15
 Labour Management Procedures MoA Ministry of Agriculture	1988
@@ -2477,6 +2490,7 @@ MATRIX AND VERIFICATION PROCEDURES	16843
 MEDICAL CLINIC LTD Data Processor INST-57255188A6C	7167
 MEDICARE LTD Data Processor INST-24904985BE6 WAJIR	7167
 METHODOLOGICAL PROCEDURES	8604
+MIS. Process	18104
 MISSION Data Processor INST-52058900CEE UASIN Kenya	7167
 MODIFY DATA PROCESSING	11956
 MPG Modalities Procedures and Gridlines MRV Monitoring	17140
@@ -2598,6 +2612,7 @@ Operating Procedures	1988,1803,8450,2923,1689
 Operating Procedures. Mogadishu	11596
 Operational Efficiency of Arbitration-Related Processes	12389
 Operational Efficiency of Court Processes	12389
+Operational Procedures	18370
 Operational Procedures PDO Operational Risk Assessment	15424
 Operational Processes and Practices	13005
 Operations and Processes Management	14835
@@ -2678,6 +2693,7 @@ PROCEDURES DE COMMUNICATION ET DE SENSIBILISATION	14537
 PROCEDURES DE COOPERATION	14537
 PROCEDURES DE PROTECTION DES DONNEES	14537
 PROCEDURES DE REDRESSEMENT SOUS-SECTION	15999
+PROCEDURES DE SIGNALEMENT OU DE DIVULGATION	18327
 PROCEDURES DE VOL FLIGHT PROCEDURES APPROCHE	17006
 PROCEDURES DE VOL FLIGHT PROCEDURES Procédures	16552
 PROCEDURES ET FORMALITES RELATIVES	14537
@@ -2745,6 +2761,7 @@ PROCESSOS DE OBRAS PÚBLICAS E ENERGIA	11473
 PROCESSOS DE RECURSO EM SESSÃO PLENÁRIA	11473
 PROCESSOS ELECTRÓNICOSNext	11473
 PROCESSUS	10876
+PROCESSUS D'ÉLABORATION	18105
 PROCESSUS D’ELABORATION	15720
 PROCESSUS D’ELABORATION Dans	15720
 PROJECT PROCESSING SCHEDULE TO BOARD APPROVAL	11863,2075
@@ -2874,7 +2891,7 @@ Procedural Law	26
 Procedural Law Assistance	26
 Procedural Legitimacy	10062
 Procedural Safeguards	2307,1554
-Procedure	11,1977,178,141,118,1289,7265,150,52,687,37,396,37,4,7,25,36,121,116,208,39,15,1,395,2,3,71,580,461,445,52,230,514,58,123,992,7
+Procedure	11,1977,178,141,118,1289,7265,150,52,687,37,396,37,4,7,25,36,121,116,208,39,15,1,395,2,3,71,580,461,445,52,230,514,58,123,992,7,1266
 Procedure DLR	11905
 Procedure List	13251
 Procedure Make	9109
@@ -2888,7 +2905,7 @@ Procedure for Resolution of Complaints and Disputes	17243
 Procedure for Submissions Submission	6748
 Procedure. B. Project	15802
 Procedurefor	16836
-Procedures	969,31,750,238,1690,536,1451,1162,962,1198,868,866,50,410,343,346,294,89,2,97,12,136,810,66,5,4,1152,328,2,59,18,262,96,171,33,153,4,197,576,403,1,3,5,3,2,10,61,2,17,68,103,43,692
+Procedures	969,31,750,238,1690,536,1451,1162,962,1198,868,866,50,410,343,346,294,89,2,97,12,136,810,66,5,4,1152,328,2,59,18,262,96,171,33,153,4,197,576,403,1,3,5,3,2,10,61,2,17,68,103,43,692,260,184
 Procedures Act	14932
 Procedures Article	15393
 Procedures ESCON Environmental and Social Compliance Note	11863
@@ -2900,12 +2917,17 @@ Procedures Manual. The FM	10829
 Procedures Manuals	11525
 Procedures Minister	15473
 Procedures N	6946
+Procedures NGO Nongovernmental Organization OS Local	18301
 Procedures Operationnelles Standardisees	14662
 Procedures Operationnelles Standardisees du COUSP	14662
 Procedures Performed	4896
 Procedures Procedures	12364
 Procedures SRGBV School Related Gender-Based Violence	13332
 Procedures Stastic	15034
+Procedures Time Cost Building	18109
+Procedures Time Cost Paid-in	18109
+Procedures Time Cost Quality	18109
+Procedures Time Cost Reliability	18109
 Procedures and Advance Rulings	12389
 Procedures and Criteria for Citizenship Determining Refugee	11986
 Procedures and Criteria for Determining Refugee	5533
@@ -2930,7 +2952,7 @@ Proceed	9960,150,2192,3473,1441,151
 Proceed Magistrate Rejects Bid	17069
 Proceed Mayor Bensouda Eyes Presidency	17069
 Proceeding	6950,7764,1
-Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44,85,5,16,934,95,173,173,780,1098,1306,551,891,616,7
+Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44,85,5,16,934,95,173,173,780,1098,1306,551,891,616,7,538
 Proceedings Ministry of Financial Services	14819
 Proceedings of Board	13339,32
 Proceedings of Directors Rationale This Article	8866
@@ -2950,7 +2972,7 @@ Procesando	16905
 Proceso de Enseñanza-Aprendizaje	4209
 Proceso de Recopilación de Datos	8378
 Procesos	4209
-Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125,724,2,52,26,119,148,100,36,29,7,15,123,505,20,153,104,67,20,1143,78,134,8,116,59,2,44,62,7,226,151,62,11,120,59,141,384,645,15,2,17,49,152,299
+Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125,724,2,52,26,119,148,100,36,29,7,15,123,505,20,153,104,67,20,1143,78,134,8,116,59,2,44,62,7,226,151,62,11,120,59,141,384,645,15,2,17,49,152,299,737,201
 Process A Well	9123
 Process Analysis	11941
 Process At BoZ	13532
@@ -2990,6 +3012,7 @@ Process Reporting Critical Factors	11131
 Process Reporting Monetary Policy Economic Review	11131
 Process Service Order Connection Uses	9124
 Process Theory View	11006
+Process URL	18155
 Process Visa Application	9124
 Process and Board	11857
 Process and End Process of Vaccinated Girls	17289
@@ -3303,7 +3326,7 @@ Processos de Registos	11537
 Processos. Relativamente	10753
 Processual	11371
 Processual Penal	10747
-Processus	1187,2194,6025,74,1356,40,89,10,1068,1332,58,134,250,606,5,52,57,5,882,48,70,41,16,44,30,39,12,212,386,207,87,86,4,828,296,14,50,20,59,59
+Processus	1187,2194,6025,74,1356,40,89,10,1068,1332,58,134,250,606,5,52,57,5,882,48,70,41,16,44,30,39,12,212,386,207,87,86,4,828,296,14,50,20,59,59,86,179,9,10,3
 Processus OGP	15712
 Processus OGP. Ces	15712
 Processus de Gestion des Anomalies	17902
@@ -3521,6 +3544,7 @@ Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedure IFIs	17101
 Standard Operating Procedure UBR Universal Birth	13681
 Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846
+Standard Operating Procedures Manual PPP	18370
 Standard Operating Procedures UN	12338
 Standard Operating Procedures for DGPC	17962
 Standard Operating Procedures. FDA	16853
@@ -3656,6 +3680,7 @@ VERIFICATION PROCEDURES FOR EXISTING CUSTOMERS UNDERTAKING	17537
 VERIFICATION PROCEDURES FOR FOREIGN DIPLOMATS	17537
 VERIFICATION PROCEDURES FOR FOREIGN NON-RESIDENTS	17537
 VERIFICATION PROCEDURES FOR ON-BOARDING CUSTOMERS	17537
+VI- AVANCÉES LIÉES AU PROCESSUS	18310
 VI. PROCEDURE DE PASSATION	10876
 VII. PROCEDURE DE COLLECTE DE DONNEES	10876
 VNR Process	16973

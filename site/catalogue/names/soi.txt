@@ -20,6 +20,7 @@ Adolescente Soins de Santé Primaires Strategic Tool	14622
 Agricultural and Environmental Soil	1988
 Agriculture Soil Surveyor SADC Secretariat	12972
 B Soins Obstétricaux	15711
+Baccalauréat Soixante-quinze	18286
 Bare Soil Extreme	17157
 CO2 Soil Tier	17140
 CONTINUUM DE SOINS EN MAURITANIE	17843
@@ -101,6 +102,8 @@ Performance Indicator Responsible Person Soil	1988
 Plan Stratégique National des Soins Essentiels	17882
 Preparation of Soil Mortars	16900
 Press Soirée	15311
+Prestation des Services de Soins de Santé	18312
+Programme National des Soins Oculaires	18105
 Promote Integrated Soil Fertility Management	14818
 QUE LA ROUTE SOIT BONNE	15542
 Rafick Soilihi	13777
@@ -186,20 +189,21 @@ Soilahoudine Mohamed. L'initiative	8876
 Soilihi Mohamed Djounaid	3772
 Soils Soils	12253
 Soininen	2096
-Soins	737,12563,2123,262,26,1774,358,39
+Soins	737,12563,2123,262,26,1774,358,39,404,11,15
 Soins Essentiels	17882
 Soins Essentiels Communautaires	17882
 Soins Infirmiers	17819
-Soins Obstétricaux	15711
+Soins Obstétricaux	15711,2659
 Soins Obstétricaux Néonatals	15711
 Soins PNDTIC Politique Nationale de Développement des TIC	13341
 Soins Primaires CNP Comité National de Pilotage	13306
 Soins de Achats Visites	13300
-Soins de Santé	16200,241
+Soins de Santé	16200,241,1664
 Soins de Santé Primaires	14622,1090
 Soins de Santé Primaires ARV	15475
 Soins de Santé Primaires SSR	15685
 Soins de Santé Primaires TAR	15423
+Soirées	18324
 Soisine	15429
 Soisine de I'Autorité	15429
 Soisir	15429

@@ -48,6 +48,7 @@ Arts MTFP Ministère du Travail	15479
 Audit MTND	15936
 Audit MTSF Not Applicable ICAO International	11986
 B- Work A- MTN R ALLOWED	582
+BANCO DA AFRICA OCIDENTAL MTN Cell	18313
 BANK TO BANK MT202 GMD	16844
 BEHALF OF CUSTOMERS MULTIPLE MT102	16844
 BEHALF OF CUSTOMERS SINGLE MT103	16844
@@ -119,6 +120,7 @@ Connecting Africa. MTN	8724
 Construction of Mtsambama Inkhundla	12962
 Council MRJ Mauritius Research Journal MTPA	14747
 Customer Experience Planning and Enablement of MTN Ghana	8580
+D'IVOIRE UBA MTN ORANGE MONEY BAOBAB	18270
 DELAIS DE REMPLACEMENT DES TRANSFORMATEURS MT	10975
 DISTRIBUTION MT	15670
 Dangote Group and MTN Nigeria	3414
@@ -127,7 +129,7 @@ Dec Change MTC	1013
 Dec-2025 MTN Rwandacell Plc	15136
 Defends NRM Cooperation Deal MTN Apologises	4608
 Definition of MTF	11136
-Departments and Agencies MO Market Operator MTS	12062
+Departments and Agencies MO Market Operator MTS	12062,6124,31
 Departments and Agencies MS Microsoft MTBF Mean	13185
 Description MTE Computerisation	2642,2996
 Description MTI Computerisation	1665
@@ -140,6 +142,7 @@ Digital Eswatini Project Manager Zandile Mthembu	7605
 Digitalisation MTND	15936
 Director General of MTN Congo	6206
 Distribution MT	15542
+Dk LG SL MT KL KF	18286
 Dk Lawi. Mtaalamu	4364
 Dr. Dickson Mtonga SGS	13392
 Dr. Lucy Mtilatila	13062
@@ -151,6 +154,7 @@ ESMAP’s MTF	11572
 Electricity10 The MTF	11136
 Electricité de MT Km	10975
 Email Support MT Workers No Comments	5482
+Energie MT Moyenne Tension MW Mégawatt	18103
 Energies Vendues MT	10975
 Energy Demand Forecast The MTSAO	11228
 Enhance City Living MTN Nigeria	2563
@@ -249,6 +253,7 @@ Jabu Mtsweni and Advocate Lufuno Tshikalange	7757
 Jukwaa la Biashara Mtandao	6019
 Jun-2014 MTR Review	15601
 KEY DATES Approval Effectiveness MTR Review	15663,2186
+KF KL KG KD LG MT	18286
 KPIs. During the MTR	15604
 Kaa Safe Mtaani Campaign	12256
 Kadiata Mamoudou KABA MTP Secrétaire	16620
@@ -384,6 +389,7 @@ MTDPCE Issouf Tapsoba	10863
 MTDPCE Ministère	15961
 MTDPCE Statistical Yearbook	15621
 MTDS and ABP	10779
+MTDSOPRI	18286
 MTDT's National Information Center	14897
 MTE Computerisation	2642,2996
 MTEF Intermediate Result Standard	17441
@@ -406,6 +412,7 @@ MTEND	7865
 MTEPS	15361,67
 MTESS BEKHTI Hamza Ministère	15472
 MTEyNzk	10757
+MTF Cadre	18316
 MTF Multi-Tier Framework MWh	11572
 MTF Multi-Tier Framework PDELR Network Extension	16188
 MTF Survey	11136
@@ -413,6 +420,7 @@ MTF Survey Boosting Access	11136
 MTF Survey Nationwide	11136
 MTF Survey Somalia Economic Update	11136
 MTF Tier	423
+MTF. Notamment	18316
 MTFESS	16898
 MTFESS FMI	16898
 MTFESS Informes	16898
@@ -427,6 +435,7 @@ MTFPS	8750
 MTFR Memorandum	16996
 MTFSS	16898
 MTG Data	13062
+MTG Lightning Imager	18392
 MTG PUMA and ClimSA Stations	16957
 MTGAS	4214,8006,612
 MTGAS Ministério	12787
@@ -444,7 +453,7 @@ MTN Airtel Tigo Service	10822
 MTN Airtel Total MTN Airtel	15136
 MTN App	11259
 MTN BENIN	10821
-MTN BURKINA	11588
+MTN BURKINA	11588,6682
 MTN Bayobab	4874
 MTN Benin	1970,1142,3098,4583,63,4568,324,1
 MTN Benin CEO Uche Ofodile and MTN	15748
@@ -609,8 +618,9 @@ MTN Liberia	4285,3331,7855
 MTN Lonestar	16876
 MTN Lonestar Cell Mobile Money	4261
 MTN MBB Router Promotion	11259
-MTN MOBILE MONEY	10821,1571
+MTN MOBILE MONEY	10821,1571,5921
 MTN MOBILE MONEY Commune	10821
+MTN MOBILE MONEY GUINEE BISSAU	18313
 MTN Markets Nigeria	14707
 MTN Mauritius	10793
 MTN Mauritius Revolving	10793
@@ -788,6 +798,7 @@ MTN Uganda and Uganda Telecom Corporation Limited	14371
 MTN Uganda's EBITDA	10793
 MTN Uganda's General Manager for Sales	8410
 MTN Vodafone AirtelTigo Figure	2776
+MTN Voir	18383
 MTN Women	2320,1219,1420,19,1100,180
 MTN Yello Biz	11083
 MTN Yello Care	12996
@@ -992,6 +1003,7 @@ MW Mt. Coffee	16978
 MW Mt. Coffee Thermal	16978
 MW. MTN Group CEO Ralph Mupita	5569
 Major General MT Mathonsi Telephone	11188
+Maladie Sexuellement Transmissible MT	18118
 Maladie Sexuellement Transmissible MTA	15475
 Mamadou TRAORE MTP Assistant	16620
 Marikana. MTN	7738
@@ -1176,6 +1188,7 @@ Nyanza Lower Eastern Mt Kenya	7869
 Nyanza and Mt. Kenya	7869
 OPERATOR YEAR ON YEAR CHANGE MTN	3862
 ORANGE CI MTN CI MOOV CI	419
+ORANGE MONEY MTN MOBILE FINANCIAL SERVICES	18313
 OUTsurance and MTN	13270
 Oil MT Moyenne Tension MINEE Ministère	10975
 Operator MTN	2776
@@ -1316,10 +1329,12 @@ Under the MTF	11136
 Understanding MTR Mobile Termination Rate NEMA	6946
 Usalama Mtandao	6019
 Usalama Mtandaoni	2868
+Using MTG	18392
 Uso de MTI	10777
 Utilização de MTI	10777
 Vodacom Mozambique MTC	1013
 Vodacom and MTN	4772,2284,3617,124,6014,3
+Wh MT	18103
 Whether MTN	9840
 WiMAX de MTN	15493
 Wizara Mtumba	2868

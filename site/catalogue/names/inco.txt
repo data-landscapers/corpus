@@ -27,6 +27,7 @@ Artificial Intelligence for Low Income Countries	11140
 Assessable Income	11976
 Assessment of Suspicious Income Tax and VAT Refunds	12951
 Attach Company Certificate of Incorporation	736
+Avantages Inconvénients Solution	18103
 Avg Income	11857
 Bands Taxable Income Range	17011
 Bank-Fund Debt Sustainability Framework for Low Income	10997
@@ -85,7 +86,7 @@ Consolidated Income Statement for Banks Item	17236
 Constituencies. Incorrect	13420
 Consumer Price Indices for Nairobi Lower Income	2775
 Corporate Income	16949
-Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48,500,44,9,1932,2011,109
+Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48,500,44,9,1932,2011,109,1213
 Corporate Income Tax CSP	13053
 Corporate Income Tax Code	11955
 Corporate Income Tax ISO	11955
@@ -111,6 +112,7 @@ D50 IMMOBILISATIONS INCORPORELLES	17833
 DAP DES IMMO INCORP ET CORP	17841
 DES CONDITIONS D’ELIGIBILITE ET DES INCOMPATIBILITES	15727
 DES IMMOBILISATIONS INCORPORELLES ET CORPORELLES	17841
+DES INCOMPATIBILITES	18106
 DES INCOMPATIBILITES la Cour	15901
 DES INELIGIBILITES ET DES INCOMPATIBILITES Section	15727
 Debit Secondary Income	17235
@@ -180,7 +182,7 @@ Grit Real Estate Income Group	14507
 Gross Domestic Product and Gross National Income	2775
 Gross Income	11976,2741
 Gross National Disposable Income	2775
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202
 Gross National Income GRM Government of Burundi	13331
 Gross National Income GoKE Government	6539
 Gross National Income HEI Higher Education	11552
@@ -230,6 +232,7 @@ INCONNU	13300
 INCONNUE	13300
 INCONSISTENT	11964
 INCORPORATED	15395
+INCORPORATED TRUSTEES OF HEDA	18154
 INCORPORATION AND CANCELLATION OF REGISTRATION	3714
 INCORRECT	1009,4615
 INCORRECT ASSESSMENT NUMBER	14670
@@ -254,7 +257,7 @@ Incode	2390,1902,563,470,255,313,73,322,83
 Incoherent	14935
 Incoherent Policies and Contradictory Priorities	12227
 Incohérences	16328
-Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377
+Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575
 Income All Firms Small Medium Large	11874
 Income Allowance	14782
 Income Allowance Ehram Court	14782
@@ -264,7 +267,7 @@ Income Categories	12445
 Income Countries MENP Ministry of Digital Economy	15411
 Income Countries.41	11964
 Income Days	11874
-Income Distribution	10985,5876
+Income Distribution	10985,5876,1457
 Income Exemption Threshold for Individuals	14717
 Income Financed	10976
 Income Firm Characteristics	10976,1370
@@ -390,7 +393,7 @@ Incomlete SS Incomplete JS Higher	16876
 Incompatibilidades	15391
 Incompatibilities	14862,1,239
 Incompatibility Membership	11517
-Incompatibilités	14412,450,1,239,1513,1204,39
+Incompatibilités	14412,450,1,239,1513,1204,39,261
 Incompatibilités Article	17
 Incompatible	15129,35
 Incompatibles	15703
@@ -407,7 +410,7 @@ Incomáti River	10219
 Inconformados	10114
 Inconnu	13300
 Inconnue Autre	13300
-Inconsistencies	961,12388,1197
+Inconsistencies	961,12388,1197,3772
 Inconsistency	16219
 Inconsistent	4848,2700,1348,524,10,212,327,1500,517,254,765,32,381,1400,179,37,95,35,309,1047,455
 Inconsistent Policy Regulator	11857
@@ -529,7 +532,8 @@ Middle Income Coun	17101
 Middle Income Housing	15473
 Mineral Income Investment Fund	10069
 Minister of Finance. Incorporation	13053
-Ministry of Finance Incorporated	2253,2581,4739
+Ministry of Finance Incorporated	2253,2581,4739,8581
+Ministry of Petroleum Incorporated	18154
 Minutes International Incoming Calls	6946
 Mobile SMS Traffic International Incoming SMS	6671
 Mobile Telephone Network OIT Other Income	12395
@@ -558,6 +562,8 @@ Net Interest Income	11131,3892
 Net Interest Income Sources	17235
 Net National Disposable Income	2775
 Net National Income Net National Savings	16996
+Niger GNI Gross National Income GRM	18198
+Niger Region Sub-Saharan Africa Income Category	18109
 Non- Interest Income Total Operating Income	17235
 Non-Taxable Income	13096
 Non-interest Income	17235
@@ -606,6 +612,7 @@ Prosperous Middle Income Country	13346
 Prosperous and Empowered Upper Middle Income Society	940
 Protegidas INCOMA Instituto Nacional	16875
 Public Incorporation	16853
+Qualcomm Incorporated	18349
 REGISTRATION AND INCORPORATION OF COMPANIES	3714
 RELATION TO MONTHLY GROSS NATIONAL INCOME	11262
 Rate Tax Rate Tax Income	11955

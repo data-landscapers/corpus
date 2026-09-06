@@ -1,3 +1,6 @@
+ACCES DU MENAGE AUX TIC SI	18204
+ACCESSIBILITE DES MENAGES AUX TIC Afin	18204
+ACCESSIBILITÉ AUX SERVICES TIC	18105
 ARCT- OBSERVATOIRE MARCHE TIC	13586
 ASSAINISSEMENT TIC AMENAGEMENTS URBAINS	15542
 Academias TIC	10490
@@ -26,6 +29,7 @@ Closed Tickets	14745
 Clubs TIC du Mali	17856
 Col NIBIZI Elias Point Focal TIC	13341
 Commission des TIC	10089
+Communication TICE Technologies	18121
 Competencias TIC	16895
 Composition Comité de Pilotage des Projets TIC	13290
 Compra de Equipamentos TIC	15388
@@ -33,7 +37,10 @@ Compétences TIC	13306
 Consultoria de TIC	570
 Contribution des TIC	13290
 DD ARCT- OBSERVATOIRE MARCHE TIC	13586
+DEPENSES DES MENAGES EN TIC	18204
 DES INDICATETEURS TIC AU BURUNDI	13324
+DES TIC	18105
+DES TIC ESPAS ECOLE DE SANTÉ	18170
 DES TICs LARGES BANbES	15399
 Desenvolvimento de TIC	11569
 Directeur Général des TIC	13290
@@ -42,11 +49,14 @@ Direction Générale des TIC	13290
 Direction Générale des TIC du Ministère	13290
 Droit des TIC Relations	15467
 Droit des TIC Services	15467
+Dénombrement RAPPORT D’ANALYSE TIC	18204
 Département des TIC	9941
 Développement des TIC	15542
 Développement des TIC AS.3	15542
+Développement des TIC Maturité	18319
 Développement des TIC Sous-axe	15542
 E CRIAÇÃO DE INCUBADORAS DAS TIC	11397
+E-Santé Utilisation des TIC	18105
 E. L’industrie des TIC	13290
 E. L’industrie des TIC La TIC	13290
 Eau TIC Assainissement Gestion	15542
@@ -55,11 +65,14 @@ Ecole Supérieure Africaine des TIC	15936
 Electronic Tick Register	12025
 Empresas de TIC	2816
 Empresas de TIC CEDSIF	2816
-Enquête TIC	3159
+Enquête TIC	3159,15045
+Enquête TIC RTP P1	18291
 Enseignement des TIC	15632
 Equipements TIC	14442
 Events KAUTRA Introduces Smarter Onboard Ticketing	3907
 FAIBLE PENETRATION DES TIC Faible	15542
+FINANCEMENT INTERNE DE LA COMPOSANTE TIC	18105
+FOAD TICE FOAD LMD Axe Stratégique	18121
 Faire des TIC	13290
 Fonds TIC	9287,55
 Fonds de Développement des TIC	14573
@@ -119,6 +132,7 @@ Open-source Ticket Request System	13185
 Oscar Eló NGUEMA Jefa de Servicio de TIC	16898
 P. J. Tichenor	6948
 PLAN DIRECTEUR DES TIC EN	15541
+POLITIQUES ET STRATÉGIES TIC	18105
 PRODIGY PVC TIC UGP Déchet	14423
 Part des TIC	16641
 Parties Prenantes des TIC	13290
@@ -127,6 +141,7 @@ Perito TIC	11898
 Plan Nacional TIC Hong Kong	11529
 Plan Stratégique TIC	13290
 Plan TIC Benin	11529
+Plan de Développement des TIC	18105
 Plano Nacional de Desenvolvimento TIC	11387
 Point Focal TIC Point Focal TIC	13341
 Point Focal TIC du Ministère	13290
@@ -142,10 +157,12 @@ Primary Health Tickets	12976
 Produtos de TIC. Os	2816
 Promotion des TIC	15632
 Président du Comité Technique Sectoriel TIC	13290
+PÉNÉTRATION DES SERVICES TIC	18105
 QUIPEMENTS SANITAIRES ET TIC	13306
 Quadro Regulamentar de TIC	12808
 Quadro de Indicadores de TIC. Este	2816
 RAPPORT DES INDICATETEURS TIC AU BURUNDI	13414
+RAPPORT FINAL ENQUETE TIC 2025 Validation 09 04 2026.pdf	18204
 RAPPORT SUR L'EVOLUTION DES INDICATETEURS TIC	13324
 Regulador de TIC	6970
 Replace the TIC	13868
@@ -153,6 +170,7 @@ Représentant du Ministère des TIC	13290
 Représentant du Régulateur des TIC	13290
 Référence TIC Technologies	10876
 République du Mali. TIC	17819
+SECTEUR DES TIC AU NIGER	18105
 SETIC Secrétariat Exécutif des TIC SIF Land	13312,2
 SITUATION EN MATIERE DE TIC ET	16195
 SSources TIC	13306
@@ -160,12 +178,13 @@ Santé TIC	16195
 Scolarisation TIC Technologies	12
 Secrétariat Exécutif des TIC	13290
 Secrétariat Exécutif des TIC Burundi	5958
-Secteur des TIC	13716,4331
+Secteur des TIC	13716,4331,58
 Secteur des TIC. Dans	18047
 Secteur des Tic	13717
 Security Operation Center TIC	15512
 Segurança Ocupacional TI Tecnologia de Informação TIC	11413
 Service TIC	13341
+Services TIC. Le Ministre	18105
 Setor TIC	15684
 Simple Ticketing	17149
 Sistema Nacional de Información Sanitaria TIC	1701
@@ -178,15 +197,20 @@ Sous-secteur des TIC Responsable	13290
 Specialist TIC GTIDR Tassere Pitroipa Information	10812
 Stratégie Nationale TIC	16641
 Stratégie des TIC	15541
+Stratégies TIC	18105
 Supérieure Africaine des TIC	3604
 Syndicat TIC	13290
+Syndrome Immuno- Déficience Acquise TIC	18118
+Système Statistique National TIC	18291
 TAT ACTUEL DES TIC DANS	15541
+TAUX DE PÉNÉTRATION DES SERVICES TIC	18105
 TELECOMMUNICATIONS ET TIC	17819
 TIC AU MALI	18032
 TIC Accès	15542
 TIC Actualité Cameroun	10379,3104
 TIC Afin	13290
 TIC Article	16615
+TIC Au	18105
 TIC Au Burundi	13290
 TIC Augmentation	15542
 TIC Avant	13290
@@ -196,6 +220,7 @@ TIC Bureau	15936
 TIC CTD	15542
 TIC CTD PRIVE Axes	15542
 TIC Ce	13290
+TIC Cette	18204
 TIC Conformément	16641
 TIC Coût	15542
 TIC Dans	15542
@@ -206,6 +231,8 @@ TIC E-gouvernance	15933
 TIC Economie	15542
 TIC Elle	13290
 TIC En	8678,4612,2252
+TIC Equipement	18204
+TIC F CFA	18204
 TIC Fig. II.1 Cinq	13341
 TIC Figure	14423
 TIC GMAO	13306
@@ -214,8 +241,9 @@ TIC Inspection Volume	15467
 TIC Insuffisance	15542
 TIC Intégrer	13306
 TIC Le Cameroun	15542
+TIC Le Niger	18105
 TIC Les TIC	13290
-TIC L’accessibilité	13290
+TIC L’accessibilité	13290,4815
 TIC L’infrastructure	13341
 TIC L’évolution	17448
 TIC Made-in-CV	15684
@@ -233,11 +261,13 @@ TIC NO AMBIENTE	11397
 TIC NO COMÉRCIO	11397
 TIC NO EMPODERAMENTO DAS MULHERES	11397
 TIC NO SISTEMA DE ENSINO	11397
+TIC No. QUESTIONS ET FILTRES CODES	18204
 TIC Nombre	13306
 TIC OUVERTS AU PUBLIC ET DES	10898,8
 TIC OUVERTS AU PUBLIC Vu le Décret	17841
 TIC Orientation	16641
 TIC PDI2T Produit Intérieur Brut Public	15583
+TIC POSTES DE DEPENSES DES MENAGES	18204
 TIC Par La Rédaction	556
 TIC Peu	13306
 TIC Profil	17856
@@ -253,10 +283,10 @@ TIC TI T.V. UIT US VOIP	13290
 TIC TIC	13306
 TIC TVA	7655
 TIC Technologie	15493,468,665
-TIC Technologies	13306,2166,2,2433
+TIC Technologies	13306,2166,2,2433,297
 TIC Tecnologia de Informação	11555
 TIC Tecnologias de Informação	12787
-TIC URL	16305
+TIC URL	16305,1930
 TIC X	13306
 TIC de Cote	10908,4511
 TIC de Côte	2418,958,26,353,120,1805,429,35,97,569,179,28,2,103,795,214,1387,1377,1,1,1,8,5,684,158,3957,226
@@ -270,6 +300,7 @@ TIC-Santé	17882
 TIC. A PENSC	795
 TIC. Action N	17824
 TIC. Afin	13341
+TIC. Ainsi	18118
 TIC. Après	18032
 TIC. Art	15467
 TIC. Artigo	15
@@ -277,8 +308,9 @@ TIC. Au	15493
 TIC. Aucune	15591
 TIC. Axe	15632
 TIC. C	17842
-TIC. Ce	737,8116,4448
+TIC. Ce	737,8116,4448,4903
 TIC. Cela	13290
+TIC. Cependant	18105
 TIC. Ces	13290,51,2137
 TIC. Cette	14423,3401,32
 TIC. Contribuer	7917
@@ -286,9 +318,11 @@ TIC. C’est	737
 TIC. Dans	10604,2737
 TIC. Depuis	15455
 TIC. Développer	13341
-TIC. Elle	13290,3325,19
+TIC. Elle	13290,3325,19,1471
+TIC. Elles	18204
 TIC. Em	16325
 TIC. En	13290,2184,1391
+TIC. Encadré	18105
 TIC. Este	11396,1
 TIC. Este Plano Estratégico	17093
 TIC. Existe	11531
@@ -302,6 +336,7 @@ TIC. L'autorité	16615
 TIC. L'introduction	13306
 TIC. La Banque Asiatique de Développement	13290
 TIC. La DGDEN	15493
+TIC. La HAPDP	18119
 TIC. L’amélioration	13290
 TIC. L’appelant	18032
 TIC. L’enjeu	17824
@@ -313,6 +348,7 @@ TIC. O Dia	16305
 TIC. Outro	11555
 TIC. Par	17448
 TIC. Para	16325
+TIC. Plusieurs	18105
 TIC. Politiques	15591
 TIC. Pour	13290,2646
 TIC. Quant	17856
@@ -325,16 +361,23 @@ TIC. Rôles	13341
 TIC. Similairement	16634
 TIC. Sous-axe	15542
 TIC. TITRE IV	16615
+TIC. Tableau	18204
 TIC. Très	8678
 TIC. Un	13306
 TIC. Une	15474,1974,408
 TIC. le Fonds National	13290
+TIC.Pour	18100
 TIC11	13301
 TIC2. Le Gouvernement	13290
 TICAD	4499,2517,5946,3765,1,1007
 TICANALYSE	10928
+TICE Direction des Statistiques	18171
+TICE OS.1. Développer	18121
+TICE OS1 Développer	18121
 TICE. Cela	16634
 TICE. Lancé	17442
+TICE. OS2 Mettre	18121
+TICE. Un	18121
 TICEF	6661,10158
 TICENCE Artlcle	15429
 TICGL	17575
@@ -351,6 +394,8 @@ TICs. Os CETEM	15684
 TICseed	15476
 TICʹs	17604
 Taux Brut de Fréquentation Scolaire TIC	737
+Taux Brut de Scolarisation. TIC	18100
+Technique PNESRPS PS TIC Politique Nationale	18121
 Threats TIC	17844
 Tic Article	16615
 Tic Tech	15840
@@ -385,6 +430,8 @@ Ticulières	15429
 Trabalho As TIC	2816
 Télévision Numérique Terrestre TIC	17824
 UN E-Governement Survey Indice de Développement des TIC	16641
+UNITED STATES AID TIC TECHNOLOGIES	18105
+UTILISATION DES TIC PAR LES PARTICULIERS	18204
 Unidades TIC	15476
 Usage des TIC	15390
 Usage des TICs	13364

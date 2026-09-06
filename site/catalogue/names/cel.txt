@@ -7,6 +7,8 @@ Abidjan. Celle-ci	9819
 Abrogation CELTOUCH CI Décision	998
 Abuja. Celle-ci	3687
 Acronyms and Abbreviations GAMCEL Gambia Cellular Company	16992
+Action Sociale Cellule Informatique	18297
+Action Sociale Cellule Informatique Projet PI	18297
 Administration. Celui-ci	17874
 Afrique Centrale CIF Cellule	11944
 Airtel Zambia Zamtel MTN SA Cell	1013
@@ -28,6 +30,7 @@ Autorité. Celle-ci	17819
 Avatar of CelestineIT	12478
 Awa Baldé Depuis Sa Cellule	4960,62,2035
 B4. Wireless Cellular Operators	17250
+BANCO DA AFRICA OCIDENTAL MTN Cell	18313
 BESTWESTERN CELL CONNECTIONS LIMITED Data Processor	7167
 Bamako. Cela	17964
 Bangui. Cela	15474
@@ -38,13 +41,14 @@ Blerta Cela	6336,2559,160
 Burkina Faso. Cela	3472
 Bénin. Cela	3195
 CAI Cellule	10975
+CAMES CATI CellAQ CDPU CS	18121
 CAMTEL. Cela	10255
 CAMWATER. Celle-ci	10024
 CBDC Cellule	17870
 CCI Cellule	15961
 CELA DÉPEND	13300
 CELANI PHYSIOTHERAPY AND SPORTS INJURIES CLINIC	7167
-CELCOM	16195
+CELCOM	16195,2096
 CELCOM AFRICA LIMITED Data Processor INST-57229878129	7167
 CELCOM PRIMATURE	16018
 CELESTIAL DENTAL CENTRE LIMITED Data Controller	7167
@@ -63,13 +67,16 @@ CELLULE DE PLANIFICATION ET DE STATISTIQUE	17845
 CELLULE DE. COMMUNICATION	16414
 CELLZ-R-US LIMITED Data Processor INST-7714043563D NAIROBI	7167
 CELPAC	14721
+CELPAID MONEY UBA CI WAVE Cell	18313
 CELSIUS PRO	16274,182
 CELSUIS PRO	16274,182
 CELTEL	998
-CELTEL NIGER	998
-CELTEL NIGER SA	998
+CELTEL NIGER	998,17124
+CELTEL NIGER SA	998,17124
 CELTEL NIGER SA C	998
-CELTEL Niger	998
+CELTEL Niger	998,17124
+CELTEL Niger SA	18122
+CELTEL-MOOV	18122
 CELTIS BENIN	15592
 CELTIS BENIN Moov Africa Bénin SPACETEL	15592
 CELTIS Bénin	15592
@@ -78,6 +85,7 @@ CELTOUCH CI C	998
 CELTRAD	16195
 CELULAR E DA VIGILÂNCIA ELECTRÓNICA CAPÍTULO	549
 CEOs of Lonestar Cell MTN Mobile	17119
+COTE D'IVOIRE Cell	18313
 COTS Cellule Nationale de Suivi	17870
 CPLP Celebra	6837
 CPS Cellule de Planification	17882
@@ -90,6 +98,7 @@ Cadre de Cellule	17899
 Cameroon Telecommunication Company CE Centre CEL-Info	15541
 Cameroun. Celle-ci	10975
 Can Cell C	4732
+Cel. des Etudes	18291
 CelCom	16195
 Celador Comisario Grupo D Coordinador Grupo	4209
 Celan	15591
@@ -108,7 +117,7 @@ Celebrating Partnership and Progress	11332
 Celebrating Partnership and Progress The UNDP Open	11332
 Celebrating Record Revenue Milestone and National Progress	17258
 Celebrating World Science Day URL	15915
-Celebration	14714,1,2341
+Celebration	14714,1,2341,1293
 Celebration FIGURE	13095
 Celebration Oct	17056
 Celebration URL	17056
@@ -210,17 +219,20 @@ Cell and Sector	12328
 Cell and Village. Trained Cell Executive Secretaries	12413
 Cell-C	4150
 Cell-level	12328
+CellAQ	18121
+CellAQ. A.3.OS.2-A18	18121
+CellAQ. OS3 Systématiser	18121
 Cellcard	11310
 Cellcom	15471,1155,15,33,198
 Cellcom Guinée	16626
 Cellcom MTN Orange	16626
 Cellcom. Despite	16741
-Celle	2342,2437,427,306,723,654,1012,540,2386,20,791,2765,438,556,26,750,448,1195,47
+Celle	2342,2437,427,306,723,654,1012,540,2386,20,791,2765,438,556,26,750,448,1195,47,307,154,23
 Celle de Bobo-Dioulasso	10875
-Celle-ci	2342,353,424,598,703,147,127,1014,426,265,206,727,384,393,782,242,144,736,22,50,388,340,61,101,118,23,637,290,1250,48,49,86,181,62,62,22,620,974,26,21,11,57,30,56,45,60,19,5,6,115,4,11,73,7,22,3,31,48,61,40,1,9,45,92,99,32,111,96,27,1159,26,10,6,21,17,94,10,11,76
+Celle-ci	2342,353,424,598,703,147,127,1014,426,265,206,727,384,393,782,242,144,736,22,50,388,340,61,101,118,23,637,290,1250,48,49,86,181,62,62,22,620,974,26,21,11,57,30,56,45,60,19,5,6,115,4,11,73,7,22,3,31,48,61,40,1,9,45,92,99,32,111,96,27,1159,26,10,6,21,17,94,10,11,76,232,2,18,62
 Celle-là	8219
-Celles	12,725,1253,6901,2032,4467,103,49,57,2213,32
-Celles-ci	5891,33,317,1955,488,207,650,1434,2400,199,308,481,186,812,62,51,68,52,4,114,3,7,126,60,28,392,1120,26,157,1,8,254,84
+Celles	12,725,1253,6901,2032,4467,103,49,57,2213,32,299,27,116
+Celles-ci	5891,33,317,1955,488,207,650,1434,2400,199,308,481,186,812,62,51,68,52,4,114,3,7,126,60,28,392,1120,26,157,1,8,254,84,116,228,2
 Celles-ciÊ	18065
 Celles-là	9280
 Cellesci	14425
@@ -255,14 +267,20 @@ Cellular Quality of Service	718
 Cellular Telecommunications	736
 Cellular Tower	15578
 Cellular and Landline Phone	11211,51
-Cellule	1984,1412,47,726,2409,545,1385,785,1419,146,18,89,10,176,765,28,14,1764,439,263,1,1006,111,38,15,64,53,26,8,22,15,229,87,96,170,24,47,89,6,96,1,956,240,3,2,1,12,28,2,4,6,12,5,46,87,45
+Cellule	1984,1412,47,726,2409,545,1385,785,1419,146,18,89,10,176,765,28,14,1764,439,263,1,1006,111,38,15,64,53,26,8,22,15,229,87,96,170,24,47,89,6,96,1,956,240,3,2,1,12,28,2,4,6,12,5,46,87,45,26,1,1,12,4,128,37,5,6
 Cellule Accréditation	17876
+Cellule Assurance Qualité	18121
 Cellule CCDA Amélioration	10975
 Cellule Cellule Cellule	17824
+Cellule Communication	18169
+Cellule CrisesAlimentaires	18104
 Cellule FINEX	15518
+Cellule Filets Sociaux PROJECT FINANCING DATA	18104
+Cellule Genre	18286
 Cellule Group Expert En Gouvernance	11034
-Cellule Informatique	10975,5220,1635
+Cellule Informatique	10975,5220,1635,467
 Cellule Informatique CEP Certificat	15541
+Cellule Informatique du MSAS	18297
 Cellule National de Météorologie	17873
 Cellule Nationale	15936,1881
 Cellule Nationale de Koutiala	17817
@@ -274,6 +292,7 @@ Cellule Nationale de Traitement des Informations Vu	17817
 Cellule Organisation	17872
 Cellule Permanente de Suivi	11958
 Cellule Respect	10876
+Cellule Santé Universitaire	18143
 Cellule Sectorielle de Lutte	17882
 Cellule Statistique	17842
 Cellule Suivi-Evaluation	10712,7187
@@ -285,7 +304,7 @@ Cellule Technique du Cadre Stratégique de Lutte	17842
 Cellule Télé-services	17872
 Cellule Vérifie	10876
 Cellule de Collecte	17899
-Cellule de Communication	5471,10547,132,185,1537
+Cellule de Communication	5471,10547,132,185,1537,414
 Cellule de Contrôle Interne CILSS	10874
 Cellule de Coordination	1284,16558,40,17
 Cellule de Coordination des Projets	15936
@@ -293,25 +312,33 @@ Cellule de Coordination du Projet des Villes	16213
 Cellule de Gestion	10712
 Cellule de Gestion des Marchés Publics	11905,1396,2358
 Cellule de Gestion des Projets	15569
+Cellule de Lutte	18291
 Cellule de Mise	16365
 Cellule de Passation des Marchés	13524
-Cellule de Planification	9553,8274,3,12,3,37,63,33,31,23,45
+Cellule de Planification	9553,8274,3,12,3,37,63,33,31,23,45,214
+Cellule de Programmation	18291
+Cellule de Santé Communautaire	18297
 Cellule de Services	15797
+Cellule de Suivi Opérationnel de Lutte	18286
 Cellule de Suivi des Projets	15990
 Cellule de Suivi des Réformes Economiques	969
 Cellule de Traitement du Renseignement	17083
 Cellule de Traitement du Renseignement Financier. Elle	17083
 Cellule des Affaires	8269
 Cellule des Archives	17827
+Cellule des Etudes	18291
+Cellule des Filets Sociaux	18104
 Cellule des Informations Sanitaires Charles YOPNDOI	15599
 Cellule des Informations Sanitaires du Ministère	16195
+Cellule des P1	18291
 Cellule du Courrier	10975
 Cellule du Développement Numérique	10975
 Cellule du Développement Numérique Axes	10975
 Cellule la SNFI	10965
 Cellule. Article	16611
 Cellule. Ils	17827
-Cellules	10876,2566,226,820,1,1,1702,1707,3
+Cellules	10876,2566,226,820,1,1,1702,1707,3,198,65,121,5
+Cellules Crises Alimentaires	18104
 Cellules Mi- BA	10876
 Cellules Septembre	10876
 Cellules SyC	15736
@@ -326,9 +353,9 @@ Celta Vigo Xinhua	2743
 Celte	15429
 Celtel	4150,2684,403
 Celtel Congo	15455
-Celtel Niger	998
+Celtel Niger	998,17107,17
 Celtel Niger S.A	998
-Celtel Niger SA	998
+Celtel Niger SA	998,17107,17
 Celtel. GRAPHIQUE N	998
 Celtiis	2694,406,7756,3423,393,1873
 Celtiis Cash	6234
@@ -337,7 +364,7 @@ Celtis	3150,12442
 CeltixConnect-2	1766
 Celui	436,4309,34,292,435,245,2468,109,1507,1130,2328,2240,51,87,56,147,1565,259,149,14,11,131
 Celui du Commerce	9819
-Celui-ci	735,451,45,56,1113,164,956,2053,112,539,446,723,320,1178,404,32,183,1315,51,974,241,1199,3,48,368,72,382,201,48,450,486,1,15,33,32,36,9,110,19,82,15,3,12,12,53,188,31,64,73,109,211,157,13,813,225,167,12,18,21
+Celui-ci	735,451,45,56,1113,164,956,2053,112,539,446,723,320,1178,404,32,183,1315,51,974,241,1199,3,48,368,72,382,201,48,450,486,1,15,33,32,36,9,110,19,82,15,3,12,12,53,188,31,64,73,109,211,157,13,813,225,167,12,18,21,219,18,3,47,43,45,31
 Celulares Proporção	11418
 Celur-ci	15348
 Celyntis	9968,7733
@@ -365,11 +392,13 @@ Consulat. Celui-ci	17861
 Coordination des Cellules de Communication	18032
 Cotonou. Cela	15292
 Covid-19 the CEL	14736
+Création de Compte Satellite du Tourisme Cellule	18306
 Culture Celebration and Community Service Mark Zambia	13477
 Customs Seaport Celebrates Three Newly	17064
 DE SERVICES CELTEL NIGER SA Mobile	998
 DEEE. Celles	14423
 DES CELLULES Article	17899
+DIGIPAY CELPAID Cell	18313
 DK Telecom and Y Cell	4228
 DLP. Celebrating DLP Achievements Based	899
 Day Celebration	13080,15
@@ -385,6 +414,7 @@ ESE Celebrate Sixth Batch Graduation	16123
 EUR-Lex CELEX	6477
 Effect of Cell Phone Coverage	17870
 End-of-Year Staff Party Celebrations	11134
+Enseignement Supérieur Cellule	18121
 Environnement. Cela	15500
 Etat. Cela	6889
 Ethiopia Celebrates the Inauguration	10709
@@ -395,10 +425,12 @@ Executive Secretary of Cell	12338,75,2643
 Executive Secretary of Cell. Available	12338
 Expanding R&A Cellular	14385
 F CFA. La Cellule de Communication du Ministère	6456,1224
+FINANCES MOBILES BISSAU Cell	18313
 FTD. Celui du Burkina Faso	10371
 Famille CHIP Aliments CHU Cellule	17845
 Family Cell	14748
 Femme Cellule de Planification	17978
+Femmes CEP Cellule	18286
 Focus. Celui-ci	8891
 Frontier Tech Leaders Programme Celebrates First	17173
 G Cell C	10673
@@ -411,21 +443,25 @@ GSM Operator Gambia Cellular Company LTD	16982
 Gabinete. Celestin Kadjidja	17087
 Gabon. Celui	7399
 Gambia Telecommunications Cellular Company Ltd	16886
+Gambie. Celles de Saint Louis	18286
 Gender Cell	14742,3
 Gender Cells	14742
 General Manager of Operations Cell	8999
 Germany and CELSI	8704
 Gihengeri Cell	15255
+Global Youth Celebration ITU’s Global Youth	18349
 Godefroy Celestin	16100
 Google Cell C Icasa Liquid Intelligent	5050
 Gouvernement. Cela	13341,2152
 Gouvernement. Celle-ci	15936
 Gouvernement. Celui-ci	15474
 Gouverneur. Celles	15594
+Grandes Ecoles Celle	18143
 Grid Cell Reference	13298
 GuarantCo's Cellcard	11310
 HF Level Cell	12413,2643
 HYSACAM. Celle-ci	15542
+Homme CSO Cellule de Suivi Opérationnel des Projets	18286
 Huíla SUZANA NAZARÉ CELESTINO JOSÉ	10751
 IA. Cela	2582,1358,13809
 IA. Celle-ci	5029
@@ -434,16 +470,21 @@ ID Day Celebration	13080
 IDFC's Khetha Cele	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 IMF CELPAID	4459
 INEGE Celebración	16898
+ITU-D Celebratory Dinner	18349
 IXP. Cela	17488,26
 Independence Day Celebrations. Page	14835
 Industry and CompetitionDr Mlungisi Cele	11221
 Information. Cela	17879
+Innovation Cellule	18121
+Intelligentsia Cell	18313
 Internet. Cela	3808,14015
 Investissement Privé CPS-SJ Cellule de Planification	17978
+Ivoire Cell	18313
 Jacques Solal Celigny	17835
 Jorge Enrique Celis Giraldo	15059
 João Celestino Gonçalves Tavares	15404
 Justice CPS-SME Cellule de Planification	17978
+KASH KASH BRM XIKKA Cell	18313
 Kaduha Cell	15049
 Kagugu Cell	12370
 Kasa-Vubu. Cela	16567
@@ -454,10 +495,15 @@ Kudenga House Cell	4896
 LEI DA IDENTIFICAÇÃO OU LOCALIZAÇÃO CELULAR	549
 LEI. Celle-ci	15781
 LOCALIZAÇÃO CELULAR E DA VIGILÂNCIA ELECTRÓNICA	549
-La Cellule	6901,3973,91,979,3439,2511,5
+La Cellule	6901,3973,91,979,3439,2511,5,398
+La Cellule Genre	18143,27
+La Cellule Informatique du MSAS	18297
+La Cellule Informatique du Ministère	18297
+La Cellule Santé Universitaire	18143,27
 La Cellule Suivi-Evaluation	17899
 La Cellule Zawiya Tijaniyya Cezat	11087
 La Cellule de Collecte	17899
+La Cellule de Communication	18169
 La Cellule de Communication du Gouvernement	16640,40
 La Cellule de Communication du Ministère	1297
 La Cellule de Communication du Ministère des Finances	4135,34,172,655,475,1204,336,252,33,4716
@@ -489,6 +535,7 @@ Lonestar Cell. Ali Fakih	4285
 Lugar de Celebración	16855
 L’analyse des Celle	10965
 L’opérationnalisation Cellule	16707
+M. Bako Bariki. Celui-ci	18258
 MARIA CELESTE DE ANDRADE SEGO	10751
 MB. Vodacom and Cell C	11259
 MOBILE CELLULAR	11211,51
@@ -509,6 +556,7 @@ Minister Cell	9584,1694
 Ministre Celui	6383
 Ministère des Finances Cellule	10965
 Mission Cell and Wastewater Sector	14745
+MoMo MOOV MONEY CÔTE D'IVOIRE Cell	18313
 Mobile Cellular	14836,300
 Mobile Cellular Communications Operators	958,12337
 Mobile Cellular Low	12395
@@ -536,15 +584,19 @@ Ms Malehloa Celina Molato	12706
 Météorologie. Celles-ci	17983
 NDAYISENGA Claude Cellule	13341
 NDT Concrete. The CEL	14736
+NET CELTEL NIGER	18122
 NIBASUMBA Celestin BUCUMI Marie NIMBONA Delphine	13300
 NIDA and Cell	12328
 NOMINATION DES MEMBRES DE LA CELLULE	17817
 National Day Celebrations Municipality City Council	14746
 National Technical Unit for Health Projects Cellule	10829
 NetOne Cellular	2987,5988
-Niger. Cela	2801
+Niamey. Celle	18204
+Niger CELTEL ZAMANI MOOV NIGER	18122
+Niger. Cela	2801,15299
 Nigériens. Cela	12128
 Nombre Cellule	3396
+Nombre de Cellule	18286
 Non CELTEL NIGER SA	998
 Northern Cape Only Cellular Phone	11211
 Notification Type Cell C MTN Telkom	11259
@@ -555,14 +607,18 @@ O7 CELLULE DES CONSOMMATEURS CELLULE DES	15670
 O7 CELLULE DES CONSOMMATEURS Figure	15670
 O7 CELLULE DES CONSOMMATEURS INTRODUCTION Une	15670
 O7 CELLULE DES CONSOMMATEURS NATURE DES	15670
+OGE. Cela	18310
 OGP. Cela	15712
 OKO Celestine UGP Junior Spécialiste	16012
 OMM. Celle-ci	17873
 ONICL. Celui-ci	8891
+ORANGE MONEY CÔTE D'IVOIRE Cell	18313
 Objectifs CP Comité de Pilotage CSC Cellule	10712
 Oio Quinara Tombali Example Sra. Celina	11515
 Only Cellular Phone	11262
+Opérateurs CELTEL NIGER SA MOOV AFRICA	18122
 Orange Liberia and Lonestar Cell MTN	8955
+Ordre Secrétariat Cellule Santé Universitaire	18170
 Orientation Cellule de Planification	17978
 PME. Celles-ci	8891
 PNG Politique Nationale Genre CPS Cellule	17845
@@ -602,9 +658,11 @@ République. Celui-ci	15703,931,2
 Réservation CELTEL NIGER SA C	998
 Réservation CELTEL NIGER SA Décision	998
 SA CELLCOM	16623
+SARA MONEY ECOBANK CI CashXpress Cell	18313
 SBIN’s Celtis	5033
 SDR Cellule de Planification	17978
 SE Cellule de Planification	18077
+SE4ALL Cela	18103
 SEEUDE Cellule de Planification	18077
 SERVICE PUBLIC CMRAP Cellule de Mise	16365
 SICAEPIP Cellule de Planification	18077
@@ -631,8 +689,10 @@ Statistique Cellule de Planification	17978
 Stratégie. La Cellule	10965
 Sub-Comités Sectoriales Estadísticos Celebración	16898
 Subcomités Sectoriales de Estadísticas Celebrar	16898
+Systématisation des Cellules	18291
 Sécurité Chef de Cellule CELLULE COMMUNICATION ET	17899
 Sécurité Intérieure Cellule de Planification	17978
+Sécurité. Cela	18286
 TBS. Cela	18014
 TIC. Cela	13290
 TICE. Cela	16634
@@ -658,8 +718,11 @@ Universal Service Fund Cell Tower Initiative	1572
 Unlimited Telefónica Celular	15471
 Via Celular	549
 VideosAIIDFC's Khetha Cele	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
+WAVE BACI WIZALL Cell	18313
 West African Centre for Cell Biology of Infectious	8365
 World Teachers Day Celebration and Awards Ceremony	12950
+XIKKA MONEY ORABANK CI WAVE Cell	18313
+XPRESS BNI SYCA PAY Cell	18313
 Xinjing Pang. Celui-ci	11099
 Y Cell	2255,1973,805
 YOY CHANGE Mobile Cellular Subscriptions	12395

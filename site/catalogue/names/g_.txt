@@ -121,6 +121,7 @@ Especialistas Grupo G Servicio	4209
 Excellency Dr Hage G. Geingob	12923
 F A I R G U	14565
 F AUTRE SECTEUR PUBLIC G	13300
+F G Figure	18286
 F Garçons Filles G	10847
 F KOMPIENGA Garçons Filles G	10847
 F Régions Provinces Garçons Filles G	10847
@@ -222,6 +223,7 @@ G FBB Data	4525
 G FBB Sources	10995
 G FWA	8828,1965,968
 G FWA. Ce	11761
+G Fibre	18319
 G Fifth Generation ASPs Application Service	6671
 G Fifth Generation B2B Business	13346
 G Fifth Generation Network ABMT Appropriate	2775
@@ -318,7 +320,7 @@ G Networks	16929
 G New Radio	14780,45
 G Niger	10611
 G Non-Standalone	8828,7306
-G Note	10844
+G Note	10844,7279
 G O L	11236
 G OCT	15903
 G Oo Report	3972
@@ -327,7 +329,7 @@ G Optical Ethernet Interface	13185
 G Oshikoto	1944
 G PETIT AMI ACTUEL	13300
 G Packages	11259
-G Personal Autonomy and Individual Rights G1	17967
+G Personal Autonomy and Individual Rights G1	17967,217
 G Pilot	7998
 G Plans and Test Zones	15713
 G Population	1013
@@ -467,6 +469,7 @@ G de Chinguitel	17866
 G de MTN	15493
 G de Moov Africa	5978
 G de Moov Africa Bénin	5978
+G de Niger Télécoms Par	18122
 G de Viettel Cameroun	15542
 G for FWA	8828
 G' DANS LE CALENDRIER	13300
@@ -512,9 +515,10 @@ G. Cabo Verde	16251
 G. Capacité	13390
 G. Cape Mt	16921
 G. Cependant	6861
-G. Ces	3449,12452
+G. Ces	3449,12452,2221
 G. Cet	2290
 G. Cette	1272,5496
+G. Changes	18359
 G. Chaque	5071
 G. Chinyama	10215
 G. Como	11111
@@ -614,6 +618,7 @@ G. Paulatinamente	1215
 G. Plank. LASER Synthesis Paper	11006
 G. Pour	10226,5717,1893
 G. Program Modalities and Other Issues	17257
+G. Préoccupations	18204
 G. Public-Private Partnerships	16975
 G. Quality Assurance and Compliance	16975
 G. Quels	7715
@@ -767,6 +772,7 @@ Mukasa G. Access	12231
 Munyaradzi G	17773
 Mwinnyaa G	3791
 N D G A IN IMF	17257
+N E G A LP	18332
 N G A N G	15901
 N G N A T U	11586
 N K G R O U	13938
@@ -811,6 +817,7 @@ Préscolaire Garçons Filles G	10847
 Public Works Engr. Benjamin G. Yiediboe	17260
 R A T E G	15722
 R E G L	14947
+R G E N E R	18122
 R GENTINA G	16623
 RIVER G	14760
 RS OIML G	15027
@@ -847,6 +854,7 @@ Strategic G	16861,22
 Strategic Objective G	14818
 Strawn G	14666
 T A B L E G	14935
+T E U R G	18122
 T I N G B	11586
 T TWY G	16552
 TWY A and G	16552

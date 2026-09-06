@@ -44,6 +44,7 @@ Annual Report Fiscal Year	12358
 Approval Fiscal	15190
 Approval Fiscal Year	15702,257
 Approval Fiscal Year Operation	11924,6038
+Approval Fiscal Year P167569 Investment Project	18374
 Approved Developer of Fuel Fiscal Devices	13606
 Aquaculture and Fishing Activities	17043
 Aquaculture and Fishing Activities Aquaculture	17043
@@ -94,6 +95,7 @@ Captain Andy Fishing Supply Ltd Data	7167
 Central Bank of Liberia Nov-233.6 Fiscal Sector	17235
 Centre des Téléservices Fiscaux	10907
 Centres de Fiscalité Locale	6163
+Centres de Services Fiscaux	18293
 Centres des Impôts de Fiscalité Locale	15999
 Certidão de Quitação Fiscal	8731
 Certidão de Regularidade Fiscal	17100
@@ -175,6 +177,7 @@ Developments Monetary Developments Fiscal Review Banking	11131
 Devrient's Daniel Nagy and Markus Fischbeck	11130
 Digital Development. Approval Fiscal	11965
 Director of The Raphael Fishing Company	12132
+Directorate of Maritime FisheriesDirector	18305
 Direcção de Serviços Fiscais	11435
 Direito Fiscal	15772
 Distribution of Aquaculture and Fishing Holdings	17043
@@ -233,6 +236,7 @@ Era of Economic Transformation and Fiscal	12588
 Eroded Fiscal	14932
 Eroded Fiscal Sustainability	14932
 Ethiopian Fiscal Year	3211
+Evaluation du Potential Fiscal du Secteur Informel	18318
 Every Fuel Fiscal Device	13606
 Excelentissimo Sr. Presidente da Fiscalização	10750
 Executive Summary The Fiscal Year	15004
@@ -273,7 +277,7 @@ FISCAL TITULAR DE INVESTIGACIONES ADMVAS	4209
 FISCAL TITULAR DE JURIDICCION MILITAR	4209
 FISCAL TITULAR DE MEDIO AMBIENTE	4209
 FISCAL TITULAR DEL TRIBUNAL DE CUENTAS	4209
-FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100
+FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8
 FISCAL YEAR Agricultural	13122
 FISCAL YEAR Despite	14985
 FISCAL YEAR Vizenge Kumwenda Chairperson Mr	13053
@@ -503,7 +507,9 @@ Fiscalisation Requirements All Taxpayers	12509
 Fiscalisation and Fiscalisation Data Management System	12509
 Fiscalised GDP	13122
 Fiscalised Recording of Fuel Transactions	13606
-Fiscalité	4169,251,3574,1583,1135,263,4499,151,45,4,262,184,489,1263
+Fiscalité	4169,251,3574,1583,1135,263,4499,151,45,4,262,184,489,1263,237
+Fiscalité Communication	18112
+Fiscalité Foncière	18109
 Fiscalité Indirecte Article	4420
 Fiscalité Locale	10712
 Fiscalité du Système	4169
@@ -566,7 +572,7 @@ Fishenden and Thompson	5700
 Fisher	2566,8353,21,195
 Fisherfolk	17099,15
 Fisherfolk Association Big Fanti Town Fisherfolk	17099
-Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230,553,119,141,74,81,87,1111,69,32,71,612,43,1361,90,45,153,86,224
+Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230,553,119,141,74,81,87,1111,69,32,71,612,43,1361,90,45,153,86,224,834
 Fisheries Act	13403,1415
 Fisheries Act No.22	1988
 Fisheries DNA Deoxyribonucleic	11188
@@ -582,7 +588,7 @@ Fisheries Statistical System	16493
 Fisheries Subsidies Agreement	13042
 Fisheries Tons	17235
 Fisheries Training and Extension Centre	14818
-Fisheries Transparency Initiative	10112
+Fisheries Transparency Initiative	10112,8193
 Fisheries and Animal Industries	15802
 Fisheries and Animal Production	10964
 Fisheries and Aqua-Farming	14829
@@ -593,7 +599,7 @@ Fisheries and Aquaculture Management Law	17114
 Fisheries and Aquaculture Minister	10112
 Fisheries and Biosecurity	15478
 Fisheries and Environment	13733
-Fisheries and Forests	10960
+Fisheries and Forests	10960,7333
 Fisheries and Irrigation	7167
 Fisheries and Livestock	13343
 Fisheries and Marine Resources	14818
@@ -607,7 +613,7 @@ Fisheries. Certainly	17157
 Fishers	17099
 Fishery	15085
 Fishery Committee	11536
-Fishing	789,1986,2906,2164,2918,1094,24,1179,1758,56,17,481,1528,143,56,785
+Fishing	789,1986,2906,2164,2918,1094,24,1179,1758,56,17,481,1528,143,56,785,421
 Fishing Agricultural	17043
 Fishing Appui	15500
 Fishing Communities	17099
@@ -646,7 +652,8 @@ Fisre.2.1.1&linkType	5349
 Fisseha	10878
 Fiston AROUNA	17882
 Fiston Raïs	16100
-Fistule	13300
+Fistule	13300,5012
+Fiszbein	18104
 Flexibilidad Fiscal Condicional Se	4209
 Food and Agriculture Organization FIRMS Fishery Resources	17157
 Forestry and Fisheries	11188,146,1759
@@ -676,6 +683,7 @@ Gambian Standard for Quick Frozen Fish Fillets	16900
 Gambian Standard for Smoked Fish	16900
 Gender and Sustainable Fisheries Management Thematic Policy	16951
 General Course for Fishers	14818
+General Fiscal Code	18109
 Global Initiative for Fiscal Transparency	14626
 GoL Fiscal Operations	17235
 Gobierno Secretario General Ministerio Fiscal Audiencia	4209
@@ -696,6 +704,7 @@ IMF's Fiscal Affairs Department	11906
 IMF’s Fiscal Affairs	16955
 IMPLEMENTATION OF FISCAL POLICY MEASURES	7695
 INCITATIONS FISCALES ET SUBVENTIONS AUX STARTUPS	4567
+INSTITUT SUPERIEUR PRIVE DE FISCALITE-FISUP ISPFK	18170
 INTEGRATION DES AVANTAGES FISCAUX ET DOUANIERS	16047
 IRADUKUNDA Yollande MBERAMIHETO Fiston IRAKOZE Anne	13300
 IV. FISCAL PERFORMANCE	12922,34,167
@@ -703,7 +712,7 @@ IVA Desdobrável REMPE Flyer Incentivos Fiscais	12018
 Identifiant Fiscal Unique	10823,4595,379
 Identifiant Fiscal Unique. Article	15418
 Identification Fiscal Unique	10821
-Identification Fiscale	13390,77,223,119,2938,1166
+Identification Fiscale	13390,77,223,119,2938,1166,207
 Identificação Fiscal	10765,10
 Immatriculation Fiscale	13524
 Impact of Fiscal Policy	10985
@@ -755,6 +764,7 @@ Livre de Procédures Fiscales	15419
 Livre des Procédures Fiscales	14169,1830,329,1512
 Local Government Fiscal Board	16970
 Local Government Fiscal Framework	8599
+LÉGISLATION FISCALE	18424
 MAL-ZNFU FISP E-Voucher Pilot	91
 MANUAL DE PROCEDIMENTOS DAS REPARTIÇÕES FISCAIS	11435
 MEDIUM TERM MACROECONOMIC AND FISCAL	17105
@@ -787,6 +797,7 @@ Medium-Term Macroeconomic and Fiscal Framework	1964
 Meeting Minimum Fiscal Transparency Requirements Significant	11005
 Men Women Men Women Aquaculture Fishing	17043
 Men Women Women Men Aquaculture Fishing	17043
+Michael Fischer	18416
 Mid-Year Fiscal Policy Review	7695
 Mid-year Fiscal Policy Review	7695
 Mid-year Fiscal Policy Review CONCLUSION	7695
@@ -802,10 +813,11 @@ Minister of Agriculture and Fisheries	12771
 Ministerio Fiscal	163,16692,110
 Ministerio Fiscal. Una	16965
 Ministry of Agriculture and Fisheries	10763,2279
-Ministry of Fisheries	16957
+Ministry of Fisheries	16957,1352
 Ministry of Fisheries and Aquaculture	10112
 Ministry of Fisheries and Blue Economy. Author	4762
 Ministry of Fisheries and Livestock	1988,11415,52
+Ministry of Fisheries and Maritime Economy	18305
 Ministry of Fisheries and Water Resources	16967,138
 Ministry of Livestock and Fisheries	3583
 Ministry of Livestock and Fisheries.357	3583
@@ -823,6 +835,7 @@ National Fisheries and Aquaculture Authority Access	17011
 National Fisheries and Aquaculture Authority Year Artisanal	16935
 National Fisheries and Aquaculture Authority Year Chicken	16935
 Natureza O Fiscal	15912
+NewFin1 WB Fiscal Year	18104,197
 Nota de Crédito Fiscal	17100
 Number of Fuel Fiscal Device Interruptions	13606
 Número de Identificación Fiscal	16855,4,556
@@ -998,6 +1011,7 @@ St. Brandon. The Raphael Fishing Company	12132
 Stability Non-Bank FIs Supervision Internal Audit	15023
 States Fiscal Transparency	11867
 Strengthening Fiscal Discipline Improving	17364
+Strengthening Senegal’s Fiscal Sustainability Program	18370
 Supplementary Environmental Fiscal Measures	12389
 Sustainable Fisheries Partnership Agreements	14628
 TEXTES FISCAUX NON CODIFIES	16020
@@ -1045,7 +1059,7 @@ Virtual Fuel Fiscal Device	13606
 Virtual Fuel Fiscal Devices	13606
 W FIS BRAZZAVILLE INFORMATION	16552
 WB Fiscal	3604,7813,488,4239,1314
-WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,2,82,1206
+WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,2,82,1206,1344
 WB Fiscal Year Annual	15658
 WB Fiscal Year Annual Cumulative	15553
 Waters Interiors and Fisheries	4214

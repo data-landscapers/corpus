@@ -53,7 +53,7 @@ Crypto-Asset Reporting Framework	10155,1078,3595,3
 Crypto-Asset Reporting Framework. Section II General	11233
 Crypto-Assets	8215
 Crypto-Backed	12882
-Crypto-actifs	5992,4487
+Crypto-actifs	5992,4487,7910
 Crypto-assets	14844
 Crypto-backed	12882
 Crypto-to-crypto	10155
@@ -77,9 +77,10 @@ Cryptographie	1185,14287,112,59,1857,329,12
 Cryptography	1000,6004,4175,3875
 Cryptography for Secure Communications	10775
 Cryptologia	8022
-Cryptologie	13719,1769,96,59,560,412,2
+Cryptologie	13719,1769,96,59,560,412,2,1489,13
 Cryptology	3193
 Cryptomonnaie	4127,7817
+Cryptomonnaies	18346
 Cryptopolitics	12227
 Crysol	16100
 Crystal Finance	3779

@@ -43,6 +43,7 @@ ARMP Mise	10876
 ARMP Procurement Regulation Authority	969
 ARMP Public Procurement Regulatory Authority	10829
 ARMP Regulatory Agency for Public Procurement	15518
+ARMP Regulatory Authority Public Procurement	18301
 ARMP Regulatory Authority for Public Contracts ATM	13312,2
 ARMP Semiannually Report	11905
 ARMP-	8021
@@ -109,7 +110,7 @@ Armed Conflict	10835,3,130,902,16,466,1,135,2254
 Armed Conflict Location	15715
 Armed Conflict Location and Event Data	16359
 Armed Conflict1	12353
-Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366
+Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414
 Armed Forces Day Deputy Foreign	17025
 Armed Forces Day REPORT	17025
 Armed Forces Health Services	11401
@@ -142,7 +143,7 @@ Armelle Ouédraogo	7353
 Armelle Ouédraogo Dalilha Ky	10125
 Armelle Ouédraogo Lefaso.net	16448
 Armement	16047
-Armenia	6849,2233,88,1615,59,2,159,351,253,285,1078,148,1348,1003,2272
+Armenia	6849,2233,88,1615,59,2,159,351,253,285,1078,148,1348,1003,2272,380
 Armenia Aruba Australia Austria Azerbaijan Bahamas	11470
 Armenia CIS UMI	17743
 Armenia MINASYAN	6613
@@ -187,11 +188,16 @@ Army Taggadum Sudanese Coordination of Civil Defensive	15342
 Army and Defense Agency Sector	8141
 Army and Security	15553
 Armário	794,9983
-Armée	3520,1138,180,2121,846,194,270,7187,97,5,134,35,127,1974,33,121,21,29
-Armée ABDOURAHAMANE TIANI	3305,8292
+Armée	3520,1138,180,2121,846,194,270,7187,97,5,134,35,127,1974,33,121,21,29,180,74
+Armée ABDOURAHAMANE TIANI	3305,8292,6537,17,5,35,36,11
 Armée Abdourahamane TIANI	9287,55
-Armée Abdourahamane Tiani	3967,22,50,763,11,1281,1239,220,440,2161,338,7179
+Armée Abdourahamane Tiani	3967,22,50,763,11,1281,1239,220,440,2161,338,7179,517,28,7,19,9,7,9
+Armée Abdourahamane Tiani. Ce	18282
+Armée Abdourahamane Tiani. Dr Elisabeth Shérif	18165
 Armée Abdourahamane Tiani. Il	9567
+Armée Abdourhamane Tiani	18188
+Armée Abdourhamane Tiani. Elle	18188
+Armée Abdourhamane Tiani.Ainsi	18187
 Armée Assimi GOITA	1967,5876,394,32,1018,55,8557,21,29,33,9,12,29,15
 Armée Assimi GOITA Armées. Le Premier	17899
 Armée Assimi GOITA Article	17982,21,29
@@ -223,6 +229,7 @@ Armée Assimi GOITA Yaya GOLOGO	18003
 Armée Assimi GOITA des Etats du Sahel	18003
 Armée Assimi GOÏTA	1968,15961
 Armée Assimi Goïta	7926,1033,9111,4
+Armée DJIBO SALOU Pour	18097
 Armée Gaylord OSSAVOU AUGUSTIN	16099
 Armée Ils	17982
 Armée Ismaël WAGUE	17899,133
@@ -290,6 +297,7 @@ Dadet Armand Olivier	15524
 Darfur and Kordofan Regions. The Sudanese Armed	15342
 Davy Armel	15524
 Decent Housing Absence of Armed Conflict	10838
+Directorate Centrale du Matériel des Armées	18241
 Djámanca MctorCassamá Armando Mango Guilherme Damas	11544
 EQUIPARACION Y ARMONIZACION DE SALARIOS	4209
 ESTADO MAYOR DE LAS FUERZAS ARMADAS.-Concepto	4209
@@ -316,7 +324,7 @@ FOSA des Forces Armées Congolaises	15685
 Fall Armyworm	12931,435,1503
 Ferryse Armel MICKALA NDJEGOU	16175
 Force Armée Congolaise	5103
-Forces Armées	7843,394,3663,4465,1463,13,4,16,21,17,9,74,1,20,29
+Forces Armées	7843,394,3663,4465,1463,13,4,16,21,17,9,74,1,20,29,254
 Forces Armées Burundaises. Pour	13329
 Forces Armées Centrafricaines FCR Financial Crime	15415
 Forces Armées Congolaises	15405
@@ -395,7 +403,8 @@ Maxar Technologies The Armed Forces	15473
 Militaires des Forces Armées	17982
 Mines SECTION IDENTIFICATION DES ARMES	17899
 Ministre Armand Kuyema NATTA	16535
-Ministère des Forces Armées	17812
+Ministre des Forces Armées	18412
+Ministère des Forces Armées	17812,474
 Mme Armelle MBAZOGHE ELLA SOCIETE GABONAISE	16381
 Mme BAHOUNOUI BATENDE ARMELLE	16328
 Mme Juliette Armande MEDZA M’AKOUE. Secrétaires	16381
@@ -416,6 +425,7 @@ Niger and Burkina Faso. The Malian Armed	17883
 Nigeria Army	11928
 Nigerian Armed Forces	11851
 Nigerian Army	10566,1359,51
+Nigerien Armed Forces Logistics Center	18241
 Nii Armah Ollenu Street	3386
 Nii Kodzo Armah Street Operational	3386
 OBR ARMP	1284

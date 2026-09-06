@@ -46,7 +46,7 @@ Act Business Names	3714
 Action Component Name Cost	15138
 Action Name Action Description Responsible	17157
 Action Proposed Component Name No Change	1228
-Action Proposed Component Name Proposed Cost	16896
+Action Proposed Component Name Proposed Cost	16896,1463
 Actualités Numérique Namibie	13568
 Administration Name Designation Tel No. Email	14745
 Administration System NamRA Namibia Revenue Agency	12951
@@ -96,6 +96,7 @@ BANK OF NAMIBIA	12400,543
 BANK OF NAMIBIA Deputy Director	12400
 BANK OF NAMIBIA No	13085,121
 BASIC DATA Product Information Operation Name	11924,6038
+BEST Operation Name Regional Electricity Access	18374
 BK Electricals Nig. Ltd. Third-Party Name	11129
 BOARD OF DIRECTORS' RESPONSIBILITY STATEMENT NamPower	13133
 Back Overall Governance Namibia’s Overall Governance	12340
@@ -190,12 +191,12 @@ COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA Notice	13002
 COMPLAINT Name of Regional Assembly	15721
 COMPONENT Field Action Name Action Description	17157
 COMPONENT Field Action Name Groundwater	17157
-COMPONENTS Current Component Name Current Cost	1284,15612,26
+COMPONENTS Current Component Name Current Cost	1284,15612,26,1437
 COMPONENTS Last Approved Proposed Component Name	15138
-COMPONENTS Name	13027,893,1239,2745
+COMPONENTS Name	13027,893,1239,2745,229,221
 COMPONENTS Name Accelerating Learning	17958
 COMPONENTS Name Building	12228,39
-COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17
+COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17,1254,5
 COMPONENTS Name Economic Shock Responsive Cash	11988
 COMPONENTS Name Emergency	16013
 COMPONENTS Name Grant Support	17000
@@ -251,7 +252,8 @@ Client Information Name of Applicant Postal Address	736
 Client Information Name of Controller	1877
 Client Information Name of Data Controller	1877
 Client Information Name of Fax Number Applicant	736
-Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102
+Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1
+Closing PeriodIndicator Name Result Month	18359
 Cloud Computing BANK OF NAMIBIA No	12967
 CoW NamPower	12399
 Code Feu Mamadou Namory CAMARA	18003
@@ -327,8 +329,8 @@ DATA SHEET Project Name WARCIP APL	15424
 DATASHEET BASIC INFORMATION Operation Name Project	15743
 DATASHEET BASIC INFORMATION Project Name BASIC INFO TABLE	10964
 DATASHEET BASIC INFORMATION Project Name Environmental	11855
-DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164,649,4244,483
-DATASHEET Component Name Cost	11380,169,3942,24,3
+DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164,649,4244,483,2054
+DATASHEET Component Name Cost	11380,169,3942,24,3,2586,197
 DATASHEET Project Name BASIC INFORMATION Burundi	13331
 DDI Document ID DDI COG 2024 FINDEX v02 M WB Producers Name	15844
 DEATH REGISTRATION In Namibia	12337
@@ -478,7 +480,7 @@ Finances Operation Name Skills for Innovation	16675
 Financial Intelligence Centre of Namibia	3714
 Firm Up NamRA Management	13108
 Firm’s Name	13037
-First Name	11861,55,230
+First Name	11861,55,230,6037
 First National Bank of Namibia Ltd	12252
 First and Founding President of Namibia	13097
 Five Hundred Thousand Namibian Dollars	12982
@@ -567,6 +569,7 @@ ID for All The Namibian	3017
 ID. Name	12216
 IDD04 Extended Team Name Title Organization	1284
 IDENTITY SYSTEM In Namibia	12337
+IFC Collaboration No Components Component Name	18198
 IGAD Secretariat Name	15143
 IMMEDIATE RELEASE MEDIA RELEASE NamPower	13155
 IMPLEMENTING AGENCY Implementing Agency Name Type	1284
@@ -670,6 +673,7 @@ Interoperability Framework for Namibia	12961
 Investments Named DPI	3859
 Iresearch Namibia	12478
 Israel Nambi	10765,10
+Issaka Namaya	18117,112
 Ivoire Botswana Ghana Namibia	12278
 JAMII NAMBA	1921
 Jamii Namba	1644,215,62,947,2829,196,230,204,235,158,96,3644,131,542
@@ -700,7 +704,7 @@ LTA Name Project Manager	17260
 La Namibie	6241,7327,58
 Lagos. Named	3187
 Laldemira Nambala	5405,1392
-Last Name	10812,1049
+Last Name	10812,1049,6322
 Last Name Government MEPST	11916
 Last Name Role	11916
 Launching Namibia	3539
@@ -1134,6 +1138,7 @@ Nambuangongo	539,3505,2697,4010
 Namclear	12469
 Namclear Managing Director Fabian Tait	12469
 Name ACCT BAL EMP SAL AMT ACCT-BAL Account Balance	12360
+Name AS Number Peering	18420
 Name Action Description Responsible Unit Time	17157
 Name Action Description Responsible Unit Timeframe	17157
 Name Actual Reports Expected Reports	16971
@@ -1280,7 +1285,7 @@ Namely	1596,3376,2261,3586
 Namentenga	10847,28,5151
 Namentenga Bittou	10875
 Namentenga Centre-Nord	15715
-Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59,942,944,100,543,1266,11,24
+Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59,942,944,100,543,1266,11,24,1242
 Names ARTCI	6340
 Names DIVA	14566
 Names Impilo	3385
@@ -1781,7 +1786,7 @@ Namibia’s Ranking	1013,931
 Namibia’s Root Certification Authority	8250
 Namibia’s Vice-President	1981
 Namibia’steledensity	12325
-Namibie	6241,372,602,78,803,1036,1352,2790,2408,410,1,37,97,148,62,49,41
+Namibie	6241,372,602,78,803,1036,1352,2790,2408,410,1,37,97,148,62,49,41,1795
 Namibie. En	6241,16
 Namibé	10768
 Naming	1989,2269,304,1490,885,383,810,994,383,526,1096
@@ -1861,6 +1866,7 @@ Network NAMBoard National Agricultural Marketing Board	12970
 News Industry Namibia	5407,676
 NewsCentral Media Namibia	5507
 Niassa and Nampula	1228
+Niger Standardized Connection Name	18109
 Nigeria Bangladesh Viet Nam SSA	10985
 Nigeria Senegal Kenya Botswana Namibia Uganda	17870
 Nigeria and Namibia	6426
@@ -1887,7 +1893,7 @@ ORDER ORDER IN NUMBERS NamRA	13044
 ORGANIZATION NAME	2709
 OVERALL RATINGS Name	11988,1932,136,924,179
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1
 Officer Table of Contents INTERPRETATION NAME TYPE	585
 Official Use Only Indicator Name	17000
 Old Namibian ID	12350
@@ -1904,6 +1910,7 @@ Operation Name Digital Acceleration Project Product	14966
 Operation Name Guinea Electricity Access Scale	16654
 Operation Name Guinea-Bissau Guinea-Bissau Human Capital	11560
 Operation Name P172350 Digital Governance and Economy	2473
+Operation Name P172524 Senegal Digital Economy	18359
 Operation Name P175828 Cabo Verde Human	16187
 Operation Name P501343 Strengthening Electricity Services	15969
 Operation Name Strengthen Ethiopia's Adaptive Safety	14038

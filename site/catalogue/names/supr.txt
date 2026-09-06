@@ -26,7 +26,7 @@ Corte Suprema Secretario Fiscalía General Delegado	4209
 Corte Suprema Secretario Fiscalía General Secretario	4209
 Corte Suprema de Justicia	4209,12662
 Cour Suprème	15429
-Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14,58,631,19,118,24,793,63,113,394,1881,2,3,7,12,20,42
+Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14,58,631,19,118,24,793,63,113,394,1881,2,3,7,12,20,42,407
 Cour Suprême Cible	15936
 Cour Suprême de Guinée-Bissau	16633
 Cour Suprême du Burundi	13442
@@ -61,6 +61,7 @@ International Organization of SupremeAudit Institutions	12325
 International Standards for Supreme Audit Institutions	10768
 International Standards of Supreme Audit Institutions	3051,10369,1126,2403
 JUDGES OF THE SUPREME COURT	12920
+LE PRESIDENT DU CONSEIL SUPREME POUR	18097
 La Cour Suprême	17819,1,1,7,33
 Legal Structure The Supreme Court	14742
 Liberia’s Supreme Audit Institution	17364
@@ -88,6 +89,7 @@ Pretoria High Court and Supreme Court of Appeal	14693
 Primer Ministro Segundo Fiscal Corte Suprema	4209
 Propiedad Secretario Fiscalía Corte Suprema Secretario	4209
 Provincial Secretario Fiscalía Corte Suprema Secretario	4209
+Président du Conseil Suprême	18097
 Public Interest Supremacy	3861
 Publique-se. Tribunal Supremo	6462
 Republic of Liberia. The Supreme Court	16943
@@ -103,6 +105,7 @@ SUPREME COURT OF NAMIBIA	12920
 SUPREME COURT STATISTICS	12920
 SUPREME DATA GOVERNANCE AUTHORITY	3861
 SUPREME Docteur Boubou CISSE LE PRESIDENT	17841
+SUPREME POUR LA RESTAURATION	18096
 Salus Populi Suprema Lex Esto	14760
 Secretario de Estado Magistrado Corte Suprema Justicia	4209
 South Africa’s Supreme Court of Appeal	11148
@@ -111,7 +114,7 @@ State Supreme	13948
 State Supreme Court	13948
 State Supreme Courts	13948
 State Supreme and High Court	13948
-Supra	12188
+Supra	12188,5966
 Supranational	11134
 Supratikta	7759
 Suprema Justicia Ministro de Estado Ministro Vocal	4209
@@ -142,7 +145,7 @@ Supreme Council for Planning and Urban Only	15473
 Supreme Council for Research Ethics Committee	15725
 Supreme Council of Digital Society	16212
 Supreme Council of Universities	16255,1293
-Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073,871,77,138,135,332,252,2,33,4,81,13,448,3,115,40,737,64,282,6,3,2,56,38,44,16,20,304,242,93,1008,256,18,95,8,7,165,622
+Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073,871,77,138,135,332,252,2,33,4,81,13,448,3,115,40,737,64,282,6,3,2,56,38,44,16,20,304,242,93,1008,256,18,95,8,7,165,622,409,204
 Supreme Court Act	12920
 Supreme Court Bar	16943
 Supreme Court Bench	13504,3439
@@ -174,6 +177,7 @@ Supreme Court. The Chief Justice and Associate	16943
 Supreme Court. The Court Administrator	16943
 Supreme Court. The Equal Opportunities Act	14742
 Supreme Court. The Magistrate for Rodrigues	14742
+Supreme Court.Commitment	18305
 Supreme Courts	16943
 Supreme Court’s Electronic Diary System	8978
 Supreme Data Governance Authority	3861

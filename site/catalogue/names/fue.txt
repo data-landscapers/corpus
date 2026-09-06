@@ -51,6 +51,7 @@ Export of Fuels	16996
 F Fuel and Energy	13093
 F3. Premix Fuel Application Fee Licence	17250
 FUEL TOLLS ACT	6921
+FUELEX SA	18322
 FUENTE DE LOS RECURSOS MONTO UTILIZACIÓN	4209
 FUENTES FINANCIERAS	4209
 FUERZAS	4209
@@ -95,7 +96,7 @@ Fuel Management and Recordings Finding	13420
 Fuel Marking Program	14985
 Fuel Mix	12399
 Fuel Mix Target	12399
-Fuel Oil	14745,758
+Fuel Oil	14745,758,2819
 Fuel Oil Coal Hydro Photovoltaic Wind	14745
 Fuel Oil ISO Organization for Standardization	16978
 Fuel Oil VAT	1828
@@ -128,6 +129,7 @@ Fuel and Traffic Management	12200
 Fuel and Traffic Management The Ministry of Transport	12200
 Fuel and Utilities	2775
 Fuel-	10829
+FuelMonthly	18305
 Fueland Power	16833
 Fueling H24	17006
 Fueling H24 SNPC	16552

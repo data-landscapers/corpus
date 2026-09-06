@@ -1,6 +1,13 @@
+A1.1.1. Elaborer	18286
+A1.3.2. Elaborer	18286
+A1.3.5. Elaborer	18286
 A1O1R1.1 Elaboration	15580
 A1O1R1.2 Elaboration	15580
 A1O2R2.2 Elaboration	15580
+A1OS1-A2 Elaboration	18121
+A1OS3-A1 Elaboration	18121
+A2.1.2. Elaborer	18286
+A2.3.1. Elaborer	18286
 A2O1R1.2 Elaboration	15580
 A2O1R3.2 Elaboration	15580
 A2O2R1.3 Elaboration	15580
@@ -19,6 +26,11 @@ A3.1.2.7.NA Elaborer	10858
 A3.1.3.1 A3.1.3.4 A3.1.3.5.NA OS3.2 Elaborer	10858
 A3.2.1.6 A3.2.1.7 A3.2.1.9 Elaborer	10858
 A3.2.3.8 Elaborer	10858
+A3.3.2 Elaborer	18286
+A4.1.2 Elaborer	18286
+A5.3.1. Elaborer	18286
+A5.3.3. Elaborer	18286
+ACTIVITES Elaboration	18286
 ANDF. VIII.4.3 Elaboration	10876
 APIs Elastic	13676
 AREEN Elaboration	13433
@@ -67,6 +79,8 @@ Colegio María Auxiliadora de Ela Nguema Malabo	4209
 Colegio Nacional Acacio Mane Ela Malabo	4209
 Colegio de María Auxiliadora de Ela Malabo	4209
 Comité de Elaboración	16898
+Commission Domaniale Elargie	18293
+Commissions Domaniales Elargies	18293
 Constitution Elaborate	12201
 DGI A3.1.2.8.NA A3.1.2.9.NA Elaborer	10858
 DGI DGI A3.2.3.3 Elaborer	10858
@@ -87,6 +101,7 @@ EUROS Gouvernement PTF Total A2O3R1.2 Elaboration	15580
 EXPLANATIONS AND ELABORATION RELATING	16978
 Ela Bile Fulgencio Abaga Micha Nzang	16864
 Ela Nguema	4209
+Elabanjo	18154
 Elaboración	1701,2508,12689,71
 Elaborada	2816
 Elaborado	11544,5376
@@ -96,7 +111,8 @@ Elaborar Planes de Acción	1701
 Elaborate	5677,5152,411,961,2727,625,106,1498,713
 Elaborate the FM	11855
 Elaborating	14211,2946
-Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1,496,602,5,26,12,59,20,26,27,10,126,85,80,182,170,164,112,106,1095,2,1,15,13,28,6,38,1,61,70
+Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1,496,602,5,26,12,59,20,26,27,10,126,85,80,182,170,164,112,106,1095,2,1,15,13,28,6,38,1,61,70,22,22,50,33,87,31,2
+Elaboration Textes	18322
 Elaboration de La StartUP Act	17907
 Elaboration des DAO	10975
 Elaboration des Equilibres	17945
@@ -107,6 +123,7 @@ Elaboration des Tableaux	17945
 Elaboration du Budget	4870
 Elaboration du Budget Annuel	10876
 Elaboration du Cadre	15673
+Elaboration du DGPPE	18291
 Elaboration du Draft du PS-SNISS	17845
 Elaboration du PSNSC	15712
 Elaboration du PTA	10876
@@ -132,22 +149,23 @@ Elaboração de Estudos de Impacte Ambiental	11390
 Elaboração de Lei de Protecção de Dados	2816
 Elaboração de Projetos Educativos	15694
 Elabore	14662
-Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40,2131,2,68,26,56,88,26,47,63,522,159,1295,21,27,10,195
+Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40,2131,2,68,26,56,88,26,47,63,522,159,1295,21,27,10,195,26,66,122,6,9
 Elaborer des PPP	13306
 Elaborer la Stratégie Nationale de Développement	16620
 Elaborer le Bulletin INSTAT	17842
 Elaborer le Glossaire	17978
+Elaborer le POBA	18302
 Elaborer le PTBA	16012
 Elaborer le RAP	15569
-Elaboré	15474,848
+Elaboré	15474,848,1797,167
 Elaborée	1703
 Elactronic	15363
 Elaeis	16024,1116
 Elaf Alnayer	15139
 Elanyo Emegnimo	15298
 Elarbi Touahria	16263
-Elargir	1005,12285
-Elargissement	7797,2915,5616,1157,416
+Elargir	1005,12285,5001
+Elargissement	7797,2915,5616,1157,416,390,28
 Elargissement des Exclusions	16328
 Elasha Biyaha	5941
 Elasri Sid Ahmed	15608
@@ -165,6 +183,7 @@ Emily Elaine Gardner	11560
 Equipe Elaboration CS CS CS CS	17844
 Etat Moyen Terme Elaborer	15512
 Etude Bamako Elaboration	18077
+Extrants- Actions IMPACT Elaboration	18286
 Facilité Elargie de Crédit	1300,14540
 Facilité Elargie de Crédit LOLF	15840
 Facilité Elargie de Crédit. En	18063
@@ -176,6 +195,7 @@ Gumersindo Ela Esono	14304
 Hagninou Elagnon Venance Donnou	16135
 House. Elaborating	5855
 II-1. Elaboration	16299
+II. ELABORATION OF NAP	18305
 INHERENT RISK H S Budgeting Elaboration	15659
 INS A1O1R1.2 Elaboration	15580
 INS A2O1R1.2 Elaboration	15580
@@ -205,6 +225,7 @@ NCRA. Ela	2784
 NGEL FRANCISCO ELA NGOMO NCHAMA	1855
 OE10. Elaborar	11379
 OE2. Elaborar	11379
+OS.2. Elaborer	18121
 Ondoua Ela	16593
 Open Data. Elargissement du Comité de Pilotage	9406
 PARTIES PRENANTES ET ELABORATION	13482
@@ -238,8 +259,13 @@ SECTOR STRATEGIC PLAN ELABORATION PROCESS	14935
 SETIC Elaborate	1284
 SP-SSP ELABORATION PROCESS	14942
 SSN A2O3R1.2 Elaboration	15580
+STRUCTURE DES INSTRUMENTS DE Elaboration	18286
 Sahel ProPEP Programme Prioritaire Elargi du Président	17907
 TDR PARA A ELABOARAÇÃO DE PGAS	11390
+UAM A1OS3-A3 Elaboration	18121
+Université Abdou Moumouni A.1.OS.3-A61 Elaboration	18121
+Université Abdou Moumouni A1OS3-A2 Elaboration	18121
 Utilisateurs de Elaborer	18077
+VI.1. DEMARCHE SUIVIE POUR ELABORER	18291
 VIII.4.3 Elaboration	10876
 Vaccins Le Programme Elargi de Vaccination	15423

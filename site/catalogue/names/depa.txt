@@ -11,6 +11,7 @@ AI Opportunity Partnership U.S. Department of State	6849
 AI and Budgetary State Department	7548
 AI-Powered Document Verification Department of Home Affairs	10347
 ALECSO’s ICT Department	2958
+ANACIM's Meteorological Operations Department	18309
 ANNEXURES DEPARTMENT OF HOME AFFAIRS	11986
 ASYCUDA Mobile App The Department of Customs	15478
 AU Department	12977
@@ -262,6 +263,7 @@ DCNI Department of Critical National Infrastructure DML	11857
 DEDS Departamento de Estatísticas Demográficas	15535
 DELEGATIONS DEPARTEMENTALES Sécurité Capitaine	15524
 DEPA and Article	1243
+DEPA. Son	18286
 DEPART	4209
 DEPART DU DERNIER VOL	2556,995,1106,1302,1374
 DEPARTAM. ASUNTOS POLIT. Y ADMTIVOS	4209
@@ -479,7 +481,7 @@ Departements	16611
 Departing	17780
 Departing Kenyans	2775
 Departing Visitors	2775
-Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104,22,64,5,4,33,4,5,15,254,30,9,6,9,1,3,2,28,54,5,16,15,10,9,30,33,8,135,11,34,112,82,392,273,43,103,64,44,46,22,99,9,66,3,11,2,2,4,4,2,2,3,8,12,5,57,11,38,5,275,235,79,14,129,67,157,758,230,3,7,5,54,56,13,4,3,7,172,71,4,3,508
+Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104,22,64,5,4,33,4,5,15,254,30,9,6,9,1,3,2,28,54,5,16,15,10,9,30,33,8,135,11,34,112,82,392,273,43,103,64,44,46,22,99,9,66,3,11,2,2,4,4,2,2,3,8,12,5,57,11,38,5,275,235,79,14,129,67,157,758,230,3,7,5,54,56,13,4,3,7,172,71,4,3,508,411,155
 Department ALECSO Charter	2958
 Department Annual	7548
 Department Anti-Corruption Bureau	12241
@@ -517,6 +519,7 @@ Department Mobile	17157
 Department News China	13309
 Department Objectives	12407
 Department Of Home Affairs	6387
+Department Oumar Konté ANACIM Head of Forecasting	18309
 Department Prepared By Bahrom Shukurov	10997
 Department Print	12253
 Department Programme	11230
@@ -532,7 +535,7 @@ Department Solar-powered	17157
 Department Subsidize	17157
 Department The Department	13951
 Department Waste Support	17157
-Department and Agencies	3907,12692
+Department and Agencies	3907,12692,1606
 Department and Agency	11854,5295
 Department and SITA	9684
 Department and Unit Heads	17364
@@ -545,7 +548,7 @@ Department for E Government Short	12917
 Department for ICT	6432
 Department for Immigration and Citizen Service	12151
 Department for Immigration and Nationality	13979
-Department for International Development	6982,3859,1327,4689
+Department for International Development	6982,3859,1327,4689,1247
 Department for Refugee Services	12227
 Department for Science	3654,7481
 Department for Urban Planning and Development GIZ German	15473
@@ -786,7 +789,7 @@ Department of Information and Communications Technology	1737
 Department of Information and Coordination	16833
 Department of Information and Mobilization	12984
 Department of Information and Technology Management	12325
-Department of Infrastructure	8564,2689
+Department of Infrastructure	8564,2689,7096,21
 Department of Infrastructure and Energy	4123,8986,371
 Department of Internal Affairs	13947
 Department of International Cooperation	13983
@@ -818,6 +821,7 @@ Department of Library	8022
 Department of Library and Information Science	8022
 Department of Lifelong Learning	12345
 Department of M'Passa	6818
+Department of Maintenance	18370
 Department of Mathematics and Computer Science	5097
 Department of Mechanical and Mechatronic Engineering	12178
 Department of Meteorological Services	12545,73
@@ -863,6 +867,7 @@ Department of Public Enterprise	11224
 Department of Public Enterprises	11224
 Department of Public Health	8604,4002
 Department of Public Prosecution	12977
+Department of Public Sector Transformation	18305
 Department of Public Service	12354,683
 Department of Public Service and Administration	1810,102,5146,38,3006,1091,747,46
 Department of Public Services and Administration	11193
@@ -886,6 +891,7 @@ Department of Revenue	17011
 Department of Revenue Management	12951
 Department of Roads	7167,1129,4255
 Department of Roads Fund	13420
+Department of Rural Development SE	18309
 Department of Schools and Formal Education	12345
 Department of Science	5533,947,500,518,1104,524,1680,415,23,21,16,344,361,689
 Department of Science and Education	6948
@@ -908,7 +914,7 @@ Department of Social Welfare and Royal Eswatini Police	12977
 Department of Social Welfare. Any	13332
 Department of Space and Satellite	15167
 Department of Special Education	12661
-Department of State	4165,1527,1084,4229,999,1750,291,2913
+Department of State	4165,1527,1084,4229,999,1750,291,2913,1244
 Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
 Department of State Security	11277
@@ -924,6 +930,7 @@ Department of Technology	11224
 Department of Telecommunications	17240
 Department of Telecommunications and Digital Economy	11965
 Department of Telecommunications and Postal Services	396,6436,2065
+Department of Territorial Communities	18305
 Department of Tertiary Education Programmes	13310
 Department of Tourism	1188,5679,1,3190,44,1134
 Department of Trade	4242,391,553,686,960,335,877,1085,806,1280,6,14,59,6284
@@ -996,7 +1003,7 @@ Departmental Technical Committee	12138
 Departmental and Agency Information	16885
 Departmental-Papers-Pol-	961
 DepartmentofInformatics	8603
-Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,110,45,107,247,45,717,921,200,405,1835,51,225,31,4,17,308,309,3,136,56,96,6,6,57,27,12,92,192,14,93,30,207,81,8,2,15,3,15,55,20,15,27,190,2,6,11,23,5,22,5,63,197,900,128,44,1,2,8,16,1,4,3,8,25,42,3,4,1,10,83,75,86,57,312,14,19,21,5,35,68,613,9,128,230,232,10,17,25,36,2,1,3,24,1,33,114,6,9,35,86,12,689
+Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,110,45,107,247,45,717,921,200,405,1835,51,225,31,4,17,308,309,3,136,56,96,6,6,57,27,12,92,192,14,93,30,207,81,8,2,15,3,15,55,20,15,27,190,2,6,11,23,5,22,5,63,197,900,128,44,1,2,8,16,1,4,3,8,25,42,3,4,1,10,83,75,86,57,312,14,19,21,5,35,68,613,9,128,230,232,10,17,25,36,2,1,3,24,1,33,114,6,9,35,86,12,689,269,154
 Departments Accountant General	14847
 Departments Achieved Presidential Hotline Members	11224
 Departments Affected By Supplementary Budget	2428
@@ -1013,7 +1020,7 @@ Departments Systems	14750
 Departments Table	14729
 Departments The Ministry of Information Technology	14750
 Departments The Ministry of Public Service	14750
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572,388,29,54,1
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
 Departments and Agencies Independent	7548
@@ -1028,7 +1035,7 @@ Departments and Agencies MISO Management Information System	13005
 Departments and Agencies ML	958
 Departments and Agencies ML Machine Learning MoH	12240
 Departments and Agencies MM Materials Management MoFEDIP	13420
-Departments and Agencies MO Market Operator MTS	12062
+Departments and Agencies MO Market Operator MTS	12062,6124,31
 Departments and Agencies MRA	13053
 Departments and Agencies MS Microsoft MTBF Mean	13185
 Departments and Agencies NDS National Development Strategy	13359
@@ -1088,7 +1095,7 @@ DfID U.K. Department for International Development EFA	17849
 Difusão Departamento de Informação	4044,7377
 Digital Development Department	1264
 Digital Health Department	12291
-Digital Knowledge Hub Department	10764,80,4627
+Digital Knowledge Hub Department	10764,80,4627,2652
 Digital Knowledge Hub Department Partnerships for Digital	11563,6180
 Digital Marketing Department	17648
 Digital Transformation Directorate Department	12333
@@ -1106,6 +1113,7 @@ Director of Monetary Policy Department	6938
 Director of Systems and Information Department Omar Makhlouf	15992
 Director-General DEPARTMENT OF HOME AFFAIRS	11986
 Directorate and Department	15604
+Directorate for Maternal and Child Health Department	18370
 Directorates and Departments	9469
 Directorates and Departments of ECOWAS Commission	9194
 Directors and Heads of Departments	11131,3
@@ -1162,9 +1170,11 @@ Enhanced Department of Information Technology	12529
 Enterprises Department	10823
 Environmental Health Departments	17686
 Epidemiological Surveillance Department	12003
+Equipment and Maintenance Department	18370
 Eritrean Customs Department	14076
 Essentially the Statistics and Data Processing Department	16833
 Establishing the Liberia Licensing Department The FDA	16843
+Establishment Department	18293
 Estado Departamento	16898
 Estado. El Departamento de Tesorería	17022
 Estatística Departamento de Estudos	10766
@@ -1334,6 +1344,7 @@ Governor. The Education Department	15604
 Green Energy Department	12195
 Green ID Book. The Department	11218
 Growth Department. Emissions	11136
+Gueye ANACIM Head of Agrometeorology Department	18309
 Gwaske. The ICT Service-Wide Department	10063
 H. Training The Department of Social Welfare	12977
 HEADS OF DEPARTMENTS	17235
@@ -1366,12 +1377,13 @@ Human Development Department of JICA. Welcoming	17735
 Human Resource Department	12240,1237,1069
 Human Resource Management Department	17235
 Human Resource Management and Development DOI Department	12917
-Human Resources Department	13504
+Human Resources Department	13504,4866
 Human Resources Department TRAINING PROGRAMS	12970
 Human Resources Departments	13533
 Human Resources Management Department	17235
 Human Rights Department	16958
 Humanitarian Affairs and Social Development Department	12977
+Hygiene Department	18370
 I. All Department of Energy	16851
 ICT Department	34,9091,4295,1077,382
 ICT Department Cordination	6946
@@ -1513,6 +1525,7 @@ Local Government Department	2104
 Logistics Department	11131,3
 Long Term Department of E Government P7	12917
 Los Departamentos Ministeriales	16893,5
+M&E Department	18104
 MANDATE DEPARTMENT OF HOME AFFAIRS	11986
 MANDATE OF THE DEPARTMENT The DOW	11193
 MDA. The Head of Department	16858
@@ -1572,9 +1585,12 @@ Mining Cadastre Department	10873
 Minister of Finance. The Department of Home Affairs	11212
 Minister of Land Reform and Rural Department Mzwanele	11260
 Ministerial Department	10980
+Ministerial Department Implementing Agency Senegal Ministry	18359
+Ministerial Department Implementing Agency Senegal Republic	18359
 Ministerial Department Page	1284
 Ministries Department and Agencies	3862
 Ministries Departments and Agencies	11951
+Ministries Departments and Agencies of Government	18205
 Ministries Departments and Agencies. Signed Henrietta Okokon	11951
 Ministries Departments and Authorities	12214
 Ministries and Departments	1988,9733,1235,16,151,410,775,238,173,7,16,3,5,36,4,7,49
@@ -1690,7 +1706,7 @@ Office Suite. Quick Win Department	12917
 Once the Department	13559
 Opening of Bids The Departmental Bid Committee	14778
 Operational Support DEPARTMENT OF HOME AFFAIRS	11986
-Operations Coordination Department	10764,80,719,6180
+Operations Coordination Department	10764,80,719,6180,380
 Operators and Service Providers Department	3696
 Organisation President Commissioners Departments	9067
 Os Departamentos	11449
@@ -1698,6 +1714,7 @@ Outpatient Department	771,11608,597
 Outpatient Department Services Utilization	16971
 Overview of Operations The Department	11218
 Oxford Department of International Development	206
+Oxford University Economics Department	18318
 PART I About the Registrar General’s Department	14761
 PGCL DEPARTMENTS	11863
 PIU's Environmental and Social Safeguards Department	12253
@@ -1714,7 +1731,7 @@ PS State Department of ICT and Digital Economy	1245
 Palais du DEPAR TEMENTALES Peuple	15488
 Parlamento Jefe Departamento Dirección General Secretario	4209
 Parliamentary Departmental Committee	14932
-Partnerships for Digital Development Department	10764,80
+Partnerships for Digital Development Department	10764,80,7279
 Pascual Afugu ESONO Jefe de Departamento	16898
 Payment System Department	6938,8085,2096
 Payment Systems Department	12364,1168
@@ -1728,6 +1745,7 @@ Payments and Settlement Department. Requests	12542
 Peace and Security Department	5825,8686
 Peace and Security Department African Union Border	14511
 Pediatric Department	16896
+Penitentiary Administration and Human Rights Department	18125
 Pensions Department	12663,1883
 Pensions Department of The National Treasury	14546
 Percive Chinyama Director Standards Department SMART	13308
@@ -1800,6 +1818,7 @@ References Republic of South Africa. Department of Home	6512
 Refugee Department	13231
 Regarding the Prisons Department	17105
 Regional Department West II	11909
+Regional and Departmental Flood Management Committees	18198
 Registrar General's Department	11032,1032,2783,1754
 Registrar General's Department Com	11480
 Registrar General's Department Dodoo Lane	15816
@@ -1953,7 +1972,7 @@ Staffing. The MASFAMU Administrative and Finance Department	10768
 Standards Department Document Classification	12360
 Standards and Creation of Compliance Department Documents	12360
 Standards for Child Residential Facilities The Department	12977
-State Department	1038,196,1278,357,1296,2,35,15,43,41,1,47,98,25,202,474,109,109,90,94,766,218,256,144,614,202,632,827,125,454,250,30,378,81,186,1027,2784,22,99,9,21,3127
+State Department	1038,196,1278,357,1296,2,35,15,43,41,1,47,98,25,202,474,109,109,90,94,766,218,256,144,614,202,632,827,125,454,250,30,378,81,186,1027,2784,22,99,9,21,3127,400
 State Department Development	7548
 State Department For Early Learning	899
 State Department For Immigration and Citizen Service	12151
@@ -2052,6 +2071,7 @@ Strategy. Department of Social Development	11188
 Sub Department Amount Budgeted	14738
 Sub-Saharan Africa. IMF Departmental Paper. International	10997
 Subdivision Department	15473
+Suivez-Nous Departments Actualités Agenda Evènements	18409
 Superior Courts Department. As the Commission	13504
 Supervision Department	9774,3540,1430,2491
 Supervision Department MOBILE MONEY REGULATIONS	14880
@@ -2076,6 +2096,7 @@ Tanzania Immigration Department	2119
 Tanzim Department	15473
 Tax CSD Customs Services Department DTD	14985
 Taxation and Financial Crimes Department	13466
+Taxation and State Properties Department	18293
 Teaching Service Department	12726
 Team OPD Open Patient Department RHIS	3791
 Technical Education Central Department	15604
@@ -2124,6 +2145,7 @@ U.S. Department of State’s Bureau of International Narcotics	17330
 U.S. Department of War	5287
 U.S. Department ofState	4153
 U.S. State Department	4961,1968,1550,4666,1760,2652
+U.S. State Department Senior Bureau Official	18209
 U.S. State Department’s Jeremy P. Lewin	17110
 U.S. Treasury Department	16984
 UGF DELEGATIONS DEPARTEMENTALES	15901
@@ -2168,7 +2190,7 @@ United States Department of Energy. Retrieved	12325
 United States Department of State	3972,181,11,38,58,41,1051,1454,9095,1071,265,560
 United States Department of State Published	15092
 United States Department of State Search	16972
-United States Department of State URL	16972
+United States Department of State URL	16972,1230
 University of Oxford's Department of Computer Science	8529
 University of Pretoria Department of Library Services	8022
 University of Pretoria. The Department	11224
@@ -2191,6 +2213,7 @@ Waste Management Department	17157
 Water Department Loses Ksh.22 Billion	2428
 Water Resources Department	14162
 Water Services Department	14143
+Weather Observation Department Mme Adama Niang	18309
 Weights and Measures Department	17368
 Weights and Measures Department. Secka	17368
 Welfare Departments	16867

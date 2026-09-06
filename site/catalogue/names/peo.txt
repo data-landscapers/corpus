@@ -63,6 +63,7 @@ Closing Period Revise People	4653
 Collection People	15658
 Collection Responsibility for Data MoHAIS Collection People	1867
 Cook Islands Fiji Kiribati Lao People	13042
+Cultural Cooperation and People	18378
 Currently Relevant Indigenous Peoples	10829
 Currently Relevant Resources Indigenous Peoples	1284
 Currently Relevant. ESS7 Indigenous Peoples	14937
@@ -203,8 +204,8 @@ Indigenous People Planning Framework	13331,2041
 Indigenous People Policy	15372
 Indigenous People Policy Framework	15518
 Indigenous People and Ethnic Minorities	15663
-Indigenous Peoples	1243,624,121,1616,7164,61,134,1,321,132,143,345,232,1386,1387,462,146,35,48,57,3,483,792,178
-Indigenous Peoples OP	11525,330,282,3274
+Indigenous Peoples	1243,624,121,1616,7164,61,134,1,321,132,143,345,232,1386,1387,462,146,35,48,57,3,483,792,178,1084,176
+Indigenous Peoples OP	11525,330,282,3274,2693
 Indigenous Peoples Plan	10829,561,3982,139,7
 Indigenous Peoples Planning Framework	10964,4408,139,42,48
 Indigenous Peoples Planning Framework IRR Internal	15511
@@ -275,7 +276,8 @@ Number of People	11905
 Number of People Employed	15136
 Number of People Registered for National ID	12241
 Oct-2024 People	16994
-Official Use Only People	7877
+Oct-2025 People	18350,9
+Official Use Only People	7877,10473,9
 Online Public Services for People	12214
 Optimistic People	5815,6386
 Outputs People	12241
@@ -310,11 +312,12 @@ PU and PEOU	8130
 Pacific T5 Building Afghanistan Dem. People	10764
 Palestinian Arab People	17438
 Palestinian People	7060
-People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,12,14,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32,86,415,140,17,11,4,4,4,2,12,12,14,49,39,85,6,13,26,3,10,4,13,2,23,56,23,10,11,85,49,49,57,48,31,2,38,1,34,68,37,1,310,44,19,47,7,58,43,1,141,256,120,110,61,7,3,10,26,20,1,6,11,13,21,53,22,10,20,2,13,2,3,38,399,29,98,16,1,18,12,56,83,35,58
+People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,12,14,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32,86,415,140,17,11,4,4,4,2,12,12,14,49,39,85,6,13,26,3,10,4,13,2,23,56,23,10,11,85,49,49,57,48,31,2,38,1,34,68,37,1,310,44,19,47,7,58,43,1,141,256,120,110,61,7,3,10,26,20,1,6,11,13,21,53,22,10,20,2,13,2,3,38,399,29,98,16,1,18,12,56,83,35,58,171,65,157,4
 People Act	14788
 People Affected	12977
 People Affected Households Affected B. Hailstorms	12977
 People Carrying the Risk Risk-sharing	6947
+People Contact The Indian	18378
 People Contenedores People Young	17101
 People Create	14674
 People Daily	6231,1638
@@ -389,6 +392,7 @@ People's National Army of Algeria	16331
 People's Office	12512
 People's Own Savings Bank	6996
 People's Palace	4977,5019,3915,34,3648
+People's Parliament	18244
 People's Perspectives	445,11883
 People's Republic	13685
 People's Republic of China	184,74,533,2650,21,20,3970,1176,2507,1971,206,2,371,1386,201,127,207
@@ -455,13 +459,15 @@ Policy for Indigenous People	12567
 Powering Africa’s Potential Through Its People	10964
 Preamble Whereas the Eritrean People	14127
 Prevention of People Trafficking and People Smuggling	12910
+Procès Khalifa Sall People	18331
 Project Steering Committee PwDs People	1988
 Protecting People	8202
-Protecting Poor and Vulnerable People	10964,941,1426
+Protecting Poor and Vulnerable People	10964,941,1426,4970
 Put People	14079
 Putting People	12986
 REPORTED NUMBER OF PEOPLE REQUIRING INTERVENTIONS	16892
 REPRESENTATION OF THE PEOPLE Electoral Systems	13294
+REPUBLIC OF SENEGALOne People	18305
 RESILIENT USE OF BROADBAND INTERNET People	3604
 Reduced Number of People Suffering Financial Hardship	10776
 Refugees and Internally Displaced People	15810
@@ -482,6 +488,7 @@ Safe People	12419
 Sarker D. Financial Inclusion of Disabled People	12231
 Science and Community People	11332
 Second International Decade for People of African Descent	14751
+Senegalese Federation of Associations of Disabled People	18305
 Services Provided and People Assisted	12977
 Shaama. Landless People’s Movement	12378
 Sibaya People Parliament	11131
@@ -516,6 +523,7 @@ Toward More People-Centered Service Delivery	984,11679,1
 Types of Disasters and Number of Affected People	17257
 UNDERSTANDING PEOPLE’S LIVES	418
 Uganda Peoples Defence Forces	4351
+Underserved Peoples	18370
 United Nations’ International Decade for People of African	14742
 Unity of Libya Internally Displaced People Industrial	16916
 VERSION PEOPLE'S DEMOCRATIC REPUBLIC OF ALGERIA	15679
@@ -528,7 +536,7 @@ Western Africa People	16144
 Windhoek People-Centred Smart City Strategy	4495,2614,1861
 World Bank Group and People's Bank of China	11130
 X Indigenous Peoples OP	17441
-Year People	2712,1976,3189,2993,1101,4734
+Year People	2712,1976,3189,2993,1101,4734,1650,4
 Year Revise People	16032
 Year Value Indicator Name People	6579
 Young People	14067,485,695

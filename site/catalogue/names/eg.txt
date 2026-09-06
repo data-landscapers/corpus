@@ -8,6 +8,7 @@ AI-CAF Governance Ecosystem Infrastructure Stage-1 Egypt	15713
 AI-CAF Talent Data Technology Stage-1 Egypt	15713
 AI. Egypt	15713
 ALGERIA BURUNDI COMOROS DJIBOUTI EGYPT GAMBIA	17242
+APS Réinstallation EGC COMMUNIQUE DE PRESSE	18371,12
 ARAB REPUBLIC OF EGYPT	15473
 ASSOCIATION EGNONGO DEVELOPPEMENT	16456
 Ababa Middle EGDI M2	10840
@@ -55,7 +56,7 @@ Arab Republic of Egypt. ARTICLE	15484
 Arab Republic of Egypt. Case Study	15663
 Arab Republic of Egypt. The Executive Regulations	15484
 Arab Republic of Egypt. Washington	15725
-Arab States Asia-Pacific Egypt Thailand Indonesia	10844
+Arab States Asia-Pacific Egypt Thailand Indonesia	10844,7279
 Arab States Egypt International Telecommunication Union	10764
 Arabic. The Egyptian	15604
 Architecture Framework UN EGDI United Nations	12917
@@ -103,7 +104,7 @@ CONSUMPTION OF EGGS	17127
 COST IMPLEMENTING INSTITUTIONs EGD	12453
 CPs EGD	12453
 CSI CSOC DPF DTX ECGS EGFT	11134
-Cairo Egypt International Telecommunication Union	10844
+Cairo Egypt International Telecommunication Union	10844,7279
 Cairo. Arab Republic of Egypt	15424
 Cameroon Low Low Egypt Conditional Conditional	6593
 Caroline Egesa	6121
@@ -218,6 +219,8 @@ EG.2007.015040 Zambia Police Service Commission	12467
 EG.ELC.ACCS.RU.ZS	16626
 EG.ELC.ACCS.ZS	4127,3986,4263,298,3051,1217
 EG60KWHEDG	6517
+EGA L	18322
+EGA L SA U Avis	18322
 EGALITE DE TRAITEMENT DES USAGERS	15394
 EGALITE VENTURES LTD Data Controller INST-487728D552E	7167
 EGALITE VENTURES LTD Data Processor INST-487728D552E	7167
@@ -382,14 +385,24 @@ Eg. Human	15845
 Egab. Edited	16773
 Egaddu	12874
 Egal Accès	17861
-Egalement	1648,1007,593,12231,233,2170,3
-Egalité	6959,8984,22,240,90,1584
-Egalité de Genre	16323
+Egalement	1648,1007,593,12231,233,2170,3,401
+Egalité	6959,8984,22,240,90,1584,407,5,41,14
+Egalité Homme-Femme	18286
+Egalité de Genre	16323,1963
+Egalité de Genre DINFEL Directoire National des Femmes	18286
+Egalité de Genre La SNEEG	18286
+Egalité de Genre P1	18291
+Egalité de Genre TBPS Taux Brut de Préscolarisation	18286
+Egalité de Genre. Pour	18286
 Egalité du Genre	15383
+Egalité du Genre SODAGRI	18291
 Egalité du Genre URL	15383
-Egard des Femmes	10826
+Egard des Femmes	10826,7274,186
+Egard des Femmes CENAF Centre National	18286
+Egard des Femmes. CESOC	18100
 Egas Daniel	8003
 Egaylipket’.s NHauntidorneadsl AoI	15713
+Egbado North	18174
 Egbedero	10049
 Egbedore	10049
 Egbedore LGA	10049
@@ -398,8 +411,9 @@ Egbert Kanema	12478
 Egbertsys	12478
 Egbi and Uzodinma	7907
 Egbin	10157
-Egbin 1	12062
+Egbin 1	12062,6124,31
 Egbin 1 Kainji 1 Ihovbor 2 Jebba 1 Delta 1 Zungeru 1	12062
+Egbin 1 Kainji 1 Zungeru 1 Jebba 1 Ihovbor 2 Delta 1	18217
 Egbin Power Plant. Egbin	10157
 Egboye	2595
 Egbunike	9129
@@ -450,7 +464,7 @@ Egovernment Survey	11379,4153
 Egoïsme	6959
 Egtech	12478
 EgypWĕV	15604
-Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472,291,107,193,5,435,108,68,10,178,6,20,129,135,17,11,3,16,147,2,44,57,11,32,4,91,89,63,24,64,10,51,31,36,2,9,2,11,8,24,3,85,5,1,17,7,22,7,1,19,30,1,3,1,1,6,69,20,4,9,42,18,18,21,15,17,13,6,17,10,36,6,3,30,52,14,13,44,10,24,19,11,49,1,29,121,6,8,10,7,23,70,218,2,132,22,193,85,216,20,78,92,1,44,2,7,20,13,8,141,9
+Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472,291,107,193,5,435,108,68,10,178,6,20,129,135,17,11,3,16,147,2,44,57,11,32,4,91,89,63,24,64,10,51,31,36,2,9,2,11,8,24,3,85,5,1,17,7,22,7,1,19,30,1,3,1,1,6,69,20,4,9,42,18,18,21,15,17,13,6,17,10,36,6,3,30,52,14,13,44,10,24,19,11,49,1,29,121,6,8,10,7,23,70,218,2,132,22,193,85,216,20,78,92,1,44,2,7,20,13,8,141,9,297
 Egypt AI	15713
 Egypt AI Rating	15713
 Egypt ARB LMI	17743
@@ -625,7 +639,7 @@ Egypt and Orange Egypt	2968,1227
 Egypt and Rockville	15725
 Egypt and Rwanda	3280
 Egypt and SAP Deepen Ties	5607
-Egypt and South Africa	949,4674,4586,1648,5787
+Egypt and South Africa	949,4674,4586,1648,5787,528
 Egypt and Sudan	16916
 Egypt and Switzerland	14101
 Egypt and Tanzania	7506
@@ -739,7 +753,7 @@ EgyptAir	562
 EgyptAugust	5342
 EgyptGenomeProject	15725
 EgyptWide for Human Rights	11079
-Egypte	8237,2738,2722,851,71,1125,1734,401
+Egypte	8237,2738,2722,851,71,1125,1734,401,417
 Egypte International Telecommunication Union	17856
 Egypte L’Égypte	11761
 Egyptian	1213,46,543,603,1046,74,433,163,203,133,11,160,34,221,91,45,14,309,265,262,448,211,150,260,77,30,380,81,10,19,1,540,3,141,1,485,64,562,139,62,60,5,3,189,35,1,1,728,244,1,279,83,543,35,481,18,100,2349,236,469,69,11,11,8,27,59,26,59,1,49,1,3,1,7,89,73,18,21,32,19,15,2,46,6,3,82,71,10,43,11,49,165,10,1158,1,28,18,7,20
@@ -1160,6 +1174,7 @@ North and Eastern Mediterranean. Egypt Healthcare Authority	15683
 Northern Upper Egypt	15473
 Notice of EGM	4896
 O EGDI	11569
+O RYX GA Z SEN EGA	18322
 OCP22 Africa eGP.pdf	17037
 OECD AI Principles. Egypt	15713
 OECD Artificial Intelligence Review of Egypt	16212
@@ -1180,6 +1195,7 @@ PROFILING EGYPT’S LABOR MARKET	16266
 PSL and Egis	12319
 PalArch’s Journal of Archaeology of Egypt	4432
 Part of Egypt's National Spectrum Strategy	4974
+Partenariat EDIFIS Egalité	18346
 Partnership Education Sector Plan for Egypt Education	15604
 Paulo Very High EGDI V2	10840
 People's Democratic Republic Middle EGDI M-OSI	10840
@@ -1282,6 +1298,7 @@ Sutherland Egypt	11162
 Sutherland Egypt Concentrix Egypt President Amr	11162
 Sydney Very High EGDI VH	10840
 System de Telecom Egypt. Il	17694
+T SEN EGA L	18322
 T-I20-1 STEM Program Egypt	15713
 T-I21-A1 AI Qualification and Certification System Egypt	15713
 T-I21-A2 AI Talent Management The Egyptian	15713
@@ -1415,3 +1432,5 @@ ZamPost EGD	12453
 Zambia's EGDI	12453,892
 Zimbabwe Egypt CRVS Journey	16520
 Zimbabwe. Econet EGM	4896
+Zungeru 1 Egbin 1 Jebba 1 Delta 1 Kainji 1 Shiroro 1	18186
+Zungeru 1 Egbin 1 Kainji 1 Jebba 1 Ihovbor 2 Delta 1	18217

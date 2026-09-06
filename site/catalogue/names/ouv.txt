@@ -32,14 +32,16 @@ DONNEES OUVERTES N	16618
 Dados da Ouvidoria	11521
 Distance FOADeL Formation Ouverte	15541
 Données Fermées Données Partagées Données Ouvertes	747,1,1236
-Données Ouvertes	13841,3997
+Données Ouvertes	13841,3997,468
 Données Ouvertes Liées Algériennes	15407
 Dossier des Ouvrages Exécutés	17846
 E. Ouverture	13524
 EN DÉMEURANT OUVERTE AUX INITIATIVES RÉGIONALES	15624
 Energie des Ouvrages du Haut-Bassin du Fleuve Sénégal	17833
 Enregistrement Publication Enchères Ouverture	13341
+Enseignement Formation Ouverte	18121
 Escalier Ouvrage	15555
+Formation Ouverte	18121
 GESTION DE L’ENERGIE DES OUVRAGES	17833
 GOUVERNEMENT OUVERT LOCAL	15712
 GOUVERNEMENT OUVERT LOCAL Engagement	15712
@@ -50,10 +52,11 @@ Gouvernance Ouverte Locale	15712
 Gouvernance Ouverte10	1984
 Gouvernance Ouverte4	748
 Gouvernance Ouverte5	747
-Gouvernement Ouvert	1218,6945,33,1714,5665,137,652,1515
+Gouvernement Ouvert	1218,6945,33,1714,5665,137,652,1515,515
 Gouvernement Ouvert Local	15712
 Gouvernement Ouvert Local Cet	15712
 Gouvernement Ouvert Local Union des Villes	15712
+Gouvernement Ouvert Sénégal	18394
 Gouvernement Ouvert du Benin	11794
 Gouvernement Ouvert. Présent	8196
 Gouvernement ouvert	747,1
@@ -62,6 +65,7 @@ Gouvernements Ouverts Francophones	15712
 Grande Muraille Verte Next Post Ouverture	17954
 I- Communications. I-1. Ouverture	14904
 III. USAGE DES DONNEES OUVERTES DANS	16618
+Instituts de Formation Ouverte	18286
 Instruction. Ouverture	17485
 Internet FOAD Formation Ouverte	15541
 Inventaire des Données Ouvertes	13689
@@ -89,6 +93,7 @@ OUVERTS AU PUBLIC	16047
 OUVERTURE DE L'ATELIER	16417
 OUVERTURE D’UN	15488
 OUVERTURE SOLENNELLE DU FESTIVAL NUMÉRIQUE JUNETECH	13658
+OUVRIR	18328
 Offres International Ouvert	13630
 Offres National Ouvert	16581
 Offres National Ouvert N	16006,346,182
@@ -100,26 +105,29 @@ Offres Ouvert National La Caisse des Dépôts	16395
 Offres Ouvert National N	9565
 Offres Ouvert National Référence F DGR 100867 Date	16395
 Offres Ouvert. Cette	10876
-Ouvert	1984,2760,1007,4895
+Ouvert	1984,2760,1007,4895,7716,45
 Ouverte	8524
 Ouverts	3083
-Ouverture	747,1,439,60,1095,815,33,206,5129,366,1034,786,106,59,99,2349,17,34,149,165,152,696,589,303,139,46,98,597,272,55,5,365,442,37,331,11,6,11,2,71,42,33,75,14
+Ouverture	747,1,439,60,1095,815,33,206,5129,366,1034,786,106,59,99,2349,17,34,149,165,152,696,589,303,139,46,98,597,272,55,5,365,442,37,331,11,6,11,2,71,42,33,75,14,96,81,9,55
 Ouverture Administrateur	17827
 Ouverture LUN	16552
 Ouverture LUN-MER-VEN	16552
 Ouverture LUN-VEN	16552
 Ouverture de QGIS	13375
 Ouverture des Appels	2975
+Ouverture des BV	18310
+Ouverture des BV L’atmosphère	18310
 Ouverture des COE Ouverture	10876
 Ouverture des Données	16641
 Ouverture des Offres	13524
 Ouverture des PRMP	10876
+Ouverture du SnPIF	18407
 Ouvertures	17812
 Ouvida	15955
 Ouvidorias Públicas	11569
 Ouvir	539,9451
 Ouviu	10760
-Ouvrage	1284,12240,31,933,1,1,1052,128,253,83,313,76,139,47,133,1132
+Ouvrage	1284,12240,31,933,1,1,1052,128,253,83,313,76,139,47,133,1132,272,76
 Ouvrage Communale	643
 Ouvrage Délégué	16012,522
 Ouvrage En	14489,1
@@ -129,7 +137,7 @@ Ouvrage. Ils	17846
 Ouvrage. L'Agence de Développement du Burundi	13524
 Ouvrage. Nota	17846
 Ouvrage. Protection	5888
-Ouvrages	10975,5024,486,1361
+Ouvrages	10975,5024,486,1361,473
 Ouvrages Immobiliers	17846
 Ouvrages de Commandement	15999
 Ouvrages du Haut-Bassin du Fleuve Sénégal	17833
@@ -138,7 +146,7 @@ Ouvrant	3552,1055,909,2283,272,267,1203,862,89,3180,2663,118,33,259
 Ouvre	10876,7069
 Ouvrier	737,14695,300,439
 Ouvrier Refus Autres	13390
-Ouvriers	14488,1,1
+Ouvriers	14488,1,1,3714
 Ouvrir	2992,404,3558,6421,1308,859,72,2379
 Ouvrir Figure	13375
 Ouvrir QGIS	13375

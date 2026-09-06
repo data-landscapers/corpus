@@ -46,7 +46,9 @@ CRI Disability-Adjusted Life Years DALYs District	11417
 CRI Disaggregated	10768
 CYPARSADE Smreetee Disaster Monitoring Officer	14770
 Cabinet Assumptions NA Disaggregation	11986
+Capacity for Disaster Reduction Initiative	18286
 Cases of Crises and Natural Disasters	16902
+Catastrophes DRM Disaster Risk Management DSRE	18198
 Centre for Disability and Inclusion Africa	12038
 Centre for Disaster Protection	10763
 Challenges Disaster	14935
@@ -132,7 +134,7 @@ Director of Disability	12661
 Director of Disability Affairs	13470
 Director of Disability Affairs. No	13470
 Disabilites FPE The Free Primary Education	12975
-Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210,405,18,17,40,11,52,137,26,13,17,5,92,5,40,38,49,1,11,94,126,189,35,23,7,10,6,15,16,40,90,96,170,29,47,5,541,8,12,51,67,1,592,1,31,113,2,46,5,64,15,17,104,104,75,200,31,54,59,347,36,449,377,15,15,48,8,17,124,6,9,63,118,1,638
+Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210,405,18,17,40,11,52,137,26,13,17,5,92,5,40,38,49,1,11,94,126,189,35,23,7,10,6,15,16,40,90,96,170,29,47,5,541,8,12,51,67,1,592,1,31,113,2,46,5,64,15,17,104,104,75,200,31,54,59,347,36,449,377,15,15,48,8,17,124,6,9,63,118,1,638,371
 Disabilities APP	15244
 Disabilities Acceptance	11765
 Disabilities Act	6949,1383,329,134,3436,685,42,165,347,96,67,913,197,8,285,2141,119,638
@@ -283,6 +285,7 @@ Disability-inclusive	12460
 Disability. Page	15663
 Disability. The DHA	11986
 Disability. The Program	11905
+DisabilityMarch	18305
 Disable	12364,2797
 Disable Disable A BOZ-only	12364
 Disable Undisable Child Nutrition Health	15244
@@ -296,6 +299,7 @@ Disabled. PART IV	16887
 Disabled. The United Nations Development Programme	16950
 Disabling of Parent Details	14533
 Disadvantaged	1778,7350,3784,78
+Disadvantaged Groups	18370
 Disadvantaged People Reducing	1988
 Disadvantaged and Vulnerable	16926
 Disadvantaged and Vulnerable Groups	1988,14938,173
@@ -400,13 +404,15 @@ Disaster Risk Financing	1828,14204,1225
 Disaster Risk Financing Consultant	10763
 Disaster Risk Financing Strategy	17257
 Disaster Risk Knowledge	16137
-Disaster Risk Management	10763,2214,1148,2012,1825
+Disaster Risk Management	10763,2214,1148,2012,1825,142,94
 Disaster Risk Management Act	11134,1989
 Disaster Risk Management Bill	12977
+Disaster Risk Management CNEDD National Framework	18198
 Disaster Risk Management DTED	12175
 Disaster Risk Management Department	10348
 Disaster Risk Management Division	11721
 Disaster Risk Management Emergency Events Database	10763
+Disaster Risk Management GTP	18309
 Disaster Risk Management Information System	12241,839,15
 Disaster Risk Management Knowledge Centre	14896
 Disaster Risk Management Management Development	17962
@@ -487,6 +493,8 @@ Gambia National Disaster Management Agency	1000
 Gender Agree Disagree Don't Know Male	12409
 Gender Disaggregation	16970
 Gender and Disability-Inclusive Implementation	13776
+General Directorate of Disaster Resilience	18198
+General Directorate of Disaster Resilience DGRE General	18198
 Ghana's National Disaster Management Organization	8370
 Ghana’s Disability Inclusive Hackathon. Quartey	9007
 Global Disability Fund Programme	13219
@@ -526,7 +534,7 @@ International Journal of Disaster Risk Science	10763
 Issuance of Disability Card	12916
 J- Disability	582
 Jobs CLIMATE Climate Change and Disaster Screening	3562,7998
-Jobs Climate Change and Disaster Screening	10964,2368,2289
+Jobs Climate Change and Disaster Screening	10964,2368,2289,2680
 KPIs Disaster Recovery Plan	10721
 LOCAL LEADERS TRAINED ON DISABILITY GRANT	15140
 Labor Climate Change and Disaster Screening	11855
@@ -552,6 +560,8 @@ Minister of Humanitarian Affairs and Disaster Management	7141
 Minister of Local Government and Disaster Risk Management	14738
 Minister of State for Disability Affairs	4133
 Ministry of Health RoK. Disability	12231
+Ministry of Humanitarian Action and Disaster Management	18104,21,73
+Ministry of Humanitarian Action and Disaster Management MEF	18198
 Ministry of Humanitarian Affairs and Disaster Management	3583,11291,304
 Ministry of Local Government and Disaster Risk	14738
 Ministry of Local Government and Disaster Risk Management	14738
@@ -622,10 +632,12 @@ National Union of Disabilities Organisations of Rwanda	12333
 National Union of Disability Organizations	15130
 National Union of Disability Organizations of Rwanda	12461
 Nations Disaster Management Team United Nations	10763
+Natural Disaster Management	18370
 Natural Disasters	1828
 Natural Disasters Adaptation	1828
 Needs and Disability SLE School Life Expectancy	14896
 Network Disaster	11857
+Niger Disaster Risk Management and Urban Development	18104
 Nigeria's Disability Act	11975
 No. Name of User Profile Reason for Disabling	12364
 Otherwise Print Disabled	17296
@@ -682,6 +694,7 @@ Regional Disaster Management Committees	12977
 Registration and Vital Statistics DALYs Disability Adjusted	16896,26
 Related Resources Disability Dimension	13016
 Repeal The Disabled Persons Act	13470
+Resilience and Land Climate Change and Disaster Screening	18293
 Review of Disability Allowance	14829
 Risk Management and Disaster Recovery Plan Risk	13420
 Risk Management and Disaster Recovery Plan Twelve	13420
@@ -702,6 +715,7 @@ Self-care. Disability	12383
 Sendai Declaration and Framework for Disaster Risk Reduction	13295
 Sendai Framework for Disaster Risk Reduction	8370,2913,1496,997,962
 Sendai Framework for Disaster Risk Reduction for Comoros	13776
+Senegalese Federation of Associations of Disabled People	18305
 Set Disaster	12977
 Set Disaster Committees	12977
 Severe Disabilities	2775

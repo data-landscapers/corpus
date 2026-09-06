@@ -115,6 +115,7 @@ Cost Insurance and Freight CIT Corporate Income	14985
 Credit and Political Risk Insurance	11310
 Crop Insurance Schemes	17157
 Crop Insurance Schemes Raise	17157
+D'INGENIERIE ET DE DESTION-PRIVE INSUP INSTITUT	18170
 D.G DE DEPORTIVA REG. INSULAR REG	4209
 D.G SERVI. ELECT. R. INSULAR.- Concepto	4209
 D.G. R. INSULAR REG. CONT	4209
@@ -243,6 +244,7 @@ INSULINE ISOPHANE	15930
 INSULINE LISPRO	15930
 INSULINE LISPRO PROTAMINE	15930
 INSUOD UI	16857
+INSUP INSTITUT SUPÉRIEUR PRIVÉ INTECFI INSTITUT	18143
 INSURANCE	14778,86,285
 INSURANCE BUILDING	17334
 INSURANCE Number of Insurance Companies	7763
@@ -263,7 +265,7 @@ Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
 Insuf	15580
 Insufficiency	16863
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
@@ -281,7 +283,7 @@ Insufficient Management Systems	12214
 Insufficient Private Sector Engagement	17139
 Insufficient Resources	4439
 Insufficiently	766,11150
-Insuffisance	737,2229,4689,3057,162,91,2325,10,41,1084,25,123,25,944,38,3,102,27,224,392,300,13,1201,3,11,26,101
+Insuffisance	737,2229,4689,3057,162,91,2325,10,41,1084,25,123,25,944,38,3,102,27,224,392,300,13,1201,3,11,26,101,186,122
 Insuffisances	10858,2432,2550
 Insuffisant	15512
 Insuffisant Non-renouvellement	10876
@@ -314,7 +316,7 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534
 Insurance Act	6938,4317,1393,412,1749,34
 Insurance Activity Supervisory Body	6938
 Insurance Association	14997
@@ -477,14 +479,16 @@ Naked Insurance	1058,1093,7524
 Naked Insurtech South Africa Series B	1058
 Naked Insurtech South Africa Series B2	2151
 National Agency for Health Insurance	17870
+National Agricultural Insurance Fund of Senegal CNCR	18309
 National Agriculture Insurance	14997
 National Agriculture Insurance Scheme	14997
 National Agriculture Insurance Scheme and Ejo Heza	14997
 National Bank of Rwanda THE INSURANCE SECTOR	15023
 National Commission for Control of Insurance	14997
+National Export Insurance Account	18378
 National Health Insurance	24,372,971,2465,3622,107,1042,511,1424,1487,536,45,17,3630
 National Health Insurance Act	13403
-National Health Insurance Authority	1654,2089,89,1,468,27,1671,178,4814,1013,3794,96,324,128,254,296,26
+National Health Insurance Authority	1654,2089,89,1,468,27,1671,178,4814,1013,3794,96,324,128,254,296,26,1240,1,90
 National Health Insurance Authority NHIS National	16922
 National Health Insurance BUI. Retrieved	1009
 National Health Insurance Bill	1009
@@ -572,7 +576,7 @@ Región Insular URL	17309
 Región Insular. Fuente	16962
 Región Insular. Gráfico	16962
 Regulatory Framework for Insurance Aggregators	14819
-Remote Sensing-based Information and Insurance for Crops	18036
+Remote Sensing-based Information and Insurance for Crops	18036,300
 Role of Political Risk Insurance	11310
 Rubavu Insufficient	12328
 Rwanda Insurance Sector	14997
@@ -632,6 +636,7 @@ TIC Insuffisance	15542
 TIRA Tanzania Insurance Regulatory Authority TISS	7763
 Tanzania Insurance Regulatory Authority	7763,3370
 Tarik Dadi Combats Health Insurance Fraud	2269,19,59,9,173,4,11,6,12,38,10,6,3,57,4,664,278,96,687,933,332,433,355,605,327
+Though the National Health Insurance Coverage	18162
 Trade CIF Cost Insurance Freight COICOP	16935
 Trans-African Insurance Co Ltd	2307
 Transport Insurance Certificate	16737

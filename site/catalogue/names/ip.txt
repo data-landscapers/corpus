@@ -2,6 +2,7 @@ ACRONYMS EHCVM IPEQ MEBAPLN PASEC PSDEBS	15743
 AI IP Accelerator	4126
 AI and Emerging Technologies IP AI	7548
 ANE IP	2989
+ANSD IPAR	18306
 AU IPED	16356
 AU IPED Supports Burundi's Next Step	13629
 AU IPED Supports Burundi’s Next Step	13629
@@ -32,7 +33,9 @@ Archived DO Rating IP Rating Actual	15731
 Assistant IP Registrar	10358
 Availability of Online Platform for IP Holders	12389
 B-National IP	7548
+BMWM and IPC	18370
 Bank IPF	16963
+Bank IPF Policy	18374
 Bank Policy and Directive for IPF	15518
 Bank's Procurement Regulations for IPF Borrowers	13017
 Bayobab’s IPX	9380
@@ -60,6 +63,10 @@ Contingent Liabilities and Contingent Assets IPSAS	14736
 Conversor de IP	794
 Cooperation IFR Interim Financial Report IPF	1264
 Core IP Network	14010
+D'ÉTUDES SUPÉRIEURES IPHE INSTITUT PRIVÉ DES	18143
+DE BANQUE ET DE RECYCLAGE IPHEC	18170
+DE DROIT ET DE GESTION IPDR-KOLLO	18170
+DE TECHNOLOGIE IPNTA INSTITUT PRIVÉ DES	18170
 DO Rating IP Rating Actual Disbursements	15511,2451
 DPs and IPs	1261
 Data Center and IP Multimedia Subsystem Center	3669
@@ -123,12 +130,14 @@ Financial Buyers IPOs	4972
 Financial Instrument. IPSAS	14736
 Financial Report IP Indigenous Peoples IPF	10829
 Financial Report IPDP Indigenous People Development	15372
-Financial Report IPF Investment Project Financing	15515,106
+Financial Report IPF Investment Project Financing	15515,106,2680
 Financial Reporting Standard IPPs Independent Power	12399
 Financial Statements IPSAS	14736
 France. IPRis	16126
+Full IP	18297
 Functionality The EthSwitch IPS	12269
 GBM IPS ISO MDS MED MSP	13452
+GESTION IPISTLMES INSTITUT PRIVE INTERNATIONAL SPECIALISE	18170
 GHG HIPC IDP IEA IMF IPC	11136
 Gas IPP Bid Windows	11228
 Gates Foundation. The IPS	12269
@@ -137,6 +146,9 @@ Global IPv6 Development Report	1702
 Government IPSASs	3051
 Group IFC International Finance Corporation IPF	6539
 Guidelines for IP-Based Financing	12389
+HAUTES ETUDES COMMERCIALES IPHEM INSTITUT PRIVÉ	18143
+HAUTES ETUDES DE LA SANTE IPIEG	18170
+HAUTES ETUDES IPHEC INSTITUT PRIVÉ DES	18143
 HCB Hydro Cahora Bassa IPP Independent	11228
 Head of IP and Technology and Partner	12170
 Home of Business and IP Registrations	12342
@@ -162,6 +174,7 @@ INIS Infection Prevention and Control IPC Joint	11417
 INSESO Instituto Nacional de Seguridad Social IP	16969
 INSP Institut National de Santé Publique IPG	13300
 INSP Institut National de Santé Publique IPU	13306
+INSTITUT PRATIQUE DU DEVELOPPEMENT RURAL IPEJA	18170
 INTIC IP ISR ITU M&E MDA	4653
 IOC Indian Ocean Dipole IP Internet	2775
 IOM International Office for Migration IPF Investment	15731
@@ -201,10 +214,11 @@ IP RAN	9529,3
 IP Rating Actual Disbursements	11924,3677,2261
 IP Relevant for Environmental Sustainability	12389
 IP Server Equipment	6946
+IP Solution	18105
 IP Surveillance	12253
 IP Surveillance System	12253,932
 IP TCP	1036
-IP Transit	1011,2829,4159,1447,1510,6914
+IP Transit	1011,2829,4159,1447,1510,6914,410,150
 IP Tribunal. The AI Bill	8490
 IP Un	15670
 IP VSA Terminal	15474
@@ -243,6 +257,7 @@ IP. Dans	7010
 IP. Licence Ces	9480
 IP. Mais	15592
 IP. Na	14342
+IP. Toutes	18288
 IP. Une	15474
 IP2AIR Networks Ltd	3862
 IP55-rated	13795
@@ -250,6 +265,7 @@ IP6.ARPA	3503
 IPA Investment Promotion Agency LNG Liquefied	16996
 IPA Província de Maputo	414
 IPADT	12828
+IPAS FOGASSO	18170
 IPAWAS	10262
 IPBD Division	17881
 IPC Cadre Harmonisé	18063
@@ -288,6 +304,7 @@ IPCC-recommended Level	17140
 IPCC. Clase	16875
 IPCC6-2006	15669
 IPCE Initiative	16628
+IPCSP INSTITUT PRIVÉ DES CADRES	18143,27
 IPD de Cabo Verde	15755
 IPD. Artigo	15755
 IPDCP	436,895,1298,1237,371,2607,1437,1,390,370,1198,1405,5969
@@ -303,6 +320,7 @@ IPEMBA Euphrème Projet SPISA	15580
 IPEME	2816,10003,29
 IPEREREZA KU BIKORWA BY’UBUCURUZI Ingingo	15126
 IPEREREZA RY’IBYAHA BIKORESHEJWE IKORANABUHANGA Ingingo	14870
+IPES INSTITUT POLYTECHNIQUE D'ÉTUDES SUPÉRIEURES IPESL	18170
 IPF Anti-Corruption Guidelines	15658
 IPF Anti-Corruption Guidelines. The Systematic Tracking	15661
 IPF Borrowers	11905
@@ -323,6 +341,8 @@ IPF. Considering	15659
 IPF. The PIU	11905
 IPFMRP	16949
 IPHD International Partnership for Human Development M&E	11525
+IPHE INSTITUT PRIVÉ DES HAUTES ETUDES	18170
+IPHEM INSTITUT PRIVÉ DES HAUTES	18170
 IPI Africa Programme Lead Nompilo Simanje	10533
 IPI Media	15342
 IPI. Sometimes	1261
@@ -331,8 +351,10 @@ IPLC Full Circuit	14723
 IPLC Half Circuit	14723
 IPM Certified	14818
 IPM Exploiter	18077
+IPM P1	18291
 IPM System	11270
 IPM-Mali	17978
+IPMAT INSTITUT PRIVE DE MANAGEMENT ET	18170
 IPMP Integrated Pest Management Plan LMP	1988
 IPMPs and Management of Pesticides	1988
 IPN Chief Operating Officer Marsorry Ickua	6988
@@ -357,6 +379,7 @@ IPP Battery Energy Storage System	11228
 IPP Baynes Hydro Project	12399
 IPP Cerim	12399
 IPP Diaz	12399
+IPP EnR	18316
 IPP Independent Power Producer	16037
 IPP Independent Power Producer IRR Internal	15515
 IPP Independent Power Producer IT Information	10781,1646,2055
@@ -364,6 +387,8 @@ IPP Independent Power Producer LAMC Liability	12233
 IPP Media	2947,6859
 IPP Owendo	16037
 IPP PV Projects	12399
+IPP Producteur	18316
+IPP Promotion des IPP	18316
 IPP Steering Committee	17260
 IPP The Government	12233
 IPP Tonnes	16714
@@ -396,7 +421,7 @@ IPRC Code	11955
 IPRC-Kigali and Coordinator of Rwanda TVET Trainer Institute	718
 IPRD Solutions	16821
 IPREC Instituto de Preços	11380
-IPRES	3381
+IPRES	3381,15027
 IPRESS	3381
 IPRESS ANSD DAF	3381
 IPRIS	1158
@@ -420,6 +445,11 @@ IPSAS International Public Sector Accounting Standards	14828,3
 IPSASB	3051,11685
 IPSASs	3051,11685
 IPSCSS	18
+IPSM GLOBAL	18418
+IPSM L’IPSM	18418
+IPSP INSTITUT PRATIQUE DE SANTÉ PUBLIQUE	18143
+IPSPS TONDY INSTITUT PRIVE DE SANTE	18170
+IPSS INSTITUT PRIVE EN SCIENCES	18170
 IPSS. Ceci	14624
 IPSec	13185
 IPS’. Nonetheless	5124
@@ -428,6 +458,7 @@ IPT Powertech Group SAL	344
 IPT Powertech for Telecom Tower Energy	344
 IPT. Bong County	16971
 IPT2nd	16971
+IPTA INSTITUT PRIVÉ DES TECHNOLOGIES APPLIQUÉES	18143,27
 IPTSIznnzgs200XEJW950jUoyC1hD	4563
 IPTV Content D100	17250
 IPTV Internet ProtocolTelevision NDP National Development	16886
@@ -440,6 +471,7 @@ IPV. ANEXO	17103
 IPV. Os	17103
 IPVPN Internet Protocol Virtual Private Network	12769
 IPXEG	16942
+IPage	18154
 IPnwteCr	12205
 IPs of Gabon	15518
 IPs. AI Civil	4126
@@ -529,6 +561,7 @@ Iphemithi	11573
 Iphepeng Breastfeeding and Nutrition Club	12679
 Iphini	11573
 Ipotnews	9399
+Ipres	18367
 Ipsos	2816,63,5216,224,2685,960,3749
 Ipsos AI Monitor	15713
 Ipsos Gig Economy	8515
@@ -539,10 +572,16 @@ Ipsos the GSMA	11964
 Ipsos. Published	11902
 Ipumbu Shiimi Minister of Finance and Public Enterprises	12951
 Ipyana Jengela	5002
+JEUNESSE IPSP INSTITUT PRATIQUE DE SANTÉ	18170
 JOHN SYEKEI ARIANA ISSAIAS Head of IP	12232
 Katibougou IPR-IFRA	17983
 Kenya's IP	10041
 Kern Terence IPONGA BODI	16099
+LA SANTE IPSTG LEADER INSTITUT PRIVE	18170
+LA SANTÉ PUBLIQUE IPDG INSTITUT PRIVE	18170
+LA SANTÉ PUBLIQUE IPES INSTITUT POLYTECHNIQUE	18143
+LANGUES IPESS INSTUTIT PRIVE D'EXCELLECE EN	18170
+LOGISTIQUE IPM MAIGUIZO INSTITUT PROFESSIONNEL MAIGUIZO	18170
 Locally Registered IPR	12389
 London IPO	6350
 London’s IPO	8049
@@ -557,10 +596,12 @@ M P507935 Land IPF	11469
 M Social Policy IPF	11469
 M. IPT	344
 M. Mazzes IPANDY NDOUNGOU	16175
+MAIGUIZO IPNTA INSTITUT PRIVÉ DES NOUVELLES	18143
 MIGRATION TO IPSAS FINANCIAL REPORTING FRAMEWORK	13420
 MW IPPs	12399
 MW for IPPs	12399
 Majesties. Iphalamende	12955
+Mamadou Ngalgou KANE Comité Production IPSM	18418
 Manage IPR Electronically	12389
 Marketing Transport IPF	11469
 MauCAS and IPS	14819
@@ -576,6 +617,7 @@ Mozambique Approves IP Strategy	7624
 Mozambique's IP	12161
 Mutuários IPF	10769
 N IPS.Tender	5864
+NOUVELLES TECHNOLOGIES DE L’ADER IPSAS-BOYI INSTITUT	18170
 Nasdaq. IPOs	13279
 National IPC Program	4202
 National IPM Coordination Committee	14818
@@ -587,11 +629,13 @@ National Registration Information System IPF Investment	1867
 Neonatal and Childhood Illness IPC Infection Prevention	17289
 Ningizimu Afrika Iphasiphothi Umazisi	11573
 Ningizimu Iphasiphothi Isitatimende	11573
+Note IPSM T2-2026 ENCADRE L’Indice des Prix	18418
 Numeração IP	11430,1
 O IPAS	10614
 Online Publication of List of Qualified IP Professionals	12389
 Organization IMF International Monetary Fund IPF	15491
 Organization for Migration IPC	15118
+Ousmane NDIAYE Comité Production IPSM	18418
 Output IP Internet Protocol IPSec Internet	13185
 Over IP WB World Bank WBG	13312,2
 Overview IP	14659
@@ -605,10 +649,13 @@ PDO and IP	14966,1648
 PIIs. The EthSwitch IPS	12269
 PIN Personal Identification Number IP Internet	15472
 PR-AU IPED Supports Burundi Next Step	13629
+PRIVEE D’ADMINISTRATIONDE ET DE L’ENTREPRISE IPAM	18170
 PSP API. The IPS	12269,1
+PUBLIQUE IPESS INSTUTIT PRIVE D'EXCELLECE EN	18170
 PV IPP	13054
 Patrimonio IPC	16969
 PforR DLRs and IDA IPF	16032
+PforR and IPF	18370
 Plan IPPF Infrastructure Project Preparation Facility	15372
 Plant and Equipment IPSAS	14736
 Plateforme de Téléphonie IP	9049
@@ -661,12 +708,16 @@ Resilience and IPF	11469
 Roaming and IPX	10793
 Réseau IP	15399
 Réseau IPv4	17823
+SANTE DOUBEYREY IPSJ PROSPOR INSTITUT SUPERIEUR	18170
+SCIENCE DE LA SANTE IPFCSBR INSTITUT	18170
+SCIENCE DE LA SANTE IPSJACC INSTITUT	18170
 SIMO IPS	12270
 SIMO IPS. Switch	12270
 SIMO IPS. The IPS	12270
 SIMO. The IPS	12270
 SIMOrede IPS	12270
 SIMOrede IPS. SIMOrede	12270
+SOCIALE IPSD INSTITUT DES PROFESSIONNELS DES	18170
 SODECI VECI IPS	2342
 ST CENT IPNX	3862
 ST CENT IPNX BIG PICTURE	3862
@@ -692,6 +743,7 @@ Somalia Launches Africa’s First National IPv6	15120
 Standards IMAP IPSAS Implementation Matrix and Action	13420
 Standards IPSAS International Public Sector Accounting	13420
 Standards IPv4 Internet Protocol	6946
+Statistique IP Protocole Internet MC	18204
 Statistique IPP Independent Power Producer GRT	10975
 Statistique IPPI	17842
 Stoves IPP Independent Power Producer JADF	14947
@@ -709,9 +761,13 @@ System IP Internet Protocol ISP Internet	16883,1
 System IPO Initial Public Offering ISMS	11250
 System IPT Intermittent Preventive Treatment NACP	16971
 TCP and IP	16839
+TECHNIQUES COMPTABLES ET FINANCIÈRES IPAE INSTITUT	18170
+TECHNOLOGIES DE L’ADER IPSAS-BOYI INSTITUT PRIVÉ	18143
 TPE IP Un	10711
 TPE IP du Trésor Public	10711
 TRANSIÇÃO DO IPv4 PARA O IPv6	11397
+TUDES MANAGÉRIALES IPHES INSTITUT PRIVE DES	18170
+TUDES MANAGÉRIALES IPM MAIGUIZO INSTITUT PROFESSIONNEL	18143
 Technologies IP	7548
 Technology IP Intellectual Property IPR Intellectual	5246
 Technology IPP Indigenous Peoples Plan IPPF	15511
@@ -733,6 +789,7 @@ Updated IPC	3583
 Vodacom MPLS IP-VPN	12769
 W IPO Intellectual Property Statistics	12487
 WASH and IPC	15977
+WIOCC's Carrier-Grade IP Transit	18280
 WORKS IPN	12477
 Weak IP	15480
 Wetlands. IPCC. Intergovernmental Panel	17140
@@ -747,6 +804,7 @@ World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,122
 World Bank's IPF	11905,3756
 World Bank's Procurement Regulations for IPF Borrowers	9604
 World Bank’s IPF Policy and Directive60	16144
+World Bank’s Procurement Regulations for IPF	18198
 World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806,1807,1006,752
 World Wide Web. IP	1036
 YOKUTHUTHA NOMA IPHEMITHI ISIQEPHU	11573

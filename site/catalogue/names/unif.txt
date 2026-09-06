@@ -72,8 +72,9 @@ A1.9. Unified	15129
 ACTIVITIES OUTPUTS OUTCOMES Targeted TA and Unified	11855
 AI Uniform	7548
 Acta Uniforme	16859
-Acte Uniforme	15352,17,126,552,1956
+Acte Uniforme	15352,17,126,552,1956,235
 Acte Uniforme OHADA	15999,48
+Acte Uniforme Révisé	18238
 Acte Uniforme. Le Tribunal de Commerce	15495
 Actes Uniformes	15369,126
 Actos Uniformes	17049
@@ -90,12 +91,15 @@ Cameroon's Unified Social Registry	10985
 Children's Fund UN Unified Social Registry	11855
 China. Unifying	6834
 Clear and Consistent Digital Disclosures Uniform	13532
+Comité Technique du Registre Social Unifié	18102
+Comité de Pilotage du Registre Social Unifié	18102
 Compute Unified Device Architecture	9475
 County Licensing Uniform Procedures Act	9852
 Cross Border Trade Association of Liberia. UNIFEM	16949
 Cultural Organization UTAUT Unified Theory of Acceptance	14666
 Cybernetica's Unified	6175
 Cybernetica’s Unified	12354
+Dr. Doro Advocates Unified Digital Payment	18269
 EU Unified DP Reporting Form	970
 Egypt's Unified National Registry	11133
 Especial Unificado	12018
@@ -177,6 +181,7 @@ Foreign Exchange Monitoring and Orchestration Unified System	14124
 G-O7 Unified Arab AI	15713
 Government Unified Messaging System	12917
 Govt Pushes for Unified Digital Systems	6077
+ITU Unified Framework	18123
 India's Unified Payments Interface	6799
 India’s Unified Payment Interface	5700,6294
 India’s Unified Payments Interface	3318,3576,390
@@ -190,11 +195,13 @@ Libya Launches Unified Digital System for Chambers	5264
 Licença Unificada	2866
 MFIS Unified Social Registry	11855
 Março. Sistema Unificado de Justiça	10752
+Membres des Instances du Registre Social Unifié	18102
 Merge Uniform Clusters	8606
 Ministry of Interior Unified Comms	245
 MoSSs’ Unified National Social Protection Registry	15663
 National Organization for Urban Unified Building Law	15473
 Necessary Unified Forces	3583
+Net Unit USR Unified Social Registry	18198
 Nigeria Unveils Plan for Unified Digital Services	2529
 Nigeria. India. The Unified Payments Interface	11138
 Nuvem Unificada Governamental. Localizado	1192
@@ -211,6 +218,7 @@ Registre Social Unifie du Cameroun	10971
 Registre Social Unifié	2107,14538,95,1166,27
 Registre Social Unifié du Cameroun	10985,4797,40
 Registre Social Unifié du FDSI. Cette	16643
+Registre Social Unifié-Niger URL	18102
 Registry UNSRP Unified National Social Protection	15663
 RuPay and Unified Payments Interface	14744
 SOCIAL UNIFIE Article	16645
@@ -231,6 +239,7 @@ UNIFIED SOCIAL REGISTRY	5857
 UNIFOODS	12977
 UPI Unified Payments Interface	11994
 USR Unified Social Registry	14976,83,131
+USR Unified Social Registry VSLA Village	18104
 Ukraine Unified State Demographic Register	10714
 Under OHADA’s Uniform Arbitration Law	16972
 Unificada	1192
@@ -239,7 +248,7 @@ Unification	16065
 Unification of Exchange	3862
 Unification to standard gauge on May 31	4259
 Unificação de Serviços	10772
-Unified	169,1427,2059,34,2486,829,2125,1835,169,722,386,119,1058,1090,166,145,78,232,344,46,1364,256,400
+Unified	169,1427,2059,34,2486,829,2125,1835,169,722,386,119,1058,1090,166,145,78,232,344,46,1364,256,400,644
 Unified AI	7548
 Unified API	5226,5983
 Unified Access	5226
@@ -299,6 +308,7 @@ Unified Modelling Language	11184,1176
 Unified Modelling UML State Diagrams	9124
 Unified National Digital Microfinance Platform	8184
 Unified National Network for Emergency Services	15977
+Unified National Register	18215
 Unified National Registry	11133,4386,144
 Unified Patents	8967
 Unified Pay-	4848
@@ -321,7 +331,7 @@ Unified Revenue Commission	11976
 Unified Revenue Service	6454
 Unified Services Licence	736
 Unified Social Register	10765,10,6683
-Unified Social Registry	1571,421,1081,1354,6338,10,188,1,27,142,722,1651,86,1384,7,23,24,628,332,197,1719,79
+Unified Social Registry	1571,421,1081,1354,6338,10,188,1,27,142,722,1651,86,1384,7,23,24,628,332,197,1719,79,119,94
 Unified Social Registry B. Project Components	11855
 Unified Social Registry Communal	10964
 Unified Social Registry Management	15658
@@ -331,6 +341,7 @@ Unified Social Registry of Cameroon	10971,14,4797
 Unified Social Registry. Algeria	10991
 Unified Social Registry. The Project's MIS	11855
 Unified Standard of Truth Khaire	11105
+Unified State Personnel File	18430
 Unified System	12761,4355
 Unified System for Civil Registration and Administrative	10714
 Unified System for Licensing Electricity Providers	15025
@@ -355,7 +366,7 @@ Unified Upper Area Control	14409
 Unified View	5349
 Unified... China	8967
 UnifiedMedicalLanguageSystem	8606
-Unifier	7654,1237,7372
+Unifier	7654,1237,7372,2054
 Unifié	16645
 Unifoods and Ackerman	12950
 Uniform	7548,5505,895,813,13,45,2431
@@ -367,8 +378,9 @@ Uniform Resource Locator VESDA Very Early	13185
 Uniform Rules for Demand Guarantees	13185
 Uniform System of Accounts	16978
 Uniforme	15495
-Uniformes	4209
+Uniformes	4209,13897
 Uniformidade	11430
+Uniformisation	18317
 Uniformity	8978
 Uniformizar	15476
 Uniforms	14736,868,241

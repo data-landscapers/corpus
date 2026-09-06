@@ -6,6 +6,7 @@ ABERME Benin Rural Electrification Agency	15515
 ACCT Central Treasury Accounting Agency	969
 ACFPE Agence	15474
 ACRONYMS BPC CAA Agence Française	10964
+ADIE Agence	18290
 ADT INSURANCE AGENCY LIMITED Data Controller	7167
 ADT INSURANCE AGENCY LIMITED Data Processor	7167
 AES. Agence	14204,1713
@@ -19,6 +20,7 @@ AFD Agence Française de Développement AMR Avis	10712
 AFD Agence Française de Développement CAPMAS Central	15473
 AFD French Development Agency	969,10580,3966
 AFFIRMATIVE INSURANCE AGENCY Data Processor INST-30877116911	7167
+AFRICAN DEVELOPMENT UNIVERSALIS ANAB AGENCE NATIONALE	18143
 AGEFAU Agence de Gestion du Fonds	17870
 AGENCE	13467
 AGENCE ALGERIENNE DE PROMOTION DE L’INVESTISSEMENT	16322
@@ -45,6 +47,7 @@ AGENCE NATIONALE DE L’AVIATION CIVILE	16175
 AGENCE NATIONALE DES BOURSES DU GABON	16175
 AGENCE NATIONALE DU DOMAINE ET	10876
 AGENCE NATIONALE D’APPUI AU DÉVELOPPEMENT RURAL	2342
+AGENCE NATIONALE POUR LA PROMOTION	18143
 AGENCE NATIONALE POUR LA SOCIETE	3395
 AGENCE POUR LE DÉVELOPPEMENT ET	15670
 AGENCES COMPTABLES	16175
@@ -59,21 +62,27 @@ AGENCY FOR TECHNICAL COOPERATION AND DEVELOPMENT	7167
 AGENCY SERVICES PROVIDED BY LOWER COURTS	12920
 AGETIC Agence des Technologies	17870
 AGUIPE Agence Guinéenne	16626
+AICS Agence	18316
 AJE Agence Judiciaire	15961
+AJS Association des Juristes Sénégalaises ASP Agence	18286
 AM Accountability Mechanism ANPTIC National Agency	15621
 AMO ANTIM Assurance Maladie Obligatoire Agence	17882
 AMSSURITY INSURANCE AGENCY LIMITED Data Controller	7167
 AMSSURITY INSURANCE AGENCY LIMITED Data Processor	7167
 ANADEN Agence Nationale de Développement Numérique	13725
+ANAT National Land Use Planning Agency	18293
 ANCC Agence	17881
 ANCY National Cybersecurity Agency	17862
 ANDF Agence Nationale du Domaine	10876
+ANER Agence	18316
 ANEREE Agence Nationale des Energies Renouvelables	15769
 ANFR French National Radio Frequency Agency	17862
 ANGEIE Agence Nationale	16626
 ANINF-ST Partnership Gabon's National Agency for Digital	3291
 ANIP Agence Nationale	15583,1516
+ANNAHADA UNIVERSITE MI INTERNATIONALE ANPE AGENCE	18170
 ANPE Agence	15961
+ANPER Agence Nigérienne de Promotion	18103
 ANPI COMORES Agence Nationale	13727
 ANPI National Agency	15411
 ANPMA National Agency of Medicinal and Aromatic Plants	17458
@@ -81,6 +90,7 @@ ANRPTS Agence Nationale du Registre des Populations	17864,43
 ANRPTS Civil Registry Agency	17849
 ANSADE Agence	17907
 ANSADE Agence Nationale	17881
+ANSD Agence Nationale	18290,20,6
 ANSIE Agence Nationale des Systèmes	13836
 ANSSI Agence Nationale	15493
 ANSUT Accountability Mechanism National Cybersecurity Agency	3604
@@ -90,6 +100,7 @@ APDP Agence Nationale de Promotion	17870
 APEX Agence	15961
 APIM Agence de Promotion des Investissements	17907
 APIM Agence de Promotion des Investissements ARE Autorité	17881
+APIX Publics Works and Investment Promotion Agency	18293
 ARME Multisectoral Regulation Agency	11965
 ARMP Regulatory Agency for Public Procurement	15518
 ARPCE Agence de Régulation des Postes	15493
@@ -135,10 +146,11 @@ African Union Development Agency-NEPAD	17583
 African Union Development Agency-New Partnership for Africa	5804
 African Union Development Agency. AI	6948
 African Union for Statistics Agencies	16863
+Afrique AFD Agence Française de Développement ARREC	18103
 Afrique Bailleurs Agence	10519
 Afrique Subsaharienne APME Agence de Promotion des Petites	15501
 Agenc	15584
-Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17,201,7,36,12,12,8,1149,33,7,1,24,49,16,140,1,24,12,55,4,57,25,7,13,2,18,23,18,9,5,6,16,2,16,85,256,3,44,12,89,18,13,38,17,10,3,1,18,48,124,24,65,664,7,18,12,4,8,2,3,2,7,11,5,12,8,19,18,23,8,13,29,7,3,5,6,31,3,1,2,2,8,7,12,2,3,39,5,46,3,30,29,20,3,14,20,3,13,7,9,1,12,6,6,33,6,18,2,31,15,22,25,10,13,42,16,29,1,20,24,9,9,15,1,4,9,1,14,7,4,14,5,8,20,1,15,9,12,1,11,10,5,25,7,11,26,2,2,3,3,50,10,6,19,1,9,5,9,94,6,26,1,700,35,2,7,7,24,61,47,22,29,7,74,42,6,6,10,1,5,8,3,7,3,2,4,1,9,11,1,6,3,3,5,7,1,1,8,2,12,7,5,5,1,3,1,1,1,1,5,4,1,10,4,2,1,1,3,6,2,1,4,2,2,8,1,1,5,10,4,1,9,3,2,4,2,14,4,16,3
+Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17,201,7,36,12,12,8,1149,33,7,1,24,49,16,140,1,24,12,55,4,57,25,7,13,2,18,23,18,9,5,6,16,2,16,85,256,3,44,12,89,18,13,38,17,10,3,1,18,48,124,24,65,664,7,18,12,4,8,2,3,2,7,11,5,12,8,19,18,23,8,13,29,7,3,5,6,31,3,1,2,2,8,7,12,2,3,39,5,46,3,30,29,20,3,14,20,3,13,7,9,1,12,6,6,33,6,18,2,31,15,22,25,10,13,42,16,29,1,20,24,9,9,15,1,4,9,1,14,7,4,14,5,8,20,1,15,9,12,1,11,10,5,25,7,11,26,2,2,3,3,50,10,6,19,1,9,5,9,94,6,26,1,700,35,2,7,7,24,61,47,22,29,7,74,42,6,6,10,1,5,8,3,7,3,2,4,1,9,11,1,6,3,3,5,7,1,1,8,2,12,7,5,5,1,3,1,1,1,1,5,4,1,10,4,2,1,1,3,6,2,1,4,2,2,8,1,1,5,10,4,1,9,3,2,4,2,14,4,16,3,32,13,132,1,20,2,1,2,3,16,4,1,5,2,13,4,5,1,14,7,2,2,13,9,12,5,1,4,6,1
 Agence ALIMENTAIRE EN AFRIQUE DE L’OUEST	17861
 Agence Afrique	4127
 Agence Américaine	16644
@@ -161,6 +173,7 @@ Agence Centrafricaine du Développement du Digital	1936,76
 Agence Centrale	969
 Agence Chinoise de Coopération Internationale	15605
 Agence Comptable	15412,589,380
+Agence Comptable Chargée des Dépôts	18274
 Agence Comptable. Article	15375
 Agence Congolaise	15426,518,125,23,1,5,32,55,42,22,126,111,36,5
 Agence Congolaise Pour la Création des Entreprises	16249
@@ -196,7 +209,7 @@ Agence France Press	13313
 Agence France Presse	14932
 Agence Française	13433,2226,353,1816
 Agence Française Islamique	10965
-Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7
+Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16
 Agence Française de Développement AFRF	15475
 Agence Française de Développement APC	15673
 Agence Française de Développement Page	15553
@@ -212,6 +225,7 @@ Agence Gabonaise de Presse	15953,107,99,123,36,23,44,9,71,37,4,3,240
 Agence Gabonaise de Presse URL	16159,159,23,53,71,37,4
 Agence Gabonaise de Presse. Ce	15953
 Agence Gabonaise de Sécurité Sanitaire des Aliments	15500
+Agence Gouvernementale	18105
 Agence Guineenne	16612
 Agence Guinéenne	16612,71
 Agence Internationale	15670
@@ -241,12 +255,13 @@ Agence Marocaine de Développement des Investissements	5745
 Agence Mauritanienne	2154,1179,22,2692,11869,124,10,1,39
 Agence Mauritanienne de Sécurité Sanitaire des Aliments. Ce	18001
 Agence Mercy Corps CAR Prefectures	15661
+Agence Na	18324
 Agence Na-	13681
 Agence Nafionale	15400
-Agence National	16391
+Agence National	16391,1895
 Agence National de Développement du Numérique	13717
 Agence National du Domaine	15582
-Agence Nationale	1005,555,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15,274,3,90,52,631,295,236,1201,398,98,69,14,334,469,664,25,31,44,67,11,31,32,16,7,4,16,51,2,23,6,5,45,8,49,88,65,69,38,36,29,144,34,12,75,3,185,15,2,9,17,779,10,36,163,14,142,1,3,3,4,3,14,3,22,4,12,24,72,5,18,20,44,12
+Agence Nationale	1005,555,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15,274,3,90,52,631,295,236,1201,398,98,69,14,334,469,664,25,31,44,67,11,31,32,16,7,4,16,51,2,23,6,5,45,8,49,88,65,69,38,36,29,144,34,12,75,3,185,15,2,9,17,779,10,36,163,14,142,1,3,3,4,3,14,3,22,4,12,24,72,5,18,20,44,12,28,7,7,8,8,8,27,8,2,12,2,2,26,5,22,28,6,3,4,1,2,8,11,4,8,36,1,4,57
 Agence Nationale Article	17817
 Agence Nationale Loi	16616
 Agence Nationale Nationale	17817
@@ -293,6 +308,7 @@ Agence Nationale de Traitement	10821
 Agence Nationale de Télémédecine	17882
 Agence Nationale de Télésanté	17882
 Agence Nationale de Vaccination	15475
+Agence Nationale des Affaires Maritimes ANSD	18291
 Agence Nationale des Bourses du Gabon	15376
 Agence Nationale des Domaines	15583
 Agence Nationale des Eaux	8891
@@ -320,7 +336,14 @@ Agence Nationale du Tourisme	4402
 Agence Nationale du Transport Terrestre	7212
 Agence Nationare	15400
 Agence Natlonalede	15584
-Agence Nigérienne	3341
+Agence Nigérienne	3341,14803
+Agence Nigérienne de Certification Electronique	18151
+Agence Nigérienne de Normalisation	18238
+Agence Nigérienne de Presse	18242,25
+Agence Nigérienne de Presse URL	18166,11,74,3,1
+Agence Nigérienne de Promotion	18103,153
+Agence Nigérienne de Régulation Pharmaceutique	18148
+Agence Nigérienne des Allocations	18143,27
 Agence Nombre	13390
 Agence Nombre de Guichet Nombre de GAB Nombre	13390
 Agence Norvégienne de Coopération	16644
@@ -336,26 +359,44 @@ Agence Ritha Accueil Politique Coopération Décentralisation	16092,1,37,97,148,
 Agence Routière du Burundi	13329
 Agence Rwandaise de Gouvernance	15936
 Agence Réalisation	10975
+Agence Régional de Développement de Diourbel	18286
 Agence Régionale	15390
+Agence Régionale de Développement	18286
+Agence Régionale de Développement ARTP	18291
+Agence Régionale de Développement de Dakar	18286
+Agence Régionale de Développement de Kaffrine	18286
+Agence Régionale de Développement de Kaolack	18286
+Agence Régionale de Développement de Kolda	18286
+Agence Régionale de Développement de Kédougou	18286
+Agence Régionale de Développement de Louga	18286
+Agence Régionale de Développement de Matam	18286
+Agence Régionale de Développement de Saint-Louis	18286
+Agence Régionale de Développement de St Louis	18286
+Agence Régionale de Développement de Tambacounda	18286
+Agence Régionale de Développement de Thiès	18286
+Agence Régionale de Développement de Ziguinchor	18286
 Agence Réinsertion	18032
 Agence SEME-CITY	15588
-Agence Spatiale Africaine	16387
+Agence Spatiale Africaine	16387,1937
 Agence Spatiale Algérienne	15555
 Agence Spatiale Européenne	16026,1905
 Agence Spatiale de Côte	12243
 Agence Suédoise de Coopération	16644
 Agence Suédoise de Coopération Internationale	17827
+Agence Sénégalaise	18322
 Agence Techghil	17844
 Agence Togo Digital	1749,2072
 Agence Togolaise de Presse	8718
 Agence Togolaise de Presse. Tous	8718
 Agence UMOA-Titre	18063
+Agence URL	18113
 Agence Universitaire	13301
 Agence Vu le Décret	18032
 Agence de Consolidation des Technologies	15411
 Agence de Contractualisation	10829
 Agence de Dé	13524
-Agence de Développement	643,6463,555,3281,1,2581,2581
+Agence de Dé-	18322
+Agence de Développement	643,6463,555,3281,1,2581,2581,2186
 Agence de Développement Numérique	4092
 Agence de Développement des Coordinateur	16012
 Agence de Développement des Petites	2733,12855,259,258,39,341
@@ -373,14 +414,16 @@ Agence de Formation Professionnelle	15936
 Agence de Gestion	6959,8977,1905
 Agence de Gestion du Fonds	7727,198,1,73,9857,14,12,150,38,9
 Agence de Microréalisation	14436
+Agence de Modernisation des Villes du Niger	18113
 Agence de Presse XINHUA	15605
 Agence de Presse. Ouvrant	16506
-Agence de Promotion	15416,2411
+Agence de Promotion	15416,2411,400
 Agence de Promotion des Investissements	3222,3884,3717,2470,2249,46,2330
 Agence de Promotion des Petites	15999
 Agence de Régulation	13290,1,10,12,11,7,26,15,5,91,14,58,76,36,157,1771,597
 Agence de Régulation Multisectorielle	17836
 Agence de Régulation des Communications Electroniques	11580
+Agence de Régulation des Marchés	18412
 Agence de Régulation des Marchés Publics	15518,24,457
 Agence de Régulation des Postes	6684,5237,3451,121,60
 Agence de Régulation des Secteurs	13743,66
@@ -405,6 +448,7 @@ Agence des Services	10821,4658,38,6
 Agence des Systèmes	2451,184,98,462,1051,1014,2132,1872,6319,176,162,184,7,32,329,57
 Agence des Systèmes CBL	16144
 Agence des Technologies	17824,8,24,14,95,1
+Agence des Travaux	18395
 Agence des Télécommunications de Côte	6834,1083
 Agence du Bassin du Fleuve MALI	17827
 Agence du Développement Numérique. Allouer	17836
@@ -414,6 +458,7 @@ Agence du Médicament de Madagascar	14622
 Agence du Numerique	715
 Agence du Numérique	15424,2436,22
 Agence' En	15416
+Agence-De-lInformatique-de-lEtat	18298,133
 Agence-Nation	15584
 Agence-de Régulation	13809
 Agence. Après	10975
@@ -428,7 +473,9 @@ Agence. CHAPITRE VI	17811
 Agence. Ce	15400
 Agence. Ces	10975
 Agence. Cette	9656,1319,2326
+Agence. C’est	18291
 Agence. Dans	735,10141
+Agence. D’une	18291
 Agence. Echantillon	10975
 Agence. Elle	13301,2115
 Agence. FOCUS Accompagnement des Entreprises	18013
@@ -451,12 +498,13 @@ Agence. Toute	16322
 Agence. Une	8360
 Agencement	3537
 Agencements	16047
-Agences	3396,7480,1068,1397,486,1715,57,337
+Agences	3396,7480,1068,1397,486,1715,57,337,2350,5
 Agences Finance SA	10965
 Agences Gouvernementales Partenaires	15478
 Agences MDNAC Ministère	13341
 Agences MENA Ministère	15746
 Agences Régionales	16563
+Agences Régionales de Développement	18286
 Agences Territoriales de Développement Agricole	16281
 Agences de Bassins	17812
 Agences de Régulation du Cameroun	10975
@@ -483,7 +531,7 @@ Agencia de Promoción de Inversiones	4209
 Agenciamento	11532,5579
 Agencias	4209,12689
 Agencias Gubernamentales	15478
-Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12,68,220,148,437,137,3,3,3,131,2,56,96,12,57,27,12,114,16,61,107,330,106,18,55,20,15,2,25,192,6,34,5,22,618,547,195,116,71,1,6,62,7,86,40,17,312,14,40,40,68,93,82,49,317,439,13,219,25,14,49,6,8,8,35,5,2,94,20,6,9,2,23,10,86,12,13,44,63,229,310
+Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12,68,220,148,437,137,3,3,3,131,2,56,96,12,57,27,12,114,16,61,107,330,106,18,55,20,15,2,25,192,6,34,5,22,618,547,195,116,71,1,6,62,7,86,40,17,312,14,40,40,68,93,82,49,317,439,13,219,25,14,49,6,8,8,35,5,2,94,20,6,9,2,23,10,86,12,13,44,63,229,310,292,103
 Agencies ANDE	3549
 Agencies Annually NIA	15845
 Agencies C- Supply	7548
@@ -504,6 +552,7 @@ Agencies MIP-1 Malawi Implementation Plan	13060
 Agencies MMO Mobile Money Operator MNO	14674
 Agencies MNOs Mobile Network Operators Nigerian	11857
 Agencies MOH Ministry of Health MOHSW Ministry	16860
+Agencies Ministry of Economy PIU-CERP and Finance	18198
 Agencies Ministère	15553
 Agencies MoCDE Ministry of Communication and Digital Economy	16923
 Agencies MoE	14819
@@ -527,8 +576,9 @@ Agencies and Counties MERL Monitoring	7548
 Agencies and Institutions	961,10899
 Agencies and Local Authorities	13646
 Agencies of Government Interoperability	16924
+Agencies. SERVICOM	18205
 Agencies. The Digital Eswatini Project	12990
-Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99,30,144,60,153,38,14,21,5,5,49,13,9,27,15,13,10,67,114,6,5,7,3,11,12,16,6,16,7,32,35,42,164,304,39,233,185,19,8,268,172,8,100,22,121,24,208,101,11,175,2,226,49,47,211,81,109,219,230,20,13,6,12,1,42,20,28,10,120,52,78,25,355,86,148,21,34
+Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99,30,144,60,153,38,14,21,5,5,49,13,9,27,15,13,10,67,114,6,5,7,3,11,12,16,6,16,7,32,35,42,164,304,39,233,185,19,8,268,172,8,100,22,121,24,208,101,11,175,2,226,49,47,211,81,109,219,230,20,13,6,12,1,42,20,28,10,120,52,78,25,355,86,148,21,34,205,45,8,119,28
 Agency A BfLL ENTITLED	16851
 Agency Act No	2727
 Agency Administrative	2727
@@ -629,6 +679,7 @@ Agency for Slum Upgrading and Social Housing	13897
 Agency for Social Protection	10307
 Agency for Strengthening Technologies	15411
 Agency for Sustainable Energy ME Ministry of Energy	11549
+Agency for Works and Road Management AGRHYMET	18309
 Agency for Youth Employment Promotion	17906
 Agency of Government	11976,4971
 Agency's Corporate Headquarters	9576
@@ -668,6 +719,7 @@ Anti-Doping Agency of Kenya Data Controller INST-9943213BF9D	7167
 Anti-Illegal Immigration Agency	11649
 Applicable Agencies	11854
 Apr-2025 Implementing Agency	14954
+Aquaculture ANPEJ Agence	18286
 Arab Marketing Agency	8133
 Area AFD French Development Agency AfDB	13885
 Armed Forces SARHO Sudanese Agency for Relief	6947
@@ -699,6 +751,7 @@ BURAO AGENCIES LIMITED Data Controller INST-20514966105	7167
 Background The Environmental Protection Agency	17255
 Background The Namibia Statistics Agency	13031
 Bank ANINF Agence Nationale des Infrastructures Numériques	15447
+Bayelsa State Electricity Regulatory Agency	18186
 Belgian Development Agency	1235,9629,2448,2,35
 Belgium Development Cooperation Agency	12333
 Benin's Agency for Information Systems and Digital	3112,102
@@ -730,6 +783,7 @@ CAMTEL’s Special Commercial Agency of Yaoundé	9917
 CANAM Agent de Santé Communautaire Agence	17882
 CBK Agency Agreement	14546
 CDMT. Neither the Agence Nationale	4015
+CEDEAO ASER Agence	18316
 CENA Agence Nationale de Traitement	10821
 CENA RESPONSABLE DE TRAITEMENT Agence Nationale	10821
 CENTRAL STATISTICAL AGENCY ORGANIZATIONAL STRUCTURE	13965
@@ -835,6 +889,8 @@ DEPARTMENTAL AND AGENCY INFORMATION ON ELECTRONIC	16885
 DEPARTMENTS AND AGENCIES	11854,2692
 DEPARTMENTS AND AGENCIES MDB	12253
 DGI du Bénin The Agence Française de Développement	1238
+DGPSN. Agencies	18301
+DIGITAL SUBSCRIBER LINE AGENCE NATIONALE	18105
 DIGITAL TAILOR AGENCY LIMITED Data Controller	7167
 DIGITAL TAILOR AGENCY LIMITED Data Processor	7167
 DIRECTION DES SERVICES DES AGENCES	16175
@@ -844,7 +900,7 @@ DRACO AGENCIES AUCTIONEERS Data Processor INST-68415451219	7167
 DRC Digital Transformation Project Agence Française	2126
 DUKALOCO MARKETING AGENCY LIMITED Data Controller	7167
 Danish Energy Agency	12233
-Danish International Development Agency	14997,624
+Danish International Development Agency	14997,624,2680
 Danish International Development Agency DE4A Digital	15621
 Danish Trade Union Development Agency	16144
 Data Inter-operability for Related Agencies	11129
@@ -859,10 +915,10 @@ DatacenterDynamics and Ecofin Agency	778
 Dedicated Children's Agency Data Controller INST-84490224289	7167
 Dedicated Children's Agency Data Processor INST-84490224289	7167
 Defence Intelligence Agency	11928
-Department and Agencies	3907,12692
+Department and Agencies	3907,12692,1606
 Department and Agency	11854,5295
 Departmental and Agency Information	16885
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572,388,29,54,1
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
 Departments and Agencies Independent	7548
@@ -877,7 +933,7 @@ Departments and Agencies MISO Management Information System	13005
 Departments and Agencies ML	958
 Departments and Agencies ML Machine Learning MoH	12240
 Departments and Agencies MM Materials Management MoFEDIP	13420
-Departments and Agencies MO Market Operator MTS	12062
+Departments and Agencies MO Market Operator MTS	12062,6124,31
 Departments and Agencies MRA	13053
 Departments and Agencies MS Microsoft MTBF Mean	13185
 Departments and Agencies NDS National Development Strategy	13359
@@ -893,7 +949,7 @@ Departments and State Agencies MoH Ministry of Health	12151
 Dept DG LISGIS Sector Ministries Agencies	17116
 Description Agence	1291,770,2313
 Description National Space Research and Development Agency	1274,1196,2103
-Development Agency	1885,1719,1244,1780,1036,1453,1449,970,3399
+Development Agency	1885,1719,1244,1780,1036,1453,1449,970,3399,3197,36
 Development Agency GNI Gross National Income	13312,2
 Development Agency STI Science	1814
 Development Agency VIP Ventilated Improved Toilets	12970
@@ -906,6 +962,7 @@ Digital Agency	15424
 Digital Development Agency	1161,942,474,1058,1360,613,126,5859,5894
 Digital Development Agency ANRTIC National ICT	13731
 Digital Development Financing Implementing Agency	1284
+Digital Earth Africa and Senegal’s Agence Nationale	18379
 Digital Economy Development Agency	2306
 Digital Eswatini Executing Agency	13017
 Digital Government Agency	16942
@@ -979,6 +1036,8 @@ Ecofin Agency. Fetched	5165
 Economic Empowerment Agency ZSSF Zanzibar Social	7763
 Economic Regulation Agency	15491
 Economie Numérique ANIES Agence Nationale	16626
+Economy and Energy Management Agency	18370
+Economy and Energy Management Agency BPSA	18370
 Edo State Skills Development Agency	16942
 Education ADRA Adventist Development and Relief Agency	14896
 Education Implementing Agency Ministère	16675
@@ -990,7 +1049,7 @@ Electronic Communications Regulatory Agency African Union	15372
 Emerging Innovation Agency Technologies	7548
 Emerging Security Agencies	7548
 Emerging Technologies Agency	4583
-Emirates News Agency	9098
+Emirates News Agency	9098,9092
 Emirates News Agency HARARE	13692
 Emirates News Agency SAKAÏ	16576
 Emirates News Agency URL	16576
@@ -1068,6 +1127,7 @@ Executing Agency COUNTRY AND STRATEGIC CONTEXT	11863
 Executing Agency GOVERNMENT OF THE CENTRAL	15758
 Executing Agency UNHCR Djibouti COUNTRY	13938
 Executing Agency. UNHCR	13938
+Executive Summary The Agence National	18309
 Executive Summary The Civil Service Agency	16985
 Exemption of Agency	12899
 Existing Systems Agencies	12157
@@ -1092,10 +1152,11 @@ Finnish Digital Agency	8276
 Finnish National Agency for Education	14050
 First Government Agency	13042
 Food Reserve Agency. Broader Benefits Across	13510
+Food Security Coordination Agency	18301
 Franceville The National Agency for Digital Infrastructures	6818
 Francophone University Agency	10864
 French Agency for Development	11380,5931
-French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19,1944,1151,499,35,48,58,2,196,1,111,8,1872,21
+French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19,1944,1151,499,35,48,58,2,196,1,111,8,1872,21,423,8,8
 French Development Agency and African Development Bank	14997
 French Development Agency and UNICEF	15601
 French Development Agency. DRC	6073
@@ -1165,6 +1226,7 @@ Government Ministries and Agencies. The Ministry of Interior	16874
 Government Pensions Administration Agency	10102
 Government of Morocco Responsible Agency	17441
 Governmental Agencies	17367
+Government’s Public Procurement Agency	18370
 Govt-2024. The ICT Agency	16885
 Greenhouse Gases GIZ The German Agency	1264
 Guarantee Agency	11468,1500,1929
@@ -1178,6 +1240,7 @@ Heads of Departments and Agencies Civil	17124
 Heads of UN Agencies	10210
 Health Facilities Regulator Agency	9204
 Health Facilities Regulatory Agency	15798,420
+Health Information System Agency	18158
 High Commissioner for Refugees UN Refugee Agency	12328
 High. Implementing Agency	16398
 Highlighting the Agency	9576
@@ -1202,6 +1265,7 @@ IMPLEMENTING AGENCY Implementing Agency Name Type	1284
 INNOVATION AGENCY	12834
 INSTRINSIC AGENCY	17127
 INSTRUMENTAL AGENCY	17127
+INTERNATIONAL COOPERATION AGENCY LS MBPS MSP	18105
 INTERNATIONAL DEVELOPPEMENT AGENCY	15923
 IPA Investment Promotion Agency LNG Liquefied	16996
 ISR01192 Implementing Agencies	11395
@@ -1227,7 +1291,7 @@ Implementing Agencies Ministry of Posts	15513
 Implementing Agencies The Kenya Social and Economic	14487
 Implementing Agencies and Development Partners	12942
 Implementing Agencies and Specialized Institutions	1814
-Implementing Agency	761,467,56,970,1350,5829,1531,596,660,168,24,14,243,662,607,999,74,8,534,105,44,80,362,752,26
+Implementing Agency	761,467,56,970,1350,5829,1531,596,660,168,24,14,243,662,607,999,74,8,534,105,44,80,362,752,26,1452
 Implementing Agency Benin	16436
 Implementing Agency Central African Republic	15731
 Implementing Agency EPTC	13017
@@ -1377,15 +1441,17 @@ Key Findings Namibia Statistics Agency	12383
 Key Other Government Agencies	17367
 Kingdom of Eswatini Space Agency	13101
 Kisubi Associated Writers Agency	11022
-Korea International Cooperation Agency	208,298,264,136,1315,914,2425,165,932,1464,150,113,39,238,134,155,30,380,61,29,279,394,849,337,178,788,2920,285,1272,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Korea International Cooperation Agency	208,298,264,136,1315,914,2425,165,932,1464,150,113,39,238,134,155,30,380,61,29,279,394,849,337,178,788,2920,285,1272,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1358
 Korea International Cooperation Agency MINEDUC	14915
 Korea National IT Industry and Promotion Agency	15518
 Korea Trade-Investment Promotion Agency	14398
 L AFRICAN MARITIME AGENCIES SA AMA-GUINEE	16623
 L AGENCE DE NAVIGATION AERIENNE ANA	16623
 LA REPUBLIQUE AGENCE DE REGULATION ET	13324,90
+LA SOCIETE DE L’INFORMATION AGENCE FRANCAISE	18105
 LICENSING OF AGENCIES AND PUBLIC AUTHORITIES	13381
 LISGIS Data System Civil Service Agency	17116
+LISTE DES ACRONYMES AFD Agence	18316
 LODA Local Administrative Entities Development Agency	15138
 La Agencia	1701
 La Agencia Nacional de Ciberseguridad	16965
@@ -1394,6 +1460,7 @@ La Agencia Nacional de Investigación Financiera	1701
 La National Information Technology Development Agency	9740
 Lagos State AIDS Control Agency	9444
 Land Mapping Agency	12389
+Land Registry Agency	18109
 Land Registry and Mapping Agency	12389
 Launches Agency Banking Roll-Out	7964
 Law Enforcement Agencies	11131,3,143
@@ -1405,6 +1472,8 @@ Lead Outputs Year Outcomes Agency	16858
 Lead Outputs Year Outcomes Agency Updated	16858
 Lead Support Agencies Frame Cost	7548
 Legal Metrology Agency Zimbabwe	13320
+Legal and Judicial Assistance Agency	18125
+Les Agences	18286
 Les Agences du Système des Nations Unies	17844
 Lesotho Millennium Development Agency	769
 Lesotho News Agency	3358,4004,357,4985,10,5,23,2,2,3,2
@@ -1485,12 +1554,16 @@ Measurable Target Supporting Responsibil Agency	1000
 Medium Enterprises Development Agency	13256,2889,629
 Medium and Micro Enterprise Development Agency	15578
 Mental Health Agency	7859
+Met Service and Hydrology Agency	18309
 Meteorological Government Agencies. Use	17157
 Meteorology ASECNA Agency	13729
 Microfinance Guarantee Agency	14897
 Migration of South African Social Security Agency	2626
+Ministerial Department Implementing Agency Senegal Ministry	18359
+Ministerial Department Implementing Agency Senegal Republic	18359
 Ministries Department and Agencies	3862
 Ministries Departments and Agencies	11951
+Ministries Departments and Agencies of Government	18205
 Ministries Departments and Agencies. Signed Henrietta Okokon	11951
 Ministries and Agencies	5444,7476,1,2,23,15,12,1152,824
 Ministries and Agencies OPM Office	12923
@@ -1502,6 +1575,7 @@ Ministries of Government Agencies. Agriculture	17157
 Ministry of Agencies	1000
 Ministry of Agriculture and Environmental Protection Agency	16853
 Ministry of Agriculture and Livestock. The Agency	17157
+Ministry of Economy and Finance Implementing Agency	18198
 Ministry of Economy and Finance. Implementing Agencies	12137
 Ministry of Economy and Finance. Implementing Agency	12137
 Ministry of Family and Social Inclusion Implementing Agency	11855
@@ -1516,6 +1590,7 @@ Mme Louise BOUKANDOU Agence Gabonaise de Presse	15973
 MoUs Local Administrative Entities Development Agency	14935
 Moderate Agency	11863
 Moderate Agency OF THE OPERATION	11863
+Moderate Organizations Borrower Responsible Agency Republic	18359
 Moderately Satisfactory Implementing Agency	16614
 Monetary Agency WAMI West African Monetary	17235
 Money Transfer Agencies and Operators	13122
@@ -1526,6 +1601,7 @@ Morocco's Agence de Développement du Digital	16760
 Morocco's Digital Development Agency	3272,363
 Morocco's National Telecommunications Regulatory Agency	2673,2301
 Morocco’s National Telecommunications Regulatory Agency	9868
+Moyennes Entreprises ANA Agence Nationale de Promotion	18286
 Moyennes Entreprises ART Agence	15501
 Mozambique’s Agency for Investment and Export Promotion	8246
 Multilateral Investment Guarantee Agency	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1,1378,4874,2174,653,5,935,723,2691,67,149,568,529
@@ -1534,6 +1610,7 @@ Multisector Regulatory Agency	11873
 Multisectoral Economic Regulatory Agency	11891
 Multisectoral Regulation Agency	15983
 Multisectoral Regulatory Agency	3416,8549,79
+Municipal Development Agency AFOM	18309
 Municipal Infrastructure Support Agency	11289
 NAMIBIA STATISTICS AGENCY	12899,132
 NATIONAL CYBERSECURITY AGENCY	11464
@@ -1548,6 +1625,8 @@ NGARI GNALA. AGENCE NATIONALE DES INFRACTURES	16381
 NIGER AGENCE CONSEIL Décision	998
 NITA National Information Technology Agency Figure	582
 NITA The National Information Technology Agency	11052
+NM021-17881 REPUBLIQUE DU NIGER AGENCE NATIONALE	18194
+NMHS. The National Agency for Civil Aviation	18309
 NSA Namibia Statistics Agency NSFAF Namibia	12923
 NYDA National Youth Development Agency OCIO	11261
 NYDA National Youth Development Agency OPSC	11224
@@ -1575,7 +1654,9 @@ National AI Agency Addressing	10152
 National AIDS and Health Promotion Agency	12606
 National Agency	1927,949,96,69,1814,724,568,304,5694,1691,1011,666,40,68,523,955,750
 National Agency Against Trafficking	16874
-National Agency for Civil Aviation and Meteorology	13729,23,61
+National Agency for Agricultural and Rural Advisory AWS	18309
+National Agency for Civil Aviation and Meteorology	13729,23,61,4496,83
+National Agency for Civil Aviation and Meteorology ANAMS	18309
 National Agency for Civil Registration and Identity	2349
 National Agency for Clinical Engineering and Digital Health	11892
 National Agency for Computer Security	9616
@@ -1599,6 +1680,7 @@ National Agency for Information and Communication Technology	15480
 National Agency for Information and Systems Security	7048
 National Agency for Land Conservation	4596,408
 National Agency for Large-Scale Works and Infrastructures	15411
+National Agency for Legal and Judicial Assistance	18125
 National Agency for Medical Assistance	17906
 National Agency for Medicines and Medical Evacuations	13791
 National Agency for People Registry and Secure Documents	1833
@@ -1609,10 +1691,12 @@ National Agency for Rural Electrification	11936
 National Agency for Rural Electrification ANER	15659
 National Agency for Secure Documents	2823,2575
 National Agency for Secure Titles	2972
+National Agency for Spatial Planning ANSD	18309
 National Agency for State Digitalization	6228,10451
 National Agency for State Information System	13861
 National Agency for Statistics	3604
-National Agency for Statistics and Demography	2356
+National Agency for Statistics and Demography	2356,15953,50
+National Agency for Statistics and Demography ANCAR	18309
 National Agency for Technical and Vocational Education	16086
 National Agency for Telemedicine and Medical Information	17870
 National Agency for Universal Telecommunication Services	3604
@@ -1621,6 +1705,7 @@ National Agency for Universal Telecommunications and ICT	6835
 National Agency for Vibration	3764
 National Agency of Digital Infrastructure and Frequencies	15447
 National Agency of Medicinal and Aromatic Plants	17458
+National Agency of Meteorology Senegal ANAT	18309
 National Anti-Corruption Agency	17934
 National Artificial Intelligence Agency	6526,38,3010,2108
 National Artificial Intelligence Agency. Samuel Mizero	10152,19
@@ -1680,7 +1765,7 @@ National Information Systems Development Agency	6130
 National Information Systems Security Agency	3228
 National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39,993,13,4535,72,125
 National Information Technology Agency NMCP National	15556
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5,400,3532,758,154,31,54
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5,400,3532,758,154,31,54,401,58
 National Information Technology Development Agency Act	10157,1836
 National Information Technology Development Agency NVDA	11952
 National Information Technology Development Agency Nigeria	8764
@@ -1699,15 +1784,16 @@ National Nutrition Agency and Gambia Bureau	16867
 National Orientation Agency	7141,3,1407,2578,737,5926
 National Personal Data Protection Agency of Sao	6361
 National Planning Commission Central Statistical Agency	13965
-National Primary Health Care Development Agency	771
+National Primary Health Care Development Agency	771,17482
 National Public Health Agency	9370
 National Register Agency	1571,421
 National Road Safety Agency	5004
 National Rural Electrification Agency	15659
 National Security Agency	1777,741,14457
 National Security Agency OIT	16975
+National Social Investment Programme Agency	18269
 National Space Research and Development Agency	1274,1196,2103,6556,4785
-National Statistics Agency	223,12276,408,403,7,1572
+National Statistics Agency	223,12276,408,403,7,1572,3412
 National Statistics Agency ZNCC Zimbabwe National	12512
 National Statistics Agency of Côte	10508
 National Technology Agency	15550
@@ -1730,10 +1816,11 @@ Nigeria US Trade and Development Agency	299,236,1034
 Nigeria's National Information Technology Development Agency	9953
 Nigeria's National Space Research and Development Agency	3063
 Nigerian Maritime Administration and Safety Agency	2677,15131
-Nigerian Meteorological Agency	11966,2983,1998
+Nigerian Meteorological Agency	11966,2983,1998,1181,3
 Nigerian National Agency for Food and Drug Administration	4426
 Nigeria’s Defence Intelligence Agency	5215
 Nigeria’s National Information Technology Development Agency	5144,2028,2710
+Nigerien Agency	18125
 No. Implementing Agency	11965,1769
 Nodal Agency	12917
 Nodal Agency Annual	12917
@@ -1758,14 +1845,17 @@ PART II ZAMBIA STATISTICS AGENCY	13305
 PAYS AGENCES	15965
 PFMU and Implementing Agencies	16949
 PNUD Agence	15724
+POSTES ET TELECOMMUNICATIONS AUF AGENCE UNIVERSITAIRE	18105
 PPP Agencies	7548
 PPP National Environmental Agency	15372
 PREFACE The Civil Service Agency	16985
 PRESS AGENCYCamer Press Agency DECOUVREZ NOTRE	9916
 PRINCIPAUX SIGLES ET ACRONYMES ABE Agence	10876
+PROFESSEURS DE CEG FRANCO-ARABE ANAB AGENCE	18170
 PUBLIC SECTOR AGENCIES	14720
 PUBLISHED BY KENYA SPACE AGENCY	1131
 Parents and Teachers CAOA Central Agency for Organisation	15604
+Partenaires Agence	18346
 Partner Government Agencies	13042
 Partner Government Agency	13042
 Partner Governmental Agencies	15478
@@ -1777,7 +1867,7 @@ Patent and Company Registration Agency Ministry of Finance	12454
 Patents and Companies Registration Agency	6187,6295,817
 Patents and Companies Registration Agency Act	13299,267
 Patents and Company Registration Agency PAYZ Payments	13347
-Peer Reviewing Agency	13365,364
+Peer Reviewing Agency	13365,364,4580
 Permanent Secretaries and Heads of Agencies	13005
 Person International Energy Agency International Monetary	11136
 Personnel ASSI Agence des Services	15583
@@ -1803,6 +1893,7 @@ Privatisation Agency	12598
 Procurement Regulatory Agency	15411
 Producers Funding Agency	15024,819,822,380,120,201,559
 Product GIZ German International Development Agency	1814
+Producteurs Agence	18337
 Professional Agency	12389
 Program ANACM National Agency of Civil Aviation	13729
 Program Loan ARPCE Agence de Régulation des Postes	15372
@@ -1817,6 +1908,7 @@ Projects Agency	15473
 Projects The Japan International Cooperation Agency	14738
 Promotion Agencies	17157
 Promotion Agency2nd Floor	14848
+Promotion Touristique Agence Sénégalaise	18306
 Promoção da Implementing Agency	10768
 Proposed Data Protection Agency Develop	1161
 Proposed Data Protection Agency Ministry of Justice	1161
@@ -1832,6 +1924,7 @@ Public Korea International Cooperation Agency	699
 Public Procurement Departments and Agencies	11905
 Public Procurement Regulatory Agency	17558
 Publication Les Agences Régionale	16563
+Publics Works and Investment Promotion Agency	18293
 Puntland Water Development Agency	15015
 Quality Assurance Agency for Higher Education	14787
 Qualité ARMP Agence de Régulation des Marchés	10975
@@ -1840,6 +1933,7 @@ R AGENCE ROYAL AIR MAROC RAM	16623
 RBA Rwanda Broadcasting Agency REMA Rwanda	718
 RDC Agence Nationale	15487
 REFORME ADMINISTRATIVE BENARBIA Sid Ahmed Agence	15472
+REPUBLIC OF NIGER Implementing Agency	18104
 REPUBLIQUE AGENCE DE REGULATION ET	13301
 REPUBLIQUE DU BURUNDI AGENCE DE REGULATION	13586
 REPUBLIQUE DU BURUNDI Agence de Développement du Eurundi	13524
@@ -1858,6 +1952,7 @@ Recommendation Government Agency Status Remarks Openness	14750
 Reforming Financial Systems for Global Agency	10718
 Refugee Agency and Migration Commission of Liberia	17350
 Regarding African Agency	5242
+Regional Development Agencies	18305
 Regional Level Vital Events Registration Agency	12250
 Registration Agency	13681
 Regulation Agency for Post and Electronic Communication	15553
@@ -1891,6 +1986,7 @@ Republic of Malawi Implementing Agencies National	13111
 Republic of Mozambique Implementing Agencies	12832
 Republic of Mozambique Implementing Agency	12832
 Republic of Mozambique. Responsible Agency	12220
+Republic of Senegal Implementing Agency	18301
 Republic of South Sudan. Implementing Agency	14910
 Republic of Sudan Implementing Agency	14948
 Republic of Zambia Implementing Agency	1867,424,1271,9770
@@ -1942,6 +2038,7 @@ SCREENGRAB The Digital Health Agency	10331
 SDG Custodian Agency Prize	13394,81
 SECURITY AGENCY	2727
 SECURITY AGENCY Second Respondent MINISTER	2307
+SENEGAL Peer Review Report Reviewing Agency	18309
 SERVICE CENTRAUX AGENCE COMPTABLE CENTRALE	16175
 SETIC-PIU Implementing Agency	1284
 SIEGE AGENCE	13390
@@ -1977,14 +2074,21 @@ Security Agency	5307,1629,4341,709,5964
 Security Agency Output	15845
 Security Agency Press Statement	9067
 Security Border Agency Integration	12389
+Security Coordination Agency	18301
 Security Oversight Agency	11806
 Self Services. The Nodal Agency	12917
 Semi-Autonomous Government Agencies	14546
 Senegal Korea International Cooperation Agency	86,612
+Senegal National Agency for Civil Aviation and Meteorology	18309
 Senegalese Agency for Digital Development	4912
+Senegalese Agency for Universal Sanitary Coverage	18370
+Senegalese Agency for Universal Sanitary Coverage SND	18370
+Senegalese Pharmaceutical Regulatory Agency AEME	18370
 Senegalese Press Agency	5985
+Senegal’s National Statistics Agency	18301
 Service Agency CSC County Service Centers	16970
 Service. Agency	12359
+Services Financiers ADEPME Agence de Développement	18286
 Seychelles Agriculture Development Agency	7760
 Seychelles Agriculture Development Agency Bill	7760
 Seychelles News Agency	1884,8,5967,1820
@@ -2087,7 +2191,7 @@ Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,
 Swedish Tax Agency	33
 Swiss Agency for Cooperation and Development	10970
 Swiss Agency for Development Co-operation	3274
-Swiss Agency for Development and Cooperation	8456,529,1756,401,818,1546,1429,150
+Swiss Agency for Development and Cooperation	8456,529,1756,401,818,1546,1429,150,3251
 Swiss Development Agency	13314
 System Agency	15901
 Systems Agencies	12157
@@ -2177,7 +2281,7 @@ United Nations Relief and Works Agency for Palestine	10841
 United Nations System Agencies United Nations	11332
 United Nations USAID United States Agency	14434
 United State Agency for International Development and United	17289
-United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599,1175,43,59,8,6,11,10,1
+United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599,1175,43,59,8,6,11,10,1,1339
 United States Agency for International Development Angola	10780
 United States Agency for International Development UIT	17824
 United States Agency for International Development USAID	17011
@@ -2198,6 +2302,7 @@ Violence SIDA Swedish International Development Agency	16943
 Vital Events Registration Agency	12257
 Voucher Management Agency	15802
 WDA Workforce Development Agency YES Youth	12329
+WMO PR of Peer Reviewing Agency	18309
 Waste Management Agency	17260
 Wastewater Renewable Energy Agency Senior Staff	14745
 Water Basin Agencies. Development	17157

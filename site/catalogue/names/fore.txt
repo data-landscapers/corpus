@@ -40,6 +40,7 @@ Agriculture Forestry and Fishing	2775
 Agriculture and Forestry	1161,11773,2151
 Agriculture and Forestry Output	17235
 Agriculture and Forestry-	15085
+Agriculture and Forests	18293
 Air Quality Monitoring and Forecasting System	16947
 All Rights Reserved Foreword The Electronic	13308
 Allowance for Forest Access Road Priority	16853
@@ -80,6 +81,7 @@ Body Joint Press Statement of Foreign Ministers	15071
 Bolstering of Foreign Exchange Reserves	11131
 Borders and Foreigners Police	13314
 Brazzaville FORET	15488
+British Foreign	18301
 British High Commission’s Foreign	4126
 Broadband SSA Sub-Saharan Africa FDI Foreign	3184,1,1340,6470
 Brookings Institution's Foresight Africa	10977
@@ -200,6 +202,7 @@ DAYLIFF FOREX BUREAU LIMITED Data Controller	7167
 DAYLIFF FOREX BUREAU LIMITED Data Processor	7167
 DCO’s Digital Foreign Direct Investment	14334
 DE Forest Plantation Tier	17140
+DE L'EXPLOITATION DES FORETS Section	18094
 DE Natural Secondary Forest Tier	17140
 DE TRANSFORMATION DU BOIS FORET FORTE	16623
 DEFINITIONS OF CONCEPTS AND TERMINOLOGIES FOREWORD	12973
@@ -212,6 +215,7 @@ DIRECTOR GENERAL'S FOREWORD Kenya	12256
 DISASTER FORECASTING	17157
 DISTRIBUTION OF FORESTRY AND CHARCOAL	17043
 DISTRIBUTION OF HOLDINGS THAT COLLECTED FORESTRY	17043
+DU REGIME JURIDIQUE DES FORETS Article	18094
 Dadaab Refugee Camp Kenya Ministry of Foreign	346
 Danish Ministry of Foreign Affairs	10573,6763
 Deceased. The Ministry of Foreign Affairs	12496
@@ -220,6 +224,7 @@ Deforestation and Forest Degradation SDG-Fund	17101
 Degradación Forestal	16875
 Degraded Forest	17140
 Departamento Forestal Miriam Minerva ONDO MBANG	16875
+Department Oumar Konté ANACIM Head of Forecasting	18309
 Department of Foreign Affairs and Trade	11868
 Department of Foreign Affairs and Trade of Australia	15620
 Department of Forest Carbon Harvesting	17140
@@ -315,7 +320,8 @@ Estrategia Nacional de Industrialización Forestal	17282
 Ethiopia Foreword The Federal Democratic Republic	13994
 Ethiopia's Ministry of Foreign Affairs	14106
 European Affairs and Strategic Foresight	7722
-European Centre for Medium-Range Weather Forecasts	11553,2969,1849
+European Centre for Medium-Range Weather Forecasts	11553,2969,1849,1938,83
+European Centre for Medium-Term Forecasts EDEQUE	18309
 European Centre for Medium-range Weather Forecasts’ AIFS	4300
 European Forest Institute	15951,897,9
 European Forestry Institute	16853,4
@@ -458,7 +464,7 @@ Findings of Forensic Audit	10822
 First Foreign Office Consultations	13562
 Fisheries Forestry	17235
 Fisheries Monitoring Centre FX Foreign	17105
-Fisheries and Forests	10960
+Fisheries and Forests	10960,7333
 Fishing and Forestry FY17	15731
 Fishing and Forestry Other Agriculture	15601
 Fishing and Forestry Social Protection Social Protection	15601
@@ -468,11 +474,13 @@ Fonds Spécial de Développement Forestier	15999
 ForEveryChild	12764
 Fore'gn Aflairs and Regional Integration	11517
 Foreachattributepair	8606
-Forecast	236,500,507,188,715,2530,5481,2076,126,2377,2115,100,60,138,106,629
+Forecast	236,500,507,188,715,2530,5481,2076,126,2377,2115,100,60,138,106,629,425
 Forecast SSA	17011
 Forecast and data	1013,931
 Forecasted Collection	3583
-Forecasting	236,4064,7120,2347,3390
+Forecaster	18309
+Forecasters	18309
+Forecasting	236,4064,7120,2347,3390,1041,111,83
 Forecasting Center and ICT Upgrades	17962
 Forecasting Floods Google	1363
 Forecasting Programme	15916
@@ -482,14 +490,15 @@ Forecasting and Financial Intelligence	7691
 Forecasting and Policy Analysis System	17138
 Forecasting and Quantification	16971
 Forecasting and Research Department	10718
-Forecasts	236,5439,5166,315,2985,17,739,58,277,606,194,1125
+Forecasting and Statistics	18309
+Forecasts	236,5439,5166,315,2985,17,739,58,277,606,194,1125,1235
 Forecasts Division Mr ONANA MANGA Christian	10980
 Forecasts ER2C Climate Resilient Water WBG	13729
 Forecasts for LTE	236
 Forefront	17106,81,79
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
@@ -607,9 +616,11 @@ Foreign Loans and Grants	15790
 Foreign MTN Rwandacell Plc	15136
 Foreign Minister	2667,13618,364
 Foreign Minister Dr. Badr Abdelatty	14657
+Foreign Minister Kalla Ankourao	18220
 Foreign Minister Mr Phenyo Butale	12617
 Foreign Minister Mr. Abdoulaye Diop	18016
 Foreign Minister Mr. Artur Antonio da Silva	11579
+Foreign Minister Mr. Ismaila Madior Fall	18378
 Foreign Minister Mr. Moctor Ouane	18016
 Foreign Minister Osman Saleh	13959
 Foreign Minister Samuel Ablakwa	2796
@@ -624,6 +635,7 @@ Foreign Minister of Oman	14808
 Foreign Ministers	13744,2905
 Foreign Ministers of Somalia	15119
 Foreign Ministers. Functional	16331
+Foreign Ministers’ Session	18378
 Foreign Minister’s Session	16275,966
 Foreign Ministries	16331,318
 Foreign Ministry	14853,2172
@@ -716,7 +728,7 @@ Foreign-currency	10718,2164
 Foreign-exchange	10464,254,3489
 Foreign-owned	8458,2280,2174,4060
 Foreign...........................................36	13461
-ForeignRelation	13744,1640,780,92,19,10,364,591,1,775
+ForeignRelation	13744,1640,780,92,19,10,364,591,1,775,204,158
 Foreigner Card	16983
 Foreigner Cards	16983
 Foreigner ID	2770,9471,4742
@@ -738,6 +750,7 @@ Forensic	9123,3298,507,56,1697,791
 Forensic Audit	10822
 Forensic Audit Public Engagement Platform	12557
 Forensic Audit Report	12956
+Forensic Biotechnology	18276
 Forensic Data Analysts	5323
 Forensic Data Security Audit	11956
 Forensic Examiner	15662
@@ -843,11 +856,13 @@ Forestal	16875
 Forestal PNI-REDD	16875
 Foresterie	13806,1668
 Foresti	15694
+Forestier	18150
 Forestière MEH Ministère	15580
 Forestland	17140
 Forestland Mangrove Grassland	17140
 Forestplantation Forest Mature	17140
 Forestry	789,1151,835,7988,78,290,3,1926,1715,116,136,451,22,6,1327,10,168,32,96,1,9
+Forestry Act	18370
 Forestry Act No	1988
 Forestry Activities	17043
 Forestry Activities The LAAS-2024	17043
@@ -887,14 +902,14 @@ Forests Act	13403
 Forests Act No.4	1988
 Forests Land	10837,1315,188
 Forests Medium	16996
-Forests OP	11525,330,282,3274
+Forests OP	11525,330,282,3274,2693
 Forests UNFF United Nations Global Geospatial	15129
 Forests and Agriculture	13144
 Forests1	2775
 Foret	643
 Forets	16103,518
 ForewOrd South Africa	396
-Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,39,13,15,67,231,588,81,1,123,47,10,99,140,107,161,33,52,48,113,189,4,23,3,33,125,138,184,24,99,10,5,521,22,188,11,30,37,7,77,20,6,37,97,8,56,9,115,3,224,1403,12,35,14,6,2,7,42,124,144,29,454
+Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,39,13,15,67,231,588,81,1,123,47,10,99,140,107,161,33,52,48,113,189,4,23,3,33,125,138,184,24,99,10,5,521,22,188,11,30,37,7,77,20,6,37,97,8,56,9,115,3,224,1403,12,35,14,6,2,7,42,124,144,29,454,380
 Foreword As the Joint Government	13977
 Foreword Betty Pamela Wabunohua Resident Representative	17101
 Foreword Botswana	12541
@@ -959,6 +974,7 @@ French Ministry for Europe and Foreign Affairs	10275
 Fulbright Foreign Student Program	12962
 Functions of Forestry Law Enforcement Dptm. and Planning	16848
 G-20 Foreign Ministers Meeting	13744
+G20 Foreign Ministers' Meeting	18378
 GOVERNORS' FOREWORD DR. J. P. MANGUDYA	940
 GT HC Foreign Exchange Gross Domestic	11134
 Gabon MPTF-Cntrl African Forest	15500
@@ -974,6 +990,7 @@ Ghana Digital Economy Policy and Strategy Foreword	15629
 Ghana Forecasting	236
 Gill's Foreword	9025
 Global Earth Observations for Crop Inventory Forecasting	13094
+Global Forecast System	18309
 Global Forecasts System	14551
 Global Forest Change	16875
 Global Forest Observation Initiative GEI Gases	16875
@@ -1055,6 +1072,7 @@ International Commercial Arbitration and Foreign Courts	14008,2964
 International Commercial Arbitration and Foreign Courts Law	16972
 International Organizations and Foreign Governments	13122
 International and Foreign Standards	13705
+Inventaire National Forestier	18150
 Inventario Nacional Forestal	16875
 Inventario Nacional Forestal de Guinea Ecuatorial	16875
 Inventario Nacional Forestal de Guinea Ecuatorial. MPMA	16875
@@ -1179,7 +1197,7 @@ Minister for Foreign Affairs and East African Cooperation	17809
 Minister for Foreign Affairs and International	18016
 Minister for Foreign Affairs and International Cooperation	7030
 Minister of Environment and Forestry Thabo Mofosi	8801
-Minister of Foreign Affairs	4345,7,1473,1627,740,1083,1292,1012,759,1224,421,770,21,19,570,129,672,111,2,555,409
+Minister of Foreign Affairs	4345,7,1473,1627,740,1083,1292,1012,759,1224,421,770,21,19,570,129,672,111,2,555,409,901
 Minister of Foreign Affairs Hussein Awad Ali	15272
 Minister of Foreign Affairs Wang Yi	15272
 Minister of Foreign Affairs Yusuf Garaad Omar	15119
@@ -1212,12 +1230,14 @@ Minister of State for Foreign Affairs Simeón Oyono	5525
 Minister of Technology and Science Foreword Government	13346
 Minister of Technology and Science Foreword National Digital	13347
 Minister of Tourism and Foreign Trade	9043
+Ministries of Foreign Affairs	18220
 Ministries of Foreign Affairs and Justice	16046
 Ministries of Forestry and Social Development	12656
 Ministries of Interior and Foreign Affairs	7295,8751
 Ministry Of Foreign Affairs	4576
 Ministry for Europe and Foreign Affairs of France	12594
 Ministry for Foreign Affairs of Finland	5235,8815
+Ministry for Foreign Affairs of Finland. The Memorandum	18213
 Ministry of Agriculture and Forestry	1161,10237
 Ministry of Education FOREWORD The Rwanda Education	12411
 Ministry of Environment and Forestry	3583,9106
@@ -1343,6 +1363,8 @@ Netherlands' Foreign Minister Prime Minister and Minister	16114
 News Foreign	3962
 Newsfeed Foreign	5055
 Newton Tower Ministry of Foreign Affairs and International	14746
+Niger Ministry of Foreign Affairs	18220
+Niger's Minister of Foreign Affairs	18209
 Nigeria's Minister of Foreign Affairs	5145
 Nigeria's Minister of State for Foreign Affairs H.E	5991
 Nigerian Autonomous Foreign Exchange Market	6408
@@ -1402,6 +1424,7 @@ Political Regimes and Inflows of Foreign Direct Investment	11310
 Population Forecast	10775
 Presidency Foreword	11237
 President Amadou Toumani Traore and Foreign Minister	18016
+President Issoufou Mahamadou and Acting Minister of Foreign	18220
 Presidential Foreign Intervention Promotion Council	8632
 Presidential Foreign Investment Promotion Council	9400
 Prime Cabinet Secretary and Cabinet Secretary for Foreign	10313,4332
@@ -1425,6 +1448,7 @@ QUESTIONNAIRE TO BIDDING FOREIGN SUPPLIERS	11240
 Quantity and Revenue Foregone	14985
 Quarter Total Foreign Affairs	12972
 REDEVANCE FORESTIERE ANNUELLE Article	15999
+REGENERATION DES FORETS Section	18094
 REPORT OF THE MINISTRY OF FOREIGN	13131
 REPORTS ON FOREIGN AFFAIRS MATTERS	3760,9683
 RFS Ready For Service F Forecast	3184,1,1340,6470
@@ -1433,6 +1457,7 @@ RWANDA FOREIGN PRIVATE CAPITAL.pdf	15107
 Rainfall Forecast	14955
 Rainfall Monthly Forecast	17001
 Random Forest	14656,966,93,309
+Random Forests	18318
 Range Weather Forecasts Reanalysis	16135
 Rangeland and Forest	17157
 Rangeland and Forest Certify	17157
@@ -1490,6 +1515,7 @@ SADC Model Law Part V Forensic	26
 SARA BEYSOLOW NYANTI MINISTER OF FOREIGN	14647
 SCHEDULE FOREWORD Namibia	13033
 SCHEDULE TABLE OF CONTENTS Acknowledgements Foreword	12921
+SEASONAL FORECAST Page	18309
 SECRETARY Senior Official for Foreign Assistance	4154
 SECTOR REPORT4 FOREWORD FROM THE CHIEF	12395
 SEVERE WEATHER FORECASTING DEMONSTRATION	12649
@@ -1518,6 +1544,7 @@ Section Foreclosure	15473
 Sector-Specific Restrictions for Foreign Entrepreneurs	12389
 Sector-specific Foreign Affairs	7548
 Segundo Foresti	15694
+Senegalese Foreign Minister Aisata Tall Sall	18378
 Senior Official for Foreign Assistance	4154,11,2
 Severe Weather Forecasting	13767
 Severe Weather Forecasting Demonstration Project	12649
@@ -1548,6 +1575,7 @@ State Department for Forestry	14546
 State Minister for Foreign Affairs Ali Mohamed	15119
 State Minister of Foreign Affairs	3408,10032
 State for Forelgn Affairs	16836
+Station of Mbour Diadji Cissé ANACIM Forecaster	18309
 Strategic Foresight	13076
 Strategy Table of Contents Acronyms Governor's Foreword	13076
 Strengthen Impact Based Forecasting and Early Warning	13201
@@ -1558,6 +1586,7 @@ Supporting Impact-Based Forecasting	16371
 Surveillance du Couvert Forestier	15366
 Sushma Swaraj Foreign Service Institute	17240
 Sushma Swaraj Institute of Foreign Service	13744,47,1328
+Sushma Swaraj Institute of Foreign Services	18378
 Sustainable Forest	17140
 Sustainable Forest Management	17140
 Sustainable Management of Forests	17140
@@ -1646,6 +1675,7 @@ Version FOREWORD BY THE CHIEF EXECUTIVE	12574
 Vice Prime Minister and Minister of Foreign Affairs	16277
 Visiting Foreign Teams	14773
 WAICO The Minister of Foreign Affairs and International	12762
+WEATHER FORECAST	18309
 WFP Country Director Ministry of Foreign Affairs	17025
 WMO Severe Weather Forecasting Program	11191
 WORK ON FORESTRY	17043
@@ -1653,6 +1683,7 @@ WTO World Trade Organization FOREWORD	12951
 Water and Forestry	9485,2840,587,45
 Water and Forestry MoEAC Ministry of Education Arts	12923
 Water and Forests	16614,845
+Weather Forecasting OCB	18309
 Weather Forecasting Programme	11191
 Weather Forecasting and Warning Capabilities	14738
 Weather Forecasts	17157
@@ -1660,6 +1691,7 @@ West Africa The Netherlands' Ministry of Foreign	16771
 Western Forelands	15952
 Western and Green Mountains. Forests	17157
 Working Party of Foreign Relations Counsellors	11155
+World Area Forecast System	18128
 World Bank Forest	16848
 World Bank-Canadian Clean Energy and Forests Climate	12595
 World Food Programme Foreword	15604

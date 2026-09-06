@@ -105,11 +105,13 @@ Borasoft Limited Data Processor INST-45373398BCB NAIROBI	7167
 Bord FACAGRO	13377
 Bord FSA	13377
 Bord de Suivi	15722
-Bordeaux	7654,4349
+Bordeaux	7654,4349,6409
 Bordeaux Population Health Research Centre	12003
-Border	4678,1754,572,2395,61,435,422,1540,532,335,247,82,350,2863,718
+Border	4678,1754,572,2395,61,435,422,1540,532,335,247,82,350,2863,718,1125
 Border Agencies	17367
 Border Communities Development Agency CBN Central	11857
+Border Compliance Export	18109
+Border Compliance Import	18109
 Border Control System	12917,1912
 Border Control and Surveillance	9399,591,7551
 Border Crossings Libyan Agricultural Officials Detained	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
@@ -160,7 +162,7 @@ Borderless African Digital Economy	8111
 Borderless African Digital Economy Ebenezer Asante	9899
 Borderless Alliance	17582
 Borderline	120,1122,11736
-Borders	4258,957,5604,10,27,2458,243,1785
+Borders	4258,957,5604,10,27,2458,243,1785,2767
 Borders Committee	2571
 Borders and Foreigners Police	13314
 Bordj Badji Mokhtar	15608,82,243,10,228
@@ -194,7 +196,7 @@ Borgou	5478,240,5103,4577,1,116,579,205,60,124,2,1099
 Borgou Sud-Donga-Collines	17584
 Borgou-Alibori	7355,3512
 Borini	2093
-Boriowo Folasade Director	12061
+Boriowo Folasade Director	12061,6145,13
 Boripe	10049
 Boripe Local Government Area	10049
 Boris	15524,220
@@ -222,6 +224,7 @@ Borne	1219,24,9633,2424,4714
 Bornes	3396,472
 Borno	4102,636,3469,1669,1593,410
 Borno North East	11857
+Borno State	18125
 Borno State Command	8471
 Borno State. Cisco	8512
 Borno Z. DASSIGLI	15438
@@ -254,7 +257,7 @@ Borrowdale Liquid Owned Vacant Office	4896
 Borrowed	418,12042
 Borrowed Funds	7198
 Borrowed Voice	7777
-Borrower	160,152,240,14,17,171,7,12,220,197,9,2,15,61,301,126,74,40,96,74,1468,148,2935,1412,215,2602,11,184,454,438,8,61,296,168,24,14,243,442,74,146,196,260,6,38,66,118,65,473,23,309,25,27,17,12,10,104,58,234,5,22,12,13,76,11,2,5,35,106,4,39,2,54,143,68,21,42,187,74,321,40,460,66,39,98,11,6,107,17,391,113
+Borrower	160,152,240,14,17,171,7,12,220,197,9,2,15,61,301,126,74,40,96,74,1468,148,2935,1412,215,2602,11,184,454,438,8,61,296,168,24,14,243,442,74,146,196,260,6,38,66,118,65,473,23,309,25,27,17,12,10,104,58,234,5,22,12,13,76,11,2,5,35,106,4,39,2,54,143,68,21,42,187,74,321,40,460,66,39,98,11,6,107,17,391,113,408
 Borrower ADB Loan Project Instrument Special	11863
 Borrower Agreement	15901
 Borrower Contribution	14888,2072
@@ -281,7 +284,7 @@ Borrower's No Feb	15969
 Borrower. Any	15399
 Borrower. Section	16219
 Borrower. The Bonower	15399
-Borrowers	1988,4126,1596,986,815,271,3403,147,2079,107,141,1267,642
+Borrowers	1988,4126,1596,986,815,271,3403,147,2079,107,141,1267,642,630
 Borrowers Regulations	11417
 Borrowers and Lenders Act	6940
 Borrower’s Country	15080
@@ -344,6 +347,7 @@ Committee BMA Border Management Authority CAE	11218
 Committee Border Management	13403
 Completion Report. The Borrower	16219
 Components Organizations Borrower	3562
+Components of Border Compliance Page	18109
 Conditions for Cross Border Transfer	12185
 Connected Borderlands	11319
 Construction of Joint Border Posts	6422
@@ -433,7 +437,9 @@ Eng. Leo Boruett	6946
 Enhanced Border Security	12164
 European Union's Carbon Border Adjustment Mechanism	10718
 External Borrowing Plan	12127,5082
+Extractives Africa Senegal AFRICA Borrower	18374
 Facing Cross Border	14434
+Features Use of Borrower Framework No Public	18374
 Feyi Boroffice	13312,2
 Financing Borrowers	16922
 Financing Borrowers for Goods	15553
@@ -528,10 +534,12 @@ Mar-2026 Borrower	13523,1574
 Masha Borak	2970,538
 Masha Borak Portuguese-speaking African	5615
 Matthieu Boris Lefebvre ICR Main Contributor	17849
+Mauritania-Senegal Border War	18293
 Medium-Term Debt Management Strategy and Annual Borrowing	11136
 Merton London Borough Council	13040
 Mme NGANONGO IKIA BOREKAMBI	15615
 Mobile Cross Border Communities	14434
+Moderate Organizations Borrower Responsible Agency Republic	18359
 Modernize Border Control	5758
 Mohamed Bordji	15467
 Momen Borgega Project	17298
@@ -541,6 +549,7 @@ Monitoring and Evaluation BMA Border Management Authority	11986
 Monsieur Bidossessi Boris Labre HOUNDIGANDE	17584
 Monsieur Boroma TRAORE	15676
 Mozambique Border Corporate Bayobab Press10	11234
+Mrs. Boriowo Folasade Director	18259
 Ms. Carla Maria Borges BETTENCOURT	14325
 Ms. Carla Maria Borges Bettencourt	7452
 Municipal Borrowing Policy	14997
@@ -580,7 +589,7 @@ One-Stop Border Posts. The C-BRTA	10324
 One-stop Border Post PFMA Public Finance	5533
 Online Border Management System	4390,3905
 Open Data and Cross Border Data Flow	4123,8940,417
-Organizations Borrower	1867,8901,61,696,35,1772,2289,37,3,483
+Organizations Borrower	1867,8901,61,696,35,1772,2289,37,3,483,1960,94,103
 Organizations Borrower Implementing Agency ISLAMIC REPUBLIC	17849
 Organizations Borrower THE REPUBLIC OF CAMEROON	15601
 Organizations Republic of Angola Borrower	11417
@@ -627,14 +636,17 @@ Reginaldo Borico Okomo	3494,2
 Reginaldo Boricó	7703,1
 Reginaldo Boriko Okomo	17377
 Regional Framework for Trusted Cross Border Data	8426
+Regional Organization Borrower	18359
 Regional Organization Role Borrower	4653
 Reinforce Operationalization of Cross Border Markets	13418
-Reporters Without Borders	9082,597,1080,76,2,1,130,723,179,16,1,2,264,1,9,177,1,11,1,135,1441,185,893,2943
+Reporters Without Borders	9082,597,1080,76,2,1,130,723,179,16,1,2,264,1,9,177,1,11,1,135,1441,185,893,2943,408
 Reporters Without Borders World Press Freedom	15553
+Reporters Without Borders. Thanks	18358
 Republic of Seychelles and Travizory Border Security SA	17678
 Requirements Gaps The Borrower	1988
 Respect of Domestic Borrowing	14546
 Review Borrower	10779
+Risk Management Activities C.1 What Borrower	18374
 Robert Maate and Roza Mamuye Bora	4214
 Rolando and Borgman	12090
 Roméo Boris Flodadi	16177
@@ -699,6 +711,7 @@ Swati. Border Declaration Reform	13123
 System BOP Balance of Payments BORAQs Board	2775
 System Use of Borrower's Environmental and Social Framework	1988
 TABLEAU DE BORD DES INDICATEURS	15479
+TABLEAU DE BORD T1	18417
 TABLEAU DE BORD. COMMENT FAIRE	16629
 TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
 TRADING ACROSS BORDERS	17613,2
@@ -721,6 +734,7 @@ TikTok. Internet Without Borders	8095
 Trade Facilitation Border Management and Trade Facilitation	13403
 Trade Facilitation and Border Management Bill	13060
 Trading Across Borders	15478
+Trading Across Borders Score	18109
 Trading None Borno North East	11857
 Traffic and Road Safety The Borrower	1988
 Trans-Kalahari Border Post	12951

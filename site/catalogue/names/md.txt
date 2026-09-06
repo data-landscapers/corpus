@@ -67,6 +67,7 @@ DEPARTMENTS AND AGENCIES MDB	12253
 DFIs and MDBs	14997
 DFIs and MDBs Review	14997
 DGDDI Progression Exercice Administration Prévisions Mds	16328
+DGPSN. As the MDCEST	18301
 DSI MDENP Moyen	15512
 Departments and Agencies MDGs	14857
 Deputy MD	7329
@@ -87,6 +88,7 @@ Entreprise MdC Inclus	14488,1,1
 Equinix South Africa MD Sandile Dube	11844
 Equity MD	14990
 Evaluation MDAs Ministries	3604,9727
+Evaluation MDCEST Ministry of Community Development	18301
 Evaluation MDM Master Data Management SITA	396
 Evaluation MDTF Multi-Donor Trust Fund MFD-e	16384
 FDA MD	16853
@@ -127,6 +129,7 @@ Habitat MDIPSP Ministère du Développement Industriel	15580
 Harvard Extension School. Md Abdullah Omar	1828
 Health MDAs Ministry	12151
 Health Mobile Health MDAs Ministries	12240
+Highlights Recent Nationwide Cyber Drills for MDAs	18230
 Hon. Mduduzi Dlamini	13131
 Honourable Mduduzi Matsebula Minister for Health	12976
 Host MDAs	7548
@@ -175,7 +178,7 @@ M. Djibril KAMATE ADC MDAC KEITA	17841
 MACRA Malawi Communications Regulatory Authority MDA	14674
 MALAWI BUREAU OF STANDARDS MDAs	12253
 MAM Mission Aide Memoires MDAs Ministries	17114
-MAP Meter Assets Provider MDA Ministries	12062
+MAP Meter Assets Provider MDA Ministries	12062,6124,31
 MD Anne Kinuthia-Otieno	8623
 MD Ashfakul Karim Kausik	6948
 MD Briefing	3398
@@ -220,8 +223,10 @@ MDA. Backbone	9123
 MDA. Cette	13341
 MDA. En	15474
 MDA. Il	13341
+MDA. Instead	18132
 MDA. L'objectif	13341
 MDA. Le Gouvernement	15474
+MDA. Retail	18133
 MDA. The HDA	9123
 MDA. The Head of Department	16858
 MDA. Toutes	13340
@@ -327,6 +332,11 @@ MDA’s	16923,1
 MDB Methodology	15659
 MDB& F	16623
 MDBs and DFIs	11310
+MDCEST	18301
+MDCEST FSN Shock	18301
+MDCEST. Figure	18301
+MDCEST. Once	18301
+MDCEST. The TFCU	18301
 MDCHL	13060
 MDCS.AI	3561,15
 MDD W	17127
@@ -369,12 +379,15 @@ MDM and PODEMOS	12201
 MDM and Partido Humanit	12201
 MDM108	12201
 MDM2510 NBE-5AC-Gen2	998
+MDMFES	18286
 MDMaaS	15583
 MDN CETIC CETIC Laboratoire	16103
 MDN LAIDOUDI Lyassine Ministère	15472
 MDN YOUCEF KHOUDJA Direction Générale	15472
 MDN-TET-HAN-ARCEP- Conforme	998
 MDNAC	13341
+MDNC Avis	18322
+MDNC SA	18322
 MDP MIDEC.pdf	17864
 MDP-EHL	11956,276
 MDP-OHL	11956,276
@@ -461,12 +474,14 @@ Mdlokovana	7836
 MdniM	16325
 Mdogo	11994
 MdriivneinngbaynhdigQhuearrprryoindgucer	11152
+Mds AMELIORATIONS A VENIR	18317
 Mds Ar	14530
 Mds Comptes	13452
 Mds FCFA	3326,13002
 Mds FCFA Capacité	18013
 Mds GNF	16714
 Mds Income	17870
+Mds PANORAMA DES SERVICES SENUM DATACENTER	18317
 Mds USD. En	15542
 Mds de BIF	13452
 MdsF GNF	16714
@@ -477,6 +492,8 @@ Meeting MDD W	17127
 Megabyte MDAs	16872
 Meter Control Center MDMS Meter Data	12717
 Minister for Health Mduduzi Matsebula	13008
+Ministerial SERVICOM Units of MDAs	18205
+Ministry of Health and Social Action. While the MDCEST	18301
 Monitoring and Evaluation MDG Millennium Development Goal	11525
 Monsieur Md. Najmul HUDA	16099
 Moyen Terme MDENP Moyen	15512
@@ -484,6 +501,7 @@ NAWEC MD	17261
 NIDA MD James Kaji	5697
 NIMC MDA	7847
 NITDA. Software Developers and MDAs	5665
+NRS Sensitises Federal MDAs On REV360	18260
 NSS GBoS MDAs	16927
 Nampula MDM	12201
 National Monitoring and Evaluation Policy. MDAs	13685
@@ -515,6 +533,7 @@ Payments Systems Mduduzi Mathunjwa Policy	11131,3
 Programmes MDE	13358
 Promoción Artesanal MDN Ministerio de Defensa Nacional	16898
 Protocol LLD Low Level Design MDAs	13185
+Provider M&EMonitoring and Evaluation MDAMinistries	18359
 Providers and MDAs	10310
 Publish MDA	11866
 Quarterly MDAs	11866
@@ -572,6 +591,7 @@ Various MDAs	16924
 Vertiv Africa MD Wojtek Piorko and Morocco	8245
 Web Services for MDAs	13502
 Wilkinson MD	14666
+Within the MDCEST	18301
 World Bank and MDTF	12980
 World Wide Worx MD	8494
 Yet MDA-specific	17870

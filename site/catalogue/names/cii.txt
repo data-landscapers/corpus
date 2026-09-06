@@ -7,7 +7,7 @@ CII Business Delegation	18016
 CII Conclave	16256
 CII Conclaves	18016
 CII Critical Information Infrastructure CIIP Critical	6946
-CII EXIM Bank Conclave	16275
+CII EXIM Bank Conclave	16275,1945
 CII Exim Bank Conclave	13562,3678,776
 CII India	16256,985
 CII India Africa Business Conclave	13562,2769
@@ -19,7 +19,9 @@ CII Register	1000
 CII Regulations	5780
 CII and API	16275
 CII and VOGSS	16285
+CII- Africa Business Conclave	18220
 CII-Africa Business Conclave	16649
+CII-Africa Conclave	18220
 CII-Africa Summit	16256
 CII-Delegation	16285
 CII-EXIM	18016

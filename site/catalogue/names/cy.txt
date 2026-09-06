@@ -10,7 +10,7 @@ AI Cybersecurity Ethics	12512
 AI Data Cybersecurity Digital	9886
 AI Hype Cycle	2816
 AI and Cybercrimes Act	7548
-AI and Cybersecurity	11336
+AI and Cybersecurity	11336,7023
 AI for Cybersecurity and AI for Development. CAIR	6948
 AI. Cybersecurity	6402
 AIC GATERO CYDC Data Controller INST-5233212BCA3	7167
@@ -142,6 +142,7 @@ B. Cybersecurity and Cybercrime	17745
 B. Cybersecurity and Cybercrimes	17745
 BASELINE CYBER SECURITY INDICATORS	10911
 BENINOISES EN MATIERE DE CYBERCRIMINATITE Artlcle	15429
+BEPC BREVET D’ETUDE DU PREMIER CYCLE	18143,27
 BETHELGITA CYBER CAFE Data Processor INST-28190382B6B	7167
 BOCRA's Cyber Incident Response Team	4709
 BUILDING CYBERSECURITY CAPABILITIES	1000
@@ -247,6 +248,7 @@ CYBER	7167,7516
 CYBER AND DATA PROTECTION	13376
 CYBER BULLETIN	13502
 CYBER CRIMES ACT	2726
+CYBER DÉFENSE	18317
 CYBER GUARD AFRICA LIMITED Data Controller	7167
 CYBER RISK MANAGEMENT	10721
 CYBER ROAM AFRICA TECHNOLOGIES LIMITED Data	7167
@@ -300,6 +302,7 @@ CYBERSECURITY SKILLS GAP STATUS IN SOUTH	1940
 CYBERSECURITY SKILLS GAP SURVEY Compiled	1940
 CYBERSECURITY SKILLS GAP SURVEY The CSIR	1940
 CYBERSECURITY. Presented	10819
+CYBERSECURITÉ CADRE RÉGLEMENTAIRE COMPÉTENCES NUMÉRIQUES	18317
 CYBERSECURiTY	961
 CYBERSPACE TECH GROUP LIMITED Data Controller	7167
 CYBERSPACE TECH GROUP LIMITED Data Processor	7167
@@ -313,7 +316,15 @@ CYBERVANT LTD Data Controller INST-65324911E11 KIAMBU	7167
 CYBERWELLNESS PROFILE	13962
 CYCLA SYSTEMS LIMITED Data Controller INST-5439406C317	7167
 CYCLE	13300
+CYCLE B1 BOURSE NATIONALE	18143,27
+CYCLE B2 2 BOURSE NATIONALE	18143,27
+CYCLE B2 BOURSE NATIONALE	18143,27
+CYCLE B3 BOURSE NATIONALE	18143,27
+CYCLE BX2 BOURSE D’EXCELLENCE	18143,27
+CYCLE CAP CERTIFICAT D'APTITUDE PROFESSIONNELLE CAPES	18143,27
+CYCLE DE BASE II EDC ECOLE	18170
 CYCLE INCUBATION PROGRAMM Maseru	12721
+CYCLE INTRODUCTION L	18099
 CYCLE SECONDAIRE	13300
 CYCLE SUPÉRIEUR	13300
 CYCLESUPERIEUR	13300
@@ -349,6 +360,9 @@ Canada's CyberTip	6936
 Categories Cybersecurity Allan Juma	9830
 Center Manager of National Integrated Cyberinfrastructure	5439
 Central Cyber Incident Reporting and Feedback Framework	6936
+Centre Cybersécurité de SENUM GLOBAL SOC	18317
+Centre National de Cybersécurité	18151
+Centre National de Cybersécurité. Le Centre National	18151
 Centre for Cyber Security	14441
 Centre for Cybersecurity	1000
 Centre’s Cybersecurity Capacity Maturity Model	15480
@@ -381,7 +395,7 @@ Combat Emerging Cybercriminal Threats	6426
 Combating Cybercrime	1777,4649,8620
 Combating Cybercrimes	14897
 Combating Cybercrimes Law	14897
-Combined Cycle Gas Turbine	12062
+Combined Cycle Gas Turbine	12062,6124,31
 Combined Cycle Gas Turbines	11228
 Commentaires Technologie Cyber Africa Forum	7057
 Commission’s Cyber Resilience Framework	9117
@@ -695,7 +709,7 @@ Cyber Threat Advisories Issued	17746
 Cyber Threat Alliance	9698
 Cyber Threat Analyst	5533
 Cyber Threat Centre	14729
-Cyber Threat Intelligence	17156,590
+Cyber Threat Intelligence	17156,590,649
 Cyber Threat Intelligence Sharing Platform	7845
 Cyber Threat Landscape Overview Global Cyber	17746
 Cyber Threat Landscape Roundup	17746
@@ -731,6 +745,7 @@ Cyber and Technology Risk Management International Trade	14819
 Cyber for Development	15553
 Cyber- CA	6946
 Cyber- Stakeholders	6946
+Cyber-Infrastructure	18324
 Cyber-Physical Systems	6480,1542
 Cyber-Rwanda	8376
 Cyber-Security	13474
@@ -767,6 +782,7 @@ CyberHub	3697,14,11308,145
 CyberIAM	11785,1783
 CyberPro Global	14555
 CyberResilience	15236
+CyberRésilience	18419
 CyberSafe	5551
 CyberSafe Foundation	4109
 CyberSecur	9501
@@ -853,7 +869,7 @@ Cybercrimes and Computer Misuse Provisional	12459
 Cybercrimes and Data Protection Act	3983
 Cybercriminal	5794
 Cybercriminalite	15584
-Cybercriminalité	1801,1110,577,3027,778,2960,136,469,176,2256,51,378,1659,110,5,49,43,58,290,3,681,108,1116,41,17,92
+Cybercriminalité	1801,1110,577,3027,778,2960,136,469,176,2256,51,378,1659,110,5,49,43,58,290,3,681,108,1116,41,17,92,114
 Cybercriminalité OCRC Objectifs De Développement Durable	15583
 Cybercriminalité. Dans	17991
 Cybercriminalité. Elle	15643
@@ -892,7 +908,7 @@ Cyberpro Global	14555
 Cybersanté	17882
 Cybersecurit	6432,9413
 Cybersecurite	10494,5090
-Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18,42,189,277,138,163,20,3,20,47,78,31,91,35,66,41,3,72,255,22,5,35,76,12,75,98,11,20,282,17,68,660,42,10,18,33,36,17,25,37,24,24,35,82,5,27,334,124,125
+Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18,42,189,277,138,163,20,3,20,47,78,31,91,35,66,41,3,72,255,22,5,35,76,12,75,98,11,20,282,17,68,660,42,10,18,33,36,17,25,37,24,24,35,82,5,27,334,124,125,253,226
 Cybersecurity Academy	14674
 Cybersecurity Academy for Juniors and Youth	16046
 Cybersecurity Act	587,574,616,2110,239,360,680,480,673,1,616,4,2142,122,524,111,3,426,108,1838,18,330,996,699,1459,220
@@ -1161,6 +1177,7 @@ Cybersecurity-related R&D	1000
 Cybersecurity. A National Cyber Security Centre	15704
 Cybersecurity. Congo	15553
 CybersecurityFintechInfrastructureEgyptUKRead	4628
+Cybersecurité Facteurs	18317
 Cybersecurlte	15584
 Cybersegurança	11418
 Cybersex	12928
@@ -1184,7 +1201,7 @@ Cyberstalking	587
 Cyberstrategy	15372
 Cyberstrategy. CITCG	15372
 Cyberstratégie	15512,208
-Cybersécurité	234,1567,575,324,33,199,29,48,296,550,11,149,247,140,342,180,533,780,58,142,777,763,90,741,77,589,763,130,12,114,118,528,12,892,1217,81,227,816,75,224,695,69,27,14,5,92,6,52,42,25,226,9,36,20,167,1,201,112,127,25,7,4,29,826,360,21,18,50,54
+Cybersécurité	234,1567,575,324,33,199,29,48,296,550,11,149,247,140,342,180,533,780,58,142,777,763,90,741,77,589,763,130,12,114,118,528,12,892,1217,81,227,816,75,224,695,69,27,14,5,92,6,52,42,25,226,9,36,20,167,1,201,112,127,25,7,4,29,826,360,21,18,50,54,113,35,155,13,100
 Cybersécurité Belgique	15936
 Cybersécurité En	13718
 Cybersécurité L'Administration	17500
@@ -1219,13 +1236,18 @@ Cybil Portal	17028
 Cybil Portal Hosting	17028
 Cybre Crime Act	13403
 Cybre Security Act Act No	13403
-Cycle	747,1,1236,1005,7828,1566,1059,1318,279,375,445,102,289,284,309,555,414,171
+Cycle	747,1,1236,1005,7828,1566,1059,1318,279,375,445,102,289,284,309,555,414,171,116,72
+Cycle Moyen	18099
 Cycle Preparation FY12 FY13 FY14	15601
 Cycle Supérieur	17812
+Cycle de Base	18099
 Cycle de Vie du Développement du Système	13341
+Cycle du Secondaire	18171
+Cycle du Secondaire Tableau	18171
 Cycle of Monthly Performance Review Meetings Picture	15478
 Cycle of Secondary Education	10775
-Cycles	15027,1873
+CycleMoyen	18099
+Cycles	15027,1873,1199
 Cyclical	13868
 Cyclical Online Gendered Violence	10315
 Cyclically	13868
@@ -1325,6 +1347,7 @@ DE LA CYBERCRIMINALITE ET CYBERSECURITE Chef	17899
 DE LA CYBERSECURITE CHAPITRE	15643
 DE LA CYBERSECURITE CHAPITRE PREMIER	13719
 DE LA LUTTE CONTRE LA CYBERCRIMINALITE	13719
+DES CADRES ECBII ENSEIGNEMENT CYCLE	18143
 DETERMINATION ON THE OPERATIONAL AND CYBERSECURITY	13206
 DG... Cybersécurité Régulation	10379,3104
 DIGI-ASSURANCE CYBER RISK MANAGEMENT LIMITED Data	7167
@@ -1483,8 +1506,10 @@ Establishment of Zambia Cyber Security Agency	2727
 Establishment of Zambia Cyber Security Agency Functions	2727
 Estonia Global Cybersecurity Index	10764
 Eswatini Global Cybersecurity Index	10764
+Etat CYBER SECURITE OFFENSIVE	18317
 Etude du Premier Cycle	3045,12712
-Etudes du Premier Cycle	11597,3779
+Etudes du Premier Cycle	11597,3779,2720,5,70
+Etudes du Premier Cycle CCEAJ Centre Communautaire	18171
 Euloge Cyr	15615
 Europe Albania Global Cybersecurity Index	10764
 European Cybersecurity Certification Framework	3787
@@ -1547,6 +1572,7 @@ GISEC and ITU CyberDrill	15120
 GNCSS Gambia National Cybersecurity Strategy NDP	1000
 GOVERNMENT CYBERSECURITY EMHANCEMENT PROGRAM	1000
 GOVERNMENT Cybersecurity Tatenda Mavetera	3778
+GROUPE D’INTERVENTION RAPIDE CYBER Constitution	18317
 Gabon Global Cybersecurity Index	10764
 Gahunga Ile Cyuzo Kiyombe Karangazi Kinigi	12413
 Gambia Cyber Security Alliance	16926
@@ -1613,6 +1639,7 @@ Guinea-Bissau Global Cybersecurity Index	10764
 Guyana Global Cybersecurity Index	10764
 Gérald Mounomby Cybermenaces	16296
 H.E. Cyril Ramaphosa	4952,3063
+HACKTIVISTES CYBERCRIMINELS CYBER TERRORISTES CAPACITÉ CYBER	18317
 HORMONES ANDROGENES ET ANTI-ANDROGENES CYPROTERONE ACETATE	15930
 Hackathon Cybersecurity	1989
 Harmonising Cyberlaws and Regulations	1243
@@ -1621,6 +1648,7 @@ Head of Cybersecurity	2715
 Head of Cybersecurity Constantino Sotomane Sérgio Guivala	2989
 Health Cybersecurity Emergency Response Team	12240
 Help Victims of Cybercrime Speak Out Behind	16505
+Highlights Recent Nationwide Cyber Drills for MDAs	18230
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
 Home DPO CyberHub Rw-CSIRT Website About	9125
 Home The Cybersecurity Hub	8897
@@ -1786,7 +1814,7 @@ LTA Strengthens Cybersecurity Awareness	17187,79
 La Cyber	13301
 La Cyber Santé	17882
 La Cybersecurity and Cybercrime Act	11648
-La Cybersécurité	15710
+La Cybersécurité	15710,2588
 La Stratégie Nationale de Cybersanté	15583
 Landscape of Cybersecurity Threat	5677
 Lao P.D.R. Global Cybersecurity Index	10764
@@ -2119,8 +2147,8 @@ Obadare Cybersecurity	6070
 Officer Deputy General Director Manager of Cybersecurity	2989
 Officer of Cyberchain	8627
 Oman Global Cybersecurity Index	10764
-Open Cycle Gas Turbine	12062
-Open Cycle Gas Turbines	12062
+Open Cycle Gas Turbine	12062,6124,31
+Open Cycle Gas Turbines	12062,6124,31
 Operational Capacity for Cybercrime. Liberia National	1777
 Operational Cybersecurity Centres	961
 Operational and Cybersecurity Standards	13206
@@ -2134,10 +2162,12 @@ P Kaduha Nyarugenge Kigarama Cyabakamyi Kigoma	12413
 P Kivuye Cyeru Shingiro P	12413
 P. Bag CY	1154,400
 PAD Director General Cyrus Ngo'o	4108
+PANORAMA DES MENACES CYBERNÉTIQUES Sabotage	18317
 PART II THE ZAMBIA CYBER SECURITY	2727
 PART III CYBER INCIDENT RESPONSE TEAMS	2727
 PART VI LICENSING OF CYBER SECURITY	2727
 PFS-AIE DONT CEUX DU CYCLE	16534
+PILOTAGE STRATÉGIQUE DES ACTIVITÉS CYBER RÉSILIENCES	18317
 PKI and Cyber Security	13005
 PMS Cycle Figure	16858
 POS Others Cheque Fraud Cyber	17362
@@ -2202,6 +2232,7 @@ Protection and Data Protection Cybersecurity	4126
 Protection of Personal Draft Official Identity Cybersecurity	1939
 Public Sector Cybersecurity Framework	5533
 Publish New Cybersecurity Law Amid Rising	6845
+Q4 CY26. TA	18359
 QUALIFIED CYBERSECURITY PROFESSIONALS	1940
 Qe7FtjalG The Namibia Cyber Security Incident	5794
 R Cybercrime Investigation Unit	15845
@@ -2249,6 +2280,7 @@ Risk Impact Mitigation Strategy Cybersecurity High	12444
 Risk Management Framework Cyber	10721
 Risk Mitigation Cybersecurity	396
 Risk and Cybersecurity Management	11134
+Risques de Cybersécurité	18319
 Robust Data Protection Framework and Cybersecurity	17745
 Roger Cyriaque	15524
 Roles and Responsibilities of Cybersecurity	15054
@@ -2273,6 +2305,7 @@ SADC Regional Cyber Drill	318
 SANOU NATIONALE DE CYBERSECURITE DU MALI	18003
 SCHEDULE Cyber Security	2727
 SCHEDULES FIRST SCHEDULE Cybersecurity Services SECOND	587
+SENUM Cybersecurité	18317
 SSDLC Secure Software Developement Life Cycle	15472
 STRATÉGIE NATIONALE DE CYBERSÉCURITÉ	7439
 Safer Digital Future Through Regional Cyber	13880
@@ -2284,6 +2317,7 @@ Santé. Cybersanté. Accédé	16195
 Saudi Arabia Global Cybersecurity Index	10764
 Savings CHAPTER XI1 CYBER INSPECTORS Appointment	11179
 Second Cycle Education	15796
+Second Cycle URL	18099
 Second Schedule. Cybersecurity	587
 Second Somali National Cybersecurity Forum	15120
 Second Somalia National Cybersecurity Forum	15120
@@ -2398,6 +2432,7 @@ TN CyberTech Bank	16791
 TN CyberTech Bank ATMs and Innbucks	6996
 TN CyberTech Bank Limited	4896
 TN CyberTech Bank's ATM	6996
+TOUTES DISCIPLINES SECOND CYCLE REPUBLIQUE	18099
 Tajikistan Global Cybersecurity Index	10764
 Talent Management Cycle	11134
 Talent Management and Cyber Security. Digital Government	14729

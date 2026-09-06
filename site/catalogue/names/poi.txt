@@ -70,6 +70,7 @@ CHAIRMAN PHARMACY AND POISONS BOARD	9855
 CHIEF EXECUTIVE OFFICER PHARMACY AND POISONS	9855
 CHU du Point G	17845
 CHU- Point G CHU-CNOS CHU-HDB CHU-IOTA	17882
+CIV III. CONTACT POINT World Bank	18374
 CIXG Point	15493
 CLEAR POINT COUNSELLING AND PSYCHO-THERAPEUTIC CENTER	7167
 CONNECTION TO RWANDA INTERNET EXCHANGE POINT	15149
@@ -197,7 +198,7 @@ Fixed Office and Service Points Districts Local	8999
 Fixed Office and Service Points Geographic Coverage	8999
 Floating Point Operations Data Protection Per	4126
 Floating Point Operations Per Second	4126
-Focal Point	14753,2196
+Focal Point	14753,2196,1421
 Focal Point Person	1778
 Focal Points	1161,14599,1339
 Focal Points for Federal Member States	14910
@@ -317,7 +318,7 @@ LPA Point-of-Sale	4283
 LPA-approved Point-of-Sale	4283
 Landing Points Port Sudan Port Sudan	14897
 Launching of Internet Exchange Point	12904,3945
-Le Point	15592
+Le Point	15592,2837
 Le Point De Vue De L’Expert	11034
 Les Points	11592,1732,2396
 Les Points Focaux TIC	13341
@@ -406,6 +407,7 @@ PAYMENT ACCEPTANCE POINTS	15023
 PAYMENT SYSTEMS ACCESS POINTS Mobile Banking	4517
 PAYMENT SYSTEMS ACCESS POINTS Mobile Money	6978
 PAYS Rwanda POINTS DE CONNEXIONS GASENYI	13324
+PDES Points	18100
 PFIs Point of Sale PIU PricewaterhouseCoopers Reserve	17235
 PHARMACY AND POISONS BOARD GUIDELINES	9855
 PIAP Public Internet Access Points PPP	14965
@@ -413,6 +415,7 @@ PLACE DU POINT D’ECHANGE INTERNET	17832
 PMO Project Management Office POA Point	11857
 PMS Premium Motor Spirit PoS Point	718
 POIDS	13300
+POIDS DES PROFILS DANS LE PERSONNEL	18169
 POIDS EN KG	13300
 POIDS EN KILOGRAMMES. KG	13300
 POINT	16854,261
@@ -453,16 +456,19 @@ Pharmacy and Poisons Act	2709,7145,1
 Pharmacy and Poisons Board	2709,1444,5701,1,1309,104,317,558
 Place de Pointe-Noire	16177
 Place du Point	17832
+Planning and Housing DRM Focal Points Ministry	18198
 Poaty Bernard de Pointe-Noire	15493
-Poids	2342,624,8978,1356,2098,201,2346
+Poids	2342,624,8978,1356,2098,201,2346,224
 Poids des IPP	10975
 Poids des MPME	11944
+Poids-pour	18312
+Poids-pour-Taille	18312
 Poiibilités Lo	15429
 Poikela	8606
 Poilão Fonseca	11962
 Poilão Marine National Park	11586
 Poinls	15429
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287,141,33,126,329,112,10,5,14,43,19,88,242,23,139,218,217,63,7,41,22,230,62,53,46,50,32,37,75,34,98,36,120,26,76,234,3,5,14,2,8,26,181
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287,141,33,126,329,112,10,5,14,43,19,88,242,23,139,218,217,63,7,41,22,230,62,53,46,50,32,37,75,34,98,36,120,26,76,234,3,5,14,2,8,26,181,59,82,18,69,138
 Point Application	21
 Point Azhar Malik UNDAF Outcome	12241
 Point B	17827
@@ -504,6 +510,7 @@ Point URL	17077,157,27,107
 Point Unique de Défaillance	17823
 Point WARCIP West African Regional Communications	15621
 Point Zéro	10097
+Point de Presse du Ministre	18200
 Point de Présence	3402,12812,51
 Point de Présence CAMIX	16265
 Point de Vue	9993
@@ -536,7 +543,7 @@ Point. Bojang	6226
 Point. Like	6226
 PointNoirTV	2545
 Pointdeierminoison	15429
-Pointe	14479,295,56,17,548,98,607,174,182,258
+Pointe	14479,295,56,17,548,98,607,174,182,258,1575
 Pointe Canon	14774
 Pointe Jérome Youth Centre Anse	14835
 Pointe N	3994
@@ -624,6 +631,7 @@ Points de Présence	16214
 Points de Présence CAMIX	16265
 Points of Customer Contact E-mail	775
 Points of Entry	11590,5406
+Points of Law. Responding	18154
 Points of Presence	1289,2573,2887,4757,522,425,148
 Points ofEntry	4260
 Points-Based Valuation System for Property Taxation	11133
@@ -764,6 +772,7 @@ Virtual Landing Point	14864,3006
 Vitals Collection Points	15798
 Vult Pay Point	2749
 W Madame DIARRA Racky TALLA Point	17827
+WIGOS National Focal Point	18309
 WTO TBT Enquiry Point for The Gambia	16900
 Water Point	11918
 Water Points. The Ministry	17105

@@ -29,6 +29,7 @@ AMAKOSA N’IBIHANO BYO MU RWEGO RW’UBUTEGETSI	15126
 AMAMUS	17845,37
 AMAN Consumer Finance	10800
 AMAN Super App	10800
+AMANA	18122
 AMANA INSURANCE BROKERS LIMITED Data Controller	7167
 AMANA VIEW HOTEL LIMITED Data Processor	7167
 AMANA VIEW HOTEL LTD Data Controller	7167
@@ -89,13 +90,18 @@ Amadeus	2521,659,249,846,93,974,1524,210,294
 Amadhila	3475
 Amadhila Speaker	13097
 Amadiba	8161
-Amadou	5022,12819
+Amadou	5022,12819,258,232
+Amadou A. Badiane	18318
 Amadou A. Cisse	9861
 Amadou Abdoulaye HAIDARA	17978
 Amadou Alassane	13312,2
 Amadou Ali TRAORE	17982
+Amadou Alpha Sow	18361
+Amadou Amadou	18152
+Amadou BA	18310
+Amadou BA APR-Yaakaar M	18310
 Amadou BAMADIO DGDC	17983
-Amadou Ba	8821,1069
+Amadou Ba	8821,1069,8503
 Amadou Ba de Pastef	5022
 Amadou Beidy TRAORE	17982
 Amadou Bounty Diallo Cheikh Loundou	17672
@@ -112,20 +118,27 @@ Amadou Daffe	9641
 Amadou Datte	3066
 Amadou Dem	13836
 Amadou Diarra	18093
+Amadou Diddili	18160
 Amadou Diongue	3687,12154
 Amadou Diouf	12327
 Amadou Drammeh	3066
 Amadou FOMBA Secrétaire	18032
 Amadou Hampâté Bâ	8750
+Amadou Haoua	18220
 Amadou Hott the Bank's Vice President for Power	14871
+Amadou Issoufou	18180
 Amadou KEITA	16708,1153
 Amadou KEITA Vu la Charte	18003
 Amadou Kendessa Diallo	16745
 Amadou Kendessa Diallo Dernière	16745
 Amadou Konia Camara	9326,216,8055
 Amadou Konia Camara. Pour	17597
+Amadou Mahtar MBOW	18339
+Amadou Mahtar Mbow	18324
 Amadou Makhtar Fall	2889,13001,1052
+Amadou Makhtar Fall Public Disclosure Authorized	18359
 Amadou Makissa Diallo	14184
+Amadou Mamadou Sow	18410
 Amadou N. Sy	12948
 Amadou Nyang	17379
 Amadou Oury	16718
@@ -146,6 +159,10 @@ Amadou TOURE Code des Collectivités Territoriales	17817
 Amadou TOURE Le Ministre des Enseignements Vu	17817
 Amadou TOURE Moctar OUANE Le Ministre	17817
 Amadou TRAORE	17982,21
+Amadou Talla Guèye	18291
+Amadou Tidiane BA de Sédhiou	18412
+Amadou Tidiane Gaye	18415
+Amadou Tidiane Gaye. Un	18415
 Amadou Toumani TOURE	17811,1,1,4,2,1
 Amadou Toumani TOURE ARRETE	17817
 Amadou Toumani TOURE Abou-Bakar TRAORE	17817
@@ -157,6 +174,7 @@ Amadou Toumani TOURE Le Premier Ministre	17812,2
 Amadou Toumani TOURE SOMIKA S.A	17812
 Amadou Toumani TOURE des Affaires Foncières	17817
 Amadou WAIGALO	17812
+Amadougood	18099
 Amadu Candé. Assembleia	11544
 Amadumisa	5600
 Amadé Semdé	6889
@@ -200,9 +218,11 @@ Amal Nabil Faltas Bastorous	15473
 Amala KEITA	17828
 Amalayisense	11573
 Amalgamated Telecom Holdings Kiribati	15471
+Amali	18304
 AmaliTech	4126
 Amalunga	11551
 Amalungiselelo	11573
+Amaly	18304
 Amamentada Não	10760
 Amamentação	10760,5768
 Amamentação Contínua	10777
@@ -210,7 +230,7 @@ Amamentação Exclusiva	10777
 Amamitha	11551
 Amamole	16511
 Aman El Garhi	15473
-Amana	16796
+Amana	16796,1384
 Amana. Leur	12128
 Amancio Ubisse Ivone Muocha João Caribo	2989
 Amand Lawin	7168
@@ -301,6 +321,7 @@ Amateur Radio Used	6946
 Amateur Station	12395
 Amateur Transceiver Radio Operator’s Certificate	736
 AmateurTransceiver Radio Operators Certificate	736
+Amath DIAGO	18418
 Amathayimuthebula	11573
 Amatohoza	13323
 Amatole District Municipality	11343
@@ -312,7 +333,7 @@ Amaury and Arsenal	14745
 Amazigh	3880,2,3311,102,8273,1279,614
 Amazighe	17461
 Amazing. Okay	560
-Amazon	767,440,1,63,92,403,511,16,17,19,88,94,3,24,14,125,85,54,10,4,176,5,1,53,46,22,18,4,58,165,16,71,5,110,41,37,67,2,10,45,147,13,22,81,146,133,99,138,41,199,20,13,154,2,35,17,8,4,1,29,75,80,3,10,115,5,41,50,11,124,20,64,18,6,37,23,35,68,11,34,19,34,172,136,135,1,9,1,24,26,6,40,4,7,55,84,2,64,12,28,75,31,19,48,25,85,50,19,14,35,109,1,19,15,64,21,210,118,70,330,3,39,372,53,190,730,99,54,98,263,504,52,209,207,46,52,14,24,56,398,370,246,185,1066,107,340,723,42,259,1052,717,110,112,1,505,263,82,49,47
+Amazon	767,440,1,63,92,403,511,16,17,19,88,94,3,24,14,125,85,54,10,4,176,5,1,53,46,22,18,4,58,165,16,71,5,110,41,37,67,2,10,45,147,13,22,81,146,133,99,138,41,199,20,13,154,2,35,17,8,4,1,29,75,80,3,10,115,5,41,50,11,124,20,64,18,6,37,23,35,68,11,34,19,34,172,136,135,1,9,1,24,26,6,40,4,7,55,84,2,64,12,28,75,31,19,48,25,85,50,19,14,35,109,1,19,15,64,21,210,118,70,330,3,39,372,53,190,730,99,54,98,263,504,52,209,207,46,52,14,24,56,398,370,246,185,1066,107,340,723,42,259,1052,717,110,112,1,505,263,82,49,47,448
 Amazon AWS	3859,3020,15
 Amazon Amazon Alibaba Amazon Amazon Amazon	6477
 Amazon Bedrock	5967,2175,2047
@@ -405,6 +426,7 @@ B1.lºacek3.Pº.antres Alcides Amarante Presidente FIRMA	15694
 BAKAYOKO Amadou	2342
 BAR AMAN DOUG OU	17828
 Bilhete Amarelo	10772
+Brig. General Amadou Aiddili	18220
 Business Amazon Web Services AWS	10236
 Bénin Djabirou AMADOU Directeur Adjoint de Cabinet	10708
 C16620 Amal Mint Nouh	1183
@@ -415,12 +437,15 @@ Charles Cheick Amalah Vu	17982
 Cheick Amadou Diouara	18080
 Cheickh Amadu Bamba Koté	11544
 Cheickna Amala Diallo	9865
+Civil ServiceMr. Amadou Matar Cissé	18305
 Code Amateurs	12478
 Collectivités Lo- Amadou Toumani TOURE	17812
 Colonel Amadou CAMARA	17861
+Colonel Amadou Ousmane BA	18339
 Colonel Amadou SANGARE. AU TITRE	17991
 Colonel Malado Amadou KEITA	18032
-Colonel-Major Souleymane Amadou Moussa	7374,2193,101,2026,2492
+Colonel-Major Abdourahamne Amadou Djibo	18212
+Colonel-Major Souleymane Amadou Moussa	7374,2193,101,2026,2492,4091
 Colonel-major Abdoulkadri Amadou Daouda	17355
 Commandant Amadou DIALLO	17991,12
 Commandant Amadou DIALLO DIRECTION DES TRANSMISSIONS	17828
@@ -485,6 +510,7 @@ Général Amara CAMARA	16657
 Général Amara CAMARA. En	16657
 Général Amara Camara	2344
 Général Amara Camara. Ce	7978
+Général de Brigade Amadou Diddili	18249
 Général de Brigade Amadou Didili	6578
 Général de Brigade Ibroh Amadou Bacharou	7333
 H.E Dr. Amani Abou-Zeid	961
@@ -492,6 +518,8 @@ H.E Dr. Amani Abou-Zeid Commissioner for Infrastructure	1243,571
 H.E. Amal El Fallah Seghrouchni	2577
 H.E. Dr. Amani Abou-Zeid AU Commissioner	1814
 H.E. Prime Minister Amadou Oury Bah	16679
+HABOUBACAR SOULEYMANE AMADOU ROUFAI AVERTISSEMENT	18170
+Habitat le Colonel Abdoul Kadri Amadou Daouda	18140
 Hajia Sualihat Musa Amana	16796
 Herotel. Amazon	7318
 High Commissioner H.E Mr. Amararam Gujar	13029
@@ -529,7 +557,9 @@ KUBIKA NO GUKOMEZA KUBIKA AMAKURU BWITE	14893
 KZN Amajuba DM Newcastle Provincial Hospital	11986
 Kenya. Amazon's Project Kuiper	6745
 Kijiji Cha Amani	8201
+Koris Maboya Amaré	18238
 L AFRICAN MARITIME AGENCIES SA AMA-GUINEE	16623
+LE PREMIER MINISTRE Amadou CHEIFFOU Pour	18094
 Le Capitaine Amadou KONARE	17828
 Le Colonel Amadou SANGARE	18003
 Le Premier Ministre Amadou Oury BAH	16685
@@ -541,22 +571,28 @@ Like Amazon Web Services	7382
 Loide Heita Amakali	6676,2046
 Ludovic Amara	7801
 M. Abdelkader Amara	8891
+M. Abdourahamane Amadou Djibo	18212
 M. Amadou	17841
 M. Amadou CISSE Police DGPN Ousmane	17982
 M. Amadou COULIBALY	2808,237
 M. Amadou COULIBALY Ministre	15757,566
 M. Amadou Lamine Ndiaye	17976
+M. Amadou Niang	18410
 M. Amadou OUATTARA	17961
 M. Amadou Oury Bah	16724
+M. Amadou Tidiane GAYE	18321
 M. Amar Boucena	16263
 M. Amar Isselmou	18027
 M. Dina Amadou	4657
 M. Dina Mahamat Amadou. C’est	4657
+M. El Hadji Amadou WADE	18324
 M. Guèye Amadou El Hadj	18045
+M. Ismaïl Amadou	18256
 M. Kaboré Amadou Directeur de Direction Générale	10812
 M. Mohamed Ould Amar	17959,20
 MAUEZA EURIDCE AMADO GARCIA MAURÍCIO GANDO	10750
 ME AMARA Ghalem Ministère	15472
+Madame Amadou Hadijata	18116
 Madame Amal EL FALLAH	3196
 Madame Amal EL Fallah Seghrouchni	4600
 Madame Amal El Fallah Seghrouchni	8002,9517
@@ -564,6 +600,7 @@ Madame Patricia Amand	6116
 Mali. AMANORM	18092
 Maputo How Amazon	6365
 Maritime and Amateur	6946
+Marou Amadou Loi	18106
 Mas’uuliyadaha Guddiga Amaanka	14859
 Matthew Amalitinga Abagna	10335
 Mauritius Telecom and Amazon Web Services	7365
@@ -581,9 +618,11 @@ Minister Amal El Fallah Seghrouchni	4995,1106
 Minister Amal El Fallah Seghrouchni and Wojtek	8244
 Minister Delegate Amal El Fallah Seghrouchni	5608
 Minister Delegate for Digital Transition Amale Falah	3563
+Minister of Economy Amadou Hott	18378
 Minister of Hydraulics and Sanitation Amal Mint Mouloud	17909
 Minister of Hydraulics and Sanitation Amal Mouloud	17990
 Mme AMADOU	16100
+Mme Amadou Aïssata	18110
 Mme Amal Cheikh Abdellahi	18033
 Mme Amal El Fallah Seghrouchni	5745,2257,9469
 Mme Iris Amandine MBIRA	16099
@@ -593,6 +632,7 @@ Modibo SIDIBE Amadou Toumani TOURE	17817
 Mogadishu. Amal Telecom	14879
 Monsieur Amadou ARTICLE	17819
 Monsieur Amadou BAMBA	17982
+Monsieur Amadou BAO	18400,2,1
 Monsieur Amadou BAYOKO	17991
 Monsieur Amadou COULIBALY	17819
 Monsieur Amadou Diarra YALCOUYE	18032
@@ -601,14 +641,18 @@ Monsieur Amadou Koulibaly	11725
 Monsieur Amadou Oumar KIDA	17991,12
 Monsieur Amadou Oury BAH	9637
 Monsieur Amadou SANGHO	17899
+Monsieur Amadou SOW	18400,2,1
 Monsieur Amadou Samba SIDIBE	17812
 Monsieur Amara NIMAGA	18032
+Monsieur Babo Amadou BA	18412
 Monsieur Boubacary Amadou CISSE	17991,12
 Monsieur Boubacary Amadou Journal	17982
 Monsieur Cheickna Amala DIALLO	17949
+Monsieur El Hadji Amadou DIOP	18400,2,1
 Monsieur Isaac Amadou SY	17812
 Monsieur Lucien Oscar AMADJI Membre	16485
 Monsurat Amasa-Oyelude	9972
+Morou Amadou Loi	18106
 Mounirou Dr Moussa Dr Amadou	17882
 Moussa Amadou CISSE Sous-lieutenant Artillerie	17828
 Mr. Amadou Daffe	8149
@@ -654,6 +698,7 @@ Patricia Amand	4814,1141
 PostgreSQL and Amazon Web Services	7977
 Pour Amadou Konia Camara	9542
 PowerCom CEO Beatus Amadhila	3475
+Pr Amadou Haoua	18256
 Pr David Restrepo Amariles	4607
 Premier Ministre Amadou Oury BAH	16685
 President Amadou Toumani Traore and Foreign Minister	18016
@@ -662,6 +707,7 @@ Prime Minister Amadou Oury Bah	4142
 Prime Minister Amadou Oury Bah. Managed	4116
 Prof. David Restrepo Amariles	4577
 Prof. Dr. Mohamed Ould Amar Director	2958
+Professeur Amadou Mahtar MBOW Le Président	18339
 Professeure Amal El Fallah Seghrouchni	16523
 Président Abdelkader AMARA Catégorie	8891
 RADIO UBUTUMWA BW’ AMAHORO	13324
@@ -681,6 +727,7 @@ Responsible AI Amazon	3470,255,1109,1305
 Richard Kafui Amanfu	6936
 Rivers State Chief Judge Simeon Amadi	14396
 Roundtable Conversation Richard Kafui Amanfu	6936
+République le Général de Brigade Ibro Amadou Bacharou	18216
 SANOGO Amara	2342
 SEM Amadou Oury Bah	16700
 Salamata AMADOU ARTICLE	17829
@@ -691,9 +738,11 @@ Security and Democracy and Amal El Fallah Seghrouchni	17511
 Segundo Osvaldo Amaro	11479
 Sekou Amadou Bah	4114,75
 Selamawit Amaha	12195
+Selon M. Ismaïl Amadou	18256
 Sharciga Hay’adaha Amaanka	14859
 Sharciga Hay’adaha Amaanka Labada	14859
 Sheikh Dina Amadou	786
+Shri Amarendra Khatua	18220
 Sidi Amar Cherchell Douaouda Aïn Defla	15690
 Sidi Amar Jijel Tipaza Décret	15690
 Sidi Mohamed Ould Taleb Amar	17895
@@ -705,9 +754,11 @@ Starlink and Amazon	10673
 Starlink and Amazon Leo Cell C	10797
 Stephane Boyera and Aman Grewal	769
 Stephen Diero Amayo	15190
+Sénégalais. Selon M. Amadou Tidiane GAYE	18321
 Taher Sidi Amar Pôle	15690
 Telecoms Amazon	7284
-Trans Amadi 1	12062
+Trans Amadi 1	12062,6124,31
+Université Amadou Makhtar Mbow de Diamniadio	18382
 Unlike Amazon Leo	7423
 V ETABLISSEMENTS SOW AMADOU BHOYE	16623
 VICTOR AMADALA Africa	7989

@@ -17,6 +17,7 @@ ASIA Crosswalk	70,1,2,3,61,3,1,61,66,4,8,1,85,1,8,113,5,170,3,207,2,1,8,215,2,1,
 AU PROFIT DU CROISSANT ROUGE ALGERIEN	15885
 Abandoned Cropland	17140
 Abdulaziz and Crown Prince Mohammed	14545
+About The International Crops Research Institute	18142,55
 Academic Center' Crosswalk	178
 Access Bank’s Group Head of Cross-Border Payments	9222
 Access Control OASIS Cross-Enterprise Security and Decision	1009
@@ -28,7 +29,7 @@ AfCFTA Digital Trade Protocol’s Cross-Border Data	4583
 Affairs Crown Prosecutor United Nations Office	12972
 Affairs Senior Crown Counsel Financial	12972
 Affinity Domain Patient ID XCA Cross-Community	1009
-Africa Crop Production	15838
+Africa Crop Production	15838,2486
 Africa Without Crossing	7867
 Africa's Cross-Border Payment Problem Is Still	7460
 Africa's Cross-border Payment Landscape	2777
@@ -102,6 +103,8 @@ CROCSAD Financée	17978
 CROCSAD La DRPSIAP de Mopti	17978
 CROCSAD La DRPSIAP de Taouden-	17978
 CROCSAD. Cette	18077
+CRODT P1	18291
+CRODT. Toutefois	18291
 CROISSANCE AFRIQUE	17355
 CRONGD	15670
 CROP ACTIVITIES BY TYPE	17043
@@ -204,14 +207,22 @@ Croatian	4849,2961
 Croatian-Libyan	4849
 Croatie	6613,2278
 Crocetti	1243
+Crocodylinae	18118
 Crocus	16103
 CroenfceensesdiontoraNlaoLso.atchneA..Agrgereemeemnet	15399
 Croisement	11934,4036,358
-Croissance	12,407,828,1910,1730,2768,113,169,954,1821,251,1,1,10,2350,1297,776,81,21,1,38,3,423,72,291,298,15,1176,25,141
+Croissance	12,407,828,1910,1730,2768,113,169,954,1821,251,1,1,10,2350,1297,776,81,21,1,38,3,423,72,291,298,15,1176,25,141,303,20
 Croissance Accélérée	17873
+Croissance Accélérée SFD Services Financiers Décentralisés	18286
+Croissance Annuel Moyen TE	18322
 Croissance Budget	10712
 Croissance GDBM	15685
+Croissance Inclusive	18100,5,13,252
 Croissance Inclusive Durable	15496
+Croissance Inclusive Niger	18103
+Croissance Inclusive SIDA	18118
+Croissance Inclusive SR	18100
+Croissance Rurale	18135,59,28,14
 Croissance des Nuages	15907
 Croissance du PIB	7655,10188,53
 Croissance du PIB Secteurs	18063
@@ -224,12 +235,12 @@ Croissant Rouge Algérien. Article	15885
 Croissant Rouge Algérien. Le Directeur des Ressources	15885
 Croissant Rouge Mauritania	17849
 Croissant-rouge	16085
-Croix	10975,4749
+Croix	10975,4749,2375,101
 Croix Rouge	13360,3261
 Croix Rouge Conseil National	13442
 Croix Rouge Guinéenne Soins	16621
 Croix Tabaro	12371
-Croix-Rouge	16621
+Croix-Rouge	16621,1544,100
 Croix-Rouge du Burundi. En	13442
 Crompvoets	2096
 Cronbach	1212,1736,1484,3327,1370,2002
@@ -627,7 +638,7 @@ Crowdfunding	4567,2371,5006,1903,4034
 Crowdfunding. Deals	4972
 Crowding	12297
 Crowdsourced	2096
-Crowdsourcing	226,1870,6106
+Crowdsourcing	226,1870,6106,10116
 Crowdstrike	6477
 Crowdwork	226
 Crowe Portugal	2816
@@ -728,6 +739,7 @@ Entrepreneuriat de Croissance	15588
 Errors Cross-Check Result Name Yes Alpha	3861
 Estado Crosswalk	190
 Estimated. Crosswalk	508,6,7,391
+Estimation de CRODT	18291
 Ethiopian Red Cross	3487
 European Handbook of Crowdsourced Geographic Information	2096
 Excellen Crosswalk	124
@@ -812,6 +824,7 @@ Integrated Crop	14818
 Interchange XDM Cross-Community Patient Discovery XDS	1009
 Internal Div CIDs NCG PTS CRO	14781
 International Committee of Red Cross	12977,2365
+International Crops Research Institute	18220
 International Dataset Groups Activity Stream Crop	16466
 International Federation of Red Cross	12977
 International Federation of Red Cross and Red Crescent	11156,1071,1643,3287
@@ -905,11 +918,13 @@ NUTS CROPS PRODUCED	17043
 National Crop Breeding and Seed-System Strategy	14818
 National Fiber Op Crosswalk	257
 National Higher Crosswalk	125
+Nationale Croix	18105
 Necessity Cross	12302
 Neglected and Underutilized Crops	14818
 Netherlands Red Cross	15125
 Nigeria. Cross-border	12232
 Nigeria. Crosswalk	265,70
+Nigerien Red Cross	18125
 Norwegian Red Cross	15125
 Numérique Et Croissance	15480
 Nuts Crops Produced	17043
@@ -926,9 +941,11 @@ PARTICIPATION IN CROSS-BORDER DIGITAL TRADE	12389
 PC2D Programme de Croissance	10712
 PER DAY FOR WORK ON CROP	17043
 PHC Patient Identifier Cross-reference for Mobile PIX	1009
+PRIVE DE SANTE PUBLIQUE CROU CENTRE	18143
 PROCESSED CROP PRODUCTS Crop	17043
 PRODUCTION AND YIELD OF CROPS CULTIVATED	17043
 PRODUCTION BY CROP CATEGORY	17043
+PROJET VILLAGES INTELLIGENTS POUR LA CROISSANCE	18194
 PURCHASED SEED Crop Type Local	17043
 Paratus Activate First Cross-Border Fiber Link	2987
 Patient Identifier Cross- Actor	1009
@@ -953,6 +970,7 @@ Principal Crown Counsel	11131,3
 Priority CROSS-CUTTING Develop	17870
 Product Crowdfunding	16942
 Production Activities Crop	17043
+Production du CRODT	18291
 Professor Jon Crowcroft	1246
 Programme de Croissance	10712,4767
 Proj Crosswalk	360
@@ -977,7 +995,7 @@ RS Cross-Enterprise	1009
 Rate CBPR Cross-Border Privacy Rules CCPA	1243
 Recognition of Digital Currencies for Cross-Border Payments	12389
 Recommended Cross-cutting	13037
-Red Cross	3782,1060,2305,3682,327,1025,46,750,333,1432,358,96,146,845,771,147
+Red Cross	3782,1060,2305,3682,327,1025,46,750,333,1432,358,96,146,845,771,147,1204
 Red Cross Branch	12977
 Red Cross Clinics	12977
 Red Cross Clinics Personnel Costs	12977
@@ -1000,7 +1018,7 @@ Registration Program CRO Civil Registration Office	12151
 Regulatory Crossroads South Africa	6998
 Regulatory Crossroads South Africa Finance	6998
 Reinforce Operationalization of Cross Border Markets	13418
-Remote Sensing-based Information and Insurance for Crops	18036
+Remote Sensing-based Information and Insurance for Crops	18036,300
 Renewable Energy Scale-Up Cross Boundary Energy	11469
 Republic of Croatia	11529,3706,236
 Research Team Harry Cross	6947
@@ -1016,6 +1034,7 @@ Royal Highness Crown Prince Mohammed	12710
 Rwanda. Crosswalk	942
 Rwanda’s Agricultural Exports Cross	14969
 S Crosswalk	342
+SANTE PUBLIQUE CROU CENTRE RÉGIONAL DES	18170
 SCAPP Stratégie Nationale Stratégie de Croissance Accélérée	18015
 SCAPP Stratégie Nationale de Croissance Accélérée	17885
 SCAPP Stratégie de Croissance Accélérée	17844,37
@@ -1036,6 +1055,7 @@ Satellite Technology for Crop Monitoring	14758
 Scaling Cross-Border Interoperability Moving	9431
 Sectoral and Cross-Cultural Policies. Windhoek	12325
 Security Layers Colocation Cross Connect	9446
+Semi-Arid Tropics The International Crops Research	18142,55
 Sensitive Personal Data. CHAPTER SEVEN Cross-Border	15484
 Sensitization of Informal Cross-Border Traders	14935
 Series B. Crosswalk	605
@@ -1060,6 +1080,7 @@ Stablecoin Use for Cross-Border Transactions	6679
 Start-ups Cross Discipline Course Development Public	15713
 State Private Technological Netwo Crosswalk	182
 Statistics CFSAM Crop and Food Supply Assessment	15118
+Statistics CRODT	18291
 Ste Croix	14830
 Strategie de Croissance Accélérée	17842
 Strategy for Cross-Border Retail	6938

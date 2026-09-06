@@ -33,6 +33,7 @@ ARTCI. Collection and Processing Personal	10908
 ARTILLERIE Colonel BINSAMOU	15744
 ASYCUDA Performance Management Program. Collaboration	17011
 AUX COLLECTIVITES TERRITORIALES ARTICLE	15469
+AUX COLLECTIVITES TERRITORIALES TITRE	18096
 AUX OPERATIONS DE COLLECTE DES DONNEES	15485
 AVANT-PROPOS Anatole Collinet MAKOSSO	15722
 Abbreviation Full Wording CCS Collective Sudan	6947
@@ -89,6 +90,7 @@ Asmara College of Health Sciences	14120
 Athens Book Google Scholar Collins J	9739
 Attribution UIT Colonne	5361
 Aucune Collectivité Territoriale	15469
+Audiovisuel COSCE Collectif des Organisations	18310
 Auto Collectif	13390
 Automated Customs Management System. COLEPS Online	15480
 Avatar of Collin-jehonia	12478
@@ -96,6 +98,7 @@ Avenue Colonel Ebeya Tél	10400
 B. PROCEDURES DE COLLECTE DE DONNEES	15595
 B.4 Pessoa Coletiva	12018
 BGFI Bank Bénin Collecte	10821
+BGFI CI-DJAMO BSIC CI COLOW SO	18313
 BINTI COLLECTIONS LIMITED Data Processor INST-444201EFF78	7167
 BNR. Collect	14997
 BOMA INTERNATIONAL HOSPITALITY COLLEGE LIMITED Data	7167
@@ -146,6 +149,7 @@ Building Capacity Through Collaboration	4583
 Building Trust Through Collaboration and Cyber Resilience	14691,7,2875
 Bungoma North Technical and Vocational College Data	7167
 Bureau Collects	10822
+Bureau des Collectivités Locales	18293
 Burkina Faso B. PROCEDURES DE COLLECTE	15595
 Burkina Faso. Collaboration	16580
 Burundi Digitizes Tax Collection With Launch	4710
@@ -192,6 +196,7 @@ COLECTIVAS PRAZOS Ref.ª Na Plataforma SIGT	11435
 COLEPS	2221,914,12345,91,1010
 COLEPS. Il	10975
 COLEPS. Public Contracts Minister	3135
+COLES ET UNIVERSITÉS	18143
 COLFA	9928
 COLGATE	7167
 COLIMBINE	17828
@@ -219,7 +224,7 @@ COLLECTE	15999
 COLLECTE DE DBS	13300
 COLLECTE DE DBS. Pour	13300
 COLLECTE DE DONNEES EN ROUTINE	15595
-COLLECTE DES DONNÉES	13300
+COLLECTE DES DONNÉES	13300,5012
 COLLECTE DES DONNÉES L'ARE	15670
 COLLECTE DES INFORMATIONS	15475
 COLLECTE ET DE TRAITEMENT	15583
@@ -236,6 +241,8 @@ COLLECTION AFRICA LIMITED Data Processor INST-3011677BA35	7167
 COLLECTION AND RECOVERY OF SOCIAL CHARGES	14717
 COLLECTIVITES TERRITORIALES	17861
 COLLECTIVITES TERRITORIALES ARTICLE	15469
+COLLECTIVITES TERRITORIALES Article	18096
+COLLECTIVITES TERRITORIALES CHAPITRE PREMIER	18096
 COLLECTIVITES TERRITORIALES TITRE IX	17829
 COLLECTIVITES TERRITORIALES Union de Villes	15936
 COLLECTIVITES TERRITORIALES Vu	17817
@@ -267,6 +274,7 @@ COLONNE	13300
 COLONNE DU NAISSANCES	13300
 COLONNE SUIVANTE	13300
 COLONNES	13300
+COLOW SO Mansa	18313
 COLTMER	15712
 COLUMBIA AFRICA HEALTHCARE LIMITED Data Processor	7167
 COLUMN	8276,4770
@@ -291,6 +299,7 @@ Call for Stronger Industry Collaboration	6075
 Calls for Collaborative Action	7921
 Cameroon COLEPS	2221
 Cameroon Chile Colombia Costa Rica Côte	10764
+Can Lower-Income Countries Collect	18318
 Capacity Building for Collaborating Institutions	17114
 Carbon Collective	15875
 Cash Collateral RA	12364
@@ -328,6 +337,7 @@ Climate Collaborative	17735
 Cllr. Jero Cole Bangalu	17350
 Cloud Collaboration Tools	13502
 CoLabs	11230
+Code Général des Collectivités Territoriales	18096
 Code Général des Collectivités Territoriales Décentralisées	10981,4488,726
 Code des Col-	17812
 Code des Collectivités	9287,55,8499
@@ -336,6 +346,7 @@ Code des Collectivités Locales	16651
 Code des Collectivités Territoriales	17843
 Col Edith Nakalema	6576
 Col NIBIZI Elias Point Focal TIC	13341
+Col-Black	18301
 Col. Abena Nyarkoaa Acheampong	6936
 Col. Aminu Ingawa Fatima Ibrahim-Haruna	11857
 Col. Chris Magezi	4351
@@ -373,6 +384,7 @@ Colcom Foods	13320
 Cold Aisle Containment System	12253
 Cold Calling	11742
 Cold Chain	16971
+Cold Chain Data Exchange	18281
 Cold Chain Equipment	14546
 Cold Chain Management	9855
 Cold Found	17157
@@ -482,14 +494,15 @@ Colin Walsh	17417
 Colina CanoL. Assessing	12246
 Colions	15429
 Colis	15885
+Collab	18319
 Collab Citizen	11251
 Collab Citizen App	11251
-Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77,40,83,1,98,79,208,43,290,15,222,1034,215,37,61,43,25,50,37,86,63,530,1,131,988,39,67,8,4,15,5,4,36,103,25,18,78,635
+Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77,40,83,1,98,79,208,43,290,15,222,1034,215,37,61,43,25,50,37,86,63,530,1,131,988,39,67,8,4,15,5,4,36,103,25,18,78,635,439
 Collaborates	12639
 Collaborateur	3879,11806,251,1648,419
 Collaborating	1243,850,185,497,829,1244,685,144,359,4805,1145,254,6,130,298,258,45,961,835,78,92,4,50,37,1178,763
 Collaborating To Transform And Improve Education	899
-Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,12,214,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86,216,28,65,25,211,7,1,27,49,28,231,106,183,60,6,437,88,8,12,17,98,55,10,44,39,6,61,9,55,3,51,26,16,3,78,222,105,46,111,109,11,124,88,2,54,54,98,240,196,35,257,12,31,11,13,4,20,12,36,105,22,19,103,58,130,25,409,52
+Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,12,214,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86,216,28,65,25,211,7,1,27,49,28,231,106,183,60,6,437,88,8,12,17,98,55,10,44,39,6,61,9,55,3,51,26,16,3,78,222,105,46,111,109,11,124,88,2,54,54,98,240,196,35,257,12,31,11,13,4,20,12,36,105,22,19,103,58,130,25,409,52,191,184,40
 Collaboration Action and Dialogue	13355
 Collaboration Adopting	13347
 Collaboration Age Group	582
@@ -514,7 +527,8 @@ Collaboration and Cooperation	16884
 Collaboration and Information	12359
 Collaboration and Knowledge Sharing Pursuant	11134
 Collaboration and Partnership	4528,7828,156,130
-Collaboration and Partnerships	1154
+Collaboration and Partnerships	1154,16971
+Collaboration and Partnerships Key	18125
 Collaboration and Support	12977
 Collaboration for Better Governance	11867
 Collaboration for Implementation	12977
@@ -599,8 +613,9 @@ Collect the VAT	14785
 Collect.android	13375
 Collectables	8494
 Collectant	13341
-Collecte	747,1,9964,109,54,1,99,969,1356,41,36,13,391,550,81,7,4,1,1,55,57,356,536,43,7,6,95,15,75,15,26,1,136,37,51,216,43,54,116,164,1287,12,14,3,1,35,1,91,5
+Collecte	747,1,9964,109,54,1,99,969,1356,41,36,13,391,550,81,7,4,1,1,55,57,356,536,43,7,6,95,15,75,15,26,1,136,37,51,216,43,54,116,164,1287,12,14,3,1,35,1,91,5,118,16,6,25,26,1,1,33,61,26,21,25
 Collecte Données Biographiques Remise NUI Recherche	14480
+Collecte Juin	18170
 Collecte Transport	14423
 Collecte Universités	14423
 Collecte de Sang	17841
@@ -608,23 +623,28 @@ CollecteDeDonnées	13904
 Collected	13053,1737,107,309,286,1380,285
 Collected Tax	15492
 Collectent	10876
-Collecter	998,7,9812,158,2315,85,77,16,1020,1,1,916,237,69,136,1598,426
+Collecter	998,7,9812,158,2315,85,77,16,1020,1,1,916,237,69,136,1598,426,250,49,131
 Collectes	14622,2006
 Collecteur	15583
+Collecteurs	18337
 Collectible	12500,553
 Collectible Balance	13053
 Collectible3	12500
-Collectif	1930,1,1,1,1,1,1,1,72,1,1,1,1,958,1051,2,1805,6039,1522,368
+Collectif	1930,1,1,1,1,1,1,1,72,1,1,1,1,958,1051,2,1805,6039,1522,368,4528
 Collectif Anjouan	13797
 Collectif Commission Femmes	18032
+Collectif Sénégalais des Africaines	18286
 Collectif des Associations	13442
+Collectif des Femmes	18286
 Collectif des ONG	15712
-Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671,3659,272,187,141,377,62,240,1150,79,215,561
+Collectif des Organisations	18310
+Collectifs des Associations Féminines	18101
+Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671,3659,272,187,141,377,62,240,1150,79,215,561,391
 Collecting Children	12977
 Collecting Taxes	17011
 Collecting Taxes Indicators	16949
 Collecting and Analysis	940
-Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32,31,112,8,277,1,19,30,26,49,268,1089,136,29,19,5,67,50,3,8,13,21,24,200,54,619,486,730,77,68,97,354,400
+Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32,31,112,8,277,1,19,30,26,49,268,1089,136,29,19,5,67,50,3,8,13,21,24,200,54,619,486,730,77,68,97,354,400,423,129
 Collection Account	14546
 Collection Authority	14897
 Collection Average	11417
@@ -632,10 +652,10 @@ Collection Becomes Harder When Ugandans Doubt	3955
 Collection Benin	16144
 Collection Data Market Development and Integration CSIRTs	16144
 Collection Date	3861
-Collection Efficiency	12062
+Collection Efficiency	12062,6124,31
 Collection Individuals	16144
 Collection Liberia	16144
-Collection Loss BEDC Benin Electricity Distribution	12062
+Collection Loss BEDC Benin Electricity Distribution	12062,6124,31
 Collection MFDP Ministry of Finance and Development Planning	17116
 Collection Mechanism for Peer-to-Peer	8590
 Collection Monitoring	11417,488
@@ -701,7 +721,7 @@ Collective Management Organisation CMS	14742
 Collective Management Organisations	10562
 Collective Model for Sustaining DHIS2 DHIS2	6153
 Collective Ownership	17114
-Collective Protective Equipment	17114
+Collective Protective Equipment	17114,1004
 Collective Saving	16797
 Collective Stewardship	14808
 Collective Sudan	6947
@@ -720,22 +740,24 @@ Collectivité Territoriale	15469,134
 Collectivité Territoriale Décentralisée	15542
 Collectivité. Chaque	14414
 Collectivité. Elle	17829
-Collectivités	1755,1053,573,1336,838,164,110,1053,303,658,53,1391,55,156,109,1104,1,146,18,858,1548,428,454,250,30,352,565,22,154,46,20,100,26,17,23,79,151,100,55,132,63,122,170,844,326,1,5,4,12,8,1,3,16,36,2,2,45,12,3,22,8,12,29,44
+Collectivités	1755,1053,573,1336,838,164,110,1053,303,658,53,1391,55,156,109,1104,1,146,18,858,1548,428,454,250,30,352,565,22,154,46,20,100,26,17,23,79,151,100,55,132,63,122,170,844,326,1,5,4,12,8,1,3,16,36,2,2,45,12,3,22,8,12,29,44,24,3,63,120,5,32,4,14,20,12,12,21,6,11
 Collectivités CHAPITRE V	17817
 Collectivités CONTEXTE GENERAL QUELQUES MODULES	15537
 Collectivités Collectivités Territoriales	17817
 Collectivités Lo-	17812
 Collectivités Lo- Amadou Toumani TOURE	17812
-Collectivités Locales	15366,106,83,88,32,807,164,5,15,1146,2,3
+Collectivités Locales	15366,106,83,88,32,807,164,5,15,1146,2,3,469
+Collectivités Locales Collectivités	18286
 Collectivités Locales. SOUS-SECTION	17812
 Collectivités PRESIDENCE DE LA REPUBLIQUE Territoriales	17812
 Collectivités Président	17812
 Collectivités Ter-	17812
 Collectivités Territo-	2342,15470,265
 Collectivités Territo- DECRETE	17812
-Collectivités Territoriales	643,1699,13077,50,68,66,1851,357,1,5,44,97
+Collectivités Territoriales	643,1699,13077,50,68,66,1851,357,1,5,44,97,136,72,120,11
 Collectivités Territoriales DGDP	17842
 Collectivités Territoriales Décentralisées	10965,10,3450,25,986,106,57,251,149,564
+Collectivités Territoriales Les Collectivités	18286
 Collectivités Territoriales Ouvertes	17879
 Collectivités Territoriales de Cercles	17817
 Collectivités Territoriales. ARTICLE	15469
@@ -835,7 +857,7 @@ Collocation and Infrastructure Sharing Licensees	3862
 Collocation and Infrastructure Sharing Market	3862
 Collocation and Infrastructure Sharing Market Segment	3862
 Collocation and Infrastructure Sharing Operator Category	3862
-Colloque	14622
+Colloque	14622,3522
 Colloque International EMICn	13799
 Colloque International de Moroni	13799
 Colloque National	14598
@@ -852,7 +874,7 @@ Collyre Collyre Collyre SOL. INJ. Collyre	15930
 Collyre PDE. OPHT. Collyre Collyre	15930
 Collyre PDE. OPHT. Collyre PDE. OPHT	15930
 Collyre SOL. LP. Collyre	15930
-Collège	4567,6254,4,3712,1018,14,121,37,12,531,100,1491
+Collège	4567,6254,4,3712,1018,14,121,37,12,531,100,1491,326,40,64
 Collège Catholique Cours de Soutien	10821
 Collège Description Rédiger	14537
 Collège Horizon	18079
@@ -871,7 +893,7 @@ Collège des Startups	4567
 Collège du CNE	16535
 Collège du St Esprit	14267
 Collège. Si	17861
-Collèges	15674,262
+Collèges	15674,262,2388
 Collèges Sainte Thérèse	10821
 Colm Cloonan	3649
 Colmeia	15694
@@ -885,6 +907,7 @@ Colocación	4209
 Colocado	17103
 Colocalisation	17819
 Colocar	15554
+Colocataire	18312
 Colocation	593,2884,2316,3330,1833,1329,484,2380,1498
 Colocation And Web Hosting Services	15274
 Colocation Cut	9446,1510
@@ -898,7 +921,7 @@ Colocação de Sinais	794
 Colocolisotion	15429
 Cologne-based	6879
 Colombe Blanche	1576
-Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21,61,159,128,2,20,201,207,46,285,24,46,246,127,783,541,1336,474,29,1367,876
+Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21,61,159,128,2,20,201,207,46,285,24,46,246,127,783,541,1336,474,29,1367,876,575
 Colombia AMS UMI	17743
 Colombia Ambassador	6963
 Colombia Civil Registry Information System	10714
@@ -934,6 +957,7 @@ Colonel Aboubacar DIARRA. Alousséni SANOU Article	17899
 Colonel Adama Abdoulaye DIARRA	17982
 Colonel Almahamoud Bouni TOURE	17861
 Colonel Amadou CAMARA	17861
+Colonel Amadou Ousmane BA	18339
 Colonel Amadou SANGARE. AU TITRE	17991
 Colonel Assa Badiallo TOURE	17899
 Colonel Assimi GOITA	17861,13
@@ -964,10 +988,12 @@ Colonel Mahamoud SANOGO	17861
 Colonel Maina Boukar	10547
 Colonel Major Brice Bouagba	16676
 Colonel Major Checkiné M. DIEFFAGA	17974
+Colonel Major IDRISSA Chaibou Directeur Général	18122
 Colonel Major Idrissa Chaibou	2801
 Colonel Malado Amadou KEITA	18032
 Colonel Mama Sékou LELENTA	8237,9662
 Colonel Mamadou Lamine KONARE	17861
+Colonel Massalatchi Mahaman Sani	18256
 Colonel Michaël RANDRIANIRINA. Cette	14617
 Colonel Mohamed Alpha DIAW COLONEL	17828
 Colonel Mohamed LARAOUI	17817
@@ -997,10 +1023,12 @@ Colonel Sidiki DENON	17861
 Colonel Soumana Boubacar Garanké	2327
 Colonel Tidiani DIARRA. Gouverneur	17861
 Colonel Youssouf Otto DIALLO	17899
+Colonel-Major	18212
 Colonel-Major Abdoul Karimou Hima	7333
+Colonel-Major Abdourahamne Amadou Djibo	18212
 Colonel-Major Guelpetchin Ouattara	2908
 Colonel-Major Mamadou Traoré. Cette	9865
-Colonel-Major Souleymane Amadou Moussa	7374,2193,101,2026,2492
+Colonel-Major Souleymane Amadou Moussa	7374,2193,101,2026,2492,4091
 Colonel-major	15744
 Colonel-major Abdoulkadri Amadou Daouda	17355
 Colonel-major Aguibou DIALLO	17899
@@ -1011,7 +1039,7 @@ Colonel-major Bana Alhassane	10154
 Colonel-major Béma BERTHE	17899
 Colonel-major Cheick Oumar N’DIAYE	17899
 Colonel-major Daouda SAGARA	17991
-Colonel-major Garba Hakimi	7164
+Colonel-major Garba Hakimi	7164,11094
 Colonel-major Guédiouma DEMBELE Directeur Général Adjoint	17841
 Colonel-major Harouna HAIDARA	17899
 Colonel-major Idrissa Chaibou	4813
@@ -1023,7 +1051,7 @@ Colonel-major Mariétou DEMBELE	17899
 Colonel-major Moussa DEME. AU TITRE	8237
 Colonel-major Oumar CISSE. Vu la Charte	17899
 Colonels	15901,199
-Colonia Altos de Miramontes Calle	10764,80,7012
+Colonia Altos de Miramontes Calle	10764,80,7012,267
 Colonia Altos de Miramontes Escritório Regional Hastings	11563,6180
 Colonial	6808,2931,7658
 Colonial-era	6997
@@ -1067,24 +1095,24 @@ Columbia Center for International Earth Science Information	10759,78,1050,2,264,
 Columbia Convening	5029
 Columbia Journal of World Business	11310
 Columbia Mailman School of Public Health	16422
-Columbia University	1013,6138,2808,1928,266,1,9,171,7,603,3952,26
+Columbia University	1013,6138,2808,1928,266,1,9,171,7,603,3952,26,1387
 Columbia University AI for Good	18039
 Columbia University CIESIN	196
 Columbia University DSP Digital Society Project	10759,78,1052,451
 Columbia University Press	3782,11691
 Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1,135
-Column	587,379,862,1734,306,2554,4757,1867,143,1654,1989
+Column	587,379,862,1734,306,2554,4757,1867,143,1654,1989,1486
 Column B of Schedule	11179
 Column Labels Row Labels REF ANG	11900
 Columnists Leader Star-blogs Cartoon Sports Football	9646
-Columns	1342,123,363,253,2,1,1583,744,2,1,357,4482,2636,2849,2402
+Columns	1342,123,363,253,2,1,1583,744,2,1,357,4482,2636,2849,2402,1178
 Columns Reading Time	4535
 Columns The Absent Agenda	4535
 Colère	9054
 Colécalciférol	15930
 Colóquio	17337
 Commercial Collateral	14647
-Commercial and Collection	12062
+Commercial and Collection	12062,6124,31
 Communication and Collaboration	12359,4583
 Communication and Collaboration Services	12359
 Community Development College	3524
@@ -1103,6 +1131,7 @@ Content Delivery Network MW Megawatts Colo	3184,1,1340,6470
 Continental Collaboration	14137
 Continental Recognition and Collaboration	4856
 Continued Column	14843
+Convention Collective	18156
 Convention Collective du Travail	15416
 Cooperation And Collaboration	11960
 Corps de Collectivité	18003
@@ -1136,6 +1165,7 @@ DE LA COL	13300
 DE LA COLLECTE EN TEMPS	17841
 DE LA COLLECTE EN TEMPS REEL	15643
 DE LA COLONNE	13300
+DE LA LIBRE ADMINISTRATION DES COLLECTIVITES	18096
 DE LA ORDINAIRE DU COLLEGE DES	18032
 DE No DE COLONNE	13300
 DE POTASSIUM CHLORURE DE POTASSIUM COLECALCIFEROL	15930
@@ -1153,6 +1183,7 @@ DES COLLECTIVITES LOCALES ET DE L'AMENAGEMENT	15767
 DES COLLECTIVITES LOCALES ET DE L’AMENAGEMENT	15456,99,39
 DES COLLECTIVITES LOCALES ET DES TRANSPORTS	4658,11275,411
 DES COLLECTIVITES TERRITORIALES CHAPITRE	15469
+DES COLLECTIVITES TERRITORIALES ET DE LEURS	18096
 DES COORDINATIONS DE Le Collège	17861
 DES MODALITES D’ALLOCA- des Collectivités Territoriales	17817
 DGEB Collection Reading	11905
@@ -1269,7 +1300,8 @@ Direction Générale des Collectivités Territoriales	557,16897,373,37,33
 Direction Nationale des Collectivités Article	17817
 Display Color	13524
 Distinguished Colleagues	7103
-District of Columbia	5692
+District of Columbia	5692,12586
+Division SI Collecte	18297
 Dominique Collett	9097,277
 Donor Collaboration Forum Bill	2204
 Doutor Ivan Collinson	2816
@@ -1282,6 +1314,7 @@ Dr. Rowland Cole. UNDP Malawi Malawi	13001
 Dr. Rowland Cole. UNDP Malawi UNDP	13001
 Draft National Zoning Law of Liberia. Collaborated	16970
 Durée Collecte	13689
+Démographie Collection	18422
 Département de Brazzaville Colonel	15524
 E INSCRIVEZ LE MOIS ET COLONNE	13300
 E-I15-1 Establish Industry-Academia Collaboration Framework	15713
@@ -1309,6 +1342,7 @@ ESPAÇOS PÚBLICOS E EQUIPAMENTOS COLECTIVOS	11367
 ESWATINI COLLEGE OF TECHNOLOGY	12975
 ET COMPTABLE DES COLLECTIVITÉS LOCALES	16646
 ET DES COLLECTIVITES LOCALES ArrÍtÈ	15394
+ET DES COLLECTIVITES TERRITORIALES Article	18096
 ET LA COLONNE SE CROISENT	13300
 ET LES COLONNES	13300
 EVIDENCE AND VALUE FOR GOVERNMENT COLLABORATION	11006
@@ -1319,6 +1353,7 @@ Eco- Collectivités Territoriales	17812
 Ecosystem Collaboration	3487
 Ecosystem Collaborations FUTURE OUTLOOK	13582
 Ecosystem of Collaboration	13532
+Education Alternative CEG Collège	18171
 Education Collect	13314
 Educational College	14736
 Effective Coordination and Collaboration	17011
@@ -1341,6 +1376,7 @@ Enhanced Collateral Registry System	14218,56,44,21,6
 Enhancing Collection of Revenue and Expenditure	3295
 Enhancing Collection of Revenue and Expenditure Management	3295,20
 Entidades Colaboradoras	15526
+Environnemental CFP Collectif	18286
 Equipements de Protection Collective EPI	14488,1,1
 Equitable Data Collection	3861
 Ericsson and Safaricom Deepen Collaboration	5332
@@ -1359,6 +1395,7 @@ Etat Collectivit APE Promoteur Plan BF	10847
 Etat Collectivité APE Promoteur Plan BF	10847
 Etat. du Collège	17861
 Evaluation Collection Specialist	16144
+Excellency Colonel Major Zada Seidou	18197
 Excellency Colonel Muawiya Uld	17438
 Execution S33 Collaborate	12917
 Expert Collaboration	12356
@@ -1461,9 +1498,12 @@ Guidelines for Data Collection and Analysis Collecting	15120
 Guizhou Tongren Data Vocational College	12864
 Général de Division Abdoulaye MAIGA Collège des Chefs	18003
 H. Enhancing Policy Coherence and Regional Collaboration	17745
+Habitat le Colonel Abdoul Kadri Amadou Daouda	18140
 Happy Reading. Collaboration NamRA and NDTC	13108
-Haut Conseil des Collectivités	17827,2
+Haut Coneil des Collectivités Territoriales	18286
+Haut Conseil des Collectivités	17827,2,459
 Haut Conseil des Collectivités Ter- de Bassins	17812
+Haut Conseil des Collectivités Territoriales	18286
 Haut Conseil des Collectivités. MAIGA ARTICLE	17829
 Health Data Collaboration Hg Hôpital Général	15711
 Health Data Collaborative	2678
@@ -1490,6 +1530,7 @@ IEC Chairman Joseph Colley	17654
 IFC Collaboration	3562,42,11333,1959
 IFC Collaboration Disbursement	1284,15638
 IFC Collaboration Joint Level Yes Complementary	15621,523
+IFC Collaboration No Components Component Name	18198
 IFC Collaboration No Expected Approval Date	1284,15638
 IFC Collaboration No Expected Closing Date	15553,105
 IFC Collaboration No Global Challenge Project	11417
@@ -1632,6 +1673,7 @@ LANCEMENT OFFICIEL DE LA COLLECTE DES	16678
 LEVERAGING DIGITAL INFRASTRUCTURE TO COLLECT	14935
 LG Total Budget Vs. OSR Collections	13418
 LG-KOICA Hope TVET College	15195
+LGA Cold Chain Officer	18281
 LIGIBLES DES COLONNES	13300
 LT Col KABURA Donatien	13341
 La Cellule de Collecte	17899
@@ -1647,6 +1689,7 @@ Le Colloque International EMICn	13799
 Le Collège	4567,9970,3324
 Le Colonel Amadou SANGARE	18003
 Le Colonel Aminata DIABATE	17861
+Le Colonel Boubacar Soumana Garanké	18231
 Le Colonel Dramane KONE	17899
 Le Colonel HATTAYE AG Najim	17861
 Le Colonel Issa BAGAYOKO	17982
@@ -1668,8 +1711,8 @@ Legal College	13964
 Legend. Natural Color RGB The Natural	14256
 Leper Colony Settlement Mining	17140
 Les Centres de Collecte des Données	10891
-Les Collectivités	13710,1993
-Les Collectivités Territoriales	15469,134,2214
+Les Collectivités	13710,1993,2400,183
+Les Collectivités Territoriales	15469,134,2214,279
 Les Conseillers des Collectivités	17861
 Les Organismes de Placement Collectif	17485
 Lesotho College of Education	12726
@@ -1712,6 +1755,7 @@ MEPPSA Collection Development	11905
 MEPPSA Collection Implementation	11905
 MILLENIUM RESOURCES CI POUR LA COLOMBO	2342
 MND. Collection Benin	16144
+MOBILIERS ET EQUIPEMENTS COLLECTIFS	18171
 MOH Methodology for Data Collection Documentation	11417
 MOH Report Methodology for Data Collection MOH	11417
 MOH. Methodology for Data Collection MOH	11417
@@ -1804,7 +1848,11 @@ Ministry of Finance. Ghana Police Service Collect	15845
 Ministry of ICT Collaborates	13056
 Ministry of Revenue Tax Collections	12500
 Ministry of Small Business Development Collaborate	11195
+Ministry of Territorial Collectivities	18293
 Ministry of Youth and Sports Hon. Jeror Cole	17260
+Ministère des Collectivité	18291
+Ministère des Collectivités	18293
+Ministère des Collectivités Territoriales	18293
 Mme Marie Colette NGUEMA ABESSOLO DIRECTION	16099
 Mobile Backup Collection	12508
 Mobile Data Collection	17116
@@ -1859,7 +1907,7 @@ Nation. Content D5 NIRA Free Collaboration	11857
 National Banking College	7341
 National Collec-	8605
 National Colorectal Cancer Screening Programme	14773
-National Commission for Colleges of Education	8560,150
+National Commission for Colleges of Education	8560,150,9496
 National Education Collaboration Trust	11241
 National ICT Policy Collaboration	13346
 National Integrated Big Data Center Collaborative	5242
@@ -1867,11 +1915,14 @@ National Payment Systems Collateral Requirement for Net	12364
 National Project Collect	1988
 National Teachers Training College Financial Management	15661
 Natural Color RGB	14256
+Natural Colour Enhanced	18203
+Natural Colour RGB	18203
 Ndileka Cola	9076,615
 Ndileka Cola TechCabal	9076
 Necessidades Especiais COLMEIA	15694
 Network Colour Codes	6946
 Ngwane Teacher Training College	12962,15
+Niger. Colonel Major IDRISSA Chaibou	18122
 Nigeria AI Collective	9117
 Nigerian Colleges of Education	7405
 Njala University and Fourah Bay College	4619
@@ -2032,6 +2083,7 @@ Promote International Cooperation and Collaboration	1000
 Promoting Multisectoral Collaboration	10776
 Promotion of Collaboration	958
 Property Rate Collection	14285
+Protection Collective	18118
 Protection Regulation GLOPID-R Global Research Collaboration	14434
 Protocolo de Colaboração	17103
 Provided Where Personal Data Are Collected	14434
@@ -2154,6 +2206,8 @@ Revenue Collected	12976,77
 Revenue Collection	9437,1813,812,991
 Revenue Collection Figure	13053
 Revenue Collection Integrated	12211
+Revenue Collection Performance	18217
+Revenue Collection Performance of DisCos	18186
 Revenue Collection Target Actual	13053
 Revenue Collection The Department	14761
 Revenue Collection Tools Full System Walkthrough	12211
@@ -2174,6 +2228,7 @@ Rodrigues College	6399
 Ronald Ngala Utalii College	7441,192
 Royal College of Obstetricians and Gynaecologists	13040
 Royal College of Surgeons of England	14839
+RuralStruc Program Coordination Team Collection	18422
 Rwanda COLLABORATION AND PARTNERSHIP REG	12358
 Rwanda and Uganda and Colt Group	15372
 Rwanda. Collaborate	14997
@@ -2181,6 +2236,7 @@ Rwanda. Collaborating	14997
 Rwanda. Colombia	14997
 Régime Collectif	17448
 Réhabilitation EM Collectivités	643
+République du Niger. Le Code Général des Collectivités	18096
 SANTE Colonel IKAPI	15744
 SARL STAR DTV GUINEA COLTD SARL	16623
 SARLU FEICHUANG INTER ENG COLTD SARL	16623
@@ -2202,11 +2258,13 @@ SUIVEZ LA LIGNE ET LA COLONNE	13300
 SYSTEM OVERVIEW INTRODUCTION The Collateral Registry	13333
 Saison Estivale des Collectivités Locales	15528
 Salaam’s College of Information and Communication Technology	5511
+Sanitation and Environment HE Colonel Maizama Abdoulaye	18220
 Sarah Coll-Black	10763
 Sciences CBE College of Business and Economics COMSAT	13960
 Scope of Application Personal Data Collection and Processing	11539
 Second Sebastopol SSS Third Loreto College	14745
 Secondary Schools and Teacher Training Colleges	13122
+Secrétaire Permanent du CNSP Col. Sahabi Sani	18216
 Section In Collaboration	14090
 Sector Collect	14997
 Secured Transaction Collateral Registry	11755
@@ -2214,6 +2272,8 @@ Securities Collateral RA. The Participant	12364
 Securities Collateral Reserve	12364
 Security Layers Colocation Cross Connect	9446
 Select College	8671
+Senior Colonel Moctar Diallo Ibrahim	18220
+Senior Colonel Salifou Mainassara	18220
 Serge Ghislain Djorie du Collectif	4539
 Service Collaboration	15701
 Sfundo Parakozov and Colleen Goko	7253
@@ -2242,7 +2302,8 @@ Startup. Le Collège des Startups	4567
 State of Eritrea HAC Hamelmalo Agriculture College	13960
 Statement of Collaboration	1726
 Statistics and Data Collection	16887
-Strategic Collaboration	10776
+Statistique CSC Conception Support de Collecte DRFM	18169
+Strategic Collaboration	10776,7371
 Strategic International Collaboration and Diplomacy	3760,9683
 Strategy. Data Collection Approach	14819
 Strategy. Samuel Cole	10345
@@ -2267,9 +2328,10 @@ Support and Collaboration	8670
 Survey Methodology for Data Collection Survey Responsibility	16949
 Surveys and Baseline Data Collection	17114
 Sylvie Colette IMMONGAULT	16175
-System Collapse	12062
+System Collapse	12062,6124,31
 Système Intégré de Gestion des Collectivités Décentralisées	15936
 SÍMBOLOS E COLOCAÇÃO DE SINAIS Artigo	794
+Sénégal. Collaboration	18309
 T-I19-1 International Collaboration Programs	15713
 TABLE Column	13189
 TAUX EFFECTIF GLOBAL Anatole Collinet MAKOSSO	15901
@@ -2279,6 +2341,7 @@ THRESHOLD TARGET EXCEPTIONAL COMMENTS Optimize Collections	16968
 TION DES RESSOURCES AUX COLLECTIVITES TERRITORIALES	17817
 TIQUETTE COLLEZ	13300
 TOUTES LES COLONNES	13300
+TRANSFERER DES COMPETENCES AUX COLLECTIVITÉS TERRITORIALES	18096
 TRATION TERRITORIALE ET DES COLLECTIVI- TES	17817
 TRAVERS DES COLLABORATIONS INTERSECTORIELLES	13306
 TVET College	4494,2338,98

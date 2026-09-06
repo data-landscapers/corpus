@@ -18,6 +18,7 @@ AKIDE AND COMPANY ADVOCATES Data Processor	7167
 ALFAJIRI EXECUTIVES COMPANY LTD Data Processor	7167
 ALIGNMENT OF THE COMPACT WITH NATIONAL	15977
 AMAH COMPANY LIMITED Data Processor INST-432947122FC	7167
+AMERICAN TOWERS COMPANY	18122
 AMRISTA COMPANY LIMITED Data Controller INST-197168CD8FB	7167
 ANALYSE COMPARATIVE ET EVALUATION ECONOMIQUE BUDGETAIRE	16328
 ANY Security Printing Company	12119
@@ -49,7 +50,7 @@ Accrual The Company	11955
 Achievable Realistic Time-bound TCN Transmission Company	11857
 Acquisition of Compactor	14738
 Acronyms and Abbreviations GAMCEL Gambia Cellular Company	16992
-Act GenCos Generation Companies GWh Gigawatt	12062
+Act GenCos Generation Companies GWh Gigawatt	12062,6124,31
 Acting Director of Legal and Company Secretary Anthony	9093
 Acting Group Company Secretary MML Mokoka	10793
 Action Compact	17582
@@ -219,6 +220,7 @@ CNBC's World's Top Fintech Companies	7619
 CNIB. Comparison	10812
 CO.KE Companies	6946
 COBRA SECURITY COMPANY LIMITED Data Controller	7167
+COM SAS AMERICAN TOWERS COMPANY NINETEC	18122
 COMPACT	13433,2755
 COMPACT Ce	13433
 COMPACT National	13433
@@ -240,7 +242,7 @@ COMPANIES PART	3714
 COMPANIES TRIBUNAL AND PROCEDURES APPLICABLE	3714
 COMPANIES Winding-up	3714
 COMPANION SOURCE PAGE	171,2,251,130,19,227,160,51,28,186,1,119,1,20,9,8,11,1,1,1,2,1,253,33,11,184,57,1,182,1,328,211,179,289,32,146,743,329,1239,858,662,985
-COMPANY	3714,1182,2271,2291,6645,72
+COMPANY	3714,1182,2271,2291,6645,72,1979
 COMPANY ADVOCATES Data Controller INST-269760A27B5 NAIROBI	7167
 COMPANY ADVOCATES Data Controller INST-376412AD991 NAIROBI	7167
 COMPANY ADVOCATES Data Processor INST-180728DEEBB MACHAKOS	7167
@@ -263,6 +265,7 @@ COMPANY LIMITED Data Controller INST-5650765317D NAIROBI	7167
 COMPANY LIMITED Data Controller INST-9359634F180 NAIROBI	7167
 COMPANY LIMITED Data Processor INST-1936179E954 NAIROBI	7167
 COMPANY LIMITED Data Processor INST-9359634F180 NAIROBI	7167
+COMPANY LIMITED JUDGMENT	18154
 COMPANY LLP Data Processor INST-9462143264D NAIROBI	7167
 COMPANY NA	16103
 COMPANY OF FINAN CIAL SOUNDNESS Date	12374
@@ -355,7 +358,7 @@ Comm Equipment Company	10622
 Communication Authority of Kenya and Register of Companies	6394
 Community Interest Company	1246
 Compability Security Ekurhuruleni	9129
-Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753,1189,52,505,294,101,114,111,178,60,929,294,634,76
+Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753,1189,52,505,294,101,114,111,178,60,929,294,634,76,346
 Compact Delivery Monitoring Unit	12595
 Compact Delivery and Monitoring Unit	12717,3320,151,778
 Compact Delivery and Monitoring Unit CPR Compact	16188
@@ -363,6 +366,7 @@ Compact Development Guidelines	12175,1815
 Compact Energétique	15851
 Compact Fluorescent Lamp CSOs Civil Society	14947
 Compact Goals	12399
+Compact II. Ce	18324
 Compact MCC	16323
 Compact Private Capital Mobilization Public Private	11468
 Compact Progress Report	12717,3471
@@ -377,12 +381,15 @@ Compact With Sierra Leone	1539
 Compact's Action Plan	12399
 Compactors Common	12253
 Compacts	13054,3804
-Compagnie	10289,1278,1847,2722,1846
+Compagnie	10289,1278,1847,2722,1846,340
 Compagnie Air Côte	2342
+Compagnie Commune de Réassurance des Etats Membres	18182
+Compagnie Electrique Sénégalaise CNH	18322
 Compagnie Financière de Paiement	4459
 Compagnie Française	15848
 Compagnie Ivoirienne	1005,14931
 Compagnie Malienne	17983
+Compagnie Marocco-Sénégalaise	18322
 Compagnie Minière du Bafing	2342
 Compagnie Pays de Prix	13414
 Compagnie Sucrière du Tchad	10841
@@ -455,12 +462,13 @@ Companies' Registrar The Registrars' Duties Include	14891
 Companies. Issuing Technical Support License Process	15283
 Companies. Outputs	15283
 Companies. Requirements	15283
+Companiesand Allied Matters Act	18154
 Companies’ Act	11240
 Companies’ Register	3714
 Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359,1053,218
 Companion Card	10418
 Companion Guide	11156
-Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73,559
+Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73,559,537
 Company Act	14891
 Company Address Changes	12041
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
@@ -593,13 +601,13 @@ Comparable and Interoperability	170
 Comparably	16950
 Comparación	16898
 Comparado	16969
-Comparaison	4459,3196,5669,66,24,1066,994,241,2121,28
+Comparaison	4459,3196,5669,66,24,1066,994,241,2121,28,336
 Comparaison Mali-Mètre	6959
 Comparaison des Dépenses	15670
 Comparaison des Recettes	15670
 Comparando	10758,19
 Comparativamente	2295,1308,441,6733
-Comparative	2096,327,2402,58,13,780,1775,97,262,156,1923,825,504,148,3470,290,38,80,716,962,56,162,9,596
+Comparative	2096,327,2402,58,13,780,1775,97,262,156,1923,825,504,148,3470,290,38,80,716,962,56,162,9,596,387
 Comparative AI Strategy References	4528,7984
 Comparative Analysis	12356,152,4470
 Comparative Analysis Strengths	12356
@@ -619,6 +627,7 @@ Comparative Factors	16266
 Comparative Figures Comparative	14736
 Comparative Fiscal Burden	15205
 Comparative Fit Index	4432
+Comparative Information	18318
 Comparative Insight	14819
 Comparative Metrics	4896
 Comparative National	15164
@@ -648,18 +657,20 @@ Comparecencia de Simeón Oyono Esono	17305
 Comparecer	4147,11286
 Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73,624,40,17,165,26,141,56,191,13,23,24,133,234,1038,9,64,47,108,131,1,267,110,2,128,127
 Comparer	9278,6658
-Comparez	13300
+Comparez	13300,5012
 Comparing	236,530,5,1322,723,5053,114,477,1810,444,127,136,978,401,27,1035,114,92,1136,664,180,1346,673,120
 Comparing CRVS	12413,2643
 Comparing PoPIA	11896
 Comparing the Palmer	17157
-Comparison	1212,612,406,5560,814,525,1683,321,62,55,925,39,153,18,28,32,501,107,1843,160,149,167,39,13,180,1044,466,2,24,17,586
+Comparison	1212,612,406,5560,814,525,1683,321,62,55,925,39,153,18,28,32,501,107,1843,160,149,167,39,13,180,1044,466,2,24,17,586,356
 Comparison Between Starlink	5874
 Comparison With Regional Neighbours	14297
 Comparison Year Value SSA LIC World	17248,4
 Comparison Year Value SSA UMC World	16260
 Comparison of After Access	11195
 Comparison of Cold Case Matters	11250
+Comparison of DisCos’ BE and EAE	18186
+Comparison of DisCos’ BE and Energy Accounting Efficiency	18217
 Comparison of Enterprise	14840
 Comparison of FREL	17140
 Comparison of Financial	13185
@@ -684,6 +695,7 @@ Compartiments	17812
 Compartment	16843
 Compartmentalization	16923,1
 Comparé	2342,4617,696,8281,1065
+Comparée	18322
 Comparées	2476
 Comparés	7670,5772
 Compass	5700,5264,1250
@@ -702,14 +714,14 @@ Compatibility Operating Systems	34
 Compatibility Options	3861
 Compatibility Positive	9129
 Compatibility Testing	5665
-Compatibilité	17846
+Compatibilité	17846,469
 Compatibilité Tester	15936
 Compatibilizar	10783
 Compatibilização	11520
 Compatible	5533,4499,1787,137,30,260
 Compatible Android	10032
 Compatible Service Delivery and Utilization	16885
-Complaint Unit CEET Compagnie Energie Electrique	12062
+Complaint Unit CEET Compagnie Energie Electrique	12062,6124,31
 Compland Company Limited Data Controller INST-51414381138	7167
 Complementary Interventions This Partnership Compact	12175
 Complete List of Unicorn Companies	11884,1
@@ -777,6 +789,7 @@ Dar Petroleum Operating Company	3583
 Data Mining Company	2536
 Data Privacy Comparative Guide. Retrieved	1243
 Debt Counselling Manager and Acting Company Secretary	11198
+Delta River Valley Development Company	18293
 Department DDiplomatic Mission D Public Company	736
 Deputy Head Registrar of Companies	14891
 Description Mubadala Investment Company	706,430
@@ -799,9 +812,11 @@ Digital Registry of University Spin-off Companies	5167
 Director General of Government Agencies and Companies	10455
 Director of Companies and Business Licensing	5883
 Director of The Raphael Fishing Company	12132
-Distribution Companies EA Electricity Act ECR	12062
+Distribution Companies EA Electricity Act ECR	12062,6124,31
 Dividend Considerations The Company	4896
+Double Comparatives	18099
 Draft Company Law. Page	14869
+E LT ON OIL COMPANY Avis	18322
 E- Tax Identification Number. Company	5864
 E-Government Implementation Companion	1398
 E-Government and Automation of Services Companion	5134
@@ -821,6 +836,7 @@ EICV7. Comparatively	12403
 ELECTROMAGNETIC COMPATIBILITY	14883
 ELLIS BUSINESS COMPANY	13452
 ELM Company	3639
+ELTON OIL COMPANY SA	18322
 EMPLOYERS DETAILS Company Trade Name	13037
 ENPCT National Company of Science and Technology Parks	4214
 ESS5 Requirements Comparison	17114
@@ -874,7 +890,8 @@ Employees of Companies Tribunal	3714
 Enabling Conditions This Partnership Compact	12175
 Enclave Power Company Ltd	15740
 End-to-End Digital G2P Companion	1027
-Energie Electrique TCN Transmission Company of Nigeria	12062
+Energie Electrique TCN Transmission Company of Nigeria	12062,6124,31
+Energie Solaire COMINAK Compagnie Minière	18103
 Energy Compact	11136,1581,324,4219
 Energy Compact23	3604
 Energy National Compact	14674
@@ -903,11 +920,13 @@ Exchange of Company Information	12389
 Excluding Cell C and Comm Equipment Company	9911
 Executive Director for Distribution Companies’ Affairs	16236
 Executive Secretary Wendlassida Patrice Compaoré	4182
+Expansion of Health Sector Renewal Compact	18163
 Experts Company MORE STORIES UIB	5101,850
 Expressed Company	14897
 External Companies	12342
 External Company Name and Amendments	12041
 External Company Registration Understanding External	12041
+FCFA. Comparativement	18122
 FCFA. Comparées	17872
 FDJ. Comparé	4402
 FEES Company Application Fees	12342
@@ -983,7 +1002,7 @@ Gambia Transport Service Company	3066
 Gamswitch Company LTD	17115,73
 General Company for Communications and Informatics	11738
 Generating Company PLC Government of Federal Republic	14546
-Generation Companies	12062
+Generation Companies	12062,6155
 Genuine Parts Company	4434
 Geothermal Development Company Limited	14422
 Ghana Airport Company Limited	16215
@@ -1000,7 +1019,7 @@ Global AI Governance Frameworks Comparative	16212
 Global AI Governance Frameworks Comparative Study	16202
 Global Business Companies	14777
 Global Business Company	14828,3
-Global Compact	1901,9996,8,268,1765,83,949
+Global Compact	1901,9996,8,268,1765,83,949,3155
 Global Compact for Migration	14021,2853
 Global Compact for Migration Champion Country	17292
 Global Compact for Migration and SDGs	16874
@@ -1043,9 +1062,9 @@ Hajj Companions	10427
 Hangzhou Laison Technology Company Limited	17558
 Harbor Engineering Company	261
 Have the Company Name Approved	12389
-Health Compact	4301
+Health Compact	4301,14069
 Health Compact PDQ Patient Identifier Cross-referencing	1009
-Health Sector Renewal Compact	4301
+Health Sector Renewal Compact	4301,13862
 HealthCompacts-EGYPT.pdf NATIONAL HEALTH COMPACT Tokyo	15977
 Heliopolis Company	15473
 Henag Company Ltd	3862
@@ -1163,6 +1182,7 @@ Kribi Power Development Company	15542
 LE PACTE NATIONAL ENERGETIQUE OU COMPACT	15799
 LEGACY SYSTEM MIGRATION AND COMPATIBILITY REQUIREMENTS	3861
 LESOTHO NATIONAL ENERGY COMPACT	12717
+LIGHTHOUSE TRADING COMPANY	18322
 LIMITATION OF CAPACITY AND RING-FENCED COMPANIES	3714
 LOCAL ICT COMPANIES ICT	14879
 LPGÂC Compartilhar	17034
@@ -1230,11 +1250,14 @@ M CONSULT COMPANY LIMITED Data Processor	7167
 M Sierra Leone Compact	1538,1
 M300 Energy Compact	3604
 M300 National Compact and ASCENT	14674
+MAACK PETROLEUM COMPANY SA Oil	18322
 MADAOUELA MINING COMPANY	11597
 MANAGEMENT OF COMPANY DURING BUSINESS	3714
 MANAGEMENT OF THE COMPANY	4896,2302
 MANAGEMENT OF THE COMPANY Mr Godfrey	4896
+MATCHING Comparaison MEN Ministère	18290
 MAURITIUS Appendix I. Practices Compared	14777
+MCC Senegal Power Compact	18316
 MEMBERSHIP OF CLOSELY HELD COMPANIES Number	3714
 MINING COMPANY	13189
 MRA Company Portal	14784
@@ -1328,6 +1351,7 @@ NATIONAL ENERGY COMPACT URL	16966
 NAWEC National Water and Electricity Company NBR	17105
 NHSRII Compact	4301
 NICO Life Insurance Company Limited	14674
+NIGER TURKIYE MINING COMPANY	18191
 NPC Non-Profit Company NPO Non-Profit Organisation	11250
 NRD Companies	3907
 NRD Companies’ GxP	3907
@@ -1352,6 +1376,8 @@ National Cybersecurity Index Company NCR National	14897
 National Digital Compacts	15939
 National Electricity Company SEZ Special Economic	17105
 National Electricity Company of Comoros	13752
+National Electricity Company of Mauritania	18374
+National Electricity Company of Senegal	18374
 National Electricity Distribution Company	11380
 National Energy Compact	5247,6689,463,164,32,85,37,30,307,174,396,61,891,98,1295,219,466,312
 National Energy Compact for Malawi	14674
@@ -1379,12 +1405,15 @@ Neelkantha Group of Companies. Indo-Zambia Bank	13561
 Nepal Doorsanchar Company Limited	15471
 Network Readiness Index Country Comparison	11857
 Next for Payments Companies The African	5124
+Niger PHCN Power Holding Company of Nigeria	18103
 Nigeria Agribusiness Group and Farmer Aggregation Companies	5765
 Nigeria Health Sector Renewal Compact	11468
+Nigeria National Petroleum Company Limited	18154
 Nigeria Rank Unicorn Company Industry City	11884
 Nigeria-AFGHS Compact	5141
 Nigeria. Companies Schneider Electric	4834
 Nigerian Company	11976
+Nigerian National Petroleum Company Limited	18221
 No. Registered Companies No. Academic Institutions	14819
 Non-Profit Company	11250,15,3190
 Non-Residents Shipping and Airline Companies	11976
@@ -1419,6 +1448,7 @@ P COMPAGNIE DES BAUXITES DE KINDIA	16623
 P COMPAGNIE EXCLUSIVE DE NEGOCE CIE	16623
 P HOUSE COMPANY Data Controller INST-794111D7814	7167
 PE Equity Belgian Investment Company for Developing	820
+PILIER V GARANTIR UNE COMPAGNIE NATIONALE	18316
 PLATFORM AND CONTENT COMPATIBILITY REQUIREMENTS All	17287
 PLEASE NOTE Companies	16601
 PRESENTATION OF COMPARED TARIFS	15655
@@ -1473,6 +1503,7 @@ President Blaise Compaore	16256
 President Compaoré	16256
 President of Microsoft Frontier Company	7007
 Presidential Health Compact	1009
+Presidential Health Sector Renewal Investment Compact	18163
 Price Comparator Portal	7763
 Price Comparison	14783
 Principal Results and Comparison With Prior Work	10919
@@ -1557,6 +1588,7 @@ Reservation of Company Name	14891
 Reset Economic Compass	15929
 Responsibilities of Technology Companies Operating	8485
 Review of Allowable Deductions for Companies	14828,3
+River Valley Development Company	18293
 Robust Comparisons and Future Prospects	15244
 Rockymobi Information Technology Compamy Limited	3862
 Roko Construction Company Ltd	10055
@@ -1614,6 +1646,7 @@ Services. Company	13385
 Session of COPUOS Companion	1735
 Sewerage Company	7548
 Seychelles Petroleum Company	7760
+Shiroro 1 Others Generation Companies	18217
 Shirtliff. Companies	14507
 Sierra Leone Cable Company Limited	360
 Sierra Leone Compact	1538,1
@@ -1707,8 +1740,10 @@ Telecommunication Companies TOR Terms of Reference TRIPS	236
 Telecommunication Company Limited GBA Greater Banjul	17105
 Telecommunications Holding Company	1374,1463,3596,10939
 Telecommunications Services Company GM-CSIRT The Gambia	1000
+Teloua Safeguarding Uranium Mining Company	18238
 Textile Development Company39F	10841
 Thomson Reuters Foundation’s AI Company Data	5618
+Tinubu's Health Renewal Compact Record	18163
 Togo Data Center Market Briefing Companion	3156
 Togo Digital Economy Diagnostic Report Companion	329
 Top Unicorn Companies	11884,1,320
@@ -1720,7 +1755,7 @@ Tower Companies	9246
 Transition. Comparaison Mali-Mètre	6959
 Transmission Company Limited	12256
 Transmission Company Limited VTTI Vitol Tank	12256
-Transmission Company of Nigeria	12937
+Transmission Company of Nigeria	12937,5249
 Tumblr Compartilhar	11587,5447,291,35,1,51
 Tunisia Companion	442,2,1214
 Tunisie. Comparativement	7449

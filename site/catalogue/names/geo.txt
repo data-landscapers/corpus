@@ -229,6 +229,7 @@ Geo-information Science and Earth Observation	15552
 Geo-political	940,10189
 Geo-political Zones	11129
 Geo-redundant	11952
+Geo-referenced	18359
 Geo-referencing	13322
 Geo. J. Int’l Aff	2518
 GeoAI	5226,5535,3945,3277
@@ -247,6 +248,7 @@ GeoPandas	12547
 GeoPoint	6423
 GeoPoll	6102
 GeoPortal	7130
+GeoSenegal Lancement	18324
 GeoShape	6423
 GeoTIFF	16411
 Geocomputing	6832
@@ -284,7 +286,7 @@ Geografia	414,15358,1331
 Geografia da Conectividade Até	9559
 Geografia1	15772
 Geografía	16875,94
-Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214,145,605,666,415,48,75,168,101,7,234,318,854,38,215,18,128,26,412,139,7,37
+Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214,145,605,666,415,48,75,168,101,7,234,318,854,38,215,18,128,26,412,139,7,37,203,9
 Geographic Agent	12297
 Geographic Approach	11252
 Geographic Approach The EMR	11252
@@ -307,7 +309,8 @@ Geographic Information Science Paul Gerard Gbetkom	15914
 Geographic Information System	104,685,1803,2773,4284,303,1177,585,146,529,573,1127,771,269,1787,183,15
 Geographic Information System GSA	16975
 Geographic Information System GoC Government of Congo	15659
-Geographic Information Systems	1222,10719,13,27,380,301,245,1182,1,31,22,563,953,1316,141,241
+Geographic Information System SOFF	18309
+Geographic Information Systems	1222,10719,13,27,380,301,245,1182,1,31,22,563,953,1316,141,241,773
 Geographic Information Systems Division	17170
 Geographic Information Systems HCT HIV Counseling	16935
 Geographic Information Systems HDI	14857
@@ -329,7 +332,7 @@ Geographic and Population Coverage	6000
 Geographic and Sectoral Segmentation	15179
 Geographic information system	5785
 GeographicReference	4856
-Geographical	10829,304,2,720,296,176,6,80,210,723,603,903,204,286,262,1263,11,64,5,210
+Geographical	10829,304,2,720,296,176,6,80,210,723,603,903,204,286,262,1263,11,64,5,210,1144
 Geographical Constituency	14852
 Geographical Coverage	7763,4192
 Geographical Coverage ATM	11955
@@ -404,6 +407,7 @@ Geopolitics and Commerce	13313
 Geopolitics and Data Localization	3810
 Geopolitics of AI	4253
 Geopolitics of Digital Rights Activism	11028
+Geoportail	18324
 Geoportal	13031
 Geoportal System	13031
 Geoqvueerntoe.mCoennsteeq	15694
@@ -514,7 +518,7 @@ Geoscience Australia. Provides	345
 Geosciences	13021
 Geoscientific	12256,3337
 Geoserver. Figure	15555
-Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97,55,1474,104,414,437,532,116,1278,290,98,5
+Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97,55,1474,104,414,437,532,116,1278,290,98,5,1033
 Geospatial AI Ops Atlas AI	5226
 Geospatial Capability	520
 Geospatial Data	196,3665
@@ -530,6 +534,7 @@ Geospatial Information Officer	14090
 Geospatial Information System	15473
 Geospatial Information Systems	11261
 Geospatial Infrastructure	13986
+Geospatial Infrastructure Improved	18293
 Geospatial Institutional Information Management Systems	14090
 Geospatial Intelligence	14090
 Geospatial Investment Alexis Rutagengwa Head of Land	12457
@@ -646,6 +651,7 @@ KOUMA Georges	16381
 KUPPET Nyamira Executive Secretary George Ayieko	8383
 Key Interventions Geographic Regions SENI-Plus	10829
 Kinshasa. Geographic	12003
+Kwara State Geographic Land Information Service	18155
 L'AÉRODROME AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA	16552,454
 LA GEOLOGIE AUTORISATION DE PROSPECTION Arrêté	16413
 LA GEOLOGIE Article	16177
@@ -700,6 +706,7 @@ Mapeamento Geográfico	12862
 Mapping Department National Land Authority GeoEmpower	12457
 Mapping Geodetic Tools Property Search	12511
 Maps Cadastral Services Geodetic Services Land	12511
+Marie Beatrice NGOM Community Builder GeoSenegal	18324
 Market Average Geographic Unit	15620
 Mathematics and Geography	8609
 Mauritius. Geographical	14752
@@ -824,6 +831,7 @@ Rwandan Franc. Geopolitical	15023
 République Madame. Monique YENOUSSI Monsieur Geoffroy	16485
 République du Congo. Guy Georges MBAKA Article	15524
 SADC Data Protection Model Law. Geographical	962
+SEN Spatial CHALLENGE GEOINNOV	18324
 SIG Sistema de Información Geográfica SMTS Sistema	16875
 SITUATION GEOGRAPHIQUE	16195
 SOCIETE GEOWORKS Capital	15786
@@ -843,7 +851,7 @@ Sector Minister Hon. Samuel Nartey George	10584,1
 Security and Climate Contexts Geopolitical	15604
 Segurança Geotécnica	15380
 Selon le Geo Factbook	11010
-Sen. George Akume	2934,9374
+Sen. George Akume	2934,9374,5868
 Senator George Akume	2382,1321,399,3459,1420,8590
 Service Description Under GEOGLAM	13094
 Servicio Geológico Nacional	9303

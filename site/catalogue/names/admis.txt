@@ -26,10 +26,13 @@ Admissible. SLE	7111
 Admissible. Single-country	7071
 Admissible. XAF	7064
 Admissible. ZAF	7145
-Admission	2709,5755,375,1064,916,28,1139,675,2107,7,1666
+Admission	2709,5755,375,1064,916,28,1139,675,2107,7,1666,1730
 Admission Garçons Filles G	10847
 Admission Requirements Admission	17437
 Admission Services	11986
+Admission TBP Taux Brut de Préscolarisation TBS	18171
+Admission TBS	18100
+Admission TNS Taux Net de Scolarisation TT	18171
 Admission Temporaire Exceptionnelle	17898
 Admission The Institute	14768
 Admissions	14773,2,2250,859

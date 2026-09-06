@@ -229,6 +229,7 @@ France and Germany	6369
 Franz Gerner	11149
 French and German	2318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,280,185,78,145,55,254,225,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,43,210,294,3600
 Funcionamento A Assembleia Geral	15391
+Fund IT Information Technology KfW German	18293
 GAKURU Venuste NIYIZIRERA Grace GASASIRA Gerard	12445
 GDP GERD	12351
 GDP of Germany	999
@@ -253,8 +254,9 @@ GERER LES MANDATAIRES Cette	6954
 GERERANYA	15023
 GERGÁCZ	6613
 GERMAN COOPERATION DEUTSCHE ZUSAMMENARBEIT The Skills	8985
-GERME	16384
+GERME	16384,1720
 GERME Manage	16384
+GERMES	18265
 GERMOSEN	17841
 GERMP	10857,6295
 GERMUE GBAWOQUIYA	16921
@@ -263,6 +265,7 @@ GIM-UEMOA Groupement Interbancaire Monétique GIZ German	17870
 GIR and GER	15604
 GIS Geographic Information System GIZ German	13312,2
 GIZ German Corporation for International Cooperation GmbH	1204
+GIZ German Technical Cooperation	18293
 GIZ and Germany	13223
 GNI Greenhouse Gas GoCI German Development	3604
 GROUPE BENHAMADI GERBIOR	15885
@@ -306,8 +309,8 @@ Geração de Renda PNADECOS Política Nacional	11390
 Gerações Futuras	2816
 Gerbaudo	17020
 Gereffi	13624
-Geregu 1	12062
-Geregu 2	12062
+Geregu 1	12062,6124,31
+Geregu 2	12062,6124,31
 Geremi KONE Souleymane DIALLO Secrétaire	18032
 Geremia	10878
 Geremia Palomba	17503
@@ -333,13 +336,14 @@ Germaine	15744,36
 Germaine Boni	2379,8,632,249
 Germaine Marie Anne	16100
 Germaine NGALA	2655
-German	560,266,189,183,225,670,225,6,33,70,3,17,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,23,47,1,8,35,119,42,63,18,126,31,163,119,78,69,141,20,17,21,280,185,64,14,145,55,254,16,18,191,32,106,45,60,43,101,4,127,50,73,5,116,183,19,70,19,108,46,1,23,5,104,1,14,135,7,16,43,210,294,424,220,206,122,204,348,210,701,1,284,474,396,28,13,133,170,232,393,212,213,558,149,78,1039,47,127,949,251,1291,493,62,382,22,82
+German	560,266,189,183,225,670,225,6,33,70,3,17,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,23,47,1,8,35,119,42,63,18,126,31,163,119,78,69,141,20,17,21,280,185,64,14,145,55,254,16,18,191,32,106,45,60,43,101,4,127,50,73,5,116,183,19,70,19,108,46,1,23,5,104,1,14,135,7,16,43,210,294,424,220,206,122,204,348,210,701,1,284,474,396,28,13,133,170,232,393,212,213,558,149,78,1039,47,127,949,251,1291,493,62,382,22,82,461
 German Academic Exchange Service	7955
 German Adaptation Policy	11028
 German Agency for GRM International Cooperation	10964
 German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1117,241,542,119,376,2044,465,1175
 German Agency for International Development	10964
 German Ambassador Dr. Jakob Haselhuber	17084
+German Bank for Reconstruction	18293
 German Competition Act	10090
 German Confederation of Raiffeisen Cooperatives	11134
 German Consortium	1282
@@ -374,6 +378,7 @@ German Greens MEP Sergey Lagodinsky	8014
 German Group Deltec	5101,850
 German Hebrew Hindi Italian Urdu	14771
 German Institute of Development and Sustainability. RDB	10841
+German Kreditanstalt	18301
 German Marshall Fund	12227
 German Ministry for Economic Cooperation and Development	13578
 German Red Cross	15125
@@ -399,7 +404,7 @@ Germanites	17157
 Germann	11585
 Germano Marques da Silva	9176
 Germanwatch	8891
-Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14,20,27,15,3,131,11,1,88,40,5,15,1,135,281,37,313,63,18,87,51,10,50,7,2,55,162,391,47,114,6,57,79,305,34,68,81,15,27,232,218,381,254,229,32,26,84,364,2,7,233,12,269,238,97,251,188,175,68,224,26,325,157,37,4,100,22,79,95
+Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14,20,27,15,3,131,11,1,88,40,5,15,1,135,281,37,313,63,18,87,51,10,50,7,2,55,162,391,47,114,6,57,79,305,34,68,81,15,27,232,218,381,254,229,32,26,84,364,2,7,233,12,269,238,97,251,188,175,68,224,26,325,157,37,4,100,22,79,95,45,7,102
 Germany AI	17884
 Germany Artificial Intelligence Strategy	17884
 Germany BAMF	4842
@@ -471,6 +476,8 @@ Gert Koen	10735
 Gert Sibande	11252,734
 Gertrude Umeh	7579
 Gertz	4676
+Gerund	18099
+Gerunds	18099
 Gerus	12399
 Gervais	15780,6,115
 Gervais Abayeho	3738
@@ -579,6 +586,7 @@ MINUTOS MÉDIO DE TRÁFEGO GLOBAL GERADO	11531
 MP Medi-Clinic Ermelo Gert Sibande	11986
 Malawian AI German-EU	10111
 Malik Arnold Geraldo	3866
+Management GDP Gross Domestic Product GERME	18104
 Management GGOAW Specialist Gernot Brodnig Social	11525
 Marco Gercke	10764
 Master Etudes Germaniques	15674
@@ -636,6 +644,7 @@ Orçamento Geral de Estado	5986,11114
 Orçamento Geral de Estado. Artigo	10783
 Orçamento Orçamento Geral	17100
 Os Directores Gerais-Adjuntos	11382
+PAF of Geregu 2	18217
 PARTNERS European Union France Germany	16955
 PERSONNEL PRESIDENT DE LA REPUBLIQUE GERVAIS	16099
 PESSOAIS CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	14
@@ -757,7 +766,7 @@ Turismo de Cabo Verde Geral	15526
 TÍTULO I DISPOSIÇÕES GERAIS	11430
 TÍTULO I DISPOSIÇÕES GERAIS Artigo	15440
 TÍTULO I PRINCÍPIOS GERAIS Artigo	15344
-UK and Germany	1813
+UK and Germany	1813,16349
 UMc Germany Europe Western Europe Berlin	10840
 UNESCO and Germany	14178
 US and Germany	12979

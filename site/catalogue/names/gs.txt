@@ -192,7 +192,7 @@ GSMA Handset Ethiopia	6593
 GSMA Head Office	6593,4411,13,885,62,30
 GSMA Head Office One Angel Lane	10856,3818
 GSMA ICT IDI IT INS ISP	15480
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138,1239
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Database. Available	16872
@@ -388,9 +388,11 @@ GST Guidelines	14932
 GST-registered	17607
 GSU Chief Executive Officer and Managing Director	4934
 GSX’s Karamoja and CBDC	5743
+GSYDF	18220
 GSdfiN’na	10965
 GSfH3	10965
 GSmartphoneSomaliaRead	6723
+Gallup and GSMA	18133
 Gambia GRC Grievance Resolution Committee GSC	16926
 Gambia Songhai Initiative GSRB Gambia Strategic	17105
 Gambia Submarine Cable Company Ltd GSM	16885

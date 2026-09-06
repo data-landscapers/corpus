@@ -5,8 +5,12 @@ AUX TAUX ET AUX MODALITES	16047
 Abed Tau	10605
 Abonnés Mobile Taux	17866
 Accès Taux	11944
+Achèvement Primaire TBA Taux Brut	18171
+Achèvement TAP Taux	18171
 Action VII.5.2 Taux	13306
 Actually Taught	13633
+Admission TBP Taux Brut de Préscolarisation TBS	18171
+Admission TNS Taux Net de Scolarisation TT	18171
 Affairs and International Relations Limpho Tau	11053
 Age Taux	15999
 Age Taux de Fécondité Total Taux Global	15599
@@ -17,6 +21,7 @@ Armées Taux	15999
 Assurer le Taux de SLIS	17845
 Assurés Taux	15685
 B. Taux	15999
+BENCHMARK RÉGIONAL SUR LE TAUX	18105
 Brut de Natalité Taux de Fécondité	15599
 CEO Serame Taukobong	9445
 CM2 Taux	10847
@@ -26,6 +31,7 @@ CTD Taux	15999
 Caractéristique Effectif de Nombre de Taux de Effectif	13300
 Caractéristique Taux de Taux	13300
 Communication du Taux Effectif Global	15901
+Couleur Naturelle Améliorée RVB Taux de Precipitation	18203
 DAT Taux DAT	17833
 DE LA TARIFICATION Taux	15670
 DES MATIÈRES PREMIÈRES TAUX D'ACCROISSEMENT DES	15999
@@ -46,9 +52,11 @@ Dotations Réalisations Prévisions Taux	2966
 Décès Années Taux	13300
 EMC Taux	15720
 ENSEIGNEMENT PRIMAIRE Taux	15999
+EUMETView Taux de Precipitation	18203
 EVOLUTION DES TAUX DE CONSULTATION PRÉNATALE	17843
 Education Taux	18014
 Efficience Taux	16328
+Egalité de Genre TBPS Taux Brut de Préscolarisation	18286
 Electrification Taux Acces TE	15670
 Elombi and Minister Parks Tau	7785
 Emprunteur le Taux Variable	15901
@@ -56,12 +64,20 @@ Enfants Taux	14423
 Etablissement de Microfinance. Taux	11944
 Etat Taux	10858
 Evolution des Taux	17843
-Evolution du Taux	998,9977,2415
+Evolution du Taux	998,9977,2415,4781
+Evolution du Taux Brut	18171
+Evolution du Taux Brut de Préscolarisation	18171
+Evolution du Taux Brut de Scolarisation	18171
+Evolution du Taux Net	18171
+Evolution du Taux Net de Scolarisation	18171
+Evolution du Taux de Transition	18171
+Exécution Taux	18122
 FEMMES Taux	13300
 Fbu Taux	13324
 Finance Inclusive TEG Taux Effectif Global	10965
 Fixe Taux	998
 Fécondité Général Tribunal de Grande Instance Taux	15599
+GLOSSAIRE Taux Net	18171
 Gendarmerie Nationale Taux	15999
 Global Taux	10965
 Gouvernement du Burundi Taux	13433
@@ -111,6 +127,7 @@ Le Taux	13390
 Le Taux Brut de Scolarisation	18014
 Le Taux Net de Scolarisation	18014
 Le Taux de Pertes	17462
+Le TauxBrut	18100
 M FCFA Taux	10708
 MARHASA Taux	15720
 MENAPLN Taux	15720
@@ -135,6 +152,7 @@ Mr. Taur Matan Ruak	16631
 N Taux	15999
 ND Taux de Rapport	17845
 Naissances Taux	13442
+Niger. Taux	18103
 Nombre de Taux Effectif Global	11944
 Ntate Tau	10210
 Nthabi Tau	10481
@@ -169,6 +187,7 @@ Réalisation Taux	2966
 Réalisations Mds Taux	16328
 Réalisations Taux	2476
 Région Taux	18014
+SE4ALL Taux	18103
 SI DES Taux Ecran	15901
 SIFEF Taux	17845
 SINTAX- Taux	10858
@@ -185,6 +204,7 @@ Suite Taux	13300
 Système Educatif National TBS Taux Brut	12
 Sécurisation Taux	16328
 Série1 Série2 Taux	17836
+T0 Taux	18317
 TAP Taux	17885
 TAUCKOORY Sudess Coordinator Ministry of Gender	14770
 TAUREAUX	13300
@@ -195,9 +215,10 @@ TAUX DE CPN4	17843
 TAUX DE FÉCONDITÉ DÉSIRÉE Naissances	13300
 TAUX DE LETALITE DES ACCIDENTS	15999
 TAUX DE PROMOTION	10847
+TAUX DE PÉNÉTRATION DES SERVICES TIC	18105
 TAUX DE REALISATION DES ACTIVITES BUDGETISEES	15999
 TAUX DE RÉALISATION DU SDS	17842
-TAUX DE RÉPONSE Le Tableau	13300
+TAUX DE RÉPONSE Le Tableau	13300,5012
 TAUX D’IMPOSITION N’excédant	15534
 TAUX D’INTERET	13375
 TAUX D’INTERET Denis SASSOU-N’GUESSO	15901
@@ -206,6 +227,7 @@ TAUX FIXE	15901
 TAUX FIXE Anatole Collinet MAKOSSO	15901
 TAUX VARIABLE	15901
 TBS Taux	17885
+TBS Taux Brut de Scolarisation UCSPE Unité	18286
 TENDANCE DES TAUX DE SUCCÈS	17843
 TNS Taux	17885
 TRANCHE A TAUX FIXE	15901
@@ -222,17 +244,20 @@ Taux Action Compétence	15512
 Taux Applicable	15901
 Taux Art.92.-	15349
 Taux Article	17972
-Taux Brut	10847,7098
+Taux Brut	10847,7098,155,43,27,1
 Taux Brut de Fréquentation	13300
 Taux Brut de Fréquentation Scolaire	737
 Taux Brut de Fréquentation Scolaire TIC	737
 Taux Brut de Fréquentation Scolaire Tous	737
 Taux Brut de Mortalité TBR	13377
-Taux Brut de Natalité	13300,2123
+Taux Brut de Natalité	13300,2123,2863
+Taux Brut de Préscolarisation	18171
 Taux Brut de Reproduction TELEX	13377
 Taux Brut de Scolarisation	10847
 Taux Brut de Scolarisation Garçons Filles G	10847
+Taux Brut de Scolarisation Tle Terminale TNA	18171
 Taux Brut de Scolarisation UNESCO	15848
+Taux Brut de Scolarisation. TIC	18100
 Taux CAHE OE RAT	15999
 Taux Date Finale de Disponibilité	15901
 Taux Ecran	15901
@@ -242,16 +267,17 @@ Taux Femmes-années	13300
 Taux Fixe	15901
 Taux Fixe Projet	15901
 Taux Global	15936
-Taux Global de Fécondité Générale	13300
+Taux Global de Fécondité Générale	13300,4986
 Taux Global de Fécondité Générale3	13300
 Taux MT LIQ2 Taux	3396
 Taux Montant	3396
-Taux Net	10847
+Taux Net	10847,7324
 Taux Net de Fréquentation	13300
 Taux Net de Fréquentation Scolaire	737
 Taux Net de Fréquentation Scolaire UA	737
-Taux Net de Scolarisation	10847
+Taux Net de Scolarisation	10847,7324
 Taux Net de Scolarisation Garçons Filles G	10847
+Taux Net de Scolarisation. UNESCO	18100
 Taux Nombre	13300
 Taux Préscolaire Primaire Post Secondaire Nombre	737
 Taux Prévisions Montant	3396
@@ -280,6 +306,8 @@ Taux de Réponse	15936
 Taux de SLIS	17845
 Taux de TVA	15615
 Taux de Taux de Revenu Taux	737
+Taux de Transition	18171
+Taux de Transition UNESCO Organisation des Nations Unies	18171
 Taux de Valeur	643
 Telkom CEO Serame Taukobong	8618
 Transversal Taux	16328

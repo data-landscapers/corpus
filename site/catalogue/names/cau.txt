@@ -57,7 +57,8 @@ Causas	2438,9119,5318,45,42
 Causas de Morte	11537
 Causas de Morte Mortalidade Contém	966
 Causation	17139
-Cause	1988,8775,43,611,721,13,187,75,546,649,1448,543,1261,6,26,222,785
+Causatives	18099
+Cause	1988,8775,43,611,721,13,187,75,546,649,1448,543,1261,6,26,222,785,413
 Cause Of Action	14675
 Cause of Cause of Death N	12151
 Cause of Death	12151,16
@@ -71,7 +72,7 @@ Cause-Specific Morbidity and Mortality	17869
 Cause-effect	14921
 Cause-of-Death	15209
 CauseDeath	11180
-Causes	4047,7109,906,76,13,320,2425,131,29,46,497,86,1454,121,583,26
+Causes	4047,7109,906,76,13,320,2425,131,29,46,497,86,1454,121,583,26,317,31
 Causes Firms	13624
 Causes Of Death	12151
 Causes Of Death According To Global	12151
@@ -107,6 +108,7 @@ Common Cause Zambia	9082,334
 Comoros Worldwide Caution	13754
 Constat Causes Leviers	15673
 Control and Prevention CoD Cause of Death CRDP	12151
+DES CAUSES DE NULLITÉ DES	18101
 Death Rate CoD Cause of Death CR	12413
 Definition and Causes of Migration	16874
 Definition and Causes of Migration Migration	16874
@@ -189,11 +191,13 @@ Rank Cause	12413,2643
 Rank Cause of Death Male Female	12151
 Rank Facility Cause	15056
 Rate CoD Cause of Death CR Civil	15056
+Review Causatives	18099
 Root Cause Analysis	10721
 Root Cause Analysis Infrastructure Challenges Zimbabwe	12508
 Root Cause Analysis of Deviations Table	5245
 Root Causes	15960
 SHAREHOLDER CAUTION Accordingly	4263
+SN2025 Causes	18319
 Sierra Leone. Cauridor and BnB	9920
 Strategic Caution	10929
 Ten Leading Causes Of Registered Deaths	12151

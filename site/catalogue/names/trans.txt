@@ -155,6 +155,7 @@ Actions de Transformation du Mettre	15936
 Actions de Transformation du Service Public	15936
 Actividade V. Transferência de Conhecimento	11451
 Actor and Transaction	1009
+Actual Transmission Loss Factor	18217
 Adaptive Cash Transfers	12980
 Adaptive Social Cash Transfers	13111
 Administração Fiscal Procura Capturar Transacções	8003
@@ -214,6 +215,7 @@ Agency MTDPCE Ministry of Digital Transition	15621
 Agency TRUST Transparency	5246
 Agency for Digital Transformation and Innovation	12834
 Agenda For Transformation	16949
+Agenda National de Transformation	18319
 Agenda National de Transformation Numérique	1218,16642,7,12,2,14
 Agenda de Transformation Numérique	17879,17
 Agenda de Transformation Sénégal	16250
@@ -427,6 +429,7 @@ Burkina Faso’s Minister for Digital Transition	9874
 Burkina Faso’s Ministry of Digital Transition	16261
 Burundi Jobs and Economic Transformation	13331
 Bus Rapid Transit	2342,4474,508
+Bus Rapide Transit	18322
 Bus Transco	14322
 Business Digital Transformation	4638
 Business Transformation Strategy	11289
@@ -465,7 +468,7 @@ CCT Conditional Cash Transfer ERR Expected	11924
 CCT Conditional Cash Transfers CDA Community	15604
 CENTRE NATIONAL DE TRANSFUSION SANGUINE	16175
 CENTRO TRANSICIÓN Y INFANTIL	4209
-CGIAR Digital Transformation Accelerator	8683
+CGIAR Digital Transformation Accelerator	8683,9653
 CHANGEMENT DE DENOMINATION SOCIALE TRANSFERT	15848
 CHAPAKAZI TRANSPORT INVESTORS MOMBASA CO LTD	7167
 CHAPITRE II DES DISPOSITIONS TRANSITOIRES Article	15397
@@ -565,6 +568,7 @@ Cash Transfer and Public Works Programs Indicator	15601
 Cash Transfer for Orphans and Vulnerable Children	14487
 Cash Transfers	10768,757,330,3803,5,1297
 Cash Transfers Transforming Lives	13592
+Cash Transfers and Accompanying Measures	18104
 Cash Transfers and Administrative Fees	11525
 Cash Transfers and Child Schooling	13332,2326
 Cash Transfers and Child and Adolescent Development	10768
@@ -657,8 +661,9 @@ Cloud and Digital Transformation	3300
 Cluster Transport	15936
 Clúster de Transporte	1701
 CoST Infrastructure Transparency Initiative	11007
-Code de Transparence	10981
+Code de Transparence	10981,7346
 Code of Practice for Packaging and Transport of Fresh Fruit	16900
+Code of Transparency	18305
 Code of Transparency and Good Governance	15566
 Collaborating To Transform And Improve Education	899
 Collecte Transport	14423
@@ -696,11 +701,12 @@ Compte Transit	13467
 Computerized Transit System	13042
 Conceptual Framework Inclusive Digital Transformation	12241
 Conceptual Framework for Transformation	17116
+Concession de Transport	18322
 Concession de Transport Modification	15670
 Conclusão Taxa Líquida de Escolarização Taxa de Transição	10766
-Conditional Cash Transfer	11857,141,4854
+Conditional Cash Transfer	11857,141,4854,1417
 Conditional Cash Transfer CSR Country	16852
-Conditional Cash Transfers	11924
+Conditional Cash Transfers	11924,6180
 Conditions for Cross Border Transfer	12185
 Conditions for Private Radio Transceiver Station	736
 Conditions of Data Transfers	12302
@@ -713,6 +719,7 @@ Congo Digital Transformation B	15901
 Congo's Digital Transformation Acceleration Project	1725,2059
 Congo's Project for Accelerating Digital Transformation	853,233
 Congo. Transformer	10204
+Conseil Exécutif des Transports Urbains de Dakar CLM	18291
 Conselho Nacional de Transição	6307,2437,8356
 Consent and Transparency Requirements	12675
 Consolidated Cash Transfer Program	14487
@@ -828,6 +835,7 @@ DE TRANSFORMATION DU BOIS FORET FORTE	16623
 DE TRANSITION LOI N	15691
 DE TRANSMISSION	15901
 DE TRANSPARENCE	15885
+DE TRANSPORT ET DE LOGISTIQUE ESTM	18170
 DE des Transports. CROISSANCE Membres	17817
 DECIM and PRODIGY Digital Transformation Projects	14636
 DECISIONS ET AVIS MINISTERE DES TRANSPORTS	15394
@@ -844,15 +852,19 @@ DES DISPOSITIONS TRANSITOI- Dans	17812
 DES DISPOSITIONS TRANSITOIRES	15584,143,885
 DES DISPOSITIONS TRANSITOIRES Art.33	15351
 DES DISPOSITIONS TRANSITOIRES Article	15727,2114
+DES DISPOSITIONS TRANSITOIRES DIVERSES ET FINALES	18106
+DES DISPOSITIONS TRANSITOIRES ET FINALES	18119
 DES DISPOSITIONS TRANSITOIRES ET FINALES Article	13292,1,1176,1234,2183
 DES DISPOSITIONS TRANSITOIRES ET FINALES Sont	13781
 DES DISPOSITIONS TRANSITOIRES ET FINALES Toute	15691
 DES DISPOSITIONS TRANSTOIRES ET FINALES Article	17814
 DES Dispositions TRANSITOIRES Article	17822
 DES HYDROCARBURES ET DU TRANSPORT DES	17982
+DES PRINCIPES FONDAMENTAUX DES TRANSFERTS Article	18096
 DES TRANSACTIONS DU COMMERCE ELECTRONIQUE ARTICLE	15373
 DES TRANSACTIONS ELECTRONIQUES AU BURKINA FASO	15362
 DES TRANSCRIPTIONS ET DES MENTIONS Article	15792
+DES TRANSFERTS DE COMPETENCES DE L’ETAT	18096
 DES TRANSPORTS	15395,506
 DES TRANSPORTS ET DES Vu le Décret	17899
 DES TRANSPORTS FERROVIAIRES	16175
@@ -958,9 +970,11 @@ Demande Transmission	3381
 Democratic Accountability and Transparency Mandates	3861
 Demonstrable Transparency and Accountability	11956
 Department of Digital Transformation and Fintech Innovation	3965
+Department of Public Sector Transformation	18305
 Department of Transport	4554,1973,3797,1170,57,435
 Department of Transport’s Driving License Card Account	2521
 Deputy Minister for Transport	16215
+Deputy Minister of Digital Development and Transport	18349
 Deputy Minister of Transport and Infrastructural Development	13591
 Deputy Minister of Transport and Infrastructure Development	13562
 Deputy Prime Minister and Minister of Works and Transport	12960
@@ -1037,7 +1051,7 @@ Digital Transformation Center Kenya	614,6111
 Digital Transformation Centers	1264,1027,6654
 Digital Transformation Centre	845,581,2794,2430,1896,1246
 Digital Transformation Centre Tanzania	1426
-Digital Transformation Centres	9137,3316,892,2,174
+Digital Transformation Centres	9137,3316,892,2,174,4809
 Digital Transformation Centres Initiative	9137
 Digital Transformation Centres. Supports	689
 Digital Transformation Change Management Strategy	13345
@@ -1092,7 +1106,7 @@ Digital Transformation Scorecard	14752
 Digital Transformation Section	13457
 Digital Transformation Steering Committee	15411
 Digital Transformation Strategic Objective	13005
-Digital Transformation Strategy	961,35,247,126,264,181,79,523,573,295,113,198,9,146,208,695,649,231,428,1272,1313,2174,120,425,304,672,433,1,56,349,15,18,344,1029,188,223,98,28,11,519,378
+Digital Transformation Strategy	961,35,247,126,264,181,79,523,573,295,113,198,9,146,208,695,649,231,428,1272,1313,2174,120,425,304,672,433,1,56,349,15,18,344,1029,188,223,98,28,11,519,378,2428
 Digital Transformation Strategy and ICT Strategy	12241
 Digital Transformation Strategy for Africa	542,247,169,3,282,571,863,485,961,969,1158,119,102,665,190,203,19,948,2344,729,1105,1,388,46,205,17,149,1994,19,148,503,586,212,76,300
 Digital Transformation Strategy for Africa Ilustração	11569
@@ -1179,8 +1193,10 @@ Direct Welfare Transfers	12964
 Directeur Général du Centre National de Transfusion Sanguine	16175
 Directeurs Généraux. LA TRANSPARENCE POUR UN	10975
 Direction Générale des Transmissions	2732
-Direction Générale des Transports Terrestres	10812,5124
+Direction Générale des Transports Terrestres	10812,5124,2386
+Direction des Industries de Transformation	18291
 Direction des Transports	4065
+Direction des Transports Routiers EDS-MICS	18291
 Direction du Transport	10579
 Director Nacional de Transformação Digital	12840
 Director Road Transportatio	12972
@@ -1209,7 +1225,9 @@ Doenças Não Transmissíveis	15966
 Doenças Não Transmissíveis DTP3 Vacina	15966
 Domaine des RESEAUX de TRANSPORTS	15542
 Domestic Electronic Transactions Framework Each State	15641
-Dorsale Transsaharienne	3967,22,600,417
+Dorsale Trans Saharienne	18245
+Dorsale Transsaharienne	3967,22,600,417,13112,8,38,46,40
+Dorsale Transsaharienne EDE	18118
 Douala. LA TRANSPARENCE POUR UN SECTEUR	10975
 Draft National Digital Transformation Strategy	5098,8015
 Drafting Transfer Pricing Legislation INTRODUCTION	573
@@ -1284,6 +1302,7 @@ ELECTRONIC TRANSFERS	15600
 ELECTRONIC TRANSFERS Under the Act	15600
 ELECTRÓNICA DE CONTAS E ACELERA TRANSFORMAÇÃO	11473
 ELIMINATE CASH PAYMENT FOR TRANSACTIONS EXCEEDING	15679
+EN TRANSPORT	18170
 ENERGIE CTD PRIVE TRANSPORTS ET AMENAGEMENTS	15542
 ENERGY AND HEAT TRANSFER ENGINEERING	16900
 ENERGÍAS TRANSPORTE DISTRIBUC. REG. INS ULAR	4209
@@ -1439,7 +1458,7 @@ Enabling Trusted Digital Transformation	2406
 Enabling the Processing of MOSOLO Card Transactions	11994
 Encuesta Continua Ministerio de Transportes	16898
 Eneo LA TRANSPARENCE POUR UN SECTEUR	10975
-Energie Electrique TCN Transmission Company of Nigeria	12062
+Energie Electrique TCN Transmission Company of Nigeria	12062,6124,31
 Energy Sector Transformation AI	4528,7984
 Energy Transition	14456,289,1238
 Energy Transition Strategy	12206
@@ -1452,6 +1471,9 @@ Engagement and Transparency	12356
 Enhance Operational Excellence Transform	17364
 Enhance Passenger Protection The Minister for Transport	16215
 Enhance Transparency	5517
+Enhance the Country’s Digital Transformation	18303
+Enhance the Country’s Digital Transformation ABU DHABI	18303
+Enhance the Country’s Digital Transformation URL	18303
 Enhanced Transparency Framework	3430,1,5130
 Enhancing Digital Transformation	17291
 Enhancing Governance and Transparency	13060
@@ -1466,7 +1488,8 @@ Ensuring Transparency	4528,7984,4525
 Ensuring Transparency and Accountability	2958
 Enterprise Transformation Strategist	9230
 Entity TC Technical Cooperation TI Transition	1818
-Environment and Ecological Transition	3431
+Entreprises de Transit	18307
+Environment and Ecological Transition	3431,14939
 Environment and Tourism Sector Transformation AI-powered	4528,7984
 Environmental Capital Transports and Reduced Greater	12006
 Equatorial Guinea Overview. Transparency International	16942
@@ -1518,6 +1541,7 @@ Ethiopia’s Electronic Transactions Proclamation	11607
 Europe Cooperation and Digital Transformation	2518
 Evaluating the Transitions	17870
 Evidence Synthesis and Policy Translation	10852
+Evolution du Taux de Transition	18171
 Evolution of RTGS Transaction Volumes	6938
 Excellence des Projets de Recherche Transdisciplinaire	16606
 Exceptions and Special Mechanisms Transfers	3861
@@ -1530,6 +1554,7 @@ Executive Summary The Inclusive Digital Transformation	12241
 Executivo A Agenda de Transição Digital da Administração	11394
 Existing Transmission Lines	12358
 Expand Trust Services and Accelerate Digital Transformation	3299
+Expands Digital Transformation Partnerships Across	18303
 Expected Regional Transformation	12432,252
 Expected Transformational Outcomes	14747
 Expenditure and Transactions	13479
@@ -1540,7 +1565,7 @@ Export Economy Technology Transfer Is Rwanda	3256
 Export and Transfer of Ownership of Cultural Property	14409
 Extended Regular Cash Transfer	11988
 Extensive National Digital Transformation Strategy	12428
-Extractive Industries Transparency Initiative	170,2719,694,544,6746,2187,3783,153
+Extractive Industries Transparency Initiative	170,2719,694,544,6746,2187,3783,153,1309
 Extrême-Nord POSTES Transfo P	10975
 F Transparence	10975
 FACILITATION INTERNAL EFFICIENCY CULTURE TRANSFORMATION	16968
@@ -1613,7 +1638,7 @@ Fiscal Transparency Report. Section	11005
 Fiscal Transparency Review Process and Criteria	11005
 Fiscal Transparency The Department	11005
 Fiscalised Recording of Fuel Transactions	13606
-Fisheries Transparency Initiative	10112
+Fisheries Transparency Initiative	10112,8193
 Fixed Service and Wholesale Transit Revenue Fixed	3898
 Fonction Transparen Chambres	15712
 Fonds de Transformation Digitale	10371,337
@@ -1709,6 +1734,7 @@ Gestion de Réseaux de Transport. L’année	10975
 Gestion des Réseaux de Transport SDCB	10975
 Gestion du Réseau de Transport	10975
 Gestion du Réseau de Transport. Elle	10975
+Gestionnaire du Réseau de Transport	18322
 Gestão de Transmissão	11435
 Ghana Digital Transformation	1052
 Ghana Integrated Digital Transformation Blueprint	4126
@@ -1735,7 +1761,7 @@ Good Governance and Transparency	15372
 Goods In Transit Importation Of Foreign	12454
 Google Translate	1363,5516,69,9410
 Google Transparency Report	9477
-Gouvernement de Transition	16641
+Gouvernement de Transition	16641,1611
 Gouvernement. Transferts	2476
 Governance Reform Accountability Transformation	2252,352,14599
 Governance Reform and Accountability Transformation	5244,6623,4277,805,88,42,101
@@ -1748,7 +1774,7 @@ Government Intranet Transfer	14725
 Government Pursues Education Transformation Botswana	12565
 Government Services and Financial Transactions	1920
 Government Strategies for Digital Transformation	10785
-Government Transformation	12989
+Government Transformation	12989,5179
 Government of Kenya Bottom-up Economic Transformation Agenda	4153
 Government of Mauritius Digital Transformation Blueprint	14752
 Government of Mauritius's Digital Transformation Blueprint	2771
@@ -1820,6 +1846,8 @@ Hon. Minister for Public Works and Transport	13126
 Honorable Minister for Transport	14216
 Hon’ble Minister of Road Transport and Highways	16649
 Horizon for New Digital Transformation Roadmap	4962
+Household Prosperity and Empowerment Cash Transfer	18243
+Household Prosperity and Empowerment Cash Transfer Programme	18243
 Household Uplifting Programme-Conditional Cash Transfers	10093
 Huawei Digital Transformation Academies	16046
 Huawei. The Digital Transformation Acceleration Project	2306
@@ -1886,7 +1914,7 @@ INSTITUTIONAL SUPPORT AND TRANSFERS Programme	11986
 INSTITUTIONAL SUPPORT AND TRANSFERS Purpose	11986
 INTERCOMPANY FINANCIAL AND OTHER TRANSACTIONS	4896
 INTERNAL TRANS	13093
-IP Transit	1011,2829,4159,1447,1510,6914
+IP Transit	1011,2829,4159,1447,1510,6914,410,150
 IPC Transparency	13325
 IPPS Imports Independent Power Producers Transmission	12399
 IRM Transitional Results Report	11873
@@ -1901,6 +1929,7 @@ Impact Evaluation of Indonesia Conditional Cash Transfer	12978
 Impact and Transformation Customer Base	14151
 Impact of Cash Transfers	10985
 Implement the Social Cash Transfer Programme	12964
+Implementation Unit PNBSF National Cash Transfer	18301
 Implementation of Cash Transfers	10768
 Implementation of Digital Transformation Roadmap	13095
 Implementation of National Digital Transformation Strategy	2245
@@ -1995,6 +2024,7 @@ Intermediated Money Transfer Tax	9904
 Intermédiaire Axe Transversaux Axe D	18015
 International Aid Transparency Initiative	1651,5331,5980
 International Air Transport Association	9895,465,363,2319,81,1286
+International Budget Transparency Initiative	18305
 International Data Transfer Agreement	14845
 International Data Transfer Safeguards	12193
 International Data Transfers	4583
@@ -2034,6 +2064,7 @@ Ivoire's Ministry of Digital Transition and Innovation	5458
 Ivorian Ministry of Digital Transition	3701
 J GROUPEMENT AFRICAIN DE TRANSPORT D'HYDROCARBURES	16623
 J'AI TRANSMIS LA DECLARATION ET JE	16629
+JETP Just Energy Transition Partnership	18316
 JSON Transport	12359
 Jali Transport	718
 Jean-Marc THYSTERE TCHICAYA MINISTERE DES TRANSPORTS	15848
@@ -2064,7 +2095,9 @@ Justice Sector Transformation Roadmap	14012
 Justice Tax Employment Exchange Transport Standard	14965
 Justice Transformation Numérique	5983
 K SOCIETE TRANSPETROLE SARL UNIPERSONNELLE TRANSPETROLE	16623
+KASSACK-SUD TRANSPORT HYDROCARBURES	18322
 KOUMASSI Transfo	10975
+Kalpataru Power Transmission	18378
 Karama Cash Transfer Program. Synthesis Report	15663
 Kay-Lyne Wolfenden The Accelerating Digital Transformation	4963
 Kenya Electricity Transmission Co. Ltd	14546
@@ -2105,6 +2138,7 @@ LA TRANSFORMATION NUMÉRIQUE COMME MOTEUR	7655
 LA TRANSITION	17899,83,21,29
 LA TRANSITION DIGITALE	3189,2637,1844,651,7355,441,170
 LA TRANSITION VERS LE SD RFP	18015
+LA TRANSPARENCE ET LA RESPONSABILITÉ	18265
 LA TRANSPARENCE POUR UN SECTEUR ELECTRIQUE	10975
 LA TRANSPARENCE POUR UN SECTEUmR EoLbECilTiReIrQdUeE	10975
 LAND IN TRANSITION	17140
@@ -2118,6 +2152,8 @@ LEARNING FOR STATISTICAL TRANSFORMATION	17116
 LEGAL RECOGNITION OF ELECTRONIC TRANSACTIONS	28
 LEGAL RECOGNITION OF ELECTRONIC TRANSACTIONS Section	28
 LEI DAS TRANSACÇÕES ELECTRÓNICAS	11582
+LES DIRECTIONS NATIONALES TRANSVERSALES SONT	18143,27
+LES EXIGENCES DE LA TRANSFORMATION DIGITALE	18317
 LES TRANSACTIONS Article	15488
 LES TRANSACTIONS ELECTRONIQUES	14411
 LESOTHO TRANSPORT	12742
@@ -2161,8 +2197,10 @@ Law of Electronic Transactions	3861
 Layer Transaction	11310
 Le Fonds de Transformation Digitale	10371,337
 Le Gouvernement de Transition	15676
+Le Ministre des Transports	18212
 Le Projet TRANSFORME	10204
 Le Réseau de Transport National	16037
+Le Schéma Directeur Production Transport	18103
 Le Secteur des Transports	16621
 Le Transfert	17876
 Lead Technology and Digital Transformation Partner	10518
@@ -2180,6 +2218,7 @@ Legal Transition Process. Currently	13123
 Legal Validity of Transactions and Signatures	15198
 Legality of Electronic Transactions	12532
 Lei de Transacções Electrónicas	576,219,11979
+Les Directions Nationales Transversales	18143,27
 Les Dépenses de Transfe	15999
 Les Dépenses de Transfert	15999
 Les Transactions	15710
@@ -2213,6 +2252,7 @@ Libya Urges Swift Transition	5904
 Libya and Egypt. The Trans-Saharan Fiber Optic	5006
 Libya's Green and Digital Transition URL	17298
 Libya’s Libya-Africa Transit Corridors Project	5317
+Licence de Transport Routier	18322
 Licensing and Technology Transfer	12389
 Life Transitions and Awareness of Rights	17165
 Ligation BTR Biennial Transparency Report CAA	2775
@@ -2268,6 +2308,7 @@ MESSAGES AND ELECTRONIC TRANSACTIONS Part	12919
 MFB Transactions Account	3604
 MHz Transmission	736
 MHz WIDEBAND DATA TRANSMISSION SYSTEMS SCOPE	12949
+MILLIARDS FCFA POUR TRANSFORMER EN PROFONDEUR	18351
 MILLION FROM THE SUDAN TRANSITION	14885,63
 MINISTERE DE LA TRANSFORMATION NUMERIQUE ET	5983
 MINISTERE DES TRANSPORTS	15395,60,160,233,53,138,60,76,2,492
@@ -2306,6 +2347,7 @@ Maintenance of Transmission Networks Effective	14745
 Make Model Transmit Power	736
 Making Land Transactions Faster and Transparent Submitted	14567
 Malabo Convention Electronic Transactions Personal Data	1243
+Maladie Sexuellement Transmissible MT	18118
 Maladie Sexuellement Transmissible MTA	15475
 Maladies Non Transmissibles	14622,3221
 Maladies Sexuellement Transmissibles	14488,1,1
@@ -2365,6 +2407,7 @@ Mauritania’s Minister of Digital Transformation	16131
 Mauritius Build Operate Transfer Unit	14847
 Mauritius National Transport Corporation	14847
 Mauritius’ Digital Transformation Blueprint	10296
+Means of Transportation	18099
 Mechanics of Occupational Transformation	16266
 Mechanism DTS Digital Transformation Strategy E-Commerce	1243
 Media Frequencies and Mobile Transceivers	2775
@@ -2435,7 +2478,7 @@ Minister of Works and Transport	8006,2620
 Minister of Works and Transport Veikko Nekundi	11681
 Minister. Maritime Transport The United Arab	11185
 Ministerio de Transportes	975,2519,3347,259,603,1,449,1165,3200,1786,2594,191,20,19,66,59,54,70,12,26
-Ministre des Transports	7978,7404,736,296
+Ministre des Transports	7978,7404,736,296,1737,61,26
 Ministre des Transports Rémy OSSELE NDONG	15371
 Ministries of Finance and Digital Transformation	9775
 Ministries of Justice and Digital Transition	3052
@@ -2465,6 +2508,7 @@ Ministry of Digital Transition and Reform	5797
 Ministry of Digital Transition and Technological Innovation	1649,3107,701,2,1175,385
 Ministry of Ecological Transition	12545
 Ministry of Energy and Green Transition	16596
+Ministry of Environment and Ecological Transition MFSAS	18370
 Ministry of Infrastructure and Transport	8133,6764
 Ministry of Land Transport	14791,39,9,6,2
 Ministry of Public Infrastructure and Land Transport	14742
@@ -2474,7 +2518,7 @@ Ministry of Telecommunications and Digital Transformation	4807,10396
 Ministry of Trans-	16942
 Ministry of Transition	4111
 Ministry of Transition and Digitisation	4093,18
-Ministry of Transport	34,2893,53,603,32,688,462,803,440,2420,164,296,764,475,1425,1,584,172,67,654,444,974,700,989,78,711,1,15,5,152,6,9,28,15,103,58
+Ministry of Transport	34,2893,53,603,32,688,462,803,440,2420,164,296,764,475,1425,1,584,172,67,654,444,974,700,989,78,711,1,15,5,152,6,9,28,15,103,58,880
 Ministry of Transport FMW&H Federal Ministry of Works	11857
 Ministry of Transport Launches Digital Transformation	17142
 Ministry of Transport Motor	17011
@@ -2506,6 +2550,7 @@ Ministère Transparen PTF	15712
 Ministère Transparen PTFs	15712
 Ministère de Transpare Secteur la Justice	15712
 Ministère de Transport	14423
+Ministère des Infrastructures des Transports Terrestre	18286
 Ministère des Transport	15478
 Ministère des Transports	3231,165,1707,5608,230,1302,1047,2081,107,64,215,179,65,322,293,25,28,1230
 Ministère des Transports Cible	15936
@@ -2588,6 +2633,7 @@ NITA Transfert	5959
 NKILOUMBINDAMANE BILEMBOLO MINISTERE DES TRANSPORTS	16177
 NLTA Ministry of Land Transport	14770
 NORMAL CODES TARIFF PER TRANSACTION PRICING	16844
+NOS VALEURS Transparence Indépendance Intégrité Expertise	18322
 NOSi’s Digital Transformation of Elections	11909
 NST-1 National Strategy for Transformation	14985
 NST1 National Strategy for Economic Transformation RDB	12329
@@ -2609,6 +2655,7 @@ National Agenda for Digital Transformation	11867
 National Agroecology Transition Programme	14818
 National Assessment and Technology Transfer Centre	13217
 National Bank of Rwanda FUNDS TRANSFER	15023
+National Cash Transfer Program	18301
 National Coordination Committee NTP National Transformation	14965
 National Data Transmission Backbone Infrastructure	1150,133
 National De Transfusion Sanguine Centre National	15936
@@ -2656,6 +2703,7 @@ National Land Transport Amendment Act	11494,57
 National Land Transport Authority	14753,8,84,2
 National Land Transport Authority Act	7845
 National Land Transport Authority Recovery Act	7845
+National Manual for Integrated Sample Transportation	18370
 National Public Transport Regulator	11494,57
 National Statistical System Transfer Historical Data	16863
 National Strategies for Transformation	14997
@@ -2732,11 +2780,13 @@ Northern Basement Transboundary Aquifer. Hydro Nova	15052
 Northwest Transmission Grid Connection Project	12563
 Notificación. Transcu	16855
 Number Of Transfers From This School	11180
+Number To Transform Education System URL	18219
 Number of Base Transceiver Stations	12395
 Number of Instructions Transaction Value Range Number	12252
 Number of Social Transfer Program	17849
 Number of Transactions	11955
 Numérique Société Malienne de Transmission	17856
+Numérique Transformation	18317
 Nutrition and Cash Assistance Are Transforming Lives	16526
 Nyambirai First Transfer Secretaries D3	4896
 Não EST-TEC20 Portal de Transparência ADI8 ADI7	15532
@@ -2833,6 +2883,9 @@ PRESERVATION AND TRANSPLANT	14773
 PRESIDENT DE LA TRANSITION	17861,13,25,83
 PRINCIPLE OF DATA SHARING AND TRANSFER	14434
 PRIORITY GENERATION AND TRANSMISSION PROJECTS Name	16966
+PRIORITÉS TRANSVERSALES	18265
+PRIORITÉS TRANSVERSALES L’INTÉGRITÉ	18265
+PRIVÉE DE TRANSPORT ET DE LOGISTIQUE	18143
 PRMP Transmet	10876
 PRMP Transmet le DAO	10876
 PROGRESS ON THE DIGITAL TRANSFORMATION PROGRAMME	11231
@@ -2899,7 +2952,7 @@ Planned Action Deliverables Transparent	16885
 Plano Multissetorial de Doenças Crónicas Não Transmissíveis	15966
 Plano de Transição Digital da Administração Pública. OE6	11379
 Platforms. The Electronic Transactions Law	12294
-Plc TLF Transmission Loss Factor YEDC	12062
+Plc TLF Transmission Loss Factor YEDC	12062,6124,31
 Police du Transport	14760
 Policy Advocacy Inclusive Digital Transformation	12241
 Policy and Institutional Context of Digital Transformation	17870
@@ -2996,6 +3049,7 @@ Promoting Digital Transformation	15120
 Promoting Fairness and Transparency	14897
 Promoting Transparency and Public Trust	17116
 Promulgation of Electronic Transactions Act	12919
+Propel Digital Transformation	18303
 Property Management and Transaction Information System	11862
 Property Transfer	12389
 Property Transfer Certificate	10930
@@ -3092,6 +3146,7 @@ Rapid Transfer Nombre	13390
 Rapid Transformation	13960
 Rapid and Sustainable Transition	15500
 Rapide Money Transfer	13452
+Rashad NabiyevMinister of Digital Development and Transport	18349
 Re-engineering and Transformation	16858
 Re-evaluate the Transfer	12302
 Real Estate Transactions	10448
@@ -3120,6 +3175,7 @@ Regional Customs Transit Guarantee Scheme	13563
 Regional Digital Transformation Financing Mechanism	15939
 Regional Digital Transformation Summit of Cotonou	15939
 Regional Higher Education Transformation	17577
+Regional Transmission Centre Page	18309
 Regional Transmission Infrastructure	16966
 Registo Predial Transparência	11898
 Registration and Transfer	6921
@@ -3224,7 +3280,8 @@ Régulation du Transport Bilinguisme SRGRT	10975
 République du Burundi BTS Base Transmitter Station	13312,2
 République du Congo TRANSFERT DE SIEGE SOCIAL	16274,182
 Réseau Public de Transport	10975
-Réseau de Transport	10975
+Réseau de Transport	10975,7347
+Réseau de Transport CAE	18322
 Réseau de Transport CARPA Conseil	10975
 Réseau de Transport National	16037
 Réseaux Publics de Transport	10975
@@ -3296,6 +3353,7 @@ Safaricom Money Transfer Services	6971
 Safety Net Transfers	15658
 Salary Services Bureau STM-1 Synchronous Transport	13295
 Salvador Baloi A Agência de Transformação	12822
+Sample Transportation	18370
 Sante Transports Communications Loisirs	16708
 Santé Publique Maladies Non Transmissible Organisation	15599
 Santé REST Representational State Transfer	13306
@@ -3335,6 +3393,8 @@ Seguro Elemento de Transporte	4209
 Self-reporting of Sexually Transmitted Infections	15247
 Senegal AI Transformation Center	16772
 Senegal’s ARTP Advances Digital Transformation	4803
+Senegal’s Agenda National de Transformation Sénégal	18370
+Senegal’s Systemic Transformation Strategy	18370
 Senior Manager Digital Transformation and Technology	4046
 Senior Road Transport Inspector Government	12972
 Senior Transport Engineer	17260
@@ -3444,11 +3504,14 @@ Sociétale des Entreprises RTNE Réseau de Transport National	16037
 Société Ivoirienne de Transformation Agricole	2342
 Société Malienne de Transmission	7999,9857,14
 Société Nationale de Transport	10975,4567
+Société Nigérienne de Transport Urbain	18238
 Société de Transport Public	17907
 Société des Transports Abidjanais	2342,13594
 Sociétés LE PRESIDENT DE LA TRANSITION	18003
+Sociétés de Transfert	18135
 Soil Transmitted Helminthiasis	12729
 Solid Waste Transfer Public Unit	16614
+Solution for Direct Benefits Transfer	18269
 Somalia Electricity Transmission Line Interconnections	14957
 Somalia National Transformation Plan	14965,46
 Somalia Transaction Automation and Reporting System	14965
@@ -3559,6 +3622,7 @@ Survey of Direct Benefit Transfer Beneficiaries	11988
 Suspicious Transaction Report	17183
 Suspicious Transaction Reports	5369,9628
 Sustainability The Digital Transformation Strategy	13347
+Sustainable Development and Green Transition	18370
 Sustainable Digital Transformation	3604,4466,9248
 Sustainable Energy Transition Energy	14745
 Symptoms of Sexually Transmitted Infections and Prior HIV	15247
@@ -3570,6 +3634,7 @@ System Transformation of Education Programme	13999
 Systematic Transmission of Exchanges	16949
 Systems Private Radio Transceiver Stations	736
 Système de Transfert Automatisé	7283,3639
+Sénégal Transferts	18291
 T Infection Sexuellement Transmissible	15711
 T Maladie Non Transmissible	15711
 T TRANSPORT GUINEEN D'HYDROCARBURES TGH PLUS	16623
@@ -3608,6 +3673,7 @@ TRANS	6462,9133
 TRANS BORDER DATA FLOWS	1474
 TRANS BORDER FLOWS OF PERSONAL DATA	1474
 TRANS N	15676
+TRANS PORT S E RIGNE ABDOU	18322
 TRANSACTION	17833
 TRANSACTION LIMITS Per-Transaction	11002
 TRANSACTION SERVICE Sim	10819
@@ -3651,6 +3717,7 @@ TRANSFER PAYMENTS	11218,6
 TRANSFERENCIAS	4209
 TRANSFERENCIAS Artículo	4209
 TRANSFERENCIAS RECIBIDAS DE OTROS PRESUPUESTOS	4209
+TRANSFERER DES COMPETENCES AUX COLLECTIVITÉS TERRITORIALES	18096
 TRANSFERS	1243,15735
 TRANSFERS COVERED	15600
 TRANSFERS COVERED The Electronic Transfer Levy	15600
@@ -3677,6 +3744,7 @@ TRANSFORMATION ACTION PLAN Tunisia Telecommunications	1818
 TRANSFORMATION AND TIMBER PROCESSING Timber	16843
 TRANSFORMATION DE GUCE CI MARS EN	2342
 TRANSFORMATION DIGITALE	16294
+TRANSFORMATION DIGITALE DE L’ADMINISTRATION URL	18317
 TRANSFORMATION Digital	17870
 TRANSFORMATION INITIATIVES	11231
 TRANSFORMATION LOCALE CABINET DU MINISTRE	16175
@@ -3702,6 +3770,7 @@ TRANSITION IMPACT Primary Quality	1818
 TRANSITION IMPACT SCORING CHART	1818
 TRANSITION IMPACT SCORING CHART ANNEX	1818
 TRANSITION IMPACT SCORING CHART Score	1818
+TRANSITION NUMERIQUE La Team Europe	18425
 TRANSITION OF THE MARRIAGE AND DIVORCE	13105
 TRANSITION VERTE	15500
 TRANSITIONAL	17243,7
@@ -3777,12 +3846,13 @@ TRANSPARENT FLOW OF INFORMATION BY PRIVATE	1333
 TRANSPARENTE ET ACCESSIBLE A TOUS	15970
 TRANSPARÊNCIA DAS CONDIÇÕES E DOS REQUISITOS	10755
 TRANSPARÊNCIA DAS INFORMAÇÕES	11898
-TRANSPORT	12403,3267,953
+TRANSPORT	12403,3267,953,1696
 TRANSPORT AND COMMUNICATION STATISTICS UNIT	16992
 TRANSPORT AND INFRASTRUCTURAL DEVELOPMENT	13420
 TRANSPORT AND TRAFFIC TELEMATICS	12949
 TRANSPORT AND TRAFFIC TELEMATICS APPLICATIONS TRANSPORT	12949
 TRANSPORT ANNUAL PERFORMANCE REPORT	13126
+TRANSPORT ARONA SY SARL	18322
 TRANSPORT DE MATERIELS ET PRODUITS MILITAIRES	17982
 TRANSPORT ET DISTRIBUTION DE L'ENERGIE ELECTRIQUE	16103
 TRANSPORT ET MOUVEMENT D’ÉNERGIE Lignes	16714
@@ -3790,11 +3860,13 @@ TRANSPORT ET TRANSIT EN AFRIQUE	16623
 TRANSPORT GUINEE STTG	16623
 TRANSPORT INFRASTRUCTURE	17260
 TRANSPORT INTERNATIONAL	17485
+TRANSPORT KEUR MALOUM	18322
 TRANSPORT MARITIME	15999
 TRANSPORT PUBLIC	13300
 TRANSPORT SAVINGS SOLAR-POWERED WATER SYSTEMS BIODIVERSITY	11586
 TRANSPORT SECTOR	718
 TRANSPORT SGTT	16623
+TRANSPORT SUNU KEUR	18322
 TRANSPORT Solaire Photovoltaique	15670
 TRANSPORTATION	12389,4546
 TRANSPORTATION STANDARDS	16900
@@ -3806,6 +3878,7 @@ TRANSPORTS EGTT	16623
 TRANSPORTS ENERGIE EAU	15542
 TRANSPORTS ET A LA COMMUNICATION ARTICLE	15436
 TRANSPORTS ET AMENAGEMENTS URBAINS ETAT CTD	15542
+TRANSPORTS ET DE L'AVIATION CIVILE	18238
 TRANSPORTS Le Cameroun	15542
 TRANSPORTS Renchérissement	15542
 TRANSPORTS SA	16623
@@ -3838,6 +3911,8 @@ Tanzania and Uganda. Transactions	12286
 Tanzania's Digital Transformation	14674
 Tatenda Alice Ngowe Transfer Secretaries	4896
 Tatweer and Trans-Sahara	434
+Taux de Transition	18171
+Taux de Transition UNESCO Organisation des Nations Unies	18171
 Tax Transformation Office	12162
 Taxes and Transfers	14736
 Team Europe for Digital Transformation	12843
@@ -3871,7 +3946,7 @@ Time-of-Use TSO Transmission System Operator USD	12233
 Times Higher Education TNE Transnational	14747
 Title Transfer	12333
 Tobacco Transportation Health Care Materials Industrials	4972
-Togo CTC Competition Transition Charge DisCos	12062
+Togo CTC Competition Transition Charge DisCos	12062,6124,31
 Togo Minister of Digital Economy and Transformation Cina	4030
 Togo Transmission Power Utility	15515
 Togo's Minister of Digital Transition and Digitalization	2374
@@ -3886,7 +3961,7 @@ Trade and Transit Cooperation Agreement	17105
 Training and Knowledge Transfer	12400
 Training and Skills Transfer	17639
 Trans	12459,866
-Trans Amadi 1	12062
+Trans Amadi 1	12062,6124,31
 Trans Europe Asia System	1741
 Trans Int Soc Music Inf Retr	17773
 Trans Kalahari Fibre	1013
@@ -3914,7 +3989,7 @@ Trans-Saharan	334
 Trans-Saharan Corridor Project	4548
 Trans-Saharan Fiber Backbone	15937
 Trans-Saharan Fiber Optic Backbone	2533
-Trans-Saharan Highway	3813
+Trans-Saharan Highway	3813,14305
 Trans-Saharan Optic Fibre Broadband Project	14913
 Trans-Saharan and Tatweer	434
 Trans-border	1351,11578
@@ -3986,7 +4061,7 @@ Transactional	7845,4143,377,9,21,2570,32,133
 Transactional Advisor	12597
 Transactional Service	3862
 Transactionnel	15936
-Transactions	28,545,173,263,133,101,586,432,1138,205,53,335,273,194,397,40,444,1043,18,797,23,1,1190,194,64,170,99,654,116,273,437,33,259,82,36,250,876,297,107,5,126,346,217,94,143,21,840,38,485,43,2,17,261,105,371,1,19,91,1,15,1041,111,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,65,46,71,166,84,36,594,52,91,6,37,48
+Transactions	28,545,173,263,133,101,586,432,1138,205,53,335,273,194,397,40,444,1043,18,797,23,1,1190,194,64,170,99,654,116,273,437,33,259,82,36,250,876,297,107,5,126,346,217,94,143,21,840,38,485,43,2,17,261,105,371,1,19,91,1,15,1041,111,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,65,46,71,166,84,36,594,52,91,6,37,48,230,135
 Transactions Act	439,6482,6482,58
 Transactions Cleared	3977,1284,2,1457,816,503,108,1928,1056,768,533,252
 Transactions Data	16876
@@ -4026,6 +4101,7 @@ Transco	14322
 Transco Agencies	13042
 Transco CLSG	16978
 Transcodage	1187
+Transcorp Event Center	18162
 Transcorp Hilton	11954
 Transcorp Hilton Hotel	4102
 Transcript	560,6425,80,2955
@@ -4048,7 +4124,7 @@ Transf. Comité Nac. de Control de Precios Combustibles	4209
 Transf. Comité Nac. de Seguridad	4209
 Transf. Comité Nacional de Control de Precios Combustibles	4209
 Transf. Parque de Bomberos	4209
-Transfer	3,223,192,344,210,502,393,860,458,529,1018,164,217,132,46,1141,506,213,25,2780,807,222,146,3,48,15,21,6,31,55,207,363,63,33,10,2,178,103,25,8,33,29,3,22,79,67,116,120,63,56,22,11,6,142,248,2,31,24,22,63,105,115,741,12,1,47,83,152,10,1,18,78,38,1,4,41,11,219,67,268,19,108,59,560,620,4,5,5,5,44,45,19,12,149,82,697
+Transfer	3,223,192,344,210,502,393,860,458,529,1018,164,217,132,46,1141,506,213,25,2780,807,222,146,3,48,15,21,6,31,55,207,363,63,33,10,2,178,103,25,8,33,29,3,22,79,67,116,120,63,56,22,11,6,142,248,2,31,24,22,63,105,115,741,12,1,47,83,152,10,1,18,78,38,1,4,41,11,219,67,268,19,108,59,560,620,4,5,5,5,44,45,19,12,149,82,697,203
 Transfer Agency	12182
 Transfer Agreements	12302
 Transfer Agreements Transfer	12302
@@ -4097,6 +4173,7 @@ Transfer of Personal Data	14434,1050
 Transfer of Personal Data Order	12232
 Transfer of Personnel and Property	13951
 Transfer of Records	12672
+Transfer of Regulatory Oversight	18186,31
 Transfer of Requests	16840
 Transfer of Responsibility for Refugee Affairs	12227
 Transfer of Spectrum Licences	1750
@@ -4121,7 +4198,7 @@ Transferred	8605,4024,4273
 Transferring	8291,2011,2000,734,340,1460
 Transferring Entity	12302
 Transferring and Receiving Parties	12302
-Transfers	22,1292,11,542,148,23,1591,232,155,139,160,932,227,59,1405,2,7,1460,2573,5,145,6,819,31,7,173,19,41,44,32,62,126,59,421,2,81,328,627,426,1,111,167,23,160,49,655,58,355,959,6,65,168,25,670
+Transfers	22,1292,11,542,148,23,1591,232,155,139,160,932,227,59,1405,2,7,1460,2573,5,145,6,819,31,7,173,19,41,44,32,62,126,59,421,2,81,328,627,426,1,111,167,23,160,49,655,58,355,959,6,65,168,25,670,395
 Transfers Access	17043
 Transfers Direct	17909,81
 Transfers Given	15658
@@ -4133,7 +4210,7 @@ Transfers and Subsidies	11230
 Transfers of Control of Service Providers	16835
 Transfers of Personal Data	12549,1885
 Transfers of Sh101-500	8714
-Transfert	12,986,233,821,1,576,767,3,138,229,55,45,782,1,84,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,3429,110,26,28,1,99,1068,31,1216,16,18,17,49,1022,68,382,57,450,86,579,240,133,39,10,159,870,334,14
+Transfert	12,986,233,821,1,576,767,3,138,229,55,45,782,1,84,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,3429,110,26,28,1,99,1068,31,1216,16,18,17,49,1022,68,382,57,450,86,579,240,133,39,10,159,870,334,14,440,59,5,84
 Transfert Paiement Produit	11944
 Transfert SWIFT	17833
 Transfert TERSOR	17833
@@ -4141,7 +4218,7 @@ Transfert Technologique	2696,279
 Transfert de Technologies	15500
 Transfert du NIF	17872
 Transfertis	15999
-Transferts	737,2229,430,440,175,448,3196,5759,358,32,1622,573,13,35,1786,139,60,31
+Transferts	737,2229,430,440,175,448,3196,5759,358,32,1622,573,13,35,1786,139,60,31,249
 Transferts Monetaires	10963,1
 Transferts Monetaires Ordinaires	10963,1,21
 Transferts Monétaire	11913
@@ -4166,7 +4243,7 @@ Transferências de Dinheiro	11406
 Transfira	17100
 Transfo	10975
 Transfo Plus	16714
-Transform	766,133,1194,191,13,97,3,65,10,86,28,4,209,10,16,25,134,79,190,7,70,41,80,30,76,30,47,9,16,38,19,16,322,19,14,39,308,177,10,7,509,12,53,42,76,64,5,22,3,94,10,19,294,222,54,54,23,322,60,26,6,125,80,6,91,102,189,9,1,69,2,1,107,3,43,2647,783,380,1123,1128,954,293,1306,832,244,23
+Transform	766,133,1194,191,13,97,3,65,10,86,28,4,209,10,16,25,134,79,190,7,70,41,80,30,76,30,47,9,16,38,19,16,322,19,14,39,308,177,10,7,509,12,53,42,76,64,5,22,3,94,10,19,294,222,54,54,23,322,60,26,6,125,80,6,91,102,189,9,1,69,2,1,107,3,43,2647,783,380,1123,1128,954,293,1306,832,244,23,999,171
 Transform Access	4352
 Transform Africa	961,3025
 Transform Africa Development Agency	13440
@@ -4187,6 +4264,7 @@ Transform ICT Ministry Operations	11828
 Transform Industrial Sites Hicham Zouaoui Revolutionizes	7324
 Transform Investment Landscape The Ministry of Investment	3907
 Transform Key Sectors	4528,7984
+Transform Land Administration Nationwide	18130
 Transform Lives	15192,558
 Transform Lives Country	13628
 Transform Marketing	7055
@@ -4209,6 +4287,7 @@ Transform Zimbabwe	395,12925
 Transform the Data Protection Commission	4126
 Transform the International Investment Regime	11310
 Transform the NSS	17116
+Transform''. L'objectif	18138
 Transforma	15966
 Transformacao	570
 Transformación	4209,12666
@@ -4220,7 +4299,7 @@ Transformar Malabo	1701
 Transformateur	10975,4695
 Transformateurs	15670,377
 Transformatio	3396
-Transformation	395,248,46,33,101,77,272,15,108,126,1,109,1,212,70,246,14,22,246,11,38,9,40,1,1,305,170,21,182,196,80,24,210,191,125,91,40,296,325,35,162,385,137,78,11,4,6,235,28,145,407,10,54,119,313,13,137,101,46,58,97,3,14,771,3,199,34,18,32,39,170,42,2,51,63,27,34,97,13,56,799,167,138,144,31,11,165,69,208,32,269,151,3,5,12,42,22,70,356,85,12,125,34,19,70,15,42,132,572,333,43,172,46,49,28,131,75,169,344,14,116,335,16,4,170,100,5,57,6,5,69,125,315,26,12,2,4,24,123,8,6,41,2,24,1,101,88,73,28,37,85,10,125,112,20,93,102,5,15,81,20,254,15,26,208,203,10,126,52,19,118,28,59,7,14,4,2,16,2,3,22,7,8,6,2,1,5,1,19,4,14,8,6,1,1,14,6,34,4
+Transformation	395,248,46,33,101,77,272,15,108,126,1,109,1,212,70,246,14,22,246,11,38,9,40,1,1,305,170,21,182,196,80,24,210,191,125,91,40,296,325,35,162,385,137,78,11,4,6,235,28,145,407,10,54,119,313,13,137,101,46,58,97,3,14,771,3,199,34,18,32,39,170,42,2,51,63,27,34,97,13,56,799,167,138,144,31,11,165,69,208,32,269,151,3,5,12,42,22,70,356,85,12,125,34,19,70,15,42,132,572,333,43,172,46,49,28,131,75,169,344,14,116,335,16,4,170,100,5,57,6,5,69,125,315,26,12,2,4,24,123,8,6,41,2,24,1,101,88,73,28,37,85,10,125,112,20,93,102,5,15,81,20,254,15,26,208,203,10,126,52,19,118,28,59,7,14,4,2,16,2,3,22,7,8,6,2,1,5,1,19,4,14,8,6,1,1,14,6,34,4,47,161,7,5,6,20,2,5,8,7,17,44,2,1,9
 Transformation A Deputy Chief of Staff	8371
 Transformation Accelerating	13347
 Transformation AfCFTA African Continental Free Trade	11994
@@ -4235,7 +4314,7 @@ Transformation Development	11916
 Transformation Digital Fév	13783
 Transformation Digital Terminé Type	13783
 Transformation Digital URL	13783
-Transformation Digitale	1461,2207,1403,1295,1587,224,42,1283,522,684,9,197,3522,64,34,39,1051,77,19,753
+Transformation Digitale	1461,2207,1403,1295,1587,224,42,1283,522,684,9,197,3522,64,34,39,1051,77,19,753,1763
 Transformation Digitale Cina Lawson. ARCEP	1205
 Transformation Digitale DQA	15720
 Transformation Digitale Formation	13702
@@ -4256,7 +4335,7 @@ Transformation Locale	16381
 Transformation Minister Cina Lawson	4279
 Transformation NST2	15034
 Transformation Numerique	1277,13412
-Transformation Numérique	1218,29,17,438,23,1432,598,120,2108,1685,3324,4648,210,73,1937,19,2,6,3,2,3,1,6,1,2,9,10,24,15,21,8,38,1,6,50
+Transformation Numérique	1218,29,17,438,23,1432,598,120,2108,1685,3324,4648,210,73,1937,19,2,6,3,2,3,1,6,1,2,9,10,24,15,21,8,38,1,6,50,232
 Transformation Numérique Ministère	17844
 Transformation Numérique Sectorielle	17892
 Transformation Numérique URL	15585
@@ -4277,7 +4356,7 @@ Transformation Strategy EAC East African Community	13312,2
 Transformation Strategy GoM Government of Malawi GWAN	12241,839,15
 Transformation Strategy and Roadmap	12214
 Transformation Structurelle	10975,5646
-Transformation Sénégal	8269,1621
+Transformation Sénégal	8269,1621,8449,73,7
 Transformation Through Geospatial Data	6903
 Transformation Through SLLC	13998
 Transformation White Paper	11310
@@ -4291,7 +4370,7 @@ Transformation des Productions Agricoles	10964
 Transformation des Produits Agricoles	10965
 Transformation du Cacao	4895
 Transformation du Comité de Pilotage	9406
-Transformation du Secteur	15673
+Transformation du Secteur	15673,2623
 Transformation du Service Public	15712,224
 Transformation du Service Public Page	15936
 Transformation du Système	15673
@@ -4304,10 +4383,12 @@ Transformation of Central Medical Stores	12606
 Transformation of Human Thought	11715
 Transformation of Public Service	6403
 Transformation of Sectors Digital Economy Digital Digital	16942
+Transformation of Value Chains	18359
 Transformation-compress	16195
 Transformation. Democratic	12985
+Transformation. Le CNN	18334
 TransformationNumerique	14625
-TransformationNumérique	9474,4694
+TransformationNumérique	9474,4694,4208,23
 Transformational	4432,3589,4193,27,118,2315,610
 Transformational Coach	12951
 Transformational Governance Pillar. Unlike	14935
@@ -4351,7 +4432,7 @@ Transforme Jeudi	5835
 Transforme-RDC	5835
 Transformed	11230,7,2701,994,580,1627
 Transformed Government	12359,558
-Transformer	747,616,1079,898,3080,1647,635,2242,1092,3688,52,865,52,755,408,4,25,191
+Transformer	747,616,1079,898,3080,1647,635,2242,1092,3688,52,865,52,755,408,4,25,191,173,42
 Transformer BeninIX	15592
 Transformer Capacity The CEB	14745
 Transformer Installation Transformer	16978
@@ -4360,7 +4441,7 @@ Transformer-LSTM Improve Maize-Yield Estimation	13162
 Transformers	6955,2168,1718,2544,2274,1319
 Transformers Transformers	9123
 Transformers. Reactors	16900
-Transforming	2093,4158,145,55,1118,1658,319,1647,554,428,36,67,736,674,776,458,682,1281,36
+Transforming	2093,4158,145,55,1118,1658,319,1647,554,428,36,67,736,674,776,458,682,1281,36,1237
 Transforming Africa Through Education	17056
 Transforming Africa Through Responsible AI	14555
 Transforming African Agricultural Universities	7414
@@ -4420,7 +4501,7 @@ Transfrontalière du Pool Energétique	15799
 Transfusion	13385,1642,658,26,1189
 Transfusion Center	16922
 Transfusion Sanguine ANV-SSP	15475
-Transférer	10965,4533,350,60,2106
+Transférer	10965,4533,350,60,2106,190
 Transgabonais	15511
 Transgender	11986
 Transgressões	11520
@@ -4484,6 +4565,7 @@ Transition Phase	16600
 Transition Rates	12411,988
 Transition Raymond NDONG SIMA Le Ministre	15701,2,24
 Transition Raymond NDONG SIMA Le Vice-Premier	15678,3
+Transition SD	18227
 Transition Strategy Plan Tier	10721
 Transition Support Facility	332,460,1114,2934,511,4871,3716,142,5,926,2987,68
 Transition Support Facility Pillar III	10222,350,72
@@ -4500,6 +4582,7 @@ Transition de Transition de Transition	6959
 Transition of EBIS and Eswatini TV	12971
 Transition. Article	15703,2158
 Transition. Comparaison Mali-Mètre	6959
+Transition. En	18134
 Transition. I.4. AU TITRE DU MINISTERE	15676
 Transition. I.8. AU TITRE DU MINISTERE	15942
 Transition. TITRE XI	15703
@@ -4626,14 +4709,14 @@ Transmissibilité	10876
 Transmissibilité des CEC	10876
 Transmissible MDA Ministères	15746
 Transmissibles	17827
-Transmission	1,971,1754,282,373,333,1192,834,172,1558,1338,1505,138,370,55,99,978,90,19,89,82,23,102,409,533,41,44,29,8,52,34,116,44,51,29,674,2,30,29,54,208,117,17,39,1,28,393,23,109,65,106,16,43,25,20,138,19,32,259,133,523,21,94,294,324,235,22,23,212,17
+Transmission	1,971,1754,282,373,333,1192,834,172,1558,1338,1505,138,370,55,99,978,90,19,89,82,23,102,409,533,41,44,29,8,52,34,116,44,51,29,674,2,30,29,54,208,117,17,39,1,28,393,23,109,65,106,16,43,25,20,138,19,32,259,133,523,21,94,294,324,235,22,23,212,17,93,31,74,19
 Transmission Access	15255
 Transmission Assessment Survey	14622
 Transmission Backbone Project	1539
 Transmission Backbone Project. Budget	1539
 Transmission Company Limited	12256
 Transmission Company Limited VTTI Vitol Tank	12256
-Transmission Company of Nigeria	12937
+Transmission Company of Nigeria	12937,5249
 Transmission Connection Agreements ToT Training of Trainers	12399
 Transmission Control Protocol	1036,15799,4
 Transmission Control Protocol Internet Protocol	11179
@@ -4651,7 +4734,7 @@ Transmission Interconnectors	12399
 Transmission Licence D25	17250
 Transmission Licence D5	17250
 Transmission Licensee	14867
-Transmission Line	12358
+Transmission Line	12358,6020
 Transmission Line Projects	12358
 Transmission Lines Project	3760,9683
 Transmission Lines Project Cabinet	3760,9683
@@ -4743,11 +4826,11 @@ Transpare APEBFCI	15712
 Transpare Banque	15712
 Transparen	15712
 Transparen GIZ	15712
-Transparence	2960,1209,185,3003,806,361,956,1228,3,163,101,17,22,1089,1238,395,75,30,490,107,91,8,941,234,8,18,3,5,102,382,97,1,163,39,111,807,380,32,19,104,49
+Transparence	2960,1209,185,3003,806,361,956,1228,3,163,101,17,22,1089,1238,395,75,30,490,107,91,8,941,234,8,18,3,5,102,382,97,1,163,39,111,807,380,32,19,104,49,274,4
 Transparence des Industries Extractives LNOB Leave	17907
 Transparence. Catégorie	14425
 Transparencia	8378,7100,1420,67
-Transparency	961,9,273,90,141,1194,290,544,1,101,257,13,654,333,24,228,131,35,254,41,44,82,165,349,36,55,127,10,21,285,44,1,143,176,110,249,77,215,158,86,313,116,250,269,444,1,212,10,535,113,489,60,16,2,1,74,55,1,5,27,6,44,81,2,2,5,16,60,19,18,57,547,10,3,16,1,1,1,51,16,4,26,104,56,7,1,9,22,16,9,1,128,2,11,1,3,33,55,9,4,31,24,25,15,22,101,228,4,62,18,55,225,41,12,5,20,73,141,65,25,5,322,32,50,170,206,7,124,1,35,25,97,5,2,47,57,10,35,53,2,63,34,3,111,57,456,1,2,97,418,36,436,71,131,74,15,29,4,3,3,39,20,62,15,2,22,1,1,110,10,181,178,155,96,23,16,81
+Transparency	961,9,273,90,141,1194,290,544,1,101,257,13,654,333,24,228,131,35,254,41,44,82,165,349,36,55,127,10,21,285,44,1,143,176,110,249,77,215,158,86,313,116,250,269,444,1,212,10,535,113,489,60,16,2,1,74,55,1,5,27,6,44,81,2,2,5,16,60,19,18,57,547,10,3,16,1,1,1,51,16,4,26,104,56,7,1,9,22,16,9,1,128,2,11,1,3,33,55,9,4,31,24,25,15,22,101,228,4,62,18,55,225,41,12,5,20,73,141,65,25,5,322,32,50,170,206,7,124,1,35,25,97,5,2,47,57,10,35,53,2,63,34,3,111,57,456,1,2,97,418,36,436,71,131,74,15,29,4,3,3,39,20,62,15,2,22,1,1,110,10,181,178,155,96,23,16,81,119,152,57
 Transparency Accuracy Partnership Table	12902
 Transparency Across	6250
 Transparency Across the AI Lifecycle Transparency	14565
@@ -4841,7 +4924,7 @@ Transparência da Informação	10755
 Transparência de Informação	12021
 Transplant	8143
 Transpor	17829
-Transport	34,202,182,300,18,1,233,858,39,73,48,5,338,3,8,86,347,621,62,127,276,346,525,285,228,26,39,602,175,298,37,261,263,221,371,10,297,910,136,63,58,55,904,301,491,49,44,19,1,24,75,40,77,39,3,15,99,10,11,11,16,228,72,359,246,32,20,3,5,40,32,40,3,27,1,27,14,8,193,272,4,20,20,9,1,5,28,37,11,15,25,30,172,5,29,12,44,5,28,15,67,110,45,55,17,17,679,56,115,180,7,49,43,92,219,227,13,69,49,41,21,66,129,106,31,63,38,10,188,14,363,11,54,37,119,10,42,15,15,8,12,57,4,47,36,26,34,10,92,19,145,42,1,14,19,4,17,310,12,19,41,10,5,46,69
+Transport	34,202,182,300,18,1,233,858,39,73,48,5,338,3,8,86,347,621,62,127,276,346,525,285,228,26,39,602,175,298,37,261,263,221,371,10,297,910,136,63,58,55,904,301,491,49,44,19,1,24,75,40,77,39,3,15,99,10,11,11,16,228,72,359,246,32,20,3,5,40,32,40,3,27,1,27,14,8,193,272,4,20,20,9,1,5,28,37,11,15,25,30,172,5,29,12,44,5,28,15,67,110,45,55,17,17,679,56,115,180,7,49,43,92,219,227,13,69,49,41,21,66,129,106,31,63,38,10,188,14,363,11,54,37,119,10,42,15,15,8,12,57,4,47,36,26,34,10,92,19,145,42,1,14,19,4,17,310,12,19,41,10,5,46,69,89,6,198,9,1,2,3,9,18
 Transport Activités	13341
 Transport Appeal Tribu-	11551
 Transport Appeal Tribunal	11551
@@ -4896,6 +4979,7 @@ Transport Minister Fatima Goukouni Weddeye	3565
 Transport Ministry	10852
 Transport Ministry of Communications	12701
 Transport Ministry of Housing	11131
+Transport Mobilité	18425
 Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Transport Network Access	10759,78,1315,188
 Transport Network Upgrades Project	2884
@@ -4911,6 +4995,8 @@ Transport Regulator	11551
 Transport Regulatory Authority	14524
 Transport Related Businesses	16949
 Transport Road	1988
+Transport Régional	18322
+Transport Résumé	18306
 Transport Section	14738
 Transport Sector	718,13758
 Transport Sector Backward Looking Joint Sector	14935
@@ -4994,7 +5080,7 @@ Transportes Transporte	6970,8534
 Transportes da China	17337
 Transporteurs	14423
 Transporting	15492
-Transports	1682,660,1054,284,722,4,837,476,581,165,720,793,259,1261,109,321,783,164,25,26,808,255,1352,64,420,339,268,48,920,26,46,70,41,353,111,65,6,36,77,18,100,42,23,57,11,139,36,339,547,41,5,223,3,2,3,21,1,19,12,26,6,14,32,44,8,29,31
+Transports	1682,660,1054,284,722,4,837,476,581,165,720,793,259,1261,109,321,783,164,25,26,808,255,1352,64,420,339,268,48,920,26,46,70,41,353,111,65,6,36,77,18,100,42,23,57,11,139,36,339,547,41,5,223,3,2,3,21,1,19,12,26,6,14,32,44,8,29,31,254
 Transports Affaires Maritimes	4895
 Transports Autres	13390
 Transports CPS-SDR CPS-CJ	17842
@@ -5013,11 +5099,13 @@ Transports. Elle	2704
 Transports. Pour	11686
 Transports.L'objectif	8353
 Transposition	10088,5959
+Transsaharan Fiber Optic Dorsal	18118
+Transsaharienne	18118
 Transshipment	13868
 Transsion	8495,4768,1130,3163
 Transsion Holdings	2518
 Transumância	11387
-Transversal	961,5871,4033,1074,47,4566
+Transversal	961,5871,4033,1074,47,4566,1764
 Transversal IT Management	2905,2292
 Transversal IT Projects	5533,6453
 Transversal Information Technology Management	1618,3915,6453
@@ -5148,6 +5236,7 @@ WAEMU Automated Transfer and Settlement System	10853,7017
 WARDIP Digital Transformation for Africa	1264
 WB P180495 DRC Digital Transformation Project	2126
 WIDEBAND DATA TRANSMISSION SYSTEMS WIDEBAND DATA	12949
+WIOCC's Carrier-Grade IP Transit	18280
 WORK TRANSITION	11271
 WORK TRANSITION List of Figures Figure	11271
 WORKS AND TRANSPORT PORTFOLIO COMMITTEE	13131

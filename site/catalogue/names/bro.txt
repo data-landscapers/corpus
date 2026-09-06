@@ -70,7 +70,7 @@ Ambassador Lewis G. Brown II	16961
 Amended Broad-Based Black Economic Empowerment	11235
 Analysis of Somalia’s Mobile Broadband Price Benchmarking	15120
 Angola's National Broadband Network	1088
-Anne Brockmeyer	10335
+Anne Brockmeyer	10335,7983
 Anold Brouwer	13477
 Approval of Broadcasting Receiver Equipment	13951
 Arabia Yes High-speed Fiber-optic Broadband Initiative	11529
@@ -236,7 +236,7 @@ Broad-Based’ Government	7869
 Broad-based	11525,860,910,17,2,1583
 BroadBand Systems Corporation	15199
 Broadb and Commission	15471
-Broadband	129,66,523,295,271,5,144,180,257,546,360,92,34,282,1,419,10,248,663,643,26,806,56,27,588,207,50,286,239,754,916,354,282,92,930,63,12,94,45,171,65,74,224,34,48,246,149,208,84,35,62,32,109,385,44,6,2,322,17,2,17,1135,16,192,33,16,6,107,43,18,24,451,39,36,33,31,42,160,1148,11,11,1,2,54,35,164,100,597,34
+Broadband	129,66,523,295,271,5,144,180,257,546,360,92,34,282,1,419,10,248,663,643,26,806,56,27,588,207,50,286,239,754,916,354,282,92,930,63,12,94,45,171,65,74,224,34,48,246,149,208,84,35,62,32,109,385,44,6,2,322,17,2,17,1135,16,192,33,16,6,107,43,18,24,451,39,36,33,31,42,160,1148,11,11,1,2,54,35,164,100,597,34,253,236
 Broadband Access	6414
 Broadband Access But Don't Use	12214
 Broadband Access The Government	16861
@@ -249,7 +249,7 @@ Broadband Affordability Roadmap. Affordability	17239
 Broadband Annual	3184,7811
 Broadband Burundi Strategy Awareness Workshop	13313
 Broadband Cognizant	16883
-Broadband Commission	958,2838,3378,3670,7,411,69,232,832,526,1802,156,85,447,60,1412
+Broadband Commission	958,2838,3378,3670,7,411,69,232,832,526,1802,156,85,447,60,1412,1240
 Broadband Commission Target	15471
 Broadband Commission for Digital Development	14723,688
 Broadband Commission for Digital Development Conscious	14723
@@ -410,6 +410,7 @@ Broadcast Transmitters Broadcast Transmitters	6946
 Broadcast and Multimedia	3990,5791
 Broadcaster	12558,424
 Broadcasters	12436,1025,1418
+Broadcasters Ahead	18211
 Broadcasters Multimedia	236
 Broadcasting	11,225,482,1226,832,1282,1110,1778,1970,273,1218,804,24,27,1133,41,102,14,6,67,346,345,146,80,409,928,382,49,733,829,17,86,142,39,94,1
 Broadcasting AI	12356
@@ -528,6 +529,9 @@ Brochures Contrats Statistiques Budget Dette	15449
 Brock	4676
 Brocke	11156
 Brockhaus	15715
+Brockmeyer	18318
+Brockmeyer and Saenz Somarriba	18318
+Brockmeyer’s Future Leaders Fellowship	18318
 Brodibendi	6019
 Brodie	7789
 Brodkin	2096
@@ -561,7 +565,7 @@ Brong Ahafo	236,3555
 Brong Ahafo Region Private Mail Bag	2776
 Brong-Ahafo	15430
 Bronwyn H. Hall	14723
-Bronze	9684,6415
+Bronze	9684,6415,2250
 Bronze Award	14738,4
 Brook C	10780
 Brook Taye	9407
@@ -591,6 +595,7 @@ Brother	1638,9178
 Brother Andre Hospital LTD Data Controller	7167
 Brother Andre Hospital LTD Data Processor	7167
 Brothers	1638
+Brothers Ltd	18154
 Brottem	16359
 Brouattakro. Trois	3338
 Brought	7343
@@ -671,6 +676,9 @@ Cites Brookings' Pierre Nguimkeu. Informal	6385
 Citizens. Broadband	6539
 Claude Kassi BROU	15834,3
 Climate Aligned Financial Governance Broader Trend	13532
+Climate- Resilient Broadband	18359
+Climate-Resilient Broadband	18359
+Climate-Resilient Broadband Revised Baseline Actual	18359
 Clinton Brown	10602
 Common-Carrier Broad-	6946
 Communication Mauritius Yes National Broadband Policy	11529
@@ -999,6 +1007,7 @@ Karambiri and Brockhaus	15715
 Karina Broens Nielsen	10977
 Kenya Broadcasting Corporation	4583,1733,3332
 Kenya's Broadband Sector Kenya	6830
+Kirloskar Bros	18378
 LDCs Broadband Commission	16883
 LEVERAGE DIGITALISATION TO BROADEN ACCESS	14935
 LICENSING OF BROADCASTING SERVICES	16839
@@ -1103,11 +1112,12 @@ Mobile- Broadband	718
 Modernize The Gambia's Broadband Network	4543
 Molly Brown	10146
 Monitoring and Evaluation of Broadband Plan	16884
-Monsieur Jean-Claude Kassi Brou	8316
+Monsieur Jean-Claude Kassi Brou	8316,10061,12
 Monthly Broadband Internet	14836
 Monthly Brochures	958
 Mr. Nasi Broh Analyst	17043
 Mrs. D. Sheba Brown	17235
+N. Brooks	18318
 NA Broadband	12344,5533
 NATIONAL BROADBAND PLAN	11857
 NATIONAL BROADBAND PLAN Ms Funke Opeke	11857
@@ -1256,7 +1266,7 @@ Private Network Nigerian National Broadband Plan	11857
 Programming and Broadcasting Activities	236
 Projection of Broadband Penetration Year	3862
 Protocols Broadcast	17157
-Président Monsieur Jean-Claude Kassi BROU	15834
+Président Monsieur Jean-Claude Kassi BROU	15834,2543,12
 Public Broadcaster	718
 Public Broadcasting Scorecard	8481
 Public Broadcasting Services	14879
@@ -1280,6 +1290,7 @@ REVIEW AND MONITORING FOR BROADBAND UPTAKE	16884
 ROLE OF THE INDEPENDENT BROADCASTING	16872
 Radio A2. Television Broadcasting Services Licence	17250
 Radio Broadcasting Total Number of Public Broadcasting	12395
+Radio Broadcasting and Television of Niger	18220
 Radio Mondiale DSB Digital Sound Broadcasting	6946
 Redefining Broadband Affordability	16872
 Redefining Broadcasting	12714
@@ -1439,7 +1450,7 @@ Ultra Broadband Convergence Network Kuwait	11529
 Ultra Fast Broadband	11529
 Under the National Broadband Plan	3725
 Unique Mobile Broadband Penetration for Mali and Selected	17870
-United Nations Broadband Commission	1264,9580,7026
+United Nations Broadband Commission	1264,9580,7026,253
 United Nations Broadband Commission for Sustainable	10851
 Universal Access Strategy Broadband	14879
 Universal Broadcasting Access	12911

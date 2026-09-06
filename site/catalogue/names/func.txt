@@ -31,7 +31,7 @@ Broad Intended Use and Functionality	3651
 Brochura Manual de Utilizador Funcionalidades Inscrição	11893
 Business Function Requirements	13185
 Business Roles and Business Functions	14441
-C Functioning of Government C1	17967
+C Functioning of Government C1	17967,217
 C Functions of Refugee Appeals Authority	11177
 C Functions of Standing Committee	11177
 CAPITÚLO III Funcionamento	5169
@@ -116,6 +116,8 @@ FUNCION PUBLICA	4209
 FUNCIONAIS E POR GÉNERO	11531
 FUNCIONAMENTO	13
 FUNCIONAMENTO E GESTÃO DA ADMINISTRAÇÃO PÚBLICA	11397
+FUNCTION FIRST TERM	18099
+FUNCTION Objectif	18099
 FUNCTIONAL	13037
 FUNCTIONAL AND COORDINATION STRUCTURE	14935
 FUNCTIONAL DIGITAL IDENTITY FOR PEOPLE	11940
@@ -370,6 +372,7 @@ Mandate and Functions	12759
 Mandatory Functional	11209
 Mandatory Functional Requirements	11209
 Minimal Functions and Services	16876
+Ministry of Function	18305
 Ministry of Science and Technology Role and Function	12356
 MoH Functional Review	12240
 MoH Functional Review Report. Ministry of Health	12240
@@ -402,7 +405,7 @@ ORGANISATION AND FUNCTIONING AS MODIFIED	14862
 ORGANISATION AND FUNCTIONING OF RDB CHAPITRE	14862
 ORGANISATION AND FUNCTIONING OF RSB Article	14863
 Objectives and Functions	12962
-Open Function	13145
+Open Function	13145,5133
 Optimized Beneficial Ownership Declaration Functionality	11219
 Organisation and Functioning	15081
 Organization and Functioning	11868
@@ -427,7 +430,9 @@ Príncipe Funchal	6837
 Public Function	16840
 Publicity and Resource Mobilisation Committee Functions	1154
 Q1 Regulatory Functions The EA	12062
-REGULATORY FUNCTIONS	12062
+Q3 Regulatory Functions The EA	18186
+Q4 Regulatory Functions The EA	18217
+REGULATORY FUNCTIONS	12062,6124,31
 REPÚBLICA DE CABO VERDE II. Funcionalidades	12021
 RLRC. Functions	12338
 ROLE AND FUNCTIONS	14773
@@ -443,6 +448,9 @@ Roles and Functions	14745,1,15,69,5
 Roles and Functions The Ministry of Local Government	14746
 Rwanda Forensic Laboratory. Functions	12338
 SECÇÃO II FUNCIONAMENTO	10754
+SPECIFIQUES FUNCTION NOMINAL SYST OBJECTIFS SPECIFIQUES	18099
+SPECIFIQUES FUNCTION NOMINAL SYSTEM OBJECTIFS SPECIFIQUES	18099
+SPECIFIQUES NOMINAL SYSTEM OBJECTIFS SPECIFIQUES FUNCTION	18099
 Schedule of Requirements B. FUNCTIONAL	13185
 Search Functionality	12389,572
 Section SOA.14. Powers and Functions	16833

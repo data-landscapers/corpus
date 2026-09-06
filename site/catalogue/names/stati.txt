@@ -20,10 +20,14 @@ ANALYSED AND PUBLISHED A--Demographic and Social Statistics	14594
 ANALYSIS OF STATISTICAL DATA	10980
 ANNUAIRE DES STATISTIQUES SANITAIRES ANNEE	15475
 ANNUAIRE STATISTIQUE	13478
+ANNUAIRE STATISTIQUE DE L'ENSEIGNEMENT SUPERIEUR	18170
 ANNUAIRE STATISTIQUE DE LA RÉGION	16563
 ANNUAIRE STATISTIQUE DE L’EDUCATION	13478
+ANNUAIRE STATISTIQUE DE L’ENSEIGNEMENT SUPÉRIEUR	18143
 ANNUAIRE STATISTIQUE DU BURUNDI	13377
 ANNUAIRE STATISTIQUE DU MINISTERE DU COMMERCE	13500
+ANSD National Institute of Statistics and Demography	18293
+ATS ADJOINT TECHNIQUE DE LA STATISTIQUE	18170
 AU and UNESCO Institute of Statistics	13310
 AUDIT SERVICES REGISTRATIONS DEBT COUNSELLING STATISTICS	11198
 AWS Ground Station	10794
@@ -50,9 +54,12 @@ Acting Statistician General	13455,77
 Acting Statistician-General	11256
 Acting Statistician-General Mrs. Sheila S. Mudenda	13455
 Acting Statistician-General PART V FINANCIAL PROVISIONS	12899
-Activité Statistique	13923,14
-Activités Statistiques	17978
+Activité Statistique	13923,14,4232
+Activités Statistiques	17978,117,74
 Activités Statistiques PAAS	17842
+Activités Statistiques. Depuis	18169
+Activités Statistiques. Le Conseil National	18095
+Activités Statistiques. Le Programme Pluriannuel Indicatif	18095
 Addis Ababa Plan of Action for Statistical Development	13359
 Administration of National Statistical System	13305
 Administrative Sata for Labor Migration Statistics	11283
@@ -111,15 +118,16 @@ All Nigerian Police Stations	12045
 Amateur Station	12395
 Amend the Statistics Act	14777
 American Statistical Association	12006
-Amélioration des Statistiques	7675,3199,1,4944,142,376,36,44,4,257,1300,99
+Amélioration des Statistiques	7675,3199,1,4944,142,376,36,44,4,257,1300,99,47,19,28
 Amélioration du Système Statistique National	17945
 Anaemia1451 Kenya Vital Statistics Report	12151
 Analysis Statistical	16329
 Angola Strengthening Statistical Capacity World Bank	974
 Angola’s National Institute of Statistics	10763
 Annuaire CPS-SEEUDE Statistique du SDR INSTAT	17842
-Annuaire Statistique	10812,4681,168,2284
+Annuaire Statistique	10812,4681,168,2284,198,9,18
 Annuaire Statistique Burundi Edition 2023.pdf	13377
+Annuaire Statistique DE L'ÉDUCATION NATIONALE	18171
 Annuaire Statistique Sant	15475
 Annuaire Statistique de Mopti Act.3.1.2.37	17842
 Annuaire Statistique du Burundi	13377
@@ -164,6 +172,7 @@ Assistant Minister for Vital Statistics	16860,210,325
 Associates Out Stations Out Stations	736
 Association des Statisticiens	16616
 Assurance Qualité Statistique	16373
+Assurance Qualité des Statistiques Publiques	18169
 Authorised FM Stations	2776
 Authorised Stations	236
 Authorised TV Stations	2776
@@ -180,7 +189,8 @@ Automatic Agro-Meteorological Stations	12728
 Automatic Climate Stations	12728
 Automatic Synoptic Weather Stations	12728
 Automatic Weather Observing Station	16947
-Automatic Weather Stations	11553,1175,2010,80,2129
+Automatic Weather Stations	11553,1175,2010,80,2129,1362
+Automatic Weather Stations BNSP	18309
 Automatic Weather Stations. Key Objectives	12728
 Autorité Statistique Nationale	2625,10709
 Autorité Statistique Nationale. Article	13334
@@ -193,6 +203,7 @@ B. DIAGNOSTIC DU SYSTÈME STATISTIQUE NATIONAL	17842
 B. Resource Availability and Utilisation C. Statistical	13310
 BATIMENT DE LA STATION DE CABLE	17846
 BERE Directeur des Statistiques	10875
+BESOINS DES DIRECTIONS SECTORIELLES DE STATISTIQUE	18169
 BHEEKHARRY Ravindranath Station Fire Officer	14770
 BIRTH STATISTICS	15056
 BIRTH STATISTICS Key	15056
@@ -200,6 +211,7 @@ BPS Statistics Indonesia BRI Bank Rakyat	11994
 BSC Bureau of Statistics	16863
 BSC National Statistical	16863
 BSC Statistics	16863
+BUREAU STATISTIQUES SCOLAIRES	18302
 Background The Liberia Institute of Statistics and Geo-	17127
 Background The Namibia Statistics Agency	13031
 Background and Statistical Development Context	13359
@@ -221,6 +233,7 @@ Base Stations Latitude Longitude Configuration Power	736
 Base Transceiver Station CA	12759
 Base Transceiver Stations	6708,20
 Berea and Hlotse Police Stations	12763
+Besoins des Directions Sectorielles de Statistique	18169
 Big Bend Fire Station	12962
 Bindura EWPL Owned Vacant Base Station	4896
 Biratu Yigezu Director General Central Statistical	13965
@@ -254,6 +267,8 @@ Brochures Contrats Statistiques Budget Dette	15449
 Brusubi Police Station ID Card Centre	12085
 Building and Land Use Permits. Statistics	14738
 Bulletin Board ESS External Sector Statistics	14777
+Bulletin Statistique JusticeInfo	18111
+Bulletin Statistique JusticeInfo N	18111
 Bulletin Statistiques CCAA	15542
 Bulletin des Statistique	15480
 Bulletin of Vital Statistics	10775
@@ -261,7 +276,7 @@ Bundung Police Station ID Card Centre	12085
 Bureau of Education Planning and Statistics	13349
 Bureau of Labor Statistics. Regardless	3583
 Bureau of Quarterly Prepare the Facilities Statistics	16863
-Bureau of Statistics	9024,416,1646,1557,29,34,10,3,7,23,8,11,2121,8,1966,39,90
+Bureau of Statistics	9024,416,1646,1557,29,34,10,3,7,23,8,11,2121,8,1966,39,90,1252
 Bureau of Statistics Create the Unit	16863
 Bureau of Statistics Director	12749
 Bureau of Statistics ERI Kipevu Oil Storage	12256
@@ -328,11 +343,12 @@ COMPILATION OF VITAL STATISTICS	12413,2643
 CONFIDENTIALITÉ STATISTIQUE En	17830
 CONFIDENTIALITÉ STATISTIQUE L’appréciation du SIGE	17830
 CONOMIQUE ET STATISTIQUE D’AFRIQUE SUBSAHARIENNE BULLETIN	16250
-CONSEIL NATIONAL DE LA STATISTIQUE	16381,235,4,1222
+CONSEIL NATIONAL DE LA STATISTIQUE	16381,235,4,1222,327
 CONSEIL NATIONAL DE LA STATISTIQUE Deux	16620
 CONSEIL NATIONAL DE LA STATISTIQUE PREMIERE	16620
 CONSEIL NATIONAL DE LA STATISTIQUE STRATEGIE	16620
 COORDINATION ET STRUCTURE DU SYSTEME STATISTIQUE	14862
+CORS Continuous Operating Reference Stations COVID-19	18293
 COURT STATISTICS	12920
 CRIMINAL COURT STATISTICS	12920
 CRS Statistics	12151
@@ -398,6 +414,7 @@ Characteristic of Statistics	13310
 Characteristic of Statistics Score Quality Statistics	13310
 Charging Stations	14151
 Charte Africaine de Statistique	15580
+Chief Executive Officer National Bureau of Statistics	18185
 Chief Executive Officer of Statistics Botswana	12530
 Chief Government Statistician	11133,9
 Chief Government Statistician PMT Proxy	11133
@@ -413,7 +430,7 @@ Civil Registration And Vital Statistics	12413
 Civil Registration And Vital Statistics Technical	12337
 Civil Registration Management and Vital Statistics System	2274,5
 Civil Registration Vital Statistics and Identity DCR	12337
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics D4H Data	15056
@@ -437,6 +454,7 @@ Code de Bonnes Pratiques des Statistiques Européennes	17474
 Code of Practice for Official Statistics	13993,726
 Collège Station	15690
 Comité Technique de Programmation des Activités Statistiques	16373
+Comité Technique des Programmes Statistiques	18291
 Comité de Coordination des Etudes Statistique. Toutefois	17535
 Comité de Coordination des Etudes Statistiques	17535
 Comité des Statistiques des Finances Publiques	9425
@@ -467,6 +485,7 @@ Community Radion Stations Community Radio Presence	8999
 Compilation and Publication of Macroeconomic Statistics	10508
 Complaints Procedure. Court Statistics	13251
 Components of National Statistics System	12899
+Composition du Système Statistique National	18169
 Composition du Système Statistique National Le Système	16616
 Comprehensiveness While Statistics	13310
 Conditions Kenya Vital Statistics Report	12151
@@ -488,10 +507,11 @@ Consumption Statistics	3862
 Container Freight Station	9436
 Container Freight Stations	9436
 Content Service Provider Television Stations	16886
+Continuous Operating Reference Stations	18293
 Continuously Operating GNSS Reference Stations	12457
 Coordination Models Liberia’s National Statistical System	17116
 Coordination Statis	15479
-Coordination Statistique	10874,4605,187,950,1228
+Coordination Statistique	10874,4605,187,950,1228,325
 Coordination and Statistical Production Models	17116
 Coordination of Statistics Production	17116
 Coordonnateur National du Projet Statistique	17827
@@ -522,8 +542,11 @@ D--Governance Statistics	14594
 D. TERMINAL STATION TECHNICAL PARAMETERS	14825
 DE L'INFORMATION STATISTIQUE Article	13707
 DE L'INSTITUT CENTRAFRICAIN DE STATISTIQUES ET	15351
+DE L'INSTITUT NATIONAL DE LA STATISTIQUE	18095
 DE LA PROGRAMMATION DES ACTIVITES STATISTIQUES	15439
+DE LA STATISTIQUE	18169
 DE LA STATISTIQUE ARTICLE	15530
+DE LA STATISTIQUE EP2SE ECOLE PRIVEE	18170
 DE LA STATISTIQUE ET DES EMISSIONS	16381
 DE L’UTILISATION DES DONNÉES STATISTIQUES	17842
 DE PUBLICATION DES RAPPORTS STATISTIQUES Cette	17830
@@ -532,12 +555,14 @@ DEATH STATISTICS Key	15056
 DEATHS STATISTICS	15056
 DEMANDE DE DONNÉES ET OFFRE STATISTIQUE	17842
 DES AUTRES STRUCTURES STATISTIQUES PUBLIQUES SPECIALISEES	15351
+DES COMPETENCES EN PRATIQUES STATISTIQUES EN	18169
 DES DONNEES STATISTIQUES	15530
 DES FINS STATISTIQUES. Article	13707
 DES LANGUES NATIONALES ANNUAIRE STATISTIQUE	10847
 DES RECENSEMENTS ET DES ENQUETES STATISTIQUES	16616
 DES RECENSEMENTS ET ENQUETES STATISTIQUES Article	785
 DES SOURCES DE DONNEES STATISTIQUES ARTIC	15530
+DES STATISTIQUES AVEC L'APPUI	18111
 DES STATISTIQUES SCOLAIRES	13478
 DES STATISTIQUES SECTORIELLES Février	15639
 DEVELOPMENT OF STATISTICS	13343,622
@@ -550,6 +575,8 @@ DIAGNOSTIC DU SYSTÈME STATISTIQUE NATIONAL FIN	16620
 DIRECTION DES STATISTIQUES SECTORIELLES	15595
 DIRECTION GENERALE DE LA STATISTIQUE Publié	15666
 DIRECTION GENERALE DE LA STATISTIQUE URL	15666
+DIRECTIONS DES STATISTIQUES SECTORIELLES	18169
+DIRECTIONS DES STATISTIQUES SECTORIELLES Il	18169
 DISSEMINATION OF VITAL STATISTICS	12413,2643
 DIVORCE STATISTICS	15056
 DIVORCE STATISTICS Key	15056
@@ -562,9 +589,10 @@ DU CONSEIL NATIONAL DE LA STATISTIQUE	15351,1265,4
 DU MALI C. PROCESSUS STATISTIQUES L’évaluation	17830
 DU PRINCIPE DU SECRET STATISTIQUE Article	785
 DU SECRET STATISTIQUE Art.7	15351
-DU SECRET STATISTIQUE Article	13707,2909
+DU SECRET STATISTIQUE Article	13707,2909,1479
 DU SYSTEME NATIONAL DE LA STATISTIQUE	15351
-DU SYSTEME STATISTIQUE NATIONAL Article	785,12922,2909
+DU SYSTEME STATISTIQUE NATIONAL Article	785,12922,2909,1479
+DU SYSTEME STATISTIQUE NATIONAL Malgré	18291
 DU SYSTEME STATISTIQUE NATIONAT Article	15561
 DU SYSTEME STATISTIQUE S NATIONAL AU	17945
 DU VISA STATISTIQUE Article	785
@@ -609,7 +637,7 @@ Description National Bureau of Statistics	1275,1196,2103
 Description Statistical	15661
 Description The Multinational Statistical Capacity Building	43
 Description The Somalia National Statistical Capacity	119
-Descriptive Statistics	17007
+Descriptive Statistics	17007,1311
 Descriptive Statistics for Civil Registry Professionals	17007
 Develop Regional Communications Sector Statistics	8753
 Develop and Implement Statistical Policies	16863
@@ -625,7 +653,7 @@ Development Goals SPI Statistical Performance Indicator	4214
 Development Programme ZAMSTATs Zambia Statistics Agency	13347
 Development of National Statistics System	12899
 Development of Official Statistics	13082
-Development of Statistics	236,740,1384,7348,1493,36,776,400,138,20,27,108,62,314,261,16,238,368,892,3,86,88,6,16,1150,628,93,8,151,30,33
+Development of Statistics	236,740,1384,7348,1493,36,776,400,138,20,27,108,62,314,261,16,238,368,892,3,86,88,6,16,1150,628,93,8,151,30,33,1027,9
 Development of Statistics II	12551
 Development of Statistics III	15929
 Development of Statistics NSDS III	17116
@@ -646,13 +674,25 @@ Digital Skills Statistics	11879
 Digital Statistics and Development Administration	5871
 Digital Terrestrial Stations	12395
 Digital skills statistics	11879
+Digitalise Police Stations Nationwide Nigeria	18228
 Digitalization and Statistics Minister Meriem Benmouloud	7127
 Directeur des Statistiques Démographiques	9277
 Directeur des Statistiques Sectorielles du Ministère	17830
 Direction Générale des Statistiques	15500
-Direction des Statistiques	8891,1983,4605
+Direction des Statistiques	8891,1983,4605,2626,38,26,1,1
+Direction des Statistiques BP	18111
+Direction des Statistiques Démographiques	18291
 Direction des Statistiques Démographiques. Malgré	15666
+Direction des Statistiques Economiques	18291
+Direction des Statistiques INS	18111
+Direction des Statistiques du Travail	18291
+Direction des Statistiques. Fruit	18111
 Direction of Trade Statistics and IMF	13868
+Directions Centrales. L'Inspection des Services Statistiques	18169
+Directions Régionales des Statistiques	18169
+Directions des Statistiques	18169
+Directions des Statistiques Sectorielles	18169
+Directions des Statistiques des Ministères	18169
 Director General Somali National Bureau of Statistics	2555
 Director General for Kenya National Bureau for Statistics	14523
 Director Research and Statistics	9194
@@ -673,8 +713,9 @@ Diseases Kenya Vital Statistics Report	12151
 Dissemination Standards SDMX Statistical Data and Metadata	14777
 Dissemination Standards SM Statistics Mauritius SNIEG	14777
 Division des Indices Statistiques Missions	17446
-Division des Statistiques	15351
+Division des Statistiques	15351,2818,122,11
 Division des Statistiques Générales Missions	17446
+Division des Statistiques Sociales	18169
 Division of Economic Statistics and National Accounts	16935
 Division of Social Statistics	16935,214
 Division of Statistics	17116
@@ -711,6 +752,7 @@ ECOWAS Statistical Policy	8532,1976
 ECOWAS Statistics Policy	7
 EDUCATION STATISTICAL YEARBOOK	15087
 EDUCATION STATISTICAL YEARBOOK SCHOOL YEAR ENDED	12411
+EFFECTIF DU PERSONNEL DU SYSTEME STATISTIQUE	18169
 ENERGY DATA COLLECTION AND STATISTICS	14947
 ENERGY DATA COLLECTION AND STATISTICS Issue	14947
 ENVIRONMENTAL STATISTICS Table G	11250
@@ -720,7 +762,11 @@ EPRA Statistics Committee	12256
 ERETES. Statistiques	16250
 ESCAP and Statistics Norway	12138
 ESKOM and Statistics South Africa	11244
+ET DE L’ACCES AUX STATISTIQUES L’état	18291
+ET RECENSEMENTS STATISTIQUES ET DU DROIT	18095
+ETAT DU SYSTEME STATISTIQUE NATIONAL EN	18169
 EXECUTIVE SUMMARY The Lesotho National Statistical	12706
+EXISTENCE DE PROJETS STATISTIQUES Q4.1 Votre	18169
 Earth Observation for Agricultural Statistics	13394,81
 Earth Station	2913,7494
 Earth Station Application	736
@@ -758,7 +804,7 @@ Egypt EGY National Strategy of Statistics	13082
 Electrical Traction Stations	15905
 Electricity Production Statistics	13479
 Electrification Statistics	11890
-Electronic Civil Registration and Vital Statistics	3061,4571,4283,142
+Electronic Civil Registration and Vital Statistics	3061,4571,4283,142,6205,4
 Electronic Civil Registration and Vital Statistics System	12186
 Elements Statistics Mauritius Bank of Mauritius Ministry	14777
 Elite Statistical Capacity	17331
@@ -767,6 +813,7 @@ Energy Policy NSA Namibia Statistics Agency	12399
 Energy Sector Statistical Bulletin	13479
 Energy Statistics	12768
 Energy and Petroleum Statistics Report	7548
+Enhanced National Statistical System	18174
 Enquêtes Statistiques	2625
 Enterprise Somali National Bureau of Statistics Somali	11136
 Environment Statistics	17149
@@ -798,6 +845,7 @@ Ethiopian Statistical Service Proclamation	14136
 Ethiopian Statistical Services	5655,8338
 Ethiopian Statistics Proclamation	14122
 Ethiopian Statistics Service	1788,1417,3881,5164,1755,110
+Etudes Economiques DSEDS Direction des Statistiques	18169
 European Statistics Code of Practice	16863
 European Union-financed Pan African Statistics Programme	12706
 Eurostat Statistics	236
@@ -813,6 +861,8 @@ FAOSTAT Statistical Database	13312,2
 FAREI and Statistics Mauritius	14818
 FDRE Ministry of Education Statistics Annual Abstract	13991
 FDRE Ministry of Education's Education Statistics Annual	12199
+FINANCES INSTITUT NATIONAL DE LA STATISTIQUE	18169
+FINS STATISTIQUES Article	18095
 FM Stations In Operation Ashanti	2776
 FMI BNS Bureaux Nationaux de Statistiques BUCREP	16104
 FOREWORD The Rwanda Education Statistical Yearbook	15087
@@ -832,6 +882,7 @@ Fire Station Establishment	15578
 Fire Station and Hospital	9123
 Fisheries Statistical System	16493
 Forced Displacement Statistics	15810
+Forecasting and Statistics	18309
 Foreign Trade Statistics GDDS	14857
 Form B1 Kenya Vital Statistics Report	12151
 Formation GFS Government Finance Statistics GFSM	14777
@@ -860,6 +911,7 @@ GDP. Statistics Botswana	12551
 GEF Gabon Statistical Development Project BIRD	15500
 GENERATION OF VITAL STATISTICS	12413
 GENERATION OF VITAL STATISTICS NISR	15056
+GESTION DES STATISTICIENS ET DEMOGRAPHES	18291
 GMA and GIA Directorate of Statistics	16927
 GRA Statistics and Data Analysts' Seminar	11038
 GSBPM Generic Statistical Business Process Model	12902
@@ -963,6 +1015,7 @@ High Altitude Platform Station	15654
 High Court Station	2775
 High Court. Court Statistics	13251
 Hill Station	6903
+Historique du Système Statistique National Le Système	18169
 Hole-in-the-Wall Learning Stations	16277
 Honourable Minister of Finance Statistics Botswana Private	12551
 Hotel Tourism Statistics Section	12962
@@ -1002,7 +1055,9 @@ II.3.3. Statistiques	16249
 II.5 Statistique	15848
 II.5 Statistiques	15848
 III. DESCRIPTION DU SYSTEME STATISTIQUE NATIONAL	17844
+III. Ressources du Système Statistique National	18169
 III.1. STATISTIQUES DES RESSOURCE HUMAINES ET	13500
+III.2. ANALYSE DE LA COORDINATION STATISTIQUE	18291
 III.3. Statistiques	13414
 III.4 STATISTIQUES DU TRANSPORT	13500
 III.TABLEAUX STATISTIQUES	13500
@@ -1014,6 +1069,7 @@ IMT Base Station	15654
 INDICATEURS DANS LE SYSTEME STATISTIQUE NATIONAL	17945
 INEGE National Institute of Statistics	16996
 INFORMATION AND STATISTICS	14528
+INS INSTITUT NATIONAL DE LA STATISTIQUE	18143,27
 INS Institut National de Statistique	11944
 INSTAT Annuaires Statistiques	17978
 INSTAT MODERNISATION DU SYSTEME STATISTIQUE	17993
@@ -1047,7 +1103,9 @@ Infections Kenya Vital Statistics Report	12151
 Informatics Ltd BUSINESS STATISTICS QUARTER	14840
 Information Agricole Système Statistique National Très	17978
 Information Statis-	13323
-Information Statistique	2625,10678,20,11,108,2043,16,29,12,57,964,911
+Information Statistique	2625,10678,20,11,108,2043,16,29,12,57,964,911,675,20
+Information Statistique DER Direction des Enquêtes	18169
+Information Statistique DMS	18291
 Information Statistique DRH	10874
 Information Statistique SRIS Système Régional	15501
 Information Statistique Taux Brut de Mortalité Taux	15599
@@ -1058,11 +1116,22 @@ Information Statistique. En	15599
 Information and Communications Technology. A. Statistics Act	12768
 Information and Statistics	14528
 Informations Statistiques	15666
+Ingénieur Statisticien Economiste	18169
+Ingénieur Statisticien Economiste ISRA	18291
 Ingénieur Statisticien Informaticien	13937
 Ingénieur Statisticien-Economiste	13937
 Ingénieur des Travaux Statistiques	13937
+Ingénieur des Travaux Statistiques MAPS	18291
+Ingénieur des Travaux Statistiques OOAS Organisation Ouest	18169
+Ingénieurs Statisticiens	18169
+Ingénieurs Statisticiens Economistes	18169
+Ingénieurs de Pratique Statistique	18169
+Ingénieurs des Pratiques Statistiques	18169
+Ingénieurs des Travaux Statistiques	18169
 Innovation and Modernisation of Statistical Systems	13359
 Innovative Civil Registration and Vital Statistics	15462
+Inspecteurs des Services Statistiques	18169
+Inspection des Services Statistiques	18169
 Institut Africain de Statistique. TITRE III	16616
 Institut Centrafricain de Statistique	15351,400
 Institut Centrafricain des Statistiques	7675,7676,64,818,74,66,4,23,17,19
@@ -1098,7 +1167,7 @@ International Financial Statistics	11524
 International Labour Organisation. Statistics	12376
 International Merchandise Trade Statistics	13479
 International Monetary Fund Deputy Director of Statistics	8413
-International Space Station	1131,13611
+International Space Station	1131,13611,3607
 International Statistical Classification of Diseases	12151
 International Statistical Review	8604,2552
 International Statistical Standards	14777
@@ -1169,12 +1238,14 @@ Kufra Observing Station	16956
 Kusile Power Station	2626,8597
 L'AUTORITE STATISTIQUE NATIONALE	13334
 L'Autorité Statistique Nationale du Burundi	13334
+L'Inspection des Services Statistiques	18169
 L'Institut Centrafricain des Statistiques	9276,997
 LA PRODUCTION DE L’ANNUAIRE DES STATISTIQUES	13478
-LA STATISTIQUE	16175,1667,103,1
+LA STATISTIQUE	16175,1667,103,1,345
 LA STATISTIQUE DU BURUNDI BANQUE	13390
 LA STATISTIQUE LOCALE	15501
 LA STATISTIQUE OFFICIELLE ARTICLE	15530
+LE DIRECTEUR DES STATISTIQUES ET	18170
 LEARNING FOR STATISTICAL TRANSFORMATION	17116
 LES ACTIVITES STATISTIQUES PUBLIQUES Article	785
 LES STATISTIQUES PUBLIQUES	17828
@@ -1187,8 +1258,10 @@ LO Rigorous Statistics Methods	14777
 LOCALISATION DE LA STATION	17846
 LOI STATISTIQUE ET SES TEXTES D’APPLICATION	16620
 La Commission des Programmes Statistiques CHAPITRE III	17828
+La Direction des Statistiques	18169,1
 La Gaulette Police Station	14753
 Labor Statistics	12389
+Laboratoire de Recherches Statistiques	18124
 Labour Force Statistics	17149
 Labour Statistics	11237
 Lacs. The National Institute of Statistics	4035
@@ -1199,7 +1272,7 @@ Latitude Longitude Altitude Associated Space Station	736
 Launch of Vital Statistics and Verbal Autopsy	13095
 Le Glossaire Statistique National	17993
 Le Service Statistique	15678
-Le Système Statistique National	13323,2156,2349,150
+Le Système Statistique National	13323,2156,2349,150,117
 Le Visa Statistique	16616
 Leadership for National Statistical Offices of Member States	14839
 Learning for Statistical Transformation	17116
@@ -1241,8 +1314,10 @@ Local Services Railway Stations Cultural Services	15578
 Loi Statistique	16616,4
 Lomé. The National Institute of Statistics and Economic	3437
 Longitude Latitude Antenna Power Stations Station	736
+Lz84pK3Twh8ZGzX.pdf CONSEIL NATIONAL DE LA STATISTIQUE	18291
 L’ANNUAIRE DES STATISTIQUES SCOLAIRES	13478
 L’Annuaire Statistique du Burundi	13377
+L’EMPLOI ATS ASSISTANT DES TRAVAUX STATISTIQUES	18143
 L’EXERCICE DES ACTIVITES STATISTIQUES	17828
 L’Institut Supérieur des Métiers Statistiques	17844
 L’Institut de Statistique	13300
@@ -1334,6 +1409,7 @@ Ministry of Education Education Statistic Yearbook	14851
 Ministry of Higher Education Statistic Yearbook	14851
 Ministry of Interior Uganda Bureau of Statistics Directorate	10822
 Ministry of Planning and Bureau of Statistics	14923
+Mission du Système Statistique National	18169
 Mission du Système Statistique National Le Système	16616
 Missouri Vital Statistics	12413
 Mmolotsi. The Statistics Dashboard	12620
@@ -1350,8 +1426,10 @@ Mobile Weather Stations	17157
 Mobile and Broadband Statistics and Analyses	14897
 Modern Statistician	11038
 Modernisation of Civil Registration and Vital Statistics	10972
+Modernize Nigeria's Statistical System	18174
 Modernize Statistical Data Systems Driving Data	12499
 Mohale's Hoek and Mafeteng Police Stations	12763
+Momath CISSE Directeur des Statistiques	18418
 Monetary and Financial Statistics	17149
 Monetary and Financial Statistics Expert	14777
 Monetary and Financial Statistics Manual	14777
@@ -1377,6 +1455,7 @@ Muela Hydropower Station	6633
 Multi-Country Office Monthly Statistical Report	13769
 Multiple Indicator Cluster Survey. National Statistical	13209
 Myanmar MMR National Development of Statistics	13082
+MÉDIAS ESSI ECOLE SUPERIEURE DE STATISTIQUE	18170
 MÉTHODOLOGIE FIABLE ET PROCÉDURES STATISTIQUES APPROPRIÉES	17830
 MÉTHODOLOGIE SOLIDE ET PROCÉDURES STATISTIQUES APPROPRIÉES	17830
 Météorologie ONS Office National des Statistique ONSER	17907
@@ -1390,6 +1469,7 @@ NATIONAL STATISTICAL PROGRAM CHAPITRE IV	14862
 NATIONAL STATISTICAL SYSTEM	17116
 NATIONAL STATISTICAL SYSTEM Foreword	13343
 NATIONALE DE DEVELOPPEMENT DE LA STATISTIQUE	16620
+NATIONALE DE LA STATISTIQUE EPN ECOLE	18143
 NBS National Bureau of Statistics	11860
 NCA NCA Ghana Statistical Service	236
 NCA Quarterly Statistical Bulletin	236,1627
@@ -1406,6 +1486,7 @@ NISR Statistical Production Process Model	15077
 NISR Statistical Production Process Model GSBPM	15077
 NOM DE LA STATION Siège	13414
 NOTAMMENT DE RESPECTER LE SECRET STATISTIQUE	16616
+NPTF Launch Smart Police Station Othniel	18246
 NSA Namibia Statistics Agency NSFAF Namibia	12923
 NSA’s Statistician-General	13159
 NSDS III Liberia Institute of Statistics and Geo-Information	17116
@@ -1436,8 +1517,9 @@ Nasionale Statistiekestelsel	11201
 Nasionale Statistiekstelsel	11201
 National Accounts Statistics Recommendations	14777
 National Agency for Statistics	3604
-National Agency for Statistics and Demography	2356
-National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244,500,170,26,2072
+National Agency for Statistics and Demography	2356,15953,50
+National Agency for Statistics and Demography ANCAR	18309
+National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244,500,170,26,2072,1017,2,9,59
 National Bureau of Statistics Augustino T. Mayai	7749
 National Bureau of Statistics and President's Office Finance	11133
 National Bureau of Statistics. Streamlined	12210
@@ -1456,14 +1538,14 @@ National Health Statistics Conference MOH Leadership	17116
 National ID and Civil Registration and Vital Statistics	13005
 National Institute for Statistics	1828
 National Institute for Statistics and Demography	10812
-National Institute of Statistics	237,5652,1813,1706,1355,13,4,184,16,5,286,146,108,348,92,202,34,157,955,1629,559,52,21,458,18,139,358,449,11,94,230
+National Institute of Statistics	237,5652,1813,1706,1355,13,4,184,16,5,286,146,108,348,92,202,34,157,955,1629,559,52,21,458,18,139,358,449,11,94,230,773,29
 National Institute of Statistics IRPC	11955
 National Institute of Statistics Internet Service Provider	15480
 National Institute of Statistics RGPH	15574
 National Institute of Statistics RSU	16032
 National Institute of Statistics Rwanda	1903,1912,8267,2915
 National Institute of Statistics Rwanda RESEARCH FINDINGS	12328
-National Institute of Statistics and Demography	10812
+National Institute of Statistics and Demography	10812,7481
 National Institute of Statistics and Demography IUCEC Unique	10812
 National Institute of Statistics of Cameroon	8427,7221
 National Institute of Statistics of Equatorial Guinea	16942,16,38
@@ -1494,13 +1576,13 @@ National Statistical Council and Committees	12643
 National Statistical Database	16833
 National Statistical Development	13359
 National Statistical Information	14882
-National Statistical Institute	10775,623,4634,261,105
+National Statistical Institute	10775,623,4634,261,105,1706
 National Statistical Institute of Angola	11423
 National Statistical Institute of Rwanda	12419
 National Statistical Institutes	8532
 National Statistical Institution	11900
-National Statistical Office	1704,4382,3860,466,1300,566,623,5,99,35,109,8,52,101,4355,184
-National Statistical Offices	8341,86,2392,4801,1307,222
+National Statistical Office	1704,4382,3860,466,1300,566,623,5,99,35,109,8,52,101,4355,184,336
+National Statistical Offices	8341,86,2392,4801,1307,222,1036
 National Statistical Offices. Download ZIMSTAT Board	13490
 National Statistical Organization	12210
 National Statistical Professional Framework	17116
@@ -1509,7 +1591,7 @@ National Statistical Release Calendar	13479
 National Statistical Statistics	16863
 National Statistical Steering Committee	17116
 National Statistical Systcm	11852
-National Statistical System	2360,415,5638,3438,679,21,92,29,34,10,41,144,1,60,120,67,156,5,7,26,16,27,93,486,445,184,183,80,3,2,20,64,88,43,167,215,730,17,627,30,64,8,23,128,30,33
+National Statistical System	2360,415,5638,3438,679,21,92,29,34,10,41,144,1,60,120,67,156,5,7,26,16,27,93,486,445,184,183,80,3,2,20,64,88,43,167,215,730,17,627,30,64,8,23,128,30,33,1025,11,59
 National Statistical System Activity	16863
 National Statistical System Bureau of Statistics and Census	16863
 National Statistical System Coordination Unit	16863
@@ -1562,7 +1644,7 @@ National Statistical the National Activity	16863
 National Statistics	14819,2014,30
 National Statistics Act	799,12102,248,3684
 National Statistics Action Plan	16927
-National Statistics Agency	223,12276,408,403,7,1572
+National Statistics Agency	223,12276,408,403,7,1572,3412
 National Statistics Agency ZNCC Zimbabwe National	12512
 National Statistics Agency of Côte	10508
 National Statistics Council	11873,2082,822,2090,60,189
@@ -1587,7 +1669,7 @@ National Statistics Office Vital	12327
 National Statistics Office of Georgia	12413
 National Statistics Offices	3476,1874,5887,4723,1189,390,107
 National Statistics Research Deaths Registry	12151
-National Statistics System	976,212,8297,1716,36,1662,3,117,12,3896
+National Statistics System	976,212,8297,1716,36,1662,3,117,12,3896,1249
 National Statistics System PART III NAMIBIA	12899
 National Statistics System and National Strategy	11201
 National Statistics System. Work	11237
@@ -1607,6 +1689,8 @@ Ngabezweni Fire Station	12962
 Nigeria's Civil Registration and Vital Statistics	7632
 Nigeria's National Bureau of Statistics	6963
 Nigerian Bureau of Statistics	8418
+Nigerians. The Smart Police Station	18246
+Niger’s National Statistics Institute. Despite	18125
 Nine Regional Statistical Offices	17331
 Nkula A Power Station	13241
 Nkula B Hydro Power Station	13060
@@ -1615,6 +1699,7 @@ No. of Radio Stations	6946
 No. of Satellite Earth Stations	6946
 No. of TV Stations	6946
 No. of TV Stations No. of TV Stations	2776
+Nombre Station-	18322
 Number License Numbers Purpose of Station	736
 Number of Analogue Terrestrial Stations	12395
 Number of Base Transceiver Stations	12395
@@ -1701,6 +1786,7 @@ PORTANT ORGANISATION DES ACTIVITES STATISTIQUES AU	14862
 PORTANT ORGANISATION DU SYSTÈME STATISTIQUE AU	13323
 PORTANT REGLEMENTATION DES ACTIVITES STATISTIQUES EN	15351
 POWER STATION	9458
+PRESENTATION DU SYSTEME STATISTIQUE NATIONAL I	18169
 PRINCIPES FONDAMENTAUX DE LA STATISTIQUE OFFICIELLE	17842
 PRINCIPES STATISTIQUES FONDAMENTAUX CHAPTER II	14862
 PRODUCTION DES STATISTIQUES	15722
@@ -1764,6 +1850,8 @@ Poverty Statistics Specialist	12403
 Poverty and Inequality Statistics	11237
 Power Station	736
 Power-sector Statistics	11549
+Pratique Statistique	18169
+Pratique Statistique Gestion des Projets Informatique	18169
 Preamble The Libyan National Statistics Development	16863
 Preface Statistics	12672
 Preface Statistics South Africa	11286
@@ -1771,6 +1859,7 @@ Premier Ministre Café Statistique Participants	13689
 Price Statistics	11237,5912
 Price Statistics Expert	14777
 Price Statistics Section	12962
+Prince Adeyemi Adeniran Statistician-General	18185
 Principal Registrar for Vital Statistics	16860
 Principal Statistician DATA ANALYSIS	17285
 Principal Statistician MoA	17285
@@ -1842,6 +1931,7 @@ Quarterly Employment Statistics	2626
 Quarterly Statistical Bulletin	2776,13267
 Quarterly Statistical Digest	16833
 Quarterly Statistics Bulletin	13069
+Quatre Directions des Statistiques Sectorielles	18169
 Questionable Statistics	13310
 Quthing and Qacha's Nek Police Stations	12763
 R Foundation for Statistical Computing	12003
@@ -1852,6 +1942,7 @@ REGIONAL STATISTICS	12164
 REGISSANT L’ACTIVITE STATISTIQUE AU CAMEROUN	15485
 REGISTRATION AND VITAL STATISTICS POLICY Ministry	14889
 RELEVANT DEEDS DOCUMENTS AND STATISTICS	13251
+REMERCIEMENTS L'Annuaire Statistique	18170
 RENFORCEMENT DE CAPACITES STATISTIQUES	15479
 RENFORCEMENT DES CAPACITÉS DU SYSTÈME STATISTIQUE	17842
 REQUISES PAR LES QUESTIONNAIRES STATISTIQUES Article	16616
@@ -1868,6 +1959,9 @@ Radar Station	14738
 Radio Stations	2776,14194
 Railway Station	15578
 Rapport Statistique National	16616
+Rapport sur etat de la statistique du SSN 2024.pdf	18169
+Rapport sur etat de la statistique du SSN 2024.pdf Author	18169
+Rationalisation du Système Statistique National	18291
 Recherche Scientifique Direction des Statistiques	17844
 Recruter des Statisticiens	17845
 Recruter des Statisticiens des CPS	17845
@@ -1895,10 +1989,11 @@ Remote Station Sensitivity	736
 Remote Station Signal-to-Noise Ratio	736
 Remote Station Tx Power Tunability	736
 Renewable Capacity Statistics	11140
+Renforcement des Capacités Statistiques	18291
 Repeals Statistical Service Law	15459
 Research QoS Monitoring Statistical Bulletins	9109
 Research Statistics and Information Management SARA Service	15556
-Research and Statistics	11860,1450
+Research and Statistics	11860,1450,4943
 Research and Statistics Department	11851,1459,1434,2492
 Research and Statistics Department Analysis	17236
 Research and Statistics Department Asset Quality Indicators	17236
@@ -1931,6 +2026,7 @@ Research and Statistics Officer	13310
 Results Report National Institute of Statistics	15601
 Retail Footprint With New Shell Station	10151
 Revamp Statistical Desk	17116
+Review of Economics and Statistics	18318
 Review the Census and Statistics Act	13310
 Review the National Statistical Council. BOS	12706
 Review the Statistics Act	14734
@@ -2036,28 +2132,34 @@ STATISTIQUE	13500,2001,28,51,1036,92,1120,14,104,110
 STATISTIQUE ARTICLE	15485,45
 STATISTIQUE DU MINISTERE DU COMMERCE	13500
 STATISTIQUE Direction	16620
+STATISTIQUE EN	18169
+STATISTIQUE Le Sénégal	18291
 STATISTIQUE NATIONAL	15439,2403
 STATISTIQUE NATIONAL L’analyse	17842
 STATISTIQUE NATIONALE	13334
 STATISTIQUE NATIONAT Arlicle	15561
 STATISTIQUE REUNIONS	16250
 STATISTIQUE.pdf AECI	15561
-STATISTIQUES	998,13864,3218
+STATISTIQUES	998,13864,3218,42
 STATISTIQUES ARTICLE	15485,2050
 STATISTIQUES Arrêté	15602
 STATISTIQUES Art.9	15351
 STATISTIQUES CHAPITRE	16616
+STATISTIQUES DE L'EDUCATION NATIONALE ET	18171
+STATISTIQUES DE L'ÉDUCATION NATIONALE ET	18171
 STATISTIQUES DE TRAFIC RELATIVES AUX SERVICES	13500
 STATISTIQUES DES AUTRES TYPES DE FORMALITÉS	16249
 STATISTIQUES DES CRÉATIONS D’ENTREPRISES ENǧ REGISTRÉES	16249
 STATISTIQUES DES DONNEES CONTENUES DANS	785
+STATISTIQUES ECONOMIQUES	18199
+STATISTIQUES ET DE L’INFORMATIQUE DTS DIPLÔME	18143,27
 STATISTIQUES ET D’ÉTUDES	13300
 STATISTIQUES FINANCIERES	13500
 STATISTIQUES GLOBALES SUR LES FORMALITÉS D’ENTREPRISES	16249
 STATISTIQUES NOTATION MOYENNE DE LA NORME	17830
 STATISTIQUES OFFICIELLES	15439
 STATISTIQUES PUBLIQUES Article	785,13634
-STATISTIQUES SECTORIELLES	15595,44
+STATISTIQUES SECTORIELLES	15595,44,2530
 STATISTIQUES SECTORIELLES SEPTEMBRE	10847
 STATISTIQUES Vu	15602
 STATISTQUE NATIONAL	17844
@@ -2072,6 +2174,7 @@ SYSTEM OPERATOR STATISTICS	11228
 SYSTEME STATISTIQUE NATIONAL	15381
 SYSTEME STATISTIQUE NATIONAL Article	17828
 Sacco Societies Regulatory Authority SBR Statistical	2775
+Sadoré Research Station	18142
 Satellite Earth Stations	9329,5876
 Satellite Hub Ground Station	6891
 Satellite Statistics	3641
@@ -2089,6 +2192,7 @@ Sector Statistics Report	3898,2932,3992,1440
 Sector Statistics Reports	17745
 Sectoral Statistical Systems	14860
 Sectoral and Institutional Context The National Statistical	16293
+Senegal’s National Statistics Agency	18301
 Senior Statistical Knowledge Management Officer	13157
 Senior Statistical Officer	14815,17
 Senior Statistical Officer Email	14840
@@ -2110,7 +2214,7 @@ Shaping Better Regional Statistics East African	17646
 Ship Station	6946
 Sida Institut de Statistiques	13300
 Siphofaneni Fire Station	12962
-Smart Police Station	5481
+Smart Police Station	5481,12765
 Smart Police Station Ethiopia	5481
 Smart Police Station System	11607
 Snapshot of Civil Registration and Vital Statistics Systems	327,1,11810
@@ -2143,6 +2247,7 @@ Spss Statistical Package	16249
 Square Shopp Cntr Cape Town Station	8999
 Staff of Statistics Botswana	12530
 State Bureau of Statistics	11860
+State Bureaus of Statistics	18185
 State Owned Enterprises SG Statistician General	11192
 State Security Statistical Agencies Capacitation Regulatory	961
 State Statistical Agencies and Local Government Statistical	11851
@@ -2171,19 +2276,23 @@ Station E-Payment System Advertisement Reach	4630
 Station ESA Agence	15715
 Station Erongosig	13046
 Station HUB	15394
+Station Information	18309
 Station Issuance	736
 Station N47ame Latitude Longitude	736
 Station Name Latitude Longitude Altitude Antenna	736
 Station Privée	16615
 Station Purpose Coordinates	736
 Station Road Cambridge CB1	16628
+Station Sahélienne Expérimentale de Toukounous	18227
 Station Sol	13844
 Station Terrienne Côtière	16615
 Station Tx	736
 Station Types	6946
 Station Types Frequency Station Type FY	6946
 Station V.SAT	15394
+Station de Pompage Pastorale	18151
 Station de Traitement de Boues de Vidange	2342
+Station of Mbour Diadji Cissé ANACIM Forecaster	18309
 Station- Adabraka Accra Operational	3386
 Stationary	11269,2116
 Stationary Battery Applications RS IEEE Std	15027
@@ -2191,7 +2300,7 @@ Stationary Plant and Machine Operators	16266
 Stationary Weather Information Display Board	16947
 Stationeries and Supplies	16943
 Stationery	1778,15482
-Stations	736,6210,3211,2305,149,309,174,219,373,3564,197,515
+Stations	736,6210,3211,2305,149,309,174,219,373,3564,197,515,347
 Stations Article	16957
 Stations Boucle	16047
 Stations Handset	17250
@@ -2220,6 +2329,7 @@ Statistical Agency	3641,10324
 Statistical Analysis Software	8604
 Statistical Analysis Software UA	10874
 Statistical Assistant International Telecommunication Union	14098
+Statistical Association	18318
 Statistical Auditing for Compliance	14857
 Statistical Awareness Day	8248
 Statistical Body	11906
@@ -2241,7 +2351,7 @@ Statistical Coordination and Innovation	6963
 Statistical Data	3861,8558
 Statistical Data Analysis Report. MINESUP	15480
 Statistical Data Dissemination and Access	14115
-Statistical Data and Metadata	12499,2278,1961,801
+Statistical Data and Metadata	12499,2278,1961,801,865
 Statistical Data and Metadata Exchange	9207,1737,768,1445
 Statistical Database Relevant	13418
 Statistical Development	14860
@@ -2303,7 +2413,7 @@ Statistical Staff	14745
 Statistical Standards	11237
 Statistical Support and Informatics	11237
 Statistical Systcln	11852
-Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223
+Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158
 Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135
 Statistical System Child	10838
 Statistical System Coordination Unit	16863
@@ -2330,7 +2440,7 @@ Statistically	2588,9912,4728
 Statistici21n-	11852
 Statisticia	11852
 Statistician	12338,75,138,498,108,148,785,504,221,17,4,2085,122,84
-Statistician General	2360,1459,5889,1470,23,88,1241,21,20,68,260,3,441,211,24,3349
+Statistician General	2360,1459,5889,1470,23,88,1241,21,20,68,260,3,441,211,24,3349,1288
 Statistician General Alex Shimuafeni	8005
 Statistician General Nyakassi Sanyang	8459
 Statistician General ZAMBIA STATISTICS AGENCY	13343
@@ -2338,7 +2448,7 @@ Statistician General's Review Corporate Strategic Plan	12551
 Statistician LISGIS	16921
 Statistician-	11852
 Statistician- High Court. General	14594
-Statistician-General	1188,7060,411,159,2360,23,36,614,284,764,3,5,398,1289,2333
+Statistician-General	1188,7060,411,159,2360,23,36,614,284,764,3,5,398,1289,2333,1249,68
 Statistician-General STATISTICS SOUTH AFRICA	11258,28
 Statistician-General Statistician-General	11178
 Statistician-General and CEO	12706
@@ -2351,13 +2461,13 @@ StatisticianGeneral	14594
 StatisticianGeneral. Clause	14594
 Statisticians	11860,507,401,204,2062,2082
 Statisticians and CRVS TC	12367
-Statisticien	17845
+Statisticien	17845,446
 Statisticien Général Senior Publication	7675
-Statisticiens	15848
-Statistics	7,315,256,383,282,18,553,130,150,681,114,587,128,134,46,1649,789,71,378,161,380,336,154,303,69,174,165,14,32,669,488,92,73,292,345,90,114,153,5,64,7,27,227,73,23,36,49,8,2,199,68,194,94,9,7,12,26,108,51,83,4,82,8,110,56,6,6,111,21,49,106,35,27,119,15,60,10,5,44,31,253,5,33,14,324,274,38,3,102,312,24,70,90,125,15,4,5,3,5,18,4,4,38,4,13,4,4,17,3,2,27,5,1,36,103,22,29,159,236,38,35,3,61,11,30,1,29,28,171,122,533,3,288,27,3,13,11,40,13,2,76,25,43,30,11,22,147,145,17,386,33,1
+Statisticiens	15848,2443
+Statistics	7,315,256,383,282,18,553,130,150,681,114,587,128,134,46,1649,789,71,378,161,380,336,154,303,69,174,165,14,32,669,488,92,73,292,345,90,114,153,5,64,7,27,227,73,23,36,49,8,2,199,68,194,94,9,7,12,26,108,51,83,4,82,8,110,56,6,6,111,21,49,106,35,27,119,15,60,10,5,44,31,253,5,33,14,324,274,38,3,102,312,24,70,90,125,15,4,5,3,5,18,4,4,38,4,13,4,4,17,3,2,27,5,1,36,103,22,29,159,236,38,35,3,61,11,30,1,29,28,171,122,533,3,288,27,3,13,11,40,13,2,76,25,43,30,11,22,147,145,17,386,33,1,245,168
 Statistics Access	13704
 Statistics Acknowledgement The Somalia National Bureau	15085
-Statistics Act	976,33,1351,415,6710,1693,23,36,52,562,1,485,30,163,21,49,39,67,62,119,12,3,4,1,55,1,68,274,38,43,1024,75,109,125,15,43,51,3,12,52,1939,33,54,6,189,33,519
+Statistics Act	976,33,1351,415,6710,1693,23,36,52,562,1,485,30,163,21,49,39,67,62,119,12,3,4,1,55,1,68,274,38,43,1024,75,109,125,15,43,51,3,12,52,1939,33,54,6,189,33,519,506,70
 Statistics Act 2000 All Amended Yr11.pdf Author	14719
 Statistics Act Cap	14410
 Statistics Act Commencement	14410
@@ -2373,7 +2483,7 @@ Statistics Agency Zimbabwe National Chamber of Commerce	4528
 Statistics Amendment Act	11178,23,36,19
 Statistics Authority	12367
 Statistics Awareness Day	8005,408
-Statistics Bill	12706,51,1837,2333,281
+Statistics Bill	12706,51,1837,2333,281,966,70
 Statistics Board	14719,15,33,61,3
 Statistics Botswana	2360,1,3088,5281,1800,9,12,20,27,2,31,8
 Statistics Botswana Private Bag	12639
@@ -2382,6 +2492,7 @@ Statistics Botswana's ICT Stats Brief Q4	2361
 Statistics Bureau	3738
 Statistics CFSAM Crop and Food Supply Assessment	15118
 Statistics CHAPTER	15085
+Statistics CRODT	18291
 Statistics CSOs Civil Society Organizations CSCA	13005
 Statistics Cabinet	10765
 Statistics Centre de Santé de Base Couverture Sanitaire	14622
@@ -2442,8 +2553,9 @@ Statistics NGOs	14857
 Statistics Namibia Population System	12327,10
 Statistics Norway	12367,46,2643
 Statistics Norway and National Statistical Office of Eritrea	13957
-Statistics Office	12367,943
+Statistics Office	12367,943,4991
 Statistics Office DQAF Data Quality Assessment	13310
+Statistics PSE	18291
 Statistics Plan	17116
 Statistics Plans	17116
 Statistics Policy	12902
@@ -2514,6 +2626,7 @@ Statistics and Census and Statistical Units	16863
 Statistics and Cooperation DPI Digital Public Infrastructure	4214
 Statistics and Data Collection	16887
 Statistics and Data Processing Units	16833
+Statistics and Development LPAOSF	18309
 Statistics and Enhancing the SADC ICT Observatory	3476
 Statistics and Geo-Information Services LNP Liberia National	16935
 Statistics and Geo-Informatlon Services	16833
@@ -2530,6 +2643,8 @@ Statistics and SHaSA	16927
 Statistics and Statistical Capacity Building	650
 Statistics for Cases	11250
 Statistics for Development	12551,206,602,2120,1384,64
+Statistics for Results Facility	18291
+Statistics for Results Facility SGDD	18291
 Statistics of The Gambia	16992
 Statistics-on-Post-School-Education-and-Training-	9128
 Statistics. Even	16867
@@ -2545,11 +2660,12 @@ Statistiese	11201
 Statistiese Klaringshuis	11201
 Statistikus	11201
 Statistikus-generaal	11201
-Statistique	737,1091,154,643,986,714,2253,381,1269,159,899,195,72,62,670,527,35,22,5,2,88,1,221,1,757,29,9,1100,218,34,355,18,8,31,58,2,21,96,14,307,175,17,3,3,10,25,50,44,6,19,11,255,489,30,17,25,38,14,4,1,5,16,12,17,12,4,7,4,4,14,5,3,16,2,38,19,1,7,15,20,11,34,39,21,13,117,25,76,43,4,20,61,81,4,43,14,30,14,66,30,98,18,53,4,6,10,8,1,26,2,5,35,25,708,211,156,1,3,10,1,1,1,12,1,1,1,21,4,11,1,17,37,9,1,32,4,1,10,8,8,5,47,4,12,9,3
+Statistique	737,1091,154,643,986,714,2253,381,1269,159,899,195,72,62,670,527,35,22,5,2,88,1,221,1,757,29,9,1100,218,34,355,18,8,31,58,2,21,96,14,307,175,17,3,3,10,25,50,44,6,19,11,255,489,30,17,25,38,14,4,1,5,16,12,17,12,4,7,4,4,14,5,3,16,2,38,19,1,7,15,20,11,34,39,21,13,117,25,76,43,4,20,61,81,4,43,14,30,14,66,30,98,18,53,4,6,10,8,1,26,2,5,35,25,708,211,156,1,3,10,1,1,1,12,1,1,1,21,4,11,1,17,37,9,1,32,4,1,10,8,8,5,47,4,12,9,3,6,5,22,2,17,2,6,20,1,1,20,1,7,5,22,9,14,37,4,1,2,8,9,2,4,8,13,24,4,14,43
 Statistique AFRISTAT Observatoire	15479
 Statistique Africaines RGE	10874
 Statistique Arrêté	15580
 Statistique BAD Banque Africaine de Développement BCEAO	15479
+Statistique BAD Banque Africaine de Développement BID	18169
 Statistique BCM	17844
 Statistique BEAC Banque des Etats	15501
 Statistique CASP Centre	15580
@@ -2557,19 +2673,25 @@ Statistique CEDEAO Communauté	15479
 Statistique CMAP	17844
 Statistique CNDIFE	17842
 Statistique CNS	17842
+Statistique CNS Conseil National	18169
+Statistique CPCCI	18291
 Statistique CPS-SATFPSI Cellule de Planification	18077
 Statistique CRESS	17844
 Statistique CRIDF Centre de Recherche	15580
 Statistique CS	10874
+Statistique CSC Conception Support de Collecte DRFM	18169
 Statistique CSPEF Cellule de Suivi des Programmes	15479
 Statistique Cellule de Planification	17978
 Statistique Chargé de Planificateur	17827
 Statistique Chargé des Statistiques de Commissaires	17899
+Statistique Conformément	18169
 Statistique Conseil National	17993,96
 Statistique Conseil National du Patronat du Mali Conseillers	17978
 Statistique Coordonnateur National Adjoint Joseph Guy	15599
+Statistique DCNCEE Direction	18169
 Statistique Directeur Général	16708
 Statistique Dix	18089
+Statistique EBS Echantillonnage Base de Sondage EPA	18169
 Statistique EDSM	17844
 Statistique Equipe	15599
 Statistique Femme	17845
@@ -2577,9 +2699,11 @@ Statistique GAR	17842
 Statistique GED Gestion	15479
 Statistique Ghislaine Marguerite NGONO	15599
 Statistique IFORD	10874
+Statistique IP Protocole Internet MC	18204
 Statistique IPP Independent Power Producer GRT	10975
 Statistique IPPI	17842
 Statistique ISBL	17945
+Statistique ISE Ingénieur Statisticien Economiste	18169
 Statistique ISEPS	15673
 Statistique ISSEA	17842
 Statistique ISSEA Institut Sous Régional des Statistiques	16104
@@ -2589,20 +2713,26 @@ Statistique Indice	17978
 Statistique Indice Synthétique de Fécondité Ministère	15599
 Statistique Inspecteur des Impôts	17982
 Statistique Institut	17845
+Statistique JE Jardin	18171
 Statistique JSON	14438
 Statistique L'Institut National	16616
 Statistique LA CAISSE Inspecteur des Impôts	17982
 Statistique LOPM Loi	6959
+Statistique Le Conseil National	18169
 Statistique Lire	17993,96
 Statistique Locale	15501
 Statistique Locale SGDD Système Général de Diffusion	15501
+Statistique L’INS	18169
 Statistique MAEFCE Ministère des Affaires	15580
 Statistique MEF	10874
+Statistique MESRI	18100
 Statistique MINEPAT Ministère	15501
+Statistique MJ	18111
 Statistique Morocco MAR National Strategy	13082
 Statistique Mécanisme de Gestion des Plaintes Ministère	14425
 Statistique National	15542,839,235,1201,11,150
 Statistique National URL	16417
+Statistique National du Niger	18169
 Statistique Nombre	15580
 Statistique ODD Objectifs de Développement Durable PADEM	18077
 Statistique ONU	17844
@@ -2615,18 +2745,23 @@ Statistique SDS	17842
 Statistique SDSI	10874
 Statistique SECTION ARCHIVES Chef de Section Administrateur	17982
 Statistique SECTION SUIVI DES ATTESTATIONS	17982
+Statistique SEPP	18291
 Statistique SIG	17830
 Statistique SNDS	17842,2
 Statistique SNDS30 Stratégie Nationale de Développement	15501
+Statistique SNEEG	18291
 Statistique SNIGS Système National	15479
+Statistique SOMMAIRE I. Historique du Système Statistique	18169
 Statistique SOP2 Série de Projet	16104
 Statistique SOUS-DIRECTION DES LABORATOIRES	17899
 Statistique SPSS	10874
 Statistique SSN	17844
 Statistique SSN Système Statistique National ST	15580
 Statistique Suède	17842,172
+Statistique UE	18291
 Statistique URL	15681,2408
 Statistique Université du Lac Tanganyika	13689
+Statistique Vu la Constitution	18095
 Statistique Yihweje Ibwirizwa Shingiro	13323
 Statistique de Côte	10500
 Statistique de Djibouti	2768,256,10880,19,14,1
@@ -2643,6 +2778,8 @@ Statistique du Commerce International	17842
 Statistique du District de Bamako Act.3.1.2.40	17842
 Statistique du Mali	17842,64,39,33
 Statistique du Ministère	9553
+Statistique du Niger	18169
+Statistique du Niger URL	18199,27
 Statistique du Rwanda	14862
 Statistique du Rwanda. Ces	14862
 Statistique du Rwanda. Ingingo	14862
@@ -2670,7 +2807,7 @@ Statistique. Architecture	17844
 Statistique. Art.17	15351
 Statistique. Art.22	15351
 Statistique. Art.23	15351
-Statistique. Article	13707,1974,935
+Statistique. Article	13707,1974,935,1479
 Statistique. CHAPITRE II	16616
 Statistique. CHAPITRE VIl ISPOSITIONS DIVERSES ET	15530
 Statistique. Ce	16616
@@ -2678,6 +2815,7 @@ Statistique. Cette	16673
 Statistique. Cinquième	16195
 Statistique. Elle	17828
 Statistique. III.1.2	15639
+Statistique. Il	18169
 Statistique. Je	16620
 Statistique. L'Institut Centrafricain des Statistiques	15351
 Statistique. L'absence	14419
@@ -2685,21 +2823,25 @@ Statistique. La Loi	17842
 Statistique. Le Visa Statistique	16616
 Statistique. Les Comptes Nationaux	16195
 Statistique. Loi	16616
+Statistique. L’INS	18169
 Statistique. Outre	16616
 Statistique. PAGE	17830
 Statistique. Page	16616
 Statistique. Présidé	13707
+Statistique. SOMMAIRE	18143,27
 Statistique. STATT	15485
 Statistique. TITRE II	16616
 Statistique2016.pdf Author	16616
 Statistiquement	6959
-Statistiques	419,1655,950,4193,438,417,1493,72,1,765,70,27,312,35,27,47,2379,1,23,25,93,36,4,267,155,515,39,69,10,44,893,1,4,6,95,3,16,40,31,15,39,209,24,146,27,44,1,74,1,78,288,5,15,1187,5,2,12,3,22,78
+Statistiques	419,1655,950,4193,438,417,1493,72,1,765,70,27,312,35,27,47,2379,1,23,25,93,36,4,267,155,515,39,69,10,44,893,1,4,6,95,3,16,40,31,15,39,209,24,146,27,44,1,74,1,78,288,5,15,1187,5,2,12,3,22,78,198,26,1,29,27,64,1,15,116
 Statistiques Acceptables	17830
 Statistiques Agricoles	16616,1329
+Statistiques Agricoles DCI	18291
 Statistiques Agricoles SSN Système Statistique National	15479
 Statistiques CNS	17842
 Statistiques Chef	16099
 Statistiques DGEPF Direction Générale	11944
+Statistiques DPV	18291
 Statistiques Discutables	17830
 Statistiques Discutables Statistiques Mauvaises Compte	17830
 Statistiques Décret	17830
@@ -2738,6 +2880,7 @@ Statistiques. Article	15701
 Statistiques. Ministère	17830
 Statistiques. PAGE	17830
 StatistiquesUn	16595
+Statistqie	18286
 Statistque	13746
 Stats SA Statistician General	11289
 Stats SA's Quarterly Employment Statistics	2626
@@ -2753,9 +2896,13 @@ Strengthening Civil Registration and Vital Statistics System	12250
 Strengthening Gender Statistics Through Inclusive Data	8427
 Strengthening ICT Statistics and Enhancing the SADC ICT	3476
 Strengthening User-Centred Regional Statistics	17646
+Strengthening the National Bureau of Statistics	18174
 Strengthening the National Statistical System	12757
 Structural Industry Statistics	11237
 Structure Responsable Annuaire Statistique	17945
+Structures Sectorielles des Statistiques	18169
+Structures Statistiques Sectorielles	18169
+Structures des Statistiques Sectorielles	18169
 Sub- National Committee for Statistics Coordination Office	16863
 Submarine Cable Landing Stations	9109
 Sudan's Central Bureau of Statistics	15244
@@ -2779,11 +2926,13 @@ Systems Private Radio Transceiver Stations	736
 Système Permanent Intégré de Statistiques Agricoles	15500
 Système Permanent de Statistique Agricole	17978
 Système Statis	15479
-Système Statistique	13923,14,3891,249
+Système Statistique	13923,14,3891,249,149
 Système Statistique Na-	17978
-Système Statistique National	3045,6231,1598,1108,1341,366,730,1060,187,15,76,49,13,414,74,66,4,23,17,199,4,118,736,354,14,2,101,1,32,83
+Système Statistique National	3045,6231,1598,1108,1341,366,730,1060,187,15,76,49,13,414,74,66,4,23,17,199,4,118,736,354,14,2,101,1,32,83,34,29,25,20,22,13,31
 Système Statistique National Article	13323
 Système Statistique National Budget Etat	10874
+Système Statistique National Cette	18169
+Système Statistique National En	18169
 Système Statistique National Ensemble	10874
 Système Statistique National KHI-DEUX N	18077
 Système Statistique National Objectif	17842
@@ -2792,23 +2941,28 @@ Système Statistique National Pour	16616
 Système Statistique National SSN	17842
 Système Statistique National STATA	10874
 Système Statistique National STEPwise	17844
+Système Statistique National TIC	18291
 Système Statistique National Tableau	10874
 Système Statistique National UA	17830
 Système Statistique National UNICEF	17945
 Système Statistique National du Burundi	13334,108,247
-Système Statistique National. Article	16616
+Système Statistique National. Article	16616,1479
 Système Statistique National. CHAPITRE	16616
 Système Statistique National. Cascade de Tanougou	15479
+Système Statistique National. Cependant	18169
 Système Statistique National. Ces	17978
 Système Statistique National. Des	16417
 Système Statistique National. Elle	16233,1712
-Système Statistique National. Il	16373
+Système Statistique National. En	18169
+Système Statistique National. Il	16373,1722
 Système Statistique National. Ils	3045,12712
 Système Statistique National. Le Conseil National	16616
 Système Statistique National. Page	16616
 Système Statistique National. UNE CONTINUITE LOGIQUE	9277
+Système Statistique National.L'organe	18191
 Système Statistique PSN National Action	10874
 Système Statistique PTF	10874
+Système de Statistique National	18149
 Systèrne Statistique National	13334
 SÉMINAIRE SUR L’AMÉLIORATION DES STATISTIQUES SUR	15670
 T Statistics Namibia Population System	12327
@@ -2816,6 +2970,7 @@ TBTuberculosis Kenya Vital Statistics Report	12151
 TH STREET-SINKOR OPPOSITE CONEX GAS STATION	17334
 THIRD QUARTER SECTOR STATISTICS REPORT	6671
 THIRTEEN POLICE STATIONS	12763
+TICE Direction des Statistiques	18171
 TIME SCHEDULE ON RELEASEOF STATISTICAL DATA	16833
 TITRE III DE L'INFORMATION STATISTIQUE ARTICLE	17535
 TRANSPORT AND COMMUNICATION STATISTICS UNIT	16992
@@ -2888,7 +3043,7 @@ UPI Product Statistics	11138
 USE OF OFFICIAL STATISTICS	17149
 Uganda Bureau of Statistics	3026,3626,1875,268,351,176,66,667,767,1884,1482,192
 Uganda’s National Statistical System	10055
-Un Système Statistique National	17842
+Un Système Statistique National	17842,327
 Unit Statistics Mauritius	14836
 United Nations Development Programme UNDP and Statistics	14767
 United Nations Fundamental Principles of Official Statistics	11201,1701,247,156,1414,2144,253
@@ -2910,6 +3065,7 @@ Users of Mauritius Statistics	14777
 Users of Our Statistical Products	17116
 Utilisateurs de Statistiques Officielles	17978
 V INTRODUCTION Le Système Statistique National	17945
+V. PRODUCTION STATISTIQUE Q3.12 Quelles	18169
 VHF Stations MMSI Allocation Callsign Allocation	17250
 VIII Foreword The Socioeconomic Statistical Bulletin	16935
 VISA STATISTIQUE Article	15561

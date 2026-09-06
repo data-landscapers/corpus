@@ -1,7 +1,7 @@
 AA KENYA PLC Data Processor INST-2067513A5DB	7167
 ABSA BANK KENYA PLC Data Controller	7167
 ABSA BANK KENYA PLC Data Processor	7167
-AEDC Abuja Electricity Distribution Plc ATC&C	12062
+AEDC Abuja Electricity Distribution Plc ATC&C	12062,6124,31
 AURORA ALLIANCE PLC Data Controller INST-767765F81B7	7167
 AURORA ALLIANCE PLC Data Processor INST-767765F81B7	7167
 AUTO SPRINGS EAST AFRICA PLC Data	7167
@@ -56,8 +56,8 @@ Description Vodacom Tanzania PLC	4521
 Destination MTN Rwandacell Plc Airtel Rwanda	15136
 Development Standards and Research PLC Programmable Logic	12975
 Dimension Data SPV Funding Plc	8186
-Distribution Plc EKEDP Eko Electricity Distribution	12062
-Distribution Plc PP Percentage	12062
+Distribution Plc EKEDP Eko Electricity Distribution	12062,6124,31
+Distribution Plc PP Percentage	12062,6124,31
 Dot Com Zambia PLC	6187
 Dot Com Zambia PLC Chief Executive	6187
 EAST AFRICAN CABLES PLC Data Controller	7167
@@ -66,7 +66,7 @@ EAST AFRICAN PORTLAND CEMENT PLC Data	7167
 East Africa Breweries PLC Data Controller	7167
 East Africa Connecting Europe PLC Public	6671
 Ecobank Rwanda Plc Partners I and M	12358
-Electric Plc JED Jos Electricity Distribution	12062
+Electric Plc JED Jos Electricity Distribution	12062,6124,31
 Energies Marketing Kenya PLC	12256
 Energies Marketing PLC	12256
 Energy PLC Sosian	12256
@@ -81,12 +81,12 @@ HSBC Bank Plc	12252
 Helios Towers PLC	460,957,17
 Helios Towers Plc	16776
 Helios Towers Plc. Pledge	16776
-IBEDC Ibadan Electricity Distribution Plc IEDN	12062
+IBEDC Ibadan Electricity Distribution Plc IEDN	12062,6124,31
 IHS Nigeria Plc	80
 Indicator Safaricom PLC Kenya Ltd Jan-Mar	6671
 Jaiz Bank Plc	4771
 Jethi Software Development PLC	14077
-KEDCO Kano Electricity Distribution Plc	12062
+KEDCO Kano Electricity Distribution Plc	12062,6124,31
 KIPETO ENERGY PLC SOSIAN MENENGAI GEOTHERMAL	12256
 KenGen PLC	1722
 Kenya Electricity Generating Company PLC	1722
@@ -129,12 +129,12 @@ PLC's	6985
 Parliamentary Legal Committee The PLC	8681
 Person PLCs Public Limited Companies POS	15023
 Plc Access Bank	12358
-Plc CAPEX Capital Expenditure CCU Customer	12062
-Plc EPSRA Electric Power Sector Reform	12062
+Plc CAPEX Capital Expenditure CCU Customer	12062,6124,31
+Plc EPSRA Electric Power Sector Reform	12062,6124,31
 Plc Equity Bank Rwanda Plc REG	12358
 Plc European Investment Bank NCBA Bank	12358
-Plc KAEDC Kaduna Electricity Distribution Plc	12062
-Plc TLF Transmission Loss Factor YEDC	12062
+Plc KAEDC Kaduna Electricity Distribution Plc	12062,6124,31
+Plc TLF Transmission Loss Factor YEDC	12062,6124,31
 Plc The European Union BPR Bank	12358
 Plc The World Bank. Access Bank	12358
 Press Corporation PLC	14674
@@ -179,7 +179,7 @@ Vodacom Tanzania Plc	10678
 Vodafone Group Plc	1135,10859
 Wema Bank Plc	4771
 Wireless Communications Plc	15471
-Yola Electricity Distribution Plc	12062
+Yola Electricity Distribution Plc	12062,6124,31
 Zambia Consolidated Copper MinesInvestments Holdings Plc	13387
 Zambia National Commercial Bank PLC	12252
 Zenith Bank Plc	4771,6586,681

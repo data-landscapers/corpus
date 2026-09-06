@@ -13,6 +13,7 @@ Africa-BB-Maps VII. TRAVAUX EN GROUPE	13482
 Afrique Centrale GTT Groupe de Travail Thématique	11944
 Afrique. Traverser	2514
 Agence Nationale des Grands Travaux	15411
+Agence des Travaux	18395
 Agriculture Commerce Elevage Couture Maçonnerie Travail	10841
 Analyse du Marché du Travail	14622
 Annexe E TRAVAIL DES ENFANTS NO	13300
@@ -70,6 +71,8 @@ Code du Travail. Art	15598
 Code du Travail. Chapitre V	15375
 Code du Travail. Fonction	18003
 Code du Travail. L'ASSEMBLEE NATIONALE ET	15598
+Code du Travail. Le Vice-Président	18327
+Code du Travail. Paragraphe	18288
 Code du Travail. Sous-section	1231
 Commission Consultative du Travail	3396
 Commission Nationale des Travaux	15411,100,7
@@ -103,6 +106,8 @@ DIRECTION NATIONALE Travail	16621
 DSA and Travels	16943
 DU CONTRAT DE TRAVAIL EFFECTIFS	15732
 DU TRAVAIL ET	17841
+DU TRAVAIL ET DE L'EMPLOI	18151,5
+DU TRAVAIL ET DE L'EMPLOILe Conseil	18191
 DU TRAVAIL ET DE LA PROTECTION	15454
 DU TRAVAIL ET DE LA SECURITE	15465,315,676
 DURANT LES DEUX JOURS DE TRAVAUX	16233
@@ -112,6 +117,7 @@ Directeur Central du Ministère des Travaux Publics	16381
 Directeur Central du Ministère du Travail	16381
 Direction Générale des Grands Travaux GDP Directorate	15372
 Direction Générale des Travaux Topographiques	15375
+Direction des Statistiques du Travail	18291
 Domestic Travel	15060
 Données du Bureau International du Travail	15474
 Droits Fondamentaux du Travail	15901
@@ -156,13 +162,14 @@ Foreigner Travel Document	12333
 Formation des Travailleurs Sociaux	17812
 Frequent Traveller Express Pass	17687
 Fête Du Travail Sous Le Sceau	15625,1
-Fête du Travail	2808,13199
+Fête du Travail	2808,13199,2314
 GENIE TRAVAUX Article	15395
 GROUPE DE TRAVAIL CONJOINT Afin	15732
 Gabonaise. MINISTÈRE DES TRAVAUX PUBLICS ET	16381
-Grands Travaux	7106,8407
+Grands Travaux	7106,8407,2780
 Groupe Technique de Travail	16291,1786
 Groupe de Travail	11944,3669,2211,6
+Groupe de Travail Abris	18265
 Groupe de Travail Interne	10975
 Groupe de Travail Pluridisciplinaire MASPFE	16621
 Groupe de Travail Technique	15685
@@ -184,13 +191,18 @@ Implementation of Electronic Travel Authorisation	5533
 Implementation of Electronic Travel ETA	11986
 Information PTA Plan de Travail Annuel PTF	10712
 Ingénieur des Travaux Statistiques	13937
+Ingénieur des Travaux Statistiques MAPS	18291
+Ingénieur des Travaux Statistiques OOAS Organisation Ouest	18169
+Ingénieurs des Travaux Statistiques	18169
 Initiatives de Développement des Travail	17817
+Inspecteur du Travail	18400,2,1
 Inspecteurs du Travail	15361
 Inspection du Travail Améliorer	15999
 Institut National de For- TRAVAILLEURS SOCIAUX	17812
 Institut National de Formation des Travailleurs Sociaux	17812
 International Travel Grant	14742
 Internationale du Travail	15901
+Intrants EXTRANTS Plan de Travail Annuel JALONS	18286
 Islamic Forum Life Xtra Property Travel	9878
 J TRAVAUX DE CONTRUCTION	16623
 Journal Officiel. Ministre du Travail	17817
@@ -200,7 +212,7 @@ LA LÉGISLATION DU TRAVAIL	14424
 LANCEMENT OFFICIEL DES TRAVAUX	16724
 LE TRAVAIL	13300
 LIEU DE TRAVAIL	13300
-Le Directeur Général du Travail	17913
+Le Directeur Général du Travail	17913,225
 Le Groupe de Travail	11944
 Le Groupe de Travail Technique	15685
 Le Ministre des Travaux Publics	15400
@@ -212,6 +224,8 @@ Les Groupes de Travail Thématiques	11944
 Les Plans de Travail	3396
 Liberia National Police Travel	17011
 Long-Distance Travels With Carpooling Platform Pip	7324
+L’Agence des Travaux	18395
+L’EMPLOI ATS ASSISTANT DES TRAVAUX STATISTIQUES	18143
 L’achèvement des Travaux	17907
 MARCHES DE TRAVAUX	1649
 MATION DES TRAVAILLEURS SOCIAUX	17812
@@ -231,7 +245,8 @@ MSJ BAKIR Nadia Ministère du Travail	15472
 MSJ CHEBBAB Miloud Ministère des Travaux Publics	15472
 Machine-Readable Travel Documents	12164
 Mahé. The Travizory	17678
-Marché du Travail	10944,3678,1052,2271
+Malgré des Plans de Travail Annuel	18297
+Marché du Travail	10944,3678,1052,2271,341
 Marchés Publics PTBA Plan de Travail	10876
 Marchés de Travaux Il	10876
 Mauritanie ETER Etablissement des Travaux	17907
@@ -241,7 +256,7 @@ Ministre du Travail	14463,898,57,2394
 Ministère des Travaux	3231
 Ministère des Travaux Pu	16381
 Ministère des Travaux Publics	3231,12169,142,495,344,235
-Ministère du Travail	1281,46,690,2140,241,4,18,4330,2071,55,4485,113,68,839,260,807
+Ministère du Travail	1281,46,690,2140,241,4,18,4330,2071,55,4485,113,68,839,260,807,838
 Monsieur Cheick TRAVALY. Le Ministre	15454
 MyT Travel	7367
 Mécanisme de Gestion des Plaintes des Travailleurs	15908
@@ -263,22 +278,26 @@ Organisation Internationale du Travail	643,13781,1191,708
 Organisation Mondiale du Travail	15901
 PEACE- WORK- FATHERLAND PAIX- TRAVAIL- PATRIE	10980
 PRESIDENCE DE LA REPUBLIQUE TRAVAIL	16637
+PRNfMAG Fraternité- Travail-Progrès	18115
 PROMOTION DU TRAVAIL	15999
 PTA Le Plan de Travail Annuel	10876
 PTA Travail Annuel	14537
 Parti Congolais du Travail	15465,991
+Passation de Marchés de L’Agence des Travaux	18395
 Pires Formes de Travail	3396
 Pires Formes de Travail des Enfants	13442
-Plan de Travail	3816,7060,5123,156,78
+Plan de Travail	3816,7060,5123,156,78,2181
 Plan de Travail Annuel	3469,3213,4030,162,2,4893,230
 Plan de Travail Annuel Améliorer	15999
 Plan de Travail Annuel Budgétisé PTF	15423
 Plan de Travail Annuel Nombre	15999
 Plan de Travail Annuel PTF	10874
-Plans de Travail Annuels	10712
+Plans de Travail Annuels	10712,7574
 Plans de Travait Budgétaires Annuels	15530
 Politique Nationale du Travail	17827
 Portant Code du Travail	14488,1,1
+Postes de Travail	18194
+Postes de Travail de Bureau Lot	18194
 Pourcentage de Travailleurs	14490
 Prestataire. XVI. LANGUE DE TRAVAIL	13635
 Privé I.P. Travaillant	10847
@@ -288,6 +307,8 @@ Pro- Travaux	15901
 Procurement THIMO Travaux	10964
 Programme Général de Travail	14622
 Programme Général de Travail Ressources Humaines	14622
+Programme de Travail	18210
+Programme de Travail Pluriannuel	18291
 Programme de Travail Trimestriel RESA	10874
 Promotion du Travail	8891
 Public Service Travel	11986
@@ -298,12 +319,14 @@ REPUBLIQUE DE GUINEE Travail	16623,13
 REPUBLIQUE DE GUINEE Travail-Justice-Solidarité	7977,8639,4
 REPUBLIQUE DE GUINEE Travail-Justice-Solidarité PRESIDENCE	16616
 REPUBLIQUE DE GUINEE Travail-justice	16646
+REPUBLIQUE DU NIGER Fraternité Travail Progrès	18118
 REPUBLIQUE TOGOLAISE Travail	2966
 REUNIONS DE TRAVAIL ORGANISEES AU PROFIT	15670
 REVENUS DU TRAVAIL	17485
 Rang Travail	15599
 Renseignements Travaux de Planification	17982
 Republic of Seychelles and Travizory Border Security SA	17678
+Responsable Activités Travaux	18118
 RÉPUBLIQUE DE GUINÉE Travail-Justice-Solidarité PRESIDENCE	16616
 Réception des Travaux	17846
 Régime des Travailleurs Mobiles	16175
@@ -324,6 +347,7 @@ Sanitaire de Premier Contact HDc Groupe de Travail	15711
 Services Requiring Monrovia Travel	17139
 Sid Ali ZERROUKI. MINISTERE DU TRAVAIL	16230,114
 Single Travel Emergency Passport	4102
+Social Travail	18112
 Société Générale des Travaux	16177
 South Africa's Electronic Travel Authorisation	9076,159
 South African Passports and Travel Documents Act	5533,6453
@@ -336,10 +360,12 @@ Subvention des Travaux	15901
 Syndicat des Travailleurs	11630
 Système Local Formation des Travailleurs	17845
 SÉCURITÉ AU TRAVAIL	16714
+Sénégal Travail	18291
 T GUINEENS DES TRAVAUX BATIMENTS	16623
 T SOCIETE GUINEENNE D'INFRASTRUCTURES DE TRAVAUX	16623
 THEMATIQUE Destination Période VISITE DE TRAVAIL	998
-TRAVAIL	10906,60,4407,63,33,16,514,345
+TRAVAIL	10906,60,4407,63,33,16,514,345,1756
+TRAVAIL DE L'ADMINISTRATION Maître	18194
 TRAVAIL DES ENFANTS NO. QUESTIONS ET	13300
 TRAVAIL DES ENFANTS Selon la Convention	13300
 TRAVAIL E Ameh orer	15999
@@ -379,7 +405,7 @@ Tourists and Travelers Importation Of Goods Rules	12454
 Travado	12148
 Travagliato	17039
 Travai	15354
-Travail	37,197,409,641,553,677,224,503,85,30,40,32,992,147,246,290,964,546,363,508,171,136,52,135,31,218,42,33,202,11,70,306,111,744,268,280,179,137,81,121,9,5,49,19,19,31,31,176,10,486,1653,14,17,10,101,358,541,82,1,39,25,1,1,39,825,25,16,10,18,3,13,16,9,1,23,13,23,9,25,16,29,12,24,21,13,8,11,20,15,17,2,34,6,62,41,12,32,79,27,2,6,53,75,2,70,27,88,5,14,23,9,12,31,160,1,8,3,86,26,738,37,297,5,10,2,12,3,4,26,25,14,32,2,6,29,1,9,3,4,4,27,2
+Travail	37,197,409,641,553,677,224,503,85,30,40,32,992,147,246,290,964,546,363,508,171,136,52,135,31,218,42,33,202,11,70,306,111,744,268,280,179,137,81,121,9,5,49,19,19,31,31,176,10,486,1653,14,17,10,101,358,541,82,1,39,25,1,1,39,825,25,16,10,18,3,13,16,9,1,23,13,23,9,25,16,29,12,24,21,13,8,11,20,15,17,2,34,6,62,41,12,32,79,27,2,6,53,75,2,70,27,88,5,14,23,9,12,31,160,1,8,3,86,26,738,37,297,5,10,2,12,3,4,26,25,14,32,2,6,29,1,9,3,4,4,27,2,64,1,2,2,4,13,1,17,33,2,58,57,2,3,21,20,68,2,1,9
 Travail ANNEXE I AU DECRET N	10906
 Travail ANNEXE II AU DECRET N	10906
 Travail ARTICLE	17812
@@ -392,6 +418,7 @@ Travail DIALOGUE SOCIAL	17841
 Travail DIRECTION GENERALE DU BUDGET Octobre	15840
 Travail Disponibilité	14488,1,1
 Travail Gouvernemental	17882
+Travail ID	18422
 Travail MPME Micro	16626
 Travail Ministère	16529
 Travail OMC Organisation	17881
@@ -407,6 +434,7 @@ Travail Parlementaire	9480
 Travail RAPPORT D’ACTIVITÉS	10821
 Travail Social	17812
 Travail Unité de Gestion du Projet Violences Basées	14424
+Travail des DSDS	18291
 Travail des Enfants F.N.D.STAT	17842
 Travail's FEC	16370
 Travail- Solidarité	16635
@@ -415,23 +443,24 @@ Travail. Ce	8515
 Travaillait	13300
 Travaillant	10847,3687,940
 Travaille	13300
-Travailler	8515,3528,1347,2280,178,798
-Travailleur	737,17208
-Travailleurs	737,10139,3612,1,1,1195
+Travailler	8515,3528,1347,2280,178,798,1645
+Travailleur	737,17208,259
+Travailleurs	737,10139,3612,1,1,1195,2727
 Travailleurs Migrants	10841
 Travailleurs Pendant	14489
 Travailleurs Sociaux	17812
 Travailleurs du Projet	14424,65,1
 Travailleurs du Projet Phase	14489,1
 Travailleux	16672
-Travaillez	13405
+Travaillez	13405,4783
 Travaillez-vous	13300
 Travailliste	14841
 Travaillons	10795
 Travails	10962
-Travaux	737,912,341,352,624,265,637,257,277,3365,2463,165,316,164,1,88,11,10,2315,142,215,114,111,4,5,17,511,159,817,147,59,144,156,35,216,23,147,22,17,173,18,162,1114,18,2,34,100,25
+Travaux	737,912,341,352,624,265,637,257,277,3365,2463,165,316,164,1,88,11,10,2315,142,215,114,111,4,5,17,511,159,817,147,59,144,156,35,216,23,147,22,17,173,18,162,1114,18,2,34,100,25,136,27,21,36,64,24,7,2
 Travaux Au	10975
 Travaux Ministère	1297,14152,799
+Travaux Pratiques UPTIME	18118
 Travaux Publics	643,12799,1047,1,926,126,561,538,1176
 Travaux Publics CDH Commissariat	17907
 Travaux Publiques	2342
@@ -473,7 +502,7 @@ Travelex and Ria Money Transfer	8840
 Traveling	17376
 Traveller	10173
 Travellers	7507,4693
-Travelling	9666,5070,6
+Travelling	9666,5070,6,3357
 Travelling Child Sex Offending	12459
 Travelling and Transport	14736
 Traveloka	11994

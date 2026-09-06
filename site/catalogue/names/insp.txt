@@ -144,6 +144,7 @@ Headquarters INSP	14760
 Health Inspectorate	12606
 IC Inspection	17885
 IDEN Inspection	17885
+IDH Indice de Développement Humain IGE Inspection	18286
 IDP General Inspectorate	11905
 IGAE Inspecção-Geral da Administração	11380
 IGE Inspection Générale	16626,1389
@@ -182,6 +183,7 @@ INSP Unicef	17845
 INSP. AMOS OBENG GIS NADMO	15845
 INSP. Ce	13306
 INSP. Une	13306
+INSPA	18269
 INSPEC	4209
 INSPEC. DIRECTIVO POLICIA LOGISTICA E EXTRANJERIA	4209
 INSPEC. GRAL	4209
@@ -226,6 +228,7 @@ INSPECCION GRAL. SERVICIOS	4209
 INSPECCION REGIONAL.- Concepto	4209
 INSPECCIÓN	4209
 INSPECCIÓN GENERAL DE FINANZAS	4209
+INSPECTEUR DE L’ENSEIGNEMENT DE BASE IEN	18143
 INSPECTION	15149
 INSPECTION AND INVESTIGATORY POWERS	17249
 INSPECTION DES FINANCES	15744
@@ -243,6 +246,7 @@ INSPECTIVA	11452
 INSPECTOR GENERAL DE SERVICIOS	4209
 INSPECTOR GENERAL DOUGLAS KANJA ATTENDS PRESENTATION	14467
 INSPECTOR REGIONAL MINISTERIO	4209
+INSPER	18318
 INSPIRE-O	12980,131
 INSPIRE-O Key Project Data Government Request	12980
 INVESTIGATION INTO AFFAIRS OF COMPANY Inspection	3714
@@ -268,7 +272,7 @@ Inspecionar	15526
 Inspect	6423,2257,8198,85
 Inspect ICS	12358
 Inspected Studios	6946
-Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536,446,878,2175,1532,137,33,74,68,104,94,233,112,1525,5,2,8,14,20,121,50,55
+Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536,446,878,2175,1532,137,33,74,68,104,94,233,112,1525,5,2,8,14,20,121,50,55,313,2,1,9,15
 Inspecteur B1	17982
 Inspecteur Bamako	17982
 Inspecteur Central	15415
@@ -276,10 +280,11 @@ Inspecteur Divisionnaire des Contributions Directes	16047
 Inspecteur General des Finances	16381
 Inspecteur Général	13360,4535
 Inspecteur Général Adjoint des Services	16175
-Inspecteur Général des Services	3191,12984,206
+Inspecteur Général des Services	3191,12984,206,1762,27
 Inspecteur Général des Services Adjoint	16175
 Inspecteur Général du HCR Case Postale	13360
 Inspecteur Ordre National des Vétérinaires	17829
+Inspecteur Principal du Trésor	18400,2,1
 Inspecteur STATUANT EN CONSEIL DES MINISTRES	17827
 Inspecteur de Police Aïssata CISSE Secrétaire	17819
 Inspecteur de Police Fatoumata DIARRA	17819
@@ -289,7 +294,7 @@ Inspecteur de Police Secrétaire	17819
 Inspecteur de Police YELLEN	17819
 Inspecteur de Secrétaire	17819
 Inspecteur des	17827,155
-Inspecteur des Affaires	8269
+Inspecteur des Affaires	8269,10143
 Inspecteur des B2	17982
 Inspecteur des C Timbre Services	17982
 Inspecteur des Ch	17827
@@ -310,19 +315,22 @@ Inspecteur des Services Economiques Adm	17827
 Inspecteur des Services Economiques Impôts	17827
 Inspecteur des Services Groupements Economiques	17827
 Inspecteur du Collectivités Trésor	17982
+Inspecteur du Travail	18400,2,1
 Inspecteur du Tré	17827
 Inspecteur du Trésor	17827,14,58,83
 Inspecteurs	15474,1968,399,20,38,83,21
 Inspecteurs Contrôleurs	11676
 Inspecteurs Contrôleurs Fiscaux	11676
 Inspecteurs Vérificateurs	16175
+Inspecteurs de Services	18143,27
 Inspecteurs des Finances	17899
 Inspecteurs des Services	16381,1518
 Inspecteurs des Services Adjoints	16381
 Inspecteurs des Services Assistants	16381
+Inspecteurs des Services Statistiques	18169
 Inspecteurs du Travail	15361
 Inspecteurs du Trésor	17899
-Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105,303,236,78,210,126,9,61,71,16,70,28,383,222,253,64,1,1,253,179,159,94,30,135,83,51,95,101,15,37,2,275,616,3,10,6,80,228,21,15,179,93,569,8,2,44,9,17,17,56,43,17
+Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105,303,236,78,210,126,9,61,71,16,70,28,383,222,253,64,1,1,253,179,159,94,30,135,83,51,95,101,15,37,2,275,616,3,10,6,80,228,21,15,179,93,569,8,2,44,9,17,17,56,43,17,74,117,63,5,36,43,62
 Inspection Act	15478
 Inspection Coverage	16978
 Inspection EDO	12253
@@ -330,12 +338,13 @@ Inspection Generale	8651,1473,3168
 Inspection Gé- Ministère	17812
 Inspection Général	18087
 Inspection Général de Division Abdoulaye MAIGA	17899
-Inspection Générale	557,8193,1374,1781,1537,1981,289,224,1980
+Inspection Générale	557,8193,1374,1781,1537,1981,289,224,1980,203,119
+Inspection Générale de Services	18105
 Inspection Générale des Douanes	13809
-Inspection Générale des Finances	969,2635,374,3645,1127,6622,197,89,54,1746
+Inspection Générale des Finances	969,2635,374,3645,1127,6622,197,89,54,1746,661,119
 Inspection Générale des Finances- IGF	969
 Inspection Générale des Finances. Article	15569
-Inspection Générale des Services	16099,282
+Inspection Générale des Services	16099,282,1724
 Inspection Générale des Services Judiciaires	15783
 Inspection Générale du Ministère	15658,1800
 Inspection Information	12253
@@ -365,6 +374,7 @@ Inspection des Postes	15493
 Inspection des Services	8237,9604
 Inspection des Services Bamako	17841
 Inspection des Services Protection	17827
+Inspection des Services Statistiques	18169
 Inspection des Services Vu le Décret	17841
 Inspection des Services de Sécurité	17827
 Inspection des Services des Impôts	10978
@@ -377,7 +387,7 @@ Inspection of Products	16900
 Inspection of Proposal Document	17334
 Inspection of Schools	12975
 Inspection of Site Monthly	12253
-Inspections	718,1270,3180,5608,1477,136,796,235,1322,928,231,198,1081,63,584,14,44,14,133
+Inspections	718,1270,3180,5608,1477,136,796,235,1322,928,231,198,1081,63,584,14,44,14,133,67,10,209,52
 Inspections Générales des Services	16099
 Inspections PPPC	12253
 Inspections PPPC During Construction E-Government	12253
@@ -389,8 +399,9 @@ Inspections and Enforcement	15261
 Inspections and ISO	13320
 Inspections and Tests	13185
 Inspections de Circonscription	17885
+Inspections-reforms	18318
 Inspectiôt	15999
-Inspector	11452,1869,149,643,632,15,2095,483
+Inspector	11452,1869,149,643,632,15,2095,483,980
 Inspector Diplomático	15380
 Inspector Distrital de Evinayong Ilmo. Sr. Don	16920
 Inspector Distrital de Mongomo Ilmo. Sr. Don	16920
@@ -441,6 +452,7 @@ Inspector-General of Police Olatunji Disu	14697
 Inspector-General of Police. ANNEXURE B DEPUTY INFORMATION	13096
 Inspector-Geral	15359
 Inspector-Geral da Administração	11452
+Inspector-selected	18318
 InspectorGeral	15359
 Inspectora General de Servicios Departamento de Estadísticas	16962
 Inspectora General de Servicios Equipo Técnico Filomena	16969
@@ -456,8 +468,9 @@ Inspectorate of Government	12319
 Inspectores	4209,7243
 Inspectores da IGAE	11452
 Inspectores de Hacienda Pública	4209
-Inspectors	9736,2790,449,495
+Inspectors	9736,2790,449,495,4848,52
 Inspectors and Auditors	12900
+Inspectors’ Audit Execution Decisions	18318
 Inspects Progress	2800
 Inspecção	167,3352,7247,618,68,3907
 Inspecção Ambiental	11542
@@ -516,6 +529,7 @@ Kenya Plant Health Inspectorate Services	10313
 Kenya Plant Inspectorate Services	10313
 Key Achievements Inspection	12975
 Key Lessons and Inspiring Aspects	12726
+LA RÉFÉRENCE IES INSPECTORAT D’ENSEIGNEMENT SECONDAIRE	18143,27
 LE SYSTÈME Inspectrice Aisha Manneh Administration	16633
 LV Inspector Training	16848
 Labor Inspection	16949
@@ -596,6 +610,7 @@ PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL	4209
 PUBLIC HEALTH AND FOOD SAFETY INSPECTORATE	14773
 Painel de InspecçãoInspeção Independente	11898
 Part B Inspection	11181
+Particulier Inspection Générale des Services	18143
 Periodic Audits and Inspections Periodic	5665
 Periodicidade da Actividade Inspectiva	11452
 Physical Condition Check Inspect	13185
@@ -664,7 +679,10 @@ Sub Inspector of Police SMF	14760
 Superviser INSP Etat	17845
 Survey and Inspection	1000
 Sustainability OUR MOTO Inspiring Development	718
+TECHNOLOGIE DU NIGER IEB INSPECTEUR	18170
 TIC Inspection Volume	15467
+Tax Inspector Survey	18318
+Tax Inspectors	18318
 Tax Inspectors Without Borders. Today	11356
 Telecommunications Inspection	6946
 Temporary Chief Inspector of Police	14760

@@ -110,7 +110,7 @@ Bulk Data Exchange for Evidence-based Policy	11222
 Bulk Data Transfer Live Data Sharing	14725
 Bulk Disbursements	12269
 Bulk Electricity Tariffs Regulatory Policy Framework	12320
-Bulk Electricity Trading	12062
+Bulk Electricity Trading	12062,6124,31
 Bulk LPG	12256
 Bulk Minerals and Ores	16285
 Bulk Payment	6804
@@ -129,26 +129,30 @@ Bull World Health Organ	766,5,10009,101
 Bull&author	1219
 Bull&title	1219,42
 Bulldozers Water	12253
-Bulletin	17,291,261,166,263,865,562,351,585,535,780,2979,77,872,287,1874,10,101,288,474,306,1349,32,1212,125,4,214,587,40,38,50,90,42,158,22,54,82,206,1,13,372,87,221,214,282,1,3,2,7,4,36,43,332,78,33,99
+Bulletin	17,291,261,166,263,865,562,351,585,535,780,2979,77,872,287,1874,10,101,288,474,306,1349,32,1212,125,4,214,587,40,38,50,90,42,158,22,54,82,206,1,13,372,87,221,214,282,1,3,2,7,4,36,43,332,78,33,99,209,5
 Bulletin Board	13461,1
 Bulletin Board ESS External Sector Statistics	14777
 Bulletin Boards	16943
 Bulletin EE JAMHUURIYADDA SOOMAALIYA Sanadka	14906
 Bulletin Fiscal	17872
-Bulletin N	10979
+Bulletin Météo TV du Lundi	18360
+Bulletin N	10979,7325
 Bulletin National	17978
-Bulletin Officiel	2425,1384,87,6108,4845,594,39,1957,4,14,4,355
+Bulletin Officiel	2425,1384,87,6108,4845,594,39,1957,4,14,4,355,306,192
 Bulletin Officiel du Burundi	13293,30,2,5
 Bulletin Officiel. ARTICLE	17535
 Bulletin Officiel. Fait	17535
 Bulletin SNIS N	16722
+Bulletin Statistique JusticeInfo	18111
+Bulletin Statistique JusticeInfo N	18111
 Bulletin Statistiques CCAA	15542
+Bulletin Trimestriel	18365
 Bulletin de Performance Sanitaire	16722
 Bulletin de Performance Sanitaire N	16722
 Bulletin des Statistique	15480
 Bulletin of Vital Statistics	10775
 Bulletin2023.pdf REPUBLIC OF LIBERIA VOL	16935
-Bulletins	8718,2158,4482,1,33,4,8,29,7,10,27,26,1,22,6,157,5,11,67,140,43,64,3,34,33,33,16,81,28,43,86,245
+Bulletins	8718,2158,4482,1,33,4,8,29,7,10,27,26,1,22,6,157,5,11,67,140,43,64,3,34,33,33,16,81,28,43,86,245,1568
 Bulletins Bases	17993,96
 Bulletins Mensuels N	18077
 Bullion	10
@@ -190,6 +194,7 @@ DES BULLETINS DE VOTE Article	15727
 DITION Bulletin T2	16722
 DM Bulwer KZN O R Tambo	11986
 DU BULLETIN DE VOTE	17861
+Daily Bulletin10	18309
 Darussalam Bulgaria Burkina Faso Cuba Libya	10764
 Daryeelka Bulshada	14906
 Data Bulletin	2668
@@ -201,6 +206,7 @@ Dry Bulk Import Volumes	17909
 Ebla Mohamed Bulle Data Processor INST-7783666D875	7167
 Economic Bulletin	12962,4273
 Elaborer le Bulletin INSTAT	17842
+Energie Bidaness Bulding VDN Mermoz B.P	18322
 Energy Sector Statistical Bulletin	13479
 Enterprise Bulk Messaging	3862
 Environment Bulletins	3513
@@ -209,6 +215,7 @@ European Union. In J. B. Bullock	17780
 Evaluation. CBN Bullion	10
 Fee Regulatory Fee Petroleum Bulk Transport	17250
 Ferreira Bulha Inhambane Francisco Manuel Pagula	12201
+Flood Warning Bulletins	18309
 Food and Nutrition Bulletin	12255
 Fort Bullen Site Museum	17105
 France Host the Bulk of Content	6542
@@ -258,6 +265,7 @@ Metropolitan-Harare and Bulawayo	736
 Ministry of Commerce Trade Statistical Bulletin	13479
 Mkhomazi Bulk Water Supply Scheme Construction	11248
 Mombasa Bulk Terminal Ltd	12256
+Monthly Bulletin12	18309
 MonthlyStatistical Bulletin	16833
 Moretele North Klipvoor Bulk Water Supply	11248
 Mowqifka Ururrada Bulshada Rayidka	15238
@@ -324,6 +332,7 @@ Tanzan Health Res Bull	1261
 Tax Statistics Bulletin and Monthly Bulletins	13479
 TechAfrica News Today's Bulletin	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
 Telenor Bulgaria EAD	15471
+Ten Agrometeorological Bulletin	18309
 Territory Brunei Bulgaria Burkina Faso Burundi	11470
 Thumbnail Available Bulletin Land	16937
 Today's Bulletin	9899

@@ -568,6 +568,7 @@ Monitoring and Alerts Requirement	11952
 Multilateral Settlement Request	12364
 Mutuário. Instrumentos A&S Requeridos	11542
 My Requests	11877
+NA C. Overview of Required Environmental and Social	18374
 NA Requires	10908
 NGDX Operator Requirement	11952
 NGOs and CBOs Request	17114
@@ -898,7 +899,7 @@ Requesting Officer	34,12330
 Requesting Unit	10870,2188,4412,35
 Requesting and Receiving Information	14113
 Requestors and Providers	3815
-Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68,212,58,21,99,525,531,11,143,131,57,8,1,79,584,390,89,149,105,143,159,313,796,140,302,208,1,3,902
+Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68,212,58,21,99,525,531,11,143,131,57,8,1,79,584,390,89,149,105,143,159,313,796,140,302,208,1,3,902,492,56
 Requests ARTICLE	15484
 Requests and Complaints First	15484
 Requests for Expression of Interest	15663
@@ -918,7 +919,7 @@ Require SSHv2	10721
 Require TLS	14997
 Require Transparent Reporting	12675
 Require the FM	3604
-Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775,175,3,77,452,172,19,65,11,441,169,192,285,146,137,1133,647,16,11,534,889,516,46,25,18,82,128,482,54
+Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775,175,3,77,452,172,19,65,11,441,169,192,285,146,137,1133,647,16,11,534,889,516,46,25,18,82,128,482,54,382
 Required Breakeven Revenue	10738
 Required Budget for Ethiopian National Strategy	13965
 Required C. Lessons Learned and Reflected	17441
@@ -1018,6 +1019,7 @@ Requirements. Specifies	11269
 Requirementsforlocalclinicalval-	8301
 Requires	961,2900,1804,767,1810,882,1732,146,1004,363,75,741,496,2186,965,35,247,146
 Requires APIs	12444
+Requires ESIA	18370
 Requiring	961,282,3285,835,2108,3304,230,74,77,1146,210,370
 Requiring Acceleration	14022
 Requiring RIRs	3502
@@ -1054,9 +1056,10 @@ Requisitos de Zoneamento	11898
 Requisição de Declarantes	11452
 Requisição de Emissão	11419
 Requisição de Serviço Técnico Especializado	549
+Requérant	18292
 Requérir	11932
 Requête	10821,2554,15,358,1681,2390
-Requêtes	14480
+Requêtes	14480,3887
 Requêtes. Chaque Chambre	15703
 Reserve Requirements Ratios	17235
 Reserves Requirements	11228

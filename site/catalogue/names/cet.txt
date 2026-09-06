@@ -1,6 +1,8 @@
 A.B.NOR.M. Cette	15412
 ACCEDER A VOTRE ESPACE PROFESSIONNEL Cette	6954
+AES. Cette	18216
 AFJB. VII. MÉTHODOLOGIE Cette	13635
+AFP. Cette	18200
 AFRISTAT. Cette	16250
 AGRÉMENT-MS. Cette	9401
 AIGE. Cette	17861
@@ -8,7 +10,8 @@ AMI. Cette	17601
 ANADEN. Cette	5370
 ANATS. Cette	6089
 ANPDP. Cette	4122
-ANSD. Cette	16250
+ANPE. Cet	18143,27
+ANSD. Cette	16250,2041
 ANTIC. Cette	4210
 APDP. Cette	10821
 APDPVP. Cette	1231
@@ -24,6 +27,7 @@ Abidjan. Cet Accord	16323
 Abidjan. Cette	2342,7840
 Abomey Calavi. Cet	16250
 Aboudou. Cet	7113
+Actes Administratifs. Cette	18431
 Acusensus. Cette	8453
 Addis-Abeba. Cette	9502
 Administration Cette	15901
@@ -37,7 +41,7 @@ AfricaNenda Foundation. Cette	10266
 Afrique du Nord-Ouest. Cette	8002
 Afrique du Sud. Cette	3559
 Afrique-Asie Cette	10044
-Afrique. Cette	2443,13405,173,1491
+Afrique. Cette	2443,13405,173,1491,626
 Afrogestion Consulting Group. Cette	14712
 Agence Ecofin. Cette	3361
 Agence. Cette	9656,1319,2326
@@ -56,6 +60,7 @@ Ankara. Cet	2808
 Antaninarenina. Cette	14462
 Antoine Thomas Nicéphore FYLLA SAINT-EUDES. Cette	15558
 Aplahoué. Cette	5823
+Arrondissement Communale Niamey II. Cette	18118
 Arts Cette	18087
 Assemblée Nationale. Cette	15603,779
 Association. Cette	13515
@@ -80,6 +85,7 @@ Bangui. Cette	16106
 Banque Centrale. Cette	11614,330,5872
 Banque. Cet	15901
 Bantaba. Cette	8315
+Bassirou Diomaye FAYE. Cette	18375
 Bassirou Diomaye Faye PARTAGEZ CET ARTICLE	2442
 Bceao PARTAGEZ CET ARTICLE SUR	2828
 Benin. Cet	15616
@@ -147,10 +153,11 @@ CETIM Nouveau	16103
 CETIS	16942
 CETRORELIX ACETATE PDRE. ET SOLV. P	15930
 CETTE PAGE EST LAISSÉE BLANCHE INTENTIONNELLEMENT	13300
-CETUD	2478
-CFA. Cette	15727
+CETUD	2478,15813
+CFA. Cette	15727,2600
 CG-BZV- du CETF	15660
 CGI. Cet	15763
+CGI. Cette	18120
 CIB-AES. Cette	14204
 CIF. Cette	11944
 CIL. Cette	8886
@@ -172,6 +179,7 @@ CPSE. Cette	11958
 CRASC-SUD. Cet	15273
 CRC. Cette	13375
 CROCSAD. Cette	18077
+CRSE. Cette	18322
 CRÉATIVITÉ Cette	17983
 CSI. Cette	15685
 CSP. Cette	7892
@@ -191,6 +199,8 @@ Cet Agenda	16627
 Cet Aide-mémoire	13737
 Cet Appel	3715
 Cet Article	15901
+Cet Avis	18194
+Cet Avis de Demande de Renseignements	18395
 Cet INS	17882
 Cet ODD	17983
 Cetera EXCO Executive Committee FPSU Farmer	11261
@@ -202,10 +212,10 @@ Cetinventaire	15525
 Cetle	10813,4616
 Cetnro Nacional de Operações de Emergência	15966
 Cetta	15603
-Cette	12,5,125,22,70,74,128,111,1,95,92,2,6,4,1,235,15,7,180,2,2,42,35,21,10,294,7,81,127,112,49,17,6,6,73,192,2,20,29,2,11,2,1,4,10,28,6,1,10,6,10,15,22,2,11,25,56,6,14,2,26,1,11,5,9,20,2,35,28,2,1,4,23,9,7,12,7,10,17,1,7,22,2,38,8,11,1,5,31,4,17,6,12,11,5,12,5,62,62,18,13,19,20,4,10,3,30,7,9,9,10,3,5,29,23,2,5,2,1,9,10,2,11,1,14,5,9,5,1,6,1,25,15,1,5,3,13,4,3,16,2,11,4,7,14,25,8,22,7,3,1,24,22,30,12,2,1,34,7,31,24,10,10,8,1,4,4,2,18,6,7,7,10,9,1,3,9,55,3,21,21,1,50,26,27,30,16,24,7,14,7,18,2,20,1,7,31,4,52,9,1,6,14,8,4,13,3,19,18,39,90,1,1,16,1,30,75,10,1,10,1,21,3,26,34,33,1,1,1,4,19,32,4,19,26,5,33,35,4,7,10,11,5,11,11,3,15,8,1,4,9,26,3,3,33,3,48,14,2,20,32,5,44,22,11,13,11,6,28,21,15,4,13,9,1,13,15,4,2,4,14,1,15,27,21,62,6,11,12,18,2,14,3,16,1,1,5,6,10,5,20,28,16,5,7,14,11,24,14,11,11,2,16,4,6,27,11,4,62,8,15,2,5,9,14,25,26,17,36,7,1,10,1,25,15,25,75,7,1,37,36,4,5,14,18,3,1,57,12,8,19,2,1,5,10,5,41,13,1,5,2,22,57,34,15,7,10,13,3,10,6,24,5,1,15,50,5,17,1,24,9,21,1,20,23,31,1,6,9,3,24,15,4,15,2,1,29,1,8,13,31,1,7,3,1,2,1,13,23,13,1,15,5,2,2,17,43,4,3,25,6,4,3,21,1,18,40,11,2,15,1,11,21,10,7,1,2,17,1,8,6,5,1,7,2,4,1,1,1,4,1,19,12,1,3,1,11,1,2,1,4,31,15,8,21,14,4,8,5,15,30,1,3,7,2,3,16,6,1,10,10,6,6,32,2,1,1,4,29,2,1,27,5,1,1,2,5,12,12,2,1,4,2,4,29,1,1,5,23,13,38,4,1,5,3,1,4,20,24,31,1,8,1,15,2,6,11,1,3,27,4,6,6,49,1,15,16,17,2,1,3,8,1,1,7,16,25,1,10,9,32,2,1,13,2,2,6,6,23,6,6,1,5,5,4,19,1,1,1,4,9,1,1,10,4,5,7,1,34,2,3,14,5,30,4,30,1,5,3,5,7,19,28,37,11,1,17,14,9,12,26,1,5,46,16,24,5,4,11,8,19,5,20,26,3,4,1,1,7,1,7,1,30,1,16,15,45,3,1,58,1,3,15,15,4,7,3,6,24,8,27,4,14,1,11,7,5,1,3,14,1,18,48,13,23,6,12,52,3,5,1,2,1,2,21,2,18,1,25,7,12,15,16,20,13,24,7,7,1,8,6,2,6,1,20,5,24,2,72,4,11,4,12,4,10,22,5,2,20,3,3,7,1,2,16,3,1,2,3,50,45,12,2,1,32,11,24,4,3,6,16,12,1,2,9,7,1,10,3,1,2,6,11,11,2,1,27,5,4,10,17,1,12,1,29,2,1,10,2,11,1,5,91,5,8,4,1,1,9,22,11,2,3,1,1,6,31,1,3,18,1,5,24,1,9,3,14,4,3,11,4,1,4,5,10,15,25,14,2,2,1,5,41,22,162,23,2,161,3,10,36,34,3,2,6,1,31,10,3,13,2,5,6,5,8,7,4,2,1,2,5,18,3,5,8,7,3,1,7,1,49,4,12,9,86,23,14,14,17,20,15,3,16,22,9,9,16,6,23,391,366,375,4,10,8,8,2,1,7,1,5,18,1,4,9,2,1,19,15,15,3,12,1,8,5,8,6,9,10,12,4,8,6,10,13,17,2,1,5,1,15,3,16,3,6,12,13,18,9,2,12,1,12,4,1,10,6,3,13,3,4,12,1,9,6,3,10,7,6,9,5,3,12,1,5,3,1,4,4,4,2,5,2,1,3,4,1,1,11,21,10,19,8,18,4,2,4,1,5,18,219,2,5,3,13,2,1,17,6,21,1,12,1,5,16,14,1,20,1,13,2,2,2,10,1,4,5,9,10,3,21,17,2,3,2,3,1,5,3,3,1,1,4,2,7,1,3,2,6,12,17,2,2,5,1,1,1,5,3,21,9,1,4,3,2,1,2,6,1,11,13,1,12,11,7,3,5,1,3,3,3,2,1,10,11,4,3,9,10,10,7,7,69,76,29,232,162,7,16,5,3,1,26,11,15,1,1,2,2,3,3,1,1,4,13,11,4,1,2,1,1,6,7,1,2,1,7,1,2,1,2,3,3,3,6,11,6,3,8,2,5,14,3,1,3,7,5,5,7,1,8,1,8,13,2,1,7,2,1,1,6,2,2,1,2,1,1,1,7,2,1,2,1,1,3,1,9,3,9,1,1,5,1,7,4,1,6,1,9,7,3,1,2,3,9,5,10,3,6,1,1,1,3,5,2,2,3,3,2,1,9,4,1,10,7,3,3,6,3,1,3,8,1,5,2,2,2,4,13,10,18,17,8,4,8,16,1,1,4,1,3,7,14,1,3,4,2,1,1,1,1,8,7,3,1,2,5,1,8,8,8,2,2,6,5,2,4,2,6,11,2,8,4,6,3,2,1,6,5,16,1,1,1,3,1,2,6,3,5,4,9,2,2,6,19,1,2,1,6,10,2,15,3,1,4,3,6,1,11,2,3,1,1,3,13,4,1,1,2,5,1,5,8,3,7,2,3,1,2,3,2,1,12,4,7,1,3,1,1,3,1,4,2,1,1,8,5,1,1,2,6,2,3,1,4,4,4,1,3,4,8,3,4,1,2,1,3,9,1,2,2,2,6,2,1,5,9,2,3,3,1,1,5,8,2,4,1,1,1,1,4,2,1,2,3,1,4,2,1,1,1,3,8,3,7,3,5,3,3,9,10,5,2,1,2,4,2,2,5,5,4,2,4,13,1,2,1,3,2,1,2,2,1,5,1,1,1,3,1,1,5,3,2,1,6,2,3,1,11,1,2,11,5,1,1,2,4,4,1,1,5,1,2,1,3,1,3,1,2,5,7,4,2,2,2,1,1,1,1,1,1,1,31,39,2,3,177,384,54,1,3,2,2,1,1,3,4,4,1,2,1,2,2,6,1,2,1,3,4,7,3,1,1,1,3,6,2,1,8,1,4,3,1,7,17,33,5,1,10,5,26,2,2,3,2,3,10,10,1,16,14,3,1,39,1,26,19,8,7,3,3,1,1,6,7,3,1,1,1,3,1,1,1,4,3,1,1,2,1,1,1,1,1,1,8,1,1,2,1,2,1,2,1,1,4,1,1,7,1,3,6,3,2,2,1,2,1,1,4,1,5,3,2,6,6,1,10,4,3,1,2,2,2,11,6,2,1,3,1,4,4,2,2,4,8,2,7,1,1,1,5,3,1,2,1,2,3,8,2,5,4,12,1,1,4,5,3,1,1,8,1,1,1,3
+Cette	12,5,125,22,70,74,128,111,1,95,92,2,6,4,1,235,15,7,180,2,2,42,35,21,10,294,7,81,127,112,49,17,6,6,73,192,2,20,29,2,11,2,1,4,10,28,6,1,10,6,10,15,22,2,11,25,56,6,14,2,26,1,11,5,9,20,2,35,28,2,1,4,23,9,7,12,7,10,17,1,7,22,2,38,8,11,1,5,31,4,17,6,12,11,5,12,5,62,62,18,13,19,20,4,10,3,30,7,9,9,10,3,5,29,23,2,5,2,1,9,10,2,11,1,14,5,9,5,1,6,1,25,15,1,5,3,13,4,3,16,2,11,4,7,14,25,8,22,7,3,1,24,22,30,12,2,1,34,7,31,24,10,10,8,1,4,4,2,18,6,7,7,10,9,1,3,9,55,3,21,21,1,50,26,27,30,16,24,7,14,7,18,2,20,1,7,31,4,52,9,1,6,14,8,4,13,3,19,18,39,90,1,1,16,1,30,75,10,1,10,1,21,3,26,34,33,1,1,1,4,19,32,4,19,26,5,33,35,4,7,10,11,5,11,11,3,15,8,1,4,9,26,3,3,33,3,48,14,2,20,32,5,44,22,11,13,11,6,28,21,15,4,13,9,1,13,15,4,2,4,14,1,15,27,21,62,6,11,12,18,2,14,3,16,1,1,5,6,10,5,20,28,16,5,7,14,11,24,14,11,11,2,16,4,6,27,11,4,62,8,15,2,5,9,14,25,26,17,36,7,1,10,1,25,15,25,75,7,1,37,36,4,5,14,18,3,1,57,12,8,19,2,1,5,10,5,41,13,1,5,2,22,57,34,15,7,10,13,3,10,6,24,5,1,15,50,5,17,1,24,9,21,1,20,23,31,1,6,9,3,24,15,4,15,2,1,29,1,8,13,31,1,7,3,1,2,1,13,23,13,1,15,5,2,2,17,43,4,3,25,6,4,3,21,1,18,40,11,2,15,1,11,21,10,7,1,2,17,1,8,6,5,1,7,2,4,1,1,1,4,1,19,12,1,3,1,11,1,2,1,4,31,15,8,21,14,4,8,5,15,30,1,3,7,2,3,16,6,1,10,10,6,6,32,2,1,1,4,29,2,1,27,5,1,1,2,5,12,12,2,1,4,2,4,29,1,1,5,23,13,38,4,1,5,3,1,4,20,24,31,1,8,1,15,2,6,11,1,3,27,4,6,6,49,1,15,16,17,2,1,3,8,1,1,7,16,25,1,10,9,32,2,1,13,2,2,6,6,23,6,6,1,5,5,4,19,1,1,1,4,9,1,1,10,4,5,7,1,34,2,3,14,5,30,4,30,1,5,3,5,7,19,28,37,11,1,17,14,9,12,26,1,5,46,16,24,5,4,11,8,19,5,20,26,3,4,1,1,7,1,7,1,30,1,16,15,45,3,1,58,1,3,15,15,4,7,3,6,24,8,27,4,14,1,11,7,5,1,3,14,1,18,48,13,23,6,12,52,3,5,1,2,1,2,21,2,18,1,25,7,12,15,16,20,13,24,7,7,1,8,6,2,6,1,20,5,24,2,72,4,11,4,12,4,10,22,5,2,20,3,3,7,1,2,16,3,1,2,3,50,45,12,2,1,32,11,24,4,3,6,16,12,1,2,9,7,1,10,3,1,2,6,11,11,2,1,27,5,4,10,17,1,12,1,29,2,1,10,2,11,1,5,91,5,8,4,1,1,9,22,11,2,3,1,1,6,31,1,3,18,1,5,24,1,9,3,14,4,3,11,4,1,4,5,10,15,25,14,2,2,1,5,41,22,162,23,2,161,3,10,36,34,3,2,6,1,31,10,3,13,2,5,6,5,8,7,4,2,1,2,5,18,3,5,8,7,3,1,7,1,49,4,12,9,86,23,14,14,17,20,15,3,16,22,9,9,16,6,23,391,366,375,4,10,8,8,2,1,7,1,5,18,1,4,9,2,1,19,15,15,3,12,1,8,5,8,6,9,10,12,4,8,6,10,13,17,2,1,5,1,15,3,16,3,6,12,13,18,9,2,12,1,12,4,1,10,6,3,13,3,4,12,1,9,6,3,10,7,6,9,5,3,12,1,5,3,1,4,4,4,2,5,2,1,3,4,1,1,11,21,10,19,8,18,4,2,4,1,5,18,219,2,5,3,13,2,1,17,6,21,1,12,1,5,16,14,1,20,1,13,2,2,2,10,1,4,5,9,10,3,21,17,2,3,2,3,1,5,3,3,1,1,4,2,7,1,3,2,6,12,17,2,2,5,1,1,1,5,3,21,9,1,4,3,2,1,2,6,1,11,13,1,12,11,7,3,5,1,3,3,3,2,1,10,11,4,3,9,10,10,7,7,69,76,29,232,162,7,16,5,3,1,26,11,15,1,1,2,2,3,3,1,1,4,13,11,4,1,2,1,1,6,7,1,2,1,7,1,2,1,2,3,3,3,6,11,6,3,8,2,5,14,3,1,3,7,5,5,7,1,8,1,8,13,2,1,7,2,1,1,6,2,2,1,2,1,1,1,7,2,1,2,1,1,3,1,9,3,9,1,1,5,1,7,4,1,6,1,9,7,3,1,2,3,9,5,10,3,6,1,1,1,3,5,2,2,3,3,2,1,9,4,1,10,7,3,3,6,3,1,3,8,1,5,2,2,2,4,13,10,18,17,8,4,8,16,1,1,4,1,3,7,14,1,3,4,2,1,1,1,1,8,7,3,1,2,5,1,8,8,8,2,2,6,5,2,4,2,6,11,2,8,4,6,3,2,1,6,5,16,1,1,1,3,1,2,6,3,5,4,9,2,2,6,19,1,2,1,6,10,2,15,3,1,4,3,6,1,11,2,3,1,1,3,13,4,1,1,2,5,1,5,8,3,7,2,3,1,2,3,2,1,12,4,7,1,3,1,1,3,1,4,2,1,1,8,5,1,1,2,6,2,3,1,4,4,4,1,3,4,8,3,4,1,2,1,3,9,1,2,2,2,6,2,1,5,9,2,3,3,1,1,5,8,2,4,1,1,1,1,4,2,1,2,3,1,4,2,1,1,1,3,8,3,7,3,5,3,3,9,10,5,2,1,2,4,2,2,5,5,4,2,4,13,1,2,1,3,2,1,2,2,1,5,1,1,1,3,1,1,5,3,2,1,6,2,3,1,11,1,2,11,5,1,1,2,4,4,1,1,5,1,2,1,3,1,3,1,2,5,7,4,2,2,2,1,1,1,1,1,1,1,31,39,2,3,177,384,54,1,3,2,2,1,1,3,4,4,1,2,1,2,2,6,1,2,1,3,4,7,3,1,1,1,3,6,2,1,8,1,4,3,1,7,17,33,5,1,10,5,26,2,2,3,2,3,10,10,1,16,14,3,1,39,1,26,19,8,7,3,3,1,1,6,7,3,1,1,1,3,1,1,1,4,3,1,1,2,1,1,1,1,1,1,8,1,1,2,1,2,1,2,1,1,4,1,1,7,1,3,6,3,2,2,1,2,1,1,4,1,5,3,2,6,6,1,10,4,3,1,2,2,2,11,6,2,1,3,1,4,4,2,2,4,8,2,7,1,1,1,5,3,1,2,1,2,3,8,2,5,4,12,1,1,4,5,3,1,1,8,1,1,1,3,1,2,1,2,1,1,2,2,1,1,1,2,8,3,1,5,11,2,3,5,8,1,3,4,1,4,1,1,17,3,1,4,4,1,3,8,15,2,2,1,17,2,1,6,7,2,4,8,3,4,1,1,1,1,1,1,5,7,4,2,2,4,3,3,2,3,4,1,3,2,3,2,5,1,3,1,1,8,5,2,1,12,6,1,1,4,4,7,1,2,2,1,7,1,1,2,6
 Cette API	13306
 Cette Article	17819
-Cette Charte	2695
+Cette Charte	2695,15532
 Cette Commission	13908
 Cette Convention	8515,7600
 Cette Convention de Concession	15542
@@ -222,9 +232,11 @@ Cette Plateforme	3381
 Cette Politique	17845
 Cette Revue	17448
 Cette SCP	15724
+Cette SDDCI	18118
 Cette SNDS	15580
 Cette Stratégie	13442,3184
 Cette Série	6680
+Cette Task Force	18196
 Cette Vision	17845
 Cette Vision Royale	17463
 Cette-fois-ci	2300
@@ -239,6 +251,7 @@ Chine. Cette	15888
 Christian Katende. Cette	7676
 Clemence Bejot Cette	14472
 Code Pénal. Cette	743
+Code. Cette	18288
 Cofina. Cette	5324
 Colonel Michaël RANDRIANIRINA. Cette	14617
 Colonel-Major Mamadou Traoré. Cette	9865
@@ -248,7 +261,9 @@ Commission. Cette	14549
 Communauté Financière Internationale. Cette	15542
 Communauté. Cette	11944
 Commune de Bertoua II. Cette	16593
+Communication. Cette	18288
 Comores Telecom. Cette	2815
+Comptes Nationaux. Cette	18169
 Conakry. Cette	13265,3430
 Conclusion Cette	15390,517
 Conférence de Munich. Cette	15454
@@ -280,14 +295,19 @@ DGRH Cette	15524
 DGSN-DGST. Cette	11835
 DGSSI. Cette	17534
 DHIS2. Cet	15599
+DIS. Cette	18114
 DISER. Cette	15685
 DLI. Cette	10876
 DONNÉES Cette	17983
 DSP. Cette	16399
 DSR de ONPRA. Cet	13360
+Dakar. Cette	18431
 Damerjog. Cette	13908
 DataReportal. Cette	13626,3193
+Datacenter. Cet	18118
+Deal Technologique. Cette	18324
 Denis Franconio Mac. Cette	14341
+Diamniadio. Cette	18340
 Diaspora. Cette	15936
 Diffusion des Données. Cet	16233
 Digital Africa. Cette	4092
@@ -308,10 +328,13 @@ Douala. Cette	16075
 Douane. Cet	10401
 Défense. Cette	15671
 Définition des Indicateurs Cette	17945
+Délégation Spéciale. Cette	18096
 Développement Cette Convention	13445
 Développement Urbain. Cette	10998
+E-Santé. Cette	18105
 E. Cette	15907
 EAC. Cette	13324
+EC. Cette	18312
 ECOWAS CET	15924,1087
 EDIEL EURL-ACTM CETIC C.I.CR ETE Nouveau	16103
 EDIEL EURL-ACTM CETIC Révision LNHC SIDER	16103
@@ -320,6 +343,7 @@ EGENFR. Cette	15673
 EHC CETIC Laboratoire Révision	16103
 EM-Gabon Université. Cette	11669
 EN GUINEE Cette	16621
+ENA. Cette	18362
 ET TAXES Cette	6954
 ETAT DETAILLE DES TAXES DEDUCTIBLES Cette	6954
 EXACTITUDE ET FIABILITÉ Cette	17830
@@ -332,11 +356,14 @@ Elon Musk. Cette	2534
 Enabel. Cette	14184
 Energie. Cette	13809
 Enquête Agricole Annuelle. Cette	9286
+Enseignement Supérieur. Cette	18143
 Environnemental Cette	8891
 Era of Trust. Cette	4850
 Est-Africaine. Cette	13405
+Etat du Sénégal. Cette	18295
+Etat''. Cette	18216
 Etat. Cet	15712
-Etat. Cette	2738,3329,1357,6009,1048,1019
+Etat. Cette	2738,3329,1357,6009,1048,1019,2729
 Euractiv. Cet	8759
 Europe. Cette	2353
 F CFA. Cette	737
@@ -344,7 +371,7 @@ FARDEAU SUPPORTABLE POUR LES RÉPONDANTS Cette	17830
 FAWE Cette	17830
 FCFA PARTAGEZ CET ARTICLE SUR	2439
 FCFA. Cet	3396,6124
-FCFA. Cette	2342,1054,842,4091,2646,5045
+FCFA. Cette	2342,1054,842,4091,2646,5045,2302
 FCV Cette	17896
 FDJ. Cette	4402
 FEMME SÉLECTIONNÉE FEMME POUR CETTE SECTION	13300
@@ -355,11 +382,13 @@ FOUTA’’. Cette	7011
 Faso Arzeka. Cette	8322
 Fcfa. Cette	2655
 Femme. Cette	16607
+Filingué. Cette	18191
 Flooz. Cette	7125
 Fondation Bangui Hub. Cette	16184
+Fondation MasterCard. Cette	18369
 Force-Jeune. Cette	13789
 Formation. Cette	16196
-France. Cette	14549
+France. Cette	14549,3773
 Francs Guinéens. Cette	16617
 G. Cet	2290
 G. Cette	1272,5496
@@ -380,7 +409,7 @@ Gontougo. Cet	15294
 Gouv'Talk. Cette	6645
 Gouvernance Cet	15712
 Gouvernement Ouvert Local Cet	15712
-Gouvernement. Cette	4341,1822,4713,2465,2371,387
+Gouvernement. Cette	4341,1822,4713,2465,2371,387,2004
 Gouvernements. Cette	15410
 Grande Instance. Cette	15965
 Groupe Financier SGC. Cette	16053
@@ -392,6 +421,7 @@ Haut-Commissariat. Cette	16001
 Haute Matsiatra. Cette	14624
 Hicham Tebira. Cette	17697
 Hodh Ech Chargui Cette	17931
+Hommes Femmes Q3.2 Cet	18169
 Huawei. Cette	3177,13543
 Hôtel Suprême de Grand-Bassam. Cette	15993
 I'Etot. Cette	15429
@@ -407,6 +437,7 @@ IKA TECHNOLOGY. Cette	16156
 IMF. Cette	13390
 IMMATRICULATION DES INSTITUTIONS Cette	17830
 INS. Cet	16416
+INS. Cette	18204
 INSBU du Burundi. Cette	16250
 INSD Cette	10874
 INSEED. Cette	9286
@@ -421,13 +452,15 @@ IXP-Guinée. Cette	17563
 IXP. Cette	17823
 Iconi. Cette	13800
 Impôts. Cette	2476
+Indice CETUD	18291
 Information Cette	17983
 Infrastructure de Cybersécurité Robuste Cette	15936
 Innovation. Cette	5120,11567,28,32
 Institut. Cette	10874,5676
 Instituts Al Jazari. Cette	4600
+Instruction Civique. Cette	18099
 Instruction. Cette	17485
-Internet Cet	13586
+Internet Cet	13586,4519
 Internet. Cet	15936
 Internet. Cette	4899,8402,3424
 Intérieur. Cette	4924,10803
@@ -463,11 +496,13 @@ LA QUALITÉ Cette	17830
 LE NOMBRE DANS CETTE CASE. C'EST	13300
 LEADERSHIP ET GOUVERNANCE PREAMBULE Cet	16195
 LEGISLATION Cette	17983
+LIMITES ET DIFFICULTES RENCONTREES Cette	18204
 La Cet	10965
 Lacina Koné. Cette	16657
 Laurence Ndong. Cette	16749
 Lebamba. Cet	2325
 Libertés. Cette	14412
+Libyenne Alitissal Aljadeed. Cette	18216
 Lideflow. Cette	10467
 Livre V. Cette Autorité	15429
 Lord Marhyno Gandou. Cette	5103
@@ -487,15 +522,18 @@ MAROC Cet	17448
 MDA. Cette	13341
 MDN CETIC CETIC Laboratoire	16103
 MEST Africa. Cette	10353
+METHODOLOGIE Cette	18171
 MEUR. Cette	15500
 MICS7. Cette	10273
 MINUSCA. Cette	15548
+MISSION ET ORIENTATIONS STRATEGIQUES Cette	18291
 MNDPT. Cette	14534
 MODIFIER VOTRE MOT DE PASSE Cette	6954
 MSPLS. Cette	13306
 MTN Mobile Money. Cette	6804
 MW. Cette	2342,11299,2029,367
 Madagascar. Cette	14549,44,3,8,29,10
+Madame Daria Lavrentieva. Cette	18145
 Madame la Ministre Dre Diaka SIDIBE. Cette	16653
 Maddadi Cette	9012
 Madigipaie. Cette	5243
@@ -505,6 +543,7 @@ Malagasy. Cette	14529
 Mali Cette	17824,199
 Mali. Cet	7634
 Mali. Cette	737,17087,6,52,195
+Mamadou Dia. Cette	18320
 Mark Alexandre Doumba. Cette	3362
 Maroc. Cette	8002,991,8492,22
 Marrakech. Cette	17512
@@ -519,13 +558,15 @@ Meaden. Cette	3680
 Membres. Cette	15724
 Meppsa. Cette	16242
 Mines. Cette	16047
-Ministère. Cette	10913,4656
+Ministre des Finances. Cette	18117
+Ministère. Cette	10913,4656,2660
 Mohéli. Cette	13789
 Monsieur Anthony Ohemeng-Boamah. Cette	16711
 Monsieur le Ministre. Cette	16746
 Moov Africa Bénin. Cette	6234
 Moov Africa Gabon Télécom. Cette	16423
 Mosolo. Cette	10204
+Mouhamadou Bamba DIOP Cette	18418
 Moussala. Cet	17978
 Mpumalanga CET College	11281
 Mwali. Cette	13798
@@ -535,13 +576,20 @@ Méthodologie Cette	8525
 Météorologie. Cet	14613
 NA23583 EHC CETIC Laboratoire	16103
 NGN. Cette	4716
+NIN. Cette	18290
 NINE-Starlink. Cette	2801
 NMD. Cette	8891
 Nador. Cette	3196
+Nation. Cette	18169
+National Cette	18169
 Nations Unies. Cette	9277
+Ndekki GéoSénégal. Cette	18324
 News Deal Technologique. Cet	3120
 Niamey. Cette	6094,3263
-Niger. Cette	9287,55,8329
+Niger Telecom. Cette	18105
+Niger. Cet	18121,30,87
+Niger. Cette	9287,55,8329,429,3,18,45,38,79
+Niger. Cette Education	18099
 Nioumachoi. Cette	13823
 Nkangala TVET College and Mpumalanga CET College	11281
 Nkolandom. Cet	15822
@@ -550,15 +598,18 @@ Nord-Ubangi. Cette	10291
 Nouaceur. Cette	5745
 Numérique. Cette	7999,3946,5879
 Numériques Cette	13338
+Nutrition. Cette	18141
 Nutritionnelle. Cette	17978
 OBJECTIFS ET MÉTHODOLOGIE DE L’ENQUÊTE Cette	737
 OBJET Cet	15732
 OBR. Cette	2069
 OBSYDYA. Cette	16359
+ODD. Cette	18118
 OKTO TECHNOLOGIES. Cet	3376
 OMS. Cet	15724
 OMS. Cette SCP	15724
 ONATEL. Cette	13586
+ONG Plan International Niger. Cette	18256
 ONG. Cette	16307
 ONIP. Cet	12043
 OPERATIONS DE COLLECTE DES DONNEES Cette	17945
@@ -573,12 +624,13 @@ OpenClinic GA. Cet	13306
 Opérateur. Cette	18032
 Orabank. Cette	3399
 Orange Money. Cette	8162
+Orange. Cette	18343
 Ouagadougou. Cet	3633,179
 Ouagadougou. Cette	3825,574,151,1172,10223
 Ouahigouya. Cette	3665,5
 Ouest Cette	10091
 Ouest. Cet	15639
-Ouest. Cette	8237
+Ouest. Cette	8237,10126
 Oyem. Cette	16258
 P. Cet	17945
 PAGIR. Cette	15908
@@ -615,17 +667,23 @@ Plateau Central. Cette	15639
 Plateau. Cette	16357
 Pnud. Cet	16404
 Pointe Noire. Cette	15455
+Politique Nationale du Numérique Cette	18235
 Population. Cet	17842
 Port-Bouët. Cette	17636
 Port-Mathurin. Cette	6399
+Poste. Cette Autorité	18105
+Postes du Tchad. Cette	18122
 Postes. Cette	17824
 Principes Cette	15423
 Problèmes Cette	14586
+Production de CETUD	18291
+Production du CETUD	18291
 Programme SIPAO. Cette	17848
 Programme Terra Bénin. Cette	10876
 Projet. Cette	14423
 Pré-requis Cette	10711
 Présidente de Sorbonne Université Cette	6514
+Prévention Médicale. Cet	18297
 Public Private Cet	16195
 QR Code. Cette	4459
 RCA. Cet	16328
@@ -650,10 +708,12 @@ Red Sea Drilling Company. Cette	17764
 Registre Social Unifié du FDSI. Cette	16643
 Remerciements Cette Revue	17448
 Resume Cette	14472
+Return Intention Cette	18193
 Revue. Cette	17842
 Royaume. Cette	17461,38
 Rural Cette	13390
 Russie. Cette	3630
+Réalisation de CETUD	18291
 Réalisée Cette	17872
 République Démocratique du Congo. Cette	9824,6233
 République Fédérale du Nigeria. Cette	8237
@@ -663,7 +723,7 @@ République de Guinée. Cet	16617
 République de Guinée. Cette	16617,80,34
 République du Congo. Cet	11999,3456,547
 République du Congo. Cette	7346
-République. Cette	3296,3282,164,7144,663,1928
+République. Cette	3296,3282,164,7144,663,1928,1628
 Résumé Analytique Cet	17830
 Résumé Cette	11593
 S.E. Paul BIYA. Cette	10524
@@ -676,7 +736,7 @@ SFI. Cette	2342
 SFN. Cette	15474
 SIGOU. Cette	16659
 SIH. Cette	13306
-SIM. Cette	13626
+SIM. Cette	13626,4578
 SIS. Cette	17882
 SMS. Cette	15710,402,145
 SNDS. Cette	15961
@@ -685,13 +745,14 @@ SNFI. Cette	10965
 SOCATEL. Cette	7421
 SPA Révision IOMP CETIC P NA	16103
 SRMNSA-N Cette	16681
-SSN. Cette	15961,1881
+SSN. Cette	15961,1881,327
 SYDONIA. Cette	16328
 Sahl. Cette	8190
 Samba Diouf. Cette	10577
 Savane Cette	15715
 Secrétaire Général Adjoint du Gouvernement. Cette	13753
 Secrétaire Général. Cette	16723
+SenTrésor. Cette	18321
 Serigne Mapenda Kébé. Cette	16742
 Service Cette	15936
 Service Public BF. Cette	16160
@@ -712,11 +773,18 @@ Statistique. Cette	16673
 Steppe Cette	15715
 Sud-ouest. Cette	15720
 Sud. Cette	5830
+Suivi Evaluation CETUD	18291
+Système Statistique National Cette	18169
 Sèmè City. Cette	6514
-Sénégal. Cette	7641,8673
+Sécurité. Cette	18177
+Sénégal. Cet	18322
+Sénégal. Cette	7641,8673,2010
 Sénégalais PARTAGEZ CET ARTICLE SUR	4899
+Sénégalais. Cet	18316
+T2-2026 Cette	18418
 TEMBELY. Cette	17978
 TG Haute Matsiatra. Cet	14568
+TIC Cette	18204
 TIC. Cette	14423,3401,32
 TICs. Os CETEM	15684
 TNT. Cette	13301
@@ -727,6 +795,7 @@ Tbps. Cette	16641
 Tchad. Cette	2314,3668,6123
 Telecel Money. Cette	9279
 Terra Bénin. Cette	16225
+Thiès. Cette	18332
 Thomas Wang. Cette	7716
 Thomas YAMPA. Cette	15820
 Tier III. Cette	6382
@@ -743,7 +812,7 @@ Trésor. Cet	8064
 Trésor. Cette	18063
 TrésorMoney. Cette	3443
 Tsimbazaza. Cette	14629
-Télécommunications. Cette	6460
+Télécommunications. Cette	6460,11645
 Türkiye. Cette	6739
 UAT Cette	9993
 UE. Cette	643,12682,2175
@@ -759,10 +828,12 @@ Union Africaine. Cette	17448
 Union Européenne. Cette	3449,14566
 Union des Comores. Cette	13784
 Union. Cette	8066,3733
+Unité de Gestion du Projet WURI-NIGER. Cette	18196
 Université Mohammed V de Rabat. Cette	8721
 Université Norbert Zongo de Koudougou. Cet	16555
 Université de Shanghaï. Cette	13815
 Upin Cette	17806
+Urbanisme. Cette	18227
 VBG. Cette	10137
 VDI. Cette Modernisation des Infrastructures de Connectivité	4333
 Valeurs Cette	15423
@@ -774,6 +845,7 @@ WACS. Cette	15493
 WATERIS BY CAMWATER. Cette	10024
 WIS2. Cette	13422
 WURI. Cette	8822
+Web du Ministère. Cette	18105
 WhatsApp. Cette	11686
 Womey. Cette	15852
 World Alliance of Tunisian Talents. Cette	7649
@@ -785,3 +857,4 @@ Yaoundé. Cette	16174
 Yopougon Cosmos. Cette	10432
 Yves Castanou. Cette	10543
 ZTG. Cette	10700
+Zone Sylvopastorale. Cette	18304

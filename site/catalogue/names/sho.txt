@@ -154,11 +154,13 @@ Exit Offer. Should	4896
 Exogenous Shocks	16927
 Expand Digital Financing for Online Shoppers	10800
 FHIR Shorthand	13471
+FSN Shock	18301
 FTTP SETIC Short High	13314
 Feed Shortages	17157
 Fell Short Kenya	8050
 Finance Bill Should Guarantee Digital Rights	14932
 First Street EWZL Owned Shop N	4896
+Five Facts About Shocks	18301
 Five Tests Leaders Should Apply	7648
 Flash and Shop2Shop	7635
 Force Short Title and Date of Entry	16850
@@ -184,6 +186,7 @@ Horizon Short-term Short-term Short-term Medium-	15480
 Horse Shoe Market	12336
 Hospitals of South West Shoa Zone	3791
 Human Capital Shortage	17260
+Human Resource Shortages and Distribution	18370
 Human Rights Short	16996
 Hydrocarbons Short	16996
 ICT Short Term Goals Ongoing	6133
@@ -225,9 +228,11 @@ List Search Showing Harare Use	9429
 Long-term Short-term Long-term	15480
 Ltd Instacash Services Shoprite	12390
 MDAs MoI Short Term I3 Establish	12917
+MDCEST FSN Shock	18301
 MEMBERS. THE HOUSEHOLD HEAD SHOULD	17127
 MNOs Short Code Format Digits Range	16934
 MULTIPLE OPTIONS SHOULD	582
+Machine Learning Methods That Economists Should	18318
 Macroeconomic Effects of Oil Shocks	7655
 Macroeconomic Impact of Microeconomic Shocks	11140
 Major MSc Computer Science Short Courses	12361
@@ -402,6 +407,7 @@ STAP Short Term Action Plan for Infrastructure	13295
 STATEMENT SHOWING REASONS FOR VARIANCES BETWEEN	14736
 STRENGTHENING INSTITUTIONAL CAPACITY Short	17011
 SUSTAINABLE WITH ROOM TO ABSORB SHOCKS	7695
+Sahel. Show	18358
 Samkeliso Shongwe	13101
 Sanbury Square Shopping Centre	8999
 Satellite Connectivity Where Infrastructure Falls Short	7375
@@ -415,7 +421,7 @@ Services Department of E- E Government Short	12917
 Services. The Shortlisting Criteria	11750
 Sheikh Zayid and Shorouk	15473
 Shobhana	10964
-Shock	12923,41,628,2440,352
+Shock	12923,41,628,2440,352,1917
 Shock Response Working Group	15731
 Shock Responsive Mechanism	8399
 Shock Responsive Safety Net	12229
@@ -431,7 +437,7 @@ Shock-Sensitive Social Protection	12964
 Shock-response	15658
 Shock-responsive	10768,1452,9,603,91,2735
 Shock-sensitive	12964
-Shocks	10763,1235,2934,53,259,1140,518,383
+Shocks	10763,1235,2934,53,259,1140,518,383,1016
 Shocks FOOD INSECURITY	17285
 Shocks Libyan	16902
 Shocks and Aid Cuts Intensify Risks	11105,31
@@ -488,12 +494,14 @@ Shore	4432
 Shorobe	12636
 Shorouk	15473
 Shorr Board	13300
-ShorrBoard	10777
-Short	1,2,392,15,29,279,18,39,8,189,182,130,49,141,1252,1,196,791,173,845,513,256,178,193,960,706,307,456,809,337,183,152,406,989,1,1,2,1,7,1,8,15,42,25,571,1,5,190,7,151,48,85,72,35,14,64,1,1,1,2,2,1,1,3,11,2,1,13,67,1,13,1,1,3,2,3,13,221,1,1,1,2,1,1,1,2,1,1,1,1,2,3,2,1,1,6,1,2,9,2,8,99,16,232,1,1,1,8,1,2,6,6,4,1,1,1,1,2,1,17,12,1,19,14,18,46,21,26,1,4,65,93,317,11,420,3,5,7,27,44,73,9,19,119,1,1,1,1,2,1,2,5,1,2,2,3,8,11,14,41,12,3,19,54,100,88,79,19,22,1,38,128,101,963,400,3,48,29,80,108,935
+ShorrBoard	10777,7535
+Short	1,2,392,15,29,279,18,39,8,189,182,130,49,141,1252,1,196,791,173,845,513,256,178,193,960,706,307,456,809,337,183,152,406,989,1,1,2,1,7,1,8,15,42,25,571,1,5,190,7,151,48,85,72,35,14,64,1,1,1,2,2,1,1,3,11,2,1,13,67,1,13,1,1,3,2,3,13,221,1,1,1,2,1,1,1,2,1,1,1,1,2,3,2,1,1,6,1,2,9,2,8,99,16,232,1,1,1,8,1,2,6,6,4,1,1,1,1,2,1,17,12,1,19,14,18,46,21,26,1,4,65,93,317,11,420,3,5,7,27,44,73,9,19,119,1,1,1,1,2,1,2,5,1,2,2,3,8,11,14,41,12,3,19,54,100,88,79,19,22,1,38,128,101,963,400,3,48,29,80,108,935,270
 Short Code	16934
 Short Code Allocations	16934
 Short Code Format	16934
 Short Codes	14965,1969,316
+Short Country Profile	18309
+Short Country Profile Senegal	18309
 Short Digital Businesses Provid	14897
 Short Easy	10823
 Short Film	11332
@@ -565,7 +573,7 @@ Short-course	6832
 Short-link	11269
 Short-lived	10
 Short-run	15515
-Short-term	1988,828,1916,2100,372,344,470,2758,70,352,98,659,5,670,423,1541,600,1682,94,41,138,8,777
+Short-term	1988,828,1916,2100,372,344,470,2758,70,352,98,659,5,670,423,1541,600,1682,94,41,138,8,777,436
 Short-term Accounts and Finance Courses	12972
 Short-term Data Storage and Access	16947
 Short-term Development MICDE	7548
@@ -615,6 +623,7 @@ Shoshong MP	12610
 Should	27,546,1205,50,1109,7,2,445,583,178,515,229,346,107,189,255,675,18,334,424,8,91,15,1,596,318,1238,461,90,30,178,153,74,238,29,200,165,1,26,35,49,58,265,346,86,197,167,5,9,3,24,455,12,1,1,162,65,214,75,2,75,70,406,402,334,52,28,5,25,181,115,292,21,80,186,242,35,856,1,1,1,56,263,98,45,280,202,34
 Should Apply	9198,111,2018,6712
 Should Change	6947
+Should ESS5	18374
 Should Google	13462
 Should Have	15936
 Should Kenya Be Asking	8091

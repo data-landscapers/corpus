@@ -15,6 +15,7 @@ Burkina Faso. Parce	8678,43
 CF Parcelle	13375
 COMMUNICATION TECHNOLOGY SECTOR REPORT Parcels	12395
 CONSIGNAÇÃO PARCIAL DA RECEITA DO VISTO	17100
+Cadastre de Parcelles Assainies	18324
 Centre Parc	17812
 Characteristics of Parcels	17043
 Congo Télécom. Parce	10543
@@ -31,6 +32,7 @@ DISTRIBUTION OF PARCELS BY SOIL	17043
 DISTRIBUTION OF PARCELS BY TENURE	17043
 DU PARC INTERNET FILAIRE	6737
 Desenvolvimento Comunitário AP Agente Parceiro APEE	11557
+Direction des Parcs Nationaux DPRE	18291
 Director de Parcerias Globais	17337
 Distribution of Parcels	17043
 Domestic Parcels	6671
@@ -57,6 +59,7 @@ Fornecer Parcerias Público-Privadas	1192
 Grupo Local de Parceiros da Educação	16268
 I.A. Parce	5065
 II.2.1. Parc	13586
+Identification Parcellaire Unique	18178
 Inteligência Artificial A Parceria Global	2816
 International Incoming Parcels	6671
 International Outgoing Parcels	6671
@@ -72,6 +75,7 @@ LOCALES DE LA PARCELLE DE TERRAIN	17817
 Le Parc	998
 Le Parc Botanique	14489,1
 Le Parc Très Haut	15706
+Le Parc des Technologies Numériques	18340
 Le Parcours	10237
 M Parcels	12457
 M Per Parcel	12457
@@ -80,6 +84,7 @@ Mi Parcours RIAS Regional Poverty Reduction	15424
 Miniopterus. Le Parc	14489,1
 Múltiplos Parceiros Sexuais	10777
 NACIONAL DE PRODUTORES AGROPECUÁRIOS E PARCEIROS	10769
+NGO Nongovernmental Organization PARCA Niger Refugees	18104
 NOSSOS PARCEIROS	15966
 NUMBER OF PARCEL DELIVERY SERVICES	11211,51
 O Pacto de Parceria	11557
@@ -89,12 +94,16 @@ Os Parceiros	15962
 Outbound Parcels	12395
 PACTO DE PARCERIA DA GUINÉ-BISSAU	11557
 PARC BAS DÉBIT	15706
+PARC DES TECHNOLOGIES NUMERIQUES	18340
+PARC E OLIE N TAIBA NDIAYE	18322
 PARC HAUT DÉBIT	15706
 PARC INTERNET	15706
+PARC INTERNET FIXE	18122
+PARC INTERNET MOBILE	18122
 PARC PRODUCTION L’exploitation du Réseau Interconnecté	16714
 PARC TELEPHONIE MOBILE	15707
 PARC TRÈS HAUT DÉBIT	15706
-PARCA	10841
+PARCA	10841,7263
 PARCEL SIZE PER HOLDING	17043
 PARCELLE	13300
 PARCIALMENTE CONFIRMADO A Intelwatch	17541
@@ -115,15 +124,18 @@ Packets and Parcels	12395
 Pacto de Parceria	11557
 Parc Ce	15715
 Parc Haut	15706
+Parc Informatique	18297
 Parc Internet	998,16868
 Parc National	16381
 Parc National de Matériel de Génie Civil	15542
 Parc National de Matériels de Génie Civil	15542
+Parc National du Niokolo Koba	18304
 Parc Robotics	3395
 Parc de GAB	10711
 Parc des Expositions	6159
-Parc des Technologies Numériques	10795
-Parce	2514,951,1314,2110,385,80,376,100,43,805,41,2,1309,612,980,51,2980,30,581,278,180,964,54,1195
+Parc des Technologies Numériques	10795,7511,34
+ParcInformatique	18297
+Parce	2514,951,1314,2110,385,80,376,100,43,805,41,2,1309,612,980,51,2980,30,581,278,180,964,54,1195,363
 Parceiro	10777,696,65
 Parceiros	9434,1332,11,1371,3814
 Parceiros Técnicos	11526,31,3978
@@ -139,7 +151,7 @@ Parcelle N	13555,12
 Parcelle Portion	15555
 Parcelle Validée Ce	13375
 Parcelle Validée Figure	13375
-Parcelles	13375,314
+Parcelles	13375,314,4600
 Parcelles-oir	13375
 Parcels	10937,1458,4648
 Parcels Domestic	6671

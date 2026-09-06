@@ -1,14 +1,16 @@
+A9gal Le Datacenter de Diamniadio	18295
 AI Datacenter Energy Dilemma	11140
 Abomey-Calavi Datacenter	16144
 Aménagement DATACENTER	1993
 Anthony Same Expands African Datacenter Network	6154
 Camtel Unveils the Performance of Its Zamengoé Datacenter	10994
-Ce Datacenter	3406
+Ce Datacenter	3406,14889
 Cloud Infrastructure The Datacenter	9123
 Colocation Le Datacenter de GUILAB	16647
 Construction du Datacenter	2942,12926
 Construire des Datacenters	15542
 DATACELL CONSULT AFRICA LIMITED Data Controller	7167
+DATACENTER	18105,13
 DATACLAVE LTD Data Processor INST-2220784234F NAIROBI	7167
 DATACONNECT	1648
 DES DATACENTERS DE L'UNITE DE GOUVERNANCE	14564
@@ -23,9 +25,10 @@ DataCipation	10720,3027,67
 DataCipation Project	13747
 DataCite	13098
 DataCite's Global Access Fund	13098
-Datacenter	301,943,1155,115,94,334,399,55,10,561,173,202,60,1108,1060,1970,583,1735,16,497,1814,2332,51,76,224,23,115,539,1036,242,59,125,86
+Datacenter	301,943,1155,115,94,334,399,55,10,561,173,202,60,1108,1060,1970,583,1735,16,497,1814,2332,51,76,224,23,115,539,1036,242,59,125,86,25,177,22,113
 Datacenter Des	10858
 Datacenter National	15624
+Datacenter National de Diamniadio	18308
 Datacenter Network Specialist	3834
 Datacenter Référentiels	17882
 Datacenter SOP	9123
@@ -37,16 +40,20 @@ Datacenter Tiers	3967,22
 Datacenter Tiers IV	15738
 Datacenter URL	15891
 Datacenter and IXP	15480
+Datacenter de Diamniadio	18295
 Datacenter de La DGI	10858
 Datacenter de ST Digital Minette Libom Li	3298
 Datacenter de Yaoundé	16006
 Datacenter du Gabon	6570
+Datacenter. Cet	18118
 Datacenter. Data	9123
-Datacenter. Pour	10858
+Datacenter. Elle	18118
+Datacenter. L’évaluation	18118
+Datacenter. Pour	10858,7387
 Datacenter. S’agissant du Transit IP	17823
 DatacenterDynamics	1146,3602,1402
 DatacenterDynamics and Ecofin Agency	778
-Datacenters	1244,1331,343,8,263,1153,403,3499,232,573,74,5441,916,240
+Datacenters	1244,1331,343,8,263,1153,403,3499,232,573,74,5441,916,240,2599,64,12
 Datacenters Afrique Afrique du Sud Algérie Angola	14683
 Datacenters BICSI	9123
 Datacenters Le Centre	2926
@@ -65,7 +72,7 @@ Datacom Telecom Limited	3386
 Datacom and Access Network Technologies	15317
 Datacon Africa Conference	12951
 DeepLearning.AI and DataCamp	10133
-Diamniadio National Datacenter	3598
+Diamniadio National Datacenter	3598,14832
 Ecofin Agency and DatacenterDynamics	3686
 Equipment Staging and Storage Datacenter	9123
 Eritel's Datacenters	14327
@@ -80,10 +87,12 @@ Kasi Cloud Datacenters Flags Off West	6376
 Kasi Cloud Datacenters Lagos State Affirms	6376
 Kasi Cloud Datacenters The Kasi Lekki	6376
 L'environnement des Datacenters	1244
-Le Datacenter	6570,11253
+Le Datacenter	6570,11253,295
+Le Datacenter de Diamniadio	18295
 Le Datacenter de ST Digital	2399
 Les Datacenters	1244,1757
 Link Datacenter	3859
+Mds PANORAMA DES SERVICES SENUM DATACENTER	18317
 Mechanical and Cooling System Datacenters	9123
 Moroccan Datacenters	1244
 ND DATACENTER EN AFRIQUE OU EN	14683
@@ -99,6 +108,7 @@ SAUVEGARDE CHAQUE HEURE SUR UN DATACENTER	14683
 ST Digital's DataCenter	3436
 Security of Datacenter	9123
 Supply and Installation of Datacenter Infrastructure	10839
+Sénégal Le Datacenter de Diamniadio	18295
 Teraco Rondebosch Datacenter	3840
 Tier III Carrier Hotel Datacenter	8542
 U Standard Datacentre Rack	12681

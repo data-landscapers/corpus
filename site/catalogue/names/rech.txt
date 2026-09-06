@@ -15,6 +15,7 @@ BIS PERMIS DE RECHERCHE DE OUASSADA	17827
 CENTRE DE RECHERCHE SUR L'INFORMATION	15407
 CENTRE NATIONAL DE RECHERCHE AGRONOMIQUE Structures	2342
 CNRA Recherche	2342
+CONTRIBUTION RECH	18122
 CREDIT RECHARGE	16934
 Calixte NGANONGO MINISTERE DE LA RECHERCHE	15426
 Cell C Recharge Enhancer Promotion	11259
@@ -33,6 +34,7 @@ Centre de Recherche Agronomique de Sérédou	16627
 Centre de Recherche Scientifique de Conakry	16627
 Centre de Recherche Scientifique de Conakry- Rogbané	16621
 Centre de Recherches	2148,584
+Centre de Recherches Océanographiques de Dakar Thiaroye CSA	18291
 Centres de Recherche Agricole	15583
 Chefs des Unités de Recherche	17874
 Chine Recherche	15542
@@ -43,8 +45,8 @@ Communication Recherche	17845
 Connectivité Verticalité Recherche	15542
 Corruption OMRG Office Mauritanien de Recherches Géologiques	17907
 DE LA RECHERCHE Article	15780
-DE LA RECHERCHE ET DE L'INNOVATION	11597
-DE LA RECHERCHE ET DE L’INNOVATION	7670,651
+DE LA RECHERCHE ET DE L'INNOVATION	11597,6554
+DE LA RECHERCHE ET DE L’INNOVATION	7670,651,9822,27
 DE LA RECHERCHE ET DE L’INNOVATIONLe	7670
 DE LA RECHERCHE SCIENTIFIQUE Chef de Cabinet	8237
 DE LA RECHERCHE SCIENTIFIQUE ET	15674
@@ -59,6 +61,7 @@ Disponible Rechercher Accès Haut Débit Contenus	17824
 Division Recherche	17827
 Développement CRLD Famille CS Centre de Recherche	17845
 D’UN CONSEILLER ET DE LA RECHERCHE	17827
+EDUCATION ET RECHERCHE Formation	18425
 ET DE LA RECHERCHE EN SANTÉ	13306
 ET DE LA RECHERCHE Projet	4402
 ET DE LA RECHERCHE SCIENTIFIQUE	17829
@@ -73,6 +76,7 @@ Excellence des Projets de Recherche Transdisciplinaire	16606
 EximbankChine Recherche	15542
 Femme CRLD CSCom CSRéf Centre de Recherche	17882
 Fichier Automatisé de Recherche	16143
+Fonds de Recherche	18339
 Guineematin.com Recherche Recherche MA RÉGION Accueil	17935
 HOMINDEVE MONDE RECHERCHES	15848
 III.2.4.5. Recherche	15685
@@ -88,14 +92,17 @@ Institut National de Recherche	15591,82
 Institut National de Recherche Agricole	15583
 Institut National de Recherche District de Bamako	17829
 Institut National de Recherche Pédagogique	15474
+Institut Sénégalais de Recherches Agricoles	18291,45
 Institut Thématique de Recherche	17458
 Institut Togolais de Recherche Agronomique	16701
 Institut de Recherche	16627,1197
 Institut de Recherche Agronomique de Guinée	16627
 Institut de Recherche Environnementale de Bossou	16627
 Institut de Recherche Zootechnique	13290
-Institutions de Recherche	16627
+Institutions de Recherche	16627,1497
+Instituts de Recherche	18100
 Internationaux de Recherches Statistiques	15666
+LA DIRECTION GÉNÉRALE DE LA RECHERCHE	18143,27
 LA RECHERCHE	2966,12428,2423
 LA RECHERCHE Professeur	17827
 LA RECHERCHE SCIENTIFIQUE	13478,2090,607,512
@@ -108,11 +115,14 @@ LA RECHERCHE SCIENTIFIQUE URL	16687
 LE RECHANGE Section	17439
 LES ENFANTS Recherche	13300
 La Division Recherche	17827
+La Recherche	18286
 Laboratoire de Recherche Energétique du Ministère	15542
+Laboratoire de Recherches Statistiques	18124
 Le Centre National de Recherche	2342
 Le Centre de Recherche	17749
 Le Cercle de Recherche	10826
 Le Service Recherche Technologique	15701
+Les Centres de Recherche	18286
 MAI DE RECHERCHE POUR L’OR	2342
 MALI ET DE LA RECHERCHE SCIENTIFIQUE	12
 MARS DE RECHERCHE POUR LE LITHIUM	2342
@@ -134,7 +144,7 @@ PROCÉDURES DE RECHERCHE	17825
 Pesticides Recherche	15999
 Promoteurs Recherche	15542
 R3.8b.1.2 La Recherche-Développement	17983
-RECHERCHE	16195
+RECHERCHE	16195,1975
 RECHERCHE AVANCÉE	15409,55,69,64,84,22,75
 RECHERCHE DE L’AIDE POUR METTRE FIN	13300
 RECHERCHE D’OR ET DE ARTICLE	17827
@@ -153,7 +163,7 @@ Recharged Normal Extraction Crisis Indicators	17157
 Rechargements	4459
 Rechazado	16905
 Rechenschaftspflicht	900
-Recherche	12,753,422,521,440,548,36,122,1,111,9,421,429,10,1336,500,564,279,593,78,658,135,94,197,33,264,325,189,164,569,121,566,76,245,154,348,274,2,31,277,37,1346,10,6,35,287,49,171,577,161,31,5,642,107,5,50,3,18,28,19,7,41,11,15,12,3,8,82,28,23,111,28,14,31,20,8,6,31,8,12,6,2,46,71,38,4,15,20,55,107,18,29,73,19,21,18,47,39,6,1,6,19,34,21,39,837,233,10,3,12,3,11,4,1,11,2,7,1,29,57,14,1,20,10,11,47
+Recherche	12,753,422,521,440,548,36,122,1,111,9,421,429,10,1336,500,564,279,593,78,658,135,94,197,33,264,325,189,164,569,121,566,76,245,154,348,274,2,31,277,37,1346,10,6,35,287,49,171,577,161,31,5,642,107,5,50,3,18,28,19,7,41,11,15,12,3,8,82,28,23,111,28,14,31,20,8,6,31,8,12,6,2,46,71,38,4,15,20,55,107,18,29,73,19,21,18,47,39,6,1,6,19,34,21,39,837,233,10,3,12,3,11,4,1,11,2,7,1,29,57,14,1,20,10,11,47,29,21,22,26,1,75,41,5,5,10,6,3,9,15,30,43,20
 Recherche Activité	17845
 Recherche Administrateur	17827
 Recherche Administratives	16523
@@ -188,6 +198,7 @@ Recherche OS3.I2.P1 Appui	17860
 Recherche PS-SNISS	17845
 Recherche Pharmacie Médecine	15674
 Recherche Pilotage	2966
+Recherche Plan	18121
 Recherche RNA Réseau National	15583
 Recherche Scienti-	13341
 Recherche Scientifique	12,725,446,525,188,800,21,258,221,5695,1930,104,184,796,338,1047,39,2,33,210,1043,45,704,10,21,3,16,56,2,15,11,42,26,12,73,20,1,83,179,57,182,182,8,5,11,154,81,11,14,46,24,36,695,6,10,354,3,2,10,2,1,26,20,48,59
@@ -209,17 +220,19 @@ Recherche Scientifique Oct	13746
 Recherche Scientifique du Ministere	14662
 Recherche Transdisciplinaire	16606
 Recherche URL	15376
+Recherche WILDAF Woman	18286
 Recherche de Djibouti	4402,9442
 Recherche. Cette	15965
 Recherche. INSTITUT DES SCIENCES TECHNOLOGIQUES ET	15674
-Rechercher	233,1933,4788,2526,4247,19,2049,180,59,3,297,1137,518,25,49
+Recherche. Il	18143
+Rechercher	233,1933,4788,2526,4247,19,2049,180,59,3,297,1137,518,25,49,141,87,141
 Rechercher Accueil	17993,96
 Rechercher Axe	17946
 Rechercher Budget	17989
 Rechercher Loi	4420
 Rechercher Ouvrir	15975
 Rechercher Vous	15449
-Recherches	12,15404,2429,133,115
+Recherches	12,15404,2429,133,115,223
 Recherches Biomédicales	2625
 Recherches Démographiques IMC	17842
 Recherches Système	17845
@@ -233,14 +246,18 @@ SEPTEMBRE ATTRIBUTION DE PERMIS DE RECHERCHE	2342
 SOCIETE DE RECHERCHE MINIERE N	998
 SOUS-DIRECTION DE LA RECHERCHE ET	17827
 STATUTS DU CENTRE AFRICAIN DE RECHERCHE	15786
-SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE	12,15398,971,1448
+SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE	12,15398,971,1448,314,27
 SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE	15973
 Sciences Physiques INRAB Institut de Recherche	15583
 Service Recherche Technologique	15701
 Statistique CRIDF Centre de Recherche	15580
 Système National IOTA Recherche	17845
 Système National de Recherche Scientifique. Il	2696
+THÉMATIQUES RECHERCHÉES Nous	18279
 Throughout Recharge Infrastructure	17157
+Unités de Recherche	18121
+Unités de Recherche A2OS1-A2	18121
+Unités de Recherche Un	18121
 Universités Recherche	15848
 VIH Rechercher	13300
 Validé Acceptée Société de Recherche Minière SRM	998

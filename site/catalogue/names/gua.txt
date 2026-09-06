@@ -26,7 +26,7 @@ Botswana Guardian	4072
 Bruketa& Google Bulgari S.p.A Guadaltel BuzzBrothers	8530
 CGS Guardian CGS Observer Explosive	14760
 CONSULT THE OLD GUARD	4619
-CORIS BANK ECOBANK GUARANTY TRUST BANK	11588
+CORIS BANK ECOBANK GUARANTY TRUST BANK	11588,6682
 COUNTY GUARDS LIMITED Data Processor INST-3033778F42B	7167
 CYBER GUARD AFRICA LIMITED Data Controller	7167
 Catalytic First Loss Guarantee	8937,1,141
@@ -37,7 +37,7 @@ Commitments and Guarantees Long-term Commitments	16978
 Comorian Coast Guards	13791
 Connectivity Guarantee Programme European Commission	1080
 Correspondence Colleges Guarantee Fund	13287
-Credit Amount Grant Amount Guarantee	969,9860,2502,1
+Credit Amount Grant Amount Guarantee	969,9860,2502,1,4961
 Credit Guarantee Mechanism for MSMEs	15179
 Credit Guarantee Scheme	7763,4613
 Credit Guarantee Scheme Application System	11134
@@ -160,7 +160,7 @@ Guaranteed Minimum Banking Service	10967
 Guaranteed Restoration Time	5676
 Guaranteeing	10970,5893
 Guaranteeing Health Security	16971
-Guarantees	1829,1754,6176,1551,606,285,96,745,213,613,1279,1831,282
+Guarantees	1829,1754,6176,1551,606,285,96,745,213,613,1279,1831,282,1110
 Guarantees and Security for Investors	12376
 Guarantor	13185
 Guarantor GOVERNMENT OF THE CENTRAL AFRICAN	15758
@@ -298,6 +298,7 @@ National Coast Guard and SAMU	14738
 National Credit Guarantee	14024
 National Credit Guarantee Fund for Startups and Ecosystem	14024
 National Guard	17934
+National Guard Command	18125
 National Health Insurance and Social Guarantee Fund	9837
 Nigeria and Guatemala	11004
 Nine Blue Water Guards	10135

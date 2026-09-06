@@ -100,6 +100,7 @@ Egypt GDP	15713
 Egypt’s GDP	15473,240
 Elasticity of GDP	14674
 Electricity and GDP	13624
+Electrification Rurale GdN Gouvernement du Niger GW	18103
 Empowerment Programme Financial Technology FX GDP	11134
 Energy Sector Strategic Plan GDP Gross	14947
 Environmental and Social Screening Assessment Framework GDP	15424
@@ -128,7 +129,7 @@ Fig.2- Regression Analysis of Computing Index and GDP	15713
 Finance Infrastructure Indicator GDP	5247
 Financial Access and GDP Per Capita	1828
 Financial Inclusion and GDP	7763
-Financial Management GDP Gross Domestic Product	15663
+Financial Management GDP Gross Domestic Product	15663,2630
 Financial Management Information System GDP Gross	11271
 Financial Year GDP Gross Domestic Product	15411
 Find Your GDT Address	12745
@@ -191,6 +192,7 @@ GDF Suez	15542
 GDF-KSEC	6729
 GDGCI	17102
 GDI GHG GII GoC GRID GRM	15553
+GDI Indice Genre	18286
 GDJF and GSA	6960
 GDN and Co-Develop	10852
 GDN’S	10852
@@ -237,6 +239,7 @@ GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GEI Global	17870
 GDP Gross Domestic Product GIS Geographic	17149
 GDP Gross Domestic Product GIZ Gesellschaft	12923
+GDP Gross Domestic Product GRID Green	18301
 GDP Gross Domestic Product GRM Grievance	11525
 GDP Gross Domestic Product GTS Sector	13731
 GDP Gross Domestic Product GoG Government	15511
@@ -301,6 +304,7 @@ GDP and Inequality Adaptation	1828
 GDP and KSH	1923
 GDP and US	14897
 GDP for GLF	17105
+GDP for Senegal	18318
 GDP for South Africa	14997
 GDP in first 9 months of 2017- ZAWYA20180117044623	15473
 GDP of Africa	2865
@@ -404,6 +408,7 @@ GDP.11	12948
 GDP.124	13331
 GDP.13 Broadband	17870
 GDP.168 The IFC	14674
+GDP.2	18198
 GDP.3 Note	12948
 GDP.31 About	10768
 GDP.4 Remittances	11960
@@ -475,6 +480,7 @@ GDS.aspx da Silva	8603
 GDS1 Issued	8166
 GDST and DGTED	12008
 GDST and UGPE	12008
+GDT P1	18291
 GDUPD	15473
 GDUPDs	15473
 GDVj'LUHomR	11527
@@ -503,6 +509,7 @@ General Data Dissemination Systems GDP	14857
 Generative Artificial Intelligence GDPR General Data	14790
 Ghana’s GDP	789,3337
 Ghana’s GDP. Ghana	4126
+Global Basic Observing Network GDP	18309
 Global Competitiveness Index GDP Gross Domestic	15491
 Global Economic Developments Global GDP Growth	11131,3
 Global GDP Uplift	15713
@@ -557,6 +564,7 @@ Malawi's GDP	12176
 Malawi’s GDP	13095
 Mali’s GDP	17962
 Managed GDC Providers	4434
+Management GDP Gross Domestic Product GERME	18104
 Management GDP Gross Domestic Product GoM	17862
 Markets and Developing Economies GDP Gross Domestic	17011
 Measure GDP GDP	10759
@@ -606,7 +614,7 @@ RUHVWDO H GD IDXQD R UHJLPH	11527
 RWANDA’S GDP GROWS	14873
 Ratio GDP Global Partnership for Education GER	11905
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81,273,38
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880,6202,1675,153,3311,239,268
 Real GDP Growth Demand Contribution	17503

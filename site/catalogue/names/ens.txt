@@ -6,6 +6,8 @@ AGÊNCIA REGULADORA DO ENSINO SUPERIOR	16290
 AI-ready. Ensure	4126
 AI. Ensure	14674
 ALL BIDDERS MUST ENSURE COMPLIANCE	11240
+AU NIVEAU DES ENSEIGNEMENTS SECONDAIRES	18171
+AU NIVEAU DES ENSEIGNEMENTS SECONDAIRES Tableau	18171
 AVANT VIVRE ENSEMBLE	13300
 Accelerate Open Banking Implementation Ensure	4848
 Accessibility Ensure AI	14566
@@ -20,6 +22,7 @@ Africa Finance E ENS ArticleNot E-money	6998
 Africa Finance E ENS ArticleRCR Season	6998
 Africa Finance E ENS ArticleThe Protection	6998
 Agenda for Sustainable Development. Ensuring	15063
+AgendaEstimated BudgetResponsibleStartingClosing1. Ensure	18305
 Amadou TOURE Le Ministre des Enseignements Vu	17817
 Analyse Economique. ENSEA	17842
 Anual Enseñanza Universitaria	16898
@@ -34,6 +37,7 @@ Aéroport Ensemble	15542
 B. Ensure	15604
 B. Ensuring	14723
 Bangui. Ensemble	16184
+Banque Islamique de Développement ENSTAT	18169
 Basket Fund. Ensuite	4280
 Block Chain. Ensure	15716
 Boucle du Mouhoun Garçons Filles Ensemble Garçons	10847
@@ -89,6 +93,9 @@ D.G DE ENSEÑANZA TECNICA Y PROFESIONAL	4209
 D.G MILITAR REG. MÓVIL REG. ENSEÑANZA	4209
 D.G. DE ENSEÑANZA	4209
 DE ESTADO PARA O ENSINO SUPERIOR	11391
+DE MANAGEMENT ET ENSEIGNANT TECHNOLOGUE ETEC	18143
+DE SANTÉ PUBLIQUE ENSTAT ECOLE NATIONALE	18170
+DES CADRES ECBII ENSEIGNEMENT CYCLE	18143
 DES ENSEIGNANTS FINALISTES	15660
 DES ENSEIGNE Accroître	15999
 DFS Ensure	1161
@@ -96,16 +103,21 @@ DGSP Ens	15744
 DGSP Enseigne	15901
 DHS. Ensemble	13300
 DIGITAL TALENTS ACCELERATORS Vision Ensure	1885
+DIRECTION DES ENSEIGNEMENTS SECONDAIRES GENERAL	18099
 DIRECTIONS CENTRALES Enseignes	15901
 DO ENSINO PRIMÁRIO E SECUNDÁRIO	11419
+DONNÉES SUR LE PERSONNEL ENSEIGNANT	18143,27
 Dans la Nature Autres Ensemble	18014
 Deep Learning Ensure	12512
 Desarrollar la Enseñanza Técnico-Profesional	1701
 Description Ensures	5191
 Digital Skills and Human Capital Development Ensure	1161
+Direction Général des Enseignements	18143
 Directions Provinciales des Enseignements	15639
 Distância. NÍVEL DE ENSINO	10766
 Docentes de Centros de Enseñanza Técnica	16864
+DÉFINITION DES TERMES CLÉS Enseignement	18143,27
+D’ADMINISTRATION ET DE MANAGEMENT ECBII ENSEIGNEMENT	18170
 E A DIREÇÃO-GERAL DO ENSINO SUPERIOR	17103
 E ENS ArticleRCR Season	6998
 E ENS ArticleThird-party Payment Providers	6998
@@ -113,40 +125,52 @@ E-O50 Ensured	15713
 E.3 Ensure	15604
 E.g. Ensure	11004,960
 EB Ensino Básico ESE Escola Superior	11557
+ECOLE NORMALE SUPÉRIEURE ENSP ECOLE NATIONALE	18170
 EDUCACION ENSEÑANZA FORMACION PROFESIONAL	4209
 EFTP Enseignement	15474
 EMIS B. Ensure	15604
 EMISs. D. Ensure	15604
 EMS Expedited Mail Service ENSO El-Nino	2775
 ENEO ENSTP FECAP-TP FEICOM FMI FR	15542
+ENS ECOLE NORMALE SUPÉRIEURE ENSP ECOLE	18143
 ENS' TMT	11908
 ENS. Quant	17885
 ENSA Khouribga	17501
-ENSAE	10548,5413,937,944
-ENSAE de Dakar	17842
+ENSAE	10548,5413,937,944,449
+ENSAE MESRI	18306
+ENSAE P2	18291
+ENSAE Recensements	18291
+ENSAE S	18291
+ENSAE de Dakar	17842,449
+ENSAE de Dakar S	18291
 ENSAI	15542
 ENSAM	17945
 ENSAN	17945,33
 ENSAN II	10776
 ENSAN MALI	17945
 ENSAN Mali	17945
+ENSANR	18291
 ENSCS	6437
 ENSE Ecole Normale Supérieure EP Entreprise	15474
 ENSEA	10917,4902,117,25,289,168,480,944
 ENSEIGNANT	13300
+ENSEIGNANTS	18171
 ENSEIGNANTS PAR SEXE	10847
 ENSEIGNANTS SEXE ET AGE	10847
 ENSEIGNE DE VAISSEAU	15524
-ENSEIGNEMENT	15732,2283
+ENSEIGNEMENT	15732,2283,409
 ENSEIGNEMENT PRIMAIRE Taux	15999
+ENSEIGNEMENT SUPÉRIEUR	18143,27
 ENSEIGNEMENTS TIRÉS Facteurs	16482
 ENSEIGNEMENTS TIRÉS Retours	16529
 ENSEMBLE	13300
 ENSEMBLE DES FEMMES Groupe	13300
+ENSEMBLE PAYS Préscolaire	18171
 ENSET	10980,4396,298
 ENSEÑANZA PROFESIONAL Y DEPORTES	4209
 ENSEÑANZA PROFESIONAL Y DEPORTES Servicio	4209
 ENSEÑANZA Y PROFESIONAL Y DEPORTES	4209
+ENSFS	18169
 ENSIA	9244,1443,785,5354
 ENSIA Tech Community	16826
 ENSIAS	9406
@@ -160,14 +184,18 @@ ENSINO SECUNDÁRIO PEDAGÓGICO	10766
 ENSINO SECUNDÁRIO PORTUGUÊS OU DE HABILITAÇÃO	17103
 ENSINO SUPERIOR	17103
 ENSINO TÉCNICO-PROFISSIONAL	10766
+ENSIS	18286
 ENSM EPH EPST FENASCOM HD INSP	17882
 ENSM. Afin	17882
 ENSNSAB	13325
 ENSO. Data	12611
+ENSP FAO FH DISTRICT HEALTH INFORMATION	18105
+ENSP de Niamey. Il	18105
 ENSPT	10948,4594
 ENSPY	15542
 ENSSB	12247,534
 ENSSB II	12142,690
+ENSTAT	18124,45
 ENSTP	15542
 ENSUBEB	6211
 ENSUITE CONTINUEZ ENSUITE	13300
@@ -190,9 +218,11 @@ ENSURING NETWORK NEUTRALITY FOR BROADBAND SERVICES	16884
 ENSURING SECURITY IN OPEN-SOURCE GOVERNMENT SYSTEMS	13395
 ENSURING THE INTEGRITY AND CONTINUITY	16885
 ENSURiNG QUALiTY AND RELEVANCE OF PUBLiC	961
+ENSUT-Dakar	18324
 ENSafrica.com	11908
 ENSafrica.com Shaaista Tayob Associate	11908
 ENSup	17829
+EPS. Ensuite	18297
 ESMP. Ensure	12253
 East and Central Africa. Margee Ensign	11682
 Edition I-I13. Ensure Data Center Sustainability	15713
@@ -202,11 +232,12 @@ Enable Interoperability and Open Standards Ensure	10157
 Enable and Ensure	10985
 Encargada de Enseñanza Reglada	6841
 Enregistrement Ensemble	10876
+Ens Enseignement EPS Education Physique	18171
 Ensa Sambou Fatima Sonko Fatou Jallow	16973
 Ensacheuse-	17817
 Ensaios	15772
 Enschede	15552
-Enseignant	10847,822,1631,2385,2178
+Enseignant	10847,822,1631,2385,2178,569
 Enseignant Chercheur	2966
 Enseignant Employeur	13300
 Enseignant-	17861
@@ -218,7 +249,7 @@ Enseignant-chercheur. AU TITRE DU MINISTERE	17991
 Enseignant-chercheur. Au	8321
 Enseignant-chercheur. MINISTERE DE LA TRANSITION DIGITALE	15942
 Enseignante	13300,4561
-Enseignants	8321,5157,1996,94,1027,39,808,503
+Enseignants	8321,5157,1996,94,1027,39,808,503,160
 Enseignants Au	15591
 Enseignants-	17899
 Enseignants- Chargé	17899
@@ -227,17 +258,21 @@ Enseignants- des Armes	17899
 Enseignants-Chercheurs	17899
 Enseignants-Chercheurs Administrateurs	17899
 Enseignants-chercheurs	8321
-Enseigne	15744
+Enseigne	15744,2572
 Enseigne L’Opérateur	15885
 Enseigne-	13442,4370
 Enseigneme nt	15489
-Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12,448,307,39,4,370,25,1222,100,52,458,548,24,98,16,678,93,4,15,50,40,8,15,40,62,41,7,34,1,24,35,44,58,42,51,8,6,25,1,13,18,48,46,6,128,15,7,38,57,13,49,45,26,8,11,16,5,18,11,9,61,12,6,19,34,39,858,233,7,3,2,1,30,1,2,11,7,30,5,31,13,22,21,21,47,6
+Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12,448,307,39,4,370,25,1222,100,52,458,548,24,98,16,678,93,4,15,50,40,8,15,40,62,41,7,34,1,24,35,44,58,42,51,8,6,25,1,13,18,48,46,6,128,15,7,38,57,13,49,45,26,8,11,16,5,18,11,9,61,12,6,19,34,39,858,233,7,3,2,1,30,1,2,11,7,30,5,31,13,22,21,21,47,6,22,66,6,96,19,33,5,3,12,30,31,2,1,9
+Enseignement ANNUAME NTATINTIUEDEouCATON NATONALE	18171
 Enseignement Article	17827
 Enseignement Assemblée Législative	13442
 Enseignement BAD	17830
 Enseignement Direction Provinciale	13442
+Enseignement ECR Ecole Coranique Restructurée EF	18171
 Enseignement Elémentaire FAI Fournisseur	16626
 Enseignement Fondamental	13364,4448,3,157
+Enseignement Formation Ouverte	18121
+Enseignement Général CES Complexe	18171
 Enseignement Général de Zogbo	10821
 Enseignement IFSA Primaire	11905
 Enseignement Maternel	15479
@@ -249,24 +284,32 @@ Enseignement Originel Direction	17844
 Enseignement Originel MASEF MEDD Ministère des Affaires	17885
 Enseignement Page	15936
 Enseignement Pre-Universitaire	16638
-Enseignement Primaire	11905,11,3558,19,87,93,763
+Enseignement Primaire	11905,11,3558,19,87,93,763,1663
 Enseignement Professionnel	86,15407
 Enseignement Pré-Universitaire	16616,57
 Enseignement Pré-universitaire	16641
 Enseignement Préscolaire	5103,6802,3768
 Enseignement Restauration	10841
-Enseignement Secondaire	3396,11453,630,1056,1282,13
-Enseignement Secondaire Général	16436
+Enseignement Secondaire	3396,11453,630,1056,1282,13,269
+Enseignement Secondaire CFEEN Certificat de Fin	18171
+Enseignement Secondaire Franco	18099
+Enseignement Secondaire Général	16436,1663
 Enseignement Suite	17916
 Enseignement Superieur	14472,190
-Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649,308,11,327,1047,284,228,41,589,185,232,517,10,21,3,72,2,5,10,4,7,29,24,15,12,93,1,8,3,72,91,88,57,6,176,182,8,16,154,74,7,10,1,14,33,13,24,731,6,10,357,9,3,2,1,14,12,14,15,10,5,24
+Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649,308,11,327,1047,284,228,41,589,185,232,517,10,21,3,72,2,5,10,4,7,29,24,15,12,93,1,8,3,72,91,88,57,6,176,182,8,16,154,74,7,10,1,14,33,13,24,731,6,10,357,9,3,2,1,14,12,14,15,10,5,24,176,21,22,27,116,5
+Enseignement Supérieur Arabe	18143,27
 Enseignement Supérieur CAPEX Dépense	15474
 Enseignement Supérieur Cabinet du Président	15973
+Enseignement Supérieur Cellule	18121
+Enseignement Supérieur DGPPE	18291
 Enseignement Supérieur Dieudonné PAMBO Le Ministre	15361
 Enseignement Supérieur MESRSIT Ministère	15580
 Enseignement Supérieur MHz Mégahertz Mo Mégaoctet	15493
 Enseignement Supérieur Monsieur Ali Mohamed Ali	2960
 Enseignement Supérieur Optimiser	15999
+Enseignement Supérieur Privé	18143,27
+Enseignement Supérieur Public	18143,27
+Enseignement Supérieur. Cette	18143
 Enseignement Supérieur. Chirurgiens	15711
 Enseignement Supérieur. Il	16627
 Enseignement Supérieure	15500,2370
@@ -274,6 +317,7 @@ Enseignement Technique	8895,160,1227,1623,11,2556,58,92,754,98,19,3,177,39,136,8
 Enseignement Technique CSLP Cadre Stratégique de Lutte	17907
 Enseignement Technique PSCIPGO	15712
 Enseignement Technologique de Rosso	17853
+Enseignement UAM UEMOA Université Abdou Moumouni	18121
 Enseignement de Base	10847,4896
 Enseignement des Langues Nationales IPN Institut Pédagogique	17885
 Enseignement des Sciences de Santé	15487
@@ -283,11 +327,11 @@ Enseignement du Premier	10847
 Enseignement. L’initiative	10611
 Enseignements	1679,294,993,4689,2724,504,4606,150,209,214,421,1101,361,69,62
 Enseignements Restaurants	16708
-Enseignements Secondaire	15489,2328
+Enseignements Secondaire	15489,2328,352
 Enseignementsupérieur	15489
 Enseignent	8237
 Enseigner	13290,2383
-Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1,280,115,309,531,1189,6,136,273,4,764,139,40,758,6,13,26,9,5,19,14,30,13,2,42,16,9,12,7,27,15,27,10,2,59,8,21,36,13,75,2,99,140,18,52,2,1,115,16,75,63,96,110,432,660,28,3,15,38,45,68,42,21
+Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1,280,115,309,531,1189,6,136,273,4,764,139,40,758,6,13,26,9,5,19,14,30,13,2,42,16,9,12,7,27,15,27,10,2,59,8,21,36,13,75,2,99,140,18,52,2,1,115,16,75,63,96,110,432,660,28,3,15,38,45,68,42,21,29,65,33,108,7,56,24,8,18,3
 Ensemble Actuellement	13300
 Ensemble Aucun Primaire Post	737
 Ensemble Célibataire Marié	18014
@@ -309,6 +353,7 @@ Ensemble Niveau	13442
 Ensemble PTF	10874
 Ensemble Pourcentage	13300
 Ensemble Pourcentage Effectif	13300
+Ensemble Publier	18204
 Ensemble Rural Rural	13300
 Ensemble Secteur	13300
 Ensemble Sexe	18014
@@ -474,8 +519,8 @@ Ensino. TURMA	10766
 Ensoft	3733
 Ensoleillement	1005
 Ensuing	3583
-Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187,2227,51,34,149,282,514,130,99,292,622,32,5,42,26,124,20,15,125,56,239,474,6,17,103,812,246,140,54
-Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68,162,1,79,25,148,5,9,8,13,2,3,3,1,6,13,14,1,32,148,110,13,2,2,1,1,6,11,2,13,1,34,11,98,16,175,187,70,22,31,11,18,95,34,292,25,35,23,42,104,4,49,11,10,3,1,3,1,8,1,12,4,13,22,6,1,25,2,19,9,5,4,6,2,1,30,6,19,11,7,20,12,29,2,6,32,15,9,40,24,7,3,19,9,68,16,135,36,71,35,51,26,31,18,34,3,9,25,10,85,94,21,17,235,41,466,114,18,10,5,1,5,6,6,1,26,4,11,1,12,4,4,4,15,1,1,3,4,3,18,15,7,12,7,31,31,15,2,23,1,9,8,39,64,25,11,68,30,476,80,20
+Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187,2227,51,34,149,282,514,130,99,292,622,32,5,42,26,124,20,15,125,56,239,474,6,17,103,812,246,140,54,205,82
+Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68,162,1,79,25,148,5,9,8,13,2,3,3,1,6,13,14,1,32,148,110,13,2,2,1,1,6,11,2,13,1,34,11,98,16,175,187,70,22,31,11,18,95,34,292,25,35,23,42,104,4,49,11,10,3,1,3,1,8,1,12,4,13,22,6,1,25,2,19,9,5,4,6,2,1,30,6,19,11,7,20,12,29,2,6,32,15,9,40,24,7,3,19,9,68,16,135,36,71,35,51,26,31,18,34,3,9,25,10,85,94,21,17,235,41,466,114,18,10,5,1,5,6,6,1,26,4,11,1,12,4,4,4,15,1,1,3,4,3,18,15,7,12,7,31,31,15,2,23,1,9,8,39,64,25,11,68,30,476,80,20,335,65
 Ensure AI	1814,2714,7828,156,163
 Ensure AU Member States	1814
 Ensure Access	4528,7329,655
@@ -546,7 +591,7 @@ Ensured	10776,1953,2875,109,1293
 Ensures	236,2822,2187,908,2975,727,1274,87,700,23,9,4,262,32,716,75,5,1559,288,58,50,133,583,1250,136,15,43,382
 Ensures AI	14812
 Ensurethatcommunitiesarefullyinvolvedinlandmanagement Land	10960
-Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326,179,1,17,21,2,50,12,22,11,4,7,184,9,7,2,4,19,7,1,5,7,4,40,5,26,1,27,8,5,9,21,12,42,99,56,15,40,6,5,1,84,161,12,8,22,2,3,6,2,41,128,164,2,2,2,17,14,12,1,37,36,247,3,257,72,7,431,22,16,79,1,157,15,7,1,15,11,1,45,42,19,53,3,8,4,50,26,5,6,86,10,84,72,86,21,80,38,7,86,25,26,70,18,17,171,281,67,38,546,4,5,2,9,1,1,4,26,1,23,3,1,20,3,5,4,10,11,21,82,15,2,1,10,12,10,7,1,94,38,7,15,93,465,1
+Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326,179,1,17,21,2,50,12,22,11,4,7,184,9,7,2,4,19,7,1,5,7,4,40,5,26,1,27,8,5,9,21,12,42,99,56,15,40,6,5,1,84,161,12,8,22,2,3,6,2,41,128,164,2,2,2,17,14,12,1,37,36,247,3,257,72,7,431,22,16,79,1,157,15,7,1,15,11,1,45,42,19,53,3,8,4,50,26,5,6,86,10,84,72,86,21,80,38,7,86,25,26,70,18,17,171,281,67,38,546,4,5,2,9,1,1,4,26,1,23,3,1,20,3,5,4,10,11,21,82,15,2,1,10,12,10,7,1,94,38,7,15,93,465,1,500,60
 Ensuring AI	14674
 Ensuring Agile AI Governance	12210
 Ensuring Availability	16971
@@ -617,8 +662,11 @@ Financial Sustainability Ensure	11131
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 G and Fiber Ensure Data Privacy and Security	15713
 G. Ensuring	16958
+GENERAL DIRECTION GENERALE DES ENSEIGNEMENTS DIRECTION	18099
+GENERAL SECRETARIAT DIRECTION GENERALE DES ENSEIGNEMENTS	18099
 GRM Ensure	1988
 GROUPE INTERNATIONAL COACH ENSEIGNE	15780
+Garçons Filles Ensemble AGADEZ	18171
 General de Enseñanza Técnica	16864
 Good Practices For Ensuring Data Protection	11156
 Govt Inter- Ensure	11857
@@ -643,6 +691,7 @@ INFANTERIE GDR Enseignes	15744
 INSTITUIÇÕES DE ENSINO SUPERIOR	11391
 INTERVENTION EDUCATION SECTOR Ensure	16942
 INVESTMENT AND FUNDING Ensuring	14879
+ISE ITS TSS ENSAE	18291
 IV. Ensure	12706
 IV. PERSONNEL ENSEIGNANT IV.1 REPARTITION DES	10847
 IV. PERSONNEL ENSEIGNANT IV.2 REPARTITION DES	10847
@@ -675,6 +724,7 @@ LISTA DAS INSTITUIÇÕES DE ENSINO SUPERIOR	11391
 La Commission Enseignement Secondaire Général	17817
 La Commission Enseignement Supérieur	17817
 Le Ministre des Enseignements	15489,2328
+Le Ministre des Enseignements Secondaires MAMANE SANI	18099
 Ley de Enseñanza Superior	4209
 Liberia. Ensure	1777
 Lilongwe City Council Ensure	12253
@@ -682,9 +732,11 @@ Logé Autre Ensemble	18014
 Ludovic NGATSE MINISTERE DE L’ ENSEIGNEMENT	15615
 M. Mahamat Assileck Halata. Ensemble	3224
 MACS On-going Ensure ICT	16872
+MANAGEMENT ET ENSEIGNANT TECHNOLOGUE ETEC ECOLE	18170
 MINECOFIN X Ensure	15130
 MINISTRA DO ENSINO SUPERIOR	11391
 MODALIDADE DE ENSINO	10766
+MOUNKAILA HAROUNA Directeur ENS Dr. MOROU	18121
 MUYINGA. Ensuite	13375
 Maestro Diplomado de Enseñanza Primaria	16864
 Management Information Systems ENS EMIS Norms	13310
@@ -710,10 +762,14 @@ Ministry of Mines and Minerals Development. Ensure	13654
 Ministère Enseignement Supérieur Université Articles	15835
 Ministère des Enseignements	2966
 Ministère des Enseignements Maternel	16535
-Ministère des Enseignements Secondaires	17812
+Ministère des Enseignements Professionnels	18222
+Ministère des Enseignements Secondaires	17812,287
 Mission Ensuring	13991
 Mum Director General de Enseñanza Secundaria Ilmo	16864
+Ménages Population Caractéristique Urbain Rural Ensemble	18312
 Métodos de Ensaio Massa	15503
+NATIONALE DE LA PROTECTION CIVILE ENS	18170
+NATIONALE DE SANTÉ PUBLIQUE ENSTAT ECOLE	18143
 NESA Ensure	15130
 NID and Civil Registration Ensures	13681
 NOTEZ ENSEMBLE DE LIGNE DE LIGNE	13300
@@ -780,15 +836,20 @@ Privacy E ENS ArticleVisitor Data	6632
 Private Sector Service Providers Ensure	16872
 Proceso de Enseñanza-Aprendizaje	4209
 Processo de Ensino	12788
+Progrès MINISTERE DES ENSEIGEMENTS SECONDAIRES	18099
+Progrès MINISTERE DES ENSEIGNEMENTS SECONDAIRES SECRETARIAT	18099
 Promote Fair and Effective Competition Ensuring	17212
+Promotion des Enseignantes-	18286
 Protecting Privacy and Ensuring Security	14750
 Protéines Lipides Glucides Fibres Ensemble	737
 Précisez Ensemble	18014
 Préscolaire Primaire Postprimaire Secondaire Ensemble	737
 QUELS SONT LES ENSEIGNEMENTS TIRÉS POUR	18015
 Quarterly Ensure	17114
+R INSTITUT DES ENSEIGNEMENTS PROFESSIONNEL ET	18143,27
 R10. Ensure	13314
 R2. Ensure	13312,2
+Raison Homme Femme Ensemble Obtenir	18204
 Recherche ESRS Enseignement Supérieur	12
 Rede Moçambicana de Ensino	8807
 Rede Nacional de Ensino	11569
@@ -802,6 +863,11 @@ Rural Féminin Ensemble Ensemble Masculin Féminin	18014
 Rwanda Environmental Management Authority. Ensure	9123
 Rwanda. Rwanda Data Ensuring	15034
 Région Homme Femme Ensemble Boucle du Mouhoun	15557
+Résidence Caractéristique Urbain Rural Ensemble Chef	18312
+Résidence Ensemble N	18312
+Résidence Possession Urbain Rural Ensemble Biens	18312
+Résidence Résultat Urbain Rural Ensemble Interviews	18312
+Résidence Urbain Rural Ensemble	18312
 SA DT JR Ens ES	163
 SADC ENS	13310
 SETIC Short High Ensure	13314
@@ -817,6 +883,7 @@ Secondaire Ensemble Supérieur Technique	18014
 Secundário Ensino	10777
 Services Ensuring	15061
 Serviços de Ensino	12018
+Sexe Masculin Féminin Ensemble	18312
 Sistema de Ensino	11577,1200
 Site Ensuring	12253
 Sont Ens	15744
@@ -832,31 +899,39 @@ Subsistemas de Ensino. FORMAÇÃO PROFISSIONAL BÁSICA	10766
 Substantial Ensure	10768
 Sud-Ouest Ensemble	10875
 Suite Caractéristique Urbain Ménages Ensemble Urbain	13300
+Suite Résidence Urbain Rural Ensemble	18312
 Support Sustainable Investment Ensuring	17212
 Sustainable Ensuring	12674
 Syndicat des Enseignants-Chercheurs du Mali	17982
 Système Statistique National Ensemble	10874
+Sénégal ENSAE	18291
 Sœurs Frères Ensemble Effectif Pourcentage Effectif	13300
 TEA PP.4.A.5 Ensure	15604
 TIC NO SISTEMA DE ENSINO	11397
 TikTok. Ensemble	18044
+Togo Ensemble	18291
 Tracking System Ensuring	4260
 UNHCR Ensure	13938
 UNICEF. Ensuite	15673
+UNIS ENSEMBLE	18317
 Uganda Finance E ENS ArticleSettlement	6998
 Un Enseignant-Chercheur	17874
 Un Enseignement Supérieur	12
 Underfloor Cable Trays Ensure	9123
+Union Démocratique des Enseignants du Sénégal	18286
 Unlock Additional Resources Pillar V Ensure	16188
 Urbain Ensemble	737
 Urbain Ménages Ensemble Urbain Population Ensemble	13300
 Urbain Rural Ensemble	737,12563
 Urbain Rural Ensemble Cascades Centre	10875
 Urbain Rural Ensemble Célibataire	737
+Urbain Rural Ensemble Endroit	18312
 Urbain Rural Ensemble Maison	737
 Urbain Rural Ensemble Région	737
 Urbain Rural Ensemble Sexe du CM Masculin	737
+Urbain Rural Ensemble Statut	18312
 Urbain Rural Ensemble Taux	15557
+Urbain Rural Ensemble Technologie	18312
 Urbain Rural Ensemble Urbain Rural Ensemble	10875
 VERITAS MAKES EVERY EFFORT TO ENSURE	972
 VEUF ANS ANS POSEZ ENSUITE	13300
@@ -870,3 +945,9 @@ Vivre Ensemble Nombre	15999
 Voirie Ensemble	15542
 World Bank’s Substantial Ensure PIM	10768
 Yaoundé. K. Ensuring	16958
+Zinder Niamey Ensemble	18204
+Zinder Niamey Ensemble ANNEXE	18204
+Zinder Niamey Ensemble Ensemble	18204
+Zinder Niamey Ensemble Ligne	18204
+Zinder Niamey Ensemble Raison Homme Femme	18204
+Zinder Niamey Ensemble Réseau	18204

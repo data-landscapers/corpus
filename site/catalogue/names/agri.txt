@@ -35,7 +35,7 @@ AGRICULTURAL PRODUCTIVITY IN BURUNDI	13624
 AGRICULTURAL PURPOSES	17043
 AGRICULTURAL SECTOR	12090
 AGRICULTURAL SUB-PROJECT ACTIVITIES Date Submitted	1988
-AGRICULTURE	737,12287,396,54,1553,1691,182,35,293
+AGRICULTURE	737,12287,396,54,1553,1691,182,35,293,1091
 AGRICULTURE AND FOOD SECURITY	14409
 AGRICULTURE AND FOOD SECURITY ARTICLE	14409
 AGRICULTURE EXTRACTIVE MANUFACTURING CONSTRUCTION SERVICES	17235
@@ -48,6 +48,8 @@ AGRIHUB	1009
 AGRINATURA	13325
 AGRIPSYCH BEAM LIMITED Data Controller INST-8527681FC29	7167
 AGRIPSYCH BEAM LIMITED Data Processor INST-8527681FC29	7167
+AGRIS	18291
+AGRIS P1	18291
 AGRISURE KENYA LIMITED Data Controller INST-655441BB649	7167
 AGRISURE KENYA LIMITED Data Processor INST-655441BB649	7167
 AGRITEX	520,1034
@@ -72,16 +74,18 @@ Abbreviations FAO Food and Agriculture Organization	15129
 Abstract The Food and Agriculture Organization	12667
 Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Abuja The Federal Ministry of Agriculture and Food	7219
+Accelerate Climate-Resilient Agriculture	18197
 Accounts SDGs Agriculture Statistics External Trade	12499
 Acquisition of Agricultural	12912
 Action Agricultural	789
+Adaptation of Agriculture and Food Security	18309
 Administration and Agriculture	10313
 Administration and Agriculture. My	10313
 Affairs MOA Ministry of Agriculture NCC National	16970
 Affairs and Agriculture	5579
 Africa ALHA Agricultural Land Holdings Account	11261
 Africa Agriculture Acceleration Program	16144
-Africa Agriculture Watch	15838
+Africa Agriculture Watch	15838,2486
 Africa's Agri-Food Systems	8755,1856,2957,2590
 Africa. Agribusiness	11608
 African Agri Investment Indaba	8755,4813,2590
@@ -157,7 +161,7 @@ AgriZoom	15493
 Agria Rhamdhan	10764
 Agriarche	7015
 Agribank	13097
-Agribusiness	789,989,210,2138,7343,1510,389,3643,94
+Agribusiness	789,989,210,2138,7343,1510,389,3643,94,1188,97
 Agribusiness EIB and AFD	789
 Agribusiness Forum	10841
 Agribusiness Forum STEM Science	12329
@@ -175,7 +179,7 @@ Agric Infrastructure Fund	5267
 Agric Ministry	7219,9958
 Agric Show By Editorial Team	13477
 Agric-tech	12444
-Agricole	14818,3011,12,4,100,68,64
+Agricole	14818,3011,12,4,100,68,64,127
 Agricole APCAM	17841
 Agricole EPAJ Enquête de Perception Auprès	17907
 Agricole INSTAT	17842
@@ -187,6 +191,7 @@ Agricu Elevag	737
 Agriculteurs	17584,361
 Agriculteurs Connectés de Guinée	9325
 Agricultores	1701,9725,53,48
+Agricultu	18324
 Agricultura	1265,436,1115,1393,1454,2340,45,2439,270,633,31,61,45,15,5,30,324,78,798,46,2610,1054,351,37,23,71,12,112,7
 Agricultura FETP Programa de Formação	11376
 Agricultura FMI Fondo Monetario Internacional GBR	16898
@@ -195,7 +200,7 @@ Agricultura FRA Informe	16875
 Agricultura Inteligente	2816
 Agricultura Sem	10777
 Agricultura Utilizando	2816
-Agricultural	970,858,160,2138,1121,318,857,1423,838,878,585,617,16,62,123,233,61,162,300,186,184,124,155,4,16,56,152,315,19,10,83,289,1,44,27,70,169,325,617,3,6,19,224,61,118,30,58,33,254,101,131,111,551,577,5,19,33,96,47,96,18,20,58,5,45,81,518,132
+Agricultural	970,858,160,2138,1121,318,857,1423,838,878,585,617,16,62,123,233,61,162,300,186,184,124,155,4,16,56,152,315,19,10,83,289,1,44,27,70,169,325,617,3,6,19,224,61,118,30,58,33,254,101,131,111,551,577,5,19,33,96,47,96,18,20,58,5,45,81,518,132,88,21
 Agricultural Activities	17043
 Agricultural Activities Agricultural	17043
 Agricultural Activities Practiced and Region	17043
@@ -299,11 +304,14 @@ Agricultural Research Stations and Conservancies. BACKGROUND	12912
 Agricultural Research The Kenya Agricultural and Livestock	6554
 Agricultural Research and Extension Institute	11332
 Agricultural Research and Extension Unit	14721
+Agricultural Resilience Program	18301
+Agricultural Risk Management Platform	18309
 Agricultural Science	16852
 Agricultural Sector	6948,3908,4946,1355,117
 Agricultural Sector 39 MOROCCO	17503
 Agricultural Sector Drought	17157
 Agricultural Sector Expert	13885
+Agricultural Sector Risk Assessment	18104
 Agricultural Sector Stakeholders	17761
 Agricultural Sectors	17011
 Agricultural Service Center Establishment	15578
@@ -349,7 +357,7 @@ Agricultural and Marine Media Subsidize	17157
 Agricultural and Mining Agricultural and Mining	16853
 Agriculturalists	6948
 Agriculturally	17285
-Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31
+Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103
 Agriculture AI	4528,7984
 Agriculture About	16921
 Agriculture Acting Head	12972
@@ -379,6 +387,7 @@ Agriculture Commercialisation Project	12253
 Agriculture Commercialization	13122
 Agriculture Comores	13746
 Agriculture Composition of GDP	10856
+Agriculture DAGRH	18291
 Agriculture DNM	16621
 Agriculture DNPD	17842
 Agriculture Data Controller INST-458655D16E5 NAIROBI Kenya	7167
@@ -389,6 +398,8 @@ Agriculture Development and Marketing Cooperation	12253
 Agriculture Development and Modernization	16861
 Agriculture Direction	17844
 Agriculture Données	15583
+Agriculture Dr ALAMBEDJI ABBA ISSA Pour	18115
+Agriculture EDSN	18100
 Agriculture Economist	13049
 Agriculture Engineering Secretary	9609
 Agriculture Evaluation Mettre	15583
@@ -407,11 +418,12 @@ Agriculture Forestry and Fishing	2775
 Agriculture Honourable Speaker	17105
 Agriculture Household Survey	14997
 Agriculture Humanitarian	11994
+Agriculture ID	18422
 Agriculture ISCAM	13377
 Agriculture Industry	11000
 Agriculture Infrastructure	13474
 Agriculture Initiative	13341
-Agriculture Intelligente	16621
+Agriculture Intelligente	16621,1688
 Agriculture Investment	16970
 Agriculture Investment Bank	16951
 Agriculture Investment Program	17139
@@ -437,6 +449,7 @@ Agriculture Numérique du Bénin Stratégie Nationale	15583
 Agriculture Officer	12972
 Agriculture Organization GC Governance Commission GOL	16970
 Agriculture Output and Intermediate Consumption1	2775
+Agriculture PADEC Projet	18286
 Agriculture Page	15936
 Agriculture Performance Bulletin	14818
 Agriculture Permanent Secretary	13366
@@ -462,6 +475,7 @@ Agriculture Soil Surveyor SADC Secretariat	12972
 Agriculture Statistics	12194,4849,84
 Agriculture Strategy	1257,11826
 Agriculture Stratégies	13341
+Agriculture Sénégalaise PRAPS Projet	18286
 Agriculture Technical College Ministry ECWA FMW	11129
 Agriculture Technology Diffusion Scheme	14818
 Agriculture The EU	12985
@@ -497,12 +511,14 @@ Agriculture and Food Systems Transformation	12162
 Agriculture and Forestry	1161,11773,2151
 Agriculture and Forestry Output	17235
 Agriculture and Forestry-	15085
+Agriculture and Forests	18293
 Agriculture and General	9409
 Agriculture and Health	12950
 Agriculture and Innovative Namibian Entrepreneurs	12450
 Agriculture and Justice	12964,739
 Agriculture and Land Reclamation	16145
 Agriculture and Livestock	10313,3001,264
+Agriculture and Livestock SNIS Ministry of Urban DGH	18198
 Agriculture and Manufacturing	11296
 Agriculture and Mining Concession	16853
 Agriculture and Natural Resource Policy	16861
@@ -512,6 +528,7 @@ Agriculture and Natural Sciences	13368
 Agriculture and Nature Capital Bond	6213
 Agriculture and Research	14879
 Agriculture and Rural Development	1228,13041
+Agriculture and Rural Equipment	18293
 Agriculture and Rural Projet	10985
 Agriculture and Social Statistics	12962
 Agriculture and Social Statistics Division	12962
@@ -556,6 +573,7 @@ Agrioun	15394
 Agripah Handura	13189
 Agripreneuriat des Jeunes	10492
 Agripreneurs	16627
+Agrisan	18286
 Agritech	2281,296,2637,2354,4771,37,719,1657
 Agritech Expo Zambia	12376
 Agritech Expo Zambia. Accessed	12376
@@ -573,6 +591,7 @@ Airport JKUAT Jomo Kenyatta University of Agriculture	2775
 Alienation of Agricultural Land	12912
 America USDA United States Department of Agriculture	17157
 Aménagement Agricole Planifiées	8303
+Aménagement Hydro Agricole BAD	18118
 Analysis DAFF Department of Agriculture	11188
 Analysis of Agricultural Empowerment Profiles	15473
 Angola Smallholder Agricultural Transformation	10768
@@ -586,6 +605,7 @@ Anti-Corruption Commission Zimbabwe Agricultural	1154
 Apollo Agriculture	46,576,11588
 Apollo Agriculture Inc	622
 Area Council Ministry of Agriculture Ministry of Environment	16973
+Association of Agricultural Engineers of Niger	18197
 Australia Agriculture Agriculture Economist European Union	12972
 Authority Improve Agricultural MoA and BSC	16863
 Authority NARI National Agricultural Research Institute	17105
@@ -619,6 +639,7 @@ Boosting Agriculture and Food System Resilience	16436
 Border Crossings Libyan Agricultural Officials Detained	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Botswana University of Agriculture and Natural Resources	12634
 Bourse des Matières Premières Agricoles	2342
+Building Agricultural Systems Resilience	18131
 Building Resilient Digital Agribusiness Leadership	11469
 Burkina Faso. African Journal of Agricultural Research	15715
 Burkina Faso. Journal of Agricultural Economics	15715
@@ -653,6 +674,7 @@ Climate Resilient Agriculture	1867,121
 Climate Resilient Agriculture Number	1867
 Climate Smart Agriculture	970
 Climate Smart Agriculture Framework	970
+Climate Smart Agriculture Support Project	18104
 Climate Smart Agriculture-	970
 Climate and Environment Agriculture and Food Security	13685
 Climate-Resilient Agriculture	1867
@@ -688,7 +710,7 @@ Construction Agriculture Non	10875
 Consultative Groups for International Agricultural Research	12090
 Consumidor MAA Ministério da Agricultura	15535
 Continental AgriTech Blueprint for Africa . Kigali	11140
-Contributing Practice Areas Agriculture and Food	1867
+Contributing Practice Areas Agriculture and Food	1867,16331
 Coopérative Agricole	1247
 Corporaciones Locales No Registros Ministerio de Agricultura	16898
 Corporaciones Locales Sí Registros Ministerio de Agricultura	16898
@@ -703,6 +725,7 @@ D.G. DE INSPECC. GEN.DE AGRICULTURA	4209
 DEFINITION DES REVENUS AGRICOLES	15534
 DELEG. TOTAL DIRECTIVO AGRICULTURA	4209
 DEPARTMENT OF AGRICULTURE	7167
+DES TERRES AGRICOLES Section	18094
 DETERMINATION DU REVENU AGRICOLE	15534
 DIGITAL AGRICULTURAL INFORMATION BILL	14575
 DIGITAL AGRICULTURE AND INNOVATIONS	14575
@@ -712,6 +735,7 @@ DISTRIBUTION OF AGRICULTURAL HOLDINGS BY CROP	17043
 DISTRIBUTION OF AGRICULTURAL PARCELS BY GREENHOUSE	17043
 DISTRIBUTION OF HOLDINGS BY AGRICULTURAL ACTIVITIES	17043
 DRM. Agriculture Sector	17011
+DU CREDIT AGRICOLE Article	18094
 DU MERITE AGRICOLE	17841
 Data Pact The National Agricultural	8818
 Datasets. the National Agricultural and Health	12512
@@ -732,6 +756,7 @@ Departmental Committee of Agriculture and Livestock	10313
 Departments of Agriculture	11188
 Dept of Agriculture	7167
 Deputy Chief Agriculture Officer Prof. Aiah	9965
+Deputy Minister of Agriculture and Animal Husbandry	18220
 Development Authority FAO Food and Agriculture Organization	17043
 Development DoA Department of Agriculture DOD Department	11261
 Development of Agricultural Services and Irrigation Services	15578
@@ -747,12 +772,14 @@ Digital Agriculture Session	17070
 Digital Agriculture Solution Tracker	1102
 Digital Agriculture Strategy	1257
 Digital Agriculture and Innovation	14551
-Digital Earth Africa Agriculture	11239
+Digital Earth Africa Agriculture	11239,7140
 Digitisation and Dissemination of Agricultural Content	6946
 Digitize Agricultural Payments	2562
 Digitize Agriculture Sector	6280
 Director of Agriculture and Environment Division	13896
-Directorate of Agriculture	15473
+Directorate of Agriculture	15473,2836
+Directorate of Agriculture DEEC	18309
+Directorate of Agriculture DIREL	18309
 Distribution of Agricultural Holdings	17043
 Distribution of Agricultural Households	16921
 Distribution of Agriculture	16935
@@ -765,8 +792,10 @@ Drive Evidence-based Agricultural Financing	8818
 Driving Agricultural Digital Transformation	13095
 Drought Indices for Agricultural Drought Monitoring	12614
 Drought Intensity Agricultural	11762,1988
+Dry-land Agricultural Research. Technical	18220
 Développement Agricole	2342
 Développement Agricole PNDE Plan National de Développement	17873
+Développement Agricole. Les Ministères	18169
 Développement CTA Centre Technique de Coopération Agricole	15583
 E AMBIENTE O Ministro da Agricultura	12807
 E- Agriculture	16861
@@ -803,6 +832,7 @@ Engineering and Agricultural Technologies and Fishing	16942
 Enhance Agricultural	16951
 Enhance Agricultural Resilience for African Countries	14140
 Enquête Agricole	17945
+Enquête Agricole Annuelle	18422
 Enquête Agricole Annuelle. Cette	9286
 Enquête Agricole Annuelle. Parallèlement	9286
 Enquête Agricole de Conjoncture	9553,8392,33
@@ -887,7 +917,7 @@ Food and Agriculture Laboratory Items	14736
 Food and Agriculture Organisation	9136,5585,2380
 Food and Agriculture Organisation F.P	13377
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63,927,8,8
 Food and Agriculture Organization FBO Faith Based	2775
 Food and Agriculture Organization FIRMS Fishery Resources	17157
 Food and Agriculture Organization of United Nations	12667
@@ -935,6 +965,7 @@ Health and AgriTech	4528,7984
 HealthTech and AgriTech	14340
 Hon. Minister for Agriculture	13126
 Household Head and County Agriculture Households Male	16921
+Household Living Conditions and Agriculture	18104
 Human Resources and Agriculture Statistics	12325
 Hídricos Sí Ministerio de Agricultura	16898
 I.3.6. Agriculture	15936
@@ -963,10 +994,12 @@ India Agri Stack	5267
 India's AgriStack	14081
 Industries Agricoles du Congo	15848
 Industry and Agriculture	13123
+Information Agricole DSDS	18291
 Information Agricole Système Statistique National Très	17978
 Infrastructure Development Agriculture Drone Spray	13474
 Installation des Jeunes Ministry of Agriculteurs	10985
 Institut National de Recherche Agricole	15583
+Institut Sénégalais de Recherches Agricoles	18291,45
 Institute for Agriculture and Trade Policy	6231
 Institute of Agricultural Research for Development	15648
 Integrated Agricultural Project	16256
@@ -1115,6 +1148,8 @@ Minister of Agriculture and Environment	15552
 Minister of Agriculture and Fisheries	12771
 Minister of Agriculture and Food Security	7219,2746
 Minister of Agriculture and Food Security and Mr. Jean	16256
+Minister of Agriculture and Livestock	18142,55,23
+Minister of Agriculture and Livestock of Niger	18197
 Minister of Lands and Agriculture	7236,5369,2
 Minister of State for Agriculture	16331
 Minister of State for Agriculture and Food Security	9876,6920
@@ -1125,7 +1160,7 @@ Ministries of Lands and Resettlement and Agriculture	12912
 Ministro da Agricultura	15503,493
 Ministro de Agricultura	16925
 Ministry Of Agriculture	16863
-Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217,44,23,13,29,44,24,34,87,100,27,2,106,27,27,39,97,75,10,1,8,14,11,1,5,10,5,65,7,31,3,10,1,1,28,242,38,107,282,186,20,4,2,34,54,33,21,5,11,146,255,63,371,132,9,340,72,39,69,726,14,450,5,5,58,11,8,12,4,16,3,73,4,23,29,6,9,13,13,17,8,51,58,15,17,5,55,1,231,438
+Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217,44,23,13,29,44,24,34,87,100,27,2,106,27,27,39,97,75,10,1,8,14,11,1,5,10,5,65,7,31,3,10,1,1,28,242,38,107,282,186,20,4,2,34,54,33,21,5,11,146,255,63,371,132,9,340,72,39,69,726,14,450,5,5,58,11,8,12,4,16,3,73,4,23,29,6,9,13,13,17,8,51,58,15,17,5,55,1,231,438,162,103
 Ministry of Agriculture Agriculture	17011
 Ministry of Agriculture By Dorcas Kabuya	13366
 Ministry of Agriculture Immediate Ban	17157
@@ -1150,11 +1185,14 @@ Ministry of Agriculture and Forestry	1161,10237
 Ministry of Agriculture and Irrigation	9587,5362,169,24
 Ministry of Agriculture and Land Reclamation	15473
 Ministry of Agriculture and Land Reclamation of Egypt. Data	16466
-Ministry of Agriculture and Livestock	4762,5551,4263,2370,211
+Ministry of Agriculture and Livestock	4762,5551,4263,2370,211,1041
 Ministry of Agriculture and Livestock FOR MORE INFORMATION	14576
 Ministry of Agriculture and Livestock. The Agency	17157
 Ministry of Agriculture and Rural Development	10964,21,4663,154
+Ministry of Agriculture and Rural Equipment. The PARM	18309
 Ministry of Agriculture's Digital Farmer Registry System	2872
+Ministry of Agriculture. Cash	18301
+Ministry of Agriculture. Initially	18301
 Ministry of Agriculture. Institutionalizing	14020
 Ministry of Agriculture. Professionalization	15138
 Ministry of Agriculture. Support	1988
@@ -1198,6 +1236,7 @@ Nane Nane Agricultural Exhibitions	9453
 Nane Nane International Agricultural Exhibition	8883
 Nanenane International Agricultural Exhibition	9492
 National Adaptation Plan for Agriculture	14818
+National Agency for Agricultural and Rural Advisory AWS	18309
 National Agri-Entrepreneurship Programme	14818
 National Agricultural	17157
 National Agricultural Chemical	14546
@@ -1209,6 +1248,7 @@ National Agricultural Digital Infrastructure Framework	14818
 National Agricultural Disaster Database	14818
 National Agricultural Export Development Board	8674
 National Agricultural Finance Implementation Roadmap	5267
+National Agricultural Insurance Fund of Senegal CNCR	18309
 National Agricultural Investment Plan	11536
 National Agricultural Observatory	14818
 National Agricultural Policy	8550
@@ -1217,6 +1257,7 @@ National Agricultural Reinsurance Facility	14818
 National Agricultural Research Institute	16852
 National Agricultural Research and Development Institute	12544
 National Agricultural Research and Development Policy	13060
+National Agricultural Sample Survey	18185
 National Agricultural and Health	4528
 National Agriculture Foundation	14997
 National Agriculture Insurance	14997
@@ -1244,6 +1285,7 @@ Network NAMBoard National Agricultural Marketing Board	12970
 Network Operators MOA Ministry of Agriculture MoCDE	17105
 Network of Agricultural Extension Agents	12529
 News Agriculture A Closer Look	5407,676
+Niger Livestock and Agriculture Modernization Project	18198
 Nigeria Agribusiness Group and Farmer Aggregation Companies	5765
 Nigeria Incentive-based Risk Sharing System for Agricultural	5267
 Nkwene Inkhundla. Agriculture Value Chains	12962
@@ -1271,12 +1313,14 @@ PANORAMA SECTORIEL AGRICULTURE DES PERFORMANCES FINANCIÈRES	2342
 PLOT TYPE Region Total Agricultural	17043
 PPI for Agriculture	14777
 PRECISER C.ACTIVITES AGRICOLES ET COMMERCIALES	13390
+PRIVE DES TECHNIQUES AGRICOLES ISPTAE INSTITUT	18170
 PRODUCTION ET PRODUCTIVITE DES FILIERES AGRICOLES	15999
 PRODUITS VÉGÉTAUX AGRICOLES	16103
 PROLOGUE MAURITANIE Agriculture	17896
 PSIP and Agricultural Support	17139
 Paralysis AMR Anti-Microbial Resistance ARREST Agriculture	17289
 Parastatal Agricultural Marketing Board	14847
+Parlementaires CNCAS Caisse Nationale de Crédit Agricole	18286
 Partial Agricultural Collapse Full Agricultural Collapse	17157
 Participatory Integrated Climate Services for Agriculture	4172
 Percentage Agriculture	2775
@@ -1289,11 +1333,12 @@ Plan for Agricultural Transformation	14997
 Planned Agricultural Development Zones	17613
 Planning NAEB National Agricultural and Export Development	14985
 Plant Genetic Resources for Food and Agriculture JE	11197
+Platform for Agricultural Risk Management PCE	18309
 Poder Local Ministério da Agricultura	11569
 Police Agricole	14818
 Police Agricole Unit	14818
 Policy Ministry of Foreign Affairs Ministry of Agriculture	17105
-Politique Agricole	16359
+Politique Agricole	16359,1756
 Politique Foncière Agricole	16718
 Politique Foncière Agricole du Mali	17827
 Politique Nationale de Développement Agricole	16621
@@ -1379,6 +1424,10 @@ SOUS-SECTION V DES BENEFICES AGRICOLES	15999
 SPARC Supporting Pastoralism and Agriculture	15220
 SPATIAL DISTRIBUTION OF AGRICULTURAL HOLDINGS LAAS-2024	17043
 STATUTS INDUSTRIES AGRICOLES DU CONGO En	15848
+SUPERIEUR PRIVE DE TECHNOLOGIE AGRICOLE ET	18170
+SWAMI AGRI	18322
+SWAMI AGRI SAU	18322
+SWAMI AGRI. L’instruction	18322
 Saharan Africa. African Journal of Agricultural Research	16996
 Scale AgriFood Supply Chain Agricultural	10931
 Scale Precision Agriculture AI Tunisian	9385
@@ -1421,17 +1470,20 @@ Social Development Specialist Agriculture Support	1988
 Social Services Administration and Agriculture	10313
 Social Services Administration and Agriculture. Looking	10313
 Société Ivoirienne de Transformation Agricole	2342
+Société de Développement Agricole	18291
 Soil Specialist and Ministry of Agriculture Focal Person	17306
 Soil and Agriculture	17157
 South Africa. Agritech and Cleantech	12376
 Spots of Agricultural Production	15715
 Sr. Don Agripino Felipe Owono Ondó	16920
+Standards FAO Food and Agriculture Organization FM	18301
 State Department for Agriculture	14546
 State Land Uses MALR Ministry of Agriculture	15473
 State Minister of Agriculture and Irrigation	14972
 State of Eritrea HAC Hamelmalo Agriculture College	13960
 State of Food and Agriculture	17127
 Statistiques Agricoles	16616,1329
+Statistiques Agricoles DCI	18291
 Statistiques Agricoles SSN Système Statistique National	15479
 Stratégie Agricole	13806
 Stratégie Nationale Agricole	13442
@@ -1501,7 +1553,7 @@ Union FAO Food and Agriculture Organization FM	16952
 Union FAO Food and Agriculture Organization FMC	17105
 Unit of Analysis Agricultural	17165,201
 United Nations Agencies for Food and Agriculture Ambassador	14890
-United Nations Food and Agriculture Organization	13094,2035,1841
+United Nations Food and Agriculture Organization	13094,2035,1841,1134
 United Nations Food and Agriculture Organization19	10763
 Urban and Infrastructure and Ministry of Agriculture	14019
 Usage Agricole	14488,1,1

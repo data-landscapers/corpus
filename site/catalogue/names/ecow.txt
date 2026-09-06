@@ -51,12 +51,12 @@ ECOWAN Network	16885,38
 ECOWAN and NBN	16883
 ECOWAN the AfDB	16884
 ECOWAP	16627
-ECOWAS	7,19,1,1,524,193,44,18,154,58,142,16,2,64,21,13,54,25,279,20,122,37,95,408,45,48,371,13,9,36,165,85,3,34,301,44,133,20,54,43,38,64,30,6,66,177,47,219,26,121,67,1,118,37,89,17,4,80,217,65,34,107,11,1,32,5,179,1,96,5,101,180,29,12,60,289,51,19,49,109,14,105,239,379,135,424,45,44,107,450,10,264,321,77,144,131,83,84,36,259,16,126,84,1,104,98,148,1,17,46,72,149,26,3,13,3,61,10,3,237,368,7,11,1,12,4,56,255,23,3,126,112,915,803,293,95,92,109,245,450,234,11,50,6,61,59,71,107,97,54,265,57,42,349,2,3,79,29,63,62,13,29,2,2,7,1,1,3,20,16,2,1,8,1,7,6,2,21,3,35,1,7,59,28,9,2,1,21,1,13,22,13,34,7,7,22,3,17,10,10,26,1,28,1,14,13,52,313,47,70,8,13,53,155
+ECOWAS	7,19,1,1,524,193,44,18,154,58,142,16,2,64,21,13,54,25,279,20,122,37,95,408,45,48,371,13,9,36,165,85,3,34,301,44,133,20,54,43,38,64,30,6,66,177,47,219,26,121,67,1,118,37,89,17,4,80,217,65,34,107,11,1,32,5,179,1,96,5,101,180,29,12,60,289,51,19,49,109,14,105,239,379,135,424,45,44,107,450,10,264,321,77,144,131,83,84,36,259,16,126,84,1,104,98,148,1,17,46,72,149,26,3,13,3,61,10,3,237,368,7,11,1,12,4,56,255,23,3,126,112,915,803,293,95,92,109,245,450,234,11,50,6,61,59,71,107,97,54,265,57,42,349,2,3,79,29,63,62,13,29,2,2,7,1,1,3,20,16,2,1,8,1,7,6,2,21,3,35,1,7,59,28,9,2,1,21,1,13,22,13,34,7,7,22,3,17,10,10,26,1,28,1,14,13,52,313,47,70,8,13,53,155,34,73,22,65,89
 ECOWAS ADVANCES HARMONISATION OF THE REGIONAL	10509
 ECOWAS ADVANCES REGIONAL CYBERSECURITY COOPERATION THROUGH	9470
 ECOWAS AUTHORITY OF HEADS	4114,3338
 ECOWAS Act	1243,1213,9094,5374
-ECOWAS Additional Act	11548
+ECOWAS Additional Act	11548,6757
 ECOWAS Advances Harmonisation	10509
 ECOWAS African	16935
 ECOWAS African Union Convention	5244
@@ -66,6 +66,7 @@ ECOWAS Authority of Heads of State and Government	7452,8276,515
 ECOWAS Authority of Heads of State and Government and H.E	7452
 ECOWAS Ave	16837
 ECOWAS Bank President Alberto Mario Noretti	9536
+ECOWAS Bank for Investment	18220
 ECOWAS Bank for Investment and Development	7452,2084,7113,592,775
 ECOWAS Bank for Investment and Development AI	9536
 ECOWAS Bank of Investment and Development	16256
@@ -100,6 +101,7 @@ ECOWAS Commissioner for Economic Affairs and Agriculture	16676
 ECOWAS Commissioner for Infrastructure	15825,1185
 ECOWAS Commissioner for Internal Services	16243
 ECOWAS Commission’s Directorate of Research and Statistics	10508
+ECOWAS Commnity Tax	18285
 ECOWAS Common Approach	16874
 ECOWAS Common Positions	16243
 ECOWAS Community	17367
@@ -130,6 +132,7 @@ ECOWAS Digital Agenda	5676
 ECOWAS Digital Observatory	16144
 ECOWAS Digital Sector Development Strategy	1909
 ECOWAS Director of Free Movement of Persons	17221
+ECOWAS Directorate	18374
 ECOWAS Directorate of Finance	1264
 ECOWAS Directors of Statistics	7
 ECOWAS Disbursement and Financial Information Letter EDGE	3604
@@ -155,6 +158,7 @@ ECOWAS ICT	16883,979
 ECOWAS ICT Development Framework	16975
 ECOWAS ICT Regulatory Watch	17870
 ECOWAS ID Card	1655
+ECOWAS IDENTITY CARD	18287
 ECOWAS Information Sharing and Analysis Centre	9470
 ECOWAS Infrastructure Commission	1264
 ECOWAS Infrastructure Sector Assessment Program	1264
@@ -195,6 +199,7 @@ ECOWAS Payment and Settlement System	6938,1128,9169
 ECOWAS Peace and Security Council	11149
 ECOWAS Permanent Representation	15879
 ECOWAS Project Preparation and Development Unit	10509,5370
+ECOWAS Projects	18220
 ECOWAS Protocol	7452,9422,77,66
 ECOWAS Protocols	16874
 ECOWAS Quality Policy	16908
@@ -245,6 +250,7 @@ ECOWAS Technical Secretariat	7
 ECOWAS Trade Fair	6422
 ECOWAS Trade Levy	17011
 ECOWAS Trade Liberalisation Scheme Taskforce Mr	7452
+ECOWAS Trade Liberalisation Scheme. Products	18285
 ECOWAS Trade Liberalization Scheme	15728
 ECOWAS Travel Certificate and Resident Permit	12015
 ECOWAS Treaty	1264,3474,6779,3846,11
@@ -314,6 +320,7 @@ Guinea and ECOWAS	312
 HANA ECOWAS	6422
 Heads of ECOWAS Institutions	14325
 Heads of ECOWAS National Offices	10909
+Health Emergencies ECOWAS Economic Community of West	18198
 Host ECOWAS Youth Development Centre Liberia	16961
 I1e ECOWAS Treaty	11517
 ICT and Digitalization Adopts the ECOWAS Digital Sector	1909
@@ -388,7 +395,7 @@ UN ECOWAS	14897
 Univeral Access ECOWAS Engl	16594
 VI- ON HARMONISATION OF ECOWAS POSITION	7452
 WAEMU Commission and ECOWAS Digital Governance Unit	16144
-WAEMU and ECOWAS	11524,4620,1726
+WAEMU and ECOWAS	11524,4620,1726,415
 WAEMU and ECOWAS. Mali	17870
 WOMEN WITH THE ISSUANCE OF ECOWAS	17221
 West Africa. ECOWAS Resident Representative Strengthens	15825

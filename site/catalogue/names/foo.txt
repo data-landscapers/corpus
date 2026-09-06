@@ -16,6 +16,7 @@ Accommodation and Food Services	2775,10873,1437
 Accommodation and Food Services and Other Service Activities	15085
 Accomodation and Food Services	2775
 Acute Food Insecurity Situation	3583
+Adaptation of Agriculture and Food Security	18309
 Adequate Food	3583
 Africa Food Systems Forum	17139,459
 African Local Food Market	14712
@@ -51,6 +52,7 @@ BFI INTERNATIONAL BEST FIELDS BEST FOOD	15901
 BIG FOOT ADVENTURES LIMITED Data Processor	7167
 BIO FOOD PRODUCTS LIMITED Data Controller	7167
 BIO FOOD PRODUCTS LIMITED Data Processor	7167
+BMVSS Jaipur Foot	18378
 BUA FOODS PLC	11884
 Bank WFP World Food Program WMO	17157
 Bank WFP World Food Programme	17869
@@ -60,9 +62,13 @@ Boosting Agriculture and Food System Resilience	16436
 Borehole and Footbridge Construction Projects Findings	13420
 C Food Expenditur	17285
 CAR Emergency Food Crisis Response	15658
+CCA Food Crisis Unit	18104
+CCAFCU Food Crisis Unit CCDR Climate	18198
 CHEMICAL UNIT Food Microbiology Laboratory	14736
 CIFAR’s Future of Food	12357
 CONSUMPTION OF OTHER FOOD GROUPS	17127
+CPF Country Partnership Framework CSA Food	18301
+CSA Food	18301
 CSO Civil Society Organizations FAO Food	16970
 Cairns Foods	13320
 Campus Life Accessibility Financial Aid Food	17232
@@ -80,6 +86,7 @@ Closing the Knowledge Gap. Food and Agriculture Organization	17127
 Colcom Foods	13320
 Columnists Leader Star-blogs Cartoon Sports Football	9646
 Commercial Footnote	11986
+Commissariat for Food Safety CSE	18309
 Components Consumer Services Food	4972
 Comprehensive Food Security and Nutrition Survey	17289
 Conduct Comprehensive and Nutrition Food Security Survey	17116
@@ -89,8 +96,9 @@ Consumption Score FES Food Expenditure	17285
 Consumption of Healthy Food Groups	17127
 Consumption of Traditional Small Protein Foods	17127
 Consumption of Unhealthy Food Groups	17127
-Context of National Food Security	10960
-Contributing Practice Areas Agriculture and Food	1867
+Context of National Food Security	10960,7333
+Context of National Food Security TABLE	18293
+Contributing Practice Areas Agriculture and Food	1867,16331
 Contribution of Food Assistance	17323,1
 Coping Capacity FOOD SECURITY	17285
 DRIVERS OF FOOD INSECURITY	17285
@@ -191,9 +199,11 @@ Food Consumption Scores	12978
 Food Consumption Scores Comparison	12978
 Food Consumption Scores The FCS	12978
 Food Crisis	15589
+Food Crisis Unit	18198
 Food Crops and Related Items	2775
 Food Distribution	12970
 Food Expenditure	17285
+Food For Work	18198
 Food Group Diversity Score	17127
 Food Groups	17127
 Food Headline	17909,81
@@ -203,7 +213,7 @@ Food Import Ratio	1828
 Food Import Real GDP	1828
 Food Inclusive	970
 Food Industry Reformulation	14818
-Food Insecurity	16384
+Food Insecurity	16384,1720
 Food Insecurity Domestic Food Production	1828
 Food Insecurity and Experience Scale	16960
 Food Items	12977
@@ -240,11 +250,14 @@ Food Safety and Quality Authority	16927
 Food Safety and Quality Authority GBoS Gambia	16927
 Food Safety and Wellness	14818
 Food Safety and Wellness Crop Nutrition	14818
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180,1094
 Food Security CBG Central Bank	17285
 Food Security CHAPTER NINETEEN	14409
 Food Security Classification	17285
 Food Security Cluster After Action Review	15093
+Food Security Commissariat	18301
+Food Security Commission	18309
+Food Security Coordination Agency	18301
 Food Security EWS	17962
 Food Security Following	11185
 Food Security Increase	14818
@@ -309,7 +322,7 @@ Food and Agriculture Laboratory Items	14736
 Food and Agriculture Organisation	9136,5585,2380
 Food and Agriculture Organisation F.P	13377
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63,927,8,8
 Food and Agriculture Organization FBO Faith Based	2775
 Food and Agriculture Organization FIRMS Fishery Resources	17157
 Food and Agriculture Organization of United Nations	12667
@@ -359,7 +372,7 @@ Foondamate	818,77
 Foot and Mouth	12640
 Foot and Mouth Disease	5444,7144,535,3920
 Foot-and-Mouth Disease	2626,4610,2525
-Football	1876,3203,3805,1109,43,2375,5176,330
+Football	1876,3203,3805,1109,43,2375,5176,330,483,2,1
 Football Club Secrétaire	17819
 Football Congo	5079
 Football Field Construction of Talat Dergam School	15578
@@ -480,13 +493,16 @@ NATIONAL FOOD SECURITY SURVEY TEAM	17285
 National Agency for Food Security	17962
 National Agency for Food and Drug Administration	17652
 National Agency for Food and Nutrition Security	16398
-National Council for Food Security	16384
+National Council for Food Security	16384,1925
+National Council for Food Security SIG	18309
 National Directorate of Food	10768
 National Directorate of Food and Nutrition Security	10763
 National Drug and Food Testing Lab	17105
 National Food	14818
 National Food Balance Sheet	13122
 National Food Buffer Stock Company	7695
+National Food Crisis Prevention Mechanism	18198
+National Food Crisis Prevention and Management System	18198
 National Food Poverty Line	2307
 National Food Reformulation Strategy	14818
 National Food Reserve	14829
@@ -498,7 +514,9 @@ National Food Safety Management System Certification	14736
 National Food Safety and Nutrition Security Council	14818
 National Food Security	17105,123
 National Food Security Agency	17157
+National Food Security Commission	18301
 National Food Security Council	16384
+National Food Security Council DPV	18309
 National Food Security Index	4528,7984
 National Food Security Programme	14254,564
 National Food Security Strategy	7845
@@ -509,6 +527,7 @@ National Food and Drug Quality Control	16922
 National Food and Drug Quality Control Laboratory	16922
 National Food and Drug Testing Laboratory	17228
 National Food and Nutrition Commission	13578
+National Food and Nutrition Insecurity Response Plan	18198
 National Food and Nutrition Security Policy	17127,835
 National Food and Nutrition Security Policy PSC	17962
 National Food-Safety Committee	14818
@@ -549,6 +568,7 @@ Plant Genetic Resources for Food and Agriculture JE	11197
 Planting for Food and Jobs	789
 Plastic Coat Footwear and Shoe Photo-Illustration	6517
 Poverty.44. Gender.45. Food	14410
+Prevention and Management of Food Crisis	18104
 Previous Previous Addressing Food Security	12366
 Professional Services Capital Goods Food	4972
 Project Steering Committee SAP Food Security	17962
@@ -581,19 +601,23 @@ Rural Development and Food Production Minister Bruno	6280
 Rural Economy Development and Food Security	14002
 Rwanda Food and Drug Authority	718
 Rwanda Food and Drugs Authority	4167,4134
+SEA Sexual Exploitation and Abuse Se-CNSA Food	18301
 SOAS University of London Food Studies Centre	15220
 Safe Food Production	14818
 Safe Food Production Inadequate	14818
 Sahel Document Food Security and Humanitarian Implications	17323,1
+Saint-Louis DB FOODS Attente	18322
 Sanitation Provision Food	12373
 Sanitation and Hygiene WFP World Food Programme	12970,4879
 Satellite Footprint	10407
 Scientific and Cultural Organization WFP World Food	7548
 Sectoral AI Adoption Framework Agriculture and Food	4528,7984
 Security Department FAO Food and Agriculture Organization	15118
+Senegal’s Rice Regions for National Food and Economic	18336
 Service Data WFP World Food Programme	11133
 Service Delivery Footprint Local Offices	8999
 Services Food	4972
+Severe Food Insecurity Project Beneficiaries Agadez	18104
 Shocks FOOD INSECURITY	17285
 Small and WFP World Food Programme Medium	12297
 Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
@@ -601,6 +625,7 @@ Somalia Acute Food Insecurity and Malnutrition Snapshot	11136
 Sources of Income DRIVERS OF FOOD INSECURITY	17285
 Sports Football	8884
 Standard Bank Luju Food	4866
+Standards FAO Food and Agriculture Organization FM	18301
 Staple Food Fortification	17157
 State Department for Housing Accommodation and Food Services	2775
 State of Food and Agriculture	17127
@@ -644,7 +669,7 @@ Union FAO Food and Agriculture Organization FMC	17105
 Union FIFA Fédération Internationale de Football Association	17260
 United National Children’s Fund World Food	15601
 United Nations Agencies for Food and Agriculture Ambassador	14890
-United Nations Food and Agriculture Organization	13094,2035,1841
+United Nations Food and Agriculture Organization	13094,2035,1841,1134
 United Nations Food and Agriculture Organization19	10763
 United Nations World Food Programme	10768,2194,650
 United States Food	4202,15,1135
@@ -656,6 +681,8 @@ Upgrading of Football Ground	14746
 Upgrading of Marechal Football Ground	14830
 Urban Rural Poor Food	10763
 VAM Food Consumption Score Sources	10763
+View Tom Foot and Dapo Awobeku	18281
+WB West Africa Food System Resilience	18198
 WB World Bank WFP World Food	15731
 WFP Specialized Nutritious Foods	10841
 WFP World Food Program TABLE	16867
@@ -677,10 +704,11 @@ World Food Program WHO World Health	15415
 World Food Program WHR Window for Host	10841
 World Food Program and GCA	17257
 World Food Program-operated	11924
-World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57
+World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57,198
 World Food Programme Foreword	15604
 World Food Programme Methodology	14141
 World Food Programme Methodology Rainfall	15232
+World Food Programme PANA	18309
 World Food Programme WHO World Health	17105
 World Food Programme ZEMISO	12175
 World Food Programme and Irish Embassy	12978

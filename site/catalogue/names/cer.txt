@@ -68,6 +68,7 @@ Africa CERT	5677
 Africa-BB-Maps II. CEREMONIES D’OUVERTURE	13482
 Afrique CERT	17824
 Afrique Centrale CER	17830
+Agence Nigérienne de Certification Electronique	18151
 Agricultural Certificate Morcellement Scheme	7845
 Agência Reguladora de Certificação de Carga	8052
 Alert Agency CERC Contingent Emergency Response	17962
@@ -109,6 +110,7 @@ Autorite Nationale de Certification Electronlque	15584
 Autorite Nationale de Certificatiqn	15584
 Autorite Natlonale' de Certification Electronique	15584
 Autorite de Certification Electronique	15584
+Autorité Nigérienne de Certification Electronique	18106
 Autorité de Certification	15378
 Autorlte Nationale de Certification Electronique	15584
 Autorlte de Certification Electronique	15584
@@ -199,6 +201,10 @@ CCES Certificat de Conformité Environnementale	10876
 CEDAW CEDAW-OP CERD CESCR CESCR-OP CMW	11765
 CEH Certified	9858
 CEMAC. Certains	11944
+CER. Au	18322
+CER. Dans	18322
+CER. Toutefois	18322
+CER1 Graphique	18322
 CERAE	11136
 CERAGON	11531
 CERAP	15273
@@ -213,6 +219,7 @@ CERC Contingent Emergency Response Component CHW	10829
 CERC Contingent Emergency Response Component CIF	15518
 CERC Contingent Emergency Response Component CIL	15621
 CERC Contingent Emergency Response Component CMS	15969
+CERC Contingent Emergency Response Component CMU	18301
 CERC Contingent Emergency Response Component CNED	15491
 CERC Contingent Emergency Response Component ECOWAS	17099
 CERC Coordinating Authority. The CERC	1228
@@ -231,6 +238,7 @@ CERC-wide Environmental and Social Safeguards	1228
 CERC. C. Project Beneficiaries	15661
 CERC. Following CERC	2473
 CERC. For the CERC	13331
+CERC. Implementation	18293
 CERCAP	17842
 CERCLE	17817
 CERCLE DE KADIOLO	17827
@@ -240,11 +248,14 @@ CERCLE DE YANFOLILA	17827
 CERCLE DES JEUNES ENGAGES POUR	16413
 CERCLE Vu la Charte	18003
 CERCR	14874
+CERCs	18198,103
 CERDI UCA	16949
 CEREAL SUPPLY AND DEMAND SITUATION	15118
 CERED-HCP	8891
 CEREMONIAL OPENING	12668
 CEREMONIE D'OUVERTURE	16373
+CERER	18316
+CERER Centre	18316
 CERES TECH LIMITED Data Controller INST-30211102FD2	7167
 CERES TECH LIMITED Data Processor INST-30211102FD2	7167
 CERESCOR	16621
@@ -259,7 +270,15 @@ CERMEL	15500
 CERMI	15526,457
 CERN for AI	6960
 CERP Discussion Paper	10997
+CERP Manual	18198
+CERP Manual. Official Use Only Page	18198
+CERP Manual. The PIU-PIDUREM	18198
+CERP Manual. The Project	18198
+CERP Procurement Plan	18198
+CERP Project Implementation Unit	18198
+CERP-PIU	18198
 CERPIT	9129
+CERP’s PIU	18198
 CERRT	7630
 CERRT.NG	9118
 CERRT.NG DeepLoad	9118
@@ -277,6 +296,7 @@ CERT NZ	6936
 CERT National Health Cybersecurity Emergency Response	12240
 CERT and ICTAM	12240
 CERT and PKI	13830
+CERT'rlr	18154
 CERT-FW.pdf	15662
 CERT-GH	775
 CERT-GH RFC	775
@@ -355,6 +375,7 @@ CERTIFIEO TRUE CONY	15999
 CERTIFIEO TRUE COPY	15999
 CERTIFIEOD TRUE COPY	15999
 CERTIFIER TWiAI	15999
+CERTIFIEr	18154
 CERTIFIFN TRIF FfiDY	15999
 CERTIFlI	15999
 CERTINUM	6810,209,1727,1452
@@ -401,18 +422,21 @@ CSD Name User ID Certificate Issuance	12364
 CSI Handover Ceremony	11131
 CSP and SI Certification Pathway	11995
 CTR MALABO Cercle	17006
+CYCLE CAP CERTIFICAT D'APTITUDE PROFESSIONNELLE CAPES	18143,27
 Cable Consortium Company of Liberia CERT	16872
 Cable Consortium of Liberia CERT	16975
 Cabo Verde Covid Certificate Cabo Verde	11939
 Cambridge School Certificate	14815,17
 Cameroun. Certains	10965
 Capacity Certified Digital Trainer	12241
+Capacity Constraints. Once the CERP	18198
 Carolina Cerqueira. Promulgada	3519,7890,16
 Catalogue of Interoperable Solutions CERT Computer Emergency	13861
 Cellule Informatique CEP Certificat	15541
 Center for Media Studies and Peacebuilding CERT	5244
 Cer6ficated	16860
 Ceramic	13385,3550
+Cerapport	18427
 Cerca	795,3249,6713,830,5447,291,87
 Cercle	3520,5200,567,55,155,7227,1103,1,9,8,16,38,92,12
 Cercle République du Mali	17829
@@ -478,7 +502,7 @@ Cereal	12265,2853,1346,579,129
 Cereal Growers Association Data Processor INST-6608837F224	7167
 Cereal and Other Produce Regulatory Authority	12114
 Cereales	4209
-Cereals	13385,1642,1873,143
+Cereals	13385,1642,1873,143,1177
 Cereals Exports	11258
 Cereals Imports	11258
 Cereals and Sugar Finance Corporation	14546
@@ -522,15 +546,15 @@ Certain Financial Forecasts	7198
 Certain MDAs	17870
 Certain Residents of Namibia	12984
 Certain Responsible Parties	11255
-Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157,164,24,37,18
+Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157,164,24,37,18,406,15
 Certainly	11665,1796,16,818,2862
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893,16,213,41,26,15,3,8,16,1,9,4,8,2
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893,16,213,41,26,15,3,8,16,1,9,4,8,2,203,6,38,61,61,20,6,46,57
 Certains Camerounais	3808
 Certains EMF	11944
 Certains SF	14598
 Certainty	5487,6370,5001
 Certamen Miss Guinea	4209
-Certes	8891,1604,326,1278,1207,35,376,1825,41,429,621,1261
+Certes	8891,1604,326,1278,1207,35,376,1825,41,429,621,1261,381,11,5
 Certi	4896
 CertiTrust	16170
 Certidão	10772,5,668,453,3,120,754,2583,1,195,441,1105
@@ -608,7 +632,7 @@ Certificados de Título de Terra Formato	11898
 Certificados de Vida	16056
 Certificar	11376
 Certificar-se	15445
-Certificat	1706,1339,407,968,1111,686,4,1567,949,2139,2499,344,136,633,1,1,47,85,730,10,8,6,65,143,59,100,14,179,63,149,1,54,273,159,1,809,40,204,140,4,65,15,90
+Certificat	1706,1339,407,968,1111,686,4,1567,949,2139,2499,344,136,633,1,1,47,85,730,10,8,6,65,143,59,100,14,179,63,149,1,54,273,159,1,809,40,204,140,4,65,15,90,103,13,170,2,33
 Certificat Foncier	13375,1069
 Certificat Foncier Article	14444
 Certificat Foncier Figure	13375
@@ -618,6 +642,7 @@ Certificat Foncier Verso	13375
 Certificat NPI	1769,2083
 Certificat Supérieur	10847
 Certificat de Décès	15936
+Certificat de Fin	18171
 Certificat de Gage	14761
 Certificat de Mutation de Propriété Foncière	10937
 Certificat de Nationalité	3045,12712,179
@@ -639,6 +664,7 @@ Certificate Delivery System	2819,1272,10887,13
 Certificate Expires	13068
 Certificate FCTA Federal Capital Territory Administration	11857
 Certificate Final.pdf	7210
+Certificate Fraud	18206
 Certificate Management System	5983,963,11091
 Certificate Master	1940
 Certificate Of Registration	12397
@@ -687,7 +713,7 @@ Certificate of Nationality	12333
 Certificate of Naturalisation	12410
 Certificate of Naturalization	12217
 Certificate of Occupancy	11129
-Certificate of Origin	14718,2250
+Certificate of Origin	14718,2250,1317
 Certificate of Origin Name	1988
 Certificate of Primary Education	14815,17
 Certificate of Proficiency	1554
@@ -702,12 +728,13 @@ Certificate of Succession	12333
 Certificate of Title	1249,11207
 Certificate of Transfer of Undertaking	14713
 Certificate of Urgency	14841
+Certificate of Verification	18285
 Certificate. Responsible Agency	12349
 CertificateKenya.jpg	12138
 Certificated	4896
 Certificated Shareholders	4896
 Certificated Shareholders and Dematerialised Shareholders	4896
-Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108,132,43,100,254,112,90,382,945,467,126,1817,442
+Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108,132,43,100,254,112,90,382,945,467,126,1817,442,874
 Certificates and Determinations. Any	16219
 Certificates of Achievement and Diploma	17235
 Certificates of Competency	8639
@@ -716,7 +743,7 @@ Certificates of Death	14045
 Certificates of Deposit B- Deposits	17236
 Certificates of Deposits	4680
 Certificates of Incorporation	1988
-Certificates of Occupancy	11981
+Certificates of Occupancy	11981,6149
 Certificates of Origin	7142
 Certificates of Origin. External	12539
 Certificates of Participation	14835
@@ -724,7 +751,7 @@ Certificates of Recognition and Merit	7702
 Certificates of Registered Title	12605
 Certificates of Registration	9646,511,4579
 Certificates. Revocation	13951
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26,215,116
 Certification Authorities	9880
 Certification Authority	1009,10175,1650,1176,730,1,11
 Certification Authority and Digital Trust Centre	2692
@@ -771,7 +798,7 @@ Certification of Public Accounts	13420
 Certification-Schemes	14806
 Certification-leading	3299
 Certification. PCI-DSS	2350
-Certifications	6432,5524,329,900,2299,452
+Certifications	6432,5524,329,900,2299,452,2235
 Certifications ARTICLE	15484
 Certifications Confirm	13185
 Certifications First	15484
@@ -863,6 +890,7 @@ Cervinka	16996
 Cervix	12413,2643
 Cerîiﬁcats	15999
 Chamber Registration Certificates	10645
+Change and Development Report CERP Contingent Emergency	18198
 Chaque Certificat Foncier	13375
 Chartered Bankers Certification Examination	17235
 Chartered Certified Accountant	4896
@@ -906,6 +934,7 @@ Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contractor’s Interim Payment Certificates	14546
 Contractual and Certification Actions	11995
+Contrats de Concession des CER	18322
 Controlling Person Type and Self Certification	11685
 Coordinations des Cercles	17861
 Copies of Professional Certifications	13185
@@ -936,6 +965,7 @@ DE CONTROLE ET DE CERTIFICATION DES	10904,5829,1,1
 DE L'ADAPTATION DE CERTAINES SANCTIONS LIEES	15643
 DE RENOUVELLEMENT DU CERTIFICAT D’ENREGISTREMENT	15885
 DEATH CERTIFICATE QUALITY ASSESSMENT TOOL	12413
+DES DISPOSITIONS RELATIVES A LA CERTIFICATION	18106
 DES FACTURES ELECTRONIQUES CERTIFIEES LE MINISTRE	14469
 DFI Certificate	11153
 DHS CERTIFICATION OF COMPLIANCE NO	2709
@@ -991,6 +1021,7 @@ Dipo Ceremony	17773
 Director Cereals and Other Produce Regulatory Authority	5883
 Director of CERT-MU	783
 Director of Ceremonies	13118
+Director of Seed Quality Control and Certification	18197
 Distribution List for Notifications CERT-GH	775
 Divorce Annotation Erratum Certified Statement Bachelorhood	16970
 Divorce Certificates	14045
@@ -1041,6 +1072,7 @@ Ellis Business Company. Certaines	13452
 Emergency Response Component CERT Computer Emergency	1264
 Emissão da Certidão Cadastral	11384
 Energie CEREEC Centre des Energies Renouvelables	15769
+Enseignement Secondaire CFEEN Certificat de Fin	18171
 Entidade Certificadora Raiz de Angola	8309
 Entidade de Certificação Eletrónica Raiz	15476
 Entidade de Certificação Raiz de Cabo Verde	11867
@@ -1234,6 +1266,7 @@ Joint Ceremony	8192
 Junior Certificate	12977
 Junior Certificate of Education	12914
 K. and Cervinka	16996
+KEDA CERAMICS	18322
 KENET CERT	15164
 KEY INTERNATIONAL STANDARDS AND CERTIFICATIONS APPLICABLE	15149
 KRA Tax Compliance Certificate	12323,2180
@@ -1373,6 +1406,7 @@ Nationality Certificate	6115,1529,3070,4701
 Nationality Certificates	4257
 Nationality Certificates and Passports	4257
 Nature of Business Certificate of Incorp Contact Person	736
+Niamey. Certaines	18118
 Nigeria Begins Sovereign Cloud Certification	10424
 Nigeria’s Root Certification Authority	9880
 No. of Data Controller Certification	15716
@@ -1402,6 +1436,7 @@ Offensive Security Certified Professional	15662
 Official Opening Ceremony	13504,184
 Official Opening and Awards Ceremony	13688
 Offsec Certified Professional	1940
+Olympic Partner Certified	18375
 Online Birth Certificate and Marriage Certificate. Public	14750
 Online Certificate Status Protocol	14439
 Online Certificate Status Protocol SI	14438
@@ -1417,7 +1452,10 @@ Opérations de Certification Foncière Massive	14444
 Ordre National des Médecins. Cercle de Kayes	17819
 Original Birth Certificate	11282,1055
 Ou Certificado de Admissibilidade	11435
+Ouest CER	18322
 Ouest CER Communautés	15479
+Ouest CER Concessions	18316
+Ouest CEREEC Centre	18103
 Overview Certification	12041
 PARCOURS CERTIFIANT EN FINANCE DIGITALE	10237
 PART VII. RECOGNITION OF CERTIFICATION AUTHORITIES	16832
@@ -1434,6 +1472,7 @@ PLATEFORME NATIONALE DE CERTIFICATION DE L’IDENTITE	16733,1,1
 POLITIQUE DE CERTIFICATION TYPE	17534
 POTRAZ. Certification	8437
 PRESIDENCY OF THELE A CERTIFIED TRUE	15999
+PRINCIPES SPECIFIQUES A CERTAINS TRAITEMENTS	18119
 PROCÉDURES D'AUDIT CONTROLE ET CERTIFICATION SYSTÈME	10906
 PRODUCTION OF A CERTIFICATE	14816
 PROFESSIONAL CERTIFICATION Eritrea	13962
@@ -1455,7 +1494,7 @@ Payment for Certificate	12226
 Pedido Certidão Comercial	12021
 People TRANCRAA Transformation of Certain Rural Areas	11197
 Permits and Certifications ARTICLE	15484
-Permits and Registration Certificates	12062
+Permits and Registration Certificates	12062,6124,31
 Pesticides Cereals	17043
 Phytosanitary Certificate	1988
 PiE CERTIFIEE CON CERTIFIED TRUECOPY	15999
@@ -1612,6 +1651,7 @@ Regulatory Facilitation and Investment Certainty Regulatory	10157
 Remissions and Import Certificates	14533
 Renewable Energy Certificates	12604
 Renewal of Radio Dealer Certificate	736
+Renouvellement du Certificat	18360
 Republique de Guinee. Le CER	16612
 Requirements for Bodies Providing Halal Certification	16900
 Revamped Certification Authority Platform The Government	14752
@@ -1622,6 +1662,7 @@ Roaming Cero	3963,13426
 Roaming Cero CEMAC	17087
 Robert Kahn and Vinton Cerf	1036
 Robusta Certified	7763
+Rocade Fann Bel-air Cerf-volant B.P.116	18312
 Rollout of Second Level Land Certification	13998
 Root Certificate Authority	11867
 Root Certification Authority	8440,1440,2985,1388,129
@@ -1838,6 +1879,7 @@ Withholding Tax Certificates	10064
 Withholding Value Added Tax Credit Certificate	17108
 Women CERD	14742
 Workshops and Certification Programs	12675
+World Bank. The CERP	18198
 World Teachers Day Celebration and Awards Ceremony	12950
 Y INSTALACIONES Y FRONTERAS CIUDADANA CEREMONIAS	4209
 York-based Cerberus Capital Management	4676

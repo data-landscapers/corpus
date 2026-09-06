@@ -35,9 +35,10 @@ CSIRT NCC Technical Task Secured Q2	1777
 Camilla Holmemo Task Team Leader	15601,57,73
 Catherine Signe Tovey. Task Team Leader	13897
 Central Bank of Egypt Task Force	6938
+Cette Task Force	18196
 Chalank Tassilo Teppert	16902
 Charles Joseph Cormier Task Team Leaders	15515
-Christian Bodewig Task Team Leader	16952
+Christian Bodewig Task Team Leader	16952,1349
 Clelia Kalliopi Helena Rontoyanni Task Team	13861
 Combat Desertification The Drought Taskforce	17157
 Community Health Task Force	15833
@@ -68,6 +69,7 @@ Djibrilla Issa Task Team Leader	13836
 Drought Task	17157
 Drought Task Force	17157
 Drought Taskforce	17157
+Départements de Tassara	18151
 E-Justice Task Force	13080
 E-Justice Task Force Meeting	13080,15
 E-Justice Task Force Meeting and Justice Sector	13080,15
@@ -163,11 +165,13 @@ Interopérabilité Numérique La Task Force Interopérabilité	15936
 Isabel Neto Task Team Leaders	3562,9769
 Isabel Neto. Task Team Leaders	14910
 Jan-2022 Korotoumou Ouattara Task Team Leader	10963
+Jana Kunicova Task Team Leader	18359
 Jana Kunicova Task Team Leaders	16144
 Jana Kunicova and Robert Schlotterer Task Team	2889
 Jana Kunicova. Task Team Leader	11965
 Jana Kunicova. Task Team Leaders	15802
 Jehan Arulpragasam Task Team Leader	11525,330,5994
+Jehan Arulpragasam Task Team Leaders	18104
 Jie Tang Task Team Leaders	15969
 Joint Security Taskforce	14175
 Julia Fraser Task Team Leaders	11380
@@ -199,6 +203,7 @@ Marolla Haddad Task Team Leader	15424
 Maryam Salim Task Team Leader	14948
 Masanzu Social Specialist Task Team Leader	15601
 Mehnaz Safavian Task Team Leaders	6539
+Michel Matera Task Team Leader	18198
 Michel Rogy Task Team Leader	15491,20,2351
 Michel Rogy Task Team Leaders	15518
 Milieu Ramassage Ramassage Poubelle Tas	18014
@@ -210,6 +215,7 @@ Multi-Disciplinary Task Team	11986
 Multi-sectoral Task Teams	12977
 Multilateral Investment Guarantee Agency. Task	14627
 Muna Salih Meky Task Team Leaders	14937
+NDPC Tasks Tech Developers	18230
 Nahla Ahmed Mohamed Salaheldin Zeitoun Task	15663
 Name Preparation Task Team Leader Boutheina	15424
 Namibia's Task Force	5036
@@ -313,6 +319,7 @@ Structures Internet Engineering Task Internet	961
 Sub-sector Working Groups Task Forces Banking	14997
 Suleiman Namara Task Team Leader	15190
 Suleiman Namara Task Team Leaders	14976,162
+Sylvie Debomy Task Team Leaders	18293
 System TAS Tax Administration System USAID	17011
 TA Technical Assistance TTL Task Team	15511
 TAS-JCP Total AS Portfolio	11469
@@ -329,6 +336,7 @@ TASKS	12675,4168
 TASKS PAGEREF	15090
 TASS Transformer	15724
 TAs NRIS Monthly CRVS	13005
+TAs for ARTP	18359
 TAs for Birth	13005
 TRS and Coordinated Border Management Implementation Task	17367
 Tas0om	15999
@@ -359,7 +367,7 @@ Tasiast Mauritanie Limited S.A. and Glencore	17893
 Task Assessment Criteria Purpose Write	16963
 Task Cybersecurity Council. Force	1777
 Task Extraction	16266
-Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175,398,25,172,203,151,833,9,319,120,8,182,65,521,418,922,509
+Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175,398,25,172,203,151,833,9,319,120,8,182,65,521,418,922,509,829
 Task Force Committee	14082
 Task Force Curriculaires	15529
 Task Force Name	11129
@@ -381,7 +389,7 @@ Task Recommended Software Cost Automated Alerts	17157
 Task Shifting	14622
 Task Team	6539,4649,89,898,775,26,1014,32,1389
 Task Team Lead	14010
-Task Team Leader	1228,673,1088,1664,6815,387,8,4,270,44,359,1,122,305,424,546,1081,392,190,58,4,773,490,23
+Task Team Leader	1228,673,1088,1664,6815,387,8,4,270,44,359,1,122,305,424,546,1081,392,190,58,4,773,490,23,1425
 Task Team Leader Alia Hamid Hassan	12195
 Task Team Leader Stephen Davenport	15988
 Task Team Leader Tounwendé Alain Sawadogo	1641
@@ -412,7 +420,8 @@ Tasks and Technologies	16266
 Tasneem	14977
 Tasneem Ahmed	10246
 Tasnia	6921
-Tassara	9567
+Tassara	9567,8584
+Tassara and Tchintabaradem	18125
 Tassarajen Pillay Chedumbrum	14306
 Tassembedo	6731
 Tassere Pitroipa	10812
@@ -440,6 +449,7 @@ UN Legal Identity Agenda Task Force	5274
 UN Legal Identity Task Force	12337
 UNESWA Task Team	12950
 Universal Access Taskforce	16966
+V. APPROVAL Task Team Leader	18374
 Vehicle SSA Sub-Saharan Africa STEP TAs	17862
 Verbal Autopsy Task Force	12338
 Waly Wane Task Team Leader	15743,444

@@ -109,6 +109,7 @@ Edda Mwakaselo Ivan Social Specialist	16922
 Emma Mwasinga	12915
 Emma Mwinde	3247
 Emmanuel Mwanza	7432
+Energie MT Moyenne Tension MW Mégawatt	18103
 Energy MW Megawatt PURC Public Utility	16978
 Eng Mwasalyanda	9014
 Eng. Kezias Kazuba Mwale	7793,157,1820
@@ -229,6 +230,7 @@ MV Medium Voltage MW Megawatt NCB	15659
 MW ACC-1 Accra	10861
 MW AI	7456
 MW AI-ready	10261
+MW AICS Projet	18316
 MW Abeokuta Technology Zone Data Centre	7960
 MW Access	12285
 MW Actualisation	13433
@@ -237,7 +239,7 @@ MW Airtel NXTRA LGS2 Lagos	10861
 MW Angola	10781,1618
 MW Anixas I and II	12399
 MW Available	16966
-MW Average Available Capacity	12062
+MW Average Available Capacity	12062,6124,31
 MW BAS-UELE P.i	15670
 MW BASCULEMENT	14479
 MW BQ	11236
@@ -250,6 +252,7 @@ MW CIE	16978
 MW Capacity	10781
 MW Cape Town	1404
 MW Central Térmica de Temane	12206
+MW Centrales	18316
 MW Chisamba	5247
 MW Chisamba Solar Plant	5247
 MW Chisamba and Kabwe	5247
@@ -274,7 +277,7 @@ MW Equinix TBD Abidjan In Construction	10861
 MW Estuaire	16037
 MW Exportation	15799
 MW FPV	14745
-MW Figure	12062,3608
+MW Figure	12062,3608,2516,31
 MW Función Publica	4209
 MW GBB	10157
 MW Ghana	3184,7677
@@ -334,12 +337,14 @@ MW Libreville	16037
 MW Licence	10975
 MW Live	10781,1646,2055
 MW Lobatse Solar Project	12609
+MW Localisation	18322
 MW Lower Maguduza Hydropower Plant	13123
 MW L’inauguration de Mulembwe	13641
 MW MAINDOMBE P.i	15670
 MW MANIEMA P.i	15670
 MW MARKETING SERVICES SARL UN	16623
 MW MAÏ-NDOMBE P	15670
+MW MIGA Assurance	18316
 MW MONGALA P	15670
 MW MONGALA P.i	15670
 MW MPANDA Projet	13433
@@ -348,6 +353,7 @@ MW Madagascar	14482
 MW Mansa	5247
 MW Mar Apr Dec Annual	11953
 MW Maryland	16978
+MW Mega Watt O&M Opérations	18316
 MW MegaWatt NNI Numéro National	17907
 MW Megawatt NDP National Development Plan	12399
 MW Megawatt NEP National Electrification Program	12233
@@ -470,7 +476,7 @@ MW-PPPC-	13185
 MW-PPPC-494042-GO-RFB Project	13185
 MW-PPPC-502049-CS-QCBS DATE	3678
 MW-capable	1845
-MW. Across	12062
+MW. Across	12062,6124,31
 MW. Also Yahoo Finance	594
 MW. Available	12399
 MW. Baseload	12604
@@ -581,7 +587,10 @@ MWUm1SvRXJka3oDK8bQBJBWCzg uughu	1580
 MWa.gMwaagwa Air CAdirreCdre	1154
 MWc Analyse	15670
 MWc Avis	15670
+MWc ICS	18322
 MWc Lac	14479
+MWc Localisation	18322
+MWc NEA Kolda	18322
 MWc Révision	15670
 MWc STATUT Avis	15670
 MWc Solaires	14479
@@ -598,8 +607,10 @@ MWh Energy	16966
 MWh Mega-Watt	12256
 MWh Megawatt-hour NCSA National Cyber Security	718
 MWh Mégawatt	15769
+MWh Mégawattheure NELACEP Projet	18103
 MWh Nombre	10975
 MWh PV	14479
+MWh Puissance	18322
 MWh Solar	14080
 MWh of R	11953
 MWh. Domestic	718
@@ -610,8 +621,9 @@ MWp Danzi	10857
 MWp Danzi Solar Power Plant	10857
 MWp Lion Thorn	17679
 MWp Mmadinare Solar PV Plant. Together	12604
+MWp Solar	18220
 MWp Solar Plant	12604
-MYTO Target Sales MW Megawatts MWh	12062
+MYTO Target Sales MW Megawatts MWh	12062,6124,31
 Mafuta Mwale N N N	13053
 Makamba Muramvya Muyinga Mwaro Sexe	13442
 Makamu Mwenyekiti	2868,3151,5593
@@ -861,7 +873,7 @@ Operators MW Mega Watts MWSI Ministry	2775
 Outlook MW Megawatt NERSA National Energy	11228
 P Muhanga Nyarubaka Nyamiyaga Mwogo Karenge	12413
 P Mwendo Byimana Mbuye Ngoma District	12413
-Passive MW	14256
+Passive MW	14256,3947
 Paul Mwangemi	4631,10024
 Peter Mwangi	9311
 Peter Mwasalyanda	6577,7822

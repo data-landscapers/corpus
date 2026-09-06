@@ -37,7 +37,7 @@ Groupe Guicopres	8553
 Guich	14490
 Guichard Tsangou Wanvoukissa	17698
 Guichard Tsangou-Wanvoukissa	1814
-Guichet	4420,297,57,432,223,77,643,1206,832,138,1668,718,264,2366,34,15,337,1801,55,464,126,2,187,123,130,28,1174,16,74,58,80
+Guichet	4420,297,57,432,223,77,643,1206,832,138,1668,718,264,2366,34,15,337,1801,55,464,126,2,187,123,130,28,1174,16,74,58,80,297
 Guichet Automatique Bancaire	11944
 Guichet Automatique de Banque GIM-UEMOA	10711
 Guichet Automatiques Bancaires	13390
@@ -55,6 +55,7 @@ Guichet Unique	5077,5635,263,2366,386,1714,37,2339,53
 Guichet Unique Elaboration des Disposer	10975
 Guichet Unique Electronique	15478
 Guichet Unique Electronique de Vanuatu	15478
+Guichet Unique Guichet Unique Sécurité	18319
 Guichet Unique MCLU du Foncier	15936
 Guichet Unique Maritime	5993
 Guichet Unique Provincial	13314,17
@@ -70,9 +71,10 @@ Guichet Unique des Opérations Transfrontalières	15553
 Guichet Unique des Opérations du Commerce Extérieur	5593
 Guichet Unique des Services Publics	5429
 Guichet Unique du Commerce	16294
-Guichet Unique du Commerce Extérieur	13745,2191,121
+Guichet Unique du Commerce Extérieur	13745,2191,121,2060,31
 Guichet Unique du Commerce Extérieur de Côte	2342,13594
 Guichet Unique du Commerce Extérieur de Côte PROCHAINES	2342
+Guichet Unique du Commerce Extérieur du Niger	18148,99
 Guichet Unique du Foncier	10937
 Guichet Unique du Foncier. Au	10902
 Guichet Virtuel	15621
@@ -99,7 +101,7 @@ HUAMBO GANHA NOVO SERVIÇO DO GUICHÊ	11365,109
 L'histoire du Guichet Unique	16065
 Le Groupe GUICOPRES	8553
 Le Guichet	4354,852,223,4826,5918,1644
-Le Guichet Unique	15441,2376
+Le Guichet Unique	15441,2376,505
 Le Guichet Unique de Création	8065
 Le Guichet Unique de Formalisation des Entreprises	16113
 Le Guichet Unique de Formalités des Entreprises	16065

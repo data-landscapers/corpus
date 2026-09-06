@@ -32,8 +32,8 @@ Impugnação	11358,4075
 Impugnação Administrativa	11388
 Impulsar	1701,15192,72
 Impulsar la Inscripción	17112
-Impulser	17983
-Impulsion	13445,2048,227
+Impulser	17983,314,5
+Impulsion	13445,2048,227,2566
 Impulsionando	11569,4120
 Impulsionar	15684,5,370
 Impulso Profesional	17101
@@ -41,7 +41,7 @@ Impunidade	10750,1
 Impunidade. Impunidade. Lançamento da Campanha	10750
 Impunité	13325
 Imputaciones	4209
-Imputation	10711,441,106,4643,680,904
+Imputation	10711,441,106,4643,680,904,686
 Imputation Côte	10711
 Imputation Data	11258
 Imputations	3396,12141
@@ -61,6 +61,7 @@ Primario Secundario Terciario Impuestos	16969
 Proyecto de Impulso	4209
 RIGENGA IMPUNZI N'ABASABA SITATI Y'UBUHUNZI MU	14926
 Real Non-Oil GDP and Public Demand Impulse	1828
+Redresser Impulser Accélérer Amorcer	18319
 Seguridad Social IVA Impuesto	16969
 Software GeoGebra Impulsiona Inovação	10349
 Sous la Haute Impulsion de Votre Majesté	8891

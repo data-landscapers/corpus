@@ -1,6 +1,7 @@
 A. Forward-Looking Assumptions Backward-looking	11140
 A1.2.3.1 A1.2.3.2 A1.2.3.3 A1.2.3.4 Assurer	10858
 A3.2.3.5 Assurer	10858
+A9clamations Clients Etablissements Assujettis Contr	18292
 ABSA LIFE ASSURANCE KENYA LIMITED Data	7167
 ACE Assumptions	15424
 AI Assurance	7548,8165
@@ -13,6 +14,7 @@ ANNEXES PGES- DATA CENTER PRINCIPAL Assurer	14489
 APA LIFE ASSURANCE LIMITED Data Controller	7167
 APA LIFE ASSURANCE LIMITED Data Processor	7167
 ASSUJETTI NE S'AFFICHENT PAS SUR MON	16629
+ASSUJETTIS Article	18292
 ASSUMPTION OF MARY ITHANGA CATHOLIC HOSPITAL	7167
 ASSUMPTION SISTERS OF NAIROBI UPENDO VILLAGE	7167
 ASSUMPTIONS	962
@@ -39,6 +41,7 @@ Administer the Digital Infrastructure Assurance Registration	10157
 Africa Merchant Assurance Company Limited Data	7167
 Africaine des Assurances Traitements	10821
 Agosto ASSUNTO	11403
+Airtel Assurance	18105
 Algérie Assure	15568
 Annual SG1 SO2 Quality Assurance	17116
 Annual SG2 SO3 Quality Assurance Statistical	17116
@@ -48,7 +51,7 @@ Assignment Assuming	13031
 Assuch	8602
 Assuit	15473
 Assujetti	17856
-Assujettis	15508,239,20
+Assujettis	15508,239,20,2565
 Assujettissement	16328
 Assujettissement ONG	16328
 Assujettissement des ONG	16328
@@ -65,7 +68,7 @@ Assumir	4218,7166,517
 Assumiremos	15476
 Assumiu-se	11569
 Assumption	7845,14,3317,687,803,835,158,1066,699,1716
-Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284,887,1029,41,12
+Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284,887,1029,41,12,1182
 Assumptions All	11986
 Assumptions Availability	11986
 Assumptions CCSS	11986
@@ -81,6 +84,7 @@ Assumptions System	11986
 Assumptions The Government	16874
 Assumptions VFS	11986
 Assumptions and Methodologies	15796
+Assunc	18318
 Assunlos Fiscais GABINETE DO DIRETOR GERAL	17111
 Assunto	167,263,119,195,8,42,2813,7148,608,1,3,1,2,1,1,1,4,1,3,1,1,1,2,2,6,10,1,4,10,6,5,1,2,5,5,6,3,15
 Assunto Aprova	4146,6603,23,11,579,7,27,49,10,3
@@ -103,7 +107,7 @@ Assuntos Religiosos	539
 Assunção	15433,589
 Assur	11289
 Assura	17829
-Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5,805,568,405,389,35,49,52,1085,232,836,40,50,26,137,151,604,144,380,358,338,4,6,236
+Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5,805,568,405,389,35,49,52,1085,232,836,40,50,26,137,151,604,144,380,358,338,4,6,236,52,165,29
 Assurance AI	7548
 Assurance Authority	16852,374
 Assurance Authority NAT National Assessment Test	16852
@@ -133,15 +137,18 @@ Assurance Maladie Universelle CAT	15685
 Assurance Maladie Univeverselle RGPH Recensement Général	15685
 Assurance Maladies Obligatoire	17882
 Assurance Moyenne	10965
-Assurance Qualité	11597,2295,1484,154,69,774,1085,369,45,30
+Assurance Qualité	11597,2295,1484,154,69,774,1085,369,45,30,219,22,27
 Assurance Qualité CNS Conseil National	15501
+Assurance Qualité Centre de Didactique	18121
 Assurance Qualité Enregistrement	15599
 Assurance Qualité Statistique	16373
 Assurance Qualité Un	15711
 Assurance Qualité des Données	2625,10817
 Assurance Qualité des Données. Article	13323
 Assurance Qualité des Médicaments	13329
+Assurance Qualité des Statistiques Publiques	18169
 Assurance Qualité. Dans	16373
+Assurance Qualité. Des	18121
 Assurance RTM Real-Time Monitoring SABER Systems	15604
 Assurance Regulation	15120
 Assurance Responsabilité Civile Hiscox	14683
@@ -152,7 +159,7 @@ Assurance and Standards	899
 Assurance of Planning	11857
 Assurance-	11944
 Assurance-maladie	10824
-Assurances	235,6648,4082,174,2238,1400,672,25,109,91,123,104,98,176,442,6,18,807,37,348,230
+Assurances	235,6648,4082,174,2238,1400,672,25,109,91,123,104,98,176,442,6,18,807,37,348,230,119
 Assurances de Côte	15712
 Assurances de Droit National Africaines	11944
 Assurances du Burundi SODECO	13377
@@ -162,10 +169,11 @@ Assure	11944,2593,1031,15,265,1003,973
 Assured	16927
 Assured Future	13688
 Assurent	1187
-Assurer	12,130,856,294,765,909,205,1,209,15,6,601,17,350,851,2756,410,169,335,746,1,1074,114,32,16,2,89,1,966,111,1247,11,40,34,15,24,214,90,1,32,30,28,29,586,1,25,30,3,5,1,1,47,36,899,2,14,54,26,15,41,15,27,1,3,3,37,2,8,4,14,1,46,14,2,47,53,7,28,2,30,31,13,25,114,54,123,42,44,121,80,4,1,1,5,15,5,24,792,37,325,12,6,2,1,1,6,11,3,6,1,9,3,13,3,1,43,1,37
+Assurer	12,130,856,294,765,909,205,1,209,15,6,601,17,350,851,2756,410,169,335,746,1,1074,114,32,16,2,89,1,966,111,1247,11,40,34,15,24,214,90,1,32,30,28,29,586,1,25,30,3,5,1,1,47,36,899,2,14,54,26,15,41,15,27,1,3,3,37,2,8,4,14,1,46,14,2,47,53,7,28,2,30,31,13,25,114,54,123,42,44,121,80,4,1,1,5,15,5,24,792,37,325,12,6,2,1,1,6,11,3,6,1,9,3,13,3,1,43,1,37,117,3,2,192,5,4,13,76
 Assurer Ministère De La Santé	15936
 Assurer Résultat	17842
 Assurer la CT	17845
+Assurer la Connectivité	18306
 Assurer la Disponibilité de Activité	17845
 Assurer la Existence de Elaborer	17845
 Assurer la Existence de Elaborer le Bulletin CNDIFE ETAT	17845
@@ -216,6 +224,7 @@ CS Assumptions Q2	11986
 Cabinet Assumptions NA Disaggregation	11986
 Cameroun Assurer	15999
 Catégorie Assurances Individuelles Contrat	13390
+Cellule Assurance Qualité	18121
 Census Data Processing and Data Quality Assurance	16921
 Chamada A Assumir Papel Nacional Américo	8827
 Combined Assurance	11131
@@ -242,9 +251,11 @@ Couts Assurances	17945
 Criteria Assurance	10775
 Cyber Assurance Lab	10642
 Cybersecurity and Information Assurance	6832
+DAGE. Assurer	18302
 DAMANE ASSURANCES	17972
 DE LA RESPONSABILITE DES ASSUJETTIS ENVERS	15747
 DES ASSURANCES DROIT OHADA	10996
+DES CLIENTS DES ETABLISSEMENTS ASSUJETTIS AU	18292
 DES ETABLISSEMENTS ASSUJETTIS Article	15482
 DGI Assurer	10858
 DGI Stabilité de Assurer	10712
@@ -332,6 +343,8 @@ Insurance and Assurance	940
 Internetwork System Specialisation Assurance	6832
 J SAHAM ASSURANCES GUINEE SA SAHAM	16623
 KD STA Procramme LIBELLE Assurer	15999
+Key Assumptions	18293
+Key Assumptions Objectives Component	18293
 Know Your Customer LoA Level of Assurance	12663
 LEGALITY ASSURANCE SYSTEM This Agreement	16843
 LEVELS OF ASSURANCE	10819
@@ -355,6 +368,7 @@ MOF Assurances of Integrity	14777
 MOF Assurances of Integrity Data Quality Indicators	14777
 MOF. Assurances of Integrity	14777
 MONTANT Assurance	17833
+MW MIGA Assurance	18316
 Macroeconomic Assumptions	13122
 Macroeconomic Data and Assumptions	17595
 Macroeconomic Data and Assumptions Validation Workshop	17595
@@ -388,6 +402,8 @@ O Assuring	14777
 O Assuring Statistical Confidentiality and Data Security	14777
 OBLIGATIONS DES ASSUJETTIS Article	15508
 OBLIGATIONS DES ETABLISSEMENTS ASSUJETTIS EN MATIERE	15482
+OS.2. Assurer	18121
+OS2 Assurer	18121
 Objectif Assurer	10876
 Objectifs Assurer	8556
 Objet Assurer	14537
@@ -476,6 +492,7 @@ SUNU Assurances Vie Bénin SUNU Assurances	10821
 SUNU Assurances Vie Bénin Traitement	10821
 SWIFT Infrastructure Strengthened and Independently Assured	11134
 Scheme. Level of Assurance Levels	10819
+Security Assurance	18183
 Seed Quality Assurance and Regulation	14818
 Seed Quality Assurance and Regulation Limited	14818
 Service Crédit Epargne Assurance Dépôts	11944

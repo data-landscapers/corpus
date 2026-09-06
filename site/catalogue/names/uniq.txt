@@ -19,11 +19,12 @@ Comite de Pilotage Unique	10829
 Comité de Pilotage Unique	10829
 Common Unique Personal Identifier	14655
 Companies and Intellectual Property Authority. Unique	12533
-Compte Unique du Trésor	10981,5039,27,1968
+Compte Unique du Trésor	10981,5039,27,1968,259
 Conclusion Le Portail Unique du Citoyen	13751
 Conseil Agricoles Guichet Unique de Commerce Extérieur	15936
 Consolidate the Single and Unique Taxpayer Identification	17011
 Contribution Foncière Unique	16020
+Contribution Globale Unique	18318
 Customs Guichet Unique Electronique	13314
 DE L'IDENTIFIANT UNIQUE ELECTRONIQUE Article	15691
 DE L'UTILISATION DE L'IDENTIFIANT UNIQUE Tout	15691
@@ -57,6 +58,7 @@ Guichet Unique	5077,5635,263,2366,386,1714,37,2339,53
 Guichet Unique Elaboration des Disposer	10975
 Guichet Unique Electronique	15478
 Guichet Unique Electronique de Vanuatu	15478
+Guichet Unique Guichet Unique Sécurité	18319
 Guichet Unique MCLU du Foncier	15936
 Guichet Unique Maritime	5993
 Guichet Unique Provincial	13314,17
@@ -72,9 +74,10 @@ Guichet Unique des Opérations Transfrontalières	15553
 Guichet Unique des Opérations du Commerce Extérieur	5593
 Guichet Unique des Services Publics	5429
 Guichet Unique du Commerce	16294
-Guichet Unique du Commerce Extérieur	13745,2191,121
+Guichet Unique du Commerce Extérieur	13745,2191,121,2060,31
 Guichet Unique du Commerce Extérieur de Côte	2342,13594
 Guichet Unique du Commerce Extérieur de Côte PROCHAINES	2342
+Guichet Unique du Commerce Extérieur du Niger	18148,99
 Guichet Unique du Foncier	10937
 Guichet Unique du Foncier. Au	10902
 Guichet Virtuel Unique	15550
@@ -91,13 +94,15 @@ Identifiant Fiscal Unique. Article	15418
 Identifiant Patient Unique LIMS Laboratory Information	13306
 Identifiant Social Unique	10544
 Identifiant Unique	10978,4440
+Identifiant Unique National	18238
 Identifiant Unique du Citoyen	10812
 Identifiant Unique du Foncier de Côte	10937
 Identifiant Unique du Patient	15936
 Identification Bancaire Unique	8556
 Identification Fiscal Unique	10821
 Identification National Unique	16482
-Identification Unique	3800,941,480,10332,86,181,698,1153
+Identification Parcellaire Unique	18178
+Identification Unique	3800,941,480,10332,86,181,698,1153,525,5
 Identification Unique Activation du NUI	14480
 Identification Unique Envoi Convertisseur Collecte Etat	14480
 Identification Unique des Citoyens	16641
@@ -110,7 +115,7 @@ LE CADRE DE L’AGREMENT UNIQUE	17356
 LEARNERS WITHOUT A UNIQUE LEARNER IDENTIFIER	14670
 La Taxe Unique	6954
 Lack of Unique Identifying Number	13005
-Le Guichet Unique	15441,2376
+Le Guichet Unique	15441,2376,505
 Le Guichet Unique de Création	8065
 Le Guichet Unique de Formalisation des Entreprises	16113
 Le Guichet Unique de Formalités des Entreprises	16065
@@ -148,7 +153,7 @@ Portail Unique du Citoyen. Ce	13751
 Redevance Administrative Unique	1996
 Regional Unique Identification Project	6251
 Regional West Africa Unique Identification for Regional	1769,552,1531
-Registre National Unique	417,3783
+Registre National Unique	417,3783,14100,1,54
 Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86,1704,1,838,9,1054,42,154,189,11,20,251,101,51
 Registre Social Unique. C'était	15616
 Repurchase Unique	6432
@@ -176,7 +181,7 @@ UNIQUE PERSONAL IDENTIFIER	12165
 UNIQUE POLICY AREAS INFORMING THIS STRATEGIC	16884
 UNIQUEMENT	10965
 Uganda Telkom and Airtel Unique	10822
-Unique	21,948,3451,2003,1565,1867,957,10,1,114,920,95,19,175,181,52,6,620,1669,206,16,12,645,1061,229,24,75,41,116,718,53,12
+Unique	21,948,3451,2003,1565,1867,957,10,1,114,920,95,19,175,181,52,6,620,1669,206,16,12,645,1061,229,24,75,41,116,718,53,12,263,214
 Unique Address	16604
 Unique Administrative and Payroll Management Platform	4142
 Unique Bank Identification	1046
@@ -255,7 +260,7 @@ WURI West Africa Unique Identification for Regional	3604,12017
 WURI. The West Africa Unique Identification	1635
 West Africa Unique	3604
 West Africa Unique Identification	10909
-West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75
+West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75,1116
 World Bank-financed West Africa Unique	3604
 World Bank-funded Regional West Africa Unique	4855
 World Bank-supported West Africa Unique Identification	5956

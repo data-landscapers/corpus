@@ -12,6 +12,7 @@ A2.2.2.1 A2.2.2.2 Contribution	10858
 A2B LOGISTICS Data Controller INST-179476B174C NAIROBI	7167
 A2Z AUTOGLASS LIMITED Data Controller INST-444100E41C1	7167
 A3O2R1.2 Contribution	15580
+A9clamations Clients Etablissements Assujettis Contr	18292
 AA Kenya Data Controller INST-2067513A5DB NAIROBI	7167
 AALTO HAPS KENYA LIMITED Data Controller	7167
 AAR HOSPITAL LIMITED Data Controller INST-41539227297	7167
@@ -237,6 +238,7 @@ AIC Ndarakwa Data Controller INST-596375211AB KIAMBU	7167
 AIC Njoro Town CYDC Data Controller	7167
 AIC VOI Data Controller INST-29759426E12 TAITA	7167
 AICE AFRICA LIMITED Data Controller INST-651561A499F	7167
+AIDS Control	18162
 AIDS and Viral Hepatitis Prevention and Control	14033
 AIKON MALL Data Controller INST-563160B0AF0 NYAMIRA	7167
 AIM CONNECT LIMITED Data Controller INST-70101408A62	7167
@@ -605,6 +607,7 @@ Access Controls Across	7313
 Access Fee Contribution Satellite Gateway	10407
 Accessing Contracts and Contract Amendments Electronically	12389
 Accident Contractor	12253
+Accords. Contribuer	18302
 Ace Technologies Limited Data Controller INST-525122ED6EA	7167
 Aceli Africa Data Controller INST-207908DF52E NAIROBI	7167
 Aceso Health Solutions Data Controller INST-674200D1FBE	7167
@@ -1148,6 +1151,7 @@ Become Pregnant and Future Use of Contraception	15247
 Belfor Tech Consultants Data Controller INST-61859016CBE	7167
 Ben Kijuu Foundation Data Controller INST-98631476ABD	7167
 Bena Care Limited Data Controller INST-450757839F1	7167
+Benue State Tax Controller	18260
 Bid Securing Declaration Required Contract Awarded	13621
 Bima Claims Settling Agents Data Controller	7167
 Binary Limited Data Controller INST-241024C1639 NAIROBI	7167
@@ -1650,6 +1654,7 @@ CONTRIBUTION DES PATENTES SECTION	15999
 CONTRIBUTION FONCIERE UNIQUE Chapitre	16020
 CONTRIBUTION OF GOLDBOD AND BANK	14216
 CONTRIBUTION OF THE ICT SECTOR	12395
+CONTRIBUTION RECH	18122
 CONTRIBUTION Sensibiliser	14425
 CONTRIBUTION TO THE NDP The DHA	11285
 CONTRIBUTIONS	12168,434,2547
@@ -1677,6 +1682,7 @@ CONTROL ZONE	13403
 CONTROL ZONES	13403
 CONTROLADOR GEN. DE JUNTAS DE LAS	4209
 CONTROLE	13809,608,3402
+CONTROLE DE LA COMMISSION BANCAIRE	18292
 CONTROLE DE TERRAIN PAR	10876
 CONTROLE DE VERSÕES Versão Resumo	11532
 CONTROLE DES DONNEES PAR	10876
@@ -1707,6 +1713,7 @@ CONTRÔLE Article	10836,4799
 CONTRÔLE DE L'IMPÔT CHAPITRE	15999
 CONTRÔLE DE LA CONSTITUTIONNALITÉ	15999
 CONTRÔLE DE LA GESTION. Article	15416
+CONTRÔLE DE LA QUALITÉ DE SERVICE	18417
 CONTRÔLE DES MOYENS ET PRESTATIONS	17534
 CONTRÔLE DES OPÉRATEURS TRAITEMENT DE DOSSIERS	15670
 CONTRÔLE EXERCÉ PAR LE CONJOINT Contrôle	13300
@@ -1751,6 +1758,7 @@ COUPLET NETWORKS LIMITED Data Controller INST-18596535126	7167
 COURII APP LIMITED Data Controller INST-7414717F3EC	7167
 COVENANT MEDICAL CLINIC LIMITED Data Controller	7167
 COWATER KENYA LIMITED Data Controller INST-357970FCA7E	7167
+CPDN Contribution Prévue Déterminée	18103
 CPF ASSET MANAGERS LIMITED Data Controller	7167
 CPF FINANCIAL SERVICES LIMITED Data Controller	7167
 CPF Group Foundation Data Controller INST-50500029378	7167
@@ -1951,6 +1959,8 @@ Commercial Contract	15399
 Commission Nationale de Contrôle de Protection des Données	8891
 Commission Nationale de Lutte Controle	15500
 Commission de Contrôle des Marchés	5907
+Commission de Contrôle des Opérations	18324
+Commission de Contrôle des Opérations Domaniales	18293
 Commission for Control of Insurance COMESA Common Market	14997
 Commodities Fund Data Controller INST-6094611D08F NAIROBI	7167
 Commonwealth War Graves Commission Data Controller	7167
@@ -2006,6 +2016,7 @@ Contrac-	15901
 Contrac- NDICI-GE Regulation	15901
 Contraceptif Injectable CIPEC	15475
 Contraceptif Oral COGECS	15475
+Contraception	18312
 Contraceptive	10829,4210,686,535,662,326,4
 Contraceptive Device JKIA Jomo Kenyatta International	2775
 Contraceptive Knowledge and Use	13454,1793
@@ -2062,6 +2073,7 @@ Contract Notice Date	13621
 Contract Number	9892,1,6008
 Contract PDO Program Development Objective PdP	17458
 Contract Page26of35 Table	11180
+Contract Performance	18293
 Contract Planned Actual Planned Actual Planned	17180,39
 Contract Price	6946,6239,1895
 Contract Price P0	13185
@@ -2111,11 +2123,11 @@ Contract. The Terms of Reference	13031
 Contract. Without	13185
 Contract.Washington	11136
 ContractAward	9599
-Contractant	15901
+Contractant	15901,2528
 Contractant des Travaux	15901
 Contractants	15901
 Contracted Capacity	11953
-Contracted Capacity PHED Port Harcourt Electricity	12062
+Contracted Capacity PHED Port Harcourt Electricity	12062,6124,31
 Contracted Workers	17099
 Contracted Workers Contracted Workers The Borrower	1988
 Contracter	15901,2113
@@ -2225,7 +2237,7 @@ Contraintes	10874,91,10,2400,431,1687,443,386,160,1364,36,14,49
 Contraintes Appui	10975
 Contraints	7243
 Contrair	15391
-Contrairement	737,1259,284,274,1023,298,2563,917,258,100,811,933,588,240,104,1545,10,1446,62,16,189,145,745,995,219,175,321,457,407,628,75
+Contrairement	737,1259,284,274,1023,298,2563,917,258,100,811,933,588,240,104,1545,10,1446,62,16,189,145,745,995,219,175,321,457,407,628,75,342,14,106,5
 Contrais and Audits	15901
 Contralmirante	4209
 Contramedidas	11376
@@ -2238,7 +2250,7 @@ Contrapartidas	10783
 Contraponto	6038
 Contrariamente	1701,1115,14204
 Contrarily	14897,707,1346
-Contrary	4676,2203,1007,1243,316,690,1686,380,96,743,1967
+Contrary	4676,2203,1007,1243,316,690,1686,380,96,743,1967,3311
 Contras	11555
 Contrast	2409,1741
 Contrast Increase Text Decrease Text Readable	11539
@@ -2248,7 +2260,7 @@ Contraste Digital	14789
 Contrasting	15473
 Contrasting Educational Trajectories	16460
 Contrasts the EU AI Act	3859
-Contrat	3537,1030,304,2749,3216,40,2514,1034,1,437,31,506,11,16,6,110,93,35,68,163,119,17,134,59,65,317,833,40,344,43
+Contrat	3537,1030,304,2749,3216,40,2514,1034,1,437,31,506,11,16,6,110,93,35,68,163,119,17,134,59,65,317,833,40,344,43,444,6
 Contrat Annuel de Performance	16020,1966
 Contrat Cadre DG INTPA	18015
 Contrat Cadre de Concession	10975
@@ -2258,7 +2270,7 @@ Contrat Désendettement- Développement	15542
 Contrat EPC	13809
 Contrat O&M	13809
 Contrat de ANNEXE TEG Financement. Conformément	15901
-Contrat de Concession	16612,1229
+Contrat de Concession	16612,1229,481
 Contrat de Contrat	15901
 Contrat de Distribution	10975
 Contrat de Désendettement	15542
@@ -2266,6 +2278,7 @@ Contrat de En	15901
 Contrat de Fi-	15901
 Contrat de Fi- B.P	15901
 Contrat de Financement	15901
+Contrat de Partage de Production. La Société Nigérienne	18238
 Contrat de Partenariat Public Privé	15542
 Contrat de Partenariat Public-Privé	13445
 Contrat de Service Janvier-26 Février-	17963
@@ -2277,6 +2290,7 @@ Contrat de Subvention le Projet	15901
 Contrat-2026-mat-informatique-AMA-SAR.pdf	5240
 Contrat-cadre. Lieux	16534
 Contrat-plan	3396
+Contrat-type	18106
 Contrat. Dans	15901
 Contrat. Elles	15901
 Contrat. En	15901
@@ -2325,9 +2339,10 @@ Contratos Públicos. Artigo	10783
 Contratos de Empréstimo	11372
 Contratos de Funcionarios	4209
 Contratos de Oferta de Redes	11430
-Contrats	5907,2008,2797,124,40,99,2458,1055,1,1,872,32,507,1926
+Contrats	5907,2008,2797,124,40,99,2458,1055,1,1,872,32,507,1926,495
 Contrats ARTICLE	15901
 Contrats Travaux	15901
+Contrats de Concession des CER	18322
 Contrats de Inspecteur	17827
 Contrats de Projet	10975
 Contraven-	11976
@@ -2351,10 +2366,10 @@ Contrepartie des Immobilisations Obligations du Trésor	15999
 Contreparties Centrales	13468,2040
 Contrevenir	13781
 Contri-	15901
-Contrib	14832
+Contrib	14832,3586
 Contribuable	16047
 Contribuable Demande	13341
-Contribuables	10712,146,2569,233,2137,531,190
+Contribuables	10712,146,2569,233,2137,531,190,1754
 Contribuables CTCS Comité Technique de Coordination	10712
 Contribuables. Entreprises	16641
 Contribuciones	1701,2508,12760,223
@@ -2364,7 +2379,7 @@ Contribuciones Nacionales	16875
 Contribuciones Pensiones	4209
 Contribuciones Previstas	16875
 Contribue	13677,748,1218,1805
-Contribuer	643,7274,2941,17,90,2325,11,113,263,104,387,257,54,9,1,1,47,869,90,4,39,3,168,2,11,16,260,371,175,76,25,1173,9,1,16,8,7,12,10,14,3,83,1,20,29
+Contribuer	643,7274,2941,17,90,2325,11,113,263,104,387,257,54,9,1,1,47,869,90,4,39,3,168,2,11,16,260,371,175,76,25,1173,9,1,16,8,7,12,10,14,3,83,1,20,29,86,179,5
 Contribuer Copyright	9482
 Contribuera	15583
 Contribuicao	1144
@@ -2403,6 +2418,7 @@ Contributed	5224,7505,233,12,207,1485
 Contributes	861,2930,466,8712,1712,64,190,62
 Contributeur	4567
 Contributeurs	15472
+Contributeurs Abdourahamane Salifou Administrateur	18177
 Contributeurs Salissou Soumana Karimou Webmaster Société	9668
 Contributif.pdf	13714
 Contributing	11,571,998,721,36,582,39,76,44,155,102,773,471,15,670,9,64,253,29,80,594,1239,223,613,126,756,117,372,229,568,595,787,37,440,72,152,283,2,76,415,473,135,402,160,109,116,25,17,115,76,634,68,743,482,13,176,292,7,263,168
@@ -2412,7 +2428,7 @@ Contributing Partner	6153
 Contributing Partners	6153
 Contributing Partners Program	6153
 Contributing Practice Areas	14910
-Contributing Practice Areas Agriculture and Food	1867
+Contributing Practice Areas Agriculture and Food	1867,16331
 Contributing Practice Areas Digital Development Education	15491,130
 Contributing Practice Areas Digital Development Finance	1264,14880
 Contributing Practice Areas Digital Development Governance	3604
@@ -2424,11 +2440,12 @@ Contributing Practice Areas Gender	16032
 Contributing Practice Areas Governance CLIMATE Climate	16949
 Contributing Practice Areas Governance Digital Development	969
 Contributing Practice Areas Health	10829,588,143
-Contributing Practice Areas Social Protection	10768,2564
+Contributing Practice Areas Social Protection	10768,2564,4969
+Contributing Practice Areas Urban	18293
 Contributing Writer	4997
 Contributing Writer MONROVIA	8835
 Contributing-	11296
-Contribution	37,199,159,341,1,261,216,614,265,855,877,37,570,1223,1623,362,15,104,240,22,1,108,454,307,237,1,108,651,237,198,470,28,37,17,1,260,149,47,194,135,382,198,1,114,2,85,57,814,51,109,118,62,62,13,9,130,212,71,297,79,19,19,57,114,105,83,73,375,22,32,3,62,9,99,16,107,67,8,51,37,16,42,56,21,5,22,248,27,6,37,250,99,5,166,58,53,264,564,18,67,36,27,18,73
+Contribution	37,199,159,341,1,261,216,614,265,855,877,37,570,1223,1623,362,15,104,240,22,1,108,454,307,237,1,108,651,237,198,470,28,37,17,1,260,149,47,194,135,382,198,1,114,2,85,57,814,51,109,118,62,62,13,9,130,212,71,297,79,19,19,57,114,105,83,73,375,22,32,3,62,9,99,16,107,67,8,51,37,16,42,56,21,5,22,248,27,6,37,250,99,5,166,58,53,264,564,18,67,36,27,18,73,59,157,7,23,7,3,5
 Contribution Afin	13751
 Contribution Agree	13095
 Contribution Agreement	12962,2939
@@ -2445,6 +2462,7 @@ Contribution Electioneering Campaign	9400
 Contribution FOMAP	1536
 Contribution Financière Cible	643
 Contribution Foncière Unique	16020
+Contribution Globale Unique	18318
 Contribution ND-GAIN Notre Dame Global Adaptation	11560,4044
 Contribution Of The ICT	12395
 Contribution Prévue Déterminée	15496,1125
@@ -2457,6 +2475,7 @@ Contribution des Patentes	15361
 Contribution des SerViteS	15999
 Contribution des TIC	13290
 Contribution du CNPM	17824
+Contribution du Sénégal	18286
 Contribution of Digital Economy	11863
 Contribution of Food Assistance	17323,1
 Contribution of ICT	236,14600,2156
@@ -2496,7 +2515,7 @@ Contributor Johannesburg	2271,4378,1591,175,1487,78,573,2599
 Contributor TS Imagine Adds Loans Trading	7156
 Contributor. Johannesburg	2267,1434,3785,285
 ContributorJohannesburg	3253,164,170,47,25,57,338,19,1341,1859,2914,461
-Contributors	2228,4144,625,154,162,3691,918,42,13,174,3551,1558
+Contributors	2228,4144,625,154,162,3691,918,42,13,174,3551,1558,849
 Contributors Antonio Di Gregorio National Center	15129
 Contributors Dr. Emrys Schoemaker	11006,1
 Contributors Ivan Skenderoski Managing Partner Greg	14621
@@ -2507,6 +2526,7 @@ Contributory	12964,2033,141
 Contributory Scheme	16858
 Contributos	15966
 Contribuya	1701
+Contro	18154
 Control	34,384,300,983,287,1515,148,558,904,133,271,18,952,78,269,637,260,399,123,960,24,162,38,179,541,564,72,363,701,95,4,354,202,16,141,221,48,40,64,246,44,7,37,78,7,105,875,105,206,21,174,80,122,98,93,330,231,931,7,16,20,25,16,6,22,99,71,13,30,93,32,370
 Control APPENDIX	1000
 Control Act	6921
@@ -2952,14 +2972,14 @@ Controversy Over Universal Fingerprinting	5700
 ContrÙle	15394
 ContrÙle L'autoritÈ	15394
 Contrô	18065
-Contrôle	998,187,497,374,420,640,280,1763,1800,398,298,6,608,528,683,332,896,4,124,40,2415,9,1,40,92,19,16,944,13,4,2,27,22,8,1,1,47,879,8,5,71,7,76,52,35,42,26,9,22,164,3,7,56,48,166,17,65,32,1,4,197,68,39,11,1165,7,8,2,12,5,11,1,6,2,33,2,71,43,17
+Contrôle	998,187,497,374,420,640,280,1763,1800,398,298,6,608,528,683,332,896,4,124,40,2415,9,1,40,92,19,16,944,13,4,2,27,22,8,1,1,47,879,8,5,71,7,76,52,35,42,26,9,22,164,3,7,56,48,166,17,65,32,1,4,197,68,39,11,1165,7,8,2,12,5,11,1,6,2,33,2,71,43,17,87,3,49,141,10,5,5,7,61,2,1,9
 Contrôle Budgétaire PORTEFEUILLE PUBLIC RECETTES DES	15449
 Contrôle Circonscriptions	18032
 Contrôle Comptes	3396
 Contrôle Environnemental	17913
 Contrôle Général	16001,1982
 Contrôle Général des Services Publics	17899
-Contrôle Interne	15412,2603
+Contrôle Interne	15412,2603,385,2,1
 Contrôle Interne DCM Département	18015
 Contrôle Lorsque	15943,352
 Contrôle L’Autorité	15885
@@ -2976,8 +2996,10 @@ Contrôle de Gestion	10975,6854
 Contrôle de Gestion D UT Hôtellerie	17829
 Contrôle de I'Autorité	15429
 Contrôle des Assurances BCC	13377
+Contrôle des Entreprises	18427
 Contrôle des Infections	14622,1089
 Contrôle des Marchés Publics SECRÉTARIATS PERMANENTS	15449
+Contrôle des Opérateurs Mobiles	18122
 Contrôle des Pollutions	17827,156
 Contrôle des Systèmes Financiers Décentralisés	6827
 Contrôle des Telecommunications	13313
@@ -2994,7 +3016,7 @@ Contrôle. Article	15903
 Contrôle. Lorsque la Banque Centrale du Congo	15903
 Contrôled'accèslogiqueausystèmed'information	15525
 Contrôler	4802,419,4334,1321,2425,418,764,54,935,238,2114,42
-Contrôles	14537,892,43,111,350,66,1847,26,124
+Contrôles	14537,892,43,111,350,66,1847,26,124,126
 Contrôles L’IA	15583
 Contrôles des Télécommunications	13652
 Contrôleur	113,5794,1763,1379,1662,264,4386,309,171,77,24,57,100,188,1540,34,38,83,50
@@ -3409,6 +3431,7 @@ DU CONTROLE Article	15426
 DU CONTROLE Congo	16177
 DU CONTROLE Congo S.a	16177
 DU CONTROLE DE LA GESTION Article	15366
+DU CONTROLE DE LA REGULARITE DES	18101
 DU CONTROLE DES BUREAUX DE CHANGE	15354
 DU CONTROLE DES INSCRIPTIONS SUR	15727
 DU CONTROLE DES PRESTATAIRES DE SERVICES	15584
@@ -3418,6 +3441,9 @@ DU CONTROLE ET DES SANCTIONS Article	16612
 DU CONTROLE QUALITE DES REDRESSEMENTS Article	15999
 DU CONTROLE TECHNIQUE DES ACTIVITES ET	15584
 DU CONTROLE Territoriales	17817
+DU CONTRÔLE DE CONFORMITE DES TRAITEMENTS	18119
+DU CONTRÔLE DE LA RÉGULARITÉ DES	18101
+DU CONTRÔLE DES ACTIVITES DES TRIBUNAUX	18106
 DU CONTRÔLE ET DU CONTENTIEUX Section	15361
 DU REGIME NON CONTRIBUTIF OU RBRNC	14418
 DU SYSTEME DE MANAGEMENT CONTRE	15660
@@ -3706,20 +3732,23 @@ Dirección General de Control Financiero	16930
 Direct Contracting	11525,3886
 Direct Contracting and CQS	11525
 Directeur Contrat Achat	16099
-Directeur du Contrôle	8269
+Directeur du Contrôle	8269,10143
 Directeur du Contrôle des Marchés	15412
 Directeur du Contrôle des Marchés Publics	15412
 Direction Générale des Contributions Directes	15625,1
-Direction Générale du Contrôle	14431
+Direction Générale du Contrôle	14431,3942
 Direction Nationale du Contrôle	17839
 Direction de Contrôle Anti-Pollution	15580
 Direction du Contrôle	4420,10992,300
 Direction du Contrôle des Dépenses	4420
 Direction du Contrôle des Marchés	16384
+Director of Seed Quality Control and Certification	18197
 Director-General of Health Emergencies and Epidemics Control	13870
 Directorate General of Contributions and Taxes	11939
+Directorate for Environmental Regulation and Control	18370
 Directorate for Public Procurement Control	11905
 Directorate of Citizenship and Immigration Control	3005,3430,58,1581,2748,3558
+Directorate of Environmental Regulation and Control	18370
 Directorate of Liquor Control and Licensing Data Processor	7167
 Directory-Domain Controller	14921
 Direcção Nacional Assinatura de Contrato	10753
@@ -3959,6 +3988,7 @@ Endashaw Tadesse Gossa ICR Main Contributor	14948
 Ends Era of Mobile Money Silos Contributing	4282
 Energia Elétrica Doméstica Contribuição Audiovisual	11532
 Energy Performance Contracting	7845
+Enforcing Contracts	18109
 Engage and Actively Contribute	15713
 English Contracting	9274
 Engr. Amara B. Massaquoi Contributor	17260
@@ -4228,6 +4258,7 @@ Information Systems Audit and Control Association	9237,1179,13
 Information Technology NCP National Contribution Plan	11553
 Infrastructure for Movement and Control	12227
 Ingotse Mission Data Controller INST-82956477B37 KAKAMEGA	7167
+Ingénieur de Contrôle KWH	18118
 Initiative MCCs Model Contractual Clauses OECD	1243
 Initiative Présidentielle de Lutte Contre le Paludisme PMT	15475
 Injuries and Mental Health Prevention and Control Programme	12976
@@ -4488,7 +4519,7 @@ Lump-Sum Form of Contract	13037
 Luta Contra	11374
 Lutte Contre la Corruption	3396
 Lutte Contre la Corruption. Mais	14450
-Lutte Contre la Désertification	17941
+Lutte Contre la Désertification	17941,177
 Lutte Contre la ODHD	17842
 Lutte Contre la Pauvreté	3045,10245,2467,179,2009
 Lutte Contre la Sécheresse	16621
@@ -4504,6 +4535,7 @@ MATERIAL CONTRACTS	4896
 MATERIAL CONTRACTS Mr Mgqibelo Gasela	4896
 MATRIX OF DONORS’ CONTRIBUTIONS	970
 MATRIX OF DONORS’ CONTRIBUTIONS Donor Year	970
+MCDONNEl CONTRACT MINING	18154
 MECHANiSMS FOR EXERTiNG DATA CONTROL	961
 MEDICAL CLINIC LTD Data Controller INST-57255188A6C	7167
 MEDICAL COUNCIL ACT DANGEROUS CHEMICALS CONTROL	14773
@@ -4531,7 +4563,7 @@ Maintenance Service Contracts	16844
 Maintenance Service Contracts Costs N	16844
 Major Contraventions Description	17249
 Malaria Control	12421
-Malaria Control Program	16971
+Malaria Control Program	16971,1191
 Malaria Control Programme PI Performance Indicators	15556
 Malavu Data Controller INST-4423414DDF0 NAIROBI Kenya	7167
 Malawi’s Nationally Determined Contributions	13060,51
@@ -4544,6 +4576,7 @@ Mandatory Contract Content	5676
 Mandatory Contract Content Every	5676
 Mandatory Controls	3861
 Mandatory Exit Clause The Contract	6432
+Mandatory Implementation of Free Governor Control	18186
 Mandatory Internal Controls	3861
 Mandatory Internal Controls All	3861
 Mandatory Reporting Contract	6432
@@ -4595,6 +4628,7 @@ Moderate Contributors	15244
 Moderate Post Limited Direct Contract	11855
 Moderate-Level Contributing Indicators	15244
 Modern Contraceptive Methods	13454,1793
+Modern Contraceptive Prevalence	18162
 Modern Methods of Contraception	2775
 Modernize Border Control	5758
 Module de Contrôle de Facturation	14469
@@ -4631,6 +4665,7 @@ NDC Nationally Determined Contribution NEP Net	14997
 NDC Nationally Determined Contribution NGAO National	12256
 NDC Nationally Determined Contribution NPV Net	1264
 NDC Nationally Determined Contributions	14947
+NDPC Reaffirms Duty of Care for Data Controllers	18230
 NIS Contrary	15430
 NITDA Indigenous IT Service Providers and Contractors	5665
 NTRA’s Frequency Spectrum Control Center	16046
@@ -4671,6 +4706,7 @@ National Drug Quality Control Laboratory	12583
 National Drug Substance Abuse Control and Enforcement	3746
 National Food and Drug Quality Control	16922
 National Food and Drug Quality Control Laboratory	16922
+National GBON Contribution Plan	18309
 National Malaria Control Program	17369
 National Malaria Control Program Report	10776
 National Malaria Control Program and Last Miles	16971
@@ -4680,12 +4716,13 @@ National Programme for NTD Control	10188
 National Quality Control Lab	4153
 National Quality Control Lab KEMSA Quality	4153
 National du Contrôle Monsieur Aristide Aboyi EDAH	16485
-Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236,730,191,318
+Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236,730,191,318,847,65
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
 Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735,292,1077,179,39,117
 Nationally Determined Contributions DHS	17101
 Nationally Determined Contributions. WRI	15500
+Nationally Determined Planned Contribution CRT	18309
 Nature of Contract	12400
 Neither Contracting	13326
 Neither Contracting Party	13326
@@ -4701,6 +4738,7 @@ Nigeria Centre for Disease Control and Prevention	3721
 Nigeria Open Contracting Portal	12308
 Nigeria. Contractor	4473
 Nigerian Open Contracting Portal	12308
+Niger’s Nationally Determined Contributions	18198
 Nkaimurunya Data Controller INST-537184234C8 NAIROBI Kenya	7167
 Nkhuwa Contributors Mr Milimo Mweemba	13477
 No. Contract Estimated Procurement Review Market	17180
@@ -4742,6 +4780,7 @@ OBLIGATIONS OF THE DATA CONTROLLER	14893
 OBLIGATIONS ON CONTROLLERS AND PROCESSORS	14727
 OBRIGAÇÕES DE PAGAMENTO Contribuintes	12018
 ODHIAMBO ADVOCATES LLP Data Controller INST-832640E4465	7167
+OFNAC Office National de Lutte Contre la Corruption	18286
 OPTICALS LTD Data Controller INST-364145F15AE KISUMU	7167
 ORIENTAÇÕES PARA PAGAMENTO SIMPLIFICADO DE CONTRIBUIÇÕES	11532
 Objectives Contribute	10854
@@ -4778,7 +4817,7 @@ Outside Government Control	11924
 Overall Financial Capability Control Knowledge Choice	418
 Ownership and Control	11235
 P HOUSE COMPANY Data Controller INST-794111D7814	7167
-PAC Partial Activation of Contract PCC Partial	12062
+PAC Partial Activation of Contract PCC Partial	12062,6124,31
 PAGE II CONTRIBUTEURS M. BOUKAR OUMATE	16195
 PART IV CONTROL OF E-GOVERNMENT SYSTEMS	13322
 PART V DUTIES OF DATA CONTROLLER	13319
@@ -4824,7 +4863,7 @@ Pagamento Simplificado de Contribuições	11532
 Par Michel GROLLEAUD Contrat	17945
 Par- MINISTERE DU CONTROLE D’ETAT	15660
 Partenaire du MINSAN Contribue	14425
-Partially Contracted Capacity	12062
+Partially Contracted Capacity	12062,6124,31
 Participant Internal Controls The Participants	12364
 Parties. du Contrat	15901
 Partner Contributions	11469
@@ -4842,13 +4881,15 @@ Pequenos Contribuintes	12802
 Percentage Contribution	2775
 Percentage Contribution Type of Asset	2775
 Perfomance Contractual	6946
-Performance Contract	8955,1874,2589,3688,81,79
+Performance Contract	8955,1874,2589,3688,81,79,1089
 Performance Contracting	13673
 Performance Contracting Obligations	6946
 Performance Contracts	7548,5870
 Performance-based Contracts	17458
 Perishable Products Export Control Board PPME	11197
 Permanent Contract Executive Female Male	12969
+Permanent Inter-State Committee for Drought Control	18309
+Permanent Interstate Committee for Drought Control	18104
 Permit for Controller	15484
 Personal Contratado	4209
 Personal Contratado Civil	4209
@@ -4861,6 +4902,7 @@ Phase II Contract	8166
 Phase. Contractor	17099
 Physical Controls Basic	21
 Physical and Logical Access Controls	16878
+Plan Cadre de Lutte Contre la Pauvreté. PDES	18100
 Plan NDC Nationally Determined Contribution NDM	17458
 Planned Enforcement Actions for Data Controllers	3003
 Plano Anual de Contratação	2365,248
@@ -4939,6 +4981,7 @@ Project’s Works Contractor Destruction	17114
 Projet de Contrôle des Maladies Tropicales Négligées	14622
 Prolonged Contract Implementation Period Physical	14546
 Promoteur du Contractant	15901
+Properties Operations Control Commission	18293
 Property Control and Exhibit Management System	5323
 Proposal and Contract	13037
 Proposed Contract	11240
@@ -5169,6 +5212,8 @@ Secção I Contra-ordenações Artigo	15392
 Secção II Contraordenações	15433
 Secção MINISTÉRIO DA JUSTIÇA Assinatura de Contrato	10753
 Seed Control and Certification Institute	13403
+Senegal’s Nationally Determined Contributions	18293
+Senelec Le Contrat de Concession	18322
 Senior Internal Control Officer	14835
 Serious Contraventions Description	17249
 Service Contract	13031
@@ -5230,6 +5275,7 @@ Standard Contract	962
 Standard Contractual Clauses	5244,6712,37,1388
 Standstill Period Between Contract Award Notice	12389
 State Controlled Media	13929
+State Properties Operations Control Commission	18293
 Statement of Compliance The Contract MUST	6432
 States Centers for Diseases Control and Prevention	17289
 Statistics Records Quality Development and Control	16863
@@ -5318,6 +5364,7 @@ Tender and Contractual Mechanisms	12389
 Terminal de Contrôle	16248
 Thematic Contributions	14058
 Through Technology Mangudya’s Mutapa Now Controls	3016
+Tige Contrarié	18099
 Timber Sales Contracts	17140
 Tobacco Control	7760,3016,2698,3815
 Tobacco Control FRH Family and Reproductive Health	17289
@@ -5359,12 +5406,14 @@ Trinidad and Tobago Imported Vehicle Licensing Controls	16631
 Trust Property Control Act	11276,1276,6,71
 Trustees Data Controller INST-813173D2D9A NAIROBI Kenya	7167
 Tráfego de Controlo de Telecomunicações	8745,219
+Tuberculosis Control Program	18162
 Tuberculosis and Leprosy Prevention and Control	14033
 U.S. Centers for Disease Control	12334
 U.S. Centers for Disease Control and Prevention	10641,5742,588,394
 U.S.A Data Controller INST-897307F8DBF NAIROBI Kenya	7167
 UDC University Development Contract UDP University	17458
 UDP3 Phase II Municipal Contract	16614
+UGP Contrôle	18118
 UM AMBIENTE FISCAL AMIGO DO CONTRIBUINTE	16487
 UNFPA's General Conditions of Contract	17068
 UNHCR Financial Internal Control Framework	13938
@@ -5404,6 +5453,8 @@ VALEUR CONTRACTUELLE FI N	15901
 VECTOR BIOLOGY AND CONTROL DIVISION	14773
 VEGETAL E CONTROL DE RURAL	4209
 VI.1.2 Contribution des Partenaires	15722
+VI.3. CONTRIBUTION DES PLANS D’ACTION AU	18291
+VI.3. Contribution	18291
 VIOLENCE INITIÉE PAR UN CONJOINT CONTRE	13300
 VOCA Data Controller INST-2986457104C NAIROBI Kenya	7167
 VRE Contracted	12399

@@ -1,6 +1,7 @@
 A. Overview of Vulnerabilities	17257
 A. The Republic of Congo Is Vulnerable	1828
 A. van Vuren	8022
+A1.3.4. Vulgariser	18286
 A3.2.3.6 Vulgariser	10858
 ADJOINT DU SPORT MILITAIRE Vu	17899
 AI. Vulnerabilities	17771
@@ -100,6 +101,8 @@ Charles Cheick Amalah Vu	17982
 Charte Vu le Décret	18032
 Claude Louis Vu	16100
 Climate Change Risks and Vulnerabilities	10829
+Climate Change Vulnerabilities	18370
+Climate Vulnerability	18370
 Climate Vulnerability and Resilience	16896,26
 Code Vu la Note	17817
 Code des Investissements. Vu la Constitution	17817
@@ -121,6 +124,7 @@ Commission. Vu le Décret N	17817
 Commune de Mossendjo Vu la Constitution	15558
 Communication Vu la Constitution	17827
 Comportements Que Je N'ai Jamais Vus	4960,62,2035
+Conférence Nationale VU	18094
 Conférences de Bamako. Vu le Décret	18032
 Congo Vu	15558
 Congo. Vu	15390,649
@@ -137,6 +141,7 @@ D. House Construction for Vulnerable Households	12977
 D.T.P Terrassement Vu	15395
 DANS LE BUDGET Vu le Décret	18032
 DATA SUBJECT'S VULNERABILITY INDEXES	11956
+DE L'AGRICULTURE ET DE L'ÉLEVAGE Vu	18106
 DE LA CONFEDERATION Vu la Loi	18003
 DE LA DUREE Vu	16177
 DE LA RÉPUBLIQUE Vu VU	15489
@@ -292,6 +297,7 @@ Gladio Entreprise Vu	15439
 Gouver- Vu	16100
 Gouver- Vu la Constitution	15901
 Gouvernement Vu le Décret N	17817
+Groupes Vulnérables	18286
 Guichet Unique Vu la Loi N	17817
 Guichet Vu le Traité	17817
 Général de Division Abdoulaye MAIGA Vu la Charte	17982
@@ -318,9 +324,11 @@ Ibrahim Boubacar KEITA Vu la Loi	17841
 Ibrahim Boubacar KEITA Vu le Décret	17829,12
 Ibrahima Abdoul LY Vu la Loi	17841
 Identification of Systemic Risks and Vulnerabilities	6938
+Idiosyncratic and Covariate Vulnerability Rate	18301
 Incluir Populações Vulneráveis	15684,5
 Inclusion Productive des Jeunes Vulnérables	16012
 Inclusion Productive des Jeunes Vulnérables Finaliser	16012
+Inclusion of Vulnerable Groups Applicable	18370
 Indicators of Compromise Vulnerability	10721
 Industrie Vu	18003
 Industrie Vu le Décret	18032
@@ -425,7 +433,9 @@ Nadjiba DJILALI. Vu	15863
 Nango DEMBELE Vu la Loi	17828
 National Policy for Orphans and Vulnerable Children	12253
 National Vulnerability Register and Framework	1000
+Niger Vu la Constitution	18106
 Niger Vu la Loi N	17841
+Niger. Vu	18265
 Nouhoum COULIBALY Vu le Décret	17829
 Ntoula I Vu	15395
 Ntoula II Vu	15395
@@ -443,6 +453,7 @@ Operation Vulindlela Phase II	3741,4859,3397
 Operation Vulindlela Phase II Q1	8779
 Operation Vulindlela. When Operation Vulindlela	10058
 Ordre Vu la Loi	17841
+Orientation du Code Rural VU la Constitution VU	18094
 Orphan Vulnerable Children Distribution of Social Assistance	12373
 Orphan and Vulnerable Children	12922
 Orphaned and Vulnerable	12956
@@ -502,10 +513,12 @@ Prisco Voice Vox Limited Vulcable WhaiNot	8530
 Prof. Vukosi Marivate	3987
 Professor Vukosi Marivate	6152,1605
 Programa Família Vulnerável	14191
+Progrès ASSEMBLEE NATIONALE VU la Constitution	18101
 Promotion de Vu la Loi	17841
 Proportion of VUP	12440,2698
 Protect Vulnerable Communities	11285
-Protecting Poor and Vulnerable People	10964,941,1426
+Protect the Poor and Most Vulnerable’. Though	18301
+Protecting Poor and Vulnerable People	10964,941,1426,4970
 Protecting the Poor and Vulnerable	10779
 Protection Vu le Décret	17827
 Protection of Elderly and Vulnerable Voters Particular	10049
@@ -532,6 +545,7 @@ République Vu	13323
 République Vu la Constitution	16367
 République du Bénin Vu	15431
 République du Congo. Vu	15395,349
+République du Niger. Vu la Constitution	18106
 République. Vu la Loi	17899
 S Vu	15744,356,77
 S Vu la Constitution	15744,356,77
@@ -550,6 +564,7 @@ Savings and Loan Association VUP Vision Umurenge	15138
 Secteur Informel ENVA Ecole Nationale de Vulgarisation	17907
 Security Obligations and IoT Vulnerabilities Section	8776
 Security Vulnerable	12211
+Senegal Conflict Vulnerability Assessment	18293
 Senior Assistant Commissioner of Police Vusi Gama	12463
 Services Financiers des Saisons Vulnérables	1412
 Services Vu la Loi	17827
@@ -569,6 +584,7 @@ Son Excellence Monsieur Samuel Vu la Loi	17841
 Sources de Vu la Loi N	17817
 South Africa’s Vukosi Marivate	5074
 Stark Matériaux de Construction Vu	15744
+Statistique Vu la Constitution	18095
 Structural Vulnerabilities. Mogadishu	11136
 Structural Vulnerability and Economic Fragility	15059
 Supply Chain Vulnerability	4528,7984
@@ -601,6 +617,7 @@ Urban Rural Poor Vulnerable Other Poor	10763
 Utilizadores Vulneráveis	15526
 V Vulnerabilidade	6970
 VAPT Vulnerability Assessment and Penetration Testing	11952
+VU Ie	18296
 VU L'Ordonnance	13825
 VU La Circulaire	4420,147,9279,31
 VU La Constitution	4567,9261,18,31
@@ -614,7 +631,7 @@ VU VU	15431,58
 VU VU VU	15438
 VU VU VU VU	15438
 VU VU VU VU VU VU	15431
-VU la Constitution	13715,4,4,49,37,1553,50
+VU la Constitution	13715,4,4,49,37,1553,50,2875,9,15
 VU la Loi	4567,9258
 VU la Loi N	13715
 VU la Zatu	15412
@@ -625,6 +642,7 @@ VUCA World	7444
 VUE D'ENSEMBLE	16722
 VUE DE LA CORNICHE FONDATION EDUCATIVE	16456
 VUE DE LA REALISATION D'UN ETAT	15850
+VUE D’ENSEMBLE DES DONNÉES SUR	18143,27
 VUES SPATIALES DU PROJET ET IDENTIFICATION	17846
 VUKELIĆ PAVLINOVIĆ	6613
 VULA Virtual Unbundled Local Access WBG	1818
@@ -668,21 +686,22 @@ Vu la Charte	113,1688,12668,937,124,72,76,3,10,10,79,12,471,373,1,8,6,1210,13,25
 Vu la Charte Africaine	14861
 Vu la Const	15461
 Vu la Constiftution	15744
-Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66,1645,1,1,10,20,7,4,253,1,820,3,2,1,2,1,1,1,10,15,15,4,20,17,38,5,67,251,1,1,7,23,284,170,6,1,6,11,4,3,4,12,1,14,1,9,1,6,2,4,2,2,3,16,1,9,2,21,19,17,6,4,13,11,11,15,10,4,4,5,1,7,45,30,1,1,8,32,12,3,20,11,2,6,62,15,38,29,3,10,96,46,15,48,1,22,6,26,27,5,12,16,8,2,1,21,27,22,23,3,43,12,31,159,1,263,560,1,16,356,2,3,2,1,1,6,1,1,3,6,3,20,13,15,10,83,21,29
+Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66,1645,1,1,10,20,7,4,253,1,820,3,2,1,2,1,1,1,10,15,15,4,20,17,38,5,67,251,1,1,7,23,284,170,6,1,6,11,4,3,4,12,1,14,1,9,1,6,2,4,2,2,3,16,1,9,2,21,19,17,6,4,13,11,11,15,10,4,4,5,1,7,45,30,1,1,8,32,12,3,20,11,2,6,62,15,38,29,3,10,96,46,15,48,1,22,6,26,27,5,12,16,8,2,1,21,27,22,23,3,43,12,31,159,1,263,560,1,16,356,2,3,2,1,1,6,1,1,3,6,3,20,13,15,10,83,21,29,65,9,9,4
 Vu la Constitution Vu la Loi L	16612
-Vu la Convention	547,3,18,20,13871,151,283,489,24,36,1,39,452
+Vu la Convention	547,3,18,20,13871,151,283,489,24,36,1,39,452,2185
 Vu la Directive	548,10974
 Vu la Décision	11567,2852,119,72,3422
 Vu la Déclaration Universelle des Droits	14861
 Vu la Déclaration du Conseil des Ordres Nationaux	17812
 Vu la Délibération	14500,110
-Vu la Loi	1214,1411,8211,686,45,1756,7,4,253,1,830,40,25,436,108,150,205,115,11,37,2,22,15,51,250,485,246,20,1176,5,3,1,6,1,1,3,9,20,13,25,83,21,29
+Vu la Loi	1214,1411,8211,686,45,1756,7,4,253,1,830,40,25,436,108,150,205,115,11,37,2,22,15,51,250,485,246,20,1176,5,3,1,6,1,1,3,9,20,13,25,83,21,29,149
 Vu la Loi L	234,16382,19,2,8,6
 Vu la Loi LO	16637
 Vu la Loi N	7470,10342,2,3,2,22,48
 Vu la Loi Organique	2625,10705,1101,430,1,1,1040
 Vu la Loi des Finances N	7470
-Vu la Note	17817
+Vu la Note	17817,364
+Vu la Proclamation	18096
 Vu la Résolution	785
 Vu laLoi L	16637
 Vu laLoiL	16637
@@ -704,7 +723,7 @@ Vu le Procès-verbal de Conseil	17828
 Vu le Règlement	10836,686,3986,127
 Vu le Règlement Intérieur	547,3,18,20
 Vu le Règlement N	15934
-Vu le Traité	10836,686,45,1726,2059,90,40,26,127
+Vu le Traité	10836,686,45,1726,2059,90,40,26,127,2546,133
 Vue Globale Ouverture	16641
 Vue.js	16300,1602
 VueJS	13042
@@ -725,11 +744,12 @@ Vule Décret	2625,11833,25
 Vulekamali	8013
 Vulekamali and Municipal Money	8013
 Vulgar Ad	4790
-Vulgarisation	11944,1397,1109,87,1043,140,907,58,1188,130
+Vulgarisation	11944,1397,1109,87,1043,140,907,58,1188,130,283,5,15
 Vulgarisation des Technologies	15722
 Vulgarisation du MGP	15908
 Vulgarise	14723
 Vulgariser	10858,107,2325,2293,90,126,820,88
+Vulgariser la ANSD	18291
 Vulgariser la Convention	13442
 Vulgariser le Mécanisme de Gestion des Plaintes	10876
 Vulindlela	5922,2857
@@ -737,7 +757,7 @@ Vulindlela Report	11986
 Vulnerabilidade	11362,207,332
 Vulnerabilities	8897,719,5113
 Vulnerabilities Management and Penetration Testing	15054
-Vulnerability	940,2490,3836,1857,5,644,949,120,315,369,431,297,670,130,279,1615,191,523,1241,41,8,206
+Vulnerability	940,2490,3836,1857,5,644,949,120,315,369,431,297,670,130,279,1615,191,523,1241,41,8,206,947,94,103
 Vulnerability Analysis and Mapping	17285
 Vulnerability Assessment	1000,14662,1495
 Vulnerability Assessment Framework and Checklist	1000
@@ -764,12 +784,12 @@ Vulnerability and Readiness Scores	17257
 Vulnerability and Risk Drought Risk Mitigation Measures	17157
 Vulnerability of Desalination	17157
 Vulnerability of Telecommunication Infrastructure	13331
-Vulnerable	1778,210,2269,6506,201,273,344,324,555,2414,370,180,94,140,302,300,124,542,70,103,15,43,91,4
+Vulnerable	1778,210,2269,6506,201,273,344,324,555,2414,370,180,94,140,302,300,124,542,70,103,15,43,91,4,955,86,62,15
 Vulnerable Children	12373
 Vulnerable Children PHU Public Health Unit	12970
 Vulnerable Demographics Dependency	10763
 Vulnerable Families	10763,5
-Vulnerable Group	15004
+Vulnerable Group	15004,3158
 Vulnerable Groups	1778,15148,173,15
 Vulnerable Groups Fund	11998
 Vulnerable Groups Group Potential Interests	17099
@@ -788,7 +808,7 @@ Vulnerable Populations Orphans and Youth Lack	12328
 Vulnerable Pregnant and Lactating Women	14980
 Vulnerable and Marginalized Communities	17114
 Vulnerables25 Ministry of Programme National Housing	10985
-Vulnérabilité	10874,2,1096,1743,765,142,1102
+Vulnérabilité	10874,2,1096,1743,765,142,1102,2380
 Vulnérabilités	15500,2563
 Vulnérables	16384
 Vulnérables Affectés	17927

@@ -11,9 +11,11 @@ DE GESTION DES PLAINTES	16104
 EDT Plaine	15615,129
 EDT Plaine de Brazzaville	15660,32
 EDT- Plaine Brazzaville	15848
+ENERGIE VI. TRAITEMENT DES PLAINTES ET	18322
 ETAT DES LIEUX DES PLAINTES O2	15670
 Enfant MGP Mécanisme de Gestion des Plaintes MSHP	15746
 Entreprise Plaintes	14488
+FICHE D'ENREGISTREMENT DES PLAINTES Nom	18159
 FICHE DE RÉCEPTION DES PLAINTES Daty	14489
 FLOODING Plaine Magnien	14738
 FORMULAIRE DE RECEPTION DE LA PLAINTE	15908
@@ -52,11 +54,13 @@ Mitchell’s Plain	8999
 Moyen Terme Comité de Gestion des Plaintes Commune	14425
 MÉCANISME DE GESTION DES PLAINTES DES	14424
 Mécanisme de Gestion de Plaintes	14488,1,1
-Mécanisme de Gestion des Plaintes	5221,5655,5032
+Mécanisme de Gestion des Plaintes	5221,5655,5032,2293,50,122
 Mécanisme de Gestion des Plaintes AGIR URL	15908
+Mécanisme de Gestion des Plaintes MST	18118
 Mécanisme de Gestion des Plaintes des Travailleurs	15908
 NATURE DES PLAINTES	15670
 OSC Plaidoyer	13325
+Objectif du Mécanisme de Gestion des Plaintes	18118
 Objectifs du Mécanisme de Gestion des Plaintes	15908
 Objectifs du Mécanisme de Gestion des Plaintes Le Mécanisme	15908
 Organigramme du Mécanisme de Gestion des Plaintes	15746
@@ -64,10 +68,11 @@ PLAINTES	15670
 PLAINTES DES CONSOMMATEURS	13390
 PLAINTES DES CONSOMMATEURS SECTION VII	13390
 PLAINTES Daty Anton’ny N	14490
+PLAINTES ET RECOURS	18119
 POTS Plain Old Telephone Service USF	14723
 Party Details Plaintiff	14675
 Plaider	16545
-Plaidoyer	1876,3203,8211,35,1297,1098,475,10,1637
+Plaidoyer	1876,3203,8211,35,1297,1098,475,10,1637,423,21
 Plaidoyer COM6	16529
 Plaie	13300
 Plaignant	14425,1483
@@ -87,12 +92,12 @@ Plaine des Roches	14830
 Plaine-Magnien	14792
 Plaines Wilhems	14742
 Plainly	7451
-Plainte	10821,3716,1047,317,7,28
+Plainte	10821,3716,1047,317,7,28,2386
 Plainte Environnementale	15901
 Plainte de Mme X	10821
 Plainte de X	10821
 Plainte de X RESPONSABLE DE TRAITEMENT OBJET	10821
-Plaintes	10975,892,1523,1034,1,63,1,1,1180,76,162
+Plaintes	10975,892,1523,1034,1,63,1,1,1180,76,162,2210
 Plaintes AGIR.pdf VERSION PROVISOIRE Novembre	15908
 Plaintes APDP BILAN DE LA DEUXIEME	10821
 Plaintes Client-Opérateur	15670
@@ -100,6 +105,7 @@ Plaintes Clients-Opérateurs	15670
 Plaintes MOT DU PRESIDENT Etienne Marie	10821
 Plaintes Opérateur-Client	15670
 Plaintes Opérateur-Opérateur	15670
+Plaintes PROJET	18159
 Plaintiff	5692,1777,5993
 Plaintiff Public Citizen	5692
 Plaintiff’s FOIA Requests	5692
@@ -123,6 +129,7 @@ Types Plaintes	14425
 VENTILATION DES PLAINTES DES CONSOMMATEURS DES	13390
 VENTILATION DES PLAINTES DES PME	13390
 VI. MÉCANISME DE GESTION DES PLAINTES	16104
+VI. TRAITEMENT DES PLAINTES ET DES	18322
 VII. MECANISME DE GESTION DES PLAINTES	15746
 Vulgariser le Mécanisme de Gestion des Plaintes	10876
 X Plaidoyer	16195

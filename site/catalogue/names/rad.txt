@@ -5,6 +5,7 @@ AIDES DE RADIONAVIGATION ET D'ATTERRISSAGE RADIO	16552,454
 ANFR French National Radio Frequency Agency	17862
 ATRIBUIÇÃO DE LICENÇAS RADIOELÉTRICAS	11531
 ATU Director for Radiocommunications	7793
+Abdoul Aziz de Radio Télévision Saraounia	18161
 ActuNiger L’hôtel Radisson Blu de Niamey	4657
 African Public Radio	13313
 Agence Ivoirienne de Gestion des Fréquences Radioélectriques	15936
@@ -117,6 +118,7 @@ EDU Southern Sudan Interactive Radio Instruction	14851
 EGX Chairman Omar Radwan and ITDA Head	10498
 EGX Chairperson Omar Radwan	8770
 EIRP Effective Isotropic Radiated Power RLAN	12949
+EN RADIOLOGIE DTSS DIPLÔME DE TECHNICIEN	18143,27
 ER RG RADIATION Sous-lieutenants	15901
 ERC European Radiocommunications Committee CEPT European	12949
 ES DIRECTEURS DE RADIODIFFUSION SONORE ET	15397
@@ -138,6 +140,7 @@ Eye Radio South Sudan	5428
 Eye Radio. Maj. Gen. Elia Costa	4836
 FM Radio	2776
 FM Radio Network	12982
+FRANCOPHONE BLR BOUCLE LOCALE RADIO BM	18105
 FREQUENCES RADIOELECTRIQUES	15394
 FREQUENCES RADIOELECTRIQUES Article C131.- Par	15999
 FTA TV and FM Radio Stations	6946
@@ -156,6 +159,7 @@ GRTS Gambia Radio and Television Services GSC	16885
 GRTS Radio	17228
 Gambia Radio and Television Services	16852,499
 General Packet Radio Service	14723,649
+General Packet Radio Services GRC	18309
 Genre RadioTélévision Nationale du Burundi	13341
 Ghetto Radio	8095
 Governing Radiation Protection	718
@@ -297,6 +301,7 @@ PART VII Amateur Radio Transceiver Stations	736
 PART VIII Radiocommunication Equipment Dealers and Repairers	736
 PMR Private Mobile Radio PRN Premium	6946
 PORTANT RADIATION DU TABLEAU	17982
+POSSESSION DE POSTE RADIO Dans	18204
 Part Five Radio Activities and Frequency Management	13951
 Partage des Fréquences Radioélectriques	998
 Planned Action Reviewing of Radio Communication	16884
@@ -326,6 +331,7 @@ RAD Nacional Nacional	16864
 RAD Ratio Alumno-Docente RAL Ratio Alumno-Libro	16920
 RAD Regional Action	14434
 RADAR	14635,3347
+RADDHO	18305
 RADE Direction	10876
 RADIATION Arrêté	15692
 RADIATION DE MAGISTRAT POUR CAUSE	18003
@@ -385,6 +391,7 @@ RADIOTHERAPY	11269
 RADIOTV10	10658,6952
 RADIUS	10617,104
 RAKOTOARISOA Radotiana UGD Project Manager	14539
+REDEVANCES RADIOELECTRIQUES	18122
 RM Mozambique Radio SADC Southern African	12201
 RTB Radiodiffusion Télévision du Burkina SAIDI System	15769
 Rada Mihalcea	6948
@@ -431,7 +438,7 @@ Radical Technology Network Ltd	3862
 Radical Transparency	4528,7984
 Radicalisation	15342
 Radif	9128
-Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,804,259,73,713,191,1616,162,16,46,22,397,11,422,166,344,182,12,163,132,71,188,22,11,313,166,214,276,40,434,249,177,28,4,13,1,601,76,271,3,327,20,644,4,29,28,26,1,17,14,7,19,115,15,25,111
+Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,804,259,73,713,191,1616,162,16,46,22,397,11,422,166,344,182,12,163,132,71,188,22,11,313,166,214,276,40,434,249,177,28,4,13,1,601,76,271,3,327,20,644,4,29,28,26,1,17,14,7,19,115,15,25,111,1059,3
 Radio A2. Television Broadcasting Services Licence	17250
 Radio AFRI DIGITAL MEDIA BUJUMBURA	13414
 Radio AGAKIZA BUJUMBURA	13414
@@ -453,6 +460,7 @@ Radio BUJA FM BUJUMBURA	13414
 Radio BUJA FM GITEGA GITEGA	13414
 Radio BUNTU FM NGOZI	13414
 Radio Broadcasting Total Number of Public Broadcasting	12395
+Radio Broadcasting and Television of Niger	18220
 Radio Buntu	13301
 Radio CCIB FM	13414
 Radio CDN CIBITOKE	13414
@@ -482,6 +490,7 @@ Radio Educativa	16510
 Radio Ergo AU	3405
 Radio FM	15493
 Radio FREQUENCE MENYA BUJUMBURA ARCT	13414
+Radio France Internationale	18310
 Radio France Internationale. Distribué	4334
 Radio Frequency	718,44,6184
 Radio Frequency Assignment Plans	8235
@@ -608,12 +617,14 @@ Radio-	13405
 Radio-Communication Inspections	6946
 Radio-Frequency Identity SMS Short Message Service	16885
 Radio-Télévision Nationale	13405
+Radio-Télévision Sénégalaise	18310
+Radio-Télévision du Sénégal	18310
 RadioMacuto	7196,109
 RadioTV10	3415
 Radioactive	1988
 Radiocom	11756
 Radiocom Communications	11756
-Radiocommunication	736,6210,8259,56,1354
+Radiocommunication	736,6210,8259,56,1354,1673
 Radiocommunication Assembly	7074
 Radiocommunication Conference	6946
 Radiocommunication and Frequency Spectrum	15261,49
@@ -624,6 +635,7 @@ Radiodetermination	736,12213
 Radiodiffuseurs	13324,90
 Radiodiffusion	8649,2474,2167,124,2522,679,1284
 Radiodiffusion MiniTPT Mininfo Téléphonie	13290
+Radiodiffusion Télévision Sénégalaise	18288
 Radiodiffusion Télévision du Burkina	7670,3429
 Radiodiffusion-Télévision du Burkina	15676
 Radiodiffusion-télévision du Burkina	16287
@@ -638,14 +650,15 @@ Radiological Hazards	1988
 Radiologist	16922
 Radiology	14120,653,56,377
 Radiomètre	15715
-Radios	1920,11787,4165
+Radioprotection	18315
+Radios	1920,11787,4165,233
 Radios Radios	15698
 Radios and TVs	12358
 Radiosondes	16947
 Radiotelefones	16022
 Radioterapia	16019
 Radiotherapy	718
-Radiotélévision	2344,13288
+Radiotélévision	2344,13288,2656
 Radiotélévision Guinéenne	16641
 Radiotélévision Ivoirienne	10924
 Radison	17317
@@ -693,7 +706,7 @@ SAKINDI Radjabu Informaticien	13341
 SMAP Radiometer	13094
 SMS and Radio	12383
 Second Draft National Radio Frequency Plan	11259,3
-Sergiy Radonezhsky Str. Moscow	10764,80,719,6180,113
+Sergiy Radonezhsky Str. Moscow	10764,80,719,6180,113,267
 Service Assignment Fee Notes FM Radio	17250
 Service RAG Radiocommunication Advisory Group RAO	6946
 Short Range Radars	12949
@@ -729,6 +742,8 @@ UNESCO Empowering Local Radio	19
 USD200 Radio Communications Equipment Authorization	17250
 Union Africaine de Radiodiffusion	10615
 Union Radio	16641
+Union of Associative and Community Radios of Senegal VPN	18309
+Union of Community Radios of Senegal	18309
 Union's Director for Radiocommunications	7793,157
 Union's Director of Radiocommunications	7884
 Universal TV and Radio Risaala	15007

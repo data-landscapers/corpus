@@ -3,6 +3,8 @@ ACTIF BRUT	18032
 AI Brussels Effect	17780
 AI The Brussels Effect	17780
 AU Mission Brussels	1814
+Achèvement Primaire TBA Taux Brut	18171
+Admission TBP Taux Brut de Préscolarisation TBS	18171
 African Children Bearing the Brunt of Climate Change	15661
 Afrique Centrale PIB Produit Intérieur Brut	16037
 Alain Guy Bruno	15615
@@ -58,6 +60,7 @@ Brunei Darussalam Global Cybersecurity Index	10764
 Brunei Darussalam Yes National Broadband Policy	11529
 Brunel	15524,91,165,320
 Brunel University	9632
+Brunelin	18301
 Brunelle Tchobo	15946
 Brunet Council Member Dr. D K	14736
 Brunette W	1219
@@ -96,7 +99,7 @@ Brush	14746
 Brush Cutting	14738
 Brussel	3787,13056
 Brussell	16843
-Brussels	644,602,582,328,2083,450,452,101,60,61,124,461,76,17,173,17,139,98,8,1,105,53,15,487,548,329,232,101,1,185,65,31,63,1047,349,113,664,185,104,1,1,70,62,237,563,894,366,519,16,775,28,219,506,808,302,322,176,761,288
+Brussels	644,602,582,328,2083,450,452,101,60,61,124,461,76,17,173,17,139,98,8,1,105,53,15,487,548,329,232,101,1,185,65,31,63,1047,349,113,664,185,104,1,1,70,62,237,563,894,366,519,16,775,28,219,506,808,302,322,176,761,288,104
 Brussels Airlines	15542
 Brussels Conference	15731
 Brussels Discourse Theory Group	11028
@@ -147,8 +150,12 @@ Développement Durable PIB Produit Intérieur Brut	15479
 ECE Brussels	8530
 EUROPEAN COMMISSION Brussels	6477,995
 Education PIB Produit Intérieur Brut PISE	12
+Egalité de Genre TBPS Taux Brut de Préscolarisation	18286
 Email Cairo Bruce Ntimana	8604
 European Union Brussels	15001
+Evolution du Taux Brut	18171
+Evolution du Taux Brut de Préscolarisation	18171
+Evolution du Taux Brut de Scolarisation	18171
 Excellence M. Bruno Daniel Jean-Michel FOUCHER	1955
 Excellency Corinne Amori Brunet	9043
 F BRUSSELS AIRLINES SA B	16623
@@ -156,6 +163,7 @@ Following the Brussels Effect	17780
 Foo Yun Chee BRUSSELS	8596
 Formation Brute de Capital Fixe	9276,8669
 Formation Brute de Capital Fixe FBU	13377
+Formation PIB Produit Intérieur Brut PIDES	18286
 Fortune. Bruke	11620
 Free University of Brussels	4577
 General Salario Bruto Global Especial	4209
@@ -189,7 +197,7 @@ Karine Brunet	7488
 L'ENCOURS TOTAL DES CREDITS BRUTS	13390
 L. Van Brussel	11028
 La Bruyere	2518
-Le Produit Intérieur Brut	17945
+Le Produit Intérieur Brut	17945,160
 Le Taux Brut de Scolarisation	18014
 Lieutenant IMALET Rufin Bruno Aldrin	16175
 Loïc Bruno	16100
@@ -220,9 +228,11 @@ O Produto Interno Bruto	11447
 Observatoire Transport Produit Intérieur Brut Programme	17978
 Oral Taxa Bruta de Frequência Escolar Taxa	10777
 Ouest Produit Intérieur Brut ISBL	10875
+PIB PRODUIT INTERIEUR BRUT PME	18143
 PIB Produit Intérieur Brut PME Petite	11944
 PPR Brucellosis Anthrax FMD New Castle	17043
 PPR Brucellosis Anthrax New Castle Disease	17043
+PRODUIT INTERIEUR BRUT PAYS LES MOINS	18105
 Police Brutality and Torture	14742
 Polytechnique de Bruxelles	8621
 Pour Brut	10965
@@ -236,6 +246,7 @@ Produit Intérieur Brut PASEC	15673
 Produit Intérieur Brut PIP	15423,52,210
 Produit Intérieur Brut PME	17824
 Produit Intérieur Brut PNDS	16195
+Produit Intérieur Brut PNG	18100
 Produit Intérieur Brut PPAP	15848
 Produit Intérieur Brut SIB	10711
 Produit Intérieur Brut. Dans	14548,71
@@ -270,18 +281,22 @@ Système Educatif National TBS Taux Brut	12
 Système de Règlement Brut	8556
 TAXA BRUTA DE ADMISSÃO	10766
 TAXA BRUTA DE ESCOLARIZAÇÃO	10766
+TBS Taux Brut de Scolarisation UCSPE Unité	18286
 TIC PDI2T Produit Intérieur Brut Public	15583
-Taux Brut	10847,7098
+Taux Brut	10847,7098,155,43,27,1
 Taux Brut de Fréquentation	13300
 Taux Brut de Fréquentation Scolaire	737
 Taux Brut de Fréquentation Scolaire TIC	737
 Taux Brut de Fréquentation Scolaire Tous	737
 Taux Brut de Mortalité TBR	13377
-Taux Brut de Natalité	13300,2123
+Taux Brut de Natalité	13300,2123,2863
+Taux Brut de Préscolarisation	18171
 Taux Brut de Reproduction TELEX	13377
 Taux Brut de Scolarisation	10847
 Taux Brut de Scolarisation Garçons Filles G	10847
+Taux Brut de Scolarisation Tle Terminale TNA	18171
 Taux Brut de Scolarisation UNESCO	15848
+Taux Brut de Scolarisation. TIC	18100
 Taxa Anual Nominal Bruta	16122
 Taxa Bruta	11537
 Taxa Bruta de Nupcialidade	15839

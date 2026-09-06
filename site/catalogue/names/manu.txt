@@ -11,7 +11,7 @@ Accounting Manual	15658
 Actualisation des Données Cadastrales MTGES Manuel Technique	10876
 Addressing and Postcode Manual	11129
 Adelino Manuel Muchanga. Regulamento	6462
-Administrative Manual	11525
+Administrative Manual	11525,6579
 Administrative Procedures Manual	10829
 Advanced Materials and Manufacturing	6480
 Africa Initiative for Medical Access and Manufacturing	11468,1
@@ -29,7 +29,7 @@ Arnaldo Manuel Carlos. Na	11392
 Association of Manufacturers	12376
 Association the Liberia Project Implementation Manual	16144
 Association the WAEMU Project Implementation Manual. WAEMU	16144
-Association. The Project Implementation Manual	1867
+Association. The Project Implementation Manual	1867,16237
 Así Manuel Osa Nsue	17171
 Automotive Component Manufacturers Association	16331
 B. Project Implementation Manual	14912,2024
@@ -58,6 +58,10 @@ CERC Manual and Emergency Action Plan	14912,606,141,1277
 CERC Manual and Emergency Page	10964
 CERC Operational Manual	16896,26
 CERC Operations Manual	15659
+CERP Manual	18198
+CERP Manual. Official Use Only Page	18198
+CERP Manual. The PIU-PIDUREM	18198
+CERP Manual. The Project	18198
 CHASSE MANUELLE	13300
 CHB Operational Manual	16971
 CHIS Implementation Manual	12255
@@ -147,6 +151,7 @@ Excma. Señora Doña Manuela Roka Botey	16925
 Expenditure Review POM Project Operational Manual	17441
 Export and Import Price Index Manual	11258
 FDI. Manufacturing	12376
+FLOM Field Land Operations Manual FM	18293
 FM Manual	3604,7360,1001
 FM Manual for World Bank IPF Operations	13331,2327
 FM Manual for World Bank Investment Project	1867,11464
@@ -184,7 +189,7 @@ GRM Manual This Grievance Redress Mechanism	15055
 Gambia Project Implementation Manual	16936
 General Manuel H	9399
 Ghana Automotive Manufacturing Development Programme	17108
-Good Manufacturing Practices	10776,4042,387
+Good Manufacturing Practices	10776,4042,387,3165
 Goods Manufactured	13185
 Goods Manufactured Outside the Purchaser's Country	13185
 Google and Intel Enable Real-time Manufacturing Operations	4434
@@ -230,6 +235,7 @@ IOM Data Protection Manual	14434
 ITAS User Manual	10419
 ITU Manual for Measuring ICT Access	17743
 Implementation Manual	11905
+Implementation Manual PIP Project Implementation Plan	18293
 Implementation Manual PIU Project Implementation Unit	1264,14395
 Implementation Manual. Sierra Leone	16144
 Implementation Manuel	17180
@@ -277,6 +283,7 @@ Key Manufacturing Output	17235
 Kwame Manu	17714
 Laboratory Scale Manufacture of Lithium Cathode Materials	1154
 Land Cover Classification System User Manual	15129
+Land Operations Manual	18293
 Le Manuel	15595
 Le Manuel des Procédures Administratives Financières	10975
 Letter Post Manual	11129
@@ -305,13 +312,16 @@ MANUEL DES PROCEDURES DE DECLARATION D’OUVERTURE	13652
 MANUEL D’OPERATIONS DU PROGRAMME DE GESTION	10876
 MANUEL RODRIGUEZ PUMAROL AND JOHNSON MWEBAZE	16867
 MANUEL TECHNIQUE DE GESTION ET	13375
+MANUELS ELEVES ET GUIDES DU MAITRE	18171
 MANUELS ELEVES VII.4.1 Public Lecture Calcul	10847
 MANUELS ELEVES VII.4.2 Privé Lecture Calcul	10847
 MANUELS ELEVES VII.4.3 Public	10847
+MANUELS ET GUIDES DU PROFESSEUR	18171
 MANUFACTURER	11269
 MANUFACTURER OF REGULATED MACHINERY	14814
 MANUFACTURING ENGINEERING	16900
 MEF Ministry of Economy and Finance MOP Manual	11525
+MIS Management Information System MOP Manual	18301
 MOP Manuel des Opérations du Programme Terra MTFP	10876
 Male Female Total Manufacturing	236
 Male Female Total Manufacturing Electricity	12445
@@ -320,7 +330,7 @@ Manuais Relatórios	12021
 Manuais da Aplicação	12021
 Manuais de Procedimentos	11898
 Manuais de Utilizador	12021
-Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58,130,90,83,26,208,104,77,667,46,55,310,222,45,32,48,179,78,206,163
+Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58,130,90,83,26,208,104,77,667,46,55,310,222,45,32,48,179,78,206,163,705,61
 Manual Checks	9123
 Manual Clearing	17235
 Manual Consultancy Development of Training Materials	16867
@@ -352,7 +362,7 @@ Manual for Peer Reviews of National Statistical Systems	12706
 Manual for Plantation Drafted and Comments	16853
 Manual for Timber	16853
 Manual for Tree Felling Drafted	16853
-Manual of Administrative	15411
+Manual of Administrative	15411,2693
 Manual of Best Practice. UNCTAD	1243
 Manual of Government Finance Statistics	14932
 Manual of Procedures	3640,11732
@@ -367,7 +377,7 @@ Manuals	8840,3013,9,831,727,1670,573
 Manuals TNM	13624
 Manuals and Codes Steps Activity Status Next	16853
 Manuals for Basi IDA	17180
-Manuel	748,1236,4162,3260,19,543,906,2,99,550,1775,1,74,15,1048,1,3,47,1,46,86,2,780,191,4,249,186,611,1257,43
+Manuel	748,1236,4162,3260,19,543,906,2,99,550,1775,1,74,15,1048,1,3,47,1,46,86,2,780,191,4,249,186,611,1257,43,364,13,78,2,1
 Manuel Alves Mendes Difusão GEPE	10766
 Manuel Antonio Vargas Madrigal Task Team	12176
 Manuel António	12809
@@ -421,7 +431,9 @@ Manuel de Procédures Administratives	10975,4567
 Manuel de Procédures de Gestion	15595
 Manuel de gestion et de Fonctionnement du SFC-Bon	13375
 Manuel des Lignes Directrices	15567
+Manuel des Opéra	18324
 Manuel des Procédures Administratives	10975
+Manuel du Système	18309
 Manuela Ferro Sector Manager	17441
 Manuela Francisco and Sandeep Mahajan	13868
 Manuela Georcie	16177
@@ -431,7 +443,7 @@ Manuela V. Ferro Project ID	17441
 Manuela Villar Uribe	17869
 Manuella Allègra	16100
 Manuellrénio Nascimento Lopes	11544
-Manuels	14537,1136,326
+Manuels	14537,1136,326,2172,153
 Manufac- Electricity Construc- Wholesale Accom- Transpor-	2775
 Manufact	14775
 Manufactur- Electricity Construc- Wholesale	2775
@@ -503,6 +515,7 @@ Manure	12253,4790
 Manure-to-Biogas Conversion Department Install	17157
 Manuscript	5349,2672
 Manushya Foundation	9082
+Manutention	18204
 Manutenção	2816,50,1408,895,6261,8,81,4053,517,1011
 Manutenção Industrial	15983
 Manutenção da Conta de Pagamento	11386,18
@@ -532,6 +545,7 @@ Municipal Grants Manual	11855
 NA Post NA NA Operations Manual	17180
 NDGC Standard Operating Procedures Manual	3861
 NEEDS MANUAL CLIP BEFORE PROMOTION. HTTP-200	7986
+National Manual for Integrated Sample Transportation	18370
 National Policy Formulation Manual	17124
 National Virtual Assets Education Manual	9534
 Ndong Engonga José Manuel Ndjoku Ebongolo	16920
@@ -549,7 +563,7 @@ Open data manuel GgD	1984
 Open data manuel ROD Avril	747,1237
 Operation Manual	15411
 Operation Manual PPA Project Preparation Advance	11380
-Operational Manual	11855,1565,4021
+Operational Manual	11855,1565,4021,663
 Operational Manual PPP Purchasing Power Parity	15515
 Operational Manual for Mass Deworming Campaigns	12729
 Operational Manual. Page	15663
@@ -605,7 +619,9 @@ Productive Grants Manual	16384
 Prof. Alexander Ansah Manu	9536
 Prof. Doutor Manuel Guilherme Júnior	9694
 Program Operation Manual	10870,6600
-Project Implementation Manual	1264,20,583,1022,715,2935,4229,195,1,561,24,11,303,61,41,288,1078,61,67,1453,226,273,13,87,42,68,37,1,34,1233,23
+Program Operational Manual	18370
+Program Operational Manual PON	18370
+Project Implementation Manual	1264,20,583,1022,715,2935,4229,195,1,561,24,11,303,61,41,288,1078,61,67,1453,226,273,13,87,42,68,37,1,34,1233,23,1155,189
 Project Implementation Manual PIU Project Implementation	13331
 Project Implementation Manual PMT Proxy Means	11525
 Project Implementation Manual PP Procurement Plan	10768
@@ -616,6 +632,7 @@ Project Implementation Manual and PDO	15424
 Project Implementation Manual and Project Procedure Manual	15658
 Project Implementation Manual. Additional	16949
 Project Implementation Manual. Any Other Special	17180
+Project Implementation Manual. Asit	18104
 Project Implementation Manual. DGDEN ARPCE Reports	15553
 Project Implementation Manual. Jun	11971
 Project Implementation Manual. Mechanism ME IO	15518
@@ -625,6 +642,7 @@ Project Implementation Manual. Schedule	10768
 Project Implementation Manual. Table	1704
 Project Implementation Manual. The World Bank	13332
 Project Manual of Procedures	15372
+Project Manuals	18104
 Project Operation Manual	1988,15453
 Project Operation Manual. Inputs	15411
 Project Operational Manual	17441
@@ -692,6 +710,7 @@ Somali Manufacturers Association. Discussions	10476
 Somalia Income Tax Manual	15014
 Sr. Juan Manuel Esono Nchama	9927
 Sr. Manuel Sumaila Sani. Em	11561
+Standard Operating Procedures Manual PPP	18370
 Standards Manual	11132
 Statistics Unit Mrs NGAFFO Manuela Cadre	10980
 Strengthening Project PIM Project Implementation Manual	16949
@@ -726,6 +745,7 @@ UVRE DU MANUEL II.1 Objectifs	10876
 Uganda Manufacturers Association	6576
 Unit POM Project Operations Manual PPP	10829
 Universidade. Para Manuel Guilherme Júnior	9694
+Update the Land Operations Manual	18354
 Updating the Project Operations Manual	2989
 User Manual	1828,8952,1584
 User Manuals	12364

@@ -22,6 +22,7 @@ CABOS SUBMARINOS DE FIBRA	11397
 CEB Fibrenet	14729
 CEO of AXIAN Telecom Fibre	3939
 CEO of Savanna Fibre Uganda. BusinessUganda Communications	6053
+CONNECTIVITÉ TERRESTRE EN FIBRE OPTIQUE	18105
 Cameroon Fiber Optic Transmission Backbone Project	55
 Cameroon Fibre Optic Transmission Backbone Extension	4473
 Cameroon's Camtel Expands Fiber Network and Fixed	3528
@@ -69,6 +70,7 @@ Enters Active Deployment of Africa-Middle East Fibre	10583
 Espinha Dorsal Nacional de Fibra	4436
 Ethernet and Fibre Channel	11209
 Expand Fibre Network	4069
+FAISCEAU HERTZIEN FO I3N FIBRE OPTIQUE	18105
 FAS Financial Access Survey FTTH Fiber-to-the-Home	16942
 FAULTS AND RELATED ADMINISTRATIVE FINES FIBRE	15081
 FIBANE	10965
@@ -99,7 +101,7 @@ Fiber Market Electricity Market Personal	14482
 Fiber Markets	12427
 Fiber Markets Investment Incentives	10781
 Fiber Mlangoni Kwako	11612
-Fiber Optic	6832,5107
+Fiber Optic	6832,5107,6420
 Fiber Optic Batista de Sousa Hospital	11939
 Fiber Optic Commission	15511
 Fiber Optic Connectivity Component	14913
@@ -151,7 +153,7 @@ Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179,8217,122,1,12,3836
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987,302,55,107,43,202,83,170,90,69,178,497,159,314,259,819
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987,302,55,107,43,202,83,170,90,69,178,497,159,314,259,819,407,191,2,68
 Fibre Backhaul	15081
 Fibre Backhaul Sharing	15081
 Fibre Broadband	5112
@@ -171,9 +173,12 @@ Fibre Optic	6671
 Fibre Optic Cable and Landing Stations	2677
 Fibre Optic Rollout	9362
 Fibre Optic Subsea WACS Cable	8679
-Fibre Optique	3469,498,22,3631,5704,90,3227,1182
+Fibre Optique	3469,498,22,3631,5704,90,3227,1182,295,8,38,46,207
 Fibre Optique Au Burundi	13324
+Fibre Optique Autres	18417
 Fibre Optique Chiffre Mobile	13324
+Fibre Optique Dans	18417
+Fibre Optique URL	18417
 Fibre Patch Panel	12681
 Fibre Plans	11259
 Fibre PoPs	13347
@@ -206,6 +211,7 @@ FibreCo and AI-enabled	10243
 FibreCom	12453,892
 FibreOne	11506
 FibreOne Broadband Ltd	3862
+FibreOptique	18399
 FibreX	14692
 FibreX. FlyX	14692
 Fibreboard	11269,5574
@@ -214,12 +220,14 @@ Fibrehub Internetworking Ltd	3862
 Fibrehub Internetworking Services Ltd	3862
 Fibrehub Ltd and Broadbased Ltd	3862
 Fibres	15399,704
+Fibres Textiles du Sénégal SRSD	18291
 Financial Management Fiber	15553
 Five-A-Side Football Field Fiber Optic Network	15578
 Fixed Fibre	11857
 Fixed Fibre Optic	6946
 Fixed Wireless and Fiber Access Network Expansion	956
 Frogfoot Fibre Packages	11259
+G Fibre	18319
 G and Fiber	15713
 G and Fiber Code Action Description Objective	15713
 G and Fiber Comprehensive	15713
@@ -235,6 +243,7 @@ Giga Ethernet Fibre	17823
 Glass Fiber Network	11529
 Government Fibre Network	14729
 Guinea and Sierra Leone Link National Fibre	3089
+HNN Fibre	18105
 HPE Fibre Channel Storage Specialist	17334
 Home FttO Fibre	2775
 Horizon Fiber	3788,1104,6,20,1,56,2713,2895,3332,6,3,227
@@ -390,6 +399,7 @@ Trans-Sahara Optical Fibre Backbone Project	17940
 Trans-Saharan Fiber Backbone	15937
 Trans-Saharan Fiber Optic Backbone	2533
 Trans-Saharan Optic Fibre Broadband Project	14913
+Transsaharan Fiber Optic Dorsal	18118
 Tudo Nosso Fibra	3906
 USTDA Dark Fibre Africa ZA	731
 Uni Fiber	7620

@@ -161,12 +161,12 @@ VVIP Centre for Video Conferencing	13561
 Vida Número	16898
 Vidal	8606
 Vidal-Hall	8776
-Vidange	14490
+Vidange	14490,3822
 Vidante	14811
 Vidart	11572
 Vidatel	2543,4565
 Videntite	15584
-Video	52,3531,139,225,203,413,3567,869,124,329,541,32,404,1,266,46,393,96,492,241,296,99,44,278,88,95,85,512,68,1194,18,82,341,1720,127,6,668
+Video	52,3531,139,225,203,413,3567,869,124,329,541,32,404,1,266,46,393,96,492,241,296,99,44,278,88,95,85,512,68,1194,18,82,341,1720,127,6,668,624
 Video AI	13529
 Video Calls	582
 Video Calls R A- Access	582
@@ -225,9 +225,10 @@ Vidya Gappy	7023,3398
 Vidya ShankarNarayan	10819
 VidyaBharati	18016
 VidyaBharati AarogyaBharati	13974
+VidyaBharthi	18220
 VidyaBharti	13974,1145
 VidyaBharti Portal	13974
-Vidéo	1984,494,1180,2617,145,4514,2407,4482,1
+Vidéo	1984,494,1180,2617,145,4514,2407,4482,1,294,168,26,116
 Vidéo Surveillance	16647
 Vidéo-protection	6740
 Vidéoprojecteurs	13630
@@ -235,6 +236,7 @@ Vidéoprotection	1231
 Vidéos	2966,5752,5819,1077,240,691
 Vidéos Contact	9480
 Vidéos Highlight Cérémonie	4895
+Vidéos Podcast	18428
 Vidéos Projets	3675
 Vidéosurveillance	1231,1368,11938,3309
 Vidéosurveillance Urbaine	4356

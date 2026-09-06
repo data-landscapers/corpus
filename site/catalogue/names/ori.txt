@@ -7,7 +7,7 @@ Abreviaturas COU Curso de Orientación Universitaria EMIS	16864
 Activité Source Kasaï Oriental Mai-Ndombe Kinshasa	15670
 Actual Final Budget Original Budget Difference	16978
 Africa Originals	10464
-Afrique Orientale	13468
+Afrique Orientale	13468,4854
 Agreement SOA Service Oriented Architecture SRMP	12359
 Annex of Rules of Origin	15641
 Appraisal Additional Financing Baseline Original	15663
@@ -42,7 +42,7 @@ Cargo Origin	15492
 Case Study EthSwitch Ethiopia Origin	12269
 Case Study SIMO Mozambique Origin Story	12270
 Central African Republic Original Development Objective	15959
-Certificate of Origin	14718,2250
+Certificate of Origin	14718,2250,1317
 Certificate of Origin Name	1988
 Certificates of Origin	7142
 Certificates of Origin. External	12539
@@ -84,7 +84,7 @@ DRIVER'S ORIGIN GATE MUST	5240
 Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
 Demba Kasaï Oriental Nkenakuna Kasaï Oriental	15670
 Demonstração da Orientação	11430
-Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48
+Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1
 Didier Bompangue. Originally	14666
 Direction des Orientations	15936
 Diário Económico Original	8407,300,1648,115,1121,131
@@ -137,7 +137,7 @@ Hautes Orientations Royales	2696,279,14474,12,31,7,26,3,1
 Hautes Orientations de Sa Majesté le Roi Mohammed	7904,98,9508
 Hautes Orientations de Votre Majesté	8891
 Health Centres Palace of Kabiesi Oriba Land	11857
-Honourable Minister of Information and National Orientation	11292
+Honourable Minister of Information and National Orientation	11292,6948
 I. Orife	11140
 I.2- ORIENTATIONS STRATEGIQUES	10858
 I.2- ORIENTATIONS STRATEGIQUES I.2.1- Objectif	10858
@@ -189,6 +189,8 @@ M Original	16614
 MATERIAL CHANGES SINCE THE ORIGINAL PRE-LISTING	5538
 MDA. VI. ORIENTATION STRATEGIQUE VI.1. Schéma	13341
 MENER PERIODE DE SPECIFIQUES REALISATION ORIENTATION	10712
+MISSION ET ORIENTATIONS STRATEGIQUES	18291
+MISSION ET ORIENTATIONS STRATEGIQUES Cette	18291
 MPA Program Development Objective Original MPA	2712,3867,8580,576
 MTR Review Original Closing Actual Closing	15424
 MW KASAÏ ORIENTAL P	15670
@@ -215,6 +217,7 @@ Moyen- Orient. L	7655
 Médio Oriente	4250,2106,3634,2800,3091,1479,1
 N Origin	13185
 NCT05684055. Original	12712
+NYSC Orientation Camp	18230
 Name Unit of Measure Baseline Original Target	15601
 National Data Center OEM Original Equipment	10781,1646,2055
 National Orientation Agency	7141,3,1407,2578,737,5926
@@ -224,7 +227,8 @@ Novotel Orisha Cotonou	5981
 Numérique Orientation	16641
 O Caderno de Orientações	15772
 OBJECTIVE Original Development Objective	13859,51,7,1100
-OFFRE ORIGINALE	17914
+OFFRE ORIGINALE	17914,280
+ORIBA PETROLUEM	18122
 ORIENTACIÓN	4209
 ORIENTADORES Artigo	15
 ORIENTAL Energy	2738
@@ -232,6 +236,7 @@ ORIENTAL Energy SAU	2738
 ORIENTATION DE LA CHARTE AFRICAINE	17842
 ORIENTATION STRATEGIQUE DU SSN	15479
 ORIENTATION STRATEGIQUE N	10712
+ORIENTATION STRATEGIQUE POUR L’EQUITE DE GENRE	18100
 ORIENTATION STRATÉGIQUE	15583
 ORIENTATIONS STRATEGIQUES	15583,612
 ORIENTATIONS STRATEGIQUES Le Plan Stratégique National	16195
@@ -264,7 +269,7 @@ Objective Original Development Objective	6833
 Oct-2015. Original Closing Date	13970
 Ori-ta Covi	10718
 Oriade and Obokun. Team Four	10049
-Oriana	10964
+Oriana	10964,7354
 Oriba Primary	11857
 Orical	11517
 Orick Capital	17205
@@ -280,7 +285,7 @@ Oriental Consultants Global Co	3054
 Oriental Energy SAU	3191
 Oriental. Dans	8891
 Orientar	13,1688,9672,8,1,53,3956,85,50,1660
-Orientation	1988,1408,3563,1310,2131,502,63,979,29,70,650,682,249,12,224,558,12,734,259,119,41,41,39,106,79,60,28,690,15,106,711,369,15,18,3,9,10,6,11,79,23,31,45
+Orientation	1988,1408,3563,1310,2131,502,63,979,29,70,650,682,249,12,224,558,12,734,259,119,41,41,39,106,79,60,28,690,15,106,711,369,15,18,3,9,10,6,11,79,23,31,45,66,27,116,5,6,42
 Orientation Agricole	2342,15499,4
 Orientation Agricole. Institué	2342
 Orientation Budgétaire	15569,143
@@ -293,24 +298,30 @@ Orientation SOSUP	15674
 Orientation SOSUP BAC C	15674
 Orientation SOSUP Bac A1	15674
 Orientation SOSUP Bac Séries C	15674
-Orientation Scolaire	16196
+Orientation Scolaire	16196,2071
 Orientation Scolaire LPB	15673
-Orientation Stratégique	10712,7199
+Orientation Sociale	18297
+Orientation Stratégique	10712,7199,395
 Orientation Technicien	17827
+Orientation de UMOA-Titres	18377,12
+Orientation du Code Rural URL	18094
+Orientation du Code Rural VU la Constitution VU	18094
 Orientation du Recensement Général	2625
 Orientation du Système Educatif National	17863
+Orientation du Système Educatif Nigérien	18099,22
 Orientation1	15624
 Orientation2	15624
 Orientation3	15624
 Orientation4	15624
-Orientations	10712,162,2416,51,127,2252,2,239,660,20,1201,18
+Orientations	10712,162,2416,51,127,2252,2,239,660,20,1201,18,426,11
 Orientations Objectifs	10712
 Orientations Stimuler	15673
-Orientations Stratégiques	16641,5,1178,36
+Orientations Stratégiques	16641,5,1178,36,459
 Orientations Stratégiques Définition	17860
 Orientations Stratégiques du PNDS	16722
 Orientations for County Health Boards	16971
 Orientations for EU External Economic Relations	1243
+Orientationsetobjectifsstratégiques	18297
 Orientação	2816,1331,7259,24,4891
 Orientaçãoes	11532
 Orientações	11379,4009,384
@@ -320,7 +331,7 @@ Oriente Medio	16979
 Orienter	13390,2000,280,481,1694
 Orientou	10751
 Orienté	15989
-Orig. Closing	11375,1683,2101,322,256
+Orig. Closing	11375,1683,2101,322,256,2396
 Origanummajorana L	16103
 Origem	2138,1283,8110
 Origin	1,21,69,19,5,27,6,16,68,1,1,174,289,49,219,54,112,24,28,84,18,1,8,1,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,4,99,41,51,135,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,72,6,1,4,1,2,12,7,6,1,1,1,3,13,39,23,30,30,1,1,1,1,1,1,1,15,21,14,1,11,3,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,13,1,170,9,1,226,159,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,13,95,360,1,16,4,1,2,17,1,1,1,1,1,1,1,2,35,118,10,46,28,196,33,37,116,42,6,19,2,133,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,75,53,1,1,1,1,1,1,1,23,120,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,49,1,11,1,4,1,1,1,23,1,1,1,64,2,2,2,21,1,47,12,37,4,31,88,40,120,206,68,207,127,54,32,48,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,160,189,42,23,11,33,34,440,326,4,1,2,27,40,103,78,110,89,661,166,18,1,106,174,69,82,15,8,47,6,93,70,39,10,28,11,24,2,44,3,3,3,52,1,21,1,1,19,24,35,84,11,294,143,540,76,592,190,5,4,44,1,7,8,1,1,1,1,1,1,85,2,11,408,699,629,9,512,416,1048,37,1708,463
@@ -333,7 +344,7 @@ Origin of Software	3787
 Origin1	2775
 Originaire du Maroc	16825
 Originaire du Togo	14712
-Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21,227,95,182,41,33,222,282,75,120,407,16,12,52,1,36,336,610,56,36
+Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21,227,95,182,41,33,222,282,75,120,407,16,12,52,1,36,336,610,56,36,135
 Original AF Target	15663
 Original Actual Sector Code	16614
 Original Allocation	14971
@@ -353,6 +364,7 @@ Original Coroner Medical Report	16860
 Original Credit	15601
 Original Design Manufacturer	12264
 Original Development Objective	4653,8071,1829,332,71,10,515,212,743
+Original Development Objective Expand	18359
 Original Document	14784
 Original Draft-Equal	8436
 Original Draft-Lead	8436
@@ -426,17 +438,19 @@ Originally PEF	16032
 Originate	15600
 Originating	12185
 Originating Fixed	3862
+Originating Motion	18154
 Originating Summons	11993
 Originator	12025,339,4468
 Originators	12025
 Originação	11531
-Origine	10875,2649,1503,881,414
+Origine	10875,2649,1503,881,414,1964
 Origine-Destination	15542
 Origines	9406,6442
 Origins	2107,1693,8225,3039
 Origins and Foundation	13532
 Origins and Purpose	12025
 Origins of State Capacity	13624
+Oriji	18154
 Orik Capital	17205
 Orile Iganmu PHC	11968
 Orinasa	14438,1,24,25,1,1,44,82
@@ -509,7 +523,9 @@ SERVICE ORIENTED	12920
 SERVICE ORIENTED ARCHITECTURE	15540
 SINGLE ORIGINAL IN ENGLISH	11517,3846
 SMS Service Mobile Originated	17212
+SNDS Orientations	18297
 SRGBV Strategic Orientation Committee STEP School-Related	11905
+SWOT Orientations	18297
 Sectoral Origin of Growth	17235
 Service Orientated Architecture	15518
 Service Orientation	13624
@@ -519,6 +535,7 @@ Service Oriented Architecture	11371
 Services Oriented Architecture	11371
 Serviços Orientados	11394
 Ses Hautes Orientations	8891
+Social Orientation Law No	18370
 Social Risk Rating Moderate Moderate Original	15138
 Social SOGI Sexual Orientation and Gender Identity	11413
 South Africa. Originally	7635
@@ -528,12 +545,14 @@ State of Origin	11861
 Strategic Orientation Committee	11905
 Strategic Orientation of Digital Transformation	16040
 Structural Conditions and Employee Affective Orientation	5349
+Sénégal Oriental	18286,5,13
+Sénégal Oriental. Toutefois	18304
 TABLEAU DE COHÉRENCE ENTRE LES ORIENTATIONS	15583
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1
 TF Status Currency Original Revised Cancelled	15619,1019
 TF Status IBRD-96930 Effective Original Revised	6579
 TF Status Original	11395
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1
 TIC Orientation	16641
 TOFE ORIENTATION STRATÉGIQUE N	10712
 Table A1.3 Origin	11524
@@ -544,6 +563,7 @@ Très Hautes Orientations du Président	16381
 UNE PREMIERE SESSION CONSACREE AUX ORIENTATIONS	10273
 USING A CERTIFICATE OF ORIGIN	14816
 Unidad de Orientación Profesional	4209
+V.5. LES ORIENTATIONS STRATEGIQUES Rappelons	18291
 VI.4.3 Origine	10847
 VI.4.4 Origine	10847
 VI.5. Orientations	15685
@@ -554,4 +574,5 @@ World Bank Financing Original	13742
 World Bank. Original	15553
 Y ORIENT. LABO.- Conc1epto.-	4209
 Y ORIENT. LABO.- Conc4epto.-	4209
+Year Original Estimation	18359
 ZIPIT Zimbabwe Origin	12490

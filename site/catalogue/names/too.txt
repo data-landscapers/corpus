@@ -20,6 +20,7 @@ Administration Diagnostic Assessment Tool UNFCCC United	16949
 Adolescente Soins de Santé Primaires Strategic Tool	14622
 Adoption and Use of AI Tools	14812
 Advanced Data Planning Tool	16927
+Advanced Data Planning Tool ADIE	18291
 Africa Digital Health Maturity Assessment Tool	11679,2997
 African Model Minigrid Regulations Tool	13810
 Agmet Indicator Tool	13094
@@ -103,6 +104,7 @@ Digital Government Toolkit	16872
 Digital Maturity Assessment Tool	1824,10431
 Digital SME Toolkit	14752
 Digital Skills Accelerator Self-Assessment Tool	11918
+Digital Skills Toolkit Group	18330
 Digital Tool Guide	9203
 Digital Tools	11140
 Digital Tools Sample Final Project	16963
@@ -147,7 +149,7 @@ GSMA Mobile Internet Skills Training Toolkit.45	11004
 Game Too	10015
 Global Benchmarking Tool	10776
 Global Benchmarking Tool GBV	10776
-Global Land Tool Network	1391,14082,1443
+Global Land Tool Network	1391,14082,1443,1377
 Global Land Tool Network Government of National	16916
 Global Land Tool Network. UN-Habitat	15473
 Go TO Premium Hub Premium Tools	9629
@@ -198,7 +200,7 @@ KPIs Data Collection Tools Developme	16963
 Kenyan Citizens Took	4258
 Key Indicators Data Collection Tools Frequency	16975
 Key Tools	17157
-Kobo Toolbox	17185,721
+Kobo Toolbox	17185,721,387
 Land Tenure Global Land Tool Network	15473
 Land Tool Network	16916
 Landscape Analysis and Tool Selection	1824
@@ -243,6 +245,7 @@ NASA GRACE Data Analysis Tool Monthly	17157
 National E-Health Strategy Toolkit	21
 Nha Login Tool	11939
 Nigeria Launches AI-Powered Tool	2347
+Nigerians. Too	18162
 OECD AI Principles and OECD.AI’s Tools for Implementing	4126
 OECD’s Regulatory Sandbox Toolkit	11007
 OGP Participation and Co-Creation Toolkit	11007
@@ -272,6 +275,7 @@ Programming Language and IT Tools	13042
 Project Management Tools	13635
 Protecting Authentication Tools	15198
 Provision of Tool-kits	12917
+Public Finance Review Tool	18318
 Purchase of Security Tools LISGIS	17116
 Purpose and Scope The Reconciliation and Attestation Tool	12400
 QTR Consulting Tools for Firm	1988
@@ -308,11 +312,11 @@ SME Toolkit	11083
 SMS Tool	13563
 SPL Systematic Operations Risk-Rating Tool SSNP	10964
 SYSTEM INSPECTION AND TESTING TOOL Name	16963
-SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82
-SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26
+SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455
+SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1
 Saïd Toorbuth Director	14744
 Saúde STAR Strategic Toolkit for Assessing Risks	15966
 Scam Alert Tool	10580
@@ -340,6 +344,7 @@ SupTech Tool for LMIC	1491
 Supervision des ASC Toolkit Porteur	17882
 System BI Tools Business Intelligence Tools	15023
 Systematic Operating Risk-Rating Tool TA Technical	15411
+Systematic Operations Risk Rating Tool	18359
 Systematic Operations Risk-Rating Tool	6833,5891,2186
 Systematic Operations Risk-Rating Tool Systematic Tracking	15658
 Systematic Tool	17260
@@ -390,7 +395,7 @@ Toolkit for Facility Data Quality Assessment	11596
 Toolkit. The Cybercrime Bill	12982
 Toolkit.pdf. CGAP	11007
 Toolkits	17260
-Tools	21,1864,211,2432,320,397,104,164,152,1482,565,1001,411,4,488,1164,374,2,138,47,614,31,339,120,67,519,387,1023,480,98,323,262,1239,120,33,120,22,19,248,36,332,109
+Tools	21,1864,211,2432,320,397,104,164,152,1482,565,1001,411,4,488,1164,374,2,138,47,614,31,339,120,67,519,387,1023,480,98,323,262,1239,120,33,120,22,19,248,36,332,109,227
 Tools Direct	15473
 Tools PAYE Calculator Legacy TOT Calculator	12454
 Tools Standards	9124

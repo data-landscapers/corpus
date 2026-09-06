@@ -15,7 +15,7 @@ Administration GWP Global Water Partnership GWS	17157
 Administration de Social Watch Bénin. Quant	16455
 Adolescent Health SODECA Centrafrican Water Distribution	15415
 Adopt Water-Saving Practices	12389
-Africa Agriculture Watch	15838
+Africa Agriculture Watch	15838,2486
 African Regulatory Watch Initiative Index	16876
 African Regulatory Watch Initiative Index Fi	16876
 African Union-Africa Water Investment Programme Water	2626
@@ -80,7 +80,7 @@ Civic Watch	6680,10906
 Civic Watch Association	17586
 Civic Watch Cameroon	10370
 Civic Watch Cameroun. Avant	6680
-Clean Water	12199,1876,598,571
+Clean Water	12199,1876,598,571,2881
 Clean Water and Sanitation	1131,14113,2016
 Clean Water and Sanitation Goal	11332
 Climate Watch	14158
@@ -137,10 +137,15 @@ Digital Watch. Aimé Ndayikunda	3560
 Diplomatic Election Watch	12201
 Director of Water	15914
 Directorate General of Water Resources	16317
+Directorate of Water Resources DMN National Meteorological	18198
+Directorate of Water Resources Management and Planning	18309
+Directorate of Water Resources Management and Planning DGS	18309
+Directorate of Water Resources Planning Management	18309
 Disability Rights Watch	14743
 Disability Rights Watch Sub-Part D	14743
 Disabled Gambia National Water	16973
 Dock Road V&A Waterfront Cape Town	11195
+Doctoral School of Water and Water Quality ENACTS	18309
 Dollar WASH Water	12964
 Draft South African National Water Resources	2626
 Drinking Water	15244
@@ -161,6 +166,7 @@ ECOWAS ICT Regulatory Watch	17870
 EU Water Framework Directive	17157
 EWSC Eswatini Water Services Corporation FAO	12970
 East Africa Hazard Watch	14103
+Eastern and Southern Africa Water and Sanitation GPL	18322
 Eldoret Water and Sanitation Company Ltd Data	7167
 Electricity Drinking Water	15244
 Electricity Drinking Water Sanitation Cooking Fuel	15244
@@ -215,6 +221,7 @@ Galloway Road Watherson Residential Area Private	2776
 Gambian Standard for Natural Mineral Water	16900
 General Authority of Water Resources	16863
 General Direction for Water Resource	11553
+General Directorate of Water Resources	18198
 Ghana Water	11132
 Giga Watt	17873
 Gil Mahé. Rainfall and Water Resources Variability	16135
@@ -273,7 +280,8 @@ International Journal of Water Resources Development	17701
 International Water Management Institute	12828
 International Water Power	6633
 International Waterways	15138,234
-International Waterways OP	1284,583,1589,148,7164,61,134,1,453,108,330,50,60,172,289,685,220,1,191,1030,23,835,102,40,105,3,483,531,247,519
+International Waterways No OP	18374
+International Waterways OP	1284,583,1589,148,7164,61,134,1,453,108,330,50,60,172,289,685,220,1,191,1030,23,835,102,40,105,3,483,531,247,519,663
 Internet Watch Foundation	11648
 Introduction The WATRA Working Group	5680
 Irrigation Systems Under Stress Water	17157
@@ -335,6 +343,7 @@ MAIN SOURCE OF WATER FOR POULTRY	17043
 MINISTER OF WATER RESOURCES AND ENERGY	15574
 MINISTRY OF WATER RESOURCES AND ENERGY	15574
 MOGO and Watu	10313
+MW Mega Watt O&M Opérations	18316
 Macassar Wastewater Treatment Works Water	11248
 Main Source of Drinking Water	16921
 Main Source of Drinking Water for Household	16921,193
@@ -374,6 +383,7 @@ Ministry of Development of Energy and Water Resources	15702
 Ministry of Energy and Water	11380,5088
 Ministry of Energy and Water Resources	11136,3813,51,25,38
 Ministry of Fisheries and Water Resources	16967,138
+Ministry of Hydraulics and Water Supply	18198
 Ministry of Water	13787,1686,1684,103
 Ministry of Water Development	1988
 Ministry of Water Development and Sanitation	13387
@@ -384,7 +394,7 @@ Ministry of Water Resources and Energy	15574
 Ministry of Water Resources and Energy NDS30	15574
 Ministry of Water Resources and Irrigation	3583,12883
 Ministry of Water and Energy	12195,38,5325
-Ministry of Water and Sanitation	15550,1710
+Ministry of Water and Sanitation	15550,1710,1049
 Ministry of Water of Sanitation	14546
 Mkhomazi Bulk Water Supply Scheme Construction	11248
 Mkhomazi Water Augmentation Project	11248
@@ -499,7 +509,9 @@ Post-flooding. The Waterbody	15129
 Posts Water	11251
 Posts Water Restrictions	11251
 Posts Water Results	11251
+Potable Water Supply Networks	18220
 Potable Water Supply and Sanitation Master Plan	12922
+Potable Water for Semi-Urban and Rural Communities	18220
 Power Pool WASH Water	17260
 Practices Water	17043
 Price Waterhouse Coopers	1814,15421
@@ -548,7 +560,7 @@ Résultats Internationaux Participants Open Data Watch	13689
 SADCMET Water Laboratory Association	14736
 SECTOR PROFILE Water	718
 SUPPLY TREATED WATER TO MWANDI	13387
-Safe Water	13474,3683
+Safe Water	13474,3683,1213
 Safety Authority NWCPC National Water Corporation	2775
 Safety of Water Connections	12389
 Salaam. Wakati Watanzania	9376
@@ -720,7 +732,7 @@ Watching	8642
 Watching Kona	9007
 Wateja	6019
 Watendaji	2868,3151
-Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9
+Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271
 Water Abstraction Licensing Regulation	17228
 Water Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Water Access Absence of Corruption	10835,3,130,902,16,466,1,135
@@ -735,6 +747,7 @@ Water Basin Agencies. Development	17157
 Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1
 Water Body Shoreline Demarcation	1964
+Water Closet	18118
 Water Closets	15574
 Water Code	13752
 Water Collection	11152
@@ -752,6 +765,7 @@ Water Disconnections	9437
 Water Efficiency Programs	14745
 Water Engineer	13392
 Water Environment and Geo Services Ltd Supply	15052
+Water Forum	18378
 Water Forward	7843,8480
 Water Fowl Habitat	1988
 Water Global Practice	13743
@@ -808,6 +822,7 @@ Water Resources Management Authority	13365,1181
 Water Resources Management Authority. Ministry of Labour	1988
 Water Resources Management The Act	1988
 Water Resources Management The Minister	16851
+Water Resources Management and Planning	18309
 Water Resources Planning	7548
 Water Resources Translate	17157
 Water Resources Unit	14745
@@ -871,6 +886,7 @@ Water Use License Applications	11236
 Water Use Reduction Goals	17157
 Water Use Restrictions	17157
 Water Utility	718,10061
+Water Valorization Project for Value Chain Development	18309
 Water Vision	11283
 Water Waste	15206
 Water Water	1988
@@ -987,6 +1003,7 @@ Watumishi	2868,1231,1920,8304
 Watunza	4061
 Watuzemba Frederico	9501
 Watéri	17899
+Wc Kilo Watt	18316
 Weekly Water Dashboard	14673
 West Africa The WATRA Working Group	5675
 West Africa WATRA Working Group	5676,5
@@ -999,6 +1016,7 @@ Workshop da WATRA	11531
 World Bank Group Wp Watt-peak	15983
 World Bank-financed Water Supply and Sanitation Access	12977
 World Water Day	15725
+World Water Forum. Besides	18378
 Xenophobia Watch	10729
 Z CHINA INTERNATION WATER	16623
 ZRCP TBA Pollution of Water Sources	1988

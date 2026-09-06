@@ -15,6 +15,7 @@ AGENDA Enable	16942
 AGENDA GUINEA ECUATORIAL	16893
 AGENDA Percentage	16942
 AGENDA Space	1131
+AGENDAS Pour	18291
 ANNEXES Agenda WAPF	16545
 ARISE Agenda	9115
 ARISE Agenda ICT	9115
@@ -58,20 +59,23 @@ African Union's Agenda	5246,203,1489,198,457,903,4933,40,669,1722,1067
 African Union’s AI Agenda	4528
 African Union’s Agenda	970,844,2554,419,1174,1078,3636,144,3,388,1795,1737,77,692,334,1076,195,559
 Africa’s Agenda	17139
-Agenda	10,779,110,59,3,9,5,156,112,14,112,1,331,113,303,8,150,136,32,138,194,41,26,91,33,52,36,440,25,64,21,54,17,186,286,279,5,294,192,327,113,343,125,226,224,19,126,140,186,200,198,28,282,94,40,71,36,113,68,8,11,117,180,77,40,9,95,83,98,79,208,10,108,163,32,61,5,288,89,1,56,164,32,279,140,70,2,95,300,64,34,265,12,42,38,52,96,8,6,1,2,1,9,45,10,65,10,7,3,83,225,131,1,22,47,20,76,45,14,157,16,291,1,61,23,180,25,41,125,19,186,8,16,8,32,51,33,2,30,59,55,48,288,12,12,32,1,32,67,211,92,56,57,33,52,42,16,44,18,16,18,97,22,1,8,18,13,24,520,17,39,45,19,5,37,32,12,9,26,2,2,9,86,29,96,68,7,48,77,51,17,113,22,4,34,102,8,87,38,7,14,47,184,12,9,1,4,23,6,10,5,9,7,14,115,14,15,23,121,89,204,243,46,2,29,6,2,6,9,26,56,5,32
+Agenda	10,779,110,59,3,9,5,156,112,14,112,1,331,113,303,8,150,136,32,138,194,41,26,91,33,52,36,440,25,64,21,54,17,186,286,279,5,294,192,327,113,343,125,226,224,19,126,140,186,200,198,28,282,94,40,71,36,113,68,8,11,117,180,77,40,9,95,83,98,79,208,10,108,163,32,61,5,288,89,1,56,164,32,279,140,70,2,95,300,64,34,265,12,42,38,52,96,8,6,1,2,1,9,45,10,65,10,7,3,83,225,131,1,22,47,20,76,45,14,157,16,291,1,61,23,180,25,41,125,19,186,8,16,8,32,51,33,2,30,59,55,48,288,12,12,32,1,32,67,211,92,56,57,33,52,42,16,44,18,16,18,97,22,1,8,18,13,24,520,17,39,45,19,5,37,32,12,9,26,2,2,9,86,29,96,68,7,48,77,51,17,113,22,4,34,102,8,87,38,7,14,47,184,12,9,1,4,23,6,10,5,9,7,14,115,14,15,23,121,89,204,243,46,2,29,6,2,6,9,26,56,5,32,85,5,13,13,27,2,9,71,14,11,21,5,33,3,5,2,5,61,2,1,2,7,7
 Agenda BEP Built Environment Professionals BEAC	2775
 Agenda Background Background	11191
 Agenda CA Communications Authority of Kenya CAJ	7548
 Agenda Conectar	11396,1
+Agenda Contacts Mouhammad Abdallah Diallo Cordonnateur	18324
 Agenda Digital	975,272,454,9692,136,4003,815,518,77
 Agenda Digital Guinea Ecuatorial	16942
 Agenda Digital de Cabo Verde	16347
 Agenda Digital de GE	4209
 Agenda Digital de Guinea Ecuatorial	16942
 Agenda Equatorial Guinea	16942
+Agenda Estimated	18305
 Agenda Estratégica	1268,14304
 Agenda Estratégica de Desenvolvimento Sustentável	15526
 Agenda Estratégica de Modernização	15572
+Agenda Femmes	18254
 Agenda For Transformation	16949
 Agenda GOVERNO. AO	11394
 Agenda GOVERNO.AO	11072,322
@@ -89,6 +93,7 @@ Agenda Nacional de Desarrollo. Artículo	16893
 Agenda Nacional de Desarrollo. Cabe	17259
 Agenda Nacional de Digitalización	10318
 Agenda National	17860,19,69
+Agenda National de Transformation	18319
 Agenda National de Transformation Numérique	1218,16642,7,12,2,14
 Agenda Numérique	17860,88
 Agenda Numérique CPP Cadre	16626
@@ -98,11 +103,14 @@ Agenda Previsão	3192
 Agenda Rwanda Presents Third Voluntary National	14873
 Agenda SADC	11396
 Agenda SADC Digital	11396,1
+Agenda Septembre	18324
+Agenda Sommaire	18324
 Agenda Sénégal	9580
 Agenda T2	16722
 Agenda T2 Conakry	16722
 Agenda T2 Conakry. Trois	16722
 Agenda T2 N'Zérékoré	16722
+Agenda Visite du Président Bassirou Diomaye Faye	18386
 Agenda WAPF	16545
 Agenda da Campanha Eleitoral	12201
 Agenda de Desarrollo	975
@@ -114,6 +122,8 @@ Agenda de Transição Digital	2581,8813,57,10,2
 Agenda de Transição Digital da Administração Pública	4606,35,664,5767,307,15,48,2,4,3,2862
 Agenda de Transição Digital de Angola	2581
 Agenda de Transição Digital. VIII	11461
+Agenda des Objectifs de Développement Durable	18105
+Agenda du Président	18339,73
 Agenda for Equality	17101
 Agenda for Equatorial Guinea	16942,16
 Agenda for Future Research	5349
@@ -146,9 +156,16 @@ Agenda. Hence	12357
 Agenda. The Programme	11332
 Agenda.77	10822
 Agenda3. Policy	206
+AgendaBudget	18305
+AgendaEstimated BudgetResponsibleStartingClosing1	18305
+AgendaEstimated BudgetResponsibleStartingClosing1. Ensure	18305
+AgendaEstimated Responsible	18305
+AgendaEstimatedBudgetResponsibleStartingClosing1.Develop	18305
+AgendaImportant	18305
+AgendaStartingClosingEstimated	18305
 Agendamento	16376
 Agendar	16376
-Agendas	11387,599,2466,1083,1330,28,5
+Agendas	11387,599,2466,1083,1330,28,5,1393
 Agendas Internacionales	1701
 Agendas and Minutes	11251
 Agendas de Desarrollo	16898
@@ -205,7 +222,7 @@ Digital Agenda and Digital Governance Action	11965
 Digital Agenda for Equatorial Guinea	1716,36,15190
 Digital Agenda for Norway	11529
 Digital Agenda for Romania	11529
-Digital Development Agenda	5834
+Digital Development Agenda	5834,12515
 Digital Economy and Development Research Agenda	226
 Digital Eswatini Agenda	7687
 Digital Ghana Agenda	17536
@@ -313,7 +330,8 @@ MW2063 and Agenda	13005
 Malawi Agenda	12182
 Malawi Integrated Digital Agenda	12917
 Mbaye Coulibaly Agenda Relevant Continental Frameworks	13457
-Media Rights Agenda	6770,2312,2622
+Media Rights Agenda	6770,2312,2622,6507
+Media Rights Agenda URL	18211
 Medium-Term National Development Agenda	789
 Member Report Presenters Name Designation Agenda	17317
 NOTICE AND AGENDA	7204
@@ -360,13 +378,14 @@ Posts Council Agendas	11251
 Presenters Name Designation Agenda	17104
 President Boakai Unveils Digital Transformation Agenda	7615
 President Boakai's ARREST Agenda for Inclusive Development	4840
-President Bola Tinubu's Renewed Hope Agenda	7883,1872,2290
+President Bola Tinubu's Renewed Hope Agenda	7883,1872,2290,6131
 President Bola Tinubu’s Renewed Hope Agenda	2318,6103,165
 President Joseph Nyuma Boakai's ARREST Agenda	8574,1077
 President Joseph Nyuma Boakai’s ARREST Agend	17398
 President Joseph Nyuma Boakai’s ARREST Agenda	4554
 President Renewed Hope Agenda	7664
 President Tinubu’s Renewed Hope Agenda	3018
+President's Renewed Hope Agenda	18240
 Pro Poor Agenda for Prosperity and Development	16943
 Pro-Poor Agenda for Development	16943
 Pro-Poor Agenda for Prosperity and Devel	16876
@@ -382,10 +401,10 @@ Reform Agenda	12233
 Regional Agenda	4807
 Regional Feminist Data Agenda	8713
 Regional and Global Agenda	13359
-Renewed Hope Agenda	2394,142,2189,1651,1275,233,1089,2495,536,57,247,5417
+Renewed Hope Agenda	2394,142,2189,1651,1275,233,1089,2495,536,57,247,5417,437,1,13,45,19,3,10,6,3,1
 Renewed Hope Agenda Deji Elumoye	11126
 Renewed Hope Agenda and WBG	11468
-Renewed Hope Agenda of President Bola Ahmed	8980,1083,1918,45,23
+Renewed Hope Agenda of President Bola Ahmed	8980,1083,1918,45,23,6081,89
 Renewed Hope Agenda of President Bola Tinubu	10156
 Renewed Hope Agenda. Today	12004
 República. Agenda Guinea Ecuatorial	1701
@@ -406,9 +425,11 @@ SMART Zambia Agenda	13335
 SMART Zambia Transformation Agenda	12369
 SOCIO-ECONOMICDEVELOPMENT AGENDA	16872
 STRATEGIC AGENDA FOR THE THIRD HEALTH	13982
+Saint Louis. Agenda du Président	18400,2,1
 Sanitation and Tourism AAID ARREST Agenda for Inclusive	17043
 Satellite GoTDA Government’s Digital Transformation Agenda	6946
 Securitization Agenda	2117
+Senegal’s Agenda National de Transformation Sénégal	18370
 Services Galerie Vidéos Photos Audios Agenda	3675
 Shaping the Digital Agriculture Agenda for Liberia Moderator	17070
 Sierra Leone Advances Artificial Intelligence Agenda	6380
@@ -419,6 +440,7 @@ Social Agenda Guinea Ecuatorial	1701
 Somalia's Human Capital Agenda	15059
 Southern African Development Community Agenda	12669
 Strategy of Digital Agenda	11529
+Suivez-Nous Departments Actualités Agenda Evènements	18409
 Supplementary Instruments. The Agenda of Phase	16212
 Support Its Transformation Agenda	4132
 Suriname No Sweden Yes Digital Agenda	11529

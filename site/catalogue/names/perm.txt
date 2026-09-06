@@ -62,6 +62,7 @@ Bureau Permanent Président Point Focal Point	14537
 Burial Permit	12151
 Business Operating Permits	16276
 Business Permit	12323,2180
+CEO of NiMet and Permanent Representative of Nigeria	18128
 CESSION DE PERMIS L’intéressé	15395
 CHINYAMA and Permanent Secretaries	13384
 CITES ASYCUDA Electronic Permit System for CITES	13042
@@ -70,8 +71,8 @@ CONSTRUCTION PERMIT	17613,2
 CONSTRUCTION PERMITS	12389
 CRITERIA FOR OCCUPATION PERMIT	7845
 Cairo and Permanent Representative	11738
-Captive Generation Permits	12062
-Captive Power Generation Permits	12062
+Captive Generation Permits	12062,6124,31
+Captive Power Generation Permits	12062,6124,31
 Catherine Bitarakwate Musingwiire Permanent Secretary	8032
 Cellule Permanente de Suivi	11958
 Chikamata Permanent Secretary MINISTRY OF HEALTH	34
@@ -94,7 +95,8 @@ Conseiller du Secrétaire Permanent	16175
 Construction Permit	2674,12407,2033
 Construction Permit Automation System	2674
 Construction Permit System	13854
-Construction Permits	4325,8051
+Construction Permits	4325,8051,5733
+Construction Permits Score	18109
 Construction-Related Environmental Permits	12389
 Construction-Related Permit	12389
 Contract FUP Forest Use Permit GBL	16843
@@ -103,6 +105,7 @@ Coordination Mechanisms for Excavation Permits	12389
 Copperbelt Permanent Secretary Lawrence Mwanza	5984
 Crude Accreditation Permit	3583
 DE L’EXAMEN DU PERMIS DE CONDUIRE	15901
+DEEG Permanent	18286
 DEMANDE DE PERMIS DE CONSTRUIRE	14488,1,1
 DEMANDE DE PERMIS DE CONSTRUIRE ANNEXE-9	14488,1,1
 DEMANDE DE PERMIS DE CONSTRUIRE REPOBLIKAN’I	14488,1,1
@@ -112,7 +115,9 @@ DEMANDE PERMIS DE DEMOLITION REPOBLIKAN’I MADAGASIKARA	14488,1,1
 DEMANDEZ LA PERMISSION	13300
 DG Permanent	11986
 DHONDOO Alankar Assistant Permanent Secretary	14770
+DIRECTION GÉNÉRALE SECRÉTARIAT TECHNIQUE PERMANENT	18169
 DOES THE BIDDER HAVE A PERMANENT	11240
+DRM High Council and Permanent Secretariat	18198
 DU PERMIS DE CONDUIRE	15901
 Decreto Permitam-me	10750
 Deposit Insurance Permanent Secre- Board	6938
@@ -179,6 +184,7 @@ Grazing Permits System	17157
 Ground Water Use Permit	1988
 Hassan Mohamed Ali Permanent Secretary Ministry	14916
 Headcount of Permanent Staff	12951
+High Council and Permanent Secretariat	18198
 Home Affairs Permanent Secretary	13448
 House Permit	11282
 I. FRAIS D’INSTRUCTION DES PERMIS	16047
@@ -212,6 +218,7 @@ Le Bureau Permanent	14537
 Le Secrétaire Permanent	13546
 Le Secrétariat Permanent du Conseil National	16616
 Le Secrétariat Technique Permanent	15848
+Le Secrétariat Technique Permanent du Conseil National	18169
 Les Resultats Definitifs de L’enquete Permanente Agricole	15715
 Les Secrétaires Permanents	13341
 Lesotho Exemption Permit	6720
@@ -220,7 +227,7 @@ Lewis Mwape Deputy Provincial Permanent Secretary	13392
 Liberia's Permanent Representative	16961
 Liberia. The Permanent Commission for Social Policy	16942
 Liberian Entry Visa and Work Permit	17114
-Licences and Permits	12062
+Licences and Permits	12062,6124,31
 License and Permit Conditions ARTICLE	15484
 Licenses and Permits	6792
 Live Animal Import Permit	15478
@@ -233,7 +240,7 @@ MHTEISTD Acting Permanent Secretary Professor Norman	13671
 MINISTRY of Information and Media Permanent Secretary Thabo	13680
 Mali Le Secrétaire Permanent	17974
 Maseru City Construction Permit	2674
-Mini-grid Permits	12062
+Mini-grid Permits	12062,6124,31
 Minister and Permanent Secretary	13310
 Ministers and Permanent Secretaries	16858
 Ministry Hon Minister Junior Minister Permanent	14746
@@ -315,6 +322,7 @@ Permanent Address	13068
 Permanent Artificial Limb	12979
 Permanent Cash Transfers	1954
 Permanent Classroom Ratios PqTR	12175
+Permanent Committee	18220
 Permanent Constitution	3583
 Permanent Contract Executive Female Male	12969
 Permanent Coordination	17637
@@ -325,6 +333,8 @@ Permanent Eligibility Committee	16694
 Permanent Establishment	17258
 Permanent Garantir	14537
 Permanent Input Hypothesis	15743
+Permanent Inter-State Committee for Drought Control	18309
+Permanent Interstate Committee for Drought Control	18104
 Permanent Joint Committee	14865
 Permanent Mission	1735,11307,340
 Permanent Mission of Barbados	13042
@@ -345,7 +355,7 @@ Permanent Residence Permit	14828,3
 Permanent Resident Permit	12337,610
 Permanent Resident Permits	12947
 Permanent Residents	2115,15422
-Permanent Secretariat	6361,5539,2779,1705
+Permanent Secretariat	6361,5539,2779,1705,1741
 Permanent Secretariat for Innovation and Forecasting	7361
 Permanent Secretariat of CNR	11900
 Permanent Secretaries	1014,974,5985,1008,688,1921,863,642,237,13,1064,364,357,1722,99,137,700
@@ -354,7 +364,7 @@ Permanent Secretaries and Accounting Officers. The Committee	16885
 Permanent Secretaries and Equivalent Grades	2779
 Permanent Secretaries and Heads of Agencies	13005
 Permanent Secretaries. CHAPTER FIVE	13399
-Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165,40,3,13,44,19,7,4,31,99,43,16,126,6,132,192,50
+Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165,40,3,13,44,19,7,4,31,99,43,16,126,6,132,192,50,547,8,39,38
 Permanent Secretary Ally Senga Gugu	5697
 Permanent Secretary Attention	12927
 Permanent Secretary Dr Amina Zawedde	5658
@@ -363,6 +373,7 @@ Permanent Secretary Dr. Beaullah Chirume	4528,7984,1031
 Permanent Secretary Dr. Brilliant Habeenzu	13663
 Permanent Secretary Education Services	13392
 Permanent Secretary Eng. Dr. Brilliant Habeenzu	6201
+Permanent Secretary General Services Office	18205
 Permanent Secretary Local Authorities Governance Unit	14746
 Permanent Secretary Lt. Gen. Joseph Musanyufu	9386
 Permanent Secretary Ministry	8087
@@ -408,14 +419,14 @@ Permanently	1828,13301,1985
 Permanently Host ARSO Headquarters	14273
 Permanents	1231
 Permanência	11365,60,55,40
-Permet	14425,1511
+Permet	14425,1511,2268
 Permettant	14479
 Permette	1187
 Permettez-moi	2695,661,4265,7220,2633
-Permettre	643,362,9871,1068,1346,429,706,1103,14,41,87,15,251,705,5,802,388,46,16,85
+Permettre	643,362,9871,1068,1346,429,706,1103,14,41,87,15,251,705,5,802,388,46,16,85,314,9
 PermeƩant	17866
 PermiS	15999
-Permis	2342,1039,788,7428,1763,59,81,837,151,1,1,1509,48,1777
+Permis	2342,1039,788,7428,1763,59,81,837,151,1,1,1509,48,1777,465
 Permis Annuels	15999
 Permis CI Demande	15936
 Permis CI Dépend	15936
@@ -454,12 +465,13 @@ Permite	7466,537,3552,3848,34,590,828
 Permite-se	15358
 Permitir	1701,9053,1,618,70,458,120,3337,118,845,644,128
 Permitiu	11526
-Permits	10775,201,575,306,17,7,1,104,300,47,13,193,2945
+Permits	10775,201,575,306,17,7,1,104,300,47,13,193,2945,2664
 Permits Indicator	11986
 Permits Purpose	11986
 Permits Target	11986
+Permits Topic Scores	18109
 Permits and Certifications ARTICLE	15484
-Permits and Registration Certificates	12062
+Permits and Registration Certificates	12062,6124,31
 Permits for Processing of Personal Data	15484
 Permits for Suppliers and Installers	13951
 Permitted	4302,594,7493,2046,2507
@@ -510,6 +522,7 @@ SECRETARIAT TECHNIQUE PERMANENT DU PLAN SECTORIEL	2966
 SECRETARIO PERMANENTE AP CPLP	4209
 SENHORES MEMBROS DA COMISSÃO PERMANENTE	12796
 SEPTEMBRE ATTRIBUTION DE PERMIS DE RECHERCHE	2342
+SNDS. Le Secrétariat Technique Permanent du Conseil	18169
 SP CONASUR Permanent Secretariat	16384
 SPIVTEN Permanent Secretary Dr. Yaya Traoré	7361
 STATEMENT FROM THE PERMANENT SECRETARY	14746
@@ -527,6 +540,7 @@ Secretária Permanente	10140
 Secretário Permanente	12822
 Secrétaire Permanent	11926,1415,64,141,6,22,2675,132
 Secrétaire Permanent Adjoint	16175,206
+Secrétaire Permanent du CNSP Col. Sahabi Sani	18216
 Secrétaire Permanent du Comité National	17828
 Secrétaire Permanent du Ministère	13341
 Secrétaire Permanente	13549,109
@@ -541,6 +555,8 @@ Secrétariat Permanent du Fonds	17121
 Secrétariat Permanent du PRODESS	17845
 Secrétariat Permanent. G. OUTILS DE SUIVI	17842
 Secrétariat Technique Permanent	15479,369
+Secrétariat Technique Permanent du Conseil National	18169
+Secrétariats Locaux Permanents du Code Rural Article	18094
 Secteur Privé. Le Secrétariat Permanent du Comité	15383
 Security Clearance Permits	14113
 Seed Export Permit	1988

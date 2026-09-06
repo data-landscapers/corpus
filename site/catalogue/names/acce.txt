@@ -35,18 +35,21 @@ ACCEPTANCE OF BID CONDITIONS AND BIDDER’S	11209
 ACCEPTE	13300
 ACCEPTED FOR CONSIDERATION	11240
 ACCEPTÉ	13300
-ACCES	13433
+ACCES	13433,4710,27
 ACCES A L'EAU POTABLE ET	15999
 ACCES A L’EMPLOI Article	17815
 ACCES A L’INFORMATION	15712
 ACCES A L’INFORMATION Engagement	15712
 ACCES A L’INFORMATION Numéro	15712
+ACCES ABORDABLE AU DERNIER KILOMETRE	18316
 ACCES AU FINANCEMENT	4567
 ACCES AU PORTAIL DE Lâ	16148
 ACCES AUX PRODUITS ET SERVICES BANCAIRES	15482
 ACCES AUX RESEAUX ET SERVICES CONTENUS	17824
 ACCES AUX SOINS Article	17815
+ACCES DES MENAGES A INTERNET Dans	18204
 ACCES DIRECT A L'INTERNATIONAL	15394
+ACCES DU MENAGE AUX TIC SI	18204
 ACCES ET MAINTIEN NON AUTORISES DANS	16617
 ACCES FINAL ABORDABLE Programme	16037
 ACCES Le Ministre	17819
@@ -108,10 +111,12 @@ ACCESS.2022.3232485. Farahani	6948
 ACCESS.2023.3254500 Murigi	9129
 ACCESS.2023.3267737 Crossref Citations	8130
 ACCESSIBILITE A L’ENVIRONNEMENT PHYSIQUE	15732
+ACCESSIBILITE DES MENAGES AUX TIC Afin	18204
 ACCESSIBILITE ET DIFFUSION	16307
 ACCESSIBILITY	10765,87
 ACCESSIBILITY AND ADOPTION	16883,1
 ACCESSIBILITY AND USABILITY STANDARDS	11952
+ACCESSIBILITÉ AUX SERVICES TIC	18105
 ACCESSIBILITÉ ET CLARTÉ	17830
 ACCESSIBLE	3604,12792
 ACCESSIBLE AND ADOPTED BY THE POPULATION	16884
@@ -165,7 +170,7 @@ Acceder	16905,60
 Acceler8	12540
 Accelera Cloud Program	4144
 Accelerat-	8606
-Accelerate	1814,71,2241,1119,91,1407,205,91,168,2866,357,704,6,717,59,48,250,145,36,4,94,70,117,295,337,2,104,69,381,154,652,49,25,4,66,1,73,30,25,50,111,442,427,2,209,719,32,12,19,1,4,139,25,18,103,44,566
+Accelerate	1814,71,2241,1119,91,1407,205,91,168,2866,357,704,6,717,59,48,250,145,36,4,94,70,117,295,337,2,104,69,381,154,652,49,25,4,66,1,73,30,25,50,111,442,427,2,209,719,32,12,19,1,4,139,25,18,103,44,566,328
 Accelerate AI	4126
 Accelerate AI Adoption	4126
 Accelerate AI Invest	4126
@@ -178,6 +183,7 @@ Accelerate Africa’s Prosperity Font ResizerAa Politics	9989
 Accelerate Algeria's Digital Transformation	5901
 Accelerate Availability	14997
 Accelerate COVID-19 Education Response	953
+Accelerate Climate-Resilient Agriculture	18197
 Accelerate Despite	17239
 Accelerate Digital Economy	5919
 Accelerate Digital Governance	14998
@@ -257,7 +263,7 @@ Accelerated Transformation Plan for Development	15518
 Accelerated and Inclusive Growth. Washington	10841
 Accelerates	12359,2588
 Accelerates Its Digital Transformation	5125
-Accelerating	411,1011,355,1614,65,31,117,1929,518,488,863,202,3114,422,53,3,273,278,467,19,45,51,70,164,196,587,522,15,55,736,55,16,74,207,487,40,209,288,811,112,11,12,261,39,109,26,72,487
+Accelerating	411,1011,355,1614,65,31,117,1929,518,488,863,202,3114,422,53,3,273,278,467,19,45,51,70,164,196,587,522,15,55,736,55,16,74,207,487,40,209,288,811,112,11,12,261,39,109,26,72,487,172,187
 Accelerating AI	1814,3234,6092
 Accelerating AI Investment Figure	1814
 Accelerating AU Member States	1814
@@ -281,6 +287,7 @@ Accelerating Gender Equality To End Poverty	1867
 Accelerating Governance Institutional Reforms	11905
 Accelerating Home Under	10793
 Accelerating IP	17870
+Accelerating Impacts of CGIAR Climate Research	18309
 Accelerating Impacts of CGIAR Climate Research for Africa	14471
 Accelerating Industrial Intelligence	2825
 Accelerating Malawi's Digital Economy	12241
@@ -305,12 +312,15 @@ Accelerating the Gambia’s Socio-Economic Development	16861
 Accelerating the SDGs Through Digital Public Infrastructure	5700
 Acceleration	773,3930,972,2933,2627,234,907,747,538,2141,177,1479
 Acceleration B3-Investor	7548
+Acceleration Centre	18349
 Acceleration Fund CEO Sérgio Pimenta. Development	9802
 Acceleration Initiative	4260
 Acceleration Program Community Media Search	16348
 Acceleration Programme	8824
 Acceleration Programs Supporting	12495
-Acceleration Project	1228,12222,2171
+Acceleration Project	1228,12222,2171,2729,9
+Acceleration Project APPROVED	18359
+Acceleration Project Product	18359
 Acceleration Support Liberia Revenue Authority	17011
 Acceleration of Community Health	4217
 Acceleration of Digital Transformation of Cameroon	4523,170,71
@@ -330,7 +340,7 @@ Accelerators and Civil Associations	16942
 Accelerators and Incubators. Deals	4972
 Accentuation	16628
 Accentuer	15542
-Accenture	168,260,935,754,2317,2233,156,184,1576,2023,4170,736,2358
+Accenture	168,260,935,754,2317,2233,156,184,1576,2023,4170,736,2358,506
 Accenture Panelists Mr. Veemal Gungadin CEO	14776
 Accept	961,4361,581,2300,3049,1933,1842,1436,369,1122
 Accept All	3907
@@ -371,7 +381,7 @@ Acceptance of Licensed Payment Instruments. All Public	14014
 Acceptance of Payments	14014
 Acceptance of Request for Proposal	12400
 Acceptance of WTO	13042
-Acceptation	4459,8901
+Acceptation	4459,8901,4736
 Acceptation Avis	10708
 Acceptation des Paiements Offre	10711
 Acceptations	17485
@@ -382,7 +392,7 @@ Accepted Everywhere	14273
 Accepted Papers	16467
 Accepted. The WHO Djibouti	13858
 Accepted.pdf Deloitte	961
-Accepter	3577,4340,1133,4510,1467
+Accepter	3577,4340,1133,4510,1467,3110
 Accepteriez-vous	13390
 Accepteur	11522,2190
 Acceptez	6954
@@ -394,13 +404,13 @@ Acceptée	10900,2,19,4987
 Acceptée DECLA-0004	998
 Acceptée DECLA-0006	998
 Acceptée DECLA-0012	998
-Acces	14479,1105,30
+Acces	14479,1105,30,2709
 Accesibilidad	1701,15197
 Acceso	1701,2508,12646,9,34,22,45,206,130
 Acceso Público	16855
 Acceso Sin	16864
 Acceso Sin Acceso	16864
-Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10,47,7,6,2,1,3,3,12,9,47,27,17,7,1,1,3,8,1,3,23,1,3,11,65,32,15,8,50,4,1,2,1,1,19,36,10,23,8,63,24,37,52,56,4,12,9,2,8,12,13,6,63,66,10,125,2,13,3,1,5,2,1,4,1,1,1,8,3,18,1,33,4,4,4,7,24,28,24,43,2,47,13,1,1,4,5,2,11,9,7,3,4,7,4,4,12,1,14,5,7,4,4,17,19,5,20,3,3,5,4,3,1,5,6,1,3,2,15,3,3,4,6,6,4,7,3,4,6,7,19,7,7,2,9,18,10,1,2,28,1,18,1,3,10,1,3,82,3,6,4,13,1,26,28,77,81,3,1,18,3,4,1,11,1,9,8,13,12,2,9,3,1,44,1,11,6,5,13,14,16,1,5,22,4,76,2,70,29,7,2,2,6,9,13,2,6,6,5,18,1,6,15,13,45,1,8,4,10,9,40,81,10,25,31,94,94,70,10,8,4,31,9,54,88,7,1,149,46,65,17,7,63,27,4,33,5,28,5,23,52,45,3,7,13,3,3,11,53,16,1,2,27,3,4,5,4,5,1,7,3,6,1,11,1,10,2,1,1,5,4,12,1,2,7,2,2,1,6,19,13,19,3,9,11,20,4,18,47,2,1,30,3,17,9,12,42,11,13,74,21,9,39,13,23,13,13,7,11,8,1,11,7,35,18,3,19,11,15,1,1,38,2,64,6,9,3,19,139,23,86,27,107,42,1,1,1,140,107,59,132,1,26,133,30,18,4,1,1,10,1,8,12,4,2,5,1,1,1,1,2,13,21,1,2,10,3,3,1,6,1,1,1,11,3,30,21,1,19,6,16,46,9,13,12,10,79,23,6,39,73,1,71,62,72,168,87,19,13,7,1,64,16,12,9,68
+Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10,47,7,6,2,1,3,3,12,9,47,27,17,7,1,1,3,8,1,3,23,1,3,11,65,32,15,8,50,4,1,2,1,1,19,36,10,23,8,63,24,37,52,56,4,12,9,2,8,12,13,6,63,66,10,125,2,13,3,1,5,2,1,4,1,1,1,8,3,18,1,33,4,4,4,7,24,28,24,43,2,47,13,1,1,4,5,2,11,9,7,3,4,7,4,4,12,1,14,5,7,4,4,17,19,5,20,3,3,5,4,3,1,5,6,1,3,2,15,3,3,4,6,6,4,7,3,4,6,7,19,7,7,2,9,18,10,1,2,28,1,18,1,3,10,1,3,82,3,6,4,13,1,26,28,77,81,3,1,18,3,4,1,11,1,9,8,13,12,2,9,3,1,44,1,11,6,5,13,14,16,1,5,22,4,76,2,70,29,7,2,2,6,9,13,2,6,6,5,18,1,6,15,13,45,1,8,4,10,9,40,81,10,25,31,94,94,70,10,8,4,31,9,54,88,7,1,149,46,65,17,7,63,27,4,33,5,28,5,23,52,45,3,7,13,3,3,11,53,16,1,2,27,3,4,5,4,5,1,7,3,6,1,11,1,10,2,1,1,5,4,12,1,2,7,2,2,1,6,19,13,19,3,9,11,20,4,18,47,2,1,30,3,17,9,12,42,11,13,74,21,9,39,13,23,13,13,7,11,8,1,11,7,35,18,3,19,11,15,1,1,38,2,64,6,9,3,19,139,23,86,27,107,42,1,1,1,140,107,59,132,1,26,133,30,18,4,1,1,10,1,8,12,4,2,5,1,1,1,1,2,13,21,1,2,10,3,3,1,6,1,1,1,11,3,30,21,1,19,6,16,46,9,13,12,10,79,23,6,39,73,1,71,62,72,168,87,19,13,7,1,64,16,12,9,68,70,14,2,44,124,8,69
 Access API	10721
 Access ASYCUDA Online	16882
 Access Advertised Speed	3862
@@ -410,6 +420,7 @@ Access Agreement	15081
 Access All Government Services	11940
 Access All Public and Private Services	16983
 Access All Services	14137,2846
+Access And Best Project	18374
 Access Artificial	13649
 Access Bank	3779,276,3524,898,3775
 Access Bank Botswana	12252
@@ -596,6 +607,9 @@ Access of Population	11136
 Access the Beneficial Owner Register	11276
 Access the Legis1	10351
 Access the Virtual Results Operations Centre	7266
+Access-Control-Allow-Headers	18427
+Access-Control-Allow-Methods	18427
+Access-Control-Allow-Origin	18427
 Access-point	5928
 Access-related	11004,898,62
 Access-to-Information Act. Pertaining	12932
@@ -605,7 +619,7 @@ AccessTrade	3779
 Accessed	697,261,303,1257,1608,550,566,4,454,1247,1429,84,143,2,794,340,979,57,44,100,60,28,209,43,609,41,85,144,5,103,9,2,68,51,936,2,147,163,367,443,339,192,164,421,376,540,456,74,777,97,100
 Accessed Feb	12376
 Accesses	9739
-Accessibility	958,3,200,96,1518,1753,718,419,14,532,537,200,600,1451,204,226,1588,15,98,788,34,23,163,44,49,97,5,128,51,22,18,10,99,246,20,42,36,32,60,198,123,52,32,74,575,133,489,4,1,84,103,32,30,28,25,84,42,293,744,600,42,1,1,28,9,15,2,113,45,15,35,111,36,88,552
+Accessibility	958,3,200,96,1518,1753,718,419,14,532,537,200,600,1451,204,226,1588,15,98,788,34,23,163,44,49,97,5,128,51,22,18,10,99,246,20,42,36,32,60,198,123,52,32,74,575,133,489,4,1,84,103,32,30,28,25,84,42,293,744,600,42,1,1,28,9,15,2,113,45,15,35,111,36,88,552,494
 Accessibility Access	14997
 Accessibility Accessibility	14997
 Accessibility Advocacy	4126
@@ -646,8 +660,10 @@ Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11
 Accessibility of Roads	16887
 Accessibility-related	15164
 Accessibility. Robustness. Integration and Regulated Access	12533
-Accessibilité	1187,5030,4491,139,118,10,2315,84,68,36,232,131,647,1,1,47,956,56,75,87,9,26,190,259,114,19,313,1187,2,30,22,132,18
+Accessibilité	1187,5030,4491,139,118,10,2315,84,68,36,232,131,647,1,1,47,956,56,75,87,9,26,190,259,114,19,313,1187,2,30,22,132,18,73,201
 Accessibilité Disponibilité	15936
+Accessibilité des BV	18310
+Accessibilité des BV Quatre-vingt-huit-pour-cent	18310
 Accessibilité des Données Données	15624
 Accessibilité du Système	5135,10971,139,288
 Accessibilité. II.4 Objectifs II.4.1 Objectif	13341
@@ -664,7 +680,7 @@ Accessible Telnet	7627
 Accessible and Adopted	16884
 Accessible and Democratic Digital Futures	12104
 Accessible and Functional	14889
-Accessing	34,3116,1474,409,1949,3320,510,205,1073,111,473,682,262,318,934,23,305,16,1728,7
+Accessing	34,3116,1474,409,1949,3320,510,205,1073,111,473,682,262,318,934,23,305,16,1728,7,1369
 Accessing Award Decisions	12389
 Accessing Bidding Documents Electronically	12389
 Accessing Cash Transfers	12182
@@ -700,6 +716,7 @@ Action Steps Impact Cases Diversify and Accelerate	14997
 Adaptation Fund Climate Innovation Accelerator	17955,18
 Additional Event of Acceleration	14430
 Additional Services and Borrower's Access	12389
+Adjusted and Accelerated Priority Action Plan	18301
 Advance Government Transparency and Data Accessibility	17291,31,79
 Advancing Risk Sharing and Localisation. Accessed	6947
 AfCFTA Startup Accelerator Partnership Program	10476
@@ -776,6 +793,7 @@ BANK ABSA BANK ACCESS BANK AGRICULTURAL	17242
 BATTERY SUPPORT ACCESS APPROVE USE MOBILE	11964
 BC Access	9955,204
 BENIN ELECTRICITY ACCESS SCALE-UP PROJECT	15515
+BEST Operation Name Regional Electricity Access	18374
 BID ACCEPTANCE All Bids	11240
 BN TO SUPPORT UNIVERSAL ACCESS	8730
 BOOSTING ACCESS TO ELECTRICITY	11136
@@ -790,6 +808,7 @@ BWA Broadband Wireless Access Figure	582
 Badu E. Access	12231
 Balancing Access and Safety	4253
 Bank Mozambique Digital Acceleration Project	1228
+Bank Senegal Digital Economy Acceleration Project	18359
 Banks and Microfinance Institutions Access	7763
 Basic Education for All Agriculture and Food Accelerating	11469
 Batswana. Access	12561
@@ -870,7 +889,7 @@ CENTRES FOR COMMUNITY HEALTHCARE ACCESS Data	7167
 CEO of Access	5470,9658
 CEO of Open Access Data Centres	7179
 CEO. Acceleration	4883
-CGIAR Digital Transformation Accelerator	8683
+CGIAR Digital Transformation Accelerator	8683,9653
 CHAPTER IV E-GOVERNMENT SERVICES Acceptance	11179
 CHAPTER SIX UNIVERSAL ACCESS INITIATIVES	6946
 CHAPTER TWO BOOSTING ACCESS TO ELECTRICITY	11136
@@ -999,7 +1018,7 @@ Context Access	17140
 Contrapartes ACCEGE	16897
 Cookie Policy. Accept	12202
 Cookie Settings Accept All CookiesManage	3907
-Cookies Accept Only Essential Cookies	11291
+Cookies Accept Only Essential Cookies	11291,7101
 Core Infrastructure Identity and Access Management	13042
 Country Access Rate	11136
 Covered Data Systems Access and Reports	3972
@@ -1129,7 +1148,7 @@ Digital Access for All Mission	6946
 Digital Access for All. Our Mission	17746
 Digital Accessibility Rights Evaluation Index	11935
 Digital Accessibility Rights Evaluation Index Key	11935
-Digital Economy Acceleration Project	5056
+Digital Economy Acceleration Project	5056,13303
 Digital Economy Accelerator Programme	7172
 Digital Financial Services D. FINANCIAL ACCESS	14897
 Digital Health Impact Accelerator	3385,9117
@@ -1242,6 +1261,7 @@ Easy Access	170
 Ebola Accelerates	965,3924,206
 Economic Assessment of Somalia’s Accession	11136
 Economies With Limited Access	9331
+Economy Acceleration Project	18359
 Ecosystem Acceleration	15717
 Ecosystem Access	4848
 Ecosystem Access Get	18039
@@ -1299,6 +1319,7 @@ Enhance Acce Request for Quota Single Stage	17180
 Enhance Access	11918,5031,130
 Enhance the Accessibility of Federal Justice Institutions	14012
 Enhanced Access	4653,6065
+Enhanced Access and Utilization of Health Services for Women	18370
 Enhanced Access. New Access	4653
 Enhanced Digital Accessibility Index	12948
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
@@ -1323,7 +1344,7 @@ Equatorial Guinea. Access	16942
 Equatorial Guinea. Accessed	16996
 Equinix and Open Access Data Centres	2320
 Equipment Accessibility	14773
-Equitable Access	899,11006,451
+Equitable Access	899,11006,451,6014
 Equitable Access for Displaced Populations	10776
 Estimate the Livelihood Impact of Electricity Access	12006
 Eswatini Universal Access Initiative	12911
@@ -1604,6 +1625,7 @@ ISO Accelerator Pack	15934
 ITU Acceleration Center	5697
 ITU Acceleration Centers	5697
 ITU Manual for Measuring ICT Access	17743
+ITU Regional Acceleration Centre	18349
 ITU Rural Access	5241
 ITU-UK Kenya Digital Access Programme Partners	899
 IV. NETWORK REINFORCEMENT AND ENERGY ACCESS	13054
@@ -1805,6 +1827,7 @@ MFS Accessibility	14777
 MFS Accessibility Alignment	14777
 MHz Access Networks	736
 MHz Wireless Access MHz	736
+MICROWAVE ACCESS	18105
 MILE ACCESS	12399
 MILLIONS OF PEOPLE WITHOUT ACCESS	11572
 MIP-1 Accelerator Programme	13060
@@ -1839,6 +1862,7 @@ Malawi. Accessible	12241,839,15
 Mali's Access	17870
 Mali. Accessed	17870
 Management Practitioner ATP Acceptance Test Procedure	13185
+Management of Land Acquisition and Loss of Access	18370
 Manager Operations BACM Biometric Access Control	11986
 Mandatory Acceptance of Payments	14014
 Manual for Measuring ICT Access and Use	11424,920,1754,1519,1323,937,1
@@ -1965,6 +1989,7 @@ Network Reinforcement and Energy Access Project	13054
 Network of Acceleration Centres	11254
 Ngwana Africa Accelerator	12540
 Niamey Validé Acceptée WAPCO NIGER VITAL	998
+Niger Solar Electricity Access Project	18103
 Nigeria Accelerates Digital Inclusion	10157
 Nigeria Actions for Investment and Jobs Acceleration	11476
 Nigeria Distributed Access	11468,1
@@ -1973,6 +1998,7 @@ Nigeria Universal Communication Access Project	2359,4126,3901
 Nigeria- Accelerating Nutrition Fidson	11469
 Nokia. Accessed	4676
 Non Acceptée DECLA-0008	998
+Non Accessibilité	18316
 Non-Discriminatory Access. Public Bodies	14014
 Non-exclusion Acceptance	16839
 Non-governmental Organization OAMDI Open Access Micro	15604
@@ -2037,6 +2063,7 @@ P180693 Angola Accelerate	6539
 P2G Energy Access Payments	12444
 PA00K5S6.pdf. Accessed	12143
 PAGE Programme for Accelerated Growth and Employment PARIS21	16927
+PAP2A Adjusted and Accelerated Priority Action Plan	18301
 PART II ADMINISTRATION ACCESS TO INFORMATION	13352
 PART II ADMINISTRATION OF ACCESS	13352
 PART II MARKET ACCESS AND TREATMENT	15641
@@ -2136,7 +2163,7 @@ Promote AI Incubators and Accelerators	14566
 Promote Access	17870
 Promote Accessibility and Usability	11952
 Promote Continuous and Inclusive Access	7405
-Promotion of Access	1009,596,2357,1571,191,82,318,559,2551,1945,2,15,69,721,61,1223,954,133,316
+Promotion of Access	1009,596,2357,1571,191,82,318,559,2551,1945,2,15,69,721,61,1223,954,133,316,3632
 Promulgation of Access	1025
 Proposed Project Restructuring of Acceleration	15802
 Protection of Personal Data and Access	1906
@@ -2197,6 +2224,7 @@ REQUEST FOR ACCESS TO MICRODATA	16189
 REQUEST FOR REPHASING OF ACCESS	17909
 REQUESTS FOR REPHASING OF ACCESS	17209
 RESTRUCTURING OF MOZAMBIQUE DIGITAL ACCELERATION PROJECT	1228
+RESTRUCTURING OF Senegal Digital Economy Acceleration	18359
 RETAIL PAYMENTS ACCESS POINTS FOR SENDING	13388
 REVIEW OF UNSERVED AREAS AND ACCESS	11857
 REVISED ACT UNIVERSAL ACCESS	16594
@@ -2237,6 +2265,7 @@ Refugees' Access	12227
 Regime de Open Access	15684,5
 Regime for Open Access and Technology Neutrality	16884
 Regional Access Increase and Sustainable Energy Project	17353
+Regional Electricity Access And BEST Project	18374
 Regional Entrepreneurship Acceleration Programme	12589
 Regional Financial Access Acceleration Team	11994
 Regional Off-Grid Electricity Access Project RPF	11549
@@ -2277,6 +2306,7 @@ Results Acceleration Program for Inclusive Development	3604
 Results Acceleration Program for Inclusive Digitalization	1649,1955,176
 Results Report Angola Digital Acceleration Project	2712,3867
 Results Report Congo Digital Acceleration Project	11971
+Results Report Senegal Energy Access Scale	18355
 Retail Payments Access Points for Sending and Receiving	13388
 Revised Universal Access and Gap Analysis Report	1433,317
 Right of Access	3375,8810,1276,487,486
@@ -2335,6 +2365,7 @@ SUPPORTING ACCESS TO FINANCE AND ENTERPRISE	14546
 SUPPORTING EQUAL ACCESS ICTs	14879
 SURVEY ON ACCESS TO ENERGY	15574
 SZL Swaziland Lilangeni UAS Universal Access	12395
+Safety and Access	18125
 Salah Zouari. Accessible	14266
 Satellites Are Accelerating Health Tech	5378
 Scale Accelerators	2957
@@ -2365,7 +2396,10 @@ Securely and Remotely Access Services	11940
 Security and Access Control	10157
 Security and Data Protection Accessibility Decision Making	14790
 Sede Electrónica de Acceso	16855
+Senegal Digital Acceleration Project	18359
+Senegal Digital Economy Acceleration Project	18359
 Senegal Digital Economy Acceleration Project World	1190
+Senegal Energy Access Scale Up Project	18355
 Senior Director for Market Access Ryan Goodnight	6247
 Senior Director of Market Access and Development Ryan	10589
 Service Access	9781,2159
@@ -2430,7 +2464,7 @@ Strategic Universal Access and Service Interventions	16886
 Strategy Universal Access Objectives	14879
 Strategy for Accelerated Growth and Shared Prosperity	17934
 Strategy of Accelerated Growth and Promotion of Employment	11529
-Strengthen Access	14819
+Strengthen Access	14819,3312
 Strengthening Digital Access and Inclusive STEM Education	13671
 Structural Logic of Open Access	16814
 Studies The World Bank CAR Accelerating	15661
@@ -2495,7 +2529,7 @@ Telecommunications Institute AGPO Access	6946
 Telkom SOC Ltd’s Universal Service and Access	11259
 Temporary Limitation of Access	14434
 Tender Notice Access	13548
-Terms of Use Accept	11291
+Terms of Use Accept	11291,7101
 Test and Acceptance	16876
 Thailand Market Access Agreement	5583
 TheDataProtectionAct No24of2019.pdf. Accessed	12143
@@ -2596,14 +2630,14 @@ United Nations Innovation Technology Accelerator for Cities	8676,4327
 Univeral Access ECOWAS Engl	16594
 Universal Acceptance	9355
 Universal Acceptance. Universal Acceptance	9355
-Universal Access	22,5327,1597,817,2644,2566,322,17,1567,105,165,834,867,22,4,7,83,9,456
+Universal Access	22,5327,1597,817,2644,2566,322,17,1567,105,165,834,867,22,4,7,83,9,456,928,11
 Universal Access Account	16835
 Universal Access Annual Work	16850
 Universal Access Contribution	15149
 Universal Access Cove Crosswalk	193
 Universal Access Development Fund	3378,2012
 Universal Access Development Fund. The IMF	3378
-Universal Access Fund	718,496,1137,1232,475,1190,148,2220,5030,552,1951,1686,15,22,4,10,89,84,201,610
+Universal Access Fund	718,496,1137,1232,475,1190,148,2220,5030,552,1951,1686,15,22,4,10,89,84,201,610,263
 Universal Access Fund Gender and Women	16872
 Universal Access Fund V VSAT	14879,1993
 Universal Access Fund and Public Operators	718
@@ -2612,6 +2646,8 @@ Universal Access Funds	17059,201
 Universal Access Governing Board	16850,22
 Universal Access Implementation Committee	16850,22
 Universal Access Policy	16835,140
+Universal Access Program No Aug	18355
+Universal Access Program Steering Committee	18355
 Universal Access Programme	17228
 Universal Access Programme Management Office	11272
 Universal Access Project Implementation Unit	16850,22
@@ -2667,6 +2703,7 @@ Unlimited Natcom Digicel Acces Haiti Hainet	15471
 Unrestricted Public Access	12389
 Use Antirétroviraux Access	14622
 Use Cases and Accessibility	11130
+Use Only Senegal Energy Access Scale	18355
 Use Universal Access	16872
 Use of Expired Access	14546
 User Acceptance	34,15056,1758
@@ -2760,6 +2797,7 @@ Women's Entrepreneurial Access Center	12376
 Women's Entrepreneurship Access Centre	13346
 Women's Entrepreneurship and Access	16144
 Women’s Access	12389
+Word Tableur Excel ACCESS SPSS EPI-INFO	18169
 World Bank CAR Accelerating Results	15661
 World Bank Congo Digital Acceleration	15513,40
 World Bank Data Access Access	15844
@@ -2767,7 +2805,9 @@ World Bank Digital Malawi Acceleration	1704
 World Bank Digital Zambia Acceleration	2291
 World Bank Mozambique Digital Acceleration	1228,3425
 World Bank Mozambique Digital Acceleration Project	4653
+World Bank Regional Electricity Access	18374
 World Bank Results Acceleration Program	3604
+World Bank Senegal Digital Economy Acceleration	18359
 World Bank's Access	14010
 World Bank's Digital Acceleration Project	11918,4042
 World Bank-backed Kenya Digital Economy Acceleration	6587

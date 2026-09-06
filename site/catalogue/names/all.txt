@@ -8,7 +8,7 @@ AAUCA. All Rights Reserved	17307
 ACCEPT ALL	6181
 ACCESS TO EDUCATION FOR ALL	12975
 AES Alliance	6959
-AF. All	11965
+AF. All	11965,6409
 AFD Agence Française de Développement AFI Alliance	15023
 AFI Alliance for Financial Inclusion African Technical	17235
 AFRICA ALLIANCE OF YMCA Data Controller	7167
@@ -42,6 +42,7 @@ ALL Digitalization Report Launch	5241
 ALL ELIGIBILITY CRITERIA WILL PROCEED	13037
 ALL FAM TRADE	3868
 ALL FEATURES	12681
+ALL HANDS	18162
 ALL High Priority	899
 ALL IMPORTATION AND EXPORTATION	13067
 ALL LEVELS	15556
@@ -122,6 +123,7 @@ API Protection All APIs	11952
 API Standards All APIs	11952
 API for All Models CAIMEx	5226
 ARCT BURUNDI. All Rights Reserved	13353
+ARTP Sénégal Aller	18417
 ARV Antirétroviraux ATACH Alliance	15724
 AU and Smart Africa Alliance	1277
 AU-OHDAA. One Health Data Alliance Africa	16195
@@ -166,6 +168,7 @@ African Union. Alliance for Affordable Internet	13314,2179
 Afrique Aller	16419,1656
 Age Composition of PWDs All	12460
 Agence Fédérale Allemande de Coopération Internationale	16195
+Agence Nigérienne des Allocations	18143,27
 Agence du Développement Numérique. Allouer	17836
 Agriculture and Allied Sectors	17240
 Agro- Allied Companies	16947
@@ -235,6 +238,7 @@ All Deposit Money Banks	6935
 All Domestic Items	16935
 All Dx	12399
 All E R	13040
+All E&S	18355
 All E-waste	1988
 All EMIS Educational Management Information System	13960
 All EOI	14486
@@ -254,6 +258,8 @@ All FGS and FMS	14879
 All FGS and FMS Ministries	14879
 All FMSs	14896
 All FWA	12769
+All FWLR	18154
+All FWLRPart	18154
 All Farmers Association of Nigeria	5765
 All Federal and State	13948
 All Female Male Percentage Technical Report	10841
@@ -281,7 +287,7 @@ All Green	17367
 All HCI	13185
 All HRIS	34
 All HVAC	9123
-All Hands	5349
+All Hands	5349,12814
 All Heads of ICT	13308
 All High Court	13504
 All ICPC Members	3513
@@ -461,7 +467,7 @@ All of Sadc	8128
 All of Us	10188
 All the Census	16921
 All the Data	12146
-All the DisCos	12062
+All the DisCos	12062,6124,31
 All the ESCP	1264
 All the ESMPs	1988
 All the Goods and Related Services	13185
@@ -520,7 +526,7 @@ Allah-Maye Halina. Il	9281
 Allah. Minister of Energy and Renewable Energies Dr	16279
 AllahMaye Halina	5748,3533
 Allahu Subxaanahu	14859
-Allaitement	13300
+Allaitement	13300,5012
 Allaitement Allaitement	13300
 Allaitement Allaité	13300
 Allaitement Initiation	13300
@@ -558,7 +564,7 @@ Alleged Unfair Practices	9117
 Allegedly	13314
 Allegedly Sold Driver’s Licences	8639
 Allemag	13325
-Allemagne	643,1810,513,499,377,1187,1231,307,46,137,209,165,1767,976,460,44,1316,99,288,1251,1081,1094,39,619,297,110,1299,23,60,6,127
+Allemagne	643,1810,513,499,377,1187,1231,307,46,137,209,165,1767,976,460,44,1316,99,288,1251,1081,1094,39,619,297,110,1299,23,60,6,127,58,127,51,65,19,2,1,13,9
 Allemagne. Bureau	10712
 Allemagne. Par	10371
 Allemand	998,12392
@@ -588,7 +594,7 @@ Allgemeine Zeitung	3002,443,14,16,1606,536,7397
 Allgemeinen Zeitung	13014
 Alliamore	15692
 Alliamore NKABA ATSAMA	1594
-Alliance	1824,553,172,792,15,631,368,1136,458,10,135,137,138,911,53,412,254,503,253,93,200,659,99,583,158,182,90,55,91,1313,166,881,65,178,60,559,17,418,42,810,117,374,193,37,114,370,271,337,184,195,5,170,58,45,43
+Alliance	1824,553,172,792,15,631,368,1136,458,10,135,137,138,911,53,412,254,503,253,93,200,659,99,583,158,182,90,55,91,1313,166,881,65,178,60,559,17,418,42,810,117,374,193,37,114,370,271,337,184,195,5,170,58,45,43,118,17,26,64,42,11
 Alliance ATACH	14622
 Alliance Access Integration Platform	16942
 Alliance Better Than Cash	10711
@@ -598,7 +604,7 @@ Alliance Cloud	15699
 Alliance Côte	15711
 Alliance Firms	12232
 Alliance Française	13314
-Alliance GAVI	14622
+Alliance GAVI	14622,3483
 Alliance Gavi	15423
 Alliance Internationale Anti-corruption	15712
 Alliance KICA Kenya Information and Communications Act	7548
@@ -608,9 +614,10 @@ Alliance Sahel	643
 Alliance Smart Africa	15565,371,741
 Alliance Sorbonne Université	16406
 Alliance Summit	4114
+Alliance de Crédit	18286
 Alliance des	6959
 Alliance des Etats du Sa-	6959
-Alliance des Etats du Sahel	3993,66,2900,711,567,7439,441
+Alliance des Etats du Sahel	3993,66,2900,711,567,7439,441,2039,21,35
 Alliance des Etats du Sahel. Pour	3592
 Alliance des Startups	16672
 Alliance des Startups Deux	16672
@@ -643,6 +650,7 @@ Alliance for Health Policy and Systems Research	14622
 Alliance for Hippocratic Medicine	13040
 Alliance for Hydromel Development ASECNA Agency	11553
 Alliance for Hydromet Development	14448
+Alliance for Hydromet Development. The Alliance	18309
 Alliance for Innovative Regulation	12048
 Alliance for Innovative Regulation Institute	2203
 Alliance for International Medical Action	12003
@@ -658,7 +666,7 @@ Alliance of African Multilateral Financial Institutions	8472
 Alliance of Democrats	12669
 Alliance of International Science Organizations	14758
 Alliance of National and International Science Organizations	14140
-Alliance of Sahel States	2426,1499,469,46,469,671,306,1566,2208,287,13
+Alliance of Sahel States	2426,1499,469,46,469,671,306,1566,2208,287,13,8249
 Alliance's Grids	13228
 Alliance-wide	9806
 Alliance. Affirming	11183
@@ -696,7 +704,7 @@ Allmyt Summit	7244
 Allo CAIDP	3340
 Allo Goor Gi	8305
 Allocat1i2o.1n	10157
-Allocate	961,39,3528,716,289,5732,911,77,103,156,163,635,1508,61,118,247,469,1163,51,12,12,20,40,146,139
+Allocate	961,39,3528,716,289,5732,911,77,103,156,163,635,1508,61,118,247,469,1163,51,12,12,20,40,146,139,1074
 Allocated	1756,1,1,1,1,1,1,1,1,1,708,1110,7287,4683,110,306,63,47,693,222,49,53,374,35,453
 Allocated Allocation	16032
 Allocated Amountin USD	13392
@@ -705,7 +713,7 @@ Allocated Methodology	16079
 Allocates	1686,6918
 Allocating	12647,2387,1926
 Allocating Universal Service Subsidies Using Electronic	14674
-Allocation	11,1172,1290,2180,1779,1116,302,1909,1375,47,686,30,278,472,604,1681,149,57,26,176,133,463,33,56,7,155,32,620,95,223
+Allocation	11,1172,1290,2180,1779,1116,302,1909,1375,47,686,30,278,472,604,1681,149,57,26,176,133,463,33,56,7,155,32,620,95,223,1136,66,11
 Allocation Actuals	1228
 Allocation Complémentaire	15673
 Allocation Developing System and Network Developing Security	15164
@@ -717,6 +725,7 @@ Allocation and Source of Financing Components Commercial	13331
 Allocation and Source of Financing IDA IDA Commercial	1284
 Allocation de DTS	18063
 Allocation de Retraite	17448
+Allocation of Authority	18318
 Allocation of CTs	15663
 Allocation of Capacity	15081
 Allocation of Costs	17249
@@ -732,18 +741,19 @@ Allocations IPv4	17896
 Allocations PBC Performance-Based Conditions PCE Private	1264
 Allocations Per Province Province	11890
 Allocative	15663
-Allocution	13689,838,1307
+Allocution	13689,838,1307,2543,12
 Allocution de Monsieur Cheikh DIBA	15834
 Allocution de Monsieur le Haut-Commissaire	17474,15
 Allocution du Chef de File des PTF	2966
 Allocution du Président Bassirou Diomaye Faye	2442
+Allocution du Président du Conseil	18377,12
 Allocution of HE Mr Sid Ali ZERROUKI	15937
 Allongement	16047
 Allons	5029
 Allotey F.& Akorli F	236
 Allotted	16971
 Allouer	15568,2256,12,147
-Allow	2668,1318,1261,430,746,1565,586,1636,103,1559,3,74,28,64,287,31,333,1,232,59,134,4,355,544,92,834,653,267,996,13,362,109,523
+Allow	2668,1318,1261,430,746,1565,586,1636,103,1559,3,74,28,64,287,31,333,1,232,59,134,4,355,544,92,834,653,267,996,13,362,109,523,435
 Allow Aggrieved Bidders	12389
 Allow Eritrea	14023
 Allow Record	1988
@@ -782,7 +792,9 @@ Allègement	15542,457,2064
 Allègement ANDRIATSITOAINA Arison Rivo PREA des Procédures	14539
 Allègements	4567
 Allée du Chaillu	15908
-Alléger	15542,2321
+Allées Khalifa Ababcar SY	18423
+Allégations	18159
+Alléger	15542,2321,306
 Allérer	15429
 Allô ARPCE	3961
 Allô Ecole	15693
@@ -878,6 +890,7 @@ Budget Allocation Reported Expenditure Regional	3583
 Budget Allocations	3176,13687
 Budget Allouer	17824
 Budgetary Allocation	11860
+Building Resilience and Expanding Opportunities for All	18104
 Bujumbura. Allez	13405
 Bureau de Coopération Allemande	17953
 Burkina Faso. All	10812
@@ -919,12 +932,13 @@ Carbon Markets. The Alliance	14774
 Case Register and Allegations	11250
 Case Register and Allegations Annual Comparison	11250
 Cases Registered All TB	16971
+Casier Judiciaire. Allocations	18112
 Categories All	17140
 Categories Cybersecurity Allan Juma	9830
 Categories of TB Cases Number Percent All	16971
 Category Allocated Financed	11525
 Category Grant Allocated Financed	2474
-Category No. Expenditure Category Current Allocation	15969,218
+Category No. Expenditure Category Current Allocation	15969,218,2172
 Cell C All-in-One Plus	11259
 Census Information All	16921
 Central Bank of Eswatini. All	12343
@@ -962,11 +976,12 @@ Colonel ALLAKOUA	16100
 Combat Cybercrime. Allocate	1777
 Commission for Revenue Allocation	14422
 Commission. All	13248
-Committed Proposed Allocation Current Proposed	15969,218
+Committed Proposed Allocation Current Proposed	15969,218,2172
 Committed Proposed Allocation Financing	1228
 Committed Proposed Allocation Official Use Only	4653
 Communication All	395
 Companies and Allied Matters Act	11976
+Companiesand Allied Matters Act	18154
 Company All Rights Reserved. Copyright	12342
 Compatibility All	12246
 Competition and Antitrust Laws All	14008
@@ -1015,6 +1030,8 @@ DATE OF OCCURRENCE OF ALLEGED INFRINGEMENT	2709
 DE LA CTA. ALLEZ	13300
 DE L’INITIATIVE ETRADE FOR ALL	17881
 DEFINITIONS Ministry of Health All	34
+DES ALLOCATIONS ET DES BOURSES ANPE	18143
+DEVELOPPEMENT HUMAIN GLOBAL ALLIANCE FOR VACCINATION	18105
 DGSSI2026 All	17500,34
 DHIS2. All	10833
 DIGITAL SKILLS FOR ALL	14752
@@ -1160,7 +1177,7 @@ Electoral Allocation of Seats Constituency City of Maputo	12201
 Electrification Rurale AES Alliance des Etats du Sahel	15769
 Electronic Search Available for All Company Records	12389
 Elimination of All	16951
-Elimination of All Forms of Discrimination	3583,7610,92,480,436,839,3876,34,1,7,976
+Elimination of All Forms of Discrimination	3583,7610,92,480,436,839,3876,34,1,7,976,375
 Elimination of All Forms of Discrimination Against Women	3005,2528,5232,10,1211,215,738,66,28,64,1475,170,132,730,1510
 Elimination of All Forms of Racial Discrimination	10765,10,990,1332,4837
 Elimination of All Forms of Racial Discrimination. Article	12201
@@ -1231,7 +1248,7 @@ Forms Licensing and Authorisation Media Centre All	9109
 Foster Digitally Inclusive Education for All	13991
 Foster Digitally Inclusive Education for All Diagrammatic	13991
 Foster Digitally Inclusive Education for All Digital	13991
-Founding Conference of International Solar Alliance	18016
+Founding Conference of International Solar Alliance	18016,204
 Framework All	12512
 Free and Secure Digital Future for All. United	11028
 French. All	15901
@@ -1300,6 +1317,7 @@ Goods and Non-Consulting Services All	15518
 Google Agnes Mlambo Bryce Allan Chris	9769
 Google Scholar Southern Alliance	11028
 Google Search Allegedly Boosts YouTube Results	13461
+Gouvernement du Sénégal Aller	18334
 Governance Duty All	3861
 Governance Framework All	12240
 Government Applications All	11854
@@ -1308,6 +1326,7 @@ Government of Liberia Budget Allocations	17116
 Government of Malawi. All	12917
 Government of Mozambique. All	4260
 Government of Rwanda. All	4167
+Government of Senegal. All	18318
 Government of Uganda. All	4217
 Government. All	13312,2
 Governments All	13312
@@ -1459,7 +1478,7 @@ International Academic Alliances International	15713
 International Big Cat Alliance. Formal	16256
 International Disputes All	3861
 International Gaucher Alliance	10188
-International Solar Alliance	2787,8396,396,1400,530,235,1375,1045,92,19,10,693,262,776
+International Solar Alliance	2787,8396,396,1400,530,235,1375,1045,92,19,10,693,262,776,204
 International Solar Alliance Agreement. Visits	16164
 International Solar Alliance Framework Agreement	18016
 International Standards Certificates. All	6432
@@ -1496,6 +1515,7 @@ LIST OF ALL INDIVIDUALS WHO NORMALLY	17127
 Lagos All	18091
 Land Allocation	11261
 Land Platform. All	12211
+Land Use and Allocation Plan	18293
 Language Support All	11952
 Large VAT All VAT Large VAT	12500
 Lauren Allognon	10763
@@ -1623,6 +1643,7 @@ Mobile Money Subscriptions All	12601
 Mobile Phones Man Arrested for Allegedly Impersonating	3955
 Mohammed Abdelmouttalib Allab	15863
 Monsieur Boureima Allaye TOURE	17861
+Monsieur El Hadji Allé Birima FALL	18412
 Montant TOTAL Alliance for Health Policy and Systems	14622
 Motor Vehicle Allowance	13096
 Mount Pleasant. Harare. All	736
@@ -1634,6 +1655,7 @@ Muhimbili University of Health and Allied Sciences	1261,7353,3009
 Municipality Programme Allocations	11890
 Mutual Aid and Diaspora Alliances	6947
 NATIONAL BUDGET ALLOCATION	11285
+NATIONALE DES ALLOCATIONS ET DES BOURSES	18170
 NBC Battle of All	13044
 NBC Battle of All Games. Communique Wagon	13044
 NICO Holdings and Investments Alliance Limited	14674
@@ -1674,6 +1696,7 @@ National Security All	5773
 National Spectrum Allocation Plan	16839
 National Sports Complex All SessionsKeynotesPanel	14776
 National Super Alliance	9645
+Nationale Allemagne Santé	18105
 Net Profit Allocation	14032
 Net Zero Banking Alliance and Net Zero	13532
 Network Uptime Across All Regions	12951
@@ -1694,10 +1717,12 @@ Numérique Allocution du Président	15458
 Nursing Trainee Allowance	7695
 OBSERVÉ ALLAIT- TEMENT	13300
 OECD Principles GOAL Governance Mandates for All	16212
+ONG Financial Alliance for Health	18326
 OPEN DATA AND REGULATION All	12419
 Officer Allan Tamba	14175
 Official Gazette. All	10004
 Official Use Only Allocated Frequency	736
+Offshoring. Allier	18319
 Old Lands All	15473
 Older Allocation	2775
 Older Car Models Not Allowed	7176
@@ -1918,9 +1943,12 @@ SADC Frequency Allocation Plan	7850,239,84
 SADC Frequency Allocation Plan. ICASA	7827
 SAFETY AND SECURITY ACCESS ONLY ALLOWED	11964
 SAMPLE ALLOCATION BY REGION AND COUNTY	17043
+SAMU Units. Allocation	18370
 SATA. All	10819
 SCHEDULE AN INTERVIEW WITH ALL	17127
 SCOOPAFRIQUE Aller	11673
+SE4ALL Sustainable Energy for All SENELEC Société	18316
+SE4ALL Sustainable Energy for All SIG Système	18103
 SECTOR ALLOCATION	17105
 SECTOR DIGITAL STRATEGIC PLAN All	14921
 SEP. All	3161
@@ -1971,6 +1999,7 @@ Section Evaluation Criteria Points Allocation Weight	11240
 Sector Alliance	7548
 Sector MINTER All Agencies	15845
 Sectoral Allocation of AI-Enabled Productivity Gains	2957
+Secure Identity Alliance	18290
 Secure Identity Alliance Discussion Paper. GSMA	10819
 Secured Storage of Allocate	12253
 Security Alliance DAST Dynamic Application Security	11952
@@ -2070,6 +2099,7 @@ TORs. All	17068
 TWG. All	14889
 Table of Frequency Allocations	7850,8989
 Take the Survey All	17646
+Talixman. All	18317
 Tanzania Allocates USD	5715
 Tanzania and Uganda. The EAC AI Alliance	9707
 Tanzania. Muhimbili University of Health and Allied Sciences	1261
@@ -2135,6 +2165,7 @@ UNICEF and Smart Africa Alliance	13262
 UNITY PARTY ALLIANCE BEGINNING	10581
 UN’s Early Warnings for All	15120
 USA. All	12541
+UTC. All	18309
 UbuntuNet Alliance	77,1627,2136,4160,3918,3246
 Uchenna Allows Policemen	10034,231
 Underserved Communities All Request	17099
@@ -2156,6 +2187,7 @@ Universities All	958
 University of Health and Allied Sciences	9420,10,106
 Upgrade and All	11857
 Upkeep Budget Allocation	16963
+Use and Allocation Plan	18293
 Use of Open APIs All	6432
 Users All	34
 VALIDATION AND APPROVAL PROCESS All	17287
@@ -2179,6 +2211,7 @@ View Related Blogs View All Niger	10358
 Vision One Unique Identity for All	15062
 Visit the Digital Public Goods Alliance Roadmap	3720
 WCAG Compliance All	11952
+WIGOS. All	18309
 WILL ALLOW FOR The SIS	15590
 Warns Against Media Intimidation Cummings Alleges	4261
 Water Allocation and Regulation The CWA	14745

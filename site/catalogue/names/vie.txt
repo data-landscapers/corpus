@@ -30,7 +30,7 @@ CONDITIONS DE VIE	13300
 CORNER VIEW LIMITED Data Controller INST-237909FEEAA	7167
 CRATER VIEW AUCTIONEERS Data Processor INST-6296581CC35	7167
 Cabinet No Result View All Result	5774
-Cadre de Vie	3045,1824,1431,4614,4603,240,179,176,279,27,67,136,963
+Cadre de Vie	3045,1824,1431,4614,4603,240,179,176,279,27,67,136,963,695
 Cadre de Vie Culture	4895
 Cadre de Vie Je	15624
 Cadre de Vie Site Officiel	15936
@@ -45,7 +45,7 @@ Conditions de PDDSEB PHMECV Vie	737
 Conditions de PNLE Vie des Ménages	17945
 Conditions de Vie	737,14401,2706,243
 Conditions de Vie des Menages Harmonisée	15661
-Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33
+Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33,122
 Conditions de Vie des Ménages DSSE	10874
 Conditions de Vie des Ménages EIPBF	10874
 Conditions de Vie des Ménages Faculté des Sciences	17978
@@ -55,7 +55,7 @@ Conditions de Vie des Ménages Résumé	13804
 Conditions de Vie des Ménages. The Oxford Poverty	16384
 Conseil National de Lutte Contre la Vie Chère	15712
 Consomma Vie Chère	15712
-Convention de Vienne	15429,168,88,589,182
+Convention de Vienne	15429,168,88,589,182,1662
 Convention de Vienne. Révision	16328
 Council of Ministers View Profile	5775
 Cycle de Vie du Développement du Système	13341
@@ -161,6 +161,7 @@ Orlando Mendes Viegas	11561
 Oumar Vieux DEMBELE Secrétaire	17841
 PARTICIPATION A LA VIE CULTURELLE ET	15732
 PGR. Viewed	9399
+PROGRAMMES DES SCIENCES DE LA VIE	18099
 Pakistan Republic of Korea Singapore Thailand Viet	10764
 Patrick Vieira A Dit	4960,62,2035
 Paul Viet-Minh Nguyen	17896
@@ -177,6 +178,7 @@ PubMed Google Scholar Giulia Natali View	10784
 PubMed Google Scholar Janet Adão View	10784
 PubMed Google Scholar Joaquim Tomas View	10784
 PubMed Google Scholar Neusa Lazary View	10784
+QUAND L’ESPACE VIENT	18324
 Rapidly Developing Thunderstorms. Auto-update. View Today	14256
 Readers Also Viewed These Items	415
 Resource-Based View	11107
@@ -190,6 +192,7 @@ Roberto Vieira	9323
 Roberto Vieira. Acrescentou	17012
 SA Activa VIE SA	16623
 SAHAM Assurances Vie Exploit	10821
+SAUVER DES VIES ET PROTÉGER	18265
 SI EN VIE	13300
 SIMPLIFIEZ-VOUS LA VIE	15625
 SOEs. Authorities’ Views	13868
@@ -261,7 +264,7 @@ Venture Capital Fundraising Viewing	4972
 ViEqFS	10812
 Vie Associative	16381
 Vie Bénin FECECAM-Bénin Isocel Télécom-Bénin FECECAM-Bénin	10821
-Vie Chère	15625,1,86,224,239,206
+Vie Chère	15625,1,86,224,239,206,1788
 Vie Chère Associations	15712
 Vie Chère Henri-Claude OYIMA	16020
 Vie Chère Henry-Claude OYIMA	15778
@@ -270,13 +273,16 @@ Vie Etudiante	16175
 Vie Privée	548,683,9590,3020
 Vie Privée. Article	1231
 Vie Privée. Le Secrétariat Général	1231
+Vie Universitaire Personnel Administratif	18121
 Vie des Ménages	18077
+Vie-Publique.sn	18333
+Vie-Publique.sn URL	18333
 Viebeg Technologies	11140
 Viega	10775
 Vieider FM. Responsibility	10780
 Vieilledent G	16463
 Vieilles	15493
-Vieillissement	14622,1415
+Vieillissement	14622,1415,2278
 Vieira	9323,7673,316
 Vieira Dias	9399
 Vieira Diretor Geral de Planeamento	15694
@@ -285,11 +291,11 @@ Vieira Te	11579
 Vielfalt. Die Bevölkerung	694,1
 Vienna	718,1017,382,3639,6247,322,647,184,468,1514,373,214
 Vienna Agreement	15860
-Vienna Convention	573,670,2618,9526
+Vienna Convention	573,670,2618,9526,4731
 Vienna Declaration and Programme	3583
 Vienna Declaration and Programme of Action	3583,7627,5664
 Vienna Institute for Global Studies	4343
-Vienna Programme of Action for LLDCs	10844
+Vienna Programme of Action for LLDCs	10844,7279
 Vienna Telephone	1735
 Vienna University of Technology	11572
 Vienna. Page	15138
@@ -363,6 +369,7 @@ View Saved	11276
 View Submitted	11276
 View Taxpayer Profile	14533
 View Tender Details Tender	13621
+View Tom Foot and Dapo Awobeku	18281
 View View	10878
 View Volume	5349
 View the United Nations	8628
@@ -371,7 +378,7 @@ View.faces	126
 Viewed	4972,1631,132,733,460,498,552,1223,259,4106,107,1278
 Vieweg	2518,4785
 Viewer	3972,12917
-Viewer.aspx	15346,5,2184
+Viewer.aspx	15346,5,2184,560
 Viewing	2096,2336,244,3345,2996
 Viewpoint Comparing National Approaches	1824
 Views	7697,1,1,78,92,45,160,90,202,1065,646,707,220,324,766,1072,1579,32,2500,643

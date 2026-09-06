@@ -1,7 +1,7 @@
 AFYA SPRINGS MEDICAL CENTER GATHIGIRIRI Data	7167
 AIC GATEGI CHURCH Data Processor INST-5299072EFF1	7167
 AIC GATERO CYDC Data Controller INST-5233212BCA3	7167
-API Gateway	5533,1688,5198
+API Gateway	5533,1688,5198,6009
 API Gateway Principales Stockage	15583
 API Gateways	12419
 API PNG Gateway	4275
@@ -26,6 +26,7 @@ Asia United Gateway East	1766
 Auditor General Nancy Gathungu	2512,3
 Aymard Gatien Romaric MAYOGHO IKABANGA	16175
 B. Smart Licensing and Supervisory Gateway	4848
+BHCPF Gateways	18162
 Background Global Gateway Forum The Global	11226
 Bank Indonesia. National Payment Gateway	11994
 Bill Gates	1038,223,907,648,840,1125,2785,31,4703,1969,3491
@@ -67,9 +68,10 @@ Dr. Eunice Gathitu	9855
 Dubai's Smart Gates	1713
 E-Commerce Gateway	16878
 EAPC GATUKU CHURCH Data Processor INST-47193092E5F	7167
+EEAS Global Gateway	18425
 EOC and Anticipatory Action SOP Development Gateway	12241
 EPM Payment Gateway	14185
-EU Global Gateway	1129,1024,1308,1189,13,836,4,3043,2609,2102,610,2277
+EU Global Gateway	1129,1024,1308,1189,13,836,4,3043,2609,2102,610,2277,2028,220
 EU Global Gateway Agreements	6743
 EU Global Gateway EuinMoz2026 The Mozambique	6743
 EU Global Gateway Strategy	6743
@@ -86,6 +88,7 @@ EU's International Digital Strategy and Global Gateway	12843
 EU-Nigeria Digital Package and Global Gateway Strategy	10573
 EU-Nigeria Global Gateway	14027
 EU’s Global Gateway	5099,3176,2317,3059,3780
+EU’s Global Gateway. The AMSAF	18392
 Economic Gateways	17260
 Editorial Team The Satellite Gateway	5976
 Energy Agency IGTVS International Gateway Traffic	718
@@ -111,7 +114,7 @@ FDMS Fiscal Device API Gateway	13606
 FSCA. Gateway	12867
 FSDT and Gates Foundation	2858
 Fiscal Device API Gateway Requirements Specifications	13606
-Fondation Gates	3099,1
+Fondation Gates	3099,1,15037
 Fondation Gates. Figure	14622
 Founder of Phoenix Analytics Ms. Susan Gatura	14555
 Fuel Fiscal Device Gateway API	13606
@@ -159,7 +162,7 @@ Gatekeeping The National Reality Check Platform	13649
 Gatenga	718
 Gatenga Kanombe Rwamagana District Ruramira Mukura	12413
 Gates	266,946,3569,186,397,867,526,809,31,2212,86,49,908,1112,2774,91,503,1787
-Gates Foundation	514,7,740,395,512,902,80,48,458,209,417,3,191,52,177,76,261,190,268,53,45,323,250,60,155,207,75,24,22,99,172,88,493,31,357,495,126,497,444,243,29,141,15,25,51,694,151,112,27,13,66,386,479,16,4,2,27,144,86,73,166,46,549,23,476,199,322,191,975,599,75,894,373,229
+Gates Foundation	514,7,740,395,512,902,80,48,458,209,417,3,191,52,177,76,261,190,268,53,45,323,250,60,155,207,75,24,22,99,172,88,493,31,357,495,126,497,444,243,29,141,15,25,51,694,151,112,27,13,66,386,479,16,4,2,27,144,86,73,166,46,549,23,476,199,322,191,975,599,75,894,373,229,714
 Gates Foundation Africa	13560
 Gates Foundation Norat	7065
 Gates Foundation Senior Program Officer Jeremiah	13061
@@ -244,7 +247,7 @@ Gatundu	9940
 Gatundu South MP Kagombe	9940
 Gatwe	13683
 General Art. XIV GATS	11154
-Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814
+Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814,1113,40,253
 Global Gateway Africa-Europe Investment Package	11288
 Global Gateway Afrique-Europe	1189
 Global Gateway Communication	11155
@@ -282,6 +285,7 @@ IGSS International Gateway Systems and Services IMEI	6946
 IM-managed Event Gateway	6423
 INFORMATION GATHERING	17249
 INFORMATION GATHERING Part A General	11181
+IRI And Gates Foundation Launch ENACTS	18131
 ITOUA GATO	16177
 ITU Radio Regulations. Gateway Earth Station	2913
 Ignace GATARE Chairperson	718
@@ -330,12 +334,13 @@ Mastercard Global Payment Gateway Services	12273
 Media Gateway	15542
 Melinda GATES	10874
 Melinda Gate	17882
-Melinda Gates	16421,223,755
-Melinda Gates Foundation	65,1,1,1,1,1,1,1,1,1,1,1,54,1,1,1,1,1,1,1,1,1,1,1,60,1,1,1,1,61,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,82,1,1,1,1,1,1,1,1,1,1,109,1,1,1,1,1,1,1,1,1,1,160,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,195,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,208,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,91,34,15,207,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,658,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,992,472,316,43,447,6335,898,189,3,290,35,274,33,2877,4,506,1054,894
+Melinda Gates	16421,223,755,983
+Melinda Gates Foundation	65,1,1,1,1,1,1,1,1,1,1,1,54,1,1,1,1,1,1,1,1,1,1,1,60,1,1,1,1,61,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,82,1,1,1,1,1,1,1,1,1,1,109,1,1,1,1,1,1,1,1,1,1,160,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,195,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,208,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,91,34,15,207,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,658,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,992,472,316,43,447,6335,898,189,3,290,35,274,33,2877,4,506,1054,894,262
 Melinda Gates Foundation CBCC	12175
 Melinda Gates Foundation and Omidyar Network	10812
 Melinda Gates Foundation. INTRODUCTION Mobile	11902
 Melinda Gates. Elle	13390,2891
+Melinda Gates. Le Niger	18105
 Mme Elsa GATSONO	15685
 Mobile Gateway	14965
 Morris Gatheru	14551
@@ -418,6 +423,7 @@ South Sudan International Gateway	4654
 SpaceX’s Gateway Earth Station and User- Terminal	6891
 Steel Gate	16963
 Strategic Framing If Global Gateway	11155
+Stratégie Global Gateway	18425
 Sulfo Rwanda Industries Gatenga	718
 Super Gate	6472
 Super Gateway	13295

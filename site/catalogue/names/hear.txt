@@ -39,11 +39,11 @@ Hearing Difficulty	16921
 Hearing Impairment	12460,2315
 Hearing Time	14675
 Hearing-Determination	17243
-Hearings	12062
+Hearings	12062,6124,31
 Hearings and Enforcement	17243
 Hearings and Enforcement PART V	17243
-Hearings and Public Consultation	12062
-Hearings and Public Consultations	12062
+Hearings and Public Consultation	12062,6124,31
+Hearings and Public Consultations	12062,6124,31
 Hearings of Tax Tribunal	12629
 Hearst Magazines	13461
 Heart	4528,5832,1298,493,361

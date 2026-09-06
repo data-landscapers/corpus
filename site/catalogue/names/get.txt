@@ -43,7 +43,7 @@ GET Teams	10347
 GET-trust-fund	3431
 GET.Transform Support Programme	12969
 GET.invest and GET.transform	12962
-GET.transform	11936,744
+GET.transform	11936,744,5642
 GET.transform Energy System Transformation	11936
 GET.transform Global Energy Transformation	12962
 GET.transform Launches EU-funded Country Window	11936
@@ -115,7 +115,11 @@ Gets Harder	6947
 Gets Selected	6947
 Getting	961,2018,985,468,538,1104,873,113,384,345,391,547,130,41,213,537,324,21,82,598,285,59,118,1064,168,42,323,9,181,687,588,36,418,72,619,1259,198,84,1,1,815,338
 Getting Back	15491
-Getting Credit	12376
+Getting Credit	12376,5733
+Getting Credit Figure	18109
+Getting Credit Score	18109
+Getting Electricity	18109
+Getting Electricity Score	18109
 Getting Eswatini	5799
 Getting ID	15220
 Getting It Right	8088

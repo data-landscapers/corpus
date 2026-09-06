@@ -83,7 +83,7 @@ Academia. ZIMSTAT	13359
 Academias	15689
 Academias TIC	10490
 Academia’s Role	10776
-Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595,350,146,20,2189,212,27,8,7,77,268,389,160,1130,271,35
+Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595,350,146,20,2189,212,27,8,7,77,268,389,160,1130,271,35,1127
 Academic Achievement of Students	12411
 Academic Advisor Jayant Vijayakumar	4656
 Academic Affairs	6936,10799
@@ -157,11 +157,13 @@ Academy of Science	10451
 Academy of Science of South Africa	5246
 Académica	4209
 Académicas	16965
-Académie	4402,3268,599,1006,2370,1645,1376,823,118,564,289,1370
+Académie	4402,3268,599,1006,2370,1645,1376,823,118,564,289,1370,456,126
 Académie Internationale de Droit du Numérique	11645
+Académie MSF	18267
 Académie Nationale du Leadership Féminin	17471
 Académie des Sciences	15936
 Académie des Sciences du Mali	12
+Académie des Sciences du Niger	18143,27
 Académie. Art	16171
 Académie. Au	16171
 Académie. Elle	16171
@@ -190,6 +192,7 @@ Agricultural Research Council ASSAf Academy of Science	5246
 Akieni Academy	16244
 Akieni Academy Gigie Pambou	16244
 Akieni Academy URL	16244
+Alibaba Cloud Academy. Félicitations	18375
 American Academy of Political and Social Science	15661
 Anda Academy	10789,1
 Ano Académico	11391
@@ -214,7 +217,7 @@ CISCO Networking Academy	12361,46,565,4260
 CITY ROSE ACADEMY LIMITED Data Processor	7167
 CUNY Academic Works	1261
 Campus Academic Planning	17232
-China Academy of Information and Communications Technology	7174,4628,2469
+China Academy of Information and Communications Technology	7174,4628,2469,4078
 China Academy of Space	12545
 China’s Academy of Military Sciences	8510
 Chinese Academy of Sciences	14140,618
@@ -289,6 +292,7 @@ Events CISCO Networking Academy UNESWA Cisco	12361
 FREQUÊNCIA ACADÉMICA NA REPÚBLICA ARGELINA DEMOCRÁTICA	11472
 Fab Academy	8895,160
 Faso IPv6 Academy	7010
+Federated Repository of Academic Theses and Abstracts	18206
 FiberOne Training Academy	10742
 Fido Academy	17684
 Fogo Business. Formação Académica	15978
@@ -342,7 +346,10 @@ ICT. Rwanda Coding Academy	770
 IDENTIC ACADEMY	16942
 IFMIS Academy About Academy Training Schedule	12322
 INTELLIGENCE ACADEMY	11277
-ITU Academy	8945,4567,3193
+ITU Academy	8945,4567,3193,1625
+ITU Academy Search	18330
+ITU Academy Training Centres	18330
+ITU Academy URL	18330
 IaaS Computing Resources Academic	15713
 Indicator Summary Academic	15164
 Industry-Led Skills Academies	4528,7984
@@ -405,12 +412,14 @@ Namibia. Academic	5036
 National AI Academy	7853,678
 National AI Governance Academy	4528,7984
 National Academic Digital Library of Ethiopia	13991
+National Academic Publication and Indexing Database	18206
 National Academies of Sciences	12265
 National Academy of Information Technology for Persons	16046
 National Anti-Corruption Academy	15719
 National Police Leadership Academy	14505
 National Research and Academic Network LTA Liberia	1777
 Networking Academy	10247,2114
+Niger Basin Authority. ACASIS	18309
 Nigeria Startup Digital Innovation Academy Establishment	11309
 Nigerian Academy of Science	7187,8134
 Nigerian Youth Academy	9919,4786
@@ -428,6 +437,7 @@ OpenAI Academy	5042,1673
 Ostafrika Academic Center for Digital Innovation	178
 Oxford Academic. Amoretti	10841
 POTRAZ ZIMCHE Academia Parliament Service	958
+PRINCIPAUX INDICATEURS ANNÉE ACADÉMIQUE	18143,27
 PTA Professional Academy of Teachers QA Quality	15604
 Paradigm Initiative’s Digital Rights Academy	7101
 Parcerias Académicas	15684
@@ -496,6 +506,7 @@ Specialized Operators and Academia	10348
 Sports Academy	10399
 Sr. D. Acacio Mba Ndong Director	16864
 Strengthen Academia	14819
+Strengthen Academic Records Integrity URL	18206
 Student Academic Portal	13080
 Student Engagement and Academic Performance	16963
 Students and Young Professionals African Liberty Academy	11827

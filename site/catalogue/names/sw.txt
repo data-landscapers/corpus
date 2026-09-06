@@ -118,6 +118,7 @@ Education Cluster. The SWAp Secretariat	12175
 Effective SWP	14997
 Egypt and Switzerland	14101
 Electronic Payment Switch	16876
+Embassies of Qatar and Switzerland	18215
 Embassy of Sweden	377,2870,8945,309,4448
 Embassy of Switzerland	15222
 Engineering and Mathematics SWOT Strengths	12512
@@ -173,6 +174,7 @@ Gabriël Swanepoel	13275
 Gambia Interoperability Switch Program	4254,12861
 Gambia Interoperability Switch Program. Real-time	4254
 Gambia's National Payment Switch Press	17115
+Gaz SWER Single Wire Earth Return	18103
 Gb F32 Interconnect Switches	11209
 Gb F8 Interconnect Switches	11209
 Gb Switches	11209
@@ -199,7 +201,7 @@ IMIS. The Swiss Tropical and Public Health	10970
 IMTT Affects Every Swipe and Transfer	3016,2546
 INCLUSIVE GAMBIA Germany Japan Sweden Switzerland	16973
 Impersonation Sim Swap Related Fraud Remittance	17362
-India CIS Europe Russian Federation Switzerland	10844,719,6180
+India CIS Europe Russian Federation Switzerland	10844,719,6180,380
 Innovation SWOT Strength	4126
 Instant Core Payments Switch	12269
 Instant Payment Switch	6355
@@ -236,6 +238,8 @@ Kundai Ngwena and Swaraj Ram	1814
 LAN Ethernet Switché	17823
 LTA Unveils Sweeping Telecom Reforms	7410
 LV Voltage Swells HV	14867
+Le SWER	18103
+Le SWS	18103
 Le Switch	13452,16
 Lesotho National Payment Switch	1908
 Letshego Bank Eswatini and Swaziland Building Society	13123
@@ -284,6 +288,7 @@ Multi-Protocol Label Switching	12769
 Multiprotocol Label Switching Virtual Private Network	5883
 Muuo SW	12231
 Médias MPLS Multi Procol Label Switching	13341
+NE110 Code Swift	18194
 NEPS National Electronic Payment Switch NEPSIC	16876
 NRC Namibia Refugee Committee SWA South	12947
 NSS SWOT	13359,3568
@@ -370,6 +375,7 @@ Regional Offices SWMU	14742
 Registration for SWA IDs	12367
 Remittances for Development Sweden	377
 Report and SW	11869
+Reproduction SWEDD	18100
 Resident of Swaziland	12405
 Review and Enable SWOT Strengths	15556
 Romania Slovakia Switzerland T1 Role-modelling Belgium	10764
@@ -416,6 +422,9 @@ SWALIM Completes Cultivable Areas Analysis for Somalia	15129
 SWALIM Publications	15285
 SWALIM Refer	15129
 SWALIM-established	15129
+SWAMI AGRI	18322
+SWAMI AGRI SAU	18322
+SWAMI AGRI. L’instruction	18322
 SWANA	12088
 SWAPO	1981
 SWAPO Party	13024
@@ -429,9 +438,10 @@ SWAZIINFO	12962
 SWAZILAND GOVERNMENT GAZETTE EXTRAORDINARY VOL. LVI	12916
 SWAZILAND NATIONAL CURRICULUM FRAMEWORK FOR GENERAL	12914
 SWAZSZMB	12252
+SWAp Coordination Office	18253
 SWAp and National Health Insurance Authority	4301
 SWCES	15878,722
-SWEDD	17946
+SWEDD	17946,154
 SWEDD HAWH2 Anta Tall Diallo Procurement	16922
 SWEDFUND	2373
 SWEEP NOTE	10144,160
@@ -486,6 +496,8 @@ SWIPSS and SWIFT	12484
 SWIPSS. Five	12484
 SWIR II	16875
 SWIR1	16875
+SWISS UMEF	18170
+SWISS UMEF UNIVERSITY OF NIGER	18170
 SWITCH	12325,4553,989
 SWITCH-ON CEREMONIES ROUND-UP	13451
 SWITCH. In Liberia	16144
@@ -511,12 +523,17 @@ SWOT Analysis for DRMS	17011
 SWOT Analysis for DRMS This SWOT Analysis	17011
 SWOT Digital Economy	12512
 SWOT Forces	15474
+SWOT L’examen	18105
+SWOT Organisation	18297
+SWOT Orientations	18297
+SWOT Plateformes	18297
 SWOT Strengths	16927,269
 SWOT Strengths-Weaknesses-Opportunities-Threat	13306
 SWOT TADAT TVA Communauté	16328
 SWOT of GHS	1034
 SWOT. Desta	11569
 SWOTs	16943
+SWS Shield Wire System	18103
 SWVL’s US	12339
 SWY RWY	16552,454
 SWY Slope Dimensions PA	16552,454
@@ -565,6 +582,7 @@ Suriname No Sweden Yes Digital Agenda	11529
 Suriname Sweden Switzerland Syrian Arab Republic	11765
 Sushma Swaraj Foreign Service Institute	17240
 Sushma Swaraj Institute of Foreign Service	13744,47,1328
+Sushma Swaraj Institute of Foreign Services	18378
 Svalbard and Jan Mayen Sweden Switzerland Syria	11470
 Swagger	6423,5529,5950
 Swahili	1261,459,6,52,1818,26,104,361,352,418,23,9,195,355,971,183,112,9,234,761,3,157,52,174,109,2,346,128,162,1980,211,130,334,730,4,633,678,202,30,319,2684
@@ -776,7 +794,7 @@ Swinhoe	3598,1078
 Swiss	1884,440,288,1515,504,23,1167,127,1470,2378,1174,1942,1805,756
 Swiss Agency for Cooperation and Development	10970
 Swiss Agency for Development Co-operation	3274
-Swiss Agency for Development and Cooperation	8456,529,1756,401,818,1546,1429,150
+Swiss Agency for Development and Cooperation	8456,529,1756,401,818,1546,1429,150,3251
 Swiss Attorney General	4127
 Swiss Center for International Health	10919
 Swiss Confederation	1344,10242,5659
@@ -841,14 +859,14 @@ Switching System	16844
 Switching and Processing Licence Granted	11138
 Switchs Layer	17823
 Switzer-	17743
-Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351,930,217,170,2,91,7,242,7,103,132,120,747,51,351,81,172,508,242,95
+Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351,930,217,170,2,91,7,242,7,103,132,120,747,51,351,81,172,508,242,95,45
 Switzerland Agriculture	970
 Switzerland EUR HI	17743
-Switzerland Email	10764,80
+Switzerland Email	10764,80,7279
 Switzerland Geneva	10764,80,719,3908,2272
-Switzerland ISBN	10764,799,6180
+Switzerland ISBN	10764,799,6180,380
 Switzerland Identity Card	10714
-Switzerland Office of Deputy Director and Regional Presence	10764,80
+Switzerland Office of Deputy Director and Regional Presence	10764,80,7279
 Switzerland Published	10844,4627
 Switzerland Rwanda’s National Heroes Day	15131
 Switzerland Sensi Tech Innovation Hub Sierra	15460
@@ -873,6 +891,7 @@ Sworn	10841,3569,318,152
 Sworn Affidavit	11209
 Swvl’s US	4972
 System Transformation Grant SWAp	12175
+Systematic Observations Financing Facility SWIFT	18309
 TIDE Africa Fund II Swedfund	949
 Tanzanian and Kenyan Swahili	4439
 Taylor Swift	13461

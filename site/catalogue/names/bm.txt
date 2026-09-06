@@ -17,12 +17,12 @@ Automated System for Customs Data BMS	13053
 Autoridade Reguladora de Energia Atómica BM Banco	11376
 Ayumuna BM	14666
 BAM Bank Al-Maghrib BM Banque	7655
-BGFIBANK BMS BNI BOA BRIDGE BANK	11588
+BGFIBANK BMS BNI BOA BRIDGE BANK	11588,6682
 BI Business Intelligence BM Banque Mondiale	10712
 BM Afrique	14401
 BM Appui Technique	13433
 BM Assainissement	643
-BM Banque	18015
+BM Banque	18015,301
 BM Conception	17896
 BM En	15799
 BM Equipe	16012
@@ -80,7 +80,7 @@ BML FOUNDATION LIMITED Data Controller INST-60520838E6C	7167
 BML FOUNDATION LIMITED Data Processor INST-60520838E6C	7167
 BMP Economic Consulting	7345
 BMPA Le Conseil des Ministres	2342
-BMS BNDA BSIC MALI CORIS BANK	11588
+BMS BNDA BSIC MALI CORIS BANK	11588,6682
 BMS Electronic Border Management System	12947
 BMS MOOV MONEY BNDA CORIS BANK	18017
 BMS SÉNÉGAL	18017
@@ -90,11 +90,15 @@ BMSC LOGISTIQUE	16623
 BMSDroneshumanitarian	15552
 BMTHS	12541,57,2
 BMUKN	9393
-BMVSS	17240
+BMVSS	17240,1138
+BMVSS Jaipur Foot	18378
 BMW Foundation	11546
 BMW X3 M50	11036
 BMW X4 M40i	11036
+BMWM and IPC	18370
 BMZ Digital.Global	14514
+BMZ ET GCF	18316
+BMZ Ministère	18316
 BMZ-Nr	384
 BMZ-backed EAC AI Alliance	9805
 BMZ-commissioned	9707
@@ -220,6 +224,7 @@ Encarregados de Educação BM Banco Mundial CICL	11557
 Encuesta Piloto INEGE BM	16898
 Encuesta de Condiciones de Vida INEGE BM	16898
 Encuestas de Condiciones de Vida INEGE BM	16898
+Energie BM Banque Mondiale BT Basse	18103
 Entwicklung BMZ	179
 Equipe BM	16012
 Equipe BM Jeudi	16012
@@ -229,6 +234,7 @@ Ethiopia. BMC Med Inform Decis Mak	12255,124
 Ethiopia. BMJ Glob Health	3791
 European Union and BMZ. Aims	886
 Exécution ARV Antirétroviral Bm Banque	15746
+FRANCOPHONE BLR BOUCLE LOCALE RADIO BM	18105
 FUNDING CONTEXT The BMA	11285
 Finanzmanagements BMZ	825
 Foncier BM Banque Mondiale CAGD Caisse	10876
@@ -246,6 +252,7 @@ India. BMC Health Serv Res	771
 India. BMJ Innov	1219,9662
 India. BMJ Open	3791
 Innovation BMZ	2142
+Investissements BM	18291
 Ivoire. BMC Public Health. Nov	10919
 Jobs and Income BMZ	458
 Jobs and Income II BMZ	1427

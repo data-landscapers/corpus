@@ -42,12 +42,16 @@ Cámara de Diputados	4209,3839,1255,7568
 Cámaras de Diputados	16903
 D Diplomacy	3803
 D Diplomacy'. Benin's DPI	3803
+DE TECHNICIEN SUPÉRIEUR DTSAC DIPLÔME	18143,27
 DEL PASAPORTE DIPLOMATICO ARTÍCULO	16871
+DES DIPLOME D’ETUDES SPECIALISEES DESS DIPLOME	18143,27
 DHA Department of Home Affairs DIP Data	11250
 DIP005	16714
 DIP090	16714
 DIP145	16714
 DIP240	16714
+DIPE. Ces	18312
+DIPE. Chaque	18312
 DIPES	6680
 DIPHINE LIMITED Data Controller INST-763949F9915 NAIROBI	7167
 DIPHTHERIA-TETANUS-PERTUSSIS	16892
@@ -64,9 +68,18 @@ DIPLOMATIC DATA AND SOVEREIGN IMMUNITY	3861
 DIPLOMATIE	16617
 DIPLOMATIQUE	18003,29
 DIPLOMATIQUES ET CONSULAIRES	17982
+DIPLÔME DE TECHNICIEN SUPERIEUR EN DEVELOPPEMENT	18170
+DIPLÔME DE TECHNICIEN SUPÉRIEUR EN CHIRURGIE	18143
+DIPLÔME DE TECHNICIEN SUPÉRIEUR EN SANTÉ	18143
+DIPLÔME UNIVERSITAIRE DE TECHNOLOGIE EAMAC ECOLE	18143
+DIPLÔME UNIVERSITAIRE D’ETUDES LITTÉRAIRES DUES DIPLÔME	18170
 DIPUTADOS	4209
 DO DIPLOMA Constituição da República A Constituição	11461
+DONNÉES SUR LES DIPLOMES D’ENSEIGNEMENT SUPÉRIEUR	18143,27
 DPT3 Diphtheria	10829
+DTS R DIPLÔME DE TECHNICIEN SUPERIEUR	18143
+DTSAR DIPLÔME DE TECHNICIEN SUPÉRIEUR D'ANESTHÉSIE	18170
+DUES DIPLÔME UNIVERSITAIRE D’ETUDES SCIENTIFIQUES DUT	18143
 Degree Programs Diploma Programs Short-term Courses	17232
 Department of Economic Diplomacy	10592
 Des Diplômes	17812
@@ -163,7 +176,7 @@ Diplomatic Service	17108,184
 Diplomatic and Consular Corps	17228,119
 Diplomatic and Official	17240
 Diplomatic and Sovereign Data	3861
-Diplomatie	1876,92,2927,2064,1278,278,4826,2758,22,54,1814
+Diplomatie	1876,92,2927,2064,1278,278,4826,2758,22,54,1814,198,132
 Diplomatie Créer	13341
 Diplomatie Culturelle	16099
 Diplomatie L A B O L	13341
@@ -186,6 +199,7 @@ Diplôme. Clément MUAMBA	4092
 Diplômes	4002,12428
 Diplômé	7390,626,1493,1174,1445,5684,17
 Diplômée	11109
+Diplômés du Numérique	18319
 Dipo Ceremony	17773
 Dipper	17043
 Diputado	4209,13096
@@ -203,6 +217,10 @@ Dutch-North African Diplomacy	6997
 DÉPARTEMENT DIPLOMATIE	16381
 Décès Diphtérie T1	16722
 Défense Diplomatie Institutions Partis	16092,1,37,97,148,111,41
+EN OPHTALMOLOGIE DTS ORL DIPLÔME	18143
+EN RADIOLOGIE DTSS DIPLÔME DE TECHNICIEN	18143,27
+EN SANTÉ MENTALE DTSO DIPLÔME	18170
+ET GYNÉCOLOGIE OBSTÉTRIQUE DTSDR DIPLÔME	18143
 Economic Diplomacy	13474,3786
 Economic Diplomacy Action Group	6790
 Economic Diplomacy and Investment Attraction	4528,7984
@@ -223,6 +241,7 @@ Forêts CATEGORIE B1 Diplômes	18003
 Gabonese Diplomats	16285
 General Meteorology. Diploma	14738
 General Nursing Science. The Diploma	12972
+Global South Young Diplomats Forum	18220
 Global South Young Diplomats Forum Program	16285
 Graduate Diploma	13368
 High School Diploma	16947
@@ -233,11 +252,14 @@ Hobhouse and Dipelaneng	11289
 Hôtel Golden Tulip Le Diplomate de Cotonou	16545
 IOC Indian Ocean Dipole IP Internet	2775
 IX- FORMA PROPOSTA PARA O DIPLOMA	3519
+IX.4. REPARTITION DES DIPLOMES DE L’ENSAE	18291
+India-Senegal Relations Political Relations Diplomatic	18378
 Indian Ocean Dipole	14158,797
 Infirmier Diplômé	15423,52,210
 Infirmiers Diplômés	15712
 Information Security and Ethical Hacking. This Diploma	12972
 Inspector Diplomático	15380
+Institut National des Etudes Diplomatiques	18191
 Intensive Diploma	16046
 International Diploma	2308
 International Governance and Diplomacy Zimbabwe	4528,7984
@@ -247,6 +269,7 @@ Italie. Monsieur Hamidou DIPAMA	15649
 Kenya AI Diplomacy Improved	7548
 Kenya AI Diplomacy and Global Governance Roadmap	7548
 Kuito-l dipmeter.lis	11405
+LARYNGOLOGIE DTSR DIPLÔME DE TECHNICIEN SUPERIEUR	18170
 LAS MISIONES DIPLOMÁTICAS Y OFICINAS CONSULARES	16905
 LUXOFANIA LA ENCARGADO DE DIPLOMAT	4209
 La Cámara de Diputados	17225
@@ -255,6 +278,7 @@ Las Misiones Diplomáticas	16905
 Le Diplomate	3248
 Los Honorables Diputados	9303
 Lubulini Dip Tank	12962
+MENTALE DTSO DIPLÔME DE TECHNICIEN SUPÉRIEUR	18143
 MINISTÉRIO DAS FINANÇAS Diploma Ministerial	12789
 MISIONES CONSULAR DIÁSPORA REGIONAL MEDIO DIPLOMAT	4209
 MODALITES DE DELIVRANCE DU DIPLOME Art	15933
@@ -317,15 +341,21 @@ Professional Banking Diploma	17235
 Professional Banking Diploma Program. Accordingly	17235
 Professional Course for Foreign Diplomats	13744,1713
 Programmes Honours' Degree Post Graduate Diploma	11134
+RURAL DTSM DIPLÔME DE TECHNICIEN SUPÉRIEUR	18170
 Registered. Primary Teachers Diploma	13078
 Registered. Secondary Teachers Diploma	13078
 Represent Diplomáticas Pedido de Restituição	12018
 Representación Diplomática	16871,34
 Representações Diplomáticas	15380
+Représentations Diplomatiques	18120
 Republic of Liberia Government Rejects Misused of Diplomatic	17320
 Rural Urban Skills Award Diploma	12431
+RÉANIMATION DTSCGO DIPLÔME DE TECHNICIEN SUPÉRIEUR	18170
 SERVICIO DIPLOMAT. Y CONSULAR.- Concepto	4209
 SERVICIO DIPLOMATICO. ARTICULO	16871
+STATISTIQUES ET DE L’INFORMATIQUE DTS DIPLÔME	18143,27
+SUPÉRIEUR DE LA SANTÉ DUEEG DIPLÔME	18170
+SUPÉRIEUR DE LA SANTÉ DUEL DIPLÔME	18143
 SYSTEME INFORMATISE DE SUIVI DES DIPLOMES	16662
 Santé Communautaire Diplôme Interuniversitaire Direction	17882
 Science Diplomacy	4253,100,6935,3459
@@ -339,6 +369,9 @@ Specialized Diploma	16046
 Strategic International Collaboration and Diplomacy	3760,9683
 Suijaaw DIP	16857
 SÍNTESE DO CONTEÚDO DO DIPLOMA	11461
+TABLISSEMENTS ET LES DIPLÔMES	18143,27
+TECHNICIEN SUPERIEUR D’AIDE CHIRURGIEN DTSAR DIPLÔME	18143
+TECHNICIEN SUPÉRIEUR EN OPHTALMOLOGIE DTSORL DIPLÔME	18170
 TRADE DIPLOMACY BETWEEN THE CENTRAL AFRICAN	16519
 Tallinn Summer School of Cyber Diplomacy	1446
 Teachers Diploma Primary and Diploma	14736
@@ -357,6 +390,7 @@ UMA DIPLOMACIA AO SERVIÇO DOS SUPREMOS	16487
 UMA DIPLOMACIA QUE PRIORIZE OS SUPREMOS	16487
 UN Diplomat	16970
 UNESCO's Jun-2025 Tech Diplomacy Forum	5239
+UVRES UNIVERSITAIRES DEA DIPLÔME D’ETUDES APPROFONDIES	18143,27
 VERIFICATION PROCEDURES FOR FOREIGN DIPLOMATS	17537
 Venâncio de Moura Diplomatic Academy	10776
 Verifying the Authenticity of Diplomas	16949

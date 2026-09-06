@@ -17,10 +17,12 @@ Cabinet MEPSIR INS DEP	15580
 Cabinet MEPSIR INS Hypothèse	15580
 Centre INS Institut National	16104
 Cet INS	17882
+Communication INS Institut National	18204
 Consommation INS	17842
 DEP INS CASP DEP	15580
 DEP MPFIFD INS	15580
 Directeurs Généraux des INS	16250
+Direction des Statistiques INS	18111
 Délégation INS Burundi Durée	13689
 Démographie INS	737
 ELONGO NGAKALA Edipault INS	15580
@@ -65,6 +67,7 @@ INS DEP MSP DEP MPTEN	15580
 INS DEP MSP DEP MPTEN A2O2R4.4	15580
 INS DEP MSP DEP MPTEN A2O3	15580
 INS DEP MSP DEP MPTEN Hypothèse	15580
+INS Direction Régionale	18169
 INS Hypothèse	15580
 INS INS	16552,454
 INS INS A1O1R3	15580
@@ -72,8 +75,9 @@ INS INS A1O2	15580
 INS INS Gouvernement A3O2	15580
 INS INS Hypothèse	15580
 INS INS Nombre	15580
+INS INSTITUT NATIONAL DE LA STATISTIQUE	18143,27
 INS Institut	15724,896
-INS Institut National	17870
+INS Institut National	17870,301
 INS Institut National de Statistique	11944
 INS Instituto Nacional de Saúde INTIC National	4214
 INS Jalashwa	13744
@@ -81,6 +85,7 @@ INS Kesari	2667
 INS Membres	16616
 INS Mesure	15580
 INS Nombre	15580
+INS PARTENAIRES D’EXECUTION	18100
 INS PECCIÓN	4209
 INS PERSPECTIVES Conseil	16620
 INS Plan	15580
@@ -89,16 +94,29 @@ INS Rapporteur	16616
 INS Rapports	15580
 INS Règlement	15580
 INS SAINS Hypothèse	15580
+INS SSS SSN Total Femme Homme	18169
 INS Siège	15580
+INS Sur	18169
+INS Tableau	18171
 INS Taux	998
 INS Toutes	15580
 INS de Guinée	16250
 INS des Etats	16250
 INS- SODE	2342
 INS- TAT	17978
+INS. Au	18143,27,1
 INS. Banque des Etats	11944
-INS. Cependant	15599
+INS. Cependant	15599,2572
 INS. Cet	16416
+INS. Cette	18204
+INS. Comité	18169
+INS. Elle	18143,26
+INS. II. Environnement	18169
+INS. Il	18169
+INS. Le Comité de Direction	18169
+INS. Le Directeur Général	18169
+INS. Les Directeurs Régionaux	18169
+INS. Lors	18169
 INS. Mesdames	16620
 INS. Open Data Watch	16421
 INS. Quant	8228
@@ -106,6 +124,7 @@ Indian Naval Ship INS Tarkash	16285
 Indicateurs du Sida du Congo INS Institut National	15580
 Ins Congo	10473
 Ins. Des	16130
+Institutions de Micro Finance INS	18100
 Ivorian INS	8072
 Kaba KEITA INS Sous-directeur	16620
 Kabinet Kader CAMARA INS Agent	16620
@@ -131,6 +150,7 @@ OKO Pichou Ernest INS	15580
 OUADIKA Séverin Aimé Blanchard INS	15580
 Ousmane TOURE INS Contrôleur	16620
 POUMBOU Fréderic INS	15580
+Production Industrielle INS Institut National	18169
 Public Liability Company LGA P.O Ins	11129
 Quadro Privativo de Pessoal Técnico da Ins	15359
 Reg. Ins	4209

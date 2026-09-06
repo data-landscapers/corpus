@@ -89,7 +89,7 @@ Infant Registration Bill	4534
 Infant Registration Month. Accordingly	15628
 Infant and Child	12367
 Infant and Child Mortality	15247
-Infant and Young Child Feeding	14067,1180
+Infant and Young Child Feeding	14067,1180,2878
 Infant and Young Child Feeding Counselling	15247
 Infant and Young Child Feeding Practices	15247
 Infant.ID	2447
@@ -102,7 +102,7 @@ Infanterie SECTION	15901
 Infanterie Sous-lieutenant BANOUANINA	15901
 Infanterie Sous-lieutenants	15901
 Infantil	4209,12655,56
-Infantile	9711,4911,1063
+Infantile	9711,4911,1063,2601
 Infantiles	15423
 Infantry Division	4245
 Infants	4301,8082,4588
@@ -113,6 +113,7 @@ Life Counts Infant Mortality Rate	12151
 MATRÍCULA DE ESCUELAS DE EDUCACIÓN INFANTIL	16920
 MORTALIDADE NEONATAL E INFANTIL	10777
 MORTALITÉ INFANTILE ET INFANTO-JUVÉNILE Quotient	15557
+MORTALITÉ INFANTILE ET MORTALITÉ JUVÉNILE	18312
 MORTALITÉ INFANTILE ET MORTALITÉ JUVÉNILE Mortalité	13300
 MORTALITÉ INFANTO-JUVÉNILE VS DÉCÈS EN VALEUR	17843
 Mortalidade Infantil	11537

@@ -62,6 +62,7 @@ CENTRE-OUEST CP1 Filles	10847
 CENTRE-SUD CP1 Filles	10847
 CEs and CPs	15716
 CFA Franc COVID-19 Coronavirus Disease CPF	15731
+CFW Cash for Work CPF Country Partnership	18104
 CGJR and CPSD	12804
 CIPP Cost-Benefit Analysis CPF Country Climate	3604
 CIRAS CPF CR CSIRT CT	15553
@@ -76,10 +77,12 @@ COGEDES COVID CPF CRI ECD ECE	16436
 COMMUNE Sexe CP1 CP2 CE1 CE2	15639
 COVID-19 Contingent Emergency Response Component CPF	13331
 COVID-19 Coronavirus Disease CPF Country Partnership	15491
+CP AoR	18125
 CP CODE	15999
 CP CORRIGE	1294,1,1,766
 CP Code	16047
 CP Comité de Pilotage CTS Comité Technique	13341
+CP Cours Préparatoire DECCS Direction des Evaluations	18171
 CP HDR	2975
 CP INIT	1294,1,1,766,2321
 CP Inforpress	3192
@@ -138,10 +141,12 @@ CPCC Continental Project Coordination Committee CPF	1264
 CPCC and RPCC	16144
 CPCC. ECOWAS. Section I.A.2	1264
 CPCC. SAA. Section I.A.2	1264
+CPCCI	18291
 CPCD URL	13726
 CPCIF	53
 CPCIF Strategic Minority Stake	53
 CPCS International	15969
+CPCSP	18291
 CPD Act	14224
 CPD Central Population Database C2C Consumer-to-Consumer	14790
 CPD Continuing	14922
@@ -164,6 +169,8 @@ CPDIF	610,10,3,62,135,43,83,108,415
 CPDIF Acquisition of Ctrack Africa and Middle East	620
 CPDIF Fund III	620
 CPDIF.' IFC	685
+CPDN Comité	18310
+CPDN Contribution Prévue Déterminée	18103
 CPE CPE	16898
 CPE Documento	16898
 CPE Existencia	16898
@@ -194,6 +201,7 @@ CPF Country Partnership Framework CPS Country	11380,4131
 CPF Country Partnership Framework CR Civil	15518
 CPF Country Partnership Framework CRI Corporate	15621,763
 CPF Country Partnership Framework CRVS Civil	16896,26
+CPF Country Partnership Framework CSA Food	18301
 CPF Country Partnership Framework CSF Climate	11549
 CPF Country Partnership Framework CT Cash	15663
 CPF Country Partnership Framework DA Designated	1867,9658,3990
@@ -213,6 +221,7 @@ CPF Mwamba Trust Fund Data Processor	7167
 CPF Objective	6539,5887,905
 CPF Outcomes and Indicators CPF Outcome CPF	11469
 CPF Pillar	15663
+CPF Report No	18104
 CPF Results Area II	15983
 CPF and FCV	10829
 CPF and Rationale for Use	12176,5282
@@ -288,6 +297,7 @@ CPOD. D’autre	748
 CPOD. D’une	748
 CPPA Amended Act	11993
 CPPA The CPPA	11993
+CPPCI	18291
 CPPGCC	15468
 CPPM The CPPM	14830
 CPPR Country Portfolio Performance Review CRB	17105
@@ -448,7 +458,9 @@ Computer Emergency Response Team CMU CPF	17862
 Conferência Estatística da CPLP	2816
 Contingent Emergency Response Component CPF Comité	10964
 Contingent Emergency Response Component CPF Country	10768
+Coopération Internationale CPCSP	18291
 Core CPI Weights	2775
+Coronavirus Disease CPF Country Partnership Framework	18293
 Country CPD	17101
 Cp Description	15129
 CpEebr	4706
@@ -498,6 +510,7 @@ Enquête CPS	17845
 Enquête CPS-SDR	17842
 Enquête CPS-SICAEPIP	17842
 Enquête CPS-SSDSPF	17842
+Enquête Eau- CPCSP	18291
 Estado-Membros da CPLP	11393
 Estados-Membros da CPLP	11393
 Estadosmembros da CPLP	15955
@@ -509,12 +522,15 @@ Event CPD Code	13381
 Existence du CPS	17845
 Ezea CP	14666
 FEMAPH CPS-SS DS PF	17946
+FORMATION CP CONSEILLER PÉDAGOGIQUE CPES CONSEILLER	18143,27
 FY20 CPF	17862
+FY20-24 CPF	18293
 FY2024 and FY2025 CPV	1256
 FY2025 CPV	3667,1345
 FY2026-2035 Report No. CPF0000062	14627
 FY23 CPF	17862
 FY25-29 CPF	12968
+FY26-FY31 CPF	18198
 Figures CPoS	12486
 Functions of Government CPF Country Partnership Framework	17458
 GDP and CPI	15929,51
@@ -604,6 +620,7 @@ Obtain CPIA	11863
 Ocidental CNEST Conselho Nacional de Estatística CPLP	15535
 Officer CP Condition Precedent DD Due	1818
 Open CPE WAN Management Protocol	7627
+Opérationnalisation CPCCI	18291
 Organisation des CPS-SS DS FEMAPH	17946
 Organiser des CPS SS DS PF Etat	17845
 Os Estados-Membros da CPLP	11393
@@ -612,6 +629,7 @@ PH CPI	17869
 PLATEAU CENTRAL CP1 Filles	10847
 PNDS CPN Consultation	17843
 PNG Politique Nationale Genre CPS Cellule	17845
+POLYTECHNIQUE MAZAYAKI CPSP CENTRE PRIVE	18170
 POTRAZ for CPD	13381
 PTF CPS	17845
 Paesi Emergenti CPRF Community Poverty Reduction	12970
@@ -629,6 +647,7 @@ Preparing CP’s Monthly Strategic Coordinating Meetings	14760
 Prevention CPN	13300
 Prices CPI	17209
 Privé CP1 CP2 CE1 CE2 CM1	10847
+Production des CPCCI	18291
 Production du Bulletin CPS-SS DSPF	17946
 Produire CPS SS DS PF Etat	17845
 Promotion de CPS	17842
@@ -640,6 +659,8 @@ Purpose CPC	14857
 Purpose CPI Consumer Price Index CPIS	14777
 Purpose CPI Consumer Price Index CSIOs	16935
 Purpose CPI Consumer Price Indexes DQAF	14777
+PÉDAGOGIQUE DE L’ENSEIGNEMENT SECONDAIRE CPM CENTRE	18170
+PÉDAGOGIQUE DE L’ENSEIGNEMENT SECONDAIRE CPSP CENTRE	18143
 R120 CPM	13461
 R15-R50 CPM.544 Another	13461
 REDOUBLEMENT ET ABANDON CP1 CP2 CE1	10847
@@ -679,13 +700,16 @@ Secteur Développement Rural CPS	17842
 Secteur Education CPS	17842,235
 Secteur Justice CPS	17842,235
 Selectivity and Sequencing. The CPF	11468
+Senegal. The CPF	18301
 Sharm El- Sheikh CPD Comprehensive Professional	15604
 Sierra Leone CPF	16144
 Simples Multigra Double- Total CP1 CP2	10847
 Sistema Estadístico Nacional CPE	16898
 Site Internet des CPS	17842
 Social CGP Comité de Gestion des Plaintes CP	15746
+Statistique CPCCI	18291
 Statistique CPS-SATFPSI Cellule de Planification	18077
+Steering Committee CPDN	18309
 Strengthen CPI Statistics	14777
 Strengthened CPD	14057
 System CPF Country Partnership Framework	15659

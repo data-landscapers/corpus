@@ -19,7 +19,9 @@ Closing Rev. Closing IDA-66100 Effective	15735
 Closing Rev. Closing IDA-67180 Effective	16013
 Closing Rev. Closing IDA-68300 Effective	17958
 Closing Rev. Closing IDA-68480 Effective	17000
+Closing Rev. Closing IDA-69070 Effective	18354
 Closing Rev. Closing IDA-72060 Effective	12440
+Closing Rev. Closing IDA-72690 Effective	18350
 Closing Rev. Closing IDA-72740 Effective	16994
 Closing Rev. Closing IDA-73570 Effective	10870
 Closing Rev. Closing IDA-74440 Effective	16705
@@ -62,8 +64,12 @@ Develop the Joi IDA	17180
 Digital Specialist Ida S Mboob Senior	3456
 Disbursed Disbursed IDA-74440 Effective	16705
 Disbursed IDA-66100 Effective	15735
+Disbursed IDA-66880	18133
 Disbursed IDA-67180 Effective	16013
 Disbursed IDA-68480 Effective	17000
+Disbursed IDA-69070 Effective	18354
+Disbursed IDA-70470 Effective	18355
+Disbursed IDA-72690 Effective	18350
 Disbursed IDA-75030 Effective	18006
 Disbursed IDA-79260 Effective	7877
 Disbursed IDA-E2940 Effective	17096
@@ -122,7 +128,7 @@ IBRD Amount IDA	11417
 IBRD Loan and IDA Credits and Grants	10964
 IBRD Loans and IDA Credit	15411
 IBRD Loans and IDA Credits	15372
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249
 IBRD and IDA and Grants	6539
 ICT Equipment for MIA Cent IDA	17180
 ICT Gross Domestic Product IDA Government	15424
@@ -139,7 +145,7 @@ IDA CREDIT NO.6980-KE	14546
 IDA CRW-ERF	16398
 IDA Counterpart	15372
 IDA Counterpart Project Management	15372
-IDA Credit	773,491,989,1351,7359,562,380,60,447,257,663,683,538,23,562,412,71,181,181,161,149,91,270,1,20,285
+IDA Credit	773,491,989,1351,7359,562,380,60,447,257,663,683,538,23,562,412,71,181,181,161,149,91,270,1,20,285,1340
 IDA Credit IDA Resources	10964,891
 IDA Credit No	15802
 IDA Credit Non-World Bank Group Financing	3456
@@ -189,6 +195,7 @@ IDA Financing Gap DETAILS World Bank	14576,1082
 IDA Financing Gap Total Amount DETAILS	10964
 IDA GCF GoM	17962
 IDA GESDeK-7438-KE	14546
+IDA GF F HSTR F Tot	18370
 IDA GRANT Direct	11855
 IDA General Conditions	11855
 IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220,456,1123,44,22,114,7,93,221,247,3,483,254,524,927,113
@@ -291,6 +298,7 @@ IDA-64990 ON A LOAN	15959
 IDA-66110 Effective	15735
 IDA-66120 Effective	15735
 IDA-66650	15990
+IDA-66880	18133
 IDA-67070	13742
 IDA-67410	15386,318
 IDA-67920	11965
@@ -316,6 +324,7 @@ IDA-75350 Effective	17904
 IDA-75370 PROJECT ID No	16493
 IDA-77670-001 Currency	16187
 IDA-77680-001 Currency	16187
+IDA-78860 Not Effective	18355
 IDA-79260	2253
 IDA-D0960	15990
 IDA-D1920	15731
@@ -335,6 +344,7 @@ IDA-D6100 Effective	15735
 IDA-D6110 Effective	15735
 IDA-D6120 Effective	15735
 IDA-D6420	15990
+IDA-D6560	18133
 IDA-D6760	13742
 IDA-D7350	14885,63
 IDA-D7560	15731
@@ -342,6 +352,7 @@ IDA-D7700	14885,63
 IDA-D7730 Effective	17958
 IDA-D7830	16891
 IDA-D7830 Effective	17000
+IDA-D8410 Effective	18354
 IDA-D8440	15990
 IDA-D8770	16398
 IDA-D906-MZ Reference No	12834
@@ -401,6 +412,7 @@ IDA.worldbank.org	13431,1575
 IDA18	15601
 IDA18 Private Sector Window	287
 IDA18 Refugee and Host Community	11924
+IDA18 Risk Mitigation Regime	18104
 IDA18 WHR	10841
 IDA19	579,12752,3611
 IDA19 Digital Commitments	15491
@@ -483,6 +495,7 @@ Jul-2026 IDA-D6120 Effective	15735
 Jun-2026 IDA-75350 Effective	17904
 Jun-2026 IDA-D5680 Effective	17904
 Jun-2027 IDA-75040 Closed	18006
+Jun-2027 IDA-78860 Not Effective	18355
 Jun-2027 IDA-D7730 Effective	17958
 Jun-2029. Loan IDA-E4720	14956
 Loans and IDA Credits	15411
@@ -509,10 +522,14 @@ Nationa IDA	17219
 National IDA	1264
 Nations Children's Fund WHR IDA Window	11924
 Nome Idade Endereço Telefone	16325
+Notice IDA International Development Association IFR	18293
+Oct-2026. IDA-D6560	18133
+Official Use Only IDA-D8410 Effective	18354
 Overview. World Bank. IDA19 Replenishment Report	10997
 P18049515db4520521914f13009abf5b2ec.pdf CREDIT NUMBER IDA	15697
 P180987 DON IDA N	13567
 PRODIGY's World Bank IDA	3497
+Patrie IDA Association Internationale de Développement IDI	18204
 PforR DLRs and IDA IPF	16032
 PforR IDA Amount Other Amount Estimated	3604
 Plataforma de E IDA	17219
@@ -530,6 +547,7 @@ RESULTS REPORT ON AN IDA	17962
 Rais Idara	8411
 Rate of Return IDA International Development Association	11924
 Reallocations IDA-70780-001 Currency	16187
+Reallocations IDA-72690-001 Currency	18359
 Redundant IDAs	9123
 Referenced IDA	579
 Regional IDA	15372
@@ -558,6 +576,7 @@ Space for IDA Interactive Impact Evaluation Impact	17405
 Spectrum INS IDA	4260
 State. IDA	16032
 Sub-Saharan Africa IDA	3604
+Subcomponent IDA	18301
 Suppor IDA	17180
 TDA and IDA	15473
 TDA and IDA.87	15473
@@ -577,6 +596,7 @@ Unid IDA	17219
 Unit ID Identity IDA International Development	15518
 Usage Gestionnaire Fonds IDA	10876
 Use Only IDA-66130 Effective	15735
+Use Only IDA-70470 Effective	18355
 Use Only IDA-E2940 Effective	17096
 Use of IDA FM	15372
 Uíge IDALINA DOMINGAS INÁCIO	10751

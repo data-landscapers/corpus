@@ -34,6 +34,7 @@ Build CSO	17139
 Bureau CSD Central Securities Depository EAC	14997
 Bureau CSOs Civil	11994
 Business CSO DTB DTSO METC MDPA	14752
+CAMES CATI CellAQ CDPU CS	18121
 CBDC CCBG CFT CMA CPI CSI	11131
 CDC BENIN Référence S CSM 119867 Date	16395
 CDC Bénin Référence S CSM 117252 Date	16395
@@ -46,6 +47,7 @@ CIPC Companies and Intellectual Property Commission CSD	11250
 CIRAS CPF CR CSIRT CT	15553
 CNRF CPMI CSD COMESA EAC EAPS	13468
 CPD Continuous Professional Development CSP Content	6946
+CPF Country Partnership Framework CSA Food	18301
 CPF Country Partnership Framework CSF Climate	11549
 CPS Country Partnership Strategy CSIRT Computer	17862
 CPU Central Processing Unit CSA Cloud	11952
@@ -105,9 +107,11 @@ CS-IFM	16848,5
 CS-ISAC	5132
 CS-ISAC CS-ISAC	10721
 CS-ISAC Membership	10721
+CS-Pro	18169
 CS-RED	15738
 CS-REF	15738
 CS-REF Economic and Financial Reform Monitoring Unit	969
+CS-pro	18169
 CS-related	15146
 CS. Article	17852
 CS2- CC2- HCJ2-CES2.HAAC2-MESGPR	15416
@@ -121,6 +125,7 @@ CSA Director-General	14698
 CSA Director-General Divine Selase Agbeti	10069
 CSA Director-General Dr. Josiah Joekai	4283
 CSA F380-M87 Reprinted	13385
+CSA Food	18301
 CSA Goes Live	4283
 CSA I. Grace Oletu	6936
 CSA Page	16985
@@ -229,6 +234,7 @@ CSD-TEPS	3396
 CSD2O	1009
 CSE Velocity	14267
 CSE-Prog	10712
+CSE. Face	18324
 CSE. SECÇÃO II INSTITUTO NACIONAL	11516
 CSEA Digital Preparedness Index	5724
 CSEA South Africa Data Governance Snapshot	5724
@@ -239,9 +245,11 @@ CSF CIES	13143
 CSF Community Safety Forum CSIR Council	11188
 CSF Critical Success Factors CTI Computer	14965
 CSF Cybersecurity Framework	6936
+CSF Tax Service Centers	18293
 CSF. En	15102
 CSG Income Allowance	14782
 CSG Retirement Benefit	14828
+CSGH Comité Sénégalais des Droits	18286
 CSGR IA Dans	16292
 CSHUB-CSIRT	8897
 CSI Acceptable	17285
@@ -280,7 +288,8 @@ CSIR-INST	4126
 CSIR-INSTI	4126
 CSIR. The Centre for High Performance Computing	9126
 CSIRO Reports EP173122 and EP175702	14434
-CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495,16,174,486,764,265,905,1688,101,384,49,90,256,1,244,226,595,191,230,359,125,37,7
+CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495,16,174,486,764,265,905,1688,101,384,49,90,256,1,244,226,595,191,230,359,125,37,7,384
+CSIRT ADIE	18298
 CSIRT Capabilities	5677
 CSIRT Capabilities Strengthening	5677
 CSIRT Computer Security Incident Response Team	6936
@@ -347,6 +356,7 @@ CSO Civil Society Organisation CSS Corporate	11261
 CSO Civil Society Organisations EMB Electoral	12201
 CSO Civil Society Organization CSPJ Superior	17441
 CSO Civil Society Organization CTAPSD Cape	13359
+CSO Civil Society Organization CTASF Land	18293
 CSO Civil Society Organization DNIC National	4214
 CSO Civil Society Organizations DEAP Digital	17196
 CSO Civil Society Organizations DPI Digital	10714
@@ -380,6 +390,7 @@ CSOs. Four	970
 CSOs. Lessons	11536
 CSOs. The Ministry	16970
 CSOs. The Rwandan CSO	12333
+CSOsJanuary	18305
 CSP CSP CSP	9123
 CSP CSP CSP BCR-	9123
 CSP CSP CSP CCC-	9123
@@ -427,7 +438,7 @@ CSPS and High Courts	10812
 CSPSs	10881
 CSPWP	12980
 CSPWP and MWK	12980
-CSPro	6048,3229,1500,1374,1149,2274,137,1210
+CSPro	6048,3229,1500,1374,1149,2274,137,1210,1391
 CSPro Census and Survey Processing DCMQAD Directorate	16927
 CSPro Census and Survey Processing System CTA	13300,3621
 CSPro and Stata	15244
@@ -475,7 +486,12 @@ CSS Note	15580
 CSS and JavaScript	13356
 CSS. Quant	15580
 CSSCs	12182
-CSSDOS	7707
+CSSDOS	7707,10590,9
+CSSDOS CI DPRS SENUM SA MCTEN	18306
+CSSDOS CSSDOS CI DPRS	18306
+CSSDOS DUE	18306
+CSSDOS Projet	18297
+CSSDOS. R4	18297
 CSSEC	10975
 CSSF-funded	861
 CSSF29	14997
@@ -515,6 +531,7 @@ CSV. Crosswalk	4466
 CSV. Exce	3972
 CSV. Excel	3972
 CSV. L'API	9480
+CSV. L’analyse	18118
 CSV. Vous	747
 CSV23	1984
 CSW70. Under NDS2	13503
@@ -548,7 +565,10 @@ Central Africa Region AF CNSPP CSPM	15601
 Central CPE Comité de Programas Estadísticos CSRR	16898
 Central River Region CSO Civil Society	17105
 Centre Hospitalier Universitaire CSCOM	17824
+Centre de Recherches Océanographiques de Dakar Thiaroye CSA	18291
+Centre de Suivi Ecologique CSRR	18291
 Centres for Disease Control CSIR Council for Scientific	396
+Changement Social de Comportement. CSC	18100
 Chefe da Repartição Fiscal CSA	11435
 Chefe da Secção Administrativa CSCARP	11435
 Chief Information Officer CSIRT	16975
@@ -565,6 +585,7 @@ Cobrança CSPFT	11435
 Collection Data Market Development and Integration CSIRTs	16144
 Combined-Cycle Gas Turbines CSP Concentrated Solar	11228
 Comité de Pilotage CSI	15423,262
+Commissariat for Food Safety CSE	18309
 Commission CSO Civil Society Organization EU	11586
 Communication and Technology and Digital Economy CS	1236
 Community Livelihood and Agriculture Support CSA Civil	16970
@@ -621,6 +642,7 @@ DGRH CS	15524
 DHA and CSIR	11986
 DPC. CSA	6936
 DPs and CSOs. Grant Agent World Bank	11916
+DSISS CSSDOSS	18297
 Data CSIR Council for Scientific and Industrial Research	5246
 Data Localization. CSIS. Zillner	1243
 Data Market Development and Integration CSIRTs	16144
@@ -660,6 +682,7 @@ EU CSP IV S	9123
 EU CSPs. Last	6477
 EU EU CSP M OS-	9123
 EU EU CSP TV M	9123
+EVIEWS CS-PRO STAT EXCEL R	18169
 Elgeyo Marakwet and Baringo. The CS	14518
 English CSV	15714
 Enseignement Technique CSLP Cadre Stratégique de Lutte	17907
@@ -674,6 +697,7 @@ European CSPs	6477
 Evidence of CSIRT	10721
 Expert CSIRTs	5241
 FINALISED ANNUAL REPORT CSD.pdf	1377
+FNPEF CSO	18286
 Famille CREDD CSCRP Cadre Stratégique	17842
 Family CR Civil Registration CSPS Local	10812
 Femme CRLD CSCom CSRéf Centre de Recherche	17882
@@ -722,6 +746,7 @@ Health CS Aden Duale. BHI	3400
 Health CS Aden Duale. Four	3400
 Health CS Duale	8934
 Health Centre COBIT CSIR Control Objectives	1009
+Homme CSO Cellule de Suivi Opérationnel des Projets	18286
 Honourable CS Mathabatha	11261
 Hydro PS CSP Wind Solar PV	11953
 Hydromet Diagnostics CSO Civil Society Organization	11553
@@ -755,6 +780,7 @@ Kabogo. The CS	8214
 Kenya CS William Kabogo. Harmonise	5964
 Kenya News Agency. ICT CS	899
 Kenya Treasury CS John Mbadi and China	2160
+Khalisse DIOUF CSA GTP	18309
 Kicukiro CSOs and NGOs BCs	12328
 Kwok CS	10780
 L'atelier du CSC	10546
@@ -762,13 +788,18 @@ L. CSR Fund	14717
 LA CSBF SECTION PREMIER Des	14417
 LACC and CSOs	17037
 LACC and CSOs4	17037
+LIBERTES CSU COUVERTURE SANITAIRE UNIVERSELLE DHIS2	18105
 LICSATDUN CSO	16848
 La CSBF	14417,12
 La CSCP	10876
+La CSS	18421
+La CSSDOS	18297
 La CSU	13325
 Le CSC	15942
 Le CSD	15720
+Le CSE	18324
 Le CSI	15423,262
+Le CSIRT ADIE	18298
 Le CSM	15468
 Les CSB	14442
 Les CSCom	17845,37
@@ -814,7 +845,8 @@ NCC- Acknowledgement of CSIRT	10721
 NCC- CSIRT	10721
 NCC- Updated Subscription CSIRT	10721
 NCC’s CSIRT	9117
-NGOs and CSOs	16926,25
+NDEKKI AU CSE Après le Ndekki	18324
+NGOs and CSOs	16926,25,1342
 NGOs and CSOs. CBE	15604
 NIST CSF	5677,103,643
 NIST CSF Auditing	11952
@@ -864,6 +896,7 @@ Partnership Framework CSU Single Social Registry	10768
 Património CSCC	11435
 Pilot License CSM Cylinder Smart Metering	2775
 Planification CSS Commission Supérieure	15580
+Plant Health Directorate CSA	18309
 Police Forum CSC Community Service Centre	11188
 Policy. CSRI	6946
 Population and Development CPs Country Programmes CSO	12962
@@ -897,6 +930,8 @@ Revenue and Tax Policy Division’s CSP	17011
 Row's CSV	12416
 Rwanda’s CSD	14997
 Référence S CSM 117252 Date	16395
+S- CSI-070	18395
+SCS du CSE	18304
 SCT and CS-EPWP	13111
 SCTP and CS-EPWP	12181,799,131
 SERVICE PROVIDERS The CSA	9728
@@ -904,6 +939,7 @@ SIs and CSPs	11995
 SLAs CAC MCDAs CSPs CAC	6432
 SOC and CSIRT	1432,657,2321,9
 SOC and CSIRT Cabo Verde	3843
+Saliou FALL CSE GTP	18309
 Schedule A. CSP	11995
 Sector Environment CS-ISAC	10721
 Security Ghana CSA Fines ORC GH	9839
@@ -922,8 +958,10 @@ South Africa. The CSIR	1009
 South African National CSIRT	8897
 Statistics CSOs Civil Society Organizations CSCA	13005
 Statistique CS	10874
+Statistique CSC Conception Support de Collecte DRFM	18169
 Statistique CSPEF Cellule de Suivi des Programmes	15479
 Statistique du Secteur Développement Rural CSA Commissariat	17978
+Strategic Development Plan of SEN CSU	18370
 Strategy CSC Citizen Service Center	13861
 Strengthen CSO	13080,15
 Strengthen CSO Partnerships	17011
@@ -935,6 +973,7 @@ Supply Sources Solar Wind CSP	11953
 System COCS Chain of Custody System CSO	16843
 System Program CSO Civil Society Organization	17011
 Systems Perspective of CSRP and Sector	16858
+Sécurité Alimentaire CSE	18291
 Sécurité Alimentaire CSET Centre Supérieur	17907
 TECH5 CSO Rob Haslam	1836
 TIMELINES CSP Accreditation Process	6432
@@ -958,6 +997,7 @@ UN CSTD Working Group	17793
 US CSPs	6477
 US-based CSPs	6477
 Uma CSD	11370
+Un CSIRT ADIE	18298
 Under CS-EPWP	12980
 Universal Health Insurance Authority CSO	15725
 Upgrade Rwanda’s CSD	14997

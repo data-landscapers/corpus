@@ -1,7 +1,8 @@
 A. Lost	14716
 ADEPT LOSS ADJUSTERS LIMITED Data Processor	7167
 ANEXOS DE LA LEY DE LOS	4209
-ATC&C Loss Performance	12062
+ATC&C Loss Performance	12062,6124,31
+Actual Transmission Loss Factor	18217
 Acuerdos de Niveles de Servicio. Los Servicios	16855
 Africa Data Centres LOS1	3554
 Annual System Losses	12256
@@ -31,7 +32,7 @@ Catalytic First Loss Guarantee	8937,1,141
 Catalytic First Loss Guarantee Program	8938,141
 Ciberseguridad. Los	16965
 Ciudadanos. Los Ciudadanos	16855
-Collection Loss BEDC Benin Electricity Distribution	12062
+Collection Loss BEDC Benin Electricity Distribution	12062,6124,31
 Community Land and Forests Loss	17114
 Competencia Objetiva. Los	16965
 Confidencialidad Los	16898
@@ -63,6 +64,7 @@ Day Africa Lost Internet	2677
 Destinatarios de Servicios. Los Prestadores	16855
 Digital Realty. LOS1	3477
 Digitalización. Los	15478
+Doctorat LOSEN OS OVU PAT Loi	18121
 Draft Noise-Induced Hearing Loss Regulations	1009
 ELECTRÓNICOS CAPÍTULO I DE LOS CIUDADANOS	16855
 ESCALA SALARIAL DEL PERSONAL DE LOS	4209
@@ -120,6 +122,7 @@ LOS PRESUPUESTOS CAPITULO	4209
 LOS RECURSOS PÚBLICOS...................6 TÍTULO II	4209
 LOS SERVICIOS PÚBLICOS POR MEDIOS	16855
 LOS1 and LOS2	3477
+LOSEN	18099,22
 LOSI Network	14006
 LOSS AND OTHER COMPREHENSIVE INCOME	13053
 LOSS PAID	11955
@@ -198,6 +201,7 @@ Loss of Land	17114
 Loss of Organic Matter	17157
 Loss of Record	11956
 Loss of Structure	17114
+Lossa Goungou	18118
 Losses	9511,105,1177,345,817,301,133,10,1021,1297,2540
 Losses Committee	12956
 Lossyear	16875
@@ -209,6 +213,7 @@ MHPDE Los	16969
 MW LOS	10861
 MW LOS1	4191
 Manage Crisis and Prevent Damage and Losses	1000
+Management of Land Acquisition and Loss of Access	18370
 Mbañe. Los	16875
 Mi AAA Los	163
 Microcrédito Los	1701
@@ -232,7 +237,7 @@ Parlamento Nacional. Los	1701
 Particulares. Los Docu	16855
 Particulars of Loss	13040
 Planned Capacity Loss Factor	11297
-Plc TLF Transmission Loss Factor YEDC	12062
+Plc TLF Transmission Loss Factor YEDC	12062,6124,31
 Post-Harvest Losses	13474
 Power Losses	12358
 Prevent Damage and Losses Time Bound Measurable	1000

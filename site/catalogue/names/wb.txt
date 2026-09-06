@@ -67,9 +67,11 @@ MoE and WB	13378,14
 Monrovia. WB ID Credit Program	2604
 N SOCIETE WBHO CONSTRUCTION GUINEA SARLUNIPERS	16623
 Nations Children’s Fund WB The World	13332
+NewFin1 WB Fiscal Year	18104,197
 Next Steps The WBG	13592
 Nigeria. WBG	11468
 Nigerians. The WBG	11469
+Numerique SA WBWorld Bank The World	18359
 Ocidental WBG Grupo	17093
 Official Use Only III. WBG Portfolio	11469
 Over IP WB World Bank WBG	13312,2
@@ -150,7 +152,7 @@ WB Environmental	1988
 WB Ethiopia Digital ID for Inclusion and Services	1260,30,9542,54
 WB Findex	14897
 WB Fiscal	3604,7813,488,4239,1314
-WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,2,82,1206
+WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,2,82,1206,1344
 WB Fiscal Year Annual	15658
 WB Fiscal Year Annual Cumulative	15553
 WB G	10841
@@ -179,6 +181,7 @@ WB Nigeria	3456
 WB P180495 DRC Digital Transformation Project	2126
 WB PforR	1573
 WB Policies	15514
+WB Policy	18370
 WB Policy Note	2419
 WB Program Document	558
 WB Project Appraisal Document PAD3340	424
@@ -188,7 +191,9 @@ WB Rep Oyewole Afuye	2604
 WB Security ANNEX	17114
 WB TORs for Content Development and Training	14010
 WB TTL	973
+WB Tax Conference	18318
 WB USD	4466
+WB West Africa Food System Resilience	18198
 WB Women Business	17870
 WB World Bank	11863,24,266,1,9,178,2588,1954
 WB World Bank National Broadband Strategy	16884
@@ -211,7 +216,7 @@ WB-OP00430153 URL	16194
 WB-RLLP	13998
 WB-SLMP	13998
 WB-diagnostic	3038
-WB-financed	4427,11232
+WB-financed	4427,11232,2539
 WB-financed Gambia Essential Health Services Strengthening	1654
 WB-financed PATN	3294
 WB-funded	13054,2496
@@ -249,7 +254,7 @@ WBG CRI	11965
 WBG CRI. Intermediate Indicator Component	11965
 WBG Climate Action Plan	15518
 WBG Climate Change Action Plan	3604
-WBG Corporate Scorecard	12968,3064
+WBG Corporate Scorecard	12968,3064,2101
 WBG Country Climate and Development Report	15983
 WBG Country Partnership Framework	15983
 WBG Digital Economy for Africa	3984,11569

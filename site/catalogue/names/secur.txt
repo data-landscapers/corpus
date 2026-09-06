@@ -51,6 +51,7 @@ Acting Manager Disbursement National Cyber Security	15019
 Action Securing Trust In Ghana	6936
 Action Securing Trust In Ghanda	6936
 Activists Flag Security Concerns By Tetee	6166
+Adaptation of Agriculture and Food Security	18309
 Addis Ababa Peace and Security Bureau	7909
 Address Security	5681
 Addressing AI Safety and Security	1814
@@ -207,6 +208,7 @@ Bouncing Back. SECURITY	11887
 Bouncing Back. Security	11888
 Build Secure and Reliable Biometric National Registry	24
 Building Energy Secure Mauritius	14829
+Building Secure Systems for Children	18230
 Bureau CSD Central Securities Depository EAC	14997
 Bureau of Global Health Security and Diplomacy	4165,997
 Burkina Faso Minister of Security	475
@@ -393,7 +395,8 @@ Consumer Security Server	11952
 Consumer Security Server Requirement	11952
 Contemporary Security Policy	3782,894
 Content Security Policy	15161
-Context of National Food Security	10960
+Context of National Food Security	10960,7333
+Context of National Food Security TABLE	18293
 Continuous Security	10721
 Continuous Security Monitoring CIRMR- CIRMR-CSM	10721
 Continuous Security Operations Centre	10721
@@ -556,10 +559,13 @@ DATA SECURITY Robust	1243
 DE L'EMPLOI ET DE LA SECURITE	16171
 DE L'INTERMODALITE ET LA SECURITE ROUTIERE	15999
 DE L'OBLIGATION DE SECURITE Article	17822
+DE LA SECURISATION ET DE L’AUTHENTIFICATION	18106
 DE LA SECURITE DES INFRASTRUTURES NUMERIQUE	13719
 DE LA SECURITE DES RESEAUXET DES	13719
 DE LA SECURITE DES SYSTEMES INFORMATIQUES	15584
+DE LA SECURITE ELECTRONIQUE ET DES	18170
 DE LA SECURITE ET	15584,389,126,76
+DE LA SECURITE PUBLIQUE ET	18227,11
 DE L’AGENCE DE LA SECURITE DES	16879
 DE L’EMPLOI ET DE LA SECURITE	15456,774,114
 DE PRODUCTION DE DOCUMENTS SECURISES AU	17841
@@ -595,6 +601,7 @@ DSS05 Managed Security Centre of Excellence	9237
 DSS05 Managed Security DGov	9237
 DU CONSEIL NATIONAL DE LA SECURITE	16879
 DU TRAVAIL ET DE LA SECURITE	15465,315,676
+Dakar International Peace and Security Forum	18378
 Data Data Data Implement Secure	14752
 Data Management Policy Security	10721
 Data Minimisation and Security Breach. Results	962
@@ -774,6 +781,7 @@ Establish Security Standard Time Bound Measurable	1000
 Establishing Computer Security Response Units	1000
 Establishment of Zambia Cyber Security Agency	2727
 Establishment of Zambia Cyber Security Agency Functions	2727
+Etat CYBER SECURITE OFFENSIVE	18317
 Ethics and Security	6947
 Ethio Telecom Secures	17651
 Ethiopian Securities Exchange	7688,6463
@@ -807,6 +815,7 @@ FSTS Food Security Technical Secretariat GDP	15118
 Facebook The South African Social Security	3504
 False Claims About Security	10725
 Family Security Grant	4200
+Family Security Scholarship	18305
 Farmer Security and Enforcement	14818
 Farmer Security and Enforcement Increasing	14818
 Farmer Security and Enforcement Weak	14818
@@ -827,11 +836,14 @@ Flagship The State of Food Security and Nutrition	16937
 Floor Social Security Centre	13503
 Food Consumption FOOD SECURITY	17285
 Food Safety Management Systems and Information Security	14736
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180,1094
 Food Security CBG Central Bank	17285
 Food Security CHAPTER NINETEEN	14409
 Food Security Classification	17285
 Food Security Cluster After Action Review	15093
+Food Security Commissariat	18301
+Food Security Commission	18309
+Food Security Coordination Agency	18301
 Food Security EWS	17962
 Food Security Following	11185
 Food Security Increase	14818
@@ -970,12 +982,13 @@ Health Facility Information Security Operations Centres	2709
 Health Sector Information Security Operations	2709
 Health Sector Information Security Operations Centre	2709
 Health Security	2094,2123,9765
-Health Security Program	2094,1627,7748
+Health Security Program	2094,1627,7748,6729
 Health Security and Sovereignty Agenda	5456
 Healthcare Security	3279
 Heath and Security Guidelines ESCP Environmental and Social	15518
 Help Washington Secure Durable AI Partnerships	6790
 Hi-Tech Security Printing Solutions	1282
+High National Council for Health Security	18370
 Hindering African Countries Secure Their Data	3598
 Home Affairs and Internal Security	1988
 Home Affairs and Internal Security Minister	13489
@@ -1129,6 +1142,7 @@ Interagency Security Committee	4660,27
 Interagency Security Committee. Nyombi	4660,27
 Interim Lesotho National Computer Security Incident	8230
 Interim National Security Strategy	17883
+Interior and Public Security NMHS	18309
 Interior and Security	2166
 Intermediaries FIRST Forum of Incident Response and Security	1264
 Intermediate Level GIAC Security Operations Certified	15662
@@ -1206,6 +1220,7 @@ Lab Results and Security and Tracks	2477
 Labour and Social Security	11640,776,556,121
 Land Disputes and Tenure Security	15570
 Land Rights and Secure Tenure Theme	15473
+Land Security Support Technical Committees	18293
 Land Tenure Security	15473
 Lasting Peace and Security	11154
 Launching the Bank of Ghana Cyber and Information Security	5532
@@ -1274,6 +1289,7 @@ Maritime Security and Safety and Development	8192
 Maseru Securities Market	12701
 Maseru Securities Market. Enhancement	12701
 Master Social Security Registry	8817,3123
+Mbaye D. Thiam Application Security Architect	18376
 Media and Security Conference	6278
 Medium Enterprises Maseru Securities Market Mobile	12701
 Meristem Securities	7446
@@ -1412,7 +1428,8 @@ National Basic Social Security Strategy	12247
 National Center for Social Security	10812
 National Computer Security Incident Response	5166,11862
 National Computer Security Incident Response Team	6778,1795,324,6223,433
-National Council for Food Security	16384
+National Council for Food Security	16384,1925
+National Council for Food Security SIG	18309
 National Council for Information System Security	1886
 National Council for Information Systems Security	4755,10924
 National Curriculum Secure	958
@@ -1446,7 +1463,9 @@ National Directorate of Food and Nutrition Security	10763
 National Food Safety and Nutrition Security Council	14818
 National Food Security	17105,123
 National Food Security Agency	17157
+National Food Security Commission	18301
 National Food Security Council	16384
+National Food Security Council DPV	18309
 National Food Security Index	4528,7984
 National Food Security Programme	14254,564
 National Food Security Strategy	7845
@@ -1617,6 +1636,7 @@ Outcome Secure	11986
 Outputs Primary Secondary National Security Recurrent	1777
 Overall Cyber Security Policy and Strategy	12364
 Overview FOOD SECURITY	17285
+PAIX ET SECURITE	18100
 PART II THE ZAMBIA CYBER SECURITY	2727
 PART V INFORMATION SYSTEMS SECURITY	13322
 PART VI LICENSING OF CYBER SECURITY	2727
@@ -1987,7 +2007,7 @@ Sector Security	14997
 Sector-Specific Security Requirements	5665
 Secur	5242,3881
 Secur1it1y.8anSdeAccucrietyssanCdoAnctrcoel	10157
-Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64,174,5,14,87,686,18,12,34,1,223,1,42,103,3,25,35,25,9,5,54,20,142,43,9,43,236,9,23,106,26,16,129,31,36,121,30,171,375,22,282,52,7,125,28,80,103,41,1,2,58,71,47,37,127,60,60,61,131,45,72,14,109,264,654,241,12,40,15,79,81,17,11,15,246,307,85,10,112
+Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64,174,5,14,87,686,18,12,34,1,223,1,42,103,3,25,35,25,9,5,54,20,142,43,9,43,236,9,23,106,26,16,129,31,36,121,30,171,375,22,282,52,7,125,28,80,103,41,1,2,58,71,47,37,127,60,60,61,131,45,72,14,109,264,654,241,12,40,15,79,81,17,11,15,246,307,85,10,112,391
 Secure APIs	14997
 Secure Access	15061
 Secure Affordable and Universal Access	16872
@@ -1995,7 +2015,9 @@ Secure Application Coding Principles	15161
 Secure Archival and Integrity Protection	3861
 Secure Archiving Policy	12674
 Secure Authentication	16144
+Secure Aviation Data Information Service	18128
 Secure BGP	3840
+Secure Cities	18319
 Secure Citizen	11940
 Secure Cloud and AI Innovations	6653
 Secure CloudConnect	7467
@@ -2045,6 +2067,7 @@ Secure ID	7971
 Secure ID Wallet	14756,6
 Secure ID Wallet URL	14756
 Secure Identification Credentials	3604
+Secure Identity Alliance	18290
 Secure Identity Alliance Discussion Paper. GSMA	10819
 Secure Identity Verification Integrated	12211
 Secure Information Sharing Identity and Trust Infrastructure	14752
@@ -2111,7 +2134,7 @@ Secured and Shared Infrastructure	12359
 Securely	5533,6419,34,2766
 Securely and Remotely Access Services	11940
 Secures	14601,396,1945
-Securing	1525,1152,636,116,2145,1362,2125,695,306,382,221,295,46,121,88,46,725,9,132,106,131,80,230,335,286,13,40,47,583,745,43,804,1314,273,100
+Securing	1525,1152,636,116,2145,1362,2125,695,306,382,221,295,46,121,88,46,725,9,132,106,131,80,230,335,286,13,40,47,583,745,43,804,1314,273,100,1036,56
 Securing Benefits	15411
 Securing Broadband Infrastructure	11857
 Securing Declaration	1638,11547,1895
@@ -2127,6 +2150,7 @@ Securing Lesotho’s Digital Frontiers	8700
 Securing Morocco	17503
 Securing NIPN Zambia's Future	13578
 Securing Our Digital Future	6968
+Securing Solutions	18125
 Securing Trust	6936,3448
 Securing Trust In Ghana's Digital Future	6936
 Securing Trust In Ghana’s Digital Future	6936
@@ -2141,10 +2165,11 @@ Securing and Scaling Digital Process	8386
 Securing the Bid	14766
 Securing the Future	6310
 Securing the Future Through Digital Trust	10416
+Securing the Grassroots	18230
 Securing the Nation Against Advanced Cryptographic Attacks	17736
 Securing the Procedure for Issuing the ACD	10930
 Securing the Sovereign Frontier	17792
-Securite	15584
+Securite	15584,2712
 Securite Sécurité	4960
 Securite des Systemes	6969
 Securities	3714,2354,870,260,5166,2364,2,114
@@ -2181,7 +2206,7 @@ Securitisation	5242
 Securitised	13398
 Securitised Deeds	13398
 Securitization Agenda	2117
-Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217,334,16,1,1,1,7,4,22,30,3,29,11,69,82,6,1,1,9,2,1,19,16,8,1,1,16,6,20,4,83,1,11,1,11,1,2,7,26,31,22,4,18,13,24,18,99,22,30,216,22,10,43,5,28,32,5,11,18,51,63,53,73,8,2,1,9,14,2,29,9,10,79,58,27,65,407,154,155,17,52,13,19,8,67,50,65,33,53,2,8,11,52,29,15,46,8,19,12,28,18,32,22,15,24,23,21,47,12,1,2,178,131,45,56,55,29,3,10,174,81,10,276,362,26,239,2,1,25,11,6,1,30,8,1,10,36,3,15,126,99,151,15,24,34,57,224,152,36,30
+Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217,334,16,1,1,1,7,4,22,30,3,29,11,69,82,6,1,1,9,2,1,19,16,8,1,1,16,6,20,4,83,1,11,1,11,1,2,7,26,31,22,4,18,13,24,18,99,22,30,216,22,10,43,5,28,32,5,11,18,51,63,53,73,8,2,1,9,14,2,29,9,10,79,58,27,65,407,154,155,17,52,13,19,8,67,50,65,33,53,2,8,11,52,29,15,46,8,19,12,28,18,32,22,15,24,23,21,47,12,1,2,178,131,45,56,55,29,3,10,174,81,10,276,362,26,239,2,1,25,11,6,1,30,8,1,10,36,3,15,126,99,151,15,24,34,57,224,152,36,30,189,95,116,13,9
 Security A Licensee	762
 Security Act	14674
 Security Actors	10819
@@ -2200,6 +2225,7 @@ Security Anti-DDOS	6432
 Security Architecture	5665
 Security Assertion Markup Language	12360,4564
 Security Assessment and Audit Reports Develop	15149
+Security Assurance	18183
 Security Audit	783,217,10788
 Security Audit. Acts	783
 Security Audits Regular	13381
@@ -2231,6 +2257,7 @@ Security Check Points	2113
 Security Clearance Permits	14113
 Security Cluster MOU Memorandum of Understanding NATJOINTS	11188
 Security Code and Email Address Step	14784
+Security Commissariat	18301
 Security Committee	10721,1265
 Security Committees	10721
 Security Compliance	6432
@@ -2246,6 +2273,7 @@ Security Contracts	14546
 Security Control Implementation	12189
 Security Controls	11952
 Security Controls Explicitly	6432
+Security Coordination Agency	18301
 Security Council	2117,1466,544,3730,2552,870,1700,58,5,271,846,800,2364,1,79
 Security Council Committee	3583
 Security Council Reform	12979
@@ -2292,6 +2320,7 @@ Security Global Standards	4153
 Security Guidelines	9166,5868
 Security Identity Alliance’s OSIA	10819
 Security Identity Alliance’s OSIA1	10819
+Security In the Senegal River Valley	18336
 Security Incident Management Maturity Model	7736,1734
 Security Incident Response Team	17862
 Security Incident Response Team Congo Telecom	15553
@@ -2337,14 +2366,14 @@ Security Obligations and IoT Vulnerabilities Section	8776
 Security Office GDP Gross Domestic Product	17849
 Security Operating Center	11955,962
 Security Operating Centre	16872
-Security Operation Center	6237,9275
+Security Operation Center	6237,9275,2805
 Security Operation Center SWIFT Society for Worldwide	15023
 Security Operation Center TIC	15512
 Security Operation Centre	11986
 Security Operations Cent IDA	17219
-Security Operations Center	1777,2066,2989,888,3001,3940,158,1325,51,833,191
+Security Operations Center	1777,2066,2989,888,3001,3940,158,1325,51,833,191,1176
 Security Operations Center SPN Specific Procurement	15518
-Security Operations Centers	3604,2073,3630,868,546
+Security Operations Centers	3604,2073,3630,868,546,7698
 Security Operations Centre	1770,892,47,628,747,1449,260,1153,1529,225,1028,111,409,57,416,235,1030,1546,801,419
 Security Operations Centre SQL Structured Query	6432
 Security Operations Centre and Service Control Centre	12285
@@ -2405,6 +2434,7 @@ Security Standards Council	12285
 Security Strategy	5270
 Security Strengthen	7548
 Security Studies	9616
+Security Support Technical Committees	18293
 Security Surveillance Camera	11285
 Security Survey	17285
 Security Systems	16878
@@ -2420,6 +2450,7 @@ Security ToR Top of Rack UI User	13185
 Security Token Offering	14819
 Security Training	1988,4958
 Security Transformation Agriculture	4528,7984
+Security URL	18336
 Security Uganda Launches	9981
 Security Under the Electronic Transactions Law	12294
 Security Unit	14729,23
@@ -2520,6 +2551,7 @@ SecurityNamibiaEmma TheofelusCyber	4073
 SecurityNamibiaNetumbo Nandi-NdaitwahIndiaSecurityCyber	3253
 SecurityProducts	5574
 SecurityRwandaShain RahimCiscoPaula IngabireRead	3697
+Securité	18216
 Securité En	13337
 Senegal's Ministry of Interior and Public Security	4997
 Senior Lecturer Information Systems and Cyber Security	3654
@@ -2542,7 +2574,7 @@ Smart and Secure Environment	12926
 Smart and Secure Environments	12926
 Smile Secure	12404
 Social Development ESTA Extension of Security of Tenure	11188
-Social Security	2307,2303,1848,480,1831,2006,37,1093,1059,8,507,1269,4,78,849,1162,61,40,30
+Social Security	2307,2303,1848,480,1831,2006,37,1093,1059,8,507,1269,4,78,849,1162,61,40,30,1137
 Social Security Act	12327
 Social Security Commission	12466,12,445,38,76
 Social Security Commission Good Standing Certificate	12400

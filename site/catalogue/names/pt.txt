@@ -95,6 +95,7 @@ Gozem Money PTE LTD	15780
 Gozem Opérations PTE LTD	15780
 IFM Quality Services Pty Ltd	14736
 IHD Labo PT IND	16841
+IOC Pt	18359
 IRMA Asia Pte. Ltd	10342
 Indicateurs DRH-SSDS PTF Définir	17845
 Information PTA	10874
@@ -112,11 +113,14 @@ Language Selector PT EN FR	15505,637,51,150
 Le Ministre des PT-N	15768
 Le PT2S	16681
 Le PTA	10874,2
+Le PTBA	18222
 Le PTR	15569
 Le Patron des PTN	2602
 Les PTF	10874,1070,3729,47,1002
 L’action des PTF	17894
 L’élaboration du PTA	10876
+MEDDTE PTF Extrant	18286
+MFB PTF	18286
 Marchés Publics PTBA Plan de Travail	10876
 Mi- Août PTA	10876
 Ministre des PT-N	2886
@@ -132,6 +136,7 @@ Name of PTA Chairman Contact	16963
 Namibia Power Corporation Pty. Ltd	12399
 National PTA	16963
 Nombre de PTBA	3396
+Nombre de PTF	18286
 Non Techniques PTU Programme Thermique	10975
 Number PTMP	16032
 O PTC	11542
@@ -141,15 +146,19 @@ OC Pt3	16187
 OC Pt3.3	16187
 OC Pt4	16187
 OCARBURES JEAN-B PTIS'IE Olivier EUE	14479
+ONP PTF OSC	18286
+OSC PTF	18286
 Octobre du PTA	10876
 OreWin Pty Ltd	15952
 PAN-GIIG. Les PTF	17983
+PIUs. This PTC	18198
 PNE Politique Nationale Enseignante PTF Partenaires	17885
 POR Plan Opérationnel des Réformes PTF Partenaires	18015
 POT PRTD PTI RGA SISE SPSIA	17978
 PRC Pedagogic Resource Center PTSA Parent	13960
 PRODESS IV PSNSN PTF RAFT RMPS	17882
 PROGRAMME DE RESILIENCE DU SYSTEME PT-RM	17861
+PSE Plan Sénégal Emergent PTF Partenaires	18286
 PSRE. Les PTF	15722
 PST PTMR PUD RCA	15542
 PT Agenda Previsão	3192
@@ -197,6 +206,7 @@ PTAs Communities Local	15604
 PTBA M	15411
 PTBA. Alexis Guenengafo	16583
 PTC and HTC	16852
+PTC. The PTC	18198
 PTCIJ	11866
 PTCLR	11954
 PTD&A148	14997
@@ -213,26 +223,34 @@ PTF Axe	10874
 PTF CPS	17845
 PTF Développer Pourcentage	17845
 PTF ETAT	17882
+PTF Effet	18286
 PTF Etat	17845
 PTF Existence	17845
 PTF Existence de Supports Activité	17845
+PTF Extrant	18286
 PTF GIZ	15712
 PTF GIZ Banque	15712
 PTF GOUVERNANCE	17845
 PTF Informatiser	17845
 PTF Laboratoires	17845
 PTF Les OSC	15722
+PTF MFFPE	18286
 PTF Operationnaliser	17845
 PTF Organiser	17845
 PTF PM	17845
+PTF Parlement	18286
+PTF Parlement Extrant	18286
 PTF Partenaire	15724,237
 PTF Partenaires	16620,1223,38
 PTF Partenaires Techniques	17907
 PTF Plan Stratégique National de Santé Numérique	17882
 PTF Politique de Sécurité	643
+PTF Pourcentage	18286
 PTF Proportion des Etat	17845
+PTF Rapports	18286
 PTF Renforcer	17845
 PTF SECTEURS DU PNDES MONTANTS	643
+PTF Sign MoU	18228
 PTF Social CSRéf Survie	17845
 PTF de DHIS2	17845
 PTF du Mali	17830
@@ -241,10 +259,13 @@ PTF. Afin	13306
 PTF. Ainsi	17844
 PTF. Analyse	18015
 PTF. Approche	15722
+PTF. BUREAU DE SUIVI STRATEGIQUE	18302
 PTF. Ces	10874
 PTF. En	15722
 PTF. Le STG	15673
 PTF. L’utilisation	15961
+PTF. Une	18291
+PTFM Plate-Forme Multi-Fonctionnelle PV Photovoltaïque SDDCI	18103
 PTFs A2O2R1.2 Collecte	15580
 PTFs A2O2R2.3 Elaboration	15580
 PTFs A2O2R3.2 Elaboration	15580
@@ -254,6 +275,7 @@ PTFs Budget GIZ Ministère	15712
 PTFs GIZ Banque	15712
 PTFs. En	15479
 PTFs. II	15685
+PTFs. Le Fonds	18291
 PTI BANNER-2	9799
 PTI.A	9404
 PTICA DA PROCURA Estudos	11366
@@ -293,6 +315,7 @@ Paquets de Services Essentiels PTAB	15423
 Paquets de Services Essentiels PTF	15685
 Petites PT-RM	18032
 Peu des PTFs	13306
+Plan Sénégal Emergent PTF	18291
 Plan de Travail Annuel Budgétisé PTF	15423
 Plan de Travail Annuel PTF	10874
 Prado PTN	9739
@@ -336,6 +359,7 @@ Soutien des PTF. Plan Stratégique National de Santé	17882
 Strategy for Development PTC Project Technical Committee	16144
 Sustentável PIB Produto Interno Bruto PTF	15535
 Système Statistique PTF	10874
+S’agissant des PTF	18291
 TIKTOK PTE. LTD	13462
 TIKTOK PTE. LTD..........................................21	13462
 TITRE VI DES PTAINTES DES UTITISATEURS	15429

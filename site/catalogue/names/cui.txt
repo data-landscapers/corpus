@@ -8,6 +8,7 @@ CUISSON PROPRE POUR UN ACCES ABORDABLE	15801,236
 CUISSON PROPRES	15799
 CUITENCY	14713
 Cambambe Cacolo Cuito Cuanavale Cuvango Bailundo	10765
+Centre des Métiers du Cuir	18149
 Centros de Cuidados	15694
 Centros de Cuidados Dependentes	15694
 Cuidados	10760,17,766,4151,272,521
@@ -23,10 +24,14 @@ Cuidar	4218,7163
 Cuima	5721
 Cuirasse	15715
 Cuirasse Formation	15715
+Cuisine	18312
+Cuisine Répartition	18312
 Cuisiner	13300
 Cuisines	17812
+Cuisinière	18312
+Cuisinière GPL	18312
 Cuisinières	16047
-Cuisson	13433,2366,238,1857
+Cuisson	13433,2366,238,1857,422
 Cuisson Propre	15801
 Cuisson Propre Mise	13433
 Cuito	5721
@@ -34,7 +39,7 @@ Cuivre	13419
 DEFICIÊNCIA Cuidados	15694
 DIVERSIFICATION PROGRESSIVE DES OPTIONS DE CUISSON	16037
 Deficiência PNC Plano Nacional de Cuidados ANEXO	15694
-ET DE CUISSON PROPRE POUR UN	13433,2604
+ET DE CUISSON PROPRE POUR UN	13433,2604,2279
 GETEX Groupe Textiles Et Cuirs SHYMECA	16103
 INDUSTRIES DES PEAUX ET DES CUIRS	16103
 Medicamentos. CS Centro de Saúde. CSP Cuidados	11543

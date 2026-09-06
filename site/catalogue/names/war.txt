@@ -2,6 +2,7 @@ AAD WAREEJINTA XOGTA Qodobka	15152
 AD WARNING	15774
 AI-driven Modern Warfare	1814
 AI-powered Early Warning System	15178
+ANACIM Warnings	18309
 ANRPTS WARDIP	18007
 AON-05 WARDIP	17914
 AON-05 WARDIP-2025 Intitulé du Marché	17914
@@ -46,7 +47,8 @@ Civilians and Civil Wars	16949
 Classified Warning Signs No Change	10835,3,130,918,466,1,135
 Classified Warning Signs No Change Best	10835,3,130,918,602
 Climate Change WB World Bank WARDIP	17114
-Climate Risk and Early Warning Systems	13767,2550,182,199,367,897
+Climate Risk and Early Warning System Initiative	18198
+Climate Risk and Early Warning Systems	13767,2550,182,199,367,897,347
 Climate-Informed Maternal Access Early Warning	11589
 Cold War	4676,353,15,1953,4157
 Commonwealth War Graves Commission Data Controller	7167
@@ -63,6 +65,7 @@ Continental Early Warning System	5825
 Contract Farming and Warehouse Receipt System	7763
 Convection Warning	14256
 Coordinateur du Projet WARDIP	18007
+Coordination Unit of Early Warning System	18104
 Correlates of War	7662
 Creation of Data Warehouse	14790
 Crime Prevention Unit WAREHOUSING FIREARM INDEX	14760
@@ -93,6 +96,7 @@ Document Warehouse	12337,141
 Document Warehouse Namibia	12478
 Documents the WARDIP-GB	6269
 Dr. Ahmed Absieh Warsama	3098
+Dr. Dimie Shively Wariowei	18168
 Dr. Warren Bright	16777
 Drought Early Warning System	17157
 EARLY WARNING	17157
@@ -100,20 +104,26 @@ ECOWAS WARDIP Project Implementation Unit	17380
 EIPA Warns Against Rising Online Copyright	8647
 ESMF for WARDIP-SOP2 Liberia	17114
 EU European Union EWS Early Warning	17849
+EU-funded Strengthening Early Warning	18392
 EW4All Weather Warnings for All Franc CFA	11553
+Early Action Warning System SNIS National	18198
 Early Warning	12003,974,118,26,1802,1036,412,576,4,206
 Early Warning A. Disaster Risk Knowledge	12977
 Early Warning Signal Against	5550
-Early Warning System	11134,2505,615,2693,23,187
+Early Warning System	11134,2505,615,2693,23,187,1152
+Early Warning System Coordination Unit	18198
 Early Warning System Food and Agriculture Organisation	10763
+Early Warning System Initiative CRP Crisis	18198
 Early Warning System SAPCI Flood Early	17962
+Early Warning System SARP	18309
 Early Warning System for All	12689
-Early Warning Systems	11134,2768,916,2339
+Early Warning Systems	11134,2768,916,2339,1041
 Early Warning Systems Early Warning Systems	14818
 Early Warning Systems Ministry of Public Works	17157
 Early Warning Technical Working Group	12977,3993
 Early Warning and Anticipatory Action	15196
 Early Warning and Disaster Preparedness	8645
+Early Warning and Preparedness	18301
 Early Warning and Preparedness Providing	17285
 Early Warning for All	12988,72
 Early Warning for Livestock	14818
@@ -145,6 +155,7 @@ Final-ESMF WARDIP-SOP2-Liberia-11Dec2025.docx.pdf	17114
 Fire Warden Team and Capacity	14761
 First World War	10780
 First and Second World Wars	14774
+Flood Warning Bulletins	18309
 Forecasting and Early Warning Support	13925
 Former Warring Parties	12912
 Freetown Bonded Warehouses Breaking	5939
@@ -214,6 +225,7 @@ Mark Warschauer	6948
 Matebo Ward	1867,121
 Maternal Child Health Commodities Warehousing	4202
 Matsapha Forklift Doc MCC Warehouse	11134
+Mauritania-Senegal Border War	18293
 Mauritius World War Records	14774
 Medinet the War of Attrition	15473
 Method of Warfare	8485
@@ -241,6 +253,7 @@ Mwenshe Ward	13387
 NBR Electronic Data Warehouse	15023
 NEWU National Early Warning Unit	12931
 NIMC Intensifies Ward-Level NIN Enrolment Nationwide	5284
+NOAA Early Warning System	18360
 NamRA Tug of War	13044
 NamRA’S TUG OF WAR CHAMPIONS	13044
 NamRA’s Tug of War	13044
@@ -253,6 +266,8 @@ National Roads Authority Warns of Rising Theft	17069
 National Tsunami Warning Centre for Mauritius	14732
 Network WARCIP West Africa Regional Communications	17099
 News The Space for Early Warning	14522
+Niger Standardized Warehouse Estimated	18109
+Niger’s Early Warning System	18198
 Nominations Warren King	16158
 Not... Senate Warns Wildlife Shortage of Food	4942,664,283,454,183
 Nuclear Weapon Search War	10
@@ -315,6 +330,7 @@ Ross Warwick	13624
 Russia War	16951
 Russia-Ukraine War	8437
 Russia’s Wartime Cyber Operations	11310
+SAP Early Warning System Coordination Unit	18198
 SEARCH WARRANT	14809
 SEIZED WARRANTS EXECUTED	14760
 SEP for WARDIP SOP	17114
@@ -342,7 +358,7 @@ Standard Demarcation of Electoral Wards	11129
 State Warehouse	11036
 State-owned Facilities for Warehousing	4301
 Strengthen Impact Based Forecasting and Early Warning	13201
-Strengthening Early Warning	11283,3239,571,1294
+Strengthening Early Warning	11283,3239,571,1294,2005
 Strengthening Early Warning Systems	16371
 Strengthening Early Warning Systems and Climate Services	13207
 Strengthening of Early Warning Systems and Climate Services	7030
@@ -560,7 +576,7 @@ Wareejin Nuqullada Diiwaannada	15153
 Wareejin Xogta	15152
 Wareejinta	15152
 Wareejintu	15152
-Warehouse	13763,1264,597,1219,128
+Warehouse	13763,1264,597,1219,128,1335
 Warehouse Construction Project Manager	17048
 Warehouse Fund	4896
 Warehouse Management	13042
@@ -590,7 +606,7 @@ Warmquelle	12933
 Warmware	5513,38
 Warner	9739,872
 Warner J	5242
-Warning	3665,297,648,3404,1124,1984,298,783,1162,364,719,443,190,171,240,879,507,187,92,812
+Warning	3665,297,648,3404,1124,1984,298,783,1162,364,719,443,190,171,240,879,507,187,92,812,340
 Warning Africa Cannot Ignore	8497
 Warning Dissemination and Communication	16137
 Warning Doesn't Arrive	17596
@@ -606,13 +622,16 @@ Warning Signs Score	10837,1315,188
 Warning Signs. African	12163
 Warning Signs. Women's Equality	11888
 Warning Signs. Yearly Overall Governance	11888
+Warning System FEWS-Niger Famine Early Warning	18198
 Warning System SCAP-RU Disaster Preparedness Committee	17962
+Warning System and Emergency Response SDR Special	18198
 Warning Systems	17962
 Warning The CSA	9842
+Warning and Crisis Management	18198
 Warning and Emergency	14738
 Warning and Indicative	15081
 Warning and Monitoring Flood	17157
-Warnings	1000,5423,2008
+Warnings	1000,5423,2008,9878,83
 Warnings and Alarm	9123
 Warns	4799,568
 Warns Against Media Intimidation Cummings Alleges	4261

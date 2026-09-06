@@ -56,11 +56,11 @@ Degradación	1701,15174
 Degradación Cobertura	16875
 Degradación Forestal	16875
 Degradantes	17194
-Degradation	15129,2011
+Degradation	15129,2011,1153
 Degraded	17140
 Degraded Forest	17140
 Degrading Treatment	3583,8182,1275,1702,97,2119
-Degree	1219,2568,271,838,351,2512,3103,269,810,234,325,193,4375,31
+Degree	1219,2568,271,838,351,2512,3103,269,810,234,325,193,4375,31,1194,61
 Degree Call Flow Chart Satisfied Satisfied	16889
 Degree Programs Diploma Programs Short-term Courses	17232
 Degree and Type	10726
@@ -69,10 +69,10 @@ Degree of EU	3787
 Degree of Private	15473
 Degree of Risk and Potential Harm	11956
 Degree of Urbanisation Classifications	14674
-Degrees	736,8103,8387
+Degrees	736,8103,8387,873
 Degrees Business Solutions	4672
 Degrees Height Power Base Station Decimal	736
-Degré	737,9975,7107
+Degré	737,9975,7107,467
 Denise DEGBEDJI Maixent DJEIGO Mama SALIFOU	16485
 Derek Degbe	10653
 Description DEG	248,96,116,161,208,1,225,1,1,1,376,716,1
@@ -88,6 +88,7 @@ Environmental Degradation and Climate Change Management	12253
 Estimated. DEG	1058
 Ethiopia Citation Degaga SD	12246
 Ethiopia. First DEG FinTech	248
+Etudes du Premier Degré	18171
 First Degree	15845
 Forest Degradation. Liberia	17140
 Gambian Standard for Degermed Maize Meal and Maize	16900

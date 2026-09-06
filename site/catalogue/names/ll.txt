@@ -111,10 +111,11 @@ Google LLMs	13461
 Government Authorities LLA Liberia Land Authority	17114
 Grounding LLMs. Available	13461
 Half of LLDCs	11563
-ITU In LLDCs	10844
+ITU In LLDCs	10844,7279
 IUNetworks LLC	8285
 IUNetworks LLC and Omni Software Ltd JV	3700
 Idrak Group LLC	11760
+Independent Power Producer LLK	18322
 Instituto Público LLM	2816
 Introducing Llama	13461
 Introducing Multimodal Llama	10133
@@ -146,28 +147,30 @@ LLC. Liberian International Ship and Corporate Registry	16832
 LLD and IA	16843
 LLD for FLEGT	16843
 LLDC Landlocked Developing Country ML Machine	13042
-LLDCs	2663,6282,1819,80,160,559,9,348,1122,3589,1112
+LLDCs	2663,6282,1819,80,160,559,9,348,1122,3589,1112,380,226
 LLDCs Africa	10844
-LLDCs Africa N	10844
+LLDCs Africa N	10844,7279
 LLDCs Arab States Lower-middle-income Asia-Pacific SIDS	17743
 LLDCs Asia	10844
-LLDCs Asia N	10844
-LLDCs Averages	10844
-LLDCs Emerging	10844
-LLDCs Landlocked	10844
-LLDCs N	10844
-LLDCs Percentage	10844
+LLDCs Asia N	10844,7279
+LLDCs Averages	10844,7279
+LLDCs Emerging	10844,7279
+LLDCs Landlocked	10844,7279
+LLDCs N	10844,7279
+LLDCs Percentage	10844,7279
 LLDCs SIDS	17743
-LLDCs World	10844
-LLDCs and LLDCs	10844
+LLDCs World	10844,7279
+LLDCs and LLDCs	10844,7279
 LLDCs and SIDS	11004,2038,4701
-LLDCs-Africa and LLDCs-Asia	10844
+LLDCs-Africa and LLDCs-Asia	10844,7279
+LLDCs. Artificial	18123
 LLDCs. Artiﬁcial	10844
-LLDCs. Despite	10844
-LLDCs. Evolution of ICT	10844
-LLDCs. ITU	10844
-LLDCs. Over	10844
-LLDCs. Policy	10844
+LLDCs. Creating	18123
+LLDCs. Despite	10844,7279
+LLDCs. Evolution of ICT	10844,7279
+LLDCs. ITU	10844,7279
+LLDCs. Over	10844,7279
+LLDCs. Policy	10844,7279
 LLIDF	434
 LLINs	4153,64,84
 LLL. CAT and RPL	12574
@@ -256,6 +259,7 @@ November. The NMSMC and LlC	16853
 Number LLM Large Language Models	3184,1,1340,6470
 Nvidia and Lloyds Capital	5798
 N’TI LLIT	17828
+O LLU X EN ERGY Avis	18322
 ODHIAMBO ADVOCATES LLP Data Controller INST-832640E4465	7167
 OL Otieno Advocates LLP	8764
 OPENAI OPCO LLC	13462
@@ -291,31 +295,32 @@ Tech-O9 LLMpowered	15713
 Techno Brain Global FZ LLC	3700
 Trials for LLM-supported	11585
 Trust LLC	10380
-UNCTAD and WTO Many LLDCs	10844
+UNCTAD and WTO Many LLDCs	10844,7279
 UNITED STATES OF AMERICA et al v GOOGLE LLC dc-	13461
 Uganda AY LL Personal Protection	5113
 Uganda. Google LLC	3307
 Univision LLC	15471
 Use Modern AI Tools LLMs	18039
 V OF LlBERlA	16851
-Vienna Programme of Action for LLDCs	10844
+Vienna Programme of Action for LLDCs	10844,7279
 Watkins LLP	7198
 Wh Kilowatt Hour LLM Large Language	10781,1646,2055
 WhatsApp LLC	3962,1151,107,3070
 WhatsApp LLC and Meta Platforms	5113,3177
 Whether Google LLC	3307
 Whether WhatsApp LLC	5113
-Within LLDCs	10844
-World LLDCs	10844
-World LLDCs LDC LLDCs Other LLDCs	10844
-World LLDCs LLDC	10844
-World LLDCs Note	10844
+Within LLDCs	10844,7279
+World LLDCs	10844,7279
+World LLDCs LDC LLDCs Other LLDCs	10844,7279
+World LLDCs LLDC	10844,7279
+World LLDCs Note	10844,7279
 X LLD Application	16848
 X LLD Mechanisms	16848
 X.AI LLC	13462
 X.AI LLC AND X CORP	13462
 X.AI LLC AND X CORP................................25 GOOGLE	13462
 Xalam Analytics LLC	3184,1,1340,6256,214,1432,2055
+YouTube LLC	18371
 Young LLP	7204,3042
 ZSE and Lloyd Corporate Capital	8626
 Zimbabwe Stock Exchange Limited and Lloyd	8626

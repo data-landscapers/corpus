@@ -135,7 +135,7 @@ GREEN RECOVERY DEVELOPMENT POLICY LOAN	12560
 GREEN RECOVERY DEVELOPMENT POLICY LOAN II	12560
 Gas Storage Load Load	11953
 Gatumba and Load	12358
-Generation Load Factor	12062
+Generation Load Factor	12062,6124,31
 Gh Loans	8732
 Global Adaptation Initiative NPL Non-Performing Loans	16996
 Google-Kiva Low-Interest SME Loans Africa	675
@@ -171,7 +171,7 @@ IBRD Loan and IDA Credits and Grants	10964
 IBRD Loans	15372
 IBRD Loans and IDA Credit	15411
 IBRD Loans and IDA Credits	15372
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249
 IBRD Total Loan	12980
 IDA EPTC Loan Agreement	6539
 IDA Effectiveness the Loan Agreement of Effectiveness	11417
@@ -189,6 +189,7 @@ IHS Nigeria Tower Expansion Loan	80
 IV Loandjili	15379
 Inclusive Growth and Diversification Development Policy Loan	10768
 Information Letter DPL Development Policy Loan	10768
+Institutional Arrangement Yes Clients Yes Loan	18359
 International Bank for Reconstruction and Development Loans	17180
 Interruptible Load Supply	11953
 Intraday Loan Credit	12364
@@ -249,7 +250,7 @@ Loaded	5326
 Loaded Pictures. Interview	10977
 Loaded Pictures. Patricia Anne Janer and Ryan	10977
 Loader	12970
-Loading	1988,3097,3519,2,434,3295,547,812,1798,1351
+Loading	1988,3097,3519,2,434,3295,547,812,1798,1351,1266
 Loading Dock	9123
 Loading Sequence	12360
 Loads	1988,13039
@@ -275,7 +276,7 @@ Loan Allocated	15411
 Loan Authorization Act	483
 Loan Authorization Bills	12987
 Loan Cancellations	11965
-Loan Cancellations No Development Objective	15969
+Loan Cancellations No Development Objective	15969,2390
 Loan Cancellations No Legal Operational	16187
 Loan Closing Date	1228,56,14317,62,1233,26,927,13
 Loan Closing Date Extension	2473,9451,41,1896,4101
@@ -412,6 +413,7 @@ Project Loan	15619,1019,542
 Proposed Loan	15411,107,141
 Provision of Intraday Loan Facility	12364
 Provision of Intraday Loan Facility The BoZ	12364
+Q4 Load Factor	18217
 Quality of Loans	15023
 Quick Loans	8974
 RATE AVG PERSONAL LOAN RATE AVG	17235
@@ -436,6 +438,7 @@ SOP1 Loan	17219
 SYSTEM LOADING' Kalola	15289
 Samurai Loan	14195
 Saving Internal Loaning Community	13390
+Savings and Loan Association Regional Vice President	18104
 Savings and Loan Association VUP Vision Umurenge	15138
 Savings and Loan Associations	17138
 Savings and Loan Associations WAMA West African	17235
@@ -490,6 +493,7 @@ Utilize Drawn Down Loan Proceeds	14546
 Uwezo Fund Loans Disbursement	2775
 Variable Spread Loan	17441
 Vehicle Load Management and Cross Border Road	12918
+Village Savings and Loan Association	18104
 Village Savings and Loan Associations	10299,542,3712,406,179,1115,982
 Village Savings and Loan Associations. Complementary	17096
 Village Savings and Loans	12964

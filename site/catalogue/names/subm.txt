@@ -211,6 +211,7 @@ Meta Submission	13461
 Meta. Submissions	5113
 Method of Submittal Respond	12754
 Ministry of Technology and Science Submission	13336
+Multiple Data Submissions	18132
 Must Complete and Submit IT3	11276
 NCA Holds First Somalia Submarine Cable	15216
 NCC Close Ranks On Submarine Cable	2677
@@ -308,7 +309,7 @@ Strengthen Kenya’s Data Governance Framework Submitted	14561
 Strengthen Submarine Cable Resilience	7199
 SubModuleID	126
 Submarina	11396
-Submarine	1264,1413,236,271,598,77,817,576,428,1,789,110,208,411,1746,2050,862,2241,267,851,208,720,756,199
+Submarine	1264,1413,236,271,598,77,817,576,428,1,789,110,208,411,1746,2050,862,2241,267,851,208,720,756,199,1331
 Submarine ASCON	11857
 Submarine Cable	260,40,5381,9061,2357,15
 Submarine Cable Connectivity Fundamental	2677
@@ -434,7 +435,7 @@ Submitted	1016,622,140,210,1738,2501,3008,615,473,269,1498,172,52,24,26,36,1538,
 Submitted List	11276
 Submitted the Liberia Health Equity Fund	16971
 Submitters	12415
-Submitting	1554,10672
+Submitting	1554,10672,5883
 Submitting Entity Name	11276
 Submitting Entity Reference	11276
 Submitting Invoices	12389

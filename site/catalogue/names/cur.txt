@@ -32,6 +32,7 @@ African Export-Import Bank's African Currency Marketplace	10718
 African Financial Currency Unit	15661
 African Higher Education Curriculum Conference	10170
 Ag. Senior Chief Executive Curative Public	14773
+Alternative Current	18103
 Amicus Curiae	3572,9468
 Amicus Curiae Makhambera	13040
 Among Cheapest Currencies In The World	5390,965,827
@@ -90,7 +91,7 @@ CO2. Currently	1264
 COCF TABLE OF CONTENTS CURRENCY EQUIVALENTS	13885
 CODE NO. OF PAGES CURRENT PRICE	16900
 COMPLIMENT TOTAL POSITIONS CURRENT Minister’s Officer	12970
-COMPONENTS Current Component Name Current Cost	1284,15612,26
+COMPONENTS Current Component Name Current Cost	1284,15612,26,1437
 CRVS CSI CSMF CURY D4H DHIS	15599
 CURATRIX HEALTH CARE CENTRE LTD Data	7167
 CURDES	7955
@@ -108,7 +109,7 @@ CURIAE CORAM	13040
 CURR IncorrectAgent Agent	12364
 CURRENCY AND BANKING OPERATIONS	15023
 CURRENCY CONVERSIONS	1818
-CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88,81,356,19,41,211,792,363,1,402,8,1,118,24,1091,162,234,39,107,103,37,3,82,39,250,112,240,14,38,460,26,536,391
+CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88,81,356,19,41,211,792,363,1,402,8,1,118,24,1091,162,234,39,107,103,37,3,82,39,250,112,240,14,38,460,26,536,391,255
 CURRENCY EQUIVALENTS Exchange	13938
 CURRENCY EQUIVALENTS Exchange Rate Effective	10768,649,4098,468,966,1013
 CURRENCY EQUIVALENTS Exchange Rate Effective Mar	15659
@@ -157,7 +158,7 @@ Caribbean Netherlands Curaçao Dominica El Salvador	16631
 Cash Equivalents Harare Total Current Assets	4896
 Category Expenditure Current Actuals	2473
 Category Foreign Currency	11863
-Category No. Expenditure Category Current Allocation	15969,218
+Category No. Expenditure Category Current Allocation	15969,218,2172
 Caungula Xa-Muteba Muconda Ucuma Curoca Ombadja	10765
 Censo Escolar de Principio de Curso	16864
 Central Bank Digital Currencies	3965,12,7071,82,731,2958
@@ -172,7 +173,7 @@ Cites Current AI	5029
 Closed Current EA Category Original EA	11924,6038
 Collection and Curation. Volume	8021
 Commission Nationale des Curricula	17863
-Committed Proposed Allocation Current Proposed	15969,218
+Committed Proposed Allocation Current Proposed	15969,218,2172
 Communities Cultural Heritage Not Currently Relevant	15553
 Communities Not Currently Relevant ESS	11560
 Competence-Based Curriculum	14922
@@ -195,7 +196,7 @@ Country and Sector Overview Including Current	15977
 Course Curriculum	17232
 Covid-19 the Competency-Based Curriculum	899
 Cultural Heritage Not Currently Relevant	15658
-Cultural Heritage Not Currently Relevant ESS	10768,792,4101,1288
+Cultural Heritage Not Currently Relevant ESS	10768,792,4101,1288,1249
 Curacao	15471
 Curacel	9574
 Curacel Systems LTD Data Processor INST-9510334930A	7167
@@ -249,7 +250,7 @@ Currencies of Bid	13185
 Currencies of Bid and Payment	13185
 Currencies of Disbursement. Subject	16219
 Currencies of Proposal and Payment	15080
-Currency	17,216,304,42,6,95,178,185,107,44,24,10,10,56,1,30,1,1,1,1,1,7,5,172,67,5,1,73,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,14,12,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,86,39,21,12,30,1,1,1,1,1,39,1,29,1,55,63,43,35,17,170,163,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,525,22,1,1,1,1,1,1,1,1,1,172,92,127,5,1,149,54,20,17,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,74,10,19,21,5,1,1,1,1,1,212,1,20,26,71,1,36,13,1,43,1,1,1,66,277,268,61,359,2,11,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,126,410,96,74,41,161,13,171,144,1,1,1,1,1,1,1,1,370,425,32,420,396,20,217,73,6,119,38,47,66,756,82,65,22,16,497,36,268,70,3,174,241,403,4,20,367,33,254,375,527,155,26,314,267,333,109,161,22,78,474,245,42,169,76,183,33,53,44,123,1,112,111,89,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,127,172,51,19,97,50,392,321
+Currency	17,216,304,42,6,95,178,185,107,44,24,10,10,56,1,30,1,1,1,1,1,7,5,172,67,5,1,73,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,14,12,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,86,39,21,12,30,1,1,1,1,1,39,1,29,1,55,63,43,35,17,170,163,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,525,22,1,1,1,1,1,1,1,1,1,172,92,127,5,1,149,54,20,17,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,74,10,19,21,5,1,1,1,1,1,212,1,20,26,71,1,36,13,1,43,1,1,1,66,277,268,61,359,2,11,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,126,410,96,74,41,161,13,171,144,1,1,1,1,1,1,1,1,370,425,32,420,396,20,217,73,6,119,38,47,66,756,82,65,22,16,497,36,268,70,3,174,241,403,4,20,367,33,254,375,527,155,26,314,267,333,109,161,22,78,474,245,42,169,76,183,33,53,44,123,1,112,111,89,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,127,172,51,19,97,50,392,321,347
 Currency Bond Market Lesotho National Switch	12701
 Currency CBDC	3830
 Currency Committee of Central Bank Governors Combating	11134
@@ -279,7 +280,7 @@ Currency Taxes	11563
 Currency Technical Working Group	10260
 Currency US	1284
 Currency USD	3676
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178,282,26,27,3,489,17,391,13,100
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178,282,26,27,3,489,17,391,13,100,142,94,95,8
 Currency Unit Equivalent	13938
 Currency Unit1 Equivalent	11863
 Currency and Banking	11134
@@ -287,7 +288,7 @@ Currency and Exchanges Act	8840
 Currency of Proposals	14927
 Currency. Subject	16368
 Currency. TechBooky	4467
-Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277,54,2,48,11,7,1,31,5,11,15,2,6,64,152,9,9,5,22,12,30,72,30,41,5,12,103,120,44,188,11,16,5,20,41,35,13,1,4,256,17,54,33,2,59,53,284,52,52,50,22,122,44,66,450,33,112,79,37,7,29,9,17,34,5,20,46,57,88,87,8,131,7,26,12,35,51,15,38,78,2,223,9,44,11,8,47,65,43,249,202,67,146,12,13,7,2,15,22,2,2,16,5,19,28,2,4,79,17,20,23,1,69,30,18,3,210,33,2,268,96,1,34,5,49,4,9,19,16
+Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277,54,2,48,11,7,1,31,5,11,15,2,6,64,152,9,9,5,22,12,30,72,30,41,5,12,103,120,44,188,11,16,5,20,41,35,13,1,4,256,17,54,33,2,59,53,284,52,52,50,22,122,44,66,450,33,112,79,37,7,29,9,17,34,5,20,46,57,88,87,8,131,7,26,12,35,51,15,38,78,2,223,9,44,11,8,47,65,43,249,202,67,146,12,13,7,2,15,22,2,2,16,5,19,28,2,4,79,17,20,23,1,69,30,18,3,210,33,2,268,96,1,34,5,49,4,9,19,16,127,217,4,1,4
 Current AI	5029,2519,3587
 Current AI Lifecycle	7548
 Current Account	2775,14221,239,22
@@ -483,9 +484,10 @@ Current Workload All	7548
 Current Year Personnel	11134
 Current Year Ratio Capital	11134
 Current Zimbabwe Act	736
+Current and Proposed Projects Activities Number	18301
 Current-Conditions Gains So Low	11140
 Current-year	13868
-Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74,84,304,12,4,17,15,13,5,1,4,29,3,4,16,14,6,25,29,84,1,8,28,7,24,4,4,3,15,1,7,1,1,13,15,17,7,39,10,13,2,1,7,3,3,1,3,19,4,13,1,4,14,9,4,12,44,2,19,23,94,37,56,48,135,3,24,6,9,6,13,2,51,14,11,7,20,2,84,59,70,15,4,17,15,3,39,30,7,14,38,27,59,397,12,6,12,4,86,16,93,1,86,95,288,8,56,19,4,1,81,1,2,33,30,2,1,25,10,15,8,11,31,26,16,17,125,4,226,13,23,15,11,38,7,35,51,17,26,16,423,170,142,204,250,8,12,4,9,1,16,7,6,1,5,2,1,11,4,3,1,6,1,1,12,1,2,5,1,6,16,2,15,26,77,25,1,301,327,5,7,90,92
+Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74,84,304,12,4,17,15,13,5,1,4,29,3,4,16,14,6,25,29,84,1,8,28,7,24,4,4,3,15,1,7,1,1,13,15,17,7,39,10,13,2,1,7,3,3,1,3,19,4,13,1,4,14,9,4,12,44,2,19,23,94,37,56,48,135,3,24,6,9,6,13,2,51,14,11,7,20,2,84,59,70,15,4,17,15,3,39,30,7,14,38,27,59,397,12,6,12,4,86,16,93,1,86,95,288,8,56,19,4,1,81,1,2,33,30,2,1,25,10,15,8,11,31,26,16,17,125,4,226,13,23,15,11,38,7,35,51,17,26,16,423,170,142,204,250,8,12,4,9,1,16,7,6,1,5,2,1,11,4,3,1,6,1,1,12,1,2,5,1,6,16,2,15,26,77,25,1,301,327,5,7,90,92,347
 Currently AI	7751
 Currently Android-only	2579
 Currently Attending	16921
@@ -498,6 +500,7 @@ Currently Relevant ESS	13523,2135
 Currently Relevant Financial Intermediaries	13332
 Currently Relevant Indigenous Peoples	10829
 Currently Relevant Legal Operational Policies	13523
+Currently Relevant Local Communities	18374
 Currently Relevant Local Communities Cultural Heritage	13332,2289,1301
 Currently Relevant NOTE	10964,2367,1
 Currently Relevant Not Currently Relevant	15658
@@ -520,7 +523,7 @@ Currently the SEPs	13295
 Currently the SMTD	17870
 Currents	8603
 Currentstate	8602
-Curricula	1264,1694,3990,5408,337,365,229,2943,36,170,416
+Curricula	1264,1694,3990,5408,337,365,229,2943,36,170,416,1449
 Curricula. Protection	1777
 Curriculaire Appui	15673
 Curriculum	899,3227,2706,3804,191,191,1311,27,337,221,3,141,334,608,812,110,224,458,832,202,214,111,62,509,111,218
@@ -623,7 +626,7 @@ Digital Currency CDI Cellule de Suivi	17870
 Digital Currency Following	11134
 Digital Currency Management System	11861
 Digital Symmetric Core Currency Cryptography	3830
-Direct Current	9123
+Direct Current	9123,8980
 Directors CURRENT ASSETS Econet Wireless Zimbabwe	4896
 Director’s Liability Currently	14828,3
 Disbursement. Current	15969
@@ -690,8 +693,8 @@ FX Global Currently	14997
 Falsification of Currency and Similar Offences	587
 Family Fun Day Currency	11134
 Finalized the National Curriculum for Grade	12975
-Financial Intermediaries Not Currently Relevant	15658
-Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935,4229,649,143,345,3756,82,1206
+Financial Intermediaries Not Currently Relevant	15658,2716
+Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935,4229,649,143,345,3756,82,1206,1249
 Financial Sector Currently	10775
 Foreign Currency Account	13532
 Foreign Currency Bank Account Restrictions	12389
@@ -724,6 +727,7 @@ HEIs and TVETs Current Status Update	13991
 Heritage-Based Curriculum	9396
 High Voltage Direct Current IFRS International	12399
 Highly Unsatisfactory. Current	15019
+Households Current Project Proposed Project	18301
 I. Current	16851
 ICR DOCUMENT CURRENCY EQUIVALENTS	15731
 ICT Global Practice Africa Region CURRENCY	15424
@@ -758,7 +762,7 @@ Inflation Rate and Current Account Balances for Selected	2775
 Inflation and Current Account Balances	2775
 Information Directorate and Curriculum Centre and Training	14851
 Information and Communications Technology. Currently	12502
-Information. CURRENCY EQUIVALENTS	11525,3665,301
+Information. CURRENCY EQUIVALENTS	11525,3665,301,2802,8
 Infrastructure Current State	12356
 Initial Birth Registation Current	12496
 Innovation Space. Currently	12786
@@ -795,7 +799,7 @@ LIABILITIES Current	14736
 LMIS. Currently	13187
 LOCAL ECONOMIC AND COMMUNITY DEVELOPMENT Current	12399
 LPG. Currently	14947
-Land Use and Involuntary Resettlement Not Currently	10768,649,143,345,1427
+Land Use and Involuntary Resettlement Not Currently	10768,649,143,345,1427,4866
 Lands Commission. Currently	16511
 Lecture Scoping Meeting Currency Retailers’ Training	11131
 Legal Transition Process. Currently	13123
@@ -867,15 +871,16 @@ Nkambule Currency	11131,3
 Non Current Assets HY2025	4896
 Non Current Liabilities	4896
 North Africa Region CURRENCY EQUIVALENTS	15663
+Nouveau Curriculum	18099
 Nov-2018. Current Closing Date	13897
 OFFICE SPACE AT CUREPIPE TO ACCOMMODATE	14778
 OPS TABLE PDO CURRENTPDO Summary Status of Financing	1228
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1
 OVERALL RATINGS Previous Current	11971,4108,915,85,879
 OVERALL RATINGS Previous Current Satisfactory Satisfactory	12228,39,173
 Oct-25. Current	12717
-Official Use Only CURRENCY EQUIVALENTS	3604
+Official Use Only CURRENCY EQUIVALENTS	3604,14594
 Only the Central Bank Digital Currency and Eswatini	12343
 Open Data Strategy Currently	16939
 Open Menu Home Announcements Current Archives	12486
@@ -930,6 +935,7 @@ Ratings Previous Current Revised	14010
 Ratio CBDC Central Bank Digital Currency	15023
 Real GDP Growth Inflation Current Account	2775
 Reallocations IDA-70780-001 Currency	16187
+Reallocations IDA-72690-001 Currency	18359
 Recognition of Digital Currencies for Cross-Border Payments	12389
 Recurrent Current	15604
 Region CURRENCY EQUIVALENTS	14937,574
@@ -964,6 +970,7 @@ Sectoral Structure Currently	16872
 Sedgefield Current Communication Activities	8999
 Selected Currencies	2775
 Semestre Unidades Curriculares Horas	12019
+Senegal Approval Date Current Closing Date	18359
 Senior Digital Competency and Curriculum Specialist	11750
 Sep-2021. Current Closing Date	15802
 Series Currency	13532
@@ -990,8 +997,10 @@ Sovereign Yield Curve	9376
 Starlink Currently Costs	5874
 Starlink. Currently	16954
 Strategy. Currently	14062
-Sub-Saharan African Historically Underserved Not Currently	1867
+Sub-Saharan African Historically Underserved Not Currently	1867,16331
 Sub-county Directors of Education and Curriculum Support	899
+Suivi du Cursus	18143,27
+Suivi du Cursus des Etudiants	18143,27
 Swaziland National Curriculum Framework for General	12914
 Swaziland National Curriculum Framework. Lastly	12914
 Synthesis of Current Evidence	226

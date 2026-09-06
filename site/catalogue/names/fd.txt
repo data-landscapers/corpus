@@ -240,6 +240,7 @@ FDRE Ministry of Education Statistics Annual Abstract	13991
 FDRE Ministry of Education's Education Statistics Annual	12199
 FDRE. Digital Ethiopia	1219
 FDS Fonds	15961
+FDS URL	18232
 FDS. US District Court	17773
 FDSDFL	15604
 FDSDFLW	15604
@@ -252,7 +253,9 @@ FDSU and SOCOF	15697
 FDSU. Comment	9824
 FDSU. Elle	9824
 FDSU. Under	9823
-FDSUT	5022,2977
+FDSUT	5022,2977,10351,9,41,2,1,4
+FDSUT Sénégal	18426
+FDSUT Sénégal URL	18426
 FDTIC	14573
 FDU R WHUPR	11527
 FDURVWHUPRVGRSURFHVVRGHFRQFHVVmR GH	11527
@@ -302,6 +305,7 @@ Lansana Diawara du FDSI	16643
 Le FDSI	16740
 Le FDSU	3658,2617,145,3203,201
 Les FDS	2665
+Les FDSN	18310
 Linguistique Appliquée FDS Forces de Défense	6959
 L’opérationnalisation du FDS	10874
 MHz FDD	8828

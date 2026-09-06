@@ -71,17 +71,24 @@ Non Non Oui	17845
 Non Non Oui Oui	17845
 Non Non Oui Oui Oui Oui	17845
 Non OUI OUI OUI	17845
-Non Oui	748,12642,2622,25,1946
+Non Oui	748,12642,2622,25,1946,308
+Non Oui Décret	18291
 Non Oui ERANOVE	16037
 Non Oui IFC	16037
+Non Oui Journal	18291
 Non Oui Non Non	16037
 Non Oui Oui	17845
 Non Oui Oui Oui Oui	17845
 Non Oui Oui Oui Oui DFM	17845
 Non Oui Oui Oui Oui Non	17845
 Non Oui Oui Oui Oui Oui	17845
+Non Oui Outil ADAPT	18291
+Non Oui Politique	18291
+Non Oui Rapports	18291
+Non Q2.2 Si Oui	18169
 Non Si Oui	13390
 Non91 Non92 Oui Oui Oui Oui	11944
+Néant Oui	18316
 OUI AJOUTEZ NON	13300
 OUI AU TABLEAU	13300
 OUI NON	13300
@@ -105,6 +112,8 @@ OUIN ERDE N	17828
 OUISSIKA Dorothée BAD	15580
 OUI’ INSISTEZ	13300
 Open Data Oui	748
+Oui Adoption	18291
+Oui Adresse	18291
 Oui Ambition	10817
 Oui Approbation	13433
 Oui Capital	711,2066,7388
@@ -117,13 +126,14 @@ Oui Effectifs	13390
 Oui Existence	17845
 Oui Finalisation	13433
 Oui Jan	17962
+Oui Journal	18291
 Oui Juin	15799
 Oui Lors	17872
 Oui N	13390
 Oui ND NON Oui Oui	17845
 Oui NON Oui Oui	17845
 Oui NON Oui Oui Oui Oui	17845
-Oui Non	11944,1356,90
+Oui Non	11944,1356,90,4926
 Oui Non BUHUMUZA BUJUMBURA BURUNGA BUTANYERERA	13390
 Oui Non Burundi Pays	13390
 Oui Non Effectifs	13390
@@ -137,6 +147,7 @@ Oui Non NSP Total Effectifs	13390
 Oui Non NSPA Non	13390
 Oui Non Ne	6959
 Oui Non OpenClinic	13306
+Oui Non Oui	18316
 Oui Non Oui Non	13390
 Oui Non Oui Non Effectifs	13390
 Oui Non Oui Non Oui Non	13390
@@ -171,6 +182,7 @@ Oui S4Q05 Avez-vous	6959
 Oui S6Q01 Selon	6959
 Oui SISo	17845
 Oui Site	17845
+Oui Site du SSN Produits	18291
 Oui Toutefois	17872
 Oui- Non	14488,1,1
 Oui. En	7830
@@ -184,6 +196,7 @@ Ouidah. Ce	16362
 Ouigou Tiendrébéogo	6497
 Ouindigui Loroum Nord	15715
 Ouissal Cherouati	15410
+PME Oui	18316
 POUDRE OUI NON NSP	13300
 PROBLEME OUI	13300
 PRÉSENCE D'AUTRES PERSONNES DANS CETTE OUI	13300
@@ -195,6 +208,7 @@ RENCONTRE RENCONTRE RENCONTRE SI OUI	13300
 RGRM Oui	17983
 RH Non Non Oui Oui Oui	17845
 Rapport Oui	17845
+Rationalisation de Non Oui Journal	18291
 Retrait. OUI	13300
 Référentiel National Non Non Oui Oui	17845
 Région Milieu Oui Non Total Boucle	10875

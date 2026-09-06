@@ -34,7 +34,7 @@ About Bank of Ghana About Giesecke	17536
 Abrogation GIGANET SARL C	998
 Absa's Gilmour	9902
 Abuja Gift ChapiOdekina	11866
-Act GenCos Generation Companies GWh Gigawatt	12062
+Act GenCos Generation Companies GWh Gigawatt	12062,6124,31
 Activate Local Talent Give Mauritania	18039
 Added GWh Giga Watt Hours	2775
 Addressing and GIS Modernization Objective	16975
@@ -103,6 +103,7 @@ Asyut Sharqia Giza Gharbia Aswan Damietta	15578
 Atouts GIM-délégataire	10711
 Atouts GIM-interbancaire C’est	10711
 Attorney General Githu Muigai	9645
+Audit Productivity Given	18318
 Audit Standards GIABA Gross International Reserves	17235
 Authors Alison Gillwald	5044
 Automated Core Processor. Given	11986
@@ -179,7 +180,7 @@ CRVS and Health Given	13681
 Cabinet Secretary William Gitau	10635
 Cabinet Secretary William Kabogo Gitau	5586,1964
 Cabo Verde GII	11895
-Cairo Alexandria Desert Road Giza Governorate	10764,80,7012
+Cairo Alexandria Desert Road Giza Governorate	10764,80,7012,267
 Cairo and Giza	15905,361
 Camarade Pingdwendé Gilbert OUEDRAOGO	8454,8092
 Camila Giraldo. O Wardip	17412
@@ -231,6 +232,7 @@ Consumer GIS Geographic Information System HR	14965
 Contact Giesecke	17536
 Continuous Learning and Adaptation Given	14565
 Coordenador Técnico Arthur Giesbert	10757
+Coordonnateur du GICC	18324
 Corner Giroday	14746
 Corporate Gifts Policy	6946
 Corrado Gini	10768
@@ -319,6 +321,7 @@ EMIS. Given	13016
 EP FIDA FINBANK FSP GAB GIZ	13390
 EPA Roland Layfette Giddings Prince D	17260
 ESA. Given	15473
+ESCP. Given	18374
 ESHG and GIIP	1988
 ESMF Given	17114
 ESPS Project. Given	16436
@@ -404,6 +407,7 @@ Fiscal Year GIS	12358
 Forest Reference Emissions Level Gg Gigagrams	17140
 Formation GHz Gigahertz GIS Geographic Information	2775
 Formations Sanitaires GIDH	16195
+Forum Politique de Haut Niveau GIEC	18118
 Foundation GIS and Data Management Training	6427
 Franck Gilbert	15524
 Frederico Gil Sander	10763
@@ -453,6 +457,7 @@ GIC Employés	10975
 GIC Government Information Centre GRN Government	12973
 GICA Moyen Elevée Renforcer	15474
 GICAM	10965,4577
+GICC Inter-Ministerial Consultation and Coordination Group	18293
 GICT Agencies	1000
 GICT Agency Responsible	16926
 GICTA	1000,714,4583,644,72,9902,8,1,2,13,249,40,10
@@ -768,6 +773,7 @@ GIZ Eco-Emploi Programme	718
 GIZ Editing Susan Sellars Layout EYES-OPEN	11156
 GIZ FAIR Forward	1204,2922,1575
 GIZ German Corporation for International Cooperation GmbH	1204
+GIZ German Technical Cooperation	18293
 GIZ Ghana Digital Transformation Center	1779
 GIZ Ghana END NDPC PR-UNIT	16101
 GIZ Global Alliances for Social Protection	12370
@@ -783,6 +789,7 @@ GIZ Nigeria	8985
 GIZ Nigeria Country Office	8985
 GIZ Office	4123,8940,417
 GIZ PAIRed	16101
+GIZ Programme	18316
 GIZ Programmes	13998
 GIZ Representation Office	9632
 GIZ Rwanda	3697,8673,64
@@ -869,6 +876,7 @@ Ghana's Girls	5298
 Ghana’s Girls	5298
 GiDnnPo	11884
 GiHA WG	15115
+GiZ Deutsche Gesellschaft	18316
 GiZ German Agency for International Cooperation GRA	16631
 Giachanou	8436
 Giacomo Assenza	10765,10
@@ -990,7 +998,7 @@ Gigabit EthernetXENPARK-LR	17823
 Gigabit Passive Optical Network	319,11361
 Gigabit Switch	17334
 Gigabit and Ethernet	9475
-Gigabits	11857,3031,733,1262,1,1
+Gigabits	11857,3031,733,1262,1,1,1237
 Gigabyte	6928,3865,4095,733
 Gigabyte Firmware Executive Editor	3279
 Gigabyte G2B	14879,1993
@@ -1006,6 +1014,7 @@ Gigas	16865
 Gigascience	12090
 Gigauri I. Implementation	12255
 Gigawatt	12358,3301,80
+Gigawatt GWh Gigawattheure HT Haute	18103
 Gigawatt Global	13433
 Gigawatt Hour	2775
 Gigawatt. Amos Siwoi	1639
@@ -1102,6 +1111,7 @@ Gillian Rose	8185
 Gillian Rosenberg	7138,13
 Gilliana Anacoura	7761
 Gilliana Anacoura The Commission of Inquiry	17678,43
+Gilligan	18104
 Gillwald	322,106,4,1,111,417,1156,2927,4715,1097,339
 Gilmard	15901
 Gilton Kadziyanhike Edouard Kayihura Fazal Rehman	16973
@@ -1325,7 +1335,7 @@ Give the Authority	762
 Give the Presidential Task Team	6832
 GiveDirectly	5233,6761,4779
 GiveDirectly’s Lieberman	16773
-Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10,126,43,248,24,5,2,11,19,82,219,33,2,17,1,17,38,74,16,27,19,15,143,187,123,13,181,155,8,86,233,56,13,8,17,13,3,57,43,2,9,8,1,25,10,3,12,18,20,12,22,4,16,17,46,13,23,11,15,61,12,65,70,39,13,23,15,11,7,31,2,5,35,48,3,17,37,1,2,2,25,25,52,118,100,49,112,292,374,42,15,5,4,20,25,1,17,3,7,2,7,2,3,12,10,11,23,18,6,56,6,9,13,12,18,82,18,28,41,41,37,54,45,277,1,68,21,13,10,13,44
+Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10,126,43,248,24,5,2,11,19,82,219,33,2,17,1,17,38,74,16,27,19,15,143,187,123,13,181,155,8,86,233,56,13,8,17,13,3,57,43,2,9,8,1,25,10,3,12,18,20,12,22,4,16,17,46,13,23,11,15,61,12,65,70,39,13,23,15,11,7,31,2,5,35,48,3,17,37,1,2,2,25,25,52,118,100,49,112,292,374,42,15,5,4,20,25,1,17,3,7,2,7,2,3,12,10,11,23,18,6,56,6,9,13,12,18,82,18,28,41,41,37,54,45,277,1,68,21,13,10,13,44,154,19,170,25,41,15
 Given Africa	415
 Given Algeria	16279
 Given Angola	10768
@@ -1363,7 +1373,7 @@ Given the Substantial	10829
 GivenMogadishu'shighpopulationdensityandthediversity	15085
 Givenathreshold T	8606
 Gives	1014,2692,7563,2116
-Giving	1,10,2584,4410,3713,240,82,1187,318,1948,31,878,256,1205,21,273
+Giving	1,10,2584,4410,3713,240,82,1187,318,1948,31,878,256,1205,21,273,942
 Giving Every Farmer	14308
 Giving the Committees	11860
 Giz. Pour Awonon Marius	7168
@@ -1385,6 +1395,7 @@ Green Giraffe	8550
 Green Giraffe People	8550
 Green Giraffe You’ve	8550
 Greenhouse Gases GIZ The German Agency	1264
+Gross Domestic Product GIEC	18309
 Gross Domestic Product GII Global Innovation	12376
 Gross Domestic Product GIS	958
 Gross Fixed Capital Formation GIBA Ghana	236
@@ -1441,6 +1452,7 @@ IGInnldnooebvxaal2t0io2n4 South Africa GII	11885
 IGInnlndooebvxaal2t0io2n4 Rwanda GII	12351
 II- Giving	15393
 IIGnnldnooebvxaal2t0io2n4 Cameroon GII	10969
+IMMUNIZATION GIGA BITS PAR SECONDE	18105
 IMPACT ANALYSIS Given	13418
 INSP. AMOS OBENG GIS NADMO	15845
 INSTITUTIONAL FRAMEWORK Given	14947
@@ -1545,10 +1557,13 @@ LAA SCOOPS BEST GIS AWARD	12662
 LE GIM-UEMOA	10711
 LEGAM LEGAM Giacomo Assenza Team Member	1284
 LIS GIS-Geo Information Services Division	16921
-LIS and GIS	11981
+LIS and GIS	11981,6149
+LO GI TRAN S Avis	18322
 LOEMBE-KADDY Garonne Gironde	16367
 La GIZ	17698
+Lac de Giers	18286
 Laurent Gille	14017
+Le GICC	18324
 Le GIE	17817
 Le GIM-UEMOA	10711
 Le GIMAC	15483
@@ -1638,6 +1653,7 @@ Moody Awori Primary School and Ralak Girls	12084
 Morne Gijben AfricaWebinar Mar2022 PPT.pdf Author	11191
 Morocco GitHub	12239
 Morocco Gitex Africa	5772
+Mouhammad Abdallah DIALLO Coordonnateur du GICC Chef	18324
 Mozambique and Giga	13901
 Mr. Charles Gichira	10313
 Mr. Elikplim Sabblah of GIZ's FAIR Forward	5227
@@ -1697,6 +1713,7 @@ Nigerians. Given	5067
 Niwapongeze Mheshimiwa Najma Murtaza Giga	6019
 Nomalungelo Gina	6480,1018,2620,1103
 Nomalungelo Gina. Science	7498
+Non GIZ Programme	18316
 North Giza	15473
 North Giza Development	15473
 NotebookLM. Claude. GitHub. Lovable. Every	5513
@@ -1710,6 +1727,7 @@ N’DESSABEKA Membre Gilbert ITOUA Secrétaire	15615,632
 OMS GIZ PNUD Interviennent	14425
 OMS and GIS	15659
 ONDI GIZ	12053
+ONG Gidan Raya Yaran Karkara	18116
 Objects of GICTA	16866
 Officer GITOC Government Information Technology Officers	11184
 Oloiborsoit Girls Secondary School	10313
@@ -1862,6 +1880,7 @@ Resist the Exploitation of Digital Gig Workers	226
 Returnees Boys Girls Sub-total Boys Girls	14896
 Reuben Gisore	10336
 Rights of Women and Girls	17934
+Risk-Based Audit Selection Given	18318
 Risks and Rewards of Online Gig Work	226
 RoC's Gini	11905
 Role of Girls	15170
@@ -1907,6 +1926,7 @@ Security and Resilience Framework Given	4528,7984
 Selected AI Gigafactories	8346
 Selon GI-TOC	4334
 Senator for Uasin Gishu County	6946
+Senegal’s Gini	18293
 Senior GIS	17140
 Sergent-Chef OWONO-MBENG Gilles de Verne. CABINET MILITAIRE	16381
 Serre GIEC Groupe International des Experts	17907
@@ -1930,7 +1950,7 @@ St. Alphonsa Kisau Girls Secondary School	10313
 St. Maria Veronica Girls Secondary School	10313
 St. Mary’s Girls’ Secondary School	10313
 St. Monica’s Girls School	5802
-Standards Relevance Given	1867,121,1574,42,2935,4229,649,143,345,3753,3,483,240,565
+Standards Relevance Given	1867,121,1574,42,2935,4229,649,143,345,3753,3,483,240,565,1249
 State Addressing GIS Unit	11129
 State of Cabo Verde Secretaries Gilda Maria	11955
 Stellenbosch University Zithulele Gina Director Human	11134
@@ -1949,6 +1969,7 @@ Supporting Girls' Learning	12175
 Surgery2 Ginekologija3	10780
 Suzy Gisèle	15780
 System G2P Government-to-Person GB Gigabyte GDP	969
+TESLIM TOBATELE GIWA ESQ	18154
 TISEZA Director General Gilead Teri	9897
 TKP. Given	15663
 TPRA Celebrates International Girls	14951
@@ -2018,6 +2039,7 @@ WIPO GII	1394,1,1,1,724,1,5426
 WLOs. Given	15116
 Ward Head of Mainika Babban Gida	12051
 Waterbodies Park Gisagara Registered	15056
+Wc GIZ	18316
 Web GIS	16927
 Web GIS Application Development	13031
 Wesley Girls Basic School	8384

@@ -27,21 +27,23 @@ Conditions No Implementation Modalities No Disbursements	16187
 Conditions for Disbursement	17257
 Consultants Disbursement Arrangements	3604
 Corporate Results Indicator Designated Account Disbursement	15658
-Cumulative Disbursements	2712,1976,1891,349,949,3518,576,257,39,173,2540,755,278,66,626,289,6,79,17,808,54
+Cumulative Disbursements	2712,1976,1891,349,949,3518,576,257,39,173,2540,755,278,66,626,289,6,79,17,808,54,392,4,1
 Currencies of Disbursement. Subject	16219
 D. Disbursement Linked Indicators and Verification Protocols	11905
 DA Designated Account DFIL Disbursement and Financial	10768
 DA. Disbursements	10768
 DE4A Digital Economy for Africa DFIL Disbursement	1264
+DFIL Disbursement and Financial Information Letter DGID	18293
 DFIL Disbursement and Financial Information Letter DLI	17458
 DFIL Disbursement and Financial Information Letter DNA	11380
 DGIS Cape Verdean Escudo Disbursement and Financial	11855
 DISBURSEMENT	11863,2075,1461,359
 DISBURSEMENT LINKED INDICATORS	15663
-DISBURSEMENTS Operation Dates	2473,2180
+DISBURSEMENTS Operation Dates	2473,2180,13706
 DISBURSMENT	14132
 DISBURSTBL Fiscal Year Annual Cumulative	1284,15612,26
 DL Disbursement Letter DP Development Partner	11525
+DLIs. Disburse	18370
 DO Rating IP Rating Actual Disbursements	15511,2451
 Dec-2026 Cumulative Disbursements Restructuring History	15619
 Dec-2026 Projected Date for Full Disbursement	16032
@@ -52,7 +54,7 @@ Description Disbursement Trust Funds	10829
 Direct Disbursement	17116
 Disband AI	12675
 Disburscnrcnt	15399
-Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20,472,98,6,257,39,173,540,78,768,7,35,29,69,490,500,10,75,118,265,57,128,54,74,65,103,127,47,915,85,770,13,96
+Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20,472,98,6,257,39,173,540,78,768,7,35,29,69,490,500,10,75,118,265,57,128,54,74,65,103,127,47,915,85,770,13,96,175
 Disbursed AUD	249
 Disbursed CAD	2167
 Disbursed COFN-C2470 Closed	17505
@@ -60,8 +62,12 @@ Disbursed Disbursed IDA-74440 Effective	16705
 Disbursed IBRD	2473
 Disbursed IBRD-93170 Effective	17470
 Disbursed IDA-66100 Effective	15735
+Disbursed IDA-66880	18133
 Disbursed IDA-67180 Effective	16013
 Disbursed IDA-68480 Effective	17000
+Disbursed IDA-69070 Effective	18354
+Disbursed IDA-70470 Effective	18355
+Disbursed IDA-72690 Effective	18350
 Disbursed IDA-75030 Effective	18006
 Disbursed IDA-79260 Effective	7877
 Disbursed IDA-E2940 Effective	17096
@@ -71,6 +77,7 @@ Disbursed Not IDA-79260	4688
 Disbursed P167478 IDA-D4840 Effective USD	16638
 Disbursed P174620 IDA-D9950 Effective USD	15619
 Disbursed TF-B2030 Closed	17904
+Disbursed The World Bank Senegal Digital	18359
 Disbursed US	2473,14295
 Disbursed USD	85,297,515,231
 Disbursed Undisbursed	6579,9040,1019
@@ -79,8 +86,9 @@ Disbursed-Linked Indicators	17458
 Disbursed-only	16751
 Disbursed-usd	607
 Disbursed. Grants	14456
-Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22,41,28,4,162,839,48,119,234,27,12,73,69,106,4,95,143,131,112,75,435,242,26,194,389,344,113
+Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22,41,28,4,162,839,48,119,234,27,12,73,69,106,4,95,143,131,112,75,435,242,26,194,389,344,113,397
 Disbursement Arrangements	11924,2014,1723
+Disbursement Arrangements Disbursements	18370
 Disbursement Categories	1228,56,15612,26
 Disbursement Categories Category	15411
 Disbursement Categories Change	17862
@@ -93,7 +101,7 @@ Disbursement Condition	16949
 Disbursement Conditions for Component	15372
 Disbursement Date	15399
 Disbursement EPTC Loan Agreement	6539
-Disbursement Estimates	1228,14959,1775
+Disbursement Estimates	1228,14959,1775,397
 Disbursement Estimates Yes Year	1228
 Disbursement Guidelines	10964
 Disbursement Guidelines for IPFs	3604
@@ -105,6 +113,7 @@ Disbursement III.B.1	16144
 Disbursement Letter	11525,3847,146,35,666
 Disbursement Letter. Oth	10829
 Disbursement Linked Indicator	17470
+Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
 Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35
 Disbursement Linked Indicators DLI	11905
@@ -119,7 +128,7 @@ Disbursement Ratio	15905
 Disbursement Request	15901
 Disbursement SCHEDULE	16144
 Disbursement Schedule	15659,1799
-Disbursement Summary	1284,1189,2180,7312,1866,66,1069,727,109,230,890
+Disbursement Summary	1284,1189,2180,7312,1866,66,1069,727,109,230,890,1437
 Disbursement Tranche. Subject	16219
 Disbursement and Financial Information Letter	1264,603,1737,7164,196,891,1476,2327,1,1277,13
 Disbursement and Financial Information Letter. A Designated	1284
@@ -130,14 +139,16 @@ Disbursement and Flow of Funds Arrangements	15658
 Disbursement of Funds	2775
 Disbursement of NGAAF	2775
 Disbursement of US	17139
-Disbursement-Linked Indicators	15693,945
+Disbursement-Linked Indicators	15693,945,1732
+Disbursement-Linked Indicators Purpose of DLI DLI Financing	18370
 Disbursement-Linked Result	17458
 Disbursement-linked	15693
 Disbursement-linked Indicators	11855
 Disbursement. Current	15969
-Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48
+Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15
 Disbursements Arrangements	1228,56,2320,8361,4931,26
 Disbursements Arrangements No Additional Regional	16032
+Disbursements Arrangements No DDO No Additional	18359
 Disbursements Estimates	11965
 Disbursements and Procurement	15372
 Disbursements for Component	15663
@@ -147,7 +158,8 @@ ECOWAS Disbursement and Financial Information Letter EDGE	3604
 Estimated Disbursements	15372
 Estimates No Disbursements Arrangements No DDO	16187
 Ethiopia. Project Disbursement Project Performance Ratings	14010
-Expected Disbursements	969,295,603,1695,42,7164,61,135,453,108,35,295,50,1426,1,1578,27,39,515,24,38,68,37,1,2,82,401,752,26,27,492
+Expected Disbursements	969,295,603,1695,42,7164,61,135,453,108,35,295,50,1426,1,1578,27,39,515,24,38,68,37,1,2,82,401,752,26,27,492,852
+FG Disburses N6.6 Billion To Over	18243
 FM and Disbursement Arrangements	15518
 FM and Disbursements Arrangements	15658,3
 FORCE AND DISBURSEMENT Section	16219
@@ -166,7 +178,7 @@ Funds Flow and Disbursement Arrangements	11855
 Funds Flow and Disbursement Arrangements Note	11525
 Funds Flow and Disbursement Arrangements. Funds	15659
 Funds Flow and Disbursement Arrangements. The Borrower	15518
-Funds Net Commitment Disbursed Undisbursed	2473
+Funds Net Commitment Disbursed Undisbursed	2473,15886
 Grant Agreement. Flow of Funds and Disbursement Arrangements	3604
 Grants Type Disbursement Page	11855
 Guinea-Bissau PIM. Disbursement IBRD	1264
@@ -205,10 +217,13 @@ M Disbursed	16614
 M Disbursed IDA	2989
 M. Disbursed	610
 Madagascar. Disbursement Summary	14456
+May-2028 Expected Disbursements	18359
+May-2028 Projected Date for Full Disbursement	18359
 Member Disbursement WFACS Etty Julia Baena	1284
 Million Disbursement	15752
 Modalities No Disbursements Arrangements No DDO	4653
 Net Source of Funds Total Disbursed Remaining	1284,15638
+Nine Disbursement-Linked Indicators	18370
 Nov-2021 Projected Date of Full Disbursement Bank	16896
 Nov-2025 Yes Disbursement Linked Indicators	16032
 Number of Loan Disbursements	13532
@@ -233,7 +248,7 @@ RSF Disbursement	17257
 Rating IP Rating Actual Disbursements	15424
 Rating IP Rating Disbursements	15663
 Reallocation of Funds Across Disbursement Categories	4653
-Reallocations Yes Disbursements Estimates	15969
+Reallocations Yes Disbursements Estimates	15969,2390
 Reconciliations Findings Disbursements	13420
 Revenue Authority Disburses Additional Rwf464	14968
 Revised Cancelled Disbursed Undisbursed	11395
@@ -248,7 +263,7 @@ Statement of IFC’s Committed and Disbursed Portfolio Nigeria	11469
 Statement of Receipts and Disbursements	13420
 Sub-Project Disbursement Schedule	1867
 TABLE REALLOCATION BETWEEN DISBURSEMENT CATEGORIES Current	1228
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1
 TRI-Ns. E. Disbursement Linked Indicators and Verification	17458
 Tot Disb	11867
 Transfer DLI Disbursement Linked Indicator ESMAP	15663

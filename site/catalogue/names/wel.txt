@@ -67,7 +67,7 @@ Conforme Welt Hunger Channel Master	998
 Consultant Welcome	16926
 Contributions Welcome	18038
 Conveyance Welfare Operations	15845
-Coordinating Minister of Health and Social Welfare	7454
+Coordinating Minister of Health and Social Welfare	7454,10709,90,10
 Coordinating Minister of Health and Social Welfare Prof	7561
 Core Welfare Indicator Questionnaire DQAF	14857
 Core Welfare Indicators Questionnaire	17116
@@ -155,7 +155,7 @@ Facilities and Animal Welfare Poorly	14818
 Family Welfare	16649
 Family Welfare Ministry of Health and Wellness Ministry	11332
 Family Welfare and Protection Unit	14742
-Federal Ministry of Health and Social Welfare	7454,4550
+Federal Ministry of Health and Social Welfare	7454,4550,6249
 Finance Well-developed	11874
 Financial Wellness	11131
 Firm Social Welfare	16867
@@ -196,7 +196,7 @@ Health and Wellbeing	14566,1192
 Health and Wellness	14770,3
 Health and Wellness Policy	12951
 Hon. Welcome Dlamini	13131
-Honourable Minister of State for Health and Social Welfare	7895,4109
+Honourable Minister of State for Health and Social Welfare	7895,4109,6154,4,1
 Horticultural Therapy and Wellness Initiatives	14818
 Horticultural Therapy and Wellness Initiatives Urbanisation	14818
 Human Development Department of JICA. Welcoming	17735
@@ -272,6 +272,7 @@ Minister of Health and Family Welfare	16649
 Minister of Health and Wellness	14773,1
 Minister of Poverty Eradication and Social Welfare	12923
 Minister of Social Welfare	7934
+Minister of State for Health and Social Welfare	18253
 Ministries of Health and Child Welfare and Local Government	21
 Ministries of Health and Social Welfare	17101
 Ministry and Ministry of Gender Equality and Child Welfare	12984
@@ -284,7 +285,7 @@ Ministry of Gender and Social Welfare	3584
 Ministry of Health and Child Welfare	21
 Ministry of Health and Child Welfare. National Health	21
 Ministry of Health and Social Wel	17101
-Ministry of Health and Social Welfare	1018,243,15606,82,3,6
+Ministry of Health and Social Welfare	1018,243,15606,82,3,6,1295
 Ministry of Health and Social Welfare Birth	17011
 Ministry of Health and Social Welfare of Equatorial Guinea	17240
 Ministry of Health and Welfare Social Security	17101
@@ -325,6 +326,7 @@ Newsfeed Welcome	5054,2052,177
 Nigeria Welcomes IMF Recognition	8010
 Nigeria Welfare	4302
 Nkosi Ncedisizwe Welani	5600
+Non Non EXIM BANK USA Weldy	18316
 Norfund. WeLight	390
 Objective T-O51 Welldeveloped	15713
 Objective T-O56 Welldeveloped STEM	15713
@@ -486,6 +488,7 @@ Welbotha	8606
 Welbotha&vandenBerg	8606
 Welby	2816,9517
 Welch	2096
+Welchman Keen	18349
 Welcome	3157,611,398,87,848,58,391,1,182,218,839,195,352,2292,1078,212,961,411,31,1155,314,535,415,493,1009,302,381,102,351,44,513
 Welcome Address	10169
 Welcome Back	9925
@@ -502,6 +505,7 @@ Welcoming	6963,599,97,331,143,478,1816,82,227,2381,922,312
 Welcoming Equatorial Guinea	16942
 Welcoming President Chapo	12803
 Welcoming Resolution	17017
+Welcoming the ICRISAT	18142
 Welcoming the ISO	17368
 Welcoming the Principles and Guidelines	17017
 Welded	13385,3515
@@ -515,6 +519,7 @@ Wele-Nzasl	16864
 Wele-Nzás	16969
 Welfare	21,2075,5665,2,203,1383,1410,76,2,1,130,902,16,1,1,1,51,212,1,1,9,177,1,11,1,20,58,57,2359,2001,19,708
 Welfare Act	12939
+Welfare Analysis of Tax Audits Across	18318
 Welfare Committee	14761
 Welfare Committee Activities	14761
 Welfare Corporation	16841,2,10
@@ -528,6 +533,7 @@ Welfare Infrastructure	10835,3,130,902,16,466,1,135
 Welfare MGEPESW Ministry of Gender Equality	12923
 Welfare Monitoring Survey Round IV	15024
 Welfare Officers and Health Care	14742
+Welfare Prof. Pate	18163
 Welfare Rank	11889
 Welfare State	2096,12646
 Welfare Support	12964
@@ -546,6 +552,7 @@ Well Info	11405
 Well Intentioned	10415
 Well-	12444
 Well-Being	10323,3151
+Well-Being and Basic Needs	18125
 Well-Developed Domestic Talent	15713
 Well-being	15244
 Well-decomposed	12253

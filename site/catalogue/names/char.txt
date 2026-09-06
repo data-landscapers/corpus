@@ -41,7 +41,7 @@ Administrateur de Chargés	17827
 Administrateurs des Chargé	17899
 Administration Cabinet du Ministre Chargé	17895
 Administration Cabinet du Ministre Chargés	18087
-African Charter	961,636,217,174,970,47,157,421,278,396,496,568,212,493,162,763,507,220,514,293,262,335,317,17,244,134,659,276,36,10,66,254,5,93,8,36,467,53,148,72,9,215,350,155,196,37,38,56,7,265,47,34,98,485,62,118,1,259,25,285,15,8,119,13,162,1804,20,14,53,23,1,7,59,69,30,180,34,415,205
+African Charter	961,636,217,174,970,47,157,421,278,396,496,568,212,493,162,763,507,220,514,293,262,335,317,17,244,134,659,276,36,10,66,254,5,93,8,36,467,53,148,72,9,215,350,155,196,37,38,56,7,265,47,34,98,485,62,118,1,259,25,285,15,8,119,13,162,1804,20,14,53,23,1,7,59,69,30,180,34,415,205,355
 African Charter Art	6086
 African Charter Arts	6086
 African Charter On Human And Peoples	13040
@@ -57,6 +57,7 @@ African Union Charter	961
 African Union. The Charter	8747
 African Youth Charter The African	16951
 Age Range and Gender Distribution Chart	11955
+Agence Comptable Chargée des Dépôts	18274
 Aimé Charles	15395
 Aloïsia Ludmilla ETOUME AMIONG. Chargés	16381
 Amadou KEITA Vu la Charte	18003
@@ -80,6 +81,7 @@ Avatar of Charles-bot-cmd	12478
 Avatar of CharlesGibbsNam	12478
 Avenue Charles DE GAULLE	7620
 Aymen Charef	10643
+Azélik SONICHAR Société Nigérienne de Charbon	18103
 B.2- Charges	16047
 B1 Chargé	17899
 B1 Chargé du Partenariat	17899
@@ -120,6 +122,7 @@ C Chargés	17982
 C. Cross-Pillar Comparative Analysis Chart	17139
 C.2- Charges	16047
 C4. Allocation-Based Charging	17250
+CADEG Charte Africaine	18310
 CAHIER SPECIAL DES CHARGES Marché	8643
 CAPTURE TRUNCATED AT FETCH CHARACTER CAP	15434,38,96
 CARTES RELATIVES A L'AERODROME AERODROME CHART	16552,454
@@ -243,14 +246,14 @@ Cabinda. Charges	15799
 Cable Infrastructure Licence Fees And Charges	9109
 Cahier Spécial des Charges	13524
 Cahier Spécial des Charges du DAO N	13524
-Cahier des Charges	16615
+Cahier des Charges	16615,1479
 Cahier des Charges Environnementales CES	14488,1,1
 Cahier des Charges de KPDC. Réunions	10975
 Carolyne Kubwa LSK President Charles	17659
 Catena-X Organization Chart.pdf	7313
 Cellule des Informations Sanitaires Charles YOPNDOI	15599
 Centre National de Toxicologie. Le Chargé	15885
-Cette Charte	2695
+Cette Charte	2695,15532
 Chairman Federal Character Commission	1014
 Chapter VIIof the Charter	1638
 CharSe	14479
@@ -287,7 +290,7 @@ Charadrius	17114
 Charadrius Page	17114
 Charaf THIAM	17817
 Charalabidis	2093,3
-Charbon	13300
+Charbon	13300,5012
 Charbon de Gaz Bois	737
 Charco	11577
 Charcoal	15285,1563,195,11,86
@@ -297,8 +300,9 @@ Charcoal Production	17043
 Charcuterie	2342,13594
 Chardel	15692
 Chareanporn	7759
+Charette	18312
 Charg	1280
-Charge	736,1,1177,861,386,235,727,3244,3509,355,1741,70,11,10,241,176,292,19,239,400,232,51,19,10,2,29,391,219,88,29,499,213,7,109,207,90,878,327
+Charge	736,1,1177,861,386,235,727,3244,3509,355,1741,70,11,10,241,176,292,19,239,400,232,51,19,10,2,29,391,219,88,29,499,213,7,109,207,90,878,327,324,111
 Charge Intégrée des Maladies	14622,801,262,2197
 Charge Mark Remily	11342
 Charge Mbabane Correctional Centre	12972
@@ -334,7 +338,7 @@ Chargeable	6100
 Chargeback	11955
 Charged	9123,5423,925
 Chargee	14662
-Chargement	11673,1701,1,352,1856,1012,1238
+Chargement	11673,1701,1,352,1856,1012,1238,595
 Chargement des Lots	13375
 Chargement des NUI	14480
 Charger	9668,1208,2499
@@ -392,6 +396,7 @@ Chargé des Ingénieur	17827
 Chargé des Professeur	17827
 Chargé des Relations	3396
 Chargé du Administrateur	17827
+Chargé du Budget	18156
 Chargé du Contentieux Commissaires	17899
 Chargé du Contrôle	17899
 Chargé du Contrôle des Commissaires	17899
@@ -563,26 +568,31 @@ Charmaz	12090
 Charrettes	16047
 Charriot	17882
 Charroi	13500
+Charrue	18312
 Charrues	15999
 Chart	899,5186,368,296,1014,3389,372,333,24,74,244,2,60,1699,308,547,17,639,7,1661,41,55,627
 Chart Index Chart	11955
 Chart of Accounts	16876
 Chart of Accounts Design	15090
 Chart-label	11563
-Charte	1837,147,711,1129,1749,1107,563,427,414,807,999,935,49,1,683,191,1554,139,266,20,760,1,1,145,770,5,3,10,56,9,19,44,28,23,1,77,5,18,19,126,120,79,216,362,555,268,37,7,7,329,1,13,2,17,13,25,19,85
-Charte Africaine	2625,8201,2497,119,2037,6,3,63,29,23,40,163,810,4,1208,14,2
+Charte	1837,147,711,1129,1749,1107,563,427,414,807,999,935,49,1,683,191,1554,139,266,20,760,1,1,145,770,5,3,10,56,9,19,44,28,23,1,77,5,18,19,126,120,79,216,362,555,268,37,7,7,329,1,13,2,17,13,25,19,85,94,3,34,93,59,5,32,4,5
+Charte Africaine	2625,8201,2497,119,2037,6,3,63,29,23,40,163,810,4,1208,14,2,466
 Charte Africaine de Statistique	15580
 Charte Africaine des Droi	10826
-Charte Africaine des Droits	2808,10522,112,339,1834
+Charte Africaine des Droits	2808,10522,112,339,1834,2671
 Charte Alricaine	13334
 Charte Internationale	747,1
+Charte Nationale	18100
 Charte Nationale de Dialogue Social	1281
 Charte Nationale des Libertés	15703
 Charte Vu le Décret	18032
 Charte de Hamramba	13781
 Charte de Transition. Article	15703
+Charte des Micro	18227
 Charte des Nations	15488,110
 Charte des Nations Unies	15405,18,262,82,1689
+Charte des PME	18257
+Charte des Petites	18227
 Charte des Services	17879
 Charte des Très Petites Entreprises69	8891
 Charte du Corriger	17872
@@ -713,8 +723,11 @@ DC Quick and Bidirectional Charger for Use	15027
 DDP Chargée	14539
 DE GUINEE. LES MINISTRES la Charte	16635
 DE L'ORGANISME EN CHARGE DE L'IDENTIFIANT	15691
+DE LA DIRECTION TECHNIQUE CHARGEE	18101
+DE LA DIRECTION TECHNIQUE CHARGÉE	18101
 DE LA MARINE MARCHANDE CHARGE	16099
 DE LA PRISE EN CHARGE Article	15361
+DE MANAGEMENT ET D’ELECTRONIQUE CE CHARGÉ	18143,27
 DECEMBRE Chargé	17841
 DECEMBRE NOMINATION D’UN CHARGE DE MISSION	17841
 DECES Vu la Charte	18003
@@ -742,6 +755,7 @@ Data Bundle Prices Charged	11259
 Data Use Charters	972,12347
 Daughters of Charity of St Vincent Depaul Data	7167
 Declaration of Helsinki. Results Characteristics of SORMAS	12003
+Deconcentration Charter	18305
 Degree Call Flow Chart Satisfied Satisfied	16889
 Demand Charge	12256,138
 Demographic Characteristics	12978,3943
@@ -827,6 +841,7 @@ Ethical Charter for Artificial Intelligence	2958
 Ethics of AI and OECD Principles. While the Charter	16212
 Ex-VP Howard-Taylor Denies Drug Charges	17358
 FCFA Charges	2476
+FCFA U Charges	18322
 FDA MD Charcoal	16853
 FEES AND CHARGES	16878
 FEES CHARGES AND PENALTIES SECTION	12484
@@ -870,6 +885,7 @@ German Embassy Chargé	13426
 Gestion de Vu la Charte	18032
 Ghana Health Service Patients’ Charter	4126
 Glavany Chardel	15615
+Gouvernance CADHP Charte	18310
 Governor Charles Soludo	10160
 Grace Period. The Commitment Charge	16219
 Grasslands and Cropland Charcoal Firewood	17140
@@ -921,7 +937,7 @@ IYAMUREMYE Charles	12413
 Icasa's End-User and Subscriber Service Charter Amendment	8841
 Implementation Schedules and Organization Charts	3861
 Importance of Preparing the ALECSO Charter	2958
-Inclusive Data Charter	1161,5802,5268
+Inclusive Data Charter	1161,5802,5268,5954
 Income Firm Characteristics	10976,1370
 India India’s Tripoli Chargé	4849
 Industry-Government Digital Trust Charter Develop	4848
@@ -1034,6 +1050,7 @@ Magnetic Ink Character Recognition	17138
 Main Characteristics and Features The ASYCUDA	13042
 Malawi Charter of Rights for Patients	12242
 Malawi Standard Chartered Bank Zambia Plc	12252
+Mali Charger	18177
 Mali Vu la Charte	17982
 Mamou DAFFE Vu la Charte	18032
 Management Charter	17470
@@ -1062,6 +1079,7 @@ Ministère Délégué Chargé des Affaires Générales	17448
 Ministère Délégué Chargé des Marocains Résidant	17448
 Ministère Délégué Chargé des Relations	17448
 Ministère Délégué En Charge Des Sports	15936
+Minière de Charbon	18227
 Mme Annie Charmelle MOMBO	16175
 Mme Charlène SAFOU KOUMBA. Confirmé Contrôleur	16175
 Mme KOWET AYENOUET Charline. DIRECTION CENTRALE	16381
@@ -1117,11 +1135,13 @@ OBLIGATIONS OF CHARGING ENTITIES	15600
 OCR Chargement	14480
 OCR Optical Character Recognition OECD Organisation	1814
 OMPEBE Agathe MASSAH Chargé des Projets	16012
+OPERATEURS C.AB RUT CHARGES D'INTERCO C.A	18122
 ORGANISATIONAL CHART	14773
 ORGANISATIONAL CHART MINISTRY OF HEALTH	14773
 ORGANISATIONAL CHART OF THE MPF	14760
 ORGANISATIONAL CHART OF THE MPF ORGANISATION	14760
 ORIENTATION DE LA CHARTE AFRICAINE	17842
+Observable Characteristics	18318
 Online Charging System	15474
 Open Access Article Publishing Charges	5246
 Open Data Charter	961,10893,5984,55
@@ -1190,6 +1210,7 @@ Platform APC Article Processing Charge ARC	5246
 Police CHARGE DES ACTIVITES MINIERES	17982
 Population Characteristics	14005,2916,193
 Population Characteristics Population	12655
+Portant Charte	18097
 Portuguese Character	15593
 Pour Charlemagne Yankoty	3682
 Pour Mme Charlotte DOSSOU	16267
@@ -1204,10 +1225,11 @@ Pricing The Charges	12364
 Prime Minister. This Charter	12927
 Prise En Charge PEV	15423,262
 Prof. Charles Adams	17260
+Prof. Charles Anosike	18131
 Prof. Charles Anosike Authorization	14949
 Professeur Chargés	17982
 Professional. The Chartered Bankers Program	17235
-Professor Charles Anosike	11966
+Professor Charles Anosike	11966,6162
 Prohibition of Unwarranted Charges and Fees	13304
 Project Charter	13037
 Promoting Responsible Innovation The Charter	2958
@@ -1251,6 +1273,7 @@ Revenue Characteristics	4896
 Revenue Characteristics Econet InfraCo	4896
 Rex Charles and Patrick	17773
 Rodrigue Charles Malanda Samba	7217
+Romain Charlot	18416
 République Charles Richard MONDJO du Congo	15488
 S04 Charges	18032
 S219 Service Charges	9437
@@ -1269,6 +1292,7 @@ Schedule of Charges	14327
 Scope of Application This Charter	2958
 Sector Size Location Firms Characteristics	11874
 Selon la Charte	13390
+Senate President Akpabio Charges Parliament	18261
 Senator Charles Tavengwa	13551
 Series A for Chari	4972
 Service Charge	11863,2075
@@ -1338,7 +1362,7 @@ Techniciens des Travaux de Planification Chargé	17899
 Terrorism CD Chartered Institute of Bankers of Nigeria	17235
 TikTok. Chart	12201
 Timothy John Charles Kelly	13981
-Togo CTC Competition Transition Charge DisCos	12062
+Togo CTC Competition Transition Charge DisCos	12062,6124,31
 Tontama Charles Millogo	932,51,6787,505
 Tower Related Charges P-9 Accelerate Telecoms	11857
 Tracy Mpofu Chartered Accountant Zimbabwean	4896
@@ -1377,6 +1401,7 @@ V8B AUTRES CHARGES FINANCIERES	18032
 VA Facility Charge	12394
 VAT. Charge VAT	13249
 Values Charter	13576
+Ville Charger	18267
 Vu la Charte	113,1688,12668,937,124,72,76,3,10,10,79,12,471,373,1,8,6,1210,13,25,83,21,29
 Vu la Charte Africaine	14861
 W Chargé des Relations	17827

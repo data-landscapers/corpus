@@ -55,7 +55,7 @@ Civil Registration Services The Kenya Vital	12151
 Civil Registration Vital Statistics and Identity DCR	12337
 Civil Registration and Vital	12241,2815
 Civil Registration and Vital Events	12533
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics D4H Data	15056
@@ -93,7 +93,7 @@ Divisions of Policy and Planning and Vital Statistics	16971
 EN UNION VIT AVEC UN HOMME	13300
 ESTATÍSTICAS VITAIS	12862
 ESTATÍSTICAS VITAIS República de Moçambique MINISTÉRIO	12156
-Electronic Civil Registration and Vital Statistics	3061,4571,4283,142
+Electronic Civil Registration and Vital Statistics	3061,4571,4283,142,6205,4
 Electronic Civil Registration and Vital Statistics System	12186
 Elisângela Vitor Mango	11586,5578
 Emmanuel Vitus Agbenonwossi Dear NRI Coordinators	9858
@@ -131,7 +131,7 @@ Hechos Vitales. En	16962
 High Courts Vital	12327
 IL VIT COMME MARIÉ. SI UNE	13300
 Identity Agenda Kenya Vital Statistics Report	12151
-Importance Vitale	6845,3687,4107
+Importance Vitale	6845,3687,4107,3680
 Improving Civil Registration and Vital Statistics	16860
 Infections Kenya Vital Statistics Report	12151
 Informe de Hechos Vitales	17026
@@ -259,6 +259,8 @@ VITAL	10819
 VITAL SECURITE N	998
 VITAL STATISTICS REPORT	12944
 VITAL STATISTICS SYSTEMS OF KENYA	12138
+VITAL TRADING Avis	18322
+VITAL TRADING SA	18322
 VITALES ET CRITIQUES Article	13719
 VITALREG	12064
 VITAMINE	13300
@@ -295,6 +297,7 @@ Vital Interest and Public Interest	7409
 Vital Munyandida	5469
 Vital Quentin	15615
 Vital Records System	10822
+Vital Reg	18139
 Vital Registration	12051
 Vital Sectors Driving Recovery	15048
 Vital Signs Profile	17869
@@ -332,7 +335,7 @@ Vital Strategies. UN	12151
 Vital Strategies. United Nations Economic Commission	12413
 Vital Stratégies	17968
 Vital Wave	14434
-VitalReg	2339,5293,2402,231,1786
+VitalReg	2339,5293,2402,231,1786,6215
 VitalStatistics	13244
 VitalStats	9128
 Vitalac International Limited	12256

@@ -1,3 +1,4 @@
+A.G. Fed	18154
 ADDIS ABABA THE FEDERAL DEMOCRATIC REPUBLIC	13965
 AI. The US Federal Trade Commission	12210
 APPROPRIATE The Federal Republic of Nigeria	4301
@@ -21,6 +22,7 @@ Aqalka Dawladaha Federaalka	14859
 Arab Federation for Digital Economy	16622
 Argentina Yes Plan Federal De Internet	11529
 Arrimaha Maaliyadda Sharci Baarlammaanka Federaalku	14859
+Association of Heads of Federal Establishments	18260
 Astaanta Jamhuuriyadda Federaalka Soomaaliya	14859
 Attorney General of The Federation and Minister of Justice	2934
 Australian Federal Police	3583
@@ -84,6 +86,7 @@ Comesa Federation of Women	12376
 Commission COMFWB COMESA Federation of Women	12376
 Communications and The Digital Economy. Federal Republic	4528
 Community Health Federal Republic Federal Republic	4301
+Community Health Workers The Federal Government	18158
 Constitution of The Federal Democratic Republic of Ethiopia	12188
 Consumer Federation of Kenya	4426,375,655,1064
 Consumer Federation of Kenya and Senator Okiya Omtatah	5163
@@ -95,6 +98,7 @@ Culture and Higher Education Federal Government of Somalia	14896
 Célula Apoyo Ordenador Nacional FED	4209
 DAWLADAHA XUBINTA KA AH DAWLADDA FEDERAALKA	14859
 Dalka Jamhuuriyadda Federaalka Soomaaliya. Qodobka	15047
+Dangiwa The Federal Government	18130
 Dastuurka Dawladda Federaalka Soomaaliya	14859
 Dastuurka Federaalka	14859
 Dastuurka Jamhuuriyadda Federaalka Soomaaliya	14859
@@ -177,14 +181,16 @@ FED-numérique	15671
 FED. Elle	13325
 FEDER	15333,5
 FEDERAALKA IYO DIB-U-HESHIISIINTA	14930
-FEDERAL	11976
+FEDERAL	11976,6178
 FEDERAL DEMOCRATIC REPUBLIC	13968
 FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA	7538,4647,41,1729,40,1,28
 FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA MID	5655
 FEDERAL GOVERNMENT OF SOMALIA	14874
 FEDERAL GOVERNMENT OF SOMALIA Contents Abbreviations	14874
 FEDERAL GOVERNMENT OF SOMALIA Ministry of Communication	15055
+FEDERAL HIGH COURT	18154
 FEDERAL MINISTRY OF EDUCATION	11860
+FEDERAL MINISTRY OF HOUSING AND URBAN	18130
 FEDERAL NEGARIT GAZETTE OF THE FEDERAL	7538,4608,80,1741,6,13,38
 FEDERAL REPUBLIC OF GERMANY	13996
 FEDERAL REPUBLIC OF NIGERIA	10157,3839
@@ -226,6 +232,7 @@ FRAMEWORK FOR THE FEDERAL REPUBLIC	11468
 Fed Withdrawal Driven	13532
 Fed. Sts	10785
 Fed. Sts. Civil Registry	10714
+Fed.Med. Centre	18154
 FedEta	7065
 FedEx	6000,10975
 FedRAMP	6477
@@ -255,7 +262,7 @@ Federaalnimo. Qodobka	14859
 Federaciones	4209
 Federaciones Deportivas	4209
 Federación de Rusia	6613,10692
-Federal	2531,1084,686,254,1068,32,118,2722,520,1142,972,25,188,127,60,67,24,234,3,3,7,85,4,20,19,5,185,41,24,250,12,1436,45,867,14,22,1,32,29,56,127,103
+Federal	2531,1084,686,254,1068,32,118,2722,520,1142,972,25,188,127,60,67,24,234,3,3,7,85,4,20,19,5,185,41,24,250,12,1436,45,867,14,22,1,32,29,56,127,103,2918,1,11,89
 Federal Affair and Reconciliation	14889
 Federal Affairs	2555,264,12172
 Federal Affairs and Rec	14874
@@ -275,7 +282,7 @@ Federal Auditor General Presents Its Annual	7054
 Federal Bureau of Investigation	4127,13574
 Federal Bureau of Statistics	11860
 Federal Capital Abuja	10861
-Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565,808,24,49,96,736,3915
+Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565,808,24,49,96,736,3915,1470,15
 Federal Capital Territory Administration	4301
 Federal Capital Territory H.E. Dr. Mariya	5991
 Federal Capital Territory Nyesom Wike	7176
@@ -284,13 +291,13 @@ Federal Capital Territory and Nasarawa State. Dr	7895
 Federal Capital Territory. Beyond	12049
 Federal Capital Territory. The Nigeria Police	8440
 Federal Capital and Port Harcourt	11857
-Federal Civil Service	7659,314,659,1431,93
+Federal Civil Service	7659,314,659,1431,93,8084
 Federal Civil Service Commission	7973
 Federal Civil Service Digital Transformation Progress	10063,93
 Federal Civil Service Reform Agenda	7973
 Federal Civil Service Strategy and Implementation Plan	3557,6506,93
 Federal College of Education	9576
-Federal Commissioner	12145
+Federal Commissioner	12145,6121
 Federal Commissioner for Refugees	12145
 Federal Commissioner. SECTION	12145
 Federal Communications Commission	4676,936,3309,94,1429,4279
@@ -333,12 +340,14 @@ Federal First-Instance Court	13948
 Federal Gazette	11976
 Federal General	11857
 Federal Govern	14874
-Federal Government	32,706,390,1125,65,8,55,209,281,62,97,353,127,38,38,135,22,1,358,7,192,274,54,179,40,81,726,410,311,109,3,383,239,31,32,6,40,15,80,57,83,4,36,138,219,32,12,13,213,86,143,58,9,7,15,147,41,5,193,152,2,1,1,1,135,113,80,48,3,1,124,86,118,186,6,54,221,1,116,36,76,90,205,448,163,21,156,60,175,10,140,3,3,68,14,12,22,5,14,54,2,10,75,9,1,80,1055,667,19,47,42,292,531,10,7,11,9,9,9,70,69,30,44,77,97,1475,775,81,22,82
+Federal Government	32,706,390,1125,65,8,55,209,281,62,97,353,127,38,38,135,22,1,358,7,192,274,54,179,40,81,726,410,311,109,3,383,239,31,32,6,40,15,80,57,83,4,36,138,219,32,12,13,213,86,143,58,9,7,15,147,41,5,193,152,2,1,1,1,135,113,80,48,3,1,124,86,118,186,6,54,221,1,116,36,76,90,205,448,163,21,156,60,175,10,140,3,3,68,14,12,22,5,14,54,2,10,75,9,1,80,1055,667,19,47,42,292,531,10,7,11,9,9,9,70,69,30,44,77,97,1475,775,81,22,82,374,1,23,9,5,38,9,4,21,3,17,3,6
 Federal Government Agency	12145
 Federal Government Budget and Donor Agencies	11866
 Federal Government Circular	8922,1235
 Federal Government Constituted Presidential Advisory Team	10
 Federal Government Financial Administration Proclamation	14014
+Federal Government II	18154
+Federal Government In Okomu Oil Palm	18154
 Federal Government Ministry	11854
 Federal Government Of Somalia	14891
 Federal Government Printer	1220,10631,125
@@ -348,10 +357,10 @@ Federal Government Tax Revenue	5655
 Federal Government and Federal Member State	14896
 Federal Government and Federal Member States	14882,122
 Federal Government and Federal Member States. Phase	15090
-Federal Government and Lagos State Government	11981
+Federal Government and Lagos State Government	11981,6149
 Federal Government and NIRA	15030
 Federal Government of Germany	8471
-Federal Government of Nigeria	381,221,199,605,157,17,576,371,4,925,845,1,532,1069,1981,1096,1177,1,151,820,340,385,98,4,171,18
+Federal Government of Nigeria	381,221,199,605,157,17,576,371,4,925,845,1,532,1069,1981,1096,1177,1,151,820,340,385,98,4,171,18,6009
 Federal Government of Nigeria Ministries	11854
 Federal Government of Nigeria. Mr. Yuzurio Susumu	3054
 Federal Government of Somali	14934
@@ -387,15 +396,17 @@ Federal Government’s National Digital Cloud	10952
 Federal Government’s Nigeria First Policy	7973
 Federal Government’s Renewed Hope Agenda	5765
 Federal Government’s Renewed Hope Smallholder Support	5765
-Federal High Court	3383,1200,226,1487,880,293,131,176,302,40,60,409,1385,239,1642,123,17,192,1763,448
+Federal High Court	3383,1200,226,1487,880,293,131,176,302,40,60,409,1385,239,1642,123,17,192,1763,448,3815
+Federal High Court Rules	18211
 Federal High Court and Federal First-Instance Courts	13948
 Federal High Court and First-Instance Courts	13948
 Federal High Court of Lideta	7909
+Federal High I I Court	18154
 Federal Highways	11129
 Federal Home Loan Mortgage Corporation	10
 Federal Houses	13948
 Federal Infrastructure	11857
-Federal Inland Revenue Service	2593,2036,2060,3001,282,2909
+Federal Inland Revenue Service	2593,2036,2060,3001,282,2909,5379
 Federal Inland Revenue Service. Rwanda	5684
 Federal Institute for Population Research	12486
 Federal Judge William Alsup	8494
@@ -429,9 +440,9 @@ Federal Minister of Health	14977
 Federal Minister of Health Professor Haitham Mohamed	15100
 Federal Minister of Post	14879
 Federal Ministerial	14934
-Federal Ministries	10157,1,1693,294
+Federal Ministries	10157,1,1693,294,6115
 Federal Ministries and Regional Bureaus of Children	13999
-Federal Ministry	11129,39,977
+Federal Ministry	11129,39,977,6070
 Federal Ministry Of Education	7027
 Federal Ministry for Economic Cooperation and Development	9707,1865,1741,113,3490
 Federal Ministry of Agriculture	5267,4609,281
@@ -439,9 +450,9 @@ Federal Ministry of Agriculture and Food	3742
 Federal Ministry of Agriculture and Food Security	5765,1454,2657,6920
 Federal Ministry of Budget and Economic Planning	10063,93,7439
 Federal Ministry of Communication	3456,5527,2969
-Federal Ministry of Communications	381,1164,814,35,72,467,523,92,177,217,586,41,265,233,493,165,178,329,55,1597,237,588,271,6,131,552,394,70,23,1,1,151,115,275,430,725,3,95,33,81,815,2455
+Federal Ministry of Communications	381,1164,814,35,72,467,523,92,177,217,586,41,265,233,493,165,178,329,55,1597,237,588,271,6,131,552,394,70,23,1,1,151,115,275,430,725,3,95,33,81,815,2455,2832,45
 Federal Ministry of Communications and Digital Economy	2253,5624,3980
-Federal Ministry of Education	3426,1711,2268,1181,2,121,1046,402,1703,91,86,24,3111
+Federal Ministry of Education	3426,1711,2268,1181,2,121,1046,402,1703,91,86,24,3111,3047,40
 Federal Ministry of Education Parastatals	11860
 Federal Ministry of Education and ICEDT Consult Limited	8586
 Federal Ministry of Education and Research	11135
@@ -449,12 +460,12 @@ Federal Ministry of Education and Unicef. Together	7027
 Federal Ministry of Energy and Water Resources	15011
 Federal Ministry of Finance	6938,3125,94,1709,261,2859,2609
 Federal Ministry of Finance URL	12127
-Federal Ministry of Health	4301,924,686,1796,2450,1498,591,2607,44,1,25,54,183
+Federal Ministry of Health	4301,924,686,1796,2450,1498,591,2607,44,1,25,54,183,3055
 Federal Ministry of Health Dr. Aida Sidahmed	15100
 Federal Ministry of Health HMIS	14923
 Federal Ministry of Health and Human Services	11596,3327
 Federal Ministry of Health and Human Services. Somalia	11596
-Federal Ministry of Health and Social Welfare	7454,4550
+Federal Ministry of Health and Social Welfare	7454,4550,6249
 Federal Ministry of Housing and Urban Development	11954
 Federal Ministry of Industry	9035,841,281,1869
 Federal Ministry of Information	7141
@@ -463,7 +474,7 @@ Federal Ministry of Justice	7141,2735,281
 Federal Ministry of Justice. Participants	7409
 Federal Ministry of Justice. The Director-General	7141
 Federal Ministry of Labour and Social Affairs Department	11135
-Federal Ministry of Marine and Blue Economy	9018
+Federal Ministry of Marine and Blue Economy	9018,9172
 Federal Ministry of Power	10157,972
 Federal Ministry of Public Works	14934
 Federal Ministry of Regional Development	11469
@@ -471,7 +482,7 @@ Federal Ministry of Science	11126
 Federal Ministry of Transportation	10603,4694
 Federal Ministry of Women Affairs	7868
 Federal Ministry of Works	9669,934
-Federal Ministry of Youth Development	9919
+Federal Ministry of Youth Development	9919,8306
 Federal Mortgage Bank of Nigeria	6938,1149,892
 Federal National Mortgage Association	10
 Federal Negarit Gazeta	12146,1809
@@ -487,6 +498,7 @@ Federal Parliament of Somalia	12492,21,2394,114
 Federal Parliament of Somalia Passes the National Payment	15021
 Federal Parliament's House	15007
 Federal Parliamentary Assembly	14001
+Federal Pay Officer	18260
 Federal Police	7909,3698,893
 Federal Police Commission	14095
 Federal Polytechnic	11857
@@ -514,7 +526,7 @@ Federal Republic of Approval Date	15190
 Federal Republic of Artificial Intelligence	12512
 Federal Republic of Germany	11285,1757,80,3794,512,158
 Federal Republic of Germany. This Strategic Plan	16943
-Federal Republic of Nigeria	473,70,96,1270,622,1770,1,164,2573,409,4,42,1154,1012,389,108,140,424,408,26,314,382,2,72,29,2,20,17,33,119,367,2615,1745
+Federal Republic of Nigeria	473,70,96,1270,622,1770,1,164,2573,409,4,42,1154,1012,389,108,140,424,408,26,314,382,2,72,29,2,20,17,33,119,367,2615,1745,1282,19,17,23,50
 Federal Republic of Nigeria Chairman	11517,3846
 Federal Republic of Nigeria FOREWORD The Education	11860
 Federal Republic of Nigeria Funding	4301
@@ -522,6 +534,7 @@ Federal Republic of Nigeria H. E. Robert	7452
 Federal Republic of Nigeria Implementing	3456
 Federal Republic of Nigeria Official Gazette	11852
 Federal Republic of Nigeria Official Gazette No	1220,10756
+Federal Republic of Nigeria President Bola Tinubu	18253
 Federal Republic of Nigeria Signed	4302
 Federal Republic of Nigeria URL	11852
 Federal Republic of Nigeria and Co-Chair	7199
@@ -590,13 +603,15 @@ Federal Urban Job Creation and Food Security	5655
 Federal and Democratic State	13948
 Federal and Government	14879
 Federal and Regional	12500
-Federal and State	3721,3938,3470,340,391,144,1944,912,65
+Federal and State	3721,3938,3470,340,391,144,1944,912,65,3237
 Federal and State Governments	8087
 Federal and State Ministries and Agencies	11860
 Federal and State Ministries of Education	11129,731
 Federal and State-owned	4301
 Federal-Audit-Service-Commission-Bill.pdf	11866
 Federal-state	11596
+Federal.Government	18154
+FederalGovernment. Counsel	18154
 Federalism Requires Process	3615
 Federalka	15153
 Federated	6720,3468,587,358,1081,218,252
@@ -608,16 +623,19 @@ Federated Hospitality Association of Southern Africa	5533
 Federated Identity	10721
 Federated Identity. Document Digital	1009
 Federated Learning Analysis	12675
+Federated Repository of Academic Theses and Abstracts	18206
 Federated Somalia	15164
 Federated States	10840,165,760,1277
 Federated States of Micronesia	13042
-Federation	1014,925,314,94,34,1,8,137,4,403,522,406,240,3346,46,67,98,314,659,27,159,7,156,329,644,109,93,525,138,310,724,4,9,76,14,20,15,2,2,150,1136,667,400,445,67,437,176,1308,790
+Federation	1014,925,314,94,34,1,8,137,4,403,522,406,240,3346,46,67,98,314,659,27,159,7,156,329,644,109,93,525,138,310,724,4,9,76,14,20,15,2,2,150,1136,667,400,445,67,437,176,1308,790,583,22,9,20,10,25
 Federation Account	2531
 Federation Account Allocation Committee	2531
 Federation Account Revenue Allocation	2531
 Federation Assurance Level	10775
 Federation GDPR General Data Protection Regulation	9855
+Federation Internationale des Géomètres	18293
 Federation Support Institution	11866
+Federation and Chief Executive Officer	18244
 Federation and Government	11956
 Federation and Minister of Justice	8849,2280
 Federation and Permanent Secretary	12145
@@ -649,6 +667,7 @@ Federation. PART ONE THE HOUSE	13948
 Federation. SERAP and Olumide-Fusika	14348
 Federation. The Data	11129
 Federations	14786
+Federations of NGOs of Senegal	18309
 Federative Republic of Brazil	17428
 Federação	5402,10130,1646
 Federação Cabo-verdiana de Pessoas	15694
@@ -726,18 +745,20 @@ Hirshabelle. The Federal Member States	14896
 Hon Abiante. The Federal Government	8087
 Hong Kong. The US Federal Communications	4676
 Honourable Federal Commissioner Representing Akwa Ibom	7664
-Honourable Minister Federal Secretariat Complex Phase	5903
+Honourable Minister Federal Secretariat Complex Phase	5903,12310
 House of Federation	13948
 Human Rights Federation	10826
 IFAC International Federation of Accountant IFR Interim	11855
 IGFF Inter-Governmental Fiscal Federalism	14929
 INFRASTRUCTURE ASSET SHARING P-3 Federal	11857
 Identity Federation	15164
+Imeko Afon Federal Constituency	18174
 Immunization Federal Ministry of Health	5225
 Implementing Agency The Federal Republic of Federal	3456
-India CIS Europe Russian Federation Switzerland	10844,719,6180
+India CIS Europe Russian Federation Switzerland	10844,719,6180,380
 India CIS Russian Federation International Telecommunication	10764
 Industry Electricity Service Provider Federal Government	11136
+Information and Public Relations Federal Ministry of Youth	18225
 Intergovernmental Fiscal Federalism Committee	15004
 International Federation	10829
 International Federation for Human Rights	15301
@@ -748,6 +769,7 @@ International Federation of Accountants Standards	15411
 International Federation of Red Cross	12977
 International Federation of Red Cross and Red Crescent	11156,1071,1643,3287
 International Federation of Red Cross and Red Cresent	11156
+International Federation of Surveyors	18293
 International Pharmaceutical Federation	9855
 International Pharmaceutical Federation14	9855
 Introduction The Federal Ministry of Public Works	14934
@@ -802,6 +824,7 @@ MATUMIZI KWA MWAKA WA FEDHA	2868
 MATUMIZI YA FEDHA KWA MWAKA	2868
 MATUMIZI YA FEDHA KWA MWAKA WA	6019
 MDAs. The Four Federal Member States	15090
+MRA Urges Federal Government	18211
 Maamus-Ka-qaadista Madaxweynaha Jamhuuriyadda Federaalka	14859
 Mabaadi’da Federaalka	14859
 Madaxa Jamhuuriyadda Federaalka	14859
@@ -842,6 +865,7 @@ Muwaaddin Jamhuuriyadda Federaalka Soomaaliya	14859
 Muwaadiniinta Jamhuuriyadda Federaalka Soomaaliya	14906
 NA MATUMIZI YA FEDHA KWA MWAKA	6019
 NHIA. Federal Republic of Nigeria	4301
+NRS Sensitises Federal MDAs On REV360	18260
 National Federation for Cinema and Audiovisual of Mali	18016
 National Federation of Artisans of Mali	17870
 National Federation of Workers of Sonelgaz Group Companies	16279
@@ -856,6 +880,7 @@ Nigeria U.S. Embassy Abuja Federal Ministry	4302
 Nigeria's Federal Executive Council	12078
 Nigeria's Federal Ministry of Communications	2285,12336
 Nigeria's Federal Ministry of Education	7027
+Nigerian Federal Capital Territory	18262
 Nigerian Federal Government	5499
 Nigerian Federal Road Safety Corps	11952
 Nigerians Benefited From NDHII. The Federal	7895
@@ -871,6 +896,7 @@ Nurses Year U.S. Government Federal Republic	4301
 OPEN DATA POLICY Federal Ministry of Communications	11854
 Office FEDERAL NEGARIT GAZETTE	12185
 Office Guide Federal	11129
+Okeoghene Akubuike The Federal Government	18176
 Once the Federal Republic of Nigeria's Medipool	4301
 Oumar FEDIOR XI JINPING	2443
 P-SO-KZ0-001 The Federal Republic of Somalia	8669
@@ -917,10 +943,10 @@ Revised Family Code. Federal Negarit	12188
 Roger Federer Foundation	12175
 Romania Russian Federation Rwanda Saint Kitts	11765
 Russian Federa-	17743
-Russian Federation	2117,3764,732,4101,50,21,61,131,3919,575,1396,561
+Russian Federation	2117,3764,732,4101,50,21,61,131,3919,575,1396,561,681
 Russian Federation CIS UMI	17743
 Russian Federation Email	10764,799,6180
-Russian Federation International Telecommunication Union	10844
+Russian Federation International Telecommunication Union	10844,7279
 Russian Federation and Ukraine. The Russia-Ukraine	14008
 Russia’s Federal Agency for Youth Affairs	7515
 Rwanda Private Sector Federation	14935
@@ -931,10 +957,11 @@ SOMALIA The Federal Government of Somalia	14874
 SPV. The Federal Government	9486
 Sababaha Lagu Lumiyo Xubinnimada Baarlamaanka Federaalka	14859
 Sale PSF Private Sector Federation QoS	718
-Samuel Anyanwu The Federal Government	12061
+Samuel Anyanwu The Federal Government	12061,6154,44
 Secretary Federal Ministry of Education	11860
 Security FCC Federal Communications Commission GbE	13185
 Senado Federal	2816
+Senegalese Federation of Associations of Disabled People	18305
 Service Federal Housing Authority School Secondary	11129
 Shacabka Jamhuuriyadda Federaalka Soomaaliyeed	14859
 Sharci Baarlamaank Federaalku	14859
@@ -963,6 +990,7 @@ Statistics Federal Republic of Somalia Somali National	15085
 Sudan Business Federation	14897
 Suggidda Amniga Jamhuuriyadda Federaalka	14859
 Supreme Federal	13948
+Sénégal FED	18291
 Taliyeyaasha Ciidammada Heer Federaal	14859
 Tanzania Private Sector Federation	9452
 Taux de Remploi FEDD	15901
@@ -1014,3 +1042,4 @@ Year U.S. Government Federal Republic Existing	4301
 Year U.S. Government Federal Republic Federal	4301
 Year U.S. Government New Federal Surveillance	4301
 Zanzibar Football Federation	12879
+Zaria Federal Constituency	18174

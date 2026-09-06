@@ -13,7 +13,7 @@ Annual Censuses	13310
 Annual Education Census	12345,605,66
 Annual Education Census Report	12956
 Annual Population Growth Rate Between Census	16921
-Annual School Census	10359,1501,201,114,1135,3599,26,298
+Annual School Census	10359,1501,201,114,1135,3599,26,298,986
 Annual School Census Questionnaire Administrative Data	13310
 BSC and Census	16863
 Background A Population and Housing Census	16921
@@ -229,7 +229,7 @@ General Agriculture and Livestock Census	16547
 General Agriculture and Livestock Census Cette	16547
 General Agriculture and Livestock Census. SERVICES	16547
 General Census	10765,10
-General Census of Population and Housing	15574
+General Census of Population and Housing	15574,2544
 General Population Census	15659,1713
 General Population Census and Accompanying Censuses Project	17322,49,1,29
 General Population and Housing Census	7702,4701,3171,236,737,784

@@ -40,7 +40,7 @@ AU Solemn Declaration	16951
 AUC Decision Assembly	16371
 Abidjan Declaration	14039
 Abidjan Declaration. Provides	17114
-Abuja Declaration	970,2613,4210,32,58,1,66,96,195,255,307,1156,3207,3830,713
+Abuja Declaration	970,2613,4210,32,58,1,66,96,195,255,307,1156,3207,3830,713,453
 Abuja Declaration By Adanna Nnamani	7883
 Abuja Declaration Sets Out Key Digital	8241
 Abuja Declaration. Together	7825
@@ -114,6 +114,7 @@ Annual Users' DECM and Surveys	17441
 Annul Decree No	17950
 Application Programming Interface CDSS Clinical Decision	9855
 Approved Dec	894
+Apr- Dec	18378
 Apr-17 Mar-17 Feb-17 Jan-17 Dec-16 Nov-16	14896
 Apr-18 Mar-18 Feb-18 Jan-18 Dec-17 Nov-17	14896
 Argent du Mérite DECRET N	17982
@@ -121,6 +122,7 @@ Armenia Yes Governmental Decree	11529
 Armée Assimi GOITA DECRET N	18003
 Armée Assimi GOITA DECRETE	17899,83,50
 Armée Ismaël WAGUE DECRET N	18032
+Art. L26 Decree	18370
 Assembleia Municipal Declarando	16290
 Assembleia Nacional Popular Decreta	11516
 Assembly Decision	5825
@@ -162,6 +164,7 @@ BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124
 BMC Medical Informatics and Decision Making	8604,2,2550,1223
 BOARD DECISION SHEET	1818
 BURUNDI'S LAW COULD DECIDE	12100
+Baku Declaration and Action Plan Learn	18349
 Banks Dec-23 Dec-24 Dec-25 Loan	7763
 Banks and SACCOs Dec-23 Dec-24 Dec-25 Account	7763
 Beijing Declaration	13447,3504
@@ -223,6 +226,7 @@ COLLABORATION A Engage Decision-Making Engage	961
 COMMISSION NATIONALE D’INTEGRATION DECRET N	18032
 COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF	5692
 COMPLETANT LE DECRET N	17841
+CONCESSION OPERATEUR CONDITIONS ECO. NUMERO DECISION	18322
 CONSELHO DE MINISTROS Decreto	12774,8,1,3436
 CONSELHO DE MINISTROS Decreto-Lei	16056
 CONSELHO DE MINISTROS Decreto-lei	15526
@@ -230,6 +234,7 @@ CONTROLE GENERAL DES SERVICES PUBLICS DECRET	17827
 COTONOU DECLARATION I. PREAMBLE	15939
 COUNCIL DECISION	17019
 COUTUMES PORTANT ABROGATION DU DECRET N	17982
+CP Cours Préparatoire DECCS Direction des Evaluations	18171
 CRI Dec	16144
 CRVS Decade	9535,13,217,3455,24,433,1,3717
 Cabinet Decision	12946,1807,2992
@@ -253,6 +258,7 @@ Chief Operating Decision Maker	10793
 Christ Declercq	10584
 Christian YOKA DECLARATION D’UTILITE PUBLIQUE Arrêté	15780
 Citing the Universal Declaration of Human Rights	17177
+Civil Aviation Code and Decree No	18309
 Clinical Decision Support System	9855,4239
 Clinical Decision Support Systems	9855
 Code of Local Governments and Decentralization	16614
@@ -264,6 +270,7 @@ Colonel Sadio CAMARA DECRET N	17861
 Combattants. DECRET N	18032
 Comité DECRET N	17899
 Comité National DECRET N	17829
+Comité de Direction. SERVICES DECONCENTRES	18169
 Commission Implementing Decision	970,11873
 Commission Implementing Decision C	644
 Commission Implementing Decision EU	8533
@@ -315,6 +322,7 @@ DE DECRETE	17861
 DE DECRETS PORTANT NOMINATION AU de Secrétaire	17827
 DE GUINEE DECRET D	16733,1,1
 DE GUINEE Previous Post DECRET	16735
+DE L'INTERIEUR ET DE LA DECENTRALISATION	18116
 DE LA DECEN- TRALISATION ET	15615
 DE LA DECENTRALISATION	15465,991,1372
 DE LA DECENTRALISATION ARRETE N	17828
@@ -332,6 +340,7 @@ DE LA PROMOTION DE LA DECENTRALISATION	17972
 DE LA REPUBLIQUE DECRETN'2017-	15416
 DE LA REQUETE DECISION FINALE	10821
 DE LA REQUETE DECISION FINALE Particulier	10821
+DE L’OBSERVATOIRE NATIONAL DE LA DECENTRALISATION	18096
 DE MINISTROS Decreto	11530
 DEC Archive	7590
 DEC N	13714
@@ -351,13 +360,14 @@ DECAISSEMENT DE LA FACILITE	15399
 DECAISSEMENTS ECARTS	16714
 DECARL IWORLD AFRIC LIMITED Data Processor	7167
 DECATHLON SPORTS KENYA LIMITED Data Controller	7167
+DECB2	18099
 DECBE	10841
-DECCS	15620
+DECCS	15620,2551
 DECDG	15620,226
 DECDG World Bank Documentation	15844
 DECDI	16144
 DECE Directorate of Environmental Assessment and Control DPO	17862
-DECEMBRE	10903,1,1,1,4979,162,1765,5,17,7,20,11,27,50,33,21,29
+DECEMBRE	10903,1,1,1,4979,162,1765,5,17,7,20,11,27,50,33,21,29,87,50
 DECEMBRE Abdoulaye DIOP	18003
 DECEMBRE Article	17982
 DECEMBRE Bamako	17841
@@ -371,6 +381,7 @@ DECEMBRE Vu	17841
 DECEMBRE Vu la Constitution	17841
 DECEMBRE Vu le Décret	17841
 DECEMBRE du Mali	17841
+DECENA Délégation Extérieure	18310
 DECENT	15999
 DECENTRALISATION	13474,957,1024,446,98,2033
 DECENTRALISATION ARTICLE	15469
@@ -468,7 +479,7 @@ DECKO LIMITED Data Controller INST-863964D811A NAIROBI	7167
 DECLANDEN MEDICAL SERVICES LTD Data Controller	7167
 DECLARANT UN DEUIL NATIONAL	18032
 DECLARATION	22,214,2473,6951,1550,1164,25,11,270,3949,249,88,102,48
-DECLARATION D'ENGAGEMENT	13433,2366
+DECLARATION D'ENGAGEMENT	13433,2366,2517
 DECLARATION DE CANDIDATURE Vu	16177
 DECLARATION DE SOCIETE	15901,199
 DECLARATION DE SOCIETE GOLDEN CREW ENTERTAINMENT	16367
@@ -535,6 +546,7 @@ DECONTAMINATING THE CRIMINAL JUSTICE SYSTEM	11277
 DECOR SAU	16623
 DECORATION	15558,102,126
 DECORATION Décret	15455
+DECOS	18171
 DECREE	16841
 DECREE N	15566
 DECREES Article	14891
@@ -542,13 +554,13 @@ DECRET	16616,117,1,1
 DECRET D	233,1,16403,96,1,1
 DECRET DE PUBLICATION DES RESULTATS	16704
 DECRET ET ARRETES	15465,948,43
-DECRET N	2625,8281,2385,43,254,127,4,4,58,28,609,13,13,19,75,840,5,58,84,555,1732,2,3,10,1,1,3,9,20,38,83,21,29
+DECRET N	2625,8281,2385,43,254,127,4,4,58,28,609,13,13,19,75,840,5,58,84,555,1732,2,3,10,1,1,3,9,20,38,83,21,29,71
 DECRET Nº100	13587,1
 DECRET3 0ektpXg.PDF	10898,8
 DECRET3.PDF	10897,1,8
-DECRETE	234,2391,8271,7,2,234,2152,12,31,253,1,131,4,49,9,28,622,13,19,75,816,12,7,5,4,34,2,18,5,20,86,22,132,936,8,6,1161,2,3,10,1,1,3,6,3,14,6,38,83,21,29
+DECRETE	234,2391,8271,7,2,234,2152,12,31,253,1,131,4,49,9,28,622,13,19,75,816,12,7,5,4,34,2,18,5,20,86,22,132,936,8,6,1161,2,3,10,1,1,3,6,3,14,6,38,83,21,29,83,181,15
 DECRETE Arlicle	15438
-DECRETE Article	13825,112,3,1414,726
+DECRETE Article	13825,112,3,1414,726,2207
 DECRETE CHAPITRE	13827,16,1601
 DECRETE Chapitre	16616
 DECRETE Des	13834
@@ -576,6 +588,7 @@ DECRETS-ARRETES Contentieux	17827
 DECSI	15473
 DECTARATION Arllcle	15429
 DEFINING THE CONDITIONS TO DECLARE DROUGHT	17157
+DES COMMISSIONS ELECTORALES DECONCENTREES	18101
 DES DECLARATIONS DE Aucun	17861
 DES DISPOSITIONS FINALES DECRET N	17817
 DEconomic	4676
@@ -698,7 +711,7 @@ Dec-2024 Yes	16079
 Dec-2024 Yes Dec	10870
 Dec-2024. Borrower	15693
 Dec-2024. Operation Closing	15702
-Dec-2025	2253,2046,155,2,135,97,2145,95,949,3592,2587,1080,896,864,574,488,4,44
+Dec-2025	2253,2046,155,2,135,97,2145,95,949,3592,2587,1080,896,864,574,488,4,44,348,1
 Dec-2025 Borrower	16675
 Dec-2025 Closing Period Result	16032
 Dec-2025 Closing Period Result Yes Month	16032
@@ -716,7 +729,9 @@ Dec-2025 Restructuring Level	6928
 Dec-2025 Roadmap	16032
 Dec-2025 Satellite	15136
 Dec-2025 US	5141
-Dec-2025 Yes Dec	16032
+Dec-2025 YES Jun	18355
+Dec-2025 Yes Dec	16032,2323
+Dec-2025 Yes Jun	18355
 Dec-2025 Yes Sep	4688
 Dec-2025. Borrower	13897,141
 Dec-2025. RATINGS SUMMARY	15990
@@ -830,8 +845,10 @@ December-2026	543,11251
 December-January-February	13686
 December2022	13388
 December2025. RISA	15019
+December2025100	18305
 December2026	7931
 December’s	4725
+Decembre	18322
 DecembreDécembre	10826
 Decenal	16898
 Decenal Ganadería	16898
@@ -883,6 +900,7 @@ Decentralised Territorial Collectivities	10980
 Decentralising	8605
 Decentraliza	17180
 Decentralization	958,8590,1264,1093,341,4,163,44,513,85,189,174,2055,131,1010,356,1,424,2
+Decentralization Act	18293
 Decentralization Decentralization	13418,3552
 Decentralization Governance Comments Table	11855
 Decentralization Implementation Fiscal Decentralization	17139
@@ -914,7 +932,7 @@ Decentralization of Services	12241
 Decentralization. GDU	16971
 Decentralization. The Bureau of Vital Statistics	16971
 Decentralize	12970
-Decentralized	2521,659,249,939,974,1524,210,294,1235,1697,512,192,566,880,643,323,719,798,203,18,569,1414
+Decentralized	2521,659,249,939,974,1524,210,294,1235,1697,512,192,566,880,643,323,719,798,203,18,569,1414,1162
 Decentralized AMR	16971
 Decentralized Administrative Entities	13418
 Decentralized CRVS	12250
@@ -953,7 +971,7 @@ Decimal	736,11624
 Deciphering	17157
 Deciphering Ethiopia	3176
 Decis	766,453,42,2530
-Decision	27,735,199,11,235,36,18,443,284,303,484,138,543,671,986,116,596,598,9,649,371,482,21,58,589,465,1268,821,21,4,616,63,366,112,210,81,356,55,71,67,141,2,140,1,104,95,452,440,23,18,64,59,63,45,155,51,71,24,285,62,5,36,36,351,78,34,642,271,16,9,60,8,138,17,113,30,114,103,336,100
+Decision	27,735,199,11,235,36,18,443,284,303,484,138,543,671,986,116,596,598,9,649,371,482,21,58,589,465,1268,821,21,4,616,63,366,112,210,81,356,55,71,67,141,2,140,1,104,95,452,440,23,18,64,59,63,45,155,51,71,24,285,62,5,36,36,351,78,34,642,271,16,9,60,8,138,17,113,30,114,103,336,100,348
 Decision Advantage	10566
 Decision Authority	4528,3755,4229
 Decision Authority. Stage	8283
@@ -1046,7 +1064,7 @@ Declaragio de Receitas Eventuais	17111
 Declarant	12226,428
 Declarants	17367
 Declarar	10783,668,7,443,3487
-Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105,579,113,211,17,8,71,41,158,16,18,1,109,40,215,142,152,107,1,106,95,1216,1,4,4,19,9,99,58,18,446,106,106,317,38,38,167,699,4,27,77,66,51,33,7,142,68
+Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105,579,113,211,17,8,71,41,158,16,18,1,109,40,215,142,152,107,1,106,95,1216,1,4,4,19,9,99,58,18,446,106,106,317,38,38,167,699,4,27,77,66,51,33,7,142,68,1031,9
 Declaration Form	16955
 Declaration OF ALEXANDER WINNICK PURSUANT	14675
 Declaration Plateforme	17860
@@ -1148,6 +1166,7 @@ Declared Advertiser	13462
 Declared Members	7869
 Declared Registered Voters	7869
 Declares	12136,2964
+Declares Open National Assembly Open Week	18261
 Declaring	7510,292,565,57,934,4323,637,854,301,1374,37
 Declaring Independence	6562
 Declaro	8536
@@ -1178,6 +1197,7 @@ Decomposition of Public Debt and Debt Service	17909,81
 Decompress Healthcare	8603
 Deconcentrated	16942
 Deconcentration	13418
+Deconcentration Charter	18305
 Deconcentration Deconcentration	13418
 Decongestion of Pont Fer	14736
 Decorative	11269
@@ -1199,13 +1219,13 @@ Decreases	11296,5861
 Decreasing	236,16921
 Decreasing Better	1940
 Decreasing Incomes	12445
-Decree	10,1,14,551,393,413,436,289,1418,79,1351,27,191,1652,110,3830,10,37,29,107,602,350,5,19,31,206,40,93,1019,18,26,2015,21,80,19,26,48,93,2,78,230,8,102,837,26,30,185,313,400,23
+Decree	10,1,14,551,393,413,436,289,1418,79,1351,27,191,1652,110,3830,10,37,29,107,602,350,5,19,31,206,40,93,1019,18,26,2015,21,80,19,26,48,93,2,78,230,8,102,837,26,30,185,313,400,23,225,187,4,61
 Decree Absolute Certificate	12639
 Decree Law	10775,1094,292,3763,59,975
 Decree Law No	14934,539,1485
 Decree Laws	15531
 Decree N	13313,18,4539
-Decree No	1382,914,1308,1109,4029,1,26,519,1491,33,29,70,19,7,11,602,20,16,314,5,1,59,254,75,1,484,552,26,581,510,17,907,101,18,1056,284,71,40,16,14,185,377,400,16
+Decree No	1382,914,1308,1109,4029,1,26,519,1491,33,29,70,19,7,11,602,20,16,314,5,1,59,254,75,1,484,552,26,581,510,17,907,101,18,1056,284,71,40,16,14,185,377,400,16,168,7,180,65
 Decree No. Decree No	16079
 Decree No. Key	15473
 Decree No.100	13357
@@ -1215,7 +1235,8 @@ Decree- Law	10765,5159
 Decree-Law	10775,1080,21,15,403,2567,65,467,531
 Decree-Law No	11550,3,319,3521
 Decree-law No	9494
-Decrees	10841,4818
+Decrees	10841,4818,2711
+Decrees and Orders	18370
 Decret	1231,9747,815,3648,251,919
 Decret 2014-105 12 mars 2014.pdf	10906
 Decret 2014-106 12 mars 2014.pdf	10906
@@ -1308,6 +1329,7 @@ Digitised Declaration Process	11134
 Direction Général DECIDE DECISION N	15885
 Direction Générale DECIDE	15885
 Direction Générale DECIDE DECISION N	15885
+Direction du Commerce Intérieur DEC	18291
 Directives and Decisions	2913
 Directors' Declaration of Interests	9915
 Direitos Humanos Decorreu	10752
@@ -1410,6 +1432,7 @@ Falsas Declarações	11363
 Falta de Decreto Presidencial	16898
 Falta de Entrega de Declaração	11532
 Ferramentas Automatizadas de Decisão de Emprego	2816
+Fiabilisation des DEC	18291
 Fifth General Population and No Dec	10870
 Final Declaration	9399
 Financial Access Points Dec-24 Dec-25 Growth	7763
@@ -1431,6 +1454,8 @@ Form of Bid-Securing Declaration	13185
 Formation DECRET N	17817
 Former Decomel	11546
 Foundation of Planning and Decision-Making	15100
+Four Decades	18142
+Four Decades of Partnership	18142
 Francisco Declaration	5246
 Functional Dec	17958
 G. DECLARATIONS	5113
@@ -1489,6 +1514,7 @@ Harare Declaration	4528,7984
 Health Decentralization Policy	16971
 Hon. Decontee K. Sackie	16848
 Hon. Decontee King-Sackie Deputy Commissioner General	16857
+Human Decisions and Machine Predictions	18318
 Human and Peoples' Rights Declaration of Principles	17771
 Human and Peoples’ Rights Declaration of Principles	9416
 Hutchinson P. Decentralization	1261
@@ -1517,13 +1543,15 @@ Implementation Status and Key Decisions	2712,3867,254,4562,833,496,303,883,6,4,5
 Implementation Status and Key Decisions All	15735
 Implementation Status and Key Decisions Approved	6928
 Implementation Status and Key Decisions Benin	10870
+Implementation Status and Key Decisions Component	18350
 Implementation Status and Key Decisions English	17904
-Implementation Status and Key Decisions Implementation	17096
+Implementation Status and Key Decisions Implementation	17096,1037
 Implementation Status and Key Decisions Nigeria Building	4688
 Implementation Status and Key Decisions Nov	12440
 Implementation Status and Key Decisions Overall	17079,391,35
 Implementation Status and Key Decisions Progress	11988
 Implementation Status and Key Decisions Project	15159
+Implementation Status and Key Decisions Public Disclosure	18355
 Implementation Status and Key Decisions Regional Submarine	16705
 Implementation Status and Key Decisions The Congo	11971
 Implementation Status and Key Decisions The DPO	14056
@@ -1532,7 +1560,7 @@ Implementation Status and Key Decisions The Mauritania	18006
 Implementation Status and Key Decisions The Project	13917
 Implementation Status and Key Decisions The REALISE	17000
 Implementation Status and Key Decisions The World	7877,4390
-Implementation Status and Key Decisions This ISR	16994
+Implementation Status and Key Decisions This ISR	16994,1360
 Implementação da Declaração	11562
 Implementing Decision	14658
 Implications for Decision-Making	17114
@@ -1553,10 +1581,11 @@ Information and Decision Support Center	13733
 Infrastructure Resilience Declining	17157
 Initiated Dec	1714
 Inspection des Finances. DECRETE	17841
+Inspectors’ Audit Execution Decisions	18318
 Integrated Border Declaration Form Customs Tax	12454
 Interior Decoration	11285
 Interior and Decentralisation	9517
-Interior and Decentralization	14557
+Interior and Decentralization	14557,3641
 Interministerial Decree	3604
 Interministerial Decree Number	3604
 International Conventions and Declarations	16951
@@ -1579,7 +1608,7 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DECOTE	15598
 JUDICIAL REVIEW OF DATA GOVERNANCE DECISIONS	3861
 Jan-2019 Decision Review	13742
 Jan-2026 YES Dec	17505
-Jan-2026 Yes Dec	16705
+Jan-2026 Yes Dec	16705,1654
 Japan Yes Declaration	11529
 Jaume Dubois Dec	4368
 Jeddah Declaration	15115
@@ -1593,10 +1622,11 @@ Joyce Onyeagoro The DECIM	14636
 Judges Pitch Deck Must Include	13168
 Judicial Decisions	16949
 Judicial Review of Data Governance Decisions	3861
-Jul Aug Sep Oct Nov Dec	11953,1142,3840,974
+Jul Aug Sep Oct Nov Dec	11953,1142,3840,974,209
 Jul- Dec-25	2989
 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23	11953
 Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24	11953,303
+Jul-25 Aug-25 Sept-25 Oct-25 Nov-25 Dec-25	18217
 July. The Declaration	7883
 Jun'21 Sep'21 Dec'21 Mar'22 Jun'22 Sep'22	11198
 Jun- Dec-25	2989
@@ -1610,6 +1640,7 @@ KOUROUMA DECRETS DECRET D	16645
 Kampala Declaration	9609,2688
 Key Achievements and Impact of Decentralization	13418
 Key Decision Log	6423
+Key Decisions	18133
 Key Features Decentralized Ledger	12211
 Kigali Africa AI Declaration Apr-2025	6041
 Kigali Africa Declaration	6937
@@ -1745,6 +1776,7 @@ Ministry Declares	15172
 Ministry for Decentralisation	11907
 Ministry of Communication and Digital Economy. Decisions	16915
 Ministry of Decentralization and Local Development	10964,5258
+Ministry of Infrastructure Since Decree No	18370
 Ministry of Interior and Decentralization	11905,2525,35
 Ministry of Regional Administration and Decentralization	10841
 Ministry of Territorial Administration and Decentralisation	1235,2411
@@ -1895,6 +1927,7 @@ PRESIDENCE DE LA REPUBLIQUE DECRET N'2OI5-378	15399
 PRESIDENCE DE LA REPUBLIQUE DECRETS DECRET	17982
 PRESIDENT DECRET N	13587
 PRESS AGENCYCamer Press Agency DECOUVREZ NOTRE	9916
+PRISE EN COMPTE DE LA DECENTRALISATION	18291
 PRIVE DE LA DECENTRALISATION ET	15558
 PRODUITS DE TELECOMMUNICATIONS DECRET D	16733,1,1
 PRODUITS DE TELECOMMUNICATIONS Previous Post DECRET	16733
@@ -1905,6 +1938,7 @@ PROPOSED DECISION	13218
 PROPOSED DECISION IN TERMS OF SECTION	13218
 PRÉGIDENCEDE LAÈIPÜÙ DECRETARIAT	15999
 PUBLIC PUBLIC Transaction BOARD DECISION SHEET	1818
+Pacific Lagatoi Declaration	18349
 Paris Declaration	14002,2850
 Partial Assessment. Concept Review Decision	12137
 Participate. Decide. Transform	17164
@@ -1927,13 +1961,14 @@ Pour le Conseil Le Président DECIDE DECISION	15885
 Poverty Eradication and Social Welfare CABINET DECISION	12923
 Pre-Filled Declarations	12389
 Pre-Filled Tax Declarations	12389
+Pre-import Declaration	18285
 Presence of Automated Decision Making	8436
 President Boakai Declares	17025
 President João Lourenço's Dec	793
 Presidential Declaration	7452
-Presidential Decree	3685,37,139,345,8,751,5798,2,3,3,4,1,3,62,652,708,1111,2,2159,5,14,129,58,952,311,30,24
+Presidential Decree	3685,37,139,345,8,751,5798,2,3,3,4,1,3,62,652,708,1111,2,2159,5,14,129,58,952,311,30,24,1313
 Presidential Decree CAPMAS. No	15473
-Presidential Decree No	3685,176,612,282,5,205,5810,4,35,603,1914,2142,1485,14,24
+Presidential Decree No	3685,176,612,282,5,205,5810,4,35,603,1914,2142,1485,14,24,1313
 Presidential Decree for Targeted Free Healthcare	10829
 Presidential Decrees	11380
 Pretoria Declaration	3583
@@ -1954,6 +1989,7 @@ Professor Dechasa	14140
 Professor Nigussie Dechasa	14140
 Profiling and Automated Decision Making	14932
 Program MS Current Closing Date Dec	13392
+Programmation. BUREAU DECENTRALISATION	18302
 Project Declarations	6872
 Projecto de Decreto Presidencial	11415
 Projeto de Decreto	3246,6180,7934
@@ -1980,10 +2016,12 @@ REGIME DE DECLARATION	17819
 REGIONAL INTEGRATION Decentralization	14935
 REGISTRES ET CARNETS DE DECLARATION Article	16636
 REMPE Declaração Periódica de Rendimento	12018
+RENOUVELABLE DECENTRALISEES	18316
 RENOUVELABLES DECENTRALISEES	13433
 RENOUVELLEMENT PERMISSIONNAIRE REFERENCE DECISION DATE	998
 REPORT DIGITAL DECEPTION Online	9616
 REPUBLIOUE DECRET N	15366
+REPUBLIQUE DU NIGER DECRET N	18115
 REPÚBLICA DE GUINEA ECUATORIAL PRESIDENCIA DECRETO	16859
 REQUETE DECISION FINALE Agence Nationale de Traitement	10821
 REQUETE DECISION FINALE Bénin Control Traitement	10821
@@ -1996,6 +2034,7 @@ RESUME POUR LES DECIDEURS Il	16621
 RETIRE Decommission	6432
 REVENUE DECLARATION FORM	17250
 RODRIGUES REGIONAL ASSEMBLY MAIN DECISIONS Executive	14794
+RSF-initiated Dakar Declaration	18358
 Rated Decentralizing Environmental Services	17139
 Recalling the African Union Declaration	17017
 Recherche DECRETE	17817
@@ -2014,6 +2053,7 @@ Renewable Energy Decree Law	15983
 Repeal PRC Decree	16841
 Republic Decisions	14884
 Republic Decree	3583
+Republic of Senegal Estimated Decision Total Project	18374
 Republique Democratique du Congo. Un Decret du Premier	15584
 Requisição de Declarantes	11452
 Research-Informed Decision-Making Building	13042
@@ -2035,6 +2075,7 @@ Rwanda Five-Year Decentralization Implementation Programme	12413
 Rwandans. Decentralization	13418
 Rwanda’s Decentralisation	13418
 Rwanda’s Decentralization Policy	13418
+République. DECRET N	18427
 SA News Declared Advertiser Domains	13461
 SA-EU-Summit-Declaration.pdf DECLARATION	11210
 SACCOs and Money Lenders Dec-23 Dec-24 Dec-25	7763
@@ -2132,6 +2173,7 @@ Sujeito IRPS IVA Imposto de Selo Declaração	12018
 Superior Council of Social Declaration of Principles	12201
 Supply-side Financial Inclusion Indicators Indicator Dec	940
 Swati. Border Declaration Reform	13123
+Systématisation de DEC	18291
 Sécurité DECRETE	17982
 TABLE OF CONTENTS DECLARATION	17116
 TARGET DATE DEC	14022
@@ -2149,8 +2191,10 @@ Takasaki Declaration	11154
 Tanzania Telecom Sector Should Be Declared	6711
 Tanzania. BMC Med Inf Decis Mak	1261
 Tanzania. BMC Med Inform Decis Mak	3791,4585,2505
+Tax Declarations. Table	18318
 Technological Decision Contextual Integration	9129
 Technology Technology Dec-2024 Mar-2025 Jun-2025 Sep-2025	15136
+Telecommunications Decret	18296
 Theft By Deception	16935
 Thekwini Declaration	2117
 Thermal Decay Time Tool	11405

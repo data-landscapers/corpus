@@ -4,8 +4,9 @@ AK-039	16604
 AK-039-5028	16604
 AK-1 Akwa South South	11857
 AK-47	9876
-AKADEMIYA2063	15838
+AKADEMIYA2063	15838,2486
 AKADEMIYA2063's Africa Agriculture Watch	15838
+AKADEMYA	18324
 AKAGA	16381
 AKAMATSU Takeshi	16000,3
 AKAMBET	16177
@@ -40,6 +41,7 @@ AKOM II	15542
 AKONDZO NGOYA	15901
 AKONIBE CIUDAD	4209
 AKONIBE PERIFERIA	4209
+AKOP Avis	18322
 AKOTO Epse OKRY Chilina Vicentia S	10712
 AKOULABO	15524
 AKOUSSI Kouassi Jacob	2342
@@ -56,6 +58,7 @@ ASIN Director General Marc-André AkinOlu Loko	4246
 AZIZ AKHANNOUCH	17456
 Abba Kyari. Akuma	1250
 Act. Johnson Akuamoah Asiedu	15657
+Acting High Commissioner Ambassador Ubong Akpan	18221
 Adedayo Akinpelu	10653
 African Union Ambassador Mohamed Osman Akasha	13440
 African Union. Akandji-Kombé	15474
@@ -67,6 +70,7 @@ Akachi	9739
 Akademi Kreol Repiblik Moris	14742
 Akademi Kreol Repiblik Moris AML	14742
 Akademie	11313
+Akademya	18324
 Akaike	236
 Akajemeli	11951
 Akakandelwa	8022,4445
@@ -107,6 +111,7 @@ Akbar Durani	15179
 Akbarzadeh	8603
 Akbou	15467
 Akdogan Glaszner German School Ltd Data	7167
+Ake Shareholdings Ltd	18154
 Akech Tong Malek	17557
 Akelayong	4209
 Akelius	16510
@@ -211,8 +216,9 @@ Akoto	17701
 Akoua	16100
 Akouessa	17584
 Akoupé	2342
+Akouta DC Courant Continu	18103
 Akpa-Inyang and Chima	9969
-Akpabio	6871,982,4207
+Akpabio	6871,982,4207,6201
 Akpeki	4690
 Akpini Traditional Area	16596
 Akplogan	6341,2967
@@ -239,7 +245,7 @@ Akugri	4750
 Akukho	11551,22
 Akuko	9739
 Akum David Sahbaker	6259
-Akume	2381,9,1712,5208,3971
+Akume	2381,9,1712,5208,3971,4895
 Akums	13412
 Akums Drugs and Pharmaceuticals	13412
 Akums Drugs and Pharmaceuticals Limited	13561
@@ -260,7 +266,7 @@ Akwa Ibom	7329,1786,1114,1628,193
 Akwa Ibom Activates High-Speed Internet Backbone	10229
 Akwa Ibom Career Clinic	9115
 Akwa Ibom Employment Portal	9115
-Akwa Ibom State	7664,1451,1114
+Akwa Ibom State	7664,1451,1114,7966
 Akwa Ibom State Command Anambra State	8471
 Akwa Ibom State Government	7664,2565
 Akwa Ibom State Ministry of Education	7664
@@ -356,7 +362,8 @@ Désiré Aka	6989
 Désiré Aka. C'était	5381
 EKOLOBONGO AKOLI Raphaël DEP	15580
 Eliane Akoa Efa	10972
-Elise Massan Akitani	11549
+Elise Massan Akitani	11549,6825
+Elise Massan Akitani Job Title	18374
 Energie AKEB Mohammed Ministère des Ressources	15472
 Environmental Health OPSIS Ndiga Akech Odindo	16922
 Escolástica Nsa AKIEME Jefa de Servicio de Planificación	16898
@@ -377,14 +384,16 @@ Fundação Akelius	16510
 Félix AKPLAKOU Membres	16485
 GIZ's Akzente	12141
 GONA AKOULI	15744
+GROUPE AKOMILI ISPM INSTITUT DE SANTÉ PRIVÉE	18170
 Gambia By Rebecca Yakubu Akatue	10062
 Gemeda Olani Akuma	17735
 George Akume	2381,6541,388,3971
 Geroge Akume	2390
 Ghanaian Health Minister Kwabena Mintah Akandoh	8479
-Godswill Akpabio	2586,4285
+Godswill Akpabio	2586,4285,11390
 Google and Akamai	10037
 Gordon LaForge and Akash Kapur	4430
+Government of Akwa Ibom State	18154
 Grade One Magistrate Geoffrey Akena	4235
 Gynecology3 Akušerstvo4	10780
 Halim Akniou	15410
@@ -555,6 +564,7 @@ Nida Akizungumza	2718
 Nigeria's Akowe We're	13272
 Noël Alain Olivier Mekulu Mvondo Akame	15883,264
 OKOCHI Akihiro	8297,47
+Okeoghene Akubuike The Federal Government	18176
 Ola Schad Akinocho	11950
 Olasunkanmi Akoni LAGOS	17756
 Olumbe Akinkugbe. The Government Service Portal	8980
@@ -605,9 +615,12 @@ SUA Akurenam	4209
 Samiat Akande	5281
 Samira Akoudad	13824
 Samson Akintaro	2677
+Samson Akintaro Airtel	18195
 Samuel Kaba Akoriyea	16591
 Selon M. Akouala	16130
-Sen. George Akume	2934,9374
+Sen. George Akume	2934,9374,5868
+Senate President Akpabio	18261
+Senate President Akpabio Charges Parliament	18261
 Senate President Godswill Akpabio	7853,4207
 Senator George Akume	2382,1321,399,3459,1420,8590
 Senator Godswill Akpabio	7561
@@ -637,6 +650,7 @@ Timileyin Akinmoyeje	9310
 Togo. Marcel Akakpo	9898
 Tracy Judith Akello	8285
 Tripathi AK	17773
+Tunde Akanbi	18155
 Türkiye AKCAPAR	6613
 Ufuk Akcigit	9025
 Uganda's AKIBA Happily Authenticated	5743

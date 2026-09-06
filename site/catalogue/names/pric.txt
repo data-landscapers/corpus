@@ -86,12 +86,13 @@ Constant Prices	2775,14460
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250
 Consumer Price Index CSD Central Securities	15023
 Consumer Price Index Manual	11258
 Consumer Price Index Recommendations	14777
 Consumer Price Index Survey	12962
 Consumer Price Index and Producer Price Index	17149
+Consumer Price Index. Bagudu	18176
 Consumer Price Index. Table	14896
 Consumer Price Indices	2775,10187,1772,2099
 Consumer Price Indices Kenya	2775
@@ -331,7 +332,7 @@ Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Potential Impact of LTA Price Order	16876
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1,231,14
 Price Adjustment Formula	13185
 Price Analysis and Monitoring Division	14839
 Price Caps	16839

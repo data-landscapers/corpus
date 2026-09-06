@@ -56,6 +56,7 @@ Blueprint. Key	3556
 Box A. Key Concepts and Definitions Data	4214
 Bridge To The Future. Key	14752
 Bvuma. Key	11845
+C. Key Preparedness and Readiness Gaps	18198
 C. Sectoral Context Key PFM Processes1	1284
 CBE. Critical Factors Key Performance Targets	11131
 CBL Policy Statement Matrix Key Risks	17138
@@ -81,9 +82,11 @@ Challenges Key Evidence Challenges Data Governance	12210
 Challenges and Key Success Factors	8670
 Chief HP RA Others Key RCRO	12138
 Climatic Shocks and Food Security Key	10763
+Collaboration and Partnerships Key	18125
 Color Key Improvement Deterioration No Change	16260,988,4
 Commerce Key Stakeholders	395
 Committee Key Ministers	940
+Community Health and Safety Relevant Key	18374
 Comprehensive Public Key Infrastructure	15080
 Comprehensive Standards Summary Section Standard Key	11952
 Conclusion and Key Takeaways The Plan's Potential	12035
@@ -98,6 +101,7 @@ Crisis Key Challenges News	11439
 Current VAT Administration and Key Constraints	8670
 Current VAT Administration and Key Constraints VAT	8670
 Cyber Academy and Innovation Center. Key	15019
+D. Key Actions	18198
 DATA ANALYSIS AND KEY	1938
 DEATH STATISTICS Key	15056
 DEFINITION OF KEY CONCEPTS	13418
@@ -137,6 +141,7 @@ Digital Accessibility Rights Evaluation Index Key	11935
 Digital Key	15713
 Digital Lilangeni Design Paper Key CBDC	11130
 Digital Literacy Programme. Key	899
+Digital Public Infrastructure and Public Key Infrastructure	18259
 Digital Public Key Infrastructure	13347
 Digitalization Was Needed Key Challenges	12064
 Digitize Key Government Permitting Association of Liberian	17260
@@ -282,13 +287,15 @@ Implementation Status and Key Decisions	2712,3867,254,4562,833,496,303,883,6,4,5
 Implementation Status and Key Decisions All	15735
 Implementation Status and Key Decisions Approved	6928
 Implementation Status and Key Decisions Benin	10870
+Implementation Status and Key Decisions Component	18350
 Implementation Status and Key Decisions English	17904
-Implementation Status and Key Decisions Implementation	17096
+Implementation Status and Key Decisions Implementation	17096,1037
 Implementation Status and Key Decisions Nigeria Building	4688
 Implementation Status and Key Decisions Nov	12440
 Implementation Status and Key Decisions Overall	17079,391,35
 Implementation Status and Key Decisions Progress	11988
 Implementation Status and Key Decisions Project	15159
+Implementation Status and Key Decisions Public Disclosure	18355
 Implementation Status and Key Decisions Regional Submarine	16705
 Implementation Status and Key Decisions The Congo	11971
 Implementation Status and Key Decisions The DPO	14056
@@ -297,7 +304,7 @@ Implementation Status and Key Decisions The Mauritania	18006
 Implementation Status and Key Decisions The Project	13917
 Implementation Status and Key Decisions The REALISE	17000
 Implementation Status and Key Decisions The World	7877,4390
-Implementation Status and Key Decisions This ISR	16994
+Implementation Status and Key Decisions This ISR	16994,1360
 Implementation Support for Key Health Sector Reforms	10829
 Implementation Support of Key Health Sector Reforms	10829
 Implementation of Key Actions	14745,28
@@ -365,10 +372,11 @@ KEY DATES Approval	15704,33
 KEY DATES Approval Effectiveness MTR Review	15663,2186
 KEY DATES Concept Review	13742
 KEY DATES Decision Review	15702
+KEY DATES For Official Use Only	18350
 KEY DATES Jun	6579
-KEY DATES Key Events	13058,2101
+KEY DATES Key Events	13058,2101,2974
 KEY DATES Key Events Jun	6928
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1
 KEY DATES Key Events Planned Date	11924,6038
 KEY DATES Key Revisions Key Events	16436
 KEY DATES Page	11971,469,3639,915,85
@@ -404,7 +412,7 @@ KEY INTERNATIONAL DEVELOPMENT	16883
 KEY INTERNATIONAL STANDARDS AND CERTIFICATIONS APPLICABLE	15149
 KEY INTEROPERABILITY AREA	15540
 KEY INTERVENTIONS TO MITIGATE DELAYS	1920
-KEY ISSUES	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,801,51,6,1,3,136,924,37,14,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48
+KEY ISSUES	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,801,51,6,1,3,136,924,37,14,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1
 KEY LEGISLATIONS	14773
 KEY LESSONS AND STRATEGIC IMPETUS	14935
 KEY LESSONS LEARNED	15601
@@ -446,7 +454,7 @@ KEY RELATED BROADBAND STATISTICS	16884
 KEY RESPONSIBILITIES Minting	15023
 KEY RESULT AREAS Based	1131
 KEY RESULTS OF THE POLICY	14004
-KEY RISKS	1818
+KEY RISKS	1818,16475
 KEY RISKS AND MITIGATION	11261
 KEY RISKS Risks Probability Comments	1818
 KEY SECTOR ALLOCATIONS AND DEVELOPMENT PROJECTS	13122
@@ -475,6 +483,7 @@ KEY THEMES IN DIGITAL HEALTH GOVERNANCE	12240
 KEY WEAKNESSES	15447,33
 KEY WEST AFRICAN MARKET	10861
 KEY for REV-006	6986
+KEYNOTE ADDRESS BY PRESIDENT BOLA AHMED	18263
 KEYWORDS	4676,1024,6390
 KFS Key Facts Statements KIFC Kigali	14997
 KG Kindergarten KPI Key Performance Indicator	15604
@@ -517,6 +526,8 @@ Key Areas	12717
 Key Arena for Innovation and Competition	7334
 Key Arguments and Ideas	17260
 Key Aspects	12675
+Key Assumptions	18293
+Key Assumptions Objectives Component	18293
 Key Attributes of Digital System Acquisition Approaches	17870
 Key Audit Areas and Findings	13420
 Key Audit Matters Key	13053,2116
@@ -524,7 +535,7 @@ Key Balance Sheet Indicators	17235
 Key Balance Sheet Indicators of Commercial Banks	17235
 Key Banks Stay	10929
 Key Beneficiaries IGAD Member States	14079
-Key Benefits	3495,2626,8640
+Key Benefits	3495,2626,8640,3422
 Key Benefits Seamless	17539
 Key Benefits of HRIMS Implementation	13477
 Key Best Practices Despite	13418
@@ -562,10 +573,11 @@ Key Coverage and Targets	15138
 Key Criteria for LOA Selection	4301
 Key Cybercriminal Threats	6426
 Key Data	13054
-Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48
+Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1
 Key Dates Approval	14948
 Key Dates Guarantee Key Dates Approval	15905
 Key Decision Log	6423
+Key Decisions	18133
 Key Definitions	4972,7238
 Key Definitions Government of Ghana Digital Services	15540
 Key Definitions for NNBP	11857
@@ -617,7 +629,7 @@ Key FSIs	17235
 Key FY2023	1384
 Key Factors	15663
 Key Factors Affecting Implementation and Outcomes	16614
-Key Facts	4972,6511,579,4862
+Key Facts	4972,6511,579,4862,1293
 Key Facts Key Highlights	4972
 Key Facts The Gambia Government Cloud	16924
 Key Facts and Insights Energy	14745
@@ -652,6 +664,7 @@ Key Functions	4528,7984,2232,1
 Key Functions and Activities NOSi	11891
 Key Functions and Objectives	15120
 Key GPE	11916
+Key Gaps	18370
 Key Gaps and Internal	15164
 Key Gaps and Internal Variations	15164
 Key Gaps and Internal Variations26	15164
@@ -669,6 +682,7 @@ Key Highlights	11131,1114,198,2376
 Key Highlights Industry	17362
 Key Highlights Safaricom Kenya Performance Safaricom	3898
 Key Highlights Service	6100
+Key Highlights and Objectives	18174
 Key Historical Milestones Curriculum Integration	13532
 Key ICT	6890,8246
 Key Identity-Related Terms	10765,10
@@ -696,6 +710,7 @@ Key Information	11965,3225,592,616
 Key Information Application Window	11345
 Key Information Funded	16312
 Key Information and Knowledge-based Economy	16861
+Key Information. Effective Date	18183
 Key Infrastructure	13341
 Key Infrastructure NPRC Number Portability Routing	6946
 Key Infrastructure PIB Petites	15583
@@ -787,7 +802,7 @@ Key Performance Indicator MDAs Ministries	4126
 Key Performance Indicator MFSA Microfinance South	11198
 Key Performance Indicator Ministry	10157
 Key Performance Indicator OECD	16968
-Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68,40,123,301,29,48,632,306,795,32,1,48,30,25,63,49,115,455,192,1062,93,12,48
+Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68,40,123,301,29,48,632,306,795,32,1,48,30,25,63,49,115,455,192,1062,93,12,48,1175,31
 Key Performance Indicators Implementation	10157
 Key Performance Indicators Improve	12359
 Key Performance Indicators LEC Liberia Electricity	17260
@@ -986,6 +1001,7 @@ LITERACY AND EDUCATION Key Findings Literacy	12431
 LITERATURE REVIEW OF KEY CONCEPTS	12333
 LODA Key Indicators	14935
 LVD. Key	16843
+Labor and Working Conditions Relevant Key	18374
 Lesotho. Key	12675,54
 Lesotho. Key Achievements	12728
 Lessons Learned Key Challenges Solutions	12457
@@ -1044,6 +1060,7 @@ N Key Initiatives Due	17364
 NATIONAL PUBLIC KEY INFRASTRUCTURE	15080
 NAVIGATION QUICK LINKS KEY PROJECTS CONNECT	15038,90
 NAWEC Restores Key Generators	17327
+NESI. Key Facts	18186
 NHIS Bill. III. KEY RISKS	16896,26
 NISR Key Indicators	14935
 NISR SUMMARY OF KEY MESSAGES	12445
@@ -1090,6 +1107,7 @@ OVERVIEW AND KEY CONCEPTS	15085
 OVERVIEW AND KEY CONCEPTS1	15085
 Oct-2025. Key	15017
 Official Use Only Implementation Status and Key	7877
+Official Use Only Key Events	18350
 Official Use Only Key Events Planned	7877
 Ojo Emmanuel Ademola Keypoints	17718
 Oman’s Key Business Solutions	8592
@@ -1166,7 +1184,7 @@ Proposed Key Performance Indicators	4528,7984
 Prosperity Insight KEY FINDINGS	10785
 Public Key	16144
 Public Key Directory	4102,3268,7734
-Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118,572,94,1466,543,342,10,77,717,300,22,48,16,31,267,111,89,221,160,171,317,19,4,505,873,242,168,297,50,73,755,166,231,955,86,124
+Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118,572,94,1466,543,342,10,77,717,300,22,48,16,31,267,111,89,221,160,171,317,19,4,505,873,242,168,297,50,73,755,166,231,955,86,124,389,100
 Public Key Infrastructure Asymmetric	11869
 Public Key Infrastructure Ecosystem	14729
 Public Key Infrastructure NDP National Development	1000
@@ -1214,7 +1232,7 @@ Regulatory Agencies Key	7548
 Relevant World Bank ESSs and Key Gaps	1988
 Reliable Infrastructure Key	16876
 Research Science and Technology Key	5036
-Resource Public Key Infrastructure	4210,9,10591,1234,507
+Resource Public Key Infrastructure	4210,9,10591,1234,507,1869
 Response KPI Key Performance Indicator KYC	14965
 Response Team KPI Key Performance Indicator	6936
 Results Achieved Key	12224
@@ -1243,6 +1261,7 @@ SEP Key	1778
 SEP. Several Key Performance Indicators	16926
 SG Strategic Objective Key Activity Area	17116
 SG5. Key	17116
+SIFCOM. Key Recommendations	18354
 SIX KEY THEMES	14752
 SMART City Layers Key Stakeholders	395
 SMEs Are Key	10718
@@ -1335,6 +1354,7 @@ Theme Key	11953
 Theory of Change and Results Chain KEY CHALLENGES	13331
 Timeline of Key Milestones	17745
 Timeline of Key Milestones APRIL Tunisia	17745
+Titres de Voyage PKI Private Key Infrastructure	18290
 ToRs. Key Experts	15143
 Topics Keywords Agricultural Households Crop Production	17366
 Topics Keywords Women	17165
@@ -1359,13 +1379,13 @@ Universal and Inclusive Civil Registration Key Result	13005
 Updated Key Risks	11986
 Updated Theory of Change KEY CHALLENGES ACTIVITIES	1284
 Urban Angola Key	10763
-V. KEY RISKS	10829,696,3886,332,401,240
+V. KEY RISKS	10829,696,3886,332,401,240,1720,94
 V. KEY RISKS A. Overall Risk	11525
 V. KEY RISKS A. Systematic Operational	15411
 V. KEY RISKS ANNEX	13856
 V. Key Risks	15372
 V. Key Risks and Mitigation Measures A	17441
-VI. KEY RISKS	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288
+VI. KEY RISKS	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1352
 VI. KEY RISKS Page	15658
 VI. Key Risks	13743
 VISA. Key Features	13477

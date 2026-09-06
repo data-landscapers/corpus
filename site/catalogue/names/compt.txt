@@ -18,6 +18,7 @@ AU COMPTANT P1D Francs CFA	18032
 Actif Net Comptable	10975
 Actif Net Comptable. L’analyse	10975
 Agence Comptable	15412,589,380
+Agence Comptable Chargée des Dépôts	18274
 Agence Comptable. Article	15375
 Agent Comptable	14549,812,5,34,12,4,759,1652
 Agent Comptable Central du Trésor	16175
@@ -49,12 +50,14 @@ CERTIFICATION ET APPROBATION DES COMPTES	17816
 CNPS Comptes	15724
 CNT Comptes	15961
 CO.AUTEURS ET COMPTICES D'INFRACTIONS Arlicle	15429
+COMMENT CRÉER UN COMPTE UTILISATEUR	18432
 COMMISSARIAT AUX COMPTES. Article	15416
 COMPTABLE	14431
 COMPTABLE CENTRALE DES DEPOTS	17899
 COMPTABLE DU FONDS NATIONAL D’APPUI AUX	17817
 COMPTABLE ET FINANCIERE Article	16047
 COMPTABLE ET FINANCIERE CHAPITRE	16047
+COMPTABLES	18143,27
 COMPTABTE Artlcle	15429
 COMPTE ADMINISTRATIF DE L'ANNEE	2561
 COMPTE DE RESULTAT	17833,199
@@ -102,6 +105,7 @@ Chambre des Comptes	8750,2231,4561
 Chambres Provinciales des Comptes. CHAPITRE V	15703
 Chapitre XVII. Comptes	13377
 CoMPTES SocIAUx EiT CoNTRÔLE DE GESTION	15489
+Commission de Vérification des Comptes	18427
 Communal Comptable	13375
 CompTIA	12241
 CompTIA Advanced Level CompTIA Advanced Security	15662
@@ -112,13 +116,15 @@ Comptabilisation	10876,646
 Comptabiliser	15542
 Comptabilite Communale	13292
 ComptabilitÃ	18040
-Comptabilité	969,1373,134,3079,2346,2594,217,164,99,3437,24,22,25,366,328,290,22,80,101,4,259,40,74,128,75,131,1,1517,83,99
+Comptabilité	969,1373,134,3079,2346,2594,217,164,99,3437,24,22,25,366,328,290,22,80,101,4,259,40,74,128,75,131,1,1517,83,99,41,47,152,35,44,2,1,15,11
 Comptabilité Finances	17982
 Comptabilité L	17829
-Comptabilité Nationale	17945
+Comptabilité Nationale	17945,224
+Comptabilité Nationale DSISS	18291
 Comptabilité Nationale SCN	17842
+Comptabilité Nationale. Réunis	18199
 Comptabilité Planification	17982
-Comptabilité Publique	3396,208,3223,1074,849,1962,164,3555,981,165,819,241,82,28,1065,60,27,46,70,48
+Comptabilité Publique	3396,208,3223,1074,849,1962,164,3555,981,165,819,241,82,28,1065,60,27,46,70,48,211,17
 Comptabilité Publique DFL	18065
 Comptabilité Publique DNCMP Direction Nationale de Contrôle	10876
 Comptabilité Publique DPP Direction	10712
@@ -129,6 +135,7 @@ Comptabilité Publique FEC	15840
 Comptabilité Publique RProg Responsable	18015
 Comptabilité Publique. Article	14431
 Comptabilité Publique. Dans	14431
+Comptabilité Publique. Issa Djibo	18274
 Comptabilité SPH	10975
 Comptabilité Service Encadrement	13301
 Comptabilité Stratégie Transport Telecom	2342
@@ -143,9 +150,10 @@ Comptable	8321,2284,198,73,2416,9,74,2057,137,33,685,1612
 Comptable National	17817
 Comptable Publique	17945
 Comptable Vérifie	10876
-Comptables	10876,99,4594,430,250,1580,153,83
+Comptables	10876,99,4594,430,250,1580,153,83,330
+Comptables Nationaux	18199
 Comptables.Ê Paral	18065
-Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89,615,364,99,1247,10,24,1,50,15,52,25,1,221,734,6,119,71,24,459,252,6,34,16,19,3,10,1,11,2,9,2,7,19,14,27,8,42,10,8,6,27,4,51,25,12,5,15,10,10,96,38,29,3,9,1,56,38,48,86,59,33,36,23,22,18,94,29,141,20,35,402,365,4,4,29,338,10,12,3,16,18,17,3,11,32,27,43,17,31
+Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89,615,364,99,1247,10,24,1,50,15,52,25,1,221,734,6,119,71,24,459,252,6,34,16,19,3,10,1,11,2,9,2,7,19,14,27,8,42,10,8,6,27,4,51,25,12,5,15,10,10,96,38,29,3,9,1,56,38,48,86,59,33,36,23,22,18,94,29,141,20,35,402,365,4,4,29,338,10,12,3,16,18,17,3,11,32,27,43,17,31,40,37,16,48,70,12,5,25,16,20
 Compte Administratif	969,10006
 Compte Administratif. Budgétisation	10975
 Compte Confort	17833
@@ -157,7 +165,7 @@ Compte Libellé	17972
 Compte Rendu du Conseil des Ministres	15676
 Compte Spécial	15399
 Compte Transit	13467
-Compte Unique du Trésor	10981,5039,27,1968
+Compte Unique du Trésor	10981,5039,27,1968,259
 Compte de Appui	10876
 Compte de Financement	10876
 Compte de Financement du Projet	10876
@@ -171,11 +179,12 @@ Compte du Projet. Convention	15901
 Compte-joint Gratuit	17833
 Compte-tenu	17823
 Comptences	17441
-Comptes	2476,3264,1915,5735,62,977,108,835,15,29,10,1,29,10,114,2,12,11,122,54,82,38,98,174,282,18,62,85,9,85,737,34,334,14,9,3,54,3,43,46,41,31
+Comptes	2476,3264,1915,5735,62,977,108,835,15,29,10,1,29,10,114,2,12,11,122,54,82,38,98,174,282,18,62,85,9,85,737,34,334,14,9,3,54,3,43,46,41,31,136,87,5,26,112
 Comptes Finances	15712
 Comptes Mobile Money	10965
-Comptes Nationaux	737,13885,865,1133,1358
+Comptes Nationaux	737,13885,865,1133,1358,191,30
 Comptes Nationaux 2024 Final FR.pdf	16195
+Comptes Nationaux. Cette	18169
 Comptes Particuliers du Trésor	14543
 Comptes Publics	15371,4,12,210,130,1022
 Comptes Publics Charles M’BA Le Ministre	15681
@@ -184,13 +193,15 @@ Comptes Publics Jean-Fidèle OTANDAULT	15428
 Comptes Publics Sosthène OSSOUNGOU NDIBANGOYE	15533
 Comptes Spéciaux du Trésor	1321,724,15927
 Comptes Spéciaux du Trésor. Revenant	1598
-Comptes WASH	14622
+Comptes WASH	14622,3547
 Comptes. Article	15361
 Comptes. Chapitre	15382
 Comptes. Le Conseil	16613
 Comptes. REPARTITION DU CAPITAL	2342
 Comptes. Une	15703
+ComptesNationaux	18199
 Compteur	16047,667,1103
+Compteurs	18103
 Comptoir des Minéraux	4127
 Comptroller	16970,8
 Comptroller General	4102
@@ -208,7 +219,8 @@ Contrôle Comptes	3396
 Contrôleur Comptabilité du Trésor	17982
 Cour de Comptes	1284
 Cour des Compte	16615
-Cour des Comptes	1284,398,1714,7316,1193,1387,1120,161,799,40,14,177,58,42,9,10,5,11,31,132,35,216,147,156,163,1397,48
+Cour des Comptes	1284,398,1714,7316,1193,1387,1120,161,799,40,14,177,58,42,9,10,5,11,31,132,35,216,147,156,163,1397,48,38,18,3,205
+Cour des Comptes CE	18111
 Cour des Comptes Rapport	15722
 Cour des Comptes Responsable	15712
 Cour des Comptes Site	15936
@@ -216,10 +228,13 @@ Cour des Comptes. Article	1231
 Cour des Comptes. CHAPITRE IX DISPOSITIONS TRANSITOIRES	14412
 Cour des Comptes. Chapitre III	37
 Cour des Comptes. Le Ministre	15703
+Cour des Comptes. VII. AU TITRE	18238
 Cours des Comptes	15372
+Création de Compte Satellite du Tourisme Cellule	18306
 D Compte	15901
 DAF Comptabilise	10876
 DE BASE DES COMPTES NATIONAUX	16447
+DE COMPTABILITÉ	18143,27
 DE COMPTE OU DE SOUSCRIPTION	10836
 DE COMPTES ET DE SIGNATAIRES AUTORISES	15901
 DE LA COMPTABILITE DANS LES ETATS	14849
@@ -232,7 +247,8 @@ DES COMPTES DORMANTS	13390
 DES COMPTES PUBLICS Article	16047
 DES COMPTES PUBLICS CHAPITRE	16047
 DES COMPTES SPÉCIAUX ARTICLE UATRE-VINGT-DIX-SEPTIÈEME.-	15999
-DES DISPOSITIONS FINANCIERES ET COMPTABLES Article	14432,1745
+DES DISPOSITIONS FINANCIERES ET COMPTABLES	18119
+DES DISPOSITIONS FINANCIERES ET COMPTABLES Article	14432,1745,1942
 DES DISPOSITIONS FINANCIERES ET COMPTABLES Chapitre	1186
 DES PERSONNES PHYSIQUES MAROCAINES RESIDENTES Comptes	17485
 DES RECETTES POUR LE COMPTE DES	16047
@@ -250,15 +266,19 @@ DUT Finance Comptabilité	17829
 DUT Finance Comptabilité D UT Informatique	17829
 Deputy Comptroller-General	9361
 Diaspora Compte	17833
+Directeur des Comptes	18400,2,1
 Direction Générale Adjoint Personnel Comptable DCDR	17873
+Division des Comptes Nationaux	18169
 Droit Comptable	15999
 Départements Comptables Ministériels	18015
+ECOLE DES HAUTES ETUDES COMPTABLES ET	18170
 EFFECTIF ET MONTANT DES COMPTES DORMANTS	13390
 EFFECTIFS ET MONTANT DES COMPTES COURANTS	13390
 ENGAGEMENTS SUR TITRES COMPTE DE RESULTAT	17841
 ET COMPTABLE DES COLLECTIVITÉS LOCALES	16646
 ET COMPTABLES	15786,253,138
 ET COMPTABLES TITRE VIII	15395
+ET EXPERTISE COMPTABLE IFPAS INSTUTIT	18170
 Effectif de Comptes	13390
 Electricité Le Compte Administratif	10975
 Entreprise Master Comptabilité	17829
@@ -310,7 +330,7 @@ LES OBLIGATIONS COMPTABLES ET LA CONSERVATION	17439
 LIVRES COMPTABLES ANNEXE D	15901
 LOLF Fort Comptabilité	18015
 La Chambre Provinciale des Comptes	15727
-La Cour des Comptes	14573,839,291,24
+La Cour des Comptes	14573,839,291,24,2596
 Le Comptable	13292
 Le Compte Général	17817
 Les Comptables	17485
@@ -336,7 +356,9 @@ Mikati. Compte	2828
 Ministre des Comptes Publics Charles M’BA	15678
 Mon Compte Toggle	16403
 NEXES ET DES COMPTES SPECIAUX	16047
+NIGÉRIEN DES TECHNIQUES COMPTABLES ET FINANCIÈRES	18143
 NOTAMMENT LE COMPTE DE VERSEMENT	15901
+Non Compte	18291
 Noëlla Ndayishimiye. Compte	4363
 Numéro de Compte	15399
 OBIIGAÎIONS RELATIVES AU SYSTEME DE COMPTABITISATION	15429
@@ -351,23 +373,27 @@ PIB. Compte	1679
 PNDDR-I. Le Comptable	17899
 PORTANT CREATION DE L’AGENCE COMPTABLE CENTRALE	17899
 PORTE-PAROLE DU GOUVERNEMENT COMPTE RENDU	15676
+POSSESSION DE CARTES SIM AVEC COMPTE	18204
 POSSESSION ET UTILISATION DE COMPTES BANCAIRES	13300
 POUR LE COMPTE AU TRAITE PORTANT	18032
 POUR LE COMPTE DU QUATRIEME TRIMESTRE	18032
 POURQUOI CELA COMPTE	8637
 PRESENTATION DU LOGICIEL GESTION DES COMPTES	15537
+PRISE EN COMPTE DE LA DECENTRALISATION	18291
+PRISE EN COMPTE DU GENRE Aussi	18291
 PRODUIT D'ÉPARGNE COMPTES COURANTS COMPTE	13390
 PTML Conference Hall. Deputy Comptroller Nura	8278
 Pack Sage Comptabilité	15474
 Page Facebook. Compte	15474
 Participations Mays MOUISSI Le Ministre des Comptes	15701
-Plan Comptable	10975
+Plan Comptable	10975,7322
 Plan Comptable Bancaire	18063
 Plan Comptable National	13301
 Plan Comptable des Opérations Publiques	14431
 Police Comptroller General Cheick Keita	3823
 Pose Compteur	16714
 Principes Comptables Applicables	15901
+Production de Comptes	18291
 Production des Comptes	17842
 Projets Compte-rendu du Conseil des Ministres	3675
 QUAND JE VEUX AJOUTER UN COMPTE	16629
@@ -381,6 +407,7 @@ RESSOURCES NATURELLES Trésor Comptes	15449
 RGE Compte	10875
 RMS Comptes Nationaux	17845
 RPlan Comptable Général	14483
+Rapports Compte	18286
 Recommandations Compte	15390
 Registre Foncier. Compte	13375
 Ressources des Comptes Spéciaux du Trésor	17972
@@ -392,6 +419,7 @@ SERVICES RATTACHES AU FONCTIONNEMENT DU COMPTE	17833
 SIGNATAIRES OU DES COMPTES FIGURANT	15901
 SMF. Compte	2342
 SON COMPTE	13300
+SSN Compte	18291
 Sage Comptabilité	15474
 Secrétaires Agents Comptables	17827
 Section des Comptes	13781
@@ -401,10 +429,11 @@ Société Quipux Afrique S.A. Compte	2342
 Statistique. Les Comptes Nationaux	16195
 Statistiques Discutables Statistiques Mauvaises Compte	17830
 Sur le Compte	16446
+Système Comptable	18301
 Système Comptable OHADA PIB	10875
 Système Comptable Ouest Africain	14849
 Système de Comptabilité National	17945
-Système de Comptabilité Nationale	16447,173
+Système de Comptabilité Nationale	16447,173,1579
 Système de Comptabilité Nationale SCRAPP	17844
 Système de Comptabilité Nationale SDS	10874
 Système de Comptabilité des Nations Unies	13377
@@ -414,14 +443,18 @@ S’EST CONNECTE A MON COMPTE ETAX	16629
 T COMPTE RENDU DU CONSEIL DES	15454
 T SECTION IV OBLIGATIONS COMPTABLES Article	15999
 TAT COMPARATIF DE L'ÉVOLUTION DES COMPTES	4459
+TECHNIQUES COMPTABLES ET FINANCIÈRES IPAE INSTITUT	18170
 TEG Compte de Versement	15901
 TENUE D'UNE COMPTABILITE ANALYTIQUE	15394
 TITRE IV DISPOSITIONS COMPTABLES ET PRUDENTIELLES	17443
+Tableau des Comptes Economiques	18291
 Titulaire du Compte	15901
 Titus S. Kpayili Comptroller	16978
 Titus S. Kpayili Head of Agency Comptroller	16978
 Télévision Compte	16644
 UEMOA Comptes	4459
 UT Finance Comptabilité Ecole Supérieure de Technologie	17829
+UVRE ET DE SUIVI-EVALUATION Compte	18291
 Un Comptable	13292
+Unités de Compte	18116
 Vaincrons PORTE-PAROLE DU GOUVERNEMENT COMPTE RENDU	8321

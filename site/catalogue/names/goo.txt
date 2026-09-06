@@ -253,6 +253,7 @@ Digital Public Infrastructure and Digital Public Goods	4825,660
 Digital Public Infrastructure for Digital Public Goods	1500
 Digital Shield Against Counterfeit Goods	3003
 Director of Good Governance	12338
+Director of Promotion of Good Governance	18305
 Directors of Good	14935
 Dk Goodhope Mkaro	4364
 Dk Goodwill Wanga	3447
@@ -340,6 +341,7 @@ GOOGL.O	6931
 GOOGLE LLC................................................02	13462
 GOOLJAR	14770
 GOORWAPPA Indirabye Manager Human Resources	14770
+GREEN. Google Chrome. Chrome	18432
 GRS Good Practice Note GTC Grievance	10964
 Gates Foundation and Google.org	10620
 Gazette. Google	3307
@@ -364,8 +366,10 @@ Good Agricultural Practices	12931,1862,234
 Good Agricultural Practices For All	13314
 Good C2C	14330
 Good Clinical Practice	7845
+Good Clinical Practices	18370
 Good Countries	1264
 Good Digital Identity	10819
+Good Dispensing Practices	18370
 Good Distribution Practices	10776
 Good F- Direct-to-home If Q1	582
 Good Fair	5247
@@ -413,8 +417,9 @@ Good International Industry Practices	1988
 Good International Industry Practices ZEMA	1988
 Good Issue	11922
 Good Jobs for Angolan Youth	10768
+Good Laboratory Practices	18370
 Good Land Governance	16916
-Good Manufacturing Practices	10776,4042,387
+Good Manufacturing Practices	10776,4042,387,3165
 Good Meets	11252
 Good Morning	10210,1017,1891,1098
 Good NSS	14860
@@ -433,7 +438,7 @@ Good Pharmacy Practice	9855
 Good Pharmacy Practices	10776
 Good Planning	14965
 Good Poor Definition Reason	12360
-Good Practices	11546,3351
+Good Practices	11546,3351,3473
 Good Practices For Ensuring Data Protection	11156
 Good Practices for Subsea Cables Policy	2677
 Good Professional Practices	14736
@@ -453,6 +458,7 @@ Good Very	17149
 Good and Services Grants Social Benefits	14835
 Good of All	7548
 Good-faith	17990
+Good-practices-for	18318
 Good. Component	13654
 Good. Licenses	13654
 Good. Multi-stakeholder	13654
@@ -515,11 +521,11 @@ Goodson Sinyenga	8480
 Goodson Sinyenga Statistician General ZAMBIA STATISTICS	13367
 Goodwell Investments	830,9634,1912
 Goodwell Investments and LUN Partners	606
-Goodwill	4102
+Goodwill	4102,14052
 Goodwood Station Social Housing Project	11248
 Goody Stein	15524
 Googe	13461
-Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46,310,85,397,60,10,282,1,14,209,223,270,81,22,19,344,11,117,230,205,207,3,144,99,70,33,59,106,160,25,35,1,51,311,100,47,174
+Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46,310,85,397,60,10,282,1,14,209,223,270,81,22,19,344,11,117,230,205,207,3,144,99,70,33,59,106,160,25,35,1,51,311,100,47,174,388
 Google ABUJA	2841
 Google AI	2394,422,1310,4572,1270,1195,138,2160
 Google AI Centre Accra	4126
@@ -575,7 +581,7 @@ Google Career Certificate	1363,1981,3586
 Google Cell C Icasa Liquid Intelligent	5050
 Google Cheslyn Jacobs GOTyme Bank PayInc	5544
 Google Chief Compliance Officer	3307
-Google Chrome	12364,969,1490,10,88,1117,837
+Google Chrome	12364,969,1490,10,88,1117,837,1557
 Google Classroom	6748,6395
 Google Cloud	1267,96,227,46,90,13,471,82,334,51,139,341,279,118,65,64,176,260,7,133,175,3,56,1,706,56,479,1,1,109,62,324,18,17,83,121,6,29,161,124,88,30,21,1,4,70,25,36,107,298,1173,839,1315,870,175,103,416,910,567,2973,163,93
 Google Cloud Africa	12362
@@ -738,7 +744,7 @@ Google PageSpeed Insights Temps	15936
 Google Pay	7596,1412,2111,2333
 Google Photos	11477
 Google Play	1363,1216,226,461,560,1193,245,78,599,1330,911,2822,249,71,153,400,87,491,1515,1791,1856,307,45
-Google Play Store	7266,3804,1139,256,176,91,568,752,1426,2424
+Google Play Store	7266,3804,1139,256,176,91,568,752,1426,2424,503
 Google Play Store and Apple App Store	2885,11812
 Google Play Store for FREE and Register	12209
 Google Play Store. NIMC	5284
@@ -1187,7 +1193,9 @@ Procurement of Second Hand Goods	17219
 Professional Services Capital Goods Food	4972
 Promote Good Agricultural Practices	14818
 Promoting Digital Public Goods	12241,839,15
+Promotion of Good Governance	18305
 Promotion of Good Governance. Discussions	5605
+Promotion of Good GovernanceMr. ARONA SARR	18305
 Provision of Goods	13185
 PubMed Google Scholar	17773,7
 PubMed Google Scholar Awakhiwe Thabiso Ncube	17773

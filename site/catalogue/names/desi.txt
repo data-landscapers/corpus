@@ -103,7 +103,9 @@ D1 Design	899
 DA Designated	11380
 DA Designated Account DBAG Directorate of Budget	17458
 DA Designated Account DE4A Digital Economy	969,5570
+DA Designated Account DEEC Environment and Classified	18293
 DA Designated Account DFIL Disbursement and Financial	10768
+DA Designated Account DGPSN General Delegation	18301
 DATA INTAKE QUESTIONNAIRE DESIGN	16867
 DE TA DESIGNATION DES OPERATEURS DOMINANTS	15429
 DESIGN	10765,10,4160
@@ -158,7 +160,7 @@ DesInventar	10763
 Desi Individual Consult Limited	17180
 Desig	17219
 Desig Consultant Qualifi Open	17180
-Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57,304,45,51,12,16,86,23,116,22,6,12,59,8,30,5,3,52,10,30,53,10,40,242,52,23,25,8,73,105,3,2,31,19,59,164,41,167,68,151,251,13,206,25,8,6,11,17,42,5,4,20,4,36,7,50,46,13,30,23,75,480,135,32,4
+Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57,304,45,51,12,16,86,23,116,22,6,12,59,8,30,5,3,52,10,30,53,10,40,242,52,23,25,8,73,105,3,2,31,19,59,164,41,167,68,151,251,13,206,25,8,6,11,17,42,5,4,20,4,36,7,50,46,13,30,23,75,480,135,32,4,395,53,16,4
 Design AI	12356
 Design API	6432
 Design Applications	11250
@@ -243,7 +245,7 @@ Design of Autonomous ISR Systems	17884
 Design of Chargers Used	15027
 Design of Digital Financial Infrastructure	5700
 Design of International Trade Agreements	1243
-Design of Project	13027,4478
+Design of Project	13027,4478,845,4
 Design of Slab Shelter	11134
 Design the Curriculum	12675
 Design&author	2096
@@ -266,7 +268,7 @@ Designate NMHS	16947
 Designate Natural Farming and Low-Residue Zones	14818
 Designate ZCSRA	11133
 Designated	6900,167,2771,2415,2,1769,522,1214,1215
-Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149,277,1,1687,119,234,39,142,105,1291
+Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149,277,1,1687,119,234,39,142,105,1291,1352
 Designated Account A for Components	3604
 Designated Account DPI Development Committee Paper	3604
 Designated Account Digital Economy for Africa Direction	15553
@@ -321,7 +323,7 @@ Designations	11129
 Designations of National Operator	16835
 Designação	9799,956,28,578,12,46,11,3928,33,49
 Designação Descrição	2816
-Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282,616,24,21,2115,189,246,234,91,219,56
+Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282,616,24,21,2115,189,246,234,91,219,56,275
 Designed and Hosted	13518
 Designed for Ethiopia	12215
 Designed for Real-World Use	11987
@@ -330,7 +332,7 @@ Designeid.com Cover	12142
 Designer	2668,9691,3853
 Designer de Convivência Humano-Máquina	2816
 Designers	1988,828,6307,2124,1268,846,1638
-Designing	745,1351,2253,90,75,1306,1118,8,1076,583,632,502,321,210,105,388,234,20,116,354,375,65,81,232,15,1,706,726,877,846,218,84,1154,18,30,7,235,591
+Designing	745,1351,2253,90,75,1306,1118,8,1076,583,632,502,321,210,105,388,234,20,116,354,375,65,81,232,15,1,706,726,877,846,218,84,1154,18,30,7,235,591,622
 Designing AI	16050
 Designing CPD Programs for Teachers	13070
 Designing Culturally Aligned AI Systems	6948
@@ -426,6 +428,7 @@ Establishment of National Designation Committee	14024
 Eswatini SWZ Designing Eritrea ERI Implementing	13082
 Ethiopia's DPI. Designed	8183
 Evidence for Usercentric Design. Springer	2096
+Experimental Design	18318
 FA DESIGN	9357
 FDI Fashion and Design Institute	14775
 FDI-Fashion and Design Institute	14775
@@ -517,7 +520,7 @@ Members Framework B Design of Monitoring for High-level	961
 Methodology and Convening Design Trust Architecture	11138
 Miss SAMBAT Patricia Marie Desiree Assistant	14770
 Moderate Moderate Technical Design of Project	16638
-Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102
+Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127
 Moderate. Technical Design of Project	11965
 Modest for M&E Design. M&E	16436
 Modular Design	11987
@@ -597,7 +600,11 @@ Procurement. Design	16876
 Program Design	3604
 Program Design Effectiveness Risk Internal Audit	3604
 Programme Design	14000,2253,649
-Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181
+Progress Against the Desired Impact	18125
+Progress Against the Desired Outcome	18125
+Progress Against the Desired Outcome Niger	18125
+Progress Against the Desired Outcome UNHCR	18125
+Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8
 Project Design Conditions for Effectiveness Residual Risk	10829
 Project Design Enhance	16949
 Project Design Residual Risk Rating INHERENT	15518
@@ -683,12 +690,13 @@ Strategy and Design Design	11007
 Strategy and Design Policy	11007
 Stratified Area Estimator Design	16875
 Structural Design Tension Primary	11138
+Study Design	18318
 Study Design and Setting	10919
 Subscriber’s Designation User ID	12364
 Subscriber’s Designation User ID Reason for Revocation	12364
 Substantial Sector Strategies and Policies Technical Design	11395
 Substantial Substantial Technical Design of Project	15619,116
-Substantial Technical Design of Project	1284,1428,1976,1891,1298,4094,257,39,1653,1111,706,276,66,626,374
+Substantial Technical Design of Project	1284,1428,1976,1891,1298,4094,257,39,1653,1111,706,276,66,626,374,1276
 Sudan Family Support Program Design and Performance	15064
 Summary of User-Centric Design Principles	11545
 Support Facility DA Designated Account DGE	11549
@@ -706,7 +714,7 @@ Table of Contents Digital Lilangeni Design Paper	11130
 Technical Design	6539,4425,3946,501,248,485,254
 Technical Design M N	11469
 Technical Design of Program	11905
-Technical Design of Project	969,898,1737,2935,4229,61,135,416,37,108,35,295,50,1426,1,1605,39,214,363,68,37,3,483,240,565
+Technical Design of Project	969,898,1737,2935,4229,61,135,416,37,108,35,295,50,1426,1,1605,39,214,363,68,37,3,483,240,565,1155,94,95,8
 Test Design	5665
 Theorizing About the Design of Information Infrastructures	5700
 Tier III Design	6419,612,285,8845,619

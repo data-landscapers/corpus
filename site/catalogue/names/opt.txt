@@ -28,9 +28,11 @@ Birth Optimisation Strategy	11218
 Buffalo City Optic Fibre	6832
 Burundi Action VII.5.5 Optimaliser	13306
 Business Optical	5015
+CABLE SOUS MARIN OPTIQUE UEMOA UNION	18105
 CAREER OPTIONS AFRICA LIMITED Data Processor	7167
 CLEAR VISION OPTICS KENYA LIMITED Data	7167
 CONNECTIVITY OPTIONS LIMITED Data Processor INST-3873650750C	7167
+CONNECTIVITÉ TERRESTRE EN FIBRE OPTIQUE	18105
 CONOMIQUE ET FINANCIÈRE OPTIMISÉ POUR L’ATTEINTE	2342
 CRYSTALENS OPTICS LIMITED Data Controller INST-90466597F1C	7167
 Cameroon Fiber Optic Transmission Backbone Project	55
@@ -78,9 +80,10 @@ Enseignement Supérieur Optimiser	15999
 Etat Optimiser	15999
 Exclusion and Optimal PodYield Production	1154
 Exemples Options	14479
+FAISCEAU HERTZIEN FO I3N FIBRE OPTIQUE	18105
 FO Fibre Optique FOSA Formation Sanitaire	13306
 FTTx Fiber Optic Connection Service Regulation	14944
-Fiber Optic	6832,5107
+Fiber Optic	6832,5107,6420
 Fiber Optic Batista de Sousa Hospital	11939
 Fiber Optic Commission	15511
 Fiber Optic Connectivity Component	14913
@@ -96,9 +99,12 @@ Fibre Optic	6671
 Fibre Optic Cable and Landing Stations	2677
 Fibre Optic Rollout	9362
 Fibre Optic Subsea WACS Cable	8679
-Fibre Optique	3469,498,22,3631,5704,90,3227,1182
+Fibre Optique	3469,498,22,3631,5704,90,3227,1182,295,8,38,46,207
 Fibre Optique Au Burundi	13324
+Fibre Optique Autres	18417
 Fibre Optique Chiffre Mobile	13324
+Fibre Optique Dans	18417
+Fibre Optique URL	18417
 Filing Service Centre Option	14784
 First Optional Protocol	14742
 Five-A-Side Football Field Fiber Optic Network	15578
@@ -188,7 +194,7 @@ OFN Optic	12911
 OPEX Agree Funding Options Department of Policy	11857
 OPT-NC and Lynk	2511
 OPTGEN	14957
-OPTIC	2288,8079,428
+OPTIC	2288,8079,428,7511
 OPTIC Antoine Ngom	10795
 OPTICAL COUNCIL	14773
 OPTICAL FIBRE CABLE CONSORTIUM	11857
@@ -208,6 +214,9 @@ OPTIONAL	573,5850
 OPTIONS	16747
 OPTIONS AND PREFERENTIAL RIGHTS RELATING	4896
 OPTIQUE	16103
+OPTIQUE ARTP AUTORITE DE REGULATION DES	18105
+OS.3. Optimiser	18121
+OS3 Optimiser	18121
 OSp.2.1.2. Optimiser	15722
 OTP Optional	12359
 Operational Mining Optimisation Solutions Limited	3386
@@ -258,16 +267,17 @@ Optimally	16858
 Optimally the ID	16876
 Optimisa- En	15583
 Optimisa- Par	15583
-Optimisation	998,1344,5611,2759,146,117,158,910,243,1015,21,1352,863,46,54,104,195,1936,12,17,1
+Optimisation	998,1344,5611,2759,146,117,158,910,243,1015,21,1352,863,46,54,104,195,1936,12,17,1,201,19,175
 Optimisation des Accroître	10712
 Optimisation des Ressources Humaines	14622
 Optimisation du Data Center	1285
 Optimisation du Plan GE84	998
+Optimisations	18297
 Optimise	958,203,6590,3068,314,1,3540,144,2268
 Optimise Revenue Collection Cost of Collection Target	13053
 Optimised	428
 Optimised Coordination	17884
-Optimiser	8556,335,1967,16,2,3603,16,1047,82,98,55,222,38,291,1508,65,82
+Optimiser	8556,335,1967,16,2,3603,16,1047,82,98,55,222,38,291,1508,65,82,253,61,22
 Optimiser Utilisation	15583
 Optimising	5245,4739,3478
 Optimism	2839,1246,6136
@@ -281,8 +291,9 @@ Optimisé	17882
 Optimization	4153,196,2083,4934,4224,1378,916
 Optimization and Leadership	4528,7984
 Optimization of Military Operations	17884
+Optimization of SENUM	18359
 Optimização	11366
-Optimize	1219,1770,2256,1187,6513,1035,642,325,50,164,263,132,157,264,719,196,76,321,595
+Optimize	1219,1770,2256,1187,6513,1035,642,325,50,164,263,132,157,264,719,196,76,321,595,486
 Optimize Community Health Worker Programmes. Geneva	1219
 Optimize Investments	15679
 Optimize the Compliance Clustering Program	17011
@@ -306,6 +317,7 @@ Optimizing Land Parcel Certification Costs	13998
 Optimizing Spectrum for Universal Access	5245
 Optimizing Telecom and Internet Services	16046
 Optimum	9455,1313
+Optimum C	18154
 Optimum Systems W.L.L	11722
 Optimum Telecom Algérie	5278
 Optimum Télécom Algérie	2152,1457,12276,58
@@ -316,7 +328,7 @@ Optimum Télécom Algérie Spa	15885
 Optimum Télécom Algérie URL	15943
 Optimus	2816
 Optimus Bank	4771
-Option	747,496,5180,325,5623,737,267,102,1223,84,296,292,220,309,1213,698
+Option	747,496,5180,325,5623,737,267,102,1223,84,296,292,220,309,1213,698,291,213
 Option B	6748,10223
 Option C	6748
 Option Due	12038
@@ -333,7 +345,7 @@ Optional Redemption	14135
 Optional SmartNICs	13185
 Optionality So	7471
 Optionnellement	16518
-Options	747,2967,5409,1689,17,1381,465,495,1608,101,856,1012,111,14,30,73,285
+Options	747,2967,5409,1689,17,1381,465,495,1608,101,856,1012,111,14,30,73,285,843
 Options de Production du Registre	13375
 Options for Informal Economic Integration	7588
 Optipulse	17724
@@ -419,6 +431,7 @@ Trans-Sahara Optical Fibre Backbone Project	17940
 Trans-Saharan Fiber Optic Backbone	2533
 Trans-Saharan Optic Fibre Broadband Project	14913
 Transmission Expansion and Optimization	14957
+Transsaharan Fiber Optic Dorsal	18118
 Tuberculose Optimisation	14622
 UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
 Undersea Optical Transmission System Employing Low	4676

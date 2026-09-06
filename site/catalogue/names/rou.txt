@@ -76,6 +76,7 @@ Digital Content Server and Wireless Routers	899
 Digital Economy Round Table	13607
 Digital Policy Engagement Roundtable	7101
 Direction Générale des Routes DSNIS	13377
+Direction des Transports Routiers EDS-MICS	18291
 Djibouti. La Roumanie	3630
 Doha Development Round	11183
 Domaine des ROUTES	15542
@@ -87,6 +88,7 @@ Egypt Round	15604
 Enhanced Interior Gateway Routing EMIS Education	16942
 Enhanced Interior Gateway Routing Protocol	16942
 Entretien Routier	2342,1907,11293,394
+Entretien Routier Autonome	18395,17
 Entretien Routier FAO Organisation	17907
 Entretien Routier Fonds Interprofessionnel	15936
 Entretien Routier MATDDL Ministère	15580
@@ -119,6 +121,9 @@ G SOCIETE TRANSPORT MOTORISE ROULANT SARLUNIP	16623
 GROUPEMENT DE LA SECURITE ROUTIERE	17982
 Garden Route	8999
 Gestion Routière	15542
+Gestion des Routes	18395
+Guidan Roumdji	18105
+HABOUBACAR SOULEYMANE AMADOU ROUFAI AVERTISSEMENT	18170
 Hamza Blida Fréha Chéraga Rouiba Reghaïa	15690
 Heads of Regulators Roundtable	8117,124,1426
 Health Service Data Routine	15556
@@ -152,17 +157,21 @@ LA SECURITE ROUTIERE	15999
 LTE Routers	11980
 Le Fonds Routier	15542
 Le Roux	1219,9510
+Le Secrétaire Général du Gouvernement MAHAMANE ROUFAI	18151,5
+Le Secrétaire Général du GouvernementMAHAMANE ROUFAI LAOUALI	18191
 Liberia’s Second Round Mutual Evaluation Report	17183
+Licence de Transport Routier	18322
 Lightrock. Round	1439
 Lippeveld T. Routine	771
 Loi-07-2018.pdf. Routed	13302
 M Round Participant Google	1515
 M. Mahamane Lawali Roufai	7333
 M. Rounded	893
-MAHAMANE ROUFAI LAOUALI	11597
+MAHAMANE ROUFAI LAOUALI	11597,6630,11
 MARENA Scholarship Round	14745
 MIXP Route Servers	14810
 MTN MBB Router Promotion	11259
+Mahamadi Rouamba	18237
 Main Route Antenna Details Make Model	736
 Map of Nigeria Fibre Network Routes Q4	11857
 Mer Rouge	2342,12474
@@ -186,6 +195,7 @@ Multi-Track Route	16799
 Multiple Indicator Cluster Survey Round	13446
 National Cyber Security Awareness Month Roundtable	6936,3448
 National Fiber Routes	14897
+Niamey Route	18238
 Number Portability Routing Codes	6946
 OPV2 County Round	16971
 Office de Sécurité Routière	15936
@@ -206,6 +216,7 @@ Please Provide Route Plan	736
 Point Link Details MAIN ROUTE Station	736
 Pour la Roumanie	3630
 Pre-Series A Extension Round	1151
+Proche Infra Rouge	18304
 Professionals Round	14745
 Project. Quarterly PBF Database Routine HMIS	10829
 QUE LA ROUTE SOIT BONNE	15542
@@ -230,6 +241,7 @@ ROUTINE FACILITY REPORTING SYSTEM WITH PATIENT	16892
 ROUTINELY PUBLISHED	16843
 ROUTING OF PAYMENTS SECTION	12484
 ROUZAUD	15455
+RPKI Enabled HUBSIX Route Servers Autonomous	18420
 RR Rougeole	15724
 RTM Round	15604
 Raw Palm Oil Round Logs	17235
@@ -243,22 +255,25 @@ Rouani Benamar	16171
 Roubo	10747,674,25,131
 Rouen and Paris	7722
 Roues	15723
-Rouge	10519,2856,3177,454,688
+Roufai	18216
+Roufai AVANT-PROPOS	18170
+Rouge	10519,2856,3177,454,688,610
 Rouge. Ces	17694
 Rouge. Il	7715
 Rouge. Le Kenya	14363
 Rouge. L’exposition	11271
 Rouge. Telecom Egypt	17694
 Rouge. Une	17694
+Rougeaux	18301
 Rougeoleux Vaccin Anti-Tétanique VHB	15475
-Roughly	1026,1465,1419,200,1753,1084,2646,374,242,242,54,168,41,1614,11,1122,1595,2093
+Roughly	1026,1465,1419,200,1753,1084,2646,374,242,242,54,168,41,1614,11,1122,1595,2093,1169
 Rouia	8891
 Rouiba	15608
 Rouko	10875
 Roukô Bam Centre-Nord	15715
 Roula Yazigi	10977
 Roumanie	3630,2983,4208
-Round	293,236,77,105,219,1,116,91,1,1,11,288,108,665,20,15,6212,3733,86,223,3162,981,305,22,29,140
+Round	293,236,77,105,219,1,116,91,1,1,11,288,108,665,20,15,6212,3733,86,223,3162,981,305,22,29,140,1175
 Round Logs Cubic Meters	17235
 Round Table Report	14745
 Round of Censuses	16921
@@ -275,17 +290,19 @@ Roundtable Conversation Richard Kafui Amanfu	6936
 Roundtable Workshop	11097
 Roundtable for Sustainable Palm Oil	16853
 Roundtables Are TAIS	5513
+Roundup	18428
 Roundwood	17140
 Roupie NGN	14683
 Rousalova	771
 Rousalova&author	771
 Routage BGP	17823
-Route	233,776,527,994,94,53,22,209,3545,528,734,36,1372,110,4186,1334,6,163,477,143,10,53,338,331,88,94,1046,449,31
+Route	233,776,527,994,94,53,22,209,3545,528,734,36,1372,110,4186,1334,6,163,477,143,10,53,338,331,88,94,1046,449,31,381
 Route B	14922
+Route Filingué	18191
 Route Mbujimayi-Tshilunde	16701
 Route Militaire	14738
 Route Nationale	4402,10267,3150
-Route Nationale N	15542
+Route Nationale N	15542,2609
 Route Orientation	17860
 Route Ouled Fayet	15943
 Route Overberg Overberg City of Cape Town	8999
@@ -298,8 +315,10 @@ Route Server Service Simplify	13704
 Route Voie	15542,13
 Route de Ngor BP	14896
 Route des Almadies Immeuble Rokhaya	17856
+Route des Almadies. Un	18395
 Route du Méridien Président	11563,6180
-Route du Méridien Président Immeuble Rokhaya	10764,80
+Route du Méridien Président Immeuble Rokhaya	10764,80,7279
+Route-Based Approach	18125
 Route3 Energy	5247
 Routed	8,11,11,3829,4383,2033,49,27,167,1217,3,1634,168,1326
 Routelink	9578

@@ -271,6 +271,7 @@ CNSS National Center for Social Security CPC	10812
 COMMERCIAL DATA CENTER FACILITIES	10861
 COMMON GOAL RESEARCH CENTER Data Controller	7167
 COMPREHENSIVE CARDIOVASCULAR CARE CENTER LTD Data	7167
+CSF Tax Service Centers	18293
 CSIRT Security Operations Center and Recovery Site	15019
 CTA Alert Processing Center DCS National	17962
 CURESPRINGS MEDICAL CENTER LIMITED Data Controller	7167
@@ -337,7 +338,7 @@ Centenary Technology Services	3693,4182
 Centenary Technology Services CEO	3423
 Centenary Technology Services' Chief Executive	3693
 Centennial Vision	14929,57,73
-Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169,277,918,136,27,5,28,2,61,378,206,109,275,347,200,342,261,9,39,31,247,69,25,942,352,74,211,10,21,57,44,802
+Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169,277,918,136,27,5,28,2,61,378,206,109,275,347,200,342,261,9,39,31,247,69,25,942,352,74,211,10,21,57,44,802,287
 Center ARTICLE	15484
 Center Africa	6938
 Center Building	15206
@@ -565,6 +566,7 @@ DATA CENTER MARKET BRIEFING	14482
 DATA CENTER MARKET GHANA	10861
 DATA CENTER MARKET NIGERIA Nigeria	10861
 DATA CENTER MARKET WEST AFRICA	10861
+DATA CENTER ORANA	18317
 DATA CENTER PRINCIPAL	14489
 DATA CENTER PRINCIPAL TSIMBAZAZA	14589
 DATA CENTER PRINCIPAL TSIMBAZAZA BUREAU D’ETUDE	14489
@@ -587,7 +589,7 @@ DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
 DORK MEDICAL CENTER ANNEX LIMITED Data	7167
 DUPOINT MEDICAL CENTER LIMITED Data Controller	7167
 Data Annual Centers	15553
-Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132,154,172,882,110,158,121,41,121,287,255,492,120,275,252,190,28,32,77,148,16,94,337,75,12,37,70,173,51,168,85,125,1,4,107,903,96,113
+Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132,154,172,882,110,158,121,41,121,287,255,492,120,275,252,190,28,32,77,148,16,94,337,75,12,37,70,173,51,168,85,125,1,4,107,903,96,113,159
 Data Center A NOSi	16146
 Data Center Backup	11389
 Data Center Cabling Pathways Datacenter	9123
@@ -636,6 +638,7 @@ Data Center and Cloud Services Directives	9123
 Data Center and IP Multimedia Subsystem Center	3669
 Data Center de CAMTEL	16195
 Data Center de Constantine	6419,612
+Data Center de Diamniadio	18324
 Data Center de Nouakchott	17908
 Data Center de Nouakchott URL	17908
 Data Center de ST Digital Auteur	15764
@@ -711,6 +714,7 @@ Donateurs GAVI Banque Mondiale Carter Center	14622
 Dotation du Data Center	15583
 Drone Operations Center	1043,860
 Duke Global Health Innovation Center RAD	14434
+Dust Barcelona Center	18309
 E-Learning Center	18080
 EAPC Ebenezer Worship Center Data Controller	7167
 EDGE Data Center Certification	1264
@@ -727,6 +731,7 @@ East. The Center	15008
 East. The Littoral and Center	10964
 Ebenezer Rehab and Wellness Center Data Controller	7167
 Eburru Modern Medical Center Data Processor	7167
+Ecological Monitoring Center	18309
 Edition I-I13. Ensure Data Center Sustainability	15713
 Editorial Dickson N. Williams Center for Media	17260
 Education Development Center’s PACETEM	17870
@@ -738,6 +743,7 @@ Egyptian Center for Responsible Artificial Intelligence	16212
 El Nadeem Center	11079
 Eldohub Innovation Center Data Processor INST-123035BFEA4	7167
 Emergency Management and Operations Centers	4301
+Emergency Operation Center	18198
 Emergency Operation Center PIC Project Implementation	11417
 Emergency Operations Center	13080,4882
 Emergency Operations Center ENSAN II	10776
@@ -897,6 +903,7 @@ Information Sharing and Analysis Center	6928
 Information System Emergency Operations Center Electronic	4153
 Information Technology Services Qualification Center	15512
 Information and Decision Support Center	13733
+Infrastructure Data Center	18194
 Infrastructure Monitoring Center	4682
 Infrastructure and Data Center Development	12035
 Initiatives CNDRA Center for National Documents and Records	16860
@@ -1170,6 +1177,7 @@ Network Operations Center	6928,7106,2847
 Network Operations Center NRB National Registration	12917
 Network Startup Resource Center	1036
 Newsroom Media Center	16961
+Nigerien Armed Forces Logistics Center	18241
 Nile Center	14897
 Nile Center for Ministry of Energy and Oil	14897
 Nile Research Center	14897
@@ -1195,6 +1203,7 @@ OGN Network Operations Center	15019
 OMBC Online Media Briefing Center	16059,142,1151
 ONGs PGES DATA CENTER PRINCIPAL	14489
 OUTLOOK EAST AFRICA DATA CENTER CONSTRUCTION	10861
+Officer DAFDirectorate of File Automation DCData Center	18359
 Olorropil Child Development Center Data Controller	7167
 One-Month Deadline for Government Data Center Integration	6678
 One-Stop Centers	16951
@@ -1221,7 +1230,7 @@ Orange Digital Center Nisokatra	14638
 Orange Digital Center Presenters Position	17260
 Orange Digital Center Releases	17167
 Orange Digital Center de Ratoma	16726
-Orange Digital Centers	2600,3309,2521
+Orange Digital Centers	2600,3309,2521,9957
 Orange Digital Centers Senegal's General Delegation	2600
 Orange Liberia Digital Center Senior	17167
 Orange Startup Center and Orange Digital Center	2600
@@ -1422,12 +1431,12 @@ Sectoral Center for Vigilance	6657
 Sectoral Cybersecurity Operations Centers	11464,211
 Secure National Data Center Ahead of Launch	4926
 Security Operating Center	11955,962
-Security Operation Center	6237,9275
+Security Operation Center	6237,9275,2805
 Security Operation Center SWIFT Society for Worldwide	15023
 Security Operation Center TIC	15512
-Security Operations Center	1777,2066,2989,888,3001,3940,158,1325,51,833,191
+Security Operations Center	1777,2066,2989,888,3001,3940,158,1325,51,833,191,1176
 Security Operations Center SPN Specific Procurement	15518
-Security Operations Centers	3604,2073,3630,868,546
+Security Operations Centers	3604,2073,3630,868,546,7698
 Security and Network Operations Center	6539
 Senegal AI Transformation Center	16772
 Service Agency CSC County Service Centers	16970
@@ -1486,6 +1495,7 @@ Tarbell Center for AI Journalism	5257
 Targeting Centers	16867
 Tax Authority Libyan Center for Remote Sensing	16916
 Tax Policy Center Urban Institute	17011
+Tax Service Centers	18293
 Taxpayer Full-Service Center	17011
 Taxpayer Service Center	16038
 Teacher Training Center	16436
@@ -1520,6 +1530,7 @@ Training Center Manager	12403
 Training Center ZIZABONA Zimbabwe	12399
 Training Centers	17075
 Training and Qualification Center	2807,4
+Transcorp Event Center	18162
 Transfusion Center	16922
 Transmission Dispatch Center	1538,1
 Transmission Dispatch Center and SCADA Upgrades	1539
@@ -1529,7 +1540,7 @@ U.S. Centers for Disease Control	12334
 U.S. Centers for Disease Control and Prevention	10641,5742,588,394
 UEM Data Center	9225
 UI Design NOSiGIS Data Center BI	15476
-UNCTAD Data Center	10844
+UNCTAD Data Center	10844,7279
 UNDP Financial Centers for Sustainability	14997
 UNDP's International Istanbul Center for Private Sector	15179
 UNEP Copenhagen Climate Center	9424

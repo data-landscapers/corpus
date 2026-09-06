@@ -48,7 +48,7 @@ Neobanks	11994
 Neoma Africa Fund III	448
 Neoma Africa Fund III. Octotel	448
 Neomie Nina Belandrine	15901
-Neonatal	10780,49,731,591,216,46,226,1394,1023,669,1135,62,29,20,318,580
+Neonatal	10780,49,731,591,216,46,226,1394,1023,669,1135,62,29,20,318,580,293,208
 Neonatal Con-	12151
 Neonatal Condi-	12151
 Neonatal Deaths	12151
@@ -56,7 +56,7 @@ Neonatal Deaths Neonatal	12151
 Neonatal Health	16971
 Neonatal Intensive Care Services	14773
 Neonatal Intensive Care Unit	16922
-Neonatal Mortality	12151
+Neonatal Mortality	12151,6011
 Neonatal Mortality Rate	4349,8018,46,2643
 Neonatal Screening Program	10188
 Neonatal Sepsis	12151

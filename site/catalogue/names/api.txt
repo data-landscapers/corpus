@@ -3,6 +3,7 @@ ACRONYMS ACRONYMS AI AIA API DCI	11156
 ACRONYMS AND ABBREVIATIONS API Application Programming	17149
 AML Anti-Money Laundering API Application Program	13312,2
 ANOR ANTIC API APICCAM ARMP ARSEL	15542
+API Actives	18428
 API Application Programming Interface	11944
 API Application Programming Interface ASSAR Rwanda	14997
 API Application Programming Interface AU African	12512
@@ -17,7 +18,7 @@ API Documentation	5665,9965
 API ENDPOINT PATH PARAMETER NAMING	6423
 API Endpoints Summary Table Legend	15630
 API Endpoints and APIs All API	6423
-API Gateway	5533,1688,5198
+API Gateway	5533,1688,5198,6009
 API Gateway Principales Stockage	15583
 API Gateways	12419
 API Integration for Recurring Debit Orders	15260
@@ -43,12 +44,14 @@ API SFEC	7346,8902
 API SFEC. Ces	7346
 API SFTP	3972
 API SP.URB.TOTL DS2 fr excel v2 318520	747
+API Santé	18428
 API Security	11952
 API Security Information	10721
 API Security Requirement	11952
 API Standards All APIs	11952
 API Standards Enact Consumer	12444
 API Testing	5665
+API Training Facility	18253
 API URL Language	15714
 API Zimswitch Technologies	12490
 API and PNR	10360,363
@@ -113,6 +116,7 @@ APIMali	17882
 APIN Public Health Initiatives	15321
 APIN's Dr. Olaposi Olatoregun and US CDC	9444
 APITRE UNIOUE ARTICLE	15348
+APIX Publics Works and Investment Promotion Agency	18293
 APIX-SA	7106
 APIs Close	6387
 APIs Elastic	13676
@@ -312,6 +316,7 @@ Reddit's Data API	13461
 Registry APIs	6423
 Regulated APIs	10719
 Requires APIs	12444
+SADIS API	18128
 SDK and API	7065
 SDMX APIs	17539
 SDMX-compliant APIs	17539

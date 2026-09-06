@@ -8,6 +8,7 @@ Centre for Infectious Disease Research	10374,1982
 Controle de Infecções	15966
 Controlo de Infecções PdE Pontos de Entrada PFN	11376
 Contrôle des Infections	14622,1089
+DONNEE NULLE OU INFERIEURE	18143,27
 Deficiency Syndrome ARI Acute Respiratory Infection	16971
 Department of Tropical Medicine and Infectious Disease	16329
 ENTENDU PARLER D'AUTRES INFECTIONS SEXUELLEMENT	13300
@@ -35,7 +36,7 @@ Infecciones de Transmisión Sexual	4209
 Infecciones de Transmisión Sexual KDI	1701
 Infectiologie Charles Mérieux Master Management	17829
 Infectiologie Office du Développement Charles	17845
-Infection	15712,249,980,902,26
+Infection	15712,249,980,902,26,501
 Infection Disease Specialists	14094
 Infection Prevention and Control	4301,6475,3998
 Infection Prevention and Control IIMS	10776
@@ -95,6 +96,7 @@ Malware Infections	3214
 Maria Grazia Dente Public Health and Infectious	10784
 Marzia Chiesi Foundation Dept of Infectious Disease	10878
 Minimum Requirements for Infection Prevention Control	14773
+Multiple Inference and Gender Differences	18318
 NPHIL's Department of Infectious Disease Epidemiology	16971
 National System for Healthcare-Associated Infection	4202
 Neonatal and Childhood Illness IPC Infection Prevention	17289

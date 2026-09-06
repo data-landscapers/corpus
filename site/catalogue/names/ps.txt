@@ -14,6 +14,7 @@ Accompagner le PSA-SNFI	10965
 Act PPP Public-Private Partnership PSCBC Public	5533
 Act PPPs Public-Private Partnerships PSCBC Public	11261
 Actions Le PS	10874
+Actions Prioritaires du PSE	18286
 Adolescent Psychiatry	8604
 Aid OVCs Orphans and Vulnerable Children PSR	13310
 All PSPs	12490
@@ -25,6 +26,7 @@ Assets Act PSC Public Service Commission	13420
 Assignment of Spectrum PS-5 Review the Spectrum Trading	11857
 Association des PSF	10965
 Association. The PSC	14912
+Au-delà du PSSD	18297
 Avatar of Pspoke22	12478
 Avec le PSIPJ	16012
 Avg PSDI	11867
@@ -95,6 +97,7 @@ DHIS2. PSHPA	10833
 DICOM PS3.10 Interchange	1009
 DICOM PS3.12	1009
 DO PSE	11523
+DU PSE Le PSE	18291
 December. The PSiDM	12779
 Deputy PSs	16858
 Desenvolvimento PIP Pandemic Influenza Preparedness PSEA	15966
@@ -104,9 +107,11 @@ Development PSC Project Steering Committee PTA	15661
 Developpement PSRSIS	14442
 Digital Platform for Psychological Counseling	5167
 Disabilities PMU Project Management Unit PSC-LED	11863
+Dispositif Suivi PSE Activités	18286
 Documentation for PSPs	7222
 Données PS4bis	17983
 Décaissement PSIPJ	16012
+Développement Durable PS	18118
 Développement PS	10874
 Développement PS Poste	17843
 Développement PSE	13377
@@ -125,6 +130,7 @@ Education Psychology and Public Media	8130
 Educational Psychology Review	8602
 Elaboration du Draft du PS-SNISS	17845
 Elaboration du PSNSC	15712
+Emerging Senegal PSE Plan	18303
 Empowering PSNP	12229
 Enfant PS-SNISS	17845
 Enquêtes PS-SNISS	17845
@@ -197,7 +203,7 @@ La PSSI	17882
 La PSSIE	15525
 Le PS	10858,16
 Le PS-SNISS	17845
-Le PSE	1679,13795
+Le PSE	1679,13795,2817
 Le PSEN	9059
 Le PSGE	15500
 Le PSGouv	15496
@@ -207,6 +213,8 @@ Le PSNSN	17882
 Le PSNSN du Mali	17882
 Le PSP	13468,2279
 Le PSRE	15722
+Le PSSD	18297
+Le PSSIS	18298
 Le PSSN	15720
 LeRSSIfaitvaliderlesmesuresd'applicationdela PSSIE	15525
 Leadership PS-SNISS	17845
@@ -279,12 +287,16 @@ Open Data Kit PS	12338
 Operators and PSI	16942
 Ordres des PS Assurance	17882
 Oui PS-SNISS	17845
+Outre le PSE	18291
 Overview and Analysis PSIP	14830
 P14 PS1	11857
 PAN Payments Association of Namibia PSM Act	13076
+PAP du PSE	18286
+PAP du PSE. Ainsi	18286
 PAR PIU PSC RDVP RMCs Sida	13938
 PFI's and PSE	12195
 PIM. PSC Chair	6539
+PLANIFICATION OPERATIONNELLE DU PS-p15-p34	18121
 PM PS-SNISS	17845
 PMP Project Management Professional PSU Power	13185
 PNPS PPSD PSDGP ReCos RSU SDG	15658
@@ -335,6 +347,7 @@ PS Raymond Omollo and IG Douglas Kanja	12313
 PS Rural	12399
 PS SNIS Législation	15720
 PS SNISS	17845
+PS SRMNIA-N	18370
 PS Sing'oei	17567
 PS Social Protection Joseph Motari	2457
 PS Stakeholder	16848
@@ -393,6 +406,7 @@ PSBs and Microfinance Banks	4848
 PSC Accreditation	5679
 PSC Avaliacao Laboratorial HIV Contem	966
 PSC Kiosks	13533
+PSC Project Steering Committee PSE Emerging	18293
 PSC Project Steering Committee PwD Person	3604
 PSC Project Steering Committee QoS Quality	13331
 PSC and PSG	1867
@@ -426,12 +440,30 @@ PSDRP	12376
 PSDRP Private Sector Development Reform Program	12376
 PSDS Diagnostic Assessment	14777
 PSDSA	10856
+PSE BOM	18286
+PSE Cadre des Performances	18286
+PSE Coopérations	18306
+PSE Emerging Senegal Plan	18301
+PSE Extrant	18286
+PSE La Stratégie Nationale	18286
+PSE MFFE	18286
 PSE Plan	15474
+PSE Plan Sénégal	18316
+PSE Plan Sénégal Emergent PTF Partenaires	18286
 PSE Suivant	2966
+PSE-J	18286
+PSE. Dans	18286
+PSE. En	18286
 PSE. Está	11557
-PSE. Il	2966
+PSE. Il	2966,15320,5
 PSE. Le Professeur	2966
+PSE. L’analyse	18286
+PSE. L’élaboration	18286
 PSE. Nous	2966
+PSE. Par	18286
+PSE. Pour	18286
+PSE. Sur	18286
+PSE. Toutefois	18286
 PSEAH	9766,4856,2667
 PSERM	15019
 PSESH	2342
@@ -587,11 +619,13 @@ PSS Information Technology Specialist. DPWI Delegation	11285
 PSS OIPMI	13461
 PSS&AGC&FC	15669
 PSS-AOC	16681
+PSSAR	18291
 PSSAR Plan	15961
+PSSAR SEN	18291
 PSSB Child Grant	12220
 PSSC Provincial Shared Services Centre KyD	11197
 PSSI Politique de Sécurité du Système	10712
-PSSI-ES	11139
+PSSI-ES	11139,7159
 PSSI-IIC	11139
 PSSIE	1238,9281,193,4813,234,346,547
 PSSIE La Politique de Sécurité des Systèmes	16652
@@ -606,7 +640,7 @@ PSSIEetproposelesévolutionsdecelle-ci	15525
 PSSIEetrendentcompteàl'ANSSI	15525
 PSSIEpourdéfinirunpland'actionsdemiseenoeuvredeladite	15525
 PSSIEvisesurleplannationaletde	15525
-PSSIS	7707
+PSSIS	7707,10591
 PSSIspécifique	15525
 PSSIspécifiquebaséesurlaPSSIE	15525
 PSSN Annexe	15720
@@ -670,6 +704,7 @@ Preparation Advance PSGE Emerging Gabon Strategic	15411
 Prevention Services and Psychological	14742
 Prevention of Illegal Eviction PSIRA Private Security	11188
 Primeiros Socorros Psicológicos	15966
+Priority Action Plan of PSE	18293
 Private PSP	7221
 Procurement Strategy for Development PS Permanent Secretary	13331
 Procurement Strategy for Development PSGE Strategic Plan	15518
@@ -693,7 +728,7 @@ Psalm	12922
 PscISieAncsceales	11885,320,146
 Pseudo-label Opti-	8301
 Pseudonimização	15509
-Pseudonymisation	747,214,10995,229,3451,131
+Pseudonymisation	747,214,10995,229,3451,131,2352
 Pseudonymity	4127
 Pseudonymization	3861,7113,1211,117,2132
 Pshoki Rugarama Tumba Muzo Mutete Muko	12413
@@ -751,6 +786,7 @@ RESUME DU PSNSN	17882
 RESUME DU PSNSN L’application	17882
 RH Non PS-SNISS	17845
 RHS PPS PSEA PNS PVVIH RAM	14622
+Rapports Rendement du PSE	18286
 Recherche PS-SNISS	17845
 Recipient's PSP	12269,1
 Recipient’s PSP	12000
@@ -778,6 +814,7 @@ SISo PS-SNISS	17845
 SISo SISo PS-SNISS	17845
 SLIS PS-SNISS	17845
 SOC and PSC	11905
+SUIVI DU PSE ET DES AUTRES	18291
 Sale PSF Private Sector Federation QoS	718
 Sbrana Psychiatric Hospital	12606
 Secondary Transition Rate PSUT Physical Supply	2775
@@ -793,6 +830,7 @@ Size. PSUs	12403
 So the PSA	6985
 Sociale PS-SNISS	17845
 Spectrum PS-2 Active Infrastructure Sharing Framework	11857
+Statistics PSE	18291
 Stephanie Psaki	7750
 Strategy PSIPs Public Sector Investment Projects	16943
 Strategy Paper PSB Professional Standard Board	16852
@@ -801,15 +839,18 @@ Strategy for Development PSDG Public Sector Digital	10829
 Strengthen PSDS Alignment	14777
 Structuration Le PSRE	15722
 Summary of Projected Total External Funding of PSIP	14830
+Sustainable Public Procurement PSS	18370
 System PrDO Program Development Objective PSC	1264
 Système Statistique PSN National Action	10874
 T. Shoko PSC Unleashes Revolutionary	13533
 T02 ps	17037
 TECHNOLOGIE PS4	17983
 TTL PSIPJ	16012
+Tackling Psychosocial and Capital Constraints	18301
 Tanzania Mainland-based PSSN	11133
 Teacher Ratio PSIG	12175
 Teacher Ratio PSP Private School Policy	14896
+Technique PNESRPS PS TIC Politique Nationale	18121
 Terminal de Pagamento Automático PSP	17032
 Testing Guidance Psychological Services EUP Early	12975
 UGP du PSIPJ	16012

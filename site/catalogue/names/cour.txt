@@ -1,6 +1,9 @@
 A. Market Definition. The Court	13461
+AC Courant	18103
 ACKNOWLEDGMENT The Supreme Court	16943
 ACTING JUDGES OF THE HIGH COURT	12920
+ACTIVITES EN COURS ET SOUTIEN DES	18316
+ACTIVITES MENEES AU COURS DE L’ANNEE	18122
 ACTIVITÉS RÉALISÉES AU COURANT DE L	15670
 ADHOC JUDGES OF THE SUPREME COURT	12920
 ADMINISTRATIVE COURT	13504
@@ -10,6 +13,7 @@ AI. Courts AI	11607
 AI. Well-developed STEM Courses	15713
 ANNEES PIB1 Valeur Télécoms Courant2 Valeur	13324
 ANNEX I PROJETS EN COURS ET	13433
+ANNEXE I ACTIVITES EN COURS ET	18316
 APPOINTMENT OF LABOUR COURT JUDGES	13504
 ARRETES Cour	17861
 AVIAN COURT LIMITED Data Controller INST-53751652AF4	7167
@@ -31,6 +35,7 @@ Advanced Course	14738
 African Court	961,11240,839,4910
 African Court of Justice and Human Rights	14742
 Agricultural Training Courses	2775
+Akouta DC Courant Continu	18103
 Alexandra Le Courtois	13897
 Alexandria Economic Court	4583
 All High Court	13504
@@ -82,11 +87,13 @@ Burundi and East African Court of Justice	13313
 C E Dépenses Courantes	15999
 CAP- de Bamako Coura	17830
 CAR’s Special Criminal Court. Minster of State	4127
+CE2 Cours Elémentaire	18171
 CEUX OCTROYES ET CEUX EN COURS	13390
 CHAPITRE III- OPERATIONS COURANTES	17485
 CHAPTER EIGHT THE EAST AFRICAN COURT	14409
 CHELE Cynthia. SERVICE CENTRAL DU COURRIER	16381
 CIVIL COURT STATISTICS	12920
+CM2 Cours Moyen	18171
 COMMERCIAL INTRA CITY COURIER SERVICES OPERATOR	1223
 COMMUNITY COURTS ACT	13189
 CONSTITUTIONAL COURT	13504
@@ -108,6 +115,7 @@ COURIER VOLUMES Postal	6000
 COURII APP LIMITED Data Controller INST-7414717F3EC	7167
 COURII APP LIMITED Data Processor INST-7414717F3EC	7167
 COURRIER	10975
+COURRIER ET REPROGRAPHIE	18302
 COURS DE LA MISE EN	16195
 COURS ET TRIBUNAUX	16047
 COURT ADDRESSES AND CONTACT DETAILS	12920
@@ -123,6 +131,7 @@ COURT TERME	15583
 COURT UPHOLDS JALLOH’S POLICE STATEMENT	10581
 COURTESY MEETING BETWEEN H.E DR. OMAR	15825,1555
 COURTS TO FINE BLOUBERG LOCAL	12046
+CP Cours Préparatoire DECCS Direction des Evaluations	18171
 CRIMINAL COURT STATISTICS	12920
 CSPS and High Courts	10812
 Cairo Court of Appeal	11641
@@ -217,16 +226,25 @@ Cour Africaine	13442
 Cour Africaine des Droits	13442
 Cour Article	17861
 Cour CCI	15901
-Cour Commune de Justice	15495,2487
+Cour Commune de Justice	15495,2487,124
 Cour Considérant	15420,757
+Cour Constitu	18111
 Cour Constitutionnel	1682
-Cour Constitutionnelle	17,15349,34,18,13,172,100,3,1,20,448,450,1236
-Cour Constitutionnelle. Article	15703,24
+Cour Constitutionnelle	17,15349,34,18,13,172,100,3,1,20,448,450,1236,235,5
+Cour Constitutionnelle CCass	18111
+Cour Constitutionnelle Nombre-	18111
+Cour Constitutionnelle. Article	15703,24,2369
 Cour Constitutionnelle. Ce	15703,24
-Cour Constitutionnelle. En	15703,24
+Cour Constitutionnelle. En	15703,24,2374
+Cour Constitutionnelle. II. AU TITRE	18116
 Cour Constitutionnelle. Il	15703
+Cour Constitutionnelle. La Cour Constitutionnelle	18101
+Cour Constitutionnelle. Lorsqu’il	18101
+Cour Constitutionnelle. Pour	18101
 Cour Constitutionnelle. Sans	15727
 Cour Constitutionnelle. Toute	15703
+Cour Constitutionnelle. Un	18101
+Cour Constitutionnelle. VI. MESURES NOMINATIVES	18116
 Cour Cour	15405,34
 Cour Destinée	15901
 Cour Décision	16177
@@ -235,7 +253,7 @@ Cour Longue	15555
 Cour Pénale Spéciale. Elle	10826
 Cour Spéciale des Terres	13442
 Cour Suprème	15429
-Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14,58,631,19,118,24,793,63,113,394,1881,2,3,7,12,20,42
+Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14,58,631,19,118,24,793,63,113,394,1881,2,3,7,12,20,42,407
 Cour Suprême Cible	15936
 Cour Suprême de Guinée-Bissau	16633
 Cour Suprême du Burundi	13442
@@ -245,7 +263,8 @@ Cour Suprême. Ils	16615
 Cour Suprême. Madame CISSE Mariam Kaïdama	17819
 Cour Suprême. Modibo Ibrahim TOURE	17819
 Cour Un	15901
-Cour de Cassation	1231,2165,7429,3587,1172,19,100,233,32
+Cour de Cassation	1231,2165,7429,3587,1172,19,100,233,32,2151,308
+Cour de Cassation CdC	18111
 Cour de Cassation Cible	15936
 Cour de Cassation-ministère	15936
 Cour de Comptes	1284
@@ -257,7 +276,8 @@ Cour de TIRE V	15901
 Cour de Tipaza	16171
 Cour des Article	15901
 Cour des Compte	16615
-Cour des Comptes	1284,398,1714,7316,1193,1387,1120,161,799,40,14,177,58,42,9,10,5,11,31,132,35,216,147,156,163,1397,48
+Cour des Comptes	1284,398,1714,7316,1193,1387,1120,161,799,40,14,177,58,42,9,10,5,11,31,132,35,216,147,156,163,1397,48,38,18,3,205
+Cour des Comptes CE	18111
 Cour des Comptes Rapport	15722
 Cour des Comptes Responsable	15712
 Cour des Comptes Site	15936
@@ -265,18 +285,20 @@ Cour des Comptes. Article	1231
 Cour des Comptes. CHAPITRE IX DISPOSITIONS TRANSITOIRES	14412
 Cour des Comptes. Chapitre III	37
 Cour des Comptes. Le Ministre	15703
+Cour des Comptes. VII. AU TITRE	18238
 Cour le Président du Sénat	15405
 Cour. Art	15434
-Cour. Article	17,15686,24,174
+Cour. Article	17,15686,24,174,2200
 Cour. En	15703
 Cour. Ils	15901
+Cour. Le Président	18101
 Cour. Lorsque la Cour Constitutionnelle	15703
 Cour. L’avancement	15901
 Courageous	5533,6453
 Courant	2738,11802,1130,2176
 Courantes	15999
 Courants	17846
-Courbe	17001,878
+Courbe	17001,878,239
 Courbes	17879
 Courbes de Rendement	18063
 Courier	718,240,265,4777,890,2891,3261,909
@@ -293,15 +315,17 @@ Courier Services	958,1298,1731,541,2143,5696,145
 Courier Services Private Bag CY419	4528,7984
 Courier Services. The Authority	9335
 Courier Traffic	6671,3110
-Courriel	5983,7377,1187,31,1146,179,5,626,1080,242,207
+Courriel	5983,7377,1187,31,1146,179,5,626,1080,242,207,202,82
 Courriel de Validité	747
-Courrier	998,9026,852,2972,689,825,8,1,307,207,23,28,681,1212,35
+Courriels	18304
+Courrier	998,9026,852,2972,689,825,8,1,307,207,23,28,681,1212,35,242,202
 Courrier Article	15371
 Courrier Reçu	7470
 Courrier. Paragraphe	15371
 Courriers	6954,3922,99
 Courriers du MENA	10913
-Cours	3381,15,3996,1,3746,2303,193,903,35,832,179,59,30,30,414,1368,7,571
+Cours	3381,15,3996,1,3746,2303,193,903,35,832,179,59,30,30,414,1368,7,571,33,10,5,216
+Cours BCEAO	18105
 Cours Elémentaire	10847
 Cours Moyen	10847,4826
 Cours Préparatoire	10847,4826
@@ -322,7 +346,7 @@ Coursera	4197,2551,200,2431,754,2542,1316,2714,234
 Courses	1264,4406,5161,2141,342,1422,2,4,4,14,1427,740,98,845
 Courses Available	13095
 Courses Participants Mauritius Police Force	14760
-Court	3,8,16,7,553,196,189,361,141,355,90,198,190,17,197,105,40,222,32,85,110,65,84,10,33,122,109,34,11,131,64,349,234,1,6,145,709,120,80,111,159,231,176,6,100,591,70,19,61,68,62,231,63,52,47,91,40,245,435,234,125,108,29,202,668,92,71,80,79,325,662,5,169,5,12,8,363,24,66,97,149,133,60,93,49,38,112,51,70,41,150,18,225,5,7,7,16,49,63,13,75,183,8,71,48,23,9,31,3,22,422,97,364,51,86,129,38,1,1,2,1,1,1,2,5,1,2,2,10,1,10,7,49,19,3,16,5,18,62,299,29,133,99,1,19,1318,9,1,3,33,67,156,15,25,309,502
+Court	3,8,16,7,553,196,189,361,141,355,90,198,190,17,197,105,40,222,32,85,110,65,84,10,33,122,109,34,11,131,64,349,234,1,6,145,709,120,80,111,159,231,176,6,100,591,70,19,61,68,62,231,63,52,47,91,40,245,435,234,125,108,29,202,668,92,71,80,79,325,662,5,169,5,12,8,363,24,66,97,149,133,60,93,49,38,112,51,70,41,150,18,225,5,7,7,16,49,63,13,75,183,8,71,48,23,9,31,3,22,422,97,364,51,86,129,38,1,1,2,1,1,1,2,5,1,2,2,10,1,10,7,49,19,3,16,5,18,62,299,29,133,99,1,19,1318,9,1,3,33,67,156,15,25,309,502,159,45,57
 Court ARTICLE	14409
 Court Act	12920
 Court Administrator	16943
@@ -388,7 +412,7 @@ Court of Appeals of Casablanca	17441
 Court of Audit	16994
 Court of Audit Court of Audit	16994
 Court of Audit. Economic	15752
-Court of Auditors	3667,7101,768,50,3964,1408
+Court of Auditors	3667,7101,768,50,3964,1408,1347
 Court of Cassation	39,10035,5319
 Court of Cassation and Chairman	11641
 Court of Civil Appeal	1919,7589,301,4933,105
@@ -559,6 +583,7 @@ Economic Crime Court.pdf	17037
 Economic Crimes Court	17139
 Economic Crimes Court Office	17139
 Economie La Cour	17899
+Education Alternative des Jeunes CE1 Cours Elémentaire	18171
 Ehram Court	14757,27,49
 El Obeid Criminal Court	10192
 Electoral Court	6387,6518,2432
@@ -570,6 +595,7 @@ English High Court	7587
 Entwicklung. Courses	178
 Environmental Courts	13474
 Establishing Extraordinary Courts	16847
+Etat Cour de Cas	18111
 Ethiopian High Court. Based	12500
 European Commission for Court Efficiency	17441
 European Court of Auditors	15901
@@ -578,13 +604,16 @@ European Court of Justice	1243
 Expertise of Courts	12389
 Expertise of Specialized Courts	12389
 FDS. US District Court	17773
+FEDERAL HIGH COURT	18154
 Fast-Track Courses	13998
 Federal Court of Justice	10090
 Federal First-Instance Court	13948
-Federal High Court	3383,1200,226,1487,880,293,131,176,302,40,60,409,1385,239,1642,123,17,192,1763,448
+Federal High Court	3383,1200,226,1487,880,293,131,176,302,40,60,409,1385,239,1642,123,17,192,1763,448,3815
+Federal High Court Rules	18211
 Federal High Court and Federal First-Instance Courts	13948
 Federal High Court and First-Instance Courts	13948
 Federal High Court of Lideta	7909
+Federal High I I Court	18154
 Federal Supreme Court	1783,9824,581,100,1660,86
 Federal Supreme Court's Smart Court System	11607
 Federal Supreme Court. Article	13948
@@ -688,7 +717,7 @@ High Courts Vital	12327
 High Courts of Uganda	14409
 High and First-Instance Courts. Particulars	13948
 High- and Magistrates Courts	12920
-Honourable Court	14460
+Honourable Court	14460,3694
 House. Court	10313
 Hybrid Court	3583
 Hybrid Court and Truth Commission	3583
@@ -726,6 +755,7 @@ Industrial Court. Presenting the Industrial Court	12610
 Industrial Relations Court	13053
 Industry MOOC Massive Open Online Course	4126
 Infrastructure Course	11007
+Initiation CM1 Cours Moyen	18171
 Institutions Moyen Terme MDENP Court Terme	15512
 Inter-American Court of Human Rights	13040
 Inter-City Courier Operators Domestic	15136
@@ -801,12 +831,12 @@ LACC Wants Special Corruption Court	17037
 LIKE Legal Business Court of Appeal	9750
 LMS and STEM Courses	15183
 LPF. Court	12338
-La Cour	17,1559,5166,6144,406,2113,15,19,68,44,51,1,12,248,314,70,16,1229,369,13,25,104,60
-La Cour Constitutionnelle	13292,2172,69,170,24,2134
+La Cour	17,1559,5166,6144,406,2113,15,19,68,44,51,1,12,248,314,70,16,1229,369,13,25,104,60,38,5
+La Cour Constitutionnelle	13292,2172,69,170,24,2134,240
 La Cour Suprême	17819,1,1,7,33
 La Cour de Cassation	15603,100
 La Cour de Justice	15703
-La Cour des Comptes	14573,839,291,24
+La Cour des Comptes	14573,839,291,24,2596
 La Haute Cour	15405
 La Haute Cour Constitutionnelle	14416,43,41,43,67
 La Haute Cour de Justice	15703
@@ -824,12 +854,14 @@ Le Service Courrier	15701
 Learner Course Registrations	13095
 Legal Litmus Tests In the High Court	11148
 Legal Structure The Supreme Court	14742
+Les Cours	18323
 Libya's Audit Bureau and Tunisia's Court of Auditors	10002
 Lilongwe High Court	12174
 Lilongwe High Court Civil Division	12174
 Lilongwe High Court Premises	12174
 London Court of International Arbitration	2512
-Lorsque la Cour Constitutionnelle	15703,24
+Lorsque la Cour	18106
+Lorsque la Cour Constitutionnelle	15703,24,2374
 Lower Courts	12920
 Luno and The Courier Guy	9008
 M COUR SUPREME	15999
@@ -857,6 +889,7 @@ MPT Court Elevée Primature Moyen Elevée	15474
 MPT Court Elevée Tous Court Elevée	15474
 MPT Moyen Moyenne Présidence Court Elevée	15474
 MSMEs ONLINE COURSE BOOKLET A Digital	11017
+Madame Couro KANE	18412
 Magisterial Courts	16943
 Magisterial Courts and Circuit Courts	16943
 Magistrate Court	11129,1198,324,277,125
@@ -923,6 +956,7 @@ Nigeria. Nigerian Court	11956
 Nigerian High Court	4583,1472
 Nigeria’s Apex Court	8978
 No. of Courts	12453,892
+Normale CI Cours	18171
 North Coast Courier Orphan Fund	17800
 North Gauteng High Court	2307
 Number of Magisterial Courts	16943
@@ -933,6 +967,7 @@ ONLINE COURSE Ecommerce Training Toolkit Mastercard	11017
 OPERATIONS COURANTES DIVERSES	17485
 OVERVIEW OF THE HIGH COURT	12920
 OVERVIEW OF THE SUPREME COURT	12920
+Observateurs de Court-Terme	18310
 Official Court Interpreter JUDGMENT	13040
 Official Court Interpreter URL	13040
 Old Supreme Court	14267
@@ -1024,6 +1059,7 @@ Postal and Courier Volumes Service Category Q3	6000
 Powers of Court	3714
 Preliminary Rulings of National Courts	14409
 Preliminary Rulings of National Courts ARTICLE	14409
+Premier Président de Cour	18310
 President. The Bail and Remand Court	14742
 Presidential Court	12983,709
 Presidents of Courts of Appeals	15393
@@ -1104,6 +1140,7 @@ San Mateo County Superior Court	14675
 San Mateo County Superior Courts	14675
 Santiago de Chile Chili Courriel	17856
 Sarclepea Magisterial Court	16947
+Segment Courrier	18122
 Selecting Pilot Courts	17441
 Senior Management Course	12323,2180
 Service Courier	16099
@@ -1159,7 +1196,7 @@ Superior Courts Act	11190
 Superior Courts Department. As the Commission	13504
 Superior Courts of The Gambia	16951
 Supervisory Development Management Course	6946
-Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073,871,77,138,135,332,252,2,33,4,81,13,448,3,115,40,737,64,282,6,3,2,56,38,44,16,20,304,242,93,1008,256,18,95,8,7,165,622
+Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073,871,77,138,135,332,252,2,33,4,81,13,448,3,115,40,737,64,282,6,3,2,56,38,44,16,20,304,242,93,1008,256,18,95,8,7,165,622,409,204
 Supreme Court Act	12920
 Supreme Court Bar	16943
 Supreme Court Bench	13504,3439
@@ -1191,6 +1228,7 @@ Supreme Court. The Chief Justice and Associate	16943
 Supreme Court. The Court Administrator	16943
 Supreme Court. The Equal Opportunities Act	14742
 Supreme Court. The Magistrate for Rodrigues	14742
+Supreme Court.Commitment	18305
 Supreme Courts	16943
 Supreme Court’s Electronic Diary System	8978
 Systm Upgrades Provincial Courts Proceedings	2987,16,13,949,1438,159,1347
@@ -1198,6 +1236,7 @@ Système Intégré de Gestion des Cours	15936
 Sénateurs. La Cour Constitutionnelle	15703
 T-I20. Cross-Discipline Course Development AI-focused	15713
 TAXPAYES TO FACE COURT OVER FAILURE	13603
+TELEPHONE MOBILE AU COURS DES	18204
 TOT AL AL Conjoint Court	13390
 TOT AL Court	13390
 TRENDS COURSE REGISTRATION BY SEX POSTER	13095

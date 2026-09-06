@@ -54,7 +54,7 @@ Anita Houndenou	7168
 Annexure D3. Kudenga House TN CyberTech	4896
 Annual CAIDI Hours	12256
 António Hou	3692,19
-Area Office United Nations House Marine	10764,80
+Area Office United Nations House Marine	10764,80,7279
 Area for Housing Development Figure	2775
 Article Topics Austrian State Printing House	10293
 Assembly House	14753,88
@@ -70,7 +70,7 @@ Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66
 Automated Clearing House AML	13452
 Automated Clearing House Related Indicator	7221
 Automated Clearing House of Angola	6938
-Average Hourly Generation	12062
+Average Hourly Generation	12062,6124,31
 Average Household	9485
 Average Household Size	12395,4526,193
 Average Household Size Average	16921
@@ -205,6 +205,7 @@ Custom House	14736,80
 Cybersecurity White House	9629
 Célestin HOUNSOU	16485
 D. House Construction for Vulnerable Households	12977
+DAY. Monday Friday HOUR	18430
 DEFINE METHODS FOR HOUSEHOLD REGISTRATION	16867
 DEFINE THE HOUSEHOLD ASSESSMENT MECHANISM	16867
 DESIGN OF BUILDING Single Detached Housing	11129
@@ -304,6 +305,7 @@ Extremely Poor and Food Insecure Households	16960
 F HOUET	10847
 FCDO. The Global Program for Resilient Housing	10763
 FCH Housing Unit Under	14835
+FEDERAL MINISTRY OF HOUSING AND URBAN	18130
 FGI House	12367
 FH Freedom House	11887,266,1,9,178
 FINANCIAL STABILITY Household Sector	11131
@@ -349,7 +351,7 @@ Fourth General Population and Housing Census	16547
 Fourth Population and Housing Census	12413
 Freedom House	2117,3098,1617,117,2,1281,790,60,74,2535,177,465,43,2966,158
 Freedom House AI Surveillance Index	121,138,83,133
-Freedom House Freedom	17967
+Freedom House Freedom	17967,217
 Freedom House HEI Health Effects Institute	10759,78,1052,451
 Freedom House Report	14190
 Freedom House Score	10908
@@ -377,7 +379,7 @@ Gender of Household Head	16951
 Gender of Household Head Male	17127
 Gender of Household Head Male Head	17127
 Gender of Household Members	17043
-General Census of Population and Housing	15574
+General Census of Population and Housing	15574,2544
 General Household Survey	6832,4379,51,873
 General Household Survey Report and State Statistical	12135
 General Population and Housing Census	7702,4701,3171,236,737,784
@@ -392,7 +394,7 @@ Global Housing Boom	10
 Golden Oak House	10793
 Goodwood Station Social Housing Project	11248
 Google Cache Cluster and Packet Clearing House	12625
-Government House	8973,1187,4640,47
+Government House	8973,1187,4640,47,3396
 Government ICT House	11184
 Government Printing House	17934
 Government Procurement Opportunities AHP Affordable Housing	2775
@@ -472,6 +474,7 @@ Harmonized Household Income and Expenditure Surveys	15604
 Harmonized Household Living Conditions Survey	15810,323
 Harmonized Household Living Standards Survey	16384
 Harmonized Survey of Household Living Conditions	11581
+Harmonized Survey of Household Living Conditions. Senegal	18301
 Head ICT Ministry of Housing and Lands	14770
 Health Assistance Benefit Housing Benefit Education	16902
 Health Services Household	15244
@@ -549,7 +552,7 @@ Hours INTERVIEWER	17127
 Hours M2a0r-2235	12256
 Hours R	11259
 Hours South Africa Privacy FW Fairbridges	6632
-House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21,67,155,3,10,174,34,26,2,40,31,67,1,7,257,49,90,12,53,357,188,298,306,8,5,35,53,91,46,43,49,78,99,1600,20,35,135,179,142,208,214
+House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21,67,155,3,10,174,34,26,2,40,31,67,1,7,257,49,90,12,53,357,188,298,306,8,5,35,53,91,46,43,49,78,99,1600,20,35,135,179,142,208,214,394
 House Approves Close	1798
 House Bill	17485
 House Breaking and Theft	12984
@@ -557,7 +560,7 @@ House Business Committee	10313
 House Chair	11272
 House Chairperson	11272
 House Chairperson The Deputy Minister	1810
-House Committee	1210,5326,2491,544,309,3104
+House Committee	1210,5326,2491,544,309,3104,5190,70
 House Constructions	12977
 House Democracy Partnership	9191
 House Democrats	1695
@@ -613,10 +616,12 @@ House of Peoples’ Representatives. Article	13948
 House of Peoples’ Representatives. CHAPTER NINE STRUCTURE	13948
 House of People’s Representatives	9306
 House of Records	10313
-House of Representatives	2658,185,165,801,133,171,248,290,83,264,1873,587,1840,2,172,99,309,224,1749,13,2144,783,543,57,1450,4,190,86,16,125,1,31,62
+House of Representatives	2658,185,165,801,133,171,248,290,83,264,1873,587,1840,2,172,99,309,224,1749,13,2144,783,543,57,1450,4,190,86,16,125,1,31,62,816,70,17
 House of Representatives Ad-Hoc Committee	9956
+House of Representatives Chamber	18261
 House of Representatives Committee	8087,3860
 House of Representatives Defence	4188
+House of Representatives Moves	18174
 House of Representatives and Member	15336
 House of Representatives' Communications Committee	9472
 House of Representatives. Abu Zeid	16916
@@ -656,7 +661,7 @@ Housed	12138,43
 Housegirls	12227
 Househelp	582
 Househelp D	582
-Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95,80,169,176,33,6,2,14,76,69,260,149,116,156,294,39,582,17,8,71,17,28,36,1,45,82,220,3,327,30,54,3,2,62,15,3,1109,11,13,24,2,19,29,93,71,13,123,35
+Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95,80,169,176,33,6,2,14,76,69,260,149,116,156,294,39,582,17,8,71,17,28,36,1,45,82,220,3,327,30,54,3,2,62,15,3,1109,11,13,24,2,19,29,93,71,13,123,35,1008,8
 Household Access	3641
 Household Affordability	12399
 Household Baseline Survey SSN Social Safety	14897
@@ -698,6 +703,7 @@ Household Information	17114
 Household Living Conditions	13804
 Household Living Conditions Survey	15658
 Household Living Conditions Surveys	11581
+Household Living Conditions and Agriculture	18104
 Household Living Conditions and Poverty	10841
 Household Location	15244
 Household Main Information	15244
@@ -713,6 +719,8 @@ Household Ownership of Dwelling About	16921,193
 Household PIU	10964
 Household Population	16921,14
 Household Population and Composition	13454,1793
+Household Prosperity and Empowerment Cash Transfer	18243
+Household Prosperity and Empowerment Cash Transfer Programme	18243
 Household Questionnaire	15247,1620
 Household Reference	17114
 Household Resilience Building Through Safety Nets	10763
@@ -745,11 +753,12 @@ Household-level	11156,1501
 Household-level MPI	15244
 Household. ICT	12403
 HouseholdExpenditure Survey Results	16833
-Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272,294,44,581,22,62,29,60,1,27,235,85,275,55,27,16,41,1,20,290,44,19,56,296,468,15,9,26,38,2,8,16,34,43,56,186,458,106,28,1,26
+Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272,294,44,581,22,62,29,60,1,27,235,85,275,55,27,16,41,1,20,290,44,19,56,296,468,15,9,26,38,2,8,16,34,43,56,186,458,106,28,1,26,200,94,103,54
 Households Affected	12977
 Households Benefited	12977
 Households City Number	12978
 Households Connected	11890
+Households Current Project Proposed Project	18301
 Households Data	14723
 Households Figure	582
 Households Individuals Figur	16876
@@ -775,6 +784,7 @@ Houses Constructed	12977
 Houses Electrified	11890
 Houses Without Electricity	11890
 Houses of Justice	11541
+Houses of JusticeJanvier	18305
 Houses of Parliament	3714,7516,59,1184,414,69,20,350
 Houses of Parliament. B. National Drought Policy	12977
 Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253,122,10,579,1,9,121,381,211,1057,76,56,60,63,207,40,3,226,576,138,715,14,19,12,167,35,111
@@ -839,7 +849,7 @@ Housing and Settlement	1131,1644
 Housing and Shelter Section of UN-Habitat	1391
 Housing and Territorial Planning	4945
 Housing and Urban Affairs Shri Hardeep S	2667
-Housing and Urban Development	1391,387,210,604,454,2201,923,997,1790,1356,1668,1406,16,1143
+Housing and Urban Development	1391,387,210,604,454,2201,923,997,1790,1356,1668,1406,16,1143,3584
 Housing and Urban Planning	10937
 Housing and Water Resources	1228,6467
 Housing for Low- and Middle-Income Families	14829
@@ -1118,7 +1128,7 @@ Minister for Housing and Urban Development Appolo Maphalala	13008
 Minister of Housing	4064,11409,783
 Minister of Housing and Construction	16916
 Minister of Housing and Lands	14774
-Minister of Housing and Urban Development	2592,5495,892,3002,1246
+Minister of Housing and Urban Development	2592,5495,892,3002,1246,4903
 Ministry of Energy PROPORTION OF HOUSEHOLDS	15740
 Ministry of Housing	2592,10501,1643,737,1684
 Ministry of Housing and Construction	16916
@@ -1130,6 +1140,7 @@ Ministry of Housing and Utilities	17157
 Ministry of Housing’s New Urban Communities Authority	16480
 Ministry of Lands and Housing	2104,9617
 Ministry of Regional Local Government and Housing	12325
+Ministry of Urbanism and Housing	18198
 Ministry of Works and Housing	11129,4716
 Ministry ofRegional Local Government and Housing	12325
 Mme Houda Babah	9746,8233,32,1
@@ -1153,7 +1164,7 @@ Monsieur Innocent Antoine HOUEDJI	17584
 Monsieur Jean Claude HOUSSOU	15466
 Monsieur Marius HOUDE	16485
 Monsieur Wilfried P. HOUEDOKOU Au	17584
-Months Average Hourly Generation	12062
+Months Average Hourly Generation	12062,6124,31
 Moorgate House	14847
 Moposo House	12646,47
 Mortgage Finance the Social Housing and Mortgage Finance	15473
@@ -1178,6 +1189,7 @@ Namibia Population and Housing	12963
 Namibia Population and Housing Census	9485,2898
 Namibia Population and Housing Census PUMS	9485
 Namibia Population and Housing Census Release	12383
+National Assembly National Assembly The House	18244
 National Census of Households and Population	10812
 National Census of Population and Housing	13367
 National House	4126
@@ -1209,6 +1221,7 @@ National Population and Housing Census Provisional Results	17011
 National Population and Housing Census. Investments	17116
 National Population and Housing Censuses	16867
 National Street Addressing and House Numbering Programme	13227
+National Student Clearing House	18206
 Nationwide Urban Rural Household	582
 Ndeke House P. O. Box	34
 Nelsone HOUENHA	15921
@@ -1216,7 +1229,7 @@ Net NHBPS National Household Budget and SSTL	14897
 Network Towers Establishment of Social Housing Units	15578
 News Housing	10620
 Nigeria Startup House	2871
-Nigerian House of Representatives	4583
+Nigerian House of Representatives	4583,13591
 Non Profit Institutions Serving Households	2775
 Non-Profit Institutions Serving Householuds	2775
 Non-agricultural Households Agricultural Households	16921
@@ -1232,6 +1245,8 @@ Office Hours	13462,2826
 Official White House	5366
 Ombudsman’s Hour	16958
 Once Household Impact	10964
+Ondo House of Assembly	18154
+Ondo State House of Assembly	18154
 Online Data Repository Ministry of Housing and Lands	14830
 Open Hours	15721
 Opening Hours	16982
@@ -1239,6 +1254,7 @@ Opening Hours Mon	13249
 Operating Hours	11343
 Operating Hours Prioritization	8999
 Organization Malawi Mercantile House Area	13166
+Oscar Yakwen House of Representatives Moves	18174
 Ouest. M. Hervé HOUNZANDJI	16545
 Ouled El Houma	15602
 Over-crowding Assets Housing Electricity Drinking Water	15244
@@ -1289,7 +1305,8 @@ Place of Residence and Sex of Household Head	16921
 Place of Residence and Sex of Household Head Male	16921
 Plan EHCVM Harmonized Household Living Standards	16384
 Planning and Development IHS Integrated Household Survey	12964
-Plant Average Hourly Generation	12062
+Planning and Housing DRM Focal Points Ministry	18198
+Plant Average Hourly Generation	12062,6155
 Politics. Penguin Random House	12227
 Poor Households	11924
 Poor and Vulnerable Households	16384
@@ -1343,6 +1360,7 @@ Public Works and National Housing	395
 Purchasing and Construction of Houses Table	2775
 Péni Houet Hauts-Bassins	15715
 Q1 Plant Average Hourly Generation	12062
+Q3. Hourly	18217
 Q4 Q5 Households	12373
 QGroup House	6008
 Quarter Total Housing	12972
@@ -1380,6 +1398,7 @@ Run Government ByTechTrends Hours OnAugust	9936
 Rural Household	15574
 Rural Housing	13474
 Rural Localities RGPH General Population and Housing	16188
+RuralStruc Household Survey	18422
 Rwanda Census of Population and Housing	12403
 Rwanda Housing	9123
 Rwanda Housing Authority	9123,5812
@@ -1456,6 +1475,7 @@ Social Housing Schemes	14742
 Social Housing Units	14830
 Social Housing and Social Protection and Environment	14830
 Social Living Development Housing Units	14753
+Social Management Framework EVIAM Household Survey	18104
 Social Media. Freedom House	15342
 Social Security House	14559,288
 Social Security House Julius Nyerere Avenue	14766
@@ -1482,6 +1502,7 @@ State Department for Housing	2428
 State Department for Housing Accommodation and Food Services	2775
 State Department for Housing and Urban Development	14546,85
 State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245
+State House Auditorium	18269
 State House Cabinet	5318
 State House Construction	5658
 State House Entebbe	6248,15,8099
@@ -1511,6 +1532,7 @@ Strategic Move Households	12370
 Sudan's Darkest Hour	15342
 Summerhill House	17800
 Support for Government Housing Initiatives	13060
+Sustainable Housing and Settlements	18125
 Swaziland Automated Electronic Clearing House	12484
 Sylvie Houlière Mayca	3701
 TKP Beneficiary Household Categories Total TKP	15663
@@ -1547,6 +1569,7 @@ UNDER ONE HOUR VARIOUS GMD	16844
 UNDER THREE HOURS VARIOUS GMD	16844
 UNDER TWO HOURS VARIOUS GMD	16844
 UNFPA. Multi-Sectoral Household Survey	16902
+UNIVERSITE AL HOUDA NIAMEY	18170
 US House Majority Leader and Convalt Energy	6551
 US House of Representatives Majority Leader and Convalt	6633
 USERS The Seventh Integrated Household Living	12403
@@ -1555,7 +1578,7 @@ Uganda National Household Survey The Uganda	9024
 Undesignated Powers of Taxation The House	13948
 Unemployment Living Over-crowding Assets Housing Electricity	15244
 Unemployment Status Over-crowding Assets Housing Electricity	15244
-United Nations House	9117,638
+United Nations House	9117,638,8460
 United Nations House Marine Gardens Hastings	17856
 University of Science and Technology Houari Boumediene	15679
 Université Felix Houphouët Boigny	15936

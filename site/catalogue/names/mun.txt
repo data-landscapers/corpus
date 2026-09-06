@@ -147,9 +147,13 @@ Câmaras Municipais. Uma	1265
 Código de Posturas da Câmara Municipal de Bissau	11537
 Cúpula Mundial	11393
 DE DISTRITALES Y MUNICIPALES CATEGORÍA MINISTERIO	4209
+DE LA FORMATION DU CONSEIL MUNICIPAL	18096
+DES ATTRIBUTIONS DU CONSEIL MUNICIPAL Article	18096
 DO BANCO MUNDIAL	11390
 DOS MUNICÍPIOS	11901
 DPC-Banco Mundial-GFF and OMS	2228
+DU CONSEIL MUNICIPAL Article	18096
+DU MANDAT DES CONSEILLERS MUNICIPAUX Article	18096
 Da Administração Municipal	11373
 Data Annual Collection Collection MFIS and Municipalities	11855
 Dia Mundial	1215
@@ -158,6 +162,7 @@ Dia Mundial da Estatística	11538,5520
 Dia Mundial da Terra	12824
 Direção Municipal da Conservatória	10765,10
 District Municipality	8999,2987
+Division and Municipalities Management	18370
 Dmitry Mun	1749
 Dr. Dean Munene	8549
 Dr. Kondwani Munthali	13237
@@ -372,7 +377,7 @@ Munich Re	11310
 Munich-based	8342
 Munich. Schneider	2093
 Municipais	10754,667,1,24,131,4117
-Municipal	789,1019,180,960,5065,260,642,1836,32,465,738,87,128,32,117,2007,363,18,8,251,476,240,132,154,164,56,57,338,273,212,15,146
+Municipal	789,1019,180,960,5065,260,642,1836,32,465,738,87,128,32,117,2007,363,18,8,251,476,240,132,154,164,56,57,338,273,212,15,146,1033,61
 Municipal Adjustment Program	16614
 Municipal Adjustment Programs	16614
 Municipal Assemblies	16163,361
@@ -395,7 +400,7 @@ Municipal Contract	16614
 Municipal Contract for Conakry	16614
 Municipal Contracts	16614
 Municipal Contracts for Secondary Cities	16614
-Municipal Council	8661,134,2387,759,1729
+Municipal Council	8661,134,2387,759,1729,4623
 Municipal Council Committee	16887
 Municipal Council Kerewan Area Council Kuntaur	16973
 Municipal Council of Beau Bassin Rose Hill	14746
@@ -409,6 +414,7 @@ Municipal Council of Vacoas Phoenix	14746
 Municipal Councils	11129,733,79,830
 Municipal Demarcation Board	11244
 Municipal Departments of Civil Registry and Notaries	10765,10
+Municipal Development Agency AFOM	18309
 Municipal Development Plan	16970
 Municipal Elections	12845,1901
 Municipal Electoral Act	5533,1374,3590,1489,68
@@ -430,6 +436,10 @@ Municipal Hospitals	10775
 Municipal Information System	11862,77,2
 Municipal Infrastructure Grant	11289
 Municipal Infrastructure Support Agency	11289
+Municipal LIS	18293
+Municipal Land Register	18293
+Municipal Land Tenure Commission	18293
+Municipal Level Situation	18293
 Municipal Management	11941
 Municipal Market Management	11941
 Municipal Money	6729,1284
@@ -458,7 +468,7 @@ Municipal and District Chief Executives	15927,669
 Municipal and District Councils	14721,25
 Municipal and Metropolitan Assembly	11
 Municipales	16903
-Municipalities	427,362,1335,3824,998,1067,363,2389,10,95,345,16,624,35,51,45,397,16,2339,151,108,593,11,1013,238,653
+Municipalities	427,362,1335,3824,998,1067,363,2389,10,95,345,16,624,35,51,45,397,16,2339,151,108,593,11,1013,238,653,788,77
 Municipalities Environmental and Social	17114
 Municipalities and Area Councils	16951
 Municipalities and District Councils	14836
@@ -488,6 +498,7 @@ Municipality of Mogadishu. Project	14925
 Municipality of Port Louis for Clearing Purposes	14738
 Municipalité de Côte	15803
 Municipalization of Social Action	10775
+Municipaux	18101
 Municipio	11528
 Municipio de Aconibe	4209
 Municipio de Rio Campo	4209
@@ -527,6 +538,7 @@ Muntaka	7700
 Muntaka Mohammed Ali Aug	11081
 Muntaka Mohammed-Mubarak	4229,1146,935,1390,3362,19
 Muntanga Mapani	13578
+Muntaqa Umar-Sadiq	18253
 Muntean EA	10780
 Muntermann	1009
 Munthali	1219,2572,8384
@@ -631,6 +643,7 @@ Posts Eden Joint Municipal Tribunal	11251
 Presidente da Câmara Municipal de Bissau José Medina	17036
 Primary School Joy Mungungu Senior Primary	13046
 Prisca Mungla Data Controller INST-206561C3E2F	7167
+Procurement LIS Municipal Land Information System	18293
 Prof. Raphael Munavu	1245
 Programa Alimentar Mundial	12858
 Programa Mundial de Ação	17042

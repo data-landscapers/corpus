@@ -252,7 +252,7 @@ Inciso	17022
 Incitation	10876,1068,3598,46,740,1528
 Incitations	15588,2268,42
 Incite	15564
-Inciter	998,7,5822,2064,4399,2184,68,257,2,744,1349,89
+Inciter	998,7,5822,2064,4399,2184,68,257,2,744,1349,89,333
 Inciter la Définition	13433
 Incivisme	10858,4684,298
 Incoterms. Incidental	13185
@@ -332,7 +332,7 @@ Number of Reported Cyber Incidents	16975
 Obrigação de Notificação de Incidentes	11377
 Occurrence Incidence Criticité	10874
 PART III CYBER INCIDENT RESPONSE TEAMS	2727
-PILIER IV INCITER LA PARTICIPATION	13433
+PILIER IV INCITER LA PARTICIPATION	13433,4883
 PROCEDURE PROCESS FLOW TIMELINES Incident Escalation	6432
 Performance Metrics Inciuded	3972
 Pesca Incidência- Taxas-Notas Taxa Lei	17100

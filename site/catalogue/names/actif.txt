@@ -9,9 +9,10 @@ Actif Immobilisé	10975
 Actif Net Comptable	10975
 Actif Net Comptable. L’analyse	10975
 Actif Notice Type	13818
-Actifs	737,3683,2463,6494,2390,296,1020,402,578
+Actifs	737,3683,2463,6494,2390,296,1020,402,578,366
 Actifs Financiers	4420
 Actifs Non Financiers	4420
+Actifs Régulés	18322
 D0109 ACTIF POSTE MONTANTS NETS Exercice	17841
 DRC Actifs Inactifs PLs Actifs Inactifs	10975
 E01 AUTRES ACTIFS	17833

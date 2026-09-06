@@ -9,10 +9,12 @@ Agriculture CI Bibliothèque Numérique Nationale Dépend	15936
 Agriculture CI Dépend	15936
 Agriculture CI Système	15936
 Air CI	2342
+BGFI CI-DJAMO BSIC CI COLOW SO	18313
 Billetterie Transport CI	15936
 Billetterie Transport CI Dépend	15936
 Boîte Postale Numérique CI	15936
 CCI- CI	15936
+CELPAID MONEY UBA CI WAVE Cell	18313
 CELTOUCH CI	998
 CELTOUCH CI C	998
 CI ANNEXES PGES- DATA CENTER PRINCIPAL	14489
@@ -21,10 +23,12 @@ CI Act.4.1.2.16	17842
 CI Build	6666,3365,69
 CI Civil Identification CIL Data Protection	10812
 CI Dépend	15936
+CI ELL E L	18332
 CI ENERGIES	2342
 CI Every	14651
 CI Expertise	10876
 CI MAKOLA Sous-lieutenant MBOUMA	15744
+CI Nvx	18171
 CI PGES- CENTRE DE PERSONALISATION DES	14490
 CI PME	2342
 CI PME. L’action	2342
@@ -36,9 +40,12 @@ CI- Ministère	15936
 CI- SYMPTÔMES CI- DESSUS DESSUS DESSUS	13300
 CI- Site	15936
 CI-101et CI-	2342
+CI. Il	18286
 CI. Ordinal	11585
 CI. Sont	17898
 CONTEXTE-DE-CRÉATION TRÉSORMONEY CI	15577
+CSSDOS CI DPRS SENUM SA MCTEN	18306
+CSSDOS CSSDOS CI DPRS	18306
 Central Criminal Investigation Department CI	14760
 Centre Hospitalier Universitaire de Zone CI	15475
 Certificat Foncier Rural CI Consultant Individuel	10876
@@ -69,6 +76,7 @@ Justice CI Dépend	15936
 Justice CI Médiation	15936
 Justice CI Portail	15936
 KENORLAND MINERALS AFRICA CI SARL	2342
+La CI	18297
 Le CI SIS	17882
 Liberia CI Critical Infrastructure DDoS Distributed	1777
 MA CI NA	17828
@@ -83,6 +91,8 @@ Ministère des Transports Numérique CI	15936
 Moov Africa CI	11078
 NSIA Banque CI	8755
 NSIA Banque CI Signs Strategic Partnership	5163
+Nationale Autonome CI CEDEAO Carte	18310
+Normale CI Cours	18171
 ORANGE CI	2342
 ORANGE CI LTE	419
 ORANGE CI MTN CI MOOV CI	419
@@ -99,6 +109,7 @@ Poste CI	2342,13370,224
 Poste CI Indicateur	15712
 Poste CI. Analyse	15712
 Qualifications du Consultant CI Consultant Individuel	17963
+SARA MONEY ECOBANK CI CashXpress Cell	18313
 SIN CI NA	17828
 Santé CIV Poste CI	15936
 Santé CIV Téléconsultation Santé CI Dépend	15936
@@ -114,4 +125,5 @@ VIVO ENERGY CI	2342
 Vote CI	15936
 Vote CI Dépend	15936
 Wave CI	893
+XIKKA MONEY ORABANK CI WAVE Cell	18313
 Yam-Sat CI	4880

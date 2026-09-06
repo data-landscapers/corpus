@@ -224,7 +224,11 @@ Create Inclusion	12444
 Create Safe and Inclusive School Environment	15693
 Creating Resilient and Inclusive Markets	12933
 Crescimento Inclusivo	15694
+Croissance Inclusive	18100,5,13,252
 Croissance Inclusive Durable	15496
+Croissance Inclusive Niger	18103
+Croissance Inclusive SIDA	18118
+Croissance Inclusive SR	18100
 Cross-Border Payments for Growth and Inclusion	14054
 Cultural Appropriateness and Inclusivity	15055
 Cultural Diversity and Inclusion	2958
@@ -289,7 +293,7 @@ Digital Economy and Financial Inclusion Indicators Digital	14819
 Digital Economy and Inclusive Development	226
 Digital Economy and Inclusiveness Score for Malawi	12941
 Digital Finance and Financial Inclusion. Washington	7763
-Digital Financial Inclusion	1120,385
+Digital Financial Inclusion	1120,385,16628
 Digital Financial Inclusion Objective	16975
 Digital Financial Inclusion Unlocking Growth	1828
 Digital Freedom Public Perception of Inclusion	12353
@@ -389,9 +393,11 @@ Economic Inclusion Project	10963,1
 Economic Inclusion and Empowerment Services Pilot	15663
 Economic Inclusion and Empowerment Services Pilot Formally	15663
 Economic Inclusion and Empowerment Services Pilot. DLI	15663
+Economic Inclusion and Livelihoods	18125
 Economic Inclusion of Youth	10964
 Economic Inclusion of Youth Beneficiaries	10964
 Economic Stabilisation and Inclusive Development	14674
+Economic and Financial Inclusion	18269
 Economist. Inclusive Internet Index	16144
 Economy Connectivity Inclusive	13080
 Edição Banco de Moçambique Gabinete de Inclusão Financeira	2138
@@ -756,7 +762,7 @@ Incl. VAT	11259
 Inclam	4209
 Inclinação	11405
 Incluant	15901
-Include	899,62,924,103,638,1500,722,685,132,767,1116,3173,42,244,546,10,291,3,95,4,52,56,93,84,61,62,136,175,405,15,225,829,292,233,103,41,179,84,73,29,159,138,387,110,242,665,31,32,16,8,128,15,35,8
+Include	899,62,924,103,638,1500,722,685,132,767,1116,3173,42,244,546,10,291,3,95,4,52,56,93,84,61,62,136,175,405,15,225,829,292,233,103,41,179,84,73,29,159,138,387,110,242,665,31,32,16,8,128,15,35,8,1213
 Include AI	4126
 Include Continuous Learning Opportunities	12675
 Include E&S	17114
@@ -776,7 +782,7 @@ Include Satellite Maps Include Live Support	15867
 Include Training Activities	14546
 Include USSD	14997
 Include the Judiciary	17011
-Included	592,123,255,5336,2932,1555,342,746,105,413,654,132,200,756,183,53,169,686,239,1438,69,162
+Included	592,123,255,5336,2932,1555,342,746,105,413,654,132,200,756,183,53,169,686,239,1438,69,162,969
 Included CD	34
 Included D-Sub	34
 Included Figure	8605
@@ -836,8 +842,8 @@ Inclusao Program Page	11855
 Inclusao Social	11855
 Incluse	10876
 InclusiFI	789
-Inclusif	7621,8505
-Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,215,27,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90,165,328,1,4,9,1,148,35,44,8,213,10,100,118,15,94,294,32,3,37,39,10,96,75,126,47,29,25,66,281,52,59,39,12,34,10,51,33,62,131,5,15,55,10,23,36,85,3,2,4,69,65,105,104,33,24,21,58,87,72,3,90,43,3,65,24,61
+Inclusif	7621,8505,2281
+Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,215,27,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90,165,328,1,4,9,1,148,35,44,8,213,10,100,118,15,94,294,32,3,37,39,10,96,75,126,47,29,25,66,281,52,59,39,12,34,10,51,33,62,131,5,15,55,10,23,36,85,3,2,4,69,65,105,104,33,24,21,58,87,72,3,90,43,3,65,24,61,164,5,89,29,27,13
 Inclusion API	14997
 Inclusion Access	13042
 Inclusion Africa	7283
@@ -854,7 +860,8 @@ Inclusion Financière	613,136,73,4808,298,899,1489,2649,979,1446,2546,208,1723
 Inclusion Financière Agricole	13390
 Inclusion Financière Banque des Etats	11944
 Inclusion Financière L’ENIF	13390
-Inclusion Financière Numérique	15936
+Inclusion Financière Numérique	15936,2199
+Inclusion Financière Service du Développement Digital	18313
 Inclusion Financière TEG TPE Taux Effectif	11944
 Inclusion Financière. Elle	13390
 Inclusion Financière. Les Ministères	11944
@@ -873,6 +880,7 @@ Inclusion Insurance M&E Pension Agriculture Finance	14997
 Inclusion Investment Term	16942
 Inclusion Lead	14997
 Inclusion Localities	15553
+Inclusion Numérique	18135,59,28,14
 Inclusion Outcome	14997
 Inclusion PAYE	14997
 Inclusion PILLAR	4126
@@ -941,6 +949,7 @@ Inclusion of Local Languages	14664
 Inclusion of Persons	12231,5065
 Inclusion of Private Schools	11918
 Inclusion of Statistics	12297
+Inclusion of Vulnerable Groups Applicable	18370
 Inclusion-financiere	613
 Inclusion.44 AI and Big Data Commencement	10856
 InclusionNumérique	14168
@@ -953,19 +962,21 @@ Inclusive AI Development	4528,7984
 Inclusive Access	13095
 Inclusive Administration URL	15976
 Inclusive Approaches	17870
+Inclusive Care	18162
+Inclusive Care. Venue	18162
 Inclusive Climate	11469
 Inclusive Climate Insurance RSF	11469
 Inclusive Communication	17065
 Inclusive Component	1818
 Inclusive Consultation	12356
 Inclusive DPI	4794
-Inclusive Data Charter	1161,5802,5268
+Inclusive Data Charter	1161,5802,5268,5954
 Inclusive Data Economy	1161
 Inclusive Data Playbook	6963
 Inclusive Data Use and FAIR Principles Ensuring	17116
 Inclusive Design	17260
-Inclusive Development	1264,3290,4020,1077,2580,3427,1258,200,282
-Inclusive Development GRM Grievance Redress Mechanism	1264,14357
+Inclusive Development	1264,3290,4020,1077,2580,3427,1258,200,282,903
+Inclusive Development GRM Grievance Redress Mechanism	1264,14357,2680
 Inclusive Development Goal Rationale Emerging	17116
 Inclusive Development Grievance Redress Mechanism Gross	15553
 Inclusive Development HLO Grievance Redress Mechanism	3604
@@ -1289,6 +1300,7 @@ Ministry of Family and Social Inclusion	11855
 Ministry of Family and Social Inclusion Implementing Agency	11855
 Ministry of Social Affairs and Inclusion	3500
 Ministry of Social Inclusion	15447
+Ministry of Women Affairs and Social Inclusion	18215
 Ministry. Inclusive	16970
 MoE. Improved Inclusive Quality School Readiness	13990
 Mobile Money and Financial Inclusion Report. Retrieved	12214
@@ -1426,6 +1438,7 @@ Princípio da Inclusão	4146
 Probabilidade de Inclusão	11421
 Productive Economic Inclusion	17096
 Productive Inclusion	10763,12,620,460,69,4676
+Productive Inclusion Measures and Adaptive Social Protection	18301
 Productive Inclusion Project	15990
 Productive Inclusion Specialist	11855
 Programa Rendimento Social de Inclusão	11855
@@ -1433,6 +1446,7 @@ Programa da Inclusão Social	16187
 Programa de Inclusão Digital de Acesso Universal	11440,1,1
 Programmatic Inclusion	10819
 Project Fostering Inclusive Finance for MSMEs	11469
+Projet de Développement Inclusif	18293,97
 Promote Continuous and Inclusive Access	7405
 Promote Digital Inclusion	16975
 Promote Equity and Inclusion	12675
@@ -1542,6 +1556,7 @@ STRATEGIC OUTCOME STRATEGIC OUTCOME Universal and Inclusive	13005
 STRATEGIE NATIONALE DE LA FINANCE INCLUSIVE	10965
 STRENGTHENING INCLUSIVE SOCIAL PROTECTION	15140
 Safety Nets and Country Economic Inclusion Practice	10963
+Sahel. The State of Economic Inclusion Report	18301
 Sanitation Project Including Sewage Connections Spanning	15578
 Sanitation and Tourism AAID ARREST Agenda for Inclusive	17043
 Sarker D. Financial Inclusion of Disabled People	12231
@@ -1570,6 +1585,7 @@ Situação da Inclusão Financeira	2138
 Skills and Inclusion Objective	16975
 Small and Inclusion	940
 Small and Medium Enterprises National Financial Inclusion	13938
+Smart Villages for Rural Growth and Digital Inclusion	18133
 Social Inclusion	10819,513,2142,524,1246,419
 Social Inclusion Foundation	14835
 Social Inclusion Project	11855,3636
@@ -1694,6 +1710,7 @@ Universal and Inclusive Civil Registration. TABLE	13005
 Unlimited. Includes	15471
 Unlock Finance and Spur Inclusive Growth Monrovia	14318
 Unlocking Financial Inclusion Financing Risk Assessments	12297
+Uruguay’s Financial Inclusion Reforms	18318
 Usage and Expansion of Inclusive Digital Service Delivery	14935
 VAT INCLUSIVE TOTAL PRICE	11252
 VAT Incl	11252
@@ -1726,6 +1743,7 @@ World Bank’s Partnership for Economic Inclusion	15663
 Youth Economic Inclusion Program	10985
 Youth Economic Inclusion and Entrepreneurship	10963,1,4818
 Youth Economic Inclusion and Entrepreneurship US	971
+Youth Employment and Productive Inclusion Project	18104
 Youth Financial Inclusion	940,12534
 Youth Financial Inclusion WIN	526
 Youth Productive Inclusion Project	11905

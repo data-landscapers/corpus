@@ -16,7 +16,8 @@ Asset Wealth Index AtlasAI’s Asset Wealth	12006
 Automated Weather System	15097
 Automatic Synoptic Weather Stations	12728
 Automatic Weather Observing Station	16947
-Automatic Weather Stations	11553,1175,2010,80,2129
+Automatic Weather Stations	11553,1175,2010,80,2129,1362
+Automatic Weather Stations BNSP	18309
 Automatic Weather Stations. Key Objectives	12728
 Autonomous Weapons Systems	2816
 B. Private Wealth Management Licence Notwithstanding	7845
@@ -54,7 +55,7 @@ ECMWF European Centre for Medium-Range Weather Forecasts	11553
 EW4All Weather Warnings for All Franc CFA	11553
 EWS Weather Update	17157
 Enforcement Weapon Importers	11036
-European Centre for Medium-Range Weather Forecasts	11553,2969,1849
+European Centre for Medium-Range Weather Forecasts	11553,2969,1849,1938,83
 European Centre for Medium-range Weather Forecasts’ AIFS	4300
 Evaluation and Accountability Weak	14818
 Executive Summary Executive Summary Weather and Climate	11553
@@ -110,6 +111,7 @@ Nuclear Weapon Search War	10
 Nuclear and Radiological Weapons Acts Cap	3887
 Nuclear and Radiological Weapons Management Authority	3887
 Numerical Weather Prediction	11191,1537,3188
+Numerical Weather Prediction NWP	18309
 ORS Income Group Wealthiest Income Group	10829
 Observatory SAWS South African Weather Service	5246
 Ocean Modeling Weather Research and Forecasting	9475
@@ -173,11 +175,13 @@ Unexplained Wealth Order	14809
 Unexplained Wealth Unit	14742,67
 Universal Weak	1284
 VC Venture Capital WEAC Women's Entrepreneurial	12376
+WAFS Significant Weather	18128
 WEAK PROVENANCE	1960
 WEAK READINESS	11156
 WEAKEST LINK	12050
 WEAKNESSES	12973,1756,718,33
 WEAMU	16144
+WEATHER FORECAST	18309
 WMO Severe Weather Forecasting Program	11191
 WeAreDelivering	6355
 WeAreHome	10956
@@ -224,8 +228,8 @@ Weaker	11136,4028
 Weaker-than-expected	17257
 Weaker-than-expected Artificial Intelligence	13685
 Weakest	15164
-Weakness	5134,543,692,4769,123,2400,1273,2077
-Weaknesses	766,2396,964,88,314,3020,3853,124,338,53,243,1,44,308,399,62,32,307,2,1232,314,63,488,62,83,240,49,132,351,530,5,64,16,29,13,26,185,61,32,555
+Weakness	5134,543,692,4769,123,2400,1273,2077,1143
+Weaknesses	766,2396,964,88,314,3020,3853,124,338,53,243,1,44,308,399,62,32,307,2,1232,314,63,488,62,83,240,49,132,351,530,5,64,16,29,13,26,185,61,32,555,465
 Weaknesses AI	4528
 Weaknesses Experienced	5533,6453
 Weaknesses Indicator	12351
@@ -264,14 +268,17 @@ Wearables Are Actually Being Tested	9456
 Wearables for Chronic Disease Management	9456
 Wearing	17114
 Wears the Crown	17780
-Weather	395,5867,4702,319,1673,1862
+Weather	395,5867,4702,319,1673,1862,3491
 Weather Alerts	16371
 Weather Dashboard	16947
+Weather Forecasting OCB	18309
 Weather Forecasting Programme	11191
 Weather Forecasting and Warning Capabilities	14738
 Weather Forecasts	17157
 Weather Index Insurance	7763
 Weather Index Insurance Welfare	7763
+Weather Observation Department Mme Adama Niang	18309
+Weather Observer Training	18309
 Weather Prediction WIGOS WMO Global Observing	11553
 Weather Services	14738
 Weather Stations and Climate Database Management Systems	14738

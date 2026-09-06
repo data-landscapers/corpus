@@ -9,6 +9,7 @@ Africa Centers for Disease Control and Prevention	4049,2288,6801,3271
 Africa Centers for Disease Control and Prevention AI	16041
 Africa Centre for Disease Control	13141
 Africa Centre for Disease Control and Prevention	562,12113
+Africa Centre of Excellence for Neglected Tropical Diseases	18276
 Africa Centres for Disease Control	5213
 Africa Centres for Disease Control and Prevention	4782,1790,222,203,2721,2922,2036,2891,60,108
 African Centres for Disease Control and Prevention	9969
@@ -36,7 +37,7 @@ CENTRE FOR RHEUMATIC DISEASES Data Controller	7167
 CFA Franc COVID-19 Coronavirus Disease CPF	15731
 COMMUNICABLE DISEASES CONTROL UNIT	14773
 COVID-19 Corona Virus Diseases	13359
-COVID-19 Coronavirus Disease	10829,442,109,2040,2091,1411
+COVID-19 Coronavirus Disease	10829,442,109,2040,2091,1411,1379
 COVID-19 Coronavirus Disease CPF Country Partnership	15491
 CPSD Coronavirus Disease	13331
 CSD International Statistical Classification of Diseases	1009
@@ -74,6 +75,7 @@ Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,1
 Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Corona Virus Disease	12175
 Coronavirus Disease	2775,4057,3931,2569,3104
+Coronavirus Disease CPF Country Partnership Framework	18293
 Culture Sensitive Mental Health Support Disease	15713
 DA DISEEMBAR	15047
 DISE Dispositif	15961
@@ -87,6 +89,7 @@ DISER. Cette	15685
 Department of Disease Control	10188
 Department of Tropical Medicine and Infectious Disease	16329
 Developing A Lesotho-Specific Disease Detection Model	12707
+DiSEP	18286
 Diarrheal Disease	15247
 Diarrhoeal Disease	13454
 Directorate of Disease Surveillance	11912
@@ -282,6 +285,7 @@ Research Council NCD Noncommunicable Disease NETC	16922
 Respiratory Diseases	12151
 Respiratory Infections Infections Diseases	12151
 Revision IDSR Integrated Disease Surveillance and Response	12729
+Rising Non-Communicable Diseases	18370
 Risks of Communicable Diseases	16926
 Services IDSR Integrated Disease Surveillance and Response	12976
 Sexually Transmitted Disease	14434

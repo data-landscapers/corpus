@@ -16,15 +16,16 @@ Conditions Couverture	747
 Contre la Pauvreté CSU Couverture Sanitaire Universelle	17907
 Couvernement	15416
 Couvert	17983
-Couverture	737,10,440,1437,722,4372,1998,1,1201,1026,1346,10,25,89,28,247,933,672,129,51,19,3,46,131,42,9,161,51,2,5,56,26,281,315,5,1,14,807,387,1,7,13,10,16,14,3,115,55
+Couverture	737,10,440,1437,722,4372,1998,1,1201,1026,1346,10,25,89,28,247,933,672,129,51,19,3,46,131,42,9,161,51,2,5,56,26,281,315,5,1,14,807,387,1,7,13,10,16,14,3,115,55,243,7,5
 Couverture ARV	3396
 Couverture Au	17866
-Couverture Couverture	13804
+Couverture Couverture	13804,4533
 Couverture DPM Locale DPM Nationale Maintenance	17882
 Couverture D’autre	16195
 Couverture Maintenance Hébergement	17882
 Couverture Maladie	17845
-Couverture Maladie Universelle	3045,559,4201,53,5857,1781,215,1,45,179,96
+Couverture Maladie Universelle	3045,559,4201,53,5857,1781,215,1,45,179,96,2254,4,11
+Couverture Maladie Universelle L’Etat du Sénégal	18290
 Couverture Maladie Universelle. L’objectif	17845
 Couverture National	15936
 Couverture Nationale	15372
@@ -33,7 +34,7 @@ Couverture Penta	16722
 Couverture Population	419
 Couverture Réseau Projet	18079
 Couverture Sanitaire	18077
-Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37
+Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37,383
 Couverture Sanitaire Universelle. Pour	15711
 Couverture Santé	16195
 Couverture Santé Universelle	9273,6922,137,106,3,1441
@@ -41,8 +42,9 @@ Couverture Universelle	17845
 Couverture Vaccinale FAC	15685
 Couverture de Vaccination ENSAE ENSEA	17842
 CouvertureMobile	14509
-Couvrant	3106,13104,411
+Couvrant	3106,13104,411,1804
 Couvre	1187
+Couvrir	18426
 Enq. Couverture	17844
 Extension Couverture	3537
 II. Couverture	15943
@@ -50,9 +52,13 @@ III.3.9. Couverture	13414
 INDICATEURS DE COUVERTURE EFFECTIVE PAR ANTIGÈNE	17843
 INSTRUMENTS DE COUVERTURE	17485
 IV.1.1.8.4 Couverture	10876
+Identification Version Périmètre Couverture Producteurs	18337
+Identité CMU Couverture Maladie Universelle DAF	18290
 Institutions Couverture	13442
 Jean Couvaras Kamanga	13532
 Km COUVERTURE	13324
+LIBERTES CSU COUVERTURE SANITAIRE UNIVERSELLE DHIS2	18105
+La Couverture	18105
 Maladie Couverture	14622
 Mali. Couvrant	7727
 Ménages Couverture	13300
@@ -62,6 +68,7 @@ OPERATIONS DE COUVERTURE ET REGIME	17485
 Projet de Couverture	11529
 Projet de Couverture Nationale	15372,83,58,40
 R.2.1.1. La Couverture Sanitaire Universelle	13325
+SITUATION DE CONFORMITE PAR SERVICE Couverture	18122
 SUR LA PAGE DE COUVERTURE. C'EST	13300
 Santé. Couverture Santé Universelle	16195
 Santé. Couverture Santé Universelle. Accédé	16195

@@ -159,7 +159,8 @@ Embassies	13122,551,1102,54
 Embassies and High Commissions	16921
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430
+Embassies of Qatar and Switzerland	18215
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Bamako	17883
@@ -184,6 +185,7 @@ Embassy of Ireland	9861
 Embassy of Italy	10592
 Embassy of Japan	7300,105,965,2406,6959
 Embassy of Netherlands	14897
+Embassy of Niger	18197
 Embassy of Portugal	5404
 Embassy of Rwanda	14918
 Embassy of Sierra Leone	3950
@@ -407,7 +409,7 @@ Tripoli Embassy	10409
 Tunisia The US Embassy	10409
 U. S. Embassy’s Acting-Deputy Chief of Missions	2769
 U.S. Embassies	9621,1384
-U.S. Embassy	3463,145,559,173,5,7,120,489,202,293,1473,187,61,167,86,371,563,54,383,61,759,525,31,1514,826,1528,962,1512
+U.S. Embassy	3463,145,559,173,5,7,120,489,202,293,1473,187,61,167,86,371,563,54,383,61,759,525,31,1514,826,1528,962,1512,1690,32
 U.S. Embassy Abidjan	4472
 U.S. Embassy Chargé	4340,5,7
 U.S. Embassy Coopera9ao Maputo Maputo Mozambique	10713

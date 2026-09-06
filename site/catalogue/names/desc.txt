@@ -16,6 +16,7 @@ Abbreviation Description NPA National Prosecuting Authority	11250
 Abbreviations Acronym Description AELP African Exchanges	14997
 Abbreviations Term Description ACE Africa Coast	11552
 Abbreviations Term Description ACHPR African Commission	1814
+Abuja. Describing the Act	18259
 Abundant R&D Resources Code Action Description	15713
 Acronym Description	11218
 Acronym Description MINICOM Ministry of Trade and Industry	14997
@@ -92,6 +93,7 @@ Bunl Description	15129
 Bw Description	15129
 Bénin. Descendu	5718
 C Description	15129
+C. Summary Description of Proposed Project	18374
 CAPÍTULO II DESCRIÇÃO DA CODIFICAÇÃO	11409
 CARTES III. DESCRIPTION DU MILIEU	14490
 CC Description	15658
@@ -211,6 +213,7 @@ Descendants Bill	12337
 Descending	5363
 Descent	10841,3901
 Descente	15670
+Descentes P1	18291
 Descentralización	1701
 Descentralización SOSTENIBLE	1701
 Descentralizar	1701
@@ -239,15 +242,17 @@ Descrever	15509
 Describe	1988,1984,1693,128,5019,1373,117,729,350,1266,517,1935,15
 Described	2161,1518,825,1834,2042,3979,3355
 Describes	422,10847,2116,1494,10,2268
-Describing	3405,856,3860,680,328,132,7571
+Describing	3405,856,3860,680,328,132,7571,1267,271
 Describing Liberia	8574
+Describing the NGDX	18132
 Describing the National Regulatory Sandbox	11751
+Descrip	18318
 Descrip-	15901
 Descripción Códig	16875
 Descriptif	15583,318
 Descriptif Ce	15583
 Descriptif L'observatoire OBSYDYA	16281
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66,139,4,1,2,7,17,134,164,55,14,201,9,7,42,5,1,1,47,37,4,24,46,27,9,122,8,58,13,16,35,20,27,27,13,18,17,71,154,73,28,2,15,80,50,49,3,26,49,1,2,9,3,4,35,3,11,23,109,4,4,29,6,7,27,1,51,16,100,41,35,8,85,44,6,6,26,14,67,4,1,2,24,142,13,75,31,20,4,2,1,1,1,2,10,3,11,3,31,24,3,5,36,7,50,27,43,57,46,2,19,5,40,80,93,493,21,16,2,9,8,30,66,55,24,14
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66,139,4,1,2,7,17,134,164,55,14,201,9,7,42,5,1,1,47,37,4,24,46,27,9,122,8,58,13,16,35,20,27,27,13,18,17,71,154,73,28,2,15,80,50,49,3,26,49,1,2,9,3,4,35,3,11,23,109,4,4,29,6,7,27,1,51,16,100,41,35,8,85,44,6,6,26,14,67,4,1,2,24,142,13,75,31,20,4,2,1,1,1,2,10,3,11,3,31,24,3,5,36,7,50,27,43,57,46,2,19,5,40,80,93,493,21,16,2,9,8,30,66,55,24,14,8,6,13,41,16,111,11,8,11,54
 Description ADC	594,2
 Description AF Additional Financing AGETIP Public	15731
 Description AFC	240,90,119,593
@@ -465,10 +470,12 @@ Description Frequency Datasource	15518
 Description Frequency Datasource Collection Collection	1284,12048,3590
 Description From the Conseil	3780
 Description Funding	1059
+Description Funds	18294,6
 Description Further	466
 Description GSMA Mobile Industry Leadership	214
 Description German	3604
 Description Goals	1155
+Description Goin' Digital	18345
 Description Google	673,1,841
 Description Google CEO Sundar Pichai	776
 Description Google's AI	2209
@@ -804,6 +811,7 @@ Description Third BII	2139
 Description This Action	1069
 Description Through	1066
 Description Title	12013
+Description Title Power of Data	18175
 Description Total Arrears	14546
 Description Transfers-dominated	2898
 Description Trotz	503
@@ -918,7 +926,7 @@ Description1 Unit Unit Cost2 Per	13037
 Descriptions	5773,6473,4868
 Descriptions Demande	15908
 Descriptive	2948,5428,2505,1122,376,4770,594
-Descriptive Statistics	17007
+Descriptive Statistics	17007,1311
 Descriptive Statistics for Civil Registry Professionals	17007
 Descripture	16978
 Descrito	9694
@@ -934,9 +942,10 @@ Descuentos Num. PERSONAL Mensual Integro Impuestos	4209
 Descuentos Percibir Mensual	4209
 Design Description	10765
 Designação Descrição	2816
-Detailed Project Description	15372,39,2030
+Detailed Project Description	15372,39,2030,852
 Detailed Project Description AFRICA	15372
 Detailed Project Description GABON	15411
+Detailed Safeguards Descriptions	18293
 Diagram Number Property Description GP Number	12511
 Diego HP Descande	12478
 Digit DESCRIPTION Postcode Zone Group of Postal	11129
@@ -944,6 +953,7 @@ Dignity Job Description Writing	11131
 Direção-Geral de Descen	11527
 Discovery and Descriptive Metadata Management	16947
 Document Control No Author Description Date	13037
+Document Description	18286
 Dus Description	15129
 E-I17-2 E-I17-3 E-I17-4 Action Description Develop	15713
 ENCOURAGE LOCAL PRODUCTION HS Code Description	13122
@@ -977,11 +987,12 @@ Fase Pagamento Entregáveis Descrição Tipo	12021
 Feb-2026 No Conditions Type Description of Conditions	15138
 Female Description	11525
 Female Description Percentage	15661
-Financial Management No Summary Description	15969
+Financial Management No Summary Description	15969,2390
 Financing Agreement Description Under Category	10964
 Financing II. Description of Additional Financing III	13734
 Financing. Sections and Description FA	10829
 Financing. Sections and Description Per ESCP	10829
+Financés Description	18297
 Fixed Telephony Services License Process Description	15283
 Forest Plantation Description Forest	17140
 Formula Scalable Description Captures	11905
@@ -1021,6 +1032,7 @@ Hdt Description	15129
 Heading H.S Code No. Description Unit	6921
 Heading HS Code No. Description Unit	6921
 I Code Description	11180
+I. DESCRIPTION COMPLÈTE DU PROJET	18118
 I. Description	16924
 I. PROJECT DESCRIPTION	11855
 I. PROJECT DESCRIPTION A. Project Development	11855
@@ -1042,14 +1054,14 @@ II. DESCRIPTION DU PROJET ET	15746
 II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605,9076,3173,644,201,913,26
 II. DESCRIPTION OF ADDITIONAL FINANCING A	16896,26
 II. DESCRIPTION OF ADDITIONAL FINANCING Proposed	15782
-II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180,10313,5,831,167,63,155
-II. DESCRIPTION OF PROPOSED CHANGES A	16032
+II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180,10313,5,831,167,63,155,2172
+II. DESCRIPTION OF PROPOSED CHANGES A	16032,2327
 II. Description	12220,4178
 II. Description of Proposed Changes	15693
 II. PROGRAM DESCRIPTION	11905,271,5282
 II. PROGRAM DESCRIPTION A. Government Program	11905,5553
-II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772,1605,554,24,3,35,68,38,2,82,401,240,565
-II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453,1914,1,2159,27,35,105,1,2,483
+II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772,1605,554,24,3,35,68,38,2,82,401,240,565,1155,197
+II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453,1914,1,2159,27,35,105,1,2,483,1960,197
 II. Project Description	13743
 III. DESCRIPTION DES ASPECTS TECHNIQUES	10836
 III. DESCRIPTION DES METHODOLOGIES DES PRINCIPALES	17945
@@ -1126,6 +1138,7 @@ Layer Component Description References Contextual	9128
 Legal Covenants Conditions Description	11855
 Legal Covenants Sections and Description FA	15621
 Legal Covenants Sections and Description Financing Agreement	10964
+Legal Covenants Sections and Description Notwithstanding	18104
 Legal Covenants Sections and Description Page	11525
 Legal Covenants Sections and Description Schedule	13331,2222
 Lesotho. No. Objective Description	12675
@@ -1197,8 +1210,9 @@ PIU. Sections and Description Schedule	10829
 POLICY COMPLIANCE Legal Covenants Sections and Description	17458
 POM. Action Description Report	17470
 PROGRAM ACTION PLAN PAP CHANGE TBL Action Description	16032
-PROJECT DESCRIPTION	11863,2075,549,2627
-PROJECT DESCRIPTION A. Project Development Objective	11863,1993,82
+PROJECT DESCRIPTION	11863,2075,549,2627,1179
+PROJECT DESCRIPTION A. Project Development Objective	11863,1993,82,4355
+Page I. DESCRIPTION COMPLÈTE DU PROJET	18118
 ParentLearnerRelationship Describes	11180
 Personal Data. Sections and Description Schedule	15553
 Pfh Description	15129
@@ -1246,6 +1260,8 @@ REFERENCE GUIDE STRATEGY DESCRIPTION	6432
 REGULATORY FRAMEWORK DESCRIPTION	1988
 RELEVANT LICENCE SERVICE DESCRIPTION AS PER	14754
 RISK CATEGORY RISK DESCRIPTION RATING MITIGATION	13938
+RM Description	18297
+Rapports Description	18286
 Recommended Metadata Standards Suffix Description Domain	12360
 Ref. No. Description Estimated Cost	15411
 Ref. No. Procurement Method Description Estimated	15411
@@ -1308,6 +1324,7 @@ Sfs Description	15129
 Sft Description	15129
 Sfw Description	15129
 Signature Date. Description Schedule	13331
+Signature Date. Sections and Description	18104
 Sot Description	15129
 South Africa. I Code Description	11180
 Special Issues Descriptive Papers Visualisations About	12486
@@ -1376,8 +1393,10 @@ UrbanRural Describe	11180
 Urungwe Victoria Wankie Wedza Property Description	12511
 Use Only Action Description Maintain E&S	17470
 Use Service Category Description Deployment Model	6432
+V. DESCRIPTION DES ALTERNATIVES POSSIBLES AU	18118
+VI. IDENTIFICATION ET DESCRIPTION DES MESURES	18118
 VIDEO DESCRIPTION	12011
-Version Description	13804,3562
+Version Description	13804,3562,971
 Version Description Useful	12006
 Version No. Description	15161
 Version Version Description	13084,675,2087,1319

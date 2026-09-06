@@ -115,7 +115,7 @@ Cibitoke	2625,10675,74,16,37,15,193
 Cibitoke Gitega	13300
 Cibitoke Gitega Karuzi Kayanza Kirundo Makamba	13442
 Ciblage	9824,5917,741
-Cible	643,629,9436,1236,1362,127,1189,958,93,126,137,76,316,394,1261
+Cible	643,629,9436,1236,1362,127,1189,958,93,126,137,76,316,394,1261,120
 Cible A1	15580
 Cible A2O1R1.5 Production	15580
 Cible A2O1R4.11 Préparation	15580
@@ -130,9 +130,10 @@ Cible Activités A2O3R2.1 Adhésion du Congo	15580
 Cible Nombre	15580
 Cible PNDS	16722
 Cible Réalisation	3396
+Cible Sources	18291
 Cible Valeur	15724
 Cibler	13390,2938,1599
-Cibles	10712,164,89,2468,1189,801,160,12,417,614,1218,23,15,101
+Cibles	10712,164,89,2468,1189,801,160,12,417,614,1218,23,15,101,333
 Cibles Ambassades	16328
 Cibles Contribuables	16328
 Cibles Entreprises	16328
@@ -214,7 +215,7 @@ Incidentes de Segurança Cibernética	3838,3132,3470,5460
 Incidentes de Segurança Cibernética Artigo	6970
 Incidentes de Segurança Cibernética Sectoriais	6970
 Indicateurs Axe Indicateur Cible	16328
-Indicateurs Cibles	15724
+Indicateurs Cibles	15724,2562
 Industrie Cible	15936
 Information Cible	17983
 LIMS Cible	13306
@@ -228,6 +229,7 @@ Lei de Segurança Cibernética	2816,4920
 Lei de Segurança Cibernética. Lei	6970
 Leis da Segurança Cibernética	7047
 Les Cible	16012
+Les Groupes Cibles Bénéficiaires	18100
 Loisirs Cible	15936
 MALI CIB C	17841
 MAYELIA Cible	15936
@@ -283,6 +285,7 @@ Province Bubanza Bujumbura Cankuzo Cibitoke Karusi	13442
 Quadro da Cibersegurança Nacional	11374
 RADIO CDN CIBITOKE	13324
 REGIMENTO DO CONSELHO NACIONAL DE CIBERSEGURANÇA	4147
+REPUBLIQUE DU SENEGAL SENEGAL Cible	18316
 Radio CDN CIBITOKE	13414
 Radio UPI CIBITOKE	13414
 Recherche Scientifique Cible	15936
@@ -305,6 +308,7 @@ Segurança Cibernética. Tabela	2816
 Sistema Nacional de Cibersegurança	9257
 Sistema Nacional de Segurança Cibernética	6970
 Sistema Nacional de Segurança Cibernética Artigo	6970
+Situation Cible	18291
 Sécurité Cible	15936
 Sénat Cible	15936
 Taux de Cible	643

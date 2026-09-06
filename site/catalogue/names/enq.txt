@@ -9,6 +9,7 @@ Activités A2O3R3.1 Enquête	15580
 Address for Submission and Enquiries The Project Coordinator	17328
 Administração Pública. Enquanto	16376
 Agricole EPAJ Enquête de Perception Auprès	17907
+Alcool Enquête	18291
 Article Enquiry Close	6387
 B. Enquête	13390
 B.3 Contribuinte Enquadrado	12018
@@ -23,6 +24,7 @@ C.3 Contribuinte Enquadrado	12018
 CAPÍTULO I ENQUADRAMENTO GERAL DAS QUESTÕES	11362
 CARACTÉRISTIQUES DE BASE DES ENQUÊTÉS	13300
 CARACTÉRISTIQUES DES ENQUÊTÉS	13300
+CARACTÉRISTIQUES DES PERSONNES ENQUÊTÉES	18312
 CHAPITRE XII DES ENQUETES Artlcle	15429
 CODE APPROPRIÉ ENQUÊTÉ MINEUR ENQUÊTÉ MINEUR	13300
 CODE APPROPRIÉ ENQUÊTÉE A REFUS	13300
@@ -46,6 +48,7 @@ Culture Enquêtes CamerPressAgency Vérifie Vidéos Accueil	9916
 Culture Enquêtes CamerPressAgency Vérifie Vidéos CAMER	9916
 Customer Enquiry Management System	12041
 DE ANNÉE L'ENQUÊTEUR No ENQUÊT RÉSULTAT	13300
+DE L'OBLIGATION DE REPONSE AUX ENQUETES	18095
 DES ENQUETES	15595
 DES ENQUETES ET DE LA COOPERATION	16177
 DES ENQUETES ET ETUDES SPECIFIQUES	15595
@@ -57,7 +60,7 @@ DROIT D’ACCES ET ENQUETE Ondaye	15901
 Desenvolvimento de Governo Eletrónico EGDI Enquanto	11569
 Deuxième Enquête Nationale Sur Les Effectifs	17945
 Directeur des Enquêtes	8269
-Direction des Enquêtes	15666
+Direction des Enquêtes	15666,2503
 Disciplinary Enquiries	11134
 Division des Enquêtes	17446
 Divisional Enquiry and Prosecution Supervisor	14760
@@ -70,7 +73,7 @@ EDS-BF Enquête	15961
 EDSM Enquête	17843
 EESI Enquête	15501
 EFSA Enquête	15580
-EHCVM Enquête	15580,1040
+EHCVM Enquête	15580,1040,1696
 EICVM Enquête	15961
 EMC Enquête	15961
 ENC Enquête	15961
@@ -159,15 +162,17 @@ Enquiry Appointed	11289
 Enquiry Committee	14774
 Enquiry Consumer Complaints FAQs Consumer Complaints	9109
 Enquiry Points	12389
-Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6,285,528,33,51,5,14,49,38,78,3,50,9,4,43,141,28,25,169,120,19,12,70,3,11,19,71,161,4,16,8,78,726,26,15,26,313,14,2,1,4,18,78,33,99
+Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6,285,528,33,51,5,14,49,38,78,3,50,9,4,43,141,28,25,169,120,19,12,70,3,11,19,71,161,4,16,8,78,726,26,15,26,313,14,2,1,4,18,78,33,99,22,1,4,65,24,11,82,5,6,19,6,15,85
 Enquête ANEMCAM	10965
 Enquête ARTICLE	37
 Enquête Agricole	17945
+Enquête Agricole Annuelle	18422
 Enquête Agricole Annuelle. Cette	9286
 Enquête Agricole Annuelle. Parallèlement	9286
 Enquête Agricole de Conjoncture	9553,8392,33
 Enquête Agricole de Conjoncture EAC	9553
 Enquête Agricole de Conjoncture EMOP	17842
+Enquête Budget Temps	18291
 Enquête CAP Genre MASEF	17844
 Enquête CAP SR Santé	17844
 Enquête CPS	17845
@@ -177,11 +182,14 @@ Enquête CPS-SSDSPF	17842
 Enquête Camerounaise	10965,4577
 Enquête Camerounaise Aupres de Menages	15601
 Enquête Congolaise	15423,262
+Enquête Continue	18286,26
 Enquête Djiboutienne	11271
 Enquête Démogra-	18077
-Enquête Démographique	13300,446,876,801,52,43,81,86,352,1805,2,101,1,32
+Enquête Démographique	13300,446,876,801,52,43,81,86,352,1805,2,101,1,32,122,191,21
 Enquête Démographique de Sante de Santé	17945
 Enquête EDS	17843
+Enquête Eau- CPCSP	18291
+Enquête Emploi	18291
 Enquête FAT Note	7655
 Enquête FAT. Note	7655
 Enquête FSMS	17844
@@ -202,12 +210,13 @@ Enquête Multisectorielle Continue	30
 Enquête Multisectorielle Continue EICVM	737
 Enquête Ménage	13300
 Enquête National	737,17208
-Enquête Nationale	10874,2516,2295,751,1073,333,2,101,1,32
+Enquête Nationale	10874,2516,2295,751,1073,333,2,101,1,32,122,104,218
 Enquête Nationale Agricole du Burundi	13325
 Enquête Nationale Budget Temps	16246
 Enquête Nationale Sur La Situation Nutritionnelle	13325
 Enquête ONEF	17842
 Enquête Par Grappes	17945
+Enquête Pauvreté	18291
 Enquête Permanente	14495,81,3268,41,60,142
 Enquête Point Prévalence Survey	14622
 Enquête Post-Censitaire	9277,7396
@@ -221,26 +230,34 @@ Enquête SMART Appui	17844
 Enquête SMART Valeur	643
 Enquête STEPS	15724
 Enquête STEPwise Santé Min Santé	17844
-Enquête TIC	3159
+Enquête Sénégalaise	18291
+Enquête TIC	3159,15045
+Enquête TIC RTP P1	18291
 Enquête WHODAS	14622
 Enquête de Fécondité	15475
+Enquête de Min. Microfinance	18291
+Enquête de Satisfaction des Usagers des Services	18422
+Enquête de Suivi	18291
 Enquête de Séroprévalence	15423
 Enquête de Séroprévalence Nationale	14622
-Enquêtes	7655,1236,1983,104,1065,1282,919,181,1004,50,116,117,136,327,75,370,826,382,16,1,100,37
+Enquêtedesatisfaction	18297
+Enquêtes	7655,1236,1983,104,1065,1282,919,181,1004,50,116,117,136,327,75,370,826,382,16,1,100,37,309
+Enquêtes Cadre	18291
 Enquêtes Démographiques	10874,2426,25,3096,1524,64
 Enquêtes Harmonise	17945
 Enquêtes Harmonisées	11581,6364
 Enquêtes MICS	13300
 Enquêtes Modulaire	17945
+Enquêtes Modules	18291
 Enquêtes Multisectorielles Continues ENES	10874
 Enquêtes OUI	17845
 Enquêtes PS-SNISS	17845
 Enquêtes Statistiques	2625
 Enquêteur	13390
-Enquêteurs	13390
+Enquêteurs	13390,4901,46
 Enquêtez	10070
 Enquêté	13300,90
-Enquêtés	13300,90
+Enquêtés	13300,90,4922
 Enquêtés Niveau	13300
 Etude Sur L’Harmonisation Des Enquêtes EMOP	17945
 Etude Sur L’harmonisation des Enquêtes EMOP	17945
@@ -259,11 +276,14 @@ III.2.4.3. Enquêtes	15685
 INSP Enquêtes	17845
 Impact Environnemental ENE-SI Enquête Nationale	17907
 Information Enquête Démographique SIPSES Hospitalier EPST	17845
+Information Statistique DER Direction des Enquêtes	18169
 Institut. Enquête	16250
 Ivoire ENQUÊTE	15711
 Jeanine ENQUÊTEURS	13300
 Jeunesse EPCV Enquête	17907
 LA REPUBLIQUE DU BURUNDI ENQUÊTE NATIONALE	13390
+La Direction des Enquêtes	18169
+La Division des Enquêtes	18169
 Le Sous Système des Enquêtes	17845
 Lei de Enquadramento da Proteção Social	11547
 Les Enquêtes	10874
@@ -284,6 +304,7 @@ N CODE APPROPRIÉ ENQUÊTÉ A REFUSÉ	13300
 N CODE APPROPRIÉ ENQUÊTÉ MINEUR ENQUÊTÉ	13300
 N'EST PAS ENQUÊTÉE	13300
 NDICE Sumário Executivo Enquadramento PARTE II	11366
+NIGER RAPPORT ENQUÊTE DÉCEMBRE	18169
 National Enquiry Point	14225
 National Enquiry Point for Technical Barriers	14736
 Organization EICV Enquête Intégrale	15056
@@ -294,10 +315,15 @@ Police Enquiry	14760
 Population Déchets Solides Municipaux Enquête Harmonisée	17978
 Premier Ministre. TITRE II DES ENQUETES	17535
 Project ECVMH Enquête Harmonisée	15661
+RAPPORT FINAL ENQUETE TIC 2025 Validation 09 04 2026.pdf	18204
+RESUME L’ Enquête	18204
+Rapport Enquête Démographique	18286
+Rapport Enquête Nationale	18286
 Reports and Enquiry Facilities	12364
 Reports and Enquiry Facilities The ZIPSS	12364
 SDI SIGE Enquête	17885
 SDR- Enquête Agricole De Conjoncture Campagne	17945
+SEN-ANSD-RNU-2025-V1 Titre Enquête	18337
 SI ENQUÊTÉ MINEUR	13300
 SI LA MÈRE EST ENQUÊTÉE	13300
 SIREE Enquêtes	17845
@@ -306,9 +332,11 @@ SUPERVISION ENQUÊTE PRINCIPALE BAVAKURE Juvenal	13300
 Santé EDSB-III Troisième Enquête Démographique	13300
 Santé RÉPUBLIQUE DU BURUNDI Troisième Enquête	13300
 Santé SIREE Enquête Démographique Système	17845
+Sida Enquête	18291
 Supérieure EPAM Enquête Permanente Auprès des Ménages	12
 Système Enquête Etude	17845
 Sécurité Sociale MICS Enquête	15580
+Sénégal Enquête Démographique	18312
 T3 Enquête EDS-MICS	16722
 TBT Enquiry Point	13320
 TBT National Enquiry Point	14736

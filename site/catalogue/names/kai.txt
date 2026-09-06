@@ -7,6 +7,7 @@ Donna Kaidou Jeffrey IEGEC	10779
 Dr. Kaire Mbuende	12986
 EAPC Kairindi CYDC Data Processor INST-8808108CFFF	7167
 Egbin 1 Kainji 1 Ihovbor 2 Jebba 1 Delta 1 Zungeru 1	12062
+Egbin 1 Kainji 1 Zungeru 1 Jebba 1 Ihovbor 2 Delta 1	18217
 Feysal Kaireh Chirdon	13935
 GIZ's Kai Straeler-Pohl	12141
 GIZ's Programme Manager Kai Straehler-Pohl	12141
@@ -36,7 +37,7 @@ Kaimosi Friends University	14546,95
 Kaimu Mkurugenzi	7935
 Kaindjee	12475
 Kainja	14190
-Kainji 1	12062
+Kainji 1	12062,6124,31
 Kainji 1 Egbin 1 Ihovbor 2 Jebba 1 Delta 1 Zungeru 1	12062
 Kainji 1 and Dadin-Kowa 1	12062
 Kainji 1 and Jebba 1	12062
@@ -76,6 +77,7 @@ Kanto Kai Okanta The African Telecommunications	6007
 Kanto Kai Okanta The Botswana Communications	4709
 Kanto Kai Okanta The International Telecommunication	6427
 Kanto Kai Okanta Zimbabwe's Minister of ICT	13456,144
+Koubia Kaina	18191
 Li Fa CHEUNG KAI SUET	14734
 Lunda-Sul JORDÃO MANGUENDA KAINDA BAPTISTA	10751
 M. Feycal Kaireh Chirdon	3370
@@ -111,3 +113,5 @@ Watipatsa Kaime	12978
 Wendy Kaizer-Philander	17741
 Yaya Kairaba Kaba	16684
 Younes Idrissi Kaitouni	17496
+Zungeru 1 Egbin 1 Jebba 1 Delta 1 Kainji 1 Shiroro 1	18186
+Zungeru 1 Egbin 1 Kainji 1 Jebba 1 Ihovbor 2 Delta 1	18217

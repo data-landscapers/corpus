@@ -223,6 +223,7 @@ Centre Hospitalier Mère	18025
 Centre Hospitalier National CHN	17907
 Centre Hospitalier Régional Estuaire	16001
 Centre Hospitalier Régional Estuaire-Melen	16099
+Centre Hospitalier Régional de Diffa	18238
 Centre Hospitalier Universitaire	15475,700,1828
 Centre Hospitalier Universitaire CSCOM	17824
 Centre Hospitalier Universitaire Départemental CHUZ	15475
@@ -246,11 +247,12 @@ Centre Hospitalo-Universitaire Ibn Sina	17517
 Centre Hospitalo-Universitaire de Kamenge	4363
 Centre National Hospitalier	15475
 Centres Hospitaliers	15936
-Centres Hospitaliers Régionaux	16195,1648
+Centres Hospitaliers Régionaux	16195,1648,262
 Centres Hospitaliers Spécialisés	17843
 Centres Hospitaliers Universitaires	17845
 Centres Hospitaliers de Reference Regionale	14442
 Centres Hospitaliers de Reference de District	14442
+Centres Hospitaliers de Référence	18105
 Centres Hospitaliers de Référence de District	14622
 Cessation of Hostilities Agreement	12500
 Cessation of Hostilities Agreement. Reports	14008
@@ -496,6 +498,7 @@ Hospital Geral	11429,3,47
 Hospital Geral da Beira	12821
 Hospital Geral de Mavalane	12821
 Hospital Health Information System	12207
+Hospital Hygiene	18370
 Hospital Information System	3604,12017,2249
 Hospital Information System Maturity Model	1824,10431
 Hospital Information Systems	14398
@@ -526,6 +529,7 @@ Hospital Policlínico	4209
 Hospital Primary and Secondary School	11857
 Hospital Provincial	5296
 Hospital Psiquiátrico da Trindade	15689
+Hospital Quality	18370
 Hospital REKA NONGERE NKAREBE NARINJE HO	12328
 Hospital Ramiro Figueira	15590
 Hospital Regional de Bata Bata	4209
@@ -556,6 +560,7 @@ Hospital de Mongomo Mongomo	4209
 Hospital de Nsork	4209
 Hospital de Sampaka	4209
 Hospital la Paz de Ebibeyín	4209
+Hospital-acquired	18370
 Hospital-based	15342
 Hospital-wide HMIS	2709
 Hospitalar	5020,12080
@@ -585,7 +590,7 @@ Hospitalizations	10780
 Hospitalized	16902
 Hospitalized After Rwanda’s Crackdown	5889
 Hospitalized Jewel Howard-Taylor	10405
-Hospitals	1824,3561,315,966,1939,564,937,598,1153,99,24,937,503,1146,1986,334,65
+Hospitals	1824,3561,315,966,1939,564,937,598,1153,99,24,937,503,1146,1986,334,65,1419
 Hospitals Clinics Laboratories Other Major	8605
 Hospitals District	15056
 Hospitals General	11857
@@ -612,6 +617,7 @@ Host China	16870
 Host Communities	1988,9912,397
 Host Communities Project	1988
 Host Communities RPRF Policy Dimensions	11900
+Host Communities Support Project	18104
 Host Communities The Ministry of Gender	11900
 Host Communities and Refugees The World Bank	11924
 Host Community	1778,210
@@ -628,6 +634,7 @@ Host Liberia Technology Summit	7485
 Host MDAs	7548
 Host Major Global Digital	15679
 Host November Host Community	1988
+Host Operations	18198
 Host Public Consultations	12675
 Host Regional Cyberdrill	3096
 Host the Nation's Third Internet Exchange Point	3139
@@ -671,6 +678,7 @@ Hosting Service Provider	762
 Hosting Service Provider License	762
 Hosting Service Provider Minimum Requirements	15590
 Hosting Services Design	16867
+Hosting WTDC-25	18349
 Hosting of International Events	6946
 Hosting of Strategic Events The Research Council	1554
 Hosting the AFCFTA	14311
@@ -700,6 +708,7 @@ Information Hospitalier	3604,12332,505,1401,3,37
 Information Hospitalier SIMR	14442
 Information Hospitalier SIS Système	13306
 Information Hospitaliers	16441,1441
+Information Hospitalière	18297
 Integrated Population of Refugees and Host Communities	12297
 Interconnection and Local Hosting	14879
 Internal Security MORHCSA Modernization of Refugee and Host	1867
@@ -849,6 +858,7 @@ Network IXPs Hosting Cloud	10861
 Neutral Host Models	5245
 Neutral Hosts	16812
 Ngwempisi and Hosea Tinkhundla Centres. Funds	12970
+Niger Refugees and Host Communities Support Project	18104
 North-Western Province. The Zambia Refugees and Host	1778
 Nuevo Hospital de Mongomo	4209
 Nuevos Hospitales	4209
@@ -869,6 +879,7 @@ Osaka Metropolitan University Hospital	3760,9683
 Oshakati State Hospital	12947
 Otjiwarongo New Hospital	12933
 PORTANT LOI HOSPITALIERE	17861
+POUYE General Hospital of Grand Yoff	18305
 PREPARATIONS FOR HOSTING	13673
 PURA Hosts ECOWAS Regional Electricity Regulatory	17251
 PURA Hosts Stakeholders	16889,362
@@ -990,6 +1001,7 @@ Sir Ketumile Teaching Memorial Hospital	12606
 Sir Seewoosagur Ramgoolam National Hospital	14805,24
 Sistema Nacional Integrado de Gestão Hospitalar	11394,67
 Solicitor-General. The Zambia Refugee and Host Communities	1988
+Solutions for Internally Displaced and Host Communities	18263
 Specialised Hospital	12976
 Specialised Hospitals	14773
 Specialized Hospital	1261

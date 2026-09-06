@@ -34,7 +34,7 @@ Added Tax Withholding Agent	17108
 Adjudant GANIYOU ETOUGHE NJIFAKOUO Abdel. Agent	16381
 Aduanero Agente Gendarme Marinero Soldado	4209
 Africa Building the Agentic Future	6441
-Agent	573,163,2453,192,324,1143,717,342,1075,1339,1954,97,396,68,20,20,1084,235,252,738,115,14,19,57,332,106,24,579,335,231,133,231,38,17,15,1,46,64,53,36,4,35,3,59,12,3,352,18,54,465,242,939,41,41,83,94
+Agent	573,163,2453,192,324,1143,717,342,1075,1339,1954,97,396,68,20,20,1084,235,252,738,115,14,19,57,332,106,24,579,335,231,133,231,38,17,15,1,46,64,53,36,4,35,3,59,12,3,352,18,54,465,242,939,41,41,83,94,128,120
 Agent Administratif Supérieur	17625
 Agent Authority Act	14843
 Agent Banking	11469
@@ -110,7 +110,7 @@ Agentic AI System	7548
 Agentic AI and Infrastructure Investments	6930
 Agentic AI and Infrastructure Investments.md	2209
 Agentic Era. Customers	6930
-Agents	1020,261,815,270,2073,583,665,2102,1572,1419,56,40,99,985,16,18,275,1,1042,2,61,13,64,972,113,180,95,49,48,88,129,243,47,9,53,2,62,53,5,35,8,77,49,116,51,63,100,229,37,5,60,163,239,44,359,132,475,3,13,3,21,194
+Agents	1020,261,815,270,2073,583,665,2102,1572,1419,56,40,99,985,16,18,275,1,1042,2,61,13,64,972,113,180,95,49,48,88,129,243,47,9,53,2,62,53,5,35,8,77,49,116,51,63,100,229,37,5,60,163,239,44,359,132,475,3,13,3,21,194,29,14,167
 Agents ARSEL	10975
 Agents Commerciaux	13390
 Agents Commerciaux FEUILLE	13390
@@ -119,6 +119,7 @@ Agents Comptables	17861
 Agents MWK	14674
 Agents Permanents de I'Etat	15366
 Agents Publics	16365
+Agents Techniques	18169
 Agents de Déclaration Villageois ADV	18076
 Agents de I’Etat	16637
 Agents de Maîtrise	10975
@@ -185,6 +186,8 @@ Customs Clearing Agents and Shipping Agents ARTICLE	14409
 D AGENT DE SANTÉ AGENT	13300
 D MENTIONNÉ. AGENT DE SANTÉ COMMUNAUTAIRE	13300
 DE LA RESPONSABILITÉ PÉNALE DES AGENTS	15999
+DES AGENTS DE SANTE EFJN ECOLE	18170
+DES AGENTS DE SANTE EPSM ECOLE	18170
 DES AGENTS ECONOMIQUES	15439
 DES OFFICIERS ET AGENTS DE L’ETAT	15792
 DISC-Mali Gestion des Agents	17882
@@ -201,11 +204,12 @@ Embajada A3 Agente Consular B3 Agregado	4209
 Embajador A2 Agente Consular B2 Agregado	4209
 Entities and Agents	16832
 Espace Agent	16685
-Exa Agent	9605,670,4591,776
+Exa Agent	9605,670,4591,776,2652
 Expand Agent Banking Services Agent	8184
 Expanding Agent and Branch Networks	7763
 Exports Clearing Agents Application Form CE	12454
 External Verification Agent	11560
+FORMATION PRIVE DES AGENTS DE SANTE	18170
 Flood Intelligence Agent	9561
 Flooding Agent Solution	16881
 Fluxos de Agentes	2816
@@ -240,6 +244,7 @@ Kiosk USSD Apps POS Agents QR	12000
 L'ENDROIT AGENT DE SANTÉ COMMUNAUTAIR	13300
 L'EXTERNALISATION ET AUX AGENTS Section	10836,4799
 La Caisse Générale de Retraite des Agents	15936
+Land Bureau Agent	18293
 Launching the Agent Loyalty Scheme	10249
 Lead Arranger and Collateral Agent	4712
 Les Agents	16617
@@ -330,7 +335,7 @@ TAI’s Grant Agent	17196
 Tanzania. Agents	4439
 Tax Agent	11976,1574,1283
 Tax Agent Registration Number	14833
-Tax Agents	14784,49
+Tax Agents	14784,49,3485
 Tax Agents and Tax Representatives	14533
 Technical Contact Agent Tel. E-mail	736
 Telecel Agent Loyalty Scheme	10249

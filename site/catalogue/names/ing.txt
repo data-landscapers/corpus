@@ -151,6 +151,7 @@ INGINGO ZISOZA Ingingo	15027,150
 INGINGO ZITANDUKANYE N'IZISOZERA Article	13303
 INGINGO Z’INZIBACYUHO N’IZISOZA CHAPTER VII	14862
 INGLATERA	4209
+INGO Forum	18215
 INGO Group	13312,2
 INGO International Non-governmental Organisation	15220
 INGO Tech	13312,2
@@ -291,26 +292,35 @@ Ingwate	15102
 Ingwe	3791
 Ingwe MM	3791
 Ingénie	17827
-Ingénierie	2961,434,3606,3854,4432,135,2,118,391,170,127,92,163,121,978
+Ingénierie	2961,434,3606,3854,4432,135,2,118,391,170,127,92,163,121,978,553,149,38
 Ingénierie Clinique	11892,3595,951,3
 Ingénierie Financière	6163
 Ingénierie Logiciel	15529
 Ingénierie de Développement	17991
 Ingénierie. Il	10893
 Ingénieries	10855,2486
-Ingénieur	3191,2635,1707,137,599,52,357,831,1384,4561,88,60,69,3,2,266,19,326,126,83,49,82,24,849,312,5,10,2,12,20,38,66,17,50
+Ingénieur	3191,2635,1707,137,599,52,357,831,1384,4561,88,60,69,3,2,266,19,326,126,83,49,82,24,849,312,5,10,2,12,20,38,66,17,50,172,87,6,27,76,2,1,9
 Ingénieur Agronome	10914
 Ingénieur Associations	17827
 Ingénieur Chef de Section Professeur	17827
 Ingénieur Cybersécurité	2413
 Ingénieur Cybersécurité. L’objectif	16639
+Ingénieur Exploitation	18395
+Ingénieur Géomètre	18324
 Ingénieur Informaticien. Vu le Décret	18032
 Ingénieur Le Ministre	17817
+Ingénieur Réseaux	18395
+Ingénieur SI	18297
+Ingénieur Statisticien Economiste	18169
+Ingénieur Statisticien Economiste ISRA	18291
 Ingénieur Statisticien Informaticien	13937
 Ingénieur Statisticien-Economiste	13937
+Ingénieur Systèmes	18395
+Ingénieur Sécurité Cloud	18395
 Ingénieur Vu le Décret	17861
 Ingénieur de ARTICLE	17817
 Ingénieur de Constructions Civiles	17812
+Ingénieur de Contrôle KWH	18118
 Ingénieur de Génie Civil	15542
 Ingénieur des	17982
 Ingénieur des A Constructions	17982
@@ -320,18 +330,26 @@ Ingénieur des Constructions	17982
 Ingénieur des Constructions Civiles	17817
 Ingénieur des Secrétaires Constructions	17982
 Ingénieur des Travaux Statistiques	13937
+Ingénieur des Travaux Statistiques MAPS	18291
+Ingénieur des Travaux Statistiques OOAS Organisation Ouest	18169
 Ingénieur-Conseil	15542
 Ingénieur-géomètre	7670
 Ingénieurconseil	15542
 Ingénieure	17899
 Ingénieure Senior	16545
-Ingénieurs	1993,6728,6650,2129,399
+Ingénieurs	1993,6728,6650,2129,399,206,186
 Ingénieurs Abderhamane Baba Touré	17983
 Ingénieurs Chargé	17899
 Ingénieurs Civils	15371
 Ingénieurs Cybercriminalité	17899
 Ingénieurs ISCAE Institut Supérieur de Comptabilité	17907
+Ingénieurs Informaticiens	18169
 Ingénieurs Sous-directeur Chef de Division	17899
+Ingénieurs Statisticiens	18169
+Ingénieurs Statisticiens Economistes	18169
+Ingénieurs de Pratique Statistique	18169
+Ingénieurs des Pratiques Statistiques	18169
+Ingénieurs des Travaux Statistiques	18169
 Ingénieurs-Abderrahmane Baba TOURE ENSUP Ecole Normale	12
 Ingérence	6959
 Innovation Ingénieur	17827
@@ -484,6 +502,7 @@ Sistema Integrado de Gestión de Ingresos Tributarios	16930
 Siège de RDB Ingingo	14862
 Siège de RSB Ingingo	14863
 Solution Ingénieur	2441
+Statistique ISE Ingénieur Statisticien Economiste	18169
 Statistique du Rwanda. Ingingo	14862
 Sudan INGO Forum	15342
 T BAYOUR INGENIERIE CONSEILS BIC	16623

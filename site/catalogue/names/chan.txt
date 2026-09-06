@@ -244,12 +244,15 @@ Chance Find Procedure	1988
 Chance Find Procedures	1988
 Chance Find Process	17114
 Chance Finds	17114
+Chance Finds Procedures	18374
 Chance- Stands Fund Land	4896
 Chance-Find	17114
 Chance-find	17114
 Chancel	15524
 Chancel Martinez	16177
 Chancel Vignol	15692
+Chancelier Friedrich Merz. AU TITRE	18400,2,1
+Chancelier des Affaires	18412
 Chancelle Espérance	15744
 Chancellerie	11090,4846
 Chancellerie Nationale	17824
@@ -259,7 +262,7 @@ Chancellor of The Gambia University of Applied Science	17347
 Chancen	696,205,521
 Chancen International Women	14997
 Chancery	17105
-Chances	7910,1327,6259
+Chances	7910,1327,6259,2801
 Chancia Yasmine AVANDO TAIKA	16175
 Chancie Love	15615
 Chanco	12242
@@ -286,7 +289,7 @@ Changamoto	11643,5932
 Changamwe	12256
 Changamwe and Diani Market	1236
 Changarara	1248
-Change	21,12,729,137,114,215,56,544,116,152,377,254,776,211,173,501,975,170,890,9,39,477,803,625,74,220,459,1592,38,57,19,2,1,99,23,8,12,37,78,34,5,1,63,672,16,1,1,1,63,3,10,41,56,90,1,1,9,54,61,44,11,5,2,1,11,1,11,21,25,58,20,8,28,1,10,4,190,164,5,41,20,58,18,2,34,114,101,21,4,4,6,156,98,1,292,573,30,245,11,23,65,17,59,6,14,41,13,20,179,309,5,112,11,3,30,29,62,77,43,91,96,112,719,21,38,13,14,14,15,18,15,68,61,95,1,21,32,75,121,18,240,106,13,7
+Change	21,12,729,137,114,215,56,544,116,152,377,254,776,211,173,501,975,170,890,9,39,477,803,625,74,220,459,1592,38,57,19,2,1,99,23,8,12,37,78,34,5,1,63,672,16,1,1,1,63,3,10,41,56,90,1,1,9,54,61,44,11,5,2,1,11,1,11,21,25,58,20,8,28,1,10,4,190,164,5,41,20,58,18,2,34,114,101,21,4,4,6,156,98,1,292,573,30,245,11,23,65,17,59,6,14,41,13,20,179,309,5,112,11,3,30,29,62,77,43,91,96,112,719,21,38,13,14,14,15,18,15,68,61,95,1,21,32,75,121,18,240,106,13,7,235,82,31
 Change Accounting Period and Update Contact Details	14533
 Change Agent Cohort Review	11131
 Change Agent Training Workshop	6821
@@ -301,7 +304,7 @@ Change Best	12352,1
 Change Change Accounts	7763
 Change Change Rate	17236
 Change Communication SDG Sustainable Development Goal	16922
-Change Component	15969
+Change Component	15969,2390
 Change Contingent Emergency Response Component	16187
 Change Control Implement	11952
 Change Date	9892,1
@@ -377,6 +380,7 @@ Change Total NAD	1944
 Change Weight	11955
 Change and Adaptive Land Management	11407
 Change and Adoption	21
+Change and Development Report CERP Contingent Emergency	18198
 Change and Disaster Screening	15661,1288,509
 Change and Staff Management	13123
 Change of Accounting Period	14533
@@ -399,27 +403,30 @@ Changed Project's Development Objectives	16922
 Changed Results Framework	16896
 Changed The US	11154
 Changed The World Bank Mozambique	1228
-Changement	1005,6635,1251,274,560,654,1251,1853,1139,289,544,128,141,62,115,421,314,5,837,7,348,39,27,79,85
+Changement	1005,6635,1251,274,560,654,1251,1853,1139,289,544,128,141,62,115,421,314,5,837,7,348,39,27,79,85,234,13
 Changement Citoyen	17861
-Changement Climatique	1264,12438,1980,30,909
+Changement Climatique	1264,12438,1980,30,909,1479
 Changement Climatique CCNUCC	16621
+Changement Climatique Le Niger	18100
 Changement SigniÞca-	15901
 Changement SigniÞcatif	15901
 Changement SigniÞcatif Défa-	15901
 Changement SigniÞcatif Défavorable	15901
-Changement Social	17882
+Changement Social	17882,218
+Changement Social de Comportement. CSC	18100
 Changement de Catégorie SIGNATURE Airtel ARCEP	998
 Changement de Compor- IRA	15423
 Changement de Comportement	15658
-Changements	8891,6581,70,49,124,7,2,910
-Changements Climatiques	16621,1206
+Changement de Comportement IMF	18100
+Changements	8891,6581,70,49,124,7,2,910,1652
+Changements Climatiques	16621,1206,291
 Changements Climatiques CDN	16621
 Changements Climatiques CIPD Conférence Internationale	17907
 Changer	6954,438,1,5982,1917,1456,700
-Changes	236,482,18,476,884,447,232,114,162,451,212,939,243,137,214,286,785,1665,39,279,1066,740,173,479,5,21,50,2,1,130,2,7,142,12,2,1,22,81,21,13,15,277,122,170,12,3,16,1,1,1,35,31,31,55,17,32,62,2,9,38,40,9,90,1,11,1,3,33,99,163,67,287,48,27,381,105,302,223,474,171,14,16,18,83,24,14,14,13,34,114,1,88,40,302,63,27,62,238,25,218,43,285,363,23,65,73,47,95,19,52,26,22,18,51,523,13,7,37,56
+Changes	236,482,18,476,884,447,232,114,162,451,212,939,243,137,214,286,785,1665,39,279,1066,740,173,479,5,21,50,2,1,130,2,7,142,12,2,1,22,81,21,13,15,277,122,170,12,3,16,1,1,1,35,31,31,55,17,32,62,2,9,38,40,9,90,1,11,1,3,33,99,163,67,287,48,27,381,105,302,223,474,171,14,16,18,83,24,14,14,13,34,114,1,88,40,302,63,27,62,238,25,218,43,285,363,23,65,73,47,95,19,52,26,22,18,51,523,13,7,37,56,163,176
 Changes Implementation Status and Results Report	17849
 Changes Operation Information Proposed Changes Disbursements	2473
-Changes Operation Information Proposed Changes Results	15969,218
+Changes Operation Information Proposed Changes Results	15969,218,2172
 Changes Results Yes Disbursements Estimates	16032
 Changes URL	12290
 Changes VII. Detailed Change	13734
@@ -477,7 +484,7 @@ ChannelAfrica-	5501
 ChannelDive	6471
 Channelling Arrangement Channel No. Center Frequency	12949
 Channelling Arrangement Channel No. Channel Centre	12949
-Channels	418,522,1048,3691,5454,908,229,89,2477,129,32,345,1536,236
+Channels	418,522,1048,3691,5454,908,229,89,2477,129,32,345,1536,236,1195
 Channels Branch ATM	12490
 Channels No One Can	7445
 Channels Offered	9781
@@ -498,6 +505,7 @@ Chantal Umulinga	15019
 Chantelle van Wyk	12478
 Chanter	13300
 Chantier	3665,5,4246,3059,3513,1,1,3417
+Chantier Paix	18412
 Chantiers Stratégiques	5071
 Chantre	11909
 Chanyalew	3791
@@ -513,19 +521,22 @@ Civil Protection NCCP National Climate Change	17962
 Classified Warning Signs No Change	10835,3,130,918,466,1,135
 Classified Warning Signs No Change Best	10835,3,130,918,602
 Clima GFC Global Forest Change GFOI	16875
-Climate Change	1264,564,160,1442,1,152,1664,1865,3201,405,50,195,1,47,120,52,27,362,79,212,37,65,241,50,153,1068,994,157,38,76,4,2,199,2,180,61,363,51,44,77,120,191,97,741,48,20,7,2,22,2,139,26,13,4,100,32,29,140,476
+Climate Change	1264,564,160,1442,1,152,1664,1865,3201,405,50,195,1,47,120,52,27,362,79,212,37,65,241,50,153,1068,994,157,38,76,4,2,199,2,180,61,363,51,44,77,120,191,97,741,48,20,7,2,22,2,139,26,13,4,100,32,29,140,476,184,80,107,4,61
 Climate Change Act	2626,4922,7194,2363,152
 Climate Change Adaptation	14007,1651
 Climate Change Adaptation and Mitigation	3604
 Climate Change Adaptation and Mitigation IN FOCUS	14897
 Climate Change Assessment	17157
 Climate Change Biodiversity	10601,5149
+Climate Change CCNUCC	18309
+Climate Change CDMS	18309
 Climate Change COVID-19 Coronavirus	15725
 Climate Change Centre	14744
 Climate Change Committee	14742
 Climate Change Development Report	11905,3754
 Climate Change Fund	5247
 Climate Change Funds CDMA Code Division	2775
+Climate Change GPRS	18309
 Climate Change Gender Action Plan	16947
 Climate Change Given	16874
 Climate Change IRENA International Renewable Energy	16942
@@ -559,6 +570,7 @@ Climate Change UNFCCC United Nations Forum	15129
 Climate Change USAID United States Agency	16949
 Climate Change VAITOS	14742
 Climate Change VAT Value Added Tax	14947
+Climate Change Vulnerabilities	18370
 Climate Change WB World Bank WARDIP	17114
 Climate Change and AI	4126
 Climate Change and Adaptation	11791
@@ -582,6 +594,7 @@ Climate Change and Green Growth Consultant	11863
 Climate Change and Green Growth. The Bank	14871
 Climate Change and Health	14622,2667
 Climate Change and Impacts Scenarios	16135
+Climate Change and Land	18293
 Climate Change and Macroeconomic Stability	4103,13132
 Climate Change and Natural Disaster Management	12946
 Climate Change and Natural Resources	7167,9800,6
@@ -595,8 +608,10 @@ Climate Change and Wildlife Honourable Speaker	17105
 Climate Change. C. Other Cross-cutting Priorities	11863
 Climate Change. SSBC	3583
 Climate Change. Sassan S. Saatchi	16875
+Climate Change. Senegal	18293
 Climate Change. Under	11417
 Climate Risks Climate Change and Natural Hazard	15659
+Climate Variability and Change PARM	18309
 Coalition of Patriots for Change	4127
 Collateral Agreement. A Financing Change Statement	14647
 Color Key Improvement Deterioration No Change	16260,988,4
@@ -783,6 +798,7 @@ Free-To-Air Direct-To-Home Single Channel	236,2540
 Frequency Usage Transmit Duty Channel	736
 Friendly Reporting Channel	6936
 Future As Transformative Change Third	11028
+G. Changes	18359
 G14 Change	9237
 GAINS DE CHANGE N	15999
 GAME CHANGER IN THE CRIME	11928
@@ -843,11 +859,11 @@ I. PROPOSED CHANGES	15102
 IA. CHANGEMENT	15583
 IHE Change Proposal Process	1009
 IHE Changing	1009
-II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180,10313,5,831,167,63,155
-II. DESCRIPTION OF PROPOSED CHANGES A	16032
+II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180,10313,5,831,167,63,155,2172
+II. DESCRIPTION OF PROPOSED CHANGES A	16032,2327
 II. Description of Proposed Changes	15693
 III. PROPOSED CHANGES	2473,13496,218
-III. PROPOSED CHANGES Operation Information Proposed	2473,13496,63,155
+III. PROPOSED CHANGES Operation Information Proposed	2473,13496,63,155,2172
 III. PROPOSED CHANGES Operation Information Summary	4653
 III.11 CHANGES IN ELECTRICAL ENERGY CONSUMPTION	15574
 IMF Climate Change Dashboard	17257
@@ -857,7 +873,7 @@ INFORMATIONS POINT DE CHANGE	17485
 INSTRUCTION GENERALE DES OPERATIONS DE CHANGE	17485
 INTERNATIONALE DEDIEE AU DROIT DE CHANGE	17385
 IRC Channel Master Norsat	998
-IV. DETAILED CHANGE	1228,1245,2180,11316,63,155
+IV. DETAILED CHANGE	1228,1245,2180,11316,63,155,2172
 IV. Proposed and Detailed Changes	15693
 IV.5 CHANGE IN FUEL CONSUMPTION HABITS	15574
 Identified Climate Change Related Risks and Proposed	15553
@@ -900,7 +916,7 @@ Jessica Ying Chan	11572
 Jessica Ying Chan. The World Bank	11572
 Jillie Chang	12948
 Jobs CLIMATE Climate Change and Disaster Screening	3562,7998
-Jobs Climate Change and Disaster Screening	10964,2368,2289
+Jobs Climate Change and Disaster Screening	10964,2368,2289,2680
 Join The Nation Channel Get	9960
 Join The Punch Newspapers Channel	5800
 Join The Punch Newspapers Channel Stay	9669,84
@@ -1009,6 +1025,7 @@ Minor UI Improvements Changed the Map View	15867
 Mix Changes Track	14707
 Mme AGHERO MBENDJICKA Chancia Olivia Service	16099
 Mme Adélaïde Chantal NGOVET	16099
+Mme Aissata Chanoussi	18144
 Mme Chancia Olivia AGHERO MBENDJICKA	16175
 Mme Gninga Chaning Zenaba	4780
 Mme Rosa Chanele Inyongi Ollessongo	16527
@@ -1043,6 +1060,7 @@ National Change and Commission Systems	7548
 National Change of Address	11129
 National Climate Change Act	13060
 National Climate Change Adaptation and Mitigation Strategy	12206
+National Climate Change Committee COMRECC	18309
 National Climate Change Fund	13060
 National Climate Change Management Policy	12964
 National Climate Change Policy	6539,10566
@@ -1052,6 +1070,7 @@ National Climate Change Steering Committee	17257
 National Climate Change Strategy	15604
 National Environment and Climate Change Fund	14738,4
 National ID. Channels	12269
+National Strategy for Climate Change Adaptation SNSES	18370
 National. Marie Chantal NIJIMBERE MINISTRE	13500
 Natural Resources and Climate Change Management	13060
 Nature Climate Change	15659,1498
@@ -1121,6 +1140,7 @@ PROGRAM ACTION PLAN PAP CHANGE TBL Action Description	16032
 PROGRAMME PERIMETER CHANGED NINEFOLD BETWEEN	2083
 PROGRAMME'S PERIMETER HAS CHANGED	4413
 PROPOSED CHANGES	15969
+PROPOSED RESTRUCTURING CHANGES BEFORE AFTER Initial	18359
 Per Channels TV	2658
 Per Diem Climate Change and International	1988
 Percentage Change	2775,12065,2081
@@ -1155,6 +1175,7 @@ Principal Climate Change and Green Growth Officer	11863
 ProVice Chancellor	1554
 Process Limitations for Changing Tariffs	16851
 Process Limitations for Changing Tariffs Changes	16851
+Program’s Theory of Change	18370
 Project Theory of Change Project Development Objectives	15731
 Proposed Changes	2889,10570,1507,1066,864,26
 Proposed Delivery Channels AI	14566
@@ -1179,6 +1200,7 @@ RECOMMENDATIONS FOR PROPOSED CHANGES IN GOVERNMENT	16872
 REIUP AF Revised Theory of Change	15983
 RELATIVE AU DROIT DE CHANGE POUR	17385
 RELEVANT NO. CHANGE IN INSTITUTION INTERNATIONAL	12201
+REVISED THEORY OF CHANGE E. Implementation	18359
 RIR. Changes	3502
 ROYAUME DU MAROC OFFICE DES CHANGES	17485
 RRA and NISR Sources of Revenue Change and Tax-to-GDP	14985
@@ -1194,6 +1216,7 @@ Recommended Communication Channels	5676
 Recommended Communication Channels NRAs	5676
 Recordal of Change of Patent Owner and Related Timeframe	12389
 Ref. Channel Plan	5245
+Regional Climate Change Committee CONGAD	18309
 Regional Distribution of Customer Connections Changes	12969
 Register Change	12898
 Register Changes	12389
@@ -1209,6 +1232,7 @@ Representative Change	12041
 Representing the Centre for Analytics and Behavioural Change	10729
 Requirements Change	12496
 Rescuing Social Change	6948
+Resilience and Land Climate Change and Disaster Screening	18293
 Results Framework Change	15601,2248,13
 Risks Likelihood Economic Impact Channels Policy	13868
 Rollout of Social and Behavior Change Communication	16922
@@ -1231,7 +1255,7 @@ SYSTEM CHANGES AND CHANGE CONTROL SECTION	12484
 Sales11 Change	11923
 Sarah Marie Chantal	16177
 Schools Leading Change	7444
-Score Change	17967
+Score Change	17967,217
 Second Chance	16086
 Second Schedule. Changes	736
 Second Vice Minister Huh Chang	10957
@@ -1321,7 +1345,7 @@ Television Channels	12982
 Television Programme Channel	2776
 Term Explanation FC Fibre Channel FCAPS	13185
 Theory Of Change.......17	13999
-Theory of Change	1228,56,1605,715,1049,1886,4229,1137,19,16,235,122,1035,658,968,39,514,90,3,54,1,4,39,2,27,653,52,516,8,179,319,391,13,100
+Theory of Change	1228,56,1605,715,1049,1886,4229,1137,19,16,235,122,1035,658,968,39,514,90,3,54,1,4,39,2,27,653,52,516,8,179,319,391,13,100,397,11
 Theory of Change Activities Outputs Intermediate Outcomes	15663
 Theory of Change Barriers	12175
 Theory of Change C. Project Beneficiaries	15743
@@ -1331,12 +1355,15 @@ Theory of Change Diagram	15424
 Theory of Change Diagram Table	17962
 Theory of Change E. Rationale for Bank Involvement	16949
 Theory of Change E. Rationale for World Bank	1264,14289,108
+Theory of Change Long-term	18301
 Theory of Change Page	10768,4833,543
 Theory of Change Pillar	14997
 Theory of Change Project Development Objectives	16952
 Theory of Change TTC	12175
 Theory of Change The ToC	12175
 Theory of Change UNESCO United Nations Educational	13990
+Theory of Change and PforR Indicators	18370
+Theory of Change and PforR Indicators The Program	18370
 Theory of Change and Results Chain KEY CHALLENGES	13331
 Theory of Change for Framing the National AI Policy	11265
 Theory of Change for WARCIP APL2 Supporting	17862
@@ -1387,7 +1414,7 @@ VSWIFT Change Management Strategy	13042
 Vandana Chandra ICR Review Coordinator Group	10779
 Varun Chandra	10433
 Version Changes Date V	14784
-Vice Chancellor	13688,1080
+Vice Chancellor	13688,1080,3447
 Vice Chancellor Justice Thwala	4058
 Vice Chancellor Professor Justice Thwala	13182
 Vice Chancellor Professor Q.C. Kanhukamwe	13688

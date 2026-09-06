@@ -230,6 +230,7 @@ Director of UNDP ICPSD	17173
 Disable Undisable Child Nutrition Health	15244
 Disbursed Undisbursed	6579,9040,1019
 Disbursed Undisbursed IDA-71820	1228
+Document UNDAF Sénégal	18286
 Document. Under	3503
 Donors UNDP	16943
 Dr. Rowland Cole. UNDP Malawi Malawi	13001
@@ -316,11 +317,12 @@ Fourth Reviews Under the Arrangements Under the Extended	17909
 Framework for Understanding Transformation	16266
 Framework for Understanding the Value of DPGs	4430
 Framing UNDP	7211
+Fraud Detection Under Limited State Capacity	18318
 Funding Instrument F1 Disbursement Under F1	14835
 Funding and Implementation Agreement. Under	13938
 Funding of Expenditure Under Article	14546
 Funds Government of Japan UNDP Funding Window	16973
-Funds Net Commitment Disbursed Undisbursed	2473
+Funds Net Commitment Disbursed Undisbursed	2473,15886
 G. Under	8127,321
 GBV. Under	15039
 GCF and UNDP	13752
@@ -380,15 +382,18 @@ ID Mauritania. UNDP	1833
 ID4D and UNDP	13005
 IDA Description Disbursement Under Category	10964
 IDA Under Category	10964,4657
+III. COMMITMENTS MADE UNDER NAP	18305
+III.COMMITMENTS MADE UNDER NAP	18305
 IMF Underwriting	11131,3
 INCOME TAX Under	11955
 INFRASTRUCTURE Absence of Undue Influence	10835,3,130,902,16,466,1,135
 INTIC and UNDP	11439
 IPv6. Under	1702
 ITB and CNRC. Under	4542
-ITU and UNDESA	10844
+ITU and UNDESA	10844,7279
 Identity Management Systems II. Under	6177
 Identity Underpinning	767
+Imo Beneficiaries Under Empowerment Programme URL	18243
 Impact UNDP Mauritius Contribution	11332
 Impact UNDP's Lesotho Country Office	12723
 Impact of UNDP Malawi Quarterly Progress Report	12241
@@ -486,6 +491,7 @@ MOTORBIKES SECURED UNDER DR. NYAN’S LEADERSHIP	10581
 MOU Memorandum of Understanding MSU Midlands State	12512
 MOU Memorandum of Understanding MTFF	11863
 MOU Memorandum of Understanding MTR Midterm Review	15511
+MOU. Under the MOU	18202
 MOZAMBIQUE Preamble This Memorandum of Understanding	4260
 MRV4Tanzania Inception Phase UNDP	8561
 MTN Group. Under	8581
@@ -513,10 +519,11 @@ Mbabane. The Memorandum of Understanding	13132
 Med. Supplies Under	12976
 Media COMMISSION FOR GENDER EQUALITY UNDERTAKES	11257
 Mediterranean Sea. Understanding	17157
-Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,215,801,28,1290,894,641,580,4,511,25,138,82,68,158,68,1425,124,635,797,229,418,425
+Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,215,801,28,1290,894,641,580,4,511,25,138,82,68,158,68,1425,124,635,797,229,418,425,1000,98
+Memoranda of Understanding ND-GAIN Notre Dame Global	18293
 Memoranda of Understanding. BOS	12706
 Memorandum Of Understanding	11923
-Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205,119,24,31,43,25,64,163,80,151,139,23,116,38,33,31,21,1,15,4,20,26,57,3,154,60,33,7,5,33,27,67,1,12,37,22,1,25,103,122,9,98,76,58,109,25,1,46,29,32,6,49,13,35,3,56,16,4,37,93,40,142,67,129,83,54,2,1,26,2,4,15,1,16,30,6,19,26,6,66,28,43,66,10,11,47,68,4,80,11,257,71,168,36,8,18,83,226,9,374,216,5,4,65,26,26,22,3,16,7,41,26,18,23,32,7,1,31,7,47,10,55,7,75,203,109,55,163,56
+Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205,119,24,31,43,25,64,163,80,151,139,23,116,38,33,31,21,1,15,4,20,26,57,3,154,60,33,7,5,33,27,67,1,12,37,22,1,25,103,122,9,98,76,58,109,25,1,46,29,32,6,49,13,35,3,56,16,4,37,93,40,142,67,129,83,54,2,1,26,2,4,15,1,16,30,6,19,26,6,66,28,43,66,10,11,47,68,4,80,11,257,71,168,36,8,18,83,226,9,374,216,5,4,65,26,26,22,3,16,7,41,26,18,23,32,7,1,31,7,47,10,55,7,75,203,109,55,163,56,189,48,17,23,8,7,2,46,27
 Memorandum of Understanding Artefact	2450
 Memorandum of Understanding MPOX	10776
 Memorandum of Understanding MRA Malawi Revenue Authority	13042
@@ -573,6 +580,7 @@ NamClear Managing Director Fabian Tait. Under	6988
 Namibia Memorandum of Understanding	1554
 National Data Centre Under DMAP	12253
 National Data Centres and Connectivity Accessories Under	12253
+National Domain. Under	18293
 National Electronic Government Plan Undertake	12453
 National Identity Database. Under DG Abisoye	3703
 Nations Development Programme UNDQAF United Nations	13359
@@ -586,10 +594,12 @@ Network Project. Under TEAM-9	16256
 Networks Malawi UNDP United Nations Development	14674
 Nigeria COVID-19 Under-Bond Cargo Management Automation	16631
 Nigeria Seeks Joint Protection of Undersea Cables	2677
+Nigeria and Finland Sign Memorandum of Understanding	18213
 Nigeria's Commitments Under the Agreement	12026
 Nigeria's Digital Transformation Under Tinubu Unrivalled	7651
 Nigeria's New VAT Regime for Non-Residents Under	7786
 Nigeria. Under	11714,5072
+Nigeria. Understanding	18230
 Ninth and Tenth Reviews Under the Extended Credit	17209
 Non-Disclosure Agreement and Memorandum of Understanding	8514
 None Revising the Approval Under	14997
@@ -752,6 +762,7 @@ Security Cluster MOU Memorandum of Understanding NATJOINTS	11188
 Security Under the Electronic Transactions Law	12294
 Security and Investigative Cooperation Under	17213
 Senegal River Valley UNDP Mauritania	17969
+Senegal. Under	18303
 Service Description Under GEOGLAM	13094
 Service Fund UN United Nations UNDP	6539
 Service UNDP United Nations Development Programme	12395
@@ -789,8 +800,8 @@ Strengthening Governance UNDP	13865
 Strengthening Innovation Ecosystems for Future Growth UNDP	16973
 Sub Saharan African Historically Underserved Traditional	15518,1418
 Sub- Saharan African Historically Underserved Traditional	10829,135,6150
-Sub-Saharan African Historically Underserved Not Currently	1867
-Sub-Saharan African Historically Underserved Traditional	13332,2289,1301
+Sub-Saharan African Historically Underserved Not Currently	1867,16331
+Sub-Saharan African Historically Underserved Traditional	13332,2289,1301,1452
 Substantial Undertake	10768
 Sudan. Luca Renda Resident Representative UNDP	15179
 Sudan. Under	4665
@@ -851,7 +862,7 @@ UN Member States. UNDP	13661
 UN United Nations UNDESA United Nations	13731
 UN United Nations UNDP United Nations	12512,4415
 UNDA-supported	13042
-UNDAF	13442,1517
+UNDAF	13442,1517,3146
 UNDATED	2115,2322
 UNDATED SOURCE	2119
 UNDB United Nations Development Business UNICEF	15518
@@ -976,6 +987,7 @@ UNDP G.B Newsletter OCT	17164
 UNDP G7	11525
 UNDP GEF Small Grants Programme	11332
 UNDP Gambia	16973
+UNDP Gender	18309
 UNDP Gender Strategy	16973
 UNDP Ghana	10067
 UNDP Ghana Rep	7068
@@ -1018,6 +1030,7 @@ UNDP Liberia and University of Liberia Graduate	17160
 UNDP Liberia's Inclusive Governance Pillar Head	17370
 UNDP Liberia’s Head of ICT and Digital Advocate	17090
 UNDP Libya	1390
+UNDP Linkages Gender and CC Policy Brief	18309
 UNDP Malawi	8286,861,2997,28,42,27,791,48,15,120,1459
 UNDP Malawi Area	13080,15
 UNDP Malawi Artificial Intelligence	14674
@@ -1269,6 +1282,7 @@ UNDSS	14959,80
 UNECA and UNDP	14745
 UNFPA and UNDP	12197
 UNICEF and UNDP	10210
+UNION AFRICAINE UNDAF UNITED NATIONS DEVELOPMENT	18105
 UNSMIL and UNDP	17264
 UNU-EGOV and UNDP	2245
 UNU-EGOV and UNDP Bissau	2351
@@ -1292,7 +1306,7 @@ Undecided NR	7869
 Undecided NR Base	7869
 Undefined Items	14546
 Undenatured	6921,10090
-Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,55,22,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3,73,3,1,16,5,51,21,22,2,41,4,5,9,12,2,44,30,20,23,6,15,13,75,37,52,17,1,9,8,21,11,27,9,48,60,11,49,1,10,40,6,4,54,11,39,19,25,21,23,10,19,10,75,8,23,5,8,67,9,63,11,7,5,43,8,3,22,10,14,38,15,3,12,40,22,186,24,63,66,25,26,10,19,9,6,1,1,45,13,23,13,23,26,1,27,21,12,5,1,27,71,23,9,1,12,17,36,2,2,88,7,20,28,92,30,31,11,3,64,105,6,52,12,36,36,55,13,134,22,1,18,21,35,165,79,132,17,27,7,6,2,8,8,22,46,1,2,4,6,5,50,2,3,20,11,33,1,5,32,4,16,4,29,3,15,25,30,9,47,64,86,39,37,13,23,24,2,5,13,20,2,1,4,32,3,51,17,6,21,7,4,2,2,7,55,18,78,2,64,14,20,62,55,106,43,2,23,64,41,257,1,17,187,17,4,32,5,7,4,4,8,3,4,9,9,17,27,13,1,9,6,5,7,1,14,26,32,45,13,13,2,1,23,16,1,56,22,25,29,2,26,9,41,3,34,15,22,128,39,101,11,23,2,124,1,13,23,64,46,23
+Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,55,22,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3,73,3,1,16,5,51,21,22,2,41,4,5,9,12,2,44,30,20,23,6,15,13,75,37,52,17,1,9,8,21,11,27,9,48,60,11,49,1,10,40,6,4,54,11,39,19,25,21,23,10,19,10,75,8,23,5,8,67,9,63,11,7,5,43,8,3,22,10,14,38,15,3,12,40,22,186,24,63,66,25,26,10,19,9,6,1,1,45,13,23,13,23,26,1,27,21,12,5,1,27,71,23,9,1,12,17,36,2,2,88,7,20,28,92,30,31,11,3,64,105,6,52,12,36,36,55,13,134,22,1,18,21,35,165,79,132,17,27,7,6,2,8,8,22,46,1,2,4,6,5,50,2,3,20,11,33,1,5,32,4,16,4,29,3,15,25,30,9,47,64,86,39,37,13,23,24,2,5,13,20,2,1,4,32,3,51,17,6,21,7,4,2,2,7,55,18,78,2,64,14,20,62,55,106,43,2,23,64,41,257,1,17,187,17,4,32,5,7,4,4,8,3,4,9,9,17,27,13,1,9,6,5,7,1,14,26,32,45,13,13,2,1,23,16,1,56,22,25,29,2,26,9,41,3,34,15,22,128,39,101,11,23,2,124,1,13,23,64,46,23,84,40,35,15,20,7,23,38
 Under A1.2 Mapubi	15800
 Under AFRINIC	11797
 Under ATET	12978
@@ -1311,8 +1325,8 @@ Under Chairman Brendan Carr	10444
 Under Chapter IX	14742
 Under Commissioner General James Dorbor Jallah	16999
 Under Commitments	9022
-Under Component	1264,20,583,121,901,3650,4290,696,330,1537,1746,45,475,1,84,693,269,191
-Under Components	10964
+Under Component	1264,20,583,121,901,3650,4290,696,330,1537,1746,45,475,1,84,693,269,191,1397
+Under Components	10964,7329
 Under Congo’s Law No	11847
 Under Construction	11180
 Under D-CLIC Program	14552
@@ -1348,6 +1362,7 @@ Under ITB	13185
 Under Implementation. Dates	13017
 Under Implementation. Terms of Reference	13017
 Under India	11902
+Under Indian	18378
 Under JCM	12543
 Under KSEIP2	14516
 Under Kenya	7548
@@ -1432,7 +1447,7 @@ Under Strategic Objective	16943
 Under Strategic Priority	14922
 Under Sub-component	4359
 Under Sub-section	573
-Under Subcomponent	3604,7225,5315,1297
+Under Subcomponent	3604,7225,5315,1297,663,197
 Under Subcomponents	13331
 Under TTOS	11218
 Under Two Years	16971
@@ -1460,6 +1475,7 @@ Under the CAB	15411
 Under the CAB Project	15513
 Under the CAB Project18	15553
 Under the CEN's Pillar	13523
+Under the CGIAR Initiative	18336
 Under the CMCA	17746
 Under the CPF	11476,4967
 Under the Characteristics of Individuals	12246
@@ -1502,6 +1518,7 @@ Under the Electricity Act	13133
 Under the Electronic Communications Act	6898,420
 Under the Electronic Transaction Law	12294
 Under the Electronic Transactions Law	12294
+Under the Emergency Response Plan	18374
 Under the Expenditure Arrears Clearance Strategy	13685
 Under the Expropriation Law No.10	15473
 Under the Extended Credit Facility Arrangement and Concludes	13741
@@ -1517,7 +1534,8 @@ Under the GDPR	7081,1355,1551
 Under the GEF-8	17101
 Under the GPE’s STG	15661
 Under the GREAT Project	16949
-Under the General Agreement	10844
+Under the General Agreement	10844,7279
+Under the Global Refugee Forum	18125
 Under the GoCV Education Sector Plan	15491
 Under the Government	13123
 Under the HCP	16187
@@ -1546,6 +1564,7 @@ Under the MTF	11136
 Under the Maisha	14478
 Under the Mauritian Data Protection Act	14340
 Under the Ministry of Agriculture	13733
+Under the Ministry of Family Affairs	18370
 Under the MoU	6557,2811,3208,403,1098
 Under the Mubarak	15473
 Under the NIMC Act	9880
@@ -1568,7 +1587,9 @@ Under the Orange Business	8125
 Under the PAAF	11918
 Under the PAIF-PME	10845
 Under the PFMRISP	16949
+Under the PNBSF	18301
 Under the PPP	15823
+Under the Parent Project	18374
 Under the Participation Agreement	4261
 Under the Peacebuilding Fund	12732
 Under the Personal Data Protection Act	5385
@@ -1612,6 +1633,7 @@ Under the UN Guiding Principles	9082
 Under the Union Customs Code	11036
 Under the VAT Act No	10676
 Under the VPA the FDA	16848
+Under the Vaccine Maitri	18220
 Under the Very High Impetus of H.E. Brice	16802
 Under the WB-Global Procurement Partnership Trust Fund	15550
 Under the West Africa Regional Digitalization Integration	17114
@@ -1622,6 +1644,7 @@ Under the World Meteorological Organization Severe Weather	15916
 Under the ZEEP’s AF2	13392
 Under-5	12151,216,46,2643,669
 Under-5 BRR	10714
+Under-5 Mortality Rate	18162
 Under-Five Mortality Rate	12639
 Under-budgeting	15164
 Under-five	10829,588,734,262,242,1465,936,545,26,2242
@@ -1687,6 +1710,7 @@ Underrepresented Communities	12675
 Underscores	5825
 Underscoring	2145,11387,1516,2119
 Underscoring IBSA	11183
+Underscoring Niger	18197
 Undersea	2677,1999,576,1218,765,971,879
 Undersea Bandwidth Capacity	6671,275
 Undersea Bandwidth SEACOM	6671
@@ -1707,7 +1731,7 @@ Undersecretary for Telecommunication	2685
 Undersecretary for Telecommunications Thomas Gatkuoth Nyak	4299
 Undersecretary of Planning	158
 Underserve	11857
-Underserved	6946,4911,440,1641,3161
+Underserved	6946,4911,440,1641,3161,1034
 Underserved Areas	9924,4725,2234,377
 Underserved Communities	17099
 Underserved Communities All Request	17099
@@ -1715,6 +1739,7 @@ Underserved Communities Request	17114
 Underserved Markets	4848
 Underserved Markets Fintechs	4848
 Underserved Once Policy	11857
+Underserved Peoples	18370
 Underserved Regions	6936
 Underserved Traditional Local Communities	1988
 Underserved Traditional Local Communities Cultural Heritage	12253
@@ -1726,7 +1751,7 @@ Understand The Security Requirements	34
 Understand the FSPs	14997
 Understandability	14565
 Understandably	10
-Understanding	990,258,845,3,852,416,427,885,149,81,341,286,167,514,17,156,281,123,155,2,330,215,55,211,127,60,75,1,68,40,4,326,143,68,220,237,1,108,230,44,105,2,141,959,43,4,10,44,100,13,72,13,118,21,55,213,478,62,22,8,64,32,80,18,90,19,59,2,2,16,19,18,31,64,246,185,92,281,2,42,176,129,815,89,101,331,123,9,115,98,131,80,51,420,839,9,4,8,31,60,36,6,26,11,62,11,30,7,19,320,270,7,100
+Understanding	990,258,845,3,852,416,427,885,149,81,341,286,167,514,17,156,281,123,155,2,330,215,55,211,127,60,75,1,68,40,4,326,143,68,220,237,1,108,230,44,105,2,141,959,43,4,10,44,100,13,72,13,118,21,55,213,478,62,22,8,64,32,80,18,90,19,59,2,2,16,19,18,31,64,246,185,92,281,2,42,176,129,815,89,101,331,123,9,115,98,131,80,51,420,839,9,4,8,31,60,36,6,26,11,62,11,30,7,19,320,270,7,100,322,11
 Understanding AI	6948
 Understanding Africa’s AI Governance Landscape	6603
 Understanding Anger Anger	13477
@@ -1787,7 +1812,7 @@ Understate	14400
 Understatement	11181
 Understood	7320
 Undersupply	14896
-Undertake	32,364,604,131,499,9145,443,768,165,34,143,125,221,288,333,25,931,472,54,41,179,414,314,120,132,856,25,8,6,43,12,48,36,103,43
+Undertake	32,364,604,131,499,9145,443,768,165,34,143,125,221,288,333,25,931,472,54,41,179,414,314,120,132,856,25,8,6,43,12,48,36,103,43,1213
 Undertake ICT Number	12453
 Undertake Rapid Rural Appraisals	14818
 Undertake Research Development and Dissemination	14947
@@ -1819,7 +1844,7 @@ Undetermined	12413,2643
 Undeterred	4127
 Undeveloped	17011
 Undisable Disable	15244
-Undisbursed	2712,1941,35,6182,505,94,496,6,257,39,173,540,78,839,235,834,193,322,254,2,21,44,103,108,19,47,843,72,6,79,17,374,434,54
+Undisbursed	2712,1941,35,6182,505,94,496,6,257,39,173,540,78,839,235,834,193,322,254,2,21,44,103,108,19,47,843,72,6,79,17,374,434,54,175,217,4,1
 Undisbursed Historical	16705
 Undisbursed Historical Disbursed	6928,949,9628,501
 Undisbursed IDA	2989
@@ -1874,6 +1899,7 @@ Year Under Review	11250
 Year Under Review Throughout	14916
 Yes. Under Section	14784
 Yes. Under the NDPA	12232
+Yokk Koom Koom. Under	18301
 Youth Programs Under the Ministry of Information	4685
 Youth-Led Research Under the Make Way	15915
 Zambia Institute UN United Nations UNDP	13332

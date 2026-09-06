@@ -101,6 +101,7 @@ Alternance Politique	4539
 Alternate	4263,633,6393
 Alternate Board Director	6946
 Alternate Board Member	6946
+Alternate Co-chair	18253
 Alternate Director	6946
 Alternate Directors Hon. Daniel Kipkogei Rono	6946
 Alternate Directors Mr. Waweru Kimani	6946
@@ -113,7 +114,7 @@ Alternate Routes	226
 Alternately	4732,10104
 Alternates	15901
 Alternativas	11436,25,3897
-Alternative	1243,2471,95,318,307,414,829,256,1518,1155,517,1696,360,678,95,89,147,4,261,48,536,148,160,73,148,1000,157,173,1,35,65,247,98,138,1359,77,33,152,3,10,43,55,48,57
+Alternative	1243,2471,95,318,307,414,829,256,1518,1155,517,1696,360,678,95,89,147,4,261,48,536,148,160,73,148,1000,157,173,1,35,65,247,98,138,1359,77,33,152,3,10,43,55,48,57,792,16,168,25
 Alternative Aircraft	17114
 Alternative Basic Education	13991,925,296
 Alternative Basic Education and Adult Basic Education	14896
@@ -122,7 +123,8 @@ Alternative Bids	13185
 Alternative Childcare and Support Directive	12188
 Alternative Childcare and Support Directive No	12188
 Alternative Contact Address	14533
-Alternative Dispute Resolution	2668,3008,6224,56,106,239,309,2577,1324,324,108,156,15
+Alternative Current	18103
+Alternative Dispute Resolution	2668,3008,6224,56,106,239,309,2577,1324,324,108,156,15,1072,31
 Alternative Dispute Resolution Act	17139
 Alternative Dispute Resolution AfDB African Development	17139
 Alternative Dispute Resolution Procedure. Key	1742
@@ -141,10 +143,11 @@ Alternative Learning Pathways	11557
 Alternative Learning Program	14922,1514
 Alternative Lenders	14997
 Alternative MSME	14997
+Alternative Machine-Learning Algorithm	18318
 Alternative No	13185
 Alternative Pathways	4439
 Alternative Planetary Future	11028
-Alternative Procurement Arrangements	1867,1022,673,42,7164,649,143,345,3032,201,520,3,322,161
+Alternative Procurement Arrangements	1867,1022,673,42,7164,649,143,345,3032,201,520,3,322,161,2054
 Alternative Proposal	15080
 Alternative Proposal- Technical Part	15080
 Alternative Proposals	12389,2691
@@ -157,9 +160,9 @@ Alternative The World Bank CAR Health	10829
 Alternative Transfer Mechanisms	3861
 Alternative-Data-for-Credit-Scoring.pdf	14997
 Alternativeclusteringalgorithms	8606
-Alternatively	26,984,818,158,1618,522,133,1105,1583,1,601,337,1187,50,1404,354,1019,106,344,19,636,180,196,1376,9,98,216,393,131,583,648,32,9,40,5
+Alternatively	26,984,818,158,1618,522,133,1105,1583,1,601,337,1187,50,1404,354,1019,106,344,19,636,180,196,1376,9,98,216,393,131,583,648,32,9,40,5,1188
 Alternativement	15901
-Alternatives	544,3714,2940,6220,114,1246,40,104,926,1266
+Alternatives	544,3714,2940,6220,114,1246,40,104,926,1266,1004
 Alternatives Humanitaires	15581
 Alternatives Regulators Are Building Regulators	8464
 Alternatives for Delivering Public Services	1161
@@ -234,7 +237,7 @@ Cidade Alta	539,10826
 Cidade Alta Luanda	11473
 City of Johannesburg Alternative Waste Treatment Technology	11248
 Co-Head of Emerging Market Alternative Credit	9061
-Colonia Altos de Miramontes Calle	10764,80,7012
+Colonia Altos de Miramontes Calle	10764,80,7012,267
 Colonia Altos de Miramontes Escritório Regional Hastings	11563,6180
 Comisión de Supervisión Presupuestaria de Alto Nivel	4209
 Comisión de Supervisión Presupuestaria de Alto Nivel Se	4209
@@ -250,6 +253,7 @@ Curso de Alta Direcção	15263
 D.C. Alter	1828
 Da Alta Infi	15380
 Daily Sun. For ALTON	11168
+December. Altogether	18336
 Declaração Inicio Alteração	12018
 Declaração de Alteração de Actividade	12018
 Defense Space ALTON Director Information Administration	11857
@@ -261,6 +265,8 @@ Digital Alternative	15260
 Directors and Alternate Directors	12349
 District Courts of Maganja da Costa and Alto Molocu	12201
 EGYPT Acronyms ADR Alternative Dispute Resolution	15473
+Education Alternative CEG Collège	18171
+Education Alternative des Jeunes CE1 Cours Elémentaire	18171
 Effective Altruism	5302
 Enabling Alternative Backhaul Solutions	5245
 Energy City of Johannesburg Alternative Waste Technology	11248
@@ -293,7 +299,7 @@ Languages Altitude	16552,454
 Latitude Longitude Altitude Associated Space Station	736
 Lei de Alteração	10749,676
 Leveraging Alternative Data	16133
-List of Abbreviations ADR Alternative Dispute Resolution	12062
+List of Abbreviations ADR Alternative Dispute Resolution	12062,6124,31
 Localidade Latitude Longitude Altitude	17147
 Localidade Latitude Longitude Altitude Estado	17147
 M Proposed Alterations New Indicator	4653
@@ -365,6 +371,7 @@ Tratado de Biodiversidad Marina de Alta Mar	17282
 Type of Obstacle Coordonnées Coordinates Altitude	16552,454
 UNICEF The Alternate Learning Program	14897
 Under Alternative Scenarios	13868
+V. DESCRIPTION DES ALTERNATIVES POSSIBLES AU	18118
 VALR and AltCoinTrader	9367
 VOLUNTARY RESOLUTION OF DISPUTES Alternative	3714
 Zonas de Alta Infi	15380

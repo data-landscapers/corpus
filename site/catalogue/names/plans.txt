@@ -1,9 +1,13 @@
+A. Emergency Response Plans and Readiness	18198
+A. Emergency Response Plans and Readiness Official	18198
 ANNUAL ACTION PLANS	15796
 Accra Development Plans	15845
 Action Plans	11218,1753,361,17,1586,12,1914
+Action Plans RIU Regional Implementation Unit	18293
 Action Plans and Application Systems	12961
 Action Plans and Programmes	12950
 Action Plans for Next Financial Year	12971
+Additional Resettlement Plans	18374
 Adoption and Development of Statistics Plans	17116
 AfDB Plans	14969
 Africa Future Plans and Conclusion Short	11191
@@ -90,7 +94,8 @@ Environment Management Plans	15372
 Environmental Management Plans	15372
 Environmental S and Social Management Plans	11469
 Environmental and Social Commitment Plans	16144
-Environmental and Social Management Plans	1867,121,1616,8301,2105,1362,181,591,970
+Environmental and Social Management Plans	1867,121,1616,8301,2105,1362,181,591,970,1260
+Environmental and Social Management Plans GBV	18370
 Environmental and Social Management Plans for Data Centre	12253
 Environmental and Social Management and Monitoring Plans	12253
 FCFA Des Plans	3396
@@ -143,6 +148,7 @@ Judicial Strategic Plans	16943
 Judiciary Strategic Plans of Liberia	16943
 La Compétition des Plans	6827
 Lack of Management Plans	17114
+Les Plans	18286
 Les Plans Haut Débit	17836
 Les Plans de Travail	3396
 Liberia Plans Nationwide Same-Day National ID	14335
@@ -152,6 +158,7 @@ Local Area Plans Sanitation and Kalumbila	1988
 Local Development Plans	16994
 Lyca Mobile Advances Telecom and E-Health Plans	5262
 MPME Le Concours des Plans	13549
+Malgré des Plans de Travail Annuel	18297
 Management Strategies and Implementation Plans	13185
 Master Plans	7785,4614,970
 Master Systems Plans	11940
@@ -185,6 +192,7 @@ Open Government Plans	14965
 Open Government Plans. Figure	14965
 Operating Plans	16839
 Operational Plans	12500
+PLANS D’ACTION L’élaboration	18291
 PLANS NATIONAUX DE DEVELOPPEMENT NUMERIQUE	13482
 Paper PUR Plans Urbains de Réference	16614
 Past and Current Challenges and Future Plans	15760
@@ -193,7 +201,8 @@ Performance Plans	11986
 Physical Development Plans	13060
 Physical and Land Use Plans	7548
 Planning Plans	10930
-Plans	396,119,373,82,674,895,4,229,113,176,156,18,161,103,55,91,256,171,164,3,735,130,184,77,234,132,1409,58,288,239,134,121,58,386,699,283,187,720,33,73,41,95,292,27,2,94,30,139,59,26,26,607,357,19,92,31,20,23,523,238,150,132,91,420,584,85,750,22,77,2,69,49,87,34,10,24,197,56,104,56,136,27,299,6,7,224,3,110,40,90,4,34,225,448,34,33,3,100
+Plans	396,119,373,82,674,895,4,229,113,176,156,18,161,103,55,91,256,171,164,3,735,130,184,77,234,132,1409,58,288,239,134,121,58,386,699,283,187,720,33,73,41,95,292,27,2,94,30,139,59,26,26,607,357,19,92,31,20,23,523,238,150,132,91,420,584,85,750,22,77,2,69,49,87,34,10,24,197,56,104,56,136,27,299,6,7,224,3,110,40,90,4,34,225,448,34,33,3,100,187,117,5,48,31
+Plans ESS Environmental and Social Standard FAO	18293
 Plans Fonciers Ruraux	10876
 Plans Locaux	14598
 Plans Maîtres Souverains	15287
@@ -202,12 +211,16 @@ Plans Nationaux de Contingence	14662
 Plans Stratégiques Nationaux	14622
 Plans VOIP Return	15926
 Plans and Priorities	13532
+Plans de Développement Communal	18286
+Plans de Développement Communaux	18286
+Plans de Développement Départemental	18286
+Plans de Développement Départementaux	18286
 Plans de Développement Local	16723
 Plans de Réalisée	17872
 Plans de Santé	15678
 Plans de Santé Article	15678
 Plans de Sondage	15999
-Plans de Travail Annuels	10712
+Plans de Travail Annuels	10712,7574
 Plans de Travait Budgétaires Annuels	15530
 Plans de X X X X X	17882
 Plans for Central	16971
@@ -236,7 +249,11 @@ Regional Development Plans Comments	16994
 Registered General Plans	12605
 Remediation Plans	15149
 Resettlement Action Plans	3604,7921,3847,1242,500
-Resettlement Plans	16144,970
+Resettlement Plans	16144,970,1260
+Resettlement Plans Kaolack	18374
+Resettlement Plans Kedougou	18374
+Resettlement Plans for Senegal	18374
+Resettlement Plans for Ziguinchor	18374
 Review Action Plans	940
 Revised Framework for Strategic Plans and Annual	11986
 Revised Framework for Strategic Plans and Annual Performance	11224
@@ -264,7 +281,7 @@ Service Plans	6892
 Seventh National Development Plans. This Policy	13346
 Site-Specific Environmental and Social Management Plans	17114
 Social and Labour Plans	6683
-Stakeholder Engagement Plans	16144
+Stakeholder Engagement Plans	16144,2230
 Statistics Plans	17116
 Strategic Economic and Local Development Plans	10930
 Strategic Objective Implementation Plans	13991
@@ -288,6 +305,9 @@ Updated Strategic Investment Plans	17096
 Updating the Master Urban Planning Plans	10930
 Urban Planning Plans	10930
 Urban Reference Plans	16614
+VI. LES PLANS D’ACTIONS	18291
+VI. LES PLANS D’ACTIONS Dans	18291
+VI.3. CONTRIBUTION DES PLANS D’ACTION AU	18291
 Visa Plans	2610
 Wadi Basin Management Plans	17157
 Wadi Basin Plans	17157

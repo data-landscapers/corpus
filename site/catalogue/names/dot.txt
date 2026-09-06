@@ -49,7 +49,7 @@ Dotación de Fondos Especiales	4209
 Dotado	11427
 Dotan R	9739
 Dotar	15470,6,1422,280
-Dotation	1319,1,1,4,690,28,1,1,1,920,1189,165,1,1,1,2636,4016,3450,64,1,1093,139,2,296,27,1438,332,25,130
+Dotation	1319,1,1,4,690,28,1,1,1,920,1189,165,1,1,1,2636,4016,3450,64,1,1093,139,2,296,27,1438,332,25,130,150,169
 Dotation Commission	16047
 Dotation Conseil	16047
 Dotation Cour	16047
@@ -68,7 +68,7 @@ Dotations Réalisations Prévisions Taux	2966
 Dotação	1338,14718
 Dotação Provisional	16056
 Dotações	2295,9087
-Doter	2966,7910,89,2376,497,1552,84,68,82,224,90,61,499,209,1138,27,10,3
+Doter	2966,7910,89,2376,497,1552,84,68,82,224,90,61,499,209,1138,27,10,3,406,6,9
 Doter BENIN IX	15592
 Doter des Cartes	13341
 Doter la CDPFIS	17845
@@ -87,7 +87,7 @@ Doter le Centre National de Calcul	15624
 Doter le DGSHP	17845
 Doter le Mali	17882
 Doter le SIFEF	17845
-Doter le SSN	17844
+Doter le SSN	17844,447
 Dotmac Technologies Ltd	3862
 Dotsavvy Limited Data Controller INST-957091715D5 NAIROBI	7167
 Dotsavvy Limited Data Processor INST-957091715D5 NAIROBI	7167
@@ -131,6 +131,7 @@ Services de Santé DOTS	15685
 Solution de Gestion des Dotations	17485
 Solution de Gestion des Dotations Voyages	17485
 Stratégie Doter	14480
+Sénégal. Doté	18363
 T Dotan	14673
 T50 GENERAUX DOTATIONS AUX AMORTISSEMENTS ET	18032
 T6A DOTATIONS AUX AMORTISSEMENTS ET AUX	17833

@@ -32,6 +32,7 @@ DE Forest Plantation Tier	17140
 Dal Processing Plants	12979
 Definition Shapefile of Liberia’s Plantations Accessible	17140
 Device Assembly Plant	9336
+Directorate of Plant Protection	18309
 Drivers and Mobile Plant Operators	16266
 Drivers and Mobile Plant Operators Electrical and Electronic	16266
 Dual Fuel Plant	16966
@@ -47,6 +48,7 @@ Fruits Plantain	17043
 Gandia Plants Uprooted	14760
 Generation Plant Availability	14867
 Generation Plant Availability The Regulatory Authority	14867
+Generation Plants	18186
 GoR Power Plants	12358
 Gold Mining and Processing Plant	13060
 Government Forest Plantation Stocking	2775
@@ -90,7 +92,7 @@ MWp Mmadinare Solar PV Plant. Together	12604
 MWp Solar Plant	12604
 Maguduza Hydro Plant	12956
 Maguga Hydro Plant	12956
-Maiduguri Emergency Power Plant	12062
+Maiduguri Emergency Power Plant	12062,6124,31
 Malawi Digital Plant Health Service	17710
 Mango Processing Plant	16256
 Manual for Plantation Drafted and Comments	16853
@@ -121,11 +123,11 @@ PLANTED AREA	17043
 PLANTING SUSTAINABLE LAND MANAGEMENT COMMUNITY EMPOWERMENT	11586
 POWER PLANT AVAILABILITY INDEX	14867
 Payments Guidelines for Plantation Forests Stakeholder	16853
-Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299,854,917,78,179
+Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299,854,917,78,179,1029,31
 Plant Availability	14867
-Plant Availability Factor	12062
+Plant Availability Factor	12062,6124,31
 Plant Availability Index	14867
-Plant Average Hourly Generation	12062
+Plant Average Hourly Generation	12062,6155
 Plant Capacity	14745
 Plant Conducted MW	14947
 Plant Expert	15478
@@ -133,10 +135,12 @@ Plant Genetic Resources	14818
 Plant Genetic Resources for Food and Agriculture JE	11197
 Plant Health Act	13403
 Plant Health Bill	13387
+Plant Health Directorate CSA	18309
 Plant Inspectors	15478
 Plant Nursery The Nursery	14746
 Plant Pathology Laboratory	14721
 Plant Protection	4811,453,53,458,129,11210
+Plant Protection Directorate ECMWF	18309
 Plant Protection Regulation	13060
 Plant Quarantine Services Laboratory	13320
 Plant Quarantine and Phytosanitary Service	13403
@@ -198,13 +202,15 @@ Plantons	17982
 Plantons Chauffeurs Contractuel	17982
 Plantons Militaire	17899
 Plantons. Article	17899
-Plants	12062,2698,1239,1106,52,427
+Plants	12062,2698,1239,1106,52,427,602,31
 Plants de Secrétaire	17833
 Power Plant Availability	14867
 Power Plant Launch	13624
 Property and Plant Equipment	1154
 Q1 Plant Availability Factor	12062
 Q1 Plant Average Hourly Generation	12062
+Q3 Plant Availability Factor	18186
+Q4 Plant Availability Factor	18217
 ROT for Pointe Cotton Desalination Plant Community	14830
 Redesign Planter’s Cards	14818
 Refurbishment of Treatment Plant	14830

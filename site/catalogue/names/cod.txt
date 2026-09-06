@@ -24,6 +24,7 @@ ANNEXE-3. CODE DE CONDUITE POUR	14488,1
 ANNEXE-3. CODE DE CONDUITE POUR ENTREPRISE	14489
 ANNEXE. Code	14424
 ARCEP-090720 CODAN C-463 Antenne HF	998
+ARREC du Code de Réseau Régional	18322
 AU CODE DES INVESTISSEMENTS	17817
 AU Code	13739
 AUTRE UN CODE	13300
@@ -58,6 +59,9 @@ Application of Code of Practice	14594
 Approved Codes of Conduct	13381
 Archives Code	12325
 Armée Sadio CAMARA Code	18003
+Article L.37 du Code Electoral	18310
+Article L.78 du Code Electoral. Dans	18310
+Article L.89 du Code Electoral	18310
 Assessed Variables Code Name FS-1	15164
 Au Code	10876
 Australia's News Media Bargaining Code	13267
@@ -97,7 +101,7 @@ Branch Code	12364,36
 Broadband Advertising Code of Conduct	16884
 Broadcasting Authority of Zimbabwe CCTLD Country Code	13295
 Budget Codioro Moussa N'guénore	17909
-Building Code	16884
+Building Code	16884,1486
 Building Code of Egypt	15473
 Building Codes	11857,532
 Building Codes IN- Internet Exchange	11857
@@ -113,6 +117,7 @@ CARTES ANNEXE-3. CODE DE CONDUITE POUR	14490
 CBE Code of Conduct	11134
 CDMA Code	12911
 CECABU MICROFINANCE URUNANI CODEM FINANCE S.A	13390
+CEDEAO. Codes	18315
 CEMAC Customs Code	16298,674
 CEMAC-CEEAC Customs Code	16298
 CGI Code Générale des Impôts	14437
@@ -163,6 +168,7 @@ CODE DOTATIONS DES MINISTERES PREVISIONS	16047
 CODE DU NUMÉRIQUE	11098
 CODE D’ETHIQUE ET DE DEONTOLOGIE	17841
 CODE G LIBELLE TYPE GESTIONNAIRE ACTIVITE LIBELLE	16623
+CODE Indicateur Unité Valeur Nombre	18204
 CODE LIBELLE OBJECTF INDICATEUR AE CP	15999
 CODE LISTS MOST COMMONLY USED	11180
 CODE MÉTHODE	13300
@@ -215,6 +221,7 @@ CODM EBITDA South Africa Nigeria Ghana	10793
 CODM EBITDA. CODM EBITDA	10793
 CODM. The Group	10793
 CODO INVESTMENTS LIMITED Data Controller INST-4709614A25D	7167
+COMITE NATIONAL DU CODE RURAL PRINCIPES	18094
 COMP. COMP. COMP. COMP. CODE DCI	15930
 CONFORME AU CODE DES MARCHÉS PUBLICS	10876
 CONTRACEPTION No QUESTIONS ET FILTRES CODES	13300
@@ -225,6 +232,7 @@ CP CODE	15999
 CP Code	16047
 CRITERES DE DISPENSATION CODE DCI	15930
 CRITERES DE DISPENSATION CODE DCI Dispensé	15930
+CTRCE Commission Technique de Revue du Code	18310
 Cameroon Code Indicator	10969
 Cameroonian Criminal Procedure Code	10979
 Capital Markets Authority Code of Corporate Governance	7204
@@ -246,6 +254,7 @@ Chief Codes	13239
 Chief Codes. Dlamini	13239
 Child Protection Code. Cases	17934
 Chipboard Price Code	13385
+Civil Aviation Code and Decree No	18309
 Civil Code	27,1833,10286,15,32,8,25,68,1691,23,667,68,35,278,417,45
 Civil Code Preemption	15473
 Civil Code. MINALOC	12413
@@ -280,7 +289,8 @@ Code CAD	13325,2171
 Code CHAPITRE	17817
 Code CIMA	16031
 Code CPV	8643
-Code Civil	14778,571,211,39,1052
+Code Catégorie	18286
+Code Civil	14778,571,211,39,1052,1450
 Code Civil Mauricien	7845,6868,1,1,13,7,7,26,56,19
 Code Civil Mauricien. Acts	14728
 Code Civil Mauricien. The Data Protection	14812
@@ -306,16 +316,21 @@ Code Division Multiple Access WHO World	718
 Code Domanial	17812,5
 Code Editor	15622
 Code Editor Cote	15622
-Code Electoral	13292,2435
+Code Electoral	13292,2435,2374,209
+Code Electoral URL	18101
+Code Electoral du Niger L’élection	18101
+Code Electoral. Elle	18101
 Code Feu Mamadou Namory CAMARA	18003
 Code Foncier du Burundi	13375
 Code Foncier du Burundi. Le Conseil	13375
 Code For Africa	6055
-Code Général	15361,686,1770
+Code Général	15361,686,1770,421
+Code Général des Collectivités Territoriales	18096
 Code Général des Collectivités Territoriales Décentralisées	10981,4488,726
-Code Général des Impôts	4420,147,1889,4256,266,2794,1577,184,264,202,21,308,1489,23
+Code Général des Impôts	4420,147,1889,4256,266,2794,1577,184,264,202,21,308,1489,23,431
 Code Général des Impôts. Article	15418
 Code Général des Impôts. La Taxe de Soutien	3045,12712
+Code Général des Impôts. Sont	18271
 Code Heading	16927
 Code Heading Implementor Partner Indicator Baseline	16927
 Code I Description	11180
@@ -346,16 +361,21 @@ Code Owner N	9124
 Code PAP	15908
 Code Penal	13292
 Code Postal	17902
-Code Pénal	743,488,10349,2297,984,1,487,2,113,96,83,84,890,1205,6
+Code Pénal	743,488,10349,2297,984,1,487,2,113,96,83,84,890,1205,6,396
 Code Pénal. Art	15643
 Code Pénal. Art.87	15643
 Code Pénal. Article	1231,14366,130
 Code Pénal. Ces	14417
 Code Pénal. Cette	743
 Code Pénal. DU SYSTÈME STATISTIQUE NATIONAL	17828
+Code Pénal. SOUS-SECTION	18101
+Code Pénal. TITRE IV	18095
 Code QR	5471,5682,3169,158
 Code Region	12151
 Code Review Continuo N	11952
+Code Rural	18094
+Code Rural. Article	18094
+Code Rural. Il	18094
 Code Ré	16651
 Code SO System Operator SSEG Small-Scale	11228
 Code SOP Standard Operating Procedure UHC	9855
@@ -399,7 +419,8 @@ Code de Prévoyance Sociale. ARTICLE	17817
 Code de Prévoyance Sociale. Populations	17817
 Code de Prévoyance du Guichet Unique	17817
 Code de Réalisée Le Code de Déontologie DPFP	17872
-Code de Transparence	10981
+Code de Réseau du WAPP	18322
+Code de Transparence	10981,7346
 Code de Travail	14424
 Code des ARRETE	17817
 Code des ARTICLE	17817
@@ -409,10 +430,11 @@ Code des Collectivités	9287,55,8499
 Code des Collectivités Banque Islamique de Développement	17829
 Code des Collectivités Locales	16651
 Code des Collectivités Territoriales	17843
-Code des Douanes	15533,466,1818,155
+Code des Douanes	15533,466,1818,155,360
 Code des Douanes Harmonisé CEEAC- CEMAC	15999
 Code des Douanes Harmonisé CEEAC-CEMAC	15999
-Code des Douanes. Article	17913
+Code des Douanes. Article	17913,419
+Code des Douanes. Sous	18332
 Code des Enregistrées	18013
 Code des Général	18032
 Code des Hydrocarbures	3191
@@ -420,8 +442,10 @@ Code des Hydrocarbures. Dans	3191
 Code des Impdts	15419
 Code des Impôts	14483
 Code des Impôts. Ce	14483
-Code des Investissements	4567,10852,123,2275,81,15
+Code des Investisse-	18332
+Code des Investissements	4567,10852,123,2275,81,15,238,40,141,1
 Code des Investissements Article	17913
+Code des Investissements EXPOSE DES MOTIFS L'investissement	18332
 Code des Investissements Investissements	18013
 Code des Investissements URL	17913
 Code des Investissements. ARTICLE	17817,81
@@ -432,7 +456,7 @@ Code des Investissements. PORTANT AGREMENT AU CODE	17817
 Code des Investissements. Pour	17913
 Code des Investissements. Vu la Constitution	17817
 Code des Le Ministre	17817
-Code des Marchés	5907,11934,141
+Code des Marchés	5907,11934,141,413
 Code des Marchés Publics	4567,6309,2648,1994
 Code des Marchés Publics du Burundi	13524
 Code des Marchés Publics du Burundi. En	13524
@@ -446,6 +470,7 @@ Code des Postes. L'ASSEMBLEE NATIONALE ET	15598
 Code des Promotion des Investissements	17817
 Code des Sociétés Privées	13334,253,1
 Code des Suivant	17817
+Code des Télécommunications	18288
 Code des Vu la Note	17817
 Code du ARRETE	17817
 Code du ARTICLE	17817
@@ -467,6 +492,8 @@ Code du Travail. Art	15598
 Code du Travail. Chapitre V	15375
 Code du Travail. Fonction	18003
 Code du Travail. L'ASSEMBLEE NATIONALE ET	15598
+Code du Travail. Le Vice-Président	18327
+Code du Travail. Paragraphe	18288
 Code du Travail. Sous-section	1231
 Code for Africa	6055,9287
 Code for AfricaFollow6	6055
@@ -529,6 +556,7 @@ Code of Practice. Include	15760
 Code of Practice. PART IX. GENERAL PROVISIONS	16832
 Code of Procedure	15393
 Code of Public Procurement	11525
+Code of Transparency	18305
 Code of Transparency and Good Governance	15566
 Code of USAC Committee Meetings Ethics and Conduct	6946
 Code the Future	3527,26
@@ -537,21 +565,30 @@ Code-Barres	13375
 Code-Division Multiple Access	17870
 Code-Division Multiple Access FWA	6000
 Code-SA	10729
+Code-de-la-presse-version-officielle-du-JO.pdf Author	18288
 Code-des-Investissements-2025-FR.pdf	17898
 Code-switching	11163
 Code. ARTICLE	13809,4089
 Code. Although the Authority	6946
 Code. Anti-corruption	17114
-Code. Article	4420,11627
+Code. Article	4420,11627,2049,192,44
 Code. Articles	15999
 Code. B- MESURES REBATIVES	15999
+Code. Cette	18288
+Code. Chapitre II.- Définitions Article	18288
 Code. Désormais	3267
+Code. En	18288,44
+Code. Faute	18288
+Code. Il	18332
 Code. L. MESURES DE SOUTIEN	15999
 Code. LIVRE DEUXIEME LIVRE DES PROCEDURES	15999
+Code. L’Assemblée	18288
+Code. L’autorisation	18288
 Code. Other Levies	17011
 Code. Peuvent	17898
 Code. Pour	15999,1899
 Code. Second	13963
+Code. Section	18288
 Code. Société	17898
 Code. The MPC	14744
 Code.PDF	16110
@@ -570,7 +607,7 @@ Coder	12478
 Coders Eswatini	4866,2821,4776,660,4469
 Coders and AI Practioners	4866
 CodersEswatini	11667
-Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76,644,4,34,19,36,69,64,2,15,67,22,75,242,958,1005
+Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76,644,4,34,19,36,69,64,2,15,67,22,75,242,958,1005,326,23
 Codes Add	8603
 Codes Headings	16927
 Codes MFP Mutuelle	13306
@@ -581,8 +618,9 @@ Codes Table	16934
 Codes and Guidelines	14727
 Codes and Others Schedule of Penalties Schedule of Fees	9109
 Codes and Standards	12972
+Codes des Investissements	18332
 Codes for Representation of Names of Countries	11179
-Codes of Conduct	961,916,10376,1139,1746,380,1596
+Codes of Conduct	961,916,10376,1139,1746,380,1596,1260
 Codes of Conduct This Appendix	12253
 Codes of Conduct and SEA	16144,782
 Codes of Conduct for Responsible Use	6432
@@ -604,7 +642,7 @@ Codex Volume	13385
 Codeynta	14859
 Codezone	5869
 Codificación	4209
-Codification	4583,3383,2909,254,4287,57,6
+Codification	4583,3383,2909,254,4287,57,6,2811
 Codification CNS Conseil National	15479
 Codification and Reform	958,14,5979,6368,189
 Codification and ReformAct	972
@@ -663,6 +701,7 @@ Competition Law Code of Conduct	3513
 Complétant le Code de Commerce	4567
 Composição da Codificação	11409
 Comprehensive Data Governance Frameworks and Standards Code	15713
+Construction Code	18305
 Consumer Code	11,11982
 Consumer Code of Practice Regulation	11993
 Consumer Code of Practice Regulations	9110,2883
@@ -675,6 +714,7 @@ Contractor's Code of Conduct	12253
 Contractor's ESMP and Code of Conduct	14010
 Contractors Code of Conduct	12253
 Control and Prevention CoD Cause of Death CRDP	12151
+Conventionnel du Code des Investissements	18238
 Copyright Code	11550
 Corporate Governance Code	12376,2360
 Corporate Governance Code for Mauritius	14736
@@ -693,13 +733,14 @@ Criminal Procedure Code	10979,2424,1058,2869
 Criminal Procedure Code Law	11857
 Criminal Procedure and Evidence Code	12174,1838
 Cross Discipline Course Development Code T-I20-1	15713
-Customs Code	13624,3318
+Customs Code	13624,3318,1343
 Customs Harmonised System Codes	13108
 Customs Procedure Code	13122
 Customs Procedure Codes	13108
 Cutting-Edge Domestic Data Center Code Action	15713
 D CODE APPROPRIÉ U ET SIGNEZ	13300
 D' CODE	13300
+D'ORIENTATION DU CODE RURAL ORDONNANCE N	18094
 D. Sector and Theme Codes E. Bank	16614
 D.R. Le QR Code	8357
 DE DISPENSATION CODE DCI	15930
@@ -707,6 +748,7 @@ DE DISPENSATION CODE DCI BRONCHODILATATEURS AVEC	15930
 DE DISPENSATION CODE DCI COMP. PELL	15930
 DE DISPENSATION CODE DCI Dispensé	15930
 DE DISPENSATION CODE DCI METABOLISME NUTRITION	15930
+DE L’ASN Codes Désignation CT1 Comité	18315
 DES CARTES ANNEXE-3. CODE DE CONDUITE	14490
 DEUX CODES SEULEMENT DEUX CODES SEULEMENT	13300
 DEUX SEULEMENT DEUX SEULEMENT CODES UN	13300
@@ -810,7 +852,8 @@ Employment Code	1988
 Employment Code Act	1988
 Ensure Data Center Sustainability Code Action	15713
 Ensure Data Privacy and Security Code Action	15713
-Environmental Code	17934
+Environment Code Act	18370
+Environmental Code	17934,436
 Environmental Codes of Practice	1988
 Environmental and Social Codes of Practice	1988
 Erasure Coding	13185
@@ -874,8 +917,11 @@ GPAI Code of Practice and High-Level Expert Group	11050
 GS Explore More Codes	16604
 Gambia’s Criminal Procedure Code	17330
 General Child Protection Code	17970
+General Code for Local Authorities	18370
 General Code of Conduct	8354
 General Code of Regional and Regional Authorities	15566
+General Code of Territorial Communities	18305
+General Fiscal Code	18109
 General Price Code	13385
 General Tax Code	11858,1766,2355
 General-Purpose AI Code of Practice	11050
@@ -919,12 +965,14 @@ Heading H.S Code No. Description Unit	6921
 Heading H.S. Code Excisable Goods Statistical	14843
 Heading HS Code	6921
 Heading HS Code No. Description Unit	6921
+Health Code	18370
 Health Safety Code	9855
 High Court. Codes	3887
 High-Quality Sectoral Arabic Data Sets Code	15713
 Higher Education Quality Code for Mauritius	14747
 Highway Code	10775
 Hs Code	6921
+Hygiene Code No	18370
 Hyperinflation CODM EBITDA	10793
 I Code Description	11180
 I' CODE	13300
@@ -994,6 +1042,7 @@ King III Code. The Board	12646
 L Portant Code Numérique	13877
 L'Association CODE.CI	15389
 L'adoption du Code	3267
+L.30 du Code Electoral	18310
 L.313-4 du Code	15901
 L223-1 du Code	11742
 L242-16 du Code	11742
@@ -1011,13 +1060,15 @@ LINKS TO SECTORAL DAC CODES	970
 LMIS- Adopted the Automated Therapeutic Coding System	16971
 LOW CODES TARIFF PER TRANSACTION PRICING	16844
 LTA. Country Code	16934
-Labor Code	10841
+Labor Code	10841,7529
 Labour Code	10841,1059,261
 Labour Code and Electronic Transactions Law	12161
-Le Code	3267,5054,2553,1,1,1056,167,1343,266,76,2009,6,1864,100,131
+Le Code	3267,5054,2553,1,1,1056,167,1343,266,76,2009,6,1864,100,131,428
 Le Code CIMA	10965
-Le Code Electoral	2808
+Le Code Electoral	2808,15502
+Le Code des Télécommunications	18288
 Le Code du Numérique	13877,1706
+Le Comité National du Code Rural	18094
 Le Green Coding	11687
 Le Service de Normalisation des Codes	15371
 Leading COD	12413,2643
@@ -1043,6 +1094,8 @@ Low Code	11939
 Low-carbon Strengths Rank Code	12205
 Lusaka. ZIP Code	9603,1
 L’INTERPRÉTATION OU L’APPLICATION DU CODE DES	17898
+L’UIT SUR LES INDIVIDUELS CODE Indicateur	18204
+L’UIT SUR LES MENAGES CODE Indicateur	18204
 L’adoption du Code Général des Impôts	17872
 M UI CODE DCI DENOMINATION COMMUNE	15930
 M. Codioro Moussa N’Guenore	18081
@@ -1115,6 +1168,7 @@ NA Codex Stan	16103
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NAMQR Code and Open Banking Standards	13076
 NATIONAL CODE OF CORPORATE GOVERNANCE	14736
+NE110 Code Swift	18194
 NERAL DES IMPOTS MODIFICATIONS DU CODE	16047
 NITDA Code of Practice	5215
 NIVEAU D'HÉMOGLOBINE SEUL CODE Y SEUL	13300
@@ -1125,6 +1179,7 @@ Namibia Code Indicator	12355
 Namibian Postal Code	13081
 Narcotics Code	17934
 National AI Code of Ethics	11135
+National Alert Code	18198
 National Building Codes	1988,9869
 National Building Regulations and Codes	13060
 National Code of Conduct	16978,160
@@ -1149,6 +1204,8 @@ Network Subnetwork Code Edge	8605
 Network Subnetwork Code Web	8605
 News Media Bargaining Code	7613
 Nigeria Code Indicator	11884
+No. QUESTIONS ET FILTRES CODES	18204
+No. QUESTIONS ET FILTRES CODES B	18204
 Nombre Codes Renforcement	15580
 Normes Procédures Gestion du Code	16692
 Number Length Service Provider Service Code	16934
@@ -1163,6 +1220,8 @@ Open Data and Data Exchange Platform Code	15713
 Open Data. Le Code du Numérique	15575
 OpenAI. Codex	5967
 Ordem de Codificação	11409
+Orientation du Code Rural URL	18094
+Orientation du Code Rural VU la Constitution VU	18094
 Original Actual Sector Code	16614
 Ouest CGI Code Général des Impôts CMR	10712
 Outputs Codes Headings	16927
@@ -1206,6 +1265,7 @@ Penal Code of Eritrea	13954
 Per the Djiboutian Nationality Code	13938
 Personal Status Code	17970
 Petroleum Code	10841
+PforR. Labor Code	18370
 Plus Code	4118
 Portant Code du Travail	14488,1,1
 Postal Address Code	12140
@@ -1215,7 +1275,7 @@ Postal Codes Postal Codes Update	13081
 Postal Codes. Download Postal Codes	13081
 Poste Code	13390
 Preamble The National Code of Corporate Governance	14736
-Press Code	13461
+Press Code	13461,4897
 Press Code of Ethics and Conduct	8917
 Previous AI Coding Tools Promise Speed	3279
 Price Code	13385
@@ -1280,6 +1340,7 @@ References the Digital Code	5094
 Reform Tax Code	16843
 Reform of Its Electricity Grid Code	11936
 Regarding the Internet Code of Practice	3945
+Region Code	18374
 Registered Proportion Code National	12151
 Registration The Digital Code	11880
 Rejection Reasons CODE DEFINITION DEFINITION AGNT	12364
@@ -1316,6 +1377,7 @@ Références Juridiques Contenu Code des Marchés Publics	10876
 Régime des Zones Franches du Code des Investissements	17817
 République du Congo CODE LIBELLE PREVISIONS	16047
 République du Congo Code	15901,146
+République du Niger. Le Code Général des Collectivités	18096
 Révision Codex STAN	16103
 Révision NA Codex	16103
 Révision du Code	13334
@@ -1336,11 +1398,13 @@ SWIFT Bank Identifier Codes	12484
 SYSTEM CODES TARIFF PER TRANSACTION PRICING	16844
 Sabur Printing Services CODIFICATION	13963
 Sahel MI NA CODEX STAN	16103
+Sanitation Code	18370
 Screwdrivers Price Code	13385
 Scrip Code	12576
 Search Code	13333
 Search Code Payment Identification Number	13333
 Secondary Ret Code	11180
+Secrétariats Locaux Permanents du Code Rural Article	18094
 Section S du Code	4567
 Secure Application Coding Principles	15161
 Secure Coding	15161
@@ -1348,6 +1412,8 @@ Secure Coding Guidelines for Java SE	15161
 Secure Coding Practices A. Input Validation	15161
 Secure Investment Environment Code Action	15713
 Security Code and Email Address Step	14784
+Senegalese Labor Code	18370
+Senelec Le Code	18322
 Senior AI Expert Cultivation and Attraction Code	15713
 Service Code	16934
 Service Code Allocations	16934
@@ -1384,6 +1450,7 @@ Subbase Price Code	13385
 Submit the Market Code	11236
 Such Codes	961
 Support for AI Startups Code E-I16-1 Action	15713
+Supérieur Code	18204
 Swift BIC Codes	12364
 Swift BIC Codes SWIFT BIC TEST	12364
 System CCV Computer Coded Verbal Autopsy	12413
@@ -1393,6 +1460,7 @@ TAX COMPLIANCE SYSTEM PIN CODE	11240
 TAX PROCEDURES CODE	14484
 TEXTES FISCAUX NON CODIFIES	16020
 THEUBERIAN CODE OF LAWSREVISED	16833
+TIC No. QUESTIONS ET FILTRES CODES	18204
 TION DU CODE DE SECURITE SOCIALE	16047
 TIQUETTE CODE BARRE	13300
 TIQUETTE CODE BARRE SUR LE PAPIER	13300

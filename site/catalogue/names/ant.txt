@@ -20,7 +20,7 @@ AMR Resistência Antimicrobiana APHEF African Public	15966
 ANO Amoa Antoine	2342
 ANOR ANTIC API APICCAM ARMP ARSEL	15542
 ANT CONNECT Online	15164
-ANT Vision	2439
+ANT Vision	2439,15880
 ANTALIYA HOSPITAL Data Controller INST-145060137B6 GARISSA	7167
 ANTANANARIVO	14481,111
 ANTARA HEALTH LIMITED Data Controller INST-198582479BC	7167
@@ -35,6 +35,7 @@ ANTERIEURS IMPOTS SUR LES T82 EXCEDENTS	18032
 ANTHONY	6613
 ANTHONY WANJOHI NDAMBIRI Data Processor INST-1152252C025	7167
 ANTHROPOMÉTRIE	13300
+ANTHROPOMÉTRIE ET TEST DE L’IODE DANS	18312
 ANTI STHMATIQUES BECLOMETASONE	15930
 ANTI-ALLERGIQUES LOCAUX CROMOGLYCATE DE SODIUM LEVOCABASTINE	15930
 ANTI-ALOPECIQUES ET ANTI-SEBORRHEIQUES ACIDE TRETINOIQUE	15930
@@ -163,6 +164,8 @@ Ann Anthropol Pract	1219
 Ant Group	6971,1306
 Ant International	5325,2700,2715,53,6935
 Ant International Group	11121
+Anta Babacar NGOM	18310
+Anta Babacar NGOM ARC F	18310
 Anta Diouf	11745
 Antalya	8797
 Antananarivo	481,3863,2501,308,206,6385,58,465,147,2,1,7,6,1,6,3,2,3,3,2,8,1,4,9,3,6,2,5,1,1,4,6,2,10,2,3,20,1,3,1,2,1,2,1,4,8,11,3,30,6,4,5,3,12,1,4,7,16,7,8,1,4,2981
@@ -223,6 +226,7 @@ Antenne	14450,964,680,458,1347,194
 Antenne Centre	16012
 Antenne Large NIG-ICO-AH7-ARCEP- NIGER Airlines DP24001E	998
 Antenne MHz	998
+Antenne MMDS	18312
 Antenne Spéciale	14450
 Antenne Trois-	998
 Antenne de Ngozi	13442
@@ -313,7 +317,7 @@ Anthropol	1219
 Anthropology	17114
 Anthropometric	13385
 Anthropometry	13454,613,1180
-Anthropométrie	13300
+Anthropométrie	13300,5012
 Anthroponyme	17876
 Anti Corruption	12972
 Anti Corruption Act	13339,32
@@ -375,7 +379,7 @@ Anti-Corruption Court	17037
 Anti-Corruption Courts	13474
 Anti-Corruption Development Services Systems	11224
 Anti-Corruption Fight	5910,491
-Anti-Corruption Guidelines	10829,1136,2947,2024,13
+Anti-Corruption Guidelines	10829,1136,2947,2024,13,1249
 Anti-Corruption Guidelines. Page	11855
 Anti-Corruption Hotline	11350
 Anti-Corruption Index CMF	5951
@@ -500,6 +504,7 @@ Anticipated The Customers	16884
 Anticipated Waste Generation	1988
 Anticipating	2816,8314,779
 Anticipating Conflict	8202
+Anticipating Large and Widespread Deprivation	18301
 Anticipation	10975,3647,3262
 Anticipation Hub	11156
 Anticipatory	7451,1531,376,1798
@@ -577,7 +582,7 @@ Antoine Legrand	11912
 Antoine Lomba	7685
 Antoine Miegakanda	15660
 Antoine NDONGO KOUYA	16175
-Antoine Ngom	7279,1,3087,428
+Antoine Ngom	7279,1,3087,428,7553
 Antoine Ngom. Il	10795
 Antoine Ngom. L’OPTIC	10795
 Antoine Pecqueur	4127
@@ -655,7 +660,7 @@ Antwi	771
 Antwi-Gyekyi	9538
 Antão Chantre	2870
 Antécédents Judiciaires	16143
-Antérieur	2966
+Antérieur	2966,15203
 Antérieurement	15591,2239
 Antérieurs	17872
 Antónia B. Lopes Membro	17032
@@ -781,6 +786,7 @@ Centre de Traitement Anti Lèpre DAF	15475
 Centres Antituberculeux	15423
 Chairperson of Liberia Anti-Corruption Commission	17037
 Cheikh Anta Diop University	2335,14031
+Cheikh Anta Diop University UGB	18309
 Chief Executive Officer Antoine Sebera	6388
 Chief Executive Officer Eng. Anthony Lenayara	12314
 China. Anthropic	8788
@@ -897,6 +903,7 @@ Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1,7273,595,418,1
 Eastern and Southern African Anti-Money Laundering Group	11134
 Eastern and Southern African AntiMoney Laundering Group	11131
 Economic Development Board of Madagascar Antananarivo	14457
+Economy High School of Dakar Cheikh Anta	18293
 Egyptian Anti-Cyber and Information Technology Crimes	15713
 Elected President A Gambian Singer’s Anti-Corruption	17069
 Electricidad Antonio Oburo Ondo	9303
@@ -1050,6 +1057,7 @@ Kiellet Tenart Antenne	16552
 Kwame Anthony Appiah	4258
 LACC Anti-Corruption	17139
 LACC Liberia Anti-Corruption Commission LRA Liberia	16949
+LE SEL Anthropométrie	18312
 LES PÉRIODES ANTÉRIEURES D'UTILISATION ET	13300
 LETTRES Anthropologie	15674
 LUTTE CONTRE LES ANTIVALEURS MINISTERE	15660
@@ -1398,7 +1406,8 @@ Une Antenne	13723
 United Nations Secretary-General António Guterres	7059,415
 Universidad Catolica San Antonio de Murcia	12951
 University of Antananarivo	13774,674
-Université Cheikh Anta Diop de Dakar	10576
+Université Cheikh Anta Diop	18412
+Université Cheikh Anta Diop de Dakar	10576,7717
 Use Antirétroviraux Access	14622
 Usna Anténio Quadké Av. Joso Bernardo	17312
 Usna António Quadé	4435

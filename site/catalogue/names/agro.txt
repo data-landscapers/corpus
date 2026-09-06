@@ -30,6 +30,7 @@ Agro-Climatic Resilience	11469
 Agro-Climatic Zones of Nigeria	16135
 Agro-Ecological Regions	520
 Agro-Ecological Zone	12912
+Agro-Hydro-Climatiques	18238
 Agro-Industrial Processing Zone	17139
 Agro-Industrie	2342
 Agro-Industry and Commerce	14818
@@ -38,9 +39,10 @@ Agro-Meteorologist	13365
 Agro-Meteorology	13978
 Agro-Tourism	14818
 Agro-Tourism Agro-tourism	14818
-Agro-alimentaire	10875
+Agro-alimentaire	10875,7440
 Agro-based	2775
 Agro-business	16861
+Agro-climate	18309
 Agro-ecological Zone and Carrying	12912
 Agro-ecological Zones	520
 Agro-ecological Zones and Carrying Capacity	12912
@@ -58,7 +60,7 @@ AgroMet and Rainfall Stations	16947
 AgroParisTech	7390,8969
 AgroPraga	16229
 Agroalimentair	17829
-Agroalimentaire	15412
+Agroalimentaire	15412,2867
 Agroalimentaires	10965
 Agroecological	14818
 Agroecology	14818,2346
@@ -116,6 +118,7 @@ Cooperative Agro-input	17043
 Digital Agro-Climate Advisory Services	13925
 Digital Agro-Climatic Information Systems World Bank	1024
 Digital Innovations Project For Agro-Pastoralists Niger	625
+Diouf ANACIM Agrometeorologist Mme Adji Awa	18309
 Département AGRO-ALIMENTAIRE PROJET DE PROGRAMME	16103
 E SOCIETE TOPEC AGRO-ELEVAGE DEVELOPPEMENT	16623
 Encargado de Desarrollo Agroindustrial	6841
@@ -124,6 +127,7 @@ Engineer Ministry of Agro-Industry	14770
 Entrepreneurship Agro-entrepreneurship	10841
 Estratégia de Desenvolvimento Agrosilvopastoril	15433
 FCFA Agronomique	2342
+FORMATION EN AGRO INDUSTRIE ET COMMERCE	18170
 Faculté des Sciences Agronomiques	15682
 Ferme Agropastorale de N'Djili Brasserie	15682
 Filières Agroalimentaires	643
@@ -134,6 +138,7 @@ Gestion Publique Finance Agro Energies Mines	13568
 Good Nature Agro	12376
 Good Nature Agro. Available	12376
 GoodNature Agro. Available	12376
+Gueye ANACIM Head of Agrometeorology Department	18309
 I Censo Agropecuario	17422
 I Censo Agropecuario URL	17422
 I Censo Agropecuario V Censo de Población	10487
@@ -192,6 +197,7 @@ Société Faso Agropoles	16287
 Société Faso Agropôle	16117
 Société Faso Agropôles	16117
 TOPEC AGRO-ELEVAGE DEVELOPP	16623
+Ten Agrometeorological Bulletin	18309
 U AGRO FOOD INDUSTRIE GUINEE AFI	16623
 Ubuntu Capital and Agrofresh Ug	11659
 Virtual Agronomist	5598

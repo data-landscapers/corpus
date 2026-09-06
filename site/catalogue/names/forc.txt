@@ -2,6 +2,7 @@ AACB Task Force	4103
 ADEA Task Force	13310
 ANALYSE DES FORCES	16195,1687
 ANNUAL REPORT Mauritius Police Force Publication	14760
+APBE. Forced	18125
 AVCA Trade Buyers Remain Driving Force	4972
 Abolition of Forced Labor Convention	16972
 Abolition of Forced Labour Convention	14742
@@ -28,7 +29,7 @@ Analyse SWOT FORCES FAIBLESSES	15936
 Analyse des Forces	17860
 Anned Forces	15363
 Arab and Foreign Forces	15492
-Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366
+Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414
 Armed Forces Day Deputy Foreign	17025
 Armed Forces Day REPORT	17025
 Armed Forces Health Services	11401
@@ -56,6 +57,7 @@ COMMANDEMENT DES FORCES Gendarmerie DE POLICE	15901
 COMPETENCES Forces Faiblesses SERVICES Forces Faiblesses	15512
 Capacity Building for Nigeria Police Force	16758
 Central Bank of Egypt Task Force	6938
+Cette Task Force	18196
 Characteristics of Outside the Labour Force	11296
 Chef de Section Hydrauli- Ministère des Forces Armées	17812
 Chef des Forces de Police Nationale	16143
@@ -85,6 +87,7 @@ Defence Forces	972,5815,6499,29,186,3329
 Defence Forces Medical Services	13430
 Defence and Security Forces	5841,2356
 Department Force	1777
+Diffusion FAIBLESSES FORCES Absence	18291
 Digital Economy Task Force	468
 Digital Economy Task Force European Commission	468
 Digital Transformation Task Force	4242
@@ -114,6 +117,7 @@ Establish the Incident Response Task Force	1777
 Etat-Major des Forces Armées	16370
 External Environment Scanning Forces	13005
 FACA Central African Armed Forces	15415
+FAIBLESSES FORCES	18291
 FFOM Forces	13341
 FIJ Story Forced Contractor Back	7176
 FIRST Force	1777
@@ -123,16 +127,19 @@ FORCE ET L'AUTO-SUFFISSANCE	17323,1
 FORCE FRANÇAISE CE	2556,995,1106,1302,1374
 FORCE MAJEURE	15149
 FORCE MAJEURE The Licensee	15149
+FORCE N	18329,40
+FORCE-N	18329
 FORCED DISPLACEMENT IN WEST AND CENTRAL	17323,1
 FORCED DISPLACEMENT TO THE FEDERAL	14096
-FORCES	13306,4595
+FORCES	13306,4595,204,186
 FORCES ARMEES CONGOLAISES	15744,157
 FORCES ARMEES CONGOLAISES B	15744
 FORCES ARMEES CONGOLAISES Commandant PAMBOU TCHICAYA	15744
 FORCES ARMEES CONGOLAISES MINISTERE	15744,157
 FORCES DE POLICE NATIONALE	16143
 FORCES DU SSN	17842
-FORCES FAIBLESSES	10712,4830
+FORCES FAIBLESSES	10712,4830,2749
+FORCES FAIBLESSES Existence	18291
 FORCES FAIBLESSES OPPORTUNITES MENACES	17844
 FORCES X L’existence	16195
 FORCIBLY	16580
@@ -155,7 +162,7 @@ Fire and Rescue Force	10460
 FoRCEMENT DE L	14479
 Food Security Task Forces	12158
 Forcas	2228
-Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199,476,93,6,244,16,35,7,160,116,76,369,186,8,509,32,424,22,34,104
+Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199,476,93,6,244,16,35,7,160,116,76,369,186,8,509,32,424,22,34,104,305,9,25
 Force ARTICLE	14409
 Force Account	17180
 Force Armée Congolaise	5103
@@ -188,6 +195,7 @@ Force and Duration	15901
 Force and Duration Banque	15901
 Force de Défense	13341
 Force de Défense Nationale du Burundi	13329
+Force de Dépenses	18204
 Force-Jeune. Cette	13789
 Force. The Loan Agreement	16219
 Forced	12779,406,1689,1345,895
@@ -210,9 +218,9 @@ Forced Marriage	9766
 Forced Migration Review	12227
 Forcepoint	10102
 Forcepoint Web Security	10102
-Forces	17,1950,698,651,80,24,573,1216,698,1052,3588,327,1,1,58,4408,39,98,22,11,36,32,144,3,127,82,63,196,158,104,184,1186,56,99,21
+Forces	17,1950,698,651,80,24,573,1216,698,1052,3588,327,1,1,58,4408,39,98,22,11,36,32,144,3,127,82,63,196,158,104,184,1186,56,99,21,98,4
 Forces Agreement	3583
-Forces Armées	7843,394,3663,4465,1463,13,4,16,21,17,9,74,1,20,29
+Forces Armées	7843,394,3663,4465,1463,13,4,16,21,17,9,74,1,20,29,254
 Forces Armées Burundaises. Pour	13329
 Forces Armées Centrafricaines FCR Financial Crime	15415
 Forces Armées Congolaises	15405
@@ -223,15 +231,15 @@ Forces Armées. Article	18003
 Forces Contractuel	17899
 Forces Démocratiques	15465,991
 Forces Faiblesse	10874
-Forces Faiblesses	10874,4619,1135
+Forces Faiblesses	10874,4619,1135,1669
 Forces Faiblesses Analyse des Opportunités	17860
 Forces Faiblesses PNDIS	13306
 Forces Le Conseil	15405
 Forces Optimiser	15999
 Forces United Nations Integrated Transition Assistance	15342
 Forces de Defense Coordonner	15999
-Forces de Défense	643,4661,2070,2885,233,1105,1732,913,331,1912,150,2,8,6,1020
-Forces de Défenses	15643
+Forces de Défense	643,4661,2070,2885,233,1105,1732,913,331,1912,150,2,8,6,1020,517,44,15,4,31,4
+Forces de Défenses	15643,2561
 Forces de Police	7940
 Forces de Police Nationale	16143
 Forces du SSN	17842
@@ -350,7 +358,8 @@ Maxar Technologies The Armed Forces	15473
 Members of Defence Forces	12226
 Militaires des Forces Armées	17982
 Ministre des Forces	5907
-Ministère des Forces Armées	17812
+Ministre des Forces Armées	18412
+Ministère des Forces Armées	17812,474
 Misrata Air Force Base	11131,3
 Mobile Force	14760
 Motos Jakarta Yamaha Force X	17845
@@ -372,7 +381,7 @@ National Service Products Organization and Armed Forces	15473
 National Task Force	13226,790
 Naval Force Base	6230
 Necessary Unified Forces	3583
-Nigeria Police Force	2269,4841,1361,1578,5,1660,143,71,48,69,2652,2061
+Nigeria Police Force	2269,4841,1361,1578,5,1660,143,71,48,69,2652,2061,1396,74,18
 Nigeria Police Force Headquarters	8471
 Nigeria Police Force Headquarters and FCT Command	8662
 Nigeria Police Force Legal Directorate	8471
@@ -380,6 +389,7 @@ Nigeria Police Force National Cybercrime	2269
 Nigerian Air Force	11976
 Nigerian Armed Forces	11851
 Nigerian Police Force	11704
+Nigerien Armed Forces Logistics Center	18241
 Nos Forces	10934
 Outside Labour Force	14815,17
 Outside Labour Force Both Sexes	14832
@@ -425,7 +435,7 @@ SAF Sudanese Armed Forces	15036
 SECURITE Forces Faiblesses	15512
 SERVICES DU MINISTERE DES FORCES ARMEES	17899
 SWOT Forces	15474
-SYNTHESE DES FORCES	17842
+SYNTHESE DES FORCES	17842,449
 SYNTHÈSE DES FORCES	17842
 Security Forces	13123
 Security Forces Kill Protesters	9399
@@ -466,10 +476,11 @@ Sudan Armed Forces	15220
 Sudanese Armed Forces	1851,36,2358,2702,1186,1875,4186,730,21,14,42,35,304,2
 Superior Force	12364
 Support Forces SAF Sudanese Armed Forces	15118
+Sécurité Les Forces de Défense	18310
 TECHSO-GROUP Join Forces	4925
 Tanzania People’s Defence Force	2867
 Task Cybersecurity Council. Force	1777
-Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175,398,25,172,203,151,833,9,319,120,8,182,65,521,418,922,509
+Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175,398,25,172,203,151,833,9,319,120,8,182,65,521,418,922,509,829
 Task Force Committee	14082
 Task Force Curriculaires	15529
 Task Force Name	11129

@@ -54,6 +54,7 @@ CAPEX Subsidy Agreement. Type Financing	15621
 CEEC Preference Type	13621
 CHAQUE TYPE DE PERSONNE ET ACCOUCHEUSE	13300
 CISA Type	13306
+CLASSIFICATION INTERNATIONALE TYPE DE L’EDUCATION ET	18143,27
 CODE G LIBELLE TYPE GESTIONNAIRE ACTIVITE LIBELLE	16623
 COMPETENCY LEVELS AND SKILLS TYPES Digital	1248
 COMPLAINT FORM TYPE OF COMPLAINT	2709
@@ -75,7 +76,7 @@ Centre Broadcasting Monitoring Centre Type Approval	9109
 Certificate Type	11276
 Certification Policy Type	17534
 Choose Client Type	13333
-Classification Internationale Type	10874,6956
+Classification Internationale Type	10874,6956,313,27
 Classification Internationale Type des Professions	14622
 Closing Type	4972
 Cloud Type	13062
@@ -172,11 +173,13 @@ Fees License Type Tenure Application Annual	10407
 Fees Service Type Tenure Application Annual	10407
 Fermé Notice Type Pays Membre	16662
 File Type	8831
+Finance and Budget Type Role Country Line	18359
 Financing Type Constraints P180987 Additional Financing	1284
 Financing Type Constraints P181161 Second	16922
 Financing Type Urgent Need	16896
 Flax Typhoon	11342
 Flow Type	18,9548
+Fournisseurs Qualité Structure Type	18105
 Fraud Types	17362
 Frequency Type	15845
 Frequency of Official Statistics Release Types	17149
@@ -194,6 +197,7 @@ Guinea-Bissau Type	11570
 HEALTH INTEROPERABILI TY IN SOUTH AFRICA	1009
 HL7v3 Abstract Data Type Specification	1009
 Health Tygerberg Central Hospital	11248
+Health and Public Hygiene Type Role Country	18359
 High Resolution HLA Typing	14773
 Hl Ty	15363
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
@@ -219,6 +223,7 @@ Identité du Marque Model Type Bande de Statut	998
 Incubation Acceleration Institute Type Business Training	12376
 Indicateurs Stratégiques Types	16641
 Indicator Framework Drought Type Primary Indicators	17157
+Indicator Population Type Baseline Actual	18125
 Indicator Source of Data Frequency of Report Type	17099
 Indicator Type Indicator Definition Data Sources	17157
 Indicator Type of Monitoring Monitoring Voltage SAIDI	14867
@@ -335,7 +340,7 @@ PURCHASED SEED Crop Type Local	17043
 Par Type	16047
 Participant Type	12364
 Payment Type	13621
-Pays Type	13804,2
+Pays Type	13804,2,4531
 Percentage Contribution Type of Asset	2775
 Performance Test Types Implement	11952
 Permit Type	16843
@@ -392,6 +397,7 @@ Road Fund Type Implementing Agency Implementing	1228
 Rubber Tyred Gantry	14830
 Région Multiple Type	15599
 Répartition Surface Types	14488
+Résumé Type	18337
 SAS Types	14488
 SEASON AND LIVESTOCK TYPE Feed	17043
 SECTOR TYPES	1940
@@ -400,6 +406,7 @@ SELLING HARVEST BY TYPE OF SPECIES	17043
 SERVICE TYPE	16884
 SN Types of Training No	14738
 SN Types of Training No. of Officers Trained	14746
+SOCIETE TYPE DE DEMANDE REFERENCE	18322
 SOMELEC. Type	1993
 STATISTIQUES DES AUTRES TYPES DE FORMALITÉS	16249
 SURGERY BY TYPE	16892
@@ -436,6 +443,7 @@ Seismic Source Type	11405
 Select the TRN Tax Type	11298
 Selection Duplex Type TDD TDD TDD	736
 Selon la Classification Internationale Type	17830
+Senegal Type Role Country Country	18359
 Service Type	14151,3099
 Service Type Average Cost	15120
 Sex and Type of Offence	2775
@@ -490,6 +498,7 @@ TYPE DE LA D'INSECTICIDE	13300
 TYPE DE PARTIES PRENANTES Autorités	14425
 TYPE DE PARTIES PRENANTES Organismes	14425
 TYPE DE PARTIES PRENANTES PARTIES PRENANTES	14425
+TYPE DE REDEVANCE PREVISIONS	18122
 TYPE DE SERVICE FRAIS DROITS D’ETUDE	17899
 TYPE DE SERVICE REDEVANCES Bamako	17899
 TYPE DE TOILETTES	13300
@@ -528,6 +537,7 @@ TYPE-APPROVAL OF TERMINAL EQUIPMENT Principles	16839
 TYPE-WISE	14760
 TYPES AND FORMS OF COMPANIES	3714
 TYPES DE FORMATION	15670
+TYPES DE RESEAUX INTERNET UTILISES PAR	18204
 TYPES DE TRANSACTIONS TYPES DE PAIEMENTS	10711
 TYPES OF ADDRESSES	11129
 TYPES OF BUILDING Places	11129
@@ -643,11 +653,13 @@ Type OF CEREALS	17043
 Type Of License Licensed	718
 Type Of Residence And County	16921
 Type PE	17856
+Type Page	18109
 Type Perturbation	14488,1,1
 Type QR	10900
 Type RE-3 CE-1 Recommandation Sous-recommandations Actions	17856
 Type Recommandation CI-3 Une	17856
 Type Recommandation DI-1 Un Mali	17856
+Type Role Country Line Ministry	18359
 Type Server	11133
 Type Sheetfed	34
 Type Standardized Precipitation Index Recommended	17157
@@ -752,7 +764,7 @@ Type-approval	16810,74,366
 TypeORM	17902
 TypeScript	5513,6409,322
 TypeScript and Python	13272
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108
 Types Effectif Pourcentage	10875
 Types Gouvernance	14424
 Types Installed ENERGY MIX Generation	12358
@@ -796,7 +808,7 @@ Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132,259,461,353,680,2
 Typing	12266
 Typist	13251
 Typographic	8604
-Typologie	5740,3151,2084,969,2479,1006,113,366,28,423,267
+Typologie	5740,3151,2084,969,2479,1006,113,366,28,423,267,1492
 Typologie Coût Bâtiment	16047
 Typologie Région Uniper Couples	18014
 Typologie Urbain Sexe	18014
@@ -835,6 +847,7 @@ W USB Type	13524
 Work Type Patterns	16266
 X. TYPOLOGIE ET ANALYSE DES RISQUES	10876
 X.2. Typologie	10876
+Y6fu Tyw5Gc9m5dmiPkV Ms2YdiAozb8slwOrSoF0	18179
 Year Number of Type Approved Equipment Average	12395
 Zimbabwe Health Facility Type Code System	6666
 Zimbabwe Health Facility Type Value Set	6666

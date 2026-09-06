@@ -6,9 +6,11 @@ ABBREVIATIONS AND ACRONYMS Acronym CERC CMC	4653
 ACRONYMS CMU CNPS Advisory Services and Analytics	11855
 ACTUAL HACIENDA CMF	4209
 ACTUAL MINISTERIO CONCEPTO HACIENDA CMF	4209
+ANEC. CMS	18411
 Access CM-IDAM.S3	10721
 Access Control Policy CM-CH	10721
 AfriTrade CMP	9515
+Africa CMSC	18309
 Africa-Press's CMS	4969
 African Financial Community CMT Contract Management	15661
 Agency CMGs Community Microfinance Groups CMSA	7763
@@ -41,6 +43,7 @@ CEDAW CEDAW-OP CERD CESCR CESCR-OP CMW	11765
 CEMAC UMAC COBAC CM	17121
 CENTIMÈTRES. CM	13300
 CERC Contingent Emergency Response Component CMS	15969
+CERC Contingent Emergency Response Component CMU	18301
 CFC CICOS CMTP CNPS	15542
 CFT ATM BSA CBL CIS CMA	12701
 CM Administration	737
@@ -190,6 +193,7 @@ CM1 CM2 Total Sexe	10847
 CM1 Filles	10847
 CM1 and CM2	11905
 CM1 and Unit	11905
+CM2 Cours Moyen	18171
 CM2 Filles	10847
 CM2 Filles Garçons	10847
 CM2 Filles Garçons Total CASCADES	10847
@@ -197,7 +201,8 @@ CM2 Filles Garçons Total NORD	10847
 CM2 Filles Garçons Total SAHEL	10847
 CM2 Taux	10847
 CM2-6	2966,12707
-CM2-6ème	2966
+CM2-6ème	2966,15205
+CM2-6ème Nombre	18171
 CM4 Channel Platforms Development Introduce	12917
 CM44C	12342
 CM5 ICT Mass	12917
@@ -254,7 +259,9 @@ CMCA Computer Misuse and Cybercrimes Act COTS	6432
 CMCA Part V	17745
 CMCA Regulations	17745
 CMCAA	15474
+CMCAN	18149
 CMCD Comités	18015
+CMCF. Enfin	18114
 CMCs and INAGE	2989
 CMDCV	7466,4406,3,64,3593,152,343
 CMDCV Digital Signature	11875
@@ -267,6 +274,7 @@ CMET LEGISLATIF ET REGLEGENTAIRE RD STATUTORY	15999
 CMF HACIENDA CMF CUOTA ANUAL CUOTA	4209
 CMGs and SACCOs	7763
 CMI Bank of Namibia National National National	6938
+CMI TaxCapDev Conference	18318
 CMI URL	17466,29
 CMI. Cette	17466
 CMI. Techniquement	17495
@@ -305,6 +313,7 @@ CMOSIP	5700
 CMP de BANGUI. Période	15774
 CMPHS	14723,92,17,4
 CMPHS for Mauritian	14832
+CMPME	18227
 CMPort and IMF	13868
 CMQ-CM-11-DU-22.10.25.pdf REPUBLIQUE DU BURUNDI PRESIDENCE	13445
 CMR Asylum-seekers REF	11900
@@ -343,6 +352,8 @@ CMU Ministère De La Santé	15936
 CMU Résultat	13306
 CMU-Africa	146,240,317,207,1,10166,6684
 CMU-Africa's George Okeyo	17761
+CMU. Elle	18290
+CMU. Plusieurs	18290
 CMU.6 The DLR	16032
 CMWAPT	15662
 CMineral	17140
@@ -424,7 +435,9 @@ HACIENDA CMF HACIENDA CMF ACTUAL ACTUAL	4209
 IC NICKEL Limited. La CMB	2342
 INDICATEUR CMPJ Nombres	15999
 Identity CM	10721
+Identité CMU Couverture Maladie Universelle DAF	18290
 Information Infrastructure Assets CM-NSCI	10721
+Initiation CM1 Cours Moyen	18171
 Ivoire Par DR CMU	10918
 J CMA CGM GUINEE CMA-CGM GUINEE	16623
 Kenya's CMCA Part V	17745
@@ -454,6 +467,7 @@ Network CM-NSCI	10721
 Network Security CM-IDAM.S7	10721
 Network Security Policy CM-CH.S12 CM-CH	10721
 Nombre de CMCD	15599
+Non Redoublants CM2 TBA	18171
 O CM	15526
 O CMC Medico	15426
 ORANGE Cm	15480
@@ -505,6 +519,7 @@ Sexe du CM Masculin	737
 Social and Cultural Rights CMO	14742
 Statistique CMAP	17844
 Sud-Ouest Sexe du CM	737
+Sénégal CMS Crédit Mutuel du Sénégal CNCR	18286
 TAILLE EN CM	13300
 TNM CMS Adjudication Service	13005
 Tax ICDL International Computer Driving CMM	14897

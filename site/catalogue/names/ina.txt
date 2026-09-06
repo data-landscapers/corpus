@@ -123,7 +123,7 @@ INAYA	17869
 INCM INCM INCM FSAU INAGE INAGE	2989
 INSD Inadéquation	10874
 Inaan	14906
-Inability	961,3478,409,4129,1852,327,830,255,723,116,15,3746,102
+Inability	961,3478,409,4129,1852,327,830,255,723,116,15,3746,102,1427
 Inable and Inclusive	11332
 Inaccessibility and Low Maintenance of Medical Data Archive	6948
 Inaccessibilité	3396,11141,3345
@@ -137,6 +137,8 @@ Inaccurate	11142,3855,375,1599,178
 Inaccurate AI	6948
 Inaccurate Personal Data	11956
 Inaccurate Undecided	17149
+Inactif	18204
+Inactifs	18204
 Inactivated Polio Vaccine	11401
 Inactivated Polio Vaccine Integrated Specimen RefeITal	4153
 Inactivated Poliovirus Vaccine	11401
@@ -152,7 +154,7 @@ Inadeinxg	11152
 Inadequacies	14546,389
 Inadequacy	10829,2485
 Inadequado	15694
-Inadequate	173,222,371,174,18,3,200,100,567,1755,1950,2015,888,235,1146,295,438,262,164,157,55,42,1,21,149,68,83,322,7,26,53,26,165,59,36,7,2,2,89,10,89,229,243,45,2,8,65,2,3,38,15,200,19,45,61,637,80,409,183,5,84,17,62,25,13,12,50,247,414,55,47,85,988,25,2,16,8,1,42,15,1,8,19,1,7,33,103,25,18,103
+Inadequate	173,222,371,174,18,3,200,100,567,1755,1950,2015,888,235,1146,295,438,262,164,157,55,42,1,21,149,68,83,322,7,26,53,26,165,59,36,7,2,2,89,10,89,229,243,45,2,8,65,2,3,38,15,200,19,45,61,637,80,409,183,5,84,17,62,25,13,12,50,247,414,55,47,85,988,25,2,16,8,1,42,15,1,8,19,1,7,33,103,25,18,103,1110
 Inadequate Achieve Increase Strengthen	15845
 Inadequate Awareness of PPP Activities	14546
 Inadequate Capacity	16927
@@ -212,6 +214,7 @@ Inaugura-se	2125
 Inaugurado	10442,311
 Inaugural	16926
 Inaugural AI Innovation Demo Day	5413
+Inaugural Address	18162
 Inaugural Board	12951
 Inaugural Chair of National Cybersecurity Agency Kenya	10737
 Inaugural Economic and Commercial Dialogue Together	12517
@@ -219,6 +222,7 @@ Inaugural Edition	7606,8650
 Inaugural Eswatini Science	12971
 Inaugural Excellent Awards	11134
 Inaugural HICA Board Meeting	10659
+Inaugural Leaders’ Session	18378
 Inaugural Lecture	11715
 Inaugural NASK	12149
 Inaugural Phase	18036
@@ -234,7 +238,7 @@ Inaugural Western Cape Infrastructure Ministerial Roundtable	8564
 Inaugurant	16093
 Inaugurar Múltiples Nacional	4209
 Inaugurated	2356,501,604,3175,8421
-Inauguration	1189,1153,1991,469,8317,1498,143,13,720,425,1292,641,191
+Inauguration	1189,1153,1991,469,8317,1498,143,13,720,425,1292,641,191,200
 Inauguration du HUB	2370
 Inauguration of Mankantimane Suspended Foot Bridge	12977
 Inauguration of Rubavu Electricity Distribution Network	12429
@@ -307,6 +311,7 @@ Report Inadequate Gov Technical Support for Evaluating	12214
 SPE GRH GTIC INADE INE INEE	10766
 Safe Food Production Inadequate	14818
 Secondary Inability	15604
+TE N ME R INA NDAKHAR	18322
 TF Inacti	737
 Taxpayer Category Number of Taxpayers Number of Inactive	17011
 Tempo INAMET Consulte	9040

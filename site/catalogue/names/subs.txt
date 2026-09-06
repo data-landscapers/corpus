@@ -16,7 +16,8 @@ Addressing Substance Abuse	10776
 Advisory Committee SIM Subscriber Identity Module	6946
 Africa Subsea Cable	8679
 Africa. Subsequent	13974
-Afrique Subsaharienne	9615,6065,32,538,205,1389
+Afrique Subsaharienne	9615,6065,32,538,205,1389,442
+Afrique Subsaharienne AICD	18291
 Afrique Subsaharienne ANPE	737
 Afrique Subsaharienne ANSADE	17844
 Afrique Subsaharienne ANSSI	10874
@@ -130,6 +131,7 @@ DEEE Substances Présence	14423
 DES SUBSTANCES MINERALES DU GROUPE	17827
 DES SUBSTANCES PRECIEUSES Général	18032
 DES Scope Subsystem Type Categorical	7221
+DIGITAL SUBSCRIBER LINE AGENCE NATIONALE	18105
 DSL Digital Subscriber Line DTH Direct-To-Home	6671
 DTAA. Subsequently	14839
 DTH Subscriptions	6671
@@ -284,6 +286,7 @@ Hadero. Subscribers	10574
 Handset Subsidy Toolkit	11004,960
 Handset Subsidy Toolkit E.g. Promote	11964
 Hazardous Substances Act	3651
+High Fiduciary Substantial Moderate Moderate Environment	18354
 High Substantial Moderate	16960
 High Substantial Table	15661
 Households Receiving Energy Subsidies	12399
@@ -434,6 +437,7 @@ Mobile Voice Subscriptions and Penetration Rate Subscription	2776
 Mobile Voice Subscriptions and Penetration Rate3	2776
 Mobile Voice and Mobile Data Subscriptions	2776
 Mobile-Cellular Subscriptions	15136
+Moderate Macroeconomic Low Substantial Substantial Sector	18354
 Moderate Moderate Moderate Overall Substantial Substantial	12267
 Moderately Satisfactory and Substantial	14010
 Modest Modest Substantial High Modest Modest	16436
@@ -529,6 +533,7 @@ Processing Substitution Substitution Recalling	12364
 Program Rating High High Substantial Moderate	15658
 Program Substantial	11380
 Program Substantial Moderate Moderate Institutional Capacity	16638,867
+Program Substantial Substantial Substantial For Official	18354
 Program Substantial Substantial Substantial Low Low	12440
 Programa Inicial de Subsídios	17093
 Project Implementation Update Subscription	15905
@@ -548,6 +553,7 @@ ROW Right of Way SIM Card Subscriber	11857
 Rating Substantial OBJECTIVE	14888
 Rating Substantial OVERALL EFF TBL OBJ TBL	16960
 Rating Substantial OVERALL EFFICACY Rationale	14888
+Rating Substantial Substantial For Official Use	18350
 Rating Substantial Substantial Implementation Status and Key	15619,1019
 Real-Time Payment Subsystem	10775
 Reasons Document for The End-User and Subscriber Services	4732
@@ -614,6 +620,7 @@ SUBSTANTIAL Digital	15447
 SUBSTANTIAL IDT4M Project	12241
 SUBSTANTIAL Risk Treatment Owner	12241
 SUBSTANTIAL SUBSTANTIAL SUBSTANTIAL SUBSTANTIAL SUBSTANTIAL	15480
+SUBSTANTIVE APPLICATION	18154
 SUBSTANTIVE SCOPE AND JURISDICTIONAL ARCHITECTURE	3861
 SUBSTITUIÇÃO E DESISTÊNCIA DE CANDIDATO	11528
 SUBSTITUIÇÃO IARD	11531
@@ -621,7 +628,7 @@ SUBSTITUTE IMPORTED ITEMS	14004
 SUBSTITUTION	13185,1895
 SUBSTITUTION DE BASE LEGALE OÙ	15999
 Safeguarding Subsea Cables	4676
-Satisfactory Satisfactory Overall Risk Rating Substantial	13027
+Satisfactory Satisfactory Overall Risk Rating Substantial	13027,5327
 Scheme. Subsistence Allowance Scheme Child Allowance	14835
 Scholarship Policy Incentives Subsidies Visa Convenience	15713
 Scope Subsystem Type Binary	7221
@@ -906,19 +913,21 @@ Substance Abuse Plan	13474
 Substance Abuse Rehabilitation	14748
 Substance Index SOT Shimanzi Oil	12256
 Substance Oxyde	14423
-Substances	14267,156,3476,133
+Substances	14267,156,3476,133,86
 Substances Act	13403
 Substances Chimiques	15936
 Substances Naturelles Technologiques de Bamako	17829
 Substances and Hazardous Wastes	14409
 Substances and Hazardous Wastes. ARTICLE	14409
-Substantial	764,205,27,220,48,13,7,6,480,4,93,188,198,459,177,567,148,176,908,932,919,40,349,949,2891,7,54,3,38,16,78,431,22,52,56,35,295,11,39,19,32,9,6,17,188,79,23,749,27,4,37,236,1,60,342,122,64,50,40,477,89,51,270,13,25,2,11,6,22,4,17,20,2,12,66,41,21,31,221,13,23,33,31,7,35,48,20,37,1,2,41,2,33,45,177,31,23,66,65,240,14,38,178,91,221,23,11,34,6,37,42,17,18,2,354,379,13,42,54,4,44
+Substantial	764,205,27,220,48,13,7,6,480,4,93,188,198,459,177,567,148,176,908,932,919,40,349,949,2891,7,54,3,38,16,78,431,22,52,56,35,295,11,39,19,32,9,6,17,188,79,23,749,27,4,37,236,1,60,342,122,64,50,40,477,89,51,270,13,25,2,11,6,22,4,17,20,2,12,66,41,21,31,221,13,23,33,31,7,35,48,20,37,1,2,41,2,33,45,177,31,23,66,65,240,14,38,178,91,221,23,11,34,6,37,42,17,18,2,354,379,13,42,54,4,44,98,29,65,95,8,54,4
+Substantial A.1 Environmental Risk Rating Substantial	18374
+Substantial A.2 Social Risk Rating Overall	18374
 Substantial Adopt	13938
 Substantial Approval Date	1228
 Substantial Apr	2712
 Substantial Assessment of Achievement of Each Objective	17849
 Substantial Borrower	14456
-Substantial COMPLIANCE Policy Does	10964,561,4028
+Substantial COMPLIANCE Policy Does	10964,561,4028,2551,197
 Substantial Comments	14056
 Substantial Concept Review Decision	14015
 Substantial Dec	17958
@@ -930,15 +939,16 @@ Substantial Ensure	10768
 Substantial Environment and Social	1284,1428,3867,5392,17,1070,862,1111,706,276,66,626,289,85,17,862
 Substantial Environment and Social Stakeholders Overall	11395
 Substantial Expected Approval Date	14976
-Substantial Fiduciary	6579,1298,2993,2188,862,1111,128,1835,102,910
+Substantial Fiduciary	6579,1298,2993,2188,862,1111,128,1835,102,910,349
 Substantial Financing	1867,8962
+Substantial For Official Use Only	18354
 Substantial Implementing Agency	15190
 Substantial Institutional Capacity for Implementation	1284,1428,1976,11391,626
 Substantial Jan	4688,11391
 Substantial Jun	6579,349,5043
 Substantial LEGAL COVENANTS1 LEGAL COVENANTS	1284
-Substantial Macroeconomic	1284,3404,1891,1298,4111,1932,1817,276
-Substantial Macroeconomic Moderate Moderate Moderate Sector	17505
+Substantial Macroeconomic	1284,3404,1891,1298,4111,1932,1817,276,2120,222
+Substantial Macroeconomic Moderate Moderate Moderate Sector	17505,845
 Substantial Mar	16705
 Substantial Moderate Moderate Moderate Moderate Environment	12440
 Substantial Nov	17079
@@ -954,10 +964,10 @@ Substantial Planned	11525
 Substantial Prepare TORs	10768
 Substantial Risk	17114
 Substantial Risks Description	11417
-Substantial Sector Strategies and Policies	1284,1428,3867,349,3942,1118,1932,1111,128,578,1359
+Substantial Sector Strategies and Policies	1284,1428,3867,349,3942,1118,1932,1111,128,578,1359,1037
 Substantial Sector Strategies and Policies Technical Design	11395
 Substantial Seeking	17037
-Substantial Stakeholders	4688,3189,4094,17,2992,51,128,578,276,66,626,295,958
+Substantial Stakeholders	4688,3189,4094,17,2992,51,128,578,276,66,626,295,958,397
 Substantial Substantial	13027,4478
 Substantial Substantial Apr	12228
 Substantial Substantial Results PDO Indicators	15619
@@ -968,10 +978,10 @@ Substantial Substantial Substantial Overall Substantial	13027,2592
 Substantial Substantial Technical Design of Project	15619,116
 Substantial Sustainability	16994
 Substantial Sustainability Fiduciary	1284,3404,7283,4108,626,374
-Substantial Technical Design of Project	1284,1428,1976,1891,1298,4094,257,39,1653,1111,706,276,66,626,374
+Substantial Technical Design of Project	1284,1428,1976,1891,1298,4094,257,39,1653,1111,706,276,66,626,374,1276
 Substantial Technically	11525
 Substantial The World Bank CAR Health	10829
-Substantial The World Bank Implementation	7877,8136,987,96
+Substantial The World Bank Implementation	7877,8136,987,96,1259
 Substantial Undertake	10768
 Substantial Up Window	3604
 Substantial for SEA and SH	10829
@@ -1010,6 +1020,7 @@ Substantial. Implementation	13331,2328
 Substantial. Indeed	16654
 Substantial. Key	16144
 Substantial. Limited	1284
+Substantial. Lithium-ion	18374
 Substantial. Macroeconomic	12176,4773
 Substantial. Official Use Only Page	16436
 Substantial. Overall	15553,108

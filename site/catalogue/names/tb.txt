@@ -1,6 +1,9 @@
 AIDS and TB	771,11958
+Achèvement Primaire TBA Taux Brut	18171
 Achèvement TBFS	737
 Acute Malnutrition SC Sick Child TB	17869
+Admission TBP Taux Brut de Préscolarisation TBS	18171
+Admission TBS	18100
 Africa TBD	14997
 Angola TB	10784
 Annual TB	4301
@@ -30,13 +33,16 @@ Drug Service NLTCP National Leprosy and TB	16971
 E- During TBD Increased	12253
 E- During TBD Operation	12253
 EFFICACY TBL OBJECTIVE	10779,4109,2072
+Egalité de Genre TBPS Taux Brut de Préscolarisation	18286
 Ensino Secundário Geral Província TBE	10766
 Ensino Secundário Província TBE	10766
 Ensino Secundário TécnicoProfissional Província TBE	10766
 Entry-level Printers TBA	1988
 Ethical Committee TB Tuberculosis Declarations Ethics	12379
+Evolution du TBS	18286
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Exploitation du Backbone Tbps Terabits	16626
+Garçons Filles Garçons Filles TBS	18286
 Geovic Mining Corp TBD	15542
 Global TB	4301
 Global TBD	14997
@@ -76,6 +82,7 @@ NSP TB	10776
 NUMBER PORTABILITY TBD Table	16934
 National TB	10784
 Network Equipment for Data Center TBA TBA	1988
+Non Redoublants CM2 TBA	18171
 Notified TB	16971
 Number TBD TBD	15901
 Number of Notified TB	16935
@@ -101,6 +108,9 @@ QC QMS RTCQI SHA STI TB	4153
 Qty TBD	12763
 Qty TBD TABLE	12763
 Quantity of ZRCP TBA	1988
+REGION TBA	18171
+REGION TBP	18171
+REGION TBS	18171
 RESULT FRAM E TBL IO Indicator Name PBC Baseline	15518
 RESULT FRAM E TBL PD O Indicator Name PBC	15518
 RESULT FRAME TBL IO	16896
@@ -126,6 +136,7 @@ SIM REGISTRATION TBD	16934
 SPS and TBT	11149,4329
 SRMNIA SSP STAR TAB TAS TB	14622
 STI Sexually Transmitted Infection TB Tuberculosis	16971
+Sahel TBA	18100
 Service du Transport du Burundi TBM	13377
 Sexually Transmitted Infections TB	10776
 Significant TB	13163
@@ -248,6 +259,7 @@ TBS Filles	2966
 TBS Plus	18014
 TBS Plus Supérieur	18014
 TBS Taux	17885
+TBS Taux Brut de Scolarisation UCSPE Unité	18286
 TBS Transportable	12911
 TBS. Cela	18014
 TBS. Email	11654

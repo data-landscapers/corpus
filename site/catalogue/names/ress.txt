@@ -27,6 +27,7 @@ Chef de Service Ressources Humaines	16175
 Chef de Service des Ressources	16381
 Coopération DRFM Direction des Ressources Financières	15541
 Croissant Rouge Algérien. Le Directeur des Ressources	15885
+Cuba Ressources	18105
 DE L'ELEVAGE ET DES RESSOURCES HALIEUTIQUES	4402
 DE LA RESILIENCE A DES RESSOURCES	17828
 DE L’EQUILIBRE FINANCIER DES RESSOURCES ET	16020
@@ -39,6 +40,7 @@ DES IMPOTS ET RESSOURCES AUTORISES A-	16020
 DES NOTATION MOYENNE DE LA RESSOURCES	17830
 DES PEUPLES AUTOCHTONES Dahua Développement Ressources	16177
 DES RESSOURCES	17820,8
+DES RESSOURCES ANIMALES CHAPITRE	18094
 DES RESSOURCES ANIMALES ET HALIEUTIQUES	7670,651,7355,441,170
 DES RESSOURCES ANIMALES ET HALIEUTIQUESLe Conseil	7670
 DES RESSOURCES ARTICLE	17821
@@ -50,6 +52,9 @@ DES RESSOURCES FINANCIERES DU CENATEL Article	15366
 DES RESSOURCES GEOLOGIQUES	16001
 DES RESSOURCES HUMAINES	15429,670,282
 DES RESSOURCES HUMAINES DIRECTIONS DEPARTEMENTALES DETACHES	16100
+DES RESSOURCES MATERIELLES DE L’INS EN	18169
+DES RESSOURCES MATERIELLES DES DIRECTIONS SECTORIELLES	18169
+DES RESSOURCES VEGETALES CHAPITRE	18094
 DES RESSOURCES. ARTICLE	17811
 DH Ressources Humaines	1536
 DIRECTION CENTRALE DES RESSOURCES HUMAINES	16175
@@ -79,17 +84,18 @@ Des Ressource	17886
 Des Ressources Article	15412
 Des Ressources Financières	37
 Directeur Ressources Rares	15885
-Directeur des Ressources	8269
+Directeur des Ressources	8269,10131,2,1
 Directeur des Ressources Humaines	15412,763,1670
 Directeur des Ressources Rares	15885
 Direction Centrale des Ressources Humaines	15678
 Direction DGRHAS Générale des Ressources Humaines	11905
 Direction Generale des Ressources DHIS2	14442
-Direction Générale des Ressources	16317
+Direction Générale des Ressources	16317,1788
 Direction Ressources Rares	15885
 Direction de Ressources SIMF la Gestion des Ressources	17845
 Direction des Ressources	16365
-Direction des Ressources Humaines	14424,988,157,142,2119
+Direction des Ressources Financières	18143,26,1
+Direction des Ressources Humaines	14424,988,157,142,2119,313,26,1
 Direction des Ressources Humaines DSCVM	10874
 Direction des Ressources Humaines DSI	14472
 Direction des Ressources Humaines Plan Stratégique National	17882
@@ -97,7 +103,8 @@ Direction des Ressources Humaines du Ministère	15936
 Direction des Ressources Humaines du Secteur Santé	17882
 Direction des Ressources Humalnes	15400
 Directions Centrales de Ressources Humaines	15631
-Directions des Ressources Humaines	8227
+Directions des Ressources Humaines	8227,10002
+Directions des Ressources Humaines des Ministères	18229
 Directrice Générale des Ressources	15828
 Directrice des Ressources Humaines	16294
 Domaine Actions Clés Ressources Humaines Développement	14622
@@ -106,10 +113,12 @@ Du Service des Ressources Humaines	15371
 Département de Gestion des Ressources Naturelles	15682
 Département des Ressources	3551
 Développement Ressources	10712
-Développement des Ressources Humaines	13290,1332
+Développement des Ressources Humaines	13290,1332,3483
 E Ressources Site Gravillon Carrière Ambatomaro	14489,1
 E. STRATÉGIE DE MOBILISATION DES RESSOURCES	17842
+EN ERGY RESSO U RCES SEN	18322
 EN RESSOURCES FINANCIERES	17845
+EN RESSOURCES MATERIELLES EN	18169
 EN VALEUR DES RESSOURCES EN EAUX	17812
 ET DE L’ADEQUATION DES RESSOURCES Article	785
 ET DES RESSOURCES HUMAINES DETACHES OU	15901
@@ -124,8 +133,10 @@ FISCAUX DE LEUR RESSORT	15970
 Fc LA RESSOURCE	15999
 G10 Ressources	18032
 GESTION DES RESSOURCES EN L’Autorité	17819
+GESTION DES RESSOURCES ET DES PROJETS	18170
 GESTION DES RESSOURCES RARES CHAPITRE	15429
 GESTION DU SPECTRE DES RESSOURCES L’Autorité	17819
+Gestion Centralisée des Ressources Humaines	18291
 Gestion Electronique Administrative des Ressources Humaines	17824
 Gestion Intégrée des Ressources	643,17340
 Gestion Licence Pro Gestion des Ressources Humaines	17829
@@ -143,8 +154,10 @@ I'ACCES A DES RESSOURCES DE RESEAU	15429
 II. RESSOURCES HUMAINES	15475
 II.1.3 MOBILISATION DES RESSOURCES DISPONIBLES	13306
 III. RESSOURCES FINANCIERES	15475
+III. Ressources du Système Statistique National	18169
 III.1. STATISTIQUES DES RESSOURCE HUMAINES ET	13500
 III.2.5. Ressources	15685
+III.3. ANALYSE DES RESSOURCES	18291
 Identification des Personnes DES RESSOURCES	17899
 Information des Ressources Humaines	6240
 Intégrée des Ressources	15542
@@ -152,8 +165,10 @@ J SOCIETE EURASIAN RESSOURCES	16623
 LA DIRECTION DES RESSOURCES HUMAINES Etat	16714
 LA RESSOURCES NORME Norme	17830
 LA RESSOURQÉE	15999
-La Direction des Ressources Humaines	2342,13594
-La Gestion des Ressources Humaines	14537
+LIVRE II DU REGIME DES RESSOURCES	18094
+La Direction des Ressources Financières	18169
+La Direction des Ressources Humaines	2342,13594,2169,64
+La Gestion des Ressources Humaines	14537,3568
 Le Directeur Ressources Rares	15885
 Le Directeur des Ressources Rares	15885
 Le Plan Stratégique de Développement des Ressources Humaines	17845
@@ -201,7 +216,7 @@ Pensionista Ressalta-se	12018
 Personnes Ressources	13290
 Personnes Ressources Communautaires	16384
 Plan National de Developpement des Ressources Humaines PNLP	14442
-Planification des Ressources	13306
+Planification des Ressources	13306,4985
 Pro Gestion des Ressourc	17829
 Professeur Administrateur des Ressources	17982
 Programmation des Ressources	14580
@@ -209,7 +224,7 @@ Programme Général de Travail Ressources Humaines	14622
 Programme Ressources Humaines	10876
 Programme de Développement des Ressources Humaines PPEA	15475
 Q SOCIETE RESSOURCES TASSILIMAN BAOULE SA	16623
-RESSOURCES	15999,1831
+RESSOURCES	15999,1831,313,27
 RESSOURCES APPROPRIÉES L’allocation	17830
 RESSOURCES Article	17874
 RESSOURCES COTE D’IVOIRE SARL	2342
@@ -219,7 +234,7 @@ RESSOURCES ET INFRASTRUCTURES AXE	17845
 RESSOURCES ET RESPONSABILITES POUR METTRE EN	14425
 RESSOURCES FINANCIERES DU PROGRAMME STATISTIQUE NATIONAL	16616
 RESSOURCES FINANCIERES ET BUDGETAIRES Article	17886
-RESSOURCES HUMAINES	16195,1687
+RESSOURCES HUMAINES	16195,1687,240,21,27
 RESSOURCES HUMAINES Capitaine	16100
 RESSOURCES HUMAINES En	17845
 RESSOURCES HUMAINES Objectif	16195
@@ -251,8 +266,8 @@ Ressetlement Action Plan	10829
 Ressourc	17827
 Ressource	10858,2467,2217,2285,117
 Ressourcen	694,1
-Ressources	643,104,18,1577,24,195,835,1171,307,3011,1950,139,737,1,146,16,40,61,2366,233,140,129,96,486,54,143,801,6,43,21,48,27,12,57,33,50,2,2,14,8,102,40,48,25,38,48,49,16,6,77,132,13,142,133,12,1,94,720,6,371,11,14,1,16,5,16,17,46,37,1,8,41
-Ressources Animales	3396
+Ressources	643,104,18,1577,24,195,835,1171,307,3011,1950,139,737,1,146,16,40,61,2366,233,140,129,96,486,54,143,801,6,43,21,48,27,12,57,33,50,2,2,14,8,102,40,48,25,38,48,49,16,6,77,132,13,142,133,12,1,94,720,6,371,11,14,1,16,5,16,17,46,37,1,8,41,73,14,3,47,96,26,4,2,1,21,3,5,68,5,2,1,26,2
+Ressources Animales	3396,14890
 Ressources Educatives	13574
 Ressources Educatives Libres	13574
 Ressources En	15901
@@ -261,7 +276,7 @@ Ressources Extérieures RES.INT	15475
 Ressources Génétiques	16381
 Ressources Géolo	16381
 Ressources HMP	14442
-Ressources Humaines	2342,2881,5752,2326,13,128,1107,73,1009,37,507,20,170,251,96,2,740,389,2,19,2,16
+Ressources Humaines	2342,2881,5752,2326,13,128,1107,73,1009,37,507,20,170,251,96,2,740,389,2,19,2,16,287,128
 Ressources Humaines Civiles	15425
 Ressources Humaines Il	14549
 Ressources Humaines L’amélioration	17882
@@ -287,10 +302,12 @@ Ressources Propres	1285,1,1837,1,272,988,1
 Ressources de I'Ecole	15489
 Ressources des Comptes Spéciaux du Trésor	17972
 Ressources du Fonds	15999
+Ressourceshumaines	18297
 Régionale DROS Déni de Ressources	15746
 SARL EURASIAN RESSOURCES	16623
 SCIENCES DE GESTION Gestion des Ressources Humaines	15674
 SECTEUR PRIVE POUR DEBLOQUER DES RESSOURCES	15799
+SECTEUR PRIVE POUR MOBILISER DES RESSOURCES	18316
 SECURISATION ET VALORISATION DES RESSOURCES FAUNIQUES	15999
 SGH ET DES RESSOURCES HUMAINES	15901
 SI-GRH Sous-total Ressources	17845
@@ -318,6 +335,7 @@ Système de Gestion des Ressources Humaines du MESRS	15936
 Systèmes de Planification des Ressources	14483
 T LIBELLE DE LA RECETTE Ressources	15999
 TABLEAU DES EMPLOIS ET RESSOURCES BAOBAB	18032
+TEJIA RESSOURCES SA	18116
 TIC. Ressources	15632
 TION DES RESSOURCES AUX COLLECTIVITES TERRITORIALES	17817
 TION DES RESSOURCES EN EAU	17812
@@ -332,5 +350,6 @@ V. RESSOURCES ET RESPONSABILITÉS POUR	16104
 VALORISATION DES RESSOURCES FORESTIÈRES LIGNEUSES ET	15999
 VALUATION DES RESSOURCES ARTICLE QUATRE-VINGT-QUATRIÈME.-	15999
 VI. RESSOURCES ET RESPONSABILITÉS POUR METTRE	15746
+VI.5. STRATEGIE DE MOBILISATION DES RESSOURCES	18291
 Valorisation des Ressources Hydrauliques	16037
 Variation RESSOURCES BUDGETAIRES DETAILLEES EN MRU	17972

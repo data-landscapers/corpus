@@ -74,7 +74,7 @@ DataBank	10714,6734
 DataBreachToday	3279
 Databank	15604
 DatabankWide.xlsx	11960
-Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34,2090,232,1207,233,34,5,13,38,1,3,178,229,103
+Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34,2090,232,1207,233,34,5,13,38,1,3,178,229,103,872
 Database Activity Monitoring	13053
 Database Administration	9437,3600
 Database Administrator	15080,10
@@ -131,7 +131,7 @@ Emergency Events Database	10763
 Established Regulatory Database Management System	16978
 Ethiopia Organizes Comprehensive Digital Database	12177
 Executive Order IN-4 Establish CNI Database	11857
-Export Import Database	11579,5662
+Export Import Database	11579,5662,1137
 Extent Databases Contain Sufficient Information	11233
 External Data Sources DIMAMO Operational Database	8604
 FAOSTAT Statistical Database	13312,2
@@ -215,6 +215,7 @@ NCBI Databases	12255
 NEWS SMS DATABASE	11251
 NRB Database	13099
 NUMBEO Database	11863
+National Academic Publication and Indexing Database	18206
 National Accounts Database System	14087
 National Address Database	11129
 National Addressing Database	11129
@@ -231,7 +232,7 @@ National Digital Address Database	16915
 National Education Database	11860
 National ID Database	11960
 National Identification Database	15120,1747
-National Identity Database	4602,972,1567,3,1970,556
+National Identity Database	4602,972,1567,3,1970,556,8589
 National Identity Database. Under DG Abisoye	3703
 National Identity Management Database and Immigration	7914
 National Master Database	12323,2180

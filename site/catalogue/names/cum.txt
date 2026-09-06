@@ -27,14 +27,14 @@ Cumprida	549
 Cumprimento	14,11360,59,9,140,316,3487,7,41,7,37,1623,504
 Cumprindo	15359
 Cumprir	4147,7288,6,2,8,86,3821,75
-Cumul	10875,7103,54
+Cumul	10875,7103,54,254,36
 Cumulated RFR Banking Day	16219
 Cumulation Period	16219
 Cumulativ	15661,1288
-Cumulative	969,898,1737,1072,1000,1262,29,2072,1729,61,551,37,108,35,295,50,48,18,15,372,27,538,409,1483,95,27,39,65,331,119,24,3,35,66,2,37,1,84,336,65,407,371,41,10,262,22,184,62,367,92
+Cumulative	969,898,1737,1072,1000,1262,29,2072,1729,61,551,37,108,35,295,50,48,18,15,372,27,538,409,1483,95,27,39,65,331,119,24,3,35,66,2,37,1,84,336,65,407,371,41,10,262,22,184,62,367,92,142,189,8,58
 Cumulative Broadcasting Licensees	6946
 Cumulative Broadcasting Licensees FY	6946
-Cumulative Disbursements	2712,1976,1891,349,949,3518,576,257,39,173,2540,755,278,66,626,289,6,79,17,808,54
+Cumulative Disbursements	2712,1976,1891,349,949,3518,576,257,39,173,2540,755,278,66,626,289,6,79,17,808,54,392,4,1
 Cumulative Distribution Function	4676
 Cumulative Households	2775
 Cumulative INSTITUTIONAL DATA Contributing Practice Areas	10964,2367
@@ -51,7 +51,7 @@ Cumulative Target Values Data Responsibili Description	17441
 Cumulative Target Values End Target Frequency	15905
 Cumulative Target Values Indicator Name Core	15411
 Cumulative-impact	9719
-Cumulatively	3604,8458,991,1493,2689
+Cumulatively	3604,8458,991,1493,2689,951,31
 DE DO CUME NTATION ET D’INFORMATIQUE	17827
 DHS NHIS Cumulative	16922
 DISBURSTBL Fiscal Year Annual Cumulative	1284,15612,26
@@ -63,7 +63,7 @@ Dec-2026 Cumulative Disbursements Restructuring History	15619
 Description Cumulative	3604
 EVALUATION DES IMPACTS CUMULATIFS	14488,1,1
 Expected PEF Projections Cumulative	16032
-Gbps Cumulative	14069,741,1234
+Gbps Cumulative	14069,741,1234,2376
 IMPACT CUMULATIF	14488,1,1
 IMPACT CUMULATIF L’impact	14488,1,1
 Implementar Cumpre	11569

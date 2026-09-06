@@ -30,6 +30,8 @@ Caractéristiques du PMU	15542
 Catégorie PME	17913
 Catégorie des PME	17898
 Catégorie des PME ARTICLE	17898
+Centre des Incubateurs des PME	18105
+Charte des PME	18257
 Chief Government Statistician PMT Proxy	11133
 Children PAC Policy Analysis and Coordination PMEC	13346
 Classification des PME	13390
@@ -37,6 +39,7 @@ Company PMS Premium Motor Spirit	12256
 Consolidated Revenue Fund-Main PMG Account	13420
 Coordination PKI Public Key Infrastructure PMEC	13345
 DD Objectif de Développement Durable Pma Paquet	15711
+DE DEVELOPPEMENT SANITAIRE PIB PMA PNUD	18105
 DES PME-PMI ET DE L'ENTREPRENEURIAT DES	16381
 DES PME-PMI ET DE L’ENTREPRENEURIAT CABINET	16175
 DGSN STAEM UTC BAT PMI Révision	16103
@@ -53,6 +56,7 @@ Deputy PM	5073,3847
 Deputy PM Temesgen Tiruneh	4198
 Deputy PM and Minister of Posts	16164
 Development Empowerment PME Planning	11193
+Development Objective PMP Pest Management Plan	18104
 Development System PM&E Planning	11224
 Digital Government Transformation Strategy Initiated PMO	14750
 Direct PMU	17116
@@ -102,6 +106,7 @@ Initiative Présidentielle de Lutte Contre le Paludisme PMT	15475
 Internes PME Programme Indicatif Multi-Annuel PNDES	643
 Investissement Public PMA	15423
 Investissements Publics PMI	15475
+Italie PMA Pays Moins Avancés PME	18286
 Job Evaluation PMDS Performance Management and Development	11197
 Juridique PMA Pays	17873
 KPIs PMS	16858
@@ -116,6 +121,7 @@ Les PME	7658,5732,4466
 MBIF des PME	13390
 MBIF des PME Pourcentage	13390
 MDAs Moderate Induct PMO	16858
+ME PM	18322
 MPME ODD ONPR OPS PAIFAR-B PME	13390
 Mali PM Rendre	17845
 Management Office PMS Performance Management System	16852
@@ -152,6 +158,7 @@ PDO PMT PIM PIU PPE PWP	15601
 PE Private Equity PMS Portfolio Management	14997
 PHARMACY AND MEDICINE REGULATORY AUTHORITY PMT	12253
 PIB PME PNG POE PPP PPTE	15542
+PIB PRODUIT INTERIEUR BRUT PME	18143
 PIB Produit Intérieur Brut PME Petite	11944
 PIM Project Implementation Manual PMU Project	1988
 PIP Public Investment Programme PMO Personnel	16852
@@ -218,11 +225,14 @@ PM Ntsokoane Matekane	6695
 PM Order	13418
 PM Ouédraogo	2414,184,2129
 PM Ouédraogo. Key	2414
+PM P3	18291
+PM P4	18291
 PM PDT	9144
 PM PM PM	10858
 PM PS-SNISS	17845
 PM Panel Discussion	14054
 PM Perception	11131
+PM Premier	18310
 PM Programme	3396
 PM Quick Links Government of Zimbabwe Ministry	12511
 PM Ramgoolam	7365,7414,26
@@ -230,6 +240,7 @@ PM Rimtalba Jean Emmanuel Ouédraogo	4748
 PM Rui Duarte Barros	2351
 PM Rui Duarte Barros and Minister Marciano	2322
 PM Russell Dlamini	13008
+PM S	18291
 PM SAST Venue	3654
 PM Shri Narendra Modi	2667
 PM Subject	9858
@@ -240,6 +251,7 @@ PM UTC Elon Musk's StarLink	1683
 PM UTC Fusepay	4095
 PM UTC Namibia	6785
 PM VISITS NCC	12665
+PM Valeur	18291
 PM WAT	7106,177
 PM Where Gardner Commons	42
 PM Where NYU Washington	42
@@ -266,12 +278,13 @@ PM3 Sectoral Applications Development	12917
 PM7 Establish Quality Assurance Unit	12917
 PMA Ethiopia	1212
 PMA Paquet	17843
-PMA Pays	17881
+PMA Pays	17881,222
 PMA. L’évaluation	17881
 PMADS	8468
 PMAE II	15685
 PMAE. S’agissant	15685
 PMB CT	3386
+PMB En	18297
 PMB KA	3386
 PMBJP	11925
 PMBOK	12693
@@ -392,10 +405,11 @@ PME Femmes Mixtes	13390
 PME Gabonaise Rengus Digital	16231
 PME Le Rwanda	6755
 PME Lors	6804
+PME Oui	18316
 PME Par	7968
 PME Parceria Mundial	11557
 PME Petite	16037
-PME Petites	7655,7819,19,468,288,377,1255
+PME Petites	7655,7819,19,468,288,377,1255,435
 PME Plan National de Développement Sanitaire PND	15583
 PME Privées	13390
 PME Province PME Publiques PME Privées	13390
@@ -406,7 +420,7 @@ PME Soutenu	5835
 PME TPE Enquêtes	643
 PME URL	17916
 PME-IF-Autres	13390
-PME-PMI	16381
+PME-PMI	16381,1910
 PME-TPE. Le Centre Monétique Interbancaire	17495
 PME. Action N	17824
 PME. Bien	17856
@@ -428,6 +442,7 @@ PMG Premium	11214
 PMG-hosted PDF	5533
 PMI Le Conseil	16001
 PMI List	15669
+PMI PETITE ET MOYENNE ENTREPRISE	18143
 PMI Tanzania Chapter	9452
 PMICE	361,1909,1256,807,215,5546,100
 PMID&linkSource	5349
@@ -472,13 +487,14 @@ PMT DLI	15663
 PMT Project Monitoring Team Figure	582
 PMT Proxy Means Test PRASED Education	11924
 PMT Proxy Means Test PWDs Persons	15663
+PMT Proxy Means Test RPF Resettlement	18104
 PMT Questionnaire	16867
 PMT Questionnaire Consultancy Development GAMNSR Operations	16867
 PMT SWIFT9	16032
 PMT-based	11133,4530
 PMT. Given	16960
 PMT. PDO	15663
-PMTCT	4153,107,41,48,8405,223,186,1760,283,1745,20
+PMTCT	4153,107,41,48,8405,223,186,1760,283,1745,20,1191
 PMTCT Antiretroviral	15206
 PMTCT Coverage	14742
 PMTCT and TB	14923
@@ -588,12 +604,13 @@ Social Solidarity Pension PMT	15663
 Sociale PIB Produit Intérieur Brut PMAF	10876
 Somalia’s PM	2819
 Sovereign Ownership’ of PMTP	17398
-Special Envoy of PM	16331
+Special Envoy of PM	16331,1889
 Startups E PME Tecnológicas Entram Na	8827
 Strengthened PMU	17116
 Sub PMG Account	13420
 Supervision des PME	16714
 Support Systems PMT	15663
+Sélection des PM	18291
 TIC des PME	17824
 Target Target Completion PMT	15663
 Target Target Completion PMT-based	15663

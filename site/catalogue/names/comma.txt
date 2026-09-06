@@ -50,7 +50,7 @@ Chronos des COMMANDES	10975
 Comma	8021
 Comma Inside	5390
 Comma-separated values	1984
-Command	9123,1642,10,69,344,1324,3333
+Command	9123,1642,10,69,344,1324,3333,2278
 Command Center	9123
 Command Control Centre	13123
 Command Edo State Command FCT Command	8471
@@ -103,8 +103,8 @@ Commandant du CHAPITRE	17982
 Commandant du Groupement	17982
 Commandant du Groupement. LE PRESIDENT	17982
 Commandant du Groupement. Vu le Décret	17982
-Commandants	15703,41,356
-Commande	5907,4786,2831,2409
+Commandants	15703,41,356,2187
+Commande	5907,4786,2831,2409,2406
 Commande N	16534
 Commande Publique	15936
 Commande de TVI	15936
@@ -116,7 +116,7 @@ Commander	11517,1031,2135,2441
 Commander-in-Chief	13948,1415
 Commandes	16747
 Commandes Publiques	16160,178
-Commandeur	17812,29
+Commandeur	17812,29,401
 Commandez	14683
 Commands	8278,8739
 Commas	14670
@@ -190,6 +190,7 @@ Nampula's Provincial Police Command	12147
 National Command Centre	315
 National Command and Control Centre. Digital Services	11774
 National Emergency Operations Command	14738,4
+National Guard Command	18125
 National Police Command Centre	8638
 National Public Security Command Centre. LAZ	5626
 Nigeria Police Force Headquarters and FCT Command	8662
@@ -218,6 +219,7 @@ Police Regional Command Conference	11062
 Police Regional Commanders	13097
 Pour Jacques David Commarmond	5712
 President and Commander	15363
+President and Commander-in-Chief	18253
 Regional Commanders	11062
 Rivers State Command Kwara State Command	8471
 Rwandan FDLR Commanders In DRC	3245

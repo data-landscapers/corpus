@@ -16,6 +16,7 @@ ANEXO B	11406,50
 ANNEX B	3861,3337,6767
 ANNEXE B	15901
 ANNEXE B ESTIMATION DES ERREURS D’ÉCHANTILLONAGE	13300
+ANNEXE B ESTIMATION DES ERREURS D’ÉCHANTILLONNAGE	18312
 ANNEXURE B	5533,6453
 ANSWER PART B	11240
 APPENDIX B	11129,728,3292,425,1583
@@ -156,6 +157,7 @@ B Corp	9079
 B Corps	9079
 B Cutting-Edge Green Data Center	1722
 B Cyber-bullying	972
+B D O U M	18121
 B D P5-18-1	12500
 B D'AUTRES NAISSANCES EN PLUS	13300
 B DANS UN QUESTIONNAIRE SUPPLÉMENTAIRE	13300
@@ -261,7 +263,7 @@ B Paiements Partiels L’Emprunteur	15901
 B Peermamode	14736
 B Performance Assessment Report	12500
 B Point	16552
-B Political Pluralism and Participation B1	17967
+B Political Pluralism and Participation B1	17967,217
 B Prioritise	14674
 B Pro	15999
 B Procédure	15901
@@ -481,6 +483,7 @@ B. Coordination and International Meetings	12977
 B. Countries	1548,2
 B. Creating	4848
 B. Crianças	10777
+B. Crisis Preparedness Strategy and Arrangements	18198
 B. Current Policies and Gaps	17257
 B. Cybersecurity Services	16975
 B. Cybersecurity and Cybercrime	17745
@@ -499,6 +502,7 @@ B. Data Subject Rights Requirement	13381
 B. Datos	16962
 B. De Cleen	11028
 B. Declaration	14843
+B. Des	18094
 B. Description	17441
 B. Desk	10764
 B. Determination	14717
@@ -536,6 +540,7 @@ B. Enquête	13390
 B. Ensure	15604
 B. Ensuring	14723
 B. Enterprise-Wide Risk Management	12977
+B. Environment and Social Standards	18374
 B. Environmental and Social Safeguards	13938
 B. Equipements	17817
 B. Essential	17157
@@ -550,10 +555,12 @@ B. Every	17127
 B. Except	14718
 B. F	8604
 B. FOUR PRIORITY NATIONAL FLAGSHIP PROJECTS	14829
+B. FREE Banque du Trésor de Côte	18313
 B. Fa-	18077
 B. Fahamafisam-bava	14488,1,1
-B. Fiduciary	969,295,603,1737,2935,4229,196,416,169,11,295,50,1426,1,1605,554,24,3,35,68,37,1,2,82,401,240,565,509
+B. Fiduciary	969,295,603,1737,2935,4229,196,416,169,11,295,50,1426,1,1605,554,24,3,35,68,37,1,2,82,401,240,565,509,646,189,8
 B. Fiduciary Financial Management	11417,4136
+B. Fiduciary Readiness for Emergency Response	18198
 B. Filing	7845
 B. Finances	13290
 B. Finances L’absence	13290
@@ -578,6 +585,7 @@ B. Hazard	12977
 B. Hazard Incidents	12977
 B. ICT	14853
 B. ICT IN EDUCATION AND TRAINING	14853
+B. INDICATEURS DU QUESTIONNAIRE LONG	18204
 B. INDUSTRY FINANCIAL REPORT	3862
 B. INITIATIVES AND PROJECTS FOR ICT	14853
 B. Identity Infrastructure	11138
@@ -679,6 +687,7 @@ B. Overall Risk Rating and Explanation of Key	15411
 B. Own	17127
 B. P	13478,2182
 B. P. J	15620
+B. PDO Indicators	18198
 B. PDO Indicators and Theory of Change	16144
 B. PROCEDURES DE COLLECTE DE DONNEES	15595
 B. PROCUREMENT	11863,2075
@@ -720,8 +729,8 @@ B. Program Description	11905
 B. Project	13897,1069
 B. Project Background	15969
 B. Project Beneficiaries	11525,3886
-B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11,295,533,943,1,1578,27,554,24,3,35,68,37,1,2,1288
-B. Project Components Component	10768,4893,1288
+B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11,295,533,943,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8
+B. Project Components Component	10768,4893,1288,1155
 B. Project Components Table	10829
 B. Project Cost and Financing	11525
 B. Project Financing	15372,39
@@ -743,6 +752,7 @@ B. RIGHT TO FREEDOM OF OPINION	14073,3897
 B. Radhakissoon	10079
 B. Radio	12977
 B. Raise	15604
+B. Rationale	18359
 B. Rationale for Restructuring	1228,3425,11040,494
 B. Recommendations	3583
 B. Reconnaissance	13375
@@ -751,6 +761,7 @@ B. Recruitment	7845
 B. Recruitment The Office	12977
 B. Regulation	12939
 B. Regulatory Framework	14819
+B. Relevant National Policies Senegal Vision	18370
 B. Relief	14717
 B. Reports	13037
 B. Resource Availability and Utilisation C. Statistical	13310
@@ -760,7 +771,7 @@ B. Responsible Bank	15758
 B. Results	14132
 B. Results Monitoring	15743,401,240
 B. Results Monitoring and Evaluation	11525,3847,39,2030,17
-B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288
+B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288,1155,94,95,8
 B. Retiring	14843
 B. Right	3583
 B. Rowan	5349
@@ -780,13 +791,15 @@ B. STAFF TIME	11924,4512,1526
 B. STAFF TIME AND COST Stage	15424
 B. STRATEGIC PRIORITY	17011
 B. SUMMARY OF RECURRENT BUDGET	12977
+B. Scope	18359
 B. Screening Checklists for Identifying Cases of Involuntary	17114
 B. Scénarios	18063
 B. Secteur	998
+B. Section II	18337
 B. Sector and Institutional Context	13938
 B. Sector and Institutional Context B.1 Cabo	11863
 B. Sectoral	11549
-B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1578,27,435,39,80,24,3,35,68,37,1,2,82,401,240,565,492,17
+B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1578,27,435,39,80,24,3,35,68,37,1,2,82,401,240,565,492,17,646,189,8
 B. Sectoral and Institutional Context Closing	15621
 B. Sectoral and Institutional Context Public Financial	969
 B. Sectoral and Institutional Context Reform Progress	17441
@@ -909,13 +922,15 @@ Book Google Scholar Mullings B	9739
 Boranto B	12255
 Borowska-Beszta B	12231
 Brazzaville du B	15488
-Building B	10764,80,719,6180,113
+Building B	10764,80,719,6180,113,267
 Burkina Faso B. PROCEDURES DE COLLECTE	15595
 Bâtiment B Ou	9744
+Bénéfices B. Infrastructure	18306
 B’. Street	11129
 C A B I N	15454
 C B P9-30-1	12500
 C Seydou B. DIARRA Mle	17828
+C Y B E R S	18319
 C. B	2816
 CABINET B	15744,157,199
 CAFR2 Phase B	7150
@@ -1096,7 +1111,7 @@ FORCES ARMEES CONGOLAISES B	15744
 FRERES ETS S A B	16623
 Fase B	1701
 Fekadie B	10784
-Figure B	11250,812,5834
+Figure B	11250,812,5834,290,31
 Firew B. Woldeyes	12948
 First Edition B. ADOPTED REGIONAL STANDARDS	15027
 Form B	5687
@@ -1265,6 +1280,7 @@ March. Where B	15014
 Marchés Publics. B. Le Dossier	13524
 Marie-France Lydie Hélène PONGAULT B	15692
 Mariental B Sonop Primary School	13046
+Martin B Knudsen	18318
 Matutura New Secondary School B Platz	13046
 Mauritius B. Coverage	14777
 Mauritius. B. Solicitation Documents B.1. Examination	14778
@@ -1275,6 +1291,7 @@ Meningitis-A and Hepatitis B	14149
 Middleton B	1219
 Mini-réseaux de Type B	13809
 Ministry of Education B Agricultural Centre Hall	13046
+Ministry of Finance and Budget. B. Scope	18359
 Miriam B	9452
 Mixed Section B. Institutional Profile	15164
 Module B	17127
@@ -1324,9 +1341,11 @@ Namib Primary School B Meduletu Community	13046
 National Technologies B- Annual	7548
 National Telecommunications Commission. B. THE MEDIA	14853
 Naymote’s Democracy Advancement Program. B. Key	17139
+Niger. B. PDO Indicators	18198
 Nkula B Hydro Power Station	13060
 Nkula B Unit	13241
 No. B	14753
+No. QUESTIONS ET FILTRES CODES B	18204
 Node B	6728
 None B- Send	582
 O B- Entertainment	582
@@ -1342,6 +1361,7 @@ Option B	6748,10223
 Othello B. Garblah	17084,39
 Ouest B	8321
 Oumou B SAMAKE Mandjou Trésorier	18032
+P U B L I Q	18332
 P. B	5700,1132
 P.A A B C	18032
 P.A.S B	15455
@@ -1357,6 +1377,7 @@ PDO. B. ACHIEVEMENT OF PDOs	17962
 PERFORMANCE INFORMATION B AUDITOR-GENERAL’S REPORT	11198
 PERFORMANCE INFORMATION Figure B	11250
 PERFORMANCE INFORMATION Table B	11250
+PIUs Sanitation and Environment B. Results Monitoring	18198
 PNFS. B. ENVIRONMENTAL	11924
 POLICE GENERALE B	16100
 POLIMYXINE B	15930
@@ -1369,8 +1390,10 @@ PROMENER A B X	13300
 Package B	12606,2558
 Packages B and C	15164
 Packages B and C. Institutions	15164
-Panel B	7886,3424
+Panel B	7886,3424,7008
 Panel B Public	11135
+Panel B. Focusing	18318
+Panels B and C	18318
 Parliament B	5533
 Part B	1679,309,1595,131,1182,637,1388,924,3395,10,26,631,79,378,293,692,1481,2628
 Part B Insert	3714
@@ -1422,6 +1445,7 @@ R. Wodak and B. Forchtner	11028
 RACONTER DES HISTOIRES A B X	13300
 RECOMMANDATIONS DU DOMAINE B	17830
 RM B	15399
+Raymond B Bako	18276
 Raymond Uchenna Ononiwu APPENDIX B	15149
 Regional Council B Yes Local AuthorityA	12325
 Regulations. B. THE PARTIES	5113
@@ -1582,6 +1606,7 @@ W C C B B Urbana	16920
 W W C C B B	16920
 WILHEMS B	14760
 Walvis Bay Municipality Town Hall B	13046
+West Africa Power Pool. B	18374
 Western Africa. B. PDO Indicators and Theory	16144
 Y. B	17530
 YEARS PART B TERMS AND CONDITIONS	11240

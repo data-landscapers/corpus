@@ -19,7 +19,7 @@ Behalf of CM	13040
 Behalf of Overseas and Local Institutions	14775
 Behav&title	1219
 Behavior	15574,84
-Behavioral	2096,12901,666
+Behavioral	2096,12901,666,2441
 Behavioral Change Communication CBOs	16951
 Behavioral Insights	11541
 Behavioral Sciences	2518,5241,4249
@@ -51,7 +51,7 @@ Beheira Sohag Minya Asyut Qena Faiyum	15578
 Behera	7759
 Beheton	10887
 Behigamlak	11607
-Behind	3133,558,436,22,219,268,192,968,415,1,636,167,559,74,44,3,51,141,71,2,247,79,194,51,19,112,738,193,146,157,171,102,191,236,132,412,10,555,68,265,13,581,444,311,20,669,70,154,206,525,37,1458,211,848,13
+Behind	3133,558,436,22,219,268,192,968,415,1,636,167,559,74,44,3,51,141,71,2,247,79,194,51,19,112,738,193,146,157,171,102,191,236,132,412,10,555,68,265,13,581,444,311,20,669,70,154,206,525,37,1458,211,848,13,683
 Behind Emotions and The American Bias	4554
 Behind LOLF Loi Organique	17907
 Behind Linda Mwananchi	7869
@@ -98,6 +98,7 @@ Extreme Poor and Social and Behavioral Change Communication	16952
 Faculty of Social and Behavioural Sciences	17780
 Farmers’ Entrepreneurial Behavior	16144
 Fever and Care-seeking Behaviour	15247
+Firm Behavior	18318
 Firm Export Behavior. Background	15424
 Forms of Controlling Behaviour and Intimate Partner Violence	15247
 Futures Left Behind In Gbinti	4619
@@ -123,7 +124,8 @@ Industrie Madame Gnitonyi Lucrèce Flore BEHANZIN	16485
 Information Seeking Behaviour and Technology Adoption	5349
 Insight. Shaping Impact. Behind	5247
 JOURNAL OF ECONOMIC BEHAVIOR	16991
-Journal of Economic Behavior	12948
+Journal of Economic Behavior	12948,5370
+Journal of Economic Behavior Organization	18318
 Knowledge and Behaviour Related	15247
 Language Left Behind	6287,10071
 Leave No One Behind	12946

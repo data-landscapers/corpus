@@ -82,7 +82,7 @@ Bandari Dispensary Data Processor INST-40822487397 KILIFI	7167
 Bandari Maritime Academy Data Controller INST-313944219ED	7167
 Bandari Maritime Academy Data Processor INST-313944219ED	7167
 Bandc	15399
-Bande	998,4363,2294,3221,2438,10,416,1753,99,351,609
+Bande	998,4363,2294,3221,2438,10,416,1753,99,351,609,1570,82
 Bande ADRIEN FOURRIER	998
 Bande C A PETROLEUM S.A ARCEP	998
 Bande C Annexe	998
@@ -112,7 +112,7 @@ Bandiagara DRPSIAP	18077
 Bandiagara-Wo-Bankass-Koro-	17820
 Bandiagara. Prévue	18077
 Bandiagara. Sur	9342
-Bandiera	10964
+Bandiera	10964,7140,214
 Bandika	7167
 Bandile Ntombela	396
 Bandile Sinisela	13233
@@ -205,6 +205,7 @@ GHz Bands	736
 GPP Band	7368
 Gbps International Internet Bandwidth	12971
 Gbps Undersea Bandwidth	6946
+Gorou Banda	18118
 Guard Band Bandwidth	14780
 Guinée GUILAB Guinéenne de Large Bande GUPOL	16626
 Guinéenne de Large Bande	3252,2828,10561

@@ -4,7 +4,8 @@ A06. ENUMERATOR	17127
 A07. ENUMERATOR	17127
 A08. ENUMERATOR	17127
 A09. ENUMERATOR	17127
-Abuja Benin Eko Enugu Ibadan Ikeja	12062
+Aba Abuja Benin Eko Enugu Ibadan	18186
+Abuja Benin Eko Enugu Ibadan Ikeja	12062,6124,31
 Annual SG2 SO2 Enumerator	17116
 C05 C05. ENUMERATOR	17127
 C06. ENUMERATOR	17127
@@ -21,7 +22,7 @@ Data Collected Enumerators	12498
 EA Enumeration Area Figure	582
 ENUMERATION AREA NUMBER	582
 ENUMERATOR NAME	17127
-Eligible Customer Regulations EEDC Enugu Electricity	12062
+Eligible Customer Regulations EEDC Enugu Electricity	12062,6124,31
 Enugu	3554,171,405,731,1013,337,855,378,451,929,149,144,759,432,1039,651,6,46,3
 Enugu Campus. Nwosu	6211
 Enugu Digital Industrial Park	9117
@@ -67,6 +68,8 @@ Enumeração Para	15912
 Enumeração São	15391
 Enumération	17945
 Enumérations	17945
+Enumérer	18099
+Enunciations	18285
 Epiphanus Obia The Enugu State	8537
 FDA Enumeration	16843
 Freight Enumeration Area East African Community	11136

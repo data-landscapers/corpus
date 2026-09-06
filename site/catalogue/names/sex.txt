@@ -27,6 +27,7 @@ Assédio Sexual CdC Código de Conduta COS	11413
 Assédio Sexual ESIRT Environmental and Social Incident	11413
 Asséêdio Sexual ENAPP Escola Nacional de Administração	11390
 Autodeclaração de Infecções de Transmissão Sexual	10777
+Autre Sexe	18204
 Availability of Sex-Disaggregated Data	12389
 Availability of Sex-Disaggregated Statistics	12389
 B RAP. SEXUELS PEU FRÉQUENTS	13300
@@ -160,6 +161,7 @@ MATANA MUSONGATI Urbain Sexe Masculin Féminin	13390
 Makamba Muramvya Muyinga Mwaro Sexe	13442
 Makamba Muramvya Muyinga Sexe	13442
 Makamba Muramvya Sexe	13442
+Maladie Sexuellement Transmissible MT	18118
 Maladie Sexuellement Transmissible MTA	15475
 Maladies Sexuellement Transmissibles	14488,1,1
 Maladies Sexuellement Transmissibles NA	13377
@@ -193,6 +195,7 @@ NOMBRE D'ANNEE D'EXPERIENCE IV.2.2 Privé Sexe	10847
 NOMBRE D'ANNEE D'EXPERIENCE IV.2.3 Urbain Sexe	10847
 NOMBRE D'ANNEE D'EXPERIENCE IV.2.4 Rural Sexe	10847
 NUPTIALITÉ ET ACTIVITÉ SEXUELLE	13300
+NUPTIALITÉ ET ACTIVITÉS SEXUELLES	18312
 National SEXE Classique Satellite Bilingue	10847
 National Sexe I.P. I.C. I.A.C	10847
 National Sexual and Reproductive Health Policy	14742
@@ -211,9 +214,11 @@ Online Sexual Exploitation and Abuse	11791
 Online Sexual Offences	587
 Online Sexual Offences Non-consensual	587
 Outside Labour Force Both Sexes	14832
+PAR MENAGE Sexe Masculin	18204
 PARTENAIRE SEXUELLE	13300
 PARTENAIRES SEXUELS MULTIPLES	13300
 PAS DE RAPPORTS SEXUELS	13300
+Parti Sexe Votes	18310
 Percentage Sex Ratio	16921
 Perpetradores de Violência Sexual	10777
 Perpetrators of Sexual Violence	15247
@@ -248,6 +253,7 @@ Q9. Sexe	13390
 RAPPORTS SEX. PEU FRÉQUENTS	13300
 RAPPORTS SEXUELS PAYANTS	13300
 REFUSE RAP. SEXUELS	13300
+REGION Sexe Populations	18171
 REJECTION OF WOMEN'S SUBJUGATION TO SEXUAL	17127
 REPÚBLICA DA GUINÉ-BISSAU BOLETIM OFICIAL Sexta-feira	11569
 RF Results Framework SGBV Sexual Gender-Based	16943
@@ -269,13 +275,15 @@ Rights Sexual Exploitation and Abuse	4653
 Risks of Sexual Exploitation	17099
 Rural Sexe	18014
 Rural Sexe Age Total Nombre	10847
+RÉPARTITION DES SONDÉS SELON LE SEXE	18105
 Répression des Violences Sexuelles Faites	16478
 SDG Sustainable Development Goal SEA Sexual	16896
 SDR Special Drawing Rights SEA Sexual	10829
 SEA Sexual Exploitation and Abuse SH Sexual	16922
+SEA Sexual Exploitation and Abuse Se-CNSA Food	18301
 SEA Strategic Environmental Assessment SEAH Sexual	11863
 SECTION II DES INFRACTIONS SEXUEIIES ET	15429
-SEP Stakeholder Engagement Plan SH Sexual	1988
+SEP Stakeholder Engagement Plan SH Sexual	1988,16313
 SERAT Sexuality Education Review and Assessment Tool	12975
 SEX OF HOUSEHOLD HEAD	15244
 SEXE ET NIVEAU III.5.1 Urbain	10847
@@ -374,8 +382,9 @@ Sexe Diplômé	18014
 Sexe Femme	737
 Sexe Homme	18014
 Sexe Homme Femme Mixte Age Jeune	13390
-Sexe Masculin	737,12563,90,2209,2415
+Sexe Masculin	737,12563,90,2209,2415,190,108
 Sexe Masculin Féminin	18014
+Sexe Masculin Féminin Ensemble	18312
 Sexe Nationalité Effectif Pourcentage Homme Nationaux	10875
 Sexe Nombre	10847
 Sexe Numéro	13300
@@ -412,7 +421,7 @@ Sexual Behavioral Change Communication SGBV	16951
 Sexual Behaviour	14067,1180
 Sexual Exploitation	9766,1010,2409,1895,2019,190
 Sexual Exploitation Abuse and Sexual Harassment Action	14976
-Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290,433,25,581,1235,26,177,15
+Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290,433,25,581,1235,26,177,15,1256
 Sexual Exploitation and Abuse Mitigation Plan	2889
 Sexual Exploitation and Abuse Politique Nationale de Santé	14622
 Sexual Exploitation and Abuse Risk Overview Index	15115
@@ -422,12 +431,13 @@ Sexual Exploitation and Abuse The Project	1988
 Sexual Exploitation and Abuse and Sexual Harassment	1988,13150,1976
 Sexual Exploitation and Abuse and Sexual Harassment Action	13331
 Sexual Extortion	12459
-Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581,1235,26,13,164,15,51
+Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581,1235,26,13,164,15,51,1205
 Sexual Harassment Compliance Team STD Sexually	16926
 Sexual Harassment Performance Declaration	13185
 Sexual Harassment Policy	16852
 Sexual Harassment Policy. The DHA	11986
 Sexual Harassment SCD Systematic Country Diagnostic	16949
+Sexual Harassment SEN-CSU	18370
 Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737,7956,3578,377
 Sexual Harassment SIGAS Social Action Management	10768
 Sexual Harassment SMC School Management Committee	15661

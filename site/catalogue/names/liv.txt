@@ -11,6 +11,7 @@ Agricultural and Livestock	17157
 Agricultural and Livestock Processing	11579
 Agricultural and Livestock and Investment Authority	17157
 Agriculture and Livestock	10313,3001,264
+Agriculture and Livestock SNIS Ministry of Urban DGH	18198
 Angola. O Livro Branco	4146
 Animal Health and Livestock	12194
 Assess the Livelihood Impact of Electricity Access. Nature	12006
@@ -87,7 +88,7 @@ DU LIVRE DES PROCÉDURES FISCALES Réforme	16328
 Data for Better Lives	1264,2340,2935,6792,4539
 Data for Better Lives. Available	15553
 Data for Better Lives. Retrieved	1243
-Data for Better Lives. Washington	1264,5275,5340
+Data for Better Lives. Washington	1264,5275,5340,6422
 Data for Better Lives. World Bank	16942
 Data for Better Lives. World Bank. Doi	961
 Data for Better Lives.12 Under	15553
@@ -96,6 +97,7 @@ Department of Agriculture Livestock and Blue Economy Data	7167
 Departmental Committee of Agriculture and Livestock	10313
 Deploy Live Capture	11986
 Digital Livelihoods	62
+Directorate of Livestock	18309
 Distribution of Live	15056
 Distribution of Livestock	17043
 District Commissioner for Livingstone	13477
@@ -109,9 +111,11 @@ EMR Live Demo	15156
 ENA Live	12279
 ENDORSEMENT OF WOMEN'S FREEDOM IN LIVELIHOOD	17127
 Early Warning for Livestock	14818
+Economic Inclusion and Livelihoods	18125
 Economic Update. Living	15553
 Egypt Liver	15725
 Emerge Livelihood	12241
+Emergency Livelihood Support	18198
 Employment and Livelihoods	14742
 Energy Access and Livelihood Resilience	13938
 Energy Living Lab	11006
@@ -173,13 +177,15 @@ Hackathon Live Show	12881
 Harmonized Household Living Conditions Survey	15810,323
 Harmonized Household Living Standards Survey	16384
 Harmonized Survey of Household Living Conditions	11581
+Harmonized Survey of Household Living Conditions. Senegal	18301
 Head of Planning Signature Mr Livhuwani Makhode	5533
 Healthier Lives. Nigeria	11469
-Healthy Lives	15725
+Healthy Lives	15725,2400
 Hidden Lives	12227
 Household Living Conditions	13804
 Household Living Conditions Survey	15658
 Household Living Conditions Surveys	11581
+Household Living Conditions and Agriculture	18104
 Household Living Conditions and Poverty	10841
 Households Living Standards	11549,4112
 Hunger Scale LIVELIHOOD	17285
@@ -255,11 +261,14 @@ LIVESTOCK TYPE Livestock	17043
 LIVING STANDARD DIMENSION	15244
 LIVRABLES	12043
 LIVRABLES ATTENDUS	16646
-LIVRE	15727,293
+LIVRE	15727,293,2076
 LIVRE DEUXIEME DES OUTITS ET ECRITS	15429
-LIVRE II	15584,143,1712
-LIVRE III	15584,1855
-LIVRE IV	15584,143
+LIVRE I OBJET ET CHAMP DAPPLICATION	18094
+LIVRE II	15584,143,1712,657
+LIVRE II DU REGIME DES RESSOURCES	18094
+LIVRE III	15584,1855,657
+LIVRE III DES INSTITUTIONS DU MONDE	18094
+LIVRE IV	15584,143,2369
 LIVRE PRELIMINAIRE	15584
 LIVRE PRELIMINAIRE ARTICLE	15469
 LIVRE PRELIMINAIRE DISPOSITIONS GENERALES Article	15999
@@ -322,7 +331,7 @@ Lived Poverty Health	10837,1052,263,11,177,1
 Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Score Rank Public Procurement	11870
 Lived Poverty Sustainable Environment	10759,1395
-Livelihood	10763,1534,86,581,1290,2331,317,212,43,213,601
+Livelihood	10763,1534,86,581,1290,2331,317,212,43,213,601,154
 Livelihood Activities	12977
 Livelihood Choices	17127
 Livelihood Coping Strategies Livelihood	17285
@@ -341,7 +350,7 @@ Livelihood and Economic Empowerment	17295
 Livelihood and Food Security	17157
 Livelihood and Labour Social Inclusion Community Health	17114
 Livelihood-based	16902
-Livelihoods	418,8282,3597,4288,268,432
+Livelihoods	418,8282,3597,4288,268,432,978
 Livelihoods Are Growing Online Livelihoods	9547
 Livelihoods GRM Grievance Redress Mechanism HD	13332
 Livelihoods Restoration Plans	14576
@@ -364,7 +373,7 @@ Lives	9959,1351,3687,571
 Lives Have Been Turned Upside	6947
 Lives Saved Tool	13578
 Lives Solutions	13301
-Livestock	1257,731,574,4605,678,3135,544,312,537,1082,19,1344,11,45,211,33,360,367,1198,62,44,8
+Livestock	1257,731,574,4605,678,3135,544,312,537,1082,19,1344,11,45,211,33,360,367,1198,62,44,8,947,189
 Livestock Animal	14818
 Livestock Annually	10098
 Livestock Breeders’ Associations Form	17157
@@ -511,7 +520,8 @@ Livrer	17872
 Livres	10876,5025,146,1438
 Livres Comptables	15901
 Livret	6146,9853,637
-Livret Genre	14570
+Livret Droit	18169
+Livret Genre	14570,3599
 Livrets	15999,1834
 Livro	2816,8553,4027
 Livro Branco	13,2282,116,1108,627,6619,10,604,17,1,5
@@ -553,8 +563,10 @@ Men Women Women Men Livestock Poultry	17043
 Migration IT Information Technology LEAP Livelihood	10841
 Million Healthy Lives	15725
 Million Healthy Lives Initiative	15725
+Minister of Agriculture and Livestock	18142,55,23
+Minister of Agriculture and Livestock of Niger	18197
 Ministry of Agriculture Livestock and Marine Resources	16916
-Ministry of Agriculture and Livestock	4762,5551,4263,2370,211
+Ministry of Agriculture and Livestock	4762,5551,4263,2370,211,1041
 Ministry of Agriculture and Livestock FOR MORE INFORMATION	14576
 Ministry of Agriculture and Livestock. The Agency	17157
 Ministry of Fisheries and Livestock	1988,11415,52
@@ -588,7 +600,9 @@ National Livestock Information System	14818
 National Livestock Market Information System	8183
 National Livestock and Epidemiology Information Centre	13403
 NewsDay Live	7014,408,99,1454,419,1,4303
+Niger Livestock and Agriculture Modernization Project	18198
 Nigeria Living Standards Survey	11988
+Nigerian Tax ID Portal Goes Live	18183
 Nutrition and Cash Assistance Are Transforming Lives	16526
 O Livro Branco	11072,324,1
 O Livro de Reclamações	11369

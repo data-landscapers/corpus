@@ -62,7 +62,7 @@ Mr. Mufaro Nesongano Executive	2022
 Mr. Nesbert Samasuwo	13042
 Mufaro Nesongano	5502,1263,19,6244
 NELFP National Electrification Fund Portfolio NES	12399
-NERC Nigerian Electricity Regulatory Commission NESI	12062
+NERC Nigerian Electricity Regulatory Commission NESI	12062,6124,31
 NES MIME	12399
 NES National Evaluation System	11193
 NES Normes Environnementales	10876
@@ -73,13 +73,15 @@ NES10	14488,1,1
 NESA Ensure	15130
 NESA National Examination and School Inspection Authority	14922
 NESA Quality Audit Report	14922
+NESAP	18103
 NESCO	11156
 NESDA	10514
 NESDB	5096
 NESDB DG. Consolidating	5096
 NESDIS	15907
-NESI Performance	12062
-NESI. Operational Performance	12062
+NESI Performance	12062,6124,31
+NESI. Key Facts	18186
+NESI. Operational Performance	12062,6124,31
 NESIP	12175
 NESIP and MIP-1	12175
 NESIP. The LEG	12175
@@ -92,6 +94,7 @@ NESTA	14897
 NESTA10	747
 NESTA16	1984
 NESTA9	748
+NESTLE	18322
 NESTLE Développement	10975
 NESTOR BASEMERA	8352
 NESWSZMX	12252

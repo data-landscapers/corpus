@@ -31,14 +31,18 @@ Centre Ouest	16026
 Centre Ouest Africain de Formation	10237
 Centre- Ouest	15712
 Cheick Omar Ouedraogo	9172
+Commission Bancaire de I'Union Monétaire Ouest Africaine	18292
 Commune Anosizato Ouest. Il	14489,1
 Commune de Ouesso	15615
 Conseil Comptable Ouest Africain	14849
 Cuvette Ouest	15455,218,12,564
 Cuvette Plateaux Cuvette Ouest Lekoumou Kouilou	15724
 Cuvette- Ouest	11905,4344
-ECONOMIQUE ET MONETAIRE OUEST AFRICAINE	15352
+ECONOMIQUE ET MONETAIRE OUEST AFRICAINE	15352,2962
+ECONOMIQUE ET MONETAIRE OUEST AFRICAINE UIT	18105
 EL OUED	15456
+ET MONETAIRE OUEST AFRICAINE	18314
+Echange Energie Electrique Ouest Africain	18322
 El Oued	15456,234,243,10,287,114
 El Oued Centre	16085
 El Oued Ghardaïa Timimoun Bordj Badji	15690
@@ -54,13 +58,17 @@ Gomsida OUEDRAOGO	7670
 Halidou OUEDRAOGO	8321
 Hamadou OUEDRAOGO Burkina	10860
 Hamadou Ouedraogo Envoyer	10860
+I'Union Monétaire Ouest Africaine	18292
+I'Union Monétaire Ouest Africaine. TITRE Il	18292
 I. Ouedraogo	15715
+Ingénieur des Travaux Statistiques OOAS Organisation Ouest	18169
 Institut Monétaire Ouest-Africain	8556
 Institut Ouest-Africain de Mathématiques. Leur	16687
 Ismaël Ouedraogo	11149
 KITA OUEST	17828
 Kirsi Sayouba Evrad OUEDRAOGO	8321
 Kpendjal Ouest	10368
+L'UNION MONETAIRE OUEST AFRICAINE	18181
 L'UNION MONÉTAIRE OUEST AFRICAINE	15508
 L'UNION MONÉTAIRE OUEST AFRICAINE Le Gouverneur	10836,4799
 Laetitia OUEDRAOGO	8321
@@ -87,10 +95,10 @@ Monsieur Lassané OUEDRAOGO. CONSEIL DES MINISTRES	16287
 Monsieur Rasmane OUEDRAOGO	16287
 Monsieur Salif OUEDRAOGO Directeur	17841
 Monétaire Ouest Africain UNESCO	737
-Monétaire Ouest Africaine	12,725,8550,55,1369,125,20,19,13,634,45,3282,503,64,80,12,127,624,1557,13,41,185
+Monétaire Ouest Africaine	12,725,8550,55,1369,125,20,19,13,634,45,3282,503,64,80,12,127,624,1557,13,41,185,144,19,8,47,41,63
 Monétaire Ouest Africaine COMMUNIQUE Dakar	10888
 Monétaire Ouest Africaine La Banque Centrale	10888,4882,2285
-Monétaire Ouest Africaine Lancée	16259
+Monétaire Ouest Africaine Lancée	16259,1959
 Monétaire Ouest Africaine UEMOA	17842
 Monétaire Ouest Africaine UEMOA West and Central	15583
 Monétaire Ouest Africaine UIT Union Internationale	16327
@@ -98,8 +106,10 @@ Monétaire Ouest Africaine UMOA Union Monétaire	4459
 Monétaire Ouest Africaine UNFPA	10874
 Monétaire Ouest Africaine URL	15770,489,1796
 Monétaire Ouest Africaine USSD	10711
+Monétaire Ouest Africaine WAPP West African	18103
+Monétaire Ouest Africaine. Article	18314
 Monétaire Ouest-	18032
-Monétaire Ouest-Africaine	6959,324,3429,5915
+Monétaire Ouest-Africaine	6959,324,3429,5915,1516,27
 Monétaire Ouest-Africaine Page	10876
 Monétaire Ouest-Africaine UNICEF Fonds des Nations Unies	18077
 Monétaire Ouest-Africaine VG Vérification Générale PLAN	10712
@@ -142,7 +152,7 @@ Oued El Makhazine-Dar Khrofa. Ces	8891
 Oued Laou- Larache-Loukous	8891
 Oued Naga	17911
 Oued Rhiou	15467
-Ouedraogo	3791,1126,5917,2114,2767,2348
+Ouedraogo	3791,1126,5917,2114,2767,2348,238
 Ouedraogo LT	766
 Ouedraogo M	3791
 Ouedraogo MO	3791
@@ -169,15 +179,18 @@ Ouesso-Pokola-Enyellé-Bétou- Gouga	15558
 Ouesso. Arrêté	15660
 Ouesso. Article	16274,182
 Ouesso. Dans	15423
-Ouest	357,286,94,268,184,58,68,333,391,222,19,32,65,16,58,124,118,39,33,173,71,91,57,20,17,58,7,102,29,53,1,28,105,27,46,34,3,32,47,26,245,22,228,29,417,321,153,84,22,11,33,1,15,63,110,21,118,18,104,35,14,21,22,25,25,34,9,88,4,151,2,502,88,61,187,31,47,116,14,36,84,210,57,5,147,43,111,1,16,6,67,6,26,42,22,154,2,3,17,116,14,33,14,41,21,141,37,61,140,63,9,105,292,93,1,22,27,100,307,81,203,35,77,96,6,27,142,66,112,6,10,38,1,7,6,29,17,8,2,21,10,10,308,229,45,81,151,15,35,95,80,12,38,1368,40,86,58,2,97,625,11,2,79,269,126,12,503,19,8,37,13,23,2,21,18,3,12,34,13,28,9,7,22,14,4,37,9,2,5,19,1,8,50,27,22,1,14,3,31,25,43,2,15,8,4,61,78,9,13,4,14,9,2,19,21,26,29,9,27,36,15,22,14,38,4,2,4,63,50,11,1,75,5,1,6,6,2,28,9,3,320,322,1,57,286,4,141,4,7,5,2,11,1,1,2,3,3,5,5,12,21,1,1,3,3,5,19,5,4,6,1,8,5,8,15,5,1,23,8,17,23,8,12,2
+Ouest	357,286,94,268,184,58,68,333,391,222,19,32,65,16,58,124,118,39,33,173,71,91,57,20,17,58,7,102,29,53,1,28,105,27,46,34,3,32,47,26,245,22,228,29,417,321,153,84,22,11,33,1,15,63,110,21,118,18,104,35,14,21,22,25,25,34,9,88,4,151,2,502,88,61,187,31,47,116,14,36,84,210,57,5,147,43,111,1,16,6,67,6,26,42,22,154,2,3,17,116,14,33,14,41,21,141,37,61,140,63,9,105,292,93,1,22,27,100,307,81,203,35,77,96,6,27,142,66,112,6,10,38,1,7,6,29,17,8,2,21,10,10,308,229,45,81,151,15,35,95,80,12,38,1368,40,86,58,2,97,625,11,2,79,269,126,12,503,19,8,37,13,23,2,21,18,3,12,34,13,28,9,7,22,14,4,37,9,2,5,19,1,8,50,27,22,1,14,3,31,25,43,2,15,8,4,61,78,9,13,4,14,9,2,19,21,26,29,9,27,36,15,22,14,38,4,2,4,63,50,11,1,75,5,1,6,6,2,28,9,3,320,322,1,57,286,4,141,4,7,5,2,11,1,1,2,3,3,5,5,12,21,1,1,3,3,5,19,5,4,6,1,8,5,8,15,5,1,23,8,17,23,8,12,2,28,11,2,4,2,19,2,26,10,15,22,20,27,21,18,6,6,3,8,19,7,10,7,19,8
+Ouest Africain	18103
 Ouest Africaine	4459
 Ouest Africaine de Développement	17820
 Ouest Africaine. Elle	16621
+Ouest Afrique Horaires	18295,3,10,123
 Ouest Agenda Réunion	17324
 Ouest Avenue Abdoulaye FADIGA BP	10888,4882
 Ouest B	8321
 Ouest B2P Transaction	4459
 Ouest BCDF Bureau Communal du Domaine	10876
+Ouest BCI	18291
 Ouest BDEMF Base de Données Economiques	11944
 Ouest BDS Banknote Destruction System BoD	15023
 Ouest BIT	10874
@@ -188,10 +201,15 @@ Ouest Boeny Analanjirofo Grand Sud Est	14622
 Ouest Brice Abba	16545
 Ouest CAPESA Centre	15479
 Ouest CEDEAO Communauté Economique des Etats	15583
+Ouest CEDEF Convention	18286,24
 Ouest CEEAC	17830
+Ouest CER	18322
 Ouest CER Communautés	15479
+Ouest CER Concessions	18316
+Ouest CEREEC Centre	18103
 Ouest CF	10876
 Ouest CGI Code Général des Impôts CMR	10712
+Ouest CIEDR Convention	18310
 Ouest CILSS Comité Inter	16621
 Ouest CMR Conférence Mondiale des Radiocommunications CPEAO	16327
 Ouest CNSR Caisse Nationale de Sécurité Sociale	15583
@@ -201,6 +219,7 @@ Ouest Central	17870
 Ouest Centre	16615
 Ouest Cette	10091
 Ouest Cotonou-Djougou	15399
+Ouest DPG	18100
 Ouest Extrême- Nord	15999
 Ouest Format	16545
 Ouest GAB	10711
@@ -219,6 +238,7 @@ Ouest Pr Abdelhakim BENTELLIS	15568
 Ouest Produit Intérieur Brut ISBL	10875
 Ouest Publish	17323,1
 Ouest RCA Autorité	16626
+Ouest Siège	18363
 Ouest Speaker	16545
 Ouest Sud Sud-ouest	15599
 Ouest URL	17816
@@ -242,8 +262,9 @@ Ouest. Aux Seychelles	6241
 Ouest. Avec	15592
 Ouest. Ces	8893,2082
 Ouest. Cet	15639
-Ouest. Cette	8237
+Ouest. Cette	8237,10126
 Ouest. Concernant	998
+Ouest. Contactez-nous	18363
 Ouest. Dans	16359,274
 Ouest. Date	9906
 Ouest. Donc	2514
@@ -252,7 +273,7 @@ Ouest. En	2342,217,15414
 Ouest. En RCA	15474
 Ouest. Et	6257
 Ouest. Grâce	2693
-Ouest. Il	8162,2937,5534,1191
+Ouest. Il	8162,2937,5534,1191,281,43
 Ouest. J'ai	16633
 Ouest. L'analyse	9541
 Ouest. La CEDEAO	10294
@@ -266,6 +287,7 @@ Ouest. Première	16633
 Ouest. Quinze	17848
 Ouest. Sa	6395
 Ouest. Selon	2693,6826,7026
+Ouest. Spécifiquement	18286
 Ouest. Sur	16650
 Ouestaf News	17830
 Ouesten	15525
@@ -305,8 +327,9 @@ Système Comptable Ouest Africain	14849
 Sécurité Sociale M. Dahoud Ouedraogo Direction	10812
 Tigzirt Ouest-Tasselast	16230
 Tissemsilt El Oued Khenchela Souk Ahras	16085
+UEMOA Union Economique Monétaire Ouest Africaine	18286
 Union Economique Monétaire Ouest Africain	17945
-Union Monétaire Ouest Africaine	8316,2520,686,45,498,2138,1149,156,127,688,1493
+Union Monétaire Ouest Africaine	8316,2520,686,45,498,2138,1149,156,127,688,1493,365,93,40
 Union Monétaire Ouest Africaine Le Gouverneur	10836
 Union Monétaire Ouest Africaine URL	15635
 Union Monétaire Ouest Africaine. Avenue Abdoulaye	15635

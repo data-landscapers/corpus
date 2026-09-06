@@ -7,7 +7,7 @@ CONTRACEPTION AVEC DES PRESTATAIRES DE PLANIFICATION	13300
 CPS Cellule de Planification	17882
 CPS-SICAEPIP Cellule de Planification	17978
 Cadre de Planification	15965
-Cellule de Planification	9553,8274,3,12,3,37,63,33,31,23,45
+Cellule de Planification	9553,8274,3,12,3,37,63,33,31,23,45,214
 Cellules de Planification	17830,148,99
 Central Ministry New Planification Economique Secrétariat	1284
 Centre de Planification	17827
@@ -44,6 +44,7 @@ Division Planificateur	17982
 Développement Durable Unité Planification	17978
 ERP Planification	7655
 EXPOSITION AUX MESSAGES SUR LA PLANIFICATION	13300
+Economiste Planificateur	18400,2,1
 Encaissements Planification	17982
 Encargada de Planificación	6841
 Encargada de Planificación Excelentísima	1855
@@ -65,6 +66,7 @@ Institut Malgache des Techniques de Planification INSTAT	14472
 Investissement Privé CPS-SJ Cellule de Planification	17978
 Justice CPS-SME Cellule de Planification	17978
 LA PLANIFICATION ET DE LA PROSPECTIVE	16381
+LA PLANIFICATION ET DE LA REFORME	18302
 La Cellule de Planification	17978
 La Dirección General de Planificación	17321
 Le Centre de Planification	17827
@@ -73,6 +75,7 @@ Le Service Planification	10876,4802
 Les Cellules de Planification	17978
 Les Directions de Planification	15673
 MALI DIVISION PLANIFICATION ET STATISTIQUE Chef	17982
+MFFE Planification	18286
 MINISTERE DE LA PLANIFICATION ET	16001,98,76
 MINISTÈRE DE LA PLANIFICATION ET	16381
 MOYENNE. Planification	1679
@@ -80,6 +83,7 @@ Mines SECTION RECETTES Chef de Section Planificateur	17982
 Mines SECTION RECETTES Planificateur	17982
 Ministerio de Planificación	16898,27
 Ministério da Planificação	2816
+Moins Avancés PPO Planification des Projets	18103
 Nutritionnelle CPS Cellule de Planification	18077
 Onguene Director General De Planificación	16920
 Orientation Cellule de Planification	17978
@@ -91,14 +95,17 @@ PLANIFICACIÓN Y DESARROLLO ECONÓMICO Servicio	4209
 PLANIFICATION	13341,3373
 PLANIFICATION DE LA FÉCONDITÉ Planification	13300
 PLANIFICATION ET DE L'AMENAGEMENT	15999
-PLANIFICATION FAMILIALE	13300
+PLANIFICATION FAMILIALE	13300,5012
 PLANIFICATION La Banque Centrale	13468
+PLANIFICATION OPERATIONNELLE DU PS-p15-p34	18121
 PLANIFICAÇÃO E FINACIAMENTO	11561
 PRINCIPAIS ACTIVIDADES PLANIFICADAS	2816
 PRISE DE DÉCISION SUR LA PLANIFICATION	13300
 Pedro Esono Nse Director General de Planificación	16864
 PforR. VI.5. Planification	10876
 Phase Planification Déroulement Mise	14537
+Plani	18316
+Planif	18291
 Planific	17827
 Planificación	1701,154,2354,11269,1397,18,5,6,65,21,32,51,119,67,3,59,21
 Planificación Asistencia	16898
@@ -119,7 +126,7 @@ Planificación Tasas	16898
 Planificación Territorial Fernando EVUNA MBORO INDEFOR-AP	16875
 Planificación Volumen	16898
 Planificar	11381,1,67
-Planificateur	8269,6258,3300,34,121
+Planificateur	8269,6258,3300,34,121,187,231,2,1
 Planificateur Administrateur	17827
 Planificateur Brevets	17827
 Planificateur Charges	17827
@@ -131,29 +138,36 @@ Planificateur Relations Professeur	17827
 Planificateur Scie	17827
 Planificateur Section Promotion	17827
 Planificateur-aménageur	7670
-Planificateurs	17899
+Planificateurs	17899,270
 Planificatin	14539
 Planificatio	15580
-Planification	311,245,658,465,1717,279,450,13,187,1033,1220,963,114,614,33,139,1603,668,53,10,72,27,2,88,1,84,137,1,718,138,1247,10,25,15,9,28,91,10,35,33,122,6,249,409,110,30,65,85,282,273,184,5,46,3,9,54,15,8,36,4,1,27,11,86,7,5,3,4,27,12,212,65,11,25,10,13,44,146,19,112,4,144,153,31,871,258,1,1,1,3,16,18,3,14,3,76,4,1,49,45
+Planification	311,245,658,465,1717,279,450,13,187,1033,1220,963,114,614,33,139,1603,668,53,10,72,27,2,88,1,84,137,1,718,138,1247,10,25,15,9,28,91,10,35,33,122,6,249,409,110,30,65,85,282,273,184,5,46,3,9,54,15,8,36,4,1,27,11,86,7,5,3,4,27,12,212,65,11,25,10,13,44,146,19,112,4,144,153,31,871,258,1,1,1,3,16,18,3,14,3,76,4,1,49,45,23,21,1,47,80,37,5,11,10,10,4,74,2,1
 Planification Analyse Traitement	17845
+Planification CEPSE	18291
+Planification CESE Conseil Economique Social	18286
 Planification CSS Commission Supérieure	15580
 Planification DELM	15685
 Planification DGMEC	10874
 Planification DGPOP	15423
 Planification DHIS2 District Health Information Software	13306
 Planification DMC Direction	15580
+Planification Développer	18306
 Planification Economique	1284,1341,10704,2,3
 Planification Economique ADD FIN TBL1	1284
 Planification Economique Ministère	13341
 Planification Economique Ministère des Finances	13341
 Planification Economique. Ce	13329
+Planification Familiale	18286
 Planification Familiale Annuaire	15475
+Planification Familiale PIB	18100
 Planification Membres	10712
+Planification Opérationnelle	18169
+Planification SFR	18291
 Planification Statistique	17982
-Planification Stratégique	10712,4830
-Planification des Ressources	13306
+Planification Stratégique	10712,4830,2627
+Planification des Ressources	13306,4985
 Planification du Déve-	18077
-Planification du Développement	13390,4437,151
+Planification du Développement	13390,4437,151,171
 Planification du Développement DGCC	17842
 Planification du Secteur	15673
 Planification. Il	10712
@@ -205,6 +219,8 @@ Technicien des Travaux de Planification	17982
 Techniciens des Travaux de Planification Chargé	17899
 Techniciens des Travaux de Planification DIVISION	17899
 Travaux de Planification	17899,83
+UAM. OS.3. Planifier	18121
+UAM. OS3 Planifier	18121
 UGP Planifier	16012
 Unité Planification	17830
 VI.5. Planification	10876

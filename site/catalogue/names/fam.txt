@@ -85,6 +85,8 @@ ENDORSEMENT OF WOMEN'S FREEDOM IN FAMILY	17127
 ENTREPRISES FAMILIALES NON AGRICOLES	737
 ET DE LA FAMILLE	16425
 ET DES PRESTATIONS FAMILIALES	16175,206
+Economie Familiale	18099
+Economie Familiale ENF Education Non Formelle	18171
 Egyptian Family Health Survey	15725
 Elderly Elderly Other Family	16902
 Election Observation Mission FAMOD Forum of Mozambican	12201
@@ -100,6 +102,7 @@ Estonian Society of Family Doctors	11006
 European Family Justice Center Alliance	14793
 Exploitation Familiale	10830
 F IBS FAMILY SARL IBS	16623
+FAM Famine Action Mechanism FM Financial	18104
 FAMARITAN- TENY	14488,1,1
 FAMARY Industrie SARL	16663
 FAMIB Group	17870
@@ -149,7 +152,7 @@ Familiares	16855
 Familiaridade	11441,15,565,4089
 Familiarisation	9237
 Familiarise	10419
-Familiariser	13290,493
+Familiariser	13290,493,4404,1
 Familiarising	8130
 Familiarity	12754,821,1,609,2127
 Familiarization Visit of Journalists	16275
@@ -158,7 +161,7 @@ Families Assisted	12977
 Families Left Offline	4619
 Families and Children	15661
 Families. The Government	14742
-Famille	7403,238,29,31,12,1,4,140,120,343,24,546,492,754,675,14,15,123,187,793,469,887,90,501,851,18,296,320,7,30,15,44,2,77,34,101,26,34,34,12,58,23,12,51,193,194,16,45,95,22,3,224,12,721,20,8,95,243,14,4,54,47,1,56,11,33,30
+Famille	7403,238,29,31,12,1,4,140,120,343,24,546,492,754,675,14,15,123,187,793,469,887,90,501,851,18,296,320,7,30,15,44,2,77,34,101,26,34,34,12,58,23,12,51,193,194,16,45,95,22,3,224,12,721,20,8,95,243,14,4,54,47,1,56,11,33,30,209,5,48,31,42
 Famille AFD	15475
 Famille Autres	13499
 Famille CCID	14760
@@ -178,10 +181,12 @@ Famille NTIC ODD	15685
 Famille Système	17845
 Famille T	16103
 Famille du SIFEF	17845
+Famille. Ces	18327
+Famille. En	18286
 Famille. Il	17845
 Famille. des Circonscriptions	18003
 Familles	15732,797
-Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,193,621,291,66,69,826,137
+Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,193,621,291,66,69,826,137,371,54
 Family Affairs	14889
 Family Assistance Plan	11855
 Family Assistance Program	11855
@@ -232,6 +237,7 @@ Family Related	11956
 Family Relations Act	12241,839
 Family Search International	10821
 Family Security Grant	4200
+Family Security Scholarship	18305
 Family Smart Card	15663
 Family Strengthening Programme	17228
 Family Support Bureaux	14742
@@ -246,6 +252,7 @@ Family Welfare and Protection Unit	14742
 Family and Child Health	12976
 Family and Child Protection	3500
 Family and Children	11900,4680
+Family and Gender	18301
 Family and Mediation	14742
 Family and Promotion of Women	10765,3,7,600,20
 Family and Social Inclusion MIS Management Information	11855
@@ -261,6 +268,7 @@ Family-Based Interventions	13474
 Family-care	11581
 Famindran-toerana	14488,1,1
 Famine	12192,309,2458,80,181
+Famine Action Mechanism	18104
 Famine Early Warning Systems Network	13686
 Famine Prevention Plan	14959
 Famines Early Warning Systems Network	10763
@@ -308,6 +316,7 @@ Institution MFS Ministry of Family and Solidarity	16384
 Isan’ny Fampahafatarana	14490
 JUEZ DE FAMILIA Y TUTELAR	4209
 Jean Eric Djendja Itoua. FamilySearch	1876
+Jeunesse Famille	18112
 KT Family Thrills Fans During Muhanga	5889
 Knowing the Family	14835
 LA FAMILLE ET DE LA SOLIDARITE	8321
@@ -337,7 +346,7 @@ Minister of Gender Equality and Family Welfare Hon	14753
 Minister of Health and Family Welfare	16649
 Ministerio da Familia	11855
 Ministro da Família	16138
-Ministry of Family	10826,1139,3959,263
+Ministry of Family	10826,1139,3959,263,2114,69
 Ministry of Family and Human Rights Development	15059
 Ministry of Family and Social Inclusion	11855
 Ministry of Family and Social Inclusion Implementing Agency	11855
@@ -360,18 +369,22 @@ Old Lands. Families	15473
 PATRIMÓNIO DOS AGREGADOS FAMILIARES	10777
 PGES DATA CENTER PRINCIPAL FAMINTINANA Ny	14489
 PLANEAMENTO FAMILIAR	10777
-PLANIFICATION FAMILIALE	13300
+PLANIFICATION FAMILIALE	13300,5012
 PNBSF Family Security Grant	417
 POPULAÇÃO E COMPOSIÇÃO DOS AGREGADOS FAMILIARES	10777
 PORTANT CODE DE LA FAMILLE EXPOSE	15413
 PORTANT CODE DE LA FAMILLE L'Assemblée	15413
 PORTANT CODE DE LA FAMILLE URL	15413
+PROGRAMMES D’ECONOMIE FAMILIALE ET SOCIALE	18099
+PROGRAMMES D’ECONOMIE FAMILIALE ET SOCIALE SECOND	18099
 PROPRE FAMILLE	13300
 PS Ministry of Gender and Family Promotion	12338
 Personal and Family Rights	13948
 Persons and Families	15056
 Planeamento Familiar	10760,17
+Planification Familiale	18286
 Planification Familiale Annuaire	15475
+Planification Familiale PIB	18100
 Planning Familial	16722
 Plano de Acompanhamento Familiar	11855
 Playbook For Family-School Engagement	899
@@ -388,6 +401,7 @@ Profesorado FHI360 Family Health International Development	16864
 Programa Família	14191
 Programa Família Vulnerável	14191
 Programa de Acompanhamento Familiar	11855
+Programme National de Bourses de Sécurité Familiale	18301
 Provedores de Planeamento Familiar	10777
 Q TRANSPORT FAMILLE NIMAGAN TFN	16623
 Questionário de Entrevistas de Agregados Familiares	10777
@@ -436,11 +450,14 @@ Tondro Vanimpotoana Tompon’andraikitra Dingana Fampiasana	14490
 Tondro Vanimpotoana Tompon’andraikitra Fampiasana	14490
 UN FAMILY	16973
 UNFPA United Nations Family and Population Agency	10829
+Under the Ministry of Family Affairs	18370
 Unit Ministry of Gender Eqality and Family Welfare	14770
 United Nations Family	13359
 United Nations Family and Population Agency	10829
+United Nations-World Bank FAM	18104
 Using Family Planning	15247
 Usman Fambuleh Sierra Leone-based	5939
 VOIR FAMILLE	13300
 Vulnerable Families	10763,5
+Warning System FEWS-Niger Famine Early Warning	18198
 de Famille	10975

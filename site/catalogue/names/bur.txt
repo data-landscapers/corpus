@@ -14,6 +14,7 @@ ACTIVITES DE COMMERCE ELECTRONIQUE DU BURUNDI	13652
 ADMINISTRATEUR REPRESENTANT LA POSTE BURKINA FASO	7670
 ADSL. Au Burkina Faso	737
 AFD Burundi	13433
+AFRO Burkina	18105
 AGEROUTE ANADER ANSSI ANSUT ARTCI BURIDA	15936
 AGRICULTURAL PRODUCTIVITY IN BURUNDI	13624
 AI Kenya Bureau of Standards	7548
@@ -88,6 +89,7 @@ Agricole du Burundi	13390
 Ahmore Burger-Smidt	5865,8492
 Akim KY Burkina	3668,12887
 Al Ahram Taqa Burkina	16536
+Algorithms and Bureaucrats	18318
 Alister Bull and Paul Burkhardt	7343
 Allemagne. Bureau	10712
 Alliance Burkinabè des Domaines Internet	9509
@@ -98,6 +100,8 @@ Ambassador of Burkina Faso	5917
 Amhara Bureau of Revenue	8102
 Aminata Zerbo-Sabané. Nigeria and Burkina Faso	9874
 Anacarde du Burkina Faso	15715
+Analyse Bureau	18418
+Analyse Bureaux	18418
 Andela. Burundi	13314
 Angola Benin Burkina Faso Burundi Cabo	13042
 Annexure-I. Bilateral Mechanism India and Burkina Faso	16256
@@ -150,7 +154,7 @@ B0023-DU-10-JUILLET-2024.pdf PRIMATURE BURKINA FASO Unité	15676
 BAMBURI FOREX BUREAU LIMITED Data Processor	7167
 BANDE AU BURUNDI Bujumbura	13482
 BANDE AU BURUNDI URL	13482
-BANQUE COMMERCIALE DU BURKINA BANQUE	11588
+BANQUE COMMERCIALE DU BURKINA BANQUE	11588,6682
 BANQUE DE LA REPUBLIQUE DU BURUNDI	13467
 BANQUE MONDIALE RÉPUBLIQUE DU BURUNDI MINISTERE	13555
 BBI Burundi Business Incubator BBS Burundi	13312,2
@@ -178,20 +182,29 @@ BURA COMMUNICATIONS LIMITED Data Controller INST-6871787AB71	7167
 BURAO AGENCIES LIMITED Data Controller INST-20514966105	7167
 BURCHS RESORT NAIVASHA LIMITED Data Controller	7167
 BUREAU	13105,1631,3083,9,1,4,66,133
+BUREAU ANALYSE ET ETUDES	18302
+BUREAU CARTE EDUCATIVE	18302
 BUREAU CL2 ATT.D’ADMIN CL	15670
 BUREAU COMPLIANCE EXECUTIVE LEGAL ADVISORY	11198
 BUREAU CONSEILLERS SPECIALES Président	17833
+BUREAU COORDINATION ET SUIVI DES PROGRAMMES	18302
+BUREAU COUTS ET FINANCEMENT	18302
 BUREAU DE COMMUNICATION	17972
+BUREAU DE SUIVI DES PROJETS	18302
 BUREAU DE SÉCURITÉ	17972
 BUREAU DU CONSEILLER ECONOMIQUE ET	15399
 BUREAU D’ACCUE IL	17827
 BUREAU D’ACCUEIL	17827
 BUREAU INDEPENDANT ANTI-CORRUPTION PLAN DU RAPPORT	14450
+BUREAU INFORMATION ET DOCUMENTATION	18302
+BUREAU PARTENARIAT	18302
 BUREAU Président	17982
 BUREAU Président du Collectif	18032
 BUREAU RELATIONS PUBLIQUES Chef de Bureau Commissaires	17899
 BUREAU SPECIALISE Chef de Bureau Inspecteur des Impôts	17982
 BUREAU STATEMENT SHOWING REASONS FOR VARIANCES	14736
+BUREAU STATISTIQUES SCOLAIRES	18302
+BUREAU SUIVI DES SOUS-SECTEURS ET	18302
 BUREAU Secrétaire	17833,8,58,83,21
 BUREAU Trésorier	17841,162
 BUREAU Trésorière	18003
@@ -200,7 +213,7 @@ BURIDA	15936
 BURIN	14930
 BURKINA	4459,5534,718,5576,1730
 BURKINA ChatGPT Cloud Creation Cryptocurrency Culture	9993
-BURKINA FASO	737,2659,7606,2994,1695,93,466,685,1010
+BURKINA FASO	737,2659,7606,2994,1695,93,466,685,1010,160
 BURKINA FASO EXTENDED NETWORK	11002
 BURKINA FASO FINANCES V T	14469
 BURKINA FASO FOR A DIGITAL	15621
@@ -318,7 +331,7 @@ Burden of Road Injuries	1867
 Burdensome	15473,7
 Burdette	4676
 Burea1u2o.6f PBuubrleicaPuroofcPuurbemlicePnrto	10157
-Bureau	557,1514,46,658,81,33,370,67,285,127,365,767,379,577,281,168,226,119,62,460,55,20,331,122,14,331,492,8,222,154,65,57,309,118,40,32,288,256,238,179,239,52,57,23,77,12,11,190,429,162,34,92,1,92,38,11,50,49,73,76,50,235,117,32,31,194,105,70,217,49,8,11,15,2,13,29,21,27,11,4,17,56,40,33,7,74,12,39,428,176,46,2,17,7,14,38,1,1,44,3,12,45,23,5,40,74,50,20,31,517,8,48,4,110,18,13,2,11,16,15,4,100,21,3,17,30,127,2,39,8,97,28,24,40,36,20,52,3,13,24,5,260,10,15,43,99,114,20,7,3,37,27,79,99,130,88,1,44,103,117,155,69,15,18,3,8,5,11,16,27,160
+Bureau	557,1514,46,658,81,33,370,67,285,127,365,767,379,577,281,168,226,119,62,460,55,20,331,122,14,331,492,8,222,154,65,57,309,118,40,32,288,256,238,179,239,52,57,23,77,12,11,190,429,162,34,92,1,92,38,11,50,49,73,76,50,235,117,32,31,194,105,70,217,49,8,11,15,2,13,29,21,27,11,4,17,56,40,33,7,74,12,39,428,176,46,2,17,7,14,38,1,1,44,3,12,45,23,5,40,74,50,20,31,517,8,48,4,110,18,13,2,11,16,15,4,100,21,3,17,30,127,2,39,8,97,28,24,40,36,20,52,3,13,24,5,260,10,15,43,99,114,20,7,3,37,27,79,99,130,88,1,44,103,117,155,69,15,18,3,8,5,11,16,27,160,26,3,19,20,6,20,1,15,102,4,6,19,6,5,10,26
 Bureau Accueil	17888
 Bureau Administratif	14527
 Bureau Analyse	15575
@@ -369,12 +382,16 @@ Bureau Mali Suivant	6959
 Bureau Malien du Droit	17870
 Bureau Management	12900
 Bureau Multi-Pays	17323,1
-Bureau National	15530,69,113,483,398
+Bureau National	15530,69,113,483,398,1525
 Bureau National de Gestion des Risques	14622
 Bureau Numérique du PNUD	14534
 Bureau OMS Madagascar	14622
 Bureau OPC Office	12917
 Bureau OSS Open-Source Software PDU Presidential	12241,839,15
+Bureau Opérationnel de Coordination	18340
+Bureau Opérationnel de Suivi	18286
+Bureau Opérationnel de Suivi CEDEAO Communauté Economique	18286
+Bureau Organisation	18286,145
 Bureau PV Sensibilisation	14488,1,1
 Bureau Part III	12900
 Bureau Permanent	14537,12
@@ -386,6 +403,7 @@ Bureau RCIP-4	13722
 Bureau RISA Rwanda Information Society Authority	718
 Bureau Regional de Formation	14662
 Bureau Régional	16026,1905
+Bureau Régional des Nations Unies	18286
 Bureau SSF School Services Fund SUB-PMG	13420
 Bureau Sensibilisation	14488,1,1
 Bureau The Board	14410
@@ -408,6 +426,8 @@ Bureau de Stratégie	16627,1
 Bureau de Stratégie de Développement	16719
 Bureau de Stratégiqe Numérique	15568
 Bureau de Ségou Bureau de Sévaré Tel	17933
+Bureau des Collectivités Locales	18293
+Bureau des Douanes de Kidira	18344
 Bureau des Nations Unies	17323,1
 Bureau des Normes de Madagascar	14451
 Bureau des Radiocommunications	13301
@@ -416,10 +436,12 @@ Bureau du CNPA	13781
 Bureau du Commissaire Electoral Port Louis	14813
 Bureau du Conseil	8891,4401,2411,24,246
 Bureau du Conseil Conformément	8891
+Bureau du Coordonnateur Résident	18160
 Bureau du Directeur Place des Nations CH-1211 Genève	17856
 Bureau du Médiateur du Burkina Faso	10817
 Bureau du PNUD	14489,1
 Bureau du Premier	14837
+Bureau du Président	18286
 Bureau du Sénat	15703,24,274
 Bureau du Vérificateur Général	6959,11024,80
 Bureau for Economic Research	8779
@@ -459,6 +481,7 @@ Bureau of Partnership Partnership	16863
 Bureau of Percentage Activity	16863
 Bureau of Planning	17260
 Bureau of Policy and Planning	16971
+Bureau of Policy and Programme Support CIDE	18118
 Bureau of Political and Social Reorientation	7664
 Bureau of Preventive Services	16971
 Bureau of Price	16863
@@ -472,7 +495,7 @@ Bureau of Standards	16631
 Bureau of Standards HR Human Resources HRH	396
 Bureau of Standards KE-CIRT	7548
 Bureau of Start the Annual	16863
-Bureau of Statistics	9024,416,1646,1557,29,34,10,3,7,23,8,11,2121,8,1966,39,90
+Bureau of Statistics	9024,416,1646,1557,29,34,10,3,7,23,8,11,2121,8,1966,39,90,1252
 Bureau of Statistics Create the Unit	16863
 Bureau of Statistics Director	12749
 Bureau of Statistics ERI Kipevu Oil Storage	12256
@@ -502,6 +525,7 @@ Bureau. Accordingly	14736
 Bureau. During the NSDS II	16927
 Bureau. Ils	15727
 Bureau. Les Présidents	15703
+Bureau. Notably	18185
 Bureau. Note	14736
 Bureau. Part III	12643
 Bureau. Part IV	12643
@@ -510,13 +534,15 @@ Bureau. REPORT ON THE CORPORATE GOVERNANCE	14736
 Bureau. The Bureau	14736
 Bureau. The Director	14736
 Bureau. The General Manager	14736
-Bureaucracy	2096,10131,4631
+Bureaucracy	2096,10131,4631,1460
 Bureaucratic	6277,1174,570,6980,1942
 Bureaucratic Enforcement	8629
-Bureaucrats	12369
+Bureaucrats	12369,5949
+Bureaucrats and Tax Equity	18318
 Bureaus	16971
 Bureaus of Internal Revenue and Customs and Excise	17011
-Bureaux	9717,1159,89,2425,1034,64,1,1,132,760,321,24,19,157,96,621,386,860
+Bureautique	18236
+Bureaux	9717,1159,89,2425,1034,64,1,1,132,760,321,24,19,157,96,621,386,860,252,168,5
 Bureaux Communaux Du Domaine	10876
 Bureaux Communaux du Domaine	10876
 Bureaux Nombre	10876
@@ -524,6 +550,7 @@ Bureaux de Change	5687
 Bureaux de Stratégies	16620
 Bureaux de Traitement des Informations Policières	15696
 Bureaux des Conseils	15727
+Bureaux des Domaines	18324
 Bureaux. Forex	11960
 Bureaux. Il	15703
 Bureou	15429
@@ -559,13 +586,13 @@ Burke	10964,1042,1618
 Burkhardt	2117
 Burkill	16103
 Burkin Naong Sa Ya	16384
-Burkina	737,561,97,314,97,792,5,129,394,220,10,40,373,35,21,121,87,26,137,187,76,632,189,211,103,113,790,234,549,26,13,14,20,278,39,651,181,131,45,170,200,239,55,60,107,484,132,134,383,69,101,44,18,1,47,201,942,3199,199,87,3,68,11,39,44,5,15,34,16,132,25,19,65,157,104,161,88,14,474,535,73,111,80,10,12,25
+Burkina	737,561,97,314,97,792,5,129,394,220,10,40,373,35,21,121,87,26,137,187,76,632,189,211,103,113,790,234,549,26,13,14,20,278,39,651,181,131,45,170,200,239,55,60,107,484,132,134,383,69,101,44,18,1,47,201,942,3199,199,87,3,68,11,39,44,5,15,34,16,132,25,19,65,157,104,161,88,14,474,535,73,111,80,10,12,25,235,13,173
 Burkina AT Agent	15961
 Burkina ATA	8886
 Burkina CASEM Plan de Travail Annuel	2074
 Burkina Export Promotion Agency	16256
 Burkina Fa-	18077
-Burkina Faso	7,23,83,44,42,37,71,5,19,6,55,10,3,11,58,1,77,88,2,1,1,8,60,10,15,48,51,1,56,36,4,80,52,76,1,47,28,26,21,13,14,1,1,3,2,33,14,3,47,46,24,119,37,13,1,6,6,3,94,57,11,25,80,1,32,107,1,3,1,12,67,7,155,14,60,7,138,38,8,7,107,24,19,7,43,194,14,72,71,106,40,44,25,4,9,42,31,17,11,10,4,2,1,13,5,9,18,19,38,14,36,16,28,2,14,27,101,11,1,1,54,12,34,2,19,21,19,7,36,4,6,20,75,48,14,37,63,37,37,1,3,1,8,16,1,59,91,1,17,37,57,20,19,26,1,9,2,9,10,6,13,2,25,47,7,1,11,1,29,9,5,3,1,13,32,9,33,66,209,24,47,105,10,18,11,20,2,18,32,13,100,1,42,35,1,31,2,15,19,18,42,13,18,172,2,1,2,132,15,10,67,30,47,51,11,16,176,36,16,6,24,20,41,31,4,7,49,6,44,5,1,11,9,51,14,24,122,76,5,25,3,7,20,47,1,7,64,27,33,185,4,4,29,86,7,86,29,35,49,62,12,25,52,1,11,75,84,82,51,47,1,132,1,43,43,12,1,1,1,86,64,150,12,1,227,73,160,32,79,40,1,139,47,27,86,1,32,98,112,19,37,38,30,17,27,18,156,3,19,5,43,18,11,16,54,45,5,21,27,5,2,2,1,3,3,1,1,4,1,3,4,2,1,5,4,2,2,1,3,1,1,2,2,4,1,1,1,4,2,3,1,6,18,11,20,8,17,3,15,22,94,24,14,415,17,3,9,28,13,204,23,18,3,13,3,1,2,20,9,97,50,9,31,48,1,9,51,127,11,1,135,562,224,58,38,72,271,533,115,107,1,255,540,86,12,3,41,6,5,7,20,10,6,3,8,3,1,19,2,1,3,12,3,27,8,7,22,2,5,6,3,16,10,2,9,7,10,9,7,6,5,1,14,20,4,5,8,1,6,1,7,22,4,15,1,2,4,1,1,27,6,2,5,31,20,5,4,2,1,2,17,4,23,3,15,1,6,22,19,18,26,11,36,8,8,2,18,23,2,12,7,49,13,9,6,5,23,3,4,26,21,15,6,25,13,15,23,13,19,2,6,16,22,23,9,1,4,5,7,11,7,4,43,74,197,51,374,1,235,35,2,70,93,71,5,1,5,4,3,14,8,36,11,18,5,1,3,18,4,21,4,12,44,27,6,11
+Burkina Faso	7,23,83,44,42,37,71,5,19,6,55,10,3,11,58,1,77,88,2,1,1,8,60,10,15,48,51,1,56,36,4,80,52,76,1,47,28,26,21,13,14,1,1,3,2,33,14,3,47,46,24,119,37,13,1,6,6,3,94,57,11,25,80,1,32,107,1,3,1,12,67,7,155,14,60,7,138,38,8,7,107,24,19,7,43,194,14,72,71,106,40,44,25,4,9,42,31,17,11,10,4,2,1,13,5,9,18,19,38,14,36,16,28,2,14,27,101,11,1,1,54,12,34,2,19,21,19,7,36,4,6,20,75,48,14,37,63,37,37,1,3,1,8,16,1,59,91,1,17,37,57,20,19,26,1,9,2,9,10,6,13,2,25,47,7,1,11,1,29,9,5,3,1,13,32,9,33,66,209,24,47,105,10,18,11,20,2,18,32,13,100,1,42,35,1,31,2,15,19,18,42,13,18,172,2,1,2,132,15,10,67,30,47,51,11,16,176,36,16,6,24,20,41,31,4,7,49,6,44,5,1,11,9,51,14,24,122,76,5,25,3,7,20,47,1,7,64,27,33,185,4,4,29,86,7,86,29,35,49,62,12,25,52,1,11,75,84,82,51,47,1,132,1,43,43,12,1,1,1,86,64,150,12,1,227,73,160,32,79,40,1,139,47,27,86,1,32,98,112,19,37,38,30,17,27,18,156,3,19,5,43,18,11,16,54,45,5,21,27,5,2,2,1,3,3,1,1,4,1,3,4,2,1,5,4,2,2,1,3,1,1,2,2,4,1,1,1,4,2,3,1,6,18,11,20,8,17,3,15,22,94,24,14,415,17,3,9,28,13,204,23,18,3,13,3,1,2,20,9,97,50,9,31,48,1,9,51,127,11,1,135,562,224,58,38,72,271,533,115,107,1,255,540,86,12,3,41,6,5,7,20,10,6,3,8,3,1,19,2,1,3,12,3,27,8,7,22,2,5,6,3,16,10,2,9,7,10,9,7,6,5,1,14,20,4,5,8,1,6,1,7,22,4,15,1,2,4,1,1,27,6,2,5,31,20,5,4,2,1,2,17,4,23,3,15,1,6,22,19,18,26,11,36,8,8,2,18,23,2,12,7,49,13,9,6,5,23,3,4,26,21,15,6,25,13,15,23,13,19,2,6,16,22,23,9,1,4,5,7,11,7,4,43,74,197,51,374,1,235,35,2,70,93,71,5,1,5,4,3,14,8,36,11,18,5,1,3,18,4,21,4,12,44,27,6,11,8,6,17,1,15,18,9,12,23,2,10,14,1,7,16,17,1,18,7,29
 Burkina Faso AFR LI	17743
 Burkina Faso AXE	10858
 Burkina Faso Action	16026
@@ -693,7 +720,7 @@ Burkina Faso Tightens Telecom Regulations	4182
 Burkina Faso Trains Lawmakers	7361
 Burkina Faso Trung Q. Duong	16467
 Burkina Faso Tél	10874,1,4682
-Burkina Faso URL	15362,135,15,159,120,128,41,66,146,167,152
+Burkina Faso URL	15362,135,15,159,120,128,41,66,146,167,152,1777
 Burkina Faso Une	3396
 Burkina Faso Unveils PACTDIGITAL	5495
 Burkina Faso Urbain	10875
@@ -707,7 +734,7 @@ Burkina Faso and Côte	789
 Burkina Faso and Guinea	9960
 Burkina Faso and Kenya	9456
 Burkina Faso and Liberia	6329
-Burkina Faso and Mali	16178,1
+Burkina Faso and Mali	16178,1,1946
 Burkina Faso and Niger	554,911,806,1156,6520,13,573,289,4602,2446
 Burkina Faso and Niger. In Benin	9811
 Burkina Faso and Niger. Mali	9552
@@ -776,6 +803,7 @@ Burkina Faso. C'est	15671
 Burkina Faso. CHAPITRE II	15792
 Burkina Faso. Ce	9287,55,749,5421,164,313
 Burkina Faso. Cela	3472
+Burkina Faso. Ces	18122
 Burkina Faso. Cet	10871,4641
 Burkina Faso. Cette	7269,1052,313,768,1258,4702,135,142,37,266,84,1923
 Burkina Faso. Chad	10884
@@ -785,6 +813,7 @@ Burkina Faso. Comme	15715
 Burkina Faso. Conclusion BIBLIOGRAPHIE	15512
 Burkina Faso. Covers	722
 Burkina Faso. Créée	11099
+Burkina Faso. Câble	18105
 Burkina Faso. DCRP	3469,12117,950
 Burkina Faso. Dans	643,94,7717,8092,1528
 Burkina Faso. Date	16397
@@ -879,6 +908,7 @@ Burkina Faso’s Innovation Campus	9874
 Burkina Faso’s Minister for Digital Transition	9874
 Burkina Faso’s Ministry of Digital Transition	16261
 Burkina Faso’s National Bureau of Major Projects	4662
+Burkina Fasso	18322
 Burkina GT	15865
 Burkina IHPC Indice	15961
 Burkina JS	17633
@@ -902,7 +932,7 @@ Burkina and Senegal	17870
 Burkina's ID	1345,605
 Burkina's President	9267
 Burkina-Côte	15898
-Burkina-Faso	15720,2225
+Burkina-Faso	15720,2225,206
 Burkina-Faso Action-Plan 2021-2023 FR.pdf	15550
 Burkina-Naong-Sa Ya	10866
 Burkina. Ces	15424
@@ -920,7 +950,7 @@ Burkina2. En	4459
 Burkina24	1950,427,1288,260,6925,4904,144,488,169,18
 BurkinaFGB	7799
 BurkinaFaso	10821
-Burkinabe	2560,8,664,113,1337,46,235,532,422,531,4119,245,42,10,2,4755,635,128
+Burkinabe	2560,8,664,113,1337,46,235,532,422,531,4119,245,42,10,2,4755,635,128,1741
 Burkinabe Investment Agency	16256
 Burkinabe Ministry of Youth	16256
 Burkinabe National Identity Cards	16384
@@ -999,7 +1029,7 @@ Burundaise	13290,16,84,2859
 Burundaise N	13390
 Burundaise Pays	13390
 Burundaise des Mines	13620
-Burundi	36,4,678,275,20,72,199,112,69,113,1,20,124,53,91,26,69,18,89,48,179,87,25,161,55,1,36,21,63,30,84,65,22,96,51,2,69,396,97,80,1,78,152,100,295,64,156,51,9,36,31,99,103,3,46,73,11,15,16,1,185,30,141,23,73,37,33,2,91,174,39,13,1,23,16,13,60,26,4,32,3,15,11,40,79,148,104,93,19,66,39,82,7,1,26,28,1,44,39,249,322,198,86,157,5,107,441,250,134,197,69,20,1,336,104,22,71,97,2,4,179,6,69,196,25,87,90,25,272,26,50,3,2,1,3,2,19,27,58,18,77,287,85,3,109,43,18,19,29,6,128,96,2,16,1,2,11,17,43,46,30,64,53,1,9,1,63,36,22,56,11,1,32,103,554,189,59,1,2,7,1,2,3,3,3,1,1,9,1,1,4,1,1,3,4,3,8,8,1,2,3,1,6,4,1,2,2,9,2,3,2,10,1,5,3,5,3,5,1,5,9,3,7,5,7,3,1,8,2,4,1,9,7,1,6,7,2,2,1,2,2,2,1,4,1,1,3,8,4,1,2,3,3,5,3,5,4,1,1,5,4,2,1,6,3,4,14,3,1,5,2,2,2,1,6,3,3,2,10,4,3,1,5,2,1,3,2,3,12,4,4,5,11,56,4,165,6,196,75,29,480,172,16,111,26,308,24,77,13,3,26,501,125,11,494,157,634,208,58,121,24
+Burundi	36,4,678,275,20,72,199,112,69,113,1,20,124,53,91,26,69,18,89,48,179,87,25,161,55,1,36,21,63,30,84,65,22,96,51,2,69,396,97,80,1,78,152,100,295,64,156,51,9,36,31,99,103,3,46,73,11,15,16,1,185,30,141,23,73,37,33,2,91,174,39,13,1,23,16,13,60,26,4,32,3,15,11,40,79,148,104,93,19,66,39,82,7,1,26,28,1,44,39,249,322,198,86,157,5,107,441,250,134,197,69,20,1,336,104,22,71,97,2,4,179,6,69,196,25,87,90,25,272,26,50,3,2,1,3,2,19,27,58,18,77,287,85,3,109,43,18,19,29,6,128,96,2,16,1,2,11,17,43,46,30,64,53,1,9,1,63,36,22,56,11,1,32,103,554,189,59,1,2,7,1,2,3,3,3,1,1,9,1,1,4,1,1,3,4,3,8,8,1,2,3,1,6,4,1,2,2,9,2,3,2,10,1,5,3,5,3,5,1,5,9,3,7,5,7,3,1,8,2,4,1,9,7,1,6,7,2,2,1,2,2,2,1,4,1,1,3,8,4,1,2,3,3,5,3,5,4,1,1,5,4,2,1,6,3,4,14,3,1,5,2,2,2,1,6,3,3,2,10,4,3,1,5,2,1,3,2,3,12,4,4,5,11,56,4,165,6,196,75,29,480,172,16,111,26,308,24,77,13,3,26,501,125,11,494,157,634,208,58,121,24,290,79,108
 Burundi AFR LI	17743
 Burundi AMENAGEMENT DU TERRITOIRE URBANISME SYSTEME	13375
 Burundi Action IX.1.2 Renforcer	13306
@@ -1496,13 +1526,15 @@ Chef de Bureau Administrateur	17827
 Chef de Bureau BUREAU	17982
 Chef de Bureau Chargé	17899
 Chef de Bureaux des Domaines	17812
-Chef du Bureau	17848,161
+Chef du Bureau	17848,161,134,27,154,13
 Chef du Bureau National INTERPOL	17848
 Chef du Bureau Régional	17848
 Chef du Bureau Unicef Tahoua	9567
 Chef du Bureau des Domaines	17817
+Chef du Bureau des Etudes	18324
 Chefs de Bureau	17827,34
 Chemical Technology The Bureau	14736
+Chief Executive Officer National Bureau of Statistics	18185
 China and Burundi	13309,357
 Chris Burt	2864,825,487,1897,1056
 Chris Burt Categories Biometrics News	2521,199,5,94,4,91,266,1905,1781
@@ -1617,6 +1649,7 @@ DIRECTION GENERALE DES IMPOTS BURKINA FASO	10858
 DISPLACED POPULATION IN BURKINA FASO	10864
 DOSTS Bureau National	15599
 DPI. For Burundi	6899
+DPRE. BUREAU DE GESTION	18302
 DRC and Burundi. Figure	12256
 DRC and Burundi. Generation	12256
 DRC. Mr. Bureau FONA PVH	16495
@@ -1624,6 +1657,7 @@ DST’s Burden	14932
 DU BUR	13524
 DU BUREAU	17819,10,32,38
 DU BUREAU ANNONCES ET COMMUNICATIONS Présidente	17817
+DU BUREAU DE VOTE Article	18101
 DU BUREAU ET DU COLLEGE	17861
 DU BURUND	13524
 DU BURUNDI	13290,10
@@ -1640,6 +1674,7 @@ De Energy Burundi	13433
 Deaf and Hard of Hearing Gambia Bureau of Statistics	16973
 Deaths and Burials Ordinance	10822,4806
 Decentralization. The Bureau of Vital Statistics	16971
+Defence Research and Development Bureau	18129
 Delivery Unit du Bureau	2442
 Department Anti-Corruption Bureau	12241
 Department KNBS Kenya National Bureau of Statistics	7548
@@ -1680,7 +1715,7 @@ Director General of The Gambia Standards Bureau	17368
 Director of ITU's Telecommunication Development Bureau	11920
 Director of ITU’s Telecommunication Development Bureau	7139
 Director of U.S Census Bureau	12383
-Directrice du Bureau	8895,160,8875
+Directrice du Bureau	8895,160,8875,430
 Disaster Recovery FBI Federal Bureau	10765,10
 Distribution of Electricity In Burundi	13624
 Djibouti Cameroon Comoros Mauritania Guinea Burundi	10837,1503
@@ -1695,6 +1730,7 @@ Du BURUN	13524
 Du Bureau	15414
 Duke University. Burgess	13624
 Délégation INS Burundi Durée	13689
+Démographie BV Bureau	18310
 Développement Bureau National de Gestion des Risques	14622
 Développement Humain Burundi	13325
 Développement du Burundi	13524
@@ -1717,6 +1753,7 @@ EQUIPEMENTS COLLECTIFS VII.1.1 Public Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.2 Privé Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.4 Urbain Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.5 Rural Bureau	10847
+EQUIPEMENTS INFORMATIQUES ET BUREAUTIQUES	18143,27
 ESS1 Burrow	17114
 ET DE SANTÉ DU BURUNDI	13300
 East African Community Statistics Bureau	3738
@@ -1940,8 +1977,8 @@ ISO Technical Committees. The Bureau	14736
 ISOC Burundi	13290
 ISSP Burkina Faso	15960
 ITU Radiocommunication Bureau	6946
-ITU Telecommunication Development Bureau	26,1,1,4492,2529,86,93,1390,2146,80,719,6180
-ITU’s Telecommunication Development Bureau	11563
+ITU Telecommunication Development Bureau	26,1,1,4492,2529,86,93,1390,2146,80,719,6180,380
+ITU’s Telecommunication Development Bureau	11563,6786
 IV- BUREAUX DES DOMAINES ET	17982
 IV.1.2. REPSS Le Burundi	13452
 IV.4.5.8. L’ulcère de Buruli	15685
@@ -1955,6 +1992,7 @@ Identité Burkinabé	10812
 Ie Bureou	15429
 Impersonation Fraudulent Withdrawal Burglary Remittance Sim	17362
 Impôts du Burkina	4550
+Incentivizing Bureaucrats	18318
 Income Quintile Group BURUNDI C	13624
 Increased Administrative Burden	14932
 IndabaX Burkina	2732
@@ -2049,7 +2087,7 @@ L'Autorité Statistique Nationale du Burundi	13334
 L'EAC Autres Burundaise PAYS DE L'EAC	13390
 L'IPv6 Forum Burkina Faso	7010
 L'Office Burundais des Recettes	5077,8613
-L'UNION BURKINA FASO BOA BSIC BURKINA	11588
+L'UNION BURKINA FASO BOA BSIC BURKINA	11588,6682
 LA GRILLE TARIFAIRE DES BUREAUX D’INFORMATION	15903
 LA POSTE Au Burundi	13390
 LA REPUBLIQUE DU BURUNDI ENQUÊTE NATIONALE	13390
@@ -2068,7 +2106,14 @@ LISTE DES MEMBRES DU BUREAU Trésorier	18003
 La Croix-Rouge du Burundi	13442
 La Poste Burkina Faso	7670,1839,6433,216
 Land Administration Bureau	12276
-Le Bureau	6578,5354,2480,76,1,1,47,85,902,60,19,121,179,1685,239,34
+Land Bureau	18293
+Land Bureau Agent	18293
+Land Bureau Officer	18293
+Land Bureau Officers	18293
+Land Bureaus	18293,61
+Land Bureaus Officers	18293
+Land Bureaus. Survey	18293
+Le Bureau	6578,5354,2480,76,1,1,47,85,902,60,19,121,179,1685,239,34,308,260
 Le Bureau Central des Recensements	15530
 Le Bureau National	15599
 Le Bureau Permanent	14537
@@ -2078,6 +2123,7 @@ Le Bureau de Suivi Stratégique	16627
 Le Bureau des Normes de Madagascar	14451
 Le Bureau du Commissaire Electoral	14813
 Le Bureau du Conseil	15727
+Le Bureau du Coordonnateur Résident des Nations Unies	18160
 Le Burkina	4211,248
 Le Burkina Faso	643,94,2318,410,528,40,746,301,1930,1312,179,232,808,452,98,783,5,220,523,204,23,1719,2103,44,5,67,174,156,41,133,130,27,43,71,11
 Le Burundi	2624,1444,1009,1035,3061,441,196,3480,10,6,18,1,16,49,43,9,34,6,1,42,6,34,88,24,16,9,2719
@@ -2148,7 +2194,7 @@ MINISTERE DE LA COMMUNICATION BURKINA FASO	15454
 MINISTERE DE LA SANTE BURINA FASO	15720
 MINISTERE DU DEVELOPPEMENT BURKINA FASO	15406
 MONDIALE RÉPUBLIQUE DU BURUNDI MINISTERE DES	13555
-MTN BURKINA	11588
+MTN BURKINA	11588,6682
 MUKAZA BUJUMBURA BURUNDI Monsieur KINDOLECHA KYLOUS	13453
 MUKAZA NTAHANGWA RWIBAGA BURUNGA BURURI MAKAMBA	13390
 MUYINGA BUHUMUZA BURUNDI	13453
@@ -2171,7 +2217,7 @@ Malawi. The National Registration Bureau	13005
 Malawi’s Anti-Corruption Bureau	13080
 Mali Burkina	17870
 Mali Digital Economy Diagnostic Burkina Faso	17870
-Mali and Burkina Faso	17870
+Mali and Burkina Faso	17870,339
 Mali and Burkina Faso. Digital	17870
 Mali and Burkina Faso. Supports	625
 Mali. Burkina Faso	6091
@@ -2248,13 +2294,13 @@ National Association of Foreign Exchange Bureau of Liberia	12092
 National Bureau	14889
 National Bureau of Concession	16970
 National Bureau of Concessions	16848,5,4
-National Bureau of Economic Research	10964,176,1808,676
+National Bureau of Economic Research	10964,176,1808,676,4694
 National Bureau of Economic Research Cambridge	7655
 National Bureau of Economic Research. Alampay	10726
 National Bureau of Economic Research. Nov	10963
 National Bureau of Economic Research. Page	10964
 National Bureau of Standards	13320,1543,4
-National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244,500,170,26,2072
+National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244,500,170,26,2072,1017,2,9,59
 National Bureau of Statistics Augustino T. Mayai	7749
 National Bureau of Statistics and President's Office Finance	11133
 National Bureau of Statistics. Streamlined	12210
@@ -2346,7 +2392,7 @@ Organizations Republic of Burundi Borrower	13331
 Oromia Finance Bureau	12267
 Oromia Health Bureau	12246
 Ouagadougou Burkina Faso	15637
-Ouagadougou. Le Burkina Faso	2575,1017,220,13,2639,237
+Ouagadougou. Le Burkina Faso	2575,1017,220,13,2639,237,11567
 Ouest BCDF Bureau Communal du Domaine	10876
 Ouest INTRODUCTION Le Burkina Faso	15639
 Ouest. Le Burkina Faso	9847
@@ -2395,6 +2441,7 @@ PRB Pay Research Bureau QDMTT Qualified	14828,3
 PREFACE Le Burundi	13341
 PROTECTION MULTI-DONOR TRUST FUND TO BURKINA	16384
 PRÉFACE ET REMERCIEMENTS Le Burundi	13300
+PTF. BUREAU DE SUIVI STRATEGIQUE	18302
 PUBLICS DU BURUNDI	13341
 PUBLISHED BY THE GAMBIA STANDARDS BUREAU	16900
 Pacte Gouvernement du Burundi	13433
@@ -2431,6 +2478,7 @@ Portails des Régions du Burkina Faso	6685
 Portails des Régions du Burkina Faso. Il	6685
 Postal and Electronic Communications of Burkina Faso	4234,683,46
 Poste Burkina Faso	5491
+Postes de Travail de Bureau Lot	18194
 Postes du Burkina Faso	5790
 Posts and Electronic Communications of Burkina Faso	16261
 Pour le Burkina Faso	1967,1979,5901
@@ -2451,7 +2499,9 @@ Prime Minister Andy Burnham	10433
 Principal Secretary National Registration Bureau ABIS	13005
 Principles Governance Structure Mauritius Standard Bureau	14736
 Privé Bureau	10847
+Programmation. BUREAU DECENTRALISATION	18302
 Programme Burkina Faso	16256
+Programme. BUREAU PROGRAMMATION	18302
 Project Name Burkina Faso Burkina Faso	15621
 Project Name Burkina Faso P177022 Burkina	15550
 Projet Initiative Open Data du Burkina	15406
@@ -2541,10 +2591,11 @@ Republic of Burundi Mr. Emmanuel M. Tutuba	7815
 Republic of Burundi and Rapporteur	13440
 Republic of Burundi. NATIONAL RETAIL PAYMENT SYSTEMS	13388
 Republic of Burundi. The Bill	3738
+Republic of Niger. Senior Bureau Official Checker	18209
 Republics of Burundi	14912
 Republika Burundï	13303
 Republique du Burundi	13314
-Robin Burgess	10964
+Robin Burgess	10964,7354
 Rois du Burundi	13405
 Royaume. Section III Bureaux	17
 Rulindo Gatsibo Nyaruguru Gakenke Nyamasheke Burera	15056
@@ -2563,7 +2614,7 @@ République Burundi	13452
 République de Guinée Bureau de Stratégie	16722
 République du BURUNDI	13555,12
 République du Burun-	13405
-République du Burundi	1284,1341,1738,1608,60,3142,2775,1342,1,1,1,9,1,20,2,4,1,1,3,7,34,15,15,1,27,9,3,7,15,1,49,5,2,1,5,25,12,18,1,1,1,42,8,2
+République du Burundi	1284,1341,1738,1608,60,3142,2775,1342,1,1,1,9,1,20,2,4,1,1,3,7,34,15,15,1,27,9,3,7,15,1,49,5,2,1,5,25,12,18,1,1,1,42,8,2,4670
 République du Burundi BTS Base Transmitter Station	13312,2
 République du Burundi BUHRD	13377
 République du Burundi C2G Citizen	13341
@@ -2630,12 +2681,17 @@ Santé du Burundi	13300,41
 Sasai Fintech Burundi S.A	13452
 Scale Up No Burundi Digital Foundations	1284
 Secrétariat Exécutif des TIC Burundi	5958
+Secrétariat Général. Bureau	18169
 Secteur Financier du Burundi. V.1. Projet	13452
+Section Informatique du Bureau Organisation	18317
 Sectors Bureau	13669
 Selod and Burns	15473
 Semaine du Numérique Burkina Faso	9993
 Senate of Burundi	13313
 Senegal Niger Madagascar Burkina Faso Gabon	10819
+Senior Bureau Official Checker	18209
+Senior Bureau Official Checker and Minister Sangaré	18209
+Senior Bureau Official for African Affairs Nick	18209
 September. The National Registration Bureau	6598
 Service Bureau	15215
 Service du Transport du Burundi TBM	13377
@@ -2690,6 +2746,7 @@ Standards Council of MSB Mauritius Standard Bureau	14736
 Standards Council of Mauritius Standards Bureau	14736
 Standards Council. The Mauritius Standards Bureau	14736
 State Bureau of Statistics	11860
+State Bureaus of Statistics	18185
 State of Burundi’s EMIS	13629
 Statistic Bureaus	16874
 Statistical Bureau of Statistics	16863
@@ -2703,6 +2760,7 @@ Stratégie Burundi Large	13314
 Stratégie Burundi Large Bande	13301,12
 Stratégie Numérique du Burkina Faso	16641
 Street-Level Bureaucracy	2096
+Strengthening the National Bureau of Statistics	18174
 Sub-Saharan Africa. Burkina	15550
 Sub-Saharan Africa.2 Burundi	13331
 Sudan's Central Bureau of Statistics	15244
@@ -2744,7 +2802,7 @@ Tech Burkina Faso	9993
 Tech Tech Burkina Faso Telecel Faso	9993
 Technical Committee and Bureau	4103
 Technology Analyst ICT Burkina Office Pierre	10812
-Telecommunication Development Bureau	961,7984,1819,80,719,3908,2272
+Telecommunication Development Bureau	961,7984,1819,80,719,3908,2272,380,226
 Telecommunication Standardization Bureau	12830
 Telecommunication Standardization Sector KEBS Kenya Bureau	6946
 Telecommunications Standards Bureau	16934
@@ -2770,6 +2828,7 @@ U.S. Consumer Financial Protection Bureau	5820
 U.S. Department of State's Bureau of International Narcotics	13754
 U.S. Department of State’s Bureau of International Narcotics	17330
 U.S. Federal Bureau of Investigation	2273,11481
+U.S. State Department Senior Bureau Official	18209
 UE- Burundi	13325
 UEMOA. Au Burkina Faso	737,14939
 UN Commission Warns of New Burundi Political	13313
