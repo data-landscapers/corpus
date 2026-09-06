@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: dpi.pay
 places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 38a60b996a3e
+record: f7360b73b51b
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
@@ -113,7 +113,7 @@ Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://
 
 ## Lesotho
 
-The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the base can record that the platform is being rolled out and not how far it has reached.
+The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the base can record that the platform is being introduced and not how far it has reached.
 
 ## Liberia
 
@@ -157,6 +157,8 @@ The payments association's annual general meeting on 28 July also heard that lic
 
 The central bank governor put a date on the phone-based channel. He [said on 27 August that a digital money and instant payment solution should be fully functional by about June 2027, sequenced government-to-person, then person-to-person and person-to-merchant](https://www.namibian.com.na/central-bank-to-introduce-digital-money-next-year/), pitching it as a way to build transaction histories that substitute for the financial statements banks demand of informal businesses. How cash integrates was not stated.
 
+The system acquired a public name. The instant payment solution is [carried publicly as WayaMe, operated by Instant Payments Namibia under the central bank, with customers transacting through their existing bank applications, wallets or USSD services while the payment is routed through the national instant-payment infrastructure](https://www.namibian.com.na/explainer-what-is-wayame/), designed to carry bank-to-bank, bank-to-wallet, wallet-to-bank and wallet-to-wallet payments between participating institutions. No participant list, transaction volume, value or fee schedule is published, so interoperability is a stated design property rather than a measured one.
+
 ## Niger
 
 On 29 July the higher education minister said the grants agency reform consists of [acquiring database software and routing scholarship and social-aid payments through the banking system via the Treasury's application](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/); no budget, vendor, timetable or beneficiary count was published.
@@ -183,6 +185,8 @@ The virtual-asset track kept admitting. Three further firms were [named as admit
 The rail underneath all of it began to change. The clearing operator [reports 26.55 million transactions worth 1.4 trillion naira across 48 institutions in the early phase of the ISO 20022-compliant stack that replaces the instant-payments system](https://theeagleonline.com.ng/nibss-rolls-out-nps-as-nip-successor/), on a multi-currency platform carrying payments, identity and data together. The figures are the operator's own.
 
 The withdrawn credit product came back on 24 August. The dominant operator [resumed airtime lending on four vendors after the April suspension that followed new consumer-watchdog licensing and consumer-protection requirements, with its lending base cut to about a quarter of its first-quarter run rate and a stated cost of about 50 billion naira (US$37.1m) to first-half revenue](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/). The group [expects the whitelisted customer base to rebuild through the third and fourth quarters](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/) — its own forecast, and no regulator statement on the resumption is held. The jurisdictional question the suspension turned on is unresolved and before the Court of Appeal.
+
+One private figure crossed a round number. A digital bank [passed 30 million registered users in Nigeria](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-banque-numerique-fairmoney-depasse-les-30-millions-dusagers-au-nigeria) on its own count, which is a registration total rather than an active or transacting one and has no earlier figure on the ledger to read it against.
 
 ## Rwanda
 

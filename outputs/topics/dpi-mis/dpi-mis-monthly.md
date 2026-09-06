@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0476ab826cdc
+places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6ab2508f84ab
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -61,6 +61,8 @@ Enforcement caught up with the standardised electronic invoice. The finance mini
 
 The social insurance authority reported on 3 August that it had served 8,621,000 people in about four months and cleared 92% of its arrears backlog — while the 95 online services it undertook in February within six months remained forthcoming as that window fell due ([authority account](https://gate.ahram.org.eg/News/5882131.aspx)).
 
+The health stock chain went onto one record. The procurement authority told the prime minister on 2 September that it is [building a national medical-stock database and has moved stocktaking onto a mobile scanning application, putting the system at 38,000 health-sector users, 11,000 medical facilities and 2,000 suppliers across the procurement, storage, dispensing and reconciliation cycle, with warehouses standardised by actual operating state and stock balances updating in real time](https://www.youm7.com/story/2026/9/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D9%88%D8%A7%D9%81%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A8%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9/7533639). The figures and the claim that the design meets audit and finance requirements are the authority's own; about EGP 90bn is allocated this financial year for medicines and medical supplies, and no completion date or independent audit of the system is published.
+
 ## Equatorial Guinea
 
 Two sectoral systems moved, both at the design stage. A ministerial workshop [agreed to build a single import-valuation database and to bring an automated customs valuation module into service](https://lagdeguinea.com/gobierno-refuerza-el-control-aduanero-y-agiliza-reformas-economicas/), and the universal health insurance technical committee [presented the national health accounts for 2021 to 2023](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_multisectorial_del_seguro_medico_universal_presenta_las_cuentas_nacionales_de_salud_2021-2023). Neither carries a supplier, a cost or a date. What the customs agreement replaces, and how valuation is done now, is not stated in the record held.
@@ -76,6 +78,10 @@ A technology group and a bank [signed an agreement to digitise the agricultural 
 On 30 July the education ministry received 1,000 tablets for what the minister described as 148 connected schools ([handover](https://agpgabon.ga/gabon-remise-de-1-000-tablettes-au-ministere-de-leducation-nationale/)).
 
 The state's civil-service human-resources record has been failing for months. The Fichier unique de reference [is near-inoperative, blocking tenure confirmations, reclassifications, recruitments and promotions and stopping their pay effects reaching agents, the breakdown sitting in the data-replication link between the civil service and pay services; on 25 August the vice-president of the government ordered an emergency plan restoring career management, agent mobility and data replication](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference). The civil service ministry says it is migrating to an integrated state human-resources management system.
+
+## Gambia
+
+The month's one management system came from outside government. The Gambia Red Cross Society [launched a Volunteer and Membership Management System at its Kanifing headquarters on 31 August 2026, replacing branch paper registers with one record covering registration, profiling, branch assignment, validation, deployment and direct communication](https://standard.gm/grcs-launches-digital-system-to-professionalise-volunteer-membership-management/), its secretary-general putting the cost of the paper system as delay in emergencies. No volunteer count, cost, funder or vendor is published.
 
 ## Ghana
 

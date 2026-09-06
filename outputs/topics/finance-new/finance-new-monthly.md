@@ -1,15 +1,17 @@
 ---
 title: New investments — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: finance.new
 places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
-record: 4fe5f54abfb2
+record: 2748f07df04d
 ---
 
 # New investments: monthly update, August 2026
 
 *22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 

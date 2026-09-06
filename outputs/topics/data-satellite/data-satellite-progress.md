@@ -1,13 +1,13 @@
 ---
-title: Use of satellite data — progress report, 2025-09-01 to 2026-09-05
-compiled: 2026-09-05
-period: 2025-09-01 to 2026-09-05
+title: Use of satellite data — progress report, 2025-09-01 to 2026-09-06
+compiled: 2026-09-06
+period: 2025-09-01 to 2026-09-06
 subject: data.satellite
 places: DZA; BWA; BDI; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: 1cc2aabea222
+record: 8b25d0bacf7c
 ---
 
-# Use of satellite data: progress report, 2025-09-01 to 2026-09-05
+# Use of satellite data: progress report, 2025-09-01 to 2026-09-06
 
 *40 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

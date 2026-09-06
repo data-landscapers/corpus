@@ -1,13 +1,13 @@
 ---
-title: Digital divides — progress report, 2025-09-01 to 2026-09-05
-compiled: 2026-09-05
-period: 2025-09-01 to 2026-09-05
+title: Digital divides — progress report, 2025-09-01 to 2026-09-06
+compiled: 2026-09-06
+period: 2025-09-01 to 2026-09-06
 subject: include.divides
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: d60a692db407
+record: 0a127d0357ce
 ---
 
-# Digital divides: progress report, 2025-09-01 to 2026-09-05
+# Digital divides: progress report, 2025-09-01 to 2026-09-06
 
 *46 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

@@ -1,15 +1,15 @@
 ---
 title: Data protection — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: gov.protect
-places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
-record: 1e3a3663ddb2
+places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
+record: 479a286fcc64
 ---
 
 # Data protection: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -62,6 +62,10 @@ In August the same rule-making reached a second sector and produced a ranking. A
 The Development Bank [adopted an information disclosure policy classifying client credit information permanently non-disclosable](https://www.thereporterethiopia.com/52220/), alongside legal case files, strategy papers, security protocols and third-party contracts, where disclosure could cause substantial harm to the Bank, its stakeholders or the national interest. The Bank may also decline a request that would require it to create a record it does not already hold. No instrument number, gazette reference or appeal mechanism is stated.
 
 Two further positions sit beside it. A public critique [set out the absence of independent data-protection safeguards over the national digital identity](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), which this ledger records as not held. And the foreign ministry [circulated a diplomatic note asking missions for staff and property records](https://birrmetrics.com/foreign-ministry-asks-diplomatic-missions-for-staff-and-property-records/), with no legal basis, retention period or purpose limitation stated for the collection.
+
+## Gabon
+
+The data protection authority described itself, which is the most the record holds about it. Its president [set out the mandate and its limits: the authority holds a regulatory power to set rules published in the official journal, personal data remains the property of the citizen while collectors hold and process it, and insult and digital communication fall outside its competence and to the media regulator — which is what it is most often asked about](https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse). He put dealing directly with the large social platforms as requiring a common African response rather than a national one. No budget, staffing, caseload or enforcement action for the authority is published, so its independence is asserted rather than evidenced.
 
 ## Gambia
 

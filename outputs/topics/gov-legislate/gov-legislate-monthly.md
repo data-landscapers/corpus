@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: gov.legislate
 places: DZA; AGO; BDI; CMR; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 18f3cdd3bd48
+record: 40f58c1cff05
 ---
 
 # Legislation and regulation: monthly update, August 2026
@@ -141,7 +141,7 @@ One piece of it is now a signed instrument. The regulator [signed satellite comm
 
 ## Madagascar
 
-Two legislative processes are running and neither has produced a law. The government [signed the United Nations Convention against Cybercrime and reported a revision of the 2014 cyber law alongside it](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the convention signed and not ratified. The National Assembly's [extraordinary session opened on 25 August with seven texts on its agenda, digital bills among them](https://midi-madagasikara.mg/assemblee-nationale-sept-textes-au-menu-dune-session-extraordinaire-a-partir-du-25-aout/); the texts are not published, so which digital instruments are before it cannot be read off the record.
+The extraordinary session ended without passing a digital law. The National Assembly [deferred five bills to a later session on 4 September, the recast cybercrime law and the electronic communications and digital infrastructure bill first among them](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), the deputies saying they needed longer on texts turning on both security imperatives and fundamental freedoms and the Assembly's president saying he did not care to imagine what would have followed had they not deferred. The cybercrime bill would create a digital protection and investigation unit and, under article 75, give it permanent round-the-clock technical access to operators' systems; [commentary reads the contested articles as written to suit the state's own control interests](https://newsmada.com/2026/09/05/cybersurveillance/). A third bill, [authorising ratification of the United Nations Convention against Cybercrime, went to parliament on 28 August with the cybercrime recast](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id) and was deferred with it. No resumed date is set and no bill text is published.
 
 ## Malawi
 
@@ -162,6 +162,8 @@ The same bill redraws the virtual-asset perimeter around marketing rather than a
 And on [30 July the ICT minister committed to Electronic Transactions Act amendments](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993), with no text or date stated.
 
 The primary text of the [Data Protection Officer Regulations 2026](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf) is now held, as Government Notice No. 117 of 2026 made under the Data Protection Act.
+
+A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
 
 ## Morocco
 

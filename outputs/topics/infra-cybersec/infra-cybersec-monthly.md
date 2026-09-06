@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c6c09030c7cf
+record: 7ef63e3951ac
 ---
 
 # Cybersecurity: monthly update, August 2026
@@ -92,6 +92,8 @@ It started teaching. A session at Accra on 19 August [put newsroom devices to jo
 
 The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and restored on 20 July](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V) — the second compromise of that portal in eight months. State House says no evidence of data access was found; cause and attribution are undisclosed.
 
+The regulator's own quarterly report reached the base, the primary behind a figure the record had held at second hand. The national response centre [detected 2,355,938,192 threat events in April-June 2026, down 30.03% on the previous quarter, while web application attacks rose 43.68% to 17,406,495 and 20,748,489 advisories were issued](https://www.ca.go.ke/sites/default/files/2026-07/Cyber%20Security%20Report%20Q4%202025-2026_1.pdf); government systems and internet service providers were named the primary targets, with attackers seeking authentication credentials, vulnerable browsers and database servers. Events detected are not incidents suffered, and no national incident series is published.
+
 A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
 
 The instrument establishing the new agency also reached the base this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet. Leadership was named in the same month: an inaugural non-executive chair was announced and the President [appointed a director to lead it](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). No budget line, staff complement or first published function is on file, and the National Cybersecurity Policy beside it is still only planned.
@@ -113,6 +115,8 @@ The interior ministry answered with an agreement rather than an instrument. It [
 ## Malawi
 
 The month's cybersecurity item is a loss rather than a control. The state oil company [was defrauded of K700m after attackers hijacked email from its Mozambican fuel-handling contractor and supplied false banking details, instructing its bank on 29 April 2026 to wire US$403,605 to a fraudulent account](https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/); the fraud surfaced two weeks later when the genuine contractor demanded payment, and was confirmed publicly on 24 August 2026. The company attributes the control weaknesses to the government-to-government fuel procurement model being introduced before operational and cybersecurity procedures were in place. No regulator finding, prosecution or recovery is on file.
+
+The regulator put its own name to the methods a week later. It issued a public alert on rising digital fraud against mobile money and digital financial services, naming [fake social cash transfer messages demanding a payment before assistance, failed-payment pretexts redirecting money to a second number, spoofed transaction alerts, fake competition prizes and takeovers of messaging accounts used to solicit money from contacts](https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/), and stating that bodies running social cash transfer programmes do not use ordinary messaging to request money from beneficiaries. The alert carries no incident count, loss figure or enforcement action, so the regulator is on record about the methods and not about their scale.
 
 ## Mauritius
 
@@ -139,6 +143,8 @@ The national response team put a number on what it is seeing. It [reported ranso
 ## Namibia
 
 The trust layer beneath the September electronic identity launch was signed in the last week of the month. The communications regulator and a German identity vendor [signed an implementation agreement with the home affairs ministry connecting it to the regulator's national trust framework](https://www.itweb.africa/article/namibia-advances-national-digital-trust-framework/lwrKx73Y1pAqmg1o), with the regulator as national root certification authority and the ministry becoming the first certification service provider through the issue of electronic identity documents. It is the first named certification service provider on this ledger, and it arrives a fortnight before the credential it is meant to certify.
+
+A private initiative opened alongside it. A Namibian technology company [launched the Global Cybersecurity Initiative in Windhoek, a pan-African platform presented as connecting businesses, governments and innovators for commercial partnership rather than as an exhibition, opening across Namibia, Kenya, Botswana, Ghana, Nigeria, Zambia and South Africa with a stated target of 52 African countries by 2029](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/). No government party, funding, governance arrangement or membership figure is published, and the [US$4bn a year its chairman gave as Africa's cybercrime losses](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/) comes without a source.
 
 ## Nigeria
 
@@ -196,6 +202,8 @@ The team is at least visibly operating: it [issued a high-severity alert on an a
 The national cybersecurity agency [warned on 30 July 2026 of an SMS phishing campaign](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151319-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86) built on fake unpaid-traffic-fine notices sent from foreign numbers, carrying links to counterfeit platforms that harvest banking and personal data. Its advice was to distrust unsolicited messages, and its offered test was that Tunisian government sites use only the national domain. The lure borrows the credibility of the state's own digitised payment channels; the response on record carries no takedown power and names no data-protection authority. A [second alert on 14 August](https://www.lapresse.tn/2026/08/14/tentatives-de-piratage-des-comptes-facebook-lansc-appelle-a-la-vigilance/) warned of a surge in social-media account takeovers worked through SMS and email verification-code social engineering.
 
 The scale behind the alerts was published on 7 August: [57,430 cyberattacks recorded in the first half of 2025, and ransomware cases up 140% to 37,076 in 2024](https://www.leconomistemaghrebin.com/2026/08/07/cyberattaques-tunisie-explosion-ransomwares/), on interior ministry and agency figures, as the government finalised a National Cybersecurity Strategy 2026-2030 aimed at critical-infrastructure resilience and skills. The two figures cover different periods and are not a series; no definition of a recorded attack and no incident-reporting obligation behind the count is stated.
+
+The administration was then given a baseline to meet. Circular n. 5 of 2 September requires [encrypted connections across official sites and platforms, mandatory renewal of security certificates, two-factor verification for administrator access, protection against traffic-saturation attacks and hosting on servers approved by the state](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/); it [bans the use of messaging apps and social media for exchanging official documents and requires regular audits, immediate reporting of incidents to the national cybersecurity agency and an end to the sharing of credentials between colleagues](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/). It binds the administration rather than the wider economy, and no compliance deadline, audit schedule, budget or list of approved hosting providers accompanies it.
 
 ## Uganda
 

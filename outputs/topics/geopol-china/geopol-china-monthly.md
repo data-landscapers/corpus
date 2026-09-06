@@ -1,10 +1,10 @@
 ---
 title: China activities — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: geopol.china
 places: DZA; BWA; BFA; TCD; GMB; KEN; NER; NGA; SEN; SSD; SDN; ZMB; ZWE
-record: 06ef09d00693
+record: d609a16a8b5e
 ---
 
 # China activities: monthly update, August 2026
@@ -31,7 +31,7 @@ The financing that did arrive in the window came from one partner. Chad and Chin
 
 ## Gambia
 
-Chinese engagement remained visible as training rather than infrastructure. The embassy [announced twenty-five further Gambians travelling to China in September under ministry grants, with a vocational workshop and a laboratory planned](https://standard.gm/chinese-embassy-stages-welcome-for-returning-gambian-graduates/). The broadband and fifth-generation work the ambassador [named in 2023](https://gm.china-embassy.gov.cn/eng/sgxw/202310/t20231018_11163300.htm) still carries no contract, value or date.
+Chinese engagement remained visible as training rather than infrastructure. The embassy [announced twenty-five further Gambians travelling to China in September under ministry grants, with a vocational workshop and a laboratory planned](https://standard.gm/chinese-embassy-stages-welcome-for-returning-gambian-graduates/). The broadband and fifth-generation work the ambassador [named in 2023](https://gm.china-embassy.gov.cn/eng/sgxw/202310/t20231018_11163300.htm) still carries no contract, value or date. A second channel opened at official level: on a visit to Guizhou University the country's permanent representative in Geneva [announced four initiatives — the Guizhou Provincial Big Data Laboratory as a data-governance research centre for the UN science and technology commission, a national data laboratory in The Gambia replicating it, scholarships in big data and artificial-intelligence governance, and a joint summer school](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university). They are announcements, not agreements: no text, funding or timetable is held, and none is a Gambian government instrument.
 
 ## Kenya
 

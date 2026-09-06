@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 694d98b0e4b1
+record: fa6ca93e0798
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
@@ -52,6 +52,8 @@ The [national civil-status registry platform was reported deployed in pilot coun
 ## Chad
 
 Civil registration is where Chad's month has both its clearest instrument and its largest gap. [48.33 per cent of new births are registered within the three-month legal deadline, with about 2.95m under-fives undeclared and 829,000 pupils in school with no document attesting their legal existence](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/). Against that a [six-month campaign to December targets at least a million children from four months to seventeen years across twelve provinces](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/), by household enumeration and a schools drive, with community teams using smartphones feeding the biometric register; no enrolment achieved so far is reported, and one account puts the household component in twelve provinces while another says every province. It runs inside a [moratorium signed on 2 February suspending court fees for supplementary birth judgments for that age range until 2030](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/) — a four-year legal window around a six-month campaign — whose own text is not held. The civil-registration application has been [deployed since 2021 with no coverage, site count or throughput figure published](https://tchadinfos.com/2026/08/08/sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil/), and new monthly *paper* collection forms were introduced in August to improve transmission of birth, marriage and death data to the centre.
+
+A register of a different kind opened. The youth and sports ministry [launched MJS CONNECT in N'Djamena on 4 September to register sports federations, youth associations and movements and build a national directory of them, letting registered associations enrol, hold a digital space and file administrative formalities online, and recording who is active, in what field and where](https://lendjampost.com/digitalisation-le-ministere-de-la-jeunesse-veut-simplifier-les-demarches-administratives-dans-son-departement-a-travers-la-plateforme-mjs-connect/), with performance indicators intended to inform how the ministry allocates resources. No registration count, cost, vendor or data-protection provision is published.
 
 ## Comoros
 
@@ -184,6 +186,8 @@ The population register's public campaign is running ahead of the register itsel
 
 [Civil registration](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) went nationwide from 1 July on a platform run as a public-private partnership, a private contractor carrying availability and security duties over the register of births and deaths.
 
+A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
+
 ## Rwanda
 
 Business registration moved entirely online in January. The Office of the Registrar General's own page states the process is [wholly online, free of charge, and completed within six working hours](https://org.rdb.rw/business-registration/), where a July account had put it at [24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The registrar's page carries no date of its own, so which figure is current cannot be settled here.
@@ -237,6 +241,8 @@ The social-housing application platform [has a completion timetable, set at a fo
 The alien register issued its first cards. The identity authority [began issuing Alien ID cards to legally resident foreigners, having enrolled 1,875 since registration opened on 10 June, with the US$100 card required for SIM registration, banking and business access but conferring no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals). About 2m registered foreigners are in scope and roughly 1.95m of them are refugees or asylum-seekers, so ten weeks of enrolment has reached under a tenth of a percent of the population the fee falls on. No waiver, instalment route or alternative for a resident who cannot pay is published, which leaves the card a precondition for a bank account and a SIM with no stated way round it.
 
 The business register meanwhile [opened its financial-year stakeholder engagements](https://ursb.go.ug/2026/08/26/non-individual-registry-begins-fy2026-27-stakeholder-engagements/). No registration volume, turnaround time or service change is stated with them.
+
+A sectoral register was added beside them. The trade, industry and cooperatives ministry, with the National Sugar Stakeholders Council, [launched a Sugar Industry Information Management System to register every sugarcane farmer in the country and centralise data across cane cultivation, harvesting, milling, processing, distribution and market trends](https://www.newvision.co.ug/category/agriculture/trade-ministry-launches-digital-system-to-reg-NV_239987_092026). No farmer count, registration deadline, cost or data-protection provision is published, and nothing states how it relates to the national identification register.
 
 ## Zambia
 

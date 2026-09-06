@@ -1,15 +1,15 @@
 ---
 title: Connectivity — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 71a778e8e019
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 78740fcfe65b
 ---
 
 # Connectivity: monthly update, August 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -89,6 +89,8 @@ Coverage arrived from orbit before it arrived by fibre. An operator [commerciall
 
 Starlink users in Kinshasa [face four to six months of possible slowdowns while the network is congested](https://www.talkafrica.co.ke/starlink-users-in-kinshasa-face-4-6-months-of-possible-slowdowns-amid-network-congestion/). No subscriber count, capacity figure or remediation date accompanies the notice.
 
+A cross-border route was reaffirmed rather than started. The Tanzanian and Congolese foreign ministries [agreed to fast-track a fibre-optic cable from Kigoma to Kalemie in Tanganyika province through Lake Tanganyika, alongside a standard gauge railway link through Burundi and the establishment of a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). The statement came at a farewell meeting for the Congolese ambassador in Dar es Salaam; no route survey, cost, financing, landing point or delivery date is published, and no Congolese ministry statement is on file.
+
 ## Egypt
 
 An independent measurement published on 3 August 2026 gave the first full-year reading of Egypt's 5G launch. Six months after commercial service began in June 2025, the 5G median download speed had fallen to about 89 Mbps from 110.5 Mbps on launch day, and the combined 4G and 5G median stood at 34.77 Mbps against a pre-launch baseline of 37.68 Mbps ([measurement](https://www.ookla.com/articles/5g-north-africa-2026)). Egypt is the only one of the four North African launch markets with no published coverage or quality obligation attached to its award.
@@ -115,6 +117,10 @@ On 27 July the Libreville seminar on space communications closed with eleven rec
 
 The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)). It [closed on 8 August with certificates presented after six days of peering, security and sovereignty training](https://agpgabon.ga/numerique-latelier-gabix-reboot-propulse-linterconnexion-locale-au-gabon/); AFRINIC called for a network of trained ambassadors to carry the skills into firms and administrations, and operator representatives named broader institutional buy-in as the task that remains. No participant number and no post-relaunch member count has been published.
 
+## Gambia
+
+The country renumbered its mobile network. [The transition to nine-digit numbers began on 4 September 2026, existing numbers taking a two-digit operator prefix — 87 for Africell, 83 for QCell and 86 for Comium](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today); [Gamcel numbers are not affected in this phase and keep their seven digits](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today). The numbering plan instrument is not published, and nothing states when the deferred operator joins.
+
 ## Ghana
 
 The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) answered sixty written queries from four prospective applicants, formally amended the request for applications in seven places, and shifted every subsequent date by 21 days, with licence fees now due 17 November. [It refused any extension to the 70% population coverage obligation of 6 March 2027 while confirming that obligation is band- and technology-neutral and can be met in substantial part from existing deployment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf). It also rewrote the dominant operator's rural schedule from licence-relative years into fixed dates of December 2029, 2032 and 2035, expressly so that buying spectrum would not accelerate an equivalent existing commitment. [And it recharacterised the 40% premium on that operator's reserve prices in writing as a price for attributable value rather than a sanction or a market-power remedy, declining to publish its valuation model during a live assignment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
@@ -132,6 +138,8 @@ The restriction [disrupted business operations and online services](https://wadr
 The Communications Authority introduced a [Communications Equipment Distributor licence](https://itweb.africa/article/kenya-introduces-telecom-equipment-licence/6GxRKMYQZbWMb3Wj) by public notice on 21 July 2026, mandatory before equipment type approval and customs clearance, with penalties of KSh 1m or three years.
 
 Satellite capacity ran out in the country's densest markets. The operator [suspended new sign-ups across seven counties](https://techweez.com/2026/07/08/starlink-kenya-waitlist-capacity-counties/) in early July, diverting orders to a deposit-backed waitlist. On 4 August the second mobile operator said its direct-to-cell pilot had completed and it awaits regulatory approval; the interference audit opened in March has produced no published finding.
+
+The government fibre programme was measured against its own deadline for the first time. The ICT Cabinet Secretary put [37,000km installed against the 100,000km target serving 53,000 government facilities, leaving 63,000km outstanding months before the 2027 deadline](https://nation.africa/kenya/business/ruto-s-100-000km-fibre-optic-network-plan-falters-5580286); the programme was announced in November 2022 and split in 2023 into 52,000km for government and 48,000km for private companies, with Sh940.6m paid to the power utility by June 2025. The same account puts [broadband subscriptions at 52.85 million by March 2026 against 22.08 million in June 2020, fixed internet at 2.66 million, 4G population coverage at 73.4% and 5G at 3.04%](https://nation.africa/kenya/business/ruto-s-100-000km-fibre-optic-network-plan-falters-5580286). The 37,000km is the minister's own figure and no route or county breakdown stands behind it.
 
 Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/) on 29 July 2026, integrating the Tanzanian backbone with the Mombasa submarine landings. The London Internet Exchange [added a regional cloud provider to its Nairobi hub](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb) in July, reaching 55 or more connected networks on combined traffic of 330 Gbps.
 
@@ -227,6 +235,8 @@ Beneath all of that the licensed retail-ISP market is a rounding error and is co
 
 Katsina State [began the last-mile stage of its fibre network, the state investment promotion agency coordinating with commercial providers to move from core installation to connections for homes, businesses and public facilities across all 34 local government areas, with right-of-way fees waived and a roadmap target of 2,000-3,000 km of fibre and 70 per cent broadband penetration](https://dailyquery.com.ng/connecting-the-future-katsina-state-launches-mass-fibre-optic-network-for-homes-and-businesses/) for which no date is given. The satellite programme got its financing shape: the operator [disclosed that NIGCOMSAT-2A and 2B will be vendor-financed and backed by export-import banks, with the amount official only once financing closes](https://nigeriacommunicationsweek.com.ng/2026/08/28/fg-taps-french-israeli-firms-to-build-new-satellites-for-nigeria).
 
+Lagos put a figure on its own build. The state says it has [laid about 3,000km of a planned 6,000km unified fibre network between 2019 and 2025 and plans to secure 200-400MW of state-procured electricity](https://www.vanguardngr.com/2026/09/80bn-digital-economy-sanwo-olu-eyes-africas-innovation-capital/), alongside a claim of more than US$80bn in commitments to technology development. Both figures are the state's own, given at a trade exhibition, with no route, cost or independent verification published.
+
 ## Rwanda
 
 The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the second-generation network, conditional on coverage, voice reliability including emergency calls, continuity of mobile money, migration of dependent systems and affordable handsets. The technical precondition followed days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
@@ -269,6 +279,8 @@ On 29 July the Kenyan and Tanzanian ministers [launched a terrestrial fibre link
 A separate tower programme reported its own reach to Parliament on 15 August: a [TZS 126bn, 758-tower project — TZS 55bn from the World Bank and TZS 71bn from the universal service fund — has connected 8.5 million people across 1,400 villages](https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/), in the same report that records 14,826 data controllers and processors registered with the data protection commission by June 2026. The ministry gives no count of towers completed against the 758 planned, and no measure of service uptake in the villages it says are connected.
 
 The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinagency.com/news-digital/2608-58349-yas-targets-tanzania-s-fixed-internet-market-with-new-fiber-rollout), with plans to widen coverage across the city on a stated 300 billion shilling investment.
+
+The month's other route is a border crossing that has not begun. The foreign minister said the two countries would [fast-track a national fibre-optic cable from Kigoma to Kalemie in the Democratic Republic of Congo through Lake Tanganyika, alongside a standard gauge railway link through Burundi and a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). No route survey, cost, financing, landing point or delivery date is published.
 
 ## Togo
 

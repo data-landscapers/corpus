@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: 837c5d19e4d8
+record: c6e5a97c1442
 ---
 
 # Regional collaboration: monthly update, August 2026
@@ -88,7 +88,7 @@ Guinea took the presidency of the regional audiovisual regulators' platform on 3
 
 ## Kenya
 
-The continental data convention still has no Kenyan signature behind it. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031). That is a finding about the record rather than a change in it: nothing establishes a position either way, and the row is carried as a dated absence.
+The continental data convention still has no Kenyan signature behind it, but the base can now say why. A policy brief prepared for the accession process records that [Kenya has neither signed nor ratified the Malabo Convention, that the Cabinet approved a process step towards accession in September 2025, that the data protection commissioner then led national consultations closing 6 October 2025, and that the Attorney-General had cleared the Convention before the process stalled twice on cabinet reshuffles](https://fra1.digitaloceanspaces.com/mzdocs/prod/media/publications/documents/2026/Building_a_Resilient_Kenya_.pdf); twenty African Union member states had ratified as at March 2026. A [high-level parliamentary dialogue on accession was called for 7 September 2026](https://posts.kictanet.or.ke/invitation-high-level-malabo-convention-dialogue-monday-7th-september-2026-4/). What has moved is the process, not the treaty position, and no instrument of accession is on the record. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
 
 ## Liberia
 

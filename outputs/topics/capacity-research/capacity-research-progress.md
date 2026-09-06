@@ -1,13 +1,13 @@
 ---
-title: Research institutions — progress report, 2025-09-01 to 2026-09-05
-compiled: 2026-09-05
-period: 2025-09-01 to 2026-09-05
+title: Research institutions — progress report, 2025-09-01 to 2026-09-06
+compiled: 2026-09-06
+period: 2025-09-01 to 2026-09-06
 subject: capacity.research
 places: DZA; BWA; BDI; CAF; COM; CIV; DJI; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 0a4b59b42baf
+record: 17bc410cba7e
 ---
 
-# Research institutions: progress report, 2025-09-01 to 2026-09-05
+# Research institutions: progress report, 2025-09-01 to 2026-09-06
 
 *38 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

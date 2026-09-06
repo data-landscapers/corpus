@@ -1,13 +1,13 @@
 ---
-title: Access to services — progress report, 2025-09-01 to 2026-09-05
-compiled: 2026-09-05
-period: 2025-09-01 to 2026-09-05
+title: Access to services — progress report, 2025-09-01 to 2026-09-06
+compiled: 2026-09-06
+period: 2025-09-01 to 2026-09-06
 subject: include.access
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 109f78583e4a
+record: 1d73a8bcfdee
 ---
 
-# Access to services: progress report, 2025-09-01 to 2026-09-05
+# Access to services: progress report, 2025-09-01 to 2026-09-06
 
 *48 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 
