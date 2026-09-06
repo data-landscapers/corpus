@@ -3,13 +3,13 @@ title: Open data — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: data.open
-places: BEN; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MAR; NAM; NGA; TZA; TUN; ZWE
-record: 5ab6540c50cd
+places: BEN; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MAR; NAM; NGA; TZA; TUN; ZWE
+record: 162cb93628a8
 ---
 
 # Open data: monthly update, August 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -58,6 +58,10 @@ The month's one dataset is a trial. On 12 August the acting industry and mineral
 ## Madagascar
 
 Madagascar's open data is institution-specific and has no policy over it. The National Assembly runs a [read-only interface serving five parliamentary datasets as JSON and CSV under an open licence, rate-limited to 60 requests a minute, its counters reading 163 deputies, 45 texts and 128 sittings](https://parlement.mg/opendata/). Against that, a [general portal is a reachable landing page with six undated category tiles and four unlinked project cards, naming no issuing institution, dataset count or licence, and credited in its footer only to a private vendor](https://opendata.mg/); the finance ministry's own portal does not resolve. No whole-of-government open-data policy or mandate is held.
+
+## Mali
+
+Open data moved from absent to partial. The statistics institute [publishes an open data licence agreement](https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf) and held a national workshop in June 2026 on statistical data modelling and [migration to a second-generation open data portal platform](https://instat-mali.org/fr/actualites-et-evenements/atelier-national-sur-la-modelisation-sdmx-et-la-migration-vers-la-plateforme-open-data-portal-odp-20). Both are the institute's, covering its own data rather than government data generally, and the base still holds no dataset count, portal address or open-data policy instrument.
 
 ## Morocco
 

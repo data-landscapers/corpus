@@ -3,13 +3,13 @@ title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly up
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6ab2508f84ab
+places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a8232f9fdaeb
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -116,6 +116,10 @@ An assessment put Madagascar's [digital-health maturity at 55.6 per cent](https:
 ## Malawi
 
 Two internal systems are close to the point where they carry real work. The automated human resource and payroll management platform [is in pilot ahead of government-wide rollout](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85), and the Labour Market Information System [reached the final stage before launch after a technical workshop in mid-August](https://www.miragenews.com/malawi-nears-launch-of-labour-market-1732758/). Neither carries a go-live date, a coverage figure or a data-source list.
+
+## Mali
+
+Three health systems reached the record in the same window and none of them carries a coverage figure. The national health information system [publishes its own description — case detection, the launch of interventions to prevent transmission and reduce morbidity, and the surveillance behind them](https://snisi.sante.gov.ml/about), running under a health and social information strategic plan for 2020-2024 whose period has expired and a national digital health plan for 2024-2028. The health insurance fund and the bodies it delegates management to [signed contracts towards universal coverage in July 2026](http://www.canam.ml/index.php/actualite), after digitising prior authorisation in May. And the revenue directorate [opened three options for filing declarations and depositing financial statements](https://bamada.net/mali-la-direction-generale-des-impots-ouvre-trois-options-pour-la-declaration-fiscale-et-le-depot-des-etats-financiers) in April 2026. No enrolment, claims volume or filing share is published for any of the three.
 
 ## Mauritius
 

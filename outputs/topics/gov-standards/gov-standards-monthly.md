@@ -3,13 +3,13 @@ title: Standards — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MRT; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 3d61ded233b7
+places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: 04146f9693dc
 ---
 
 # Standards: monthly update, August 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -81,6 +81,10 @@ On 2 August the Municipal Guard's Investigation and Information Gathering Office
 ## Malawi
 
 On 3 August the copyright society's blank media levy distribution was reported to rest on records submitted by licensed disc-burning centres rather than on digital consumption, with a proposal to key distribution to digital consumption voted down at an annual general meeting.
+
+## Mali
+
+The standards agency's own budget is the month's clearest measure of it. Its fourteenth ordinary board session [balanced a 2026 budget of CFA 243,306,303 against CFA 318,369,036 in 2025, a fall of about a quarter](https://leronier.ml/2026/02/02/14eme-session-ordinaire-du-conseil-dadministration-de-lamanorm-le-projet-de-budget-2026-est-equilibre-en-recettes-et-en-depenses-a-la-somme-de-243-306-303-francs-cfa-contre-318-369-036-francs-c/), and it [holds a correspondent member profile with the international standards organisation](https://www.iso.org/fr/member/1915.html). The agency was created by ordinance in March 2012; no standard adopted, certification issued or staffing figure is published, so what is measurable about it is the money.
 
 ## Mauritania
 
