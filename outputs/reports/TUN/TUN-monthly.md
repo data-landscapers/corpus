@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-06
 place: TUN
 ledger_rows: 44
 not_held: 6
-record: cd079f700c09
+record: c7d33015205d
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -117,7 +117,7 @@ The industry ministry [opened a unified digital services platform on 28 August, 
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
-Two records of rural service digitisation landed on the same day, both from the bodies running the programmes rather than from the state. A [European and health-ministry programme's own results page](https://www.essaha-aziza.tn/resultat-5-digitalisation) sets out the digitalisation of the first-line care information system — diagnosis, governance, a national computerised medical record and deployment on pilot sites at Nabeul — which is basic health centres, the rural end of the estate. A [telecommunications foundation's programme page](https://engageforchange.orange.com/fr/country/tn/programs/4228bcdd-feca-4233-b322-166515acdf1b) puts 185 public primary schools on offline-capable digital kits since 2014. Neither carries a publication date of its own, and the foundation's page still reads 185 a year after fifteen more schools were announced on top of it.
+Two records of rural service digitisation carry the same date, both from the bodies running the programmes rather than from the state. A [European and health-ministry programme's own results page](https://www.essaha-aziza.tn/resultat-5-digitalisation) sets out the digitalisation of the first-line care information system — diagnosis, governance, a national computerised medical record and deployment on pilot sites at Nabeul — which is basic health centres, the rural end of the estate. A [telecommunications foundation's programme page](https://engageforchange.orange.com/fr/country/tn/programs/4228bcdd-feca-4233-b322-166515acdf1b) puts 185 public primary schools on offline-capable digital kits since 2014. Neither carries a publication date of its own, and the foundation's page still reads 185 a year after fifteen more schools were announced on top of it.
 <!-- /narrative -->
 
 ## Technology
