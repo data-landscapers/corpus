@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: GAB
-ledger_rows: 33
+ledger_rows: 34
 not_held: 19
-record: 4b5f7250b4a7
+record: b58bf9a8d38b
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -36,6 +36,11 @@ An earlier instrument reached the base this month and it is the furthest-going m
 The primary text of the social-media ordinance arrived, and it settles a conflation the base had carried. [Ordonnance n 0011/PR/2026](https://journal-officiel.ga/22404-0011-pr-2026-/), signed on 26 February 2026 and published in Journal Officiel n 110 of 8 April 2026, is the instrument the base had recorded twice â€” once as an ordinance whose text was not held and once as a bill reported second-hand to be awaiting promulgation. It runs to fifty-five articles in eleven chapters: digital majority is fixed at sixteen and account creation below it barred; editors must block publication, sharing and social-interaction functions for accounts identified as under-sixteen without recorded parental consent, disable by default any function letting unidentified persons contact a minor, filter algorithmic recommendation of violent, sexual or psychologically harmful AI content to minor accounts, and report quarterly to the competent authority; age-verification systems sit under a Haute Autorite de la Communication reference framework and a technical audit; and the refere numerique caps any temporary suspension of access to a platform at seventy-two hours. The twelve-month compliance clock runs from publication, to 8 April 2027.
 
 Gabon also [brought non-resident digital platforms within Value Added Tax and the Contribution Speciale de Solidarite](https://kongossanews.info/taxation-gafam-tva-numerique-gabon/) through its 2026 supplementary finance law, reaching foreign streaming and platform services. No registration threshold, collection mechanism or first receipt is on file.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The data protection authority described itself, which is the most the record holds about it. Its president [set out the mandate and its limits: the authority holds a regulatory power to set rules published in the official journal, personal data remains the property of the citizen while collectors hold and process it, and insult and digital communication fall outside its competence and to the media regulator — which is what it is most often asked about](https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse). He put dealing directly with the large social platforms as requiring a common African response rather than a national one. No budget, staffing, caseload or enforcement action for the authority is published, so its independence is asserted rather than evidenced.
 <!-- /narrative -->
 ### Regional collaboration
 

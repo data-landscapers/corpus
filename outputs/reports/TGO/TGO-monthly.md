@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: TGO
-ledger_rows: 29
+ledger_rows: 30
 not_held: 39
-record: d3232e3fa4aa
+record: 70f687487ac2
 ---
 
 # Togo: monthly update, August – September 2026
@@ -99,6 +99,8 @@ The modules for a [National Malaria Data Repository were approved](https://www.t
 
 <!-- narrative: dpi--dpi-govtech -->
 One procedure came off paper. The council of ministers [adopted a decree on 26 August amending the investment-approval committee so that the approval procedure is handled electronically](https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026). The wider programme it sits in was described the same week: the ministry [set out accelerating reforms across governance, land and digital, naming cyberdefence and biometrics](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/gouvernance-foncier-numerique-les-reformes-accelerent). Neither account carries a timetable or a cost.
+
+The transit-tracking system took on a new cargo type. The revenue office [opened a Lome pilot on 1 September extending electronic tracking to trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger, under a system operational since October 2022 and until now used mainly for other cargo, with petroleum-specific devices fitted after route, cargo type, vehicle specification and driver details are recorded and monitored from a command centre running around the clock that flags route deviations](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo). Industry stakeholders are to take part in evaluating the pilot before any wider rollout; no device count, cost, duration or evaluation criterion is published.
 <!-- /narrative -->
 
 ## Digitalisation

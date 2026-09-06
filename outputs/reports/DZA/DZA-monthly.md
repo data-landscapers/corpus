@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: DZA
-ledger_rows: 34
+ledger_rows: 35
 not_held: 7
-record: b307916de0ab
+record: e48e0220effd
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -67,6 +67,8 @@ The cybersecurity record this window is a warning about the state's own brand ra
 Interconnection acquired a deadline before it acquired its rules. A think tank's first digital brief records that the [president gave the sectors one month from 12 July to interconnect through the national data centre](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/), and nothing has been reported against that date. The two referentiels the interoperability decree makes the obligations wait on are still untraced, so the instrument that would carry the interconnection remains unenforceable while the timetable for it has already run.
 
 One exchange did begin. The customs single electronic window [entered a phased rollout under a customs circular of 13 August, towards import and export without paper documents](https://www.echoroukonline.com/%D9%86%D8%AD%D9%88-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D8%AF%D9%88%D9%86-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%88%D8%B1%D9%82%D9%8A%D8%A9). The circular's text is not held, and no phase list, participating agencies or completion date is published.
+
+A second unified path was proposed on 3 September. A working meeting at the digitalisation commission, chaired with the internal trade minister and attended by officials of the interior, transport, agriculture and fisheries ministries, was [devoted to a unified digital mechanism for regulating the national market and a national system for tracking strategic goods, unifying the data path between the sectors that supply and distribute widely consumed goods](https://www.echoroukonline.com/نحو-وضع-منظومة-وطنية-رقمية-لمتابعة-مسار-المواد-الاستراتيجية). The record is a joint communique of one meeting: no instrument, budget, operator, architecture or delivery date is stated, and nothing names the goods in scope.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: ZMB
-ledger_rows: 45
+ledger_rows: 46
 not_held: 46
-record: 18148e5b1fcd
+record: 98701d35ca5c
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -129,6 +129,8 @@ An emergency outbreak response platform [entered two days of user-acceptance tes
 
 <!-- narrative: dpi--dpi-govtech -->
 The movement is at the far end of the network rather than at the centre. The e-government agency's Northern Province unit is [onboarding government employees in Mpulungu, Mbala and Lupososhi districts onto an e-payslip self-service portal, replacing manual payslip distribution with round-the-clock access to employment records, and has connected the Lupososhi district administration to the Government Wide Area Network and given it a wireless access point so officials can use internet calling and digital communication platforms rather than unreliable mobile coverage](https://techafricanews.com/2026/08/27/zambia-expands-ict-infrastructure-rural-public-service-delivery/). The same unit is inspecting government office equipment and briefing officials on the Government Office Equipment Standards, which cover acquisition, registration, maintenance, use and disposal. No enrolment count, coverage figure or completion date accompanies any of it, so what is on record is a method reaching three districts.
+
+The office platform was ordered across the whole of government. The Secretary to the Cabinet [directed every government institution to adopt the Smart Office Platform and instructed the Smart Zambia Institute to report to his office by the end of October 2026 on the onboarding of ministries, provinces, spending agencies, state-owned enterprises and other public institutions](https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/), the direction given at the handover of the system to the airports corporation at Chongwe. It is a direction with a reporting deadline rather than a measured rollout: the base has carried the platform as a health-ministry pilot since 2025 and holds no count of institutions onboarded.
 <!-- /narrative -->
 
 ## Digitalisation

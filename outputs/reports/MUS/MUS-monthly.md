@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: MUS
-ledger_rows: 35
+ledger_rows: 36
 not_held: 7
-record: 6b9f36fc2877
+record: c16b46d97e4f
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -32,6 +32,8 @@ The same bill redraws the virtual-asset perimeter around marketing rather than a
 And on [30 July the ICT minister committed to Electronic Transactions Act amendments](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993), with no text or date stated.
 
 The primary text of the [Data Protection Officer Regulations 2026](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf) is now held, as Government Notice No. 117 of 2026 made under the Data Protection Act.
+
+A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
 <!-- /narrative -->
 ### Regional collaboration
 

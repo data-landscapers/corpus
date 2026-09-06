@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: UGA
-ledger_rows: 73
+ledger_rows: 74
 not_held: 17
-record: f82e4d326e20
+record: f977f17a19a9
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -127,6 +127,8 @@ A parliamentary committee found the expressway concession still running on cash.
 The alien register issued its first cards. The identity authority [began issuing Alien ID cards to legally resident foreigners, having enrolled 1,875 since registration opened on 10 June, with the US$100 card required for SIM registration, banking and business access but conferring no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals). About 2m registered foreigners are in scope and roughly 1.95m of them are refugees or asylum-seekers, so ten weeks of enrolment has reached under a tenth of a percent of the population the fee falls on. No waiver, instalment route or alternative for a resident who cannot pay is published, which leaves the card a precondition for a bank account and a SIM with no stated way round it.
 
 The business register meanwhile [opened its financial-year stakeholder engagements](https://ursb.go.ug/2026/08/26/non-individual-registry-begins-fy2026-27-stakeholder-engagements/). No registration volume, turnaround time or service change is stated with them.
+
+A sectoral register was added beside them. The trade, industry and cooperatives ministry, with the National Sugar Stakeholders Council, [launched a Sugar Industry Information Management System to register every sugarcane farmer in the country and centralise data across cane cultivation, harvesting, milling, processing, distribution and market trends](https://www.newvision.co.ug/category/agriculture/trade-ministry-launches-digital-system-to-reg-NV_239987_092026). No farmer count, registration deadline, cost or data-protection provision is published, and nothing states how it relates to the national identification register.
 <!-- /narrative -->
 ### Sectoral management information systems
 

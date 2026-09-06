@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: LSO
 ledger_rows: 27
 not_held: 4
-record: 7bfbf9ad589f
+record: 7384f0fe25dd
 ---
 
 # Lesotho: monthly update, August – September 2026
@@ -78,7 +78,7 @@ A freeze on refugee identity documents is reported to have left [families strand
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the base can record that the platform is being rolled out and not how far it has reached.
+The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the base can record that the platform is being introduced and not how far it has reached.
 <!-- /narrative -->
 ### Registries
 
