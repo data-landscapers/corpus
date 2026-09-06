@@ -3,9 +3,9 @@ title: Tunisia — monthly update, August – September 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 place: TUN
-ledger_rows: 37
-not_held: 9
-record: 51cf7ea5f2cf
+ledger_rows: 44
+not_held: 6
+record: cd079f700c09
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -33,6 +33,11 @@ The customs administration [settled a 2026-2030 strategic plan built around digi
 
 <!-- narrative: governance--gov-regional -->
 Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab League's working group on artificial-intelligence innovation and technological solutions at the permanent committee's inaugural meeting in Tunis](https://www.businesstec.news/23334), and [hosted the ninth Arab conference of directors of nationality and civil-status departments, which closed in Tunis on 19 August](https://gate.ahram.org.eg/News/5891986.aspx). Neither carries a work programme, a decision or a text on the record.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+Parliament's own case file arrived, and it makes the revision of the 2022 cyber-offences decree-law measurable rather than announced. The bill was [deposited on 20 February 2024, referred to committee on 10 April 2025, carries 38 sponsors and has not been voted](https://www.arp.tn/loi/project/4139); its operative text — the amendments themselves — is not published on the assembly's own page, which is a dated absence rather than an unsought one. [The committee named the revision its top priority in January 2026](https://www.webdo.tn/fr/actualite/national/tunisie-le-parlement-place-la-revision-du-decret-54-en-tete-de-ses-priorites/392137/); two and a half years after deposit, that priority has produced no vote.
 <!-- /narrative -->
 
 ## Finance
@@ -107,6 +112,14 @@ A restricted ministerial council of 16 August put a count on the rest: [114 proj
 The industry ministry [opened a unified digital services platform on 28 August, its first online service the technical cards governing effective transfer operations - more than 4,000 a year - filed and processed entirely online and interconnected with customs so data is exchanged and decisions notified in real time](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B5%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D8%B6%D8%B9-%D8%A3%D9%88%D9%84%D9%89-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AD%D9%8A%D9%91%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84), running on the national digital identity mechanisms and linked to the enterprise register, with import authorisations, an olive oil promotion fund and establishment licences to follow.
 <!-- /narrative -->
 
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+Two records of rural service digitisation landed on the same day, both from the bodies running the programmes rather than from the state. A [European and health-ministry programme's own results page](https://www.essaha-aziza.tn/resultat-5-digitalisation) sets out the digitalisation of the first-line care information system — diagnosis, governance, a national computerised medical record and deployment on pilot sites at Nabeul — which is basic health centres, the rural end of the estate. A [telecommunications foundation's programme page](https://engageforchange.orange.com/fr/country/tn/programs/4228bcdd-feca-4233-b322-166515acdf1b) puts 185 public primary schools on offline-capable digital kits since 2014. Neither carries a publication date of its own, and the foundation's page still reads 185 a year after fifteen more schools were announced on top of it.
+<!-- /narrative -->
+
 ## Technology
 
 ### AI
@@ -128,6 +141,14 @@ The startup framework reached for the diaspora. The Dot [opened applications for
 
 <!-- narrative: capacity--capacity-training -->
 The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a [declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). The training launch's own date is not established in the source.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The month's inclusion movement was a marketplace rather than an access measure. The family and women's ministry [launched a national digital marketplace for women's and girls' products, with payment and delivery agreements with the postal service and a partnership with the handicrafts office](http://www.femmes.gov.tn/ar/2026/08/12/%d9%88%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%b1%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%91%d8%a9-%d8%a7%d9%84%d9%88/), putting home-based craftswomen in reach of national markets without an intermediary. It is a concrete service mechanism rather than a policy statement, which is the more common form here; no seller count or transaction volume has followed it.
 <!-- /narrative -->
 
 ## Data
