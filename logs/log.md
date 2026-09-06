@@ -41,6 +41,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-06 13:01 · build · 40m · catalogue 18853, finance 62 places, scan 1 unit, STP ledger 50 to 116 rows and 115 of 121 indicators mapped, 22 status sub-sections revised, scope 410 in remit 0 unaccounted — ok
 2026-09-06 12:01 · notes · 1h50m · drained notes-for-corpus 16-21, nothing open — 16: both OSINT log reads retired for the cycle manifest, lint-interface exceptions empty, suite green; 20: catalogue_hero renders as the record subtitle; 17/18/19/21 into PROGRESS-FILLER §5a, six undelivered batches repaired — ok
 2026-09-06 11:28 · render · 10m · 251 report documents, home, 54 country and 8 region pages, catalogue 18,721, finance, topics rendered and deployed; taxonomy matrix no longer links a subject with no page - ok
 2026-09-06 11:18 · build · 45m · catalogue 18,721, stage 2 re-run on a moved base; 297 sources over SLE and SSD - 130 rows minted, 14 gaps settled, 142 indicators mapped, 9 narratives written, 9 acquire rows closed; topics 76 - ok
