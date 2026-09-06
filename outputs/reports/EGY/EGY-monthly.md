@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: EGY
-ledger_rows: 75
+ledger_rows: 77
 not_held: 54
-record: 87fbf3fd9287
+record: 6a6e9089bc30
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -120,6 +120,8 @@ On 4 August the state-land regularisation platform was reported at [more than 30
 
 <!-- narrative: dpi--dpi-mis -->
 The social insurance authority reported on 3 August that it had served 8,621,000 people in about four months and cleared 92% of its arrears backlog — while the 95 online services it undertook in February within six months remained forthcoming as that window fell due ([authority account](https://gate.ahram.org.eg/News/5882131.aspx)).
+
+The health stock chain went onto one record. The procurement authority told the prime minister on 2 September that it is [building a national medical-stock database and has moved stocktaking onto a mobile scanning application, putting the system at 38,000 health-sector users, 11,000 medical facilities and 2,000 suppliers across the procurement, storage, dispensing and reconciliation cycle, with warehouses standardised by actual operating state and stock balances updating in real time](https://www.youm7.com/story/2026/9/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D9%88%D8%A7%D9%81%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A8%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9/7533639). The figures and the claim that the design meets audit and finance requirements are the authority's own; about EGP 90bn is allocated this financial year for medicines and medical supplies, and no completion date or independent audit of the system is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -133,6 +135,8 @@ The [unified government services card, integrating food-subsidy and civil-servic
 Investors are to get their own digitised path through the land record. A [cooperation protocol signed on 13 August between the justice and investment ministries would digitise real-estate registration and notarisation services for investors](https://sis.gov.eg/en/media-center/news/justice-investment-ministries-sign-pact-to-digitize-investor-services/), to shorten company incorporation. No protocol text, timetable or service list is published, and land-registration coverage for everyone else remains ***Not held***.
 
 The justice and communications ministries [signed a three-year cooperation protocol on 23 August 2026](https://www.businesstec.news/23569) to digitise the Cairo Court of Appeal and put artificial intelligence into the judiciary, covering a unified electronic repository for the archives of finally-adjudicated cases.
+
+One platform went the other way. The prime minister said on 3 September that [faults in the unified electricity platform and discrepancies in prepaid-meter readings are a government priority and that remedial steps will be announced transparently](https://www.youm7.com/story/2026/9/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%84%D9%80-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D8%B3%D8%A3%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/7535176), the question put to him describing the platform as having stopped working, with top-up values differing from meter readings or from the figures the utility holds. The operator has published no outage notice, fault count or restoration date, so the position rests on a prime-ministerial answer to a journalist.
 <!-- /narrative -->
 
 ## Technology

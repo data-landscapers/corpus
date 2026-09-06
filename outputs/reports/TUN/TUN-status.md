@@ -1,12 +1,12 @@
 ---
 title: Tunisia — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-09-06
 place: TUN
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 114
+sources_cited: 116
 sections_written: 37
 not_established: 4
 acquire_lines: 49
@@ -132,7 +132,7 @@ Every one of the seven core government systems assessed in 2025 — financial ma
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-No operational governance for compliance, security and audit trails is recorded for [Tunisia's tax management information system, its financial management information system or its treasury single account (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) — the three systems that handle public money, and the gap sits against a country the ITU scores at [81.93 on its Global Cybersecurity Index, in the top Role-Modelling tier (2024)](https://www.itu.int/pub/D-HDB-GCI.01-2024). The index measures institutional commitment, and Tunisia's is genuine on paper.
+The administration was given a written security baseline on 2 September 2026: [circular n. 5 requires encrypted connections across official sites and platforms, mandatory renewal of security certificates, two-factor verification for administrator access, protection against traffic-saturation attacks and hosting on servers approved by the state, bans the use of messaging apps and social media for exchanging official documents, and requires regular audits, immediate reporting of incidents to the national cybersecurity agency and an end to shared credentials](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/). It binds the administration rather than the wider economy, and carries no compliance deadline, audit schedule or list of approved hosting providers. No operational governance for compliance, security and audit trails is recorded for [Tunisia's tax management information system, its financial management information system or its treasury single account (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) — the three systems that handle public money, and the gap sits against a country the ITU scores at [81.93 on its Global Cybersecurity Index, in the top Role-Modelling tier (2024)](https://www.itu.int/pub/D-HDB-GCI.01-2024). The index measures institutional commitment, and Tunisia's is genuine on paper.
 
 The instruments are in place. [Decree-Law 2023-17 of 11 March 2023 requires organisations within its scope to undergo periodic technical audits reported to the National Cybersecurity Agency and to notify it of cyberattacks, with financial penalties for failure](https://legislation-securite.tn/latest-laws/decret-loi-n-2023-17-du-11-mars-2023-relatif-a-la-cybersecurite/); [the National Cyberspace Strategy runs from 2020 to 2025](https://www.ancs.tn/sites/default/files/ncss24/downloads/FR%20-%20Natl%20Cyberspace%20Strategy%202020-2025.pdf); and the [cybercrime framework, Decree-Law 54 of 2022, mixes computer-crime provisions with offences covering content carried over communications networks](https://www.icnl.org/wp-content/uploads/Decloi54.pdf). In payments, [operators of settlement systems must run an annual information-systems security audit reported to the Central Bank](https://www.jurisitetunisie.com/download_bct.php?f=BCTC2024_005-A20240213.pdf), a duty [licensed payment institutions have carried since 2018](https://cdn2.webmanagercenter.com/wmc/wp-content/uploads/2020/05/BCT_Etablissements_Paiement_Cir2018_16.pdf).
 

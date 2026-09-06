@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: COD
-ledger_rows: 55
+ledger_rows: 56
 not_held: 6
-record: df07e668e870
+record: 1c996a0e2756
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -91,6 +91,8 @@ Deployment of the transformation project's fibre backbone was reported to the Co
 Coverage arrived from orbit before it arrived by fibre. An operator [commercially launched a satellite-to-mobile service on 14 August, the first African operator to take the technology out of testing](https://businessday.ng/technology/article/airtel-becomes-first-african-operator-to-commercially-deploy-starlink-mobile-starting-in-congo/): a compatible LTE Android handset with a clear view of the sky reaches messaging and SMS through satellites where there is no terrestrial network, with no dish, router or other equipment, and the [regulator has confirmed a phased rollout](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/). The service is stated as designed for light data, and the only access term published is a [free 30-day trial for customers who register through the operator's app](https://www.connectingafrica.com/connectivity/airtel-africa-starlink-launch-satellite-to-mobile-service-in-drc); no standing tariff, coverage map or subscriber figure is on the record.
 
 Starlink users in Kinshasa [face four to six months of possible slowdowns while the network is congested](https://www.talkafrica.co.ke/starlink-users-in-kinshasa-face-4-6-months-of-possible-slowdowns-amid-network-congestion/). No subscriber count, capacity figure or remediation date accompanies the notice.
+
+A cross-border route was reaffirmed rather than started. The Tanzanian and Congolese foreign ministries [agreed to fast-track a fibre-optic cable from Kigoma to Kalemie in Tanganyika province through Lake Tanganyika, alongside a standard gauge railway link through Burundi and the establishment of a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). The statement came at a farewell meeting for the Congolese ambassador in Dar es Salaam; no route survey, cost, financing, landing point or delivery date is published, and no Congolese ministry statement is on file.
 <!-- /narrative -->
 ### Technical Capacity
 

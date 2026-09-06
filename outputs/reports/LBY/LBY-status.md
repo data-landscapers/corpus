@@ -1,12 +1,12 @@
 ---
 title: Libya — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-09-06
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 122
+sources_cited: 123
 sections_written: 37
 not_established: 0
 acquire_lines: 50
@@ -15,6 +15,8 @@ acquire_lines: 50
 
 ### Strategies, plans and policies
 <!-- gov.policy -->
+
+The central bank has a financial-inclusion strategy of its own: [the governor launched the National Financial Inclusion Strategy 2025-2029 at the first Electronic Payment Forum on 15 June 2025, alongside financial-inclusion accounts for excluded groups, a banking data protection system, full digitisation of government payments, localisation of the foreign-currency payments infrastructure, a framework for digital and crypto currencies and a digital banking identity](https://cbl.gov.ly/en/governor-of-the-central-bank-of-libya-announces-from-tripoli-the-launch-of-the-national-financial-inclusion-strategy-and-a-number-of-transformative-projects-during-the-opening-of-the-electronic-paymen/); the strategy text is not published and none of the accompanying projects carries a budget, operator or delivery date.
 
 Libya replaced its national artificial-intelligence strategy eight months after publishing it: the [National AI Strategy 2026–2030, launched by Prime Minister Abdulhamid Dbeibah on 1 June 2026 alongside a National AI Ethics Charter](https://lana.gov.ly/post.php?id=358532&lang=en), supersedes the [National Strategy for Artificial Intelligence 2025–2030 that the General Information Authority published in October 2025](https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available), prepared with UN-ESCWA and described as the state's highest reference strategy.
 

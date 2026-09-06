@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: TZA
-ledger_rows: 65
+ledger_rows: 66
 not_held: 13
-record: d95c47f4d51e
+record: daccb6d3296c
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -81,6 +81,8 @@ On 29 July the Kenyan and Tanzanian ministers [launched a terrestrial fibre link
 A separate tower programme reported its own reach to Parliament on 15 August: a [TZS 126bn, 758-tower project — TZS 55bn from the World Bank and TZS 71bn from the universal service fund — has connected 8.5 million people across 1,400 villages](https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/), in the same report that records 14,826 data controllers and processors registered with the data protection commission by June 2026. The ministry gives no count of towers completed against the 758 planned, and no measure of service uptake in the villages it says are connected.
 
 The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinagency.com/news-digital/2608-58349-yas-targets-tanzania-s-fixed-internet-market-with-new-fiber-rollout), with plans to widen coverage across the city on a stated 300 billion shilling investment.
+
+The month's other route is a border crossing that has not begun. The foreign minister said the two countries would [fast-track a national fibre-optic cable from Kigoma to Kalemie in the Democratic Republic of Congo through Lake Tanganyika, alongside a standard gauge railway link through Burundi and a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). No route survey, cost, financing, landing point or delivery date is published.
 <!-- /narrative -->
 ### Data Storage
 

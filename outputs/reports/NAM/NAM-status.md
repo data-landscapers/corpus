@@ -1,12 +1,12 @@
 ---
 title: Namibia — digital transformation and data governance status report
-compiled: 2026-09-01
+compiled: 2026-09-06
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 128
+sources_cited: 129
 sections_written: 37
 not_established: 2
 acquire_lines: 45
@@ -179,7 +179,7 @@ The electronic ID is scheduled, not issued. [Cabinet approved it in 2023 and the
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-Namibia's instant payment rail went live in June 2026 with the central bank as its operator rather than only its supervisor: [the Bank of Namibia runs the Instant Payment Solution through a subsidiary, Instant Payments Namibia, with India's NPCI deploying the system inside the central bank's own environment](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/e4/e4467afa-167e-4773-aa09-b1c286d25223.pdf). [It became operational in June 2026 after a live pilot, with Bank Windhoek, Nampost and Letshego Bank Namibia the first participants](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/).
+Namibia's instant payment rail went live in June 2026 with the central bank as its operator rather than only its supervisor: [the Bank of Namibia runs the Instant Payment Solution through a subsidiary, Instant Payments Namibia, with India's NPCI deploying the system inside the central bank's own environment](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/e4/e4467afa-167e-4773-aa09-b1c286d25223.pdf). [It became operational in June 2026 after a live pilot, with Bank Windhoek, Nampost and Letshego Bank Namibia the first participants](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/). [It is carried publicly as WayaMe, customers transacting through their existing bank applications, e-money wallets or USSD services while the payment is routed through the national instant-payment infrastructure, and it is designed to carry bank-to-bank, bank-to-wallet, wallet-to-bank and wallet-to-wallet payments between participating institutions](https://www.namibian.com.na/explainer-what-is-wayame/).
 
 Government payments moved first. [The first cohort of marginalised beneficiaries was paid over the new rail on 17 June 2026 through Bank Windhoek, with pensioners and other grant recipients to follow](https://technews.com.na/2026/06/17/namibia-moves-government-grant-payments-onto-instant-payment-network/), but [only the first phase of grant categories has migrated: salaries, pensions and the remaining social grants have not](https://www.marketwatch.com.na/market-watch/fact-sheet-namibias-instant-payment-solution-ips-nmh012158-3015-14760). Across borders, [Namclear agreed in March 2026 to connect the country to TCIB, the SADC regional instant cross-border scheme, with low-value push payments to Common Monetary Area countries introduced in phases](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/). Bank-to-bank transfers already run on [NamPay, the upgraded national electronic funds transfer system, whose near-real-time credit stream carries person-to-person, salary and supplier payments](https://nedbank.com.na/content/nedbank-namibia/desktop/na/en/aboutus/legal/Nam-Pay.html).
 

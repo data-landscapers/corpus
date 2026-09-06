@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: NAM
-ledger_rows: 41
+ledger_rows: 42
 not_held: 11
-record: 20e165f8271b
+record: 72df2d87c8dc
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -68,6 +68,8 @@ The national data centre moved from a Cabinet directive to a budget line: it is 
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The trust layer beneath the September electronic identity launch was signed in the last week of the month. The communications regulator and a German identity vendor [signed an implementation agreement with the home affairs ministry connecting it to the regulator's national trust framework](https://www.itweb.africa/article/namibia-advances-national-digital-trust-framework/lwrKx73Y1pAqmg1o), with the regulator as national root certification authority and the ministry becoming the first certification service provider through the issue of electronic identity documents. It is the first named certification service provider on this ledger, and it arrives a fortnight before the credential it is meant to certify.
+
+A private initiative opened alongside it. A Namibian technology company [launched the Global Cybersecurity Initiative in Windhoek, a pan-African platform presented as connecting businesses, governments and innovators for commercial partnership rather than as an exhibition, opening across Namibia, Kenya, Botswana, Ghana, Nigeria, Zambia and South Africa with a stated target of 52 African countries by 2029](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/). No government party, funding, governance arrangement or membership figure is published, and the [US$4bn a year its chairman gave as Africa's cybercrime losses](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/) comes without a source.
 <!-- /narrative -->
 
 ## DPI
@@ -89,6 +91,8 @@ The central bank, the instant payments company and the clearing house signed a d
 The payments association's annual general meeting on 28 July also heard that licensing and supervision of payment providers will move to the central bank, with no instrument, commencement date or transition plan published ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 
 The central bank governor put a date on the phone-based channel. He [said on 27 August that a digital money and instant payment solution should be fully functional by about June 2027, sequenced government-to-person, then person-to-person and person-to-merchant](https://www.namibian.com.na/central-bank-to-introduce-digital-money-next-year/), pitching it as a way to build transaction histories that substitute for the financial statements banks demand of informal businesses. How cash integrates was not stated.
+
+The system acquired a public name. The instant payment solution is [carried publicly as WayaMe, operated by Instant Payments Namibia under the central bank, with customers transacting through their existing bank applications, wallets or USSD services while the payment is routed through the national instant-payment infrastructure](https://www.namibian.com.na/explainer-what-is-wayame/), designed to carry bank-to-bank, bank-to-wallet, wallet-to-bank and wallet-to-wallet payments between participating institutions. No participant list, transaction volume, value or fee schedule is published, so interoperability is a stated design property rather than a measured one.
 <!-- /narrative -->
 ### Registries
 

@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: MWI
 ledger_rows: 49
 not_held: 38
-record: c0c0184b410b
+record: b8eba59b01b9
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -91,6 +91,8 @@ The generator's own account of 22 August [records reduced hydropower generation 
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The month's cybersecurity item is a loss rather than a control. The state oil company [was defrauded of K700m after attackers hijacked email from its Mozambican fuel-handling contractor and supplied false banking details, instructing its bank on 29 April 2026 to wire US$403,605 to a fraudulent account](https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/); the fraud surfaced two weeks later when the genuine contractor demanded payment, and was confirmed publicly on 24 August 2026. The company attributes the control weaknesses to the government-to-government fuel procurement model being introduced before operational and cybersecurity procedures were in place. No regulator finding, prosecution or recovery is on file.
+
+The regulator put its own name to the methods a week later. It issued a public alert on rising digital fraud against mobile money and digital financial services, naming [fake social cash transfer messages demanding a payment before assistance, failed-payment pretexts redirecting money to a second number, spoofed transaction alerts, fake competition prizes and takeovers of messaging accounts used to solicit money from contacts](https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/), and stating that bodies running social cash transfer programmes do not use ordinary messaging to request money from beneficiaries. The alert carries no incident count, loss figure or enforcement action, so the regulator is on record about the methods and not about their scale.
 <!-- /narrative -->
 
 ## DPI
