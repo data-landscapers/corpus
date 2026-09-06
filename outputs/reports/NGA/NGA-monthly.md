@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-06
 place: NGA
 ledger_rows: 147
 not_held: 8
-record: a0d2f9dfc9f8
+record: 3d3176a72ecd
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -121,6 +121,8 @@ The state also went back to orbit, and changed suppliers doing it. The Federal E
 Beneath all of that the licensed retail-ISP market is a rounding error and is concentrating. Regulator data released on 25 August put [active licensed-ISP subscribers at 420,989 in June 2026, up 19.6% from 352,006 in December 2025, with three providers holding close to 70% of the market — Spectranet 111,384, Starlink 98,642 and FibreOne 56,486 — points of presence up from 2,508 to 2,893, and 126 of the 230 licensed ISPs reported to have a single active subscriber](https://techcabal.com/2026/08/27/three-companies-now-control-nearly-70-of-nigerias-isp-market/). The same data puts that whole market at [0.27% of the country's 156.4 million active internet subscriptions](https://techcabal.com/2026/08/27/three-companies-now-control-nearly-70-of-nigerias-isp-market/), which is the scale at which any argument about broadband competition here has to be read.
 
 Katsina State [began the last-mile stage of its fibre network, the state investment promotion agency coordinating with commercial providers to move from core installation to connections for homes, businesses and public facilities across all 34 local government areas, with right-of-way fees waived and a roadmap target of 2,000-3,000 km of fibre and 70 per cent broadband penetration](https://dailyquery.com.ng/connecting-the-future-katsina-state-launches-mass-fibre-optic-network-for-homes-and-businesses/) for which no date is given. The satellite programme got its financing shape: the operator [disclosed that NIGCOMSAT-2A and 2B will be vendor-financed and backed by export-import banks, with the amount official only once financing closes](https://nigeriacommunicationsweek.com.ng/2026/08/28/fg-taps-french-israeli-firms-to-build-new-satellites-for-nigeria).
+
+Lagos put a figure on its own build. The state says it has [laid about 3,000km of a planned 6,000km unified fibre network between 2019 and 2025 and plans to secure 200-400MW of state-procured electricity](https://www.vanguardngr.com/2026/09/80bn-digital-economy-sanwo-olu-eyes-africas-innovation-capital/), alongside a claim of more than US$80bn in commitments to technology development. Both figures are the state's own, given at a trade exhibition, with no route, cost or independent verification published.
 <!-- /narrative -->
 ### Data Storage
 
@@ -133,6 +135,8 @@ The state put its own instrument behind the same argument on 5 August, [signing 
 The sovereign cloud acquired its instruments and a start date. Four were signed on 4 August — [a cloud computing guideline, a cloud technical guideline, a digital infrastructure assurance framework and a cloud investment strategy — with certification of cloud and artificial-intelligence infrastructure providers to begin in October, oversight vested in a new governance committee and a stated ambition to serve West and Central Africa](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/). What certification will require of a provider is not published.
 
 The month's largest capacity announcement is offshore-financed and not yet sited. The operator group [named the UAE backer of its Africa Data Hub Holding vehicle on 27 August as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub, with its own connectivity business a shareholder supplying open-access connectivity and go-to-market support](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), the vehicle having been named in the group's half-year results booklet three days earlier without the partner behind it. The [first phase targets 150MW of AI-ready capacity across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/), with no split between the two countries, no Nigerian site, no cost and no commissioning date stated — a number to hold against the 50 to 56 MW the country's twenty-six existing facilities actually carry.
+
+A rating agency put a third count on the estate and named the constraint. It puts national data-centre capacity at [about 197 MW, below Saudi Arabia's 435 MW, and classifies the country's power availability for data-centre development as very low, citing heavy reliance on self-generation and backup power, limited renewable transmission and chronic grid instability](https://moneycentral.com.ng/markets/article/nigerias-197-megawatt-data-center-market-needs-power-reform-to-scale/). The figure is on a third basis again and reconciles with neither of the two the base already holds; what it adds is the finding that power, not demand, is what would stop the country converting artificial-intelligence interest into operating capacity.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -178,11 +182,15 @@ The virtual-asset track kept admitting. Three further firms were [named as admit
 The rail underneath all of it began to change. The clearing operator [reports 26.55 million transactions worth 1.4 trillion naira across 48 institutions in the early phase of the ISO 20022-compliant stack that replaces the instant-payments system](https://theeagleonline.com.ng/nibss-rolls-out-nps-as-nip-successor/), on a multi-currency platform carrying payments, identity and data together. The figures are the operator's own.
 
 The withdrawn credit product came back on 24 August. The dominant operator [resumed airtime lending on four vendors after the April suspension that followed new consumer-watchdog licensing and consumer-protection requirements, with its lending base cut to about a quarter of its first-quarter run rate and a stated cost of about 50 billion naira (US$37.1m) to first-half revenue](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/). The group [expects the whitelisted customer base to rebuild through the third and fourth quarters](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/) — its own forecast, and no regulator statement on the resumption is held. The jurisdictional question the suspension turned on is unresolved and before the Court of Appeal.
+
+One private figure crossed a round number. A digital bank [passed 30 million registered users in Nigeria](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-banque-numerique-fairmoney-depasse-les-30-millions-dusagers-au-nigeria) on its own count, which is a registration total rather than an active or transacting one and has no earlier figure on the ledger to read it against.
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 [Civil registration](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) went nationwide from 1 July on a platform run as a public-private partnership, a private contractor carrying availability and security duties over the register of births and deaths.
+
+A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -199,6 +207,8 @@ The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-u
 At state level a second donor took the policy layer rather than the platform: on 16 August [the UK opened a digital policy and regulatory reform project with Ekiti State](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/), to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework. Its value and duration are not published.
 
 Two more federal fronts opened in the same week. The communications ministry [launched services.gov.ng as a single point of access to services previously spread across agency websites and offices](https://techafricanews.com/2026/08/18/nigeria-launches-centralised-gateway-portal-for-government-services/) — business registration, trade permits, identity verification, regulatory licensing and empowerment programmes — framed partly as a defence against fraudulent look-alike sites. No service count, transaction volume, cost or build attribution is published, and nothing states how it relates to the single sign-on portal soft-launched three weeks earlier. And on 19 August the IT development agency and the Hajj commission [agreed to digitise pilgrimage operations end to end, from registration and payment verification to flight manifests, logistics and pilgrim tracking](https://techafricanews.com/2026/08/19/nitda-and-nahcon-partner-to-fully-digitise-nigerias-hajj-operations/), the commission disclosing that its ICT function runs on two developers. It is an agreement to work together: no scope document, budget, timetable or procurement follows it.
+
+A state payroll moved onto one record. Ondo State [launched Ondo Pay on 4 September, bringing employee records, salary computation, approvals, reporting, payroll processing and pension migration into one environment with a mobile self-service application for payslips and permitted record updates](https://www.thisdaylive.com/2026/09/04/aiyedatiwa-ushers-in-new-era-of-digital-governance-with-ondo-pay/); the state says bank-verification-number integration, controlled access and auditable workflows are meant to remove duplicate and non-genuine records and unauthorised payments. No cost, vendor or headcount is published, so the claim cannot be tested against a payroll figure.
 <!-- /narrative -->
 
 ## Digitalisation
