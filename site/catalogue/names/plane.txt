@@ -63,7 +63,7 @@ PLANET LABS PBC	18200
 PlaNet Guarantee	17870
 Planea	15380
 Planeam	15966
-Planeamento	13,2803,703,1235,4505,1355,136,2,2,4,2,6,3,3,5,6,578,6,20,4,58,4,3,82,19,9,332,121,123,3238,11,13,122,246,194,90,195,39,768,279,1412,1,10,3,9,9,7,3,5
+Planeamento	13,2803,703,1235,4505,1355,136,2,2,4,2,6,3,3,5,6,578,6,20,4,58,4,3,82,19,9,332,121,123,3238,11,13,122,246,194,90,195,39,768,279,1412,1,10,3,9,9,7,3,5,100
 Planeamento A Ministra da Saúde Víctor Hugo	10777
 Planeamento Educativo da UNESCO LBSE Lei de Bases	11557
 Planeamento Estatístico	11391
@@ -78,7 +78,7 @@ Planeamento Urbanístico	15380
 Planeamento da Actividade Inspectiva	11452
 Planeamento da Educação Inovativa	18796
 Planeamento de Cobertura	9559
-Planear	11444,5,4054,23
+Planear	11444,5,4054,23,3370
 Planes	1701,15174,23
 Planes Estratégicos Quinquenales	1701,15192
 Planes de Acción	16898

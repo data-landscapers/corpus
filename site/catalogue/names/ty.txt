@@ -327,6 +327,7 @@ Number of Type Approved Equipment Average Approved	12395
 Numbering Resource Type Fee Range	17250
 OP00446599 Notice Type	18711
 OPERATOR AND SIGNALLING IDENTIFIERS Resource Type	17250
+OUTPUTS Type	18985
 Officer Table of Contents INTERPRETATION NAME TYPE	585
 Official Statistics Types	17149
 Official Statistics Used Regularly Types	17149
@@ -436,6 +437,7 @@ SS-MICT&PS-544329-CS-CQS Type	18718
 SS-MICT&PS-544346-CS-CQS Type	18712
 STATISTIQUES DES AUTRES TYPES DE FORMALITÉS	16249
 SURGERY BY TYPE	16892
+SWIFT Message Type	18976
 Salmonella Typhimurium	16103
 Scope NA Type Nominal	7221
 Scope NA Type Nominal Refers	7221
@@ -473,6 +475,7 @@ Senegal Type Role Country Country	18359
 Service Type	14151,3099
 Service Type Average Cost	15120
 Sex and Type of Offence	2775
+Seychelles Ms Corina Chang Ty-Sing	18995
 Signature Type of Radio System Position Held	736
 Site Name Site Type NORTH	18485
 Size of Houses Type	12977
@@ -503,6 +506,7 @@ TREATMENT PRACTICES AND LIVESTOCK TYPE Livestock	17043
 TRN Request Type	11298
 TRN Tax Type	11298
 TTC Type TTC Code Default Range	12364
+TY Calling	19103
 TY8X-F4FE	1981
 TYPE AND OBJECTS OF COMPANY	585,8281
 TYPE AND SEED RECYCLABILITY Crop Type	17043
@@ -805,7 +809,7 @@ Type-approval	16810,74,366
 TypeORM	17902
 TypeScript	5513,6409,322
 TypeScript and Python	13272
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108,136
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108,136,545
 Types Effectif Pourcentage	10875
 Types Gouvernance	14424
 Types Installed ENERGY MIX Generation	12358
@@ -835,10 +839,12 @@ Types of Opinions Clean	13420
 Types of PAPs	17114
 Types of Payments	14891
 Types of Proposals Bidders	15154
+Types of Raster Data	18904
 Types of Register of Civil	12226
 Types of Registered Marriages	13644
 Types of Reported GBV Offences	13399
 Types of Sex-disaggregated Data Available Online	12389
+Types of Supporting Documentation. The Bank	18887
 Types of TB	16971
 Typhoid	12729
 Typhoid Fever	16935

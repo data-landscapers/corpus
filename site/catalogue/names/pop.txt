@@ -130,6 +130,7 @@ Centre NPR National Population Register NSDF	5533
 Centre POP Population Red Redoublants TA	18171
 Centre Population Coverage and Empowerment KRA	6946
 Centre RPHC Rwanda Population and Housing Census	12413,2643
+Chad Population	18931
 Chairman National Population Commission	1014
 Challenge Potential Remedy Population	14897
 Change Population	12600
@@ -151,6 +152,7 @@ Condições Nacional Popular	11569
 Conducting the Population and Housing Census	2775
 Conflict-Affected Populations	16971
 Connections See More Popular Content	6683
+Conselho de Estado da República Popular da China	18958
 Continuous Population Survey	11237,104
 Corner Pope John Paul II	12652
 Corner Suffren Road and Pope Hennessy Street	14847
@@ -164,6 +166,7 @@ Crude Population	12413
 D'ACHEVEMENT Population	10847
 DA POPULACAO SANTOMENANA POR TIPO	18802
 DE DE LÂ REPTIBLIQUE POPIII	15399
+DE L'ADRESSAGE OFFICIEL AUX REPERES POPULAIRES	19148
 DE LA POPULATION	17842
 DE LA POPULATION BAO SHI	16100
 DE LA POPULATION ET	15394
@@ -237,6 +240,7 @@ EN RÉPUBLIQUE POPULAIRE DU CONGO	16047
 ESTABLISHMENT AND REGULATION OF POPULATION REGISTER	12984
 ESTADO DA POPULAÇÃO SANTOMENANA	18802
 ESTADO DA POPULAÇÃO SANTOMENSE O Recenseamento	18802
+ESTIMATED RESIDENT POPULATION	18989
 ESTRUTURA DA POPULAÇÃO SANTOMENANA	18802
 ESTRUTURA DA POPULAÇÃO SANTOMENANA Durante	18802
 ET DE LA POPULATION	15786,314,77,97,182
@@ -268,6 +272,7 @@ Establishment and Regulation of Population Register N	12984
 Estatísticas Mensais da População Refugiada	11460
 Estimated Population Phase District No. of Zones	13095
 Estimated Population of Youth	12600
+Estimated Resident Population	18989,111
 Eswatini Population Register	13022
 Eswatini Population and Housing	13123
 Eswatini Population and Housing Census	12939,184
@@ -301,6 +306,7 @@ Financial Management Reform Strategy PHS Populations	18488
 Financing Population Implementing Agency	16922
 Finland Finnish Population Information System	10714
 Focus Population Direct	13999
+Force Survey UNFPA United Nations Population	18951
 Fourth General Population and Housing Census	16547
 Fourth Population and Housing Census	12413
 Fourth Round Eritrea Population and Health Survey	6106
@@ -334,7 +340,7 @@ Geral de População	17012
 Germany Population	17884
 Glance Population	12533
 Governo Popular	11045
-Governo da República Popular da China	11045,519
+Governo da República Popular da China	11045,519,7394
 Grand- Popo	15424
 Gribo Popoli	2342
 Group Indi- House- Active Popula- Popu-	17743
@@ -426,6 +432,7 @@ Kenya Population and Soluptas Nist Alita VollupHtaoeu	12151
 Kenya's Population	12151
 Key Population Data	15156
 Key Population Modules	15156
+Key Statistics CAR CHAD Population	18887
 Km2 Population	18757
 LA POPULATION	15524,256,6
 LA POPULATION Acte	15848
@@ -450,6 +457,7 @@ Liberia Population and Housing Census. Thematic Report	16144
 Liberian Population and Housing Census	16921
 Liberia’s Population	16921
 Life Counts Population Studies and Research Institute	12151
+Literacia Financeiras da População	19014
 Local Popular	15473
 Local Popular Council	15473
 Local Population	17114
@@ -463,6 +471,7 @@ M Population	16973
 MALAWI POPULATION	13095
 MALE FEMALE POPULATION	12151
 MGC Office Park Corner Pope John	10060
+MID-2025 ESTIMATED RESIDENT POPULATION	18989
 MID-TERM POPULATION AND HOUSING CENSUS	18464
 MINISTERE DE LA POPULATION	14418
 MISTT Internet Fundamentals and Popular Apps	11017
@@ -544,8 +553,10 @@ Namibia's Population	12963
 Namibian Population	12383
 National Agency for Population Register and Secure	6767
 National Biometric Population Register	2823
+National Biometric Register of Populations	18931,2
 National Census of Households and Population	10812
 National Census of Population and Housing	13367
+National Coordinating Agency for Population and Development	18886
 National Council for Population Development	12151
 National Council for Population and Development	12138,2272
 National Council for Population and Development Dr. Mohammed	14523
@@ -562,6 +573,7 @@ National Population Commission. The Federal Commissioner	8588
 National Population Commission. The NIMC	4120
 National Population Council	14857,3,179
 National Population Data Management	14503
+National Population Database	18965,75
 National Population Identification Office	11900
 National Population Office	17594
 National Population Policy	12962
@@ -655,9 +667,12 @@ POPULATION AND HOUSING CENSUS Figure	16921
 POPULATION AND HOUSING CENSUS Power	14594
 POPULATION AND HOUSING CENSUS The Census	16921
 POPULATION AND HOUSING CHARACTERISTICS	16935
+POPULATION AND VITAL STATISTICS	19099
 POPULATION AT RISK	16892
 POPULATION AT RISK SLEEPING UNDER INSECTICIDE-TREATED	16892
 POPULATION BY MUNICIPALITY Data	10763
+POPULATION CHANGE Tables	19099
+POPULATION CHANGE The All-Resident	18989
 POPULATION COVERAGE	18485
 POPULATION DENSITY	18464
 POPULATION DENSITY Largest Large Small International	16921
@@ -776,7 +791,7 @@ Populate	18446
 Populating Shared Value Sets	1009
 Populating the IDES	12941
 Populatino	11572
-Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34,105,16,107,48,9,276,6,4,3,14,1,1,9,5,10,13,3,9,9,32,6,4,12,8,37,95,13,8,32,14,48,84,7,7,1,1,1,1,12,16,2,10,18,18,56,1,45,18,49,55,74,233,1,42,32,58,16,189,12,2,29,1,23,10,13,52,76,228,144,17,90,77,24,144,1,171,4,5,1,1,17,23,23,1,1,5,39,36,24,13,4,63,45,96,17,4,15,1,44,1,14,65,5,75,3,185,3,151,25,8,16,25,1,1,1,4,22,17,29,6,4,17,6,4,15,5,13,6,4,7,51,21,1,13,5,15,25,34,49,70,18,29,12,55,5,42,109,21,183,44,17,74,20,16,51,6,21,32,21,10,129,59,4,20,5,1,18,2,8,23,45,96,35,8,82,18,170,19,2,16,10,4,11,1,13,168,72,86,1,11,1,1,1,20,5,1,7,1,16,2,7,3,1,38,1,21,11,4,1,12,8,11,18,45,23,3,1,1,4,1,6,2,4,1,13,7,6,7,13,1,26,2,6,34,16,1,20,2,6,3,5,19,2,25,85,13,8,15,6,11,3,129,20,1,55,74,30,36,2
+Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34,105,16,107,48,9,276,6,4,3,14,1,1,9,5,10,13,3,9,9,32,6,4,12,8,37,95,13,8,32,14,48,84,7,7,1,1,1,1,12,16,2,10,18,18,56,1,45,18,49,55,74,233,1,42,32,58,16,189,12,2,29,1,23,10,13,52,76,228,144,17,90,77,24,144,1,171,4,5,1,1,17,23,23,1,1,5,39,36,24,13,4,63,45,96,17,4,15,1,44,1,14,65,5,75,3,185,3,151,25,8,16,25,1,1,1,4,22,17,29,6,4,17,6,4,15,5,13,6,4,7,51,21,1,13,5,15,25,34,49,70,18,29,12,55,5,42,109,21,183,44,17,74,20,16,51,6,21,32,21,10,129,59,4,20,5,1,18,2,8,23,45,96,35,8,82,18,170,19,2,16,10,4,11,1,13,168,72,86,1,11,1,1,1,20,5,1,7,1,16,2,7,3,1,38,1,21,11,4,1,12,8,11,18,45,23,3,1,1,4,1,6,2,4,1,13,7,6,7,13,1,26,2,6,34,16,1,20,2,6,3,5,19,2,25,85,13,8,15,6,11,3,129,20,1,55,74,30,36,2,62,17,22,5,20,38,28,82,56,23,26
 Population Administration Information System	10714
 Population Affected	1828
 Population Aged	16921
@@ -822,9 +837,10 @@ Population Density Montserrado	16921,193
 Population Density Ohangwena	12383
 Population Development ISAP Initial Strategic Action	17116
 Population Direction Régionale	17978
-Population Distribution	12383,4533,5,1554
+Population Distribution	12383,4533,5,1554,429
 Population Division	3583,7131,290,465,495,174,1193,57,3486
 Population Division WASH Water Sanitation and Hygiene	14896
+Population Dynamics	18951
 Population Déchets Solides Municipaux Enquête Harmonisée	17978
 Population Education	11560
 Population Ensemble	13300
@@ -859,6 +875,7 @@ Population Literacy Ability	16852
 Population Légale du Royaume du Royaume du Maroc	17464
 Population MTACMM Ministère des Transports	15580
 Population Management Services	1731,1233,3465
+Population Management and Secure ID System SIM	18931
 Population Mise	9668
 Population NTIC	15423
 Population Nawa	747
@@ -872,7 +889,7 @@ Population Policies	970,14530
 Population Policy	12962
 Population Population	12006,5890
 Population Projection	10765,10,3230
-Population Projections	7548,6457
+Population Projections	7548,6457,4946
 Population Projections Report. National Statistics Office	12175
 Population Pyramid	12151,4770
 Population Pyramid of Kenya	12151
@@ -892,6 +909,7 @@ Population Registry	10812
 Population Resident	16921
 Population Resilience Action Plan Objective	17018
 Population San-Pédro	747
+Population Scale for Digital Transformation	19063,1
 Population Sciences	13454
 Population Services International	1824
 Population Services International PSLS	15475
@@ -908,7 +926,7 @@ Population Studies and Research Institute	12138
 Population Summary	18706
 Population Summary By County	18706
 Population Surface	16921
-Population Totale	2624
+Population Totale	2624,16419
 Population Trend	16921
 Population UNHCR	10874
 Population UNICEF	15423,2868
@@ -928,7 +946,7 @@ Population and Health Support Project	18104
 Population and Health Survey	14023
 Population and Health Survey. Government-wide IFMIS	13966
 Population and Housing	10765,10
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38,463,110
 Population and Housing Census Affar	14005
 Population and Housing Census Country Level	14005
 Population and Housing Census Dire Dawa	14005
@@ -937,6 +955,7 @@ Population and Housing Census Gambella	14005
 Population and Housing Census Harari	14005
 Population and Housing Census Main Report	12963,155
 Population and Housing Census Main Reports	14005
+Population and Housing Census QLFS Quarterly Labour	18951
 Population and Housing Census SNNPR	14005
 Population and Housing Census and National Energy Use	12551
 Population and Housing Census for Affar Region	14005
@@ -951,6 +970,7 @@ Population and Sampling Units	17043
 Population and Sex Ratio	16921
 Population and Social Affairs	18198
 Population and Social Statistics	11237,52
+Population and Vital Statistics	19099,1
 Population des Femmes	13300
 Population des Hommes	13300
 Population du Burundi	2624
@@ -990,6 +1010,7 @@ Populations	7337,5963,590,1069,598,66,102,1197,1371,19
 Populations Rwanda	12413
 Populatkln	11517
 População	4044,3622,3111,613,26,2,3,25,14,63,34,5,7,8,260,3857,1318,166,1579,5,1,5,15,29
+População Adulta	19014
 População Censo População IC Incluído Omitido	11421
 População Chave	18768
 População Deficiente	15694
@@ -1011,6 +1032,7 @@ Practical Guide for Population and Housing Censuses	16434
 Prefecture Health Districts Population	10829
 Presidente da Assembleia Nacional Popular	11561
 Presidente da Assembleia Nacional Popular da Guiné-Bissau	15403,664
+Presidente da República Popular da China	18958
 Productive Population	15059
 Productive Population URL	15059
 Productive and Healthier Population	11469
@@ -1060,7 +1082,7 @@ Region Region Population Poverty Rate Moderate	18104
 Region SSA Population	12487
 Regional Institute for Population Studies	9312
 Registered Total Population	13095
-Registre National Biométrique des Populations	17900
+Registre National Biométrique des Populations	17900,1177,8
 Registre National des Populations	17859
 Regular Population	16921
 Relatório Censo Populacional	11422
@@ -1068,7 +1090,8 @@ Relevance Popularity Year	9441
 Republic of Madagascar Ministry of Population and Solidarity	14553
 República Democrática Popular Lao	6613
 República Popular China	17271
-República Popular da China	3519,1235,3884,1356,1570
+República Popular da China	3519,1235,3884,1356,1570,7394
+República Popular da China. Durante	18958
 Resident Population	10714
 Review of Population	11986
 Rights of Indigenous Populations	8485
@@ -1116,11 +1139,15 @@ Second General Population and Housing Census	16293
 Secretary National Population Data Management	14503
 Selon le World Population Review	4325
 Service POPIA Protection of Personal Information Act	11196
+Service des Mouvements de Population	18926
 Serving Refugee CBK Populations	12297
 Serving Refugee Population	12297
 Sex Distribution of Household Population Senior Secondary	18441
 Sexo da População Inquirida	18768
 Seychelles National Population Database	10714
+Seychelles Population Estimates	18989
+Seychelles Population and Housing Census	18951
+Seychellois Resident Population Only	18989
 Siasa ADVERTISEMENT ADVERTISEMENT Most Popular	9646
 Sierra Leone Population and Housing Census Updated	18441
 Situation of Children and Vulnerable Population Arising	15604
@@ -1149,6 +1176,7 @@ Study Population and Sample Size	10919
 Study Population and Sampling Target Population	14666
 Sub-Saharan Africa Population	12204
 Support the Ministry of Health and Population	15725
+Système Intégré de Gestion des Populations	19201
 T Statistics Namibia Population System	12327
 TERRITOIRE ET DE LA POPULATION	17829
 Target Population and Statistical Units The Business	15085
@@ -1194,7 +1222,7 @@ United Nations Population Division's World Population	18777
 United Nations Population Division. Review	11572
 United Nations Population Division. World Urbanization	17870
 United Nations Population Division’s World Urbanization	11964
-United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262,167,169,190,7,16,78,7,438,582,75,754,143,17,669,1138,58,30,7,47,2,61,48,478,203,646,77,6,94
+United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262,167,169,190,7,16,78,7,438,582,75,754,143,17,669,1138,58,30,7,47,2,61,48,478,203,646,77,6,94,331
 United Nations Population Fund Country	15039
 United Nations Population Fund UNICEF	16951
 United Nations Population Fund UNICEF United	11586
@@ -1236,10 +1264,12 @@ World Population Prospects	10714,255,35,465,426,69,195,46,146,4,132,844,767,1501
 World Population Prospects. Volume-II	12138
 World Population Pyramids	18091
 World Population Report	12962
+World Population Review. AGRICULTURE ENVIRONMENT	18910
 World Population Review. DR Congo	11994
 WorldPop Population	10763,1243
 Y BANQUE POPULAIRE MAROCO-GUINEENNE BPMG	16623
-Year Population	12151,5006,348
+YEAR POPULATION	19099
+Year Population	12151,5006,348,1594
 Year Population No	4217
 Year Value Indicator Name Population	6928
 Years Age-group Population Pyramid	12413

@@ -1,7 +1,7 @@
 APROVA A LEI DO SISTEMA NACIONAL	7338
 ASSEMBLEIA NACIONAL Lei	11365,4724,2675
 Achada Leitão Baixo	15388
-Actualização da Lei	18796
+Actualização da Lei	18796,173
 Agosto. Lei	12311
 Alexander Leipziger	14897
 Alteração da Lei	18764
@@ -12,7 +12,7 @@ Anton Leicht	5257
 Aplicação da Lei Penal	18751
 Aplicação da Lei Penal Artigo	18751
 Aprovado Regulamento Geral da Lei da Terra. PARTE	11527
-Aprovação da Lei da Estratégia Nacional de IA	18796
+Aprovação da Lei da Estratégia Nacional de IA	18796,173
 Aprovação da Proposta de Lei	15396
 Aprovação de Propostas de Lei	15396
 Assembleia Nacional Lei	539,10826
@@ -48,7 +48,7 @@ Decreto Lei	11530,7323
 Decreto Lei Nacional	18763
 Decreto Lei No	11525
 Decreto Lei Nº	11557
-Decreto- Lei	15694,218
+Decreto- Lei	15694,218,2984
 Delgado Teixeira A Proposta de Lei da Cibersegurança	9258
 Desenvolvimento Local. II. Aprovação de Propostas de Lei	15477
 Desenvolvimento da Educação Lei de Bases	10766
@@ -182,7 +182,7 @@ Lei Orgânica. Artigo	16089
 Lei Orgânicas	16089
 Lei Penal	539,255,10569,7398
 Lei Processual Penal. CAPÍTULO IV ELEMENTOS	549
-Lei SAFE	18798,55
+Lei SAFE	18798,55,92
 Lei Salvo	11582
 Lei San	18761
 Lei Sobre	13
@@ -254,11 +254,12 @@ Lei de Florestas	18760
 Lei de Governo Digital de Angola	11461
 Lei de IA da UE	3519
 Lei de Inteligência Artificial	3519
+Lei de Interoperabilidade	18945
 Lei de Interoperabilidade. Em	18788
 Lei de Liberdade Religiosa	12795
 Lei de Modernização Administrativa	16028
 Lei de Observação Eleitoral	5791
-Lei de Organização	18796
+Lei de Organização	18796,173
 Lei de Organização Judiciária	6462
 Lei de Paridade	11562
 Lei de Prevenção	11386,18
@@ -267,7 +268,7 @@ Lei de Programação Militar	17100
 Lei de Protec	18758
 Lei de Protecção	539,2277,1330,7272,7349,5
 Lei de Protecção de Dados	2816,3893,186
-Lei de Protecção de Dados Pessoais	539,1898,1,378,1330,1645,2368,2283,1046,2773,4535
+Lei de Protecção de Dados Pessoais	539,1898,1,378,1330,1645,2368,2283,1046,2773,4535,173
 Lei de Protecção de Dados Pessoais Luanda	5791
 Lei de Protecção de Dados Pessoais. A IA	18796
 Lei de Protecção de Dados Pessoais. Artigo	18758
@@ -277,7 +278,7 @@ Lei de Protecção de Informações Pessoais	3519
 Lei de Protecção de Redes	4146,6625
 Lei de Proteção	12820
 Lei de Proteção de Dados	2690
-Lei de Proteção de Dados Pessoais	17670,1109,9
+Lei de Proteção de Dados Pessoais	17670,1109,9,157,1
 Lei de Proteção de Dados Pessoais de Portugal	15509
 Lei de Radiodifusão	12833
 Lei de Revisão	12775
@@ -397,7 +398,7 @@ Projecto de Lei de Alteração da Lei	5791
 Projecto de Lei de Alteração da Lei da Protecção de Dados	6847
 Projecto de Lei de Autorização Legislativa	8308
 Projectos de Lei	18773
-Projeto de Lei	11583,7205
+Projeto de Lei	11583,7205,157
 Proposta da Lei da Segurança Cibernética	2816
 Proposta da Lei de Crimes Cibernéticos	2816
 Proposta da Lei de Direitos Digitais	2816

@@ -77,6 +77,7 @@ Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177
 Corona Virus Disease	12175
 Coronavirus Disease	2775,4057,3931,2569,3104
 Coronavirus Disease CPF Country Partnership Framework	18293
+Crop Disease	18904
 Culture Sensitive Mental Health Support Disease	15713
 DA DISEEMBAR	15047
 DISE Dispositif	15961
@@ -94,7 +95,7 @@ DiSEP	18286
 Diarrheal Disease	15247
 Diarrhoeal Disease	13454
 Directorate of Disease Surveillance	11912
-Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185
+Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185,276
 Disease Annual Epidemiology	16922
 Disease Annual Epidemiology Electronic	16922
 Disease Annual Epidemiology Epidemiology and Health	16922
@@ -127,7 +128,7 @@ Disease Surveillance Systems Enhancement Project RIP	11380
 Disease The Borrower	1988
 Disease-2019 DPI Digital Public Infrastructure DPGA	12241,839,15
 Disease-specific	771,9198
-Diseases	4674,7477,1378,3406,36,143,1569
+Diseases	4674,7477,1378,3406,36,143,1569,416
 Diseases Arrest	12151
 Diseases Cancer	12151
 Diseases Cardio Pul-	12151
@@ -217,6 +218,7 @@ LEPROSY AND LUNG DISEASES	14546
 La DISER	15685
 Liberia NTD Neglected Tropical Diseases NUT	17289
 Liver Diseases	12151
+Livestock Disease	18904
 Lysosomal Storage Diseases Brazil Network and Hospital	10188
 MANAGEMENT OF VECTOR BORNE DISEASES	14773
 MEAN DISEMPOWERMENT SCORE AMONG DISEMPOWERED	17127

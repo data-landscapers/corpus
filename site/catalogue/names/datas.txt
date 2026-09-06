@@ -32,15 +32,19 @@ Datascientest.com	3724
 Datasec Limited Data Controller INST-9632430615D NAIROBI	7167
 Datasec Limited Data Processor INST-9632430615D NAIROBI	7167
 Dataserv	10140
-Dataset	1232,582,444,2631,2659,41,201,511,2413,156,3856,205,783,697,531,1583,42,3
-Dataset Added	14141,1091
+Dataset	1232,582,444,2631,2659,41,201,511,2413,156,3856,205,783,697,531,1583,42,3,334,242
+Dataset Added	14141,1091,3848
 Dataset Average	16266
 Dataset Avg	16266
 Dataset Completion	4528,7984
+Dataset D. Place	18904
 Dataset Documentation The International Research Institute	14900
+Dataset E. Data	18904
 Dataset File	15593
+Dataset J. Metadata	18904
+Dataset Provider	18904
 Dataset Terms. The Somali National Bureau	14931
-Datasets	2816,1045,3929,1832,1108,604,229,2443,925,547,236,527,916,820,61,487
+Datasets	2816,1045,3929,1832,1108,604,229,2443,925,547,236,527,916,820,61,487,379
 Datasets Entities	15714
 Datasets Monetary and Financial Statistics External Sector	14777
 Datasets Terms	14931
@@ -67,12 +71,13 @@ FINANCIAL MANAGEMENT DATASHEET	13856
 Fidelity TABLE OF CONTENTS DATASHEET	6539
 Five MDAs Share Dataset Inventories	18442
 Frequency Annual Datasource Relevant	15553
+Geo-spatial Dataset	18904
 Global Dataset	10819
 GovTech Dataset	11867
 Guiné Bissau. Datas Importantes	17308
 Hassaniya Dialect Datasets	17977
 HuggingFace Datasets	18038
-Humanitarian Dataset	14141,1091
+Humanitarian Dataset	14141,1091,3848
 IATI Datastore	91,57,1007,1084,1
 IATI Datastore API	6982
 ID4D Dataset	11919
@@ -80,11 +85,13 @@ ID4D GLOBAL DATASET	10714
 ID4D Global Dataset	10714,61,1092,52,5023
 IMF Investment and Capital Stock Dataset	16996
 International Dataset Groups Activity Stream Crop	16466
+LICENSEE. Datasets	18904
 Lakh MIDI Datasets	17773
 Land Cover Map Dataset Availability	15622
 Land Cover and Land Use Change Dataset	16463
 Microwave and Optical Satellite Dataset. Quaternary	14769
 Million Song Dataset and GTZAN Genre Collection	17773
+Name and Description of Dataset	18904
 National Agricultural Dataset	12512
 National Agricultural Dataset and National Health	4528
 National Foundational Datasets	4528,7984

@@ -100,6 +100,7 @@ FICHIER Leer LEGISLATIVE	10974
 FICHIER NATIONAL DES ELEVES	15639
 FICHIERS ADMINISTRATIFS Article	785
 FICMC	11654
+FICSA	18988
 FICSOC	5532
 Fact and Fiction	15881
 Ficam	539,10821,8,62,1,470,3457,34,41,121,401,67,34,1044,1649,3,8,38,55
@@ -144,7 +145,7 @@ Fiches C	10876
 Fiches DG	10876
 Fiches Projet	17860
 Fiches Prépare	10876
-Fichier	436,311,484,2078,72,373,1363,6,822,437,3826,324,293,1266,20,1264,1994,60,3,56,7,7,82,52,3,83,5,272,250,392,1181,9,114,156,18,191
+Fichier	436,311,484,2078,72,373,1363,6,822,437,3826,324,293,1266,20,1264,1994,60,3,56,7,7,82,52,3,83,5,272,250,392,1181,9,114,156,18,191,616
 Fichier Automatisé de Recherche	16143
 Fichier Central	14653
 Fichier Electoral Biométrique	18101
@@ -157,6 +158,7 @@ Fichier Régional du RCCM	15495
 Fichier TES	10714
 Fichier Unique	4420,12265
 Fichier Unique de Reference	15631
+Fichier Villages	18926
 Fichier de Données	16617
 Fichier de Référence	16365
 Fichier de Référence International des Fréquences	17866

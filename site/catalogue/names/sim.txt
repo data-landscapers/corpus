@@ -435,6 +435,7 @@ Mr. Simon R. Karbah	16853
 Mr. Simphiwe Khumalo General Manager	12969
 Mr. Simula Kamara	16848
 Mr. Simulu Kamara	16853
+Mrs. Simone Didon	18954
 Ms. Bakare Simbiat	8713
 Ms. Lisa Simrique Sing	14767
 Ms. T Simelane	11285
@@ -510,6 +511,7 @@ Perceptions of SIM	4439
 Phase Out Unregistered SIMs	8416
 Physiques SIMEN Système	18290
 Pinnagnè Simplice BADO	7670
+Population Management and Secure ID System SIM	18931
 Portal SIMPLIFICA	11442
 Portal Simplifica	11442
 Postpaid Active SIM	1944
@@ -567,6 +569,7 @@ Regulation Governing SIM Card Registration	1840
 Regulatory Authority SIM Subscriber Identity Module	718
 Reino Unido Sim Avançado Sim	2816
 Republic ICCPR. Similarly	17950
+Republic of Chad SIM Subscriber Identity Module	18887
 Republic of South Africa. Simplified	11953
 Research Science and Technology Simeon Hamukoshi Strategic	5036
 Retransmission Simultaneous	13951
@@ -580,6 +583,7 @@ Route Server Service Simplify	13704
 Router and SIM	12769
 Rwanda's SIM-registration	1840
 Rwanda. Simple	12379
+Réformer la SIMATRAC	18988
 Régime Simplifié	15614
 Régulation des SIM. Télécommunications	18032
 Rüegg Simon R. Learning	14666
@@ -637,7 +641,7 @@ SIM Toolkit	17730
 SIM Waste	3003,962
 SIM Zamani	18204
 SIM Zamani Télécom	18204
-SIM ba	3064,473,459,649,11093
+SIM ba	3064,473,459,649,11093,3162
 SIM da CST	18791
 SIM de Muni	17029
 SIM-Card Registration	13313
@@ -729,6 +733,7 @@ SIMR Activité	17845
 SIMR DSGHP ETAT	17845
 SIMR Surveillance	17843
 SIMR. III.2.4.7. Processus	15685
+SIMS Hospital	19058
 SIMT DNTH	17842
 SIMULATEUR DE COMBAT	17982
 SIMVASTATINE SIMVASTATINE FENOFIBRATE ATORVASTATINE	15930
@@ -852,7 +857,7 @@ Similarity-based	8605
 SimilarityBetweenTwoPatients Require	8606
 Similarityalgorithmsforfuzzyjoincomputationinbigdata	8606
 Similarityscoresareconvertedintodistances	8606
-Similarly	10,226,335,196,4,187,3,258,144,191,76,8,174,12,4,23,16,73,40,8,108,191,217,1,172,25,73,401,207,59,16,29,96,21,155,103,56,1,1,35,128,43,69,106,131,85,66,142,7,116,15,33,16,60,8,53,80,28,74,27,5,93,23,15,25,195,57,22,23,2,211,273,108,31,12,49,91,62,132,12,15,238,2,9,1,30,19,99,21,116,70,285,8,82,17,53,15,73,50,136,52,16,77,116,6,12,75,60,24,13,26,11,78,39,20,56,44,81,159,128,8,104,389,93,10,9,11,230,80,139,82,43,284,117,4,45,2,3,7,4,6,44,12,11,4,3,2,58,41,3,1,13,3,5,12,7,1,23,8,14,55,26,2,1,1,5,12,2,41,16,17,2,7,10,24,265,42,7,11,54,210,3,4,1,11,21,2,7,7,2,6,3,1,26,2,8,26,4,8,1,34,17,8,28,48,13,20,30,9,4,32,9,1,6,10,6,15,4,22,9,11,20,10,7,9,14,4,6,4,6,12,10,4,88,1,7,96,37,222,21,5,24,2,8,6,16,1,26,19,13,2,1,13,49,25,58,125,4,18,15,40,5,5,21,37,6,71,149,4,225,28,22,25,19,119,3,151,157,90,22,17,3,19,138,52,61,38,5,17,1,25,10,53,12,23,3,16,17,8,16,5,35,16,21,7,80,77,90,13,23,13,11,2,5,40,1,55,30,17,37,3,2,50,30,176,225,1,17,104,388,198,20,2,2,7,3,10,6,14,5,1,4,16,1,7,1,7,2,11,1,3,3,18,15,32,37,24,1,9,4,7,2,11,11,44,35,7,22,59,1,50,12,37,5,49,69,197,7,13,24,89,1,14,22,280,31,26,50,25,52,74,4,8,5,3,14,9,1,15,5,56,213,32,42
+Similarly	10,226,335,196,4,187,3,258,144,191,76,8,174,12,4,23,16,73,40,8,108,191,217,1,172,25,73,401,207,59,16,29,96,21,155,103,56,1,1,35,128,43,69,106,131,85,66,142,7,116,15,33,16,60,8,53,80,28,74,27,5,93,23,15,25,195,57,22,23,2,211,273,108,31,12,49,91,62,132,12,15,238,2,9,1,30,19,99,21,116,70,285,8,82,17,53,15,73,50,136,52,16,77,116,6,12,75,60,24,13,26,11,78,39,20,56,44,81,159,128,8,104,389,93,10,9,11,230,80,139,82,43,284,117,4,45,2,3,7,4,6,44,12,11,4,3,2,58,41,3,1,13,3,5,12,7,1,23,8,14,55,26,2,1,1,5,12,2,41,16,17,2,7,10,24,265,42,7,11,54,210,3,4,1,11,21,2,7,7,2,6,3,1,26,2,8,26,4,8,1,34,17,8,28,48,13,20,30,9,4,32,9,1,6,10,6,15,4,22,9,11,20,10,7,9,14,4,6,4,6,12,10,4,88,1,7,96,37,222,21,5,24,2,8,6,16,1,26,19,13,2,1,13,49,25,58,125,4,18,15,40,5,5,21,37,6,71,149,4,225,28,22,25,19,119,3,151,157,90,22,17,3,19,138,52,61,38,5,17,1,25,10,53,12,23,3,16,17,8,16,5,35,16,21,7,80,77,90,13,23,13,11,2,5,40,1,55,30,17,37,3,2,50,30,176,225,1,17,104,388,198,20,2,2,7,3,10,6,14,5,1,4,16,1,7,1,7,2,11,1,3,3,18,15,32,37,24,1,9,4,7,2,11,11,44,35,7,22,59,1,50,12,37,5,49,69,197,7,13,24,89,1,14,22,280,31,26,50,25,52,74,4,8,5,3,14,9,1,15,5,56,213,32,42,80,6,18,34,110
 Similarly Kongaut	15424
 Similarly PA8c	10779
 Similarly for Discover	13461
@@ -913,6 +918,7 @@ Simon Tiemtoré	18507
 Simon and Schuster	3782
 Simona Dobre	11156
 Simone	15780
+Simone Baccus	19049
 Simone Carr-Cornish	11006
 Simonetti D	16463
 Simonne Ndjebet Yaka Jesse Doyle B	15601
@@ -959,7 +965,7 @@ Simplice Mathieu SARANDJI	1300
 Simplice Mathieu Sarandji	2971,1260
 Simplice Rufi	15455
 Simplicidade	11430,33,4564
-Simplicity	8130,1932,911,5953,188
+Simplicity	8130,1932,911,5953,188,1790
 Simplicité	10711,5402
 Simplifica	10765,10
 Simplifica Turismo	11445,13
@@ -1009,7 +1015,7 @@ Simplified Trade Regime	13440
 Simplified Trade Regime The Simplified	13563
 Simplified Version KICTANet	3162
 Simplified Visa Regime	12389
-Simplifier	1896,7602,3843,1142,1059,394,2361,22
+Simplifier	1896,7602,3843,1142,1059,394,2361,22,641,28
 Simplifies	3236,3196,1540,2793,10
 Simplifiée	7800
 Simplifiées Unipersonnelle	15786

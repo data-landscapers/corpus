@@ -85,6 +85,7 @@ C. Status of Project Components	15802
 CAGR Compound Annual Growth Rate CCG	1818
 CAGR Compound Annual Growth Rate CapEx	10781,1646,2055
 CAPÍTULO II COMPOSIÇÃO	4147
+CAR Chad Component	18887
 CAR Component African Development Bank	174
 CDI Composite Drought Index CDI Composite	17157
 CEMAC Composante	16250
@@ -130,7 +131,7 @@ COMPONENT Within	17157
 COMPONENTES COM ACTIVIDADES QUE POSSAM GERAR	11542
 COMPONENTES DO PROJECTO	11542
 COMPONENTES DO PROJECTO E ASSISTÊNCIA TÉCNICA	11390
-COMPONENTS	11965,1945,1107,14
+COMPONENTS	11965,1945,1107,14,4052
 COMPONENTS Component	13859,57,1,1820
 COMPONENTS Current Component Name Current Cost	1284,15612,26,1437
 COMPONENTS DEFINED SN Type	7845
@@ -222,7 +223,8 @@ Compoment	15372
 Compoment Total Component Categories Funding	15372
 Compoment Total Component Category Funding	15372
 Componenente	11542
-Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4,142,189,8,49,5,4,97,48,74,40,5,2,10,26,93,11,44,8,8
+Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4,142,189,8,49,5,4,97,48,74,40,5,2,10,26,93,11,44,8,8,62,46
+Component Activity	18887
 Component Activity Output Outcome Strengthening	18293
 Component Area	18478
 Component B	5370,8284,77
@@ -317,6 +319,7 @@ Components Not Categorized Indicator Name Classrooms	16436
 Components Organizations Borrower	3562
 Components PBC Baseline End Target RESULT FRAME TBL	13331
 Components Page	11971,3167,520,1,84,444
+Components Power System and Network Strengthening	19083
 Components RESULT FRAM E TBL IO Indicator Name PBC	15518
 Components RESULT FRAME T BL IO DLI Baseline	11855
 Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545,2503,2221,1343,26
@@ -368,8 +371,8 @@ Comportementales	2625
 Comportements	13300,4800
 Comportements Que Je N'ai Jamais Vus	4960,62,2035
 Comporter	13781
-Composant	16012
-Composante	1649,3721,5510,1163,1600,89,692,1,63,1,1,49,1,859,266,81,155,35,76,201,37,371,12,8,5,35,42,1120,30,110,152,24,165,102
+Composant	16012,2930
+Composante	1649,3721,5510,1163,1600,89,692,1,63,1,1,49,1,859,266,81,155,35,76,201,37,371,12,8,5,35,42,1120,30,110,152,24,165,102,516
 Composante B	5370
 Composante C	5370
 Composante Compétences	15901
@@ -385,6 +388,7 @@ Composante Mauritanienne	17984
 Composante Niger du Projet	3989
 Composante Numérisation	13635
 Composante SIS	17845
+Composante Tchad. Par	19070
 Composante3	17873
 Composantes	5370,3521,2074,2335,90,2084,68,13,165,46,135,35,1883,41,452
 Composantes Score	14622
@@ -403,6 +407,7 @@ Compose	6997
 Composed	3791,14079
 Composer	11209,2181
 Composez	18284
+Composi	18896
 Composición	16898,71
 Composilion	15429
 Composite	9129,2140,27,3519,212,137,561,1374,15,13,1506,121
@@ -414,7 +419,7 @@ Composite Indicator Index and Threshold Tables Final	13868
 Composite Micro Utility License	16978
 Composite Score	2957
 Composite Video	34
-Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522,557,3,21,55,1,1,3,44,57,70,72,8,46,70,2,1,33,131,29,46,307,179,70,89,101,88,101,10,56,142,370,1,4,5,208,54,109,120,324,87,292,244,249,81,44,30
+Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522,557,3,21,55,1,1,3,44,57,70,72,8,46,70,2,1,33,131,29,46,307,179,70,89,101,88,101,10,56,142,370,1,4,5,208,54,109,120,324,87,292,244,249,81,44,30,683,11
 Composition Art	16879
 Composition Comité de Pilotage des Projets TIC	13290
 Composition Comités Directeurs Interministériels	13290
@@ -468,7 +473,7 @@ Composition of Town	18465
 Composition of Township	13189
 Composition of Tribunal	12549
 Compositional-based	15027
-Composição	13,154,1971,1906,2926,3784,1,22,582,14,10,38,95,2,9,1,41,1201,53,2536,32,42,17,27,435,2839,11,11,27
+Composição	13,154,1971,1906,2926,3784,1,22,582,14,10,38,95,2,9,1,41,1201,53,2536,32,42,17,27,435,2839,11,11,27,95
 Composição Artigo	15526,3225
 Composição O Comité	18772
 Composição da Codificação	11409
@@ -481,7 +486,7 @@ Compost Production	17157
 Composta	3519,12045
 Composting	15206,1837
 Composto	10749,8024
-Composé	2342,8047,6138,100,1770,35
+Composé	2342,8047,6138,100,1770,35,556
 Composée	10272,5729
 Compound	11129,1965,2278,99,2628
 Compound Annual Growth Rate	9759,1452,948,1187,2558
@@ -489,7 +494,7 @@ Compound Public Pension	14997
 Compounded	15027
 Compounded Reference Rate	16219
 Compounded Reference Rate for USD and JPY	16219
-Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651,1212,277,35,1776,11,2,192,3609
+Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651,1212,277,35,1776,11,2,192,3609,362
 Compounding Methodology Supplement	16219
 Compr Component	17219
 Compra Component	17219
@@ -502,7 +507,7 @@ Continency Emergency Response Component	13331
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622
 Contingency Emergency Response Component. Following	14576
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -541,6 +546,7 @@ DE LA COMPOSITION ET DE L’ORGANI	18106
 DE LA COMPOSITION ET DES MODALITES	15439
 DE LA COMPOSITION ET DES Tout	15439
 DE L’ORGANISATION ET DE LA COMPOSITION	15420
+DECRET PORTANT ATTRIBUTIONS COMPOSITION ET FONCTIONNEMENT	19205
 DEEE Composés	14423
 DELIVERY COMPONENT	11129
 DES MISSIONS ET DE LA COMPOSITION	18101
@@ -552,7 +558,7 @@ Daily Non-Cumulative Compounded RFR	16219
 Data Collection Data Collection Framework Component	4528,7984
 Data Exchange Component	2709,5592,633
 Data Model Imeasurements Component Index	12006
-Date Component	13392
+Date Component	13392,5495
 Description Component	416,374,181
 Description Component Review Type Method and Recommendation	17180,39
 Description Component of FCDO's Somalia Monitoring Programme	650
@@ -662,6 +668,8 @@ IA. Composante	14539
 IBRD Gov't Total Component	15411
 ICR DOCUMENT Component	16436
 ICT Steering Committee Composition	2779
+ICT. Component	18887
+ICT. Component Activity	18887
 ICs. Component	15019
 IDPs. Compounding	10841
 IFC Collaboration No Components Component Name	18198
@@ -1036,8 +1044,8 @@ Target Achieved PDO Level Indicator Component	18825
 Tarif Observation Composition	17833
 Tax Rate and Composition	17011
 Tax Revenue Composition	10997
-Team Composition	11869,72,3431,3088
-Team Composition AFRICA	15372
+Team Composition	11869,72,3431,3088,427
+Team Composition AFRICA	15372,3515
 Team Composition SurveyCTO	18460
 Team Composition and Task Assignments Professional Staff	13037
 Technical Assistance Component	13054
@@ -1052,6 +1060,7 @@ Transporte Componente Especificação Situação Transporte TCP	18774
 Técnico da Difusão COMPOSIÇÃO	10757
 UGP for Component	17441
 UNECA Compound	14131
+USD Composante	18942
 Uganda. Components	394
 Un Composante	15901
 Unannualised Cumulative Compounded Daily Rate	16219

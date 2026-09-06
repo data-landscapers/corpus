@@ -4,6 +4,7 @@ ABC Journey. Draft Acts and Codes	14072
 ABREVIATIONS ET CODES	15475
 ABREVIATIONS ET CODES ABPF	15475
 AI Code of Practice	7548
+AI Code of Practice for Schools	19079
 AI Patent Granting System Code Action	15713
 AICT100 Code	11235
 AICT102 Code	11235
@@ -40,6 +41,7 @@ Africa Code Week	15480,1970
 Africa. CODESRIA	9739
 African Coding Week	1814
 African Girls Can Code Initiative	13547
+African Republic CDMA Code Division Multiple	18887
 Age-Appropriate Design Code	7983
 Align Sierra Leone’s Grid Code	18537
 All Code Countries	14997
@@ -245,6 +247,7 @@ Centre National de Promotion Code des Investissements	17817
 Centre National de Transfusion Sanguine CODIR	15423
 Certified Electronic Billing Machine Investment Code	14997
 Chad's Labor Code	10841
+Chadian Penal Code	18930
 Chairman Code of Conduct Bureau	1014
 Chairman Code of Conduct Tribunal	1014
 Challenge CODAN MCA-COD-ENV- Conforme Account	998
@@ -259,6 +262,7 @@ Chipboard Price Code	13385
 Civil Aviation Code and Decree No	18309
 Civil Code	27,1833,10286,15,32,8,25,68,1691,23,667,68,35,278,417,45
 Civil Code Preemption	15473
+Civil Code of Seychelles Act	18883,35,219,1
 Civil Code. MINALOC	12413
 Civil Code. Yet	15473
 Civil Procedural Code	12161
@@ -315,7 +319,7 @@ Code Destination Code Subscriber Number	16934
 Code Destination Code Subscriber Number Table	16934
 Code Detail Record	5173
 Code Direction Nationale des Industries	17817
-Code Division Multiple Access	16942
+Code Division Multiple Access	16942,1945
 Code Division Multiple Access WHO World	718
 Code Domanial	17812,5
 Code Editor	15622
@@ -331,7 +335,7 @@ Code For Africa	6055
 Code Général	15361,686,1770,421
 Code Général des Collectivités Territoriales	18096
 Code Général des Collectivités Territoriales Décentralisées	10981,4488,726
-Code Général des Impôts	4420,147,1889,4256,266,2794,1577,184,264,202,21,308,1489,23,431
+Code Général des Impôts	4420,147,1889,4256,266,2794,1577,184,264,202,21,308,1489,23,431,702
 Code Général des Impôts. Article	15418
 Code Général des Impôts. La Taxe de Soutien	3045,12712
 Code Général des Impôts. Sont	18271
@@ -397,8 +401,9 @@ Code Wilaya Wilayas Nombre Moughataas Nombre	17902
 Code Yo Maali Yo	9223
 Code and Continuity	12131
 Code and Disclaimer	17114
+Code de Bonne Gouvernance	18988
 Code de Bonnes Pratiques des Statistiques Européennes	17474
-Code de Commerce	13828,889,3100
+Code de Commerce	13828,889,3100,1099
 Code de Conduite	14431,57,1,1
 Code de Douanes	4567
 Code de Déontologie	14537,1094,47,100
@@ -485,7 +490,7 @@ Code du Commerce URL	17847
 Code du Guichet Unique	17817
 Code du Marché	16037
 Code du Numérique	7470,2352,5753,8,561,59,238,32
-Code du Numérique URL	15584
+Code du Numérique URL	15584,3543
 Code du Numérique du Bénin	10822
 Code du Numérique. Article	16203
 Code du Réseau	17894
@@ -499,6 +504,7 @@ Code du Travail. L'ASSEMBLEE NATIONALE ET	15598
 Code du Travail. Le Vice-Président	18327
 Code du Travail. Paragraphe	18288
 Code du Travail. Sous-section	1231
+Code du Travail8	18930
 Code for Africa	6055,9287
 Code for AfricaFollow6	6055
 Code for Africa’s DataLab	6055
@@ -513,7 +519,7 @@ Code of Conduct for Council Members	14736
 Code of Conduct for Council Members. The Mauritius	14736
 Code of Conduct for Data Protection Compliance Organisations	11956
 Code of Conduct for Legal Practitioners	17330
-Code of Conduct for Responsible Fisheries	14447
+Code of Conduct for Responsible Fisheries	14447,4538
 Code of Conduct for Supplier's Personnel	13185
 Code of Conduct for Supplier’s Personnel	15080
 Code of Conduct for Workers	1988
@@ -534,11 +540,12 @@ Code of Ethics for Accountants and Auditors	11955
 Code of Ethics for Print	10735,2132,1,1,3923,1,1,1
 Code of Ethics for Public Officers	14835
 Code of Ethics. The CBL	17138
+Code of Federal Regulations	18971
 Code of Forest Harvesting Practices	16843
 Code of Free and Offshore Activities	18797
 Code of GBV	1988
 Code of Good Governance	13868
-Code of Good Practice	5533,6453,909,4005
+Code of Good Practice	5533,6453,909,4005,1993
 Code of Good SOE Governance	13868
 Code of Governance for Corporations Act	6946
 Code of Harvesting Practices	16843,10
@@ -556,6 +563,7 @@ Code of Practice for Interactive Computer Service Platforms	5215
 Code of Practice for Masonry	16900
 Code of Practice for Official Statistics	13993,726
 Code of Practice for Packaging and Transport of Fresh Fruit	16900
+Code of Practice for Schools	19079
 Code of Practice. A Recognition Authority	16832
 Code of Practice. Include	15760
 Code of Practice. PART IX. GENERAL PROVISIONS	16832
@@ -612,7 +620,7 @@ Coder	12478
 Coders Eswatini	4866,2821,4776,660,4469
 Coders and AI Practioners	4866
 CodersEswatini	11667
-Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76,644,4,34,19,36,69,64,2,15,67,22,75,242,958,1005,326,23,144
+Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76,644,4,34,19,36,69,64,2,15,67,22,75,242,958,1005,326,23,144,440
 Codes Add	8603
 Codes Headings	16927
 Codes MFP Mutuelle	13306
@@ -729,14 +737,14 @@ Corporate Income Tax Code	11955
 Council. Code of Ethics The Mauritius Standards	14736
 Country Code	12364,13
 Country Code Top-Level	16872
-Criminal Code	27,931,14,10881,11,297,71,1087,189,1206,1,27,9,88,503,1616
+Criminal Code	27,931,14,10881,11,297,71,1087,189,1206,1,27,9,88,503,1616,1972
 Criminal Code Act of Mauritius. Section	14742
 Criminal Code of Equatorial Guinea	16958
 Criminal Code of The Gambia	17388
 Criminal Code. Main	12232
 Criminal Law Code	972,8279,4060
 Criminal Law Codification and Reform Amendment Act	6951
-Criminal Procedure Code	10979,2424,1058,2869
+Criminal Procedure Code	10979,2424,1058,2869,1553,254,1
 Criminal Procedure Code Law	11857
 Criminal Procedure and Evidence Code	12174,1838
 Cross Discipline Course Development Code T-I20-1	15713
@@ -764,6 +772,7 @@ DGI Codes A1.1.2.2 A1.1.2.3 A1.1.2.4 A1.1.2.6	10858
 DGI Codes Action	10858
 DGI Codes Axes	10858
 DISPENSATION CODE DCI	15930
+DISTRICT CODE DISTRICT CODE Anse Aux	18951
 DOMAINES D’APPLICATION Le Code	17898
 DOSAGE CRITERES DE DISPENSATION CODE DCI	15930
 Dailing Categories Prefixes Country Code Service	16934
@@ -887,6 +896,8 @@ Expropriation Code	18797
 Extraction and Coding Process Case	7151
 F CFA Code des Investissements	17817
 F-l CODIFIÉ	15399
+FAO Code of Conduct	18984
+FAO Code of Conduct for Responsible Fisheries	18985
 FCFA Code	16047
 FDA Code of Forest Harvesting Practices	16843
 FIFAfrica26 Code of Conduct. The Forum	15265
@@ -933,6 +944,7 @@ Gbalamuya. Upgraded the HS CODE	18500
 General Child Protection Code	17970
 General Code for Local Authorities	18370
 General Code of Conduct	8354
+General Code of Decentralized Territorial Authorities	19093
 General Code of Regional and Regional Authorities	15566
 General Code of Territorial Communities	18305
 General Fiscal Code	18109
@@ -1086,9 +1098,10 @@ Labor Code	10841,7529,427
 Labour Code	10841,1059,261
 Labour Code and Electronic Transactions Law	12161
 Land Registry and Notary Codes	18825
-Le Code	3267,5054,2553,1,1,1056,167,1343,266,76,2009,6,1864,100,131,428
+Le Code	3267,5054,2553,1,1,1056,167,1343,266,76,2009,6,1864,100,131,428,594
 Le Code CIMA	10965
 Le Code Electoral	2808,15502
+Le Code Générale des Impôts	18973
 Le Code des Télécommunications	18288
 Le Code du Numérique	13877,1706
 Le Comité National du Code Rural	18094
@@ -1123,7 +1136,7 @@ L’adoption du Code Général des Impôts	17872
 M UI CODE DCI DENOMINATION COMMUNE	15930
 M. Codioro Moussa N’Guenore	18081
 M. Codioro Moussa N’Guénore	17667
-M.F. Vahid Codjia	7186,910,136,1363
+M.F. Vahid Codjia	7186,910,136,1363,9573
 M.F. Vahid Codjia Lire	16690
 M.F. Vahid Codjia Sur	16701
 MINJEC. CODE Favoriser	15999
@@ -1282,10 +1295,12 @@ PRODIGY CODE DE CONDUITE PRODIGY INTRODUCTION	14424
 PROJECT NAME AND SAP CODE	11863,2075
 PROV NET Code	18032
 PUBLICS. Code	17812
-Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699,224,22,56,5,27,76,1,711,1,145,224,162,1442,1115,648
+Parliamentary Service Code of Conduct	19161
+Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699,224,22,56,5,27,76,1,711,1,145,224,162,1442,1115,648,288,2,32,253
 Penal Code Act	1535,3887,7981
 Penal Code Cap	11857,596,892
 Penal Code Chapter	1988
+Penal Code Protection	18886
 Penal Code Republic Information	12201
 Penal Code of Eritrea	13954
 Per the Djiboutian Nationality Code	13938
@@ -1309,8 +1324,9 @@ Price Code	13385
 Price Code Gr	13385
 Priced Code	13385
 Primarv Ret Code	11180
-Procurement Code	15372
+Procurement Code	15372,3515
 Procurement Code PPE Personal Protective	15518
+Professional Code of Ethics	18930
 Professional Code of Ethics for Inspectors	14113
 Programme CODE	15999
 Programme N CODE LIBELLE DIVERSIFICATION ET	15999
@@ -1329,7 +1345,9 @@ Public Procurement Code. Single Investment Window	11939
 Publicity Code	12294
 Purpose and Scope This Code of Conduct	6432
 QR CODE	13123,2502
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27,131,261,3,537,214,471,56,226,22,1014,344
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27,131,261,3,537,214,471,56,226,22,1014,344,1562
+QR Code Awareness	19007
+QR Code Communautaire. URL	19190
 QR Code GIMACPAY	4208
 QR Code Security	10823
 QR Code VDS	2465
@@ -1429,6 +1447,8 @@ SYSTEM CODES TARIFF PER TRANSACTION PRICING	16844
 Sabur Printing Services CODIFICATION	13963
 Sahel MI NA CODEX STAN	16103
 Sanitation Code	18370
+Scanning the QR Code	19044
+Schools Policy and Code of Practice	19079
 Screwdrivers Price Code	13385
 Scrip Code	12576
 Search Code	13333
@@ -1450,6 +1470,8 @@ Service Code	16934
 Service Code Allocations	16934
 Service Code Allocations Service Code Service	16934
 Sewers Price Code	13385
+Seychelles Code of Civil Procedure	18883
+Seychelles Penal Code. Protection	19173
 Short Code	16934,1551
 Short Code Allocations	16934
 Short Code Format	16934
@@ -1490,6 +1512,7 @@ Swift BIC Codes SWIFT BIC TEST	12364
 System CCV Computer Coded Verbal Autopsy	12413
 System Operation Code Version	11228
 System Operator Code	11228
+São Tomé and Príncipe Data Code Mandatory	18985
 TAX COMPLIANCE SYSTEM PIN CODE	11240
 TAX PROCEDURES CODE	14484
 TEXTES FISCAUX NON CODIFIES	16020

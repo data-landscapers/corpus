@@ -8,6 +8,9 @@ AU ID	2979
 AU Interoperability Framework for Digital ID	7529
 Aadhaar ID	5267
 Access National ID	7763
+Access Your Virtual ID. Once	19041
+Activate ID	19045
+Activate Minor ID	19045
 Adult ID	10714
 Affinity Domain Patient ID XCA Cross-Community	1009
 Africa Digital ID Hackathon	7064
@@ -66,6 +69,7 @@ Bahrain ID Card Yes F25 Aug	10714
 Bank ID	10714
 Batch ID	16843
 Benin Digital ID	10822
+Bezzina Project ID	18887
 Bill ID	8102
 Biometric Digital ID in Africa.pdf	4117
 Biometric ID	1637,637,201,1746,8116,4802
@@ -127,6 +131,7 @@ Cell ID	10747
 Central African Republic Operation ID P179211	15658
 Chad National ID System	10714
 Chief Executive Officer of Margins ID	6941
+Choose Minor ID	19045
 Citation Identification Survey ID	15844
 Citizen Applies for ID	9124
 Citizen ID Card	10714
@@ -273,6 +278,7 @@ Documento ID. Doc	11442
 Documento. ID. Doc	11444,19
 Docusign Envelope ID	14539
 Does the ID	12139
+Download the SeyID Application. Once the ID	19041
 Démographie ID	18422
 E-Houwiya ID	2578
 E-mail I I National ID	736
@@ -458,7 +464,8 @@ ID CODE	17127
 ID CODE ENUMERATOR	17127
 ID CODE NAME MAKE A COMPLETE	17127
 ID Canada	10714
-ID Card	4696,6018,4027,11,38
+ID Card	4696,6018,4027,11,38,4254
+ID Card Act	19040
 ID Card Jun	10714
 ID Card Licences Passport Bank	10819
 ID Card No N	10714
@@ -521,6 +528,7 @@ ID Kenya	10822
 ID Lead	14997
 ID Lebanon National ID System	10714
 ID Legislation	10775
+ID Letter. Once	19041
 ID M	18418
 ID Mali	10714
 ID Management	3027,15447
@@ -679,6 +687,7 @@ ID for All Uganda	2720
 ID for All Uganda’s National Identification and Registration	3285
 ID for Development	17870
 ID for Ethiopia	12281
+ID for GOP	18964
 ID for RTW	5310,286,297
 ID for SIM	4439,1634
 ID of Contact Person Type of Identity	18452
@@ -752,7 +761,7 @@ ID. So	2979,1460,7889
 ID. South Africa	6255
 ID. Specific CR	10775
 ID. Spotlight	10977
-ID. Step	4439
+ID. Step	4439,14606
 ID. Such	4439
 ID. Taba	12748
 ID. The Bill	11977
@@ -942,6 +951,8 @@ Microsoft Teams. Meeting ID	10102
 Ministry of Information. Margins ID	7013
 Ministry of Interior and Margins ID Group	6941
 Ministry of Justicex National ID Agency	10812
+Minor ID	19045
+Minor ID URL	19045
 Missions Article ID	37
 Mobile ID	1278,101,325,165,494,1242,280,29,508,535,19,1,1895,5487,475,1085,797,24,12,38
 Mobile ID Any	14716
@@ -964,6 +975,7 @@ NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NATIONAL DIGITAL ID PROGRAM A Case	12257
 NATIONAL ID	18470
 NATIONAL ID CARD UNIT	14778
+NCGG. Release ID	19133
 NCRA ID	2113
 NCRA's Biometrics Digital ID and National Identification	2872
 NID National ID NVRT Non-VAT	14985
@@ -997,7 +1009,7 @@ National Digital ID Program	8920,3337
 National Digital ID Strategy	3781
 National Digital ID and Digital Transformation Strategy	1360,354
 National Fayda Digital ID Registration Project	7129
-National ID	445,339,985,47,73,31,195,4,199,6,66,57,74,45,92,17,45,50,8,42,3,101,1,22,50,8,12,1,9,14,20,224,18,105,52,112,38,13,119,61,14,3,247,21,3,81,85,21,275,78,9,138,48,5,57,28,38,14,117,57,125,43,15,175,80,16,101,196,63,159,140,19,225,40,7,254,7,16,43,245,32,32,513,75,106,53,494,524,207,268,73,25,291,326,163,103,125,193,51,10,47,17,13,110,1203,8,14,15,7,5,2,1,24,40,7,3,37,9,69,94,33,1,407,64,70,5,15,583,413,46,14,15,196,156,6,131,19,223,8,57,3,13,41,11,30,131,32,207,83,5,35,1314,55,20,7,311,116,494,631,232,124
+National ID	445,339,985,47,73,31,195,4,199,6,66,57,74,45,92,17,45,50,8,42,3,101,1,22,50,8,12,1,9,14,20,224,18,105,52,112,38,13,119,61,14,3,247,21,3,81,85,21,275,78,9,138,48,5,57,28,38,14,117,57,125,43,15,175,80,16,101,196,63,159,140,19,225,40,7,254,7,16,43,245,32,32,513,75,106,53,494,524,207,268,73,25,291,326,163,103,125,193,51,10,47,17,13,110,1203,8,14,15,7,5,2,1,24,40,7,3,37,9,69,94,33,1,407,64,70,5,15,583,413,46,14,15,196,156,6,131,19,223,8,57,3,13,41,11,30,131,32,207,83,5,35,1314,55,20,7,311,116,494,631,232,124,76
 National ID Achieves Breakthrough Penetration and Everyday	13095
 National ID Agency	10812,1521,37,2649
 National ID Birth	12216
@@ -1070,6 +1082,7 @@ National Identification Document Systems and Digital ID	16953
 National Identity Card National ID System	10714
 National Identity Card No Electronic ID	10714
 National Identity Card and Mobile ID	14741
+National Secure ID Agency	18931
 National Tax Board’s ID Card	10714
 National With Rwanda’s New Digital ID	6343
 National and Foreigner ID Cards	16983
@@ -1100,6 +1113,7 @@ OK ID Number Yes Numeric	3861
 ONG ID Sahel Afrique	9866
 OPP ID	267
 OPS TABLE Country Project ID Parent	15513,37
+Obtain Seychelles Virtual ID Card	19041
 Offline Digital ID	13095,119
 Old ID	6343
 Old Namibian ID	12350
@@ -1146,6 +1160,7 @@ Phase II Project ID	16614
 Physical ID	2848
 Physical Smart ID Cards and QR-Based Credentials	5533,58,6395
 Pie Chart Key Progresses Biometric ID	17139
+Population Management and Secure ID System SIM	18931
 Population Registration System SWA ID South	12327
 Portal. An EBS MRA ID	14737
 Portugal Civil ID System	10714
@@ -1184,6 +1199,7 @@ Queensland Digital ID	3429,1913
 RBPP for ID	15518
 RCCM ID	10812
 RCT ID AEARCTR-0019347. Initial	10609
+RNBP and National ID	18933
 RWANDA NATIONAL ID LAND SCAPE. SMART	10819
 Rationalize CR and ID	10775
 Reader ID-	6423
@@ -1262,6 +1278,8 @@ Securitized and Multipurpose Biometric ID Cards	18471
 Securitized and Multipurpose ID Cards	18471
 Senegal ID System Breach	5146
 Serbia National ID System	10714
+Seychelles ID Card	19041
+Seychelles Virtual ID	19041
 Sharing ID Data	12663
 Shortages of Birth Certificates and ID Papers	12514
 Sierra Leone's ID	4201
@@ -1330,6 +1348,7 @@ TECHNICAL ENVIRONMENT REQUIREMENTS ID Technical Environment	13037
 TESTING REQUIREMENTS ID Training Requirement Description	13037
 TITRE ID	16636
 TRAINING REQUIREMENTS ID Training Requirement Description	13037
+TRANSITION TO VIRTUAL ID CARDS	18961
 Tajikistan ID	10714
 Tanzania National ID Database	10714
 Target Biometric ID Enrolled	17139
@@ -1393,11 +1412,16 @@ Unpacks Good ID Final 3.7.19.pdf Parker GG	10819
 User ID	10747
 Utilizing the National ID Card for Identification	16983
 V3830 Contract ID No	17334
+VIRTUAL ID CARD	19044
 VOTERS ID	18470
 VOVE ID	7519
 VRR National ID System	10714
 Vanuatu National ID Card	10714
 Various ID	15518
+Virtual ID	19007,37
+Virtual ID Application Requirements	19041
+Virtual ID Card	19044
+Virtual ID Card and Digital Driving License	19044
 Virtual ID Cards for Permit Holders and Seychellois	1882
 Vital Events Registration and National ID Proclamation	12226
 Voter ID	1367,9398,10,7695

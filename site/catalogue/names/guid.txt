@@ -95,6 +95,7 @@ Bank’s Procurement Guidelines	15372,39
 Basic Guide. Cambridge	11310
 Basic Principles and Guidelines	3583
 Bek’e-Langa Strategy. Guided	11134
+Benguela Guidijngar	19077
 Best Practice Guide	14434
 Best Practice Guide This BP-2024	16883
 Best Practice Guidelines	16144
@@ -193,10 +194,10 @@ Computer Security Incident Handling Guide	13381
 Conference. Guided	7874
 Confidentiality Guidelines	18745
 Connectivity and Affordability The Guidelines	5676
-Consultant Guidelines	15372,39,3084
+Consultant Guidelines	15372,39,3084,392
 Consultant Guidelines. Consultants	18575
-Consultants Guidelines	15411
-Consultants Guidelines. Frequency of Procurement Supervision	15372
+Consultants Guidelines	15411,3476
+Consultants Guidelines. Frequency of Procurement Supervision	15372,3515
 Consultants’ Guidelines	15411
 Consultants’ Guidelines. All	15411
 Consultation Guidelines	17191,60
@@ -250,6 +251,7 @@ Data Portal Usage Guide Learn	18747
 Data Privacy Comparative Guide. Retrieved	1243
 Data Protection Authority Implementation Guidelines	13381
 Data Protection Guidelines for SADC	962
+Data Protection Policy and Guidelines	19042
 Data Responsibility Guidelines	11156
 Data Security and Confidentiality Guidelines for HIV	14434
 Dedicated Guidelines	16212
@@ -374,6 +376,7 @@ FAIR Guidelines The FAIR Guidelines	14565
 FAIR Guidelines. As AI	14565
 FAIR Guidelines. Institutional Capacity	14565
 FAIR Guidelines. Through	14566
+FAO Small-Scale Fisheries Guidelines	18984
 FATF Recommendations and FATF Guidance	14809
 FG WajeGame Official Site Guide	3383
 FHIR Implementation Guide	10031
@@ -433,6 +436,9 @@ GUIDE PRATIQUE SUR LES STRATEGIES NATIONALES	16195
 GUIDE TAX REFERENCE NUMBER	11298
 GUIDE TO EGYPT NATIONAL AI GOVERNANCE	16212
 GUIDE TO EGYPT’S NATIONAL AI GOVERNANCE	16212
+GUIDE UTILISATEUR Contribuables Declaration Paiement.pdf	18973
+GUIDE UTILISATEUR Contribuables Demande d access.pdf	18973
+GUIDE UTILISATEUR Contribuables Immatriculation.pdf	18973
 GUIDE-SIMR-3d-Ed-20-08-2020-VF	14666
 GUIDED	3861
 GUIDED BY THE PRINCIPLES	13870
@@ -535,6 +541,7 @@ Guide OMS	15685
 Guide Section VII	13185
 Guide Technique	18428
 Guide de Passation des Marchés	15901
+Guide de Remplissage	18911
 Guide des Meilleures Pratiques	18428
 Guide du Système	18309
 Guide for AI Governance	16212
@@ -548,7 +555,7 @@ Guide. Together	16212
 GuideMethodologiqueSimplifDigit 10052025.pdf	1703
 GuideTaxAgents.pdf	14833
 Guidebook	1243,339
-Guided	1814,2714,312,579,534,38,955,813,242,34,1,372,199,321,174,1,653,1108,17,250,3,103,95,664,238,81,197,410,51,87,49,57,782,129,74,678,136,58,16,119,555,47,177,275,299,266,183,13,92,23,28,356,1057,130
+Guided	1814,2714,312,579,534,38,955,813,242,34,1,372,199,321,174,1,653,1108,17,250,3,103,95,664,238,81,197,410,51,87,49,57,782,129,74,678,136,58,16,119,555,47,177,275,299,266,183,13,92,23,28,356,1057,130,349,37
 Guided Leadership	12951
 Guided Learning	10525
 Guidedu	16034
@@ -577,7 +584,7 @@ Guideline. Government Institutions	5665
 Guideline. Non	5665
 Guideline. Software Certification Renewal Software	5665
 Guideline. Such	17537
-Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45,34,4,55,19,301,1,1,30,10,45,1,31,3,1,20,20,15,215,11,10,1,20,29,22,58,13,3,7,82,875,124,1,157,4,9,9,67,12,11,44,68,18,62,7,68,270,39,107,140,1,2,52,188,243,68,631,5,4,1,19,6,7,4,11,8,28,13,26,42,1,96,66,7,4,52,17,70,620,248,111,61,4,70,17,6,6,15,12,41,2,13,39,66
+Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45,34,4,55,19,301,1,1,30,10,45,1,31,3,1,20,20,15,215,11,10,1,20,29,22,58,13,3,7,82,875,124,1,157,4,9,9,67,12,11,44,68,18,62,7,68,270,39,107,140,1,2,52,188,243,68,631,5,4,1,19,6,7,4,11,8,28,13,26,42,1,96,66,7,4,52,17,70,620,248,111,61,4,70,17,6,6,15,12,41,2,13,39,66,226
 Guidelines Actor Requirements	6432
 Guidelines Advocacy	15604
 Guidelines Article	12616
@@ -664,7 +671,7 @@ Guidelines. Transparency and Documentation Transparency	14565
 Guidelines.pdf	2677
 Guider	3412,7563,3562,1046
 Guider Transfo	10975
-Guides	8671,735,1630,2513,988,352,725,59,175,151,901,1115,156,457
+Guides	8671,735,1630,2513,988,352,725,59,175,151,901,1115,156,457,283,62
 Guides Guides Documentation	12364
 Guides Learning and Teaching Support Materials Examinations	11241
 Guides Learning and Teaching Support Materials Research	11241
@@ -677,13 +684,13 @@ Guidimaka	18065
 Guidimaka Gorgol Dakhlet Nouadhibou Brakna Assaba	17867
 Guidimakha	17843,42,46,134,309
 Guidimakha L’hivernage	17931
-Guiding	22,936,3,1721,1846,501,649,1526,5308,50,760,339,788,44,101,80,248,37,6,407,1551,1,15,72,769,749,27
+Guiding	22,936,3,1721,1846,501,649,1526,5308,50,760,339,788,44,101,80,248,37,6,407,1551,1,15,72,769,749,27,331,286
 Guiding Enforcement Principles	17249
 Guiding Legal Framework Overview of Namibia’s Social	12373
 Guiding Objectives and Principles	18597
 Guiding Philosophy	6442
 Guiding Principle	14664
-Guiding Principles	1009,805,1837,877,718,1186,1116,1451,2155,1056,146,63,25,9,59,162,1,242,4,43,8,373,1,1,1317,126,99,145,595,50,35,1138,8,23,2,30,9,27,24,124,15,2,23,1315,7,114
+Guiding Principles	1009,805,1837,877,718,1186,1116,1451,2155,1056,146,63,25,9,59,162,1,242,4,43,8,373,1,1,1317,126,99,145,595,50,35,1138,8,23,2,30,9,27,24,124,15,2,23,1315,7,114,504
 Guiding Principles Adoption	5246
 Guiding Principles Based	6748
 Guiding Principles Implementation	7548,9403
@@ -745,6 +752,7 @@ IEC Guide	13320
 IFMIS STANDARDS AND GUIDELINES	34
 IFMIS STANDARDS AND GUIDELINES The Integrated	34
 III. Guiding Principles	1597
+ILO Guidelines	18985
 ILO’s Guidelines	789
 IMAM and Maternity Care Guidelines	16951
 IMF FSI Guide	6938
@@ -768,7 +776,7 @@ Implementation Guidance for Section	13051
 Implementation Guide	10031,1125,6001
 Implementation Guide Automated Threshold Checks Integrated	17157
 Implementation Guideline	11860,1521
-Implementation Guidelines	6432,5428,6,129,1386,5364
+Implementation Guidelines	6432,5428,6,129,1386,5364,179
 Implementation Guidelines Implementation Guideline	13381
 Implementation Guidelines URL	11860
 Implementation Guidelines for National Policy	11860
@@ -937,6 +945,7 @@ Network Connectivity Guidelines	34
 Network Security Standards and Guidelines	34
 Nigerian National Addressing Standard and Guidelines	11129
 O Informática Forense Guide	18774
+OBJECTIVES AND GUIDING PRINCIPLES	18889
 OBJECTIVES AND SCOPE These Guidelines for Integrating	1243
 OBJECTIVES OF GUIDELINES	13484
 ODPC and Emerging Guidelines	7548
@@ -1042,7 +1051,7 @@ Procedural Guidelines	17114
 Procedures and Guidelines	11129,5719,5
 Process Guidelines	5903
 Processing Payment for Road Tolls User Guidelines	12454
-Procurement Guidelines	1161,14211,39,100
+Procurement Guidelines	1161,14211,39,100,3376
 Products. Guided	17567
 Program-for-Results Guidance Note	18370
 Project Financing Operations and World Bank Guidance	15553

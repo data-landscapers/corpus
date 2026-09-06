@@ -68,6 +68,7 @@ CONSELHO NACIONAL DE CIBERSEGURANÇA	11397
 Can- Cibi- Ka- Ma- Mu- Mu-	13300
 Can- Cibi- Kayan- Ma- Mu- Mu-	13300
 Cankuzo Cibitoke Gitega Karusi Kayanza Kirundo	13442
+Capacidades Nacionais de Cibersegurança	18945,1
 Capacidades Nacionais de Cibersegurança São Tomé	18788
 Centro Nacional de Ciberse-	16251
 Centro Nacional de Cibersegurança	4146,1,71,5039,2158,21,4068
@@ -87,7 +88,7 @@ Ciber-ataque	6220
 Ciberataque	4146
 Cibercafés	9543
 Cibercri	16251
-Cibercrime	2368,33,1745,2221,4380,784,4720,2507,30,8
+Cibercrime	2368,33,1745,2221,4380,784,4720,2507,30,8,149,1,23
 Cibercrime Preâmbulo	18758
 Cibercrime SECÇÃO	11374
 Cibercrime. Com	18801
@@ -106,7 +107,7 @@ Cibernética	15477
 Cibernética Artigo	6970
 Cibernéticas	15477
 Cibernéticos	5169
-Cibersegurança	795,1500,3,47,471,1077,253,1173,1231,530,1413,764,448,435,607,627,5,14,1,24,10,8,95,2782,1164,27,180,5,211,351,1377,1160,13,2
+Cibersegurança	795,1500,3,47,471,1077,253,1173,1231,530,1413,764,448,435,607,627,5,14,1,24,10,8,95,2782,1164,27,180,5,211,351,1377,1160,13,2,142,1
 Cibersegurança Cabo Verde	16251
 Cibersegurança Nacional	1431,1
 Cibersegurança Passa A Ser Função Permanente	8827
@@ -121,7 +122,7 @@ Cibitoke	2625,10675,74,16,37,15,193
 Cibitoke Gitega	13300
 Cibitoke Gitega Karuzi Kayanza Kirundo Makamba	13442
 Ciblage	9824,5917,741
-Cible	643,629,9436,1236,1362,127,1189,958,93,126,137,76,316,394,1261,120
+Cible	643,629,9436,1236,1362,127,1189,958,93,126,137,76,316,394,1261,120,1020
 Cible A1	15580
 Cible A2O1R1.5 Production	15580
 Cible A2O1R4.11 Préparation	15580
@@ -139,7 +140,7 @@ Cible Réalisation	3396
 Cible Sources	18291
 Cible Valeur	15724
 Cibler	13390,2938,1599
-Cibles	10712,164,89,2468,1189,801,160,12,417,614,1218,23,15,101,333
+Cibles	10712,164,89,2468,1189,801,160,12,417,614,1218,23,15,101,333,651
 Cibles Ambassades	16328
 Cibles Contribuables	16328
 Cibles Entreprises	16328
@@ -147,9 +148,10 @@ Cibles Evolution	15848
 Cibles ONG	16328
 Ciboulette	16103
 Circulation CIBN Certified Information Systems Auditor	17235
+Comité Nacional de Cibersegurança	18945
 Comité Nacional de Cibersegurança de São Tomé	18788
 Comité Técnico de Cibersegurança	4147
-Comité de Cibersegurança	18788
+Comité de Cibersegurança	18788,157,1
 Comité de Cibersegurança. Esta	18788
 Comité des Cible	17983
 Concurrence Cible	15936
@@ -164,8 +166,9 @@ Cour de Cassation Cible	15936
 Crimes Cibernéticos	6970,77,689,2404
 Crimes Cibernéticos A Imprensa Nacional de Moçambique	7047
 Crimes Cibernéticos. ASSEMBLEIA DA REPÚBLICA Lei	6970
-Cultura de Cibersegurança	4146
+Cultura de Cibersegurança	4146,14799,1
 Cultura de Cibersegurança Com	18788
+D-03 Estratégia Nacional de Cibersegurança de São Tomé	18945
 D-3 Estratégia Nacional de Cibersegurança de São Tomé	18788
 D.G. DE ASUNTOS CIBERNETICOS Y LABORATORIOS.-	4209
 DE BASE CIBLE SOURCE DE VERIFICATION	15500
@@ -176,7 +179,7 @@ Delgado Teixeira A Proposta de Lei da Cibersegurança	9258
 Departamento de Cibersegurança	11382
 Departamento de Operações de Cibersegurança	4218
 Departamento de Segurança Cibernética	2816,4920
-Desenvolvimento da Estratégia Nacional de Cibersegurança	18788
+Desenvolvimento da Estratégia Nacional de Cibersegurança	18788,157,1
 Director da Divisão de Segurança Cibernética	2784,32
 Direcção Nacional de Políticas de Cibersegurança	6895
 Doha Cible	17983
@@ -184,7 +187,7 @@ Définition Cible Montant	16328
 Développement Cible	15936
 ECOBANK MALI CIB C	17841
 ESTRATÉGIA NACIONAL DE CIBERSEGURANÇA	4146,7251
-Ecossistema de Cibersegurança	11394,7394
+Ecossistema de Cibersegurança	11394,7394,158
 Edahabia and CIB	9037
 En Cible	17983
 Energie Cible	15936
@@ -197,7 +200,7 @@ Estrategia de Ciberseguridad	4209
 Estratégia Nacional de Cibe	11396
 Estratégia Nacional de Cibersegurança	3246,900,1,71,4662,919,1273,325,4107,747,2537
 Estratégia Nacional de Cibersegurança da Guiné-Bissau	17034
-Estratégia Nacional de Cibersegurança de São Tomé	18788,15
+Estratégia Nacional de Cibersegurança de São Tomé	18788,15,142,1
 Estratégia Nacional de Segurança Cibernética	795,1989,32,4154,766,2704,632
 Estratégia da Segurança Cibernética	2816
 Estratégias Sólidas de Segurança Cibernética	2816
@@ -222,13 +225,13 @@ Homme Cible	15936
 IA Cibles	15583
 INCIDENTES DE CIBERSEGURANÇA	11397
 INFORMÁTICOS Y CIBERDELITOS CAPÍTULO	16965
-INTRODUÇÃO A Estratégia Nacional de Cibersegurança de São	18788
+INTRODUÇÃO A Estratégia Nacional de Cibersegurança de São	18788,157
 ITU Global Cibersecurity Index	11569
 Implementação da Política de Segurança Cibernética	11377
-Implementação de Boas Práticas de Cibersegurança	18788
+Implementação de Boas Práticas de Cibersegurança	18788,158
 Incidentes Cibernéticos	2816,8715,4956
 Incidentes Cibernéticos de Nível Nacional	7736
-Incidentes de Cibersegurança	18788
+Incidentes de Cibersegurança	18788,157,1
 Incidentes de Cibersegurança de São Tomé	18788
 Incidentes de Segurança Cibernética	3838,3132,3470,5460
 Incidentes de Segurança Cibernética Artigo	6970
@@ -237,6 +240,7 @@ Indicateurs Axe Indicateur Cible	16328
 Indicateurs Cibles	15724,2562
 Industrie Cible	15936
 Information Cible	17983
+Introdução A Estratégia Nacional de Cibersegurança de São	18946
 LIMS Cible	13306
 LITERACIA EM CIBERSEGURANÇA	11397
 La Agencia Nacional de Ciberseguridad	16965
@@ -268,7 +272,8 @@ Núcleo Nacional de Cibersegurança	15504,747
 Núcleo Nacional de Cibersegurança. Artigo	15504
 O COMITÉ NACIONAL DE CIBERSEGURANÇA	18788
 O Centro Nacional de Cibersegurança	4218,6854,4432
-O Comité Nacional de Cibersegurança de São Tomé	18788
+O Comité Nacional de Cibersegurança	18946
+O Comité Nacional de Cibersegurança de São Tomé	18788,158
 O Comité de Cibersegurança	18788
 O Conselho Nacional de Cibersegurança	4147
 O Conselho Nacional de Segurança Cibernética	6970
@@ -277,6 +282,7 @@ O Departamento de Operações de Cibersegurança	4218
 O Núcleo Nacional de Cibersegurança	15504
 O Provedor de Serviço de Segurança Cibernética	6970
 O Sistema Nacional de Segurança Cibernética	6970
+ODD Cibles Indicateurs Indicateurs	18953
 ODD. Cible	17983
 Operações Cibernéticas	6970
 Organismos Internacionales de Ciberseguridad	16965

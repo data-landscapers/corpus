@@ -109,10 +109,11 @@ EU Electoral Observation Mission	970
 EU Observer	11050
 EU-funded Earth Observation	14522
 Earth Observa	12006
-Earth Observation	1131,8413,1790,428,244,1088,300,81,275,175,844,246,537,1853,931
+Earth Observation	1131,8413,1790,428,244,1088,300,81,275,175,844,246,537,1853,931,750
 Earth Observation Application	13094
 Earth Observation Data Products and Information Underlying	13094
 Earth Observation Data Utilization	14077
+Earth Observation GIEWS	19054
 Earth Observation Handbook	13094
 Earth Observation Page Content	11334
 Earth Observation Satellite FUNCTIONS	1131
@@ -151,14 +152,14 @@ FLEGT Facilitation Observers	16857
 Fisheries Observer Fee Per	18450
 Fonction Observations SOS Docteur Conseil	18105
 GDO Global Drought Observer GEE Global	17157
-GIEWS Earth Observation for Crop Monitoring	16464,708
+GIEWS Earth Observation for Crop Monitoring	16464,708,1882
 Gambia's OBS	14626
 Gender-based Violence Observatory	14742
 Geo-information Science and Earth Observation	15552
 Ghanaian Earth Observation	9561
 Global AI Ethics and Governance Observatory Country	11483,1095
 Global AI Ethics and Governance Observatory Search	18840
-Global AI Ethics and Governance Observatory URL	15680,3160
+Global AI Ethics and Governance Observatory URL	15680,3160,312
 Global Basic Observations Network	18578
 Global Basic Observing Network	11553,2059,3086,1611,364,114,82
 Global Basic Observing Network GDP	18309
@@ -364,7 +365,7 @@ Observaram-se	11523
 Observat	18791
 Observateur	8269,7981
 Observateurs de Court-Terme	18310
-Observation	1988,5,7552,803,1205,648,883,387,288,24,754,318,94,422,22,857,1661,293,105,1,14,254
+Observation	1988,5,7552,803,1205,648,883,387,288,24,754,318,94,422,22,857,1661,293,105,1,14,254,407
 Observation Article	15371
 Observation Citoyenne	16210
 Observation Electoral	18310
@@ -384,7 +385,7 @@ Observational	11553,1812,364,719,3861,269,209
 Observational Infrastructure	11553,7234
 Observational Infrastructure. STP	18787
 Observational Practices	16947
-Observations	1828,1568,395,1570,2525,2002,933,55,99,159,151,135,1528,362,158,299,163,219,1,1624,238,310,230,454,143,67,231,862
+Observations	1828,1568,395,1570,2525,2002,933,55,99,159,151,135,1528,362,158,299,163,219,1,1624,238,310,230,454,143,67,231,862,602,31
 Observations Cadre	13468
 Observations Collective	7886
 Observations Date	16012
@@ -399,10 +400,11 @@ Observations Restauration	10876
 Observations Spatiales	15368
 Observations Spatiales L’AGEOS	15368
 Observations Youth	9616
+Observations ZIZ	18967
 Observations and Data Sources	13094
 Observations and Forecasting	16137
 Observations. L'Agence	13825
-Observatoire	324,413,2624,451,426,501,631,446,921,90,62,724,209,7,201,68,40,215,538,1498,447,20,18,1,69,21,721,1615,24,65,52,230,155,110,273,456,152,608,21,33,103,9,43,50,30,9,55,69,36,52,18,14,176,31,75,31,41,4,33,257,10,73,793,327,25,12,4,6,41,170,44,68,97,5,6,22,96
+Observatoire	324,413,2624,451,426,501,631,446,921,90,62,724,209,7,201,68,40,215,538,1498,447,20,18,1,69,21,721,1615,24,65,52,230,155,110,273,456,152,608,21,33,103,9,43,50,30,9,55,69,36,52,18,14,176,31,75,31,41,4,33,257,10,73,793,327,25,12,4,6,41,170,44,68,97,5,6,22,96,504,11,73
 Observatoire ANRT	6737
 Observatoire ARCEP	16326
 Observatoire Annuel des Marchés	16626
@@ -442,7 +444,7 @@ Observatoire du Développement Humain Durable	17842,40,24
 Observatoire du Marché	13313
 Observatoire du Marché Agricole	17888
 Observatoire du Marché des Services Internet	13312,2,17
-Observatoire du Sahara	17911
+Observatoire du Sahara	17911,1175
 Observatoire du Service Public	15712,224
 Observatoire du Service Site	15936
 Observatoire du Transport Note Technique	17978
@@ -469,7 +471,7 @@ Observatory of Employment and Professional Training	10963,1
 Observatory of Killed Journalists.8 C. THE RIGHT	17970
 Observatory of Linguistic and Cultural Diversity	7320
 Observatory. OAMDI	15604
-Observatório	10747,819,8,3903,49,158,5,221,2893,23
+Observatório	10747,819,8,3903,49,158,5,221,2893,23,143
 Observatório Digital	16251
 Observatório Estatístico	8729,10062
 Observatório Mundial de Saúde	18783
@@ -498,7 +500,7 @@ Observemos	12018
 Observer	585,1751,690,189,489,4870,248,1195,636,169,1083,1012,1492,1439,112,1938,314
 Observer Committees	15393
 Observer Various	18787
-Observers	2736,303,179,761,774,281,696,408,39,2434,344,3246,451,880,3415,70
+Observers	2736,303,179,761,774,281,696,408,39,2434,344,3246,451,880,3415,70,1968
 Observers UNMIL USAID	16853
 Observing	6612,9705,2142,5
 Observing Member	14736
@@ -513,7 +515,7 @@ Obsolescence	14965,577,2300
 Obsolete	7548,6185,996
 Obsoletes	12058
 Obstacle	12389,4163,454
-Obstacles	5679,1976,366,1867,2501,936,516,1700,58,2283
+Obstacles	5679,1976,366,1867,2501,936,516,1700,58,2283,1078
 Obstaculizar	16965
 Obste	10881
 Obstetras	18768
@@ -550,6 +552,7 @@ Obstétriciens	15711
 Obstétrique	14622
 Obsydya	16281
 Obsydya Ces	16281
+Ocean Observation	19063,1
 Open Observatory of Network Interference	9082
 Open Observatory of Network Interference.72	13314
 Open Science Observatory	5246
@@ -634,6 +637,7 @@ Systematic Observations Financing Facility	11553,2059,836,1548,418,2164,291
 Systematic Observations Financing Facility Decision	18677
 Systematic Observations Financing Facility SWIFT	18309
 Systematic Observing and Financing Facility	14738
+São Tomé and Príncipe. CHAPTER VI OBSERVERS	18985
 Sécurité Alimentaire Observatoire	17844
 Sénégal ONP Observatoire National	18286
 TC Participation Observing Member	11493,5104

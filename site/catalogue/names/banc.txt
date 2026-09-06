@@ -75,7 +75,7 @@ Banco Caboverdiano de Negócios BI	17032
 Banco Caboverdiano de Negócios Manuel Fernando Monteiro	11955
 Banco Cen	18800
 Banco CentraI O Banco Central	18750
-Banco Central	1701,1273,1773,1613,4395,383,378,417,61,3690,294,111,809,134,1717,1,11,37,2,53,23
+Banco Central	1701,1273,1773,1613,4395,383,378,417,61,3690,294,111,809,134,1717,1,11,37,2,53,23,69,69
 Banco Central Artigo	18800
 Banco Central SECÇÃO I Disposições Gerais	18800
 Banco Central da RDC	7115
@@ -83,8 +83,8 @@ Banco Central da República Democrática	7115
 Banco Central da República Democrática de São Tomé	18761
 Banco Central da República de Cabo Verde	16089
 Banco Central de Cabo Verde	16089
-Banco Central de S. Tomé	18757,103
-Banco Central de São Tomé	7156,11605,3,24,6,6,80
+Banco Central de S. Tomé	18757,103,154
+Banco Central de São Tomé	7156,11605,3,24,6,6,80,65,1
 Banco Central de Timor-Leste	11683
 Banco Central. Artigo	18800
 Banco Central. Neste	18750

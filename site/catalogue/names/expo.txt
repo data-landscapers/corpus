@@ -179,7 +179,7 @@ Exponential View	11143
 Exponer	16965
 Exporattions	5745
 Exporr-lmport Bank of China Date	15399
-Export	1187,1588,481,1467,614,1086,1498,2957,271,109,52,214,432,254,23,13,10,102,138,180,457,242,279,404,416,244,11,749,366,160,73,197,182,175,83,5,124,5,87,61,15,127,97,1165,2,1,47,19,62,10,282
+Export	1187,1588,481,1467,614,1086,1498,2957,271,109,52,214,432,254,23,13,10,102,138,180,457,242,279,404,416,244,11,749,366,160,73,197,182,175,83,5,124,5,87,61,15,127,97,1165,2,1,47,19,62,10,282,84
 Export Administration Regulations	5773
 Export Certificates	15478
 Export Controls for Sensitive AI	16212
@@ -216,7 +216,7 @@ Export Markets Mauritian	14818
 Export Module	15478
 Export Module. An ASYCUDA Mobile App	15478
 Export Options	18579
-Export Permit	18541
+Export Permit	18541,578
 Export Portal	16942
 Export Process	14591
 Export Processing Zone License	17216
@@ -264,7 +264,7 @@ Export-Import Bank of China Ministry of Economy	15399
 Export-Import Bank of China No	15399
 Export-Import Bank of Egypt	7535
 Export-Import Bank of Egypt. The Tech Africa	4401
-Export-Import Bank of India	2760,10162,34,4149,1438
+Export-Import Bank of India	2760,10162,34,4149,1438,623
 Export-Import Bank of India Infrastructure Group Office	18543
 Export-Import Bank of India Page	18543
 Export-Import Bank of Korea	5893,4012,1260,322,2064
@@ -298,9 +298,10 @@ Exportation FOB	18757
 Exportation de Biens	18757
 Exportation de Biens. L’objectif	16226
 Exportation-related	5247
-Exportations	3222,2523,1,1909,3168,4593,33,44,95,2357,33,85
+Exportations	3222,2523,1,1909,3168,4593,33,44,95,2357,33,85,925,62,21
 Exportação	11383,7395,20,55
 Exportação da Castanha de Cajú	17034
+Exportação da China	18958
 Exportação de Cabo Verde	15526
 Exportação de Mercadorias	18750
 Exportações	10758,1260,3273,3459,7
@@ -312,7 +313,7 @@ Exporting	2518,2724,3237,2377
 Exporting Chinese Digital Authoritarianism. In Routledge	2518
 Exporting DPI	9070
 Exporting Digital Authoritarianism C	5242
-Exports	236,2431,108,2472,408,2840,2349,12,120,160,13,109,266,350,7,1,71,393,99,477,496,114,30,306,723,245,33,28,126,1262,346,304,218,82,22,246,620,360,17,351
+Exports	236,2431,108,2472,408,2840,2349,12,120,160,13,109,266,350,7,1,71,393,99,477,496,114,30,306,723,245,33,28,126,1262,346,304,218,82,22,246,620,360,17,351,187
 Exports Clearing Agents Application Form CE	12454
 Exports Commodities	16935
 Exports Export	17235
@@ -336,7 +337,8 @@ Exposition	3941,4814,4545,268,959,22,949,85,132,443,1905,249
 Exposition Nationale des Artisanats	17959
 Expositions	18324
 Exposição	10777,751,29,5780
-Exposição Internacional	17337
+Exposição Económica	18958
+Exposição Internacional	17337,1621
 Exposição Internacional da Rádio	11045
 Exposições	11455
 Exposure	1988,3677,5299,176,174,33,53,827,750,76,1628,66,37,258,205,164,49,141,124,1225,207
@@ -365,6 +367,7 @@ Fund for Export Development	10718,4279
 Fund for Export Development Africa	8149,3660
 G MOUSTAPHA DAHI-IMPORT EXPORT MOUSTAPHA DAHI	16623
 G. Job Expo The Job and Entrepreneurial	12977
+GDP. Exports	19038
 GITEX Nigeria Tech Expo	17606
 GITEX Nigeria Tech Expo and Future	9117
 GUINEA ECUATORIAL EXPOSICIÓN DE MOTIVOS	16859
@@ -397,6 +400,7 @@ IMPORT EXPORT ESPER JEHAD	16623
 IMPORTATION ET EXPORTATION MATERIELLE DES INSTRUMENTS	17485
 IMPORTATION OU EXPORTATION	16617
 INTERNATIONAL EXPOSURE SPECIALIZATION AND UNIQUE OFFERINGS	18487
+INVESTISSEMENTS ET DES EXPORTATIONS	19050
 IR Conference and Expo	12935
 IX-F Member Export URL	12622
 IX-F Member Export URL Visibility	12622,121,2135,3
@@ -470,6 +474,7 @@ NIDA At the Expo Grounds	10153
 NIRA’s My Identity Expo and National Symposium	14380
 National Agricultural Export Development Board	8674
 National Career Expo	12972
+National Cooperative Exports Limited and Seychelles Trading	19063,1
 National Cybersecurity Conference and Expo	13444
 National Export Insurance Account	18378
 National Export Strategy	16861
@@ -492,6 +497,7 @@ Non-agricultural Net Exports GDP Growth	17503
 O.3 Africa’s Extra- and Intraregional Exports	11149
 ORIGINATING GOODS EXPORTED FROM THE REPUBLIC	14816
 Oil Exporting Countries	18063
+Organisation des Pays Exportateurs de Pétrole	18988
 Organización de Países Exportadores de Petróleo OSC	1701
 Organization of Petroleum Exporting Countries	2775,14460
 Others Djibouti's Export	13868

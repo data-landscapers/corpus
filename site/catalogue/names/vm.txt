@@ -9,6 +9,7 @@ Le VMS	18032
 Licences VMware	16006
 Licences VMware Live Recovery Protected VM	16006
 Nutanix Controller VM	13185
+PROTECTION OF VMS DATA All	18985
 QDQoDV RQGH VmR	11527
 QDQoDV VmR	11527
 Security VM Virtual Machine VPC Virtual	6432
@@ -20,7 +21,9 @@ VMGs Child	14516
 VMMC Voluntary	18668
 VMOST	18801
 VMP-V9U8	1981
+VMS Electronic	18985
 VMS Vessel Monitoring System VNR Voluntary	17105
+VMS and ERS	18985
 VMV. MoSHE	13991
 VMWARE and VEEAM Backup and Replication	11209
 VMWare	6477,8306

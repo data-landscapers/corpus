@@ -143,7 +143,7 @@ Cultivos	16875,23
 Culto	1855,2354,2632,10057,67,84,1702
 Culto Artigo	18751
 Culto. Sobre	12795
-Cultura	1701,1115,1393,1454,1178,85,956,1421,1135,314,638,4,163,12,3907,218,793,411,138,5,153,88,1468,1,1,5,3,5,8,8,13,2,2,3,13,23
+Cultura	1701,1115,1393,1454,1178,85,956,1421,1135,314,638,4,163,12,3907,218,793,411,138,5,153,88,1468,1,1,5,3,5,8,8,13,2,2,3,13,23,58,1,73
 Cultura CV	15772
 Cultura Cabo	15772
 Cultura Estatística	17058
@@ -155,10 +155,10 @@ Cultura Organizacional	2816,13150
 Cultura Orientada	18801
 Cultura UNICEF	1701
 Cultura UNICEF GEN Fundo	11557
-Cultura de Cibersegurança	4146
+Cultura de Cibersegurança	4146,14799,1
 Cultura de Cibersegurança Com	18788
 Culturais	11547,15
-Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309
+Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309,360
 Cultural Activities	16275
 Cultural Affairs	16872,103,18,44
 Cultural Affairs and Tourism	3239,13722
@@ -178,7 +178,8 @@ Cultural Cooperation and People	18378
 Cultural Diversity	16212
 Cultural Diversity Respecting	2958
 Cultural Diversity and Inclusion	2958
-Cultural Exchange Programme	15457,2559,362
+Cultural Exchange Program	18957
+Cultural Exchange Programme	15457,2559,362,579,106,1
 Cultural Exchange Programme MoU	18563
 Cultural Exchange Programme. The Vice President	18563
 Cultural Exchange Programmes	14742
@@ -196,6 +197,7 @@ Cultural Heritage Relevant ESS8	17114
 Cultural Heritage Relevant Mar	18374
 Cultural Heritage Training	17114
 Cultural Heritage Training All Project	17114
+Cultural N	18930
 Cultural Norms	12214,1724
 Cultural Norms RATING OPPORTUNISTIC STAGE Technology	12214
 Cultural Objectives	13948
@@ -206,7 +208,7 @@ Cultural Organization WASH United Nations High	11905
 Cultural Policy	12253
 Cultural Politics of Education	6948
 Cultural Preservation and Enhancement	4528,7984
-Cultural Relations	13562,2675,40,8,364,591,980
+Cultural Relations	13562,2675,40,8,364,591,980,737
 Cultural Relations India and Burkina Faso	16256
 Cultural Revolution	2518
 Cultural Rights	16916
@@ -233,7 +235,7 @@ Culturally	17114
 Culturally Develop	4126
 Culturally Grounded Misogyny Detection Framework	7790
 Culturas Autóctonas	4209
-Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92
+Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92,32,127,92
 Culture AI	2958
 Culture Any Arab	2958
 Culture Applications	2958
@@ -324,6 +326,7 @@ Culture and Youth Affairs	6273,991,5708,154,5,114
 Culture du Maïs	13390
 Culture du Numérique	15512
 Culture of Accountability and Transparency	17011
+Culture of Care	19177
 Culture of Care Service Delivery Model Modernisation	7761
 Culture of Compliance ERS	13000
 Culture of Customer Experience Adopt Legal and Excellence	6946
@@ -343,7 +346,7 @@ Culturelle	7843,3132,5398
 Culturelles	17458,652
 Culturels Convention	13442
 Culturels Protocole	13442
-Cultures	2958,10432,2546,423,1540,46,69
+Cultures	2958,10432,2546,423,1540,46,69,974
 Currently Relevant Local Communities Cultural Heritage	13332,2289,1301
 Cyber Culture and Society	15480
 Cybersecurity Culture	1777
@@ -380,7 +383,7 @@ Diplomatie Culturelle	16099
 Director General of Culture	11579
 Directorate of Heritage and Culture Programmes	12345
 Direção-Geral da Cultura	11527
-Diversity of Cultural Expressions	14073,1895,2002
+Diversity of Cultural Expressions	14073,1895,2002,960
 Dominic Cull	5507
 Drought-Resistant Crop Cultivation	17157
 D’Animation Culturelle	14774
@@ -452,7 +455,7 @@ Inside Bayobab’s Culture of Recognition Corporate Bayobab	11234
 Institut Master Culture	17829
 Institutionalize Data Use Culture	15960
 Int J Cult Stud	9739
-Intangible Cultural Heritage	14073,669,1226,2002,887
+Intangible Cultural Heritage	14073,669,1226,2002,887,73
 Intangible Cultural Heritage of Humanity	14742,4068
 Intangible National Cultural Heritage. Mauritius	14742
 International and Cultural Cooperation	14373
@@ -520,7 +523,7 @@ Ministry of Education and Culture. Mozambique's EMIS	12196
 Ministry of Home Affairs and Cultural Heritage	3274,9240,934
 Ministry of Information Culture and Tourism	16872
 Ministry of Sports Culture and Youth Affairs	13093
-Ministry of Tourism and Culture	16967
+Ministry of Tourism and Culture	16967,2049,80,12
 Ministry of Youth Sports Culture	12551
 Ministério da Cultura	2816,7938,773,5514
 Ministério da Educação Cultura	18796
@@ -564,12 +567,13 @@ PRENSA Y CULTURA Servicio	4209
 PRENSA Y CULTURA Subsector de Información	4209
 PRESERVE POSITIVE LIBERIAN CULTURE	16970
 PRODUCTION AND YIELD OF CROPS CULTIVATED	17043
+PROMOUVOIR LES MERVEILLES CULTURELLES ET TOURISTIQUES	18972
 PROTECT AND PRESERVE POSITIVE LIBERIAN CULTURE	16970
 Patrimoine Culturel National	13908
 Património Cultural	11390,16
 People and Culture Committee	6946
 People and Culture Committee. Mr. Paul Mureithi	6946
-Physical Cultural Resources	11525,3847,139,90,2769
+Physical Cultural Resources	11525,3847,139,90,2769,517
 Physical Cultural Resources OP	11525,330,282,3274,2693
 Plantations Shifting Cultivation Annual	17140
 Politique Culturelle Nationale du Mali	17827
@@ -609,6 +613,7 @@ Robert Cull	10977
 Roots Crop Cultivated	17043
 Rosa Pedro Cultural Moment	10776
 Résolution Cultures No. Source Année	15715
+SDGs. C. CULTURAL RIGHTS	18930
 SITUATION SOCIO-ECONOMIQUE ET CULTURELLE	16195
 SITUATION SOCIO-ECONOMIQUE ET CULTURELLE En	16195
 SOCIAL AND CULTURAL ACTIVITIES	14409
@@ -630,10 +635,10 @@ Scientific and Cultural Organisation US United States	14747
 Scientific and Cultural Organisation USD United States	14674
 Scientific and Cultural Organisation UoM	14775
 Scientific and Cultural Organisation WEF World Economic	1814
-Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571,578,119,275,193,382,109,153,141,495,36,71,35,51,17,104,321,143,271,489,14,355,552
+Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571,578,119,275,193,382,109,153,141,495,36,71,35,51,17,104,321,143,271,489,14,355,552,1061,111,37
 Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,135
 Scientific and Cultural Organization UNFPA United Nations	15604,3020
-Scientific and Cultural Organization UNHCR United Nations	17157
+Scientific and Cultural Organization UNHCR United Nations	17157,1754
 Scientific and Cultural Organization UNICEF United	12970
 Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765,895
 Scientific and Cultural Organization UNWTO United Nations	2775
@@ -654,6 +659,7 @@ Senior AI Expert Cultivation and Attraction Code	15713
 Senior AI Experts Cultivation and Attraction	15713
 Senior AI Experts Cultivation and Attraction Initiative	15713
 Senior AI Expert’s Cultivation and Attraction Initiative	15713
+Seychelles Culture	19108
 Sir Seewoosagur Ramgoolam Memorial Centre for Culture	14267
 Skills and Cultural	12214
 Social Cohesion and Cultural Preservation Zimbabwe	4528,7984
@@ -661,7 +667,7 @@ Social Cultural Rights	3583
 Social and Cultural Development	14742,2216
 Social and Cultural Professionals	16266
 Social and Cultural Professionals Legal	16266
-Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162,568,364,983,983,36
+Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162,568,364,983,983,36,960
 Social and Cultural Rights CMO	14742
 Social and Cultural Rights ICT Information and Communication	17114
 Social and Cultural Rights IEC	16951
@@ -674,9 +680,11 @@ Société Culte	13595
 South African Cultural Observatory	17773
 Sport and Culture	2736,9815
 Sport and Culture and Devolution	970
+Sports And Culture Committee Conduct Visit	18981
 Sports Culture Business Economie Environnement Hors	16092,1,37,97,148,111,41
 Sports Culture and Youth Affairs	13093
 Sports and Culture	769,12478
+Sports and Culture Committee	18981
 State Department for Culture	14546
 Strengthen Organisational Culture Staff Productivity Level	13053
 Subsector de Cultura	4209
@@ -698,6 +706,7 @@ Tourism and Culture	16872
 Tourism and Culture Honourable Speaker	17105
 Transmod J Peripher Cult Prod Luso-Hisp	9739
 Tuber Crops Cultivation	17043
+UN Security Council. People-to-People and Cultural Ties	19060
 UNESCO List of Intangible Cultural Heritage	14742
 UNESCO Regional Advisor for Culture	14300
 UNESCO Representative List of Intangible Cultural Heritage	14742
@@ -710,8 +719,8 @@ Usage and Cultural	12241
 VIII. CULTURAL DIVERSITY AND IDENTITY	14853
 Vegetable Crop Cultivation	17043
 Vice Chairman for Culture and Traditional Affairs	16970
-World Cultural and Natural Heritage	14073,1895,2002
-X No Physical Cultural Resources	15372
+World Cultural and Natural Heritage	14073,1895,2002,960
+X No Physical Cultural Resources	15372,3515
 X Physical Cultural Resources OP	17441
 Youcef BOUZENADA. MINISTERE DE LA CULTURE	15747
 Zero Tolerance Culture	13474

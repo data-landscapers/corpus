@@ -342,6 +342,7 @@ Description Supports the Global Financing Facility	63
 Developing Country Facing Resource Depletion	1828
 Development Assistance ECF Extended Credit Facility	18851
 Development Sector and Market Facilitators	12297
+Development of Facilities	18957
 Dialogue Facility	789
 Dialogue Facility Culture	789
 Digital Energy Facility	348,1
@@ -369,6 +370,7 @@ District- Level Factsheets	13040
 Djibouti Plastic Factory	4774
 E- Facility	582
 E-Government and Business Facilitation	14729
+E-tax. Facturation Electronique Normalisée	18973
 E.g. Facebook	11004
 EAF Energy Availability Factor GDP Gross	11228
 EBRD's Early-Stage Innovation Facility II	14179
@@ -425,6 +427,7 @@ Emission Factor	17140
 Emission Factors	17140
 Emissão de Facturas	11383
 Empirical Study Factors	226
+Enable Two Factor Authentication	19046
 Enabling Factor Analysis	15688
 Enabling Factors	12356
 Enabling Factors Analysis	11907,268,1815,1698
@@ -470,7 +473,7 @@ Extended Credit Facility Arrangement for Guinea-Bissau	17326,13
 Extended Credit Facility and Extended Fund Facility	17990
 Extended Credit Facility-supported	15658
 Extended Credit Facility. Based	15029,2180,117,1497
-Extended Fund Facility	10779,4694,2436,81
+Extended Fund Facility	10779,4694,2436,81,1108
 Extended Fund Facility Arrangement and Fourth Review	17990
 Extended Fund Facility Arrangement and Third Review	17909
 Extended Fund Facility. Based	17909,81
@@ -486,6 +489,7 @@ FACHI	18105
 FACIAL DE COMMUNICATION VOIX MOBILE DES	18032
 FACILITATE THE AMENDMENT OF THE LOCAL	13387
 FACILITATE THE USE OF ELECTRONIC	16832
+FACILITATES	18943
 FACILITATING ACCESS TO RIGHTS-OF-WAY	14879
 FACILITATING AN ENABLING ENVIRONMENT FOR GREEN	16973
 FACILITATION	13403
@@ -496,9 +500,10 @@ FACILITAÇÃO DAS TRANSACÇÕES ELECTRÓNICAS	11582
 FACILITE	17833
 FACILITER DES VOIES DE MIGRATION RÉGULIÈRES	18265
 FACILITER LE DÉDOUANEMENT Allègement	17445
-FACILITIES	4153,12399,454
+FACILITIES	4153,12399,454,1937
 FACILITIES MANAGEMENT	12400
 FACILITIES SERVICE UTILIZATION OF THE MARITIME	17101
+FACILITY	18934
 FACILITY ARRANGEMENT	13741,3585
 FACILITY ARRANGEMENT AND REQUEST	17257
 FACILITY ARRANGEMENT AND REQUEST FOR AUGMENTATION	15029
@@ -534,6 +539,7 @@ FACTOR No. Bo Bonthe Kenema Koidu	18476
 FACTORIAS Y COMERCIO EN GENERAL	4209
 FACTORIAS Y COMERCIO EN GENERAL FERETERIAS	4209
 FACTORS THAT SHAPE THE FUTURE SPECTRUM	5245
+FACTS	18947
 FACTSHEET Transaction Board	1818
 FACTURATION	998
 FACTURATION Article	14483
@@ -554,6 +560,7 @@ FACULTÉ DES SCIENCES ET TECHNIQUES FSEJ	18143
 FACULTÉ D’ECONOMIE ET DES SCIENCES ADMINISTRATIVES	18143,27
 FAST FACT	5247
 FAccT	740,10395,5
+FF Facteu	18942
 FINANCE THE TECHNICAL FACILITY	13938
 FINANCING FACILITY	10829
 FINANCING Private Capital Facilitation	2473,2180,11316,218,2172
@@ -607,6 +614,7 @@ Facebook Ireland and Maximillian Schrems	11154
 Facebook Journalism Project	13461
 Facebook LinkedIn	13300
 Facebook LinkedIn Digitalisation	18013
+Facebook LinkedIn X Vidéos	19150
 Facebook LinkedIn X YouTube WhatsApp WebTV	17221
 Facebook MAU	13461
 Facebook MTN Group	16217
@@ -773,7 +781,7 @@ Facilita	15437,1427,11,45
 Facilitación	15478
 Facilitadores	18781
 Facilitar	3519,699,7153,2,196,332,3457,34,134,168,627,166,406,5,1901
-Facilitate	940,18,3,1,38,161,616,37,1864,183,265,402,716,3,428,1,1,3,1,751,362,144,8,602,2307,910,10,66,292,63,2,32,5,50,251,321,4,91,34,69,130,171,3,17,8,15,54,59,85,78,11,15,53,191,19,6,2,5,13,90,215,17,2,6,25,1,1,644,194,243,6,32,156,52,49,11,27,12,17,28,1,60,4,14,31,7,12,50,37,32,24,40,24,106,344,110,46,85,115,293,598,10,5,1,5,4,8,23,8,32,4,34,26,7,81,17,41,34,179,514,586,10,7,8,36,1,142
+Facilitate	940,18,3,1,38,161,616,37,1864,183,265,402,716,3,428,1,1,3,1,751,362,144,8,602,2307,910,10,66,292,63,2,32,5,50,251,321,4,91,34,69,130,171,3,17,8,15,54,59,85,78,11,15,53,191,19,6,2,5,13,90,215,17,2,6,25,1,1,644,194,243,6,32,156,52,49,11,27,12,17,28,1,60,4,14,31,7,12,50,37,32,24,40,24,106,344,110,46,85,115,293,598,10,5,1,5,4,8,23,8,32,4,34,26,7,81,17,41,34,179,514,586,10,7,8,36,1,142,259,127,16,10
 Facilitate Access	10358,6518,420
 Facilitate Broadband Development	17836
 Facilitate Criteria	12376
@@ -812,7 +820,7 @@ Facilitate the Public-Private Partnerships	13295
 Facilitate the Use of Electronic Transactions for Commercial	16832
 Facilitated	395,1185,5968,409,1824,1357,1103,119,29,340,241,2510,1151
 Facilitated Interaction	17884
-Facilitates	3058,2187,5884,95,633,140,447,525,68,1960,1918
+Facilitates	3058,2187,5884,95,633,140,447,525,68,1960,1918,2240
 Facilitates Infrastructure	11857
 Facilitateur	8269,733,4687,1943
 Facilitateurs	13338,2,4108
@@ -829,7 +837,7 @@ Facilitating Open Methods	5246
 Facilitating Public Private Partnerships	16872
 Facilitating Transfer of Ownership of Vehicles	14828,3
 Facilitating the Implementation	15802
-Facilitation	5246,522,191,2417,1023,1309,67,190,1078,121,1177,133,307,644,61,142,133,613,50,54,64,38,352,709,243,59,502,367,23,178,108,186,12,118
+Facilitation	5246,522,191,2417,1023,1309,67,190,1078,121,1177,133,307,644,61,142,133,613,50,54,64,38,352,709,243,59,502,367,23,178,108,186,12,118,746
 Facilitation Centre RSDO Refugee Status Determination	11986
 Facilitation Committee	17367
 Facilitation Customs	13042
@@ -842,6 +850,7 @@ Facilitation de Améliorer	10965
 Facilitation des Aéroports du Gabon	15973
 Facilitation of Digital Trade	1243
 Facilitation of Elections	5641
+Facilitation of International Maritime Traffic	18985
 Facilitation of Movement of Persons	9399,362
 Facilitation of Tourism	12164
 Facilitation-based	8376
@@ -854,15 +863,16 @@ Facilitators	1219,9700,1327,2769,1955
 Facilitação	11448,4246
 Facilitação Empresarial	795
 Facilite	14483,1154
-Faciliter	1218,1347,182,2318,2757,412,322,335,574,1409,2,89,979,99,1247,51,49,1035,112,853,16,94,42,26,102,131,47,141,10,185,144,300,46,1150,12,24,5,31,5,17,9,56,308,6,9,1,12,5
+Faciliter	1218,1347,182,2318,2757,412,322,335,574,1409,2,89,979,99,1247,51,49,1035,112,853,16,94,42,26,102,131,47,141,10,185,144,300,46,1150,12,24,5,31,5,17,9,56,308,6,9,1,12,5,643,21,18
 Faciliter le Activité	10965
 Faciliter le Commerce Electronique	17485
-Facilities	34,362,566,250,1972,1,419,229,692,163,1012,172,2005,1457,95,728,624,48,32,20,114,242,316,43,369,15,409,32,6,248,356,154,1297,254,23,18,683,937,470,20,60,19,12,136,1256,108
+Facilities	34,362,566,250,1972,1,419,229,692,163,1012,172,2005,1457,95,728,624,48,32,20,114,242,316,43,369,15,409,32,6,248,356,154,1297,254,23,18,683,937,470,20,60,19,12,136,1256,108,465
 Facilities Are Being Built	6791
+Facilities Arshad Fawad	19177
 Facilities Census Register Improve Education Improve	16863
 Facilities Finance Business Unit Owner N	9124
 Facilities Leasing Regulations	5872
-Facilities Management	12400
+Facilities Management	12400,6777
 Facilities Register	16863
 Facilities Registry	5639,6967
 Facilities Samples Tested	14736
@@ -874,6 +884,7 @@ Facilities Toilet	14778
 Facilities and Animal Welfare	14818
 Facilities and Animal Welfare Poorly	14818
 Facilities and Census Conducting the Bureau	16863
+Facilities for Parliamentary Political Parties PART VIII	19161
 Facilities-connected	11965
 Facility	348,1,85,337,46,153,1507,707,1,1075,78,187,4380,570,747,559,48,32,134,257,344,267,140,22,272,67,63,81,87,255,126,8,1249,645,3,175,343,506,1462,1212
 Facility Accreditation Number	13068
@@ -951,7 +962,7 @@ FactCheckAfrica	8522
 Facteur	1679,13994,234
 Facteur Correction	15907
 Facteur Favorable GCTI	15673
-Facteurs	10965,2335,38,1284,961,90,12,39,183,622,98,821,431,2,222,183
+Facteurs	10965,2335,38,1284,961,90,12,39,183,622,98,821,431,2,222,183,656,181
 Facteurs Critiques de Succès Partenariat	15936
 Factful Guide	12227
 Factguard Got	17136
@@ -963,6 +974,7 @@ Factiveview	4861,929,900
 Facto	15627,1011,462,1664
 Facto Ilícito	10755
 Factor	736,3696,3116,479,644,2465,409
+Factor Authentication	19046
 Factor Determinante	10772
 Factor Evaluated Max Score Performance Criteria	13037
 Factor Facilitador	18781
@@ -1012,7 +1024,7 @@ Facts- Figures2019.pdf International Telecommunication Union	961
 Facts-Figures-2024	12227
 FactsFigures2021.pdf ITU	1243
 FactsFigures2021.pdf. ITU	16942
-Factsheet	730,4514,5597,2144,4446,540
+Factsheet	730,4514,5597,2144,4446,540,1184
 Factsheet English	9067
 Factsheet URL	18472
 Factsheet.pdf	532,422
@@ -1021,10 +1033,11 @@ Factsheets	12151,1987
 Factsheets Search for Equipment Consumer Watch FAQs	9109
 Factu	18764
 Factual	3745,3726
-Factura	11432,586
+Factura	11432,586,6878
 Facturas	11432,7332
-Facturation	4739,3818,2418,959,1367,126,1056,13,630,544,41,88,137,505,306,1285,90
+Facturation	4739,3818,2418,959,1367,126,1056,13,630,544,41,88,137,505,306,1285,90,982
 Facturation Article	14483,3549
+Facturation Electronique Normalisée	18973,15
 Facturation Il	14483
 Facturation Normalisée	14302
 Facturation. Ce	14483
@@ -1040,6 +1053,7 @@ Facture Normalisée Un	15963
 Facture Numéro	15399
 Facturer	13530
 Factures	14488,1,1,2995
+Factures Electroniques Normalisées	18973
 Facul-dade de Direito da Universidade de Lisboa	9176
 Faculdade	4274,11117
 Faculdade de Ciências	2816,13413,2638
@@ -1104,18 +1118,20 @@ Faculty of Medicine	10776,4
 Faculty of Natural and Applied Science	10323
 Faculty of Organizational	10780
 Faculty of Organizational Sciences	10780
+Faculty of Research and Innovation	18998
 Faculty of Science	14775
 Faculty of Science and Engineering	4058
 Faculty of Science and Technology	17893,736
 Faculty of Social Sciences	13078,1697
 Faculty of Social and Behavioural Sciences	17780
 Faculty. USAID Jim Wright	16970
-Faculté	5888,5896,1593,1527,486,295,95,579,1624,20,10,105
+Faculté	5888,5896,1593,1527,486,295,95,579,1624,20,10,105,779
 Faculté de Médecine	13306,2889,1634,53
 Faculté de Médecines	17833
 Faculté des Sciences	1183,5818,8422,251,8,677,126,1342,29,268,288
 Faculté des Sciences Agronomiques	15682
 Faculté des Sciences Economiques	15797,2030,2,149,221
+Faculté des Sciences Humaines de Gardolé	19032
 Faculté des Sciences Juridiques	17918
 Faculté des Sciences de Gabès	1183
 Faculté. Quand	16627
@@ -1181,7 +1197,7 @@ Generation Load Factor	12062,6124,31
 Geographic Factors and Key Trends	15473
 Ghana’s Extended Credit Facility	7695
 Global Alliance for Trade Facilitation	17274
-Global Environment Facility	3431,5922,1979,221,2199,58,983,166,66,73,1600,407,52,212
+Global Environment Facility	3431,5922,1979,221,2199,58,983,166,66,73,1600,407,52,212,1822
 Global Environment Facility FAPA	17101
 Global Environment Facility GFRS Gambia Fire	17105
 Global Environment Facility Small Grants Programme	17245
@@ -1409,6 +1425,7 @@ Key Factors	15663
 Key Factors Affecting Implementation and Outcomes	16614,2140
 Key Facts	4972,6511,579,4862,1293,623
 Key Facts Key Highlights	4972
+Key Facts Statement	18925
 Key Facts The Gambia Government Cloud	16924
 Key Facts and Insights Energy	14745
 Key Risk Factors	14565
@@ -1521,6 +1538,7 @@ Mbps. Face	6157
 Measuring Digital Development Facts and Figures	961
 Measuring Digital Development. Facts and Figures	16942
 Media Factsheet	18695
+Meta's Facebook	18950
 Million Investment Facility	18509
 Million Oil Palm Development Finance Facility	7695
 Missing for Facebook	8436
@@ -1678,7 +1696,7 @@ Pigg’s Peak Factory Next	12422
 Pillar In Investment Strategy Facebook Instagram	3768
 Ping Interoperability Gateway Factsheet	12257
 Pipeline Facilities	10781,80,3621
-Plan IPPF Infrastructure Project Preparation Facility	15372
+Plan IPPF Infrastructure Project Preparation Facility	15372,3515
 Plan... Actualités Cameroun Facebook Twitter Pinterest	9916
 Planned Action Critical Success Factors	16885
 Planned Action Implementation Rationale Facilitating	16885
@@ -1788,7 +1806,7 @@ Residential Care Facilities	12977
 Residential Care Facility	12661
 Residential Child Care Facilities	12977
 Residential Child Care Facility	12977
-Resilience and Sustainability Facility	5247,3111,6639,2108,152,246,406,81,587
+Resilience and Sustainability Facility	5247,3111,6639,2108,152,246,406,81,587,521
 Resilience and Sustainability Facility Arrangement	17909,81
 Resilience and Sustainability Facility The RSF	17257
 Results-Based Grants Facility for SMEs	17370
@@ -1823,7 +1841,9 @@ SCIENCES ENVIRONNEMENTALES FADEG FACULTÉ D’ADMINISTRATION	18143,27
 SDG Impact Investment Facility	9873
 SECÇÃO III FACTURAÇÃO DETALHADA E IDENTIFICAÇÃO	15
 SECÇÃO III Facturação Detalhada	15
+SERVICES AND FACILITIES FOR PARLIAMENT	19161
 SERVICES AUX PASSAGERS PASSENGER FACILITIES	16552,454
+SG AFRIQUE CENTRALE FACILITE DE FINANCEMENT	18909
 SHARES Facebook Twitter LinkedIn WhatsApp Email	7343
 SHORT TERM Facilitate	16876
 SIM Card Surveillance and Network Facility	6946
@@ -1834,6 +1854,7 @@ SOT No. Facility Capacity	12256
 SPECIAL FACTORS	7198
 STAFF WELFARE NEW FACES NEW APPOINTMENTS	13477
 SUIVEZ NOUS Facebook X	9620
+SUR LA FACTURATION ELECTRONIQUE NOR	18973
 SUR LES RÉSEAUX Facebook X LinkedIn	2442
 SUSTAINABILITY FACILITY	17257
 SUW World Bank IDA Scale-up Facility	15515
@@ -1883,6 +1904,7 @@ Standardisation Facilitation	16884
 Standards for Child Residential Facilities The Department	12977
 Standing Credit Facility	17138,97
 Standing Deposit Facility	17138,97,82
+Standing Deposit Facility and Standing Credit Facility	19098
 Standing Lending Facility	17317
 Startup Factories	14897
 State Border Management and Trade Facilitation Single	13403
@@ -1940,6 +1962,7 @@ Table of Rating Factors for Lease of Real Estate	14778
 Tags Administration Partager Facebook X WhatsApp	1876
 Targeted Finance Facility	13685
 Tariff Category Facility Charge	12394
+Tchad. Face	19194
 Tech-I4-A3 Upgrade R&D Facilities Egypt	15713
 Technical Assistance Facility	1204
 Technical Assistance Facility for Youth	10841
@@ -2042,6 +2065,7 @@ United Nations' AI for Good Innovation Factory	9185
 Unité de Facturation	14469
 Universal Energy Facility	18509
 University of Pretoria Faculty of Health Sciences	8022
+University of Seychelles Faculty of Lifelong Learning	18998
 União de Facto......................................372	10777
 Unlock TikTok and Facebook Monetization	17106,81,79
 Unplanned Capability Loss Factor	11953,39
@@ -2064,6 +2088,7 @@ Video Conferencing Facilities	6019
 Visa Facilitation Services	11218
 WAT DNN FactCheck	8522
 WCO Accelerate Trade Facilitation Programme	17201,166
+WFP Facilities	18904
 WIOCC Corporate Finance Facility	517
 WIOCC Group Sustainability-Linked Debt Facility	1520
 WSQ Facial Image Data	13005

@@ -14,6 +14,7 @@ ADTPME. Approved Management Centers	17615
 AE's Internal Approval	18581
 AF Approval	17849
 AF ESRS Appraisal Stage	18374
+AFR PROJECT APPRAISAL DOCUMENT	18887
 AFRICA AND THE SAHEL Approved	17017
 AFRICA EAST. Estimated Appraisal Date	761
 AFRICA. Estimated Appraisal Date	12137
@@ -55,13 +56,14 @@ APPROPRIATE The Federal Republic of Nigeria	4301
 APPROPRIATED RECURRENT BUDGET	13093
 APPROPRIATION	3123,1,12803
 APPROPRIATION ACCOUNTS	13420
+APPROPRIATION ACT	19096
 APPROPRIATION BILL	13126
 APPROPRIATION BILL VOTE	11272
 APPROPRIATIONS ON ITS OVERSIGHT VISIT	11289
 APPROVAL	11184,1390,4279
 APPROVAL Erkin Mamadaliev	10963
 APPROVAL OF PROMOTIONS	718
-APPROVAL Task Team Leader	3456,9376,279,1442,23,937,1141,21,1781
+APPROVAL Task Team Leader	3456,9376,279,1442,23,937,1141,21,1781,477
 APPROVALS	12364
 APPROVED	1228,3439,229,1527,8543,5,722,1139,9
 APPROVED BY CABINET	13295
@@ -155,7 +157,7 @@ Appraisingresearchonpersonalizedlearning	8602
 Appreciate	14104
 Appreciating	14039,1938
 Appreciating Kenya UAE Relations Submitted	14476
-Appreciation	958,5980,4312,2045,1599,2205
+Appreciation	958,5980,4312,2045,1599,2205,1852
 Appreciation Brief Description of Grievance	17114
 Appreciation For Existing Chinese Support	17641
 Appreciation The Board	1154
@@ -174,7 +176,7 @@ Apprenticeship	1204,11730,2063
 Apprenticeship Act. Section	1988
 Apprenticeship Program	1204
 Apprenticeship Training Programme	16973
-Apprentissage	1183,48,12059,10,2268,15,90,263,76,523,1328,423
+Apprentissage	1183,48,12059,10,2268,15,90,263,76,523,1328,423,656
 Apprentissage Cible	15936
 Apprentissage Effectif Apprentissage Traditionnel	2966
 Apprentissage Ouvert	15541
@@ -182,6 +184,7 @@ Apprentissage Soutien	13300
 Apprentissage des Métiers	18286
 Apprentissage des Métiers de Dioïla	17949
 Apprentissage-e	13290
+Apprentissages	18942
 Apprentissages Numériques	13630
 Appro	2958
 Approach	396,177,436,417,392,1927,3202,4277,76,32,85,108,27,877,228,32,72,156,45,350,2,154,44,166,278,609,322,45,33,77,202,24,944,340,331,64,59,5,129,40,1027
@@ -219,7 +222,7 @@ Approaching	18465
 Approaching Quantum Dawn	9698
 Approbation	2342,6549,1985,1096,1318,143,1429,904,20,62,189,237,182,1360,3,29,155,314
 Approbation du Marché	13524
-Approche	1187,2139,2460,1173,3915,2,89,1078,1263,1174,54,3,937,19,87,161,26,81,60,637,7,29,46,14,106,1138,98,116,19,198
+Approche	1187,2139,2460,1173,3915,2,89,1078,1263,1174,54,3,937,19,87,161,26,81,60,637,7,29,46,14,106,1138,98,116,19,198,672
 Approche Centrée	13841
 Approche DPI	12043
 Approche L’approche	17983
@@ -235,7 +238,7 @@ Approches	15724,124,1600
 Approches Fonctions Essentielles de Santé Publique	14622
 Approfondir	15722
 Approfondissement	643,9594
-Appropriate	3,18,13,1906,3736,1270,2,747,1428,1696,70,190,54,122,606,44,51,210,19,33,35,49,247,342,404,108,545,56,430,90,212,38,4,102,67,425,39,1025,416,20,6,7,39,18,7,21,144,756
+Appropriate	3,18,13,1906,3736,1270,2,747,1428,1696,70,190,54,122,606,44,51,210,19,33,35,49,247,342,404,108,545,56,430,90,212,38,4,102,67,425,39,1025,416,20,6,7,39,18,7,21,144,756,1017
 Appropriate Authorities’ Said Evidence	10034,231
 Appropriate Board	14736
 Appropriate Construction Tools	13392
@@ -255,12 +258,13 @@ Appropriated-stage	1613,121
 Appropriately	21,1807,39,121,10238
 Appropriateness	940,1156,3569,2711,3202,4080,1244
 Appropriati	15580
-Appropriation	1614,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,533,429,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,706,567,173,1,288,1,1,1,1,87,2,1,1,4,1,1142,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5204,273,87,1379,5,818,1018,1,183,207,2149
+Appropriation	1614,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,533,429,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,706,567,173,1,288,1,1,1,1,87,2,1,1,4,1,1142,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5204,273,87,1379,5,818,1018,1,183,207,2149,2118
 Appropriation Account	13420
 Appropriation Account. Management Response Treasury	13420
 Appropriation Accounts	13420
 Appropriation Accounts and Commissions	13420
-Appropriation Act	3,436,834,1,1,270,1,72,113,735,1,1,1,1,1,265,1755,1530,5268,577,6622,12,30,47
+Appropriation Act	3,436,834,1,1,270,1,72,113,735,1,1,1,1,1,265,1755,1530,5268,577,6622,12,30,47,309,2,5,203
+Appropriation Act REPUBLIC OF SEYCHELLES SUPPLEMENT	19096
 Appropriation Act The National Treasury	11289
 Appropriation Acts	18529
 Appropriation Bill	1273,1,1,237,1,32,1,61,1,1,1,1,1,1,1,1282,1,1,1,1,1,1,1667,1,1,1,1,1,624,1390,4701,7147
@@ -271,7 +275,7 @@ Appropriation PROGRAMME	11986
 Appropriation Statement	1607,1,1,1,1,1,1,9617
 Appropriation du POSAF	10712
 Appropriation of Net Income	11955
-Appropriations	11230,59,1021,2236,2432,386
+Appropriations	11230,59,1021,2236,2432,386,1621
 Appropriations Act	3583
 Appropriations Authorized Allocations	16978
 Appropriations-In-Aid	10313
@@ -283,7 +287,7 @@ Approuve	10876,3556
 Approuver	10876,3663,1030
 Approuvée	8891
 Approuvés	15395,391,253,138
-Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3,18,13,105,129,441,99,137,23,71,24,24,15,12,99,29,5,260,49,8,120,130,4,2,45,177,10,21,23,41,25,123,17,395,91,143,5,10,21,16,27,67,6,79,17,18,2,22,332,35,399,54,4,44,33,94,217,4,1,83,29,27,40,3,86,131,33,5,17,8,8
+Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3,18,13,105,129,441,99,137,23,71,24,24,15,12,99,29,5,260,49,8,120,130,4,2,45,177,10,21,23,41,25,123,17,395,91,143,5,10,21,16,27,67,6,79,17,18,2,22,332,35,399,54,4,44,33,94,217,4,1,83,29,27,40,3,86,131,33,5,17,8,8,157,101,98
 Approval Activity	16863
 Approval Actual	15424
 Approval Approval Package	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25
@@ -306,6 +310,7 @@ Approval ISR Seq	16705
 Approval Last Approved Rating Proposed Rating	10870,1101,257,39,173,3639,915,85,879
 Approval Last Approved Rating Risk Category	2712,15192,630
 Approval Makhtar Diop Gregor Binkert	15601
+Approval Means The Payment	19021
 Approval Number	12003
 Approval Package	2473,239,1941,6217,1054,47,257,39,173,1302,1396,894,47,357,558,85,825,54,4,397,175
 Approval Prepared	1988
@@ -349,7 +354,7 @@ Approve JIC	16853
 Approve Payment System Vision	10767
 Approve Requisition	9124
 Approve the Proposals	7198
-Approved	26,2,6,285,285,132,25,46,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53,145,50,31,79,322,147,136,91,7,19,38,13,6,1,3,48,3,85,76,301,113,7,131,33,239,24,37,14,107,21,218,295,5,25,12,17,4,2,12,9,24,231,66,319,38,202,67,128,10,7,35,93,16,6,79,17,9,11,248,106,35,357,42,54,4,44,127,217,4,1,128,51,27,16,4,211,17,8,52
+Approved	26,2,6,285,285,132,25,46,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53,145,50,31,79,322,147,136,91,7,19,38,13,6,1,3,48,3,85,76,301,113,7,131,33,239,24,37,14,107,21,218,295,5,25,12,17,4,2,12,9,24,231,66,319,38,202,67,128,10,7,35,93,16,6,79,17,9,11,248,106,35,357,42,54,4,44,127,217,4,1,128,51,27,16,4,211,17,8,52,113,101
 Approved Actual Exec Approved Actual Exec	6422
 Approved Actual YTD YTD Budget YTD	6422
 Approved Approved Date	16638
@@ -378,6 +383,7 @@ Approved Developer of Fuel Fiscal Devices	13606
 Approved Developers	13606
 Approved Draft Bill	11986
 Approved Draft Revised White Paper	11986
+Approved Educational AI Tools List	19079
 Approved Establishment Positions	12947
 Approved Exporters	12951
 Approved Forest Management Plan	16843
@@ -431,7 +437,7 @@ Approvisionnement Pharmaceutique. Ce	16195
 Approvisionnement Technique	15542
 Approvisionnements	15475,105
 Approvisionnent	3396
-Approvisionner	15542
+Approvisionner	15542,3446
 Approx	34,560,2,78,32,698,111,732,9610,1172,8,1782
 Approx. Cost	16436
 Approx. Crosswalk	1041
@@ -441,7 +447,7 @@ Approx. Q1- Q2	12512
 Approx. Q1Q2	4528
 Approximate	240,90,67,313,14454,260,1690
 Approximate Cost	16436
-Approximately	238,731,243,52,19,403,181,121,319,1276,21,187,648,467,294,121,1617,650,537,229,645,506,1209,4,50,17,44,91,28,187,1,149,12,186,42,53,375,2,39,9,228,25,35,46,39,23,4,10,32,57,137,307,18,88,279,87,798,43,380,258,25,2,73,59,108,247,250,64,6,263,52,98,640,132,33,22,128,6,9,35,8,301,234,81,97,255,331,47,113,86
+Approximately	238,731,243,52,19,403,181,121,319,1276,21,187,648,467,294,121,1617,650,537,229,645,506,1209,4,50,17,44,91,28,187,1,149,12,186,42,53,375,2,39,9,228,25,35,46,39,23,4,10,32,57,137,307,18,88,279,87,798,43,380,258,25,2,73,59,108,247,250,64,6,263,52,98,640,132,33,22,128,6,9,35,8,301,234,81,97,255,331,47,113,86,229
 Approximately Frw	14873
 Approximately GH	17362
 Approximately Kshs.176	14546
@@ -457,6 +463,7 @@ Apr-2017 Approval	15731
 Aspirations Multiphase Programmatic Approach	16675
 Assessment Approach and Coverage	17116
 Assigning the Appropriate Risk Classification	17114
+Auctioneers and Appraisers Act	18883
 Audit Approach	13420
 Audited Appropriation PROGRAMME	11986
 Audited Audited Audited Appropriation	11986
@@ -468,6 +475,7 @@ Authorized PROGRAM APPRAISAL DOCUMENT	11905
 Authorized PROJECT APPRAISAL DOCUMENT	3604
 Authorized PROJECT APPRAISAL DOCUMENT ON PROPOSED	16144
 Auto Approval of MRI Obligation	14533
+B PROJECT APPRAISAL DOCUMENT AFRICA ICT	18887
 BATTERY SUPPORT ACCESS APPROVE USE MOBILE	11964
 BILLION APPROVED BY THE BOARD	6539
 BILLION EQUIVALENT APPROVED BY THE BOARD	3562,7855
@@ -672,6 +680,7 @@ EBRD Approach	1818
 ECOWAS Common Approach	16874
 ECZ Showcases Climate Adaptation Approaches	13477
 ELECTRICITY LAW OF LIBERIA APPROVED	16851
+ENACTED Appropriation Act REPUBLIC OF SEYCHELLES	19096
 ENCERCLEZ LE CODE APPROPRIÉ	13300
 ENCERCLEZ LE CODE APPROPRIÉ ET ACCORDÉ	13300
 ENCERCLEZ LE CODE APPROPRIÉ MÉDICAMENT MÉDICAMENT	13300
@@ -749,6 +758,7 @@ Financing Total Amount Project of Components Approval	15663
 Foreword and Ministerial Approval The Federal Government	15147
 Framework PIU Project Appraisal Document PRSP	15424
 Fuel Operators and Approved Suppliers and Developers	13606
+Fusepay Receives Final Approval	19021
 Futures Triangle Approach	11265
 G Fifth Generation Network ABMT Appropriate	2775
 GAMBIA APPROVED	16844
@@ -895,7 +905,7 @@ Last Approved Additional Financing Total International	14553
 Last Approved International Bank for Reconstruction	15983
 Last Approved International Development Association	2889,12249
 Last Approved Proposed Additional	15983
-Last Approved Rating	11965,23,1932,1060,51,128,578,2396
+Last Approved Rating	11965,23,1932,1060,51,128,578,2396,849
 Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25
 Last Approved Rating Risk Category Proposed	18809
 Launch and Testing Approach	11957
@@ -990,6 +1000,8 @@ Name of BOZ CA Approver Name Designation	12364
 Name of BOZ Signature Date CA Approver	12364
 Namibia. Approximately	12337
 National Apprenticeship Programme	7695,7047
+National Approach	19128
+National Assembly Appropriation Act REPUBLIC	19096
 National Budget Profiles and Appropriation Acts	18529
 National Market None Approach C	17180
 National Steering Committee PAD Project Appraisal	16896
@@ -1126,7 +1138,7 @@ Program for Appropriate Technology	1261,563,1827,9779
 Programme AIA Appropriation In Aid AIDS	2775
 Progressive Approach	15760
 Project APPROVED	2473,2180,11316
-Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271,10
+Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271,10,133
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Appraisal Document PASyFiS Support	17849
@@ -1287,7 +1299,7 @@ Staged Implementation Approach	15760
 Standards-Based Approach	15200
 Starlink Approval	7430
 Statutory Timelines and Deemed Approval	18556
-Strategic Approach	3840
+Strategic Approach	3840,15202
 Strategic Priorities and Approach	17289
 Strategy Approach	13347
 Strategy Development Approach	12356
@@ -1319,7 +1331,7 @@ TF IBRD-90020 Status Effective Approval	11395
 TF IDA-D3080 Status Effective Approval	18792
 TF Status Approval Date Signing Date	15619,1019,1835
 TF Status Approval IBRD-96930 Effective	6579
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283,165
 TThe Risk-Based Approach	16212
 TYPE APPROVAL FEES	14883,2367
 TYPE APPROVAL FEES Refer	14883
@@ -1347,6 +1359,7 @@ Time of Appraisal ESStandardsNote NOTE	16896
 Time of Appraisal NOTE	3562
 Time of Appraisal Relevance Relevant	1988
 Togo Gives Final Approval	3437,3942,47
+Tounwende Alain Sawadogo Approved By APPROVALTBL	18933
 Trade Finance Approval and Rejection Rates	10718
 Trade Finance Approval and Rejection Rates Banks	10718
 Trade Finance Approval and Rejection Rates Trade	10718
@@ -1400,7 +1413,8 @@ VI. APPRAISAL SUMMARY	11525,3886
 VI. APPRAISAL SUMMARY A. Economic and Financial	11525
 VI. APPROPRIATION	12956,167
 VI. Appraisal Summary	15372
-VI. Appraisal Summary A. Economic and Financial	15372
+VI. Appraisal Summary A. Economic and Financial	15372,3515
+VI.Â Appraisal Summary	18887
 VII. APPROPRIATION	12922
 VII. Approach	18770
 VISUAL APPROACH	17006

@@ -1,6 +1,6 @@
 ACCIÓN CARTOGRAFÍA SEGUIMIENTO BIOKO SUR PROVINCIAL	4209
 AL Cartes	13390
-Actualização da Carta de Política Educativa	18796
+Actualização da Carta de Política Educativa	18796,173
 Add To Cart	15842
 African Countries Putting the Cart	6603
 Agriculture Carte	13341
@@ -71,7 +71,7 @@ CONCEPTS ET DEFINITIONS VIII CARTE DES	10847
 CaRtSiofnororef	12151
 Cadastre and Cartography	5004
 Caractéristique Mutuelle de Carte Mutuelle Mutuelle Autre	13300
-Carta	10714,679,48,15,5,103,1297,2483,182,493,875,126,83,1649,26
+Carta	10714,679,48,15,5,103,1297,2483,182,493,875,126,83,1649,26,180
 Carta Africana	14,15463,1421
 Carta Africana da Estatística	11526
 Carta Africana de Estadística	16898
@@ -109,7 +109,7 @@ Cartable Numérique	15553
 Cartas	8930
 Cartas Universal	1701
 Cartas da Nigéria	2401
-Carte	643,2809,397,76,199,10,87,1519,219,135,381,3,142,713,385,1019,317,426,264,803,164,3,112,21,28,975,193,1298,34,15,110,68,281,355,238,2,46,59,803,46,109,73,90,3,12,30,202,19,327,18,78,262,20,81,763,330,9,9,3,7,13,7,4,3,3,13,10,209,184,1,7,7,6
+Carte	643,2809,397,76,199,10,87,1519,219,135,381,3,142,713,385,1019,317,426,264,803,164,3,112,21,28,975,193,1298,34,15,110,68,281,355,238,2,46,59,803,46,109,73,90,3,12,30,202,19,327,18,78,262,20,81,763,330,9,9,3,7,13,7,4,3,3,13,10,209,184,1,7,7,6,606,72,2,211
 Carte Administrateur	17827
 Carte Article	18032
 Carte Business GUCE	5593
@@ -180,6 +180,7 @@ Cartografía de INDEFOR	16875
 Cartograma	4044
 Cartographer	13777,3266,84
 Cartographers	11129
+Cartographic	18951
 Cartographic Application Interface The EAD Pad	18464
 Cartographic Building Frame Map	18464
 Cartographic Building Frame Map STRUCTURES	18464
@@ -188,7 +189,7 @@ Cartographic Methodology	18464
 Cartographic Methodology ENUMERATION AREA	18464
 Cartographic Output	18464
 Cartographic Output METHODOLOGY	18464
-Cartographie	235,952,3138,1523,591,2452,1200,785,26,1141,1439,220,203,520,1133,37,78,39,8,216,101,26,89,43,164,262,5,88,8,724,2,35,11,336,37,5,13,88,10,154,32,122,6,25
+Cartographie	235,952,3138,1523,591,2452,1200,785,26,1141,1439,220,203,520,1133,37,78,39,8,216,101,26,89,43,164,262,5,88,8,724,2,35,11,336,37,5,13,88,10,154,32,122,6,25,604,62
 Cartographie CNLS	15423
 Cartographie Censitaire	13518
 Cartographie HACHETTE Tourisme PLAN STRATEGIQUE	15722
@@ -200,7 +201,7 @@ Cartographie du Recensement Général de DSDS	18291
 Cartographie du Système	14438
 Cartographie. L'Agence	15375
 Cartographiedesdonnées	18297
-Cartographier	1187,7338,2351,89,69,1009,3540,325,733,807,858
+Cartographier	1187,7338,2351,89,69,1009,3540,325,733,807,858,682
 Cartographies	15720
 Cartographiques	3396,14587
 Cartographiques Nombre	3396
@@ -268,6 +269,7 @@ Collect and Carting	14738
 Columnists Leader Star-blogs Cartoon Sports Football	9646
 Comissão de Carteira	11056
 Concrete Structures and Carting	14738
+Conduire Carte Grise Actes	19201
 Configuração da Carteira de Projectos	10783
 Considerações Finais A Carta Sanitária de Cabo	16019
 Conteúdo da Cartografia Cadastral	11384
@@ -332,6 +334,7 @@ II.2.2.3. Carte	13452
 III.2.4.2. Carte	15685
 INFORMACIÓN CARTOGRÁFICA PARA INCORPORARLOS EN	16875
 Identité Carte	17485
+Identité Nationale Passeport Carte de Résident Permis	19201
 Impression de Carte Périmètre Enrôlement Périmètre IDMS	14480
 Institut National de Cartographie	15530,25
 Instruction. Carte	17485
@@ -353,6 +356,7 @@ MENTIONNÉ. CARTE D'ASSURANCE MALADIE	13300
 MONTREZ LA CARTE	13300
 Maeve de France and Martin Noblecourt of CartONG	2678
 Mastercard Cartes	13390
+Mauritanie Carte	18916
 Meios Auxiliares da Cartografia Cadastral	11384
 Meta-Informação BM Banco Mundial CAE Carta	15535
 Modelo de Carta de Apresentação da Proposta. Anexo	18753
@@ -406,6 +410,7 @@ SUBCOMISSÃO DE CARTOGRAFIA Betsaida Costa	10757
 SYSTEMES NATIONAUX DE CARTOGRAPHIE A LARGE	13482
 Santé CAM Carte	13306
 Service Carte Sanitaire. Article	15678
+Service de Cartographie	18926
 Servicio de Cartografía	16898
 Survey Methodology and Cartography	12768
 Survey and Cartography	17016

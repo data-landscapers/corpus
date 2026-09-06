@@ -24,6 +24,7 @@ ALAVAN MEDICAL CLINIC	7167
 ALFLO MEDICAL CLINIC Data Controller INST-255408E72D3	7167
 ALMASI DENTAL CLINIC Data Controller INST-912914A0711	7167
 AMANI TUNZA KWA ROSE CLINIC Data	7167
+AMELIORATION DU CLIMAT DES AFFAIRES	18973
 AMGLAD MEDICAL CLINIC Data Controller INST-626871D195F	7167
 AMGLAD MEDICAL CLINIC Data Processor INST-626871D195F	7167
 AMOORE SPECIAL CLINIC LTD Data Controller	7167
@@ -246,6 +247,7 @@ CLIDATA	16317,1556,89,347
 CLIDATA and ClimSoft	16947
 CLIENT	13300
 CLIENT CONNECTION	10876
+CLIENT DETAILS Cable	18991
 CLIENT DETAILS Libyan International Telecom Company	17436
 CLIENT LOGIN	13333
 CLIENT SATISFACTION SURVEY	5679
@@ -271,7 +273,7 @@ CLIMAT DESIGNAÇÃO	18757
 CLIMATE	13420,54,3499
 CLIMATE ACTION	11586,1627
 CLIMATE AND THE ENVIRONMENT	17228
-CLIMATE CHANGE	14773,3097
+CLIMATE CHANGE	14773,3097,1061
 CLIMATE CHANGE AND ADAPTATION NEEDS	1828
 CLIMATE CHANGE AND FORESTRY STATE DEPARTMENT	14471
 CLIMATE CHANGE Adults Experiencing Climate Change	12409
@@ -353,6 +355,7 @@ Case of Clients	12948
 Cash Transfers and Climate-Resilient Development	15658
 Cash-for-Work Climate-Smart Enhanced Public Works Program	13060,51
 Cassava. Clients	6667
+Categorias de Clientes	18896
 Catégorie Clients	13390
 Catégorie Hommes Femmes Conjoints Total Clients	13390
 Central Africa Climate Application and Prediction Centre	11420
@@ -381,7 +384,7 @@ City County NCCAP National Climate Change	2775
 Civil Protection NCCP National Climate Change	17962
 Clean Energy and Climate Infrastructure	12937
 Cleveland Clinic Abu Dhabi	15262
-Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40,87,71,259,22,505,1,1,72,125,20,180,7,22,51,14,25,21,8,26,16,5,5,39,13,39,4,18,161,510,147,51,93,461,847,15,23,197,109,1060,71,622,117,69,12,168,3,1,6,165,760,47,88,237,204
+Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40,87,71,259,22,505,1,1,72,125,20,180,7,22,51,14,25,21,8,26,16,5,5,39,13,39,4,18,161,510,147,51,93,461,847,15,23,197,109,1060,71,622,117,69,12,168,3,1,6,165,760,47,88,237,204,249,33
 Click Activation	11298
 Click HERE To Apply	9960
 Click Here Contact Us	12282
@@ -472,10 +475,11 @@ Client. Origin of Goods and Consulting Services	13037
 Client. Pour	17902
 Client. Section	13037
 Client. The Consultant	13037
-Cliente	2816,8552,36,494,123,3551,749,967,1490
+Cliente	2816,8552,36,494,123,3551,749,967,1490,118
 Cliente ENDE Entre	9040
 Cliente ENDE Gratuito Saber	9040
 Cliente. Para	5319
+Cliente. Sec	18896
 Clientes	2952,2217,6199,650,5584,1228
 Clients	2461,2786,286,489,329,2648,456,400,1120,990,21,234,736,44,5,328,54,3,87,1996,197,129,1043,25,104,902,245,351,158
 Clients Additional Financing Loan Closing Date	11924
@@ -518,14 +522,14 @@ Clima	1701,1115,232,1663,36,1071,200,5372,4113,459,34,272,607,94,178,1610
 Clima CUS Cobertura Universal de Saúde DHIS2	15966
 Clima GFC Global Forest Change GFOI	16875
 Clima de Trabalho Esta	2816
-Climat	1005,9606,101,162,2386,159,1069,1,1,984,22,4,211,35,291,75,269,190,50,25,1227,9,59,122,55,168,30
+Climat	1005,9606,101,162,2386,159,1069,1,1,984,22,4,211,35,291,75,269,190,50,25,1227,9,59,122,55,168,30,626
 Climat AMCOMET Conférence Ministérielle Africaine	16621
 Climat GIZ Agence Allemande de Coopération Internationale	17907
 Climat du Gabon. Priorité	15500
 Climat. AICCRA	18309
-Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4,93,1,167,3,2,79,117,24,61,52,80,11,29,132,142,42,101,152,17,269,60,436,45,75,40,11,12,40,168,1,34,108,58,281,11,44,70,77,394,157,28,72,70,6,2,3,71,79,25,13,12,8,3,39,62,70,1,8,40,164,169,42,51,54,1,2,64,6,51,63,115,173,2,9,730,22,26,20,7,24,2,36,90,13,8,16,2,17,98,2,3,25,120,65,126,274,52,40,185,51,95,8,8,61,85,49,74,144,55
+Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4,93,1,167,3,2,79,117,24,61,52,80,11,29,132,142,42,101,152,17,269,60,436,45,75,40,11,12,40,168,1,34,108,58,281,11,44,70,77,394,157,28,72,70,6,2,3,71,79,25,13,12,8,3,39,62,70,1,8,40,164,169,42,51,54,1,2,64,6,51,63,115,173,2,9,730,22,26,20,7,24,2,36,90,13,8,16,2,17,98,2,3,25,120,65,126,274,52,40,185,51,95,8,8,61,85,49,74,144,55,156,83,80,14
 Climate ASAP. FarmDrive	11994
-Climate Action	1131,6271,4184,27,242,303,218,235,2141,426,1797,126,63,96,1527
+Climate Action	1131,6271,4184,27,242,303,218,235,2141,426,1797,126,63,96,1527,273
 Climate Action Goal	11332
 Climate Action Grounded	11332
 Climate Action Network	8891
@@ -616,7 +620,7 @@ Climate Change and Development	16896,26
 Climate Change and Development Report	10763
 Climate Change and Disaster Risk	16949
 Climate Change and Disaster Screening	1284,10621,3586,62,105
-Climate Change and Environment	12964,3897
+Climate Change and Environment	12964,3897,2096
 Climate Change and Environmental Sustainability	16975
 Climate Change and Financial Stability	17235
 Climate Change and Forestry	14471
@@ -887,7 +891,7 @@ Clinic Information Management System	12569
 Clinic Linkage ID Number	8604
 Clinica Geral	18768
 Clinicaa	3821
-Clinical	1009,2642,4650,302,1252,176,1547,7,3621,205,813,747,1570
+Clinical	1009,2642,4650,302,1252,176,1547,7,3621,205,813,747,1570,396
 Clinical Context Object Workgroup	1009
 Clinical Decision Support System	9855,4239
 Clinical Decision Support Systems	9855
@@ -904,6 +908,7 @@ Clinical Officers U.S. Mozambique Mozambique Mozambique	4260
 Clinical Officers Year U.S. Government	4153
 Clinical Patient Management System	10188
 Clinical Pharmacology	11156
+Clinical Pharmacy	19154
 Clinical Practice	8603
 Clinical Research Organisations	8831
 Clinical Research Regulatory Council	14773
@@ -932,7 +937,7 @@ Clinics	4535,4070,2973,801,592,6,63,4359,1142
 Clinics and Communities	12481
 Clinics and Community Health Centres	11252
 Clinics and TB	12421
-Clinique	737,10084,2479,2295,90,2134
+Clinique	737,10084,2479,2295,90,2134,1217
 Clinique ARTICLE	17819
 Clinique Gouvernement	17819
 Clinique Les Manguiers	15780
@@ -957,7 +962,7 @@ Cliquant	13375
 Clique	9990,3630,2346,61,2818
 Cliquer	6954,2452,3969,3143,1914
 Cliquersurl’onglet	16034
-Cliquez	747,4213,62,1932,103,402,182,457,950,358,2291,56,1867,577,1172,426,590,133,111,834,59,349,329
+Cliquez	747,4213,62,1932,103,402,182,457,950,358,2291,56,1867,577,1172,426,590,133,111,834,59,349,329,1001
 Clirec	15474
 Clisse	15361
 Clive Humby	6982,729,3443
@@ -1079,6 +1084,7 @@ Director General of Clinical and Public Health Services	12338
 Director and Climate Expert	15914
 Director for Climate and Environment	18869
 Disaster Management and Climate Change	13295
+Dispositif fiscal climat affaires.pdf	18973
 District de D’UNE CLINIQUE D'ACCOUCHEMENT Bamako	17819
 Diversify and Climate	14997
 Doctors and Clinical Officers	4217
@@ -1145,12 +1151,13 @@ Enterprise SNCC Guinea’s National Climate Change	1264
 Environment Including Effects of Climate Change	16852
 Environment and Climate	12972
 Environment and Climate Action	17369,1418
-Environment and Climate Change	7167
+Environment and Climate Change	7167,11760,52
 Environment and Climate Change Space	1131
 Environment and Climate Change Statistics	10870
 Environment and Climate Change. Together	18578
 Environment and Climate Comments	10870
 Environmental Degradation and Climate Change Management	12253
+Environmental Sustainability And Climate Change Resilience	18948
 Estimates Climate-induced	13331
 Eswatini Click	13021
 Eswatini's Client Management Information System	12470
@@ -1186,6 +1193,7 @@ Financing Locally Led Climate Action FM	2775
 First National Adaptation Plan for Climate Change	3583
 Fiscal Impacts of Climate Disasters	1828
 Fleurhoff Mall Client Connect Zone	10639
+Floods Climatology Meteorology Atmosphere	18904
 Forecasts ER2C Climate Resilient Water WBG	13729
 Forest Climate Facility Trust Fund Commercial	15983
 Forest and Climate Change	13561
@@ -1550,7 +1558,7 @@ PUMA and ClimSA	16957
 PUMA and ClimSA Infrastructures	17922
 PUMA and ClimSA Stations	16957
 Pan-African Clinical Trials Registry	11585
-Paris Climate Agreement	789,2815,7114,3912,3568,95
+Paris Climate Agreement	789,2815,7114,3912,3568,95,862
 Parliament. MR CLINTON HEIMANN ACTING DIRECTOR-GENERAL	11261
 Participatory Integrated Climate Services for Agriculture	4172
 Paul Roux Clinic	11980
@@ -1601,9 +1609,11 @@ Prévision Climatique	16499
 Public Clinical Trial Unit	7845
 Public Clinical Trial Unit Any	7845
 Public Financial Management and Climate Policy	18500
+Public Health Authority Mr. Cliff Barra	19049
 Public Interest Clinical Trial	7845
 Publique Clientèle	10712
 Quadro de Governança Climática	15962
+Quality of Care and Clinical Governance	19177
 RCC Regional Climate Centre RUSLP	18578
 REGISTRARS E CLIENTES DIRETOS	11531
 RESPONSABILITÉS DU CLIENT	12043
@@ -1685,7 +1695,9 @@ Services Climatologiques CNUDB Convention des Nations Unies	16621
 Services Climatologiques COVID Corona Virus CRA	17873
 Setlopo Clinic	11980
 Settlement Clinic	10776
+SeyID Click	18935
 Seychelles Climate Transparency	11721
+Seychelles Conservation and Climate Adaptation Trust	19191
 Shekede2 Nyaradzo Marilyn Muzira2 Specialisation Climate	520
 Shifting Global Climate Negotiations	13532
 Shoshong Clinic	12607

@@ -5,6 +5,7 @@ Functionality Subtitle	14778
 II Neighbourhood Data Subtitle	14778
 III Real Estate Subtitle	14778
 Joint Food Security Monitor Subtitle	18645,79
+Output Subtotal	18985
 Per Diem SUBTOTAL	1988
 Rating I Location and Site Condition Subtitle	14778
 SUBTOTAL	1988,9264,5633
@@ -18,9 +19,11 @@ Subtotal Bobô-Forro	18793
 Subtotal FOTOVOLTAICA	18793
 Subtotal GUINEA-BISSAU	17283
 Subtotal Goods	11955
+Subtotal HEADING	18985
 Subtotal Hidroelétrica	18793
 Subtotal Isoladas	18793
 Subtotal Local	13037
+Subtotal Outside HEADING	18985
 Subtotal Raw	11955
 Subtotal Santo Amaro	18793
 Subtotal Solar	18793

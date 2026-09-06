@@ -125,6 +125,7 @@ Banditry	9068
 Bandits	9616,1468,1008
 Bandjougou Missa SANGARE	17982
 Bandjoun	15542
+Bandoro PENDÃ	18887
 Bandra	12576
 Bandra Kurla Complex	12576
 Bands	15622
@@ -146,6 +147,7 @@ Bandwidth of Equatorial Guinea	16942
 Bandwidth-based	6891
 Bandwidths-Terrestrial Ntwks ECW	16594
 Bandwith GOAL TO ACHIEVE	15679
+Benchmark of International Bandwidth	18931
 Bria and Kaga Bandoro	15731
 Broad Band Access	14729
 Burundi Large Bande	13313
@@ -186,6 +188,7 @@ Dante Bandiangou	10533
 Designation Guard Band Uplink	14780
 Digital Analogue Proposed Frequency Band Proposed	736
 District de Banda	15615
+Domestic Bandwidth	18887
 Douentza Bandiagara Bamako Mali Langue	18014
 Douentza Bandiagara Bamako Urbain Bamako Autres	18014
 Downlink Bands	17250
@@ -211,13 +214,17 @@ Frequency Band	6946,10304
 Frequency Band Freq. Band FY	6946
 Frequency Band Proposed New Permission	736
 Frequency Band Utilization	6051
-GHz Band	736
+Frequency Bands	18971
+GHz Band	736,18235
 GHz Bande	15943
-GHz Bands	736
+GHz Bands	736,18235
+GHz FREQUENCY BANDS	18971
+GHz Frequency Bands Author	18971
 GPP Band	7368
 Gbps International Internet Bandwidth	12971
 Gbps Total Internet Bandwidth Utilised	18485
 Gbps Undersea Bandwidth	6946
+Geostationary Bandwidth	18887
 Gorou Banda	18118
 Guard Band Bandwidth	14780
 Guinée GUILAB Guinéenne de Large Bande GUPOL	16626
@@ -242,14 +249,15 @@ Identité du Marque Model Type Bande de Statut	998
 Implementação da Rede Nacional de Banda Larga	2132,481
 Importance for Global Development. Romina Bandura	10775
 Incoming and Outgoing International Internet Bandwidth	13295
-International Bandwidth	4676,1995,10271,33,895
+International Bandwidth	4676,1995,10271,33,895,1017
 International Bandwidth Capacity	16883
 International Bandwidth Cost	13704
 International Bandwidth Demand Trends Bandwidth	2830
 International Bandwidth Tariffs	16883
 International Bandwidth Usage	14836
 International Bandwidth Usage Megabits	14836
-International Internet Bandwidth	718,5953,275,8190
+International Internet Bandwidth	718,5953,275,8190,4015
+International Internet Bandwidth International Internet	19151
 Internet Banda Larga Móvel	18791
 Internet Bandwidth	14858
 Internet Usage International Bandwidth Usage	14836
@@ -259,7 +267,7 @@ José Bandeira	12816
 Joël Bandiba	2071
 K-Factor Bandwidth Annual Annual	17250
 Ka Band	736
-Kaga Bandoro	10829,4790,112
+Kaga Bandoro	10829,4790,112,3156
 Kelvin Banda	13429
 L'ESTIMATION DE LA BANDE PASSANTE	15850
 LANDILANI BANDA	13481

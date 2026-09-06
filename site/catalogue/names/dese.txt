@@ -46,7 +46,7 @@ Cairo Alexandria Desert Road Giza Governorate	10764,80,7012,267
 Capacidade Institucional Desenvolver Infraestruturas	11569
 Center for Desert Research	17157
 Code Deset	11180
-Combat Desertification	1988,12019,1122,2028,1063
+Combat Desertification	1988,12019,1122,2028,1063,866
 Combat Desertification NDS National Drought Strategy	17157
 Combat Desertification The Drought Taskforce	17157
 Combat Desertification UNCCD United Nations Framework	15129
@@ -133,7 +133,7 @@ Desenvolvi	11527
 Desenvolvido	6837,2595,8196,1171,25
 Desenvolvido Por SP Media	9799
 Desenvolvimen	18753
-Desenvolvimento	13,2,780,731,282,1008,50,653,173,814,514,1442,2774,24,174,711,175,427,8,5,9,14,546,33,3,11,9,5,15,25,10,1,1,9,5,70,4,1,11,1,12,7,4,3,140,146,43,123,180,576,17,36,2610,10,26,1,49,9,149,5,5,130,86,56,53,3,88,141,53,1,182,528,17,30,20,3,8,93,122,4,13,35,14,38,216,1124,1,7,3,4,1,4,1,1,5,2,2,5,6,4,3,18,19,15,8,13
+Desenvolvimento	13,2,780,731,282,1008,50,653,173,814,514,1442,2774,24,174,711,175,427,8,5,9,14,546,33,3,11,9,5,15,25,10,1,1,9,5,70,4,1,11,1,12,7,4,3,140,146,43,123,180,576,17,36,2610,10,26,1,49,9,149,5,5,130,86,56,53,3,88,141,53,1,182,528,17,30,20,3,8,93,122,4,13,35,14,38,216,1124,1,7,3,4,1,4,1,1,5,2,2,5,6,4,3,18,19,15,8,13,71,1
 Desenvolvimento Agrícola	12034,6726
 Desenvolvimento China	17337
 Desenvolvimento Comunitário	10763
@@ -148,7 +148,7 @@ Desenvolvimento Este	18822
 Desenvolvimento Experimental	11385
 Desenvolvimento FNUAP Fundo	18783
 Desenvolvimento Florestal	18760
-Desenvolvimento Global	11564
+Desenvolvimento Global	11564,7394
 Desenvolvimento Humano	795,10567,175,6,1234,11,3699,613,1668,13,2
 Desenvolvimento Humano ID	9441
 Desenvolvimento Humano Título	12788
@@ -166,16 +166,16 @@ Desenvolvimento Participativo	17062
 Desenvolvimento RAM	2816
 Desenvolvimento Regional. Adicionalmente	11366
 Desenvolvimento Resiliente	17147
-Desenvolvimento Rural	11527,1250,2627,3353,3,7,5,1,25,33
+Desenvolvimento Rural	11527,1250,2627,3353,3,7,5,1,25,33,64,1
 Desenvolvimento Rural. A4.3. Ateliê	18760
 Desenvolvimento Rural. Que	18760
 Desenvolvimento STP São Tomé	18783
-Desenvolvimento Seguro de Software	18788
+Desenvolvimento Seguro de Software	18788,158
 Desenvolvimento Social	11108,4329,247,10,444,49
 Desenvolvimento Sus	11527
 Desenvolvimento Sustentavel	1341,743,2330
 Desenvolvimento Sustentáveis. Fruto	1215
-Desenvolvimento Sustentável	2816,703,5741,2133,62,72,1282,2624,256,5,272,53,1081,1679,4,5,43
+Desenvolvimento Sustentável	2816,703,5741,2133,62,72,1282,2624,256,5,272,53,1081,1679,4,5,43,114,1
 Desenvolvimento Sustentável PAM Programa Alimentar Mundial	18783
 Desenvolvimento Sustentável RMPGB Rede	11557
 Desenvolvimento Sustentável da Ilha	18763
@@ -197,7 +197,7 @@ Desenvolvimento da Educação	9259
 Desenvolvimento da Educação Guiné-Bissau	11538
 Desenvolvimento da Educação Lei de Bases	10766
 Desenvolvimento da Educação da Guiné-Bissau	17058
-Desenvolvimento da Estratégia Nacional de Cibersegurança	18788
+Desenvolvimento da Estratégia Nacional de Cibersegurança	18788,157,1
 Desenvolvimento da Estratégia de Inteligência Artificial	2816
 Desenvolvimento da Governação Electrónica	12777
 Desenvolvimento da IA	2816,703,13818
@@ -243,11 +243,12 @@ Desenvolvimento. Em São Tomé	18866
 Desenvolvimentos Sustentável	11569
 Deseosos	16898
 Desequilibrios	1701
-Desert	14085,1388,999,1585
+Desert	14085,1388,999,1585,910
 Desert Air	12378
 Desert Communities	17157
 Desert Encroachment	17157
 Desert Law No	15473
+Desert To Power	18972
 Desert-to Power	17894
 Desert-to-Power	17894
 DesertPOS	14385
@@ -316,6 +317,7 @@ INOVAÇÃO E DESENVOLVIMENTO	11397
 INSTITUTO DE DESENVOLVIMENTO LOCAL-FAS	11406
 Indicadores Balanceados de Desempenho	11379
 Indicadores Desempenho	15966
+Initiative Desert	18967
 Instituições Financeiras de Desenvolvimento	12789
 Instituto de Desenvolvimento Industrial	11443
 Instituto de Desenvolvimento Local	14200
@@ -445,6 +447,7 @@ Tempo Real da Comunidade de Desenvolvimento	6360
 Trabalhos Desenvolvidos	15922
 UM MEIO PARA O DESENVOLVIMENTO	16487
 Uncovering Digital Deserts	11424
+United Nations Convention To Combat Desertification	19086
 West Delta Desert	15473
 World Atlas of Desertification	17157
 X X X X Desenvolvimento	11569

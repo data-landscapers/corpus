@@ -59,6 +59,7 @@ African Risk Capacity Agency	10819
 African Risk Capacity Facility	10768
 African Risk Capacity Group	17105
 Agency NRA National Risk Assessment NSFR	14997
+AgencyÂ RisksÂ	18887
 Agricultural Risk Management Platform	18309
 Agricultural Sector Risk Assessment	18104
 Agriculture and Climate Risk Enterprise	11994
@@ -144,6 +145,7 @@ Business Process Risk	13053
 Business Process Risk Business	13053
 Börzel and Risse	17780
 C. Risques	16613
+CABÂ APL1A.Â ProjectÂ RisksÂ	18887
 CBE Order. Interest Rate Risk Interest	11131
 CBG EXPLAINS RISKS OF GOV’T’S INCREASED	10062
 CBL Policy Statement Matrix Key Risks	17138
@@ -264,6 +266,8 @@ Context Risk Multiplier Diagnostic Tool	11156
 Context Risk Multiplier The Context Risk	11156
 Context Risk Multiplier Tool	11156
 Control Risk FM	15372
+Control Risk MI MI Budgeting	18887
+Control Risk MI ML Budgeting	18887
 Control Risks	3604
 Corporate Risk Management	17235
 Corporate Risk and Compliance Division	4529
@@ -358,6 +362,8 @@ Demand-Driven Phased Economic Risks Analysis	12512
 Democratic Republic Congo Disaster Risk Financing	10763
 Demographic Risk Factors Rural	18441
 Department of Internal Audit and Risk Management	18444
+Department of Risk and Disaster Management	19096,35
+Department of Risk and Disaster Management. Minister Wallace	19016
 Deputy Commissioner for Disaster and Risk Management Ali	3388
 Description RISED	14027
 Description of Risk	15518
@@ -848,6 +854,8 @@ MOMO PSB Credit Risk Advisory	11469
 MOR's Organizational Risk and Ethics Directorate	12500
 MOUNTING RISKS	12181
 MPOX Risque	14488,1,1
+MPTIC Risk	18887
+MPTNT Risk	18887
 MS MS MS Overall Risk S	1284
 MSMEs. Rise of E-commerce and Fintech	17870
 Macroeconomic Risks	13332
@@ -907,7 +915,7 @@ Moderate Risk	15011,2103
 Moderate Risk Category	16144
 Moderate Risk Project Works	13017
 Moderately Satisfactory Moderately Satisfactory Overall Risk	15619,116,903,1835,61
-Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462
+Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462,165
 Moderately Satisfactory Risk	16614
 Moderately Satisfactory. Overall Risk	15782
 Moderately Satisfactory. The Environmental and Social Risk	15983
@@ -986,6 +994,7 @@ OUTLOOK AND RISKS	13868,3341,48,69,177,406,81,833
 OUTLOOK AND RISKS 10 PROGRAM DISCUSSIONS	17909
 OUTROS RISCOS RELACIONADOS COM O RSI	11376
 OVERALL FM RISK MI	15372
+OVERALL FM RISK MI ML	18887
 OVERALL RISK OF PUBLIC DEBT DISTRESS	13868
 OVERALL RISK RATING Overall Risk	18851
 OVERARCHING RISK FRAMEWORK Risk-Assessment and Scoring	11156
@@ -1001,7 +1010,7 @@ Openserve and Frogfoot Rise	10735
 Operating Environment and Emerging Risks	11134
 Operation Document SYSTEMATIC OPERATIONS RISK- RATING	3562
 Operational Procedures PDO Operational Risk Assessment	15424
-Operational Risk Assessment Framework	15372,52,2017
+Operational Risk Assessment Framework	15372,52,2017,1446
 Operational Risks	1554,10802
 Operational and Risk Management	11553,6756,269,209
 Opportunities Risks Digital Start-up	14897
@@ -1020,6 +1029,8 @@ Overall Risk Rating During Comments Implementation	15372
 Overall Risk Rating Jan	16079
 Overall Risk Rating Jun	16994
 Overall Risk Rating Moderately Satisfactory Moderately	18792
+OverallÂ RiskÂ RatingÂ	18887
+OverallÂ RiskÂ RatingÂ DuringÂ CommentsÂ PreparationÂ	18887
 Oversight and Systemic Risk	5574
 P176459 Environmental and Social Risk Classification	1228
 P180059 Financing Instrument Environmental and Social Risk	3604
@@ -1248,6 +1259,7 @@ RRA Risk Management Approaches	14985
 RURA BNR Notification Gateway RISA RISA	12359
 Radio Risaala	15007
 Raise Implementing Risk	1000
+Ramp Up Rise Up	19140
 Rapid Risk Assessment and Enhanced Surveillance	10776
 Rapports des OSC Risques	15722
 Rating Risk Category Rating	16705
@@ -1277,7 +1289,11 @@ Renewable and Risk Mitigation Independent Power Producer	11228
 Reputational Risk	11209
 Reshape Rise	13673
 Reshaping the Modern SOC Risk Management Framework	3279
+Residual Rating Project Design Risk Inherent	18887
+Residual Rating Project Design Risk Internal	18887
 Residual Risk	11153
+Residual Risk Rating Project Design Inherent	18887
+Residual Risk Rating Project Design Internal	18887
 Resource Risk	12448
 Retention and Motivation Rising	14818
 Retrospective Risk Assessment	7548
@@ -1306,6 +1322,7 @@ Rise Fund’s US	11310
 Rise Hub	8457,6782
 Rise Of Merchant Super-Apps	8107
 Rise Science	8764
+Rise Up Association	19140
 Rise Worldwide	9830
 Rise of Artificial Intelligence	9511
 Rise of Extractive Practices	3810
@@ -1562,6 +1579,7 @@ Risk Risk Level	12241,3363
 Risk Risk Rating Mitigation Measure	10768
 Risk Risk Rating Risk Mitigating Measures	10829
 Risk Risk Rating Risk-Mitigation Measures Conditions	3604
+Risk Risk Risk Mitigating Measures Incorporated	18887
 Risk Score	13053
 Risk Score Predicts Audit Performance	18318
 Risk Severity Mitigation Measures Responsible and Impact	11525
@@ -1586,6 +1604,7 @@ Risk and Compliance Office	11134
 Risk and Contingency Planning	16963
 Risk and Crisis Management	12537
 Risk and Cybersecurity Management	11134
+Risk and Disaster Management	19131
 Risk and ICT Committee Member Details	11250
 Risk and IT Committee	11131
 Risk and Impact Analysis	12538
@@ -1652,7 +1671,7 @@ Risk-informed	15725
 Risk-sharing	12297,4938
 Risk3 Risk Risk Mitigating Measures Conditions	15372
 Risking	9642
-Risks	704,1,84,125,1,1,1,1,1,1,1,1,1,38,1,8,571,2,11,260,53,358,1,323,228,181,204,442,257,23,243,401,1005,144,1871,406,886,397,1592,32,210,60,5,2,18,369,330,284,373,25,795,49,39,112,149,187,70,627,36,334,94,13,96,234,39,107,143,2,62,1159,42,1,22,17,30,15,88,6,9,43,52,26,22,3,243,367,13,26,62,19,380,103,2,56,261,31,28
+Risks	704,1,84,125,1,1,1,1,1,1,1,1,1,38,1,8,571,2,11,260,53,358,1,323,228,181,204,442,257,23,243,401,1005,144,1871,406,886,397,1592,32,210,60,5,2,18,369,330,284,373,25,795,49,39,112,149,187,70,627,36,334,94,13,96,234,39,107,143,2,62,1159,42,1,22,17,30,15,88,6,9,43,52,26,22,3,243,367,13,26,62,19,380,103,2,56,261,31,28,36,46
 Risks Being Left Out INGOs	6947
 Risks Evaluation	17114
 Risks Grow With Home-Based Care	3279
@@ -1705,13 +1724,16 @@ Risks of SEA	16926
 Risks of Sexual Exploitation	17099
 Risks of Synthetic Data	3810
 Risks of Using DFS Nature Impact High-speed	17870
+Risks. Annexes	18948
+RisksÂ	18887
 Risky Gamble	14932
+RiskÂ CategoryÂ RiskÂ RatingÂ RiskÂ DescriptionÂ	18887
 Rismayatika	14941
 Risque	1005,9374,495,160,2266,1123,1,1,4,51,8,1,1,132,749,122,87,356,392,300
 Risque Blocage	16328
 Risque Description Conséquence Application	16328
 Risque Non-respect	16328
-Risques	1005,6650,2582,621,16,91,144,934,1282,16,36,65,273,703,5,1,64,1,1,1003,7,25,55,140,2,118,159,329,1554,49,52,49,31,40,2,186,6,22,81,2,1
+Risques	1005,6650,2582,621,16,91,144,934,1282,16,36,65,273,703,5,1,64,1,1,1003,7,25,55,140,2,118,159,329,1554,49,52,49,31,40,2,186,6,22,81,2,1,539
 Risques Budgétaires	15840
 Risques Divers INS Institut National	10965
 Risques Mesures	15500
@@ -1720,6 +1742,7 @@ Risques Plan Stratégique National de Santé Numérique	17882
 Risques Pressionnels	13390
 Risques Professionnels	13390
 Risques Professionnels L'Office National des Pensions	13390
+Risques Stratégies	18942
 Risques VII.2	15722
 Risques de Cybersécurité	18319
 Risse	17780
@@ -1760,10 +1783,10 @@ STRUCTURAL SOURCES OF RISK	11156
 STRUCTURE RISKS Data	11156
 SUBSTANTIAL Risk Treatment Owner	12241
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455,611
-SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8
+SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165
 Safeguarding Trust and Managing Risks	8282
 Safety and Rights Risks Kenya	7548
 Safety and Systemic Risk Framework	11050
@@ -1958,10 +1981,11 @@ V. KEY RISKS	10829,696,3886,332,401,240,1720,94
 V. KEY RISKS A. Overall Risk	11525
 V. KEY RISKS A. Systematic Operational	15411
 V. KEY RISKS ANNEX	13856
-V. Key Risks	15372
+V. Key Risks	15372,3515
 V. Key Risks and Mitigation Measures A	17441
 V. RISK	11905,271,5282
 V. SUMMARY OF RISKS AND MITIGATION	18851
+V.Â Key Risks	18887
 VALUATION DES PRINCIPAUX RISQUES QUI POURRAIENT	14424
 VALUATION ET GESTION DES RISQUES	17901
 VI. KEY RISKS	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1352,476

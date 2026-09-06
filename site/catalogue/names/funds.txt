@@ -36,6 +36,7 @@ Computerisation and Fleet Expansion Programmes. Funds	12606
 Concessions and Treasury Funds	13122
 Consolidated Fund Special Funds State-Owned Enterprises	14830
 Consolidated Fund and Special Funds	14830
+Constitution. Interpretation Funds	18886
 Consultant Appointments Using Appropriated Funds	11218
 Consultant Appointments Using Donor Funds	11218
 Contingency Funds	16963
@@ -75,9 +76,10 @@ Ethiopia and Tanzania Challenge Funds	11142
 European Development Funds	16853
 European Development Funds. Tender	16853
 Expenditure Summary Funds	17260
+FINANCIAL PROVISIONS Funds of Corporation	19173
 FM Procedures Funds Flow	15372
 FOREIGN FUNDS Classification Compensation of Employees	13093
-FUNDS	13093
+FUNDS	13093,6068
 Financing Agreement Trust Funds	16384
 Flow of Funds	15411
 Flow of Funds Mechanism Page	10768
@@ -85,7 +87,7 @@ Founder Retail Investor Company Shareholders’ Funds	12882
 Full Year Budget GoG IGF Funds	15716
 Fund of Funds	14024
 Funding Funds	12379
-Funds	236,351,10,214,409,254,164,169,60,402,756,862,513,253,319,938,1037,251,79,261,10,1074,312,561,239,431,603,61,135,266,42,192,61,332,108,217,71,111,1,11,7,175,93,10,228,5,6,23,48,6,28,180,110,17,2,18,88,103,4,497,386,12,27,44,82,19,5,236,53,34,44,114,260,32,39,62,38,7,35,108,141,252,798,34,230,289,704,261,93,2,1,169
+Funds	236,351,10,214,409,254,164,169,60,402,756,862,513,253,319,938,1037,251,79,261,10,1074,312,561,239,431,603,61,135,266,42,192,61,332,108,217,71,111,1,11,7,175,93,10,228,5,6,23,48,6,28,180,110,17,2,18,88,103,4,497,386,12,27,44,82,19,5,236,53,34,44,114,260,32,39,62,38,7,35,108,141,252,798,34,230,289,704,261,93,2,1,169,251,2,97,176,12
 Funds Abuse	12978
 Funds Accounts	13420
 Funds Available	18125
@@ -93,6 +95,7 @@ Funds Available of Budget Available	18125
 Funds Chain	6539
 Funds Chain. The World Bank	6539
 Funds Credit Bureau World Bank International	12701
+Funds Flow	18887
 Funds Flow Chart World Bank	1867
 Funds Flow Diagram	10829
 Funds Flow Diagram The World Bank	15661
@@ -106,6 +109,7 @@ Funds Government of Japan UNDP Funding Window	16973
 Funds IBRD IDA Grants Net	4653,11379
 Funds Insurance Companies Fund of Funds Sovereign	4972
 Funds LBR Liberia Business Registry LITAS	17011
+Funds MCS	18984
 Funds Managed	11469
 Funds Management	718
 Funds Net Commitment Disbursed Undisbursed	2473,15886,450
@@ -116,9 +120,11 @@ Funds of Agency	12899
 Funds of Authority	3746,141,8648,804,32,5069,26
 Funds of Authority. Accounts	18440
 Funds of Board	13470
+Funds of Bureau	18893
 Funds of Commission	18438
 Funds of Commission. Accounts	18438
 Funds of Companies Office	13311
+Funds of Corporation	19173
 Funds of Fund	18445
 Funds of Statistics Botswana	12530
 Funds. Develop	11863
@@ -211,7 +217,7 @@ Seychelles Electronic Funds Transfer	1892
 Slow Absorption of Grant Funds The Project	14546
 Social Development Funds	16963
 Social Funds	11857
-Sources and Uses of Funds	15372
+Sources and Uses of Funds	15372,3515
 Sources of Funds	16032,855
 Sovereign Wealth Funds	4972,12000,24,1801
 Sovereign Wealth Funds Eritrea	14008
@@ -245,9 +251,9 @@ Under-utilisation of Funds Finding The Fund	13420
 Underutilisation of Allocated Funds	13420
 United Nation Children's Funds. VUP	12403
 Universal Access Funds	17059,201
-Universal Service Funds	5033,1306,369
+Universal Service Funds	5033,1306,369,12223
 Universal Service and Access Funds	9759
-Uses of Funds	15372
+Uses of Funds	15372,3515
 Using Universal Service Funds	5675
 Utilization of Borrowed Funds	14546
 Utilization of Funds Received Drinking	12978

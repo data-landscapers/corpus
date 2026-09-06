@@ -54,6 +54,7 @@ Annual Health Information Performance Review Meeting	15100
 Annual Health Sector Performance	13166
 Annual Health Sector Performance Report	14033,2938,1686
 Annual Health Service Performance Report	16971
+Annual Health-Sector Performance Report	18937
 Annual Market Performance Report	1195
 Annual Operational Plan Performance	11218
 Annual Performance	970,11419
@@ -198,7 +199,7 @@ D Performance	15493
 D'INTERIM PERFE BCEIP	16623
 D. Load and Performance Testing	13185
 D. Original Project Description and Performance	15983
-DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25
+DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101
 DATA SHEET RATINGS OF PROJECT PERFORMANCE	15511
 DC. The Performance and Learning Review	15659
 DCDT Performance Information	11230
@@ -522,7 +523,7 @@ Key Performance Indicator MDAs Ministries	4126
 Key Performance Indicator MFSA Microfinance South	11198
 Key Performance Indicator Ministry	10157
 Key Performance Indicator OECD	16968
-Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68,40,123,301,29,48,632,306,795,32,1,48,30,25,63,49,115,455,192,1062,93,12,48,1175,31,227,32,4
+Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68,40,123,301,29,48,632,306,795,32,1,48,30,25,63,49,115,455,192,1062,93,12,48,1175,31,227,32,4,599,72
 Key Performance Indicators Implementation	10157
 Key Performance Indicators Improve	12359
 Key Performance Indicators LEC Liberia Electricity	17260
@@ -576,6 +577,7 @@ MID-YEAR BUDGET PERFORMANCE	13055
 MINIMUM ENERGY PERFORMANCE STANDARDS FOR REFRIGERATING	14814
 MINISTRY OF AGRICULTURE ANNUAL PERFORMANCE	13126
 MINISTRY OF FINANCE ANNUAL PERFORMANCE	13126
+MINISTRY OF HEALTH ANNUAL HEALTH-SECTOR PERFORMANCE	18937
 MINISTRY OF HEALTH ANNUAL PERFORMANCE	13126
 MINISTRY OF HOME AFFAIRS ANNUAL PERFORMANCE	13126
 MINISTRY’S PERFORMANCE BY DEPARTMENT	12962
@@ -680,6 +682,7 @@ Observed Innovation Performance Relative	12204
 Official Use Only Municipal Performance Program	17505
 Oficina Artes Perform	15772
 Old New Perfumes	6921
+Open Government Partnership PPBB Programme Performance-Based	19042
 Operation of Various Types of Bodies Performing Inspection	16900
 Operational Activities and Performance	18576
 Operational Performance	12062,1970,4154,31
@@ -821,7 +824,7 @@ Perfeccionamiento	11529,5346
 Perfect Forward Secrecy	11952
 Perfect for ISPs	13704
 Perfect. Thank	7065
-Perfectionnement	15424,144,2260,14,136
+Perfectionnement	15424,144,2260,14,136,964
 Perfectionnement Professionnel des Jeunes	13630
 Perfil	11441,15,75,12,4,4147,1910,1158
 Perfil Demográfico	2138
@@ -966,7 +969,7 @@ Performance Metrics Induded	3972
 Performance Metrics Monitor	11952
 Performance Metrics and Governance Maturity Indicators	3861
 Performance Moderately Unsatisfactory Modest M&E Quality	16436
-Performance Monitoring	1988,9228,754
+Performance Monitoring	1988,9228,754,7072
 Performance Monitoring Service	11952
 Performance Monitoring and Adaptability	3651
 Performance Monitoring and Assessment. Article	14867
@@ -1034,6 +1037,7 @@ Performance and Security Testing	11216
 Performance des Entreprises Publiques	2342
 Performance du SNIS	16722
 Performance du Service Public	15712
+Performance du Système de Santé	18926
 Performance du Système de Santé PRSC	15475
 Performance for FY	14773
 Performance for Financial Year	14773
@@ -1082,7 +1086,7 @@ Performance. CHAPITRE	17913
 Performance. Ce	17918
 Performance. The Project	13392
 Performance104.1	14985
-Performances	419,2977,9910,35,1281,801,301,1511
+Performances	419,2977,9910,35,1281,801,301,1511,1707
 Performances Paiement	13341
 Performances Pour	17902
 Performances and Phonograms Treaty	11550
@@ -1117,6 +1121,7 @@ Primary Health Care Performance Initiative	17869
 Primary Healthcare Performance Initiative	17869
 Primary Healthcare Performance Initiative. The PHCPI	17869
 Principe National Performance-	18809
+Principles of Performance Management	19133
 Private Sector Performance and Job Creation	17862
 Private and Cabinet Office First Quarter Performance	13226
 Procedures Performed	4896
@@ -1126,6 +1131,7 @@ Procurement Performance. The Project	13392
 Program Performance	15752
 Program Performance and Fiscal Policy	15029
 Programme Performance Monitoring and Results Framework	14000
+Programme Performance-Based Budgeting	19042
 Programme Three Performance	11250
 Programme de Performance Administratif	10975
 Project C. BANK PERFORMANCE Quality	16436
@@ -1152,7 +1158,7 @@ Q2 Performance	11133
 Quality of Service Key Performance Indicators	9110
 Quality of Service and Key Performance Indicators	14944
 Quality of Tax Administration and Firm Performance	12948
-Quantitative Performance Criteria	17209,117
+Quantitative Performance Criteria	17209,117,1772
 Quarterly Performance	11952
 Quarterly Performance Reports	14935,62
 Quarterly Performance Reports Submitted	11250

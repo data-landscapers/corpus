@@ -1,5 +1,6 @@
 AAP2023 SSA Regional MIP	1456
 ACTION SS Publication Information Published	6936
+ACTIVITES DU SSN Conseil	18926
 AFOM du SSN	17844
 AI Act. SSRN	11050
 AWS GM SSA	5837
@@ -41,6 +42,7 @@ CEB SSDG Net Metering Scheme	14807
 CEB SSDG Net-Billing Scheme	14745
 CEMAC SSA LMIC Cameroon Djibouti Ghana	10997
 CEMAC and SSA	1828
+CNS ACTIVITES DU SSN L	18926
 COVID-19 SSN	18470
 CPS SS DS Etat	17845
 CPS SS DS PF	17845,133
@@ -131,6 +133,7 @@ FMO IATI SSA	865
 FORCES DU SSN	17842
 Faiblesses du SSN	17842
 Fibre Network SSA	242
+Financement du SSN	18953
 Forces du SSN	17842
 Forecast SSA	17011
 Fr SS	15363
@@ -308,6 +311,7 @@ Pacte Partenariat SSE Base SSE Base	15673
 Partech Africa Fund II SSA Tech	865
 Participants SSN Burundi Durée	13689
 Percentage SSA	14997
+Portable Network Graphics SSDSP Seychelles Spatial	18904
 Pour le SSN	10874
 Preferences for SSS Learners	18461
 Primary SSA	514
@@ -379,6 +383,7 @@ SME Small and Medium Enterprise SSA Sub-Saharan	15515
 SMS Short Message Service SSA Sub-Saharan	6946
 SOE SSA MEANING Three Million Technical	10157
 SOE State Owned Enterprise SSA Sub-Saharan	11545
+SOE State-owned Enterprise SSA Sub-Saharan Africa	18931
 SOP Series of Projects SSCT Sexual Exploitation	16926
 SP Social Protection SSA Sub-Saharan Africa	10768
 SPL Systematic Operations Risk-Rating Tool SSNP	10964
@@ -538,6 +543,7 @@ SSD- South Sudan	14896
 SSDG Net-Billing Scheme. Home Solar Project	14745
 SSDLC Secure Software Developement Life Cycle	15472
 SSDP South Sudan Development Plan	18614
+SSDSP	18904
 SSDSPF	17842,3,101,131
 SSDSPF Activité	17946
 SSDSPF ETAT	17845
@@ -769,6 +775,7 @@ SSR Botanic Garden	14267
 SSR INTERNATIONAL AIRPORT	14753
 SSR International Airport	14738,92,17
 SSR Self-Sufficiency Ratio SSTs Sea Surface	2775
+SSR Seychelles Alpha and Beta	18907
 SSR Sports Complex	14830
 SSR Street	14847
 SSRA Commissioner General	10599,6958
@@ -790,8 +797,8 @@ SSRN Hospital	14829,1
 SSRN Scholarly Paper ID	961
 SSRN Working Paper	11140
 SSRNH	14773
-SSS All	15372
-SSS All Individuals	15372
+SSS All	15372,3515
+SSS All Individuals	15372,3515
 SSS Au	18169
 SSS BUTHELEZI D	1009
 SSS BUTHELEZI DIRECTOR GENERAL HEALTH	1009

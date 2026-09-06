@@ -76,6 +76,7 @@ Anold Brouwer	13477
 Approval of Broadcasting Receiver Equipment	13951
 Arabia Yes High-speed Fiber-optic Broadband Initiative	11529
 Assessment of Broadband Gaps	958
+Auditor General. Seychelles Broadcasting Corporation Act	19173
 Availability of Broadband Service	16884
 Availability of High-Speed Broadband Networks	17870
 Average Broadband	17870
@@ -135,13 +136,14 @@ BROADCASTING REVENUE	11211,51
 BROADCASTING Radio	14879
 BROADCASTING SECTOR	11211,51,1133
 BROADCASTING SECTOR EMPLOYMENT	11211,51
-BROADCASTING SERVICES	2776,3895
+BROADCASTING SERVICES	2776,3895,12263
 BROADCASTING SERVICES A1. Radio Broadcasting Services	17250
 BROADCASTING SERVICES DTT Subscriptions	6671
 BROADCASTING SERVICES FEES	17250
 BROADCASTMEDIAAFRICA.COM Across Africa	2976
 BROADEN THE TAX BASE	17011
 BROADENED OPEN DATA USAGE	16885
+BROADER POLICY ENVIRONMENT	18910
 BROADVIEW RECOVERY SERVICES Data Processor INST-7715688790A	7167
 BROADWAY BAKERY LIMITED Data Controller INST-3530301CC44	7167
 BROCARE PHARMACEUTICAL	7167
@@ -238,7 +240,7 @@ Broad-Based’ Government	7869
 Broad-based	11525,860,910,17,2,1583
 BroadBand Systems Corporation	15199
 Broadb and Commission	15471
-Broadband	129,66,523,295,271,5,144,180,257,546,360,92,34,282,1,419,10,248,663,643,26,806,56,27,588,207,50,286,239,754,916,354,282,92,930,63,12,94,45,171,65,74,224,34,48,246,149,208,84,35,62,32,109,385,44,6,2,322,17,2,17,1135,16,192,33,16,6,107,43,18,24,451,39,36,33,31,42,160,1148,11,11,1,2,54,35,164,100,597,34,253,236,126
+Broadband	129,66,523,295,271,5,144,180,257,546,360,92,34,282,1,419,10,248,663,643,26,806,56,27,588,207,50,286,239,754,916,354,282,92,930,63,12,94,45,171,65,74,224,34,48,246,149,208,84,35,62,32,109,385,44,6,2,322,17,2,17,1135,16,192,33,16,6,107,43,18,24,451,39,36,33,31,42,160,1148,11,11,1,2,54,35,164,100,597,34,253,236,126,402
 Broadband Access	6414
 Broadband Access But Don't Use	12214
 Broadband Access The Government	16861
@@ -265,7 +267,7 @@ Broadband Concept Almost	16883
 Broadband Concept Twenty-five	14723
 Broadband Connect Mauritius Fund	14723
 Broadband Connection	14836
-Broadband Connectivity	607,6941,4004,388,416,2600,2019
+Broadband Connectivity	607,6941,4004,388,416,2600,2019,1987
 Broadband Connectivity Program	1914
 Broadband Connectivity for MNO	330
 Broadband Cost	16975
@@ -306,7 +308,7 @@ Broadband Infrastructure Sharing Policy	6623
 Broadband Infrastructure and Economic Growth	15553
 Broadband Infrastructure and Economic Growth. The Economic	17870
 Broadband Infrastructure for Transforming India	11857
-Broadband Internet	11468,3368,2036
+Broadband Internet	11468,3368,2036,2015
 Broadband Internet Services	17862
 Broadband Internet and Household Welfare	15511
 Broadband Internet. Voice and Mobile Broadband Networks	12552
@@ -334,7 +336,7 @@ Broadband Policy-2024	16884
 Broadband Project. The French	58
 Broadband Protection Report IN-6 Broadband Infrastructure	11857
 Broadband Radio	736
-Broadband Radio Access Networks	736
+Broadband Radio Access Networks	736,18235
 Broadband Report	961
 Broadband Risks Management and Mitigation Strategies	16884
 Broadband Risks Management and Mitigation Strategies D65	16884
@@ -416,11 +418,12 @@ Broadcast Studio-To-Transmitter Links Figure	6946
 Broadcast Transmitters	6946
 Broadcast Transmitters Broadcast Transmitters	6946
 Broadcast and Multimedia	3990,5791
+Broadcast of Parliamentary	19161
 Broadcaster	12558,424
 Broadcasters	12436,1025,1418
 Broadcasters Ahead	18211
 Broadcasters Multimedia	236
-Broadcasting	11,225,482,1226,832,1282,1110,1778,1970,273,1218,804,24,27,1133,41,102,14,6,67,346,345,146,80,409,928,382,49,733,829,17,86,142,39,94,1,1351,144
+Broadcasting	11,225,482,1226,832,1282,1110,1778,1970,273,1218,804,24,27,1133,41,102,14,6,67,346,345,146,80,409,928,382,49,733,829,17,86,142,39,94,1,1351,144,427
 Broadcasting AI	12356
 Broadcasting Act	8130,3081,51,1861,1,337
 Broadcasting Authority of Zimbabwe	958,12337,247,49
@@ -493,7 +496,9 @@ Broadcasting and Postal	9335
 Broadcasting and Postal Questionnaire	11211,51
 Broadcasting and Postal Questionnaires	11211,51
 Broadcasting and Postal Services	12538,433
+Broadcasting and Telecommunication Act	18971
 Broadcasting and Telecommunications	4768,1548
+Broadcasting and Telecommunications Regulations	19090
 Broadcasting and Telecommunications Steve Isaboke	4768
 Broadcom	6477,697,999
 Broadcom BCM5719 Ethernet	12681
@@ -510,7 +515,7 @@ Broadened Tax Base	18825
 Broadening	5246,1686,163,1088,2579,2862,314,447,580,32,105,28
 Broadening the Gains	11140
 Broadening the Tax Base	17011
-Broader	418,543,206,1102,1314,339,20,1735,719,237,75,1381,183,1916,530,12,267,143,661,193,941,2062,980,167,510,319,126,15,250,3,36,1075,317
+Broader	418,543,206,1102,1314,339,20,1735,719,237,75,1381,183,1916,530,12,267,143,661,193,941,2062,980,167,510,319,126,15,250,3,36,1075,317,92
 Broader Applications	12935
 Broader Constitutional Context	5574
 Broader Context	12025
@@ -564,6 +569,7 @@ Broker	4896,9954
 Brokerage	12882,1126
 Brokers	17367
 Brokers and Private Sector Associations	17367
+Broking	18974
 Brollo	11140
 Brolpito	15480
 Brominated	1988
@@ -677,6 +683,7 @@ CURRENT BROADBAND PENETRATION	11857
 CURRENT STATE OF BROADBAND	16883
 Canadian Broadcasting Corporation	11868
 Capacity for Broadband	16884
+Capped Fibre Broadband	19106
 Carol Ann Browne and Aaron Thiese	1038
 Cassava Mosaic and Cassava Brown Streak Diseases	13366
 Cell Broadcast	12689
@@ -737,6 +744,7 @@ DIGI AFRICA INSURANCE BROKERS LIMITED Data	7167
 DIGITAL BROADCASTING	14879
 DIGITAL BROTHERS LIMITED Data Processor INST-90493728223	7167
 DIGITAL CONTENT The Nigerian National Broadband	11857
+DIGITAL TRANSFORMATION AND BROADCASTING STANDARDS	19173
 DISNEY INSURANCE BROKERS LIMITED Data Controller	7167
 DISNEY INSURANCE BROKERS LIMITED Data Processor	7167
 DRIVERS FOR THE UPTAKE OF BROADBAND	16884
@@ -807,6 +815,7 @@ ENHANCING EDUCATION THROUGH BROADBAND	16884
 ENHANCING EDUCATION THROUGH BROADBAND A Having	16884
 ENHANCING RESEARCH AND DEVELOPMENT WITH BROADBAND	16884
 ENSURING NETWORK NEUTRALITY FOR BROADBAND SERVICES	16884
+ESTABLISHMENT OF THE SEYCHELLES BROADCASTING CORPORATION	19173
 ESWATINI BROADCASTING	12971
 EXECUTIVE SUMMARY The Gambia’s Broadband Policy	16883
 EXECUTIVE SUMMARY The National Broadband Policy	14723
@@ -817,6 +826,7 @@ Economic Contribution of Broadband	12385
 Economic Impact of Broadband	15553,1073
 Economic Impact of Broadband. World Bank	1264
 Economic Impacts of Broadband	15424,129
+Economic Impacts of Broadband.â	18887
 Edmond Brou	16479
 Education Broadcasting Services	13477
 Educational Broadcasting Unit	16852
@@ -858,6 +868,7 @@ F6 The Nigerian National Broadband Plan	11857
 FBB Fixed Broadband FDI Foreign Direct	10781,80,1566,2055
 FID Brokers	14997
 FINANCING BROADBAND	16884
+FIXED BROADBAND WIRELESS ACCESS	18971
 FIXED LINE BROADBAND SUBSCRIPTIONS	11211,51
 FM Broadcasting Stations	18444
 FM Sound Broadcasting Frequencies Assigned	6671
@@ -870,7 +881,7 @@ FiberOne Broadband	10742
 FiberOne Broadband Limited	2538
 FiberOne Broadband Ltd	3862
 FiberOne's Consolidation FiberOne Broadband Ltd	6749
-Fibre Broadband	5112
+Fibre Broadband	5112,13994
 FibreOne Broadband Ltd	3862
 Fibrehub Ltd and Broadbased Ltd	3862
 Financing Broadband	16884
@@ -897,6 +908,7 @@ Fixed Broadband Subscriptions The Total Fixed	2776
 Fixed Broadband Traffic	2776
 Fixed Broadband Traffic Fixed Broadband Q3	2776
 Fixed Broadband Traffic The Total Fixed	2776
+Fixed Broadband Wireless Access	18971
 Fixed Broadband and Optical Distribution Network	14151
 Fixed Data and Broadband Services	6671
 Fixed Data and Broadband Subscriptions	6671
@@ -1016,6 +1028,8 @@ Institutional Framework for Implementation of Broadband	12921
 Insurance Broker	14809
 International Broadcasting Trust	15342
 Internet Broadband	15617,2261
+Internet Broadband Services	19151
+Internet Broadband Services In Q1	19151
 Internet and Broadband Fixed Broadband	12395
 Introduce Broadband State Ranking Report	11857
 Introduction of Bronchoscopy	14773
@@ -1039,6 +1053,7 @@ Karina Broens Nielsen	10977
 Kenya Broadcasting Corporation	4583,1733,3332
 Kenya's Broadband Sector Kenya	6830
 Kirloskar Bros	18378
+LAW RELATING TO BROADCASTING	18934
 LDCs Broadband Commission	16883
 LEVERAGE DIGITALISATION TO BROADEN ACCESS	14935
 LICENSING OF BROADCASTING SERVICES	16839
@@ -1080,6 +1095,7 @@ MAKING BROADBAND SERVICES AVAILABLE	16884
 MAKING BROADBAND SERVICES AVAILABLE A Assess	16884
 MANAGEMENT IN THE BROADCASTING SECTOR	11211,51
 MB Browse More Resources	14891
+MHz for Broadband Fixed Wireless Access	18971
 MOBILE DATA AND FIXED BROADBAND	11262
 MONITORING AND EVALUATION OF BROADBAND PLAN	16884
 MULTILINGUAL BROADCASTING	11262
@@ -1150,7 +1166,10 @@ Monsieur Jean-Claude Kassi Brou	8316,10061,12
 Monthly Broadband Internet	14836
 Monthly Brochures	958
 Mr. Nasi Broh Analyst	17043
+Mr. Rihen Wayne Kilindo. Ms. Brooklyn	19049
 Mrs. D. Sheba Brown	17235
+Ms. Brooklyn Anela Chang-Sam	19049
+Ms. Brooklyn Angela Mercedes Chang-Sam	19049
 N. Brooks	18318
 NA Broadband	12344,5533
 NATIONAL BROADBAND PLAN	11857
@@ -1174,6 +1193,7 @@ Namibian Broadcasting Corporation	12982
 Namibian Broadcasting Corporation NBP National Broadband	12973
 Napier Broom	14746
 National Africa Broadband Maps Event	13512
+National Assembly Seychelles Broadcasting Corporation Act	19173
 National Association of Broadcasters	7429
 National Broadband	1885,3357,6615,1617,4361
 National Broadband Alliance for Nigeria	3456
@@ -1218,6 +1238,7 @@ National Broadband Strategy. Retrieved	16942
 National Broadband Structure	12536
 National Broadband Task Force	14723
 National Broadband Task Team	12921
+National Broadcasting Archive	19173
 National Broadcasting Commission	3942,1303
 National Broadcasting Commission NBP National Broadband	11857
 National Customs Broker Association of Li-	17367
@@ -1307,6 +1328,7 @@ Public Broadcasting Services	14879
 Public FTA FM Common-Carrier Broadcasting Signal	6946
 Public Notices Publications Annual Reports Brochures	12515
 Public Recognition of Benefits Brought	15713
+Public Service Broadcasting	19173
 Publication of National Broadband Policy	12921
 Publicity and Broadcasting Services	972,12347,243,29,64
 Publicity and Broadcasting Services Minister Dr Zhemu	11618
@@ -1363,6 +1385,7 @@ SADC Guidelines for Development of Broadband Plans	12921
 SADC Mobile Broadband Gap Analysis Guidelines	12918
 SAT Digital Video Broadcasting	6946
 SECURITY OF BROADBAND NETWORKS AND SERVICES	16884
+SEYCHELLES BROADCASTING CORPORATION ACT	19173
 SMART BROADBAND Ltd	15136
 SMART Broadband	18485
 SMS Bronze Numbers	15205
@@ -1388,7 +1411,10 @@ Security of Broadband Networks and Services No Parameter	16884
 Self-Provision Broad-	6946
 Self-Provision Broadcasting Signal Distributor	6946
 Sentech and Broadband Infraco	5208,760,1088
-Seychelles Broadcasting Corporation	7023,2656
+Seychelles Broadcasting Corporation	7023,2656,9243,174,44,33
+Seychelles Broadcasting Corporation Act	19173
+Seychelles Broadcasting Corporation Board	19173
+Seychelles Broadcasting Corporation. Legal	19173
 Sierra Leone Broadband Strategy	18485
 Sierra Leone Broadcasting Corporation	18444
 Sierra Leone National Broadband Strategy	18485
@@ -1429,6 +1455,8 @@ Strengthening Broad Cooperation	6849
 Structures for Broadband and Digital Development Cognizant	16883
 Subscription Broadcasting	6946
 Subscription Broadcasting Services	6946
+Subscription Television Broadcasting	19151
+Subscription Television Broadcasting During Q1 Subscription	19151
 Suburban Broadband Ltd	3862
 Supply Side of Broadband	12921
 Sustainable Energy and Broadband Access	788
@@ -1496,9 +1524,11 @@ United Nations Broadband Commission	1264,9580,7026,253
 United Nations Broadband Commission for Sustainable	10851
 Universal Access Strategy Broadband	14879
 Universal Broadcasting Access	12911
+Unlimited Fibre Broadband	19106
 Usage Basket Fixed Broadband	12395
 Use Broadband Devices D2	16884
 Use Broadband Devices No Parameter Remark	16884
+Use of Fixed Broadband Wireless Access	18971
 Use of Satellite Broadband for Disaster	3641
 VSAT Broadband Internet	18485
 Venture Capital Zimbabwe Broadcasting Corporation Zimbabwe	4528

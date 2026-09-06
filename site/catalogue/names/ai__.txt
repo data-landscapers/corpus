@@ -107,7 +107,7 @@ AI Application for Healthcare The Government of Rwanda	4167
 AI Applying AI	14566
 AI Architecture	5482
 AI Armory and Defense	16813
-AI Artificial	11050,83
+AI Artificial	11050,83,7946
 AI Artificial Intelligence	3184,1,1340,6470,970
 AI Artificial Intelligence ADM Add	12006
 AI Artificial Intelligence ARC Academic Research	14747
@@ -156,6 +156,7 @@ AI CAF Construction	15713
 AI CAF Deconstruct	15713
 AI CAF Detailed Mapping	15713
 AI CAPEX. Attach	4150
+AI CFS AI	19079
 AI CHANGES EVERYTHING Unlike	11611
 AI CIPESA Co-Develop	9937
 AI COMPETENTLY	14004
@@ -172,7 +173,7 @@ AI Centres	12512,2054
 AI Centres of Excellence	4528,7984,1032,1022
 AI Challenge	8548
 AI Challenges	7334
-AI Champion	8609
+AI Champion	8609,10470
 AI Champions	10541,59
 AI Characteristics Generally	4528,7984
 AI Chat Bots	11231
@@ -189,6 +190,7 @@ AI Cloud	11502
 AI Cloud. Delivering Exascale-performance	11502
 AI Clouds	11502
 AI Code of Practice	7548
+AI Code of Practice for Schools	19079
 AI Collaborative	3344
 AI Collective	7224,786,10029
 AI Collective Osaka Science Museum Global	18039
@@ -226,6 +228,7 @@ AI Cross Departmental Aid	7548
 AI Current AI	1814
 AI Curriculum Analysis What’s Next	17196
 AI Curriculum Framework	12675
+AI Curriculum Map for Seychelles	19079
 AI Cybersecurity Ethics	12512
 AI DEVELOPMENT AND ADMINISTRATION THROUGH INTERNATIONAL	14004
 AI DEVELOPMENT RISKS AND REMEDIES AI	14004
@@ -283,6 +286,7 @@ AI Embed	14566
 AI Emergents	3859
 AI Emerging	12210
 AI Emerging Technologies	7548
+AI Enabled Good Governance	19133
 AI Enablement for All	4698
 AI Engineer	18039
 AI Enterprise Readiness Assessment Tool	16212
@@ -516,6 +520,7 @@ AI Language Model	3622
 AI Law	4583,2965
 AI Law Bylaws	15713
 AI Lead Support	7548
+AI Lead Teacher	19079
 AI Leaders Roundtable	2668
 AI Learning Portal	14566
 AI Legislative Act	16212
@@ -660,7 +665,7 @@ AI Raises the Stakes	11310
 AI Raises the Stakes AI	11310
 AI Read-	1204
 AI Readiness	1204,2655,4232
-AI Readiness Assessment	3378,10283,3069
+AI Readiness Assessment	3378,10283,3069,2413
 AI Readiness Assessment Methodology	4126,402,7984,1031,1,13,106,476
 AI Readiness Assessment Report	12994,2875
 AI Readiness Audit	6214
@@ -827,6 +832,7 @@ AI Talent and Capacity Development AI Infrastructure	4528,7984
 AI Talent and Capacity Development Zimbabwe	4528,7984
 AI Taskforce	14674
 AI Teacher Capacity Development Programme	8586
+AI Teacher Coach and AI Student Tutor	19128
 AI Teachers	7548
 AI Teaching Community of Practice. Peer	12996
 AI Tech	14566
@@ -1101,6 +1107,8 @@ AI for Social Good	13021
 AI for Sub-Saharan Africa	11140
 AI for Sustainability	12675
 AI for Sustainable Development	4038,9057
+AI for TB	19062
+AI for TB Screening	19062
 AI for Tomorrow	4028
 AI for Workforce Readiness and Career	14812
 AI- A- AI-capable	7548
@@ -1528,6 +1536,7 @@ Agreement Register AI	7548
 Agriculture AI	4528,7984
 Agriculture Ministry and LIFAAS Host Generative AI	17047
 Ai Description	15129
+Ai I Y..Jy	18897
 Airtel AI Spam Alert Service. Airtel	2558
 Akili AI	5804,11017
 Akuna Group AI	4493
@@ -1579,6 +1588,7 @@ Apply AI Strategy	6487,392
 Apply Online Careers IDF-Application Contact AI	12495
 Applying AI for Social Good	4126
 Approach The AI	4528,7984
+Approved Educational AI Tools List	19079
 Aptiva AI	3111
 Arab AI	2958
 Arab AI Committee	3160
@@ -1931,6 +1941,7 @@ Current Institutional AI	7548
 Current National AI	7548
 Current Status of AI	14812
 Currently AI	7751
+Curriculum Integration and Student AI Literacy	19079
 Cybersecurity and AI Forum	3029
 Cybersecurity and AI Safety Zimbabwe	4528,7984
 Cybersecurity and AI for DPI Agencies	16144
@@ -2601,7 +2612,7 @@ Global AI Divide	4734
 Global AI Economy Players and AI Intensity	1814
 Global AI Ethics and Governance Observatory Country	11483,1095
 Global AI Ethics and Governance Observatory Search	18840
-Global AI Ethics and Governance Observatory URL	15680,3160
+Global AI Ethics and Governance Observatory URL	15680,3160,312
 Global AI Ethics and Governance Review	14566
 Global AI Governance	1814,6329,597,2205,6826,9
 Global AI Governance Dialogue	6933
@@ -2709,7 +2720,7 @@ Governing AI for Humanity. Disponível	2816
 Governing Military AI	5044,1835
 Government AI	7548
 Government AI Adoption Code	7548
-Government AI Campus	16730
+Government AI Campus	16730,2413
 Government AI Readiness	15583
 Government AI Readiness Index	2816,1812,482,1285,208,945,53,6470,1642,333,156,439
 Government AI Readiness Index. Disponível	2816
@@ -3048,6 +3059,7 @@ Launch AI Infrastructure Hub	6332
 Launch AI Investor Education Program	4528
 Launch AI Investor Education Program for Cooperation	12512
 Launch AI Partnership	12675
+Launch AI and Smart Classroom Initiatives URL	19053
 Launch the Ghanaian Global AI Summit	4126
 Launching ATLAS Umoja AI Supporting	7825
 Launching the AI for Impact	9030
@@ -3310,7 +3322,7 @@ Narrow AI	17884
 Naspers’ AI	8601
 Nation of AI Literates	4528
 Nation's First Generative AI Model	3826
-National AI	1204,610,2312,399,3,757,540,143,824,156,600,1061,1637,754,135,1075,146,156,2054,98,1049
+National AI	1204,610,2312,399,3,757,540,143,824,156,600,1061,1637,754,135,1075,146,156,2054,98,1049,3468
 National AI A- National AI	7548
 National AI A1- National AI	7548
 National AI Academy	7853,678
@@ -3475,9 +3487,12 @@ National National AI and Kenya Bureau of Treasury	7548
 National National AI and National Treasury	7548
 National National AI and Public Service Treasury	7548
 National National AI and Sector Regulators AI	7548
+National Oversight A National AI	19079
 National Prepare AI Green	7548
 National Strategy for AI	17780
-National Teacher AI Competency Framework	8609
+National Teacher AI Competency	19079
+National Teacher AI Competency Framework	8609,10470
+National Teacher AI Competency Framework Teacher	19079
 National Technologies AI	7548
 National Treasury AI	7548
 National Vision Zimbabwe's National AI	12512

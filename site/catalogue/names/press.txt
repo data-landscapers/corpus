@@ -212,7 +212,7 @@ JOINT PRESS RELEASE	17152
 JOINT PRESS RELEASE The Ministry	17152
 Japan Press	9067
 Joint Press Conference	17314
-Joint Press Statement	2787,6280
+Joint Press Statement	2787,6280,9994
 Journalist's Press Card	12124
 KT PRESS	14968,74
 KT PRESS Every	8644
@@ -283,13 +283,14 @@ Oxford University Press. Isbell	7886
 Oxford University Press. Rasmussen	12151
 Oxford University Press. World Bank	11149,161
 PAgence Maghreb Arabe Presse. LOUANGE	308
+PM's Press Statement	19061
 PNUD. Cellule Presse MediaCongo	7812
 POINT DE PRESSE RELATIF A L'ARRET	10923
 PRESS	12201,2244
 PRESS AGENCYCamer Press Agency DECOUVREZ NOTRE	9916
 PRESS BRIEFING BY THE EXECUTIVE DIRECTOR	4661
 PRESS OFFICER	15751
-PRESS RELEASE	7369,5214,164,193,491,310,351,868,40,6,23,38,406,1086,330,175,42,50,31,22,48,9,237,406,81,496,12,94,224,7
+PRESS RELEASE	7369,5214,164,193,491,310,351,868,40,6,23,38,406,1086,330,175,42,50,31,22,48,9,237,406,81,496,12,94,224,7,139
 PRESS RELEASE AND STAFF REPORT Under	13868
 PRESS RELEASE Accreditation Status of Higher Education	17226
 PRESS RELEASE Aug	18592
@@ -326,7 +327,7 @@ Porto-Novo Press	8713
 Post Press Releases and Statements	11251
 Power. MIT Press	2096
 Presidential Press Secretary	17391
-Press	53,31,5,54,1,2,62,3,29,1,22,1,1,21,3,1,3,1,2,34,17,7,1,21,4,1,4,1,1,1,1,2,1,7,48,54,5,3,1,1,2,1,5,1,1,8,65,1,1,1,9,12,2,7,9,1,1,14,21,1,1,1,9,3,10,4,1,3,1,1,1,2,1,1,11,9,80,22,2,13,6,1,2,2,26,2,2,1,1,2,1,9,1,1,1,2,1,1,1,12,1,2,1,1,1,4,7,5,10,84,2,11,28,9,31,2,1,5,3,1,2,2,1,1,3,5,3,1,1,9,2,86,153,1,24,12,75,4,1,1,13,6,4,3,1,3,1,6,1,16,75,231,255,19,5,1,48,6,3,4,2,2,6,1,1,2,7,280,5,904,964,54,3,8,13,26,4,11,1,5,98,78,112,1246,688,694,111,16,100,21,1001,257,83,41,31,659,849,115,41,60,228,55,30,5,4,11,136,19,166,11,565,175,66,139,76,37,37,579,9,72,71,148,1,70,132,383,903,523,79,11,282,76,76,961,157,125,7,50,214,423,303,24,44,87,44,64,195
+Press	53,31,5,54,1,2,62,3,29,1,22,1,1,21,3,1,3,1,2,34,17,7,1,21,4,1,4,1,1,1,1,2,1,7,48,54,5,3,1,1,2,1,5,1,1,8,65,1,1,1,9,12,2,7,9,1,1,14,21,1,1,1,9,3,10,4,1,3,1,1,1,2,1,1,11,9,80,22,2,13,6,1,2,2,26,2,2,1,1,2,1,9,1,1,1,2,1,1,1,12,1,2,1,1,1,4,7,5,10,84,2,11,28,9,31,2,1,5,3,1,2,2,1,1,3,5,3,1,1,9,2,86,153,1,24,12,75,4,1,1,13,6,4,3,1,3,1,6,1,16,75,231,255,19,5,1,48,6,3,4,2,2,6,1,1,2,7,280,5,904,964,54,3,8,13,26,4,11,1,5,98,78,112,1246,688,694,111,16,100,21,1001,257,83,41,31,659,849,115,41,60,228,55,30,5,4,11,136,19,166,11,565,175,66,139,76,37,37,579,9,72,71,148,1,70,132,383,903,523,79,11,282,76,76,961,157,125,7,50,214,423,303,24,44,87,44,64,195,237,249
 Press Association	16958
 Press Briefings	16961,64
 Press Code	13461,4897
@@ -345,10 +346,10 @@ Press Council of South Africa	8917,1818,2132,1,1,3923,1,1,1
 Press Council. Digital	13267
 Press Enter	17388
 Press F7	14511
-Press Freedom	2844,9357
+Press Freedom	2844,9357,6806
 Press Freedom Law	17970
 Press Freedom and Democratic Governance	9660,637
-Press Information Bureau	6480,4655
+Press Information Bureau	6480,4655,7998
 Press Information Bureau President's Secretariat	12568
 Press Law	12201,1112
 Press Law Assembly	12201
@@ -360,14 +361,15 @@ Press Office	11858
 Press Proclamation	14073
 Press Proclamation Law	14073
 Press Quarterly Public Relations	15845
-Press Regime	17950
-Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242,104,1279,475,1017,148,127,643,92,121,208,97,209,164,350,307,142,296,609,82,5,16,48,1,68,26,151,406,81,452,381
+Press Regime	17950,980
+Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242,104,1279,475,1017,148,127,643,92,121,208,97,209,164,350,307,142,296,609,82,5,16,48,1,68,26,151,406,81,452,381,151,171
 Press Release AfCFTA DIGITAL TRADE FORUM	7039
 Press Release Deployment Final.pdf	17922
 Press Release Djibouti	13915
 Press Release Integrated Electronic Case Management	12936
 Press Release No	1579,9262,294,419,3475,12,710,1588
 Press Release No Comments The Electoral	12465
+Press Release PIB 12 05 2026.pdf Ministry of Personnel	19133
 Press Release The IEC	17654
 Press Release Useful Links	18442
 Press Releases	8485,3063,3137,1068,58,181,54,85,105,19,706,64,53,96,47,282,433,550
@@ -456,6 +458,7 @@ Regulate Technology. Oxford University Press	5242
 Relations Presses	15639
 Relations Presses DFA	15639
 Reporters Without Borders World Press Freedom	15553
+Republic of Seychelles Joint Press Release	18927
 Rethinking Refugees. Press	12297
 Rethinking the Digital Divide. MIT Press	6948
 Risques Pressionnels	13390
@@ -475,6 +478,7 @@ Security Agency Press Statement	9067
 Senegalese Press Agency	5985
 Senior Data Protection Analyst World Press	4800
 Service Presse	16381
+Seychelles Press	18927
 Sierra Leone Press	18509,82
 Silicon Valley. Princeton University Press. Shrishak	11050
 Social Registry Survey Press Release	12498
@@ -520,7 +524,7 @@ WEF Future of Jobs 2025 Press Release PTBR.p	2816
 Westview Press	1161
 World Bank Resident Representative for Togo. Press	2026
 World Bank and Oxford University Press. World	11310
-World Press Freedom Day	2844,3434,672,6032,142
+World Press Freedom Day	2844,3434,672,6032,142,5883
 World Press Freedom Index	9679,2012,2423,628,600,158
 World Press Freedom Index. Somali	15007
 Yale University Press	2518

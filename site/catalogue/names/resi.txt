@@ -38,6 +38,10 @@ Airport Residential Area	3386
 Airport Residential Area Operational Limited	3386
 Alka Bhatia UNDP Resident Representative	11332
 Alka Bhatia UNDP Resident Representative Mauritius	11332
+All Resident	18989
+All Residents	18989
+All Residents and Seychellois	19099
+All Residents and Seychellois Only	18989
 Amanda K Serumaga Resident Representative Mauritius	14752
 Amanda K. Serumaga UNDP Resident Representative	11332
 Annual Residential Address Conference and Postal Services	4953
@@ -137,6 +141,7 @@ Category and Residency	2775
 Certain Residents of Namibia	12984
 Certificado de Residência Fiscal	11435
 Certificate of Residence	12333
+Chad’s Prevention and Resilience Allocation Action Plan	18933
 Chad’s West Africa Food System Resilience	17613
 Chief Resident Magistrate	12174
 Chief Resident Magistrate Court Lilongwe Area	12174
@@ -168,7 +173,7 @@ Climate Resilient and Smart Infrastructure	14724
 Climate Smart Resilient Community Infrastructure	1988
 Climate Vulnerability and Resilience	16896,26
 Climate- Resilient Broadband	18359
-Coalition for Disaster Resilient Infrastructure	2787
+Coalition for Disaster Resilient Infrastructure	2787,16273
 Coastal Resilience Project SLMet Sierra Leone	18578
 Coastal Resilience and Sustainable Tourism Project	18809
 Coconut Residence	7650
@@ -236,6 +241,7 @@ Data Residency Requirements	6432
 Data Residential Property Price Index	11286
 Data Sovereignty and Residency	11995
 Data Sovereignty and Residency Nigeria	11995
+Data for Increased Resilience	18911
 Decarbonization and Resilience	18823
 Decarbonization and Resilience Action Plan	18795
 Decisions The Building Resilient Digital Infrastructure	7877
@@ -269,6 +275,7 @@ ECOWAS Resident Representative	10509,6167,1795
 ECOWAS Resident Representative Strengthens Engagement	17380
 ECOWAS Travel Certificate and Resident Permit	12015
 ENHANCING CLIMATE INFORMATION SYSTEMS FOR RESILIENT	17255
+ESTIMATED RESIDENT POPULATION	18989
 Economic Opportunities for Resilience Project	16384
 Economic Resilience	11546
 Economic Resilience and Investment Leadership	8665
@@ -292,12 +299,14 @@ Ensure Long- Term Resilience	17116
 Ensure Long-Term Resilience	17116
 Ensure Security and Resilience of Infrastructure	958
 Ensuring Resilience and Sustainability	11940
+Environmental Sustainability And Climate Change Resilience	18948
 Equitable and Resilient Recovery	18301
 Equity Group’s Africa Recovery and Resilience Plan	7073
 Equity RRR Resilience and Sustainability Facility RGDP	17235
 Equity and Productive Resilience Program	18301
 Er Resilience	11332
 Escritório da Coordenadora Residente	11562
+Estimated Resident Population	18989,111
 Estrangeiros Residentes	18833
 European Union’s Digital Operational Resilience	6471
 Evelyn Edroma Deputy Resident Representative Sambou	16973
@@ -327,6 +336,7 @@ Food Systems Resilience Programme	9965,3827
 Food Systems Resilience Project	2872
 Forecasts ER2C Climate Resilient Water WBG	13729
 Foreign National Permanently Resident	17537
+Foreign Nationals Residing	19041
 Foreign Resident ID	13080,15
 Foreign Residents	16983
 Foreigner's Residence Permit	11869
@@ -342,7 +352,7 @@ Fundos Autónomos. II. Residência	18798
 GBV. United Nations Resident Coordinator Ms	12626
 GEF Coastal Resilience Project	16973
 GIS for Resilience	17260
-GREATER RESILIENCE	17870
+GREATER RESILIENCE	17870,1061
 Gabinete da Coordenadora Residente	18763
 Galloway Road Watherson Residential Area Private	2776
 Gambia Resilience	17096
@@ -454,6 +464,7 @@ MESSAGE FROM THE RESIDENT REPRESENTATIVE	16973
 MESSAGE FROM THE UNDP RESIDENT REPRESENTATIVE	17101
 MICROGRAN. GAST. RESIST	15930
 MICROGRAN. GAST. RESIST. COMP. GAST. RESIST	15930
+MID-2025 ESTIMATED RESIDENT POPULATION	18989
 MODERNISING FOR RESILIENT INTELLIGENCE SERVICE	11277
 MORALE RESIDENTE BENEFICIAIRE DU PLAN D’ACTIONNARIAT	17485
 MW of Digital Resilience Liquid Zimbabwe	6909
@@ -610,6 +621,7 @@ RESIDENTS	17485
 RESIDENTS Comptes	17485
 RESIDUAL AND CATCH-ALL SAFEGUARDS	3861
 RESIDUAL COURT	12920
+RESILIATION OU EXPIRATION DU C..l	18901
 RESILIATION-DIFFERENDS ET LITIGES Article	13524
 RESILIENCE	11586,5387
 RESILIENCE A L'INSECURITE ALIMENTAIRE ET NUTRITIONNELLE	18159
@@ -654,7 +666,7 @@ Request for Bid RSSH Resilient and Sustainable Systems	16896
 ResiTchad	10841
 Residam	10754
 Reside	11314,33,2607
-Residence	1219,306,1250,7990,10,66,1304,193,75,120,2412,111,1865,206,1310,158
+Residence	1219,306,1250,7990,10,66,1304,193,75,120,2412,111,1865,206,1310,158,446
 Residence Address. If the Reporting Financial Institution	11233
 Residence By Age Age	18441
 Residence E-mail Tel	16189
@@ -733,6 +745,7 @@ Resident Representative for UNDP	15195
 Resident Representative of UNDP	5356
 Resident Representative of UNDP Liberia	17173
 Resident Services Agency	12222
+Resident Seychellois	18989
 Resident and Humanitarian Coordinator	14959
 Resident of Swaziland	12405
 Resident of Zimbabwe	736
@@ -769,7 +782,7 @@ Residential and Hazardous Occupancies	12389
 Residential and Postal	12374
 Residential-Based Businesses	15085
 Residential-Property-Price-Indices-RPPIs-and-related-housing	11286
-Residents	2775,1002,1,1621,1629,744,950,116,1114,82,114,5,112,985,617,205,74,63,931,734,425,443,2180,48,175,212,1117
+Residents	2775,1002,1,1621,1629,744,950,116,1114,82,114,5,112,985,617,205,74,63,931,734,425,443,2180,48,175,212,1117,515,110
 Residents Association Treasurer	736
 Residents Get	12745
 Residents Nonresidents Payments	17011
@@ -784,13 +797,17 @@ Residir	11472
 Residuais	15755
 Residuais Retenção	6970
 Residuais da Ilha de Santo Antão	15755
-Residual	1988,4933,5032,1915,1270,523
+Residual	1988,4933,5032,1915,1270,523,3485
 Residual Chemical and Allied Products	16285
 Residual FM	6539
 Residual Financing Gap	17257
 Residual Load	11953
 Residual Rating Incorporated	15372
+Residual Rating Project Design Risk Inherent	18887
+Residual Rating Project Design Risk Internal	18887
 Residual Risk	11153
+Residual Risk Rating Project Design Inherent	18887
+Residual Risk Rating Project Design Internal	18887
 Residual S Incorporated	3604
 Residual and Catch-All Safeguards	3861
 Residuals	14594
@@ -809,7 +826,7 @@ Resignation of Auditors	18556
 Resignations	11134,1838
 Resili	9123
 Resilien	9123
-Resilience	789,153,28,1369,287,486,401,91,517,1791,256,264,1012,104,309,1814,288,762,120,123,167,2,129,113,91,494,44,594,258,186,121,396,495,17,49,31,313,6,83,206,59,179,123,10,34,80,98,317,318,698,136,131,33,126,56,713,13,264,309,360
+Resilience	789,153,28,1369,287,486,401,91,517,1791,256,264,1012,104,309,1814,288,762,120,123,167,2,129,113,91,494,44,594,258,186,121,396,495,17,49,31,313,6,83,206,59,179,123,10,34,80,98,317,318,698,136,131,33,126,56,713,13,264,309,360,95
 Resilience Action Network Africa	4674,3805
 Resilience And Land Global Practice Western	18198
 Resilience Assessment	11469
@@ -861,7 +878,7 @@ Resilience and Recovery Project	18809
 Resilience and Recovery Project URL	18809
 Resilience and Redundancy	3641
 Resilience and Solutions	1963
-Resilience and Sustainability Facility	5247,3111,6639,2108,152,246,406,81,587
+Resilience and Sustainability Facility	5247,3111,6639,2108,152,246,406,81,587,521
 Resilience and Sustainability Facility Arrangement	17909,81
 Resilience and Sustainability Facility The RSF	17257
 Resilience and Transformation	17116
@@ -919,12 +936,12 @@ Resilient and Sustainable Systems for Health	18679
 Resilient and Trusted Regulatory Environment	12759
 Resilient40	17781
 Resiliente	15689,3104
-Resiliência	1265,5095,4422,633,13,4256,5,277,2797,25,1,20,15,15
+Resiliência	1265,5095,4422,633,13,4256,5,277,2797,25,1,20,15,15,106,1
 Resiliência Climática O Instituto Nacional de Meteorologia	17300
 Resiliência Digital	15689
 Resiliência Durante	15966
 Resiliência PILAR	15966
-Resiliência da Defesa Nacional	18788
+Resiliência da Defesa Nacional	18788,157,1
 Resin	13385
 Resins	18220
 Resist the Exploitation of Digital Gig Workers	226
@@ -991,6 +1008,7 @@ Seraphine Wakana United Nations Resident Coordinator	18529
 Services and Right of Establishment and Residence	14409
 Sex and Place of Residence	16921
 Sex and Place of Residence Urban Rural	16921
+Seychellois Resident Population Only	18989
 Shaping Resilient Futures	13447
 Shareholders and Non- Residents	17537
 Sharpening Fiscal and Macroeconomic Resilience	15983
@@ -1193,6 +1211,7 @@ Women Operational Resilience ASYCUDAWorld	16631
 Work and Residence	12597
 World Bank Boosts Social Protection and Resilience	18816
 World Bank Economic Resilience Development Policy	15157
+World Bank Resident Representative	18962
 World Bank Resident Representative Diego Alonso	4303
 World Bank Resident Representative for Togo. Press	2026
 World Bank's Second Resilient and Sustainable Infrastructure	11918

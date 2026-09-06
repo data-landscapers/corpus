@@ -270,6 +270,7 @@ Cybersecurity Awareness Training	12189,864
 Cybersecurity Training	10721,4333
 Cybersecurity Training Center of Excellence	16144
 Cybersecurity Training and Awareness Tier	10721
+Cybersecurity Training for SMEs	18903
 D-I6-A3 Training	15713
 D-I6-A3 Training and Capacity Building Training	15713
 D. Basic Literacy Sign Language Training	12977
@@ -293,6 +294,7 @@ DGI Traiter	17872
 DHET Department of Higher Education and Training DIRISA	5246
 DHET. Department of Higher Education and Training	6832
 DHIS2 Training and Implementation	6048
+DIGITAL AGRICULTURAL SYLLABI AND ENTREPRENEURSHIP TRAINING	18910
 DISPOSITIONS PARTICULIERES A CERTAINS TRAITEMENTS Article	10825
 DLP Training	899
 DONNEES FONT L’OBJET D’UN TRAITEMENT Section	436
@@ -408,7 +410,7 @@ Ecobank Benin SA Traitement	10821
 Economic and Social Research and Training Centre for Islamic	6203
 EduSpots' Training Centre	16775
 EduSpots’ Training Centre	11306
-Education and Training	899,1041,835,8778,433,370,590,26,1437,167,2285,90,621
+Education and Training	899,1041,835,8778,433,370,590,26,1437,167,2285,90,621,1507
 Education and Training ARTICLE	14409
 Education and Training Act	6921
 Education and Training Authority	10709
@@ -425,6 +427,7 @@ Education and Training Related	16978
 Education and Training Roadmap	13991
 Education and Training Sector Improvement Programme	12325
 Education and Training Sector Note	13953
+Education and Training Sector Plan	19093
 Education and Training Sector Strategic Plan	12574
 Education and Training Skills Improvement Programme	12934
 Education and Training Sustainable Development Goals	12946
@@ -670,6 +673,7 @@ Installers Trained Biogas Installers Research	12515
 Institute GTTI Technical Training Institute HFO	17105
 Institute for Meteorological Training and Research	13062
 Institute of Employment and Professional Training	11855
+Institute of Secretariat Training and Management	19156
 Institution for Specialised Training of Professionals	13623
 Institutional Setup Training	3861
 Institutions Training Program for PIU and Stakeholders Days	12253
@@ -831,9 +835,11 @@ Ministry of Education and Training of Eswatini	12368
 Ministry of Education and Vocational Training	11133,2805
 Ministry of Employment and Vocational Training	10963,1,4516
 Ministry of National Education and Vocational Training	13935
+Ministry of Professional Training and Micro Commerce	18911
 Ministry of Technical Education and Professional Training	16675
 Ministry of Technical Education and Vocational Training	14552
 Ministry of Technical and Vocational Education and Training	14576
+Ministry of Vocation Training	18931
 Ministry of Vocational Training	15447,2487
 Ministry of Vocational Training and Education	16127
 Mission for Training Decision-Makers	10720
@@ -896,7 +902,7 @@ No. of Businesses Trained	15716
 No. of Children Trained	15716
 No. of Public Sector Workers Trained	15716
 Nobila Airport Hotel Traitement	10821
-Non Consulting Services Training	15372
+Non Consulting Services Training	15372,3515
 Non-Profit Training	17870
 Nsia Banque Bénin Traitement	10821
 Ntfonjeni and Big Bend. CBE Trains ESRIC	11134
@@ -1198,6 +1204,7 @@ Staff Training and Development The Human Resource	12969
 Stakeholder Consultative Engagement and Awareness Training	10598
 Standards Training of Assessors Technical Working Group	12969
 Standards and Training Information Alerts Protection Starter	16830
+Standards of Training	18985
 State Training and Governments Awareness Fund	11857
 State-Level Training	15244
 Station de Traitement de Boues de Vidange	2342
@@ -1273,7 +1280,9 @@ TRAITEMENTS DES INCIDENTS DE SECURITE	10906
 TRAITEMENTS INHIBITEURS DE LA RESORPTION OSSEUSE	15930
 TRAITES AVALISEES	17833
 TRAITÉS ET ACCORDS CONCLUS AVEC D’AUTRES	17898
+TVET Technical Vocational Education and Training UMAC	18931
 TVET Technical Vocational Education and Training UN	1814
+TVET Technical Vocational Education and Training UNESCO	19079
 TVET Technical and Vocational Education and Training TVETA	7548
 TVET Technical and Vocational Education and Training UAT	11261
 TVET Technical and Vocational Education and Training UN	18512
@@ -1314,7 +1323,7 @@ Technical Staff Training	13185
 Technical Training	8286,4968
 Technical Training Programs	12675
 Technical Training of Computing Science	21
-Technical Vocational Education and Training	11326,1596,24,29
+Technical Vocational Education and Training	11326,1596,24,29,5956,2
 Technical Vocational Education and Training Sector	12934
 Technical Vocational Education and Training UIF Unemployment	11250
 Technical Vocational Training	11210
@@ -1347,7 +1356,7 @@ Trailer	15205
 Trailing	3986,1779,962,998,508,212,58
 Trailing Airtel	5802
 Trails Audit	11153
-Train	958,42,988,471,1667,402,1055,849,504,12,3,231,262,583,2694,144,99,169,119,611,390,103,88,9,59,163,79,80,206,169,105,17,564,458,199,266,125,54,247,98,69,193,55,54,1,11,120,94,29,361,598,20,4,17,3,4,139,2,23,18,207,1006,161
+Train	958,42,988,471,1667,402,1055,849,504,12,3,231,262,583,2694,144,99,169,119,611,390,103,88,9,59,163,79,80,206,169,105,17,564,458,199,266,125,54,247,98,69,193,55,54,1,11,120,94,29,361,598,20,4,17,3,4,139,2,23,18,207,1006,161,380
 Train Bachelor Degree	17116
 Train EMR	11252
 Train ENEO and ARSEL	10975
@@ -1395,7 +1404,7 @@ Trainers	4217,2615,716,5106,2345,2227,1238
 Trainers of Trainers	15085
 TrainforTrade	15478
 TrainforTrade Programme	15478
-Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3,47,8,53,12,7,8,9,57,24,2,69,114,3,6,31,17,30,6,7,17,4,44,18,33,70,76,32,56,26,184,69,3,6,28,8,1,10,9,2,13,1,11,3,1,30,4,5,13,82,51,60,9,2,22,6,1,12,49,8,15,31,2,15,3,23,10,31,5,13,20,30,4,88,6,55,13,19,7,24,178,15,33,20,2,5,2,26,26,5,1,5,2,9,5,22,13,1,1,90,12,16,67,30,21,15,35,11,3,66,1,12,49,91,5,135,177,7,91,60,1,53,49,62,73,46,36,21,11,126,9,109,44,7,2,4,1,17,1,51,6,11,6,54,8,15,9,1,1,74,2,9,26,5,40,1,10,32,16,26,19,23,3,35,128,39,13,23,33,38,35,28,20,18,39,3,2,16,9,25,30,75,96,46,72,14,98,32,22,26,13,146,248,162,50,5,4,1,8,2,22,42,9,6,1,4,4,12,8,2,5,33,37,17,3,31,15,2,23,25,16,5,145,111,29,33,215,62,4,100,78,142,102,103,9,52,90,10,6,11,1,16,27,1,2,42,1,193
+Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3,47,8,53,12,7,8,9,57,24,2,69,114,3,6,31,17,30,6,7,17,4,44,18,33,70,76,32,56,26,184,69,3,6,28,8,1,10,9,2,13,1,11,3,1,30,4,5,13,82,51,60,9,2,22,6,1,12,49,8,15,31,2,15,3,23,10,31,5,13,20,30,4,88,6,55,13,19,7,24,178,15,33,20,2,5,2,26,26,5,1,5,2,9,5,22,13,1,1,90,12,16,67,30,21,15,35,11,3,66,1,12,49,91,5,135,177,7,91,60,1,53,49,62,73,46,36,21,11,126,9,109,44,7,2,4,1,17,1,51,6,11,6,54,8,15,9,1,1,74,2,9,26,5,40,1,10,32,16,26,19,23,3,35,128,39,13,23,33,38,35,28,20,18,39,3,2,16,9,25,30,75,96,46,72,14,98,32,22,26,13,146,248,162,50,5,4,1,8,2,22,42,9,6,1,4,4,12,8,2,5,33,37,17,3,31,15,2,23,25,16,5,145,111,29,33,215,62,4,100,78,142,102,103,9,52,90,10,6,11,1,16,27,1,2,42,1,193,117,2,14,48,6,8
 Training A C C I Results-Based	17116
 Training AI	12675
 Training Abroad for Financial Year	14835
@@ -1407,6 +1416,7 @@ Training African	5302
 Training All NEMIS	11860
 Training And Research In Kenya	899
 Training And Research. Meeting The Challenges	899
+Training Architecture	19079
 Training Authority	13053
 Training Authority BDA	6832
 Training Authority CHE	6832
@@ -1635,8 +1645,9 @@ Training. Statistics	6832
 Training21	1814
 TrainingOfTrainers	9360
 Traininginitiativesfocusedonhelpinglecturers	8602
-Trainings	1362,416,210,4958,3822,1684,465,55,87,333,1639,380,1583,120,1256,134,157
+Trainings	1362,416,210,4958,3822,1684,465,55,87,333,1639,380,1583,120,1256,134,157,272
 Trainings and Awareness Campaigns	10776
+TrainingÂ	18887
 Trainingė	15604
 Trains	4259,13611
 Trains Content Creators	17187
@@ -1703,6 +1714,7 @@ Visually Impaired Trainer	13095
 Vocational Education and Training	6948,7598,370
 Vocational Education and Training EXECUTIVE SUMMARY Namibia	13033
 Vocational Education and Training Levy's Key Priority	12934
+Vocational Education and Training TWG Thematic Working	18911
 Vocational Education and Training UIS UNESCO Institute	13310
 Vocational Education and Training UK United Kingdom	14747
 Vocational Training	12431,1043,1268,738,178,2647

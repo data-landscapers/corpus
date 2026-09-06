@@ -1,12 +1,14 @@
 ADMINISTRATION The DPM’S Office Administration Section	12977
 AI and DPI	1481,99,738,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,3896
-AP-01 DP-15 WARDIP-2026	18037
+AP-01 DP-15 WARDIP-2026	18037,1120
 AP-01 DP-15 WARDIP-2026 Crédit	5983
-AP-01 DP-15 WARDIP-2026 Intitulé du Marché	18037
+AP-01 DP-15 WARDIP-2026 Intitulé du Marché	18037,1120
 API Application Programming Interface DPI Digital	13076
 APPOINTMENT NOTIFICATION FORM DP2 POTRAZ	1877
 ARTICLES THEMATIQUES Flash Infos Le DPPD-PAP	16378
 ASEAN and Africa for DPI	9431
+ATIA and DPA	19042
+ATIA and DPA. Policies	19042
 ATTRIBUTION AND DPI	10852
 AU Continental Data Policy Framework. DPC	1779
 AU DPF	14486
@@ -123,6 +125,7 @@ Citizen Support Portal DPC	14742
 Civil Society Organization DPI Digital Public	7548
 Code de Réalisée Le Code de Déontologie DPFP	17872
 Comptabilité Publique DPP Direction	10712
+Conduct DPA	19042
 Conduct DPIAs	12193
 Conducting DPIAs	13381
 Consent DPI	10719
@@ -180,11 +183,15 @@ DPA and Regulations	14524
 DPA- All	2668
 DPA-identity	1196
 DPA. Data	12232
+DPA. Engagement	19042
+DPA. Figure	19042
+DPA. Funding	19042
 DPA. Guidance	12301
 DPA. In Nigeria	4583
 DPA. TA	1704
 DPA. The Commissioner	12232
 DPA. Transitional Provisions	1652
+DPACS	19093
 DPAs. Countries	4583
 DPBEB	3396
 DPBEP	1866,1530,141,7175,5000,763,1925,2,1
@@ -218,6 +225,7 @@ DPE du MEN	14472
 DPEE. Dans	18291
 DPEF Direction	17885
 DPEIEFG	15632
+DPENs	19093
 DPEPN	15411
 DPEPS	15639
 DPEPS. Au	15639
@@ -772,6 +780,7 @@ HRMIS DPI	3295
 Hand DPI	6665
 Handbook. Multistakeholder Governance for DPI	11007
 Health-sector DPI	6249
+Hearing Policy for ATIA and DPA	19042
 Home DPO CyberHub Rw-CSIRT Website About	9125
 Hotelaria DPA	18794
 Hotspot Operators Mao Warns DP Members	4608
@@ -802,6 +811,7 @@ India DPI Summit	7981
 India DPI and China	793
 India's DPI	2804,4095,252,830,1450,8329,408
 India’s DPI	6386,306
+Information Commissioner DPA Data Protection Act	19042
 Information DPE Direction Préfectorale	16626
 Information Letter DPL Development Policy Loan	10768
 Infrastructure DPIA Data Protection Impact Assessment	7548
@@ -813,6 +823,7 @@ Intentional DPI Governance	5700
 Internet Africain DPS Déclaration de Politique Sectorielle	15592
 Interrogating DPI	5485
 Introduction DPI	4981
+Investigation Policy for ATIA and DPA	19042
 Investigations Bureau DPO Data Protection Officer	6936
 Investments Named DPI	3859
 Join the DPI Map Community of Practice	4863
@@ -872,6 +883,7 @@ Malawi's GSMA DPRI	14674
 Malawi. DPRI	14674
 Malawi. The DPA	12232
 Management System DPA Data Protection Act	15164
+Mandate for DPA	19042
 Mapping DPI	8446
 Mauritania Fiscal Management and Resilience DPF	18006
 Mauritius DPA	6792
@@ -1001,6 +1013,7 @@ SAPS and DPWI	11285
 SDC. Multistakeholder Governance for DPI	11006
 SF SF SRH DADF DPSR DPSR	10858
 SLO.38 For DPI	11006
+SOPs for ATIA and DPA	19042
 SRM MOTOROLA DP2000e Portatif VHF	998
 SSA. DPI ADP III	347
 STATUTORY APFAIRS CARS INDER SERVICE DPIE-CERTIFIEE	15999

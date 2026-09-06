@@ -65,6 +65,7 @@ Ghana Rural Telephony and Digital Inclusion Project	478,1,7546
 HJ The Hague Telephone	13358
 Home Region Radio Television Telephone Fixed	18441
 INTERNATIONAL INCOMING AND OUTGOING FIXED TELEPHONE	11211,51
+Information Analyst Telephone	19057
 International Telephone	3862
 Internet Packet Telephony	13266
 Kenya Telephone	14441
@@ -129,6 +130,7 @@ Philippine Long Distance Telephone	15471
 Physical Address Telephone No. Contact Person	736
 Príncipe Telephone	18797
 Public Switched Telephone Network	6000,6395,6049
+Public Switched Telephone Network RAP Resettlement	18887
 Public Switched Telephone Network SMS	6000
 Public Switched Telephone Service	15372
 Puerto Rico Telephone Company	15471
@@ -161,7 +163,7 @@ TTCL Dodoma Telephone House	2868
 Teleperformance	11162
 Teleperformance Talent and AI Drive Next Phase	11162
 Telepharmacy	9855
-Telephone	36,682,18,418,69,331,274,49,1579,758,485,979,1,753,607,2697,978,51,10,10,8,19,29,122,13,1,8,164,31,17,64,10,15,259,27,295,7,5,2,24,347,4,72,18,18,19,17,13,86,1,34,125,394,43,15,36,38,127,2,81,128,27,74,244,149,189,347,23,201,59,47,14,159,3,147,193,48,33,33,33,1108,21,101,69,31,50,8,8,30,24,153,60,41,7,69,177,366,1,36,3,81,384,82,232,135
+Telephone	36,682,18,418,69,331,274,49,1579,758,485,979,1,753,607,2697,978,51,10,10,8,19,29,122,13,1,8,164,31,17,64,10,15,259,27,295,7,5,2,24,347,4,72,18,18,19,17,13,86,1,34,125,394,43,15,36,38,127,2,81,128,27,74,244,149,189,347,23,201,59,47,14,159,3,147,193,48,33,33,33,1108,21,101,69,31,50,8,8,30,24,153,60,41,7,69,177,366,1,36,3,81,384,82,232,135,108,54
 Telephone Allowance	13096
 Telephone Bearer Microwave Link TV Bearer	736
 Telephone Call Traffic	2775

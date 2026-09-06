@@ -4,7 +4,7 @@ A2.11. Artificial	15129
 ABBREVIATIONS AND ACRONYMS AI Artificial Intelligence	17114
 ACKNOWLEDGEMENTS The Republic of Ghana National Artificial	4126
 ACRONYMS AND ABBREVIATIONS AI Artificial Intelligence	17116
-AI Artificial	11050,83
+AI Artificial	11050,83,7946
 AI Artificial Intelligence	3184,1,1340,6470,970
 AI Artificial Intelligence ADM Add	12006
 AI Artificial Intelligence ARC Academic Research	14747
@@ -88,7 +88,7 @@ Artificial E-Commerce Intelligence	4972
 Artificial General Intelligence	6955,4095,106
 Artificial Honey	13122
 Artificial Humans	8460
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2,83,81,36,4,5,4,7,13,1,25,23,4,15,14,3,15,63,24,26,21,11,106,1,9,10,35,42,13,18,6,24,25,10,4,1,7,40,41,23,18,12,260,46,13,2,78,10,36,9,9,30,43,130,153,61,1,35,62,1,10,16,39,18,1,2,2,18,1,1,2,1,4,7,4,3,19,6,1,10,9,4,37,64,61,30,115,84,214,33,33,40,30,35,95,1,2,3,99,7,13,31,70,32,8,67,85,13,68,49,234,184,51,54,100,31,27,24,9,43,29,43,2,24,44,75,20,120,62,166,38,3,24,46,6,16,9,1,42,96,288,131,143,39,38,51,56,44,15
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2,83,81,36,4,5,4,7,13,1,25,23,4,15,14,3,15,63,24,26,21,11,106,1,9,10,35,42,13,18,6,24,25,10,4,1,7,40,41,23,18,12,260,46,13,2,78,10,36,9,9,30,43,130,153,61,1,35,62,1,10,16,39,18,1,2,2,18,1,1,2,1,4,7,4,3,19,6,1,10,9,4,37,64,61,30,115,84,214,33,33,40,30,35,95,1,2,3,99,7,13,31,70,32,8,67,85,13,68,49,234,184,51,54,100,31,27,24,9,43,29,43,2,24,44,75,20,120,62,166,38,3,24,46,6,16,9,1,42,96,288,131,143,39,38,51,56,44,15,364,26,49,28,17
 Artificial Intelligence AI	12210
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Artificial Intelligence AML Anti-Money Laundering ARIPO	11250
@@ -253,6 +253,7 @@ Artificial Intelligence. Even	13197
 Artificial Intelligence. Pointing	10370
 Artificial Intelligence. SPU Works	11265
 Artificial Intelligence. The EIB	789
+Artificial Intelligence. This Framework	19079
 Artificial Intelligence. Training	12972
 Artificial Intelligence. Within	1814
 Artificial Intelligence.pdf	2682
@@ -320,6 +321,7 @@ Clash Against Future FC Artificial	7814
 Cloud Computing Intelligence Artificielle	15674
 Cloud and Artificial Intelligence	6582
 Comissão Nacional de Inteligência Artificial	2816,7735,2272
+Computing and Artificial Intelligence	18924
 Conferência Anual de Inteligência Artificial	12823
 Conferência Global de Inteligência Artificial	8630
 Conferência Nacional de Inteligência Artificial	2816
@@ -350,6 +352,7 @@ Data Science and Artificial Intelligence	7034,4795
 Data and Artificial Intelligence	11314,6158
 Defining Artificial Intelligence	3651
 Defining and Measuring Artificial Intelligence	11140
+Definition of Artificial Intelligence	19079
 Definitions Artificial Intelligence	13347
 Deployment of Artificial Intelligence	11956
 Desafios Globais da Inteligência Artificial A Inteligência	2816
@@ -452,6 +455,7 @@ Federal Government’s Artificial Intelligence Strategy AI	11135
 Federal Republic of Artificial Intelligence	12512
 Financing Artificial Intelligence Infrastructure	14673
 Finland Artificial Intelligence	11135
+Foreword Artificial Intelligence	19079
 Foro Nacional de Inteligencia Artificial	17307
 Free Trade Area AI Artificial Intelligence	4126
 French Strategy for Artificial Intelligence French	11135
@@ -495,6 +499,7 @@ Glossary of Abbreviations Term Description AI Artificial	14674
 Glossary of Terms Artificial Intelligence	12356
 Google News An Artificial Intelligence	5969
 Governance Artificial Intelligence	15713
+Governança da Inteligência Artificial	18958
 Governação Global de Inteligência Artificial	8630
 Governação de Inteligência Artificial	2816
 Government Artificial	4126
@@ -525,8 +530,9 @@ INTELIGÊNCIA ARTIFICIAL GENERATIVA	2816
 INTELIGÊNCIA ARTIFICIAL PARA A CAPACITAÇÃO NA	2816
 INTRODUCTION Artificial	11156,2848
 INTRODUCTION Artificial Intelligence	12675
+IPOS' Artificial Intelligence	19076
 Imaginaries of Artificial Intelligence	11028
-Impact of Artificial Intelligence	2844
+Impact of Artificial Intelligence	2844,16163
 Impacto da Inteligência Artificial	2816
 Importância da Regulamentação da Inteligência Artificial	2816
 Inclusive and Ethical Artificial Intelligence	3366
@@ -540,7 +546,7 @@ Inteligencia Artificial	3494,4209,1,9498,105,70
 Inteligencia Artificial By Marisa Pilar Oyana	7100
 Inteligencia Artificial. En	9318
 Inteligência Artifical	2816
-Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27,324,34,1,20,4,17,18,79,18,106,326,78,726,7,5,11,1467,1511,32,25,110,189,71,53,778,255,24,209,1226,5,60
+Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27,324,34,1,20,4,17,18,79,18,106,326,78,726,7,5,11,1467,1511,32,25,110,189,71,53,778,255,24,209,1226,5,60,108
 Inteligência Artificial A Parceria Global	2816
 Inteligência Artificial Actualmente	2816
 Inteligência Artificial Centrada	2816
@@ -570,7 +576,7 @@ Inteligência Artificial. Um	2816
 Intelligence Artif	13781
 Intelligence Artificial Intelligence	11247
 Intelligence Artificiel	7634
-Intelligence Artificielle	1231,665,252,270,277,37,76,183,205,37,7,88,529,208,1604,1770,1369,273,276,464,1093,110,556,153,1608,135,252,181,423,217,73,67,7,798,35,36,10,8,35,6,43,15,28,10,58,9,87,22,65,178,218,20,4,110,5,27,50,66,31,1046,47,1,110,33,76,8,33,20,26,49,8,17,4,44,57,30,27,13,5
+Intelligence Artificielle	1231,665,252,270,277,37,76,183,205,37,7,88,529,208,1604,1770,1369,273,276,464,1093,110,556,153,1608,135,252,181,423,217,73,67,7,798,35,36,10,8,35,6,43,15,28,10,58,9,87,22,65,178,218,20,4,110,5,27,50,66,31,1046,47,1,110,33,76,8,33,20,26,49,8,17,4,44,57,30,27,13,5,648,38,27,150
 Intelligence Artificielle AIPD Analyse	15583
 Intelligence Artificielle Abdillahi Ahmed	13909
 Intelligence Artificielle IDH	16195
@@ -623,9 +629,11 @@ Libya Launches National Strategy for Artificial Intelligence	3841
 Libya's National Artificial Intelligence Strategy	17291
 Libyan Center for Artificial Intelligence	17157
 Lifecycle-Based Approach Artificial Intelligence	14565
+List of Acronyms and Abbreviations AGI Artificial	19079
 L’INTELLIGENCE ARTIFICIELLE PARLE NOS LANGUES	9916
 L’ère de L’intelligence Artificielle	8891
 MBITO DA INTELIGÊNCIA ARTIFICIAL	2816
+MBMFFUcf.pdf National Artificial Intelligence	19079
 MEMORANDUM ON THE ARTIFICIAL INTELLIGENCE BILL	14601
 MINISTER REPUBLIC OF GHANA NATIONAL ARTIFICIAL	4126
 ML Artificial Intelligence	13185
@@ -658,7 +666,7 @@ Namibia’s Artificial Intelligence Strategy Framework	9107
 National AI Council National Artificial Intelligence	4528
 National Artificia	6689
 National Artificial	14674
-National Artificial Intelligence	2359,1284,1760,543,348,86,327,1053,93,756,386,209,1088,938,1324,160,296,1742,38
+National Artificial Intelligence	2359,1284,1760,543,348,86,327,1053,93,756,386,209,1088,938,1324,160,296,1742,38,4289
 National Artificial Intelligence Agency	6526,38,3010,2108
 National Artificial Intelligence Agency. Samuel Mizero	10152,19
 National Artificial Intelligence Centre	10451

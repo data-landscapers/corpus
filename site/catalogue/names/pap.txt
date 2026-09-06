@@ -47,6 +47,7 @@ Afrobarometer Working Papers Taking	7886
 Afrobarometer Working Papers Trust	7886
 Afrobarometer Working Papers Wald	7886
 Afrobarometer Working Papers Working Paper No	7886
+Agreement. Shapefile Geodatabase Paper Map Data	18904
 Algeria PAPSS	3440
 Alongside PAPSS	6401
 Aménagement des Territoires M. Papa Aliou DIOUF	18361
@@ -105,6 +106,7 @@ COVERAGE PAPSS Network	11002
 COVERAGE SN COUNTRY PAPSS REACHABLE VIA	11002
 COVID-19 Crisis Response Approach Paper	10964,4527
 COVID-19 Crisis Response Approach Paper. Page	13331
+CPIP Country Procurement Issues Paper DEE	18887
 Cabinet Paper and Circular Number	12975
 Cabinet The Chief Executive Officer of PAPSS	16984
 Cabinet White Paper	18485
@@ -132,7 +134,7 @@ Consultation Paper	6748,1922
 Contenu du PAP	10876
 Corresponding Types of Entitlement PAP Category Type	17114
 Country Dialogues and Country Strategy Paper	7784
-Country Procurement Issue Paper	15372
+Country Procurement Issue Paper	15372,3515
 Country Strategy Paper	8574,2267,1022
 Country Strategy Paper Period	11863,3148
 Country Strategy Paper Priorities	13938,1073
@@ -400,6 +402,7 @@ PAP Must	8015
 PAP Plano	18783
 PAP President	8012,3
 PAP Program Action Plan PbC Performance-based	17458
+PAP Sénégal	18988
 PAP VLF	1326,1,2,1,686,1,2,1,2136,1,2,1,1
 PAP VLF MISP	4396,2344
 PAP du PSE	18286
@@ -438,6 +441,7 @@ PAPJs and SRAs	17441
 PAPJs. Civil	17441
 PAPJs. Sub-component	17441
 PAPJs. The Project	17441
+PAPPE	19056
 PAPPS	13388
 PAPS Parallèlement	8066
 PAPSE II	15591,845
@@ -506,6 +510,7 @@ PROJECT PAPER DOCUMENT	18198
 PROJECT PAPER DOCUMENT Does	18198
 PROJECT PAPER ON A PROPOSED ADDITIONAL	18625
 PRSP Poverty Reduction Strategy Paper PSDS	16861
+PRSP Poverty Reduction Strategy Paper PSTN	18887
 PRSP Poverty Reduction Strategy Paper RFQ	11525
 Palestine PSE Papua New Guinea PNG	13082
 Panama Papers	3279,85
@@ -635,6 +640,7 @@ Poverty Reduction and Growth Strategy Paper. TCLE	11916
 Power Grid PAPSS	14189
 Primary Balance PAPSS Participating Financial Institutions	17235
 Prioritaires PAPDFF Programme	18286
+Priority PAPIRET Action Plan for Innovation and Reform	18931
 Product Appraisal and Project Papers	10985
 Program Paper	14096
 Program Working Paper	15663
@@ -721,6 +727,8 @@ Saint Pape	13405
 Salvatore Eugenio Pappalardo	11006
 Scheme NW North West PAPI Paper	11192
 Science and Technology Government Paper	12529
+Scientific Papers	18904
+Scientific Papers Any	18904
 Secure Identity Alliance Discussion Paper. GSMA	10819
 Selected Issues Paper	1828,11796,3879
 Selected Issues Papers	13868
@@ -796,6 +804,7 @@ WBG COVID-19 Crisis Approach Paper	15553
 WBG COVID-19 Crisis Response Approach Paper	15518
 WBG’s COVID-19 Approach Paper	15518
 WBG’s COVID-19 Crisis Response Approach Paper	15518
+WHITE PAPER	18988
 WIDER Working Paper	17011
 WTO Staff Working Papers ERSD-2021-5. World	10718
 WTO Telecom Reference Paper	11550,2435

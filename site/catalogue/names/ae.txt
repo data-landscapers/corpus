@@ -36,7 +36,7 @@ AECE1	13058
 AECE2	15059
 AECID	17094,870
 AECOM	3583
-AECS2	13734
+AECS2	13734,5248
 AED AOA	14683
 AED de Marcel Sewanou	3683
 AEDC Abuja Electricity Distribution Plc ATC&C	12062,6124,31
@@ -316,6 +316,7 @@ FCFA AE	15999
 FUERZAS AEREAS.- Concepto	4209
 Follows the AES	3126
 Fund AEO African Economic Outlook AfDB	11863
+GP Anse Etoile AE Ile Perseverance	18951
 Health Information Network AeHIN	10970
 Hong Kong Aerospace Technology Group	4880
 I DSKGIELDLS R AENPODR DTIGITAL DIVIDE	582
@@ -356,7 +357,7 @@ Mº AVIACIÓN CIVIL E INFRAESTRUCTURAS AEROPORTUARIAS	4209
 Mº de AVIACION CIVIL E INFRAESTRUCTURAS AEROPORTUARIAS	4209
 Múltiples Nacional Aeropuertos de Malabo	4209
 NVIDIA’s Aerial	14391
-National Aeronautics and Space Administration	11342
+National Aeronautics and Space Administration	11342,7738
 National Aeronautics and Space Administration NCCD National	17157
 Niger AES-aligned	5580
 Non Aedifi	15380

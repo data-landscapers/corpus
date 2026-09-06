@@ -198,7 +198,7 @@ Cardiopulmonary	12151
 Cardiorespirato- Cardiopulmo-	12151
 Cardiorespirato- Injuries	12151
 Cardiorespirato- Pneumonia	12151
-Cardiovascular	12151,2905
+Cardiovascular	12151,2905,3881
 Cardiovascular Diseases	18627
 Cardno	7278
 Cardo Destin	15901
@@ -372,7 +372,8 @@ Higino Cardoso	11561
 Hypertension Cardio Pul-	12151
 Hypertension and Cardiovascular	12151
 ICPS Ghana Digital National ID Card	84
-ID Card	4696,6018,4027,11,38
+ID Card	4696,6018,4027,11,38,4254
+ID Card Act	19040
 ID Card Jun	10714
 ID Card Licences Passport Bank	10819
 ID Card No N	10714
@@ -414,7 +415,7 @@ Identity Card Yes NIA ID	10714
 Identity Card and Affidavit	14880
 Identity Card. At the Central Post of SME	10775
 Identity Card16 Bhutan Digital Identity Service	10714
-Identity Cards	5121,2558,486,2734,1262
+Identity Cards	5121,2558,486,2734,1262,6879
 Identity Cards. All	5609
 Identity Cards. Presently	10775
 Identity Module Card SMART Specific Measurable	11857
@@ -437,6 +438,7 @@ Iraqi National ID Card	10714
 Israeli Identity Card Yes Government Identification	10714
 Issuance of Disability Card	12916
 Issuance of National Identity Cards	12227
+Issue of National Identity Card	18943
 Java Card	6346,9046
 Jigisemejiri Beneficiary Card	17870
 Joana Cardoso de Guerra Matos Albino	10753
@@ -488,6 +490,7 @@ Mauritius Smart National ID Card	14729
 Member IDD04 Claudia Cardelli Team Member	1284
 Merchants ATMs POS Debit Cards Credit	6978
 Million Cards	6204
+Minor's Identity Card	19045
 MoMo Virtual Card	9102,1
 Mobile Money Agent SIM Cards	15136
 Mobile Money Linked SIM Cards	15136
@@ -514,6 +517,8 @@ NATIONAL IDENTITY CARD	14740
 NATIONAL IDENTITY CARD ACT	14716
 NATIONAL IDENTITY CARD ACT Act	14716
 NATIONAL IDENTITY CARD ACT Regulations	14740
+NATIONAL IDENTITY CARDS ACT	18943
+NATIONAL IDENTITY CARDS ACT Revision	18943
 NHA CARD	11939
 NIDA Card	2119
 NINA Card No N	10714
@@ -551,8 +556,8 @@ National Identification Card System	16983
 National Identification Card System. SECTION	16841
 National Identification Cards	3645,4118,1057,1701,1747
 National Identification Cards. Sesay	8820
-National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158,1058
-National Identity Card Act	1379,13336,1,24
+National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158,1058,348,98
+National Identity Card Act	1379,13336,1,24,4203
 National Identity Card National ID System	10714
 National Identity Card No BRR Cabo	10714
 National Identity Card No Electronic ID	10714
@@ -561,6 +566,7 @@ National Identity Card No N	10714
 National Identity Card Number	14713,110
 National Identity Card Numbers	15393
 National Identity Card Regulations	2363,12377
+National Identity Card URL	19041
 National Identity Card Unit	14716,62
 National Identity Card Yes F25 Aug	10714
 National Identity Card and Mobile ID	14741
@@ -606,6 +612,7 @@ Number of ID Cards Issued	12533
 Nvidia's GPGPU and Intel MIC Card	9475
 OETR STIVÉ AND-STATUTORY AFFAIRS CARD INDEX	15999
 ORIGINAL IDENTITY CARD	14740
+Obtain Seychelles Virtual ID Card	19041
 Olayemi Cardoso	2397,3483,3106
 Olayemi Cardoso. Nigeria	3732
 Oman Omani ID Card Yes N	10714
@@ -694,6 +701,7 @@ Regulation Governing SIM Card Registration	1840
 Renewal of Card	16088
 Repeal The National Identity Cards Act	12648
 Replacement of Card	16088
+Replacement of National Identity Card	19041
 Replacing the Voter Card Law No	11864
 Residence Permit Card	18702
 Residence Permit Card System	14830
@@ -750,6 +758,8 @@ Securitized National Identity Card	18471
 Securitized and Multipurpose Biometric ID Cards	18471
 Securitized and Multipurpose ID Cards	18471
 Securitized and Multipurpose Identity Card	18471
+Select the Minor's Identity Card	19045
+Seychelles ID Card	19041
 Sierra Leone. Physical Identity Cards	18471
 Sim Card Registration	10822
 Simultaneous Issuance of NRCs and Voter's Card Committee	12415
@@ -777,6 +787,7 @@ Személyi ID Card	10714
 TATUTORY APFAIRS CARD IN P ERTIFIEE	15999
 TILE-ANS STATUTORT APFAIRS CARD INDE SERVICEŸ	15999
 TIVE AND STATUTORY AFFAIRS CARD INDEX	15999
+TRANSITION TO VIRTUAL ID CARDS	18961
 Tax ID Cards	11859
 Technology ID Identity Card IDA International	2775
 Technology for Development Policy IDs Identity Cards	16885
@@ -799,12 +810,15 @@ Unique Biometric Identity Cards	18471
 University of South Africa. Cardno	7278
 Utilizing the National ID Card for Identification	16983
 VE-AND STATUTORY APFAIRS CARD HNDEZ SERVICEI	15999
+VIRTUAL ID CARD	19044
 VISA and Master Card	12542
 VISA and Master Card. The ECZ	13477
 VRR Card Civil Registry	10714
 VRR India Card	10714
 Vaccination Card Ownership and Availability	15247
 Vanuatu National ID Card	10714
+Virtual ID Card	19044
+Virtual ID Card and Digital Driving License	19044
 Virtual ID Cards for Permit Holders and Seychellois	1882
 Visa Card	8615
 Visa and Western Union. Yellow Card	9151

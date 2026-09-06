@@ -159,6 +159,7 @@ FUNCTIONS OF REGIONAL ADMINISTRATION	12970
 FUNCTIONS OF STATISTICS SIERRA LEONE Committees	18435
 FUNCTIONS OF THE AUTHORITY	18466
 FUNCTIONS OF THE COMMISSION	16830
+FUNCTIONS OF THE CORPORATION	19173
 FUNCTIONS OF THE DEPARTMENT OF STATE	16839
 FUNCTIONS OF THE DEPARTMENT OFSTATE	16839
 FUNCTIONS OF THE MINISTER	16839
@@ -222,6 +223,7 @@ Functional	582,179,393,2753,1626,417,231,251,1116,3271,314,76,7,24,29,528,141,48
 Functional AI	15713
 Functional AI Exchequer	7548
 Functional Architecture	17116
+Functional Areas	18904
 Functional Audit Committee The GAC	9650
 Functional Civil Registration Office Counts	15415
 Functional Classification	14830
@@ -282,10 +284,10 @@ Functionality SIMOrede	12270
 Functionality Subtitle	14778
 Functionality The EthSwitch IPS	12269
 Functionality XX Partially	15206
-Functioning	771,7050,4070,25,1100,29,286,665,1905,942,66,110,375,1322
+Functioning	771,7050,4070,25,1100,29,286,665,1905,942,66,110,375,1322,269
 Functioning AI	15713
 Functioning Economic Zones and Policy Incentives Focus	12376
-Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598,387,1,8,96,20,169,40,68,85,187,6,15,2,91,4,1,1,6,2,8,13,214,1,5,6,1,15,38,15,1,2,349,40,205,385,458,1,5,7,27,44,82,19,5,2,46,72,13,11,25,22,34,26,46,69,375,119,19,318,1039,4,4,20,9,15,88,260,8,1195,19,6,2,1,1,89,40,4
+Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598,387,1,8,96,20,169,40,68,85,187,6,15,2,91,4,1,1,6,2,8,13,214,1,5,6,1,15,38,15,1,2,349,40,205,385,458,1,5,7,27,44,82,19,5,2,46,72,13,11,25,22,34,26,46,69,375,119,19,318,1039,4,4,20,9,15,88,260,8,1195,19,6,2,1,1,89,40,4,286,2,46,227
 Functions Core	14746
 Functions NCoE	11860
 Functions Pursuant	17235
@@ -312,10 +314,12 @@ Functions of Authority Part	11179
 Functions of Authority The Authority	14743
 Functions of Authority. PART IV	18440
 Functions of Bank	13566
-Functions of Board	13305,34,32,99,1249,3721,5
+Functions of Board	13305,34,32,99,1249,3721,5,448
+Functions of Bureau	18893
 Functions of Business and Intellectual Property Authority	3714
 Functions of CERT-MU	783
 Functions of CERT-MU PART VII	783
+Functions of Chief Executive Officer	18893
 Functions of Cluster Advisory Group PART III	13318
 Functions of Commission	12546,2,381,5530
 Functions of Commission PART III	12546
@@ -326,6 +330,8 @@ Functions of Committee	783,12620,5033
 Functions of Committee PART III	3887
 Functions of Committee for Spatial Data PART X	12899
 Functions of Companies Tribunal	3714
+Functions of Controller	18883
+Functions of Controller The Controller	18883
 Functions of Council	12919,1800,16
 Functions of Council The Council	14735
 Functions of County Governments	2775,11800
@@ -462,6 +468,7 @@ PART HT FUNCTIONS	16841
 PART III DUTIES AND FUNCTIONS	12892
 PART III FUNCTIONS AND ADMINISTRATION	18434
 PART TWO POWERS AND FUNCTIONS	14024
+POWERS AND FUNCTIONS OF THE AUTHORITY	18934
 PRACTITIONER’S FUNCTIONS AND TERMS OF APPOINTMENT	3714
 PRESCRIBE THE POWERS AND FUNCTIONS	11976
 Partially Functional	17139
@@ -470,7 +477,7 @@ PdRT Ill FUNCTIONS	16836
 Physical Obstruction Of Government Function	16935
 Poder Judicial FUNCION Consejo	4209
 Power and Function	14024
-Powers and Functions	12185,1763,76
+Powers and Functions	12185,1763,76,5149
 Powers and Functions of States	13948
 Pre-Qualifying Criteria and Functional Evaluation and Folder	11240
 Principles and Functional Requirements for Records	13250

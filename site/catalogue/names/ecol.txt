@@ -17,6 +17,7 @@ COMMANDEMENT DES ECOLES SECTION	15744
 CYCLE DE BASE II EDC ECOLE	18170
 Centre de Suivi Ecologique	18324
 Centre de Suivi Ecologique CSRR	18291
+Chad Digital Economy Diagnostic Ecole Nationale	18931
 Climate and Ecological Crisis	7038
 Concours Grandes Ecoles Première	15674
 Conservation Ecology	13078
@@ -94,26 +95,30 @@ ET INFORMATIQUE ESTEL-CATEF ECOLE SUPÉRIEURE PRIVÉE	18170
 ETUDES COMMERCIALES ET FINANCIERES HEGEPRINE ECOLE	18170
 ETUDES MÉDICALES EMIG ECOLE DES MINES	18170
 Ecolabelling	13385
-Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33,433
+Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33,433,230,129
 Ecole Article	17982
 Ecole Expert Génie Informatique Licence Générale	17829
 Ecole Formation Cours Autres	737
 Ecole Hôtelière Sir Gaëtan Duval	14835
 Ecole L’ETAT	17861
+Ecole Militaire Interarmées	18987
 Ecole Multinationale Supérieure des Postes	3604
 Ecole National	13301,3064
-Ecole Nationale	969,13479,187,731,162,408,1888,18,307,142,27,6,38
+Ecole Nationale	969,13479,187,731,162,408,1888,18,307,142,27,6,38,625,218
 Ecole Nationale Supérieure Polytechnique	15357
 Ecole Nationale Supérieure de Statistique	17842
 Ecole Nationale Supérieure des Postes	10948
+Ecole Nationale Supérieure des TIC	18933
+Ecole Nationale Supérieure des Technologies	18902
 Ecole Nationale Supérieure des Travaux Publics	15542
 Ecole Nationale de Formation Initiale	11905
 Ecole Nationale de Magistrature	14635
 Ecole Nationale de Police EPB	13377
+Ecole Nationale de Statistique	18953
 Ecole Nationale des Postes	16641
 Ecole Normale	15376,2711
 Ecole Normale Superieure	14472
-Ecole Normale Supérieure	13364,2012,98,187,2168
+Ecole Normale Supérieure	13364,2012,98,187,2168,1143
 Ecole Normale Supérieure EPT	15673
 Ecole Normale Supérieure de Yaoundé	15480
 Ecole Normale de Toulouse	17873
@@ -146,7 +151,7 @@ Ecole des Mines	11597,6546,95
 Ecole des Métiers du Numérique	15489,76
 Ecole des N	15489
 Ecole. Le Directeur	15489
-Ecoles	12,13421,261,1780,38,30,394,65,627,1542
+Ecoles	12,13421,261,1780,38,30,394,65,627,1542,856
 Ecoles Centrales	13694
 Ecoles Coraniques Trésorière	17829
 Ecoles Doctorales	13313

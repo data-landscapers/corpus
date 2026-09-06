@@ -34,6 +34,9 @@ Africa Trade and Investment Development Insurance	18537
 Africa. Tarik Dadi Combats Health Insurance	3101
 African Insurance Organisation	6938
 African Insurance Organization	14997
+African Trade Insurance Agency	18909
+African Trade Insurance Agency. Becoming	18909
+Agency for Trade Insurance	18909
 Agricultural Insurance Market Coping	15130
 Allianz Global Insurance Report	14997
 Annual Insurance Market Report	6938
@@ -247,6 +250,7 @@ INSULINE LISPRO PROTAMINE	15930
 INSUOD UI	16857
 INSUP INSTITUT SUPÉRIEUR PRIVÉ INTECFI INSTITUT	18143
 INSURANCE	14778,86,285
+INSURANCE ACT	19049
 INSURANCE BUILDING	17334
 INSURANCE Number of Insurance Companies	7763
 INSURANCE PREMIUM TAX ON GENERAL INSURANCE	14843
@@ -267,7 +271,7 @@ Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
 Insuf	15580
 Insufficiency	16863
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57,273
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
@@ -285,7 +289,7 @@ Insufficient Management Systems	12214
 Insufficient Private Sector Engagement	17139
 Insufficient Resources	4439
 Insufficiently	766,11150
-Insuffisance	737,2229,4689,3057,162,91,2325,10,41,1084,25,123,25,944,38,3,102,27,224,392,300,13,1201,3,11,26,101,186,122,466
+Insuffisance	737,2229,4689,3057,162,91,2325,10,41,1084,25,123,25,944,38,3,102,27,224,392,300,13,1201,3,11,26,101,186,122,466,185,11
 Insuffisances	10858,2432,2550
 Insuffisant	15512
 Insuffisant Non-renouvellement	10876
@@ -320,7 +324,8 @@ InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
 Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534,374,58
-Insurance Act	6938,4317,1393,412,1749,34
+Insurance Act	6938,4317,1393,412,1749,34,4082,124
+Insurance Act Notice	19049
 Insurance Activity Supervisory Body	6938
 Insurance Association	14997
 Insurance Authority NHIS National Health Insurance	16896
@@ -346,6 +351,7 @@ Insurance Industry Act. Public Enterprises Evaluation	12598
 Insurance Institute of Zimbabwe	1554
 Insurance Law	11136,3861,2238
 Insurance MINECOFIN	14997
+Insurance Market	18931
 Insurance Market Composition	14997
 Insurance Market Composition While Rwanda	14997
 Insurance Markets	6938

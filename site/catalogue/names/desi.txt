@@ -157,7 +157,7 @@ DESIR	10975
 DESIRE BAKADILA MONA	16425
 DESIRE RECOVERY AUCTIONEERS Data Controller INST-99861674F95	7167
 DESIRED STATE	12552
-DESIRING	4153,64,7739,1370,2315
+DESIRING	4153,64,7739,1370,2315,3273
 DESIROUS	11517,3846,11
 DESISTÊNCIA	11528
 DFIL Country Partnership Framework DSCE Designated	10964
@@ -183,7 +183,7 @@ DesInventar	10763
 Desi Individual Consult Limited	17180
 Desig	17219
 Desig Consultant Qualifi Open	17180
-Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57,304,45,51,12,16,86,23,116,22,6,12,59,8,30,5,3,52,10,30,53,10,40,242,52,23,25,8,73,105,3,2,31,19,59,164,41,167,68,151,251,13,206,25,8,6,11,17,42,5,4,20,4,36,7,50,46,13,30,23,75,480,135,32,4,395,53,16,4,107,48,41,50,134,55,8
+Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57,304,45,51,12,16,86,23,116,22,6,12,59,8,30,5,3,52,10,30,53,10,40,242,52,23,25,8,73,105,3,2,31,19,59,164,41,167,68,151,251,13,206,25,8,6,11,17,42,5,4,20,4,36,7,50,46,13,30,23,75,480,135,32,4,395,53,16,4,107,48,41,50,134,55,8,114,34,235
 Design AI	12356
 Design API	6432
 Design Applications	11250
@@ -240,13 +240,14 @@ Design and Access for Large Information Spaces	5700
 Design and Analysis	15244
 Design and Customization	16927
 Design and Develop Governance Strategy	18712
-Design and Development	11216
+Design and Development	11216,7749
 Design and Development Guidelines AI	14566
 Design and Enactment of VAT Legislation	17011
 Design and Implement	17011
 Design and Implementation	18754
 Design and Implementation of Management Policy	15372
 Design and Layout	12652
+Design and Manage	18907
 Design and Methodology	2775
 Design and Modelling	2816
 Design and Preparation	10779
@@ -271,6 +272,7 @@ Design of Chargers Used	15027
 Design of Curriculum Goals	18461
 Design of Digital Financial Infrastructure	5700
 Design of International Trade Agreements	1243
+Design of PPP	18887
 Design of Project	13027,4478,845,4
 Design of Slab Shelter	11134
 Design the Curriculum	12675
@@ -293,8 +295,8 @@ Designate FOI	17139
 Designate NMHS	16947
 Designate Natural Farming and Low-Residue Zones	14818
 Designate ZCSRA	11133
-Designated	6900,167,2771,2415,2,1769,522,1214,1215,1462
-Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149,277,1,1687,119,234,39,142,105,1291,1352
+Designated	6900,167,2771,2415,2,1769,522,1214,1215,1462,548
+Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149,277,1,1687,119,234,39,142,105,1291,1352,586
 Designated Account A for Components	3604
 Designated Account DPI Development Committee Paper	3604
 Designated Account Digital Economy for Africa Direction	15553
@@ -327,8 +329,8 @@ Designated Startup	14024
 Designated Startup Ecosystem Builder	14024
 Designated Startup Ecosystem Builders	14024
 Designated Startups	14024
-Designating	2775,6348,3062,1496
-Designation	22,565,887,119,144,990,1134,26,1886,659,176,3549,1427,372,85,418,90,350,10,29,16,351,261,458,89,603,90,87,14,120,1525,287,1,3,163,102,6,1343,5
+Designating	2775,6348,3062,1496,5253
+Designation	22,565,887,119,144,990,1134,26,1886,659,176,3549,1427,372,85,418,90,350,10,29,16,351,261,458,89,603,90,87,14,120,1525,287,1,3,163,102,6,1343,5,523
 Designation Committee	14024
 Designation ETAT ADEN Taxe	16047
 Designation Guard Band Uplink	14780
@@ -356,7 +358,7 @@ Designação	9799,956,28,578,12,46,11,3928,33,49,3312,5,11,10
 Designação Artigo	18751
 Designação Descrição	2816
 Designação U.Medida	18757
-Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282,616,24,21,2115,189,246,234,91,219,56,275,235,338
+Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282,616,24,21,2115,189,246,234,91,219,56,275,235,338,235
 Designed and Hosted	13518
 Designed for Ethiopia	12215
 Designed for Real-World Use	11987
@@ -379,6 +381,7 @@ Designing for Accessibility	4625
 Designing for Failure	7678
 Designingasupervised	8606
 Designs	9123,3038,2920,1841,21,1591
+DesignÂ MIÂ ThereÂ	18887
 Desigualdade	2816,7949,10,651
 Desigualdade de Gênero	18763
 Desigualdades	11569,4115,3078
@@ -553,7 +556,9 @@ MOGMedia Design	3395
 MTN Design-to-Cost	3531
 MUST CAD Design Software for Knitting Training	13095
 Magano Naimbale Layout and Design Arnaud Arends	13108
+Map Design Unit of The CHARI- Masalasef	18887
 Map Design Unit of The M'banza Congo	15372
+Map Design Unit of The World Bank	18887
 Mariella Sala Diseño de Portada Design Lab	16864
 Master of AI Program Design Pack	17090
 Mbeki Local Design Thinking	6832
@@ -566,7 +571,7 @@ Million Dbs. DESIGNAÇÃO	18757
 Million USD DESIGNAÇÃO	18757
 Miss SAMBAT Patricia Marie Desiree Assistant	14770
 Moderate Moderate Technical Design of Project	16638,1835
-Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127,676,8
+Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127,676,8,165
 Moderate. Technical Design of Project	11965
 Modest for M&E Design. M&E	16436
 Modular Design	11987
@@ -657,7 +662,7 @@ Progress Against the Desired Impact	18125
 Progress Against the Desired Outcome	18125
 Progress Against the Desired Outcome Niger	18125
 Progress Against the Desired Outcome UNHCR	18125
-Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8,476
+Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8,476,110
 Project Design Conditions for Effectiveness Residual Risk	10829
 Project Design Enhance	16949
 Project Design Residual Risk Rating INHERENT	15518
@@ -695,6 +700,10 @@ Request for Bids for Design	12253
 Research Design	7966
 Research Design Monitoring	17139
 Research Design and Approach	6947
+Residual Rating Project Design Risk Inherent	18887
+Residual Rating Project Design Risk Internal	18887
+Residual Risk Rating Project Design Inherent	18887
+Residual Risk Rating Project Design Internal	18887
 Resilience Through Design	15054
 Resilient and Responsible Design	5892
 Responsive Design All	11952
@@ -794,6 +803,7 @@ Unified Platform for Business Services Designed	3907
 Universal Design	12356,621
 Universal Design CRC	13033
 Universal Design for Learners	13991
+University of Oxford. Designed	19132
 Update the Design	11869
 Updated Design Document	15090
 Uptime Institute Tier III Design Certification	1956

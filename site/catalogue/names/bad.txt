@@ -49,7 +49,7 @@ BAD Fonds Spécial	15999
 BAD Indice de Réglementation	18322
 BAD PTF Parties	15712
 BAD Proiet	14479
-BAD Projet	13433,4883
+BAD Projet	13433,4883,651
 BAD UEMOA UNICEF Banque	18169
 BAD&A81	14997
 BAD&A82	14997
@@ -67,8 +67,9 @@ BAD. Type	1993
 BAD. Visa	18760
 BADAAD MEDICAL CENTRE LTD Data Controller	7167
 BADALU WORKERS AGENCY LTD Data Controller	7167
+BADAOUY Secretary General	18887
 BADAR PHARMACY LIMITED Data Controller INST-7282179008B	7167
-BADEA	812,419,2978,2129,2645,64,1933,1378,195,81,288,34,477,2109,213,927,2111,30
+BADEA	812,419,2978,2129,2645,64,1933,1378,195,81,288,34,477,2109,213,927,2111,30,124,41
 BADEA Arab Bank for Economic Development	11549,5556
 BADEA Banque Arabe	18286
 BADEA US	8983
@@ -107,7 +108,7 @@ Badara AUOU-MACALOU Minister of Matians	15363
 Badara Aliou DIAKITE	17882
 Badara Alioune BERTHE	17841
 Badara Alou Sacko	17950
-Badawi	15992,263
+Badawi	15992,263,2895
 Badawy	9472
 Baday	13569
 Baddari	9703,6174
@@ -129,6 +130,7 @@ Badi Linda	15456
 Badi Ould GANFOUD Le Ministre	17814
 Badialo SYLLA Secrétaire	17833
 Badian Bamako. DIABATE LISTE DES MEMBRES	17819
+Badiane	19148
 Badiee	7213
 Badili	16799
 Badili and M-KOPA	16799
@@ -142,6 +144,8 @@ Badley Dhely	15744
 Badondo	15439,119
 Badou	6134
 Badouard and Bellon	7790
+Badour Oumar	18944
+Badour Oumar Ali	19147
 Badr Al-Tamam	15241
 Badr Al-Tamam Mohamed Saad	15188
 Badr Kamel Procurement Specialist	15663
@@ -243,6 +247,7 @@ Mohamed Badri	11784
 Monsieur Badara Aliou DIAKITE	18032
 Monsieur Badra Aliou SANGARE	18032
 Monsieur Bagora BADO	16287
+Monsieur MAHAMAT ZENE BADA. Par Décret	19052
 Monsieur Mahamadi BADINI	15942
 Monsieur Mathué BADIEL	15942
 Monsieur Yakhiya BADIANE	18373
@@ -258,6 +263,7 @@ OUISSIKA Dorothée BAD	15580
 Oficina de Seguimiento BAD	4209
 Oumar Bady Diallo Pour Africaguinee.com Créé	8566
 Par Alioune Badara CISS	7501
+Par Badour Oumar	18944
 Pinnagnè Simplice BADO	7670
 Postes BAD	18291
 Pour la BAD	3792,12076
@@ -273,6 +279,7 @@ Redouane Yacine Badsi	15360
 Romeo Badogombwa	13482
 Réservation BADL-RIS	998
 SAGUIROU BADAMASSI	18238
+SEFA BAD	18967
 Sayyid Badr Bin Hamad	14808
 Shaida Badiee	6337
 Sidiki Badian DOUMBIA Secrétaire	17833
@@ -284,6 +291,7 @@ Tahir Hamid Nguilin. La BAD	10593
 Tax Chamber Badr Al-Tamam Mohamed Saad	15241
 Tunisien Mohamed Badri	13568
 UE BAD	15799
+USD BAD	18967
 Uniforms and Badges Act	12393
 Vice President Badara	17241
 Vice President of The Gambia Mr. Badara	17241

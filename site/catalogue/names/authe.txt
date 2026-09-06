@@ -14,6 +14,7 @@ Acts Authentication Act Cap A2	11853
 Acts Authentication Act Cap. A2	11976
 Adaptive Authentication	11231
 Africa Happily Authenticated	3470
+Article Authentic	18985
 Audit Trail and Node Authentication	1009
 Audit Trail and Node Authentication Clinical Context	1009
 Authen	8603
@@ -22,7 +23,7 @@ Authentic Texts This Protocol	15641
 Authenticate	16983
 Authenticated	6423,4707,1081,4632
 Authenticates NIRA Authenticates	15061
-Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298
+Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298,136,290
 Authentication Article	14911
 Authentication Authentication	12364
 Authentication Code and QR Code	13606
@@ -59,7 +60,7 @@ Authenticator	9902
 Authenticity	5665,1613,3447,2597
 AuthenticityAuthenticity	7278
 Authenticité	14483
-Authentification	735,2646,7455,731,476,1676,761,431,700,24,56,45,200,673,1290,3,396,19,2
+Authentification	735,2646,7455,731,476,1676,761,431,700,24,56,45,200,673,1290,3,396,19,2,597
 Authentification Article	14911
 Authentification Authentification Perspectives Validation	3381
 Authentification Hebergement	18317
@@ -102,9 +103,11 @@ Documents Authentication and Registration Service	1784,668,749,3881,3627
 Domain-based Message Authentication	13037,1404
 Electronic Authentication	15641
 Electronic Authentication Each State Party	15641
+Enable Two Factor Authentication	19046
 Enforce Multi-Factor Authentication	13037
 Ethio Telecom. Authentication	12267
 Evaluation and Authentication	18629
+Factor Authentication	19046
 Financial Authentication Service	4848
 Focus On Authentic Products	10274
 HL7 HNSF Enterprise User Authentication European	1009
@@ -153,6 +156,7 @@ SI ETAT CIVIL Authentification	3381
 Santé Authentification	3381
 Secure Authentication	16144
 Security Authenticatio	11952
+SeyID App Authenticator	19046
 Simple Authentication and Security Layer	18774
 Single Authentication and Digital Signature	11869
 Smartselfie Authentication	12404
@@ -161,6 +165,7 @@ TEXTS BEING EQUALLY AUTHENTIC	11517,3846
 TRANSCRIPTION ET AUTHENTIFICATION DES FAITS D'ETAT	16636
 TechCabal Happily Authenticated	2552,1493,146,797,66
 Trust and Authentication	10775
+Two-Factor Authentication	19007,39
 Uganda's AKIBA Happily Authenticated	5743
 VERIFICATION OF INFORMATION AND AUTHENTICATION	12959
 Verifying the Authenticity of Diplomas	16949

@@ -6,6 +6,7 @@ A. SIGNIFICANT CHANGES DURING IMPLEMENTATION Revised	16436
 A.2 Intermediate Results Indicators Formally Revised	15511
 A1. Review	14729
 ACRONYMS AAR After-Action Review AFP Acute	12729
+ACT TO CONSOLIDATE AND REVISE	18934
 ADMINISTRATIVE APPEALS AND REVIEW PROCEDURES	3861
 AF Environmental and Social Review Summary	16896,26
 AF. Revisions	17849
@@ -145,7 +146,7 @@ Botswana Social Protection Programs and Systems Review	12541
 Botswana Tech Review Africa	5613
 Botswana's Constitution Review Process	12556
 Budget Process Review	11289
-Budget Review	5199,12540
+Budget Review	5199,12540,1148
 Budget Revised Budget Variances Increase	14736
 Budgetary Review and Recommendation Report	11230
 Budgetary Review and Recommendations Report	11230
@@ -160,6 +161,8 @@ Bylaws Review Committee	5853,255,2758,1,745,763,1421,5,10,1,11
 Bylaws Review Committee’s Terms of Reference	11812
 C. Enhanced Review Procedures for High	11233
 CA Review	7548
+CENSUS ACT Revision	18943
+CIVIL STATUS ACT Revision	18943
 COMITE TECHNIQUE DE REVISION DU PDDSP	13341
 CONSULTANCY FOR REVISION AND MODERNISATION	962
 CONSULTOR INDIVIDUAL PARA A REVISÃO	16110
@@ -194,6 +197,8 @@ Code Review Continuo N	11952
 College of Human Sciences Research Ethics Review	8021
 Combined Assurance Framework and Revised Internal Audit	15023
 Combined Third and Fourth Review	15752
+Comments Expected Pre Domestic Review	18887
+Comments Review Expected Pre Domestic Ref	18887
 Commission Fees Review	14546
 Comoros Review	13729
 Company. Harvard Business Review. Retrieved	899
@@ -275,6 +280,7 @@ Dec-2024 Review	16079
 Dec-2026 Revised Closing Date	15619
 Decennial Review	16436
 Decision Review	15731
+Decisions of Review Panel PART VI	18888
 Dedicated Review Sites	8999
 Deduplicator. Systematic Reviews	8606
 Delayed Commissioning of Digital Weighing Machines Review	14546
@@ -350,7 +356,7 @@ Economic Review and Inflation Report	11131
 Economic System Question Revisited	5700
 Economics of Data. The American Economic Review	961
 Education Sector Performance Reviews	12175
-Education Sector Review	13349
+Education Sector Review	13349,5562
 Education Sectoral Review	15661
 Educational Psychology Review	8602
 Effective Literature Review	1248
@@ -386,6 +392,9 @@ European Review of Labour and Research	226
 European Union’s Revised Payment Services	4848
 Evaluation and Review	10157,2441
 Expected Approval Date Review Type	18809
+Expected Estimated Review	18887
+Expected Pre Domestic Review	18887
+Expected Review	18887
 Expenditure Review ENAPORT Empresa Nacional de Administração	18851
 Expenditure Review POM Project Operational Manual	17441
 Explore GPU Insights Reviews	9629
@@ -528,7 +537,7 @@ ICT Development Review Institutional	13295
 ICT Policy Review	226
 ICT Sector Review	12917
 IEF Tax Administration Review	12948
-II. REVIEW OF LEGISLATIVE	14073,3897
+II. REVIEW OF LEGISLATIVE	14073,3897,960
 II. Review and Reporting	17011
 IIMB Management Review. Volume	14965
 IMF Executive Board Completes Fifth Reviews	17990
@@ -805,13 +814,14 @@ MoHCDGEC. Mid Term Review	1261
 MoU Memorandum of Understanding MTR Midterm Review	17849
 Moderate. The Environmental and Social Review Summary	16949
 Monetary Policy Revitalization	13673
-Monitoring and Review	9855,7031
+Monitoring and Review	9855,7031,1999
 Monthly Economic Review	17235
 Monthly Internal Performance Reviews	4528,7984
 Monthly Performance Review	15478
 Monthly Weather Review	15907
 Multiple Registration Problem The Revising	17654
 NA REVISTA DO TRIBUNAL DE CONTAS	11473
+NATIONAL IDENTITY CARDS ACT Revision	18943
 NATIONAL REVIEW REPORT ON THE IMPLEMENTATION	18624
 NCA Review of Initial Overview NCA Research	236
 NCAI Reviews National AI Strategy Progress	16202
@@ -900,6 +910,8 @@ Outer Spacev. American Economic Review	13624
 Oxford Review of Economic Policy	10841
 P158570 Mid-Term Review Mission	13378
 PDO. Revised	11965
+PEER REVIEW REPORT NOW AVAILABLE Oct	19008
+PEER REVIEW REPORT NOW AVAILABLE URL	19008
 PEER REVIEW REPORT OF THE NATIONAL	17086
 PEER REVIEW REPORT Report	13310
 PER Public Expenditure Review PHC Primary	16896
@@ -937,7 +949,7 @@ Payment of Salary Review	14546
 Peer Review	3861,3476,5369,131,473,1138,2566,7,65
 Peer Review Exercise	11134
 Peer Review Mechanism	18305
-Peer Review Report	13729,3357
+Peer Review Report	13729,3357,1922
 Peer Review Report The Liberia Education	17014
 Peer Review Report URL	17014
 Peer Review Results	18578
@@ -974,6 +986,7 @@ Policy Review Teams	7548
 Policy Review and Adaptation	7548,7116
 Policy Review and Adaptation This Policy	7548
 Policy Review and Updates	16975
+Policy Review of Seychelles	18949
 Policy14R.e2viPeowlicy Review	10157
 Política de Revisões de Dados	15535
 Por Amelia Santander Camarero Revista Real	9524
@@ -995,6 +1008,7 @@ Present Continuous Review	18099
 Press Review	9398
 Prior Review	13017,4163
 Prior Review Contract	17180
+Prior Review Contract Value Threshold	18887
 Prior Review Procurement Methods Thresholds	11855
 Private Sector Sector Review	14997
 Private Sector The Private Review Law	14997
@@ -1018,6 +1032,7 @@ Project's Appraisal Environmental and Social Review Summary	3562,8343
 Projecto SIMPLIFICA. OE3. Revisar	11379
 Project’s Appraisal Environmental and Social Review Summary	1284,583,1737,2935,4229,61,135,453,143,1771,1,2221,68,37,3,82,401,752,26,27,1249
 Proposed Revised Budget Post Restructuring	2989
+Protocol. Article Review	18985
 Provincial Education Sector Review	11900
 Proyecto de Revisión	4209
 Príncipe Revisto	18788
@@ -1031,10 +1046,12 @@ Public Finance Review Tool	18318
 Public Management Review	2096,3253
 Public Procurement Administrative Review Board	2512,9601,5674
 Public Relations Review	2096
+Public Review	19110
 Public Review Component	17157
 Public Review Stage	18469
 Public Service Salary Review	13123
 Public Trust. OECD Public Governance Reviews	2096
+QUARANTINE ACT Revision	18943
 Quality Assurance Peer Review	11134
 Quality Assurance Review	15688
 Quality Enhancement Review	14897,1140
@@ -1065,6 +1082,7 @@ REVIEW AND TRAINING Module	13395
 REVIEW COMPONENT	17157
 REVIEW CONCLUSION ON THE CONSOLIDATED FINANCIAL	4896
 REVIEW FRAMEWORK	16885
+REVIEW OF DECISIONS	18888
 REVIEW OF EXISTING POLICIES AND STRATEGIES	14915
 REVIEW OF THE OPERATIONS	13335
 REVIEW OF THE POLICY	11196
@@ -1076,6 +1094,7 @@ REVIEWED CONSOLIDATED FINANCIAL INFORMATION	4896
 REVIEWED The National Technical Working Group	17285
 REVIGNET Denis Hamir	16381
 REVIS Component	17219
+REVISE PENALTIES UNDER THE CIVIL	18918
 REVISED	2307,4891,9634,1645
 REVISED ACT UNIVERSAL ACCESS	16594
 REVISED EDITION	1000,17594,14
@@ -1155,7 +1174,7 @@ Return Tax Assessment Audit and Review Tax	15175
 Revi Sterling	5822
 Revibe	4972
 Revidirano	10780
-Review	226,170,31,158,2,179,174,1,17,4,38,131,130,264,105,147,37,174,108,572,41,280,594,21,110,147,26,239,306,96,444,160,217,184,132,11,146,368,242,400,104,10,5,9,37,281,173,97,147,95,96,102,313,135,110,320,125,8,150,601,189,218,190,421,7,4,33,17,41,90,25,146,46,4,7,45,3,12,277,60,8,3,201,58,2,16,32,1,10,40,28,2,22,115,72,6,9,21,22,55,14,34,3,5,25,10,54,49,10,18,5,6,3,14,4,36,76,1,31,23,152,26,10,9,13,30,2,1,5,28,26,9,31,5,41,40,138,15,4,6,8,4,1,85,2,204,226,8,10,112,27,3,14,49,112,308,53,55,21,37,11,4,62,9,3,2,1,3,23,41,1,54,6,10,33,13,12,50,26,11,56,36,118,167,69,31,7,35,3,48,54,1,2,2,50,1,131,82,50,55,47,432,321,1,6,4,5,5,8,2,4,5,4,8,1,7,30,4,1,16,1,3,4,9,11,7,33,7,19,31,31,5,10,2,41,39,13,26,8,7,7,32,7,21,9,38,3,74,93,239,120,206,219,120,29,15,6,12,4,27,1,5,40,46,12,135,25
+Review	226,170,31,158,2,179,174,1,17,4,38,131,130,264,105,147,37,174,108,572,41,280,594,21,110,147,26,239,306,96,444,160,217,184,132,11,146,368,242,400,104,10,5,9,37,281,173,97,147,95,96,102,313,135,110,320,125,8,150,601,189,218,190,421,7,4,33,17,41,90,25,146,46,4,7,45,3,12,277,60,8,3,201,58,2,16,32,1,10,40,28,2,22,115,72,6,9,21,22,55,14,34,3,5,25,10,54,49,10,18,5,6,3,14,4,36,76,1,31,23,152,26,10,9,13,30,2,1,5,28,26,9,31,5,41,40,138,15,4,6,8,4,1,85,2,204,226,8,10,112,27,3,14,49,112,308,53,55,21,37,11,4,62,9,3,2,1,3,23,41,1,54,6,10,33,13,12,50,26,11,56,36,118,167,69,31,7,35,3,48,54,1,2,2,50,1,131,82,50,55,47,432,321,1,6,4,5,5,8,2,4,5,4,8,1,7,30,4,1,16,1,3,4,9,11,7,33,7,19,31,31,5,10,2,41,39,13,26,8,7,7,32,7,21,9,38,3,74,93,239,120,206,219,120,29,15,6,12,4,27,1,5,40,46,12,135,25,90,2,20,4,3,35,1,34,58,3
 Review AI	14565
 Review Action Plans	940
 Review Activity	16863
@@ -1170,6 +1189,7 @@ Review Building Regulations Q4	11857
 Review Causatives	18099
 Review Clean Cooking	14947
 Review Committee	11129
+Review Cycle	19079
 Review Cycles	5245
 Review DPF	10779
 Review Date	9855
@@ -1178,6 +1198,7 @@ Review EIA	12389
 Review Engagement	4896
 Review Engagements	236,4660,5897
 Review Est	17257,733
+Review Expected Pre Domestic Ref. Estimated	18887
 Review Few	18099
 Review Financial Sector	12444
 Review Financing Ceilings Regularly Financing	8184
@@ -1199,7 +1220,8 @@ Review Moderately Satisfactory OBJECTIVE	10779
 Review PAs	10779
 Review PDO3	10779
 Review PPPC	12253
-Review Panel	7845,5192,1772
+Review Panel	7845,5192,1772,4079
+Review Panel. PART VI	18888
 Review Parliamentary Digital Tools	9203
 Review Performance Recognition Structure	11134
 Review Policy and Legislation	12642
@@ -1224,6 +1246,7 @@ Review Simple Past	18099
 Review Social Safety Nets Project	16960
 Review Such	18099
 Review Summary ESS Environmental and Social Standards	11380
+Review TVET	18931
 Review Tax Policy and Legislation	17011
 Review The Minimum Data	13218
 Review The Ministry of Industry and Commerce	13320
@@ -1288,6 +1311,7 @@ Review of Disability Allowance	14829
 Review of Djibouti Data Protection Law	3153
 Review of Djibouti's Data Protection Law	3885
 Review of Documentation Requirements for PAPSS Transactions	14473
+Review of EMIS	18911
 Review of Economic Studies	18318
 Review of Economics and Statistics	18318
 Review of Electoral Processes	5641
@@ -1388,7 +1412,7 @@ Reviewer	5615,48,760
 Reviewer Senior Energy Specialist No Chong	15983
 Reviewer's Conclusion	1988
 Reviewers	2674,2457,1292,1336,4620
-Reviewing	1814,279,865,660,1230,3282,998,75,234,1708,53,664,43,103,232,434,362,1737,45,660,236,1125,14,5,9,18,30,29,172,41,736
+Reviewing	1814,279,865,660,1230,3282,998,75,234,1708,53,664,43,103,232,434,362,1737,45,660,236,1125,14,5,9,18,30,29,172,41,736,1114
 Reviewing Consultant Managing Partner	4896
 Reviewing Draft Health Data Statutory	13430
 Reviewing and Drafting Legal Instruments	12951
@@ -1401,11 +1425,11 @@ Reviews of Geophysics	15907
 Reviews the DRC's PPP	3367
 Reviews&author	2096
 Revio Pay	818,77
-Revis	4583
+Revis	4583,14313
 Revisada	11532,5343
 Revisan	9543
 Revisar	1701,9680
-Revise	1243,3285,2421,2,3878,1381,238,64,51,60,52,266,927,123,683,103,35,135,533,552,821,143,200,64,839
+Revise	1243,3285,2421,2,3878,1381,238,64,51,60,52,266,927,123,683,103,35,135,533,552,821,143,200,64,839,850
 Revise Additional	16187
 Revise Beneficiaries	4653,11534
 Revise Cash	16032
@@ -1558,7 +1582,7 @@ Revising Officer-	18459
 Revising the Public Financial Management Act	18488
 Revising the Results Framework	18359
 Revising the Statistics Act	16935
-Revision	899,110,234,2797,4,1634,1,753,846,3487,10,409,237,25,131,224,105,58,12,175,186,1,29,12,34,475,13,2,3,2,277,240,1241,70,37,63,220,29,64,323,8,599,140,479,268,12,33,1348,100
+Revision	899,110,234,2797,4,1634,1,753,846,3487,10,409,237,25,131,224,105,58,12,175,186,1,29,12,34,475,13,2,3,2,277,240,1241,70,37,63,220,29,64,323,8,599,140,479,268,12,33,1348,100,484
 Revision CNOE Centro Nacional de Operações de Emergência	15966
 Revision Date Subject	5678
 Revision Details Revised	11188
@@ -1569,6 +1593,7 @@ Revision MHD Information and Communications Technology MIOS	1009
 Revision Of Zimbabwe's Agro-Ecological Zones. ISBN	520
 Revision RIA Research ICT Africa SMS	236
 Revision Summary	14441
+Revision The Parties	18985
 Revision of Agro-Ecological Zones Report Authors	520
 Revision of CoC Standard	16853
 Revision of Competition and Consumer Policy	11529
@@ -1626,7 +1651,7 @@ Revitalised Nat'l Assembly	18656
 Revitalised Transitional Government of National Unity	18612,104
 Revitalised Transitional Government of National Unity. ICT	6182
 Revitalised Transitional National Legislative Assembly	18734
-Revitaliser	11916
+Revitaliser	11916,7072
 Revitalizar	1701
 Revitalization	17289
 Revitalização	16487
@@ -1675,7 +1700,7 @@ SOMALIA FOURTH REVIEW UNDER THE EXTENDED	15029
 SSP Outcome SN Priority Intervention Review	14935
 STATUTS REVISES DU GUICHET UNIQUE DES	16039
 STILL BEING REVIEWED Circulate	16853
-STIP Review	12544
+STIP Review	12544,6405
 STRATEGIC PLAN REVIEW AND VALIDATION	16943
 SUNSET CLAUSES AND REVIEW TRIGGERS	3861
 SYSTEM IN RWANDA Revision	12338
@@ -1767,7 +1792,7 @@ São Tomé and Príncipe NMS Peer Review	18787
 São Tomé and Príncipe. Revised Project Development	18754
 TF Status Currency Original Revised Cancelled	15619,1019,1835
 TF Status IBRD-96930 Effective Original Revised	6579
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25,165
 THIRD AND FOURTH REVIEWS UNDER	15752
 THIRD REVIEW UNDER THE ARRANGEMENT UNDER	17909
 THIRD REVIEW UNDER THE EXTENDED CREDIT	17257
@@ -1784,6 +1809,7 @@ Targeted Document Review	14666
 Targeted Review for Q2 Targeted Life Certifications	8999
 Tariff Review	18795
 Tax Appeal Review Office	12500
+Tchad PREBAT Projet de Revitalisation	18911
 Tech Review Africa	2664,1448,36,98,83,380,3,156,238,113,185,143,28,138,1,3,3,10,20,32,5,18,110,47,80,71,4,56,12,21,4,61,33,80,56,42,31,96,19,136,33,225,70,147,23,38,3820
 Tech Review Africa. Date	5714,16
 Technical Review Meeting	18520
@@ -1792,6 +1818,7 @@ Technical Review Retreat	18619
 Technical Review Session	16503
 Technical Reviewers	6423
 Technology JESR Joint Education Sector Review	15604
+Technology and Innovation Policy Review	18949
 Technology and Law Review Committee	3861
 Telecom Review Africa	2145,133,524,419,324,154,97,375,3,4,93,621,1188,513,111,595,1553,7961
 Telecom Review Africa My Custom Home	2302,60,225,502,203,504,1184,21,339,1433
@@ -1816,9 +1843,11 @@ Type Amount Disbursed Key Revisions	11924,6038
 TÍTULO II Revisão da Constituição Artigo	18751
 U.S.-China Economic and Security Review Commission	5242
 UN Universal Periodic Review	15007
+UNESCO org UPR45 TCD E Main.pdf Universal Periodic Review	18930
 UNESCO org UPR46 COM E Main.pdf Universal Periodic Review	13739
 UNESCO org UPR46 ERI E Main.pdf Universal Periodic Review	14073
 UNESCO org UPR51 MRT E Main.pdf Universal Periodic Review	17970
+UNESCO’s Project for Revitalizing Basic Education	18911
 US-China Economic and Security Review Commission	10443
 US-China Economic and Security Review Commission Hearing	2518
 Uma Revisão Sistemática da Literatura de Estudos de Caso	2816
@@ -1827,7 +1856,7 @@ Underutilized Spectrum Review Spectrum	5245
 Uniform Law Review	961
 United Nations Population Division. Review	11572
 Universal Period Review of Eswatini	13170
-Universal Periodic Review	3583,3366,2,4635,314,542,681,33,917,1058,837,2002
+Universal Periodic Review	3583,3366,2,4635,314,542,681,33,917,1058,837,2002,942,18
 Universal Periodic Review Fifty-first	17934
 Universal Periodic Review Forty-seventh	16958
 Universal Periodic Review National Report	14742
@@ -1846,12 +1875,12 @@ Virginia Tax Review	14932
 Visits Review	13332
 Voluntary Local Review	12962
 Voluntary Local Review Webinars	12962
-Voluntary National Review	15063,128,534,1177,71,38
+Voluntary National Review	15063,128,534,1177,71,38,1969
 Voluntary National Review FEDE	17101
 Voluntary National Review Report	16927
 Voluntary National Review WHDP Water Harvesting	12962
 Voluntary National Review Women’s Branch	16973
-Voluntary National Reviews	16927
+Voluntary National Reviews	16927,2003
 WCO Permanent Technical Committee Reviews Progress	14789
 WCO Revised Kyoto Convention	13042,826,1610
 WEEKS Review	18099
@@ -1874,6 +1903,7 @@ World Bank’s Public Expenditure Review	13349
 World Customs Organization’s Revised Kyoto Convention	13042
 World Health Organization. Data Quality Review	11596
 World Journal of Advanced Research and Reviews	2816
+World Population Review. AGRICULTURE ENVIRONMENT	18910
 World Population Review. DR Congo	11994
 YEAR BUDGET IMPLEMENTATION REVIEW	5655
 Year Revise Beneficiaries	16187

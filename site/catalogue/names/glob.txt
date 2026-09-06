@@ -237,6 +237,7 @@ Centre Cybersécurité de SENUM GLOBAL SOC	18317
 Centre for Global Development	10819
 Centre for Global Impact	11138
 Centre for Research and Globalization	10
+Chad GSMA Global System for Mobile Communications	18931
 Chad Global Cybersecurity Index	10764
 Chair of IORA. Global Governance President Zuma	11183
 Challenge The Global Gateway	11155
@@ -250,7 +251,7 @@ China’s Global Development and South-South Cooperation Fund	10623
 Cimeira Global de Governos	12807
 Cisco Global Problem Solver	18776
 Citigroup Global Markets Limited	7198
-Civilização Global	11564
+Civilização Global	11564,7394
 Classement Global Open Data Index	16641
 Clima GFC Global Forest Change GFOI	16875
 Climate Fund and Global Environment Facility	16975
@@ -338,7 +339,7 @@ Deriving Global Similarity Scores for Entity Matching	8606
 Desafios Globais da Inteligência Artificial A Inteligência	2816
 Description Supports the Global Financing Facility	63
 Desempenho Global	18796
-Desenvolvimento Global	11564
+Desenvolvimento Global	11564,7394
 Despesas Primárias. XXVI. Resultado Nominal Global	18798
 DevEmerge Global	17085
 DevEmerge Global Consultancy Private Limited	11555,5530
@@ -392,7 +393,7 @@ ESMAP Global Solar Atlas	11136
 ESMAP Global Wind Atlas Boosting Access	11136
 ESTIMATING THE GLOBAL ID COVERAGE GAP	10714
 ESTRATEGIA GLOBAL DE DESARROLLO GUINEA ECUATORIAL	1701
-EU Global Gateway	1129,1024,1308,1189,13,836,4,3043,2609,2102,610,2277,2028,220,112
+EU Global Gateway	1129,1024,1308,1189,13,836,4,3043,2609,2102,610,2277,2028,220,112,423
 EU Global Gateway Agreements	6743
 EU Global Gateway EuinMoz2026 The Mozambique	6743
 EU Global Gateway Strategy	6743
@@ -429,6 +430,7 @@ Ecossistemas Globais de IA Para Moçambique	2816
 Ecuador Global Cybersecurity Index	10764
 Ecuatorial Sociedad Anónima SGBP Saldo Global	16969
 Edition Global Cybersecurity Index	10764
+Education Analysis for Global Learning and Equity ODD	18942
 Education Global Practice	13058,1038,2542
 Education Global Practice Africa Region CURRENCY	18765
 Education Global Practice Eastern and Southern Africa	14937
@@ -515,6 +517,8 @@ Financing Global Health	2678
 Findex Global	17870
 First Global	17853
 First Global Forum	17105
+First Global Robotic Challenge	18975
+First Lady Ahead of Global Accessibility Awareness	19140
 Fitch and S&P Global Ratings	18561
 Font ResizerAa Search Global Africa Interviews	9989
 Food Security Program GFS Global Forecast	18578
@@ -549,6 +553,7 @@ GAINS IN GLOBAL ELECTRICITY ACCESS	11572
 GAVI Global	11560
 GAVI Global Alliance for Vaccines and Immunization GoL	16971
 GAVI- Global Alliance for Vaccines and Immunisation	10819
+GBV Gender-based Violence GCI Global Competitiveness	18931
 GCI Global	11380
 GCI Global Cybersecurity Index GDP Gross	6946
 GCR Global Compact for Refugees GDP Gross	10841
@@ -625,6 +630,7 @@ GOGLA and Lighting Global	11923,268
 GPAI Global Partnership for AI GPT General	1814
 GPE Global Partnership for Education	14916
 GPE Global Partnership for Education HEI Higher	12975
+GPS Global Positioning System ISO International	18904
 GRANT FROM THE GLOBAL	10829
 GRS Grievance Redress Service GSMA Global	1264,14357
 GS Global Based	6770
@@ -672,7 +678,7 @@ Globacom and Airtel Africa	7560
 Globacom and T2	11506
 Globacom and T2mobile	9363
 Globacom’s Borrow Me Credit	10807
-Global	226,137,109,288,139,62,37,163,58,42,202,351,282,6,21,216,9,19,408,173,128,27,59,330,219,71,9,68,3,31,260,64,83,148,21,5,54,27,121,58,29,85,35,89,270,4,1,74,43,263,1,47,77,158,57,341,110,7,7,31,35,41,54,42,44,182,77,8,1,1,155,70,6,65,114,1,189,114,224,89,114,24,13,17,30,11,18,19,130,175,258,73,158,11,590,55,68,38,38,103,41,107,648,50,4,16,1,16,18,10,11,6,6,4,5,99,5,4,8,8,43,101,2,4,1,18,1,1,6,31,72,114,38,52,94,6,3,6,276,3,6,21,1,9,1,28,18,5,9,22,17,3,154,8,1,11,21,12,1,5,4,26,1,5,10,9,32,32,22,4,1,20,20,48,43,25,151,1,105,195,8,88,63,189,2,218,74,75,4,183,88,35,160,116,98,91,145,66,81,25,46,20,57,89,12,26,115,83,100,150,47,24,11,106,4,6,44,12,176,243,122,59,111,27,389,9,11,70,29,25,15,7,26,55,6,34,1,17,36,42,81,1,47,57,327,25,194,2,47,155,138,109,67,44,36,212
+Global	226,137,109,288,139,62,37,163,58,42,202,351,282,6,21,216,9,19,408,173,128,27,59,330,219,71,9,68,3,31,260,64,83,148,21,5,54,27,121,58,29,85,35,89,270,4,1,74,43,263,1,47,77,158,57,341,110,7,7,31,35,41,54,42,44,182,77,8,1,1,155,70,6,65,114,1,189,114,224,89,114,24,13,17,30,11,18,19,130,175,258,73,158,11,590,55,68,38,38,103,41,107,648,50,4,16,1,16,18,10,11,6,6,4,5,99,5,4,8,8,43,101,2,4,1,18,1,1,6,31,72,114,38,52,94,6,3,6,276,3,6,21,1,9,1,28,18,5,9,22,17,3,154,8,1,11,21,12,1,5,4,26,1,5,10,9,32,32,22,4,1,20,20,48,43,25,151,1,105,195,8,88,63,189,2,218,74,75,4,183,88,35,160,116,98,91,145,66,81,25,46,20,57,89,12,26,115,83,100,150,47,24,11,106,4,6,44,12,176,243,122,59,111,27,389,9,11,70,29,25,15,7,26,55,6,34,1,17,36,42,81,1,47,57,327,25,194,2,47,155,138,109,67,44,36,212,110,211
 Global ACE	15043
 Global ACE Somalia Country Chapter	15043
 Global AI	1204,610,4033,2359,1436,97,1215,103,7,76,3461,1112
@@ -687,7 +693,7 @@ Global AI Divide	4734
 Global AI Economy Players and AI Intensity	1814
 Global AI Ethics and Governance Observatory Country	11483,1095
 Global AI Ethics and Governance Observatory Search	18840
-Global AI Ethics and Governance Observatory URL	15680,3160
+Global AI Ethics and Governance Observatory URL	15680,3160,312
 Global AI Ethics and Governance Review	14566
 Global AI Governance	1814,6329,597,2205,6826,9
 Global AI Governance Dialogue	6933
@@ -712,8 +718,10 @@ Global AI Summit for Africa	8113
 Global AI Talent Empowerment	8877
 Global AI Trends	12210
 Global AI VC	10954
+Global AIDS Monitoring	18937
 Global Accelerator	13157
 Global Accelerator Initiative	11712
+Global Accessibility Awareness Day	19140
 Global Accredited Cybersecurity Education	15043
 Global Action	783,15225,1322
 Global Action Plan	10776
@@ -860,8 +868,9 @@ Global Competency	16325
 Global Competitiveness	1154,12202,4818
 Global Competitiveness Index	13314,2177,222,2157,14
 Global Competitiveness Index GDP Gross Domestic	15491
+Global Competitiveness Index13	18931
 Global Competitiveness Rank WEF	11379
-Global Competitiveness Report	4840,8474,1683,450,33,13,111,2263
+Global Competitiveness Report	4840,8474,1683,450,33,13,111,2263,1064
 Global Competitiveness Report. Indicateurs	15474
 Global Competitiveness and Cooperation	12675
 Global Competitiveness and Market Positioning	14819
@@ -1037,7 +1046,8 @@ Global Engagement Center	528
 Global Engagement and Advocacy Officer	2549
 Global Enquête ANEMCAM	10965
 Global Entre-	14897
-Global Entrepreneurship Index	12540,2907,103,1326,994
+Global Entrepreneurship Index	12540,2907,103,1326,994,1061
+Global Entrepreneurship Index GHG Greenhouse	18931
 Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21,111,2410,583
 Global Entrepreneurship Monitor JICA Japanese International	14897
 Global Entrepreneurship Monitor. Available	12376
@@ -1047,7 +1057,7 @@ Global Entrepreneurship Network Botswana	12540
 Global Entrepreneurship Week	14897,3590
 Global Entrepreneurship Week Hub Khartoum	14897
 Global Entrepreneurship and Development Institute	15447
-Global Environment Facility	3431,5922,1979,221,2199,58,983,166,66,73,1600,407,52,212
+Global Environment Facility	3431,5922,1979,221,2199,58,983,166,66,73,1600,407,52,212,1822
 Global Environment Facility FAPA	17101
 Global Environment Facility GFRS Gambia Fire	17105
 Global Environment Facility Small Grants Programme	17245
@@ -1090,9 +1100,9 @@ Global Financial Stability Report	11140
 Global Financing Facility	63,512,6397,3857,1309,3415,479
 Global Financing Facility Grievance Redress Mechanism	16032
 Global Financing Facility for Women	10829,2630,2984
-Global Findex	761,2661,2726,4566,251,12,942,25,50,255,21,30,761,23,230,445,1138,100,450,27,19,25,325,1,2,819,157,120,103,825,55,376
+Global Findex	761,2661,2726,4566,251,12,942,25,50,255,21,30,761,23,230,445,1138,100,450,27,19,25,325,1,2,819,157,120,103,825,55,376,630
 Global Findex Africa	11919
-Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819,277,103,825,55
+Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819,277,103,825,55,1006,2,55
 Global Findex Digital Connectivity Tracker	10977,2107,675,2084,1,2,819,380,880
 Global Findex Identification	10714
 Global Findex Microdata	10714
@@ -1132,7 +1142,7 @@ Global Frameworks	1777
 Global Frameworks. Align Liberia	1777
 Global Freedom Score	17967,217
 Global Freedom Score18	15926
-Global Fund	392,170,375,97,1644,707,817,580,359,24,988,381,2695,200,1400,99,324,334,3,169,139,107,375,123,454,166,332,613,75,165,36,203,227,150,177,625,108,178,885,26,5,44,77,57,17,167,80,1310,58
+Global Fund	392,170,375,97,1644,707,817,580,359,24,988,381,2695,200,1400,99,324,334,3,169,139,107,375,123,454,166,332,613,75,165,36,203,227,150,177,625,108,178,885,26,5,44,77,57,17,167,80,1310,58,325
 Global Fund Board Meeting	14869
 Global Fund Data Science Catalytic Fund	392
 Global Fund Digital Health Impact Accelerator	937
@@ -1188,8 +1198,10 @@ Global Gender Gap Index	789,2667,8943,2598,728
 Global Gender Gap Index. Boys	17870
 Global Gender Gap Report	11965
 Global Gender Gap Report. Page	3456
+Global Geodetic Reference Framework	18904
 Global Geopolitical Landscape Generally	2117
-Global Geospatial Information Management	9651,4439
+Global Geospatial Information Management	9651,4439,4814
+Global Geospatial Information Management UTM Universal	18904
 Global Gig Economy	226
 Global Go To Think Tank Index	17780
 Global Go To Think Tanks Index	17780
@@ -1282,6 +1294,7 @@ Global Information Society Watch	2110,9978
 Global Information Technology Report	236,11621,3590,33,32
 Global Information Technology Reports	17870
 Global Information and Communication Technologies	14723
+Global Information and Early Warning System	19054
 Global Infrastructure	13225
 Global Infrastructure Facility	15983,76
 Global Infrastructure Facility GM Grievance Mechanism	15983
@@ -1364,6 +1377,7 @@ Global License	6467
 Global License GoSTP	18754
 Global Literature	16436
 Global Logistics Cluster	13042
+Global Ltd for Unlicensed Virtual Asset Services	19145
 Global ML-ethics	1004
 Global MPI	206,15038
 Global Macro and Debt	10763
@@ -1388,6 +1402,7 @@ Global Mechanism	7552,9605
 Global Mechanism’s Substantive Plenary Session	7552
 Global Media	15342
 Global Media and Information Literacy Week	1814
+Global Median	18910
 Global Medium-Term Note Programme	9796
 Global Mentorship Bridge	5482
 Global Methodology	17054
@@ -1461,7 +1476,8 @@ Global Partners Digital	11028,6743
 Global Partners Digital’s Africa OEWG Positions	2117
 Global Partnership	899,62,243,610,1002,1310,2837,34,245,1209,2703,1521,2161,706,1310
 Global Partnership Fund for Education	14031
-Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,1,105,39,641,9,1,57,839,20,20,22,214,20,288,13,111,57,12,70,217,476,24,451,110,212,1227,105,52,31,117
+Global Partnership for Development	18887
+Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,1,105,39,641,9,1,57,839,20,20,22,214,20,288,13,111,57,12,70,217,476,24,451,110,212,1227,105,52,31,117,146,31
 Global Partnership for Education Better	17185
 Global Partnership for Education Fund	14936,1,724,1014
 Global Partnership for Education Fund IDA Resources	11905
@@ -1505,7 +1521,7 @@ Global Policy Journal	10257
 Global Policy and Regulatory Lead	8247
 Global Polio Eradication Initiative GWD	10776
 Global Positioning	11940
-Global Positioning System	1248,11887,1393,210,15,2168,1696
+Global Positioning System	1248,11887,1393,210,15,2168,1696,287
 Global Positioning System HQ Headquarters IOM	16921
 Global Positioning Systems	14407
 Global Practice	13831,1057,665
@@ -1587,7 +1603,7 @@ Global Solidarity	9648
 Global Solidarity Fund	6418
 Global Solutions Group	15553
 Global Source Book	17011
-Global South	226,96,249,531,1015,401,7,262,611,283,101,644,4,9,75,14,55,93,13,62,94,199,41,37,19,75,8,28,5,10,100,87,409,90,72,116,245,32,62,32,278,170,151,1,26,9,4,23,37,31,36,270,42,169,98,105,19,62,32,16,4,18,30,303,54,11,118,45,66,150,2,44,79,223,23,26,144,222,56,30,21,402,37,1,1,14,104,122,86,202,123,198,85,19,1,14,115,18,29,25,384,8,161,160,19,2,8,12,100,17,413,417,452,572,58,608,515,1978,35,281,215,2,20,77,780,207
+Global South	226,96,249,531,1015,401,7,262,611,283,101,644,4,9,75,14,55,93,13,62,94,199,41,37,19,75,8,28,5,10,100,87,409,90,72,116,245,32,62,32,278,170,151,1,26,9,4,23,37,31,36,270,42,169,98,105,19,62,32,16,4,18,30,303,54,11,118,45,66,150,2,44,79,223,23,26,144,222,56,30,21,402,37,1,1,14,104,122,86,202,123,198,85,19,1,14,115,18,29,25,384,8,161,160,19,2,8,12,100,17,413,417,452,572,58,608,515,1978,35,281,215,2,20,77,780,207,203
 Global South AI	7151
 Global South AI-ADOPTION	7138
 Global South AOSP African Open Science	5246
@@ -1605,7 +1621,7 @@ Global South Last	9015
 Global South Perspectives Challenge Thinking	12227
 Global South Summit	13744
 Global South URL	16495
-Global South Utilities	4934,8861,2781
+Global South Utilities	4934,8861,2781,2425
 Global South Utilities CEO Ali Alshimmari	4934
 Global South Utilities and Sierra Leone	18550
 Global South World	13529
@@ -1650,6 +1666,7 @@ Global State of Democracy	1981
 Global State of Systematic Observations Report	18869
 Global Strategic Litigation Council	12227
 Global Strategy	396,574,4486,5409,1375
+Global Structure Limited	19049
 Global Summit	3791,2586
 Global Survey	11140
 Global Sustainable Development	11140
@@ -1792,7 +1809,7 @@ GlobalSystemArchitectureDiagram Process	8606
 Globale	18063
 Globale Minimum Belastingadministrasie	11263
 Globale Niger	17945
-Globalement	12,725,2174,415,1133,3196,1236,309,1189,485,1,870,1555,90,52,26,957,17,180,874,16,30,57,125,212,25,367,316,1198,1,30,22,36,273,82,5,6,7,8,10
+Globalement	12,725,2174,415,1133,3196,1236,309,1189,485,1,870,1555,90,52,26,957,17,180,874,16,30,57,125,212,25,367,316,1198,1,30,22,36,273,82,5,6,7,8,10,620
 Globalisation	6832
 Globalised Crime Index	9399
 Globalised Synchronized Slowdown	10
@@ -1945,6 +1962,7 @@ ITU’s Global Africa	6946
 ITU’s Global Cybersecurity Index	10785,6157
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 IV. Global Comparative Analysis of AI Systems	11036
+Identification of MX Global Ltd Through	19145
 Identified Research Gap Global	16266
 Impact Globally	3959,71
 Impact Hub Global	14897
@@ -1967,6 +1985,7 @@ Indonesia Global Cybersecurity Index	10764
 Inequality Innovation Gender Index Global Index	13358
 Information System GLDAS Global Land Data	17157
 Informes de Evaluación Global	1701
+Iniciativa Global	18958
 Iniciativa Global de Políticas de IA da OCDE	2816
 Innovation Global Practice	12540
 Innovation Index The Global Innovation Index	11884
@@ -1989,6 +2008,7 @@ International Telecommunication Union's Global Cybersecurity	14541
 International Telecommunication Union's Global ICT Index	3973
 Internationale Zusammenarbeit GPAI Global Partnership	15583
 Internet Society Global	16545,561
+Internet. Globalement	19003
 Interpol’s Global Cybercrime Programme	10848
 Intersections of Global Oil Shocks	11136
 Introduction Global	11487
@@ -2002,7 +2022,7 @@ J Glob Health	14666
 JBA Global Resilience	16773
 Jakarta Globe	11994
 Japan Global Cybersecurity Index	10764
-Jobs Global Practice	11133
+Jobs Global Practice	11133,7849
 Jobs Global Practice Africa Region	11855
 Jobs Global Practice Middle East	15663
 Jobs Global Practice Western And Central	16952
@@ -2068,6 +2088,10 @@ Luxembourg Global Cybersecurity Index	10764
 Lynk Global	6851,3377,569
 M. Lars Udsholt Global Programme Manager	11916
 MEASURE Evaluation. Global	12255
+MEXC Global LTD	19145
+MEXC Global Limited This Public Statement	18978
+MEXC Global Limited URL	18978
+MEXC Global Ltd	18978
 MILLION AND PROPOSED ADDITIONAL GLOBAL PARTNERSHIP	13860
 MILLION FROM THE GLOBAL INFRASTRUCTURE FACILITY	15983
 MILLION FROM THE GLOBAL PARTNERSHIP	11905,3031,1,724,82,693
@@ -2083,6 +2107,7 @@ MTN GLOBACOM	3862
 MTN GlobalConnect	1643,1034,1473,843,2336
 MTN GlobalConnect Solutions	1048
 MTN and Globacom	6851
+MX Global Ltd	19145
 Macro-Financial Environment External Environment Global	11134
 Madagascar Global Cybersecurity Index	10764
 Madagascar Global Internet	14468
@@ -2146,6 +2171,7 @@ Morocco GFDRR Global Facility for Disaster Reduction	13729
 Mozambique Global Cybersecurity Index	10764
 Mozambique Government Network Global Rapid Post-Disaster	1228
 Mozambique. Glob Health Sci Pract	11596
+Multiple Global Challenges URL	18927
 Mutirão Global	8891
 Myanmar Global Cybersecurity Index	10764
 Ménages Globalement	13300
@@ -2154,6 +2180,7 @@ NAP Global Network	13144
 NASA’s Global Precipitation Measurement and IMF Staff	17909
 NCA and SIMAD University Launch Global ACE	14995,48
 NDoH Global Fund Cluster	11252
+NIC Global Networks	19042
 NIGERIA DIGITAL ID EIB Global	473
 NIGERIA TELECOM EXPANSION EIB Global	639
 NOTATION GLOBALE	17830
@@ -2358,6 +2385,7 @@ Regional and Global Economic Outlook	17011
 Regional and Global Expansion	14329
 Regional and Global Fintech Markets Leverage	14819
 Regional and Global Frameworks. Ministry of Justice Foreign	1777
+Regional and Global Networks Strategic Objective	19042
 Regional and Global Payments Evolution	13076
 Regional and Global Positioning	13295
 Relatório Global	2816,8760
@@ -2412,17 +2440,19 @@ Section Demographic Trends Around the Globe	12486
 Secure Global Cyberspace	16872
 Security Global Standards	4153
 Segundo Global Partnership	2816
-Segurança Global	11564
+Segurança Global	11564,7394
 Selon le Global	7417
 Senegal Global Cybersecurity Index	10764
 Sep-2021 TO Republic of Mozambique Institutions Global	2473
 Serbia Global Cybersecurity Index	10764
 Serbia. Glob Heal Sci Pract	12255
 Series Information The Global Findex	13084,675,2084,1,821,380,880
+Service GSM Global System for Mobile Communications	18887
 Service Provider Global Money Week Insurance	940
 Services DLGF Digital Literacy Global Framework	13312,2
 Services Strengthening Project GFATM Global Fund	16922
 Services. NTT Global. Retrieved	6832
+SeyCCAT and Global Fund for Coral Reefs	19191
 Shape the Global Digital Space Governments	11154
 Shaping Global AIGovernance	17780
 Shifting Global Climate Negotiations	13532
@@ -2523,6 +2553,7 @@ Teachers Kenya Global Partnership for Education Compact	899
 Tech Diplomacy Global Institute	5454
 Technical Global KPIs for Fixed Access Networks	13331
 Techno Brain Global FZ LLC	3700
+Technological Advances Global	18904
 Technological Transformation and Global South Modernization	11302
 Technology Environment Global Context The Global	12210
 Tecpoint Global Solutions Ltd	3862
@@ -2600,6 +2631,7 @@ UNESCO’s Global Forum	4126
 UNESCO’s Global Toolkit	4126,11492
 UNHCR Global Framework	11905
 UNHCR’s Global Trends Report	17323,1
+UNICEF Global Thematic Funding for Education	18911
 UNICEF-UNFPA Global Programme	12188
 UN’s AI for Good Global Summit	4528
 UPI Global Hub	4894
@@ -2616,6 +2648,7 @@ Uganda Globally	6948
 Uganda. ESTIMATING THE GLOBAL ID COVERAGE	10714
 Under the Global Refugee Forum	18125
 Understanding Global Remittances Corridors	11960
+Unesco's Global Convention	19181
 Unidos. A Cimeira Global de Governos	12807
 Union GCI Global Cybersecurity Index GDP	14897
 Union GDP Financial Management GHG Global	3604
@@ -2694,6 +2727,7 @@ WMO Global Telecommunication System	18309
 WMO Integrated Global Observing System	16239
 Washington’s America First Global Health Strategy	10602
 Water Global Practice	13743
+WeProtect Global Summit	19007
 Weakening of Global Climate Risk Coordination Loss	13532
 Weather Prediction WIGOS WMO Global Observing	11553
 West FX Africa GDP Global Internal	17235

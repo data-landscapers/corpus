@@ -66,8 +66,10 @@ Arab AI Strategy	16046
 Arab AI Working Group	3160
 Arab Academy for Science	8645
 Arab Africa	6946
+Arab Bank	19020
 Arab Bank for Economic Development	9047,1933,1654,2196,425,1850
 Arab Bank for Economic External Auditors	12358
+Arab Bank of Economic Development	18947
 Arab Boulil	15863
 Arab Center	17157
 Arab Center for Arabization	2958
@@ -180,10 +182,12 @@ Arab-speaking	6791
 Arab-world	14851
 Araba	6948
 Araba Sey and Oarabile Mudongo	6948
-Arabe	15488,2019,372,220
+Arabe	15488,2019,372,220,889
 Arabe AGRHYMET- VIDEOS	17941
+Arabe. L'enseignement	18884
 Arabes	18802
-Arabes Unis	15742,433,2002
+Arabes Unis	15742,433,2002,809,15,51
+Arabes Unis. Ces	18972
 Arabi	9681
 Arabia	6790,8339
 Arabia Saudita	18802
@@ -198,7 +202,7 @@ Arabian Peninsula	1741
 Arabian Sea	4676
 Arabian Sea and Arabian Gulf	3342
 Arabian Travel Market United Arab Emriates	11185
-Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1,198,152,119,81,616,109,1,1,44,8,19,92,8,29,127,293,131,37,72,1,3,152,125,137,81,635,5,50,385,154,203,51,154,757
+Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1,198,152,119,81,616,109,1,1,44,8,19,92,8,29,127,293,131,37,72,1,3,152,125,137,81,635,5,50,385,154,203,51,154,757,305
 Arabic AI	15713
 Arabic Contact Us	14995
 Arabic LLM	6232,337,9562
@@ -214,7 +218,7 @@ Arabic and Tamazight	17157
 Arabic-English	15714
 Arabic-host	6584
 Arabic-language	6947,3730,4339,326,870
-Arabic-speaking	15245,359,2289
+Arabic-speaking	15245,359,2289,1018
 Arabic. Arabic	6947
 Arabic. Registered	17438
 Arabic. Report	15663
@@ -276,7 +280,7 @@ Arash	16266
 Aratek	11994
 Aratek USE CASE AND CONTEXT	10852
 Aratuma	13300
-Araujo	8436,2697
+Araujo	8436,2697,7762,1
 Aravai	15400
 Araya Deepa Seeburn Procurement Specialist Procurement	11332
 Asia-Pacific Arab States	11563
@@ -286,8 +290,8 @@ BADEA Arab Bank for Economic Development	11549,5556
 BADEA Banque Arabe	18286
 BBC News Arabic and Patricia Whitehorne	15252
 Bangla and Arabic	7790
-Banque Arabe	11549
-Banque Arabe de Développement	15807
+Banque Arabe	11549,7439
+Banque Arabe de Développement	15807,3181
 Banque Arabe de Développement Economique	15475
 Bassin Arachidier	18304
 Bernadette Arakwiye	5070
@@ -335,8 +339,9 @@ Egyptian Colloquial Arabic	15717
 Egypt’s AI. D-I7. High-Quality Sectoral Arabic	15713
 Egypt’s Arabic LLM	16202
 Emirates Arabe Unis	16249
+Emirats Arabe Unie	18972
 Emirats Arabes Unies	17907
-Emirats Arabes Unis	15742
+Emirats Arabes Unis	15742,3230
 English and Arabic	6947,8298
 Enseignement Supérieur Arabe	18143,27
 Eritrea and Saudi Arabia	13959
@@ -364,7 +369,7 @@ Great Arab People's Socialist Libyan Jama	17438
 Great Arab People's Socialist Libyan Jamahiriya	17438
 Great Socialist People's Libyan Arab Jamahiriya	16847
 Greece and Saudi Arabia	15473
-Gum Arabic	18220
+Gum Arabic	18220,667
 Gustavo Pérez Ara	8163,33
 HARDAP REGION ARANOS	13046
 Hassaniya Arabic	18038
@@ -424,6 +429,7 @@ M. Araba Abderrahmane	15608
 MEN Kheroubi ARAIBI Sifeddine Ministère	15472
 MERCIFUL TREATY3 INSTITUTING THE ARAB	17438
 MF ARAB Anouar Ministère	15472
+MIRATS ARABES UNIS	19001
 Madagascar Report. Ara-toekarena	14356
 Madame Ndèye Arame FALL	18400,2,1
 Mafaizath Aramide Fatoke Mitterand Madjita Cristelle	16436
@@ -473,6 +479,7 @@ Respect for Arab	2958
 Rome’s Arab Italian Trade Forum	5264
 Rwanda Saudi Arabia Serbia Singapore Slovenia	10764
 République Arabe	15744
+S.E.M. Djimet ARABI	18905
 SANK ARANI	17828
 SL930 ARAB CONTRACT	17006
 Sahrawi Arab Democratic Republic	13370
@@ -555,7 +562,7 @@ Union des Banques Arabes	10718
 Union du Maghreb Arabe	17485,359
 United Arab	9399
 United Arab Emir-	17743
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3,209,242,113,220,896,7,510,434,410,247
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3,209,242,113,220,896,7,510,434,410,247,406,162,7
 United Arab Emirates ARB HI	17743
 United Arab Emirates Bahrain Algeria Egypt	15725
 United Arab Emirates Central Bank and South	11185

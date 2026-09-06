@@ -7,7 +7,7 @@ ACTION POINTS FOR POLICY IMPLEMENTATION Policy	4848
 ADDRESS POINT LIMITED Data Controller INST-952593C30A0	7167
 AI Focal Points	7548
 ARPCE Pointe-Noire	6455
-AU Launches Internet Exchange Point	14724,52
+AU Launches Internet Exchange Point	14724,52,4122
 AUX POINTS ET A L’EDUCATION FINANCIERE	13390
 Access Point	8670,4093
 Access Point Name	12241
@@ -16,6 +16,7 @@ Access Point Providers and System Integrators	7746
 Access Point Providers and System Integrators. Every	7746
 Access Points	6946,5817
 Action Point	17260
+Action Points	19042
 Action Points for Policy Implementation References	4848
 Actualités Services Point Santé	8755
 AfPIF The African Internet Exchange Points	15012
@@ -110,6 +111,7 @@ Check Point’s Threat Intelligence Report	3290
 Chief Executive Officer Pharmacy and Poisons	9855
 Child Survival A. Neighborhood Care Points	12977
 China. As Poignonnec	415
+Christopher Colin Anacoura of Point Au Sel	19049
 Clients du Point	13291
 Cloud Service Providers and Internet Exchange Points	10956
 Codes NSPC National Signalling Point Codes	6946
@@ -185,6 +187,7 @@ Establish Focal Points	1000
 Etats Généraux. POINT DE SITUATION DES	15673
 Ethiopia's New Digital Strategy Poised	12183
 Eugenie Poirot	16422
+Eve Gabriel of Pointe Larue	19049
 Exchange Point	12622,121,961,1174,3
 Exchange Point Filter Peer Name IPv4	18579
 Exchange Point JTB Joint Tax Board	11857
@@ -205,7 +208,7 @@ Fixed Office and Service Points Districts Local	8999
 Fixed Office and Service Points Geographic Coverage	8999
 Floating Point Operations Data Protection Per	4126
 Floating Point Operations Per Second	4126
-Focal Point	14753,2196,1421
+Focal Point	14753,2196,1421,540
 Focal Point Person	1778
 Focal Point for Sierra Leone	18578
 Focal Point for WMO	18787
@@ -281,12 +284,13 @@ Integration Points	5665
 International Signaling Point Codes	16934
 International Signaling Point Codes Assignee Assigned	16934
 International Signalling Point	6946
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130,166,140,15,9,484,52,87,740,14,280,300,4,5,18,51,900,39,8,709,54,121
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130,166,140,15,9,484,52,87,740,14,280,300,4,5,18,51,900,39,8,709,54,121,133,11,35
 Internet Exchange Point ARCEP Autorité de Régulation	15592
 Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point IXPN	16872
 Internet Exchange Point KYC Know	13312,2,5140
+Internet Exchange Point KYC Know-Your-Customer M&E	18931
 Internet Exchange Point L LDCS	14879
 Internet Exchange Point LAN Local Area	12917
 Internet Exchange Point LPC	18485
@@ -303,7 +307,7 @@ Internet Exchange Point of Lesotho	12709
 Internet Exchange Point of Nigeria	2754,4575,1298,3401,4517
 Internet Exchange Point. History The SIXP	16845
 Internet Exchange Point. R1	14897
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756,398,90,166,155,493,139,633,798,920,229,542,203
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756,398,90,166,155,493,139,633,798,920,229,542,203,62
 Internet Exchange Short Point	14897
 Internet Exchanges Points Accra-IX	10037
 Internet Society IXP Internet Exchange Point	15592
@@ -311,6 +315,7 @@ Internet Xchange Point of Nigeria	18091
 Investment RPO Recovery Point Objective RTO	6432
 Ivoire Internet Exchange Point	16545
 JDC Focal Point	15810
+Jane Heather Loveday of North East Point	19049
 Juste NKENGURUTSE Louis Point Focal TIC	13341
 KENYA The Pharmacy and Poisons Board	9854
 KEY POINTS	6377
@@ -324,6 +329,7 @@ Key Points	8027,1257,1904,6072,430,795
 Key Points Afreximbank and South Africa’s Industrial	8044
 Key Recommendations and Action Points	17260
 LE POINT CARE	8637
+LES POINTS MARQUANTS	19026
 LFO Pointe	14479
 LIPTINFOR NIGER UBIQUITY Point	998
 LISTE DES POINTS FOCAUX DU PAGIR	15908
@@ -417,6 +423,7 @@ Offices Operational Service Points Fix Service	8999
 Opérateurs de Points	16545
 Outside Brazzaville and Pointe-Noire	11905
 Où Poids	17945
+PA Bel Air BA Pointe Larue	18951
 PAYMENT ACCEPTANCE POINTS	15023
 PAYMENT SYSTEMS ACCESS POINTS Mobile Banking	4517
 PAYMENT SYSTEMS ACCESS POINTS Mobile Money	6978
@@ -483,7 +490,7 @@ Poikela	8606
 Poilão Fonseca	11962
 Poilão Marine National Park	11586
 Poinls	15429
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287,141,33,126,329,112,10,5,14,43,19,88,242,23,139,218,217,63,7,41,22,230,62,53,46,50,32,37,75,34,98,36,120,26,76,234,3,5,14,2,8,26,181,59,82,18,69,138,28
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287,141,33,126,329,112,10,5,14,43,19,88,242,23,139,218,217,63,7,41,22,230,62,53,46,50,32,37,75,34,98,36,120,26,76,234,3,5,14,2,8,26,181,59,82,18,69,138,28,447,69,177
 Point Application	21
 Point Azhar Malik UNDAF Outcome	12241
 Point B	17827
@@ -563,6 +570,7 @@ PointNoirTV	2545
 Pointdeierminoison	15429
 Pointe	14479,295,56,17,548,98,607,174,182,258,1575
 Pointe Canon	14774
+Pointe Infrastructure	19039
 Pointe Jérome Youth Centre Anse	14835
 Pointe N	3994
 Pointe Noire	3994,7930,3448,23,28,90,131,15,14,12,280,4,305,1,181
@@ -621,13 +629,14 @@ Pointe-Noire. MTN and Airtel	15553
 Pointe-Noire. NOMINATION DANS LES ORDRES NATIONAUX	15780
 Pointe-Noire. Ohada	15439
 Pointe-Noire. Produits	15724
+Pointe-Noire. Sur	18900
 Pointe-Noire. Toutefois	16039
 Pointe-NoireBrazzaville	6067
 Pointe-noire	15848
 PointeNoire	15780
 Pointed	13387
 Pointing	34,9642,1419,6565
-Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57,196,1,84,6,87,1094,60,275,645,82,15,73,8,18,36,74,37,162,281,217,7,287,167,62,751,4,19,59,60,116,502
+Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57,196,1,84,6,87,1094,60,275,645,82,15,73,8,18,36,74,37,162,281,217,7,287,167,62,751,4,19,59,60,116,502,374
 Points Development Discoveries Education	9989
 Points Focaux	15383,2600
 Points Focaux Genre des Directions Départementales	15383
@@ -755,6 +764,7 @@ South Sudan Project Focal Point	18623
 Speaker. OPENING NEW MARKETING POINTS	13387
 Special Needs Focal Points	16911
 Staff Development and Learning Focal Point	10776
+Stana Noria Melanie of Pointe Larue	19049
 Starting Point	14137
 Sticking Point	10360
 Strengthen Liberia’s Internet Exchange Point	17106
@@ -795,6 +805,7 @@ Utilities Power Points and Lightings	14778
 V Pointe-Noire	15799
 V Tinkisso Pointes	16714
 V de Pointe-Noire	15799
+VLP Virtual Landing Point WACREN West	18931
 Virtual Landing Point	14864,3006
 Vitals Collection Points	15798
 Vult Pay Point	2749
@@ -811,6 +822,7 @@ Wide Expansion of Customer Touch Points	9117
 Wilaya Points	15885
 Wireless Access Point	11503
 Wireless Access Points	34,17300
+XVI. Points of Contact	18914
 Xchange Point	15372,2452
 Xchange PointIXPDigital	7200
 ZAMTEL Establish Internet Exchange Point	12453

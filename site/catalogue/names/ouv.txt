@@ -76,6 +76,7 @@ Jour Ouvré Concerné	15901
 Jour Ouvré Concerné. Dans	15901
 Jour Ouvré Target	15901
 Jour Ouvré le Taux Variable	15901
+Journée Portes Ouvertes	19165
 Jours Ouvrés	15901
 Jours Ouvrés Banque	15901
 Jours Ouvrés Target	15901
@@ -85,6 +86,7 @@ LES EFFORTS DU GOUVERNEMENT OUVERT	15712
 Licence Ouverte	9480
 M. Rodrigue Ouvouza	15874
 MAXIMUM DE TRAITEMENT OUVRABLE	14424
+Monsieur Ousman Ali Gabdjaya. Ouvertes	19051
 NATIONAL OUVERT EN PROCEDURE D'URGENCE	16581
 NE PAS OUVRIR AVANT	13524
 NORMES OUVERTES	16618
@@ -127,7 +129,7 @@ Ouvida	15955
 Ouvidorias Públicas	11569
 Ouvir	539,9451
 Ouviu	10760
-Ouvrage	1284,12240,31,933,1,1,1052,128,253,83,313,76,139,47,133,1132,272,76
+Ouvrage	1284,12240,31,933,1,1,1052,128,253,83,313,76,139,47,133,1132,272,76,954
 Ouvrage Communale	643
 Ouvrage Délégué	16012,522
 Ouvrage En	14489,1
@@ -142,12 +144,12 @@ Ouvrages Immobiliers	17846
 Ouvrages de Commandement	15999
 Ouvrages du Haut-Bassin du Fleuve Sénégal	17833
 Ouvrages. Le Maitre	17846
-Ouvrant	3552,1055,909,2283,272,267,1203,862,89,3180,2663,118,33,259
+Ouvrant	3552,1055,909,2283,272,267,1203,862,89,3180,2663,118,33,259,2427,16
 Ouvre	10876,7069
 Ouvrier	737,14695,300,439
 Ouvrier Refus Autres	13390
 Ouvriers	14488,1,1,3714
-Ouvrir	2992,404,3558,6421,1308,859,72,2379
+Ouvrir	2992,404,3558,6421,1308,859,72,2379,995
 Ouvrir Figure	13375
 Ouvrir QGIS	13375
 Ouvrir QGIS Figure	13375

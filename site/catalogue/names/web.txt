@@ -1,5 +1,6 @@
 AAUCA Web	17307
 ABP Nicolas BARAJINGWA ABP WEB TV	9810
+ACCESSING THE WEBPAGE FROM THE LINK	18965
 AGT MOBILE Website	10762
 AIO e Web-1.pdf. Bank for International Settlements	6938
 ANNUAIRE DES SITES WEB GOUVERNEMENTAUX Ministère	3675
@@ -155,6 +156,7 @@ Home DPO CyberHub Rw-CSIRT Website About	9125
 Hosted Web	12404
 Hostmeng Web Solution	10179
 I Web	17922
+I Web Site	18898
 IGRP WEB	15590
 IGRP WEB S E D U	15590
 IGRP Web	15590
@@ -205,6 +207,7 @@ Limited Website	3386
 Lodwar Website	12256
 Logo Contact Information Company Website Company	18579
 M. Webster	11879
+MAPS DERIVED FROM THE WEBGIS	18904
 ME.KE Personal Websites and E-mail	6946
 MINISTRY WEBSITE	13502
 MOHW Website	14773
@@ -241,8 +244,9 @@ Nigerian Web3	2826
 NonVisual Desktop Access OWASP Open Web	11952
 OASIS Standard OASIS Web Services Notification	1009
 OASIS Web Services	1009
+OGC Web Feature Service	18904
 Offensive Security Web Expert	15662
-Official Website	14600
+Official Website	14600,4558
 Official Website Lesotho Bureau of Statistics	12768
 Official Website of The Government	16837,145
 Official Website of The Republic	17388
@@ -257,6 +261,7 @@ PAGINA WEB	4209
 PHISHING WEBSITE DEFACEMENTS SECURITY BREACH ABNORMAL	9125
 POSTED ON THE MRA WEBSITE	14816
 PRISMA Statement Website	8671
+PROPOSAL AND FINANCIAL PROPOSAL IN WEBPAGE	18965
 Par GODOM Appolinaire Webmaster	16155,218
 Para WebLab II	15476
 Participant Webstation	12484
@@ -309,6 +314,7 @@ Semantic Web	8606,3754
 Semantic Web and Information Systems	8604
 Service Manager Web	9684
 Service Manager Web and Live Capture	10619
+Seychelles Hosts International Webinar	19076
 Sierra Leone Web	439
 Site Web	748,1194,8932,40,2252,135,76,2124,123,88,12,212,1909,218,59,164
 Site Web INSTAT	17842
@@ -341,6 +347,7 @@ Technologies WEB Systèmes	15467
 Technology Co Ltd. AfriNet Web	8285
 Telephone Website Others Count	17149
 Traffic Stats Website	14878,3701
+Transverse Mercator WFS Web Feature Service	18904
 Turkmenistan Government Website TURKMENISTAN	16631
 Twitter Website WhatsApp Youtube Accueil Cameroun	9916
 Télés Webs	3348
@@ -379,6 +386,7 @@ WEBSITE. INCLUDE ONE PARAGRAPH TO DESCRIBE	13618
 WEBSITES SCAMS OR INCONSISTENT	11964
 WEBSITES SPEEDS USE MOBILE	11964
 WEBSITES SUPPORT ACCESS APPROVE	11004
+WMS Web Map Service	18904
 Web ANPTIC	10817
 Web APIs	12693
 Web Accessibility Evaluation Tool	15936
@@ -410,6 +418,7 @@ Web Editor	13532
 Web Etat	17845
 Web Expert	15662
 Web Favorable	10821
+Web Feature Service	18904
 Web Foundation	12333,981,3285,273
 Web Foundation's Alliance for Affordable Internet	149
 Web Foundation. ARCT	13314
@@ -420,7 +429,7 @@ Web GIS Application Development	13031
 Web Geovisualisations	13031
 Web IGRP	16321
 Web Informatics	12926
-Web Map Service	13031
+Web Map Service	13031,5873
 Web Masters Kenya	2674
 Web PDF	12948
 Web Page	14666
@@ -486,7 +495,7 @@ WebBanner	7139
 WebDHIS	396
 WebDev	13314
 WebFetch	3162,7211,959,477,74,33,1,324,64
-WebGIS	11941,1090
+WebGIS	11941,1090,5873
 WebLab	1348,10543,3585
 WebLab I	15476
 WebLab I. Medidas	15476
@@ -557,7 +566,7 @@ Webmasters Kenya Limited	2742
 Webmasters Kenya and Olivetree Limited	6796
 Webpage	16867,1815
 Webphone	10417
-Website	236,178,173,131,254,159,23,400,224,998,24,16,205,365,2292,1,114,878,296,497,86,213,204,765,1123,380,297,230,2,1,10,18,30,21,67,69,37,174,6,1,42,17,3,303,91,153,50,154,30,5,161,44,86,27,3,10,21,5,6,4,163,12,58,6,49,219,7,115,2,16,95,159,68,95,55,78,41,320,35,403,327,18,25,5,24,3,25,31,189,105,37,23,352,99,371,653,2,139,35,13,183,48,24,9,7,104,104,379,3,377,297,24,28,3,56,7,1,4,26,113,149
+Website	236,178,173,131,254,159,23,400,224,998,24,16,205,365,2292,1,114,878,296,497,86,213,204,765,1123,380,297,230,2,1,10,18,30,21,67,69,37,174,6,1,42,17,3,303,91,153,50,154,30,5,161,44,86,27,3,10,21,5,6,4,163,12,58,6,49,219,7,115,2,16,95,159,68,95,55,78,41,320,35,403,327,18,25,5,24,3,25,31,189,105,37,23,352,99,371,653,2,139,35,13,183,48,24,9,7,104,104,379,3,377,297,24,28,3,56,7,1,4,26,113,149,194
 Website Address	11250
 Website Address and Email Address	16878
 Website Annex	17260

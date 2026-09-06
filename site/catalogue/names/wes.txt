@@ -699,6 +699,7 @@ Somaliland South West Galmudug Jubbaland Puntland	14896
 Somerset Westview Hotel	8550
 South Africa Wesley Moonsamy	8605
 South Africa West	2524,2560,1387
+South East and West of Mahé	18947
 South South South West South East	3862
 South South West	10980
 South Sudan and Abyei WES	2685,2,359,86,176,15,119,65,590,447,96,374,93,240
@@ -809,6 +810,7 @@ Use Only West Africa Unique Identification	15735
 Using West Point	17260
 Uttar Pradesh and West Bengal	12979
 VAC Violence Against Children WAEMU West	18504
+VLP Virtual Landing Point WACREN West	18931
 VULNERABLE GROUPS The West Africa	18504
 Vacancy Management Oversight Committee WC Western	11197
 Verde Africa Western Africa Praia High	10840
@@ -908,6 +910,7 @@ West Africa Agricultural Productivity Programme	12090
 West Africa Border Security Week Accra	2521,659,249,939,974,1524,210,294
 West Africa Bureau	17235
 West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27,2412,83,58,29,11,2309
+West Africa Cable System WiLL Wireless	18887
 West Africa Coastal	789
 West Africa Communications	5681
 West Africa Competitiveness Programme	11531
@@ -1245,7 +1248,7 @@ West and Central Africa. Professionals	17007
 West and Central Africa. Situation	10841
 West and Central Africa. Together	15939
 West and Central Africa. Wash-	16942
-West and Central African	652,6788,20,9482
+West and Central African	652,6788,20,9482,1945
 West and Central African Research and Education Network	11552,3895
 West and Centre	10980
 West and China	12187
@@ -1282,7 +1285,7 @@ Westerkim	13046
 Westerman	6832
 Westermann	8606
 Westermeier	4676
-Western	161,75,335,182,801,907,207,108,615,207,276,182,71,131,168,250,58,17,293,198,5,55,116,95,169,181,244,124,36,71,160,194,116,17,122,1,49,177,46,215,260,138,24,12,17,160,160,164,90,50,119,48,213,2,392,147,198,13,97,62,15,41,181,50,342,21,508,69,56,51,5,14,586,81,125,241,69,69,3,1,74,6,22,619,207,110,21,30,1104,109,150,116,445,88,43,184,2,139,106,607,375,16,135,647,11,78,670,17,4,11,30,32
+Western	161,75,335,182,801,907,207,108,615,207,276,182,71,131,168,250,58,17,293,198,5,55,116,95,169,181,244,124,36,71,160,194,116,17,122,1,49,177,46,215,260,138,24,12,17,160,160,164,90,50,119,48,213,2,392,147,198,13,97,62,15,41,181,50,342,21,508,69,56,51,5,14,586,81,125,241,69,69,3,1,74,6,22,619,207,110,21,30,1104,109,150,116,445,88,43,184,2,139,106,607,375,16,135,647,11,78,670,17,4,11,30,32,530
 Western AI	571,4796,864,2461,1047,8034
 Western Africa	585,376,303,1331,215,6056,1974,19,53,660,322,108,4142,624,158,10,6,138,19,15,121,52,486,97,586,48
 Western Africa Coastal Area Management	18787
@@ -1332,6 +1335,7 @@ Western Australia	2390,1902,563,470,255,313,73,322,83
 Western Bahr	18743
 Western Bahr El Ghazal	18615
 Western Bahr El Ghazal State	18615
+Western Balkans	18985
 Western Balkans Investment Framework	14621
 Western Boundary	16511
 Western Cape	219,80,107,42,87,196,1,223,1,215,1,1,116,280,370,154,192,2876,1522,149,1186,4,90,263,34,49,106,15,267,1,152,792,103,73,276,295,273,369,8,4,3,16,21,16,5,9,10,13,4,5,2,40,158,347,49,14,57,19,6,39,1437,285,26,41,859,654
@@ -1398,7 +1402,8 @@ Western Europe	2677,9411,248
 Western Europe Eastern Europe	11135
 Western Forelands	15952
 Western Hemisphere	3874,573,5262,1431
-Western Indian Ocean Region	14845
+Western Indian Ocean	18998,9
+Western Indian Ocean Region	14845,4215
 Western Indian Ocean Route	13773
 Western Indian Ocean Route. Operational Protection	13773
 Western Kenya	152,4409,9990,130
@@ -1422,7 +1427,7 @@ Western Rural	18440,20,4
 Western Rural District	18464
 Western Sahara	2682,4741,708,3146,332
 Western Tigray	11004,960
-Western Union	2368,409,3590,4802,2219,2,2103,103,2237,34
+Western Union	2368,409,3590,4802,2219,2,2103,103,2237,34,1147
 Western Union Nombre	13390
 Western Union and MoneyGram	11169,791
 Western Union and MoneyGram.28 Micro Finance Institutions	13388
@@ -1465,6 +1470,7 @@ Western-controlled	7220
 Western-developed	571
 Western-dominated	5252
 Western-led	571,11498
+Western-most	18904
 Western-style	8460
 Western-trained	3622
 Western-trained AI	5367

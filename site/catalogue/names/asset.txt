@@ -3,7 +3,7 @@ A4.1. Asset Wealth Index	12006
 ABSA ASSET MANAGEMENT LIMITED Data Controller	7167
 AFRICAN ALLIANCE KENYA ASSET MANAGEMENT LIMITED	7167
 ARVOCAP ASSET MANAGERS LIMITED Data Processor	7167
-ASSETS	4360,536,3694,4463,1683,2661,1073
+ASSETS	4360,536,3694,4463,1683,2661,1073,423
 ASSETS AND AFFECTED PEOPLE	17114
 ASSETS AND AFFECTED PEOPLE B. AFFECTED	17114
 ASSETS AND LIABILITIES	11955
@@ -98,7 +98,7 @@ AssetCo	10993
 Assetless Companies Fund	18556
 Assetou DIARRA Trésorière	18032
 Assetou Zongo	10881
-Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123,444,97,367,612,687,49,229,26,221,248,1622,121,1
+Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123,444,97,367,612,687,49,229,26,221,248,1622,121,1,1678,65
 Assets Act	13076
 Assets Act PSC Public Service Commission	13420
 Assets Africa	9119
@@ -149,6 +149,7 @@ Board and Staff Transfer of Assets Transitional Provision	16833
 Britam Asset Managers	7167
 Business-to-Consumer Digital Assets Tax B2C	14932
 CANNON ASSET MANAGERS	7167
+CAUTION REGARDING VIRTUAL ASSET SERVICES BEING	18974
 CENSUS OF AFFECTED ASSETS	17114
 CIC ASSET MANAGAMENT LIMITED Data Controller	7167
 CIC ASSET MANAGAMENT LIMITED Data Processor	7167
@@ -182,6 +183,7 @@ Commercial Banks’ Assets and Liabilities	2775
 Confidential Asset Standard Comment Rationale Data	9124
 Confidential Asset Standard Comment Rationale Framework	9124
 Confiscated Property and Asset Management	2652,2999
+Contextual Knowledge and Additional Assets	19086
 Contingent Liabilities and Contingent Assets	1154
 Contingent Liabilities and Contingent Assets IPSAS	14736
 Contingent Liabilities and Contingent Assets. Termination	1154
@@ -290,6 +292,7 @@ Ghana Virtual Asset Service Providers Act	4847
 Ghana's Virtual Asset	11699
 Global Data Asset Inventory	7590,72
 Global Data Asset Inventory Memo. AidData	7662
+Global Ltd for Unlicensed Virtual Asset Services	19145
 GmbH Human Asset Clouds&Training Inetum España	8530
 Government Asset Register	14761,69
 Government Assets Management Department	9492
@@ -333,6 +336,8 @@ Issuance Platform Virtual Asset Broker Virtual	10738
 Item of Intangible Assets Years Computer	11955
 Item of Tangible Fixed Assets Years Buildings	11955
 Just Pension Assets	7523
+KEY ASSETS Dam	18947
+KEY GENERATING ASSETS Key	18947
 KSh Million Type of Asset	2775
 LISGIS. Strategic Asset Management	5244
 Labor Education Unemployment Attainment Over-crowding Assets	15244
@@ -546,17 +551,23 @@ Valuable Assets	3279
 Virtual Asset	14819
 Virtual Asset Act	3270,19
 Virtual Asset Council	7448,46,1736,524,201
+Virtual Asset Exchange	18974
 Virtual Asset Exchange Virtual Asset Manager	10738
+Virtual Asset Investment Advice and Virtual Asset	18974
 Virtual Asset Office	7448,46,1736
 Virtual Asset Service Provider	9311,223,220,121,2101,906,1937,25
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310,751,650,1312
-Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310,751,650,1312,4130
+Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165,7253,22,4,167
+Virtual Asset Service Providers Framework Industry	18952
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738
 Virtual Asset Service Providers and Issuers of Initial	14844
 Virtual Asset Service Strategic Priority	12444
+Virtual Asset Services Providers URL	18974
+Virtual Asset Services Supervision Section	19145
 Virtual Asset Taxation	9570
+Virtual Asset Wallet Provider	18974
 Virtual Asset and Initial Token Offering	7845
 Virtual Asset and Initial Token Offering Services	7845,6964,19,3,12,1
 Virtual Asset and Initial Token Offerings Services	14742,102

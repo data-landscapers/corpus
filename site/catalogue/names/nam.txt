@@ -52,7 +52,7 @@ Administration Name Designation Tel No. Email	14745
 Administration System NamRA Namibia Revenue Agency	12951
 Admissible. NAM	7109
 Adv. Namiseb. Ms. Anna Hoffmann-Kwanga	13048
-Advance Passenger Information and Passenger Name Record	4275,6448
+Advance Passenger Information and Passenger Name Record	4275,6448,8241
 Affairs and Immigration NAFIS Namibia Automatic Fingerprint	12947
 Africa MoU Memorandum of Understanding NAMFISA Namibian	11198
 Africa Namibia’s ICT	1013
@@ -182,6 +182,7 @@ CEO of Telecom Namibia	13150
 CEOs of NAMFISA General Manager of Research	6938
 CHANGE IN LEGAL ENTITY NAME	17534
 CHANGE OF NAME	12338,2376,1
+CHANGE OF NAME Notice	19049
 CHANGES TO RESULTS FRAMEWORK Indicator Name	15663
 CLASSROOM CHECKLIST S N Name of School	16963
 CMI Bank of Namibia National National National	6938
@@ -235,7 +236,7 @@ Certificate of Origin Name	1988
 Chairperson of NamRA	12951
 Challenges Despite Namibia	5036
 Change Participant Name	12364
-Change of Name	13418
+Change of Name	13418,5622
 Change of Name Act	12533,106
 Changing the Company Name	14891
 Chapter CHAPTER X DOMAIN NAME AUTHORITY	11179
@@ -284,6 +285,7 @@ Communique Wagon NEWSLETTER NamRA Backs Small	13044
 Communities Indicator Name Baseline Closing Period	17962
 Company Name	12389,311,2054,129
 Company Name Change	12041
+Company Name IBC No. Financial Services	19049
 Company Name Reservation	14891
 Completion Indicator Name Unit of Measure Baseline	15424,87
 Component Name	3604,7360,891
@@ -308,7 +310,7 @@ Consolidated The Constitutional Declaration In the Name	16847
 Constitution of Namibia	13033
 Consultant Name	13031
 Consulted Stakeholders ID Name of Institution	12674
-Contact Information Name	9892,1
+Contact Information Name	9892,1,9057
 Contact Name	16312
 Contacts Contacts Name Affiliation Email GlobalFindex	15844
 Contacts List Name Position Ministry	10812
@@ -347,6 +349,7 @@ DHA Name	11986
 DISTRICT DEVELOPMENT MODEL Area of Project Name	11986
 DLI Name Baseline Revise	16032
 DOMAIN NAMES	15679
+DOMAIN NAMES AND ELECTRONIC ADDRESSES	18934
 DPS Nampula	2228
 DRIVER'S NAME	1988
 DRMS Activity Tracking Tool Template Name	17011
@@ -422,6 +425,7 @@ EITI Standard. Namely	18439
 ELECTORAL COMMISSION OF NAMIBIA	12905
 ELECTORAL COMMISSION OF NAMIBIA No	13046
 EMPLOYERS DETAILS Company Trade Name	13037
+ENCUMBRANCES SECTION Entry No. Date Name	18881
 ENTITY Name	1638
 ENUMERATOR NAME	17127
 EPC de Namaja	12148
@@ -523,6 +527,7 @@ General News The Namibia Chamber of Commerce	8414
 General Notice BANK OF NAMIBIA No	12447
 Geofind Namibia	13031
 Geographic Portal for Namibia	13031
+Geographical Names	18904
 Geographical Names Register	4214
 Ghana Domain Name Registry	587,3900,219
 Ghana Kenya Mozambique Namibia Nigeria South	5247
@@ -866,6 +871,7 @@ Moxico Namibe Uíge Zaire Fonte	10766
 Moxico Namibe Uíge Zaire MF	10766
 Moxico Province Nami	11418
 Mozambique Namibia Nigeria	5247
+Mozambique The Republic of Namibia The Republic	19185
 Mozambique and Namibia	13009
 Mr. Ebson Uanguta Governor Bank of Namibia	13076
 Mr. Hannington Namara	14990
@@ -1139,7 +1145,7 @@ Namanga	5883,8717
 Namanga Loitoktok Lunga Lunga Figure	12256
 Namanve	1150,3645,454
 Namasivayam V	3791
-Namaskar	2787
+Namaskar	2787,16274
 Namathise	11573
 Namathisela	11573
 Namati	12300
@@ -1212,12 +1218,13 @@ Name Technical	13938
 Name Time	12364
 Name Time Since Last Update	3861
 Name Title Sector Unit Samia Melhem	10812
-Name Title Unit Jerome Bezzina Regulatory	15372
+Name Title Unit Jerome Bezzina Regulatory	15372,3515
 Name Unit of Measure Baseline Original Target	15601
 Name ZIPSS	12364
 Name and Address	13037
 Name and Address. IHS Holding Limited	7198
 Name and Address. The Company	7198
+Name and Description of Dataset	18904
 Name and Position	12693
 Name and Registration	12041
 Name and Registration Details	5538
@@ -1248,6 +1255,7 @@ Name of Firm	13037
 Name of IMSA	10812
 Name of Implementing Agency	9603,1
 Name of Indiscriminate	1988
+Name of LICENSEE	18904
 Name of Legal Representative	14891
 Name of Lo	14713
 Name of Name	1988
@@ -1305,7 +1313,7 @@ Namely	1596,3376,2261,3586
 Namentenga	10847,28,5151
 Namentenga Bittou	10875
 Namentenga Centre-Nord	15715
-Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59,942,944,100,543,1266,11,24,1242,331
+Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59,942,944,100,543,1266,11,24,1242,331,511,94
 Names ARTCI	6340
 Names DIVA	14566
 Names Impilo	3385
@@ -1340,7 +1348,7 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102,171,450,24,1418,53,309,492,2,23,16,12,74,622
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102,171,450,24,1418,53,309,492,2,23,16,12,74,622,406,12
 Namibia AFR UMI	17743
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
@@ -1912,7 +1920,7 @@ OFFICER ELECTORAL COMMISISON OF NAMIBIA Windhoek	13046
 OPM. Republic of Namibia	12325
 ORDER ORDER IN NUMBERS NamRA	13044
 ORGANIZATION NAME	2709
-OVERALL RATINGS Name	11988,1932,136,924,179
+OVERALL RATINGS Name	11988,1932,136,924,179,3823
 OVERALL RATINGS Name Current Progress	4688
 OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25
 Officer Table of Contents INTERPRETATION NAME TYPE	585
@@ -2008,6 +2016,7 @@ PROJECT INFORMATION SHEET Project Name	15011
 PROJECT NAME AND SAP CODE	11863,2075
 PROJECT TEAM Bank Staff Name Role	1284,15638
 PROPOSALS Company Name	13037
+PROPRIETORSHIP SECTION Entry No. Date Name	18881
 PROVIDERS IN NAMIBIA	13085
 PTMP Indicator Name Baseline New People	16032
 PUBLIC NOTICE NamRA	13108
@@ -2072,6 +2081,7 @@ Project Name Zambia Scaling-up Shock Responsive	13332
 Projects Project Name Timeline Project Description	12399
 Proposed Component Name Component	4653
 Proposed Project Location Name	1988
+Proprietorship Section. Name	18881
 Protect Namibian	14307
 Protection of Names	12393
 Province Lat Total District Municipality Name	11986
@@ -2133,7 +2143,7 @@ Region Operation ID Operation Name P508383	3456
 Register Your Business The Name Reservation	12280
 Registered Domain Names	6671
 Registered Name	4896,6380,1124
-Registration of Business Names Act	13305
+Registration of Business Names Act	13305,5578
 Regularization of Status of Certain Residents of Namibia	12337
 Removal of Names	18556
 Rep. Namibia Ghana Benin Kenya Togo	10819

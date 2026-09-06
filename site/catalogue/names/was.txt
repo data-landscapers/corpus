@@ -55,6 +55,7 @@ Cameroon Social Safety Nets. Washington	15601
 Cameroon. Washington	10985,4616
 Carlyn Hambuba. In Washington	1901
 Carting Away of Wastes	14738
+Central African Education and Research Network WaSH	18931
 Changing Nature of Work. Washington	6832,6482
 China Washington	10068
 China. Washington	6583
@@ -164,6 +165,7 @@ Fruitless and Wasteful Expenditure	11230
 Future. Washington DC	16996
 GABECE and WASSCE	16852
 GABECE and WASSE	16852
+GWh. WASTEWATER	18947
 Gender Landscape Washington	18809
 George Washington International Law Review	12227
 George Washington University	9632
@@ -238,6 +240,7 @@ Kenya Solar Waste Collective	12191
 L Street Northwest Washington	42
 L'intégration WASH	16722
 Land Policies for Growth and Poverty Reduction. Washington	18293
+Landscape and Waste Management Agency	19081,15
 Lanseria Wastewater Treatment Works PPP Project	11248
 Latest Headlines WASPAN Appeals Judgement Upholding	7776
 Learning Poverty Brief Washington	15743
@@ -423,7 +426,7 @@ WASH-FIT	17289
 WASH. Component	1778
 WASH. Following the World Bank's Environmental Health	1988
 WASHFIT	14622
-WASHINGTON	1579,447,1695,488,51,2807,785,1142,1719,1143,2236,511,39,1412,5,142,234,8,909,1,171,710,264,318
+WASHINGTON	1579,447,1695,488,51,2807,785,1142,1719,1143,2236,511,39,1412,5,142,234,8,909,1,171,710,264,318,146
 WASPAN	6296,1173,91,40,176,887
 WASSA	17819
 WASSCE	7171,5025,4656,24,561,1018,6,51,52,14
@@ -484,7 +487,7 @@ Washable	1988
 Washili	4386
 Washing	1210
 Washing Machine	12383
-Washington	969,292,3,315,141,108,330,126,1,189,107,167,38,3,4,153,45,260,190,15,26,4,118,49,129,371,1,10,3,93,6,69,5,86,13,8,170,52,5,60,301,9,40,57,7,14,1,2,48,3,8,18,15,45,64,74,110,142,8,16,57,35,35,20,37,101,40,109,33,48,35,90,64,162,208,107,32,9,236,24,11,221,154,4,67,95,107,491,131,16,15,182,10,86,74,29,13,17,94,10,2,581,37,14,75,5,93,206,30,20,355,1,1,154,3,111,1,4,45,2,3,7,5,5,27,29,122,1,12,1,8,12,17,76,43,1,2,4,9,7,115,39,107,128,7,2,18,168,134,5,2,28,3,6,6,264,39,28,42,31,18,188,7,42,76,141,38,102,8,92,250,10,12,2,12,5,1,99,193,117,127,113,36,413,218,38,88,3,120,15,20,74,23,109,286,15,8,26,1,6,11,2,18,7,35,51,17,37,1,2,2,52,10,1,25,1,118,5,41,121,96,11,31,26,95,265,65,250,26,20,20,7,6,41,114,99,26,2,20,69,13,66,98,21,33,12,126,107,60,7,1,26,10,3,81,73,41,174,23,17,21,71,97,113,82,77,30,14,28
+Washington	969,292,3,315,141,108,330,126,1,189,107,167,38,3,4,153,45,260,190,15,26,4,118,49,129,371,1,10,3,93,6,69,5,86,13,8,170,52,5,60,301,9,40,57,7,14,1,2,48,3,8,18,15,45,64,74,110,142,8,16,57,35,35,20,37,101,40,109,33,48,35,90,64,162,208,107,32,9,236,24,11,221,154,4,67,95,107,491,131,16,15,182,10,86,74,29,13,17,94,10,2,581,37,14,75,5,93,206,30,20,355,1,1,154,3,111,1,4,45,2,3,7,5,5,27,29,122,1,12,1,8,12,17,76,43,1,2,4,9,7,115,39,107,128,7,2,18,168,134,5,2,28,3,6,6,264,39,28,42,31,18,188,7,42,76,141,38,102,8,92,250,10,12,2,12,5,1,99,193,117,127,113,36,413,218,38,88,3,120,15,20,74,23,109,286,15,8,26,1,6,11,2,18,7,35,51,17,37,1,2,2,52,10,1,25,1,118,5,41,121,96,11,31,26,95,265,65,250,26,20,20,7,6,41,114,99,26,2,20,69,13,66,98,21,33,12,126,107,60,7,1,26,10,3,81,73,41,174,23,17,21,71,97,113,82,77,30,14,28,36,27,17
 Washington Charles Tembo	4365
 Washington College of Law	9632
 Washington D.C	1722,1876,4254,4379,3193,69,888,245,473,15,301
@@ -612,7 +615,9 @@ Wasteful Expenditure	13355
 Wasteless	7966
 Wasteless Dynamic Pricing Wasteless	7966
 Wastes	1988,10265,2485
-Wastewater	1988
+Wastewater	1988,16991
+Wastewater Connections	18947
+Wastewater Customers	18947
 Wastewater Management Authority	14745,48
 Wastewater Management Authority Act	14745
 Wastewater Renewable Energy Agency Senior Staff	14745
@@ -622,7 +627,7 @@ Wastewater Sector	14745
 Wastewater Systems	1988
 Wastewater Treatment Plant	14830
 Wastewater and Water Quality	1988
-Wasting	15725,2716
+Wasting	15725,2716,463
 Wasting Percentage	18441
 Wasunna	15694
 Waswahili	10313

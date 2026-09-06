@@ -48,6 +48,7 @@ Africa’s AI Policy Ambitions Ignore Energy	5418
 Air Emissions and Ambient Air Quality	17114
 Algeria’s Ambassador	17637
 Amb Isaac Ochieng	4631
+Amb. Allah Maye Halina	19069
 Amb. Baba Kamara	7452
 Amb. Dr. Mohamed Kadah	9516
 Amb. Ernest Mbaimba Ndomahina	18552,21
@@ -67,11 +68,11 @@ Ambasade	14861
 Ambasaderi	14861
 Ambassa	16381
 Ambassad	737
-Ambassade	2801,685,2774,4830,2315,331,1663,271,303,482,189,841,332,31,13,26,39,175
+Ambassade	2801,685,2774,4830,2315,331,1663,271,303,482,189,841,332,31,13,26,39,175,887,179,3
 Ambassade de Chine	13736
-Ambassade de France	1679,8348,3415,319,1,37,3745,1,779,38
+Ambassade de France	1679,8348,3415,319,1,37,3745,1,779,38,626
 Ambassade des Etats-Unis	13724,4093
-Ambassade des Pays-Bas	5899,3967,5716
+Ambassade des Pays-Bas	5899,3967,5716,3406
 Ambassade du Burkina Faso	8321,9670
 Ambassade du Cameroun	4193
 Ambassade du Canada	15294
@@ -82,12 +83,14 @@ Ambassade du Mali	8237,9590,155,9
 Ambassade du Royaume de Belgique	13560
 Ambassade du Royaume des Pays-Bas	5899,10745
 Ambassade du Royaume du Maroc	7904,8810
+Ambassade du Tchad	19124
 Ambassade du Togo	15674
-Ambassades	737,14681,164,130,903,21,1225,240
+Ambassades	737,14681,164,130,903,21,1225,240,825,67
 Ambassades Article	17861
 Ambassades France	16722
 Ambassades de Bamako	17907
-Ambassadeur	1955,2214,1576,2933,1416,996,2315,805,1430,143,190,126,76,75,400,1162,29,7,13,38,48,83,71,195,116
+Ambassadeur	1955,2214,1576,2933,1416,996,2315,805,1430,143,190,126,76,75,400,1162,29,7,13,38,48,83,71,195,116,589
+Ambassadeur Allah Maye Halina	19030,106
 Ambassadeur Bankole ADEOYE	18310
 Ambassadeur Ces	17861
 Ambassadeur Edouard Au	13405
@@ -105,8 +108,9 @@ Ambassadeur du Niger	8808
 Ambassadeur du Royaume de Belgique	17926
 Ambassadeur du Rwanda	14861
 Ambassadeur du Sénégal	11024
-Ambassadeurs	3396,6242,451,5614,1771,387,88,361
-Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468,778,626,332,80,22,600,590,142,442,393,964,613,82,671,152,143,714
+Ambassadeur du Tchad	18993
+Ambassadeurs	3396,6242,451,5614,1771,387,88,361,677
+Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468,778,626,332,80,22,600,590,142,442,393,964,613,82,671,152,143,714,277
 Ambassador A.R. Chimbindi	5148
 Ambassador Abbas	10427
 Ambassador Abdella Musa	14044
@@ -114,6 +118,7 @@ Ambassador Abdoulaye Youla	16649
 Ambassador Al Harbi	12710
 Ambassador Alfred K'Ombudo	14134
 Ambassador Anne Katusiime	7815
+Ambassador Barry Faure	19179
 Ambassador Bianca Odumegwu-Ojukwu	5991
 Ambassador Bitange Ndemo	12104
 Ambassador Bílek	8896
@@ -129,6 +134,7 @@ Ambassador Dr. Kadah	8335
 Ambassador Dr. Martin Kimani	14134
 Ambassador Dr. Mohamed Kadah	8335
 Ambassador Faisal Bin Falah Al Harbi	12710
+Ambassador Gervais Moumou	19007
 Ambassador Gong Tao	1088
 Ambassador Hadera Berhe	14134
 Ambassador Halinen	10510
@@ -260,7 +266,7 @@ Ambient	13385,2340
 Ambient Insight	3059
 Ambientais	11390
 Ambiental	1948,9458,4027,529
-Ambiente	1948,4321,2989,1496,636,16,121,15,27,410,798,30,17,2556,53,43,27,23,9,357,104,294,197,606,7,3,44,1613,3,14,17,4,3,71
+Ambiente	1948,4321,2989,1496,636,16,121,15,27,410,798,30,17,2556,53,43,27,23,9,357,104,294,197,606,7,3,44,1613,3,14,17,4,3,71,24
 Ambiente Digital	8385,3008
 Ambiente Externo	10772
 Ambiente Interno	10772
@@ -292,7 +298,11 @@ Ambiguous	10841,4501
 Ambika Pierrete	17761
 Ambimetric Portugal	18839
 Ambitieuse	16351
-Ambition	235,689,1335,555,584,1738,1003,271,58,95,1619,425,206,288,2,247,266,1123,54,538,535,7,2236,457,1241,410,1643
+Ambition	235,689,1335,555,584,1738,1003,271,58,95,1619,425,206,288,2,247,266,1123,54,538,535,7,2236,457,1241,410,1643,1128
+Ambition Indicateurs	18988
+Ambition Indicateurs Projets	18988
+Ambition Projets	18988
+Ambition Tchad Connexion	18988
 Ambition28	3600,1623,45
 Ambitions	1961,999,639,2695,8621,847,879
 Ambitions To Expand Partnership Further Beyond	17641
@@ -321,6 +331,7 @@ Ambok	4209
 Ambos	3903,551,2,6321,6078,107,1817
 Ambositra	14425
 Ambossodeur CtllNA	15399
+Ambougna	18972
 Ambre	14442
 Ambriz	539,3505
 Ambriz Caculama Ecunha Mucaba Gambos Nancova	10765
@@ -364,6 +375,7 @@ Avaliação Ambiental	6269,5137
 Avaliação de Impacte Ambiental	11390
 Avaliação de Impacto Ambiental	11542,7218
 Avaliação de Impactos Ambientais	11390
+B. BÂTIR UN PLAN AMBITIEUX POUR	18972
 Benin Foreign Minister and Chinese Ambassador. RMB	715
 Between Ambition and Implementation	3271
 Between NGFS Ambitions and Domestic Mandates	13532
@@ -380,6 +392,7 @@ CENTRE AMBASSADEUR POUR CHRIST	15395
 CEO Ambiance and Ambiance	6576
 CLASSIFICAÇÃO DO RISCO AMBIENTAL E SOCIAL	11390
 COMESA Ambassador Conrad Mederic	13440
+COMME AMBITION DE RENDRE L’ENERGIE	18967
 CT-OGP Ambassades	15712
 Cabinet Secretary William Kabogo and China's Ambassador	9938
 Cabo Verde Ambition	11891
@@ -427,6 +440,7 @@ D.G.DE MEDIO AMBIEN. Y LUCHA CONTRA	4209
 DE BATA EBEBIYÍN ANTICORRUPCIÓ MEDIO AMBIENTE	4209
 DEFINIÇÃO DOS INSTRUMENTOS E AVALIAÇÃO AMBIENTAL	11406
 DRC's Ambassador	17809
+DUCATIF ET BÂTIR UN PLAN AMBITIEUX	18972
 DW Akademie. The AMB	13124
 Defence Minister Mr. Ambrose Lwiji Lufuma	13561
 Deporte. Ambos	16898
@@ -469,11 +483,11 @@ Divulgación Ambiental Faustino ANDA ESONO ASANGONO	16875
 E AMBIENTE O Ministro da Agricultura	12807
 E LICENÇAS AMBIENTAIS	11898
 E Ressources Site Gravillon Carrière Ambatomaro	14489,1
-EIB Vice-President Ambroise Fayolle	18507
+EIB Vice-President Ambroise Fayolle	18507,402
 ELABORAÇÃO E APROVAÇÃO DOS INSTRUMENTOS AMBIENTAIS	11390
 ESRS Sumário da Revisão Ambiental	11390
 EU Amb Paola Amadei	2669
-EU Ambassador	1963,1045,72,1215,593,3306,4962,5,9,358,511
+EU Ambassador	1963,1045,72,1215,593,3306,4962,5,9,358,511,4888
 EU Ambassador Daniel Aristi Gaztelumendi	13242
 EU Ambassador H.E. Immaculada Roca	17247
 EU Ambassador Intelmann	16848
@@ -638,9 +652,10 @@ Medio Ambiente INEGE Instituto Nacional de Estadística	16875
 Medio Ambiente ISBL Institución	16898
 Medio Ambiente MHPDE Ministerio de Hacienda	16969
 Medio Ambiente MRV Medición	16875
-Meio Ambiente	414,12393,5960,12
+Meio Ambiente	414,12393,5960,12,116,1,49,1
 Meio Ambiente PERÍODO DE SUBMISSÃO	414
 Meio Ambiente SAFE Sistema de Administração Financeira	18788
+Meio Ambiente. SAFE	18946
 Melhoria de Ambiente de Negócios	11379
 Ministerio de Medio Ambiente	6841
 Ministério de Ambiente	18794
@@ -746,12 +761,15 @@ Risco Ambiental	11390
 Risco Ambiental Moderado Disponibilidade	11898
 Riscos Ambientais	11406
 Riscos Ambientais Definidos	11898
+Roland Berger Ambition	18988
 Royal Ambassador Hotel	16971
 Rue RJB Dama-Ntsoha Ambanidia	14440
 Rwanda's AI Ambition Takes Shape	6526
 Rwanda’s AI Ambition Takes Shape	6526
+République du Tchad Primature Ambassadeur Allamaye Halina	19150
 S Ambassador To Nigeria	4301
 S F Ambassador Tiina Intelmann	16857
+SFI Ambition Indicateurs Projets	18988
 SINTAG. Ambas	9065
 SOCIAIS DO BANCO MUNDIAL Norma Ambiental	11542
 SUSTENTABILIDADE AMBIENTAL	18793
@@ -769,6 +787,7 @@ Segurança Ocupacional QAS Quadro Ambiental	11413
 Services Extérieurs Ambassade	15973
 Sets Ambitious	4917,1676
 Seychelles Ambassador	13440
+Seychelles Ambassador for Mission ShakthiSAT	19198
 Sierra Leone’s Ambassador	9344
 Sistema Nacional de Medio Ambiente	1701
 Small States Can Move Differently Ambassador	9741

@@ -1,3 +1,4 @@
+ACT ORDER IN COUNCIL	18943
 AEROPORTS DU des Ordres	17841
 AGETIC INTER ORDRE	17882
 API Integration for Recurring Debit Orders	15260
@@ -6,6 +7,7 @@ ASECNA ORDONNE	17820
 AU Executive Council Ninth Ordinary Council	16874
 Aa Order	18457
 Account Name Number of Ordinary Shares	4896
+Act. Production Order	18920
 Admin Order	14760
 Adoption Order	12216
 Advogados A Ordem	11436
@@ -76,6 +78,7 @@ Computer Misuse Provisional Order	18613
 Concessions and Fund Orders	13122
 Confédération des Etats du Sahel Ordonnance	18003
 Congrès Ordinaire du Syndicat National du Personnel	18149
+Conseil Ordinaire des Ministres	19050
 Conseil des ORDONNANCE N	17899
 Cooperación ORDEN MINISTERIAL DE FECHA	16905
 Corrective and Structural Orders	3861
@@ -107,6 +110,7 @@ Deaths and Burials Ordinance	10822,4806
 Decision. H. ORDERS	5113
 Decrees and Orders	18370
 Definitive Concession Order	10930
+Deletion Order	18920
 Delivery Order	17367
 Designation and Protection of CNII Order	10721
 Designation and Protection of CNNI Order	10721
@@ -190,6 +194,7 @@ IDEAS and Public Procurement Orders	18543
 IFMIS-generated Local Purchase Order	13122
 IIª Sessão Ordinária	17315
 INDEMNITES SUITE AUX SUSPENSIONS ORDONNEES PAR	16747
+INVESTIGATIONS AND PROCEDURES Preservation Order	18920
 IV Sessão Ordinária	4294
 IV. Recomendações da Ordem	11436
 Icyongereza. This Order	1214
@@ -328,7 +333,7 @@ ORDINATEURS PORTABLES	14287
 ORDINÁRIA13	11473
 ORDONNANCE	15507,2308
 ORDONNANCE Art	15507
-ORDONNANCE N	17815,4,2,7,46,25,104,91,2,1
+ORDONNANCE N	17815,4,2,7,46,25,104,91,2,1,804
 ORDONNANCES	436,17383,40
 ORDONNANCES Ces	18003
 ORDONNANCES Décret	17899
@@ -336,7 +341,7 @@ ORDONNANCES Le Premier	17828
 ORDONNANCES Loi	17831,16,16
 ORDONNANCES-DECRETS	18003
 ORDONNANCES-DECRETS-ARRETES	17899
-ORDONNE	11580,3839,179,673,2,1546,1,1,7,46,25,104,94
+ORDONNE	11580,3839,179,673,2,1546,1,1,7,46,25,104,94,804
 ORDONNE Titre	16370
 OSR Presidential Order Nº	13418
 Occupation Orders and Tenancy Orders. The Industrial	14742
@@ -348,7 +353,7 @@ Orda Africa	5690
 Ordalie Ilona Venise	16177
 Ordem	966,3181,1022,6189,2,21,54,1,98,6,361,3458,37,44,37,1626,1669,53
 Ordem Económica	18751
-Ordem Interna	539,255,8464,2178,19,7305
+Ordem Interna	539,255,8464,2178,19,7305,135,1
 Ordem Interna da Administração Central	794
 Ordem Interna. Artigo	794
 Ordem Interna. CAPÍTULO IV TRATAMENTO	794
@@ -413,7 +418,7 @@ Ordens	10755,631,4054
 Ordens Executivas de Trump	2816
 Ordens Profissionais	11383
 Ordens de Transferência	10755
-Order	3,23,935,253,630,75,807,1,43,235,709,11,75,87,726,283,1400,127,499,526,46,1154,240,95,64,183,247,836,47,46,369,66,165,1,124,3,47,9,274,190,21,182,7,13,48,137,261,136,72,1,3,11,2,1,13,13,54,1,263,215,205,74,31,108,65,893,19,211,1,4,23,67,32,20,1,8,48,184,75,216,1204,239,42,105,10,13,237,37,838,36,32,250,1,14,6,2,73,24,42,15
+Order	3,23,935,253,630,75,807,1,43,235,709,11,75,87,726,283,1400,127,499,526,46,1154,240,95,64,183,247,836,47,46,369,66,165,1,124,3,47,9,274,190,21,182,7,13,48,137,261,136,72,1,3,11,2,1,13,13,54,1,263,215,205,74,31,108,65,893,19,211,1,4,23,67,32,20,1,8,48,184,75,216,1204,239,42,105,10,13,237,37,838,36,32,250,1,14,6,2,73,24,42,15,330,5,101,70
 Order Article	1214
 Order Balance	11131,3
 Order Book	18436
@@ -459,6 +464,7 @@ Orderly Settlement	13474
 Orderly and Regular Migration	9838,4201,2835,418
 Orders	573,2588,146,273,281,749,4886,239,672,783,872,876,653,1151,127,10,28,486,2793,31,218,1,120
 Orders Electricity Market	12062
+Orders First Schedule NATIONAL ASSEMBLY ADMINISTRATION	19161
 Orders ORDERS	18436
 Orders Put Super One Industries	14969
 Orders Trial	17069
@@ -496,7 +502,7 @@ Ordinary Passport	12164,4673
 Ordinary Resolution	585,8281
 Ordinary Resolutions III	9505
 Ordinary Revenue	2775
-Ordinary Session	961,282,354,217,3062,282,667,261,402,654,310,110,321,1,308,49,244,160,158,745,1271,1008,779,1067,328,127,10,11,1,574,917,405,388,63,454,794,729
+Ordinary Session	961,282,354,217,3062,282,667,261,402,654,310,110,321,1,308,49,244,160,158,745,1271,1008,779,1067,328,127,10,11,1,574,917,405,388,63,454,794,729,593
 Ordinary Shares	7198
 Ordinary Shares. If the Merger	7198
 Ordinary Summit	3738,3714,2872,1840,476
@@ -507,7 +513,7 @@ Ordinateur	10546,2744,16,35,34,1048,1214,2377,190,108
 Ordinateur GUECE Guichet Unique	13341
 Ordinateur HD Hôpital de District HL7 Health	13306
 Ordinateur Téléphone	16644
-Ordinateurs	7355,6020,255,1961,1043,1190,253,209
+Ordinateurs	7355,6020,255,1961,1043,1190,253,209,878
 Ordinateurs Fixes	18297
 Ordinator	11860
 Ordinário	15955
@@ -516,10 +522,10 @@ Ordnance Survey	6516,5853
 Ordnance Survey Blog. Prichard	12369
 Ordnance Survey. Note	12369
 Ordon	18065
-Ordonnance	37,511,774,1,1,324,416,1,1,5404,447,3004,755,1615,10,132,9,235,741,61,391,483,29,37,88,35,27,15,14,4,108,226,32,31,38,166,167,265,10,6,1161,5,2,1,1,3,3,1,1,3,1,8,1,5,14,3,10,8,7,10,1,45,25,12,9,12,29,62,24,1,3,60
+Ordonnance	37,511,774,1,1,324,416,1,1,5404,447,3004,755,1615,10,132,9,235,741,61,391,483,29,37,88,35,27,15,14,4,108,226,32,31,38,166,167,265,10,6,1161,5,2,1,1,3,3,1,1,3,1,8,1,5,14,3,10,8,7,10,1,45,25,12,9,12,29,62,24,1,3,60,719,1,14,10,46,78,37
 Ordonnance 2017-500 02 ao	15419
 Ordonnance Ministérielle	13519
-Ordonnance N	548,3251,1171,2500,4110,4198,425,68,2,1541,3,2,22,41,215,8,17
+Ordonnance N	548,3251,1171,2500,4110,4198,425,68,2,1541,3,2,22,41,215,8,17,779,25,46,80,40,109
 Ordonnance du President	15584
 Ordonnance du Presidentde	15584
 Ordonnance du Président	11932,3482
@@ -528,7 +534,7 @@ Ordonnance-Loi N	7470
 Ordonnance-loi	7470,1214,6863,37,619,167
 Ordonnance. Article	16370,1727
 Ordonnancement des Dépenses Publiques	18301
-Ordonnances	10960,2467,233,1884,98,2178
+Ordonnances	10960,2467,233,1884,98,2178,1081
 Ordonnances Lois	15642
 Ordonnances Ministérielle	13519
 Ordonnances N	16612
@@ -539,7 +545,7 @@ Ordonnateurs	10876,4693
 Ordonne	15405
 Ordonner	17006
 Ordonriance	15584
-Ordre	436,301,1629,4090,555,659,173,393,1,562,425,63,55,138,1356,39,683,1732,44,71,1024,15,93,824,81,1,141,19,32,134,230,48,438,51,99,850,334,22,16,25,17,50,33,9,56,54,18,24,26,1,72,82,71
+Ordre	436,301,1629,4090,555,659,173,393,1,562,425,63,55,138,1356,39,683,1732,44,71,1024,15,93,824,81,1,141,19,32,134,230,48,438,51,99,850,334,22,16,25,17,50,33,9,56,54,18,24,26,1,72,82,71,521,85
 Ordre Digital	557
 Ordre Intérieur	13334
 Ordre Intérieur Article	15027
@@ -638,7 +644,7 @@ Polícia da Ordem Pública	11540
 Polícia de Ordem Pública	11527
 Post-Multilateral Order	5141
 Potential Impact of LTA Price Order	16876
-Preservation Order	14727
+Preservation Order	14727,4193
 President Boakai Issues Landmark Executive Order	17280
 President Boakai's Executive Order	3071
 President Executive Order No	17394
@@ -666,12 +672,13 @@ Principaux Textes Appliqués Ordonnance Ministérielle	13499
 Prison Standing Orders	14742
 Prisons Ordinance Act	18477
 Process Service Order Connection Uses	9124
-Production Order	26
+Production Order	26,18894
 Projecto Nacional de Ordenamento	18760
 Protection Orders	14742
 Protocole Ordonnance	18003
 Provisional Order	18613
 Proyecto de Ley de Ordenanzas Militares	17224
+Public Holiday Order	19049
 Public Order	14830,3621
 Public Order Act	10216,8235,4
 Public Order and Safety	13093
@@ -814,6 +821,7 @@ Unexplained Wealth Order	14809
 United States Executive Orders	11135
 Urgent Order	11877
 Use of Languages. Standing Orders. Minutes. Committees	18467
+V. Overflight and Order-to-Land Operations and Procedures	18914
 VIA E-FILING. IN ORDER TO USE	11240
 Valuation Bookshop Order WCO	13051
 Variation of Directions and Orders	17243

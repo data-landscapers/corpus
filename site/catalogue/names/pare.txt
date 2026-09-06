@@ -41,6 +41,8 @@ E AUTRE PARENT	13300
 E PARENT	13300
 E- Parent F- Listening	582
 ECD Parenting	16852
+Education de Base du Tchad PTA Parent-Teacher Association	18911
+Elèves APE Association des Parents	18911
 Foster Parent	11180
 Foster Parent Grant	12373
 Foster Parents Grant Disability Grants	12373
@@ -97,7 +99,7 @@ Parecer	10783,590
 Parecer Prévio da Agência de Protecção de Dados	11363
 Pareil	5022,5233
 Pareja	10775
-Parent	582,702,354,2447,811,2302,1741,2241,1297,1000,1661,1740,249,1471
+Parent	582,702,354,2447,811,2302,1741,2241,1297,1000,1661,1740,249,1471,443,4
 Parent Company	12445
 Parent Disciplines	18461
 Parent F340901	816
@@ -123,6 +125,7 @@ Parent and Holdings	7198
 Parent-Teacher	15661
 Parent-Teacher Association RF Results Framework RPC	15661
 Parent-Teacher Associations	8588
+Parent-friendly	19045
 Parent-in-law	582
 Parent-line	2132,2323
 ParentLearnerRelationship Describes	11180
@@ -137,7 +140,7 @@ Parental Empowerment and Engagement	899
 Parenteral	15206
 Parenting	2757,12078
 Parenting URSB	2757
-Parents	899,262,416,343,2468,1011,600,1474,1665,656,359,675,151,201,680,45,72,190,50,74,47,29,16,19,38,366,310,171,13,381,267,530,177,97,87,96,5,664,279,646,323,275,220,229,406,143,336,137,104
+Parents	899,262,416,343,2468,1011,600,1474,1665,656,359,675,151,201,680,45,72,190,50,74,47,29,16,19,38,366,310,171,13,381,267,530,177,97,87,96,5,664,279,646,323,275,220,229,406,143,336,137,104,339,4
 Parents Paires	13442
 Parents and Caregivers	899,7151
 Parents and Caregivers Focus Group Discussion	899

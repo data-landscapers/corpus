@@ -7,6 +7,7 @@ Focal Point for WMO	18787
 ICAO and WMO	18128
 INFORMATION SUPPLIED THROUGH WMO	18787
 Libya National Meteorological Service WMO Member	16956
+OGC WMS Interface Standard	18904
 Quality Monitoring System WIGOS WMO Integrated	18578
 Reference ID SDN 2025 WMS-R4 v01 M DOI	15024
 SDN 2025 WMS-R4 v01 M Title Welfare Monitoring Survey Round	15024
@@ -76,6 +77,7 @@ WMO. The World Bank	17962
 WMP Waste Management Plan ZDA Zambia	1988
 WMS TITAN O IL Avis	18322
 WMS TITAN OIL SA	18322
+WMS Web Map Service	18904
 WMoonrledtaInrtyeFlleucntdual Property Organization	11884,321
 Weather Prediction WIGOS WMO Global Observing	11553
 Wma Description	15129

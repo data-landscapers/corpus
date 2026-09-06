@@ -155,6 +155,7 @@ CAB Central African Backbone CAPI Computer-Assisted	18777
 CAF Caisse des Affaires CAR Capital Adequacy	15023
 CAP CAPI CENA CFP-STAT CNPM CO	17978
 CAPEX Capital	12911
+CAPEX Capital Expenditure CAR Central African	18931
 CAPEX Capital Expenditure CCDR Climate Change	15659
 CAPEX Capital Expenditure CD Compact Disc	6432
 CAPEX Capital Expenditures CE Citizen Engagement	15621
@@ -283,7 +284,7 @@ Capacity and Human Capital Development	7547,1,7116
 Capacity and Human Capital Development Policy Objective	7548
 Capacity and Human Capital Development Policy Statement	7548
 Capit	15780
-Capita	10775,1082,66,268,204,1229,4246
+Capita	10775,1082,66,268,204,1229,4246,1017
 Capita Grant	13420
 Capita Grant Finding	13420
 Capita N390	11857
@@ -330,7 +331,7 @@ Capitaine de Vaisseaux Cheikh Lahmoud Hemetti Commandant	17895
 Capitaines	15524,576
 Capitais Maioritariamente Públicos	10783
 Capitais Próprios	18793
-Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,156,26,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181,100,71,32,38,10,83,63,52,59,176,302,164,33,120,436,79,23,15,8,84,23,9,1,17,16,26,75,182,212,35,30,9,8,20,60,5,46,11,20,25,32,28,18,6,42,62,57,4,137,43,11,166,8,93,46,12,31,171,14,201,30,70,2,25,6,21,109,88,42,1,21,59,1,168,18,353,53,4,70,7,296,5,159,33,17,56,46,155,94
+Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,156,26,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181,100,71,32,38,10,83,63,52,59,176,302,164,33,120,436,79,23,15,8,84,23,9,1,17,16,26,75,182,212,35,30,9,8,20,60,5,46,11,20,25,32,28,18,6,42,62,57,4,137,43,11,166,8,93,46,12,31,171,14,201,30,70,2,25,6,21,109,88,42,1,21,59,1,168,18,353,53,4,70,7,296,5,159,33,17,56,46,155,94,295
 Capital Account	17235
 Capital Account Overall Balance	17990
 Capital Accounts	17236
@@ -341,6 +342,7 @@ Capital Adequacy Ratio for Banks	15023
 Capital Adequacy Ratio for MFIs	15023
 Capital Adequacy Ratios	15023,2213
 Capital Adequacy Requirements	12365
+Capital Adequacy and Solvency	18952
 Capital Agenda	15059
 Capital Application	10762
 Capital Article	15102
@@ -352,7 +354,7 @@ Capital Budget	11136
 Capital Budgeting	18577
 Capital CAPEX	18509
 Capital CMS Content Management System CSS	236
-Capital City	12253,38,875,782,4537
+Capital City	12253,38,875,782,4537,402
 Capital City Lilongwe	12953,52
 Capital Construction	15604
 Capital Culture Infrastructure	16942
@@ -504,6 +506,7 @@ Capital Requirement	16878
 Capital Rwanda. Article	15102
 Capital Social	1701,11886,1,2512,759
 Capital Social Dbs	18793
+Capital Social Seis	18896
 Capital Strategies Kenya Limited Data Controller	7167
 Capital Strategies Kenya Limited Data Processor	7167
 Capital Structure Prior	4896
@@ -539,12 +542,12 @@ CapitalFM	899
 CapitalInvestment	16833
 CapitalPay Ltd	14329
 CapitalSage	6290
-Capitale	2327,12087,232,216,1,519
+Capitale	2327,12087,232,216,1,519,3766
 Capitale Economique	13364
 Capitale Politique du Burundi	13445
 Capitales Provinciales	4209
 Capitalethiopia News In Brief	10025
-Capitalisation	3714,6998,2594,5,1976,750,399,192,1232
+Capitalisation	3714,6998,2594,5,1976,750,399,192,1232,1040,88,135
 Capitalise SEPs	958
 Capitalise SOEs	958
 Capitalised	11995,3906
@@ -584,7 +587,7 @@ Capitol Diamond Sorage and Auction Yard Data	7167
 Capitol Hill	12917,143,4331
 Capitulate	11036
 Capitulo	2228,16540
-Capitulo II	2228
+Capitulo II	2228,16668
 Capitulo II Competências da AGER Artigo	18752
 Capitulo III	2228,16540
 Capitulo III Artigo	18752
@@ -606,6 +609,7 @@ Comisario Jefe Superior Capitán de Corbeta Comandante	4209
 Comisario Principal Capitán Capitán Infantería Comandante	4209
 Commissariat Capitaine	15524
 Compact Private Capital Mobilization Public Private	11468
+Compensation of Employees Use of Goods and Services Capital	19042
 Compilation of Detailed Capital Project Data	18488
 Comptes. REPARTITION DU CAPITAL	2342
 Conduct of Capital Project Analysis The World	18577
@@ -790,6 +794,7 @@ GARANTIE DE TRANSFERT DES CAPITAUX ET	17898
 GARDE REPUBLICAINE Capitaines	15744
 GDP PER CAPITA	11586
 GDP Per Capita	17503
+GDP Per Capita Data	18931
 GENDARMERIE Capitaines	16100
 GENERAL CAPITALES DE PROVINCIAS CAPITALES	4209
 GENERAL CAPITALES DE REGIONES CAPITALES	4209
@@ -824,7 +829,7 @@ Gross Capital Formation	236
 Gross Capital Provider Buildings Equipment Office	236
 Gross Domestic Product Per Capita	8950
 Gross Fixed Capital Fomation	18483
-Gross Fixed Capital Formation	2775,12055,2166
+Gross Fixed Capital Formation	2775,12055,2166,2042
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
 Gross Fixed Capital Formation. LNG	16996
@@ -889,7 +894,7 @@ Human Capital Development. The Ministry of Agriculture	18496
 Human Capital Education Innovation Science	12512
 Human Capital Formation	10768
 Human Capital Government	16996
-Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4
+Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4,473
 Human Capital Index Australia	15634
 Human Capital Index Hands-on Expanded Implementation	15553
 Human Capital Index Report	15447
@@ -1001,6 +1006,7 @@ Kenya’s Capital Markets Authority	10653
 Kestrel Capital	8624
 Kestrel Capital and AfricInvest	4978
 Key Capitals Supporting the Financial Stability Function	11134
+Kilometers PREFECTURE CAPITALS AM	18887
 Knife Capital	1134
 Knife Capital Fund III	1134
 Knife Capital Fund III Mastercard Foundation	1134
@@ -1099,9 +1105,11 @@ Monter Capital	12376
 Monty Mobile BluePeak Private Capital Fund	9611
 Moroccan Capital Market Authority	6938
 Motor Capital	236
+Moundou Ba PREFECTURE CAPITALS OCC. Doba	18887
 Movement of Capital ARTICLE	14409
 Movement of Capital The Partner States	14409
 Mwango Capital	6231,973
+NATIONAL CAPITAL	18887
 NBS Capital Importation Report TECHCABAL Industry	5055
 NJJ Capital	241
 National Capital	15340
@@ -1306,6 +1314,7 @@ Sarlu Capital	15615
 Science Diplomacy Capital for Africa	11210
 Seed Capital	11863
 Seed Capital Grant Agreements	16144
+Seed Capital Grant Scheme	19137,1
 Seedstars Africa Ventures and Taru Capital. Funds	810
 Seedstars Africa Ventures and Taru Capital. Subject	810
 Sequoia Capital	5482
@@ -1375,6 +1384,7 @@ TLcom Capital.' TLcom	399
 TSM E CAPITAL HUMANO	11406
 TT Capital	12138
 Tackling Psychosocial and Capital Constraints	18301
+Tchad. Capitalisant	18942
 Tech Capital	3598
 Tech Venture Capital Belgian Investment Company	454
 Technical Human Capital	12453

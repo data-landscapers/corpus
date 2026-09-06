@@ -23,8 +23,10 @@ Audition de Monsieur	8891
 Audition de Monsieur Hassan Tariq	8891
 Audition de Monsieur Mustapha	8891
 Bamako de Monsieur Bamako	17817
+Budget Monsieur TAHIR HAMID NGUILIN	18906
 CEEAC Monsieur Guichard TSANGOU WANVOUKISSA	17625
 CESE Audition de Monsieur Hassan Tariq	8891
+CHEF DU GOUVERNEMENT Monsieur le Président	18972
 CNEDOGE DG Teodomiro Monsuy Eyi	2683
 CNEDOGE Director General Teodomiro Monsuy Eyi	2683
 Chambre des Métiers Monsieur Soufiyanou IMOROU Personnalité	16485
@@ -67,6 +69,7 @@ Finances Directeur de Cabinet Monsieur Alastaire ALINSATO	16485
 Finances Monsieur Mamane Laouali Abdou Rafa	18229
 Formation Professionnelle du Togo. Monsieur Makha Ndao	17830
 Gouvernement. Pour Monsieur Hermann Orou TAKOU	15582
+HYDROCARBURES Monsieur le Président	18972
 Haut Conseiller Monsieur MBALO Ranaivo Fidèle	14459
 Haut Conseiller Monsieur RASOLO Nandrasana Georges	14459,41,110
 Haut Conseiller Monsieur TIANDRAZANA Jaobe Hilton	14416
@@ -178,6 +181,7 @@ Monsieur Adama SY	17829
 Monsieur Ademonkoun MISSINHOUN	17961
 Monsieur Adji Ali Salatou	18235,17
 Monsieur Adnane FAOUZI	7620
+Monsieur Adoum Djimet Saboun	19065
 Monsieur Adémola Jules ADEGNANDJOU	17584
 Monsieur Agaly AG AGUISSA	17991
 Monsieur Agblulu Latevi Massi LAWSON Adjoint	10237
@@ -187,6 +191,7 @@ Monsieur Ahissou Jérôme HOUNDJENOUKON Tribunal	17584
 Monsieur Ahmadou FANE	8237
 Monsieur Ahmadou Halassi DICKO	17829
 Monsieur Ahmadou Zakaria TRAORE	17830
+Monsieur Ahmat Abderahim Abbo	18926
 Monsieur Ahmed Mahamad	18116
 Monsieur Ahmed Mohamed YAHYA	17829,153
 Monsieur Ahmed Salem Bede	17924
@@ -490,6 +495,7 @@ Monsieur Fortunet Alain NOUATIN	16485
 Monsieur Fouseyni DIARRA	17827
 Monsieur Fousseyni SAMAKE	17861
 Monsieur Franck BOKAMBA NDOMBI ATABI	16175
+Monsieur Franck Lebeugle	19095
 Monsieur Francois OUENAM	16328
 Monsieur François BEKPON	17584
 Monsieur François Fayiri Mara	11725
@@ -558,6 +564,7 @@ Monsieur Hervé Coovi GUEDEGBE	16314
 Monsieur Hervé NDOBA COORDINATION	16328
 Monsieur Hilaire Bebian DIARRA	17982
 Monsieur Hinna Mahamar HAIDARA	17861
+Monsieur Hissein Issa Rozi	19051
 Monsieur Hodogbé Paulin AHOUANDOGBO	17584
 Monsieur Honorat GBONDJINON Au	17584
 Monsieur Houénoumadji ADO Membre	16485
@@ -688,6 +695,7 @@ Monsieur Léon Juste Ibombo	15901
 Monsieur Léonard SAWADOGO	17830
 Monsieur Léonidas Ndaruzaniye	13511
 Monsieur M. SHEN Haixiong	15605
+Monsieur MAHAMAT ZENE BADA. Par Décret	19052
 Monsieur MAHOUNGOU NKAYA Alain Destin	15786
 Monsieur MANKENDA CONGO RACINES ET AVENIR	16425
 Monsieur MBEDI	15780
@@ -867,6 +875,7 @@ Monsieur N’Bégué KONE	8237
 Monsieur N’Golo SANGARE	17812
 Monsieur ONDZIA	15558
 Monsieur OUMAR Ouattara	16323
+Monsieur OUS	18926
 Monsieur OUSSOUFA Abdou El Madjid	743
 Monsieur Ogotémélou DOLO	17991
 Monsieur Olagoké Arouna LAWANI Membre	16485
@@ -887,6 +896,7 @@ Monsieur Oumar OULD MED MAOULOUD	18032
 Monsieur Oumar SANKARE	17829
 Monsieur Oumar TRAORE	17812,17
 Monsieur Oumarou SANOU	16287
+Monsieur Ousman Ali Gabdjaya. Ouvertes	19051
 Monsieur Ousmane AG ALMAHMOUD. Article	18032
 Monsieur Ousmane DAOU	17991
 Monsieur Ousmane KORNIO	17982
@@ -1032,6 +1042,7 @@ Monsieur TAHIR HAMID NGUILIN	16270
 Monsieur TCHICAYA M. TABAKA	15780
 Monsieur TCHINDA TAZO Simplice	16499
 Monsieur TOKELY Justin	14492
+Monsieur TOM ERDIMI	19037
 Monsieur TSONO NDZALE	15558
 Monsieur Tadjou N’Dine BOBA N’GBON Tribunal	17584
 Monsieur Takanari KAKUDA	8321
@@ -1066,6 +1077,7 @@ Monsieur WANG WENTAO	15605
 Monsieur Wafi OUGADEYE	17861
 Monsieur Waly Diouf BODIANG	18412
 Monsieur Wayiouba SAWADOGO	15942
+Monsieur Welba Djaokamla	19051
 Monsieur Wendkouni Dieudonné SABA	16117
 Monsieur Wilfried GANDAHO Au	17584
 Monsieur Wilfried P. HOUEDOKOU Au	17584
@@ -1113,12 +1125,13 @@ Monsieur le Coordonnateur	7977
 Monsieur le Coordonnateur du PRODIGY	14578
 Monsieur le DG. Nous	3849
 Monsieur le Directeur	5123,2591,7685,2940
-Monsieur le Directeur Général	13390,2495,761,1424
+Monsieur le Directeur Général	13390,2495,761,1424,917
 Monsieur le Directeur Régional du Département	15399
 Monsieur le Directeur de Cabinet	7470
 Monsieur le Directeur de Cabinet de Son Excellence Monsieur	7470
 Monsieur le Gouverneur	11522,1945,2016
 Monsieur le Général	4838
+Monsieur le Maire	18987
 Monsieur le Ministre	2582,8265,304,479,2262,1676,405,39,695,742,454,62,48,157
 Monsieur le Ministre Directeur de Cabinet	16620
 Monsieur le Ministre Jean-Baptiste ONDAYE	15901
@@ -1132,9 +1145,10 @@ Monsieur le Ministre du Plan	16678
 Monsieur le Ministre. Cette	16746
 Monsieur le Ministre. Dr. Diaka Sidibé	16711
 Monsieur le Premier	15854
-Monsieur le Premier Ministre	9637,1,6978,4,65,22
+Monsieur le Premier Ministre	9637,1,6978,4,65,22,2280
 Monsieur le Premier Ministre Mesdames	16620
-Monsieur le Président	2582,113,661,7465,318,12,4248,169,117,169,637,129,8,1711
+Monsieur le Président	2582,113,661,7465,318,12,4248,169,117,169,637,129,8,1711,633,15
+Monsieur le Président du Sénat	18987
 Monsieur le Recteur	15682
 Monsieur le Secrétaire	16491
 Monsieur le Secrétaire Général	16414
@@ -1226,4 +1240,5 @@ Union. Allocution de Monsieur Cheikh DIBA	15837
 Union. Monsieur Mahamane Alassane Touré	8316
 West African Monsoon	17114,1464
 ZRA News MOBILE MONSTER CONVICTED	12454
+Zakouma Mot de Monsieur le Président	18988
 Zambia Excellence Monsieur Floribert Anzuluni Isiloketshi	13440

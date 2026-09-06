@@ -205,6 +205,7 @@ Centre de Formation Informatique du CIRAS	15553
 Centre de Formation des Collectivités	17991
 Centre of Formalization of Businesses	11546
 Centres de Formation	16381
+Centres de Formation Technique	18884,88,200
 Centro Nacional de Formação Administrativa	11516
 Centro de Formación Estadístico CNE	16898
 Centro de Formación Estadístico Existencia	16898
@@ -235,6 +236,7 @@ Chad Forms Committee	6002
 Change of Address Forms	11129
 Checklist Format	15080
 Chengeto Moyo. FORM OF ELECTION	4896
+Chercheurs Formés	19039
 Chiefdom Consent Form	18538
 Choose the Format	12675
 Ciclo de Formación	16920
@@ -313,6 +315,9 @@ DES FORMALITES NECESSAIRES AU TRAITEMENT DES	18119
 DES FORMATIONS DISPENSEES PAR L’ECOLE	15395
 DES FORMATIONS ET DE L'ÉDUCATION AUX	13781
 DES METIERS ET LA FORMATION PROFESSIONNELLE	13478
+DES STRUCTURES FORMELLES Article	18884
+DES STRUCTURES FORMELLES Chapitre	18884
+DES STRUCTURES NON FORMELLES ET INFORMELLES	18884
 DESENVOLVIMENTO DE CAPACIDADES E FORMAÇÃO	11406
 DGI Formation	10712
 DGIS Formaçã	15694
@@ -326,10 +331,13 @@ DONNEES DE FORMES INDETERMINEES DÉFINITION DES	18170
 DUCATION NON FORMELLE IFAC INSTUTUT	18170
 DUCATION NON FORMELLE IIM INSTITUT INTERNATIONAL	18143
 Da Forma	11514
+Dandi Formation	18928
 Dashboard Formação	12021
 Data Breach Notification Form	1877
+Data Format	18904
 Data Format Standards Service	11952
 Data Formatting	16947
+Data Request Form	18904
 Data Sharing Application Form	3815
 Data Update Form	15811
 Data-Driven Policy Formulation	11970
@@ -337,6 +345,8 @@ Date Signature Summary Form	14713
 Date Signature Summary Form B	14713
 Date Signature Summary Form C	14713
 Date Signature Summary Form D	14713
+De la Formation Professionnelle Article	18884
+De la Formation Professionnelle SOUS TITRE II	18884
 Death Certificate Form	14045
 Death Registration Forms Appendix A1	12151
 Dec-2022 Formally Revised Target	15601
@@ -471,6 +481,7 @@ FORM F-3 ASSIGNMENTS OF SIMILAR NATURE	13031
 FORM F-4 Cost Estimate of Services1 Remuneration	13031
 FORM FOR RENEWAL OF INSCRIPTION	14713
 FORM HMIS	2709
+FORM L.R.8	18881
 FORM OF COMMUNICATIONS	15149
 FORM OF COMMUNICATIONS All	15149
 FORM OF ELECTION	4896
@@ -559,6 +570,7 @@ FORMER Lesotho Communications Authority	11053
 FORMES DE VIOLENCE CONJUGALE Violence	13300
 FORMINVEST	16290
 FORMOTEROL	15930
+FORMS FORM L.R.1 THE LAND REGISTRATION	18881
 FORMULAIRE DE DEMANDE D’AUTORISATION	14537
 FORMULAIRE DE RECEPTION DE LA PLAINTE	15908
 FORMULAIRE D’ENREGISTREMENT DES PLAINTES RELATIVES AUX	15908
@@ -578,7 +590,7 @@ FRAIS DE FORMATION Art	15732
 Family Formation Choices	17127
 Fase de Avaliação Global da Reforma Educativa Formação	10766
 Feedback Form	7590
-File Format	3972,11260
+File Format	3972,11260,3848
 FinSurv Division’s Form G	11134
 FinTechs Format	16545
 Financial Bid Form	7368
@@ -638,6 +650,25 @@ Form IV	13307
 Form J	12349,900,5292
 Form K	18541
 Form L	18541
+Form L.R.10	18881
+Form L.R.11	18881
+Form L.R.12	18881
+Form L.R.13	18881
+Form L.R.14	18881
+Form L.R.15	18881
+Form L.R.16	18881
+Form L.R.17	18881
+Form L.R.18	18881
+Form L.R.19	18881
+Form L.R.2	18881
+Form L.R.20	18881
+Form L.R.21	18881
+Form L.R.3	18881
+Form L.R.4	18881
+Form L.R.5	18881
+Form L.R.6	18881
+Form L.R.7	18881
+Form L.R.9	18881
 Form M	18541
 Form M&E	13991
 Form N	18541
@@ -706,7 +737,7 @@ Form-V	18543
 Form-VI	18543
 Form-factor Pluggable SFP	13185
 Form-feed	10718,3
-Forma	167,382,4620,5597,592,30,61,69,793,464,2605,174,1305,1892,2,2
+Forma	167,382,4620,5597,592,30,61,69,793,464,2605,174,1305,1892,2,2,141
 Forma Electrónica	11374
 Forma Eletrónica Artigo	15477
 Forma Jurídica	10753,6106,1916
@@ -744,7 +775,7 @@ Formación de Formadores	17409
 Formación de Recursos Humanos	4209
 Formadora	17308
 Formadores	15359
-Formal	418,522,21,48,815,269,682,808,131,718,96,585,815,286,618,116,199,131,270,215,134,124,1,160,110,84,252,501,93,15,379,1177,147,23,1,12,1,3,153,5,18,24,116,578,31,89,220,32,51,49,10,27,26,36,67,583,219,17,148,955,343,220,88,45,34,178,30,39,62,671,401,69,234,115,74,59,3,15,2,23,110,621,423,143,28,6,295
+Formal	418,522,21,48,815,269,682,808,131,718,96,585,815,286,618,116,199,131,270,215,134,124,1,160,110,84,252,501,93,15,379,1177,147,23,1,12,1,3,153,5,18,24,116,578,31,89,220,32,51,49,10,27,26,36,67,583,219,17,148,955,343,220,88,45,34,178,30,39,62,671,401,69,234,115,74,59,3,15,2,23,110,621,423,143,28,6,295,166
 Formal AI-specific	8301
 Formal Account Ownership	11138
 Formal Amendment Pathways	3861
@@ -852,10 +883,11 @@ Formally	418,4547,2742,3300,1402,983,1426,2298,144,483
 Formally Revised Actual Achieved	15663
 Formally Revised Target	15601
 Formalmente	11543
-Formant	17856
+Formant	17856,1132
 Formar	1701,7857,1818,73,7311
 Formar Parcerias Público-Privadas	15689
 Formas	13,5156,5591,17,581,4038,44,3311
+Formas Presta	18896
 Formas de Casos de TB	18768
 Formas de Comportamentos Controladores	10777
 Formas de Discriminação	11562
@@ -884,7 +916,7 @@ Format. Issuing Authority Personnel Title	14045
 Format1-day	18039
 Formatação	18801
 Formateur	18249
-Formation	28,207,408,105,960,634,624,154,276,318,174,514,1269,990,166,358,32,417,21,72,42,74,135,291,185,301,136,111,268,543,1,897,110,53,1,69,31,49,155,418,33,277,9,2,26,575,13,376,11,11,357,3,10,1,5,35,34,58,9,57,118,72,13,8,150,12,22,6,381,142,1,1,37,26,1,1,47,824,8,2,5,40,6,2,23,25,3,4,9,1,4,3,4,12,17,12,27,17,10,4,40,11,20,3,12,27,3,46,16,71,15,73,25,4,2,34,11,8,27,51,77,20,1,9,43,2,78,53,12,37,3,18,34,27,23,11,32,15,12,23,5,1,28,45,7,12,113,124,120,359,6,136,239,6,1,6,5,1,3,1,7,3,4,3,10,8,1,6,11,3,39,4,1,3,23,6,4,60,35,4,18,1,5,13,3,17,5,27,116,5,5,10,4,2,7,3,17,7,66,144,41
+Formation	28,207,408,105,960,634,624,154,276,318,174,514,1269,990,166,358,32,417,21,72,42,74,135,291,185,301,136,111,268,543,1,897,110,53,1,69,31,49,155,418,33,277,9,2,26,575,13,376,11,11,357,3,10,1,5,35,34,58,9,57,118,72,13,8,150,12,22,6,381,142,1,1,37,26,1,1,47,824,8,2,5,40,6,2,23,25,3,4,9,1,4,3,4,12,17,12,27,17,10,4,40,11,20,3,12,27,3,46,16,71,15,73,25,4,2,34,11,8,27,51,77,20,1,9,43,2,78,53,12,37,3,18,34,27,23,11,32,15,12,23,5,1,28,45,7,12,113,124,120,359,6,136,239,6,1,6,5,1,3,1,7,3,4,3,10,8,1,6,11,3,39,4,1,3,23,6,4,60,35,4,18,1,5,13,3,17,5,27,116,5,5,10,4,2,7,3,17,7,66,144,41,287,42,2,14,181,11,53
 Formation Ahmadou Abdoulaye DIALLO Professionnelle	17817
 Formation Amadou Toumani TOURE Professionnelle	17817
 Formation Article	15371,5
@@ -909,6 +941,7 @@ Formation Formation FoCrmTSati6on CEDFCoIr	15936
 Formation GFS Government Finance Statistics GFSM	14777
 Formation GHz Gigahertz GIS Geographic Information	2775
 Formation Ie Ministre du Numérique	15489
+Formation Implication	19002
 Formation Initiale FF	15673
 Formation Le CTS	15936
 Formation Le P-TECH	17473
@@ -923,7 +956,7 @@ Formation Patriotique	13442
 Formation Pratique	17841
 Formation Profes	16381
 Formation Professionnel	18286
-Formation Professionnelle	643,2753,4530,965,2073,2888,19,13,7,1,638,846,88,10,15,7,37,9,394,37,202,148,58,235,10,15,21,51,735,136,228,5,6,7,257,64,18
+Formation Professionnelle	643,2753,4530,965,2073,2888,19,13,7,1,638,846,88,10,15,7,37,9,394,37,202,148,58,235,10,15,21,51,735,136,228,5,6,7,257,64,18,868,97,38,4
 Formation Professionnelle Camélia NTOUTOUME LECLERCQ	15778
 Formation Professionnelle Direction des Etudes	17844
 Formation Professionnelle MENRSE Ministère	17885
@@ -931,15 +964,18 @@ Formation Professionnelle URL	16662
 Formation Professionnelle du Togo. Monsieur Makha Ndao	17830
 Formation Professionnelle. Après	17978
 Formation Professionnelle. Ce	16381
+Formation Professionnelle. Dr Mahamat Ahmat Allabo	19164
 Formation Professionnelle. Elle	17830
+Formation Programmes	19189
 Formation Qualifiante	11905,3588,87
 Formation Réutilisation Publication	748
 Formation SPSS	17842
 Formation Sanitaire Privée GAVI	15475
 Formation Supérieure	18169
-Formation Technique	10611,2831,1845,192,194,862,1049,231
+Formation Technique	10611,2831,1845,192,194,862,1049,231,1069,288
 Formation URL	16451
 Formation WURI	15639
+Formation de Chercheurs	19039
 Formation des Adultes	18286
 Formation des Cadres	17442,373
 Formation des Chefs de INSTAT	17842
@@ -953,7 +989,7 @@ Formation. Ces	13341
 Formation. Cette	16196
 FormationNumérique	14186
 Formationprofessionnelle	15489
-Formations	748,6079,1729,2320,99,2366,408,676,17,965,263,266,705,33,910,269,112,153,4,200,7
+Formations	748,6079,1729,2320,99,2366,408,676,17,965,263,266,705,33,910,269,112,153,4,200,7,573
 Formations Appels	18079
 Formations Formations	15407
 Formations Sanitaires	15599
@@ -972,11 +1008,12 @@ Formats	1984,2230,6778,4603,339
 Formats Fingerprint Data	13005
 Formatted	512,3349,13086
 Formatting	16963
-Formação	167,1264,715,670,876,771,6289,14,6,5,6,577,1,20,32,29,2,4,8,5,65,12,23,1,7,13,439,3505,168,130,142,176,45,300,2265,10,4,15,7
+Formação	167,1264,715,670,876,771,6289,14,6,5,6,577,1,20,32,29,2,4,8,5,65,12,23,1,7,13,439,3505,168,130,142,176,45,300,2265,10,4,15,7,107,50,1
 Formação Académica	11456,7323
 Formação Académica Mínima	11448
 Formação Avançada	15910
 Formação Ciências Exatas	12019
+Formação Conjunta de Uma Comunidade	18958
 Formação Contínua	2816
 Formação Inicial	11361
 Formação Jurídica	10752
@@ -1005,7 +1042,7 @@ Formed Police Units	16277
 Formel Informel	10875
 Formelle	10875
 Formellement	10965
-Former	1867,121,978,415,1249,50,153,200,284,185,6,460,789,77,569,574,744,164,863,259,437,198,216,18,89,1078,40,143,148,916,16,35,206,234,113,749,851,48,41,90,39,64,46,26,4,160,78,61,94,83,58,260,31,966,78,124,27,106,98,1,22,72,16,1,103,6,9,18,102
+Former	1867,121,978,415,1249,50,153,200,284,185,6,460,789,77,569,574,744,164,863,259,437,198,216,18,89,1078,40,143,148,916,16,35,206,234,113,749,851,48,41,90,39,64,46,26,4,160,78,61,94,83,58,260,31,966,78,124,27,106,98,1,22,72,16,1,103,6,9,18,102,458,18,40,46
 Former AFRINIC Director	14240
 Former Attorney General and National Assembly Speaker	10042
 Former CEO of The Innovation Hub	12786
@@ -1078,7 +1115,7 @@ Forming General Committees and Sub-Committees Article	15393
 Formnlairc	15399
 Formoliiés	15429
 Formolités	15429
-Forms	1988,721,1550,637,2990,954,805,1167,317,102,319,426,199,75,32,60,17,15,150,1,23,81,269,1,76,30,306,41,4,62,1004,344,314,1875,1512,76
+Forms	1988,721,1550,637,2990,954,805,1167,317,102,319,426,199,75,32,60,17,15,150,1,23,81,269,1,76,30,306,41,4,62,1004,344,314,1875,1512,76,338
 Forms Annexure	13071
 Forms BI-9 and BI-309	2115
 Forms Designer	12359
@@ -1149,7 +1186,7 @@ Formule Nombre	10876
 Formule Nombres de CEC	10876
 Formule Un	10876
 Formulent	10876,3661
-Formuler	1702,4999,6589,491,1761,13,1086,1183
+Formuler	1702,4999,6589,491,1761,13,1086,1183,1073
 Formules	747
 Formulário	11461,3927,3391,66
 Formulário NIF MOD	12018
@@ -1164,6 +1201,7 @@ Formé	12102,3162,1443,1590
 Framework Interchange Format ISO	12360
 France. Formateur	17848
 GASA Formation. Il	12883
+GIS DATA REQUEST FORM	18904
 GMAO Former	13306
 GMAO MSPLS Former	13306
 GOLDEN CREW ENTERTAINMENT Forme	16367
@@ -1173,13 +1211,13 @@ Gateway Earth Station Fee Formula	6891
 Gender Parity Indices for Forms	12175
 Geospatial Format	18476
 Gestão da Formação	11444
-Google Form	14480
+Google Form	14480,4430
 Google Forms	7759,1370,2789,172,3846
 Grants Fiscal Transfer Formula	15004
 Grievance Mechanism Complaint Form	17099
 Grievance Submission Form	1778
 Gross Capital Formation	236
-Gross Fixed Capital Formation	2775,12055,2166
+Gross Fixed Capital Formation	2775,12055,2166,2042
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
 Gross Fixed Capital Formation. LNG	16996
@@ -1317,6 +1355,7 @@ LA FORMATION PROFESSIONNELLE	15436
 LA FORMATION PROFESSIONNELLE Article	17815
 LA FORMATION PROFESSIONNELLE ET L’EMPLOI CHAPITRE	17815
 LA MIGRATION DE SYGMA AU FORMAT	15934
+LAND REGISTRATION ACT MUTATION FORM	18881
 LE CONTENU DES PROGRAMMES DE FORMATION	15933
 LECTRONIQUE ET FORMULATION DE STRATÉGIES	17881
 LES DIFFERENTES FORMES JURIDIQUES DE L’AUTOPRODUCTION	13809
@@ -1329,6 +1368,7 @@ La Formation	15936
 La Formation Page	15936
 La Formation Professionnelle	15936
 Lancement Formations	13689
+Land Registration Rules. Form	18881
 Laws of Zambia FORM	12410
 Le Centre de Formation	11599,2293,4185
 Le Centre de Formation des Collectivités	17991
@@ -1338,6 +1378,7 @@ Le Guichet Unique de Formalisation des Entreprises	16113
 Le Guichet Unique de Formalités des Entreprises	16065
 Le Service Formation	15701
 Lean Six Sigma Formations	15936
+Les Centres de Formation Technique	18884
 Les Formations	748
 Les Formats	15934
 Letter of Bid Form	14766
@@ -1360,6 +1401,7 @@ MALI SECTION FORMATION INITIALE EN POLICE	17899
 MATRÍCULA EN LA FORMACIÓN TÉCNICA PROFESIONAL	16920
 MCCOD FORM USED IN HEALTH FACILITIES	12413
 MESRS- Former	16535
+METADATA FORMAT Minimum	18904
 MICDE and Formalize	7548
 MINISTERE DE LA FORMATION ET	15602
 MNOs Short Code Format Digits Range	16934
@@ -1385,6 +1427,7 @@ Microsoft Form. Budget and CV	9630
 Million Kilowatts Formal Informal Industry	12445
 Mines Transport Télécom Comm Formation Ecofin	13568
 Ministerio. Formación	16979
+Mission Terrain de Formation	19135
 Mode of Forming	18604
 Modelo de Formação	11444
 Modular Formation Dynamic Tester	11405
@@ -1437,6 +1480,7 @@ OFFICIAL FORMS	11240
 OFFICIAL FORMS PROVIDED	11240
 OFFRE DE FORMATION	15568
 ONUDI Formation	13433
+OPEC. Formal	19125
 ORGANISATION DE LA FORMATION	15529
 OS.3. Formuler	18121
 OS3 Formuler	18121
@@ -1462,7 +1506,7 @@ P.6.2 Formação	11376
 PAG. Former	16150
 PART II PRESCRIBED FORMS	13398
 PART III ELECTRONIC TRANSACTIONS Formation	12930
-PDF Format	13185
+PDF Format	13185,5925
 PDF Portable Document Format PNDS Plan	13306
 PDF Portable Document Format SMS Short	14723
 PERFECTIONNEMENT ET DE FORMATION PÉDAGOGIQUE ISPG GA	18170
@@ -1675,6 +1719,7 @@ Small Form-Factor Pluggable Plus SLA Service	13185
 Small Scale Mining Formalisation	13474
 Société Education Formation Genre Justice Religion	16092,1,37,97,148,111,41
 Software Installation Request Form	34
+Sous-composante1.1 Formation	18942
 Sponsorship Formats	18039
 Standard Bid Evaluation Forms	11525
 Standard Expression of Interest Forms	962
@@ -1754,6 +1799,7 @@ URL API Endpoint Language Data Format	15714
 USAID. Formations	15670
 USD Formation	15673
 UTF-8 Mandatory Standards Format	11952
+Un Centre de Formation Professionnelle	18884
 Uptake of Formal Financial Services	12409
 Uptake of Formal Financial Services. CHAPTER SEVEN	13399
 Usage Formally	18485

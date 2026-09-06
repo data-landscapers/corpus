@@ -40,6 +40,7 @@ Annex X	13938,2905,660
 Annexure X	13461
 Annexure X. COMPETITION COMMISSION	13461
 Arabia X Senegal X Sierra Leone	11005
+Article X	18914
 BRD X	15130
 BRD X Develop	15130
 BRD X Provide	15130
@@ -111,6 +112,7 @@ D AUTRE X	13300
 D AUTRE X A. Souffrez-vous	13300
 DC X X X X X	10858
 DECLARATION D’UTILITE PUBLIQUE Points X	15744
+DES MÉCANISMES DE RÉGULATION TITRE X	18884
 DHIS2 X	13306
 DLC X X X	10858
 Death X	12138
@@ -171,6 +173,7 @@ FSPs X Provide	15130
 FSPs X X Support MSMEs	15130
 FSPs and EMIs X Develop	15130
 Facebook Instagram X Search ADVERTISE	18497,22,3
+Facebook LinkedIn X Vidéos	19150
 Facebook LinkedIn X YouTube WhatsApp WebTV	17221
 Facebook Mail RSS X Youtube IMF	5101,850
 Facebook X	5050,494,389,353,79,194,162,177,2871
@@ -385,7 +388,7 @@ Oman X Pakistan X Palestinian Authority	11005
 Operationalise Nationwid X X X X	15845
 P R S T W X	13093
 PART IX WHISTLEBLOWING PART X GENERAL	13319
-PART X	27,3687,173,8662,80,1,2087,11,2,2109,404,1197,25,2,89
+PART X	27,3687,173,8662,80,1,2087,11,2,2109,404,1197,25,2,89,325,44,9
 PART X ACCESS TO AND SHARING	16841
 PART X AMENDMENT OF THE GAMING	6921
 PART X GENERAL PROVISIONS Offence	12930
@@ -408,7 +411,7 @@ PROMENER A B X	13300
 PSF X Development	15130
 PSF X Explore	15130
 Page X Finally	13991
-Part X	512,1081,10956,405,333,279,869,14,2386,408
+Part X	512,1081,10956,405,333,279,869,14,2386,408,1640
 Partager Facebook X WhatsApp E-mail Copy	1876,3203,11013,1,37,97,148,62,49,41
 Partager WhatsApp Facebook X Copier	15975
 Partnerships Nationwid X X X X	15845
@@ -460,6 +463,7 @@ Regulation X	15205
 Release and Type Approval Fees. CHAPTER X	18602
 Remarks Birth X	12138
 Remedial Actions X Corp and X.AI	13462
+Reports PART X	19161
 Republic X Ecuador X Egypt X	11005
 Research Council of Zimbabwe X	1154,400
 Research Institutes ZCAS X University	12376
@@ -515,7 +519,7 @@ Sudanese... X	15342
 TABLEAU X	18105
 TABLEAUX ET ENCADRÉS X TABLEAUX Tableau	17881
 TIC X	13306
-TITRE X	13781,1624,298,24,53,2039,6,4,174,103
+TITRE X	13781,1624,298,24,53,2039,6,4,174,103,778,17
 TITRE X DISPOSITIONS GENERALES Article	15410
 TOTAU X	13325
 TOTAU X Educ	13325
@@ -760,10 +764,11 @@ X Monthly Public Relation	15845
 X Nairobi Senator Edwin Sifuna	8217
 X Natural Habitats OP	17441
 X No Financing Conditions and Legal	15372
-X No Have	15372
-X No Pest Management	15372
-X No Physical Cultural Resources	15372
-X No Projects	15372
+X No Have	15372,3515
+X No Involuntary Resettlement	18887
+X No Pest Management	15372,3515
+X No Physical Cultural Resources	15372,3515
+X No Projects	15372,3515
 X Objectif	16195
 X Operating	16848
 X Opérationnalisation	16195
@@ -958,6 +963,7 @@ X. References Aguinis	6832
 X. Reinforce	14729
 X. RÉTROPLANNING ETAPES Date	13635
 X. TYPOLOGIE ET ANALYSE DES RISQUES	10876
+X. Technical Law Enforcement Assistance and Cooperation	18914
 X. The Central African Republic	5461
 X. The President	6198
 X. The U.S. Government	4217

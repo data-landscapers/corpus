@@ -1,7 +1,7 @@
 A. Erroneous	14717
 A21 Eritrea National ID Card	10714
 AD Random Error	17140
-ADOPTER LES SOLUTIONS ERD ET	15801,236
+ADOPTER LES SOLUTIONS ERD ET	15801,236,2930
 AFRICAVER Société Africaine du Verre ERMA éro Entreprise	16103
 AGENCY CERTIFICATION Eritrea	13962
 AI Eleftheria.gr OpenAI Errevi System S.p.A	8530
@@ -63,8 +63,10 @@ Apêndice B ESTIMATIVAS DE ERROS	10777
 Artisanat Monsieur Heindewohe Erich OGOUMOLA Membre	16485
 Asmara. Eritrea	14074
 Assessment Summary for Eritrea DATA	13980
+Assomption. CHIEF IMMIGRATION OFFICER ERICA DUFRESNE	18964
 Athletics Gauteng North Championships.1.4. Rassie Erasmus	2626
 Auditor Ernst	10793
+Azarel Ernesta	18893
 BEN E PO W ER	18322
 BIGIRIMANA Ernest Ministère des Infrastructures	13341
 BIMB ERE TAMA	17828
@@ -96,6 +98,7 @@ CERTIFIE COP ERTIFIED TR	10974
 CGAP’s Senior Financial Sector Specialist. Eric	15042
 CHAPITRE I ER	436
 CHEQUE ERA	13532
+CHIEF IMMIGRATION OFFICER ERICA DUFRESNE	18964
 CHÉRIF ASSANE DIALLO EVE-MARIE LAVAUD ERWANN	17931
 CIRT Eritrea	13962
 CMS and ERP	15659
@@ -117,6 +120,7 @@ Centre of Eritrea	14047
 Chairperson of Erongo Regional Council and Hon. Regional	13118
 Charting the Next Era	13076
 Chief Country Program Officer for Eritrea	14119
+Chief Immigration Officer Erica Dufresne	18964
 Child. Eritrea	13962
 China In The Xi Jinping Era	2518
 Chris Erasmus	1208
@@ -141,6 +145,7 @@ Concessionnaires ERD	18322
 Constitution of Eritrea	14072,1
 Construction ERRA Energy Regulators Regional Association	10975
 Content Errors Content	12383
+Context of Food Security and Poverty Eradication	18985
 Control Terraces Erosion	17043
 Copernicus ERA5	17969
 Corporate ERP	5665
@@ -207,6 +212,7 @@ ER AOUT	17439
 ER AOÛT	17439
 ER CYCLE	13300
 ER Entrance Room	9123
+ER M System	18985
 ER MENA	15936
 ER N UPP N ER	2776
 ER Peuple	17861
@@ -251,6 +257,10 @@ ERC Finance	16996
 ERC Recommendation	12949
 ERCA Business Continuity Program FAQ Corporate	12500
 ERCY OF THE REPUSB	15999
+ERD Pilier IV	18967
+ERD Pilier V	18967
+ERD Pour	18967
+ERD Projet	18967
 ERD du Oui	13433
 ERD. Elle	18322
 ERE DE L'AGRICULTURE ET DU DEVELOPPEMENT	15999
@@ -354,6 +364,7 @@ ERROR	15424
 ERRs Emergency Response Rooms	15220
 ERRs and MAGs	15342
 ERS AI Literacy Programme	13182
+ERS Aggregated	18985
 ERS Auditorium	13021
 ERS Board David Dlamini	13171
 ERS CFO	12956
@@ -362,6 +373,7 @@ ERS Commissioner General Brightwell Nkambule and UNESWA	13182
 ERS Commissioner of Customs	13051
 ERS Customs Bank Account	13195
 ERS Director of Communications and Marketing	13000
+ERS Entries	18985
 ERS Equipa Regional de Saúde. INASA Instituto	11543
 ERS Eswatini Energy Regulatory Authority SWIPSS	12444
 ERS Headquarters	12361,821
@@ -369,6 +381,7 @@ ERS LIQUIDE S	18322
 ERS Peer Learning Description CBE	11134
 ERS TaxPal	2885
 ERS TaxPal App	3215,9208
+ERS Vessel	18985
 ERS and FNB	13195
 ERS-Commissioner-General-Brightwell-Nkambule	12422
 ERS. RELATED	12422
@@ -427,6 +440,7 @@ Era for West Africa	18586
 Era of AGI	6955
 Era of AI	6496
 Era of AI The EU	17780
+Era of Care	19177
 Era of Connectivity	4345
 Era of Digital Disruption	11028
 Era of Digital Governance	17788
@@ -444,7 +458,7 @@ Era of Technology. African Journal of Information Systems	11927
 Era of Trust and Innovation	4856
 Era of Trust. Cette	4850
 Era. Standard Bank Group	6875
-Eradicate	14935,790,1226
+Eradicate	14935,790,1226,1936
 Eradicate Case Backlog	12610
 Eradicate Illiteracy Program	15578
 Eradicate Poverty	9353
@@ -482,6 +496,7 @@ Ere Description	15129
 Erect	12253,4861
 Erection	12253,277,2215
 Erer and Shebelle Zone of Somali	12195
+Eretria	19133
 Erevage	15400
 Erevan Bénin SA Traitement	10821
 Erevan Bénin SA Traitements	10821
@@ -836,6 +851,7 @@ Erro Remaider	12478
 Errol Baloyi and Noku Siphambili	1686,254
 Errol Baloyi and Noku Siphambili KEY TAKEAWAYS	1686
 Errol Elsdon	10955
+Errol Fonseka	18914,13
 Errol Francke	8130
 Errol R. Francke	8130
 Errol R. Francke Received	8130
@@ -844,7 +860,7 @@ Erroneous Order	12364
 Erroneous Transactions	12364
 Erroneous Transactions Any	12364
 Erroneous Transactions The Participants	12364
-Error	21,988,234,745,1873,2042,929,3933,467,8,16,4,17,73,33,66,108,298,97,89,105,386,416,87,116,3,260,1352,64,331,3,44,216,138,1064,232,17,76,176,196,3,113,431,92,542,27
+Error	21,988,234,745,1873,2042,929,3933,467,8,16,4,17,73,33,66,108,298,97,89,105,386,416,87,116,3,260,1352,64,331,3,44,216,138,1064,232,17,76,176,196,3,113,431,92,542,27,400
 Error Correction Models	18577
 Error Handling	5665
 Error Rate	11952
@@ -852,7 +868,7 @@ Error Reduction	12022
 Error When Cancelling Turnover Tax	14533
 Error When Initiating Obligation	14533
 Error-Correcting Code EDSFF Enterprise and Datacenter SSD	13185
-Errors	4439,6325,80,312,407,413,65,297,29,818,125,558,1030,827,1196,336,486,380,728
+Errors	4439,6325,80,312,407,413,65,297,29,818,125,558,1030,827,1196,336,486,380,728,30
 Errors Cross-Check Result Name Yes Alpha	3861
 Errors Purchaser	13185
 Erros	10777,607,32,3,2,25,131,7180
@@ -886,7 +902,7 @@ Estimates of Sampling Errors	13454
 Eswatini SWZ Designing Eritrea ERI Implementing	13082
 Ethiopia Eritrea Nigeria Somalia	10819
 Ethiopia and Eretria	14853
-Ethiopia and Eritrea	13868,234
+Ethiopia and Eritrea	13868,234,5017
 Exceeded Erreur	16091
 Excellency Dr. Mokgweetsi Eric Keabetswe	12640
 Existing Eritrean	14072
@@ -1037,11 +1053,13 @@ M. Eric Gaston NGUEMA	16099
 M. Eric Georges DIOUF	15973
 M. Ernaud Dechanel AYEBE MICKALA	16381
 M. Ernest ANTCHOUEY OGOUEROWO	16099
+M. IDRISS RAMADANE ERDEBOU	19149
 M. Jean Eric NZIENGUI MANGALA	16099
 M. Recep Tayyip ERDOGAN. Art	16344
 MARIA ANTÔNIO ERNESTO	10751
 MBITO DO PROJETO ERGUES O Projeto	18814
 MDA ERPs	2527
+MINISTER ERROL FONSEKA	18964
 MISA Moçambique Ernesto Nhanale	14183
 MITIGATION STAKEHOLD ER ROLES ASSESSME STRATEGIES	16884
 MP Erneste Nsangabandi	5070
@@ -1063,6 +1081,7 @@ Medium Medium ERS	12444
 Messan Enagnon Ernest Eric Adda Role	15601
 Metaverse Era	1347,40,10774
 Millionen Erwerbstätigen	11316
+Minister for Internal Affairs Errol Fonseka	18964
 Minister of Poverty Eradication and Social Welfare	12923
 Ministry of Education of Eritrea	14057
 Ministry of ICT and ERS	2885
@@ -1081,6 +1100,7 @@ Monsieur Cossi Eric AÏNANMON	17584
 Monsieur Ernest Ayivi TINDO	17584
 Monsieur Mohamed AG ERLESS	17861
 Monsieur RAKOTOMANANA Eric	14593,3
+Monsieur TOM ERDIMI	19037
 Mr. Eraste Rurangwa	15019
 Mr. Erastus Shipuleni	13067
 Mr. Eric Kobia	17746
@@ -1134,6 +1154,7 @@ Non Non ERANOVE	16037
 Non Oui ERANOVE	16037
 Nose and Throat ERS Eswatini Revenue Services	12975
 Nouvel Engagement Client ERANOVE	2342
+Nova Era	18958
 Nôs ERP	2281
 O LA EN ERGY Avis	18322
 O LLU X EN ERGY Avis	18322
@@ -1159,6 +1180,7 @@ Overview of Eritrea's Education System	13953
 PDJ PDT SSU SMF ERS	14781
 PENAL CODE ERITREA.pdf	13963
 PETRO LI ERS LIQUIDE S	18322
+PILIER III ADOPTER LES SOLUTIONS ERD	18967
 PIMP ER NA	17828
 POLICY Eritrea	13962
 POLL ERROR	15574
@@ -1248,6 +1270,7 @@ Return Erroneous N50	7176
 Rezoning of Erf	13189
 Right of Correction and Erasure	3861
 Risk of Eroding Consumer Trust	6362
+River ER Saint Louis SL Glacis	18951
 Room for Error	6343
 Root Mean Square Error of Approximation	4432
 Rwanda and Eritrea	13231
@@ -1388,6 +1411,7 @@ Union of Eritrean Youth and Students PC Partnership	13990
 User Error Protection	5665
 Ushering In Digital Era For Land	17190
 V Erongo	12399
+VMS and ERS	18985
 Variable Coefficient Std. Error	236
 Variable Valeur Erreur Non- Pondéré Effet	13300
 Variable Valeur Erreur- Non Pondéré	13300

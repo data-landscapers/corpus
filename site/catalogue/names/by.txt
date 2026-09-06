@@ -54,6 +54,7 @@ Business GB Giga Byte Gbps Gigabits	2775
 By-Elections	13248
 By-Elections Eswatini	13012
 By-Laws	12917,3916
+By-catches	18985
 By-election	13973
 By-laws	13311
 By-line	1010
@@ -133,7 +134,7 @@ CC BY-NC-ND	7750,1482,1923,7110
 CC BY-NC-SA	1225,1,1483,4239,3816,80,162,1,369,187,692,1634,99,910,25,548,253,1,1216,802,113,267
 CC BY-NCSA	2709
 CC BY-ND	12297
-CC BY-SA	4676,12611,1105,404
+CC BY-SA	4676,12611,1105,404,115,58
 CC BYNC-SA	15724
 Category Risk Bytes Percent Secure Socket	12395
 Centenary Bank Managing Director Godfrey Byekwaso	3035

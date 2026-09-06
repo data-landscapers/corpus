@@ -30,6 +30,7 @@ Analyst Tool SDG Sustainable Development Goal	17157
 Angular Wave Research. Tools and Weapons	1038
 Applying the Toolkit	11156
 Appropriate Construction Tools	13392
+Approved Educational AI Tools List	19079
 Architecture Tool Architect	9124
 Assessment Tool	11133,5734
 Assessment Tool Dumisani Masilela	12500
@@ -133,6 +134,7 @@ EMR Toolkit Onboarding Training	11252
 ENFORCEMENT POWERS AND COMPLIANCE TOOLS	17249
 EXECUTIVE SUMMARY Tool	11156
 Early-Stage Digital Health Investment Tool EMR	18478
+EduTrac Tool	18911
 Education Data Toolkit	6048
 Education Toolkit	6048
 Education. SYSTEMATIC OPERATIONS RISK-RATING TOOL	14937
@@ -188,6 +190,7 @@ I4T-digital-platform-governance Toolkit 2607.pdf	6436
 ICRC Interagency Triage Tool. Monitored	15206
 ICT Tools	13095
 IDMP. Key Tools for Rapid Deployment	17157
+INFE Toolkit for Measuring Financial Literacy and Financial	19014
 IPP Toolkit	14745
 ITU ICT Regulation Toolkit	17836
 ITU National E-Health Strategy Toolkit	21
@@ -287,6 +290,7 @@ Procurement of Tools and Machinery Component	14080
 Production Logging Tool	11405
 Productivity Tools	13356
 Programming Language and IT Tools	13042
+Prohibited Tools List	19079
 Project Management Tools	13635
 Protecting Authentication Tools	15198
 Provision of Tool-kits	12917
@@ -330,10 +334,10 @@ SPL Systematic Operations Risk-Rating Tool SSNP	10964
 SQAO AI Support Tool	18557
 SYSTEM INSPECTION AND TESTING TOOL Name	16963
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455,611
-SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8
+SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165
 Saïd Toorbuth Director	14744
 Saúde STAR Strategic Toolkit for Assessing Risks	15966
 Scam Alert Tool	10580
@@ -416,7 +420,7 @@ Toolkit for Facility Data Quality Assessment	11596
 Toolkit. The Cybercrime Bill	12982
 Toolkit.pdf. CGAP	11007
 Toolkits	17260
-Tools	21,1864,211,2432,320,397,104,164,152,1482,565,1001,411,4,488,1164,374,2,138,47,614,31,339,120,67,519,387,1023,480,98,323,262,1239,120,33,120,22,19,248,36,332,109,227,367,1
+Tools	21,1864,211,2432,320,397,104,164,152,1482,565,1001,411,4,488,1164,374,2,138,47,614,31,339,120,67,519,387,1023,480,98,323,262,1239,120,33,120,22,19,248,36,332,109,227,367,1,434,143
 Tools Direct	15473
 Tools PAYE Calculator Legacy TOT Calculator	12454
 Tools Standards	9124

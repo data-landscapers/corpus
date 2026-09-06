@@ -159,6 +159,7 @@ Caractéristique Interviewé Non Interviewé Non Interviewé	13300
 Caractéristique Non	13300
 Category C Non-ECOWAS	18541
 Category E NON	18541
+Center NGO Non-governmental	18931
 Central Bank of Nigeria None None Third	12000
 Chairman and Non-Executive Director Forward-looking	7204
 Challenges Non-cost-reflective SAPP	12399
@@ -223,6 +224,7 @@ DE LA COMMUNICATION NP NON PRÉCISÉ	18143,27
 DES DROITS HUMAINS PARTIE NON OFFICIELLE	15786
 DES DÉPENSES NON ABOUTIES	3396
 DES RADIODIFFUSIONS SONORES PRIVEES NON COMMERCIAI.ES	15397
+DES STRUCTURES NON FORMELLES ET INFORMELLES	18884
 DES TELECOMMUNICATIONS PARTIE NON OFFICIELLE ET	15488
 DETAILS Non-World Bank Group Financing Trust	13523
 DEVCO REGULATED NON-WDT SACCO SOCIETY LTD	7167
@@ -360,10 +362,11 @@ Gov't and Nonprofit	17011
 Government and Non Government Organisations	14746
 Government. Nonetheless	12360
 Grants Capital Acquisition of Non- Financial Assets	14746
+Group NGO Non-Governmental Organizations NGSC National	18904
 Guide Non	17872
 Guideline. Non	5665
 Guidelines for Setting Fair and Non Discriminatory Royalties	12389
-H None. Beyond	15372
+H None. Beyond	15372,3515
 HIV and AIDS NGO Non-Governmental Organization NSSV	12939
 HOMME NON HOMME	13300
 HSDU. Noncommunicable	15206
@@ -380,6 +383,7 @@ Hospitalier OHADA Non Disponible Universitaire Centre	17845
 Hotep Nyendwa Non	13532
 Hub. Non-ECOWAS	4827
 Humanitarian International Non-Governmental Organisations	18449
+I II III IV Non	18988
 I' ENCERCLÉ NON ENCERCLÉ NON AUTRE	13300
 I- Non	582
 ICS17.100. Pages144 Non-Automatic Weighing Instruments	16900
@@ -455,8 +459,10 @@ Les Contributions Foncière des Propriétés Non Bâties	6954
 Les Contributions Foncière des Propriétés Rurales Non	6954
 Lesotho Council of Non-Governmental Organisations	12661
 Lex Lata Vel Non	5242
+Liaison Unit for Non-Governmental Organisations	18888
 Liberia Nona Deprez	3008
 Liberia’s Non-Polio AFP	17289
+Lineage Non-quantitative	18904
 List of Non-Core CPI Items	2775
 Logistics Non-Profit	16266
 Low Low None Rehost	6432
@@ -691,7 +697,7 @@ Non Communicable Diseases	12970,1803
 Non Compliance	18649
 Non Compliant	13381
 Non Compte	18291
-Non Consulting Services Training	15372
+Non Consulting Services Training	15372,3515
 Non Consulting and Consulting Services	15659
 Non Current Assets HY2025	4896
 Non Current Liabilities	4896
@@ -714,6 +720,7 @@ Non Formelle AFD	15673
 Non Formelle DREPPNF	10847
 Non Formelle F	10847
 Non Formelle OUD ALAN S SO	10847
+Non Fungible Tokens	18952
 Non GIZ Programme	18316
 Non Gouvernemental Organisation des Nations Unies Personnel	13290
 Non Gouvernementales	18286
@@ -963,6 +970,7 @@ Non-Formal Education	13310,3542
 Non-Formal Education. The Ministry of Primary and Secondary	13310
 Non-Functional Requirements	5665,7372
 Non-Functional Testing	5665
+Non-Fungible Tokens	18974
 Non-GCSP	6432
 Non-GCSPs	6432
 Non-Gambian Identity Card	17379
@@ -990,7 +998,7 @@ Non-Governmental Organization	12356,684,2371
 Non-Governmental Organization NGOs	16951
 Non-Governmental Organization NIDA	12338
 Non-Governmental Organization ORSEC	18309
-Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994,744,985,591,416,22,13,262,140
+Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994,744,985,591,416,22,13,262,140,1615
 Non-Governmental Organizations Act	3583
 Non-Governmental Organizations. Outcomes	14888
 Non-Grid	11890
@@ -1069,10 +1077,10 @@ Non-Resident Nigerian Investment Account	2841
 Non-Resident Ordinary Account	2841
 Non-Resident Senior Fellow	4617
 Non-Residential	12436
-Non-Residents	11250
+Non-Residents	11250,7739,110
 Non-Residents Shipping and Airline Companies	11976
 Non-Response Adjustment	11136
-Non-Revenue Water	718,14027
+Non-Revenue Water	718,14027,4234
 Non-Revenue Water NSAS Nubian Sandstone Aquifer	17157
 Non-S&T	14775
 Non-S&T and S&T	14775
@@ -1088,6 +1096,7 @@ Non-State Actors Civil	13313
 Non-State Actors Co-Chair	18225
 Non-Stop Borders	13415,915
 Non-Submission	14783
+Non-Tariff Barriers	19067
 Non-Tariff Measures	12389
 Non-Tax	17235
 Non-Tax Revenue	2757,14348,130,1353
@@ -1162,7 +1171,7 @@ Non-conformed	17367
 Non-conforming	15473
 Non-conformité	10712,5954
 Non-consensual	587,11872
-Non-consulting	15372,146
+Non-consulting	15372,146,3369
 Non-consulting Service Contracts	15411
 Non-contact	10812
 Non-contradictory	14908
@@ -1182,12 +1191,14 @@ Non-deposit	7763
 Non-derivative	1154,11899
 Non-derogation	17250
 Non-destructive	13385
+Non-diff	18985
+Non-differentiated	18985
 Non-differentiating	6432
 Non-digital	6832,5382
 Non-dilutive	674
 Non-disclosure	9915,3406,1,1395,3965
 Non-disclosure Agreement	15662
-Non-discrimination	1243,2618,3361,2935,2940,223,1104,170,280,644,777,341,203
+Non-discrimination	1243,2618,3361,2935,2940,223,1104,170,280,644,777,341,203,2145
 Non-discrimination The Contracting States	18437
 Non-discrimination and Inclusion	12663
 Non-discriminatory	16852
@@ -1234,6 +1245,8 @@ Non-fragile Country	1284,15638
 Non-friable	1988
 Non-fréquentation	18014
 Non-functional	12508
+Non-fundamental	18904
+Non-fundamental Spatial Data	18904
 Non-geographic	16934
 Non-government	11940
 Non-governmental	1161,13581,155,766,1170,130,186
@@ -1246,6 +1259,7 @@ Non-hazardous Waste Management Plan Activity	1988
 Non-holders	10714
 Non-household Population	16921
 Non-hydrocarbon	1828
+Non-implementation	18984
 Non-inclusive	10765,10
 Non-institutional	11296
 Non-interest	10218,912,1,3,2734,1129,2239
@@ -1291,7 +1305,7 @@ Non-postal	11129
 Non-pregnant	16971
 Non-pressure	11269
 Non-production	16923,1
-Non-profit	1900,13573,1390
+Non-profit	1900,13573,1390,2175
 Non-profit Association	12342
 Non-profit Organisations	4972
 Non-profit Organisations Belgium Holocene Ventures	4972
@@ -1336,6 +1350,7 @@ Non-résidents Type	13390
 Non-salary	3537
 Non-sampling	11296
 Non-sensitive	27,945,12347
+Non-significant	18985
 Non-skilled	1988
 Non-spe- EN	736
 Non-specific	736
@@ -1361,7 +1376,7 @@ Non-use	11129
 Non-vegetated	15129
 Non-violent	17114
 Non-voting	11995
-Non-waiver	15901
+Non-waiver	15901,3024
 Non-waiver The Ministry of Posts	15901
 Non. Cette	7675
 Non. Des	11689
@@ -1400,7 +1415,7 @@ None B- Send	582
 None Comments	14045
 None Correspondent	12270
 None Data	10768
-None Direct	15372
+None Direct	15372,3515
 None Eye Care	1009
 None Finalize	10768
 None G- None D- No F-	582
@@ -1425,7 +1440,7 @@ None. Ecobank	15474
 None. Interoperability	12269
 None. MOCAF	15474
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115,291,53,28,311,17
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115,291,53,28,311,17,724
 Nonextractive	17909,81
 Nongo	8022
 Nongo Conteya	16662
@@ -1442,13 +1457,14 @@ Nonkqubela Jordan-Dyani	1810,3365,1546,872,3577,325
 Nonlinear	11140,4104
 Nonmonetary	1154
 Nonobslont	15561,126
-Nonobstant	113,624,494,448,122,541,123,229,1705,21,2926,1545,1821,113,11,686,1771,426,560,138,12,420,21,482,8,1,12,21,29,9,53,3,14,5,27,24,26,10,41,97,15,20,25,93,16,35,29,34,48,38,178,11,21,27,134,291,692,4,362,7,1,27,7,9,2,5,200,34,22,169,8
+Nonobstant	113,624,494,448,122,541,123,229,1705,21,2926,1545,1821,113,11,686,1771,426,560,138,12,420,21,482,8,1,12,21,29,9,53,3,14,5,27,24,26,10,41,97,15,20,25,93,16,35,29,34,48,38,178,11,21,27,134,291,692,4,362,7,1,27,7,9,2,5,200,34,22,169,8,601,4,15
 Nonoil	10841
 Nonperforming	10841,6662
 Nonperforming Loans	1746,15757
 Nonprofit Organisations Act	4633,6646
 Nonprofits	12675
 Nonprofits and NGOs	676
+Nonproliferation of Nuclear Weapons	18914
 Nonproﬁt Organisations Act	5872
 Nonrated	9123
 Nonrenewable	16996
@@ -1600,10 +1616,11 @@ Principes Descriptions NON-DISCRIMINATION	15908
 Principles of Non-Discrimination	16874
 Principles of Non-Discrimination All	16874
 Private Sector and NGOs Private Sector and Non-Governmental	14897
+Private Sector and Non-Governmental Organizations	18904
 Private and Non-profit Providers of Specialist Skills	17870
 Procedures NGO Nongovernmental Organization OS Local	18301
 Proceeds None Investment	1818
-Procurement of Goods and Non	15372
+Procurement of Goods and Non	15372,3515
 Production Non	17983
 Produits Alimentaires Produits Non	737
 Produits Non Alimentai	8891
@@ -1611,6 +1628,7 @@ Professional NonteachingStaff Personnel	11180
 Programme NGO Non-Governmental Organizations PDSR Product	12975
 Project Implementation Manual. Non	16926
 Projet Non	16012
+Promotion Civique NFE Non-Formal Education OCHA	18911
 Propriétés Privées Non Titrées	14624
 Période Responsables Coût Non	14488,1,1
 Q MÉTHODE PRÉFERRÉE NON DISPONIBLE	13300
@@ -1704,10 +1722,12 @@ Sector Formal Size Sector Size Non	12445
 Sectoral Distribution of Non-performing Loans and Advances	17235
 Securities and Non- Banking Financial Authorities	14819
 Service Non-durable Tertiaire	16708
+Seychellois and Non-Seychellois	18989,110
 Shareholders and Non- Residents	17537
 Shelter and Non-Food Item	18665
 Shelter and Non-Food Items	1828,9036
 Shopping None Direct	15372
+Shopping None Services	18887
 Simple Non	15599
 Sistema Ké Non	18824
 Situation des Barrières Non Tarifaires	13500
@@ -1724,6 +1744,7 @@ Sous-compte de Transit des Recettes Non Fiscales	13524
 South Africa and Lesotho Nonhlanhla Nzimande	12678
 Special Statutory Mandate None	10738
 Stability Non-Bank FIs Supervision Internal Audit	15023
+State and Non State Actors	18889
 State and Non-	18449
 State and Non-State Stakeholders	15187
 Statut des Agents Non Encadrés	14431

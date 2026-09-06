@@ -183,7 +183,7 @@ Cimeira Mundial da Sociedade da Informação	11396,1
 Civic Society	13295
 Civic Society Guiding	12511
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064,333,77,60,93,606,1270,5,19,79,148,15,2,23,121,485,148,41,371,139,14,38,26,263
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064,333,77,60,93,606,1270,5,19,79,148,15,2,23,121,485,148,41,371,139,14,38,26,263,103
 Civil Society ARTICLE	14409
 Civil Society Actors	17771
 Civil Society Advocacy Position	15238
@@ -216,7 +216,7 @@ Civil Society National Grant Préparation	15500
 Civil Society Organisation	12551,5914,3
 Civil Society Organisation EIA Environmental Impact	16843
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72,674,17
+Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72,674,17,604
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization	14742,118
 Civil Society Organization DHIS2	10776
@@ -344,6 +344,7 @@ Directorate of Cooperative Societies	16796
 Disabilities CSO Civil Society Organisation CWSN	15604
 Dissolução de Sociedade	18833
 District Councils and Mauritius Red Cross Society	14738
+Dois- A Sociedade	18896
 Donors Support Civil Society	6948
 Dudu Regulated Non-WDT Sacco Society LIMITED	7167
 Décla- CONSTITUTION DE SOCIETE	15558
@@ -496,7 +497,7 @@ IndabaX Hackathon Computer Science Society Staff	12361
 India-based Centre for Internet and Society. The CIS	4176
 Industrial Electronics Society	8606
 Industry and Society. Building Synergies and Partnerships	11221
-Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853,44,5
+Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853,44,5,113,2
 Information Society Authority	6041
 Information Society Authority RURA Rwanda Utilities	1204
 Information Society Award	1888
@@ -513,6 +514,7 @@ Information Society Prize	8825
 Information Society Strategic Plan	10300
 Information Society Strategy and Action Plan	11529
 Information Society Vol	1243
+Information Society and Economy	18885
 Information Society. E-Governance Awareness	12325
 Information Society. Rwanda	15019
 Information Society. Sage Publications	6948
@@ -919,11 +921,12 @@ Sociedad de Electricidad de Guinea SEGESA	16942
 Sociedad de Información	975
 Sociedad de Información de Guinea Ecuatorial	975
 SociedadEstrategia Nacional de Banda Ancha Cyprus	11529
-Sociedade	2816,1270,5997,664,6,4,1,613,8,3,14,1,35,769,3190,141,152,5,1323,8,16,5,333,1393,8,64,22
+Sociedade	2816,1270,5997,664,6,4,1,613,8,3,14,1,35,769,3190,141,152,5,1323,8,16,5,333,1393,8,64,22,35
 Sociedade Anónima	18775
 Sociedade Anónima Nestas	10757
 Sociedade Artigo	18800
 Sociedade Cabo-verdiana	15535
+Sociedade Cinco	18896
 Sociedade Civil	15,2801,7936,817,1254,2653,705
 Sociedade Civil Organizada Prazo	18796
 Sociedade Civil Organizada Sociedade de Cabo da Guiné-Bissau	11569
@@ -952,6 +955,7 @@ Sociedade Sociedade Outra	10757
 Sociedade Super	11396,1
 Sociedade Sábado	11429
 Sociedade São-tomense	18794
+Sociedade TESLA STP	18977
 Sociedade Técnica de Obras	7381
 Sociedade Unipessoal	10753,4,4769,3249
 Sociedade Unipessoal S.A	15526
@@ -963,12 +967,12 @@ Sociedade de Cabos da Guiné-Bissau	11555
 Sociedade de Capital de Risco	15526
 Sociedade de Garantia Parcial	15526
 Sociedade de Infor	15358
-Sociedade de Informação	13,782,10587,163,318,78,24,812,2614,86,14,35,46,183,3012,5,1,15,8
+Sociedade de Informação	13,782,10587,163,318,78,24,812,2614,86,14,35,46,183,3012,5,1,15,8,150
 Sociedade de Informação EPE	11909
 Sociedade de Informação. Artigo	18773
 Sociedade de Inovação	16376
 Sociedade. Com	16083
-Sociedades	4209,6544,682,583,6757,58
+Sociedades	4209,6544,682,583,6757,58,63
 Sociedades Anónimas Simplificadas	11372
 Sociedades Comerciais	10755,610,92
 Sociedades Cooperativas	4209

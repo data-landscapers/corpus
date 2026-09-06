@@ -22,11 +22,12 @@ Agência de Protecção de Dados. Artigo	14,1,779
 Agências de Artigo	15526
 Ambiente. Artigo	17100
 Angola. ARTIGO	3519
+Anuais Artigo	18896
 Análise. Artigo	167
 Aplicação da Lei Penal Artigo	18751
 Aquisições. Artigo	15755
 Artigle	13719
-Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508,3777,2,5,1,1,16,11,575,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,2,2,3,1,2,8,1,4,10,6,5,1,2,3,2,5,2,4,3,3,2,1,3,6,49,2,1,1,8,4,5,5,27,5,8,319,117,293,459,2,1,1,1,2,5,2,1,3,35,30,2491,14,1,21,5,6,1,4,8,29,7,10,27,26,1,5,17,6,22,18,117,5,61,157,43,64,3,34,33,33,16,81,157,639,85,86,225,193,1145,1,1,1,1,2,3,3,3,8,1,5,6,9,5,2,53
+Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508,3777,2,5,1,1,16,11,575,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,2,2,3,1,2,8,1,4,10,6,5,1,2,3,2,5,2,4,3,3,2,1,3,6,49,2,1,1,8,4,5,5,27,5,8,319,117,293,459,2,1,1,1,2,5,2,1,3,35,30,2491,14,1,21,5,6,1,4,8,29,7,10,27,26,1,5,17,6,22,18,117,5,61,157,43,64,3,34,33,33,16,81,157,639,85,86,225,193,1145,1,1,1,1,2,3,3,3,8,1,5,6,9,5,2,53,42,1
 Artigo Científico	11385
 Artigo Etiquetas Avisos	17300
 Artigos	9799,1637,4041,217,1406,1651,47,55
@@ -38,7 +39,7 @@ Assembleia Geral. Artigo	15391
 Assembleia Nacional. ARTIGO	539,2980
 Assembleia Nacional. Artigo	14,1,534
 Assembleias Distritais Artigo	18751
-Auditorias Artigo	11461
+Auditorias Artigo	11461,7435
 Autoridade Reguladora Nacional. ARTIGO	11520
 Aviso. ARTIGO	12853
 Aviso. Artigo	16122
@@ -179,6 +180,7 @@ Comunicação. Artigo	15,6955,5853
 Comunicações. Artigo	15,2851
 Comunidades. ARTIGO	11514
 Comércio Eletrónico Artigo	15477
+Con- Artigo	18896
 Concessão de Asilo ARTIGO	11365
 Concorrentes. Artigo	18753
 Concurso. Artigo	18753
@@ -201,6 +203,7 @@ Conselho. Artigo	167
 Constituição Artigo	18751
 Constituição. ARTIGO	11513
 Constituição. Artigo	15344,3407
+Contadores Artigo	18896
 Contratos Públicos. Artigo	10783
 Controlo Financeiro. ARTIGO	17100
 Cooperativas Artigo	18751
@@ -210,6 +213,7 @@ Criminal Artigo	12311
 Críticas Artigo	6970
 Culto Artigo	18751
 Cultural Artigo	18751
+Custos Artigo	18896
 Câmara Distrital Artigo	18751
 Código Aduaneiro. Artigo	17100
 Código Civil. Artigo	11901
@@ -265,6 +269,7 @@ Departamento de Relações Públicas. Artigo	167
 Deputados Artigo	18751
 Desenvolvimento. Artigo	167,18606
 Designação Artigo	18751
+Desvio da Artigo	18896
 Deveres Cívico-Políticos Artigo	18751
 Dezembro. ARTIGO	12853
 Dezembro. Artigo	6462,8929
@@ -305,6 +310,8 @@ Empresas Comerciais. Artigo	15391
 Empresas Comerciais. CAPÍTULO IV Pessoal Artigo	15391
 Energia. Artigo	16056
 Entidade Licenciadora. ARTIGO	11458
+Entidade Reguladora Artigo	18896
+Entidade Reguladora. Artigo	18896
 Equipa de Serviço Digital. Artigo	15755
 Especial Artigo	18750,11
 Estado Artigo	11461,4065,3225,49
@@ -355,10 +362,11 @@ GARANTIAS E DEVERES FUNDAMENTAIS ARTIGO	11513
 GERAIS ARTIGO	11519,8
 Gabinete Provincial da Saúde. ARTIGO	11445
 Generalidades ARTIGO	11365
+Gerais Publicidade Artigo	18896
 Gestor Público. Artigo	15391
 Gestão de Activos Apreendidos. ARTIGO	12789
 Governação Digital. Artigo	15532
-Governo Artigo	18751
+Governo Artigo	18751,145
 Governo Digital Artigo	11461
 Governo Digital. ARTIGO	11461
 Governo de Gestão Artigo	18751
@@ -397,13 +405,16 @@ INTERNACIONAL Artigo	15344
 INVESTIMENTO PÚBLICO Artigo	10783
 IP. Artigo	15532
 IPD. Artigo	15755
+IV Artigo	18896
 IV. Artigo	18758
+IX Artigo	18896
 Identidade Nacional Artigo	18751
 Imposto Artigo	18764
 Impostos. Artigo	18764
 Imunidades Artigo	18751
 Incidentes de Segurança Cibernética Artigo	6970
 Incompatibilidade Artigo	18751
+Indepen- Artigo	18896
 Independência Artigo	18751
 Inexequibilidade Prática O Artigo	11436
 Infra-estruturas Públicas. Artigo	15380
@@ -568,6 +579,7 @@ Regime Sancionatório Artigo	2866
 Registo Civil Artigo	12775,2621
 Registo de Dados ARTIGO	539
 Registo' Ptedlâl. ARTIGO	11514
+Reguladora. Artigo	18896
 Regulamentação Artigo	15526
 Regulamento. ARTIGO	12782
 Regulamento. Artigo	744
@@ -622,7 +634,7 @@ SECÇÃO IV Política Monetária Artigo	18800
 SECÇÃO IV SECRETARIADO EXECUTIVO Artigo	13
 SECÇÃO IX Produção de Estatísticas Artigo	18800
 SECÇÃO V MEDIDAS DE SEGURANÇA Artigo	14
-SEN Artigo	12770,5979
+SEN Artigo	12770,5979,147
 SEN. Artigo	11516,1254,5979
 SEU ARMAZENAMENTO Artigo	794
 SISTEMA DE INFORMAÇÃO PREDIAL Artigo	11901
@@ -736,6 +748,7 @@ USUÁRIOS ARTIGO	3519
 UTILIZADORES ARTIGO	11461
 Utilidade Pública Desportiva. Artigo	15532
 VERDE CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	16089
+VI Artigo	18896
 Venerando Conselho de Ministros. Artigo	18798
 Verde RECOLHA DIRETA COERCIVA Artigo	15450
 Vice-Presidente. Artigo	17411

@@ -90,6 +90,7 @@ CERC Contingent Emergency Response Component ECOWAS	17099
 CERC Manual and Emergency Action Plan	14912,606,141,1277
 CERC Manual and Emergency Page	10964
 CERT Computer Emergency Response Team	15472
+CERT Computer Emergency Response Team CFA	18931
 CERT Computer Emergency Response Team CICO	13312,2
 CERT Computer Emergency Response Team CIO	12917,2247
 CERT Computer Emergency Response Team DSO	16883,1
@@ -150,7 +151,7 @@ Computer Emergency Readiness Team CIMS	16872
 Computer Emergency Readiness Team CIO	14879
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
-Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607,142,40
+Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607,142,40,116
 Computer Emergency Response Team CHU	17824
 Computer Emergency Response Team CIO	16975
 Computer Emergency Response Team CMU CPF	17862
@@ -172,7 +173,7 @@ Contingency Emergency Response Part	16936
 Contingency Fund for Emergencies	15966
 Contingent Emergency	1284
 Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -344,13 +345,15 @@ Emergence of Mobility and Data	11854
 Emergence of New-Collar Skills	6948
 Emergencia Hipertensiva	16962
 Emergencias	4209
-Emergencies	3583,5556,3365,2473,644
+Emergencies	3583,5556,3365,2473,644,3290
 Emergencies Cluster	13349
+Emergencies EMIS Education Management Information System	18911
 Emergencies Management Information System	9139
 Emergencies Relatório Anual da OMS	10776
+Emergencies Specialist	19093
 Emergencies URL	15117
 Emergencies and Natural Disasters	17934
-Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18,1725,64,129,29,16,4,29,136,21,90,14,136,176,83,57,1,2,27,25,132,56,58,54,539,287,63,32,2,5,167,6,43,93,656,217,75,172,162,79,90
+Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18,1725,64,129,29,16,4,29,136,21,90,14,136,176,83,57,1,2,27,25,132,56,58,54,539,287,63,32,2,5,167,6,43,93,656,217,75,172,162,79,90,203,150
 Emergency Action	6947
 Emergency Action Plan	13331,2327,1,310,175,792,163,15,1390
 Emergency Aid Install	17157
@@ -428,6 +431,7 @@ Emergency Preparedness Plan	12253
 Emergency Preparedness Strengthened Eswatini	13163
 Emergency Preparedness and Financing Constraints	18198
 Emergency Preparedness and Response	1988,10988,187,5035
+Emergency Protocols and Procedures	19042
 Emergency Reboot of Servers	9123
 Emergency Recharge Data Promotion	11259
 Emergency Resource Planning System	13369
@@ -847,6 +851,7 @@ Emeriand Dieu Merci KIBANGOU	16249
 Emeric	16103
 Emeritus	12923
 Emeritus Distinguished Fellow	5044
+Emeritus Professor Dennis Hardy	18924
 Emeritus Professor of Economics	14017
 Emeritus Training Academy Botswana	7563
 Emerson Education	10197
@@ -860,8 +865,9 @@ Emery Franck KOUMBA	16175
 Emery Patrice Lumumba	16177,279
 Emery Patrice Lumumba. Date	15465,991
 Emery-Alexis	15901
-Emetteur	4403,11105,539
+Emetteur	4403,11105,539,2869
 Emetteur- HF	998
+Emetteurs	18916
 Emetteurs de Monnaie Electronique	13452
 Encourage Innovation and Emerging Tech	16975
 Enhanced Emergency Response and Disaster Management PDO	17962
@@ -1078,6 +1084,7 @@ National AI and Other Emerging Technologies Steering	9857
 National Center for Emergency Operations	17962
 National Computer Emergency Response Center	7538
 National Computer Emergency Response Team	587,8720,656,213,2056,5028
+National Computer Emergency Response Team and National	18903
 National Computer Emergency Response Team. Functions	587
 National Council for Emergency Relief and Rehabilitation	15621,696,67
 National Data Governance and Emerging Technologies	6516,15
@@ -1198,6 +1205,7 @@ Protection Emerging Technologies Year	7548
 Provision of Essential Emergency Supplies and Services	18198
 Public Annual Emerging Technologies	7548
 Public Emergencies	16835
+Public Health Authority Emelyn Shroff	19177
 Public Health Emergencies	14434
 Public Health Emergency Account	4217
 Public Health Emergency Management	4349

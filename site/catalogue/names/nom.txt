@@ -205,6 +205,7 @@ Excellence Nombre	13306
 Exchange Rates Real and Nominal Effective Exchange	17909
 Express Account Masterpass Nombre	13390
 Extérieur Nombre	3396
+FBWA and Nomadic BWA	18971
 FDAL Nombre	3396
 FE DGI Nombre	10858
 FEMMES ACTUELLEMENT EN UNION Nombre	13300
@@ -303,6 +304,7 @@ Indicateurs Intersectoriels Nombre	15901
 Indicateurs Nombre	11944,2544,2
 Indice Synthétique de Fécondité Désiré Nombre	13300
 Information Géospatiale Nombre	17983
+Information and Communication'. Nominal GDP	19038
 Informatique Nombre	13306
 Infrastructures Nombre Adresse Points	15885
 Instrutivo de Nomenclatura	11405
@@ -554,13 +556,16 @@ NOMS ET PRENOMS STRUCTURES EMAIL CONTACT	17845
 NS Nombre	3396
 NUM. NOMBRE Y APELLIDOS FUNCIÓN EMAIL	16898
 NUMÉRO NUMÉRO DE NOM DE COL	13300
+Naissances Nombre	18926
 National Nombre de Groupes Nombre de Groupes	10847
 National Statut Nombre Nombre de Nombre	10847
+Nationale Nombre	18884
 News Nomba	4324
 Nicaise NOMEWA	16099
 Nigeria's Nomba	7015
 Nom Date V.1.0.2 Jean Luc RAZAFINDRAMINTSA	14438
 Nom Date Valideur	14438
+Nom Fonction D	19150
 Nom Fonction DIANDA Adama Expert	16747
 Nom Objet	14438
 Nom Organisation Titre	14539
@@ -591,7 +596,7 @@ Nomba	391,3664,8284,934,10,404,3098,13
 Nomba's Congo	4055
 Nomba’s DRC	16798
 Nombo	10196
-Nombre	17,402,224,94,10,1,250,189,1155,282,342,430,1063,3196,3192,11,16,2,47,4,38,10,791,178,121,1235,6,18,1,52,13,24,19,19,16,10,22,24,899,56,9,1,1,47,85,777,57,18,1,18,5,2,7,35,15,11,12,3,16,24,1,46,3,12,22,4,1,3,5,2,2,75,49,37,16,7,28,7,22,34,13,25,135,77,46,32,1,298,15,67,147,16,614,339,11,7,2,1,11,4,4,2,1,5,9,1,7,7,17,32,38,31,1,17,45,34,10,1,21,26,1,1,33,82,5,21,4,6,435
+Nombre	17,402,224,94,10,1,250,189,1155,282,342,430,1063,3196,3192,11,16,2,47,4,38,10,791,178,121,1235,6,18,1,52,13,24,19,19,16,10,22,24,899,56,9,1,1,47,85,777,57,18,1,18,5,2,7,35,15,11,12,3,16,24,1,46,3,12,22,4,1,3,5,2,2,75,49,37,16,7,28,7,22,34,13,25,135,77,46,32,1,298,15,67,147,16,614,339,11,7,2,1,11,4,4,2,1,5,9,1,7,7,17,32,38,31,1,17,45,34,10,1,21,26,1,1,33,82,5,21,4,6,435,231
 Nombre Acte CSRéf Activité	17845
 Nombre Actions FCFA	18003
 Nombre Cellule	3396
@@ -723,6 +728,7 @@ Nome N.º Turma Tecnologias de Informação	16325
 Nome Região	17147
 Nome da Base	966
 Nome de Domínio	576
+Nomea	18896
 Nomeando	15404,2007
 Nomear	4218,7163,1,67,3942,49,86,386,2839,22,28
 Nomeação	167,263,2436,8493,22,4015,8,508,2861
@@ -752,7 +758,7 @@ Nominal	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1404,1,1,1,1,1,1,1,1,1,1686,242,1944,1,
 Nominal Administrative	14546
 Nominal Exchange Rate Variation	18455
 Nominal Exports	17257
-Nominal GDP	2775,8361,1364,1148,37,183,1117,2250,22,246,985,363
+Nominal GDP	2775,8361,1364,1148,37,183,1117,2250,22,246,985,363,187
 Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
 Nominal Orbital Position Operational Frequency	736

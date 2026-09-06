@@ -54,6 +54,7 @@ CATEGORÍA COMERCIO Certificado de Comercio D2 COMERCIO	4209
 CATEGORÍA Certificado de Comercio ACTUAL Libreta	4209
 CCC COMESA	4583
 CCCC COMESA	4583
+CEO of COMESA Federation of Women	19179
 CMS Central Management System COMESA Common	13005
 CNRF CPMI CSD COMESA EAC EAPS	13468
 COMEDAF	13960,3870
@@ -75,7 +76,7 @@ COMERCIO Ficha	4209
 COMERCIO Y DE LA CONTRATACIÓN POR	16855
 COMES NEXT	10714
 COMES NEXT The ID4D Global	10714
-COMESA	26,1,1,844,331,501,63,3,44,100,283,94,421,63,962,11,12,93,33,53,589,10,45,1956,481,241,684,18,76,255,41,259,401,158,29,334,500,297,59,181,578,3,15,739,72,83,110,10,29,94,55,11,1,23,50,18,9,35,24,406,24,20,47,33,11,40,147,50,11,19,23,2,42,1,31,12,9,3,9,16,20,12,63,61,49,195,140,72,58,87,42,24,274,179,4,70,1,116,25,25,12,1253,381,1691,153
+COMESA	26,1,1,844,331,501,63,3,44,100,283,94,421,63,962,11,12,93,33,53,589,10,45,1956,481,241,684,18,76,255,41,259,401,158,29,334,500,297,59,181,578,3,15,739,72,83,110,10,29,94,55,11,1,23,50,18,9,35,24,406,24,20,47,33,11,40,147,50,11,19,23,2,42,1,31,12,9,3,9,16,20,12,63,61,49,195,140,72,58,87,42,24,274,179,4,70,1,116,25,25,12,1253,381,1691,153,414,14,48,228
 COMESA AI	8995
 COMESA AUTHORITY OF THE HEADS	13440
 COMESA Ambassador Conrad Mederic	13440
@@ -99,6 +100,7 @@ COMESA Common Market for Eastern and Southern Africa	11960,1428,3243
 COMESA Competition Authority	4583
 COMESA Competition Commission	9817
 COMESA Competition Regulations and Competition Rules	961
+COMESA Council	19119
 COMESA DIGITAL INFORMATION KNOWLEDGE	11825
 COMESA DRPP Scheme Rulebook	9516
 COMESA Digital Retail P Bill	2201
@@ -110,12 +112,13 @@ COMESA Electronic Certificate of Origin	13563
 COMESA Electronic Single Window	13563
 COMESA Electronic Single Window System	13563
 COMESA FREE TRADE AREA	13440
-COMESA FTA	13440,123
+COMESA FTA	13440,123,5556
 COMESA Federation of Women	12376
 COMESA Financing Agreement	1914
 COMESA Full Compliance Matrix-Finalv1.docx	11825
 COMESA Governors of Central Banks	11131
 COMESA Inclusive Digital Economic Advancement	7453
+COMESA Innovation Hub	19179
 COMESA MSME	872
 COMESA Marché	17881
 COMESA Member States	13440
@@ -179,10 +182,12 @@ Comenzó	3179
 Comercial	37,5439,1092,3750,435,612,4038,1452,482
 Comercial A2 Agregado Comercial A3 Cónsul	4209
 Comercial A3 Agregado Militar A3 Consejero	4209
+Comercial China-África	18958
 Comerciales	16855
 Comerciales Electrónicas	16855
+Comercializa	18896
 Comercialización	4209
-Comercialização	2816,8716,4240,3012
+Comercialização	2816,8716,4240,3012,111
 Comercialização Interna de Castanha de Caju	11532
 Comercialização Interna de Castanha de Caju. Comercialização	11532
 Comerciante	11438
@@ -266,6 +271,7 @@ Empresas Comerciais. Artigo	15391
 Empresas Comerciais. CAPÍTULO IV Pessoal Artigo	15391
 Encuesta Sobre Márgenes Comerciales	4209
 Endangered Species of Wild Fauna and Flora COMESA	13042
+Entidade Comercializadora	18896
 Estadísticas de Comercio	16898
 Estadísticas de Comercio Exterior	16898
 FACTORIAS Y COMERCIO EN GENERAL	4209

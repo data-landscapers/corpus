@@ -26,6 +26,7 @@ Banco Paille Sans	10847
 CAE Fournisseur de Services de Paiement	13468
 CAPITAL Paix	17983
 CE QU'IL FAUT COMPRENDRE Paiements	15797
+CIP Centre des Incidents de Paiement	18931
 COBAC RELATIF AUX SERVICES DE PAIEMENT	15442
 CPS-SE REVUE PAR LES PAIRS	17830
 CROWN PAINTS KENYA PLC Data Controller	7167
@@ -60,6 +61,7 @@ DE PAIEMENT DES FRAIS DE DELIVRANCE	17899
 DE PAIEMENT I.1. Introduction	13452
 DE PAIEMENT Logiquement	16446
 DE PAIEMENT TITRE	15352
+DE PAIEMENT VERSEMENT SPONTANE	18973
 DE PRÉSERVER LA PAIX	15603
 DE SERVICE DE PAIEMENT CHAPITRE PREMIER	10836,4799
 DE SERVICES DE PAIEMENT URL	17858
@@ -106,6 +108,7 @@ G2P Paiement	15474
 GESTION DES INCIDENTS DE PAIEMENT	17833
 GIZ PAIRed	16101
 GUIDE POUR LA DIGITALISATION DES PAIEMENTS	10711
+GUIDE UTILISATEUR Contribuables Declaration Paiement.pdf	18973
 Guichet Unique de Paiement	15449
 HH. Paid	15663
 HT Paiements GRATUIT	17833
@@ -140,6 +143,7 @@ LOSS PAID	11955
 La Centrale des Incidents de Paiement	11944
 La Paierie Générale du Trésor	17899
 La Paix Street	14847
+La Stratégie Nationale de Paiement Numérique	18960,246
 La Surveillance des Systèmes de Paiement	13468
 Largest Contentful Paint	15936
 Le Conseil des Systèmes de Paiement	18073
@@ -263,15 +267,16 @@ Paid-up	1995
 Paid-up Capital	10738,6498
 Paie Anael RH. Pour	15474
 Paie des Enseignants Provincial	11916
-Paiement	2476,85,834,289,339,2172,899,1561,145,1888,23,125,40,90,968,38,1352,17,49,62,985,21,5,16,920,25,50,68,257,50,52,35,71,5,8,27,441,64,77,848,356,34,31,224,195,2,24
+Paiement	2476,85,834,289,339,2172,899,1561,145,1888,23,125,40,90,968,38,1352,17,49,62,985,21,5,16,920,25,50,68,257,50,52,35,71,5,8,27,441,64,77,848,356,34,31,224,195,2,24,630,171
 Paiement Convention	15901
 Paiement Direct	13630,2293,2271
 Paiement Etablissements de Paiement	13452
 Paiement Instantané	10888
 Paiement Marchand	7730
 Paiement Projet	15901
+Paiement URL	18973
 Paiement des Intérêts	15901
-Paiements	2630,403,1861,430,416,406,742,66,121,893,2269,474,254,2425,2084,34,216,73,139,2,671,20,1267
+Paiements	2630,403,1861,430,416,406,742,66,121,893,2269,474,254,2425,2084,34,216,73,139,2,671,20,1267,1094
 Paiements Electroniques	17833
 Paiements GRATUIT	17833
 Paiements Nombre	4459
@@ -325,7 +330,9 @@ Performances Paiement	13341
 Plascon-Evans Paints Ltd	2307
 Plateforme Interopérable du Système de Paiement Instantané	3390,9,4741,176,2572,911,3971,64,3,353,69,1796,91,72
 Plateforme Nationale De Paiement	15583
+Portant Système National de Paiement. Tout	18916
 Posts PAIA	11251
+Prestataire de Service de Paiement	18916
 Prestataire de Services de Paiement	16363
 Prestataires de Services de Paiement	5740,7728,2025
 Procedures Time Cost Paid-in	18109
@@ -335,6 +342,7 @@ RADIO VOIX DE LA PAIX ET	13324
 RATIoN DE REcoUVREMENT REDUIRE TE PAIEMENT	14479
 RELATIVE AUX SERVICES DE PAIEMENT DANS	10836,4799
 REMBOURSEMENT DU PRINCIPAL ET PAIEMENT	15399
+RENFORCER LA PAIX	18972
 REPUBLIQUE DU CAMER0UN PAIX-TRAVAIL-PATRIE	15441
 REPUBLIQUE DU CAMEROUN PAIX	10966,15,4392,63,563
 REQUISES POUR LES SERVICES DE PAIEMENT	14919
@@ -363,6 +371,7 @@ Services de Paiement	7283
 Siemens PAIX Vodafone Vodafone RKD Raxio	10861
 Social Specialist Paivi Koskinen-Lewis Supervision	15601
 Starting Paid-Up Capital	12882
+Stratégie Nationale de Paiement Numérique	18960,246
 Supervision des Prestataires de Services de Paiement	18007
 Système Intégré de Paiement	13452
 Système National de Paiement	13452,4621
@@ -392,6 +401,7 @@ UEMOA RELATIF AUX SYSTEMES DE PAIEMENT	15352
 UNE SOLUTION DE PAIEMENT SIMPLE ET	16396
 UVRE DE L’ACCORD POUR LA PAIX	17828
 Under the PAIF-PME	10845
+V. Stratégie Nationale de Paiement Numérique	18960
 Van Riebeeck Paints	2307
 Wanderley Lima Paixão Direcção de Assuntos Fundiários	18760
 XV. MODALITÉS DE PAIEMENT	13635

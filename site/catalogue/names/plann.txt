@@ -117,6 +117,7 @@ DATA MANAGEMENT PLANNING ACROSS DISCIPLINES	12090
 DEEPCFWP1 Ministry of Finance and Planning	11142
 DEVELOPMENT Ministry of Economic Planning and Development	4247
 DEVELOPMENT PLANNING	17011,1456
+DG National Planning	18950
 DNPD National Directorate of Development Planning DTT	17870
 DPME National Planning	11193
 Data Centre Capacity Planning	9123
@@ -124,6 +125,7 @@ Data Gender-Responsive Planning	13349
 David Mutale Mwila Planner	13392
 Debt Management Investment Savings Planning and Budgeting	7763
 Dec-2022 Planned Mid Term Review Date	15619
+Delegate and Planner	18911
 Demand for Family Planning	13454,1793
 Department for Urban Planning and Development GIZ German	15473
 Department of Budget and Development Planning	16963
@@ -163,6 +165,7 @@ Development Planning Framework	18488
 Development Planning MIA	16872
 Development Planning MLG Ministry of Local Government	17260
 Development Planning Officers	16524
+Development Planning and International Cooperation	18909
 Development System PM&E Planning	11224
 Development and Land Use Planning	18293
 Development and Regional Planning-Administrative	18305
@@ -197,7 +200,7 @@ Directorate for Planning and Policy	18460
 Directorate of Corporate Planning and Strategy	17683
 Directorate of Development Planning	16927
 Directorate of Land Management and Urban Planning	16614
-Directorate of Planning	11855,490,6133
+Directorate of Planning	11855,490,6133,615
 Directorate of Planning Health Facility Quality Index	16922
 Directorate of Planning and Development and EMIS Manager	13310
 Directorate of Planning and Education Innovation	18765
@@ -239,7 +242,7 @@ ETHIOPIA NATIONAL PLANNING COMMISSION CENTRAL	13965
 Economic Affairs and Planning	16958
 Economic Development Planning	12358,6118
 Economic Development and Planning	14745
-Economic Planning	2840,1263,3040,4578,1251,83,38,238,980,235,273,178,133,34,2389,672,389
+Economic Planning	2840,1263,3040,4578,1251,83,38,238,980,235,273,178,133,34,2389,672,389,402,26,54,70
 Economic Planning Dear Valued Stakeholders	14819
 Economic Planning Department	10348,2614
 Economic Planning Hon. Uzziel NDAGIJIMANA and KOICA	770
@@ -596,6 +599,8 @@ Ministry of Economic Planning and Development	6213,60,3032,1826,3,1196,4,61,17,4
 Ministry of Economic Planning and Development Email	12962
 Ministry of Economic Planning and Development World Bank	12972
 Ministry of Economy and Planning	1688,1,9074,5,195,1
+Ministry of Employment and Human Resource Planning	19016
+Ministry of Employment and Human Resources Planning	19096
 Ministry of Finance Development and Planning	16876,99
 Ministry of Finance Economic Planning and Development	14736
 Ministry of Finance and Development Planning	2766,1517,557,404,3330,866,580,40,67,2547,24,3,48,1586,1809,704,5,7,12,71,6,21,1,4,8,2,8,18,19,7,20,13,29,15,2,22,1,96,79,50,30
@@ -684,8 +689,9 @@ National Directorate of Development Planning	17870
 National Directorate of Planning	11863
 National Government Planning	12962
 National Interagency Spatial Planning Platform	12137
-National Planning	193,11673,261,1405
+National Planning	193,11673,261,1405,5448
 National Planning Act	12546
+National Planning And Trade	18948
 National Planning Authority	9696
 National Planning Commission	586,4450,1796,95,3268,1000,29,457,179,315,6,59,85,96,125,375,2,18,41,2,2,132,3721
 National Planning Commission Advisory Council	12546
@@ -700,13 +706,16 @@ National Planning Commission. The Statistics Act	12367
 National Planning Coordination	11224
 National Planning Coordination Tel	11224
 National Planning Council	16958
-National Planning Department	16867
+National Planning Department	16867,2113
+National Planning Department. All	18980
 National Planning FMHDSD Federal Ministry of Humanitarian	11857
 National Planning Framework	13318
 National Planning MNO'S Mobile Network Operators	13345
 National Planning and Budget Act	13322
 National Planning and Budgeting Act	13318
 National Planning and Economic Development	18174,70
+National Planning and Trade	18929,19,2,2,27
+National Planning and Trade Email and Phone	18950
 National PlanningCommission	12325
 National Research Prioritisation And Strategic Planning	1554
 National Research Prioritisation and Strategic Planning	1154,400
@@ -742,6 +751,7 @@ PDO PIU Ministry of Finance and Development Planning	16144
 PLANNING	13318,25,1430,700,1498,1690
 PLANNING AND DEVELOPMENT PORTFOLIO COMMITTEE	13131
 PLANNING AND PROGRESS PROJECT FEATURED	16854
+PLANNING AND TRADE	18929
 PLANNING AND WELFARE ASSOCIATION ACT HUMAN	14773
 PLANNING COMMISSION ACT	6921
 PLANNING COMPONENT	17157
@@ -756,7 +766,7 @@ PS-9 Spectrum Planning	11857
 Partiallyx Planned	10812
 Pending Implementation. Planned	13017
 Percentage of Demand for Family Planning Satisfied	18441
-Physical Planning	8957,3255,3261,3146
+Physical Planning	8957,3255,3261,3146,274
 Physical Planning Officers	16524
 Physical and Land Use Planning Act	14595
 Plan SDP Spatial Development Planning SETA	11261
@@ -884,13 +894,15 @@ Planned and Unplanned HV	14867
 Planners	396,7570,4996
 Planners KM Kilometers KMHFL Kenya Master	2775
 Planners and M&E Officers	16944
-Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1,82,5,4
+Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1,82,5,4,317
 Planning Act	1988
 Planning Ahead Will Make	10763
 Planning Assumptions The Electoral Commission	7266
 Planning Augustine Kpehe Ngafuan	6523
+Planning Authority	19096
 Planning Broad Money Supply Motor Vehicle	12701
 Planning CONSUMER PROCESS Compare	418
+Planning Cadastre Cadastral and Legal Land Descriptions	18904
 Planning Commission Act	6921
 Planning Commission ZRCP Zanzibar Research Centre	11133
 Planning Component	17157
@@ -978,7 +990,7 @@ Planning and Information	1988,11467,181
 Planning and Information E&S Environmental and Social	16922
 Planning and Information E&S Environmental and Social EHCP	16896
 Planning and InformationDirectorate	13392
-Planning and International Cooperation	5268,130,1762,8498
+Planning and International Cooperation	5268,130,1762,8498,3229
 Planning and International Cooperation. Ambition Journal	16176
 Planning and Investment Committee	6946
 Planning and Investment and Executive Secretary	10195
@@ -1010,6 +1022,7 @@ Planning and Urban Development SME Small and Medium	15473
 Planning for Convergence	4906
 Planning for Stronger Results	16872
 Planning the Assignment. Task	13922
+PlanningÂ	18887
 PoE Portfolio of Evidence PPA Planning Profession	11261
 Policies and Governance and Planning Formal	15164
 Policy Coordination and Integrated Planning	1009
@@ -1036,6 +1049,7 @@ Prime Minister Abiy Ahmed. The Planning	7091
 Prime Minister.. Minister of Planning	15887
 Principal Planning Officer	13477
 Principal Planning Officer Ministry of Foreign Affairs	12972
+Principal Secretary National Planning	18950
 Principal Secretary for Economic Planning and Development	12978,2
 Priority Urban Planning Education Water and Sanitation	18476
 Procedures for Planning and Carrying Out Inspections	10776
@@ -1058,6 +1072,7 @@ Project Preparation and Planning	13017
 Project Total Indicative Expenditure Planning	11986
 Project Total Indicative Expenditure Planning R	11986
 Proposed DARE1 Extension Map Planned DARE1	13869
+Provincial Planners	18911
 Qualifications Framework ERP Enterprise Resource Planning	14747
 Quarter Total Economic Planning	12972
 RESETTLEMENT PLANNING AND IMPLEMENTATION PROCESS	17114
@@ -1083,6 +1098,7 @@ Reporting MFDP Ministry of Finance and Development Planning	16943
 Reporting and Planning Processes	3430
 Representing the Economic Planning	14523
 Republic of Cameroon Ministry of Economy and Planning	10963
+Republic of Seychelles National Planning Department	18980
 Research Infrastructure and Planning. Strengths	15713
 Research Planning and Information	13477
 Research and Development Planning	16970
@@ -1117,6 +1133,9 @@ Security Energy Telecommunication Environment Urban Planning	18476
 Senior Planning Officer	12972
 Senior Strategic Policy and Planning Officer	14745
 Sexual and Reproductive Health and Family Planning. Thematic	16951
+Seychelles Marine Spatial Planning Agency	19096
+Seychelles Marine Spatial Planning Agency Bill	19081
+Seychelles Planning Authority	18965
 Shanghai Planning Office of Philosophy and Social Science	8460
 Somali Ministries of Planning	32
 South Africa. Planning	8915
@@ -1205,6 +1224,8 @@ Town and Country Planning Act	1988,10659,2101
 Town and Country Planning Act Met Prior	18488
 Town and Country Planning Board	14738,8
 Town and Country Planning Department	11
+Trade and Economic Planning	19040
+Trade and National Planning	18927
 Transmission System Planned Availability Index	14867
 Treasury and Economic Planning	10313
 Treasury and Planning	12138

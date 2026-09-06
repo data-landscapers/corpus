@@ -35,10 +35,10 @@ GUICHÉ	18833
 GUICOPRES	3540
 Groupe GUICOPRES	8553
 Groupe Guicopres	8553
-Guich	14490
+Guich	14490,4406
 Guichard Tsangou Wanvoukissa	17698
 Guichard Tsangou-Wanvoukissa	1814
-Guichet	4420,297,57,432,223,77,643,1206,832,138,1668,718,264,2366,34,15,337,1801,55,464,126,2,187,123,130,28,1174,16,74,58,80,297
+Guichet	4420,297,57,432,223,77,643,1206,832,138,1668,718,264,2366,34,15,337,1801,55,464,126,2,187,123,130,28,1174,16,74,58,80,297,630
 Guichet Automatique Bancaire	11944
 Guichet Automatique de Banque GIM-UEMOA	10711
 Guichet Automatiques Bancaires	13390
@@ -65,7 +65,7 @@ Guichet Unique URL	13745
 Guichet Unique Vu la Loi N	17817
 Guichet Unique de Commerce Extérieur	15936
 Guichet Unique de Commerce GUCE Mobile Extérieur	15936
-Guichet Unique de Création	8065,122,1571
+Guichet Unique de Création	8065,122,1571,9313
 Guichet Unique de Paiement	15449
 Guichet Unique des Concours Administratifs	15936
 Guichet Unique des Opérations Transfrontalières	15553
@@ -93,6 +93,7 @@ Guichets GRATUIT Automatiques de Banques	17833
 Guichets HT	17833
 Guichets N	17833
 Guichets RSU	16032
+Guichets Uniques	18944
 Guichets Uniques de Protection Sociale	10869,5004
 Guiché	3594,1153,6006,618,7404
 Guiché Unico Para Empresa Constituição	18833

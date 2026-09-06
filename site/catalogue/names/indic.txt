@@ -56,6 +56,8 @@ Agmet Indicator Tool	13094
 Agricultural Indicators	2775
 Agricultural Indicators Food Balance Sheet	2775
 Agrupamentos de Indicadores Múltiplos MINR Ministério	18779
+Ambition Indicateurs	18988
+Ambition Indicateurs Projets	18988
 Ancienneté Echelon INDICES SOLDE MENSUELLE BRUTE	15524
 Angola Inquérito de Indicadores Múltiplos	10760,17
 Angola N.º INDICADORES	4044
@@ -80,10 +82,12 @@ Axe Stratégique Indicateurs de Performance Cible	14622
 B. INDICATEURS DU QUESTIONNAIRE LONG	18204
 B. PDO Indicators	18198
 B. PDO Indicators and Theory of Change	16144
+B. PDO Level Results Indicators	18887
 B. Performance Indicators	17139
 B. Theory of Change and PDO Indicators	15743,641
 B. Theory of Change and PDO Indicators C	13856
 B. Theory of Change and PDO Indicators Target	15743
+B.Â PDO Level Results Indicators	18887
 BAD Indice de Réglementation	18322
 BAD. Indice	8891
 BAM. Indicators of Banks' Performance	17503
@@ -228,6 +232,7 @@ Corporte Scorecard Indicator. Frequency Quarterly Data	15658
 Country Data Development Indicators	18747
 Country Indicators	11762,1988
 Country Partnership Framework Corporate Results Indicator	16436
+Couverture Santé Universelle Indicateurs	18988
 Criminal Indictment Matters	12920
 Cross-cutting Indicators	14945
 Cumulative Target Values Indicator Name Core	15411
@@ -285,7 +290,7 @@ Disbursed-Linked Indicators	17458
 Disbursement Linked Indicator	17470
 Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
-Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35
+Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477
 Disbursement Linked Indicators DLI	11905
 Disbursement Linked Indicators. Beyond	16922
 Disbursement-Linked Indicators	15693,945,1732
@@ -372,6 +377,7 @@ Evaluation Indicators	16884,1
 Evaluation KPI Key Performance Indicator LGMIM	11224
 Evaluation MICS Multiple Indicator Cluster Survey	15556
 Event Data AVI Indice	15715
+Evénements Variables Indicateurs Objectifs	18926
 Expected Outcome Key Performance Indicators Timeframe	7548
 Expected Output Key Performance Indicators	7548
 Expected Outputs Output Indicators	13095
@@ -464,13 +470,14 @@ ICC Indice	15961
 ICH Indice du Capital Humain ICS International	13341
 ICR DOCUMENT Intermediate Indicators	16436
 ICT Core Sector Indicators	18754
-ICT Core Sector Indicators and Definition	15372
+ICT Core Sector Indicators and Definition	15372,3515
 ICT Development Indicator	17836
 ICT Gender Indicators	14897
 ICT Household Indicators	3641,7783,6319
 ICT Indicator Summary	15164
 ICT Indicators	582,3059,3305,4316,162,139,3908,2272
 ICT Indicators Database	1248,8511,2585,3167,106,1323,937,1
+ICT Indicators Database. Available	18933
 ICT Indicators Database. Geneva	16872
 ICT Indicators Quarterly Bulletin	15604
 ICT Indicators Symposium	15471
@@ -524,6 +531,7 @@ INDICADORES SOBRE ENSINO	18757
 INDICADORES SOBRE POPULAÇÃO População	18768
 INDICADORES SOBRE TURISTAS	18757
 INDICATED BELOW	16970
+INDICATED ON THE PAGE. CONSULTANTS	18965
 INDICATETEURS TIC AU BURUNDI	13414
 INDICATEUR	15999
 INDICATEUR AE	15999
@@ -550,6 +558,7 @@ INDICATEURS DU POUVOIR D’ACTION DES FEMMES	13300
 INDICATEURS Fr	14479
 INDICATEURS Objectif	15848
 INDICATEURS PRINCIPAUX DES DEUX SCENARII ENVISAGES	14479
+INDICATEURS PROPOSES Piliers Métriques	18967
 INDICATEURS PS-SNISS	17845
 INDICATEURS SOURCE DE VERIFICATION RISQUES ET	15722
 INDICATEURS SUR L' ENSEIGNEMENT	18757
@@ -676,7 +685,7 @@ Indicadores de Registo de Empresas	11571
 Indicadores de Sau	11387
 Indicadores-Chave	11569
 Indicar	15554,3219
-Indicate	736,3236,2181,2786,3363,702,33,3806,168
+Indicate	736,3236,2181,2786,3363,702,33,3806,168,1974
 Indicate Foreign Currency	13037
 Indicate Namibian Dollars	13037
 Indicate the ISO	16843
@@ -686,7 +695,7 @@ Indicateirs PS	17845
 Indicates	7221,3559,4111,273,1993
 Indicates the GP-2	15164
 Indicates the HR-3 ICT	15164
-Indicateur	748,574,1,1,740,1,1,2013,1,4811,4409,90,1232,852,19,213,1,621,224,454,442,14,394,8,81,38,308,74
+Indicateur	748,574,1,1,740,1,1,2013,1,4811,4409,90,1232,852,19,213,1,621,224,454,442,14,394,8,81,38,308,74,623
 Indicateur ANJE	13300
 Indicateur Définition Taux	7655
 Indicateur ENE	7655
@@ -722,7 +731,7 @@ Indicateur de Développement Humain	15423
 Indicateur de Développement Humain IEC	15423
 Indicateur de Potentiel de Développement	18103
 Indicateur de Résultat Observations Structures	17872
-Indicateurs	643,94,10,18,57,1618,956,2234,298,1727,1236,1967,16,2,89,10,941,28,99,1257,24,1,16,73,19,9,26,118,49,853,1,1,39,8,85,852,1,18,3,4,80,3,40,50,12,27,8,26,53,49,53,7,28,76,25,66,65,160,31,267,88,369,365,387,1,6,1,1,1,11,11,14,1,14,6,43,70,48,42,16,191
+Indicateurs	643,94,10,18,57,1618,956,2234,298,1727,1236,1967,16,2,89,10,941,28,99,1257,24,1,16,73,19,9,26,118,49,853,1,1,39,8,85,852,1,18,3,4,80,3,40,50,12,27,8,26,53,49,53,7,28,76,25,66,65,160,31,267,88,369,365,387,1,6,1,1,1,11,11,14,1,14,6,43,70,48,42,16,191,614,62,55
 Indicateurs ANJE	13300
 Indicateurs Activité	17845
 Indicateurs Axe	17845
@@ -737,7 +746,7 @@ Indicateurs Conflits Nombre des Consultations	14488,1,1
 Indicateurs DFM	17845
 Indicateurs DRH-SSDS PTF Définir	17845
 Indicateurs Des Phénomènes Sociodémographiques Elémentaires	17945
-Indicateurs Données	13433,2604
+Indicateurs Données	13433,2604,2930
 Indicateurs Données de Année	13433
 Indicateurs Dotation	14488
 Indicateurs Droits	14537
@@ -830,7 +839,7 @@ Indicativos de Ameaças	11569
 Indicativos de Forças	11569
 Indicativos de Fraquezas	11569
 Indicativos de Oportunidades	11569
-Indicator	958,246,24,639,909,3763,132,257,18,276,326,215,2996,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15,583,8,835,124,38,62,59,103,5,80,167,13,23,71,35,48,92,32,288,19,11,144,427,229,20,29,50,54,120,11,13,95,1,3,202,302,126,89,4,44,119,225,135,27,242
+Indicator	958,246,24,639,909,3763,132,257,18,276,326,215,2996,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15,583,8,835,124,38,62,59,103,5,80,167,13,23,71,35,48,92,32,288,19,11,144,427,229,20,29,50,54,120,11,13,95,1,3,202,302,126,89,4,44,119,225,135,27,242,150,78
 Indicator Adults	15480
 Indicator Baseline	940,17814
 Indicator Baseline Intermediate Targets End Target	12675
@@ -963,7 +972,7 @@ Indicator-Level Contributions	15244
 Indicator-Level Responses	10785
 Indicator-level	17127
 IndicatorIds	16144
-Indicators	789,172,9,30,144,674,1786,697,2370,77,595,205,3232,49,134,1,307,119,27,155,323,256,205,156,89,74,420,205,12,2,757,27,631,23,63,40,80,92,7,86,44,80,3,95,30,39,69,183,77,161,243,292,178,24,205,18,15,8,37,54,182,23,261,429,92,44,103,16,333,2,13,56,99,17,79,93
+Indicators	789,172,9,30,144,674,1786,697,2370,77,595,205,3232,49,134,1,307,119,27,155,323,256,205,156,89,74,420,205,12,2,757,27,631,23,63,40,80,92,7,86,44,80,3,95,30,39,69,183,77,161,243,292,178,24,205,18,15,8,37,54,182,23,261,429,92,44,103,16,333,2,13,56,99,17,79,93,70
 Indicators AI	15713
 Indicators Absolute Relative	15244
 Indicators Activities Corrective Action Deviation	5245
@@ -1016,7 +1025,7 @@ Indicators of Staffing Needs FOREWORD	12729
 Indicação	539,10218,9,17,582,12,6,47,3962,3386
 Indicações	14,15371,7,172,3191
 Indicações Metodológicas	15564
-Indice	15,628,681,742,2014,2302,1052,438,354,665,1616,97,156,114,101,969,1356,25,108,2041,19,3,103,113,3,5,4,212,25,38,27,132,10,155,298,5,15,67,293,445,2,388,6,2,12,4,19,2,15,35,14,33,85,14,209,5,33,94
+Indice	15,628,681,742,2014,2302,1052,438,354,665,1616,97,156,114,101,969,1356,25,108,2041,19,3,103,113,3,5,4,212,25,38,27,132,10,155,298,5,15,67,293,445,2,388,6,2,12,4,19,2,15,35,14,33,85,14,209,5,33,94,524,25,21,181
 Indice CETUD	18291
 Indice CNUCED	18319
 Indice Catégorie TABLEAU ANNEXE	16171
@@ -1121,7 +1130,7 @@ Intermediate Outcome Indicator	16614,2140
 Intermediate Result IRI Intermediate Results Indicator	16952
 Intermediate Result Indicators Number	1867
 Intermediate Results Indicator	1284,10640,3677
-Intermediate Results Indicators	1284,583,845,892,1049,35,1891,349,949,2891,102,525,22,438,50,19,41,6,17,240,39,173,284,303,31,273,639,1010,37,14,107,21,265,94,35,66,39,1,2,2,72,2,276,19,47,65,43,249,202,67,191,26,27,3,42,6,79,17,374,35,399,54,4,171,217,4,1,4,175,258,25
+Intermediate Results Indicators	1284,583,845,892,1049,35,1891,349,949,2891,102,525,22,438,50,19,41,6,17,240,39,173,284,303,31,273,639,1010,37,14,107,21,265,94,35,66,39,1,2,2,72,2,276,19,47,65,43,249,202,67,191,26,27,3,42,6,79,17,374,35,399,54,4,171,217,4,1,4,175,258,25,165,101
 Intermediate Results Indicators Component	15411,1511,1903
 Intermediate Results Indicators Definition	15553
 Intermediate Results Indicators FY Indicator Name	11525
@@ -1187,7 +1196,7 @@ Key Performance Indicator MDAs Ministries	4126
 Key Performance Indicator MFSA Microfinance South	11198
 Key Performance Indicator Ministry	10157
 Key Performance Indicator OECD	16968
-Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68,40,123,301,29,48,632,306,795,32,1,48,30,25,63,49,115,455,192,1062,93,12,48,1175,31,227,32,4
+Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68,40,123,301,29,48,632,306,795,32,1,48,30,25,63,49,115,455,192,1062,93,12,48,1175,31,227,32,4,599,72
 Key Performance Indicators Implementation	10157
 Key Performance Indicators Improve	12359
 Key Performance Indicators LEC Liberia Electricity	17260
@@ -1242,6 +1251,7 @@ MACRA Summary of Key Telecommunications Indicators	14674
 MAIN SOCIO-ECONOMIC DEVELOPMENT INDICATORS AND ICT	958,12337
 MALI INDICATEURS VALEUR ANNEE	17824
 MBB INDICATEUR EXIGENCE MINIMALE	15943
+MDAs Indicator	18982
 ME PDO Table SPACE Indicator Name	15553
 MESURE DES INDICES DE PERFORMANCE DES	15670
 MESURES ET INDICATEURS PROPOSES POUR	18316
@@ -1369,6 +1379,7 @@ National Outcome Indicator Reporting Frequency Biennial	14819
 National Treasury's SDF. Indicative Phase	11940
 Niger. B. PDO Indicators	18198
 Nigeria Code Indicator	11884
+Nigéria Indicateurs	18988
 Nine Disbursement-Linked Indicators	18370
 Niveau Description Actions Indicateurs Objectivement VériÞ	15848
 Niveau Indicateurs	11944
@@ -1396,6 +1407,7 @@ OBJECTIVE STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
 OBJECTIVES INDICATED BELOW	16970
 OBJECTIVES STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
 OBJECTIVES STRATEGIES ACTIVITIES INDICATOR Train	12453
+ODD Cibles Indicateurs Indicateurs	18953
 ODD ET INDICATEURS LIÉS	17843
 OECD Indicators	11585
 OECD Indicators. Paris	15604
@@ -1423,6 +1435,7 @@ Outcome Indicator	13938,997
 Outcome Indicator Baseline End-of-project	18765
 Outcome Indicator Units Baseline Target Responsible	15130
 Outcome Indicators	4153,7771,3011,489,87,90,62,1288
+Outcome Indicators for CAB APL1B Development Chad	18887
 Outcome PDO Indicator Revised Target	17849
 Outcomes Indicator	17018
 Outcomes Indicators Targets	17018
@@ -1445,7 +1458,7 @@ PDO Indicator	3604,11820,1190,1235,905
 PDO Indicator Baseline	15511
 PDO Indicator Indicator	15601
 PDO Indicator Split	15601
-PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8
+PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258
 PDO Indicators Beneficiaries of SSN	11924
 PDO Indicators Definition	15553
 PDO Indicators Direct	13917
@@ -1464,7 +1477,7 @@ PDO Level Indicators	10964,2367,2160,27,140,1291,1155,189
 PDO Level Indicators Key	15661
 PDO Level Indicators The PDO	1867
 PDO Level Indicators. The PDO	6539
-PDO Level Results Indicators	11905,3467,2086
+PDO Level Results Indicators	11905,3467,2086,1429
 PDO Outcomes and Corresponding PDO Indicators PDO	17849
 PDO Table SPACE Intermediate Results Indicators	1228,9601,135,2368
 PDO and Intermediate Indicators	18825
@@ -1581,6 +1594,8 @@ Producer Price Indices and Construction Sector Indices	15085
 Producing Consumer Price Indices	11258
 Profitability Operational Efficiency Prudential Indicators	11955
 Profitability Ratios Indicator	17236
+Programme Indicateur	18988
+Programme Indicateur Année	18988
 Programme Indicatif Multi-Annuel	643,14853
 Programme Indicatif Multi-Annuel Régional	643
 Programme Indicatif Multiannuel	13325
@@ -1748,6 +1763,7 @@ SDG Indicator	14935,995
 SDG Indicator Gaps	13359
 SECURITE SOCIALE INDICATEUR Proportion	15999
 SEP. Several Key Performance Indicators	16926
+SFI Ambition Indicateurs Projets	18988
 SGD Indicator	16942
 SIAF SIAF Indicateurs	17845
 SIDA Indicateur	14622
@@ -1805,6 +1821,7 @@ Server Name Indication	14455
 Service Coverage Indicators	18627
 Service Delivery Indicator	10188
 Service Delivery Indicators	11905
+Service Delivery Indicators SWEDD	18942
 Service Quality Indicators	12389
 Set Key Performance Indicators	15034
 Setting Deprivation Cut-offs for Each Indicator	15244
@@ -1853,6 +1870,8 @@ Success Indicators	13076
 Success Indicators Acronyms AI Artificial Intelligence	13076
 Success Indicators and Performance Metrics	6442
 Sugestões Metodológicas Indicadores de Avaliação	15564
+Suivi des Indicateurs ODD	19043
+Summary Indicator Table	18937
 Summary of Relative Contributions of Indicators	15244
 Summary of Relevant Core Indicators for FCL Qualification	17503
 Summary of Weights for Core and Non-Core Indices	2775
@@ -1906,7 +1925,8 @@ Targets Indicator Pipeline	11469
 Targets Indicator Private	11469
 Tax Administration Operational Strength Indices	13624
 Tax Base and Governance of State-Owned Enterprises Indicator	18825
-Technology and Innovation Indicators	10421
+Tchad Suivi des Indicateurs du PND Tchad Connexion2030	19043
+Technology and Innovation Indicators	10421,8777
 Template Indicators Attachment V. Sources of Evidence	12500
 Template Indicators Sources of Evidence P7-24. Time	12500
 Terra Vegetation Indices	13624
@@ -1939,9 +1959,11 @@ UN E-Governement Survey Indice de Développement des TIC	16641
 UN E-Government and E-Participation Indices	15518
 UN EGDI Index OUTCOME INDICATOR	11863
 UN Indico	10707
+UNDP's Human Development Indicators	18910
 UNHCR Core Outcome Indicators Core Output	18125
 UNITEL CST Indicadores Estatísticos	18791
 UR Key Indicators	14935
+USD Indicateurs	18988
 USD Related Indicator	7221
 Union Européenne Programme Indicatif Multi-annuel	643
 Unit of Responsibility for Indicator Name Core Baseline	11525
@@ -1982,7 +2004,7 @@ Work Status of Household Head MPI Indicators	15244
 Workload Indicators of Staffing Need	14662
 Workload Staffing Indicator Needs	14622
 World Bank Corporate Scorecard Indicator	10768
-World Bank Development Indicators	17503,367
+World Bank Development Indicators	17503,367,1061
 World Bank Development Indicators Note	5247
 World Bank Development Indicators for GDP	14674
 World Bank Governance Indicators	4528,7984
@@ -2011,6 +2033,7 @@ World Development Indicators Database	18765
 World Development Indicators Figure	13314
 World Development Indicators Units	13930
 World Development Indicators WEO World Economic	11271
+World Development Indicators. Available	18931,2
 World Development Indicators. The World Bank	10829
 World Development Indicators. Washington	13624,2101
 World Economic Outlook Indicators. International Monetary	13332

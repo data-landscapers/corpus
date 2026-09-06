@@ -84,7 +84,7 @@ Agence Béninoise de Sécurité Sanitaire des Aliments	15416
 Agence Gabonaise de Sécurité Sanitaire des Aliments	15500
 Agence Mauritanienne de Sécurité Sanitaire des Aliments. Ce	18001
 Agence Nationale de Santé Numérique	16195
-Agent de Santé Communautaire	17882
+Agent de Santé Communautaire	17882,1044
 Agents de Santé Communautaire	15712
 Agents de Santé Communautaires	17882
 Agents de Santé Communautaires ASC	18076
@@ -273,6 +273,7 @@ CIVIL SANCTIONS AND MONETARY PENALTIES	3861
 CMU Ministère De La Santé	15936
 CNIB. Minister of Security Mahamadou Sana	3925
 CNTS Centre National de Transfusion Sanguine COPIL	13306
+CO NACIONAL Santos	18896
 COLLECTIF DES ETUDIANTS FINALISTES PARAMILITAIRES SANS	15692
 COMMANDEMENTS TERRITORIAUX Santé Lieutenant	15524
 CONNECTIVITÉ DES STRUCTURES SANITAIRES	18105
@@ -438,6 +439,7 @@ Construction of Potable Water Supply and Sanitation Schemes	12962
 Consultas Sanitárias Realizadas	18768
 Contraventions and Sanctions	15340,3256
 Contre la Pauvreté CSU Couverture Sanitaire Universelle	17907
+Controlo Regime Sancionat	18896
 Corporate Governance Expert Sandile Mbhamali	10517
 County Department of Health and Sanitation Data Controller	7167
 County Department of Health and Sanitation Data Processor	7167
@@ -448,7 +450,8 @@ Couverture Sanitaire	18077
 Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37,383
 Couverture Sanitaire Universelle. Pour	15711
 Couverture Santé	16195
-Couverture Santé Universelle	9273,6922,137,106,3,1441
+Couverture Santé Universelle	9273,6922,137,106,3,1441,1106
+Couverture Santé Universelle Indicateurs	18988
 Create National AI Regulatory Sandbox	4528,7984
 Criar Sandboxes Reguladoras	15684,5
 Criminal Offences and Sanctions	12185
@@ -484,6 +487,7 @@ DE SANTÉ CENTRE DE SANTÉ TYPE	13300
 DE SANTÉ DU CENTRE DE SANTÉ	13300
 DE SANTÉ DU GOUVERNEMENT	13300
 DE SANTÉ ET DE L’ACTION SOCIALE	18143
+DE SANTÉ Nous	18972
 DE SANTÉ PAR	18105
 DE SANTÉ PUBLIQUE ENSTAT ECOLE NATIONALE	18170
 DE SANTÉ PUBLIQUE ISPFP INSTITUT SUPÉRIEUR	18143
@@ -511,6 +515,7 @@ DES SANCTIONS ADMINISTRATIVES ET PECUNIAIRES	18119
 DES SANCTIONS ADMINISTRATIVES ET PECUNIAIRES Article	18119
 DES SANCTIONS ADMINISTRATIVES ET PENALES Article	16203
 DES SANCTIONS ADMINISTRATIVES TITRE IV	17819
+DES SANCTIONS APPLICABLES	18901
 DES SANCTIONS Article	785,14995,2042,19
 DES SANCTIONS Chapitre	15465,991
 DES SANCTIONS DE L'INEXECUTION DES OBLIGATIONS	13293
@@ -546,6 +551,7 @@ De Magalhães Santos	2093
 De la Direction des Infrastructures Sanitaires	15678
 Delfim Santiago	18764
 Deliver Clean Water and Sanitation	18498
+Department of Labour Relations and Regulation Mrs. Sandra	19049
 Department of Water and Sanitation	11236,8,4,3425
 Department of Water and Sanitation.30	14673
 Des Centres de Santé	18297
@@ -581,6 +587,7 @@ Direction des Ressources Humaines du Secteur Santé	17882
 Direction des Soins de Sante de Base DVSSER	14442
 Directions Régionales de Santé Publique	18105
 Disciplina Infantil Sanção	18762
+District Sanitaire	18928
 District Sanitaire CTAF	15423
 District Sanitaire DC	15685
 District Sanitaire DSRP	15423
@@ -608,6 +615,7 @@ Dr. Sandrine Ngalula Mubenga	15670
 Dr. Sandy	18502
 Dr. Sania Nishtar	15833
 Dr. Sanjeev Kumar Balyan	16331
+Dr. Sanjeev Sharma	19133
 Dr. Sankoh	2872
 Dr. Sanwogou-Kombaté Soukipieba	10368
 Drinking Water Sanitation Cooking Fuel School	15244
@@ -617,6 +625,7 @@ Dulce Sanches	16493
 DÉFINITIONS DES CONCEPTS Santé	15720
 Départements Sanitaires	15678
 Dépense Courante de Santé	15685
+Déployer la Couverture Santé Universelle	18988
 Développement Sani-	18077
 Développement Sanitaire	17845,37
 D’ADMINISTRATION ESPAS ECOLE DE SANTÉ PUBLIQUE	18143
@@ -869,6 +878,7 @@ ICT Regulatory Sandbox	6946
 IFC and Sango Capital. Crosswalk	454
 IFC and South Africa's Sango Capital. Portfolio	454
 IHE Process Plan Stratégique National de Santé Numérique	17882
+II Santé	18988
 II. ACTIVITES DE LA TRANSFUSION SANGUINE	15475
 II. ANALYSE SITUATIONNELLE DE LA SANTE	17882
 II. NORMES D’ARCHIVAGE DE L’INFORMATION SANITAIRE	15595
@@ -885,6 +895,7 @@ III.5 Santé	13306
 IMIS Chèque Santé	10970
 INDICATEURS SUR LA SANTÉ	18757
 INEGE. Ministerio de Sanidad	16898
+INFRACTIONS ET LES SANCTIONS Chapitre	18897
 INFRAESTRUTURAS SANITÁRIA	18757
 INFRASTRUCTURES SANITAIRES	18757
 INGABIRE Uwitonze Sandrine NTEZIRYAYO Simeon IRADUKUNDA	12445
@@ -930,7 +941,7 @@ Inclusive and Equitable Water and Sanitation Services	11469
 Información Sanitaria	6841
 Information Géographique Santé	18297
 Information Modernes de Santé	13290
-Information Sanitaire	4090,6829,21,2360,260,882,180,789,12,160,12,116,484,197,330,1120,2,1,37,223,186,6
+Information Sanitaire	4090,6829,21,2360,260,882,180,789,12,160,12,116,484,197,330,1120,2,1,37,223,186,6,631
 Information Sanitaire EBC	13377
 Information Sanitaire ERP Enterprise Resource Planning	13306
 Information Sanitaire LNS Gériatrie Institut National	17845
@@ -970,7 +981,7 @@ Inspecteur de Police Massaran SANOGO DIARRA	17819
 Installation of Household Sanitation Connections Program	15578
 Institut National de Formation des Agents de Santé	15936
 Institut National de Sante Publique	10940
-Institut National de Santé Publique	13300,2636,1946,86
+Institut National de Santé Publique	13300,2636,1946,86,1020
 Institut de Santé	16406
 Institut de Santé Publique	18105
 Institute SANSA South African National Space	5246
@@ -1156,6 +1167,7 @@ M. SANT’ANNA RADJOUMBA Lionel Lilian DIRECTION	16099
 M. Sana	5759
 M. Sankara	4717
 M. Saïdou Sankara. Il	4717
+M. Vaïbra Nicolas. Sangnodji Francine	19005
 M. Yaya SANOGO SLT	17841
 M.Maurizio SANTINI. Consul Honoraire	16175
 MA CHARGE SANS AUCUNE CONSIDÉRATION D'ORDRE	15603
@@ -1249,6 +1261,7 @@ Mc Bolivia Americas South America Santa	10840
 Medecine DISE Direction des Infrastructures Sanitaires	13306
 Media Sanitization	10721
 Media24 and SANEF	13461
+Medical Officer Ministry of Health Sanjeev.Pugazhendhi	18937
 Medicines Sans Frontiers	12956,717
 Medidas Sancionatórias	794
 Meio de Achada Santo António	15470
@@ -1284,7 +1297,7 @@ Ministry of Water of Sanitation	14546
 Ministère De La Santé	15936
 Ministère Santé R	643
 Ministère Santé Référentiel	17882
-Ministère de Santé	17860
+Ministère de Santé	17860,1112
 Minute Santé	14742
 Misión San José	4209
 Mle Alousséni SANOU	18032
@@ -1302,6 +1315,7 @@ Mme Sandrine EFFA OBAME	16175
 Mme Sandrine NGOUSSOU MAGABY	16175
 Modèle des Objets de Santé	17882
 Mohammed Sanusi Danjuma	4102
+Mongoumba To Yokadouma Nola SANGHA- Tomori	18887
 Monia Santini	10963,1
 Monsieur Abdoul Karim SANOGO Interprofession Pomme	17841
 Monsieur Adama Nama SANOGO	17861
@@ -1427,6 +1441,7 @@ ONG Santé Sud Médecin	17882
 ONS Min Santé Appui	17844
 OPPORTUNITES ET MENACES DE LA SANTE	16195
 ORGANISATION DU SYSTÈME DE SANTÉ	18105
+ORGANISATION MONDIALE DE LA SANTÉ Bureau	19150
 Objectifs Santé	17860
 Objetivos Estratégicos A Carta Sanitária de Cabo	16019
 Observatoire National de Santé	13306,4539
@@ -1494,6 +1509,7 @@ Pedagogia da Universidade de Santiago	16290
 Penalties and Sanctions	9855,2140,5254
 Penalties and Sanctions Any	11995
 Pensa Sanmatenga Centre-Nord	15715
+Performance du Système de Santé	18926
 Performance du Système de Santé PRSC	15475
 Personal Sanitario	4209
 Personne Sanction-	15901
@@ -1694,7 +1710,7 @@ Richie Santosdiaz	5577
 Richie Santosdiaz Richie	10203
 Riposte Santé	15685
 Risques Plan Stratégique National de Santé Numérique	17882
-Rocio Sanchez Vigueras	1264
+Rocio Sanchez Vigueras	1264,17667
 Rosário Dos Santos	6309,305,330,22
 Roxgold Sango	2342
 Rural Sanitation Programme	12373
@@ -1747,6 +1763,7 @@ SANCTIONNONS	14893
 SANCTIONS	1841,11627,2721,1644
 SANCTIONS ADMINISTRATIVES Article	10825
 SANCTIONS ADMINISTRATIVES ET PENALES CHAPITRE	10825
+SANCTIONS AND ENFORCEMENT	18934
 SANCTIONS Article	15444
 SANCTIONS CHAPITRE	15999
 SANCTIONS CHAPITRE IV	17828
@@ -2051,13 +2068,13 @@ Sanchez	9237
 Sanchez Social Specialist No Jacqueline Beatriz	18809
 Sancionador	16855
 Sancionadora	9543
-Sancionar	12774,4081,38,1880
+Sancionar	12774,4081,38,1880,123
 Sanciones	163,4046,12646
 Sanciones. Para	16855
 Sanciono	163,4046,12646
 Sanción	16898,384
 Sanctimonious-ness	5822
-Sanction	10876,268,2157,1236,382,982,146,121,448,1224
+Sanction	10876,268,2157,1236,382,982,146,121,448,1224,1041
 Sanction En	14488,1,1
 Sanction Lists	15145
 Sanction Screening and Cyber Security	12364
@@ -2066,7 +2083,7 @@ Sanctioned Russian	4127
 Sanctioning	17011
 Sanctionner	13301,113,367
 Sanctionnée	15901
-Sanctions	25,2,115,22,582,212,389,1445,1628,1245,1294,2896,515,17,406,43,303,378,476,45,194,697,452,143,900,5,108,229,104,23,209,292,53,41,46,233,67,67,7,91,21,308,288,223,1,44,199,25,6,726,24,168,87,169,44
+Sanctions	25,2,115,22,582,212,389,1445,1628,1245,1294,2896,515,17,406,43,303,378,476,45,194,697,452,143,900,5,108,229,104,23,209,292,53,41,46,233,67,67,7,91,21,308,288,223,1,44,199,25,6,726,24,168,87,169,44,584
 Sanctions A Partner State	14409
 Sanctions ARTICLE	14409
 Sanctions Act	7845,6964,19,3
@@ -2081,6 +2098,7 @@ Sanctions Procedures	16219
 Sanctions Promised	9517
 Sanctions Sanctions	27
 Sanctions Sans	15508
+Sanctions Section	18916
 Sanctions The Interior Minister	7700
 Sanctions The Member State	15363
 Sanctions and Politically Exposed Person	5369
@@ -2165,8 +2183,10 @@ Sandra J. Velarde	11006
 Sandra Johnson	8468
 Sandra Johnson. Un	8468
 Sandra Makumbirofa	11195
+Sandra Mary Monthy of Baie Lazare	19049
 Sandra Maximiano	7199,36
 Sandra Saibi	16085
+Sandra Sinon	18910
 Sandra Tshibonge Mbiye	5033
 SandraA JOHNSON	8468,287
 Sandrina Muriel Boukoro Mazandou	4135
@@ -2217,6 +2237,7 @@ Sangay M. Freeman	16963
 Sangback Lee	8950
 Sangbe	15542
 Sangdes Aplicdveis Os	17111
+Sangh	18887
 Sangha	5754,313,5857,3499,3,87,40,5,57,44,26,30,7,22,42,13,49,53,64,4,208,72,164
 Sangha Koulpélogo Centre-Est	15715
 Sangha Lieutenant-colonel	15524
@@ -2272,7 +2293,7 @@ Sanibonani. Good	10169
 Sanidad	4209,3839,8850,71,12
 Sanidad Gráfico	16969
 Sanitai	15999
-Sanitaire	15711,484,1650,37,415
+Sanitaire	15711,484,1650,37,415,629
 Sanitaire Soins Obstétricaux	15711
 Sanitaire de Premier Contact HDc Groupe de Travail	15711
 Sanitaire des Aliments	17895
@@ -2296,7 +2317,7 @@ Sanitary and Phytosanitary Agency Integration	12389
 Sanitary and Phytosanitary Measures	12389,2239
 Sanitary and Phytosanitary Standards	15478
 Sanitathon Unemployment Housing Assetes Child Labour	15244
-Sanitation	718,1149,121,2294,962,1178,481,44,3812,17,59,2,1,130,263,186,52,401,16,1,1,1,16,93,155,1,9,177,1,11,1,36,14,5,3,77,458,18,13,219,278,559,42,471,232,192,168,68,38,3,271,86,55,2,82,693,178,282,26,28,1,19,5,10,58,96,10,108,3,29,78,503,101,399,71,35,22
+Sanitation	718,1149,121,2294,962,1178,481,44,3812,17,59,2,1,130,263,186,52,401,16,1,1,1,16,93,155,1,9,177,1,11,1,36,14,5,3,77,458,18,13,219,278,559,42,471,232,192,168,68,38,3,271,86,55,2,82,693,178,282,26,28,1,19,5,10,58,96,10,108,3,29,78,503,101,399,71,35,22,433
 Sanitation Authority	16863
 Sanitation Co. Ltd	14546
 Sanitation Code	18370
@@ -2359,6 +2380,8 @@ Sanjay Tanna and Huawei Technologies	6576
 Sanjaya Mishra	14812
 Sanjeev	12948
 Sanjeev Gupta	14932
+Sanjeev K Pugazhendhi Policy Analyst	18937
+Sanjeev Sharma	19156
 Sanjeevani	9431
 Sanji	7065
 Sanjie	7065
@@ -2519,7 +2542,7 @@ Santomense de Telecomunicações S A	18752
 Santomenses	18761
 Santomenses. Estas	18798
 Santoro	2096,10852
-Santos	180,40,319,2004,273,3808,484,559,336,602,794,1319,40,5,1,1,10,69,289,228,1,7,158,36,69,1177,2435,160,46,27,95,122,284,156,376,1233,113,267,689
+Santos	180,40,319,2004,273,3808,484,559,336,602,794,1319,40,5,1,1,10,69,289,228,1,7,158,36,69,1177,2435,160,46,27,95,122,284,156,376,1233,113,267,689,83,1
 Santos Afonso Fernan	18753
 Santos Afonso Fernandes	18752,1
 Santos Andrade	18867
@@ -2557,14 +2580,14 @@ Santos. Publicado	14,1
 Santos. Resolução	539
 Santoso	8606
 Santuário da Muxima	12120
-Santé	160,483,94,29,465,66,297,88,194,97,588,371,113,317,19,15,732,292,450,209,24,103,1753,205,38,130,102,236,37,25,72,1,33,5,15,15,105,125,134,204,11,165,56,45,173,377,5,5,9,55,59,5,68,8,75,39,121,107,21,89,59,43,142,213,128,127,62,3,101,9,8,46,5,39,21,657,82,213,151,25,1222,10,6,19,49,16,52,118,8,109,38,2,10,10,9,14,83,61,1,279,136,103,1,1,7,18,38,1,1,49,31,52,215,457,63,4,15,35,12,3,28,7,11,2,1,12,6,7,51,29,3,5,7,4,6,69,4,7,26,1,8,4,22,11,6,11,74,24,29,1,34,6,23,9,11,52,10,52,18,56,2,20,5,9,69,9,2,17,56,19,11,4,10,15,17,3,12,1,11,20,11,6,2,23,25,25,32,7,4,1,5,1,14,4,36,41,284,442,8,5,49,7,121,174,3,2,2,5,3,2,12,1,1,1,1,7,8,1,12,3,6,13,4,8,6,6,1,25,1,3,15,4,10,3,2,8,12,6,5,13,5,1,14,13,3,6,3,3,1,1,16,7,5,13,19,14,15,3,18,4,47,20,7,21,5,6,9,6,3,4,7,1,24,1,18,30,2,1,9,345
+Santé	160,483,94,29,465,66,297,88,194,97,588,371,113,317,19,15,732,292,450,209,24,103,1753,205,38,130,102,236,37,25,72,1,33,5,15,15,105,125,134,204,11,165,56,45,173,377,5,5,9,55,59,5,68,8,75,39,121,107,21,89,59,43,142,213,128,127,62,3,101,9,8,46,5,39,21,657,82,213,151,25,1222,10,6,19,49,16,52,118,8,109,38,2,10,10,9,14,83,61,1,279,136,103,1,1,7,18,38,1,1,49,31,52,215,457,63,4,15,35,12,3,28,7,11,2,1,12,6,7,51,29,3,5,7,4,6,69,4,7,26,1,8,4,22,11,6,11,74,24,29,1,34,6,23,9,11,52,10,52,18,56,2,20,5,9,69,9,2,17,56,19,11,4,10,15,17,3,12,1,11,20,11,6,2,23,25,25,32,7,4,1,5,1,14,4,36,41,284,442,8,5,49,7,121,174,3,2,2,5,3,2,12,1,1,1,1,7,8,1,12,3,6,13,4,8,6,6,1,25,1,3,15,4,10,3,2,8,12,6,5,13,5,1,14,13,3,6,3,3,1,1,16,7,5,13,19,14,15,3,18,4,47,20,7,21,5,6,9,6,3,4,7,1,24,1,18,30,2,1,9,345,169,2,14,2,9,19,16,119,43
 Santé ARTICLE	17819
 Santé Actes Réglementaires Arrêté	17852
 Santé Actes Réglementaires Décret	17913
 Santé Activités	13341
 Santé Aide	15583
 Santé Alliance for Health Policy and Systems Research	14622
-Santé Animale	17841
+Santé Animale	17841,1147
 Santé Assistance Afrique Société Teint Lumineux	10821
 Santé Au	18297
 Santé Au Burundi	13341
@@ -2578,6 +2601,7 @@ Santé CIV AI-Diagnostic Dépend	15936
 Santé CIV Poste CI	15936
 Santé CIV Téléconsultation Santé CI Dépend	15936
 Santé Cabinet du Ministre Inspection Général Interne	17895
+Santé Comme	18926
 Santé Communautaire	10940,4772
 Santé Communautaire Diplôme Interuniversitaire Direction	17882
 Santé Consultez	9482
@@ -2607,6 +2631,7 @@ Santé INRSP Vu la Loi	17841
 Santé INSP-CI	15936
 Santé Initiative	13341
 Santé Janvier	17945
+Santé Le Directeur	19150
 Santé Le Ministère	18105
 Santé MST	15475
 Santé MSp Ministère des Sports MTCA Ministère	15479
@@ -2642,9 +2667,10 @@ Santé Population	18014
 Santé Programme	14622
 Santé Protocoles Nationaux de Diagnostic	13341
 Santé Prévention	14622
+Santé Pu	18926
 Santé Pu-	13306
 Santé Pu- Nombre	13306
-Santé Publique	1005,7631,2963,1691,10,6,35,101,175,814,8,183,865,55,57,86,251,259,5,421,23,1173,12,16,260,11,2
+Santé Publique	1005,7631,2963,1691,10,6,35,101,175,814,8,183,865,55,57,86,251,259,5,421,23,1173,12,16,260,11,2,810,60,51,76,52
 Santé Publique Alice TABEBOT OJONG	15599
 Santé Publique Améliorer	15999
 Santé Publique COORDINATION TECHNIQUE X M	16195
@@ -2667,6 +2693,7 @@ Santé Publique du Cameroun. Plan Stratégique National	16195
 Santé Publique du Cameroun. Plan Stratégique du Système	16195
 Santé Publique du Cameroun. Rapport	16195
 Santé Publique du Niger	18105
+Santé Publique du Tchad	19115
 Santé Publique. Figure	18105
 Santé Publique. Il	18105
 Santé Publique. OS6	18105
@@ -2737,6 +2764,7 @@ Santé. Initiative	17824
 Santé. Les Centres	18286
 Santé. Lignes	16195
 Santé. PROGRAMMATIQUE MULTI-PHASE Bamako	17861
+Santé. Programme	18926
 Santé. Renforcer	18297
 Santé. Réseau	16195
 Santé. Résolution AFR	16195
@@ -2880,6 +2908,7 @@ Statistique du Secteur Santé	17978
 Statistiques Sanitaires	17945
 Statistiques Secteur Santé	17882
 Strategie Nationale de Sante Digitale SDSP	14442
+Strategy and Accountability Dr Sanjeev Pugazhendhi	19177
 Stratégie Nationale Santé Numérique	7707
 Stratégie Nationale de Santé Numérique	7707,6010
 Stratégie Santé Digitale	18297

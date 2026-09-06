@@ -163,6 +163,7 @@ April-2024.pdf Author	17884
 April. Its European Travel Information and Authorisation	9895
 Aquaculture Authority	17114
 Aquaculture Authority PPP Public-Private Partnership PPCC	17139
+Archives and Library Authority	19108
 Areas of Collaboration National Regulatory Authorities	5676
 Aristida Safety Authority Use	17157
 Armed Forces Operations Authority	15473
@@ -180,8 +181,9 @@ Authentication and Authorization	5665,5056
 Authentication and Authorization Platform for Web	11872,3
 Autho	18452
 Authonty	11517
-Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12,93,15,81,44,5,275,48,3,31,74,216,81,23,107,76,78,30,85,8,5,1,5,3,1,4,1,3,1,1,5,6,1,1,7,1,1,1,1,2,3,3,2,1,2,2,10,4,3,4,2,1,2,2,1,13,69,14,13,89,41,150,19,11,22,2,171,2,1,21,1,57,1,40,53,7,1,8,19,4,2,2,12,8,8,2,4,5,6,5,11,1,16,1,16,52,19,13,6,22,4,11,12,4,14,20,19,6,5,13,34,7,5,5,3,9,4,10,3,6,1,9,4,16,33,4,11,26,8,72,1,8,20,4,5,8,11,113,102,128,58,9,1,106,13,17,11,13,10,4,1,6,4,8,37,1,10,4,5,7,1,7,3,2,10,5,4,3,17,19,1,1,3,16,7,12,3,2,7,3,3,12,2,7,13,4,30,1,14,1,19,3,23,17,1,23,3,9,18,20,29,4,17,5,2,4,9,4,15,4,8,3,21,16,3,18,37,8,19,2,26,4,11,12,4,7,13,2,113,22,2,10,37,1,27,50,3,4,12,16,5,43,14,31,30,13,37,17,19,13,27,4,3,16,3,47,2,14,2,4,36,32,3,29,243,1,1,1,34,2,10,1,7,3,35,17,35,1,10,3,2,15,6,10,63,10,14,15,15,25,1,25,16,15,23,16,1,9,3,6,13,1,7,11,7,2,4,24,1,9,6,1,6,3,10,1,29,83,43,5,1,11,13,4,32,7,6,2,6,32,12,6,10,4,46,5,16,9,2,2,5,1,8,1,5,12,10,6,6,9,2,1,1,2,1,2,2,18,30,18,20,35,1,4
+Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12,93,15,81,44,5,275,48,3,31,74,216,81,23,107,76,78,30,85,8,5,1,5,3,1,4,1,3,1,1,5,6,1,1,7,1,1,1,1,2,3,3,2,1,2,2,10,4,3,4,2,1,2,2,1,13,69,14,13,89,41,150,19,11,22,2,171,2,1,21,1,57,1,40,53,7,1,8,19,4,2,2,12,8,8,2,4,5,6,5,11,1,16,1,16,52,19,13,6,22,4,11,12,4,14,20,19,6,5,13,34,7,5,5,3,9,4,10,3,6,1,9,4,16,33,4,11,26,8,72,1,8,20,4,5,8,11,113,102,128,58,9,1,106,13,17,11,13,10,4,1,6,4,8,37,1,10,4,5,7,1,7,3,2,10,5,4,3,17,19,1,1,3,16,7,12,3,2,7,3,3,12,2,7,13,4,30,1,14,1,19,3,23,17,1,23,3,9,18,20,29,4,17,5,2,4,9,4,15,4,8,3,21,16,3,18,37,8,19,2,26,4,11,12,4,7,13,2,113,22,2,10,37,1,27,50,3,4,12,16,5,43,14,31,30,13,37,17,19,13,27,4,3,16,3,47,2,14,2,4,36,32,3,29,243,1,1,1,34,2,10,1,7,3,35,17,35,1,10,3,2,15,6,10,63,10,14,15,15,25,1,25,16,15,23,16,1,9,3,6,13,1,7,11,7,2,4,24,1,9,6,1,6,3,10,1,29,83,43,5,1,11,13,4,32,7,6,2,6,32,12,6,10,4,46,5,16,9,2,2,5,1,8,1,5,12,10,6,6,9,2,1,1,2,1,2,2,18,30,18,20,35,1,4,15,5,18,138,70,20,31,12
 Author Adebowale Jeremy Adetayo	9256
+Author All	18911
 Author Barhy	14941
 Author CIPESA	15265
 Author CIPESA Posted	6294,3643
@@ -210,7 +212,7 @@ Authored	765,8011,2388,190,300,4179
 Authored the Maputo Plan of Action	13040
 Authori	13310
 Authorisa	3386
-Authorisation	11,116,622,223,830,186,1726,2709,921,351,2462,148,514,362,74,30,13,688,61,318,9,73,88,14,102,120,196,118,121,113,46,38,163,1162,2,163,1008,2408,234,244
+Authorisation	11,116,622,223,830,186,1726,2709,921,351,2462,148,514,362,74,30,13,688,61,318,9,73,88,14,102,120,196,118,121,113,46,38,163,1162,2,163,1008,2408,234,244,198,46,65
 Authorisation Framework	11952
 Authorisation ITU Mobile Alert Communication Management	1009
 Authorisation Monthly	11952
@@ -224,7 +226,7 @@ Authorisation of Participants	12364
 Authorisations	6946,3211,1141,4603
 Authorisations Monitoring	16839
 Authorise	1009,10289,1473,2047
-Authorised	236,784,1893,597,1282,104,763,2049,1659,1822,2192,1034,179,125,44,3,29,201,106,1785,91,1459
+Authorised	236,784,1893,597,1282,104,763,2049,1659,1822,2192,1034,179,125,44,3,29,201,106,1785,91,1459,449,99,46
 Authorised Allocations	16978
 Authorised Appropriation	16978
 Authorised CASP	8840
@@ -242,6 +244,7 @@ Authorised Expenditure	1672,1,976,1
 Authorised FM	2776
 Authorised FM Stations	2776
 Authorised Frequency Modulation	2776
+Authorised Officer	18925
 Authorised Person	12364
 Authorised Representative	8866,8233,15
 Authorised Representatives	17099,15
@@ -262,7 +265,7 @@ Authoritative	3583,1000
 Authoritative Declaration	2682
 Authoritative Definitions	3861
 Authoritativeness	13461
-Authorities	789,151,274,614,52,7,20,70,2,303,31,23,97,181,129,200,108,177,312,38,5,22,5,21,337,64,172,32,48,6,91,19,183,13,41,25,2,4,42,46,4,72,5,50,27,12,36,15,27,52,206,45,9,22,34,49,4,5,22,9,3,5,21,15,49,34,9,15,7,40,17,21,23,47,25,2,76,47,2,22,1,16,14,1,12,17,40,19,31,1,10,8,92,1,2,22,15,37,8,5,19,21,116,9,15,18,44,11,35,12,54,10,21,69,9,89,9,18,21,1,122,46,1,95,70,88,189,43,2,160,193,95,191,107,152,191,361,4,366,25,20,201,439,72,20,435,139,276,4,123,128,73,395,127,113,367,204,386,136,259,2,107,149,298,378,267,28,3,8,38,49,10,97,31,1,96,120,13,294,39,2,870,704,99,82,17,31,12,100,3,116,401,904,21,11
+Authorities	789,151,274,614,52,7,20,70,2,303,31,23,97,181,129,200,108,177,312,38,5,22,5,21,337,64,172,32,48,6,91,19,183,13,41,25,2,4,42,46,4,72,5,50,27,12,36,15,27,52,206,45,9,22,34,49,4,5,22,9,3,5,21,15,49,34,9,15,7,40,17,21,23,47,25,2,76,47,2,22,1,16,14,1,12,17,40,19,31,1,10,8,92,1,2,22,15,37,8,5,19,21,116,9,15,18,44,11,35,12,54,10,21,69,9,89,9,18,21,1,122,46,1,95,70,88,189,43,2,160,193,95,191,107,152,191,361,4,366,25,20,201,439,72,20,435,139,276,4,123,128,73,395,127,113,367,204,386,136,259,2,107,149,298,378,267,28,3,8,38,49,10,97,31,1,96,120,13,294,39,2,870,704,99,82,17,31,12,100,3,116,401,904,21,11,174
 Authorities Certification	17097
 Authorities Data Protection	961
 Authorities Governance Unit	14738,8
@@ -278,7 +281,7 @@ Authorities and Boards	18541
 Authorities and Bodies	15393
 Authorities and IMF	13868
 Authorities’ Views	13868,3635
-Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30,122,46,1,5,12,1,14,29,30,29,38,16,16,24,3,21,3,255,67,23,103,91,29,146,10,8,47,67,41,36,8,34,4,1,24,6,10,48,5,40,2,7,21,52,12,38,38,3,20,1,3,39,15,9,19,1,1,35,5,73,135,12,2,11,4,46,2,64,1,3,14,20,12,17,20,3,2,79,10,82,16,5,2,10,8,7,1,3,1,20,5,5,32,5,11,11,9,101,6,67,42,261,29,13,154,45,29,20,36,102,27,34,7,32,1,66,3,4,18,48,1,6,30,54,8,6,15,1,2,3,8,2,13,11,26,29,9,3,4,3,3,2,1,7,2,22,2,13,27,1,18,21,4,4,23,7,12,22,27,12,18,5,25,14,6,23,15,20,14,29,75,91,80,11,31,1,88,43,36,140,22,126,72,169,3,17,22,92,134,31,57,35,229,3,4,1,3,10,19,6,9,2,27,10,13,29,7,36,5,14,75,1,2,5,1,3,8,31,1,44,11,14,17,6,1,1,6,37,28,45,4,30,148,36,22,117,22,559,132,3,9,8,8,1,19,12,46,19,15,21,3,1,6,1,27,31,8,13,58
+Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30,122,46,1,5,12,1,14,29,30,29,38,16,16,24,3,21,3,255,67,23,103,91,29,146,10,8,47,67,41,36,8,34,4,1,24,6,10,48,5,40,2,7,21,52,12,38,38,3,20,1,3,39,15,9,19,1,1,35,5,73,135,12,2,11,4,46,2,64,1,3,14,20,12,17,20,3,2,79,10,82,16,5,2,10,8,7,1,3,1,20,5,5,32,5,11,11,9,101,6,67,42,261,29,13,154,45,29,20,36,102,27,34,7,32,1,66,3,4,18,48,1,6,30,54,8,6,15,1,2,3,8,2,13,11,26,29,9,3,4,3,3,2,1,7,2,22,2,13,27,1,18,21,4,4,23,7,12,22,27,12,18,5,25,14,6,23,15,20,14,29,75,91,80,11,31,1,88,43,36,140,22,126,72,169,3,17,22,92,134,31,57,35,229,3,4,1,3,10,19,6,9,2,27,10,13,29,7,36,5,14,75,1,2,5,1,3,8,31,1,44,11,14,17,6,1,1,6,37,28,45,4,30,148,36,22,117,22,559,132,3,9,8,8,1,19,12,46,19,15,21,3,1,6,1,27,31,8,13,58,179,9,18,22,26,49,96
 Authority Account National Construction Authority	14546
 Authority Accreditation and Certification	587
 Authority Act	7845,5208,1664
@@ -394,6 +397,7 @@ Authority and Competi-	5872
 Authority and Complaints Framework	17243
 Authority and County Statistics	14594
 Authority and MICDE	6946
+Authority and Tribunal	19067
 Authority for Communications and Informatics	5592,312
 Authority for Electronic Communications	3471
 Authority for Regulation of Telecommunications and Posts	4803
@@ -542,7 +546,7 @@ Authority’s National Table of Frequency	762
 Authority’s PQ	12969
 Authority’s Radio Frequency Spectrum Management Directive	762
 Authority’s Response	4732
-Authorization	27,691,44,2151,3510,2182,1802,314,2464,544,220,202,271,19,429,210,292,1470,36,1566
+Authorization	27,691,44,2151,3510,2182,1802,314,2464,544,220,202,271,19,429,210,292,1470,36,1566,470,4
 Authorization Date	16978
 Authorization Equipment Regulatory Spectrum Category Fees	17250
 Authorization Fee GSO	10407
@@ -607,7 +611,7 @@ Authorizes the Environmental Protection Agency	17114
 Authorizing	15399
 Authorizing Person	15399
 Authorlty Application	11517
-Authors	427,339,3,2,190,269,19,12,567,1898,65,1649,260,723,456,272,62,673,68,989,185,1,92,11,5,379,271,831,47,10,81,84,45,325,372,110,120,6,85,4,26,145,4,11,34,15,93,4,40,168,34,30,3,53,40,130,372,149,37,379,73,59,768,95,127,1,226,23,17,57,443,470,2,131,100,536,118,483,1128,8
+Authors	427,339,3,2,190,269,19,12,567,1898,65,1649,260,723,456,272,62,673,68,989,185,1,92,11,5,379,271,831,47,10,81,84,45,325,372,110,120,6,85,4,26,145,4,11,34,15,93,4,40,168,34,30,3,53,40,130,372,149,37,379,73,59,768,95,127,1,226,23,17,57,443,470,2,131,100,536,118,483,1128,8,324,183
 Authors Alison Gillwald	5044
 Authors ArticleDraft Guidance Note	6998
 Authors ArticleID Like To Know	6632
@@ -658,6 +662,7 @@ BACKGROUND The Lesotho Communications Authority	12681
 BCEAO Telecommunication Regulatory Authority of Côte	3604
 BIRN and EWMI. Authored	7211
 BLIO Authority	10974
+BOARD OF AUTHORITY	18934
 BOARD OF THE AUTHORITY	12644
 BOPA Author	7671,494,4380,9,1,6,3,1,1,3,1,2,1,11,2,5,2,6,10,4,2,4,1,7,1,3,3,1,1,2
 BOPA. Author	3360,1806,84,78,121
@@ -758,6 +763,7 @@ Bui Power Authority	15904
 Building Control Agency Authority	12389
 Building Trust and Unlocking Adoption Authors Co-Develop	11007
 Bujumbura. The Burundi Revenue Authority	4710
+Bureau Authorised	18886
 Bureau RISA Rwanda Information Society Authority	718
 Bureau of Authorization Authorization	16863
 Burundi Mining Authority and IBI Sign Comprehensive	13666
@@ -835,6 +841,7 @@ CONGO Public Disclosure Authorized	15372
 CONSTITUTIONAL FOUNDATIONS AND LEGAL AUTHORITY	3861
 CONSTITUTIONAL MANDATE AND LEGAL AUTHORITY	3861
 CONSULTATION GUIDELINES The Authority	17212
+CONTACT DETAILS SEYCHELLES QUALIFICATIONS AUTHORITY	18939
 COOPERATION WITH DOMESTIC AUTHORITIES	8354
 CORRESPONDING AUTHOR	12090
 CR Authority	12367
@@ -884,6 +891,11 @@ Certification Authorities	9880
 Certification Authority	1009,10175,1650,1176,730,1,11
 Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
+Certifying Authorities	18883
+Certifying Authority	18883
+Certifying Authority. Part IX	18883
+Chad.pdf Author	18911
+Chadian Telecommunications Regulatory Authority	18931
 Chairman of Abu Dhabi Executive Affairs Authority	18610
 Chairman of Authority	6422
 Chairperson of Council of Traditional Authority	13118
@@ -965,10 +977,13 @@ Companies and Intellectual Property Authority. Unique	12533
 Compensation and Reparation Authority	3583
 Compensation and Reparation Authority. The Truth Commission	3583
 Compensation and Reparations Authority Bill	18615
-Competent Authorities	12164,225
-Competent Authority	14818,3777
+Competent Authorities	12164,225,6536
+Competent Authority	14818,3777,330
 Competent Authority Libya	17157
+Competent Authority PART III	18925
+Competent Authority PART VI	18925
 Competent Authority of South Africa	11233
+Competent Authority. Complaint	18925
 Competition Authorities	12389
 Competition Authority	12389,2033,575
 Competition Authority Responsible AI	7548
@@ -987,10 +1002,11 @@ Connecting Customs and Cross-Border Regulatory Authorities	13042
 Consent Decrees and Settlement Authority	3861
 Consolidation of Complaints The Authority	17243
 Constitution of Councils and Subordinate Authorities	12531
-Constitutional Appointments Authority	9679
+Constitutional Appointments Authority	9679,9417
 Constitutional Mandate and Legal Authority WHEREAS Article	3861
 Constitutional and Legal Authority for Enactment	3861
 Constitutional and Legal Authority for Enactment This Policy	3861
+Consultation The Authority	18952
 Consumer Complaints The Authority	6946
 Consumer Issues The Authority	17243
 Consumer Protection Authority	14947
@@ -1008,6 +1024,7 @@ Control Authority	12233
 Control Authority of Zimbabwe ML Machine Learning	12512
 Control Emergency Use Authorisations	4426
 Control VERSION DATE AMENDMENT AUTHOR Final	5244
+Controller of Certifying Authorities	18883
 Converged Regulatory Authority	395
 Coordinating Authority	15659
 Coordination Centre KenInvest Kenya Investment Authority	2775
@@ -1038,6 +1055,7 @@ Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,
 Cyber Security Authority Annual	6936
 Cyber Security Authority CSA	6936
 Cyber Security Authority Establishment	587
+Cyber Security Authority Tabletop Exercise	19007
 Cyber Security Authority and Financial Intelligence Centre	11699
 Cyber Security Authority and NITA	4488
 Cybersecurity Authority	587,2642,11968
@@ -1078,7 +1096,7 @@ Daoukro and Dabou. Authorities	6449
 Data Boom and Airtel Money Surge Author	7663
 Data Centre The Authority	6946
 Data Protection Act and Authority	18669
-Data Protection Authorities	961,1,2639,17,60,905,2056,155,5508,2132,2583
+Data Protection Authorities	961,1,2639,17,60,905,2056,155,5508,2132,2583,1886
 Data Protection Authorities. The African Union	5084
 Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117,442,82,3,56,121,103,12,45,5,1293,233,5,311,921,742,40,91,648,1004
 Data Protection Authority Article	14907
@@ -1136,6 +1154,7 @@ Digital Health Authority	10662
 Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Digital Regulatory Authority Create	11906
 Digital Services Authority	5444,7111,7
+Digital Signature Certificate A Certifying Authority	18883
 Digital Superhighway Project. The Authority	6946
 Digital Transformation Authority	3902
 Digital Upskilling Training Programme The Authority	17746
@@ -1283,6 +1302,7 @@ Emmanuel Tetteh The National Service Authority	17549
 Employing Authorities	18576
 Empowering the Consumer The Authority’s Consumer Education	6946
 Empowerment of Local Government Authorities	16861
+Enabling the Seychelles Qualifications Authority	18950
 Endorsement Authorise	11156
 Energy Authority	12233,3240
 Energy Authority PJ Petajoule PPA Power	12233
@@ -1348,6 +1368,7 @@ Ethiopian Revenues and Customs Authority	13968
 European Banking Authority	6938
 Evaluation Medicines Control Authority of Zimbabwe Machine	4528
 Event Information Author	13006
+Every Certifying Authority	18883
 Every Local Government Authority	16887
 Evidence of Authorization	14647
 Executive Authority	2662,2871,5665,32,20,736
@@ -1405,8 +1426,10 @@ Financial Regulatory Authority Islam Azzam	9417
 Financial Sector Conduct Authority	4824,2062,453,1444,57,84,81,122,240,310,4698
 Financial Sector Conduct Authority of South Africa	11131
 Financial Service Regulatory Authority GBV Gender	12970
-Financial Services Authority	7760,4234
+Financial Services Authority	7760,4234,6905,26,27,22,4,167,36
+Financial Services Authority Act	18925
 Financial Services Authority Director	6938
+Financial Services Authority of Seychelles	19145
 Financial Services Regulatory Authority	6539,399,5423,34,49,577
 First-Ever Solar Mini-Grid Authorizations	10993
 Fiscal Year GAAE General Authority for Adult	15604
@@ -1469,6 +1492,7 @@ GENERAL ELECTION FOR LOCAL AUTHORITY COUNCILS	13046
 GHANA Author	16043
 GHANA REVENUE AUTHORITY	15600
 GHANA’S RESPONSIBLE AI AUTHORITY	4126
+GHz Frequency Bands Author	18971
 GHz INDEPENDENT COMMUNICATIONS AUTHORITY OF SOUTH	7850
 GIA General Information Authority GIS Geographic	17157
 GIN23009-10070 Strategie Innovation17082026.pdf Author	16747
@@ -1530,8 +1554,9 @@ General Authority for Telecommunications and Informatics	2958,506
 General Authority of Water Resources	16863
 General Authorization	718,4527
 General Code for Local Authorities	18370
+General Code of Decentralized Territorial Authorities	19093
 General Code of Regional and Regional Authorities	15566
-General Customs Authority	18857
+General Customs Authority	18857,120
 General Directorate for Local Authorities	10812,6658
 General Information Authority	1229,1624,335,122,516,15,257,394,535,748,145,1239,565,9192,175,52,14,12,1,121,31,49,30
 General Information Authority Discusses	17322
@@ -1618,6 +1643,7 @@ High Authority for Press and Audiovisual Media	18068
 High High Regulatory Authority	12444
 High-Level Summary of Authority	6946
 Higher Authority of Arabization	14851
+Higher Authority of Media and Audiovisual	18930
 Higher Education Authority	13477,146
 Historic Reform The Higher Education Authority	13556
 Hon. Frederick Gbemie Liberia Revenue Authority	16853
@@ -1702,6 +1728,7 @@ Indirect Taxation Authority Director BOSNIA	16631
 Individuals and Authorised Dealer Banks	14453
 Indonesia Financial Services Authority OJK	11994
 Industrial Development Authority IDA	15473
+Industrial Estates Authority	19096
 Industry Authority	14753
 Informatics Authority	4849,743,312
 Information Authority	9022
@@ -1903,6 +1930,8 @@ Le Mauritius Revenue Authority Act	7994
 Lead Author	14949,1011
 Leases The Authority	13053
 Legal Authority	3861
+Legal Authorizations	18887
+Legal Effectiveness Authorizations	18887
 Legislative Authorities	0
 Leone Ports and Harbours Authority SLRA Sierra	18504
 Leone Roads Authority SH Sexual Harassment	18504
@@ -2010,6 +2039,7 @@ License. The Regulatory Authority	15149
 Licensees. The Regulatory Authority	14867
 Licenses Number of Authorization	18444
 Licenses and Authorization	18444
+Licensing and Authorisation	18894,137
 Licensing and Authorisation of Payment Service Providers	12365,9,711
 Licensing and Authorisations	3641
 Licensing and Authorization	236
@@ -2577,6 +2607,7 @@ P175828-f967c7fb-95be-4e0d-aa08-09adcfcf0b76.pdf Author	16187
 P178033-d78154cd-d774-432b-a705-9636c8a8a3b0.pdf Author	13859
 P179263-8690c1f1-d28d-4cf4-bb12-c0d388774484.pdf Author	18006
 P179627-b7cacceb-3c50-4061-8f7e-c52e69bb90e7.pdf Author	11545
+P180000048eed6040a13200ddaf8abe650.pdf Author	18933
 P180696-28ecf2f4-34e9-4559-9695-f14bd83f8798.pdf Author	13910
 P502279-6c3b8a59-fdde-4b34-8e18-c6783cca3b49.pdf Author	17896
 P505095 Public Disclosure Authorized UPDATED ENVIRONMENTAL	12253
@@ -2598,6 +2629,7 @@ POLICY STATEMENT Botswana Qualifications Authority	12574
 POSTAL AND TELECOMMUNICATIONS REGULATORY AUTHORITY	736,5264
 POTRAZ Zimbabwe's Data Protection Authority	3746
 POTRAZ the Data Protection Authority	8146
+POWERS AND FUNCTIONS OF THE AUTHORITY	18934
 PPA Public Procurement Authority	6936
 PPDA Public Procurement and Disposal of Assets Authority	12917
 PPRA Public Procurement Regulatory Authority PSC	7548
@@ -2618,6 +2650,8 @@ PSIP.pdf Author	14830
 PUBLIC AUTHORITIES LAW CREATINING THE LIBERIA	16851
 PUBLIC AUTHORITY	16851
 PUBLIC AUTHORlTY LAW CREATI NG	16851
+PUBLIC HEALTH AUTHORITY ACT	18943
+PUBLIC HEALTH AUTHORITY ACT Amendment	18943
 PUBLIC UTILITIES REGULATORY AUTHORITY	17249,1
 PUBLIC UTILITIES REGULATORY AUTHORITY ACT CAP	17249,1
 PUBLISHED BY AUTHORITY	12916
@@ -2659,6 +2693,7 @@ Philippine Statistical Authority	6985
 Philippine Statistics Authority	6985
 Philippines Statistical Authority	6985
 Plan PURA Public Utilities Regulatory Authority	16886
+Planning Authority	19096
 Planning Director General of Capital Market Authority	6938
 Points WRA Water Resources Authority	2775
 Poisons and Medicines Regulatory Authority	12253
@@ -2671,10 +2706,12 @@ Port Authority Company	18851
 Port Authority MONTSERRAT	16631
 Port Authority MONTSERRAT Montserrat Customs and Revenue	16631
 Port Authority NPA Non-Performing Loans NPLS	17235
+Port Authority and Customs and Excise. Stockbridge	18970
 Port Authority of Douala	4108
 Ports Authority GPPA Gambia Public Procurement	17105
 Ports and Free Zones Authority	1287
 Ports and Maritime Authority	16947
+Portuguese and French. CHAPTER II FISHING AUTHORISATIONS	18985
 Post Offices and National Land Transport Authority	10296
 Post The Telecommunications and Post Regulatory Authority	15286
 Post and Telecommunications Regulatory Authority	12032
@@ -2689,6 +2726,7 @@ Posting of Authorised Officer of Date Sanitary Authority	7845
 Powers of Authorised Officers	14727
 Powers of Authority Sub-Part B	14743
 Powers of Authority The Authority	14743
+Ppierre Seychelles Communications Regulatory Authority	18971
 Preliminary The National Telecom Regulatory Authority	15516
 Press and Broadcasting High Authority	17988
 Primary Author	15200,1100,92,2302,60
@@ -2730,10 +2768,10 @@ Prudential Authority AI-in-finance	4824
 Prudential Authority CEO Never	7205
 Prudential Authority and Financial Sector Conduct Authority	4633
 Prudential Authority. The CGV	11236
-Public Authorities	3,12545,4292
+Public Authorities	3,12545,4292,2043
 Public Authorities Law	16851
 Public Authorities Law Creating the Liberia Electricity	16851
-Public Authority	3,11953,1425,3776
+Public Authority	3,11953,1425,3776,1726
 Public Authority Article	11956
 Public Authority ERA5 European Centre for Medium-Range	17157
 Public Authority for Adult Education	15604
@@ -2767,7 +2805,11 @@ Public Disclosure Authorized TO THE REPUBLIC	15372
 Public Disclosure Authorized Table of Contents INTRODUCTION	16902
 Public Disclosure Authorized The Executive Directors	11475
 Public Disclosure Authorized The World Bank	3456,7414,93,1008,257,39,173,5919
-Public Health Authority	7761
+Public Health Authority	7761,11218,117,81
+Public Health Authority Act	18918,25
+Public Health Authority Act PART	18943
+Public Health Authority Emelyn Shroff	19177
+Public Health Authority Mr. Cliff Barra	19049
 Public Procurement Appeals Authority	8616
 Public Procurement Authority	4126,48,2762,521,2271,111,3,577,8081
 Public Procurement Authority GICTA Gambia ICT	16923
@@ -2800,6 +2842,7 @@ Purpose of Authorised Radio Stations	2776
 Qualifications Authority Adopt the National AI Priority	7548
 Quality Assurance Authority	14747,21,2458
 Quality of Service The Regulatory Authority	14867
+Quarantine Authority	18943
 RAI Authority	4126
 RBA Retirement Benefits Authority RMLF Road	2775
 RECEIPTS Authorized Allocation	16978
@@ -2809,6 +2852,8 @@ RECOGNIZED CERTIFICATION AUTHORITIES	16832
 REFUGEE APPEALS AUTHORITY	11177
 REFUGEE SUB-WINDOW Public Disclosure Authorized	11924
 REGISTER LOCAL AUTHORITY VOTERS’ REGISTER	13046
+REGULATION BY THE COMPETENT AUTHORITIES	18925
+REGULATION BY THE COMPETENT AUTHORITIES Regulation	18925
 REGULATION OF SERVICE PROVIDERSAND CERTIFICATION AUTHORITIES	16839
 REGULATORY BOARD RWANDA UTILITIES REGULATORY AUTHORITY	14867
 REGULATORY REFORMS Authority	6946
@@ -2874,6 +2919,7 @@ Registration Authority NPSE National Primary Schools	18460
 Registration Authority Registration	10822
 Registration and Authorisation Guidelines	17251
 Regulation Authority of Mail and Electronic Communications	3764
+Regulation of Certifying Authorities	18883
 Regulation. The Regulatory Authority	14867
 Regulations PUBLIC UTILITIES REGULATORY AUTHORITY	17249
 Regulations. PUBLIC UTILITIES REGULATORY AUTHORITY	17249
@@ -2897,6 +2943,7 @@ Regulatory Authority and Mandate	9855
 Regulatory Authority and Mandate The Pharmacy and Poisons	9855
 Regulatory Authority for Communication Technologies	14456
 Regulatory Authority for Electronic Communication	173
+Regulatory Authority for Electronic Communications and Post	18933
 Regulatory Authority for Electronic Communications and Posts	4182,1808
 Regulatory Authority for ICT	3628
 Regulatory Authority for Post and Electronic Communications	3221
@@ -2960,6 +3007,7 @@ Road Development Authority	7845,6897,86,19
 Roads Authority	10626,1055,785,631,25,1,66
 Roads Authority Act	12956
 Roads Authority Fund	13123
+Role of Competent Authorities	18925
 Root Certificate Authority	11867
 Root Certification Authority	8440,1440,2985,1388,129
 Root Certification Authority for Nigeria	10423
@@ -2999,10 +3047,13 @@ SADC Data Protection Authorities	6792
 SADC Model Law Authorization	27
 SAQA South African Qualification Authority SCM	11192
 SARS and Malawi Revenue Authority	9745
+SCHEDULE Allocation of Authorised Expenditure R'000 Office	19096
 SCImago and Zentralblatt MATH. Authors	16467
 SD RFP Mauritanie.pdf Author	18015
 SEC Authorisation Status ARIP	12882
 SECURITY Public Disclosure Authorized ZAMBIA REFUGEE	1988
+SERVICES AUTHORITY	19049
+SEYCHELLES QUALIFICATIONS AUTHORITY	18939
 SME Mauritius and Tourism Authority	14736
 SMMEs. Authorities	5998
 SMP Operator The Authority	17212
@@ -3024,6 +3075,7 @@ SUMMIT The Authority ADOPTED	13440
 SUPERVISING AUTHORITY OF RDB Article	14862
 SUPERVISING AUTHORITY OF RDB UMUTWE WA	14862
 SUPREME DATA GOVERNANCE AUTHORITY	3861
+SURFACE LONGLINERS Authorised	18985
 SURVEY REPORT Author	1938
 SWAp and National Health Insurance Authority	4301
 Sacco Societies Regulatory Authority	6938
@@ -3058,9 +3110,20 @@ Sensitive Information The Authority	13381
 Service Federal Housing Authority School Secondary	11129
 Service KURA Kenya Urban Roads Authority	2775
 Service Providers Number of Authorization	18444
-Services Authority	15473
-Seychelles Communications Regulatory Authority	7646,1,212
-Seychelles Meteorological Authority	10348
+Services Authority	15473,3501
+Seychelles Airport Authority and Seychelles Port Authority	19090
+Seychelles Civil Aviation Authority	19040
+Seychelles Communication Regulatory Authority	19096
+Seychelles Communications Regulatory Authority	7646,1,212,11075,37,180
+Seychelles Licening Authority Mr. Steve Monnaie	19049
+Seychelles Licensing Authority	18935,109,52
+Seychelles Maritime Safety Authority	19096
+Seychelles Maritime Security Authority. The EU	18927
+Seychelles Meteorological Authority	10348,8715,1,32
+Seychelles Planning Authority	18965
+Seychelles Ports Authority	18927
+Seychelles Qualifications Authority	18924,15,157
+Seychelles. The Financial Services Authority	18952
 Shilling KoTDA Konza Technopolis Development Authority	6432
 Should the Authority	4732
 Sierra Leone Civil Aviation Authority	18578
@@ -3221,6 +3284,7 @@ TIRA Tanzania Insurance Regulatory Authority TISS	7763
 TRANSMISSION SHEET Date Author HISTORICAL	5679
 TRANSMISSION SHEET HISTORICAL Date Author Description	5678
 TRUSTED AND AUTHORITATIVE Users	11854
+TUNA SEINERS Authorised	18985
 Takoradi Office National Communications Authority	2776
 Tamale Office National Communications Authority	2776
 Tanger Med Port Authority	17445

@@ -103,6 +103,7 @@ Calendar Year Ended	16978
 Capital MPA Early Years Program	11469
 Carries Chris Yelland	4950
 Census Years	16921
+Central African Republic Yearly Survey PCU	18887
 Channel YeMaswati	12977
 Charge Yet FACT-CHECK	10034,231
 Chief Information Officer Year	16872
@@ -145,6 +146,7 @@ Cyrus Melvin Kevin YEMBIT MANFOUMBI	16175
 DDS Priority Year	14997
 DEC-21 Year-om-Year Month-on-Month Figure	16935
 DELIVERY IN PREVIOUS YEARS	12168
+DG MARE Year	18985
 DG Nicolas Yenoussi	1724
 DGSN's Mouhcine Yejjou	3635
 DISBURSTBL Fiscal Year Annual Cumulative	1284,15612,26
@@ -233,7 +235,7 @@ FINANCIAL YEAR V	11224
 FINANCIAL YEAR VII Table	11224
 FINANCIAL YEAR VOTE	12982
 FINANCIAL YEARS	11986
-FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8,324,129,11,12,32,16,26
+FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8,324,129,11,12,32,16,26,36,68
 FISCAL YEAR Agricultural	13122
 FISCAL YEAR Despite	14985
 FISCAL YEAR ENDED	18661
@@ -285,7 +287,7 @@ Fiscal Year GABIX Gabon Internet Exchange	15511
 Fiscal Year GDP Gross Domestic Product	14985
 Fiscal Year GIS	12358
 Fiscal Year Mobile Network Expansion and Upgrade	3487
-Fiscal Year Scope and Period	15372
+Fiscal Year Scope and Period	15372,3515
 Fiscal Year TAX ON INTERNATIONAL TRADE	14985
 Fiscal Year Table	13053
 Fiscal Year Total Budget	13418
@@ -673,6 +675,7 @@ Repeating The Current Year Ref. Code	11180
 Report Publication Year	9022,3286
 Reporting Year	15627
 Representative Yekeh Kolubah of District	17419
+Republic of Chad Yearly Survey PCU	18887
 Republic of Yemen	14909
 Resolution Year Brief Description Relevance	17157
 Resource Members. Yet	9612
@@ -853,10 +856,11 @@ YEAR END PERORMANCE REPORT APPENDICES APPENDIX	3862
 YEAR END SUBSCRIBER	3862
 YEAR END TELECOM PROVIDER’S FINANCIAL DATA	3862
 YEAR ENDED	6100,6156,870,1610,8
-YEAR ENDING	13126
+YEAR ENDING	13126,5970
 YEAR IN NUMBERS	14985
 YEAR INTERVIEWER’S NAME	582
 YEAR OLDS	16892
+YEAR POPULATION	19099
 YEAR PRECISION	1391
 YEAR ROLL OF THE SUPREME COURT	12920
 YEAR-OLDS	16892
@@ -1022,6 +1026,8 @@ Year Male Female B. Sexes Female	14815
 Year Male Female Male Female	14815
 Year Mark Zuckerberg Announces Groundbreaking Update	5390,965,827
 Year Millions	17904
+Year N	18985
+Year N Year N	18985
 Year National Cabinet	17260
 Year Neonatal	10829
 Year Net	11955
@@ -1053,7 +1059,7 @@ Year People	2712,1976,3189,2993,1101,4734,1650,4,458
 Year Percentage	11395,529,4155
 Year Performance	4818,4143
 Year Policy Idicator	18532
-Year Population	12151,5006,348
+Year Population	12151,5006,348,1594
 Year Population No	4217
 Year Post-Implementation Support	15080
 Year Program Document for Strengthening the Rule of Law	16943
@@ -1068,6 +1074,7 @@ Year Quarterly	18817
 Year Registration of Births and Deaths Act	10822
 Year Regulatory Implementation	4126
 Year Repair	4653
+Year Report	18911
 Year Reporting of Revenue Collection	14546
 Year Respondents	7877
 Year Result Date Result Date Result	4653,11316,63,155,2172
@@ -1077,6 +1084,7 @@ Year Revise People	16032
 Year Revise Social	16032
 Year Rwanda Financing Framework	8478
 Year STI Policy	14355
+Year School Reports	18911
 Year Secondary	16187
 Year Share of LGs	16994
 Year Share of Nafa	17096
@@ -1193,6 +1201,7 @@ Year-End Strategic Plan Review Workshop	1554
 Year-Exchange	1638
 Year-On-Year	12395
 Year-end	11986
+Year-end Cash Holding	18979
 Year-olds	15415
 Year-on	11296
 Year-on-Year	2776,1086,2238,6099,196,1290,3259
@@ -1227,6 +1236,9 @@ Yearbook of Health Statistics	10780
 Yearbook. Radda	12135
 Yearly	10964,941,249,2689,220,309,353,1108,102,8
 Yearly ARPCE	15372
+Yearly ART	18887
+Yearly ART PCU	18887
+Yearly ART PCU Volume	18887
 Yearly Annual	15411
 Yearly Annual System	10964
 Yearly Description of Covenant	17441
@@ -1241,6 +1253,15 @@ Yearly MIS Regular Project	10964
 Yearly MIS Regular Project PIU	10964
 Yearly MIS Regular Project PIU Monitoring	10964
 Yearly Monitoring PIU	10964
+Yearly OTRT PCU Central African Republic	18887
+Yearly OTRT PCU PCU Central African	18887
+Yearly Operators ART Number	18887
+Yearly Operators ART Volume	18887
+Yearly Operators OTRT	18887
+Yearly Operators OTRT Central African Republic	18887
+Yearly PCU PCU	18887
+Yearly PCU PCU Central African Republic	18887
+Yearly PCU PCU Increased	18887
 Yearly PIU PIU Average	15372
 Yearly Project	15411
 Yearly Regular	10964
@@ -1260,6 +1281,7 @@ Years As Safaricom	3898
 Years Budget	7548
 Years Cost	7548
 Years Every	16886
+Years Experience	19039
 Years ITB	13185
 Years Increase	16886
 Years Long Term Agreement Basis ITB	2743
@@ -1355,8 +1377,10 @@ Yellow Digital Retailers	610,75
 Yellow Door Energy and Nedbank CIB	17679
 Yellow Fever	11912,5023
 Yellow Fever Grand Total Bomi	16971
+Yellow Fever Vaccine	18921
 Yellow Light Taxi Association	9466
 Yellow Light Taxi Association Chairperson Kebaeletse	9466
+Yellow Roof	18937
 Yellowdot Africa Nigeria Limited	3862
 Yellowwoods	1058,1093
 Yema Brave Rosie	16100
@@ -1416,6 +1440,7 @@ Yet Airtel Money’s Initial Public Offering	8049
 Yet CIPESA	9817
 Yet Cameroon	10990
 Yet Cape Verde	2945
+Yet Chad	18931
 Yet Chinese	5257
 Yet DPI	4424
 Yet Dioum	17728

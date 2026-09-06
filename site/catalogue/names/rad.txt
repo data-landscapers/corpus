@@ -47,7 +47,7 @@ Bakhita Radio The Directorate of Civil Registry	18733
 Bio Surveillance Radar System Rwanda	4167
 Boucle Local Radio	10821
 Broadband Radio	736
-Broadband Radio Access Networks	736
+Broadband Radio Access Networks	736,18235
 Broadcasting FM Radio	718
 Broadcasting Sector Radio	1944
 Bureau des Radiocommunications	13301
@@ -63,13 +63,14 @@ Campus Radio Stations	18444
 Capacity Building Radiocommunications	5680
 Categories of Authorized FM Radio Stations	18444
 Categories of Authorized FM Radio Stations Category	18444
+Central African States BTS Radio	18931
 Central Radio Stores	13361
 Centre for Radio Astronomy Techniques and Technologies	10076
 China’s National Radio and Television Administration	10441
 Citizens Band Radio Station C2	17250
 Cloudflare Radar	9477,5689
 Coastal Surveillance Radar	14830
-Coastal Surveillance Radar System	14306
+Coastal Surveillance Radar System	14306,4651
 Commercial FM Radio	6946
 Commercial Radio	17250
 Commercial Radio Stations	18444
@@ -133,6 +134,7 @@ ES DIRECTEURS DE RADIODIFFUSION SONORE ET	15397
 East Coast Radio	8458
 Ecuatorial RAC Ratio Alumno-Aula RAD Ratio	16864
 Education Radio	12175
+Effective Isotropic Radiated Power	18971
 El RAD	16864
 Electricity Television Radio Computer	14897
 Emergências Radiológicas	11376
@@ -160,6 +162,7 @@ FTA TV and FM Radio Stations	6946
 FTA TV and FM Radio Stations FY	6946
 Femme Homme Caractéristique Radio Télé- Journal	13300
 Fixed Radio	736
+Foreign Minister Radegonde	18957
 Fournisseurs des Services de Radiodiffusion Sonore	13301
 Fourth Schedule. Conditions for Private Radio Transceiver	736
 Fraction of Photosynthetically Active Radiation	11334
@@ -168,6 +171,7 @@ Frequency Modulation Radio Stations FM	18485
 Frequency Modulation Radio Stations FTTX	18485
 G New Radio	14780,45
 G Radio	14674
+G Radio Coverage Control	18931
 GENERACIÓN DE MOSAICOS RADAR Para	16875
 GESTÃO DO ESPECTRO RADIOELÉTRICO	11531
 GRTS Gambia Radio and Television Services GSC	16885
@@ -188,6 +192,7 @@ HSDU. Radiology	15206
 Home Region Radio Television Telephone Fixed	18441
 Homeboyz Radio Gukena FM East FM	9646
 Hôtel Radisson Blu Abidjan Airport. Organisée	17635
+Hôtel Radisson Blu de Ndjamena. Le Maréchal	18906
 Hôtel Radisson Collection	17983
 I'inlérieur CHAPITRE IV DE LA RADIATION	10813
 IGAD and RAD	14434
@@ -229,6 +234,7 @@ La Radio	15698
 Land Gutu Umtali Radio Umtali	4896
 Land Mobile Radio	762
 Land Mobile Radio Service	762
+Laser Radial	19063,1
 Law Governing Radiation Protection	718
 Lei da Radiodifusão	12311
 Lei da Radiodifusão. Artigo	12311
@@ -376,6 +382,7 @@ RADIO CULTURE	13324
 RADIO DESTINY FM	13324
 RADIO EAGLE SPORT FM	13324
 RADIO FREQUENCE MENYA	13324
+RADIO FREQUENCY SPECTRUM MANAGEMENT	18934
 RADIO GABON Président du Conseil	16175
 RADIO HIT AFRIQUE	13324
 RADIO IJWI RY’ UMUKENYEZI	13324
@@ -462,7 +469,7 @@ Radical Technology Network Ltd	3862
 Radical Transparency	4528,7984
 Radicalisation	15342
 Radif	9128
-Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,804,259,73,713,191,1616,162,16,46,22,397,11,422,166,344,182,12,163,132,71,188,22,11,313,166,214,276,40,434,249,177,28,4,13,1,601,76,271,3,327,20,644,4,29,28,26,1,17,14,7,19,115,15,25,111,1059,3,129,63,8,258
+Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,804,259,73,713,191,1616,162,16,46,22,397,11,422,166,344,182,12,163,132,71,188,22,11,313,166,214,276,40,434,249,177,28,4,13,1,601,76,271,3,327,20,644,4,29,28,26,1,17,14,7,19,115,15,25,111,1059,3,129,63,8,258,201,14
 Radio A2. Television Broadcasting Services Licence	17250
 Radio AFRI DIGITAL MEDIA BUJUMBURA	13414
 Radio AGAKIZA BUJUMBURA	13414
@@ -563,6 +570,7 @@ Radio KAZOZA FM BUJUMBURA	13414
 Radio KC	8999
 Radio Lesotho	12686
 Radio Licences	12395
+Radio Local Area Network	18971
 Radio MAGARA Times FM RUMONGE	13414
 Radio MARIA-BDI BUJUMBURA	13414
 Radio MAWINGU MEDIA BUJUMBURA	13414
@@ -704,6 +712,7 @@ Radisson Blu Hotel Antananarivo	14618
 Radisson Blu Hôtel	3242
 Radisson Blu de Libreville	16159,428
 Radisson Blu de N'Djamena	10364
+Radisson Blu de N’Djamena	19150
 Radisson Blu de N’Djaména	9142
 Radisson Blu de N’Djaména. Placée	10422
 Radisys	7158
@@ -726,6 +735,7 @@ Renewable Energy RSNSA Radiation Safety and Nuclear	14745
 Renewal of Radio Dealer Certificate	736
 Replacement of Four Radio Studio Mixing Consoles	12982
 Representing Katsina State Governor Dikko Radda	5765
+Republic of Chad GPRS General Packet Radio	18887
 Research Council of Zimbabwe Radiation Protection Authority	1154
 Retail Radar Intercepting Market Habits	7446
 Reutech Radar Systems	11768
@@ -757,6 +767,7 @@ Sudan Radio Service	14851
 Sudanese National Radio Correspondent	14271
 Sudanese Radio and TV Corporation	14853
 Support Eye Radio	3212,2216,578,1441,1631
+Sylvestre Radegonde	18927
 Systems Private Radio Transceiver Stations	736
 TI Postes Radiodiffusion MiniCommerce MiniTPT Mininfo	13290
 TI Postes Radiodiffusion MiniTPT MiniTPT MiniTPT	13290

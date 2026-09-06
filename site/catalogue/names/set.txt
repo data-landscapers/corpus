@@ -60,6 +60,7 @@ BoM Settlement	12270
 Botswana Interbank Settlement System	12537,42
 Botswana Interbank Settlement System The Bank	12579
 Boulaye Seta HAIDARA	17829
+Buildings and Settlements	18904
 Burundi SETIC	3172
 BurundiPay Set	5958
 CARICOM Payment and Settlement System	9179
@@ -716,14 +717,14 @@ Settlement Villages	17140
 Settlement and Credit Reference Systems	16844
 Settlement and Reconciliation ARTICLE	15484
 Settlement and Securities Systems	13468
-Settlement of Disputes	13185,4058
+Settlement of Disputes	13185,4058,1671
 Settlement of Disputes. Article	15641
 Settlement of Investment Dispute	13326
 Settlement of Investment Disputes	16972,1491,334
 Settlement of Net Settlement Instructions	12364
 Settlement of Net Settlement Instructions NSIs	12364
 Settlement of ZIPSS	12364
-Settlements	4103,7026,877,5134
+Settlements	4103,7026,877,5134,1764
 Settlements DLRRD Department of Land Reform and Rural	11261
 Settlements System Pilot Bill	881
 Settles	2902,277,1989

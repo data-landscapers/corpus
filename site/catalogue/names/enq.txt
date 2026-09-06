@@ -58,6 +58,7 @@ DES RECENSEMENTS ET ENQUETES STATISTIQUES Article	785
 DES RESULTATS DES ENQUETES ET ETUDES	15595
 DO MAIO I. ENQUADRAMENTO Em Cabo	15433
 DROIT D’ACCES ET ENQUETE Ondaye	15901
+Data Protection Enquiries Personal Data	19057
 Desenvolvimento de Governo Eletrónico EGDI Enquanto	11569
 Deuxième Enquête Nationale Sur Les Effectifs	17945
 Directeur des Enquêtes	8269
@@ -134,7 +135,7 @@ EnQuête	5013
 Enq. Couverture	17844
 Enquadra	2401
 Enquadra-se	5016
-Enquadramento	2690,8093,583,5,8,15,2,17,8,35,16,71,4,10,20,444,3359,96,552,2746,1,13,5,3
+Enquadramento	2690,8093,583,5,8,15,2,17,8,35,16,71,4,10,20,444,3359,96,552,2746,1,13,5,3,150
 Enquadramento Este	18769
 Enquadramento Geral	16019
 Enquadramento Jurídico O Ministério Público	9176
@@ -144,7 +145,7 @@ Enquadramento O Plano Estratégico	11379
 Enquadramento Realizou-se	10757
 Enquadramento da Política	11547
 Enquadramento da Protecção Social	18798
-Enquanto	4979,3514,1008,1050,198,4,24,6,778,16,3781,34,697,287,639,1736,17,15
+Enquanto	4979,3514,1008,1050,198,4,24,6,778,16,3781,34,697,287,639,1736,17,15,112,1,50
 Enquanto Instituto Público	15912
 Enque	15720
 Enquete	10841
@@ -169,7 +170,7 @@ Enquiry Consumer Complaints FAQs Consumer Complaints	9109
 Enquiry Point	18469
 Enquiry Points	12389
 Enquiry and Appeals Desk	18448
-Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6,285,528,33,51,5,14,49,38,78,3,50,9,4,43,141,28,25,169,120,19,12,70,3,11,19,71,161,4,16,8,78,726,26,15,26,313,14,2,1,4,18,78,33,99,22,1,4,65,24,11,82,5,6,19,6,15,85
+Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6,285,528,33,51,5,14,49,38,78,3,50,9,4,43,141,28,25,169,120,19,12,70,3,11,19,71,161,4,16,8,78,726,26,15,26,313,14,2,1,4,18,78,33,99,22,1,4,65,24,11,82,5,6,19,6,15,85,760,22
 Enquête ANEMCAM	10965
 Enquête ARTICLE	37
 Enquête Agricole	17945
@@ -227,6 +228,7 @@ Enquête Pauvreté	18291
 Enquête Permanente	14495,81,3268,41,60,142
 Enquête Point Prévalence Survey	14622
 Enquête Post-Censitaire	9277,7396
+Enquête Publique Processus	19189
 Enquête Régionale Intégrée	737,10137,7071
 Enquête Régionale Intégrée Sur L’emploi ET	17945
 Enquête Régionale Intégrée de Emploi	17945
@@ -248,7 +250,7 @@ Enquête de Suivi	18291
 Enquête de Séroprévalence	15423
 Enquête de Séroprévalence Nationale	14622
 Enquêtedesatisfaction	18297
-Enquêtes	7655,1236,1983,104,1065,1282,919,181,1004,50,116,117,136,327,75,370,826,382,16,1,100,37,309
+Enquêtes	7655,1236,1983,104,1065,1282,919,181,1004,50,116,117,136,327,75,370,826,382,16,1,100,37,309,662
 Enquêtes Cadre	18291
 Enquêtes Démographiques	10874,2426,25,3096,1524,64
 Enquêtes Harmonise	17945
@@ -259,11 +261,12 @@ Enquêtes Modules	18291
 Enquêtes Multisectorielles Continues ENES	10874
 Enquêtes OUI	17845
 Enquêtes PS-SNISS	17845
+Enquêtes SDI	18942
 Enquêtes Statistiques	2625
 Enquêteur	13390
 Enquêteurs	13390,4901,46
 Enquêtez	10070
-Enquêté	13300,90
+Enquêté	13300,90,5552
 Enquêtés	13300,90,4922
 Enquêtés Niveau	13300
 Etude Sur L’Harmonisation Des Enquêtes EMOP	17945

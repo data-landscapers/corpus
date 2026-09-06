@@ -127,7 +127,7 @@ ECOFAC Ecossistemas Florestais	18760
 ECOS. REGIONAL TRADUCCIONES MALABO BATA PRIMERO	4209
 ECOSAT	13442
 ECOSHAM	16908,1184,377
-ECOSIT	10841
+ECOSIT	10841,8112,14,21
 ECOSIT4	10841
 ECOSOC	1814,7077
 ECOSOC des Nations	8891
@@ -150,7 +150,7 @@ Ecosse	16249
 Ecossistema	3519,15277
 Ecossistema Digital	11394
 Ecossistema Informacional A Lei	11072
-Ecossistema de Cibersegurança	11394,7394
+Ecossistema de Cibersegurança	11394,7394,158
 Ecossistema de Código Aberto	3519
 Ecossistema de Empresas	15684,5
 Ecossistemas Globais de IA Para Moçambique	2816
@@ -274,6 +274,7 @@ Fragmented Ecosystem Mitigation	12512
 Fragmented Ecosystem Participation. Analysis	4528
 Future of Ghana’s Digital Financial Ecosystem	10249
 G-2 Re-engineer the National Data Production Ecosystem	17116
+GENERAL DIGITAL ECOSYSTEM	18910
 GII Innovation Ecosystems and Data Explorer	12205
 GSMA Building Digital Ecosystems	5241
 Gaps and Opportunities for Zambia’s Startup Ecosystem	12376

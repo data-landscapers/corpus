@@ -32,6 +32,7 @@ Board GDP Gross Domestic Product GIS	16935
 Boost GDP	3636,9384
 Botswana. Real GDP	12551
 CAR GDP	10829
+CAR. Real GDP	18887
 CG DEBT GDP	16949
 CIABAF COBAC DE4A DFS EGDI GDP	15480
 CMA GDP	14997
@@ -201,6 +202,7 @@ GDF Suez	15542
 GDF-KSEC	6729
 GDGCI	17102
 GDHFRP	18481
+GDI Advisors. Son	19107
 GDI GHG GII GoC GRID GRM	15553
 GDI Indice Genre	18286
 GDJF and GSA	6960
@@ -254,6 +256,7 @@ GDP Gross Domestic Product GIZ Gesellschaft	12923
 GDP Gross Domestic Product GRID Green	18301
 GDP Gross Domestic Product GRM Grievance	11525
 GDP Gross Domestic Product GTS Sector	13731
+GDP Gross Domestic Product GoCAR Government	18887
 GDP Gross Domestic Product GoG Government	15511
 GDP Gross Domestic Product GoL Government	17289
 GDP Gross Domestic Product ICI Djibouti	13836
@@ -286,6 +289,7 @@ GDP PER CAPITA	11586
 GDP PPP	4840
 GDP Per	2775
 GDP Per Capita	17503
+GDP Per Capita Data	18931
 GDP Population	10837,1052,265,186,1
 GDP Production	11884
 GDP Public	15604
@@ -304,6 +308,7 @@ GDP Rebasing Exercise Nominal GDP	18483
 GDP Referenced Index	18483
 GDP Rwf	14997
 GDP Signal Strong High and Acceptable Moderate	11134
+GDP Table	19038
 GDP Tax	17209
 GDP Total PPG	18851
 GDP Transport	5245
@@ -319,6 +324,7 @@ GDP ZiG1	4392
 GDP and CPI	15929,51
 GDP and Expenditure	18483
 GDP and GDP	11136,3538,930
+GDP and GNI	19038
 GDP and ICT	5245,5611,3818
 GDP and Inequality Adaptation	1828
 GDP and KSH	1923
@@ -352,6 +358,7 @@ GDP. Box	17326
 GDP. Businesses	1814
 GDP. But Econsult	4932
 GDP. C. Conclusion and Policy Recommendations	1828
+GDP. COVID-19	18931
 GDP. Commerce	14259
 GDP. Comparing Tanzania	6562
 GDP. Consistent	1828
@@ -363,6 +370,7 @@ GDP. Digital Public Platforms	18616
 GDP. Djibouti	13868
 GDP. E-gov	3375
 GDP. Eskom	12073
+GDP. Exports	19038
 GDP. Fiber-Optic Network Expansion	12035
 GDP. Figure	5247
 GDP. Financial Inclusion	940
@@ -374,6 +382,7 @@ GDP. Gross	17990
 GDP. Higher	11136
 GDP. IMF FAS	17870
 GDP. ITAP	13349
+GDP. Imports For Imports	19038
 GDP. Interest	5202
 GDP. Invest	10841
 GDP. Island	2561
@@ -438,6 +447,7 @@ GDP.124	13331
 GDP.13 Broadband	17870
 GDP.168 The IFC	14674
 GDP.2	18198
+GDP.22	18931
 GDP.3 Note	12948
 GDP.31 About	10768
 GDP.4 Remittances	11960
@@ -566,8 +576,10 @@ ICT Sector GDP	12395
 ICT Sector’s Share of GDP	16975
 INFANTERIE GDR Enseignes	15744
 Inclusion GDP Gross Domestic Product AI	12444
+Index GDP Gross Domestic Product GEI	18931
 Indicator GDP Gross Domestic Product SDR	18851
 Inflation GDP	18851
+Information and Communication'. Nominal GDP	19038
 Infrastructure GDP	14897
 Insurance Nominal GDP	2775
 International Scene World Real GDP Growth	2775
@@ -591,6 +603,7 @@ Like the EU’s AI Act and GDPR	9169
 Ln GDP	16942
 Log of GDP	1828,9321
 Low GDP	11916
+Low-income GDP	18931
 M GDP	10822
 M&E for GDU	16971
 Malawi's GDP	12176
@@ -600,6 +613,7 @@ Managed GDC Providers	4434
 Management GDP Gross Domestic Product GERME	18104
 Management GDP Gross Domestic Product GoM	17862
 Markets and Developing Economies GDP Gross Domestic	17011
+Mds GDP	18931
 Measure GDP GDP	10759
 Measure Value Rank Unit GDP	10837,1503
 Medium-term GDP	11131
@@ -615,7 +629,7 @@ National GDP	13418
 Nigeria's GDP	8466
 Nigerian GDP	3782
 Nigeria’s GDP	2417,4755,4685
-Nominal GDP	2775,8361,1364,1148,37,183,1117,2250,22,246,985,363
+Nominal GDP	2775,8361,1364,1148,37,183,1117,2250,22,246,985,363,187
 Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
 Nominal Rebased GDP	18483
@@ -649,6 +663,7 @@ Proj. National Income and Prices GDP	18823
 Proj. New Proj. Output Real GDP	17209
 Projections GDP	11131
 Quarterly GDP Reports Population Census National	12499
+RESULTS AND HIGHLIGHTS Real GDP	19038
 RQVLGHUDQGR D SURSRVWD GR PLQLVWUR GD	11530
 RUHVWDO H GD IDXQD R UHJLPH	11527
 RWANDA’S GDP GROWS	14873
@@ -656,9 +671,9 @@ Ratio GDP Global Partnership for Education GER	11905
 Rationale for Rebasing the GDP Estimates	18483
 Rationale for Rebasing the GDP Estimates Rebasing	18483
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81,273,38,476,74
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81,273,38,476,74,187
 Real GDP Gini	1828
-Real GDP Growth	940,1835,2880,6202,1675,153,3311,239,268
+Real GDP Growth	940,1835,2880,6202,1675,153,3311,239,268,1535
 Real GDP Growth Demand Contribution	17503
 Real GDP Growth Inflation Current Account	2775
 Real GDP Growth Net Exports Private	16996

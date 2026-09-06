@@ -2,6 +2,7 @@ A. Analyse	16328
 A. Economic and Financial Analysis	2889,8636,3847,39
 A. FINANCIAL AND ECONOMIC ANALYSIS	11863,2075
 A. Technical and Economic Analysis	1264,14227,27,103,1328,1344
+A.Â Economic and Financial Analysis	18887
 A1.3.3.1.1 Analyser	17983
 A5.2.1. Analyser	18286
 ABBREVIATIONS ANAM National Agency for Medical Assistance	17906
@@ -10,6 +11,7 @@ ACB Chief Systems Analyst	13001
 ACCULEAP ANALYTICS LIMITED Data Processor INST-837443556DE	7167
 ACRONYMES ET ABRÉVIATIONS Sigle ANAC AVASAN	17978
 ACRONYMS CMU CNPS Advisory Services and Analytics	11855
+AFMGA Koyalta Ndordji Information Analyst AFRIT	18887
 AFRICAN DEVELOPMENT UNIVERSALIS ANAB AGENCE NATIONALE	18143
 AGEMA ANALYSTS LIMITED Data Controller INST-3182202B86D	7167
 AGEMA ANALYSTS LIMITED Data Processor INST-3182202B86D	7167
@@ -27,6 +29,7 @@ AMOA Project Management Assistance ANADEN National	13731
 ANA Exemplars Matric Results Curriculum Curriculum	11241
 ANA Exemplars Matric Results Examinations Grade	11220
 ANA Exemplars Matric Results Research EMIS	11220
+ANA.2024 Released	19038
 ANAB SUP	8420
 ANABH	7670,651
 ANACIM	7640,10651,13,5,51,32
@@ -156,12 +159,16 @@ ANASTACIA WANJIRU MUHIA Data Processor INST-596388BA5F6	7167
 ANAT National Land Use Planning Agency	18293
 ANATEL	11531,3940
 ANATOMY OF SUDAN'S MULTIDIMENSIONAL POVERTY	15244
-ANATS	2823,149,616,1810,584,107,36,2492,395,1829,2840
+ANATS	2823,149,616,1810,584,107,36,2492,395,1829,2840,5245,7,57,3,6,25,5,48,7,1,45,14,39,5,13
+ANATS Avec	19201
+ANATS HCR Abéché URL	19024
+ANATS HCR Abéché V01	19024
 ANATS. Cette	6089
 ANATS. Selon	6089
 ANATT	7212
 ANAÏS. Notre	17824
 ANNUAL REPORT Impact Analysis	1554
+ANSICE and ANATS	18931
 ANTI-OESTROGENES ACETATE DE MEGESTROL TIBOLONE ANASTROZOLE	15930
 ANaTT	10821,31,4871,389
 ASA Advisory Services and Analytics ASP Adaptive	18301
@@ -292,7 +299,7 @@ Analogue Terrestrial Television	236,18208
 Analphabétisme	17907
 Analysability	5665
 Analysant	4383
-Analyse	588,149,10,1,456,27,12,460,639,1235,882,2934,1153,345,964,382,475,109,20,33,2,37,52,10,213,855,994,253,11,12,12,16,49,43,9,26,43,7,150,115,142,500,16,17,79,12,25,48,801,24,25,7,1,32,71,12,75,39,2,1,3,5,26,53,49,85,3,25,38,32,68,4,92,10,8,109,6,37,71,109,75,6,2,13,23,50,8,170,47,8,560,312,4,12,1,6,1,2,11,4,12,1,6,2,1,3,14,3,43,33,5,32,62,41,1,3,47,121,1,6,5,2,13,2,103
+Analyse	588,149,10,1,456,27,12,460,639,1235,882,2934,1153,345,964,382,475,109,20,33,2,37,52,10,213,855,994,253,11,12,12,16,49,43,9,26,43,7,150,115,142,500,16,17,79,12,25,48,801,24,25,7,1,32,71,12,75,39,2,1,3,5,26,53,49,85,3,25,38,32,68,4,92,10,8,109,6,37,71,109,75,6,2,13,23,50,8,170,47,8,560,312,4,12,1,6,1,2,11,4,12,1,6,2,1,3,14,3,43,33,5,32,62,41,1,3,47,121,1,6,5,2,13,2,103,489,31,206
 Analyse Bureau	18418
 Analyse Bureaux	18418
 Analyse CAPEX	12043
@@ -336,7 +343,7 @@ Analyse des Marchés	998
 Analyse des Politiques Economiques du CIRES	15712
 Analyse des Recettes	17872
 Analyse des Systèmes	13349,2312,12,514,249
-Analyse des Systèmes Educatifs	11905,1407,2
+Analyse des Systèmes Educatifs	11905,1407,2,5617
 Analyse des Traces	17899
 Analyse du Big Data	16639
 Analyse du Comportement Pluviométrique	17001
@@ -345,6 +352,7 @@ Analyse du Marché du Travail	14622
 Analyse du PDI	18297
 Analyse du PNDSS Le Plan National de Développement	18297
 Analyse du Plan	18297
+Analyse du Secteur	18942
 Analyse du Secteur des Tic	13313
 Analyse. Une	6257
 Analysedel'infrastructureetdesapplications	18297
@@ -354,7 +362,7 @@ Analysedesécartsavecl’existant	18297
 Analyseerrors	8606
 Analyser	747,12554,40,378,855,6,892,22,269,85,2054,388,12
 Analyser DFM	17845
-Analyses	11131,3,451,413,3208,306,392,518,199,1209
+Analyses	11131,3,451,413,3208,306,392,518,199,1209,1133
 Analyses Alimentaires	4402
 Analyses Economiques DG	17844
 Analyses Médicales Malagasy	14622
@@ -362,7 +370,7 @@ Analyses Médicales Malagasy Liste Nationale des Médicaments	14622
 Analysing	4866,3156,1106,309,1289,310,194,1137,18,60,5328,177
 Analysing Infrastructure	11990
 Analysing the Italian	5700
-Analysis	446,353,462,23,48,267,60,83,11,229,6,108,166,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20,27,13,5,19,145,75,35,6,35,225,20,106,204,24,23,14,48,22,8,96,243,5,62,45,55,12,423,37,5,28,450,169,117,281,524,75,102,27,129,16,1,36,3,24,75,22,164,24,98,30,21,18,107,515,220,169,436,5,11,47,1,20,1,68,32,84,30,78,1,3,541,90,14,220,14,175,77,159,177,48
+Analysis	446,353,462,23,48,267,60,83,11,229,6,108,166,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20,27,13,5,19,145,75,35,6,35,225,20,106,204,24,23,14,48,22,8,96,243,5,62,45,55,12,423,37,5,28,450,169,117,281,524,75,102,27,129,16,1,36,3,24,75,22,164,24,98,30,21,18,107,515,220,169,436,5,11,47,1,20,1,68,32,84,30,78,1,3,541,90,14,220,14,175,77,159,177,48,133,98,57
 Analysis By Allen Mangava	6099
 Analysis By Pamellah Musimwa and Chinga Govhati	8864
 Analysis By VERITAS THE Cyber and Data	9251
@@ -396,6 +404,7 @@ Analysis and Recommendations Lamin C.A. Lighe Electoral	18531
 Analysis and Recommendations URL	18531
 Analysis and Reporting	13005
 Analysis and Requests for Proposals	11131
+Analysis and School Mapping	19093
 Analysis of Agricultural Empowerment Profiles	15473
 Analysis of BNR	14997
 Analysis of CBN	7173
@@ -417,7 +426,7 @@ Analysis of Hydrological Trends	18198
 Analysis of ICT	18531
 Analysis of Information	12537
 Analysis of Integrated Prepaid Tariff Plans	11259
-Analysis of Issues Shaping Africa’s Economic	4972
+Analysis of Issues Shaping Africa’s Economic	4972,13959
 Analysis of Key Fiscal Ratios	2775
 Analysis of Liberia	2456
 Analysis of Major Changes	14835
@@ -450,6 +459,7 @@ Analyst	1347,1338,2,359,86,176,15,119,65,122,468,285,162,96,374,93,240,768,308,3
 Analyst Functions	6423
 Analyst Ministry of Infrastructure	15019
 Analyst Reporting Generates Fragmented	13037
+Analyst Terryll Adrienne. Invites Minister Fonseka	18964
 Analyst Tool SDG Sustainable Development Goal	17157
 Analyst Tsiry Razafimiarana MCE Specialist	17101
 Analyste	747,8868,5817,42,19,2468
@@ -593,6 +603,7 @@ Anatomical	1988
 Anatomie	4127,12500
 Anatomy	2834
 Anatomy of MTN	9840
+Anats	18944
 Anattributepairisconsideredsimilarwhen	8606
 Anavid	7482
 Anaxar	3821
@@ -745,6 +756,7 @@ Children PAC Policy Analysis and Coordination PMEC	13346
 Chimène Anani Dègla	5899
 Choice of Unit of Analysis and Dimensions	15244
 Christian YOKA Anatole Collinet MAKOSSO	15901
+Christopher Colin Anacoura of Point Au Sel	19049
 Civic Engagement Analyst	13238
 Clara Ana Coutinho De Sousa Franz	17962
 Clara Ana Coutinho De Sousa Practice	15743,2455
@@ -818,6 +830,7 @@ D. ANALYSE DES EFFETS POTENTIELS	15542
 D. Analyse	15542
 D.G. ANAL	4209
 D2.3. Analysis	14020
+DAPRO and UNHCR. Analysis	18911
 DATA ANALYSIS	1939,13124
 DATA ANALYSIS AND INSIGHTS	1686
 DATA ANALYSIS AND INSIGHTS Risk	1686
@@ -866,6 +879,7 @@ Data Collection and Analysis	12345,4630
 Data Collection and Analysis Methods	16963
 Data Envelopment Analysis	1828
 Data Exchange for Operational Analytics Operational	11222
+Data Protection Analyst	19042
 Data Science Analytics	6832
 Data Science and Adaptive Analysis	5244
 Data Science and Analytics	9576
@@ -970,18 +984,20 @@ Economic Analysis. The Project	11417
 Economic Analysissection	18104
 Economic Analyst	11289
 Economic Policy Analysis and Research Centre	12956
-Economic and Financial Analysis	969,259,639,1737,2935,4229,196,416,169,11,295,110,1366,1,411,1194,435,39,104,143,1,2,82,240,631,1490,197,453,23
-Economic and Financial Analysis AFRICA	15372
+Economic and Financial Analysis	969,259,639,1737,2935,4229,196,416,169,11,295,110,1366,1,411,1194,435,39,104,143,1,2,82,240,631,1490,197,453,23,110
+Economic and Financial Analysis AFRICA	15372,3515
 Economic and Financial Analysis COUNTRY	13332
 Economic and Financial Analysis EPCV Mauritanian Household	17849
 Economic and Financial Analysis Technical	18104
 Economic and Financial Analysis Technical Analysis	15658
 Economic and Financing Analysis	15515
 Edo and Anambra State	12004
+Education Analysis for Global Learning and Equity ODD	18942
 Education Policy Analysis	15164
 Education Sector Analysis	3583,9392,374,1547,708,84
 Education Sector Analysis Report	18765
 Education Sector Analysis for Malawi	12175
+Education Systems Analysis Program PASEC of CONFEMEN	18931
 Effectiveness Analysis.2003	16922
 Efficiency Analysis	15704
 Egypt Pre-University Education Sector Analysis	15604
@@ -1048,6 +1064,7 @@ Firm-Level Analysis	11140
 Fiscal Sustainability Analysis	15661
 Five Years Analysis	14546
 Five-year Trend Analysis	11250
+Flaccid Paralysis ANATS Agence Nationale Des	18931
 Flow Forecasting and Analysis Tool SLRA Sierra	18488
 Food Price Monitoring and Analysis	15620
 Food Security and Nutrition Analysis Unit	15093
@@ -1066,7 +1083,7 @@ GDA Analytics and Processing Platform	17405
 GENDER ANALYSIS AND ACTION PLAN	13938
 GENDER ANALYSIS AND PROPOSED ACTIONS	16144
 GENDER ANALYSIS AND PROPOSED ACTIONS BARRIERS	16144
-GIEWS Food Price Monitoring and Analysis	16464,708
+GIEWS Food Price Monitoring and Analysis	16464,708,1882
 GIS Analyst	11941
 GLASS Analyse	15724
 GLASS GDT GTS HPV IDA Analyse	14622
@@ -1088,6 +1105,8 @@ Generative AI Analytics and Near Field Communication	17116
 Genesis Analytics	2205,1577,71,1587,6833
 Geometria Analítica	12019
 Geotechnical Analysis	11131
+Gerard Albert Anacoura	19049
+Gerard Anacoura	19049
 Ghana A Xalam Analytics Country Report	3184
 Ghana-Centrafrique-Russie Anatomie-d-une-fuite	4127
 Gilliana Anacoura	7761
@@ -1159,7 +1178,7 @@ II. ANALYSE SITUATIONNELLE DE LA SANTE	17882
 II. Analyse	1247,4681
 II.2 Analyse	10922
 III. ANALYSE DE LA MISE EN	14442
-III. Analyse	17907,383
+III. Analyse	17907,383,636
 III. DIAGNOSTIC SECTORIEL III.1 ANALYSE DES	13306
 III. IDENTIFICATION ET ANALYSE DES PARTIES	16104
 III.1 Analyse	13306
@@ -1216,12 +1235,15 @@ In-Depth Analysis. Brussels	4676
 Independent Data Analyst	12478
 Industry Analysis	10718
 Industry and Trade Assistant Trade Policy Analyst	12972
-Information Analyst	4123,8986,371,5012
+Information Analyst	4123,8986,371,5012,550
+Information Analyst Telephone	19057
+Information Analyst and Data Protection Analyst	19042
 Information Sharing and Analysis Center	6928
 Information Sharing and Analysis Centre	8392,7851
 Information Sharing and Analysis Centres	6936
 Information System ESA Education Sector Analysis	15604
 Information Technology Analyst	10812
+Information and Data Analysis System MIS Management	18931
 Infrastructure Economic Analysis	11857
 Infrastructure and Analytics and Cyber Security	12926
 Infrastructure. Analysis	4528
@@ -1269,6 +1291,7 @@ Journal of Legal Analysis	18318
 Journal of Policy Analysis and Reform	5700
 Journal of Productivity Analysis	1828
 Judicial Professional and Operational Gap Analysis	16943
+Juliette Cheryl Anacoura of La Louise	19049
 KANHYE-TOREE Medha Lead Analyst Ministry	14770
 KOUYELEKISSA Anatole DEP	15580
 Kane Clara Ana Coutinho De Sousa	17962
@@ -1428,6 +1451,7 @@ National Health Technology and Data Analytics Office	18253
 Navin Anandaraj	4434
 Network Analysis Zimbabwe's AI	12512
 Network Analysis Zimbabwe’s AI	4528
+Neves and Ana Chaves. Transhipment	18985
 News Analyst LUCKY MKANDAWIRE	13149
 News And Analysis About	4969
 Newsfeed Anambra State	3133
@@ -1470,6 +1494,7 @@ PROFESSEURS DE CEG FRANCO-ARABE ANAB AGENCE	18170
 PROGRAMMES MEDIA CURRICULUM School Examination Analysis	18536
 PROJECT FEASIBILITY A. Financial and Economic Analysis	11863,2075
 PTF. Analyse	18015
+PUBLICATIONS DE L’INSEED I.1 Analyse	18926
 Page II. ANALYSE DE L’ÉTAT INITIAL	18118
 Paie Anael RH. Pour	15474
 Part A Overview and Analysis	14830
@@ -1479,6 +1504,7 @@ Performance Analysis	12759,218
 Performance Analysis Analysis	13477
 Personnel Audit and Skills Gap Analysis	7659
 Pest Risk Analysis	15478
+Phillibert Donald Anacoura of Bel Ombre	19049
 Plan Policy Analysis and Coordination Public Key	12453
 Planification Analyse Traitement	17845
 Plataforma Analítica	2132,481
@@ -1541,6 +1567,7 @@ Quantitative Analysis	12978,354
 RA-GAP Revenue Administration-Gap Analysis Program VAT	12948
 RAMGOOLAM-MOOLOO Swatee Assistant Systems Analyst	14770
 RD-Connect Genome-Phenome Analysis Platform	10188
+REFLECTIONS FROM THE SITUATIONAL ANALYSIS REPORT	18910
 REGULAR ANALYTICAL REVIEWS OF PROGRESS	16892
 REQUEST ANALYSIS	10775
 RESUME ANALYTIQUE	18105
@@ -1643,7 +1670,8 @@ SURVEY ANALYSIS Data	12090
 SWALIM Completes Cultivable Areas Analysis for Somalia	15129
 SWOT ANALYSIS	4126,8847,3911
 SWOT ANALYSIS STRENGTHS WEAKNESSES	4126
-SWOT Analysis	4126,402,7916,68,2233,67,23,22,856,1230,1532,3,134
+SWOT Analysis	4126,402,7916,68,2233,67,23,22,856,1230,1532,3,134,430
+SWOT Analysis InfoCom	19042
 SWOT Analysis SWOT Analysis	14934
 SWOT Analysis The SWOT	18478
 SWOT Analysis WEAKNESSES OPPORTUNITY THREAT	14835
@@ -1658,6 +1686,7 @@ Sah Analytics. Grâce	2418
 Saldana J. Qualitative Data Analysis	14666
 Saliha COULIBALY ANAM	17882
 Sanjay Anandaram	6692
+Sanjeev K Pugazhendhi Policy Analyst	18937
 Satellite Analysis Branch	15907
 Satellite Analysis Exposes Extreme Farmland	15229
 Satellite Analysis Reveals	14569
@@ -1668,7 +1697,7 @@ Scenario-Based Analysis	11228
 School Connectivity Landscape Analysis	5851
 School Map Data Analysis Report	15480
 Secondary Education Sector Analysis	16876
-Sector Analysis	16852
+Sector Analysis	16852,2059
 Sector Analysis Zambia	12502
 Sectoral Analysis	2775
 Security Analysts	6832
@@ -1720,7 +1749,7 @@ Situation Analysis of Startups	14897
 Situation Analysis.......14	13999
 Situational Analysis	4528,6660,1324,162,1,260,70,28,50,237,27,127,69,927,406,2135,353,174,993,33
 Situational Analysis Lesotho	12674
-Situational Analysis Report	12598,389,4170
+Situational Analysis Report	12598,389,4170,1753
 Situational Analysis Sierra Leone	18531
 Situational Analysis Zambia	13347
 Situational Analysis and Theory of Change	18529
@@ -1757,6 +1786,7 @@ Station of Mbour Diadji Cissé ANACIM Forecaster	18309
 Statistical Analysis Software	8604
 Statistical Analysis Software UA	10874
 Statistical Data Analysis Report. MINESUP	15480
+Statistics and Analysis	18911
 Stats SA Demographic Analysis Chief Directorate	11296
 Stochastic Frontier Analysis	1828
 Stock Analysis and Supply Chain Audits	14985

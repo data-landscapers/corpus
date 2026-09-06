@@ -90,7 +90,7 @@ Appropriate Safeguards	12302
 Après le Safe	15329
 Arab Republic of Egypt Strengthening Social Safety	15663
 Aristida Safety Authority Use	17157
-Arrangements for Safeguards Supervision	15372
+Arrangements for Safeguards Supervision	15372,3515
 Artificial Intelligence Safety Law	3364
 Assistance Options and Safeguards	3861
 Assistance Options and Safeguards Permissible	3861
@@ -109,7 +109,7 @@ BCC and Training for Beneficiaries of Regular Safety Net	15658
 Balancing Access and Safety	4253
 Bank Adaptive Safety Nets and Economic Inclusion	10964
 Bank Madagascar Safety Nets and Resilience Project	14553
-Bank Safeguard	15372
+Bank Safeguard	15372,3515
 Bank's Climate Safeguards System	13938
 Bank's Integrated Safeguards System	13938
 Banking Former Safaricom	3621,343,1408,102,1054
@@ -393,6 +393,7 @@ Food Safety and Wellness Crop Nutrition	14818
 Former Safaricom	3964
 Formerly PRGF. Safeguards Assessment	13868
 Foundations Through the Safaricom and M-PESA Foundations	7204
+Four World Bank Safeguard	18887
 Framework EHSGs Environmental Health and Safety Guidelines	1988
 Framing Adaptive Safety Nets	10763
 Framing Adaptive Social Safety Nets	10763
@@ -567,7 +568,8 @@ Le SAFI	14510
 Lead for Safety Evals Platform	9592
 Lebanon Emergency Social Safety Net Project	12443
 Legal Safeguards	10415,1974
-Lei SAFE	18798,55
+Legal and Safeguards Framework	19079
+Lei SAFE	18798,55,92
 Leverage Social Safety Nets	10964
 Liberia Social Safety Nets Project	16960
 Liberia. Benin’s Productive Social Safety Net	16144
@@ -627,6 +629,7 @@ Mehnaz Safavian	10841,1994,596
 Mehnaz Safavian Anne-Elisabeth Sarah Victoire Emmanuel	4653
 Mehnaz Safavian Task Team Leaders	6539
 Meio Ambiente SAFE Sistema de Administração Financeira	18788
+Meio Ambiente. SAFE	18946
 Mentored and Safe DREF Disaster Relief Emergency	12970
 Meta Selects Safaricom	3839
 Microsoft and Safaricom	6667
@@ -641,6 +644,7 @@ Mme Safiatou Diawara	18093
 Mn Safaricom Group Performance Service	3898
 Mn. Safaricom Kenya Performance Safaricom Group	6100
 MoPT and Contractor Safeguards	17114
+Mobile Application Safety	19007
 Mohamed Hédi Safer	10288
 Morpho Safran	11115
 Mr. Alex PL Saffa	18553
@@ -737,7 +741,7 @@ Occupational Health and Safety Specialist	11417
 Occupational Health and Safety Unit	14778
 Occupational Health and Safety and Act	1009
 Occupational Health and Safety of Workers	12253
-Occupational Safety	12253,807,1701,266
+Occupational Safety	12253,807,1701,266,3952
 Occupational Safety and Health	12964,1778
 Occupational Safety and Health Act	1988,10268,2166,320,19,74
 Occupational Safety and Health Bill	8681
@@ -1163,7 +1167,7 @@ Safe-to-Release	15714
 SafeBoda	673,2003
 SafeTIR	16631
 Safebond	18797
-Safeguard	961,3473,6287,435,369,1150,289,526,1254,253,24,72,279,473,1269,77
+Safeguard	961,3473,6287,435,369,1150,289,526,1254,253,24,72,279,473,1269,77,1696,159
 Safeguard Children	4583
 Safeguard Citizens	4643
 Safeguard Clause	14409
@@ -1171,15 +1175,16 @@ Safeguard Clause CHAPTER TWELVE	14409
 Safeguard Digital Rights	3582
 Safeguard Framework	13080
 Safeguard Instruments	15411
-Safeguard Instruments Prepared	15372
+Safeguard Instruments Prepared	15372,3515
 Safeguard Measures CHAPTER FIFTEEN	14409
 Safeguard Measures The Council	14409
-Safeguard Monitoring Mechanisms	15372
+Safeguard Monitoring Mechanisms	15372,3515
+Safeguard Policies	18887
 Safeguard Policies Triggered	11525,330,1668,1888,2030,663
 Safeguard Policy	17441
 Safeguard and Fiduciary Compliance	16614
 Safeguard and Grow Costal Tourism Jobs	8891
-Safeguarding	1020,1439,319,46,95,823,446,341,603,1814,2,600,6018,507,669,76,81,1069,916,460,626,499,388
+Safeguarding	1020,1439,319,46,95,823,446,341,603,1814,2,600,6018,507,669,76,81,1069,916,460,626,499,388,73
 Safeguarding Access	18851
 Safeguarding Artists' Rights	14828,3
 Safeguarding Digital Public Infrastructure for Children	11007
@@ -1193,7 +1198,8 @@ Safeguarding Trust	8282
 Safeguarding Trust and Managing Risks	8282
 Safeguarding of Funds	12542
 Safeguarding the National Research Mandate The Committee	1554
-Safeguards	1204,2657,1252,173,70,768,1424,2158,149,302,807,192,369,330,8,93,258,39,191,536,62,38,266,1219,269,54,5,72,199,247,100,148,143,181,943,34,297,65,119,62,215,27
+Safeguards	1204,2657,1252,173,70,768,1424,2158,149,302,807,192,369,330,8,93,258,39,191,536,62,38,266,1219,269,54,5,72,199,247,100,148,143,181,943,34,297,65,119,62,215,27,1142
+Safeguards Advisor AFTOS Nathalie Munzberg Senior	18887
 Safeguards Advisor Nathalie S. Munzberg	12137
 Safeguards Ato Abrham Abebe	12195
 Safeguards Borrower	12137
@@ -1218,7 +1224,7 @@ Safer Digital Future Through Regional Cyber	13880
 Safer Internet Day	5551
 Safer Schools Programme	11285
 SaferAI	8014
-Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13,697,53,82,65,2,262,424,349,172,142,16,131,38,106,54,57,11,425,84,187,367,569,67,36,16,26,8,8,172,146,646,198,82,31,141,12,60,46,159
+Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13,697,53,82,65,2,262,424,349,172,142,16,131,38,106,54,57,11,425,84,187,367,569,67,36,16,26,8,8,172,146,646,198,82,31,141,12,60,46,159,287,8,49
 Safety Accountability	10837,1052,263,11,177,1
 Safety Across	11585
 Safety Act	1988
@@ -1227,6 +1233,7 @@ Safety Advisory Council	9201
 Safety Agency Personal Protective Equipment Zambia	1988
 Safety Audit	6946
 Safety Authority NWCPC National Water Corporation	2775
+Safety Awareness	18979
 Safety Committee	14736
 Safety DRC Energy and Petroleum Regulatory Authority	12256
 Safety Division	14738
@@ -1345,11 +1352,12 @@ Safety and Welfare Act	14778
 Safety and Welfare of Staff	14761
 Safety and Well-being	17099
 Safety of Air Navigation	11553,2176,4580
-Safety of Dams	15372
+Safety of Dams	15372,3515
 Safety of Dams OP	11525,330,282,3274,2693
 Safety of Electricity Connections	12389
 Safety of Internet Connections	12389
-Safety of Journalists	14073,2945,952
+Safety of Journalists	14073,2945,952,960
+Safety of Life	18914
 Safety of Services Traffic and Road Safety	1988
 Safety of Water Connections	12389
 Safety-Critical	5665
@@ -1368,6 +1376,7 @@ Safim	4984
 Safim-Mpak	17326
 Safiri	5875
 Safitel	2863,1470
+Safitel Tchad	19033
 Safiyo Mohamed Ali	17644
 Safo and Kénié	18066
 Saforo Expands Hybrid Work Through Zuludesk	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
@@ -1389,6 +1398,7 @@ Senegal and Safaricom	6834
 Senior Safety and Health Officer Ministry of Public	14770
 Service of Road Safety	6035
 Settor Safo	6351
+Seychelles Maritime Safety Authority	19096
 Sh241.20. Safaricom	6114
 Sharing Information Safely	12458
 Shock Responsive Safety Net	12229

@@ -55,8 +55,10 @@ WGI Control of Corruption	1828
 WGI Government Effectiveness	1828
 WGI Rule of Law	1828
 WGI Worldwide Governance Indicators WITS World	16996
+WGJ.1	18901
 WGS-84	1009
-WGS84	1984,3801,5620,5470,1027
+WGS84	1984,3801,5620,5470,1027,1002,81
+WGS84 World Geodetic Systems	18904
 WGWD Women and Girls	15036
 World Bank WGI	11545
 YcLjcuTR KFmV0HBPaS4Q WG1A	10235

@@ -38,8 +38,8 @@ Kidist Lakew	12195
 LAKAMAN	17828
 Lake Basin Development Authority	6946,7600
 Lake Basin Mall Eagle Africa Centre	12256
-Lake Chad	10841,122,1,4950,2211
-Lake Chad Basin	7452,2164,1225,5946
+Lake Chad	10841,122,1,4950,2211,786,22
+Lake Chad Basin	7452,2164,1225,5946,2124
 Lake Chad Basin Commission	16137
 Lake Chad and Niger	10964
 Lake Gas	12256
@@ -57,7 +57,7 @@ Lake Oil Limited	12256
 Lake Piso	17114
 Lake Piso Multiple Use Reserve	17114
 Lake Piso Solutions and Member	17070
-Lake Region	12155
+Lake Region	12155,6756
 Lake Shepherd	17114
 Lake Sulunga	10794
 Lake Tanganyika	10009,4904,1003,1893
@@ -95,6 +95,7 @@ Lakshmi Dhikta	13040
 Lakshmi Gangamreddypalli	11909
 Laksi Post Office Laksi	17856
 Laku Pandai	11994
+Level Lake Chad Massaguet Bokoro Mongo	18887
 Liberia. Lakes	17043
 Local Area Networks LBDA Lake Basin	6946
 M-Pesa and LakiPay	2570

@@ -50,6 +50,7 @@ IDs for KYC	12297,1641
 ITCZ KYC LPG MASFAMU MAT MINAGRIF	10763
 International Financial Centre KYC Know	14997
 Internet Exchange Point KYC Know	13312,2,5140
+Internet Exchange Point KYC Know-Your-Customer M&E	18931
 Internet KYC Connaissance	15474,1152
 Ivoire Jamaica Kiribati Kuwait Kyrgyzstan Latvia	10764
 JOSPHAT KYALO SAMMY Data Processor	7167
@@ -82,6 +83,7 @@ KYC MMA NFIS P2B P2P PKI	11130
 KYC PRIVATE State of Affairs	10819
 KYC Procedures	11233
 KYC Procedures. A Day Two Process	11233
+KYC Process	19041
 KYC Service	12274
 KYC System	3117
 KYC Utilities	10819

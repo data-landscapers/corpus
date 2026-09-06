@@ -48,6 +48,7 @@ Computer-related Offenses	12459
 Copyright Schedule of Fees Services Offered Fees	18541
 Core Web Vitals Programme Offerwall	13462
 Corruption and Economic Offences	11628
+Criminal Offences	19034
 Criminal Offences Act	587,16641
 Criminal Offences and Sanctions	12185
 Criminal and Other Offences	11
@@ -107,7 +108,7 @@ INTERNATIONAL EXPOSURE SPECIALIZATION AND UNIQUE OFFERINGS	18487
 ISACA Intermediate Level Offensive Security Certified	15662
 Independent Corrupt Practices and Other Related Offences	10054,2082
 Initial Coin Offering	10738
-Initial Coin Offerings	12339
+Initial Coin Offerings	12339,6613,22
 Initial Public Offering	3391,3743,5242,1634
 Initial Token Offerings	14819
 Interconnection Offer RTGS Real Time Gross	16942
@@ -124,6 +125,7 @@ Land Acquisition Farms Offered and Farms Purchased	12912
 Level Infrastructure Offer	17157
 List of Services Offered All	12157
 Low-Cost Legal Assistance Offered	12389
+MISCELLANEOUS PROVISIONS Offences	18925
 MTN Channel Exclusive Offers	11259
 MTN Channel Exclusive Offers Bundle Name	11259
 MTN Channel Exclusive Offers MTN	11259
@@ -139,10 +141,10 @@ MyTown Offers	11259
 NEED TO ENHANCE THE OFFER	3604
 NO. OF OFFENCES CLASSIFIED AS CRIME	14760
 National Assembly. Offences	12546
-OFFENCES	783,691,1252,10655,1112,101,123,3746,137
+OFFENCES	783,691,1252,10655,1112,101,123,3746,137,293,27
 OFFENCES AND ENFORCEMENT	16835
 OFFENCES AND ENFORCEMENT Governance	9670
-OFFENCES AND PENALTIES	1333,141,10573,2680,3711
+OFFENCES AND PENALTIES	1333,141,10573,2680,3711,450,46
 OFFENCES AND PENALTIES FOR PETROLEUM OPERATIONS	11976
 OFFENCES AND PENALTIES OF GENERAL APPLICATION	11976
 OFFENCES AND PENALTIES Offences	12459
@@ -151,6 +153,7 @@ OFFENCES AND PENALTIES PART	11976
 OFFENCES AND PENALTIES Section	14870
 OFFENCES AND PENALTIES Unlawful	1333
 OFFENCES RELATED TO INFORMATION TECHNOLOGY	18459
+OFFENCES Unauthorised	18920
 OFFENDER	7845
 OFFER	4896,9858
 OFFER PROTECTION INFRASTRUCTURE	16942
@@ -162,7 +165,7 @@ Offence	1333,5588,5055,952,2,391,50,195,856,305,33,3707,133
 Offence Rate	14760
 Offence Rate Jul	14760
 Offence of Money Laundering	18599
-Offences	1,10,15,710,236,621,1116,17,2961,1430,728,3332,1,679,119,71,363,116,4,2,3,11,2,1,13,67,14,5,3,2,234,2,1,2,1,1,1,3,1,2,15,3,10,25,86,246,10,1,8,6,4,4,2,31,19,27,168,40,801,15,27,5,74,66,120,1,1,1,2,1,2,6,2,13,17,110,23,18,429,1492,1,6,1,47,1551,2,19,97,44,2,84
+Offences	1,10,15,710,236,621,1116,17,2961,1430,728,3332,1,679,119,71,363,116,4,2,3,11,2,1,13,67,14,5,3,2,234,2,1,2,1,1,1,3,1,2,15,3,10,25,86,246,10,1,8,6,4,4,2,31,19,27,168,40,801,15,27,5,74,66,120,1,1,1,2,1,2,6,2,13,17,110,23,18,429,1492,1,6,1,47,1551,2,19,97,44,2,84,197,3,2,5,32,4
 Offences Against	14760
 Offences Against Environment	14760
 Offences Against Gambling Regulatory Authority	14760
@@ -186,7 +189,7 @@ Offenders Serving Probation Sentence	2775
 Offenses	1243,15608
 Offenses Attempt	12459
 Offenses Pornography	12459
-Offensive	1938,2932,2920,531,10365
+Offensive	1938,2932,2920,531,10365,234,114
 Offensive Security Advanced	15662
 Offensive Security Advanced Level Offensive Security	15662
 Offensive Security Certified Expert	15662

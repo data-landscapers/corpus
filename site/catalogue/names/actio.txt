@@ -92,7 +92,7 @@ Abundant R&D Resources Code Action Description	15713
 Accelerate Action	12188
 Accelerate Action for Children	11245
 Act. The Affirmative Action	12961
-Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36,91,10,6,26,58,24,132,100,42,31,6,2,264,31,28,4,36,61,31,227,70,194,1,223,35,3,84,101,269,58,28,3,15,19,63,8,75,5,11,46,4,7,68,46,3,178,21,21,12,146,133,52,25,90,81,8,107,162,1,11,26,29,33,27,7,52,44,127,19,71,36,64,39,69,206,82,16,6,24,9,17,5,27,3,36,2,10,1,10,39,71,22,129,1,31,5,2,4,15,27,31,42,46,1,29,68,50,263
+Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36,91,10,6,26,58,24,132,100,42,31,6,2,264,31,28,4,36,61,31,227,70,194,1,223,35,3,84,101,269,58,28,3,15,19,63,8,75,5,11,46,4,7,68,46,3,178,21,21,12,146,133,52,25,90,81,8,107,162,1,11,26,29,33,27,7,52,44,127,19,71,36,64,39,69,206,82,16,6,24,9,17,5,27,3,36,2,10,1,10,39,71,22,129,1,31,5,2,4,15,27,31,42,46,1,29,68,50,263,18,85,137,74,13
 Action A1.1.1.1.1	17983
 Action A1.3.1.1.2	17983
 Action A2.5.2.1.1	17983
@@ -163,7 +163,7 @@ Action Fund	7763
 Action Gouvernementale	8237,7146,378,212,1940
 Action Gouvernementale du Secrétariat Général	10712
 Action Group Against Money Laundering	4127
-Action Humanitaire	3351,45,8509,11,8,3550,257,281,1833
+Action Humanitaire	3351,45,8509,11,8,3550,257,281,1833,1289
 Action Humanitaire CDMT Cadrage de Dépense	17907
 Action Humanitaire MATIER Ministère	15580
 Action Humanitaire METP	15848
@@ -226,6 +226,7 @@ Action Monitoring Reports	970
 Action Multisectoriel de Nutrition	17845
 Action N	17824
 Action Name Action Description Responsible	17157
+Action Nation	18988
 Action National	2695,7215,1053,1,2478,2032,13,225,2271
 Action National A3.8.4.2.2	17983
 Action National Par	8196
@@ -239,7 +240,7 @@ Action OVERVIEW OF KEY THEMATIC FOCUS	6936
 Action Opérationnel Triennal	16627
 Action Party Timeline	395
 Action Party Timeline Page	395
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86,77,35,26,5,12,12,67,139,100,705,513,57,5,258,14,14
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86,77,35,26,5,12,12,67,139,100,705,513,57,5,258,14,14,127
 Action Plan Baseline Action Plan Target	18532
 Action Plan Cycle	11866,7
 Action Plan ESMS Environmental and Social Management	1818
@@ -249,6 +250,7 @@ Action Plan NCPB National Cereals and Produce	2775
 Action Plan Objective	17018
 Action Plan PILLAR INDICATOR BASELINE	18537
 Action Plan RBF Results-based Financing RfB	16896
+Action Plan REIMP Regional Environmental Information	18887
 Action Plan Review	9022,2844,5171
 Action Plan Science and Resources Estonia’s National	11135
 Action Plan and Next Steps	14010
@@ -276,6 +278,7 @@ Action Plans for Next Financial Year	12971
 Action Plans. Specifically	18795
 Action Platform Stages	12376
 Action Point	17260
+Action Points	19042
 Action Points for Policy Implementation References	4848
 Action Portugal	12142
 Action Preliminary	18770
@@ -310,7 +313,7 @@ Action Sectoriel	5374
 Action Securing Trust In Ghana	6936
 Action Securing Trust In Ghanda	6936
 Action Seidu	9419
-Action Sociale	10812,1112,3949,92,47,604,1211,18,28,22,52,68,121,102,37,11,11,15
+Action Sociale	10812,1112,3949,92,47,604,1211,18,28,22,52,68,121,102,37,11,11,15,572
 Action Sociale Cellule Informatique	18297
 Action Sociale Cellule Informatique Projet PI	18297
 Action Sociale Chargés	17827
@@ -329,6 +332,7 @@ Action System	18581
 Action Table	11855
 Action Taken	1778,997,10137
 Action Taken When Not Satisfied	17149
+Action Task Force FATF Financial Action	18931
 Action Task Force FTTH Fibre	1818
 Action Task Force Transactions Cleared	12444
 Action Terme Priorité	15493
@@ -420,7 +424,7 @@ Action de Marrakech	15479
 Action de Réinstallation	10821,55
 Action de Réinstallation PEA	18118
 Action du CNSC	16621
-Action du Gouvernement	8237,2618,1,20,4028,575,104,139,79,561,1531
+Action du Gouvernement	8237,2618,1,20,4028,575,104,139,79,561,1531,1095
 Action du Pacte Le Pacte National Energétique	15799
 Action du Système National	1281
 Action for Better Education Outcomes	15960
@@ -442,6 +446,7 @@ ActionAid Malawi	13130
 ActionAid Zambia	8513
 ActionFirst	13201
 ActionFirst Co-Production Workshop	13201
+Actionable	19008
 Actionable Frameworks for Regulation and Innovation	4848
 Actionable Issue	16872
 Actionable Issue Potential Resources	16975
@@ -480,7 +485,7 @@ Actions Paysannes GBON	18309
 Actions Pluriannuel Budgétisé	13349
 Actions Pour	15848
 Actions Principaux	10965
-Actions Prioritaires	10965,3487,3834
+Actions Prioritaires	10965,3487,3834,645,57
 Actions Prioritaires PARIS21	18291
 Actions Prioritaires RDC	15848
 Actions Prioritaires Responsable Statut COMPOSANTE	16012
@@ -607,6 +612,7 @@ Balu Call for Action	11285
 Banjul Plan of Action	16874
 Baseline Action Plan Target Year Policy	18532
 Beijing Declaration and Plan for Action	16951
+Beijing Declaration and Plan of Action	18889
 Beijing Declaration and Platform for Action	11193,379,1367,4012,1673
 Beijing Declaration and Platform for Action. Aya Benjamin	18624
 Beijing Declaration and Platform of Action	11193
@@ -617,6 +623,7 @@ Benin Government Action Plan	10856
 Benin Government Action Programme	15457
 Benin's National Development Plan and Government Action	2334
 Biodiversity Action Plan	17114
+Biomedical Engineering Reform Actions	19177
 Blueprint Action Plan	635
 Body THIS ACTION IS FUNDED	12843
 Broadened Open Data Usage Action	16885
@@ -630,6 +637,7 @@ Burundi Action VIII.2.2 Harmoniser le DHIS2	13306
 Burundi Action VIII.5.1 Ramener	13306
 Busan Action Plan for Statistics	16863
 C. NEXT STEPS AND AGREED ACTIONS	15019
+CAB APL1B. Weaknesses and Action Plan	18887
 CALL TO ACTION	9660,2784,4874
 CALL TO ACTION The National	12444
 CALLS FOR ACTION	13213
@@ -685,6 +693,7 @@ Cause Of Action	14675
 Center for Effective Global Action	7282
 Center for Effective Global Action. Tanner	13624
 Central African Republic Ministry of Humanitarian Action	15658
+Chad’s Prevention and Resilience Allocation Action Plan	18933
 Children and Social Protection Actionable Issue	16872
 China-Africa Digital Cooperation Development Action Plan	1826
 Chronogramme Axe Objectifs Spécifiques Actions Résultats	10965
@@ -692,7 +701,7 @@ Civil Action No	5692,7770
 Civil Actions	12920
 Civil Society Engagement Action Plan	7784
 Class Actions	12929
-Climate Action	1131,6271,4184,27,242,303,218,235,2141,426,1797,126,63,96,1527
+Climate Action	1131,6271,4184,27,242,303,218,235,2141,426,1797,126,63,96,1527,273
 Climate Action Goal	11332
 Climate Action Grounded	11332
 Climate Action Network	8891
@@ -711,6 +720,8 @@ Collective Action	11138
 Comments Action Description Development	17470,35
 Comments Action Description Implementation	17505
 Comments Action Description Timely	17505
+Commitments The National Action Plan	18950
+Commonwealth Plan of Action for Gender Equality	18889
 Communicate Programme of Action	3264
 Communication Strategy and Action Plan	11986
 Community Action	11469,1501
@@ -748,6 +759,8 @@ Council of Europe's Global Action	783
 Criminal Action Committee	14914
 Criteria and Recommended Actions Low	16926
 Cutting-Edge Domestic Data Center Code Action	15713
+Cybersecurity Strategic Action Plan	18903
+Cybersecurity Strategy Action Plan	18903
 D'ENSEIGNEMENT STRUCTURES ET ACTIONS DE SOUTIEN	15360
 D-I7-A1 Action Description Identify	15713
 D. Key Actions	18198
@@ -784,6 +797,7 @@ Date Consultatio Action	1988
 Day Action Plan	18523
 Decade of Action	11285,2692
 Decade of Action for Sustainable Development	10840
+Decade of Action for Sustainable Development. Available	18931,2
 Decade of Action for Sustainable Development. Disponible	16626
 Decarbonization and Resilience Action Plan	18795
 Declaration and Denarau Action Plan	940
@@ -847,6 +861,7 @@ EDSA. Prior Action	18488
 EFFECT OF THE BREACH REMEDIAL ACTIONS	2709
 EN-1.pdf Independent Reporting Mechanism Action Plan	17037
 ENFORCEMENT LINKAGE AND REGULATORY ACTION	17243
+ENGAGEMENTS ET ACTIONS A PRENDRE	19150
 EOC Standard Operating Procedures and Anticipatory Action	13095
 EOC and Anticipatory Action SOP Development Gateway	12241
 EOC and Anticipatory Action SOP Workshop	13080
@@ -934,6 +949,7 @@ FOSA Action VII.1.1 Standardiser	13306
 FOSA Action VII.5.1 Réaliser	13306
 FOSA Action VII.5.2 Intégrer	13306
 FOSA X Action VII.5.4 Intégrer	13306
+FSA Takes Enforcement Action Against MX	19145
 FSCA REGULATORY ACTIONS REPORT	8354
 FSCA Regulatory Actions Report Media Roundtable	12867
 Fair Administrative Action Act	2709
@@ -951,6 +967,7 @@ Financial Action Taskforce	17183
 Financial Capability Strategic Actions	940
 Financial Management Action Plan	15372
 Financial Management Action Plan Action	15659
+Financial Management Action Plan Issue Remedial	18887
 Financing Locally Led Climate Action	14471
 Financing Locally Led Climate Action FM	2775
 First-ever National Action Plan	16973
@@ -1144,7 +1161,7 @@ Inter-sectoral Steering Committee for Social Action	10768
 Intergovernmental Action Against Money Laundering	17138
 Intergovernmental Action Group Against Money Laundering	17235
 International Day of Action	15725
-International Plan of Action	14447
+International Plan of Action	14447,4467
 Internet Haut Débit. Action N	17824
 Introduction This National Disability Action Plan	18611
 Ivoire Access Priority Actions	16188
@@ -1325,12 +1342,14 @@ Name Action Description Responsible Unit Time	17157
 Name Action Description Responsible Unit Timeframe	17157
 Namibia Affirmative Action Act	12399
 Namibia's Second National Biodiversity Strategy and Action	9353
+National Accessibility Action Plan	19140
 National Action Coalition	10216
-National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7,449,189,371,4
+National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7,449,189,371,4,603,38
 National Action Plan III	18225
 National Action Plan IV	18225
 National Action Plan Programme Development and Reviews	12642
 National Action Plan and Clean and Modern Cooking	18795
+National Action Plan and Strategic Framework	18912
 National Action Plan for Children	3583
 National Action Plan for Clean Cooking	18795
 National Action Plan for Gender and Energy Access	15983
@@ -1344,6 +1363,7 @@ National Action Plan for Youth Employment	10963,1
 National Action Plan for Youth PBC Employment	10964
 National Action Plan of Senegal	18305
 National Action Programme of Adaptation	13813
+National Action Programmes	19086
 National Action for Civic Education and Development	18464
 National Adaptation Program of Action	14897
 National Adaptation Programme of Action	16922,218
@@ -1366,9 +1386,12 @@ National Emergency and Humanitarian Action Program	11900
 National Employment Action Plan	16861
 National Energy Efficiency Action Plan79	3604
 National Foundation Models Development Code Action	15713
+National Gender Action Plan	18889
+National Gender Plan of Action	18912
 National Governance Action Plan	16202
 National Government Affirmative Action Fund Support	2775
 National HIV Action Plan	14742
+National Human Rights Action Plan	18912
 National Institute for Pedagogical Research and Action	11905
 National Institute for Social Action	9484,263
 National Legislature Actionable Issue	16872
@@ -1414,6 +1437,7 @@ OBJECTIVE PROPOSAL FOR PRIORITY ACTIONS TIMELINE	10765,10
 OBJECTIVES AND ACTIONS	16951
 OBJECTIVES AND ACTIONS IN KEY SUBSECTORS	14947
 OBJECTIVES AND ACTIONS ON CROSS-CUTTING ISSUES	14947
+OBJECTIVES AND STRATEGIC ACTIONS	18889
 ODPC Enforcement Actions	12189
 ONECI Actions	15936
 ONECI. Actions	15936
@@ -1608,6 +1632,7 @@ Priority Actions	14818
 Priority Actions Hydroponics and Aeroponics	14818
 Priority Areas of Action	18624
 Priority Delivery Actions	15059
+Priority PAPIRET Action Plan for Innovation and Reform	18931
 Priority Reform Actions. Priority	12717,3471
 Private Partnership QER DRAFT Resettlement Action	15424
 Private Sector Service Providers Actionable Issue	16872
@@ -1669,6 +1694,7 @@ REPARTITION DU CAPITAL FAITS MARQUANTS Actionnariat	2342
 RH. Action	10858
 RRA Action Plan	14985
 Rabat Plan of Action	17017
+Recent Actions	18931
 Recommandations Action Responsables Horizon	15512
 Recommendations and Action Plan	5677
 Recommendations and Action for Improvement	12367
@@ -1679,6 +1705,7 @@ Record of Compliance Actions	17249
 Record of Compliance Actions PART IV	17249
 Recouvrer. Actions	15738
 Referral for Enforcement Action	17243
+Reform Action Finance	19177
 Reform Actions	12717,3471
 Reform Actions Côte	16188
 Reform Actions and Financial Sustainability	16654
@@ -1701,15 +1728,17 @@ Remedial Actions for Google LLC	13461
 Reporting Action Plan the GBV Action Plan	1988
 Reproductive and Child Health Services. Actions	16951
 Resettlement Action	17114
-Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218,1106
+Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218,1106,667
 Resettlement Action Plan ARCEP Regulatory Authority	15511,2351
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Action Planning	17099
-Resettlement Action Plans	3604,7921,3847,1242,500
+Resettlement Action Plans	3604,7921,3847,1242,500,1773
+ResettlementÂ ActionÂ PlansÂ	18887
 Resilience Action Network Africa	4674,3805
 Resilience Strategy and Action Plan	6539
 Ressetlement Action Plan	10829
 Result Actions Outcomes A Strong Foundation	13295
+Results of Enforcement Actions	18914
 Review Action Plans	940
 Review WSIS Action Lines	16495
 Revised and Enhanced Climate Action Plan	17140
@@ -1776,6 +1805,8 @@ Save Energy-Every Action Counts	14745
 Sebenta National Institute SWAGAA Swaziland Action	12975
 Second Nation Gender Plan of Action	12946
 Second National AMR Action Plan	13166
+Second National Action Plan	18950
+Second National OGP Action Plan	18950
 Second South Sudan National Action Plan	18730
 Section I. Actions	13756
 Sector Objective Actions G2G	14566
@@ -1789,6 +1820,7 @@ Service of Government Action and Cameroon's Emergence	6606
 Sexual Exploitation Abuse and Sexual Harassment Action	14976
 Sexual Exploitation and Abuse and Sexual Harassment Action	13331
 Sexual Harassment SIGAS Social Action Management	10768
+Seychelles Action-Plan 2023-2025 December.pdf	18950
 Shared Responsibility and Multistakeholder Action	17017
 Shareholders Post-Corporate Actions Structure	4896
 Short Term Action Plan II	12942
@@ -1901,7 +1933,7 @@ Tunisia Action Plan	9022
 Turning the Abuja Commitments Into Action	8241
 Type RE-3 CE-1 Recommandation Sous-recommandations Actions	17856
 Type of Procurement Activity Actions Required	13331
-UN Plan of Action	14073,2945
+UN Plan of Action	14073,2945,1912
 UNCT PSEA Action Plan for Sudan	15115
 UNDP’s Action Platform	12376
 Under the Climate Action Enhancement Package	15500
@@ -1922,6 +1954,7 @@ Use Cases Action Steps Impact Scaling	14997
 Use Cases Action Steps Impact Strengthen	14997
 Use Cases Action Steps Impact Strengthening	14997
 Use Only Action Description Maintain E&S	17470
+VASP Act. Enforcement Actions	19145
 VI. CALL TO ACTION	15939
 VI.7. Actions	15685
 Vienna Declaration and Programme of Action	3583,7627,5664
@@ -1940,7 +1973,7 @@ WMO Gender Action Plan	16947
 WMO Gender Action Plan for Members	16947
 WSIS Action Lines	7172,9323
 WSIS Plan of Action	16861
-Weaknesses and Action Plan	15372
+Weaknesses and Action Plan	15372,3515
 Welfare and National Mine Action Authority	18611
 West Africa Implementation Action Plan	15372,52
 World Bank Climate Action Plan	18198

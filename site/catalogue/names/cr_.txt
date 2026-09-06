@@ -9,6 +9,7 @@ CR Act	18702
 CR Adm	10812
 CR Authority	12367
 CR Civil Registration DA District Administrator	12663
+CR Civil Registration DE4A Digital Economy	18931
 CR Civil Registry CSU Cadastro Social	10765,10
 CR DB	12337
 CR N	12429
@@ -34,7 +35,7 @@ Causes of Death CR	12338
 Certain CR	15553
 Certificate of Incorporation and CR	736
 Death Rate CoD Cause of Death CR	12413
-Digitalization of CR	12250
+Digitalization of CR	12250,6683
 Digitalizing CR	15553
 Digitalizing CR and ID	969
 Does CR	10812

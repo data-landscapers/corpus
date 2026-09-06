@@ -176,6 +176,7 @@ Male Female Zambia Rural Urban	12431
 Male Headed Female Headed Figure	17127
 Male Internet	15617,1323
 Male Leader	17099
+Male Medical Ward	18937
 Male NA NA	16260,988,4
 Male NA NA NA	16260,988
 Male NA NA NA NA NA	17248,4
@@ -206,7 +207,7 @@ Malem Hodar	18304
 Malem Niani	18304
 Malengo	7763
 Maleoatle Chele	12697
-Males	958,8527,1646,787,233,258,4,564,1919,160,607,1310,1470,184
+Males	958,8527,1646,787,233,258,4,564,1919,160,607,1310,1470,184,362
 Males Female Rank Cause	12413
 Males Females	18441
 Maletela Tuoane-Nkhasi	12328

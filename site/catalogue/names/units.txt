@@ -9,6 +9,7 @@ Administrative Units and Levels	15473
 Agency Sector IT Units	1000
 Ambulance Units	15578
 Available Units	13930
+Bank LOA and FM Units	18887
 Branches and Units	14760
 Bureau of Statistics and Census and Statistical Units	16863
 CHARACTERISTICS OF THE HOUSING UNITS USED	14903
@@ -31,7 +32,7 @@ DMU Diesel Multiple Units DSL Digital	2775
 Data Privacy Service Units	11956
 Decentralization Support Units	17180
 Decentralization Support Units LR-MFDP-477097-GO-RFQ	17180
-Delivery Units	11857
+Delivery Units	11857,7131
 Delivery Units. Such	11857
 Departments and Units	12972
 Develop GIS Units	18476
@@ -126,6 +127,7 @@ Prefecture-level Project Coordination Units	15658
 Primary Health Care Units	12246
 Primary Sampling Units	582,14233,17,412,3323
 Private Sector Units	15175
+Project Coordination Units	18887
 Project Delivery Units	11857
 Project Implementation Units	11469,726,637,627,2685,782,179,757
 Project Management Units	1867

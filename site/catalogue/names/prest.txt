@@ -63,6 +63,7 @@ Exigences Opérationnelles du Prestataire	17902
 F DIAMAR PRESTATION SAUNIPERS DIAMAR PRESTATION	16623
 F GENERAL PRESTATIONS	16623
 F SOCIETE MAKEME PRESTATION	16623
+Formas Presta	18896
 GESTION DES FOURNISSEURS ET PRESTATAIRES	14424
 Garantía de Prestación de Servi	16855
 H LA GUINEENNE DE PRESTATION	16623
@@ -93,6 +94,7 @@ Love Prestige Géraldine	15615
 MEDIDAS PARA A IMPLEMENTAÇÃO DA PRESTAÇÃO	11473
 Marchés de Prestations Intellectuelles Ils	10876
 Materia de Prestación	9543
+Mauritanie Prestataire	18916
 Melhoria da Prestação de Serviços	11390
 Melhoria de Prestação	11390
 Melhoria de Prestação de Serviços	11390
@@ -153,7 +155,7 @@ Payment System Operator Prestataires de Services de Paiement	13468
 Portal de Prestação de Contas	11473
 Portal de Prestação de Serviços	15572
 PreSTRack	18532
-Presta	16855
+Presta	16855,2041
 Prestabilidade	11448
 Prestación	163
 Prestación de Servicios de Co	16855
@@ -191,12 +193,13 @@ Prestadores de Serviços da Sociedade da Informação	11360
 Prestadores de Serviços de Informação	10755
 Prestadores de Serviços de Pagamento	10755,631,18,5628
 Prestar	167,1534,2517,6537,28,585,13,1,6,55,6,78,374,3457,33,112,23,850,483,1890,3,10,16,22
-Prestataire	1801,8586,449,2464,2052,10,80,1,45,96,51,301,212,1,54,1257,369,26,251,13
+Prestataire	1801,8586,449,2464,2052,10,80,1,45,96,51,301,212,1,54,1257,369,26,251,13,797
 Prestataire de Service de Certificats Electroniques	17824
+Prestataire de Service de Paiement	18916
 Prestataire de Services de Cryptologie	16617
 Prestataire de Services de Paiement	16363
 Prestataire. XVI. LANGUE DE TRAVAIL	13635
-Prestataires	7889,1,2946,303,805,1356,1124,938,273,1079,1153,29
+Prestataires	7889,1,2946,303,805,1356,1124,938,273,1079,1153,29,1020
 Prestataires Cloud-FR.pdf	2425
 Prestataires de Services de Paiement	5740,7728,2025
 Prestataires du Maître	17846

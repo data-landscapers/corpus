@@ -9,6 +9,7 @@ Abbreviations ABN Acknowledgement of Birth Notification AG	12151
 Abeba Birhane	5302,5425
 Aboubacar Yacouba Mai Birni	4997
 Accelerating Birth Registration and Leave No Child	12051
+Acknowledged Births	18989,110
 Acknowledgement of Birth Notification	14461
 Acronym Definition LRB Late Registration of Birth	5533
 Acronyms and Definitions BC Birth Certificate CSOs	12328
@@ -56,13 +57,14 @@ BIRTH REGISTRATION IN DOWA. Dowa	12291
 BIRTH REGISTRATION IS STILL UNDERWAY. NRB	12291
 BIRTH STATISTICS	15056
 BIRTH STATISTICS Key	15056
-BIRTHS	12898,746
+BIRTHS	12898,746,5345,110
 BIRTHS AND DEATHS REGISTRATION	13285,1176
 BIRTHS AND DEATHS REGISTRATION ACT	11176,2109,1176
 BIRTHS AND DEATHS REGISTRATION ARRANGEMENT	12523
 BIRTHS AND DEATHS REGISTRATION DISTRICTS	13285
 BIRTHS AND DEATHS REGISTRY	15628
 BIRTHS NA	16892
+BIRTHS Table	18989
 BIrbe	5349
 BIron	5349
 BMD Births	12970
@@ -94,6 +96,7 @@ Birame Sy	18324
 Birane Diop	8031
 Birane Yakoub	16230
 Birao	1226,2964,12395
+Birao CH A D Pala	18887
 Birao. Accountability	16585
 Birashika	13300
 Biratu Yigezu Director General Central Statistical	13965
@@ -143,7 +146,7 @@ Birta Dheer	15075
 Birta Dheer Golis Telecom Data Center	15075
 Birtchnell T	17773
 Birtchnell and Anthony	17773
-Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191,168,103,35,94,1213,40,71,5,265,730,168,123,173,23,16,228
+Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191,168,103,35,94,1213,40,71,5,265,730,168,123,173,23,16,228,231,56,52,58
 Birth Anniversary	18220
 Birth As-	12151
 Birth Asphyxia	12151
@@ -248,7 +251,7 @@ Birth-to-ID Continuity	14655
 Birth. Dep. Chief Registrar Oversees	12064
 Birthday	6553,6424
 Birthday Charity Run of Chief of Defence Forces	9781
-Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151,572,97,795,376,26,121,1397,1,33
+Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151,572,97,795,376,26,121,1397,1,33,515,110
 Births Abroad Birth	12216
 Births And Deaths Is Declared	12138
 Births And Deaths Registration Act Subsidiary	12138
@@ -308,6 +311,7 @@ CERTIFIED COPY Baker Birikujja	5113
 CHAPTER II REGISTRATION OF BIRTHS	11176
 COB BIRR	1732,1,1
 Candidate’s Birth Record	13477
+Certificate of Birth	18918
 Certificate of Birth. NOTE	12217
 Challenges of Digital Birth Registration	11977
 Children's Act. The Births and Deaths Registration	12597
@@ -494,17 +498,20 @@ National ID Birth Death Resident	12241
 National IDs and Birth Certificates	13080
 National Strategy for Birth Registration	10765,10
 National Strategy for Permanent Birth Registration	18777
+Natural Births	18989,110
 Non-Citizen Birth Certificates	12496
 Notices of Birth	11986
 Notification of Birth	12226,2488,1,3987
 Number of Births	12533
 Number of Births Number	12151
+Nyala CHAD To Birao Am	18887
 Office EBRS Electronic Birth Registration System	13005
 On-site Registration of Births and Deaths	12533
 Online Birth Certificate and Marriage Certificate. Public	14750
 Online Birth Registration	3200
 Online Birth Registration System	3200,8786
 Original Birth Certificate	11282,1055
+PART III REGISTRATION OF BIRTHS	18918
 PART III REGISTRATION OF BIRTHS AND ADOPTED	12898
 PDPO National Director Baker Birikujja	11173
 PROPORTION OF BIRTHS ATTENDED BY SKILLED	16892
@@ -531,6 +538,7 @@ Rates Adolescent Birth Rate	18441
 Recorded Live Births	12005
 Register Birth	12226
 Register of Births	16860,1580
+Register of Births Occurring Outside Seychelles	18918
 Registered Births	2775,10869
 Registered Births. Deaths and Marriages	12413
 Registered Live Births	12151
@@ -558,6 +566,7 @@ Rural Areas and Capacity Building Project BIRD	15500
 Rwanda Document Description Birth Certificate	12328
 STATISTICAL REPORT BIRTH REGISTRATION Copyright	15628
 SUB-SECTION TWO REGISTRATION OF BIRTH	12226
+SYSTEM FOR THE REGISTRATION OF BIRTHS	18918
 Safer Births Bundle of Care	7895
 Sarah Bireete	5603
 Scale Up Digital Birth Registration Nationwide	12761

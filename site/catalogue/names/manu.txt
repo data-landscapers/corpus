@@ -90,6 +90,7 @@ Ce Manuel	15595
 Centro Técnico de Manutenção	16019
 Certidão Comercial Online Manuais de Utilizador	12021
 Cf. Manuel	747
+Chad. Manuel Moses	18909
 Chairperson of Uganda Sugar Manufacturers Association	17770
 Chief Data Officer Manuel	748
 Co-operation and Development OM Operations Manual ONOUSC	17458
@@ -169,7 +170,7 @@ FM Manual for World Bank Investment Project	1867,11464
 FM Manual for World Bank-Financed Investment Operations	2889
 FM Manual of Procedures	3604,11949
 FM Practices Manual	16896,26
-FM Procedures Manual	10829,4543
+FM Procedures Manual	10829,4543,3515
 FM Procedures Manual Financial Manual Internal	15372
 FORSA Operational Manual	15663
 FRANCISCO MANUEL CAHÁLO	10751
@@ -184,6 +185,7 @@ Financial Management Manual Financial Management Specialist	15372
 Financial Management Manual for World Bank Investment	10768,4785
 Financial Management Manual. Draft Project Implementation	1778
 Financial Manual	11525,3847
+Financial Manual Internal	18887
 Financial Procedures Manual	15372
 Financial and Accounting Manual	16614
 Financing Manual	16144
@@ -339,16 +341,18 @@ MANUFACTURER	11269
 MANUFACTURER OF REGULATED MACHINERY	14814
 MANUFACTURING ENGINEERING	16900
 MEF Ministry of Economy and Finance MOP Manual	11525
+MENPC Manual of Procedures for Education Data Collection	18911
 MIS Management Information System MOP Manual	18301
 MOP Manuel des Opérations du Programme Terra MTFP	10876
 Male Female Total Manufacturing	236
 Male Female Total Manufacturing Electricity	12445
+Management Manual FMS Financial Management Specialist	18887
 Manuais	11898
 Manuais Relatórios	12021
 Manuais da Aplicação	12021
 Manuais de Procedimentos	11898
 Manuais de Utilizador	12021
-Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58,130,90,83,26,208,104,77,667,46,55,310,222,45,32,48,179,78,206,163,705,61,164,127,164,41
+Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58,130,90,83,26,208,104,77,667,46,55,310,222,45,32,48,179,78,206,163,705,61,164,127,164,41,21
 Manual Checks	9123
 Manual Clearing	17235
 Manual Consultancy Development of Training Materials	16867
@@ -385,7 +389,7 @@ Manual for Tree Felling Drafted	16853
 Manual of Administrative	15411,2693
 Manual of Best Practice. UNCTAD	1243
 Manual of Government Finance Statistics	14932
-Manual of Procedures	3640,11732
+Manual of Procedures	3640,11732,3515
 Manual. Cada	16930
 Manual. Draft Environmental and Social Management Framework	1778
 Manual. Mogadishu	11596
@@ -426,7 +430,7 @@ Manuel Homem. Essa	17541
 Manuel Manuel Employé Autre NSP	13300
 Manuel Manuel Employé Forces Autre NSP	13300
 Manuel Merino	16135
-Manuel Moses	579
+Manuel Moses	579,18330
 Manuel Neto	10750
 Manuel Nhangumbe	2816
 Manuel Nsue Nsua	17309
@@ -436,6 +440,8 @@ Manuel Osa Nsue	9065,5116,2800,50,20,58,62,111,11,96
 Manuel Osa Nsue Nsua	6841,5234,2190,3044
 Manuel Osa Nsue. La República de Guinea	9065
 Manuel Osa Nsue. Leídos	17089
+Manuel Pinto da Costa	18895
+Manuel Pinto da Costa. Considerando	18896
 Manuel Rui Monteiro	7882
 Manuel Sanches Tavares Júnior	11955
 Manuel Tiago Dias	6360,755,905,108,1,4723
@@ -464,6 +470,7 @@ Manuela Roka Botey	16933,12
 Manuela V. Ferro Project ID	17441
 Manuela Villar Uribe	17869
 Manuella Allègra	16100
+Manuella Amesbury	19102
 Manuellrénio Nascimento Lopes	11544
 Manuels	14537,1136,326,2172,153
 Manufac- Electricity Construc- Wholesale Accom- Transpor-	2775
@@ -650,7 +657,7 @@ Prof. Doutor Manuel Guilherme Júnior	9694
 Program Operation Manual	10870,6600
 Program Operational Manual	18370
 Program Operational Manual PON	18370
-Project Implementation Manual	1264,20,583,1022,715,2935,4229,195,1,561,24,11,303,61,41,288,1078,61,67,1453,226,273,13,87,42,68,37,1,34,1233,23,1155,189
+Project Implementation Manual	1264,20,583,1022,715,2935,4229,195,1,561,24,11,303,61,41,288,1078,61,67,1453,226,273,13,87,42,68,37,1,34,1233,23,1155,189,594
 Project Implementation Manual PIU Project Implementation	13331
 Project Implementation Manual PMT Proxy Means	11525
 Project Implementation Manual PP Procurement Plan	10768
@@ -670,7 +677,7 @@ Project Implementation Manual. Page	13332
 Project Implementation Manual. Schedule	10768
 Project Implementation Manual. Table	1704
 Project Implementation Manual. The World Bank	13332
-Project Manual of Procedures	15372
+Project Manual of Procedures	15372,3515
 Project Manuals	18104
 Project Operation Manual	1988,15453
 Project Operation Manual. Inputs	15411

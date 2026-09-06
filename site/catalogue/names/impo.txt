@@ -157,6 +157,7 @@ Exports and Imports	1988,3667
 F SOC HAMANA IMPORT EXPORT SARL	16623
 FAY SAMA IMPOT	18413
 FRACTION DU REVENU IMPOSABLE EN DINARS	15534
+Feira de Importação	18958
 Fertilisers Imports	11258
 Fonte Declaração Periódica O Imposto	12018
 Fonte O Imposto	12018
@@ -167,6 +168,7 @@ Fuel Importation	17250
 Fully Digital Platform for Pharmaceutical Imports	5076
 GARÇONS FILLES PEU IMPORTE	13300
 GARÇONS FILLES PEU IMPORTE NOMBRE	13300
+GDP. Imports For Imports	19038
 GENERAL DES IMPOTS	16047
 GHANA TO IMPORT AND ECONOMIC STABILITY	14216
 Gambia Import and Export Promotion Agency	17228
@@ -239,6 +241,7 @@ IMPORTATION O6 DIRECTION TECHNIQUE	15670
 IMPORTATION OU EXPORTATION	16617
 IMPORTERS	15027
 IMPORTÂNCIA DO PLANO DE AÇÃO	18788
+IMPOSITION OF MONETARY PENALTY	18934
 IMPOSITIONS AYANT UNE INCIDENCE SUR	16747
 IMPOSSIBLE DE VALIDER MON FORMULAIRE	16629
 IMPOSTOS E TAXAS	11532
@@ -333,7 +336,7 @@ Importadora	18775
 Importadora Número de Empresas Porcentagem	18775
 Importadores	12018,5093
 Importados	17100
-Importance	899,70,218,1761,1159,218,536,1025,291,4802,1,976,30,179,1167,86,431,249,390,1,1,52,932,118,1028,6,237,63,24,13,933,579,56
+Importance	899,70,218,1761,1159,218,536,1025,291,4802,1,976,30,179,1167,86,431,249,390,1,1,52,932,118,1028,6,237,63,24,13,933,579,56,395,22
 Importance Article	11956
 Importance Classification	16266
 Importance Vitale	6845,3687,4107,3680
@@ -343,17 +346,17 @@ Importance of Angola Cables and Uniti Wholesale	6604
 Importance of Bucopho Bucopho	13012
 Importance of CRVS	13005
 Importance of Digital	14897,1979
-Importance of Digital Businesses	14897,2973
+Importance of Digital Businesses	14897,2973,1061
 Importance of Digital Digital	14897
 Importance of Digital Entrepreneurship	13312,2,3562
 Importance of Digital Financial	16876
-Importance of Digital Financial Services	13312,2,1583,1979,994
+Importance of Digital Financial Services	13312,2,1583,1979,994,1061
 Importance of Digital Identity Development	11857
-Importance of Digital Infrastructure	12659,653,2,1583,1979,994
+Importance of Digital Infrastructure	12659,653,2,1583,1979,994,1061
 Importance of Digital Platforms	13312,2,1583,1979
 Importance of Digital Platforms Socioeconomic Rationale	16876
-Importance of Digital Public Platforms	17870
-Importance of Digital Skills	13312,2,1583,1979,994
+Importance of Digital Public Platforms	17870,1061
+Importance of Digital Skills	13312,2,1583,1979,994,1061
 Importance of Digital Skills The Socioeconomic	16876
 Importance of Education and Family Budgeting	14835
 Importance of High-Level Leadership and Coordination	13312,2
@@ -375,7 +378,7 @@ Important Important Very Important Graph	12445
 Important Indian	13562
 Important Limitations	12318
 Important National Addressing System of Kenya	12149
-Important Note	4896,4089
+Important Note	4896,4089,10053
 Important Note Only	14235
 Important Payment Systems SDF Small and Medium	17235
 Important Person	12663
@@ -383,7 +386,7 @@ Important Somewhat	1940
 Important Topics Discussed WUF13	11285
 Importante	11569,1955,2377,974
 Importantes	1265,14636
-Importantly	1161,935,579,214,123,295,91,728,262,340,15,105,48,44,32,578,186,651,10,308,85,210,117,34,397,21,190,151,107,4,152,110,18,107,52,147,2,180,127,433,267,119,91,51,92,80,103,19,543,54,25,59,12,90,52,22,106,6,14,42,54,275,132,209,361,88,252,37,83,318,39,9,8,9,25,13,15,113,78,45,36,228,1,57,1,991,74,72,58,20,233,8,26,80,98,149,62,51,54,266,263,197,52,262,178,10,16,40,18,79,75,2,33,8,28,50,22,90,20,372,4,106,469,384,107
+Importantly	1161,935,579,214,123,295,91,728,262,340,15,105,48,44,32,578,186,651,10,308,85,210,117,34,397,21,190,151,107,4,152,110,18,107,52,147,2,180,127,433,267,119,91,51,92,80,103,19,543,54,25,59,12,90,52,22,106,6,14,42,54,275,132,209,361,88,252,37,83,318,39,9,8,9,25,13,15,113,78,45,36,228,1,57,1,991,74,72,58,20,233,8,26,80,98,149,62,51,54,266,263,197,52,262,178,10,16,40,18,79,75,2,33,8,28,50,22,90,20,372,4,106,469,384,107,112
 Importateurs	11934,4394
 Importation	8637,279,4474,110,508,939,180,134,327,82,184,372,262,620,377,104,230,22,481,219,216
 Importation CIF Milhões Dbs	18757
@@ -392,6 +395,7 @@ Importation of Light Bulbs	18795
 Importation-related	5247
 Importations	7655,5845,1949,44,506,1486,493,85,259
 Importação	2866,1881,6636,928,3122,1667,1650,7,7,34,55
+Importação da China	18958
 Importação de Veículos	17100
 Importações	10758,1260,6732,14
 Importe	16898
@@ -412,15 +416,15 @@ Imported Systems	7596
 Imported Tshs. Tshs	6921
 Imported Vehicle Licensing Controls From Customs	16631
 Imported Vehicles Association	14753,47
-Importer	11976,2867,635,192,2762,177
+Importer	11976,2867,635,192,2762,177,379
 Importer Registration No	14883
-Importers	3651,1596,243,169,4244,2730,2103,291,465,1875,918,256
+Importers	3651,1596,243,169,4244,2730,2103,291,465,1875,918,256,352
 Importers and Exporters AEO SAQ Bonded Warehouse	12454
 Importers and Exporters Association of Ghana	14216
 Importes	16898
 Importing	12110
 Importing Export Transmission Distribution	12399
-Imports	236,482,2057,808,1664,408,1667,3354,300,160,122,266,350,7,1,71,303,90,205,79,412,66,424,30,306,968,61,88,1290,10,346,270,34,300,22,246,815,165,54,286,28
+Imports	236,482,2057,808,1664,408,1667,3354,300,160,122,266,350,7,1,71,303,90,205,79,412,66,424,30,306,968,61,88,1290,10,346,270,34,300,22,246,815,165,54,286,28,120,67
 Imports Cap	6921
 Imports Commodities	16935
 Imports Eskom1 IPPs1 Imports Exports	11953
@@ -440,7 +444,7 @@ Imports of Goods	5655,11580
 Imports of ICT	236,14600
 Imports of Lubricants	12256
 Imports1	2775
-Importância	11390,124,24,19,461,6757,13,13
+Importância	11390,124,24,19,461,6757,13,13,145
 Importância Assegurar	18801
 Importância Emissão Talão de Venda REMPE Tributo	12018
 Importância Estratégica	18799
@@ -451,7 +455,7 @@ Importância da Regulamentação da Inteligência Artificial	2816
 Importância de Fatura	12018
 Importé Local Primaire Secondaire Tertiaire Durable	16708
 Importé Produits	16708
-Impose	961,11224,490,1438,2745
+Impose	961,11224,490,1438,2745,2199
 Impose Administrative Fees	17249
 Impose Administrative Penalties	17249
 Impose Penalty	17249
@@ -466,7 +470,7 @@ Impositions	16747
 Imposição	18784
 Imposição de Interligação	11519
 Impossibilidade	549
-Impossibilité	13524
+Impossibilité	13524,5429
 Impossible	226,11461,3584,202,428,730,509
 Impossible Position Africa CDC Director-General Jean	5456
 Impossible Trinity	17235
@@ -574,6 +578,7 @@ OBLIGATIONS DES PERSONNES IMPOSABLES Article	15999
 OPERATIONS IMPOSABLES VAL Article	15999
 Obligatoire Recommandé Important Titre Dernière	747
 OntrOLLers OF MaJOr IMPOrtance	1593,11361
+Open Import Permit	19119
 Operaciones de Importación	4209
 Orçamento Importa	18853
 Orçamento Imposto	18853

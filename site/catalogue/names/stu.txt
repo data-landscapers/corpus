@@ -3,6 +3,7 @@ ACDHRS Socio-Economic Study	16951
 AI Deployment Case Study Analysis	7151
 AI Student Tutor Programme	8609
 AI Studio	3947
+AI Teacher Coach and AI Student Tutor	19128
 AI for Predictive Analysis and Student Retention	14812
 AI. Aust Fem Stud	17773
 AI. Center for Strategic and International Studies	11135
@@ -138,6 +139,7 @@ Centre for Interdisciplinary Study of Pandemic Signatures	5141
 Centre for International Strategic Studies	14748
 Centre for Judicial Studies	14373
 Centre for Primary Health Care Studies	12025
+Chad Country Case Study. Document	18911
 Chair of Indian Studies	13561
 Chair of Study Group	16046
 China Society for WTO Studies	10038
@@ -172,12 +174,14 @@ Country Study	17165,1360,42,3
 Country and Field of Study	14775
 Country and Programme of Study	14775
 Creative Studio	14999
+Crisis COUNTRY CASE STUDY	18911
 Critical Fantasy Studies	11028
 Critical Policy Studies	11028
 Cross- Students	15901
 Cross-cultural Study of Sharing Digital Devices	4439
 Crypto Asset Market Study	9677
 Cultural Studies	18461
+Curriculum Integration and Student AI Literacy	19079
 Curriculum Studies	11134
 Curriculum for Young Students	17037
 Cybersecurity Study and Mentorship Tours	17746
@@ -212,6 +216,8 @@ Diagnostic Study Report	13938
 Diagnostic Study of Higher Education and Scientific Research	11552
 Diaspora Studio	2577
 Difference Studies	10881
+Digital Agricultural Country Study	18910
+Digital Agriculture Country Study Annex	18910
 Digital Infrastructure Investment Study	6152
 Digital Outreach Studio	6623
 Digital Product Design. Students	13080
@@ -239,7 +245,7 @@ EHR Impact Study	15411
 EMP-SAL- AMT Employee Salary Amount Student	12360
 Eco-friendly Cloud Market Study	1264
 Economic Impact Study	1207,1
-Economic and Demographic Studies	4035
+Economic and Demographic Studies	4035,14896
 Economic and Political Studies	4676
 Economy Study	10862,4162,819,822,380,880,913
 Ecosystem Mapping Study	9309
@@ -291,6 +297,7 @@ Feasibility Study for Groundwater Development and Management	15052
 Feasibility Study for Social Safety Net Payment	16194
 Feasibility Study of Guinea-Bissau	17028
 Fewer Students	12199
+Financial Literacy Baseline Study	18899
 Finds New GSMA Study. Press Release	10822
 Fintech Landscape Study	12444
 Fiscal Studies	11727
@@ -355,6 +362,7 @@ IGRP Studio	11939
 IMF Revenue Administration VAT Gap Study	12500
 IMPORTANCE OF DIGITAL FINANCIAL SERVICES Studies	17870
 IN01367416 Students	16638
+INTRODUCTION TO THE STUDY	18910
 ISCED Fields of Study	14775
 ITU Study Group	7174
 ITU-D Study Groups Study Groups	18349
@@ -659,6 +667,8 @@ Scoping Study	13148
 Security Studies	9616
 Senegal River Valley Case Studies Feb	17969
 Services Information Technology Student Life	17232
+Seychelles. Students	19112
+Seychelles.pdf DIGITAL AGRICULTURE COUNTRY STUDY ANNEX	18910
 Sisterhood Method. Studies	13300
 Social Registry Imbeleko Study Results	12480
 Social Service Delivery. Country Case Studies	12761
@@ -680,6 +690,7 @@ Staff and Student Education Management Information System	13123
 Startups Strategy Students Summit Sustainability Syria	5322
 State of Communications Sector Study	4672
 States SiM Study	14747
+Statistical Studies and Communication Division	19093
 Still Studying	11134
 Strategic Studies Service	13363
 Strike A Pose Studio	15327
@@ -689,7 +700,7 @@ Stuart Russell	10430
 Stuart Ssebibubbu	7187
 Stuckler	961
 Stud&doi	5242
-Student	520,62,3279,186,2525,364,2192,237,3046,67,518,101,1690,109,1,267,440,57,52,24,425,274,24,414,275
+Student	520,62,3279,186,2525,364,2192,237,3046,67,518,101,1690,109,1,267,440,57,52,24,425,274,24,414,275,1892
 Student Academic Portal	13080
 Student Accommodation	12411
 Student Aid Programme	10332
@@ -735,6 +746,7 @@ Student Summer Work Programme	14162
 Student Suooort	11180
 Student Support	12411
 Student Transcript Portal	16162
+Student Tutor	19079
 Student Unions. UNICEF	15604
 Student Voices	6948
 Student Women	11857
@@ -743,7 +755,7 @@ Student-teacher	15604
 Student-teacher Ratio TA Technical Assistance TC	15661
 Student-to-textbook	15661
 Student. European Journal of Economics	12978
-Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90,83,134,233,154,213,197,26,2,11,4,305,7,78,363,287,133,21,276,599,156,50,369,157,19,3,2,28,61,43,17,1,102,165,38,278,124,57,76,6,343,101,249,202,214,24,87,48,85,3,248,28,1,61,21,91,59,127,32,191,194,157,137,137,38,25,24,95
+Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90,83,134,233,154,213,197,26,2,11,4,305,7,78,363,287,133,21,276,599,156,50,369,157,19,3,2,28,61,43,17,1,102,165,38,278,124,57,76,6,343,101,249,202,214,24,87,48,85,3,248,28,1,61,21,91,59,127,32,191,194,157,137,137,38,25,24,95,210
 Students Children	14566
 Students Early	14566
 Students Engagement	2318,6506
@@ -757,6 +769,7 @@ Students Studying	12199
 Students Trained	18480
 Students Welfare Teaching and Learning Research Centres	12361
 Students and Graduates	12053
+Students and Teachers	18931
 Students and Young Professionals African Liberty Academy	11827
 Students' Reading Proficiency	14958
 Students' Track	17746
@@ -800,7 +813,7 @@ Studios	18295
 Studium Generale Transfer HBO-Master Scholarship	15552
 Studocu	15164
 Studs	9123,4262
-Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353,277,279,3,45,11,90,19,174,28,4,2,13,11,71,1,38,12,20,32,244,3,294,6,106,229,105,43,298,264,643,81,1,27,14,40,103,15,50,126,7,242,39,13,75,75,85,187,178,305,529,93,150,56,210,595,569,89,25,79,71
+Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353,277,279,3,45,11,90,19,174,28,4,2,13,11,71,1,38,12,20,32,244,3,294,6,106,229,105,43,298,264,643,81,1,27,14,40,103,15,50,126,7,242,39,13,75,75,85,187,178,305,529,93,150,56,210,595,569,89,25,79,71,104,11
 Study AI Patentability and Digital Rights	7624
 Study Area and Climate Pattern	12614
 Study Assessing	13418
@@ -856,7 +869,7 @@ Stumbleupon Avaliar	11587,5447,291,35,1,51
 Stump ID	16843
 Stumpage	16843,5
 Stunted	17157
-Stunting	10829,640,56,35,1772,1603,790,2716
+Stunting	10829,640,56,35,1772,1603,790,2716,463
 Stunting Overweight	18441
 Stupid AI	8460
 Stupidity	5022

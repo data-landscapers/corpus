@@ -121,6 +121,8 @@ Clément Domingo	5330
 Code Domanial	17812,5
 Colombia Costa Rica Cuba Dominican Rep	10764
 Colombia Costa Rica Dominican Republic Ecuador	13661
+Comments Expected Pre Domestic Review	18887
+Comments Review Expected Pre Domestic Ref	18887
 Commercial Domestic Courier Service Licence	1223
 Commercial Domestic Courier Services Licence	1223
 Commission Domaniale Elargie	18293
@@ -175,6 +177,7 @@ DLI Domaine	10876
 DOM BA	17828
 DOM Figure	17140
 DOMAIN NAMES	15679
+DOMAIN NAMES AND ELECTRONIC ADDRESSES	18934
 DOMAINE	15472,527
 DOMAINE DE SCIENCES ET TECHNOLOGIE TABLE	15529
 DOMAINE DOMAINE D’INTÉRÊT A. CADRE POLITIQUE	17830
@@ -196,6 +199,7 @@ DOMAINES D’INTÉRÊT NOTATION MOYENNE	17830
 DOMAINES NOTES Statistiques de Qualité	17830
 DOMAINES RÉSERVÉS	15999
 DOMAINES TECHNIQUE ET ENVIRONNEMENTAL EN RDC	15670
+DOMANIALES ET DE CHANGE Chapitre	18901
 DOMBIA	17828
 DOMBILA	17828
 DOMContentLoaded	12870
@@ -305,7 +309,7 @@ DomainKey Identified Mail	18774
 DomainKeys Identified Mail	13037
 DomainTools	18633
 Domainde	18077
-Domaine	643,588,1245,1662,2751,3987,26,945,1478,65,1060,38,1,1,1006,4,12,17,13,13,157,12,212,111,320,178,136,1131,32,161,89,230
+Domaine	643,588,1245,1662,2751,3987,26,945,1478,65,1060,38,1,1,1006,4,12,17,13,13,157,12,212,111,320,178,136,1131,32,161,89,230,616
 Domaine Actions Clés Ressources Humaines Développement	14622
 Domaine Assainissement	15542
 Domaine Critères	18077
@@ -333,7 +337,7 @@ Domaine des ROUTES	15542
 Domaine des SYSTEMES D	15542
 Domaine des SYSTEMES D’ASSAINISSEMENT	15542
 Domaine du CHEMIN DE FER	15542
-Domaines	643,604,1351,13,140,220,1953,406,1624,5,1310,743,556,669,580,41,18,89,1078,1282,65,333,1749,24,4,1,38,3,126,6,50,116,96,392,283,744,457,2,28,39,15,49,33,4,1,12,8,25,4,45,13,203,25,6,3,16,13,68
+Domaines	643,604,1351,13,140,220,1953,406,1624,5,1310,743,556,669,580,41,18,89,1078,1282,65,333,1749,24,4,1,38,3,126,6,50,116,96,392,283,744,457,2,28,39,15,49,33,4,1,12,8,25,4,45,13,203,25,6,3,16,13,68,516,48
 Domaines Acquis	17882
 Domaines Acquis Difficultés	17882
 Domaines Article	17841
@@ -350,14 +354,17 @@ Domaines. Ce	18332
 Domains	3713,977,8772,1702,1786,920,763
 Domains Names	15340
 Domanial	16611
+Domanial Article	18901
 Domaniales	13723
 Domar	11140
 Domest. F U N C	4209
 Domest. Respons. Repres. Annual Bruto	4209
-Domestic	3,233,482,243,52,230,42,56,436,51,80,154,713,86,722,230,177,270,125,547,270,45,40,368,216,41,1,87,21,6,28,266,87,538,500,249,185,1012,231,586,187,654,213,30,63,52,61,47,114,1,3,2,160,60,114,80,334,1,10,12,9,39,45,81,78,1,44,1,5,23,20,3,6,89,4,21,20,87,4,13,422,34,97,69,190,2,35,8,28,483,117,23,151,276,86,25,12,165,21,75,60,17,26,54,9,1,11,61,44,34,12,57,32,210,33,11,170,52,499,48,204,241,138,10,10,37,66,6,3,21,15,93,1,34,54,23,3,16,13,4,64,1,47,57,82,366,240,334,45,335,28
+Domestic	3,233,482,243,52,230,42,56,436,51,80,154,713,86,722,230,177,270,125,547,270,45,40,368,216,41,1,87,21,6,28,266,87,538,500,249,185,1012,231,586,187,654,213,30,63,52,61,47,114,1,3,2,160,60,114,80,334,1,10,12,9,39,45,81,78,1,44,1,5,23,20,3,6,89,4,21,20,87,4,13,422,34,97,69,190,2,35,8,28,483,117,23,151,276,86,25,12,165,21,75,60,17,26,54,9,1,11,61,44,34,12,57,32,210,33,11,170,52,499,48,204,241,138,10,10,37,66,6,3,21,15,93,1,34,54,23,3,16,13,4,64,1,47,57,82,366,240,334,45,335,28,251
 Domestic AI	15713
 Domestic Abuse Bill	14742
 Domestic Adoption Services	12188
+Domestic Bandwidth	18887
+Domestic Capacity	18931
 Domestic Capital	7446
 Domestic Capital Markets	17260
 Domestic Condition Of Persons With Disability	18443
@@ -379,6 +386,7 @@ Domestic Debt Service	16944
 Domestic Development Fund	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,961,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,2249,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Domestic Direct Investment	5883
 Domestic Economic Development Recent	12962
+Domestic Economic Developments	19098
 Domestic Economic Developments Economic Growth	13122
 Domestic Economic Developments GDP Developments Eswatini	11131,3
 Domestic Economic Growth and Medium-Term Outlook	13123
@@ -552,7 +560,8 @@ Domestic VAT	1828
 Domestic VAT Domestic VAT	14985
 Domestic VAT and Import VAT. RRA	14985
 Domestic Violence	14067,780,2088
-Domestic Violence Act	14742,1,104,2104
+Domestic Violence Act	14742,1,104,2104,1961
+Domestic Violence Bill	18912
 Domestic Violence Information System	14752
 Domestic Violence Survivors	2445
 Domestic Workers	14476,266
@@ -571,7 +580,7 @@ Domesticate the Convention	16884
 Domestication	3162,5686
 Domestication and Enforcement	18207
 Domestiqu	737
-Domestique	737
+Domestique	737,18230
 Domestique Dbs	18757
 Domestique MWh	18757
 Domfresnel Holder	15744
@@ -617,6 +626,7 @@ Domingos José	11372
 Domingos Juliasse Viola Manica Francisca Domingos	12201
 Domingos Monteiro Correia	11540,5526
 Domini-	17743
+Dominialidade	18896
 Dominic	12478
 Dominic Chavez	10812
 Dominic Cull	5507
@@ -745,6 +755,7 @@ Evidence-Based Analysis for Mobilizing Domestic Revenue. IMF	10997
 Excise Domestic	14985
 Excmo. Sr. José Domingo Ndong Bakale	17192
 Expand and Diversify Domestic Capacity Grow	10157
+Expected Pre Domestic Review	18887
 External Systems DOMINICA	16631
 External Systems Dominica	16631
 FCFA Gross Domestic Product Gross Enrollment	11905
@@ -787,6 +798,7 @@ GDP Gross Domestic Product GIZ Gesellschaft	12923
 GDP Gross Domestic Product GRID Green	18301
 GDP Gross Domestic Product GRM Grievance	11525
 GDP Gross Domestic Product GTS Sector	13731
+GDP Gross Domestic Product GoCAR Government	18887
 GDP Gross Domestic Product GoG Government	15511
 GDP Gross Domestic Product GoL Government	17289
 GDP Gross Domestic Product ICI Djibouti	13836
@@ -829,7 +841,7 @@ Grants Domestic	1828
 Green Climate Fund GDP Gross Domestic	11549
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105
 Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
@@ -849,12 +861,14 @@ Gross Domestic Product GIS	958
 Gross Domestic Product GNI	18485
 Gross Domestic Product GSM	14879,1993
 Gross Domestic Product GSMA Global System	12395
+Gross Domestic Product Growth	19038
 Gross Domestic Product HVI	17101
 Gross Domestic Product Harare Institute of Technology	4528
 Gross Domestic Product ITA	13053
 Gross Domestic Product IXP Internet Exchange	14897
 Gross Domestic Product Know-Your-Customer Mobile	11130
 Gross Domestic Product Per Capita	8950
+Gross Domestic Product Table	19038
 Gross Domestic Product US	12500
 Gross Domestic Product and Gross National Income	2775
 Gross Domestic Product of Mauritius	14729
@@ -897,6 +911,7 @@ Incidência- Taxas-Notas Taxa Doméstico	17100
 Inclusion GDP Gross Domestic Product AI	12444
 Increased Domestic	14997
 Increasing Gross Domestic Expenditure	12175
+Index GDP Gross Domestic Product GEI	18931
 Indicator GDP Gross Domestic Product SDR	18851
 Infrastructure Development With Domestic Direct Investments	17011
 Initiatives Objectives Cutting-edge Domestic Data Center	15713
@@ -1095,6 +1110,7 @@ PUB Domingo	16528
 Paid-in Minimum Capital Requirements for Domestic	12389
 Parcels Domestic	6671
 Parties DOM Dead	17140
+Pass the Domestic Violence Act	18912
 Patterns Across Domains	15164
 Pays Domaines	18105
 PcD DOMÍNIOS CONQUISTAS BARREIRAS Acessibilidade Ratificação	15694
@@ -1166,6 +1182,7 @@ Reserva de Domínios	576
 Respect of Domestic Borrowing	14546
 Responsable des Affaires Domaniales	10876
 Revenue Domestic Revenue Tax Revenue	17011
+Review Expected Pre Domestic Ref. Estimated	18887
 Rica Dominican Republic Western Europe United	11135
 Rizig Dominic Samuel	18723
 Roel Dom	12948

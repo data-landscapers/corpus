@@ -195,6 +195,7 @@ Compliance Requirements	12302
 Compliance Requirements Compliance Level Score Regulations	5665
 Compliance and Regulatory Requirements	17114
 Compliance and Reporting Requirement	11952
+Comprehensiveness Requirement	18907
 Confidentiality and Disclosure Requirements	12530
 Connecting Landlocked Africa Requires	11500
 Connection Requirements	12389
@@ -206,6 +207,7 @@ Content Required	6432
 Continuous Adaptation Requirement ACKNOWLEDGING	3861
 Continuous and Recurring Requirements Essential	17116
 Contractor Workers Requirements Health and Safety Contractor	12253
+Contracts Requirement	18907
 Contractual Requirements	5676,6689
 Contractual Requirements The Guidelines	5676
 Contravention of Requirements	18601
@@ -244,6 +246,7 @@ Data Migration Requirements	13037
 Data Processing Which Requires Consent	11956
 Data Processing Which Requires Consent Article	11956
 Data Protection and Privacy. Requirement	13308
+Data Request Form	18904
 Data Required Priority Area Activity Intended	16963
 Data Residency Requirements	6432
 Data Subject Access Requests	14524
@@ -265,6 +268,7 @@ Digital Sovereignty Requires More Than Just	6879
 Digital System and Technology Requirements	9855
 Directive Training Requirements	3861
 Directive Training Requirements All	3861
+Disaggregation Requirement	18907
 Disbursement Request	15901
 Document Requirement Responsibility Table	17114
 Documentation Requirements	13185
@@ -279,7 +283,7 @@ E. Request	7845
 E. TESTING AND QUALITY ASSURANCE REQUIREMENTS	13185
 EDGE REQUEST FOR EXPRESSIONS OF INTEREST	12834
 EITI Requirement	13654,4239
-EITI Requirements	17893
+EITI Requirements	17893,1014
 ELECTRONIC MEDICAL SYSTEM IMPLEMENTATION. This Request	17068
 ENGAGEMENT Request for Information	14756
 EQUIPMENT THAT REQUIRE TYPE APPROVAL	14883
@@ -369,6 +373,7 @@ GENERAL REQUIREMENTS FOR ALL MDAs	13381
 GENERAL TECHNICAL REQUIREMENTS	14883
 GENERAL TECHNICAL REQUIREMENTS Generally	14883
 GEOSPATIAL DATA REQUIRED POLICIES	18476
+GIS DATA REQUEST FORM	18904
 GLOBAL INVESTMENT REQUIRED FOR UNIVERSAL ELECTRICITY	11572
 GSM OBJET DE LA REQUETE Connexion	10821
 Garowe. Eligibility Requirements Interested	15183
@@ -576,6 +581,7 @@ Minimum Required Data	6423
 Minimum Requirements	11209,3940
 Minimum Requirements Met	17037
 Minimum Requirements for Infection Prevention Control	14773
+Minimum Reserve Requirement	19098
 Minimum SLA Requirements	11995
 Minimum Sample Size Requirements for Seasonal Forecasting	236
 Minimum Standards Requirements for Solar Home Systems	14947
@@ -681,6 +687,7 @@ Patentability Requirements	12389
 PayShap Request	5691,3317,175
 PayShap Request. Stitch	9008
 Payment Cancellation Request	12364
+Payment Registration Request'. Upon	18954
 Payments and Settlement Department. Requests	12542
 Performance Requirements	15027
 Performance Testing Requirement	11952
@@ -725,6 +732,7 @@ Purchaser’s Requirements Section VII	15080
 Purchaser’s Requirements. Technical	15080
 Purchaser’s Technical Requirements	14766,314
 Purpose This Request for Proposal	15154
+Purpose of Request	18904
 QUALIFICATION REQUIREMENTS	17287
 QUALIFICATIONS MINIMALES REQUISES Le Cabinet	9744
 QUALIFICATIONS REQUIRED	16843
@@ -775,11 +783,13 @@ REQUEST LETTER	13938
 REQUEST XDR	2473
 REQUEST for PROPOSALS PROCEDURES Section	15080
 REQUESTED UNDER THE FREEDOM OF INFORMATION	16843
+REQUESTS	19067
 REQUESTS FOR CLARIFICATION OR FURTHER INFORMATION	11240
 REQUESTS FOR MODIFICATION OF PERFORMANCE CRITERIA	17326
 REQUESTS FOR REPHASING OF ACCESS	17209
 REQUESTS FOR STATEMENTS Hon. Speaker	10313
 REQUESTS FOR WAIVERS OF NONOBSERVANCE	15752,3071
+REQUESTS State Parties and Regional Economic Communities	19067
 REQUETE Considérant	15615,632
 REQUETE DECISION FINALE Agence Nationale de Traitement	10821
 REQUETE DECISION FINALE Bénin Control Traitement	10821
@@ -791,6 +801,7 @@ REQUIRED	6423
 REQUIRED CITATION DCI AI Hub for Social	11156
 REQUIRED EXTENSIBLE AUDITABLE	6423
 REQUIRED INSTITUTIONAL FRAMEWORK FOR POLICY	16883
+REQUIRED QUALIFICATIONS AND EXPERIENCE	19086
 REQUIRED REPLACEABLE AUDITABLE	6423
 REQUIRED TO COMPLY	13376
 REQUIREMENT	11240,6745
@@ -859,7 +870,7 @@ Requerimento	794,10625,48,1308,6059,1
 Requerimento de Reembolso	11467
 Requerimiento	16965
 Requerir	163,16692
-Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297,272,58,6,16,394,93,1,35,148,351,10,8,134,34,231,36,64,202,698,119,14,329,83,36,11,218,80,218,246,231,617,315,7,3,1,16,3,15,190,31,15,35,388,453,488,7,56
+Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297,272,58,6,16,394,93,1,35,148,351,10,8,134,34,231,36,64,202,698,119,14,329,83,36,11,218,80,218,246,231,617,315,7,3,1,16,3,15,190,31,15,35,388,453,488,7,56,516
 Request Access	15935
 Request Correction	11276
 Request Data	17149
@@ -883,7 +894,7 @@ Request for Bids for Design	12253
 Request for Comments	991,17783
 Request for Documents The Chamber	15175
 Request for Exemptions. Available	13461
-Request for Expression of Interest	962,10563,225,2175,1218,229,822,2381
+Request for Expression of Interest	962,10563,225,2175,1218,229,822,2381,312
 Request for Expression of Interest Notice	18711
 Request for Expressions of Interest	8669,6742,1082
 Request for Expressions of Interest Notice	9892,1
@@ -921,17 +932,17 @@ Request-to-Pay	12269
 Request-to-pay	12269
 Request-to-pay Participants Direct	12270
 RequestLevel	10848
-Requested	9123,2674,78,2125,2580,260
+Requested	9123,2674,78,2125,2580,260,2145
 Requested Federal	5773
 Requested State	18457
 Requested the AACB Secretariat	4103
 Requested the African Union Commission	4103
 RequestedByCustomer Cancellation	12364
 Requester	16840
-Requesting	6432,4866,287,276,3219,787,2603
+Requesting	6432,4866,287,276,3219,787,2603,434
 Requesting Officer	34,12330
 Requesting State	18457
-Requesting Unit	10870,2188,4412,35
+Requesting Unit	10870,2188,4412,35,1477
 Requesting and Receiving Information	14113
 Requestors and Providers	3815
 Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68,212,58,21,99,525,531,11,143,131,57,8,1,79,584,390,89,149,105,143,159,313,796,140,302,208,1,3,902,492,56,384
@@ -986,7 +997,7 @@ Required for Financial Evaluation	13031
 Required. Application	17006
 Required. For Pre-existing Entity Accounts	11233
 Required. Section II	13185
-Requirement	11,725,1741,1237,8238,437,143,505,148,123,95,1019,13,93,205,44,586,110,1246,113,3,4,1,3,271,290,33,456,546,13
+Requirement	11,725,1741,1237,8238,437,143,505,148,123,95,1019,13,93,205,44,586,110,1246,113,3,4,1,3,271,290,33,456,546,13,455,78
 Requirement Analysis	5665
 Requirement Bachelor's Degree Deadline	13077
 Requirement Description Compliant	13037
@@ -996,7 +1007,7 @@ Requirement Requirement Level	5244
 Requirement Score	13381
 Requirement Service Description Tariffs and Charges Contract	5676
 Requirement of Final Inspection	12389
-Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13,36,30,104,264,143,112,123,3,11,63,221,38,778,225,89,122,35,15,3,54,62,53,1,21,75,105,191,839,520,7,4,33,24,504,130,928,142
+Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13,36,30,104,264,143,112,123,3,11,63,221,38,778,225,89,122,35,15,3,54,62,53,1,21,75,105,191,839,520,7,4,33,24,504,130,928,142,303,78
 Requirements A Energy Efficiency MS ISO	14736
 Requirements Additional	12157
 Requirements All	5665
@@ -1060,7 +1071,7 @@ Requirementsforlocalclinicalval-	8301
 Requires	961,2900,1804,767,1810,882,1732,146,1004,363,75,741,496,2186,965,35,247,146,1271
 Requires APIs	12444
 Requires ESIA	18370
-Requiring	961,282,3285,835,2108,3304,230,74,77,1146,210,370
+Requiring	961,282,3285,835,2108,3304,230,74,77,1146,210,370,6005
 Requiring Acceleration	14022
 Requiring RIRs	3502
 Requiring Telecom Users	11079
@@ -1071,7 +1082,7 @@ Requisite	12674
 Requisite National ICT Backbone Infrastructure	16861
 Requisite Regulatory Approvals	7198
 Requisito	11898,6876
-Requisitos	14,525,255,1644,2731,1801,3785,20,585,10,16,4,40,31,59,22,13,10,17,316,3,3457,38,108,634,717,1897,9,37,2,53
+Requisitos	14,525,255,1644,2731,1801,3785,20,585,10,16,4,40,31,59,22,13,10,17,316,3,3457,38,108,634,717,1897,9,37,2,53,43
 Requisitos Académicos Específicos. Os	11472
 Requisitos Data de Atualização	15645
 Requisitos Especiais	3519,7844
@@ -1192,7 +1203,7 @@ Single TRN Requests for PAYE	11298
 Skills Mix Required HQ	11855
 Skills Mix Required Number of Trips Task	10964
 Skills Mix Required Skills Needed	15411
-Skills Mix Required Skills Needed Number	15372
+Skills Mix Required Skills Needed Number	15372,3515
 Software Installation Request Form	34
 Software Requirements Gathering and Analysis Phase	15161
 Software Requirements Specifications	5665
@@ -1206,7 +1217,7 @@ Specifications and Requirements	12400
 Spectrum Outlook and Capacity Requirements	5245
 Staff Clarification Requests	12058
 Staffing Requirement and Complement Control	12972
-Standard Request for Proposals	10964,941,3467,39,142,106
+Standard Request for Proposals	10964,941,3467,39,142,106,3228
 Standards of Requirements Applicable	17534
 Stats SA Funding Requirements	11289
 Strategic Plan Polls Request Forms Benchmarking	9109
@@ -1297,6 +1308,7 @@ VFEX Listings Requirements	4896
 VFEX Listings Requirements. Dr Zienzile Dillon	4896
 Vary Requirements	17068
 Vendors Request	17114
+Virtual ID Application Requirements	19041
 Visit Request Media Interview Request RTI	9109
 Visit the Tax Reference Number Request Dashboard	11298
 Voltage Required AC	34

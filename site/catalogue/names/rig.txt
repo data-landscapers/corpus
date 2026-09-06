@@ -1,6 +1,6 @@
 A. Civil And Political Rights	14742
 A. RIGHT TO EDUCATION	14073
-A. RIGHT TO EDUCATION Discrimination	14073,3897
+A. RIGHT TO EDUCATION Discrimination	14073,3897,960
 A. Right	1630,1953
 AAUCA. All Rights Reserved	17307
 ADMINISTRATION AND LAND RIGHTS FOR PEACE	16916
@@ -29,6 +29,7 @@ African Court of Justice and Human Rights	14742
 African Digital Rights Network	1250,2975,9965
 African Disability Rights Yearbook	10826
 African Disability Rights Yearbook Elle	10826
+African Intellectual Property Right Holders	19067
 African Internet Rights Alliance	9416
 African Internet Rights. Retrieved	12214
 Agency National Human Rights Commission National	16973
@@ -64,7 +65,7 @@ Authority. CHAPTER THREE RIGHTS OF DATA	12185
 Availability of License of Rights Database	12389
 B. Data Subject Rights Requirement	13381
 B. RECENT RATIFICATIONS OF HUMAN RIGHTS	14031
-B. RIGHT TO FREEDOM OF OPINION	14073,3897
+B. RIGHT TO FREEDOM OF OPINION	14073,3897,960
 B. Right	3583
 BCEAO. Right	17870
 BILITY IS RIGHT	10581
@@ -209,7 +210,7 @@ Customary Rights	17114
 Cutting-Edge Innovation Meets Scientific Rigor	7702
 D Right	13189
 D. Rights	3583
-D. THE RIGHT	14073,3897
+D. THE RIGHT	14073,3897,960
 DATA CENTRES AND HUMAN RIGHTS	14673
 DATA SUBJECT'S RIGHTS Rights	1333
 DATA SUBJECTS RIGHTS	1333
@@ -303,7 +304,7 @@ EUR Rights	970
 EUR Sustainable Human Rights	970
 EURO SPECIAL DRAWING RIGHTS	15743
 EVERYONE ENJOYS SECURE LAND RIGHTS LAND	16916
-EXPRESSION AND RIGHT TO INFORMATION	14073,3897
+EXPRESSION AND RIGHT TO INFORMATION	14073,3897,960
 East and Horn of Africa Human Rights	15007
 Economic Social and Cultural Rights	13040
 Educate About Rights	12675
@@ -363,7 +364,7 @@ Fred Matiang’i Kalonzo Musyoka Rigathi Gachagua	7869
 Freedom of Association and Right	12389
 Functions of Commission PART III RIGHT	13352
 Functions of Zimbabwe Human Rights Commission	13501
-Fundamental Principles and Rights	14039,1862
+Fundamental Principles and Rights	14039,1862,3083,1
 Fundamental Rights	3861,667,7984,2453
 Fundamental Rights Enforcement Procedure Rules	11956
 Fundamental Rights Impact Assessments	4689
@@ -402,6 +403,7 @@ Health and Rights STD Sexually Transmitted Disease	970
 High Commission for Human Rights PAPD Pro-Poor	16943
 High Commissioner for Human Rights	3583,544,2820
 High Commissioner for Human Rights PBF Peace	11586
+High Commissioner for Human Rights' Compilation Report	18912
 High Commissioner for Human Rights’ Compilation Report	10841
 High Commissioner of Human Rights	13040
 Holdings of Special Drawing Rights	11131,3
@@ -420,8 +422,8 @@ Human Rights Cases	9783
 Human Rights Cluster	9261
 Human Rights Cluster. Pushing	9261
 Human Rights Commision Act	13040
-Human Rights Commission	8650,2176,1427,408,230,12,6,88,43,88,224,132,464,3661,837,151
-Human Rights Commission Act	1988,10915,137,312
+Human Rights Commission	8650,2176,1427,408,230,12,6,88,43,88,224,132,464,3661,837,151,330
+Human Rights Commission Act	1988,10915,137,312,5560
 Human Rights Commission Act. Whether	13040
 Human Rights Commission The Human Rights	12903
 Human Rights Commission of Sierra Leone	18437,18,22
@@ -434,7 +436,7 @@ Human Rights Committee	3583,3368,6089,1711,138,3547
 Human Rights Committee’s Working Group	13040
 Human Rights Community Workshop	13097
 Human Rights Consulting Group	9082
-Human Rights Council	3583,1,7626,658,320,13,839,1033,1058,837,990,976,36
+Human Rights Council	3583,1,7626,658,320,13,839,1033,1058,837,990,976,36,960
 Human Rights Council Advisory Committee	3583
 Human Rights Council Resolution	6949
 Human Rights Council Sixtieth	3583
@@ -509,6 +511,7 @@ Human Rights-Based Approach	7548,5841
 Human Rights-Based Approach AI	7548
 Human Rights-Centred Approach	7678
 Human Rights-based	12214
+Human Rights. UNHCR	18912
 Human RightsStrive Masiyiwa Proves You Can	42
 Human and Democratic Rights	13948
 Human and People's Rights	1988,9917,81,1983,62
@@ -532,7 +535,7 @@ Human and People’s Rights AI Artificial Intelligence	1814
 Human and People’s Rights. This Data Policy	961
 ICT Rights Economics	15789
 IDC’S RIGHTS	11209
-III. RECOMMENDATIONS A. RIGHT TO EDUCATION	17970
+III. RECOMMENDATIONS A. RIGHT TO EDUCATION	17970,960
 IMF Special Drawing Rights. Annual Integrated	11134
 IMF’s Special Drawing Rights	11131
 IMPACT AREA RIGHT OF WAY	11857
@@ -615,6 +618,7 @@ L Right	13189
 LAND ADMINISTRATION AND LAND RIGHTS	16916
 LAND AND RIGHT OF WAY	14947
 LAND AND RIGHT OF WAY Issue	14947
+LANDS DEPARTMENT RESERVES THE RIGHT	18965
 LCA's Rights	12681
 LGBT Rights	14742
 LISGIS. All Rights Reserved	17165
@@ -690,6 +694,7 @@ Nacer Eddine Riguet	15690
 Namibia's National Human Rights Institution	13097
 Namibian Copyright and Neighbouring Rights Protection Act	11122
 National Assembly. Right	1333
+National Bureau of Statistics Seychelles. All Rights	19100
 National Coalition of Human Rights Defenders	15007
 National Commission for Human Rights	15131
 National Communications Authority. All Rights Reserved	9109
@@ -697,9 +702,11 @@ National Council for Childhood and Motherhood Child Rights	15604
 National Council for Human Rights	17441
 National Council for Human Rights and Civil Liberties	17264
 National High-Commission for Human Rights of Central African	10826
+National Human Rights Action Plan	18912
 National Human Rights Commission	7409,2418,384,360,1574,832,1765,9,79,9,8,2040,71,15,961,54
 National Human Rights Commission of Equatorial	16958
 National Human Rights Commission. The Commission	17228
+National Human Rights Commission. UNHCR	18912
 National Human Rights Council	3583
 National Human Rights Institution	14742
 National Human Rights Institution of Zambia	13484
@@ -718,7 +725,7 @@ Notification PART IX RIGHTS	13321
 Notification Right	13321
 Nubian Rights Forum	2024,7058
 O Rigorous Statistics Techniques	14777
-OPINION AND EXPRESSION AND RIGHT	13739,4231
+OPINION AND EXPRESSION AND RIGHT	13739,4231,960
 OPTIONS AND PREFERENTIAL RIGHTS RELATING	4896
 Objectifs de Développement Durable. C. Cultural Rights	15968
 Observatory of Killed Journalists.8 C. THE RIGHT	17970
@@ -886,7 +893,7 @@ Rigathi Gachagua Other Not Sure	7869
 Rigaud	16144
 Rigena	14870
 Rigging	11154
-Right	3,8,14,2,560,149,33,392,59,23,90,141,790,43,32,794,42,200,208,131,88,59,63,202,131,191,41,39,368,101,516,38,127,159,61,143,80,514,173,257,144,339,658,230,49,562,27,679,389,23,176,164,209,71,37,86,133,138,2,12,127,197,383,56,21,49,9,55,55,1,22,17,16,26,67,42,53,123,36,1,112,110,120,8,4,36,26,22,66,42,94,122,10,31,29,80,9,81,15,115,267,3,18,104,361,1,14,75,68,2,133,13,2,119,4,9,19,14,1,57,96,251,81,248,295,32,868,3,8,13,12,15,86,33,12,96,129,84,543,64,36,388,80,1,3,4,3,5,5,34,19,9,35,40,1,5,24
+Right	3,8,14,2,560,149,33,392,59,23,90,141,790,43,32,794,42,200,208,131,88,59,63,202,131,191,41,39,368,101,516,38,127,159,61,143,80,514,173,257,144,339,658,230,49,562,27,679,389,23,176,164,209,71,37,86,133,138,2,12,127,197,383,56,21,49,9,55,55,1,22,17,16,26,67,42,53,123,36,1,112,110,120,8,4,36,26,22,66,42,94,122,10,31,29,80,9,81,15,115,267,3,18,104,361,1,14,75,68,2,133,13,2,119,4,9,19,14,1,57,96,251,81,248,295,32,868,3,8,13,12,15,86,33,12,96,129,84,543,64,36,388,80,1,3,4,3,5,5,34,19,9,35,40,1,5,24,278,21,60
 Right Honorable Dr. Justin NSENGIYUMVA	15023
 Right Honorable Prime Minister	12682,274
 Right Honourable Dr. Elijah Ngurare	12984
@@ -917,7 +924,7 @@ Right of Rectification	14434
 Right of Residence	12164
 Right of Residence and Establishment	7452
 Right of Thought	13948
-Right of Way	3718,7,137,4345,8892,15
+Right of Way	3718,7,137,4345,8892,15,1773
 Right of Way Greater	11857
 Right-access-information-act-2013.pdf Author	18438
 Right-of-Way	2871,927,3897,512,81,958,2879
@@ -929,7 +936,7 @@ Right-sizing	6432
 Right. Journal of Economic Perspectives	13624
 Right. So	7065
 Rightly	4259
-Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7,154,16,159,327,1,22,6,91,41
+Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7,154,16,159,327,1,22,6,91,41,460
 Rights Action Plan	13097
 Rights Annex III	12241
 Rights Categories Internally Displaced Person	14074,391,2229,733
@@ -975,9 +982,9 @@ Rights and Innovation Protection	12675
 Rights and Obligations of Infrastructure Provider	15081
 Rights and Obligations of Infrastructure Seeker	15081
 Rights and Permission	10714,51,10,1553
-Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36
+Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36,1025
 Rights and Permissions Rapid	16876
-Rights and Welfare	1597,1986,6211,971,10,1202,1000,63,991,118,1,592,132,2000
+Rights and Welfare	1597,1986,6211,971,10,1202,1000,63,991,118,1,592,132,2000,2038
 Rights and Welfare of Children	16860
 Rights for Peace Organisation	15342
 Rights for South African Citizens	11896
@@ -1053,6 +1060,7 @@ Rwanda Consumer’s Rights Protection Organization	15042
 Rwanda Digital Rights and Inclusion Report	12333
 Rwanda’s Right of Reply	15131
 SA Human Rights Commission Online Stakeholder	10453
+SDGs. C. CULTURAL RIGHTS	18930
 SDR Special Drawing Rights SEA Sexual	10829
 SDR Special Drawing Rights SENELEC Senegal	17105
 SDR Special Drawing Rights SIRP Sistema	18825
@@ -1061,6 +1069,8 @@ SDR Special Drawing Rights TA Technical	16187
 SDR Special Drawing Rights UN United	15731
 SECURE PROPERTY RIGHTS	17127
 SENAPIQ. All Rights Reserved. Designed	18837
+SEYCHELLES HUMAN RIGHTS COMMISSION ACT	18943
+SEYCHELLES HUMAN RIGHTS COMMISSION ACT Amendment	18943
 SHAREHOLDER RIGHTS AND PROXY FORMS	3714
 SINA Corporation All Rights Reserved	10369
 SMART Zambia Institute. All Rights Reserved	12375,6
@@ -1094,6 +1104,11 @@ Sexual Reproductive Health and Rights	8604
 Sexual and Reproductive Health Rights	11791
 Sexual and Reproductive Health and Rights	970,11636,2136,2547
 Sexual and Reproductive Health and Rights SUD Substance	17289
+Seychelles Human Rights Commission	19096
+Seychelles Human Rights Commission Act	18943
+Seychelles Human Rights Commission Act PART	18943
+Seychelles National Human Rights Commission. Linked	18912
+Seychellois Charter of Fundamental Human Rights	18889
 Shareholder Meetings and Rights General	4896
 Sierra Leone The Right	18438
 Sign Language Rights	12977
@@ -1103,7 +1118,7 @@ Social Cultural Rights	3583
 Social Economic Rights and Development Centre	11866
 Social Media and Digital Rights	10017
 Social Protection Is the Right Vehicle	17311
-Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162,568,364,983,983,36
+Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162,568,364,983,983,36,960
 Social and Cultural Rights CMO	14742
 Social and Cultural Rights ICT Information and Communication	17114
 Social and Cultural Rights IEC	16951
@@ -1113,6 +1128,7 @@ Social and Cultural Rights. Revitalized Agreement	3583
 Social and Cultural Rights. South Sudan	3583
 Socio-Economic Rights Institute	11660,2533
 Socio-Economic Rights and Accountability Project	7458,3642
+Son Atlas17. B. RIGHT TO FREEDOM	18930
 South African Human Rights Commission	5806,499,3377,659,112,237,32,7,536,579,2333,3597
 South African Human Rights Commission Act	6305,4960,579
 South African Human Rights Commission URL	14673
@@ -1186,7 +1202,7 @@ United Nations Human Rights Council. First	3584
 United Nations Human Rights Council’s Universal	14742
 United Nations Human Rights Office	11977
 United Nations Universal Declaration of Human Rights	8747,2430,779
-Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166,412,226,35,108,800,794,99,20,28,715,364,872,20,14,77,66,917,36
+Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166,412,226,35,108,800,794,99,20,28,715,364,872,20,14,77,66,917,36,960
 Universal Declaration of Human Rights UN	16951
 Universal Declaration of Human Rights. All	16958
 Universal Declaration of Human Rights. Retrieved	10819

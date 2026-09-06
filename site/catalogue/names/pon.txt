@@ -27,6 +27,7 @@ Edith Poni	3323
 Estado. Pontos Fortes	11461
 Feliciana Sousa Pontes	18768
 Fish Ponds and Water Breeding Facilities and D10	17105
+G PON	19106
 GAOUA BOUGOURIBA IOBA NOUMBIEL PONI	10847
 GRANDS PONTS	15711
 Gaoua Poni Sud-Ouest	15715
@@ -123,13 +124,14 @@ Ponte José António Mendes	15694
 Ponte João Gotô	15380
 Ponte Mendes	15694
 Pontianus Musore	9665,800
-Ponto	2816,4154,3785,764,63,688,3233,1,3248,6
+Ponto	2816,4154,3785,764,63,688,3233,1,3248,6,138
 Ponto Base	18798
 Ponto Focal	11376,80
 Ponto Focal CNULCD	18760
 Ponto Focal Nacional	11376
 Ponto Focal da UNESCO	18855
-Ponto de Entrega	18793
+Ponto de Entrega	18793,103
+Ponto de Interliga	18896
 Ponto de Troca de Tráfego da Internet de Moçambique	9694
 Ponto-focal	17361
 Pontos	2952,3473,545,4406,143,3985,1528,1747

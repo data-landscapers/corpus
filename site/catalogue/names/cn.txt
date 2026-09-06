@@ -106,7 +106,7 @@ CNAQ Rapports	15580
 CNAQD	2625,10678,139
 CNAQES	12809
 CNAR R	10841
-CNARR	2823,8018
+CNARR	2823,8018,8070,79,34,126
 CNARR and UNHCR	2823
 CNAS MEHENNI	15472
 CNAS-Faso	17829
@@ -414,6 +414,7 @@ CNPC NP	18238
 CNPC. Objet	15848
 CNPCNP La SORAZ	3395,3488
 CNPD Comissão Nacional de Proteção de Dados Pedidos	3079
+CNPD Diretriz	18945
 CNPD President Faustino Varela Monteiro	6361
 CNPD's FY2024	1338
 CNPD's FY2025	2080
@@ -428,6 +429,7 @@ CNPEEG	15383
 CNPEEG. Organe	15383
 CNPI-GU	17817
 CNPLC	13725
+CNPS Caisse Nationale de Prévoyance Sociale du Tchad	18931
 CNPS Comptes	15724
 CNPS Conselho Nacional de Proteção Social	11547
 CNPS Director General	15883
@@ -449,6 +451,8 @@ CNRA Recherche	2342
 CNRCEP	998,6239,862,1466,8557
 CNRCEP. Il	18122
 CNRCT	15936
+CNRD URL	19187
+CNRD. Aucune	19039
 CNREDC	17851
 CNRES	10948
 CNRF CPMI CSD COMESA EAC EAPS	13468
@@ -462,6 +466,7 @@ CNRST	12,725,1959,279,4695,9788,372
 CNRTP	18122
 CNRV. Ce	18310
 CNR’s Secretariat	11900
+CNS ACTIVITES DU SSN L	18926
 CNS Conseil	15961,659
 CNS INSTAT	17842
 CNS LAW ADVOCATES LLP Data Controller	7167
@@ -547,7 +552,7 @@ CNTTDT Commission	16942
 CNU-DCl	15429
 CNUCC	14450,3877
 CNUCC Convention Cadre des Nations Unies	17907
-CNUCED	5077,5744,2924,67,1662,4,15,90,1043,1255,134,62
+CNUCED	5077,5744,2924,67,1662,4,15,90,1043,1255,134,62,911
 CNUCED CNUCED	15493
 CNUCED Conférence des Nations Unies	15583,2298
 CNUCED Genève	13812
@@ -700,6 +705,7 @@ Ex CNC	10965
 Executive Order IN-4 Establish CNI Database	11857
 FCFA CNI	6674
 Financiero CNEF	16942
+Fonctionnement du CNS Juillet 2019	19205
 Fonctions CNERIB Nouveau	16103
 Forestry Development Committee CNDRA Center for National	16843
 Fortes Técnica CNDHC Helena Gomes Alves	15694
@@ -769,6 +775,7 @@ La Cnept	9002
 La Cotonnière Industrielle du Cameroun CNAR National	10841
 Le CNAQ	15530
 Le CNC	14849
+Le CND	19050
 Le CNDigit	15936
 Le CNE	16535
 Le CNECI	14431
@@ -782,6 +789,7 @@ Le CNP	15594
 Le CNPA	13781
 Le CNPA. Article	13781
 Le CNRA	18310
+Le CNRD	19039
 Le CNRPT	16615
 Le CNS	16620,1208,14,2
 Le CNSC	16621
@@ -815,6 +823,7 @@ Meta. CNPD	15856
 Mgandane Dlodlo Building Cnr Simon V	13685
 Miembro CNDES Fiscal General Ad	4209
 Ministry of Social Affairs and CNAM-GS	15518
+Mission du CNRD Garantir	19039
 Missions du CNS	15785
 Mix Cnergdtique	14479
 Morocco's CNDP	4583
@@ -869,6 +878,7 @@ Personnel Interview CNSP Conseil National	18204
 Ponto Focal CNULCD	18760
 Portail du CNDJ	15936
 Pour le CNT	6959
+Pr. Mahmoud Youssouf Khayal DG du CNRD	19039
 Presidente Interino da CNE	11561
 Presidente da CNE	11432,129
 Presidente da CNE Carmem Batista Lobo	10271
@@ -948,6 +958,7 @@ Secrétariat Général du CNIG	15555
 Secrétariat Général du CNPA	13781
 Secrétariat Permanent du CNS	17842
 Secrétariat du CNS	15479,482
+Secrétariat du Président du CNS. Ce	18926
 Sector CNII	10721
 Selon le CNEF	10965
 Services Climatologiques CNCR	16621
@@ -974,6 +985,7 @@ Symphony Walk Town Cntr Cnr Govan	8999
 System CEB Central Electricity Board CNIS	14745
 Sénégal CMS Crédit Mutuel du Sénégal CNCR	18286
 TIC CNPD Comissão Nacional de Proteção de Dados	18788
+TIC. CNPD	18946
 Titulares O CNI	15392
 Toponymie. La CNT	17876
 Transformation. Le CNN	18334

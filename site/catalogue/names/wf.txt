@@ -3,6 +3,7 @@ ArcGIS Pro WFP Guinea-Bissau Claude KAKULE	17001
 Bank WFP World Food Program WMO	17157
 Bank WFP World Food Programme	17869
 Body The WFP-led Emergency Telecommunications Cluster	15124
+Children’s Fund WFP World Food Programme	18911
 European Union and WFP	10866
 FAO and WFP	3583,15100
 Former WFP Office	12256
@@ -28,6 +29,7 @@ Scientific and Cultural Organization WFP World Food	7548
 Service Data WFP World Food Programme	11133
 Small and WFP World Food Programme Medium	12297
 Social Registry. The WFP	11525
+Transverse Mercator WFS Web Feature Service	18904
 UNHCR WFP Joint Assessment Mission	10841
 UNHCR and WFP	10841
 UNICEF VE WB WFP Individual Digital	10763
@@ -50,13 +52,14 @@ WFP Angola Country Brief	10763
 WFP CROP AND FOOD SECURITY ASSESSMENT	18683
 WFP Cameroon	16526
 WFP Cameroon Country Brief	10841
-WFP Contributor	14141,1091
+WFP Contributor	14141,1091,3848
 WFP Country Director Ministry of Foreign Affairs	17025
 WFP Crop and Food Security Assessment Mission	18683
 WFP Data Processing	17001
 WFP Distribution	17257
 WFP Eswatini	12962
 WFP FITTEST	15124
+WFP Facilities	18904
 WFP Gaza	7147
 WFP Government of Kenya	12297
 WFP Guinea-Bissau	11525
@@ -111,3 +114,4 @@ WFuonrdld Intellectual Property Organization	11885
 WTO and WFP	13042
 Wf4ghtrlfg	6369
 Wfa Description	15129
+Wfir'i	18901

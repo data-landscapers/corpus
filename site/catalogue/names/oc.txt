@@ -33,7 +33,7 @@ Americas and Oceania	1893
 Annual Natural Hazard Occurrence	10763
 Asian and Oceanic Countries	12383
 Asie Europe Océanie ACI TV Accueil	16092,1,37,97,148,111,41
-Atlantic Ocean	395,818,434,728,302,7459,93,926,246,151,357,418,40,32,4559,156,143,75,35,1108,103
+Atlantic Ocean	395,818,434,728,302,7459,93,926,246,151,357,418,40,32,4559,156,143,75,35,1108,103,407
 Atlantic Ocean. Mean	15553
 Aug-24 Sep-24 Oct-2	12256
 Autorité OCTOBRE	17829
@@ -192,6 +192,7 @@ GAMBIA ON THE OCCASION	17347
 GHA Oct	7210
 GPCA Octotel 2024December19.pdf	448
 GSMA Kenya Digital Economy Report Oct	17745
+Gainful Occupation Permit	18964,76
 Geno Ochieng UN Women Rwanda	14990
 Get the Occurrence Book	7777
 Ghana. Joyce Adwoa Animia Ocran	16163
@@ -222,29 +223,32 @@ Identification OCDE Organisation de Coopération	10712
 Immatriculation Registre de Commerce Agrément OC	17485
 India Ocean	14808
 Indian Journal of Occupational and Environmental Medicine	12090
-Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2,545,103,22,11,30,60,94,9,52,21,6,57,3,10,1,5,5,16,110,174,2424,1089,2
+Indian National Centre for Ocean Information Services	19063,1
+Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2,545,103,22,11,30,60,94,9,52,21,6,57,3,10,1,5,5,16,110,174,2424,1089,2,241,25,39,1,20,91,105
 Indian Ocean AI Innovation Network Regional	14566
 Indian Ocean Artificial Intelligence Summit	14618
 Indian Ocean Aucun	13701
 Indian Ocean Basin	3636,218,9166
 Indian Ocean Colloquium	14839
-Indian Ocean Commission	7795,6947,3,3,71,20
+Indian Ocean Commission	7795,6947,3,3,71,20,4046
+Indian Ocean Community	18889
 Indian Ocean Conference	13744,1061,3
 Indian Ocean Convection RGB	13701
 Indian Ocean Dipole	14158,797
 Indian Ocean Governance. The Prime Minister	14808
 Indian Ocean High Rate SEVIRI IR3.9	13701
 Indian Ocean Islands Games	14829
-Indian Ocean Region	13744,1064
+Indian Ocean Region	13744,1064,4252
 Indian Ocean Rim Association	11183,2,2559,998,5,72
 Indian Ocean Rim Association. Government	14748
 Indian Ocean Tsunami Warning and Mitigation System	14732
-Indian Ocean Tuna Commission	14447,371
+Indian Ocean Tuna Commission	14447,371,4374
 Indian Ocean and Africa	7601
 Indian Ocean and Atlantic Ocean Intelsat	9455
 Indian Ocean and Central	585
 Indian Ocean and Central Africa	585
 Indian Ocean and WACS	395
+Indian Ocean. Friends	19061
 Indian Ocean. Government	14748
 Indian Ocean. Key Objectives Smart Public	14566
 Indian Ocean. Matshepo Sehloho	7509
@@ -252,6 +256,7 @@ Indian Ocean. Regarding	14545
 Indian Ocean. TCLE Democratic Republic of Congo	11916
 Indian Ocean. The Prime Minister	14845
 Indian Ocean. Through	3292
+Indian Ocean. Together	19061
 Indicative Incident Environmental Social Occupational Health	17114
 Informal Occupant	17114
 Informal Occupants	17114
@@ -263,6 +268,7 @@ Institut Mauritanien de Recherche Océanographique	17873
 Instituto Oceanográfico de Moçambique	2816
 International Centre for Ocean Studies	14829
 International Decade of Ocean Exploration	6997
+International Platform for Ocean Sustainability	19076
 International Standard Classification of Occupations	14815,17,3945
 International Standard Classification of Occupations Table	14815
 Interviewed Occupied Sampled	18441
@@ -301,7 +307,8 @@ Latin America and Oceania	4734
 Les OCT	18310
 Licence de Production Concession de Production OCTROI DES	15670
 Local News On Oct	13959
-Logone Occidental	2266,48,70,1204,745,235,171,806,299,245
+Logone Occidental	2266,48,70,1204,745,235,171,806,299,245,12853,84,22
+Logone Occidental CAU de Doba Logone Oriental	19201
 Lower Indian Ocean Network	2677,615,3379,7051
 M Oct	624,6519
 M-OSI H-HcI M-TII Oceania Palau High	10840
@@ -339,6 +346,8 @@ Month Occurrence	16935
 Month Occurrence Time	16935
 Monthly Bed Occupancy Rates	2775
 Monthly Room Occupancy Rates	2775
+Moundou Ba PREFECTURE CAPITALS OCC. Doba	18887
+Moyen-Chari CAU de Moundou Log. Occidental	19201
 Mr. Ochefu John Iduh	18260
 Mwafwe River Occupation	1988
 Médétonhou Octave Jocelyn GBAGUIDI	17584
@@ -455,6 +464,7 @@ OCMIN	6613
 OCORRÊNCIA ANUAL DE NASCIMENTOS	18768
 OCP Group	17459
 OCP Group CEO	17459
+OCP Programme	18988
 OCP22 Africa eGP.pdf	17037
 OCPCA	10762,619
 OCPSCE	16144
@@ -571,7 +581,7 @@ Occupational Medical Surveillance	11134
 Occupational Medicine	14773
 Occupational Polarization	16266
 Occupational Qualifications	6832
-Occupational Safety	12253,807,1701,266
+Occupational Safety	12253,807,1701,266,3952
 Occupational Safety and Health	12964,1778
 Occupational Safety and Health Act	1988,10268,2166,320,19,74
 Occupational Safety and Health Bill	8681
@@ -595,7 +605,7 @@ Occupé Sous- Sous- Chômeur Taux Inactif	737
 Occupé Sous-emploi Sous-emploi	737
 Occur	17114
 Occurrence	15999,936,1766
-Occurrence Book	12303,602,1562,68,304
+Occurrence Book	12303,602,1562,68,304,4131
 Occurrence Books	12310
 Occurrence Incidence Criticité	10874
 Occurring	6432,5928
@@ -607,9 +617,12 @@ Ocean Conference	16788
 Ocean Economy	11183,3565
 Ocean Indien	14442
 Ocean Modeling Weather Research and Forecasting	9475
+Ocean Observation	19063,1
 Ocean Race	1948
 Ocean School	16187
+Ocean Services	19063,1
 Ocean Structure	7034
+Ocean Sustainability	19076
 Ocean Telecom Ghana Limited	3386
 Ocean Territory Bill	14753,40
 Ocean View	8161
@@ -628,6 +641,7 @@ Oceano Atlântico da Guiné-	11569
 Oceanographic	14440
 Oceans	18813
 Oceans Conference	10112
+Oceans Ocean and Estuarine Resources and Characteristics	18904
 OcedçeãsoegnlhoEobasdtlaa	15694
 Ocero	13870
 Ochang and Adimula	9969
@@ -770,7 +784,7 @@ October-2025	3917
 October-2025-Launch-of-AI-for-All-booklet.pdf Author	14772
 October-April	12611
 October-December	969,243,1563,4092,1
-October-November	15087
+October-November	15087,3870
 October-November-December	2775
 October-November. Projected	14443
 October116	12201
@@ -778,7 +792,7 @@ October127. Provincial	12201
 October29	12201
 October5	13392
 OctoberAugust	2820
-Octobre	436,311,251,7,743,236,769,922,29,81,3685,185,1100,2071,15,33,1,1,46,26,973,1393,11,16,49,92,86,121,736,12,42,1014,2,104,86,27,3,9,126,18,5,12,4,174,95,37,8,156,261,1,24,6,11,52,725,35,3,336,28,35,6,7,56,33,157,13,2,44,28,82,18,11,5,419
+Octobre	436,311,251,7,743,236,769,922,29,81,3685,185,1100,2071,15,33,1,1,46,26,973,1393,11,16,49,92,86,121,736,12,42,1014,2,104,86,27,3,9,126,18,5,12,4,174,95,37,8,156,261,1,24,6,11,52,725,35,3,336,28,35,6,7,56,33,157,13,2,44,28,82,18,11,5,419,249,117
 Octobre N	10876
 Octobre Rose	14622
 Octobre Yaound	10975
@@ -786,7 +800,7 @@ Octobre du PTA	10876
 Octodev	12478
 Octotel	448
 Octoverse	990,10932
-Octroi	6221,7080,1801,327,2056,334,303
+Octroi	6221,7080,1801,327,2056,334,303,866
 Octroi de Licence L’INSBU	13393
 Octroie	13846
 Octroyer	13290,11,113,305,1823,2303
@@ -823,6 +837,7 @@ Oracle OCP	15080
 Organising Framework for Occupations OIHD	6832
 Oui Oct	17962
 Overseas Development Aid OHS Occupational Health	18777
+PEER REVIEW REPORT NOW AVAILABLE Oct	19008
 PORTANT OCTROI DE LICENCE	17819
 PORTANT OCTROI DE LICENCE D’EXPLOITATION	17819
 PORTANT OCTROI DE LICENCE D’EXPLOITATION ARTICLE	17819
@@ -857,6 +872,7 @@ Programa Apoyo Formación Profesional Ocupacional	4209
 Programme National de Santé Oculaire	17845
 Programme National des Soins Oculaires	18105
 Prohibición de Comunicaciones Comerciales Ocultas	16855
+Promotion Civique NFE Non-Formal Education OCHA	18911
 Province of Occurrence	13644
 Proyecto de Formación Ocupacional	4209
 QTB Oct	5247
@@ -871,6 +887,9 @@ Reduce the Risk of Occupational Exposure	11218
 Refined Global Index of Occupational Exposure	8126
 Regional Director for Southern Africa and Indian Ocean	10790
 Regional Ocean Model	9475
+Register of Births Occurring Outside Seychelles	18918
+Register of Deaths Occurring	18918
+Register of Deaths Occurring Outside Seychelles	18918
 Registered Deaths Of Kenyans Occuring Ovition	12151
 Registered Deaths of Kenyans Occuring Abroad	12151
 Registo de Nascimento Ocorrido	11363
@@ -959,7 +978,8 @@ Webiniare Octobre	18324
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073,6265
 West Indian Ocean Cable Company Ltd	284,216
 West Indian Ocean Cable Company. Earlier	2677
-Western Indian Ocean Region	14845
+Western Indian Ocean	18998,9
+Western Indian Ocean Region	14845,4215
 Western Indian Ocean Route	13773
 Western Indian Ocean Route. Operational Protection	13773
 X. Ochoa	9128

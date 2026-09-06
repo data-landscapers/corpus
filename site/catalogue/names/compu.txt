@@ -55,7 +55,7 @@ BRANDED WORLD COMPUTERS SYSTEMS LIMITED Data	7167
 BSc Information Science BSc Computer Science	12361
 BUSARA COMPUTER POINT LIMITED Data Controller	7167
 BYTRONICS COMPUTERS LIMITED Data Controller INST-205399F2A1F	7167
-Bachelor of Computer Science	13078
+Bachelor of Computer Science	13078,5872
 Bachelor of Computer and Information Sciences	6832
 Bat Computer Technologies Ltd	3862
 Big Data and Cognitive Computing	9128,2028
@@ -79,6 +79,7 @@ CBRAIN EAST AFRICA COMPUTER SYSTEM DESIGN	7167
 CC Kenya Computer Incident Response Team	2775,4171,602
 CC National Kenya Computer Incident Response	6671
 CERT Computer Emergency Response Team	15472
+CERT Computer Emergency Response Team CFA	18931
 CERT Computer Emergency Response Team CICO	13312,2
 CERT Computer Emergency Response Team CIO	12917,2247
 CERT Computer Emergency Response Team DSO	16883,1
@@ -280,7 +281,7 @@ Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
 Computed	11907,1016,426
 Computed Value Method Method	11036
-Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69,410,39,76,303,319,288,9,774,90,15,70,225,60,166,2,106,73,1319,28,24,39,201,273,485,383,152,28,190,7
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69,410,39,76,303,319,288,9,774,90,15,70,225,60,166,2,106,73,1319,28,24,39,201,273,485,383,152,28,190,7,205,33,30
 Computer Aaud. Identiry	18457
 Computer Aided Personal Interview	12409
 Computer Application	13972
@@ -337,7 +338,7 @@ Computer Emergency Readiness Team CIMS	16872
 Computer Emergency Readiness Team CIO	14879
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
-Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607,142,40
+Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607,142,40,116
 Computer Emergency Response Team CHU	17824
 Computer Emergency Response Team CIO	16975
 Computer Emergency Response Team CMU CPF	17862
@@ -364,6 +365,7 @@ Computer Literacy	21,18440
 Computer Literacy Test	17565
 Computer Misuse	3983,2966,2196,3087,3081
 Computer Misuse Act	3005,2417,1527,5151,132,3081
+Computer Misuse Act Cap	18920
 Computer Misuse Act. NITA-U ED	3275
 Computer Misuse Provisional Order	18613
 Computer Misuse and Cyber	12302,5443
@@ -379,6 +381,7 @@ Computer Networks and ISDN Systems	3782
 Computer Operator Ms. Virginia Simushi	34
 Computer Owner	34
 Computer Produit Intérieur Brut Petite	13290
+Computer Programmer	18950
 Computer Programmers	13361
 Computer Room	9123
 Computer Room Equipment Power Distribution	9123
@@ -483,7 +486,7 @@ Computers Shipping	10759,78,1315,188
 Computers and Accessories	12962
 Computers and Education	11879
 Computers for Schools	12529
-Computing	2096,7379,1660,5,3637,372,15,378,171,223,2542
+Computing	2096,7379,1660,5,3637,372,15,378,171,223,2542,634
 Computing Can Unlock	4970
 Computing Centre	5932,2574
 Computing Department	13032,164
@@ -504,6 +507,7 @@ Computing Systems	4439,4021
 Computing Technology	9816
 Computing Weights	15244
 Computing Weights for American National Election Study	15244
+Computing and Artificial Intelligence	18924
 Computing and Sustainable Societies	4439
 Computing and Telecommunications	12361
 Computingthecorrelationbetweenageandweightyields	8606
@@ -789,6 +793,7 @@ National AI Compute Access Programme	7548,1241
 National AI Compute and Cloud	14566
 National AI Infrastructure and Computational Sovereignty	4528,7984
 National AI and Compute Infrastructure	7548
+National Agency for ANSICE Computer Security and Electronic	18931
 National Agency for Computer Security	9616
 National Cloud Computing Guideline	8986,132,1306,914
 National Cloud Computing Policy	4492,2681,2704,7266
@@ -804,6 +809,7 @@ National Computer Center	2578
 National Computer Development Company	3604
 National Computer Emergency Response Center	7538
 National Computer Emergency Response Team	587,8720,656,213,2056,5028
+National Computer Emergency Response Team and National	18903
 National Computer Emergency Response Team. Functions	587
 National Computer Forensic Laboratory	1000
 National Computer Incident Response Team	2256
@@ -855,6 +861,7 @@ Operação de Plataformas de Computação	2816
 Order Limited Use of Disclosed Computer Data	18675
 Organization of Data Center and Cloud Computing Services	14944
 Os Operadores de Plataformas de Computação	6970
+PERPETRATED USING COMPUTER SYSTEMS	18920
 Parliament Computerisation	5631
 Passing the Computer Literacy Test	17565
 Penalties for Telecommunications and Computer Offences	4610
@@ -872,6 +879,7 @@ Presidency. Compulsory	9676
 Printer Computer Specifications DATE QUANTITY	34
 Procedia Computer Science	226,5123,3256,523,1
 Programas de Computador	10747,613
+Project Management Computer	18887
 Projects Computerization	14952
 Protected Computers and Critical Database	4484
 Protection of Networks and Computer Systems	10771

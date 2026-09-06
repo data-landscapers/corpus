@@ -2,17 +2,18 @@ Enabling Environment ICB	15372
 GAC’s ICBF	17364
 GDP GSMA GUOT HCI HEIS ICB	15553
 Group and ICBC	8928
-ICB All	15372
+ICB All	15372,3515
 ICB All Consultants	15372
+ICB All Services	18887
 ICB Groupes de Travail Communal	10964
 ICB International Competitive Bidding ABBREVIATIONS	15411
-ICB International Competitive Bidding ICT Information	15372
+ICB International Competitive Bidding ICT Information	15372,3515
 ICB International Competitive Bidding IMF International	15659
-ICB No No Prior	15372
+ICB No No Prior	15372,3515
 ICB and ICBVI	13095
 ICB and Limited International Bidding	15411
 ICB and NCB	15372,39
-ICB and National SBD	15372
+ICB and National SBD	15372,3515
 ICB4PAC	26,1,1
 ICB4VI	7057
 ICBC PERU BANK	2836
@@ -26,5 +27,6 @@ ICBVI Training of Trainers	13095
 Implementation ICB	15372
 Leveraging ICBC	6870
 NCB and ICB	15372
+SBD for ICB	18887
 Standard Bank and ICBC	6870
 World Bank’s SBD for ICB	10964,4408,181,106

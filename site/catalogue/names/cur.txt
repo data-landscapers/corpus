@@ -5,6 +5,7 @@ AHAI6 CURRENCY EQUIVALENTS Exchange	11863
 AI Current AI	1814
 AI Curriculum Analysis What’s Next	17196
 AI Curriculum Framework	12675
+AI Curriculum Map for Seychelles	19079
 AI Ecosystem Development Current State Zambia	12356
 AI and Curriculum Development	6948
 AI for Beginners and AI for Content Creators. Currently	14148
@@ -96,6 +97,7 @@ COM CURSOS TÉCNICO-PROFISSIONAIS DE DUPLA CERTIFICAÇÃO	18814
 COMPLIMENT TOTAL POSITIONS CURRENT Minister’s Officer	12970
 COMPONENTS Current Component Name Current Cost	1284,15612,26,1437
 CRVS CSI CSMF CURY D4H DHIS	15599
+CURATOR	19049
 CURATRIX HEALTH CARE CENTRE LTD Data	7167
 CURDES	7955
 CURE International	13445
@@ -112,7 +114,7 @@ CURIAE CORAM	13040
 CURR IncorrectAgent Agent	12364
 CURRENCY AND BANKING OPERATIONS	15023
 CURRENCY CONVERSIONS	1818
-CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88,81,356,19,41,211,792,363,1,402,8,1,118,24,1091,162,234,39,107,103,37,3,82,39,250,112,240,14,38,460,26,536,391,255,521,152,32,42
+CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88,81,356,19,41,211,792,363,1,402,8,1,118,24,1091,162,234,39,107,103,37,3,82,39,250,112,240,14,38,460,26,536,391,255,521,152,32,42,36,68
 CURRENCY EQUIVALENTS Exchange	13938
 CURRENCY EQUIVALENTS Exchange Rate Effective	10768,649,4098,468,966,1013
 CURRENCY EQUIVALENTS Exchange Rate Effective Mar	15659
@@ -210,10 +212,11 @@ Curage	17907
 Curandería	16962
 Curated	226,1866,9051,6144,752
 Curated Content Catalogue for Smart Africa	17287
-Curatelle Act	7845
+Curatelle Act	7845,11038,166
+Curatelle Office	19096
 Curateur	15349
 Curative	12421,555,1,4066
-Curator	7845
+Curator	7845,11204
 Curatorship of Participants	12528
 Curaçao	8891,288,2430
 Curaçao Dominica El Salvador Grenada Guyana	13042
@@ -285,7 +288,7 @@ Currency Taxes	11563
 Currency Technical Working Group	10260
 Currency US	1284
 Currency USD	3676
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178,282,26,27,3,489,17,391,13,100,142,94,95,8,453,11,12,32,16
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178,282,26,27,3,489,17,391,13,100,142,94,95,8,453,11,12,32,16,62
 Currency Unit Equivalent	13938
 Currency Unit São Tomé and Príncipe Dobra	18851
 Currency Unit1 Equivalent	11863
@@ -295,7 +298,7 @@ Currency of Proposals	14927
 Currency of Sierra Leone	18512
 Currency. Subject	16368
 Currency. TechBooky	4467
-Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277,54,2,48,11,7,1,31,5,11,15,2,6,64,152,9,9,5,22,12,30,72,30,41,5,12,103,120,44,188,11,16,5,20,41,35,13,1,4,256,17,54,33,2,59,53,284,52,52,50,22,122,44,66,450,33,112,79,37,7,29,9,17,34,5,20,46,57,88,87,8,131,7,26,12,35,51,15,38,78,2,223,9,44,11,8,47,65,43,249,202,67,146,12,13,7,2,15,22,2,2,16,5,19,28,2,4,79,17,20,23,1,69,30,18,3,210,33,2,268,96,1,34,5,49,4,9,19,16,127,217,4,1,4,172,1,2,3,1,1,30,9,123,86,5,25,6,28
+Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277,54,2,48,11,7,1,31,5,11,15,2,6,64,152,9,9,5,22,12,30,72,30,41,5,12,103,120,44,188,11,16,5,20,41,35,13,1,4,256,17,54,33,2,59,53,284,52,52,50,22,122,44,66,450,33,112,79,37,7,29,9,17,34,5,20,46,57,88,87,8,131,7,26,12,35,51,15,38,78,2,223,9,44,11,8,47,65,43,249,202,67,146,12,13,7,2,15,22,2,2,16,5,19,28,2,4,79,17,20,23,1,69,30,18,3,210,33,2,268,96,1,34,5,49,4,9,19,16,127,217,4,1,4,172,1,2,3,1,1,30,9,123,86,5,25,6,28,36,95
 Current AI	5029,2519,3587
 Current AI Lifecycle	7548
 Current Account	2775,14221,239,22
@@ -398,7 +401,9 @@ Current National	7548
 Current National AI	7548
 Current Occupational Compliance	7548
 Current Operations and Practice	15473
+Current Organisational Structure	19042
 Current Organizational Structure	16863
+Current Organogram	19042
 Current PBF	10829
 Current PDO	16891,1744
 Current PDO MS MS Overall Implementation	18494
@@ -414,7 +419,7 @@ Current Price Estimates HFCE	18483
 Current Prices	2775,15708
 Current Prices Figure	18483
 Current Prices GDP	18483
-Current Progress	11988,2068,924,179,601
+Current Progress	11988,2068,924,179,601,3222
 Current Project Status. Project	2473
 Current Proposed	2473
 Current Proposed IDA-71820-001	1228
@@ -423,7 +428,7 @@ Current Psychiatry Reports	2948
 Current Quarterly Quarterly	14777
 Current RTAs	1243
 Current Ratings Part	16900
-Current Ratio	14997,26
+Current Ratio	14997,26,3956
 Current Ratio and Liquidity Ratio	14997
 Current Ratio and Liquidity Ratio Public Private	14997
 Current Red Flags Assigned	15905
@@ -453,14 +458,14 @@ Current Standards and Standards	16900
 Current State	4528,1904,1489,6898,699,1742
 Current State Assessment	14441
 Current State Assessment for Broadband	14723
-Current State of Digital	17870
+Current State of Digital	17870,1061
 Current State of Digital Entrepreneurship	13312,2
-Current State of Digital Financial Services	13312,2,4556
-Current State of Digital Infrastructure	13312,2,4556
+Current State of Digital Financial Services	13312,2,4556,1061
+Current State of Digital Infrastructure	13312,2,4556,1061
 Current State of Digital Platforms	13312,2
-Current State of Digital Public Platforms	17870
+Current State of Digital Public Platforms	17870,1061
 Current State of Digital Public Platforms Core	17870
-Current State of Digital Skills	13312,2,4556
+Current State of Digital Skills	13312,2,4556,1061
 Current State of Digital Skills Despite	16876
 Current State of Liberian Ports	17260
 Current State of Open Data	16939
@@ -509,7 +514,7 @@ Current Zimbabwe Act	736
 Current and Proposed Projects Activities Number	18301
 Current-Conditions Gains So Low	11140
 Current-year	13868
-Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74,84,304,12,4,17,15,13,5,1,4,29,3,4,16,14,6,25,29,84,1,8,28,7,24,4,4,3,15,1,7,1,1,13,15,17,7,39,10,13,2,1,7,3,3,1,3,19,4,13,1,4,14,9,4,12,44,2,19,23,94,37,56,48,135,3,24,6,9,6,13,2,51,14,11,7,20,2,84,59,70,15,4,17,15,3,39,30,7,14,38,27,59,397,12,6,12,4,86,16,93,1,86,95,288,8,56,19,4,1,81,1,2,33,30,2,1,25,10,15,8,11,31,26,16,17,125,4,226,13,23,15,11,38,7,35,51,17,26,16,423,170,142,204,250,8,12,4,9,1,16,7,6,1,5,2,1,11,4,3,1,6,1,1,12,1,2,5,1,6,16,2,15,26,77,25,1,301,327,5,7,90,92,347,145,7,9,5,62,6,35,42,4,45,118,22,37
+Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74,84,304,12,4,17,15,13,5,1,4,29,3,4,16,14,6,25,29,84,1,8,28,7,24,4,4,3,15,1,7,1,1,13,15,17,7,39,10,13,2,1,7,3,3,1,3,19,4,13,1,4,14,9,4,12,44,2,19,23,94,37,56,48,135,3,24,6,9,6,13,2,51,14,11,7,20,2,84,59,70,15,4,17,15,3,39,30,7,14,38,27,59,397,12,6,12,4,86,16,93,1,86,95,288,8,56,19,4,1,81,1,2,33,30,2,1,25,10,15,8,11,31,26,16,17,125,4,226,13,23,15,11,38,7,35,51,17,26,16,423,170,142,204,250,8,12,4,9,1,16,7,6,1,5,2,1,11,4,3,1,6,1,1,12,1,2,5,1,6,16,2,15,26,77,25,1,301,327,5,7,90,92,347,145,7,9,5,62,6,35,42,4,45,118,22,37,41,45,18,5,2
 Currently AI	7751
 Currently Android-only	2579
 Currently Attending	16921
@@ -547,7 +552,7 @@ Currently the SEPs	13295
 Currently the SMTD	17870
 Currents	8603
 Currentstate	8602
-Curricula	1264,1694,3990,5408,337,365,229,2943,36,170,416,1449
+Curricula	1264,1694,3990,5408,337,365,229,2943,36,170,416,1449,641
 Curricula. Protection	1777
 Curriculaire Appui	15673
 Curriculum	899,3227,2706,3804,191,191,1311,27,337,221,3,141,334,608,812,110,224,458,832,202,214,111,62,509,111,218,598,145
@@ -575,6 +580,7 @@ Curriculum Integration	14812
 Curriculum Integration Curriculum Review Workshop Workshops	16963
 Curriculum Integration Embed	16963
 Curriculum Integration and Educational Resources	16963
+Curriculum Integration and Student AI Literacy	19079
 Curriculum Planning and Development	13960
 Curriculum Research	16852
 Curriculum Rollout	4528,7984
@@ -623,7 +629,7 @@ Curtin Mauritius	14775
 Curtis	16381
 Curtis McCord	6445,1026
 Curtis McCord and Keldon	6445
-Curto Prazo	10750,8038
+Curto Prazo	10750,8038,157,1
 Curyaannimo	14859
 Cyber Security Fund. Currency	5841
 Cyclone Freddy. COMPONENTS Current Component Name	4653
@@ -729,6 +735,7 @@ FRAMEWORKS CURRENT UPCOMING	14819
 FX Global Currently	14997
 Falsification of Currency and Similar Offences	587
 Family Fun Day Currency	11134
+FinTech and Central Bank Digital Currencies	18956
 Finalized the National Curriculum for Grade	12975
 Financial Intermediaries Not Currently Relevant	15658,2716
 Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935,4229,649,143,345,3756,82,1206,1249
@@ -931,6 +938,7 @@ OpenStreetMap Current Health	12006
 Operation Status Closed Current ESRC High	16436
 Ordinary Currently	16837
 Orientation Curriculaire COGES	15673
+Orientation Curriculaire Projets	18942
 Original EA Category Current EA Category	15731
 Original Loan Currency	16219
 Overall Current and Target Maturity Levels	1824

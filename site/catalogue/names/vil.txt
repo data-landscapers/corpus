@@ -7,6 +7,7 @@ Agents de Déclaration Villageois ADV	18076
 Agglomération Effectif Pourcentage Ville de Ouagadougou	10875
 Agglomération Formel Informel Total Ville de Ouagadougou	10875
 Al-Hisas Village	15578
+Alen Franki Esparon of Pascal Village	19049
 Alpha Vilho	12478
 Amahoro Village Office	4941
 Aménagement des Villes	15542
@@ -69,7 +70,7 @@ Digital Embassy Village	10404,3863
 Digital Village	4148,1119
 Digital Village Program	17320
 Digital Village Project	2285
-Digital Villages	15372
+Digital Villages	15372,3515
 Digital Villages Initiative	12740
 Digital Youth Village	7068,8648
 District Council of Moka Construction of Village Hall	14746
@@ -81,6 +82,7 @@ Eng. Carlos Vila Nova	18752
 Entlaq and Village Capital	10745
 Estado. Carlos Vila Nova	18872
 Evelyne Vilhete Antonio de Carvalho	18823
+Fichier Villages	18926
 Filomena Vili	12266
 Fisiwe Vilane	14257
 Fondation Green Village Sénégal. Un	18363
@@ -113,6 +115,7 @@ Kanyange Village. In Rwezamenyo Sector	4941
 Kim Viljoen	11017
 L'Agence de Modernisation des Villes	18113
 L'Unité de Gestion du Projet Villages Intelligents	18194
+LA VILLE DE N'DJAMENA	19148
 LES VILLES DE MBUJI-MAYI ET KANANGA	15670
 La Mairie de Ville	6098
 La Ville	15292
@@ -379,6 +382,9 @@ Ville de Kinshasa. Pour	16021
 Ville de Koudougou	10875
 Ville de Mbuji-Mayi	15670
 Ville de Niamey	2327,7341,8563,7
+Ville de N’Dja	18926
+Ville de N’Djamena. Pour	18926
+Ville de N’Djaména	18987
 Ville de Ouagadougou	10875
 Ville de Ouagadougou Ville de Bobo-Dioulasso	10875
 Ville de Tahoua	7374,2193,8671
@@ -388,7 +394,7 @@ Ville de Zinder Elhadji Issoufou Mahamane	18150
 Villegas-Ch	9128
 Villella	14434
 Villes	3157,5734,2124,2613,1911,3,82,685,1139,566,272
-Villes Africaines	15542
+Villes Africaines	15542,3606
 Villes Budget	16627
 Villes Effectif Pourcentage Ville de Ouagadougou Affilié	10875
 Villes Rural	18014

@@ -112,7 +112,7 @@ Elaborar Planes de Acción	1701
 Elaborate	5677,5152,411,961,2727,625,106,1498,713
 Elaborate the FM	11855
 Elaborating	14211,2946
-Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1,496,602,5,26,12,59,20,26,27,10,126,85,80,182,170,164,112,106,1095,2,1,15,13,28,6,38,1,61,70,22,22,50,33,87,31,2
+Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1,496,602,5,26,12,59,20,26,27,10,126,85,80,182,170,164,112,106,1095,2,1,15,13,28,6,38,1,61,70,22,22,50,33,87,31,2,618
 Elaboration Textes	18322
 Elaboration de La StartUP Act	17907
 Elaboration des DAO	10975
@@ -151,7 +151,7 @@ Elaboração de Estudos de Impacte Ambiental	11390
 Elaboração de Lei de Protecção de Dados	2816
 Elaboração de Projetos Educativos	15694
 Elabore	14662
-Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40,2131,2,68,26,56,88,26,47,63,522,159,1295,21,27,10,195,26,66,122,6,9
+Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40,2131,2,68,26,56,88,26,47,63,522,159,1295,21,27,10,195,26,66,122,6,9,682
 Elaborer des PPP	13306
 Elaborer la Stratégie Nationale de Développement	16620
 Elaborer le Bulletin INSTAT	17842
@@ -160,13 +160,13 @@ Elaborer le POBA	18302
 Elaborer le PTBA	16012
 Elaborer le RAP	15569
 Elaboré	15474,848,1797,167
-Elaborée	1703
+Elaborée	1703,17312
 Elactronic	15363
 Elaeis	16024,1116
 Elaf Alnayer	15139
 Elanyo Emegnimo	15298
 Elarbi Touahria	16263
-Elargir	1005,12285,5001
+Elargir	1005,12285,5001,697
 Elargissement	7797,2915,5616,1157,416,390,28
 Elargissement des Exclusions	16328
 Elasha Biyaha	5941

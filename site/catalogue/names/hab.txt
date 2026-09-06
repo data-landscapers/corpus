@@ -180,7 +180,7 @@ Habitacao	9441
 Habitacional Mista	15380
 Habitante	16068,2700
 Habitants	18003
-Habitat	235,502,1251,636,1,599,172,239,429,61,13,187,3600,53,410,503,63,599,43,689,541,74,64,561,1775,29,61,52,76,192,13,23,3,141,8,9,359,1109,48,49,1,69,13,44,22,94,133,76,12,65,19,27,141,25,105,23,40,134,32,67,53,51,637,93,26,4,106,228,5,20,6,1,32,9,9,1,7,5,9,29,1,36,1,12,8,11,18,35,10,27,1,13,31,7,13,9,9,17,23,52,7,5,19,112
+Habitat	235,502,1251,636,1,599,172,239,429,61,13,187,3600,53,410,503,63,599,43,689,541,74,64,561,1775,29,61,52,76,192,13,23,3,141,8,9,359,1109,48,49,1,69,13,44,22,94,133,76,12,65,19,27,141,25,105,23,40,134,32,67,53,51,637,93,26,4,106,228,5,20,6,1,32,9,9,1,7,5,9,29,1,36,1,12,8,11,18,35,10,27,1,13,31,7,13,9,9,17,23,52,7,5,19,112,504,102,96,54,15,11
 Habitat Agenda	15473
 Habitat Centre de Santé de SIEFA Référence SIER	17845
 Habitat Condition	18337
@@ -210,7 +210,9 @@ Habitat de Côte	15936
 Habitat des Domaines	17978,25
 Habitat le Colonel Abdoul Kadri Amadou Daouda	18140
 Habitat. Appuyée	17978
+Habitat. Ce	19193
 Habitat. Il	16515
+Habitat. Selon	19197
 Habitation	6954,2323,1570,3648,112,791,77,67,478,79,521,53,31
 Habitation Bâtiment	15555
 Habitation RGPH	737
@@ -284,11 +286,13 @@ Lei de Bases da Habitação	16528
 Liberee HABIMANA Emmanuel NIYOYITA Thacienne HABINEZA	12445
 M. Habib HANNE	16616
 M. Laouali Haboubacar	18138
+MAHAMAT HABIB ABAKAR Responsable des Projets	18891
 MPI H A P. Share Habila	15244
 Madame Habibatou	17991
 Madame Habibatou MAIGA	17861
 Marie Gildas Habib	15744
 Minister Habimana	15208,1
+Minister of Habitat	18904
 Minister of Local Government Dominique Habimana	3767
 Ministry of Technology and Science Brilliant Habeenzu	9392
 Mme BETY AICHATOU HABIBOU OUMANI RAPPORT	998
@@ -304,7 +308,7 @@ NA TEKNOLOJIA YA HABARI KWA MWAKA	2868
 NINTERETSE Hilaire Mr HABONIMANA Déogratias	13300
 NUMBER OF HABITABLE ROOMS	11129
 National Policy of Habitat and Urban Development	15621
-Natural Habitats	15372,139,1603
+Natural Habitats	15372,139,1603,1773
 Natural Habitats OP	11525,330,282,3274,2693
 Natural Habitats and Cultural Resources Applicable	18370
 Noha Habib	1814
@@ -323,6 +327,7 @@ Permanent Secretary Eng. Dr. Brilliant Habeenzu	6201
 Phanuel Habimana	16577
 Pierre Damien Habumuremyi	11682
 Plano Nacional de Habitação	16138
+Pour Temoua Habmon	19066
 President Juvénal Habyarimana	13418
 Principe VRECENSEAMENTO GERAL DAPOPULAGAO E HABITAGAG	18802
 Proyecto de Habituación	4209
@@ -355,7 +360,7 @@ Terrestrial and Marine Habitat Alteration	17114
 Twamaa Hababuu	11133
 Títulos Habilitantes	9543
 UN HABITAT	15542
-UN Habitat	11129,156,3640
+UN Habitat	11129,156,3640,4223
 UNEP and UN Habitiat	3583
 United Nations Habitat	18293
 Urbanism and Habitat	13896

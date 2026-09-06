@@ -15,7 +15,7 @@ Annual Coupe Insp. Fee	16848
 Ao Coordenador da Comissão Inspectiva	11452
 Ao Inspector-Geral da Administração	11452
 Appointment of Inspector	18556
-Appointment of Inspectors	18600
+Appointment of Inspectors	18600,293
 Arab Network of Judicial Inspection Services	13865
 Arquivo de Identificação Gabinete de Inspecção Civil	10750
 Assistant Inspector General of Police	8471
@@ -109,6 +109,7 @@ ECOL Inspectorate Building Room	12700
 ENSM EPH EPST FENASCOM HD INSP	17882
 Ebang Inspector Distrital de Nsork Ilmo. Sr	16920
 Edú Nsue Inspectora Distrital de Djibloho Ilma	16920
+Electoral Commission Inspection	19101
 Embaixador de Portugal. Inspirado	6018
 Environmental Inspectors	12253
 Estado Delegado Regional Inspector Regional Gobernador	4209
@@ -132,7 +133,7 @@ Gambling Inspectorate and Enforcement Division	14843
 General Finance Inspectorate	17470
 General Health Inspection	10829
 General Inspection of Education ITMA Instituto Tecnológico	11552
-General Inspection of Finances	15372
+General Inspection of Finances	15372,3515
 General Inspectorate	4260,7645,69,3684
 General Inspectorate of Education	17338
 General Inspectorate of Finance	969,2635,12054
@@ -150,6 +151,7 @@ Grupo E Habilitado Pagador Inspector Grupo	4209
 Guide for Planning RiskBased Inspections	10776
 Headquarters INSP	14760
 Health Inspectorate	12606
+Humanitarian Response Plan IDEN Inspection Départementale	18911
 IC Inspection	17885
 IDEN Inspection	17885
 IDH Indice de Développement Humain IGE Inspection	18286
@@ -247,6 +249,7 @@ INSPECTION GENERALE DES SERVICES	16175
 INSPECTION GENERALE FAC	15744
 INSPECTION GÉNÉRALE D'ÉTAT	17972
 INSPECTION GÉNÉRALE DES FORCES ARMÉES	17972
+INSPECTION NEW REGISTRATION TRANSFER TRANSFER	19101
 INSPECTION OF PREMISES	14778
 INSPECTION OF REGISTERS FOR GENERAL	13046
 INSPECTIONS DES SERVICES	16175
@@ -255,6 +258,7 @@ INSPECTIVA	11452
 INSPECTOR GENERAL DE SERVICIOS	4209
 INSPECTOR GENERAL DOUGLAS KANJA ATTENDS PRESENTATION	14467
 INSPECTOR REGIONAL MINISTERIO	4209
+INSPECTORS	18893
 INSPER	18318
 INSPIRE-O	12980,131
 INSPIRE-O Key Project Data Government Request	12980
@@ -272,7 +276,7 @@ Insp.Fin	17812
 Insp.Fin. Ing. Agr	17812
 Inspe	17827
 Inspec	16467,1360
-Inspeccionar	167
+Inspeccionar	167,18729
 Inspecciones Distritales	16864,56
 Inspección	163,16692
 Inspección Técnica de Vehículos	16904
@@ -281,7 +285,7 @@ Inspecionar	15526
 Inspect	6423,2257,8198,85,1646
 Inspect ICS	12358
 Inspected Studios	6946
-Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536,446,878,2175,1532,137,33,74,68,104,94,233,112,1525,5,2,8,14,20,121,50,55,313,2,1,9,15
+Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536,446,878,2175,1532,137,33,74,68,104,94,233,112,1525,5,2,8,14,20,121,50,55,313,2,1,9,15,769
 Inspecteur B1	17982
 Inspecteur Bamako	17982
 Inspecteur Central	15415
@@ -327,7 +331,7 @@ Inspecteur du Collectivités Trésor	17982
 Inspecteur du Travail	18400,2,1
 Inspecteur du Tré	17827
 Inspecteur du Trésor	17827,14,58,83
-Inspecteurs	15474,1968,399,20,38,83,21
+Inspecteurs	15474,1968,399,20,38,83,21,1008
 Inspecteurs Contrôleurs	11676
 Inspecteurs Contrôleurs Fiscaux	11676
 Inspecteurs Vérificateurs	16175
@@ -339,11 +343,13 @@ Inspecteurs des Services Assistants	16381
 Inspecteurs des Services Statistiques	18169
 Inspecteurs du Travail	15361
 Inspecteurs du Trésor	17899
-Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105,303,236,78,210,126,9,61,71,16,70,28,383,222,253,64,1,1,253,179,159,94,30,135,83,51,95,101,15,37,2,275,616,3,10,6,80,228,21,15,179,93,569,8,2,44,9,17,17,56,43,17,74,117,63,5,36,43,62,35,74,15,46
+Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105,303,236,78,210,126,9,61,71,16,70,28,383,222,253,64,1,1,253,179,159,94,30,135,83,51,95,101,15,37,2,275,616,3,10,6,80,228,21,15,179,93,569,8,2,44,9,17,17,56,43,17,74,117,63,5,36,43,62,35,74,15,46,383,116
 Inspection Act	15478
 Inspection Coverage	16978
+Inspection Départementale	18911
 Inspection EDO	12253
 Inspection Generale	8651,1473,3168
+Inspection GÃ	18887
 Inspection Gé- Ministère	17812
 Inspection Général	18087
 Inspection Général de Division Abdoulaye MAIGA	17899
@@ -364,6 +370,7 @@ Inspection PPPC Quarterly	12253
 Inspection Panel	1264,20,583,1022,715,2935,4229,61,135,453,108,330,50,60,1366,1,1806,273,107,35,105,1,2,483,752,26,27
 Inspection Procedures	16978
 Inspection Processes	16978
+Inspection Pédagogique	18911
 Inspection Regimes	12389
 Inspection Regular	15081
 Inspection Report	18661
@@ -399,7 +406,7 @@ Inspection of Products	16900
 Inspection of Proposal Document	17334
 Inspection of Schools	12975
 Inspection of Site Monthly	12253
-Inspections	718,1270,3180,5608,1477,136,796,235,1322,928,231,198,1081,63,584,14,44,14,133,67,10,209,52
+Inspections	718,1270,3180,5608,1477,136,796,235,1322,928,231,198,1081,63,584,14,44,14,133,67,10,209,52,615
 Inspections Générales des Services	16099
 Inspections PPPC	12253
 Inspections PPPC During Construction E-Government	12253
@@ -518,6 +525,7 @@ Inspire Women	12336
 Inspired	3006,1077,277,1210,3794,1477,705,669,511,2026,907,101,100
 Inspired Evolution Evolution II Fund	704,1
 Inspirer	15776
+Inspirer Motiver	19002
 Inspiring	14999
 Inspiring Change	11332
 Inspiring50	5551
@@ -628,6 +636,7 @@ PUBLIC HEALTH AND FOOD SAFETY INSPECTORATE	14773
 Painel de InspecçãoInspeção Independente	11898
 Part B Inspection	11181
 Particulier Inspection Générale des Services	18143
+Pedagogical Inspectorates of Primary Education	19093
 Periodic Audits and Inspections Periodic	5665
 Periodicidade da Actividade Inspectiva	11452
 Physical Condition Check Inspect	13185
@@ -641,6 +650,7 @@ Police Inspector General Gregory Coleman	17294
 Postal and Courier Inspections	6946
 Power of Inspection and Access	17249
 Power of Inspector	18556
+Power of Inspectors	18893
 Powers of Entry and Inspection	16851
 Powers of Inspectors. CHAPTER IV	18600
 Practices Inspection Fees	18541

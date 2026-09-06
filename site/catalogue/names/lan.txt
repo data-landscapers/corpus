@@ -5,6 +5,7 @@ A4.1. Ateliê de Lançamento de NDT	18760
 ABSENTEE LANDLORDS	12912
 ACCESS TO LAND ANNEXE	17285
 ACT LAND REGISTRATION	14427
+ACT TRANSFER OF LAND	18881
 AD Land CRT	17140
 AD Land Step	17140
 AD Land Step3 Uncertainties	17140
@@ -109,6 +110,7 @@ Andréa RANDRIANTSASON Lancement	14554
 Angel Lane	11902,483
 Angel Lane London EC4R	6593,4411,13,947,30
 Angola Modernizes Land Administration	10761
+Annex. Article Landing	18985
 Annual Land Lease Rental	17105
 Annual Rainfall Rate Land Type Annual	17157
 Annual World Bank Land and Poverty Conference	18293
@@ -121,6 +123,7 @@ Article Suivant Lancement	13638
 Artificial Intelligence Landscape	12241,2433
 Artificial Intelligence Landscape Assessment	4583,8497,15,381,185,3029
 Assessment of Land Governance	15473
+Assistant Land Registrar	18881
 Athlone Higher- Owned Land N	4896
 Authorized ASSESSMENT OF LAND GOVERNANCE	15473
 Avec LANAYA	5707
@@ -185,12 +188,13 @@ CITES System Sri Lanka	15478
 CNRF National Land Reform Commission	18293
 CODES LANGUES	13300
 COMMON LANGUAGE AMONG STAKEHOLDERS	17157
+CONSTRUCTION WORK AND ACCESS TO LAND	18934
 CONTENT OF THE NEW LAND LEGISLATION	10960
 CONTENTS OF THE NEW LAND LEGISLATION	10960
 CSO Civil Society Organization CTASF Land	18293
 CURRENT CROSS-BORDER TRADE LANDSCAPE	5247
 CURRICULUM ET POLITIQUE DE LANGUES Article	17863
-Cable Landing Station	2677,14437,732,639
+Cable Landing Station	2677,14437,732,639,447
 Cable Landing Station CM	18485
 Cabo Verde Lança Plataforma Para Detectar	8324
 Cadastral Information System CLCC Chief Land	11261
@@ -210,11 +214,13 @@ Category Tenure Application Fee Landing Rights	10407
 Cellular and Landline Phone	11211,51
 Central Equatoria State Ministry of Land	3046
 Central Lands Registry	18619
+Centre for Geographic Information Services Ministry of Lands	18904
 Cerimónia de Lançamento	18766
 CfRN Land Use Assessment Application	17140
 Chance- Stands Fund Land	4896
 Change and Adaptive Land Management	11407
 Change of Land Use	12333
+Characteristics and Land Cover	18904
 Chief Land Registrar	14427
 Chief Negotiator H.E. Dr. Lansana Kouyaté	7452
 Chiefdom Land Committee	18465,69
@@ -348,7 +354,8 @@ Department of Land Titles	13314
 Department of Land and Agriculture	3761
 Department of Land and Planning	1161
 Department of Land and Survey	16916
-Department of Lands	7167,5086,4763
+Department of Lands	7167,5086,4763,2000
+Department of Lands and Housing	19096
 Departments of Lands	12212
 Deputy Auditor General Mr. Morie Lansana	9680
 Deputy Minister for Lands	6123
@@ -492,6 +499,7 @@ FAO’s Land Cover Meta Language	15129
 FG Plans Digitisation of Land Information System	2592
 FINANCIAL INCLUSION LANDSCAPE IN ZIMBABWE	940
 FLOM Field Land Operations Manual FM	18293
+FORMS FORM L.R.1 THE LAND REGISTRATION	18881
 FRAMEWORK OF THE NATIONAL LAND POLICY	18619
 FSS Landing Rights USD	17250
 FUSILS LANCE-GRENADES	17982
@@ -513,6 +521,7 @@ Fit for Purpose Method for Rural Land Cadaster	13998
 Fit-For-Purpose Land Administration	16916
 Fit-for-Purpose Land Administration. FIG Publication	18293
 Fixing Land Records Is Central	12456
+Flash Info Journée Lancement Enrolement Biometrique	19024
 Fleet Management System Land Use and Development	4126
 Flexible Land Tenure Act	12912
 Flexible Land Tenure Scheme	13189
@@ -594,6 +603,7 @@ Government Landing Zone	6432
 Government of Italy and ITU. Lançamento	9434
 Grace Phiri HOD Languages	13392
 Greendale EWZL Vacant Stand Land N	4896
+Growth of Africa’s Tech Hubs Landscape	18931
 Grâce. Lancée	2429
 HERVORMING EN LANDELIKE ONTWIKKELING	11217
 HISP Sri Lanka	13160
@@ -660,6 +670,7 @@ Independent Directors Mr. Eric Langat	6946
 Indigenous Languages	13474
 Industrial Land Markets	15473
 Information System GLDAS Global Land Data	17157
+Information System GML Geography Markup Language	18904
 Information Technology LAN	14857
 Information and Communications Technology Landscape	6946
 Informatique Langue	15467
@@ -730,6 +741,7 @@ LANCEMENT	13844,4484
 LANCEMENT OFFICIEL	14568
 LANCEMENT OFFICIEL DE LA COLLECTE DES	16678
 LANCEMENT OFFICIEL DES TRAVAUX	16724
+LANCEMENT OFFICIEL DU FONDS POUR L’ENTREPRENEURIAT	18906
 LAND ACT	18593
 LAND ADMINISTRATION	11261
 LAND ADMINISTRATION AND LAND RIGHTS	16916
@@ -751,7 +763,25 @@ LAND REFORM AND RESTITUTION	11261
 LAND REFORM AND RURAL DEVELOPMENT	11217
 LAND REFORM AND RURAL DEVELOPMENT NO	11249
 LAND REFORM MOTIVATION STATEMENT FOR TABLING	13024
+LAND REGISTRAR ACT AFFIDAVIT	18881
+LAND REGISTRAR UNDER SECTION	18881
+LAND REGISTRATION ACT	18881
+LAND REGISTRATION ACT APPEAL	18881
+LAND REGISTRATION ACT APPLICATION	18881
+LAND REGISTRATION ACT CAUTION Title	18881
+LAND REGISTRATION ACT CERTIFICATE	18881
+LAND REGISTRATION ACT CHARGE Title	18881
+LAND REGISTRATION ACT DISCHARGE	18881
+LAND REGISTRATION ACT GRANT	18881
+LAND REGISTRATION ACT MUTATION FORM	18881
+LAND REGISTRATION ACT NOTICE	18881
+LAND REGISTRATION ACT POWER	18881
+LAND REGISTRATION ACT RELEASE	18881
+LAND REGISTRATION ACT SURRENDER	18881
+LAND REGISTRATION ACT TRANSFER	18881
+LAND REGISTRATION ACT USUFRUCTUARY INTEREST	18881
 LAND REGISTRATION IN GHANA URL	15657
+LAND REGISTRATION RULES	18881
 LAND SERVICING AND HOUSING	13118
 LAND SHEET	17114
 LAND TENURE	12912
@@ -766,6 +796,7 @@ LANDILANI BANDA	13481
 LANDLOCKED DEVELOPING COUNTRY MOBILE OWNER	11004
 LANDR	17773
 LANDS	13420,5199
+LANDS DEPARTMENT RESERVES THE RIGHT	18965
 LANDS SUB-SECTOR Distinguished Ladies and Gentlemen	16511
 LANDSAT	17140
 LANDSCAPE	1243
@@ -824,25 +855,28 @@ Lancaster Re-Ndama	15973
 Lancaster University	16046
 Lance	10876
 Lance Grootboom	12521
-Lancement	1287,609,446,214,140,105,116,43,617,366,950,1201,733,230,128,435,149,31,716,40,335,777,325,280,12,591,46,168,2284,31,28,72,13,54,13,53,2,34,3,12,230,506,114,15,39,3,26,170,664,38,120,156,64,1,2,10,1,88,12,27,40,30,6,14,16,11,1,13,23,1,30,5,35,50,64,24,1,10,38,27,16,52,1,5,53,118,10,45,9,1,747,23,341,18,26,2,26,10,13,23,2,10,1,39,28,9,25,4,6,35,33,1,19,15,7,29,13,18,9,11,28,3,133
+Lancement	1287,609,446,214,140,105,116,43,617,366,950,1201,733,230,128,435,149,31,716,40,335,777,325,280,12,591,46,168,2284,31,28,72,13,54,13,53,2,34,3,12,230,506,114,15,39,3,26,170,664,38,120,156,64,1,2,10,1,88,12,27,40,30,6,14,16,11,1,13,23,1,30,5,35,50,64,24,1,10,38,27,16,52,1,5,53,118,10,45,9,1,747,23,341,18,26,2,26,10,13,23,2,10,1,39,28,9,25,4,6,35,33,1,19,15,7,29,13,18,9,11,28,3,133,511,31,96,3,78,40
 Lancement Formations	13689
 Lancement Groupe Technique National ILLIMI	18160
 Lancement Officiel	16658
 Lancement Officiel Participants	13689
 Lancement PRMP	10876
+Lancement de IGL Mobile	18973
 Lancement des AO	17835
 Lancement des DAO	17907
+Lancement des Journées	19037
 Lancement des Services	15885
 Lancement du Géoportail	18324
 Lancement du New Deal Technologique	18428
 Lancement du Nouveau Portail Service Public BF	16338
 Lancement du Programme National de Filets Sociaux	11913
 Lancement du Projet	2960,9034
+Lancement du Projet de Filets Sociaux Adaptatifs	19109
 Lancement du SIF	16667
 Lancement du Système	3719
 Lancement du Système Intégré de Gestion des Taxes	15427
 LancementOfficiel	13904
-Lancer	8891,1939,2460,152,2182,88,136,164,1823,25,22
+Lancer	8891,1939,2460,152,2182,88,136,164,1823,25,22,1106
 Lancer's Inn Participants	12740
 Lancering	10848
 Lancers Inn	2767
@@ -856,8 +890,8 @@ Lancet Global Health	1261
 Lancia Digital Broadcasting	6946
 Lanciato	10848
 Lancinet Hawa DOUMBOUYA	16709
-Lancé	555,1200,681,296,243,123,1973,242,152,258,389,1221,22,382,655,499,1364,5219,501,210,107,114,149,52,20,823,68,581,36
-Lancée	2312,381,833,841,1336,164,350,671,187,413,597,77,150,1954,78,544,882,14,4307,104,387,1209,264,269
+Lancé	555,1200,681,296,243,123,1973,242,152,258,389,1221,22,382,655,499,1364,5219,501,210,107,114,149,52,20,823,68,581,36,765
+Lancée	2312,381,833,841,1336,164,350,671,187,413,597,77,150,1954,78,544,882,14,4307,104,387,1209,264,269,664
 Lancée URL	15889
 Lancés	2942,464,7282
 Land Acquisition	1264,603,1737,7164,61,135,453,143,345,453,666,499,1030,23,334,563,185,3,483,792,178,1084,172,4
@@ -932,6 +966,7 @@ Land Cover	15715,1160,239,43
 Land Cover Classification System	15129
 Land Cover Classification System User Manual	15129
 Land Cover Dashboard	12718
+Land Cover Earth Cover Earth Surface	18904
 Land Cover Legend Registry. Land	15129
 Land Cover Map	15622,1518,17
 Land Cover Map Dataset Availability	15622
@@ -940,6 +975,7 @@ Land Cover Map URL	15622
 Land Cover Maps	17157
 Land Cover Meta Language	15129
 Land Cover Meta Language and UML	15129
+Land Cover and Land Use	18904
 Land Cover and Land Use Change Dataset	16463
 Land Cover and Land Use Ontology	15129
 Land Cover and Vegetation	17114
@@ -948,7 +984,7 @@ Land Cover of Selected Study Areas	15129
 Land Cruiser FJ Opinion By Andrew	6244,1
 Land Deed Registration LIS	15657
 Land Degradation Monitoring and Sand Dune Mapping	15015
-Land Degradation Neutrality	14007,3150
+Land Degradation Neutrality	14007,3150,1929
 Land Degradation Neutrality Target Setting Process	15129
 Land Demand	12912
 Land Development	13060,3856
@@ -990,6 +1026,7 @@ Land Law and Regulations	12137
 Land Legal Framework	9727
 Land Locked Developing Country Freedom House	9477
 Land Management	888,11051,3534,97
+Land Management Administration Information System	18965
 Land Management Information and Transaction System Table	11862
 Land Management Modernization	15473
 Land Management Rwanda	888
@@ -1017,6 +1054,7 @@ Land Ordinance	18619
 Land Ownership	12389
 Land Ownership and Legal Rights	15081
 Land O’Lakes	7007
+Land Parcels	18904
 Land People	18534
 Land Planning	11939
 Land Platform Accessibility Physical	12211
@@ -1055,12 +1093,13 @@ Land Reform and Rural Development Physical	11197
 Land Reform and Rural Development The DHA	11986
 Land Reforms	11954
 Land Reg	18450
-Land Registrar	12451
+Land Registrar	12451,6430
 Land Registrars	15657
 Land Registration	12328,1670,429,1230
-Land Registration Act	14427
+Land Registration Act	14427,4454,2
 Land Registration Coverage	12389
 Land Registration Division LTR	15657
+Land Registration Rules. Form	18881
 Land Registration of Deeds Act	16968
 Land Registry	10937,196,3514,114,1809,557,982,484,204
 Land Registry Agency	18109
@@ -1085,6 +1124,7 @@ Land Rights Act	16876,223,15,76,70
 Land Rights Action Collaborative	5035
 Land Rights Law	17260
 Land Rights and Secure Tenure Theme	15473
+Land Search System Coming Soon	19184
 Land Sector	13998,4503
 Land Sector Actors	14972
 Land Sector Actors Coordination	14972
@@ -1098,7 +1138,7 @@ Land Settlement and Registration Ordinance	18619
 Land Settlements Fund	10313
 Land Sub-sector	14876
 Land Surface Temperature	11334,2591,3076
-Land Survey Act	12511,136,265
+Land Survey Act	12511,136,265,5969
 Land Surveying	18534
 Land Surveyor	11129,3593
 Land Surveyors Act	14722
@@ -1198,6 +1238,7 @@ Land and Soil Degradation Prolonged	17157
 Land and Space Tarik Dadi Combats Health	6678,209,414,23
 Land and Space Zimbabwe’s Maminda Combines AI	6678
 Land and The President	15473
+Land and Transport	18904
 Land and Water Division	15129
 Land and Water Impacts	14673
 Land and Water Officer	16946
@@ -1241,7 +1282,7 @@ Landila	16504
 Landinfo	14905
 Landinfo Country of Origin Information Centre Fredrik	14905
 Landinfo and CEDOCA	14905
-Landing	1647,1014,16,586,3317,2173,103,1301,294,4973,68,2588
+Landing	1647,1014,16,586,3317,2173,103,1301,294,4973,68,2588,904
 Landing Ceesay Owned	6226
 Landing Ceesay The National Water and Electricity	17261
 Landing MANE	16582
@@ -1344,6 +1385,7 @@ Lands Commission and Office	16511
 Lands Commission. Currently	16511
 Lands Commissioner	1988
 Lands Compensation Fund	13420
+Lands Department	18965
 Lands Digitization	12433,529
 Lands Minister	8741
 Lands Registry	18477
@@ -1361,7 +1403,7 @@ Lands and Regional Government and Religious Affairs	17105
 Lands and Resettlement Fund	13420
 Lands and Rural Development Minister Vangelis Haritatos	13703
 Lands and Surveys ECOWAN ECOWAS Wide Area	16926
-Landsat	8787,2007,1212,3123,586,1160,265,17,1179
+Landsat	8787,2007,1212,3123,586,1160,265,17,1179,750
 Landsat Convolutional Prediction Neural Network Nighttime	12006
 Landsat ETM	15129
 Landsat ETM-7	16875
@@ -1386,6 +1428,7 @@ Landscape Study of AI Policies	12675
 Landscape Threats	16923
 Landscape Weaknesses	16923
 Landscape and Topography	1988
+Landscape and Waste Management Agency	19081,15
 Landscape for Cross-Border Remittances	13388
 Landscape of Cybersecurity Threat	5677
 Landscape of Venture Capital Exits	4972
@@ -1397,6 +1440,7 @@ Landscope Mauritius	14847
 Landsfeld	15715,1442
 Landslide	1988,13671
 Landslide Management Works	14738
+Landslides	18955
 Landtenure	16833
 Landtiteln	504,399
 Lanfièra Sourou Boucle du Mouhoun	15715
@@ -1412,7 +1456,7 @@ Langlotz	8603
 Langman	8960
 Lango Lippaye	16971
 Langseth	9129
-Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12,342,433,3,31,167,40,172,162,850,182,138,12,3,7,1,7,1,84,91,24,3,48,165,129,396,685,284,170,133,199,218,880,107,54,199
+Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12,342,433,3,31,167,40,172,162,850,182,138,12,3,7,1,7,1,84,91,24,3,48,165,129,396,685,284,170,133,199,218,880,107,54,199,96
 Language Academy	10451
 Language Amharic	14129
 Language Data Commons of Australia	7313
@@ -1421,6 +1465,7 @@ Language English Français Português Information	12467
 Language English Original	14410,12,27
 Language English Publication Download PDF	12905,406,255
 Language English Type Legal Notice Original	14435,93
+Language English. Publication Download PDF	18894
 Language English. Related	13316,1,2142
 Language English. Zimbabwe	13288,8
 Language Excellence	4126
@@ -1575,6 +1620,7 @@ MIGHTY LAND	15670
 MIGHTY LAND INVESTMENT GROUP	15670
 MINISTER OF LAND REFORM AND RURAL	11197
 MINISTER OF LANDS	1222
+MINISTRY OF LANDS AND HOUSING	18904
 MLGRD Human Settlements and Land Use Research	1513
 MLHUD Ministry of Lands	18619
 MLME Ministry of Lands	17114
@@ -1681,7 +1727,8 @@ Ministry of Land and Survey	11129
 Ministry of Lands	395,125,420,30,584,150,1342,632,2053,1085,2087,1410,1899,295,4,799,10,67,7,81,615,456,2243,64,31,31,7,94,89,123,1218,19,3,17,19,74,10,1
 Ministry of Lands Housing and Country Planning	18476
 Ministry of Lands and Agriculture	1663,977,2996,1005,595,5369
-Ministry of Lands and Housing	2104,9617
+Ministry of Lands and Housing	2104,9617,7183
+Ministry of Lands and Housing GIS DATA SHARING	18904
 Ministry of Lands and National Land Commission Land	18504
 Ministry of Lands and Natural Resources	1249,625,5821,4674,87,931,3124
 Ministry of Lands and Natural Resources PVLMD	15657
@@ -1837,6 +1884,7 @@ Number and Type of Land Disputes	12389
 Number of Landing Points	18091
 O Intercomunicação LAN	18774
 O Lançamento	18760
+OGC Geography Markup Language	18904
 ORGANISATION DU LANADA	2342
 OS1.I3.P2 Lancer	17860
 OVER AGRICULTURAL LAND LAAS-2024	17043
@@ -1895,6 +1943,7 @@ Physical and Land Use Planning Act	14595
 Physical and Land Use Plans	7548
 Pierre Landry MBA NGUEMA	16381
 Planned Landings	13869
+Planning Cadastre Cadastral and Legal Land Descriptions	18904
 Planning and Land Planning	10841
 Planning and Land Use Management Act SRB	11261
 Planning and Land Use Management SPLUMA Spatial	11261
@@ -2113,6 +2162,7 @@ Serviced Land	13474
 Services Description Language	12360
 Services Landscape Launch Telecoms	12395
 Settlements DLRRD Department of Land Reform and Rural	11261
+Seychelles Land Transport Agency	19096
 Shaama. Landless People’s Movement	12378
 Shaping South Africa's AI Landscape	11265
 Shop Silundika Harare Stand Land Chinhoyi	4896
@@ -2174,7 +2224,7 @@ Spiky Digital Business Landscape	16942
 Spiky Digital Business Landscape. Link	16942
 Sports. Lancé	17493
 Sr Land Administration Specialist. Borrower	12137
-Sri Lanka	2318,6,103,20,94,25,48,44,20,42,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,24,230,225,138,45,60,43,101,181,78,69,47,183,19,70,19,8,170,5,104,1,148,1,7,16,76,109,751,1672,316,967,50,21,61,145,13,1,524,80,248,1185,118,149,814,786,562,7,1431,834,127,234
+Sri Lanka	2318,6,103,20,94,25,48,44,20,42,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,24,230,225,138,45,60,43,101,181,78,69,47,183,19,70,19,8,170,5,104,1,148,1,7,16,76,109,751,1672,316,967,50,21,61,145,13,1,524,80,248,1185,118,149,814,786,562,7,1431,834,127,234,1029
 Sri Lanka ASP LMI	17743
 Sri Lanka Connectivity Safety and Affordability Connectivity	11004
 Sri Lanka Kiribati Mongolia Myanmar Nepal	10764
@@ -2353,6 +2403,8 @@ Using the Land Cover Classification System	15129
 Utilizing the Unified Modelling Language Project	12395
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
 VC Landscape	12376
+VI. Landing and Port Fees Vehicles	18914
+VLP Virtual Landing Point WACREN West	18931
 Vacant Land Pension Owned Land Land	4896
 Vegetation and Land Drought Indicators	17157
 Vegetation and Land Vegetation Index	17157

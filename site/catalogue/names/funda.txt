@@ -17,7 +17,7 @@ DA NATUREZA E FUNDAMENTOS DO ESTADO	11513
 DIGITAL DIGNITY AND FUNDAMENTAL RIGHTS INTEGRATION	3861
 Dever de Fundamentação	549
 Digital Dignity and Fundamental Rights Integration	3861
-Direitos Fundamentais	794,10658,7336
+Direitos Fundamentais	794,10658,7336,157,1
 EU Charter of Fundamental Rights	8436,2720
 Educação FEC Fundação Fé	11557
 El Fundamento Básico	16855
@@ -31,7 +31,7 @@ FUNDAMENTAL RIGHTS PROTECTION	3861
 FUNDAMENTAL TRANSACTIONS	3714
 FUNDAMENTAL TRANSACTIONS Proposals	3714
 FUNDAMENTALS OF COMPUTING	13356
-FUNDAMENTAÇÃO DA ESTRATÉGIA	18788
+FUNDAMENTAÇÃO DA ESTRATÉGIA	18788,157,1
 Funda	4350,14429
 Funda Suzer	15179
 Fundacion Constancia Mangue Nsue Okomo	17240
@@ -47,15 +47,17 @@ Fundadora	16895
 Fundamentación	16864
 Fundamentación Histórica	16920
 Fundamentación Histórica Entre	16920
-Fundamental	961,2044,68,641,147,7143,13,199,985,184,522,70,310,1490,138,7,1941,156,120
+Fundamental	961,2044,68,641,147,7143,13,199,985,184,522,70,310,1490,138,7,1941,156,120,1846
 Fundamental AI Engineering	5482
+Fundamental Data	18904
+Fundamental Data Fundamental	18904
 Fundamental Education. Even	13349
 Fundamental Freedoms	13969
 Fundamental Law	16942,30
 Fundamental Pillars	2557
 Fundamental Principles	14409
 Fundamental Principles Integration	3861
-Fundamental Principles and Rights	14039,1862
+Fundamental Principles and Rights	14039,1862,3083,1
 Fundamental Principles of Official Statistics	11237,1469,2154
 Fundamental Principles of Official Statistics FTS	14857
 Fundamental Principles of Official Statistics UNICEF United	13359
@@ -64,6 +66,7 @@ Fundamental Rights	3861,667,7984,2453
 Fundamental Rights Enforcement Procedure Rules	11956
 Fundamental Rights Impact Assessments	4689
 Fundamental Rights Protection GUARANTEEING	3861
+Fundamental Spatial Data Products	18904
 Fundamentally	10,8173,2581,272,182,627,753,681,1668
 Fundamentals	10,9119,366,3861
 Fundamentals GIF-GM	13250
@@ -147,6 +150,7 @@ SAFETY AND SECURITY FUNDAMENTAL ENABLERS ONLY	11004
 STATISTICAL FUNDAMETATAL PRINCIPLES UMUTWE WA II	14862
 Safeguarding Fundamental Rights	3861
 Samsa Fundacja BBS Signly Ltd Getty	8530
+Seychellois Charter of Fundamental Human Rights	18889
 Strengthening Fundamentals of Digital Transformation	3604
 Strengthening Fundamentals of Digital Transformation People	3604
 Submarine Cable Connectivity Fundamental	2677

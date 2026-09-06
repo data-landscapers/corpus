@@ -22,6 +22,7 @@ Administrative Fees and Licenses	16978
 Administrator Licenses	10616
 Advertising of License Application	16851
 Africa. License	3618
+Agreement the LICENSEE	18904
 Air Transport Pilot License BEC Broad	2775
 Al-Amin Licensee	9129
 All Licensee	15149
@@ -50,6 +51,7 @@ Application for License	16851
 Application. PART II Registration and Licensing	13606
 Applications License Process Description	15283
 Applications for Licenses	15484
+Apply Licences Online Apply	18935
 Approval and License Issuance	5665
 Approval and Licensing of Su	13606
 Approval and Licensing of Suppliers	13606
@@ -101,7 +103,10 @@ Business Licence Demand Notice. Can	18448
 Business Licences	9437
 Business License	18448
 Business License Act	14891
+Business License Application	18935
 Business License Office	14008
+Business License Service	18935
+Business License Transactions	18935
 Business Licenses	17114
 Business Licensing	12218
 Business Licensing Law. Article	14891
@@ -153,6 +158,7 @@ Cellular Network Operator License The Telecommunications	18444
 Chapter IV Licensing Services	15340
 Chief Licensing Officer	11053
 Ciclos de Estudo de Licenciatura	17103
+Citations and Acknowledgement The LICENSOR	18904
 Class B Banking Licence	14717
 Class Comprehensive Telecommunications Service Licence	5498,31
 Class Comprehensive Telecommunications Service License	6826
@@ -220,6 +226,7 @@ DES LICENC Article C	15999
 DES LICENCES Article	13293
 DETERMINATION ON THE LICENSING AND AUTHORISATION	13085
 DIGITAL DIVIDEND LICENCE FEES Band Licence	17250
+DIGITAL DRIVING LICENSE	19044
 DSB Licence	6946
 DU LICENCIEMENT	18003
 DUREE ET RENOUVELLEMENT DE LA LICENCE	15394
@@ -246,6 +253,7 @@ Des Licences	998
 Develop Cross-Border Licensing Dialogues	14819
 Develop Cross-Border Licensing Dialogues Initiate	14819
 Digital Driver Licenses	17142
+Digital Driving License	19044
 Digital Mobile Driving License	11774
 Digital Mobile Licenses	11857
 Digital Mobile Licensing EUC End User	11857
@@ -461,7 +469,7 @@ International Courier License	718
 International Gateway License	762
 International Licence	14726
 International Licence Pro Marketing Communication Licence	17829
-International License	5656,4083,1045,222,1,147,1,852,83,137,28,212,19,221,119,1245,860,1,2841,7,585
+International License	5656,4083,1045,222,1,147,1,852,83,137,28,212,19,221,119,1245,860,1,2841,7,585,572
 International License. Find	18036
 International Public License. Any	10841
 Internet Applications License	15282
@@ -490,10 +498,11 @@ LIC DSAs	13868
 LIC and LMICs	10714
 LIC-DSF	3604
 LIC-YEM-001	11156
-LICENCE	15670,4,262
+LICENCE	15670,4,262,3049
 LICENCE Article	16295
 LICENCE Biologie Médicale	15674
 LICENCE CONDITIONS FOR THE REVISED TELECOMMUNICATIONS	9335
+LICENCE Daily	18985
 LICENCE EN COMMUNICATION NUMERIQUE	15529
 LICENCE EN SCIENCES INFORMATIQUES	15529
 LICENCE ET ACTIONNARIAT	15394
@@ -501,6 +510,7 @@ LICENCE FEE	14843
 LICENCE FEE PART	14843
 LICENCE FEES Fees	736
 LICENCE Géotechnologies Appliqué	15674
+LICENCE and ECR	18985
 LICENCES	11211,51,5577
 LICENCES OTHER THAN PRIVATE RADIO	736
 LICENCIA D3 ACTUAL ACTUAL TOTAL TESORO	4209
@@ -509,12 +519,13 @@ LICENSE	12478,2401
 LICENSE AND SHARES	762
 LICENSE APPLICATION	14880
 LICENSE SUSPENSION	15149
-LICENSEE	14879
+LICENSEE	14879,4025
 LICENSEE DETAILS AND SHAREHOLDING STRUCTURE	15149
+LICENSEE. Datasets	18904
 LICENSEES	14730
 LICENSES	762,12619
 LICENSES The FLEGT Regulation	16843
-LICENSING	718,1959,12203,2370
+LICENSING	718,1959,12203,2370,1684
 LICENSING AND AUTHORISATION OF PAYMENT SERVICE	13085
 LICENSING AND AUTHORIZATION ACTIONS	16884
 LICENSING AND CAPITAL REQUIREMENTS	14834
@@ -526,6 +537,8 @@ LICENSING REQUIREMENTS FOR EARTH SEGMENT SATELLITE	10407
 LICENSING REQUIREMENTS Section	2913
 LICENSING The Liberia Licensing Department	16843
 LICENSING The Regulatory Authority	718
+LICENSOR	18904
+LICENSOR and LICENSEE	18904
 LICHTMANIS	16100
 LICPA	17011,224
 LICSATDUN	16848,5,4
@@ -552,7 +565,8 @@ Liberia Licensing Department	16843,5,5
 Liberia Licensing Department LLL Liberian Labour	16843
 Liberia Licensing Department Secretariat	16853
 Liberian FLEGT License	16843
-Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629,117,120,156,3,1121,1,94,208,213,178,344,20,1404,181,25,203,3,20,227,18,35,100,95,7,39,4,41,9,1,218,18,288,46,171,30,119,220,4,102,309,569,44,33,107,118,165,316,194
+Licen	18896
+Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629,117,120,156,3,1121,1,94,208,213,178,344,20,1404,181,25,203,3,20,227,18,35,100,95,7,39,4,41,9,1,218,18,288,46,171,30,119,220,4,102,309,569,44,33,107,118,165,316,194,87
 Licence A CAF	18267
 Licence Alteration for Change of Location	18541
 Licence Alteration for Change of Name	18541
@@ -625,6 +639,7 @@ Licence de Transport Routier	18322
 Licence for Network Facilities Services	736
 Licence for US	736
 Licence- Master- Doctorat	12
+Licence-Exempt Operation	18971
 Licence-Maitrise-Doctorat	15529
 Licence-Master-Doctorat	12,15364
 Licence-Related Measures	17249
@@ -669,7 +684,7 @@ Licencing	8180,4076
 Licencing OTT International Gateway	16876
 Licensable	3887
 Licensable the Authority	3887
-License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172,460,261,67,79,136,116,124,99,854,139,183,997,23,223,34,22,196,56,78,57,133,11,927,308,124,8,21,63,28,265,7,15,620,23,145,650
+License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172,460,261,67,79,136,116,124,99,854,139,183,997,23,223,34,22,196,56,78,57,133,11,927,308,124,8,21,63,28,265,7,15,620,23,145,650,195,24,28,145
 License Activations	14921
 License Agreement	5665
 License All	18038
@@ -714,7 +729,7 @@ License. Such	15149
 License. The Authority	15149
 License. The Regulatory Authority	15149
 License. The SNBS	14931
-Licensed	718,2057,355,1429,1106,1713,2477,468,84,2038,90,228,698,1595,93,15,266,62,1359,21,62,1528
+Licensed	718,2057,355,1429,1106,1713,2477,468,84,2038,90,228,698,1595,93,15,266,62,1359,21,62,1528,421
 Licensed CC	7954,1071
 Licensed CC BY-NC-SA	3162
 Licensed Captive Power Capacities1	2775
@@ -737,6 +752,7 @@ Licensed Network Owned	736
 Licensed Operators	14883
 Licensed Operators and Suppliers. Internet	18430
 Licensed Party	15492
+Licensed Payment Service Provider	19021
 Licensed Payment Service Providers	14014
 Licensed Payment Service Providers MTN Fintech	12390
 Licensed Penetration Tester	15662
@@ -755,7 +771,7 @@ Licensed Territory	15149
 Licensed Testing Organisation	5665
 Licensed Testing Organisations	5665
 Licensed Verification Agents	3703
-Licensee	306,456,3970,3850,546,3430,763,1101,33,412,12,68,202,191,1503,29,14,1566,150
+Licensee	306,456,3970,3850,546,3430,763,1101,33,412,12,68,202,191,1503,29,14,1566,150,302
 Licensee Information Field Entry Licensee Name	17250
 Licensee Installed Capacity	12399
 Licensee and Consumers	14867
@@ -766,7 +782,7 @@ Licenseeas	17250
 Licenseefor	17250
 Licenseeof	17250
 Licenseeproviding	17250
-Licensees	11,751,3100,870,933,120,87,1074,2163,8,2740,538,526,1534,412,80,1892,11,1,35,357,7,1352
+Licensees	11,751,3100,870,933,120,87,1074,2163,8,2740,538,526,1534,412,80,1892,11,1,35,357,7,1352,429
 Licensees Interference	736
 Licensees Part	14867
 Licensees Telecom Namibia Powercom MTC Paratus	1944
@@ -784,7 +800,7 @@ Licenses and Authorization	18444
 Licenses and Permits	6792
 Licenses for Liquefied Petroleum Gas	718
 LicenseÉƧƨ SACJisapublicationof SAICSIT. ISSN1015-7999	8602,4
-Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241,922,1,313,112,24,6,140,2,116,1,117,111,89,89,25,100,110,237,34,856,306,2,15,7,67,15,17,96,50,210,75,58,144,728,623,4,4,5,5,31,5,89,209,63,1,1211,23,19,97,1
+Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241,922,1,313,112,24,6,140,2,116,1,117,111,89,89,25,100,110,237,34,856,306,2,15,7,67,15,17,96,50,210,75,58,144,728,623,4,4,5,5,31,5,89,209,63,1,1211,23,19,97,1,302,127,18
 Licensing Agreement	12723
 Licensing Application	14880
 Licensing Board	7845
@@ -815,6 +831,7 @@ Licensing SMTD	17870
 Licensing Scheme	17019
 Licensing Software Testing Organisations	5665
 Licensing System	718,14032
+Licensing and Authorisation	18894,137
 Licensing and Authorisation of Payment Service Providers	12365,9,711
 Licensing and Authorisations	3641
 Licensing and Authorization	236
@@ -922,6 +939,7 @@ Mini-Grid Operator Licence D5	17250
 Minimum Licence Duration	6891
 MoTRI Launches Online Business Registration and Licensing	12259
 Mobile Driving Licence and Birth Certificate	14752
+Monitor License Status Monitor	18935
 Motor Vehicle Licence	10296,4532,3
 Mozambican Open Data License	3861
 Mozambique Issues First Licenses	6535
@@ -938,6 +956,7 @@ NETWORK ACCESS The Licensee	15149
 NGO's. Issuance of Value-Added Services License Process	15283
 NITDA. Issuance of License	5665
 NOTICE TO ALL LICENSED FINANCIAL INSTITUTIONS	8732
+Name of LICENSEE	18904
 National Backbone Operator Licence Application Duration	17250
 National Council of Managing Directors of Licensed Customs	9361
 National Electronic Licencing System	14829
@@ -1073,6 +1092,9 @@ Postal and Courier Licensing Authority	6946
 Powers and Duties of License	16851
 Practicing Licence Fee	18541
 Price Index PPL Private Pilot License	2775
+Pricing and Licensing	18904
+Pricing and Licensing The Seychelles Spatial Data	18904
+Print Your License Print	18935
 Private Network Licence	736
 Private Network Licence Holders	958
 Private Network License	13295
@@ -1128,7 +1150,9 @@ Radio Frequency Spectrum for Individual Licenses	762
 Radio Licences	12395
 Reasons for License Rejection	12389
 Record of Information The Licensee	14867
+Recusa de Licen	18896
 Reduction of License Scope	15149
+Regime de Licen	18896
 Regional Courier License	718
 Register of Licenses	762
 Registrar's Certificates and Special Licenses	12290
@@ -1146,12 +1170,17 @@ Regulatory Licensing	17106
 Regulatory Sandbox License Framework	14819
 Reinstated Broadcast Licences	6946
 Reinstated Broadcast Licences License Category FY	6946
+Renew Business License	18935
+Renew Licences Online Renew	18935
+Renew Vehicle License	18935
 Renewal A Licence	5665
 Renewal Process Licenses	5665
+Renewal of Business Licenses	18935
 Renewal of Driving License	12333
 Renewal of Licence D5	17250
 Renewal of Licence PART C	17250
 Renewal of License	16851
+Renewal of Road Fund Licenses	18935
 Replacement of Definitive Driving License	12333
 Research License Applications and Licenses Granted	2775
 Responsibilities of Licensed Entities	5665
@@ -1164,6 +1193,7 @@ Rights of Licensees and Public Utilities	17243
 Risk-Based Regulations for Business Licensing	12389
 Risk-Based Regulations for Environmental Licensing	12389
 Risk-Based and Fast-Track Licensing Framework	14819
+Road Fund License Application	18935
 Road Licenses	2775
 Road Transport Licenses Issued	2775
 SECÇÃO III REGIME DE LICENCIAMENTO	11430
@@ -1205,6 +1235,8 @@ Service Status Licence Name DECLARATION	14754
 Services Licence	1223
 Sewer Network Operator Licence	17250
 Sewerage Treatment Plant Operator Licence D20	17250
+Seychelles Licening Authority Mr. Steve Monnaie	19049
+Seychelles Licensing Authority	18935,109,52
 Shi1reAllke License	1009
 Shortage of Electricity The Licensee	14867
 Should the Licensee	762
@@ -1368,13 +1400,16 @@ Valid Trading License Certified	12693
 Validation.2 License	16719
 Value-Added Service Licensees	3862
 Veeam Licensing Renewal	11209
+Vehicle License Service	18935
 Vehicle Registration and Driver Licensing	2576
 Vehicle Registration and Licensing	5645
 Vendor Licence	7551
 Vendor License	7551
+Virtual ID Card and Digital Driving License	19044
 Virtual Internet Service Provider License	762
 Vodacom Ethiopia Telecoms Operating Licence	733
 Voltage Imbalance The Licensee	14867
+Warranties Although the LICENSOR	18904
 Waste Licensing Regulations	1988
 Waste Management Licence	1988
 Water Abstraction Licensing Regulation	17228
@@ -1390,7 +1425,7 @@ Work Permits and Business Licenses	12227
 World Bank Group. License	10714,7988
 World Bank License	10765,10,37,1516,206
 World Bank. Licence	15474,19,1133
-World Bank. License	10714,422,436,307,1433,2,1583,550,33,1396,66,928
+World Bank. License	10714,422,436,307,1433,2,1583,550,33,1396,66,928,1061
 Year License	2716,1353
 ZEMA Licence	1988
 ZEMA Licence Obtain	1988

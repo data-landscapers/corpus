@@ -26,6 +26,7 @@ AUTRE L SIGNEZ ET T INSCRIVEZ	13300
 AUTRE SIGNEZ ET INSCRIVEZ VOTRE ADULTE	13300
 AXIAN Telecom and Huawei Sign Strategic Cooperation	13782
 AYZ XXXXXX National Significant Number	16934
+Acceptance of Digital Signature Certificate	18883
 Accord. Signé	15399
 Accounting Officer Signature Approved	5533
 Achievements Significant	11420
@@ -67,6 +68,7 @@ Autorité Signe	10876
 Availability of Electronic Signature and Authentication	12389
 Avatar of Sigberth-MK	12478
 Avec le SIGFIP	16071
+Azerbaïdjan. Signé	19055
 B Significant Focus	11867
 B Significant GovTech Maturity C Medium	10785
 B. SIGNIFICANT CHANGES DURING IMPLEMENTATION	11924,3500,87,90,62,39,29,259,962,897,13,100,803
@@ -225,7 +227,10 @@ Dever de Sigilo Profissional	167
 Digital Certificate and Digital Signature. Authorised Person	12364
 Digital Infrastructure and Other Services Significant	3487
 Digital Readiness Assessment Significant	2001
-Digital Signature	12359,5,2834
+Digital Signature	12359,5,2834,3685
+Digital Signature Certificate	18883
+Digital Signature Certificate A Certifying Authority	18883
+Digital Signature Certificates	18883
 Digital Signature Identity Management	14752,38
 Digital Signature Platform	10785
 Digital Signature Platform I-42	10785
@@ -274,6 +279,7 @@ EU Sign MoU	17988
 EU Sign MoU URL	17988
 Early Warning Signal Against	5550
 Economic Planning of Rwanda Signed Framework Agreement	791
+Economic Zones SIGASPE Integrated Administrative and Salary	18931
 Economique SIGeL	18065
 Education Completion Warning Signs Business	11870
 El SIGFE	1701
@@ -285,11 +291,13 @@ Electronic Signatures	1163,1243,3465,6518,593,3162
 Electronic Signatures Council of Europe	10819
 Electronic Signatures and Infrastructures	10819
 Email Signature of Complainant	1778
+Encumbrance Address of Proprietor Signature of Registrar	18881
 Enfance SIGNES CONVENTIONNELS	18171
 Enfant SIGLES ET ABREVIATIONS	18100
 Enfants Signature	14488,1,1
 Enhancing the SIGTP	11862
 Enter the Signature Key	16038
+Enterprise SMP Significant Market Power SNE	18931
 Enugu Sign Deal	9117
 Environnement SIG Système	17907
 Equatorial Guinea Signs the Malabo Convention	8192
@@ -446,7 +454,7 @@ Le SIG	18297
 Le SIG de Senelec	18324
 Le SIG-NSIC	18324
 Le SIG-Stat	15580
-Le SIGE	10925,4748,922
+Le SIGE	10925,4748,922,2347
 Le SIGFIP	16156
 Le SIGFP	13565
 Le SIGFP BI	13555
@@ -484,6 +492,7 @@ MOR's SIGTAS	12500
 MTC Namibia and BoFiNet Sign MOU	5066
 MWI NGA UGA ZMB ZWE. Signed	1528
 Management System SIGOF Integrated Financial and Budget	11863
+Management System for State Personnel SIGFiP Integrated	18931
 Manzini Social Welfare Offices. Significant	12977
 Marks Significant Step Forward for Seychelles’ Legal	6806
 Marrakesh Treaty Signing	11935
@@ -605,6 +614,8 @@ Policy Significance Statement Middle	7731
 Posição Significativa	11519
 Pour Signature	15399
 Presidency NIMC Emerges Nigeria’s Digital Signature	7371
+President Witnessing Signing	19131
+Private Partner. Significant	18887
 Production of Street Name Signage	11129
 Progress No Significant Progress Afghanistan X	11005
 Promotion of Public Trust Significant	12210
@@ -615,6 +626,7 @@ Proyecto SIGEF URL	17343
 Proyecto SIGF	11743
 Príncipe. Signature	18787
 Public FTA FM Common-Carrier Broadcasting Signal	6946
+Public Finance Management System SIGPTS Integrated	18931
 Public Prosecutor Sign Protocol	15992
 Q2. Significant	18186
 Q3. Significant	17503
@@ -646,6 +658,7 @@ Recommendation Signed Contract	17180,39
 Reference Report and Draft Neg Signed Contract	17180,39
 Reference Signed Contract Contract Completion	17180
 Region RC1 for Sigfox	12949
+Regional Integration and Growth. Significant	18887
 Register Sign In Menu Menu South	6281
 Registrar's Signature	12410
 Regulatory and Legal Significance	11313
@@ -663,6 +676,7 @@ Resources Management of Civil Servants SIGEC Integrated	10812
 Resources for Single Sign-On	12157
 Revenu National Brut SIGI	15848
 Revised Data Signal Distributors Category FY	6946
+Revocation of Digital Signature Certificate	18883
 Réalisé Signer	16012
 Région Compl. Promp. Signal	16722
 République Démocratique du Congo Le Signal RDCpass	16430
@@ -777,11 +791,11 @@ SIGFE Integrated State Financial Management System	10768
 SIGFE Sistema Integrado de Gestão Financeira	11390
 SIGFE and SIGPE	10768
 SIGFE-based FM	11417
-SIGFIP	1828,2792,39,80,366,6464,3984,355,139,24,85,786
+SIGFIP	1828,2792,39,80,366,6464,3984,355,139,24,85,786,2030,132,22
 SIGFIP By Redac	16071
 SIGFIP URL	16071
 SIGFOX TECHNOLOGY SigFox Network	12949
-SIGFP	3064,1333,2151,57,167,6793,1928,245,2277
+SIGFP	3064,1333,2151,57,167,6793,1928,245,2277,973
 SIGFP BI	3164,2702,7689
 SIGFP BI IFMIS	5866
 SIGFP Système	15493
@@ -790,7 +804,7 @@ SIGFP-generated Projet	1326,1,2,1,686,1,2,1,2136,1,2,1
 SIGFU	10902,28,7,4999
 SIGFU and SIGNE	10937
 SIGFU. Il	10902
-SIGFiP	9012
+SIGFiP	9012,9921,115
 SIGIB Traitement	10821
 SIGIBé	1238,9281,193
 SIGIBé Système Intégré de Gestion des Impôts du Bénin	10712
@@ -938,7 +952,7 @@ SIGPG	11939,2,4115
 SIGPG. Training	11941
 SIGPIP	5588
 SIGPT	11862
-SIGPTS	2823,53,3106,107,4625
+SIGPTS	2823,53,3106,107,4625,8219,268
 SIGREF	16930,391,21
 SIGREF.pdf República de Guinea Ecuatorial GRUPO	16930
 SIGRH	3064,9047,1171,2211,245,198,1936,123
@@ -986,6 +1000,7 @@ SME Small- and Medium-size Enterprise SMP Significant	16942
 SNNCI STN-CI Significations Agence de Gestion de Route	15936
 SOMMAIRE Sigles	16545
 SSO Single Sign-On ToR Terms of Reference	15164
+STATES OF AMERICA and SEYCHELLES Signed	18913,1
 SUGGESTED APPROACH TO DRAFTING SIGNIFICANT ECONOMIC	3161
 SYSROAD Sign	17146
 Safety Signs	14778
@@ -1026,8 +1041,9 @@ Sigilo Profissional	11425
 Sigla	18752
 Sigla AFRO Escritório Regional da OMS	15966
 Sigla Significado	18788
-Siglas	11364,12,167,7214,3,3,20,5
+Siglas	11364,12,167,7214,3,3,20,5,157,1
 Siglas AEE ASE AT BD CAARE	10766
+Siglas AGER	18946
 Siglas Tabela	18788
 Sigle	6954,4024,2412,2283,944
 Sigle IDHE IHPC IMC INSTAT IPM	17978
@@ -1105,7 +1121,7 @@ Signatory of Certificate The Principal	16860
 Signatory’s Name	14754
 Signatur	8546
 Signaturc	15399
-Signature	28,6,702,222,265,8,683,41,33,354,367,280,584,21,22,193,518,22,547,812,492,232,82,1678,699,615,313,184,35,349,388,83,18,62,37,204,797,65,185,27,49,58,4,10,26,10,264,19,224,114,6,148,116,40,40,9,43,91,119,76,276,429,1,32,6,25,1,1,47,133,43,6,9,12,38,20,8,44,30,3,469,10,8,29,42,47,92,4,75,16,7,43,160,16,7,28,38,60,1,2,78,33,36,5,6,116,119,206,78,33,85,7,4,35,221,15,136,218,17,8,19,233,84,13,6,34,25,6,31,8,55,99,161,20,4,18,13,39,234
+Signature	28,6,702,222,265,8,683,41,33,354,367,280,584,21,22,193,518,22,547,812,492,232,82,1678,699,615,313,184,35,349,388,83,18,62,37,204,797,65,185,27,49,58,4,10,26,10,264,19,224,114,6,148,116,40,40,9,43,91,119,76,276,429,1,32,6,25,1,1,47,133,43,6,9,12,38,20,8,44,30,3,469,10,8,29,42,47,92,4,75,16,7,43,160,16,7,28,38,60,1,2,78,33,36,5,6,116,119,206,78,33,85,7,4,35,221,15,136,218,17,8,19,233,84,13,6,34,25,6,31,8,55,99,161,20,4,18,13,39,234,289,20
 Signature Autorisée	15399
 Signature Autorisée Nom	15399
 Signature B. Informations	13390
@@ -1251,7 +1267,9 @@ Signing	1638,132,1944,1178,459,1139,62,191,90,749,140,916,1912,171,654,531,647,4
 Signing European Union	15661
 Signing Of The African Union	16914
 Signing PPAs	1264,9597
+Signing and Compliance	18904
 Signing and Customisation	18577
+Signing and Provisional Application	18985
 Signing of Bid The Bidder	14778
 Signing of Codes of Conduct	2989
 Signing of Contact	11869
@@ -1259,8 +1277,11 @@ Signing of Contract	13185,1581,314
 Signing of Declaration of Intent	17023
 Signing of EU	18488
 Signing of Multiparty Collaboration Agreement	2681
+Signing of Nine Agreements	19166
+Signing of Nine Agreements URL	19166
 Signing of Performance Agreements	11218,6
 Signing the Agrccmcnt	15399
+Signing-on of ACP	18985
 SigniÞcatif Défavorable	15901
 Signiﬁcant	10844
 Signiﬁcantly	11154
@@ -1340,6 +1361,7 @@ Sudan Deposits Its Country Signing Certificate	15104
 Sudatel Group Sign Tripartite Agreement	13915
 Sulisa Signo Quaresma Ponto Focal Convenção	18760
 Support for Single Sign-On Single	12359
+Suspension of Digital Signature Certificate	18883
 Sustainable Development SIGASPE Integrated System for Human	10812
 Swazi Sign Language	12916
 Sécurité SECTION SIGNALISATION ET GESTION	17899
@@ -1349,7 +1371,7 @@ TABLE DES MATIÈRES SIGLES	15673
 TABLE OF CONTENTS SIGNATURES	7198
 TECHNICIEN SUPERIEUR D’AIDE CHIRURGIEN SIGLES ET	18170
 TF Status Approval Date Signing Date	15619,1019,1835
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283,165
 TREND Increasing Improvement Warning Signs Slowing	10837,1503
 TRENDSNAFRICAAFRICAN NEWS PORTAL Sign	3768
 Table des Sigles	17983

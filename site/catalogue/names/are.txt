@@ -18,6 +18,7 @@ AREAS	11572,5529
 AREAS CHALLENGES AND INTERVENTIONS Challenge	6936
 AREAS FOR COOPERATION TO SUPPORT DIGITAL	1243
 AREAS FOR COOPERATION The State Parties	1243
+AREAS OF CO-OPERATION	19185
 AREAS OF COOPERATION Cooperation	1243
 AREAS OF INTERVENTION	16885
 AREAS POA	12500
@@ -64,7 +65,7 @@ Africa Coastal Areas Management Program WBG	18809
 Africa Continental Free Trade Area	4891,10,1468,454,5792,73,632,602
 Africa Continental Free Trade Area Agreement	4368
 Africa Free Trade Area	961
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001,270
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -113,6 +114,7 @@ Area AFD French Development Agency AfDB	13885
 Area AI Artificial Intelligence AI4D AI	12512
 Area AML Anti-Money Laundering API Application	12663
 Area ASYCUDA Automated System for Customs Data	12951
+Area Acres N.B. Where the Lease	18881
 Area Activation	8999
 Area Based Coordination	18665
 Area Based Coordinator	18665
@@ -181,7 +183,7 @@ Area of Origin	10841
 Area of Project Name Project Description Budget	11986
 Area of Weakness Description Ideal State Infrastructure	11986
 Area-based	10864,1505
-Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129,291,96,207,25,1019,912,100,95,35,92,224,31,1332,120,33,144,7,10,284,18,52,798,70,51,28,243
+Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129,291,96,207,25,1019,912,100,95,35,92,224,31,1332,120,33,144,7,10,284,18,52,798,70,51,28,243,357
 Areas Beyond National Jurisdiction	8681
 Areas Demonstrating Progress	14022
 Areas Lacking Sufficient Commercial Interest for Investments	11529
@@ -277,6 +279,7 @@ Cartographic Methodology ENUMERATION AREA	18464
 Caxton and Arena Holdings	13461
 Chairwoman of ARE’s Board of Directors	15670
 Chief Administrator of Kauto Administrative Area	8213
+Chief Registration Officer. The Electoral Area	19101
 Chief Resident Magistrate Court Lilongwe Area	12174
 Child Protection Area of Responsibility	18125
 Chipiku Stores and Area	12253
@@ -373,7 +376,7 @@ Disaster Prone Area	18470
 Disaster Prone Areas	18470
 Disputed Area	15138
 Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531
-Disputed Areas	15372
+Disputed Areas	15372,3515
 Disputed Areas No B.3 Other Salient	18374
 Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1,2079,102,40,1369,519,663
 District Western Area Urban Western Area	18460
@@ -404,6 +407,7 @@ Education Area Wealth Quintile	18441
 Egbedore Local Government Area	10049,205
 Egypt Policy Area	1802
 Egyptian Rural Areas	15578
+Electoral Area	19101
 Electric Company Janjanbureh Area Council Kanifing	16973
 Emerging Organisational Efficiency and Areas	6946
 Entreprise ARECOR Projet	15670
@@ -460,6 +464,7 @@ Free Trade Areas	13320
 Freetown for Western Area	18460
 Freight Enumeration Area East African Community	11136
 French and English. Intervention Area I7	14818
+Functional Areas	18904
 Future Focus Areas	11134
 GA-059- Digital Arena Limited	3386
 GEG Priority Area	970
@@ -702,7 +707,7 @@ Key Arena for Innovation and Competition	7334
 Key Audit Areas and Findings	13420
 Key Discussion Areas	16371
 Key Fintech Focus Areas The Bank	11134
-Key Focus Areas	11134,54,7419
+Key Focus Areas	11134,54,7419,435
 Key Focus Areas The Key Focus	11188
 Key Focus Areas and Interventions	16985
 Key Focus Areas and Interventions Under Institutional	16985
@@ -833,8 +838,10 @@ National Enumeration Area Map BUILDING FRAME	18464
 National Fiber Backbone and Metro Fiber Area	16872
 National Fiber Backbone and Metropolitan Area	16872
 National Key Result Areas	14965
+National Priority Areas	18948
 National System of Protected Areas	11586
 National Wildlife Conservation and Protected Area Management	17114
+Nature of Title Parcel No. Area Acres	18881
 Net Area	9781
 Network Area	4608,735,39,3371,4559,2,17,279,265,1037,67,16,141
 Network Area Framework TechAfrica News	5382
@@ -875,6 +882,7 @@ POLICY FOCUS AREAS INFORMING THE DESIGN	16883
 POLICY KEY ACTION AREAS	16872
 POLICY PRIORITIES AREAS	16951
 POLICY PRIORITY AREAS	958
+POLICY PROGRAMME AREAS	18889
 POPULATION IN URBAN AND RURAL AREAS	11572
 PORT LOKO WESTERN AREA RURAL DISTRICT	18476
 PRACTICE AREA	1264,603,1695,42,7164,649,143,345,3032,721,1,2,82,401,805,509,740
@@ -926,7 +934,7 @@ Presidential Priority Areas	12308
 Principles Governance Legal Framework Priority Areas	21
 Print Disabilities Area Networks	6946
 Priority Applications and Impact Areas The Indaba	13101
-Priority Area	970,234,11760,974,54,943,76,153
+Priority Area	970,234,11760,974,54,943,76,153,3784
 Priority Area Digital Financial	940
 Priority Area Number	15473
 Priority Area Number Eight	15473
@@ -975,6 +983,7 @@ RA1- Result Area	18370
 REGION Region Parcels Parcel Area	17043
 REVIEW OF UNSERVED AREAS AND ACCESS	11857
 RSM-02 Estimating Cultivable Areas	15285
+Radio Local Area Network	18971
 Railways Key Result Area	14781
 Reclamation of Mined-out Areas	16511
 Recovery and Human Development Priority Area	970
@@ -1002,7 +1011,7 @@ Result Area	13005,4465,900
 Result Areas	16032,2338
 Results Area	11905,4127
 Results Area Description	11905
-Results Areas	12176,3856,1426
+Results Areas	12176,3856,1426,1524
 Results Areas Baseline Period	11905
 Results Areas Developing	17505
 Results Areas Improving	11905
@@ -1034,6 +1043,7 @@ SADC Free Trade Area	10169
 SAN Storage Area Network SDD Solid-State	13185
 SANG AREBO UGOU	17828
 SCOPE AND COVERAGE AREAS	16885
+SD6 Priority Areas	18921
 SDG Area Weight Nutrition Any	15244
 SECTION2 Areas ofCooperation The Participants	4301
 SG Strategic Objective Key Activity Area	17116

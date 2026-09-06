@@ -273,6 +273,7 @@ Cases Numériques	18079
 Cases Numériques. Ensuite	7925
 Casier Numérique	15936
 Casier Numérique Universel Dépend	15936
+Catalogue Number	18989,49,61
 Catalogue des Services Publics Numériques	13882
 Categories of TB Cases Number Percent All	16971
 Category Class Number	12256
@@ -312,7 +313,7 @@ Code Destination Code Subscriber Number	16934
 Code Destination Code Subscriber Number Table	16934
 Code Numérique	743,3824
 Code du Numérique	7470,2352,5753,8,561,59,238,32
-Code du Numérique URL	15584
+Code du Numérique URL	15584,3543
 Code du Numérique du Bénin	10822
 Code du Numérique. Article	16203
 Collateral Identification Number	13333
@@ -356,6 +357,8 @@ Contact Telephone Number	11250
 Content Services Using Short Code Numbers	3862
 Contract Account Number. Customers	8231
 Contract Number	9892,1,6008
+Contribution Number	18985
+Contribution Number Diff	18985
 Control Unit Invoice Number	12282
 Control Unit Serial Number	12282
 Conventional Plot Temporarily Left Fallow Number	17043
@@ -518,7 +521,7 @@ Du Numéro National	13832
 DÉVELOPPEMENT NUMÉRIQUE	14483
 Dénomination Numéro	17024
 Déploiement du Numéro	16482
-Développement Numérique	14425,6,32,1030
+Développement Numérique	14425,6,32,1030,3562
 Développement Numérique Ministère	14425
 Développement Numérique des Postes	14483
 Développement Numérique. Article	14431
@@ -560,7 +563,7 @@ Ecole des Métiers du Numérique	15489,76
 Econet InfraCo. Number	4896
 Economie AGETIC Numérique	17824
 Economie Numerique	3165,1,2,1217
-Economie Numérique	743,226,236,59,20,297,685,176,72,349,389,1315,803,687,247,301,865,507,2714,206,1,5,1,1,60,615,96,57,1712,80,22,5,3,12,20,1,65,193,15,21,58,1428,21,17,5,7,6,5,2,13,11,9,29,19,2,4,15,17,3,32,7,5,24,17,5,42,16,34,43,495,344,24,51,325,807,32,14,235,17
+Economie Numérique	743,226,236,59,20,297,685,176,72,349,389,1315,803,687,247,301,865,507,2714,206,1,5,1,1,60,615,96,57,1712,80,22,5,3,12,20,1,65,193,15,21,58,1428,21,17,5,7,6,5,2,13,11,9,29,19,2,4,15,17,3,32,7,5,24,17,5,42,16,34,43,495,344,24,51,325,807,32,14,235,17,801,8,2,137
 Economie Numérique ANIES Agence Nationale	16626
 Economie Numérique Acheteur	13567
 Economie Numérique Action N	17824
@@ -666,6 +669,7 @@ Etats Généraux du Numérique	15901
 Etude du Secteur Numérique	3604
 Europe ADN Agence du Développement du Numérique AFNOR	15583
 Europe Number	15372
+Europe NumberÂ	18887
 Evaluation Numbering Division Strategy	6946
 Eviction Toll-Free Number	11260
 Evidence Laboratoire de Criminalistique Numérique	10911
@@ -816,6 +820,7 @@ I'utilisolion du Numéro	10813
 I.2.9. Monnaies Numériques des Banques Centrales	13452
 IANA Numbering Services	3503
 ICS Number	16900
+ICT Number	18887
 ICTs Number of IT Professionals	15716
 ID Marché Agricole Numérique Dépend	15936
 ID Number	4896,7306,198
@@ -949,7 +954,7 @@ Interopérabilité Numérique. VII.2.1 Modèle	15936
 Interruptions Number Portability Cooling-off Period Fair	5676
 Introduction Numbering	15302
 Introduction The National Numbering Plan	16934
-Intégration Numérique	5983,482,1511,1,9918,7,12,49,21,47,6
+Intégration Numérique	5983,482,1511,1,9918,7,12,49,21,47,6,1120
 Intégration Numérique Régionale	3370
 Investigation Numérique	17664
 Investigations Numériques	2451,184,13124
@@ -1024,6 +1029,7 @@ La Plan Stratégique National de Santé Numérique	17882
 La Semaine du Numérique	16674,1292
 La Souveraineté Numérique	18319
 La Stratégie Nationale de Développement du Numérique	15710
+La Stratégie Nationale de Paiement Numérique	18960,246
 La Stratégie de Transformation Numérique de CDC Afrique	16195
 La Télévision Numérique Terrestre	13781
 Laboratory Accreditation Number	13068
@@ -1087,7 +1093,7 @@ L’écosystème du Numérique	18047
 M F Number Number	12358
 MAIN-D’ŒUVRE QUALIFIEE SUR LE PLAN NUMERIQUE	15493
 MAITRISE EN COMMUNICATION NUMERIQUE	15529
-MANAGEMENT OF NUMBERS	16839
+MANAGEMENT OF NUMBERS	16839,2095
 MANDATE Through Legal Notice Number	12970
 MBITO Numa	11556
 MDAs GBoS MDAs Number	16927
@@ -1347,14 +1353,14 @@ National Financial Inclusion Strategy NINA Numéro	17870
 National ID Number	1868,1137
 National ID Numbers	1868
 National Id Number	977
-National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1,181,265,41,66,27,1,1,6,1276,348,495,186,32,90,163,415,68,549,1243,61,28,608,251,101,168,44,76,181,6,13,15,17,9,65
+National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1,181,265,41,66,27,1,1,6,1276,348,495,186,32,90,163,415,68,549,1243,61,28,608,251,101,168,44,76,181,6,13,15,17,9,65,366
 National Identification Number Data	15393
 National Identification Number TIN	11861
 National Identification Numbers	2743,80,101,938,1835,604,134,168,86,81,993,372,281,661,619,1401,617,1167,3892,1470,197,31,106
 National Identification Numbers and Libyan	4531
 National Identity Card Number	14713,110
 National Identity Card Numbers	15393
-National Identity Number	767,1115,1853,955,158,419,1604,875,694,272,113,3513,310,2375,370,2739
+National Identity Number	767,1115,1853,955,158,419,1604,875,694,272,113,3513,310,2375,370,2739,803,8,18,80
 National Identity Number. The Chairman	15393
 National Identity Numbers	2355,778,4428
 National Immunization Program Number	10829
@@ -1378,6 +1384,7 @@ National de Santé Numérique	16195
 Nations UIN Unique Identification Number Figures	12327
 Natl Heal Stat Reports Number	12379
 Ndumérique. La Semaine du Numérique	17991
+Needed Resource Number of Estimate Trips First	18887
 Net Change Number	14840
 Network IDs and Logical Channel Numbers	6946
 Network Operators MNP Mobile Numbers Ported	2775
@@ -1394,13 +1401,15 @@ Nowcast-Based Numerical Weather Prediction	12728
 NuMeRI	11210
 Num EMBAJADAS Y CONSULADOS Materiales de Fax	4209
 Num SE	17945
-Number	10,226,324,22,154,35,18,181,68,166,24,36,20,6,414,74,36,4,10,39,18,53,50,721,3,63,97,17,162,553,37,37,36,147,1,55,611,125,23,12,195,13,637,143,3,8,86,449,201,156,169,84,89,7,10,203,407,215,114,960,162,124,6,377,1111,97,34,15,1,4,7,4,1,5,27,10,7,3,24,14,38,11,44,1,12,4,5,144,5,46,12,3,3,20,34,89,54,22,108,330,2,6,3,8,7,1,23,19,29,2,1,4,5,6,15,2,6,26,126,5,40,11,8,1,9,8,12,13,14,79,10,2,2,7,2,10,10,6,4,12,2,14,13,5,8,47,12,21,191,30,163,22,9,29,28,32,16,5,37,236,1,12,1,2,40,5,11,58,40,19,71,319,10,18,32,21,469,41,75,147,19,4,14,13,29,13,17,1,3,4,11,16,13,17,24,14,12,33,5,12,20,6,8,3,5,17,80,2,11,10,5,40,43,55,70,39,13,47,2,7,11,20,2,1,4,35,21,27,3,15,39,1,2,2,7,45,10,10,8,15,87,56,4,22,42,8,36,19,47,65,43,249,178,17,7,67,134,4,35,14,4,20,5,1,4,1,8,7,1,6,14,31,6,11,7,25,36,17,1,2,15,13,30,207,77,17,12,35,238,106,13,8,34,2,52,4,15,29,98,5,16,8,176,41,4,1,4,11,85,1,2,12,46,13,5,22,1,18,52,127,11,5,22,25,8
+Number	10,226,324,22,154,35,18,181,68,166,24,36,20,6,414,74,36,4,10,39,18,53,50,721,3,63,97,17,162,553,37,37,36,147,1,55,611,125,23,12,195,13,637,143,3,8,86,449,201,156,169,84,89,7,10,203,407,215,114,960,162,124,6,377,1111,97,34,15,1,4,7,4,1,5,27,10,7,3,24,14,38,11,44,1,12,4,5,144,5,46,12,3,3,20,34,89,54,22,108,330,2,6,3,8,7,1,23,19,29,2,1,4,5,6,15,2,6,26,126,5,40,11,8,1,9,8,12,13,14,79,10,2,2,7,2,10,10,6,4,12,2,14,13,5,8,47,12,21,191,30,163,22,9,29,28,32,16,5,37,236,1,12,1,2,40,5,11,58,40,19,71,319,10,18,32,21,469,41,75,147,19,4,14,13,29,13,17,1,3,4,11,16,13,17,24,14,12,33,5,12,20,6,8,3,5,17,80,2,11,10,5,40,43,55,70,39,13,47,2,7,11,20,2,1,4,35,21,27,3,15,39,1,2,2,7,45,10,10,8,15,87,56,4,22,42,8,36,19,47,65,43,249,178,17,7,67,134,4,35,14,4,20,5,1,4,1,8,7,1,6,14,31,6,11,7,25,36,17,1,2,15,13,30,207,77,17,12,35,238,106,13,8,34,2,52,4,15,29,98,5,16,8,176,41,4,1,4,11,85,1,2,12,46,13,5,22,1,18,52,127,11,5,22,25,8,62,44,2,18,31,3
 Number 1	11180
 Number Assets	15023
 Number Block	16934
 Number Blocks	16934
 Number Comments	16705,289
 Number Competitions AI	12356
+Number Cost Number Cost	18985
+Number Cost Number Cost Number Cost	18985
 Number County Country	7167
 Number Dependent	12360
 Number Deputy Commissioner of Police	14760
@@ -1481,7 +1490,7 @@ Number of ASFR	12413
 Number of ASYCUDA Declarations Chart	15478
 Number of ATM	7763
 Number of ATM Installed Total Number	16878
-Number of ATMs	7763,10107
+Number of ATMs	7763,10107,1061
 Number of ATMs Per	17870
 Number of Accounts	7763
 Number of Act	439
@@ -1601,6 +1610,7 @@ Number of EAsplanned Number	15574
 Number of EMPs	15372
 Number of ESIA Baseline	7548
 Number of ESIA Short-term KES	7548
+Number of ESMPs	18887
 Number of Early Warning and Rapid Response	17018
 Number of Earth Stations	3641
 Number of Econet	4896
@@ -1995,7 +2005,7 @@ Numious Kiti	7990
 Numoro	7165
 NumÈros	15360,34,16
 Numéo	18356
-Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361,17,147,11,46,159,151,36,49,1354,1,22,14,6,24,3,13,20,68,5,19,50,53,42,24,48,15,10,370,149,1,110,1,839,49,20,8,6,8,9,4,19,1,4,25,5,6,30,5,44,12,57,9,10,39,4,5,31,35,3,43,11,30,15,2,8,21,34,64,27,7,6,7,24,8,41,10,8,41,67,58,1,11,13,44,3,32,25,32,111,11,5,13,4,19,18,14,6,16,270,306,1,124,13,192,96,75,32,4,21,11,34,18,21,26,83,31,17,4,66,30,45,12,16,3,13,6,2,15,6,8,21,2,1,3,1,4,3,5,11,1,2,1,4,12,12
+Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361,17,147,11,46,159,151,36,49,1354,1,22,14,6,24,3,13,20,68,5,19,50,53,42,24,48,15,10,370,149,1,110,1,839,49,20,8,6,8,9,4,19,1,4,25,5,6,30,5,44,12,57,9,10,39,4,5,31,35,3,43,11,30,15,2,8,21,34,64,27,7,6,7,24,8,41,10,8,41,67,58,1,11,13,44,3,32,25,32,111,11,5,13,4,19,18,14,6,16,270,306,1,124,13,192,96,75,32,4,21,11,34,18,21,26,83,31,17,4,66,30,45,12,16,3,13,6,2,15,6,8,21,2,1,3,1,4,3,5,11,1,2,1,4,12,12,606,33,57,40
 Numérique Action N	17824
 Numérique Agence de Gestion du Fonds	17856
 Numérique Allocution du Président	15458
@@ -2039,7 +2049,7 @@ Numérique Samba Diouf	10367
 Numérique Société Malienne de Transmission	17856
 Numérique The Gambia Dr Ismaila Ceesay	17017
 Numérique Transformation	18317
-Numérique URL	18375,1,12
+Numérique URL	18375,1,12,622
 Numérique de Dubaï	17892
 Numérique de Dubaï. Ce	17892
 Numérique des Etablissements	17824
@@ -2074,20 +2084,21 @@ Numériques Cette	13338
 Numériques SMS Short Message Service SPU	16327
 Numériques URL	13338
 Numériques Usages	17824
-Numérisation	1931,76,1374,1205,2,1831,765,471,2143,597,481,99,969,1357,39,1,1090,1097,14,13,13,130,14,34,190,225,52,281,35,185,1110,18,18,123
+Numérisation	1931,76,1374,1205,2,1831,765,471,2143,597,481,99,969,1357,39,1,1090,1097,14,13,13,130,14,34,190,225,52,281,35,185,1110,18,18,123,1005
 Numérisation Lot	18194
 Numérisation Université des Sciences Juridiques	17829
 Numérisation des Archives	4025
 Numérisation des Diplômes	4002
 Numérisation du Conseil	15901
-Numériser	1310,724,1964,27,286,2289,1117,920,594,47,6721,1449,376,495
-Numéro	1780,204,182,1215,71,129,219,933,8,362,428,393,210,820,378,23,300,682,304,2,867,128,1174,1,63,102,602,392,1381,22,15,77,57,166,144,624,25,870,76,32,3,54,37,28,25,83,21,15,158,16,7,28,208,105,75,18,176,27,84,7,111,738,45,283,1,3,2,22,7,13,9,2,10,31,32,37,83,40,15,58,109,2,1,3,31,81
+Numériser	1310,724,1964,27,286,2289,1117,920,594,47,6721,1449,376,495,669
+Numéro	1780,204,182,1215,71,129,219,933,8,362,428,393,210,820,378,23,300,682,304,2,867,128,1174,1,63,102,602,392,1381,22,15,77,57,166,144,624,25,870,76,32,3,54,37,28,25,83,21,15,158,16,7,28,208,105,75,18,176,27,84,7,111,738,45,283,1,3,2,22,7,13,9,2,10,31,32,37,83,40,15,58,109,2,1,3,31,81,777,1
 Numéro CNSS	16249
 Numéro INPP Numéro ONEM	15670
 Numéro Impôt	15353
 Numéro Impôt. Article	15353
 Numéro MSISDN	15885
-Numéro National	3604,158,3951,6119,2,1,84,1542,475,134,1816
+Numéro Na	18926
+Numéro National	3604,158,3951,6119,2,1,84,1542,475,134,1816,1045,68,86,59,57
 Numéro Personnel	6090,3384,163,1,1074,109
 Numéro SDID Article	14911
 Numéro SDID Ingingo	14911
@@ -2116,6 +2127,7 @@ Observatoire Numérique	16699
 Oct-2018. Number	13970
 Office Centrafricain du Numérique	969
 Official Use Only Number	6928
+Once the National Identity Number	18961
 Open Data. Le Code du Numérique	15575
 Operating Procedures TIN Taxpayer Identification Number	18577
 Operational Not Operational Number	3386
@@ -2226,9 +2238,11 @@ Plan Stratégique National de Santé Numérique du Mali	17882
 Plan Stratégique Numérique	3394
 Plan Stratégique Transformation Numérique Education Feuille	17860
 Plan Stratégique Transformation Numérique Education Fond	17860
+Plan Stratégique de Développement du Numérique	18931,2
 Plan Stratégique de Santé Numérique	14622,1314,1946
 Plan Stratégique de Transformation Numérique du Système	17860
 Plan Sénégal Numérique	16641
+Plan Tchad Numérique	18931,2
 Plan de Numérotation	15885
 Plano Nacional de Numera	11518
 Plano Nacional de Numeração	15,11415,1,7353
@@ -2307,6 +2321,7 @@ Question Number	6868
 RANKING BY NUMBER OF CONNECTIONS RANKING	18487
 RC Number	4856,7166
 RCA Numérique	15474
+RECENSEMENT ENTIEREMENT NUMERIQUE	19043
 REDEVANCE HUB NUMERIQUE	16047
 REDEVANCES DE NUMEROTATION	18122
 REFERENCE NUMBER	962
@@ -2464,7 +2479,7 @@ Serial Number of MOH Equipment Model	34
 Series Digits Number Range Allocation	16934
 Service Providers Number of Authorization	18444
 Service du Numérique	7634
-Services Financiers Numériques	10877,1067,1446,4617
+Services Financiers Numériques	10877,1067,1446,4617,1029
 Services Financiers Numériques FSVA Fournisseur de Services	11944
 Services Industrie du Numérique Capital Humain Confiance	17824
 Services Numériques Ministère	17887,5,11
@@ -2480,7 +2495,7 @@ Single Window TIN Taxpayer Identification Number	16631
 Size and Location of Address Numbers	11129
 Size of Price Per Number Band Spectrum	736
 Skills Mix Required Number of Trips Task	10964
-Skills Mix Required Skills Needed Number	15372
+Skills Mix Required Skills Needed Number	15372,3515
 Skills Needed Number	11855
 Skills Needed Number of Staff Weeks Number	15659
 Socia Number	1644
@@ -2510,6 +2525,7 @@ Souveraineté Numérique	6655
 Special Numbering	18444
 Special Numbering Resources	16934
 Special Numbering. These Licensees	3862
+Staff Number of Trips Comments Weeks	18887
 Staff Weeks Number of Trips Comments Task	15372
 Stage Description Number	9237
 Standard Number C	16900
@@ -2523,8 +2539,9 @@ Stratégie Comores Numérique	324,2636,5400,5391
 Stratégie Nationale Santé Numérique	7707
 Stratégie Nationale de Développement Numérique	15746
 Stratégie Nationale de Développement du Numérique	3376,12560
+Stratégie Nationale de Paiement Numérique	18960,246
 Stratégie Nationale de Santé Numérique	7707,6010
-Stratégie Nationale de Transformation Numérique	15936,705
+Stratégie Nationale de Transformation Numérique	15936,705,2526
 Stratégie Numérique	16641
 Stratégie Numérique du Burkina Faso	16641
 Stratégie Services Numériques	16641
@@ -2596,7 +2613,7 @@ Target Number	1228
 Target Target Completion Number	15663
 Tax Account Number	14717,61,6,49
 Tax Agent Registration Number	14833
-Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258
+Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258,221
 Tax Identification Numbers	9570,3430,1484,664,3560
 Tax Payer Identification Number	22
 Tax Reference Number	11276,22
@@ -2607,7 +2624,7 @@ Tax Reference Number and Year of Assessment. Click	11276
 Tax Registration Number	10064
 Taxpayer Category Number of Taxpayers Number of Inactive	17011
 Taxpayer Identification Identification Number for NIL NIL	6921
-Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284,1632,1001,507,1689
+Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284,1632,1001,507,1689,132
 Taxpayer Identification Number Registration	12349
 Taxpayer Identification Numbering System	16601
 Taxpayer Identification Numbers	2744,9885,977
@@ -2651,7 +2668,7 @@ Transaction Reference Number	13333
 Transaction Time and Registration Volume Number	15570
 Transcription Volume Number	14713
 Transformation Numerique	1277,13412
-Transformation Numérique	1218,29,17,438,23,1432,598,120,2108,1685,3324,4648,210,73,1937,19,2,6,3,2,3,1,6,1,2,9,10,24,15,21,8,38,1,6,50,232
+Transformation Numérique	1218,29,17,438,23,1432,598,120,2108,1685,3324,4648,210,73,1937,19,2,6,3,2,3,1,6,1,2,9,10,24,15,21,8,38,1,6,50,232,822,16
 Transformation Numérique Ministère	17844
 Transformation Numérique Sectorielle	17892
 Transformation Numérique URL	15585
@@ -2733,6 +2750,7 @@ Utilization of Numbers	16934
 Utilization of Numbers The Plan	16934
 Utilização de Recursos de Numeração	11430
 Uዝ-FAN Number	14055
+V. Stratégie Nationale de Paiement Numérique	18960
 VALEUR DEVELOPPEMENT NUMÉRIQUE DE TOUS	16641
 VAT REGISTRATION NUMBER OR VAT REGISTRATION	11240
 VAT Registration Number	12400
@@ -2774,6 +2792,7 @@ Year Number of Targeted	16079
 Year Number of Transactions Transacton	12252
 Year Number of Type Approved Equipment Average	12395
 Year Value Indicator Name Number	6579,349
+Yearly Operators ART Number	18887
 ZAMBANKER THE NUMBERS	13532
 ZEMA. Number of ZRCP	1988
 ZOUMAROU Ministre du Numérique	10819

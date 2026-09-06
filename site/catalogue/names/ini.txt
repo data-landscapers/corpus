@@ -163,6 +163,8 @@ Centrally Managed Initiatives of Government	14830
 Centre Initiative	12474
 Centre de Données Intégré National VI.3.3 Initiative	13341
 Century Maritime Silk Road Initiative	13983
+Chairperson Fisheries Transparency Initiative	18950
+Chairperson Transparency Initiative Seychelles	18950
 Challenges Identified Seven Interventions Not Initiated	17139
 Chambre Basse le Projet de Loi de Finances Initiale	14530
 Chatbot Initiative	12740
@@ -220,6 +222,7 @@ Cyber Security Initiatives Cyber	11131
 Cyber Security and Other ICT Legislative Initiatives	13295
 Cybersecurity Initiatives	1777
 Cybersecurity Initiatives. Foreign Affairs	1777
+Código da Iniciativa	18945
 D Initiative	13461
 D4D Initiative for Digital Government and Cybersecurity	886
 DATA FREE FLOW WITH TRUST INITIATIVE	1243
@@ -316,7 +319,7 @@ Digital Malawi Connectivity Initiatives	14395
 Digital Path for Sustainable Green Recovery Initiative	16046
 Digital REACH Initiative Roadmap	14434
 Digital Rights Lawyers Initiative	6770,406
-Digital School Initiative	12975
+Digital School Initiative	12975,6143
 Digital Shield' Initiative	16505
 Digital Transformation Centres Initiative	9137
 Digital Transformation Initiative	2766
@@ -386,6 +389,7 @@ Eric Monde Initié	15692
 Erradication Initiative	11417
 Error When Initiating Obligation	14533
 Establish Consumer Awareness and Safety Initiatives D-12	11857
+Estado... O INIC	18969
 Eswatini Universal Access Initiative	12911
 Eswatini's Mobile Government Initiative	13132
 Ethics Ambassadors Initiative The Bank	11134
@@ -416,6 +420,7 @@ Financial Inclusion Global Initiative	205
 Financial Inclusion Initiatives for Women	940
 Financial Literacy Initiatives	7763
 Fisheries Transparency Initiative	10112,8193
+Fisheries Transparency Initiatives	18950
 Flagship Initiatives	4528,7916,68,1031
 Flagship Initiatives and TWGs	4528,7984
 Fondation Orange Initiative	16628
@@ -517,7 +522,7 @@ Green AI Initiatives Efforts	12675
 Green Legacy Initiative	11664,1,568
 Green Press Initiative	10977
 Green Village Initiative	15578,471
-Grupo de Amigos da Iniciativa	11564
+Grupo de Amigos da Iniciativa	11564,7394
 Guest University Initiative	15249
 HEALTH EQUITY AND POLICY INITIATIVE LTD	3005
 HIGH LEVEL NATIONAL E-GOVERNMENT STRATEGIC INITIATIVES	14965
@@ -589,7 +594,7 @@ INITIAL	1993
 INITIAL Dématérialisation	15936
 INITIAL NATIONAL REPORT	13969
 INITIATION POUR	15488
-INITIATIVE	11940,3643
+INITIATIVE	11940,3643,3402
 INITIATIVE FAIBLE	15583
 INITIATIVE FEMMES DEMANDE REJETEE	998
 INITIATIVE FOR SOCIAL AND ECONOMIC RIGHTS	3005
@@ -650,8 +655,9 @@ Inicial	16965,1836
 Inicialmente	1701,9720,1,24,131,7211
 Iniciar	10750,3,816,5578,1620
 IniciarumNegócio	18772
-Iniciativa	8378,2998,76,79,33,5,449,4857,1876,17
+Iniciativa	8378,2998,76,79,33,5,449,4857,1876,17,177,13
 Iniciativa Africana de Política de Inclusão Financeira	7166
+Iniciativa Global	18958
 Iniciativa Global de Políticas de IA da OCDE	2816
 Iniciativa Privada	16865
 Iniciativa da Sociedade de Informação Africana	15477
@@ -685,7 +691,7 @@ Initial C	13037
 Initial Capital Requirements	12542
 Initial Climate	14158
 Initial Coin Offering	10738
-Initial Coin Offerings	12339
+Initial Coin Offerings	12339,6613,22
 Initial Component	18359
 Initial Conflict of Interest	13037
 Initial Continuity Management	13037
@@ -763,7 +769,7 @@ Initializing... Welcome	17221
 Initially	1246,15,144,444,264,644,346,680,349,72,359,113,220,30,51,517,206,503,502,346,695,574,372,838,372,64,797,2,3,7,54,23,110,169,2,1,20,427,277,34,47,61,3,211,9,43,9,22,73,6,535,307,113,27,60,2,41,334,196,443,327,162,6,542,48,668,773,3,48,53,52,141,73,576,110,649,100,44
 Initially the SRD	2307
 Initials	11276
-Initiate	958,246,573,2084,265,722,6294,120,3,1091,43,681,15,200,25,600,853,4,220,93,383,240,3,1295,131,15,1319
+Initiate	958,246,573,2084,265,722,6294,120,3,1091,43,681,15,200,25,600,853,4,220,93,383,240,3,1295,131,15,1319,455
 Initiate Regular Exchange of Information Among MACs	17011
 Initiate Tax Policy	17011
 Initiate the Security	12512
@@ -780,14 +786,18 @@ Initiation CM1 Cours Moyen	18171
 Initiation of Amendments Any	13948
 Initiation of Criminal Cases	18595
 Initiation of Gridlock Resolution	12364
-Initiative	395,218,176,181,468,116,228,1706,116,106,34,127,236,19,43,132,619,119,56,230,70,188,1,34,52,376,157,14,183,413,353,755,326,277,293,673,617,50,213,395,10,156,69,17,114,3,676,8,122,388,116,170,49,12,287,379,58,89,148,41,191,27,5,123,80,34,288,20,7,111,111,68,3,152,30,193,121,3,171,32,33,8,8,46,36,27,107,1,2,10,123,53,43,146,27,67,180,110,152,2,70,178,14,26,67,54,6,84,12,18,8,201,126,104,228,42,3,194,33,8,11,16,7,49,1,124,34,3,51,2,1,22,14,5,65,11,5,4,8,21,9,3,61
+Initiative	395,218,176,181,468,116,228,1706,116,106,34,127,236,19,43,132,619,119,56,230,70,188,1,34,52,376,157,14,183,413,353,755,326,277,293,673,617,50,213,395,10,156,69,17,114,3,676,8,122,388,116,170,49,12,287,379,58,89,148,41,191,27,5,123,80,34,288,20,7,111,111,68,3,152,30,193,121,3,171,32,33,8,8,46,36,27,107,1,2,10,123,53,43,146,27,67,180,110,152,2,70,178,14,26,67,54,6,84,12,18,8,201,126,104,228,42,3,194,33,8,11,16,7,49,1,124,34,3,51,2,1,22,14,5,65,11,5,4,8,21,9,3,61,280,77,184
+Initiative Africaine	18972
+Initiative Africaine APAI	18926
 Initiative Another	12354
 Initiative Bangui	16184
 Initiative Bangui's Prêt	16184
+Initiative Banque Mondiale GFF	18926
 Initiative Country Implementation Framework	18520
 Initiative Description Horizon	14997
 Initiative Description Horizon Banking	14997
 Initiative Description Horizon Long	14997
+Initiative Desert	18967
 Initiative Digital Policy Matrix	14022
 Initiative Dimension Key Outcome	7763
 Initiative DtP	17894
@@ -836,8 +846,10 @@ Initiative&author	766
 Initiative- Pauvreté	17827
 Initiative-Pauvreté	17827
 Initiative-Pauvreté Environnement	17827
+Initiative. Available	18931
 Initiative. The BRI	16870
 Initiative.21	11964
+Initiative3	18931
 Initiatives	789,110,539,376,888,368,395,1301,478,1093,453,3,143,239,138,45,1,151,241,215,54,871,370,411,516,49,474,7,123,134,156,3,6,84,6,102,525,11,51,29,38,224,4,162,68,9,47,175,257,43,77,24,249,20,13,32,28,43,110,78,36,307,737,131,75,19,493,46,219,1,188,35,24,86,209,371,15,211,1,8,15,66,24,4,41,7,329,84,125,300,4,19,83,77,123,325,45
 Initiatives Activities	17011
 Initiatives CAMPAIGN Co-investment Public	12512
@@ -862,6 +874,7 @@ Initiator for Digital Inclusion	1248
 Initier	13290,11,40,3304,1179,22
 Initié	9550,366,1059,733,3828,2097
 Initiée	2695,265,3999,4108,942,6315
+Instituto Nacional de Estatística. INIC	18946
 Integration Signature Initiatives	14819
 Intelligent Cloud and Computing Resource Initiative	15713
 Intelligent Cloud and Computing Resources Initiative	15713
@@ -900,6 +913,7 @@ La Iniciativa Mundial de Observación Forestal	16875
 Labour Initiatives	13060
 Landmark TECH SPARK Africa Initiative	13469
 Lançar Iniciativas de Inclusão Digital	15689
+Launch AI and Smart Classroom Initiatives URL	19053
 Leadership Support Initiative	11866
 Lei da Iniciativa Nacional de Inteligência Artificial	3519
 Lesotho Climate and Weather Enhancement Initiative	12728
@@ -1052,6 +1066,7 @@ OMS Piliers Initiatives	15720
 ONG Global Initiative	4334
 OPEN DATA PORTAL AND OTHER INITIATIVES	961
 OUTILS PARTIES IMPLIQUEES DATE INITIALE TEMPS	14425
+Objetivo da Iniciativa	18945
 Oferta Pública Inicial	8122
 Official Sign Off INITIAL SIGN OFF	11188
 On-going Initiatives	14058
@@ -1167,8 +1182,12 @@ Project Initiation Document	13185
 Project. Initially	17441
 Projecto UPS Unidades de Alimentação Ininterrupta VBG	11413
 Projet Initiative	17827
+Projet Initiative Francophone	18942
 Projet Initiative Open Data du Burkina	15406
 Projet de Loi de Finances Initiale	16707
+Promotion des Initiatives Communautaires	18931
+Promotion of APICED Community Initiatives	18931
+Promotion of Community Initiatives for Education	18911
 Promotion of Value Chains and Private Initiative	16540
 Proposals of Team Europe Initiatives	13992
 Proposed Team Europe Initiative	970
@@ -1332,6 +1351,7 @@ TITRE II ORGANI SATION ADM INISTRATIVE	15400
 TRANSFORMATION INITIATIVES	11231
 TRCI INIE INS-SODE MINES LONACI Exploitation	2342
 TRUST Consumer Awareness Initiatives Q4	11857
+Tahir Hamid Ngulin. Initialement	19178
 Tanzania Digital Trust Initiative	9452,39,98
 Targeted Rights Initiative	9082
 Tariq Ibnou Ziyad Initiative	8891
@@ -1387,6 +1407,7 @@ USTDA's Global Procurement Initiative	12937
 Um Relatório Inicial	11898
 Under SMART Zambia Initiative	6104
 Under the CGIAR Initiative	18336
+United Nations Girls' Education Initiative	18942
 United Nations Global Compact Initiative	16778
 United Nations High Impact Initiative	18520
 United Nations Sustainable Energy for All Initiative	14947

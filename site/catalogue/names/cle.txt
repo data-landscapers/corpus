@@ -96,6 +96,7 @@ CLEMENT	17438
 CLEOPHAMOR MEDICARE CLINIC Data Controller INST-9301059329A	7167
 CLEOPHAS MWANDIKI MIRITI Data Processor INST-563886EA3E8	7167
 CLERD	11866
+CLERK AND OTHER OFFICES	19161
 CLERK MASTER ENTERPRISE LTD Data Controller	7167
 CLERK MASTER ENTERPRISE LTD Data Processor	7167
 CLES Indicateurs	10847
@@ -181,7 +182,7 @@ Cleaned Taxpayer Register	16944
 Cleaner	11180,4421
 Cleaner Improved	12006
 Cleaners	718
-Cleaning	718,2034,9501,718,414,1353,8,6,1501,647,21,193,43,1630
+Cleaning	718,2034,9501,718,414,1353,8,6,1501,647,21,193,43,1630,124
 Cleaning Campaigns	14738
 Cleaning Hijacked Resources Use	14659
 Cleaning Services	12971
@@ -197,7 +198,7 @@ Cleantech	4722,480,5752,1385,37
 Cleantech and Agritech	12339
 Cleantech and Connectivity	12339
 Cleantech and Mobility	10954
-Clear	28,933,194,6,649,14,164,607,353,10,157,746,667,320,9,107,280,374,47,12,234,521,219,181,104,11,1,600,203,237,37,326,319,171,4,278,120,493,23,96,302,564,285,1,126,3,2,93,5,40,74,513,89,258,87,30,62,11,19,256,11,231,114,220,130,14,117,20,129,411,452,41,109,59,85,26,153,37,130,19,61,128,101,7,124,428,210,598,27,17,1,17,14,8,15,24,107,29,15,43,31,69,3,1216,36,14,3,2,118
+Clear	28,933,194,6,649,14,164,607,353,10,157,746,667,320,9,107,280,374,47,12,234,521,219,181,104,11,1,600,203,237,37,326,319,171,4,278,120,493,23,96,302,564,285,1,126,3,2,93,5,40,74,513,89,258,87,30,62,11,19,256,11,231,114,220,130,14,117,20,129,411,452,41,109,59,85,26,153,37,130,19,61,128,101,7,124,428,210,598,27,17,1,17,14,8,15,24,107,29,15,43,31,69,3,1216,36,14,3,2,118,393,3,34
 Clear Access	11259
 Clear Assignment of Responsibility	14565
 Clear Cybersecurity Strategy	14812
@@ -289,10 +290,11 @@ Clerical Officer	13251
 Clerical Officers	12972,5
 Clerical Support Workers	16266
 Clerical Workers	16266
-Clerk	783,231,269,2604,3034,3392,423,444,1,66,49,557,201,470,22,3,13,67,326,432,174,848,192,126,1,15,25,41,12,3,19,2262,103,358,870
+Clerk	783,231,269,2604,3034,3392,423,444,1,66,49,557,201,470,22,3,13,67,326,432,174,848,192,126,1,15,25,41,12,3,19,2262,103,358,870,457,57,211
 Clerk Assistant Seetul	14841
 Clerk The Clerk	18436
 Clerk Wireless	4896
+Clerk and Deputy Clerk	19161
 Clerk of Court	4896,11939
 Clerk of Parliament	3746,9755,4935,105
 Clerk of Parliament Fiona Kalemba	13134
@@ -363,6 +365,7 @@ Dec Clearer	16032
 Defining Clear and Specific LDN Targets	17157
 Defining Clear and Specific LDN Targets NATIONAL	17157
 Deliver Clean Water and Sanitation	18498
+Deputy Clerk	19161
 Design Clear and Engaging Messages	12675
 Develop Clear Investment Project Design	17260
 Development of Clear Business Cases	14750
@@ -493,8 +496,9 @@ Monitoring and Evaluation Clear	16963
 Mr. Christian Cleon	17260
 Mr. Christian Cleon Mr. Tom Wesley	17260
 Mr. Henry Mutati Mr. Clement Kaula	13477
-Mrs. Tania Isaac Clerk	1333
+Mrs. Tania Isaac Clerk	1333,17585,2,5,18,91,62
 Ms Darshinee Clerk Assistant Naika-Cahaneea	14753
+Ms. Alexandria Faure Deputy Clerk	19173
 Municipality of Port Louis for Clearing Purposes	14738
 Musengimana Clementine	12434
 N. Carpentier and B. De Cleen	11028
@@ -608,6 +612,7 @@ Senior Associate Justice Law Clerk Bailiff	16943
 Services Clerks N	16266
 Set Clear Eligibility and Evaluation Criteria	12675
 Set Clear Goals and Metrics	16963
+SeyID ID-Wallet. Clear	19045
 Single Window for Vehicle Clearance	16996
 Site Clearance Part	13385
 Sky Cleaning Services	17643
@@ -624,7 +629,7 @@ Tanzania Automated Clearing House	5977
 Tanzania Mheshimiwa Cleopa David Msuya	2868
 Taona Jakachira Cleopas	4896
 Tax Clearance	11252,1245,4514,317
-Tax Clearance Certificate	5247,4532,285,343,221,1869,12,346
+Tax Clearance Certificate	5247,4532,285,343,221,1869,12,346,6110
 Tax Clearance Certificate August TAX Newsletter	12855
 Tax Clearance Certificate Fee	18541
 Tax Clearance Certificate Under	12855
@@ -655,6 +660,7 @@ Use of Clean Fuels and Technologies	15247
 VIVANT CLEZ LE No CLEZ	13300
 Vacuum Cleaner	12383
 Valid Tax Clearance Certificate	11252,1429,5,7
+Veronique Bresson Clerk	18886
 WAEMU Automated Interbank Clearing System	10853
 World Bank-Canadian Clean Energy and Forests Climate	12595
 X Cleaner	13097

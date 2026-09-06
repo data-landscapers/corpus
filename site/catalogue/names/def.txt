@@ -59,6 +59,7 @@ Approvals P-7 Site Acquisition Define	11857
 Armed Forces and Nigeria Security and Civil Defence	10254
 Army Taggadum Sudanese Coordination of Civil Defensive	15342
 Army and Defense Agency Sector	8141
+Article Definitions	18985
 Artificial Intelligence Definitions. Retrieved	1243
 Assistant Minister of Defence for Executive Affairs Dr	18173
 Associação Cabo-verdiana de Deficientes	15694
@@ -295,7 +296,7 @@ DEFINITION OF TERMS Administer	13310
 DEFINITION OF TERMS Average SMS	2776
 DEFINITION OF TRUST ARCHITECTURE Trust Architecture	11138
 DEFINITION OF WORDS AND CONCEPTS	14004
-DEFINITIONS	34,4698,512,1663,3500,789,44,617,510,160,15,784,55,263,786,482,487,502,940,95,221,929,33
+DEFINITIONS	34,4698,512,1663,3500,789,44,617,510,160,15,784,55,263,786,482,487,502,940,95,221,929,33,1066
 DEFINITIONS AND ACRONYMS	11298
 DEFINITIONS AND CONCEPTS	16921
 DEFINITIONS AND CONCEPTS FINAL RESULTS	16921
@@ -306,7 +307,7 @@ DEFINITIONS AND INTERPRETATIONS	4896
 DEFINITIONS AND KEY TERMS	9855
 DEFINITIONS AND LEGAL INTERPRETATION	3861
 DEFINITIONS AND OBJECTS OF ACT Clause	12959
-DEFINITIONS ARTICLE	12527
+DEFINITIONS ARTICLE	12527,6658
 DEFINITIONS Accommodation Online Marketplace	3161
 DEFINITIONS Adresse Information	17902
 DEFINITIONS Article	10825,3604,2207,1483
@@ -372,7 +373,7 @@ DefExpo	11579,4585,113,372
 DefExpo India	15119
 DefExpo. Dr. Mamadou Tangara	17241
 Defamation	13739,334,3877,20
-Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50,538,60,213,221,1180,77,2,434,307,243,222,896,308,898,401,117
+Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50,538,60,213,221,1180,77,2,434,307,243,222,896,308,898,401,117,369
 Default Efficient Business Processes Privacy Data	12359
 Default GBB Hosting	10157
 Default Infrastructure Sharing Bring Your Own	12359
@@ -389,6 +390,7 @@ Default2	14726
 Defaulter List	18543
 Defaulting Party	12400
 Defaults	10718,1258
+Defaux	18985
 Defeat	1000
 Defeat Ruto	7869
 Defeating Ruto Anti-Ruto	7869
@@ -401,11 +403,12 @@ Defective Commodities	12900
 Defects	13385,1148,1368
 Defects Liability Period	18543
 Defeito	11461
-Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85,665,396,25,2017,483,93,461,66,179,91,343,14,20,3
+Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85,665,396,25,2017,483,93,461,66,179,91,343,14,20,3,461
 Defence AI Innovation Hub	4528,7984
 Defence Act	11289
 Defence CHAPTER TWENTY FOUR	14409
-Defence Cooperation	13562
+Defence Cooperation	13562,5395
+Defence Cooperation and Maritime Security	19060
 Defence DoJ Department of Justice DPME Department	11261
 Defence Expo	18016
 Defence Expo-2022. Visits	18220
@@ -426,6 +429,7 @@ Defence Minister Baboucarr Ismaila Joof	17088
 Defence Minister Dominic Nitiwul	8595
 Defence Minister Hassan Ali Mohamed Amardambe	15119
 Defence Minister Mr. Ambrose Lwiji Lufuma	13561
+Defence Minister Shri A.K. Antony	18957
 Defence Ministers	16275
 Defence Research and Development Bureau	18129
 Defence Web	9399
@@ -435,6 +439,7 @@ Defence and Internal Affairs	1015,195,10899
 Defence and Public Safety	14664
 Defence and Security	962,698,977,2995,6122,797,29,5,1,5,15,1,51
 Defence and Security Asia	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
+Defence and Security Co-operation	19185
 Defence and Security Committee	8611,4280
 Defence and Security Cooperation	9761,2879
 Defence and Security Cooperation. Summit	12640
@@ -479,7 +484,7 @@ Defendê-las	11072
 Defensa	4209,3839,3695,5605
 Defensa Nacional	17392
 Defensa. Ministerio de Justicia	16965
-Defense	1000,2604,2051,2192,273,4933,40,2380,1415,67,11,9,1508
+Defense	1000,2604,2051,2192,273,4933,40,2380,1415,67,11,9,1508,650
 Defense Command and Control Centre for Cybersecurity	1000
 Defense H.E. Mr. Youssouf Mohamed Ali	13791
 Defense Manufacturing Hospitality	16266
@@ -511,10 +516,11 @@ Deferred Net DNS Participant	12364
 Deferred Net Settlement	12364
 Deferred Retirement	12972
 Defesa	539,255,1643,347,32,3170,3413,1351,680,90,4442,2788
-Defesa Nacional	549,6421,3802,11,786,1218,36,2535,893,2500,37,8
+Defesa Nacional	549,6421,3802,11,786,1218,36,2535,893,2500,37,8,149
 Defesa Nacional Artigo	18751
 Defesa Nacional Portaria	15358
 Defesa Nacional. Assim	18788
+Defesa Nacional. Objetivos	18946
 Defficiency	6729
 Defi Media	6993
 Defiba Ka Ouagadou- Tangali	18077
@@ -543,7 +549,7 @@ Deficiência PNC Plano Nacional de Cuidados ANEXO	15694
 Deficiência. Esta	17178
 Defilement	15845
 Defin-	8602
-Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1,60,10,108,37,96,31,3,306,10,110,387,79,23,109,645,28,78,24,130,21,26,17,34,5,674,439,171,51,221
+Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1,60,10,108,37,96,31,3,306,10,110,387,79,23,109,645,28,78,24,130,21,26,17,34,5,674,439,171,51,221,179
 Define Campaign Objectives	12675
 Define Core Principles	12675
 Define Enterprise Architecture	12359
@@ -577,6 +583,7 @@ Defined Standards	12419
 Defines	396,2662,7850,314,47,1658,258,200,1392,257,726,1354,1681
 Defines the Application Programming Interface	11269
 Defines the Year	7445
+Defini	18896
 Defini9õea Para	11514
 Definiciones	163,16692,9,56,45,9
 Definición	1701,15174,87
@@ -610,7 +617,7 @@ Defining the Conditions	17157
 Defining the Mauritian Broadband Ecosystem	14723
 Defining the RPPI	11286
 Defining the RPPI An RPPI	11286
-Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332,873,1676,990,10,26,50,38,191,334,232,865,1574,1,2,9,1,1,4,5,17,1
+Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332,873,1676,990,10,26,50,38,191,334,232,865,1574,1,2,9,1,1,4,5,17,1,95
 Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,19,11,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,3,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,23,4,6,73,123,2,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,5,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,279,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745,2765,4,3,851,188,529,348,906,96,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1529,45
 Definitely	12214,1173
 Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7,59,29,521,9,134,246,12,557,70,17,31,5,726,37,61,43,3,1,53,6,209,114,419,1173,7,17,24,39,27,190,744,559,27,86
@@ -664,6 +671,7 @@ Definition and Coding Digital ID	10714
 Definition and Interpretation Rationale This Article	8866
 Definition du DLI Modulable	10876
 Definition of Access Way	11129
+Definition of Artificial Intelligence	19079
 Definition of Broadband	18485
 Definition of Child Labour Age	18441
 Definition of Customer Categories Individual	5687
@@ -691,7 +699,7 @@ Definition of SEP Section	3161
 Definition of Sensitive Personal Data	11880
 Definition of Terms	12302
 Definition of Terms Article	12616
-Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3,307,213,130,35,49,6,3,23,14,5,3,112,29,10,132,8,38,119,11,142,125,578,613,10,1,8,35,38,10,223,586,2,868
+Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3,307,213,130,35,49,6,3,23,14,5,3,112,29,10,132,8,38,119,11,142,125,578,613,10,1,8,35,38,10,223,586,2,868,276,15,80,1
 Definitions Article	14870,37,1
 Definitions Artificial Intelligence	13347
 Definitions Asbestos Asbestos	1988
@@ -714,6 +722,7 @@ Definitions PART II NATIONAL STATISTICS SYSTEM	12899
 Definitions PART II STATEMENT OF POLICY	12365,9,593,118,121
 Definitions Retrieval-augmented	12210
 Definitions SCHEDULES Schedule	11956
+Definitions Specific	18904
 Definitions Submissions	4732
 Definitions Terms	16924
 Definitions Universal	16886
@@ -745,7 +754,7 @@ Definição de Necessidades de Implementação	11406
 Definição de Políticas	11457
 Definição de Residentes	18750
 Definição de Trabalho Infantil	18762
-Definições	14,1,524,37,218,1643,1,428,653,755,2188,508,3777,7,1,28,575,1,1,4,1,2,2,1,7,6,1,1,1,18,1,14,11,3,5,5,18,55,2,1,1,8,614,169,459,3,9,3,2655,10,104,1539,7,1655,6,3
+Definições	14,1,524,37,218,1643,1,428,653,755,2188,508,3777,7,1,28,575,1,1,4,1,2,2,1,7,6,1,1,1,18,1,14,11,3,5,5,18,55,2,1,1,8,614,169,459,3,9,3,2655,10,104,1539,7,1655,6,3,131
 Definições CAPÍTULO II	11461
 Definições Os	5169,13584
 Definições Para	6462,4912,527,952,2624,27,634,2614,6,20
@@ -772,10 +781,11 @@ Defy Hate Now	15342
 Defying Sudan's Ongoing Conflict	15284
 Delhi Minister of Defence of The Gambia	17241
 Democratic Deficit	7147
+Demographic Definitions	18989,110
 Departamento da Defesa	11405
 Department and Agency MoD Ministry of Defence MoECC	18512
-Department of Defence	12373
-Department of Defense	5216,71
+Department of Defence	12373,6643,80
+Department of Defense	5216,71,13846
 Deportations Definition	11986
 Deputy Minister of Defence	13591
 Description Digital Defenders Partnership	523,1034
@@ -853,6 +863,7 @@ Fiscal Deficit	12922,34,2030,2119
 Fiscal Deficit ANNEX	17105
 Fiscal Deficit and Financing	13122
 Fishing Defence	2775
+Food Deficit	18904
 Forces de Defense Coordonner	15999
 Forest Definition	17140
 Forças de Defesa	4274,2696
@@ -905,8 +916,9 @@ I. DEFINE THE SCOPE	16867
 I. DEFINITION DES CONCEPTS	15595
 I. DEFINITION DES CONCEPTS ET INDICATEURS	13890
 I. Definitions Article	6612
-ICT Core Sector Indicators and Definition	15372
+ICT Core Sector Indicators and Definition	15372,3515
 IEC Defends Integrity of Process IEC Vice	9315
+II. Definitions	18914
 ILF Drawdown Default TTC	12364
 ILF Reversal Default TTC	12364
 ILFDD ILF Drawdown Default TTC	12364
@@ -935,6 +947,7 @@ IV.7. RELEVER LE DEFI	18291
 IV.8. RELEVER LE DEFI DE REVOLUTION	18291
 Immune Deficiency Syndrome AMICAALL Alliance of Municipal	12970
 Implementation Shall Define Budget Outcomes	8723
+Implicit Price Deflator Table	19038
 Index Definition	17140
 India Africa Defence Ministers Meet	18857
 India-Africa Defence Dialogue	16164,113,964,979
@@ -1009,6 +1022,8 @@ MAPA DE LA DEFORESTACIÓN Y DEGRADACIÓN	16875
 MARGE D'INTERET DEFICITAIRE TOTAL PRODUITS D'INTERETS	18032
 MBITO DE APLICACIÓN Y DEFINICIONES Artículo	16855,110
 ME2 Define	12917
+METHODS AND DEFINITIONS	19099
+METHODS AND DEFINITIONS Estimates	18989
 MINISTERE DE LA DEFENSE	15744,255
 MINISTERE DE LA DEFENSE ET DES	8237,7705,2049
 MINISTERE DE LA DEFENSE NATIONALE	15395,163,186,157,199,77,279
@@ -1041,6 +1056,7 @@ Mauritian Definition	14819
 Maximize Chances of Defeating Ruto	7869
 Members of Defence Forces	12226
 Message Priorities TTC Priority Default Range	12364
+Methods and Definitions	18989
 Micro-nutrients Deficiency Control Program	16867
 Microsoft Defender	8405
 Microsoft and Oracle. The Department of Defence	6477
@@ -1064,6 +1080,7 @@ Ministerio de Defensa Nacional	6841,10124
 Ministerio de Defensa Nacional. Además	16965
 Ministries of Defence	18595
 Ministries of Defense	15473
+Ministro da Defesa	18895,1
 Ministro da Defesa Nacional	4147,11257
 Ministry Of Defense Unveils Information Systems	5270
 Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469,984,284,17,645,1475,138,136,551,224,157,47,280,12
@@ -1224,7 +1241,7 @@ Replacement of Definitive Driving License	12333
 Requirements Definition	9237
 Requirements Requir Data Definition Explanation Example	12360
 Reserve Operation Default TTC	12364
-Resiliência da Defesa Nacional	18788
+Resiliência da Defesa Nacional	18788,157,1
 Responsibility for Data Indicator Name Definition	1284,15638
 Resultados Definitivos	4044,2551,4162,664,1,155
 Resultados Definitivos Empresa Pública	10757
@@ -1278,6 +1295,9 @@ Semana Africana da Administração Pública. Defesa de Purcell	3048
 Senate. Defending	7853
 Senhores Deputados Definimos	15892
 Serviço de Defesa Patrimonial	15526
+Seychelles Defence Force	19063,1
+Seychelles Defence Forces	19060
+Seychelles People's Defence Forces	18914
 Sidi Amar Cherchell Douaouda Aïn Defla	15690
 Software Defined Network	2591,10594
 Software Defined Networks	13185

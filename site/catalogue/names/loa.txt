@@ -3,13 +3,15 @@ ADB Loan KOAFEC	11863
 AF Loan	15601
 AF Loan Agreement	15663
 APL Adaptable Program Loan ARAP Abbreviated	15511,2351
+APL Adaptable Program Loan ART Agence	18887
 ARTICLE II THE LOAN Section	16219
 ARTICLE III CONVERSION OF LOAN TERMS	16219
 Adamfo Loan	8732
-Adaptable Program Loan	1264,15350
+Adaptable Program Loan	1264,15350,2273
 Adaptable Program Loan Project Financing Data	15372
 Adaptable Program Loan. CITCG	15372
 Adaptable Program Loans	17862
+Adjustable Program Loan	18887
 Affirmative Action Loan Scheme	12912
 Affordable Broadband Loan DFC	831
 African Development Bank Guidelines for Conversion of Loan	16219
@@ -25,6 +27,7 @@ Axle Load Control and Road Safety Overloaded	17260
 BILATERAL TIED LOAN	2466,2103
 BU Chinese Loans	1089,60
 Balance of Loans Advanced	17236
+Bank LOA and FM Units	18887
 Bank Loan and Guarantee Agreements	11863
 Bank Nonperforming Loans	10718
 Banks Dec-23 Dec-24 Dec-25 Loan	7763
@@ -167,13 +170,14 @@ Higher Loans Board	12149
 Historical Disbursed Loan	11395,7397
 Home Ownership Scheme and Home Loan Payment	14742
 Home Ownership and Home Loan Payment Schemes	14761
+Housing Loan	18888
 IBRD LOAN	15511
 IBRD Loan No	15411
 IBRD Loan and IDA Credits and Grants	10964
-IBRD Loans	15372
+IBRD Loans	15372,3515
 IBRD Loans and IDA Credit	15411
-IBRD Loans and IDA Credits	15372
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249
+IBRD Loans and IDA Credits	15372,3515
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249,689
 IBRD Total Loan	12980
 IDA EPTC Loan Agreement	6539
 IDA Effectiveness the Loan Agreement of Effectiveness	11417

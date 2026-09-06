@@ -51,6 +51,7 @@ CRM-SAIS.S4 Tier	10721
 CS Mangroves Tier	17140
 CS Natural Secondary Forest Tier	17140
 CS Tier	17140
+CWS. Tier IV	19091
 Capacity Management Policy Tier	10721
 Carvalho Procurement Specialist Yes Mamata Tiendrebeogo	18809
 Catastro Nacional de Tierras	16989
@@ -126,6 +127,7 @@ Global Health Aid Tied	6534
 Global Tier	10764
 Gold Tier	12606
 Green Tier	3693
+H.E. Mr. Sidi Tiemoko Toure	19158
 HRS TIER	11136
 Hosting Our Tier	18748
 Hygiene Tier	10721
@@ -297,7 +299,7 @@ Tier II	969,6794,3018,80,1566,2055,192
 Tier II Data Center	9123
 Tier II Data Centers	15149
 Tier II Full	3184,1,1340,6470
-Tier III	309,583,77,275,614,39,59,259,302,78,218,74,268,31,106,144,25,79,14,50,79,3,8,7,149,186,3,44,188,587,1,50,64,271,549,132,29,200,2,110,93,17,6,6,22,36,25,8,256,56,244,58,28,86,52,29,137,327,11,779,183,26,404,291,470,464,126,26,329,95,886,72,357,14,287,60,704,1172,251,390,135,543,317,345,181,110,741,132,201,16,70,47,80,178
+Tier III	309,583,77,275,614,39,59,259,302,78,218,74,268,31,106,144,25,79,14,50,79,3,8,7,149,186,3,44,188,587,1,50,64,271,549,132,29,200,2,110,93,17,6,6,22,36,25,8,256,56,244,58,28,86,52,29,137,327,11,779,183,26,404,291,470,464,126,26,329,95,886,72,357,14,287,60,704,1172,251,390,135,543,317,345,181,110,741,132,201,16,70,47,80,178,923
 Tier III Carrier Hotel Datacenter	8542
 Tier III Certification of Constructed Facility	4083,12697
 Tier III Certified	10956
@@ -324,12 +326,12 @@ Tier III. Cette	6382
 Tier III. Founded	10506
 Tier III. Free	2517
 Tier III. ICT	1889
-Tier IV	1146,81,662,1175,122,1,105,396,506,928,360,989,109,749,434,988,1548,3386,1074,390
+Tier IV	1146,81,662,1175,122,1,105,396,506,928,360,989,109,749,434,988,1548,3386,1074,390,3942
 Tier IV Community Microfinance Groups	7763
 Tier IV DC	1227,662
 Tier IV Data Center	9123
 Tier IV Data Centers	15149
-Tier IV Data Centre	1722,14448
+Tier IV Data Centre	1722,14448,2921
 Tier IV-certified	7244
 Tier IV-standard	4528,7984
 Tier IV. Elle	8685
@@ -380,6 +382,7 @@ Tiers Payants. Article	15678
 Tiers Single	9123
 Tiers of AI Governance	1814
 Tiers of AI Governance The UNESCO	1814
+Tiers-monde	19148
 Tiers. Any Deployments for Last-Mile	14327
 Ties Boerma	771
 Ties SIM-ID	2433
@@ -389,6 +392,7 @@ Transition Strategy Plan Tier	10721
 Tuberculosis NDP National Development Plan TIER	396
 Typologies Within Tiers65	15164
 UAE Strengthen Trade and Investment Ties	5086
+UN Security Council. People-to-People and Cultural Ties	19060
 UNDP and Senegal Government Strengthen Ties	5834
 USO DE LA TIERRA QUE	16875
 USO DE LA TIERRA QUE SE	16875

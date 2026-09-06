@@ -91,6 +91,7 @@ Comissão Permanente	11443,7308
 Comissão Permanente Título V Governo Artigo	18751
 Comissões Técnicas de Normalização Permanente	11381
 Comité Permanent	13442
+Commencer Permis	19201
 Commercial Building and Land Use Permits	14794
 Commission Permanente Indépendante des Droits	3045,12712
 Commission Permanente des Etudes	15529
@@ -141,6 +142,7 @@ Deputy Permanent Sewetary	16836
 Digital Economy Dr. Brilliant Habeenzu Permanent	13346
 Digitize Key Government Permitting Association of Liberian	17260
 Direct Residency Permits	2115
+Disabled Person's Parking Permit	19090
 Dispute Building Permit Decisions	12389
 Dispute Environmental Clearances and Permits	12389
 Diversas Funcionalidades Sistemas de Permissão Online	11898
@@ -175,7 +177,7 @@ Establishing Nexus and Permanent Establishment	14932
 Estado de Cabo Verde. Permite	7466,8561
 Ethiopia and Permanent Representative	14182
 Executive Permanent Secretary Deputy Permanent Secretary	14738
-Export Permit	18541
+Export Permit	18541,578
 FCTA Permits Intervention	11857
 FUP and Chain Saw Permit	16843
 Family Occupation Permit	14828
@@ -188,6 +190,7 @@ Foreword From the Permanent Secretary	4528,7984
 Freetown. The Permanent Secretary	18517
 Frequency Band Proposed New Permission	736
 GIMS. Permit	11275
+Gainful Occupation Permit	18964,76
 Gaming Permanent Secretary	6938
 Genre. Le Secrétariat Permanent	15383
 Governor Bank of Uganda Permanent Secre-	6938
@@ -205,6 +208,7 @@ II. FRAIS DE DELIVRANCE DE PERMIS	16047
 IV. FRAIS DE DELIVRANCE DES PERMIS	16047
 IV.1.1.8.2 Permissions	10876
 Identification of Persons and Permanent Representative	5579
+Identité Nationale Passeport Carte de Résident Permis	19201
 Import Permit	14753,725,3063
 Import Permit Declaration	17114
 Import Permit Management	13042
@@ -226,7 +230,7 @@ La Comisión Permanente de Política Social	16918
 Land Use Permit	14746,2203
 Laptops for Permanent Secretaries	2779
 Le Bureau Permanent	14537
-Le Secrétaire Permanent	13546
+Le Secrétaire Permanent	13546,5359
 Le Secrétariat Permanent du Conseil National	16616
 Le Secrétariat Technique Permanent	15848
 Le Secrétariat Technique Permanent du Conseil National	18169
@@ -290,6 +294,7 @@ Number of Issued Building Permits	12389
 Nuts Fruits Vegetables Permanent Cash	17043
 OBJET DE LA PROCEDURE Permettre	10876
 OBSERVATIONS Permet	14425
+OHADA. Le Secrétaire Permanent	18905
 Objet Permettre	14537
 Obtain Building and Occupancy Permits	12389
 Obtain Construction Related Permits	12389
@@ -302,10 +307,12 @@ Office of Permanent Secretary Policy Idicator	18532
 Office the Permanent Secretary	18532
 Online Gaming Services Permanent	573
 Online Permitting Systems	12389
+Open Import Permit	19119
 Operating Procedure SP-CNPS Permanent Secretariat	16384
 Operator's Permit	13951
 Operações Permitidas Legenda	11404
 Organigram Senior Chief Executive Permanent Secretary	14835
+Organisation. Le Secrétaire Permanent	18905
 PARTIAL ELECTION IS PERMITTED	4896
 PERMALL Vinayagan Employment Counselling Officer	14770
 PERMANENT	13300
@@ -317,6 +324,7 @@ PERMIS POUR LA CONSTRUCTION DES MARCHÉS	2342
 PERMISSION	13300
 PERMISSION DE VOIR NON OBTENUE	13300
 PERMISSIONS	10975
+PERMIT HOLDERS Effective	18961
 PERMITS	12947,4303
 PORTANT DEUXIEME RENOUVELLEMENT DU PERMIS	17827
 PORTANT PREMIER RENOUVELLEMENT DU PERMIS	17827
@@ -382,7 +390,7 @@ Permanent Secretaries and Accounting Officers. The Committee	16885
 Permanent Secretaries and Equivalent Grades	2779
 Permanent Secretaries and Heads of Agencies	13005
 Permanent Secretaries. CHAPTER FIVE	13399
-Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165,40,3,13,44,19,7,4,31,99,43,16,126,6,132,192,50,547,8,39,38,187,5,21,8,43,6
+Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165,40,3,13,44,19,7,4,31,99,43,16,126,6,132,192,50,547,8,39,38,187,5,21,8,43,6,388
 Permanent Secretary Ally Senga Gugu	5697
 Permanent Secretary Attention	12927
 Permanent Secretary Dr Amina Zawedde	5658
@@ -446,12 +454,12 @@ Permanência	11365,60,55,40
 Permet	14425,1511,2268
 Permettant	14479
 Permette	1187
-Permettez-moi	2695,661,4265,7220,2633
-Permettre	643,362,9871,1068,1346,429,706,1103,14,41,87,15,251,705,5,802,388,46,16,85,314,9
+Permettez-moi	2695,661,4265,7220,2633,1513
+Permettre	643,362,9871,1068,1346,429,706,1103,14,41,87,15,251,705,5,802,388,46,16,85,314,9,682,18
 PermeƩant	17866
 PermiS	15999
 Permilagem	18757
-Permis	2342,1039,788,7428,1763,59,81,837,151,1,1,1509,48,1777,465
+Permis	2342,1039,788,7428,1763,59,81,837,151,1,1,1509,48,1777,465,912
 Permis Annuels	15999
 Permis CI Demande	15936
 Permis CI Dépend	15936
@@ -461,7 +469,7 @@ Permis de Communiquer	10879
 Permis de Conduire	17824
 Permis de Construire MATAC	14475
 Permissible	14880
-Permission	34,702,1005,6864,3351,964,1502
+Permission	34,702,1005,6864,3351,964,1502,4482
 Permission SMS Short Message Service SRS	16631
 Permissionnaire	16612
 Permissionnaires	16612
@@ -505,7 +513,7 @@ Permits for Processing of Personal Data	15484
 Permits for Suppliers and Installers	13951
 Permitted	4302,594,7493,2046,2507,1614
 Permitted Restrictions	13951
-Permitted Use	3972,182
+Permitted Use	3972,182,14750
 Permitting	3502,359,11018
 Petroleum Accreditation Permit	3583
 Policy. Permanent Secretary MINISTRY OF COMMUNITY	13389
@@ -546,7 +554,7 @@ Resident Permit Application	16949
 Resident Permit and Visa	14721
 Residents Permit Fees Posted	12164
 Rights and Permission	10714,51,10,1553
-Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36
+Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36,1025
 Rights and Permissions Rapid	16876
 RoW Permit	11857
 Road Transport Permit and Road Worthiness	5645
@@ -574,14 +582,14 @@ Secretariat Permanent	16144
 Secretary Deputy Permanent Secretary Assistant Permanent	14746
 Secretária Permanente	10140
 Secretário Permanente	12822
-Secrétaire Permanent	11926,1415,64,141,6,22,2675,132
+Secrétaire Permanent	11926,1415,64,141,6,22,2675,132,2524
 Secrétaire Permanent Adjoint	16175,206
 Secrétaire Permanent du CNSP Col. Sahabi Sani	18216
 Secrétaire Permanent du Comité National	17828
 Secrétaire Permanent du Ministère	13341
 Secrétaire Permanente	13549,109
 Secrétariat Exécutif Permanent	13442
-Secrétariat Permanent	4020,7896,1390,69,2276,69,379,517,1226
+Secrétariat Permanent	4020,7896,1390,69,2276,69,379,517,1226,1063,37,108
 Secrétariat Permanent SP	17842
 Secrétariat Permanent Secondaire	11916
 Secrétariat Permanent du CNS	17842
@@ -589,6 +597,7 @@ Secrétariat Permanent du Conseil National	16384,1458
 Secrétariat Permanent du Conseil National de Secours	643,15741
 Secrétariat Permanent du Fonds	17121
 Secrétariat Permanent du PRODESS	17845
+Secrétariat Permanent du Plan Sectoriel	18942
 Secrétariat Permanent. G. OUTILS DE SUIVI	17842
 Secrétariat Technique Permanent	15479,369
 Secrétariat Technique Permanent du Conseil National	18169

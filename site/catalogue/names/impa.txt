@@ -80,6 +80,7 @@ Biodiversity Impacts	1988
 Blind and Visually Impaired	18515
 Body Irembo Impact Story	13396
 Box I.1. Impact	17870
+Budget and Economic Impact	19042
 Business Enterprise Managers Impact of Skill Shortages	12445
 Business Impact Analysis	12538
 Business Impact Analysis Tier	10721
@@ -270,19 +271,22 @@ ESIA Environmental and Social Impact Assessment ESMF	1264
 ESIA Environmental and Social Impact Assessment ESMP	11863
 ESIA Environmental and Social Impact Assessment EU	7548
 ESS2 Assessment and Management of ES Risks and Impacts	12253
+ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL	18985
 ET IMPACT SOCIO-ECONOMIQUE DE LA PANDEMIE	15493
 EU-funded IMPACT	13042
 EVALUATION DES IMPACTS CUMULATIFS	14488,1,1
 EXPECTED IMPACTS	16885
 EXPLORATORY TO OPEN Impact	12241
 Economic And Financial Impact	16902
-Economic Impact	1363,971,9701,6258
+Economic Impact	1363,971,9701,6258,749
 Economic Impact Assessment	14674,446
+Economic Impact InfoCom	19042
 Economic Impact Study	1207,1
 Economic Impact of Broadband	15553,1073
 Economic Impact of Broadband. World Bank	1264
 Economic Impact of Full Fibre Infrastructure	12006
 Economic Impacts of Broadband	15424,129
+Economic Impacts of Broadband.â	18887
 Economic Impacts of Child Marriage	12188
 Economic Impacts of Climate Change	13331
 Economic Impacts of New Technologies	17870
@@ -326,7 +330,7 @@ Environmental Impact Statements. Article	1988
 Environmental Impacts	1988,10265
 Environmental Spatial Impact Total Average Rank	15845
 Environmental and Social Assessment The Environmental Impact	1988
-Environmental and Social Impact Assessment	1988,9692,2330,1401,100,1411,25,167,1004,252
+Environmental and Social Impact Assessment	1988,9692,2330,1401,100,1411,25,167,1004,252,517
 Environmental and Social Impact Assessment ESMAP Energy	11380
 Environmental and Social Impact Assessment ESS Environmental	16384
 Environmental and Social Impact Assessment EU European	17260
@@ -334,7 +338,7 @@ Environmental and Social Impact Assessment Regulations	1988
 Environmental and Social Impact Assessment Report	18543
 Environmental and Social Impact Assessment Template	1988
 Environmental and Social Impact Assessment. Generally	17114
-Environmental and Social Impact Assessments	1867,121,1616,3647,5809,3084,955,15,146,1114
+Environmental and Social Impact Assessments	1867,121,1616,3647,5809,3084,955,15,146,1114,513
 Environmental and Social Impacts	12253,4861
 Environmental and Social Monitoring Plan Potential Impact	12253
 Environmental and Social Risk and Impacts of Hazardous Waste	1988
@@ -511,8 +515,9 @@ INPUTS INVESTMENTS IMPACT OUTCOMES ULTIMATE PATHWAYS	12006
 IV. EVALUATION DES IMPORTANCES DES IMPACTS	14489
 Identification of Potential Impacts	17114
 Identify Impacted Industries	12675
-Impact	395,623,201,125,236,122,126,23,137,292,399,269,209,96,250,228,357,113,19,210,2,540,254,19,175,131,46,228,204,107,653,148,22,79,142,98,377,699,202,73,41,433,30,104,169,28,148,598,538,75,48,7,8,2,16,7,83,11,57,99,5,7,85,11,44,49,193,294,86,18,1,16,12,4,30,8,41,23,100,10,23,16,7,27,56,39,18,2,20,3,6,47,25,36,59,365,6,16,9,132,15,232,5,15,71,43,71,103,303,60,56,61,136,190,31,8,8,1,1,75,1,56,52,181,77,53,12,33,122,4,8,178,30,39,13,36,13,1,26,42,33,8,1,15,2,57,3,2,10,39,3,5,18,37,70,56,35,330,62,505,25,9,56,1,19,32,36,8,95,25,18,103,110,403,50,26,7,4,10,26,10,56,57,85,175,7,23,119,60,288
+Impact	395,623,201,125,236,122,126,23,137,292,399,269,209,96,250,228,357,113,19,210,2,540,254,19,175,131,46,228,204,107,653,148,22,79,142,98,377,699,202,73,41,433,30,104,169,28,148,598,538,75,48,7,8,2,16,7,83,11,57,99,5,7,85,11,44,49,193,294,86,18,1,16,12,4,30,8,41,23,100,10,23,16,7,27,56,39,18,2,20,3,6,47,25,36,59,365,6,16,9,132,15,232,5,15,71,43,71,103,303,60,56,61,136,190,31,8,8,1,1,75,1,56,52,181,77,53,12,33,122,4,8,178,30,39,13,36,13,1,26,42,33,8,1,15,2,57,3,2,10,39,3,5,18,37,70,56,35,330,62,505,25,9,56,1,19,32,36,8,95,25,18,103,110,403,50,26,7,4,10,26,10,56,57,85,175,7,23,119,60,288,145,10,11,43,3,10,41,84
 Impact Across Sectors	4625
+Impact Aide	19002
 Impact Analysis	1000,554
 Impact Analysis Exercise	1554
 Impact Analysis of ICT	16872,103
@@ -616,6 +621,7 @@ Impact Palmarès	4220
 Impact Palmarès C’est	4193
 Impact Palmarès R&D SAS	4193
 Impact Perhaps	18557
+Impact Positionnement du Tchad	19002
 Impact Proposed Mitigation Measures Responsibility A	17114
 Impact Reaches Beyond Women SheConnects	11086
 Impact Report	8001,3993,499,2671
@@ -641,12 +647,13 @@ Impact The University of Eswatini Data Analytics	13077
 Impact UNDP Mauritius Contribution	11332
 Impact UNDP's Lesotho Country Office	12723
 Impact US	11525
+Impact and Community Acceptance CAD4TB	19062
 Impact and Outcomes	14935
 Impact and Outreach	13532
 Impact and Transformation Customer Base	14151
 Impact for Research and Education	3840
 Impact for Research and Education Benefits Expected	3840
-Impact of Artificial Intelligence	2844
+Impact of Artificial Intelligence	2844,16163
 Impact of Broadband	14897
 Impact of C	13998
 Impact of COVID	12333
@@ -717,10 +724,11 @@ Impactful Initiative AFRICA Woman	5551
 Impactful Reforms and Fiscal Consolidation	13122
 Impactful Takeaways	18667
 Impacting	17157
-Impacto	1701,437,646,32,703,2455,1271,637,278,1274,1977,4124,790,762,1676,36
+Impacto	1701,437,646,32,703,2455,1271,637,278,1274,1977,4124,790,762,1676,36,215
 Impacto Ambiental	5663,5120
 Impacto Ambiental Esta	5663
 Impacto Direto	17300
+Impacto Económico	19014
 Impacto Estrutural	11434
 Impacto Social	11406
 Impacto da AI	18796
@@ -731,7 +739,7 @@ Impactos Adversos	11390
 Impactos Ambientais	11406
 Impactos Positivos	11390
 Impactos Socioambientais Objectivo	11542
-Impacts	1005,983,3259,2774,1385,1306,67,50,134,1290,465,542,72,191,900,49,16,1,1,132,315,39,537,2,146,2,52,31,582,556,1,57,172,43,100,861,168
+Impacts	1005,983,3259,2774,1385,1306,67,50,134,1290,465,542,72,191,900,49,16,1,1,132,315,39,537,2,146,2,52,31,582,556,1,57,172,43,100,861,168,702
 Impacts CONTACT POINT World Bank Juan	16675
 Impacts ESS	1867,1737,7164,4893,483,2054
 Impacts Early-Warning System	8202
@@ -788,6 +796,8 @@ Impayés	15901
 Implementation Impact Area	1988
 Implementation Process-wise Impacts	16885
 Implications and Impact Analysis	12935
+Improve Data for Impact URL	18921
+Improve Data for Impact View the National Health	18921
 Inclusivity and Impartiality AI	2958
 Increasing Improvement Increasing Deterioration Impartiality	11870
 Independent Data Protection Impact Assessments	9600
@@ -865,7 +875,8 @@ Mauritania BUILD LOCALLY. IMPACT GLOBALLY	18039
 Measure Impact	12675
 Measuring Jobs Impacts	15138
 Measuring the Impact of Terrorism. Sydney	15715
-Medium Impact	15372
+Medium Impact	15372,3515
+Medium Impact. Upon	18887
 Megatrend Global Impact Opportunity for Eswatini AI	12444
 Mesures Potentiels Impact	15583
 Meta’s Economic Impact	6287
@@ -921,6 +932,7 @@ Once Impact	10964
 Onyekuru BO. Impacts	14666
 Open Data for Social Impact Challenge	11239
 Operational Framework for Sustained Impact	16963
+Opportunities and Impact	19062
 Outcomes and Impacts	18754
 Outcomes of Impact	10856
 Overall Impact Overall	14985
@@ -1075,7 +1087,7 @@ SOCIAL IMPACTS Identify	1988
 SOCIETAL IMPACTS	11156
 SPECIFIC DESCRIPYTIVE IMPACTS	16885
 SPI Value Drought Class Impacts	17157
-STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS	17019
+STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS	17019,1966
 STAKEHOLDERS SAY DATA LOCALISATION WILL IMPACT	9594
 SUR LES IMPACTS DANS LE CADRE	13613
 Safety EIA Environmental Impact Assessment EIS	17114
@@ -1110,6 +1122,7 @@ Social Risks and Impacts Relevant Stakeholder Engagement	1284,9545,135,2367,1,22
 Social and Economic Impact Assessments	4732
 Social and Productive Impacts of Zambia's Child	13332
 Social and Productive Impacts of Zambia’s Child	13332
+SocialÂ ImpactÂ AssessmentsÂ	18887
 Societal Impact	16212
 Socio-Economic Impact Main Article Content Abstract	8671
 Sociocultural Transitions and Developmental Impacts	226

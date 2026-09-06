@@ -13,6 +13,7 @@ ABBREVIATIONS AND ACRONYMS ACTE Agency for Strengthening	15411
 ABBREVIATIONS AND ACRONYMS ACVs Contracting and Auditing	10829
 ABBREVIATIONS AND ACRONYMS ADF ADFI ADDS	13938
 ABBREVIATIONS AND ACRONYMS ADF Automatic Document	34
+ABBREVIATIONS AND ACRONYMS ADSL Asymmetric Digital	18887
 ABBREVIATIONS AND ACRONYMS AF Additional Financing	11417,507,4972
 ABBREVIATIONS AND ACRONYMS AFD Agence Francaise	15969
 ABBREVIATIONS AND ACRONYMS AFD French Development	15659
@@ -44,7 +45,7 @@ ACRESAL	11469
 ACRESCENTADO CAPÍTULO I Disposições Preliminares Artigo	18764
 ACRIAJUDA	12201
 ACRIDES	16305
-ACRONYM LIST	17870
+ACRONYM LIST	17870,1061
 ACRONYMES	15580,159,589,293,1482
 ACRONYMES ABE	16621
 ACRONYMES ACMAD Centre Africain	17873
@@ -179,9 +180,11 @@ Acrescentou	2434,1606,1265,100,569,335,393,7,32,106,119,25,254,812,155,96,1,498,
 Acrew Capital	1547
 Acritical	8602
 Acriticalreviewofusinglearningana-	8602
+Acroissement	18931
 Acronimos	2228
 Acronis Disaster Recovery	14683
-Acronym	3730,8830,524,675,1861,226,2799,79
+Acronym	3730,8830,524,675,1861,226,2799,79,180
+Acronym CD Compact Disk GIS Geographic	18904
 Acronym Definition Acronym Definition ETA Electronic	11986
 Acronym Definition Acronym Definition PI Performance	11986
 Acronym Definition LRB Late Registration of Birth	5533
@@ -209,6 +212,7 @@ Acronyms ACE Africa Coast	11545
 Acronyms ACH Automated Clearing House ACE	16876
 Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1,135
 Acronyms ACQF African Continental Qualifications Framework	14747
+Acronyms ACRA Azione Cooperativa Rurale Africa	18911
 Acronyms AFP	10776
 Acronyms AMEX	11955
 Acronyms AMR ASAI CAIDI CAIFI DIVT	12969
@@ -335,6 +339,7 @@ Aminata Suwa ABBREVIATIONS AND ACRONYMS	16952
 Andrea Vermehren ABBREVIATIONS AND ACRONYMS	18625
 Antetezambaro. Across	14569
 Aqoonsi. Across East Africa	5941
+Area Acres N.B. Where the Lease	18881
 Asia and North America. Across	4972
 Audit Reporting Across Health Facilities. Laboratory	4202
 Audrey Ariss ABBREVIATIONS AND ACRONYMS	18777
@@ -371,6 +376,7 @@ CONTENTS LIST OF ACRONYMS	11586
 CONTENTS List Of Acronyms And Abbreviations	13388
 Cameroon’s GDP Across Sectors	10841
 Centre of Africa's Transformation Across	14139
+Chad Digital Economy Diagnostic ACRONYM LIST	18931
 Children's Emergency Fund ACRONYMS	12947
 Citizen Services Across	14566
 Civil Registration Across Sierra Leone NCRA	18519
@@ -564,6 +570,7 @@ Life Counts Acronyms	12151
 Lifecycle Governance and Proportionality Across	14565
 Linking the Ghana Card Across National Identity	6177
 List of Abbreviations and Acronyms	12944,5568
+List of Abbreviations and Acronyms ATI Access	19042
 List of Abbreviations and Acronyms BCC Budget Call	18512
 List of Abbreviations and Acronyms BDR Births and Deaths	15628
 List of Acronyms	10901,287,1471,1358,727,153,2260
@@ -576,8 +583,9 @@ List of Acronyms Acronym Explanation BMR Bureau	11188
 List of Acronyms BE Level	12175
 List of Acronyms CPE Customer PremisesEquipment MOICI	16886
 List of Acronyms DAP	14915
-List of Acronyms and Abbreviations	2775,12000,2085
+List of Acronyms and Abbreviations	2775,12000,2085,2219
 List of Acronyms and Abbreviations ADI	14775
+List of Acronyms and Abbreviations AGI Artificial	19079
 List of Acronyms and Abbreviations Affirmative Action Chief	12920
 List of Acronyms and Abbreviations BR Birth Registration	16860
 Long Acres	13365,112
@@ -616,6 +624,7 @@ NISR Acronyms	12413
 NSR Coverage Across Nigeria The Nigeria	12020
 Natalija Gelvanovska-Garcia. ABBREVIATIONS AND ACRONYMS	11965
 Nations Population Fund ACRONYMS FINAL RESULTS	16921
+Nature of Title Parcel No. Area Acres	18881
 Negotiating Across Institutions AfCFTA	10555
 Nerve Across	17069
 Nerve Across the Country A Gambian Singer	17069
@@ -736,7 +745,7 @@ Systems Across Africa TechAfrica News	4225
 TABLE DES MATIERES I. Acronymes	13306
 TABLE OF CONTENTS ABBREVIATIONS AND ACRONYMS	11417
 TABLE OF CONTENTS ACRONYMS	11860,1200,1797,72
-TABLE OF CONTENTS ACRONYMS AND ABBREVIATIONS	12973
+TABLE OF CONTENTS ACRONYMS AND ABBREVIATIONS	12973,5937
 TABLE OF CONTENTS Acronyms	11136
 TABLE OF CONTENTS Acronyms and Abbreviations	11271
 TABLE OF CONTENTS LIST OF ACRONYMS	1009,4524,8432,2986
@@ -747,9 +756,10 @@ Table of Contents ABBREVIATIONS AND ACRONYMS FOREWORD	13982
 Table of Contents ACRONYMS	6432,6544,5394
 Table of Contents ACRONYMS AND ABBREVIATIONS	16978
 Table of Contents Abbreviations and Acronyms	10718,123,7659
-Table of Contents Acronyms	396,10797,1470,4281
+Table of Contents Acronyms	396,10797,1470,4281,1967
 Table of Contents Acronyms and Abbreviations	6832
 Table of Contents LIST OF ACRONYMS	14947
+Table of Contents List of Abbreviations and Acronyms	19042
 Table of Contents List of Acronyms	13998,744
 Tanya Savrimootoo ABBREVIATIONS AND ACRONYMS AFD	15661
 Targets Digital Access Across Liberia	10406

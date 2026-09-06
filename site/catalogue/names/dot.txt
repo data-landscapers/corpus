@@ -49,7 +49,7 @@ Dotación de Fondos Especiales	4209
 Dotado	11427
 Dotan R	9739
 Dotar	15470,6,1422,280
-Dotation	1319,1,1,4,690,28,1,1,1,920,1189,165,1,1,1,2636,4016,3450,64,1,1093,139,2,296,27,1438,332,25,130,150,169
+Dotation	1319,1,1,4,690,28,1,1,1,920,1189,165,1,1,1,2636,4016,3450,64,1,1093,139,2,296,27,1438,332,25,130,150,169,651
 Dotation Commission	16047
 Dotation Conseil	16047
 Dotation Cour	16047
@@ -62,13 +62,13 @@ Dotation de Fonctionnement	15670
 Dotation de Fonctionnement Recette	15670
 Dotation de Fonctionnement Recettes	15670
 Dotation du Data Center	15583
-Dotations	15670,674,1688
+Dotations	15670,674,1688,910
 Dotations CSB	14568
 Dotations Réalisations Prévisions Taux	2966
 Dotação	1338,14718
 Dotação Provisional	16056
 Dotações	2295,9087,7391
-Doter	2966,7910,89,2376,497,1552,84,68,82,224,90,61,499,209,1138,27,10,3,406,6,9
+Doter	2966,7910,89,2376,497,1552,84,68,82,224,90,61,499,209,1138,27,10,3,406,6,9,578,104
 Doter BENIN IX	15592
 Doter des Cartes	13341
 Doter la CDPFIS	17845
@@ -112,6 +112,7 @@ Maître DOTH SAMBA	16413
 Mheshimiwa Dkt. Dotto Mashaka Biteko	2868
 Monochrome USB Dot	34
 Nigeria. Dotée	10332,1
+Noor Tchad. Dotée	19001
 ONECI. Doté	9717
 Objectifs Doter la République de Guinée	16747
 Port-Soudan. Doté	4919

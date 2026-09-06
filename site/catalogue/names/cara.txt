@@ -74,7 +74,7 @@ Caractere Personnel. Tags	4237
 Caracteristicas	574
 Caracteriza	11385
 Caracterizar	15564
-Caracterização	2138,1906,6739,601,37,59,51,38,332,32,6842
+Caracterização	2138,1906,6739,601,37,59,51,38,332,32,6842,239
 Caracterização Demográfica	4044,7377
 Caracterização Geral	10783
 Caracterização Regional	11406
@@ -110,6 +110,7 @@ Caractère Personnel. Cette	16617
 Caractère Personnel. Le Commissaire du Gouvernement	17831
 Caractère Personnel. Le Secrétariat Général	548
 Caractère Personnel. Tout	16617
+Caractère Personnel. Voir La Loi N	19202
 Caractère Personnel.32	10822
 Caractère Scientifique	12,17833
 Caractères	17972
@@ -216,6 +217,7 @@ Caravane	8695,196,7116,1817,500
 Caravanes	15848
 Caravanismo	11458
 Caravelle	8999
+Caravelle House	19100
 Caraíbas	18866
 Caraïbes	3045,5846,6866,91,53,198,76
 Cargados Carajos	14742

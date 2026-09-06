@@ -45,6 +45,8 @@ CAPI Computer-Assisted Personal Interview CCT Census	16921
 CAPMAS Population Census	15473
 CENSTARs	12999
 CENSUS	9485,8979
+CENSUS ACT	18943
+CENSUS ACT Revision	18943
 CENSUS M	18464
 CENSUS OF AFFECTED ASSETS	17114
 CENSUS OF POPULATION	12431
@@ -95,8 +97,8 @@ Censores de Cuentas	4209
 Censorship	6562,11235
 Censorship and Entertainments Control Act	6951
 Censos	2816,8605,25,131,5321
-Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30,262,10,5,7,42,153,816,266,181,87,88,31,16,59,29,388,287,272,156,332,332,11,4,7,18,29,29,93,71,1329,21,62
-Census Act	12551
+Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30,262,10,5,7,42,153,816,266,181,87,88,31,16,59,29,388,287,272,156,332,332,11,4,7,18,29,29,93,71,1329,21,62,425,38,29
+Census Act	12551,6392,8
 Census Cartographer	16921
 Census Christian Muslims African	16921
 Census Commission	16921
@@ -172,7 +174,7 @@ Census for Population Statistics	16863
 Census of Affected Persons and Assets	17114
 Census of Agriculture	14818
 Census of Business Establishment	18475
-Census of Economic Activities	14777
+Census of Economic Activities	14777,4241,85
 Census of Egypt	15473
 Census of Population	10826
 Census of Population and Housing	1867,10542,22,936
@@ -305,6 +307,8 @@ Libya and Census Census	16863
 Libyan Bureau of Statistics and Census	16902,255
 L’organisation du Censorat	15594
 MID-TERM POPULATION AND HOUSING CENSUS	18464
+Main Census Report	18951
+Main Census Report URL	18951
 Malawi Census	262,11913
 Malawi Population and Housing Census. Main Report	12175
 Management of Population and Housing Censuses	4040,4,7377,25,131
@@ -375,7 +379,7 @@ Population Census Commission	13948
 Population Census Preliminary Report	11905
 Population Census Team	12413
 Population Change Between the Various Census Years	16921
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38,463,110
 Population and Housing Census Affar	14005
 Population and Housing Census Country Level	14005
 Population and Housing Census Dire Dawa	14005
@@ -384,6 +388,7 @@ Population and Housing Census Gambella	14005
 Population and Housing Census Harari	14005
 Population and Housing Census Main Report	12963,155
 Population and Housing Census Main Reports	14005
+Population and Housing Census QLFS Quarterly Labour	18951
 Population and Housing Census SNNPR	14005
 Population and Housing Census and National Energy Use	12551
 Population and Housing Census for Affar Region	14005
@@ -427,6 +432,7 @@ Segundo Censo General Agrícola de Existencia	16898
 Segundo Censo General Agrícola de GE	16898
 Services Survey and Census Conducting the Bureau of Annual	16863
 Sex of Household Head Censored	15244
+Seychelles Population and Housing Census	18951
 Sierra Leone Population and Housing Census Updated	18441
 Sierra Leone for Censuses and Surveys	18464
 Sierra Leone. A Pilot Census	18464

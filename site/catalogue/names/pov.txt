@@ -45,13 +45,14 @@ Community Poverty Reduction Fund	12970
 Conditions de Vie des Ménages. The Oxford Poverty	16384
 Confronting AI Poverty	10726
 Congo. Poverty	15513
+Context of Food Security and Poverty Eradication	18985
 Controllers PRSAP Poverty Reduction Strategy and Action	12975
 Coordinating Unit PRMED Poverty Reduction	12962
 Counting and Multidimensional Poverty Measurement	15244
 Critical for Reducing Poverty	16436
 DENARP Second Poverty Reduction Strategy Paper	11525
 Dados ADPP Ajuda de Desenvolvimento de Povo	11390
-Department of Poverty Alleviation	7859
+Department of Poverty Alleviation	7859,11237
 Department of Poverty Reduction and Social Protection	13199
 Director Poverty Reduction and Social Protection Division	12980
 Disability PRSP Poverty Reduction Strategy Paper	15244
@@ -127,7 +128,7 @@ MCDWD and Poverty Rate MCDWD	10763
 MONITORING AND EVALUATION UNIT The Poverty	12962
 MPI. Poverty	15244
 MULTIDIMENSIONAL POVERTY AND SOCIAL PROTECTION ASSISTANCE	11998
-Macro Poverty Outlook	10768,2564,4538
+Macro Poverty Outlook	10768,2564,4538,1061
 Macro Poverty Outlook Fall	18293
 Madagascar Macro Poverty Outlook	14576
 Madagascar Macro Poverty Outlook. Page	14576
@@ -192,6 +193,7 @@ POVERTY AND ECONOMIC EMPOWERMENT	13399
 POVERTY ERADICATION	12373
 POVERTY REDUCTION	12962
 PRSP Poverty Reduction Strategy Paper PSDS	16861
+PRSP Poverty Reduction Strategy Paper PSTN	18887
 PRSP Poverty Reduction Strategy Paper RFQ	11525
 PSC Project Steering Committee PRSP Poverty	18765
 Paesi Emergenti CPRF Community Poverty Reduction	12970
@@ -199,8 +201,8 @@ Participatory Performance Monitoring PRSP Poverty Reduction	16852
 Partnership PRSP Poverty Reduction Strategy Paper	17862
 Pivotal Moment for Poverty Reduction	10985
 PovCalNet	18293
-Poverty	761,208,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5,151,103,229,57,24,11,295,12,57,74,160,34,184,27,23,34,41,32,136,135,119,23,16,2,147,221,86,221,198,42,674,189,93,61,26,32,82,23,64,15,52,54,267,42,48,57,3,2,182,187,261,609,49,45,293,580,37,198,94,103,157,166,14,116
-Poverty Alleviation	16861
+Poverty	761,208,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5,151,103,229,57,24,11,295,12,57,74,160,34,184,27,23,34,41,32,136,135,119,23,16,2,147,221,86,221,198,42,674,189,93,61,26,32,82,23,64,15,52,54,267,42,48,57,3,2,182,187,261,609,49,45,293,580,37,198,94,103,157,166,14,116,133,17,29
+Poverty Alleviation	16861,2155
 Poverty Alleviation Funding Facility	11579
 Poverty Alleviation and Empowerment Recurrent Expenditure	14835
 Poverty Assessment	1867,8896,222,2538,2138
@@ -348,6 +350,7 @@ T Ministry of Poverty Eradication and Social Services	12327
 Technical Note. Multidimensional Poverty Index	15244
 Third Poverty Reduction Strategy Paper	17862
 Thèmes Mots-clés Poverty Living	13804
+UN Multidimensional Poverty Index	18910
 UNDP Sudan The Sudan Multidimensional Poverty	15244
 Unit PPP Poverty Reduction Strategy Paper	15424
 Units Targeting the Multi Dimension Poverty Food	15578

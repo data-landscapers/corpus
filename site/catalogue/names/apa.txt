@@ -12,7 +12,7 @@ APAC AI	8263
 APAC Niger	18144
 APACE	4941
 APAI CRVS	12219
-APAI-CRVS	171,9364,4,3,6,33,56,1,1899,830,305,333,672,1922,883,1992
+APAI-CRVS	171,9364,4,3,6,33,56,1,1899,830,305,333,672,1922,883,1992,452,7
 APAI-CRVS Africa Programme	11537
 APAI-CRVS Africa Programme For Accelerated Improvement	12413
 APAI-CRVS African Programme for Accelerated Improvement	15056
@@ -84,6 +84,7 @@ GoC. Apart	15553
 Government. Apart	11854
 Grievance Mechanism Apart	17099
 Hadoop and Apache	13021
+Initiative Africaine APAI	18926
 Items of Information and Related Concepts Apart	12445
 Jean-Paul Apata	9923
 Loïc APANGA	16175

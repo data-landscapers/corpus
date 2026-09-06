@@ -1,13 +1,16 @@
 ACT Repeal	3714
 ACT TO REPEAL P RC	16841
 ACT TO REPEAL PRC DECREE	16841
-Act. Repeal	1333,9845
+ACT TO REPEAL THE HEALTH	19059
+Act. Repeal	1333,9845,7708,287
+Act. Repeal of Cap	18920
 Amendment and Repeals	14647
 Amendments and Repealers	14647
 Annual Report Regulations Repeal Passed	18465
 Balanced Repeated Replication	11296
 Base I Repeater Station Details Type	736
 Cyber Security Regulations Repeal of Act No	2727
+DE L'ADRESSAGE OFFICIEL AUX REPERES POPULAIRES	19148
 DONNEES DU REPERTOIRE PAR LE SERVICE	17814
 Estruturas de Repetição	15564
 Gazette. Repeal	11182
@@ -17,17 +20,23 @@ Law Repealing EWSA	14947
 Law Repealing the Energy Water and Sanitation	14947
 Le SB-5-52-5 AN ACT TO REPEAL	16841
 Liberia-NIR-Act-2011.pdf AN ACT TO REPEAL PRC	16841
+MALARIA ACT Repeal of Malaria Act	18943
+MEDICAL APPEAL BOARDS ACT Repeal of Medical	18943
 MIPD and Repertoire	14713
 Namibia Zambia Repeat	418
 National Assembly. Regulations Repea	12549
 Number of Repeaters Number of Outstations Simplex Duplex	736
+PARASTATAL CORPORATIONS ACT Repeal	18943
+PART II REPEAL AND SAVINGS	19059
 PROSTATIQUE EXTRAIT PYGEUM AFRICANUM SERENOA REPENS	15930
 PROVISIONS Title and Commencement Repeal and Saving Purpose	18675
 President. Repeal and Saving	18675
 Provisions Repealed	16851
-REPEAL	14493
+REPEAL	14493,4395,171
+REPEAL AND SAVINGS	19059
 REPEAL AND TRANSITIONAL PROVISIONS	14410
 REPEAL OF LAWS AND COMMENCEMENT	3714
+REPEAL THE MALARIA ACT	18943
 REPEALED AND AMENDED ACTS	16835
 REPEALING ORGANIC LAW Nº	14862
 REPEALS AND TRANSITIONAL PROVISIONS	12459,6097
@@ -35,10 +44,11 @@ REPEALS AND TRANSITIONAL PROVISIONS. Repeal	12459
 REPEC	18077
 REPERTOIRE DES LOCALITES ET DES POPULATIONS	13890
 REPERTOIRE DES ORGANES DE PRESSE ET	13324
+RePER	18972
 RePEc	18318
 Reducing Repetition	12411
 Regulations PART XIV- Repeal	12531
-Repeal	783,550,2381,1018,1889,300,911,1828,1518,4,8,90,271,300,1,522,73,196,247,5,3,1,7,13,19,29,73,166,144,146,1231,16,81,28,32,23,1932,411,46,654,485,24,3,1,2,91,126
+Repeal	783,550,2381,1018,1889,300,911,1828,1518,4,8,90,271,300,1,522,73,196,247,5,3,1,7,13,19,29,73,166,144,146,1231,16,81,28,32,23,1932,411,46,654,485,24,3,1,2,91,126,206,5,25,25,116,14,100
 Repeal Article	14907
 Repeal PRC Decree	16841
 Repeal Schedule Schedule	17249
@@ -55,30 +65,35 @@ Repeal and Amendment of Acts	16835
 Repeal and Amendment of Acts Schedule B	16835
 Repeal and Enactment	6871
 Repeal and Interpretation	14854
+Repeal and Replacement of Part V	18918
 Repeal and Saving	15340,3256,2,4,2,5
 Repeal and Saving Any	18598,7
 Repeal and Saving Upon	18593
 Repeal and Saving. Any	18596,3,3,6,1
 Repeal and Savings	17243,7,1213,131
 Repeal and Savings PUBLIC UTILITIES REGULATORY AUTHORITY	17243
-Repeal of Act	11179,7287
+Repeal of Act	11179,7287,420,173
 Repeal of Act No	2727,10612,32,32
 Repeal of ActNo	18466
 Repeal of BID-19 APPENDIX A APPENDIX B	12967
-Repeal of Cap	12531,18,81,675,261,927,101
+Repeal of Cap	12531,18,81,675,261,927,101,4326
 Repeal of Cap. N21	12145
 Repeal of Cap.17	12530
 Repeal of Laws and Short Title	512
+Repeal of Malaria Act PART	18943
+Repeal of Medical Appeal Boards Act PART	18943
 Repeal of Part	13501
 Repeal of Prior Regulations	14891
 Repeal of Repressive Legislation	13313
+Repeal of S.I	18929
 Repeal of Section	18541
+Repeal of Seychelles Security Guards Service Pension	18943
 Repealed	3,11567,3143,3,3,1,3207,667
 Repealed Article	14124
 Repealed Laws	12146,80,1724
 Repealed and Inapplicable Laws	14113
 Repealing	1214,13644,3,1,1,4,3,23,18,8,7,155,45,51
-Repeals	11,576,149,10525,596,508,94,626,200,1243,119,2461
+Repeals	11,576,149,10525,596,508,94,626,200,1243,119,2461,1784
 Repeals Access	13316
 Repeals Companies Act	13311
 Repeals Controversial Telecom Ownership Regulations NetOne	2987
@@ -95,7 +110,7 @@ Repeatable	1824,10431,3458
 Repeated	163,1200,465,3288,1103,852,2991,663,251,898,7,465,154,961,1703,2421,1101
 Repeated SLA	6432
 Repeatedly	7151
-Repeater	12933,4317
+Repeater	12933,4317,1637
 Repeater Handset	17250
 Repeater. Aeronautic	17250
 Repeater. PART D	17250

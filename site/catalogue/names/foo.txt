@@ -14,7 +14,7 @@ Accommodation and Food	18483
 Accommodation and Food Service	2775
 Accommodation and Food Service Ac-	2775
 Accommodation and Food Service Activities	14840
-Accommodation and Food Services	2775,10873,1437
+Accommodation and Food Services	2775,10873,1437,3953
 Accommodation and Food Services and Other Service Activities	15085
 Accomodation and Food Services	2775
 Acute Food Insecurity Situation	3583
@@ -81,6 +81,7 @@ Cash NDMA-PR-09 WV Food for Assets	12977
 Cash NDMA-PR-13 Targeted Food Assistance	12977
 Central African Republic Emergency Food Crisis	16398
 Chad’s West Africa Food System Resilience	17613
+Children’s Fund WFP World Food Programme	18911
 Climate and Environment Agriculture and Food Security	13685
 Climatic Shocks and Food Security	10763
 Climatic Shocks and Food Security Figure	10763
@@ -100,6 +101,7 @@ Consumption Score FES Food Expenditure	17285
 Consumption of Healthy Food Groups	17127
 Consumption of Traditional Small Protein Foods	17127
 Consumption of Unhealthy Food Groups	17127
+Context of Food Security and Poverty Eradication	18985
 Context of National Food Security	10960,7333
 Context of National Food Security TABLE	18293
 Contributing Practice Areas Agriculture and Food	1867,16331
@@ -109,6 +111,7 @@ DRIVERS OF FOOD INSECURITY	17285
 Deepen Digital Footprint	2716
 Desenvolvimento da Primeira Infância Efeito de Desenho Food	10777
 Development Authority FAO Food and Agriculture Organization	17043
+Digital Footprint	19007
 Digitalisation of Food Assistance	15220
 Digitalising Food Assistance	15220
 Director Public Health and Food Safety Lead	14773
@@ -192,6 +195,7 @@ Food Bank The Goal for Zero Deaths	12448
 Food Bank URL	12448
 Food Bank and Marginalised	12448
 Food Basket	6947
+Food Beneficiaries	18904
 Food Chain This International Standard	16900
 Food Commodities Prices Death	16902
 Food Communi-	2775
@@ -208,6 +212,7 @@ Food Consumption Scores The FCS	12978
 Food Crisis	15589
 Food Crisis Unit	18198
 Food Crops and Related Items	2775
+Food Deficit	18904
 Food Distribution	12970
 Food Expenditure	17285
 Food For Work	18198
@@ -257,7 +262,7 @@ Food Safety and Quality Authority	16927
 Food Safety and Quality Authority GBoS Gambia	16927
 Food Safety and Wellness	14818
 Food Safety and Wellness Crop Nutrition	14818
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180,1094,82,282
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180,1094,82,282,161
 Food Security CBG Central Bank	17285
 Food Security CHAPTER NINETEEN	14409
 Food Security Classification	17285
@@ -341,7 +346,7 @@ Food and Agriculture Laboratory Items	14736
 Food and Agriculture Organisation	9136,5585,2380
 Food and Agriculture Organisation F.P	13377
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63,927,8,8,216,42,2,1,49,54,4,6
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63,927,8,8,216,42,2,1,49,54,4,6,231
 Food and Agriculture Organization FBO Faith Based	2775
 Food and Agriculture Organization FIRMS Fishery Resources	17157
 Food and Agriculture Organization of United Nations	12667
@@ -401,7 +406,7 @@ Footer	2674,9674,1
 Footer Accessibility	10919
 Footer Help Section	11877
 Footnote	1243,1670,1763,1024,4039,1046,129,967,105,316,1157,1205,2296,813,7
-Footnotes	766,5,490,856,1674,648,75,456,1564,547,106,1249,2877,878,1270,3258
+Footnotes	766,5,490,856,1674,648,75,456,1564,547,106,1249,2877,878,1270,3258,2202
 Footnotes Authors' Contributions	14666
 Footnotes Funding	10881
 Footnotes Publisher’s Note Springer Nature	12255
@@ -412,7 +417,7 @@ Forestry Service Central Electricity Board Food	11332
 Forestry and Food Security	18578
 Fowl Pox Foot and Mouth Disease	17043
 Fund Integrated Food Security Phase Classification	11136
-GIEWS Food Price Monitoring and Analysis	16464,708
+GIEWS Food Price Monitoring and Analysis	16464,708,1882
 Gambia Dutch Lions FC Expands Football	10070
 Gambia EA Enumeration Area FCS Food	17285
 Gambia Food Security Survey	17285
@@ -469,6 +474,7 @@ Introduction of Complementary Foods	15247
 Investing for Food and Job	789
 Ivoire Tech Footprint	7430
 Jaipur Foot	17240
+January-2026 FOOD SECURITY SNAPSHOT Cereal	19054
 Joint Food Security Monitor	18645,79
 Joint Food Security Monitor Subtitle	18645,79
 June-2026 FOOD SECURITY SNAPSHOT	16464
@@ -611,6 +617,7 @@ Plastic Coat Footwear and Shoe Photo-Illustration	6517
 Poverty.44. Gender.45. Food	14410
 Prevention and Management of Food Crisis	18104
 Previous Previous Addressing Food Security	12366
+Procurement of Food	19063,1
 Professional Services Capital Goods Food	4972
 Project Steering Committee SAP Food Security	17962
 Proof of Delivery Food and Drug Administration	4153
@@ -714,7 +721,7 @@ Union FAO Food and Agriculture Organization FMC	17105
 Union FIFA Fédération Internationale de Football Association	17260
 United National Children’s Fund World Food	15601
 United Nations Agencies for Food and Agriculture Ambassador	14890
-United Nations Food and Agriculture Organization	13094,2035,1841,1134
+United Nations Food and Agriculture Organization	13094,2035,1841,1134,881
 United Nations Food and Agriculture Organization19	10763
 United Nations World Food Programme	10768,2194,650
 United Nations World Food Programme Rome	18683
@@ -753,10 +760,11 @@ World Food Program WHO World Health	15415
 World Food Program WHR Window for Host	10841
 World Food Program and GCA	17257
 World Food Program-operated	11924
-World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57,198,474,87,30,174
+World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57,198,474,87,30,174,211
 World Food Programme Foreword	15604
 World Food Programme Methodology	14141
 World Food Programme Methodology Rainfall	15232
+World Food Programme Methodology The Normalized	19080
 World Food Programme PANA	18309
 World Food Programme WHO World Health	17105
 World Food Programme ZEMISO	12175

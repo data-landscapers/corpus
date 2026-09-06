@@ -25,7 +25,7 @@ Aggravating Circumstances of Common Law Offences Under	15374
 Aggravation	13325
 Aggreg8a.t1ioAngMgroedgealtion Model	10157
 Aggreg9a.2teAdgPgrorecguaretemdePnrtocurement	10157
-Aggregate	10,520,642,191,584,7370,296,146,303,95,607,11,365,672,535,2389,250,1872,246,89,64,59,105,897,158,67
+Aggregate	10,520,642,191,584,7370,296,146,303,95,607,11,365,672,535,2389,250,1872,246,89,64,59,105,897,158,67,442
 Aggregate Case Notifications	11912
 Aggregate Cases Entered	11912
 Aggregate Data Exchange Standard for Aggregate Data	12143
@@ -38,7 +38,7 @@ Aggregate Reports	13910
 Aggregate SSA ODC	712
 Aggregate Technical	12062,6124,31
 Aggregate Technical Commercial	12399
-Aggregated	299,714,5413,3731,1073,2080
+Aggregated	299,714,5413,3731,1073,2080,5653,22
 Aggregated Deprivation Cutoff	15244
 Aggregated Digital Platform for Agriculture for Supporting	17761
 Aggregated Financials	1944
@@ -83,6 +83,7 @@ Data Aggregation and Analysis	4528,7984
 Description Aggregate of USTDA	1172
 Digital Address Data Aggregators	16915
 ERA5-Land Daily Aggregated	17001
+ERS Aggregated	18985
 Evans Aggrey Darko	9730
 Evans Aggrey Darkoh	8950
 Evans Aggrey-Darkoh	8369,2

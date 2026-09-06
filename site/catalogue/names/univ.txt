@@ -8,6 +8,7 @@ AFRICA UNIVERSITY College of Business	13368
 AFRICAINE POUR LE DÉVELOPPEMENT UPA-S UNIVERSITÉ	18170
 AFRICAN DEVELOPMENT UNIVERSALIS ANAB AGENCE NATIONALE	18143
 AGA KHAN UNIVERSITY HOSPITAL	7167
+AGRICULTURAL SYLLABI UNIVERSITIES	18910
 AI Trust and Universal Communication Access Project	2359
 AI University	5871
 AI University Innovation Pod	7474
@@ -48,7 +49,7 @@ Accès Universel Conteneurisés Projet	18079
 Accès Universel Il	13290
 Accès Universel L’accès	13290
 Accès Universel Terms and Conditions Privacy Policy	18079
-Acesso Universal	13,2853,1280,7250,1,121,4541,1034,1659,36
+Acesso Universal	13,2853,1280,7250,1,121,4541,1034,1659,36,157,1
 Achieve Universal Broadband	10856,284
 Achieving Universal Access	18795
 Activités Culturelles Universitaires	18143,27
@@ -93,6 +94,7 @@ Agence Universitaire	13301
 Agostinho Neto University	10776
 Agostinho Neto University UHC	10776
 Agreement Establishing the SADC Tourism UNIVISA	12640
+Agricultural Universities	18910
 Ahfad University	14897
 Ahfad University for Women	14897
 Ahmadu Bello University	8560,1455,8261
@@ -122,6 +124,7 @@ Amoud University	15123,68
 Amsterdam University Press	11135
 Ananda Marga Universal Relief Team	7167
 Angola. University of Cape Town	10763
+Anna-Lisa Jacques The University of Seychelles	19175
 Anual Enseñanza Universitaria	16898
 Application PART II UNIVERSAL ACCESS	22
 Arba Minch University	12276
@@ -360,7 +363,8 @@ Couverture Maladie Universelle L’Etat du Sénégal	18290
 Couverture Maladie Universelle. L’objectif	17845
 Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37,383
 Couverture Sanitaire Universelle. Pour	15711
-Couverture Santé Universelle	9273,6922,137,106,3,1441
+Couverture Santé Universelle	9273,6922,137,106,3,1441,1106
+Couverture Santé Universelle Indicateurs	18988
 Couverture Universelle	17845
 Covenant University and Harvard University	10170
 Covenant University. Peter	10170
@@ -381,6 +385,7 @@ DIREITOS A Universidade Lusíadas de Angola	10752
 DPI Universal Safeguards	12257
 DR. JOHN GARANG MEMORIAL UNIVERSITY	18629
 DRPSIAP DSM EHCVM FSEG Centre Universitaire	17978
+DUCATIF ET UNIVERSITAIRE L’éducation	18972
 DUDH Déclaration Universelle des Droits	18310
 DUES DIPLÔME UNIVERSITAIRE D’ETUDES SCIENTIFIQUES DUT	18143
 Damascus University	2958
@@ -455,6 +460,7 @@ Duke University Press	3782,894,5063,1311,1177
 Duke University. Burgess	13624
 Durban University of Technology	5569,2453
 Déclaration Universelle des Droits	10826,2955,1770
+Déployer la Couverture Santé Universelle	18988
 D’ACCES UNIVERSEL	18032
 D’ACCÈS UNIVERSEL Le Premier	7925
 E SERVIÇOS UNIVERSAIS	17093
@@ -591,6 +597,7 @@ Gamal Abdel Nasser University	10106
 Gambia. The Universal Access and Service	16886
 Garissa University College	16787
 Gaston Berger University UICN	18309
+Gautam Buddha University	19198
 Geneva University and Cloudera Foundation	15581
 George Mason University	2869
 George Washington University	9632
@@ -605,6 +612,7 @@ Gestão de Recursos Humanos da Universidade de Santiago	16290
 Ghana The University of Professional Studies	8697
 Ghazal University	18670
 Global Financial Integrity and American University	4127
+Global Geospatial Information Management UTM Universal	18904
 Global Human Rights Framework Integration Universal	3861
 Going Universal	11133
 Golis University	15191
@@ -800,7 +808,7 @@ Le Fonds du Service Universel	15464,2372
 Leeds Beckett University Lindiwe Mlambo	11134
 Legal and Policy Context This Universal Access	16886
 Lei. Capítulo III Serviço Postal Universal	18778
-Les Universités	18100
+Les Universités	18100,784
 Leverage the Universal Access Fund	5244
 Liberia Code of Laws R The Universal	16860
 Liberia. Universal Service Obligation	16872
@@ -818,10 +826,11 @@ Lira University	5413
 List of Abbreviations AAU Addis Ababa University	13991
 Liste des Universités Privées	18170
 Liste des Universités Publiques	18170
+Liverpool John Moores University	19154
 Lofa County University	16970
 Logos University	11131,3
 London University	12951
-Loughborough University	12178
+Loughborough University	12178,6968
 Luanda Universidade Angolana	10752
 Lupane State University	1154,400
 Lupane State University Collaborators	1554
@@ -1088,6 +1097,7 @@ Policy Co-ordination The Universal Service and Access	16886
 Policy Pillars Universal Access and Connectivity	15629
 Politics and Universal Service and Access	12971
 Polmed and Wits University	10806
+Polytechnic University of Mongo	18933
 Poona University	6946
 Port Loko Teachers' College University ADM	18485
 Postal And Courier Universal Connectivity Services	12395
@@ -1466,6 +1476,7 @@ UN Universal DPI Safeguards Framework	11007
 UN Universal Periodic Review	15007
 UNDP Liberia and University of Liberia Graduate	17160
 UNESCO Chairs The Namibia University of Science	12357
+UNESCO org UPR45 TCD E Main.pdf Universal Periodic Review	18930
 UNESCO org UPR46 COM E Main.pdf Universal Periodic Review	13739
 UNESCO org UPR46 ERI E Main.pdf Universal Periodic Review	14073
 UNESCO org UPR51 MRT E Main.pdf Universal Periodic Review	17970
@@ -1477,6 +1488,7 @@ UNIVERSAL ACCESS	718
 UNIVERSAL ACCESS AND SERVICE	16839,33,14
 UNIVERSAL ACCESS AND SERVICE FUND FRAMEWORK	12558
 UNIVERSAL ACCESS AND SERVICE POLICY	16886
+UNIVERSAL ACCESS AND UNIVERSAL SERVICE PROVISION	18934
 UNIVERSAL ACCESS CONTRIBUTION	15149
 UNIVERSAL ACCESS CONTRIBUTION The Licensee	15149
 UNIVERSAL ACCESS DEVELOPMENT FUND	18445
@@ -1613,7 +1625,7 @@ Univeridade Lusíada	18878
 Univers	1219,16610
 Univers J Med Sci	1219
 Univers Sûr Sarl	15848
-Universal	11,11,877,59,41,215,37,5,270,108,70,958,1199,905,767,66,534,1428,1044,1162,264,492,254,42,25,131,204,83,10,536,115,63,14,90,101,23,113,10,48,10,138,147,22,2,187,189,215,176,210,279,177,16,468,53,205,18,38,229,41,135,107,33,457,2,900,47,16,39,1,21,194,100,3,483,127,64,189,226,96
+Universal	11,11,877,59,41,215,37,5,270,108,70,958,1199,905,767,66,534,1428,1044,1162,264,492,254,42,25,131,204,83,10,536,115,63,14,90,101,23,113,10,48,10,138,147,22,2,187,189,215,176,210,279,177,16,468,53,205,18,38,229,41,135,107,33,457,2,900,47,16,39,1,21,194,100,3,483,127,64,189,226,96,451,38,239
 Universal AI and DPI	10719
 Universal Acceptance	9355
 Universal Acceptance. Universal Acceptance	9355
@@ -1670,6 +1682,7 @@ Universal Access and Service Policy	13232,3654
 Universal Access and Service Policy for ICTs	12982
 Universal Access and Service Strategy	12971
 Universal Access and Universal Access Fund Measurable	16872
+Universal Access and Universal Service Provision	18934
 Universal Access. The Committee	16850
 Universal Accessibility	1584
 Universal Accessibility Component	15621
@@ -1693,7 +1706,7 @@ Universal DPI Safeguards	1879
 Universal DPI Safeguards Framework	2930,1706
 Universal DataBase	14155
 Universal Declaration	1814,1769,7258,6110
-Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166,412,226,35,108,800,794,99,20,28,715,364,872,20,14,77,66,917,36
+Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166,412,226,35,108,800,794,99,20,28,715,364,872,20,14,77,66,917,36,960
 Universal Declaration of Human Rights UN	16951
 Universal Declaration of Human Rights. All	16958
 Universal Declaration of Human Rights. Retrieved	10819
@@ -1711,7 +1724,7 @@ Universal FONT SIZE	11129
 Universal Financial Access	10775
 Universal Guidelines for AI	7678
 Universal Health	12976
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177,753,318,580,293,139,4,173,34,20,27,23,75
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177,753,318,580,293,139,4,173,34,20,27,23,75,280
 Universal Health Coverage Day	10776
 Universal Health Coverage Program. While the Equity	18301
 Universal Health Coverage Roadmap	9204
@@ -1752,7 +1765,7 @@ Universal Payments Interface	6899
 Universal Pension Scheme	7763
 Universal Pension Scheme A BLUEPRINT	11133
 Universal Period Review of Eswatini	13170
-Universal Periodic Review	3583,3366,2,4635,314,542,681,33,917,1058,837,2002
+Universal Periodic Review	3583,3366,2,4635,314,542,681,33,917,1058,837,2002,942,18
 Universal Periodic Review Fifty-first	17934
 Universal Periodic Review Forty-seventh	16958
 Universal Periodic Review National Report	14742
@@ -1784,7 +1797,8 @@ Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 Universal Service Agency GIFEC	8025
 Universal Service Development Fund	9756,168,2111,4907
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90,115,489
+Universal Service Financing Fund	18931
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90,115,489,572
 Universal Service Fund Ad	10856
 Universal Service Fund Agreement	13150
 Universal Service Fund Cell Tower Initiative	1572
@@ -1802,7 +1816,7 @@ Universal Service Fund. Through	12702
 Universal Service Fund13	12214
 Universal Service FundDigital	7201
 Universal Service Funding. Such	14723
-Universal Service Funds	5033,1306,369
+Universal Service Funds	5033,1306,369,12223
 Universal Service Levy	1900
 Universal Service Obligation	11935
 Universal Service Obligations	1289,5545
@@ -1838,7 +1852,7 @@ Universal Telecom. Marang JSS	5295
 Universal Telecommunication Service	2802
 Universal Telecommunications Service	3699
 Universal Telecommunications Services	15340
-Universal Transverse Mercator	16843
+Universal Transverse Mercator	16843,2061
 Universal UAS Acesso	17093
 Universal Weak	1284
 Universal and Inclusive Civil Registration Key Result	13005
@@ -1848,7 +1862,7 @@ Universal and Meaningful Connectivity	11424,1335,1339,3645
 Universal-RH	14290
 UniversalAccess	13198
 Universalia	11916,5954
-Universalidade	11425,55
+Universalidade	11425,55,7416
 Universalidade Estão	11528
 Universalisation Stage	14723
 Universalisation Stage Universalising	14723
@@ -1865,6 +1879,7 @@ Universe Male	17165,1405
 Universe Table	18838
 Universel	1214,14722,1900,27
 Universel Sa. Il	15592
+Universel des Communications Electroniques	18931
 Universele Diensverpligtings	11199
 Universelle	643
 Universelle. Dans	18077
@@ -1883,7 +1898,7 @@ Universidad de California	17399
 Universidad de Maryland	16875
 Universidad de Oslo	16979
 Universidad de Oyala Oyala	4209
-Universidade	2816,3769,2222,51,836,655,403,23,5,789,63,5376,765,994,5,42,5,36
+Universidade	2816,3769,2222,51,836,655,403,23,5,789,63,5376,765,994,5,42,5,36,108
 Universidade Aberta ISCED II LISTA	2816
 Universidade Agostinho Neto	6585,533,4293,221
 Universidade Amilcar X X Cabral	11569
@@ -1941,7 +1956,7 @@ Universidade de Luanda	11632
 Universidade de Lúrio	2816
 Universidade de Lúrio UnISCED	2816
 Universidade de Sherbrooke	11523
-Universidade de São Tomé	18783,13,18,5,48,8,3
+Universidade de São Tomé	18783,13,18,5,48,8,3,85
 Universidade de Tecnologia de Troyes	5020
 Universidade de Trento	2816
 Universidade de Trás-os-Montes	16229
@@ -2044,6 +2059,7 @@ University Per Individual Transaction	18450
 University Pole	8606
 University Putra Malaysia	9129
 University R&D	12512
+University Registrar	19112
 University Research Partnership Project	8456
 University Secretary	15164
 University Spin-offs	12389
@@ -2072,6 +2088,7 @@ University of Amsterdam	6487,392,1557,8347,997
 University of Antananarivo	13774,674
 University of Applied Science	17226,197
 University of Applied Science Engineering and Technology	16973
+University of Auckland	19154
 University of Aveiro	3004
 University of Bahr El Ghazel	18646
 University of Bangui	1189,1718,2546,10208,705
@@ -2247,6 +2264,7 @@ University of Notre Dame Global Adaptation Index	16951
 University of Notre Dame Global Adaptation Initiative	3456
 University of Nouakchott	5119
 University of Nouakchott. Initiatives	18039
+University of N’Djamena	18933
 University of Oregon's Route Views	10037
 University of Oslo	766,395,663,854,2089,1281,105,874,1653,3345,36,135,2,170,373,1022,285,875,1433,53,500,2,211,1443
 University of Oslo Associate Professor Terje Aksel	6048
@@ -2257,12 +2275,14 @@ University of Oslo's HISP	4829
 University of Oslo-HISP West and Central Africa	13629
 University of Oslo. Action	16909
 University of Oslo. DHIS2	1219
+University of Otago	19154
 University of Ouagadougou	10812
 University of Oxford	206,20,974,2398,831,4262,541,1903,1092,258,563,2196
 University of Oxford Researcher	15244
 University of Oxford Serres J	9739
 University of Oxford's Department of Computer Science	8529
 University of Oxford. Alkire	15244
+University of Oxford. Designed	19132
 University of Oxford. ESCWA	15244
 University of Oxford. Kara	12297
 University of Palermo Italy	13773
@@ -2274,11 +2294,12 @@ University of Pennsylvania Press	5242
 University of Pennsylvania's Wharton African Business Forum	7233
 University of Petra	17648
 University of Port Harcourt	8560,6143
-University of Pretoria	396,1601,1347,643,445,1166,2424,580,3,420,324,992,388,405,87,115,641,567,933,911,126,3042,890
+University of Pretoria	396,1601,1347,643,445,1166,2424,580,3,420,324,992,388,405,87,115,641,567,933,911,126,3042,890,702
 University of Pretoria Department of Library Services	8022
 University of Pretoria Faculty of Health Sciences	8022
 University of Pretoria and ESCCOM	13227
 University of Pretoria and Standard Bank	7210
+University of Pretoria. Comments	18949
 University of Pretoria. Kihara	4432
 University of Pretoria. The Department	11224
 University of PretoriaDr Thulani Dlamini	11221
@@ -2306,6 +2327,9 @@ University of Science and Technology of Algiers	15679
 University of Score	12376
 University of Segou	17870
 University of Seoul	11165
+University of Seychelles	18924,51,23,114,20,22,21
+University of Seychelles Faculty of Lifelong Learning	18998
+University of Seychelles Vice-Chancellor's Statement	18924
 University of Sherbrooke	12133
 University of Siegen	5700
 University of Sierra Leone	18435,42,81,5,15,7
@@ -2366,6 +2390,7 @@ University of Zimbabwe’s Industrial Incubation Centre	13682
 University of Zululand	11927
 University of Zululand Library	8022
 University's AI	10343
+University's Anse Royale	19175
 University's ICT Strategic Plan	15164
 University's Integrated Strategic Plan	10343
 University's Leadership Shield	13816
@@ -2505,6 +2530,7 @@ Université Virtuelle du Burkina	15494
 Université Virtuelle du Burkina Faso	2148,584
 Université Virtuelle du Burkina Faso. Ce	2732
 Université Virtuelle du Mali	17983
+Université Virtuelle du Tchad	18972
 Université William Booth	16200
 Université de Bamako	12
 Université de Bangui	2907,12539
@@ -2552,12 +2578,16 @@ Université de Mahajanga	14622
 Université de Malte	8515
 Université de Mamou	16641
 Université de Maradi	3356
-Université de Maroua	16168
+Université de Maroua	16168,2980
 Université de Montpellier	13530
+Université de N'Djamena	19148
+Université de N'Djamena Introduction	19148
+Université de N'Djamena. Pour	19165
 Université de Nagasaki	15500
 Université de Nouakchott	1183,16728,7,6
 Université de Nouakchott URL	17924
 Université de Nouakchott. Elle	1183
+Université de N’Djaména. En	18972
 Université de Parakou	7001,3820,4083,1377,78,126,1099
 Université de Parakou Favorable	10821
 Université de Parakou Traitement	10821
@@ -2596,7 +2626,7 @@ Université- Administrateur	17827
 Université-Entreprise	17827
 Université. Après	16117
 Université. Ses	15670
-Universités	12,2502,452,4035,1268,256,41,2145,2579,51,1082,934,155,30,170,224,239,441,1,24,33,1162,20,127,117,24,19,27,116,9,11,101
+Universités	12,2502,452,4035,1268,256,41,2145,2579,51,1082,934,155,30,170,224,239,441,1,24,33,1162,20,127,117,24,19,27,116,9,11,101,477
 Universités Makerere	15682
 Universités Nombre	15999
 Universités Privé	18286

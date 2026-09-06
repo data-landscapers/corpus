@@ -4,6 +4,7 @@ ABBREVIATIONS AfCFTA African Continental Free Trade	11196,1755
 ABOUT THE AfCFTA The African Continental	7039
 ACR The African Continental Free Trade	14310
 ADD Other Continuous	17470
+AFRICAN CONTINENTAL FREE TRADE	19067
 AFRICAN CONTINENTAL FREE TRADE AREA	15641
 AI Continent	8346
 AI Continent Action Plan	7548,798,2704
@@ -59,7 +60,7 @@ African Continental Free Trade	14997
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624,1254,417,542,2475,475,133
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001,270
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -79,6 +80,7 @@ African Continental Free Trade Area. SADC	10169
 African Continental Free-Trade Area. Support	789
 African Continental Qualifications Framework	7573
 African Continental Single Digital Market Part	16936
+African Continental Technical Regulatory Framework	19067
 African Continental Trust Scheme Authority	10819
 African Union BCP Business Continuity Planning	18531
 African Union Continental AI Strategy	5042,1090,2169,32,1553,4933,2877,1009
@@ -208,6 +210,7 @@ CPD Continuing	14922
 CPD Continuous Professional Development CPF Country	15661
 CPD Continuous Professional Development CSP Content	6946
 CPD Continuous Professional Development DOAJ Directory	14747
+Calendrier Continuer	19150
 Certification and Feedback and Continuous Recognition	14566
 Change Contingent Emergency Response Component	16187
 Change and Development Report CERP Contingent Emergency	18198
@@ -347,7 +350,7 @@ Contingencias de Inversiones Publicas Múltiples Nacional	4209
 Contingencies	15372
 Contingencies Contingent	16978
 Contingencies Fund	6588,7958
-Contingency	5245,5886,3,1350,55,2335,22,528,2538,542
+Contingency	5245,5886,3,1350,55,2335,22,528,2538,542,592
 Contingency Charges	13031
 Contingency Contingency Inaccessibility	12364
 Contingency Emergency Reconstruction Component	1228
@@ -361,7 +364,7 @@ Contingency Fund	7695,9413
 Contingency Fund for Emergencies	15966
 Contingency Funds	16963
 Contingency Measures	14745
-Contingency Plan	14254
+Contingency Plan	14254,4657
 Contingency Planning	12356,2565,2988,81
 Contingency Plans	17962
 Contingency Unforeseen	17260
@@ -371,7 +374,7 @@ Contingent Allemand	998
 Contingent Allemand ARCEP	998
 Contingent Emergency	1284
 Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -424,7 +427,7 @@ Continuação	6425,36,6316,2995
 Continuação Características	10777
 Continuação Luanda	10757
 Continuação Taxas	10777
-Continue	899,41,1048,561,2347,348,241,191,3,453,662,153,1653,399,991,1141,3,419,313,40,80,279,21,29,153,503,13,326,23,128,407,230,118,458,77,234,12,111,22,474,84,1165,19,55,48,36,90,4,34,436,608,103,5,273,71
+Continue	899,41,1048,561,2347,348,241,191,3,453,662,153,1653,399,991,1141,3,419,313,40,80,279,21,29,153,503,13,326,23,128,407,230,118,458,77,234,12,111,22,474,84,1165,19,55,48,36,90,4,34,436,608,103,5,273,71,296,111
 Continue Campaigns	1777
 Continue Hon. Fatuma Mohammed	10313
 Continue PTA	10876
@@ -445,7 +448,7 @@ Continued Feeding	15247
 Continued Feeding for Diarrhoea Percentage	18441
 Continued Google	6593
 Continued Stakeholder Engagement INEC	10049
-Continuer	3356,1604,62,1932,103,3475,2774,84,2578,1892,283
+Continuer	3356,1604,62,1932,103,3475,2774,84,2578,1892,283,787,220
 Continuer Déjà	18177,90
 Continuer Pas	18177,90
 Continuer S'inscrire Prénom	18177,90
@@ -477,10 +480,10 @@ Continuity of Supply	14867
 Continuity of Supply Part	14867
 ContinuitÈ	15394
 ContinuitÈ Dans	15394
-Continuité	1214,10829,3737,163,352,332,1192,9,54,26
+Continuité	1214,10829,3737,163,352,332,1192,9,54,26,1215
 Continuité Cohérence	17842
 Continuons	15624,1108
-Continuous	958,42,814,14,110,50,960,656,257,265,402,378,338,141,280,11,346,410,514,2,600,114,1337,368,52,436,866,10,45,43,10,111,67,124,3,22,113,256,47,6,277,50,47,3,1,219,20,45,6,91,22,36,62,55,88,349,28,28,75,15,237,53,35,51,207,190,348,218,131,177,3,125,22,30,75,125,27,262,142,51,57,2,50,132,92,643,263,9,6,27,58,8,12,42,6,105,41,210,12,505,417,8,181,88
+Continuous	958,42,814,14,110,50,960,656,257,265,402,378,338,141,280,11,346,410,514,2,600,114,1337,368,52,436,866,10,45,43,10,111,67,124,3,22,113,256,47,6,277,50,47,3,1,219,20,45,6,91,22,36,62,55,88,349,28,28,75,15,237,53,35,51,207,190,348,218,131,177,3,125,22,30,75,125,27,262,142,51,57,2,50,132,92,643,263,9,6,27,58,8,12,42,6,105,41,210,12,505,417,8,181,88,501
 Continuous Adaptation Requirement ACKNOWLEDGING	3861
 Continuous Automated Red Teaming	10721
 Continuous Birth	12241
@@ -892,6 +895,7 @@ TGR Other Continuous	17470
 TRALAC TRADE LAW CENTRE African Continental	14138
 Talent Programme African Continental Free Trade	10157
 Targeted Investment Continue	17239
+Tchad Relevant Continental Frameworks	19135
 Teacher Workforce and Continuous Professional Development	14251
 TechCentral Continue Reading	5810
 Technologies for Continental Integration	5825
@@ -930,3 +934,4 @@ ZIPSS Contingency Options	12364
 ZIPSS Contingency Options All ZIPSS Participants	12364
 Zaire Continua	10766
 Zone de Libre-Echange Continentale Africaine	15500
+Zone de Libre-Échange Continentale Africaine	18988

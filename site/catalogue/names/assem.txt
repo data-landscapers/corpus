@@ -33,13 +33,14 @@ ASSEMBLEIA NACIONAL CAPÍTULO	15450
 ASSEMBLEIA NACIONAL Lei	11365,4724,2675
 ASSEMBLEIA NACIONAL POPULAR Ir	11513,8
 ASSEMBLEIA NACIONAL POPULAR URL	11513
-ASSEMBLY	12612
+ASSEMBLY	12612,6549
 ASSEMBLY ARTICLE	14409
 ASSEMBLY FOR WRITTEN REPLY QUESTION	10889
 ASSEMBLY OF HEADS OF STATES COMMITTEE	14434
 ASSEMBLY PRESS	11,576
 ASSEMBLY Published	13335
 ASSEMBLY THE HANSARD	10313
+ASSEMBLY. Short	19034,62
 ASSEMBLÉE NATIONALE DE GUINÉE	16615
 ASSEMBLÉE NATIONALE DE GUINÉE Flash Info	16617
 ASsembléià Nacional Popular	11514
@@ -52,6 +53,7 @@ Acta da Assembleia	18833
 Acta da Assembleia Geral	18833
 Acta da Assembleia-Geral	18833
 African Network of Information Commissions General Assembly	13030
+African Union Assembly	19067
 African Union Assembly of Heads of State and Government	4583,2559
 Amadu Candé. Assembleia	11544
 Anciens Combat- Assemblée Nationale	17812
@@ -59,6 +61,7 @@ Apr.2026 The Ga West Municipal Assembly	16276
 Arret Jatta The National Assembly	5273
 Assem	15391,2936
 Assem El-Dessouky	15473
+Assem- Cinco	18896
 Assemblage	17982
 Assemble	1161,14552,2035
 Assemble Diverse Expertise	12675
@@ -68,10 +71,12 @@ Assembled	6921,2478,8186
 Assemblee	15584
 Assemblee-nationale.sn	18295,3,132,1
 Assembleia	6191,3608,978,736,31,25,7233
-Assembleia Geral	11531,7,3853,1643,24,1702,3,4,5
+Assembleia Ge-	18896
+Assembleia Geral	11531,7,3853,1643,24,1702,3,4,5,124
 Assembleia Geral Fiscal	15476
 Assembleia Geral da ARCTEL-CPLP	11531
 Assembleia Geral. Artigo	15391
+Assembleia Geral. Os	18896
 Assembleia Global da Privacidade	2345
 Assembleia Legislativa	18763
 Assembleia Legislativa Regional	18763
@@ -81,7 +86,7 @@ Assembleia Mundial da Saúde. Um	15966
 Assembleia Municipal Declarando	16290
 Assembleia Municipal de São Lourenço	15380
 Assembleia Nacio	18764,36
-Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743,1032,15,26,11,54,27,32,45,468,67,287,111,2262,2,4,3,3,3,22,10,2,2,53
+Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743,1032,15,26,11,54,27,32,45,468,67,287,111,2262,2,4,3,3,3,22,10,2,2,53,116
 Assembleia Nacional Lei	539,10826
 Assembleia Nacional Popu	11518
 Assembleia Nacional Popular	11513,5,10,3,6,6,18,1,7,3775
@@ -119,7 +124,7 @@ Assemblies Mr. Mustafa Yasin Sheikh	15120
 Assemblies of God Church Soweto A. Shipena	13046
 Assembling	14113
 Assembling Laptops and Tablets	13122
-Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135,283,8,245,346,17,751,76,195,310,3,13,7,6,5,15,56,17,279,290,78,153,435,87,113,221,27,312,269,95,366,179,516,335,6,6,16,117
+Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135,283,8,245,346,17,751,76,195,310,3,13,7,6,5,15,56,17,279,290,78,153,435,87,113,221,27,312,269,95,366,179,516,335,6,6,16,117,216,7,103,94
 Assembly ARTICLE	14409
 Assembly Act	12939
 Assembly Act. Accordingly	14072
@@ -139,6 +144,7 @@ Assembly Political Pluralism Civil Society Space	10759,78,1315,188
 Assembly President Daniel Gélase Ndabirabe	4643
 Assembly The Assembly	14409
 Assembly and Acts	14409
+Assembly and DIRECTS the AfCFTA Secretariat and Afreximbank	19067
 Assembly of God Church A Assembly of God	13046
 Assembly of Governors	4103,2835,2093
 Assembly of Heads of State and Government	5202,532,8404,1503
@@ -159,7 +165,7 @@ Assemblé	17861
 Assemblé Générale	17485
 Assemblé Nationale	2342
 Assemblé Populaire CommunalePAPW Président	15555
-Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68,152,51,12,452,329,77,1255,1,76,49,15,106,4,168,24,2,1,9,53,9,96,404,60,43,19,5,4,7,31,42,7,130,49,163,186,323,12,3,10,4,26,4,17,2,1,3,7,15,1,9,10,19,14,26,10,26,17,11,5,1,12,20,25,5,6,5,5,4,6,12,19,2,3,5,12,23,11,7,7,150,23,8,26,21,27,17,21,15,17,60,33,1,52,21,15,8,55,13,100,10,6,13,68,44,1,8,8,81,18,733,6,14,7,92,16,63,143,55,13,56,21,30,51,19,19,36,180,5,36,59,14,1,1,1,18,8
+Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68,152,51,12,452,329,77,1255,1,76,49,15,106,4,168,24,2,1,9,53,9,96,404,60,43,19,5,4,7,31,42,7,130,49,163,186,323,12,3,10,4,26,4,17,2,1,3,7,15,1,9,10,19,14,26,10,26,17,11,5,1,12,20,25,5,6,5,5,4,6,12,19,2,3,5,12,23,11,7,7,150,23,8,26,21,27,17,21,15,17,60,33,1,52,21,15,8,55,13,100,10,6,13,68,44,1,8,8,81,18,733,6,14,7,92,16,63,143,55,13,56,21,30,51,19,19,36,180,5,36,59,14,1,1,1,18,8,543,178,9
 Assemblée Administration	9480
 Assemblée Chaque	15405
 Assemblée Coordinateur	17861
@@ -188,7 +194,7 @@ Assemblée Législative de Transition	2575,1801,11416
 Assemblée Législative de Transition. FASO ARZEKA	15729
 Assemblée Législative du Peuple	16475
 Assemblée Mondiale	13728,1695
-Assemblée Nationale	12,130,1089,50,19,382,389,624,97,1571,204,2175,4079,2480,40,505,78,492,43,41,43,67,755,34,24,114,6,60,70,30,9,15,209,29,3,52,175,78,37,72,233,1,1,967,235,8,2,32,47,192,1,9,9,50,8,109,24
+Assemblée Nationale	12,130,1089,50,19,382,389,624,97,1571,204,2175,4079,2480,40,505,78,492,43,41,43,67,755,34,24,114,6,60,70,30,9,15,209,29,3,52,175,78,37,72,233,1,1,967,235,8,2,32,47,192,1,9,9,50,8,109,24,677
 Assemblée Nationale A LA UNE SOCIÉTÉ	16382
 Assemblée Nationale CCSC	18100
 Assemblée Nationale Cible	15936
@@ -435,11 +441,14 @@ Municipal and District Assemblies	7457,1617,5139,1,71,1816,152,221,122,1121
 Municipal and District Assemblies ML Machine Learning	4126
 Municipal and Metropolitan Assembly	11
 NA Honourable Ministers National Assembly Members	17124
-NATIONAL ASSEMBLY	9399,7706
+NATIONAL ASSEMBLY	9399,7706,2056
+NATIONAL ASSEMBLY ADMINISTRATION ACT	19161
+NATIONAL ASSEMBLY ADMINISTRATION ACT REPUBLIC	19161
 NATIONAL ASSEMBLY BILLS	7832
 NATIONAL ASSEMBLY BY HON. INGE ZAAMUANI	13024
 NATIONAL ASSEMBLY ELECTIONS	12652
 NATIONAL ASSEMBLY ELECTIONS Independent Electoral Commission	12652
+NATIONAL ASSEMBLY OF SEYCHELLES	18964
 NATIONAL ASSEMBLY OF THE REPUBLIC	13122
 NATIONAL ASSEMBLY QUESTION FOR WRITTEN REPLY	6868
 NATIONAL ASSEMBLY SCHEDULE Manner	13096
@@ -451,15 +460,17 @@ NDICE ASSEMBLEIA NACIONAL O Presidente	15477
 NTIBARUTAYE Athanase Assemblée Nationale	13341
 Natiolial Assembly	11852
 National Assemblies	14409
-National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49,161,29,26,85,55,88,54,1,39,44,53,48,1,31,91,3,1,1,5,1,10,4,1,3,2,3,17,6,5,26,4,9,3,3,4,1,1,13,7,2,2,11,475,1496,3,19,9,7,9,1,1,2,9,19,11,18,7,154,72,31,20,119,219,5,73,11,153,126,36,20,26,37,133,21,10,27,61,319,117,29,27,26
+National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49,161,29,26,85,55,88,54,1,39,44,53,48,1,31,91,3,1,1,5,1,10,4,1,3,2,3,17,6,5,26,4,9,3,3,4,1,1,13,7,2,2,11,475,1496,3,19,9,7,9,1,1,2,9,19,11,18,7,154,72,31,20,119,219,5,73,11,153,126,36,20,26,37,133,21,10,27,61,319,117,29,27,26,63,1,1,1,4,19,6,2,5,5,7,6,7,7,77,62,5,18,2,14,8,18,12
 National Assembly Act	12652
-National Assembly Administration Act	7859
+National Assembly Administration Act	7859,11302
 National Assembly Allowances Act	14717
+National Assembly Appropriation Act REPUBLIC	19096
 National Assembly Authority	3887
 National Assembly Bill No	1221,617,4295,4180,341
 National Assembly Bills No	7832,7100
 National Assembly Building Complex	17241
 National Assembly Committee	6787,159,2388,1320,1604,1964,377,3182
+National Assembly Cybercrimes	19034
 National Assembly Debates	10313
 National Assembly Departmental Committee	9940,2370,2285
 National Assembly Deputy Clerk Lotun	14841
@@ -495,6 +506,7 @@ National Assembly Private Bag	13097
 National Assembly Proclamation	12890
 National Assembly Republic	14865
 National Assembly Select Committee	8611
+National Assembly Seychelles Broadcasting Corporation Act	19173
 National Assembly Speaker	14865
 National Assembly Speaker Addressed	14865
 National Assembly Speaker Moses Wetang'ula	12268
@@ -516,7 +528,7 @@ National Assembly of Mauritius	14735,18
 National Assembly of Niger	35,9531
 National Assembly of Nigeria	1163
 National Assembly of Senegal	699,8492
-National Assembly of Seychelles	1020
+National Assembly of Seychelles	1020,17944,17,41,91,8,35
 National Assembly of Tanzania	2806
 National Assembly of The Gambia	9191,7683,514
 National Assembly of The Gambia URL	17388
@@ -545,11 +557,14 @@ National Assembly. Local Government	11976
 National Assembly. Members	11272
 National Assembly. Negotiations	18817
 National Assembly. Offences	12546
-National Assembly. PART	1333,141
+National Assembly. PART	1333,141,17412,34,5,9,9
+National Assembly. PART III	18886
+National Assembly. PART VII	19173
 National Assembly. Part VIII	14575
 National Assembly. Regulations Repea	12549
 National Assembly. Right	1333
 National Assembly. Salisu Abubakar Maikasuwa	11853
+National Assembly. Short	18918
 National Assembly. Such	16886
 National Assembly. THIS PRINTED IMPRESSION	16836
 National Assembly. The Annual Report	14736
@@ -583,10 +598,12 @@ ORDINARY MEETING OF THE ASSEMBLY	4103
 ORGANISATEURS CIL Burkina- Faso Assemblée Mondiale	10821
 Ondo House of Assembly	18154
 Ondo State House of Assembly	18154
+Orders First Schedule NATIONAL ASSEMBLY ADMINISTRATION	19161
 Organisational Law Assembly	12201
 Orçamento Privativo da Assembleia Nacional	1338,4,738,9,13933
 Orçamento da Assembleia Nacional Revisto	11365
 PHA. Assembleia Nacional	6282
+PRESIDENT AND THE NATIONAL ASSEMBLY	19059,102
 PRESIDENT OF THE ASSEMBLY	12771
 País. A Assembleia Nacional	11425
 Per Second MCA Member of County Assembly	2775
@@ -666,6 +683,7 @@ Senhor Presidente da Assembleia Nacional Senhores Membros	15892
 Session of International Solar Alliance Assembly	16649
 Seventy-First World Health Assembly	396
 Seventy-first World Health Assembly	12255
+Seychelles National Assembly	18957
 Sistema Nacional de Pagamentos. ASSEMBLEIA NACIONAL Lei	18761
 Smart Assemblies	17717
 Soixante Onzième Assemblée	17882
@@ -675,6 +693,7 @@ Somduth MAURITIUS Eighth National Assembly	14841
 South Sudan’s National Legislative Assembly	4583
 South Sudan’s Transitional National Legislative Assembly	10657
 Southern Sudan Legislative Assembly	14852,3741,3,1,1
+Speaker of National Assembly	19161
 Speaker of Transitional National Legislative Assembly	18691
 State House of Assembly	11976
 State House of Assembly. Executive Chairman	11976

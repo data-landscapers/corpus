@@ -1,6 +1,9 @@
 A. AU TITRE DU MINISTERE	8321
 A. Au	13390,2657,281
+A9lectrique-de-farcha Au Tchad	19195
+ABONNEZ-VOUS AU BULLETIN DE L'ARCEP	19202
 ACCES ABORDABLE AU DERNIER KILOMETRE	18316
+ACCES ABORDABLE AU DERNIER KILOMETRE Statut	18967
 ACCES AU FINANCEMENT	4567
 ACCES AU PORTAIL DE Lâ	16148
 ACCÈS AU FINANCEMENT	17881
@@ -72,6 +75,7 @@ AU BURUNDI	13324
 AU BURUNDI Le PNDIS II	13306
 AU Better Integrated Border Governance Strategy	14511
 AU Border Programme	14511
+AU Budget	19067
 AU BÉNIN	16250
 AU CABINET DU MINISTRE	17841
 AU CABINET DU MINISTRE DES Article	17829
@@ -108,7 +112,7 @@ AU Commission and UNECA	7529
 AU Commission. ECOWAS Commission	17139
 AU Commission. The Agreement	2117
 AU Commissioner for Infrastructure	7326
-AU Commissioner for Infrastructure and Energy	7326
+AU Commissioner for Infrastructure and Energy	7326,11572
 AU Commissioner for Political Affairs	7794
 AU Continental AI	12210
 AU Continental AI Strategy	2682,1908,99,353,50,210,556,183,148,78,204,466,15,558,4700,2454
@@ -121,7 +125,7 @@ AU Continental Data Policy Framework. DPC	1779
 AU Continental Harmonization Strategy	1264
 AU Continental Strategy	3859
 AU Continental Strategy for SDM	1264
-AU Convention	318,643,1,238,43,21,550,868,347,133,421,3965,3172,1481,93,2140,77,2374,51,1677
+AU Convention	318,643,1,238,43,21,550,868,347,133,421,3965,3172,1481,93,2140,77,2374,51,1677,290,232
 AU Cyber Security Strategy	961,2201
 AU Cybersecurity and Data Protection Convention	5244
 AU CŒUR DES TRAVAUX Deux	10996
@@ -137,7 +141,7 @@ AU DTS for Africa	1264
 AU DU OS JUIN	13781
 AU Data	1243
 AU Data Policy	961
-AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178,155,1112
+AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178,155,1112,3204
 AU Data Policy Framework AU Convention	12055,1402
 AU Data Policy Framework Simplified Version	3162
 AU Data Policy Framework and Africa Digital	1243
@@ -158,7 +162,7 @@ AU Development Agency- New Partnerships for Africa	4123,8940
 AU Development Agency-NEPAD	5244
 AU Digital Agriculture Strategy	1257,8352
 AU Digital Education Strategy	13991
-AU Digital Transformation Strategy	961,282,21,5105,102,593,169,2376,1111,2737
+AU Digital Transformation Strategy	961,282,21,5105,102,593,169,2376,1111,2737,5678
 AU Digital Transformation Strategy and Agenda	1775
 AU Digital Transformation Strategy and Smart Africa	16144,955
 AU Digital Transformation Strategy for Africa	542,16394
@@ -189,7 +193,7 @@ AU Institutions and Organs	1814
 AU Interoperability Framework	1243
 AU Interoperability Framework for Digital ID	7529
 AU JOURNAL OFFICIEL DE LA RÉPUBLIQUE	14893
-AU Launches Internet Exchange Point	14724,52
+AU Launches Internet Exchange Point	14724,52,4122
 AU Le Président	17841
 AU Legal Counsel and Acting Director of Protocol	18492
 AU MALI	17841,235
@@ -242,6 +246,7 @@ AU NOMBRE DE MOIS QUE	13300
 AU One Step Away	18492
 AU Organs	961,853
 AU Outlook	13310
+AU PARTENARIAT PUBLIC-PRIVE ET	18901
 AU PDNPD ET A L'APPUI	16400
 AU PROFIT DE LA HAUTE AUTORITÉ	15885
 AU PROFIT DE LA SOCIETE EURL	15885
@@ -258,6 +263,7 @@ AU PUBLIC PAR VOIE ELECTRONIQUE	17829
 AU Pan-African AI Compute Grid	6690
 AU Peace and Security Council	4535,12788,1,232
 AU Pillar	14935
+AU Policy Organs	19067
 AU Portant	13710
 AU Portant Organisation	13707
 AU Procurement Guidelines. Please	14486
@@ -298,12 +304,14 @@ AU TITRE DES MESURES INDIVIDUELLES	8269,10070,61,2,1,9
 AU TITRE DES TEXTES LEGISLATIFS ET	8269,10070,61,12
 AU TITRE DES TEXTES LÉGISLATIFS ET	18402,1
 AU TITRE DU CABINET DU PRESIDENT	18116
-AU TITRE DU MINISTERE	8237,8050
+AU TITRE DU MINISTERE	8237,8050,2763
+AU TITRE DU MINISTERE DE L'ADMINISTRATION	19050
 AU TITRE DU MINISTERE DE L’ADMINISTRATION	17991
 AU TITRE DU MINISTERE DE L’AGRICULTURE	8237
 AU TITRE DU MINISTERE DE L’ECONOMIE	16287,1662
 AU TITRE DU MINISTERE DES AFFAIRES	7843,10148,125
 AU TITRE DU MINISTERE DES SPORTS	16287
+AU TITRE DU MINISTERE DU COMMERCE	19050
 AU TRAFIC Lorsque	15643
 AU TRANSPORT ET A LA DISTRIBUTION	16612
 AU Technical Assistance Programme	7529
@@ -354,7 +362,11 @@ About the AU Data Policy Framework	4123,8940,417
 Académie. Au	16171
 Accelerating AU Member States	1814
 Activate the AU	3583
+Administration. Au	18987
 Adopting the AU Continental Strategy	12210
+Advance the AU Data Policy Framework	19135
+Advance the AU Data Policy Framework Issued	19143
+Advance the AU Data Policy Framework URL	19135
 AfC AU Data Policy Framework	14724
 Affiliation Au	18429
 Africa AU African Union CSO Central	13310
@@ -366,11 +378,13 @@ African Union AU Strategy	1243
 African Union Document Type AU Launches	14724
 African Union Heads of State. The AU	6369
 African Union The AU Data	6520
+Afrique. Au	19150
 Agence Au	10975
 Agence. Au	15412,910
 Agile Regulation for Digital Transformation AU African	1264
 Agriculture Monsieur Hermann Imali DJETTA Au	16485
 Algérie. Au	10688
+Ali Djadda Kampard. Au	19048
 Ambassadeur Edouard Au	13405
 Amicale AU FOND	14416
 Aminata Zerbo Sabané. Au	7916
@@ -391,6 +405,8 @@ Au Bénin	2312,311,71,883,1629,262,1924,1,227,266,333,2021,46,426,4763,4,46,327,
 Au CRETARIALQ	15999
 Au Cameroun	2751,241,4830,2433,124,586,109,870,3598,57,540,56
 Au Cameroun. HAL Id	15480
+Au Cap	18989,60,79
+Au Cap District Administration Office	19049
 Au Cap-Vert	8515
 Au Centre	10875
 Au Code	10876
@@ -399,6 +415,7 @@ Au Congo-Brazzaville	6241
 Au Conseil	3337,4,1472,2351,9321
 Au Conseil des Ministres	17918,198
 Au Cyber	18014
+Au Cœur	18990
 Au Développement	13405
 Au Forum	15592
 Au Gabon	3581,3874,165,3394,930,3556,233,304,194
@@ -413,7 +430,7 @@ Au METPFQE	15685
 Au MODIFIANT ET COMPLETANT LA LOI	13781
 Au Mali	5324,1635,661,10046,158,6,15,37,63,38,81,227
 Au Maroc	747,1,439,57,4168,845,1160,203,1271,8556,71
-Au Ministère	2966
+Au Ministère	2966,16184
 Au Mozambique	11726
 Au Niger	3395,1929,2296,895,2096,49,2908,4532,3,11,8,29,10,66,52
 Au Nigeria	5082,3811,7265,387
@@ -435,7 +452,7 @@ Au Sud-Ouest	15692
 Au Sénat En	16485
 Au Sénégal	2280,120,3549,1621,945,616,196,1185,65,1168,5814,727,46,95,5
 Au T1	7655
-Au Tchad	7620,604,1056,2664
+Au Tchad	7620,604,1056,2664,6982,18,22,141
 Au Togo	3399,467,867,580,142,234,16,102,698,339,279,2,157,338,408,440,205,1107,3788,595,238,3150,129
 Au Turkménistan	15478
 Aubin Essaie Moussa. Au	3231
@@ -478,6 +495,8 @@ CHAPITRE DEUX DISPOSITIONS RELATIVES AU CO	15999
 CHAPITRE III DISPOSITIONS RELATIVES AU CONTROLE	17816
 CHAPIÏRE III DES INSCRIPTIONS AU REGISTRE	10813
 CIMSAS Au	18297
+CIVIL AU TCHAD Editorial	18926
+CIVIL AU TCHAD S	18926
 CNS. Au	16620
 COMMENT ACCEDER AU SITE ETAX	16629
 COMMERCE ELECTRONIQUE AU CAMEROUN L'Assemblée	15370
@@ -507,6 +526,7 @@ Chancelier Friedrich Merz. AU TITRE	18400,2,1
 Chef-lieu de District. Au	14423
 Chercheur. Au	16287
 Chinese-built AU HQ	5302
+Christopher Colin Anacoura of Point Au Sel	19049
 Code des Investissements. PORTANT AGREMENT AU CODE	17817
 Collines. Au Burundi	13300
 Colonel Amadou SANGARE. AU TITRE	17991
@@ -517,6 +537,7 @@ Colonel-major Moussa DEME. AU TITRE	8237
 Comité Technique. Au	11944
 Commerce. Au	18169
 Commission. Au Cours	4567
+Commonwealth and AU	18903
 Communauté Urbaine de Douala. Au	15542
 Commune de Libreville. Au	15727
 Communication and ICT. The AU Data Policy	961
@@ -644,6 +665,7 @@ ETABLISSEMENTS PUBLICS EN FONCTIONNEMENT APPUI AU	15999
 ETAT D’EXECUTION DU PLAN STRATEGIQUE AU	17872
 ETENDRE L'ACCES ET L'INCLUSION AU NUMERIQUE	15766
 EU and AU	4689
+EUR Au	18967
 EXEMPLES D’APPLICATIONS MOBILES UTILISÉES AU NIGER	18105
 EXISTENCE D'UNE CONNEXION INTERNET AU SEIN	18169
 EXPRESSO Au	18418
@@ -703,6 +725,7 @@ Faya François Bourouno. Au	10565
 Femmes des Medias AU African Union CF	14935
 Fibre Optique Au Burundi	13324
 Filingué. VI. AU TITRE DU MINISTERE	18151
+Flash Stat Au	19205
 Fonds. II. L'ECONOMIE NUMERIQUE AU CAMEROUN	2695
 Formation Au Niger	18100
 Francs CFA. II. AU TITRE	18151
@@ -805,7 +828,7 @@ Infrastructures Fibre Optique Au	13414
 Inspecteur des Douanes. AU CHAPITRE DES COMMUNICATIONS	17949
 Institutions Au	18286
 Internet Par ONEP NE Au	8099
-Internet. Au	15592
+Internet. Au	15592,3459
 Investissements Au	1682
 Iran Expo. Au	15676
 Iran. Au	15676
@@ -845,6 +868,7 @@ LA PUBLICITE AU REGISTRE DU COMMERCE	17439
 LA SANTÉ DIGITALE AU NIGER	18105
 LA SECURITE AU TITRE DU MINISTERE	16287
 LA SENSIBILISATION DES POPULATIONS AU CŒUR	16396
+LD Au Cap AC Les Mamelles	18951
 LE TEST D'ANÉMIE AU PARENT	13300
 LE TEST DE PALUDISME AU	13300
 LECTRONIQUES CERTIFIEÉES AU MOYEN DES SYSTEMES	14469
@@ -875,10 +899,12 @@ L’UEMOA AU TITRE DE L’ANNÉE	4459
 M. Antoine Félix DIOME. Au	17848
 M. Mathias TRAORÉ. Au	5304
 M. Moustoifa Hassani Mohamed. Au	13812
+M. Yaya Mamadou. Au	19047
 MALI ANNEXE AU DECRET N	17827
 MANQUEMENT AU CONTRAT	15901
 MATIÈRE D'INVESTIGATION Au	14450
 MENAPLN Au	15639
+MENT DES STATISTIQUES D’ETAT CIVIL AU	18926
 MESURE INDIVIDUELLE Au	2808
 MESURES GENERALES PROJETS DE LOI Au	16323
 MESURES INDIVIDUELLES Au	3045,12712,566
@@ -991,6 +1017,7 @@ PAR L’ELECTEUR PRESENT AU BUREAU	15727
 PEACE. Au	14363
 PERCEPTION AU REGARD DES REFORMES ACTUELLES	18169
 PERSONNES AYANT PARTICIPE DANS L'ENQUETE AU	13390
+PMICE. Au	19142
 PNUD. Au	17961
 POLITIQUES AU TITRE DE L’EXERCICE BUDGETAIRE	17829
 PORTANT AFFECTATION AU MINISTERE	17817
@@ -1047,6 +1074,7 @@ Patrie du Liptako. I. AU TITRE	7670
 Patronat Monsieur Eustache KOTINGAN Au	16485
 Placide Rengui. Au	16607
 Plan AU African Union BABS Branch	5533
+Plan de Développement. Au	18988
 Plateaux. Au	15722
 Plateforme. Au	3719
 Pluriactivités Au	737
@@ -1121,7 +1149,7 @@ Régulation Technique Au	10975
 Réo. Au	6889
 République Au	16100
 République. AU TITRE DE LA COMMUNICATION	8269,10070,61,2,1,9
-République. Au	9928
+République. Au	9928,9091
 Révolution Progressiste Populaire. Au	5304
 SAA AU ECOWAS The Gambia	1264
 SAA PIU and AU PIU	1264
@@ -1178,11 +1206,13 @@ Sabrina Khelifi Au	10231
 Said H.E. AU Commissioner for Infrastructure and Energy	14724
 Salarisation Au Burkina Faso	737
 Salut du Peuple. AU TITRE	8269
+Samia Brigitte Labrosse of Au Cap	19049
 Santé Au	18297
 Santé Au Burundi	13341
 Secteur des Communications Electroniques Au	998
 Senelec. Au	18322
 Serge Abel Ongani. Au	3704
+Seychelles. The AU	18898
 Shift AU	11149
 Son Excellence le Président AZALI Assoumani. Au	13789
 Sous-préfet. Au	18286
@@ -1225,7 +1255,9 @@ TRANSMISSION Au Burundi	13300
 Tarification Au	10975
 Tax. JE SUIS ALLE AU BOUT	16629
 Tchad Au	9812
+Tchad Au Cœur	18990
 Telecommunications AU Regulation and Control Agency	13331
+Telecommunications Regulatory Agency AU African Union	18887
 Telecommunications Union AU African Union BARAC	6946
 Total. Au	16012
 Tourisme. Au	16250

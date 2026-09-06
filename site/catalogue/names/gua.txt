@@ -33,6 +33,7 @@ Catalytic First Loss Guarantee	8937,1,141
 Catalytic First Loss Guarantee Program	8938,141
 Cidade de Guadalupe	18834
 Closing Date Guarantee Environmental and Social Risk	1284,15638
+Coast Guard	18970
 Coast Guard Training School	14760
 Coast Guard of Sao Tome	18857
 Commitments and Guarantees Long-term Commitments	16978
@@ -135,10 +136,11 @@ Guangzhou	10846
 GuarantCo	8612,1608,1090
 GuarantCo Local-currency Domestic	11310
 GuarantCo's Cellcard	11310
-Guarantee	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,587,23,72,1,1378,924,320,852,73,1176,2,1986,208,254,261,1232,68,25,94,77,154,553,42,11,596,440,233,135,243,461,727,132,9,142,92,28,218,39,62,185,247,1045,166,180,145,98,411,20,502
+Guarantee	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,587,23,72,1,1378,924,320,852,73,1176,2,1986,208,254,261,1232,68,25,94,77,154,553,42,11,596,440,233,135,243,461,727,132,9,142,92,28,218,39,62,185,247,1045,166,180,145,98,411,20,502,415
 Guarantee Agency	11468,1500,1929
 Guarantee Agency ML Machine Learning MPA	3604
 Guarantee Agency MLGRD Ministry of Local Government	18504
+Guarantee Agency MPTIC Ministry of Post and ICT	18887
 Guarantee Agency PCM Ministry of Digitalization and Digital	16144
 Guarantee Agency's Support for Private Investment	11310
 Guarantee Agreement	6539
@@ -199,7 +201,7 @@ Guardería Preescolar	16920
 Guarderías Infantiles	4209
 Guardhouses	12970
 Guardia Civil	11820
-Guardian	40,720,483,686,1291,378,1564,85,453,531,943,51,336,1271,52,680,242,586,105,1419,311,813,273,148,71,811,330,259,65,1215,2383,3
+Guardian	40,720,483,686,1291,378,1564,85,453,531,943,51,336,1271,52,680,242,586,105,1419,311,813,273,148,71,811,330,259,65,1215,2383,3,568
 Guardian Correspondent	5977,2158,1670,587
 Guardian Digital	5883
 Guardian Fleet	11054
@@ -232,6 +234,7 @@ Guardias	4209
 Guardias Personal Sanitario	4209
 Guardrails	15332,2448
 Guarea	17140
+Guataine Luce Ancienne	19150
 Guate-	17743
 Guatemala	10714,50,21,219,1,351,253,293,1,61,1156,541,1065,745
 Guatemala AMS UMI	17743
@@ -306,7 +309,7 @@ Minimum Guaranteed Banking Service	10967
 Mobile Money Guarantee	1541
 Monitoring Report Partial Debt Guarantee Arab	15905
 Movable Guarantees	18792
-Multilateral Investment Guarantee Agency	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1,1378,4874,2174,653,5,935,723,2691,67,149,568,529,1565
+Multilateral Investment Guarantee Agency	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1,1378,4874,2174,653,5,935,723,2691,67,149,568,529,1565,418
 Multilateral Investment Guarantee Agency. Task	14627
 Municipal Guard	8806
 Municipal Guards	8806
@@ -357,6 +360,7 @@ R Immigration Guard Unit	15845
 Regional Customs Transit Guarantee Scheme	13563
 Regulatory Guardian The National Digital	4528,7984
 Release Under Bank Guarantee	11036
+Repeal of Seychelles Security Guards Service Pension	18943
 Ruey Majok Guandong	3583
 Ruey Majok Guangdong	3583
 SBF Guarantee E&S	15905
@@ -364,6 +368,8 @@ SBF Guarantee Instrument ID	15905
 SECRETARIO FISCALIA DE GUARDIA GENDARMERÍA	4209
 SECRETARIO FISCALIA DE GUARDIA POLICÍA	4209
 SERVICES THAT GUARANTEE ENERGY SECURITY	18795
+SEYCHELLES SECURITY GUARDS SERVICE PENSION	18943
+SEYCHELLES SECURITY GUARDS SERVICE PENSION ACT	18943
 SL Synthesia Guadaltel TalentHunter Guidalia SRL	8530
 SME Guarantee Fund	16614
 SOFIGIB Partial Portfolio Guarantee	416
@@ -374,6 +380,8 @@ Scale Enterprise Loan Guarantee Scheme Strategic	11134
 Segundo Gareth Guadalupe	4747
 Senegal Men Guatemala Men	11004
 Senegal and Guatemala	11004
+Seychelles Coast Guard	19063,1,102
+Seychelles Security Guards Service Pension	18943
 Sim Guard	7385
 Small Scale Enterprise Loan Guarantee Scheme	13123
 Smallholders’ Credit Guarantee Scheme Tanzania Agricultural	7763
@@ -394,7 +402,7 @@ U.S. Air Force Mobility Guardian	4434
 UMc Ecuador Americas South America Guayaquil	10840
 UMc Guatemala Americas	10840
 Uniform Rules for Demand Guarantees	13185
-United States Coast Guard	17808
+United States Coast Guard	17808,1106
 Unlimited Telecomunicaciones de Guatemala	15471
 Victor Guambe	3840
 Visionary Architect and Steadfast Guardian Government	4528,7984

@@ -60,7 +60,7 @@ PESOE Plano Económico	12787
 PGAS Plano de Gestão Ambiental	11390,23
 PLANO DE ACÇÃO VBG	11406
 PLANO DE ATIVIDADES PARA	15476
-PLANO DE AÇÃO	15694,3094
+PLANO DE AÇÃO	15694,3094,157,1
 PLANO DE AÇÃO DA ENDE	15535
 PLANO DE FINANCIAMENTO DA ENDE	15535
 PLANO DE GESTÃO E MONITORIZAÇÃO AMBIENTAL	11406
@@ -72,7 +72,7 @@ PNDS Plano Nacional de Desenvolvimento Sanitário PNUD	11376
 PNDS Plano Nacional de Desenvolvimento da Saúde SIDA	18783
 PROJETOS E HORIZONTES TEMPORAIS DO PLANO	17093
 PSSO Plano de Saúde	11413
-Plano	13,1264,861,90,1990,1445,701,1302,3106,589,10,1,4,14,16,6,1,29,10,4,71,15,5,13,4,5,329,3482,11,135,9,237,140,54,90,125,140,691,62,19,93,418,1148,1,7,3,10,21,2,2,3,52
+Plano	13,1264,861,90,1990,1445,701,1302,3106,589,10,1,4,14,16,6,1,29,10,4,71,15,5,13,4,5,329,3482,11,135,9,237,140,54,90,125,140,691,62,19,93,418,1148,1,7,3,10,21,2,2,3,52,42,1,49
 Plano Anual	2613,8839,4074
 Plano Anual da Atividade Estatística	18794
 Plano Anual da Atividade Estatística PALOP	18794
@@ -140,6 +140,7 @@ Plano Nacional de Banda Larga	11529
 Plano Nacional de Banda Larga da Nigéria	11569
 Plano Nacional de Capacitação	1948,14014,60
 Plano Nacional de Comunicação de Risco	15966
+Plano Nacional de Conta-	18896
 Plano Nacional de Contabilidade Pública	15526
 Plano Nacional de Cuidados	1948,9907
 Plano Nacional de Desenvolvimento	438,10322,17,613,179,7194
@@ -191,13 +192,14 @@ Plano de Apoio da China	11564
 Plano de Aquisição Anual	16056
 Plano de Atividades	1338,93,1,648,66,1,2316,1,11448
 Plano de Atividades Anual Orçamentado	11557
-Plano de Ação	11376,161,10,8,14,3864,102,37,122,61,211,1119,276,1427,6,61
+Plano de Ação	11376,161,10,8,14,3864,102,37,122,61,211,1119,276,1427,6,61,90,1
 Plano de Ação DB	15476
 Plano de Ação Fases	11569
 Plano de Ação Global Estratégico Horizonte	15476
 Plano de Ação Nacional	16181
 Plano de Ação Nacional da RAM	11376
 Plano de Ação Nacional de Governação Aberta	15962
+Plano de Ação O Plano de Ação	18946
 Plano de Ação Regional	17323
 Plano de Ação da ENDE	18794
 Plano de Ação da Estratégia	2618
@@ -223,6 +225,7 @@ Plano de Desenvolvimento Urbano	15380
 Plano de Envolvimento	11406
 Plano de Evolução	11442
 Plano de Execução	11442
+Plano de Expans	18896
 Plano de Expansão	11442
 Plano de Exploração	11413
 Plano de Financiamento	13,18781
@@ -266,6 +269,7 @@ Planos de Acção de Reassentamento	11542
 Planos de Dados	18801
 Planos de Desenvolvimento	11362
 Planos de Desenvolvimento Nacional	8309,3087,1
+Planos de Expans	18896
 Planos de Governação	2816
 Planos de Segurança	11443
 Plataforma de Interoperabilidade Central. O Plano Nacional	11371

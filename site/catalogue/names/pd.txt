@@ -44,9 +44,11 @@ B. ACHIEVEMENT OF PDOs	11924,3500,87,90,62,68,228,993,897,13,903
 B. COMPOSANTES DU PROJET Le PDI2T	15399
 B. PDO Indicators	18198
 B. PDO Indicators and Theory of Change	16144
+B. PDO Level Results Indicators	18887
 B. Theory of Change and PDO Indicators	15743,641
 B. Theory of Change and PDO Indicators C	13856
 B. Theory of Change and PDO Indicators Target	15743
+B.Â PDO Level Results Indicators	18887
 BUV. GLES. GLES. PDRE. SOL. INJ	15930
 BUV. PDRE	15930
 BUV. PDRE. SUSP. BUV. COMP. PDRE	15930
@@ -113,7 +115,7 @@ Development Master Plan PDO Project Development	11380
 Development PAC Public Accounts Committee PDO	16949
 Dimensions des PD	16552,454
 Download Annual Report PDF	14058
-Download PDF	5825,425,6637,6,12,382,24,4,251,856,13,14,79,44,286,1249,2330,25,226
+Download PDF	5825,425,6637,6,12,382,24,4,251,856,13,14,79,44,286,1249,2330,25,226,204
 Download PDF Abstract Background Digital	10784
 Download PDF Tolúlọpẹ	9739
 Download the PDF	7222
@@ -199,6 +201,7 @@ LA VISION DU PDDSP2023-2033	13341
 LP. COMP. COMP. PDRE	15930
 La Petite Entreprise PDMFI	10841
 Language English Publication Download PDF	12905,406,255
+Language English. Publication Download PDF	18894
 Lao PDR	10714,71,6411
 Lao PDR Lesotho Workplan	17196
 Lao PDR National ID No N	10714
@@ -326,6 +329,7 @@ PDEMC	15799
 PDEMC Décembre	15799
 PDEMC Mise	15799
 PDEMC. Le GRC	15799
+PDES Niger	18988
 PDES Points	18100
 PDESC	17897
 PDESC. Il	17897
@@ -340,7 +344,7 @@ PDF Document	17880
 PDF European Commission	1243
 PDF Figure	13375
 PDF File	15207
-PDF Format	13185
+PDF Format	13185,5925
 PDF ISBN	10840
 PDF ISO	18774
 PDF ModDate	1260
@@ -431,7 +435,7 @@ PDO Indicator	3604,11820,1190,1235,905
 PDO Indicator Baseline	15511
 PDO Indicator Indicator	15601
 PDO Indicator Split	15601
-PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8
+PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258
 PDO Indicators Beneficiaries of SSN	11924
 PDO Indicators Definition	15553
 PDO Indicators Direct	13917
@@ -452,13 +456,13 @@ PDO Level Indicators Key	15661
 PDO Level Indicators The PDO	1867
 PDO Level Indicators. The PDO	6539
 PDO Level Results Baseli	17441
-PDO Level Results Indicators	11905,3467,2086
+PDO Level Results Indicators	11905,3467,2086,1429
 PDO Level Results International Communications	15372
 PDO Moderate Moderate Overall Implementation Progress	12440
 PDO Moderately Satisfactory Moderately Satisfactory Overall	15619,116,903,1835
 PDO Moderately Unsatisfactory	14971
 PDO Outcome	11924,4512,1526
-PDO Outcomes	4653,35,3189,4351,39,791,1922,531,633,805,51,470,663,684
+PDO Outcomes	4653,35,3189,4351,39,791,1922,531,633,805,51,470,663,684,266
 PDO Outcomes Assist Djibouti	13920
 PDO Outcomes Baseline Actual	16705
 PDO Outcomes Baseline Closing Period Strengthen	11417
@@ -560,6 +564,7 @@ PDOs and Outcome Targets The PDO	15511
 PDOs and Rating Relevance	17962
 PDOs for WARCIP	15424
 PDOs for WARCIP Benin	15424
+PDOÂ LevelÂ ResultsÂ InternationalÂ CommunicationsÂ	18887
 PDP Act	4951
 PDP-ANA	10428
 PDPA Key	12232
@@ -807,6 +812,7 @@ Web PDF	12948
 Welfare Corporation PDA Personal Digital Assistant	16843
 Western Africa. B. PDO Indicators and Theory	16144
 Western Africa. PDO Level Indicators	1264
+Word and PDF	19110
 World Bank PDF	2291
 World Bank PDF. Tabular	2070
 World Bank-financed PDSS. AF2	11924

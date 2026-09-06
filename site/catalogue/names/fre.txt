@@ -6,6 +6,7 @@ ACR The African Continental Free Trade	14310
 ADECOS. Frequency Annually Data	10768
 AF Additional Financing AFD French Development	17849
 AFD French Development Agency	969,10580,3966
+AFRICAN CONTINENTAL FREE TRADE	19067
 AFRICAN CONTINENTAL FREE TRADE AREA	15641
 ALLOCATION AND ASSIGNMENT OF FREQUENCIES	16839
 ALLOCATION OF FREQUENCY AND SPECTRUM	18602
@@ -41,7 +42,7 @@ African Continental Free Trade	14997
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624,1254,417,542,2475,475,133
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001,270
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -106,7 +107,7 @@ Average System Interruption Frequency Index	14867
 B. FREE Banque du Trésor de Côte	18313
 B. Freedom	15968
 B. ON THE COMESA FREE TRADE	13440
-B. RIGHT TO FREEDOM OF OPINION	14073,3897
+B. RIGHT TO FREEDOM OF OPINION	14073,3897,960
 BANDE DE FREQUENCE CATEGORIE SIGNATURE CNPC	998
 BBC Media Action and Free Press Unlimited	15342
 BOSS FREIGHT TERMINAL LIMITED Data Controller	7167
@@ -181,7 +182,7 @@ Comparison of FREL	17140
 Competition Regulations No Change Freedom of Expression	11870
 Computational Fluid Dynamics OpenFOAM Free CFD	9475
 Constitution. A Freedom of Information Act	14748
-Consultants Guidelines. Frequency of Procurement Supervision	15372
+Consultants Guidelines. Frequency of Procurement Supervision	15372,3515
 Consumer Average Interruption Frequency Index	14867
 Contactos Perguntas Frequentes Mapa	11374
 Contacts In Freetown	18498
@@ -202,6 +203,7 @@ Cost Insurance and Freight CIT Corporate Income	14985
 Coverage Area Proposed Frequency Band Proposed	736
 Criminalisation of Free Speech and Punitive Responses	13313
 Criteria for Free and Fair Elections	12201
+Crizer Frederic Bristol	19049
 Cross Border Frequency Coordination	6946
 Cummulative Frequency	11953
 Cumulative Target Values End Target Frequency	15905
@@ -275,7 +277,7 @@ Duty Free Privilege for Designated Startup Ecosystem	14024
 Duty Free Privilege for Designated Startups	14024
 Duty Free Tariff Preference	18016,204
 Duty Free Trade	12389
-Dynamic Frequency Selection	12949
+Dynamic Frequency Selection	12949,6022
 Dynamics and Fate of Media and Free Expression Rights	9660
 Dynamics and Future of Media and Free Expression Rights	9960
 E. FREE AND OPEN ACCESS	14853
@@ -325,6 +327,7 @@ Ethio Telecom CEO Frehiwot Tamru and Djibouti	3788
 Ethio Telecom Chief Executive Frehiwot Tamru	12264
 Ethio Telecom Chief Executive Officer Frehiwot	7690
 Ethiopia. CEO Frehiwot Tamru	9532
+European Free Trade Association	18985
 Executive Department FREQUENTLY ASKED QUESTIONS	13532
 Experienced Fresh Grad Manager	16266
 Exports Free	16935
@@ -342,6 +345,7 @@ FM Support Plan Frequency Desk	3604
 FQSE Free Quality School Education JSS	18564
 FREE Full Text	7187
 FREE MOVEMENT OF PERSONS	14409
+FREE OF CHARGE	18935
 FREE STATE	1940
 FREE STATE PROVINCE PROVINCIAL WEEK	11231
 FREE VISA TO ALL TANZANIAN CITIZENS	7506
@@ -538,8 +542,9 @@ Free Quality School Education	18460,1,68,35
 Free Quality School Education Programme	18512
 Free Reserves. The Board of Directors	11955
 Free Residue	13311
-Free Roaming	4059,217,3344,8694
+Free Roaming	4059,217,3344,8694,2722
 Free Roaming Agreements Across West Africa	17106,81,79
+Free Roaming CEMAC	19036
 Free SA	8601
 Free SMSs	15471
 Free School Policy	11916
@@ -689,7 +694,7 @@ Freedom70	18563
 FreedomFromFear	18868
 FreedomPay Wallet	9170
 Freedomhouse	12333
-Freedoms	12214
+Freedoms	12214,6675
 Freedoms and Legislation Committee	16568
 Freedom’s Future As Freedom House	17967
 Freedotel Communication Email	3386
@@ -804,7 +809,7 @@ Frejus Thoto	10852
 Freleases	4861,929,900
 Frelick	12227
 Frelimo	5815,6333,53
-French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191
+French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191,114,46,7,21,188
 French AI	10527
 French African	17773
 French Agency for Development	11380,5931
@@ -818,7 +823,8 @@ French Code	15901
 French Colony	16256
 French Consultations	13579
 French Contracting	9134
-French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19,1944,1151,499,35,48,58,2,196,1,111,8,1872,21,423,8,8
+French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19,1944,1151,499,35,48,58,2,196,1,111,8,1872,21,423,8,8,622
+French Development Agency AfDB African Development	18887
 French Development Agency and African Development Bank	14997
 French Development Agency and UNICEF	15601
 French Development Agency. DRC	6073
@@ -912,7 +918,7 @@ Frente Popular Guiné-Bissau	17020
 Frente Reputacional	10751
 Freque Responsibili Paramet Methodolog Responsibili Impacts	1988
 Frequencies	6818,2311,3250,2961
-Frequency	7,4,571,154,163,59,261,559,2013,181,1707,1267,716,97,1364,6,726,866,42,5,363,64,33,189,438,109,392,23,570,146,429,414,13,826,3,35,10,7,202,130,176,32,39,163,529,740,92,14,62,7,131,8,100,205,1042,25
+Frequency	7,4,571,154,163,59,261,559,2013,181,1707,1267,716,97,1364,6,726,866,42,5,363,64,33,189,438,109,392,23,570,146,429,414,13,826,3,35,10,7,202,130,176,32,39,163,529,740,92,14,62,7,131,8,100,205,1042,25,358,17
 Frequency Accounts Broadcast Competition Fund Strategy	6946
 Frequency Address	958
 Frequency Allocation Advisory Committee	16839
@@ -937,6 +943,7 @@ Frequency Band	6946,10304
 Frequency Band Freq. Band FY	6946
 Frequency Band Proposed New Permission	736
 Frequency Band Utilization	6051
+Frequency Bands	18971
 Frequency Based	15661
 Frequency Biannual Data	1867
 Frequency Biannual Data Source Consultation	1867
@@ -992,6 +999,7 @@ Frequency Yearly Data	15658
 Frequency and Attendance of MPCC Meetings	11134
 Frequency and Spectrum	18601
 Frequency and Spectrum Control	18602
+Frequency for Data Measure	18887
 Frequency of Communication	958
 Frequency of EMR	12379
 Frequency of Internet	12278
@@ -1001,6 +1009,7 @@ Frequency of Meetings TWG	14889
 Frequency of Meter Reading	14867
 Frequency of Official Statistics Release	17149
 Frequency of Official Statistics Release Types	17149
+Frequency of Procurement Supervision	18887
 Frequency of Publication	17149
 Frequency of Release of Official Statistics	17149
 Frequency of Report	13005
@@ -1060,6 +1069,8 @@ GB Free D'Music	15471
 GB. French-Senegalese	4997
 GDPR. Frequent	8436
 GEI Frequency Annual Data	15661
+GHz FREQUENCY BANDS	18971
+GHz Frequency Bands Author	18971
 GOETHE DOUALLA Fred-Cyrille	16195
 GRM Manual Frequency Every	11905
 GSMA MobileEconomy2020 SSA Infographic French.pdf. Herman	15480
@@ -1188,6 +1199,7 @@ Landinfo Country of Origin Information Centre Fredrik	14905
 Langue French Emplacement Période	18193
 Latitude Tx of Earth Location Freq Freq	736
 Launches Joint Education Programme At Freetown	18547
+Le Free	19160
 Leadership Ahead of National Rollout Freetown	18562
 Legal Reserves Free Reserves Other Reserves	11955
 Legal Services Division Division Frequency Department	6946
@@ -1270,6 +1282,7 @@ Midterm Target Endterm Target Source of Frequency	7548
 Minimum Meal Frequency	15247
 Minimum Milk Feeding Frequency	15247
 Minister of Information and Communication FREETOWN	18451
+Ministers of Education of French Speaking Countries	18931
 Misrata Free Zone	5592
 Mitchell Cotts Freight Kenya	15322
 Mme Frehiwot Tamiru	4919
@@ -1362,7 +1375,7 @@ Parliament. State Minister for Works Mr. Free	12319
 Part Five Radio Activities and Frequency Management	13951
 Part Two Rights and Public Freedoms Article	16847
 Partly Free	5626,3851,8490
-Paulo Freire	10726
+Paulo Freire	10726,8216
 People Daily Digital Fresh	8383
 Percival Street Freetown Attn	18575
 Perguntas Frequentes	11415,13,590,843,2584,25
@@ -1385,10 +1398,11 @@ Policy of Free and Open Source Software	1009
 Port of Freetown	18577
 Ports and Free Zones Authority	1287
 Portuguese and French	18797
+Portuguese and French. CHAPTER II FISHING AUTHORISATIONS	18985
 Power of Data Initiative Freetown Sierra Leone	18520
 President Mr. Frederick Chiluba	13561
 Presidential Decree for Targeted Free Healthcare	10829
-Press Freedom	2844,9357
+Press Freedom	2844,9357,6806
 Press Freedom Law	17970
 Press Freedom and Democratic Governance	9660,637
 Prime Minister Modi and French President Macron	18016
@@ -1419,6 +1433,7 @@ Questions Frequemment Posees Quelles	14481
 QuickMapServices Free Field Data Collection Kobo	17157
 R Y YR R Frequency	17441
 RADIO FREQUENCE MENYA	13324
+RADIO FREQUENCY SPECTRUM MANAGEMENT	18934
 RDC. Selon Fred Bauma	16504
 REPORT FREEPORT OF MONROVIA	17367
 REQUESTED UNDER THE FREEDOM OF INFORMATION	16843
@@ -1528,6 +1543,7 @@ SigFox Allowed Configuration RC1 Frequency	12949
 Social Media. Freedom House	15342
 Soil Database IDF Intensity Duration Frequency	17157
 Somalia Federal Member State Free	11136
+Son Atlas17. B. RIGHT TO FREEDOM	18930
 Sound Broadcasting Frequencies	6946
 Sound Broadcasting Frequencies During the FY	6946
 South Africa and Namibia. Freedom House	9679
@@ -1639,7 +1655,7 @@ Western Eastern Northern Free KwaZulu- North	11211
 William Ruto Edwin Sifuna Fred Matiang’i	7869
 Works Minister Fred Byamukama	12095
 World Frelimo	12201
-World Press Freedom Day	2844,3434,672,6032,142
+World Press Freedom Day	2844,3434,672,6032,142,5883
 World Press Freedom Index	9679,2012,2423,628,600,158
 World Press Freedom Index. Somali	15007
 World StatusNot Free	15926

@@ -190,7 +190,7 @@ Famille. Ces	18327
 Famille. En	18286
 Famille. Il	17845
 Famille. des Circonscriptions	18003
-Familles	15732,797
+Familles	15732,797,2413
 Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,193,621,291,66,69,826,137,371,54,238,212
 Family Affairs	14889
 Family Assistance Plan	11855
@@ -257,12 +257,15 @@ Family Support Program	16187
 Family Support Project	14897
 Family Support Project Digital Transformation SICTA	14897
 Family Support. National	17934
+Family Violence	18912
 Family Welfare	16649
 Family Welfare Ministry of Health and Wellness Ministry	11332
 Family Welfare and Protection Unit	14742
 Family and Child Health	12976
 Family and Child Protection	3500
 Family and Children	11900,4680
+Family and Equality	19096
+Family and Equality and Elles Foundation	19137,1
 Family and Gender	18301
 Family and Mediation	14742
 Family and Promotion of Women	10765,3,7,600,20
@@ -277,6 +280,7 @@ Family of Standards	1009
 Family of Standards WS-Base Notification	1009
 Family-Based Interventions	13474
 Family-care	11581
+Family-first	19045
 Famindran-toerana	14488,1,1
 Famine	12192,309,2458,80,181,3481
 Famine Action Mechanism	18104
@@ -374,12 +378,14 @@ Minister of Health and Family Welfare	16649
 Ministerio da Familia	11855
 Ministro da Família	16138
 Ministry of Family	10826,1139,3959,263,2114,69
+Ministry of Family Affairs	18912
 Ministry of Family and Human Rights Development	15059
 Ministry of Family and Social Inclusion	11855
 Ministry of Family and Social Inclusion Implementing Agency	11855
 Ministry of Family and Solidarity	16384
 Ministry of Gender Equality and Family Welfare	14742,32,19,37
 Ministry of Gender and Family Promotion	12338,75,2522,121
+Ministry of Health and Family Welfare of India and Ministry	19063,1
 Ministry of Women and Family Affairs	14889
 Ministry of Women and Family Development	15480
 Ministry's Family Health Division	9861
@@ -500,4 +506,5 @@ Vulnerable Family COVID-19 Program	18809
 Vulnerable Family Program	18809
 Vulnerable Family Program VFP COVID-19 Vulnerable	18809
 Warning System FEWS-Niger Famine Early Warning	18198
+Youth and Family Affairs	18927
 de Famille	10975

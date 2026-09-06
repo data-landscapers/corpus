@@ -39,6 +39,7 @@ Burundi. Weak	13314
 Business Reporter Bayport Targets Women’s Wealth	10151
 C04 Weak	9237
 C07 Weak	9237
+CAB APL1B. Weaknesses and Action Plan	18887
 CRVS System and Database No Weaknesses	13005
 CWON Changing Wealth of Nations EITI Extractive	16996
 Carbon Wealth of Nations	16996
@@ -117,6 +118,7 @@ NSO No Weaknesses	13005
 National Meteorological Services NWP Numerical Weather	18578
 National Petroleum Wealth Fund	3583
 Non-Proliferation of Weapons of Mass Destruction	2626
+Nonproliferation of Nuclear Weapons	18914
 Nonrenewable Natural Wealth	16996
 Nonrenewable Natural Wealth Produced	16996
 Nowcast-Based Numerical Weather Prediction	12728
@@ -182,6 +184,7 @@ Sovereign Wealth Funds	4972,12000,24,1801
 Sovereign Wealth Funds Eritrea	14008
 Sovereign Wealth Funds São Tomé and Príncipe	18797
 Stationary Weather Information Display Board	16947
+Stockpiling and Use of Chemical Weapons	18914
 Strength Weaknesses Opportunities Threats UN United	14965
 Strengths Weaknesses	961,11483,56,814
 Strengths Weaknesses Global Innovation Index	12487
@@ -194,6 +197,7 @@ Summary of Emergent Strengths and Weaknesses	12759
 Supporting Inclusive Wealth Creation	12941
 System ECMWF European Centre for Medium-Range Weather	18578
 Tools and Weapons	1038
+Toxin Weapons	18914
 Under the World Meteorological Organization Severe Weather	15916
 Unexplained Wealth Order	14809
 Unexplained Wealth Unit	14742,67
@@ -254,7 +258,7 @@ Weaker	11136,4028
 Weaker-than-expected	17257
 Weaker-than-expected Artificial Intelligence	13685
 Weakest	15164
-Weakness	5134,543,692,4769,123,2400,1273,2077,1143
+Weakness	5134,543,692,4769,123,2400,1273,2077,1143,888
 Weaknesses	766,2396,964,88,314,3020,3853,124,338,53,243,1,44,308,399,62,32,307,2,1232,314,63,488,62,83,240,49,132,351,530,5,64,16,29,13,26,185,61,32,555,465,166,10,309
 Weaknesses AI	4528
 Weaknesses Experienced	5533,6453
@@ -262,7 +266,7 @@ Weaknesses Indicator	12351
 Weaknesses Opportunities Threats	17364
 Weaknesses Strengths Weaknesses Zimbabwe's Strengths for AI	12512
 Weaknesses Strengths Zimbabwe’s Strengths for AI	4528
-Weaknesses and Action Plan	15372
+Weaknesses and Action Plan	15372,3515
 Weaknesses and Challenges	13885
 Weaknesses and Roadblocks	18454
 Wealth	5101,850,321,4923,684,3341,27,327,1361,61,722
@@ -290,7 +294,7 @@ Weaponisation of Openness	3810
 Weaponised	11135
 Weaponising the Law	13313
 Weaponized	4676,6459,6645
-Weapons	11154,4691
+Weapons	11154,4691,3069
 Weapons of Mass Destruction	9750
 Weapons-of-Math-Destruction-Cathy-ONeil.pdf	571
 Wearable	3651

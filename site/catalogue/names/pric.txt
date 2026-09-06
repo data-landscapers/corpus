@@ -141,6 +141,8 @@ Details Pricing	4434
 Diesel Price	1828
 Different Scenarios Gasoline Price	1828
 Digital Economy Rose Pola Pricemou	3959
+Digital Pricing Structure	18904
+Digital Pricing Structure Different	18904
 Discriminatory Pricing	17243
 Domestic Fuel Prices	2775
 Domestic International Food Prices	13868
@@ -200,7 +202,7 @@ GB Data Bundles Price Trend	11259
 GB Price Vat Inc	15279
 GDP Developments Price Developments External Sector	11131
 GETESA MUNI DATA TIME PRICE DATA	16942
-GIEWS Food Price Monitoring and Analysis	16464,708
+GIEWS Food Price Monitoring and Analysis	16464,708,1882
 Gasoil Price	17177
 General Price Code	13385
 Get Price	18540
@@ -228,6 +230,7 @@ ITU ICT Price Basket Questionnaire	15471
 ITU Price Baskets ICT Price Basket	12395
 ITU and PricewaterhouseCoopers	11917
 Impact of Iron Ore Price Shocks	17990
+Implicit Price Deflator Table	19038
 Imported Fuel Price	17257
 Increased Prices of Goods and Services	14932
 Increased Prices of Goods and Services Evidence	14932
@@ -345,7 +348,7 @@ Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Potential Impact of LTA Price Order	16876
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1,231,14,700
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1,231,14,700,110
 Price Adjustment Formula	13185
 Price Analysis and Monitoring Division	14839
 Price Caps	16839
@@ -422,7 +425,7 @@ Priced Code	13385
 Pricelist Namibia	12478
 Pricelist for RINEX	14864
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40,304,47,2,713,986,790,521,5
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40,304,47,2,713,986,790,521,5,566
 Prices Adjusted	2775
 Prices CPI	17209
 Prices GDP	18483
@@ -434,7 +437,7 @@ Prices and Inflation	14734
 Prices and Other Charges	12629
 Prices and Other Charges Act	12535
 Prices for Recurrent Costs	14766
-PricewaterhouseCoopers	6893
+PricewaterhouseCoopers	6893,12188
 PricewaterhouseCoopers Ghana	15688
 PricewaterhouseCoopers Zambia	2240
 PricewaterhouseCoopers. The Integrated Annual Report	13133
@@ -456,6 +459,8 @@ Pricing The Bank of Zambia	12364
 Pricing The Charges	12364
 Pricing and Affordability	16886
 Pricing and Fees	18601,1
+Pricing and Licensing	18904
+Pricing and Licensing The Seychelles Spatial Data	18904
 Pricing for Data Protection Training	2987
 Pricing of SaaS	16923,1
 Pricing. Available	13461
@@ -510,6 +515,7 @@ Residential Property Prices Indices	11286
 Resources and Energy Multi-Year Price Determination Public	12969
 Retail Africa Mobile Pricing	16186
 Retail Fuel Price Deviation	1828
+Retail Price	18931
 Retail Price of Internet	15424
 Retail Prices of Internet Services Sources	15424
 Retailing Price Code Gr	13385

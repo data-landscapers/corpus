@@ -16,7 +16,7 @@ Admission Garçons Filles G	10847
 Advocate G Marcus SC Advocate	2307
 Agente Grupo G Delineante Director Grupo	4209
 Alana G. Ramos	10764
-Albert G	10763
+Albert G	10763,8168
 Albert G Zeufack	15697
 Albert G. Zeufack	1914
 Albert G. Zeufack Acting Practice Manager	11417
@@ -174,6 +174,7 @@ G Capacite Circuit Ethernet	16214
 G Capital	8937,1,141,2704
 G Capital and IFC	9079
 G Cell C	10673
+G Congratulations	19089
 G Connectivity	3770
 G Consumer Business Case	5675
 G Continuum	8283
@@ -224,12 +225,14 @@ G FBB Sources	10995
 G FWA	8828,1965,968
 G FWA. Ce	11761
 G Fibre	18319
+G Fifth	18931
 G Fifth Generation ASPs Application Service	6671
 G Fifth Generation B2B Business	13346
 G Fifth Generation Network ABMT Appropriate	2775
 G Fifth Generation Telephone Wireless Technology	11857
 G Fifth-generation	16915
 G Fixed Wireless Access	6100,10710
+G Fourth	18931
 G Fourth Generation	6671,6675,5431
 G Fourth Generation GSM GNI Gross	14897
 G Fourth Generation Network	2775
@@ -331,6 +334,7 @@ G Operator Performance Trend	6051
 G Optical Ethernet Interface	13185
 G Oshikoto	1944
 G PETIT AMI ACTUEL	13300
+G PON	19106
 G Packages	11259
 G Personal Autonomy and Individual Rights G1	17967,217
 G Pilot	7998
@@ -356,6 +360,7 @@ G RSCP	11556
 G RSRP	10856,700
 G RSSI	11556
 G Radio	14674
+G Radio Coverage Control	18931
 G RedCap	11016
 G Remuneration	11177
 G Report	3972
@@ -419,6 +424,7 @@ G TOTAL CF	17140
 G TRAITEMENTS DONNÉS	13300
 G Taxe	16047
 G Technology Will Contribute	5675
+G Third	18931
 G Third Generation	6671,6675,5431
 G Third Generation GSM	14897
 G Third Generation Network	2775
@@ -512,6 +518,7 @@ G. B. Davis	5349
 G. Bangui	15474
 G. Based	8828
 G. Bassa	16921
+G. Bounding Coordinates	18904
 G. Businesses	8266
 G. C	11135,1198,3811
 G. C. Bowker	5700
@@ -594,6 +601,7 @@ G. M. Lange	16996
 G. MINISTERE DE LA CONSTRUCTION	7670
 G. MINISTERE DES SPORTS	8321
 G. MTN	5754
+G. Magrin	18988
 G. Mais	9559
 G. Marin	11310
 G. Melina	11140
@@ -794,6 +802,7 @@ O G I S T	15478
 O G IGO B IA	15447
 O L G T	13341
 O R G A N	14736
+O VA K A G	18887
 OMS Amissi G Actualité Liée	10625
 Oghenere G. Salubi	8022
 Oghenere G. Salubi Received	8022

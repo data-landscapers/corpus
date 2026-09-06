@@ -16,8 +16,8 @@ AfCFTA Digital Trade Protocol	1006,3438,16,130,640,210,23,673,114,160,2136,489,3
 AfCFTA Digital Trade Protocol. Ethiopia	4766
 AfCFTA Digital Trade Protocol’s Cross-Border Data	4583
 AfCFTA IP Protocol	5858
-AfCFTA Protocol	1031,212,3340,857,294,737,568,483,497,279,300,437,1520,3601,637,2963
-AfCFTA's Protocol	10720
+AfCFTA Protocol	1031,212,3340,857,294,737,568,483,497,279,300,437,1520,3601,637,2963,1311
+AfCFTA's Protocol	10720,8415
 AfCFTA. As the AfCTA’s Protocol	1243
 AfCFTA’s Protocol	1243,4635,761
 Africa Regional Protocol	13996
@@ -33,15 +33,19 @@ African Women’s Protocol	11193
 Africa’s National IPv6 Internet Protocol Center	15120
 Agents du Protocole	16175
 Agreement Amending the SADC Protocol	12615
+Agreement This Protocol	18985
+Agreement and Protocol	18985
 Aircraft Protocol	14008,831
 Alerting Protocol CHD Country Hydromet Diagnostics	18578
 All Protocol Observed INTRODUCTION Good	14772
 Amended Protocol	14845
 Annex XI and Protocol	7081
 Annexes and Protocols	14409
+Article Duration This Protocol	18985
 Arusha Protocol	18797
 Assinatura Do Protocolo De Coopera	9399
 Assistant Protocole	15670
+Association HTTP Hypertext Transfer Protocom ICAO	18931
 Association Protocols	13040
 Attaché de Protocole	18143,27
 Authentic Texts This Protocol	15641
@@ -53,6 +57,7 @@ Bagre-Kompienga Release Protocol	17596
 Banjul Protocol	18797
 Biodiversity Protocol	14845
 Biometric Update AU Protocol	5878
+Blue Economy Protocol	18957
 Body PROTOCOL ON LEGAL AFFAIRS	12527
 Border Gateway Protocol	7246,7618,1681
 Bosco UHIRWA Francis Remy MUGARURA Protogene	12445
@@ -73,6 +78,8 @@ Common Alerting Protocol	17300
 Common Alerting Protocol-CAP	18688,15
 Common Market Protocol	2106,5401,3312
 Community Levy Protocol	7452,11003
+Concluding the Implementing Protocol	18985
+Concluding the Protocol	18985
 Concours National de Prototypage IA	17763
 Continuously Update Protocols	12675
 Control Protocol	18578
@@ -138,6 +145,7 @@ Early Action Protocol	11156
 East African Community Common Market Protocol	7506
 East African Monetary Union Protocol	7967,559
 Economic and Technical Cooperation Protocol	16256
+Emergency Protocols and Procedures	19042
 Enfant Protocole	13442
 English. The Proto	12466
 Enhanced Interior Gateway Routing Protocol	16942
@@ -145,9 +153,11 @@ Escalation and Dispute Protocols Contracts	6432
 Establish National Data Standard and Protocols LISGIS	17116
 Establish Testing Protocols	12675
 Ethiopia Validates Assessment of AfCFTA Protocol	14156
+European Community ANNEX PROTOCOL	18985
 Extensible Autentication Protocol	18774
 Extensible Messaging and Presence Protocol	18774
 Exterior Gateway Protocol	14864
+FTP File Transfer Protocol G2B Government-to-Business	18931
 Femmes Pr Protocole	13442
 File Transfer Protocol GB Gigabyte GHz	34
 First Optional Protocol	14742
@@ -191,6 +201,7 @@ ITOUDI Ginette. DÉPARTEMENT DU PROTOCOLE D'ÉTAT	16381
 ITPGRFA and SADC Seed Protocols	14818
 Identity Protocol	10721
 Implement Marine Protected Species Protection Protocols	17114
+Implementing Protocol	18985
 Implementing the AfCFTA Protocol	14793
 Incident Management and Reporting Protocols	5132
 Information Sharing Traffic Light Protocol	775
@@ -277,6 +288,7 @@ Optional Protocols. Table	14742
 Output IP Internet Protocol IPSec Internet	13185
 Over Internet Protocol PAGE	2775
 PROGRAMMES LIMITED INTERNET CONNECTIVITY AND PROTOTYPING	18487
+PROTOCOL ON THE IMPLEMENTATION	18984
 PROTOCOL TO THE AGREEMENT ESTABLISHING	15641
 PROTOCOLE ADDITIONNEL AU TRAITE	18003
 PROTOCOLE ADDITIONNEL AU TRAITE Alousséni SANOU	18003
@@ -284,7 +296,7 @@ PROTOCOLE ADDITIONNEL AU TRAITE PORTANT CREATION	18003
 PROTOCOLE D'ENTENTE SUR UN PARTENARIAT SUR	15613
 PROTOCOLO DE COOPERAÇÃO TÉCNICA NO DOMÍNIO	11455
 PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL	4209
-PROTOCOLS	18162
+PROTOCOLS	18162,1023
 PROVISION IN AFCFTA PROTOCOLS ON DIGITAL	1243
 Palermo Protocol	16874
 Palermo Protocol and International Labour Organization	16874
@@ -301,35 +313,46 @@ Proto's AI	13061
 Proto's CEO Curtis Matlock and Country Manager	12466
 ProtoAI	13061
 Protoc&title	1219
-Protocol	7,18,293,643,48,225,9,624,121,118,658,819,68,606,174,152,7,850,14,79,292,53,372,267,17,505,25,78,368,12,26,130,167,174,417,963,139,223,396,608,10,66,299,14,39,392,43,269,89,18,51,146,258,68,88,56,3,214,22,29,94,7,317,100,224,327,23,8,110,7,253,56,11,152,46,59,9,9,42,46,6,81,309,406,634,2,268,285,44,77,7,13,1,324,131,179,139,189,82,204,217,18,86
+Protocol	7,18,293,643,48,225,9,624,121,118,658,819,68,606,174,152,7,850,14,79,292,53,372,267,17,505,25,78,368,12,26,130,167,174,417,963,139,223,396,608,10,66,299,14,39,392,43,269,89,18,51,146,258,68,88,56,3,214,22,29,94,7,317,100,224,327,23,8,110,7,253,56,11,152,46,59,9,9,42,46,6,81,309,406,634,2,268,285,44,77,7,13,1,324,131,179,139,189,82,204,217,18,86,416,27,1,61,21,118,7
 Protocol Amending and Extending the Agreement	1234
+Protocol Annual	18985
+Protocol Appendix	18985
 Protocol Between the UNITED STATES OF AMERICA	1234
 Protocol DLP Data Leak Prevention IaaS	15472
+Protocol For the Union	18985
 Protocol HVDC High-voltage	2775
 Protocol IPP Independent Power Producers IPP	2775
 Protocol IPSAS International Public Sector Accounting	6946
 Protocol LLD Low Level Design MDAs	13185
 Protocol No	12246
-Protocol Relating	5533,5644,373,436,159,421,344,1164,4363
+Protocol Relating	5533,5644,373,436,159,421,344,1164,4363,475
 Protocol Security IS Information Systems ISP	13185
 Protocol WLL Wireless Local Loop YOY	12395
+Protocol and Articles	18985
+Protocol and Chapter IV	18985
 Protocol for Access	11188
 Protocol for Consultations	13744,2905
 Protocol for Foreign Office Consultations	17241
 Protocol for Foreign Office Consultations. Mr. Alfonso	18857
 Protocol for Packet Network Intercommunication	1036
 Protocol of Cooperation	11417
+Protocol-issued	18984
 Protocol-mandated	5440
 Protocol. ARTICLE	12527
-Protocol. Article	15641
+Protocol. Article	15641,3344,207
+Protocol. Article Financial	18985
+Protocol. Article Prerogatives	18985
+Protocol. Article Review	18985
 Protocol. B. Establishing	16958
-Protocol. Further	1243
+Protocol. Further	1243,17742,207
 Protocol. Guinea	16694
+Protocol. Joint	18985
 Protocol. The Protocol	16951
-Protocole	2808,588,279,6300,737,1214,1488,28,273,723,45,130,9,836,35,7,105,8,133,161,1,25,169,1,52,168,58,164,37,1234,43,35,78,31,29,30,224,37,4
+Protocole	2808,588,279,6300,737,1214,1488,28,273,723,45,130,9,836,35,7,105,8,133,161,1,25,169,1,52,168,58,164,37,1234,43,35,78,31,29,30,224,37,4,658
 Protocole ACTES DE LA REPUBLIQUE	18003
 Protocole Chef	18003
 Protocole Commissaires	17899
+Protocole Commun	18967
 Protocole Général	18003
 Protocole Internet	16545
 Protocole Ordonnance	18003
@@ -363,7 +386,7 @@ Protocolo de NovaYork	11365
 Protocolos	1431,1,714,1,2062,254,1,7091
 Protocolos Adicionais	15359
 Protocolos de Cooperação	11449
-Protocols	1243,21,645,4454,60,524,601,440,2567,264,1135,573,783,36,41,1022,315,18,464,274,161,1202,31,275,309
+Protocols	1243,21,645,4454,60,524,601,440,2567,264,1135,573,783,36,41,1022,315,18,464,274,161,1202,31,275,309,1431,296
 Protocols Broadcast	17157
 Protocols Child	15206
 Protocols Control Surgery	15206
@@ -384,6 +407,7 @@ Prototyping	11869,128,379,2545,2147,192
 Prototyping Building	14921
 Prototyping Facilities and Soft Skills Development	12376
 Public Prosecutor Sign Protocol	15992
+Public Relations and Protocol Manager Ms. Angelique	19156
 R Internet Message Access Protocol	18774
 R Protocolo	18774
 R Protocolo de Rede Definida	18774
@@ -401,7 +425,7 @@ Research Protocols Schools Masterlist Data National	11220
 Review This Protocol	15641
 Royale Protocol	4844
 SADC Finance and Investment Protocol	12469
-SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231,165,18,25,6,25,13,664,1156,322,2746
+SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231,165,18,25,6,25,13,664,1156,322,2746,1317
 SADC Protocol of Gender and Development. The Government	12939
 SADC Protocols	12942,20,1864
 SADC Seed Protocol	14818

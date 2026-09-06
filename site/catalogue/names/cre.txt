@@ -83,6 +83,7 @@ Agricultural Credit Scoring	7334
 Airtel’s Extra Credit	10807
 Airtime Credit Services	8587,76
 Alert and Crisis Management CREWS Climate Risk	18198
+Allocation of Grant and Credit Proceeds	18887
 Amend the Public Authorities Law Creating the Liberia	16835
 Aminu Kano Street and Aminu Kano Crescent	11129
 Annual Credential Assessment	11956
@@ -261,13 +262,14 @@ CREDAF	15625,1,1098,1148
 CREDAF URL	16724
 CREDD	16852,990,3,27,142
 CREDD Diagnostic du Secteur Privé	17870
+CREDD Mali	18988
 CREDD and SQAD	16852
 CREDIBLE AUCTIONEERS Data Processor INST-120235C3B4D NAIROBI	7167
 CREDIBLE BLOOMS LIMITED Data Controller INST-649934F96DA	7167
 CREDIBLE LOSS ADJUSTERS LTD Data Controller	7167
 CREDICORP	3030,4599,721
 CREDISUL Banco de Credito	12252
-CREDIT	2743,10647,352,688,4,1270,768,655,316
+CREDIT	2743,10647,352,688,4,1270,768,655,316,1444
 CREDIT AVEC UN	17833
 CREDIT Article	17443
 CREDIT Avez-vous	13390
@@ -303,6 +305,7 @@ CREDITS DEMANDES	13390
 CREDITS DEMANDES ET CEUX OCTROYES AINSI	13390
 CREDITS ET Dépôt de Solde	18032
 CREDITS IN THE AMOUNT OF EUR	16144
+CREDOP	18938
 CREDOS	17841
 CREDPOL	16633
 CREDWAVE LIMITED Data Processor INST-3652443F0C3 NAIROBI	7167
@@ -409,7 +412,7 @@ Crear Infraestructuras	16865
 Crear Un	16865
 Crear Unidades de Negocio	1701
 Creat Educ	17773
-Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1153,133,1,635,193,44,10,44,4,6,80,51,4,40,3,10,114,2,7,56,40,29,10,579,3,6,43,46,12,22,49,152,6,17,4,27,5,82,17,11,8,12,29,14,25,64,4,39,12,112,5,13,61,7,2,8,8,144,16,98,58,200,15,4,6,39,345,164,123,33,442,100,35,50,4,19,49,67,22,6,61,18,16,34,18,32,37,86,9,1,31,3,283,26,7,33,40,51,109,132,94,38,211,24,388,233,19,9,2,3,6,12,37,6,12,3,1,8,12,3,9,21,22,50,46,25,18,103,63,1,46,500,14,154,1,441,17,22,3,15,18,9,231
+Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1153,133,1,635,193,44,10,44,4,6,80,51,4,40,3,10,114,2,7,56,40,29,10,579,3,6,43,46,12,22,49,152,6,17,4,27,5,82,17,11,8,12,29,14,25,64,4,39,12,112,5,13,61,7,2,8,8,144,16,98,58,200,15,4,6,39,345,164,123,33,442,100,35,50,4,19,49,67,22,6,61,18,16,34,18,32,37,86,9,1,31,3,283,26,7,33,40,51,109,132,94,38,211,24,388,233,19,9,2,3,6,12,37,6,12,3,1,8,12,3,9,21,22,50,46,25,18,103,63,1,46,500,14,154,1,441,17,22,3,15,18,9,231,90,26
 Create AI	12675
 Create AI Act	2816
 Create AI Special Economic Zones	12210
@@ -442,10 +445,10 @@ Create the National Committee for Statistics	16863
 Create the National Research and Innovation Institute	14747
 Create-Thon	9641
 Create-thon	9641
-Created	395,941,244,2,497,2368,6423,1479,688,21,360,53,1180,346,405,684,180,966,134,104,35,365,168,271,179,12
+Created	395,941,244,2,497,2368,6423,1479,688,21,360,53,1180,346,405,684,180,966,134,104,35,365,168,271,179,12,482
 Created Fri	14105
 Creates	3495,7546,88,1117,198,2553,3678
-Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18,144,21,11,11,22,79,2,3,62,41,232,278,114,1,44,80,55,84,46,39,23,90,6,30,36,4,33,21,25,85,111,10,75,175,5,25,13,10,327,17,14,12,120,514,13,44,103,227,125,73,19,79,49,6,23,84,61,25,25,50,2,165,247,13,49,45,83,112,1159,12,1,57,9,12,7,5,21,74,87,103,602,8,662,75,33,46,60,24
+Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18,144,21,11,11,22,79,2,3,62,41,232,278,114,1,44,80,55,84,46,39,23,90,6,30,36,4,33,21,25,85,111,10,75,175,5,25,13,10,327,17,14,12,120,514,13,44,103,227,125,73,19,79,49,6,23,84,61,25,25,50,2,165,247,13,49,45,83,112,1159,12,1,57,9,12,7,5,21,74,87,103,602,8,662,75,33,46,60,24,134,103
 Creating Africa’s Largest Standalone Data Centre	14673
 Creating Conducive Digital Economy Environment	1795,1413,3881
 Creating Digital Skills	1953
@@ -462,6 +465,7 @@ Creating Local Content	16963
 Creating Markets	10768,73,123,1969
 Creating Opportunities Across Ghana's Digital Ecosystem	10585
 Creating Opportunities Across Ghana’s Digital Ecosystem	8988
+Creating Opportunities for Youth and Women	19179
 Creating Pathways	9873
 Creating Prosperity and Equal Opportunity For All	582
 Creating Prosperity and Equal Opportunity for All	789
@@ -478,7 +482,7 @@ Creating the Ghana Global AI Summit	4126
 Creating the National Payment Systems Advisory Committee	17188
 Creating the National Picture	4528,7984
 CreatingOneAfricanMarket	9034
-Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15,273,417,308,3,9,34,6,46,197,39,20,33,12,42,64,170,566,200,162,952,21,103,7,134,55,19,4,21,97,502,139,7,60,23,78,110,290,65,131,423,152,1,64,12,66,3,200,64,104,249,2,269,409,156,18,303,53
+Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15,273,417,308,3,9,34,6,46,197,39,20,33,12,42,64,170,566,200,162,952,21,103,7,134,55,19,4,21,97,502,139,7,60,23,78,110,290,65,131,423,152,1,64,12,66,3,200,64,104,249,2,269,409,156,18,303,53,127
 Creation Latest	10151
 Creation Model The Financial Stability	11134
 Creation Strategic Quadrants	14151
@@ -517,9 +521,10 @@ Creative Arts	16206
 Creative Arts and Cultural Development Programme	14829
 Creative Book Publisher	8022
 Creative Com	16876
-Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34,276,1,221,187,664,28,452,2019,172,231,342,242,1,1,9,1,906,308,348,456,30,7,76,25,242,316
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7,90,26,142,227,100,251,163
-Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,550,33,1396,66,928,26,806
+Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34,276,1,221,187,664,28,452,2019,172,231,342,242,1,1,9,1,906,308,348,456,30,7,76,25,242,316,465,33
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7,90,26,142,227,100,251,163,104,48
+Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,550,33,1396,66,928,26,806,229
+Creative Commons Attribution International	19080
 Creative Commons Attribution International License	11927
 Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358
 Creative Commons Attribution Non-Commercial-Share Alike	17856
@@ -531,12 +536,13 @@ Creative Commons Attribution-Non Commercial-Share Alike	13889,99,4135
 Creative Commons Attribution-Non- Commercial-Share Alike	10844,719,3908,2272
 Creative Commons Attribution-Non-Commercial	10841
 Creative Commons Attribution-Non-Commercial-ShareAlike	17950
+Creative Commons Attribution-Non-commercial-No Derivatives	18937
 Creative Commons Attribution-NonCommercial	12467,240,5329
 Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128,370,1,1100
 Creative Commons Attribution-NonCommercial-Share Alike	10764
 Creative Commons Attribution-NonCommercial-ShareAlike	14898,827,1216
 Creative Commons Attribution-Share Alike	15541
-Creative Commons Attribution-ShareAlike	12486,1585
+Creative Commons Attribution-ShareAlike	12486,1585,4840
 Creative Commons AttributionNonCommercialShareAlike	11006,1
 Creative Commons Attrlbution-ShareAlike Ucense	1009
 Creative Commons Attrlbutlo11	1009
@@ -602,7 +608,7 @@ Credible Evidence Generation GHAI	13608
 Credible Knowledge Foundations	18461
 Credible and Inclusive Elections	18531
 Credisure	3922
-Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,240,82,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20,206,165,81,354,116,190,73,171,17,26,107,29,183,30,39,179,29,78,38,67,2,86,123,66,7,66,341,145,67,139,17,15,66,18,34,2,4,79,16,1,31,11,42,13,16,10,16,1,21,59,1,45,43,11,5,20,29,33,2,399,54,27,21,103,24,217,4,1,37,81,34,27,164,72,22,25,6,28
+Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,240,82,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20,206,165,81,354,116,190,73,171,17,26,107,29,183,30,39,179,29,78,38,67,2,86,123,66,7,66,341,145,67,139,17,15,66,18,34,2,4,79,16,1,31,11,42,13,16,10,16,1,21,59,1,45,43,11,5,20,29,33,2,399,54,27,21,103,24,217,4,1,37,81,34,27,164,72,22,25,6,28,36,38,57,116
 Credit Accounts	7763
 Credit Accumulation and Transfer	12574
 Credit Act NCC National Consumer Commission	11198
@@ -649,7 +655,7 @@ Credit Information	12389,5720
 Credit Information Bureau India Ltd	18543
 Credit Information Coverage	12389
 Credit Information Sharing Association of Kenya	7167
-Credit Information System	11755
+Credit Information System	11755,7170
 Credit Information System Law	14997
 Credit Information and Scoring Agency. CIASA	14897
 Credit Infrastructure	18825
@@ -701,7 +707,7 @@ Credit Reference System The Credit Reference	17235
 Credit Reference X Bureau	1988
 Credit Registry	10609,8216
 Credit Registry Platform	18825
-Credit Reporting	11198
+Credit Reporting	11198,7727
 Credit Reporting Act	11993,673,900
 Credit Reporting Act The Credit Reporting	11993
 Credit Reporting Regulations	6940
@@ -722,8 +728,10 @@ Credit Suisse International	1829
 Credit Supply	13532
 Credit Support and Public-Interest Considerations	4896
 Credit Terms Extended	5247
+Credit Union Act	18925
 Credit Union Cap	1020
 Credit Unions	7760,9344,131,82
+Credit Unions and Payment Service Providers	19181
 Credit and Loans	12297
 Credit and Political Risk Insurance	11310
 Credit-active	11198
@@ -763,7 +771,7 @@ Crei Networks	3862
 Crelicam	12517
 Cremers	11156
 Crenshaw	6231
-Creole	7367,7375,9,67,2346,81
+Creole	7367,7375,9,67,2346,81,1928
 Creole Speaking Union	14742
 Creole and Bhojpuri	14742
 Creoles	14751
@@ -993,7 +1001,9 @@ Extended Credit Facility Arrangement for Guinea-Bissau	17326,13
 Extended Credit Facility and Extended Fund Facility	17990
 Extended Credit Facility-supported	15658
 Extended Credit Facility. Based	15029,2180,117,1497
+F. Credit	18887
 F. Fintech Credit Guarantee Window	4848
+F.Â Credit	18887
 FIBANE RNSM CREMF	10965
 FIDO Fintech Digital Credit Series B	1472
 FIDO Micro Credit Ltd	1472
@@ -1066,6 +1076,8 @@ Government of Liberia Trains Content Creators	17106,81,79
 Graca Machel Trust Women Creating Wealth	1857
 Grameen Credit Agricole Foundation	13938
 Grant Amount Guarantee Amount Credit	10964
+Grant and Credit	18887
+Grant and Credit. Table	18887
 Grants and Lines of Credit	18220
 Grassroots Community Organization OMM CREWS	18309
 Graça Machel Trust's Women Creating Wealth	1857
@@ -1088,6 +1100,7 @@ Henrik Franklin. Creating Pathways for Youth	9197
 High Medium High Credit Institutions	12444
 High-Margin Credit Lending	5869
 High-Value Job Creation	4528,7984
+Hire Purchase and Credit Sale Act	18925
 Home Affairs. Creating	2681
 Honourable Ms. Barbara Creecy	13655
 Human Resource Management CIASA Credit Information	14897
@@ -1095,8 +1108,8 @@ Hyatt Regency Dubai Creek Heights	4954
 IBRD CREDIT NO.8958-KE	14546
 IBRD Loan and IDA Credits and Grants	10964
 IBRD Loans and IDA Credit	15411
-IBRD Loans and IDA Credits	15372
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249
+IBRD Loans and IDA Credits	15372,3515
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249,689
 ICMIUEMOA PORTANT CREATION D'UN CONSEIL NATIONAL	14849
 ICT Standards Technical Task Team Creation	13308
 ID Credentials	13080,2655
@@ -1104,13 +1117,13 @@ ID Credentials Ministry of Health	12241
 ID Credentials Strategy	3427
 IDA CREDIT NO	14546
 IDA CREDIT NO.6980-KE	14546
-IDA Credit	773,491,989,1351,7359,562,380,60,447,257,663,683,538,23,562,412,71,181,181,161,149,91,270,1,20,285,1340
+IDA Credit	773,491,989,1351,7359,562,380,60,447,257,663,683,538,23,562,412,71,181,181,161,149,91,270,1,20,285,1340,587
 IDA Credit IDA Resources	10964,891
 IDA Credit No	15802
 IDA Credit Non-World Bank Group Financing	3456
 IDA Credit US	13831
 IDA Credit of US	13897
-IDA Credits	13826,1546
+IDA Credits	13826,1546,3515
 IDA Credits and Grants	1264
 IDA Resources Credit Grant SML Guarantee	14553
 IDA-63690 ON A CREDIT	11924
@@ -1190,7 +1203,7 @@ Job Creation. Eswatini	3373
 Jobs Created	12493
 Jobs Job Creation Public Private Partnerships	15424
 J’AI UN CREDIT DE TVA POUR	16629
-KB Created	14087
+KB Created	14087,4995
 KYC Education Credit	12214
 Kabwe. Lines of Credit	13561
 Kathrin Cresswell	1824
@@ -1227,9 +1240,11 @@ Licença Creative Commons Nossos	9432
 Limkokwing University of Creative Technology	12709
 Line of Credit	180,13381,2716,8,364,490,96,781,527,20
 Line of Credit LBR Liberia Payments Infrastructure	17235
+Line of Credit and USD	19166
 Line of Credit of US	11579,3805
 Line of Credit of USD	15457
 Lines of Credit	2667,9258,1054,2405,853,19,19,966,775,362,165,20
+Lines of Credit and USD	19063,1
 Loans and Credit Facilities	17236
 Loans and IDA Credits	15411
 Local Government Credit Beneficiaries	7763
@@ -1317,6 +1332,7 @@ National Financial Credit	5033
 National Job Creation Strategy	12964,96
 National Market for Cybersecurity Skills Creating	1777
 National Registration Bureau CRB Credit Reference	11994
+National Secured Credentials Agency	18933
 National Statistical System Create	16863
 National Statistical System Create the GIS Unit	16863
 News Kingston Creative Becomes First Caribbean	15750
@@ -1413,6 +1429,7 @@ Partnership Creating	16884
 Payments and Credits	14675
 People Create	14674
 Percentage of Credit Allocated Expenditures	10964,4408
+Percentage of Credit Allocated Grant Allocated Expenditures	18887
 Personal Credential Verification Reports	6727
 Phase II MSME Line of Credit	17139
 Physical Smart ID Cards and QR-Based Credentials	5533,58,6395
@@ -1507,6 +1524,7 @@ Robust Credit Infrastructure	940
 Rocky Crest	3475,9708
 Rodriguan Creole Dictionary	14742
 Rotating and Savings Credit Associations	940
+Rupee-denominated Line of Credit and USD	19060
 Rural Savings and Credit Unions	13911
 Rwanda Credit No	15080
 S&P Global Ratings Confirms Rwanda's Credit	14873
@@ -1546,7 +1564,10 @@ Secured Creditor	13333
 Seguridad Social Creación	16898
 Services Data-Driven Intelligent Policy Making Create	15713
 Settlement and Credit Reference Systems	16844
-Seychelles Credit Union	1892
+Seychelles Creative Agency	19108
+Seychelles Credit Union	1892,17087
+Seychelles Creole Institute	19108
+Seychellois Creole	19108
 Shared Vision for Africa's Creative Future	14139
 Shareholder and Stakeholder Value Creation	14151
 Sig. Creative Services	16266
@@ -1563,6 +1584,7 @@ Specialized Create	4126
 Standards and Creation of Compliance Department Documents	12360
 Standby Letters of Credit	14546
 Standing Credit Facility	17138,97
+Standing Deposit Facility and Standing Credit Facility	19098
 Started Not Rated MSME Credit Expansion	17139
 State Department for Youth Affairs and Creative Economy	14546
 State of Cabo Verde Created	11875
@@ -1595,6 +1617,7 @@ Sustainable Value Creation	3487
 Sustainable Value Creation. Under	14151
 T-I18-4 AI Innovators Hub Create	15713
 TAX CREDIT NOTE	17108
+TAX CREER UN COMPTE SUR	18973
 TELECHARGEZ LA PROCEDURE DE CREATION	16249
 THIRD REVIEW UNDER THE EXTENDED CREDIT	17257
 TITRE II CREATION DE LíORGANISATION Article	15410
@@ -1611,6 +1634,7 @@ Technology Inter-Agency Committee Description Date Creation	2779
 Technology and Creative	567
 Technology and Innovation Create Innovation Fund	1161
 Terence Creamer	11904
+Terrence Crea	19076
 Test of Fiscal Credibility	17714
 Third Review Under the Extended Credit Facility	17257
 Third and Fourth Reviews Under the Extended Credit	15752
@@ -1636,7 +1660,8 @@ UNHCR and Grameen Credit Agricole Foundation	13938
 UNLICENSED DIGITAL CREDIT SERVICES PROVIDERS	7464,1268
 USING A CREDIT CARD INFORMAL	10977
 Um Crescimento da Consciência	2816
-Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783,206,778,2,1583,550,33,1396,66,928
+Umbrella Line of Credit Agreement for INR	19166
+Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783,206,778,2,1583,550,33,1396,66,928,1061
 Under the Extended Credit Facility Arrangement	18823
 Under the Extended Credit Facility Arrangement and Concludes	13741
 Unified Credit Information Platform	6107
@@ -1673,6 +1698,7 @@ Verifiable Credentials Infrastructure	3594
 Verifiable Digital Credentials	14756,6
 Verified Credentials Wallet. Phase	11940
 Verified Credit Decision	5482
+Video Credit	19191
 Village Bank and Savings and Credit Co-operatives	12409
 Virtual University Creation Project	15550
 Visualization Tools Create	18747

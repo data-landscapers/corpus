@@ -189,6 +189,7 @@ Africa Technology Policy Tracker	2677,2873,1240,1628
 Africa. The Africa Technology Policy Tracker	8418
 African Centre for Technology Studies	1154,400,7210,2376,1070
 African Centre for Technology Studies Data Controller	7167
+African Continental Technical Regulatory Framework	19067
 African Digital Trade and Technology Forum	4846
 African Financial Technology	15641
 African Science and Technology Consolidated Plan	12675
@@ -207,7 +208,8 @@ Age of Accelerating Technological Advancement	6948
 Agence Nationale de Promotion des Technologies	15621,16,1,82
 Agence Nationale des Technologies	2695,1290,2753,8640,73,29,62,653
 Agence de Consolidation des Technologies	15411
-Agence de Développement des Technologies	6125,150
+Agence de Développement des Technologies	6125,150,12656,52,68,4,10
+Agence de Développement des Technologies de L’Information	19202
 Agence de Transfert des Technologies Financières	10237
 Agence des Technologies	17824,8,24,14,95,1
 Agence. Le Département Technique	13683
@@ -292,7 +294,7 @@ Assan Mhlanga Technical Supervisor	13392
 Assessment Battery Storage Technologies	18374
 Assessment Framework Technologies	7548
 Assessment System SITA State Information Technology	11218
-Assistance Technique	643,1185,4999,898,5708,2371,842,1248,371
+Assistance Technique	643,1185,4999,898,5708,2371,842,1248,371,702
 Assistance Technique B2G Business	11944
 Assistance Technique MEF	1307,724,2277
 Assistances Techniques	16646
@@ -334,6 +336,7 @@ Awarri Technologies	2394,1228
 B- Local Technical Participation	7548
 B. Technical	2889,8636,440,3407,39,2030
 B. Technical Component	15411
+B.Â Technical	18887
 B2C E-commerce Index. Technical Note No	15480
 BAC Technique	18143,27
 BAD Appui Technique	13433
@@ -486,6 +489,7 @@ CABO VERDE TECHNOLOGY PARK	8166
 CADANA TECHNOLOGIES LIMITED Data Controller INST-88011200095	7167
 CADANA TECHNOLOGIES LIMITED Data Processor INST-88011200095	7167
 CAPACITY TO USE THE TECHNOLOGY	14004
+CAR Joint Technical Team	18887
 CARACE TECHNOLOGIES LIMITED Data Controller INST-7120184F6DE	7167
 CARACE TECHNOLOGIES LIMITED Data Processor INST-7120184F6DE	7167
 CARDINAL MAURICE OTUNGA TECHNICAL AND VOCATIONAL	7167
@@ -562,6 +566,7 @@ COMTEL TECHNOLOGIE Traitement	10821
 COMVIVA TECHNOLOGIES LIMITED Data Processor INST-809463AC3B3	7167
 CONCLUSION ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY	12395
 CONRA TECHNOLOGIES KE LIMITED Data Controller	7167
+CONSULTANT SHALL SUBMIT BOTH THEIR TECHNICAL	18965
 CONTENTS OF TECHNICAL ANNEXES	11863
 COO of Trinity Technologies Limited	18748
 COOPERATION TECHNIQUE	16617
@@ -670,12 +675,14 @@ Centre for Nuclear Science and Technology	5328
 Centre for Radio Astronomy Techniques and Technologies	10076
 Centre for Renewable Energy Systems Technology	12178
 Centre. Le Directeur Technique	15366
+Centres de Formation Technique	18884,88,200
 Centrino Technologies Ltd Data Processor INST-362147EEE9A	7167
 Century Link Technologies Limited Tel	3386
 Century Technologies	5200,870,496,544,935
 Century Technologies Ikeja Campus	8045
 Century Technologies and China Mobile International	6566
 Ceo of Orya Technologie	2400
+Chad CAB Technical Committee	18887
 Challenges and Solutions. Journal of Educational Technology	11927
 Chamasiri Technical And Vocational College Data	7167
 Chapter Zimbabwe National University of Science Technology	1154
@@ -767,7 +774,7 @@ Coloniality of Chinese Surveillance Technologies	2518
 Comit de Suivi Technique	17441
 Comité Consultatif des Partenaires Techniques	11944
 Comité National Technique	15680
-Comité Technique	3396,1739,2029,4780,1356,23,18,1147,1,1,893,290,943,1201,32
+Comité Technique	3396,1739,2029,4780,1356,23,18,1147,1,1,893,290,943,1201,32,1340
 Comité Technique Consultatif	1005
 Comité Technique Interdépartemental	17898,15
 Comité Technique National	15965
@@ -782,6 +789,7 @@ Comité Technique Régional de Thiès	18286
 Comité Technique Rôle	12043
 Comité Technique de Communication CEDEAO	18100
 Comité Technique de Coordination	10712
+Comité Technique de Normalisation	19189
 Comité Technique de Programmation des Activités Statistiques	16373
 Comité Technique de Santé de District DGCE	15720
 Comité Technique de Suivi	10829,51,84,4459
@@ -834,6 +842,7 @@ Communication Technology IEC Information	13005
 Communication Technology INHCR Independent Human Rights	16943
 Communication Technology IPF LEO International Development	16144
 Communication Technology IT Information Technology KPA	9855
+Communication Technology InfoCom Information Commission IO	19042
 Communication Technology Policy	13346
 Communication Technology Project Manager	12935
 Communication Technology Standards and Guidelines	34
@@ -850,7 +859,7 @@ Communication and Digital Technologies	11220,3555,37
 Communication and Information Technologies	26,1,1
 Communication and Information Technology	1803,2911,1074,242,138,759,2762
 Communication and Technological	1554
-Communication and Technology	359,377,285,56,526,501,788,2123,508,251,742,514,392,828,667,3232,91,94,92,249,229,18,18,16,6,10,71,53,23,4,3,1323,293,174,275,256,1495,28,1552,169
+Communication and Technology	359,377,285,56,526,501,788,2123,508,251,742,514,392,828,667,3232,91,94,92,249,229,18,18,16,6,10,71,53,23,4,3,1323,293,174,275,256,1495,28,1552,169,390
 Communication and Technology Joyce Ssebugwawo	9983
 Communication and Technology MDA Ministries	16927
 Communication and Technology Savannah Maziya	5450,1580,7228
@@ -865,7 +874,7 @@ Communications Technology Authority ZRA Zambia Revenue	13347
 Communications Technology ID Identification	11261
 Communications Technology IOT	14879
 Communications Technology Law	17780
-Communications Technology Policy	12529
+Communications Technology Policy	12529,6356
 Communications Technology Projects	17432
 Communications Technology Standards and Guidelines	34
 Communications Technology Strategic Plan	14120
@@ -1181,7 +1190,8 @@ Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1
 Department of Computer Science and Information Technology	10323
 Department of Economic and Social Affairs TECHNICAL APPENDIX	14006
 Department of Emerging Technologies	7548
-Department of Information Communications Technology	1882
+Department of Information Communication Technology	18981,35,24
+Department of Information Communications Technology	1882,17083,131,104
 Department of Information Technology	7438,5091
 Department of Information and Communication Technology	6831,6479
 Department of Information and Communications Technology	1737
@@ -1387,7 +1397,7 @@ Développement CTA Centre Technique de Coopération Agricole	15583
 Développement PTF Partenaire Technique	15580
 Développement Technologique	15542
 Développement des Parcs Technologiques	15472
-Développement des Technologies	15472,149
+Développement des Technologies	15472,149,3553
 E&M TECHNOLOGY HOUSE LTD Data Processor	7167
 E-GOVERNANCE Information Technology	9437
 E-Government Technology Inter-Agency Committee	2779
@@ -1453,6 +1463,7 @@ ET DES INNOVATIONS DES TECHNIQUES	16175
 ETB Equipe Technique	17845
 ETUDES TECHNIQUES D'INFRASTRUCTURES ROUTIERES ET APPUI	15999
 EU State Building Contract III Technical	18488
+EU Technical Assistance Fund	19179
 EU-US Trade and Technology Council	11154
 EU-funded State Building Capacity and Technical Assistance	18500
 EVALUATION CRITERIA BUSINESS VALUE TECHNICAL COMPLEXITY	6432
@@ -1471,6 +1482,7 @@ Eau Conseiller Technique Administration	17866
 Ebimpé Technical and Vocational High School	16460
 Ebukanga Technical and Vocational College	12268
 Ebukanga Technical and Vocational College Data Controller	7167
+Ecole Nationale Supérieure des Technologies	18902
 Ecole Supérieure Africaine des ESF Technologies	3604
 Ecole Supérieure Africaine des Technologies	3604,7307,37,4988
 Ecole Technique	18757
@@ -1498,6 +1510,7 @@ EducationScience and Technology Minister of Education	13477
 Educational Technical Cooperation Project	122,337
 Educational Technical Cooperation Project. China’s Ministry	122,337
 Educational Technology	6832,2296,4863,2972,200
+Educational Technology Section	18975
 Educational Technology and Optimization	15163
 Educational Technology. June	13991
 Effectiveness of Innovations and Technologies	13998
@@ -1710,7 +1723,8 @@ Engineering and Technology UTG University of The Gambia	17105
 Enhance Technical	1000
 Enhanced Department of Information Technology	12529
 Enhancements and Technical Support	13042
-Enseignement Technique	8895,160,1227,1623,11,2556,58,92,754,98,19,3,177,39,136,88,76,93,511,10,15,21,51,1374
+Enseignement Secondaire Technique	18884
+Enseignement Technique	8895,160,1227,1623,11,2556,58,92,754,98,19,3,177,39,136,88,76,93,511,10,15,21,51,1374,797
 Enseignement Technique CSLP Cadre Stratégique de Lutte	17907
 Enseignement Technique PSCIPGO	15712
 Enseignement Technologique de Rosso	17853
@@ -1845,13 +1859,14 @@ Financial Stability Technical Committee	11131,3
 Financial Technologies	6697
 Financial Technology	11131,3,1310,1115,1170,912,2229
 Financial Technology Development	11131,3
+Financial Technology FNDS Fonds National de Developpement	18931
 Financial Technology Lab	13559
 Financial Technology. Article	15641
 Financial and Technical Proposals	12686
 Financials and Information Technology	4972
 Financing the NQI and Technical Regulation Framework	13320
 Finch Technologies	6286
-Firm Level Technology Absorption Index	17870
+Firm Level Technology Absorption Index	17870,1061
 Firm-Level Technology Absorption Index	17870
 Firm-level Adoption of Technology	7655
 Fishing National Technical Assitance	15500
@@ -1865,7 +1880,7 @@ Foreign Affairs Technologies	7548
 Forensic Technologists Cadre	14742
 Foreword Information and Communication Technology	12896
 Foreword The Information and Communications Technology	18485
-Formation Technique	10611,2831,1845,192,194,862,1049,231
+Formation Technique	10611,2831,1845,192,194,862,1049,231,1069,288
 Former Director Technical Standard FMoCDE	11857
 Foundation For Business Technology	12478
 Foundation for Research and Technology Hellas	12246
@@ -1889,6 +1904,7 @@ Full Technical Report URL	15164
 Fund IT Information Technology KfW German	18293
 Fund MTRI Information Technology MTRS Large	12500
 Funding and Technical Establish	14566
+Fusepay Technology Inc	19021
 Future Technologies	12333
 Future Technology Solution	3386
 Fédération des Technologies	17448
@@ -1945,6 +1961,7 @@ General Dynamics Information Technology	8141
 General General Vocational Technical Sports Grade	15604
 General Leclerc Military Preparatory School and Technical	15513,40
 General Manager of Technical Services	12539
+General Purpose Technology	18887
 General Technical Requirements	13185
 General Technologies	12035
 General Technologies. Who Benefits	12035
@@ -1958,6 +1975,7 @@ Genew Technologies	4478,2534
 Genew Technologies Chief Executive Wu Minhua	7012
 Geo Technical Survey	11131
 Geological Exploration Technology Institute	191
+Geospatial Technical Committee	18904
 Geospatial Technologies and Digital Infrastructure	6480
 Geospatial Technology	12457
 Gestion Publique SCIENCES ET TECHNOLOGIES Sécurité	15674
@@ -1991,6 +2009,7 @@ Governance-Mediated Technology Acceptance	5349
 Governing Information and Communication Technologies	12419,2730
 Government Chief Technical Officer Kasali Musenge	7384
 Government Chief Technology Officer Kasali Musenge	5984
+Government Development Index EdTech Educational Technologies	18931
 Government Executing TECHNICAL DESIGN High	11863
 Government ICT Information Communication Technology	13308
 Government Information Technology Officer Council	11184
@@ -2016,6 +2035,7 @@ Gross Domestic Product Harare Institute of Technology	4528
 Group CEO of Cassava Technologies	3947
 Group COO and Group Chief Technology	5297,142
 Group COO and Group Chief Technology and AI	5311
+Groupe Consultatif Technique Independent GLPE	18942
 Groupe Consultatif Technique Indépendant	15673
 Groupe Technique	17845
 Groupe Technique Consultatif	15685
@@ -2035,6 +2055,7 @@ H. Notification of Evaluation of Technical Parts and Public	13185,1895
 HAK Technology	16876,338
 HAKAIZIMANA Donavine TECHNICIENS DE LABORATOIRE ANALYSE	13300
 HARARE INSTITUTE OF TECHNOLOGY	13368
+HAVE PASSED THE TECHNICAL PROPOSALS	18965
 HEALTH CARE TECHNOLOGY	16900
 HH Households IT Information Technology MCNHRP	16867
 HHs. Technical	15663
@@ -2132,6 +2153,7 @@ ICT Information and Communication Technologies	12917
 ICT Information and Communication Technologies IDEA Indice	13341
 ICT Information and Communication Technologies IOT Internet	14790
 ICT Information and Communication Technology	11965
+ICT Information and Communication Technology DICT Department	19079
 ICT Information and Communication Technology ICT Policy	15164
 ICT Information and Communication Technology IT Information	11196
 ICT Information and Communications Technology Figure	582
@@ -2265,11 +2287,12 @@ Index ICT Information and Communication Technologies MCTI	12376
 India Technical and Economic Cooperation	17240
 India's Ministry of Electronics and Information Technology	3363,2235
 India's Software Technology Parks	8206
+India-assisted Professional and Technical Education Centre	19166
 Indian Institute of Information Technology	5682
 Indian Institute of Technology Madras Zanzibar	7034
 Indian Technical	16237,19
 Indian Technical and Economic	18016
-Indian Technical and Economic Cooperation	4849,7076,4312,40,957,6,776,841
+Indian Technical and Economic Cooperation	4849,7076,4312,40,957,6,776,841,203
 Indian Technical and Economic Cooperation Indian Ambassador	4849
 Indice de Développement des Technologies	15512,2692
 Industrial Technical	13310
@@ -2282,7 +2305,7 @@ Information ATS Agent Technique	15479
 Information AgTech and Communication Technologies Agency	17870
 Information Communication Technologies	11791,850,705,1328,291,421,318,1168,103,190,1405
 Information Communication Technologies Act	13298
-Information Communication Technology	958,2093,2832,1063,575,501,953,2154,827,404,23,84,479,123,31,246,128,88,103,40,841,324,502,181,1319,6,93,1489,157
+Information Communication Technology	958,2093,2832,1063,575,501,953,2154,827,404,23,84,479,123,31,246,128,88,103,40,841,324,502,181,1319,6,93,1489,157,270
 Information Communication Technology Agency	1714
 Information Communication Technology Architecture	3760,9683
 Information Communication Technology Association of Zambia	13347
@@ -2296,6 +2319,7 @@ Information Communication and Technology Authority	14546
 Information Communications Technologies	10856,1680
 Information Communications Technology	582,4028,8104,226,4003
 Information Communications Technology IFMIS	16872
+Information Communications Technology of Seychelles	19063,1
 Information Communications and Technologies Act	13321
 Information Communications and Technology	4896,8033,463,166
 Information Officer GITO Government Information Technology	11184
@@ -2308,7 +2332,7 @@ Information Technologies	226,3619,5655,1264,2526,1476
 Information Technologies and Communications Authority	15099
 Information Technologies and Services	3722
 Information Technologies and Social Communication	3136,419,131,181,11,1560,329,220,495,114,32,36,133,465,3697,507,1722
-Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2,573,47,424,82,10,15,40,281,28,37,12,136,33,24,11,15,5,55,36,5,234,2,54,17,10,25,164,388,179,77,338,209,44,16,130,69,18,38,30,95,196,142,374,217,664,36,28,6,22,22,53,3,179,301,312,674,10,3,28,25,68,24
+Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2,573,47,424,82,10,15,40,281,28,37,12,136,33,24,11,15,5,55,36,5,234,2,54,17,10,25,164,388,179,77,338,209,44,16,130,69,18,38,30,95,196,142,374,217,664,36,28,6,22,22,53,3,179,301,312,674,10,3,28,25,68,24,429
 Information Technology Act	8210,998
 Information Technology Agency	4525
 Information Technology Agency NLP Natural	4126
@@ -2326,14 +2350,16 @@ Information Technology Biometric Framework	12360
 Information Technology Biometric Framework for Face	12360
 Information Technology Biometric ISO	12360
 Information Technology Cabinet	10765,10
+Information Technology Centre	18957
 Information Technology Centre of Excellence	16277
 Information Technology Chairman	16212
 Information Technology Company	2837,11148
 Information Technology DATA GOVERNANCE	3184,1,7810
 Information Technology Day	6243
 Information Technology Department NFIS	18770
-Information Technology Development Agency	5665
+Information Technology Development Agency	5665,13491
 Information Technology Development Company	4284
+Information Technology Division	19093
 Information Technology Equipment CRAC	9123
 Information Technology Governance	13037
 Information Technology Health Care Equipment	4972
@@ -2447,7 +2473,7 @@ Information and Communication Technology. VigiMobile	14037
 Information and Communications Technol-	13347
 Information and Communications Technologies	22,373,862,5414,5705,1023,323,265,736,701,1428,435,575,623
 Information and Communications Technologies Act	2913
-Information and Communications Technology	236,160,206,189,879,148,828,1,88,2509,84,317,1,1186,239,782,423,759,746,376,1041,18,639,2,596,76,23,122,363,276,32,159,486,465,403,25,628,7,1327,27,103,457,1314
+Information and Communications Technology	236,160,206,189,879,148,828,1,88,2509,84,317,1,1186,239,782,423,759,746,376,1041,18,639,2,596,76,23,122,363,276,32,159,486,465,403,25,628,7,1327,27,103,457,1314,139
 Information and Communications Technology Agency Act	16924
 Information and Communications Technology Authority	14883
 Information and Communications Technology Authority Order	2709
@@ -2534,6 +2560,7 @@ Institute GTTI Technical Training Institute HFO	17105
 Institute for Technical Advice and Support	17613
 Institute of Communication Sciences and Techniques	3604
 Institute of Information Technology Professionals South	6832
+Institute of Science and Technology of Abéché	18933
 Institute of Standards and Technology	11196
 Institute of Technical Education and Technology	14742,77
 Institutional Accountability and Technology Governance	11138
@@ -2777,6 +2804,7 @@ Legal Technical Capacity Organizational	10764
 Legal Technology	8978
 Lemi Technologies	10605
 Lemi Technologies. Ce	10605
+Les Centres de Formation Technique	18884
 Les Comités Techniques Sectoriels	15416
 Les Comités Techniques de Gestion de Programmes	10712
 Les Conseiller Technique du MSDS	17845
@@ -2801,6 +2829,7 @@ Leveraging Technology for Climate Resilience At COP29	15120
 Leveraging Technology for Infrastructure Development	17260
 Leveraging Technology for Sustainable CRVS EGMRG Victoria	11480,584
 Leveraging of Digital Technologies	18456
+Liber Technologie	18940
 Liber Technologies	4594
 Liberia Information Technology Students Union	17070
 Liberia Information and Communications Technology	1777,15095
@@ -2861,14 +2890,17 @@ Lycée Technique National Aboubacar Sangoulé Lamizana	10259
 Lycée Technique de Ksar Sghir	17473
 L’AGENCE NATIONALE DE PROMOTION DES TECHNOLOGIES	15638
 L’Agence Nationale de Promotion des Technologies	16228
+L’Agence de Développement des Technologies	19167
 L’Agence des Technologie	17824
 L’Association Comorienne des Technologies	743
 L’Autorité Nationale de Régulation des Technologies	743
+L’Ecole Nationale Supérieure des Technologies	18902
 L’Enseignement Technique	16662
 L’Information and Communication Technologies	10030
 L’Organe Technique de Coordination	18100
 L’avènement des Technologies	17836
 L’utilisation des Technologies	18105
+L’École Nationale Supérieure des Technologies	19174
 M BUREAU D'ETUDES TECHNIQUES	16623
 M1 Technologies	12478
 M601dn Printer Technology Laser	34
@@ -3008,6 +3040,7 @@ Metrological and Technical Requirements This Recommendation	16900
 Micron Technology	10489
 Middle East Financial Technology Providers	14897
 Middle East Regional Technical Assistance Center	16955
+Middle Income Country Technical Assistance Fund	19027
 Midwife Technicians	13166
 Migration Data Technical Working Group	14021
 Migration IT Information Technology LEAP Livelihood	10841
@@ -3161,7 +3194,7 @@ Mobile Technology	11986,6499
 Mobile Technology Deployment	13336
 Modeling the Diffusion of Mobile Technologies. Saarbrücken	11310
 Moderate Moderate Technical Design of Project	16638,1835
-Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127,676,8
+Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127,676,8,165
 Moderate. Technical Design of Project	11965
 Modernize Technical Education	6884
 Modulation Technique Proposed ITU	736
@@ -3171,6 +3204,7 @@ Monitoring Vital Events Using Information Technology	10822
 Monitoring and Evaluation IT Information Technology LMIS	15556
 Monitoring of Emerging Digital Technologies	6707
 Monsieur Boubacar BASS Conseiller Technique	17841
+Month. B. Technical	18887
 Moonlight Technologies	10184
 Moroccan Information Technopark Company	17448
 Moyenne Entreprise NTIC Nouvelles Technologies	11944
@@ -3283,7 +3317,8 @@ National Emerging Technologies Centre of Excellence Role	12356
 National Enquiry Point for Technical Barriers	14736
 National Financial Inclusion Technical Committee	940
 National Financial Inclusion Technical Committee. Page	940
-National Geospatial Technical Committee	12457
+National Geospatial Technical Committee	12457,6447
+National Geospatial Technical Committee The National	18904
 National Health Information and Communication Technology	11990
 National Health Promotion Technical Working Group	16971
 National Health Technology and Data Analytics Office	18253
@@ -3314,10 +3349,12 @@ National Information and Communication Technology Institute	7673
 National Information and Communication Technology Policy	34,12219,1083,10,1
 National Information and Communications Technology	12529
 National Information and Communications Technology Policy	12529
+National Institute for Science Technology and Innovation	18949
 National Institute for Standards and Technology	9747,54,3,23
 National Institute for Technologies and Communication	12294
 National Institute of Information Technologies	11120
 National Institute of Standards and Technology	3279,337,2923,739,3065,813,109,1099,2237,2322,1
+National Institute of Technology	19096
 National Judicial Technology Strategy	8978
 National Judicial Technology Strategy The National	8978
 National Mortality Technical Committee	12338
@@ -3370,7 +3407,7 @@ National University of Science and Technology	1154,400,2974,7984,882,7,74
 National University of Science and Technology Office	1154
 National University of Science and Technology Online Grants	1554
 National University of Science and Technology The RCZ	1154
-Nationale Supérieure des Technologies	10094
+Nationale Supérieure des Technologies	10094,8938
 Nautilus Technology Traitement	10821
 Navigating the Jagged Technological Frontier	16266
 Ndarama Technologies	8483,5205
@@ -3408,7 +3445,7 @@ Notice Following Technical Evaluation for Consultancy	3700
 Notre Technologie Une	13740
 Nouvelle Technologie	13855,4090
 Nouvelles M&E NCP Technologies	15372
-Nouvelles Technologies	1285,1,1515,322,1,181,32,630,22,50,345,1,989,2619,1675,943,969,114,434,1162,11,2071,27,24,262,16,77,592,246,989,68,139,5,2,5,276,18,9,30,7,40,4,2,21,4,1,3,11,2,13
+Nouvelles Technologies	1285,1,1515,322,1,181,32,630,22,50,345,1,989,2619,1675,943,969,114,434,1162,11,2071,27,24,262,16,77,592,246,989,68,139,5,2,5,276,18,9,30,7,40,4,2,21,4,1,3,11,2,13,622,15
 Nuclear Science and Technology	5755,1,8196
 Number of Technologies	7548
 Nurses and Lab Technicians	14476
@@ -3432,6 +3469,7 @@ OFFENCES RELATED TO INFORMATION TECHNOLOGY	18459
 OFFRE TECHNIQUE	13467,57
 OKTO TECHNOLOGIES. Cet	3376
 OKTO Technologies and IT6	3690
+ONG Technidev	18944
 OP Information Technology	6946
 OP Operational Technology PABX Private Automatic	6946
 OPERATIONAL CAPABILITIES EXPLOITING TECHNOLOGY	14760
@@ -3448,6 +3486,7 @@ Office Management and Technology	6832
 Office Ministry of Communications and Technology. Mogadishu	2800
 Office for Digital and Emerging Technologies	10210
 Office of Digital Health Technology. Six	11041
+Office of Information Technology	19161
 Office of Information Technology PPP	16975
 Office of Science and Technology Policy	5773,1017,3655
 Office of Science and Technology Policy. X. Review	5773
@@ -3500,7 +3539,7 @@ PART VII EMERGING TECHNOLOGIES AND INNOVATION	15641
 PART X TECHNICAL ASSISTANCE	15641
 PARTENAIRES TECHNIQUES ET FINANCIERS DU SECTEUR	18105
 PARTENAIRES TECHNIQUES ET FINANCIERS RESEAU EN	18105
-PARTIE TECHNIQUE	5983,7572,943,3416,123,157
+PARTIE TECHNIQUE	5983,7572,943,3416,123,157,963
 PBF National Technical The World Bank	10829
 PBF National Technical Unit Average	10829
 PBF National Technical Unit District	10829
@@ -3554,7 +3593,7 @@ Parliament Technologies. Data Governance Amendment Within	7548
 Part IV--Use and Management of Technology	10812
 Part of New Technology Deal	1529
 Partenaire Technique	10965,3477,30,951,2419,40,63,346
-Partenaires Techniques	2971,7741,162,2,89,979,1362,19,1163,1,1,893,92,4,153,36,5,12,26,35,582,53,235,4,1,1209,12,2,1,138,117,3,2,61,3,117
+Partenaires Techniques	2971,7741,162,2,89,979,1362,19,1163,1,1,893,92,4,153,36,5,12,26,35,582,53,235,4,1,1209,12,2,1,138,117,3,2,61,3,117,681
 Partenaires Techniques Financiers RAR Restes	10712
 Participant Technical Requirements	12364
 Partnership Framework CTN-FBP National Technical Unit	10829
@@ -3608,6 +3647,7 @@ Portefeuille Technologie	2342
 Positive Technologies	3855
 Post and New Information and Communications Technologies	16942
 Poste Département Radio Département Technique Département	17866
+Postes des Technologies	18887
 Posts and Telecommunications Institute of Technology	1962
 Potential Impact of Digital Technologies and Services	12948
 Pout Technologie	18322
@@ -3987,7 +4027,7 @@ Science Technology Park	11863
 Science Technology and Innovation	16861
 Science and Elementary Technology	12411
 Science and Research Technical Advisory Committee	5036
-Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33,163,12,16,38,41,120,20,723,334,69,54,333,33,44,320,224,11,1478,35,40,40,6,145,78,134,17,81,118,25,20,64,881,70,17,12,130
+Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33,163,12,16,38,41,120,20,723,334,69,54,333,33,44,320,224,11,1478,35,40,40,6,145,78,134,17,81,118,25,20,64,881,70,17,12,130,192
 Science and Technology Accelerator-Systems	9697
 Science and Technology Act	5036
 Science and Technology Bindura Nickel Corporation Civil	1554
@@ -4288,11 +4328,13 @@ Support Specialists Technology Education	6832
 Support Technique	15614
 Support and Technical Maintenance Networks	16963
 Supérieure Africaine des Technologies	1598,1333,13005
+Supérieure des Technologies	18931
 Surna Technologies	17235
 Survey and Drafting Technology. Humed Mahmud Abdella	13972
 Sustainability and Technology USAf Universities South Africa	5246
 Svetla Dalbokova II. Technical	15901
 Swarm Intelligence and Speech Technologies. CAIR	11336
+Swiss Agency for Development Cooperation TVET Technical	18911
 Switch Financial Technology Gross Domestic Product	11131
 Synectics Technologies	3561,15
 System Health Products and Technologies Human Resources	4153
@@ -4358,6 +4400,7 @@ TECHNICAL REQUIREMENTS AND SPECIFICATIONS This RFP	12681
 TECHNICAL SPECIFICATION	11209
 TECHNICAL SPECIFICATIONS	12681
 TECHNICAL SPECIFICATIONS AND REQUIREMENTS	14864
+TECHNICAL STANDARDS	18934
 TECHNICAL SUPPORT	18668
 TECHNICAL SUPPORT TO THE FRENCH DESK	14546
 TECHNICAL TEAM	18576
@@ -4472,7 +4515,9 @@ TV Subscriptions Technology FY	6946
 TVET Context The Technical and Vocational Education	16942
 TVET Technical	14916,6
 TVET Technical Vocational Education	16861
+TVET Technical Vocational Education and Training UMAC	18931
 TVET Technical Vocational Education and Training UN	1814
+TVET Technical Vocational Education and Training UNESCO	19079
 TVET Technical and Vocational Education and Training TVETA	7548
 TVET Technical and Vocational Education and Training UAT	11261
 TVET Technical and Vocational Education and Training UN	18512
@@ -4507,7 +4552,7 @@ Technecultura Meta	10727
 Technext	9112,1393,4427
 Technext24	8852
 Technic	17827
-Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91,52,8,15,14,13,36,11,2,2,39,5,50,40,139,11,16,14,27,5,41,13,2,16,14,11,32,22,37,10,63,111,1,6,12,36,12,45,82,14,30,5,15,40,5,40,14,5,1,5,18,35,3,87,125,10,11,1,13,18,18,11,11,71,132,18,37,82,50,75,70,22,25,21,72,344,12,6,9,202,85,42,24,16,1,15,12,5,9,20,3,5,8,1,30,8,6,6,18,52,10,7,46,1,39,10,8,11,15,19,99,1,19,70,39,13,23,59,5,7,48,38,54,1,2,2,119,78,26,23,30,30,14,96,65,122,13,214,182,134,30,4,9,11,4,20,13,2,25,10,2,4,4,2,11,6,5,4,3,90,31,2,13,2,23,10,39,47,25,107,3,88,76,5,209,32,82,107,2,68,65,189,16,9,37,114,1,61,10,29,7,1,39,57,51
+Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91,52,8,15,14,13,36,11,2,2,39,5,50,40,139,11,16,14,27,5,41,13,2,16,14,11,32,22,37,10,63,111,1,6,12,36,12,45,82,14,30,5,15,40,5,40,14,5,1,5,18,35,3,87,125,10,11,1,13,18,18,11,11,71,132,18,37,82,50,75,70,22,25,21,72,344,12,6,9,202,85,42,24,16,1,15,12,5,9,20,3,5,8,1,30,8,6,6,18,52,10,7,46,1,39,10,8,11,15,19,99,1,19,70,39,13,23,59,5,7,48,38,54,1,2,2,119,78,26,23,30,30,14,96,65,122,13,214,182,134,30,4,9,11,4,20,13,2,25,10,2,4,4,2,11,6,5,4,3,90,31,2,13,2,23,10,39,47,25,107,3,88,76,5,209,32,82,107,2,68,65,189,16,9,37,114,1,61,10,29,7,1,39,57,51,162,77,21
 Technical ACTC	12364
 Technical AI Governance	5276
 Technical Acceptance	12364
@@ -4528,6 +4573,7 @@ Technical Advisory Group	11572,2334,4572
 Technical Agencies	1261
 Technical Analysis	1228,10189,4101,1378,53,1344
 Technical Annex	11863,274
+Technical Anti-Money Laundering	18952
 Technical Appendix	10840
 Technical Appendix UNITED NATIONS E-GOVERNMENT SURVEY	14006
 Technical Appendix URL	14006
@@ -4538,7 +4584,7 @@ Technical Assessment	17458,1073
 Technical Assessment Mission	5950
 Technical Assessment and Infrastructure Readiness	13042
 Technical Assessment. The Technical Assessment	15518
-Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214,138,63,151,518,182,150,161,319,49,193,268,207,1094,1,273,17,102,57,1,164,271,39,142,106,310,14,671,21,424,136,223,1030,19
+Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214,138,63,151,518,182,150,161,319,49,193,268,207,1094,1,273,17,102,57,1,164,271,39,142,106,310,14,671,21,424,136,223,1030,19,380,196
 Technical Assistance Advisor	12500
 Technical Assistance Agreement	15574
 Technical Assistance Component	13054
@@ -4573,6 +4619,7 @@ Technical Assistance and Training	691
 Technical Assistance for GTCR X	10776
 Technical Assistance for Investigations The MoU	17213
 Technical Assistance for Tariff Study	12233
+Technical Assistance. Provision	18887
 Technical Assistant	6936,3127,626,1177,5112
 Technical Assistants	13060
 Technical Attributes	11216
@@ -4605,7 +4652,8 @@ Technical Characteristics Monitoring Voltage Power Frequency	14867
 Technical Clearance	5994,11286,114
 Technical Clearance Procedure	17394
 Technical Commission	9227,1540,2051
-Technical Committee	1284,6264,539,280,174,63,909,1888,462,42,71,265,154,58,168,296,52,145,217,1,13,127,9,125,4,26,395,191,48,276,53,175,7,131,85,26,107,94,206,174,17,1242,58,14,102,87,111,235,634,94,266,36
+Technical Committee	1284,6264,539,280,174,63,909,1888,462,42,71,265,154,58,168,296,52,145,217,1,13,127,9,125,4,26,395,191,48,276,53,175,7,131,85,26,107,94,206,174,17,1242,58,14,102,87,111,235,634,94,266,36,387
+Technical Committee NSDI National Spatial Data	18904
 Technical Committee TFP Technical and Financial Partner	15661
 Technical Committee The Secretary	12453,892
 Technical Committee Vice Chairperson	13481
@@ -4618,11 +4666,12 @@ Technical Committee of WURI-Benin	1927
 Technical Committee. Government Information Service	14811
 Technical Committee. Membership	12453,892
 Technical Committee. Reg	14599
-Technical Committees	1264,2839,8814,788,1031,3733
+Technical Committee. The Technical Committee	18887
+Technical Committees	1264,2839,8814,788,1031,3733,418
 Technical Committees A Technical Committee	18469
 Technical Committees of Mauritian Food Standards	14736
 Technical Community Colleges	12917
-Technical Competencies	12693,1492
+Technical Competencies	12693,1492,4901
 Technical Compliance	12597
 Technical Compliance Re-Rating	5130
 Technical Conformity Assessment	16212
@@ -4634,7 +4683,7 @@ Technical Consultancies	12917
 Technical Contact Agent Tel. E-mail	736
 Technical Control and Corporate Responsibility	11791
 Technical Controls	21,3840
-Technical Cooperation	12962,10
+Technical Cooperation	12962,10,6091,1
 Technical Cooperation Facility	970
 Technical Cooperation Programme	12972
 Technical Cooperation Projects	12962
@@ -4880,6 +4929,7 @@ Technical Task Team	12419
 Technical Taskforce	12978
 Technical Team	12977,208,3736,1534
 Technical Team Technicians	15056
+Technical Team and Secretariat	18885
 Technical Technical	12364
 Technical Technical Technical Technical Technical Technical	12512
 Technical Training	8286,4968
@@ -4899,7 +4949,7 @@ Technical University of Munich. Prof Jude Osakwe	12926
 Technical Use Case	1009
 Technical Use Cases	1009
 Technical Visits	10762
-Technical Vocational Education and Training	11326,1596,24,29
+Technical Vocational Education and Training	11326,1596,24,29,5956,2
 Technical Vocational Education and Training Sector	12934
 Technical Vocational Education and Training UIF Unemployment	11250
 Technical Vocational Training	11210
@@ -4933,6 +4983,7 @@ Technical and Clinical	3651
 Technical and Coordination Committee	5579
 Technical and Cultural	18016
 Technical and Cultural Cooperation	18016
+Technical and Digital Education Division	18975
 Technical and Fiduciary Coordination Unit	18301
 Technical and Financial	13031,154
 Technical and Financial Partner UHC	16041
@@ -4962,6 +5013,7 @@ Technical and Practical Skills Gaps	12445
 Technical and Professional Education	17870
 Technical and Regulatory Technical Assistance	15372
 Technical and Related Assistance Agreement	4217
+Technical and Scientific Collaboration	19063,1
 Technical and Socio Cultural	16237
 Technical and Vocational Education	1814,5079,5538,879,650,2892
 Technical and Vocational Education Pact	6884
@@ -4982,6 +5034,7 @@ Technical and Vocational Training Centers Upgrading Project	258
 Technical-Vocational Education and Skills Training	16769
 Technically	4242,95,31,2000,783,4740,3406,847,741,50
 Technicalperformanceonadeveloper-controlled	8301
+TechnicalÂ CommitteesÂ	18887
 Technicat Guidance	3972
 Technichal Coordination Secretariat	18305
 Technici	16935
@@ -5028,15 +5081,19 @@ Techniciens des Arts	17899
 Techniciens des Ressources	17899
 Techniciens des Travaux de Planification Chargé	17899
 Techniciens des Travaux de Planification DIVISION	17899
+Technidev	18944
 Technique	12,536,189,1959,700,459,5551,1420,771,1704,132,9,1095,839,40,8,5,60,53,43,85,15,8,192,51,167,524,472,359,359,56,26,178,39,5,48,22,47
+Technique Article	18884
 Technique BASIC DATA Operation ID	15693
 Technique DEEC	16621
 Technique DNPF	17845
 Technique ELN	15568
 Technique ISFRA Institut Supérieur de Formation	12
+Technique Nationale	19172
 Technique Nationale Projets Santé	10829
 Technique PNESRPS PS TIC Politique Nationale	18121
 Technique Participants Etaient	17845
+Technique Section	18884
 Technique de Suivi Le Comité Technique de Suivi	13341
 Technique de Techniques	10712
 Technique du Cadre	18077
@@ -5080,11 +5137,13 @@ Technol	766
 Technolgies	16627
 Technolog	14775
 Technologi-	17812
-Technological	1261,302,530,723,132,10,1168,1407,614,305,131,458,748,341,153,609,237,1,486,170,979,10,44,27,292,99,24,79,212,353,4,77,4,220,234,9,14,156,136,189,57,37,303,73,206,728,1,239,168,119,56,12,50,1930,16,42,710,25,53,7,90
+Technological	1261,302,530,723,132,10,1168,1407,614,305,131,458,748,341,153,609,237,1,486,170,979,10,44,27,292,99,24,79,212,353,4,77,4,220,234,9,14,156,136,189,57,37,303,73,206,728,1,239,168,119,56,12,50,1930,16,42,710,25,53,7,90,1303
 Technological Access Social Inequity Lack	17157
 Technological Adaptation and Future-Proofing Mechanisms	3861
 Technological Advancement	11265
 Technological Advancements and Innovation	14997
+Technological Advances	18904
+Technological Advances Global	18904
 Technological Change	10323,1942
 Technological City of Africa	14853
 Technological Deal	2333,23,244,2203,2404,2755
@@ -5103,6 +5162,7 @@ Technological Infrastructure The Ministry of Health	15590
 Technological Innovation	11905,1043
 Technological Innovation Fund	3218
 Technological Innovation METP	11905
+Technological Innovations	19133
 Technological Institute for Administrative Modernization	2351,14813
 Technological Institute of Tlaxiaco	11922
 Technological Leap Forward The RGPH-4	17331
@@ -5124,14 +5184,17 @@ Technological and Innovation Academies	12971
 Technological and Socioeconomic Rationale	3861
 Technological and Socioeconomic Rationale Data	3861
 Technologically	3699,4322,4423
-Technologie	737,510,1095,757,1177,557,1145,2724,23,777,945,427,1,2415,51,49,916,117,15,4,38,382,8,608,51,62,52,39,16,277,18,234,95,53,252,7,1185,44,19,101,117,16,2,3,48,35,82,36,2,14,84
+Technologie	737,510,1095,757,1177,557,1145,2724,23,777,945,427,1,2415,51,49,916,117,15,4,38,382,8,608,51,62,52,39,16,277,18,234,95,53,252,7,1185,44,19,101,117,16,2,3,48,35,82,36,2,14,84,694
 Technologie CDMA	15542
 Technologie Financière	2546
 Technologie Intelligence	7057,514
 Technologie Le Congo	15975
+Technologie L’Autorité	19003
 Technologie MLI	14480
 Technologie Obsolescence	17983
 Technologie Odilon Shama By Odilon Shama	16441
+Technologie Par	19013
+Technologie Par Cynthia Nguena Oundoum	19033
 Technologie Pilier Nature	17983
 Technologie Piste	17983
 Technologie Technologie En	16227
@@ -5142,7 +5205,7 @@ Technologie. La DNRST	16627
 Technologie. Tag	4184
 Technologie.pdf République Démocratique du Congo MINISTERE	15529
 Technologien	18815
-Technologies	232,768,131,83,17,53,364,191,254,3,340,82,65,218,116,41,95,5,337,209,425,141,252,185,108,135,102,66,258,104,135,271,80,533,116,242,191,39,14,547,221,222,105,10,24,9,241,12,107,78,245,180,122,94,19,87,185,87,416,1,17,35,61,79,2,30,21,14,13,162,215,67,92,4,30,20,20,1,1,1,6,230,5,12,44,144,7,9,174,119,232,52,74,195,26,98,70,83,470,342,11,11,1,1,17,10,38,16,19,28,107,66,73,29,2,21,124,451,21,1,236,177,174,41,377,55,2,12,13,5,17,1,11,14,8,8,8,16,11,19,13,28,8,13,28,7,4,28,2,12,1,34,7,60,2,61,4,31,51,6,25,136,92,8,92,86,1,103,130,2,2,8,7,43,11,23,172,3,56,215,285,142,32,66,12,72,7,46,4,1,2,3,2,1,4,5,3,29,1,8,20,24,14,22,3,18,20,29,68,5,13,1,2,16,28,39,4,19,8,44,12,131,22,17,172,137
+Technologies	232,768,131,83,17,53,364,191,254,3,340,82,65,218,116,41,95,5,337,209,425,141,252,185,108,135,102,66,258,104,135,271,80,533,116,242,191,39,14,547,221,222,105,10,24,9,241,12,107,78,245,180,122,94,19,87,185,87,416,1,17,35,61,79,2,30,21,14,13,162,215,67,92,4,30,20,20,1,1,1,6,230,5,12,44,144,7,9,174,119,232,52,74,195,26,98,70,83,470,342,11,11,1,1,17,10,38,16,19,28,107,66,73,29,2,21,124,451,21,1,236,177,174,41,377,55,2,12,13,5,17,1,11,14,8,8,8,16,11,19,13,28,8,13,28,7,4,28,2,12,1,34,7,60,2,61,4,31,51,6,25,136,92,8,92,86,1,103,130,2,2,8,7,43,11,23,172,3,56,215,285,142,32,66,12,72,7,46,4,1,2,3,2,1,4,5,3,29,1,8,20,24,14,22,3,18,20,29,68,5,13,1,2,16,28,39,4,19,8,44,12,131,22,17,172,137,117,15,172
 Technologies AIISA	6832
 Technologies Act	7548,5855
 Technologies Allocations	7548
@@ -5190,6 +5253,7 @@ Technologies Limited Web	3386
 Technologies L’INFORMATION ET DE LA COMMUNICATION	18032
 Technologies Mary N. Kerema	9333
 Technologies Mothibi Ramusi MTN Rain Telkom	5050
+Technologies Mr. Justin GOURNA Adviser	18887
 Technologies NOFN National Optical Fiber Network	16942
 Technologies National	7548
 Technologies Office	7548
@@ -5250,7 +5314,7 @@ Technologiquement	4325
 Technologiques	17829
 Technologiques de Master Management	17829
 Technologiste	7670
-Technology	22,12,192,189,105,51,72,75,71,110,41,18,42,154,7,58,9,29,7,99,165,26,399,35,6,102,196,43,4,134,201,26,171,77,28,127,117,61,97,5,58,163,178,4,12,49,14,1,7,53,171,16,5,12,47,157,102,96,148,14,118,82,118,28,12,16,20,143,15,2,1,1,11,19,73,7,11,51,22,30,16,14,11,8,9,5,28,9,130,15,70,4,94,92,61,20,14,218,2,45,97,113,48,42,1,35,46,115,66,32,8,8,34,82,85,4,21,32,4,12,1,1,5,51,20,14,2,7,13,24,1,6,81,1,6,62,17,5,11,108,36,1,27,1,19,6,5,157,38,44,31,1,108,131,119,78,7,7,78,52,1,25,33,22,9,8,4,1,17,59,14,66,82,35,9,49,42,50,2,100,7,16,81,32,31,2,24,29,21,18,20,49,16,24,16,17,15,4,43,54,6,24,3,2,10,23,78,18,127,18,4,4,22,101,7,24,7,23,20,178,48,38,62,4,30,6,4,40,36,3,1,1,5,42,3,5,43,4,8,10,3,2,6,4,113,58,1,22,7,73,1,2,2,85,17,44,21,11,182,68,6,56,28,14,60,3,111,19,3,21,1,10,10,3,19,4,21,4,11,1,18,67,77,16,13,1,15,29,1,5,4,20,66,1,28,8,14,4,1,1,12,3,4,19,16,4,12,12,5,34,9,20,5,42,8,3,24,85,1,12,7,14,53,25,110,30,22,18,5,1,3,30,37,14,37,24,51,57,33,54,2,71,33,12,27,1,3,13,20,10,8,20,124,15,14,54,5,241,1,18,20,192,12,65,12,29,6,6,1,6,88,122,2,1,128,10,2,23,16,2,3,2,1,19,3,1,10,4,29,5,56,17,20,18,12,4,14,8,24,6,20,11,21,65,16,28,104,192,12,8,73,51,17,13,79,1,265,61,6,98,58,53,597,6,3,11,4,2,6,1,30,9,18,1,8,12,5,7,80,15,35,11,41,78,67,30,105,21,134,49,49,28,15,9,3,40,338,321,1,9,2,22,2,1,1,3,2,14,3,6,1,1,5,1,5,4,1,1,1,14,7,12,1,7,3,9,6,40,17,5,97,120
+Technology	22,12,192,189,105,51,72,75,71,110,41,18,42,154,7,58,9,29,7,99,165,26,399,35,6,102,196,43,4,134,201,26,171,77,28,127,117,61,97,5,58,163,178,4,12,49,14,1,7,53,171,16,5,12,47,157,102,96,148,14,118,82,118,28,12,16,20,143,15,2,1,1,11,19,73,7,11,51,22,30,16,14,11,8,9,5,28,9,130,15,70,4,94,92,61,20,14,218,2,45,97,113,48,42,1,35,46,115,66,32,8,8,34,82,85,4,21,32,4,12,1,1,5,51,20,14,2,7,13,24,1,6,81,1,6,62,17,5,11,108,36,1,27,1,19,6,5,157,38,44,31,1,108,131,119,78,7,7,78,52,1,25,33,22,9,8,4,1,17,59,14,66,82,35,9,49,42,50,2,100,7,16,81,32,31,2,24,29,21,18,20,49,16,24,16,17,15,4,43,54,6,24,3,2,10,23,78,18,127,18,4,4,22,101,7,24,7,23,20,178,48,38,62,4,30,6,4,40,36,3,1,1,5,42,3,5,43,4,8,10,3,2,6,4,113,58,1,22,7,73,1,2,2,85,17,44,21,11,182,68,6,56,28,14,60,3,111,19,3,21,1,10,10,3,19,4,21,4,11,1,18,67,77,16,13,1,15,29,1,5,4,20,66,1,28,8,14,4,1,1,12,3,4,19,16,4,12,12,5,34,9,20,5,42,8,3,24,85,1,12,7,14,53,25,110,30,22,18,5,1,3,30,37,14,37,24,51,57,33,54,2,71,33,12,27,1,3,13,20,10,8,20,124,15,14,54,5,241,1,18,20,192,12,65,12,29,6,6,1,6,88,122,2,1,128,10,2,23,16,2,3,2,1,19,3,1,10,4,29,5,56,17,20,18,12,4,14,8,24,6,20,11,21,65,16,28,104,192,12,8,73,51,17,13,79,1,265,61,6,98,58,53,597,6,3,11,4,2,6,1,30,9,18,1,8,12,5,7,80,15,35,11,41,78,67,30,105,21,134,49,49,28,15,9,3,40,338,321,1,9,2,22,2,1,1,3,2,14,3,6,1,1,5,1,5,4,1,1,1,14,7,12,1,7,3,9,6,40,17,5,97,120,63,18,93,59,34,11,45
 Technology AA CJ CM CPA DCJ	12920
 Technology Absorption	17870
 Technology Acceptance Model	5349,2672,109,2810,987,2739
@@ -5353,6 +5417,7 @@ Technology ISP Independent Service Providers KII	16926
 Technology ITRS International Transactions Reporting System	2775
 Technology ITU	12759
 Technology ITU International	11196
+Technology ITU International Telecommunication Union IXP	18931
 Technology ITU International Telecommunication Union KCL	15164
 Technology ITU International Telecommunication Union KPI	12512
 Technology ITU International Telecommunication Union LMIC	18777
@@ -5484,7 +5549,7 @@ Technology Transfer and Local Participation Investment	10157
 Technology Trends and Use of Technology	13991
 Technology Type Airtel Africa	4442
 Technology Type Vodacom	4442
-Technology URL	16255
+Technology URL	16255,2726
 Technology Uganda Launches Two New E-Services	9783
 Technology Upgrades	16963
 Technology Urban Rural Unit	6051
@@ -5515,7 +5580,7 @@ Technology and Infrastructure	7182
 Technology and Infrastructure Committee	14721
 Technology and Innova-tion	18487
 Technology and Innovatio	12675
-Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94,15,77,150,43,98,90,223,130,1,10,6,3,1,1,6,2,10,1,10,2,9,14,1,7,4,4,20,137,48,1,3,126,16,197,871,13,29,239,4,348,2034,169,44,173,334,874,8,27,4,2,6,6,5,6,1,3,1,2,5,1,4,2,1,14,10,10,2,2,4,2,9,2,4,100,16
+Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94,15,77,150,43,98,90,223,130,1,10,6,3,1,1,6,2,10,1,10,2,9,14,1,7,4,4,20,137,48,1,3,126,16,197,871,13,29,239,4,348,2034,169,44,173,334,874,8,27,4,2,6,6,5,6,1,3,1,2,5,1,4,2,1,14,10,10,2,2,4,2,9,2,4,100,16,244,1,169,2
 Technology and Innovation Act	2709,1644
 Technology and Innovation Commons	14324
 Technology and Innovation Conference	5601,13088
@@ -5532,7 +5597,7 @@ Technology and Innovation ETRI EdTech Readiness Index	18564
 Technology and Innovation Enablement	14790
 Technology and Innovation Facilitate	1161
 Technology and Innovation Forum	6695
-Technology and Innovation Indicators	10421
+Technology and Innovation Indicators	10421,8777
 Technology and Innovation Master Plan	11625
 Technology and Innovation Minister Salima Bah	5908
 Technology and Innovation Ministerial Meeting	6480
@@ -5549,6 +5614,7 @@ Technology and Innovation Parks	12786
 Technology and Innovation Parks for Sustainable Development	12786
 Technology and Innovation Policy	4528,3020,1977,3261,4869
 Technology and Innovation Policy Instruments	16627
+Technology and Innovation Policy Review	18949
 Technology and Innovation Policy UB	12544
 Technology and Innovation Policy and Strategy	12786
 Technology and Innovation Policy. Aziz-Kamara	18591
@@ -5569,6 +5635,7 @@ Technology and Innovation System	12786
 Technology and Innovation TEF Teaching Excellence Framework	14747
 Technology and Innovation Technologie	1214
 Technology and Innovation The Ministry	18528
+Technology and Innovation URL	19154
 Technology and Innovation and Digital	644
 Technology and Innovation and Economic Diversification	5276
 Technology and Innovation for Development Section	12786
@@ -5578,6 +5645,7 @@ Technology and Innovation of South Africa	6480
 Technology and Innovation' and EUR	1465
 Technology and Innovation. Contacted	17784
 Technology and Innovation. Milestones	11940
+Technology and Innovation. Ms Leon	19154
 Technology and Innovation. Under	5898
 Technology and InnovationThe	18517
 Technology and Innovations	12675
@@ -5587,6 +5655,7 @@ Technology and Knowledge Gap Many Arab	2958
 Technology and Kyambogo University. Through	11829
 Technology and Law Review Committee	3861
 Technology and Logistics	12544,498,340,2096,1153
+Technology and Logistics of UNCTAD	18949
 Technology and Mandates NACOSTI and NRF	7548
 Technology and Maritime Transport	8645
 Technology and Partnerships	9872
@@ -5731,6 +5800,7 @@ Transfert de Technologies	15500
 Transformation ICT Information Communication Technology IDP	16970
 Transformative Technologies Groundbreaking	12674
 Transformative Technologies OBJECTIVE	12674
+Transforming Seychelles Through Technological Innovation	19119
 Transversal Information Technology Management	1618,3915,6453
 Trilinear Technologies	14388
 Trinity Technologies Limited	18748
@@ -5783,6 +5853,7 @@ Ukraine Don State Technical University EBSCOhost	12467
 Un Secrétariat Technique	17983
 Understanding Technology	7493
 Understanding Technology's Impact	13356
+Une Assistance Technique	18967
 Une Technologie	3099,14884
 Unequal Distribution of Technology Arab	2958
 Unified Theory of Acceptance and Use of Technology	5349,5570,3747
@@ -5816,6 +5887,7 @@ Use Information Communication Technologies	1814
 Use of Artificial Intelligence Technologies	2958
 Use of Clean Fuels and Technologies	15247
 Use of Digital Technologies	11977
+Use of Technology	19161
 Use of Technology Multimedia Appendix	14666
 User Acceptance of Information Technology	5349
 User Acceptance of Information Technology. MIS Quarterly	11927
@@ -5893,6 +5965,7 @@ World Food Programme. Technical Report	10841
 World Telecommunications and Information Technology Day	6243
 World Trade Organization Technical Barriers	1988
 World Wide Technology	4434
+X. Technical Law Enforcement Assistance and Cooperation	18914
 XRY- MSAB Technologies	18873
 Xava Technologies	9150
 Xavier António Alafo Technical Director Cybersecurity	2989

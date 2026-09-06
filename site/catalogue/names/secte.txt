@@ -1,7 +1,8 @@
 A- LA TRANSPARENCE POUR UN SECTEUR	10975
 A. SECTEUR DES COMMUNICATIONS ELECTRONIQUES	998
 ACCROISSEMENT DE LA PARTICIPATION DU SECTEUR	15542
-ANNEXE III CADRE REGLEMENTAIRE DU SECTEUR	18316
+ACCROITRE L’EFFICACITE DU SECTEUR	18967
+ANNEXE III CADRE REGLEMENTAIRE DU SECTEUR	18316,651
 APERÇU DU SECTEUR DE L’ENERGIE ET	13433
 APERÇU DU SECTEUR ET DEFIS	18316
 ARSE Autorité de Régulation du Secteur	15769
@@ -27,18 +28,21 @@ Agence de Régulation du Secteur	10975,4567,117,140,200,38
 Agence. LA TRANSPARENCE POUR UN SECTEUR	10975
 Alliance du Secteur Privé	15685
 Amélioration du Secteur	15799
+Analyse du Secteur	18942
 Analyse du Secteur des Tic	13313
-Aperçu du Secteur	16037
+Aperçu du Secteur	16037,2930
 Arbitrage du Secteur	10975
 Autorité Nationale de Regulation du Secteur	15515
 Autorité de Régulation Régionale du Secteur	18322
 Autorité de Régulation du Secteur	10975,4695,99,268
+Autorité de Régulation du Secteur Pétrolier Aval du Tchad	18967
 Autres Secteurs	14488,1,1
 B Secteurs	18013
 B. Secteur	998
 Budget Projet de Gouvernance Numérique du Secteur Public	16328
 Bénoué. LA TRANSPARENCE POUR UN SECTEUR	10975
 CADRE REGLEMENTAIRE DU SECTEUR DE L’ELECTRICITE	18316
+CFA Secteur	18988
 COMMISSION DE RÉGULATION DU SECTEUR	18322
 COMPLEXITE SECTEURS CAS D'USAGE	15583
 COMPLEXITÉ SECTEUR CAS D'USAGE	15583
@@ -93,6 +97,7 @@ Energie du Tchad ARSEL Agence de Régulation du Secteur	10975
 Ensemble Secteur	13300
 Est LA TRANSPARENCE POUR UN SECTEUR	10975
 Etat Direction du Portefeuille des Secteurs Primaires	2342
+Etat Scrute Les Secteurs	18986
 Etude du Secteur Numérique	3604
 Evaluation du Potential Fiscal du Secteur Informel	18318
 Expansion du Secteur Informel	15840
@@ -121,6 +126,7 @@ III. SECTEUR DE L	18322
 III.2.2. Financement du Secteur	15685
 III.2.2. Financement du Secteur L’évolution	15685
 INCITER LA PARTICIPATION DU SECTEUR PRIVE	15801,236
+INCITER LA PARTICIPATION DU SECTEUR PRIVÉ	18967
 INSCRIVEZ AUTRE SECTEUR PUBLIC LE NOM	13300
 INSCRIVEZ LE NOM DE AUTRE SECTEUR	13300
 INSCRIVEZ LE SECTEUR PUBLIC NOM	13300
@@ -215,8 +221,10 @@ Promotion des Secteurs Productifs	17852
 Promotion des Secteurs Productifs Direction	17844
 Promotion des Secteurs Productifs MRU	17844
 Promotion des Secteurs Productifs Ousmane Mamoudou KANE	17852
-Promotion du Secteur Privé	15474,1142
+Promotion du Secteur	18905
+Promotion du Secteur Privé	15474,1142,2285
 Promotion du Secteur Privé MEDDB Ministère	15580
+Promotion du Secteur Privé. Dans	18901
 Présentation du Secteur	10975
 Q AUTRE SECTEUR MÉDICAL PRIVÉ R	13300
 REDEVANCES ET FRAIS DU SECTEUR DES	16047
@@ -228,7 +236,7 @@ Renforcement du Secteur	13433,2269
 Renouvelables CRSE Commission de Régulation du Secteur	18316
 Responsables. LA TRANSPARENCE POUR UN SECTEUR	10975
 Réforme du Secteur de Sécurité Article	17899
-Régulation du Secteur	15936
+Régulation du Secteur	15936,3031,21
 Régulation du Secteur des Télécommunications	17824
 SDN-24octobre2022-Fr.pdf VISION DU NUMERIQUE DU SECTEUR	15568
 SECTE	13300
@@ -265,7 +273,7 @@ SECTEUR MÉDICAL PRIVÉ SECTEUR MÉDICAL PRIVÉ	13300
 SECTEUR PRIORITE NOM E-SERVICE Santé	15936
 SECTEUR PRIVE	10965
 SECTEUR PRIVE POUR DEBLOQUER DES RESSOURCES	15799
-SECTEUR PRIVE POUR MOBILISER DES RESSOURCES	18316
+SECTEUR PRIVE POUR MOBILISER DES RESSOURCES	18316,651
 SECTEUR PUBLIC	13300
 SECTEUR PUBLIC FINANCE Parties Prenantes Ministère	17856
 SECTEUR PUBLIC H	13300
@@ -288,11 +296,12 @@ SENUM Secteur	18306
 SONATREL LA TRANSPARENCE POUR UN SECTEUR	10975
 STRATEGIE DE DEVELOPPEMENT DU SECTEUR	15799
 STRATÉGIES ET POLITIQUES DU SECTEUR	18105
+Scénario Secteur	18988
 Secondaires Secteur Tertiaire Transverse Humaines Publiques	2342
 Secrétariat de Coordination des Statistique du Secteur Eau	17827
 Secte	13300
 Secte Autre	13300
-Secteur	419,318,450,869,286,257,669,128,1974,444,63,891,887,188,682,1397,597,356,100,949,20,1346,10,25,65,92,153,82,10,10,59,629,13,1,109,71,218,546,40,51,1,18,49,41,54,36,39,128,8,172,307,294,5,25,11,823,99,179,61,3,17,10,2,10,47,32,33,85,37,5,16,1,65,99,5,15,16,78,2,1
+Secteur	419,318,450,869,286,257,669,128,1974,444,63,891,887,188,682,1397,597,356,100,949,20,1346,10,25,65,92,153,82,10,10,59,629,13,1,109,71,218,546,40,51,1,18,49,41,54,36,39,128,8,172,307,294,5,25,11,823,99,179,61,3,17,10,2,10,47,32,33,85,37,5,16,1,65,99,5,15,16,78,2,1,564,21
 Secteur Administration Ter-	18077
 Secteur Administration Territoriale	17842,136
 Secteur Agroalimentaire EDEC MAROC	17945
@@ -359,6 +368,7 @@ Secteur Sous-secteur Moyenne Effectif Primaire Secondaire	10875
 Secteur Tertiaire	2342
 Secteur Transports	16621
 Secteur de Développement Rural	17945
+Secteur de L’Énergie	18967
 Secteur des Communications	18122
 Secteur des Communications Electroniques	13313
 Secteur des Communications Electroniques Au	998

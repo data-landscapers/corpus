@@ -24,6 +24,7 @@ Administrator CIU Court Inspectorate Unit CJ	16943
 Adult and Non-Formal Education Unit	16852
 AfDB's Unit of Account	13966
 Affected Person PIU Project Implementation Unit	16926
+Africa ICT Unit MichÃ	18887
 Africa's Best Cybercrime Unit	2269
 Africa. The Metrology Unit	14736
 African Financial Currency Unit	15661
@@ -165,6 +166,7 @@ Compact Delivery Monitoring Unit	12595
 Compact Delivery and Monitoring Unit	12717,3320,151,778,1829
 Compact Delivery and Monitoring Unit CPR Compact	16188
 Competitiveness Unit	16503
+Complaint Handling Unit	18925
 Complaint Unit CEET Compagnie Energie Electrique	12062,6124,31
 Complaints Unit Assistant Permanent Secretary	14746
 Completion Indicator Name Unit of Measure Baseline	15424,87
@@ -203,7 +205,7 @@ Crime Prevention Unit and Brigade Pour	14742
 Crisis Coordination Unit	6947
 Critical Unit of Analysis	18645
 Currency Management Unit	17138
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178,282,26,27,3,489,17,391,13,100,142,94,95,8,453,11,12,32,16
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178,282,26,27,3,489,17,391,13,100,142,94,95,8,453,11,12,32,16,62
 Currency Unit Equivalent	13938
 Currency Unit São Tomé and Príncipe Dobra	18851
 Custom Duties Unit Price	13185
@@ -212,12 +214,13 @@ Cyber Crime Unit	7777
 Cyber Fusion Unit	17746
 Cyber Jihadist Unit	15342
 Cyber Jihadist Unit Online	15342
+Cyber Security Unit	18903
 Cyber Special Operations Unit	1000
 Cybercrime Prosecution Unit Powers and Functions	18675
 Cybercrime Response Unit	1000
 Cybercrime Unit	8748,2900,3112,21,2194,975
 Cybercrime Unit and Data Protection Office	14729
-Cybersecurity Unit	4610
+Cybersecurity Unit	4610,14293
 Cybersecurity Unit A. All Telecommunications Service	4610
 Cybersecurity Unit A. Any Telecommunications Service	4610
 Cybersecurity Unit Manager	8276
@@ -238,7 +241,7 @@ Data Governance Unit	3815,2273,6331
 Data Governance Unit and Data Sharing Agreements	12419
 Data Management Unit	14752,38
 Data Processing Service Unit	11956
-Data Protection Unit	14897
+Data Protection Unit	14897,4145
 Data Science Unit	18481
 Debt Management Unit	14777,2480
 Debt Recovery Unit	14761
@@ -303,7 +306,7 @@ ECOWAS WARDIP Project Implementation Unit	17380
 EDC Unit	16922
 EHEU Environmental Health Engineering Unit NHA	14773
 EIU Economist Intelligence Unit ES Economic	15118
-EMIS Unit	11860,1450
+EMIS Unit	11860,1450,5601
 EMIS Unit of MoET	13016
 EMPOWERMENT UNIT Sub-Part	14743
 ENDOCRINE UNIT	14773
@@ -322,6 +325,7 @@ Eastern Mediterranean Regional Office Unit	13858
 Economic Farming Unit	12912
 Economics Unit	1013,931
 Economist ICT Sector Unit Marc Lixi	15372
+Economist ICT Unit Mark D.J. Williams	18887
 Economist Intelligence Unit	11195,1019,3266
 Education Acts. Project Management Unit	16852
 Education Unit	15172
@@ -331,6 +335,7 @@ Educational Broadcasting Unit ECD Early Childhood	16852
 Elderly Persons’ Protection Unit	14743
 Emergency Unit	15661
 Emergency Unit Subcomponent	15661
+Employee Relations Unit	18979
 Employment Division Work Permit Unit	14847
 Empowerment Unit	14743
 Energy Unit	13042,3929
@@ -370,6 +375,7 @@ FDA GIS Unit Development	16848
 FINANCIAL MANAGEMENT SYSTEMS UNIT	18576
 FINANCIAL MANAGEMENT SYSTEMS UNIT Expanding the Coverage	18576
 FM Unit	16896,26
+FMU Financial Management Unit	18887
 FSCA and NWU Business School's Unit for Corruption	8354
 FSRU Floating Storage Regasification Unit	15515
 Facilities Finance Business Unit Owner N	9124
@@ -389,7 +395,7 @@ Financial Inclusion Unit	940,12374
 Financial Inclusion Unit FI	18770
 Financial Information Unit	18797
 Financial Intellegence Unit Basotho Enterprises Development	12701
-Financial Intelligence Unit	6938,839,1300,4234,1403,1,5,1,21,19,13,24,11,38,905,1436,1274,137,103
+Financial Intelligence Unit	6938,839,1300,4234,1403,1,5,1,21,19,13,24,11,38,905,1436,1274,137,103,394
 Financial Intelligence Unit Nigerian Deposit Insurance	6938
 Financial Intelligence Unit Tanzania Financial Stability	6938
 Financial Management Unit Gross Domestic Product	15372
@@ -481,6 +487,7 @@ ICT Data Collection Unit	14888
 ICT Sector Unit Africa Region	15372
 ICT Sector Unit Aissatou Diallo Finance	15372
 ICT Unit	34,10496,2387,1039,3015
+ICT Unit Aissatou Diallo Senior Finance	18887
 ICT Unit. The ICT Unit	34
 IGAD Statistics Unit	14021
 INTERNAL CONTROL UNIT	11218,6
@@ -490,7 +497,7 @@ Identification Number PIU Project Implementation Unit	18777
 Identity Card Unit	14716
 Implementation Arrangements The Project Implementation Unit	12253
 Implementation Manual PIU Project Implementation Unit	1264,14395
-Implementation Unit	15901,1239
+Implementation Unit	15901,1239,1747
 Implementation Unit PDO Project Development Objective	11924
 Implementation Unit PMT Proxy-Means Test PPP	17849
 Implementation Unit PMT Proxy-Means Test PPSD	16952
@@ -515,7 +522,7 @@ Infectious Disease Unit	13122
 Informal Production Unit JMP	15574
 Information Society Operational Unit	11867,5075
 Information System Unit HPV Human Papilloma	12976
-Information Unit	3930
+Information Unit	3930,15112
 Information and Guidance Unit	13938
 Infrastructure CDMU Compact Delivery and Monitoring Unit	12717
 Infrastructure Unit	16971
@@ -534,6 +541,7 @@ Internal Affairs Unit	12310
 Internal Audit Unit	587,967,9275,395,3322
 Internal Audit Unit Financial Provisions	587
 Internal Audit Unit and Audit Committee	11224
+Internal Complaints Unit	19173
 Internal Control Unit	11197,1,3540,7,1,89
 International Cooperation Unit	15604
 International Funds Management Unit	12137
@@ -564,14 +572,17 @@ Large Accounts Unit	11986
 Large Accounts Unit Definition	11986
 Large Taxpayers Unit. Third	18318
 Law Reporting Unit	13504
+Legal Affairs Unit	19185
 Legal Unit	11129,1847
 Level Recovery GPU Graphics Processing Unit	13185
+Liaison Unit for Non-Governmental Organisations	18888
 Liberia Agriculture Census. Secondary Sampling Unit	17043
 Liberia. The Unit	16971
 Libyan Dinar Unit	17236
 Libyan Financial Intelligence Unit	7159
 Line Ministry's Procurement Management Unit	1554
 Living Environment Unit	14738
+Lixi Senior Operations Officer ICT Unit	18887
 Local Authorities Governance Unit	14738,8
 Local Authorities Governance Unit The Land	14738
 Local Authorities Governance Unit The Local	14738,8
@@ -614,7 +625,9 @@ Management Unit for Regional Integration for Africa	10841
 Management Unit for Special Project	16493
 Management Unit for Special Projects	11863
 Management Unit for Special Projects UN United	11863
+Map Design Unit of The CHARI- Masalasef	18887
 Map Design Unit of The M'banza Congo	15372
+Map Design Unit of The World Bank	18887
 Mapclearance Unit Page	17962
 Market Average Geographic Unit	15620
 Market Conduct and Consumer Protection Unit Trains	11134
@@ -678,7 +691,7 @@ NaNA Project Preparation Unit	16926
 Name Action Description Responsible Unit Time	17157
 Name Action Description Responsible Unit Timeframe	17157
 Name Title Sector Unit Samia Melhem	10812
-Name Title Unit Jerome Bezzina Regulatory	15372
+Name Title Unit Jerome Bezzina Regulatory	15372,3515
 Name Unit of Measure Baseline Original Target	15601
 Name of Committee Secretariat Financial Inclusion Unit	940
 Namibia Economic Policy Research Unit. Stork	12325
@@ -686,6 +699,7 @@ Namibia Economic Policy Research Unit. United	12325
 Nation Cybercrime Prosecution Unit	12459
 National AI Strategic and AI Delivery Unit	14674
 National Accounts Unit. PURA	16992
+National Addressing Database Unit	19108
 National Authorising Officer Support Unit	16867
 National Cancer Control Unit	12976
 National Children’s Coordination Unit	11134
@@ -797,6 +811,7 @@ PSU Primary Sampling Unit Figure	582
 PUBLIC CLINICAL TRIAL UNIT AND NATIONAL	7845
 Pakistan NADRA Strategic Reform Unit	11007
 Parliamentary Press Unit	6946
+Parliamentary Security Unit	19161
 Partners NOM UNIT ROLE Bakary FATY	18309
 Partnership Framework CTN-FBP National Technical Unit	10829
 Pelagic Fishery Unit	14818
@@ -847,6 +862,7 @@ Primary Sampling Unit	17043
 Private Sector Development Unit	7248
 Privatisation Unit	1198
 Procurement Management Unit	13420
+Procurement Oversight Unit Seychelles	18965
 Procurement Policy Unit	13037
 Procurement Unit	6539,5366,1,787,4277
 Procurement Unit Drive	16963
@@ -863,15 +879,15 @@ Program Implementation Unit	16943
 Programme Coordination Unit	6400
 Programme Implementation Unit	10965
 Programme Management Unit	13990
-Project Coordinating Unit	18554
-Project Coordination Unit	3604,2673,5248,887,980,1573,125,282,289,483,470,24,700,624,542,250
+Project Coordinating Unit	18554,333
+Project Coordination Unit	3604,2673,5248,887,980,1573,125,282,289,483,470,24,700,624,542,250,133
 Project Coordination Unit Cofinanciers and Other External	16614
 Project Coordination Unit PCU	15372
 Project Coordination Unit. Specifically	11863
 Project Development Objective Project Implementation Unit	15553
 Project Financial Management Unit	16144,805,165
 Project Implementation Support Unit	15658
-Project Implementation Unit	1228,36,20,288,206,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293,473,42,19,213,83,179,164,491,277,64,541,2,72,446,120,312,24,16,38,34,3,52,83,273,13,90,4,35,68,37,1,4,119,20,99,68,175,240,52,218,196,76,10,24,139,15,121,99,770,29,160,66,276
+Project Implementation Unit	1228,36,20,288,206,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293,473,42,19,213,83,179,164,491,277,64,541,2,72,446,120,312,24,16,38,34,3,52,83,273,13,90,4,35,68,37,1,4,119,20,99,68,175,240,52,218,196,76,10,24,139,15,121,99,770,29,160,66,276,298
 Project Implementation Unit High Strong	16926
 Project Implementation Unit Management	16926
 Project Implementation Unit PB Promissory Note	17235
@@ -958,15 +974,16 @@ Remote Keyless Entry Unit	18444
 Renal Transplant Unit	14748,25,32
 Renal Unit	12976
 Reporting The M&E Unit	12977
-Requesting Unit	10870,2188,4412,35
+Requesting Unit	10870,2188,4412,35,1477
 Research Unit	16971
 Research Unit The Research Unit	16971
 Response Unit	1000
+Responsibility Core Unit of Baseline Data	18887
 Responsibility for Data National Learning Assessment Unit	11905
 Responsible Business Unit	11188
 Responsible Business Unit Develop	11188
 Responsible Business Unit Time	11188
-Responsible Unit	10870,1095,1093,676,2048,1688
+Responsible Unit	10870,1095,1093,676,2048,1688,1512
 Responsible Unit Timeframe Remarks	17157
 Responsible Unit Timeframe Remarks Forestry Install	17157
 Responsible Unit Timeframe Remarks MoALMR	17157
@@ -1014,12 +1031,15 @@ Scheme Particular Anticipated Capacity Unit Mattru	18543
 Scientific Support Unit	17297
 Secondary Roads Unit	16614
 Secretary for E-Government Technology Unit	2779
+Sector Unit Date	18887
 Sectoral Unit	12962
 Security Unit	14729,23,3705
+Senior Economist ICT Unit Marc Jean	18887
 Senior Program Assistant ICT Sector Unit	15372
 Services Association FSU Family Support Unit	18512
 Services Unit	14738,8,101
 Services Unit The Field Services	14746
+Seychelles Hydrographic Unit	19060,3,1
 Sierra Leone Police Cyber Unit	11651
 Single Project Implementation Unit	14966
 Smuggling Unit	14760
@@ -1196,6 +1216,7 @@ Unit PPP Poverty Reduction Strategy Paper	15424
 Unit PPPs Public-Private Partnerships PTFs Technical	13731
 Unit PRDU External NGOs NHRC NDRRMC	14781
 Unit PSD Private Sector Development SCAPE	13836
+Unit Paulette Thioune Zoua Program Assistant	18887
 Unit Permanent Secretary World Bank Organogram	13332
 Unit Prepare	17364
 Unit Price	17250
@@ -1205,6 +1226,7 @@ Unit Prices of Principal Domestic Exports	2775
 Unit Prices of Principal Imports	2775
 Unit Project Implementation Unit Proxy-Means Testing	15658
 Unit Project Steering Committee Vice-Presidency	13938
+Unit Shabani Ely Katembo Consultant ICT	18887
 Unit South Lynch Street Monrovia	17328
 Unit Statistics Mauritius	14836
 Unit Sub-Part B	14743

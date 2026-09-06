@@ -115,6 +115,7 @@ D. Improve	15604
 D. Improving	15604
 DATA EXCHANGE FOR IMPROVED ACCESS	11940
 DE IMPRENSA DE DENÚNCIA E ESCLARECIMENTO	10751
+DECLARATION DE TVA IMPRIMER SA QUITTANCE	18973
 DEPENSES ACCIDENTELLES ET IMPREVISIBLES EN INVESTISSEMENT	15999
 DEVELOPING LONG TERM FINANCE AND IMPROVING	12701
 DFS. MARKET DEVELOPMENT Improve	16942
@@ -184,6 +185,7 @@ Financial Netherlands-led Partnership for Improving	12297
 Fiscal Decentralisation for Improved Service Delivery	18488,89
 Francistown. Improve Access	12552
 Further Improvements	1698
+Future Improvements	19038
 GDP.86 Improvements	15553
 GPS Services Minor Improvement UI Update	15867
 General Improvements	15867
@@ -285,7 +287,7 @@ Impressões	11480,3912,128
 Imprest Petty Cash	16978
 Impri-	18332
 Imprimante	14423,57
-Imprimantes	10821,2520,4945,11
+Imprimantes	10821,2520,4945,11,867
 Imprimantes LaserJet	15639
 Imprimer	6954,8414
 Imprimer Partager	1594,88
@@ -307,7 +309,7 @@ Imprivata	6651
 Impro	16436
 Improbable	12367
 Improper	1988,1726,10720,647,1845,23,165,1260,85
-Improve	395,394,110,101,161,43,573,46,5,57,354,207,31,412,250,475,226,286,175,1232,143,1156,108,708,103,1321,1649,41,3,10,44,10,12,51,68,4,21,2,17,127,3,54,10,38,232,389,48,1,10,25,23,7,15,20,132,37,20,19,13,2,11,1,74,14,27,20,23,54,45,54,42,47,52,13,22,195,9,3,1,28,11,2,54,6,43,15,126,74,15,2,2,6,11,14,2,12,153,219,93,44,1,41,26,2,53,8,1,73,582,19,49,11,17,22,4,13,28,1,16,39,5,13,5,24,1,25,11,7,12,20,93,18,56,80,203,33,11,22,40,37,14,15,39,3,2,50,1,11,12,108,22,60,50,63,147,66,183,138,278,9,2,9,4,20,25,1,1,4,15,1,8,16,1,3,25,4,11,7,68,10,5,15,11,12,18,39,64,25,79,3,502,1,234,197,4,4,50,11,99,18,3,14,60,206,25
+Improve	395,394,110,101,161,43,573,46,5,57,354,207,31,412,250,475,226,286,175,1232,143,1156,108,708,103,1321,1649,41,3,10,44,10,12,51,68,4,21,2,17,127,3,54,10,38,232,389,48,1,10,25,23,7,15,20,132,37,20,19,13,2,11,1,74,14,27,20,23,54,45,54,42,47,52,13,22,195,9,3,1,28,11,2,54,6,43,15,126,74,15,2,2,6,11,14,2,12,153,219,93,44,1,41,26,2,53,8,1,73,582,19,49,11,17,22,4,13,28,1,16,39,5,13,5,24,1,25,11,7,12,20,93,18,56,80,203,33,11,22,40,37,14,15,39,3,2,50,1,11,12,108,22,60,50,63,147,66,183,138,278,9,2,9,4,20,25,1,1,4,15,1,8,16,1,3,25,4,11,7,68,10,5,15,11,12,18,39,64,25,79,3,502,1,234,197,4,4,50,11,99,18,3,14,60,206,25,126,3,9,16,93
 Improve Access	182,12278,92,2277,1358
 Improve Accessibility of MFS	14777
 Improve Accessibility of Schools	11918
@@ -325,6 +327,8 @@ Improve Cost-Effectiv	17180
 Improve Customer Satisfaction	12552
 Improve Cyber SO	6946
 Improve Data Accessibility	5244
+Improve Data for Impact URL	18921
+Improve Data for Impact View the National Health	18921
 Improve Decision-Making	16293
 Improve Delivery	15553
 Improve Detection of Non	17011
@@ -339,6 +343,7 @@ Improve Enabling Factors	12356
 Improve Financial Reporting Economic	15298
 Improve Foundational Learning	7548
 Improve Global Trade and Investment Environment	12935
+Improve Governance and Transparency	18933
 Improve Government	16884
 Improve Health Outcomes	10529,1067
 Improve Healthcare. The Minister of Health	18535
@@ -559,8 +564,8 @@ Improvement of Quality and Relevance of Education	16852
 Improvement of Secondary Schools Project	12962
 Improvements	1212,616,39,900,3284,1712,702,2671,82,735,82,140,133,87,647,289,1442,149,1,736,2,316,459,448,65,62,732,361,197,187,89,188,60
 Improvements To Cost	12395
-Improves	699,708,3838,5884,811,306,45,746,277,1287,396,1918
-Improving	395,323,48,5,18,181,185,88,21,564,39,18,1004,375,235,105,164,533,48,32,51,812,3,112,174,144,374,678,478,157,399,840,449,76,109,200,22,259,41,769,251,1,32,17,12,15,25,79,5,15,149,2,5,6,46,10,20,19,11,41,128,52,103,290,5,6,24,8,1,10,70,8,149,33,16,25,3,8,5,22,12,30,32,4,25,18,37,22,25,42,92,238,79,51,8,5,2,76,7,42,210,2,34,44,232,61,182,1,70,683,53,49,29,25,42,16,25,37,1,1,23,25,30,49,94,44,178,69,13,56,38,35,51,55,4,34,28,18,158,23,45,42,21,285,119,202,214,20,12,1,11,26,13,7,1,8,9,3,8,4,19,2,15,75,28,24,11,8,39,40,3,17,1,174,10,17,12,400,263,160,12,153,29,77,43,9,8,16,125
+Improves	699,708,3838,5884,811,306,45,746,277,1287,396,1918,2240
+Improving	395,323,48,5,18,181,185,88,21,564,39,18,1004,375,235,105,164,533,48,32,51,812,3,112,174,144,374,678,478,157,399,840,449,76,109,200,22,259,41,769,251,1,32,17,12,15,25,79,5,15,149,2,5,6,46,10,20,19,11,41,128,52,103,290,5,6,24,8,1,10,70,8,149,33,16,25,3,8,5,22,12,30,32,4,25,18,37,22,25,42,92,238,79,51,8,5,2,76,7,42,210,2,34,44,232,61,182,1,70,683,53,49,29,25,42,16,25,37,1,1,23,25,30,49,94,44,178,69,13,56,38,35,51,55,4,34,28,18,158,23,45,42,21,285,119,202,214,20,12,1,11,26,13,7,1,8,9,3,8,4,19,2,15,75,28,24,11,8,39,40,3,17,1,174,10,17,12,400,263,160,12,153,29,77,43,9,8,16,125,156,87
 Improving Access	10347,2082,100,145,297,3216,249,535,359
 Improving Accessibility	14773
 Improving African	9642
@@ -750,7 +755,7 @@ Modernise Government Service Delivery Improve	10157
 Mohammed CHARFI. Imprimerie Officielle	15467
 Monitoring and Continuous Improvement	5665
 Moungoungui. Improved	11897
-Moustiquaire Imprégnée	13300,5012
+Moustiquaire Imprégnée	13300,5012,660
 Moustiquaires Imprégnées	14622
 NBR X Improve MFIs	15130
 NEED TO IMPROVE BROADBAND ACCESSIBILITY	3604
@@ -812,6 +817,7 @@ Productivity and Quality Improvements	14738
 Professional Standards and Continuous Improvement	3861
 Program Improve	17364
 Programme for Improved Quality and Standards	16852
+Programme for Improving the Quality of Primary Education	19093
 Project Development Objective Improved	1988
 Project Harmonizing and Improving Statistics	16927
 Projet-Learning Improvment for Results	18171
@@ -852,6 +858,7 @@ Rural Development Areas. Improve Agricultural Services	12945
 Rural Slowing Improvement Not Classified Market	12352
 SALA IMPROVISADA	10766
 SAPEMP. IMPROVING FIELD DATA Tshawuka	9526
+SD6 Specific Objectives View the Improve Data	18921
 STI Improve	13314
 STRATEGIC OUTCOME Improved	13005
 STRATEGIC OUTCOME Improved Communication	13005

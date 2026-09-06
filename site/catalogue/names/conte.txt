@@ -11,6 +11,7 @@ A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,11
 A. Introduction and Policy Context	10997
 A. Project Strategic Context	15743,401,240
 A. Regional Context	14910
+A.Â Regional and Country Context	18887
 AACB TABLE OF CONTENTS FOREWORD	6938
 ABOVE. Contents Gazette Page No. No	1009
 ACAP. O Conteúdo	18774
@@ -31,9 +32,11 @@ ANALYSE DU CONTEXTE ET JUSTIFICATION	18100
 ANNUAL REPORT TABLE OF CONTENTS Acronmys	1154
 ANNUAL REPORT TABLE OF CONTENTS Acronyms	1554
 ANÁLISE DO CONTEXTO ENVOLVENTE Enquanto	18788
+ANÁLISE DO CONTEXTO ENVOLVENTE São Tomé	18945
 APPRAISAL Context	15511,1441
 APPRAISAL Country Context	15731,3034
 ARBOVIRUS HABOVIRUS Pesquisa Contem	966
+ARCHIVED CONTENT	18915
 ARTICLE IV CONSULTATION KEY ISSUES Context	13868
 AU CONTENU Art.131	15643
 Abdallah Wahib Jabbour I. PROJECT CONTEXT	15511
@@ -57,9 +60,11 @@ All Sprouts Content	5700
 American AI. Context	5257
 Angola Country Context Angola	10763
 Anne Hilger TABLE OF CONTENTS DATA	17849
+Annual National Accounts Statistics CONTENTS	19038
 Antenatal Care Coverage and Content	13454,1793
 Appendix A. Contents	6937
 Aratek USE CASE AND CONTEXT	10852
+Archiving and Content Preservation PART VI	19173
 Artifacts Summary Contents	6666
 Asset Management Content and Portals	16040
 Associated Content Part	9739
@@ -78,20 +83,21 @@ B. Contents of Request for Bids Document	13185
 B. Context and Rationale Information	17018
 B. Country Context	18809
 B. Introduction and Context	761,11651,14,243,2285
-B. Introduction and Context Country Context	1704,587,1165,7507,2148,676,6,44,178,1498,1,36,743,361,21
+B. Introduction and Context Country Context	1704,587,1165,7507,2148,676,6,44,178,1498,1,36,743,361,21,2258
 B. Introduction and Context Country Context Madagascar	14553
 B. Introduction and Context Country Context Mozambique	12832
 B. Introduction and Context Mozambique	12137
 B. SECTOR AND INSTITUTIONAL CONTEXT	11863,2075
 B. Sector and Institutional Context	13938
 B. Sector and Institutional Context B.1 Cabo	11863
-B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1578,27,435,39,80,24,3,35,68,37,1,2,82,401,240,565,492,17,646,189,8,476
+B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1578,27,435,39,80,24,3,35,68,37,1,2,82,401,240,565,492,17,646,189,8,476,110
 B. Sectoral and Institutional Context Closing	15621
 B. Sectoral and Institutional Context Public Financial	969
 B. Sectoral and Institutional Context Reform Progress	17441
 B. Sectoral and Institutional Context Sectoral	11560
 B. Sectoral and Institutional Context Social Safety	10964
 B.1 Context	14674
+B.Â Sectoral and Institutional Context	18887
 BACKGROUND AND CONTEXT The National Energy	18453
 BANK OF BOTSWANA V1.0 Contents	12542
 BBOXX CAPITAL RDC. Table of Contents Acronyms	11572
@@ -185,10 +191,10 @@ CONTENT TABLE OF CONTENT	17114
 CONTENT Table Of Content	958
 CONTENTIEUX	998
 CONTENTIEUX Revue	16714
-CONTENTS	3787,1096,6114,187,32,1016,527,294,290,189,336,199,659,93,1214,940,255,1226,33
+CONTENTS	3787,1096,6114,187,32,1016,527,294,290,189,336,199,659,93,1214,940,255,1226,33,502,110
 CONTENTS ABBREVIATIONS	18683
 CONTENTS ABBREVIATIONS AND ACRONYMS	16926
-CONTENTS ACKNOWLEDGEMENTS	12923
+CONTENTS ACKNOWLEDGEMENTS	12923,6008
 CONTENTS ACKNOWLEDGMENTS	17870
 CONTENTS ACRONYMS	12947
 CONTENTS Acknowledgements	14855
@@ -273,7 +279,7 @@ CONTEXT AND RATIONALE	13218
 CONTEXT ASSESSMENT Laws	12333
 CONTEXT FUNDING	17971
 CONTEXT OF OPEN PARTNERSHIP GOVERNMENT	18305
-CONTEXT OF THE PROPOSAL	17019
+CONTEXT OF THE PROPOSAL	17019,1966
 CONTEXT OFOPEN PARTNERSHIP GOVERNMENT	18305
 CONTEXT TO THE DEVELOPMENT	14942
 CONTEXTE	10712,2965,802,143,1226,347,451,1184,12,30,29,1,395
@@ -291,6 +297,7 @@ CONTEXTE ET JUSTIFICATION La République Démocratique	12043
 CONTEXTE ET JUSTIFICATIONS	18204
 CONTEXTE ET METHODOLOGIE DE L’ENQUETE Ce	18204
 CONTEXTE ET OBJECTIFS	15738
+CONTEXTE ET OBJECTIFS DE LA MISSION	19150
 CONTEXTE ET OBJET	17846
 CONTEXTE ET PRÉSENTATION L’Afrique	18279
 CONTEXTE F	10237
@@ -322,11 +329,12 @@ CONTEXTS Literature	1248
 CONTEÚDOS DIGITAIS	11397
 COUNTRY AND SECTOR CONTEXT	18795
 COUNTRY AND STRATEGIC CONTEXT Country Strategy	13731
-COUNTRY CONTEXT	15059
+COUNTRY CONTEXT	15059,3851
 COUNTRY CONTEXT AND DEVELOPMENT AGENDA	12968
 COUNTRY CONTEXT AND OUTLOOK	13885
 COUNTRY CONTEXT AT-A-GLANCE GDP	17869
 COUNTRY CONTEXT The Democratic Republic	11960
+COUNTRY CONTEXT The Seychelles	18910
 COUNTRY CONTEXT While the Democratic Republic of Congo	11918
 COUNTRY CONTEXT Zimbabwe	940
 COUVERTURE ET CONTENU DES SOINS PRÉNATALS	13300
@@ -383,7 +391,7 @@ Conteneurisation	17902
 Contenido	16875,90
 Contenido RESUMEN	16875
 Contenir	13781,702
-Content	27,872,73,189,953,245,13,87,68,36,30,118,5,38,73,95,11,15,10,96,34,20,130,25,37,6,91,61,22,11,33,54,26,8,36,14,40,26,12,3,1,53,40,24,37,34,124,13,13,31,81,45,4,29,54,188,32,29,47,3,7,98,73,98,92,74,21,20,30,30,140,31,30,91,61,13,2,12,12,47,7,58,2,58,20,82,75,67,26,56,46,65,1,8,7,1,1,14,28,62,8,33,16,28,4,8,71,4,3,18,54,11,5,3,6,90,13,34,11,2,12,27,34,3,24,18,34,7,1,30,3,40,2,40,57,50,35,3,70,4,171,6,45,119,398,146,191,322,247,1003,112,5,624,133,312,291,92,105,21,307,149,140,15,24,41,107,40,22,64,512,324,24,142,512,12,1,24,445,111,22,141,53,28,69,29,11,9,221,28,67,33,194,468,612,63,225,44,1,37,5,37,54,82,41,147,690,484,24,74,5,111,11,79
+Content	27,872,73,189,953,245,13,87,68,36,30,118,5,38,73,95,11,15,10,96,34,20,130,25,37,6,91,61,22,11,33,54,26,8,36,14,40,26,12,3,1,53,40,24,37,34,124,13,13,31,81,45,4,29,54,188,32,29,47,3,7,98,73,98,92,74,21,20,30,30,140,31,30,91,61,13,2,12,12,47,7,58,2,58,20,82,75,67,26,56,46,65,1,8,7,1,1,14,28,62,8,33,16,28,4,8,71,4,3,18,54,11,5,3,6,90,13,34,11,2,12,27,34,3,24,18,34,7,1,30,3,40,2,40,57,50,35,3,70,4,171,6,45,119,398,146,191,322,247,1003,112,5,624,133,312,291,92,105,21,307,149,140,15,24,41,107,40,22,64,512,324,24,142,512,12,1,24,445,111,22,141,53,28,69,29,11,9,221,28,67,33,194,468,612,63,225,44,1,37,5,37,54,82,41,147,690,484,24,74,5,111,11,79,150,70
 Content Accessibility Guidelines	12227
 Content Acknowledgement	17140
 Content Acknowledgments	17869
@@ -485,7 +493,7 @@ Contents Digital Economy for Africa	14897
 Contents Digital Financial Services	14897
 Contents EXECUTIVE SUMMARY	14818
 Contents Executive	6948,3984
-Contents Executive Summary	1814,12860
+Contents Executive Summary	1814,12860,4230
 Contents Figures	12327
 Contents Foreword	4528,7686,142,156,1031,1355,25,141,3465
 Contents Gazette Page Government Notices	12047
@@ -504,7 +512,7 @@ Contents Message	18627
 Contents PART	11197,4519,211
 Contents Page I. Introduction	16958
 Contents Paragraphs Background	16241
-Contents Part	2709,8528
+Contents Part	2709,8528,7646
 Contents Part I Introduction	16850
 Contents Preface	11258,28,3526
 Contents Program Information	12138
@@ -522,7 +530,8 @@ Contents of Family Registration	12226
 Contents of National	12898
 Contents of Publication Scheme	16840
 Contents of Questions	18436
-Contenu	1187,614,3159,62,2035,619,1611,55,1500,738,430,33,1257,481,644,437,57,258,217,35,3,23,19,19,91,296,55,8,18,334,27,6,6,211,81,96,739,374,5,6,12,38,2,84,21,29,254,26,10
+ContentsÂ I.Â Strategic Context	18887
+Contenu	1187,614,3159,62,2035,619,1611,55,1500,738,430,33,1257,481,644,437,57,258,217,35,3,23,19,19,91,296,55,8,18,334,27,6,6,211,81,96,739,374,5,6,12,38,2,84,21,29,254,26,10,645
 Contenu Adjoints	17982
 Contenu Code des Marchés Publics du Bénin Référence	10876
 Contenu Dahir	17
@@ -546,13 +555,14 @@ Contested Technology	11658
 Contesting	11050
 Contesting Dominant Algorithmic Imaginaries	11028
 Conteudo	12169
-Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88,55,306,7,32,47,345,11,25,26,252,232,488,1,56,1053,31,93,1,118,173,3,61,55,53,489,35,68,37,3,2,50,30,9,392,214,26,169,61,272,10,26,27,14,22,43,9,79,24,69,232,17,81,429,71,159,103,157,210,9,77
+Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88,55,306,7,32,47,345,11,25,26,252,232,488,1,56,1053,31,93,1,118,173,3,61,55,53,489,35,68,37,3,2,50,30,9,392,214,26,169,61,272,10,26,27,14,22,43,9,79,24,69,232,17,81,429,71,159,103,157,210,9,77,150
 Context Access	17140
 Context Anything	17140
 Context Areas	17140
 Context B. Sectoral and Institutional Context II	13856
 Context Baía de Luanda	11366
 Context CSA	16985
+Context Central African Republic	18887
 Context Country Context	14576
 Context Country Context Zimbabwe	13523
 Context Digital Infrastructure AI Vision	14566
@@ -605,6 +615,7 @@ Context of Digital Transformation. Higher Education Studies	11927
 Context of Digital Transformation. Smith	11927
 Context of EU Programmes	15901
 Context of Elections	7946
+Context of Food Security and Poverty Eradication	18985
 Context of Forced Displaceme	10841
 Context of National Development	7493,10992
 Context of National Development and Education	15604
@@ -619,7 +630,7 @@ Context-Specific Adaptation Needs	16135
 Context-critical	15164
 Context. Cheltenham	2096
 Context. São Tomé and Príncipe	18823
-Contexte	737,28,938,1456,222,15,3308,255,1018,2735,105,57,2,37,1031,1362,69,15,92,31,238,673,1,13,1,33,8,54,39,49,793,40,24,46,16,1,35,22,25,96,4,14,8,162,28,25,102,265,293,5,1,14,33,73,1076,7,6,6,1,3,10,4,19,22,82,93,4,13,6,19,168,11
+Contexte	737,28,938,1456,222,15,3308,255,1018,2735,105,57,2,37,1031,1362,69,15,92,31,238,673,1,13,1,33,8,54,39,49,793,40,24,46,16,1,35,22,25,96,4,14,8,162,28,25,102,265,293,5,1,14,33,73,1076,7,6,6,1,3,10,4,19,22,82,93,4,13,6,19,168,11,691,135,25,2
 Contexte Conformément	1679
 Contexte Consciente	15585
 Contexte Dans	15936,392
@@ -630,7 +641,7 @@ Contexte Le Gouvernement du Cameroun	15850
 Contexte L’économie	15455
 Contexte Madagascar	14574
 Contexte Située	17001
-Contexto	8880,1903,623,35,1,2,4,3,92,1244,4111,249,190,1426,4,5,2,5,4,5
+Contexto	8880,1903,623,35,1,2,4,3,92,1244,4111,249,190,1426,4,5,2,5,4,5,158
 Contexto A Reforma	11442
 Contexto Geo-Demográfico	18768
 Contexto Geo-Demográfico Figura	18768
@@ -645,12 +656,13 @@ Contexto Um	15910
 Contexto de Implementação	15694
 Contexts	1243
 Contexts Supported	8204
-Contextual	7886,135,1107,1691,374,388,3315,348,2662
+Contextual	7886,135,1107,1691,374,388,3315,348,2662,1173
 Contextual AI Ethic	8991
 Contextual Background	12240,692
 Contextual Background The Open Government Partnership	12932
 Contextual GBV	11965
 Contextual Infrastructure	10819
+Contextual Knowledge and Additional Assets	19086
 Contextualising	1161,7441
 Contextualização	11373,45,125,18
 Contextualização A Conectividade Universal	11418
@@ -900,7 +912,9 @@ I. COUNTRY CONTEXT AND OPERATION SUMMARY	18851
 I. COUNTRY CONTEXT Recent	16902
 I. COUNTRY CRISIS PREPAREDNESS CONTEXT	18198
 I. COUNTRY CRISIS PREPAREDNESS CONTEXT A	18198
-I. Contexte	13324,90
+I. Context	18911
+I. Context A. General	18911
+I. Contexte	13324,90,5512
 I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES	11924,3500,87,90,62,39,29,228,31,446,516,897,13,100,803,60
 I. STRATEGIC CONTEXT	969,295,603,1737,2935,4290,551,37,108,24,11,345,271,1155,1,1578,27,474,80,24,3,35,68,38,2,82,401,240,565,509,646,197,476
 I. STRATEGIC CONTEXT A. Country	11380
@@ -908,6 +922,7 @@ I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345,1426,1,
 I. STRATEGIC CONTEXT A. Project Strategic	13856,1120,1408
 I. Strategic Context	13743
 I. Strategic Context A. Country Context	15372,2069
+I. Strategic Context A. Regional and Country	18887
 I.1 CONTEXTE ET JUSTIFICATION	16104
 I.1 Contexto	16898
 I.1. CONTEXTE ET JUSTIFICATION	15671
@@ -933,6 +948,7 @@ II. CONTEXTE	17867
 II. CONTEXTE ET JUSTIFICATION	15423
 II. CONTEXTO	12787
 II. COUNTRY CONTEXT AND PROSPECTS	14043
+II. Contexte	18960
 II.1. Contexte	15685
 II.1.1. Contexte	15685
 II.1.2. Contexte	15685
@@ -1176,9 +1192,11 @@ Performance Context Overview	16943
 Perspectives Contexte	3381
 Pertinent and Contemporary Issues	899
 Philippe de M6neval Table of Contents I. Strategic	17441
+Phishing and Malicious Content	19007
 Platforms and Digital Content	13991
 Platforms and Digital Content Platforms	13991
-Policy Context	12419,1537,1673
+Policy Context	12419,1537,1673,3256
+Policy Context ICT	18885
 Policy Context The Ghana Digital Economy	15629
 Policy Context and Environment	11265
 Policy Context and Rationale	17212
@@ -1187,7 +1205,7 @@ Policy Context for Digital Education	13991
 Policy Context for Digital Education Digital	13991
 Policy Context for Nigeria	6442
 Policy Context'. Supporting	12419
-Policy and Institutional Context of Digital Transformation	17870
+Policy and Institutional Context of Digital Transformation	17870,1061
 Policy and Regulatory Context	1009
 Political Context and Outlook	13885
 Political Environment Global Context	12210
@@ -1280,12 +1298,12 @@ Schedule of Requirements Contents	13185
 Schwarz GmbH ContentLens.ai Barcelona Provincial Council	8530
 Scope Implementation Guidelines Education Content	2958
 Secrétariat National du Contenu Local	18087
-Sector Context	13885,1817,734
+Sector Context	13885,1817,734,2451
 Sector Context and Notable Progress Digital	3604
 Sector Overview and Context	13582
 Sector Research Department. Contents	774
 Sectoral Context	15601,130
-Sectoral and Institutional Context	1704,587,1165,8956,14,243,442,632,50,783,378,184,375,1,36,113,991,21,1781
+Sectoral and Institutional Context	1704,587,1165,8956,14,243,442,632,50,783,378,184,375,1,36,113,991,21,1781,477
 Sectoral and Institutional Context Social	12832
 Sectoral and Institutional Context Social Safety Nets	10963
 Sectoral and Institutional Context The National Statistical	16293
@@ -1299,6 +1317,7 @@ Service des Affaires Contentieuses Suivi du Marché	10975
 Service du Contentieux. Cette	16328
 Setting the Context	13005
 Setting the Context NRB	13005
+Seychelles.pdf Table of Contents	19101
 Shuaib Shamrouk Contents ABBREVIATIONS	15118
 Shutterstock. DIGITAL SKILLS IN NIGERIA Contents	11879
 Sierra Leone Local Content Agency	18463
@@ -1337,14 +1356,14 @@ TABLE OF CONTENT PART	18465,1
 TABLE OF CONTENT PART I-PRELIMINARY	18452
 TABLE OF CONTENT Statement	18576
 TABLE OF CONTENT TABLE OF CONTENT	16900
-TABLE OF CONTENTS	34,1784,170,791,1435,2984,3663,424,4,574,546,266,239,548,476,785,156,184,477,117,133,1071,6,16,1,1,83,399,170,938
+TABLE OF CONTENTS	34,1784,170,791,1435,2984,3663,424,4,574,546,266,239,548,476,785,156,184,477,117,133,1071,6,16,1,1,83,399,170,938,410,18,146
 TABLE OF CONTENTS ABBREVIATION AND DEFINITION	16971
 TABLE OF CONTENTS ABBREVIATIONS AND ACRONYMS	11417
 TABLE OF CONTENTS ACKNOWLEDGEMENT	18478
 TABLE OF CONTENTS ACKNOWLEDGEMENTS	16942
 TABLE OF CONTENTS ACKNOWLEDGMENTS	14909
 TABLE OF CONTENTS ACRONYMS	11860,1200,1797,72
-TABLE OF CONTENTS ACRONYMS AND ABBREVIATIONS	12973
+TABLE OF CONTENTS ACRONYMS AND ABBREVIATIONS	12973,5937
 TABLE OF CONTENTS ANNEX	14927
 TABLE OF CONTENTS ANNEXURES	11986
 TABLE OF CONTENTS ANNOUNCEMENTS National Assembly	11230
@@ -1408,6 +1427,7 @@ TABLE OF CONTENTS Topic Page S-MPI	15244
 TABLE OF CONTENTS UN	13989
 TABLE OF CONTENTS Why Fuze	6155
 TAX PROCEDURES TABLE OF CONTENTS	14908
+TCHAD I. Contexte	18926
 TOPICS CONTENTS COMMENTS Objectif	18099
 TOPICS CONTENTS COMMENTS VERBAL SYST OBJECTIFS	18099
 TOPICS CONTENTS COMMENTS VERBAL SYSTEM OBJECTIFS	18099
@@ -1420,7 +1440,7 @@ Table of Content	582,12455,273,3733
 Table of Content Acknowledgement	13681
 Table of Content PART	3861
 Table of Content Section	12975
-Table of Contents	970,1805,2472,1419,280,135,2678,272,69,675,359,46,8,7,41,40,34,599,43,1,7,88,249,5,117,139,338,35,1,21,51,35,917,13,18,44,616,82,49,52,53,27,20,56,134,124,58,411,83,1127,16,177,24,224,761,184,310,5,7,26
+Table of Contents	970,1805,2472,1419,280,135,2678,272,69,675,359,46,8,7,41,40,34,599,43,1,7,88,249,5,117,139,338,35,1,21,51,35,917,13,18,44,616,82,49,52,53,27,20,56,134,124,58,411,83,1127,16,177,24,224,761,184,310,5,7,26,294,29
 Table of Contents ABBREVIATIONS	11196
 Table of Contents ABBREVIATIONS AND ACRONYMS	1988
 Table of Contents ABBREVIATIONS AND ACRONYMS FOREWORD	13982
@@ -1437,7 +1457,7 @@ Table of Contents Acknowledgement	10763,7768
 Table of Contents Acknowledgement I List of Abbreviations	13991
 Table of Contents Acknowledgements	11195,350,6943
 Table of Contents Acknowledgments	18485
-Table of Contents Acronyms	396,10797,1470,4281
+Table of Contents Acronyms	396,10797,1470,4281,1967
 Table of Contents Acronyms and Abbreviations	6832
 Table of Contents CHAPTER	14915,234
 Table of Contents COUNTRY HYDROMET DIAGNOSTICS	18309,269,209
@@ -1449,7 +1469,7 @@ Table of Contents Document Control	16212
 Table of Contents EXECUTIVE SUMMARY	5245,11967,1249
 Table of Contents Executive Summary	8670,3325,2937,541,131,1359
 Table of Contents FOREWORD	12444,1030
-Table of Contents Foreword	5244,7430,672,1,3513,400
+Table of Contents Foreword	5244,7430,672,1,3513,400,1688,131
 Table of Contents GLOSSARY	14965
 Table of Contents Glossary	11259
 Table of Contents I. Background and Rationale for Additional	13734
@@ -1460,6 +1480,7 @@ Table of Contents INTRODUCTION	13368,3547,190
 Table of Contents Introduction	13036,1585
 Table of Contents LIST OF ACRONYMS	14947
 Table of Contents List	14997
+Table of Contents List of Abbreviations and Acronyms	19042
 Table of Contents List of Acronyms	13998,744
 Table of Contents List of Tables	6000,6062,4881,1243,31
 Table of Contents Message	18444

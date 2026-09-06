@@ -11,10 +11,12 @@ BORROWE R'S IDA-D9060- Disbursi	2473
 Bank for Reconstruction and Development IDA IFC Information	16144
 Blend IDA	11469
 Brigitte Olga Ida Otilde	15488
+CAR IDA Financing Agreement	18887
 COUNTRY REASONS Reallocations IDA-D9060-001 Cancellations	2473
 CPF ECD FCV FY IDA IFC	11468
 CREDIT IDA	16104
 CRW Eligibility Note. IDA	15491
+Chad IDA Financing Agreement	18887
 Closing Date P166601 IDA-63670 Effective	18473
 Closing Date P167478 IDA-D4840 Effective	16638
 Closing Date P174620 IDA-D9950 Effective	15619
@@ -141,8 +143,8 @@ Hôpital de Zone IDA	15475
 IBRD Amount IDA	11417
 IBRD Loan and IDA Credits and Grants	10964
 IBRD Loans and IDA Credit	15411
-IBRD Loans and IDA Credits	15372
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249
+IBRD Loans and IDA Credits	15372,3515
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249,689
 IBRD and IDA and Grants	6539
 ICT Equipment for MIA Cent IDA	17180
 ICT Gross Domestic Product IDA Government	15424
@@ -160,13 +162,13 @@ IDA CREDIT NO.6980-KE	14546
 IDA CRW-ERF	16398
 IDA Counterpart	15372
 IDA Counterpart Project Management	15372
-IDA Credit	773,491,989,1351,7359,562,380,60,447,257,663,683,538,23,562,412,71,181,181,161,149,91,270,1,20,285,1340
+IDA Credit	773,491,989,1351,7359,562,380,60,447,257,663,683,538,23,562,412,71,181,181,161,149,91,270,1,20,285,1340,587
 IDA Credit IDA Resources	10964,891
 IDA Credit No	15802
 IDA Credit Non-World Bank Group Financing	3456
 IDA Credit US	13831
 IDA Credit of US	13897
-IDA Credits	13826,1546
+IDA Credits	13826,1546,3515
 IDA Credits and Grants	1264
 IDA Crédit N	1178
 IDA D1260	18793
@@ -215,7 +217,7 @@ IDA GF F HSTR F Tot	18370
 IDA GRANT Direct	11855
 IDA GRANT NO. D977-SS	18661
 IDA General Conditions	11855
-IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220,456,1123,44,22,114,7,93,221,247,3,483,254,524,927,113,847
+IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220,456,1123,44,22,114,7,93,221,247,3,483,254,524,927,113,847,78
 IDA Grant Agreement	16922
 IDA Grant H903-ST	18765
 IDA Grant H9080	11525
@@ -231,6 +233,7 @@ IDA Horizontal Distribution Area	9123
 IDA Human Capital Index IDP International	10964
 IDA I. STRATEGIC CONTEXT A. Country	17458
 IDA IBRD	15658
+IDA IDA IDA Government CAB APL1A	18887
 IDA IFC ISP IT ITU LMI	15553
 IDA III.B.1	10768,5376
 IDA IPF	3129,1250,11653
@@ -288,7 +291,7 @@ IDA and GPE	11905,6860
 IDA and GoC	15372
 IDA and Government	15372
 IDA and Horizontal	9123
-IDA and IBRD	11468,1,3903
+IDA and IBRD	11468,1,3903,3515
 IDA and MDTF	13332
 IDA and Multi-donor	13332
 IDA and Page	11905
@@ -338,6 +341,7 @@ IDA-72660	16891
 IDA-72660 Effective	17000
 IDA-72740 Effective	16994
 IDA-73570 Effective	10870
+IDA-7445-MR Article	19157
 IDA-7445-MR Emis	5983
 IDA-74450 Effective	16705
 IDA-74630 Effective	12228,39
@@ -427,6 +431,7 @@ IDA-financed Water and Electricity Upgrading Project	15702
 IDA-funded	1264,14397
 IDA-grant	1578
 IDA-only	1264
+IDA. CAB APL1B	18887
 IDA. Critical	3604
 IDA. Effectiveness Deadline	1179
 IDA. En	10876
@@ -438,6 +443,7 @@ IDA. Looking	12980
 IDA. Page	11525
 IDA. The AFD	17849
 IDA. The IDA	9123
+IDA. The PCU	18887
 IDA. Type	1993
 IDA.worldbank.org	13431,1575
 IDA18	15601
@@ -539,6 +545,7 @@ M Disbursed IDA	2989
 M IDA	1024,1102,12893,2943
 MAIORES DE IDADE	11425
 MDAs and HDAs. The IDA	9123
+MI IDA	18887
 MIA's Central Office Dec IDA	17180
 MOSIP IDA	7065
 Mahefa Andriamampiadana. Mialisoa Ida	7899
@@ -572,6 +579,7 @@ Percentagem Idade Homens Mulheres Inquérito de Indicadores	18762
 PforR DLRs and IDA IPF	16032
 PforR IDA Amount Other Amount Estimated	3604
 Plataforma de E IDA	17219
+Private Partner. IDA	18887
 Procureme IDA	17180
 Procurement IDA International Development Association E-LS	14897
 Project Components IDA GFF Total Component	10829
@@ -589,7 +597,7 @@ Reallocations IDA-70780-001 Currency	16187
 Reallocations IDA-72690-001 Currency	18359
 Redundant IDAs	9123
 Referenced IDA	579
-Regional IDA	15372,3382
+Regional IDA	15372,3382,133
 Regional IDA National IDA GOC	15372
 Regional Window of IDA	1264
 Renovação de Edifícios de IDA	17219

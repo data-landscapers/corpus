@@ -305,6 +305,7 @@ GBV Gender-Based Violence	11965
 GBV Gender-Based Violence GDP Gross Domestic	1988,8780,4370
 GBV Gender-Based Violence GRS Grievance Redress	17099
 GBV Gender-based	11380
+GBV Gender-based Violence GCI Global Competitiveness	18931
 GBV NGO	16384
 GBV PIU	1988
 GBV ST	17099,15
@@ -471,6 +472,7 @@ Gbps AIRTEL	718
 Gbps Capacité	15637
 Gbps Copper Ethernet	13185
 Gbps Cumulative	14069,741,1234,2376
+Gbps Data Basket	18931
 Gbps Does	18420
 Gbps Débit	17488,26
 Gbps Gigabits	718

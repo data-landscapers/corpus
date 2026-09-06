@@ -246,10 +246,13 @@ Mandala Blantyre	12253
 Mandala S	17773
 Mandalari	8436
 Mandalay	8999
+Mandalia	18972
+Mandalia-Guelendeng	19004
 Mandamiento	16855
 Mandamus	18154
 Mandani AS	1219
 Mandani&volume	1219
+Mandargué	19051
 Mandarim	15772
 Mandarin	14742
 Mandarona	14479
@@ -258,7 +261,7 @@ Mandat Interventions	16621
 Mandat. La MOEUA	18310
 Mandataire	6954,8445,328
 Mandataires	6954,11356
-Mandate	899,474,615,1595,278,265,133,269,716,289,144,765,390,104,985,1478,360,1376,58,793,55,239,125,39,68,162,1,263,32,5,122,213,45,65,268,913,135,83,60,17,11,40,50,247,469,499,727,4,87,69,40,121,104,1080,37
+Mandate	899,474,615,1595,278,265,133,269,716,289,144,765,390,104,985,1478,360,1376,58,793,55,239,125,39,68,162,1,263,32,5,122,213,45,65,268,913,135,83,60,17,11,40,50,247,469,499,727,4,87,69,40,121,104,1080,37,561,131
 Mandate Audit Frequency	12675
 Mandate Category Stakeholder Role	17099
 Mandate Data Protection Impact Assessments	6936
@@ -270,6 +273,7 @@ Mandate Ethical Impact Assessments	4528,7984
 Mandate GIS	17260
 Mandate Influence Interest Commercial Banks	12444
 Mandate Influence Interest Ministry of Leads	12444
+Mandate InfoCom	19042
 Mandate Interoperable Identity Infrastructure The CBN	11138
 Mandate KIFC Fostered	14997
 Mandate Laundering Turns Coordination	9914,1,77
@@ -288,6 +292,7 @@ Mandate and Core Responsibilities Institutions	17116
 Mandate and Functions	12759
 Mandate and Objectives	408
 Mandate for Change	17116
+Mandate for DPA	19042
 Mandate for Data Collection	13310
 Mandate for Service Level Agreements	11995
 Mandate of CR	12413,2643
@@ -313,7 +318,7 @@ Mandating	4732,1322,1655,7738,33,732,1559
 Mandating Digital Tax Tools	12485,463
 Mandato	167,2699,8515,4010,59,85,377,986,1853,22,21
 Mandato Artigo	18751
-Mandatory	736,527,479,371,892,110,188,411,147,667,91,1166,647,490,841,2260,691,108,19,123,288,273,335,20,20,5,47,51,59,81,23,66,95,62,11,20,92,370,12,54,83,154,135,618,1059,105,240,211,37,69,265,288,731,40,23,1464,86
+Mandatory	736,527,479,371,892,110,188,411,147,667,91,1166,647,490,841,2260,691,108,19,123,288,273,335,20,20,5,47,51,59,81,23,66,95,62,11,20,92,370,12,54,83,154,135,618,1059,105,240,211,37,69,265,288,731,40,23,1464,86,348,81
 Mandatory AI	7548
 Mandatory Acceptance of Payments	14014
 Mandatory Assessment Triggers	3861
@@ -343,6 +348,7 @@ Mandatory Functional Requirements	11209
 Mandatory Governance Gates	6442
 Mandatory Implementation Standards	3861
 Mandatory Implementation of Free Governor Control	18186
+Mandatory Information Security Auditing	18903
 Mandatory Internal Audit	5533
 Mandatory Internal Controls	3861
 Mandatory Internal Controls All	3861
@@ -417,6 +423,8 @@ Mandira Bagwandeen	3598
 Mandira Bagwandeen As Africa	3598
 Mandisa Mashologu	16973
 Mandja	15498
+Mandjafa	19150
+Mandjaffa	18972
 Mandji	2325
 Mandji-Ndoulou. Elle	16289
 Mandjou	8737
@@ -430,8 +438,11 @@ Mandla Ndebele’s Symphonic Execution	7312
 Mandla Ndlovu Ministers	11227
 Mandla Radebe	10497
 Mandoto	14622
-Mandoul	792
+Mandoul	792,18180,14,140
+Mandoul CAU	19201
+Mandoul and Moyen-Chari	19054
 Mandoul. Elle	9448
+Mandoul. Tchad	19123
 Mandraka	14479
 Mandritra	14488,1,1
 Mandritra Orinasa	14488,1
@@ -444,6 +455,7 @@ Mandzi	15692
 Mandà	14488,1,1
 Mandë Holford	6997
 Marsabit Isiolo Tana River Lamu Mandera	12151
+Mayo-Kebbi Ouest CAU de Koumra Mandoul	19201
 Minimum Mandatory Conditions	17505
 Ministry Mandate	12975
 Ministry’s Mandate	12912,50
@@ -537,6 +549,7 @@ Regulatory Mandates	16942
 Regulatory Mandates for NCC	1777
 Reino Pereira Mandu Camará Agnelo Augusto	11544
 Relevant Legislative and Policy Mandates	11986
+Republic of Seychelles. Mandate for ATIA	19042
 Residency Requirements Mandatory	6432
 Respective Mandate	718
 Responsive Mandatory Monthly	11952
@@ -559,6 +572,7 @@ Standardised Mandatory Quarterly	11952
 Standards Mandatory	5665
 Strategic Mandate	4896
 Styven-Jeff NZENGUET MANDO	16175
+São Tomé and Príncipe Data Code Mandatory	18985
 TEAM Mandisa Mashologu Resident Representative	16973
 Technical Mandatory Monthly	11952
 Technology and Mandates NACOSTI and NRF	7548

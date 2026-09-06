@@ -107,6 +107,7 @@ Development and Testing	14565
 Digital Ambition Tested	2622
 Digital Shift Tests KRA’s Tax Collection	14932
 Disaster Recovery Test Tier	10721
+Djikoloum Tesse Marlène	19134
 Dr. Teshale	14050
 Drive Test	718
 Drive Tests	15135
@@ -419,6 +420,7 @@ Six Tests Starlink Had	6825
 Skilled Manpower Trade Testing and Certification Fund	13420
 Smart Test Spa	3609
 Social Protection Stress Test Tool United	10763
+Sociedade TESLA STP	18977
 Software Committees HCT HIV Counselling and Testing	396
 Software Integration Tests	10721
 Software Test	6832
@@ -466,8 +468,9 @@ TES-GM-250127-L003	18793
 TESCOs	17870
 TESCREAL	5302
 TESLA	18793
-TESLA STP	18793,4
+TESLA STP	18793,4,180
 TESLA STP Unipessoal	18793
+TESLA-STP	18977
 TESLIM TOBATELE GIWA ESQ	18154
 TESORERIA	4209
 TESORERIA TOTAL AUTÓNOMA	4209
@@ -660,7 +663,7 @@ Testimonials Section	14725
 Testimonies	11332
 Testimony	2518
 Testimony Akinkunmi	9642
-Testing	11,1977,721,1901,1055,1883,424,698,453,6,920,1085,103,32,316,324,43,406,42,57,236,224,120,24,320,4,128,1052,36,73,62,25,5,14,467,832,821,168,484,158,731,29,53
+Testing	11,1977,721,1901,1055,1883,424,698,453,6,920,1085,103,32,316,324,43,406,42,57,236,224,120,24,320,4,128,1052,36,73,62,25,5,14,467,832,821,168,484,158,731,29,53,380,34
 Testing Attributes Functional Testing	5665
 Testing Code	11952
 Testing DPI Digital Public Infrastructure	11952

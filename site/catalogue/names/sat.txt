@@ -103,6 +103,7 @@ Conectividad Vía Satélite	17399
 Consumer Satisfaction Measurement Mechanisms	5676
 Conta Satélite	15962
 Contractor and Satellite Social	1988
+Counsel LEGAF David Satola Senior Counsel	18887
 Création de Compte Satellite du Tourisme Cellule	18306
 Current Moderately Satisfactory	15031
 Current Satisfactory Overall Implementation Progress	15737
@@ -359,7 +360,7 @@ Mobile Satellite Station Details Type	736
 Moderate Satisfaction	17149
 Moderate Satisfaction Only	17149
 Moderate Satisfactory. Compensation	13054
-Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87,90,446,510,5,46,2,171,196,38,87,90,60,41,80,20,167,14,30,66,108,211,38,178,91,191,26,72,6,904,58,393,4,15,160,101,182
+Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87,90,446,510,5,46,2,171,196,38,87,90,60,41,80,20,167,14,30,66,108,211,38,178,91,191,26,72,6,904,58,393,4,15,160,101,182,70,95
 Moderately Satisfactory Bank Performance	14948
 Moderately Satisfactory C.2 Detailed Ratings of Bank	16614
 Moderately Satisfactory Component	13054,5581
@@ -372,8 +373,8 @@ Moderately Satisfactory Moderately Satisfactory	15424,1190
 Moderately Satisfactory Moderately Satisfactory Overall Risk	15619,116,903,1835,61
 Moderately Satisfactory Monitoring and Evaluation	18635
 Moderately Satisfactory Name	16079,915,85,879
-Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650,462
-Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462
+Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650,462,165
+Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462,165
 Moderately Satisfactory Page	17962
 Moderately Satisfactory Progress	11971,4108,915,85,879
 Moderately Satisfactory Public Disclosure Authorized Public	16013
@@ -509,7 +510,7 @@ SAT Digital Video Broadcasting	6946
 SAT Santé	18356
 SAT de Mwali	13798
 SAT-2	3782
-SAT-3	2304,373,1105,150,316,1110,323,1092,435,121,962,818,1048,5323,504,1878,229
+SAT-3	2304,373,1105,150,316,1110,323,1092,435,121,962,818,1048,5323,504,1878,229,796
 SAT-3 Câble	18105
 SAT-3 and ACE	9573,5874
 SAT-3 and Main	16942
@@ -579,7 +580,7 @@ Satelaiti	2868,3151
 Satelitaire Satellite	18203
 Satelitaire URL	18203
 Satellitaire Figure	13375
-Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212,335,274,311,15,286,153,429,137,499,48,81,38,10,12,549,830,110,92,165,17,93,634,495,8,177,124,99
+Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212,335,274,311,15,286,153,429,137,499,48,81,38,10,12,549,830,110,92,165,17,93,634,495,8,177,124,99,100,98
 Satellite Analysis Branch	15907
 Satellite Analysis Exposes Extreme Farmland	15229
 Satellite Analysis Reveals	14569
@@ -715,13 +716,13 @@ Satellite and Regional Models Satellite	11191
 Satellite-Based Land Cover Mapping and Monitoring	12667
 Satellite-Earth-Stations.pdf	1259
 Satellite-backed	8871
-Satellite-based	3641,8812,892,1413,2399
+Satellite-based	3641,8812,892,1413,2399,1828
 Satellite-derived	11142,97
 Satellite-enabled	5378,7723
 Satellite-to-mobile	9997
 SatelliteS	736
 SatelliteServiceFactor	736
-Satellites	5378,2733,2477,1542,265,706,3710,898,187
+Satellites	5378,2733,2477,1542,265,706,3710,898,187,991
 Satellites Are Accelerating Health Tech	5378
 Satellites Asante	8111
 Satellites E-Gov E-Santé E-Transport	18317
@@ -796,7 +797,7 @@ Satisfactory. The Bank	15511
 Satisfactory. The Bank’steam	15511
 Satisfactory. With US	18809
 Satisfai	13390
-Satisfaire	13781,2840,1223
+Satisfaire	13781,2840,1223,1040
 Satisfaisant	13737,802,1,972,500,1991
 Satisfait	13390,4439
 Satisfait Assez	13390
@@ -807,7 +808,7 @@ Satisfaits	3346,10044
 Satisfaits. Cela	13390
 Satisfatório	16325
 Satisfazer	17103
-Satisfação	11555,3980
+Satisfação	11555,3980,3479
 Satisfeito	16028
 Satisfied	5679,6700,2398,2372,813
 Satisfied Clients	13502

@@ -3,7 +3,7 @@ AVANCES PROGRAMME DES NATIONS UNIES POUR	18105
 Africaine de Santé PNUD Programme des Nations Unies	18169
 Afrique Centrale CNUCED Conférence des Nations Unies	15474
 Agence des Nations Unies	11944,1380,90,3910
-Agences du Système des Nations Unies	15557
+Agences du Système des Nations Unies	15557,3396
 Assemblée Générale des Nations Unies	10826,5790,11,1473
 Assistance des Nations Unies	15478
 Banque de Technologies des Nations Unies	16627
@@ -18,7 +18,7 @@ Cadre de Coopération des Nations Unies	16351,1627
 Centre des Nations Unies	16507
 Charte des Nations Unies	15405,18,262,82,1689
 Comité des Experts des Nations Unies	17983
-Commission Economique des Nations Unies	15599,2225
+Commission Economique des Nations Unies	15599,2225,1348
 Commission de Statistique des Nations Unies	10874
 Commission des Nations Unies	14411,1304,926
 Commission du Développement Durable des Nations Unies	18286
@@ -41,11 +41,13 @@ Développement ONU Organisation des Nations Unies OPEX	18103
 Développement Unies	17845
 EGLISE METHODISTE UNIE DU CONGO	15692
 Education PNUD Programme des Nations Unies	17907
+Emirats Arabe Unie	18972
 Emirats Arabes Unies	17907
 Enfance UNFPA Fonds des Nations Unies	18077
 Enrichissement Illicite ONU Organisation des Nations Unies	6959
 Entités des Nations Unies	13547,3136
 Equipe Pays des Nations Unies	15965
+Est du Tchad. Le Haut-Commissariat des Nations Unies	19024
 Experts des Nations Unies	17983
 FAO Organisation des Nations Unies	15724
 FNUAP Fonds des Nations Unies	15724
@@ -81,7 +83,8 @@ Mauritanie CCE Convention des Nations Unies	17881
 Monsieur le Secrétaire Général des Nations Unies	17474
 Monétaire Ouest-Africaine UNICEF Fonds des Nations Unies	18077
 NATIONS UNIES POUR L’ENFANCE UNFPA UNITED	18105
-Nations Unies	2808,47,541,884,539,1660,643,94,158,196,727,47,43,128,40,336,4,160,1766,5,45,3,91,10,583,103,283,28,1318,10,24,1,16,92,9,104,82,49,80,157,296,242,82,43,36,9,282,519,9,7,46,3,5,7,24,6,12,38,19,3,83,27,10,2,7,1,12,23,13,3,3,15,5,13,29,53,27,8,127,41,25,121,13,28,32,168,130,5,1,14,3,357,437,10,23,3,369,17,21,26,23,7,8,2,17,14,5,87,7,28,11,2,4,38,105,21,30,8
+Nations Unies	2808,47,541,884,539,1660,643,94,158,196,727,47,43,128,40,336,4,160,1766,5,45,3,91,10,583,103,283,28,1318,10,24,1,16,92,9,104,82,49,80,157,296,242,82,43,36,9,282,519,9,7,46,3,5,7,24,6,12,38,19,3,83,27,10,2,7,1,12,23,13,3,3,15,5,13,29,53,27,8,127,41,25,121,13,28,32,168,130,5,1,14,3,357,437,10,23,3,369,17,21,26,23,7,8,2,17,14,5,87,7,28,11,2,4,38,105,21,30,8,602,16,46,162
+Nations Unies Annexe	19150
 Nations Unies Ce	17881
 Nations Unies Commission	16419
 Nations Unies Genève	18070
@@ -96,6 +99,7 @@ Nations Unies. Ces	15722
 Nations Unies. Cette	9277
 Nations Unies. E-GOVERNMENT SURVEY	15583
 Nations Unies. Ensemble	16743
+Nations Unies. Il	19150
 Nations Unies. Lesdites	16447
 Nations Unies. ODD4	13628
 Nations Unies. Plan	18118
@@ -122,7 +126,7 @@ PNUAD Plan-cadre des Nations Unies	15724
 PNUD Programme des Nations Unies	15474,106,144,845,114,1160
 Parité ONU Organisation des Nations Unies PADA	18286
 Plan-cadre des Nations Unies	15487,237
-Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91,979,1433,99,107,34,825,92,8,75,5,31,821,1,247,2,59,65,486,144,163,3,26,13,788,353,18,110,9,15,45,79,3,66,11,99,7
+Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91,979,1433,99,107,34,825,92,8,75,5,31,821,1,247,2,59,65,486,144,163,3,26,13,788,353,18,110,9,15,45,79,3,66,11,99,7,702,23
 Programme des Nations Unies Mohamed Ag ERLAF	17827
 Représentant Résident du Programme des Nations Unies	16711,1241
 République Unie	13405

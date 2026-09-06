@@ -179,6 +179,7 @@ Fiscal Policy and Income Inequality	14932
 Fixed Service and Incoming	3898
 Foreign Companies Income	12483
 G INCONNUE	13300
+GNI Gross National Income GoC Government	18931
 GNI Gross National Income GoEG Government	16942
 GNI Gross National Income GoK Government	2775
 GRID Gross National Income GRM Government	3604
@@ -188,7 +189,7 @@ Grit Real Estate Income Group	14507
 Gross Domestic Product and Gross National Income	2775
 Gross Income	11976,2741
 Gross National Disposable Income	2775
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2
 Gross National Income GRM Government of Burundi	13331
 Gross National Income GSMA	18485
 Gross National Income GoKE Government	6539
@@ -269,7 +270,7 @@ Incode	2390,1902,563,470,255,313,73,322,83
 Incoherent	14935
 Incoherent Policies and Contradictory Priorities	12227
 Incohérences	16328
-Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575,117,90,100
+Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575,117,90,100,413
 Income All Firms Small Medium Large	11874
 Income Allowance	14782
 Income Allowance Ehram Court	14782
@@ -469,6 +470,7 @@ Incorporation and Nature	3714
 Incorporation of ACE GIE	15424
 Incorporation of Namibian	12895
 Incorporation of SPV	18754
+Incorporation of Seychelles Standards	18893
 Incorporation of Shikomori	13774
 Incorporation of Sustainability Clauses	12389
 Incorporação	2816,8580,1,7384
@@ -534,6 +536,7 @@ Lower Middle Income. Chart	11881
 Lower Middle Income. Introduction	11881
 Lower-Middle Income Country	11909
 Lower-middle Upper-middle High Income Note	11563
+M Income	18931
 M Total Passive Income EGP	5869
 MIC Middle Income Country MoF Ministry	11863
 MOI Memorandum of Incorporation MTDP Medium Term	11250
@@ -549,6 +552,7 @@ Memorandum of Incorporation the Registrar	3714
 Microfinance Institutions Balance Sheet and Income Statement	17235
 Middle Income	11874
 Middle Income Coun	17101
+Middle Income Country Technical Assistance Fund	19027
 Middle Income Housing	15473
 Mineral Income Investment Fund	10069
 Minister of Finance. Incorporation	13053
@@ -663,6 +667,7 @@ Residual Rating Incorporated	15372
 Residual S Incorporated	3604
 Riders Incorporated	16947
 Risk Mitigating Measures Incorporated	10829
+Risk Risk Risk Mitigating Measures Incorporated	18887
 Roaming Traffic Out-bound Roaming Incoming Voice	6671
 Rs Monthly Income	14828
 Rural Income	14869

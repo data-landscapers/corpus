@@ -115,6 +115,7 @@ Authority. Consumer	16889
 Availability of Public Consultations	12389
 Average Monthly Data Consumption	5245,11730
 Avetium Consult Limited	3862
+Axiom Consulting	18887
 Axios International Consultants Limited Data Processor	7167
 B. Consumer Consultation	5676
 B. Consumer Consultation NRAs	5676
@@ -231,6 +232,7 @@ CONSULTANCY SERVICES FOR THE DEVELOPMENT	11750,1287
 CONSULTANT	7977,5054
 CONSULTANT Name of Consultant	13031
 CONSULTANT Postal Address	13031
+CONSULTANT SHALL SUBMIT BOTH THEIR TECHNICAL	18965
 CONSULTANT Signed	13037
 CONSULTANTS	1649,15606
 CONSULTANTS F M VNU F M	14622
@@ -275,7 +277,7 @@ CONSUMER COMPLAINTS Disputes	12395
 CONSUMER EMPOWERMENT AND PROTECTION	6946
 CONSUMER PRICE INDEX	16935
 CONSUMER PRIVACY AND DATA PROTECTION	16872
-CONSUMER PROTECTION	28,912,11979,1809,2,2148
+CONSUMER PROTECTION	28,912,11979,1809,2,2148,2056
 CONSUMER PROTECTION BALANCE IN THE ENERGY	12256
 CONSUMER PROTECTION CHAPTER	28
 CONSUMER PROTECTION Enabler	11960
@@ -378,6 +380,7 @@ Commission Consultative	3396
 Commission Consultative du Travail	3396
 Commission Nationale Consultative	17859
 Common Monetary Area Consumer Price Index	11131
+Communications Consultant	19042
 Community Consultation	5853
 Community Consultation Period	5853
 Community Consultation Session Dedicated	17322,49,1,29
@@ -471,7 +474,7 @@ Consulat. Une	17861
 Consulate	12898,1147,431,2632
 Consulate General of India	13791
 Consulates	14045,784
-Consulats	16636,1225,240
+Consulats	16636,1225,240,825
 Consulats du Niger	18101
 Consulats la Commission Administrative	18101
 Consulats. Actions	15936
@@ -479,7 +482,7 @@ Consulats. Article	17861
 Consulats. Elections	17861
 Consuls	3396
 Consuls. Président	17861
-Consult	986,8137,306,1755,673,16,802,706,610,683,223,100,167,1669,39,242,66
+Consult	986,8137,306,1755,673,16,802,706,610,683,223,100,167,1669,39,242,66,1862
 Consult Limited. Auditors	9650
 Consulta	4583,6786,61,18,72,49,329,1107,2354,195,822,522,195,1675,103
 Consulta Alvará Comercial Consulta Alvará Comercial	9040
@@ -502,7 +505,7 @@ Consulta de Tráfego Sobre Nós	18830
 Consultance	13635
 Consultancies	16943
 Consultancies COMESA	11825
-Consultancy	962,3209,5032,62,627,168,779,1310,61,483,224,55,5,100,315,533,561,252,92,142,59,112,229,146,975,485,202,75,1240,46,82
+Consultancy	962,3209,5032,62,627,168,779,1310,61,483,224,55,5,100,315,533,561,252,92,142,59,112,229,146,975,485,202,75,1240,46,82,264
 Consultancy ACEPA	9203
 Consultancy Agreement	12962
 Consultancy Firm	9893,4901
@@ -524,7 +527,7 @@ Consultancy Staff Hiring	16867
 Consultancy for EMIS Policy Development Support	14131
 Consultancy for International Consultants	17255
 Consultancy for Revision and Modernisation	1243
-Consultant	962,690,1337,689,412,1280,34,2266,307,1300,326,1,140,316,49,732,35,260,20,115,274,310,5,2,5,2,37,35,90,327,305,171,78,59,1,5,54,6,3,14,258,2,78,243,78,64,108,53,347,187,106,164,11,67,77,31,91,45,26,183,99,75,11,16,6,13,92,78,22,205,122,221,54,331,8,55,66,120,54,1,1,1,2,1,15,54,103,15,66,107,154,109,322,30,129,266,25,173,13,67,276
+Consultant	962,690,1337,689,412,1280,34,2266,307,1300,326,1,140,316,49,732,35,260,20,115,274,310,5,2,5,2,37,35,90,327,305,171,78,59,1,5,54,6,3,14,258,2,78,243,78,64,108,53,347,187,106,164,11,67,77,31,91,45,26,183,99,75,11,16,6,13,92,78,22,205,122,221,54,331,8,55,66,120,54,1,1,1,2,1,15,54,103,15,66,107,154,109,322,30,129,266,25,173,13,67,276,36,183,16
 Consultant API Chef	16012
 Consultant Anis Mahfoud Consultant Farid Laaboudi	17441
 Consultant Appointments Using Appropriated Funds	11218
@@ -538,7 +541,7 @@ Consultant ET	16626
 Consultant Final Detailed Project Report	12962
 Consultant Financial Management MNAFM Lamyae Hanafi	17441
 Consultant Firm	12388
-Consultant Guidelines	15372,39,3084
+Consultant Guidelines	15372,39,3084,392
 Consultant Guidelines. Consultants	18575
 Consultant Individuel	5370
 Consultant International	16400
@@ -552,7 +555,7 @@ Consultant Post Open-	17180
 Consultant Pour	15585
 Consultant Psychiatrist	13040
 Consultant Qualifi Open	17180
-Consultant Qualification	15372
+Consultant Qualification	15372,3515
 Consultant Qualification Selection	14486
 Consultant Qualification Selection Notice	16194
 Consultant Review	16926
@@ -575,13 +578,14 @@ Consultant. Annexure	13031
 Consultant. B. Schedule of Payments	13037
 Consultant. Financial	13037
 Consultant. Mode	1993
+Consultant. Procurement Plan	18887
 Consultant. Representatives	13037
 Consultante	7655,7819,19,519,316,2084
 Consultants	1284,593,111,1690,4991,934,1,1272,253,382,14,225,694,249,8,133,143,54,6,322,59,400,606,349,223,147,229,39,107,695,280,169,19,245,1,514,461,56,666
 Consultants Dar Cameroun	16037
 Consultants Disbursement Arrangements	3604
-Consultants Guidelines	15411
-Consultants Guidelines. Frequency of Procurement Supervision	15372
+Consultants Guidelines	15411,3476
+Consultants Guidelines. Frequency of Procurement Supervision	15372,3515
 Consultants Note	11525
 Consultants Page	11525
 Consultants Pays Membres	5370
@@ -595,6 +599,7 @@ Consultants' Services	17441
 Consultants. Fraud and Corruption	13037
 Consultants. Section	13037
 Consultants. Should the Client	13037
+Consultantsâ	18887
 Consultants’ Guidelines	15411
 Consultants’ Guidelines. All	15411
 Consultants’ Proposal. Evaluators of Technical Proposals	13037
@@ -621,7 +626,7 @@ Consultas Públicas	11390,130
 Consultas Sanitárias Realizadas	18768
 Consultatif de Sécurité	3396
 Consultating With Government Stakeholders' After NMG	4608
-Consultation	737,34,238,234,535,210,2138,132,270,1070,2148,104,753,78,1492,703,38,61,236,5,8,61,300,211,5,11,88,402,87,252,660,13,17,10,183,446,455,33,216,161,514,20,289,3,50,35,190,301,344,258,4,18,26,37,2,25,163,719,2,44,84,69,61,25,198,6,182,131,23
+Consultation	737,34,238,234,535,210,2138,132,270,1070,2148,104,753,78,1492,703,38,61,236,5,8,61,300,211,5,11,88,402,87,252,660,13,17,10,183,446,455,33,216,161,514,20,289,3,50,35,190,301,344,258,4,18,26,37,2,25,163,719,2,44,84,69,61,25,198,6,182,131,23,276
 Consultation Consult	13381
 Consultation Document	10406,6806
 Consultation Engaged	14752
@@ -645,8 +650,10 @@ Consultation Questions Stakeholders	17212
 Consultation Register Official Use Only Official	12253
 Consultation Report	10406
 Consultation Response Table	17212
+Consultation Response URL	18952
 Consultation Schedule	1778
 Consultation Schedule Ref. Activity Date	17191
+Consultation The Authority	18952
 Consultation Timeline	17212
 Consultation Workshops	970
 Consultation Written	8840
@@ -656,7 +663,7 @@ Consultation des Fournisseurs	5370
 Consultation for Change Workshop	14835
 Consultation for Change Workshop The Ministry of Social	14835
 Consultation of Stakeholders	11956
-Consultations	1243,624,121,339,24,538,1083,154,1472,1735,1558,217,747,913,73,134,158,147,245,28,300,133,189,80,42,665,15,263,74,17,248,150,461,298,1,256,6,246,123,107,220,26,33,155,51,23,113,76,517,402,24,59,18,183,30,284,425,15,12,212,115,89,13,37,11,161,1,46,40,40
+Consultations	1243,624,121,339,24,538,1083,154,1472,1735,1558,217,747,913,73,134,158,147,245,28,300,133,189,80,42,665,15,263,74,17,248,150,461,298,1,256,6,246,123,107,220,26,33,155,51,23,113,76,517,402,24,59,18,183,30,284,425,15,12,212,115,89,13,37,11,161,1,46,40,40,249,4,3,71,150
 Consultations Completed	14116
 Consultations Revue	16628
 Consultations Session	16628
@@ -699,7 +706,7 @@ Consulting Ltd. LBSE Basic Education Law	11552
 Consulting PIU BID	1988
 Consulting Service	16493,2218
 Consulting Service Type	8726
-Consulting Services	210,9393,1,1921,338,42,1132,888,1218,229,146,35,106,1521,690,625,80
+Consulting Services	210,9393,1,1921,338,42,1132,888,1218,229,146,35,106,1521,690,625,80,312
 Consulting Services All TORs All	15518
 Consulting Services Category Prior Review	13017
 Consulting Services Consultants	11855
@@ -845,7 +852,7 @@ Consumer Prices Index CSOs	14857
 Consumer Privacy	16872
 Consumer Privacy and Data Protection	16872
 Consumer Protection	940,60,243,3998,435,1264,6,602,137,4275,34,220,151,24,58,85,227,222,1073,682,38,45,60,18,100,230,34,49,1532,30,14,3,346,16,1495
-Consumer Protection Act	940,985,3940,1021,295,2062,1070,337,1560,731,329,50,1037,2567,304
+Consumer Protection Act	940,985,3940,1021,295,2062,1070,337,1560,731,329,50,1037,2567,304,1697
 Consumer Protection Act Chapter	1925
 Consumer Protection Act Regulations	5865
 Consumer Protection Act. Laws	16872
@@ -922,7 +929,7 @@ Consumer-to-Consumer	14790
 ConsumerCentriX. Bridgforte Dialogues Roundtable	11138
 ConsumerConnect	12466,595
 ConsumerUCC	4761
-Consumers	28,912,2113,62,193,626,248,550,274,275,139,256,2,66,121,58,1017,6,216,11,80,252,101,360,164,17,145,423,126,75,401,421,161,176,60,68,74,461,392,8,60,331,34,780,101,230,193,447,6,26,115,71,843,299,49,96,3,45,65,15,21,503,1328,87,3,35,193,39,95,619,448,167,148
+Consumers	28,912,2113,62,193,626,248,550,274,275,139,256,2,66,121,58,1017,6,216,11,80,252,101,360,164,17,145,423,126,75,401,421,161,176,60,68,74,461,392,8,60,331,34,780,101,230,193,447,6,26,115,71,843,299,49,96,3,45,65,15,21,503,1328,87,3,35,193,39,95,619,448,167,148,341
 Consumers Association of Mali	17870
 Consumers By Gabriel Ouma	16781
 Consumers Code of Protection	17106,81
@@ -938,13 +945,16 @@ Consumers REDs Local and Regional Authorities	12399
 Consumers of ICT ICTs. Services Define and Implement	13295
 Consumers of Information and Communication Technology	236
 Consumers' E-Commerce Adoption	1154
-Consumidor	15,11354,53,8,1,85,15,51,784,6383,44
+Consumido-	18896
+Consumidor	15,11354,53,8,1,85,15,51,784,6383,44,103,118
+Consumidor Cativo	18896
 Consumidor Financeiro	2138
 Consumidor Ligue	11415,13
 Consumidor MAA Ministério da Agricultura	15535
 Consumidor Passa	9559
 Consumidor da Califórnia	3519
-Consumidores	2138,9280,4027,3348
+Consumidores	2138,9280,4027,3348,103
+Consumidores Entidade Reguladora	18896
 Consuming	8603
 Consuming Linked Data	8604
 Consumir	17046
@@ -962,7 +972,7 @@ Consumo de Energia Eléctrica	18757
 Consumo de Tabaco	10777,7985
 Consumos	18793
 Consumos Especiais	16022
-Consumption	7,229,734,393,465,947,8749,400,52,280,5,142,33,533,655,244,86,942,36,15,1707,283,59,131,240,1103
+Consumption	7,229,734,393,465,947,8749,400,52,280,5,142,33,533,655,244,86,942,36,15,1707,283,59,131,240,1103,568
 Consumption Basket	12395
 Consumption Household and NPISH	18483
 Consumption Score	12978
@@ -1082,8 +1092,8 @@ Digital Archiving Consultancy Ltd. Lynch	12090
 Digital Consultant	18635
 Digital Consumer Protection Framework	12444
 Digital Consumer Protection Laws	12214
-Digital Development Consultant	2989,12458,1429,994,753
-Digital Development E.T. Consultant	17870
+Digital Development Consultant	2989,12458,1429,994,753,308
+Digital Development E.T. Consultant	17870,1061
 Digital Health Consultant	9987
 Digital Health and Data Analytics Consultant Solicitation	12754
 Digital Pharmacy Consultation	9855
@@ -1115,6 +1125,7 @@ Drossos Consultant Washington	11525
 Duration Quality of Service Consumer Rights Data	5676
 Duração da Consultoria	16321
 Démission du Consultant	16747
+Département. Le Consultant du PNUD	19011
 E&S Consultants	1988
 E&S Specialist Consultants	17114
 E-Commerce Business Development Consultancy Transaction	9265
@@ -1154,7 +1165,7 @@ Ecobank Sierra Leone's Head of Consumer and Small	3895
 Economist Impact and Corteva. M4. Explicit Consumer	17257
 Editorial Team F E The Consultative	9843
 Educates Consumers	18497
-Education Consultant	14897,1979,994
+Education Consultant	14897,1979,994,1061
 Education Consultez	9482
 Egyptian Consulate	15393
 Egyptian Consumer Protection Law	15713
@@ -1240,7 +1251,11 @@ FCCPC Federal Competition and Consumer Protection Council	11857
 FCCPC’s DEON Consumer Lending Regulations	7776
 FCFA HT Consultation	17833
 FGS PFM Reforms Advisor. The Consultant	15090
+FINANCIAL CONSUMER DISPUTES	18925
+FINANCIAL CONSUMER DISPUTES Internal	18925
+FINANCIAL CONSUMER PROTECTION ACT	18925
 FINANCIAL CONSUMER PROTECTION DIRECTIVE NO	13976
+FINANCIAL CONSUMERS	18925
 FIRM EXPERIENCE The Consultant	15090
 FRICA OCIDENTAL SOP1 SERVIÇOS DE CONSULTORIA	11555
 FSP Virtual Consultative Session	11866
@@ -1267,11 +1282,12 @@ FinScope MSME and Consumer	940
 FinScope MSME and Consumer Surveys	940
 Final Consumption	17257
 Final Consumption Coal	17257
+Final Consumption Expenditure	19038
 Final Energy Consumption	12256,2807
 Financial Capability Priority Area Consumer Protection	940
 Financial Consumer Complaints Resolution The Bank	7763
 Financial Consumer Protection	940,6823,4197,777,2260,1945
-Financial Consumer Protection Act	12666
+Financial Consumer Protection Act	12666,6259,27
 Financial Consumer Protection Bill	13060
 Financial Consumer Protection Directive	12232
 Financial Consumer Protection Directive No. FCP	14099
@@ -1368,6 +1384,10 @@ Government Consultant	12961,76
 Government Consultant Mandatory Requirement Compliant	13037
 Government Consumption	14897
 Government Final Consumption	18483
+Government Final Consumption Expenditure	19038
+Grande Consumidor	18896
+Group of Consultants	19086
+Groupe Consultatif Technique Independent GLPE	18942
 Groupe Consultatif Technique Indépendant	15673
 Groupe Technique Consultatif	15685
 Groupes Techniques Consultatifs	18105
@@ -1377,7 +1397,10 @@ Guidelines for National Consultations	11387
 Guinea Bissau. An Honorary Consulate of India	11579
 Guinea Bissau. Honorary Consul of India	11579
 Guinea Foreign Office Consultations	16649
-Géo Consult	15692
+Gulf Consultancy	19142
+Gulf Consultancy. Avant	19142
+Géo Consult	15692,3336
+Géo Consult URL	19028
 HIP Consult	11857
 HIP Consult Inc	1172,1113
 HOUSEHOLD TOTAL CONSUMPTION	16892
@@ -1400,6 +1423,7 @@ Homens.................................73 Consumo	10777
 Honorary Consul	18748,109
 Host Public Consultations	12675
 Household Consumption	11017
+Household Final Consumption Expenditure	19038
 Human Rights Consulting Group	9082
 I. STAKEHOLDER CONSULTATION	14928
 IBF International Consulting	14855
@@ -1422,9 +1446,11 @@ III.2 QUANTITY OF ELECTRICITY CONSUMED	15574
 III.3 ELECTRICITY CONSUMPTION EXPENDITURE IN HOUSEHOLDS	15574
 IMPORTANCE OF CONSULTATION	1243
 INCLUSION AND ACCESSIBILITY The Consultant	17287
+INDICATED ON THE PAGE. CONSULTANTS	18965
 INDIVIDUAL CONSULTANT CONSULTANCY FOR REVISION	962
 INDIVIDUAL CONSULTANT SELECTION	13404
 INDIVIDUAL CONSULTANTS Activity Reference No	17180
+INDUSTRY CONSULTATION RESPONSE Introduction	18952
 INSERT CONSULTANT NAME	13031
 INTIC Consulting Entity	3058
 INVESTIGATIONS AND CONSUMER PROTECTION	17243
@@ -1445,6 +1471,7 @@ Improve Consumer Protection Conduct	12214
 Inception and Planning. The Consultant	17287
 Inclusive Consultation	12356
 Increase the Level of Security Management Consumer Awareness	6946
+Independence House. Consultants	18965
 Independent Consultant	15183,1828
 Independent Curriculum Development Consultant	15183
 Independent Researchers and Consultants	17149
@@ -1459,6 +1486,7 @@ Individual Consultants	962,10893,1162,2501
 Individual Consumption	14777
 Indonesian Consulate	12361
 Industrials Consumer Staples Health Care Utilities	4972
+Industry Consultation Response Ministry of Finance	18952
 Inflation Dynamics Consumer	11131
 Information Portal Consumer Resource Centres Purpose	5676
 Information and Consumer Relations and Advocacy	13102
@@ -1498,6 +1526,7 @@ Issues Paper for Consultation	14434
 Issues for Consultation	6748
 J Consult Psychol	8376
 Jennifer Onyeagoro F E Consumers	9899
+Jidcom Consulting	18887
 Joint Consultative Committee	11860
 Joint Consultative Workshop	13503
 Joseph Chita Consultant	13392
@@ -1655,7 +1684,7 @@ National Census Consultant	16921
 National Communications Authority Conducts Consultation	14979,16
 National Communications Authority Holds Consultation Meeting	15171
 National Consultancy Policy Guidelines	16985
-National Consultant	9203,5692,1417,609,1522
+National Consultant	9203,5692,1417,609,1522,467
 National Consultant Phone	16921
 National Consultation	17065
 National Consultation Meetings	16951
@@ -1677,6 +1706,7 @@ National De-concent Consultant Qualifi Open	17180
 National Economic Consultative Forum	395,12900
 National Economic Consultative Forum NEPAD	958
 National Health Insurance Consultancy	12606
+National ICT Consultative Committee	18885
 National Multi-Stakeholder Consultation	4528,7984,1031
 National Multi-Stakeholder Consultation Workshop	3750,11245
 National Pre-Budget Consultations	13122
@@ -1699,7 +1729,7 @@ Nigeria's Bergmans Security Consultants and Supplies Ltd	9930
 Nigerian Consumer Credit Corporation	8350
 No. Consultation Objective Duration Status Published	6946
 Noble Consulting Namibia	12478
-Non Consulting Services Training	15372
+Non Consulting Services Training	15372,3515
 Non Consulting and Consulting Services	15659
 Non- Consulting and Consulting Services	11905
 Non-Consulting and Consulting Services	2889,5062,3574,225,3803
@@ -1766,7 +1796,9 @@ PP.3.A.18 Consultation	15604
 PRELIMINARY CONSULTATION FOR REHABILITATION	16696
 PROCEDIMENTO DE CONSULTA PÚBLICA ARTIGO	11520
 PROMASIDOR HOLDINGS Consumer	11885
+PROPOSAL WITH A PASSWORD. ONLY CONSULTANTS	18965
 PROTECTION AND EMPOWERMENT CONSUMER SATISFACTION SURVEY	15023
+PROTECTION OF CONSUMER DATA AND CONFIDENTIALITY	18925
 PROTECTION OF ONLINE CONSUMERS	28
 PROTECTION OF ONLINE CONSUMERS Section	28
 PROTECÇÃO DO CONSUMIDOR	11582
@@ -1820,7 +1852,7 @@ Priority Awareness Areas Consumer	5676
 PrivacyX Consulting	6029
 Private Consumption	14897
 Private Consumption Public Consumption Investment Overall	17503
-Private Sector Consultant	17870
+Private Sector Consultant	17870,1061
 Private Sector Consultation	13388
 Private Sector Consultative Group	13051
 Private Sector Consumer Protection	14879
@@ -1865,7 +1897,7 @@ Proyecto de Consultoría	4209
 Président Consulat	17861
 Présidents des DES CONSEILS CONSULTATIFS NATIONAUX	15405
 Public Awareness and Consumer Education	15120
-Public Consultation	6512,6783,1428,649,144
+Public Consultation	6512,6783,1428,649,144,3371
 Public Consultation Document	16872
 Public Consultation Guidelines	17251
 Public Consultation Harmonization	16212
@@ -1904,6 +1936,7 @@ Quality of Consumer Experience	5676
 Quarterly Audience Measurement and Media Consumption Trends	6946
 Quarterly Consultation	17099
 Quote Validity The Consultant	12754
+REASONABLY AND EFFECTIVELY HANDLE FINANCIAL CONSUMER	18925
 RELATÓRIOS DAS CONSULTAS	11390
 REPORTING AND PERFORMANCE MONITORING The Consultant	17287
 REPORTING AND VALIDATION PROCEDURE The Consultant	14928
@@ -1993,7 +2026,7 @@ SIT Consulting	1805
 SPS Website Consultancy Implementation Third Party	16867
 SRK Consulting Ltd	15952
 SS Consulting	3290
-STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS	17019
+STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS	17019,1966
 STAKEHOLDER CONSULTATIONS AND INFORMATION DISCLOSURE	17114
 STP. Consumer Empowerment and Financial Literacy	18770
 SUMMURY OF EVENTS Project Consultancy	12693
@@ -2022,10 +2055,10 @@ Security Risk Management Consultancy	15003,3632
 Security and Risk Management Consultant	15186
 Seguridad Social Consumo	16898
 Selected Consultant	17180
-Selection and Employment of Consultants	15372,39,3084
+Selection and Employment of Consultants	15372,39,3084,392
 Selection of Consultancy Firm	14745,251
 Selection of Consultant for LAVIMS	14803
-Selection of Consultants. Consultancy	15372
+Selection of Consultants. Consultancy	15372,3515
 Selection of Individual Consultant	1243
 Selection of Individual Consultants	15411
 Senior Consultant	11156
@@ -2089,7 +2122,7 @@ Stakeholder Consultation Attendance Sheets	1778
 Stakeholder Consultation Table	6832
 Stakeholder Consultation Table Table	6832
 Stakeholder Consultation Workshop	13880
-Stakeholder Consultations	6539,293,3888,2241,44,787,3183
+Stakeholder Consultations	6539,293,3888,2241,44,787,3183,2160
 Stakeholder Consultations Mar	13792
 Stakeholder Consultations and Discussions The ESMF	1988
 Stakeholder Consultations and Engagements	1988
@@ -2117,6 +2150,7 @@ Subsecção IV Conselho Consultivo Artigo	15912
 Sudanese Consulate	14854
 Sudlows Consulting and X2X Group	1639
 Summarized Consult	11578
+Summary of Consultation Responses	18952
 Supervising Consultant	15055
 Supervision Consultancy Services and Project Audit	15011
 Supervision Consultants	1778
@@ -2129,6 +2163,7 @@ Survey Reveals Consumer Digital Fraud	15042
 Swaziland Consumers Association	12896
 Sweet Beverage Consumption	15247
 T SERVICES DE CONSULTANT Manifestations	3715
+TAC. Consultation Outcomes The FSA	18952
 TATA Consulting Engineers Ltd	12979
 TCRA Consumer Consultative Council	9970
 TECHNICAL COMMITTEE ON CONSULTING AND DRAFTING	13472
@@ -2198,6 +2233,7 @@ Undercharging of Consumption	17243
 Understanding the Consumer	6946
 Unhealthy Food Consumption	15247
 Unit CONSULTING FIRMS Activity Reference No	17180
+Unit Shabani Ely Katembo Consultant ICT	18887
 United Nations Guidelines for Consumer Protection. Web	16872
 User Consumption Trends Report	8460
 Uso Consuetudihário	11514

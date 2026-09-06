@@ -99,6 +99,7 @@ API. L’ARPCE	15493
 API. User Documentation	5665
 APICAM	15542
 APICCAM	15542
+APICED	18911
 APICONGO	15493
 APICULTURE VENTURE LIMITED Data Processor INST-627494A7670	7167
 APIDE	6835
@@ -225,6 +226,7 @@ Documentation API	17902
 Documentation des API. Exigences DevOps	17902
 EMIS Schools Stats API	15630
 Ecobank’s APIs	8341
+Elèves APICED Agency	18911
 Enrollment Rates API	15630
 Establish API	11133
 Europe API	16872
@@ -309,6 +311,7 @@ PSP API. The IPS	12269,1
 PeeringDB API	9442
 Percentage of API	13005
 Plan and Budget API Application Programming Interface	16949
+Promotion of APICED Community Initiatives	18931
 Provide APIs	6423
 Pulse API	15166
 Qualquer API	16321

@@ -341,8 +341,9 @@ DIGITAL BODA DRIVERS AND DELIVERIES ASSOCIATION	7167
 DPI. Deliberate	11006
 DU DELEGUE A LA PROTECTION DES	15636
 DU FONCTIONNEMENT DES ORGANES DELIBERANTS DES	18096
+DURATION AND EXPECTED DELIVERABLES	19086
 Data Deletion	12302
-Data Delivery	16947
+Data Delivery	16947,1957
 Data Protection Public Service Delivery Interoperability	6077
 David DeLucia	14705
 De Deloitte	10605
@@ -400,7 +401,7 @@ Delayed Transfer of Funds	14546
 Delayed Trials	12977
 Delayed U.S	6790
 Delaying	1867,11757
-Delays	27,1527,2050,1244,3948,182,1073,273,444,61,147,160,389,26,323,7,103,2,190,96,56,18,10,33,573,13,30,37,12,26,28,101,323,336,70,322,725,12,26,141,208,52,94,140,3,1223,5,54,28,145,1,32,7,95,9,104,3,368,148,491,160,317
+Delays	27,1527,2050,1244,3948,182,1073,273,444,61,147,160,389,26,323,7,103,2,190,96,56,18,10,33,573,13,30,37,12,26,28,101,323,336,70,322,725,12,26,141,208,52,94,140,3,1223,5,54,28,145,1,32,7,95,9,104,3,368,148,491,160,317,60
 Delays of Tribunal de Contas	10768
 Delbari	7759
 Delbert S. Deemie Tel Nº	17068
@@ -454,6 +455,7 @@ Delegados Provinciais	10752
 Delegados de Gobiernos	16871
 Delegate	12185,3307,1647
 Delegate Representation	12675
+Delegate and Planner	18911
 Delegate-General Martin Mbarga Nguele	2357
 Delegated	6423,10716
 Delegated Entity	12185
@@ -461,7 +463,7 @@ Delegated Legislation	6787,7435,48,329
 Delegated Legislation. Following	6946
 Delegates	1154,400,1233,1951,420,443,226,283,1583,186,4,827,3,684,1888,1739,527,82,3,504,890,901,2592
 Delegating	6512
-Delegation	970,3587,847,1339,795,3035,604,108,4,259,303,85,40,650,264,5,4,17,240,5,9,45,27,45,18,66,47,148,481,102,266,7,71,82,55,97,8,33,56,1077,374,10,558,44,360,50,637,521,12,42,47
+Delegation	970,3587,847,1339,795,3035,604,108,4,259,303,85,40,650,264,5,4,17,240,5,9,45,27,45,18,66,47,148,481,102,266,7,71,82,55,97,8,33,56,1077,374,10,558,44,360,50,637,521,12,42,47,332,39,148,81,17
 Delegation Delegation	13418
 Delegation Members of Parliament	11285
 Delegation Part IV	12900
@@ -473,7 +475,7 @@ Delegation of German Industry and Commerce Data Controller	7167
 Delegation of Membership Suspension and Termination Powers	8866
 Delegation of Power	14727
 Delegation of Powers	18556,42
-Delegations	6963,1080,3138
+Delegations	6963,1080,3138,7804
 Delegations Subject	15001
 Delegaç	15694
 Delegação	7945,3414,4032,13,285,66,17
@@ -497,22 +499,24 @@ Delete Reservation	12364
 Delete Section	6409
 Deleted	4653,10066,1,1312,589
 Deleting	6423
-Deletion	783,9938,1738,89,1886,2405
+Deletion	783,9938,1738,89,1886,2405,2146
+Deletion Order	18920
 Deletion of Zimbabwe Stock Exchange	4896
 Delfim Mampassi E Martins Mawete	10765,10
 Delfim Mawete	10763,8062
 Delfim Santiago	18764
 Delfin S. Go	6948
 Delfina Soares	10840
-Delft	8603,396
-Delft Imaging	12678
+Delft	8603,396,10063
+Delft Imaging	12678,6384
 Delft Light Portable X-ray	12678
 Delgado	11909,233,6607
 Delgado Jesus. Discussions	6007
 Delgado Teixeira A Proposta de Lei da Cibersegurança	9258
 Delgado Valige Tauabo Nampula Eduardo Mariano	12201
+Delgermaa Enkhtsogt	18931
 Delgro	163
-Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163,217,16,203,287,548,362,187,395,1,182,47,92,468,478,391,237,219,488,73,3,16,19,2,8,46,318,591,1,382,120,273,107,6,91,1,157,165,20,87,8,33,166
+Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163,217,16,203,287,548,362,187,395,1,182,47,92,468,478,391,237,219,488,73,3,16,19,2,8,46,318,591,1,382,120,273,107,6,91,1,157,165,20,87,8,33,166,100,103,3,1,134
 Delhi Bilateral Agreements	16331
 Delhi Declaration	7548
 Delhi IAFS-III. Visit	18220
@@ -544,6 +548,7 @@ Deliberate	2093,3440,1415,4912,126,955,477,267,1312,345
 Deliberate Architecture Looks Like Rwanda	6603
 Deliberate Non-Compliers	12439
 Deliberately	8071,106,2961,846,6702
+Deliberates	18984
 Deliberation	12201,6092
 Deliberation N	12201
 Deliberations	1637,9370,186,896,3019,285,80
@@ -658,7 +663,7 @@ Delivering the Minister	10585
 Delivering the Minister of Education and Training	13204
 Deliveroo and Air France. The Government	3394
 Delivers	973,493,2374,2211,3701,7347,15
-Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,238,415,5,44,17,57,243,5,6,41,214,191,269,2,40,14,30,45,374,4,143,221,170,14,50,43,180,207,12,391,751,321,30,28,40,6,48,12,33,74,26,83,306,51,54,486,122,170,262,84,50,29,41,20,4,17,28,99,69,199,766,355,35,62,88
+Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,238,415,5,44,17,57,243,5,6,41,214,191,269,2,40,14,30,45,374,4,143,221,170,14,50,43,180,207,12,391,751,321,30,28,40,6,48,12,33,74,26,83,306,51,54,486,122,170,262,84,50,29,41,20,4,17,28,99,69,199,766,355,35,62,88,344,53
 Delivery Architecture	7548
 Delivery Audit Trails	9855
 Delivery Calendar	17287
@@ -685,6 +690,7 @@ Delivery Monitoring and Sustainability High	17441
 Delivery Network Committee	15480
 Delivery Order	17367
 Delivery Partner	10348
+Delivery Period	18965
 Delivery Plans	7751
 Delivery Platforms	13474
 Delivery Post Office	13081
@@ -706,7 +712,7 @@ Delivery Unit Members	11857
 Delivery Unit PKI Public Key Infrastructure	12241,839,15
 Delivery Unit du Bureau	2442
 Delivery Unit. Standardized	11857
-Delivery Units	11857
+Delivery Units	11857,7131
 Delivery Units. Such	11857
 Delivery and Completion	13185
 Delivery and Completion Schedule	13185
@@ -742,6 +748,7 @@ Delivery of Training	17287
 Delivery of Training Reports	11941
 Delivery of Training. The Consultant	17287
 Delivery. Regarding	15090
+DeliveryÂ MLÂ KeyÂ	18887
 Dell EMC	12110
 Dell EMC ME4084 Storage	9475
 Dell EMC Networker	13185
@@ -870,7 +877,7 @@ ET DE DELIVRANCE DES ACTES DIVERS	16047
 ET DEL'EDUCATION CIVIQUE	15999
 ET DELITS LIES AUX TECHNOLOGIES	17841
 EU Delegated Regulation	7548
-EU Delegation	970,1699,3883,191,2691,1158,563,1028,18,555,1,285,985,2604,217,5,4,1079,571,2,169,107
+EU Delegation	970,1699,3883,191,2691,1158,563,1028,18,555,1,285,985,2604,217,5,4,1079,571,2,169,107,142
 EU Delegation EU Delegation	16857
 EU Delegation Fund	13457
 EU Delegations	11155,2712
@@ -924,7 +931,7 @@ Eswatini Delegation Returns	12433,529
 Ethiopia EU Delegation	14028
 Ethiopia. Delivers	2162
 European Delegation European Union	16853
-European Union Delegation	970,3132,137,6602,463,681,771,400,486,9,287,90,2343,713,222,1394
+European Union Delegation	970,3132,137,6602,463,681,771,400,486,9,287,90,2343,713,222,1394,209,234
 European Union Delegation. Key	13080
 Evidence-Based and Consultative Process Delivering	8367
 Expected Deliverables	9203,2666
@@ -1246,6 +1253,7 @@ Mr. YAOUBA ABDOULAYE Minister Delegate	16033
 Ms. Delphine Serumaga	18730
 Multilateral Fora Fabian Delcros Introduction	11154
 Mumbai and Delhi	12617,3547
+Mussoorie and New Delhi	19133,23
 NATIONALE A DELIBERE ET ADOPTE	15643,2458
 NIBASUMBA Celestin BUCUMI Marie NIMBONA Delphine	13300
 NOMINATION DU DELEGUE GENERAL LA REGION	17899
@@ -1307,6 +1315,7 @@ PIB Delhi India and South Africa	6480
 PIB Delhi Raksha Rajya Mantri Shri	18129
 PIB Delhi The President of India	12568
 PIB Delhi. Acquired	6480
+PIB Delhi. The National Centre for Good	19133
 PIonsdticOatfofircfeorAdd Delivery Service	11129
 POLICY-MAKING AND SERVICE DELIVERY Lead	11940
 POLITIQUEDESECURITE DESSYSTEMESD'INFORMATION DEL'ETAT	15525
@@ -1322,6 +1331,7 @@ PRODUCTS TO BE DELIVERED The SIS	15590
 PROPOSED VOLUNTARY DELISTING	4263
 PROPOSED VOLUNTARY DELISTING OF ECONET WIRELESS	4896
 PROVIDE AND MANAGE DELIVERY CHAIN PHASE	11156
+PROVISION ON DELEGATED POWERS	19161
 PSS Information Technology Specialist. DPWI Delegation	11285
 PUBLIC SERVICE DELIVERY PROJECT SHARED	12698
 PUBLICS ET DES DELEGATIONS DE SERVICE	17982
@@ -1389,6 +1399,7 @@ Proposed Voluntary Delisting	4896
 Province of Cabo Delgado	12201
 Provincial Delegations of Justice	10765,10
 Provincial Delegations of Justice and Human Rights	10765,10
+Provincial Delegations of National Education	19093
 Provincial Justice and Human Rights Delegations	10765,10
 Provincial Ministerio Inspector Regional Ministerio Delegado	4209
 Provincial Statistics Delegation	12839
@@ -1502,8 +1513,10 @@ Service Delivery Improvement Plan	11218,6
 Service Delivery Index	18494
 Service Delivery Indicator	10188
 Service Delivery Indicators	11905
+Service Delivery Indicators SWEDD	18942
 Service Delivery Information Tool	11218
 Service Delivery Model	5533,6453
+Service Delivery Model Modernisation	19177
 Service Delivery Program for Results	10870
 Service Delivery Project AGD Accountant General	18488,12
 Service Delivery Reform Programme	12529

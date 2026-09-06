@@ -3,6 +3,7 @@ A.2. The Republic of Cabo Verde	11863
 A0 Tirer 1 1.pdf REPUBLIQUE DU BURUNDI CABINET	13375
 A0-cabo-verde-telecom Governo de Cabo Verde	16343
 A1-em-cabo-verde Cabo Submarino EllaLink	15505
+A330-800 NEO. Cabinet	19137,1
 ACE Cable	16883,1,91
 ACE Cable Station	17332
 ACE Cable System	16883
@@ -14,6 +15,8 @@ AFRICA NEW SUBSEA CABLE	14445
 AGENCY CABINET COMMITTEE ON E-GOVERNMENT PERMANENT	16885
 AKANDA. Cabinet du Commissaire-Membre François MEZA ME	16381
 ANNOUNCEMENT ADJOURNMENT THE CABINET	14841
+APL1A and APL1B. The CAB	18887
+APL1B and CAB JÃ	18887
 APPROVED BY CABINET	13295
 APRM IN ZIMBABWE Cabinet	13673
 ARPCE AU CAB CE CFI- CIRAS	15553
@@ -29,6 +32,8 @@ AUTHORITY AMENDMENT BILL Cabinet	11791
 Abidjan. Cabo Verde	7795
 Accelerator Lab Cabo Verde	11546
 Accounting Standards and Financial Reporting System for Cabo	11955
+Achieving CAB APL1Bâ	18887
+Act. Cabinet	19073
 Additional Financing CAB4 World Bank Group	162
 Addressing the Cabinet	9242
 Administrador da Sociedade de Cabos da Guiné-Bissau	11531
@@ -39,10 +44,12 @@ Administração Pública de Cabo Verde	15476
 Administração Pública de Cabo Verde DSP4 DSP6	15532
 Administração Pública de Cabo Verde. CAPITULO II	15380
 Aduaneira de Cabo Verde	15912,1499
+AfCFTA. Cabinet	19119
 AfDB Cabo Verde	2847
 Africa Action Plan. CAB APL	15372
 Africa Cable	2677,11304
 Africa Cable Consortium	511
+Africa Strategy. CAB APL1B	18887
 Africa Submarine Cable	511,4627
 Africa Subsea Cable	8679
 Africa and South America. Cable	144
@@ -53,6 +60,7 @@ Agenda Digital de Cabo Verde	16347
 Agenda Nacional de Desarrollo. Cabe	17259
 Agostinho Neto International Airport and Cabinda	9399
 Agreement. REPUBLIC OF CABO VERDE	16219
+Agreements the International CAB Company	18887
 Agência Cabo-verdiana de Notícias	9994
 Alain MALATA KAFUNDA Directeur de Cabinet	7470
 Alberto Afonso Deficiência de Cabo Verde	15694
@@ -190,6 +198,7 @@ Bolsa de Valores de Cabo Verde	16022,1010
 Bolsa de Valores de Cabo Verde CCV	17032
 Bolsa de Valores de Cabo Verde. Meios	11933
 Bonny Island Branching Unit and Cable Landing	535
+BothÂ CABÂ APL1AÂ	18887
 Botswana Burkina Faso Burundi Cabo Verde	15724
 Botswana's Cabinet	12539
 Brazzaville CAB	4671,1784
@@ -202,12 +211,25 @@ Burundi Cabo Verde Central African Republic	16631
 Burundi Cabo Verde Côte	13661
 Bénin Djabirou AMADOU Directeur Adjoint de Cabinet	10708
 C. Cabinet	2626
-CAB APL	15424
-CAB APL1	15372
-CAB APL1A	15372
+CAB APL	15424,3463
+CAB APL1	15372,3515
+CAB APL1A	15372,3515
+CAB APL1A and APL1B	18887
+CAB APL1A and CAB APL1B	18887
+CAB APL1A and CAB APL1B. CAB APL1A	18887
+CAB APL1A. CAB APL1A	18887
+CAB APL1A. CAB APL1B	18887
+CAB APL1A. The PCUs	18887
 CAB APL1A9	15372
-CAB APL1B	1264,14108
-CAB APL2	15372
+CAB APL1B	1264,14108,3515
+CAB APL1B CAR	18887
+CAB APL1B Chad	18887
+CAB APL1B Project	18887
+CAB APL1B. Bank	18887
+CAB APL1B. The PCU	18887
+CAB APL1B. Under CAB APL1A	18887
+CAB APL1B. Weaknesses and Action Plan	18887
+CAB APL2	15372,3515
 CAB APL3	1264,14108
 CAB Backbone	15474
 CAB CIT CG	15372,83
@@ -216,14 +238,19 @@ CAB CITCG	15372
 CAB Central African Backbone CAB3 Central	15511
 CAB Central African Backbone CAB4 Central	15411,107
 CAB Central African Backbone CAPI Computer-Assisted	18777
+CAB Company	18887
 CAB Gabon	15511
+CAB International	18887
 CAB Network	15372
 CAB PORTANT DESIGNATION DES MEMBRES	16616
-CAB Phase	15372,121
-CAB Program	15372,3382
-CAB Program Background and Vision	15372
-CAB Program Background and Vision AFRICA	15372
+CAB Phase	15372,121,3394
+CAB Program	15372,3382,133
+CAB Program Background and Vision	15372,3515
+CAB Program Background and Vision AFRICA	15372,3515
 CAB Program Marc Jean Yves Lixi	15372
+CAB Program. The Central African Backbone	18887
+CAB Project	18887
+CAB Project and CEMAC	18887
 CAB Republic of Congo	15372
 CAB YETU	7167
 CAB-2	18777
@@ -239,11 +266,14 @@ CAB-MIN-FINANCES-2024	15963
 CAB-MIN-FINANCES-2024 Décret N	15963
 CAB-MIN-FINANCES-2025	15963
 CAB-PR	16247
-CAB-related	15372
+CAB-related	15372,3515
 CAB. En	15493
 CAB.9	6946
 CAB.MIN	11900
 CAB13	15493
+CAB1A	18887
+CAB1AÂ	18887
+CAB1B	18887
 CAB2 STP	18754
 CAB3. Subsequent	15372
 CAB4 Gabon	15511
@@ -305,11 +335,22 @@ CABS ATMs	6996
 CABS's ATMs	6996
 CABSIS Consulting Ltd	14802
 CABSZWHA	12252
+CABÂ APL1A.Â ProjectÂ RisksÂ	18887
+CABÂ APL1BÂ	18887
+CABÂ APL1BÂ CAR.Â TheÂ	18887
+CABÂ APL1BÂ ChadÂ	18887
+CABÂ InternationalÂ	18887
+CABÂ Program.Â	18887
+CABÂ ProgramÂ	18887
+CABÂ Project	18887
 CAPACITES CABINET DU MINISTRE	16099
+CAR and Chad. CAB APL1A	18887
+CAR. The CAB APL1B	18887
 CARTA SANITÁRIA DE CABO VERDE	16019
 CATIVE RiD STATUTORY APFAIRS CABS IBDEVSERVICE	15999
 CCL The Cable Consortium of Liberia	16872
 CEIBA-2 Submarine Cable System Project	57
+CEMAC Commission. The CAB APL1A	18887
 CEO MainOne Cable Company Nigeria Ltd	11857
 CEO da Angola Cables	6356
 CEO of Angola Cables	6270
@@ -318,6 +359,7 @@ CHARGE DE LA VIE ASSOCIATIVE CABINET	16175
 CHARGE DES DROITS HUMAINS CABINET	16099
 CHARGÉ DES DROITS HUMAINS CABINET	16381
 CIVIQUE CABINET DU MINISTRE	16099
+CLIENT DETAILS Cable	18991
 CMA Cabinet	15595
 COMMITTEE ON CABINET AFFAIRS	13335
 COMMUNIQUE INCIDENT SUR CABLE SOUS MARIN	16399
@@ -359,7 +401,7 @@ Cabinda- Os	10366
 Cabinda. Charges	15799
 Cabinda. FF	11837
 Cabinda. Figure	15724
-Cabinet	765,18,1,212,154,4,60,8,61,6,324,95,34,36,89,53,68,116,106,199,137,80,55,139,17,129,23,72,249,227,97,18,62,46,42,122,34,89,7,216,110,12,136,105,20,128,2,285,96,11,69,84,66,56,70,13,93,75,73,124,88,22,168,20,23,255,38,14,1,37,157,71,41,88,109,26,251,9,232,21,191,118,28,28,72,82,162,119,2,178,60,230,58,30,196,119,154,18,380,63,109,280,256,57,153,100,10,80,6,2,54,132,35,3,44,1,3,11,8,14,3,6,6,6,28,1,7,8,5,4,220,92,29,127,32,2,149,46,11,85,150,105,19,2,9,86,47,12,29,5,2,40,58,77,2,61,106,4,13,3,10,24,10,5,1,8,7,5,17,9,7,39,41,23,37,71,66,18,3,3,2,13,1,13,7,32,3,12,4,15,25,1,28,29,141,17,14,12,183,399,19,21,55,48,74,37,25,15,160,21,10,1,21,19,26,20,2,4,13,4,17,3,6,19,28,12,18,19,35,10,206,196,42,1,18,50,42,17,3,54,5,64,53,121,76,70,61,86,8,51,35,6,73,14,105,25,138,32,21,20,113,23,9,5,1,12,30,12,24,15,126,13,123,29,3,293,13,18,63,92,46,34,8,2,12,4,16,18,20,9,74,33,17,73,222,38,84,1,31,7,12,19,13,5,40,1,8,66,28
+Cabinet	765,18,1,212,154,4,60,8,61,6,324,95,34,36,89,53,68,116,106,199,137,80,55,139,17,129,23,72,249,227,97,18,62,46,42,122,34,89,7,216,110,12,136,105,20,128,2,285,96,11,69,84,66,56,70,13,93,75,73,124,88,22,168,20,23,255,38,14,1,37,157,71,41,88,109,26,251,9,232,21,191,118,28,28,72,82,162,119,2,178,60,230,58,30,196,119,154,18,380,63,109,280,256,57,153,100,10,80,6,2,54,132,35,3,44,1,3,11,8,14,3,6,6,6,28,1,7,8,5,4,220,92,29,127,32,2,149,46,11,85,150,105,19,2,9,86,47,12,29,5,2,40,58,77,2,61,106,4,13,3,10,24,10,5,1,8,7,5,17,9,7,39,41,23,37,71,66,18,3,3,2,13,1,13,7,32,3,12,4,15,25,1,28,29,141,17,14,12,183,399,19,21,55,48,74,37,25,15,160,21,10,1,21,19,26,20,2,4,13,4,17,3,6,19,28,12,18,19,35,10,206,196,42,1,18,50,42,17,3,54,5,64,53,121,76,70,61,86,8,51,35,6,73,14,105,25,138,32,21,20,113,23,9,5,1,12,30,12,24,15,126,13,123,29,3,293,13,18,63,92,46,34,8,2,12,4,16,18,20,9,74,33,17,73,222,38,84,1,31,7,12,19,13,5,40,1,8,66,28,209,127,57,8,9,18,11,18,1,43
 Cabinet AU CABINET DE L’ANCIEN PRESIDENT	17861
 Cabinet Affairs	2428
 Cabinet Affairs Central Bureau of Statistics	15244
@@ -375,7 +417,9 @@ Cabinet Approves New Agency National Rwanda	6526
 Cabinet Artemis	18199
 Cabinet Assumptions NA Disaggregation	11986
 Cabinet Bill	11986
-Cabinet Business	11757
+Cabinet Business	11757,7316,8,9,29,18,1
+Cabinet Business President Dr. Patrick Herminie	19073,64
+Cabinet Business The Office	19154
 Cabinet CINEF Traitement	10821
 Cabinet Cabinet	11986
 Cabinet Cabinet Within	7548
@@ -422,7 +466,7 @@ Cabinet Médical	17819
 Cabinet Nathaniel T. Kwabo	10581
 Cabinet News	10246
 Cabinet No Result View All Result	5774
-Cabinet Office	194,1794,9147,1280,38,509,370,13,39,19,69,139,1159,4,2084,690
+Cabinet Office	194,1794,9147,1280,38,509,370,13,39,19,69,139,1159,4,2084,690,1585
 Cabinet Office Private Office Departments	14721
 Cabinet Office Shall	13347
 Cabinet PMO	16858
@@ -569,7 +613,7 @@ Cabinets du Ministre	10712
 Cabinets for PAC Secreta	17180
 Cabinets for PAC Secretariat	17180
 Cabiri	4044,7532,1
-Cable	398,456,96,791,247,523,166,341,493,125,146,894,317,259,69,351,1274,2177,1636,76,2,1,130,301,601,16,2,1,264,1,9,90,87,1,11,1,50,85,532,365,684,82,659,111,534,589,100,407,391,546,932,84,75,175
+Cable	398,456,96,791,247,523,166,341,493,125,146,894,317,259,69,351,1274,2177,1636,76,2,1,130,301,601,16,2,1,264,1,9,90,87,1,11,1,50,85,532,365,684,82,659,111,534,589,100,407,391,546,932,84,75,175,133,45,32,27,100,15
 Cable Address	2474
 Cable Cable	6671
 Cable Cable.co.uk	11887,266,1,9,178
@@ -582,7 +626,7 @@ Cable Consortium of Liberia CSquared	16876
 Cable Consortium of Liberia Engr. Aaron	17260
 Cable Consortium of Liberia URL	16988
 Cable Infrastructure Licence Fees And Charges	9109
-Cable Landing Station	2677,14437,732,639
+Cable Landing Station	2677,14437,732,639,447
 Cable Landing Station CM	18485
 Cable Length	14897
 Cable MUST Duty Cycle	34
@@ -896,11 +940,13 @@ Cash-Out CLS Cable Landing Station COTS	18454
 Cecília Cabsela	14261
 Ceiba-2 Submarine Cable System	57
 Central Africa. The CAB	15411,3343
-Central Africa. The World Bank CAB	15372
+Central Africa. The World Bank CAB	15372,3515
 Central Bank of Liberia CCL Cable Consortium	16876
 Centralized Optical Fiber Cabling Centralized	9123
 Centro Cultural de Cabo Verde	3956
 Centro de Verificação de Factos de Cabo Verde	15982
+Chad CAB Technical Committee	18887
+Chad and CAR. CAB APL1A	18887
 Charge of Cabinet Affairs	14869
 Charge of Cabinet Affairs P.o.Box	14869
 Charting Submarine Cables Is Critical for Maritime	2677
@@ -944,8 +990,10 @@ Condolences Cabinet	2626
 Conductors of Insulated Cables This National Standard	16900
 Congratulations Cabinet	2626
 Congresso Internacional de Quadros Cabo-Verdianos	3765
+Connectivity CAB	18887
 Connectivity CAB-related	15372
 Conseil Cabinet	15177
+Conseil de Cabinet	18972
 Conselho de Administração da Imprensa Nacional de Cabo Verde	11566
 Considerações Finais A Carta Sanitária de Cabo	16019
 Constituição Republica de Cabo Verde	15532
@@ -983,6 +1031,7 @@ DES PME-PMI ET DE L’ENTREPRENEURIAT CABINET	16175
 DESIGNATION NOMBRE TOTAL CABINET PRESIDENTE	998
 DEVELOPMENT BANK Public Disclosure Authorized CABO	11863
 DEVELOPPEMENT ET DE L’ECONOMIE INFORMELLE Cabinet	15780
+DG Cabinet Affairs	18950
 DHRH Secure Cabinet	18532
 DIASPORA CABINET DU MINISTRE	16099
 DICKA. Cabinet du Vice-Président	16381
@@ -1005,6 +1054,7 @@ Days Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Deficientes Visuais de Cabo Verde	15694
 Del Carmen Caba-Pérez	2093
 Deploying the Largest Subsea Fiber-Optic Cable System	2677
+Deputy Cabinet Secretary for Policy Affairs	19133
 Description CABO VERDE PLATAFORMA DIGITAL	1339,742,2330
 Description Supports Cabo Verde	583
 Description The Republic of Cabo Verde	803
@@ -1086,10 +1136,11 @@ ESTRUTURA DO SEN O SEN de Cabo	15535
 ET A L’ENERGIE CABINET DU MINISTRE	16175
 ET DE LA FEMME CABINET	16175
 EY Cabo Verde	11955
+Ease of Doing Business Portal. Cabinet	19137,1
 East Africa Submarine Cable Outage Report	2677
 East Africa. Submarine Cable Project Set	6554
 East African Submarine Cable System	13312,2
-Eastern Africa Submarine Cable System	2677,9969
+Eastern Africa Submarine Cable System	2677,9969,6241
 Ecobank Cabo Verde	1265,3,468,14226
 Ecobank de Cabo Verde IIB	17032
 Economy Overview Cabo Verde2024 Region	11874
@@ -1226,6 +1277,7 @@ Haut Patronage du Cabinet	13689
 Health Cabinet Secretary	6651,2298
 Health Cabinet Secretary Aden Duale	8383
 Health Cabinet Secretary Hon. Aden Duale	12314,1868
+Health Care Services Department. Cabinet	19073
 Highlights of Cabinet Meeting	14793,46,6
 Highly Satisfactory. Through CAB4	15511
 Hirani Wadani Cable Sub-Total	6671
@@ -1243,6 +1295,8 @@ ICT Cabinet and Principal Secretaries	12149
 ICT and Digital Economy Cabinet Secretary William	6160
 ICTs. Cabinet Office Cabinet	13346
 ID for All The Cabinet Secretary for Interior	4631
+IDA IDA IDA Government CAB APL1A	18887
+IDA. CAB APL1B	18887
 IDEV Evaluation of Cabo Verde CSPs	11863
 III- ATTACHE DE CABINET	17817
 III- Attaché de Cabinet	17827
@@ -1286,9 +1340,12 @@ Integrated Cable Car Resort	13060
 Interior Cabinet Secretary Kipchumba Murkomen	5711,1072,4,79,5437,10
 International Advisory Body for Submarine Cable	15120
 International Advisory Body for Submarine Cable Resilience	2677,12443
+International CAB Company	18887
+International CAB Network	18887
 International Cable Protection Committee	2677,836,1163,2523,36,7885,1979,15,580
 International Submarine Cable Resilience Summit	15120
 International Submarine Cable SystemsLicence Granted	2677
+International the Financing CAB Network	18887
 Internet Cables	2677
 Internet Cables. This Time	2677
 Introdução O Governo da República de Cabo Verde	12021
@@ -1402,6 +1459,7 @@ MainOne Cable Company for US	856
 MainOne's Lagos Cable Landing Station	7329
 Mainone Cable	18091
 Malawi Cabinet Retreat	13095
+Malawi. The CAB APL1B	18887
 Mamadu Cassama Caboxanque	17147
 Manuel Cabral	16067
 Manuel Cabral Comunicado de Imprensa	15962
@@ -1524,6 +1582,7 @@ Objetivos Estratégicos A Carta Sanitária de Cabo	16019
 Ocean Bottom Cable	11405
 Office of President and Cabinet	12980
 Office of The President and Cabinet	395
+Officer. Cabinet	19090
 Oiseaux Cabeça	18757
 Olkaria Prime Cabinet Secretary Hon. Musalia	1245
 Only One Cable-laying Ship Can Fix	2677
@@ -1536,6 +1595,7 @@ Orange Tunisia Launches MEDUSA Submarine Cable	6873
 Orange Tunisia and Medusa Submarine Cable System	1213
 Order Census The Cabinet Secretary	14410
 Os Cabo-verdianos	15344
+Outcome Indicators for CAB APL1B Development Chad	18887
 Overall Governance While Cabo Verde's Overall	11889
 Overall. The Cabo Verde Human Capital	16187
 Overhead Cable Trays	9123
@@ -1548,6 +1608,7 @@ PCA da Imprensa Nacional de Cabo Verde	6571
 PHASE II Av. Amílcar Cabral	8166
 PIB de Cabo Verde	15684
 PIB. Cabo Verde	15684
+PIM for CAB APL	18887
 PORTANT APPROBATION DE L’AVENANT CABINET	17841
 PORTANT NOMINATION AU CABINET DU COMMISSAIRE	18032
 PORTANT NOMINATION AU CABINET DU MINISTRE	17899
@@ -1555,6 +1616,8 @@ PORTANT NOMINATION AU CABINET DU République	18032
 PORTANT NOMINATION D’UNE SECRETAIRE PARTICULIEREAU CABINET	17861
 PORTANT NOMINATIONAU CABINET DU MINISTRE DELEGUE	18032
 PORTE PAROLE DU GOUVERNEMENT CABINET	16381
+PPP Agreement. CAB APL1B Project	18887
+PPP. The CAB APL1B	18887
 PREPARATION CAB4	15511
 PRESIDENCE DE LA REPUBLIQUE CABINET	16099,76
 PRESIDENCE DE LA REPUBLIQUE CABINET CIVIL	16381
@@ -1587,6 +1650,7 @@ Passaporte Eletrónico Cabo-verdiano	16424
 Percentage Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Pessoas de Condições Especiais de Cabo Verde	15694
 Pharmacie Cabinet	737
+Philippe Dongier Task Team Leader for CAB	18887
 Pilares da Governação Cabo Verde	16487
 Plataforma Chave Móvel Digital de Cabo Verde	15532
 Police Judiciaire de Cabo Verde	17848
@@ -1653,6 +1717,8 @@ Província de Cabinda	11427
 QUALIFICATIONS MINIMALES REQUISES Le Cabinet	9744
 QUALITY Average Mobile Cable	16942
 Quadruple Cable Break	2677
+R-zX Cable	19091
+R6US Cable	19106
 RAPPORT-ANNUEL-ARCEP-2024.pdf REPUBLIQUE DU NIGER CABINET	18122
 REFERÊNCIA Projeto Cabo Verde Digital Assistência	11898
 REPORT CABO VERDE Technology Park	11863
@@ -1772,6 +1838,8 @@ Sets Deadline Interior Cabinet Secretary Kipchumba	14264
 Seventeenth Cabinet Meeting	11791
 Several Subsea Cables	2677
 Seychelles Cabinet	5318
+Seychelles Cable Systems Co. Ltd	18932
+Seychelles Heritage Agency. Cabinet	19108
 Seychelles Mauritius Cabo Verde South Africa	10837,1503
 Seychelles. Cabinet	7760
 Seção III Capítulo IV Banco de Cabo	15450
@@ -1814,6 +1882,8 @@ South Sudanese Cabinet	18610
 Southeast Asia-Japan Cable	1766,2910
 Southern Cross Cables Limited	3513
 Special Cabinet Committee	12912
+Special Cabinet Meeting	19016
+Special Cabinet Meeting URL	19016
 Special Purpose Vehicle West Africa Cable	15372
 Special Sitting of Cabinet	11265
 Staff Reporter CABINET	13015
@@ -1977,6 +2047,7 @@ WACS Cable system.jpg	8679
 WACS West Africa Cable System	11965
 WEST AFRICAN SUBMARINE CABLE CAPACITY	17380
 West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27,2412,83,58,29,11,2309
+West Africa Cable System WiLL Wireless	18887
 West Africa Data Centre and Cable Entry	856
 West Africa Submarine Cable	2677,3004,12181,229
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073,6265

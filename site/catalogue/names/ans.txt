@@ -24,6 +24,7 @@ ANS LIGNE	13300
 ANS No SI	13300
 ANS OU PLUS	13300
 ANS OU PLUS FRÉQUENTATION SCOLAIRE FRÉQUENTATION	13300
+ANS SHIPPING CORP	19049
 ANS SI	13300
 ANS TE TE HOMME HOMME APRÈS	13300
 ANS TMIJ MOYENNE NATIONALE Prise	17843
@@ -82,8 +83,17 @@ ANSI Lumens	13524
 ANSI Service	998
 ANSI-TIA	9123
 ANSI. L’Agence Nationale	18135
-ANSICE	2314,2611,1,481,4209,196
+ANSICE	2314,2611,1,481,4209,196,9119,2,117,15,22,5,35,25
+ANSICE Alwihda Info	19092
+ANSICE Par	19149
+ANSICE Tchad	19142
+ANSICE URL	19087,5,57
 ANSICE and ADETIC	4925
+ANSICE and ANATS	18931
+ANSICE. Elle	19087
+ANSICE. Ils	19087
+ANSICE. L’Agence	19127
+ANSICE. Ses	19087
 ANSIE	4255,147,18,9412,25,4,58
 ANSIE Agence Nationale des Systèmes	13836
 ANSIE's DSSI	4255
@@ -149,6 +159,7 @@ Afrique Subsaharienne ANSSI	10874
 Agence Nationale des Affaires Maritimes ANSD	18291
 Ali El Ansari	15933
 Amélioration du ANSD	18291
+Anne Noelia Souris of Anse Boileau	19049
 Ansade	18065
 Ansah	5349,1204
 Ansah SC JA	13095
@@ -158,8 +169,19 @@ Ansari	8283
 Ansat	10924
 Ansatz	2219
 Anschluss	1533,687
+Anse Aux Pins	19128
+Anse Aux Pins and Anse Boileau	19099
+Anse Baleine	19049
+Anse Boileau	18947,42,2
+Anse Boileau AB Grand Anse Praslin	18951
+Anse Boileau District Administration Office	19049
+Anse Boileau Primary and Secondary School	19053
+Anse Etoile	19099,2
+Anse Etoile District Administration Office	19049
 Anse Etoile. Hon. Romain	6379
 Anse Jonchee	14746
+Anse Royale	18947,42,60,76
+Anse Source D'Argent. Copyright	18948
 Anseba	13978,147
 Anseba Region	14029,15
 Anseba Region On Nov	14044
@@ -219,6 +241,7 @@ DE Africa and Senegal’s ANSD	18379
 DESIGNATION ETAT ADEN ARPCE ARTF ANSSI	16047
 DEUX ANS OU PLUS	13300
 DG Ansat	10924
+DISTRICT CODE DISTRICT CODE Anse Aux	18951
 Dastuurka Ku-Meel Gaarka La Ansixiyey	14859
 Data Localisation the Answer	7471
 Deputy General Manager of ANSICE	4925
@@ -239,12 +262,18 @@ Founder of PACE ANSD's Fode Dieme	6963
 Fourniture de ANSD	18291
 Franco Anselmi	16177
 G ACSI AFD AfDB AI ANSSI	15553
+GP Anse Etoile AE Ile Perseverance	18951
 Generative AI Answers	12318
 Generative AI Answers URL	12318
 Ghania Ansor	15410
 Golaha Ansixinta Dastuurka	14859
+Grand Anse Mahe	19125
+Grand Anse Mahé	19128
+Grand Anse Praslin District Administration Office	19049
+Guilliane Eliette Stephanie Francoise of Anse Louis	19049
 Gure Abdi Anshur	7897
 Hilts and Anstis2021	8436
+IP Anse Royale AR La Digue	18951
 IPRESS ANSD DAF	3381
 Ibrahim Ansu Bangura	10572,72
 Institute ANSSI Agence Nationale	15583
@@ -257,6 +286,9 @@ MPT ANSAR Belgacem Direction	15472
 MTND SNDI ANSUT ANSSI ARTCI CICG	15936
 Malawi’s Vice President Dr Jane Ansah	13095
 Mamadou SARR ANSD Directeur	18418
+Michael Anselme Marc Rosette of Green Estate	19049
+Micky Kenneth Bonnelame of Anse Boileau	19049
+Minister David Pierre Visits Anse Boileau	19053
 Monsieur Ansonibè PODA	15454
 Monsieur Crespin Anselme NOUWAKPO	17584
 Monsieur Mohamed EL Moctar ANSARI. Article	18032
@@ -264,9 +296,12 @@ Monsieur Onézime Anselme Lisboa CODJIA	17584
 Mr. Anselmo Xavier Fernandes	18787
 Mr. Ansumana	18496
 Mr. John K. Ansumana	18460
+Murielle Luzette Carole Meeks of Anse Aux	19049
+National Agency for ANSICE Computer Security and Electronic	18931
 National Agency for Spatial Planning ANSD	18309
 National EMIS Contacts Mr. John Ansumanna	18536
 Negative ANS and ANNI	16996
+Noella Therese Jacqueline of Anse Boudin	19049
 Nueva Zelandia ANSELL-BRIDGES	6613
 ORAL ANSWERS TO QUESTION CASCAVELLE	14753
 Organisation ANSD	18291
@@ -275,6 +310,7 @@ PIU ANSSI	15553
 PRESIDENT A OGOLAANSHO ANSIXINTA HINDISE	14906
 Par Anselme Mbata	4335,9982
 Parliament. Answering	12593
+Pins AA Grand Anse Mahe GM	18951
 Pointe Jérome Youth Centre Anse	14835
 Practical Answers	18379
 Production du ANSD	18291
@@ -314,6 +350,7 @@ Tags ANSD	7570
 Thomas Bossuroy ABBREVIATIONS AND ACRONYMS ANSD	18301
 Tony Anscombe	9830
 UNIVERSITE ALBARA IBN MALIK AL ANSARI	18170
+University's Anse Royale	19175
 VEUF ANS ANS POSEZ ENSUITE	13300
 Vice President Shri Hamid Ansari	12617,944,5130
 Vulgariser la ANSD	18291

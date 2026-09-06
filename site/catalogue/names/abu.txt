@@ -1,7 +1,7 @@
 ABDELSALAM Mohamed A M Abusnina Monsef	17403
 ABDULSALAMI ALHAJI ABUBAKAR	18572
 ABOVEGROUND STORAGE TANK CHILD ABUSE	12253
-ABU DHABI	12803,5387
+ABU DHABI	12803,5387,830
 ABU DHABI MAR INVESTMENTS LLC	1829
 ABU DHABY	4209
 ABUCO	8503,350
@@ -13,6 +13,8 @@ ABUS DE FAIBLESSE	17825
 ABUS ET EXPLOITATION SEXUELLES	14490
 ABUSE OF OFFICE	7206
 ABUSE OR HARASSMENT AT OMS OFFICES	10776
+ABUSIVE PRACTICES	18925
+ABUSIVE PRACTICES Prohibited	18925
 ABUSIVES Article	17825
 ACT DONE AT ABUJA	11517
 AEDC Abuja Electricity Distribution Plc ATC&C	12062,6124,31
@@ -32,12 +34,13 @@ Abu Bakar KuyatehEmail	18536
 Abu Bakarr Javombo	2113
 Abu Bakr Yousif Yaqoub	15252
 Abu Dhab	6231
-Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587,534,542,2098,1,360,564,273,19,143,1198,319,525,247,209
+Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587,534,542,2098,1,360,564,273,19,143,1198,319,525,247,209,197,51,12,1
 Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Abu Dhabi BioBank and Abu Dhabi Health	15262
 Abu Dhabi Ces	10507
+Abu Dhabi Development Fund	18988
 Abu Dhabi Exports Office	2947
-Abu Dhabi Fund for Development	13868,962,1746
+Abu Dhabi Fund for Development	13868,962,1746,2412
 Abu Dhabi Global Market	14819
 Abu Dhabi Global Water Platform	18550
 Abu Dhabi Health Data Services	15259
@@ -92,7 +95,7 @@ Abubaker Lubowa	315
 Abuchi OKARO	18003
 Abuco	7830
 Abudulsalami	8022
-Abuja	7,991,16,229,562,52,361,100,79,134,5,56,18,159,40,32,189,33,163,157,98,17,12,17,11,15,1,26,123,18,4,137,8,75,157,7,21,79,92,1,26,95,105,73,89,35,46,38,291,44,71,20,3,29,14,40,178,4,15,42,14,49,55,1,37,9,64,85,6,23,88,60,86,76,254,18,3,48,153,60,122,5,151,39,36,39,1,2,29,26,20,16,21,115,34,4,43,61,18,31,89,18,78,46,15,17,26,25,7,1,11,9,19,5,10,12,23,73,50,21,4,73,13,30,4,15,94,67,4,50,25,56,8,26,62,11,3,47,94,15,16,143,3,2,2,2,61,21,48,1,24,13,14,26,12,49,23,80,1,3,1,106,7,39,49,5,4,2,1,60,24,7,20,53,14,1,1,77,14,29,43,11,24,4,2,33,105,59,5,37,1,11,11,40,35,127,3,103,41,2,30,78,8,29,24,66,289,29,3,9,17,149,5,38,129,41,31,31,29,82,14,153,58,10,21,5,3,21,10,43,17,4,4,7,1,2,15,323,111,369,56,25,204,95,20,196,725,123,47,101,224,9,423,168,24,15,27,60,31,231,43,97,148,202,129,77,22,170,21,33,6,154,337,50,47,159,191,5,58,18,23,8,109,36,303,1,22,4,10,39,6,2,10,3,16,2,16,60,41,192
+Abuja	7,991,16,229,562,52,361,100,79,134,5,56,18,159,40,32,189,33,163,157,98,17,12,17,11,15,1,26,123,18,4,137,8,75,157,7,21,79,92,1,26,95,105,73,89,35,46,38,291,44,71,20,3,29,14,40,178,4,15,42,14,49,55,1,37,9,64,85,6,23,88,60,86,76,254,18,3,48,153,60,122,5,151,39,36,39,1,2,29,26,20,16,21,115,34,4,43,61,18,31,89,18,78,46,15,17,26,25,7,1,11,9,19,5,10,12,23,73,50,21,4,73,13,30,4,15,94,67,4,50,25,56,8,26,62,11,3,47,94,15,16,143,3,2,2,2,61,21,48,1,24,13,14,26,12,49,23,80,1,3,1,106,7,39,49,5,4,2,1,60,24,7,20,53,14,1,1,77,14,29,43,11,24,4,2,33,105,59,5,37,1,11,11,40,35,127,3,103,41,2,30,78,8,29,24,66,289,29,3,9,17,149,5,38,129,41,31,31,29,82,14,153,58,10,21,5,3,21,10,43,17,4,4,7,1,2,15,323,111,369,56,25,204,95,20,196,725,123,47,101,224,9,423,168,24,15,27,60,31,231,43,97,148,202,129,77,22,170,21,33,6,154,337,50,47,159,191,5,58,18,23,8,109,36,303,1,22,4,10,39,6,2,10,3,16,2,16,60,41,192,417
 Abuja Benin Eko Enugu Ibadan Ikeja	12062,6124,31
 Abuja Central	11857
 Abuja Centre for Entrepreneurship	9360
@@ -200,6 +203,7 @@ Abuse of Process	1919
 Abuses	18358
 Abushakra	9129
 Abusing	3383
+Abusive	18925
 Abusive Conditions	10841
 Abuso	10750,819,658
 Abuso Sexual	11390,16,7,4553
@@ -209,6 +213,7 @@ Abuuris	14859
 Abuye M	12255
 Abuzabad Wadbandaa	15244
 Across Lagos and Abuja Fresh	4601
+Act. Abusive	18925
 Acts of Abuse	14743
 Addressing Substance Abuse	10776
 Admin ABU	18276
@@ -246,6 +251,7 @@ Child Sexual Abuse	11648
 Child Sexual Abuse Material Production	12459
 Clement Omanibe Abuja The Nigeria	8499
 Cleveland Clinic Abu Dhabi	15262
+Commission des Clauses Abusives	18897
 Communication Présidentielle Abu Dhabi	16118
 Country Diagnostic SEA Sexual Exploitation and Abuse	18777
 Crown Prince Court of Abu Dhabi	18610
@@ -255,8 +261,10 @@ CyberCrimes and Computer Abuse Act	5107
 Cybercrime and Abuse of Computer Bill	4223
 DE L’EXPLOITATION ABUSIVE D’UNE RECHERCHE	17828
 DES ABUS DE POSITION DOMINANTE	17828
+De la Commission des Clauses Abusives	18897
 Directive. DONE AT ABUJA	15374
 Director of Space and Satellite Mohamed Abubakar Ismail	15167
+Division for Substance Abuse Prevention	18937
 Document SEP Sexual Exploitation and Abuse SH	10964
 Domestic Abuse Bill	14742
 Dr. Abu BakarrKarim	9344
@@ -297,6 +305,7 @@ Gender Based Violence and Sexual Exploitation and Abuse	1988
 Goal SEA Sexual Exploitation and Abuse SH	15661
 Google ABUJA	2841
 Government of Kenya and Abu Dhabi Fund for Development	14546
+Grant Thornton Audit and Accounting Limited Abu	19098
 Group Against Abuse	12975
 Gwendoline Abunaw	3779
 HOLDEN AT ABUJA	18154
@@ -321,6 +330,7 @@ Lagos and Abuja. A Nairametrics	9486
 Lagos and Abuja. Out	1250
 Lagos and Abuja. The Minister of Communications	10680
 Leone Mr. Emmanuel Abubakar Benoni Turay	17017
+London and Abu Dhabi	18964
 L’organisation Startup Abuja	10333
 MARKET ABUSE PART	3714
 Major General Abu Bakr Al-Gendy	15887
@@ -368,6 +378,8 @@ PROHIBITION FROM DISCRIMINATION AND ABUSIVE TREATMENT	14743
 Policy Framework SEA Sexual Exploitation and Abuse	1988
 Portal de Denúncias de Imagens de Abuso Sexual	10750
 Pour Abuja	10808
+Prevention of Drug Abuse and Rehabilitation	19016
+Prevention of Drug Abuse and Rehabilitation Agency	19096
 Prevention of Sexual Exploitation and Abuse PVS Performance	15966
 Prince Shuaibu Abubakar Audu	18221
 Principal Secretary for Investment Promotion Abubakar Hassan	10632
@@ -377,6 +389,7 @@ References Abu Zeid	16916
 References Abu-Shanab	8021
 References AbuAkel	7759
 References Abuso	12227
+Regional Cybersecurity Week Abu Dhabi	18941
 Registration Drive ABUJA	10274
 Rehabilitation of Substance Abusers	14847
 Research Abundant R&D Resource AI Patent	15713

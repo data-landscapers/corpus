@@ -144,6 +144,7 @@ Cash Over Combat	10409
 Census Night. OVERVIEW	16921
 Central Africa Over	9616
 Central African Republic Over Time	10841
+Central African Republic Overview	18887
 Central Bank Governance and Financial Sector Oversight	18823
 Central Bank Oversight of Payment and Settlement System	13468
 Central Bank Tunisia Macroprudential Oversight and Financial	6938
@@ -296,6 +297,7 @@ Economy Overview Cabo Verde2024 Region	11874
 Ecosystem Overview	12376,2443
 Editors Raise Alarm Over AI Misuse	8687
 Education Grant The OVC Education Grant	12977
+Education HNO Humanitarian Needs Overview HRP	18911
 Education Volume Over	13349
 Education and Training Overview	2775
 Effective Oversight	15713
@@ -460,12 +462,14 @@ ICR DOCUMENT Justification of Overall Rating of Quality	15731
 ICT Enterprise Development and SOE Oversight	1810
 ICT Enterprise and Public Entity Oversight	1609,1289,8332
 ICT Enterprise and Public Entity Oversight All	11230
+ICT Regulatory Overall Score	18931
 ICT. Women Dietary Diversity Overall	17127
 ID PROGRAM Contents Overview	12257
 ID PROGRAM Overview Refugees	12257
 ID System Faces Questions Over	10890
 IDES. Overall	12941
 IDI. Overall	17743
+IDPs and OVCs	18911
 IHH Indice de Herfindahl Hirschmann OTT Over-The-Top	16327
 II. Overall Project Performance Key	2989
 II. Programme Overview EBRD	1818
@@ -638,13 +642,13 @@ MoCTI Trains Over	18510
 MoU. Over	14021
 Moderate Moderate Moderate Overall Substantial Substantial	12267
 Moderate Other Overall	16896,26
-Moderate Overall	10870,1118,4717,295,96,374,488,48,127,222,462
+Moderate Overall	10870,1118,4717,295,96,374,488,48,127,222,462,165
 Moderate Overall ESS	18809
 Moderate Overall MPA Program Risk	11417
 Moderate. Overall	11965
 Moderately Satisfactory Moderately Satisfactory Overall Risk	15619,116,903,1835,61
-Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650,462
-Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462
+Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650,462,165
+Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462,165
 Moderately Satisfactory. Overall Risk	15782
 Moderately Unsatisfactory Overall Bank Performance Rating	10779
 Moderately Unsatisfactory Overall Implementation Progress	2712
@@ -686,6 +690,8 @@ National Center for Health Intelligence Over	16397
 National General Budget. Overall	12201
 National Health Information Exchange Platform. Over	12004
 National ICT Policy Advisory Council OVC	958
+National Oversight	19079
+National Oversight A National AI	19079
 National Oversight Committee	8367,7795
 National Payments System Oversight Policy	12537
 National Treasury Oversight	2307
@@ -734,6 +740,7 @@ OVERALL EFFICACY Rationale Objective	16960
 OVERALL FINANCING ENVELOPE	3562,42
 OVERALL FINANCING ENVELOPE OF US	6539,7204
 OVERALL FM RISK MI	15372
+OVERALL FM RISK MI ML	18887
 OVERALL GOAL	14935
 OVERALL GOVERNANCE	10759,78,1050,1,1,263,1,1,9,177,1
 OVERALL GOVERNANCE SECURITY	10759,1395
@@ -746,8 +753,8 @@ OVERALL OBJECTIVES FOR MAKING	16883
 OVERALL PERFORMANCE OF RETAIL E-PAYMENTS	15023
 OVERALL PROGRESS	16971
 OVERALL PROGRESS AND PERFORMANCE AGAINST KEY	16971
-OVERALL RATINGS	13859,51,6,1,1114
-OVERALL RATINGS Name	11988,1932,136,924,179
+OVERALL RATINGS	13859,51,6,1,1114,4052
+OVERALL RATINGS Name	11988,1932,136,924,179,3823
 OVERALL RATINGS Name Current Progress	4688
 OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25
 OVERALL RATINGS Previous Current	11971,4108,915,85,879
@@ -895,6 +902,7 @@ Over-expenditure	18661
 Over-extraction	17157
 Over-extraction. Vegetation Health Decline	17157
 Over-reliance	11133,4209,1643
+Over-the-Counter	19081
 Over-the-Counter Trading	4896
 Over-the-Top	10793,466,2892
 Over-the-Top Services	16883
@@ -903,10 +911,11 @@ Over-the-top	8130
 Over-the-top PPP	18485
 Over-voltage	12233
 Overachievement	11218
+Overage	18984
 Overail Index	15901
 Overal Access	940
 Overal Level of Financial Inclusion	940
-Overall	10,29,197,182,353,18,33,147,44,215,15,39,2,141,40,89,264,6,43,71,2,1,3,28,16,547,240,173,41,195,303,96,11,10,258,36,309,232,214,23,256,40,162,111,2,116,109,42,10,131,20,1,3,76,22,16,29,2,276,40,399,54,107,13,120,105,8,36,169,183,214,40,107,51,13,4,70,53,490,60,46,120,4,260,79,22,80,76,6,109,66,312,19,28,96,225,65,205,464,45,1,1,3,7,4,1,5,34,10,12,3,2,6,9,58,21,14,9,1,13,20,9,10,34,72,9,3,1,1,16,4,36,3,3,13,25,26,9,18,112,16,107,1,35,18,3,274,8,4,33,5,2,9,2,4,2,36,4,1,6,6,26,55,106,37,13,13,6,20,2,1,15,7,19,36,6,17,2,9,9,7,2,10,8,6,2,1,1,14,4,13,1,22,112,27,8,5,36,4,4,15,23,28,136,48,27,1,5,10,6,1,42,32,16,7,35,2,11,25,15,70,92,2,2,17,1,11,4,12,10,19,4,26,43,16,55,92,244,5,2,63,32,17,4,13,6,6,44,16,66,9,290,15,68,1,41,10,98,71,15,13,2,2,10,2,1,29,11,37,2,19,8,1,13,10,2,3,9,3,8,31,9,12,22,2,2,33,29,45,6,2,16,10,56,24,98,30,52,47,2,7,11,20,3,4,32,20,4,16,11,3,17,37,1,2,2,30,47,3,15,52,173,152,9,97,88,55,14,38,178,179,99,10,14,5,5,1,12,3,5,2,1,1,12,7,1,4,10,11,4,11,32,53,3,6,9,13,12,1,9,60,26,22,28,4,28,50,74,17,47,147,40,51,106,20,1,36,3,53,28,114,19,2,61,12,95,8,4,13,52,4,101,28,1,4,4,25,87,11,66,1,42,52,13,8,6,2,26
+Overall	10,29,197,182,353,18,33,147,44,215,15,39,2,141,40,89,264,6,43,71,2,1,3,28,16,547,240,173,41,195,303,96,11,10,258,36,309,232,214,23,256,40,162,111,2,116,109,42,10,131,20,1,3,76,22,16,29,2,276,40,399,54,107,13,120,105,8,36,169,183,214,40,107,51,13,4,70,53,490,60,46,120,4,260,79,22,80,76,6,109,66,312,19,28,96,225,65,205,464,45,1,1,3,7,4,1,5,34,10,12,3,2,6,9,58,21,14,9,1,13,20,9,10,34,72,9,3,1,1,16,4,36,3,3,13,25,26,9,18,112,16,107,1,35,18,3,274,8,4,33,5,2,9,2,4,2,36,4,1,6,6,26,55,106,37,13,13,6,20,2,1,15,7,19,36,6,17,2,9,9,7,2,10,8,6,2,1,1,14,4,13,1,22,112,27,8,5,36,4,4,15,23,28,136,48,27,1,5,10,6,1,42,32,16,7,35,2,11,25,15,70,92,2,2,17,1,11,4,12,10,19,4,26,43,16,55,92,244,5,2,63,32,17,4,13,6,6,44,16,66,9,290,15,68,1,41,10,98,71,15,13,2,2,10,2,1,29,11,37,2,19,8,1,13,10,2,3,9,3,8,31,9,12,22,2,2,33,29,45,6,2,16,10,56,24,98,30,52,47,2,7,11,20,3,4,32,20,4,16,11,3,17,37,1,2,2,30,47,3,15,52,173,152,9,97,88,55,14,38,178,179,99,10,14,5,5,1,12,3,5,2,1,1,12,7,1,4,10,11,4,11,32,53,3,6,9,13,12,1,9,60,26,22,28,4,28,50,74,17,47,147,40,51,106,20,1,36,3,53,28,114,19,2,61,12,95,8,4,13,52,4,101,28,1,4,4,25,87,11,66,1,42,52,13,8,6,2,26,36,44
 Overall Accuracy	17140
 Overall Assessment	14777
 Overall Balance	12922,34,167,4112
@@ -914,6 +923,8 @@ Overall Balance Organization	17235
 Overall Bank Overall Borrower Satisfactory Satisfactory	18754
 Overall Bank Performance	15023,1591
 Overall Bank Performance Rationale With Bank	10779
+Overall Benchmark Assessment Results and Rank	18910
+Overall Benchmark Ranking South Africa	18910
 Overall Borrower Performance	16614
 Overall COMPLIANCE Policy Does	11855
 Overall Capital Budget Performance	12962
@@ -941,6 +952,7 @@ Overall Engagement and Index Trends	11131
 Overall Equatorial Guinea	16942,54
 Overall Equipment Effectiveness	13185
 Overall FM	15661
+Overall Fiduciary Responsibility. The PCU	18887
 Overall Financial Access	2775
 Overall Financial Capability Control Knowledge Choice	418
 Overall Financial Health	2775
@@ -1038,6 +1050,8 @@ Overall. The Cabo Verde Human Capital	16187
 Overallaccuracy	8606
 Overallaccuracyorareaunderthecurveshould	8301
 Overalls	418
+OverallÂ RiskÂ RatingÂ	18887
+OverallÂ RiskÂ RatingÂ DuringÂ CommentsÂ PreparationÂ	18887
 Overarching	10641,4317,2912
 Overarching Goal and Theory of Changes	14000
 Overarching ICT Policy	12921
@@ -1111,6 +1125,7 @@ Overpayment Adjustment Voucher	14533
 Overqualification	17458
 Overreliance	8936,5987
 Override Article	12616
+Overriding	18881
 Oversaw	11230
 Overseas	1220,10631,125,2764,35
 Overseas Citizens of India	13509
@@ -1146,6 +1161,7 @@ Overseen	14674
 Overseer	12286
 Overseers	16575
 Oversees	4755,7105,2959,128,2028
+Oversees Data Protection	19057
 Oversees the Policy Framework for Integrated Planning	11224
 Oversees the Remediation Process	18482
 Overshooting	13532
@@ -1193,7 +1209,7 @@ Overt	10088
 Overtime	11218,6,1829,1683
 Overtime Support	8999
 Overturning	18512
-Overview	236,725,863,272,679,4,1655,462,1527,89,436,203,397,242,810,4,66,235,120,103,1637,10,37,10,19,144,145,1,3,1,14,43,3,2,1,26,26,18,42,107,107,29,43,243,25,2,1,1,1,25,59,41,31,16,140,27,19,93,8,1,56,26,89,259,161,26,5,18,18,18,46,199,62,2,45,22,37,114,122,306,605,108,74,60,48,39,3,1,17,7,1,9,13,145,39,35,42,38,229,77,3,51,26,330,17,671,71,134,5,44,13,1,23,4,20,74,33,44,26,17,78,25,63,1,40,77,521,9,338,134,1,3,40,36,8,46,1,105
+Overview	236,725,863,272,679,4,1655,462,1527,89,436,203,397,242,810,4,66,235,120,103,1637,10,37,10,19,144,145,1,3,1,14,43,3,2,1,26,26,18,42,107,107,29,43,243,25,2,1,1,1,25,59,41,31,16,140,27,19,93,8,1,56,26,89,259,161,26,5,18,18,18,46,199,62,2,45,22,37,114,122,306,605,108,74,60,48,39,3,1,17,7,1,9,13,145,39,35,42,38,229,77,3,51,26,330,17,671,71,134,5,44,13,1,23,4,20,74,33,44,26,17,78,25,63,1,40,77,521,9,338,134,1,3,40,36,8,46,1,105,204,61,37,113
 Overview AU Policy	14724
 Overview Achieving the Digital Addressing Policy	16915
 Overview Against	16858
@@ -1204,6 +1220,7 @@ Overview At-a-Glance Action Plan	11873
 Overview Censuses	11192
 Overview Certification	12041
 Overview Context	12457
+Overview Data	19057
 Overview Djibouti	13879
 Overview ESERA	12969
 Overview Education Return Receipts	16554
@@ -1243,6 +1260,7 @@ Overview The Liberian	17235
 Overview The Ministry of Commerce	12393
 Overview The National Registration Bureau	13005
 Overview The Smart Zambia Institute	13424
+Overview The UniSey Centre for Innovation	18998
 Overview The United Nations Development Programme	16312
 Overview This Chapter	7548
 Overview URL	17016
@@ -1318,6 +1336,7 @@ Overview of Open Access	5246
 Overview of Operations The Department	11218
 Overview of Project Components and Financing	10829
 Overview of Projects and Their Completion Rates NAME	13053
+Overview of Proposed Regulatory Framework	18952
 Overview of Recommendations	13312,2
 Overview of Reform	13956
 Overview of Refugee Status Determination	12227
@@ -1431,6 +1450,7 @@ Priority Reform Overview	12175,1815
 Privacy Overview	18230
 Private Consumption Public Consumption Investment Overall	17503
 Procurement Over	1988
+Procurement Oversight Unit Seychelles	18965
 Procurement Oversight and Monitoring Arrangements	11525
 Procurement Oversight- Frequency	16949
 Procurement Overview	15028
@@ -1548,6 +1568,7 @@ Satisfactory Satisfactory PDO Overall	18809
 Scale Over	13042
 Scope of Oversight	12537
 Score Angola’s Overall Governance	10759
+Score. Overall	18907
 Secrecy Obligation Overridden	18599
 Section I. Overview Liberia	17037
 Sector Overview and Context	13582
@@ -1687,7 +1708,9 @@ Use Only Overall Implementation Progress	17000
 Use Only Overall SENELEC	18355
 V. KEY RISKS A. Overall Risk	11525
 V. Overall PCR Rating	15758
+V. Overflight and Order-to-Land Operations and Procedures	18914
 VI. Oversight	11154
+VIII. Jurisdiction Over Detained Vessels	18914
 VOICE OVER INTERNET PROTOCOL	3862
 VPA Implementation Process. Overview and Status of VPA	16857
 Vacancy Management Oversight Committee WC Western	11197

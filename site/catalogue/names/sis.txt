@@ -250,7 +250,7 @@ O Departamento de Administração de Sistemas de Redes	11382
 O Diagnóstico Sistemático	18781
 O SIS-MA	12863
 O SISIES	11410
-O Sistema	9260
+O Sistema	9260,9636
 O Sistema Estatístico Nacional	11359,178
 O Sistema Informático	9403
 O Sistema Integra	18767
@@ -398,6 +398,7 @@ SIS. Celle-ci	17882
 SIS. Cette	17882
 SIS. Plan Stratégique National de Santé Numérique	17882
 SISA Para	18764
+SISAAP	18988
 SISAG	2951
 SISAM	7648
 SISBEN	11133
@@ -531,7 +532,7 @@ Sissingué	2342
 Sissingué. Durant	2342
 Sistah Sistah Foundation	9082
 Siste	16855
-Sistema	13,781,1,171,735,1115,1393,65,698,197,1801,2290,1487,7,15,11,580,6,2,6,2,9,76,19,5,62,10,12,13,319,62,812,2617,48,36,1,27,68,112,282,16,14,93,786,18,5,67,14,53,30,38,1649,9,2,3,18,2,11,70
+Sistema	13,781,1,171,735,1115,1393,65,698,197,1801,2290,1487,7,15,11,580,6,2,6,2,9,76,19,5,62,10,12,13,319,62,812,2617,48,36,1,27,68,112,282,16,14,93,786,18,5,67,14,53,30,38,1649,9,2,3,18,2,11,70,32
 Sistema Angolano da Qualidade	11381
 Sistema Archivo Digital	16930
 Sistema Artigo	18778
@@ -562,6 +563,7 @@ Sistema Electrónico de Registo	12831
 Sistema Electrónico de Registo Civil	12775
 Sistema Eleitoral	3530,1181,227,3598,10268,3,1,44,7
 Sistema Eleitoral Veja	18807
+Sistema Eléctrico Nacional	18895
 Sistema Estadísti	16898
 Sistema Estadístico	16898
 Sistema Estadístico Guinea Ecuatorial	16898
@@ -627,6 +629,7 @@ Sistema Integrado de Registos	11566
 Sistema Integrado de Serviços	11410
 Sistema Integral de Gestión de Funcionarios	5111,183,6449,5600
 Sistema Inteligente de Intercâmbio Digital	2816
+Sistema Interligado	18896
 Sistema Internacional de Unidades	11381
 Sistema Judicial	1701,14786,2299
 Sistema Judicial Las	1701
@@ -744,7 +747,7 @@ Sistema da Protecção Social Obrigatória	11433
 Sistema da Saúde-RSS. Importa	18768
 Sistema de Abastecimento	1265,17528
 Sistema de Administración de Justicia	1701
-Sistema de Administração Financeira	795,11347,645,2,5978,5,16
+Sistema de Administração Financeira	795,11347,645,2,5978,5,16,158
 Sistema de Administração Financeira Estadual	12142
 Sistema de Administração Territorial	11898
 Sistema de Administração de Monitoria de Projectos	414

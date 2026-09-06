@@ -4,6 +4,7 @@ Ajuste Direto	16056
 Assunlos Fiscais GABINETE DO DIRETOR GERAL	17111
 CARGO DGIS EAdnUaSlvCa UCLarTdoAsoDA Diretora Geral	15694
 CIBERCRIMINALIDADE O Diretor Nacional da Polícia Judiciária	17066
+CNPD Diretriz	18945
 Com Diretrizes	12862
 Conselho Diretivo	15433,17,36,426,222,65
 Conselho Diretivo Artigo	15912
@@ -21,7 +22,7 @@ Diretiva	15509
 Diretiva Nr	11568
 Diretivas	2816
 Diretivas C	15504
-Diretor	5819,5742,495,3470,667,816,138,1707,1,8
+Diretor	5819,5742,495,3470,667,816,138,1707,1,8,82,1
 Diretor Comercial	18871
 Diretor Executivo	11555
 Diretor Financeiro	11555
@@ -40,6 +41,8 @@ Diretor Nacional da Polícia Judiciária de Cabo Verde	11566
 Diretor Nacional da Polícia Judiciária de Portugal	11566
 Diretor Técnico	18875
 Diretor da Política de Justiça	18861
+Diretor de Estudos	18945,1
+Diretor de Estudos MINR-STP	18945
 Diretor de Finanças	11566
 Diretor de Informação	11555
 Diretor de Pesquisa	11044
@@ -64,7 +67,7 @@ Diretores de Serviço	15526
 Diretores-gerais	8051
 Diretoria Executiva	18779
 Diretoria Nacional da PJ	11540
-Diretriz	18788
+Diretriz	18788,158
 Diretrizes Claras Sobre Padrões de Segurança	11898
 Diretrizes da ENDE	18794
 Dumbá Diretor Geral	11560

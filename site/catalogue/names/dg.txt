@@ -75,6 +75,7 @@ Casablanca. La DGI	17496
 Centers DGMEC General Directorate for Civil Registry	10812
 Central Supplier Database DG Director General	11250
 Chasse DGI Direction Générale des Impôts DGDDI	10876
+Civil Mot du DG YOUSSOUF GOROU TCHABY	19201
 Civil Registration and Vital Statistics DG	12338
 Collectivités Territoriales DGDP	17842
 Combat Climate Change DGPC General Directorate	17962
@@ -117,11 +118,13 @@ DG Attia Byll	6446
 DG Bah	17125
 DG CAMEPS	15685
 DG CAMTEL	15559
+DG Cabinet Affairs	18950
 DG Commends Tribal Heads for Strengthening Civil	18519
 DG Connect	11155
 DG Connect European Commission	10819
 DG DEPARTMENT OF HOME AFFAIRS	11986
 DG DEVCO	16281
+DG DICT	18950
 DG Definition	11986
 DG Delivery of DHA	11986
 DG Development	11155
@@ -133,6 +136,7 @@ DG EG	11953
 DG Enterprise and Industry	15493
 DG Functional	5533
 DG GANADERÍA	4209
+DG IA	19010
 DG INTPA	970,1186,8999,3367,1347,412,90,397
 DG INTPA Directorate General for International Partnerships	970
 DG Impuestos	4209,12721
@@ -142,7 +146,9 @@ DG Joekai Unveils Plans	17057
 DG Jordan-Dyani	2902
 DG Justine Adebiyi	6446
 DG Kashifu Inuwa	4725
-DG MARE	18813
+DG MARE	18813,172
+DG MARE Commitments	18985
+DG MARE Year	18985
 DG MASSAQUOI	18471,3
 DG Makhode	6196
 DG Marchés	18063
@@ -155,6 +161,7 @@ DG Mohamed Assalia Boncana	4404
 DG Murray Trust	14238,217
 DG NA Disaggregation	11986
 DG NIDA. Functions	12338
+DG National Planning	18950
 DG Nicolas Yenoussi	1724
 DG North-West Africa	5760
 DG Permanent	11986
@@ -186,11 +193,13 @@ DG de FirstBank DRC	3849
 DG de Helios Towers Congo	16002
 DG de Mobile Money Corporation	6804
 DG de Semlex-CI	2758
+DG des Impôts	18973
 DG des Postes	15493
 DG des Télécommunications	4211
 DG du CENOU. Il	16659
 DG du CIRT. Selon INTERPOL	7153
 DG du Développement	15493
+DG du FNDS	18926
 DG du FOGEC	4893
 DG du FOGEC. Une	4893
 DG of ASIN	1728
@@ -303,7 +312,7 @@ DGD Mensuelle DGI Journalier DGDDI Mensuelle	16328
 DGDA URL	15549
 DGDCT	18166
 DGDCV	15532
-DGDDI	15840,386,9,93,54
+DGDDI	15840,386,9,93,54,2798
 DGDDI General Directorate for Customs and Indirect Taxation	13861
 DGDDI Progression Exercice Administration Prévisions Mds	16328
 DGDDI.pdf Journal	16235
@@ -345,6 +354,8 @@ DGEB General Directorate of Basic Education	11905
 DGEB Verification Entity World Bank	11905
 DGEC-EPPNF DGENF DGESS DTICE ABBREVIATIONS	15743
 DGECM-R	18196,5
+DGEES	18887
+DGEES Direction GÃ	18887
 DGEFC	10876,5236
 DGEFC AVI L'ANDF	10876
 DGEG B	15744
@@ -426,10 +437,12 @@ DGI Implanter SIGRH	17872
 DGI Intelligence	10712
 DGI LISTE DES SIGLES ET ABREVIATIONS	10858
 DGI LOLF Loi	18015
+DGI Le Directeur Général des Impôts Direction	18973
 DGI L’évaluation	10858
 DGI MINMAP MINHDU MINTP	15542
 DGI Madagascar	14580
 DGI Mettre	10858
+DGI Mr MBAIRARI BARI HENRI	18973
 DGI Niveau	10712
 DGI Nombre	10858,7014
 DGI ORIENTATION STRATEGIQUE N	10712
@@ -651,7 +664,7 @@ DGT Digital	16980
 DGT Direction	14437
 DGT IEFP	15694
 DGT Strategic Plan	16033
-DGTCP	2330,146,920,208,779,2444,3885,146,18,4621,80,263,556,323,275,1021,48,2
+DGTCP	2330,146,920,208,779,2444,3885,146,18,4621,80,263,556,323,275,1021,48,2,1039
 DGTCP Direction	15961,2054
 DGTCP En	3396
 DGTCP Intermédiaire Rapports	18015
@@ -712,7 +725,7 @@ Dg Oneci	3988
 Dg de Sgci	3988
 Dg de Société	3988
 DgAdigwe	12478
-DgMarket	15372
+DgMarket	15372,3515
 Dgedge	10470
 Dgtl Infra	597
 Dguaeamíduqrauaqeçuãefoolaiqsiuneqs	15694
@@ -728,6 +741,7 @@ Direction des Affaires Administratives DGEC	10847
 Director General DG	12338
 Directorate of Water Resources Management and Planning DGS	18309
 Diretor Geral da DGRN	2688
+Direção de Tecnologia da Informação. DGRN	18946
 Domaines DGTCP	15840
 Doter la DGSHP	17845
 Doter le DGSHP	17845
@@ -818,6 +832,7 @@ Incident Response Team DGS DGS DHIS	12917
 Information DGFS	14442
 Information Letter DGPOG General Directorate for Social	11855
 Innovation DGSN	18291
+Institution DGEES Direction GÃ	18887
 Integrated Tax Management DGI	11906
 Interoperability-Paper DG 2024.pdf	6337
 Interopérabilité DGI	14438
@@ -861,9 +876,10 @@ La DGPE	15874
 La DGPF	7713
 La DGTCP	15577,2438
 La Dgid	18413
-Le DG	3855,355,447,365,3613,2241,2813,1906,103,191
+Le DG	3855,355,447,365,3613,2241,2813,1906,103,191,3037,77,33
 Le DG Mukena	7813
 Le DG Reçoit	10876
+Le DGI	18973
 Le Dg	10924,5145
 Lt Colonel DG Mashele	11285
 Luc Missidimbazi. Note the DG	6033
@@ -890,6 +906,7 @@ MF DGIS	15694
 MFIS and DGIS	11855
 MFIS’s DGPOG	11855
 MS DGIS	15694
+Mail DGI	18973
 Maintenance DGSSSa	15685
 Maladie DGPOP	15685
 Mali Méteo and DGPC	17962
@@ -920,6 +937,7 @@ ND DGSHP	17845
 ND Oui Oui Oui Oui DGSHP	17845
 NESDB DG. Consolidating	5096
 NGOLELE Frédéric DGID	15580
+NGUILIN A LA DGI Le Ministre	18973
 NIMC DG	7143,977
 NIMC DG Abisoye Coker-Odusote	1700,2591
 NIMC DG Dr Abisoye Coker-Odusote	2381
@@ -962,12 +980,15 @@ Planification du Développement DGCC	17842
 Politique Fiscale DGEFRI Direction Générale des Etudes	11944
 Politiques Economiques DGPRE	18291
 Pour le DGAT	17671
+Pr. Mahmoud Youssouf Khayal DG du CNRD	19039
 Presidency DGPSN National	18301
+Presidente da DGRN	18945,1
 ProCapital and DGTED	11863
 Production de DGPPE	18291
 Progress Update DGTS Mauritius.pdf	14750
 Progress Update DGTS Mauritius.pdf Author	14750
 Project Implementation Manual. DGDEN ARPCE Reports	15553
+Prospective DGM Directeur Général du Ministère DGPC	18911
 Quand la DGI	6383
 RDB DG	12359
 RECETTES BRUTES DGI	10712

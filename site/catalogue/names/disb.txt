@@ -12,6 +12,7 @@ Authority. Disbursement	11
 Availability Date Disbursement	17257
 BORROWE R'S IDA-D9060- Disbursi	2473
 Balance Disbursed Commitments IBRD	1284,15638
+Bank FM and Disbursement	18887
 Bank's Disbursement Guidelines	8166
 Board Restructuring Disbursed	18754
 Body Revenue Authority Disburses Additional Rwf464	14968
@@ -62,6 +63,7 @@ Disbursed CAD	2167
 Disbursed COFN-C2470 Closed	17505
 Disbursed Disbursed IDA-74440 Effective	16705
 Disbursed IBRD	2473,16336
+Disbursed IBRD-91670 Effective	18982
 Disbursed IBRD-93170 Effective	17470
 Disbursed IDA-66100 Effective	15735
 Disbursed IDA-66880	18133
@@ -92,7 +94,7 @@ Disbursed-Linked Indicators	17458
 Disbursed-only	16751
 Disbursed-usd	607
 Disbursed. Grants	14456
-Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22,41,28,4,162,839,48,119,234,27,12,73,69,106,4,95,143,131,112,75,435,242,26,194,389,344,113,397,135,141,216
+Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22,41,28,4,162,839,48,119,234,27,12,73,69,106,4,95,143,131,112,75,435,242,26,194,389,344,113,397,135,141,216,36
 Disbursement Arrangements	11924,2014,1723
 Disbursement Arrangements Disbursements	18370
 Disbursement Categories	1228,56,15612,26,1843
@@ -116,16 +118,18 @@ Disbursement Guidelines for World Bank IPF Operations	10964
 Disbursement Handbook	16219
 Disbursement IBRD	15659,725
 Disbursement III.B.1	16144
-Disbursement Letter	11525,3847,146,35,666
+Disbursement Letter	11525,3847,146,35,666,2668
 Disbursement Letter. Oth	10829
+Disbursement Letterâ	18887
 Disbursement Linked Indicator	17470
 Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
-Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35
+Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477
 Disbursement Linked Indicators DLI	11905
 Disbursement Linked Indicators. Beyond	16922
 Disbursement Linked Result	17470
 Disbursement Linked Results	16032,1438
+Disbursement Methods	18887
 Disbursement Methods. Given	15372
 Disbursement Modalities	17116
 Disbursement Modalities Upon PMU	17116
@@ -151,12 +155,13 @@ Disbursement-Linked Result	17458
 Disbursement-linked	15693
 Disbursement-linked Indicators	11855
 Disbursement. Current	15969
-Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15,164,258,17,8
+Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15,164,258,17,8,70,95,101
 Disbursements Arrangements	1228,56,2320,8361,4931,26
 Disbursements Arrangements No Additional Regional	16032
 Disbursements Arrangements No DDO No Additional	18359
 Disbursements Estimates	11965
 Disbursements and Procurement	15372
+Disbursements and Procurement Country	18887
 Disbursements for Component	15663
 Disbursing	13164,3950
 E. Disbursement Linked Indicators and Verification Protocols	17458
@@ -276,8 +281,9 @@ Statement of IFC’s Committed and Disbursed Portfolio Nigeria	11469
 Statement of Receipts and Disbursements	13420
 Sub-Project Disbursement Schedule	1867
 TABLE REALLOCATION BETWEEN DISBURSEMENT CATEGORIES Current	1228
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25,165
 TRI-Ns. E. Disbursement Linked Indicators and Verification	17458
+Tchad Estimated Disbursements	18887
 Tot Disb	11867
 Transfer DLI Disbursement Linked Indicator ESMAP	15663
 Type Amount Disbursed	15731,705,2389

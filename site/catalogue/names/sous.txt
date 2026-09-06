@@ -132,6 +132,8 @@ DROITS ET LIBERTÉ DE L’INVESTISSEUR Sous	17898
 DU SOUS- TRAITANT ET DE L	15584
 DU SOUS-SECTEUR	15999
 DU SOUS-TRAITANT Ingingo	14893
+DUCATIF SOUS-TITRE	18884
+De la Formation Professionnelle SOUS TITRE II	18884
 Directeur Sous	15602
 Directions Territoriales. Sous-section	15371
 District. Sous	17861
@@ -194,6 +196,7 @@ Informatique SOUS-DIRECTION DE L’IDENTIFICATION JUDICIAIRE	17899
 Informatique SOUS-DIRECTION DES FINANCES	17899
 Ingénieurs Sous-directeur Chef de Division	17899
 Institut Sous	17842
+Introduction Sous	18942
 Irene KIMENYI Sous	16209
 Jaqueline De Sousa Pateguana	4214
 Jeune Hommes Adulte Mixte Sous	13390
@@ -207,6 +210,7 @@ Kane Clara Ana Coutinho De Sousa	17962
 Kolwezi. Sous	15739
 L'ACCES AU GRADE DE SOUS-INTENDANT	16230
 LA PROMOTION AU GRADE DE SOUS-INTENDANT	16230
+LE DÉVELOPPEMENT DU PAYS Sous	18972
 LE SOUS-SECTEUR DES ENSEIGNEMENTS SECONDAIRES SECTION	15999
 La Sous-Préfecture de Grand- Ce	1005
 La Sous-composante	16681
@@ -240,6 +244,7 @@ MINISTERE DE LA DEFENSE Sous-lieutenant NGATSE	15744
 MOBILITE ET INTEGRATION SOUS REGIONALE	18143,27
 Mali. Sous	18077
 Mamadou Alpha DIALLO INS Sous-directeur	16620
+Mauritanie Sous	18916
 Mines SECTION CONTROLE DE PRODUITS SOUS	17899
 Minister of Defense Brigadeiro Horacio de Sousa	18879
 Moussa Amadou CISSE Sous-lieutenant Artillerie	17828
@@ -306,6 +311,7 @@ SOUS BURIDA	15936
 SOUS OBJECTIFS RESULTATS ESCOMPTES INDICATEUR LIGNE	15500
 SOUS PROJET	18118
 SOUS SECTION	13719
+SOUS TITRE II	18884
 SOUS TUTELLE FLY GABON HOLDING CONSEIL	16099
 SOUS TUTELLE GROUPE GABON TELEVISION DIRECTION	16099
 SOUS TUTELLE SOCIETE EQUATORIALE DES MINES	16099
@@ -333,7 +339,7 @@ SOUS-SECTION Il DES REVENUS DE CAPITAUX	15999
 SOUS-SECTION V DES BENEFICES AGRICOLES	15999
 SOUS-SECTION VI DES BENEFICES DES PROFESSIONS	15999
 SOUS-SECTION VII DES DISPOSITIONS COMMUNES AUX	15999
-SOUS-TITRE	13293,2112
+SOUS-TITRE	13293,2112,3479
 SOUS-TITRE HH	15999
 SOUS-TITRE II	15405
 SOUS-TITRE III	15405
@@ -440,13 +446,14 @@ Sous-boucle	17819
 Sous-collines	13375
 Sous-comp	16012
 Sous-comp6.2	16012
-Sous-composante	15746,208,58,669
+Sous-composante	15746,208,58,669,2261
+Sous-composante1.1 Formation	18942
 Sous-compte de Transit des Recettes Non Fiscales	13524
 Sous-directeur	10975,4450,245,1778,534
 Sous-directeur Afrique	16633
 Sous-directeur Commissaires	17899
 Sous-directeurs	10975,4450,2402,134
-Sous-direction	10975,4450,2402
+Sous-direction	10975,4450,2402,1165
 Sous-direction Sous-direction	2342
 Sous-direction des Affaires	17827
 Sous-direction des Etudes	15425
@@ -507,10 +514,11 @@ Sous-programmes Figure	10975
 Sous-programmes Prévisions	10975
 Sous-projet	15908
 Sous-projets	15901
+Sous-prÃ	18887
 Sous-préfecture	16651
 Sous-préfet	18094,194,122
 Sous-préfet. Au	18286
-Sous-préfets	18094,193
+Sous-préfets	18094,193,639
 Sous-préfets. Art	18287
 Sous-recommandations	17856
 Sous-recommandations Actions Indicateur	17856
@@ -520,6 +528,7 @@ Sous-recommandations Favoriser	17856
 Sous-recommandations Une	17856
 Sous-région	11944
 Sous-région La CEMAC	11944
+Sous-région du CILSS	18967
 Sous-secteur	2966,12576
 Sous-secteur AMENAGEMENTS URBAINS ET HABITAT	15542
 Sous-secteur Aménagements Urbains	15542
@@ -568,7 +577,7 @@ Sous-traitant	436,795,2484,7110,17,3695,895,33,23,96,52,820,161,1205,9,288
 Sous-utilisation	737,6918,10358
 SousJroilonl Toute	15429
 SousRubrique	13681
-Sousa	10718
+Sousa	10718,8177,1
 Sousa Cordeiro	17315
 Sousa Daio	18752
 Sousa Maria Nhassengo- Procurement Team Procurement	18809
@@ -596,6 +605,7 @@ Type RE-3 CE-1 Recommandation Sous-recommandations Actions	17856
 Tâches Sous	13375
 UNITE DE TRANSPORT Sous-lieutenants	15744
 US Sous	18286
+USD Sous	18942
 Unité des Sous-Traitants Pétroliers	16047
 VI.7.1.1. Sous-programme	15685
 VI.7.1.2. Sous-programme	15685

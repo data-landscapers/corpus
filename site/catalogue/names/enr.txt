@@ -90,7 +90,7 @@ EnDev Energising Development EnR	18316
 Enreg	15999
 Enregistr	17438
 Enregistre	10876,5032
-Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91,849,186,143,3,13,11,31,110,46,48,4,116,31,50,6,15,12,2,20
+Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91,849,186,143,3,13,11,31,110,46,48,4,116,31,50,6,15,12,2,20,594,18
 Enregistrement Cadastral	10876
 Enregistrement Cadastral CEDEAO Communauté	10876
 Enregistrement Communal	10876
@@ -139,7 +139,7 @@ Enroll	2604,8161,10,1678
 Enrolled	11006,498,936,3278,1123,130,716,774
 Enrolled OVC Beneficiaries	12977
 Enrolling	571,4877,5685,791,2992
-Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831
+Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963
 Enrollment Data	14501
 Enrollment Kits	13424
 Enrollment Rates API	15630
@@ -150,7 +150,7 @@ Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollment of Liberians	16993
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638,241,1007,75,49,1467,17,14
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638,241,1007,75,49,1467,17,14,437
 Enrolment Confirmation	16902
 Enrolment Education	12356
 Enrolment Infrastructure	11774
@@ -170,7 +170,7 @@ Enrolment of Students	12411,2364
 Enrolments	16253
 Enrprr.utteur	15399
 Enrprtrlttcttr	15399
-Enrôlement	1187,1278,2276,1353,8386,99,835,928,2090
+Enrôlement	1187,1278,2276,1353,8386,99,835,928,2090,494
 Enrôlement Scan	14480
 Enrôlement du Président	3337,4,1472,2351
 Enrôler	18432
@@ -185,6 +185,7 @@ F ENREGISTREZ TOUT CE QUI EST	13300
 F INJECTION INJECTION ENREGISTREZ TOUS	13300
 FCFA Gross Domestic Product Gross Enrollment	11905
 Família ENRPN Estratégia Nacional	18779
+Flash Info Journée Lancement Enrolement Biometrique	19024
 Florencio Chayo Sañaba Services Assistant Enrique	17101
 Fokontany Enregistrement	14480,8,1,1
 GER Gross Enrollment Rate Telecommunications Inc	16942

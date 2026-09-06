@@ -78,6 +78,7 @@ ACTUARIAL SERVICES EAST AFRICA LIMITED Data	7167
 ACUMEN VALUERS LIMITED Data Processor INST-26137089BA2	7167
 AD HUB KENYA LIMITED Data Controller	7167
 AD HUB KENYA LIMITED Data Processor	7167
+ADA Games Solutions Limited	19049
 ADAM SMITH INTERNATIONAL AFRICA LIMITED Data	7167
 ADAMANT LOGISTICS SOLUTIONS LIMITED Data Controller	7167
 ADANIAN LABS LIMITED Data Processor INST-544532DEC8D	7167
@@ -649,6 +650,7 @@ Acima Consult Limited Data Controller INST-94310929DCD	7167
 Acima Consult Limited Data Processor INST-94310929DCD	7167
 Acorns Investment Limited Data Controller INST-4345480BC4F	7167
 Acorns Investment Limited Data Processor INST-4345480BC4F	7167
+Act. RED CAYENNE VENTURES LIMITED	19049
 Acumen EA Advisory Services Limited Data	7167
 AdLegal International Limited	8290
 Adili Corporate Limited	6946
@@ -1193,6 +1195,7 @@ Baobab Circle Kenya Limited Data Controller	7167
 Baraka Smiles Dental Limited Data Controller	7167
 Base Resources Limited Data Processor INST-5055129782F	7167
 Baudit Limited	3862
+Belair Investments Limited	19049
 Bena Care Limited Data Controller INST-450757839F1	7167
 Bergmans Security Consultant and Supplies Limited and Bsmart	8499
 Bergmans Security Consultants and Supplies Limited	9154,14,87,1221
@@ -2414,6 +2417,7 @@ Effect of Incorporation Limited Liability Partnerships	18556
 Egerton University SACCO Society Limited Data	7167
 Electricity Limited	11136
 Electricity Transmission Company Limited KFS Kenya	2775
+Elodie Shipping Limited	19049
 Emerald Group Publishing Limited	18318
 Emerald Group Publishing Limited. Vol	12090
 Emerging Markets Telecommunications Services Limited	330
@@ -2500,16 +2504,19 @@ Ghana Post Company Limited Size	15867
 Ghana Refugee Board Limited	15845
 Globacom Limited	11857
 Global Independent Connect Limited	2284
+Global Structure Limited	19049
 Gondwana Collection Namibia Proprietary Limited	13189
 Gov Technologies Limited	14081
 Government Limited	12214
 Granet Technologies Limited	5212
+Grant Thornton Audit and Accounting Limited Abu	19098
 GreenCo Power Services Limited	12937
 Group CEO of ZSE Holdings Limited	8626
 Gusii Tea Solar Company Limited Generation	12256
 H NATIONAL CONTRACTING COMPANY LIMITED GUINEA	16623
 HEALTH CARE LIMITED Data Controller INST-12794625BFC	7167
 HEALTH SERVICES LIMITED Data Controller INST-8936470A69B	7167
+HLL Lifecare Limited	19166
 HNO GL-075-4700 Operational Limited Operational Septembe	3386
 HOSPITAL LIMITED Data Controller INST-4029220C2D4 UASIN	7167
 HOSPITAL LIMITED Data Processor INST-4029220C2D4 UASIN	7167
@@ -2524,6 +2531,7 @@ High-Speed Limited	6946
 Holdings Limited	15930
 Holla Tags Limited	3862
 Horus Labs Limited	15149
+Housing Finance Company Limited	18925
 Huawei Technologies Nigeria Limited	8560
 Huawei Technologies Tanzania Limited	7863
 I-Grow Gate World Limited	3862
@@ -2581,6 +2589,7 @@ JOINT SPECIALITY CENTER LIMITED Data Controller	7167
 JSE Limited	10218,575
 JSE Limited. Reconciliation	10793
 Jamii Telecommunications Limited	6671,193,82
+Jefferson Starship Company Limited	19049
 Judiciary. Limited	16943
 K-Net Limited	3386
 KCB Bank Kenya Limited	8937,1
@@ -2799,8 +2808,9 @@ Limitação	10755,763,2,4536
 Limitações	2816,703
 Limite	9480,2040,3191,681,853,2553,55
 Limite Région Cental Grand Nord Diana	14622
+Limite de Capacidade Instalada	18896
 Limite de Crédito	11386
-Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68,55,1,27,222,81,2,48,2,9,11,27,11,21,4,4,6,6,45,15,26,97,21,2,2,19,8,5,9,1,79,7,25,9,3,20,4,10,31,13,2,24,17,8,115,46,5,87,82,121,14,8,19,12,63,15,68,65,13,54,16,3,6,11,1,17,9,60,229,7,24,7,48,205,13,9,31,29,78,8,31,537,54,2,88,17,8,36,12,4,2,26,12,62,37,22,82,26,80,98,53,52,24,2,7,12,26,35,48,3,156,85,367,29,478,67,72,18,8,1,38,4,15,1,8,17,2,1,7,4,61,56,28,12,18,23,56,21,107,106,83,409,9,227,95,77,74,27,16,25,11,6,2,25,1,21,1,105,1,15,151
+Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68,55,1,27,222,81,2,48,2,9,11,27,11,21,4,4,6,6,45,15,26,97,21,2,2,19,8,5,9,1,79,7,25,9,3,20,4,10,31,13,2,24,17,8,115,46,5,87,82,121,14,8,19,12,63,15,68,65,13,54,16,3,6,11,1,17,9,60,229,7,24,7,48,205,13,9,31,29,78,8,31,537,54,2,88,17,8,36,12,4,2,26,12,62,37,22,82,26,80,98,53,52,24,2,7,12,26,35,48,3,156,85,367,29,478,67,72,18,8,1,38,4,15,1,8,17,2,1,7,4,61,56,28,12,18,23,56,21,107,106,83,409,9,227,95,77,74,27,16,25,11,6,2,25,1,21,1,105,1,15,151,69,11,2,46,12
 Limited AI	17330
 Limited Access	1988,14888,47
 Limited Accessible	12214
@@ -2870,6 +2880,7 @@ Limited Mr Mgqibelo Gasela	4896
 Limited National	13017
 Limited Network Coverage	17260
 Limited Note	4896
+Limited PROJECT DETAILS Data Center	18991
 Limited Participation	16876
 Limited Partner	8612
 Limited Partnerships Act	7845,6872
@@ -2920,7 +2931,7 @@ Limiting Met Need for Family Planning	18441
 Limiting TKP	15663
 LimitlessXOD	12478
 Limitolion	15429
-Limits	1474,2177,3295,1067,2989,26,102,1259,1619,28,153,232,321,103,87,170,240,1630,167,121,520,191,826
+Limits	1474,2177,3295,1067,2989,26,102,1259,1619,28,153,232,321,103,87,170,240,1630,167,121,520,191,826,107
 Limits Even	11130
 Limits of Targeted Cash Transfers Programs	15663
 Limits of Technology Even	12092
@@ -2945,6 +2956,8 @@ M-SAT Limited	13355
 MEDIA LIMITED V. NIGERIAN NATIONAL PETROLEUM	18154
 MEDIUM SIZE ENTERPRISES LIMITED Data Controller	7167
 METHODOLOGY AND LIMITATION OF THE SURVEY	17285
+MEXC Global Limited This Public Statement	18978
+MEXC Global Limited URL	18978
 MIS National Limited	11855
 MOGO Auto Limited	10313
 MOGO Auto Limited. Article	10313
@@ -3041,13 +3054,14 @@ NICO Holdings and Investments Alliance Limited	14674
 NICO Life Insurance Company Limited	14674
 NMB Bank Limited	12252,1149
 NOSE AND THROAT CLINIC LIMITED Data	7167
-NPCI International Payments Limited	12477
+NPCI International Payments Limited	12477,6689
 NPCI International Payments Limited. The Indian	13152
 NRG Wireless Limited	3386
 Nairtime Nigeria Limited	8587,76
 Name and Address. IHS Holding Limited	7198
 Namibia Post Limited	12921,160
 Namibia Power Corporation Limited	12399
+National Cooperative Exports Limited and Seychelles Trading	19063,1
 National Limited	15342
 National Oil Company of Malawi Limited	11089
 National Small Industries Corporation Limited	16256
@@ -3086,6 +3100,7 @@ OLA Energy Kenya Limited	12256
 OPERATING LIMITS A. Operating Limits for Account	5687
 ORC AND PURPLELINE SOLUTIONS LIMITED COMPANY	9728
 ORC and Purpleline Solutions Limited	10248,57
+Oak Turtle Limited	19049
 Ocean Telecom Ghana Limited	3386
 Oger Telecom Limited	78,1
 Ola Energy Kenya Limited	12256
@@ -3141,6 +3156,7 @@ Pesaflow Limited and Olive Tree Limited	2742
 Petro Oil Kenya Limited	12256
 Petroleum Refineries Limited KPSEA Kenya Primary	2775
 Pinnacle Security Limited	12095,224
+Plume Shipping Limited	19049
 Pnet Proprietary Limited	6832
 Poa Internet Kenya Limited	831
 Polytechnics Mauritius Limited	14742
@@ -3267,6 +3283,7 @@ Single-Member Private Limited Company	11939
 Sistema de Pagamentos Instantâneo. Anexo II Limites	5169
 Skills Development Limited	3862
 Skye Astral Limited	3386
+Smart Farming. LIMITATIONS TO THE METHODOLOGY	18910
 Sociedades Limitadas	16859
 Société A Responsabilité Limitée	18151
 Société AIAL Group Limited	2300
@@ -3297,6 +3314,7 @@ Standard Bank Namibia Limited	12252
 Standard Bank of South Africa Limited	2836,2411
 State Informatics Limited	14793,9,45
 Statistique du Burundi. Limitation	13393
+Stepping Stone Investments Limited	19049
 Storage Limitation	1630,3614,6941,117,702,1520
 Storage Limitation Personal	12302
 Story Trinity Technologies Limited	18748
@@ -3362,6 +3380,7 @@ Terminal Multiservices Limited	8278
 Test Schedule of Power Limits	736
 Tetragrammaton International Limited	3862
 Texplast Industries Limited Generation	12256
+Tika Shipping Limited	19049
 Time Limit of Speeches	18436
 Time Limits	12389
 Tizeti Network Ghana Limited	3386

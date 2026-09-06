@@ -1,7 +1,7 @@
 APD. O Gabinete de Recursos Humanos	167
 API Integration for Recurring Debit Orders	15260
 APPROPRIATED RECURRENT BUDGET	13093
-Alocação de Recursos	18788
+Alocação de Recursos	18788,158
 Aplicação de Recursos	18752
 Appropriated Recurrent Expenditure	12922,34
 B. SUMMARY OF RECURRENT BUDGET	12977
@@ -276,12 +276,13 @@ Recursos Minerales	1701
 Recursos Mundiales Forestales. Informe Nacional	16875
 Recursos Nacionais	18779
 Recursos Nacionais MJAPDH Ministério da Justiça	18779
-Recursos Naturais	2816,8711,42,7181,2,1,7,13,4,2,9,3,7
+Recursos Naturais	2816,8711,42,7181,2,1,7,13,4,2,9,3,7,97,1,49,1
 Recursos Naturales	1701
 Recursos Ordinários	752,10031
 Recursos Partilhados	570
 Recursos Propios	4209
 Recursos Próprios	10783,8039
+Recursos Renov	18896
 Recursos Tecnológicos	10783
 Recursos Tecnológicos Partilhados	18774
 Recursos de Numeração	11430
@@ -289,6 +290,7 @@ Recursso Humanos	11569
 Recusa	539,10891,90,4856
 Recusa de Abertura da Conta de Pagamento	11386
 Recusa de Decisões Baseadas	3519
+Recusa de Licen	18896
 Recusa de Ordens de Pagamento	10755,631
 Recusar	11386,3999,3370
 Responsibility Timing Completion Recurrent Measurement CCDB	11905

@@ -73,7 +73,7 @@ Direito de Uso	12137,687
 Direito de Uso Privativo	11514
 Direito. A Administração Pública	11388
 Direito. Banco de Moçambique	6462
-Direitos	14,525,1898,1,378,50,653,7231,1,1,3,605,10,4,19,19,18,27,56,7,8,41,332,410,463,11,35,2524,44,4,85,32,45,140,328,67,1089,1573,11,17
+Direitos	14,525,1898,1,378,50,653,7231,1,1,3,605,10,4,19,19,18,27,56,7,8,41,332,410,463,11,35,2524,44,4,85,32,45,140,328,67,1089,1573,11,17,117
 Direitos ARTIGO	539
 Direitos Anteriores	11443
 Direitos Autor	18837
@@ -85,7 +85,7 @@ Direitos E DOS DIREITOS HUMANOS Humanos	10753
 Direitos Económicos	11547,15,1223
 Direitos Especi	18800
 Direitos Especiais de Saque	18800
-Direitos Fundamentais	794,10658,7336
+Direitos Fundamentais	794,10658,7336,157,1
 Direitos Fundiários	11443
 Direitos Gerais	11430
 Direitos Humanos	220,218,738,92,1313,235,137,653,1,540,309,840,131,236,58,267,72,477,77,26,101,78,125,22,29,315,744,3,202,372,627,1040,452,1,1,1,1,11,7,3,615,3,81,5,5,46,7,3,22,3,502,52,82,3276,217,187,85,16,1021,330,27,1,1411,7,17
@@ -128,7 +128,7 @@ Direitos Sobre Acessibilidade Artigo	12785
 Direitos Título II Direitos Pessoais Artigo	18751
 Direitos da Criança	10750,4727
 Direitos da Criança O Instituto Nacional de Estudos	10750
-Direitos da Mulher	6018,12761,33
+Direitos da Mulher	6018,12761,33,151
 Direitos da Mulher NIF Número de Identificação Fiscal	18779
 Direitos de Autor	8385,10452
 Direitos de Importação	18798,55

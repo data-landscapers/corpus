@@ -50,7 +50,7 @@ Adjratou DIABATA	17899
 Administration Diagnostic Assessment Tool UNFCCC United	16949
 Africa Dialogue	14134
 Africa Diaspora Forum	8458
-Africa Infrastructure Country Diagnostic	14897,645
+Africa Infrastructure Country Diagnostic	14897,645,3345
 Africa Prosperity Dialogues	17582,1
 Africa and Madagascar CHD Country Hydromet Diagnostic	13729
 African Health Diagnostics Platform	13325
@@ -142,6 +142,7 @@ Bakary Diatta	18380
 Bakary Mamadou DIARRA. Article	17982
 Bakary Sidiki DIABY	2808
 Bamako PASSABLE Sibéné DIARRA PASSABLE Youssouf	17812
+Bank AICD Africa Infrastructure Country Diagnostic	18887
 Barasson Diarra	18093
 Base de Artemisina Teste de Diagnóstico Rápido Taxa	10777
 Bassirou Diomaye Diakhar FAYE	5907,12403
@@ -237,7 +238,22 @@ Centros de Diagnóstico	16019
 Cercle de Bandiagara BAN DIAG AR	17828
 Cercle de Niono DIABALY	17828
 Cercle de Yélimané DIAFOUNOU DIONGAGA	17828
-Chad DE4A Country Diagnostic	1028
+Chad DE4A Country Diagnostic	1028,17903
+Chad Digital Country Diagnostic	18933
+Chad Digital Economy Diagnostic	18931
+Chad Digital Economy Diagnostic ACKNOWLEDGEMENTS	18931
+Chad Digital Economy Diagnostic ACRONYM LIST	18931
+Chad Digital Economy Diagnostic CHAD	18931
+Chad Digital Economy Diagnostic EXECUTIVE SUMMARY	18931
+Chad Digital Economy Diagnostic Ecole Nationale	18931
+Chad Digital Economy Diagnostic FOCUS	18931
+Chad Digital Economy Diagnostic INTRODUCTION Table	18931
+Chad Digital Economy Diagnostic MoF Ministère	18931
+Chad Digital Economy Diagnostic RECOMMENDATIONS	18931
+Chad Digital Economy Diagnostic Stimulating	18931
+Chad Digital Economy Diagnostic TABLE	18931
+Chad Digital Economy Diagnostic Table	18931
+Chad Digital Economy Diagnostic UNICEF United	18931
 Chad Systematic Country Diagnostic	10841
 Changamwe and Diani Market	1236
 Chargé du Dialogue	17899
@@ -518,7 +534,7 @@ Diagnostic Assessments	13005
 Diagnostic CAR Table of Summary Findings	15415
 Diagnostic FFOM	15512
 Diagnostic Finding	6832
-Diagnostic Findings	12659,653,2,3562,994
+Diagnostic Findings	12659,653,2,3562,994,1061
 Diagnostic Findings Current State of Digital Financial	16876
 Diagnostic Findings Current State of Digital Infrastructure	16876
 Diagnostic Findings Current State of Digital Platforms	16876
@@ -618,11 +634,11 @@ Diallo and Tapsoba	16384
 Dialo Ssekidde	9781
 Dialog Axiata	15471
 Dialogo	12169
-Dialogue	789,890,2753,1053,1474,1,78,65,19,198,474,49,43,257,94,654,396,55,468,1054,274,659,570,150,243,158,238,14,304,51,1097,318,733,39,29,167,99,397,211,358,97,441,268,62,33,25,83,13,8,29,38,30,24,186,10
+Dialogue	789,890,2753,1053,1474,1,78,65,19,198,474,49,43,257,94,654,396,55,468,1054,274,659,570,150,243,158,238,14,304,51,1097,318,733,39,29,167,99,397,211,358,97,441,268,62,33,25,83,13,8,29,38,30,24,186,10,668,5,157,20,1
 Dialogue Facility	789
 Dialogue Facility Culture	789
 Dialogue Mondial	16491
-Dialogue National Inclusif	16381
+Dialogue National Inclusif	16381,2607
 Dialogue Politique Intensifié	15500
 Dialogue Public-Privé	14616
 Dialogue Social	15383,792,206
@@ -672,7 +688,7 @@ Diamonds	11152,1465
 Diana	3691,10859,70,2,40,862
 Diana Bellie	15901
 Diana Beltekian	11149
-Diana Benoit	17612
+Diana Benoit	17612,1430
 Diana Gichengo	3005
 Diana Imanene	11828
 Diana Imanene INTERPOL	10398
@@ -689,6 +705,7 @@ Diana-Sang-110x150.jpg	6668
 Dianblae	16921
 Diane Coury and Amélie Gagnon	15604
 Diane Coyle	4429
+Diane Djenosem	19026
 Diane Karusisi	8292
 Diane Liliane Bécasine	15744
 Diane Marlyse ESSOUMEYO. MM	16175
@@ -740,7 +757,7 @@ Dias Afrinet	11412
 Dias Santos	11955
 Dias de Ativismo	18820
 Diasonama	10032,196
-Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262,171,140,105,388,55,667,351,1264,21,117,365,154,100,282,493,12,1063,64,149,148,9,34,148,54
+Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262,171,140,105,388,55,667,351,1264,21,117,365,154,100,282,493,12,1063,64,149,148,9,34,148,54,611,13
 Diaspora AI Advisory Group	4528
 Diaspora Advanced Health Programme	7895
 Diaspora Advertisement Airtel Africa Foundation	5802
@@ -810,6 +827,7 @@ Digital Economy for Africa Country Diagnostic	9759
 Digital Economy for Africa Country Diagnostic Tool	2677,15193
 Digital Economy for Cameroon Diagnostic Report. Washington	15480
 Digital Economy for Chad Country Diagnostic	1028
+Digital Economy for Chad Country Diagnostic Report	18931
 Digital Economy for Gabon Diagnostic Report URL	15447
 Digital Economy for Gabon Diagnostic Report. Washington	15447
 Digital Economy for Mali Country Diagnostic Report	17870
@@ -871,6 +889,7 @@ EU and Morocco. The Digital Dialogue	17511
 EU-Morocco Digital Dialogue	17511
 EU-Morocco Digital Dialogue. This Digital Dialogue	17511
 EU-Nigeria Ministerial Dialogue	5499,4
+EU-Seychelles Political Dialogue	18927
 EU-Zambia Partnership Dialogue	13528
 Early Infant Diagnosis FGM	16951
 Ecobank Liberia Managing Director Salamta Diallo	16999
@@ -935,6 +954,7 @@ Fatoumata DIALLO	16708
 Fatoumata DIALLO Salif KANOUTE Daye Taré	17812
 Fatoumata Foula DIALLO	16664
 Fernando da Piedade Dias	539,10,10198,2,6,1,607,21,4
+Fernão Dias	18985
 Figueiredo Dias	9176
 Fintech Fridays Diana Nannono Mugagga	7248
 Florentino Dias	17046
@@ -1048,6 +1068,7 @@ I.1 Diagnostic	15722
 IBSA Dialogue Forum	11579
 ICR Ousmane Diagana Cheick Fantamady	15601
 ICT Sector Unit Aissatou Diallo Finance	15372
+ICT Unit Aissatou Diallo Senior Finance	18887
 ID4D COUNTRY DIAGNOSTIC	15415
 ID4D Country Diagnostic	116,189,10507,10,1712,2881,59,19,1456
 ID4D Country Diagnostic for Liberia	16949
@@ -1070,6 +1091,7 @@ IPP Diaz	12399
 IPSA Core Diagnostic	16902
 ISEP Diamniadio	698
 ISEP Diamniadio. Supports	698
+IV. Diagnostic	18960
 IV. SYNTHÈSE DU DIAGNOSTIC DE L’EXISTANT	17867
 IX.1. Diagnostics	15936
 IX.1. Diagnostics Lors	15936
@@ -1094,7 +1116,7 @@ Inclusive National Dialogue	9227,732,2859
 Inclusive Sector Dialogue and Coordinated Action	12175,1815
 India-Africa Defence Dialogue	16164,113,964,979
 Indian Community and Diaspora	15119
-Indian Diaspora	16275
+Indian Diaspora	16275,2682
 Indian Diaspora and Annexure	13744
 Infections Diabetes	12151
 Inovação Diagnóstica	16019
@@ -1115,6 +1137,7 @@ International Health Dialogue	18691
 International Taekwon-Do Diarisso	17899
 Introduce Tax Dialogues	17011
 Introduction The Country Hydromet Diagnostics	14448
+Irena Marie Ange Dias of Mont Fleuri	19049
 Irrigation Performance Assessment and Diagnostic Tool	12828
 Ismahill Diaby	2630,681
 Ismail DIAWARA ADC EMGA	17841
@@ -1129,6 +1152,7 @@ KCB Bank Group and Diamond Trust Bank	8623
 Kaba DOUCARA Hamet DIAWARA	17861
 Kabungo Diana Mkasanga Financial Management	13392
 Kadiata Malick Diallo	6719,11331
+Kadijah Diallo	19150
 Kadiogo du Balai Citoyen. Sadiya Diallo	8634
 Kambila and Dialakorobougou	18066
 Kana DIARRA Secrétaire	17833
@@ -1206,6 +1230,7 @@ Lors du Global AI Dialogue	7124
 Louis- DIABATE Magloire MBOULA-MABINZOYAN Secrétaire	17899
 Lüderitz Diaz Primary School Hall	13046
 L’ANALYSE DIACHRONIQUE DE LA DYNAMIQUE	8891
+L’ÉTRANGER ET IMPLIQUER LA DIASPORA DANS	18972
 M ETABLISSEMENTS MAMADOU DIAN DIALLO ETS	16623
 M. Abdallah Diallo	18324
 M. Adama DIAMOUNTENE MSDS	17845
@@ -1399,6 +1424,7 @@ Minister of State for Information Diaa Rashwan	16490
 Ministerial Dialogue	5499,2288,2118,8784
 Ministerial Policy Dialogue	7787
 Ministre Dr. Souleymane DIARRASSOUBA. L'atelier	16337
+Ministry of Foreign Affairs and Diaspora	19016,80
 Ministry of Foreign and Diaspora Affairs	7548
 Mle PRENOMS NOMS GRADES DIARRA Adjudant-chef	17982
 Mme Adama Dian Barry	16527
@@ -1548,6 +1574,7 @@ Mr. Dia	7691,2655,6732,14,68
 Mr. Diaw	11808
 Mr. Mahamadou Abdoulaye Diallo	16649
 Mr. Souleymane Diallo	18305
+Ms Diana Benoit	19075
 Ms. Diana Chacha	16371
 Ms. Diana Elvie MFONO HOUNGLA	16285
 Ms. Diane Muhoza	15019
@@ -1621,7 +1648,7 @@ Ousmane DIALLO	15586
 Ousmane DIARRA	17982
 Ousmane DIARRA Président	17828
 Ousmane DIARRA SCHT QRF-EMGA	18003
-Ousmane Diagana	5056,11342
+Ousmane Diagana	5056,11342,2489
 Ousmane Diagana Cheick Fantamady Kante Trina	16436
 Ousmane Diagana Country Director	969,295,9565,135,585,375,3567,20,4,3,35,48,20,81,29,301,864,26,30,897,444,8
 Ousmane Diagana Division Director	17962
@@ -1630,6 +1657,7 @@ Ousmane Diagana Mats Karlsson Sector Manager	16614
 Ousmane Diagana Regional Director	11560,345,3753,1,2,526,197,565,1410
 Ousmane Diagana Regional Integration Director	17862
 Ousmane Diagana Regional Practice Director	3604,12139,39,187,14,161,2054
+Ousmane Diagana Sector Manager	18887
 Ousmane Diagana. Regional Director	15802
 Ousmane Diagana. Regional Practice Director	11965
 Ousmane Diagne	18394
@@ -1664,7 +1692,8 @@ Pointe-Noire. I.2 Diagnostic	15722
 Police Moumouny DIARRA	18032
 Police Tiantio DIARRA	17861
 Policy Dialogue	1818,3510,11524,1812
-Political Dialogue	14658
+Political Dialogue	14658,4269
+Political Dialogue. BACKGROUND	18927
 Porto de Cacine Dia	17147
 Pour Ahmed Karifa Diawara	6080
 Pour Ibrahima Diallo	9845
@@ -1789,6 +1818,7 @@ Senior Economist Mamadou Saliou Diallo	16675
 Serge Oumar Davy DIAWARA	16249
 Sexe Paludisme Diarrhée Douleurs	18014
 Sexual Harassment SCD Systematic Country Diagnostic	16949
+Seychelles. Ms Diana Benoit	19042
 Seydina Oumar DIAKO Secrétaire	17841
 Seydou Issa DIALLO	18032
 Seynabou Dia	15447

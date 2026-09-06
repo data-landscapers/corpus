@@ -282,7 +282,7 @@ Desenvolvimento Inclusivo O Projecto de Audiências Virtuais	10782
 Development Objective PI Productive Inclusion PIM	10768
 Development PPSD Social Income for Inclusion Program	11855
 Diagnostic Tools Inclusion Design Ecosystem Stakeholder	13005
-Dialogue National Inclusif	16381
+Dialogue National Inclusif	16381,2607
 Digital Access and Inclusion	1284,1705,1664,2180,6498,1635,53
 Digital Access and Inclusion Adoption	1284
 Digital Access and Inclusion Component	1228,1761,1664
@@ -461,7 +461,7 @@ Era for Identity Inclusion	2833
 Era of Ethiopia’s Digital Sovereignty and Inclusive	8920
 Establishing Robust and Inclusive	15735
 Establishment of The Financial Inclusion Observatory	10775
-Estratégia Nacional de Inclusão Financeira	795,2179,1846,2346,3606,654
+Estratégia Nacional de Inclusão Financeira	795,2179,1846,2346,3606,654,7588
 Estratégia Nacional de Inclusão Financeira Luanda	7166
 Estratégia Nacional de Inclusão Financeira de Angola	11426
 Estratégia de Inclusão	15694
@@ -644,6 +644,7 @@ GSM Provi- Social Inclusion	10819
 GSMA Digital Inclusion Fund	6748
 GSMA Digital Inclusion Policy Brief	14674
 GSMA’s Inclusive Tech Lab	5820
+Gabinete de Inclusão Financeira	19014
 Gambia. Digital Inclusion	16923
 Gas Delivery Services Availability of Financial Inclusion	15578
 Gates Foundation's Inclusive Financial Systems	12466
@@ -791,7 +792,7 @@ Incl. VAT	11259
 Inclam	4209
 Inclinação	11405
 Incluant	15901
-Include	899,62,924,103,638,1500,722,685,132,767,1116,3173,42,244,546,10,291,3,95,4,52,56,93,84,61,62,136,175,405,15,225,829,292,233,103,41,179,84,73,29,159,138,387,110,242,665,31,32,16,8,128,15,35,8,1213,120
+Include	899,62,924,103,638,1500,722,685,132,767,1116,3173,42,244,546,10,291,3,95,4,52,56,93,84,61,62,136,175,405,15,225,829,292,233,103,41,179,84,73,29,159,138,387,110,242,665,31,32,16,8,128,15,35,8,1213,120,421
 Include AI	4126
 Include Continuous Learning Opportunities	12675
 Include E&S	17114
@@ -811,7 +812,7 @@ Include Satellite Maps Include Live Support	15867
 Include Training Activities	14546
 Include USSD	14997
 Include the Judiciary	17011
-Included	592,123,255,5336,2932,1555,342,746,105,413,654,132,200,756,183,53,169,686,239,1438,69,162,969,552
+Included	592,123,255,5336,2932,1555,342,746,105,413,654,132,200,756,183,53,169,686,239,1438,69,162,969,552,419
 Included CD	34
 Included D-Sub	34
 Included Figure	8605
@@ -865,14 +866,14 @@ Incluir Populações Vulneráveis	15684,5
 Incluiu	15476
 Inclure	10817,3671,1,1,1456,382,217,1300,138
 Incluront	15901
-Inclus	8201,6287,1,1,2995
+Inclus	8201,6287,1,1,2995,1411
 Inclus Dans	14488,1,1
 Inclusao Program Page	11855
 Inclusao Social	11855
 Incluse	10876
 InclusiFI	789
 Inclusif	7621,8505,2281
-Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,215,27,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90,165,328,1,4,9,1,148,35,44,8,213,10,100,118,15,94,294,32,3,37,39,10,96,75,126,47,29,25,66,281,52,59,39,12,34,10,51,33,62,131,5,15,55,10,23,36,85,3,2,4,69,65,105,104,33,24,21,58,87,72,3,90,43,3,65,24,61,164,5,89,29,27,13,102,22,260,66
+Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,215,27,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90,165,328,1,4,9,1,148,35,44,8,213,10,100,118,15,94,294,32,3,37,39,10,96,75,126,47,29,25,66,281,52,59,39,12,34,10,51,33,62,131,5,15,55,10,23,36,85,3,2,4,69,65,105,104,33,24,21,58,87,72,3,90,43,3,65,24,61,164,5,89,29,27,13,102,22,260,66,179,26,109
 Inclusion API	14997
 Inclusion Access	13042
 Inclusion Africa	7283
@@ -893,7 +894,7 @@ Inclusion Financière L’ENIF	13390
 Inclusion Financière Numérique	15936,2199
 Inclusion Financière Service du Développement Digital	18313
 Inclusion Financière TEG TPE Taux Effectif	11944
-Inclusion Financière. Elle	13390
+Inclusion Financière. Elle	13390,5816
 Inclusion Financière. Les Ministères	11944
 Inclusion Financière. L’état	11944
 Inclusion Financière. R5. Encourager	15493
@@ -923,6 +924,7 @@ Inclusion Pillar Infrastructure Platform Objectives	15480
 Inclusion Plan de Développement du Secteur	14622
 Inclusion Policy	11586
 Inclusion Priority	14997
+Inclusion Productive Interventions Réactives	18990
 Inclusion Productive des Jeunes	16012
 Inclusion Productive des Jeunes Vulnérables	16012
 Inclusion Productive des Jeunes Vulnérables Finaliser	16012
@@ -967,6 +969,7 @@ Inclusion and Integrity CBN Fintech Report Policy	4848
 Inclusion and Integrity Policy Insight Series	4848
 Inclusion and Integrity Table Of Contents Executive	4848
 Inclusion and Integrity. CBN Fintech Report	11138
+Inclusion and Learner Protection	19079
 Inclusion and Payment Modernization	5836
 Inclusion and Policy	16942
 Inclusion and Resilience	15658
@@ -975,6 +978,7 @@ Inclusion and Responsibility	14566
 Inclusion and Social Development	11965,3959,263
 Inclusion and Sustainable Growth	11905
 Inclusion and Trust	14897
+Inclusion des Personnes Vulnérables	19134
 Inclusion of Government No Feb	11395
 Inclusion of Local Languages	14664
 Inclusion of Persons	12231,5065
@@ -1214,11 +1218,11 @@ Inclusivo	12809
 Inclusión	17321
 Inclusión Social	1701,15192
 Incluso	11820
-Inclusão	1770,848,3045,5103,17,325,274,31,48,70,31,535,2103,113,1124,247,5,5,444,49,2576,16,5,4
+Inclusão	1770,848,3045,5103,17,325,274,31,48,70,31,535,2103,113,1124,247,5,5,444,49,2576,16,5,4,157,1,68
 Inclusão Assegurar	18853
 Inclusão Digital	2816,6743,7534
 Inclusão Educativa	15694
-Inclusão Financeira	2138,8637,651
+Inclusão Financeira	2138,8637,651,7588
 Inclusão Financeira Av	2138
 Inclusão Financeira EPI	18779
 Inclusão Financeira Precisa De Tornar-se Produtiva	8003
@@ -1392,7 +1396,7 @@ National Financial Inclusion Roadmap Vision	15130
 National Financial Inclusion Secretariat	940
 National Financial Inclusion Steering Committee	940
 National Financial Inclusion Strat-	14897
-National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35,257,255,96,262,624,959,1979,312,47,509,126,900,77
+National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35,257,255,96,262,624,959,1979,312,47,509,126,900,77,84
 National Financial Inclusion Strategy DPI Distributed	12444
 National Financial Inclusion Strategy FIU	18770
 National Financial Inclusion Strategy II	940,3025,10067

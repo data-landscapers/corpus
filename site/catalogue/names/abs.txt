@@ -45,7 +45,7 @@ ABSU-SEP	15429
 ABSU.CEP	15429
 ABSUCEP	15466
 Abs. Change	11955
-Absa Bank	7910,2308
+Absa Bank	7910,2308,8761
 Absa Bank Botswana	3951,5515
 Absa Bank Botswana Regional Head for Physical	9466
 Absa Bank CEO Kenny Fihla	8664
@@ -83,7 +83,7 @@ Absa-led	1951
 Absar	7106
 Absa’s Managing Director	10051
 Absa’s R31.4	10217
-Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263,543,282,20,9,83,15,3,50,884,5,19,79,40,244,293,87,368,124,21,24,224,42,36,27,12,62,132,264,36,44,1,6,62,14,24,3,90,39,189,7,28,101,291,69,211,314,5,15,1,802,97,3,11,14,3,9,19,242,28,115,5,6,22,51,245,1
+Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263,543,282,20,9,83,15,3,50,884,5,19,79,40,244,293,87,368,124,21,24,224,42,36,27,12,62,132,264,36,44,1,6,62,14,24,3,90,39,189,7,28,101,291,69,211,314,5,15,1,802,97,3,11,14,3,9,19,242,28,115,5,6,22,51,245,1,326,25,21
 Absence Forces Delay In Kidnapping Trial	7312
 Absence de Attente	10975
 Absence de Brand	16641
@@ -166,7 +166,7 @@ Abstention	12201,3526,520
 Abstentions	6613
 Abster-se	10755,675,98
 Abstinence	13300
-Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019,397,201,445,327,50,17,683,287,887,628,112,12,1,872
+Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019,397,201,445,327,50,17,683,287,887,628,112,12,1,872,318
 Abstract ABSTRACT	17750
 Abstract ABSTRACT Tourism	17751
 Abstract AI	7451
@@ -213,6 +213,7 @@ Abstract The Liberia	17366
 Abstract The Sierra Leone Annual Agricultural	18525,42
 Abstract The Women's Empowerment and Nutrition Survey	17165,1405
 Abstract The World Bank Enterprise Survey	10862,7976
+Abstract This Starter Data Kit	19146
 Abstract Tropical	16024
 Abstract University	16366
 Abstract Views	6545
@@ -283,7 +284,7 @@ Extended Abstracts	8460
 FDRE Ministry of Education Statistics Annual Abstract	13991
 Federated Repository of Academic Theses and Abstracts	18206
 Financial Management Absence of Human Trafficking	10759
-Firm Level Technology Absorption Index	17870
+Firm Level Technology Absorption Index	17870,1061
 Firm-Level Technology Absorption Index	17870
 Forced Labour Absence of Crime Public Perception	10759,78,1315,188
 Governance Absence of Medium	16884

@@ -31,7 +31,7 @@ Souvent	7374,4324,1608,54,30,2103,219,915,834,517
 Souvent Parfois	13300
 Souvent Parfois Souvent	13300
 Souvent Rarement Jamais NSP	13390
-Souverain	16609
+Souverain	16609,2379
 Souverainete	15584
 Souverainete Alimentaire	14662
 Souveraineté	3125,212,4,79,297,521,507,68,142,422,780,118,100,789,1105,68,165,133,213,200,1157,174,2,163,147,444,2348,2141,413,114,44,19,171,1,143,7,105,1342,4,308,24
@@ -40,6 +40,7 @@ Souveraineté Alimentaire Actes Divers Arrêté	17900
 Souveraineté Nationale	18252
 Souveraineté Numérique	6655
 Souveraineté Saraounia Mangou	18242
+Souveraineté Standards Industrie Consommateurs	19189
 Souveraineté. Ce	16491
 SouverainetéNumérique	18419
 Souveräner Cloud	3787

@@ -725,6 +725,7 @@ REVEGY	15473
 REVENU ET AVOIRS DES MÉNAGES BURKINABÉ	737
 REVENUE	5655,345,8354,382,1480,2250
 REVENUE ADMINISTRATION	17105
+REVENUE ADMINISTRATION ACT	18929
 REVENUE ADMINISTRATION Honourable Speaker	17105
 REVENUE APPEALS ACT	6921
 REVENUE AUTHORITY ACT	6921
@@ -801,10 +802,10 @@ Revelem	18800
 Revelia	18761
 Revelou	5542,1624
 Revenant	3591,3625,132,26,1144,1300,6183,98,70,212,364,1421
-Revenda	11520
+Revenda	11520,7376
 Revendiquée	11499
 Revenez	3297
-Revenge	783,11676
+Revenge	783,11676,6575
 Revenge Pornography	12459,6208
 Revenge Pornography Child Pornography and Related Offences	18675
 Revenir	7078
@@ -824,11 +825,11 @@ Revenu des Personnes Physiques	6954,9045
 Revenu des Personnes Physiques IS Impôt	10712
 Revenu des Personnes Physiques Impôts	16328
 Revenu des Valeurs Mobilières	2342
-Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31,227,22,22,12,108,215,28
+Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31,227,22,22,12,108,215,28,56,22
 Revenue Accounting	12491
 Revenue Accounts	17030
-Revenue Administration	1155,673,9312,1360,448,676,3344,1520,12,77
-Revenue Administration Act	15600,1001,507,1342,16
+Revenue Administration	1155,673,9312,1360,448,676,3344,1520,12,77,352,93
+Revenue Administration Act	15600,1001,507,1342,16,463,168
 Revenue Administration ITAS	18500
 Revenue Administration LIDC	12948
 Revenue Administration Law	15066
@@ -963,6 +964,7 @@ Revenue Reconciliation	18577
 Revenue Reforms	15148
 Revenue Revenue	1154
 Revenue Roadmap	14929
+Revenue SCR	18979
 Revenue Segment	4896
 Revenue Service	11976,653
 Revenue Service PART XII	12629
@@ -1012,6 +1014,7 @@ Revenue for The Three Sectors	11262
 Revenue-Sharing Regulations	16970
 Revenue-based	1828,5970,7407
 Revenue-generating ICT	15164
+Revenue. SCR	18947
 Revenues	573,145,295,931,1639,624,2739,592,3444,154,727,92,278,820,571,244,142,886,69,32,476,1763,673,81,319
 Revenues AVERAGE FUNDING ALLOCATION	15460
 Revenues Net Profit Assets Liabilities Shareholders	1944
@@ -1031,6 +1034,7 @@ Revenus Salariaux	2476
 Revenñus	15999
 Rever	2816,1330,1517,5894,3919,218,3085,22
 Reverend Chris Nissen	10453
+Revers	18896
 Reversal	3503,7290,1162
 Reversal of Last Year's Court Ruling	12227
 Reversals	11955
@@ -1083,8 +1087,11 @@ Service Revenue Annual Revenue Satellite	10407
 Service Revenues NAD	1013,931
 Services Revenue US	10407
 Services SARS South African Revenue Service	11250
-Seychelles Revenue Commission	7020,143,748,3810
+Seychelles Revenue Commission	7020,143,748,3810,7208,25,86,48,8,1,15
+Seychelles Revenue Commission Launches Online Payment	18954
+Seychelles Revenue Commission Prepares	19088
 Shareholders Equity Addition PPE Revenue Net	1944
+Sheryl Barra The Seychelles Revenue Commission	19112
 Sierra Leone The National Revenue Authority	18466
 Sierra Leone's National Revenue Authority	3095
 Software Bill of Materials GRA Ghana Revenue	6936
@@ -1165,6 +1172,7 @@ Tax Revenue System	18577
 Tax Revenue The Ministry of Finance and Economic	17216
 Tax Revenues	10819,4166
 Tax Revenues Collected	18825
+Tax and Customs Agent Board and Revenue Tribunal	19096
 Tax and Non-Tax Revenue	13122
 Tax and Other Revenue	14985
 Tax and Revenue Management System	9253,144,3094,18,864,56

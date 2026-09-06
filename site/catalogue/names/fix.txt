@@ -107,6 +107,7 @@ FIXATION DU PLAFOND D’AUTORISATION DES EMPLOIS	16047
 FIXE OPERATEURS INTERNET	13324
 FIXED	3862
 FIXED AND MOBILE LAST MILE SOLUTIONS	14879
+FIXED BROADBAND WIRELESS ACCESS	18971
 FIXED CHARGES CODES TARIFF PER TRANSACTION	16844
 FIXED INTERNET	6000
 FIXED INTERNET AND DATA REVENUES	11211,51
@@ -154,7 +155,7 @@ Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505,3440,55
 Fixe Taux	998
 Fixe. En	18122
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23,374
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -188,6 +189,7 @@ Fixed Broadband Subscriptions The Total Fixed	2776
 Fixed Broadband Traffic	2776
 Fixed Broadband Traffic Fixed Broadband Q3	2776
 Fixed Broadband Traffic The Total Fixed	2776
+Fixed Broadband Wireless Access	18971
 Fixed Broadband and Optical Distribution Network	14151
 Fixed Budget	15411
 Fixed Budget FM Financial Management FY	15411
@@ -222,11 +224,12 @@ Fixed Internet Traffic	15136
 Fixed Internet Wu	9781
 Fixed Internet and Data Revenues	11211,51
 Fixed LTE	6000,11,233,5015
-Fixed Line	17250
+Fixed Line	17250,1901
 Fixed Line D100	17250
 Fixed Line Data Subscriptions	2776
 Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
+Fixed Line Operators	18887
 Fixed Line Revenue	11211,51
 Fixed Line Subscriptions	6671
 Fixed Links	6946
@@ -377,6 +380,7 @@ Fixtures and Fittings	14736
 Fixée	2014
 Formation Brute de Capital Fixe	9276,8669
 Formation Brute de Capital Fixe FBU	13377
+Framework FBS Fixed Budget Selection FCFA	18887
 Frequency Assignments for Non-Protected Fixed Links	6946
 Frequency Assignments for Non-Protected Fixed Links Band	6946
 Furniture and Fixtures	16978
@@ -391,7 +395,7 @@ General UI Improvement Minor Bug Fixes	15867
 Gigabytes. Fixed	11085
 Gross Domestic Product GFCF Gross Fixed	16996
 Gross Fixed Capital Fomation	18483
-Gross Fixed Capital Formation	2775,12055,2166
+Gross Fixed Capital Formation	2775,12055,2166,2042
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
 Gross Fixed Capital Formation. LNG	16996
@@ -451,6 +455,7 @@ MDSSPA-SG Fixant	17812
 MDSSPA-SG Fixant ARTICLE	17812
 MEN-SG FIXANT LES CONDITIONS D’ACCÈS	17812
 MHz Fixed	12949
+MHz for Broadband Fixed Wireless Access	18971
 MOBILE DATA AND FIXED BROADBAND	11262
 MODALITES D'INTERCONNEXION AVEC LES RESEAUX FIXES	15394
 MTN Fixed	14897
@@ -467,6 +472,8 @@ Mobile Fixed	1013,16857
 Mobile Fixed Mobile Fixed Indi- Indi-	17743
 Mobile Fixed Mobile Fixed Individ- Individu-	17743
 Mobile Network Operators Fixed Network Operators	12395
+Mobile and Fixed Internet	19151
+Mobile and Fixed Internet Data Traffic Fixed	19151
 Mobile and Fixed Network	2776
 Mobile and Fixed Network Breakdown of Off- Q3	2776
 Mobile and Fixed Networks	2776
@@ -574,6 +581,7 @@ UHF Fixed	17250
 UHF Television Fixed Links	17250
 UTILIZADORES DE SERVIÇO DE INTERNET FIXO	11531
 Usage Basket Fixed Broadband	12395
+Use of Fixed Broadband Wireless Access	18971
 Uzbekistan. Fixed-broadband	10844,7279
 V.2. Análise de Despesas Fixadas	18798
 VDSL and Fixed Wireless Access	1818

@@ -14,6 +14,7 @@ Agência Nacional de Protecção de Dados Pessoais. Artigo	18755
 Agência Nacional de Protecção de Dados Pessoais. Tendo	18796
 Agência Nacional de Proteção de Dados Pessoais	3079,15700
 Agência Nacional de Proteção de Dados Pessoais de São	3079
+Agência Nacional de Proteção de Dados Pessoais. CCTIC	18946
 Agência de Protecção de Dados Pessoais	10747
 Alphacypermetrin Pesticides	15027
 Analyse PESTEL	17873
@@ -164,13 +165,13 @@ Le Pesor	15944
 Lei Geral de Protecção de Dados Pessoais	3519
 Lei da Protecção de Dados Pessoais	6926,3821,8,15,1,592
 Lei da Proteção de Dados Pessoais	16251
-Lei de Protecção de Dados Pessoais	539,1898,1,378,1330,1645,2368,2283,1046,2773,4535
+Lei de Protecção de Dados Pessoais	539,1898,1,378,1330,1645,2368,2283,1046,2773,4535,173
 Lei de Protecção de Dados Pessoais Luanda	5791
 Lei de Protecção de Dados Pessoais. A IA	18796
 Lei de Protecção de Dados Pessoais. Artigo	18758
 Lei de Protecção de Dados Pessoais. Esta	18796
 Lei de Protecção de Informações Pessoais	3519
-Lei de Proteção de Dados Pessoais	17670,1109,9
+Lei de Proteção de Dados Pessoais	17670,1109,9,157,1
 Lei de Proteção de Dados Pessoais de Portugal	15509
 Liberdades Fundamentais da Pessoa	12820
 Luminosos PESCA Autorización	4209
@@ -239,6 +240,9 @@ PESSOAS SINGULARES COM ACTIVIDADE COMERCIAL	11435
 PEST and SWOT	16884
 PESTEL	6808,6197,3028,295,313,1232
 PESTEL. The PESTEL	13005
+PESTICIDES CONTROL ACT	18943
+PESTICIDES CONTROL ACT Amendment	18943
+PESTICIDES CONTROLACT	19049
 PESTLE	13005,3963
 PESU151	14997
 PESU152	14997
@@ -285,7 +289,7 @@ Pesca de Guinea Ecuatorial	4209
 Pesca. Artigo	18750
 Pescado	4209
 Pescados	4209
-Pescas	6,2810,4154,3784,9,6,758,1280,17,3310,65,901,1657,3,7,5,1,21,4,68
+Pescas	6,2810,4154,3784,9,6,758,1280,17,3310,65,901,1657,3,7,5,1,21,4,68,29,1
 Pescas Gabinete de Estudos	10769
 Pescas Ministério	11569
 Pescas SEMAA Serviço de Estatística	15535
@@ -356,11 +360,14 @@ Pest-Resistant GM Crops Pilot	17157
 Peste des Petits Ruminants PRAO-MR Projet Régional	17907
 Pesticidas	1701
 Pesticide	17043
+Pesticide Board	19049
 Pesticide Control Unit	13042
 Pesticide Residue Monitoring and Health Surveillance	14818
 Pesticide and Toxic Substance Licence	1988
 Pesticides	8797,416,2056,1120,940,56,1389,253,972,901,143,71,1256
 Pesticides Cereals	17043
+Pesticides Control Act	18943,106
+Pesticides Control Act PART	18943
 Pesticides Recherche	15999
 Pesticides and Toxic Substances	1988
 Pests	18683
@@ -465,7 +472,7 @@ Vantagens Pessoas	18763
 Volume de Negócio Remuneração Média Mensal de Pessoal	18775
 Voto de Pesar	15477
 Women of Granja de Pessubé Environmental	17164
-X No Pest Management	15372
+X No Pest Management	15372,3515
 X Pest Management OP	17441
 Y PESCA	4209
 Zambia Refugee and Pesticides	1988

@@ -53,6 +53,7 @@ Army Taggadum Sudanese Coordination of Civil Defensive	15342
 Aspects Coordinator Strategy	1777
 Assc. Inter-Agency Coordination Officer	10864
 Assemblée Coordinateur	17861
+Associate Course Coordinator	19133
 Ação Coordenada	18781
 B Consejero Pedagógico Grupo B Coordinador	4209
 B. Coordination and International Meetings	12977
@@ -150,7 +151,7 @@ Capital Mobilization PCU Project Coordination Unit	3604
 Cash and Coordination	6947
 Catégories Responsabilités Institutionnels Coordination	15848
 Celador Comisario Grupo D Coordinador Grupo	4209
-Cellule de Coordination	1284,16558,40,17
+Cellule de Coordination	1284,16558,40,17,1002
 Cellule de Coordination des Projets	15936
 Cellule de Coordination du Projet des Villes	16213
 Census County Coordinators and Directors	16921
@@ -219,7 +220,7 @@ Coordenadas	17147
 Coordenadas Geográficas	11405
 Coordenadas Geográficas Coordonnée Geographique R. Autónoma	18757
 Coordenado	8594
-Coordenador	966,8880,1532,12,51,11,4,86,19,26,311,123,3412,1601,291,87,1354,30
+Coordenador	966,8880,1532,12,51,11,4,86,19,26,311,123,3412,1601,291,87,1354,30,149,1
 Coordenador Conceição Jorge	10757
 Coordenador Geral Coordenadora Geral Adjunta José	10757
 Coordenador Justiça	10751
@@ -227,6 +228,7 @@ Coordenador Manuel Artur Catende	10757
 Coordenador Nacional	11525
 Coordenador Profª. Cleunice Moreira Este	12019
 Coordenador Residente	11108
+Coordenador STP Digital	18945
 Coordenador Técnico Arthur Giesbert	10757
 Coordenador Técnico Ildo Cahando	10757
 Coordenador Técnico-adjunto SUBCOMISSÃO DE ADMINISTRAÇÃO	10757
@@ -259,7 +261,7 @@ Coordenação Estatística	11449
 Coordenação Estatística A Coordenação Estatística	11516
 Coordenação Executiva	11378
 Coordenação Geral	10754
-Coordenação Integrada	18788
+Coordenação Integrada	18788,157,1
 Coordenação Metodológica	11406
 Coordenação Sectorial	18781
 Coordenação Teresa Spínola Anália Silva Directoras-Gerais	4044
@@ -295,7 +297,7 @@ Coordinate Border Management	16968
 Coordinate ICT	12384
 Coordinate Kenya	7548
 Coordinate National M&E Reporting	10060
-Coordinate System	12413
+Coordinate System	12413,6491
 Coordinate the Response	5677
 Coordinated	1000,2840,1201,286,4830,763,213,97,32,158,877,432,241,433,278,993,273,395,1542,87,264,54,491,154,347
 Coordinated Australian	4776,1512,75
@@ -327,7 +329,7 @@ Coordinated Twitter	15342
 Coordinated Universal Time	18484
 Coordinated the Development and Launch	13477
 Coordinated the Digital and Future Skills Programme	11230
-Coordinates	940,6598,3591,95,2288,512,923,183,630,384,699,128,128
+Coordinates	940,6598,3591,95,2288,512,923,183,630,384,699,128,128,1886
 Coordinateur	5275,1000,2069,3699,1531,2438,994,855,15,23,350
 Coordinateur Afri-	17812
 Coordinateur National du PN-RAVEC	16697
@@ -367,7 +369,7 @@ Coordinating Unit PRMED Poverty Reduction	12962
 Coordinating and Advisory Public	6832
 Coordinating the Digital and Future Skills Programme	11230
 Coordinating the PC4IR Strategic Implementation Plan	11230
-Coordination	26,1,1,794,118,18,3,9,28,133,30,100,23,395,149,39,12,216,871,23,55,352,107,80,21,257,265,527,253,226,498,47,706,205,244,54,52,9,91,118,11,49,332,26,35,899,187,44,384,145,442,447,356,199,56,44,17,47,89,168,5,2,9,134,2,631,24,4,64,35,95,5,32,65,98,18,3,54,31,100,7,44,47,260,21,23,24,61,21,133,105,11,4,15,11,3,4,2,78,64,186,270,463,24,104,8,16,12,29,28,44,8,103,41,1,43,12,13,9,39,1,1,21,98,25,9,3,37,8,26,178,41,28,62,5,15,8,52,22,5,19,5,35,26,8,12,42,17,16,41,47,53,35,29,72,43,64,43,62,79,318,35,16,26,135,5,13,8,1,7,23,12,16,27,1,145,23,18,427,113,131,14,2,1,16,20,1,3,1,27,49,10,6,37,17,45,48,44,55,62,5,2,3,1,20,7,46,84,16,5,12,42,36,10,2,246
+Coordination	26,1,1,794,118,18,3,9,28,133,30,100,23,395,149,39,12,216,871,23,55,352,107,80,21,257,265,527,253,226,498,47,706,205,244,54,52,9,91,118,11,49,332,26,35,899,187,44,384,145,442,447,356,199,56,44,17,47,89,168,5,2,9,134,2,631,24,4,64,35,95,5,32,65,98,18,3,54,31,100,7,44,47,260,21,23,24,61,21,133,105,11,4,15,11,3,4,2,78,64,186,270,463,24,104,8,16,12,29,28,44,8,103,41,1,43,12,13,9,39,1,1,21,98,25,9,3,37,8,26,178,41,28,62,5,15,8,52,22,5,19,5,35,26,8,12,42,17,16,41,47,53,35,29,72,43,64,43,62,79,318,35,16,26,135,5,13,8,1,7,23,12,16,27,1,145,23,18,427,113,131,14,2,1,16,20,1,3,1,27,49,10,6,37,17,45,48,44,55,62,5,2,3,1,20,7,46,84,16,5,12,42,36,10,2,246,78,10,27,4,48
 Coordination Act	7548
 Coordination Agent for GPE	12175
 Coordination Article	18296
@@ -477,6 +479,7 @@ Coordination of Humanitarian Affairs ONI National	969
 Coordination of Humanitarian Affairs OPV	16941
 Coordination of Humanitarian Affairs PACAD Service Delivery	15731
 Coordination of Humanitarian Affairs PEN7	10776
+Coordination of Humanitarian Affairs PIET Plan Intérimaire	18911
 Coordination of Humanitarian Affairs UNPD United Nations	14896
 Coordination of Humanitarian Affairs UNTF UN Global	13042
 Coordination of Implementation	958
@@ -521,7 +524,7 @@ Coordinoiion	15429
 Coordo	16012
 Coordonateur	13788,1670
 Coordonateur National N	13390
-Coordonnateur	4039,53,77,934,267,537,1818,544,119,119,17,478,1874,122,2592,324,511,1170,90,163,25,63,65,11,198,39,121,43,93,156,922,262,35,60,224,4,122,99,20,2,2
+Coordonnateur	4039,53,77,934,267,537,1818,544,119,119,17,478,1874,122,2592,324,511,1170,90,163,25,63,65,11,198,39,121,43,93,156,922,262,35,60,224,4,122,99,20,2,2,633,47,55
 Coordonnateur Général	14424,3422
 Coordonnateur Général de PREA	14424
 Coordonnateur Général de PREA Balisama ANDRIANTSEHENO	14425
@@ -559,7 +562,7 @@ Coordonnatrice	13549,2463,1918
 Coordonnatrice Projets Filets Sociaux M. André	10812
 Coordonnatrice Résidente du Système des Nations Unies	18160
 Coordonne	10876,2970,1797
-Coordonner	4008,5,1,5392,1470,89,2325,11,480,659,97,957,230,275,371,275,1179,11,1,466
+Coordonner	4008,5,1,5392,1470,89,2325,11,480,659,97,957,230,275,371,275,1179,11,1,466,686
 Coordonné	15783,2377
 Coordonnée	10273,6225,109
 Coordonnées	1187,797,11764,1944,82,6,121,651,454,821,291
@@ -577,6 +580,7 @@ County Civil Registration Coordinator SCRO	12138
 County Intergovernmental Coordination Committee	14594
 County Intergovernmental Coordination Committee. Clause	14594
 County Service Center Coordinators	16970
+Course Coordinator	19133
 Criminal Referral Mechanisms and Prosecutorial Coordination	3861
 Crisis Coordination Unit	6947
 Cross Border Frequency Coordination	6946
@@ -591,6 +595,7 @@ Current Coordination Arrangements	14857
 Curriculum Coordinating Committee. Geography	12975
 Cyber Coordination Centre	5841
 Cybersecurity Coordination	12389
+Cybersecurity Coordination Committee	18903
 Cybersecurity Coordination Requirements	3861
 Células Sectoriales Comisión Nacional de Coordinación	4209
 D Coordinador Regional Grupo D Delegado	4209
@@ -736,7 +741,7 @@ Food Safety Coordination Committee	14818
 Food Security Coordination Agency	18301
 Food Security and Nutrition Coordination Platform Adequate	17285
 Forces de Defense Coordonner	15999
-Fortalecimento da Coordenação	18788
+Fortalecimento da Coordenação	18788,157,1
 Forum of Coordination Unit	1777
 Foster Ecosystem Coordination	14819
 Fragmentation and Inadequate Coordination	13220
@@ -748,6 +753,7 @@ Functions of Regional Coordinating Committee	18467
 Fundraising and Regional Campaigns Coordinator	13124
 Futi Director-Geral Coordenação Teresa Spínola Anália	11421
 G-1 Strengthen Statistical Coordination	17116
+G. Bounding Coordinates	18904
 GAINAfrica. Coordenado	11693
 GBV Coordination and Programs	12977
 GBV. United Nations Resident Coordinator Ms	12626
@@ -766,6 +772,7 @@ Gabinete de Coordenação Estratégica	18773
 Gender Coordination Network	13080,15
 General Coordination Mr TCHANA Joseph Technical	10980
 General Coordinator	10829
+Geographic Coordinate System	18904
 Gestion de Coordonnateur du GTGEAP-ADEA	17830
 Global Smart Education Conference. Coorganisée	11673
 Governance and Coordination	17116
@@ -908,13 +915,15 @@ La Cellule de Coordination	17899
 La Coordination	6383,9075,2403
 La Coordination de Cercle	17861
 La Coordination de Région	17861
-La Coordonnatrice	16194
+La Coordonnatrice	16194,2915
 Lack of Coordinated Governance	12240
 Lack of Coordination	1261
 Lack of Coordination Lesotho	12674
 Lack of Coordination and Comprehensive Information	12376
 Lack of Inter-Agency Coordination	17260
 Land Sector Actors Coordination	14972
+Laurent Besancon Program Coordinator	18887
+Le Bureau de Coordination du Troisième Recensement Géné	18926
 Le Bureau du Coordonnateur Résident des Nations Unies	18160
 Le COORDONNATEUR NATIONAL NJOH MICHELIN	16534
 Le Comité Technique de Coordination	10712
@@ -1008,6 +1017,9 @@ Mouhammad Abdallah DIALLO Coordonnateur du GICC Chef	18324
 Msimanga.The Acting Coordinator	11277
 Multisectoral Coordination	12939
 NATIONAL RESEARCH INSTITUTE COORDINATING COUNCIL	14824
+NCCC National Cybersecurity Coordination Committee OGP	19042
+NCGG Coordinators Dr. B.S. Bisht and Dr	19156
+NCGG and Course Coordinator	19133
 NCM National Coordination Mechanism	17105
 NIIMS Coordination Committee	12139
 NIIMS Coordination Committee. The Principal Secretary	12139
@@ -1027,7 +1039,9 @@ National Children’s Coordination Unit	11134
 National Computer Security Incidence Response Coordination	18457
 National Computer and Cybercrime Coordination Committee	7481,3139
 National Computer and Cybercrimes Coordination Committee	17566,92,88
+National Coordinating Agency for Population and Development	18886
 National Coordinating Body	14031
+National Coordinating Committee	19007
 National Coordinating Office	13404
 National Coordination	5244,7159
 National Coordination Committee	14965,3297,4
@@ -1046,17 +1060,21 @@ National Coordinator of ART-AI Zimbabwe	11677
 National Coordinator of ONDI	9958
 National Coordinator of ZBAN	12376
 National Coordinator. Appoint	1777
+National Cyber Coordination Committee	19007
 National Cyber Security Advisory and Coordinating Council	13346
 National Cyber Security Coordinating Centre	9096,25
 National Cyber Security Coordination Center	18457
 National Cyber Security Coordination Centre	9077,2677
+National Cyber Security Coordination Committee	19007
 National Cyber Security Coordinator	18457
 National Cyber Secwity Coordinator	18457
 National Cybercrime Coordination Centre	2468,2103
+National Cybersecurity Coordinating Committee	19007
 National Cybersecurity Coordination Center NCAC	18485
 National Cybersecurity Coordination Centre	5132,144,5304,109,962,6803,129
 National Cybersecurity Coordination Centre NCRA National	18454
-National Cybersecurity Coordination Committee	2844
+National Cybersecurity Coordination Committee	2844,16163,35
+National Cybersecurity Coordination Committee URL	19007
 National Cybersecurity Coordination Directorate	1000
 National Cybersecurity Coordination Mechanism	6936
 National Cybersecurity Coordinator	1777,8912,7768
@@ -1086,6 +1104,7 @@ National Social Safety Nets Coordinating Office	4794
 National Social Safety-Nets Coordinating Office	12049
 National Statistical Coordinating Committee	13343
 National Statistical System Coordination Unit	16863
+National Statistics Coordination Committee	19008
 National Steering Committee PCU Projects Coordination	16922
 National Technical Coordination	12403
 National Trade Facilitation Coordinator	8845
@@ -1110,6 +1129,7 @@ O Comité de Coordenação	11523
 O Conselho Coordenador de Recenseamento Geral da População	12770
 O Coordenador	10754
 O Gabinete de Coordenação Estratégica	18773
+OFFICE OF COORDINATION OF HUMANITARIAN AFFAIRS	18911
 OGP Coordination Council	11006
 OMAs. Coordination	13220
 ONDI National Coordinator	6058
@@ -1190,14 +1210,15 @@ Project ARPCE Support Coordination Support Chair	15372
 Project Administration A. Coordinator. The Client	13037
 Project Background Coordinates	1988
 Project Conceptual Note PCU Project Coordination	13731
-Project Coordinating Unit	18554
+Project Coordinating Unit	18554,333
 Project Coordination Management	16384
-Project Coordination Unit	3604,2673,5248,887,980,1573,125,282,289,483,470,24,700,624,542,250
+Project Coordination Unit	3604,2673,5248,887,980,1573,125,282,289,483,470,24,700,624,542,250,133
 Project Coordination Unit Cofinanciers and Other External	16614
 Project Coordination Unit PCU	15372
 Project Coordination Unit. Specifically	11863
+Project Coordination Units	18887
 Project Coordination and Capacity Building	12175
-Project Coordinator	309,881,588,89,1737,1975,5385,133,758,7,1,1109,45,315,548,130,566,424,55,369,129,679,382,91,145,76,37,7,129,15,1236,9,203,177
+Project Coordinator	309,881,588,89,1737,1975,5385,133,758,7,1,1109,45,315,548,130,566,424,55,369,129,679,382,91,145,76,37,7,129,15,1236,9,203,177,148
 Project Coordinator Ato Mesfin Dabi	12195
 Project Coordinator Mr. Serign Omar Lowe	17077
 Project Coordinator PIU. Figure	16926
@@ -1208,11 +1229,12 @@ Project Coordinator for FSRP	2872
 Project Coordinator of WARDIP	4359
 Project Coordinator-Zambia Refugee and Host Communities	1778
 Project Coordinator. After the Project Coordinator	1778
-Project Coordinator. Assessment	15372
+Project Coordinator. Assessment	15372,3515
 Project Coordinator. Notable	16705
 Project Coordinator. Student	11315
+Project Coordinator. The Steering Committee	18887
 Project Management Coordination	1284
-Project Management and Coordination	12137
+Project Management and Coordination	12137,6796
 Project Management and Coordination Support	10963,1,4818
 Project Management and Coordination Support The World	10964
 Project Management and Institutional Coordination	14966

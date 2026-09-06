@@ -16,6 +16,7 @@ And.4.- Ny	14408
 Arsène Joseph Nyamien	6109
 Arthur Gichuki Data Processor INST-79588171BFC NYERI	7167
 Assistant Resident City Commissioner for Nyendo Mukungwe	17619
+Ati Nyala	18887
 Attorney General Thabo Chakaka Nyirenda	12309
 Av. Julius Nyerere Campus Universitario	9442
 BENARD OTIENO NYANGA ADUOL Data Controller	7167
@@ -355,8 +356,9 @@ NY. Wang	2093
 NY. World Health Organization	2948
 NY. Xiao	8022
 NY.GDP. PCAP.CD	4127
-NY.GDP.PCAP.CD	14666
-NY.GNP.PCAP.CD	15491
+NY.GDP.PCAP.CD	14666,4265
+NY.GDP.TOTL.RT.ZS	18931
+NY.GNP.PCAP.CD	15491,3440,2
 NY.GNP.PCAP.KD.ZG	16626
 NY10017	13661,873
 NYABENDA Ernest	13341
@@ -486,6 +488,7 @@ Nyakiriza Soleil	13433
 Nyakundi	7609,4529
 Nyakwana Power Company	12256
 Nyala	14933
+Nyala CHAD To Birao Am	18887
 Nyalani Data Controller INST-1197985FF5E KILIFI Kenya	7167
 Nyalazone	10809
 Nyale	7726

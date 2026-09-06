@@ -256,7 +256,7 @@ Broadband Global Area Network	736
 Broadband Internet. Voice and Mobile Broadband Networks	12552
 Broadband Network	3487,8042,3870
 Broadband Network Densification Project	858
-Broadband Radio Access Networks	736
+Broadband Radio Access Networks	736,18235
 Broadcasting Network Development Project	2217
 Broadcasting Networks	12395
 Broadcasting Networks and Services	12971
@@ -350,6 +350,8 @@ Cellular Network Infrastructure and Services	6946
 Cellular Network Operator License	18444
 Cellular Network Operator License The Telecommunications	18444
 Center for International Earth Science Information Network	10835,3,130,902,16,466,1,135,4408,26
+Central African Education and Research Network WaSH	18931
+Central African Regional Fiber- Optic Network	18887
 Centre of Excellence Omidyar Network	289
 Century and Swift Telephone Network	3862
 Cerebras and Palo Alto Networks	1843
@@ -372,6 +374,7 @@ Circle Payments Network	4725
 Circuit-Switched Networks	10721
 Cisco Certified Network Associate	13346
 Cisco Certified Network Associate Duration	17232
+Cisco Certified Network Professional and Microsoft Certified	18950
 Cisco Network Academy Building	13080
 Cisco Networking Academy	2149,948,37,4345,2142,134,492,1461,533,839
 Cisco Networking Academy's One Million Learners	8512
@@ -407,6 +410,7 @@ Company Net Property Enterprise	4896
 Completion Net Enrollment Ratio	16436
 Complex Network Analysis	14006
 Components Adaptive Safety Nets Youth Economic	10963
+Components Power System and Network Strengthening	19083
 Computer Hardware and Networking Technology	14147
 Computer Networks	13356
 Computer Networks and ISDN Systems	3782
@@ -611,6 +615,8 @@ Electricité Actif Net Eneo	10975
 Electronic Communications Network	11768
 Electronic Communications Network Service	5543,3298,2370,51
 Electronic Communications Networks	15149
+Electronic Government Network	18981
+Electronic Government Network. The Software Development	18981
 Electronic Health Information Network	12241
 Electronic Health Information Network Corruption Bureau	12241
 Electronic Mobile Networks	12395
@@ -915,7 +921,7 @@ Harnessing Satellite and Non-Terrestrial Networks Satellite	5245
 Having Public Secure Network	16885
 Health Information Network AeHIN	10970
 Health Integrity Network	11586
-Health Metrics Network	766,1058,8998
+Health Metrics Network	766,1058,8998,8099
 Health Metrics Network. Framework	771
 Health Network	1009
 Health Network Quality Improvement System IAM	14442
@@ -932,7 +938,7 @@ Horizontal Expansion Hunger Safety Net Programme	10763
 Hospital Universitário Agostinho Neto	16028
 Hosts and Network	9123
 Household Resilience Building Through Safety Nets	10763
-Huawei Marine Networks	4676
+Huawei Marine Networks	4676,14256
 Huawei Marine Networks Co	124
 Huawei Marine Networks Co. Ltd	57,13654
 Huawei Marine Networks Successfully Deliver Avassa	13711
@@ -1029,6 +1035,7 @@ Inter-ministerial Safety Nets Coordination Unit	15658
 Interbank Interbank Deferred Net Settlement System	6938
 Internal Networks	34,14918
 Internal Telecommunications Network	13951
+International CAB Network	18887
 International Fact-Checking Network	15342
 International Incoming Fixed Network Voice	6671
 International Journal of Computer Networks and Applications	7278
@@ -1036,6 +1043,7 @@ International Lawyers Assisting Workers Network	8764
 International Network	18472
 International Network of AI Safety Institutes	7548
 International Outgoing Fixed Network Voice	6671
+International the Financing CAB Network	18887
 Internet Exchange Point Network L LBA	16872
 Internet Network Information Center	8460
 Internet Protocol WAN Wide Area Network	18454
@@ -1141,6 +1149,7 @@ Liberian Government's Network	5244
 Liberian Women Empowerment Network	17099
 Libya Trade Network	7159
 Libya Trade Network Board	17291
+Libya-owned Lap Green Networks	18887
 Licence for Network Facilities Services	736
 Licensed Mobile Network Operators	18444
 Licensed Network	15149
@@ -1420,6 +1429,7 @@ NFIS Net International Reserves NIR National	17235
 NG O Asikana X Network FSD	12376
 NGO Non-Governmental Organization NPV Net Present	969
 NGO Nongovernmental Organization NPV Net Present	10768,7081
+NIC Global Networks	19042
 NIGER ADAPTIVE SAFETY NET PROJECT	18104
 NIGER EXTENDED NETWORK	11002
 NIR National Identification Registry NPV Net	16949
@@ -1435,6 +1445,7 @@ NPV Net Present Value PAD Project	15511
 NPV Net Present Value PDO Project	18765
 NPV Net Present Value PaaS Platform	15621
 NREN National Research and Education Network	15164
+NREN National Research and Education Network Office	18931
 NREN National Research and Education Network P2G	17870
 NREN National Research and Education Networks OBR	13312,2
 NRI. Network Readiness Index	15583
@@ -1571,7 +1582,8 @@ Net Interest Income	11131,3892
 Net Interest Income Sources	17235
 Net Interest Margin	17235
 Net International Investment Position NIRU National	2775
-Net Lending	16876,359
+Net International Reserves	19098
+Net Lending	16876,359,1861
 Net Loan	14132
 Net Loans	17235
 Net Loans and Facilities	17236
@@ -1592,11 +1604,13 @@ Net Present Value NRC Norwegian Refugee	15661
 Net Present Value US	15553
 Net Present Values	11965
 Net Primary Productivity	11334
-Net Profit	1944,10011,3329,1128,823,1
+Net Profit	1944,10011,3329,1128,823,1,1743
 Net Profit Allocation	14032
 Net Profit NAD	1013,931
+Net Profit SCR	18979
 Net Profit Total Revenues Provisions First	17236
 Net Profit of USD	15284
+Net Profit. ELECTRICITY	18947
 Net Program	14015
 Net Programme	11994
 Net Project	15663
@@ -1698,7 +1712,7 @@ Netfone CST	18830
 Neth-	17743
 Netherland	11129
 Netherland Figure	11129
-Netherlands	186,64,96,117,162,1,163,44,1,136,66,27,1,72,960,629,199,1523,170,355,203,127,900,315,24,72,236,5,92,252,533,28,127,80,606,140,227,607,6,187,853,122,50,21,38,23,18,284,7,1,416,37,25,223,65,129,91,50,65,21,55,124,43,1,177,536,96,21,27,170,4,465,11,744,145,68,68,15,59,364,47,207,826,29,393,468,172,130,41,86,210,153,76,332,54
+Netherlands	186,64,96,117,162,1,163,44,1,136,66,27,1,72,960,629,199,1523,170,355,203,127,900,315,24,72,236,5,92,252,533,28,127,80,606,140,227,607,6,187,853,122,50,21,38,23,18,284,7,1,416,37,25,223,65,129,91,50,65,21,55,124,43,1,177,536,96,21,27,170,4,465,11,744,145,68,68,15,59,364,47,207,826,29,393,468,172,130,41,86,210,153,76,332,54,232
 Netherlands Ambassador	9546
 Netherlands Antilles	11609
 Netherlands Development Organisation	10592
@@ -1765,7 +1779,7 @@ Netumbo Nandi-Ndaitwah Science Exhibition Hall	13202
 Netwerk24	13461
 Netwerk24.55	13461
 Networicing	11517
-Network	34,202,500,26,24,214,243,14,4,23,186,402,363,356,17,168,528,183,272,23,79,1,264,4,478,68,149,600,252,43,102,278,332,400,59,383,54,215,3,185,400,157,88,32,19,178,91,19,408,437,33,23,68,75,183,95,41,89,77,477,72,16,13,22,93,259,35,31,301,294,3,42,50,3,51,51,104,80,117,6,31,4,188,29,65,230,94,163,17,87,286,235,152,65,381,73,210,71,14,108,11,43,153,45,30,15,19,23,161,32,81,31,7,56,16,123,7,326,826,12,1,15,16,25,205,104,85,102,30,115,288,85,168,72,110,171,9,2,42,2,48,54,82
+Network	34,202,500,26,24,214,243,14,4,23,186,402,363,356,17,168,528,183,272,23,79,1,264,4,478,68,149,600,252,43,102,278,332,400,59,383,54,215,3,185,400,157,88,32,19,178,91,19,408,437,33,23,68,75,183,95,41,89,77,477,72,16,13,22,93,259,35,31,301,294,3,42,50,3,51,51,104,80,117,6,31,4,188,29,65,230,94,163,17,87,286,235,152,65,381,73,210,71,14,108,11,43,153,45,30,15,19,23,161,32,81,31,7,56,16,123,7,326,826,12,1,15,16,25,205,104,85,102,30,115,288,85,168,72,110,171,9,2,42,2,48,54,82,168,4,24
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
 Network Access	10721,4002,2149
@@ -1887,6 +1901,7 @@ Network Operations Centre	3357,6891,57,1948
 Network Operations Chen Li	12474
 Network Operations Policy	10721
 Network Operations Policy Infrastructure	10721
+Network Operations Section	18981
 Network Operations and Regulatory Authority. Describing	5849,12719
 Network Operator	736,2040,12564,1205
 Network Operator Fixed Network Operator Q3	2776
@@ -2005,12 +2020,13 @@ Network-layer APIs	6593
 Network. Cloud	9123
 Network24	13461
 Networked	226,2292,9342,5024,1,85
+Networked Economy Index	18887
 Networked Governance of Citizen Coproduction	5349
 Networked Markets	10819
 Networked Readiness Index	15512,30,50
 Networked Readiness Index PSDMA	15512
 Networked Readiness Index. Global Information Technology	961
-Networking	2816,1310,5495,1462,434,1400,268,839,124,628,1769,322,9,24,47,423,500,14
+Networking	2816,1310,5495,1462,434,1400,268,839,124,628,1769,322,9,24,47,423,500,14,1036
 Networking Academy	10247,2114
 Networking Cloud	6832
 Networking Infrastructure	13185
@@ -2037,6 +2053,7 @@ Networks RestrictedNo	15926
 Networks ZDA Zambia Development Agency ZESCO	12376
 Networks and Cybersecurity	15718
 Networks and Infohighways	18309
+Networks and Models	18904
 Networks and Services. Mutual	10819
 Networks for Regional Digital Integration	3089
 Network’s WhatsApp	8427
@@ -2188,6 +2205,7 @@ Play Video Partner Network	10956
 Poor Network Coverage Leaves Kavango Schools	10465
 Poor Network Quality Nigeria	9563
 Por Carla Neto	14191,4670
+Portable Network Graphics SSDSP Seychelles Spatial	18904
 Portulans. THE NETWORK READINESS INDEX	15583
 Possession and Operation of Communication Networks	18602
 Post Office Fiber Optic Network Installation	15578
@@ -2205,6 +2223,7 @@ Power Africa’s AI Future NetOne Steps	3965
 Power Distribution Network Project	18220
 Power Net ISP	16876
 Power Quality Monitoring Network	12969
+Power System and Network Strengthening	19083
 Power Transmission and Distribution Network Issue	14947
 Power Transmission and Distribution Network Policy Objective	14947
 Power and Fragility of Networked Protest	2518
@@ -2267,6 +2286,7 @@ Public Security Network Project	121
 Public Security Network Project. The Chinese	121
 Public Service Network	16923
 Public Switched Telephone Network	6000,6395,6049
+Public Switched Telephone Network RAP Resettlement	18887
 Public Switched Telephone Network SMS	6000
 Public Telecommunications Network	14883
 Public Works Program Social Safety Net	15601
@@ -2291,6 +2311,7 @@ RURAL TELECOM NETWORK EXPANSION	123
 Radical Technology Network Ltd	3862
 Radio Access Network	1944,584,356,2791,7307,168,82
 Radio Access Networks	5266,5455
+Radio Local Area Network	18971
 Radio and Television Stations and Mobile Network Operators	18485
 Random Write IOPS Network Connectivity	11209
 Rapid Ebola Social Safety Nets	18470
@@ -2314,6 +2335,7 @@ Regional Network Provider MOD Ministry of Defense	1000
 Regional Network for Equity	8479
 Regional Payment Networks NimbaPay	8082
 Regional Trunk Road Networks	12918
+Regional and Global Networks Strategic Objective	19042
 Regular Safety Net Transfers	15658
 Regulate Mobile Virtual Networks	958
 Regulates Internet Service Providers and Mobile Network	5244
@@ -2470,6 +2492,7 @@ Settlement of Net Settlement Instructions	12364
 Settlement of Net Settlement Instructions NSIs	12364
 Sewer Network Operator	17250
 Sewer Network Operator Licence	17250
+Seychelles. Networking	18920
 Shabelle Media Network	15168
 Shabelle Media Network URL	15168
 Shared Agent Network Expansion Facilities	3735
@@ -2610,6 +2633,7 @@ Taux Net de Scolarisation. UNESCO	18100
 Tax Justice Network	10335
 Tax Justice Network Africa	9162
 Tax Justice Network. The International Consortium	3279,85
+TchadREN Chad Research and Education Network TIT	18931
 Teachers LAN Local Area Network LAT	16852
 Tech for Inclusion and Africa Fintech Network	11816
 Technical Global KPIs for Fixed Access Networks	13331
@@ -2674,7 +2698,7 @@ Transmission Network Project	257
 Transmission Networks	10721
 Transmission and Distribution Networks	15702
 Transmission and Distribution Service Network Contracts	12320
-Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
+Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,6416
 Transport Network Access	10759,78,1315,188
 Transport Network Upgrades Project	2884
 Transport Networks Executive Summary	2830
@@ -2757,7 +2781,7 @@ Virtual Private Network	34,539,2588,6294,1577,1332,405,2089,654,1470,848
 Virtual Private Network WIS	18309
 Virtual Private Network WLAN	15512
 Virtual Private Network. O Segurança	18774
-Virtual Private Networks	13313,2059
+Virtual Private Networks	13313,2059,3515
 Virtual Storage Area Network Executive Summary	18577
 Virtual VSAT Network	736
 Vodacom Bolster DRC Rural Network Coverage	2278

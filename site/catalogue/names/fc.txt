@@ -106,6 +106,7 @@ FCC Act	14748
 FCC B	11857
 FCC Building	9680
 FCC Cash Office	18448
+FCC Part	18971
 FCC Rates Department	18448
 FCC Report	4676
 FCC Transform Freetown Agenda	18448
@@ -390,6 +391,7 @@ FCFA. Elle	1990,5901,2930
 FCFA. Elles	3396,12624
 FCFA. En	1299,295,748,134,490,384,46,7479,4768
 FCFA. Enfin	2342
+FCFA. Environ	18988
 FCFA. Est	15643
 FCFA. Este	16969
 FCFA. Event	555
@@ -422,6 +424,7 @@ FCFA. L’analyse	2342,97,15683
 FCFA. L’année	2342
 FCFA. L’argent	2476
 FCFA. L’axe	15580
+FCFA. L’impact	18988
 FCFA. Mais	2280
 FCFA. Malgré	5455
 FCFA. Nonobstant	15643
@@ -431,7 +434,7 @@ FCFA. PERSPECTIVES	2342
 FCFA. Par	2342,7895,5305
 FCFA. Parallèlement	15973
 FCFA. Parmi	2971
-FCFA. Pour	1298,1044,624,8009,4745,2571
+FCFA. Pour	1298,1044,624,8009,4745,2571,836
 FCFA. Pour M. Souleymane Alzouma	18149
 FCFA. Quant	3396,12985
 FCFA. Quelques	10875
@@ -457,9 +460,11 @@ FCFA. Tout	15643
 FCFA. Toutefois	2342,1054,1063,13644
 FCFA. USD	715
 FCFA. Un	2439
+FCFA. Un Plan de Développement	18988
 FCFA. Une	3789
 FCFA. VI.1.1. Analyse Globale du Budget	15848
 FCFA.Selon	8518
+FCFA2	18887
 FCFA96.7bn	1584
 FCFAF	15999
 FCFAHT Détenteur	17833
@@ -549,6 +554,7 @@ Financial Consumer Protection Directive No. FCP-01-2020	12269
 Focus Area FCFA The Central Africa	969
 Food Consumption Scores The FCS	12978
 Forces Armées Centrafricaines FCR Financial Crime	15415
+Framework FBS Fixed Budget Selection FCFA	18887
 Franc CFA FCFA	17962
 Francs CFA FC	15673
 GRAND TOTAL EN FCFA	18286
@@ -603,7 +609,7 @@ Milliards FCFA	419,1923,15482,298
 Milliards FCFA Compensation	10975
 Milliards FCFA Répartition	419
 Milliards FCFA. Figure	10975
-Milliards de FCFA	419,17750
+Milliards de FCFA	419,17750,819
 Milliers de FCFA	17845
 Milliers de FCFA S-SYSTEMES	17845
 Million FCFA	18318
@@ -668,6 +674,7 @@ Summary of Relevant Core Indicators for FCL Qualification	17503
 T-stat FCS Unmatched	12978
 TTC FCFA	16581
 TTC de FCFA	16352
+Task Force FCV Fragility	18931
 Techniques FCFA Franc CFA	12
 Technologies UK FCDO	1090
 Term Explanation FC Fibre Channel FCAPS	13185

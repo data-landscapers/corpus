@@ -98,6 +98,7 @@ Algazeera East	15244
 Algérienne des Eaux	10021
 Alqalabat East	15244
 Alsat-3B Earth	4880
+Altech Stream East Africa	18887
 America East and Asia Saharan	10977
 America Middle East Asia Africa Pacific	10977
 American Low Earth Orbit	4990
@@ -167,6 +168,7 @@ Bauchi North East	11857
 Bauchi North East Secondary	11857
 Bayelsa East	5611
 Bayt.com Middle East Skills Report	17458
+Bel Eau	19140
 Ben Aichouche Yahya EAI Bara Aissa	15690
 Ben Doumi EAC	15690
 Ben Eaton	226
@@ -316,12 +318,13 @@ Common Market for East and South Africa	12286
 Common Market for Eastern	14742
 Common Market for Eastern Africa	1914
 Common Market for Eastern and RSPs	11960
-Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18,44,454,67,33,345,1,43,12,9,76,35,110,335,72,58,87,340,183,71,116,3540
+Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18,44,454,67,33,345,1,43,12,9,76,35,110,335,72,58,87,340,183,71,116,3540,476,228
 Common Market for Eastern and Southern Africa CPI	13452
 Common Market for Eastern and Southern Africa CRD	18322
 Common Market for Eastern and Southern Africa President	12353
 Common Market for Eastern and Southern Africa Summit	3760,9683
 Common Market for Eastern and Southern Africa's Regional	10718
+Common Market for Eastern and Southern Africa. Thanks	18885
 Common Market for Southern and Eastern Africa	14819
 Common Market of Eastern and Southern Africa	13320,2350
 Common Markets for Eastern and Southern Africa	14960
@@ -437,7 +440,7 @@ Dimension Data Solutions East Africa Ltd	6671
 Directeur Central du Ministère des Eaux	16381
 Direction Générale des Eaux	17983
 Direction Nationale des Eaux	17827
-Direction des Eaux	18291
+Direction des Eaux	18291,596
 Director for Operations East	14039
 Disaster Risk Assessment and Early Warning Systems	14818
 Distribution Companies EA Electricity Act ECR	12062,6124,31
@@ -782,10 +785,12 @@ EARTH ONE HEALTH	16649
 EARTHACRE KENYA LIMITED Data Controller INST-292299980FE	7167
 EAS-HS	14488,1,1
 EASEA	6938
+EASEMENT OR RESTRICTIVE AGREEMENT Title No	18881
+EASEMENT Title No	18881
 EASSDP- Electricity Access Scale	12429
 EASSY	6946,7910
 EASSY and WACS	12536
-EASSy	814,1863,1277,2068,209,349,565,2004,610,2842,45,666,2,10,398,259,382,82,278,156,9,396
+EASSy	814,1863,1277,2068,209,349,565,2004,610,2842,45,666,2,10,398,259,382,82,278,156,9,396,3603
 EASSy East African Submarine Cable System	13312,2
 EASSy Eastern Africa Submarine Cable System	13740
 EAST AFRICA	7167,6987
@@ -830,7 +835,7 @@ EASTERN AFRICA REGIONAL DIGITAL	14910
 EASTERN AFRICA REGIONAL DIGITAL INTEGRATION PROJECT	13875,4760
 EASTERN AFRICA REGIONAL DIGITAL INTEGRATION PROJECT-	15055
 EASTERN AND SOUTHERN	13111
-EASTERN AND SOUTHERN AFRICA	2712,3867,254,95,4447,20,833,39,145,14,14,284,303,31,382,616,924,37,14,128,3633,25,34
+EASTERN AND SOUTHERN AFRICA	2712,3867,254,95,4447,20,833,39,145,14,14,284,303,31,382,616,924,37,14,128,3633,25,34,131,101
 EASTERN AND SOUTHERN AFRICA ELECTION	10016
 EASTERN AND SOUTHERN AFRICA Estimated Appraisal	13787,1167
 EASTERN AND SOUTHERN AFRICA Financing	14015,2278
@@ -958,14 +963,14 @@ Eanque	14479
 Eansmission	18457
 Earl Road	4896
 Earlbeam Plaza	3386
-Earlier	10,187,29,1300,116,53,130,18,44,16,170,211,241,148,2,124,275,190,68,10,166,180,62,9,343,30,5,34,30,26,202,643,428,80,16,1,168,41,326,64,94,55,32,261,25,9,236,42,366,55,54,29,59,56,63,11,8,57,82,57,33,327,38,16,27,13,123,75,87,23,50,121,92,101,9,135,167,74,178,39,1,185,247,97,289,179,102,451,10,472,169,24,268,309,240,663,106,94,23,53,1009,157,396,45,309,858,188,775,324,34,104,17,170,7,294,15,7,466,125
+Earlier	10,187,29,1300,116,53,130,18,44,16,170,211,241,148,2,124,275,190,68,10,166,180,62,9,343,30,5,34,30,26,202,643,428,80,16,1,168,41,326,64,94,55,32,261,25,9,236,42,366,55,54,29,59,56,63,11,8,57,82,57,33,327,38,16,27,13,123,75,87,23,50,121,92,101,9,135,167,74,178,39,1,185,247,97,289,179,102,451,10,472,169,24,268,309,240,663,106,94,23,53,1009,157,396,45,309,858,188,775,324,34,104,17,170,7,294,15,7,466,125,305
 Earlier Giga Kenya	1164
 Earlier MIS	1371
 Earliest	2432,108,500,898,716
 Earliest Delivery Date	13185
 Earliest of CAR	2611
 Earliest-dated	5513
-Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378,36,15,110,87,90,4,1,95,8,35,209,383,58,62,39,126,24,26,32,8,88,102,192,66,43,238,7,28,35,2,3,35,43,37,154,18,129,147,162,6,241,548,142,1,44,144,1,25,49,26,62,14,65,26,42,347,51,121,108,311,156,136,156,46,141,73,40,51,171,13,12,18,78,40,321,184,90,14,20,58,142,19,186,132,123,64,66,9,84,10
+Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378,36,15,110,87,90,4,1,95,8,35,209,383,58,62,39,126,24,26,32,8,88,102,192,66,43,238,7,28,35,2,3,35,43,37,154,18,129,147,162,6,241,548,142,1,44,144,1,25,49,26,62,14,65,26,42,347,51,121,108,311,156,136,156,46,141,73,40,51,171,13,12,18,78,40,321,184,90,14,20,58,142,19,186,132,123,64,66,9,84,10,211
 Early Access	8698
 Early Access Ethiopia	12199
 Early Action Protocol	11156
@@ -1051,7 +1056,7 @@ Early Stages Accelerate	4972
 Early Support Programme	14742
 Early Training Projects	18318
 Early Voluntarily Retirement Scheme	12922
-Early Warning	12003,974,118,26,1802,1036,412,576,4,206,1549,81
+Early Warning	12003,974,118,26,1802,1036,412,576,4,206,1549,81,117
 Early Warning A. Disaster Risk Knowledge	12977
 Early Warning Signal Against	5550
 Early Warning System	11134,2505,615,2693,23,187,1152
@@ -1110,7 +1115,7 @@ Earnings and Consumer Prices Ethiopia	2775
 Earnings and Profit	17235
 Earnings and Profitability	17235
 Earplug Class	14921
-Earth	345,786,564,40,77,185,297,210,1,48,16,18,132,95,99,24,199,81,188,134,65,33,4,278,1,338,93,91,159,22,9,89,159,72,7,122,171,169,17,23,68,40,232,175,197,25,48,16,1,1,81,69,53,15,31,59,65,189,25,40,1,6,95,58,205,47,245,98,1,311,173,3,107,34,512,84,1,98,81,53,45,395,272,216,44,152,179,182,205,65,380,30,22,116,349,377,308,396,126,131,7,124,250,96,94,321,91,63,423,143,36,333,45,214,314,268,108,425,19,4,339,104,20,145,77,1222,13,73,113
+Earth	345,786,564,40,77,185,297,210,1,48,16,18,132,95,99,24,199,81,188,134,65,33,4,278,1,338,93,91,159,22,9,89,159,72,7,122,171,169,17,23,68,40,232,175,197,25,48,16,1,1,81,69,53,15,31,59,65,189,25,40,1,6,95,58,205,47,245,98,1,311,173,3,107,34,512,84,1,98,81,53,45,395,272,216,44,152,179,182,205,65,380,30,22,116,349,377,308,396,126,131,7,124,250,96,94,321,91,63,423,143,36,333,45,214,314,268,108,425,19,4,339,104,20,145,77,1222,13,73,113,326,294
 Earth Africa and AWS	10794
 Earth Engine	15622
 Earth Engine GEF Global Environment Facility	17157
@@ -1120,10 +1125,11 @@ Earth National Space Secretariat	1131
 Earth Netherlands	10960
 Earth Networks	16947
 Earth Observa	12006
-Earth Observation	1131,8413,1790,428,244,1088,300,81,275,175,844,246,537,1853,931
+Earth Observation	1131,8413,1790,428,244,1088,300,81,275,175,844,246,537,1853,931,750
 Earth Observation Application	13094
 Earth Observation Data Products and Information Underlying	13094
 Earth Observation Data Utilization	14077
+Earth Observation GIEWS	19054
 Earth Observation Handbook	13094
 Earth Observation Page Content	11334
 Earth Observation Satellite FUNCTIONS	1131
@@ -1173,6 +1179,7 @@ Ease of Doing Business	464,3443,9413,1405,753,2,16,3271,5
 Ease of Doing Business Index	4528,7984,444,5811,5
 Ease of Doing Business Index and Competitiveness	12920
 Ease of Doing Business Portal	3725,182,4300
+Ease of Doing Business Portal. Cabinet	19137,1
 Ease of Doing Business Reforms	13474,211
 Ease of Doing Business Report	11379,4153,3240
 Ease of Doing Business. Fonte	18767,5
@@ -1184,7 +1191,7 @@ Ease-Of-Doing-Business	12922
 Eased	16973
 Easemarket	16883
 Easement	15473
-Easements	15473
+Easements	15473,3408
 Easier	2319,8445,1927,351,253,1271
 Easier Said Than Done	5366
 Easily	12090,197,2710,476
@@ -1194,7 +1201,7 @@ Easler	1885
 Eassy	3559
 East AFRITAC	12500
 East Afri-	13357
-East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12,36,8,44,42,12,102,771,1,1,17,27,252,41,96,104,16,16,12,20,29,37,119,40,38,73,31,152,30,43,1,5,87,296,19,17,47,18,98,25,26,75,957,609,1,499,266,21,70,1,1,99,58,67,819,16,157
+East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12,36,8,44,42,12,102,771,1,1,17,27,252,41,96,104,16,16,12,20,29,37,119,40,38,73,31,152,30,43,1,5,87,296,19,17,47,18,98,25,26,75,957,609,1,499,266,21,70,1,1,99,58,67,819,16,157,25,23,47
 East Africa Addis Ababa	14100
 East Africa Avg	12385
 East Africa BMZ	178
@@ -1304,7 +1311,8 @@ East Africa. United Nations	12138
 East Africa. With Nairobi One Campus	14508
 East Africa. Yet FindMe	10983
 East Africa.The	7955
-East African	178,204,1145,711,428,11,8,2,56,2,29,1,39,172,2,23,402,147,23,74,36,95,151,213,392,61,7,54,87,15,122,28,11,6,14,9,1,29,26,19,407,189,68,68,57,17,183,24,7,4,21,15,57,97,20,122,82,83,163,56,18,32,76,47,63,169,200,170,202,66,51,100,107,140,31,89,192,23,74,48,118,95,504,205,50,294,1,264,73,6,31,86,64,129,41,229,305,154,831,13,13,14,36,12,33,54,59,481,446,2,43,31,236,163,27,131,155,40,13,25,104,115,12,99,92,15,59,1,204,17,36,15,17,33,224,2409,15,969,30,45,16
+East Africa5	18887
+East African	178,204,1145,711,428,11,8,2,56,2,29,1,39,172,2,23,402,147,23,74,36,95,151,213,392,61,7,54,87,15,122,28,11,6,14,9,1,29,26,19,407,189,68,68,57,17,183,24,7,4,21,15,57,97,20,122,82,83,163,56,18,32,76,47,63,169,200,170,202,66,51,100,107,140,31,89,192,23,74,48,118,95,504,205,50,294,1,264,73,6,31,86,64,129,41,229,305,154,831,13,13,14,36,12,33,54,59,481,446,2,43,31,236,163,27,131,155,40,13,25,104,115,12,99,92,15,59,1,204,17,36,15,17,33,224,2409,15,969,30,45,16,304
 East African AI	8334
 East African Agriculture and Climate Change	13331
 East African Artificial Intelligence Policy Outlook	8334
@@ -1542,7 +1550,8 @@ Eastdene Clinic	11980
 Easter Africa Region	12285
 Easter and Western	15342
 Easterby-Smith	2093
-Eastern	236,231,2309,61,133,100,756,15,690,99,50,66,65,38,292,106,17,53,275,183,129,44,409,340,760,913,2039,220,920,345,362,72,1,74,28,936,25,26,37,1067,152,107,116,38,229,178,371,85,106,426,181,13,378,255,78,1208,17,4,11
+Easterly and Levine	18887
+Eastern	236,231,2309,61,133,100,756,15,690,99,50,66,65,38,292,106,17,53,275,183,129,44,409,340,760,913,2039,220,920,345,362,72,1,74,28,936,25,26,37,1067,152,107,116,38,229,178,371,85,106,426,181,13,378,255,78,1208,17,4,11,592
 Eastern Academy	15008
 Eastern Afri	12233
 Eastern Africa	585,631,48,458,1516,2247,611,92,221,306,213,4,14,149,698,157,916,165,906,903,1054,339,152,56,653,516,312,27,90,40,79,400,116,75,161,2,16,65,190,38,121,1541,862,878,10,1
@@ -1561,7 +1570,7 @@ Eastern Africa Regional Digital Integration Project	1216,64,1958,2858,746,86,300
 Eastern Africa Regional Statistics Program for Results	8527,9119
 Eastern Africa Southern Africa Population	11572
 Eastern Africa Sub-region	4103
-Eastern Africa Submarine Cable System	2677,9969
+Eastern Africa Submarine Cable System	2677,9969,6241
 Eastern Africa and Africa	14674
 Eastern Africa and SSA	12385
 Eastern Africa and Southern Africa	16770
@@ -1611,6 +1620,7 @@ Eastern Caribbean	15478
 Eastern Caribbean Central Bank	9179
 Eastern Caribbean Central Bank Governor Timothy	9179
 Eastern Caribbean Supreme Court	18868
+Eastern Central Atlantic	18985
 Eastern Central Atlantic. Supporting	11536
 Eastern Chad Academy	15008
 Eastern Coast of Africa	12151
@@ -1678,7 +1688,7 @@ Eastern and Northern Sudan	15342
 Eastern and South-eastern Asia. Energy	11572
 Eastern and South1-8eastern Asia	11572
 Eastern and Southern	2117,10800,2080,3475
-Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249,367,182,56,303,243,324,117,361,59,171,606,2,44,236,50,737,2926
+Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249,367,182,56,303,243,324,117,361,59,171,606,2,44,236,50,737,2926,532
 Eastern and Southern Africa Anti Money Group	13725
 Eastern and Southern Africa Anti Money Laundering	13522
 Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1,7273,595,418,1392,60,154
@@ -1691,14 +1701,14 @@ Eastern and Southern Africa Multiphase Programmatic Approach	13058,1518,1121
 Eastern and Southern Africa Notice	18711
 Eastern and Southern Africa Phase	13083,842
 Eastern and Southern Africa Program	1039,731
-Eastern and Southern Africa Region	989,7,12747,353
+Eastern and Southern Africa Region	989,7,12747,353,4859
 Eastern and Southern Africa Region Regional Vice	14910
 Eastern and Southern Africa Region. Marked	5620
 Eastern and Southern Africa Region. Regional Vice	12388
 Eastern and Southern Africa Regional Branch	8021
 Eastern and Southern Africa Regional Vice President	14948
 Eastern and Southern Africa Simultaneous	6539
-Eastern and Southern Africa States	14819
+Eastern and Southern Africa States	14819,4336
 Eastern and Southern Africa Water and Sanitation GPL	18322
 Eastern and Southern Africa World Customs Organisation	12454
 Eastern and Southern Africa. BMJ Glob Health	10881
@@ -1721,6 +1731,7 @@ Eastern and Volta Regions	7695
 Eastern and Western Cape	11297
 Eastern and Western Platinum Mines	6683
 Eastern-Arabic	5118
+Eastern-most	18904
 Eastlake	1009
 Eastlea	4896,642,6977
 Eastleigh	12227
@@ -1773,12 +1784,13 @@ Eau Conseiller Technique Administration	17866
 Eau Coulée	14847
 Eau DCT DAF	17866
 Eau DGRI	18291
+Eau Electricité	18988
 Eau En	2342
 Eau Energie	18063
 Eau FCP SODECI	2342
 Eau GCF Green Climate Fund	16037
 Eau ONUDI Organisation des Nations-Unies	17907
-Eau Potable	737,1605,6563,6595,537,1775,30,263,46
+Eau Potable	737,1605,6563,6595,537,1775,30,263,46,821
 Eau Potable AGR Activités Génératrices de Revenus	17907
 Eau Potable AHA	18118
 Eau Potable PN-EAP	737
@@ -1800,6 +1812,7 @@ Eau. CHAPITRE II	17812
 Eau. Conseil Régional	17812
 Eau. DGEAH	13743
 Eau. DURABLE DES RESSOURCES EN EAU	17812
+Eau. Il	19165
 Eau. Le Secrétaire Exécutif	17812
 Eau. MEEH	13743
 Eau. Selon	15828
@@ -1927,7 +1940,7 @@ GCF-SAP CREWS Scaling Up Framework for Early	17065
 GDP Eastern Africa	14897
 GEF-funded Early Warning System	16947
 GHz Early	11857
-GIEWS Earth Observation for Crop Monitoring	16464,708
+GIEWS Earth Observation for Crop Monitoring	16464,708,1882
 GIEWS Global Information and Early Warning System	15118
 GIZ EAC	8546
 GO-1 Gombe North East	11857
@@ -1957,6 +1970,7 @@ Ghana's Eastern Maritime Boundary	16511
 Ghana's Upper East	17596
 Ghanaian Earth Observation	9561
 Global Earth Observations for Crop Inventory Forecasting	13094
+Global Information and Early Warning System	19054
 Global Practice for East and South Africa	14897
 Global Practice. Eastern and Southern Africa Region	12175
 Goals SEACMEQ South and East African Consortium	12975
@@ -2020,6 +2034,7 @@ Hrs East African Time	10616
 Hrs East African Time Time	10616
 Hrs. East African Time	7951
 Hybrid AI Plus Hydrological Modelling for Early	17969
+I Eau	18988
 IBM CSR Leader for Middle East and Africa	14555
 ICTs and North Eastern	6946
 ID and EA	18570
@@ -2030,6 +2045,7 @@ IFC-Orange Middle East and Africa	3984
 IFPRI Middle East and North Africa. Impact	15663
 IGAD and EAC	1216,2022,10637,1037
 IGAD and EAC EARDIP Coordinators	3238
+III IV I II Eau	18988
 III.2.9 Direction Générale des Eaux	10876
 IKEA Foundation and Bezos Earth Fund	13228
 ILO and EAC	2775
@@ -2065,6 +2081,7 @@ Innovative East African Industry	616
 Innovative East African Industry Digitale Kompetenzen	616
 Innovative East African Industry' Crosswalk	616
 Insights Annual Average EAF	11953
+Institute of Early Childhood Development	19096
 Insurance Firms Early-stage	12444
 Integrated Early Childhood Development	16852
 Integrating Earth	12837
@@ -2087,6 +2104,7 @@ Investment Project Financing M&E Low Earth	16144
 JUSTICE Public Perception of Easiness	10835,3,130,902,16,466,1,135
 James Eaton-Lee	10764
 Jane Banda Assistant Director-Internal Audit Eastern	13392
+Jane Heather Loveday of North East Point	19049
 January. The Tahrir Institute for Middle East	15342
 Jarra East	17152
 Jobs Eastern And Southern Africa	18809
@@ -2138,6 +2156,7 @@ La Congolaise Des Eaux	15659
 La Congolaise des Eaux	15969
 Lagos. Earlier	7329
 Lake Basin Mall Eagle Africa Centre	12256
+Land Cover Earth Cover Earth Surface	18904
 Land Disputes Ease As Govt Fixes	5070,1633
 Land Reclamation MENA Middle East	15473
 Latin America Middle East Africa Pacific	10977
@@ -2240,7 +2259,7 @@ Microsoft Excel Ease	9124
 Microsoft Middle East and Africa	5327
 Microsoft's Middle East and Africa Emerging Markets	11777
 Mid East	13897
-Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279,228,6,178,3,31,40,17,1,5,33,62,26,72,108,45,60,165,240,2,112,114,105,68,298,304,60,220,15,111,106,7,22,54,5,1,9,13,82,37,45,8,1331,37
+Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279,228,6,178,3,31,40,17,1,5,33,62,26,72,108,45,60,165,240,2,112,114,105,68,298,304,60,220,15,111,106,7,22,54,5,1,9,13,82,37,45,8,1331,37,240
 Middle East Africa	16799
 Middle East Americans	18879
 Middle East Conflict	11285
@@ -2335,7 +2354,7 @@ Muchinga Northern Eastern Western Copperbelt Male	12431
 Multi Hazard Early Warning Systems	18787
 Multi-Hazard Early Warning	12977
 Multi-Hazard Early Warning System	12977,1471,1689
-Multi-Hazard Early Warning Systems	11191,1498
+Multi-Hazard Early Warning Systems	11191,1498,6371
 Muntean EA	10780
 Mustafa Sheikh Ahmed Dhuxulow. The EAC	5045
 Médecine Préventive EAC Enquête	15580
@@ -2480,6 +2499,7 @@ Pension Supervisors Association EAX East Africa	14997
 Perceived Ease of Use	11927
 Percentage Changes of Wage Employment and Average Earnings1	2775
 Phase3’s East-West	2827
+Philippe Dongier EA Category	18887
 Photovoltaic Earth-Fault Protection Equipment	11269
 Pietermaritzburg Johannesburg Public Library Eastern Cape	11237,21,28
 Pioneer Consulting Middle East	1741
@@ -2553,6 +2573,7 @@ Regional Office for Eastern Africa	14899
 Regional Offices CA Central and Eastern CA	6946
 Regional Vice President for Eastern and Southern Africa	6539
 Regions Supporting Phase Evidence Pre-Alert Early	17157
+Registration District Beneficial Easements	18881
 Registration Earlier	2668
 Regulatory Framework for Low Earth Orbit	15120
 Remote Earth Station Details Type of Earth	736
@@ -2618,6 +2639,7 @@ Senior Vice President of Mastercard East Africa	12273
 Sep-2022 Portal EA Category	11924
 Service and Ordinary. The EAC	12164
 Services EAS Exploitation	15746
+Seychelles East-Africa System	18932
 Seychelles Launches Ease of Doing Business Portal	3907
 Shaping Better Regional Statistics East African	17646
 Shaqodoon's AI-Powered Early Warning System Protecting	15178
@@ -2640,6 +2662,7 @@ Société Easycom	7977
 Société Nationale des Eaux du Bénin	7212
 Société Nationale des Eaux du Bénin SONEB Taxe	15583
 Société Nationale des Eaux du Bénin TCV	15475
+Société Tchadienne des Eaux	18972,16
 Société des Eaux de Guinée	16621,20
 Solwezi East	13387
 Solwezi East MP Alex Katakwe	3182
@@ -2664,6 +2687,7 @@ South East Asia and Australia	4676
 South East Asia and South America	4676
 South East Europe	14932
 South East Primary Health Care Health	11857
+South East and West of Mahé	18947
 South Eastern	16935,192
 South Eastern A South Central North	17127
 South Eastern A South Eastern B	17043
@@ -2845,6 +2869,7 @@ WHO’s Global Early Warning System	17157
 WMO Climate Risks and Early Warning Services	11191
 Wage Earnings	2775
 Warning System FEWS-Niger Famine Early Warning	18198
+Wavel Ramkalawan. The Pakistan East Africa	18932
 Welfare Early Learning Partnership EU European	16952
 West Darfur and East Nile Khartoum	15342
 West East J Soc Sci	17773

@@ -5,6 +5,7 @@ ABC Journey	14072
 ABC Journey. Draft Acts and Codes	14072
 AI Journey	12996
 AJER PUBLISHING JOURNAL BASE	12467
+AL 202601935 Official Journal	19192
 AMMA Campaign Using Error Estimates. Journal	16135
 ANNEE JOURNAL OFFICIEL DE LA REPUBLIQUE	15747,20,318,86,59,33
 ASM Science Journal	6948
@@ -70,6 +71,7 @@ Assault Abuja Journalist for Filming Demolition Site	10034,231
 Association of Maritime Journalists of Nigeria	17808
 Atelier de Savoir' Silver and Gold Adventurous Journey	14794
 Au Journal	15744
+Au-delà du Journal Officiel	19153
 Australian Journal of International Affairs	3782,894
 Australian Journal of Public Administration	5349
 Avance Intra Journalière	13452
@@ -159,6 +161,7 @@ DPI Africa Journalism Fellowship Programme	4690,104,473,54,1993,594,680,1291,209
 DURANT LES DEUX JOURS DE TRAVAUX	16233
 Danie Joubert Hostel Hall	13046
 Data Journalism Bootcamp	16599
+Data Journey	18980
 Data Science Journal	12090
 Data and Policy Journal	2096
 Decentralization Journey	13418
@@ -212,7 +215,7 @@ European Journal of International Relations	4676
 European Journal of Operational Research	9128
 European Journal of Political Economy	1828,9482
 European Journal of Political Research	7886
-European Journal of Public Health	1824,5173
+European Journal of Public Health	1824,5173,11966
 European Journal of Risk Regulation	11050,90,6640
 European Journal of Tkaczyk	9237
 European Journal of Training and Development	4432
@@ -234,6 +237,8 @@ Female Journalist	18582
 Female Journalists Association of Liberia	16984
 Femme Homme Caractéristique Radio Télé- Journal	13300
 Fertility Rate TJ Tera Joules	2775
+Flash Info Journée Lancement Enrolement Biometrique	19024
+Flavien Joubert	18927
 Foundation For Investigative Journalism	7176
 Freelance Investigative Journalist. Cameroon	2388
 GARP International Journal of Library	8022
@@ -453,7 +458,7 @@ Jour Ouwable de Banque	15399
 Jour de Fixation	15901
 Jour-	8605
 Jourceli Tiny	18841
-Journal	311,8,116,417,334,19,43,89,249,1,237,13,253,6,422,1199,653,1,1,1,1,1,1,27,18,44,75,1,43,1,1,1,1,282,830,207,682,370,193,140,54,413,8,254,1,581,2,1,144,379,61,42,589,183,689,183,2,16,6,2,19,54,164,17,331,80,79,360,234,38,189,19,22,39,165,214,172,683,147,480,50,1,4,25,1,1,10,37,809,1,7,6,2,17,15,1,10,5,3,7,6,5,1,7,16,1,5,4,2,21,19,6,11,1,9,11,6,2,5,22,4,4,6,4,4,1,4,1,4,3,45,30,1,1,8,3,19,10,12,3,20,13,6,6,56,15,38,29,3,10,94,2,8,33,5,15,48,1,22,6,53,5,12,1,15,11,21,27,22,23,3,43,12,31,160,19,112,132,117,161,581,25,32,17,2,3,2,1,1,5,1,1,1,4,4,4,1,19,9,4,25,3,80,21,29,74,181,9,15,7,14,68,2,1,24
+Journal	311,8,116,417,334,19,43,89,249,1,237,13,253,6,422,1199,653,1,1,1,1,1,1,27,18,44,75,1,43,1,1,1,1,282,830,207,682,370,193,140,54,413,8,254,1,581,2,1,144,379,61,42,589,183,689,183,2,16,6,2,19,54,164,17,331,80,79,360,234,38,189,19,22,39,165,214,172,683,147,480,50,1,4,25,1,1,10,37,809,1,7,6,2,17,15,1,10,5,3,7,6,5,1,7,16,1,5,4,2,21,19,6,11,1,9,11,6,2,5,22,4,4,6,4,4,1,4,1,4,3,45,30,1,1,8,3,19,10,12,3,20,13,6,6,56,15,38,29,3,10,94,2,8,33,5,15,48,1,22,6,53,5,12,1,15,11,21,27,22,23,3,43,12,31,160,19,112,132,117,161,581,25,32,17,2,3,2,1,1,5,1,1,1,4,4,4,1,19,9,4,25,3,80,21,29,74,181,9,15,7,14,68,2,1,24,455,19,71,164
 Journal Alousséni SANOU	18003
 Journal Burkinabè	10874
 Journal Citation Reports	11898
@@ -464,7 +469,7 @@ Journal Impact Factor	12486
 Journal Inspections	18032
 Journal International of Lingua	8022
 Journal Les TEG Indiqués	15901
-Journal Officiel	233,1,202,112,666,17,1890,32,1102,148,17,147,5641,179,518,1,15,45,15,599,213,1532,390,94,16,4,48,46,491,3,9,5,1,31,20,127,251,1,1,7,23,18,191,24,51,172,20,6,3,5,16,1,9,7,12,8,28,21,33,12,3,27,37,5,1,75,3,22,19,5,20,31,85,67,90,17,134,100,2,22,33,42,241,1,3,1,9,20,6,1161,3,23,10,4,7,17,10,3,9,2,13,29,90,63,6,5,9,1,65,152,96
+Journal Officiel	233,1,202,112,666,17,1890,32,1102,148,17,147,5641,179,518,1,15,45,15,599,213,1532,390,94,16,4,48,46,491,3,9,5,1,31,20,127,251,1,1,7,23,18,191,24,51,172,20,6,3,5,16,1,9,7,12,8,28,21,33,12,3,27,37,5,1,75,3,22,19,5,20,31,85,67,90,17,134,100,2,22,33,42,241,1,3,1,9,20,6,1161,3,23,10,4,7,17,10,3,9,2,13,29,90,63,6,5,9,1,65,152,96,472,15,1,89,147
 Journal Officiel Algérie	16230,104
 Journal Officiel Algérie URL	15360,96
 Journal Officiel Consultation	15369
@@ -757,9 +762,11 @@ Journée Mondiale des Réfugiés	16732
 Journée Mondiale des Télécommunications	3675,9626,2339
 Journée Météorologique Mondiale	18212
 Journée Nationale	3337,4,1472,2351,11063,40
+Journée Portes Ouvertes	19165
+Journée Pédagogique	18911
 Journée Régionale de Burkina Faso	17978
 Journée des Métiers	16712
-Journées	2908,3,205,476,335,1896,873,637,396,1558,55,6334,209,402,1555,112,151,181,5,33
+Journées	2908,3,205,476,335,1896,873,637,396,1558,55,6334,209,402,1555,112,151,181,5,33,713
 Journées Nationales de Vaccination LNSP	15685
 Journées du Droit Numérique	3675
 Journées du Droit du Numérique	6863
@@ -778,6 +785,7 @@ LA POPULATION Journal	15524
 LOIS JOURNAL OFFICIEL DE LA REPUBLIQUE	15767
 La Journée	3591,5696,55,8885
 La Journée Africaine	9638
+Lancement des Journées	19037
 Le Jour	302,1112,16,714,1384,2591,370,4486
 Le Jour's	302
 Le Journal	16360
@@ -815,6 +823,7 @@ Mauritius' AI Journey Mauritius	14566
 Measuring Kenya's Financial Inclusion Journey	12227
 Media Academy for Journalism and Communication	9313
 Member Countries of ESARBICA. Journal	12325
+Minister Joubert	18957
 Ministère Journaliste UE	15712
 Monsieur Boubacary Amadou Journal	17982
 Monsieur Younoussa Journal	17982
@@ -851,7 +860,7 @@ OBTIGATIONS DU JOURNAI.ISIE ET DES ORGANES	15397
 ONG Journal	15848
 Observatory of Killed Journalists.8 C. THE RIGHT	17970
 October. Journal of Online Trust and Safety	15342
-Official Journal	7,1800,3811,2203,34,3280,21,361,389,2090,3023,874,823
+Official Journal	7,1800,3811,2203,34,3280,21,361,389,2090,3023,874,823,476
 Official Journal Page	3604
 OfÞcial Journal	15901
 Old Oyo Empire. European Journal of Management	1248
@@ -870,7 +879,8 @@ Pakistan Journal of Life and Social Sciences	7759
 PalArch’s Journal of Archaeology of Egypt	4432
 Pan-African Survey and Noted Trends. Journal	1243
 Partenariats Public-Privé. Journal Officiel	16037
-Patrick Joubert	10420
+Patrick Joubert	10420,8743
+Patrick Joubert Seychelles	19163
 Peer Reviewed Journal Articles	12926
 People Journey	17364
 Personal Development Interdisciplinary Journal	4432
@@ -924,6 +934,7 @@ Rwanda Journalist Association	12333
 Rwanda Law Journal	6343
 Rwanda. Rwanda Journal of Engineering Science Technology	14769
 Rwanda’s Financial Inclusion Journey	15130
+Région. Jour	19150
 République Gabonaise Journal Officiel	15778
 République Gabonaise. Journal Officiel	16037
 République du Congo Journal	16047
@@ -942,7 +953,7 @@ SOMMAIRE JOURNAL OFFICIEL DE LA REPUBLIQUE	15943
 SSRN Electronic Journal	2096,1714,1539,351,2059
 STP Horaires Activités Présentateurs Jour	2966
 SW Cameroon. African Journal of Traditional	16996
-Safety of Journalists	14073,2945,952
+Safety of Journalists	14073,2945,952,960
 Saharan Africa. African Journal of Agricultural Research	16996
 Scholars Journal of Engineering and Technology	7759
 School Management. South African Journal of Education	11927

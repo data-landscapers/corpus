@@ -136,6 +136,8 @@ Identifier USD United States	16996
 Includes USD	4474
 Includes USD50	9806
 Income USD15	11134
+India Announces USD	19063,1
+India's Special Economic Package of USD	19166
 Injaro USD	1047
 Inkind USD	18581
 Internally USD	10864
@@ -155,7 +157,9 @@ LRD Value USD Vol Indicator LRD	17235
 LRD Value USD Vol USD	17235
 LRD and USD	17257
 Large Above USD	14206
+Line of Credit and USD	19166
 Line of Credit of USD	15457
+Lines of Credit and USD	19063,1
 Liquid Intelligent Technologies USD	618,3843
 Liquid Telecommunications USD	621
 Local SMS Economy Notes Notes USD	15471
@@ -176,6 +180,7 @@ Mds USD. En	15542
 Mento Labs’ USDm	8215
 Micro USD	14206
 Milhões USD	18757
+Milliards USD	18988
 Milliers USD	16641
 Million USD	2667,2988
 Million USD DESIGNAÇÃO	18757
@@ -190,6 +195,7 @@ Mobilizing USD	15204
 Moov Africa USD	2454
 Moove's USD	1136
 NRS USD-referenced	9570
+Nations Children’s Fund USD United States	18931
 Nations High Corporation Commissioner for Refugees USD	12297
 Nations USD United States of America	11863
 Net Profit of USD	15284
@@ -224,6 +230,7 @@ Reaching USD	7139
 Remaining USD	4450
 Rice USD	17235
 Rubber USD	17235
+Rupee-denominated Line of Credit and USD	19060
 Rwanda USD	14997
 Rwanda. The USD	811
 SAUE USD	13433
@@ -240,6 +247,8 @@ Shareholder’s Equity Profit Margin USD	1013
 Small and Medium Above USD	14206
 Social Affairs USD United States	11960
 South Korea Invests USD	12275
+Special Economic Package of USD	19063,1
+Special Economic Package' of USD	19060
 States Centers for Disease Control and Prevention USD	18668
 States The USDM	17157
 Sudan. The Ministry of Tele- USD ARPU	14897
@@ -261,6 +270,8 @@ USD Appui	15673
 USD Augmentati	16037
 USD Availability	10244
 USD Avg	13868
+USD BAD	18967
+USD Besoins	18988
 USD CAPEX COST	16854
 USD Cabo Verde	11895
 USD Cancellations	16187
@@ -268,6 +279,9 @@ USD Category A M	18541
 USD Chart	15478
 USD Co-financing	18581
 USD Coin	9709
+USD Comparatif	18988
+USD Composante	18942
+USD Couvre	18942
 USD Department	12490
 USD Dollar	15474,19
 USD Dollars	15724
@@ -279,6 +293,7 @@ USD Financements	18316
 USD Finnfund	18693
 USD Fonds	15673
 USD Formation	15673
+USD Fourniture	18942
 USD Fuente	16969
 USD GDP	11572,689
 USD GIInnldnooebvxaal2t0io2n4 Nigeria	11884
@@ -286,7 +301,9 @@ USD GROSS DOMESTIC PRODUCT PER CAPITA	17101
 USD HT	10400
 USD IDA	14540
 USD IGInnldnooebvxaal2t0io2n4 Rwanda	12351
+USD Il	18967
 USD Implantation	15673
+USD Indicateurs	18988
 USD MINECOFIN Development	14997
 USD MJ	11572
 USD Million	1013,931,13467,2030,575,516,5
@@ -299,12 +316,15 @@ USD Montant	14539
 USD Namibia	12355
 USD Open Competition	17180
 USD Orange	15474
+USD Orientations	18988
 USD PASSE	15673
 USD PPP	11563,3557,351
 USD PROJECT STAGE	16854
 USD Per	12515
 USD Per Kg	12515
 USD Per Litre	12515
+USD Pilier III	18967
+USD Plus	18967
 USD Price	11857
 USD Programme	15673
 USD Programme Transformer	15673
@@ -318,9 +338,11 @@ USD Responsibility Number	13938
 USD Réseau	18316
 USD SLMet	18578
 USD Sector Revenues	14897
+USD Sous	18942
 USD The Total Entrepreneurship Activity	14897
 USD The VWAP	4896
 USD Transactions	4517,2461
+USD URL	19164
 USD USD	18581
 USD USDA McGovern-Dole	15673
 USD United States Dollar	8590,3738

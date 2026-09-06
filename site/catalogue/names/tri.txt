@@ -39,6 +39,7 @@ Arbitration Tribunal.’’. Amendment	11279
 Arthur Lilas Trimua	8755
 Ashwin Trikamjee	2626
 Assemblée Triennale de RUFORUM	15682
+Authority and Tribunal	19067
 Authority's Tripoli	5904
 Auto-scaling Triggers Implement	11952
 Autoridade Tributária	8731,1352,2719,3110,110,112,8,57,288,2288
@@ -56,7 +57,7 @@ Beneficios Fiscais Novos Códigos Tributários Desdobrável	12018
 Bermuda Triangle	10955
 Boletín Estadístico Trimestral	16898
 Breach Triage And The Insurer’s First	6632
-Bulletin Trimestriel	18365
+Bulletin Trimestriel	18365,561
 Bussnes Tribunal de Cuentas	4209
 C. Legal Operational Policies Triggered	13331
 C. ON THE COMESA-EAC-SADC TRIPARTITE ARRANGEMENT	13440
@@ -67,6 +68,7 @@ CERTIFIFN TRIF FfiDY	15999
 CHIFFRES CLÉS Résultats du Trimestre T1	18013
 CHIFFRES DU TRIMESTRE	16722
 CLINICAL TRIAL NETWORK	7845
+COMMUNICATIONS TRIBUNAL	18934
 COMPANIES TRIBUNAL AND PROCEDURES APPLICABLE	3714
 COMPONENT Drought Definition Trigger Criteria Example	17157
 CONFEMEN PATO Plano de Ações Trienal Orçamentado	11557
@@ -200,6 +202,7 @@ Employment Relation Tribunal	14847
 Employment Relations Tribunal	14830,17
 Employment Relations Tribunal E-judiciary	14847
 Employment Relations Tribunal. The Tribunal	14742
+Employment Tribunal	18979
 Energy and Petroleum Tribunal	14422
 Environment and Land Use Appeal Tribunal	14847
 Environmental and Social Standards Triggered	12253
@@ -415,12 +418,14 @@ National Health Insurance Tribunal	16896
 National Tribal Dance Festival	18016
 Nationaux Trimestriels	17842
 Need for A Tri-Partite Approach	16876
+Needed Resource Number of Estimate Trips First	18887
 News Trident’s Ghana JV Projects US	9977
 Nguyen Trieu	4611
 Nigerian Tribune	2318
 Nigerian Tribune Provided	7179
 Norway South-South Trilateral Cooperation	15500
 Note Trial Note Trial Implementation	1009
+Note Trimestrielle Economique T1 2026 Publié	19043
 Number of Staff Weeks Number of Trips Comments	15411
 O Conselho Consultivo Tributário	15526
 O Código Geral Tributário	15359
@@ -444,6 +449,7 @@ PAR TRIMESTRE Crédits	17833
 PAR TRIMESTRE INDIVISIBLE MIN	17833
 PASEO MARITIMO TRIBUNE	17006
 PDG de Trident	2602
+PIB Trim	19043
 PIB Trimestral	16898
 PIB Trimestral En	16898
 POLÍTICA DE TRIBUTAÇÃO	11397
@@ -580,6 +586,7 @@ South-South and Triangular Cooperation Convention	8674
 Special Tribunal	11273
 Sports Arbitration Tribunal	14742
 Spotlight Initiative Innovation Award. Trindade João	12147
+Staff Number of Trips Comments Weeks	18887
 Staff Weeks Number of Trips Comments Task	15372
 Stanley Tried	15478
 Stanley Trief	15478
@@ -672,6 +679,8 @@ Tax Appeals Tribunal	14415
 Tax Appeals Tribunal Act	14415
 Tax Dispute Resolution and Tax Tribunal	8669
 Tax Tribunal	12598,31
+Tax and Customs Agent Board and Revenue Tribunal	19096
+Tchad Bulletin Trimestriel	18926
 Technopolis Dispute Resolution Tribunal	6161
 Telecommunication Companies TOR Terms of Reference TRIPS	236
 Telecoms Minister Karim Bibi Triki and High	1842
@@ -757,7 +766,7 @@ Tribunais. Compete	18796
 Tribunais. Desses	10751
 Tribunais. Foi	10752
 Tribunais. Quando	10752
-Tribunal	11,528,2580,541,40,14,2748,442,17,422,502,132,344,33,1687,348,362,1,721,55,13,990,18,410,65,36,401,1,62,183,708,2,3,2,3,113,189,15,101,547,23,184,2,4,124,40,16,264,42,28,333,37,42,78,9,255,572,141,244,19,14,11,190,49,157,481,2,4,31
+Tribunal	11,528,2580,541,40,14,2748,442,17,422,502,132,344,33,1687,348,362,1,721,55,13,990,18,410,65,36,401,1,62,183,708,2,3,2,3,113,189,15,101,547,23,184,2,4,124,40,16,264,42,28,333,37,42,78,9,255,572,141,244,19,14,11,190,49,157,481,2,4,31,111,288
 Tribunal A.180	12549
 Tribunal A.181	12549
 Tribunal Administratif	15727
@@ -798,6 +807,7 @@ Tribunal de Contas Angola	11473
 Tribunal de Contas O Tribunal de Contas	16487
 Tribunal de Contas da União	11473
 Tribunal de Contas de Angola	11473
+Tribunal de Contas de São Tomé	18977
 Tribunal de Contas. ARTIGO	17100
 Tribunal de Contas. CAPÍTULO V PESSOAL	167
 Tribunal de Contas. Every	1339
@@ -834,7 +844,8 @@ Tribunaux	3381,10061,1096,867,179,59,79,214,2175,199,13,4
 Tribunaux Administratifs	14538,1189
 Tribunaux Pour	15405
 Tribunaux de Commerce	11958
-Tribunaux de Grande Instance	13442,193,4466
+Tribunaux de Grande Ins	18926
+Tribunaux de Grande Instance	13442,193,4466,976
 Tribunaux de Grande Instance de Ziguinchor	18310
 Tribunaux de Grande Instance. L’autorité	18101
 Tribunaux. Toute	18327
@@ -889,7 +900,7 @@ Trier	1005,12722,1917
 Trigger	3714,2709,865,80,4807,214,1601,3167
 Triggered	1284,2172,148,4832,2393,135,453,1915,922,322,460,622,486,531,247
 Triggered After Electricity Demand Reaches Record	14801
-Triggers	6423,5752,707,155,953,1934,1233,1694
+Triggers	6423,5752,707,155,953,1934,1233,1694,36
 Triggers of Success	8029
 Trigo	2816
 Trihal	14897
@@ -925,7 +936,7 @@ Trimestral Ganadería	16898
 Trimestral INEGE Intensidad	16898
 Trimestral Ministerio de Pesca	16898
 Trimestrales	16898
-Trimestre	13313,273,2663,1623,528,2,1
+Trimestre	13313,273,2663,1623,528,2,1,640
 Trimestre Categoria Empresarial Categoria Doméstico	18791
 Trimestre Domínio Conteúdos Tempos Diagnóstico	16325
 Trimestres	7655,11136

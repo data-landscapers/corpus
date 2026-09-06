@@ -61,6 +61,7 @@ Beneficial Owner Register for Partnerships	11276
 Beneficial Owner Workpage	11276
 Beneficial Owner Workpage. Click	11276
 Beneficial Ownership	170,11080,1139,4648,146,1373
+Beneficial Ownership Act	18907,124
 Beneficial Ownership Data Standard	17037
 Beneficial Ownership Declaration	12041
 Beneficial Ownership Disclosure Form	7951,215,5019,342,1553,2248,6
@@ -448,7 +449,7 @@ Owendo	2325,13122,526,64,138,207,72,7
 Owendo Port	15478
 Owerri	18243
 Owerri North Local Government Area	18243
-Owing	27,943,848,170,1237,212,3942,47,2887,1272,2165,1086,96,672,1362,191,301,155,2,862
+Owing	27,943,848,170,1237,212,3942,47,2887,1272,2165,1086,96,672,1362,191,301,155,2,862,475
 Owino	12227
 Owino R	17773
 Owiso	12227
@@ -477,7 +478,7 @@ Owned Entity SONA State	11250
 Owned Media	13929
 Owned Rented	15473
 Owned and Operated	13461
-Owner	587,10601,1775,74,1997,458,1622,995,200,139,93
+Owner	587,10601,1775,74,1997,458,1622,995,200,139,93,497
 Owner Cybersecurit	6432
 Owner Degrees Minutes Seconds East	736
 Owner Equity	11955
@@ -496,7 +497,8 @@ Owners Engineer	15659,310
 Owners Engineer and Independent Engineering	15870
 Owners and Operators	1000
 Owners and Operators CII	1000
-Ownership	582,2193,387,421,270,119,704,1076,669,2,142,56,319,397,184,238,2406,530,282,152,106,375,247,354,58,1,8,64,41,6,11,3,6,2,360,795,12,420,144,600,343,159,3,226,285,143,942,10,5,58,8,2,56,55,90,13,555,765,5,360
+Ownership	582,2193,387,421,270,119,704,1076,669,2,142,56,319,397,184,238,2406,530,282,152,106,375,247,354,58,1,8,64,41,6,11,3,6,2,360,795,12,420,144,600,343,159,3,226,285,143,942,10,5,58,8,2,56,55,90,13,555,765,5,360,79,204
+Ownership All	18904
 Ownership Characteristics	12445
 Ownership Chinese	4563
 Ownership Data Standards	12050

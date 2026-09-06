@@ -81,7 +81,7 @@ Finance Corporation IFR Interim	11380
 Finance Corporation IFR Interim Financial Report	11560
 Financial Instruments and IFRS	10793
 Financial Management IFMIS Integrated Financial Management	18488
-Financial Management Information System IFR Interim	15372
+Financial Management Information System IFR Interim	15372,3515
 Fintech Pan-Africa IFU	501
 First IFR	12595
 Fonds Européen de Développement IFORD	18291
@@ -99,7 +99,7 @@ General IFC Inquiries	16776
 Global Director Ede Jorge Ijjasz-Vasquez Iffath	15731
 Glossary of Terms Abbreviation Expansion IFMIS Integrated	12917
 GoM and IFIs	17870
-Google and IFC	16942,928
+Google and IFC	16942,928,1061
 Government Procurement Media Center IFMIS News	12322
 Group IFC International Finance Corporation IPF	6539
 Guinea Ecuatorial IFN Inventario Nacional Forestal	16875
@@ -117,6 +117,7 @@ ICT Grievance Redress Service IFC Higher-Level	3604
 IDA IFC ISP IT ITU LMI	15553
 IDA International Development Association IFC International	11560,6944
 IDP Internally Displaced Person IFR Interim	10829
+IDPs Internally Displaced Persons IFC International	18931
 IFA2017yearinreview	226
 IFAC International Federation of Accountant IFR Interim	11855
 IFAC Pan African Federation of Accountants	18825
@@ -127,6 +128,7 @@ IFAD International Fund for Agricultural Development ILO	10841
 IFAD LOAN NO	14546
 IFAD and AgDevCo Ventures Limited	17679
 IFAD and World Bank	9650
+IFADEM	18942
 IFADEM Initiative Francophone	15541
 IFADÉlevage de Barkoissi	8303
 IFAENF INSTITUT DE FORMATION EN ALPHABÉTISATION	18143,27
@@ -164,6 +166,7 @@ IFC Country Advisory Program Lead Bobby	17153
 IFC Country Advisory and Economics	14017
 IFC Country Manager	17870
 IFC Country Manager for Comoros	3067
+IFC Country Officer	18931
 IFC Debt Facility	893,1322
 IFC Disruptive Technologies and Funds	1264
 IFC Division Director	16443
@@ -177,7 +180,7 @@ IFC IFC	7095
 IFC Industry	11469
 IFC International Development Association IFR Interim	15515
 IFC International Finance Corporation	18614
-IFC International Finance Corporation IFMIS Integrated	7548,5764,2,2058
+IFC International Finance Corporation IFMIS Integrated	7548,5764,2,2058,3515
 IFC International Finance Corporation IFR Interim	11549,4072
 IFC Kenya	9079
 IFC LP	379,303
@@ -218,7 +221,8 @@ IFC and Equity Bank Kenya	12297
 IFC and Equity Bank of Kenya Partner	12297
 IFC and Google	1243
 IFC and Governance and Financial Solutions	11380
-IFC and MIGA	2291,1313,7864,1,6,3152,1032,324,161
+IFC and MIGA	2291,1313,7864,1,6,3152,1032,324,161,2743
+IFC and MIGA. IFC	18887
 IFC and MIGA. Recognizing	11469
 IFC and MIGA. The Government of Malawi	1704
 IFC and Proparco	516,1034,693
@@ -286,7 +290,7 @@ IFM de Niono	8577
 IFM de Sikasso	8577
 IFM de Ségou. Le Secrétaire	8577
 IFM-EFEP de Bamako	8577
-IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22,351,38,30,1,199,282,1411,14,4,7,2,57,7,21,41,68,59,1,175,50,54,129,812,129,12,29,47,1,84,162
+IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22,351,38,30,1,199,282,1411,14,4,7,2,57,7,21,41,68,59,1,175,50,54,129,812,129,12,29,47,1,84,162,142
 IFMIS Academy About Academy Training Schedule	12322
 IFMIS Accounting Module Operationalized	18359
 IFMIS Comments	17079
@@ -416,6 +420,7 @@ Ifelade Ayodele	7577
 Ifelodun	10049
 Ifelodun and Boripe	10049
 Ifeloju Alakija- President	7329
+Ifenath	18972
 Ifenthaler	8602
 Ifeoma Clementina Ikenye	16996
 Ifeoma Ilechukwu	8301

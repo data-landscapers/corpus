@@ -115,6 +115,7 @@ CBE Head Office	11134
 CBE Headquarters	11131,3
 CCN Head Office	13046
 CEB's Head of Communications	14801
+CEMAC Heads-of-State	18887
 CID Headquarters	16602
 CIRT Head of CIRT	14539
 COMESA AUTHORITY OF THE HEADS	13440
@@ -248,6 +249,7 @@ Education and Headquarter	16927
 Educational Attainment of Household Head	15244
 Educational Attainment of Household Head The Patterns	15244
 Egyptian Tax Authority Head Rasha Abdel	10448
+Electoral Commission of Seychelles Headquarters	19049
 Electoral Commission of Zambia Head Office. Members	13593
 Electrification Dev. Desk Head Ato Melaku	12195
 Elina Tembo Head Teacher	13392
@@ -307,6 +309,8 @@ HEAD Disaggregating the S-MPI	15244
 HEAD OF GOVERNMENT	4049,1303,10214,616,365
 HEAD S-MPI	15244
 HEAD TITLE	13093
+HEADING	18985
+HEADINGS	18985
 HEADLINE	4534
 HEADLINE LABOUR FORCE INDICATORS BMTHS	12600
 HEADLINE OVERREACHES ITS OWN BODY	3478
@@ -415,7 +419,7 @@ Head of Communications	9691,1072,4431,892
 Head of Communications and Information Services	7391,5188
 Head of Communications and Societal Purpose	4085
 Head of Consumer and Commercial Banking	9449
-Head of Cooperation	10113,1872,771,822,420,4702
+Head of Cooperation	10113,1872,771,822,420,4702,209
 Head of Cooperation and Chargé	10592
 Head of Cooperation and Deputy Ambassador	13578
 Head of Corporate Affairs	7317,1885,1939
@@ -436,6 +440,7 @@ Head of Departments	12699,271
 Head of Digital Business	15042
 Head of Digital Financial Services	4038
 Head of Digital Inclusion	11003
+Head of Digital Trade	19067
 Head of Dispute and Litigation	3945
 Head of Division	11289,4612
 Head of Division East and Central Africa	9707
@@ -608,7 +613,7 @@ Header The World Bank Implementation	6833
 Headgear	13385
 Headgear. Clothing	16900
 Headhunted Lack	1940
-Heading	6921,4256,2184,1482
+Heading	6921,4256,2184,1482,4142
 Heading H.S Code No. Description Unit	6921
 Heading H.S. Code Excisable Goods Statistical	14843
 Heading HS Code	6921
@@ -633,7 +638,7 @@ Headmistress of Wesley Girls Basic School	8384
 Headoffice Road	4896
 Headphones and Screen Reader	6946
 Headquarter	6946,11514
-Headquartered	620,2980,1030,47,45,2752,1624,463,2905,171,972,138,8,6,1,3,47,2,1199,186,11,52,743,509,28,496,348,81,811,83,228,98
+Headquartered	620,2980,1030,47,45,2752,1624,463,2905,171,972,138,8,6,1,3,47,2,1199,186,11,52,743,509,28,496,348,81,811,83,228,98,404
 Headquarters	587,958,127,1,1,792,183,1,1919,1853,1030,1528,214,1582,358,330,878,158,97,339,34,6,196,138,51,1061,141,31,166,1085,988,81,1228,55,398,7,96
 Headquarters Abuko Station	14260
 Headquarters Address	16219
@@ -646,8 +651,10 @@ Headquarters INSP	14760
 Headquarters P114	5636
 Headquarters P3	1663
 Headquarters P315	1668
+Headquarters and Commission	18985
 Headquarters and Other Offices	14409
 Headquarters and Regional Offices	12970
+Headquarters of SADC	19185
 Headquarters. Every	12452
 Headquarters. Geneva	13300
 Headquarters. Global Center for Adaptation	17257
@@ -698,7 +705,7 @@ Heads of School Certificate Examination Centres and Heads	13477
 Heads of Sections	14761
 Heads of Sectors Heads of Committees Representatives	15604
 Heads of Service	7659
-Heads of State	1264,440,5808,4814,201,1882,191,857,1222,248,24,487,21,123,903
+Heads of State	1264,440,5808,4814,201,1882,191,857,1222,248,24,487,21,123,903,700
 Heads of State and Government	3583,3869,2309,408,339,311,1821,800,561,723,121
 Heads of State and Government Summit	13673
 Heads of State and Government and High Representatives	17323,1
@@ -724,6 +731,7 @@ Health Management Information System HQ Headquarters	18512
 Helena Fernandes. Headcount	1526
 High Court of Sierra Leone and Head	7777
 HoH Head	17127
+HoIH Head of Information Holder ICT Information	19042
 Home Affairs Head of Communication Service	9076
 Hossam Kandeel Head of Mobile Money and Business	10666
 Household Head	15244,1677,193,13
@@ -748,6 +756,7 @@ Import Cover Annual Headline Inflation Currency	11131
 Independent Electoral Commission of Lesotho IEC Head	12652
 India. The Benin Head of State	15457
 Industry Is Heading Telecom	16809
+Information Officers and Head of Information Holders	19042
 Interim Head of State Yacouba Isaac Zida	10838
 International IDEA's Regional Head of Programmes for Africa	12756
 Introduction Benin Ghana GSMA Head Office	10822
@@ -875,6 +884,7 @@ Ordinary Summit of Heads of State and Government	10169,4676
 Ordinary Summit of SADC Heads of State and Government	10169
 Ousmane Ndiaye ANACIM Head of Meteorological Operations	18309
 Outputs Codes Headings	16927
+Outside HEADING	18985
 PHC. Region Total Male Headed Female	18443
 POLITICAL HEADWINDS AFFECTING THE NGFS	13532
 POSTAL ADDRESS Head of Project	12557
@@ -890,7 +900,7 @@ Platinum and Headline Sponsor	15748
 Police General Headquarters	13361
 Police General Headquarters' Operations Department	13448
 Police General Headquarters. The Legal Services	13361
-Police Headquarters	3817,1137,31,511,939,6328,1997,21,2922,783,101
+Police Headquarters	3817,1137,31,511,939,6328,1997,21,2922,783,101,544
 Police Headquarters Police Information	14781
 Police Headquarters The Police Headquarters	14760
 Police Headquarters. Mr. Abraham Bitew	14126
@@ -945,6 +955,7 @@ SENWELO MODISE PHENYO KEDISITSE Head of Technology	12232
 SEX OF HOUSEHOLD HEAD	15244
 SLMet Headquarters the National Forecasting Centre	18578
 SRA Headquarters	15478
+SRC Head Office	19112
 SS Head Of Government Ministry of Digital	1885
 STARTING WITH THE HEAD OF HOUSEHOLD	17127
 SUMMARY OF CAPITAL EXPENDITURE BY HEADS	13093
@@ -969,6 +980,7 @@ Sex of Household Head Female-headed	15244
 Sex of Household Head Male	15244
 Sex of Household Head Sudan	15244
 Sex of Household Head The MPI	15244
+Seychelles Head of State	19140
 Sinaye Dlamini Head IT Wandile Mathonsi	11131
 Smart Africa Heads-of-State Summit	3874
 Socioeconomic Characteristics of Household Head	15244
@@ -983,11 +995,13 @@ Steering Committee Heads	13977
 Stellenbosch University Sikhumbuzo Fakudze Head Legal	11134
 Strategic Emerging Industries Business Headquarters. Under	6485
 Strategic Head of Emergency Department Managing Medical	8603
+Subtotal HEADING	18985
+Subtotal Outside HEADING	18985
 Sudan Censored Headcount Ratios	15244
 Sudan Uncensored Headcount Ratios	15244
 Suggested Composition Head	12359
 Summit of EAC Heads of State	11806
-Summit of Heads of State	5045
+Summit of Heads of State	5045,14140
 Summit of Heads of State and Government	14267,2008
 Summit of Heads of States	1814
 Summit of SADC Heads of State and Government	10321,2319
@@ -1035,6 +1049,7 @@ Unit Head of Public Registration Registration Criteria	14045
 United Nations Headquarters	9651
 University of Eswatini Sinaye Dlamini Head Information	11134
 University of Southern Queensland Refiloe Mamogobo Head	11134
+Us Ms. Noussira Daman Head of UniSey	18998
 VENCATAGADOO Sandya Head Home Economics	14770
 VISA's Head of Risk	3112
 VP and Head of Google Global Networking and Head	13839

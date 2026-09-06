@@ -61,7 +61,7 @@ E. Estimating Cameroon’s Tax Revenue Potential	10997
 EAU NON POTABLE	14488,1,1
 EDT Poto- Poto	15848
 EDT Poto-Poto	16425
-Eau Potable	737,1605,6563,6595,537,1775,30,263,46
+Eau Potable	737,1605,6563,6595,537,1775,30,263,46,821
 Eau Potable AGR Activités Génératrices de Revenus	17907
 Eau Potable AHA	18118
 Eau Potable PN-EAP	737
@@ -259,7 +259,7 @@ Potenciar	1701,11076,2615,84
 Potencias	1701
 Potencias Investidores	18753
 Potenciação	11406
-Potential	418,58,2,4,214,93,112,260,11,656,268,1088,1,419,47,475,313,86,3,717,34,386,108,926,949,142,175,298,28,1018,22,789,583,78,31,7,33,4,5,58,44,1,31,2,136,163,121,449,7,51,32,232,22,36,7,174,17,68,423,42,13,133,191,239,438,107,129,255,277,56,107,75,141,234,101,7,233,1154,56,3,16,7,14,3,30,41,62,15,43,52,155,506,36,56,77,331,108,53,92
+Potential	418,58,2,4,214,93,112,260,11,656,268,1088,1,419,47,475,313,86,3,717,34,386,108,926,949,142,175,298,28,1018,22,789,583,78,31,7,33,4,5,58,44,1,31,2,136,163,121,449,7,51,32,232,22,36,7,174,17,68,423,42,13,133,191,239,438,107,129,255,277,56,107,75,141,234,101,7,233,1154,56,3,16,7,14,3,30,41,62,15,43,52,155,506,36,56,77,331,108,53,92,264
 Potential AI Policy and Innovation	4528
 Potential Adverse Impact Risk Management Strategy	15604
 Potential AidData	474
@@ -329,7 +329,7 @@ Potential of Telecommunications	16626
 Potentially	767,1061,10500,4786,1356
 Potentially Inappropriate Prescribing	14622
 Potentially Sick Employees	12253
-Potentiel	235,10477,4762,19,246,2133,407
+Potentiel	235,10477,4762,19,246,2133,407,844
 Potentiel Scientifique	15653
 Potentiel de Terre FAD Fonds Africain de Développement	18103
 Potentiellement	17867

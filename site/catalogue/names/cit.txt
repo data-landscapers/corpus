@@ -143,6 +143,7 @@ CAB CITCG	15372
 CAMION CITERNE	13300
 CAPEX Capital Expenditures CE Citizen Engagement	15621
 CAR Central African Republic CE Citizen	969
+CEO Citizens Engagement Platform Seychelles	18950
 CEO of Felei Tech City	18551
 CFAA Country Assistance Strategy CITCG Communauté	15372
 CHAPTER II CITIZENSHIP AND NATIONALITY	18597
@@ -164,6 +165,7 @@ CIT and Article	12500
 CIT and PIT	10997,3988
 CIT and PIT Revenue	10997
 CIT and VAT	12500
+CIT-N’Dj	19013
 CIT0001 2057	4432
 CIT0001 2077	2093
 CIT0001 2134	2948
@@ -423,7 +425,7 @@ Cameroon’s CIT	10997
 Cape Town City	5032
 Cape Town City Hall	5199,9474
 Cape Winelands Central Karoo City of Cape	8999
-Capital City	12253,38,875,782,4537
+Capital City	12253,38,875,782,4537,402
 Capital City Lilongwe	12953,52
 Capital and Digitally Informed Citizenry Enhance Digital	12453
 Card Issuance Senior Citizens Documents Required	14741
@@ -447,8 +449,8 @@ Citadelle Mall	14847
 Citado	12844
 Citalic	18448
 Citant	8452,3627
-Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112,257,49,23,4,10,46,130,92,106,116,3,410,559,524,157,76,618,122,104,119,1,180,641,177,203,120,85,116,559,387,213,42,3
-Citation Act	15562
+Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112,257,49,23,4,10,46,130,92,106,116,3,410,559,524,157,76,618,122,104,119,1,180,641,177,203,120,85,116,559,387,213,42,3,311,11,37,34,68
+Citation Act	15562,3332
 Citation Act No	14449
 Citation Adetayo	9256
 Citation Agence Nationale	7439
@@ -529,6 +531,7 @@ Citationforthcoming	5700
 Citationn.d	3782,1918
 Citations	5064,1481,238,367,1,272,5464,18,382,1123,12,13,14,4013
 Citations Citations	15622
+Citations and Acknowledgement The LICENSOR	18904
 Citação	10760,17,599
 Cite Administrative du Mali Facebook Youtube X-twitter	17822
 Cite Botha	12467
@@ -634,6 +637,7 @@ Citizen Engagement Component	2989
 Citizen Engagement FOUR PILLARS	18476
 Citizen Engagement Indicator	11855,4332
 Citizen Engagement Indicator MIS	11855
+Citizen Engagement Platform Seychelles	19173
 Citizen Engagement Scoring Board	13646
 Citizen Engagement Stats Public I-32	10785
 Citizen Engagement Survey	12241
@@ -827,7 +831,7 @@ Citizens' NINs	3938
 Citizens' Track for AI	7320
 Citizens. Broadband	6539
 Citizenship	899,980,1208,1040,129,1277,663,1373,698,1701,90,1160,46,21,654,17,30,202,139,73,197,1540,584,2200,1676,9
-Citizenship Act	1867,12,109,3262,283,2747,3706,611,408
+Citizenship Act	1867,12,109,3262,283,2747,3706,611,408,5907
 Citizenship Act No	12449
 Citizenship Advisory Panel	11264
 Citizenship Board of Zambia	13294
@@ -875,6 +879,7 @@ Citoyen Calendrier	13341
 Citoyen Initiative	13341
 Citoyen LISTE DES TABLEAUX Tableau I.1	13341
 Citoyen Nous	13341
+Citoyen Première	19201
 Citoyenne	13748
 Citoyenneté	3396,5341,5062,2697,111,100,1154
 Citoyenneté Responsable	18100
@@ -922,6 +927,7 @@ City Hill Hotel	13689
 City Institute	10004
 City Khartoum	14881
 City Local Area State City Government	11129
+City Mall	19021
 City Manager	11231
 City Manager and Mayor’s Office. Community Groups	17099
 City Name	12360
@@ -971,10 +977,12 @@ City of London	4448,3601,605
 City of Maputo	12201
 City of Matlosana	11286
 City of Mbombela	11286
+City of Panaji	18957
 City of Paris and French Ministry for Europe and Foreign	789
 City of Praia	15590
 City of Tshwane	8603,2569,20,29,65,10
 City of Tshwane Metropolitan Municipality	2948
+City of Victoria	18957
 City of Windhoek	3634,5042,46,3677,616,82
 City-wide	16916
 City-wide Infrastructure and Service Delivery	16614
@@ -1053,6 +1061,7 @@ Cyberstrategy. CITCG	15372
 D D CIT and VAT	12500
 DAS for Three Cities	12276
 DC. Public Citizen	5692
+DEM. REP. SELECTED CITIES AND TOWNS	18887
 DEMOCRACY FOR THE CITIZENS PARTY Data	7167
 DEPARTMENT IMMIGRATION CONTROL AND CITIZENSHIP	12947
 DES ASSOCIATIONS ET DES CITOYENS AUX	15397
@@ -1319,6 +1328,7 @@ Jinja Resident City Commissioner	6121
 Journal Citation Reports	11898
 Juba City Council	3046,1051
 Justification Le Portail Unique du Citoyen	13751
+K. Citation	18904
 KENEMA CITY	9450,9026
 Kadiogo du Balai Citoyen	8634
 Kadiogo du Balai Citoyen. Sadiya Diallo	8634
@@ -1371,6 +1381,7 @@ Konza Technopolis. Kampala’s Safe City CCTV	4563
 Kufra City	16956
 Kwara Smart City	18155
 Kwekwe City Council	9437
+L Koumra Sarh SELECTED CITIES	18887
 LET THE CITIZEN KNOW	15927
 LIBERTES ET DEVOIRS DES CITOYENS Article	15405
 LILONGWE CITY COUNCIL LWB	12253
@@ -1384,6 +1395,7 @@ Land-Based Financing Options for Cities	15473
 Launched the Citizen Support Portal. Secretary	13384
 Laying the Foundation for Digital Citizenship	3313
 Le Balai Citoyen	8634
+Le CIT-N’Dj	19013
 Lenticular Printing Applicable for Senior Citizen FOURTH	14740
 Les Sèmè City Hubs	5512
 Lesotho Internet Exchange Point City	12743
@@ -1577,6 +1589,7 @@ PS Immigration and Citizen Services Dr. Belio	14518
 PS for Immigration and Citizen Services	4631
 PUBLIC CITIZEN	5692
 Pakistan Citizen’s Portal	16949
+Panama City	18975
 Paris Cité	11784
 Parlez-nous de CITADEL	2732
 Partenaires CITADEL	15494
@@ -1720,6 +1733,7 @@ Senior Citizens	13474
 Serves Citizens Opening	8367
 Services Citoyens Scalables	3857
 Services. InfoHighway and Citizen Support Portal	14750
+Seychellois Citizens	19041
 Singapore City	12972
 Single Window Citizens Engagement Services	15878
 Single Windows Citizenship Engagement Service	16600

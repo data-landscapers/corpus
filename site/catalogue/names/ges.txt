@@ -82,10 +82,12 @@ Caractère Personnel La Société de Gestion	16641
 Cellule de Gestion	10712
 Cellule de Gestion des Marchés Publics	11905,1396,2358
 Cellule de Gestion des Projets	15569
+Cellule de Gestion du Projet	18967
 Centre National de Gestion des Catastrophes	16621
 Centre de Gestion	16621,1362
 Centre de Gestion Agréé	15797,202
 Centre de Gestion des Monts Nimba	16627
+Centres de Gestion Agréés	18988
 Centro de Gestão de Tecnologias	12785
 Champions Gestion	2342
 Champions Opportunité de Gestion	2342
@@ -198,6 +200,7 @@ DRH Gestion	18297
 DU COMITE DE GESTION Section	17874
 DU CONTROLE DE LA GESTION Article	15366
 DU COURRIER LA GESTION DU PATRIMOINE	15537
+DU FINANCEMENT ET DE LA GESTION	18884
 DU GESTION Article	14432
 DUT Gestion des Entr	17829
 DUT Gestion des Entreprises	17829
@@ -208,7 +211,7 @@ Departamento de Gestão	167
 Departamento de Gestão de Conhecimento	18773
 Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 Detailed Gescmotice	3972
-Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38,117,32,496,198,78,114,152,282,605,1148,451,193,1726,11,26,578
+Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38,117,32,496,198,78,114,152,282,605,1148,451,193,1726,11,26,578,503
 Deutsche Gesellschaft for International Cooperation Zambia	13578
 Deutschen Gesellschaft	11316
 Dicionário de Língua Gestual de São Tomé	18811
@@ -369,6 +372,7 @@ GESTODENE INFERTILITE	15930
 GESTODENE VALERATE D’ESTRADIOL	15930
 GESTOR DE INFRAESTRUCTURAS DE TELECOMUNICACIONES	3179
 GESTlon DÙ Organiser	15999
+GESToolki	18942
 GESTÃO DA DÍVIDA	17100
 GESTÃO DE BENS MÓVEIS	17100
 GESTÃO DE INCENTIVOS	10769
@@ -404,6 +408,7 @@ Geschwind	11133,9
 Gesco-Attinguié	2342
 Gescom	15474
 Gesellschaft	1264,7798,175,1582,145,4578,41,522,2188,29
+Gesis	18928
 Gesondheid	1009
 Gesondheidsinligting	11255
 Gesser	15694
@@ -414,9 +419,10 @@ Gestao de Contas	570
 Gestao de Receitas	574
 Gestational Diabetes	14773
 Gestio	17829
-Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319,1247,11,5,35,34,15,123,115,74,158,12,26,463,62,1,1,12,21,22,3,5,1,1,8,4,18,17,2,1,9,15,9,1,4,34,10,1,288,8,183,264,33,25,5,38,5,2,13,2,12,11,17,8,5,26,1,6,8,11,45,31,3,1,22,15,9,2,2,8,6,5,2,1,1,19,31,51,60,25,3,76,8,27,97,51,35,131,34,31,59,63,67,6,6,1,1,4,3,78,10,23,694,7,6,130,239,1,3,2,1,3,10,2,1,12,3,3,8,10,3,11,3,2,1,39,31,6,5,8,18,4,2,81,3,6,7,6,4,2,75,5,82,5,6,15,7,13,30,38,2,1,9
+Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319,1247,11,5,35,34,15,123,115,74,158,12,26,463,62,1,1,12,21,22,3,5,1,1,8,4,18,17,2,1,9,15,9,1,4,34,10,1,288,8,183,264,33,25,5,38,5,2,13,2,12,11,17,8,5,26,1,6,8,11,45,31,3,1,22,15,9,2,2,8,6,5,2,1,1,19,31,51,60,25,3,76,8,27,97,51,35,131,34,31,59,63,67,6,6,1,1,4,3,78,10,23,694,7,6,130,239,1,3,2,1,3,10,2,1,12,3,3,8,10,3,11,3,2,1,39,31,6,5,8,18,4,2,81,3,6,7,6,4,2,75,5,82,5,6,15,7,13,30,38,2,1,9,530,41,181,12
 Gestion Administrative	15674,767
 Gestion Administrative des Personnels Civils	15936
+Gestion Article	18884
 Gestion Axé	17845
 Gestion Axée	10712,164,4666,143,2157,104,223,117
 Gestion Barrages	3396
@@ -465,6 +471,7 @@ Gestion Sanitaire	15475
 Gestion Sanitaires	15475
 Gestion Sanitaires SNISA Système National Intégré	15479
 Gestion Sanitaires SONEB	15475
+Gestion Section	18884
 Gestion Support Utilisateurs	14537
 Gestion Systèmes Informatiques	17829
 Gestion Technique	18324
@@ -502,6 +509,7 @@ Gestion des Connaissances	18077
 Gestion des Crises	17873,45
 Gestion des Crises Alimentaires	17941
 Gestion des Crises EIE Etudes	17907
+Gestion des Crises. En	19006
 Gestion des Domaines Constructions	17982
 Gestion des Données	3604
 Gestion des Déchets Biomédicaux GTCV	15685
@@ -621,7 +629,7 @@ Gestores de Informação Científica	8000
 Gestores de Prática	18779
 Gestores de TI	11555
 Gestual	10777
-Gestão	13,154,247,925,1,741,2,733,851,551,56,1169,1019,508,3782,2,1,22,3,3,578,9,1,12,13,1,9,7,2,10,10,3,3,2,5,8,5,62,4,4,11,13,300,164,2,3337,22,24,72,50,28,130,10,61,69,232,163,71,31,772,10,44,1626,1,19,1,7,18,12
+Gestão	13,154,247,925,1,741,2,733,851,551,56,1169,1019,508,3782,2,1,22,3,3,578,9,1,12,13,1,9,7,2,10,10,3,3,2,5,8,5,62,4,4,11,13,300,164,2,3337,22,24,72,50,28,130,10,61,69,232,163,71,31,772,10,44,1626,1,19,1,7,18,12,115
 Gestão A&S	11406
 Gestão Adaptativa	11437
 Gestão Administrativa	15503
@@ -649,6 +657,7 @@ Gestão Industrial Um	17103
 Gestão Informática	10614
 Gestão Informática Administração Local	10614
 Gestão Moderna de Repositórios	8000
+Gestão Orçamental	19014
 Gestão Petrolífera	18831
 Gestão Processual	18786
 Gestão Support WARDIP-F	17219
@@ -657,10 +666,12 @@ Gestão Turística	17103
 Gestão da Acção Social	10763,5
 Gestão da BDCM	11425
 Gestão da Chefi	15404
+Gestão da Dívida	19014
 Gestão da Educação	10766,757,5535
 Gestão da Educação SINAPROF Sindicato Nacional	11557
 Gestão da Educação Secretaria Provincial da Educação Taxa	10766
 Gestão da Educação da Nigéria Digital	11454
+Gestão da Estratégia	18945
 Gestão da Estratégia Nacional de Cibersegurança de São Tomé	18788
 Gestão da Formação	11444
 Gestão da Implementação	11543
@@ -672,7 +683,7 @@ Gestão de Activos Apreendidos. ARTIGO	12789
 Gestão de Assentos	18767
 Gestão de Beneficiários	18799
 Gestão de Cadastro de Veículos Motorizados	11435
-Gestão de Conhecimento	18773,15
+Gestão de Conhecimento	18773,15,158
 Gestão de Conhecimento. Nesse	18767,5
 Gestão de Contas	15526
 Gestão de Dados	549,18250
@@ -911,7 +922,7 @@ Modules de Gestion Spécialisés	15936
 Moyen Terme Comité de Gestion des Plaintes Commune	14425
 MÉCANISME DE GESTION DES PLAINTES DES	14424
 Mécanisme de Gestion de Plaintes	14488,1,1
-Mécanisme de Gestion des Plaintes	5221,5655,5032,2293,50,122
+Mécanisme de Gestion des Plaintes	5221,5655,5032,2293,50,122,617
 Mécanisme de Gestion des Plaintes AGIR URL	15908
 Mécanisme de Gestion des Plaintes MST	18118
 Mécanisme de Gestion des Plaintes des Travailleurs	15908
@@ -1236,7 +1247,7 @@ Système Intégré de Gestion des Cours	15936
 Système Intégré de Gestion des Données	15621
 Système Intégré de Gestion des Dossiers Judiciaires	17978
 Système Intégré de Gestion des Décaissements	10964
-Système Intégré de Gestion des Finances Publiques	13565,2343,163,85,1859
+Système Intégré de Gestion des Finances Publiques	13565,2343,163,85,1859,918
 Système Intégré de Gestion des Finances Publiques Noëlla	13565
 Système Intégré de Gestion des Finances Publiques URL	13565
 Système Intégré de Gestion des Finances Publiques du Burundi	13555
@@ -1244,6 +1255,7 @@ Système Intégré de Gestion des Fonctionnaires	15425
 Système Intégré de Gestion des Impôts	6163
 Système Intégré de Gestion des Operations Budgétaires	16032
 Système Intégré de Gestion des Personnes	5982
+Système Intégré de Gestion des Populations	19201
 Système Intégré de Gestion des Ressources Humaines	8009,218,7511,198,549
 Système Intégré de Gestion des Taxes	15427
 Système Intégré de Gestion des Universités	16659

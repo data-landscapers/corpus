@@ -1,6 +1,6 @@
 A. National Champion Enterprises Foreign	5773
 AG's Chambers	12151
-AI Champion	8609
+AI Champion	8609,10470
 AI Champions	10541,59
 ANADEN Monsieur Chamsoudini MZAOUIYANI	13728
 ATTORNEY GENERAL'S CHAMBERS	16873
@@ -45,6 +45,7 @@ Body The Zambia Chamber of Commerce and Industry	13432
 British Chamber of Commerce Kenya Data Controller	7167
 British Chamber of Commerce Kenya Data Processor	7167
 British Chamber of Commerce Singapore	10718
+Budget and Disciplinary Chamber	18887
 Building Global Champions From Eswatini	13168
 Bureau of Statistics GCCI Gambia Chamber of Commerce	16927
 Burundi Federal Chamber of Commerce and Industry	9153
@@ -95,7 +96,7 @@ Chama	2868,4443,2065,2855
 Chama Cha Mapinduzi	6019
 Chama North	13387
 Chama-se	5154,5615,8060
-Chamada	414,3860,11498
+Chamada	414,3860,11498,3124
 Chamada A Assumir Papel Nacional Américo	8827
 Chamada Quadro	15772
 Chamada Quadro I-Continuação	15772
@@ -154,7 +155,7 @@ Chambers of Small X Businesses X Association	12376
 Chambers. PART V	14743
 Chamber’s ICT	8364
 Chamboko	4848
-Chambre	17,20,271,335,92,2231,843,118,414,209,224,2896,60,540,55,177,389,4,1926,54,747,16,114,192,1538,810,39,30,89,303,88,8,567,77,110,100,9,15,58,116,98,486,954,1,16,36,25,2,9,136,142,6,34,401,10
+Chambre	17,20,271,335,92,2231,843,118,414,209,224,2896,60,540,55,177,389,4,1926,54,747,16,114,192,1538,810,39,30,89,303,88,8,567,77,110,100,9,15,58,116,98,486,954,1,16,36,25,2,9,136,142,6,34,401,10,715,16,162
 Chambre Basse le Projet de Loi de Finances Initiale	14530
 Chambre Consultative	13723
 Chambre Fonction RIJLI	15712
@@ -165,7 +166,7 @@ Chambre Nationale	15936
 Chambre Numérique	2053
 Chambre Provinciale des Comptes	15727
 Chambre de Com-	17812
-Chambre de Commerce	2418,2132,1446,304,1430,2529,562,54,3594,380,563,81,219,595,178,1413,84,112,54
+Chambre de Commerce	2418,2132,1446,304,1430,2529,562,54,3594,380,563,81,219,595,178,1413,84,112,54,757,83
 Chambre de Commerce Américaine. L'ensemble	17498
 Chambre de Commerce de Djibouti	13894
 Chambre de Commerce. Article	13843
@@ -181,7 +182,7 @@ Chambre du Conseil de Bruxelles	15296
 Chambre du Parlement	15703,24
 Chambre. Article	15727
 Chambre. La Cour Constitutionnelle	15703
-Chambres	7680,7820,203,9,2100,15,489
+Chambres	7680,7820,203,9,2100,15,489,877
 Chambres Civile	15703
 Chambres Consulaires	15542
 Chambres Consulaires. ARTICLE	17817
@@ -254,6 +255,7 @@ Cooperation Benghazi Chamber of Commerce	4849
 DA LINHA CHAMADORA Artigo	15
 DE CHAMADAS INTERNACIONAIS	11531
 DE COMMERCE ET DES CHAMBRES COMMERCIALES	18106
+DE L'OBJET ET DU CHAMP	18901
 DE L'OBJET ET DU CHAMP D'APPLICATION	15584,52,7
 DE LA CHAMBRE COMMERCIALE SPECIALISEE Chapitre	18106
 DE L’OBJET ET DU CHAMP D’APPLICATION	785,17043,291
@@ -462,6 +464,7 @@ SOINS DE LA CHAMBRE DE COMMERCE	17812
 STC Sudan Taxation Chamber NIC National	14897
 SUNU CHAMPIONS	18339
 Section I.- Champ	18323
+Seychelles Chamber of Commerce and Industry	18888
 SierraSeat Champions	9680
 Solière Champlain Paka	4355,1763,1
 Somali Chamber of Commerce and Industry	10476,4759

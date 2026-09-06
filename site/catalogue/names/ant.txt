@@ -122,6 +122,7 @@ ARCEP-090720 CODAN C-463 Antenne HF	998
 ART Anti- Retroviral Therapy ARVs Anti-retrovirals	16935
 ART Anti-Retroviral Therapy ARV Antiretroviral CHA	16971
 ART Anti-Retroviral Therapy BOR Bed Occupancy	12976
+ARV Anti-Retro Viral ASYCUDA Automated System	18931
 ARV Antirétroviraux ATACH Alliance	15724
 ASECNA Antenne	16552
 ATM POS Santo Antão	11955
@@ -325,6 +326,7 @@ Anthropometric	13385
 Anthropometry	13454,613,1180
 Anthropométrie	13300,5012
 Anthroponyme	17876
+Anthropos	19148
 Anti Corruption	12972
 Anti Corruption Act	13339,32,5096
 Anti Corruption Bureau	13080,15
@@ -365,7 +367,7 @@ Anti-Competitive Practice. CHAPTER VIII MANAGEMENT	18602
 Anti-Competitive Practices	16835
 Anti-Cor IDA	17180
 Anti-Corruption	1638,9121,76,2,1,74,56,902,16,1,1,1,27,237,1,9,178,11,1,135,499,2385,1665,102
-Anti-Corruption Act	3583,131,3492,1307,4446,518,3496,961,533,10
+Anti-Corruption Act	3583,131,3492,1307,4446,518,3496,961,533,10,502
 Anti-Corruption Act No	13477
 Anti-Corruption Activities	17139
 Anti-Corruption Authority	17990
@@ -373,7 +375,7 @@ Anti-Corruption Bureau	13001,79,15
 Anti-Corruption Bureau Complaints	12241
 Anti-Corruption Bureau Frequency	13095
 Anti-Corruption Commissi	17180
-Anti-Corruption Commission	121,3462,4667,263,1668,329,1990,428,31,38,111,15,198,66,51,1022,2536,109,1362,10,75
+Anti-Corruption Commission	121,3462,4667,263,1668,329,1990,428,31,38,111,15,198,66,51,1022,2536,109,1362,10,75,375,169
 Anti-Corruption Commission Act	18477
 Anti-Corruption Commission LRA Liberia Revenue Authority	17139
 Anti-Corruption Commission The Anti-Corruption Commission	18477
@@ -473,7 +475,7 @@ Anti-Virus	16970,210
 Anti-cancer	12979
 Anti-competition	14997
 Anti-competitive	6432,7134
-Anti-corruption	11285,71,2188,3595
+Anti-corruption	11285,71,2188,3595,1748
 Anti-corruption Action Plan	15372
 Anti-corruption and Integrity Management	11237
 Anti-dumping	11524
@@ -867,6 +869,7 @@ Declaração Anterior	12018
 Declaração de Compromisso Antes	6462
 DeepSeek and Anthropic	13461
 Defeating Ruto Anti-Ruto	7869
+Defence Minister Shri A.K. Antony	18957
 Demande de Remboursement Anticipé	15901
 Denise António	9260
 Department Anti-Corruption Bureau	12241
@@ -944,6 +947,7 @@ Etat. Antananarivo	14408,4
 Ethics and Anti- Total Corruption Commission	6946
 Ethics and Anti-Corruption Commission	2775,9338,2433
 Europe. Anthropic	9608
+European Anti-Fraud Office	18984,1
 Evelyne Vilhete Antonio de Carvalho	18823
 Ex Ante Cost-Benefit Analysis	10829
 Excellency Dr. Mathew Antonio Patrick	12640
@@ -983,6 +987,7 @@ Flexible Anti-Smuggling Teams	13053
 Fodé DIALLO ANTIM	17882
 Foreign Minister Mr. Artur Antonio da Silva	11579
 Founder Anthony Same	6154
+Fraud and Corruption MI Anti-corruption	18887
 Frederico Antunes de Carvalho Sarah Kleinmann Karen	6832
 Félix Antoine Tshisekedi	16431
 Félix Antoine Tshisekedi Tshilombo	16335
@@ -1203,6 +1208,7 @@ Namibe Moxico ANTÓNIO CAPALO MATIAS MUCANDA	10751
 Nana Mourkerou BAH ANTIM ANTIM DRH-SSDS	17882
 National Anthem	12891,403,1454,5,88,2011
 National Anthem of Ethiopia	13948
+National Anthem. Moment of Reflection. Mr Deputy	18964
 National Anti Corruption Advisory Council	11224
 National Anti-Corruption Academy	15719
 National Anti-Corruption Agency	17934
@@ -1418,6 +1424,7 @@ TRANSPARENCY ANTI-CORRUPTION RIGHTS INCLUSION	10837,1503
 TRO Antibiotiques	13300
 Tech Anti-Monopoly and Accountability Agenda for Canada	5044
 Tech Industry Anthropic	9629
+Technical Anti-Money Laundering	18952
 Telecommunications Regulatory Board and ANTIC	15480
 Tempo de Antena	12201
 Threads Whatsapp Anthropic	9608

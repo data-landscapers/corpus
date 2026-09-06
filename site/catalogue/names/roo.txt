@@ -25,7 +25,7 @@ Communication Room	14888
 Computer Room	9123
 Computer Room Equipment Power Distribution	9123
 Computer Room Wall Construction	9123
-Conference Room	14766,12
+Conference Room	14766,12,4187
 Conference Room Central Procurement Board	14766
 Conference Room Ministry of Public Works	17328
 Conference Room Paper	3583
@@ -65,6 +65,7 @@ Fire Suppression System Room	12253
 Force Election Tactical Operation Room	14760
 Four Rooms Commercial	11129
 Fully Air Conditioned Rooms	14778
+GWh. Rooftop PV Production	18947
 Guard Room	18543
 Guard Rooms	18543
 Hon. Alexander Roosevelt Gabby Hottordze	3384
@@ -220,3 +221,4 @@ WHITE ROOTS AND TUBERS	17127
 War Room	5015
 Women Emergency Response Rooms	6947
 Year.1.6. Nadine Roos	2626
+Yellow Roof	18937

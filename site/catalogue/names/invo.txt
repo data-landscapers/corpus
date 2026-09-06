@@ -2,6 +2,7 @@ ADDRESS GRIEVANCE SUMMARY WHO WAS INVOLVED	17099
 AGACIRO INYEMEZABUGUZI AN INVOICE D’UNE FACTURE	15177
 AI. Smart Invoice	12420
 AVERAGE NUMBER OF HOUSEHOLD MEMBER INVOLVED	17043
+Actors Involved Government Ministries	18950
 Address Issue Parties Involved Date Investigation	17099
 Aggravated Involving Sodomy	16935
 Agreements Involving the Subject Company’s Securities	7198
@@ -108,7 +109,8 @@ Involontaire	15901
 Involucra	16898
 Involucrar	16898
 Involuntary	11131,3,729,2075,942,131,2103
-Involuntary Resettlement	1264,724,9537,338,3509,139,90,1013,500
+Involuntary Disappearances	18912
+Involuntary Resettlement	1264,724,9537,338,3509,139,90,1013,500,1773
 Involuntary Resettlement OP	11525,330,282,3274,2693
 Involuntary Resettlement Relevant ESS5	17114
 Involuntary Sodomy	16935
@@ -116,8 +118,8 @@ Involve	1988,1873,265,7062,28,309,831,319,1263,1473,69,124,241,1027,79,163,1191
 Involve FCCPC	11857
 Involve International Organizations	15604
 Involved	11935,4918
-Involvement	1261,1576,111,839,39,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340,4599,3164,1144,540,748,34,49,124,15,327
-Involvement and Disclosure	15372
+Involvement	1261,1576,111,839,39,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340,4599,3164,1144,540,748,34,49,124,15,327,1446
+Involvement and Disclosure	15372,3515
 Involvement and Role of Partners	1264,14289,2740
 Involvement and Role of Partners The World Bank	15661
 Involvement of CHWs	10829
@@ -160,7 +162,7 @@ Payment of Invoices	12358
 Personnel Involved	1988
 Persons Involved	13454
 Private Sector Involvement	12399
-Procurement Arrangements Involving International Competition	15372
+Procurement Arrangements Involving International Competition	15372,3515
 Professional Services Invoices	12976
 Protect Involve	4126
 Provision for Invoice Apportionment and Selection	12509
@@ -195,4 +197,5 @@ VAT Invoice	14784
 Validity of Fiscal Tax Invoices	12509
 Validity of Fiscal Tax Invoices for Input Tax	12509
 X Involuntary Resettlement OP	17441
+X No Involuntary Resettlement	18887
 ZRA Smart Invoice	12420

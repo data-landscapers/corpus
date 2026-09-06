@@ -33,7 +33,7 @@ Accreditation of Tax Agents PART II	11976
 Act. Nigeria Tax Administration Act	11976
 Actual Collections of Taxes and Fees	13418
 Actual Domestic Taxes Net Revenue	12951
-Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39,625,32,21,200,15,17,177,9,1,2,3,22,17,6,7,31,17,98,26,52,46,43,183,3,102,69,49,179,274,401,31,701,21,7,43,3,101,36,17,199,416,438,904,69,94,3,1001,151,25,33,507
+Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39,625,32,21,200,15,17,177,9,1,2,3,22,17,6,7,31,17,98,26,52,46,43,183,3,102,69,49,179,274,401,31,701,21,7,43,3,101,36,17,199,416,438,904,69,94,3,1001,151,25,33,507,62
 Added Tax Act	4896,2025,3102,1924,562,115,5,1,622,98,1,255,809,39,263,2,18,47,25,19,3,12,1195,930,140
 Added Tax Act Ca	13403
 Added Tax Amount of Tax N	11976
@@ -176,6 +176,7 @@ Burundi. Taxation	13312
 Business Income Tax	12445,55
 Business Income Tax DES	12445
 Business Profits Tax	16996
+Business Tax	18929
 Business and Paying Taxes	17870
 Business and Paying Taxes Country Starting	17870
 Business and Tax	18474
@@ -330,6 +331,7 @@ DIRECTORATE GENERAL OF TAXATION STRATEGIC PLAN	16033
 DOMÍNIOS REGISTADOS VS TAXA DE ATIVOS	11531
 DPI for Tax Administration	3735
 DRC Tax Claims Loom Over U.S.-Backed	5407,676
+DROITS D'ASSISE ET TAXES SPECIFIQUES	18973
 DROITS ET TAXES	15394
 DROITS ET TAXES SE PAIENT EXCLUSIVEMENT	15970
 DUE DATES FOR SUBMISSION OF TAX	12397
@@ -1218,6 +1220,7 @@ Registration of Tax Agents	12629,2204
 Registration of Tax Agents URL	14833
 Registration of Taxpayers	13968
 Regulamento da Taxa de Desenvolvimento Urbano Sustentável	17100
+Regulamento de Taxas da Enti-	18896
 Regulamento. CAPÍTULO II TAXAS EM ESPECIAL	744
 Regulation and Taxation	18485
 Regulation and Taxation Recommendations	18485
@@ -1278,6 +1281,7 @@ SIGTAS Tax	13314
 SMT Small and Medium Taxpayers Office TCC	14985
 SOE Tax	16944
 SOP Standard Operating Procedures TIN Taxpayer	18488
+SRC Streamlines Tax Lodgement Acknowledgement Process	19097
 STC Sudan Taxation Chamber NIC National	14897
 STRATEGIC DIAGNOSIS OF THE TAX ADMINISTRATION	16033
 Sales Tax	12644
@@ -1376,10 +1380,13 @@ TAX COMPLIANCE REQUIREMENTS	11209,31
 TAX COMPLIANCE STATUS MUST BE SUBMITTED	11240
 TAX COMPLIANCE SYSTEM PIN CODE	11240
 TAX CREDIT NOTE	17108
+TAX CREER UN COMPTE SUR	18973
 TAX DEBIT NOTE	17108
+TAX DECLARATION DE PATTENTE DECLARATION MENSUELLE	18973
 TAX EFFORT ANALYSIS	17011
 TAX EFFORT ANALYSIS Tax	17011
 TAX EXAMPLES PURPOSE Turnover Digital Market	14932
+TAX Est	18973
 TAX LIABILITY AND PAYMENT Part	11181
 TAX OBLIGATIONS IN THEIR COUNTRY	11240
 TAX ON REGISTRATION AND TRANSFER	6921
@@ -1402,6 +1409,7 @@ TAX TABLE Taxable	13108
 TAX TO GDP ANALYSIS	17011
 TAX TO GDP RATIO	14985
 TAX TREATMENT	4896
+TAX. L'application	18973
 TAXA BRUTA DE ADMISSÃO	10766
 TAXA BRUTA DE ESCOLARIZAÇÃO	10766
 TAXA DE CONCLUSÃO	10766
@@ -1570,7 +1578,7 @@ Tax Chamber	15175,13,53
 Tax Chamber Announces Official Launch of Electronic	15188
 Tax Chamber Badr Al-Tamam Mohamed Saad	15241
 Tax Clearance	11252,1245,4514,317
-Tax Clearance Certificate	5247,4532,285,343,221,1869,12,346
+Tax Clearance Certificate	5247,4532,285,343,221,1869,12,346,6110
 Tax Clearance Certificate August TAX Newsletter	12855
 Tax Clearance Certificate Fee	18541
 Tax Clearance Certificate Under	12855
@@ -1615,6 +1623,7 @@ Tax Debt	12500
 Tax Debt Priority Area Coordinator	12162
 Tax Declarations. Table	18318
 Tax Deduction	14828,3
+Tax Department	18977
 Tax Deregistration	12389
 Tax Dialogue	17011
 Tax Directorate	18838
@@ -1629,6 +1638,7 @@ Tax Enhancements and Resolution of Defects	14533
 Tax Evasion Protest Erupts Over Forced	3768
 Tax Excellence Program	10762
 Tax Executions	10762
+Tax Exemption	19096
 Tax Expenditure	10997,6014
 Tax Expenditure Report	17105
 Tax Expenditures	10997
@@ -1646,12 +1656,13 @@ Tax ID. CHAPTER	11976
 Tax ID. Nigeria Tax Administration Act	11976
 Tax IDs	9956,2020
 Tax Identification	14897,3286
-Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258
+Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258,221
 Tax Identification Numbers	9570,3430,1484,664,3560
 Tax Incentive Returns	11976
 Tax Incentives	14024
 Tax Incentives You Shouldn't Miss	12022
 Tax Information	16882,117,259
+Tax Information Exchange Agreement	18957
 Tax Information Exchange Agreements	11976
 Tax Information Unit	12500
 Tax Information and Cash Registration Machine Administration	12500
@@ -1827,6 +1838,7 @@ Tax Year'. Available	11133
 Tax and Accountability Enhancement Project	13429
 Tax and Customs	12162,277,517,1941,2071,43
 Tax and Customs Administrations Expertise France	648
+Tax and Customs Agent Board and Revenue Tribunal	19096
 Tax and Customs Business Officers	17011
 Tax and Duty Exemption Act	18500
 Tax and Fiscal Incentives	15979
@@ -1993,7 +2005,7 @@ Taxe Professionnelle Synthétique	15797
 Taxe Spéciale	15999
 Taxe Spécifique Unique	3045,12712,40
 Taxe de Soutien	3045,12712
-Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7,459,81,16,7,62,1,62,156,283,66,719,487,1,11,24,53,364,23,39,13,2,45,2,24,37,19,30,75,243,8,74,64,667,202,20,60,15,179,45,637,37,36,27,18,119,209,165,368
+Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7,459,81,16,7,62,1,62,156,283,66,719,487,1,11,24,53,364,23,39,13,2,45,2,24,37,19,30,75,243,8,74,64,667,202,20,60,15,179,45,637,37,36,27,18,119,209,165,368,36,86
 Taxes Edmond Rafaralahy	14584
 Taxes Excise Duty	14932
 Taxes Figure	10976,1370
@@ -2059,7 +2071,7 @@ Taxpayer Experience Statement VAT Modernisation	8670
 Taxpayer Full-Service Center	17011
 Taxpayer Identification	11976
 Taxpayer Identification Identification Number for NIL NIL	6921
-Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284,1632,1001,507,1689
+Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284,1632,1001,507,1689,132
 Taxpayer Identification Number Registration	12349
 Taxpayer Identification Numbering System	16601
 Taxpayer Identification Numbers	2744,9885,977
@@ -2093,7 +2105,7 @@ Taxpayer and Tax Withholder Registration	18594
 Taxpayer's Tax Service Office. Upon	14533
 Taxpayer-centred	10419
 TaxpayerCo	18109
-Taxpayers	4348,101,250,3971,367,1382,762,117,322,90,229,279,131,43,108,9,167,368,9,55,141,65,59,652,319,182,211,195,2067,12,1229,78,363,27
+Taxpayers	4348,101,250,3971,367,1382,762,117,322,90,229,279,131,43,108,9,167,368,9,55,141,65,59,652,319,182,211,195,2067,12,1229,78,363,27,389
 Taxpayers Division	12629
 Taxpayers Education Unit	12500
 Taxpayers Expected Memorandum	12500
@@ -2132,6 +2144,7 @@ Trade Balance VAT Value-Added Tax WDI	11271
 Trade Taxes	13624,3633
 Trade Taxes Tax	13053
 Trade and Development VAT Value Added Tax	16631
+Trades Tax	18971
 Transparency and Exchange of Information for Tax Purposes	12208,292
 Turnover Growth Taxable	14985
 Turnover Tax	12500

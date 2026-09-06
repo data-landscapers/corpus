@@ -16,7 +16,7 @@ Conditions Couverture	747
 Contre la Pauvreté CSU Couverture Sanitaire Universelle	17907
 Couvernement	15416
 Couvert	17983
-Couverture	737,10,440,1437,722,4372,1998,1,1201,1026,1346,10,25,89,28,247,933,672,129,51,19,3,46,131,42,9,161,51,2,5,56,26,281,315,5,1,14,807,387,1,7,13,10,16,14,3,115,55,243,7,5
+Couverture	737,10,440,1437,722,4372,1998,1,1201,1026,1346,10,25,89,28,247,933,672,129,51,19,3,46,131,42,9,161,51,2,5,56,26,281,315,5,1,14,807,387,1,7,13,10,16,14,3,115,55,243,7,5,648,16
 Couverture ARV	3396
 Couverture Au	17866
 Couverture Couverture	13804,4533
@@ -37,7 +37,8 @@ Couverture Sanitaire	18077
 Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37,383
 Couverture Sanitaire Universelle. Pour	15711
 Couverture Santé	16195
-Couverture Santé Universelle	9273,6922,137,106,3,1441
+Couverture Santé Universelle	9273,6922,137,106,3,1441,1106
+Couverture Santé Universelle Indicateurs	18988
 Couverture Universelle	17845
 Couverture Vaccinale FAC	15685
 Couverture de Vaccination ENSAE ENSEA	17842
@@ -45,6 +46,7 @@ CouvertureMobile	14509
 Couvrant	3106,13104,411,1804
 Couvre	1187
 Couvrir	18426
+Déployer la Couverture Santé Universelle	18988
 Enq. Couverture	17844
 Extension Couverture	3537
 II. Couverture	15943
@@ -84,4 +86,5 @@ Taux de Couverture	13390
 Taux de Couverture Excellente	13390
 Taux de Couverture Vaccinale TMN	15475
 Technologies Couverture Couverture	13414
+USD Couvre	18942
 VÉRIFIEZ LA PAGE DE COUVERTURE	13300

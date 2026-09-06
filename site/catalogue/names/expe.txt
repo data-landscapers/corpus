@@ -125,6 +125,7 @@ C Food Expenditur	17285
 C. Expenditure Framework	11905
 CALL EXPERTS LIMITED Data Controller INST-45437488788	7167
 CALL EXPERTS LIMITED Data Processor INST-45437488788	7167
+CAPEX Capital Expenditure CAR Central African	18931
 CAPEX Capital Expenditure CCDR Climate Change	15659
 CAPEX Capital Expenditure CD Compact Disc	6432
 CAPEX Capital Expenditures CE Citizen Engagement	15621
@@ -188,11 +189,13 @@ Collect Data for Comprehensive Tax Expenditure Analysis	17011
 Comité des Experts	14849,3134
 Comité des Experts Statutaire	15352
 Comité des Experts des Nations Unies	17983
+Comments Expected Pre Domestic Review	18887
+Comments Review Expected Pre Domestic Ref	18887
 Commercialization Experts	4528,7984
 Commission des Experts	17991
 Commission of Experts	14828
 Commission. Expenses	18459
-Committee of Experts	12977,1955,2813
+Committee of Experts	12977,1955,2813,1159
 Common Expenditure	17209
 Common and Specialized Expenses Expenditures	17043
 Communications Expert	15221
@@ -257,6 +260,7 @@ DOMESTIC GENERAL GOVERNMENT HEALTH EXPENDITURE	16892
 DONATIONS AND EXPENDITURE	3714
 DPME Programme Expenditure Sector Monitoring Services	11224
 DRC Public Expenditure Review	11916
+DURATION AND EXPECTED DELIVERABLES	19086
 Dados Experiência	11448
 Data Protection Commissioner OpEx Operational Expenditure	6432
 Data Protection Experts Convene	8282
@@ -399,6 +403,7 @@ EstDev and Expertise France	8546
 Establish National AI Expected Output Key	7548
 Establishing Regulatory AI Sandboxes and Experimental Zones	14566
 Estimate of National Expenditure	11261
+Estimated Cost Selection Expected Proposals Ref	18887
 Estimated Expenditure	2637,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,728
 Estimated Revenue and Expenditure	14986
 Estimated Time Inputs for Key Experts S	3678
@@ -411,7 +416,7 @@ Eswatini Household Income and Expenditure Survey	12480,482,1366
 Ethio Telecom's Digital Experience Center	3788
 Ethiopia. Experts	12255
 Exclusion of Local Expertise	17260
-Expect	5366,3673,2261,3452,2174,1113
+Expect	5366,3673,2261,3452,2174,1113,936
 Expectancy HIV Human Immuno-Deficiency Virus HPP	12923
 Expectati	16884
 Expectation	15080,3547
@@ -421,7 +426,7 @@ Expectations	4752,927,974,2825,4054,1033,2670
 Expectations and Minimum Maturity Level	15054
 Expectations for Computer Security Incident Response	18774
 Expectations of Beneficiaries	18461
-Expected	82,297,120,182,1,3,104,23,79,79,78,106,40,96,1699,442,69,104,460,3,1451,102,261,50,492,1272,1428,782,502,422,80,271,68,647,10,51,12,183,8,1,44,1,3,45,16,33,53,58,74,13,94,249,194,16,303,7,29,26,94,629,915,82,53,15,15,11,140,101,161,290,108,379,555,5,97,47,1,11,343,988,71
+Expected	82,297,120,182,1,3,104,23,79,79,78,106,40,96,1699,442,69,104,460,3,1451,102,261,50,492,1272,1428,782,502,422,80,271,68,647,10,51,12,183,8,1,44,1,3,45,16,33,53,58,74,13,94,249,194,16,303,7,29,26,94,629,915,82,53,15,15,11,140,101,161,290,108,379,555,5,97,47,1,11,343,988,71,358,98,95
 Expected Annual Return	7446
 Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616
 Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054
@@ -443,6 +448,7 @@ Expected Disbursements	969,295,603,1695,42,7164,61,135,453,108,35,295,50,1426,1,
 Expected Duration	12364
 Expected End Date	17196
 Expected Environmental Responsibilit Time	12253
+Expected Estimated Review	18887
 Expected Expected	17180
 Expected Expected Digitization	12138
 Expected Females	12151
@@ -477,6 +483,7 @@ Expected Output Key Performance Indicators	7548
 Expected Outputs Output Indicators	13095
 Expected PEF Projections Cumulative	16032
 Expected Positive Effects	17114
+Expected Pre Domestic Review	18887
 Expected Program Closing Date	3604,7813,971
 Expected Project Impact	18293
 Expected Proposals Method Bank Submission Date	15372
@@ -491,6 +498,8 @@ Expected Results Indicators Baseline	789,181
 Expected Results Indicators Target	789
 Expected Results Overall	13999
 Expected Results and Analytical Underpinnings	15924,2927
+Expected Review	18887
+Expected Teacher Competencies	19079
 Expected Transformational Outcomes	14747
 Expected Year of Commissioning Soma Solar Park	16966
 Expectedly	10
@@ -504,20 +513,20 @@ Expedientes Electrónicos	16855
 Expedite	1000,828,3416,6742,241,690,205,798,229,798,50,607,1407,1624
 Expedite Administrative Dispute Resolution and Clear Backlog	17011
 Expedite the World Bank	16971
-Expedited	26,757,1943,2668,2154,3642,1269,147,322,1080,1366,1257,253,1573,84
+Expedited	26,757,1943,2668,2154,3642,1269,147,322,1080,1366,1257,253,1573,84,379
 Expedited Mail Services	16975
 Expedited Prctervation	18457
 Expedites	14997
 Expediting	11747,5202
 Expediting ASYCUDA System Upgrade And E-Commerce	18546
 Expediting the NPL	17503
-Expeditious	12174
+Expeditious	12174,6746
 Expedito Rafael	4994
 Expedição	15359
 Expendedores	17022
 Expendeduría	16859
 Expenders	9536
-Expenditure	563,399,258,69,1486,808,1950,122,933,4175,5,78,24,99,16,149,2,82,12,41,198,415,1,10,12,79,173,1,44,1,146,4,18,23,49,42,111,294,28,2,34,6,80,11,69,1,232,65,1297,19,2,8,89,61,90,618,59,1223,58,34,18,109,104,26,22,3,29,75,77,62,406,81,476,1,16,17,78,83
+Expenditure	563,399,258,69,1486,808,1950,122,933,4175,5,78,24,99,16,149,2,82,12,41,198,415,1,10,12,79,173,1,44,1,146,4,18,23,49,42,111,294,28,2,34,6,80,11,69,1,232,65,1297,19,2,8,89,61,90,618,59,1223,58,34,18,109,104,26,22,3,29,75,77,62,406,81,476,1,16,17,78,83,377,123
 Expenditure Analysis	11986
 Expenditure Approach and The Income Approach	18483,5
 Expenditure Arrears	1828
@@ -534,6 +543,7 @@ Expenditure Eligible for Bank Group Financing	16219
 Expenditure Estimates	3847
 Expenditure Estimates Compensation of Employees	17364
 Expenditure Figure	10985
+Expenditure Final	19038
 Expenditure Financing Fund	13093
 Expenditure Findings	13355
 Expenditure Framework	11905
@@ -574,17 +584,18 @@ Expenditures Pt.5	2473
 Expenditures Utilisation	13080
 Expense	6938,6115,426,579,956,963,1258
 Expense Management Strategies	2518
-Expenses	587,3127,3484,1210,3116,431,1332,24,1425,152,97,12,17,9,1813,142,257,1,634,589
+Expenses	587,3127,3484,1210,3116,431,1332,24,1425,152,97,12,17,9,1813,142,257,1,634,589,702
 Expenses Generally	7198
 Expenses Marketing	12971
 Expenses Page	17236
 Expenses Ratio	17235
 Expenses and Resource Demands	12376
 Expenses of Directors	585,8281
-Expensive	4150,6163,4710,457
+Expensive	4150,6163,4710,457,3431
 Expensive ICT	16884
+Experi	18896
 Experian and TransUnion. Yet	17739
-Experience	10,1209,24,21,1020,13,97,3,65,10,86,28,4,209,10,16,25,39,95,79,190,7,70,41,80,30,76,30,47,9,16,19,19,19,16,322,19,14,347,177,10,7,509,12,171,64,5,22,3,94,10,19,294,178,44,54,54,23,322,60,26,6,125,80,6,23,68,102,189,9,1,65,4,2,1,107,3,992,171,300,132,220,5,400,1226,168,134,121,165,70,38,28,32,272,9,61,14,13,54,143,249,43,250,8,53,185,92,6,43,232,2,261,1,48,80,287,194,301,542,62,74,56,27,164,107,72,460,216,636,40,126,46,141,83,103,98,565,205,149,117,3,176,33
+Experience	10,1209,24,21,1020,13,97,3,65,10,86,28,4,209,10,16,25,39,95,79,190,7,70,41,80,30,76,30,47,9,16,19,19,19,16,322,19,14,347,177,10,7,509,12,171,64,5,22,3,94,10,19,294,178,44,54,54,23,322,60,26,6,125,80,6,23,68,102,189,9,1,65,4,2,1,107,3,992,171,300,132,220,5,400,1226,168,134,121,165,70,38,28,32,272,9,61,14,13,54,143,249,43,250,8,53,185,92,6,43,232,2,261,1,48,80,287,194,301,542,62,74,56,27,164,107,72,460,216,636,40,126,46,141,83,103,98,565,205,149,117,3,176,33,100
 Experience And Competencies Experience	14486
 Experience Applicants	10060
 Experience Builder	5848
@@ -646,7 +657,7 @@ Experiência Profissional Deve-se	11448
 Experiência de Diferentes Formas de Violência	10777
 Experiência de Violência Física	10777
 Experiência de Violência Sexual	10777
-Expert	789,181,242,17,55,1524,301,327,992,607,220,571,337,126,350,29,270,821,218,292,335,284,862,552,81,299,318,6,572,284,181,650,78,136,54,76,465,28,131,763,48,407,118,545,62,20,39,7,15,163,347,55,37,86,374,79,434,570,31,21,13,505,2,1,4,5,144
+Expert	789,181,242,17,55,1524,301,327,992,607,220,571,337,126,350,29,270,821,218,292,335,284,862,552,81,299,318,6,572,284,181,650,78,136,54,76,465,28,131,763,48,407,118,545,62,20,39,7,15,163,347,55,37,86,374,79,434,570,31,21,13,505,2,1,4,5,144,635
 Expert And Experienced Mechanic	18837
 Expert Briefings	6997
 Expert CRVS	12043
@@ -704,12 +715,12 @@ ExpertGroup	15471
 Expertco Formation	17882
 Experte	8269,1008,6393
 Expertes	18286
-Expertise	1988,354,1354,1128,3804,2246,482,652,157,279,2990,90,200,17,887,465,21,768,17,74,346,169,12
+Expertise	1988,354,1354,1128,3804,2246,482,652,157,279,2990,90,200,17,887,465,21,768,17,74,346,169,12,450,89
 Expertise Armées	17899
 Expertise Contact Details	6432
 Expertise Direction du Portefeuille du Secteur	2342
 Expertise FR	13325
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453,227,117,121,85,69,111,228,45,443,29,249,115,49,132,31,345,397,305,1
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453,227,117,121,85,69,111,228,45,443,29,249,115,49,132,31,345,397,305,1,662
 Expertise France Comores	3772
 Expertise France OS	16722
 Expertise France and CMM Oxford	1000
@@ -725,8 +736,9 @@ Expertise des Auditeurs Associés	10821
 Expertise of Courts	12389
 Expertise of Specialized Courts	12389
 Expertises	15429,2866,3,133
+Expertises ATNOR	19189
 Expertos UNCTAD	15478
-Experts	1968,583,41,111,105,59,91,28,77,303,212,54,494,109,293,84,78,24,62,19,37,33,50,35,43,9,114,29,122,49,55,14,126,86,186,17,141,81,8,120,73,93,116,145,74,9,156,111,21,78,8,71,50,24,8,5,122,7,39,548,239,204,144,15,117,84,180,26,245,77,364,1,11,327,53,43,61,13,125,209,92,166,60,48,7,15,295,39,786,83,6,184,285,970,50,472,98,295,12,15,10,14,299,292,81,83,154,172,55,101,163,31,57,76,248,38,75,4,244,162,70,63,94,130,17,91,4,373,131,227,149,154,24,9,76,12,56,2,13,133
+Experts	1968,583,41,111,105,59,91,28,77,303,212,54,494,109,293,84,78,24,62,19,37,33,50,35,43,9,114,29,122,49,55,14,126,86,186,17,141,81,8,120,73,93,116,145,74,9,156,111,21,78,8,71,50,24,8,5,122,7,39,548,239,204,144,15,117,84,180,26,245,77,364,1,11,327,53,43,61,13,125,209,92,166,60,48,7,15,295,39,786,83,6,184,285,970,50,472,98,295,12,15,10,14,299,292,81,83,154,172,55,101,163,31,57,76,248,38,75,4,244,162,70,63,94,130,17,91,4,373,131,227,149,154,24,9,76,12,56,2,13,133,428
 Experts Biometric Update	4865
 Experts Call for Accelerating Digital Transformation	15203
 Experts Call for Responsible AI Integration	10355
@@ -734,6 +746,7 @@ Experts Company MORE STORIES UIB	5101,850
 Experts Comptables	17982
 Experts Denounce Systematic Attacks	6947
 Experts E&S Immédiat Consultations	16012
+Experts Encadrement	19039
 Experts Ensure	4126
 Experts Find Accessing Finance for Digital Transformation	12214
 Experts Group Meeting	16922
@@ -770,6 +783,7 @@ Facilitating Conditions and Performance Expectancy	5349
 Fees and Expenses	7198
 Fichas de Experiência	11456
 Figure A.2. Eligible Expenditures Category	15658
+Final Consumption Expenditure	19038
 Finance. Expenses	587
 Financial Expenditures	13948
 Financial Management Expert	11863
@@ -838,6 +852,7 @@ Government Expenditure TLC	12175
 Government Expenditure UIS-UNESCO Institute for Statistics	18765
 Government Experience	13037
 Government Experience Exchange Program	13421
+Government Final Consumption Expenditure	19038
 Government Finance Statistics Expert	14777
 Government of Lesotho Annual Expert Group Meeting	12761
 Grants Bilateral Multilateral Expenditure Compensation	11136
@@ -875,6 +890,7 @@ Higher Education Experts	10355
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
 Household Expenditure	2775
 Household Expenditure Survey	16902
+Household Final Consumption Expenditure	19038
 Household Income and Expenditure Survey	31,11824,470,614,1186,2751,240,141
 Household Income and Expenditure Survey. Data	12962
 Housing Health YOUR EXPERIENCE REIMAGINED	14752
@@ -1097,9 +1113,11 @@ Non-Eligible Expenditure	16219
 Non-Eligible Expenditures	16219
 Non-Eligible Expenditures. The Borrower	16219
 North Africa MTEF Medium-Term Expenditure Framework	11271
+Nouvobanq. Expected	18947
 Nyagatare Experience	12328
 OPEX Operating Expenditure PASEL Strengthening Electricity	15659
 OPEX Operating Expenditure PCM Private Capital	13331
+OPEX Operational Expenditure Office Tchadien de Régulation	18931
 Obrigado Annual Expert Group Meeting for Registrar	11480
 Oct-2012 Expected Closing Date	17441
 Oct-2030 Expected Program Closing Date	3562
@@ -1153,10 +1171,12 @@ Participants’ Experiences	4439
 Partner Experience Centre	5735,1,1,1172
 Partner States Experts	11806
 Patient Experience	7764
+Patient Experience and Access	19177
 Per Capita Government Expenditure	14773
 Per Capita Health Expenditure	18162
 Percentage Composition of Expenditure	18483
 Percentage of Credit Allocated Expenditures	10964,4408
+Percentage of Credit Allocated Grant Allocated Expenditures	18887
 Percentage of Expenditures	14987,424,247,1278,1026
 Percentage of Financing Expenditures	11525
 Percentage of Poultry Holdings Experiencing Animal Diseases	17043
@@ -1186,7 +1206,7 @@ Principal Transport Expert	13885
 Prior World Bank Experience	14888
 Priority Area and Expected Results Outcomes Strategic	14935
 Procurement Expert	11863
-Professional Experience	962,13223,2883
+Professional Experience	962,13223,2883,2018
 Program Expenditure Framework	11905,4127,2338
 Program Expenditure Framework The PforR	18370
 Program Expenditures	16032
@@ -1252,6 +1272,7 @@ RECRUTEMENT D'UN EXPERT EN COMMUNICATION ET	16646
 RECURRENT BUDGET AND EXPENDITURE REPORT	12975
 REMPLACEMENT D’UN EXPERT Pour	16747
 REPORTING REQUIREMENTS AND TIMELINES FOR EXPECTED	3678
+REQUIRED QUALIFICATIONS AND EXPERIENCE	19086
 RISK THAT THEY EXPERIENCE SERIOUS IMPACTS	2709
 RRA Budget and Expenditure	14985
 Randomized Field Experiment	12948
@@ -1284,11 +1305,13 @@ Retail Investor Apathy Low Sector-Specific Expertise	14997
 Revenue and Expenditure	17257
 Revenue and Expenditure Trends FY	6946
 Revenues and Expenses	14032
+Review Expected Pre Domestic Ref. Estimated	18887
 Role Expectations	18478
 Rwanda RESEARCH REPORT Experience Figure	12328
 SADC Climate Experts Meeting	8006
 SADC Cyber-Infrastructure Technical Experts	12926
 SADC Expert Group	318
+SCHEDULE Allocation of Authorised Expenditure R'000 Office	19096
 SECRETARIES COMMITTEE SPECIAL COMMITTEE OF EXPERTS	16885
 SECTION EXPERTISE DES ECRITURES ET SIGNATURES	17899
 SIM Card Registration Experiences	4439
@@ -1357,9 +1380,9 @@ Statement of Expenditure	14745,15,3610
 Statement of Expenditure Table	14835
 Statement of Expenditure Under Vote	14773
 Statement of Expenditure for Financial Year	14835
-Statement of Expenditures	1284,2320,7225,1026,1476,2222,591
+Statement of Expenditures	1284,2320,7225,1026,1476,2222,591,2743
 Statement of Expenses	11855
-Statements of Expenditures	1264,14108,181,106
+Statements of Expenditures	1264,14108,181,106,3228
 Statistics Portugal Shares Experience	11423
 Statistics and Geographic Information Expert	14089
 Stored Computer Data Expedited Disclosure of Present	18675
@@ -1416,6 +1439,7 @@ Technical Execution and Expertise Specialized Working Groups	4528,7984
 Technical Expert	13017,1411,3711
 Technical Expertise	11134,3595
 Technical Experts	12338,4922
+Telecommunication Regulator of Chad PEFA Public Expenditure	18887
 Tension CAPEX Capital Expenditure	18103
 Term Expenditure Framework	11986
 Term Expenditure Framework MTSF Medium Term	5533
@@ -1446,7 +1470,7 @@ Unauthorised Expenditure	11230
 Under Expenditure	12971
 Under the Expenditure Arrears Clearance Strategy	13685
 Unit. Expedited	12459
-United Nations Committee of Experts	9651
+United Nations Committee of Experts	9651,9253
 United Nations Development Program. Experts	3583
 United Nations Expert Group Meeting	15627
 United Nations Experts	6950
@@ -1476,6 +1500,7 @@ World Bank Group. Egypt Public Expenditure	15663
 World Bank Policy CAPEX Capital Expenditure	15515
 World Bank’s Public Expenditure Review	13349
 World Bank’s Social Assistance Public Expenditure	15663
+Years Experience	19039
 Yemen. Experts	1741
 Zambia Social Protection and Jobs Public Expenditure	13332
 Zambia’s Experience Developing	12376

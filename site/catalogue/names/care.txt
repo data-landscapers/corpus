@@ -29,6 +29,7 @@ Abortion and Postabortion Care	13040
 Absence of Prevention and Community-Based Care	6534
 Accessing Health Care	15247
 Act Demands Careful Handling of Documents	16921
+Act. Health Care Agency	19059
 Advance Public Relations and Customer Care	16978
 Advanced Patient Privacy Consents and Care Services	1009
 Advanced Syn- Emergency Care	15206
@@ -63,6 +64,7 @@ BEL CAREMAX LIMITED Data Controller INST-458476B0EF2	7167
 BEL CAREMAX LIMITED Data Processor INST-458476B0EF2	7167
 BENLINE SERENE CARE CLINIC Data Controller	7167
 BETA CARE TRAINING INSTITUTE LTD Data	7167
+BILL FOR HEALTH CARE AGENCY	19059
 BIYON HEALTH CARE LIMITED Data Controller	7167
 BLISSBOUND MEDICAL CARE Data Controller INST-44259244F3A	7167
 BMJ Health Care Inf Online	10784
@@ -86,6 +88,7 @@ CANCER CARE KENYA LIMITED Data Processor	7167
 CANIGE School and Sampaka Psychiatric Care Centre	17240
 CAPITAL CARE HOMES AND PROPERTY CONSULTANTS	7167
 CAR. CARE Project	16436
+CARE AGENCY ACT	19059
 CARE ALGERIA DIGITAL BRIEF CARE	8637
 CARE AND CURE HOSPITAL LIMITED Data	7167
 CARE HOSPITAL LIMITED Data Controller INST-359249BE845	7167
@@ -146,6 +149,7 @@ Care Economy	8891
 Care Facilities	18370
 Care Facilities Opportunities	18370
 Care HTP	16951
+Care House	19025
 Care International CBE Community Based Education	15604
 Care Malawi International	12181
 Care Performance Initiative Assessment Awa Diallo	17869
@@ -202,6 +206,7 @@ Careers Guidance Service	14721
 Careers IDF-Application AI Assistant Contact	12495
 Careers Vacancies Speeches Documents Monetary Policy	12390
 Careers Vacancies Speeches Global Money Week	12390
+Careers and Further Education Agency	19096
 Careful	6202,2921,1216,1989,2395
 Carefully	2668
 Caregiver	11180,3958
@@ -255,6 +260,7 @@ Continuity of Care	21
 Continuity of Care Document Continuity of Care Record	1009
 Cross Cultural Care	16876
 Crown Point Dental Care Data Processor	7167
+Culture of Care	19177
 Culture of Care Service Delivery Model Modernisation	7761
 Customer Care	6946
 Customer Care Billing and Commercial Practices Digital	5676
@@ -272,6 +278,7 @@ Day Care Centre	14742
 Deliver Excellent Patient Care	12529
 Delivery Care	14067
 Delivery of Health Care	16941
+Department of Health Care Services	19059
 Department of Primary Health Care	12606
 Deputy Minister of Health and Child Care	10623
 Description Care Pay	186
@@ -294,6 +301,7 @@ EASY CARE	12379
 ECCED Early Childhood Care Education and Development	12975
 EDEN CARE PROACTIVE LIMITED Data Controller	7167
 EDEN CARE PROACTIVE LIMITED Data Processor	7167
+ENACTED Health Care Agency	19059
 ENSURE PROVISION OF QUALITY CARE	14546
 EUR34.3M. Care Pay	186
 Early Childhood Care	12914
@@ -316,6 +324,7 @@ Emergency and Critical Care	14120
 Employment and Career Path Planning for France	8125
 Empowering Learning and Careers	17088
 Enhancing Patient Care and Data Management	17068
+Era of Care	19177
 Essential Health Care Package	13163
 Essential Primary Health Care Services Component	16922
 Eswatini National Career Expo	13123
@@ -348,6 +357,7 @@ Grey and Ruby Care	8438
 Guidelines and Customer Care Standards	6946
 HEALTH AND CHILD CARE	13420
 HEALTH CARE	14723,2160,1
+HEALTH CARE AGENCY	19059
 HEALTH CARE Improving	14723
 HEALTH CARE LIMITED Data Controller INST-12794625BFC	7167
 HEALTH CARE TECHNOLOGY	16900
@@ -355,6 +365,8 @@ HIV Prevention Care and Support	16951
 HIV and AIDS Care	16971
 HSDUs. Obstetric Care	15206
 Health Care	2477,2495,1451,8988,1473,12,26,115
+Health Care Agency	19059,14
+Health Care Agency Act	19059
 Health Care Associations Consumers	21
 Health Care Broadband Infrastructure	14723
 Health Care Broadband Status Report	14723
@@ -366,10 +378,11 @@ Health Care PIC Project Implementation Committee	16896,26
 Health Care Personnel RA	12138
 Health Care Quality	14033
 Health Care Rationing	14898
-Health Care Service	16896
+Health Care Service	16896,2281
 Health Care Service People	16922
-Health Care Services	12977,3919
+Health Care Services	12977,3919,2281
 Health Care Services A. Health	12977
+Health Care Services Department. Cabinet	19073
 Health Care Standards	12606
 Health Care Support Fund	3583
 Health Care System	10780
@@ -418,6 +431,7 @@ Joanne Carew	10538
 K. Carey	16996
 Kenya's Taifa Care HMIS	4153
 Kenya’s Taifa Care	14182
+Kinetic Engine of Care	19177
 Knowing Yourself and Building Your Career Plan	16198
 LE CRITÈRE CARE	8637
 LE POINT CARE	8637
@@ -425,6 +439,8 @@ Lagos Primary Health Care	11968
 Lagos State Primary Health Care Board	9444,2524
 Life Sciences Health Care Equipment	4972
 MATERNAL AND NEWBORN HEALTH CARE	13454,1793
+MENTAL HEALTH CARE ACT	18943
+MENTAL HEALTH CARE ACT Amendment	18943
 MTN Yello Care	12996
 Mahama Cares	15798
 Malawi Health Care Information System	17711
@@ -433,7 +449,11 @@ Maternal Care	14067
 Maternal Health Care	13474,1773
 Medical Care	1824
 Meeting Waterford KaMhlaba Career Fair Governor	11131
-Mental Health Care Act	11177,877,2689
+Mental Health Care Act	11177,877,2689,4200
+Mental Health Care Act PART	18943
+Mental Health Care Agency	19090,6
+Mental Health Care Agency Act	19090
+Mental Health Care Agency. Vice President	19016
 Methadone Day Care Centres	14742
 Minister of Health and Child Care	4528,2894,5090,528
 Ministry of Health Standards for Post Abortion Care	13040
@@ -507,7 +527,7 @@ Postnatal Care Postnatal	16971
 Postpartum Infant Care Program	6423
 Pour le CARE	9497
 Primary Care BP	16079
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580,293,370
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580,293,370,405
 Primary Health Care Centers	12004
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980
@@ -519,6 +539,7 @@ Primary Health Care PLANAPREV-DNT	10776
 Primary Health Care Performance Initiative	17869
 Primary Health Care Progression Model	17869
 Primary Health Care Services Across	1824
+Primary Health Care Strengthening and Community-Based Care	19177
 Primary Health Care System of Gujarat	17869
 Primary Health Care System of Mauritania	17869
 Primary Health Care The U.S. Government	4349
@@ -536,6 +557,7 @@ Quality Health Care Circular Economy	4972
 Quality and Safety of Care	18627
 Quality of Antenatal Care	17869
 Quality of Care	13166
+Quality of Care and Clinical Governance	19177
 RDs Brazil’s National Policy for Comprehensive Care	10188
 REVITALISING PRIMARY HEALTH CARE	12606
 RFC5646 Care Services Care Services Discovery	1009
@@ -556,7 +578,9 @@ SIGIPES I and II Career	15480
 Safer Births Bundle of Care	7895
 Scope Implementation Guidelines Education Care	2958
 Seamless Continuity of Care	41
+Secretary of State for Mental Health Care	19090
 Services ANC Antenatal Care IPT Intermittent	16971
+Seychelles Home Care Agency	19096
 Sickle Cell Care	8438
 Smart Care Legacy and SmartCare Plus	2477
 Smart Care Pro	12375

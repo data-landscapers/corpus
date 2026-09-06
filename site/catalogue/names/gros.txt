@@ -106,6 +106,7 @@ GDP Gross Domestic Product GIZ Gesellschaft	12923
 GDP Gross Domestic Product GRID Green	18301
 GDP Gross Domestic Product GRM Grievance	11525
 GDP Gross Domestic Product GTS Sector	13731
+GDP Gross Domestic Product GoCAR Government	18887
 GDP Gross Domestic Product GoG Government	15511
 GDP Gross Domestic Product GoL Government	17289
 GDP Gross Domestic Product ICI Djibouti	13836
@@ -120,6 +121,7 @@ GHG Gender-Based Violence GIZ Gross Domestic	10964
 GM Grievance Mechanism GNI Gross National	1264
 GNI Greenhouse Gas GRS Gross National	16144
 GNI Gross	11380
+GNI Gross National Income GoC Government	18931
 GNI Gross National Income GoEG Government	16942
 GNI Gross National Income GoK Government	2775
 GOS Gross Operating Surplus GPRS Ghana	236
@@ -178,7 +180,7 @@ Gross Completion Rate	18460
 Gross Disorderly Conduct A Member	13387
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105
 Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
@@ -198,12 +200,14 @@ Gross Domestic Product GIS	958
 Gross Domestic Product GNI	18485
 Gross Domestic Product GSM	14879,1993
 Gross Domestic Product GSMA Global System	12395
+Gross Domestic Product Growth	19038
 Gross Domestic Product HVI	17101
 Gross Domestic Product Harare Institute of Technology	4528
 Gross Domestic Product ITA	13053
 Gross Domestic Product IXP Internet Exchange	14897
 Gross Domestic Product Know-Your-Customer Mobile	11130
 Gross Domestic Product Per Capita	8950
+Gross Domestic Product Table	19038
 Gross Domestic Product US	12500
 Gross Domestic Product and Gross National Income	2775
 Gross Domestic Product of Mauritius	14729
@@ -223,7 +227,7 @@ Gross Enrolment Ratio for Basic and Secondary Education	14958
 Gross Expenditure	12786
 Gross External Reserves	18455
 Gross Fixed Capital Fomation	18483
-Gross Fixed Capital Formation	2775,12055,2166
+Gross Fixed Capital Formation	2775,12055,2166,2042
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
 Gross Fixed Capital Formation. LNG	16996
@@ -234,7 +238,7 @@ Gross Intake Rate	18460
 Gross Intake Rate GoSL Government of Sierra	18460
 Gross Intake Ratio	15604,832
 Gross Intake Ratio GoM	12175
-Gross International Reserves	7695,9540
+Gross International Reserves	7695,9540,1863
 Gross International Reserves Imports	17235
 Gross Liab	17257
 Gross Lib	13868
@@ -243,7 +247,7 @@ Gross Loans Profitability	11131
 Gross National	14997,1945
 Gross National Disposable Income	2775
 Gross National Happiness Pillars	14965
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2
 Gross National Income GRM Government of Burundi	13331
 Gross National Income GSMA	18485
 Gross National Income GoKE Government	6539
@@ -305,6 +309,7 @@ Inclusion GDP Gross Domestic Product AI	12444
 Inclusive Development Grievance Redress Mechanism Gross	15553
 Increased Gross	16436
 Increasing Gross Domestic Expenditure	12175
+Index GDP Gross Domestic Product GEI	18931
 Indicator Dec-24r Dec-25 Gross Assets	17235
 Indicator GDP Gross Domestic Product SDR	18851
 Infrastructure Gross	16996

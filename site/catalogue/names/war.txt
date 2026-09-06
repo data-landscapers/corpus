@@ -6,9 +6,9 @@ ANACIM Warnings	18309
 ANRPTS WARDIP	18007
 AON-05 WARDIP	17914
 AON-05 WARDIP-2025 Intitulé du Marché	17914
-AP-01 DP-15 WARDIP-2026	18037
+AP-01 DP-15 WARDIP-2026	18037,1120
 AP-01 DP-15 WARDIP-2026 Crédit	5983
-AP-01 DP-15 WARDIP-2026 Intitulé du Marché	18037
+AP-01 DP-15 WARDIP-2026 Intitulé du Marché	18037,1120
 Aaron Parker Trade Ministry Warns Importers	18516
 Accelerate War Crimes Court	17139
 Actual WARDIP-C	17219
@@ -113,7 +113,7 @@ EU European Union EWS Early Warning	17849
 EU-funded Strengthening Early Warning	18392
 EW4All Weather Warnings for All Franc CFA	11553
 Early Action Warning System SNIS National	18198
-Early Warning	12003,974,118,26,1802,1036,412,576,4,206,1549,81
+Early Warning	12003,974,118,26,1802,1036,412,576,4,206,1549,81,117
 Early Warning A. Disaster Risk Knowledge	12977
 Early Warning Signal Against	5550
 Early Warning System	11134,2505,615,2693,23,187,1152
@@ -174,6 +174,7 @@ GIEWS Global Information and Early Warning System	15118
 GWP Global Warming Potential Ha Hectare	17140
 Gaps Bridging the Gap for WARDIP-SOP2	17114
 Gestão Support WARDIP-F	17219
+Global Information and Early Warning System	19054
 Global Telecommunication System GWL Global Warming	18578
 Global Warehouse Finance Program	11469
 Global Warming Potential	17114
@@ -238,6 +239,7 @@ MHEWS Multi-Hazard Early Warning System MoU	18578
 MTN Congo and Warid	15372
 Mainika Babban Gida Ward	12051
 Makeni Port Loko WARD C	18476
+Male Medical Ward	18937
 Mara K. Warwick Regional Director	13332
 Marang Ward Councillor Keaobaka Bantatetse	5295
 Mark Warschauer	6948
@@ -269,7 +271,7 @@ Mtandire Ward	12978
 Multi Hazard Early Warning Systems	18787
 Multi-Hazard Early Warning	12977
 Multi-Hazard Early Warning System	12977,1471,1689
-Multi-Hazard Early Warning Systems	11191,1498
+Multi-Hazard Early Warning Systems	11191,1498,6371
 Mwenshe Ward	13387
 NBR Electronic Data Warehouse	15023
 NCA ADVANCES WARNING DISSEMINATION UNDER EW4ALL	18688,15
@@ -300,7 +302,7 @@ O PROJECTO Support WARDIP-F-002-2024	17219
 O WARDIP	9426,7986
 Ofﬁce of Senator Elizabeth Warren	11154
 Opposition Activist Warns Against	7312
-Ouest WARDIP	5983,11931,117,6
+Ouest WARDIP	5983,11931,117,6,1120
 Outcomes Improved Hydo-Meteorological Early Warning Services	17962
 PAA WARDIP 02.01.2026.pdf	17963
 PAD for WARCIP Benin	15424
@@ -457,7 +459,7 @@ WARCIP and RCIP	15424
 WARCIP-era	4436
 WARD COMMITTEES	18467
 WARD-C	18476
-WARDIP	1175,2,1,1,1,1,1,82,1034,373,1688,76,927,33,5,350,233,286,79,74,101,387,1066,1,579,870,231,189,1038,658,3,7,3,14,4256,319,57,725,10,102,33,1,5,8,14,15,91,13,1,68,1,92,6,26,490,40,21,21,23,497
+WARDIP	1175,2,1,1,1,1,1,82,1034,373,1688,76,927,33,5,350,233,286,79,74,101,387,1066,1,579,870,231,189,1038,658,3,7,3,14,4256,319,57,725,10,102,33,1,5,8,14,15,91,13,1,68,1,92,6,26,490,40,21,21,23,497,664
 WARDIP Digital Transformation for Africa	1264
 WARDIP Guine-Bissau	11555
 WARDIP Guiné-Bissau	9846,7438
@@ -686,6 +688,7 @@ Warrant	14135
 Warrantage	13390
 Warrantage Equipment	13390
 Warrantage Oui Non	13390
+Warranties Although the LICENSOR	18904
 Warrants	1988
 Warrants ZRCP	1988
 Warranty	34,1954,9976,717,504

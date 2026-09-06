@@ -54,7 +54,7 @@ CELCOM AFRICA LIMITED Data Processor INST-57229878129	7167
 CELCOM PRIMATURE	16018
 CELESTIAL DENTAL CENTRE LIMITED Data Controller	7167
 CELESTINA SORAIA TUNGUNO CACULO CASSANGE	10751
-CELEX	6476,1,1208,848,2242,44,335,1,3279,1066,1343,176,1697
+CELEX	6476,1,1208,848,2242,44,335,1,3279,1066,1343,176,1697,269
 CELIK HEALTH LIMITED Data Controller INST-1045219F640	7167
 CELITE LIMITED Data Processor INST-363608A2D51 NAIROBI	7167
 CELLCOM	7032
@@ -64,6 +64,7 @@ CELLIPAY LIMITED Data Processor INST-444897FFE65 NAIROBI	7167
 CELLISCOPE HEALTH CARE LIMITED Data Controller	7167
 CELLULANT KENYA LIMITED Data Processor INST-8727851DD81	7167
 CELLULAR SOFTWARES LIMITED Data Processor INST-419821277DB	7167
+CELLULE DE LUTTE CONTRE LA CYBERCRIMINALITÉ	19149
 CELLULE DE PLANIFICATION ET DE STATISTIQUE	17845
 CELLULE DE. COMMUNICATION	16414
 CELLZ-R-US LIMITED Data Processor INST-7714043563D NAIROBI	7167
@@ -236,10 +237,10 @@ Cellcom MTN Orange	16626
 Cellcom. Despite	16741
 Celle	2342,2437,427,306,723,654,1012,540,2386,20,791,2765,438,556,26,750,448,1195,47,307,154,23
 Celle de Bobo-Dioulasso	10875
-Celle-ci	2342,353,424,598,703,147,127,1014,426,265,206,727,384,393,782,242,144,736,22,50,388,340,61,101,118,23,637,290,1250,48,49,86,181,62,62,22,620,974,26,21,11,57,30,56,45,60,19,5,6,115,4,11,73,7,22,3,31,48,61,40,1,9,45,92,99,32,111,96,27,1159,26,10,6,21,17,94,10,11,76,232,2,18,62
+Celle-ci	2342,353,424,598,703,147,127,1014,426,265,206,727,384,393,782,242,144,736,22,50,388,340,61,101,118,23,637,290,1250,48,49,86,181,62,62,22,620,974,26,21,11,57,30,56,45,60,19,5,6,115,4,11,73,7,22,3,31,48,61,40,1,9,45,92,99,32,111,96,27,1159,26,10,6,21,17,94,10,11,76,232,2,18,62,497,186
 Celle-là	8219
 Celles	12,725,1253,6901,2032,4467,103,49,57,2213,32,299,27,116
-Celles-ci	5891,33,317,1955,488,207,650,1434,2400,199,308,481,186,812,62,51,68,52,4,114,3,7,126,60,28,392,1120,26,157,1,8,254,84,116,228,2
+Celles-ci	5891,33,317,1955,488,207,650,1434,2400,199,308,481,186,812,62,51,68,52,4,114,3,7,126,60,28,392,1120,26,157,1,8,254,84,116,228,2,726
 Celles-ciÊ	18065
 Celles-là	9280
 Cellesci	14425
@@ -276,7 +277,7 @@ Cellular Quality of Service	718
 Cellular Telecommunications	736
 Cellular Tower	15578
 Cellular and Landline Phone	11211,51
-Cellule	1984,1412,47,726,2409,545,1385,785,1419,146,18,89,10,176,765,28,14,1764,439,263,1,1006,111,38,15,64,53,26,8,22,15,229,87,96,170,24,47,89,6,96,1,956,240,3,2,1,12,28,2,4,6,12,5,46,87,45,26,1,1,12,4,128,37,5,6
+Cellule	1984,1412,47,726,2409,545,1385,785,1419,146,18,89,10,176,765,28,14,1764,439,263,1,1006,111,38,15,64,53,26,8,22,15,229,87,96,170,24,47,89,6,96,1,956,240,3,2,1,12,28,2,4,6,12,5,46,87,45,26,1,1,12,4,128,37,5,6,604
 Cellule Accréditation	17876
 Cellule Assurance Qualité	18121
 Cellule CCDA Amélioration	10975
@@ -313,14 +314,16 @@ Cellule Technique du Cadre Stratégique de Lutte	17842
 Cellule Télé-services	17872
 Cellule Vérifie	10876
 Cellule de Collecte	17899
+Cellule de Com	18926
 Cellule de Communication	5471,10547,132,185,1537,414
 Cellule de Contrôle Interne CILSS	10874
-Cellule de Coordination	1284,16558,40,17
+Cellule de Coordination	1284,16558,40,17,1002
 Cellule de Coordination des Projets	15936
 Cellule de Coordination du Projet des Villes	16213
 Cellule de Gestion	10712
 Cellule de Gestion des Marchés Publics	11905,1396,2358
 Cellule de Gestion des Projets	15569
+Cellule de Gestion du Projet	18967
 Cellule de Lutte	18291
 Cellule de Mise	16365
 Cellule de Passation des Marchés	13524
@@ -336,7 +339,7 @@ Cellule de Traitement du Renseignement Financier. Elle	17083
 Cellule des Affaires	8269
 Cellule des Archives	17827
 Cellule des Etudes	18291
-Cellule des Filets Sociaux	18104
+Cellule des Filets Sociaux	18104,886
 Cellule des Informations Sanitaires Charles YOPNDOI	15599
 Cellule des Informations Sanitaires du Ministère	16195
 Cellule des P1	18291
@@ -361,7 +364,7 @@ Celsius.50 Equatorial Guinea	16996
 Celso Matos	18871
 Celso Soares	6837
 Celta Vigo Xinhua	2743
-Celte	15429
+Celte	15429,3468,47
 Celtel	4150,2684,403
 Celtel Congo	15455
 Celtel Niger	998,17107,17
@@ -374,8 +377,9 @@ Celtiis Cash. Malgré	2261
 Celtis	3150,12442
 CeltixConnect-2	1766
 Celui	436,4309,34,292,435,245,2468,109,1507,1130,2328,2240,51,87,56,147,1565,259,149,14,11,131
+Celui de Moov Africa	18919
 Celui du Commerce	9819
-Celui-ci	735,451,45,56,1113,164,956,2053,112,539,446,723,320,1178,404,32,183,1315,51,974,241,1199,3,48,368,72,382,201,48,450,486,1,15,33,32,36,9,110,19,82,15,3,12,12,53,188,31,64,73,109,211,157,13,813,225,167,12,18,21,219,18,3,47,43,45,31
+Celui-ci	735,451,45,56,1113,164,956,2053,112,539,446,723,320,1178,404,32,183,1315,51,974,241,1199,3,48,368,72,382,201,48,450,486,1,15,33,32,36,9,110,19,82,15,3,12,12,53,188,31,64,73,109,211,157,13,813,225,167,12,18,21,219,18,3,47,43,45,31,612,26,159
 Celulares Proporção	11418
 Celur-ci	15348
 Celyntis	9968,7733
@@ -563,6 +567,7 @@ Madame Celza Eméline Ariane DADAGLO Au	17584
 Mai Nefhi College of Engineering and Technology Celebrates	14117
 Marketing Cell	13025
 Mastercard. Cela	12128
+Millicom International Cellular	18887
 Minister Cell	9584,1694
 Ministre Celui	6383
 Ministère des Finances Cellule	10965
@@ -577,7 +582,7 @@ Mobile Cellular Network Coverage	18444
 Mobile Cellular Operators	958
 Mobile Cellular Penetration	12395
 Mobile Cellular Penetration Mobile Broadband Penetration	12395
-Mobile Cellular Services	6946
+Mobile Cellular Services	6946,12205
 Mobile Cellular Services Global	6946
 Mobile Cellular Subscribers	12395
 Mobile Cellular Subscription Density	16975

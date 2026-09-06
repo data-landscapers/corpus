@@ -1,6 +1,7 @@
 ACCEPT	5715
 ACCEPT ALL	6181
 ACCEPT Powered	6181
+ACCEPT THE LOWEST	18965
 ACCEPTANCE OF BID CONDITIONS AND BIDDER’S	11209
 ACCEPTE	13300
 ACCEPTED FOR CONSIDERATION	11240
@@ -32,7 +33,8 @@ Acceptable Use	15164
 Acceptable Use Policies	15164
 Acceptable Use Policy	15164
 Acceptable Use Policy DGE	13956
-Acceptance	3,2945,766,5523,2624,503,553,13,107,34,114,888,1133,1633,61
+Acceptance	3,2945,766,5523,2624,503,553,13,107,34,114,888,1133,1633,61,2025
+Acceptance Certificate	19131
 Acceptance Criteria	5665
 Acceptance Reports	12400
 Acceptance Terms	11941
@@ -41,6 +43,7 @@ Acceptance Testing UKZN University of KwaZulu-Natal UniLim	11197
 Acceptance and Use of Technology	9129
 Acceptance of Bid Conditions	11209
 Acceptance of Bid Conditions and Bidder’s Details	11209
+Acceptance of Digital Signature Certificate	18883
 Acceptance of Judgments	14409
 Acceptance of Licensed Payment Instruments. All Public	14014
 Acceptance of Payments	14014
@@ -59,7 +62,7 @@ Accepted. The WHO Djibouti	13858
 Accepted.pdf Deloitte	961
 Accepter	3577,4340,1133,4510,1467,3110
 Accepteriez-vous	13390
-Accepteur	11522,2190
+Accepteur	11522,2190,5204
 Acceptez	6954
 Accepting	6001,431,4384,1398,444,549
 Accepting the American	8479
@@ -104,6 +107,7 @@ Generally Accepted Accounting Practice	13420
 Generally Accepted Privacy Principles	8022
 Governance-Mediated Technology Acceptance	5349
 ICT Acceptable Use Guidelines and Procedures	12453,892
+Impact and Community Acceptance CAD4TB	19062
 Indicator Proportion Acceptable Use Policy	15164
 Integrative Model Explaining Community Acceptance	11006
 July2025 Accepted	8603

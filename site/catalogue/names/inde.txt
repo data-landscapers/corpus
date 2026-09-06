@@ -81,6 +81,7 @@ Aniversário da Independência de São Tomé	6837
 Annex ANNEX Table E-Government Development Index	10840
 Anniversary of Algeria's War of Independence	16331
 Anniversary of Independence	6831
+Anniversary of Seychelles’ Independence	19163
 Annual Independent Audits	12932
 Annual Weighted Mean Vegetation Health Index	11762
 Anti-Corruption Index CMF	5951
@@ -132,6 +133,7 @@ Bai Gbala Independent Consultant Atty. Darius	17260
 Bangladesh Global Cybersecurity Index	10764
 Belarus Global Cybersecurity Index	10764
 Belize Global Cybersecurity Index	10764
+Benchmark Index Score	18910
 Bertelsmann Transformation Index	15500,1442,54
 Beyond Independence	4253
 Body An Independent Data Protection Act	18669
@@ -207,7 +209,7 @@ Colegio Nacional la Independencia Micomiseng	4209
 Collaboration Index	7548
 Collaboration Index Technologies-enabled	7548
 Combined Drought Index	15093
-Commerce Index	13345
+Commerce Index	13345,5586
 Commerce Index BASELINE YEAR	12453
 Commercialization Global Innovation Index	7548
 Commission Electorale Nationale Independante	2670
@@ -326,6 +328,7 @@ Development Index HIPC Heavily Indebted Poor	15244
 Development Index ISPs ITU MICS PURA	16992
 Development of Teacher Professional Development Index	13392
 Dia da Independència Nacional	17034
+Difference Vegetation Index	19080
 Digital Accessibility Rights Evaluation Index	11935
 Digital Accessibility Rights Evaluation Index Key	11935
 Digital Adoption Index	13314,2133,1495,928
@@ -470,7 +473,7 @@ Financial Stability Framework Index	6938
 Financial Stability Index	6938
 Financial System Stability Index	7763
 Firearm Index	14760
-Firm Level Technology Absorption Index	17870
+Firm Level Technology Absorption Index	17870,1061
 Firm-Level Technology Absorption Index	17870
 First Quarter African Prepaid Pricing Index	236
 Flood Index and Pastoral Index	14254
@@ -478,6 +481,7 @@ Food Price Index	15620
 Food and Agriculture Organisation Food Price Index	11134
 Fragile State Index	13358
 Fragile States Index	11545,5407
+Fragile States Index Annual Report	18931
 France Global Cybersecurity Index	10764
 Freedom House AI Surveillance Index	121,138,83,133
 GAIN Index	15604
@@ -551,13 +555,14 @@ Germany Global Cybersecurity Index	10764
 Ghana AI Readiness Index. Learn	4126
 Ghana Global Cybersecurity Index	10764
 Ghana's Global Cybersecurity Index	15704
-Gini Index	1828,9573,6469
+Gini Index	1828,9573,6469,1061
 Global AI Index	4528,1173,6811,3201
 Global AI Index Report	14004
 Global AI Responsibility Index	9633
 Global Availability Index Ig	14867
 Global Competitiveness Index	13314,2177,222,2157,14
 Global Competitiveness Index GDP Gross Domestic	15491
+Global Competitiveness Index13	18931
 Global Computing Power Index Assessment	15713
 Global Crypto Adoption Index	6679,2551,479
 Global Cyber Security Index	14897,100,1644
@@ -576,7 +581,8 @@ Global Digital Identity Index URL	13984
 Global Drought Observatory Monthly Aridity Index	17157
 Global Economy The Logistics Performance Index	11895
 Global Ecosystem Index	14749
-Global Entrepreneurship Index	12540,2907,103,1326,994
+Global Entrepreneurship Index	12540,2907,103,1326,994,1061
+Global Entrepreneurship Index GHG Greenhouse	18931
 Global Finance Safety Index	14997
 Global Financial Centers Index	14997
 Global Financial Centres Index	14819
@@ -643,9 +649,10 @@ Government AI Readiness Index	2816,1812,482,1285,208,945,53,6470,1642,333,156,43
 Government AI Readiness Index. Disponível	2816
 Government AI Readiness Index. Hindy	16131
 Government AI Readiness Index. The Index	14071
-Government Development Index	2383,146,171,91,13,800,6296,885,67,1015,586,206,655,31,462,1,921,21,871,1264,985
+Government Development Index	2383,146,171,91,13,800,6296,885,67,1015,586,206,655,31,462,1,921,21,871,1264,985,1061
 Government Development Index Average	15447
 Government Development Index EMI Electronic Money	17870
+Government Development Index EdTech Educational Technologies	18931
 Government Development Index FCV Fragility	11545
 Government Development Index GBV Gender-Based Violence	13731
 Government Development Index Gross Domestic Product	15480
@@ -655,9 +662,11 @@ Government GEI Global Entrepreneurship Index GNI	18454
 Government Index	1912,1352,11410,55,789
 Government Readiness Index	15372
 Government Systems Index	11569
+Governments of Independent States of Southern Africa	19185
 Governo Aberto Delivery Index	11569
 Grenada Global Cybersecurity Index	10764
 Gross Settlement SCI Statistical Capacity Index	18825
+Groupe Consultatif Technique Independent GLPE	18942
 Guiding Principles and Professional Independence	14594
 Guinea-Bissau Global Cybersecurity Index	10764
 Guinea’s Human Capital Index	16675
@@ -697,15 +706,16 @@ Hirschman Index	12256
 Hlane At Independent News Eswatini	5799
 Honduras Global Cybersecurity Index	10764
 House EGDI E-government Development Index Technology	14897
-Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4
+Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4,473
 Human Capital Index Australia	15634
 Human Capital Index Hands-on Expanded Implementation	15553
 Human Capital Index Report	15447
 Human Capital Index and Sub-components Comparison	17870
 Human Capital Index.35	10856
 Human Capital Indexes	15658,1456
-Human Development Index	3583,7421,397,124,20,15,21,5,378,975,419,599,785,155,617,4,32,111,64,659,558,24,7,316,214,346,34,79,496,158,43,128,22
+Human Development Index	3583,7421,397,124,20,15,21,5,378,975,419,599,785,155,617,4,32,111,64,659,558,24,7,316,214,346,34,79,496,158,43,128,22,78,24
 Human Development Index HIV	14857,2094
+Human Development Index Ranking	18911
 Human Development Index of The Gambia	16952
 Human Development Index. Almost	14443
 Human Development Index. Human Development Reports	15725
@@ -836,7 +846,7 @@ Indecent Content	18667,8
 Indecis Q56 Pensez-vous	13390
 Indecis Q57 Pensez-vous	13390
 Indecisive	10841
-Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295
+Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2
 Indeed NBR	15023
 Indefeasible Right of Use	7014,5239
 Indefeasible Rights of Use	4676,10289
@@ -846,12 +856,12 @@ Indefinite	14674
 Indeje David	8764
 Indeks	10780
 Indemnifica-	11976
-Indemnification	3714,8262,1335
+Indemnification	3714,8262,1335,5593
 Indemnification of Directors	3714
 Indemnisation	17819
 Indemnisation des Expropriés	15455
 Indemnisotion	15429
-Indemnity	736,11220,579,13,81,556,126,2590,935
+Indemnity	736,11220,579,13,81,556,126,2590,935,2045
 Indemnity Agreement	15905
 Indemnity Financial and Accountability Provisions	12530
 Indemnity Form Saga	12038
@@ -871,28 +881,31 @@ Indentification	12214
 Indep	1198
 Indepay	11994
 Indepay Introduces Zero-Fee Digital Payments Platform	11994
+Indepen- Artigo	18896
 Independamment	15584
 Independance	18430
 Independant Power Producer MEFP Ministère	15769
-Independence	718,502,2166,116,359,1035,2216,62,277,1202,929,731,27,35,756,1196,62,564,6,336,19,163,471,493,105,231,85,1394,29,558,18,55,69,256,123,254,602,214,171,64
+Independence	718,502,2166,116,359,1035,2216,62,277,1202,929,731,27,35,756,1196,62,564,6,336,19,163,471,493,105,231,85,1394,29,558,18,55,69,256,123,254,602,214,171,64,450
 Independence AC	13298
-Independence Anniversary	13024
+Independence Anniversary	13024,6039,1
 Independence Anniversary. Awoonor	5277
 Independence Anniversary. Going	6831
 Independence Article	13097
 Independence Assumptions	12978
-Independence Avenue	12625,986
+Independence Avenue	12625,986,5369
 Independence Avenue Emmanuel Church Zanele Mbeki	13046
 Independence Avenue Gaborone	12559
 Independence Avenue Soweto Market	13046
 Independence DPOs	13381
-Independence Day	2968,1204,992,563,624,1750,3231,1293,1249,2411,2406
+Independence Day	2968,1204,992,563,624,1750,3231,1293,1249,2411,2406,266,104,79
 Independence Day Anniversary	13956
 Independence Day Celebrations. Page	14835
 Independence Day President His Highness Sheikh	18759
 Independence Day and Republic Day	7845
 Independence Day. View Details Wed	18759
 Independence Drive	12214,839
+Independence House	19040
+Independence House. Consultants	18965
 Independence Of Authority. Commissioner General	18466
 Independence Square	14706
 Independence and Access	15231
@@ -909,10 +922,11 @@ Independence of Commission. Resignation	18459
 Independence of Commissione	18438
 Independence of Cyberspace	2117
 Independence of Data Collection	14828,3
+Independence of Seychelles	19060
 Independencia	16898
 Independencia Energética	17399
 Independency	16863
-Independent	2423,286,2044,240,463,209,11,711,45,31,353,169,162,26,132,132,529,17,105,213,164,163,208,30,257,276,74,127,60,59,543,51,27,453,213,1,9,115,3,22,24,116,12,277,106,13,123,30,48,7,88,95,261,144,52,501,42,192,174,1619,40,29,514,1170,7,3,5,54,41,75,77,623,27,564,222
+Independent	2423,286,2044,240,463,209,11,711,45,31,353,169,162,26,132,132,529,17,105,213,164,163,208,30,257,276,74,127,60,59,543,51,27,453,213,1,9,115,3,22,24,116,12,277,106,13,123,30,48,7,88,95,261,144,52,501,42,192,174,1619,40,29,514,1170,7,3,5,54,41,75,77,623,27,564,222,454
 Independent Administrator	170,17723,546
 Independent Advisory Board of Experts	4528,7984
 Independent Agent	18537
@@ -981,7 +995,7 @@ Independent Electoral and Boundaries Commission	1630,2128,4075,958,754,100,693,4
 Independent Electoral and Boundaries Commission Act	1630,9192
 Independent Electricity Distribution Network	12062
 Independent Electricity Distribution Network IE Ikeja	12062,6124,31
-Independent Engineer	5793
+Independent Engineer	5793,13094
 Independent Environmental Audit	1988
 Independent Evaluation	16921
 Independent Evaluation Board	13226
@@ -1082,7 +1096,7 @@ Independent Verification Agency	6539,4290,2563,2301,945
 Independent Verification Agency KPI Key Performance	17458
 Independent Verification Agent	6539,5849,3414
 Independent and Pluralistic Media	17017
-Independente	18772
+Independente	18772,124
 Independentemente	2953,7824,653,84,6,41,8,449,835,3236,33,2642
 Independently	1326,1,2,1,686,1,2,1,2136,1,2,1,111,257,3664,4320
 Independientemente	16962
@@ -1106,6 +1120,7 @@ Index Definition	17140
 Index Description	12917
 Index ESB Enterprise Service Bus FISP	13345
 Index EXECUTIVE SUMMARY	14022
+Index GDP Gross Domestic Product GEI	18931
 Index Growth	18847
 Index HCP High Commission for Planning HD	17458
 Index HCW Healthcare Waste HMIS Health	16896
@@ -1295,7 +1310,7 @@ Multidimensional Poverty Index MSMEs	17101
 Multidimensional Poverty Index S-MPS Sudan Multidimensional	15244
 Multidimensional Poverty Index. NISR	12403
 Multidimensional Poverty Index. World Development	15244
-Multidimensional Vulnerability Index	7760
+Multidimensional Vulnerability Index	7760,11167,133,121
 Myanmar Global Cybersecurity Index	10764
 NAMIBIA PRODUCER PRICE INDEX BULLETIN-SECOND QUARTER	11152
 NATIONAL ASSEMBLY ELECTIONS Independent Electoral Commission	12652
@@ -1340,6 +1355,7 @@ Neasow Davis Independent Consultant Report Writing	17260
 Network Readiness Index	11195,662,476,341,2078,1889,1219,10
 Network Readiness Index Country Comparison	11857
 Network Readiness Index Model	11857
+Networked Economy Index	18887
 Networked Readiness Index	15512,30,50
 Networked Readiness Index PSDMA	15512
 Networked Readiness Index. Global Information Technology	961
@@ -1466,6 +1482,7 @@ Producer Price Index SARB South African	11258
 Producer Price Indexes PSDS Public Sector	14777
 Producer Prices Index	2775
 Production Index	14777
+Produtores Independentes	18896
 Professional Independence	14777,2339
 Progress DARE Index Score Summary	11935
 Project Targeting Index	17906
@@ -1479,6 +1496,7 @@ Protocol IPP Independent Power Producers IPP	2775
 Provisions Indeed	5678
 Proyecto de Indemnización	4209
 Proyecto de Reforzamiento INDEFOR-AP	4209
+Príncipe. Praça de Independência	19014
 Public Independent Conciliator	15469,252
 Public Service Delivery Index	10785,1082,2117
 Pulse Internet Resilience Index	18633
@@ -1495,6 +1513,7 @@ RAL REGLEMEATAIRE FAIRS CARD INDEY SERVICE	15999
 RAMP Index	583,9176,1436,4991
 RAMP Index for Q4	16186
 RAMP Index. Prices	9759
+RECTIFICATION AND INDEMNITY Rectification	18881
 RED SEA STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 REPORT OF THE INDEPENDENT REPORTING ACCOUNTANTS	4896
 REPORT OF THE INDEPENDENT TECHNICAL ADVISORY	1679,10228,1442
@@ -1719,7 +1738,7 @@ UN Development Programme's Human Development Index	14101
 UN E Government Development Index	13312,1653
 UN E- Government Development Index	13314
 UN E-Gov Index	5114
-UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705,7268,181,892,1329,3782,384
+UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705,7268,181,892,1329,3782,384,312
 UN E-Government Index	15514
 UN E-Participation Index	10785,8055
 UN E-participation Index	12453,892
@@ -1729,6 +1748,7 @@ UN Human Capital Index	10785
 UN Human Development Index	3584,8318
 UN Independent Expert	3109,474
 UN Independent International Scientific Panel	5074,1859,179,24,5624
+UN Multidimensional Poverty Index	18910
 UN Online Service Index	10785
 UN Open Government Data Index	12453,892
 UN Telecommunication Infrastructure Index	10785
@@ -1746,7 +1766,7 @@ UNICEF WASH Independent Evaluation Group Interim	16436
 UNYIELDING JUDICIAL INDEPENDENCE	12920
 UN’s E-Government Index	16942
 UN’s EGovernment Development Index	16876
-UN’s Human Development Index	17870,13
+UN’s Human Development Index	17870,13,1050
 UN’s Independent International Scientific Panel	7112
 US-Kenyan Health Cooperation Framework. Indeed	7711
 Under the Risk Mitigation Independent Power Producer	11248
@@ -1756,6 +1776,7 @@ United Kingdom Global Cybersecurity Index	10764
 United Nation's E-Government Development Index	12674
 United Nations E-Government Development Index	4299,101,526,7288,6419
 United Nations E-Government Development Index.2	17870
+United Nations E-Government Development Index.9	18931
 United Nations E-Government Index	18777,74
 United Nations E-Participation Index	11569
 United Nations Electronic Government Development Index	15491

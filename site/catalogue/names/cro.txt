@@ -138,6 +138,7 @@ CROSS-CUTTING ANALYSIS	17139
 CROSS-CUTTING ANALYSIS Beyond	17139
 CROSS-CUTTING AREAS	16942
 CROSS-CUTTING BUSINESS NEEDS	11017
+CROSS-CUTTING DIMENSIONS Several	18931
 CROSS-CUTTING ISSUES	1243,11732
 CROSS-CUTTING STRATEGIC PRIORITIES	12701
 CROSS-CUTTING THEMES AND ISSUES	16874
@@ -204,7 +205,7 @@ Croatia EUR HI	17743
 Croatia Global Cybersecurity Index	10764
 Croatia National Register of Natural Persons	10714
 Croatia Yes National Framework Programme	11529
-Croatian	4849,2961
+Croatian	4849,2961,11175
 Croatian-Libyan	4849
 Croatie	6613,2278
 Crocetti	1243
@@ -212,7 +213,7 @@ Crocodylinae	18118
 Crocus	16103
 CroenfceensesdiontoraNlaoLso.atchneA..Agrgereemeemnet	15399
 Croisement	11934,4036,358
-Croissance	12,407,828,1910,1730,2768,113,169,954,1821,251,1,1,10,2350,1297,776,81,21,1,38,3,423,72,291,298,15,1176,25,141,303,20
+Croissance	12,407,828,1910,1730,2768,113,169,954,1821,251,1,1,10,2350,1297,776,81,21,1,38,3,423,72,291,298,15,1176,25,141,303,20,682
 Croissance Accélérée	17873
 Croissance Accélérée SFD Services Financiers Décentralisés	18286
 Croissance Annuel Moyen TE	18322
@@ -236,7 +237,7 @@ Croissant Rouge Algérien. Article	15885
 Croissant Rouge Algérien. Le Directeur des Ressources	15885
 Croissant Rouge Mauritania	17849
 Croissant-rouge	16085
-Croix	10975,4749,2375,101
+Croix	10975,4749,2375,101,917
 Croix Rouge	13360,3261
 Croix Rouge Conseil National	13442
 Croix Rouge Guinéenne Soins	16621
@@ -252,7 +253,7 @@ Cronin and George	17773
 Cronograma	10783,665,8,5442
 Cronograma de Actividades	10772
 Cronogramas	16321
-Cronologia	11523,7261
+Cronologia	11523,7261,161
 Cronyism	6562
 Crook ED	16024
 Crooked	6196
@@ -262,6 +263,7 @@ Crop Conditions Monitoring and Analysis Utilise	13925
 Crop Cultivation	17043
 Crop Cut Campaign	13094
 Crop Data	18706
+Crop Disease	18904
 Crop Estimates	13094
 Crop Estimates Committee	11334
 Crop Fallow	17140
@@ -276,7 +278,7 @@ Crop Measurement and Evaluation	14563
 Crop Modern	17043
 Crop Number	17043
 Crop Optimization	15713
-Crop Production	13368,31,3644,114
+Crop Production	13368,31,3644,114,1747
 Crop Production Activities	17043
 Crop Production Activities Agricultural	17043
 Crop Production Planted Area	17043
@@ -461,6 +463,7 @@ Cross-Country Perspective NOTE	12948
 Cross-Country Public Transport Service System	12200
 Cross-Cultural Foundation of Uganda	3745
 Cross-Cultural Learning	12675
+Cross-Curricular Integration	19079
 Cross-Cutting	17157
 Cross-Cutting Achievement	13095
 Cross-Cutting Enablers	11940,977,1902
@@ -633,6 +636,7 @@ Crossroads The Global Cybersecurity Index	10848
 Crosswalk	43,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,3,1,1,3,3,4,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,2,1,2,2,3,5,1,1,1,1,2,5,1,1,1,1,2,1,1,2,1,4,1,1,1,1,2,1,1,1,1,1,1,1,1,3,2,4,8,1,1,1,2,2,2,1,1,1,3,5,1,1,1,2,1,1,4,3,1,1,2,1,1,1,1,1,1,1,2,1,1,1,3,3,7,7,1,1,1,1,1,1,1,2,2,1,4,2,2,2,1,2,1,1,2,2,1,1,1,1,3,1,1,1,1,1,3,1,1,1,1,1,1,2,1,8,3,2,2,7,10,1,1,1,2,2,1,6,1,2,1,2,1,1,1,1,1,1,2,3,1,1,4,1,1,1,1,4,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,1,1,1,2,3,4,9,1,21,1,2,1,1,1,3,1,1,3,1,1,2,1,1,2,1,2,1,1,1,1,2,1,1,1,1,1,1,1,5,2,3,4,1,1,1,1,1,1,1,1,2,1,1,2,2,2,2,3,1,1,1,2,2,2,2,1,1,1,7,9,14,11,6,11,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,2,3,3,1,2,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1,1,3,1,2,1,1,1,1,1,2,1,1,1,1,1,2,5,1,3,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,17,4,2,1,6,1,8,1,11,3,3,11,1,1,1,1,1,1,1,1,6,1,2,3,2,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,2,1,1,1,1,2,1,2,3,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,2,3,1,1,1,1,1,1,2,1,3,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,2,2,2,1,1,1,1,1,1,1,1,1,1,4,1,1,2,2,1,1,2,1,1,5,1,2,1,1,1,1,2,1,1,1,1,2,12,3,5,2,6,5,1,3,1,6,20,1,19,1,1,1,4,1,1,1,1,1,1,1,1,2,1,2,1,4,1,1,1,1,1,6,2,2,1,1,3,1,1,2,1,1,1,1,2,2,3,1,1,2,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,3,1,1,1,1,2,2,1,2,1,1,1,1,2,1,16,7,4,15,61,3,10,113,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,2,1,1,1,1,1,1,5,2,1,2,1,2,1,1,1,1,1,1,3,1,1,1,1,4,5,2,1,1,1,1,1,2,2,1,1,3,1,1,3,5,5,1,1,3,1,1,1,2,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,4,1,1,1,1,1,1,3,1,3,2,1,3,1,1,1,9,6,186,1,128,148,79,1,1,1,10,1,2,1,7,1,4,4,1,2,1,1,1,2,2,2,2,1,1,1,1,1,1,1,2,1,1,1,2,2,2,2,2,2,4,1,2,1,1,1,2,5,1,1,2,1,1,2,1,1,1,1,6,1,1,2,5,2,2,2,2,2202,2,7,1,12,27,4,11,1,5,841,1303,8207
 Crosswalk Recommendation Industrywide Fraud Intelligence	11138
 Crossword Puzzle	10001
+Crossâ	18887
 Crouching Tiger	5700
 Crowcroft	2096,6187
 Crowd	2096,3604,5440,3775
@@ -712,6 +716,7 @@ Distribution of Crop Holdings	17043
 District Councils and Mauritius Red Cross Society	14738
 Document Media Interchange XDS Cross-Enterprise Document	1009
 Document de Stratégie de Croissance	15480
+Documento Cronologia	18946
 Domiciled Canada. Crosswalk	943
 Dr. Zeynep Engin and Professor Jon Crowcroft	1246
 Drive Cross-Border Growth for African SMEs Uganda	10672
@@ -781,7 +786,7 @@ Fruit Crop Cultivation Fruit	17043
 G20 Members’ Regulations of Cross-Border Data Flows	1243
 G20 Roadmap for Enhancing Cross-border Payments	11130
 GENDER AND OTHER CROSS-CUTTING ISSUES ENVIRONMENT	14935
-GIEWS Earth Observation for Crop Monitoring	16464,708
+GIEWS Earth Observation for Crop Monitoring	16464,708,1882
 GLOBAL Crosswalk	65,1,8,59,70,1,70,91,8,113,3,2,3,160,7,3,5,1,201,226,9,372,1,4,5,1,15,682,2,2,2,4
 GOVERNANCE OF CROSS-BORDER DATA FLOW	1243
 GUIDANCE ON CROSS-BORDER DATA TRANSFER	11956
@@ -915,6 +920,7 @@ Maroc Telecom. Crosswalk	1065,376
 Mauritius Telecom Safe City Proje Crosswalk	259
 Measuring Governance Using Cross- Country Perceptions	14897
 Medium. Crosswalk	496,36,640
+Members Ms. Irene Croise	18979
 Merchants Acquiring and Cross-border	6453
 Michael Crow	17428
 Michel Crosier	11669
@@ -957,6 +963,7 @@ PARTICIPATION IN CROSS-BORDER DIGITAL TRADE	12389
 PC2D Programme de Croissance	10712
 PER DAY FOR WORK ON CROP	17043
 PHC Patient Identifier Cross-reference for Mobile PIX	1009
+PIB Croissance	19043
 PRIVE DE SANTE PUBLIQUE CROU CENTRE	18143
 PROCESSED CROP PRODUCTS Crop	17043
 PRODUCTION AND YIELD OF CROPS CULTIVATED	17043
@@ -1176,6 +1183,8 @@ XCPD Cross-Community Patient Discovery XDM Cross-Enterprise	1009
 YES. Crosswalk	854
 Yusupha B. Crookes	15372
 Yusupha B. Crookes Jose Luis Irigoyen	15372
+Yusupha B. Crookes Sector Director	18887
+Yusupha Crookes	18887
 ZAF. Crosswalk	460
 ZWE. Crosswalk	402
 Zenysis. Cross-ref	937

@@ -160,7 +160,7 @@ FehrAdvice Switzerland	13461
 Feria and Swistak	10997
 Fiber-Channel Switches	17334
 Financial Switch Operators	7018
-Finland and Sweden	9832
+Finland and Sweden	9832,9095
 First SWA ID	12367
 Founder Fred Swaniker	415
 Frais SWIFT	17833
@@ -372,6 +372,7 @@ Project Implementation The SWM	16614
 Projects Sweden	15093
 Property Swornrich Investments Pvt Ltd	4896
 Public Switched Telephone Network	6000,6395,6049
+Public Switched Telephone Network RAP Resettlement	18887
 Public Switched Telephone Network SMS	6000
 Public Switched Telephone Service	15372
 Qatar Switzerland	12151
@@ -451,7 +452,7 @@ SWAZSZMB	12252
 SWAp Coordination Office	18253
 SWAp and National Health Insurance Authority	4301
 SWCES	15878,722
-SWEDD	17946,154
+SWEDD	17946,154,842
 SWEDD HAWH2 Anta Tall Diallo Procurement	16922
 SWEDFUND	2373
 SWEEP NOTE	10144,160
@@ -467,7 +468,7 @@ SWFP-Southern Africa	11191
 SWG Secretariat	14935
 SWG and TF	14935
 SWG and TWGs	14935
-SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,409,120,515,186,203,828,999,184,201,301,33,1,97,331,579,543,348
+SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,409,120,515,186,203,828,999,184,201,301,33,1,97,331,579,543,348,1143
 SWIFT BIC	12364
 SWIFT BICs	12364
 SWIFT Bank Identifier Codes	12484
@@ -477,6 +478,7 @@ SWIFT FIN Copy Service Description	12484
 SWIFT Hardware Security Module	11134
 SWIFT Infrastructure Strengthened and Independently Assured	11134
 SWIFT MX	5125
+SWIFT Message Type	18976
 SWIFT MyStandard	15935
 SWIFT SERVICES SECTION	12484
 SWIFT Service	11955
@@ -509,7 +511,7 @@ SWIR II	16875
 SWIR1	16875
 SWISS UMEF	18170
 SWISS UMEF UNIVERSITY OF NIGER	18170
-SWITCH	12325,4553,989
+SWITCH	12325,4553,989,1064,57
 SWITCH-ON CEREMONIES ROUND-UP	13451
 SWITCH. In Liberia	16144
 SWITCHES	16878
@@ -527,7 +529,8 @@ SWORN	12887
 SWORN AFFIDAVIT FOR B-BBEE MUST	11240
 SWOT ANALYSIS	4126,8847,3911
 SWOT ANALYSIS STRENGTHS WEAKNESSES	4126
-SWOT Analysis	4126,402,7916,68,2233,67,23,22,856,1230,1532,3,134
+SWOT Analysis	4126,402,7916,68,2233,67,23,22,856,1230,1532,3,134,430
+SWOT Analysis InfoCom	19042
 SWOT Analysis SWOT Analysis	14934
 SWOT Analysis The SWOT	18478
 SWOT Analysis WEAKNESSES OPPORTUNITY THREAT	14835
@@ -565,7 +568,8 @@ Sebenta National Institute SWAGAA Swaziland Action	12975
 Secretariat. The SWG Secretariat	14935
 Sector Wide Approach SWG	12175
 Security Operation Center SWIFT Society for Worldwide	15023
-Seychelles and Swaziland	14724
+Service Delivery Indicators SWEDD	18942
+Seychelles and Swaziland	14724,4174
 Shirnel Swarts	2626
 Sim Swap- Related Fraud	17362
 Small and Medium Enterprises SWOT	16968
@@ -582,7 +586,7 @@ Spain Sweden Tanzania Thailand Türkiye United	10764
 Spain and Sweden	8346
 Spain and Switzerland	789
 Spain. Sweden	17985
-Spanish and Swedish	16843
+Spanish and Swedish	16843,2142
 Spectranet Ltd Swifttalk Galaxy Backbone Ltd	3862
 Springer Nature Switzerland	2096,422
 Springer Nature Switzerland AG	10780
@@ -595,7 +599,8 @@ Summary of SWOT Analysis	16858
 Suriname No Sweden Yes Digital Agenda	11529
 Suriname Sweden Switzerland Syrian Arab Republic	11765
 Sushma Swaraj Foreign Service Institute	17240
-Sushma Swaraj Institute of Foreign Service	13744,47,1328,3738
+Sushma Swaraj Institute of Foreign Service	13744,47,1328,3738,309
+Sushma Swaraj Institute of Foreign Service. Renewables	19060
 Sushma Swaraj Institute of Foreign Services	18378
 Svalbard and Jan Mayen Sweden Switzerland Syria	11470
 Swachhata Hi Seva	18810
@@ -810,7 +815,8 @@ Swinhoe	3598,1078
 Swiss	1884,440,288,1515,504,23,1167,127,1470,2378,1174,1942,1805,756
 Swiss Agency for Cooperation and Development	10970
 Swiss Agency for Development Co-operation	3274
-Swiss Agency for Development and Cooperation	8456,529,1756,401,818,1546,1429,150,3251,473
+Swiss Agency for Development Cooperation TVET Technical	18911
+Swiss Agency for Development and Cooperation	8456,529,1756,401,818,1546,1429,150,3251,473,102
 Swiss Attorney General	4127
 Swiss Center for International Health	10919
 Swiss Confederation	1344,10242,5659
@@ -904,7 +910,7 @@ Switzerland. Tanzania	3245
 Switzerland. Under	10776
 Swonrich Masvingo	4896
 Sword of Damocles	5366
-Sworn	10841,3569,318,152,3555
+Sworn	10841,3569,318,152,3555,446
 Sworn Affidavit	11209
 Swvl’s US	4972
 System Transformation Grant SWAp	12175

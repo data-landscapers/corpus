@@ -80,8 +80,9 @@ Ackerman&author	1219
 Ackermans	6368
 Ackim Sanuka	13059
 Acknowledge	1243,2631,9053,1064,2935,173
-Acknowledged	18478
-Acknowledgement	26,1,1,913,68,5937,3775,42,370,46,71,901,75,76,54,23,295,112,557,3,1,1367,1,190,458,1476,82,64,11,1508,39
+Acknowledged	18478,621
+Acknowledged Births	18989,110
+Acknowledgement	26,1,1,913,68,5937,3775,42,370,46,71,901,75,76,54,23,295,112,557,3,1,1367,1,190,458,1476,82,64,11,1508,39,340
 Acknowledgement All	34
 Acknowledgement Conveners	6936
 Acknowledgement National Digital Transformation Strategy	13347
@@ -93,10 +94,12 @@ Acknowledgement This Second Forest Reference Level	17140
 Acknowledgement of Birth Notification	14461
 Acknowledgement of Complaints	17243
 Acknowledgement of National Treasury	6432
+Acknowledgement. Chapter	18948
 Acknowledgements	26,1,1,368,370,5,490,832,855,103,789,592,812,810,372,406,115,331,453,28,262,1,108,153,177,668,109,502,20,1005,12,8,56,41,169,86,59,76,274,8,314,130,258,1,41,30,330,2,13,114,134,394,68,38,224,17,68,1083,85,1,25,26,180,91,122,129,2,155,1003,229,42,214,629,28,7,529,151,28,89,1,38
 Acknowledgements About	13661
 Acknowledgements Acknowledgements List	18443
 Acknowledgements AcknowledgementsI	3791
+Acknowledgements FinMark Trust	18899
 Acknowledgements Itad and Steward Redqueen	12006
 Acknowledgements PMA Ethiopia	1212
 Acknowledgements Special	17977
@@ -112,9 +115,10 @@ Acknowledgements The SOFF	18309,478
 Acknowledgements This National Data Governance Policy	5244
 Acknowledgements This Social Protection Review	12541
 Acknowledges	4614,1211,4940,10,4099,2266
-Acknowledging	789,1173,2,1521,2340,607,180,222,754,1088,984,1523,726,765,1,111,167,99,987,402,288,89,302,222,105,10,23,124,221,152,457,56,350,177,148,153,1252
+Acknowledging	789,1173,2,1521,2340,607,180,222,754,1088,984,1523,726,765,1,111,167,99,987,402,288,89,302,222,105,10,23,124,221,152,457,56,350,177,148,153,1252,490
 Acknowledging UNESCO’s Guidelines	17017
 Acknowledgment	1219,9561,1220,269,1,262,616,533,1353,519,1382,164
+Acknowledgment Notice	19097
 Acknowledgment The Somalia Civil Registration and Vital	14894
 Acknowledgments	958,866,853,1537,225,237,1024,1090,1586,2342,57,37,29,78,21,37,51,121,49,374,340,113,202,4,15,167,32,88,1,129,1354,649,292,98,3,5,351,32,33,1396,384,609,616,146,93
 Acknowledgments About the Global Findex Database Executive	10977
@@ -133,11 +137,13 @@ Benin Acknowledgements	7886
 Body Table of Contents Acknowledgements	12978
 CENTRAL AFRICAN REPUBLIC Acknowledgments This ID4D	15415
 COMMUNICATION AUTHORITY OF KENYA Acknowledgement	6946
-CONTENTS ACKNOWLEDGEMENTS	12923
+CONTENTS ACKNOWLEDGEMENTS	12923,6008
 CONTENTS ACKNOWLEDGMENTS	17870
 CONTENTS Acknowledgements	14855
 CONTENTS Acknowledgments	13713
 Central Statistical Office Acknowledgements	12944
+Chad Digital Economy Diagnostic ACKNOWLEDGEMENTS	18931
+Citations and Acknowledgement The LICENSOR	18904
 Claire Sibthorpe Acknowledgements	11017
 Competition Regulation Acknowledging	15120
 Complaint Stage Recommended Timeline Acknowledgement	5676
@@ -165,6 +171,7 @@ FURTHER ACKNOWLEDGING	3861
 Faiz Abubakr. Contents Acknowledgements2 List	15342
 Federal Government of Somalia Acknowledgements	14896
 Foreword Preface Acknowledgement Abbreviations	16927
+Forward Acknowledgements	18885
 GDP Acknowledgements	13312
 Gambian NICI-1 Process Acknowledging	16861
 I Acknowledgement	16935
@@ -202,6 +209,7 @@ Rwanda RESEARCH REPORT Acknowledgements	12328
 SADC Model Law Acknowledgements	26,1,1
 SCHEDULE TABLE OF CONTENTS Acknowledgements Foreword	12921
 SOFF Steering Committee Acknowledges	18677
+SRC Streamlines Tax Lodgement Acknowledgement Process	19097
 Special Acknowledgment	16984
 Statistics Acknowledgement The Somalia National Bureau	15085
 Statistics Council Acknowledgement	16927

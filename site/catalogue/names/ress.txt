@@ -25,6 +25,7 @@ Centre de Ressources Multimédia	15446
 Chef De Service Ressources Humaines Et	16099
 Chef de Service Ressources Humaines	16175
 Chef de Service des Ressources	16381
+Concours DRH Direction de Ressources Humaines EiE	18911
 Coopération DRFM Direction des Ressources Financières	15541
 Croissant Rouge Algérien. Le Directeur des Ressources	15885
 Cuba Ressources	18105
@@ -92,6 +93,7 @@ Direction DGRHAS Générale des Ressources Humaines	11905
 Direction Generale des Ressources DHIS2	14442
 Direction Générale des Ressources	16317,1788
 Direction Ressources Rares	15885
+Direction de Ressources Humaines	18911
 Direction de Ressources SIMF la Gestion des Ressources	17845
 Direction des Ressources	16365
 Direction des Ressources Financières	18143,26,1
@@ -167,7 +169,7 @@ LA RESSOURCES NORME Norme	17830
 LA RESSOURQÉE	15999
 LIVRE II DU REGIME DES RESSOURCES	18094
 La Direction des Ressources Financières	18169
-La Direction des Ressources Humaines	2342,13594,2169,64
+La Direction des Ressources Humaines	2342,13594,2169,64,995
 La Gestion des Ressources Humaines	14537,3568
 Le Directeur Ressources Rares	15885
 Le Directeur des Ressources Rares	15885
@@ -211,6 +213,7 @@ National CNRE Centre National des Ressources	17873
 OMS Ressources	15724
 Optimisation des Ressources Humaines	14622
 POUR MOBILISER DES RESSOURCES SUPPLEMENTAIRES	15801,236
+POUR MOBILISER DES RESSOURCES SUPPLÉMENTAIRES	18967
 PRIVE POUR MOBILISER DES RESSOURCES SUPPLEMENTAIRES	16037
 Pensionista Ressalta-se	12018
 Personnes Ressources	13290
@@ -261,13 +264,14 @@ Responsables des Ressources	16685
 Ressalta	11387,7394
 Ressalta-se	18781
 Ressaltou	7245
+Ressalvada	18896
 Ressano Garcia	10083,62
 Resscurces	15999
 Ressetlement Action Plan	10829
 Ressourc	17827
 Ressource	10858,2467,2217,2285,117
 Ressourcen	694,1
-Ressources	643,104,18,1577,24,195,835,1171,307,3011,1950,139,737,1,146,16,40,61,2366,233,140,129,96,486,54,143,801,6,43,21,48,27,12,57,33,50,2,2,14,8,102,40,48,25,38,48,49,16,6,77,132,13,142,133,12,1,94,720,6,371,11,14,1,16,5,16,17,46,37,1,8,41,73,14,3,47,96,26,4,2,1,21,3,5,68,5,2,1,26,2
+Ressources	643,104,18,1577,24,195,835,1171,307,3011,1950,139,737,1,146,16,40,61,2366,233,140,129,96,486,54,143,801,6,43,21,48,27,12,57,33,50,2,2,14,8,102,40,48,25,38,48,49,16,6,77,132,13,142,133,12,1,94,720,6,371,11,14,1,16,5,16,17,46,37,1,8,41,73,14,3,47,96,26,4,2,1,21,3,5,68,5,2,1,26,2,692,49
 Ressources Animales	3396,14890
 Ressources Educatives	13574
 Ressources Educatives Libres	13574
@@ -277,7 +281,7 @@ Ressources Extérieures RES.INT	15475
 Ressources Génétiques	16381
 Ressources Géolo	16381
 Ressources HMP	14442
-Ressources Humaines	2342,2881,5752,2326,13,128,1107,73,1009,37,507,20,170,251,96,2,740,389,2,19,2,16,287,128
+Ressources Humaines	2342,2881,5752,2326,13,128,1107,73,1009,37,507,20,170,251,96,2,740,389,2,19,2,16,287,128,645
 Ressources Humaines Civiles	15425
 Ressources Humaines Il	14549
 Ressources Humaines L’amélioration	17882
@@ -308,7 +312,7 @@ Régionale DROS Déni de Ressources	15746
 SARL EURASIAN RESSOURCES	16623
 SCIENCES DE GESTION Gestion des Ressources Humaines	15674
 SECTEUR PRIVE POUR DEBLOQUER DES RESSOURCES	15799
-SECTEUR PRIVE POUR MOBILISER DES RESSOURCES	18316
+SECTEUR PRIVE POUR MOBILISER DES RESSOURCES	18316,651
 SECURISATION ET VALORISATION DES RESSOURCES FAUNIQUES	15999
 SGH ET DES RESSOURCES HUMAINES	15901
 SI-GRH Sous-total Ressources	17845

@@ -78,6 +78,7 @@ Central Rift Valley Water Services Board	14546
 Central Watch and Management System	259
 Central Water Authority	14745,93,5,4
 Central Water Authority Act	14745,98
+Certification and Watchkeeping for Fishing Vessel Personnel	18985
 Chisankho Watch	2993
 Chobe-Zambezi Water Transfer Scheme	12588
 City of Cape Town Water Desalination Feasibility	11248
@@ -112,6 +113,7 @@ Consumer Portal Mobile Application Regional WATRA	5676
 CookingFuel Housing Overcowding Drinking Water Electricity	15244
 Cooperatives EWADE Eswatini Water Development Enterprise	12970
 County Department of Water	7167
+Coverage. Water Customers	18947
 Crop Mapping and Yield Prediction Smart Water	15713
 Crop Watch	14758
 Crop Watch-ICP	14758
@@ -295,7 +297,7 @@ Intensified Water Stress Moderate Agricultural Crisis	17157
 International Journal of Water Resources Development	17701
 International Water Management Institute	12828
 International Water Power	6633
-International Waterways	15138,234
+International Waterways	15138,234,3515
 International Waterways No OP	18374
 International Waterways OP	1284,583,1589,148,7164,61,134,1,453,108,330,50,60,172,289,685,220,1,191,1030,23,835,102,40,105,3,483,531,247,519,663
 Internet Watch Foundation	11648
@@ -482,7 +484,7 @@ Night Watchman	12970
 Night Watchman Retired	12970
 Nine Blue Water Guards	10135
 Non Revenue Water	15659
-Non-Revenue Water	718,14027
+Non-Revenue Water	718,14027,4234
 Non-Revenue Water NSAS Nubian Sandstone Aquifer	17157
 ODW Open Data Watch	11887,266,1,9,178
 ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1,135
@@ -514,6 +516,7 @@ PRIORITIZATION OF WATER USE IN DIFFERENT	17157
 PUASEE Emergency Water and Electricity Services Upgrading	11549
 Panel Discussions Watch	14776
 Para Watuzemba Frederico	9501
+Party's Waters	18914
 Pastoral Water and Resource Management Project	10841
 Pathways TWS Total Water Storage UNCCD	17157
 Peace and Security National Water and Electricity Company	16973
@@ -602,6 +605,7 @@ Sam Waton	11585
 Sanitation Water Electircity Housing Assetes Overcowding	15244
 Secretário Executivo da WATRA	11531
 Service Commission WASH Water	18460
+Shipping and Waterways of India	19166
 Shirika la Watoto Duniani	6019
 Shrubs Waterbodies Settlements Otherlands Forestland	17140
 Sierra Leone Water Company	18543
@@ -621,6 +625,7 @@ South Water Works Development Agency	14546
 State Department for Water and Sanitation	14546
 State Department of Water	2428
 State Minister for Energy and Water Resources Mohamed	15119
+State's Waters	18914
 Statement of Utility Transactions The Central Water	14828,3
 Storage Authority NWHSA National Water Harvesting	2775
 Surface Water	12957
@@ -634,6 +639,7 @@ Tanzania's Watumishi and Senegal's Numerique	13688
 Tavevo Water	14546
 Tech Africa News and Water Power Magazine	6490
 Technology Watch	16212
+Territorial Sea and Archipelagic Waters	18914
 Thekwini Non-Revenue Water Table D.4 Blended	11248
 Three-cusped Pangolin and Water Chevrotain	17114
 Thwake Dam Water Project Thwake Dam	14546
@@ -691,7 +697,7 @@ WATANI	14232
 WATANIYA TELECOM ALGERIE S.P.A	15885
 WATANIYA TELECOM ALGERIE SPA	15885
 WATENI	17828
-WATER	12389,635,719,930,2587
+WATER	12389,635,719,930,2587,1687
 WATER AND ELECTRICITY	16935
 WATER AND LAND REFORM DATE	13024
 WATER AND LAND REFORM No	12924
@@ -705,7 +711,7 @@ WATER AND SANITATION SECTOR	718
 WATER ELECTRICITY CHARGES	14778
 WATER SECTOR FEES	17250
 WATER SOURCES AND FEED USE	17043
-WATER SUPPLY	17157
+WATER SUPPLY	17157,1790
 WATERBORNE	15574
 WATERCOM	8599
 WATERIS	10024
@@ -775,7 +781,7 @@ Watching	8642
 Watching Kona	9007
 Wateja	6019
 Watendaji	2868,3151
-Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271,73,17,16,7,21,28,11,252
+Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271,73,17,16,7,21,28,11,252,109,27,16,32
 Water Abstraction Licensing Regulation	17228
 Water Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Water Access Absence of Corruption	10835,3,130,902,16,466,1,135
@@ -797,6 +803,7 @@ Water Collection	11152
 Water Commission	17260
 Water Connection	12389
 Water Connection Natural Gas Network Connection	15578
+Water Connections. RENEWABLE ENERGY	18947
 Water Conservation	1988
 Water Construction	1988
 Water Deficit	17157
@@ -805,6 +812,7 @@ Water Development Water	14078
 Water Development and Area Plans	1988
 Water Development and Sanitation	1778,210
 Water Disconnections	9437
+Water Division	18947
 Water Drilling	18541
 Water Efficiency Programs	14745
 Water Engineer	13392
@@ -840,6 +848,7 @@ Water Point	11918
 Water Points. The Ministry	17105
 Water Pollution	1988
 Water Production and D50	17250
+Water Production. Water Supply	18947
 Water Project	14546
 Water Projects	6422
 Water Pump	14778
@@ -1019,7 +1028,7 @@ Waterman	9739
 Watermark	9413
 Watermelon	17043
 Waterproofing	13385
-Waters	6921,10090
+Waters	6921,10090,1903
 Waters Interiors and Fisheries	4214
 Watershed	12229
 Waterval Drift	1009

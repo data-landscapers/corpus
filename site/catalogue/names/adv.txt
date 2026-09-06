@@ -139,7 +139,7 @@ Adv. LC Stroom	12046
 Adv. LS Mkumatela	14455
 Adv. Melanchton Makobe Acting DDG	11224
 Adv. Namiseb. Ms. Anna Hoffmann-Kwanga	13048
-Advance	1264,2319,570,695,685,880,626,2356,1046,708,86,1,74,885,163,41,230,408,355,28,448,188,566,125,72,48,241,869,966,74,1181,172,111
+Advance	1264,2319,570,695,685,880,626,2356,1046,708,86,1,74,885,163,41,230,408,355,28,448,188,566,125,72,48,241,869,966,74,1181,172,111,406,173
 Advance AI	18523
 Advance AfCFTA	11149
 Advance Africa’s Digital and AI Development Africa	7596
@@ -163,6 +163,7 @@ Advance Digital Transformation URL	13854,2353,532
 Advance Digital Transformation and Empower Youth	17078
 Advance E-Govt PM	3902
 Advance Egypt’s Eastern Digital Corridor	16808
+Advance Entrepreneurship and Economic Transformation URL	19179
 Advance Environmental Sustainability Lenovo	2987
 Advance Ethical AI Governance Through Civil	13557
 Advance Financial Inclusion	12297
@@ -185,7 +186,7 @@ Advance Nigeria's Digital Banking Technology Joint	9359
 Advance Nigeria’s Digital Economy	9882
 Advance Notices	12389
 Advance Passenger Information	10360,363
-Advance Passenger Information and Passenger Name Record	4275,6448
+Advance Passenger Information and Passenger Name Record	4275,6448,8241
 Advance Payment	13185
 Advance Payment Security	13185
 Advance Payment Security Demand Guarantee	13185
@@ -210,6 +211,9 @@ Advance Tripartite Recommendations Implementation Apr	18553
 Advance Women's Digital Empowerment Hola	7990
 Advance Womens Digital Inclusion	9072
 Advance Women’s Financial Inclusion Bill	1479
+Advance the AU Data Policy Framework	19135
+Advance the AU Data Policy Framework Issued	19143
+Advance the AU Data Policy Framework URL	19135
 Advance the Economic Inclusion of Persons	12231
 Advance-fee	9616
 AdvanceVideo	10848
@@ -325,7 +329,7 @@ Advances Total Assets	17235
 Advances and Facilities	17236
 Advances and Overdrafts	17236
 Advances and Overdrafts Million LYD	17236
-Advancing	1580,3860,3688,1636,227,14,129,133,319,334,251,126,102,36,106,22,31,135,313,734,898,116,207,980,996,166,118,24,257,1,234,576,128,146
+Advancing	1580,3860,3688,1636,227,14,129,133,319,334,251,126,102,36,106,22,31,135,313,734,898,116,207,980,996,166,118,24,257,1,234,576,128,146,532
 Advancing AI	2525,2209,8823
 Advancing AI for Higher Education and Public Sector	12723
 Advancing Accountability	8202,2954,5817
@@ -481,10 +485,11 @@ Advertised Within Six Months and Filled Within	11218
 Advertisements	1944,1770,6141,5508
 Advertisements Newsletters	13051
 Advertisers	5799,7662
-Advertising	958,986,4888,114,481,1890,700,718,489,731,145,289,277,201,1,1,102,6,76,408,1323,135,25,21,161,246,1420,1,1,1,56
+Advertising	958,986,4888,114,481,1890,700,718,489,731,145,289,277,201,1,1,102,6,76,408,1323,135,25,21,161,246,1420,1,1,1,56,2036,38
 Advertising Article	15126
 Advertising Code	12161
 Advertising Manager	11651
+Advertising PART IV	18925
 Advertising Regulatory Board	12100
 Advertising Standards Authority of South Africa	5872
 Advertising and Brand Promotion	12977
@@ -536,7 +541,7 @@ Advisory Body's Working Groups	7199
 Advisory Capacity	12356
 Advisory Centre MMM Memorandum of Understanding GWEA	11986
 Advisory Commission	11261
-Advisory Committee	6231,2259,2757,1112,2242,1611,402,249,1601
+Advisory Committee	6231,2259,2757,1112,2242,1611,402,249,1601,419
 Advisory Committee Bureau of Statistics	16863
 Advisory Committee Meet	11247
 Advisory Committee Members Agence	11149
@@ -688,6 +693,7 @@ Bangladesh’s Rural Advancement Committee	15663
 Bank of Namibia Technical Advisor	13061
 Bank's Positioning and Comparative Advantages	13885
 Bare and Associates Advocates LLP Data Controller	7167
+Basic Life Support and Advance Life Support	19060
 Basis for Adverse Opinion	4896
 Bayo Onanuga Special Adviser	18253
 Biometric Update Advocates	2566
@@ -817,6 +823,7 @@ Competitive Advantage	12356
 Competitive Advantage Industrial	3796,1205
 Compliance Advisor Ombudsman	11007
 Congo Advances Digital Inclusion	4798
+Constitution of Advisory Committee	18883
 Consultative Advisory	11228
 Consumer Advisory Panel	4732,10086
 Content Advisor	11285,4
@@ -892,6 +899,7 @@ Diaspora AI Advisory Group	4528
 Diaspora Advanced Health Programme	7895
 Digital Advertising Technology	13461
 Digital Advisor for UNDP Malawi	7232
+Digital Advisory	18910
 Digital Advisory Council Meetings Annual	16963
 Digital Advocates	12241,839,15
 Digital Advocates ICTAM Activates	12241
@@ -1032,6 +1040,7 @@ Future of Global Land Use. Advances	16996
 G Advanced	8841,2015,3969
 G LTE Advanced	3487
 G20 Policy Recommendations for Advancing Financial Inclusion	7596
+GDI Advisors. Son	19107
 GIZ Digital Health Advisor	10970
 GSMA Through Line Advisors Through Line	10856
 Gabon Advances Tier III Datacenter Project	8542
@@ -1222,6 +1231,7 @@ Loans and Advances1	2775
 Local Community Immersion and Advocacy Dialogue	9760
 Local Council. Appointments Advisory Committee	18467
 Local Governments Gender Advocacy Strategy	14925
+Long Distance Fleet Advisory Council	18985
 Low Advocate	17099
 Low Intermediate High Advanced	15604
 Low Intermediate High Advanced Education Sector	15604
@@ -1409,7 +1419,7 @@ Presidential Advisor David Ndii	2515
 Presidential Advisory Council	6133
 Presidential Advisory Team	10
 Presidential Diaspora Adviser	12085
-Presidential Economic Advisory Council	9400
+Presidential Economic Advisory Council	9400,9681
 President’s Council of Advisors	17428
 President’s Youth Advisory Council	8195
 Prime Minister's Advisory Commission	17620
@@ -1465,6 +1475,7 @@ Regional Tax Administration Advisor	16955
 Regulatory Adviser	3678
 Reimbursable Advisory Services RBPP Biometric Registry	15518
 Reimbursement Advisory Services	15411
+Reinforcing Connectivity and Advancing Key National Projects	19125
 Relationship Interview Columns Opinion Advertise	9669,84
 Renewable Energy Resource Advisory Committee	14422
 Reporting Exchange Control Secretaries Advisor Broker	4896
@@ -1486,7 +1497,7 @@ Rwanda Field Epidemiology Training Program Advanced	4167
 SA News Declared Advertiser Domains	13461
 SCIENCE ADVISER NEWSLETTER	6997
 SCIENTIFIC ADVANCEMENT	17970
-SCIENTIFIC ADVANCEMENT AND ITS BENEFITS	14073,3897
+SCIENTIFIC ADVANCEMENT AND ITS BENEFITS	14073,3897,960
 SCIENTIFIC ADVISORY COUNCIL Sub-Part	14824
 SDGs. Advanced SDG Financing	16973
 SENIOR TECHNICAL ADVISOR OPERATIONS MULTILATERAL RELATIONS	17235
@@ -1498,6 +1509,7 @@ SONSA Platform Following the Civil Society Advocacy	15238
 SOUTH AFRICA. Adv. FDP Tlakula	12046
 STEENKAMP SENIOR LEGAL ADVISOR	11219
 STEVE ADVOCATES Data Controller INST-8621870E071 NAIROBI	7167
+Safeguards Advisor AFTOS Nathalie Munzberg Senior	18887
 Safeguards Advisor Nathalie S. Munzberg	12137
 Safety Advisory Council	9201
 Salary Advance Scheme	16985
@@ -1643,6 +1655,9 @@ Technician Engineer Minister’s Advisor Head	2989
 Technlcal Advisors	16833
 Technological Advancement	11265
 Technological Advancements and Innovation	14997
+Technological Advances	18904
+Technological Advances Global	18904
+Technologies Mr. Justin GOURNA Adviser	18887
 Technologies and Data Advances	11133
 Technology Business Development and Special Adviser	10098
 Technology Policy Advisor	5321
@@ -1696,6 +1711,7 @@ University of Lay Adventists of Kigali	718,17043
 Utilities Advertising	16266
 V. Advocate	12333
 VARIANCE-EXPENDITURE ADVERSE-This	9437
+Virtual Asset Investment Advice and Virtual Asset	18974
 Virtual Farmer Advisor	15713
 Vodacom Airtime and Data Advance	11259
 WMO Hydrological Advisories	17157

@@ -17,6 +17,7 @@ ACCES A L’INFORMATION	15712
 ACCES A L’INFORMATION Engagement	15712
 ACCES A L’INFORMATION Numéro	15712
 ACCES ABORDABLE AU DERNIER KILOMETRE	18316
+ACCES ABORDABLE AU DERNIER KILOMETRE Statut	18967
 ACCES AU FINANCEMENT	4567
 ACCES AU PORTAIL DE Lâ	16148
 ACCES AUX PRODUITS ET SERVICES BANCAIRES	15482
@@ -30,7 +31,7 @@ ACCES FINAL ABORDABLE Programme	16037
 ACCES Le Ministre	17819
 ACCES S.2020.3026006 Stearns	8606
 ACCESIBILIDAD	16962
-ACCESS	4166,1512,5894,2862,595,588,62,46,1158,944,51,567
+ACCESS	4166,1512,5894,2862,595,588,62,46,1158,944,51,567,489
 ACCESS AFYA KENYA LIMITED Data Controller	7167
 ACCESS AGENDA	18795
 ACCESS AND EXPAND FISCAL SPACE	18532
@@ -99,7 +100,9 @@ ACCESSIBILITÉ AUX SERVICES TIC	18105
 ACCESSIBILITÉ ET CLARTÉ	17830
 ACCESSIBLE	3604,12792
 ACCESSIBLE AND ADOPTED BY THE POPULATION	16884
+ACCESSIBLE ET DISPONIBLE	18967
 ACCESSIBLE TO CITIZENS. Even	7362
+ACCESSING THE WEBPAGE FROM THE LINK	18965
 ACCESSION ARTICLE	12527
 ACCESSORIES	11269
 ACRONYMS ACLs Access Control Lists AI	6432
@@ -135,7 +138,7 @@ Acceso	1701,2508,12646,9,34,22,45,206,130
 Acceso Público	16855
 Acceso Sin	16864
 Acceso Sin Acceso	16864
-Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10,47,7,6,2,1,3,3,12,9,47,27,17,7,1,1,3,8,1,3,23,1,3,11,65,32,15,8,50,4,1,2,1,1,19,36,10,23,8,63,24,37,52,56,4,12,9,2,8,12,13,6,63,66,10,125,2,13,3,1,5,2,1,4,1,1,1,8,3,18,1,33,4,4,4,7,24,28,24,43,2,47,13,1,1,4,5,2,11,9,7,3,4,7,4,4,12,1,14,5,7,4,4,17,19,5,20,3,3,5,4,3,1,5,6,1,3,2,15,3,3,4,6,6,4,7,3,4,6,7,19,7,7,2,9,18,10,1,2,28,1,18,1,3,10,1,3,82,3,6,4,13,1,26,28,77,81,3,1,18,3,4,1,11,1,9,8,13,12,2,9,3,1,44,1,11,6,5,13,14,16,1,5,22,4,76,2,70,29,7,2,2,6,9,13,2,6,6,5,18,1,6,15,13,45,1,8,4,10,9,40,81,10,25,31,94,94,70,10,8,4,31,9,54,88,7,1,149,46,65,17,7,63,27,4,33,5,28,5,23,52,45,3,7,13,3,3,11,53,16,1,2,27,3,4,5,4,5,1,7,3,6,1,11,1,10,2,1,1,5,4,12,1,2,7,2,2,1,6,19,13,19,3,9,11,20,4,18,47,2,1,30,3,17,9,12,42,11,13,74,21,9,39,13,23,13,13,7,11,8,1,11,7,35,18,3,19,11,15,1,1,38,2,64,6,9,3,19,139,23,86,27,107,42,1,1,1,140,107,59,132,1,26,133,30,18,4,1,1,10,1,8,12,4,2,5,1,1,1,1,2,13,21,1,2,10,3,3,1,6,1,1,1,11,3,30,21,1,19,6,16,46,9,13,12,10,79,23,6,39,73,1,71,62,72,168,87,19,13,7,1,64,16,12,9,68,70,14,2,44,124,8,69,68,3,1,1,3,6,5,1,1,1,2,6,2,6,1,10,17,8,9,8,8,19,8,14,36,1,2,3,4,12,39,7,72,11,22,8,14,16,26
+Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10,47,7,6,2,1,3,3,12,9,47,27,17,7,1,1,3,8,1,3,23,1,3,11,65,32,15,8,50,4,1,2,1,1,19,36,10,23,8,63,24,37,52,56,4,12,9,2,8,12,13,6,63,66,10,125,2,13,3,1,5,2,1,4,1,1,1,8,3,18,1,33,4,4,4,7,24,28,24,43,2,47,13,1,1,4,5,2,11,9,7,3,4,7,4,4,12,1,14,5,7,4,4,17,19,5,20,3,3,5,4,3,1,5,6,1,3,2,15,3,3,4,6,6,4,7,3,4,6,7,19,7,7,2,9,18,10,1,2,28,1,18,1,3,10,1,3,82,3,6,4,13,1,26,28,77,81,3,1,18,3,4,1,11,1,9,8,13,12,2,9,3,1,44,1,11,6,5,13,14,16,1,5,22,4,76,2,70,29,7,2,2,6,9,13,2,6,6,5,18,1,6,15,13,45,1,8,4,10,9,40,81,10,25,31,94,94,70,10,8,4,31,9,54,88,7,1,149,46,65,17,7,63,27,4,33,5,28,5,23,52,45,3,7,13,3,3,11,53,16,1,2,27,3,4,5,4,5,1,7,3,6,1,11,1,10,2,1,1,5,4,12,1,2,7,2,2,1,6,19,13,19,3,9,11,20,4,18,47,2,1,30,3,17,9,12,42,11,13,74,21,9,39,13,23,13,13,7,11,8,1,11,7,35,18,3,19,11,15,1,1,38,2,64,6,9,3,19,139,23,86,27,107,42,1,1,1,140,107,59,132,1,26,133,30,18,4,1,1,10,1,8,12,4,2,5,1,1,1,1,2,13,21,1,2,10,3,3,1,6,1,1,1,11,3,30,21,1,19,6,16,46,9,13,12,10,79,23,6,39,73,1,71,62,72,168,87,19,13,7,1,64,16,12,9,68,70,14,2,44,124,8,69,68,3,1,1,3,6,5,1,1,1,2,6,2,6,1,10,17,8,9,8,8,19,8,14,36,1,2,3,4,12,39,7,72,11,22,8,14,16,26,32,3,1,17,16,13,18,34,57,149
 Access API	10721
 Access ASYCUDA Online	16882
 Access Advertised Speed	3862
@@ -161,6 +164,7 @@ Access Bank and Ecobank	7746
 Access Bank’s Group Head of Cross-Border Payments	9222
 Access Barriers	12367
 Access Beneficial Owner Register Form	11276
+Access CEMAC CommunautÃ	18887
 Access CM-IDAM.S3	10721
 Access CSP	9123
 Access CSP CSP CSP	9123
@@ -304,6 +308,7 @@ Access Vital Statistics Reports Integration	14137
 Access Waje Casino Safely	3383
 Access XCDR Cross-Community Document Reliable Interchange	1009
 Access XCDR XCPD Cross-Community Document Reliable	1009
+Access Your Virtual ID. Once	19041
 Access and CA	6946
 Access and Connectivity Standards	11995
 Access and Connectivity Standards Cloud	11995
@@ -312,6 +317,7 @@ Access and Content Ltd	3862
 Access and Digital Foundations	7098
 Access and Digital Inclusion	2989
 Access and Digital and Distributed Denial of Service	6946
+Access and Distribution	18904
 Access and Equity	12975
 Access and Equity Issues	17139
 Access and Facilities	15261
@@ -359,7 +365,7 @@ AccessTrade	3779
 Accessed	697,261,303,1257,1608,550,566,4,454,1247,1429,84,143,2,794,340,979,57,44,100,60,28,209,43,609,41,85,144,5,103,9,2,68,51,936,2,147,163,367,443,339,192,164,421,376,540,456,74,777,97,100
 Accessed Feb	12376
 Accesses	9739
-Accessibility	958,3,200,96,1518,1753,718,419,14,532,537,200,600,1451,204,226,1588,15,98,788,34,23,163,44,49,97,5,128,51,22,18,10,99,246,20,42,36,32,60,198,123,52,32,74,575,133,489,4,1,84,103,32,30,28,25,84,42,293,744,600,42,1,1,28,9,15,2,113,45,15,35,111,36,88,552,494,104
+Accessibility	958,3,200,96,1518,1753,718,419,14,532,537,200,600,1451,204,226,1588,15,98,788,34,23,163,44,49,97,5,128,51,22,18,10,99,246,20,42,36,32,60,198,123,52,32,74,575,133,489,4,1,84,103,32,30,28,25,84,42,293,744,600,42,1,1,28,9,15,2,113,45,15,35,111,36,88,552,494,104,399,52
 Accessibility Access	14997
 Accessibility Accessibility	14997
 Accessibility Advocacy	4126
@@ -402,13 +408,14 @@ Accessibility of Roads	16887
 Accessibility-related	15164
 Accessibility. Robustness. Integration and Regulated Access	12533
 Accessibilité	1187,5030,4491,139,118,10,2315,84,68,36,232,131,647,1,1,47,956,56,75,87,9,26,190,259,114,19,313,1187,2,30,22,132,18,73,201
+Accessibilité Accès	18891
 Accessibilité Disponibilité	15936
 Accessibilité des BV	18310
 Accessibilité des BV Quatre-vingt-huit-pour-cent	18310
 Accessibilité des Données Données	15624
 Accessibilité du Système	5135,10971,139,288
 Accessibilité. II.4 Objectifs II.4.1 Objectif	13341
-Accessible	940,637,735,671,2263,481,871,87,203,50,51,235,324,189,291,102,303,791,44,348,123,326,36,87,942,421,179,506,5,115,41,278,405,382,1033,295,107,727,297,321,6,604,32,27,106,82,15,2,346,4,295,144,57,906
+Accessible	940,637,735,671,2263,481,871,87,203,50,51,235,324,189,291,102,303,791,44,348,123,326,36,87,942,421,179,506,5,115,41,278,405,382,1033,295,107,727,297,321,6,604,32,27,106,82,15,2,346,4,295,144,57,906,210
 Accessible Data	11854
 Accessible Despite	12092
 Accessible Digital Civic Participation for Blind Communities	14284
@@ -527,6 +534,7 @@ Batswana. Access	12561
 Benin Electricity Access Scale-up Project	15515
 Benin Expands Higher Education Access Through	7062
 Benin Explores Starlink for Internet Access	2369
+Benin. Getting Access	18887
 Beyond Access	10726
 Beyond Access Public Policy Paper	17870
 Beyond Connections Energy Access Diagnostic	423
@@ -561,7 +569,7 @@ Broadband Access for All	3456
 Broadband Fixed Wireless Access	12949
 Broadband Fixed Wireless Access Systems. Sixth	736
 Broadband Infrastructure Access	16923
-Broadband Radio Access Networks	736
+Broadband Radio Access Networks	736,18235
 Broadband Wireless Access	736,2040,13267
 Broadband Wireless Access Data Traffic	2776
 Broadband Wireless Access Providers	7401
@@ -605,6 +613,7 @@ CONCEPTS AND TERMINOLOGIES Access	12973
 CONNAISSANCE ET ACCESSIBILITÉ DES SERVICES BANCAIRES	13390
 CONNAISSANCE ET ACCESSIBILITÉ DES SERVICES DES	13390
 CONNECTIVITY Access and Usage Survey	12395
+CONSTRUCTION WORK AND ACCESS TO LAND	18934
 CONSULTATION PAPER ON ZERO-RATED ACCESS	6748
 COVERED DATA SYSTEM ACCESS L. Purpose	3972
 CPI Accessibility	14777
@@ -618,6 +627,7 @@ Center for Access	11541
 Center for Global Development. Accessed	5700,6676
 Centre CAP Community Access Points ICT	14723
 Centres for Access	11586
+Chad Energy Access Scale Up Project	18931
 Chaire UNESCO ACCES-TIC	8906
 Challenges Access	12227
 Challenges Accessing IDs	4439
@@ -651,7 +661,7 @@ Closing the Access Gaps Study	13331
 Closing the Access Gaps.104 R2	17870
 Cloud Access	3861
 Cloud Services Access	9446
-Code Division Multiple Access	16942
+Code Division Multiple Access	16942,1945
 Code Division Multiple Access WHO World	718
 Code-Division Multiple Access	17870
 Code-Division Multiple Access FWA	6000
@@ -998,6 +1008,7 @@ FAIBLE ACCES DES POPULATIONS A L’EAU	15542
 FAS Financial Access Survey FTTH Fiber-to-the-Home	16942
 FINANCIAL ACCESS POINTS	7763
 FINANCIAL INCLUSION Financial Access Strand Education	418
+FIXED BROADBAND WIRELESS ACCESS	18971
 FIXED WIRELESS ACCESS	6000
 FIXED WIRELESS ACCESS APPLICATION FORM	736
 FMBZZMLX ACCESS BANK BKCHZMLU BKCHZMLU BANC	12364
@@ -1016,6 +1027,7 @@ Fast-track Universal Telecommunications Access	12444
 Favour the Urban Development and Access	11536
 Febrero. Reglamento de Acceso	9543
 Federal Government of Somalia Access	14896
+Fee-based Access	18904
 FinTech Regulatory Sandbox Access	7763
 Finance Access	5247,7198,4497
 Finance. Accessing	16942
@@ -1041,7 +1053,9 @@ Financial Strength and Access	18825
 Fintech Portfolio And Expanding Access	13778
 Firewalls and Access Controls	10721
 First Accessible Digital Library for Print-Disabled Learners	16010
+First Lady Ahead of Global Accessibility Awareness	19140
 Fixed Broadband Networks Access	718
+Fixed Broadband Wireless Access	18971
 Fixed Fixed Application Fixed Wireless Access	736
 Fixed Wireless Access	2528,2808,339,325,4793,165,1357,4935
 Fixed Wireless Access GB	6000
@@ -1075,6 +1089,7 @@ GFS Accessibility Additional Recommendations	14777
 GLOSSARY Term Definition Access Control Role-based	12675
 GMR2025 SOTI.pdf. Accessed	9739
 GSMA. Broadband Access and Usage	16942
+GUIDE UTILISATEUR Contribuables Demande d access.pdf	18973
 GUINEA CORIS BANK ACCESS BANK	17242
 Gabon Qatar EQG UAE INDICATOR ACCESS	16942
 Gabon's Universal Access	15511
@@ -1086,6 +1101,7 @@ Gender Equality Access	11857
 Gender and Access	16951
 General Paths of Access All	9123
 General Principle of Access Service Negotiations	15081
+Global Accessibility Awareness Day	19140
 Glossary Term Definition ABAC Attribute-Based Access	11952
 Glossary of Key Data Governance Terms Access	3861
 Gold Open Access	9232
@@ -1240,6 +1256,7 @@ Independent Nodes RAM Random Access Memory	13185
 Indonesia and Kenya FACTOR CURRENT IMPACT Access	11994
 Infection UADF Universal Access Development Fund	18504
 Inferred Access	4653
+Information ATIA Access	19042
 Information Access	6793
 Information Access Beyond	13649
 Information Accessibility	17401
@@ -1326,6 +1343,7 @@ Limited Access	1988,14888,47
 Limited Accessible	12214
 Limited Rural Access	16975
 Linkages Between ICT Access	5349
+List of Abbreviations and Acronyms ATI Access	19042
 Litoral Wele Nzas Acceso Sin	16864
 Loans Access	17043
 Local Access Licence	5872
@@ -1353,6 +1371,7 @@ MFS Accessibility	14777
 MFS Accessibility Alignment	14777
 MHz Access Networks	736
 MHz Wireless Access MHz	736
+MHz for Broadband Fixed Wireless Access	18971
 MICROWAVE ACCESS	18105
 MILE ACCESS	12399
 MILLIONS OF PEOPLE WITHOUT ACCESS	11572
@@ -1444,6 +1463,7 @@ Namibia Access	1025
 Namibia’s Access	14343
 National AI Compute Access Programme	7548,1241
 National Access	3861,8497
+National Accessibility Action Plan	19140
 National Action Plan for Gender and Energy Access	15983
 National Assembly. Access	14742
 National Authentication and Access Control Service	12455,1251
@@ -1500,7 +1520,7 @@ Offences Illegal Access	26
 Omni-Channel Access	12359
 Online Access	12389
 Online Access and Usage of Credit Information	12389
-Open Access	3378,1760,108,1,2484,552,153,692,1,108,502,1045,370,80,623,89,60,249,452,2416,249,139,1506,756,7,55,1,34,602,282,42
+Open Access	3378,1760,108,1,2484,552,153,692,1,108,502,1045,370,80,623,89,60,249,452,2416,249,139,1506,756,7,55,1,34,602,282,42,91
 Open Access Article	12178
 Open Access Article Publishing Charges	5246
 Open Access Data Centres	892,661,292,505,222,33,432,150,321,351,70,262,834,136,39,870,510,486,263,1262,261,765,260,287,341,738,601,2560
@@ -1581,6 +1601,7 @@ Pathogen Access and Benefit-Sharing	5456,8887
 Pathogen Access and Benefit-Sharing System	6534
 Pathogen Access and Benefits Sharing	4049
 Patient Communication and Access	9855
+Patient Experience and Access	19177
 Payment Access Devices	4517,2461
 Payment Access Points	4517,2461
 Payment Access Points Access Points Penetration	15023
@@ -1609,6 +1630,7 @@ Power of Inspection and Access	17249
 Powers of Access	2913
 Pragmatics of Access	12227
 Preferential Market Access for Women and Youth	7142
+President Herminie and Jason Winslow Mark Accessibility	19140
 Primary School Supplementary Feeding Project. Access	14742
 Principes Critères Accessibilité Principe	17842
 Principle of Access	14434
@@ -1680,6 +1702,7 @@ REFINING ESTIMATES OF ELECTRICITY ACCESS	11572
 REGIME FOR OPEN ACCESS	16884
 RELATING TO ACCESS TO INFORMATION LOI	14861
 REMOVE FINANCIAL BARRIERS TO HEALTHCARE ACCESS	15977
+RENDRE L’EAU ET L'ÉNERGIE ACCESSIBLES	18972
 REQUEST FOR ACCESS TO MICRODATA	16189
 REQUEST FOR REPHASING OF ACCESS	17909
 REQUESTS FOR REPHASING OF ACCESS	17209
@@ -1789,6 +1812,7 @@ SADC Universal Postal Service and Access Regulatory	12918
 SAFETY AND SECURITY ACCESS HANDSET DATA	11964
 SAFETY AND SECURITY ACCESS ONLY ALLOWED	11964
 SECONDARY EDUCATION Access	16852
+SECRETARIAT BY ACCESSING THE PORTAL	18965
 SECURELY AND REMOTELY ACCESS SERVICES Lead	11940
 SGEP. UNIVERSAL ACCESS	13054
 SHARING AND FAIR ACCESSIBILITY	14004
@@ -1956,6 +1980,7 @@ Training UAF Universal Access Fund UNCTAD	16876
 Transfers Access	17043
 Transform Access	4352
 Transform Public Service Access	5472
+Transforming Legal Access	19133
 Transforming Lives Through Digital Access	3783
 Translating Access	16872
 Transmission Access	15255
@@ -1989,6 +2014,7 @@ UNIVERSAL ACCESS	718
 UNIVERSAL ACCESS AND SERVICE	16839,33,14
 UNIVERSAL ACCESS AND SERVICE FUND FRAMEWORK	12558
 UNIVERSAL ACCESS AND SERVICE POLICY	16886
+UNIVERSAL ACCESS AND UNIVERSAL SERVICE PROVISION	18934
 UNIVERSAL ACCESS CONTRIBUTION	15149
 UNIVERSAL ACCESS CONTRIBUTION The Licensee	15149
 UNIVERSAL ACCESS DEVELOPMENT FUND	18445
@@ -2064,6 +2090,7 @@ Universal Access and Service Policy	13232,3654
 Universal Access and Service Policy for ICTs	12982
 Universal Access and Service Strategy	12971
 Universal Access and Universal Access Fund Measurable	16872
+Universal Access and Universal Service Provision	18934
 Universal Access. The Committee	16850
 Universal Accessibility	1584
 Universal Accessibility Component	15621
@@ -2092,6 +2119,7 @@ Use Cases and Accessibility	11130
 Use Only Senegal Energy Access Scale	18355
 Use Universal Access	16872
 Use of Expired Access	14546
+Use of Fixed Broadband Wireless Access	18971
 User Access Control	5665
 User Access Management	7266
 User Access Management Procedure	11986
@@ -2127,6 +2155,7 @@ Web Accessibility Evaluation Tool	15936
 Web Content Accessibility Guidelines	5665,1601,1173,2567,1,945,929,1459,1596,936,576
 West Africa. The Regional Access Increase	17352,1
 Wi-Fi Protect Access	18774
+WiMax Worldwide Interoperability for Microwave Access XAF	18931
 Widespread Access	6946
 Wireless Access FY Financial Year GDP	12395
 Wireless Access Point	11503
@@ -2143,6 +2172,7 @@ Women's Entrepreneurship and Access	16144
 Women’s Access	12389,6053
 Word Tableur Excel ACCESS SPSS EPI-INFO	18169
 World Bank Data Access Access	15844
+World Bank Increases Access	18962
 World Bank Regional Electricity Access	18374
 World Bank's Access	14010
 World Bank-financed Water Supply and Sanitation Access	12977

@@ -184,7 +184,7 @@ BCRs. Processors	12302
 BCS EUR	253
 BCS Group	651
 BCS Ltd	15136
-BCSTP	18749,12,9,22,2,3,3,23,2,22,4,2
+BCSTP	18749,12,9,22,2,3,3,23,2,22,4,2,161
 BCSTP Artigo	18761
 BCSTP Banco Central de São Tomé	18779
 BCSTP Board of Directors	18823
@@ -431,7 +431,7 @@ Modibo SIDIBE BCEAO	17817
 National Director of BCEAO Ms. Cassama	17209,117
 Numérique BAD Banque Africaine de Développement BCEAO	15583
 O BCEAO	11569
-O BCSTP	18761,68
+O BCSTP	18761,68,185
 O BCV	15450,85
 Ouest BCDF Bureau Communal du Domaine	10876
 Ouest BCI	18291

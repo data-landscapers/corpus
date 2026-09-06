@@ -163,7 +163,7 @@ Critical Skills List DBE	6832
 Critical Skills Work Visa Calculation	11986
 Critical Skills Work Visa Target	11986
 Cross-Sectional Survey Among Users Skip	10919
-Current State of Digital Skills	13312,2,4556
+Current State of Digital Skills	13312,2,4556,1061
 Current State of Digital Skills Despite	16876
 Cybersecurity Cybersecurity Skill	10721
 Cybersecurity Skill Development CCB-CSD.S1	10721
@@ -178,7 +178,7 @@ DHET’s National Skills Development Plan	6832
 DHIS2 Documentation Skip	12408
 DIGITAL DIGITAL DIGITAL DIGITAL INFRASTRUCTURE SKILLS	13314
 DIGITAL INFRASTRUCTURE DIGITAL INCLUSION AND SKILLS	11586
-DIGITAL SKILLS	11004,960,3483,33,1462,928
+DIGITAL SKILLS	11004,960,3483,33,1462,928,1061
 DIGITAL SKILLS Advanced	15480
 DIGITAL SKILLS FOR ALL	14752
 DIGITAL SKILLS FOR ALL ECONOMY	14752
@@ -198,6 +198,7 @@ DIGITAL SKILLS Poor	15447
 DIGITAL SKILLS Quick Improve	17870
 DIGITAL SKILLS RECOMMENDATIONS	16942
 DIGITAL SKILLS RECOMMENDATIONS DEVELOPMENT TYPE	16942
+DIGITAL SKILLS RESPONSIBLE INSTITUTION	18931
 DS4JI Digital Skills	458
 Dark Sky	1735
 Data Literacy and Skills The Mauritius National	14752
@@ -239,7 +240,7 @@ Digital Skill Development Digital	13358
 Digital Skill and Literacy Programme	12453,892
 Digital Skilled	15679
 Digital Skilling Project	10397
-Digital Skills	458,158,244,98,397,72,383,1794,186,1085,708,1249,716,3237,233,861,12,74,488,40,166,312,341,2,31,2,490,154,561,345,18,635,3,348,975,66,33,895,586,24,136,130
+Digital Skills	458,158,244,98,397,72,383,1794,186,1085,708,1249,716,3237,233,861,12,74,488,40,166,312,341,2,31,2,490,154,561,345,18,635,3,348,975,66,33,895,586,24,136,130,185
 Digital Skills Accelerator Self-Assessment Tool	11918
 Digital Skills Ambassadors	5386
 Digital Skills Ambassadors Programme	10072
@@ -265,7 +266,7 @@ Digital Skills Forum	1810,5022
 Digital Skills Forum Draft	6832
 Digital Skills Forum46	6832
 Digital Skills Forum58	6832
-Digital Skills Framework	6832,8065
+Digital Skills Framework	6832,8065,4182
 Digital Skills Framework One EMIS	6832
 Digital Skills Framework31	13314
 Digital Skills Framework8	14897
@@ -281,11 +282,12 @@ Digital Skills Pillar	14897
 Digital Skills Private	6832
 Digital Skills Program Design Workshop and Interactive	17070
 Digital Skills Programs Led	14897
+Digital Skills Pyramid	18931
 Digital Skills Pyramid Digital	17870
 Digital Skills Report Card	6832
 Digital Skills Session	17070
 Digital Skills Shortage	16942
-Digital Skills Spectrum	17870
+Digital Skills Spectrum	17870,1061
 Digital Skills Statistics	11879
 Digital Skills Strategies	10785
 Digital Skills Sub-Saharan Africa	17870
@@ -465,9 +467,9 @@ Identify and Address Skill Gaps	6948
 Immeuble Skyview	15670
 Impact Hub Harare’s Digital Skills for Youth	12493
 Impact of Skill Shortages	12445
-Implementation Support Plan Time Focus Skills	10964
+Implementation Support Plan Time Focus Skills	10964,7923
 Implementation Support and Skills Required Time Focus	13331
-Importance of Digital Skills	13312,2,1583,1979,994
+Importance of Digital Skills	13312,2,1583,1979,994,1061
 Importance of Digital Skills The Socioeconomic	16876
 Improve Employee Knowledge and Skills SO7	13053
 Increased Access To Digital Skills	346
@@ -653,6 +655,7 @@ Personal Skills	12914
 Personnel Audit and Skills Gap Analysis	7659
 Plan International Digital Skills	1160
 Platforms Digital Skills	12971
+Postes Skip	19202
 Power Clean Energy Future Skip	18862
 Presentation Skills Can	16963
 President of Sierra Leone Skip	4114
@@ -698,6 +701,7 @@ Rule of Law Skip	15618
 Rural Urban Skills Award Diploma	12431
 SA National AI Skills Director	5551
 SAnews Skip	3741,2786
+SDG Sustsainable Development Goal SDYEP Skills	18931
 SK Telecom	15471
 SK-2 Sokoto NorthWest	11857
 SK-4 Sokoto NorthWest	11857
@@ -774,6 +778,7 @@ Skhumbuzo Tsabedze Chairperson Deputy Chairperson Member	12969
 Ski Resorts Private-sector	4723
 Skibinski	9237
 Skid-steer	14738
+Skies	19198
 Skikda	15467,396,67,13
 Skikda Centre	16085
 Skikda Sidi Bel Abbès Annaba Guelma	16085
@@ -867,7 +872,7 @@ Skills Mismatch	11271,3458
 Skills Mix Required HQ	11855
 Skills Mix Required Number of Trips Task	10964
 Skills Mix Required Skills Needed	15411
-Skills Mix Required Skills Needed Number	15372
+Skills Mix Required Skills Needed Number	15372,3515
 Skills National Policies	11000
 Skills Needed Number	11855
 Skills Needed Number of Staff Weeks Number	15659

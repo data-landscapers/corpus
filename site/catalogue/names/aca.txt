@@ -59,7 +59,7 @@ Acacia and Port Rex OCGT	11228
 Acacpeascsiodaedfeetijvuorídàijcuas.tiça	15694
 Acacus Mountains	17157
 Acacvorirld2d0e15preênt	15399
-Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223,771,626,3,74,78,107,528,1340,103,141,630,700,228,31
+Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223,771,626,3,74,78,107,528,1340,103,141,630,700,228,31,198
 Academia A Academia	2816
 Academia Academia	1000,4244,11731
 Academia CSIRTs	2989
@@ -161,7 +161,7 @@ Academy of Science	10451
 Academy of Science of South Africa	5246
 Académica	4209
 Académicas	16965
-Académie	4402,3268,599,1006,2370,1645,1376,823,118,564,289,1370,456,126
+Académie	4402,3268,599,1006,2370,1645,1376,823,118,564,289,1370,456,126,472,58
 Académie Internationale de Droit du Numérique	11645
 Académie MSF	18267
 Académie Nationale du Leadership Féminin	17471
@@ -172,7 +172,7 @@ Académie. Art	16171
 Académie. Au	16171
 Académie. Elle	16171
 Académie. Il	16171
-Académies	17861,134,82
+Académies	17861,134,82,865
 Académies DHIS2	13306
 Académies Numériques Nationales	15565
 Acam-Oboroncú-Nsork-Mofub Evinayong	4209
@@ -446,6 +446,7 @@ Open Academy Né	17856
 Open Data Academic Outreach	16599
 OpenAI Academy	5042,1673
 Ostafrika Academic Center for Digital Innovation	178
+Oxford Academic	18963
 Oxford Academic. Amoretti	10841
 POTRAZ ZIMCHE Academia Parliament Service	958
 PRINCIPAUX INDICATEURS ANNÉE ACADÉMIQUE	18143,27

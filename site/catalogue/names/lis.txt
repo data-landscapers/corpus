@@ -1,7 +1,7 @@
 A' Drug List	18541
 A-Z Listing Acronymn Full Name	12357
 A.1 Liste	17882
-ACRONYM LIST	17870
+ACRONYM LIST	17870,1061
 ACRONYMES LISTE DES GRAPHIQUES LISTE DES	16327
 ACRONYMS ACLs Access Control Lists AI	6432
 AI List of Abbreviations AI Artiﬁcial Intelligence	1204
@@ -42,6 +42,7 @@ Annual School List	18536
 Annual School List Annual School List	18536
 Appendix A Appendices List of Approved Abbreviations	11129
 Appendix B. List	14883
+Approved Educational AI Tools List	19079
 Approved Supplier List	14151
 Armel Porna DEMBELE LISTE DES MEMBRES	17819
 Arouna SANGARE LISTE DES MEMBRES	17899
@@ -82,6 +83,8 @@ CONTENTSTable of List of Tables	12951
 CSIO Data Collection Tools LISGIS	17116
 CSOs LISGIS	17116
 Case List	9507,105,1
+Chad Digital Economy Diagnostic ACRONYM LIST	18931
+Chairperson Ms. Lise Morel	19000
 Citoyen LISTE DES TABLEAUX Tableau I.1	13341
 Clearing Agents Clearing Agents List Publications	12454
 Commission. Listing	18230
@@ -391,7 +394,7 @@ LIST OF APPENDIXES	18464
 LIST OF APPENDIXES Table	18464
 LIST OF AUTHORS AND CONTRIBUTORS	9855
 LIST OF AUTHORS AND CONTRIBUTORS LIST	9855
-LIST OF BOXES Box	17870
+LIST OF BOXES Box	17870,1061
 LIST OF CHARTS	7763
 LIST OF CHARTS Chart	7763,9472
 LIST OF CHARTS NAMIBIA PRODUCER PRICE	11152
@@ -403,7 +406,7 @@ LIST OF ELECTRONIC MONEY ISSUING INSTITUTIONS	18313
 LIST OF FIGURES	5533,5659,26,3918,420,18,1347,90,88,15,1350,19
 LIST OF FIGURES AND TABLES	18475
 LIST OF FIGURES AND TABLES List	18475
-LIST OF FIGURES Figure	718,2058,3895,4547,10,1130,565,28,26,28,1768,169,121,493,18,1347,90,32,56,15,2,33,8,713,594,19,5
+LIST OF FIGURES Figure	718,2058,3895,4547,10,1130,565,28,26,28,1768,169,121,493,18,1347,90,32,56,15,2,33,8,713,594,19,5,443
 LIST OF FIGURES Geographical Map	17367
 LIST OF FIGURES List of Figures Page	5533
 LIST OF FOREIGN IMPORTED PRODUCTS	13122
@@ -414,7 +417,7 @@ LIST OF INSTITUTIONS07	18487
 LIST OF KEY INDICATORS	15574
 LIST OF LIVE COMMERCIAL BANKS	18489
 LIST OF LIVE COMMERCIAL BANKS 04082025 URL	17242
-LIST OF MAPS Map	17870
+LIST OF MAPS Map	17870,1061
 LIST OF NCG POSTS	14760
 LIST OF ONGOING AND PIPELINE PROJECTS	16966
 LIST OF ORIGNATING GOODS	14816
@@ -430,7 +433,7 @@ LIST OF STANDARDS APPROVED	15027
 LIST OF TABLES	718,4815,2230,3429,26,10,2416,1129,84,279,1785,90,103,1369,141
 LIST OF TABLES AND FIGURES Table	11261,5665
 LIST OF TABLES LIST OF FIGURES	11986
-LIST OF TABLES Table	718,2058,3895,1092,3389,66,1541,164,28,19,7,28,1768,783,18,1347,90,32,56,15,35,86,132,503,594,19,5,136
+LIST OF TABLES Table	718,2058,3895,1092,3389,66,1541,164,28,19,7,28,1768,783,18,1347,90,32,56,15,35,86,132,503,594,19,5,136,307
 LISTA DAS INSTITUIÇÕES DE ENSINO SUPERIOR	11391
 LISTA DAS SIGLAS E ACRÓNIMOS	11523
 LISTA DE ABREVIATURAS E SIGLAS	10777
@@ -605,6 +608,7 @@ Lisbonne	17448
 Lisemelo Ramafikeng	12766
 Lisent	15498
 Lisette IJssel de Schepper	7253
+Lisette Marie Loizeau	19049
 Lisez	8876,1,4423,90,4922
 Lisez-vous	13300
 Lishan Adam	1814
@@ -637,6 +641,7 @@ List of Abbreviations BESS Battery Energy Storage	14745
 List of Abbreviations Group Cash Transfers	6947
 List of Abbreviations Hon. P. Garswa Jackson	17364
 List of Abbreviations and Acronyms	12944,5568
+List of Abbreviations and Acronyms ATI Access	19042
 List of Abbreviations and Acronyms BCC Budget Call	18512
 List of Abbreviations and Acronyms BDR Births and Deaths	15628
 List of Acronyms	10901,287,1471,1358,727,153,2260
@@ -649,8 +654,9 @@ List of Acronyms Acronym Explanation BMR Bureau	11188
 List of Acronyms BE Level	12175
 List of Acronyms CPE Customer PremisesEquipment MOICI	16886
 List of Acronyms DAP	14915
-List of Acronyms and Abbreviations	2775,12000,2085
+List of Acronyms and Abbreviations	2775,12000,2085,2219
 List of Acronyms and Abbreviations ADI	14775
+List of Acronyms and Abbreviations AGI Artificial	19079
 List of Acronyms and Abbreviations Affirmative Action Chief	12920
 List of Acronyms and Abbreviations BR Birth Registration	16860
 List of Activities Carried	13965
@@ -660,6 +666,7 @@ List of Attendees	16853
 List of Boxes Box	10718,553,5725
 List of CFDC	16843
 List of Charts	14744
+List of Conditions. Following	18887
 List of Contributors and Reviewers	16975
 List of Core CPI Items	2775
 List of Counterparts and Respective Focal Point	16902
@@ -680,7 +687,7 @@ List of Examinations Conducted	14775
 List of Expert Representatives	2958
 List of FIGURES	18443
 List of Fees	12389,6206
-List of Figures	236,346,1232,4186,946,4249,55,812,89,800,1824,183,671,1314,32,17,51,73,33,8,1029,31,237
+List of Figures	236,346,1232,4186,946,4249,55,812,89,800,1824,183,671,1314,32,17,51,73,33,8,1029,31,237,526
 List of Figures Chapter	10763
 List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855,1074,738,401,474,1272,59,57,4,131,1059,31,237,6,167,143
 List of Figures Glossary of Terms Abbreviation Expansion	12917
@@ -771,7 +778,7 @@ Lista de Normas Cabo-verdianas URL	15645
 Lista de Países	2816
 Lista de Países Africanos	2816
 Lista de Referências	2138
-Lista de Termos	18788
+Lista de Termos	18788,157,1
 Listado	16904
 Listagem	10777
 Listagem de Utilizadores de Risco NIB	17032
@@ -781,7 +788,7 @@ Listar	11435,586
 Listas	18752
 Listas de Presença Figura	17147
 Listas de Recenseamento Eleitoral	11528
-Liste	747,18,57,176,233,418,3981,1329,696,3056,102,8,26,25,4,99,613,356,99,1257,24,51,2,37,280,794,1,1,47,2,83,807,29,16,94,12,19,71,36,18,3,40,14,53,14,60,25,3,7,69,25,10,101,1,34,139,6,31,261,6,96,25,738,3,26,19,1,285,4,12,8,1,1,19,8,10,12,8,5,6,70,32,2,82,19,3,149,20,7,15,3,7,5,63,4,38
+Liste	747,18,57,176,233,418,3981,1329,696,3056,102,8,26,25,4,99,613,356,99,1257,24,51,2,37,280,794,1,1,47,2,83,807,29,16,94,12,19,71,36,18,3,40,14,53,14,60,25,3,7,69,25,10,101,1,34,139,6,31,261,6,96,25,738,3,26,19,1,285,4,12,8,1,1,19,8,10,12,8,5,6,70,32,2,82,19,3,149,20,7,15,3,7,5,63,4,38,510,31,15,213
 Liste Electorale	10923
 Liste Electorale Biométrique	18101
 Liste Electorale Définitive. Initialement	10923
@@ -967,6 +974,7 @@ Private Sector Participation ANEXOS Lista	11366
 Privatization and Listing	14997
 Procedure List	13251
 Procurement LIS Municipal Land Information System	18293
+Prohibited Tools List	19079
 Project Appraisal Document for Republic of Congo LISUNGI	11924
 Project LISGS Liberia Institute of Statistics	17140
 Projet Lisungi. Droit	15965
@@ -1049,6 +1057,7 @@ TABLEAU DES MATIÈRES LISTE DES TABLEAUX	18312
 Table of Contents Acknowledgement I List of Abbreviations	13991
 Table of Contents LIST OF ACRONYMS	14947
 Table of Contents List	14997
+Table of Contents List of Abbreviations and Acronyms	19042
 Table of Contents List of Acronyms	13998,744
 Table of Contents List of Tables	6000,6062,4881,1243,31
 Tableau B.1 Liste	18312
@@ -1093,6 +1102,7 @@ VII.4.3. Liste	17844
 VII.5. Liste	17844
 VIII. Liste	15936,2354
 VIII.2. Liste	17907
+Viewers and Listeners Complaints Mechanism	19173
 Village de N’TOBOUGOU. LISTE DES MEMBRES	17833
 Voter List	12371
 Voter Registration List	10714

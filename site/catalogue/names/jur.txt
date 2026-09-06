@@ -27,6 +27,7 @@ Associação de Mulheres de Carreiras Jurídicas de Angola	11362
 Assuntos Jurídicos	11561
 Audit Jurisdiction	15566
 Bachelor of Jurisprudence	12951
+Banque Tchadienne de Données Juridiques	18884
 Base Jurídica	1701
 Bibliothèques Juridiques Virtuelles	13635
 Board of Directors Jurisdiction	10762
@@ -91,7 +92,7 @@ Dimensão Jurídica	18796
 Directeur Central Adjoint des Affaires Juridiques	16175
 Directeur Général des Affaires Juridiques	16381
 Directeur Juridique	16639
-Directeur des Affaires Juridiques	16381
+Directeur des Affaires Juridiques	16381,2521
 Direction Centrale des Affaires Juridiques	16099
 Direction Juridique	15670
 Direction des Affaires Juridique	10975
@@ -210,7 +211,7 @@ Jurisdicción Militar	4209
 Jurisdicción Militar Inspector Regional Ministerio Jefe	4209
 Jurisdicción Militar Servicio	4209
 Jurisdicción Ordinaria	16855
-Jurisdiction	26,757,189,2815,74,815,220,406,1130,148,4599,2,683,112,326,87,539,1020,461,13,298,39,1,87,3639,70
+Jurisdiction	26,757,189,2815,74,815,220,406,1130,148,4599,2,683,112,326,87,539,1020,461,13,298,39,1,87,3639,70,364
 Jurisdiction CHAPTER	11190
 Jurisdiction Notwithstanding	14720
 Jurisdiction Over Insolvency Proceedings	12389
@@ -321,12 +322,14 @@ Participating Jurisdiction Financial Institution	11233
 Participating Jurisdictions	11233
 Personal Jurisdiction Over Data Controllers and Processors	3861
 Personas Jurídicas	16859
+Portant Régime Juridique du Partenariat Public-Privé	18901
 Position Jurisdictional	14997
 Princípio da Juridicidade	11388
 Proibição de Juros	10755
 Prática Jurídica	9176
 QUADRO JURÍDICO-REGULAMENTAR	11531
 Quadro Jurídico	11448,4029
+REGIME JUR	18896
 REGIME JURIDIOUE	15489
 REGIME JURIDIQUE APPLICABLE AUX	17819
 REGIME JURIDIQUE ET ATTRIBUTIONS Article	15431
@@ -336,6 +339,7 @@ REGIME JURÍDICO DOS POLOS DE DESENVOLVIMENTO	11443
 REGULAÇÃO DA IA NO ORDENAMENTO JURÍDICO	3519
 Rapports Textes Juridiques	3675
 Reference Jurg	8436
+Regime Jur	18896
 Regime Jurídico	1948,489,8928,17,1,1,1,5,40,2,3,27,5,52,382,3479,8,8,44,37,49,530,2696,9,3,20,14,33,22
 Regime Jurídico Aplicável	744
 Regime Jurídico Assim	15526
@@ -357,6 +361,7 @@ Regime Jurídico da Geodesia	11384
 Regime Jurídico da Identificação	549
 Regime Jurídico da Identificação Civil	10749,7,16
 Regime Jurídico da Instalação	11458
+Regime Jurídico da Organização	18895,1
 Regime Jurídico da Tesouraria	16022
 Regime Jurídico da Transitoriedade	10783
 Regime Jurídico de Acesso	11448
@@ -376,6 +381,7 @@ Rigor Jurídico	11448
 Roadmap Jurídico Institucional	11448
 Roadmap Jurídico Institucional Framework de Conformidade	11448
 Références Juridiques Contenu Code des Marchés Publics	10876
+Régime Juridique du Partenariat Public-Privé	18901
 Régimen Jurídico	9543,7312,16,241
 Régulation Juridique	10975
 Régulation Régulation Juridique Gouvernance	10975
@@ -406,6 +412,7 @@ Tutela Jurisdiccional	16855
 TÍTULO II RÉGIMEN JURÍDICO DE CONSERVACIÓN	16855
 TÍTULO III DEL RÉGIMEN JURÍDICO	16855
 UN CADRE JURIDIQUE PROTECTEUR POUR	2695
+VIII. Jurisdiction Over Detained Vessels	18914
 Veille Juridique	16175
 Veille Juridique Chef de Service	16099
 XVII. Taxa de Juro de Referência	18798

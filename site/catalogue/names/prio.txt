@@ -18,7 +18,7 @@ Action Priorities	11998,3166
 Action Terme Priorité	15493
 Action Terme Priorité Améliorer	15493
 Action Terme Priorité Court Haute	15493
-Actions Prioritaires	10965,3487,3834
+Actions Prioritaires	10965,3487,3834,645,57
 Actions Prioritaires PARIS21	18291
 Actions Prioritaires RDC	15848
 Actions Prioritaires Responsable Statut COMPOSANTE	16012
@@ -45,6 +45,8 @@ B. STRATEGIC PRIORITY	17011
 B. Strategic Priority	17011
 Background Prior	12360,53
 Bank of Uganda. Priority	1262
+Budget Priorities	19042
+Budget Priorities InfoCom	19042
 Budget Prioritisation Framework	11193,31
 Business Priority	5212,662
 C- Priority	7548
@@ -194,7 +196,7 @@ HHs. Prior	15663
 HIGH Priority	13990
 HIGH Priority. Sector Coordination Inclusive Sector	13349
 Head of State. Priority	3891
-High Priority	899,10646,630,5695
+High Priority	899,10646,630,5695,1061
 High Priority Enabling Factor Challenges and Rationale	11907,1442
 High Priority Rating Data and Evidence Challenge	11907
 High Priority Rating Gender-Responsive Sector Planning	13349
@@ -202,10 +204,10 @@ Historical Voter Registrations System Prior	18531
 Hotspot Analysis Prioritization Matrix	10763
 Hotspot Analysis Prioritization Matrix Priority	10763
 HumanCenteredness Prioritizing AI	16212
-IC Prior	15372,39
+IC Prior	15372,39,3476
 IC Prior Digital	15411
 IC Prior Monitoring and Evaluation	15372
-ICB No No Prior	15372
+ICB No No Prior	15372,3515
 IDMP. Prioritization	17157
 III. PRIORIDADES PARA O QUINQUÉNIO	12787
 IMPROVE LEARNING OUTCOMES High Priority	899
@@ -295,6 +297,7 @@ MoETE’s Main Programmes ESP Policy Priorities	15604
 Mobile Priority Services	1815
 Modification of Priority	12364
 Modification of Priority A Participant	12364
+Mortgage and Registration Act. Priority	18881
 Mozambique Prioritizes Data Governance	4180
 Mr. Kiira Brian Alex. Prior	3005
 Média Prioridade Destaques	18781
@@ -311,12 +314,14 @@ NST2 Priority Area	14997
 National Data Centre Project Priority	2256
 National Data Centre Project Priority Document	2256
 National Development Priorities	4528,7984
+National Development Priorities URL	19175
 National Digital Health Strategic Priorities	4767
 National Education Policy Directions and Priorities	15604
 National Fintech Recognition of Prior Learning	14819
 National Intelligence Priority	11277
 National Investment Priorities	17260
 National Priorities	940,11504,1533,1624,1271
+National Priority Areas	18948
 National Priority Programs	16975
 National Research Priorities	1154,400
 National Research Prioritisation And Strategic Planning	1554
@@ -336,6 +341,7 @@ Operating Hours Prioritization	8999
 Oxford Centre of Islamic Studies. Prior	12485
 PA Prior Action EMAE Empresa	18851
 PAP2A Adjusted and Accelerated Priority Action Plan	18301
+PCU Prior	18887
 PCU Project Coordination Unit PIP Priority	16614
 POLICY PRIORITIES AND OBJECTIVES Policy Priorities	16852
 POLICY PRIORITIES AREAS	16951
@@ -409,7 +415,8 @@ President’s Recovery Priorities PRP	18453
 Principal Results and Comparison With Prior Work	10919
 Principales Priorités	17860
 Principles Governance Legal Framework Priority Areas	21
-Prior	27,7,728,21,189,247,24,18,72,321,124,31,179,1386,209,58,220,24,286,92,176,214,230,13,642,83,56,684,151,61,49,324,332,260,31,221,55,176,363,219,263,262,56,53,1556,48,11,29,38,21,20,171,3,43,2,18,61,22,14,231,276,54,2,98,1,47,190,2,37,14,7,17,31,1,77,29,51,80,3,7,137,40,212,116,131,136,77,134,76,449,377,1,236,55,1,18,60,4,6,17,87,9,5,14,50,26,16,41,1,62,229,39,4,63,2,35,3,86,59,51,202,916,3,4,4,5,10,44,21,18,31,24,15,26,31,46,66,29,48,613,328,176,62,101,4,103
+Prionace	18985
+Prior	27,7,728,21,189,247,24,18,72,321,124,31,179,1386,209,58,220,24,286,92,176,214,230,13,642,83,56,684,151,61,49,324,332,260,31,221,55,176,363,219,263,262,56,53,1556,48,11,29,38,21,20,171,3,43,2,18,61,22,14,231,276,54,2,98,1,47,190,2,37,14,7,17,31,1,77,29,51,80,3,7,137,40,212,116,131,136,77,134,76,449,377,1,236,55,1,18,60,4,6,17,87,9,5,14,50,26,16,41,1,62,229,39,4,63,2,35,3,86,59,51,202,916,3,4,4,5,10,44,21,18,31,24,15,26,31,46,66,29,48,613,328,176,62,101,4,103,243,1,32,58
 Prior Action	15924,2564
 Prior Actions	10779,5440
 Prior Approvals	3651
@@ -430,6 +437,7 @@ Prior Procurement Arrangements	17180
 Prior Public Offerings	7198
 Prior Review	13017,4163
 Prior Review Contract	17180
+Prior Review Contract Value Threshold	18887
 Prior Review Procurement Methods Thresholds	11855
 Prior S	12231,2435
 Prior Security Check	12185
@@ -460,12 +468,13 @@ Prioriser	9081,4728,2127,169,223,1517,37
 Priorisées	12043
 Prioritaire	643,2753,12336
 Prioritaires PAPDFF Programme	18286
-Priorities	396,765,57,560,50,160,857,654,158,432,110,2,102,215,726,1,37,251,2063,392,102,977,1121,776,33,139,4,226,620,206,229,80,1367,855,95,735,172,1067,61,8,55,55,145,144,522,127,81,787
+Priorities	396,765,57,560,50,160,857,654,158,432,110,2,102,215,726,1,37,251,2063,392,102,977,1121,776,33,139,4,226,620,206,229,80,1367,855,95,735,172,1067,61,8,55,55,145,144,522,127,81,787,171
 Priorities Advancing	18647
 Priorities Cost	14935
 Priorities Influencing the SSS Curriculum	18461
 Priorities Key	14674
 Priorities Sectors Team Europe Initiative	789
+Priorities The National Development Strategy	18948
 Priorities and Commitments Throughout	14251
 Priorities and Pillars The Power of Data Framework	18529
 Priorities for Ending Poverty and Boosting Shared Prosperity	15474
@@ -507,7 +516,7 @@ Prioritize Secure Digital Infrastructure KAMPALA	8352
 Prioritized	15977,1907
 Prioritized Adoption	7548
 Prioritized Development Issues Given	15845
-Prioritized Recommendations	17870
+Prioritized Recommendations	17870,1061
 Prioritized Risk Management	12189
 Prioritized Strategy for Land Administration Reform	15473
 Prioritizing	899,320,553,1186,1577,2413,600,635,2823,128,771,1051,1862,104,75,247,481,1133,105,22,131,144
@@ -519,7 +528,7 @@ Prioritizing NCDs	15977
 Prioritizing Spectrum	5245
 Prioritizing and Sequencing	16858
 Prioritizing the Development	16861
-Priority	471,173,145,181,244,4,247,255,146,99,1551,345,108,248,84,1,546,14,115,115,120,561,188,90,48,440,283,726,48,235,90,153,526,399,124,1065,27,294,254,5,25,341,2,4,56,22,12,17,3,27,89,103,67,53,167,152,8,44,17,9,83,139,89,36,23,8,25,55,84,101,88,126,217,35,217,2,35,32,77,108,26,62,31,128,55,119,164,276,149,18,80,43,21,4,76,1,77,26,13,30,32,118,49,80,481,176,947,5,5,81,3,31,23,103,2,13,25,1,17,124,4,85,500,101,399,88,5,4,11,3,75,22,3,43,98,48
+Priority	471,173,145,181,244,4,247,255,146,99,1551,345,108,248,84,1,546,14,115,115,120,561,188,90,48,440,283,726,48,235,90,153,526,399,124,1065,27,294,254,5,25,341,2,4,56,22,12,17,3,27,89,103,67,53,167,152,8,44,17,9,83,139,89,36,23,8,25,55,84,101,88,126,217,35,217,2,35,32,77,108,26,62,31,128,55,119,164,276,149,18,80,43,21,4,76,1,77,26,13,30,32,118,49,80,481,176,947,5,5,81,3,31,23,103,2,13,25,1,17,124,4,85,500,101,399,88,5,4,11,3,75,22,3,43,98,48,161,2
 Priority AI-relevant	7548
 Priority Action	16188
 Priority Action Lead Institution	17260
@@ -534,7 +543,7 @@ Priority Actions Hydroponics and Aeroponics	14818
 Priority Africa	10601,4591,558
 Priority Applicants	11314
 Priority Applications and Impact Areas The Indaba	13101
-Priority Area	970,234,11760,974,54,943,76,153
+Priority Area	970,234,11760,974,54,943,76,153,3784
 Priority Area Digital Financial	940
 Priority Area Number	15473
 Priority Area Number Eight	15473
@@ -570,6 +579,7 @@ Priority Districts	11890
 Priority Districts Critically Needing Coverage Counties	17239
 Priority Existence	11960
 Priority Financial	11960
+Priority High	18903
 Priority High High High Medium High	15480
 Priority High Low High Medium High	15480
 Priority High Medium Low Horizon Short-	15480
@@ -591,6 +601,7 @@ Priority Mobile	11960
 Priority National AI	7548
 Priority Outcomes Specific	396
 Priority Outcomes for Accelerating Human Capital	15059
+Priority PAPIRET Action Plan for Innovation and Reform	18931
 Priority Plan	2781
 Priority Priorities Uses Critical Needs	17157
 Priority Priority Priority IMPROVING SERVICE DELIVERY	14760
@@ -615,6 +626,7 @@ Priority Title	11960
 Priority Urban Planning Education Water and Sanitation	18476
 Priority Use Cases	3150,9060
 Priority Use Cases The Kenyan Government	12210
+Priority Use Cases for Seychelles	19079
 Priority for Botswana	12541
 Priority of Claims Outside of Insolvency	12389
 Priority of Labor and Environmental Claims	12389
@@ -647,7 +659,7 @@ Proposed Priority Actions	5677,9141
 Province Priority Total District Municipality	11986
 Province Priority Total District Municipality Service	11986
 Période Responsables Coût Priorisation	14488,1,1
-QCBS Prior	15372,39
+QCBS Prior	15372,39,3476
 QCBS Prior Technical	15411
 Qualifications Authority Adopt the National AI Priority	7548
 R-D Thématiques Prioritaires	2696
@@ -667,6 +679,7 @@ Reform Priorities Land	15473
 Reform Priority	13349
 Reforma Prioritária	18781
 Reformas Educativas Prioritárias	16268
+Reforme Prioritaire SDI	18942
 Refugee Financial Priority Financial Key Barriers	12297
 Regulatory Priorities Identified Adoption	5677
 Related Links Recognition of Prior Learning Verification	17226
@@ -687,6 +700,7 @@ SARB Is Prioritising Digital	6998
 SCP Priorités	15724
 SCP Priorités du PNDS	15724
 SCQ QCBS SSS Prior	15518
+SD6 Priority Areas	18921
 SECOND PRIORITY	18476
 SECOND PRIORITY Education	18476
 SECTEUR PRIORITE NOM E-SERVICE Santé	15936
@@ -720,6 +734,7 @@ Selected Public Service Prior	17180
 Seminario de Priorización	16898
 Setor de Educação Alta Prioridade Destaques	18781
 Sets New Priorities Gabon’s Ministry of Digital	8541
+Seychelles. Prior	18898
 Shaping Strategic Priorities	10776
 Shifting Fiscal Priorities	3176
 Short List of National Consultants Prior Category	11525

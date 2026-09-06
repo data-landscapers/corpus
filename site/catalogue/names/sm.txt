@@ -135,7 +135,7 @@ BUSH SMILES DENTAL CLINIC LIMITED Data	7167
 BYOD Android Smart Phones	34
 Banda Larga Móvel Small Screen	16558
 Bank Smart Africa Unesco African Union	9886
-Bank. Small	15372
+Bank. Small	15372,3515
 Bank’s Small States Strategy	18851
 Baraka Smiles Dental Limited Data Controller	7167
 Basic Phone Smartphone Feature Phone HOUSEHOLD	582
@@ -250,6 +250,7 @@ Curated Content Catalogue for Smart Africa	17287
 Currently the SMTD	17870
 Custom Smiles Dental Data Controller INST-972332AEACB	7167
 Custom Smiles Dental Data Processor INST-972332AEACB	7167
+Cybersecurity Training for SMEs	18903
 Cylinders Via Smart Meters	12256
 D S Through the GEF Small Grants	11586
 D SM	582
@@ -373,6 +374,7 @@ Enquête SMART	15724,2221
 Enquête SMART Appui	17844
 Enquête SMART Valeur	643
 Entebbe Airport Smuggling Ring Busted	3955
+Enterprise SMP Significant Market Power SNE	18931
 Entry-level Smartphone	17870
 Enugu Smart School Initiative	9117
 Enugu State Smart Green School	6211
@@ -390,6 +392,7 @@ Exclusion of SMEs	1248
 Executive Committee. Smart IZI	11591
 Expanding Access Beyond Smartphones AI	4625
 Exploitation Forestiere Centrafricaine SMEs Small and Medium	10841
+FAO Small-Scale Fisheries Guidelines	18984
 FDP-employing SMEs	10841
 FEATURES OF SMARTCARE PRO SmartCare Pro	2477
 FLDAS and SMAP	13094
@@ -599,10 +602,12 @@ Labor Intensive Small-Scale Public Infrastructure Works	15411
 Lagos Smart Health Information Platform	9444,2524
 Landlocked Developing Countries and Small Island Developing	10844,728,6551
 Large and Small Farms	2775
+Launch AI and Smart Classroom Initiatives URL	19053
 Launch Smart Surveillance Infrastructure	8520
 Launch of SmartCare Pro	2477
 Le CEO de Smart Africa	15699
 Le SMCa	15660
+Le SMPEC	18926
 Le Smart Wallet	3616
 Leading South African SME	11321
 Learn More Smart Invoice Registration Guide	12454
@@ -697,6 +702,7 @@ Minister of Small	16277
 Minister of Small and Medium-Sized Enterprises	10980
 Ministry for Promotion of Investments and SMEs	18016
 Ministry of Agriculture Weekly Via SMS	17157
+Ministry of Education Presents SMART Plan	18975
 Ministry of Finance and National Planning and SMART Zambia	13387
 Ministry of SME	16942
 Ministry of SMEs	15553
@@ -854,8 +860,9 @@ Power Smart City Vision	3101
 Power Smart City Vision Without	3101
 Prescribed Timeframes for Filling SMS Posts Within	11218
 President Brad Smith	2523
+President Smt. Pratibha Devi Singh Patil	18957
 Prevention of People Trafficking and People Smuggling	12910
-Prime Minister Smt. Indira Gandhi	13561
+Prime Minister Smt. Indira Gandhi	13561,5396
 Print Large Medium Small Chinese Ambassador	13309
 Private Sector SMEs	14997
 Procurement and Supplies Unit Smart Zambia Institute	13527
@@ -993,9 +1000,11 @@ SM for LAMISPlus	4301
 SM le Roi	8891
 SM le Roi Mohammed VI	17469
 SM-ICT	1840
+SM.POP.REFG	18933
 SM2RAIN	16135
 SMAC Social	14729
 SMAHS	17105
+SMALA	19108
 SMALL AND MEDIUM ENTERPRISES	940
 SMALL AND MEDIUM ENTERPRISES DEVELOPMENT	13420
 SMALL ISLAND DEVELOPING STATE	11004
@@ -1004,7 +1013,7 @@ SMAP Based	10763
 SMAP Institute	13990
 SMAP Radiometer	13094
 SMAP SAR	13094
-SMART	395,7214,3232,17,373,50,526,56,42,451,97,552,180,127,2,31,1407,9,25,136,225,395,182,990,1128,1,26,1,75
+SMART	395,7214,3232,17,373,50,526,56,42,451,97,552,180,127,2,31,1407,9,25,136,225,395,182,990,1128,1,26,1,75,1008
 SMART AFADs	14818
 SMART AFRICA	961,14622,2539
 SMART AFRICA ALLIANCE	1182,82,9555
@@ -1045,6 +1054,7 @@ SMART Office System	3088
 SMART Office System Include	3088
 SMART Office System Rollout	3088
 SMART Pillars	395
+SMART Plan	18975
 SMART Rwanda	3796
 SMART Rwanda Leveraging ICT	15034
 SMART Rwanda Master Plan	12359,2675
@@ -1268,6 +1278,7 @@ SMIC Adopted Standards and Metrology Institute for Islamic	16900
 SMIEEE	12926,2744,69
 SMIEEE Directeur Général	15670
 SMIEEE Rapport Annuel	15670
+SMIG. Pour le Chef	18923
 SMIIC	16103,797
 SMIIC Standard	16900
 SMILE	2400,40,1,1,305,373,300,442,1644,273,1345
@@ -1306,6 +1317,7 @@ SMP Licensee	8582
 SMP Operator The Authority	17212
 SMP-only	7368
 SMP-uplifted MRP. Ties	7368
+SMPEC	18926
 SMPand	17870
 SMQ DGI	10712
 SMR Zinc	13300
@@ -1515,6 +1527,7 @@ Small Claims Court Act	12543
 Small Claims Courts	9546,3410
 Small Claims Procedure	14847
 Small Commercial	12256
+Small Development Projects	18957
 Small E-money	15023
 Small Enterprise Development Finance Agency	8458
 Small Enterprise Development and Finance Agency	13269
@@ -1537,7 +1550,7 @@ Small Industrial Development Organization	7763
 Small Irrigation Management Information System	14002
 Small Irrigation Management Information System of Ethiopia	14002
 Small Island Developing Countries	11191
-Small Island Developing State	10348,984,237,2997,163,15,74,1165,2868
+Small Island Developing State	10348,984,237,2997,163,15,74,1165,2868,98,127
 Small Island Developing State Explore	18836
 Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622,734,790,176,10,21,20,1344,2212,446,74
 Small Island Developing States SIGMAT Regional	13042
@@ -1545,7 +1558,7 @@ Small Island Developing States. Education	8992
 Small Island Development States. UT and INIDA	15552
 Small Island State	14748
 Small Island States and Countries	14721
-Small Islands Developing States	13889
+Small Islands Developing States	13889,5066
 Small Language Model TIC	2816
 Small Language Models	3859
 Small Language Models Algorithms Small	12210
@@ -1596,7 +1609,7 @@ Small and Medium Enterprise Development and Infrastructure	1778,210
 Small and Medium Enterprise MSME Mobile Transfer	17235
 Small and Medium Enterprise NaFAA National Fisheries	17139
 Small and Medium Enterprise SDM Single Digital	16144
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922
 Small and Medium Enterprises Act	14843
 Small and Medium Enterprises Develop	14717
 Small and Medium Enterprises Development	940,6496,825,3041,2289,82
@@ -1618,6 +1631,7 @@ Small and Medium Enterprises and Animal Husbandry	16649
 Small and Medium Enterprises. ARTICLE	13326
 Small and Medium Enterprises. Even	7710
 Small and Medium Enterprises. Special	13122
+Small and Medium Entreprises NDC National Data	18931
 Small and Medium Scale Enterprises	8973
 Small and Medium Scale Enterprises Development Agency	12145
 Small and Medium Sized Enterprises	12210,2567
@@ -1791,13 +1805,14 @@ Smart City Summit and Expo	13132
 Smart City Surveillance	1250,3988,270,208
 Smart City Technology Company Ltd	3862
 Smart Civil Status Card Yes Sanad	10714
-Smart Classroom	11918,3246
+Smart Classroom	11918,3246,3915
 Smart Classrooms	18295
 Smart Click Africa	3658,2617,145,3959,2,310,2792
 Smart Climate-Controlled Units	14818
 Smart Co for Technology Projects and Artificial Intelligence	3826
 Smart Communication	12926
 Smart Communities	17717
+Smart Connect	18994
 Smart Construction	13474
 Smart Contracts	11869,342
 Smart Control	18444
@@ -1829,6 +1844,7 @@ Smart Education and Smart Health Programmes	13685
 Smart Energy and Grid	395
 Smart FAPEL Guinée GadhaSoft COGUIAPRES EOL	16693
 Smart FMHDSD	11857
+Smart Farming. LIMITATIONS TO THE METHODOLOGY	18910
 Smart Financial Solutions	10179
 Smart Fusion Trading	3386
 Smart GST	17607
@@ -2205,6 +2221,7 @@ Sub Inspector of Police SMF	14760
 Sub-Saharan Africa. Smartphone	11140
 Subscriber Identification Module SMS Short Message	12663
 Subscriber Identity Module SME Small Medium	14674
+Subscriber Identity Module SME Small and Medium-sized	18931
 Subscription Quarter-on-Quarter SMS	2776
 Subscription SMS Subscriptions Q3	2776
 Summary of SMART Zambia Mid-Year Press	12375

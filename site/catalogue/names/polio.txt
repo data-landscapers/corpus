@@ -1,5 +1,6 @@
 Circulating Vaccine-Derived Poliovirus Digital Health Agency	4153
 Coverage United States Government Wild Poliovirus	4153
+DCTCoq Polio	18926
 DTC-HepB-Hib Polio1 Pneumocoque Rotavirus Enfants	13300
 Digital Payment for Polio Campaigns Bill	2184
 Global Polio Eradication Initiative GWD	10776
@@ -27,7 +28,7 @@ Poliomielite	18768
 Poliomielite Inactivada The Washington Group	10777
 Poliomielite Vacina Contra	10777
 Poliomyelitis	16971
-Poliomyélite	14622
+Poliomyélite	14622,4528
 Résultat Cas de Polio	14622
 Suite DTC-HepB-Hib Polio1 Pneumocoque Rotavirus Enfants	13300
 VACCIN POLIO INJECTABLE VPI ROUTINE DTCoq-HEP.B-HIB	13300

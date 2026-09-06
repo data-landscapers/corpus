@@ -75,7 +75,7 @@ Etats du Sahel	6959,711,10333
 Falagountou Séno Sahel	15715
 Fanja Saholiarisoa Communication	15563
 G BANQUE SAHELO SAHARIENNE POUR L'INVESTISSEMENT	16623
-G5 Sahel	643,355,14552,71,122,2117,10,255
+G5 Sahel	643,355,14552,71,122,2117,10,255,842
 G5 Sahel CCDR	1264
 G5 Sahel Country Climate and Development Report	1264,16934
 G5 Sahel ICT Committee	17870
@@ -160,7 +160,7 @@ ONG ID Sahel Afrique	9866
 ONU Membre du G5 Sahel	17860
 ONU Membre du G5 Sahel Selon	17860
 OPPORTUNITY Saharan Africa	10995
-Observatoire du Sahara	17911
+Observatoire du Sahara	17911,1175
 Oudalan Sahel	15715
 Oursi Oudalan Sahel	15715
 PT-RM Sahel	18032
@@ -174,6 +174,8 @@ Pourcentage SAHEL	10847
 President Sahle-Work Zewde. Daniel Fikadu Law	12185
 President of Ethiopia Sahle-Work Zewde	12188
 Procurement SWEDD Sahel Women’s Empowerment and Demographic	16952
+Projet G5 Sahel	18942
+Projet SAHA WA TARBIA	18942
 Protocole la Confédération des Etats du Sahel	18003
 R SAHEL	10847
 R SAHEL OUDALAN	10847
@@ -289,7 +291,7 @@ Sahay S. Improving	771
 Sahay&volume	771
 Sahbaker	6259
 Saheb	11135
-Sahel	643,94,52,209,266,704,154,149,106,398,382,184,15,40,728,683,15,37,365,28,239,458,10,135,535,20,59,11,240,321,53,119,293,49,164,41,404,181,72,631,55,154,56,322,86,429,158,68,197,29,6,17,2,8,1,1,257,9,168,226,17,575,2076,797,453,103,155,3,5,23,202,81,358,348,217,47,21,1,223,120,44,261,5,146,12,22,5,4,10,3,6,4,2,9,2,1,9,3,2,20,3,7,3,5,13,4,17,4,3,42,10,12,3,6,11,3,27,18,3,6,11,5,1,17,2,30,1,2,9,3,22,3,1,3,13,11,2,34,8,27,22,16
+Sahel	643,94,52,209,266,704,154,149,106,398,382,184,15,40,728,683,15,37,365,28,239,458,10,135,535,20,59,11,240,321,53,119,293,49,164,41,404,181,72,631,55,154,56,322,86,429,158,68,197,29,6,17,2,8,1,1,257,9,168,226,17,575,2076,797,453,103,155,3,5,23,202,81,358,348,217,47,21,1,223,120,44,261,5,146,12,22,5,4,10,3,6,4,2,9,2,1,9,3,2,20,3,7,3,5,13,4,17,4,3,42,10,12,3,6,11,3,27,18,3,6,11,5,1,17,2,30,1,2,9,3,22,3,1,3,13,11,2,34,8,27,22,16,535,22,2,9,25,5,16,98,85
 Sahel AFRISTAT	10874
 Sahel ARGASC Agence de Gestion	6959
 Sahel Adaptive Social Protection MDTF	16435
@@ -336,9 +338,11 @@ Sahel TBA	18100
 Sahel Telecom	17896
 Sahel Tribune Accueil	17996
 Sahel Tribune URL	17996
+Sahel UNGEI	18942
 Sahel URL	17911,30,293
 Sahel Urbain	10875
 Sahel WomenEmpowerment and DemographicDividend	18100
+Sahel and Africa	18909
 Sahel and East Africa	16787
 Sahel and West Africa	15782
 Sahel and West Africa Countries	18234
@@ -362,7 +366,7 @@ Sahel. The State of Economic Inclusion Report	18301
 Sahel. Un	14239
 Sahel. Undertaking	17018
 Sahelcom	18105
-Sahelian	9456,5485,609,2299,120,324,8,8
+Sahelian	9456,5485,609,2299,120,324,8,8,622,2,121
 Sahelian Areas	10841
 Sahelian North	10964
 Sahelian Small Island Developing State	11965

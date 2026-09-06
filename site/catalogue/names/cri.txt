@@ -1,6 +1,7 @@
 A- Demand-Linkage Criteria Framework A1- Criteria	7548
 A- Renewable Energy Sourcing Criterion A1-	7548
 ACP Countries Computer Crime and Cybercrime	26
+ACT TO COMBAT CRIMINAL ACTIVITIES	18920
 ACTIONS FOR TREATING BROADBAND AS CRITICAL	16884
 ADDITIONAL CRITERIA ADDITIONAL CRITERIA	10976,898,472
 ADMINISTRATIVE DECISIONS AND CRIMINAL OFFENCES	12185
@@ -76,6 +77,7 @@ Award Criteria	13185,1581,314
 Award Criterion	3787
 B. Crianças	10777
 B. Crisis Preparedness Strategy and Arrangements	18198
+B. Crisis and Education-in-Emergencies	18911
 BACKGROUND TO THE GLOBAL FINANCIAL CRISIS	10
 BROADBAND AS CRITICAL INFRASTRUCTURE	16884
 BRR Barbuda Civil and Criminal Identification	10714
@@ -220,6 +222,8 @@ CRW Crisis Response Window CSO Civil	18578
 CRW-ERF Crisis Response Window	15190
 CSF Critical Success Factors CTI Computer	14965
 CYBER CRIMES ACT	2726
+CYBERCRIMES AND OTHER RELATED CRIMES	19034
+CYBERCRIMES AND OTHER RELATED CRIMES ACT	18920
 Caixa Económica de Cabo Verde Soeli Cristina	11955
 Cameroon. Criminal	10979
 Cameroonian Criminal Procedure Code	10979
@@ -273,6 +277,7 @@ Combating of Crime N	12984
 Committed Crimes	2775
 Committee Crisis Response Window Environmental and Social	1228
 Common Criteria	7346
+Commonwealth Symposium for Criminal Justice Officials	19007
 Commun Cult Crit	9739
 Communications Associate Cristina Godwin Rondo Project	17101
 Community Safety and Crime Prevention	14781
@@ -340,7 +345,7 @@ Criar Chatbots	2816
 Criar Sandboxes Reguladoras	15684,5
 Criativas	8385
 Criatividade	15564
-Criação	14,2802,1331,71,6536,1,28,577,11,39,3,30,1,72,16,37,332,120,749,29,24,1489,1047,167,9,149,10,218,110,303,162,606,1688,12,3,5
+Criação	14,2802,1331,71,6536,1,28,577,11,39,3,30,1,72,16,37,332,120,749,29,24,1489,1047,167,9,149,10,218,110,303,162,606,1688,12,3,5,168
 Criação Artigo	15450
 Criação Intelectual Ana Margarida Oliveira Dina	16325
 Criação Online de Empresa	12021
@@ -399,7 +404,7 @@ Crime and Corruption	11245
 Crime and Misdemeanour	14760
 Crime investigation	18486
 Crime-as-a-Service	11325
-Crimes	3519,7906,886,2449,102,2023,50
+Crimes	3519,7906,886,2449,102,2023,50,2099
 Crimes Act In Zimbabwe	13508
 Crimes Against Humanity	13948
 Crimes Category	14760
@@ -412,7 +417,7 @@ Crimes Reported	2775
 Crimes and Penalties ARTICLE	15484
 Crimes and Penalties Article	15492
 Criminais	10750
-Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64,730,67,389,161,213,455,916,387,554,66,606,276
+Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64,730,67,389,161,213,455,916,387,554,66,606,276,88
 Criminal Abortion	16935
 Criminal Act	10192
 Criminal Act. Saleh	10192
@@ -430,9 +435,10 @@ Criminal Attempt To Commit Rape	16935
 Criminal Attempt To Commit Suicide	16935
 Criminal Cap	13403
 Criminal Case Number	13040
+Criminal Case System	18970
 Criminal Cases	12920
 Criminal Civil	10750
-Criminal Code	27,931,14,10881,11,297,71,1087,189,1206,1,27,9,88,503,1616
+Criminal Code	27,931,14,10881,11,297,71,1087,189,1206,1,27,9,88,503,1616,1972
 Criminal Code Act of Mauritius. Section	14742
 Criminal Code of Equatorial Guinea	16958
 Criminal Code of The Gambia	17388
@@ -481,13 +487,14 @@ Criminal Matters	15374
 Criminal Matters Act	2726,1,1160,7303
 Criminal Matters Amendment Act	11188
 Criminal Mischief	16935
+Criminal Offences	19034
 Criminal Offences Act	587,16641
 Criminal Offences and Sanctions	12185
 Criminal Procedural	17388
 Criminal Procedure Act	2307,1407,509,860,6105,2,667,1102,4269,102,1147,222
 Criminal Procedure Act CEDAW	13033
 Criminal Procedure Act No	17388
-Criminal Procedure Code	10979,2424,1058,2869
+Criminal Procedure Code	10979,2424,1058,2869,1553,254,1
 Criminal Procedure Code Law	11857
 Criminal Procedure Law	9064
 Criminal Procedure and Evidence Act	972,7892,4447
@@ -549,10 +556,11 @@ Criscuolo	2816
 Crise	6959,1838,2078,689,4868,929,652,1,49
 Crise Climática	15962
 Crise Electrique	15702
-Crises	11356,2236,1447,153,1530,1310
+Crises	11356,2236,1447,153,1530,1310,879
 Crises Alimentaires	17886,218
 Crises URL	13592
-Crisis	1000,1093,2337,2517,2803,1091,139,156,220,1575,46,103,233,1583,446,373,1187,115,140,15,113,1176
+Crisis	1000,1093,2337,2517,2803,1091,139,156,220,1575,46,103,233,1583,446,373,1187,115,140,15,113,1176,450,143
+Crisis COUNTRY CASE STUDY	18911
 Crisis Cognition	7151
 Crisis Communications Plan	6946
 Crisis Conflict	10819
@@ -647,7 +655,7 @@ Criterion	3321,4227,9376
 Criterion How It’s Proven	15080
 Criterios	414,1287,15154
 Criterios Determinantes	16855
-Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702,408,115,15,29,8,91,17,79,85
+Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702,408,115,15,29,8,91,17,79,85,122,170
 Critical Alerts Should Never Auto-Diffuse	17969
 Critical Areas Seed Distribution Orange Alert	17157
 Critical Assessment Information	13477
@@ -682,7 +690,7 @@ Critical Information Infrastructure	958,42,535,2936,139,158,764,763,244,407,629,
 Critical Information Infrastructure CIRT	18485
 Critical Information Infrastructure CRASA	12759
 Critical Information Infrastructure Designation	6295,605
-Critical Information Infrastructure Protection	14729,199,1996,104
+Critical Information Infrastructure Protection	14729,199,1996,104,1875
 Critical Information Infrastructure of The Gambia	1000
 Critical Information Infrastructure. The ORC	9728
 Critical Information Protection	17028
@@ -739,6 +747,7 @@ Critical Raw Materials	970,12490,2397,1
 Critical Reading of Egypt's E-Government Experience	3271
 Critical Reflections	7493
 Critical Role	16858
+Critical Sectors	18903
 Critical Sectors for AI Implementation AI	11265
 Critical Skills	12734
 Critical Skills List DBE	6832
@@ -798,6 +807,7 @@ Critérios de Elegibilidade	11406
 Critérios de Entrada	11520
 Critérios de Seleção	16138
 Critérios de Seriação	17103
+Crizer Frederic Bristol	19049
 Criámos	16251
 Culture and Critique	11050
 Customs and Political Crime	10976
@@ -812,6 +822,7 @@ Cyber Crime and Data Protection Bills	13090
 Cyber Crimes Act	2726,1,4856,74,1759,800,1475,438,103,1276,729
 Cyber Crimes Act No	2746,2880,1682,275,74,6580
 Cyber Crimes Act and Cyber Security Act	8418
+Cyber Crimes Bill	18903
 Cyber Crimes Law	14921
 Cyber Crimes and Computer Abuse Act	5083
 Cyber Crimes and Computer Related Crimes Act	12586
@@ -820,7 +831,7 @@ Cyber Crises Management	15054
 Cyber Crisis	10721
 Cyber Crisis Incident Management	10721
 Cyber Crisis Management Incident Management	10721
-Cyber Crisis Management Plan	10721
+Cyber Crisis Management Plan	10721,8182
 Cyber Crisis Management Tier	10721
 Cyber Crisis NCC-CSIRT	10721
 Cyber Incident Reporting for Critical Infrastructure Act	6936
@@ -842,6 +853,8 @@ Cyber Security and Cyber Crimes Act No.2	12453,892
 Cyber Security and Cyber CrimesAct	2727
 Cyber Seeurity and Crime Act	18457
 Cybercrime and Computer Related Crimes Act	3887,8675
+Cybercrimes and Other Related Crimes	19034
+Cybercrimes and Other Related Crimes Act	19034
 Cybersecurity Crisis Management Plan	10721
 Cybersecurity Crisis Management Plan CIRMR-CCMP.S8	10721
 Cybersecurity Crisis Management Plan Plan	10721
@@ -918,7 +931,7 @@ Documentation Crisis Technical Constraints	12457
 Domaine Critères	18077
 Drought Crisis	17157
 Drug and Crime URR Upper River Region	17105
-Drugs and Crime	4810,528,332,1136,954,1591,265,2950,406,122,1648,983,477,741,94,897,934
+Drugs and Crime	4810,528,332,1136,954,1591,265,2950,406,122,1648,983,477,741,94,897,934,102,211
 Drugs and Crime Guinea-Bissau	11586
 Drugs and Crime UNSDCF United Nations Sustainable	15725
 Drugs and Crimes UNSDCF United Nations Sustainable	16943
@@ -974,6 +987,7 @@ Energy Crisis Committee	18795
 Environmental Crimes	2775
 Environmental Crimes Reported	2775
 Eskom Crime Line	11297,695
+Estabelecimento de Crit	18896
 Establish Criteria	12376
 Establishment of Criminal	10979
 Estatuto da Criança	15694
@@ -1066,6 +1080,7 @@ Genocide and Crimes Again	26
 Gestion des Crises	17873,45
 Gestion des Crises Alimentaires	17941
 Gestion des Crises EIE Etudes	17907
+Gestion des Crises. En	19006
 Global Crisis Response Framework	14456
 Global Financial Crisis	10
 Global Financial Crisis. Having	11027
@@ -1338,6 +1353,7 @@ Periodic Review Mandates and Evaluation Criteria	3861
 Plan de Protection des Infrastructures Critiques	15936
 Planned Action Critical Success	16884
 Planned Action Critical Success Factors	16885
+Police Crime Detection	18970
 Police Criminal Investigations Department	14698
 Police Dog Unit Crime	14760
 Police and Criminal Evidence Bill	14748
@@ -1368,6 +1384,7 @@ Priority Districts Critically Needing Coverage Counties	17239
 Priority Priorities Uses Critical Needs	17157
 Procedures and Criteria for Citizenship Determining Refugee	11986
 Procedures and Criteria for Determining Refugee	5533
+Proceeds of Crime	18883
 Proceeds of Crime and Anti-Money Laundering	12297
 Proceeds of Crime and Anti-Money Laundering Act	8180,4117
 Process Reporting Critical Factors	11131
@@ -1398,9 +1415,10 @@ Qualification Criteria and Requirements	1638
 Qualification Criteria. Requirements	13185
 Qualification Qualification Criteria	13185
 Qualifying Criteria	11240
-Quantitative Performance Criteria	17209,117
+Quantitative Performance Criteria	17209,117,1772
 REALISE Crisis Response Plan	17311
 REFORÇAR O SERVIÇO DE INVESTIGAÇÃO CRIMINAL	16487
+RELATED CRIMES ACT	19034
 REQUESTS FOR MODIFICATION OF PERFORMANCE CRITERIA	17326
 RESONANCE OF THE GLOBAL FINANCIAL CRISIS	10
 RETURN CRITICAL TO ANY	17423
@@ -1427,6 +1445,8 @@ Registo Criminal CIVIL E CRIMINAL Quem	10750,1
 Registration Criteria	14045
 Região Família Mulheres Homens Criança	18762
 Regras de Criação	4218
+Related Crimes	19034
+Related Crimes Act	18920
 Release Criteria Define	11952
 Removal of Critical Infrastructure	7538
 Replatform Critical	6432
@@ -1546,7 +1566,7 @@ Town Criers	18569
 Trans National Organized Crime	12984
 Transnational Organised Crime Unit	9077
 Transnational Organised Crime. Simultaneously	4583
-Transnational Organized Crime	3583,13291,1060
+Transnational Organized Crime	3583,13291,1060,980
 Transparency Crisis	17139
 Transparency.org Crimes	16943
 Transport License. CRIMINAL RECORD	12333

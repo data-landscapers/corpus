@@ -219,6 +219,7 @@ Central Bank Monetary Policy Rate	11976
 Central Bank Rate	2775,12248
 Central Bank of Liberia AVG SAVINGS RATE	17235
 Central Bank of Nigeria Monetary Policy Rate	11976
+Chad I. RATIFICATION OF UNESCO CONVENTIONS	18930
 Challenges Identified High Proportion Not Rated	17139
 Change Change Rate	17236
 Change Rate	17236
@@ -293,7 +294,7 @@ Créances Rattachées	15999
 Cultural Norms RATING OPPORTUNISTIC STAGE Technology	12214
 Current Affordability Affordability Ratio Ratio Cost	17239
 Current Ratings Part	16900
-Current Ratio	14997,26
+Current Ratio	14997,26,3956
 Current Ratio and Liquidity Ratio	14997
 Current Ratio and Liquidity Ratio Public Private	14997
 Current Satisfactory Overall Risk Rating	15737
@@ -466,7 +467,7 @@ Exchange Rate	3583,2825,6652,3906,269,1471
 Exchange Rate Development	17104
 Exchange Rate Developments	17235
 Exchange Rate Developments Following	12962
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26,36
 Exchange Rate Effective Dec	16032
 Exchange Rate Effective Oct	17458
 Exchange Rate Mechanism	17235
@@ -504,7 +505,7 @@ False Positive Rate	18724
 False Rejection Rate	10812
 Federal Democratic Republic of Ethiopia Ratifies	14001
 Female Beneficiaries Ratio	15578
-Fertility Rate	12151,232,30,242,17,2384
+Fertility Rate	12151,232,30,242,17,2384,4043
 Fertility Rate ASMR Age-Specific Mortality Rate	12413
 Fertility Rate NRR Net Reproduction Rate	16950
 Fertility Rate Poorest	18441
@@ -517,6 +518,7 @@ Financial Ratio Guidebook	16614
 Financial Report IRR Internal Rate of Return	16922
 Financial Services RATING SYSTEMATIC STAGE Malawi	12214
 First Restructuring Ratings Key Revisions Date	18825
+Fitch Ratings	19098
 Fitch Ratings.... Lifestyle Nollywood	13626
 Fitch and S&P Global Ratings	18561
 Fixed Base Rate	16219
@@ -753,6 +755,7 @@ KL STRUCTURES RATTACHEES V- GENDARMERIE NATIONALE	16100
 KMC's Rates Manager	17357
 KSA Rating Based	15713
 Kenya CBR Central Bank Rate CCF	2775
+Key Financial Ratios	18979
 Key Project Data and Ratings	12195
 Key Project Data and Ratings Original Project	18635
 Key Project Data and Ratings Project Data	13875
@@ -775,7 +778,7 @@ LOWEST RATES OF ELECTRIFICATION	11572
 La Ratio Alumno-Docente	16920
 Labour Force Participation Rate	12600,799
 Lack of Completion Rate Analysis	14546
-Last Approved Rating	11965,23,1932,1060,51,128,578,2396
+Last Approved Rating	11965,23,1932,1060,51,128,578,2396,849
 Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25
 Last Approved Rating Risk Category Proposed	18809
 Last ISR Operation Ratings NAME IMPLEMENTATION	18809
@@ -876,14 +879,14 @@ Mobile Voice Subscriptions and Penetration Rate3	2776
 Moderate Rationale	12376
 Moderately Satisfactory C.2 Detailed Ratings of Bank	16614
 Moderately Satisfactory IP Rating Satisfactory Satisfactory	16436
-Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462
+Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462,165
 Moderately Satisfactory. Achievement Rating	10779
 Moderately Unsatisfactory Overall Bank Performance Rating	10779
 Moderately Unsatisfactory Overall Risk Rating	2712,4216,9085
 Modest. Achievement Rating	10779
 Modest. C. EFFICIENCY Assessment of Efficiency and Rating	16436
 Modest. Rating Page	10779
-Monetary Policy Rate	7695,5837,3606,55,42,81,1,104
+Monetary Policy Rate	7695,5837,3606,55,42,81,1,104,1677
 Monetary Policy Rate and Treasury	14216
 Monetary Policy and Interest Rates	13123
 Monsieur ANDRIANANDRASANA Ratsihosena	14499,38
@@ -964,8 +967,8 @@ OECD Unemployment Rate	2775
 OS.4. Rationaliser	18121
 OSp.4.1.1. Rationaliser	15722
 OVERALL EFFICACY Rationale Objective	16960
-OVERALL RATINGS	13859,51,6,1,1114
-OVERALL RATINGS Name	11988,1932,136,924,179
+OVERALL RATINGS	13859,51,6,1,1114,4052
+OVERALL RATINGS Name	11988,1932,136,924,179,3823
 OVERALL RATINGS Name Current Progress	4688
 OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25
 OVERALL RATINGS Previous Current	11971,4108,915,85,879
@@ -1004,6 +1007,8 @@ Overall Risk Rating During Comments Implementation	15372
 Overall Risk Rating Jan	16079
 Overall Risk Rating Jun	16994
 Overall Risk Rating Moderately Satisfactory Moderately	18792
+OverallÂ RiskÂ RatingÂ	18887
+OverallÂ RiskÂ RatingÂ DuringÂ CommentsÂ PreparationÂ	18887
 Overview of Projects and Their Completion Rates NAME	13053
 P Global Ratings Confirms Rwanda's Credit	14873
 PDO3. Overall Efficacy Rating Moderately Unsatisfactory	10779
@@ -1117,7 +1122,7 @@ Proposed National Roaming Wholesale Rates	17212
 Proposed National Roaming Wholesale Rates Based	17212
 Proposed National Roaming Wholesale Rates Service	17212
 Proposed Rating	11965,1093,862,1111,159,3602
-Proposed Rating Political and Governance	6579,349,949,4111,2992,179,578,276,987,96,374,536,127,222,462
+Proposed Rating Political and Governance	6579,349,949,4111,2992,179,578,276,987,96,374,536,127,222,462,165
 Proposed Rating Political and Governance High High	15735
 Proposed Rating Political and Governance Low Moderate	18354
 Proposed Rating Political and Governance Moderate Moderate	13027
@@ -1146,6 +1151,7 @@ Quality of Supervision Rating Satisfactory Overall Bank	16960
 Quality-at-Entry Rating Satisfactory	14888,2072
 Quartier Ratoma	16646
 Question Rating Description	11916
+Quick Ratio	18979
 RAD Ratio Alumno-Docente RAL Ratio Alumno-Libro	16920
 RATE AVG PERSONAL LOAN RATE AVG	17235
 RATE Lowest	14760
@@ -1282,7 +1288,7 @@ Rathäuser	1533,687
 Ratifi	15380
 Ratificación	17089
 Ratificar	4146,14605
-Ratification	240,2385,2900,3278,4508,12,3,4,4,53,571,115,65,595,9,9,487,730,207,539,170,861,97,59,33,36,321
+Ratification	240,2385,2900,3278,4508,12,3,4,4,53,571,115,65,595,9,9,487,730,207,539,170,861,97,59,33,36,321,639
 Ratification Report	14671
 Ratification Status for Guinea-Bissau	11765
 Ratification and Signatories	11935
@@ -1298,17 +1304,17 @@ Ratified	1243,2618
 Ratified ECOWAS Supplementary Act	10908
 Ratified International Treaties	3861
 Ratifier	17745,115,19
-Ratifier la Convention	15968
+Ratifier la Convention	15968,2962
 Ratifiée	18118
 Ratify	1000,11453,2412,2086
-Ratify the Convention	14073,3897
+Ratify the Convention	14073,3897,942
 Ratify the Optional Protocol	17970
 Ratify the Reviewed National Treasury	14546
 Ratifying	16847,898
 Ratifying the AU	16884
 Ratifying the Convention	7102
 Ratifying the Malabo	969
-Rating	5247,1332,342,7,949,2993,261,3,721,39,30,47,17,240,39,173,120,467,31,862,212,741,107,51,128,265,239,72,2,21,201,24,30,66,821,94,6,79,17,3,161,210,35,344,109,4,44,127,217,4,1,118,336,8
+Rating	5247,1332,342,7,949,2993,261,3,721,39,30,47,17,240,39,173,120,467,31,862,212,741,107,51,128,265,239,72,2,21,201,24,30,66,821,94,6,79,17,3,161,210,35,344,109,4,44,127,217,4,1,118,336,8,165
 Rating Act.16	12369
 Rating Class EGDI Rank LOSI Rank	10840
 Rating Dimension Relevance of Objectives Efficacy	16436
@@ -1376,7 +1382,7 @@ Ration Cards	15663
 Rationa7l.4isinRgaOtionn-aPlriseimngisOe	10157
 Rational for Strategic Planning	12759
 Rational for Strategic Planning The Authority's Strategic	12759
-Rationale	1228,1205,40,306,2117,349,1187,400,716,1055,2160,16,50,436,595,6,39,2,303,30,136,68,90,5,135,247,425,1,2,46,473,573,223,97,29,22,64,39,7,141,861,960,38,38,51,94,44,136,156,1034,54
+Rationale	1228,1205,40,306,2117,349,1187,400,716,1055,2160,16,50,436,595,6,39,2,303,30,136,68,90,5,135,247,425,1,2,46,473,573,223,97,29,22,64,39,7,141,861,960,38,38,51,94,44,136,156,1034,54,358
 Rationale Behind the New Requirements Portrait	13477
 Rationale Improving	10779
 Rationale NSDP II	12674
@@ -1487,6 +1493,10 @@ Republic of Korea and Denmark. Rather	15073
 Research Network GER Gross Enrollment Rate	13991
 Reserve Requirements Ratios	17235
 Residual Rating Incorporated	15372
+Residual Rating Project Design Risk Inherent	18887
+Residual Rating Project Design Risk Internal	18887
+Residual Risk Rating Project Design Inherent	18887
+Residual Risk Rating Project Design Internal	18887
 Resilience Rating System. The Authority	6946
 Resilience. Phase One Implementation Rates H.E	16049
 Response Rate	17165
@@ -1522,6 +1532,7 @@ Risk-Based Governance Model Rationale	14565
 Risk-Free Rate	14997
 Risk-Free Rates Banking Day	16219
 Risks Overall Risk Rating	13970
+RiskÂ CategoryÂ RiskÂ RatingÂ RiskÂ DescriptionÂ	18887
 Riyadharsanee Rathoar Parsand	14797
 Room Rates	9031
 Royalties No. Mineral and Agriculture Royalty Rates	17011

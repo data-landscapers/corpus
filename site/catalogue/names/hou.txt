@@ -141,6 +141,8 @@ CUSTODIAN Ministry of Justice House of Parliament Presidency	1161
 Cameroon Household Survey	10985
 Cameroon Population and Housing	15810
 Cameroon. Opening Hours	15721
+Caravelle House	19100
+Care House	19025
 Carlton House	3386
 Cash NDMA-PR-12 Child Headed Household	12977
 Category D HOUSEWIFE	18541
@@ -236,6 +238,8 @@ Demographic and Household Survey	10829
 Demographic and Housing Survey	12962
 Demographic and Housing Surveys and Civil	12962
 Demographics Education Employment Housing Land	12498
+Department of Housing	19016
+Department of Lands and Housing	19096
 Deputy Minister of National Housing and Social Amenities	13591
 Development Index HIECS Household Income	15604
 Digital Houses	2550,3653,7692
@@ -280,6 +284,7 @@ Egypt Housing Profile	15473
 Egypt's House of Representatives	2848
 Egyptian Currency Printing House	7536
 Election House	6907
+Electricity House	18979
 Electricity Housing Assets Overcrowding Uemnployment Child	15244
 Electricity Housing Assets Overcrowding Unmployment Child	15244
 Elysée Aristide Houndetoungan	15474
@@ -708,6 +713,7 @@ Household Energy Access Cash for Gas	17971
 Household Energy Survey	11136
 Household Expenditure	2775
 Household Expenditure Survey	16902
+Household Final Consumption Expenditure	19038
 Household Funding	16852
 Household Head	15244,1677,193,13
 Household Head Sex Age	17114
@@ -816,7 +822,7 @@ Houses of Justice	11541
 Houses of JusticeJanvier	18305
 Houses of Parliament	3714,7516,59,1184,414,69,20,350
 Houses of Parliament. B. National Drought Policy	12977
-Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253,122,10,579,1,9,121,381,211,1057,76,56,60,63,207,40,3,226,576,138,715,14,19,12,167,35,111,1216,121,22,40,158
+Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253,122,10,579,1,9,121,381,211,1057,76,56,60,63,207,40,3,226,576,138,715,14,19,12,167,35,111,1216,121,22,40,158,134
 Housing Activities	16187
 Housing Allowance	13096
 Housing And Household Characteristics	16921
@@ -840,10 +846,13 @@ Housing Development Bank	15473
 Housing Electricity Drinking Water Sanitation Cooking	15244
 Housing Estates	14748
 Housing FTTx Fibre	11857
+Housing Finance Company Limited	18925
 Housing Finance Corporation STEM Science	17105
 Housing Finance Environment Education Water and Sanitation	18476
+Housing Government of Seychelles	18904
 Housing Health YOUR EXPERIENCE REIMAGINED	14752
 Housing Housing	15244
+Housing Loan	18888
 Housing Must	11285
 Housing Officer Housing and Urban Development	12972
 Housing Policy and Practice	6946
@@ -942,6 +951,7 @@ Houédako K. Tokandji. Ensemble	6221
 Houéto	10822
 Houéyogbé	6221,11363
 Hunger Scale The Household Hunger Scale	17285
+Hyderabad House	19063,1
 ICT FOR THE HOUSE	12971
 ICT House	11184
 ICT Household Indicators	3641,7783,6319
@@ -964,6 +974,8 @@ Idriss Houssein Abass	13866
 Incidence and Intensity for Household	15244
 Incidence and Intensity for Households	15244
 Inclusive Housing	15473
+Independence House	19040
+Independence House. Consultants	18965
 India House	13509
 Indicator Household Nationally	16922
 Indicator Name Unit of Measure Baseline Households	15601
@@ -1063,6 +1075,7 @@ Liberia Population and Housing Census URL	16921,29
 Liberia Population and Housing Census. Thematic Report	16144
 Liberian Household Social Registry	16876
 Liberian Population and Housing Census	16921
+Liberty House	18980
 Libya. Household Survey	16902
 Libyan Heritage House	17157
 Libyan House of Representatives	17378
@@ -1114,6 +1127,7 @@ MEMBERS. THE HOUSEHOLD HEAD SHOULD	17127
 MFEP SADEK Houari MINISTERE DES RELATIONS	15472
 MID-TERM POPULATION AND HOUSING CENSUS	18464
 MINISTRY OF HOUSING AND URBAN	13126
+MINISTRY OF LANDS AND HOUSING	18904
 MITD House	14847
 MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	4342,9429
 MOTION BUSINESS OF THE HOUSE HON	13591
@@ -1142,6 +1156,7 @@ Mapeera House	7875
 Marc Houreau	17579
 Marginalized Communities- Housing	12373
 Marlborough House	12619
+Maxime Houinato	19150
 Maximum Hours	12389
 Maître Adrien HOUNGBEDJI	15399
 Me Hounkponou	5842,74,336
@@ -1185,7 +1200,8 @@ Ministry of Housing and Urban Development	6273,4691,165,825,942,76,241,8,1
 Ministry of Housing and Utilities	17157
 Ministry of Housing’s New Urban Communities Authority	16480
 Ministry of Lands Housing and Country Planning	18476
-Ministry of Lands and Housing	2104,9617
+Ministry of Lands and Housing	2104,9617,7183
+Ministry of Lands and Housing GIS DATA SHARING	18904
 Ministry of Regional Local Government and Housing	12325
 Ministry of Urbanism and Housing	18198
 Ministry of Works and Housing	11129,4716
@@ -1361,7 +1377,7 @@ Poor Households	11924
 Poor and Vulnerable Households	16384
 Population Housing	16833
 Population and Housing	10765,10
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38,463,110
 Population and Housing Census Affar	14005
 Population and Housing Census Country Level	14005
 Population and Housing Census Dire Dawa	14005
@@ -1370,6 +1386,7 @@ Population and Housing Census Gambella	14005
 Population and Housing Census Harari	14005
 Population and Housing Census Main Report	12963,155
 Population and Housing Census Main Reports	14005
+Population and Housing Census QLFS Quarterly Labour	18951
 Population and Housing Census SNNPR	14005
 Population and Housing Census and National Energy Use	12551
 Population and Housing Census for Affar Region	14005
@@ -1389,6 +1406,7 @@ Pour le Dr Luciano HOUNKPONOU	4797
 Power Hour	12977
 Practical Guide for Population and Housing Censuses	16434
 Preparation Carlo Del Ninno Kouami Hounsinou	15601
+President State House	19133
 Presidential Military House	9399
 Pressure Remains Household	8482
 Prioritize Integrated Housing Policy	11285
@@ -1426,6 +1444,7 @@ REPORT OF THE MINISTRY OF HOUSING	13131
 RTB House	13461
 RTB House RFI	13461
 RTB House. DSPs	13461
+Ramatou Houtouin	19136
 Ramatou Mahamat Houtouin	5748,3533
 Ramatou Mahamat Houtouin. Elle	9281
 Ramzi Houidi	8565
@@ -1437,6 +1456,7 @@ Reconstruction and Housing Proposed Development Objective	15097
 Region Households Affected People Affected	12977
 Regional Household Infographics Explore	16330
 Report IHS Integrated Household Survey IR	16952
+Report.pdf Electricity House	18979
 Representatives of Media Houses	12660
 Republic The House of Representatives	15484
 Republic of Zambia State House LUSAKA Mr	13472
@@ -1471,6 +1491,7 @@ SAIDI Hours	12358
 SAME AS HOUSEHOLD HEAD LISTED	17127
 SAMPLING STRATEGY FOR THE HOUSEHOLD ENERGY	11136
 SAMPLING- DISTRIBUTION OF EAs AND HOUSEHOLDS	17285
+SCS House	18932
 SDH State Department for Housing SDR Special	2775
 SENATE AND HOUSE	16840
 SENATE AND THE HOUSE OF ASSEMBLY	12971
@@ -1518,6 +1539,7 @@ Sex of Household Head Female-headed	15244
 Sex of Household Head Male	15244
 Sex of Household Head Sudan	15244
 Sex of Household Head The MPI	15244
+Seychelles Population and Housing Census	18951
 Sheikh Zayed. Housing Minister Sherif El-Sherbiny	16004
 Ship House	7847
 Sierra Leone Integrated Household Survey. Statistics	18483
@@ -1564,7 +1586,7 @@ State Council. The House of Peoples’ Representatives	13948
 State Department for Housing	2428
 State Department for Housing Accommodation and Food Services	2775
 State Department for Housing and Urban Development	14546,85
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245,892,105
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245,892,105,440,82,68,9
 State House Auditorium	18269
 State House Cabinet	5318
 State House Construction	5658
@@ -1575,8 +1597,9 @@ State House Media and Communications	18568
 State House Media and Communications Unit	18546,1
 State House Media and Communications Unit Info	18572
 State House Nairobi	14535
+State House President Dr Patrick Herminie	19140
 State House Press Office	13410
-State House Seychelles	3364,3442,841
+State House Seychelles	3364,3442,841,11369,42,5,1,9,8,9,18,11,6,6,6,1,2,14,12,13,19
 State House Uganda	6247
 State House of Assembly	11976
 State House of Assembly. Executive Chairman	11976
@@ -1618,6 +1641,7 @@ Telecom House	15038,42,48
 Telecom House Building	14864
 Tenant Households Preferred Dwelling Units for Buying	2775
 Territorial Planning and Housing	16187
+Therese Colette Jeanette Houareau	19049
 Tokandji Houédako	6217
 Topics Keywords Agricultural Households Crop Production	17366
 Toussiana Houet Hauts-Bassins	15715
