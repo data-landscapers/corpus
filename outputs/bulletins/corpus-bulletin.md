@@ -1,10 +1,10 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 05-09-2026 at 22:16 — Covering sources published on 5 September 2026
+subtitle: Last updated 05-09-2026 at 22:16 — Covering sources published on 5 and 6 September 2026
 window_start: 2026-09-05
 window_end: 2026-09-06
-items: 12
+items: 13
 collected_to: 2026-09-05 22:16
 compiled: 2026-09-05 22:16
 ---
@@ -34,6 +34,7 @@ compiled: 2026-09-05 22:16
 <option value="ETH">Ethiopia</option>
 <option value="LBY">Libya</option>
 <option value="MDG">Madagascar</option>
+<option value="MRT">Mauritania</option>
 <option value="NGA">Nigeria</option>
 <option value="ZAF">South Africa</option>
 <option value="TZA">Tanzania</option>
@@ -45,6 +46,14 @@ compiled: 2026-09-05 22:16
 ## Governance
 
 ### Strategies, plans and policies
+
+<div class="bulletin-item" data-places="MRT" markdown="1">
+
+**[Stratégie Nationale de Paiement Numérique (SNPN)](https://fintech.bcm.mr/fr/ressources/SNPN/)** — Banque Centrale de Mauritanie, 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a>
+
+Mauritania's central bank publishes its National Digital Payment Strategy on its fintech portal, presented as a natural extension of the national financial inclusion strategy and aimed at widening access to financial services for rural and under-banked citizens. It sets five objectives: easing the regulation of payment and electronic-money institutions to attract fintech investment, rebuilding the digital payments infrastructure, modernising financial services around innovation, building adoption and use, and putting a governance system in place across the whole financial-digital sector. No implementation report or measured outturn against any of them appears on the page. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="CIV" markdown="1">
 
@@ -219,6 +228,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[طرابلس تستضيف مؤتمراً عربياً يبحث الثقافة المالية والذكاء الاصطناعي](https://alwasat.ly/news/476995)** — Bawabat Al-Wasat (alwasat.ly), 5 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBY/" title="LBY">Libya</a>
 
 Tripoli hosts the fifth Arab conference on saving and financial literacy from 7 to 9 September, with Arab and international financial institutions attending to discuss the sector's shift as digital services widen and artificial intelligence and cryptocurrencies grow. <span class="bulletin-item__also">*Also under [AI](#ai) and [Access to services](#access-to-services).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="MRT" markdown="1">
+
+**[Stratégie Nationale de Paiement Numérique (SNPN)](https://fintech.bcm.mr/fr/ressources/SNPN/)** — Banque Centrale de Mauritanie, 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
